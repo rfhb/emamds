@@ -1,20 +1,20 @@
 ---
-document_datetime: 2023-11-09 19:37:16
+document_datetime: 2026-05-08 15:44:53
 document_pages: 43
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/elebrato-ellipta-epar-product-information_en.pdf
 document_name: elebrato-ellipta-epar-product-information_en.pdf
 version: success
-processing_time: 8.230643
-conversion_datetime: 2025-12-22 16:59:22.37008
+processing_time: 9.0594033
+conversion_datetime: 2026-05-10 12:05:46.491931
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.17.0
+  docling-jobkit: 1.18.0
+  docling: 2.92.0
+  docling-core: 2.74.1
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.10.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -46,7 +46,7 @@ White powder in a light grey inhaler (Ellipta) with a beige mouthpiece cover and
 
 ## 4.1 Therapeutic indications
 
-Elebrato Ellipta is indicated as a maintenance treatment in adult patients with moderate to severe chronic obstructive pulmonary disease (COPD) who are not adequately treated by a combination of an inhaled corticosteroid and a long-acting β2-agonist or a combination of a long-acting β2-agonist and a long-acting muscarinic antagonist (for effects on symptom control and prevention of exacerbations see section 5.1).
+Elebrato Ellipta is indicated as a maintenance treatment in adult patients with moderate to severe chronic obstructive pulmonary disease (COPD) who are not adequately treated by a combination of an inhaled corticosteroid and a longacting β2 -agonist or a combination of a longacting β2 -agonist and a long-acting muscarinic antagonist (for effects on symptom control and prevention of exacerbations see section 5.1).
 
 ## 4.2 Posology and method of administration
 
@@ -66,11 +66,9 @@ No dose adjustment is required in patients 65 years of age or older (see section
 
 No dose adjustment is required in patients with renal impairment (see section 5.2).
 
-Hepatic impairment
+Hepatic impairment No dose adjustment is required in patients with mild, moderate or severe hepatic impairment. Elebrato Ellipta should be used with caution in patients with moderate to severe hepatic impairment (see sections 4.4 and 5.2).
 
 <div style=\"page-break-after: always\"></div>
-
-No dose adjustment is required in patients with mild, moderate or severe hepatic impairment. Elebrato Ellipta should be used with caution in patients with moderate to severe hepatic impairment (see sections 4.4 and 5.2).
 
 ## Paediatric population
 
@@ -264,42 +262,40 @@ Where adverse reaction frequencies differed between studies, the higher frequenc
 
 Adverse reactions are listed by MedDRA system organ class.
 
-The frequency of adverse reactions is defined using the following convention: very common (≥1/10); common (≥1/100 to &lt;1/10); uncommon (≥1/1 000 to &lt;1/100); rare (≥1/10 000 to &lt;1/1 000); very rare (&lt;1/10 000) and not known (cannot be estimated from available data).
+The frequency of adverse reactions is defined using the following convention: very common ( ≥ 1/10); common ( ≥ 1/100 to &lt;1/10); uncommon ( ≥ 1/1 000 to &lt;1/100); rare ( ≥ 1/10 000 to &lt;1/1 000); very rare (&lt;1/10 000) and not known (cannot be estimated from available data).
 
 <div style=\"page-break-after: always\"></div>
 
-| System Organ Class                              | Adverse reactions                                                                                                                                                       | Frequency   |
-|-------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
-| Infections and infestations                     | Pneumonia Upper respiratory tract infection Bronchitis Pharyngitis Rhinitis Sinusitis Influenza Nasopharyngitis Candidiasis of mouth and throat Urinary tract infection | Common      |
-| Infections and infestations                     | Viral respiratory tract infection                                                                                                                                       | Uncommon    |
-| Immune system disorders                         | Hypersensitivity reactions, including anaphylaxis, angioedema, urticaria, and rash                                                                                      | Rare        |
-| Metabolism and nutrition disorders              | Hyperglycaemia                                                                                                                                                          | Rare        |
-| Psychiatric disorders                           | Anxiety                                                                                                                                                                 | Rare        |
-| Nervous system disorders                        | Headache                                                                                                                                                                | Common      |
-| Nervous system disorders                        | Dysgeusia                                                                                                                                                               | Uncommon    |
-| Nervous system disorders                        | Tremor                                                                                                                                                                  | Rare        |
-| Eye disorders                                   | Vision blurred (see section 4.4) Glaucoma Eye pain                                                                                                                      | Uncommon    |
-| Eye disorders                                   | Intraocular pressure increased                                                                                                                                          | Rare        |
-| Cardiac disorders                               | Supraventricular tachyarrhythmia Tachycardia Atrial fibrillation                                                                                                        | Uncommon    |
-| Cardiac disorders                               | Palpitations                                                                                                                                                            | Rare        |
-| Respiratory, thoracic& mediastinal disorders    | Cough Oropharyngeal pain                                                                                                                                                | Common      |
-| Respiratory, thoracic& mediastinal disorders    | Dysphonia                                                                                                                                                               | Uncommon    |
-| Gastrointestinal disorders                      | Constipation                                                                                                                                                            | Common      |
-| Gastrointestinal disorders                      | Dry mouth                                                                                                                                                               | Uncommon    |
-| Musculoskeletal and connective tissue disorders | Arthralgia Back pain                                                                                                                                                    | Common      |
-| Musculoskeletal and connective tissue disorders | Fractures                                                                                                                                                               | Uncommon    |
-| Musculoskeletal and connective tissue disorders | Muscle spasms                                                                                                                                                           | Rare        |
-| Renal and urinary disorders                     | Urinary retention Dysuria                                                                                                                                               | Rare        |
+| System Organ Class                              | Adverse reactions                                                                                                                               | Frequency   |
+|-------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
+| Infections and infestations                     | Pneumonia Upper respiratory tract infection Bronchitis Pharyngitis Rhinitis Sinusitis Influenza Nasopharyngitis Candidiasis of mouth and throat | Common      |
+| Infections and infestations                     | Viral respiratory tract infection                                                                                                               | Uncommon    |
+| Immune system disorders                         | Hypersensitivity reactions, including anaphylaxis, angioedema, urticaria, and rash                                                              | Rare        |
+| Metabolism and nutrition disorders              | Hyperglycaemia                                                                                                                                  | Rare        |
+| Psychiatric disorders                           | Anxiety                                                                                                                                         | Rare        |
+| Nervous system disorders                        | Headache                                                                                                                                        | Common      |
+| Nervous system disorders                        | Dysgeusia                                                                                                                                       | Uncommon    |
+| Nervous system disorders                        | Tremor                                                                                                                                          | Rare        |
+| Eye disorders                                   | Vision blurred (see section 4.4) Glaucoma Eye pain                                                                                              | Uncommon    |
+| Eye disorders                                   | Intraocular pressure increased                                                                                                                  | Rare        |
+| Cardiac disorders                               | Supraventricular tachyarrhythmia Tachycardia Atrial fibrillation                                                                                | Uncommon    |
+| Cardiac disorders                               | Palpitations                                                                                                                                    | Rare        |
+| Respiratory, thoracic& mediastinal disorders    | Cough Oropharyngeal pain                                                                                                                        | Common      |
+| Respiratory, thoracic& mediastinal disorders    | Dysphonia                                                                                                                                       | Uncommon    |
+| Gastrointestinal disorders                      | Constipation                                                                                                                                    | Common      |
+| Gastrointestinal disorders                      | Dry mouth                                                                                                                                       | Uncommon    |
+| Musculoskeletal and connective tissue disorders | Arthralgia Back pain                                                                                                                            | Common      |
+| Musculoskeletal and connective tissue disorders | Fractures                                                                                                                                       | Uncommon    |
+| Musculoskeletal and connective tissue disorders | Muscle spasms                                                                                                                                   | Rare        |
+| Renal and urinary disorders                     | Urinary retention Dysuria                                                                                                                       | Rare        |
 
 ## Description of selected adverse reactions
 
 ## Pneumonia
 
-In a total of 1 810 patients with advanced COPD (mean post bronchodilatory screening FEV1 45% of predicted, standard deviation (SD) 13%), 65% of whom had experienced a moderate/severe COPD exacerbation in the year prior to study entry (study CTT116853), there was a higher incidence of pneumonia events reported up to 24 weeks in patients receiving Elebrato Ellipta (20 patients, 2%) than in patients receiving budesonide/formoterol (7 patients, &lt;1%).  Pneumonia which required hospitalisation occurred in 1% of patients receiving Elebrato Ellipta and &lt;1% of patients receiving budesonide/formoterol up to 24 weeks. One fatal case of pneumonia was reported in a patient who received Elebrato Ellipta. In the subset of 430 patients treated for up to 52 weeks, the incidence of pneumonia events reported in both Elebrato Ellipta and budesonide/formoterol arms was equal at 2%. The incidence of pneumonia with Elebrato Ellipta is
+In a total of 1 810 patients with advanced COPD (mean post bronchodilatory screening FEV1 45% of predicted, standard deviation (SD) 13%), 65% of whom had experienced a moderate/severe COPD exacerbation in the year prior to study entry (study CTT116853), there was a higher incidence of pneumonia events reported up to 24 weeks in patients receiving Elebrato Ellipta (20 patients, 2%) than in patients receiving budesonide/formoterol (7 patients, &lt;1%).  Pneumonia which required hospitalisation occurred in 1% of patients receiving Elebrato Ellipta and &lt;1% of patients receiving budesonide/formoterol up to 24 weeks. One fatal case of pneumonia was reported in a patient who received Elebrato Ellipta. In the subset of 430 patients treated for up to 52 weeks, the incidence of pneumonia events reported in both Elebrato Ellipta and budesonide/formoterol arms was equal at 2%. The incidence of pneumonia with Elebrato Ellipta is comparable with that observed in the fluticasone furoate/vilanterol (FF/VI) 100/25 arm of FF/VI clinical studies in COPD.
 
 <div style=\"page-break-after: always\"></div>
-
-comparable with that observed in the fluticasone furoate/vilanterol (FF/VI) 100/25 arm of FF/VI clinical studies in COPD.
 
 In a 52-week study, with a total of 10 355 patients with COPD and a history of moderate or severe exacerbations within the prior 12 months (mean post-bronchodilator screening FEV1 46% of predicted, SD 15%) (study CTT116855), the incidence of pneumonia was 8% (317 patients) for Elebrato Ellipta (n = 4 151), 7% (292 subjects) for fluticasone furoate/vilanterol (n = 4 134), and 5% (97 subjects) for umeclidinium/vilanterol (n = 2 070). Fatal pneumonia occurred in 12 of 4 151 patients (3.5 per 1 000 patientyears) receiving Elebrato Ellipta, 5 of 4 134 patients (1.7 per 1 000 patient-years) receiving fluticasone furoate/vilanterol, and 5 of 2 070 patients (2.9 per 1 000 patient-years) receiving umeclidinium/vilanterol.
 
@@ -333,11 +329,9 @@ Fluticasone furoate/umeclidinium/vilanterol is a combination of inhaled syntheti
 
 ## Fluticasone furoate
 
-Fluticasone furoate is a corticosteroid with potent anti-inflammatory activity. The precise mechanism through which fluticasone furoate affects COPD symptoms is not known. Corticosteroids have been shown
+Fluticasone furoate is a corticosteroid with potent anti-inflammatory activity. The precise mechanism through which fluticasone furoate affects COPD symptoms is not known. Corticosteroids have been shown to have a wide range of actions on multiple cell types (e.g. eosinophils, macrophages, lymphocytes) and mediators (e.g. cytokines and chemokines) involved in inflammation.
 
 <div style=\"page-break-after: always\"></div>
-
-to have a wide range of actions on multiple cell types (e.g. eosinophils, macrophages, lymphocytes) and mediators (e.g. cytokines and chemokines) involved in inflammation.
 
 ## Umeclidinium
 
@@ -357,7 +351,7 @@ No clinically relevant effects on the QTc interval were observed on review of ce
 
 ## Clinical efficacy and safety
 
-The efficacy of Elebrato Ellipta (92/55/22 micrograms), administered as a once-daily treatment, has been evaluated in patients with a clinical diagnosis of COPD in two, active-controlled studies and in a single, noninferiority study. All three studies were multicentre, randomised, double-blind studies that required patients to be symptomatic with a COPD Assessment Test (CAT) score  10 and on daily maintenance treatment for their COPD for at least three months prior to study entry.
+The efficacy of Elebrato Ellipta (92/55/22 micrograms), administered as a once-daily treatment, has been evaluated in patients with a clinical diagnosis of COPD in two, active-controlled studies and in a single, noninferiority study. All three studies were multicentre, randomised, double-blind studies that required patients to be symptomatic with a COPD Assessment Test (CAT) score ≥ 10 and on daily maintenance treatment for their COPD for at least three months prior to study entry.
 
 FULFIL (CTT116853) was a 24-week study (N=1 810), with an extension up to 52 weeks in a subset of subjects (n=430), that compared Elebrato Ellipta (92/55/22 micrograms) with budesonide/formoterol 400/12 micrograms (BUD/FOR) administered twice-daily. At screening, the mean post-bronchodilator percent predicted FEV1 was 45% and 65% of patients reported a history of one or more moderate/severe exacerbation in the past year.
 
@@ -365,11 +359,9 @@ IMPACT (CTT116855) was a 52-week study (N=10 355) that compared Elebrato Ellipta
 
 At study entry, the most common COPD medications reported in the FULFIL and IMPACT studies were ICS +LABA+LAMA (28%, 34% respectively), ICS+LABA (29%, 26% respectively), LAMA+LABA (10%, 8% respectively) and LAMA (9%, 7% respectively). These patients may have also been taking other COPD medications (e.g. mucolytics or leukotriene receptor antagonists).
 
-Study 200812 was a 24-week, non-inferiority study (N=1 055) that compared Elebrato Ellipta (92/55/22 micrograms) with FF/VI (92/22 micrograms) + UMEC (55 micrograms), co-administered once
+Study 200812 was a 24-week, non-inferiority study (N=1 055) that compared Elebrato Ellipta (92/55/22 micrograms) with FF/VI (92/22 micrograms) + UMEC (55 micrograms), co-administered once daily as a multi-inhaler therapy in patients with a history of moderate or severe exacerbations within the prior 12 months.
 
 <div style=\"page-break-after: always\"></div>
-
-daily as a multi-inhaler therapy in patients with a history of moderate or severe exacerbations within the prior 12 months.
 
 ## Lung function
 
@@ -377,24 +369,24 @@ In FULFIL, bronchodilatory effects with Elebrato Ellipta were evident on the fir
 
 Table 1. Lung function endpoint in FULFIL
 
-|                                                                  | Elebrato Ellipta (N= 911)   | BUD/FOR (N=899)   | Treatment difference (95% CI) Comparison with BUD/FOR   |
-|------------------------------------------------------------------|-----------------------------|-------------------|---------------------------------------------------------|
-| Trough FEV 1 (L) at week 24, LS mean change from baseline (SE) a | 0.142                       | -0.029            | 0.171                                                   |
-|                                                                  | (0.0083)                    | (0.0085)          | 0.148, 0.194                                            |
+|                                               | Elebrato Ellipta (N= 911)   | BUD/FOR (N=899)   | Treatment difference (95% CI) Comparison with BUD/FOR   |
+|-----------------------------------------------|-----------------------------|-------------------|---------------------------------------------------------|
+| Trough FEV 1 (L) at week 24, LS mean change a | 0.142                       | -0.029            | 0.171                                                   |
+| from baseline (SE)                            | (0.0083)                    | (0.0085)          | 0.148, 0.194                                            |
 
-FEV1=forced expiratory volume in 1 second;   L=litres; LS=least squares; SE= standard error, N=number in the intent-totreat population; CI= confidence interval,  a  Statistically significant treatment difference for FF/UMEC/VI vs. BUD/FOR also observed at the other assessment timepoints (weeks 2, 4 and 12).
+FEV1=forced expiratory volume in 1 second; L=litres; LS=least squares; SE= standard error, N=number in the intent-totreat population; CI= confidence interval, a  Statistically significant treatment difference for FF/UMEC/VI vs. BUD/FOR also observed at the other assessment timepoints (weeks 2, 4 and 12).
 
 In IMPACT, Elebrato Ellipta significantly improved (p&lt;0.001) lung function when compared with FF/VI and UMEC/VI over a 52-week period (See Table 2).
 
 Table 2 - Lung function endpoint in IMPACT
 
-|                                                           |                              |                   | UMEC/VI     | Treatment difference 95% CI   | Treatment difference 95% CI     |
-|-----------------------------------------------------------|------------------------------|-------------------|-------------|-------------------------------|---------------------------------|
-|                                                           | Elebrato Ellipta (N = 4 151) | FF/VI (N = 4 134) | (N = 2 070) | Comparison Elebrato vs. FF/VI | Comparison Elebrato vs. UMEC/VI |
-| Trough FEV 1 (L) at week 52, LS mean change from baseline | 0.094                        | -0.003            | 0.040       | 0.097                         | 0.054                           |
-| (SE) a                                                    | (0.004)                      | (0.004)           | (0.006)     | 0.085, 0.109                  | 0.039, 0.069                    |
+|                                                           |                              |                   |                     | Treatment difference 95% CI   | Treatment difference 95% CI     |
+|-----------------------------------------------------------|------------------------------|-------------------|---------------------|-------------------------------|---------------------------------|
+|                                                           | Elebrato Ellipta (N = 4 151) | FF/VI (N = 4 134) | UMEC/VI (N = 2 070) | Comparison Elebrato vs. FF/VI | Comparison Elebrato vs. UMEC/VI |
+| Trough FEV 1 (L) at week 52, LS mean change from baseline | 0.094                        | -0.003            | 0.040               | 0.097                         | 0.054                           |
+| (SE) a                                                    | (0.004)                      | (0.004)           | (0.006)             | 0.085, 0.109                  | 0.039, 0.069                    |
 
-FEV1= forced expiratory volume in 1 second; L= litres; LS=least squares;   SE= standard error; N= number in the intentto-treat population; CI= confidence interval; a Statistically significant treatment differences for FF/UMEC/VI vs. FF/VI and FF/UMEC/VI vs. UMEC/VI were also observed at the other assessment timepoints (weeks 4, 16, 28, and 40) .
+FEV1= forced expiratory volume in 1 second; L= litres; LS=least squares; SE= standard error; N= number in the intentto-treat population; CI= confidence interval; a Statistically significant treatment differences for FF/UMEC/VI vs. FF/VI and FF/UMEC/VI vs. UMEC/VI were also observed at the other assessment timepoints (weeks 4, 16, 28, and 40) .
 
 In Study 200812, Elebrato Ellipta was non-inferior compared with FF/VI+UMEC, co-administered in two inhalers, in the improvement from baseline in trough FEV1 at week 24. The pre-specified non-inferiority margin was 50 mL.
 
@@ -404,15 +396,13 @@ In IMPACT, over 52 weeks, Elebrato Ellipta significantly reduced (p&lt;0.001) th
 
 In IMPACT, Elebrato Ellipta prolonged the time to first moderate/severe exacerbation and significantly decreased (p&lt;0.001) the risk of a moderate/severe exacerbation, as measured by time to first exacerbation, compared with both FF/VI (14.8%; 95% CI: 9.3, 19.9) and UMEC/VI (16.0%; 95% CI: 9.4, 22.1). In FULFIL, Elebrato Ellipta significantly decreased the risk of a moderate/severe exacerbation compared with BUD/FOR over 24 weeks (33%; 95% CI: 12, 48; p=0.004).
 
-In IMPACT, treatment with Elebrato Ellipta reduced the annual rate of severe exacerbations (i.e., requiring hospitalisation or resulting in death) by 13% compared with FF/VI (95% CI: -1, 24; p=0.064). Treatment
+In IMPACT, treatment with Elebrato Ellipta reduced the annual rate of severe exacerbations (i.e., requiring hospitalisation or resulting in death) by 13% compared with FF/VI (95% CI: -1, 24; p=0.064). Treatment with Elebrato Ellipta significantly reduced the annual rate of severe exacerbations by 34% compared with UMEC/VI (95% CI: 22, 44; p&lt;0.001).
 
 <div style=\"page-break-after: always\"></div>
 
-with Elebrato Ellipta significantly reduced the annual rate of severe exacerbations by 34% compared with UMEC/VI (95% CI: 22, 44; p&lt;0.001).
-
 ## Health-related quality of life
 
-Elebrato Ellipta significantly improved (p&lt;0.001) Health Related Quality of Life (as measured by the St George's Respiratory Questionnaire [SGRQ] total score) in both FULFIL (week 24) when compared with BUD/FOR (-2.2 units; 95% CI: -3.5, -1.0) and IMPACT (week 52) when compared with FF/VI (-1.8   units; 95% CI: -2.4, -1.1) and UMEC/VI (-1.8 units; 95% CI: -2.6, -1.0).
+Elebrato Ellipta significantly improved (p&lt;0.001) Health Related Quality of Life (as measured by the St George's Respiratory Questionnaire [SGRQ] total score) in both FULFIL (week 24) when compared with BUD/FOR (-2.2 units; 95% CI: -3.5, -1.0) and IMPACT (week 52) when compared with FF/VI (-1.8 units; 95% CI: -2.4, -1.1) and UMEC/VI (-1.8 units; 95% CI: -2.6, -1.0).
 
 A higher percentage of patients receiving Elebrato Ellipta responded with a clinically meaningful improvement in SGRQ total score in FULFIL at week 24 compared with BUD/FOR (50% and 41% respectively), odds ratios of response vs. non-response (OR) (1.41; 95% CI: 1.16, 1.70) and in IMPACT at week 52 compared with FF/VI and UMEC/VI (42%, 34% and 34% respectively), OR vs. FF/VI (1.41; 95% CI:1.29, 1.55) and OR vs. UMEC/VI (1.41; 95% CI: 1.26, 1.57); all treatment comparisons were statistically significant (p&lt;0.001).
 
@@ -432,11 +422,11 @@ In IMPACT, Elebrato Ellipta significantly reduced (p&lt;0.001) the use of rescue
 
 ## Nighttime awakenings
 
-In IMPACT, Elebrato Ellipta statistically significantly reduced the mean number of nighttime awakenings due to COPD compared with FF/VI (-0.05; 95% CI: -0.08, -0.01; p=0.005) and with UMEC/VI (-0.10; 95% CI: -0.14, -0.05; p&lt;0.001) at weeks 49 to 52. Significant reductions were observed over all other timepoints for UMEC/VI (p&lt;0.001) and for the all but two of the of timepoints for FF/VI (p≤0.021).
+In IMPACT, Elebrato Ellipta statistically significantly reduced the mean number of nighttime awakenings due to COPD compared with FF/VI (-0.05; 95% CI: -0.08, -0.01; p=0.005) and with UMEC/VI (-0.10; 95% CI: -0.14, -0.05; p&lt;0.001) at weeks 49 to 52. Significant reductions were observed over all other timepoints for UMEC/VI (p&lt;0.001) and for the all but two of the of timepoints for FF/VI ( p≤0.021 ).
 
 ## Paediatric population
 
-The European Medicines Agency has waived the obligation to submit the results of studies with  Elebrato Ellipta in all subsets of the paediatric population in COPD (see section 4.2 for information on paediatric use).
+The European Medicines Agency has waived the obligation to submit the results of studies with Elebrato Ellipta in all subsets of the paediatric population in COPD (see section 4.2 for information on paediatric use).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -550,7 +540,7 @@ Fluticasone furoate was not genotoxic in a standard battery of studies and was n
 
 ## Umeclidinium
 
-Umeclidinium was not genotoxic in a standard battery of studies and was not carcinogenic in lifetime inhalation studies in mice or rats at exposures  20- or  17- fold the human clinical exposure at a daily dose of 55 micrograms umeclidinium, based on AUC respectively.
+Umeclidinium was not genotoxic in a standard battery of studies and was not carcinogenic in lifetime inhalation studies in mice or rats at exposures ≥ 20- or ≥ 17- fold the human clinical exposure at a daily dose of 55 micrograms umeclidinium, based on AUC respectively.
 
 ## Vilanterol
 
@@ -576,11 +566,9 @@ Vilanterol was not teratogenic in rats. In inhalation studies in rabbits, vilant
 
 ## 6.1 List of excipients
 
-Lactose monohydrate
+Lactose monohydrate Magnesium stearate
 
 <div style=\"page-break-after: always\"></div>
-
-Magnesium stearate
 
 ## 6.2 Incompatibilities
 
@@ -624,7 +612,9 @@ It is not possible to accidentally take an extra dose or a double dose in one in
 
 <div style=\"page-break-after: always\"></div>
 
-Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
+Any unused medicinal product or waste material should be disposed of in accordance with local
+
+requirements.
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
@@ -652,7 +642,10 @@ Detailed information on this medicinal product is available on the website of th
 
 ## ANNEX II
 
-- A. MANUFACTURER RESPONSIBLE FOR BATCH RELEASE B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
+- A. MANUFACTURER RESPONSIBLE FOR BATCH RELEASE
+- B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
+- C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
+- D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
 <div style=\"page-break-after: always\"></div>
 
@@ -660,7 +653,9 @@ Detailed information on this medicinal product is available on the website of th
 
 Name and address of the manufacturer responsible for batch release
 
-Glaxo Wellcome Production Zone Industrielle No.2 23 Rue Lavoisier 27000 Evreux France
+Glaxo Wellcome Production Zone Industrielle No.2 23 Rue Lavoisier 27000 Evreux
+
+France
 
 The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.
 
@@ -749,8 +744,6 @@ In use shelf-life: 6 weeks.
 
 Discard by:
 
-<div style=\"page-break-after: always\"></div>
-
 ## 9. SPECIAL STORAGE CONDITIONS
 
 Do not store above 30°C.
@@ -800,6 +793,8 @@ elebrato ellipta
 PC
 
 SN
+
+<div style=\"page-break-after: always\"></div>
 
 NN
 
@@ -993,7 +988,8 @@ Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
 15. INSTRUCTIONS ON USE
-16. INFORMATION IN BRAILLE
+
+## 16. INFORMATION IN BRAILLE
 
 elebrato ellipta
 
@@ -1027,7 +1023,9 @@ Lot
 
 Do not open until ready to inhale. In use shelf-life: 6 weeks.
 
-14 doses 30 doses
+14 doses
+
+30 doses
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1082,8 +1080,7 @@ Lot
 4. Possible side effects
 5. How to store Elebrato Ellipta
 6. Contents of the pack and other information
-
-Step-by-step instructions
+7. Step-by-step instructions
 
 ## 1. What Elebrato Ellipta is and what it is used for
 
@@ -1347,35 +1344,35 @@ For any information about this medicine, please contact the local representative
 
 ## België/Belgique/Belgien
 
-GlaxoSmithKline Pharmaceuticals s.a./n.v.
+## Lietuva
 
-Tél/Tel: + 32 (0) 10 85 52 00
+GlaxoSmithKline Pharmaceuticals s.a./n.v. Tél/Tel: + 32 (0) 10 85 52 00
+
+UAB 'BERLIN-CHEMIE MENARINI BALTIC' Tel: + 370 52 691 947 lt@berlin-chemie.com
 
 ## България
 
-'Берлин-Хеми/А. Менарини България' EООД Teл.: + 359 2 454 0950 bcsofia@berlin-chemie.com
-
-## Česká republika
-
-## Lietuva
-
-UAB 'BERLIN-CHEMIE MENARINI BALTIC' Tel: + 370 52 691 947 lt@berlin-chemie.com
+' Берлин - Хеми/А. Менарини България' EООД Teл.: + 359 2 454 0950 bcsofia@berlin-chemie.com
 
 ## Luxembourg/Luxemburg
 
 GlaxoSmithKline Pharmaceuticals s.a./n.v. Belgique/Belgien Tél/Tel: + 32 (0) 10 85 52 00
 
-## Magyarország
+## Česká republika
 
 GlaxoSmithKline, s.r.o.
 
-Tel: + 420 222 001 111 cz.info@gsk.com
+Tel: + 420 222 001 111
+
+cz.info@gsk.com
+
+## Magyarország
 
 Berlin-Chemie/A. Menarini Kft. Tel.: + 36 23501301 bc-hu@berlin-chemie.com
 
 ## Danmark
 
-GlaxoSmithKline Pharma A/S Tlf: + 45 36 35 91 00 dk-info@gsk.com
+GlaxoSmithKline Pharma A/S Tlf.: + 45 36 35 91 00 dk-info@gsk.com
 
 ## Malta
 
@@ -1383,7 +1380,7 @@ GlaxoSmithKline Trading Services Limited Tel: + 356 80065004
 
 ## Deutschland
 
-Berlin-Chemie AG
+BERLIN-CHEMIE AG
 
 Tel: +49 (0) 30 67070
 
@@ -1399,7 +1396,7 @@ OÜ Berlin-Chemie Menarini Eesti Tel: + 372 667 5001 ee@berlin-chemie.com
 
 ## Ελλάδα
 
-Guidotti Hellas A.E. Τηλ: + 30 210 8316111-13
+Guidotti Hellas A.E. Τηλ : + 30 210 8316111-13
 
 ## España
 
@@ -1419,7 +1416,9 @@ GlaxoSmithKline (Ireland) Limited Tel: + 353 (0)1 4955000
 
 ## Ísland
 
-Vistor hf. Sími:  +354 535 7000
+Vistor ehf.
+
+Sími:  +354 535 7000
 
 ## Italia
 
@@ -1441,7 +1440,9 @@ SIA Berlin-Chemie/Menarini Baltic Tel: + 371 67103210 lv@berlin-chemie.com
 
 ## Norge
 
-GlaxoSmithKline AS Tlf: + 47 22 70 20 00
+GlaxoSmithKline AS
+
+Tlf: + 47 22 70 20 00
 
 ## Österreich
 
@@ -1455,7 +1456,7 @@ Tel.: + 48 (0)22 576 9000
 
 ## Portugal
 
-BIAL, Portela &amp; Ca. SA. Tel: + 351 22 986 61 00 info@bial.com
+BIAL, Portela &amp; Ca. SA. Tel: + 351 22 986 61 00
 
 ## România
 
@@ -1475,15 +1476,7 @@ GlaxoSmithKline Oy Puh/Tel: + 358 (0)10 30 30 30
 
 ## Sverige
 
-GlaxoSmithKline AB Tel: + 46 (0)8 638 93 00 info.produkt@gsk.com
-
-## United Kingdom (Northern Ireland)
-
-GlaxoSmithKline Trading Services Limited Tel: + 44 (0)800 221441 customercontactuk@gsk.com
-
-<div style=\"page-break-after: always\"></div>
-
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
+GlaxoSmithKline AB Tel: + 46 (0)8 638 93 00 info.produkt@gsk.com Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1553,15 +1546,14 @@ You may not be able to taste or feel the medicine, even when you are using the i
 
 If you want to clean the mouthpiece, use a dry tissue , before you close the cover.
 
-## 4) Close the inhaler and rinse your mouth
-
+- 4) Close the inhaler and rinse your mouth
 - Slide the cover upwards as far as it will go, to cover the mouthpiece.
 
 <div style=\"page-break-after: always\"></div>
 
 <!-- image -->
 
-- •
+- ·
 - Rinse your mouth with water after you have used the inhaler, do not swallow.
 
 This will make it less likely that you will develop a sore mouth or throat as side effects.

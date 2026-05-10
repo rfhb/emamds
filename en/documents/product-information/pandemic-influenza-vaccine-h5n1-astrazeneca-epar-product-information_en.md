@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-12-10 14:09:23
+document_datetime: 2026-05-08 12:45:33
 document_pages: 31
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/pandemic-influenza-vaccine-h5n1-astrazeneca-epar-product-information_en.pdf
 document_name: pandemic-influenza-vaccine-h5n1-astrazeneca-epar-product-information_en.pdf
 version: success
-processing_time: 8.0805888
-conversion_datetime: 2025-12-26 20:30:21.612089
+processing_time: 7.9414509
+conversion_datetime: 2026-05-10 12:36:20.690027
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.17.0
+  docling-jobkit: 1.18.0
+  docling: 2.92.0
+  docling-core: 2.74.1
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.10.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -172,21 +172,15 @@ Clinical studies have evaluated the incidence of adverse reactions in 59 adults 
 
 The most common adverse reactions observed in clinical studies conducted with the Pandemic influenza vaccine H5N1 AstraZeneca in healthy adults was headache (25.4%) and upper respiratory infection (10.2%).
 
-Paediatric population
-
 <div style=\"page-break-after: always\"></div>
+
+## Paediatric population
 
 ## List of adverse reactions
 
 From clinical studies and post-marketing surveillance with T/LAIV and Fluenz Tetra in over 110,000 children and adolescents 2 to 17 years of age, the following adverse reaction frequencies are reported: Very common (≥ 1/10)
 
-Common (≥ 1/100 to &lt; 1/10)
-
-Uncommon (≥ 1/1,000 to &lt; 1/100)
-
-Rare (≥ 1/10,000 to &lt; 1/1,000)
-
-Very rare (&lt; 1/10,000)
+Common (≥ 1/100 to &lt; 1/10) Uncommon (≥ 1/1,000 to &lt; 1/100) Rare (≥ 1/10,000 to &lt; 1/1,000) Very rare (&lt; 1/10,000)
 
 ## Immune system disorders
 
@@ -194,7 +188,7 @@ Uncommon: Hypersensitivity reactions (including facial oedema, urticaria and ver
 
 Metabolism and nutrition disorders Very common: Decreased appetite
 
-Nervous system disorders
+## Nervous system disorders
 
 Common: Headache
 
@@ -206,7 +200,9 @@ Uncommon: Epistaxis
 
 Skin and subcutaneous tissue disorders Uncommon: Rash
 
-Musculoskeletal and connective tissue disorders Common: Myalgia
+## Musculoskeletal and connective tissue disorders
+
+Common: Myalgia
 
 ## General disorders and administration site conditions
 
@@ -282,22 +278,22 @@ T/LAIV's efficacy data in the paediatric population consist of 9 controlled stud
 
 Table 1 T/LAIV efficacy in placebo controlled paediatric studies
 
-| Study number   | Region                               | Age range a   | Number of study participants b   | Influenza season   | Efficacy (95% CI) c matched strains   | Efficacy (95% CI) c all strains regardless of match   |
+| Study number   | Region                               | Age range a   |   Number of study participants b | Influenza season   | Efficacy (95% CI) c matched strains   | Efficacy (95% CI) c all strains regardless of match   |
 |----------------|--------------------------------------|---------------|----------------------------------|--------------------|---------------------------------------|-------------------------------------------------------|
-| D153-P502      | Europe                               | 6 to 35M      | 1,616                            | 2000-2001          | 85.4% (74.3, 92.2)                    | 85.9% (76.3, 92.0)                                    |
-| D153-P502      | Europe                               | 6 to 35M      | 1,090                            | 2001-2002          | 88.7% (82.0, 93.2)                    | 85.8% (78.6, 90.9)                                    |
-| D153-P504      | Africa, Latin America                | 6 to 35M      | 1,886                            | 2001               | 73.5% (63.6, 81.0) d                  | 72.0% (61.9, 79.8) d                                  |
-| D153-P504      | Africa, Latin America                | 6 to 35M      | 680                              | 2002               | 73.6% (33.3, 91.2)                    | 46.6% (14.9, 67.2)                                    |
-| D153-P513      | Asia/ Oceania                        | 6 to 35M      | 1,041                            | 2002               | 62.2% (43.6, 75.2)                    | 48.6% (28.8, 63.3)                                    |
-| D153-P522      | Europe, Asia/ Oceania, Latin America | 11 to 24M     | 1,150                            | 2002-2003          | 78.4% (50.9, 91.3)                    | 63.8% (36.2, 79.8)                                    |
+| D153-P502      | Europe                               | 6 to 35M      |                            1,616 | 2000-2001          | 85.4% (74.3, 92.2)                    | 85.9% (76.3, 92.0)                                    |
+| D153-P502      | Europe                               | 6 to 35M      |                            1,090 | 2001-2002          | 88.7% (82.0, 93.2)                    | 85.8% (78.6, 90.9)                                    |
+| D153-P504      | Africa, Latin America                | 6 to 35M      |                            1,886 | 2001               | 73.5% (63.6, 81.0) d                  | 72.0% (61.9, 79.8) d                                  |
+| D153-P504      | Africa, Latin America                | 6 to 35M      |                              680 | 2002               | 73.6% (33.3, 91.2)                    | 46.6% (14.9, 67.2)                                    |
+| D153-P513      | Asia/ Oceania                        | 6 to 35M      |                            1,041 | 2002               | 62.2% (43.6, 75.2)                    | 48.6% (28.8, 63.3)                                    |
+| D153-P522      | Europe, Asia/ Oceania, Latin America | 11 to 24M     |                            1,150 | 2002-2003          | 78.4% (50.9, 91.3)                    | 63.8% (36.2, 79.8)                                    |
 
 <div style=\"page-break-after: always\"></div>
 
-| D153-P501   | Asia/ Oceania   | 12 to 35M   | 2,764   | 2000-2001   | 72.9% (62.8, 80.5) 84.3%   | 70.1% (60.9, 77.3) 64.2%   |
+| D153-P501   | Asia/ Oceania   | 12 to 35M   |   2,764 | 2000-2001   | 72.9% (62.8, 80.5) 84.3%   | 70.1% (60.9, 77.3) 64.2%   |
 |-------------|-----------------|-------------|---------|-------------|----------------------------|----------------------------|
-| D153-P501   | Asia/ Oceania   | 12 to 35M   | 1,265   | 2001-2002   | (70.1, 92.4) e             | (44.2, 77.3) e             |
-| AV006       | USA             | 15 to 71M   | 1,259   | 1996-1997   | 93.4% (87.5, 96.5)         | 93.4% (87.5, 96.5)         |
-| AV006       | USA             | 15 to 71M   | 1.358   | 1997-1998   | 100% (63.1, 100)           | 87.1% (77.7, 92.6) f       |
+| D153-P501   | Asia/ Oceania   | 12 to 35M   |   1,265 | 2001-2002   | (70.1, 92.4) e             | (44.2, 77.3) e             |
+| AV006       | USA             | 15 to 71M   |   1,259 | 1996-1997   | 93.4% (87.5, 96.5)         | 93.4% (87.5, 96.5)         |
+| AV006       | USA             | 15 to 71M   |   1.358 | 1997-1998   | 100% (63.1, 100)           | 87.1% (77.7, 92.6) f       |
 
 e In study participants who received 2 doses in year 1 and placebo in year 2, efficacy in year 2 was 56.2% match, respectively, in D153-P501, thus supporting the need for second-season revaccination.
 
@@ -307,11 +303,13 @@ f efficacy against the mismatched A/H3N2 strain was 85.9% (95% CI: 75.3, 91.9).
 
 Table 2 T/LAIV relative efficacy in active-controlled paediatric studies with seasonal injectable influenza vaccine
 
-| Study number   | Region                    | Age range a   | Number of study participants   | Influenza season   | Improved efficacy (95% CI) b matched strains   | Improved efficacy (95% CI) b all strains regardless of match   |
+| Study number   | Region                    | Age range a   |   Number of study participants | Influenza season   | Improved efficacy (95% CI) b matched strains   | Improved efficacy (95% CI) b all strains regardless of match   |
 |----------------|---------------------------|---------------|--------------------------------|--------------------|------------------------------------------------|----------------------------------------------------------------|
-| MI-CP111       | USA, Europe, Asia/Oceania | 6 to 59M      | 7,852                          | 2004-2005          | 44.5% (22.4, 60.6) fewer cases than injectable | 54.9% (45.4, 62.9) c fewer cases than injectable               |
-| D153-P514      | Europe                    | 6 to 71M      | 2,085                          | 2002-2003          | 52.7% (21.6, 72.2) fewer cases than injectable | 52.4% (24.6, 70.5) d fewer cases than injectable               |
-| D153-P515      | Europe                    | 6 to 17 Y     | 2,211                          | 2002-2003          | 34.7% (3.9, 56.0) fewer cases than injectable  | 31.9% (1.1, 53.5) fewer cases than injectable                  |
+| MI-CP111       | USA, Europe, Asia/Oceania | 6 to 59M      |                          7,852 | 2004-2005          | 44.5% (22.4, 60.6) fewer cases than injectable | 54.9% (45.4, 62.9) c fewer cases than injectable               |
+| D153-P514      | Europe                    | 6 to 71M      |                          2,085 | 2002-2003          | 52.7% (21.6, 72.2) fewer cases than injectable | 52.4% (24.6, 70.5) d fewer cases than injectable               |
+| D153-P515      | Europe                    | 6 to 17 Y     |                          2,211 | 2002-2003          | 34.7% (3.9, 56.0) fewer cases than injectable  | 31.9% (1.1, 53.5) fewer cases than injectable                  |
+
+toddlers 6-23 months of age and 48.2% (12.7, 70.0) fewer cases in 1,609 children 24-71 months of age.
 
 ## P/LAIV H5N1 vaccine
 
@@ -339,14 +337,14 @@ P/LAIV H5N1-primed subjects developed vigorous antibody responses to wild-type H
 
 Table 3 Serum microneutralization (MN) and haemagglutination inhibition (HAI) assay antibody responses on Days 28 and 56 following administration of an inactivated H5N1 vaccine
 
-|             |                     | Number                               | Number of   | 28 Days after inactivated vaccine a   | 28 Days after inactivated vaccine a   | 28 Days after inactivated vaccine a               | 28 Days after inactivated vaccine a               | 56 Days after inactivated vaccine a   | 56 Days after inactivated vaccine a   | 56 Days after inactivated vaccine a               | 56 Days after inactivated vaccine a               |
-|-------------|---------------------|--------------------------------------|-------------|---------------------------------------|---------------------------------------|---------------------------------------------------|---------------------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------------------|---------------------------------------------------|
-| Study group | P/LAIV priming dose | of Vietnam 2004 inactivat ed vaccine | subjects    | Geometric mean titer                  | Geometric mean titer                  | Subjects with 4-fold antibody rise (percentage) b | Subjects with 4-fold antibody rise (percentage) b | Geometric mean titer                  | Geometric mean titer                  | Subjects with 4-fold antibody rise (percentage) b | Subjects with 4-fold antibody rise (percentage) b |
-|             |                     | doses                                |             | MN                                    | HAI                                   | MN                                                | HAI                                               | MN                                    | HAI                                   | MN                                                | HAI                                               |
-| 1           | H5N1 Vietnam 2004   | 1                                    | 11          | 48                                    | 87                                    | 73                                                | 73                                                | 25                                    | 66                                    | 55                                                | 82                                                |
-| 2           | H5N1 Hong Kong 2003 | 1                                    | 10          | 31                                    | 29                                    | 60                                                | 50                                                | 22                                    | 21                                    | 60                                                | 40                                                |
-| 4           | None                | 1                                    | 20          | 7                                     | 8                                     | 10                                                | 10                                                | 4                                     | 8                                     | 10                                                | 10                                                |
-| 5           | None                | 2                                    | 20 c        | 11                                    | 15                                    | 30                                                | 40                                                | 19                                    | 21                                    | 56                                                | 50                                                |
+|             |                     | Number                       | Number of   | 28 Days after inactivated vaccine a   | 28 Days after inactivated vaccine a   | 28 Days after inactivated vaccine a               | 28 Days after inactivated vaccine a               | 56 Days after inactivated vaccine a   | 56 Days after inactivated vaccine a   | 56 Days after inactivated vaccine a               | 56 Days after inactivated vaccine a               |
+|-------------|---------------------|------------------------------|-------------|---------------------------------------|---------------------------------------|---------------------------------------------------|---------------------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------------------|---------------------------------------------------|
+| Study group | P/LAIV priming dose | of Vietnam 2004 inactivat ed | subjects    | Geometric mean titer                  | Geometric mean titer                  | Subjects with 4-fold antibody rise (percentage) b | Subjects with 4-fold antibody rise (percentage) b | Geometric mean titer                  | Geometric mean titer                  | Subjects with 4-fold antibody rise (percentage) b | Subjects with 4-fold antibody rise (percentage) b |
+|             |                     | vaccine doses                |             | MN                                    | HAI                                   | MN                                                | HAI                                               | MN                                    | HAI                                   | MN                                                | HAI                                               |
+| 1           | H5N1 Vietnam 2004   | 1                            | 11          | 48                                    | 87                                    | 73                                                | 73                                                | 25                                    | 66                                    | 55                                                | 82                                                |
+| 2           | H5N1 Hong Kong 2003 | 1                            | 10          | 31                                    | 29                                    | 60                                                | 50                                                | 22                                    | 21                                    | 60                                                | 40                                                |
+| 4           | None                | 1                            | 20          | 7                                     | 8                                     | 10                                                | 10                                                | 4                                     | 8                                     | 10                                                | 10                                                |
+| 5           | None                | 2                            | 20 c        | 11                                    | 15                                    | 30                                                | 40                                                | 19                                    | 21                                    | 56                                                | 50                                                |
 
 Data for Group 3, subjects initially vaccinated with an H7N3 P/LAIV are not shown.
 
@@ -366,9 +364,9 @@ Not applicable.
 
 ## 5.3 Preclinical safety data
 
-<div style=\"page-break-after: always\"></div>
-
 Non-clinical data with the Pandemic influenza vaccine H5N1 AstraZeneca, and the seasonal vaccines T/LAIV and Fluenz Tetra reveal no special hazard for humans based on conventional non-clinical studies of repeated dose toxicity, reproduction and developmental toxicity, local tolerance, and neurovirulence.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
@@ -400,11 +398,11 @@ Pandemic influenza vaccine H5N1 AstraZeneca is supplied as a 0.2 ml suspension i
 
 Pack size of 10.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 6.6 Special precautions for disposal and other handling
 
-Administration
-
-<div style=\"page-break-after: always\"></div>
+## Administration
 
 Pandemic influenza vaccine H5N1 AstraZeneca IS FOR NASAL USE ONLY.
 
@@ -432,15 +430,13 @@ Check expiry date Product must not be used after date on applicator label.
 
 Depress the plunger With a single motion, depress plunger as rapidly as possible until the dose-divider clip prevents you from going further.
 
+<!-- image -->
+
 Prepare the applicator Remove rubber tip protector. Do not remove dose-divider clip at the other end of the applicator.
 
 <!-- image -->
 
-Remove dose-divider clip For administration in the remove the dose-divider
-
-<!-- image -->
-
-other nostril, pinch and clip from plunger.
+Remove dose-divider clip For administration in the other nostril, pinch and remove the dose-divider clip from plunger.
 
 Position the applicator With the patient in an upright position, place the tip just inside the nostril to ensure Pandemic influenza vaccine H5N1 AstraZeneca is delivered into the nose.
 
@@ -492,7 +488,7 @@ Name and address of the manufacturer of the biological active substance
 
 MedImmune UK Limited Plot 6, Renaissance Way Boulevard Industry Park Speke Liverpool L24 9JW United Kingdom
 
-Name and address of the manufacturers responsible for batch release
+Name and address of the manufacturer responsible for batch release
 
 AstraZeneca Nijmegen B.V., Lagelandseweg 78 Nijmegen, 6545CG Netherlands
 
@@ -640,9 +636,9 @@ Justification for not including Braille accepted
 
 PC SN
 
-NN
-
 <div style=\"page-break-after: always\"></div>
+
+NN
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1010,7 +1006,7 @@ AstraZeneca UK Limited Tel: +386 1 51 35 600
 
 ## Ísland
 
-Vistor hf.
+Vistor
 
 Sími: +354 535 7000
 

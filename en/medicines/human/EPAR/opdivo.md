@@ -1,21 +1,97 @@
 ---
-document_datetime: 2026-03-18 16:04:00
+document_datetime: 2026-05-08 16:02:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/opdivo.html
 document_name: opdivo.html
 version: success
-processing_time: 0.1652998
-conversion_datetime: 2026-03-21 11:36:28.960174
+processing_time: 0.2521533
+conversion_datetime: 2026-05-10 13:13:56.259341
 docling_version:
-  docling-serve: 1.14.3
-  docling-jobkit: 1.13.0
-  docling: 2.81.0
-  docling-core: 2.70.2
-  docling-ibm-models: 3.12.0
-  docling-parse: 5.6.0
+  docling-serve: 1.17.0
+  docling-jobkit: 1.18.0
+  docling: 2.92.0
+  docling-core: 2.74.1
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.10.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
+# Search
+
+- [Medicines](/en/medicines)
+    - [Find medicine](/en/medicines)
+    - [Therapeutic areas: latest updates](/en/medicines/therapeutic-areas-latest-updates)
+    - [Download medicine data](/en/medicines/download-medicine-data)
+    - [What we publish on medicines and when](/en/medicines/what-we-publish-medicines-when)
+    - [Medicines under evaluation](/en/medicines/medicines-human-use-under-evaluation)
+    - [National registers](/en/medicines/national-registers-authorised-medicines)
+- [Human regulatory](/en/human-regulatory-overview)
+    - [Overview](/en/human-regulatory-overview)
+    - [Research and development](/en/human-regulatory-overview/research-development)
+    - [Marketing authorisation](/en/human-regulatory-overview/marketing-authorisation)
+    - [Post-authorisation](/en/human-regulatory-overview/post-authorisation)
+    - [Medical devices](/en/human-regulatory-overview/medical-devices)
+    - [Herbal products](/en/human-regulatory-overview/herbal-medicinal-products)
+- [Veterinary regulatory](/en/veterinary-regulatory-overview)
+    - [Overview](/en/veterinary-regulatory-overview)
+    - [Research and development](/en/veterinary-regulatory-overview/research-development-veterinary-medicines)
+    - [Marketing authorisation](/en/veterinary-regulatory-overview/marketing-authorisation-veterinary-medicines)
+    - [Post-authorisation](/en/veterinary-regulatory-overview/post-authorisation-veterinary-medicines)
+- [Committees](/en/committees)
+    - [Overview](/en/committees)
+    - [How the committees work](/en/committees/how-committees-work)
+    - [CHMP](/en/committees/committee-medicinal-products-human-use-chmp)
+    - [CVMP](/en/committees/committee-veterinary-medicinal-products-cvmp)
+    - [PRAC](/en/committees/pharmacovigilance-risk-assessment-committee-prac)
+    - [COMP](/en/committees/committee-orphan-medicinal-products-comp)
+    - [HMPC](/en/committees/committee-herbal-medicinal-products-hmpc)
+    - [CAT](/en/committees/committee-advanced-therapies-cat)
+    - [PDCO](/en/committees/paediatric-committee-pdco)
+    - [Working parties and other groups](/en/committees/working-parties-other-groups)
+- [News &amp; events](/en/news-events)
+    - [Overview](/en/news-events)
+    - [News](/en/news)
+    - [Events](/en/events/upcoming-events)
+    - [What's new](/en/news-events/whats-new)
+    - [Committee highlights](/en/news-events/committee-highlights)
+    - [Publications](/en/news-and-events/publications)
+    - [Press and social media](/en/news-events/press-social-media)
+    - [Podcast: Inside EMA](/en/news-events/podcast-inside-ema)
+    - [EMA Campaigns](/en/news-events/ema-campaigns)
+    - [Open consultations](/en/news-events/open-consultations)
+    - [RSS feeds](/en/news-events/rss-feeds)
+- [Partners &amp; networks](/en/partners-networks)
+    - [Overview](/en/partners-networks)
+    - [EU partners](/en/partners-networks/eu-partners)
+    - [International activities](/en/partners-networks/international-activities)
+    - [Patients and consumers](/en/partners-networks/patients-consumers)
+    - [Healthcare professionals](/en/partners-networks/healthcare-professionals)
+    - [Academia](/en/partners-networks/academia)
+    - [Pharmaceutical industry](/en/partners-networks/pharmaceutical-industry)
+    - [Networks](/en/partners-networks/networks)
+    - [Health technology assessment bodies](/en/partners-networks/health-technology-assessment-bodies)
+    - [One Health approach](/en/partners-networks/one-health-approach)
+    - [Animal health practitioners](/en/partners-networks/animal-health-practitioners)
+    - [One substance - one assessment](/en/partners-networks/one-substance-one-assessment-osoa-eu-collaboration-chemicals-related-data)
+- [About us](/en/about-us)
+    - [Overview](/en/about-us)
+    - [What we do](/en/about-us/what-we-do)
+    - [Who we are](/en/about-us/who-we-are)
+    - [How we work](/en/about-us/how-we-work)
+    - [Fees](/en/about-us/fees-payable-european-medicines-agency)
+    - [Support to SMEs](/en/about-us/support-smes)
+    - [Annual reports and work programmes](/en/about-us/annual-reports-work-programmes)
+    - [History of EMA](/en/about-us/history-ema)
+    - [Careers](/en/about-us/careers)
+    - [Procurement](/en/about-us/procurement-grants)
+    - [About this website](/en/about-us/about-website)
+    - [Data protection and privacy](/en/about-us/data-protection-privacy-ema)
+    - [Contacts](/en/about-us/contacts-european-medicines-agency)
+
+1. [Home](/en/homepage)
+2. [Medicines](https://www.ema.europa.eu/en/medicines)
+3. Opdivo
+
 # Opdivo
 
 [RSS](/en/individual-human-medicine.xml/65614)
@@ -24,7 +100,9 @@ Authorised
 
 This medicine is authorised for use in the European Union
 
-nivolumab Medicine Human Authorised
+nivolumab
+
+Medicine Human Authorised
 
 Page contents
 
@@ -234,19 +312,149 @@ Reference Number: EMA/120822/2025
 
 English (EN) (191.39 KB - PDF)
 
-**First published:** 16/07/2015
-
-**Last updated:** 18/03/2026
+**First published:** 16/07/2015 **Last updated:** 07/04/2026
 
 [View](/en/documents/overview/opdivo-epar-medicine-overview_en.pdf)
 
+[Other languages (22)](#file-language-dropdown-396)
+
+български (BG) (202.43 KB - PDF)
+
+**First published:** 16/07/2015 **Last updated:** 07/04/2026
+
+[View](/bg/documents/overview/opdivo-epar-medicine-overview_bg.pdf)
+
+español (ES) (180.87 KB - PDF)
+
+**First published:** 16/07/2015 **Last updated:** 07/04/2026
+
+[View](/es/documents/overview/opdivo-epar-medicine-overview_es.pdf)
+
+čeština (CS) (208.03 KB - PDF)
+
+**First published:** 16/07/2015 **Last updated:** 07/04/2026
+
+[View](/cs/documents/overview/opdivo-epar-medicine-overview_cs.pdf)
+
+dansk (DA) (174.89 KB - PDF)
+
+**First published:** 16/07/2015 **Last updated:** 07/04/2026
+
+[View](/da/documents/overview/opdivo-epar-medicine-overview_da.pdf)
+
+Deutsch (DE) (187.44 KB - PDF)
+
+**First published:** 16/07/2015 **Last updated:** 07/04/2026
+
+[View](/de/documents/overview/opdivo-epar-medicine-overview_de.pdf)
+
+eesti keel (ET) (199.64 KB - PDF)
+
+**First published:** 16/07/2015 **Last updated:** 07/04/2026
+
+[View](/et/documents/overview/opdivo-epar-medicine-overview_et.pdf)
+
+ελληνικά (EL) (203.65 KB - PDF)
+
+**First published:** 16/07/2015 **Last updated:** 07/04/2026
+
+[View](/el/documents/overview/opdivo-epar-medicine-overview_el.pdf)
+
+français (FR) (182.78 KB - PDF)
+
+**First published:** 16/07/2015 **Last updated:** 07/04/2026
+
+[View](/fr/documents/overview/opdivo-epar-medicine-overview_fr.pdf)
+
+hrvatski (HR) (202.61 KB - PDF)
+
+**First published:** 16/07/2015 **Last updated:** 07/04/2026
+
+[View](/hr/documents/overview/opdivo-epar-medicine-overview_hr.pdf)
+
+italiano (IT) (178.03 KB - PDF)
+
+**First published:** 16/07/2015 **Last updated:** 07/04/2026
+
+[View](/it/documents/overview/opdivo-epar-medicine-overview_it.pdf)
+
+latviešu valoda (LV) (210.68 KB - PDF)
+
+**First published:** 16/07/2015 **Last updated:** 07/04/2026
+
+[View](/lv/documents/overview/opdivo-epar-medicine-overview_lv.pdf)
+
+lietuvių kalba (LT) (206.04 KB - PDF)
+
+**First published:** 16/07/2015 **Last updated:** 07/04/2026
+
+[View](/lt/documents/overview/opdivo-epar-medicine-overview_lt.pdf)
+
+magyar (HU) (208.84 KB - PDF)
+
+**First published:** 16/07/2015 **Last updated:** 07/04/2026
+
+[View](/hu/documents/overview/opdivo-epar-medicine-overview_hu.pdf)
+
+Malti (MT) (208.6 KB - PDF)
+
+**First published:** 16/07/2015 **Last updated:** 07/04/2026
+
+[View](/mt/documents/overview/opdivo-epar-medicine-overview_mt.pdf)
+
+Nederlands (NL) (181.03 KB - PDF)
+
+**First published:** 16/07/2015 **Last updated:** 07/04/2026
+
+[View](/nl/documents/overview/opdivo-epar-medicine-overview_nl.pdf)
+
+polski (PL) (213.86 KB - PDF)
+
+**First published:** 16/07/2015 **Last updated:** 07/04/2026
+
+[View](/pl/documents/overview/opdivo-epar-medicine-overview_pl.pdf)
+
+português (PT) (179.25 KB - PDF)
+
+**First published:** 16/07/2015 **Last updated:** 07/04/2026
+
+[View](/pt/documents/overview/opdivo-epar-medicine-overview_pt.pdf)
+
+română (RO) (202.43 KB - PDF)
+
+**First published:** 16/07/2015 **Last updated:** 07/04/2026
+
+[View](/ro/documents/overview/opdivo-epar-medicine-overview_ro.pdf)
+
+slovenčina (SK) (207.07 KB - PDF)
+
+**First published:** 16/07/2015 **Last updated:** 07/04/2026
+
+[View](/sk/documents/overview/opdivo-epar-medicine-overview_sk.pdf)
+
+slovenščina (SL) (204.04 KB - PDF)
+
+**First published:** 16/07/2015 **Last updated:** 07/04/2026
+
+[View](/sl/documents/overview/opdivo-epar-medicine-overview_sl.pdf)
+
+Suomi (FI) (179.94 KB - PDF)
+
+**First published:** 16/07/2015 **Last updated:** 07/04/2026
+
+[View](/fi/documents/overview/opdivo-epar-medicine-overview_fi.pdf)
+
+svenska (SV) (180.59 KB - PDF)
+
+**First published:** 16/07/2015 **Last updated:** 07/04/2026
+
+[View](/sv/documents/overview/opdivo-epar-medicine-overview_sv.pdf)
+
 Opdivo : EPAR - Risk management plan
 
-English (EN) (12.18 MB - PDF)
+English (EN) (12.09 MB - PDF)
 
-**First published:** 16/07/2015
-
-**Last updated:** 18/03/2026
+**First published:** 16/07/2015 **Last updated:** 08/05/2026
 
 [View](/en/documents/rmp/opdivo-epar-risk-management-plan_en.pdf)
 
@@ -254,305 +462,161 @@ English (EN) (12.18 MB - PDF)
 
 Opdivo : EPAR - Product information
 
-English (EN) (3.96 MB - PDF)
+English (EN) (4.02 MB - PDF)
 
-**First published:** 16/07/2015
-
-**Last updated:** 18/03/2026
+**First published:** 16/07/2015 **Last updated:** 08/05/2026
 
 [View](/en/documents/product-information/opdivo-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-399)
+[Other languages (24)](#file-language-dropdown-349)
 
-български (BG) (4.39 MB - PDF)
+български (BG) (4.48 MB - PDF)
 
-**First published:**
-
-16/07/2015
-
-**Last updated:**
-
-18/03/2026
+**First published:** 16/07/2015 **Last updated:** 08/05/2026
 
 [View](/bg/documents/product-information/opdivo-epar-product-information_bg.pdf)
 
-español (ES) (4.01 MB - PDF)
+español (ES) (4.07 MB - PDF)
 
-**First published:**
-
-16/07/2015
-
-**Last updated:**
-
-18/03/2026
+**First published:** 16/07/2015 **Last updated:** 08/05/2026
 
 [View](/es/documents/product-information/opdivo-epar-product-information_es.pdf)
 
-čeština (CS) (4.37 MB - PDF)
+čeština (CS) (4.46 MB - PDF)
 
-**First published:**
-
-16/07/2015
-
-**Last updated:**
-
-18/03/2026
+**First published:** 16/07/2015 **Last updated:** 08/05/2026
 
 [View](/cs/documents/product-information/opdivo-epar-product-information_cs.pdf)
 
-dansk (DA) (4 MB - PDF)
+dansk (DA) (4.07 MB - PDF)
 
-**First published:**
-
-16/07/2015
-
-**Last updated:**
-
-18/03/2026
+**First published:** 16/07/2015 **Last updated:** 08/05/2026
 
 [View](/da/documents/product-information/opdivo-epar-product-information_da.pdf)
 
-Deutsch (DE) (4.22 MB - PDF)
+Deutsch (DE) (4.29 MB - PDF)
 
-**First published:**
-
-16/07/2015
-
-**Last updated:**
-
-18/03/2026
+**First published:** 16/07/2015 **Last updated:** 08/05/2026
 
 [View](/de/documents/product-information/opdivo-epar-product-information_de.pdf)
 
-eesti keel (ET) (3.99 MB - PDF)
+eesti keel (ET) (4.07 MB - PDF)
 
-**First published:**
-
-16/07/2015
-
-**Last updated:**
-
-18/03/2026
+**First published:** 16/07/2015 **Last updated:** 08/05/2026
 
 [View](/et/documents/product-information/opdivo-epar-product-information_et.pdf)
 
-ελληνικά (EL) (4.45 MB - PDF)
+ελληνικά (EL) (4.52 MB - PDF)
 
-**First published:**
-
-16/07/2015
-
-**Last updated:**
-
-18/03/2026
+**First published:** 16/07/2015 **Last updated:** 08/05/2026
 
 [View](/el/documents/product-information/opdivo-epar-product-information_el.pdf)
 
-français (FR) (4.17 MB - PDF)
+français (FR) (4.23 MB - PDF)
 
-**First published:**
-
-16/07/2015
-
-**Last updated:**
-
-18/03/2026
+**First published:** 16/07/2015 **Last updated:** 08/05/2026
 
 [View](/fr/documents/product-information/opdivo-epar-product-information_fr.pdf)
 
-hrvatski (HR) (4.36 MB - PDF)
+hrvatski (HR) (4.43 MB - PDF)
 
-**First published:**
-
-16/07/2015
-
-**Last updated:**
-
-18/03/2026
+**First published:** 16/07/2015 **Last updated:** 08/05/2026
 
 [View](/hr/documents/product-information/opdivo-epar-product-information_hr.pdf)
 
-íslenska (IS) (3.97 MB - PDF)
+íslenska (IS) (4 MB - PDF)
 
-**First published:**
-
-16/07/2015
-
-**Last updated:**
-
-18/03/2026
+**First published:** 16/07/2015 **Last updated:** 08/05/2026
 
 [View](/is/documents/product-information/opdivo-epar-product-information_is.pdf)
 
-italiano (IT) (4.03 MB - PDF)
+italiano (IT) (4.09 MB - PDF)
 
-**First published:**
-
-16/07/2015
-
-**Last updated:**
-
-18/03/2026
+**First published:** 16/07/2015 **Last updated:** 08/05/2026
 
 [View](/it/documents/product-information/opdivo-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (4.3 MB - PDF)
+latviešu valoda (LV) (4.36 MB - PDF)
 
-**First published:**
-
-16/07/2015
-
-**Last updated:**
-
-18/03/2026
+**First published:** 16/07/2015 **Last updated:** 08/05/2026
 
 [View](/lv/documents/product-information/opdivo-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (4.35 MB - PDF)
+lietuvių kalba (LT) (4.47 MB - PDF)
 
-**First published:**
-
-16/07/2015
-
-**Last updated:**
-
-18/03/2026
+**First published:** 16/07/2015 **Last updated:** 08/05/2026
 
 [View](/lt/documents/product-information/opdivo-epar-product-information_lt.pdf)
 
-magyar (HU) (4.57 MB - PDF)
+magyar (HU) (4.65 MB - PDF)
 
-**First published:**
-
-16/07/2015
-
-**Last updated:**
-
-18/03/2026
+**First published:** 16/07/2015 **Last updated:** 08/05/2026
 
 [View](/hu/documents/product-information/opdivo-epar-product-information_hu.pdf)
 
-Malti (MT) (4.39 MB - PDF)
+Malti (MT) (4.46 MB - PDF)
 
-**First published:**
-
-16/07/2015
-
-**Last updated:**
-
-18/03/2026
+**First published:** 16/07/2015 **Last updated:** 08/05/2026
 
 [View](/mt/documents/product-information/opdivo-epar-product-information_mt.pdf)
 
-Nederlands (NL) (4.01 MB - PDF)
+Nederlands (NL) (4.08 MB - PDF)
 
-**First published:**
-
-16/07/2015
-
-**Last updated:**
-
-18/03/2026
+**First published:** 16/07/2015 **Last updated:** 08/05/2026
 
 [View](/nl/documents/product-information/opdivo-epar-product-information_nl.pdf)
 
-norsk (NO) (3.95 MB - PDF)
+norsk (NO) (4.02 MB - PDF)
 
-**First published:**
-
-16/07/2015
-
-**Last updated:**
-
-18/03/2026
+**First published:** 16/07/2015 **Last updated:** 08/05/2026
 
 [View](/no/documents/product-information/opdivo-epar-product-information_no.pdf)
 
-polski (PL) (4.44 MB - PDF)
+polski (PL) (4.51 MB - PDF)
 
-**First published:**
-
-16/07/2015
-
-**Last updated:**
-
-18/03/2026
+**First published:** 16/07/2015 **Last updated:** 08/05/2026
 
 [View](/pl/documents/product-information/opdivo-epar-product-information_pl.pdf)
 
-português (PT) (3.98 MB - PDF)
+português (PT) (4.05 MB - PDF)
 
-**First published:**
-
-16/07/2015
-
-**Last updated:**
-
-18/03/2026
+**First published:** 16/07/2015 **Last updated:** 08/05/2026
 
 [View](/pt/documents/product-information/opdivo-epar-product-information_pt.pdf)
 
-română (RO) (4.36 MB - PDF)
+română (RO) (4.44 MB - PDF)
 
-**First published:**
-
-16/07/2015
-
-**Last updated:**
-
-18/03/2026
+**First published:** 16/07/2015 **Last updated:** 08/05/2026
 
 [View](/ro/documents/product-information/opdivo-epar-product-information_ro.pdf)
 
-slovenčina (SK) (4.44 MB - PDF)
+slovenčina (SK) (4.51 MB - PDF)
 
-**First published:**
-
-16/07/2015
-
-**Last updated:**
-
-18/03/2026
+**First published:** 16/07/2015 **Last updated:** 08/05/2026
 
 [View](/sk/documents/product-information/opdivo-epar-product-information_sk.pdf)
 
-slovenščina (SL) (4.39 MB - PDF)
+slovenščina (SL) (4.46 MB - PDF)
 
-**First published:**
-
-16/07/2015
-
-**Last updated:**
-
-18/03/2026
+**First published:** 16/07/2015 **Last updated:** 08/05/2026
 
 [View](/sl/documents/product-information/opdivo-epar-product-information_sl.pdf)
 
-Suomi (FI) (4.13 MB - PDF)
+Suomi (FI) (4.2 MB - PDF)
 
-**First published:**
-
-16/07/2015
-
-**Last updated:**
-
-18/03/2026
+**First published:** 16/07/2015 **Last updated:** 08/05/2026
 
 [View](/fi/documents/product-information/opdivo-epar-product-information_fi.pdf)
 
-svenska (SV) (3.99 MB - PDF)
+svenska (SV) (4.06 MB - PDF)
 
-**First published:**
-
-16/07/2015
-
-**Last updated:**
-
-18/03/2026
+**First published:** 16/07/2015 **Last updated:** 08/05/2026
 
 [View](/sv/documents/product-information/opdivo-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000282199 05/03/2026
+**Latest procedure affecting product information:** X/0000304427
+
+20/04/2026
 
 icon globe
 
@@ -570,307 +634,173 @@ Product information documents contain:
 
 Opdivo : EPAR - All Authorised presentations
 
-English (EN) (67.63 KB - PDF)
+English (EN) (70.4 KB - PDF)
 
-**First published:** 16/07/2015
-
-**Last updated:** 02/06/2025
+**First published:** 16/07/2015 **Last updated:** 08/05/2026
 
 [View](/en/documents/all-authorised-presentations/opdivo-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-248)
+[Other languages (24)](#file-language-dropdown-249)
 
-български (BG) (82.95 KB - PDF)
+български (BG) (80.3 KB - PDF)
 
-**First published:**
-
-16/07/2015
-
-**Last updated:**
-
-02/06/2025
+**First published:** 16/07/2015 **Last updated:** 08/05/2026
 
 [View](/bg/documents/all-authorised-presentations/opdivo-epar-all-authorised-presentations_bg.pdf)
 
-español (ES) (51.09 KB - PDF)
+español (ES) (54.26 KB - PDF)
 
-**First published:**
-
-16/07/2015
-
-**Last updated:**
-
-02/06/2025
+**First published:** 16/07/2015 **Last updated:** 08/05/2026
 
 [View](/es/documents/all-authorised-presentations/opdivo-epar-all-authorised-presentations_es.pdf)
 
-čeština (CS) (67.67 KB - PDF)
+čeština (CS) (68.5 KB - PDF)
 
-**First published:**
-
-16/07/2015
-
-**Last updated:**
-
-02/06/2025
+**First published:** 16/07/2015 **Last updated:** 08/05/2026
 
 [View](/cs/documents/all-authorised-presentations/opdivo-epar-all-authorised-presentations_cs.pdf)
 
-dansk (DA) (75.35 KB - PDF)
+dansk (DA) (78.54 KB - PDF)
 
-**First published:**
-
-16/07/2015
-
-**Last updated:**
-
-02/06/2025
+**First published:** 16/07/2015 **Last updated:** 08/05/2026
 
 [View](/da/documents/all-authorised-presentations/opdivo-epar-all-authorised-presentations_da.pdf)
 
-Deutsch (DE) (48.69 KB - PDF)
+Deutsch (DE) (49.77 KB - PDF)
 
-**First published:**
-
-16/07/2015
-
-**Last updated:**
-
-02/06/2025
+**First published:** 16/07/2015 **Last updated:** 08/05/2026
 
 [View](/de/documents/all-authorised-presentations/opdivo-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (71.91 KB - PDF)
+eesti keel (ET) (75.21 KB - PDF)
 
-**First published:**
-
-16/07/2015
-
-**Last updated:**
-
-02/06/2025
+**First published:** 16/07/2015 **Last updated:** 08/05/2026
 
 [View](/et/documents/all-authorised-presentations/opdivo-epar-all-authorised-presentations_et.pdf)
 
-ελληνικά (EL) (89.68 KB - PDF)
+ελληνικά (EL) (93.03 KB - PDF)
 
-**First published:**
-
-16/07/2015
-
-**Last updated:**
-
-02/06/2025
+**First published:** 16/07/2015 **Last updated:** 08/05/2026
 
 [View](/el/documents/all-authorised-presentations/opdivo-epar-all-authorised-presentations_el.pdf)
 
-français (FR) (72.61 KB - PDF)
+français (FR) (76.18 KB - PDF)
 
-**First published:**
-
-16/07/2015
-
-**Last updated:**
-
-02/06/2025
+**First published:** 16/07/2015 **Last updated:** 08/05/2026
 
 [View](/fr/documents/all-authorised-presentations/opdivo-epar-all-authorised-presentations_fr.pdf)
 
-hrvatski (HR) (86.21 KB - PDF)
+hrvatski (HR) (93.7 KB - PDF)
 
-**First published:**
-
-16/07/2015
-
-**Last updated:**
-
-02/06/2025
+**First published:** 16/07/2015 **Last updated:** 08/05/2026
 
 [View](/hr/documents/all-authorised-presentations/opdivo-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (48.25 KB - PDF)
+íslenska (IS) (51.05 KB - PDF)
 
-**First published:**
-
-16/07/2015
-
-**Last updated:**
-
-02/06/2025
+**First published:** 16/07/2015 **Last updated:** 08/05/2026
 
 [View](/is/documents/all-authorised-presentations/opdivo-epar-all-authorised-presentations_is.pdf)
 
-italiano (IT) (72.01 KB - PDF)
+italiano (IT) (75.4 KB - PDF)
 
-**First published:**
-
-16/07/2015
-
-**Last updated:**
-
-02/06/2025
+**First published:** 16/07/2015 **Last updated:** 08/05/2026
 
 [View](/it/documents/all-authorised-presentations/opdivo-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (64.72 KB - PDF)
+latviešu valoda (LV) (67.52 KB - PDF)
 
-**First published:**
-
-16/07/2015
-
-**Last updated:**
-
-02/06/2025
+**First published:** 16/07/2015 **Last updated:** 08/05/2026
 
 [View](/lv/documents/all-authorised-presentations/opdivo-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (123.76 KB - PDF)
+lietuvių kalba (LT) (126.86 KB - PDF)
 
-**First published:**
-
-16/07/2015
-
-**Last updated:**
-
-02/06/2025
+**First published:** 16/07/2015 **Last updated:** 08/05/2026
 
 [View](/lt/documents/all-authorised-presentations/opdivo-epar-all-authorised-presentations_lt.pdf)
 
-magyar (HU) (109.93 KB - PDF)
+magyar (HU) (112.65 KB - PDF)
 
-**First published:**
-
-16/07/2015
-
-**Last updated:**
-
-02/06/2025
+**First published:** 16/07/2015 **Last updated:** 08/05/2026
 
 [View](/hu/documents/all-authorised-presentations/opdivo-epar-all-authorised-presentations_hu.pdf)
 
-Malti (MT) (91.69 KB - PDF)
+Malti (MT) (95.29 KB - PDF)
 
-**First published:**
-
-16/07/2015
-
-**Last updated:**
-
-02/06/2025
+**First published:** 16/07/2015 **Last updated:** 08/05/2026
 
 [View](/mt/documents/all-authorised-presentations/opdivo-epar-all-authorised-presentations_mt.pdf)
 
-Nederlands (NL) (48.66 KB - PDF)
+Nederlands (NL) (51.4 KB - PDF)
 
-**First published:**
-
-16/07/2015
-
-**Last updated:**
-
-02/06/2025
+**First published:** 16/07/2015 **Last updated:** 08/05/2026
 
 [View](/nl/documents/all-authorised-presentations/opdivo-epar-all-authorised-presentations_nl.pdf)
 
-norsk (NO) (49.9 KB - PDF)
+norsk (NO) (51.01 KB - PDF)
 
-**First published:**
-
-16/07/2015
-
-**Last updated:**
-
-02/06/2025
+**First published:** 16/07/2015 **Last updated:** 08/05/2026
 
 [View](/no/documents/all-authorised-presentations/opdivo-epar-all-authorised-presentations_no.pdf)
 
-polski (PL) (72.17 KB - PDF)
+polski (PL) (73.06 KB - PDF)
 
-**First published:**
-
-16/07/2015
-
-**Last updated:**
-
-02/06/2025
+**First published:** 16/07/2015 **Last updated:** 08/05/2026
 
 [View](/pl/documents/all-authorised-presentations/opdivo-epar-all-authorised-presentations_pl.pdf)
 
-português (PT) (50.96 KB - PDF)
+português (PT) (52.08 KB - PDF)
 
-**First published:**
-
-16/07/2015
-
-**Last updated:**
-
-02/06/2025
+**First published:** 16/07/2015 **Last updated:** 08/05/2026
 
 [View](/pt/documents/all-authorised-presentations/opdivo-epar-all-authorised-presentations_pt.pdf)
 
-română (RO) (67.25 KB - PDF)
+română (RO) (68.33 KB - PDF)
 
-**First published:**
-
-16/07/2015
-
-**Last updated:**
-
-02/06/2025
+**First published:** 16/07/2015 **Last updated:** 08/05/2026
 
 [View](/ro/documents/all-authorised-presentations/opdivo-epar-all-authorised-presentations_ro.pdf)
 
-slovenčina (SK) (89.57 KB - PDF)
+slovenčina (SK) (91.39 KB - PDF)
 
-**First published:**
-
-16/07/2015
-
-**Last updated:**
-
-02/06/2025
+**First published:** 16/07/2015 **Last updated:** 08/05/2026
 
 [View](/sk/documents/all-authorised-presentations/opdivo-epar-all-authorised-presentations_sk.pdf)
 
-slovenščina (SL) (80.93 KB - PDF)
+slovenščina (SL) (82.75 KB - PDF)
 
-**First published:**
-
-16/07/2015
-
-**Last updated:**
-
-02/06/2025
+**First published:** 16/07/2015 **Last updated:** 08/05/2026
 
 [View](/sl/documents/all-authorised-presentations/opdivo-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (64.33 KB - PDF)
+Suomi (FI) (66.56 KB - PDF)
 
-**First published:**
-
-16/07/2015
-
-**Last updated:**
-
-02/06/2025
+**First published:** 16/07/2015 **Last updated:** 08/05/2026
 
 [View](/fi/documents/all-authorised-presentations/opdivo-epar-all-authorised-presentations_fi.pdf)
 
-svenska (SV) (70.48 KB - PDF)
+svenska (SV) (71.69 KB - PDF)
 
-**First published:**
-
-16/07/2015
-
-**Last updated:**
-
-02/06/2025
+**First published:** 16/07/2015 **Last updated:** 08/05/2026
 
 [View](/sv/documents/all-authorised-presentations/opdivo-epar-all-authorised-presentations_sv.pdf)
 
 ## Product details
 
-Name of medicine Opdivo Active substance nivolumab International non-proprietary name (INN) or common name nivolumab Therapeutic area (MeSH)
+Name of medicine
+
+Opdivo
+
+Active substance
+
+nivolumab
+
+International non-proprietary name (INN) or common name
+
+nivolumab
+
+Therapeutic area (MeSH)
 
 - Melanoma
 - Hodgkin Disease
@@ -882,7 +812,9 @@ Name of medicine Opdivo Active substance nivolumab International non-proprietary
 - Mesothelioma
 - Colorectal Neoplasms
 
-Anatomical therapeutic chemical (ATC) code L01FF01
+Anatomical therapeutic chemical (ATC) code
+
+L01FF01
 
 ### Pharmacotherapeutic group
 
@@ -963,13 +895,27 @@ Antineoplastic agents
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/003985 Marketing authorisation holder
+EMA product number
+
+EMEA/H/C/003985
+
+Marketing authorisation holder
 
 Bristol-Myers Squibb Pharma EEIG
 
 Plaza 254
 
-Opinion adopted 23/04/2015 Marketing authorisation issued 19/06/2015 Revision 72
+Opinion adopted
+
+23/04/2015
+
+Marketing authorisation issued
+
+19/06/2015
+
+Revision
+
+73
 
 ## Assessment history
 
@@ -981,11 +927,9 @@ Collapse section
 
 Opdivo : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (186.3 KB - PDF)
+English (EN) (180.38 KB - PDF)
 
-**First published:** 21/11/2025
-
-**Last updated:** 18/03/2026
+**First published:** 21/11/2025 **Last updated:** 08/05/2026
 
 [View](/en/documents/procedural-steps-after/opdivo-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -993,17 +937,13 @@ Opdivo : EPAR - Procedural steps taken and scientific information after authoris
 
 English (EN) (514.03 KB - PDF)
 
-**First published:** 02/12/2015
-
-**Last updated:** 21/11/2025
+**First published:** 02/12/2015 **Last updated:** 21/11/2025
 
 [View](/en/documents/procedural-steps-after/opdivo-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 Opdivo-VR-0000282199 : EPAR - Assessment report - Variation
 
-Adopted
-
-Reference Number: EMADOC-1700519818-2843503
+Adopted Reference Number: EMADOC-1700519818-2843503
 
 English (EN) (1.99 MB - PDF)
 
@@ -1013,9 +953,7 @@ English (EN) (1.99 MB - PDF)
 
 CHMP post-authorisation summary of positive opinion for Opdivo (EMAVR0000282199)
 
-Adopted
-
-Reference Number: EMADOC-1700519818-2843485
+Adopted Reference Number: EMADOC-1700519818-2843485
 
 English (EN) (181.83 KB - PDF)
 
@@ -1025,9 +963,7 @@ English (EN) (181.83 KB - PDF)
 
 Opdivo-H-C-003985-X-0144 : EPAR - Assessment report - Variation
 
-Adopted
-
-Reference Number: EMA/CHMP/142870/2025
+Adopted Reference Number: EMA/CHMP/142870/2025
 
 English (EN) (11.81 MB - PDF)
 
@@ -1037,9 +973,7 @@ English (EN) (11.81 MB - PDF)
 
 Opdivo-H-C-003985-II-0140 : EPAR - Assessment report - Variation
 
-Adopted
-
-Reference Number: EMA/CHMP/136733/2025
+Adopted Reference Number: EMA/CHMP/136733/2025
 
 English (EN) (3.85 MB - PDF)
 
@@ -1059,9 +993,7 @@ English (EN) (131.27 KB - PDF)
 
 Opdivo-H-C-003985-P46-061 : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/44963/2025
+Adopted Reference Number: EMA/44963/2025
 
 English (EN) (1.45 MB - PDF)
 
@@ -1071,9 +1003,7 @@ English (EN) (1.45 MB - PDF)
 
 CHMP post-authorisation summary of positive opinion for Opdivo (II-140)
 
-Adopted
-
-Reference Number: EMA/CHMP/94575/2025
+Adopted Reference Number: EMA/CHMP/94575/2025
 
 English (EN) (160.75 KB - PDF)
 
@@ -1083,9 +1013,7 @@ English (EN) (160.75 KB - PDF)
 
 CHMP post-authorisation summary of positive opinion for Opdivo (X-144)
 
-Adopted
-
-Reference Number: EMA/CHMP/108241/2025
+Adopted Reference Number: EMA/CHMP/108241/2025
 
 English (EN) (180.59 KB - PDF)
 
@@ -1095,9 +1023,7 @@ English (EN) (180.59 KB - PDF)
 
 Opdivo-H-C-WS-2717 : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/CHMP/59173/2025
+Adopted Reference Number: EMA/CHMP/59173/2025
 
 English (EN) (10.04 MB - PDF)
 
@@ -1107,9 +1033,7 @@ English (EN) (10.04 MB - PDF)
 
 CHMP post-authorisation summary of positive opinion for Opdivo (WS-2717)
 
-Adopted
-
-Reference Number: EMA/CHMP/15252/2025
+Adopted Reference Number: EMA/CHMP/15252/2025
 
 English (EN) (170.23 KB - PDF)
 
@@ -1119,9 +1043,7 @@ English (EN) (170.23 KB - PDF)
 
 Opdivo-H-C-WS-2672 : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/CHMP/554847/2024
+Adopted Reference Number: EMA/CHMP/554847/2024
 
 English (EN) (5.16 MB - PDF)
 
@@ -1131,9 +1053,7 @@ English (EN) (5.16 MB - PDF)
 
 CHMP post-authorisation summary of positive opinion for Opdivo (WS-2672)
 
-Adopted
-
-Reference Number: EMA/CHMP/515560/2024
+Adopted Reference Number: EMA/CHMP/515560/2024
 
 English (EN) (159.09 KB - PDF)
 
@@ -1143,9 +1063,7 @@ English (EN) (159.09 KB - PDF)
 
 Opdivo-H-C-003985-II-0137 : EPAR - Assessment report - Variation
 
-Adopted
-
-Reference Number: EMA/225115/2024
+Adopted Reference Number: EMA/225115/2024
 
 English (EN) (4.7 MB - PDF)
 
@@ -1155,9 +1073,7 @@ English (EN) (4.7 MB - PDF)
 
 CHMP post-authorisation summary of positive opinion for Opdivo (II-137)
 
-Adopted
-
-Reference Number: EMA/CHMP/172162/2024
+Adopted Reference Number: EMA/CHMP/172162/2024
 
 English (EN) (168.5 KB - PDF)
 
@@ -1177,9 +1093,7 @@ English (EN) (4.36 MB - PDF)
 
 Opdivo-H-C-003985-II-0130 : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/358599/2023
+Adopted Reference Number: EMA/358599/2023
 
 English (EN) (4.97 MB - PDF)
 
@@ -1189,9 +1103,7 @@ English (EN) (4.97 MB - PDF)
 
 CHMP post-authorisation summary of positive opinion for Opdivo (II-130)
 
-Adopted
-
-Reference Number: EMA/CHMP/292683/2023
+Adopted Reference Number: EMA/CHMP/292683/2023
 
 English (EN) (159.58 KB - PDF)
 
@@ -1201,9 +1113,7 @@ English (EN) (159.58 KB - PDF)
 
 Opdivo-H-C-003985-II-0117 : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/287093/2023
+Adopted Reference Number: EMA/287093/2023
 
 English (EN) (7.61 MB - PDF)
 
@@ -1223,9 +1133,7 @@ English (EN) (115.46 KB - PDF)
 
 Opdivo-H-C-003985-II-0125-G : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/221123/2023
+Adopted Reference Number: EMA/221123/2023
 
 English (EN) (8.01 MB - PDF)
 
@@ -1235,9 +1143,7 @@ English (EN) (8.01 MB - PDF)
 
 CHMP post-authorisation summary of positive opinion for Opdivo (II-125/G)
 
-Adopted
-
-Reference Number: EMA/CHMP/167454/2023
+Adopted Reference Number: EMA/CHMP/167454/2023
 
 English (EN) (152.65 KB - PDF)
 
@@ -1257,9 +1163,7 @@ English (EN) (144.21 KB - PDF)
 
 Opdivo-H-C-003985-II-0107 : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/155595/2022
+Adopted Reference Number: EMA/155595/2022
 
 English (EN) (8.9 MB - PDF)
 
@@ -1269,9 +1173,7 @@ English (EN) (8.9 MB - PDF)
 
 Opdivo-H-C-003985-II-0100 : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/155845/2022
+Adopted Reference Number: EMA/155845/2022
 
 English (EN) (6.52 MB - PDF)
 
@@ -1281,9 +1183,7 @@ English (EN) (6.52 MB - PDF)
 
 Opdivo-H-C-WS-2113 : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/155438/2022
+Adopted Reference Number: EMA/155438/2022
 
 English (EN) (10.49 MB - PDF)
 
@@ -1293,9 +1193,7 @@ English (EN) (10.49 MB - PDF)
 
 CHMP summary of positive opinion for Opdivo (II-100\\_II-107\\_WS-2113)
 
-Adopted
-
-Reference Number: EMA/CHMP/66144/2022
+Adopted Reference Number: EMA/CHMP/66144/2022
 
 English (EN) (184.28 KB - PDF)
 
@@ -1305,9 +1203,7 @@ English (EN) (184.28 KB - PDF)
 
 Opdivo-H-C-003985-II-0096 : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/556100/2021
+Adopted Reference Number: EMA/556100/2021
 
 English (EN) (9.89 MB - PDF)
 
@@ -1317,9 +1213,7 @@ English (EN) (9.89 MB - PDF)
 
 CHMP post-authorisation summary of positive opinion for Opdivo (II-96)
 
-Adopted
-
-Reference Number: EMA/CHMP/470881/2021
+Adopted Reference Number: EMA/CHMP/470881/2021
 
 English (EN) (164.7 KB - PDF)
 
@@ -1329,9 +1223,7 @@ English (EN) (164.7 KB - PDF)
 
 Opdivo-H-C-3985-II-0095 : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/CHMP/395647/2021
+Adopted Reference Number: EMA/CHMP/395647/2021
 
 English (EN) (6.2 MB - PDF)
 
@@ -1341,9 +1233,7 @@ English (EN) (6.2 MB - PDF)
 
 Opdivo - H/C/003985/P46/045 : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/400368/2021
+Adopted Reference Number: EMA/400368/2021
 
 English (EN) (779.11 KB - PDF)
 
@@ -1353,9 +1243,7 @@ English (EN) (779.11 KB - PDF)
 
 Opdivo - H-C-3985-WS-1840 : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/314215/2021
+Adopted Reference Number: EMA/314215/2021
 
 English (EN) (9.98 MB - PDF)
 
@@ -1365,9 +1253,7 @@ English (EN) (9.98 MB - PDF)
 
 CHMP post-authorisation summary of positive opinion for Opdivo (II-95)
 
-Adopted
-
-Reference Number: EMA/CHMP/341080/2021
+Adopted Reference Number: EMA/CHMP/341080/2021
 
 English (EN) (143.46 KB - PDF)
 
@@ -1397,9 +1283,7 @@ English (EN) (9.81 MB - PDF)
 
 CHMP post-authorisation summary of positive opinion for Opdivo (WS-1840)
 
-Adopted
-
-Reference Number: EMA/CHMP/264429/2021
+Adopted Reference Number: EMA/CHMP/264429/2021
 
 English (EN) (153.31 KB - PDF)
 
@@ -1419,9 +1303,7 @@ English (EN) (127.43 KB - PDF)
 
 CHMP post-authorisation summary of positive opinion for Opdivo (WS-1881)
 
-Adopted
-
-Reference Number: EMA/CHMP/210870/2021
+Adopted Reference Number: EMA/CHMP/210870/2021
 
 English (EN) (153.57 KB - PDF)
 
@@ -1431,9 +1313,7 @@ English (EN) (153.57 KB - PDF)
 
 Opdivo-H-C-3985-II-0092: EPAR - Assessment report - Variation
 
-Adopted
-
-Reference Number: EMA/CHMP/159169/2021
+Adopted Reference Number: EMA/CHMP/159169/2021
 
 English (EN) (6.68 MB - PDF)
 
@@ -1443,9 +1323,7 @@ English (EN) (6.68 MB - PDF)
 
 CHMP post-authorisation summary of positive opinion for Opdivo (II-92)
 
-Adopted
-
-Reference Number: EMA/CHMP/84465/2021
+Adopted Reference Number: EMA/CHMP/84465/2021
 
 English (EN) (159.3 KB - PDF)
 
@@ -1455,9 +1333,7 @@ English (EN) (159.3 KB - PDF)
 
 Opdivo-H-C-3985-II-0080 : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/CHMP/584553/2020
+Adopted Reference Number: EMA/CHMP/584553/2020
 
 English (EN) (3.08 MB - PDF)
 
@@ -1467,9 +1343,7 @@ English (EN) (3.08 MB - PDF)
 
 Opdivo-H-C-3985-WS-1783 : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/CHMP/603938/2020
+Adopted Reference Number: EMA/CHMP/603938/2020
 
 English (EN) (10.7 MB - PDF)
 
@@ -1479,9 +1353,7 @@ English (EN) (10.7 MB - PDF)
 
 CHMP post-authorisation summary of positive opinion for Opdivo (II-80)
 
-Adopted
-
-Reference Number: EMA/CHMP/550956/2020
+Adopted Reference Number: EMA/CHMP/550956/2020
 
 English (EN) (153.46 KB - PDF)
 
@@ -1491,9 +1363,7 @@ English (EN) (153.46 KB - PDF)
 
 CHMP post-authorisation summary of positive opinion for Opdivo (WS-1783)
 
-Adopted
-
-Reference Number: EMA/CHMP/451053/2020
+Adopted Reference Number: EMA/CHMP/451053/2020
 
 English (EN) (133.82 KB - PDF)
 
@@ -1523,9 +1393,7 @@ English (EN) (133.29 KB - PDF)
 
 Opdivo-H-C-3985-WS-01278 : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/902855/2019
+Adopted Reference Number: EMA/902855/2019
 
 English (EN) (10.49 MB - PDF)
 
@@ -1543,189 +1411,143 @@ English (EN) (77.43 KB - PDF)
 
 [View](/en/documents/smop/questions-and-answers-positive-opinion-change-marketing-authorisation-opdivo-nivolumab-and-yervoy-ipilimumab_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-12)
+[Other languages (22)](#file-language-dropdown-307)
 
 български (BG) (122.99 KB - PDF)
 
-**First published:**
-
-16/11/2018
+**First published:** 16/11/2018
 
 [View](/bg/documents/smop/questions-and-answers-positive-opinion-change-marketing-authorisation-opdivo-nivolumab-and-yervoy-ipilimumab_bg.pdf)
 
 español (ES) (99.71 KB - PDF)
 
-**First published:**
-
-16/11/2018
+**First published:** 16/11/2018
 
 [View](/es/documents/smop/questions-and-answers-positive-opinion-change-marketing-authorisation-opdivo-nivolumab-and-yervoy-ipilimumab_es.pdf)
 
 čeština (CS) (117.8 KB - PDF)
 
-**First published:**
-
-16/11/2018
+**First published:** 16/11/2018
 
 [View](/cs/documents/smop/questions-and-answers-positive-opinion-change-marketing-authorisation-opdivo-nivolumab-and-yervoy-ipilimumab_cs.pdf)
 
 dansk (DA) (99.6 KB - PDF)
 
-**First published:**
-
-16/11/2018
+**First published:** 16/11/2018
 
 [View](/da/documents/smop/questions-and-answers-positive-opinion-change-marketing-authorisation-opdivo-nivolumab-and-yervoy-ipilimumab_da.pdf)
 
 Deutsch (DE) (100.29 KB - PDF)
 
-**First published:**
-
-16/11/2018
+**First published:** 16/11/2018
 
 [View](/de/documents/smop/questions-and-answers-positive-opinion-change-marketing-authorisation-opdivo-nivolumab-and-yervoy-ipilimumab_de.pdf)
 
 eesti keel (ET) (98.15 KB - PDF)
 
-**First published:**
-
-16/11/2018
+**First published:** 16/11/2018
 
 [View](/et/documents/smop/questions-and-answers-positive-opinion-change-marketing-authorisation-opdivo-nivolumab-and-yervoy-ipilimumab_et.pdf)
 
 ελληνικά (EL) (123.53 KB - PDF)
 
-**First published:**
-
-16/11/2018
+**First published:** 16/11/2018
 
 [View](/el/documents/smop/questions-and-answers-positive-opinion-change-marketing-authorisation-opdivo-nivolumab-and-yervoy-ipilimumab_el.pdf)
 
 français (FR) (100.32 KB - PDF)
 
-**First published:**
-
-16/11/2018
+**First published:** 16/11/2018
 
 [View](/fr/documents/smop/questions-and-answers-positive-opinion-change-marketing-authorisation-opdivo-nivolumab-and-yervoy-ipilimumab_fr.pdf)
 
 hrvatski (HR) (113.1 KB - PDF)
 
-**First published:**
-
-16/11/2018
+**First published:** 16/11/2018
 
 [View](/hr/documents/smop/questions-and-answers-positive-opinion-change-marketing-authorisation-opdivo-nivolumab-and-yervoy-ipilimumab_hr.pdf)
 
 italiano (IT) (99.94 KB - PDF)
 
-**First published:**
-
-16/11/2018
+**First published:** 16/11/2018
 
 [View](/it/documents/smop/questions-and-answers-positive-opinion-change-marketing-authorisation-opdivo-nivolumab-and-yervoy-ipilimumab_it.pdf)
 
 latviešu valoda (LV) (120.23 KB - PDF)
 
-**First published:**
-
-16/11/2018
+**First published:** 16/11/2018
 
 [View](/lv/documents/smop/questions-and-answers-positive-opinion-change-marketing-authorisation-opdivo-nivolumab-and-yervoy-ipilimumab_lv.pdf)
 
 lietuvių kalba (LT) (119.11 KB - PDF)
 
-**First published:**
-
-16/11/2018
+**First published:** 16/11/2018
 
 [View](/lt/documents/smop/questions-and-answers-positive-opinion-change-marketing-authorisation-opdivo-nivolumab-and-yervoy-ipilimumab_lt.pdf)
 
 magyar (HU) (114.09 KB - PDF)
 
-**First published:**
-
-16/11/2018
+**First published:** 16/11/2018
 
 [View](/hu/documents/smop/questions-and-answers-positive-opinion-change-marketing-authorisation-opdivo-nivolumab-and-yervoy-ipilimumab_hu.pdf)
 
 Malti (MT) (119.38 KB - PDF)
 
-**First published:**
-
-16/11/2018
+**First published:** 16/11/2018
 
 [View](/mt/documents/smop/questions-and-answers-positive-opinion-change-marketing-authorisation-opdivo-nivolumab-and-yervoy-ipilimumab_mt.pdf)
 
 Nederlands (NL) (100.08 KB - PDF)
 
-**First published:**
-
-16/11/2018
+**First published:** 16/11/2018
 
 [View](/nl/documents/smop/questions-and-answers-positive-opinion-change-marketing-authorisation-opdivo-nivolumab-and-yervoy-ipilimumab_nl.pdf)
 
 polski (PL) (118.44 KB - PDF)
 
-**First published:**
-
-16/11/2018
+**First published:** 16/11/2018
 
 [View](/pl/documents/smop/questions-and-answers-positive-opinion-change-marketing-authorisation-opdivo-nivolumab-and-yervoy-ipilimumab_pl.pdf)
 
 português (PT) (99.73 KB - PDF)
 
-**First published:**
-
-16/11/2018
+**First published:** 16/11/2018
 
 [View](/pt/documents/smop/questions-and-answers-positive-opinion-change-marketing-authorisation-opdivo-nivolumab-and-yervoy-ipilimumab_pt.pdf)
 
 română (RO) (115.87 KB - PDF)
 
-**First published:**
-
-16/11/2018
+**First published:** 16/11/2018
 
 [View](/ro/documents/smop/questions-and-answers-positive-opinion-change-marketing-authorisation-opdivo-nivolumab-and-yervoy-ipilimumab_ro.pdf)
 
 slovenčina (SK) (115.97 KB - PDF)
 
-**First published:**
-
-16/11/2018
+**First published:** 16/11/2018
 
 [View](/sk/documents/smop/questions-and-answers-positive-opinion-change-marketing-authorisation-opdivo-nivolumab-and-yervoy-ipilimumab_sk.pdf)
 
 slovenščina (SL) (111.7 KB - PDF)
 
-**First published:**
-
-16/11/2018
+**First published:** 16/11/2018
 
 [View](/sl/documents/smop/questions-and-answers-positive-opinion-change-marketing-authorisation-opdivo-nivolumab-and-yervoy-ipilimumab_sl.pdf)
 
 Suomi (FI) (99.59 KB - PDF)
 
-**First published:**
-
-16/11/2018
+**First published:** 16/11/2018
 
 [View](/fi/documents/smop/questions-and-answers-positive-opinion-change-marketing-authorisation-opdivo-nivolumab-and-yervoy-ipilimumab_fi.pdf)
 
 svenska (SV) (99.02 KB - PDF)
 
-**First published:**
-
-16/11/2018
+**First published:** 16/11/2018
 
 [View](/sv/documents/smop/questions-and-answers-positive-opinion-change-marketing-authorisation-opdivo-nivolumab-and-yervoy-ipilimumab_sv.pdf)
 
 CHMP post-authorisation summary of positive opinion for Opdivo (WS-1278)
 
-Adopted
-
-Reference Number: EMA/CHMP/788598/2018
+Adopted Reference Number: EMA/CHMP/788598/2018
 
 English (EN) (72.85 KB - PDF)
 
@@ -1735,9 +1557,7 @@ English (EN) (72.85 KB - PDF)
 
 Opdivo-H-C-3985-II-0041: EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/665778/2018
+Adopted Reference Number: EMA/665778/2018
 
 English (EN) (4.14 MB - PDF)
 
@@ -1757,9 +1577,7 @@ English (EN) (68.19 KB - PDF)
 
 Questions and answers on the refusal of a change to the marketing authorisations for Opdivo (nivolumab) and Yervoy (ipilimumab)
 
-Adopted
-
-Reference Number: EMA/568014/2018 Rev.1
+Adopted Reference Number: EMA/568014/2018 Rev.1
 
 English (EN) (78.19 KB - PDF)
 
@@ -1769,15 +1587,11 @@ English (EN) (78.19 KB - PDF)
 
 CHMP post-authorisation summary of positive opinion for Opdivo
 
-Adopted
-
-Reference Number: EMA/CHMP/442334/2018
+Adopted Reference Number: EMA/CHMP/442334/2018
 
 English (EN) (73.04 KB - PDF)
 
-**First published:** 28/06/2018
-
-**Last updated:** 28/06/2018
+**First published:** 28/06/2018 **Last updated:** 28/06/2018
 
 [View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-opdivo_en.pdf-1)
 
@@ -1787,23 +1601,17 @@ Reference Number: EMA/CHMP/282459/2018
 
 English (EN) (62.4 KB - PDF)
 
-**First published:** 08/05/2018
-
-**Last updated:** 08/05/2018
+**First published:** 08/05/2018 **Last updated:** 08/05/2018
 
 [View](/en/documents/scientific-conclusion/opdivo-h-c-psusa-00010379-201707-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf)
 
 Opdivo-H-C-PSUSA-00010379-201701 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
 
-Adopted
-
-Reference Number: EMA/664231/2017
+Adopted Reference Number: EMA/664231/2017
 
 English (EN) (68.59 KB - PDF)
 
-**First published:** 09/10/2017
-
-**Last updated:** 09/10/2017
+**First published:** 09/10/2017 **Last updated:** 09/10/2017
 
 [View](/en/documents/scientific-conclusion/opdivo-h-c-psusa-00010379-201701-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf)
 
@@ -1813,9 +1621,7 @@ Reference Number: EMA/CHMP/392346/2017
 
 English (EN) (7.22 MB - PDF)
 
-**First published:** 20/07/2017
-
-**Last updated:** 25/10/2018
+**First published:** 20/07/2017 **Last updated:** 25/10/2018
 
 [View](/en/documents/variation-report/opdivo-h-c-3985-ii-0019-epar-assessment-report-variation_en.pdf)
 
@@ -1825,37 +1631,27 @@ Reference Number: EMA/387230/2017
 
 English (EN) (67.92 KB - PDF)
 
-**First published:** 16/06/2017
-
-**Last updated:** 16/06/2017
+**First published:** 16/06/2017 **Last updated:** 16/06/2017
 
 [View](/en/documents/scientific-conclusion/opdivo-h-c-psusa-00010379-201607-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf)
 
 Opdivo-H-C-3985-II-0017 : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/CHMP/271863/2017
+Adopted Reference Number: EMA/CHMP/271863/2017
 
 English (EN) (7.9 MB - PDF)
 
-**First published:** 16/06/2017
-
-**Last updated:** 16/06/2017
+**First published:** 16/06/2017 **Last updated:** 16/06/2017
 
 [View](/en/documents/variation-report/opdivo-h-c-3985-ii-0017-epar-assessment-report-variation_en.pdf)
 
 CHMP post-authorisation summary of positive opinion for Opdivo
 
-Adopted
-
-Reference Number: EMA/CHMP/251204/2017
+Adopted Reference Number: EMA/CHMP/251204/2017
 
 English (EN) (71.17 KB - PDF)
 
-**First published:** 21/04/2017
-
-**Last updated:** 21/04/2017
+**First published:** 21/04/2017 **Last updated:** 21/04/2017
 
 [View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-opdivo_en.pdf-3)
 
@@ -1865,9 +1661,7 @@ Reference Number: EMA/CHMP/193182/2017
 
 English (EN) (71.19 KB - PDF)
 
-**First published:** 24/03/2017
-
-**Last updated:** 24/03/2017
+**First published:** 24/03/2017 **Last updated:** 24/03/2017
 
 [View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-opdivo_en.pdf-4)
 
@@ -1875,121 +1669,87 @@ Opdivo-H-C-3985-II-0012 : EPAR - Assessment report - Variation
 
 English (EN) (4.83 MB - PDF)
 
-**First published:** 20/01/2017
-
-**Last updated:** 20/01/2017
+**First published:** 20/01/2017 **Last updated:** 20/01/2017
 
 [View](/en/documents/variation-report/opdivo-h-c-3985-ii-0012-epar-assessment-report-variation_en.pdf)
 
 CHMP post-authorisation summary of positive opinion for Opdivo
 
-Adopted
-
-Reference Number: EMA/CHMP/671272/2016
+Adopted Reference Number: EMA/CHMP/671272/2016
 
 English (EN) (70.56 KB - PDF)
 
-**First published:** 14/10/2016
-
-**Last updated:** 14/10/2016
+**First published:** 14/10/2016 **Last updated:** 14/10/2016
 
 [View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-opdivo_en.pdf-2)
 
 Opdivo-H-C-3985-II-0003 : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/CHMP/215704/2016
+Adopted Reference Number: EMA/CHMP/215704/2016
 
 English (EN) (4.67 MB - PDF)
 
-**First published:** 27/06/2016
-
-**Last updated:** 27/06/2016
+**First published:** 27/06/2016 **Last updated:** 27/06/2016
 
 [View](/en/documents/variation-report/opdivo-h-c-3985-ii-0003-epar-assessment-report-variation_en.pdf)
 
 Opdivo-H-C-003985-II-0002  : EPAR - Scientific Discussion - Variation
 
-Adopted
-
-Reference Number: EMA/246304/2016
+Adopted Reference Number: EMA/246304/2016
 
 English (EN) (7.53 MB - PDF)
 
-**First published:** 03/05/2016
-
-**Last updated:** 03/05/2016
+**First published:** 03/05/2016 **Last updated:** 03/05/2016
 
 [View](/en/documents/variation-report/opdivo-h-c-003985-ii-0002-epar-scientific-discussion-variation_en.pdf)
 
 Opdivo-H-C-3985-II-0008 : EPAR - Scientific Discussion - Variation
 
-Adopted
-
-Reference Number: EMA/246304/2016
+Adopted Reference Number: EMA/246304/2016
 
 English (EN) (5.85 MB - PDF)
 
-**First published:** 03/05/2016
-
-**Last updated:** 03/05/2016
+**First published:** 03/05/2016 **Last updated:** 03/05/2016
 
 [View](/en/documents/variation-report/opdivo-h-c-3985-ii-0008-epar-scientific-discussion-variation_en.pdf)
 
 CHMP post-authorisation summary of positive opinion for Opdivo
 
-Adopted
-
-Reference Number: EMA/CHMP/231518/2016
+Adopted Reference Number: EMA/CHMP/231518/2016
 
 English (EN) (70.99 KB - PDF)
 
-**First published:** 01/04/2016
-
-**Last updated:** 01/04/2016
+**First published:** 01/04/2016 **Last updated:** 01/04/2016
 
 [View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-opdivo_en.pdf)
 
 CHMP post-authorisation summary of positive opinion for Opdivo (II/0002)
 
-Adopted
-
-Reference Number: EMA/CHMP/148121/2016
+Adopted Reference Number: EMA/CHMP/148121/2016
 
 English (EN) (118.14 KB - PDF)
 
-**First published:** 26/02/2016
-
-**Last updated:** 26/02/2016
+**First published:** 26/02/2016 **Last updated:** 26/02/2016
 
 [View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-opdivo-ii0002_en.pdf)
 
 Opdivo-H-C-3985-II-0001 : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/682492/2015
+Adopted Reference Number: EMA/682492/2015
 
 English (EN) (4.55 MB - PDF)
 
-**First published:** 02/12/2015
-
-**Last updated:** 02/12/2015
+**First published:** 02/12/2015 **Last updated:** 02/12/2015
 
 [View](/en/documents/variation-report/opdivo-h-c-3985-ii-0001-epar-assessment-report-variation_en.pdf)
 
 CHMP post-authorisation summary of positive opinion for Opdivo
 
-Adopted
-
-Reference Number: EMA/CHMP/606649/2015
+Adopted Reference Number: EMA/CHMP/606649/2015
 
 English (EN) (47.49 KB - PDF)
 
-**First published:** 25/09/2015
-
-**Last updated:** 25/09/2015
+**First published:** 25/09/2015 **Last updated:** 25/09/2015
 
 [View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-opdivo_en.pdf-0)
 
@@ -1997,99 +1757,161 @@ English (EN) (47.49 KB - PDF)
 
 Opdivo : EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/CHMP/76688/2015
+Adopted Reference Number: EMA/CHMP/76688/2015
 
 English (EN) (4.54 MB - PDF)
 
-**First published:** 16/07/2015
-
-**Last updated:** 16/07/2015
+**First published:** 16/07/2015 **Last updated:** 16/07/2015
 
 [View](/en/documents/assessment-report/opdivo-epar-public-assessment-report_en.pdf)
 
 CHMP summary of positive opinion for Opdivo
 
-Adopted
-
-Reference Number: EMA/CHMP/76686/2015
+Adopted Reference Number: EMA/CHMP/76686/2015
 
 English (EN) (67.9 KB - PDF)
 
-**First published:** 24/04/2015
-
-**Last updated:** 24/04/2015
+**First published:** 24/04/2015 **Last updated:** 24/04/2015
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-opdivo_en.pdf)
 
 ## News on Opdivo
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 26-29 January 2026](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-26-29-january-2026) 30/01/2026
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 20-23 April 2026](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-20-23-april-2026)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 24-27 March 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-24-27-march-2025) 28/03/2025
+24/04/2026
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 27-30 January 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-27-30-january-2025) 31/01/2025
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 26-29 January 2026](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-26-29-january-2026)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 11-14 November 2024](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-11-14-november-2024) 15/11/2024
+30/01/2026
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 22-25 April 2024](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-22-25-april-2024) 26/04/2024
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 24-27 March 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-24-27-march-2025)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 17-20 July 2023](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-17-20-july-2023) 21/07/2023
+28/03/2025
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 22-25 May 2023](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-22-25-may-2023) 26/05/2023
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 27-30 January 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-27-30-january-2025)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 24 - 26 April 2023](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-24-26-april-2023) 26/04/2023
+31/01/2025
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 21-24 February 2022](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-21-24-february-2022) 25/02/2022
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 11-14 November 2024](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-11-14-november-2024)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 13-16 September 2021](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-13-16-september-2021) 17/09/2021
+15/11/2024
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 21-24 June 2021](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-21-24-june-2021) 25/06/2021
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 22-25 April 2024](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-22-25-april-2024)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 17-20 May 2021](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-17-20-may-2021) 21/05/2021
+26/04/2024
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 19-22 April 2021](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-19-22-april-2021) 23/04/2021
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 17-20 July 2023](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-17-20-july-2023)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 22-25 February 2021](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-22-25-february-2021) 26/02/2021
+21/07/2023
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 12-15 October 2020](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-12-15-october-2020) 16/10/2020
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 22-25 May 2023](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-22-25-may-2023)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 14-17 September 2020](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-14-17-september-2020) 18/09/2020
+26/05/2023
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 24-27 February 2020](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-24-27-february-2020) 28/02/2020
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 24 - 26 April 2023](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-24-26-april-2023)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 12-15 November 2018](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-12-15-november-2018) 16/11/2018
+26/04/2023
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 17-20 September 2018](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-17-20-september-2018) 21/09/2018
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 21-24 February 2022](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-21-24-february-2022)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 23-26 July 2018](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-23-26-july-2018) 27/07/2018
+25/02/2022
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 23-26 July 2018](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-23-26-july-2018) 27/07/2018
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 13-16 September 2021](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-13-16-september-2021)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 25-28 June 2018](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-25-28-june-2018) 29/06/2018
+17/09/2021
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 22-25 January 2018](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-22-25-january-2018) 26/01/2018
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 21-24 June 2021](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-21-24-june-2021)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 11 to 14 September 2017](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-11-14-september-2017) 15/09/2017
+25/06/2021
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 18-21 April 2017](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-18-21-april-2017) 21/04/2017
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 17-20 May 2021](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-17-20-may-2021)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 20-23 March 2017](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-20-23-march-2017) 24/03/2017
+21/05/2021
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 10-13 October 2016](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-10-13-october-2016) 14/10/2016
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 19-22 April 2021](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-19-22-april-2021)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 29 March - 1 April 2016](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-29-march-1-april-2016) 01/04/2016
+23/04/2021
 
-[New treatment for advanced form of kidney cancer](/en/news/new-treatment-advanced-form-kidney-cancer) 26/02/2016
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 22-25 February 2021](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-22-25-february-2021)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 22-25 February 2016](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-22-25-february-2016) 26/02/2016
+26/02/2021
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 21-24 September 2015](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-21-24-september-2015) 25/09/2015
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 12-15 October 2020](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-12-15-october-2020)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 20-23 April 2015](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-20-23-april-2015) 24/04/2015
+16/10/2020
 
-[New treatment for advanced melanoma](/en/news/new-treatment-advanced-melanoma) 24/04/2015
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 14-17 September 2020](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-14-17-september-2020)
+
+18/09/2020
+
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 24-27 February 2020](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-24-27-february-2020)
+
+28/02/2020
+
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 12-15 November 2018](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-12-15-november-2018)
+
+16/11/2018
+
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 17-20 September 2018](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-17-20-september-2018)
+
+21/09/2018
+
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 23-26 July 2018](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-23-26-july-2018)
+
+27/07/2018
+
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 23-26 July 2018](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-23-26-july-2018)
+
+27/07/2018
+
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 25-28 June 2018](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-25-28-june-2018)
+
+29/06/2018
+
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 22-25 January 2018](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-22-25-january-2018)
+
+26/01/2018
+
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 11 to 14 September 2017](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-11-14-september-2017)
+
+15/09/2017
+
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 18-21 April 2017](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-18-21-april-2017)
+
+21/04/2017
+
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 20-23 March 2017](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-20-23-march-2017)
+
+24/03/2017
+
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 10-13 October 2016](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-10-13-october-2016)
+
+14/10/2016
+
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 29 March - 1 April 2016](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-29-march-1-april-2016)
+
+01/04/2016
+
+[New treatment for advanced form of kidney cancer](/en/news/new-treatment-advanced-form-kidney-cancer)
+
+26/02/2016
+
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 22-25 February 2016](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-22-25-february-2016)
+
+26/02/2016
+
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 21-24 September 2015](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-21-24-september-2015)
+
+25/09/2015
+
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 20-23 April 2015](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-20-23-april-2015)
+
+24/04/2015
+
+[New treatment for advanced melanoma](/en/news/new-treatment-advanced-melanoma)
+
+24/04/2015
 
 ## Product information - with tracked changes
 
@@ -2099,299 +1921,153 @@ Opdivo : EPAR - Product information - tracked changes
 
 English (EN) (3.08 MB - DOCX)
 
-**First published:** 02/05/2025
-
-**Last updated:** 21/11/2025
+**First published:** 02/05/2025 **Last updated:** 21/11/2025
 
 [View](/en/documents/product-information-tracked-changes/opdivo-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-644)
+[Other languages (24)](#file-language-dropdown-909)
 
 български (BG) (3.04 MB - DOCX)
 
-**First published:**
-
-02/05/2025
-
-**Last updated:**
-
-21/11/2025
+**First published:** 02/05/2025 **Last updated:** 21/11/2025
 
 [View](/bg/documents/product-information-tracked-changes/opdivo-epar-product-information-tracked-changes_bg.docx)
 
 español (ES) (3.06 MB - DOCX)
 
-**First published:**
-
-02/05/2025
-
-**Last updated:**
-
-21/11/2025
+**First published:** 02/05/2025 **Last updated:** 21/11/2025
 
 [View](/es/documents/product-information-tracked-changes/opdivo-epar-product-information-tracked-changes_es.docx)
 
 čeština (CS) (2.99 MB - DOCX)
 
-**First published:**
-
-02/05/2025
-
-**Last updated:**
-
-21/11/2025
+**First published:** 02/05/2025 **Last updated:** 21/11/2025
 
 [View](/cs/documents/product-information-tracked-changes/opdivo-epar-product-information-tracked-changes_cs.docx)
 
 dansk (DA) (2.95 MB - DOCX)
 
-**First published:**
-
-02/05/2025
-
-**Last updated:**
-
-21/11/2025
+**First published:** 02/05/2025 **Last updated:** 21/11/2025
 
 [View](/da/documents/product-information-tracked-changes/opdivo-epar-product-information-tracked-changes_da.docx)
 
 Deutsch (DE) (2.84 MB - DOCX)
 
-**First published:**
-
-02/05/2025
-
-**Last updated:**
-
-21/11/2025
+**First published:** 02/05/2025 **Last updated:** 21/11/2025
 
 [View](/de/documents/product-information-tracked-changes/opdivo-epar-product-information-tracked-changes_de.docx)
 
 eesti keel (ET) (2.98 MB - DOCX)
 
-**First published:**
-
-02/05/2025
-
-**Last updated:**
-
-21/11/2025
+**First published:** 02/05/2025 **Last updated:** 21/11/2025
 
 [View](/et/documents/product-information-tracked-changes/opdivo-epar-product-information-tracked-changes_et.docx)
 
 ελληνικά (EL) (3.06 MB - DOCX)
 
-**First published:**
-
-02/05/2025
-
-**Last updated:**
-
-21/11/2025
+**First published:** 02/05/2025 **Last updated:** 21/11/2025
 
 [View](/el/documents/product-information-tracked-changes/opdivo-epar-product-information-tracked-changes_el.docx)
 
 français (FR) (3 MB - DOCX)
 
-**First published:**
-
-02/05/2025
-
-**Last updated:**
-
-21/11/2025
+**First published:** 02/05/2025 **Last updated:** 21/11/2025
 
 [View](/fr/documents/product-information-tracked-changes/opdivo-epar-product-information-tracked-changes_fr.docx)
 
 hrvatski (HR) (2.98 MB - DOCX)
 
-**First published:**
-
-02/05/2025
-
-**Last updated:**
-
-21/11/2025
+**First published:** 02/05/2025 **Last updated:** 21/11/2025
 
 [View](/hr/documents/product-information-tracked-changes/opdivo-epar-product-information-tracked-changes_hr.docx)
 
 íslenska (IS) (2.96 MB - DOCX)
 
-**First published:**
-
-02/05/2025
-
-**Last updated:**
-
-21/11/2025
+**First published:** 02/05/2025 **Last updated:** 21/11/2025
 
 [View](/is/documents/product-information-tracked-changes/opdivo-epar-product-information-tracked-changes_is.docx)
 
 italiano (IT) (2.95 MB - DOCX)
 
-**First published:**
-
-02/05/2025
-
-**Last updated:**
-
-21/11/2025
+**First published:** 02/05/2025 **Last updated:** 21/11/2025
 
 [View](/it/documents/product-information-tracked-changes/opdivo-epar-product-information-tracked-changes_it.docx)
 
 latviešu valoda (LV) (2.96 MB - DOCX)
 
-**First published:**
-
-02/05/2025
-
-**Last updated:**
-
-21/11/2025
+**First published:** 02/05/2025 **Last updated:** 21/11/2025
 
 [View](/lv/documents/product-information-tracked-changes/opdivo-epar-product-information-tracked-changes_lv.docx)
 
 lietuvių kalba (LT) (2.97 MB - DOCX)
 
-**First published:**
-
-02/05/2025
-
-**Last updated:**
-
-21/11/2025
+**First published:** 02/05/2025 **Last updated:** 21/11/2025
 
 [View](/lt/documents/product-information-tracked-changes/opdivo-epar-product-information-tracked-changes_lt.docx)
 
 magyar (HU) (3.03 MB - DOCX)
 
-**First published:**
-
-02/05/2025
-
-**Last updated:**
-
-21/11/2025
+**First published:** 02/05/2025 **Last updated:** 21/11/2025
 
 [View](/hu/documents/product-information-tracked-changes/opdivo-epar-product-information-tracked-changes_hu.docx)
 
 Malti (MT) (2.95 MB - DOCX)
 
-**First published:**
-
-02/05/2025
-
-**Last updated:**
-
-21/11/2025
+**First published:** 02/05/2025 **Last updated:** 21/11/2025
 
 [View](/mt/documents/product-information-tracked-changes/opdivo-epar-product-information-tracked-changes_mt.docx)
 
 Nederlands (NL) (2.97 MB - DOCX)
 
-**First published:**
-
-02/05/2025
-
-**Last updated:**
-
-21/11/2025
+**First published:** 02/05/2025 **Last updated:** 21/11/2025
 
 [View](/nl/documents/product-information-tracked-changes/opdivo-epar-product-information-tracked-changes_nl.docx)
 
 norsk (NO) (2.94 MB - DOCX)
 
-**First published:**
-
-02/05/2025
-
-**Last updated:**
-
-21/11/2025
+**First published:** 02/05/2025 **Last updated:** 21/11/2025
 
 [View](/no/documents/product-information-tracked-changes/opdivo-epar-product-information-tracked-changes_no.docx)
 
 polski (PL) (2.98 MB - DOCX)
 
-**First published:**
-
-02/05/2025
-
-**Last updated:**
-
-21/11/2025
+**First published:** 02/05/2025 **Last updated:** 21/11/2025
 
 [View](/pl/documents/product-information-tracked-changes/opdivo-epar-product-information-tracked-changes_pl.docx)
 
 português (PT) (2.99 MB - DOCX)
 
-**First published:**
-
-02/05/2025
-
-**Last updated:**
-
-21/11/2025
+**First published:** 02/05/2025 **Last updated:** 21/11/2025
 
 [View](/pt/documents/product-information-tracked-changes/opdivo-epar-product-information-tracked-changes_pt.docx)
 
 română (RO) (2.98 MB - DOCX)
 
-**First published:**
-
-02/05/2025
-
-**Last updated:**
-
-21/11/2025
+**First published:** 02/05/2025 **Last updated:** 21/11/2025
 
 [View](/ro/documents/product-information-tracked-changes/opdivo-epar-product-information-tracked-changes_ro.docx)
 
 slovenčina (SK) (2.98 MB - DOCX)
 
-**First published:**
-
-02/05/2025
-
-**Last updated:**
-
-21/11/2025
+**First published:** 02/05/2025 **Last updated:** 21/11/2025
 
 [View](/sk/documents/product-information-tracked-changes/opdivo-epar-product-information-tracked-changes_sk.docx)
 
 slovenščina (SL) (2.99 MB - DOCX)
 
-**First published:**
-
-02/05/2025
-
-**Last updated:**
-
-21/11/2025
+**First published:** 02/05/2025 **Last updated:** 21/11/2025
 
 [View](/sl/documents/product-information-tracked-changes/opdivo-epar-product-information-tracked-changes_sl.docx)
 
 Suomi (FI) (2.99 MB - DOCX)
 
-**First published:**
-
-02/05/2025
-
-**Last updated:**
-
-21/11/2025
+**First published:** 02/05/2025 **Last updated:** 21/11/2025
 
 [View](/fi/documents/product-information-tracked-changes/opdivo-epar-product-information-tracked-changes_fi.docx)
 
 svenska (SV) (2.79 MB - DOCX)
 
-**First published:**
-
-02/05/2025
-
-**Last updated:**
-
-21/11/2025
+**First published:** 02/05/2025 **Last updated:** 21/11/2025
 
 [View](/sv/documents/product-information-tracked-changes/opdivo-epar-product-information-tracked-changes_sv.docx)
 
@@ -2409,6 +2085,7 @@ svenska (SV) (2.79 MB - DOCX)
 - [Opdivo - withdrawal of application for variation to marketing authorisation](/en/medicines/human/variation/opdivo-0)
 - [Opdivo - withdrawal of application for variation to marketing authorisation](/en/medicines/human/variation/opdivo-2)
 - [EMEA-001407-PIP03-20 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001407-pip03-20)
+- [Opdivo - opinion on variation to marketing authorisation](/en/medicines/human/variation/opdivo-3)
 - [DARWIN EU® Overall survival in patients with locally advanced or metastatic non-small cell lung cancer treated with selected immunotherapies as first line of treatment - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000112)
 - [Prospective Non-interventional Study of Cabozantinib as Monotherapy or in Combination With Nivolumab in Patients With Advanced or Metastatic Renal Cell Carcinoma Under Real-life Clinical Setting in 1st Line Treatment (CABOCARE) - post-authorisation study](https://catalogues.ema.europa.eu/study/199006)
 
@@ -2416,8 +2093,8 @@ svenska (SV) (2.79 MB - DOCX)
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 18/03/2026
+**This page was last updated on**
+
+08/05/2026
 
 ## Share this page
-
-[Back to top](#main-content)

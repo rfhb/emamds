@@ -4,8 +4,8 @@ document_pages: 27
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/rapilysin-epar-product-information_en.pdf
 document_name: rapilysin-epar-product-information_en.pdf
 version: success
-processing_time: 6.070104
-conversion_datetime: 2026-05-10 13:12:04.6452
+processing_time: 5.9033477
+conversion_datetime: 2026-05-10 13:15:31.067266
 docling_version:
   docling-serve: 1.17.0
   docling-jobkit: 1.18.0

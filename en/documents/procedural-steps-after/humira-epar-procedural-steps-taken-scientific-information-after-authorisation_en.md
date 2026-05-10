@@ -4,8 +4,8 @@ document_pages: 3
 document_pathfilename: www.ema.europa.eu/en/documents/procedural-steps-after/humira-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
 document_name: humira-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
 version: success
-processing_time: 1.6217468
-conversion_datetime: 2026-05-10 13:10:52.373858
+processing_time: 1.6392962
+conversion_datetime: 2026-05-10 13:26:00.485803
 docling_version:
   docling-serve: 1.17.0
   docling-jobkit: 1.18.0

@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-12-02 11:28:34
+document_datetime: 2026-05-07 16:54:37
 document_pages: 37
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/mysildecard-epar-product-information_en.pdf
 document_name: mysildecard-epar-product-information_en.pdf
 version: success
-processing_time: 7.3744125
-conversion_datetime: 2025-12-23 07:45:35.530467
+processing_time: 8.2435234
+conversion_datetime: 2026-05-10 12:19:47.766689
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.17.0
+  docling-jobkit: 1.18.0
+  docling: 2.92.0
+  docling-core: 2.74.1
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.10.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -62,11 +62,9 @@ The recommended dose is 20 mg three times a day (TID). Physicians should advise 
 
 ## Paediatric population (1 year to 17 years)
 
-For paediatric patients aged 1 year to 17 years old, the recommended dose in patients ≤ 20 kg is 10 mg three times a day and for patients &gt; 20 kg is 20 mg three times a day. Higher than recommended doses should not be used in paediatric patients with PAH (see also sections 4.4 and 5.1). The 20 mg tablet
+For paediatric patients aged 1 year to 17 years old, the recommended dose in patients ≤ 20 kg is 10 mg three times a day and for patients &gt; 20 kg is 20 mg three times a day. Higher than recommended doses should not be used in paediatric patients with PAH (see also sections 4.4 and 5.1). The 20 mg tablet should not be used in cases where 10 mg TID should be administered in younger patients. Other pharmaceutical forms are available for administration to patients ≤ 20 kg and other younger patients who are not able to swallow tablets.
 
 <div style=\"page-break-after: always\"></div>
-
-should not be used in cases where 10 mg TID should be administered in younger patients. Other pharmaceutical forms are available for administration to patients ≤ 20 kg and other younger patients who are not able to swallow tablets.
 
 ## Patients using other medicinal products
 
@@ -116,9 +114,9 @@ Patients who have loss of vision in one eye because of non-arteritic anterior is
 
 The safety of sildenafil has not been studied in the following sub-groups of patients and its use is therefore contraindicated:
 
-- Severe hepatic impairment,
-- Recent history of stroke or myocardial infarction,
-- Severe hypotension (blood pressure &lt; 90/50 mmHg) at initiation.
+-  Severe hepatic impairment,
+-  Recent history of stroke or myocardial infarction,
+-  Severe hypotension (blood pressure &lt; 90/50 mmHg) at initiation.
 
 ## 4.4 Special warnings and precautions for use
 
@@ -138,11 +136,9 @@ When prescribing sildenafil, physicians should carefully consider whether patien
 
 ## Cardiovascular risk factors
 
-In post-marketing experience with sildenafil for male erectile dysfunction, serious cardiovascular events, including myocardial infarction, unstable angina, sudden cardiac death, ventricular arrhythmia, cerebrovascular haemorrhage, transient ischaemic attack, hypertension and hypotension have been reported in temporal association with the use of sildenafil. Most, but not all, of these patients had
+In post-marketing experience with sildenafil for male erectile dysfunction, serious cardiovascular events, including myocardial infarction, unstable angina, sudden cardiac death, ventricular arrhythmia, cerebrovascular haemorrhage, transient ischaemic attack, hypertension and hypotension have been reported in temporal association with the use of sildenafil. Most, but not all, of these patients had pre-existing cardiovascular risk factors. Many events were reported to occur during or shortly after sexual intercourse and a few were reported to occur shortly after the use of sildenafil without sexual activity. It is not possible to determine whether these events are related directly to these factors or to other factors.
 
 <div style=\"page-break-after: always\"></div>
-
-pre-existing cardiovascular risk factors. Many events were reported to occur during or shortly after sexual intercourse and a few were reported to occur shortly after the use of sildenafil without sexual activity. It is not possible to determine whether these events are related directly to these factors or to other factors.
 
 ## Priapism
 
@@ -172,11 +168,9 @@ In pulmonary arterial hypertension patients, there may be a potential for increa
 
 ## Veno-occlusive disease
 
-No data are available with sildenafil in patients with pulmonary hypertension associated with pulmonary veno-occlusive disease. However, cases of life threatening pulmonary oedema have been
+No data are available with sildenafil in patients with pulmonary hypertension associated with pulmonary veno-occlusive disease. However, cases of life threatening pulmonary oedema have been reported with vasodilators (mainly prostacyclin) when used in those patients. Consequently, should signs of pulmonary oedema occur when sildenafil is administered in patients with pulmonary hypertension, the possibility of associated veno-occlusive disease should be considered.
 
 <div style=\"page-break-after: always\"></div>
-
-reported with vasodilators (mainly prostacyclin) when used in those patients. Consequently, should signs of pulmonary oedema occur when sildenafil is administered in patients with pulmonary hypertension, the possibility of associated veno-occlusive disease should be considered.
 
 ## Use of sildenafil with bosentan
 
@@ -216,11 +210,11 @@ Co-administration of bosentan (a moderate inducer of CYP3A4, CYP2C9 and possibly
 
 Efficacy of sildenafil should be closely monitored in patients using concomitant potent CYP3A4 inducers, such as carbamazepine, phenytoin, phenobarbital, St John's wort and rifampicine.
 
-Co-administration of the HIV protease inhibitor ritonavir, which is a highly potent P450 inhibitor, at steady state (500 mg twice daily) with sildenafil (100 mg single dose) resulted in a 300% (4-fold)increase in sildenafil Cmax and a 1,000% (11-fold) increase in sildenafil plasma AUC. At 24 hours, the plasma levels of sildenafil were still approximately 200 ng/ml, compared to approximately 5 ng/ml when sildenafil was administered alone. This is consistent with ritonavir's marked effects on a broad range of P450 substrates. Based on these pharmacokinetic results co-administration of sildenafil with ritonavir is contraindicated in pulmonary arterial hypertension patients (see section 4.3).
+Co-administration of the HIV protease inhibitor ritonavir, which is a highly potent P450 inhibitor, at steady state (500 mg twice daily) with sildenafil (100 mg single dose) resulted in a 300% (4-fold)increase in sildenafil C max and a 1,000% (11-fold) increase in sildenafil plasma AUC. At 24 hours, the plasma levels of sildenafil were still approximately 200 ng/ml, compared to approximately 5 ng/ml when sildenafil was administered alone. This is consistent with ritonavir's marked effects on a broad range of P450 substrates. Based on these pharmacokinetic results co-administration of sildenafil with ritonavir is contraindicated in pulmonary arterial hypertension patients (see section 4.3).
 
-Co-administration of the HIV protease inhibitor saquinavir, a CYP3A4 inhibitor, at steady state (1200 mg three times a day) with sildenafil (100 mg single dose) resulted in a 140% increase in sildenafil Cmax and a 210% increase in sildenafil AUC. Sildenafil had no effect on saquinavir pharmacokinetics. For dose recommendations, see section 4.2.
+Co-administration of the HIV protease inhibitor saquinavir, a CYP3A4 inhibitor, at steady state (1200 mg three times a day) with sildenafil (100 mg single dose) resulted in a 140% increase in sildenafil C max and a 210% increase in sildenafil AUC. Sildenafil had no effect on saquinavir pharmacokinetics. For dose recommendations, see section 4.2.
 
-When a single 100 mg dose of sildenafil was administered with erythromycin, a moderate CYP3A4 inhibitor, at steady state (500 mg twice daily for 5 days), there was a 182% increase in sildenafil systemic exposure (AUC). For dose recommendations, see section 4.2. In healthy male volunteers, there was no evidence of an effect of azithromycin (500 mg daily for 3 days) on the AUC, Cmax, Tmax, elimination rate constant, or subsequent half-life of sildenafil or its principal circulating metabolite. No dose adjustment is required. Cimetidine (800 mg), a cytochrome P450 inhibitor and a non-specific CYP3A4 inhibitor, caused a 56% increase in plasma sildenafil concentrations when co-administered with sildenafil (50 mg) to healthy volunteers. No dose adjustment is required.
+When a single 100 mg dose of sildenafil was administered with erythromycin, a moderate CYP3A4 inhibitor, at steady state (500 mg twice daily for 5 days), there was a 182% increase in sildenafil systemic exposure (AUC). For dose recommendations, see section 4.2. In healthy male volunteers, there was no evidence of an effect of azithromycin (500 mg daily for 3 days) on the AUC, C max , T max , elimination rate constant, or subsequent half-life of sildenafil or its principal circulating metabolite. No dose adjustment is required. Cimetidine (800 mg), a cytochrome P450 inhibitor and a non-specific CYP3A4 inhibitor, caused a 56% increase in plasma sildenafil concentrations when co-administered with sildenafil (50 mg) to healthy volunteers. No dose adjustment is required.
 
 The most potent of the CYP3A4 inhibitors such as ketoconazole and itraconazole would be expected to have effects similar to ritonavir (see section 4.3). CYP3A4 inhibitors like clarithromycin, telithromycin and nefazodone are expected to have an effect in between that of ritonavir and CYP3A4 inhibitors like saquinavir or erythromycin, a seven-fold increase in exposure is assumed. Therefore dose adjustments are recommended when using CYP3A4 inhibitors (see section 4.2).
 
@@ -373,8 +367,6 @@ Table 1: Adverse reactions from sildenafil placebo-controlled studies in PAH and
 | Uncommon Not known                                          | penile haemorrhage, haematospermia, gynaecomastia priapism, erection increased |
 | General disorders and administration site conditions Common | pyrexia                                                                        |
 
-*These adverse events/reactions have been reported in patients taking sildenafil for the treatment of male erectile dysfunction (MED).
-
 ## Paediatric population
 
 In the placebo-controlled study of sildenafil in patients 1 to 17 years of age with pulmonary arterial hypertension, a total of 174 patients were treated three times a day with either low (10 mg in patients &gt; 20 kg; no patients ≤ 20 kg received the low dose), medium (10 mg in patients ≥ 8-20 kg; 20 mg in patients ≥ 20-45 kg; 40 mg in patients &gt; 45 kg) or high dose (20 mg in patients ≥ 8-20 kg; 40 mg in patients ≥ 20-45 kg; 80 mg in patients &gt; 45 kg) regimens of sildenafil and 60 were treated with placebo.
@@ -419,11 +411,9 @@ Sildenafil causes mild and transient decreases in systemic blood pressure which,
 
 In a study of the hemodynamic effects of a single oral 100 mg dose of sildenafil in 14 patients with severe coronary artery disease (CAD) (&gt; 70% stenosis of at least one coronary artery), the mean resting systolic and diastolic blood pressures decreased by 7% and 6% respectively compared to baseline. Mean pulmonary systolic blood pressure decreased by 9%. Sildenafil showed no effect on cardiac output, and did not impair blood flow through the stenosed coronary arteries.
 
-Mild and transient differences in colour discrimination (blue/green) were detected in some subjects using the Farnsworth-Munsell 100 hue test at 1 hour following a 100 mg dose, with no effects evident after 2 hours post-dose. The postulated mechanism for this change in colour discrimination is related
+Mild and transient differences in colour discrimination (blue/green) were detected in some subjects using the Farnsworth-Munsell 100 hue test at 1 hour following a 100 mg dose, with no effects evident after 2 hours post-dose. The postulated mechanism for this change in colour discrimination is related to inhibition of PDE6, which is involved in the phototransduction cascade of the retina. Sildenafil has no effect on visual acuity or contrast sensitivity. In a small size placebo-controlled study of patients with documented early age-related macular degeneration (n = 9), sildenafil (single dose, 100 mg) demonstrated no significant changes in visual tests conducted (visual acuity, Amsler grid, colour discrimination simulated traffic light, Humphrey perimeter and photostress).
 
 <div style=\"page-break-after: always\"></div>
-
-to inhibition of PDE6, which is involved in the phototransduction cascade of the retina. Sildenafil has no effect on visual acuity or contrast sensitivity. In a small size placebo-controlled study of patients with documented early age-related macular degeneration (n = 9), sildenafil (single dose, 100 mg) demonstrated no significant changes in visual tests conducted (visual acuity, Amsler grid, colour discrimination simulated traffic light, Humphrey perimeter and photostress).
 
 ## Clinical efficacy and safety
 
@@ -532,19 +522,17 @@ A randomised, double-blind, two-arm, parallel-group, placebo-controlled study wa
 
 The co-primary endpoints were treatment failure rate, defined as need for additional treatment targeting PPHN, need for extracorporeal membrane oxygenation (ECMO), or death during the study; and time on iNO treatment after initiation of IV study drug for patients without treatment failure. The difference in treatment failure rates was not statistically significant between the two treatment groups (27.6% and 20.0% in the iNO + IV sildenafil group and iNO + placebo group, respectively). For patients without treatment failure, the mean time on iNO treatment after initiation of IV study drug was the same, approximately 4.1 days, for the two treatment groups.
 
-Treatment-emergent adverse events and serious adverse events were reported in 22 (75.9%) and 7 (24.1%) subjects in the iNO + IV sildenafil treatment group, respectively, and in 19 (63.3%) and 2 (6.7%) subjects in the iNO + placebo group, respectively. The most commonly reported treatment
+Treatment-emergent adverse events and serious adverse events were reported in 22 (75.9%) and 7 (24.1%) subjects in the iNO + IV sildenafil treatment group, respectively, and in 19 (63.3%) and 2 (6.7%) subjects in the iNO + placebo group, respectively. The most commonly reported treatment emergent adverse events were hypotension (8 [27.6%] subjects), hypokalaemia (7 [24.1%] subjects), anaemia and treatment withdrawal syndrome (4 [13.8%] subjects each) and bradycardia (3 [10.3%] subjects) in the iNO + IV sildenafil treatment group and pneumothorax (4 [13.3%] subjects), anaemia, oedema, hyperbilirubinaemia, C-reactive protein increased, and hypotension (3 [10.0%] subjects each) in the iNO + placebo treatment group (see section 4.2).
 
 <div style=\"page-break-after: always\"></div>
-
-emergent adverse events were hypotension (8 [27.6%] subjects), hypokalaemia (7 [24.1%] subjects), anaemia and treatment withdrawal syndrome (4 [13.8%] subjects each) and bradycardia (3 [10.3%] subjects) in the iNO + IV sildenafil treatment group and pneumothorax (4 [13.3%] subjects), anaemia, oedema, hyperbilirubinaemia, C-reactive protein increased, and hypotension (3 [10.0%] subjects each) in the iNO + placebo treatment group (see section 4.2).
 
 ## 5.2 Pharmacokinetic properties
 
 ## Absorption
 
-Sildenafil is rapidly absorbed. Maximum observed plasma concentrations are reached within 30 to 120 minutes (median 60 minutes) of oral dosing in the fasted state. The mean absolute oral bioavailability is 41% (range 25-63%). After oral three times a day dosing of sildenafil, AUC and Cmax increase in proportion with dose over the dose range of 20-40 mg. After oral doses of 80 mg three times a day a more than dose proportional increase in sildenafil plasma levels has been observed. In pulmonary arterial hypertension patients, the oral bioavailability of sildenafil after 80 mg three times a day was on average 43% (90% CI: 27% - 60%) higher compared to the lower doses.
+Sildenafil is rapidly absorbed. Maximum observed plasma concentrations are reached within 30 to 120 minutes (median 60 minutes) of oral dosing in the fasted state. The mean absolute oral bioavailability is 41% (range 25-63%). After oral three times a day dosing of sildenafil, AUC and C max increase in proportion with dose over the dose range of 20-40 mg. After oral doses of 80 mg three times a day a more than dose proportional increase in sildenafil plasma levels has been observed. In pulmonary arterial hypertension patients, the oral bioavailability of sildenafil after 80 mg three times a day was on average 43% (90% CI: 27% - 60%) higher compared to the lower doses.
 
-When sildenafil is taken with food, the rate of absorption is reduced with a mean delay in Tmax of 60 minutes and a mean reduction in Cmax of 29% however, the extent of absorption was not significantly affected (AUC decreased by 11%).
+When sildenafil is taken with food, the rate of absorption is reduced with a mean delay in T max of 60 minutes and a mean reduction in Cmax of 29% however, the extent of absorption was not significantly affected (AUC decreased by 11%).
 
 ## Distribution
 
@@ -580,7 +568,7 @@ In patients with pulmonary arterial hypertension, the average steady state conce
 
 ## Paediatric population
 
-From the analysis of the pharmacokinetic profile of sildenafil in patients involved in the paediatric clinical trials, body weight was shown to be a good predictor of drug exposure in children. Sildenafil plasma concentration half-life values were estimated to range from 4.2 to 4.4 hours for a range of 10 to 70 kg of body weight and did not show any differences that would appear as clinically relevant. Cmax after a single 20 mg sildenafil dose administered PO was estimated at 49, 104 and 165 ng/ml for 70, 20 and 10 kg patients, respectively. Cmax after a single 10 mg sildenafil dose administered PO was estimated at 24, 53 and 85 ng/ml for 70, 20 and 10 kg patients, respectively. Tmax was estimated at approximately 1 hour and was almost independent from body weight.
+From the analysis of the pharmacokinetic profile of sildenafil in patients involved in the paediatric clinical trials, body weight was shown to be a good predictor of drug exposure in children. Sildenafil plasma concentration half-life values were estimated to range from 4.2 to 4.4 hours for a range of 10 to 70 kg of body weight and did not show any differences that would appear as clinically relevant. C max after a single 20 mg sildenafil dose administered PO was estimated at 49, 104 and 165 ng/ml for 70, 20 and 10 kg patients, respectively. C max after a single 10 mg sildenafil dose administered PO was estimated at 24, 53 and 85 ng/ml for 70, 20 and 10 kg patients, respectively. T max was estimated at approximately 1 hour and was almost independent from body weight.
 
 ## 5.3 Preclinical safety data
 
@@ -671,7 +659,7 @@ Name and address of the manufacturer(s) responsible for batch release
 
 Mylan Hungary Kft. Mylan utca 1., Komárom, 2900 Hungary
 
-Mylan Germany GmbH Zweigniederlassung Bad Homburg v. d. Hoehe, Benzstrasse 1 Bad Homburg v. d. Hoehe Hessen, 61352, Germany
+Viatris Germany GmbH Zweigniederlassung Bad Homburg v. d. Hoehe, Benzstrasse 1 Bad Homburg v. d. Hoehe Hessen, 61352, Germany
 
 The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.
 
@@ -681,13 +669,13 @@ Medicinal  product  subject  to  restricted  medical  prescription  (see  Annex 
 
 ## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
-## · Periodic safety update reports (PSURs)
+##  Periodic safety update reports (PSURs)
 
 The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
-## · Risk management plan (RMP)
+##  Risk management plan (RMP)
 
 The market authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2. of the marketing authorisation and any agreed subsequent updates of the RMP.
 
@@ -705,6 +693,8 @@ An updated RMP should be submitted:
 <div style=\"page-break-after: always\"></div>
 
 ## A. LABELLING
+
+<div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
@@ -724,11 +714,11 @@ Each film-coated tablet contains 20 mg of sildenafil (as citrate).
 
 ## Film-coated tablet
 
-- 90 film-coated tablets
+90 film-coated tablets
 
-- 300 film-coated tablets
+300 film-coated tablets
 
-- 90 x 1 film-coated tablets
+90 x 1 film-coated tablets
 
 ## 5. METHOD AND ROUTE OF ADMINISTRATION
 
@@ -747,8 +737,6 @@ Keep out of the sight and reach of children.
 EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
-
-<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -782,7 +770,7 @@ Lot
 
 Medicinal product subject to medical prescription.
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -802,17 +790,17 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
-|------------------------------------------------------|
-| BLISTER                                              |
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| BLISTER                                               |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 Mysildecard 20 mg film-coated tablets sildenafil
 
-| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
-|------|------------------------------------------|
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 Viatris Limited
 
@@ -837,9 +825,7 @@ Lot
 
 ## Package leaflet: Information for the patient
 
-## Mysildecard 20 mg film-coated tablets
-
-## sildenafil
+## Mysildecard 20 mg film-coated tablets sildenafil
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
@@ -867,12 +853,12 @@ Mysildecard brings down blood pressure in the lungs by widening the blood vessel
 
 ## Do not take Mysildecard:
 
-- if you are allergic to sildenafil or any of the other ingredients of this medicine (listed in section 6).
-- if you are taking medicines containing nitrates, or nitric oxide donors such as amyl nitrate ('poppers'). These medicines are often given for relief of chest pain (or 'angina pectoris'). Mysildecard can cause a serious increase in the effects of these medicines. Tell your doctor if you are taking any of these medicines. If you are not certain, ask your doctor or pharmacist.
-- if you are taking riociguat. This drug is used to treat pulmonary arterial hypertension (i.e. high blood pressure in the lungs) and chronic thromboembolic pulmonary hypertension (i.e. high blood pressure in the lungs secondary to blood clots).PDE5 inhibitors, such as sildenafil have been shown to increase the hypotensive effects of this medicine. If you are taking riociguat or are unsure tell your doctor.
-- if you have recently had a stroke, a heart attack or if you have severe liver disease or very low blood pressure (&lt;90/50 mmHg).
-- if you are taking a medicine to treat fungal infections such as ketoconazole or itraconazole or medicines containing ritonavir (for HIV).
-- if you have ever had loss of vision because of a problem with blood flow to the nerve in the eye called non-arteritic anterior ischaemic optic neuropathy (NAION).
+-  if you are allergic to sildenafil or any of the other ingredients of this medicine (listed in section 6).
+-  if you are taking medicines containing nitrates, or nitric oxide donors such as amyl nitrate ('poppers'). These medicines are often given for relief of chest pain (or 'angina pectoris'). Mysildecard can cause a serious increase in the effects of these medicines. Tell your doctor if you are taking any of these medicines. If you are not certain, ask your doctor or pharmacist.
+-  if you are taking riociguat. This drug is used to treat pulmonary arterial hypertension (i.e. high blood pressure in the lungs) and chronic thromboembolic pulmonary hypertension (i.e. high blood pressure in the lungs secondary to blood clots).PDE5 inhibitors, such as sildenafil have been shown to increase the hypotensive effects of this medicine. If you are taking riociguat or are unsure tell your doctor.
+-  if you have recently had a stroke, a heart attack or if you have severe liver disease or very low blood pressure (&lt;90/50 mmHg).
+-  if you are taking a medicine to treat fungal infections such as ketoconazole or itraconazole or medicines containing ritonavir (for HIV).
+-  if you have ever had loss of vision because of a problem with blood flow to the nerve in the eye called non-arteritic anterior ischaemic optic neuropathy (NAION).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -880,16 +866,16 @@ Mysildecard brings down blood pressure in the lungs by widening the blood vessel
 
 Talk to your doctor before taking Mysildecard if you:
 
-- have a disease due to a blocked or narrow vein in the lungs rather than a blocked or narrow artery.
-- have a severe heart problem.
-- have a problem with the pumping chambers of your heart.
-- have high blood pressure in the blood vessels in the lungs.
-- have low blood pressure at rest.
-- lose a large amount of body fluids (dehydration) which can occur when you sweat a lot or do not drink enough liquids. This can happen if you are sick with a fever, vomiting, or diarrhoea.
-- have a rare inherited eye disease (retinitis pigmentosa).
-- have an abnormality of red blood cells (sickle cell anaemia), cancer of blood cells (leukaemia), cancer of bone marrow (multiple myeloma), or any disease or deformity of the penis.
-- currently have a stomach ulcer, a bleeding disorder (such as haemophilia) or problems with nose bleeds.
-- take medicines for erectile dysfunction.
+-  have a disease due to a blocked or narrow vein in the lungs rather than a blocked or narrow artery.
+-  have a severe heart problem.
+-  have a problem with the pumping chambers of your heart.
+-  have high blood pressure in the blood vessels in the lungs.
+-  have low blood pressure at rest.
+-  lose a large amount of body fluids (dehydration) which can occur when you sweat a lot or do not drink enough liquids. This can happen if you are sick with a fever, vomiting, or diarrhoea.
+-  have a rare inherited eye disease (retinitis pigmentosa).
+-  have an abnormality of red blood cells (sickle cell anaemia), cancer of blood cells (leukaemia), cancer of bone marrow (multiple myeloma), or any disease or deformity of the penis.
+-  currently have a stomach ulcer, a bleeding disorder (such as haemophilia) or problems with nose bleeds.
+-  take medicines for erectile dysfunction.
 
 When used to treat male erectile dysfunction (ED), the following visual side effects have been reported with PDE5 inhibitors, including sildenafil at an unknown frequency; partial, sudden, temporary, or permanent decrease or loss of vision in one or both eyes.
 
@@ -909,17 +895,17 @@ Mysildecard should not be given to children below 1 year of age.
 
 Tell your doctor or pharmacist if you are taking, have recently taken or might take any other medicines.
 
-- Medicines containing nitrates, or nitric oxide donors such as amyl nitrate ('poppers'). These medicines are often given for relief of angina pectoris or 'chest pain' (see section 2. Before you take Mysildecard)
-- Tell your doctor or pharmacist if you are already taking riociguat (see section 2).
-- Therapies for pulmonary hypertension (e.g. bosentan, iloprost)
-- Medicines containing St. John's Wort (herbal medicinal product), rifampicin (used to treat bacterial infections), carbamazepine, phenytoin and phenobarbital (used, among others, to treat epilepsy)
-- Blood thinning medicines (for example warfarin) although these did not result in any side effect.
-- Medicines containing erythromycin, clarithromycin, telithromycin (these are antibiotics used to treat certain bacterial infections), saquinavir (for HIV) or nefazodone (for mental depression), as your dose may need to be adjusted.
-- Alpha-blocker therapy (e.g. doxazosin) for the treatment of high blood pressure or prostate problems, as the combination of the two medicines may cause symptoms resulting in the lowering of your blood pressure (e.g. dizziness, light headedness).
+-  Medicines containing nitrates, or nitric oxide donors such as amyl nitrate ('poppers'). These medicines are often given for relief of angina pectoris or 'chest pain' (see section 2. Before you take Mysildecard)
+-  Tell your doctor or pharmacist if you are already taking riociguat (see section 2).
+-  Therapies for pulmonary hypertension (e.g. bosentan, iloprost)
+-  Medicines containing St. John's Wort (herbal medicinal product), rifampicin (used to treat bacterial infections), carbamazepine, phenytoin and phenobarbital (used, among others, to treat epilepsy)
+-  Blood thinning medicines (for example warfarin) although these did not result in any side effect.
+-  Medicines containing erythromycin, clarithromycin, telithromycin (these are antibiotics used to treat certain bacterial infections), saquinavir (for HIV) or nefazodone (for mental depression), as your dose may need to be adjusted.
+-  Alpha-blocker therapy (e.g. doxazosin) for the treatment of high blood pressure or prostate problems, as the combination of the two medicines may cause symptoms resulting in the lowering of your blood pressure (e.g. dizziness, light headedness).
 
 <div style=\"page-break-after: always\"></div>
 
-- Medicines containing sacubitril/valsartan, used to treat heart failure.
+-  Medicines containing sacubitril/valsartan, used to treat heart failure.
 
 ## Mysildecard with food and drink
 
@@ -1021,10 +1007,7 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 - -The active substance is sildenafil. Each tablet contains 20 mg of sildenafil (as the citrate).
 - -The other ingredients are:
-
-Tablet core: microcrystalline cellulose (PH 102), calcium hydrogen phosphate, croscarmellose sodium (see section 2 'Mysildecard contains sodium')
-
-and magnesium stearate.
+- Tablet core: microcrystalline cellulose (PH 102), calcium hydrogen phosphate, croscarmellose sodium (see section 2 'Mysildecard contains sodium') and magnesium stearate.
 
 Film coat: hypromellose (6mPas), titanium dioxide (E171) and triacetin.
 
@@ -1040,13 +1023,13 @@ Viatris Limited Damastown Industrial Park, Mulhuddart, Dublin 15, DUBLIN Ireland
 
 ## Manufacturer:
 
-Mylan Hungary Kft. Mylan utca 1, Komárom, 2900, Hungary
+Mylan Hungary Kft.
 
-Mylan Germany GmbH Zweigniederlassung Bad Homburg v. d. Hoehe, Benzstrasse 1 Bad Homburg v. d. Hoehe Hessen, 61352, Germany
+Mylan utca 1, Komárom, 2900, Hungary
+
+Viatris Germany GmbH Zweigniederlassung Bad Homburg v. d. Hoehe, Benzstrasse 1 Bad Homburg v. d. Hoehe Hessen, 61352, Germany For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 <div style=\"page-break-after: always\"></div>
-
-For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 ## België/Belgique/Belgien
 
@@ -1056,9 +1039,9 @@ Tél/Tel: + 32 (0)2 658 61 00
 
 ## България
 
-Майлан ЕООД
+Виатрис ЕООД
 
-Тел: +359 2 44 55 400
+Тел.: +359 2 44 55 400
 
 ## Česká republika
 
@@ -1204,7 +1187,9 @@ Tel: + 39 (0) 2 612 46921
 
 ## Κύπρος
 
-CPO Pharmaceuticals Limited Τηλ: +357 22863100
+CPO Pharmaceuticals Limited
+
+Τηλ: +357 22863100
 
 ## Latvija
 

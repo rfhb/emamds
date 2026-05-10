@@ -1,32 +1,108 @@
 ---
-document_datetime: 2025-12-29 12:41:32
+document_datetime: 2026-05-07 16:40:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/afiveg.html
 document_name: afiveg.html
 version: success
-processing_time: 0.1028937
-conversion_datetime: 2025-12-30 11:09:51.774787
+processing_time: 0.1075383
+conversion_datetime: 2026-05-10 12:14:48.234336
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.17.0
+  docling-jobkit: 1.18.0
+  docling: 2.92.0
+  docling-core: 2.74.1
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.10.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
+# Search
+
+- [Medicines](/en/medicines)
+    - [Find medicine](/en/medicines)
+    - [Therapeutic areas: latest updates](/en/medicines/therapeutic-areas-latest-updates)
+    - [Download medicine data](/en/medicines/download-medicine-data)
+    - [What we publish on medicines and when](/en/medicines/what-we-publish-medicines-when)
+    - [Medicines under evaluation](/en/medicines/medicines-human-use-under-evaluation)
+    - [National registers](/en/medicines/national-registers-authorised-medicines)
+- [Human regulatory](/en/human-regulatory-overview)
+    - [Overview](/en/human-regulatory-overview)
+    - [Research and development](/en/human-regulatory-overview/research-development)
+    - [Marketing authorisation](/en/human-regulatory-overview/marketing-authorisation)
+    - [Post-authorisation](/en/human-regulatory-overview/post-authorisation)
+    - [Medical devices](/en/human-regulatory-overview/medical-devices)
+    - [Herbal products](/en/human-regulatory-overview/herbal-medicinal-products)
+- [Veterinary regulatory](/en/veterinary-regulatory-overview)
+    - [Overview](/en/veterinary-regulatory-overview)
+    - [Research and development](/en/veterinary-regulatory-overview/research-development-veterinary-medicines)
+    - [Marketing authorisation](/en/veterinary-regulatory-overview/marketing-authorisation-veterinary-medicines)
+    - [Post-authorisation](/en/veterinary-regulatory-overview/post-authorisation-veterinary-medicines)
+- [Committees](/en/committees)
+    - [Overview](/en/committees)
+    - [How the committees work](/en/committees/how-committees-work)
+    - [CHMP](/en/committees/committee-medicinal-products-human-use-chmp)
+    - [CVMP](/en/committees/committee-veterinary-medicinal-products-cvmp)
+    - [PRAC](/en/committees/pharmacovigilance-risk-assessment-committee-prac)
+    - [COMP](/en/committees/committee-orphan-medicinal-products-comp)
+    - [HMPC](/en/committees/committee-herbal-medicinal-products-hmpc)
+    - [CAT](/en/committees/committee-advanced-therapies-cat)
+    - [PDCO](/en/committees/paediatric-committee-pdco)
+    - [Working parties and other groups](/en/committees/working-parties-other-groups)
+- [News &amp; events](/en/news-events)
+    - [Overview](/en/news-events)
+    - [News](/en/news)
+    - [Events](/en/events/upcoming-events)
+    - [What's new](/en/news-events/whats-new)
+    - [Committee highlights](/en/news-events/committee-highlights)
+    - [Publications](/en/news-and-events/publications)
+    - [Press and social media](/en/news-events/press-social-media)
+    - [Podcast: Inside EMA](/en/news-events/podcast-inside-ema)
+    - [EMA Campaigns](/en/news-events/ema-campaigns)
+    - [Open consultations](/en/news-events/open-consultations)
+    - [RSS feeds](/en/news-events/rss-feeds)
+- [Partners &amp; networks](/en/partners-networks)
+    - [Overview](/en/partners-networks)
+    - [EU partners](/en/partners-networks/eu-partners)
+    - [International activities](/en/partners-networks/international-activities)
+    - [Patients and consumers](/en/partners-networks/patients-consumers)
+    - [Healthcare professionals](/en/partners-networks/healthcare-professionals)
+    - [Academia](/en/partners-networks/academia)
+    - [Pharmaceutical industry](/en/partners-networks/pharmaceutical-industry)
+    - [Networks](/en/partners-networks/networks)
+    - [Health technology assessment bodies](/en/partners-networks/health-technology-assessment-bodies)
+    - [One Health approach](/en/partners-networks/one-health-approach)
+    - [Animal health practitioners](/en/partners-networks/animal-health-practitioners)
+    - [One substance - one assessment](/en/partners-networks/one-substance-one-assessment-osoa-eu-collaboration-chemicals-related-data)
+- [About us](/en/about-us)
+    - [Overview](/en/about-us)
+    - [What we do](/en/about-us/what-we-do)
+    - [Who we are](/en/about-us/who-we-are)
+    - [How we work](/en/about-us/how-we-work)
+    - [Fees](/en/about-us/fees-payable-european-medicines-agency)
+    - [Support to SMEs](/en/about-us/support-smes)
+    - [Annual reports and work programmes](/en/about-us/annual-reports-work-programmes)
+    - [History of EMA](/en/about-us/history-ema)
+    - [Careers](/en/about-us/careers)
+    - [Procurement](/en/about-us/procurement-grants)
+    - [About this website](/en/about-us/about-website)
+    - [Data protection and privacy](/en/about-us/data-protection-privacy-ema)
+    - [Contacts](/en/about-us/contacts-european-medicines-agency)
+
+1. [Home](/en/homepage)
+2. [Medicines](https://www.ema.europa.eu/en/medicines)
+3. Afiveg
+
 # Afiveg
 
 [RSS](/en/individual-human-medicine.xml/261741)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-aflibercept Medicine Human Authorised
+aflibercept
 
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
+Medicine Human Authorised
 
 Page contents
 
@@ -120,181 +196,137 @@ English (EN) (146.05 KB - PDF)
 
 [View](/en/documents/overview/afiveg-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-944)
+[Other languages (22)](#file-language-dropdown-570)
 
 български (BG) (163.31 KB - PDF)
 
-**First published:**
-
-13/11/2025
+**First published:** 13/11/2025
 
 [View](/bg/documents/overview/afiveg-epar-medicine-overview_bg.pdf)
 
 español (ES) (135.92 KB - PDF)
 
-**First published:**
-
-13/11/2025
+**First published:** 13/11/2025
 
 [View](/es/documents/overview/afiveg-epar-medicine-overview_es.pdf)
 
 čeština (CS) (160.29 KB - PDF)
 
-**First published:**
-
-13/11/2025
+**First published:** 13/11/2025
 
 [View](/cs/documents/overview/afiveg-epar-medicine-overview_cs.pdf)
 
 dansk (DA) (135.65 KB - PDF)
 
-**First published:**
-
-13/11/2025
+**First published:** 13/11/2025
 
 [View](/da/documents/overview/afiveg-epar-medicine-overview_da.pdf)
 
 Deutsch (DE) (139.7 KB - PDF)
 
-**First published:**
-
-13/11/2025
+**First published:** 13/11/2025
 
 [View](/de/documents/overview/afiveg-epar-medicine-overview_de.pdf)
 
 eesti keel (ET) (132.77 KB - PDF)
 
-**First published:**
-
-13/11/2025
+**First published:** 13/11/2025
 
 [View](/et/documents/overview/afiveg-epar-medicine-overview_et.pdf)
 
 ελληνικά (EL) (162.63 KB - PDF)
 
-**First published:**
-
-13/11/2025
+**First published:** 13/11/2025
 
 [View](/el/documents/overview/afiveg-epar-medicine-overview_el.pdf)
 
 français (FR) (138.4 KB - PDF)
 
-**First published:**
-
-13/11/2025
+**First published:** 13/11/2025
 
 [View](/fr/documents/overview/afiveg-epar-medicine-overview_fr.pdf)
 
 hrvatski (HR) (159.92 KB - PDF)
 
-**First published:**
-
-13/11/2025
+**First published:** 13/11/2025
 
 [View](/hr/documents/overview/afiveg-epar-medicine-overview_hr.pdf)
 
 italiano (IT) (134.58 KB - PDF)
 
-**First published:**
-
-13/11/2025
+**First published:** 13/11/2025
 
 [View](/it/documents/overview/afiveg-epar-medicine-overview_it.pdf)
 
 latviešu valoda (LV) (168.76 KB - PDF)
 
-**First published:**
-
-13/11/2025
+**First published:** 13/11/2025
 
 [View](/lv/documents/overview/afiveg-epar-medicine-overview_lv.pdf)
 
 lietuvių kalba (LT) (158.42 KB - PDF)
 
-**First published:**
-
-13/11/2025
+**First published:** 13/11/2025
 
 [View](/lt/documents/overview/afiveg-epar-medicine-overview_lt.pdf)
 
 magyar (HU) (158.05 KB - PDF)
 
-**First published:**
-
-13/11/2025
+**First published:** 13/11/2025
 
 [View](/hu/documents/overview/afiveg-epar-medicine-overview_hu.pdf)
 
 Malti (MT) (160.63 KB - PDF)
 
-**First published:**
-
-13/11/2025
+**First published:** 13/11/2025
 
 [View](/mt/documents/overview/afiveg-epar-medicine-overview_mt.pdf)
 
 Nederlands (NL) (137.93 KB - PDF)
 
-**First published:**
-
-13/11/2025
+**First published:** 13/11/2025
 
 [View](/nl/documents/overview/afiveg-epar-medicine-overview_nl.pdf)
 
 polski (PL) (165.22 KB - PDF)
 
-**First published:**
-
-13/11/2025
+**First published:** 13/11/2025
 
 [View](/pl/documents/overview/afiveg-epar-medicine-overview_pl.pdf)
 
 português (PT) (136.11 KB - PDF)
 
-**First published:**
-
-13/11/2025
+**First published:** 13/11/2025
 
 [View](/pt/documents/overview/afiveg-epar-medicine-overview_pt.pdf)
 
 română (RO) (154.69 KB - PDF)
 
-**First published:**
-
-13/11/2025
+**First published:** 13/11/2025
 
 [View](/ro/documents/overview/afiveg-epar-medicine-overview_ro.pdf)
 
 slovenčina (SK) (161.14 KB - PDF)
 
-**First published:**
-
-13/11/2025
+**First published:** 13/11/2025
 
 [View](/sk/documents/overview/afiveg-epar-medicine-overview_sk.pdf)
 
 slovenščina (SL) (155.61 KB - PDF)
 
-**First published:**
-
-13/11/2025
+**First published:** 13/11/2025
 
 [View](/sl/documents/overview/afiveg-epar-medicine-overview_sl.pdf)
 
 Suomi (FI) (132.89 KB - PDF)
 
-**First published:**
-
-13/11/2025
+**First published:** 13/11/2025
 
 [View](/fi/documents/overview/afiveg-epar-medicine-overview_fi.pdf)
 
 svenska (SV) (133.92 KB - PDF)
 
-**First published:**
-
-13/11/2025
+**First published:** 13/11/2025
 
 [View](/sv/documents/overview/afiveg-epar-medicine-overview_sv.pdf)
 
@@ -310,205 +342,161 @@ English (EN) (565.98 KB - PDF)
 
 Afiveg : EPAR - Product information
 
-English (EN) (1.94 MB - PDF)
+English (EN) (1.39 MB - PDF)
 
-**First published:** 13/11/2025
+**First published:** 13/11/2025 **Last updated:** 07/05/2026
 
 [View](/en/documents/product-information/afiveg-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-480)
+[Other languages (24)](#file-language-dropdown-584)
 
-български (BG) (2.57 MB - PDF)
+български (BG) (1.88 MB - PDF)
 
-**First published:**
-
-13/11/2025
+**First published:** 13/11/2025 **Last updated:** 07/05/2026
 
 [View](/bg/documents/product-information/afiveg-epar-product-information_bg.pdf)
 
-español (ES) (2.3 MB - PDF)
+español (ES) (2.25 MB - PDF)
 
-**First published:**
-
-13/11/2025
+**First published:** 13/11/2025 **Last updated:** 07/05/2026
 
 [View](/es/documents/product-information/afiveg-epar-product-information_es.pdf)
 
-čeština (CS) (2.51 MB - PDF)
+čeština (CS) (2.43 MB - PDF)
 
-**First published:**
-
-13/11/2025
+**First published:** 13/11/2025 **Last updated:** 07/05/2026
 
 [View](/cs/documents/product-information/afiveg-epar-product-information_cs.pdf)
 
-dansk (DA) (2.51 MB - PDF)
+dansk (DA) (2.45 MB - PDF)
 
-**First published:**
-
-13/11/2025
+**First published:** 13/11/2025 **Last updated:** 07/05/2026
 
 [View](/da/documents/product-information/afiveg-epar-product-information_da.pdf)
 
 Deutsch (DE) (1.96 MB - PDF)
 
-**First published:**
-
-13/11/2025
+**First published:** 13/11/2025 **Last updated:** 07/05/2026
 
 [View](/de/documents/product-information/afiveg-epar-product-information_de.pdf)
 
-eesti keel (ET) (2.19 MB - PDF)
+eesti keel (ET) (2.16 MB - PDF)
 
-**First published:**
-
-13/11/2025
+**First published:** 13/11/2025 **Last updated:** 07/05/2026
 
 [View](/et/documents/product-information/afiveg-epar-product-information_et.pdf)
 
-ελληνικά (EL) (2.47 MB - PDF)
+ελληνικά (EL) (2.42 MB - PDF)
 
-**First published:**
-
-13/11/2025
+**First published:** 13/11/2025 **Last updated:** 07/05/2026
 
 [View](/el/documents/product-information/afiveg-epar-product-information_el.pdf)
 
 français (FR) (2.09 MB - PDF)
 
-**First published:**
-
-13/11/2025
+**First published:** 13/11/2025 **Last updated:** 07/05/2026
 
 [View](/fr/documents/product-information/afiveg-epar-product-information_fr.pdf)
 
-hrvatski (HR) (2.58 MB - PDF)
+hrvatski (HR) (2.47 MB - PDF)
 
-**First published:**
-
-13/11/2025
+**First published:** 13/11/2025 **Last updated:** 07/05/2026
 
 [View](/hr/documents/product-information/afiveg-epar-product-information_hr.pdf)
 
-íslenska (IS) (2.18 MB - PDF)
+íslenska (IS) (2.08 MB - PDF)
 
-**First published:**
-
-13/11/2025
+**First published:** 13/11/2025 **Last updated:** 07/05/2026
 
 [View](/is/documents/product-information/afiveg-epar-product-information_is.pdf)
 
-italiano (IT) (2.34 MB - PDF)
+italiano (IT) (2.32 MB - PDF)
 
-**First published:**
-
-13/11/2025
+**First published:** 13/11/2025 **Last updated:** 07/05/2026
 
 [View](/it/documents/product-information/afiveg-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (2.33 MB - PDF)
+latviešu valoda (LV) (2.26 MB - PDF)
 
-**First published:**
-
-13/11/2025
+**First published:** 13/11/2025 **Last updated:** 07/05/2026
 
 [View](/lv/documents/product-information/afiveg-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (2.48 MB - PDF)
+lietuvių kalba (LT) (2.45 MB - PDF)
 
-**First published:**
-
-13/11/2025
+**First published:** 13/11/2025 **Last updated:** 07/05/2026
 
 [View](/lt/documents/product-information/afiveg-epar-product-information_lt.pdf)
 
-magyar (HU) (2.42 MB - PDF)
+magyar (HU) (2.32 MB - PDF)
 
-**First published:**
-
-13/11/2025
+**First published:** 13/11/2025 **Last updated:** 07/05/2026
 
 [View](/hu/documents/product-information/afiveg-epar-product-information_hu.pdf)
 
-Malti (MT) (2.35 MB - PDF)
+Malti (MT) (2.31 MB - PDF)
 
-**First published:**
-
-13/11/2025
+**First published:** 13/11/2025 **Last updated:** 07/05/2026
 
 [View](/mt/documents/product-information/afiveg-epar-product-information_mt.pdf)
 
-Nederlands (NL) (2.02 MB - PDF)
+Nederlands (NL) (1.98 MB - PDF)
 
-**First published:**
-
-13/11/2025
+**First published:** 13/11/2025 **Last updated:** 07/05/2026
 
 [View](/nl/documents/product-information/afiveg-epar-product-information_nl.pdf)
 
-norsk (NO) (2.15 MB - PDF)
+norsk (NO) (2.11 MB - PDF)
 
-**First published:**
-
-13/11/2025
+**First published:** 13/11/2025 **Last updated:** 07/05/2026
 
 [View](/no/documents/product-information/afiveg-epar-product-information_no.pdf)
 
-polski (PL) (2.41 MB - PDF)
+polski (PL) (2.33 MB - PDF)
 
-**First published:**
-
-13/11/2025
+**First published:** 13/11/2025 **Last updated:** 07/05/2026
 
 [View](/pl/documents/product-information/afiveg-epar-product-information_pl.pdf)
 
-português (PT) (2.42 MB - PDF)
+português (PT) (2.32 MB - PDF)
 
-**First published:**
-
-13/11/2025
+**First published:** 13/11/2025 **Last updated:** 07/05/2026
 
 [View](/pt/documents/product-information/afiveg-epar-product-information_pt.pdf)
 
-română (RO) (1.74 MB - PDF)
+română (RO) (2.34 MB - PDF)
 
-**First published:**
-
-13/11/2025
+**First published:** 13/11/2025 **Last updated:** 07/05/2026
 
 [View](/ro/documents/product-information/afiveg-epar-product-information_ro.pdf)
 
-slovenčina (SK) (1.65 MB - PDF)
+slovenčina (SK) (2.25 MB - PDF)
 
-**First published:**
-
-13/11/2025
+**First published:** 13/11/2025 **Last updated:** 07/05/2026
 
 [View](/sk/documents/product-information/afiveg-epar-product-information_sk.pdf)
 
 slovenščina (SL) (2.06 MB - PDF)
 
-**First published:**
-
-13/11/2025
+**First published:** 13/11/2025 **Last updated:** 07/05/2026
 
 [View](/sl/documents/product-information/afiveg-epar-product-information_sl.pdf)
 
-Suomi (FI) (1.9 MB - PDF)
+Suomi (FI) (1.88 MB - PDF)
 
-**First published:**
-
-13/11/2025
+**First published:** 13/11/2025 **Last updated:** 07/05/2026
 
 [View](/fi/documents/product-information/afiveg-epar-product-information_fi.pdf)
 
 svenska (SV) (2.1 MB - PDF)
 
-**First published:**
-
-13/11/2025
+**First published:** 13/11/2025 **Last updated:** 07/05/2026
 
 [View](/sv/documents/product-information/afiveg-epar-product-information_sv.pdf)
+
+**Latest procedure affecting product information:** VR/0000340400
+
+06/05/2026
 
 icon globe
 
@@ -532,203 +520,167 @@ English (EN) (44.81 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/afiveg-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-650)
+[Other languages (24)](#file-language-dropdown-956)
 
 български (BG) (48.82 KB - PDF)
 
-**First published:**
-
-13/11/2025
+**First published:** 13/11/2025
 
 [View](/bg/documents/all-authorised-presentations/afiveg-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (42.37 KB - PDF)
 
-**First published:**
-
-13/11/2025
+**First published:** 13/11/2025
 
 [View](/es/documents/all-authorised-presentations/afiveg-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (44.56 KB - PDF)
 
-**First published:**
-
-13/11/2025
+**First published:** 13/11/2025
 
 [View](/cs/documents/all-authorised-presentations/afiveg-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (43.46 KB - PDF)
 
-**First published:**
-
-13/11/2025
+**First published:** 13/11/2025
 
 [View](/da/documents/all-authorised-presentations/afiveg-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (43.18 KB - PDF)
 
-**First published:**
-
-13/11/2025
+**First published:** 13/11/2025
 
 [View](/de/documents/all-authorised-presentations/afiveg-epar-all-authorised-presentations_de.pdf)
 
 eesti keel (ET) (40.54 KB - PDF)
 
-**First published:**
-
-13/11/2025
+**First published:** 13/11/2025
 
 [View](/et/documents/all-authorised-presentations/afiveg-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (45.49 KB - PDF)
 
-**First published:**
-
-13/11/2025
+**First published:** 13/11/2025
 
 [View](/el/documents/all-authorised-presentations/afiveg-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (41.73 KB - PDF)
 
-**First published:**
-
-13/11/2025
+**First published:** 13/11/2025
 
 [View](/fr/documents/all-authorised-presentations/afiveg-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (42.66 KB - PDF)
 
-**First published:**
-
-13/11/2025
+**First published:** 13/11/2025
 
 [View](/hr/documents/all-authorised-presentations/afiveg-epar-all-authorised-presentations_hr.pdf)
 
 íslenska (IS) (42.47 KB - PDF)
 
-**First published:**
-
-13/11/2025
+**First published:** 13/11/2025
 
 [View](/is/documents/all-authorised-presentations/afiveg-epar-all-authorised-presentations_is.pdf)
 
 italiano (IT) (40.75 KB - PDF)
 
-**First published:**
-
-13/11/2025
+**First published:** 13/11/2025
 
 [View](/it/documents/all-authorised-presentations/afiveg-epar-all-authorised-presentations_it.pdf)
 
 latviešu valoda (LV) (44.46 KB - PDF)
 
-**First published:**
-
-13/11/2025
+**First published:** 13/11/2025
 
 [View](/lv/documents/all-authorised-presentations/afiveg-epar-all-authorised-presentations_lv.pdf)
 
 lietuvių kalba (LT) (44.3 KB - PDF)
 
-**First published:**
-
-13/11/2025
+**First published:** 13/11/2025
 
 [View](/lt/documents/all-authorised-presentations/afiveg-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (43.43 KB - PDF)
 
-**First published:**
-
-13/11/2025
+**First published:** 13/11/2025
 
 [View](/hu/documents/all-authorised-presentations/afiveg-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (45.67 KB - PDF)
 
-**First published:**
-
-13/11/2025
+**First published:** 13/11/2025
 
 [View](/mt/documents/all-authorised-presentations/afiveg-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (40.86 KB - PDF)
 
-**First published:**
-
-13/11/2025
+**First published:** 13/11/2025
 
 [View](/nl/documents/all-authorised-presentations/afiveg-epar-all-authorised-presentations_nl.pdf)
 
 norsk (NO) (43.46 KB - PDF)
 
-**First published:**
-
-13/11/2025
+**First published:** 13/11/2025
 
 [View](/no/documents/all-authorised-presentations/afiveg-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (45.43 KB - PDF)
 
-**First published:**
-
-13/11/2025
+**First published:** 13/11/2025
 
 [View](/pl/documents/all-authorised-presentations/afiveg-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (42.38 KB - PDF)
 
-**First published:**
-
-13/11/2025
+**First published:** 13/11/2025
 
 [View](/pt/documents/all-authorised-presentations/afiveg-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (43.21 KB - PDF)
 
-**First published:**
-
-13/11/2025
+**First published:** 13/11/2025
 
 [View](/ro/documents/all-authorised-presentations/afiveg-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (44.75 KB - PDF)
 
-**First published:**
-
-13/11/2025
+**First published:** 13/11/2025
 
 [View](/sk/documents/all-authorised-presentations/afiveg-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (41.3 KB - PDF)
 
-**First published:**
-
-13/11/2025
+**First published:** 13/11/2025
 
 [View](/sl/documents/all-authorised-presentations/afiveg-epar-all-authorised-presentations_sl.pdf)
 
 Suomi (FI) (39.47 KB - PDF)
 
-**First published:**
-
-13/11/2025
+**First published:** 13/11/2025
 
 [View](/fi/documents/all-authorised-presentations/afiveg-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (40.94 KB - PDF)
 
-**First published:**
-
-13/11/2025
+**First published:** 13/11/2025
 
 [View](/sv/documents/all-authorised-presentations/afiveg-epar-all-authorised-presentations_sv.pdf)
 
 ## Product details
 
-Name of medicine Afiveg Active substance aflibercept International non-proprietary name (INN) or common name aflibercept Therapeutic area (MeSH)
+Name of medicine
+
+Afiveg
+
+Active substance
+
+aflibercept
+
+International non-proprietary name (INN) or common name
+
+aflibercept
+
+Therapeutic area (MeSH)
 
 - Wet Macular Degeneration
 - Macular Edema
@@ -736,7 +688,9 @@ Name of medicine Afiveg Active substance aflibercept International non-proprieta
 - Retinal Vein Occlusion
 - Choroidal Neovascularization
 
-Anatomical therapeutic chemical (ATC) code S01LA05
+Anatomical therapeutic chemical (ATC) code
+
+S01LA05
 
 ### Pharmacotherapeutic group
 
@@ -753,7 +707,9 @@ Afiveg is indicated for adults for the treatment of
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/006761
+EMA product number
+
+EMEA/H/C/006761
 
 Additional monitoring
 
@@ -769,17 +725,39 @@ STADA Arzneimittel AG
 
 Stadastrasse 2-18
 
-Opinion adopted 19/06/2025 Marketing authorisation issued 18/08/2025
+Opinion adopted
+
+19/06/2025
+
+Marketing authorisation issued
+
+18/08/2025
+
+Revision
+
+1
 
 ## Assessment history
+
+Expand section
+
+Collapse section
+
+## Changes since initial authorisation of medicine
+
+Afiveg : EPAR - Procedural steps taken and scientific information after authorisation
+
+English (EN) (144.53 KB - PDF)
+
+**First published:** 07/05/2026
+
+[View](/en/documents/procedural-steps-after/afiveg-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
 ## Initial marketing authorisation documents
 
 Afiveg : EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/CHMP/203339/2025
+Adopted Reference Number: EMA/CHMP/203339/2025
 
 English (EN) (4.82 MB - PDF)
 
@@ -789,9 +767,7 @@ English (EN) (4.82 MB - PDF)
 
 CHMP summary of positive opinion for Afiveg
 
-Adopted
-
-Reference Number: EMA/CHMP/201985/2025
+Adopted Reference Number: EMA/CHMP/201985/2025
 
 English (EN) (137.69 KB - PDF)
 
@@ -799,12 +775,14 @@ English (EN) (137.69 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-afiveg_en.pdf)
 
-#### News on Afiveg
+## News on Afiveg
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 16-19 June 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-16-19-june-2025) 20/06/2025
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 16-19 June 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-16-19-june-2025)
 
-**This page was last updated on** 13/11/2025
+20/06/2025
+
+**This page was last updated on**
+
+07/05/2026
 
 ## Share this page
-
-[Back to top](#main-content)

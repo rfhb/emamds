@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-07-04 18:09:34
-document_pages: 28
+document_datetime: 2026-05-08 14:15:58
+document_pages: 30
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/strimvelis-epar-product-information_en.pdf
 document_name: strimvelis-epar-product-information_en.pdf
 version: success
-processing_time: 5.3274795
-conversion_datetime: 2025-12-31 03:11:31.760111
+processing_time: 6.8621609
+conversion_datetime: 2026-05-10 12:04:44.235532
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.17.0
+  docling-jobkit: 1.18.0
+  docling: 2.92.0
+  docling-core: 2.74.1
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.10.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -38,7 +38,7 @@ An autologous CD34 +  enriched cell fraction that contains CD34 + cells transduc
 
 The medicinal product is packaged in one or more infusion bags. Each patient-specific infusion bag of Strimvelis contains an autologous CD34 + enriched cell fraction that contains CD34 + cells transduced with retroviral vector that encodes for the human ADA cDNA sequence.
 
-The quantitative information regarding CD34 + cells/kg and total cells in the product is presented in the labelling for each batch. The concentration is 1-10 x 10 6 CD34 +  cells/mL.
+The quantitative information of medicinal product, including the number of infusion bags to be administered is presented in the LIS accompanying the medicinal product for treatment. The concentration is 1-10 x 10 6 CD34 +  cells/mL. Each patient-specific infusion bag contains 10 to 40 mL of dispersion for infusion.
 
 ## Excipient with known effect
 
@@ -60,21 +60,19 @@ Strimvelis is indicated for the treatment of patients with severe combined immun
 
 ## 4.2 Posology and method of administration
 
-Strimvelis must be administered in a specialist transplant centre, by a physician with previous experience in the treatment and management of patients with ADA-SCID and in the use of autologous CD34 + ex vivo gene therapy products. It should only be administered after consultation with the patient and/or family. Patients are expected to enrol in a post-treatment registry and will be followed-up long term.
-
-Strimvelis is intended for autologous use only (see section 4.4).
+Strimvelis must be administered in a specialist transplant centre, by a physician with previous experience in the treatment and management of patients with ADA-SCID and in the use of autologous CD34 + ex vivo gene therapy products. Patients are expected to enrol in a post-treatment registry and will be followed-up long term.
 
 <div style=\"page-break-after: always\"></div>
+
+Strimvelis is intended for autologous use only (see section 4.4).
 
 A CD34 +  stem cell back-up containing at least 1 x 10 6 CD34 +  cells per kg is required. This should be harvested from the patient at least 3 weeks prior to treatment with Strimvelis. The stem cell back-up is collected for use as rescue treatment should there be a failure during product manufacture, transplant failure, or prolonged bone marrow aplasia after treatment.
 
 The patient must be able to donate sufficient CD34 + cells to deliver a minimum of 4 x 10 6 purified CD34 +  cells/kg, required for manufacture of Strimvelis.
 
-Before infusion, it must be confirmed that the patient 's identity matches the essential unique patient information on the medicinal product infusion bag(s) and/or container (see sections 4.4 and 6.6).
-
 ## Pre-treatment conditioning
 
-It is recommended that 0.5 mg/kg intravenous busulfan be administered every 6 hours on two consecutive days starting three days before administration of Strimvelis. The total busulfan dose is 4 mg/kg, divided into 8 doses of 0.5 mg/kg.  Busulfan plasma levels should be measured after the first dose of each day by serial blood sampling using an appropriate method. If busulfan AUC exceeds 4000 nanograms/mL*h (974 µmol/L*minute), the dose should be appropriately reduced based on the AUC.
+It is recommended that 0.5 mg/kg intravenous busulfan be administered every 6 hours on two consecutive days starting three days before administration of Strimvelis. The total busulfan dose is 4 mg/kg, divided into 8 doses of 0.5 mg/kg.  Busulfan plasma levels should be measured after the first dose of each day by serial blood sampling using an appropriate method. If busulfan AUC exceeds 4 000 nanograms/mL*h (974 µmol/L*minute), the dose should be appropriately reduced based on the AUC.
 
 ## Pre-medication
 
@@ -82,7 +80,9 @@ It is recommended that an intravenous antihistamine be administered 15-30 minute
 
 ## Posology
 
-The recommended dose range of Strimvelis is between 2 and 20 x 10 6 CD34 +  cells/kg.
+The recommended dose range of Strimvelis is between 2 and 20 x 10 6 CD34 +  cells/kg. The dose to be infused should be defined by the treating physician based on the total number of CD34+ cells supplied, the patient's weight at time of treatment, and the fact that any bag used should be administered in its entirety .
+
+See the accompanying Lot Information Sheet (LIS) for additional information pertaining to dose.
 
 If the product contains less than 2 x 10 6 CD34 +  cells/kg, the treating physician should decide whether to proceed with administration, based on an individual benefit risk assessment. Treatment failure was observed in a patient treated in the clinical trials with &lt;2 x 10 6 CD34 +  cell/kg.
 
@@ -102,25 +102,23 @@ This medicinal product has not been studied in patients with renal impairment. N
 
 This medicinal product has not been studied in patients with hepatic impairment. No dose adjustment is expected to be required.
 
-## Paediatric population
-
-The safety and efficacy of Strimvelis in children less than six months or over 6 years and 7 months of age has not been established (see section 4.4). No data are available.
-
 ## Method of administration
 
 Strimvelis is for intravenous infusion only.
 
-Precautions to be taken before handling or administering the medicinal product
+Before the administration, it must be confirmed that the patient's identity matches the unique patient information on the Strimvelis infusion bag(s) labels and accompanying documentation. When more than one bag of Strimvelis is needed, only one bag of medicinal product should be infused at a time. The total number of infusion bags to be administered must also be confirmed with the patient specific information on the Lot Information Sheet (LIS) (see section 4.4).
 
 <div style=\"page-break-after: always\"></div>
-
-Healthcare professionals should take appropriate precautions (wearing gloves and glasses) to avoid potential transmission of infectious diseases when handling the product.
-
-For instructions on preparation, accidental exposure and disposal of Strimvelis, see section 6.6.
 
 A transfusion administration set with filter should be used. Only filters intended for use with transfusion sets should be used to prevent inadvertent removal of cells from the product.
 
 The infusion rate should not exceed 5 mL/kg/h. The period of administration is approximately 20 minutes (see section 6.6).  Following administration, a 50 mL syringe filled with a sodium chloride 9 mg/mL (0.9%) solution for injection should be used to flush the bag through.
+
+## Precautions to be taken before handling or administering the medicinal product
+
+Healthcare professionals should take appropriate precautions (wearing gloves and glasses) to avoid potential transmission of infectious diseases when handling the product.
+
+For instructions on preparation, accidental exposure and disposal of Strimvelis, see section 6.6.
 
 ## 4.3 Contraindications
 
@@ -136,17 +134,17 @@ History of previous gene therapy.
 
 ## Traceability
 
-The traceability requirements of cell-based advanced therapy medicinal products must apply. To ensure traceability the name of the product, the batch number and the name of the treated patient should be kept for a period of 30 years.
+The traceability requirements of cell-based advanced therapy medicinal products must apply. To ensure traceability the name of the product, the batch number and the name of the treated patient should be kept for a period of 30 years after the expiry date of the product.
 
 ## Autologous use
 
-Strimvelis is intended solely for autologous use and should never be administered to any patient other than the original CD34 + cell donor.
+Strimvelis is intended solely for autologous use and should never be administered to any patient other than the original CD34 + cell donor. Strimvelis must not be administered if the information on the product labels and Lot Information Sheet (LIS) do not match the patient's identity.
 
 ## Risk of insertional oncogenesis
 
 One case of Lymphoid T cell leukaemia has been reported in a child with ADA-SCID 4.7 years after treatment with Strimvelis (see section 4.8).
 
-It is recommended that patients be monitored long term with at least annual visits for the first eleven years and then at 13 and 15 years post treatment with Strimvelis, to include a complete blood count with differential, biochemistry and thyroid stimulating hormone .
+Patients treated with Strimvelis may develop secondary malignancies. Patients should be monitored life-long for secondary malignancies. In the event that a secondary malignancy occurs, the company should be contacted to obtain instructions on the collection of patient samples for testing .
 
 ## General
 
@@ -154,13 +152,11 @@ The long-term effects and durability of response to Strimvelis on ADA-SCID have 
 
 Non-immunological manifestations of ADA-SCID may not respond to Strimvelis.
 
-Cases of skin papillomas, abnormal serum protein electrophoresis and one case each of lipofibroma, pulmonary mass and decreased T-cell V beta repertoire were reported. No evidence of causality of the product has been established.
-
-In some cases, the patient may be unable to receive treatment because of manufacturing issues. After notification, the treating physician may need to modify the treatment program of the patient accordingly (i.e.
-
 <div style=\"page-break-after: always\"></div>
 
-terminating the busulfan conditioning and/or administration of the stem cell back up treatment if appropriate).
+Cases of skin papillomas, abnormal serum protein electrophoresis and one case each of lipofibroma, pulmonary mass and decreased T-cell V beta repertoire were reported. No evidence of causality of the product has been established.
+
+In some cases, the patient may be unable to receive treatment because of manufacturing issues. After notification, the treating physician may need to modify the treatment program of the patient accordingly (i.e. terminating the busulfan conditioning and/or administration of the stem cell back up treatment if appropriate).
 
 Warnings and precautions of the myeloablative conditioning medicinal products must be considered.
 
@@ -192,11 +188,13 @@ No immunogenicity testing has been conducted with Strimvelis.
 
 ## Treatment of patients younger than 6 months and older than 6 years and 7 months
 
-The treatment should be used with caution in patients younger than 6 months and older than 6 years and 7 months as there are no clinical data in these age ranges. Older patients are typically less able to donate high numbers of CD34 +  cells which may mean that older patients cannot be treated. Successful generation of T cells after treatment is also likely to be affected by residual thymic function which can become impaired in older children. Use of this medicinal product in patients older than those previously studied should be carefully considered and reserved only for occasions where all other reasonable treatment options have been exhausted.
-
-## Serological testing
+The treatment should be used with caution in patients younger than 6 months and older than 6 years and 7 months as there are no clinical data in these age ranges. Older patients are typically less able to donate high numbers of CD34 +  cells which may mean that older patients cannot be treated. Successful generation of T
 
 <div style=\"page-break-after: always\"></div>
+
+cells after treatment is also likely to be affected by residual thymic function which can become impaired in older children. Use of this medicinal product in patients older than those previously studied should be carefully considered and reserved only for occasions where all other reasonable treatment options have been exhausted.
+
+## Serological testing
 
 All patients should be tested for HIV-1/2, HTLV-1/2, HBV, HCV and mycoplasma prior to bone marrow harvest to ensure acceptance of the cellular source material for Strimvelis manufacturing. Patients who have previously tested positive for hepatitis C can be treated with Strimvelis, provided they demonstrate absence of ongoing infection using a nucleic acid test with a limit of quantification of  15 international units/mL. Negative test results are required on at least 3 sequential occasions over a period of at least 4 weeks, after completion of treatment for hepatitis C, with the final test conducted no more than 3 days prior to cell harvest.
 
@@ -230,38 +228,40 @@ With regard to fertility, consult the SmPC of the conditioning medicinal product
 
 Strimvelis has no or negligible long-term influence on the ability to drive and use machines.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 4.8 Undesirable effects
 
 ## Summary of the safety profile
 
-<div style=\"page-break-after: always\"></div>
-
-The safety of Strimvelis was evaluated in 33 subjects i.e. 22 patients treated in the clinical development program and 11 patients treated in the commercial setting, with a median duration of follow-up of 12 years for patients treated in clinical studies and 1.5 years for patients treated in the commercial setting. Given the small patient population and size of the cohorts, adverse reactions in the table below may not provide a complete perspective on the nature and frequency of these events. Serious adverse reactions include T-cell type acute leukaemia and autoimmunity (e.g. autoimmune haemolytic anaemia, autoimmune aplastic anaemia, autoimmune hepatitis, autoimmune thrombocytopenia and Guillain-Barré syndrome). The most commonly reported adverse reaction was pyrexia.
+Serious adverse reactions include T-cell type acute leukaemia and autoimmunity (e.g. autoimmune haemolytic anaemia, autoimmune aplastic anaemia, autoimmune hepatitis, autoimmune thrombocytopenia and Guillain-Barré syndrome). The most commonly reported adverse reaction was pyrexia.
 
 ## Tabulated list of adverse reactions
+
+The safety of Strimvelis was evaluated in 33 subjects i.e. 22 patients treated in the clinical development program and 11 patients treated in the commercial setting, with a median duration of follow-up of 12 years for patients treated in clinical studies and 1.5 years for patients treated in the commercial setting. Given the small patient population and size of the cohorts, adverse reactions in the table below may not provide a complete perspective on the nature and frequency of these events.
 
 Adverse reactions are listed below by MedDRA body system organ class and by frequency. The frequency categories used are: very common (&gt;1/10), and common (  1/100 to &lt;1/10). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
 | System organ class                                   | Very common                                                                                       | Common                                                                                  |
 |------------------------------------------------------|---------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
-| Blood and lymphatic system disorders                 | Anaemia a , neutropenia a                                                                         | Autoimmune haemolytic anaemia, autoimmune aplastic anaemia, autoimmune thrombocytopenia |
-| Endocrine disorders                                  | Hypothyroidism                                                                                    | Autoimmune thyroiditis                                                                  |
+| Blood and lymphatic system disorders                 | Anaemia a , Neutropenia a                                                                         | Autoimmune haemolytic anaemia, Autoimmune aplastic anaemia, Autoimmune thrombocytopenia |
 | Neoplasms, benign, malignant and unspecified         |                                                                                                   | T-cell type acute leukaemia                                                             |
+| Endocrine disorders                                  | Hypothyroidism                                                                                    | Autoimmune thyroiditis                                                                  |
 | Nervous system disorders                             |                                                                                                   | Guillain-Barré syndrome                                                                 |
 | Vascular disorders                                   | Hypertension a                                                                                    |                                                                                         |
-| Respiratory, thoracic and mediastinal disorders      | Asthma, rhinitis allergic                                                                         |                                                                                         |
+| Respiratory, thoracic and mediastinal disorders      | Asthma, Rhinitis allergic                                                                         |                                                                                         |
 | Hepatobiliary disorders                              |                                                                                                   | Autoimmune hepatitis                                                                    |
-| Skin and subcutaneous tissue disorders               | Dermatitis atopic, eczema                                                                         |                                                                                         |
+| Skin and subcutaneous tissue disorders               | Dermatitis atopic, Eczema                                                                         |                                                                                         |
 | General disorders and administration site conditions | Pyrexia                                                                                           |                                                                                         |
-| Investigations                                       | Hepatic enzyme increased a , antinuclear antibody (ANA) positive, smooth muscle antibody positive | Antineutrophil cytoplasmic antibody positive                                            |
+| Investigations                                       | Hepatic enzyme increased a , Antinuclear antibody (ANA) positive, Smooth muscle antibody positive | Antineutrophil cytoplasmic antibody positive                                            |
 
 ## Description of selected adverse reactions
+
+<div style=\"page-break-after: always\"></div>
 
 ## Lymphoid T cells leukaemia due to insertional oncogenesis
 
 Out of 33 patients with ADA-SCID treated with Strimvelis, one case of Lymphoid T cell leukaemia has been reported in one child (frequency: 3%). This event occurred 4.7 years after treatment with Strimvelis. Retroviral insertion site (RIS) analysis identified a single dominant clone located approximately 40 kb upstream of the LMO2 gene, a known oncogene, with an abundance ≥ 98%.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Immune reconstitution
 
@@ -295,11 +295,9 @@ The presence of the transgene leads to increased expression of ADA. One-year pos
 
 ## Clinical efficacy and safety
 
-A total of 18 patients with ADA-SCID were treated with Strimvelis as part of one open-label pivotal trial (AD1115611; N=12), two early open-label pilot studies (AD1117054/AD1117056; N=3), and a compassionate use program (AD1117064; N=3). Studies evaluated the use of Strimvelis with a range of 0.9 x 10 6 - 18.2 x 10 6 CD34 +  cells/kg. All patients received busulfan conditioning prior to gene therapy, with most receiving a total dose of 4 mg/kg intravenously over 2 consecutive days prior to CD34 + infusion. Four subjects had previously received an unsuccessful stem cell transplant from a haploidentical donor and 15 of 18 subjects had previously received prior enzyme replacement therapy with polyethylene-glycol-modified bovine adenosine deaminase (PEG-ADA). Patients who previously received PEG-ADA had this treatment
+A total of 18 patients with ADA-SCID were treated with Strimvelis as part of one open-label pivotal trial (AD1115611; N=12), two early open-label pilot studies (AD1117054/AD1117056; N=3), and a compassionate use program (AD1117064; N=3). Studies evaluated the use of Strimvelis with a range of 0.9 x 10 6 - 18.2 x 10 6 CD34 +  cells/kg. All patients received busulfan conditioning prior to gene therapy, with most receiving a total dose of 4 mg/kg intravenously over 2 consecutive days prior to CD34 + infusion. Four subjects had previously received an unsuccessful stem cell transplant from a haploidentical donor and 15 of 18 subjects had previously received prior enzyme replacement therapy with polyethylene-glycol-modified bovine adenosine deaminase (PEG-ADA). Patients who previously received PEG-ADA had this treatment withdrawn 10 to 22 days prior to Strimvelis therapy. The median age across the program was 1.7 years (range 0.5 to 6.1) and 61% were males. Eighty three percent were white (56% Caucasian/European heritage and 28% Arabic/North African heritage), 11% African American/African, and 6% Asian.
 
 <div style=\"page-break-after: always\"></div>
-
-withdrawn 10 to 22 days prior to Strimvelis therapy. The median age across the program was 1.7 years (range 0.5 to 6.1) and 61% were males. Eighty three percent were white (56% Caucasian/European heritage and 28% Arabic/North African heritage), 11% African American/African, and 6% Asian.
 
 ## Patients treated within the pivotal study
 
@@ -316,9 +314,11 @@ Table 1. Results at 3 years for the ITT population in the pivotal study*
 | T-lymphocyte (x10 6 /L) n median (range)                                                               | 11 88.0 (19-2718)           | 11 828.0 (309-2458)                |
 | %subjects with venous RBC dAXP <100 nmol/mL after Strimvelis d n %                                     | Not applicable e            | 11 100%                            |
 
-T cell function: In the patients treated in the pivotal study, T cell proliferation was demonstrated in response to stimulation with anti-CD3 antibodies (median 62629 cpm, range 4531 to 252173) and phytohemaglutinin (median 140642 cpm, range 11119 to 505607) at 1 year post gene therapy, and these responses were sustained through Year 3. Findings that TREC (T cell receptor excision circles) in peripheral blood lymphocytes were increased above baseline (median 141, range 56 to 1542 copies/100 ng DNA) at Years 1 and maintained to 3 post-treatment and that all subjects had evidence of polyclonal V-beta chains at one or more time points following gene therapy provides further supportive evidence of functional T cell development.
+T cell function: In the patients treated in the pivotal study, T cell proliferation was demonstrated in response to stimulation with anti-CD3 antibodies (median 62629 cpm, range 4531 to 252173) and phytohemaglutinin
 
 <div style=\"page-break-after: always\"></div>
+
+(median 140642 cpm, range 11119 to 505607) at 1 year post gene therapy, and these responses were sustained through Year 3. Findings that TREC (T cell receptor excision circles) in peripheral blood lymphocytes were increased above baseline (median 141, range 56 to 1542 copies/100 ng DNA) at Years 1 and maintained to 3 post-treatment and that all subjects had evidence of polyclonal V-beta chains at one or more time points following gene therapy provides further supportive evidence of functional T cell development.
 
 B cell function: All 12 subjects treated in the pivotal study were receiving IVIG therapy at the time of screening, and 7 subjects (58%) had discontinued IVIG use during 0-3 years follow-up after gene therapy.
 
@@ -347,11 +347,9 @@ Strimvelis is an autologous cellular therapy. The nature of Strimvelis is such t
 
 Reproductive and developmental studies have not been conducted.
 
-A 4-month biodistribution study was performed in mice. CD34 + cells derived from healthy human umbilical cord blood, transduced with the vector used for the production of Strimvelis, were administered intravenously to busulfan-conditioned mice. The majority of mice showed reconstitution of the haematopoietic system by the end of the study. Low levels of human cells and vector sequences were also detected in non-haematopoietic organs consistent with the presence of blood containing transduced human cells. There were no adverse reactions on survival, haematological parameters or histopathology of major
-
 <div style=\"page-break-after: always\"></div>
 
-organs, apart from body weight loss and atrophy in the testes and ovaries consistent with administration of busulfan.
+A 4-month biodistribution study was performed in mice. CD34 + cells derived from healthy human umbilical cord blood, transduced with the vector used for the production of Strimvelis, were administered intravenously to busulfan-conditioned mice. The majority of mice showed reconstitution of the haematopoietic system by the end of the study. Low levels of human cells and vector sequences were also detected in non-haematopoietic organs consistent with the presence of blood containing transduced human cells. There were no adverse reactions on survival, haematological parameters or histopathology of major organs, apart from body weight loss and atrophy in the testes and ovaries consistent with administration of busulfan.
 
 Carcinogenicity studies have not been conducted as no adequate animal model was available to evaluate the tumourigenic potential of Strimvelis due to the inability to achieve long-term engraftment of transduced cells in mice.
 
@@ -367,7 +365,7 @@ In the absence of compatibility studies, this medicinal product must not be mixe
 
 ## 6.3 Shelf life
 
-## 24 hours
+24 hours
 
 Once removed from refrigerated condition, maximum 90 minutes (15 °C-25 °C).
 
@@ -385,17 +383,19 @@ Do not refrigerate (2 °C-8 °C) after carrying at room temperature (15 °C-25 �
 
 ## Precautions to be taken when handling or administering the medicinal product
 
-Healthcare professionals handling Strimvelis should take appropriate precautions (wearing gloves, protective clothing and eye protection) to avoid potential transmission of infectious diseases.
+This medicinal product contains human blood cells. Healthcare professionals handling Strimvelis should take appropriate precautions (wearing gloves, protective clothing and eye protection) to avoid potential transmission of infectious diseases.
 
 Strimvelis is transported directly to the medical facility where the infusion will be administered. The infusion bag(s) is/are placed inside a closed outer container. The bags must be kept in the outer container until ready to use.
 
-Strimvelis is intended solely for autologous use. The identity of the patient must be matched with the essential unique patient information on the primary and/or outer container prior to infusion.
+Strimvelis is intended solely for autologous use. The identity of the patient must be matched with the essential unique patient information on the primary and/or outer container and the Lot Information Sheet
+
+<div style=\"page-break-after: always\"></div>
+
+(LIS) prior to infusion. Do not infuse Strimvelis if the information on the patient-specific label on the infusion bag does not match the intended patient. The total number of infusion bags to be administered must also be confirmed with the patient specific information on the Lot Information Sheet (LIS).
 
 After careful removal from the metal cassette, warm up at room temperature (15 °C - 25 °C) the infusion bag in its sealed overwrap bag under laminar flow hood for at least 7 minutes. Gently agitate the infusion bag to re-disperse any cellular aggregates, administer using a transfusion administration set with filter to remove any remaining cellular aggregates.
 
 ## Precautions to be taken for the disposal of the medicinal product
-
-<div style=\"page-break-after: always\"></div>
 
 Local guidelines on handling human-derived material should be followed for unused medicinal product or waste material. All material that has been in contact with Strimvelis (solid and liquid waste) should be handled and disposed of as potentially infectious waste in accordance with local guidelines on handling human-derived material.
 
@@ -418,8 +418,6 @@ Date of first authorisation: 26 May 2016
 Date of latest renewal: 30 April 2021
 
 ## 10. DATE OF REVISION OF THE TEXT
-
-MM/YYYY
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
@@ -467,11 +465,9 @@ An updated RMP should be submitted:
 
 ## · Additional risk minimisation measures
 
-Prior to launch of Strimvelis in each Member State, the Marketing Authorisation Holder (MAH) must agree about the content and format of the educational materials for parents/carers and health professionals,
+Prior to launch of Strimvelis in each Member State, the Marketing Authorisation Holder (MAH) must agree about the content and format of the educational materials for parents/carers and health professionals, restricted prescription details and controlled access/product consent form, including communication media, distribution modalities, and any other aspects of the programme, with the National Competent Authority.
 
 <div style=\"page-break-after: always\"></div>
-
-restricted prescription details and controlled access/product consent form, including communication media, distribution modalities, and any other aspects of the programme, with the National Competent Authority.
 
 Strimvelis will be administered at a specialist transplant centre, and by physicians with previous experience in the treatment and management of patients with ADA-SCID and the use of autologous CD34+ ex vivo gene therapy products. A completed product consent form is required prior to initiating treatment.
 
@@ -503,11 +499,13 @@ OUTER CONTAINER
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Strimvelis 1-10 x 10 6 cells/mL dispersion for infusion.
+Strimvelis 1-10 x 10 6 cells/mL dispersion for infusion (CD34 + cells).
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE
 
 An autologous CD34 +  enriched cell fraction that contains CD34 + cells transduced with retroviral vector that encodes for the human ADA cDNA sequence with a concentration of 1-10 x 10 6  CD34 +  cells/mL.
+
+Each 10-40 mL infusion bag contains 1-10 × 10 6 CD34 +  cells/mL.
 
 ## 3. LIST OF EXCIPIENTS
 
@@ -515,7 +513,7 @@ Also contains sodium chloride.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-Dispersion for infusion.
+## Dispersion for infusion.
 
 No. of infusion bags:
 
@@ -545,9 +543,9 @@ For autologous use only.
 
 EXP {DD/MM/YYYY} {hh:mm}
 
-Shelf life once removed from refrigerated condition: 90 minutes at room temperature (15 °C-25 °C)
-
 <div style=\"page-break-after: always\"></div>
+
+Shelf life once removed from refrigerated condition: 90 minutes at room temperature (15 °C-25 °C)
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
@@ -563,7 +561,13 @@ Local guidelines on handling human-derived material should be followed for unuse
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Fondazione Telethon ETS Via Varese 16/B 00185 Rome Italy
+Fondazione Telethon ETS
+
+Via Varese 16/B
+
+00185 Rome
+
+Italy
 
 ## 12. MARKETING AUTHORISATION NUMBER
 
@@ -577,6 +581,8 @@ Patient ID:
 
 DIN:
 
+SEC:
+
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
 ## 15. INSTRUCTIONS ON USE
@@ -589,21 +595,22 @@ Justification for not including Braille accepted
 
 Not applicable.
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
-
 <div style=\"page-break-after: always\"></div>
+
+| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
+|-------|-----------------------------------------|
 
 Not applicable.
 
+20
+
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
-
-## INFUSION BAG
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS INFUSION BAG
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION
 
-Strimvelis 1-10 x 10 6 cells/mL dispersion for infusion. For intravenous use.
+Strimvelis 1-10 x 10 6 cells/mL dispersion for infusion (CD34 + cells). For intravenous use.
 
 ## 2. METHOD OF ADMINISTRATION
 
@@ -623,6 +630,8 @@ Patient ID:
 
 DIN:
 
+SEC:
+
 ## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
 
 Total cell number:
@@ -636,6 +645,87 @@ x 10 6
 ## 6. OTHER
 
 For autologous use only.
+
+<div style=\"page-break-after: always\"></div>
+
+## PARTICULARS TO APPEAR ON THE LOT INFORMATION SHEET INCLUDED WITH EACH SHIPMENT FOR ONE PATIENT
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Strimvelis 1-10 × 10 6  cells/mL dispersion for infusion (CD34 +  cells).
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE
+
+An autologous CD34 +  enriched cell fraction that contains CD34 + cells transduced with retroviral vector that encodes for the human ADA cDNA sequence with a concentration of 1-10 x 10 6  CD34 +  cells/mL.
+
+Each 10-40 mL infusion bag contains 1-10 × 10 6 CD34 +  cells/mL.
+
+## 3. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT, AND DOSE OF THE MEDICINAL PRODUCT
+
+## INFORMATION ON SUPPLIED LOT(S)
+
+The following lot(s) is (are) included in the shipment:
+
+| Lot number   | Bag No.   | Volume of dispersion for infusion (mL)   | Total CD34 + cells (x10 6 )   | Expiry date (DD/MMM/YYYY) {hh:mm}   |
+|--------------|-----------|------------------------------------------|-------------------------------|-------------------------------------|
+
+Total number of bags:  \\_\\_\\_\\_     \\_    \\_
+
+Total number of CD34 +  cells (x10 6 ):  \\_\\_\\_\\_     \\_    \\_
+
+The supplied dose (calculated based on patient's weight at time of cell harvest) is:
+
+- [ ] \\_\\_\\_\\_     \\_    \\_× 10 6  CD34 +  cells/kg
+
+The dose to be infused should be defined by the treating physician based on the total number of CD34 +  cells supplied, the patient's weight at time of treatment, and the fact that any bag used should be administered in its entirety.
+
+## 4. METHOD AND ROUTE(S) OF ADMINISTRATION
+
+Read the package leaflet before use.
+
+## 5. OTHER SPECIAL WARNINGS, IF NECESSARY
+
+Save this document and have it available when preparing for administration of Strimvelis.
+
+<div style=\"page-break-after: always\"></div>
+
+## For autologous use only.
+
+## 6. SPECIAL STORAGE CONDITIONS
+
+## INSTRUCTIONS FOR STORAGE AND USE
+
+Store and transport at refrigerated condition (2 °C-8  C). Keep infusion bag in the metal cassette until ready for administration. Once carried at room temperature (15 °C-25 °C) do not re-refrigerate (2 °C-8 °C).
+
+Shelf life at refrigerated condition (2 °C-8  C): 24 hours.
+
+Shelf life once removed from refrigerated condition: 90 minutes at room temperature (15 °C-25 °C).
+
+## 7. EXPIRY DATE AND OTHER BATCH SPECIFIC INFORMATION
+
+Information is presented in the table in section 3 above.
+
+## 8. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+
+This medicine contains human blood cells. Unused medicine or waste material must be disposed of in compliance with the local guidelines on handling of waste of human-derived material.
+
+## 9. BATCH NUMBER, DONATION AND PRODUCT CODES
+
+COI ID:
+
+Weight at First Collection (kg):
+
+DIN:
+
+SEC:
+
+## 10. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+
+Fondazione Telethon ETS Via Varese 16/B 00185 Rome Italy
+
+## 11. MARKETING AUTHORISATION NUMBER(S)
+
+EU/1/16/1097/001
 
 <div style=\"page-break-after: always\"></div>
 
@@ -657,7 +747,7 @@ This medicine is subject to additional monitoring. This will allow quick identif
 
 - -Keep this leaflet. You may need to read it again.
 - -If you have any further questions, ask your child's doctor or nurse.
-- -If your child gets any side effects, talk to your child's doctor or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+- -If your child gets any side effects, talk to your child's doctor or nurse. This includes any possible side effects not listed in this leaflet. See section 4, ' Possible side effects ' .
 - -Your child's doctor will give you a Patient Alert Card which contains important safety information about your child's treatment with Strimvelis. Read it carefully and follow the instructions on it.
 - -Carry the Patient Alert Card with you at all times and always show it to the doctor or nurse when your child sees them or if your child goes to hospital.
 
@@ -705,7 +795,7 @@ Inserting a new gene into the DNA could cause blood cancer. There has been a cas
 
 These include fever, shortness of breath, paleness, night sweats, tiredness, swollen lymph glands, frequent infections, a tendency to bleed and/or bruise easily, or tiny red or purple spots under the skin. If your child develops any of these symptoms you should contact your doctor immediately.
 
-Before treatment with Strimvelis, your child will be given other medicines (see sections 3 and 4 for more information on these medicines, including possible side effects).
+Before treatment with Strimvelis, your child will be given other medicines (see sections 3, ' How Strimvelis is given ' and 4, ' Possible side effects ' for more information on these medicines, including possible side effects).
 
 If your child has previously tested positive for hepatitis C, your child can still be treated under certain conditions. Your doctor will discuss this with you if needed.
 
@@ -715,7 +805,7 @@ Treatment with Strimvelis has been unsuccessful in some patients. These patients
 
 There is a small risk of infection as a result of the treatment . Your child's doctors and nurses will monitor them throughout the infusion for signs of infection and provide treatment if needed.
 
-Some patients can develop autoimmunity i.e. trigger an immune response against their own cells or tissues (see section 4). Your child's doctor will discuss this with you if needed.
+Some patients can develop autoimmunity i.e. trigger an immune response against their own cells or tissues (see section 4, ' Possible side effects ' ). Your child's doctor will discuss this with you if needed.
 
 After the treatment, your child must not donate blood, organs, tissues or cells at any time in future. This is because Strimvelis is a gene therapy product.
 
@@ -728,7 +818,7 @@ In some cases, it might not be possible to go ahead with the planned treatment w
 - the medicine not meeting all the quality tests
 - a delay in the medicine reaching the clinic where your child is being treated.
 
-Before receiving Strimvelis your child will be given chemotherapy in order to remove their existing bone marrow. If Strimvelis cannot be administered after chemotherapy or if the modified stem cells do not take hold (engraft) in your child's body, the doctor will give your child replacement stem cells, using the backup sample that was collected and stored before treatment started ( see also section 3, How Strimvelis is given ).
+Before receiving Strimvelis your child will be given chemotherapy in order to remove their existing bone marrow. If Strimvelis cannot be administered after chemotherapy or if the modified stem cells do not take hold (engraft) in your child's body, the doctor will give your child replacement stem cells, using the backup sample that was collected and stored before treatment started (see also section 3, ' How Strimvelis is given ' ).
 
 ## You may need other treatment
 
@@ -756,7 +846,7 @@ Before Strimvelis is made , the doctor will do tests to make sure that your chil
 
 The doctor will collect two samples of bone marrow cells before the planned treatment:
 
-- the backup sample , collected at least 3 weeks before Strimvelis treatment.  It will be stored, to be given as replacement cells if Strimvelis cannot be given or does not work (see 'When Strimvelis treatment cannot be completed' in section 2)
+- the backup sample , collected at least 3 weeks before Strimvelis treatment. It will be stored, to be given as replacement cells if Strimvelis cannot be given or does not work (see 'When Strimvelis treatment cannot be completed' in section 2)
 - the treatment sample , collected 4 to 5 days before Strimvelis treatment. It will be used to make Strimvelis, by inserting a new gene into the cells.
 
 ## Before and during Strimvelis treatment
@@ -817,7 +907,7 @@ Store at refrigerated condition (2  C-8  C) for up to 24 hours.
 
 Keep infusion bag in the metal cassette until ready for administration. Once removed from refrigerated condition, store at room temperature (15 °C-25 °C) for up to 90 minutes and do not re-refrigerate.
 
-This medicine contains genetically-modified human cells. Unused medicine or waste material must be disposed of in compliance with the local guidelines on handling human-derived material. As this medicine will be given by a qualified doctor, they are responsible for correct disposal of the product. These measures will help protect the environment.
+Unused medicine or waste material must be disposed of in compliance with the local guidelines on handling human-derived material. As this medicine will be given by a qualified doctor, they are responsible for correct disposal of the product. These measures will help protect the environment.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -826,11 +916,13 @@ This medicine contains genetically-modified human cells. Unused medicine or wast
 ## What Strimvelis contains
 
 - -The active substance is an autologous (the patient's own) CD34 +  enriched cell fraction that contains CD34 +  cells transduced with retroviral vector that encodes for the human ADA cDNA sequence. The concentration is 1-10 × 10 6 CD34 +  cells/mL.
-- -The other ingredient is sodium chloride (see section 2, ' Strimvelis contains sodium ' ).
+- -The other ingredient is sodium chloride (see ' Strimvelis contains sodium' in section 2).
 
 ## What Strimvelis looks like and contents of the pack
 
-Strimvelis is a cloudy to clear, colourless to pink dispersion of cells for infusion, which is supplied in one or more infusion bags. The infusion bags are provided in a closed container.
+Strimvelis is a cloudy to clear, colourless to pink dispersion of cells for infusion, which is supplied in one or more infusion bags. Strimvelis is supplied in 50 mL ethylene vinyl acetate (EVA) infusion bag(s) containing 10-40 mL of dispersion for infusion. The infusion bags are provided in a closed container.
+
+This medicine contains genetically-modified human cells.
 
 ## Marketing Authorisation Holder
 
@@ -840,29 +932,27 @@ Fondazione Telethon ETS Via Varese 16/B 00185 Rome Italy
 
 AGC Biologics S.p.A. 3 Via Antonio Meucci 20091 Bresso Italy
 
-## This leaflet was last revised in MM/YYYY.
+## This leaflet was last revised in.
 
 ## Other sources of information
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu. There are also links to other websites about rare diseases and treatments.
 
-This leaflet is available in all EU/EEA languages on the European Medicines Agency website.
-
 -----------------------------------------------------------------------------------------------------------------------------
 
 ## The following information is intended for healthcare professionals only:
 
-## Precautions to be taken when handling or administering the medicinal product
+Precautions to be taken when handling or administering the medicinal product
 
-Healthcare professionals handling Strimvelis should take appropriate precautions (wearing gloves, protective clothing and eye protection) to avoid potential transmission of infectious diseases.
+This medicinal product contains human blood cells. Healthcare professionals handling Strimvelis should take appropriate precautions (wearing gloves, protective clothing and eye protection) to avoid potential transmission of infectious diseases.
 
 Strimvelis is transported directly to the medical facility where the infusion will be administered. The infusion bag(s) is/are placed inside a closed outer container. The bags must be kept in the outer container until ready to use.
 
 Strimvelis is intended solely for autologous use. The identity of the patient must be matched with the essential unique patient information on the primary and/or outer container prior to infusion.
 
-Gently agitate the infusion bag to re-disperse any cellular aggregates, administer using a transfusion administration set with filter to remove any remaining cellular aggregates.
-
 <div style=\"page-break-after: always\"></div>
+
+Gently agitate the infusion bag to re-disperse any cellular aggregates, administer using a transfusion administration set with filter to remove any remaining cellular aggregates.
 
 ## Precautions to be taken for the disposal of the medicinal product
 

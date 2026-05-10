@@ -4,8 +4,8 @@ document_pages: 5
 document_pathfilename: www.ema.europa.eu/en/documents/procedural-steps-after/fintepla-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
 document_name: fintepla-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
 version: success
-processing_time: 2.9035802
-conversion_datetime: 2026-05-10 13:14:10.515471
+processing_time: 2.989689
+conversion_datetime: 2026-05-10 13:14:47.252604
 docling_version:
   docling-serve: 1.17.0
   docling-jobkit: 1.18.0

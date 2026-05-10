@@ -1,22 +1,24 @@
 ---
-document_datetime: 2026-02-13 15:17:55
+document_datetime: 2026-05-08 09:32:51
 document_pages: 58
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/emtricitabine-rilpivirine-tenofovir-alafenamide-viatris-epar-product-information_en.pdf
 document_name: emtricitabine-rilpivirine-tenofovir-alafenamide-viatris-epar-product-information_en.pdf
 version: success
-processing_time: 15.2534472
-conversion_datetime: 2026-02-18 17:54:32.509508
+processing_time: 15.5491035
+conversion_datetime: 2026-05-10 12:53:44.407026
 docling_version:
-  docling-serve: 1.13.0
-  docling-jobkit: 1.11.0
-  docling: 2.74.0
-  docling-core: 2.65.1
-  docling-ibm-models: 3.11.0
-  docling-parse: 5.3.2
+  docling-serve: 1.17.0
+  docling-jobkit: 1.18.0
+  docling: 2.92.0
+  docling-core: 2.74.1
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.10.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
-## ANNEX I SUMMARY OF PRODUCT CHARACTERISTICS
+## ANNEX I
+
+## SUMMARY OF PRODUCT CHARACTERISTICS
 
 <div style=\"page-break-after: always\"></div>
 
@@ -58,11 +60,9 @@ If the patient misses a dose of Emtricitabine/Rilpivirine/Tenofovir Alafenamide 
 
 If the patient vomits within 4 hours of taking Emtricitabine/Rilpivirine/Tenofovir Alafenamide Viatris another tablet should be taken with food. If a patient vomits more than 4 hours after taking Emtricitabine/Rilpivirine/Tenofovir Alafenamide Viatris they do not need to take another dose of this medicinal product until the next regularly scheduled dose.
 
-Elderly
+Elderly No dose adjustment of Emtricitabine/Rilpivirine/Tenofovir Alafenamide Viatris is required in elderly patients (see section 5.2).
 
 <div style=\"page-break-after: always\"></div>
-
-No dose adjustment of Emtricitabine/Rilpivirine/Tenofovir Alafenamide Viatris is required in elderly patients (see section 5.2).
 
 ## Renal impairment
 
@@ -92,11 +92,9 @@ Emtricitabine/Rilpivirine/Tenofovir Alafenamide Viatris should be taken orally, 
 
 Hypersensitivity to the active substances or to any of the excipients listed in section 6.1.
 
-Emtricitabine/Rilpivirine/Tenofovir Alafenamide Viatris should not be co-administered with medicinal products that can result in significant decreases in rilpivirine plasma concentrations (due to cytochrome P450 [CYP]3A enzyme induction or gastric pH increase), which may result in loss of
+Emtricitabine/Rilpivirine/Tenofovir Alafenamide Viatris should not be co-administered with medicinal products that can result in significant decreases in rilpivirine plasma concentrations (due to cytochrome P450 [CYP]3A enzyme induction or gastric pH increase), which may result in loss of therapeutic effect of Emtricitabine/Rilpivirine/Tenofovir Alafenamide Viatris (see section 4.5), including:
 
 <div style=\"page-break-after: always\"></div>
-
-therapeutic effect of Emtricitabine/Rilpivirine/Tenofovir Alafenamide Viatris (see section 4.5), including:
 
 - carbamazepine, oxcarbazepine, phenobarbital, phenytoin
 - rifabutin, rifampicin, rifapentine
@@ -210,11 +208,9 @@ Rilpivirine is an in vitro inhibitor of the transporter MATE-2K with an IC50 of 
 
 ## Tenofovir alafenamide
 
-Tenofovir alafenamide is transported by P-gp and breast cancer resistance protein (BCRP). Medicinal products that affect P-gp and BCRP activity may lead to changes in tenofovir alafenamide absorption (see Table 1). Medicinal products that induce P-gp activity (e.g., rifampicin, rifabutin, carbamazepine, phenobarbital) are expected to decrease the absorption of tenofovir alafenamide, resulting in decreased plasma concentration of tenofovir alafenamide, which may lead to loss of therapeutic effect of Emtricitabine/Rilpivirine/Tenofovir Alafenamide and development of resistance. Co-administration of Emtricitabine/Rilpivirine/Tenofovir Alafenamide Viatris with other medicinal products that inhibit P-gp and BCRP activity (e.g., ketoconazole, fluconazole, itraconazole, posaconazole, voriconazole, ciclosporin) is expected to increase the absorption and plasma concentration of tenofovir alafenamide. Based on data from an in vitro study, co-
+Tenofovir alafenamide is transported by P-gp and breast cancer resistance protein (BCRP). Medicinal products that affect P-gp and BCRP activity may lead to changes in tenofovir alafenamide absorption (see Table 1). Medicinal products that induce P-gp activity (e.g., rifampicin, rifabutin, carbamazepine, phenobarbital) are expected to decrease the absorption of tenofovir alafenamide, resulting in decreased plasma concentration of tenofovir alafenamide, which may lead to loss of therapeutic effect of Emtricitabine/Rilpivirine/Tenofovir Alafenamide and development of resistance. Co-administration of Emtricitabine/Rilpivirine/Tenofovir Alafenamide Viatris with other medicinal products that inhibit P-gp and BCRP activity (e.g., ketoconazole, fluconazole, itraconazole, posaconazole, voriconazole, ciclosporin) is expected to increase the absorption and plasma concentration of tenofovir alafenamide. Based on data from an in vitro study, co- administration of tenofovir alafenamide and xanthine oxidase inhibitors (e.g., febuxostat) is not expected to increase systemic exposure to tenofovir in vivo.
 
 <div style=\"page-break-after: always\"></div>
-
-administration of tenofovir alafenamide and xanthine oxidase inhibitors (e.g., febuxostat) is not expected to increase systemic exposure to tenofovir in vivo.
 
 Tenofovir alafenamide is not an inhibitor of CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19 or CYP2D6 in vitro. Tenofovir alafenamide is not an inhibitor or inducer of CYP3A in vivo. Tenofovir alafenamide is a substrate of organic anion transporting polypeptide (OATP) 1B1 and OATP1B3 in vitro. The distribution of tenofovir alafenamide in the body may be affected by the activity of OATP1B1 and OATP1B3.
 
@@ -222,7 +218,9 @@ Tenofovir alafenamide is not an inhibitor of CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP
 
 Co-administration of Emtricitabine/Rilpivirine/Tenofovir Alafenamide Viatris and medicinal products that induce CYP3A has been observed to decrease the plasma concentrations of rilpivirine which could potentially lead to loss of virologic response to Emtricitabine/Rilpivirine/Tenofovir Alafenamide Viatris (see section 4.3) and possible resistance to rilpivirine and to the NNRTI class.
 
-Co-administration of Emtricitabine/Rilpivirine/Tenofovir Alafenamide Viatris with proton pump inhibitors has been observed to decrease the plasma concentrations of rilpivirine (due to an increase in gastric pH) which could potentially lead to loss of virologic response to Emtricitabine/Rilpivirine/Tenofovir Alafenamide Viatris (see section 4.3) and possible resistance to rilpivirine and to the NNRTI class.
+Co-administration of Emtricitabine/Rilpivirine/Tenofovir Alafenamide Viatris with proton pump inhibitors has been observed to decrease the plasma concentrations of rilpivirine (due to an increase in gastric pH) which could potentially lead to loss of virologic response to Emtricitabine/Rilpivirine/Tenofovir Alafenamide Viatris (see section 4.3) and possible resistance to
+
+rilpivirine and to the NNRTI class.
 
 ## Concomitant use where caution is recommended
 
@@ -685,11 +683,9 @@ In Study GS-US-292-0104 and Study GS-US-292-0111, patients received either E/C/F
 
 The mean age was 36 years (range 18-76), 85% were male, 57% were White, 25% were Black, and 10% were Asian. The mean baseline plasma HIV-1 RNA was 4.5 log10 copies/mL (range 1.3-7.0) and 23% of patients had baseline viral loads &gt; 100 000 copies/mL. The mean baseline CD4+ cell count was 427 cells/mm 3 (range 0-1 360) and 13% had CD4+ cell counts &lt; 200 cells/mm 3 .
 
-In Studies GS-US-292-0104 and GS-US-292-0111, E/C/F/TAF demonstrated statistical superiority in achieving HIV-1 RNA &lt; 50 copies/mL when compared to E/C/F/TDF at Week 144. The
+In Studies GS-US-292-0104 and GS-US-292-0111, E/C/F/TAF demonstrated statistical superiority in achieving HIV-1 RNA &lt; 50 copies/mL when compared to E/C/F/TDF at Week 144. The difference in percentage was 4.2% (95% CI: 0.6% to 7.8%). Pooled treatment outcomes at 48 and 144 weeks are shown in Table 3.
 
 <div style=\"page-break-after: always\"></div>
-
-difference in percentage was 4.2% (95% CI: 0.6% to 7.8%). Pooled treatment outcomes at 48 and 144 weeks are shown in Table 3.
 
 In Study GS-US-292-0109, the efficacy and safety of switching from either EFV/FTC/TDF, FTC/TDF plus atazanavir (boosted by either cobicistat or ritonavir), or E/C/F/TDF to E/C/F/TAF FDC tablet were evaluated in a randomised, open-label study of virologically suppressed (HIV-1 RNA
 
@@ -836,11 +832,9 @@ In open-label Study GS-US-292-1249, the efficacy and safety of E/C/F/TAF were ev
 
 Of the patients who were HBeAg positive at baseline, 1/30 (3.3%) achieved seroconversion to antiHBe at Week 48. Of the patients who were HBsAg positive at baseline, 3/70 (4.3%) achieved seroconversion to anti-HBs at Week 48.
 
-At Week 48, 92% of patients (66/72) maintained HIV-1 RNA &lt; 50 copies/mL after switching to E/C/F/TAF. The mean change from baseline in CD4+ cell count at Week 48 was -2 cells/mm 3 . Ninety-two percent (66/72 patients) had HBV DNA &lt; 29 IU/mL using missing = failure analysis at Week 48. Of the 62 patients who were HBV suppressed at baseline, 59 remained suppressed and 3 had missing data. Of the 10 patients who were not HBV suppressed at baseline (HBV DNA ≥ 29 IU/mL), 7 became suppressed, 2 remained detectable, and 1 had missing data. Alanine
+At Week 48, 92% of patients (66/72) maintained HIV-1 RNA &lt; 50 copies/mL after switching to E/C/F/TAF. The mean change from baseline in CD4+ cell count at Week 48 was -2 cells/mm 3 . Ninety-two percent (66/72 patients) had HBV DNA &lt; 29 IU/mL using missing = failure analysis at Week 48. Of the 62 patients who were HBV suppressed at baseline, 59 remained suppressed and 3 had missing data. Of the 10 patients who were not HBV suppressed at baseline (HBV DNA ≥ 29 IU/mL), 7 became suppressed, 2 remained detectable, and 1 had missing data. Alanine aminotransferase (ALT) normalisation was achieved in 40% (4/10) of subjects with ALT greater than upper limit of normal (ULN) at baseline.
 
 <div style=\"page-break-after: always\"></div>
-
-aminotransferase (ALT) normalisation was achieved in 40% (4/10) of subjects with ALT greater than upper limit of normal (ULN) at baseline.
 
 There are limited clinical data on the use of E/C/F/TAF in HIV/HBV co-infected patients who are treatment-naïve.
 
@@ -888,11 +882,9 @@ Emtricitabine/Rilpivirine/Tenofovir Alafenamide Viatris: Emtricitabine and tenof
 
 Emtricitabine is rapidly and extensively absorbed following oral administration with peak plasma concentrations occurring at 1 to 2 hours post-dose. Following multiple dose oral administration of emtricitabine to 20 HIV-1 infected subjects, the (mean ± SD) area-under the plasma concentration-time curve over a 24-hour dosing interval (AUC) was 10.0 ± 3.1 h·µg/mL. The mean steady-state plasma trough concentration at 24 hours post-dose was equal to or greater than the mean in vitro IC90 value for anti-HIV-1 activity. The absolute bioavailability of emtricitabine from 200 mg hard capsules was estimated to be 93%. Emtricitabine systemic exposure was unaffected when emtricitabine was administered with food.
 
-After oral administration, the maximum plasma concentration of rilpivirine is generally achieved within 4 to 5 hours. The absolute bioavailability of rilpivirine is unknown. Relative to fasting
+After oral administration, the maximum plasma concentration of rilpivirine is generally achieved within 4 to 5 hours. The absolute bioavailability of rilpivirine is unknown. Relative to fasting conditions, the administration of Emtricitabine/Rilpivirine/Tenofovir alafenamide to healthy adult subjects with food resulted in increased rilpivirine exposure (AUC) by 13-72%.
 
 <div style=\"page-break-after: always\"></div>
-
-conditions, the administration of Emtricitabine/Rilpivirine/Tenofovir alafenamide to healthy adult subjects with food resulted in increased rilpivirine exposure (AUC) by 13-72%.
 
 Tenofovir alafenamide is rapidly absorbed following oral administration, with peak plasma concentrations occurring at 15-45 minutes post-dose. Relative to fasting conditions, the administration of Emtricitabine/Rilpivirine/Tenofovir alafenamide to healthy adult subjects with food resulted in increased tenofovir alafenamide exposure (AUC) by 45-53%.
 
@@ -1069,7 +1061,9 @@ EU/1/25/1966/001 EU/1/25/1966/002 EU/1/25/1966/003 EU/1/25/1966/004 EU/1/25/1966
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-Date of first authorisation: 19 August 2025 Date of latest renewal:
+Date of first authorisation: 19 August 2025
+
+Date of latest renewal:
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -1092,7 +1086,7 @@ Name and address of the manufacturer responsible for batch release
 
 Mylan Hungary Kft Mylan utca 1, Komárom, 2900, Hungary
 
-Mylan Germany GmbH Zweigniederlassung Bad Homburg v. d. Hoehe, Benzstrasse 1, Bad Homburg v. d. Hoehe, Hessen, 61352, Germany
+Viatris Germany GmbH Zweigniederlassung Bad Homburg v. d. Hoehe, Benzstrasse 1, Bad Homburg v. d. Hoehe, Hessen, 61352, Germany
 
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
@@ -1642,7 +1636,8 @@ The frequency of the following side effects is not known (frequency cannot be es
 - -joint stiffness
 - -joint aches and pains (especially of the hip, knee and shoulder)
 - -difficulty with movement
--  If you notice any of these symptoms tell your doctor.
+
+##  If you notice any of these symptoms tell your doctor.
 
 During HIV therapy there may be an increase in weight and in levels of blood lipids and glucose. This is partly linked to restored health and life style, and in the case of blood lipids sometimes to the HIV medicines themselves. Your doctor will test for these changes.
 
@@ -1687,7 +1682,7 @@ Viatris Limited Damastown Industrial Park Mulhuddart, Dublin 15 DUBLIN Ireland
 
 Mylan Hungary Kft Mylan utca 1, Komárom, 2900, Hungary
 
-## Mylan Germany GmbH
+## Viatris Germany GmbH
 
 Zweigniederlassung Bad Homburg v. d. Hoehe,
 
@@ -1701,27 +1696,15 @@ Viatris
 
 Tél/Tel: + 32 (0)2 658 61 00
 
-## България
-
-Майлан ЕООД
-
-Тел: +359 2 44 55 400
-
-## Česká republika
-
-Viatris CZ s.r.o.
-
-Tel: + 420 222 004 400
-
-## Danmark
-
-Viatris ApS
-
-Tlf: +45 28 11 69 32
-
 ## Lietuva
 
 Viatris UAB Tel: +370 5 205 1288
+
+## България
+
+Виатрис ЕООД
+
+Тел.: +359 2 44 55 400
 
 ## Luxembourg/Luxemburg
 
@@ -1731,11 +1714,23 @@ Tél/Tel: + 32 (0)2 658 61 00
 
 (Belgique/Belgien)
 
+## Česká republika
+
+Viatris CZ s.r.o.
+
+Tel: + 420 222 004 400
+
 ## Magyarország
 
 Viatris Healthcare Kft.
 
 Tel.: + 36 1 465 2100
+
+## Danmark
+
+Viatris ApS
+
+Tlf: +45 28 11 69 32
 
 ## Malta
 

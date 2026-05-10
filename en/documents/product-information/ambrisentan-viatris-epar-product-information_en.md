@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-12-16 08:34:44
+document_datetime: 2026-05-07 15:30:28
 document_pages: 39
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/ambrisentan-viatris-epar-product-information_en.pdf
 document_name: ambrisentan-viatris-epar-product-information_en.pdf
 version: success
-processing_time: 7.6633594
-conversion_datetime: 2026-01-03 12:53:03.736133
+processing_time: 8.5790625
+conversion_datetime: 2026-05-10 12:46:54.284113
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.17.0
+  docling-jobkit: 1.18.0
+  docling: 2.92.0
+  docling-core: 2.74.1
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.10.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -346,7 +346,9 @@ Ambrisentan is an orally active, propanoic acid-class, ERA selective for the end
 
 Ambrisentan is an ETA antagonist (approximately 4 000-fold more selective for ETA as compared to ETB).
 
-Ambrisentan blocks the ETA receptor subtype, localised predominantly on vascular smooth muscle cells and cardiac myocytes. This prevents endothelin-mediated activation of second messenger systems that result in vasoconstriction and smooth muscle cell proliferation. The selectivity of ambrisentan for the ET A over the ETB receptor is expected to retain ET B receptor mediated production of the vasodilators nitric oxide and prostacyclin.
+Ambrisentan blocks the ETA receptor subtype, localised predominantly on vascular smooth muscle cells and cardiac myocytes. This prevents endothelin-mediated activation of second messenger systems that result in vasoconstriction and smooth muscle cell proliferation. The selectivity of ambrisentan for the ET A over the ETB receptor is expected to retain ET B receptor
+
+mediated production of the vasodilators nitric oxide and prostacyclin.
 
 ## Clinical efficacy and safety
 
@@ -403,7 +405,7 @@ The mean age of all patients was 54 years (SD 15; range 18-75 years of age). Pat
 
 Treatment with combination therapy resulted in a 50% risk reduction (hazard ratio [HR] 0.502; 95% CI: 0.348 to 0.724; p=0.0002) of the composite clinical failure endpoint up to final assessment visit when compared to the pooled monotherapy group [Figure 1 and Table 1]. The treatment effect was driven by a 63% reduction in hospitalisations on combination therapy, was established early and was sustained. Efficacy of combination therapy on the primary endpoint was consistent on the comparison to individual monotherapy and across the subgroups of age, ethnic origin, geographical region, aetiology (iPAH/hPAH and PAH-CTD). The effect was significant for both FC II and FC III patients.
 
-Figure 1
+## Figure 1
 
 ## Time to Clinical Failure
 
@@ -438,16 +440,14 @@ Table 2
 | Secondary Endpoints (change from baseline to week 24)           |   Ambrisentan + Tadalafil |   Monotherapy pooled | Difference and Confidence Interval       | p-value   |
 |-----------------------------------------------------------------|---------------------------|----------------------|------------------------------------------|-----------|
 | NT-proBNP (% reduction)                                         |                     -67.2 |                -50.4 | %difference - 33.8; 95% CI: -44.8, -20.7 | p<0.0001  |
-| %subjects achieving a satisfactory clinical response at week 24 |                      39   |                 29   | Odds ratio 1.56; 95% CI: 1.05, 2.32      | p=0.026   |
-| 6MWD(metres, median change)                                     |                      49   |                 23.8 | 22.75m; 95% CI: 12.00, 33.50             | p<0.0001  |
+| %subjects achieving a satisfactory clinical response at week 24 |                        39 |                   29 | Odds ratio 1.56; 95% CI: 1.05, 2.32      | p=0.026   |
+| 6MWD(metres, median change)                                     |                      49.0 |                 23.8 | 22.75m; 95% CI: 12.00, 33.50             | p<0.0001  |
 
 ## Idiopathic Pulmonary Fibrosis
 
-A study of 492 patients (ambrisentan N=329, placebo N=163) with idiopathic pulmonary fibrosis (IPF), 11% of which had secondary pulmonary hypertension (WHO group 3), has been conducted, but
+A study of 492 patients (ambrisentan N=329, placebo N=163) with idiopathic pulmonary fibrosis (IPF), 11% of which had secondary pulmonary hypertension (WHO group 3), has been conducted, but was terminated early when it was determined that the primary efficacy endpoint could not be met (ARTEMIS-IPF study). Ninety events (27%) of IPF progression (including respiratory hospitalisations) or death were observed in the ambrisentan group compared to 28 events (17%) in the placebo group. Ambrisentan is therefore contraindicated for patients with IPF with or without secondary pulmonary hypertension (see section 4.3).
 
 <div style=\"page-break-after: always\"></div>
-
-was terminated early when it was determined that the primary efficacy endpoint could not be met (ARTEMIS-IPF study). Ninety events (27%) of IPF progression (including respiratory hospitalisations) or death were observed in the ambrisentan group compared to 28 events (17%) in the placebo group. Ambrisentan is therefore contraindicated for patients with IPF with or without secondary pulmonary hypertension (see section 4.3).
 
 ## Paediatric population
 
@@ -473,11 +473,9 @@ Ambrisentan is a non-sulphonamide (propanoic acid) ERA.
 
 Ambrisentan is glucuronidated via several UGT isoenzymes (UGT1A9S, UGT2B7S and UGT1A3S) to form ambrisentan glucuronide (13%). Ambrisentan also undergoes oxidative metabolism mainly by CYP3A4 and to a lesser extent by CYP3A5 and CYP2C19 to form 4-hydroxymethyl ambrisentan (21%) which is further glucuronidated to 4-hydroxymethyl ambrisentan glucuronide (5%). The binding affinity of 4-hydroxymethyl ambrisentan for the human endothelin receptor is 65-fold less than ambrisentan. Therefore, at concentrations observed in the plasma (approximately 4% relative to parent ambrisentan), 4-hydroxymethyl ambrisentan is not expected to contribute to pharmacological activity of ambrisentan.
 
-In vitro data indicate that ambrisentan at 300 μM resulted in less than 50% inhibition of UGT1A1, UGT1A6, UGT1A9, UGT2B7 (up to 30%) or of cytochrome P450 enzymes 1A2, 2A6, 2B6, 2C8, 2C9, 2C19, 2D6, 2E1 and 3A4 (up to 25%). In vitro , ambrisentan has no inhibitory effect on human transporters at clinically relevant concentrations, including Pgp, BCRP, MRP2, BSEP, OATP1B1, OATP1B3 and NTCP. Furthermore, ambrisentan did not induce MRP2, Pgp or BSEP protein expression in rat hepatocytes. Taken together, the in vitro data suggest ambrisentan at clinically
+In vitro data indicate that ambrisentan at 300 μM resulted in less than 50% inhibition of UGT1A1, UGT1A6, UGT1A9, UGT2B7 (up to 30%) or of cytochrome P450 enzymes 1A2, 2A6, 2B6, 2C8, 2C9, 2C19, 2D6, 2E1 and 3A4 (up to 25%). In vitro , ambrisentan has no inhibitory effect on human transporters at clinically relevant concentrations, including Pgp, BCRP, MRP2, BSEP, OATP1B1, OATP1B3 and NTCP. Furthermore, ambrisentan did not induce MRP2, Pgp or BSEP protein expression in rat hepatocytes. Taken together, the in vitro data suggest ambrisentan at clinically relevant concentrations (plasma C max up to 3.2 μM) would not be expected to have an effect on UGT1A1, UGT1A6, UGT1A9, UGT2B7 or cytochrome P450 enzymes 1A2, 2A6, 2B6, 2C8, 2C9, 2C19, 2D6, 2E1, 3A4 or transport via BSEP, BCRP, Pgp, MRP2, OATP1B1/3, or NTCP.
 
 <div style=\"page-break-after: always\"></div>
-
-relevant concentrations (plasma C max up to 3.2 μM) would not be expected to have an effect on UGT1A1, UGT1A6, UGT1A9, UGT2B7 or cytochrome P450 enzymes 1A2, 2A6, 2B6, 2C8, 2C9, 2C19, 2D6, 2E1, 3A4 or transport via BSEP, BCRP, Pgp, MRP2, OATP1B1/3, or NTCP.
 
 The effects of steady-state ambrisentan (10 mg once daily) on the pharmacokinetics and pharmacodynamics of a single dose of warfarin (25 mg), as measured by PT and INR, were investigated in 20 healthy volunteers. Ambrisentan did not have any clinically relevant effects on the pharmacokinetics or pharmacodynamics of warfarin. Similarly, co-administration with warfarin did not affect the pharmacokinetics of ambrisentan (see section 4.5).
 
@@ -493,11 +491,9 @@ The effects of acute and repeat dosing of rifampicin (600 mg once daily) on the 
 
 The effects of repeat dosing of ambrisentan (10 mg) on the pharmacokinetics of single dose digoxin were studied in 15 healthy volunteers. Multiple doses of ambrisentan resulted in slight increases in digoxin AUC0-last and trough concentrations, and a 29% increase in digoxin C max . The increase in digoxin exposure observed in the presence of multiple doses of ambrisentan was not considered clinically relevant, and no dose adjustment of digoxin is warranted (see section 4.5).
 
-The effects of 12 days dosing with ambrisentan (10 mg once daily) on the pharmacokinetics of a single dose of oral contraceptive containing ethinyl estradiol (35 μg) and norethindrone (1 mg) were studied in healthy female volunteers. The C max and AUC(0-∞) were slightly decreased for ethinyl estradiol (8% and 4%, respectively), and slightly increased for norethindrone (13% and 14%, respectively). These
+The effects of 12 days dosing with ambrisentan (10 mg once daily) on the pharmacokinetics of a single dose of oral contraceptive containing ethinyl estradiol (35 μg) and norethindrone (1 mg) were studied in healthy female volunteers. The C max and AUC(0-∞) were slightly decreased for ethinyl estradiol (8% and 4%, respectively), and slightly increased for norethindrone (13% and 14%, respectively). These changes in exposure to ethinyl estradiol or norethindrone were small and are unlikely to be clinically significant (see section 4.5).
 
 <div style=\"page-break-after: always\"></div>
-
-changes in exposure to ethinyl estradiol or norethindrone were small and are unlikely to be clinically significant (see section 4.5).
 
 ## Elimination
 
@@ -626,11 +622,15 @@ Detailed information on this medicinal product is available on the website of th
 
 Name and address of the manufacturer(s) responsible for batch release
 
-McDermott Laboratories t/a Gerard Laboratories, 35/36 Baldoyle Industrial Estate, Grange Road, Dublin 13, Ireland or
+McDermott Laboratories t/a Gerard Laboratories, 35/36 Baldoyle Industrial Estate, Grange Road, Dublin 13, Ireland
 
-Mylan Hungary Kft, Mylan utca 1, 2900 Komárom, Hungary or
+or
 
-Mylan Germany GmbH, Zweigniederlassung Bad Homburg v. d., Hoeh, Benzstrasse 1, 61352 Bad Homburg v. d. Hoehe, Germany
+Mylan Hungary Kft, Mylan utca 1, 2900 Komárom, Hungary
+
+or
+
+Viatris Germany GmbH, Zweigniederlassung Bad Homburg v. d., Hoeh, Benzstrasse 1, 61352 Bad Homburg v. d. Hoehe, Germany
 
 The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.
 
@@ -1254,7 +1254,7 @@ Viatris Limited Damastown Industrial Park, Mulhuddart, Dublin 15, DUBLIN Ireland
 
 McDermott Laboratories t/a Gerard Laboratories, 35/36 Baldoyle Industrial Estate, Grange Road, Dublin 13, Ireland
 
-Mylan Germany GmbH, Zweigniederlassung Bad Homburg v. d., Hoeh, Benzstrasse 1, 61352 Bad Homburg v. d. Hoehe, Germany
+Viatris Germany GmbH, Zweigniederlassung Bad Homburg v. d., Hoeh, Benzstrasse 1, 61352 Bad Homburg v. d. Hoehe, Germany
 
 Mylan Hungary Kft, Mylan utca 1, 2900 Komárom, Hungary
 
@@ -1268,7 +1268,7 @@ Lietuva Viatris UAB Tel: +370 5 205 1288
 
 ## България
 
-Майлан ЕООД Тел: +359 2 44 55 400
+Виатрис ЕООД Тел.: +359 2 44 55 400
 
 ## Česká republika
 
@@ -1276,7 +1276,7 @@ Viatris CZ s.r.o. Tel: + 420 222 004 400
 
 ## Danmark
 
-Viatris ApS Tlf: + 45 28116932
+Viatris ApS Tlf: +45 28 11 69 32
 
 ## Deutschland
 
@@ -1328,7 +1328,9 @@ Viatris Tél/Tel: + 32 (0)2 658 61 00 (Belgique/Belgien)
 
 ## Magyarország
 
-Viatris Healthcare Kft. Tel.: + 36 1 465 2100
+Viatris Healthcare Kft.
+
+Tel.: + 36 1 465 2100
 
 ## Malta
 
@@ -1348,7 +1350,7 @@ Viatris Austria GmbH Tel: +43 1 86390
 
 ## Polska
 
-Viatris Healthcare Sp. z.o.o. Tel.: + 48 22 546 64 00
+Viatris Healthcare Sp. z.o.o. Tel: + 48 22 546 64 00
 
 ## Portugal
 

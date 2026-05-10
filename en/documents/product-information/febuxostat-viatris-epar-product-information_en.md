@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-07-14 09:56:24
+document_datetime: 2026-05-07 16:48:59
 document_pages: 73
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/febuxostat-viatris-epar-product-information_en.pdf
 document_name: febuxostat-viatris-epar-product-information_en.pdf
 version: success
-processing_time: 19.6213025
-conversion_datetime: 2025-12-19 22:33:15.050609
+processing_time: 21.2741469
+conversion_datetime: 2026-05-10 12:02:29.918535
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.17.0
+  docling-jobkit: 1.18.0
+  docling: 2.92.0
+  docling-core: 2.74.1
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.10.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -138,17 +138,15 @@ During the combined phase 3 clinical studies, mild liver function test abnormali
 
 ## Thyroid disorders
 
-Increased TSH values (&gt;5.5 µIU/mL) were observed in patients on long-term treatment with febuxostat (5.5%) in the long term open label extension studies. Caution is required when
+Increased TSH values (&gt;5.5 µIU/mL) were observed in patients on long-term treatment with febuxostat (5.5%) in the long term open label extension studies. Caution is required when febuxostat is used in patients with alteration of thyroid function (see section 5.1).
 
 <div style=\"page-break-after: always\"></div>
-
-febuxostat is used in patients with alteration of thyroid function (see section 5.1).
 
 ## Excipients
 
 Febuxostat Viatris tablets contain lactose. Patients with rare hereditary problems of galactose intolerance, total lactase deficiency or glucose-galactose malabsorption should not take this medicine.
 
-Febuxostat Viatris tablets contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially 'sodium-free'.
+Febuxostat Viatris tablets contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially 'sodium -free'.
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
@@ -308,7 +306,7 @@ APEX Study : The Allopurinol and Placebo-Controlled Efficacy Study of Febuxostat
 
 <div style=\"page-break-after: always\"></div>
 
-was a Phase 3, randomized, double-blind, multicenter, 28-week study. One thousand and seventy-two (1072) patients were randomized: placebo (n=134), febuxostat 80 mg QD (n=267), febuxostat 120 mg QD (n=269), febuxostat 240 mg QD (n=134) or allopurinol (300 mg QD [n=258] for patients with a baseline serum creatinine ≤1.5 mg/dL or 100 mg QD [n=10] for patients with a baseline serum creatinine &gt;1.5 mg/dL and ≤2.0 mg/dL). Two hundred and forty mg febuxostat (2 times the recommended highest dose) was used as a safety evaluation dose.
+was a Phase 3, randomized, double-blind, multicenter, 28-week study. One thousand and seventy-two (1072) patients were randomized: placebo (n=134), febuxostat 80 mg QD (n=267), febuxostat 120 mg QD (n=269), febuxostat 240 mg QD (n=134) or allopurinol (300 mg QD [n=258] for patients with a baseline serum creatinine ≤1.5 mg/dL or 100 mg QD [n=10] for patients with a baseline serum creatinine &gt;1.5 mg /dL and ≤2.0 mg/dL). Two hundred and forty mg febuxostat (2 times the recommended highest dose) was used as a safety evaluation dose.
 
 The APEX study showed statistically significant superiority of both the febuxostat 80 mg QD and the febuxostat 120 mg QD treatment arms versus the conventionally used doses of allopurinol 300 mg (n = 258) /100 mg (n = 10) treatment arm in reducing the sUA below 6 mg/dL (357 µmol/L) (see Table 2 and Figure 1).
 
@@ -335,7 +333,7 @@ Figure 1 Mean Serum Uric Acid Levels in Combined Pivotal Phase 3 Studies
 
 <!-- image -->
 
-Note: 509 patients received allopurinol 300 mg QD; 10 patients with serum creatinine &gt;1.5 and ≤2.0 mg/dL were dosed with 100 mg QD. (10 patients out of 268 in APEX study). 240 mg febuxostat was used to evaluate the safety of febuxostat at twice the recommended highest dose.
+Note: 509 patients received allopurinol 300 mg QD; 10 patients with serum creatinine &gt;1.5 and ≤ 2.0 mg/dL were dosed with 100 mg QD. (10 patients out of 268 in APEX study). 240 mg febuxostat was used to evaluate the safety of febuxostat at twice the recommended highest dose.
 
 CONFIRMS Study: The CONFIRMS study was a Phase 3, randomized, controlled, 26-week study to evaluate the safety and efficacy of febuxostat 40 mg and 80 mg, in comparison with allopurinol 300 mg or 200 mg, in patients with gout and hyperuricaemia. Two thousand and two hundred-sixty nine (2269) patients were randomized: febuxostat 40 mg QD (n=757), febuxostat 80 mg QD (n=756), or allopurinol 300/200 mg QD (n=756). At least 65% of the patients had mild-moderate renal impairment (with creatinine clearance of 30-89 mL/min). Prophylaxis against gout flares was obligatory over the 26-week period.
 
@@ -343,7 +341,7 @@ The proportion of patients with serum urate levels of &lt; 6.0 mg/dL (357 µmol/
 
 Primary endpoint in the sub-group of patients with renal impairment
 
-The APEX Study evaluated efficacy in 40 patients with renal impairment (i.e., baseline serum creatinine &gt; 1.5 mg/dL and ≤2.0 mg/dL). For renally impaired subjects who were randomized to allopurinol, the dose was capped at 100 mg QD. Febuxostat achieved the primary efficacy endpoint in 44% (80 mg QD), 45% (120 mg QD), and 60% (240 mg QD) of patients compared to 0% in the allopurinol 100 mg QD and placebo groups.
+The APEX Study evaluated efficacy in 40 patients with renal impairment (i.e., baseline serum creatinine &gt; 1.5 mg /dL and ≤2.0 mg/dL). For renally impaired subjects who were randomized to allopurinol, the dose was capped at 100 mg QD. Febuxostat achieved the primary efficacy endpoint in 44% (80 mg QD), 45% (120 mg QD), and 60% (240 mg QD) of patients compared to 0% in the allopurinol 100 mg QD and placebo groups.
 
 There were no clinically significant differences in the percent decrease in serum uric acid concentration in healthy subjects irrespective of their renal function (58% in the normal renal function group and 55% in the severe renal dysfunction group).
 
@@ -353,7 +351,7 @@ An analysis in patients with gout and renal impairment was prospectively defined
 
 Primary endpoint in the sub group of patients with sUA ≥ 10 mg/dL Approximately 40% of patients (combined APEX and FACT) had a baseline sUA of ≥ 10 mg/dL. In this subgroup febuxostat achieved the primary efficacy endpoint (sUA &lt; 6.0 mg/dL at the last 3 visits) in 41% (80 mg QD), 48% (120 mg QD), and 66% (240 mg QD) of patients compared to 9% in the allopurinol 300 mg/100 mg QD and 0% in the placebo groups.
 
-In the CONFIRMS study, the proportion of patients achieving the primary efficacy endpoint (sUA &lt;6.0 mg/dL at the final visit) for patients with a baseline serum urate level of ≥ 10 mg/dL treated with febuxostat 40 mg QD was 27% (66/249), with febuxostat 80 mg QD 49% (125/254) and with allopurinol 300 mg/200 mg QD 31% (72/230), respectively.
+In the CONFIRMS study, the proportion of patients achieving the primary efficacy endpoint (sUA &lt;6.0 mg /dL at the final visit) for patients with a baseline serum urate level of ≥ 10 mg/dL treated with febuxostat 40 mg QD was 27% (66/249), with febuxostat 80 mg QD 49% (125/254) and with allopurinol 300 mg/200 mg QD 31% (72/230), respectively.
 
 Clinical Outcomes: proportion of patients requiring treatment for a gout flare APEX study: During the 8-week prophylaxis period, a greater proportion of subjects in the febuxostat 120 mg (36%) treatment group required treatment for gout flare compared to febuxostat 80 mg (28%), allopurinol 300 mg (23%) and placebo (20%). Flares increased following the prophylaxis period and gradually decreased over time. Between 46% and 55% of subjects received treatment for gout flares from Week 8 and Week 28. Gout flares during the last 4 weeks of the study (Weeks 24-28) were observed in 15% (febuxostat 80, 120 mg), 14% (allopurinol 300 mg) and 20% (placebo) of subjects.
 
@@ -397,13 +395,11 @@ In total, 6,190 patients were followed for a median of 32 months and the median 
 
 The primary MACE endpoint occurred at similar rates in the febuxostat and allopurinol treatment groups (10.8% vs. 10.4% of patients, respectively; hazard ratio [HR] 1.03; two-sided repeated 95% confidence interval [CI] 0.89-1.21).
 
-In the analysis of the individual components of MACE, the rate of CV deaths was higher with febuxostat than allopurinol (4.3% vs. 3.2% of patients; HR 1.34; 95% CI 1.03-1.73). The rates of the other MACE events were similar in the febuxostat and allopurinol groups, i.e. non-fatal MI (3.6% vs. 3.8% of patients; HR 0.93; 95% CI 0.72-1.21), non-fatal stroke (2.3% vs. 2.3% of patients; HR 1.01; 95% CI 0.73-1.41) and urgent revascularization due to unstable angina (1.6% vs. 1.8% of patients; HR 0.86; 95% CI 0.59-1.26).  The rate of all-cause mortality was also higher with febuxostat than allopurinol (7.8% vs. 6.4% of patients; HR 1.22; 95% CI 1.011.47), which was mainly driven by the higher rate of CV deaths in that group (see section 4.4). Rates of adjudicated hospitalization for heart failure, hospital admissions for arrhythmias not associated with ischemia, venous thromboembolic events and hospitalization for transient
+In the analysis of the individual components of MACE, the rate of CV deaths was higher with febuxostat than allopurinol (4.3% vs. 3.2% of patients; HR 1.34; 95% CI 1.03-1.73). The rates of the other MACE events were similar in the febuxostat and allopurinol groups, i.e. non-fatal MI (3.6% vs. 3.8% of patients; HR 0.93; 95% CI 0.72-1.21), non-fatal stroke (2.3% vs. 2.3% of patients; HR 1.01; 95% CI 0.73-1.41) and urgent revascularization due to unstable angina (1.6% vs. 1.8% of patients; HR 0.86; 95% CI 0.59-1.26).  The rate of all-cause mortality was also higher with febuxostat than allopurinol (7.8% vs. 6.4% of patients; HR 1.22; 95% CI 1.011.47), which was mainly driven by the higher rate of CV deaths in that group (see section 4.4). Rates of adjudicated hospitalization for heart failure, hospital admissions for arrhythmias not associated with ischemia, venous thromboembolic events and hospitalization for transient ischemic attacks were comparable for febuxostat and allopurinol.
 
 <div style=\"page-break-after: always\"></div>
 
-ischemic attacks were comparable for febuxostat and allopurinol.
-
-FAST study was a prospective, randomised, open-label, blinded-endpoint study comparing the CV safety profile of febuxostat versus allopurinol in patients with chronic hyperuricaemia (in conditions where urate deposition had already occurred) and CV risk factors (i.e. patients 60 years or older and with at least one other CV risk factor). Eligible patients received allopurinol treatment prior to randomization, and dose adjustments were required when needed, according to clinical judgement, EULAR recommendations and the approved posology. At the end of the allopurinol lead-in phase, patients with a sUA level of &lt;0.36 mmol/L (&lt;6 mg/dL) or receiving the maximum tolerated dose or the maximum licensed dose of allopurinol were randomised in a 1:1 ratio to receive either febuxostat or allopurinol treatment. The primary endpoint of the study FAST was the time to the first occurrence of any event included in the Antiplatelet Trialists' Collaborative (APTC) composite endpoint, which included: i) hospitalisation for nonfatal MI/biomarker positive acute coronary syndrome (ACS); ii) non-fatal stroke; iii) death due to a CV event. The primary analysis was based on the on-treatment (OT) approach.
+FAST study was a prospective, randomised, open-label, blinded-endpoint study comparing the CV safety profile of febuxostat versus allopurinol in patients with chronic hyperuricaemia (in conditions where urate deposition had already occurred) and CV risk factors (i.e. patients 60 years or older and with at least one other CV risk factor). Eligible patients received allopurinol treatment prior to randomization, and dose adjustments were required when needed, according to clinical judgement, EULAR recommendations and the approved posology. At the end of the allopurinol lead-in phase, patients with a sUA level of &lt;0.36 mmol/L (&lt;6 mg/dL) or receiving the maximum tolerated dose or the maximum licensed dose of allopurinol were randomised in a 1:1 ratio to receive either febuxostat or allopurinol treatment. The primary endpoint of the study FAST was the time to the first occurrence of any event included in the Antiplatelet Trialists' Collaborative (APTC) composite endpoint, which included: i) hospitalisation for non -fatal MI/biomarker positive acute coronary syndrome (ACS); ii) non-fatal stroke; iii) death due to a CV event. The primary analysis was based on the on-treatment (OT) approach.
 
 Overall, 6,128 patients were randomized, 3063 to febuxostat and 3065 to allopurinol.
 
@@ -451,11 +447,9 @@ Following multiple doses of 80 mg of febuxostat in patients with mild (Child-Pug
 
 ## Age
 
-There were no significant changes observed in AUC of febuxostat or its metabolites following
+There were no significant changes observed in AUC of febuxostat or its metabolites following multiple oral doses of febuxostat in elderly as compared to younger healthy subjects.
 
 <div style=\"page-break-after: always\"></div>
-
-multiple oral doses of febuxostat in elderly as compared to younger healthy subjects.
 
 ## Gender
 
@@ -483,11 +477,9 @@ There was no evidence of impaired fertility, teratogenic effects, or harm to the
 
 ## Tablet core
 
-Lactose Microcrystalline cellulose Magnesium stearate Hydroxypropylcellulose Croscarmellose sodium Colloidal hydrated silica Colloidal anhydrous silica Crospovidone
+Lactose Microcrystalline cellulose Magnesium stearate Hydroxypropylcellulose Croscarmellose sodium Colloidal hydrated silica Colloidal anhydrous silica Crospovidone Talc
 
 <div style=\"page-break-after: always\"></div>
-
-Talc
 
 ## Tablet coating
 
@@ -499,7 +491,9 @@ Not applicable.
 
 ## 6.3 Shelf life
 
-2 years. For bottles: After first opening use within 180 days
+2 years.
+
+For bottles: After first opening use within 180 days
 
 ## 6.4 Special precautions for storage
 
@@ -639,11 +633,9 @@ In patients with pre-existing major cardiovascular diseases (e.g. myocardial inf
 
 However, in a subsequent post registrational study (FAST), febuxostat was not inferior to allopurinol in the incidence of both fatal and non-fatal cardiovascular events.
 
-Treatment of this patient group should be exercised cautiously and they should be monitored
+Treatment of this patient group should be exercised cautiously and they should be monitored regularly.
 
 <div style=\"page-break-after: always\"></div>
-
-regularly.
 
 For further details on cardiovascular safety of febuxostat refer to section 4.8 and section 5.1.
 
@@ -669,11 +661,9 @@ In patients in whom the rate of urate formation is greatly increased (e.g. malig
 
 ## Mercaptopurine/azathioprine
 
-Febuxostat use is not recommended in patients concomitantly treated with mercaptopurine/azathioprine as inhibition of xanthine oxidase by febuxostat may cause increased plasma concentrations of mercaptopurine/azathioprine that could result in severe toxicity. Where the combination cannot be avoided, a reduction of the dose of mercaptopurine/azathioprine to the 20% or less of the previously prescribed dose is
+Febuxostat use is not recommended in patients concomitantly treated with mercaptopurine/azathioprine as inhibition of xanthine oxidase by febuxostat may cause increased plasma concentrations of mercaptopurine/azathioprine that could result in severe toxicity. Where the combination cannot be avoided, a reduction of the dose of mercaptopurine/azathioprine to the 20% or less of the previously prescribed dose is recommended in order to avoid possible haematological effects (see sections 4.5 and 5.3).
 
 <div style=\"page-break-after: always\"></div>
-
-recommended in order to avoid possible haematological effects (see sections 4.5 and 5.3).
 
 The patients should be closely monitored and the dose of mercaptopurine/azathioprine should be subsequently adjusted based on the evaluation of the therapeutic response and the onset of eventual toxic effects.
 
@@ -699,7 +689,7 @@ Increased TSH values (&gt;5.5 µIU/mL) were observed in patients on long-term tr
 
 Febuxostat Viatris tablets contain lactose. Patients with rare hereditary problems of galactose intolerance, total lactase deficiency or glucose-galactose malabsorption should not take this medicine.
 
-Febuxostat Viatris tablets contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially 'sodium-free'.
+Febuxostat Viatris tablets contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially 'sodium -free'.
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
@@ -775,11 +765,9 @@ Somnolence, dizziness, paraesthesia and blurred vision have been reported with t
 
 ## Summary of the safety profile
 
-The most commonly reported adverse reactions in clinical trials (4,072 subjects treated at least with a dose from 10 mg to 300 mg), post-authorisation safety studies (FAST study: 3001 subjects treated at least with a dose from 80 mg to 120 mg) and post-marketing experience in
+The most commonly reported adverse reactions in clinical trials (4,072 subjects treated at least with a dose from 10 mg to 300 mg), post-authorisation safety studies (FAST study: 3001 subjects treated at least with a dose from 80 mg to 120 mg) and post-marketing experience in gout patients are gout flares, liver function abnormalities, diarrhoea, nausea, headache, dizziness, dysponea, rash, pruritus, arthralgia, myalgia, pain in extremity, oedema and fatigue. These adverse reactions were mostly mild or moderate in severity. Rare serious hypersensitivity reactions to febuxostat, some of which were associated to systemic symptoms and rare events of sudden cardiac death, have occurred in the post-marketing experience.
 
 <div style=\"page-break-after: always\"></div>
-
-gout patients are gout flares, liver function abnormalities, diarrhoea, nausea, headache, dizziness, dysponea, rash, pruritus, arthralgia, myalgia, pain in extremity, oedema and fatigue. These adverse reactions were mostly mild or moderate in severity. Rare serious hypersensitivity reactions to febuxostat, some of which were associated to systemic symptoms and rare events of sudden cardiac death, have occurred in the post-marketing experience.
 
 ## Tabulated list of adverse reactions
 
@@ -874,7 +862,7 @@ The efficacy of febuxostat was demonstrated in three Phase 3 pivotal studies (th
 
 <div style=\"page-break-after: always\"></div>
 
-APEX Study : The Allopurinol and Placebo-Controlled Efficacy Study of Febuxostat (APEX) was a Phase 3, randomized, double-blind, multicenter, 28-week study. One thousand and seventy-two (1072) patients were randomized: placebo (n=134), febuxostat 80 mg QD (n=267), febuxostat 120 mg QD (n=269), febuxostat 240 mg QD (n=134) or allopurinol (300 mg QD [n=258] for patients with a baseline serum creatinine ≤1.5 mg/dL or 100 mg QD [n=10] for patients with a baseline serum creatinine &gt;1.5 mg/dL and ≤2.0 mg/dL). Two hundred and forty mg febuxostat (2 times the recommended highest dose) was used as a safety evaluation dose.
+APEX Study : The Allopurinol and Placebo-Controlled Efficacy Study of Febuxostat (APEX) was a Phase 3, randomized, double-blind, multicenter, 28-week study. One thousand and seventy-two (1072) patients were randomized: placebo (n=134), febuxostat 80 mg QD (n=267), febuxostat 120 mg QD (n=269), febuxostat 240 mg QD (n=134) or allopurinol (300 mg QD [n=258] for patients with a baseline serum creatinine ≤1.5 mg/dL or 100 mg QD [n=10] for patients with a baseline serum creatinine &gt;1.5 mg /dL and ≤2.0 mg/dL). Two hundred and forty mg febuxostat (2 times the recommended highest dose) was used as a safety evaluation dose.
 
 The APEX study showed statistically significant superiority of both the febuxostat 80 mg QD and the febuxostat 120 mg QD treatment arms versus the conventionally used doses of allopurinol 300 mg (n=258) /100 mg (n = 10) treatment arm in reducing the sUA below 6 mg/dL (357 µmol/L) (see Table 2 and Figure 1).
 
@@ -886,12 +874,12 @@ Table 2 summarises the primary efficacy endpoint results:
 
 Table 2 Proportion of Patients with Serum Uric Acid Levels &lt;6.0 mg/dL (357 µmol/L) Last Three Monthly Visits
 
-| Study                                                                                                                                                                                                        | Febuxostat 80 mg QD                                                                                                                                                                                          | Febuxostat 120 mg QD                                                                                                                                                                                         | Allopurinol 300 / 100 mg QD 1                                                                                                                                                                                |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| APEX (28 weeks)                                                                                                                                                                                              | 48%* (n=262)                                                                                                                                                                                                 | 65%* , # (n=269)                                                                                                                                                                                             | 22% (n=268)                                                                                                                                                                                                  |
-| FACT (52 weeks)                                                                                                                                                                                              | 53%* (n=255)                                                                                                                                                                                                 | 62%* (n=250)                                                                                                                                                                                                 | 21% (n=251)                                                                                                                                                                                                  |
-| Combined Results                                                                                                                                                                                             | 51%* (n=517)                                                                                                                                                                                                 | 63%* , # (n=519)                                                                                                                                                                                             | 22% (n=519)                                                                                                                                                                                                  |
-| 1 results from subjects receiving either 100 mg QD (n=10: patients with serum creatinine >1.5 and ≤2.0 mg/dL) or 300 mg QD(n=509) were pooled for analyses. * p < 0.001 vs allopurinol, # p < 0.001 vs 80 mg | 1 results from subjects receiving either 100 mg QD (n=10: patients with serum creatinine >1.5 and ≤2.0 mg/dL) or 300 mg QD(n=509) were pooled for analyses. * p < 0.001 vs allopurinol, # p < 0.001 vs 80 mg | 1 results from subjects receiving either 100 mg QD (n=10: patients with serum creatinine >1.5 and ≤2.0 mg/dL) or 300 mg QD(n=509) were pooled for analyses. * p < 0.001 vs allopurinol, # p < 0.001 vs 80 mg | 1 results from subjects receiving either 100 mg QD (n=10: patients with serum creatinine >1.5 and ≤2.0 mg/dL) or 300 mg QD(n=509) were pooled for analyses. * p < 0.001 vs allopurinol, # p < 0.001 vs 80 mg |
+| Study                                                                                                                                                       | Febuxostat 80 mg QD                                                                                                                                         | Febuxostat 120 mg QD                                                                                                                                        | Allopurinol 300 / 100 mg QD 1                                                                                                                               |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| APEX (28 weeks)                                                                                                                                             | 48%* (n=262)                                                                                                                                                | 65%* , # (n=269)                                                                                                                                            | 22% (n=268)                                                                                                                                                 |
+| FACT (52 weeks)                                                                                                                                             | 53%* (n=255)                                                                                                                                                | 62%* (n=250)                                                                                                                                                | 21% (n=251)                                                                                                                                                 |
+| Combined Results                                                                                                                                            | 51%* (n=517)                                                                                                                                                | 63%* , # (n=519)                                                                                                                                            | 22% (n=519)                                                                                                                                                 |
+| 1 results from subjects receiving either 100 mg QD (n=10: patients with serum creatinine >1.5 and ≤2.0 mg/dL) or 300 mg QD(n=509) were pooled for analyses. | 1 results from subjects receiving either 100 mg QD (n=10: patients with serum creatinine >1.5 and ≤2.0 mg/dL) or 300 mg QD(n=509) were pooled for analyses. | 1 results from subjects receiving either 100 mg QD (n=10: patients with serum creatinine >1.5 and ≤2.0 mg/dL) or 300 mg QD(n=509) were pooled for analyses. | 1 results from subjects receiving either 100 mg QD (n=10: patients with serum creatinine >1.5 and ≤2.0 mg/dL) or 300 mg QD(n=509) were pooled for analyses. |
 
 The ability of febuxostat to lower serum uric acid levels was prompt and persistent. Reduction in serum uric acid level to &lt;6.0 mg/dL (357 µmol/L) was noted by the Week 2 visit and was maintained throughout treatment. The mean serum uric acid levels over time for each treatment group from the two pivotal Phase 3 studies are shown in Figure 1.
 
@@ -901,7 +889,7 @@ Figure 1 Mean Serum Uric Acid Levels in Combined Pivotal Phase 3 Studies
 
 <!-- image -->
 
-Note: 509 patients received allopurinol 300 mg QD; 10 patients with serum creatinine &gt;1.5 and ≤2.0 mg/dL were dosed with 100 mg QD. (10 patients out of 268 in APEX study). 240 mg febuxostat was used to evaluate the safety of febuxostat at twice the recommended highest dose.
+Note: 509 patients received allopurinol 300 mg QD; 10 patients with serum creatinine &gt;1.5 and ≤ 2.0 mg/dL were dosed with 100 mg QD. (10 patients out of 268 in APEX study). 240 mg febuxostat was used to evaluate the safety of febuxostat at twice the recommended highest dose.
 
 CONFIRMS Study: The CONFIRMS study was a Phase 3, randomized, controlled, 26-week study to evaluate the safety and efficacy of febuxostat 40 mg and 80 mg, in comparison with allopurinol 300 mg or 200 mg, in patients with gout and hyperuricaemia. Two thousand and two hundred-sixty nine (2269) patients were randomized: febuxostat 40 mg QD (n=757), febuxostat 80 mg QD (n=756), or allopurinol 300/200 mg QD (n=756). At least 65% of the patients had mild-moderate renal impairment (with creatinine clearance of 30-89 mL/min). Prophylaxis against gout flares was obligatory over the 26-week period.
 
@@ -909,7 +897,7 @@ The proportion of patients with serum urate levels of &lt; 6.0 mg/dL (357 µmol/
 
 ## Primary endpoint in the sub-group of patients with renal impairment
 
-The APEX Study evaluated efficacy in 40 patients with renal impairment (i.e., baseline serum creatinine &gt; 1.5 mg/dL and ≤2.0 mg/dL). For renally impaired subjects who were randomized to allopurinol, the dose was capped at 100 mg QD. Febuxostat achieved the primary efficacy endpoint in 44% (80 mg QD), 45% (120 mg QD), and 60% (240 mg QD) of patients compared to 0% in the allopurinol 100 mg QD and placebo groups.
+The APEX Study evaluated efficacy in 40 patients with renal impairment (i.e., baseline serum creatinine &gt; 1.5 mg /dL and ≤2.0 mg/dL). For renally impaired subjects who were randomized to allopurinol, the dose was capped at 100 mg QD. Febuxostat achieved the primary efficacy endpoint in 44% (80 mg QD), 45% (120 mg QD), and 60% (240 mg QD) of patients compared to 0% in the allopurinol 100 mg QD and placebo groups.
 
 There were no clinically significant differences in the percent decrease in serum uric acid concentration in healthy subjects irrespective of their renal function (58% in the normal renal function group and 55% in the severe renal dysfunction group).
 
@@ -919,7 +907,7 @@ An analysis in patients with gout and renal impairment was prospectively defined
 
 Primary endpoint in the sub group of patients with sUA ≥ 10 mg/dL Approximately 40% of patients (combined APEX and FACT) had a baseline sUA of ≥ 10 mg/dL. In this subgroup febuxostat achieved the primary efficacy endpoint (sUA &lt; 6.0 mg/dL at the last 3 visits) in 41% (80 mg QD), 48% (120 mg QD), and 66% (240 mg QD) of patients compared to 9% in the allopurinol 300 mg/100 mg QD and 0% in the placebo groups.
 
-In the CONFIRMS study, the proportion of patients achieving the primary efficacy endpoint (sUA &lt;6.0 mg/dL at the final visit) for patients with a baseline serum urate level of ≥ 10 mg/dL treated with febuxostat 40 mg QD was 27% (66/249), with febuxostat 80 mg QD 49% (125/254) and with allopurinol 300 mg/200 mg QD 31% (72/230), respectively.
+In the CONFIRMS study, the proportion of patients achieving the primary efficacy endpoint (sUA &lt;6.0 mg /dL at the final visit) for patients with a baseline serum urate level of ≥ 10 mg/dL treated with febuxostat 40 mg QD was 27% (66/249), with febuxostat 80 mg QD 49% (125/254) and with allopurinol 300 mg/200 mg QD 31% (72/230), respectively.
 
 Clinical Outcomes: proportion of patients requiring treatment for a gout flare Apex study: During the 8-week prophylaxis period, a greater proportion of subjects in the febuxostat 120 mg (36%) treatment group required treatment for gout flare compared to febuxostat 80 mg (28%), allopurinol 300 mg (23%) and placebo (20%). Flares increased following the prophylaxis period and gradually decreased over time. Between 46% and 55% of subjects received treatment for gout flares from Week 8 and Week 28. Gout flares during the last 4 weeks of the study (Weeks 24-28) were observed in 15% (febuxostat 80, 120 mg), 14% (allopurinol 300 mg) and 20% (placebo) of subjects.
 
@@ -979,11 +967,9 @@ The efficacy and safety of febuxostat in the prevention and treatment of Tumor L
 
 FLORENCE was a randomized (1:1), double blind, phase III, pivotal trial comparing febuxostat 120 mg once daily with allopurinol 200 to 600 mg daily (mean allopurinol daily dose [± standard deviation]: 349.7 ± 112.90 mg) in terms of control of serum uric acid level. Eligible patients had to be candidates for allopurinol treatment or have no access to rasburicase. Primary endpoints were serum uric acid area under the curve (AUC sUA1-8) and change in serum creatinine (sC) level both from baseline to Day 8.
 
-Overall, 346 patients with haematological malignancies undergoing chemotherapy and at intermediate/high risk of Tumor Lysis Syndrome were included. Mean AUC sUA1-8 (mgxh/dl) was significantly lower with febuxostat (514.0 ± 225.71 vs 708.0 ± 234.42; least square means difference: -196.794 [95% confidence interval: -238.600 ; -154.988]; p &lt; .0001). Furthermore, the mean serum uric acid level was significantly lower with febuxostat since the first 24 hours of treatment and at any following time point. No significant difference in mean serum creatinine change (%) occurred between febuxostat and allopurinol (-0.83 ± 26.98 vs -4.92 ± 16.70 respectively; least square means difference: 4.0970 [95% confidence interval: -0.6467 ; 8.8406]; p=0.0903). With regard to secondary endpoints, no significant difference was detected in terms of incidence of laboratory TLS (8.1% and 9.2% in febuxostat and allopurinol arm, respectively; relative risk: 0.875 [95% confidence interval: 0.4408 ; 1.7369]; p=0.8488) nor of
+Overall, 346 patients with haematological malignancies undergoing chemotherapy and at intermediate/high risk of Tumor Lysis Syndrome were included. Mean AUC sUA1-8 (mgxh/dl) was significantly lower with febuxostat (514.0 ± 225.71 vs 708.0 ± 234.42; least square means difference: -196.794 [95% confidence interval: -238.600 ; -154.988]; p &lt; .0001). Furthermore, the mean serum uric acid level was significantly lower with febuxostat since the first 24 hours of treatment and at any following time point. No significant difference in mean serum creatinine change (%) occurred between febuxostat and allopurinol (-0.83 ± 26.98 vs -4.92 ± 16.70 respectively; least square means difference: 4.0970 [95% confidence interval: -0.6467 ; 8.8406]; p=0.0903). With regard to secondary endpoints, no significant difference was detected in terms of incidence of laboratory TLS (8.1% and 9.2% in febuxostat and allopurinol arm, respectively; relative risk: 0.875 [95% confidence interval: 0.4408 ; 1.7369]; p=0.8488) nor of clinical TLS (1.7% and 1.2% in febuxostat and allopurinol arm, respectively; relative risk: 0.994 [95% confidence interval: 0.9691 ; 1.0199]; p=1.0000).  Incidence of overall treatmentemergent signs and symptoms and adverse drug reactions was 67.6% vs 64.7% and 6.4% vs 6.4% with febuxostat and allopurinol respectively. In the FLORENCE study febuxostat demonstrated a superior control of serum uric acid level compared to allopurinol in patients scheduled to receive the latter drug. No data comparing febuxostat with rasburicase are currently available. The efficacy and safety of febuxostat has not been established in patients with acute severe TLS, e.g. in patients who failed on other urate lowering therapies.
 
 <div style=\"page-break-after: always\"></div>
-
-clinical TLS (1.7% and 1.2% in febuxostat and allopurinol arm, respectively; relative risk: 0.994 [95% confidence interval: 0.9691 ; 1.0199]; p=1.0000).  Incidence of overall treatmentemergent signs and symptoms and adverse drug reactions was 67.6% vs 64.7% and 6.4% vs 6.4% with febuxostat and allopurinol respectively. In the FLORENCE study febuxostat demonstrated a superior control of serum uric acid level compared to allopurinol in patients scheduled to receive the latter drug. No data comparing febuxostat with rasburicase are currently available. The efficacy and safety of febuxostat has not been established in patients with acute severe TLS, e.g. in patients who failed on other urate lowering therapies.
 
 ## 5.2 Pharmacokinetic properties
 
@@ -1103,11 +1089,7 @@ Date of latest renewal: 16 February 2022
 
 ## 10. DATE OF REVISION OF THE TEXT
 
-Detailed information on this medicinal product is available on the website of the European
-
-<div style=\"page-break-after: always\"></div>
-
-## Medicines Agency http://www.ema.europa.eu
+Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1129,7 +1111,7 @@ Name and address of the manufacturers responsible for batch release
 
 Mylan Hungary Kft Mylan utca 1 H-2900 Komárom Hungary
 
-Mylan Germany GmbH Zweigniederlassung Bad Homburg v. d. Hoehe, Benzstrasse 1 Bad Homburg v. d. Hoehe Hessen, 61352, Germany
+Viatris Germany GmbH Zweigniederlassung Bad Homburg v. d. Hoehe, Benzstrasse 1 Bad Homburg v. d. Hoehe Hessen, 61352, Germany
 
 The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.
 
@@ -1235,8 +1217,8 @@ Open date: \\_\\_\\_\\_
 | 9.   | SPECIAL STORAGE CONDITIONS   |
 |------|------------------------------|
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL   |
+|-------|----------------------------------------------------------------------------------------------------------------|
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -1244,7 +1226,8 @@ Viatris Limited Damastown Industrial Park, Mulhuddart, Dublin 15, DUBLIN
 
 Ireland
 
-## 12. MARKETING AUTHORISATION NUMBER(S)
+| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
+|-------|-------------------------------------|
 
 ```
 EU/1/17/1194/001 EU/1/17/1194/002 EU/1/17/1194/003 EU/1/17/1194/004 EU/1/17/1194/005 EU/1/17/1194/006 EU/1/17/1194/007 EU/1/17/1194/008 EU/1/17/1194/017 EU/1/17/1194/018 EU/1/17/1194/019 EU/1/17/1194/020 EU/1/17/1194/021 EU/1/17/1194/029 EU/1/17/1194/030
@@ -1283,7 +1266,9 @@ OUTER CARTON OF MULTIPACK (WITH BLUE BOX)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Febuxostat Viatris 80 mg film-coated tablets febuxostat
+Febuxostat Viatris 80 mg film-coated tablets
+
+febuxostat
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE
 
@@ -1363,7 +1348,9 @@ INNER CARTON OF MULTIPACK (WITHOUT BLUE BOX)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Febuxostat Viatris 80 mg film-coated tablets febuxostat
+Febuxostat Viatris 80 mg film-coated tablets
+
+febuxostat
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE
 
@@ -1440,7 +1427,9 @@ Febuxostat Viatris 80 mg
 | 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
 |-------|-------------------------------------------|
 
-PC {number} SN {number}
+PC {number}
+
+SN {number}
 
 NN {number}
 
@@ -1528,19 +1517,19 @@ Lot
 | 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
 |-------|-------------------------------------------|
 
+52
+
 <div style=\"page-break-after: always\"></div>
 
 | MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
 |-------------------------------------------------------|
 | BLISTERS                                              |
 
-| 1.   | NAME OF THE MEDICINAL PRODUCT   |
-|------|---------------------------------|
+## 1. NAME OF THE MEDICINAL PRODUCT
 
 Febuxostat Viatris 80 mg film-coated tablets febuxostat
 
-| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
-|------|----------------------------------------------|
+## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
 
 Viatris Limited
 
@@ -1548,8 +1537,7 @@ Viatris Limited
 
 EXP
 
-| 4.   | BATCH NUMBER   |
-|------|----------------|
+## 4. BATCH NUMBER
 
 Lot
 
@@ -1607,9 +1595,8 @@ See leaflet for further information.
 
 ## [Bottles]
 
-28 film-coated tablets (tablets)
-
-84 film-coated tablets (tablets)
+- 28 film-coated tablets (tablets)
+- 84 film-coated tablets (tablets)
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -1634,7 +1621,7 @@ Do not swallow the desiccant.
 
 EXP
 
-## [For bottles only]
+[For bottles only]
 
 After first opening use within 180 days.
 
@@ -1657,7 +1644,7 @@ EU/1/17/1194/009 EU/1/17/1194/010 EU/1/17/1194/011 EU/1/17/1194/012 EU/1/17/1194
 
 ## 13. BATCH NUMBER
 
-Lot
+Lot Febuxostat Viatris 120 mg
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1670,8 +1657,6 @@ Lot
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
 
-Febuxostat Viatris 120 mg
-
 | 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
 |-------|----------------------------------|
 
@@ -1682,8 +1667,6 @@ Febuxostat Viatris 120 mg
 
 PC {number} SN {number} NN {number}
 
-56
-
 <div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
@@ -1692,7 +1675,9 @@ OUTER CARTON OF MULTIPACK (WITH BLUE BOX)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Febuxostat Viatris 120 mg film-coated tablets febuxostat
+Febuxostat Viatris 120 mg film-coated tablets
+
+febuxostat
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE
 
@@ -1745,6 +1730,7 @@ EU/1/17/1194/028
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
+
 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
@@ -1771,7 +1757,9 @@ INNER CARTON OF MULTIPACK (WITHOUT BLUE BOX)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Febuxostat Viatris 120 mg film-coated tablets febuxostat
+Febuxostat Viatris 120 mg film-coated tablets
+
+febuxostat
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE
 
@@ -1819,8 +1807,7 @@ Viatris Limited Damastown Industrial Park, Mulhuddart, Dublin 15, DUBLIN
 
 Ireland
 
-| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
-|-------|-------------------------------------|
+## 12. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/17/1194/028
 
@@ -1920,7 +1907,7 @@ EU/1/17/1194/015 EU/1/17/1194/016
 | 13.   | BATCH NUMBER   |
 |-------|----------------|
 
-Lot
+Lot Febuxostat Viatris 120 mg film-coated tablets febuxostat Viatris Limited EXP
 
 | 14. GENERAL CLASSIFICATION FOR SUPPLY   |
 |-----------------------------------------|
@@ -1946,25 +1933,18 @@ Lot
 | 1.   | NAME OF THE MEDICINAL PRODUCT   |
 |------|---------------------------------|
 
-Febuxostat Viatris 120 mg film-coated tablets febuxostat
-
 | 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
 |------|----------------------------------------------|
 
-Viatris Limited
-
 | 3.   | EXPIRY DATE   |
 |------|---------------|
-
-EXP
 
 | 4.   | BATCH NUMBER   |
 |------|----------------|
 
 Lot
 
-| 5.   | OTHER   |
-|------|---------|
+## 5. OTHER
 
 [ For calendar blisters only]:
 
@@ -2016,7 +1996,9 @@ Febuxostat Viatris tablets contain the active substance febuxostat and are used 
 
 Febuxostat Viatris works by reducing uric acid levels. Keeping uric acid levels low by taking Febuxostat Viatris once every day stops crystals building up, and over time it reduces symptoms. Keeping uric acid levels sufficiently low for a long enough period can also shrink tophi.
 
-Febuxostat Viatris 120 mg tablets are also used to treat and prevent high blood levels of uric acid that may occur when you start to receive chemotherapy for blood cancers. When chemotherapy is given, cancer cells are destroyed, and uric acid levels increase in the blood accordingly, unless the formation of uric acid is prevented.
+Febuxostat Viatris 120 mg tablets are also used to treat and prevent high blood levels of uric
+
+acid that may occur when you start to receive chemotherapy for blood cancers. When chemotherapy is given, cancer cells are destroyed, and uric acid levels increase in the blood accordingly, unless the formation of uric acid is prevented.
 
 Febuxostat Viatris is for adults.
 
@@ -2092,7 +2074,7 @@ Febuxostat Viatris tablets contain lactose (a type of sugar). If you have been t
 
 ## Febuxostat Viatris contains sodium
 
-Febuxostat Viatris contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially 'sodium-free'.
+Febuxostat Viatris contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially 'sodium -free' .
 
 ## 3. How to take Febuxostat Viatris
 
@@ -2109,11 +2091,9 @@ Continue to take Febuxostat Viatris every day even when you are not experiencing
 
 Prevention and treatment of high uric acid levels in patients undergoing cancer chemotherapy Febuxostat Viatris is available as a 120 mg tablet.
 
-Start taking Febuxostat Viatris two days before chemotherapy and continue its use according to
+Start taking Febuxostat Viatris two days before chemotherapy and continue its use according to your doctor's advice. Usually treatment is short -term.
 
 <div style=\"page-break-after: always\"></div>
-
-your doctor's advice. Usually treatment is short-term.
 
 ## If you take more Febuxostat Viatris than you should
 
@@ -2233,11 +2213,9 @@ If you get any side effects, talk to your doctor or pharmacist. This includes an
 
 Keep this medicine out of the sight and reach of children. Do not use this medicine after the expiry date which is stated on the packaging after 'EXP.' The expiry date refers to the last day of that month. For bottles, after first opening use within 180 days This medicine does not require any special storage conditions.
 
-Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the
+Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
 
 <div style=\"page-break-after: always\"></div>
-
-environment.
 
 ## 6. Contents of the pack and other information
 
@@ -2245,9 +2223,9 @@ environment.
 
 The active substance is febuxostat. Each tablet contains 80 mg or 120 mg of febuxostat.
 
-The other ingredients are:
+## The other ingredients are:
 
-Tablet core : lactose (see section 2, 'Febuxostat Viatris contains lactose'), microcrystalline cellulose, magnesium stearate, hydroxypropylcellulose, croscarmellose sodium, colloidal hydrated silica, colloidal anhydrous silica, crospovidone and talc.
+Tablet core : lactose (see section 2, 'Febuxostat Viatris contains lactose') , microcrystalline cellulose, magnesium stearate, hydroxypropylcellulose, croscarmellose sodium, colloidal hydrated silica, colloidal anhydrous silica, crospovidone and talc.
 
 Film-coating: hypromellose, titanium dioxide (E171), ethylcellulose, iron oxide yellow (E172), triacetin and iron oxide black (E172).
 
@@ -2269,7 +2247,7 @@ Viatris Limited Damastown Industrial Park, Mulhuddart, Dublin 15, DUBLIN Ireland
 
 Mylan Hungary Kft Mylan utca 1 H-2900 Komárom Hungary
 
-Mylan Germany GmbH Zweigniederlassung Bad Homburg v. d. Hoehe, Benzstrasse 1 Bad Homburg v. d. Hoehe Hessen, 61352, Germany
+Viatris Germany GmbH Zweigniederlassung Bad Homburg v. d. Hoehe, Benzstrasse 1 Bad Homburg v. d. Hoehe Hessen, 61352, Germany
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder.
 
@@ -2283,11 +2261,13 @@ Tél/Tel: + 32 (0)2 658 61 00
 
 ## България
 
-Майлан ЕООД Тел: +359 2 44 55 400
+Виатрис ЕООД Тел .: +359 2 44 55 400
 
-## Česká republika
+## Č eská republika
 
-Viatris CZ s.r.o. Tel: +420 222 004 400
+Viatris CZ s.r.o.
+
+Tel: +420 222 004 400
 
 ## Danmark
 
@@ -2335,13 +2315,13 @@ Viatris Italia S.r.l Tel: + 39 (0) 2 612 46921
 
 CPO Pharmaceuticals Limited
 
-Τηλ: +357 22863100
+Τηλ
+
+: +357 22863100
 
 ## Lietuva
 
-Viatris UAB
-
-Tel: +370 5 205 1288
+Viatris UAB Tel: +370 5 205 1288
 
 ## Luxembourg/Luxemburg
 
@@ -2381,15 +2361,21 @@ Tel: + 351 214 127 200
 
 ## România
 
-BGP Products SRL Tel: +40 372 579 000
+BGP Products SRL
+
+Tel: +40 372 579 000
 
 ## Slovenija
 
-Viatris d.o.o. Tel: + 386 1 23 63 180
+Viatris d.o.o.
+
+Tel: + 386 1 23 63 180
 
 ## Slovenská republika
 
-Viatris Slovakia s.r.o. Tel: +421 2 32 199 100
+Viatris Slovakia s.r.o.
+
+Tel: +421 2 32 199 100
 
 ## Suomi/Finland
 
@@ -2401,11 +2387,7 @@ Viatris AB Tel: +46 (0)8 630 19 00
 
 <div style=\"page-break-after: always\"></div>
 
-## Latvija
-
-Viatris SIA
-
-Tel: +371 676 055 80
+Latvija Viatris SIA Tel: +371 676 055 80
 
 ## This leaflet was last revised in
 

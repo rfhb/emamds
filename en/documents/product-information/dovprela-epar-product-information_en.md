@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-02-19 16:47:49
-document_pages: 39
+document_datetime: 2026-05-07 10:59:53
+document_pages: 40
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/dovprela-epar-product-information_en.pdf
 document_name: dovprela-epar-product-information_en.pdf
 version: success
-processing_time: 36.17635
-conversion_datetime: 2026-02-21 13:20:31.72526
+processing_time: 10.76558
+conversion_datetime: 2026-05-10 13:24:01.408086
 docling_version:
-  docling-serve: 1.13.0
-  docling-jobkit: 1.11.0
-  docling: 2.74.0
-  docling-core: 2.65.1
-  docling-ibm-models: 3.11.0
-  docling-parse: 5.3.2
+  docling-serve: 1.17.0
+  docling-jobkit: 1.18.0
+  docling: 2.92.0
+  docling-core: 2.74.1
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.10.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -34,7 +34,7 @@ Dovprela 200 mg tablet
 
 Each tablet contains 200 mg pretomanid.
 
-## Excipients with known effect
+Excipients with known effect
 
 Each tablet contains 294 mg lactose (as monohydrate) and 5 mg sodium.
 
@@ -96,7 +96,7 @@ Refer to the product information of bedaquiline, linezolid and moxifloxacin for 
 
 The total duration of treatment with pretomanid in combination with bedaquiline, linezolid and with or without moxifloxacin is 26 weeks. Pretomanid in combination with bedaquiline and linezolid can be extended to a total of 39 weeks. This extension is justified in cases of failure to convert culture between months 4 and 6 while on treatment and it can be based on the clinical judgement of the treating physician.  (see section 5.1).
 
-## Elderly population (≥ 65 years of age)
+## Elderly population ( ≥ 65 years of age)
 
 There is limited clinical data on the use of pretomanid in elderly patients. Hence, the safety and efficacy of pretomanid in elderly patients have not been established.
 
@@ -175,11 +175,11 @@ An ECG should be obtained before initiation of treatment, and at least monthly d
 
 The following may increase the risk for QT prolongation:
 
-- a history of Torsade de Pointes,
 - a personal or family history of congenital long QT syndrome,
+- a history of Torsade de Pointes,
 - a history of or ongoing hypothyroidism,
-- ongoing bradyarrhythmia,
 - heart failure or known structural heart disease,
+- ongoing bradyarrhythmia,
 - QT-interval as corrected by the Fridericia method (QTcF) &gt; 450 ms (confirmed by repeat electrocardiogram) or
 - serum calcium, magnesium, or potassium levels below the lower limits of normal.
 
@@ -250,12 +250,12 @@ Refer to the Summary of Product Characteristics of bedaquiline, linezolid and mo
 The table below displays ADRs, by system organ class and frequency, which are considered at least possibly related to the treatment regimens BPaL and BPaLM (Bedaquiline, Pretomanid, Linezolid and Moxifloxacin) and have been observed during the following clinical trials:
 
 - Nix-TB: 109 patients treated with pretomanid in combination with bedaquiline and linezolid (1 200 mg daily) for 26 weeks
-- ZeNix: 45 patients treated with pretomanid in combination with bedaquiline and linezolid (1 200 mg daily) for 26 weeks and 45 patients treated with pretomanid in combination with bedaquiline and linezolid (600 mg daily)
 - TB-PRACTECAL: 273 patients treated with pretomanid in combination with bedaquiline, linezolid (600 mg) with or without moxifloxacin (400 mg) for 24 weeks (N=151 patients in BPaLM arm + N=122 patients in BPaL arm)
+- ZeNix: 45 patients treated with pretomanid in combination with bedaquiline and linezolid (1 200 mg daily) for 26 weeks and 45 patients treated with pretomanid in combination with bedaquiline and linezolid (600 mg daily)
 
 The ADR list below reflects in part the safety profile of the study regimens as it is hard to separate causality of one drug from another. An overall population of 472 patients receiving BPaL regimen with or without moxifloxacin has been included.
 
-ADRs considered attributed to linezolid are marked with Δ.
+ADRs considered attributed to linezolid are marked with Δ .
 
 <div style=\"page-break-after: always\"></div>
 
@@ -263,36 +263,36 @@ ADRs attributed to moxifloxacin are marked with §.
 
 Table 1: Adverse Drug Reactions from Clinical Studies
 
-| System Organ Class                              | Very Common ≥1/10                        | Common ≥1/100 to <1/10                                                                                                                                                                              | Uncommon ≥1/1,000 to <1/100                                                                                                  |
-|-------------------------------------------------|------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|
-| Infections and infestations                     |                                          | Vulvovaginal candidiasis§, oral candidiasis*                                                                                                                                                        |                                                                                                                              |
-| Blood and lymphatic system disorders            | Leukopenia* ∆, anaemia* ∆, lymphopenia ∆ | Neutropenia* ∆, eosinophilia, thrombocytopenia* ∆                                                                                                                                                   | Pancytopenia ∆                                                                                                               |
-| Metabolism and nutrition disorders              |                                          | Hyponatraemia Δ, hypernatraemia Δ, hypocalcaemia, hypoalbuminaemia Δ, hyperkalaemia § Δ, hypokalaemia Δ, decreased appetite, hyperglycaemia § Δ, hypoglycaemia, lactic acidosis* ∆, hypomagnesaemia | Dehydration, hypovolaemia,                                                                                                   |
-| Psychiatric disorders                           |                                          | Depression, insomnia                                                                                                                                                                                | Anxiety                                                                                                                      |
-| Nervous system disorders                        | Headache, peripheral neuropathy* ∆,      | Dysgeusia, dizziness, tremor §                                                                                                                                                                      |                                                                                                                              |
-| Eye disorders                                   |                                          | Visual impairment*                                                                                                                                                                                  | Lens disorder, eye pruritis, eye swelling, papilloedema, presbyopia, eye irritation, eye pain*, optic neuropathy*∆, cataract |
-| Ear and labyrinth disorders                     |                                          | Deafness*                                                                                                                                                                                           |                                                                                                                              |
-| Cardiac disorders                               |                                          | Palpitations                                                                                                                                                                                        | Sinus bradycardia, sinus tachycardia                                                                                         |
-| Vascular disorders                              |                                          | Hypertension*                                                                                                                                                                                       | Hypotension                                                                                                                  |
-| Respiratory, thoracic and mediastinal disorders |                                          | Haemoptysis, epistaxis                                                                                                                                                                              | Cough*                                                                                                                       |
-| Gastrointestinal disorders                      | Nausea, vomiting,                        | Gastritis*, diarrhoea, constipation, pancreatitis, abdominal pain*, dyspepsia                                                                                                                       | Gastrooesophageal reflux disease, abdominal distension, glossodynia, haematemesis, eructation                                |
+| System Organ Class                              | Very Common ≥ 1/10                         | Common ≥ 1/100 to <1/10                                                                                                                                                                                    | Uncommon ≥ 1/1,000 to <1/100                                                                                                   |
+|-------------------------------------------------|--------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|
+| Infections and infestations                     |                                            | Vulvovaginal candidiasis§, oral candidiasis*                                                                                                                                                               |                                                                                                                                |
+| Blood and lymphatic system disorders            | Leukopenia* ∆ , anaemia* ∆ , lymphopenia ∆ | Neutropenia* ∆ , eosinophilia, thrombocytopenia* ∆                                                                                                                                                         | Pancytopenia ∆                                                                                                                 |
+| Metabolism and nutrition disorders              |                                            | Hyponatraemia Δ , hypernatraemia Δ , hypocalcaemia, hypoalbuminaemia Δ , hyperkalaemia § Δ , hypokalaemia Δ , decreased appetite, hyperglycaemia § Δ , hypoglycaemia, lactic acidosis* ∆ , hypomagnesaemia | Dehydration, hypovolaemia,                                                                                                     |
+| Psychiatric disorders                           |                                            | Depression, insomnia                                                                                                                                                                                       | Anxiety                                                                                                                        |
+| Nervous system disorders                        | Headache, peripheral neuropathy* ∆ ,       | Dysgeusia, dizziness, tremor §                                                                                                                                                                             |                                                                                                                                |
+| Eye disorders                                   |                                            | Visual impairment*                                                                                                                                                                                         | Lens disorder, eye pruritis, eye swelling, papilloedema, presbyopia, eye irritation, eye pain*, optic neuropathy* ∆ , cataract |
+| Ear and labyrinth disorders                     |                                            | Deafness*                                                                                                                                                                                                  |                                                                                                                                |
+| Cardiac disorders                               |                                            | Palpitations                                                                                                                                                                                               | Sinus bradycardia, sinus tachycardia                                                                                           |
+| Vascular disorders                              |                                            | Hypertension*                                                                                                                                                                                              | Hypotension                                                                                                                    |
+| Respiratory, thoracic and mediastinal disorders |                                            | Haemoptysis, epistaxis                                                                                                                                                                                     | Cough*                                                                                                                         |
+| Gastrointestinal disorders                      | Nausea, vomiting,                          | Gastritis*, diarrhoea, constipation, pancreatitis, abdominal pain*, dyspepsia                                                                                                                              | Gastrooesophageal reflux disease, abdominal distension, glossodynia, haematemesis, eructation                                  |
 
 <div style=\"page-break-after: always\"></div>
 
-| System Organ Class                                   | Very Common ≥1/10              | Common ≥1/100 to <1/10                                                                                                                                                                                          | Uncommon ≥1/1,000 to <1/100                                                                                                          |
-|------------------------------------------------------|--------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|
-| Hepatobiliary disorders                              | Transaminase increased*        | Hyperbilirubinaemia                                                                                                                                                                                             | Hepatomegaly, jaundice                                                                                                               |
-| Immune system disorders                              |                                |                                                                                                                                                                                                                 | Hypersensitivity                                                                                                                     |
-| Skin and subcutaneous tissue disorders               | Rash*                          | Acne*, dry skin, , pruritus*, urticaria                                                                                                                                                                         | Alopecia, dermatitis allergic, erythema, skin hyperpigmentation, angioedema                                                          |
-| Musculoskeletal and connective tissue disorders      | Musculoskeletal pain*          | Muscle spasms*                                                                                                                                                                                                  | Polyarthritis*                                                                                                                       |
-| General disorders and administration site conditions |                                | Chest pain*, fatigue*                                                                                                                                                                                           |                                                                                                                                      |
-| Investigations                                       | Electrocardiogram QT prolonged | Gamma- glutamyltransferase increased, , blood alkaline phosphatase increased, blood urea increased, lipase increased*, amylase increased*, blood creatinine increased § Δ, creatinine renal clearance decreased | Blood creatine phosphokinase increased, albumin urine present, blood creatine phosphokinase MB increased, blood uric acid increased, |
+| System Organ Class                                   | Very Common ≥ 1/10             | Common ≥ 1/100 to <1/10                                                                                                                                                                                          | Uncommon ≥ 1/1,000 to <1/100                                                                                                        |
+|------------------------------------------------------|--------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|
+| Hepatobiliary disorders                              | Transaminase increased*        | Hyperbilirubinaemia                                                                                                                                                                                              | Hepatomegaly, jaundice                                                                                                              |
+| Immune system disorders                              |                                |                                                                                                                                                                                                                  | Hypersensitivity                                                                                                                    |
+| Skin and subcutaneous tissue disorders               | Rash*                          | Acne*, dry skin, , pruritus*, urticaria                                                                                                                                                                          | Alopecia, dermatitis allergic, erythema, skin hyperpigmentation, angioedema                                                         |
+| Musculoskeletal and connective tissue disorders      | Musculoskeletal pain*          | Muscle spasms*                                                                                                                                                                                                   | Polyarthritis*                                                                                                                      |
+| General disorders and administration site conditions |                                | Chest pain*, fatigue*                                                                                                                                                                                            |                                                                                                                                     |
+| Investigations                                       | Electrocardiogram QT prolonged | Gamma- glutamyltransferase increased, , blood alkaline phosphatase increased, blood urea increased, lipase increased*, amylase increased*, blood creatinine increased § Δ , creatinine renal clearance decreased | Blood creatine phosphokinase increased, albumin urine present, blood creatine phosphokinaseMB increased, blood uric acid increased, |
 
 *Selected terms are collapsed as follows: leukopenia ( leukopenia, white blood cell count decreased ); lymphopenia ( lymphopenia, lymphocyte count decreased ); peripheral neuropathy (burning sensation, hypoesthesia, hyporeflexia, neuropathy peripheral, paraesthesia, peripheral motor neuropathy, peripheral sensory neuropathy, polyneuropathy); gastritis (gastritis, chronic gastritis); acne (acne, dermatitis acneiform); musculoskeletal pain (arthralgia, back pain, costochondritis, myalgia, pain in extremity, musculoskeletal pain, muscle strain); transaminases increased (alanine aminotransferase (ALT) increased, aspartate aminotransferase (AST) increased, drug-induced liver injury, hepatic enzyme increased, hepatic function abnormal, liver function test increased, transaminases increased); rash (rash, rash erythematous, rash maculo-papular, rash papular, rash vesicular, rash pustular, nodular rash); pruritus (pruritus, pruritus generalized, rash pruritic); abdominal pain (abdominal pain, abdominal pain lower, abdominal pain upper, abdominal discomfort); visual impairment (vision blurred, visual acuity reduced, visual impairment); amylase increased (amylase increased, hyperamylasaemia); lipase increased (hyperlipasaemia, lipase increased); optic neuropathy (optic neuropathy, optic neuritis); pancreatitis (pancreatitis, haemorrhagic pancreatitis); anaemia (anaemia, haemoglobin decreased); thrombocytopenia (thrombocytopenia, platelet count decreased); neutropenia (neutropenia, neutrophil count decreased); hyperbilirubinemia (hyperbilirubinemia, blood bilirubin increased); lactic acidosis (lactic acidosis, acidosis, blood lactic acid increased, blood lactate increased); muscle spasms (muscle spasms, musculoskeletal stiffness); fatigue (fatigue, asthenia, malaise); oral candidiasis (oral candidiasis, oral fungal infection, angular cheilitis); erythema (erythema, palmar erythema); polyarthritis (polyarthritis, arthropathy); chest pain (chest pain, angina pectoris); pancreatitis (pancreatitis, haemorrhagic pancreatitis); e ye pain (eye pain, periorbital pain); p eripheral swelling (oedema peripheral, peripheral swelling); deafness (deafness, deafness unilateral, conductive deafness); dry skin (dry skin, xerosis); dermatitis allergic (dermatitis allergic, dermatitis); hyperglycaemia (hyperglycaemia, blood glucose increased); cough (cough, productive cough); hypertension (hypertension, blood pressure increased).
 
 <div style=\"page-break-after: always\"></div>
 
-- Δ: ADRs that are attributed to linezolid.
+- Δ : ADRs that are attributed to linezolid.
 - §: ADRs that are attributed to Moxifloxacin
 
 ## Description of selected adverse reactions
@@ -384,13 +384,13 @@ Table 2: Primary Efficacy Analysis for Nix-TB
 
 <div style=\"page-break-after: always\"></div>
 
-|                  | Total    | XDR      | TI/NR MDR   |
-|------------------|----------|----------|-------------|
-| N                | 109      | 71 (65%) | 38 (35%)    |
-| Unassessable     | 2        | 1        | 1           |
-| Total Assessable | 107      | 70       | 37          |
-| Favourable       | 98 (92%) | 63 (90%) | 35 (95%)    |
-| Unfavourable     | 9 (8%)   | 7 (10%)  | 2 (5%)      |
+|                  | Total    | XDR      | TI/NRMDR   |
+|------------------|----------|----------|------------|
+| N                | 109      | 71 (65%) | 38 (35%)   |
+| Unassessable     | 2        | 1        | 1          |
+| Total Assessable | 107      | 70       | 37         |
+| Favourable       | 98 (92%) | 63 (90%) | 35 (95%)   |
+| Unfavourable     | 9 (8%)   | 7 (10%)  | 2 (5%)     |
 
 XDR (pre-2021 WHO definition): extensively drug resistant (resistance to isoniazid, rifampicin, a fluoroquinolone, and a second line injectable antibacterial drug)
 
@@ -403,8 +403,8 @@ The outcomes were similar in both HIV negative and HIV positive patients. Of the
 Pretomanid was evaluated in a phase 3 partially blinded, randomized trial assessing the safety and efficacy of various doses and treatment durations of linezolid plus bedaquiline and pretomanid (BPaL) in patients with
 
 - -pulmonary TB due to M. tuberculosis resistant to isoniazid, rifampicin, a fluoroquinolone and a second line injectable antibacterial drug (extensively drug-resistant TB (XDR-TB), pre-2021 WHO definition),
-- -or pulmonary TB due to M. tuberculosis resistant to rifampicin and either a fluoroquinolone or a second line injectable antibacterial drug (pre-XDR-TB, pre-2021 WHO definition),
 - -or pulmonary TB due to M. tuberculosis resistant to both isoniazid and rifampicin who were treatment intolerant or non-responsive to standard therapy (TI/NR MDR-TB).
+- -or pulmonary TB due to M. tuberculosis resistant to rifampicin and either a fluoroquinolone or a second line injectable antibacterial drug (pre-XDR-TB, pre-2021 WHO definition),
 
 A total of 181 patients were randomized to receive one of the 4 treatment arms, of which 45 each received 1 200 mg or 600 mg linezolid in the BPaL regimen for 26 weeks, and 46 and 45 patients received 1 200 mg or 600 mg linezolid in the BPaL regimen for 9 weeks, respectively. The mean age of the patients was 37.1 years with 67.4% being males. The majority of participants were white (63.5%), and the remaining participants were black (36.5%). Most participants had a current TB diagnosis (a stratification factor) of pulmonary TB due to M. tuberculosis resistant to rifampicin and either a fluoroquinolone or a second line injectable antibacterial drug (47.0%) or pulmonary TB due to M. tuberculosis resistant to isoniazid, rifampicin, a fluoroquinolone and a second line injectable antibacterial drug (41.4%), and the remainder of participants having  pulmonary TB due to M. tuberculosis resistant to isoniazid and rifampicin who were treatment intolerant or non-responsive to standard therapy(5.0% and 6.6%, respectively).
 
@@ -414,20 +414,17 @@ The outcome of primary efficacy analysis is presented in the table below.
 
 Table 3: Primary Efficacy Analysis for ZeNix
 
-| Linezolid 1 200 mg 26 weeks (N = 45) n (%)   | Linezolid 1 200 mg 9 weeks (N = 46) n (%)   | Linezolid 600 mg 26 weeks (N = 45) n (%)   | Linezolid 600 mg 9 weeks (N = 45) n (%)   | Total (N =181) n (%)   |
-|----------------------------------------------|---------------------------------------------|--------------------------------------------|-------------------------------------------|------------------------|
+| Linezolid 1 200 mg 26 weeks (N = 45) n (%)   | Linezolid 1 200 mg 9 weeks (N = 46) n (%)   | Linezolid 600 mg 26 weeks (N = 45) n (%)   | Linezolid 600 mg 9 weeks (N = 45) n (%)   | Total (N = 181) n (%)   |
+|----------------------------------------------|---------------------------------------------|--------------------------------------------|-------------------------------------------|-------------------------|
 
 <div style=\"page-break-after: always\"></div>
 
-| Unassessable Total assessable   | 1 44                | 1 45                 | 0 45                | 1 44                 | 3 178                  | 3 178                  | 3 178                  | 3 178                  | 3 178                  | 3 178                  | 3 178                  | 3 178                  | 3 178                  | 3 178                  | 3 178                  | 3 178                  | 3 178                  |
-|---------------------------------|---------------------|----------------------|---------------------|----------------------|------------------------|------------------------|------------------------|------------------------|------------------------|------------------------|------------------------|------------------------|------------------------|------------------------|------------------------|------------------------|------------------------|
-| Favourable                      |                     |                      |                     |                      |                        |                        |                        |                        |                        |                        |                        |                        |                        |                        |                        |                        |                        |
-|                                 | 41 (93.2%) 3 (6.8%) | 40 (88.9%) 5 (11.1%) | 41 (91.1%) 4 (8.9%) | 37 (84.1%) 7 (15.9%) | 159 (89.3%) 19 (10.7%) | 159 (89.3%) 19 (10.7%) | 159 (89.3%) 19 (10.7%) | 159 (89.3%) 19 (10.7%) | 159 (89.3%) 19 (10.7%) | 159 (89.3%) 19 (10.7%) | 159 (89.3%) 19 (10.7%) | 159 (89.3%) 19 (10.7%) | 159 (89.3%) 19 (10.7%) | 159 (89.3%) 19 (10.7%) | 159 (89.3%) 19 (10.7%) | 159 (89.3%) 19 (10.7%) | 159 (89.3%) 19 (10.7%) |
-| Unfavourable                    |                     |                      |                     |                      |                        |                        |                        |                        |                        |                        |                        |                        |                        |                        |                        |                        |                        |
-| 95%CI forFavourable             | 81.3% to 98.6%      | 75.9% to             | 78.8% to            |                      | 69.9% to 93.4%         | 69.9% to 93.4%         | 69.9% to 93.4%         | 69.9% to 93.4%         | 69.9% to 93.4%         | 69.9% to 93.4%         | 69.9% to 93.4%         | 69.9% to 93.4%         | 69.9% to 93.4%         | 69.9% to 93.4%         | 69.9% to 93.4%         | 69.9% to 93.4%         | 69.9% to 93.4%         |
-|                                 |                     |                      |                     |                      | 93.4%                  |                        |                        |                        |                        |                        |                        |                        |                        |                        |                        |                        |                        |
-|                                 |                     |                      |                     | 97.5%                |                        |                        |                        |                        |                        |                        |                        |                        |                        |                        |                        |                        |                        |
-|                                 |                     | 96.3%                |                     |                      |                        |                        |                        |                        |                        |                        |                        |                        |                        |                        |                        |                        |                        |
+| Unassessable Total assessable   | 1 44       | 1 45       | 0 45       | 1 44       | 3 178       |
+|---------------------------------|------------|------------|------------|------------|-------------|
+| Favourable                      | 41 (93.2%) | 40 (88.9%) | 41 (91.1%) | 37 (84.1%) | 159 (89.3%) |
+| Unfavourable                    | 3 (6.8%)   | 5 (11.1%)  | 4 (8.9%)   | 7 (15.9%)  | 19 (10.7%)  |
+| 95% CI for Favourable           | 81.3% to   | 75.9% to   | 78.8% to   | 69.9% to   | 83.8% to    |
+|                                 | 98.6%      | 96.3%      | 97.5%      | 93.4%      | 93.4%       |
 
 CI = confidence interval; N = total number of participants in the relevant analysis population; n = number of participants in each category.
 
@@ -447,19 +444,19 @@ Table 4 shows the primary outcome results in patients randomized to BPaLM or SoC
 
 Table 4: Primary Outcome Results in TB-PRACTECAL
 
-|                               | mITT-excludes-switches Population*   | mITT-excludes-switches Population*   |
-|-------------------------------|--------------------------------------|--------------------------------------|
-|                               | Standard care (n=137) n (%)          | BPaLM(n=138) n (%)                   |
-| No unfavourable outcome       | 81 (59.1%)                           | 121 (87.7%)                          |
-| Unfavourable outcome          | 56 (40.9%)                           | 16 (11.6%)                           |
-| Non-assessable                | 0(0%)                                | 1(0.7%)                              |
-| Reasonsforunfavourableoutcome |                                      |                                      |
-| Deaths                        | 5 (3.7%)                             | 0 (0%)                               |
-| Early discontinuations        | 50 (36.5%)                           | 11 (8.0%)                            |
-| Lost to follow-up at 72 weeks | 1 (0.7%)                             | 4 (2.9%)                             |
-| Recurrence                    | 0 (0%)                               | 1 (0.7%)                             |
+|                                 | mITT-excludes-switches Population*   | mITT-excludes-switches Population*   |
+|---------------------------------|--------------------------------------|--------------------------------------|
+|                                 | Standard care (n=137) n (%)          | BPaLM (n=138) n (%)                  |
+| No unfavourable outcome         | 81 (59.1%)                           | 121 (87.7%)                          |
+| Unfavourable outcome            | 56 (40.9%)                           | 16 (11.6%)                           |
+| Non-assessable                  | 0(0%)                                | 1(0.7%)                              |
+| Reasons for unfavourableoutcome |                                      |                                      |
+| Deaths                          | 5 (3.7%)                             | 0 (0%)                               |
+| Early discontinuations          | 50 (36.5%)                           | 11 (8.0%)                            |
+| Lost to follow-up at 72 weeks   | 1 (0.7%)                             | 4 (2.9%)                             |
+| Recurrence                      | 0 (0%)                               | 1 (0.7%)                             |
 
-* mITT-exclude-switches Population :  modified intent-to-treat population excluding patients in the standard of care arm who were switched to Practecal arm-1 (BPaLM) after 18th March 2021, when enrolment to the study was stopped. It was used as the primary population when reporting mITT outcomes.
+* mITT-exclude-switches Population : modified intent-to-treat population excluding patients in the standard of care arm who were switched to Practecal arm-1 (BPaLM) after 18th March 2021, when enrolment to the study was stopped. It was used as the primary population when reporting mITT outcomes.
 
 ## Paediatric population
 
@@ -495,7 +492,7 @@ Pretomanid is not a substrate of cytochrome P450 (CYP) 2C9, 2C19 or 2D6 in vitro
 
 ## Elimination
 
-The recovery of total radioactivity following a single dose of  14 C-preotmanid was approximately 90% with about 53-65% excreted in the urine and 26-38% in faeces.
+The recovery of total radioactivity following a single dose of 14 C-preotmanid was approximately 90% with about 53-65% excreted in the urine and 26-38% in faeces.
 
 Pretomanid, at clinically relevant concentrations, is not a substrate or inhibitor for the transporters, bile salt export pump (BSEP), multidrug and toxin extrusion protein (MATE)1, MATE2-K, organic anion transporter (OAT)1, OAT1B1 and organic cation transporter (OCT)1. Pretomanid is not a substrate of OAT3, breast cancer resistance protein (BCRP), P-glycoprotein (P gp), OCT2 and organic aniontransporting polypeptide (OATP)1B3. The potential of pretomanid to inhibit P gp, OATP1B3, OCT2 and BCRP has not been investigated at clinically relevant concentrations.
 
@@ -523,7 +520,7 @@ The pharmacokinetics of pretomanid have not been established in the paediatric p
 
 ## Elderly
 
-There is limited clinical data (n=5) on the use of pretomanid in elderly patients (≥65 years).
+There is limited clinical data (n=5) on the use of pretomanid in elderly patients ( ≥ 65 years).
 
 ## Race
 
@@ -537,15 +534,13 @@ In repeat dose studies in rats, convulsions were observed at systemic exposures 
 
 Pretomanid has the potential to affect cardiac repolarisation via blockade of hERG potassium channels and/or other cardiac ion channels including Nav1.5 and KCNQ1/minK.
 
-Testicular toxicity was observed in rats and mice without exposure margin to the MRHD. Decreased fertility to complete infertility was observed in male rats treated with oral pretomanid. There were no direct effects of pretomanid on reproductive organs in monkeys given oral pretomanid for 3-months and 9-months. Decreased sperm motility, total sperm count and increased abnormal sperm ratio were observed in monkeys. Based upon the preclinical data, rodents are susceptible to pretomanid-induced testicular injury. Serum levels of the male reproductive hormones are biomarkers that are altered in
+Testicular toxicity was observed in rats and mice without exposure margin to the MRHD. Decreased fertility to complete infertility was observed in male rats treated with oral pretomanid. There were no direct effects of pretomanid on reproductive organs in monkeys given oral pretomanid for 3-months and 9-months. Decreased sperm motility, total sperm count and increased abnormal sperm ratio were observed in monkeys. Based upon the preclinical data, rodents are susceptible to pretomanid-induced testicular injury. Serum levels of the male reproductive hormones are biomarkers that are altered in association with this injury. In the preclinical study of primates, no pretomanid-related alterations in testis or male reproductive hormones were observed.
 
 <div style=\"page-break-after: always\"></div>
 
-association with this injury. In the preclinical study of primates, no pretomanid-related alterations in testis or male reproductive hormones were observed.
-
 Non-clinical data reveal no special hazard for humans based on conventional studies of embryo-foetal development and peri-postnatal development.
 
-Transfer of pretomanid from dam to pup via breast milk was studied in rats. After 14 days dosing of 20 mg/kg/day, the mean maternal plasma concentration 6 hours post dose was 2.84 μg/ml, which is similar to the mean steady state Cmax for 200 mg pretomanid in humans. At the same time, the mean concentration in milk was 4.07 μg/ml, and the mean plasma concentration in rat pups was 0.119 μg/ml. The concentration of pretomanid in rat milk does not necessarily predict the concentration of pretomanid in human milk.
+Transfer of pretomanid from dam to pup via breast milk was studied in rats. After 14 days dosing of 20 mg/kg/day, the mean maternal plasma concentration 6 hours post dose was 2.84 μ g/ml, which is similar to the mean steady state Cmax for 200 mg pretomanid in humans. At the same time, the mean concentration in milk was 4.07 μ g/ml, and the mean plasma concentration in rat pups was 0.119 μ g/ml. The concentration of pretomanid in rat milk does not necessarily predict the concentration of pretomanid in human milk.
 
 No mutagenic or clastogenic effects were detected in conventional genotoxicity studies with pretomanid. A circulating metabolite of pretomanid, M50, was mutagenic in a bacterial reverse mutation assay. No carcinogenic potential was revealed in a 6-month study in transgenic mice where this metabolite is produced. In a 2-year study in rats, an increased incidence of Leydig cell adenomas was observed at a dose of 10 mg/kg/day. The observation is likely of limited relevance to humans.
 
@@ -571,7 +566,7 @@ This medicinal product does not require any special temperature storage conditio
 
 High-density polyethylene (HDPE) bottles with polypropylene screw cap with a pulp liner and an absorbent cotton or an ullage filler. Pack size: 26 tablets.
 
-PVC/PVdC-Aluminium foil blisters packs. Pack sizes: 14, 14 × 1 (unit dose), 182, 182 × 1 (unit dose) tablets.
+PVC/PVdC-Aluminium foil blisters packs. Pack sizes: 14, 14 × 1 (unit dose), 182, 182 × 1 (u nit dose) tablets.
 
 Not all pack sizes may be marketed.
 
@@ -585,25 +580,13 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Mylan IRE Healthcare Limited
-
-Unit 35/36 Grange Parade
-
-Baldoyle Industrial Estate
-
-Dublin 13
+Mylan IRE Healthcare Limited Unit 35/36 Grange Parade Baldoyle Industrial Estate Dublin 13
 
 Ireland
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/20/1437/001
-
-EU/1/20/1437/002
-
-EU/1/20/1437/003
-
-EU/1/20/1437/004
+EU/1/20/1437/001 EU/1/20/1437/002 EU/1/20/1437/003 EU/1/20/1437/004
 
 EU/1/20/1437/005
 
@@ -636,6 +619,8 @@ Mylan Hungary Kft Mylan utca 1. Komarom 2900 Hungary
 
 Rottapharm Limited, Damastown Industrial Park, Mulhuddart, Dublin 15, D15 XD71 Ireland
 
+Viatris Germany GmbH Zweigniederlassung Bad Homburg v. d. Hoehe, Benzstrasse 1 Bad Homburg v. d. Hoehe Hessen, 61352, Germany
+
 The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.
 
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
@@ -659,6 +644,9 @@ The marketing authorisation holder (MAH) shall perform the required pharmacovigi
 An updated RMP should be submitted:
 
 - At the request of the European Medicines Agency;
+
+<div style=\"page-break-after: always\"></div>
+
 - Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 
 <div style=\"page-break-after: always\"></div>
@@ -727,11 +715,9 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-| 9.   | SPECIAL STORAGE CONDITIONS   |
-|------|------------------------------|
+## 9. SPECIAL STORAGE CONDITIONS
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -753,10 +739,8 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-## 15. INSTRUCTIONS ON USE
-
-| 16.   | INFORMATION IN BRAILLE   |
-|-------|--------------------------|
+15. INSTRUCTIONS ON USE
+16. INFORMATION IN BRAILLE
 
 Dovprela 200 mg tablets
 
@@ -764,8 +748,7 @@ Dovprela 200 mg tablets
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
-|-------|-------------------------------------------|
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 PC:
 
@@ -775,17 +758,17 @@ NN:
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON BLISTERS   |
-|---------------------------------------------|
-| BLISTER                                     |
+| MINIMUM PARTICULARS TO APPEAR ONBLISTERS   |
+|--------------------------------------------|
+| BLISTER                                    |
 
-| 1.   | NAME OF THE MEDICINAL PRODUCT   |
-|------|---------------------------------|
+| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
+|------|------------------------------|
 
 Dovprela 200 mg tablets pretomanid
 
-| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
-|------|----------------------------------------------|
+| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
+|------|-------------------------------------------|
 
 Mylan IRE Healthcare Limited
 
@@ -802,153 +785,129 @@ Lot
 | 5.   | OTHER   |
 |------|---------|
 
-25
-
 <div style=\"page-break-after: always\"></div>
 
-| PARTICULARS TO APPEAR ON THE OUTER PACKAGING   |
-|------------------------------------------------|
-| OUTER CARTON (BOTTLE)                          |
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-| 1.   | NAME OF THE MEDICINAL PRODUCT   |
-|------|---------------------------------|
+OUTER CARTON (BOTTLE)
 
-Dovprela 200 mg tablets pretomanid
+## 1. NAME OF THE MEDICINAL PRODUCT
 
-| 2.   | STATEMENT OF ACTIVE SUBSTANCE(S)   |
-|------|------------------------------------|
+Dovprela 200 mg tablets
+
+pretomanid
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
 Each tablet contains 200 mg pretomanid
 
-| 3.   | LIST OF EXCIPIENTS   |
-|------|----------------------|
+## 3. LIST OF EXCIPIENTS
 
 Contains lactose.
 
 See leaflet for further information.
 
-| 4.   | PHARMACEUTICAL FORM AND CONTENTS   |
-|------|------------------------------------|
+## 4. PHARMACEUTICAL FORM AND CONTENTS
 
 26 tablets
 
-| 5.   | METHOD AND ROUTE(S) OF ADMINISTRATION   |
-|------|-----------------------------------------|
+## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-Read the package leaflet before use.
-
-Oral use
+Read the package leaflet before use. Oral use
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
 Keep out of the sight and reach of children.
 
-| 7.   | OTHER SPECIAL WARNING(S), IF NECESSARY   |
-|------|------------------------------------------|
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-| 8.   | EXPIRY DATE   |
-|------|---------------|
+## 8. EXPIRY DATE
 
 EXP
 
-| 9.   | SPECIAL STORAGE CONDITIONS   |
-|------|------------------------------|
+## 9. SPECIAL STORAGE CONDITIONS
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|--------------------------------------------------------------------------------------------------------------------------------------|
 
-<div style=\"page-break-after: always\"></div>
-
-| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|----------------------------------------------------------|
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
 Mylan IRE Healthcare Limited Unit 35/36 Grange Parade Baldoyle Industrial Estate Dublin 13 Ireland
 
-| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
-|-------|-------------------------------------|
+## 12. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/20/1437/003
 
-| 13.   | BATCH NUMBER   |
-|-------|----------------|
+## 13. BATCH NUMBER
 
 Lot
 
-| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
-|-------|-------------------------------------|
+14. GENERAL CLASSIFICATION FOR SUPPLY
 
-| 15.   | INSTRUCTIONS ON USE   |
-|-------|-----------------------|
+15. INSTRUCTIONS ON USE
 
-| 16.   | INFORMATION IN BRAILLE   |
-|-------|--------------------------|
+16. INFORMATION IN BRAILLE
 
 Dovprela 200 mg tablets
 
-| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
-|-------|----------------------------------|
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
-|-------|-------------------------------------------|
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC: SN: NN:
+PC: SN:
+
+NN:
 
 <div style=\"page-break-after: always\"></div>
 
-| PARTICULARS TO APPEAR ON THE IMMEDIATE PACKAGING   |
-|----------------------------------------------------|
-| BOTTLE LABEL                                       |
+## PARTICULARS TO APPEAR ON THE IMMEDIATE PACKAGING
 
-| 1.   | NAME OF THE MEDICINAL PRODUCT   |
-|------|---------------------------------|
+BOTTLE LABEL
+
+## 1. NAME OF THE MEDICINAL PRODUCT
 
 Dovprela 200 mg tablets pretomanid
 
-| 2.   | STATEMENT OF ACTIVE SUBSTANCE(S)   |
-|------|------------------------------------|
+## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
 Each tablet contains 200 mg pretomanid.
 
-| 3.   | LIST OF EXCIPIENTS   |
-|------|----------------------|
+## 3. LIST OF EXCIPIENTS
 
-Contains lactose. See leaflet for further information.
+Contains lactose.
 
-| 4.   | PHARMACEUTICAL FORM AND CONTENTS   |
-|------|------------------------------------|
+See leaflet for further information.
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
 
 26 tablets
 
-| 5.   | METHOD AND ROUTE(S) OF ADMINISTRATION   |
-|------|-----------------------------------------|
+## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
 Read the package leaflet before use. Oral use.
 
-| 6.   | SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN   |
-|------|----------------------------------------------------------------------------------------------------|
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
 Keep out of the sight and reach of children.
 
-| 7.   | OTHER SPECIAL WARNING(S), IF NECESSARY   |
-|------|------------------------------------------|
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-| 8.   | EXPIRY DATE   |
-|------|---------------|
+## 8. EXPIRY DATE
 
 EXP
 
-| 9.   | SPECIAL STORAGE CONDITIONS   |
-|------|------------------------------|
+## 9. SPECIAL STORAGE CONDITIONS
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 <div style=\"page-break-after: always\"></div>
 
-| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|----------------------------------------------------------|
+<div style=\"page-break-after: always\"></div>
+
+| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|--------------------------------------------------------|
 
 Mylan IRE Healthcare Limited Unit 35/36 Grange Parade Baldoyle Industrial Estate Dublin 13 Ireland
 
@@ -965,19 +924,17 @@ Lot
 | 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
 |-------|-------------------------------------|
 
-| 15.   | INSTRUCTIONS ON USE   |
-|-------|-----------------------|
+| 15.   | INSTRUCTIONS ONUSE   |
+|-------|----------------------|
 
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
 
-| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
-|-------|----------------------------------|
+| 17. UNIQUE IDENTIFIER - 2D BARCODE   |
+|--------------------------------------|
 
-| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
-|-------|-------------------------------------------|
-
-29
+| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
+|-------|-----------------------------------------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -996,8 +953,8 @@ This medicine is subject to additional monitoring. This will allow quick identif
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
 - Keep this leaflet. You may need to read it again.
-- If you have any further questions, ask your doctor, pharmacist or nurse.
 - This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you have any further questions, ask your doctor, pharmacist or nurse.
 - If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
@@ -1032,11 +989,11 @@ Since pretomanid must be used in combination with other medicines against tuberc
 Talk to your doctor, pharmacist or nurse before taking Dovprela if you:
 
 - have reduced liver function
-- drink alcohol on a regular basis
 - have reduced kidney function
+- drink alcohol on a regular basis
 - have or have had disturbances of the heart rhythm, or if someone in your family has a heart rhythm problem
-- have heart failure
 - have or have had an underactive thyroid
+- have heart failure
 - have reduced blood levels of calcium, magnesium or potassium
 
 ## Liver damage
@@ -1045,11 +1002,11 @@ There is a risk of liver damage when you are treated with Dovprela in combinatio
 
 Tell your doctor if you experience symptoms such as:
 
-- fatigue
 - lack or loss of appetite
+- fatigue
 - nausea
-- yellowing of the skin and eyes
 - dark urine
+- yellowing of the skin and eyes
 - abdominal pain
 
 The doctor will adjust your treatment if your liver is affected.
@@ -1085,8 +1042,8 @@ Tell your doctor or pharmacist if you are taking, have recently taken, or might 
 Avoid treatment with Dovprela and any of the following medicines at the same time. These may lower the effect of Dovprela so your treatment may not work; therefore, inform your doctor immediately about these:
 
 - rifampicin, rifamycin, rifapentine, rifabutin: other medicines to treat tuberculosis or certain other infections
-- efavirenz, etravirine: medicines to treat HIV infection
 - carbamazepine, phenytoin: medicines to treat epilepsy and certain pain conditions
+- efavirenz, etravirine: medicines to treat HIV infection
 - St John's wort: a herbal medicine to treat depression and anxiety
 
 You should also avoid the use of medicines that may have a damaging effect on your liver (other than bedaquiline, linezolid and moxifloxacin). Talk to you doctor who will be able to tell you which medicines this applies to.
@@ -1095,8 +1052,8 @@ Inform your doctor if you are using:
 
 - methotrexate: a medicine to treat severe joint inflammation, cancer and the skin disease psoriasis
 - benzylpenicillin, ciprofloxacin: medicines to treat bacterial infections
-- indomethacin: a medicine to treat pain and inflammation
 - ritonavir: a medicine to treat HIV infection
+- indomethacin: a medicine to treat pain and inflammation
 
 ## Dovprela with alcohol
 
@@ -1134,8 +1091,8 @@ Dovprela is used in combination with linezolid, bedaquiline and moxifloxacin. Pl
 
 ## The recommended dose is
 
-- Dovprela: 1 tablet once daily
 - linezolid: 600 mg daily
+- Dovprela: 1 tablet once daily
 - bedaquiline: 400 mg once daily for 2 weeks, followed by 200 mg 3 times per week (with at least 48 hours between doses). For example you may take bedaquiline on Monday, Wednesday and Friday every week from week 3 onwards
 
 If you have been told by your doctor that you will have moxifloxacin as well as Dovprela, linezolid and bedaquiline, the recommended dose is
@@ -1178,18 +1135,21 @@ When Dovprela is used together with other medicines against tuberculosis, the fo
 
 ## Contact your doctor immediately
 
-Very common if you experience any of the following: (may affect more than 1 in 10 people)
+Very common
 
-- reduced number of red blood cells Possible signs are feeling tired, weakness, shortness of breath, loss of consciousness and increased thirst.
+if you experience any of the following: (may affect more than 1 in 10 people)
+
 - reduced number of white blood cells Possible signs are infections.
+- reduced number of red blood cells Possible signs are feeling tired, weakness, shortness of breath, loss of consciousness and increased thirst.
 - increased blood levels of liver enzymes called transaminase such as ALT, AST Tell your doctor if you experience symptoms such as fatigue, lack or loss of appetite, nausea, yellowing of the skin and eyes, dark urine or abdominal pain.
 
 ## Common (may affect up to 1 in 10 people)
 
 - reduced number of white blood cells or platelets Possible signs are bruising, bleeding or infections.
+- ·
 - increased blood levels of a liver enzyme called gamma GT (indicating how well your liver is working)
 
-•
+·
 
 increased blood level of lactic acid
 
@@ -1203,37 +1163,37 @@ Contact your doctor if you have recurrent nausea or vomiting.
 
 Very common (may affect more than 1 in 10 people)
 
-- nausea, vomiting
 - rash
+- nausea, vomiting
 
-•
+·
 
-- nerve problems in the hands or feet, such as pain, burning, abnormal sensation or numbness
 - abnormal electrical activity of the heart (prolonged electrocardiogram QT interval)
+- nerve problems in the hands or feet, such as pain, burning, abnormal sensation or numbness
 
 ## Common (may affect up to 1 in 10 people)
 
-- fungal (including candida, yeast, fungi) infection in the mouth or throat, which appears as white patches
 - fungal (including candida, yeast, fungi) infection in the vagina, which may cause itching, soreness, burning and redness
+- fungal (including candida, yeast, fungi) infection in the mouth or throat, which appears as white patches
 - sleeping difficulties, depression
-- fatigue
 - decreased appetite
+- fatigue
 - taste disturbance
-- dizziness
 - tremor
+- dizziness
 - muscle spasm
-- diarrhoea, constipation, indigestion
 - inflammation of stomach lining, pancreas inflammation
+- diarrhoea, constipation, indigestion
 - abdominal pain
-- dry skin, itching skin, hives, acne
 - vision problems
+- dry skin, itching skin, hives, acne
 - deafness
 
 <div style=\"page-break-after: always\"></div>
 
 - feeling of increased heartbeat, chest pain
-- high blood pressure
 - coughing up blood, nosebleed
+- high blood pressure
 - increased number of white blood cells
 - increased blood levels:
 - -amylase
@@ -1256,27 +1216,27 @@ Very common (may affect more than 1 in 10 people)
 
 ## Uncommon (may affect up to 1 in 100 people)
 
-- too much fluid loss, reduced body fluid volume
 - anxiety
+- too much fluid loss, reduced body fluid volume
 - enlarged liver
-- yellowing of the skin, internal organs and/or the whites of the eyes (jaundice)
 - eye lens disorder
+- yellowing of the skin, internal organs and/or the whites of the eyes (jaundice)
 - worsening ability to focus clearly on close objects
-- eye itching, eye swelling, irritation or pain of the eye
 - optic nerve damage and/or inflammation with swellings and visual disturbances
+- eye itching, eye swelling, irritation or pain of the eye
 - optic disc swelling (leading to loss of vision)
-- clouding of the eye lens (cataracts)
 - increased or decreased heartbeat
+- clouding of the eye lens (cataracts)
 - low blood pressure
-- cough
 - feeling bloated, burping
+- cough
 - burning tongue, enlargement of the small, nipple-like structures on the upper surface of the tongue
 - reflux of stomach juices in the oesophagus
-- swelling and pain (arthritis) in several joints
 - allergic reaction
+- swelling and pain (arthritis) in several joints
 - eczema, excessive skin pigmentation, skin redness, hair loss
-- abnormal presence of the protein albumin in the urine
 - vomiting blood
+- abnormal presence of the protein albumin in the urine
 - lack of white and red blood cells, and blood platelets
 - increased blood levels:
 - -creatine phosphokinase isoenzyme (MB)
@@ -1326,6 +1286,8 @@ Rottapharm Limited,
 
 Damastown Industrial Park, Mulhuddart, Dublin 15, D15 XD71 Ireland
 
+Viatris Germany GmbH Zweigniederlassung Bad Homburg v. d. Hoehe, Benzstrasse 1 Bad Homburg v. d. Hoehe Hessen, 61352, Germany
+
 <div style=\"page-break-after: always\"></div>
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
@@ -1344,9 +1306,11 @@ Tel: +370 5 205 1288
 
 ## България
 
-Майлан ЕООД
+Виатрис ЕООД
 
-Тел: +359 2 44 55 400
+Тел
+
+.: +359 2 44 55 400
 
 ## Luxembourg/Luxemburg
 
@@ -1356,7 +1320,7 @@ Tél/Tel: + 32 (0)2 658 61 00
 
 (Belgique/Belgien)
 
-## Česká republika
+## Č eská republika
 
 Viatris CZ  s.r.o.
 
@@ -1408,7 +1372,7 @@ Tlf: + 47 66 75 33 00
 
 Viatris Hellas Ltd
 
-Τηλ:  +30 2100 100 002
+Τηλ :  +30 2100 100 002
 
 ## Österreich
 
@@ -1452,21 +1416,11 @@ BGP Products SRL
 
 Tel: +40 372 579 000
 
-<div style=\"page-break-after: always\"></div>
-
 ## Ireland
 
 Viatris Limited
 
 Tel:  +353 1 8711600
-
-## Ísland
-
-Icepharma hf.
-
-Sími: +354 540 8000
-
-## Italia
 
 ## Slovenija
 
@@ -1474,17 +1428,25 @@ Viatris d.o.o.
 
 Tel: + 386 1 23 63 180
 
+## Ísland
+
+Icepharma hf.
+
+Sími: +354 540 8000
+
 ## Slovenská republika
 
 Viatris Slovakia s.r.o.
 
 Tel: +421 2 32 199 100
 
-## Suomi/Finland
+## Italia
 
 Viatris Italia S.r.l.
 
 Tel: + 39 (0)2 612 46921
+
+## Suomi/Finland
 
 Viatris Oy
 
@@ -1494,9 +1456,19 @@ Puh/Tel: +358 20 720 9555
 
 CPO Pharmaceuticals Limited
 
-Τηλ: +357 22863100
+Τηλ
+
+: +357 22863100
+
+## Sverige
+
+Viatris AB
+
+Tel: + 46 (0) 8 630 19 00
 
 ## Latvija
+
+<div style=\"page-break-after: always\"></div>
 
 Viatris SIA
 
@@ -1507,9 +1479,3 @@ Tel: +371 676 055 80
 ## Other sources of information
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu
-
-## Sverige
-
-Viatris AB
-
-Tel: + 46 (0) 8 630 19 00

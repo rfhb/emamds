@@ -4,8 +4,8 @@ document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/dapagliflozin-viatris.html
 document_name: dapagliflozin-viatris.html
 version: success
-processing_time: 0.1083479
-conversion_datetime: 2026-05-10 13:11:42.531977
+processing_time: 0.1089576
+conversion_datetime: 2026-05-10 13:26:16.722004
 docling_version:
   docling-serve: 1.17.0
   docling-jobkit: 1.18.0

@@ -4,8 +4,8 @@ document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/pomalidomide-viatris.html
 document_name: pomalidomide-viatris.html
 version: success
-processing_time: 0.0981068
-conversion_datetime: 2026-05-10 13:12:01.087147
+processing_time: 0.1524478
+conversion_datetime: 2026-05-10 13:14:29.382325
 docling_version:
   docling-serve: 1.17.0
   docling-jobkit: 1.18.0

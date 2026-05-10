@@ -1,32 +1,108 @@
 ---
-document_datetime: 2025-12-29 11:32:05
+document_datetime: 2026-05-08 10:08:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/nintedanib-viatris.html
 document_name: nintedanib-viatris.html
 version: success
-processing_time: 0.1027593
-conversion_datetime: 2025-12-31 00:59:10.41932
+processing_time: 0.1063504
+conversion_datetime: 2026-05-10 13:10:05.874417
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.17.0
+  docling-jobkit: 1.18.0
+  docling: 2.92.0
+  docling-core: 2.74.1
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.10.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
+# Search
+
+- [Medicines](/en/medicines)
+    - [Find medicine](/en/medicines)
+    - [Therapeutic areas: latest updates](/en/medicines/therapeutic-areas-latest-updates)
+    - [Download medicine data](/en/medicines/download-medicine-data)
+    - [What we publish on medicines and when](/en/medicines/what-we-publish-medicines-when)
+    - [Medicines under evaluation](/en/medicines/medicines-human-use-under-evaluation)
+    - [National registers](/en/medicines/national-registers-authorised-medicines)
+- [Human regulatory](/en/human-regulatory-overview)
+    - [Overview](/en/human-regulatory-overview)
+    - [Research and development](/en/human-regulatory-overview/research-development)
+    - [Marketing authorisation](/en/human-regulatory-overview/marketing-authorisation)
+    - [Post-authorisation](/en/human-regulatory-overview/post-authorisation)
+    - [Medical devices](/en/human-regulatory-overview/medical-devices)
+    - [Herbal products](/en/human-regulatory-overview/herbal-medicinal-products)
+- [Veterinary regulatory](/en/veterinary-regulatory-overview)
+    - [Overview](/en/veterinary-regulatory-overview)
+    - [Research and development](/en/veterinary-regulatory-overview/research-development-veterinary-medicines)
+    - [Marketing authorisation](/en/veterinary-regulatory-overview/marketing-authorisation-veterinary-medicines)
+    - [Post-authorisation](/en/veterinary-regulatory-overview/post-authorisation-veterinary-medicines)
+- [Committees](/en/committees)
+    - [Overview](/en/committees)
+    - [How the committees work](/en/committees/how-committees-work)
+    - [CHMP](/en/committees/committee-medicinal-products-human-use-chmp)
+    - [CVMP](/en/committees/committee-veterinary-medicinal-products-cvmp)
+    - [PRAC](/en/committees/pharmacovigilance-risk-assessment-committee-prac)
+    - [COMP](/en/committees/committee-orphan-medicinal-products-comp)
+    - [HMPC](/en/committees/committee-herbal-medicinal-products-hmpc)
+    - [CAT](/en/committees/committee-advanced-therapies-cat)
+    - [PDCO](/en/committees/paediatric-committee-pdco)
+    - [Working parties and other groups](/en/committees/working-parties-other-groups)
+- [News &amp; events](/en/news-events)
+    - [Overview](/en/news-events)
+    - [News](/en/news)
+    - [Events](/en/events/upcoming-events)
+    - [What's new](/en/news-events/whats-new)
+    - [Committee highlights](/en/news-events/committee-highlights)
+    - [Publications](/en/news-and-events/publications)
+    - [Press and social media](/en/news-events/press-social-media)
+    - [Podcast: Inside EMA](/en/news-events/podcast-inside-ema)
+    - [EMA Campaigns](/en/news-events/ema-campaigns)
+    - [Open consultations](/en/news-events/open-consultations)
+    - [RSS feeds](/en/news-events/rss-feeds)
+- [Partners &amp; networks](/en/partners-networks)
+    - [Overview](/en/partners-networks)
+    - [EU partners](/en/partners-networks/eu-partners)
+    - [International activities](/en/partners-networks/international-activities)
+    - [Patients and consumers](/en/partners-networks/patients-consumers)
+    - [Healthcare professionals](/en/partners-networks/healthcare-professionals)
+    - [Academia](/en/partners-networks/academia)
+    - [Pharmaceutical industry](/en/partners-networks/pharmaceutical-industry)
+    - [Networks](/en/partners-networks/networks)
+    - [Health technology assessment bodies](/en/partners-networks/health-technology-assessment-bodies)
+    - [One Health approach](/en/partners-networks/one-health-approach)
+    - [Animal health practitioners](/en/partners-networks/animal-health-practitioners)
+    - [One substance - one assessment](/en/partners-networks/one-substance-one-assessment-osoa-eu-collaboration-chemicals-related-data)
+- [About us](/en/about-us)
+    - [Overview](/en/about-us)
+    - [What we do](/en/about-us/what-we-do)
+    - [Who we are](/en/about-us/who-we-are)
+    - [How we work](/en/about-us/how-we-work)
+    - [Fees](/en/about-us/fees-payable-european-medicines-agency)
+    - [Support to SMEs](/en/about-us/support-smes)
+    - [Annual reports and work programmes](/en/about-us/annual-reports-work-programmes)
+    - [History of EMA](/en/about-us/history-ema)
+    - [Careers](/en/about-us/careers)
+    - [Procurement](/en/about-us/procurement-grants)
+    - [About this website](/en/about-us/about-website)
+    - [Data protection and privacy](/en/about-us/data-protection-privacy-ema)
+    - [Contacts](/en/about-us/contacts-european-medicines-agency)
+
+1. [Home](/en/homepage)
+2. [Medicines](https://www.ema.europa.eu/en/medicines)
+3. Nintedanib Viatris
+
 # Nintedanib Viatris
 
 [RSS](/en/individual-human-medicine.xml/261746)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-nintedanib Medicine Human Authorised
+nintedanib
 
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
+Medicine Human Authorised
 
 Page contents
 
@@ -52,7 +128,7 @@ Nintedanib Viatris is a medicine used to treat:
 - adults with other chronic (long-term) interstitial lung diseases that are fibrosing (causing production of fibrous tissue) and progressive (getting worse);
 - children aged 6 to 17 years with clinically significant, progressive fibrosing ILDs.
 
-Nintedanib Viatris contains the active substance nintedanib and is a 'generic medicine'. This means that Nintedanib Viatris contains the same active substance and works in the same way as a 'reference medicine' already authorised in the EU. The reference medicine for Nintedanib Viatris is Ofev. For more information on generic medicines, see the question-and-answer document [here](https://www.ema.europa.eu/en/documents/other/questions-and-answers-generic-medicines_en.pdf) .
+Nintedanib Viatris contains the active substance nintedanib and is a 'generic medicine'. This means that Nintedanib Viatris contains the same active substance and works in the same way as a 'reference medicine' already authorised in the EU. The reference medicine for Nintedanib Viatris is Ofev.
 
 Expand section
 
@@ -106,181 +182,137 @@ English (EN) (160.96 KB - PDF)
 
 [View](/en/documents/overview/nintedanib-viatris-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-417)
+[Other languages (22)](#file-language-dropdown-329)
 
 български (BG) (189.79 KB - PDF)
 
-**First published:**
-
-05/09/2025
+**First published:** 05/09/2025
 
 [View](/bg/documents/overview/nintedanib-viatris-epar-medicine-overview_bg.pdf)
 
 español (ES) (165.6 KB - PDF)
 
-**First published:**
-
-05/09/2025
+**First published:** 05/09/2025
 
 [View](/es/documents/overview/nintedanib-viatris-epar-medicine-overview_es.pdf)
 
 čeština (CS) (186.89 KB - PDF)
 
-**First published:**
-
-05/09/2025
+**First published:** 05/09/2025
 
 [View](/cs/documents/overview/nintedanib-viatris-epar-medicine-overview_cs.pdf)
 
 dansk (DA) (164.35 KB - PDF)
 
-**First published:**
-
-05/09/2025
+**First published:** 05/09/2025
 
 [View](/da/documents/overview/nintedanib-viatris-epar-medicine-overview_da.pdf)
 
 Deutsch (DE) (168.74 KB - PDF)
 
-**First published:**
-
-05/09/2025
+**First published:** 05/09/2025
 
 [View](/de/documents/overview/nintedanib-viatris-epar-medicine-overview_de.pdf)
 
 eesti keel (ET) (162.26 KB - PDF)
 
-**First published:**
-
-05/09/2025
+**First published:** 05/09/2025
 
 [View](/et/documents/overview/nintedanib-viatris-epar-medicine-overview_et.pdf)
 
 ελληνικά (EL) (181.72 KB - PDF)
 
-**First published:**
-
-05/09/2025
+**First published:** 05/09/2025
 
 [View](/el/documents/overview/nintedanib-viatris-epar-medicine-overview_el.pdf)
 
 français (FR) (167.04 KB - PDF)
 
-**First published:**
-
-05/09/2025
+**First published:** 05/09/2025
 
 [View](/fr/documents/overview/nintedanib-viatris-epar-medicine-overview_fr.pdf)
 
 hrvatski (HR) (183.71 KB - PDF)
 
-**First published:**
-
-05/09/2025
+**First published:** 05/09/2025
 
 [View](/hr/documents/overview/nintedanib-viatris-epar-medicine-overview_hr.pdf)
 
 italiano (IT) (164.27 KB - PDF)
 
-**First published:**
-
-05/09/2025
+**First published:** 05/09/2025
 
 [View](/it/documents/overview/nintedanib-viatris-epar-medicine-overview_it.pdf)
 
 latviešu valoda (LV) (194.01 KB - PDF)
 
-**First published:**
-
-05/09/2025
+**First published:** 05/09/2025
 
 [View](/lv/documents/overview/nintedanib-viatris-epar-medicine-overview_lv.pdf)
 
 lietuvių kalba (LT) (185.72 KB - PDF)
 
-**First published:**
-
-05/09/2025
+**First published:** 05/09/2025
 
 [View](/lt/documents/overview/nintedanib-viatris-epar-medicine-overview_lt.pdf)
 
 magyar (HU) (187.36 KB - PDF)
 
-**First published:**
-
-05/09/2025
+**First published:** 05/09/2025
 
 [View](/hu/documents/overview/nintedanib-viatris-epar-medicine-overview_hu.pdf)
 
 Malti (MT) (187.24 KB - PDF)
 
-**First published:**
-
-05/09/2025
+**First published:** 05/09/2025
 
 [View](/mt/documents/overview/nintedanib-viatris-epar-medicine-overview_mt.pdf)
 
 Nederlands (NL) (166.54 KB - PDF)
 
-**First published:**
-
-05/09/2025
+**First published:** 05/09/2025
 
 [View](/nl/documents/overview/nintedanib-viatris-epar-medicine-overview_nl.pdf)
 
 polski (PL) (191.91 KB - PDF)
 
-**First published:**
-
-05/09/2025
+**First published:** 05/09/2025
 
 [View](/pl/documents/overview/nintedanib-viatris-epar-medicine-overview_pl.pdf)
 
 português (PT) (165.52 KB - PDF)
 
-**First published:**
-
-05/09/2025
+**First published:** 05/09/2025
 
 [View](/pt/documents/overview/nintedanib-viatris-epar-medicine-overview_pt.pdf)
 
 română (RO) (183.76 KB - PDF)
 
-**First published:**
-
-05/09/2025
+**First published:** 05/09/2025
 
 [View](/ro/documents/overview/nintedanib-viatris-epar-medicine-overview_ro.pdf)
 
 slovenčina (SK) (187.02 KB - PDF)
 
-**First published:**
-
-05/09/2025
+**First published:** 05/09/2025
 
 [View](/sk/documents/overview/nintedanib-viatris-epar-medicine-overview_sk.pdf)
 
 slovenščina (SL) (185.04 KB - PDF)
 
-**First published:**
-
-05/09/2025
+**First published:** 05/09/2025
 
 [View](/sl/documents/overview/nintedanib-viatris-epar-medicine-overview_sl.pdf)
 
 Suomi (FI) (162.99 KB - PDF)
 
-**First published:**
-
-05/09/2025
+**First published:** 05/09/2025
 
 [View](/fi/documents/overview/nintedanib-viatris-epar-medicine-overview_fi.pdf)
 
 svenska (SV) (162.71 KB - PDF)
 
-**First published:**
-
-05/09/2025
+**First published:** 05/09/2025
 
 [View](/sv/documents/overview/nintedanib-viatris-epar-medicine-overview_sv.pdf)
 
@@ -296,205 +328,161 @@ English (EN) (975 KB - PDF)
 
 Nintedanib Viatris : EPAR - Product information
 
-English (EN) (1.28 MB - PDF)
+English (EN) (695.4 KB - PDF)
 
-**First published:** 05/09/2025
+**First published:** 05/09/2025 **Last updated:** 08/05/2026
 
 [View](/en/documents/product-information/nintedanib-viatris-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-911)
+[Other languages (24)](#file-language-dropdown-259)
 
-български (BG) (1.15 MB - PDF)
+български (BG) (1.37 MB - PDF)
 
-**First published:**
-
-05/09/2025
+**First published:** 05/09/2025 **Last updated:** 08/05/2026
 
 [View](/bg/documents/product-information/nintedanib-viatris-epar-product-information_bg.pdf)
 
-español (ES) (1.21 MB - PDF)
+español (ES) (1.41 MB - PDF)
 
-**First published:**
-
-05/09/2025
+**First published:** 05/09/2025 **Last updated:** 08/05/2026
 
 [View](/es/documents/product-information/nintedanib-viatris-epar-product-information_es.pdf)
 
-čeština (CS) (1.07 MB - PDF)
+čeština (CS) (1.9 MB - PDF)
 
-**First published:**
-
-05/09/2025
+**First published:** 05/09/2025 **Last updated:** 08/05/2026
 
 [View](/cs/documents/product-information/nintedanib-viatris-epar-product-information_cs.pdf)
 
-dansk (DA) (1008.49 KB - PDF)
+dansk (DA) (1.37 MB - PDF)
 
-**First published:**
-
-05/09/2025
+**First published:** 05/09/2025 **Last updated:** 08/05/2026
 
 [View](/da/documents/product-information/nintedanib-viatris-epar-product-information_da.pdf)
 
-Deutsch (DE) (1.16 MB - PDF)
+Deutsch (DE) (1.42 MB - PDF)
 
-**First published:**
-
-05/09/2025
+**First published:** 05/09/2025 **Last updated:** 08/05/2026
 
 [View](/de/documents/product-information/nintedanib-viatris-epar-product-information_de.pdf)
 
-eesti keel (ET) (956.38 KB - PDF)
+eesti keel (ET) (1.4 MB - PDF)
 
-**First published:**
-
-05/09/2025
+**First published:** 05/09/2025 **Last updated:** 08/05/2026
 
 [View](/et/documents/product-information/nintedanib-viatris-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.25 MB - PDF)
+ελληνικά (EL) (1.56 MB - PDF)
 
-**First published:**
-
-05/09/2025
+**First published:** 05/09/2025 **Last updated:** 08/05/2026
 
 [View](/el/documents/product-information/nintedanib-viatris-epar-product-information_el.pdf)
 
-français (FR) (967.37 KB - PDF)
+français (FR) (1.24 MB - PDF)
 
-**First published:**
-
-05/09/2025
+**First published:** 05/09/2025 **Last updated:** 08/05/2026
 
 [View](/fr/documents/product-information/nintedanib-viatris-epar-product-information_fr.pdf)
 
-hrvatski (HR) (1.03 MB - PDF)
+hrvatski (HR) (1.45 MB - PDF)
 
-**First published:**
-
-05/09/2025
+**First published:** 05/09/2025 **Last updated:** 08/05/2026
 
 [View](/hr/documents/product-information/nintedanib-viatris-epar-product-information_hr.pdf)
 
-íslenska (IS) (966.01 KB - PDF)
+íslenska (IS) (1.4 MB - PDF)
 
-**First published:**
-
-05/09/2025
+**First published:** 05/09/2025 **Last updated:** 08/05/2026
 
 [View](/is/documents/product-information/nintedanib-viatris-epar-product-information_is.pdf)
 
-italiano (IT) (1.41 MB - PDF)
+italiano (IT) (1.23 MB - PDF)
 
-**First published:**
-
-05/09/2025
+**First published:** 05/09/2025 **Last updated:** 08/05/2026
 
 [View](/it/documents/product-information/nintedanib-viatris-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (981.28 KB - PDF)
+latviešu valoda (LV) (1.6 MB - PDF)
 
-**First published:**
-
-05/09/2025
+**First published:** 05/09/2025 **Last updated:** 08/05/2026
 
 [View](/lv/documents/product-information/nintedanib-viatris-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (911.71 KB - PDF)
+lietuvių kalba (LT) (1.7 MB - PDF)
 
-**First published:**
-
-05/09/2025
+**First published:** 05/09/2025 **Last updated:** 08/05/2026
 
 [View](/lt/documents/product-information/nintedanib-viatris-epar-product-information_lt.pdf)
 
-magyar (HU) (696.19 KB - PDF)
+magyar (HU) (1.34 MB - PDF)
 
-**First published:**
-
-05/09/2025
+**First published:** 05/09/2025 **Last updated:** 08/05/2026
 
 [View](/hu/documents/product-information/nintedanib-viatris-epar-product-information_hu.pdf)
 
-Malti (MT) (1.19 MB - PDF)
+Malti (MT) (1.35 MB - PDF)
 
-**First published:**
-
-05/09/2025
+**First published:** 05/09/2025 **Last updated:** 08/05/2026
 
 [View](/mt/documents/product-information/nintedanib-viatris-epar-product-information_mt.pdf)
 
-Nederlands (NL) (801.55 KB - PDF)
+Nederlands (NL) (1.45 MB - PDF)
 
-**First published:**
-
-05/09/2025
+**First published:** 05/09/2025 **Last updated:** 08/05/2026
 
 [View](/nl/documents/product-information/nintedanib-viatris-epar-product-information_nl.pdf)
 
-norsk (NO) (1006.1 KB - PDF)
+norsk (NO) (1.34 MB - PDF)
 
-**First published:**
-
-05/09/2025
+**First published:** 05/09/2025 **Last updated:** 08/05/2026
 
 [View](/no/documents/product-information/nintedanib-viatris-epar-product-information_no.pdf)
 
-polski (PL) (1022.96 KB - PDF)
+polski (PL) (1.61 MB - PDF)
 
-**First published:**
-
-05/09/2025
+**First published:** 05/09/2025 **Last updated:** 08/05/2026
 
 [View](/pl/documents/product-information/nintedanib-viatris-epar-product-information_pl.pdf)
 
-português (PT) (1.13 MB - PDF)
+português (PT) (1.51 MB - PDF)
 
-**First published:**
-
-05/09/2025
+**First published:** 05/09/2025 **Last updated:** 08/05/2026
 
 [View](/pt/documents/product-information/nintedanib-viatris-epar-product-information_pt.pdf)
 
-română (RO) (1.12 MB - PDF)
+română (RO) (1.62 MB - PDF)
 
-**First published:**
-
-05/09/2025
+**First published:** 05/09/2025 **Last updated:** 08/05/2026
 
 [View](/ro/documents/product-information/nintedanib-viatris-epar-product-information_ro.pdf)
 
-slovenčina (SK) (1.15 MB - PDF)
+slovenčina (SK) (1.25 MB - PDF)
 
-**First published:**
-
-05/09/2025
+**First published:** 05/09/2025 **Last updated:** 08/05/2026
 
 [View](/sk/documents/product-information/nintedanib-viatris-epar-product-information_sk.pdf)
 
-slovenščina (SL) (1.02 MB - PDF)
+slovenščina (SL) (1.09 MB - PDF)
 
-**First published:**
-
-05/09/2025
+**First published:** 05/09/2025 **Last updated:** 08/05/2026
 
 [View](/sl/documents/product-information/nintedanib-viatris-epar-product-information_sl.pdf)
 
-Suomi (FI) (808.6 KB - PDF)
+Suomi (FI) (1.34 MB - PDF)
 
-**First published:**
-
-05/09/2025
+**First published:** 05/09/2025 **Last updated:** 08/05/2026
 
 [View](/fi/documents/product-information/nintedanib-viatris-epar-product-information_fi.pdf)
 
-svenska (SV) (1.07 MB - PDF)
+svenska (SV) (1.33 MB - PDF)
 
-**First published:**
-
-05/09/2025
+**First published:** 05/09/2025 **Last updated:** 08/05/2026
 
 [View](/sv/documents/product-information/nintedanib-viatris-epar-product-information_sv.pdf)
+
+**Latest procedure affecting product information:** VR/0000325156
+
+05/05/2026
 
 icon globe
 
@@ -518,209 +506,175 @@ English (EN) (24.42 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/nintedanib-viatris-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-635)
+[Other languages (24)](#file-language-dropdown-544)
 
 български (BG) (43.44 KB - PDF)
 
-**First published:**
-
-05/09/2025
+**First published:** 05/09/2025
 
 [View](/bg/documents/all-authorised-presentations/nintedanib-viatris-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (15.42 KB - PDF)
 
-**First published:**
-
-05/09/2025
+**First published:** 05/09/2025
 
 [View](/es/documents/all-authorised-presentations/nintedanib-viatris-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (46.62 KB - PDF)
 
-**First published:**
-
-05/09/2025
+**First published:** 05/09/2025
 
 [View](/cs/documents/all-authorised-presentations/nintedanib-viatris-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (15.17 KB - PDF)
 
-**First published:**
-
-05/09/2025
+**First published:** 05/09/2025
 
 [View](/da/documents/all-authorised-presentations/nintedanib-viatris-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (15.02 KB - PDF)
 
-**First published:**
-
-05/09/2025
+**First published:** 05/09/2025
 
 [View](/de/documents/all-authorised-presentations/nintedanib-viatris-epar-all-authorised-presentations_de.pdf)
 
 eesti keel (ET) (14.98 KB - PDF)
 
-**First published:**
-
-05/09/2025
+**First published:** 05/09/2025
 
 [View](/et/documents/all-authorised-presentations/nintedanib-viatris-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (43.67 KB - PDF)
 
-**First published:**
-
-05/09/2025
+**First published:** 05/09/2025
 
 [View](/el/documents/all-authorised-presentations/nintedanib-viatris-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (14.96 KB - PDF)
 
-**First published:**
-
-05/09/2025
+**First published:** 05/09/2025
 
 [View](/fr/documents/all-authorised-presentations/nintedanib-viatris-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (67.1 KB - PDF)
 
-**First published:**
-
-05/09/2025
+**First published:** 05/09/2025
 
 [View](/hr/documents/all-authorised-presentations/nintedanib-viatris-epar-all-authorised-presentations_hr.pdf)
 
 íslenska (IS) (19.53 KB - PDF)
 
-**First published:**
-
-05/09/2025
+**First published:** 05/09/2025
 
 [View](/is/documents/all-authorised-presentations/nintedanib-viatris-epar-all-authorised-presentations_is.pdf)
 
 italiano (IT) (15.41 KB - PDF)
 
-**First published:**
-
-05/09/2025
+**First published:** 05/09/2025
 
 [View](/it/documents/all-authorised-presentations/nintedanib-viatris-epar-all-authorised-presentations_it.pdf)
 
 latviešu valoda (LV) (38.14 KB - PDF)
 
-**First published:**
-
-05/09/2025
+**First published:** 05/09/2025
 
 [View](/lv/documents/all-authorised-presentations/nintedanib-viatris-epar-all-authorised-presentations_lv.pdf)
 
 lietuvių kalba (LT) (36.64 KB - PDF)
 
-**First published:**
-
-05/09/2025
+**First published:** 05/09/2025
 
 [View](/lt/documents/all-authorised-presentations/nintedanib-viatris-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (56.54 KB - PDF)
 
-**First published:**
-
-05/09/2025
+**First published:** 05/09/2025
 
 [View](/hu/documents/all-authorised-presentations/nintedanib-viatris-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (33.98 KB - PDF)
 
-**First published:**
-
-05/09/2025
+**First published:** 05/09/2025
 
 [View](/mt/documents/all-authorised-presentations/nintedanib-viatris-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (15.41 KB - PDF)
 
-**First published:**
-
-05/09/2025
+**First published:** 05/09/2025
 
 [View](/nl/documents/all-authorised-presentations/nintedanib-viatris-epar-all-authorised-presentations_nl.pdf)
 
 norsk (NO) (65.71 KB - PDF)
 
-**First published:**
-
-05/09/2025
+**First published:** 05/09/2025
 
 [View](/no/documents/all-authorised-presentations/nintedanib-viatris-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (35.56 KB - PDF)
 
-**First published:**
-
-05/09/2025
+**First published:** 05/09/2025
 
 [View](/pl/documents/all-authorised-presentations/nintedanib-viatris-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (41.54 KB - PDF)
 
-**First published:**
-
-05/09/2025
+**First published:** 05/09/2025
 
 [View](/pt/documents/all-authorised-presentations/nintedanib-viatris-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (32.36 KB - PDF)
 
-**First published:**
-
-05/09/2025
+**First published:** 05/09/2025
 
 [View](/ro/documents/all-authorised-presentations/nintedanib-viatris-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (41.05 KB - PDF)
 
-**First published:**
-
-05/09/2025
+**First published:** 05/09/2025
 
 [View](/sk/documents/all-authorised-presentations/nintedanib-viatris-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (67.75 KB - PDF)
 
-**First published:**
-
-05/09/2025
+**First published:** 05/09/2025
 
 [View](/sl/documents/all-authorised-presentations/nintedanib-viatris-epar-all-authorised-presentations_sl.pdf)
 
 Suomi (FI) (15.22 KB - PDF)
 
-**First published:**
-
-05/09/2025
+**First published:** 05/09/2025
 
 [View](/fi/documents/all-authorised-presentations/nintedanib-viatris-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (68.05 KB - PDF)
 
-**First published:**
-
-05/09/2025
+**First published:** 05/09/2025
 
 [View](/sv/documents/all-authorised-presentations/nintedanib-viatris-epar-all-authorised-presentations_sv.pdf)
 
 ## Product details
 
-Name of medicine Nintedanib Viatris Active substance nintedanib International non-proprietary name (INN) or common name nintedanib Therapeutic area (MeSH)
+Name of medicine
+
+Nintedanib Viatris
+
+Active substance
+
+nintedanib
+
+International non-proprietary name (INN) or common name
+
+nintedanib
+
+Therapeutic area (MeSH)
 
 - Idiopathic Pulmonary Fibrosis
 - Lung Diseases, Interstitial
 - Pulmonary Fibrosis
 
-Anatomical therapeutic chemical (ATC) code L01EX09
+Anatomical therapeutic chemical (ATC) code
+
+L01EX09
 
 ### Pharmacotherapeutic group
 
@@ -738,7 +692,9 @@ Nintedanib Viatris is indicated in adults, adolescents and children aged 6 years
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/006486
+EMA product number
+
+EMEA/H/C/006486
 
 Generic
 
@@ -748,19 +704,41 @@ Marketing authorisation holder
 
 Viatris Limited
 
-Damastown Industrial Park Mulhuddart Dublin 15 Ireland
+Damastown Industrial Park Dublin 15 Ireland
 
-Opinion adopted 19/06/2025 Marketing authorisation issued 22/08/2025
+Opinion adopted
+
+19/06/2025
+
+Marketing authorisation issued
+
+22/08/2025
+
+Revision
+
+1
 
 ## Assessment history
+
+Expand section
+
+Collapse section
+
+## Changes since initial authorisation of medicine
+
+Nintedanib Viatris : EPAR - Procedural steps taken and scientific information after authorisation
+
+English (EN) (142 KB - PDF)
+
+**First published:** 08/05/2026
+
+[View](/en/documents/procedural-steps-after/nintedanib-viatris-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
 ## Initial marketing authorisation documents
 
 Nintedanib Viatris : EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/212977/2025
+Adopted Reference Number: EMA/212977/2025
 
 English (EN) (508.88 KB - PDF)
 
@@ -770,9 +748,7 @@ English (EN) (508.88 KB - PDF)
 
 CHMP summary of positive opinion for Nintedanib Viatris
 
-Adopted
-
-Reference Number: EMA/CHMP/156564/2025
+Adopted Reference Number: EMA/CHMP/156564/2025
 
 English (EN) (94.5 KB - PDF)
 
@@ -780,12 +756,14 @@ English (EN) (94.5 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-nintedanib-viatris_en.pdf)
 
-#### News on Nintedanib Viatris
+## News on Nintedanib Viatris
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 16-19 June 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-16-19-june-2025) 20/06/2025
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 16-19 June 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-16-19-june-2025)
 
-**This page was last updated on** 05/09/2025
+20/06/2025
+
+**This page was last updated on**
+
+08/05/2026
 
 ## Share this page
-
-[Back to top](#main-content)

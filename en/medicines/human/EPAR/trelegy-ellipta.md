@@ -4,8 +4,8 @@ document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/trelegy-ellipta.html
 document_name: trelegy-ellipta.html
 version: success
-processing_time: 0.1323575
-conversion_datetime: 2026-05-10 13:23:37.622777
+processing_time: 0.1370908
+conversion_datetime: 2026-05-10 13:25:08.634648
 docling_version:
   docling-serve: 1.17.0
   docling-jobkit: 1.18.0

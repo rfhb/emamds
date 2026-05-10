@@ -4,8 +4,8 @@ document_pages: 3
 document_pathfilename: www.ema.europa.eu/en/documents/procedural-steps-after/olanzapine-glenmark-europe-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
 document_name: olanzapine-glenmark-europe-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
 version: success
-processing_time: 1.8656998
-conversion_datetime: 2026-05-10 13:10:55.076686
+processing_time: 1.9598134
+conversion_datetime: 2026-05-10 13:24:17.224323
 docling_version:
   docling-serve: 1.17.0
   docling-jobkit: 1.18.0

@@ -1,32 +1,108 @@
 ---
-document_datetime: 2025-12-29 12:47:40
+document_datetime: 2026-05-08 14:30:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/bylvay.html
 document_name: bylvay.html
 version: success
-processing_time: 0.1377603
-conversion_datetime: 2025-12-30 09:49:58.758806
+processing_time: 0.1327794
+conversion_datetime: 2026-05-10 13:10:19.909179
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.17.0
+  docling-jobkit: 1.18.0
+  docling: 2.92.0
+  docling-core: 2.74.1
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.10.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
+# Search
+
+- [Medicines](/en/medicines)
+    - [Find medicine](/en/medicines)
+    - [Therapeutic areas: latest updates](/en/medicines/therapeutic-areas-latest-updates)
+    - [Download medicine data](/en/medicines/download-medicine-data)
+    - [What we publish on medicines and when](/en/medicines/what-we-publish-medicines-when)
+    - [Medicines under evaluation](/en/medicines/medicines-human-use-under-evaluation)
+    - [National registers](/en/medicines/national-registers-authorised-medicines)
+- [Human regulatory](/en/human-regulatory-overview)
+    - [Overview](/en/human-regulatory-overview)
+    - [Research and development](/en/human-regulatory-overview/research-development)
+    - [Marketing authorisation](/en/human-regulatory-overview/marketing-authorisation)
+    - [Post-authorisation](/en/human-regulatory-overview/post-authorisation)
+    - [Medical devices](/en/human-regulatory-overview/medical-devices)
+    - [Herbal products](/en/human-regulatory-overview/herbal-medicinal-products)
+- [Veterinary regulatory](/en/veterinary-regulatory-overview)
+    - [Overview](/en/veterinary-regulatory-overview)
+    - [Research and development](/en/veterinary-regulatory-overview/research-development-veterinary-medicines)
+    - [Marketing authorisation](/en/veterinary-regulatory-overview/marketing-authorisation-veterinary-medicines)
+    - [Post-authorisation](/en/veterinary-regulatory-overview/post-authorisation-veterinary-medicines)
+- [Committees](/en/committees)
+    - [Overview](/en/committees)
+    - [How the committees work](/en/committees/how-committees-work)
+    - [CHMP](/en/committees/committee-medicinal-products-human-use-chmp)
+    - [CVMP](/en/committees/committee-veterinary-medicinal-products-cvmp)
+    - [PRAC](/en/committees/pharmacovigilance-risk-assessment-committee-prac)
+    - [COMP](/en/committees/committee-orphan-medicinal-products-comp)
+    - [HMPC](/en/committees/committee-herbal-medicinal-products-hmpc)
+    - [CAT](/en/committees/committee-advanced-therapies-cat)
+    - [PDCO](/en/committees/paediatric-committee-pdco)
+    - [Working parties and other groups](/en/committees/working-parties-other-groups)
+- [News &amp; events](/en/news-events)
+    - [Overview](/en/news-events)
+    - [News](/en/news)
+    - [Events](/en/events/upcoming-events)
+    - [What's new](/en/news-events/whats-new)
+    - [Committee highlights](/en/news-events/committee-highlights)
+    - [Publications](/en/news-and-events/publications)
+    - [Press and social media](/en/news-events/press-social-media)
+    - [Podcast: Inside EMA](/en/news-events/podcast-inside-ema)
+    - [EMA Campaigns](/en/news-events/ema-campaigns)
+    - [Open consultations](/en/news-events/open-consultations)
+    - [RSS feeds](/en/news-events/rss-feeds)
+- [Partners &amp; networks](/en/partners-networks)
+    - [Overview](/en/partners-networks)
+    - [EU partners](/en/partners-networks/eu-partners)
+    - [International activities](/en/partners-networks/international-activities)
+    - [Patients and consumers](/en/partners-networks/patients-consumers)
+    - [Healthcare professionals](/en/partners-networks/healthcare-professionals)
+    - [Academia](/en/partners-networks/academia)
+    - [Pharmaceutical industry](/en/partners-networks/pharmaceutical-industry)
+    - [Networks](/en/partners-networks/networks)
+    - [Health technology assessment bodies](/en/partners-networks/health-technology-assessment-bodies)
+    - [One Health approach](/en/partners-networks/one-health-approach)
+    - [Animal health practitioners](/en/partners-networks/animal-health-practitioners)
+    - [One substance - one assessment](/en/partners-networks/one-substance-one-assessment-osoa-eu-collaboration-chemicals-related-data)
+- [About us](/en/about-us)
+    - [Overview](/en/about-us)
+    - [What we do](/en/about-us/what-we-do)
+    - [Who we are](/en/about-us/who-we-are)
+    - [How we work](/en/about-us/how-we-work)
+    - [Fees](/en/about-us/fees-payable-european-medicines-agency)
+    - [Support to SMEs](/en/about-us/support-smes)
+    - [Annual reports and work programmes](/en/about-us/annual-reports-work-programmes)
+    - [History of EMA](/en/about-us/history-ema)
+    - [Careers](/en/about-us/careers)
+    - [Procurement](/en/about-us/procurement-grants)
+    - [About this website](/en/about-us/about-website)
+    - [Data protection and privacy](/en/about-us/data-protection-privacy-ema)
+    - [Contacts](/en/about-us/contacts-european-medicines-agency)
+
+1. [Home](/en/homepage)
+2. [Medicines](https://www.ema.europa.eu/en/medicines)
+3. Bylvay
+
 # Bylvay
 
 [RSS](/en/individual-human-medicine.xml/67447)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-odevixibat Medicine Human Authorised
+odevixibat
 
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
+Medicine Human Authorised
 
 Page contents
 
@@ -106,181 +182,137 @@ English (EN) (110.54 KB - PDF)
 
 [View](/en/documents/overview/bylvay-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-615)
+[Other languages (22)](#file-language-dropdown-697)
 
 български (BG) (134.55 KB - PDF)
 
-**First published:**
-
-28/07/2021
+**First published:** 28/07/2021
 
 [View](/bg/documents/overview/bylvay-epar-medicine-overview_bg.pdf)
 
 español (ES) (111.27 KB - PDF)
 
-**First published:**
-
-28/07/2021
+**First published:** 28/07/2021
 
 [View](/es/documents/overview/bylvay-epar-medicine-overview_es.pdf)
 
 čeština (CS) (133.86 KB - PDF)
 
-**First published:**
-
-28/07/2021
+**First published:** 28/07/2021
 
 [View](/cs/documents/overview/bylvay-epar-medicine-overview_cs.pdf)
 
 dansk (DA) (109.93 KB - PDF)
 
-**First published:**
-
-28/07/2021
+**First published:** 28/07/2021
 
 [View](/da/documents/overview/bylvay-epar-medicine-overview_da.pdf)
 
 Deutsch (DE) (114.31 KB - PDF)
 
-**First published:**
-
-28/07/2021
+**First published:** 28/07/2021
 
 [View](/de/documents/overview/bylvay-epar-medicine-overview_de.pdf)
 
 eesti keel (ET) (99.2 KB - PDF)
 
-**First published:**
-
-28/07/2021
+**First published:** 28/07/2021
 
 [View](/et/documents/overview/bylvay-epar-medicine-overview_et.pdf)
 
 ελληνικά (EL) (136.23 KB - PDF)
 
-**First published:**
-
-28/07/2021
+**First published:** 28/07/2021
 
 [View](/el/documents/overview/bylvay-epar-medicine-overview_el.pdf)
 
 français (FR) (114.21 KB - PDF)
 
-**First published:**
-
-28/07/2021
+**First published:** 28/07/2021
 
 [View](/fr/documents/overview/bylvay-epar-medicine-overview_fr.pdf)
 
 hrvatski (HR) (132.05 KB - PDF)
 
-**First published:**
-
-28/07/2021
+**First published:** 28/07/2021
 
 [View](/hr/documents/overview/bylvay-epar-medicine-overview_hr.pdf)
 
 italiano (IT) (109.47 KB - PDF)
 
-**First published:**
-
-28/07/2021
+**First published:** 28/07/2021
 
 [View](/it/documents/overview/bylvay-epar-medicine-overview_it.pdf)
 
 latviešu valoda (LV) (148.3 KB - PDF)
 
-**First published:**
-
-28/07/2021
+**First published:** 28/07/2021
 
 [View](/lv/documents/overview/bylvay-epar-medicine-overview_lv.pdf)
 
 lietuvių kalba (LT) (133.54 KB - PDF)
 
-**First published:**
-
-28/07/2021
+**First published:** 28/07/2021
 
 [View](/lt/documents/overview/bylvay-epar-medicine-overview_lt.pdf)
 
 magyar (HU) (133.51 KB - PDF)
 
-**First published:**
-
-28/07/2021
+**First published:** 28/07/2021
 
 [View](/hu/documents/overview/bylvay-epar-medicine-overview_hu.pdf)
 
 Malti (MT) (134.7 KB - PDF)
 
-**First published:**
-
-28/07/2021
+**First published:** 28/07/2021
 
 [View](/mt/documents/overview/bylvay-epar-medicine-overview_mt.pdf)
 
 Nederlands (NL) (110.95 KB - PDF)
 
-**First published:**
-
-28/07/2021
+**First published:** 28/07/2021
 
 [View](/nl/documents/overview/bylvay-epar-medicine-overview_nl.pdf)
 
 polski (PL) (136.57 KB - PDF)
 
-**First published:**
-
-28/07/2021
+**First published:** 28/07/2021
 
 [View](/pl/documents/overview/bylvay-epar-medicine-overview_pl.pdf)
 
 português (PT) (110.36 KB - PDF)
 
-**First published:**
-
-28/07/2021
+**First published:** 28/07/2021
 
 [View](/pt/documents/overview/bylvay-epar-medicine-overview_pt.pdf)
 
 română (RO) (131.4 KB - PDF)
 
-**First published:**
-
-28/07/2021
+**First published:** 28/07/2021
 
 [View](/ro/documents/overview/bylvay-epar-medicine-overview_ro.pdf)
 
 slovenčina (SK) (132.62 KB - PDF)
 
-**First published:**
-
-28/07/2021
+**First published:** 28/07/2021
 
 [View](/sk/documents/overview/bylvay-epar-medicine-overview_sk.pdf)
 
 slovenščina (SL) (133.6 KB - PDF)
 
-**First published:**
-
-28/07/2021
+**First published:** 28/07/2021
 
 [View](/sl/documents/overview/bylvay-epar-medicine-overview_sl.pdf)
 
 Suomi (FI) (108.7 KB - PDF)
 
-**First published:**
-
-28/07/2021
+**First published:** 28/07/2021
 
 [View](/fi/documents/overview/bylvay-epar-medicine-overview_fi.pdf)
 
 svenska (SV) (109 KB - PDF)
 
-**First published:**
-
-28/07/2021
+**First published:** 28/07/2021
 
 [View](/sv/documents/overview/bylvay-epar-medicine-overview_sv.pdf)
 
@@ -288,9 +320,7 @@ Bylvay : EPAR - Risk management plan
 
 English (EN) (2.96 MB - PDF)
 
-**First published:** 19/05/2025
-
-**Last updated:** 11/07/2025
+**First published:** 19/05/2025 **Last updated:** 11/07/2025
 
 [View](/en/documents/rmp/bylvay-epar-risk-management-plan_en.pdf)
 
@@ -298,305 +328,161 @@ English (EN) (2.96 MB - PDF)
 
 Bylvay : EPAR - Product information
 
-English (EN) (996.25 KB - PDF)
+English (EN) (737.42 KB - PDF)
 
-**First published:** 28/07/2021
-
-**Last updated:** 06/06/2025
+**First published:** 28/07/2021 **Last updated:** 08/05/2026
 
 [View](/en/documents/product-information/bylvay-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-199)
+[Other languages (24)](#file-language-dropdown-949)
 
-български (BG) (1.14 MB - PDF)
+български (BG) (734.28 KB - PDF)
 
-**First published:**
-
-28/07/2021
-
-**Last updated:**
-
-06/06/2025
+**First published:** 28/07/2021 **Last updated:** 06/06/2025
 
 [View](/bg/documents/product-information/bylvay-epar-product-information_bg.pdf)
 
-español (ES) (1.04 MB - PDF)
+español (ES) (685.56 KB - PDF)
 
-**First published:**
-
-28/07/2021
-
-**Last updated:**
-
-06/06/2025
+**First published:** 28/07/2021 **Last updated:** 06/06/2025
 
 [View](/es/documents/product-information/bylvay-epar-product-information_es.pdf)
 
 čeština (CS) (1.09 MB - PDF)
 
-**First published:**
-
-28/07/2021
-
-**Last updated:**
-
-06/06/2025
+**First published:** 28/07/2021 **Last updated:** 06/06/2025
 
 [View](/cs/documents/product-information/bylvay-epar-product-information_cs.pdf)
 
-dansk (DA) (1006.91 KB - PDF)
+dansk (DA) (669.18 KB - PDF)
 
-**First published:**
-
-28/07/2021
-
-**Last updated:**
-
-06/06/2025
+**First published:** 28/07/2021 **Last updated:** 06/06/2025
 
 [View](/da/documents/product-information/bylvay-epar-product-information_da.pdf)
 
-Deutsch (DE) (1.02 MB - PDF)
+Deutsch (DE) (668.37 KB - PDF)
 
-**First published:**
-
-28/07/2021
-
-**Last updated:**
-
-06/06/2025
+**First published:** 28/07/2021 **Last updated:** 06/06/2025
 
 [View](/de/documents/product-information/bylvay-epar-product-information_de.pdf)
 
-eesti keel (ET) (982.1 KB - PDF)
+eesti keel (ET) (590.25 KB - PDF)
 
-**First published:**
-
-28/07/2021
-
-**Last updated:**
-
-06/06/2025
+**First published:** 28/07/2021 **Last updated:** 06/06/2025
 
 [View](/et/documents/product-information/bylvay-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.13 MB - PDF)
+ελληνικά (EL) (858.06 KB - PDF)
 
-**First published:**
-
-28/07/2021
-
-**Last updated:**
-
-06/06/2025
+**First published:** 28/07/2021 **Last updated:** 06/06/2025
 
 [View](/el/documents/product-information/bylvay-epar-product-information_el.pdf)
 
-français (FR) (1.02 MB - PDF)
+français (FR) (686.94 KB - PDF)
 
-**First published:**
-
-28/07/2021
-
-**Last updated:**
-
-06/06/2025
+**First published:** 28/07/2021 **Last updated:** 06/06/2025
 
 [View](/fr/documents/product-information/bylvay-epar-product-information_fr.pdf)
 
-hrvatski (HR) (1.11 MB - PDF)
+hrvatski (HR) (816.06 KB - PDF)
 
-**First published:**
-
-28/07/2021
-
-**Last updated:**
-
-06/06/2025
+**First published:** 28/07/2021 **Last updated:** 06/06/2025
 
 [View](/hr/documents/product-information/bylvay-epar-product-information_hr.pdf)
 
-íslenska (IS) (984.86 KB - PDF)
+íslenska (IS) (626.08 KB - PDF)
 
-**First published:**
-
-28/07/2021
-
-**Last updated:**
-
-06/06/2025
+**First published:** 28/07/2021 **Last updated:** 06/06/2025
 
 [View](/is/documents/product-information/bylvay-epar-product-information_is.pdf)
 
-italiano (IT) (1001.75 KB - PDF)
+italiano (IT) (779.13 KB - PDF)
 
-**First published:**
-
-28/07/2021
-
-**Last updated:**
-
-06/06/2025
+**First published:** 28/07/2021 **Last updated:** 06/06/2025
 
 [View](/it/documents/product-information/bylvay-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (1.08 MB - PDF)
+latviešu valoda (LV) (679.43 KB - PDF)
 
-**First published:**
-
-28/07/2021
-
-**Last updated:**
-
-06/06/2025
+**First published:** 28/07/2021 **Last updated:** 06/06/2025
 
 [View](/lv/documents/product-information/bylvay-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (1.1 MB - PDF)
+lietuvių kalba (LT) (725.57 KB - PDF)
 
-**First published:**
-
-28/07/2021
-
-**Last updated:**
-
-06/06/2025
+**First published:** 28/07/2021 **Last updated:** 06/06/2025
 
 [View](/lt/documents/product-information/bylvay-epar-product-information_lt.pdf)
 
-magyar (HU) (1.1 MB - PDF)
+magyar (HU) (699.01 KB - PDF)
 
-**First published:**
-
-28/07/2021
-
-**Last updated:**
-
-06/06/2025
+**First published:** 28/07/2021 **Last updated:** 06/06/2025
 
 [View](/hu/documents/product-information/bylvay-epar-product-information_hu.pdf)
 
-Malti (MT) (1.12 MB - PDF)
+Malti (MT) (733.56 KB - PDF)
 
-**First published:**
-
-28/07/2021
-
-**Last updated:**
-
-06/06/2025
+**First published:** 28/07/2021 **Last updated:** 06/06/2025
 
 [View](/mt/documents/product-information/bylvay-epar-product-information_mt.pdf)
 
-Nederlands (NL) (1021.92 KB - PDF)
+Nederlands (NL) (682.32 KB - PDF)
 
-**First published:**
-
-28/07/2021
-
-**Last updated:**
-
-06/06/2025
+**First published:** 28/07/2021 **Last updated:** 06/06/2025
 
 [View](/nl/documents/product-information/bylvay-epar-product-information_nl.pdf)
 
-norsk (NO) (987.19 KB - PDF)
+norsk (NO) (634 KB - PDF)
 
-**First published:**
-
-28/07/2021
-
-**Last updated:**
-
-06/06/2025
+**First published:** 28/07/2021 **Last updated:** 06/06/2025
 
 [View](/no/documents/product-information/bylvay-epar-product-information_no.pdf)
 
-polski (PL) (1.12 MB - PDF)
+polski (PL) (843.7 KB - PDF)
 
-**First published:**
-
-28/07/2021
-
-**Last updated:**
-
-06/06/2025
+**First published:** 28/07/2021 **Last updated:** 06/06/2025
 
 [View](/pl/documents/product-information/bylvay-epar-product-information_pl.pdf)
 
-português (PT) (989.16 KB - PDF)
+português (PT) (630.51 KB - PDF)
 
-**First published:**
-
-28/07/2021
-
-**Last updated:**
-
-06/06/2025
+**First published:** 28/07/2021 **Last updated:** 06/06/2025
 
 [View](/pt/documents/product-information/bylvay-epar-product-information_pt.pdf)
 
-română (RO) (1.1 MB - PDF)
+română (RO) (696.08 KB - PDF)
 
-**First published:**
-
-28/07/2021
-
-**Last updated:**
-
-06/06/2025
+**First published:** 28/07/2021 **Last updated:** 06/06/2025
 
 [View](/ro/documents/product-information/bylvay-epar-product-information_ro.pdf)
 
-slovenčina (SK) (1.11 MB - PDF)
+slovenčina (SK) (739 KB - PDF)
 
-**First published:**
-
-28/07/2021
-
-**Last updated:**
-
-06/06/2025
+**First published:** 28/07/2021 **Last updated:** 06/06/2025
 
 [View](/sk/documents/product-information/bylvay-epar-product-information_sk.pdf)
 
 slovenščina (SL) (1.06 MB - PDF)
 
-**First published:**
-
-28/07/2021
-
-**Last updated:**
-
-06/06/2025
+**First published:** 28/07/2021 **Last updated:** 06/06/2025
 
 [View](/sl/documents/product-information/bylvay-epar-product-information_sl.pdf)
 
-Suomi (FI) (982.22 KB - PDF)
+Suomi (FI) (631.11 KB - PDF)
 
-**First published:**
-
-28/07/2021
-
-**Last updated:**
-
-06/06/2025
+**First published:** 28/07/2021 **Last updated:** 06/06/2025
 
 [View](/fi/documents/product-information/bylvay-epar-product-information_fi.pdf)
 
 svenska (SV) (1002.26 KB - PDF)
 
-**First published:**
-
-28/07/2021
-
-**Last updated:**
-
-06/06/2025
+**First published:** 28/07/2021 **Last updated:** 06/06/2025
 
 [View](/sv/documents/product-information/bylvay-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000274069 06/06/2025
+**Latest procedure affecting product information:** R/0000306638
+
+26/03/2026
 
 icon globe
 
@@ -620,203 +506,173 @@ English (EN) (70.52 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/bylvay-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-18)
+[Other languages (24)](#file-language-dropdown-91)
 
 български (BG) (77.29 KB - PDF)
 
-**First published:**
-
-28/07/2021
+**First published:** 28/07/2021
 
 [View](/bg/documents/all-authorised-presentations/bylvay-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (59.37 KB - PDF)
 
-**First published:**
-
-28/07/2021
+**First published:** 28/07/2021
 
 [View](/es/documents/all-authorised-presentations/bylvay-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (74.91 KB - PDF)
 
-**First published:**
-
-28/07/2021
+**First published:** 28/07/2021
 
 [View](/cs/documents/all-authorised-presentations/bylvay-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (60.41 KB - PDF)
 
-**First published:**
-
-28/07/2021
+**First published:** 28/07/2021
 
 [View](/da/documents/all-authorised-presentations/bylvay-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (61.44 KB - PDF)
 
-**First published:**
-
-28/07/2021
+**First published:** 28/07/2021
 
 [View](/de/documents/all-authorised-presentations/bylvay-epar-all-authorised-presentations_de.pdf)
 
 eesti keel (ET) (60.35 KB - PDF)
 
-**First published:**
-
-28/07/2021
+**First published:** 28/07/2021
 
 [View](/et/documents/all-authorised-presentations/bylvay-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (76.87 KB - PDF)
 
-**First published:**
-
-28/07/2021
+**First published:** 28/07/2021
 
 [View](/el/documents/all-authorised-presentations/bylvay-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (60.04 KB - PDF)
 
-**First published:**
-
-28/07/2021
+**First published:** 28/07/2021
 
 [View](/fr/documents/all-authorised-presentations/bylvay-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (76.71 KB - PDF)
 
-**First published:**
-
-28/07/2021
+**First published:** 28/07/2021
 
 [View](/hr/documents/all-authorised-presentations/bylvay-epar-all-authorised-presentations_hr.pdf)
 
 íslenska (IS) (64.93 KB - PDF)
 
-**First published:**
-
-28/07/2021
+**First published:** 28/07/2021
 
 [View](/is/documents/all-authorised-presentations/bylvay-epar-all-authorised-presentations_is.pdf)
 
 italiano (IT) (60.24 KB - PDF)
 
-**First published:**
-
-28/07/2021
+**First published:** 28/07/2021
 
 [View](/it/documents/all-authorised-presentations/bylvay-epar-all-authorised-presentations_it.pdf)
 
 latviešu valoda (LV) (76.27 KB - PDF)
 
-**First published:**
-
-28/07/2021
+**First published:** 28/07/2021
 
 [View](/lv/documents/all-authorised-presentations/bylvay-epar-all-authorised-presentations_lv.pdf)
 
 lietuvių kalba (LT) (78.31 KB - PDF)
 
-**First published:**
-
-28/07/2021
+**First published:** 28/07/2021
 
 [View](/lt/documents/all-authorised-presentations/bylvay-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (77.51 KB - PDF)
 
-**First published:**
-
-28/07/2021
+**First published:** 28/07/2021
 
 [View](/hu/documents/all-authorised-presentations/bylvay-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (77.35 KB - PDF)
 
-**First published:**
-
-28/07/2021
+**First published:** 28/07/2021
 
 [View](/mt/documents/all-authorised-presentations/bylvay-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (60.59 KB - PDF)
 
-**First published:**
-
-28/07/2021
+**First published:** 28/07/2021
 
 [View](/nl/documents/all-authorised-presentations/bylvay-epar-all-authorised-presentations_nl.pdf)
 
 norsk (NO) (93.48 KB - PDF)
 
-**First published:**
-
-28/07/2021
+**First published:** 28/07/2021
 
 [View](/no/documents/all-authorised-presentations/bylvay-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (78.03 KB - PDF)
 
-**First published:**
-
-28/07/2021
+**First published:** 28/07/2021
 
 [View](/pl/documents/all-authorised-presentations/bylvay-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (59.9 KB - PDF)
 
-**First published:**
-
-28/07/2021
+**First published:** 28/07/2021
 
 [View](/pt/documents/all-authorised-presentations/bylvay-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (75.18 KB - PDF)
 
-**First published:**
-
-28/07/2021
+**First published:** 28/07/2021
 
 [View](/ro/documents/all-authorised-presentations/bylvay-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (76.89 KB - PDF)
 
-**First published:**
-
-28/07/2021
+**First published:** 28/07/2021
 
 [View](/sk/documents/all-authorised-presentations/bylvay-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (68.71 KB - PDF)
 
-**First published:**
-
-28/07/2021
+**First published:** 28/07/2021
 
 [View](/sl/documents/all-authorised-presentations/bylvay-epar-all-authorised-presentations_sl.pdf)
 
 Suomi (FI) (58.93 KB - PDF)
 
-**First published:**
-
-28/07/2021
+**First published:** 28/07/2021
 
 [View](/fi/documents/all-authorised-presentations/bylvay-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (60.11 KB - PDF)
 
-**First published:**
-
-28/07/2021
+**First published:** 28/07/2021
 
 [View](/sv/documents/all-authorised-presentations/bylvay-epar-all-authorised-presentations_sv.pdf)
 
 ## Product details
 
-Name of medicine Bylvay Active substance odevixibat International non-proprietary name (INN) or common name odevixibat Therapeutic area (MeSH) Cholestasis, Intrahepatic Anatomical therapeutic chemical (ATC) code A05AX
+Name of medicine
+
+Bylvay
+
+Active substance
+
+odevixibat
+
+International non-proprietary name (INN) or common name
+
+odevixibat
+
+Therapeutic area (MeSH)
+
+Cholestasis, Intrahepatic
+
+Anatomical therapeutic chemical (ATC) code
+
+A05AX
 
 ### Pharmacotherapeutic group
 
@@ -828,7 +684,9 @@ Bylvay is indicated for the treatment of progressive familial intrahepatic chole
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/004691
+EMA product number
+
+EMEA/H/C/004691
 
 Accelerated assessment
 
@@ -850,9 +708,19 @@ Marketing authorisation holder
 
 Ipsen Pharma
 
-65 Quai Georges Gorse
+70 rue Balard 75015 Paris France
 
-Opinion adopted 20/05/2021 Marketing authorisation issued 16/07/2021 Revision 11
+Opinion adopted
+
+20/05/2021
+
+Marketing authorisation issued
+
+16/07/2021
+
+Revision
+
+12
 
 ## Assessment history
 
@@ -864,11 +732,9 @@ Collapse section
 
 Bylvay : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (147.28 KB - PDF)
+English (EN) (164.4 KB - PDF)
 
-**First published:** 10/04/2025
-
-**Last updated:** 11/07/2025
+**First published:** 10/04/2025 **Last updated:** 08/05/2026
 
 [View](/en/documents/procedural-steps-after/bylvay-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -876,9 +742,7 @@ Bylvay : EPAR - Procedural steps taken and scientific information after authoris
 
 English (EN) (155.31 KB - PDF)
 
-**First published:** 31/05/2022
-
-**Last updated:** 19/05/2025
+**First published:** 31/05/2022 **Last updated:** 19/05/2025
 
 [View](/en/documents/procedural-steps-after/bylvay-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
@@ -904,9 +768,7 @@ English (EN) (1.74 MB - PDF)
 
 Bylvay-H-C- PSUSA-00010949-202401: Scientific conclusions and grounds for the variation to the terms of the marketing authorisation(s)
 
-Adopted
-
-Reference Number: EMA/440110/2024
+Adopted Reference Number: EMA/440110/2024
 
 English (EN) (133.57 KB - PDF)
 
@@ -916,9 +778,7 @@ English (EN) (133.57 KB - PDF)
 
 Bylvay : Orphan maintenance assessment report (post authorisation) (II-11)
 
-Adopted
-
-Reference Number: EMA/OD/0000123138
+Adopted Reference Number: EMA/OD/0000123138
 
 English (EN) (1.27 MB - PDF)
 
@@ -940,9 +800,7 @@ English (EN) (133.51 KB - PDF)
 
 Bylvay : Orphan maintenance assessment report (initial authorisation)
 
-Adopted
-
-Reference Number: EMADOC-1700519818-685594
+Adopted Reference Number: EMADOC-1700519818-685594
 
 English (EN) (519.6 KB - PDF)
 
@@ -952,9 +810,7 @@ English (EN) (519.6 KB - PDF)
 
 Bylvay : EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/319560/2021
+Adopted Reference Number: EMA/319560/2021
 
 English (EN) (3.19 MB - PDF)
 
@@ -964,9 +820,7 @@ English (EN) (3.19 MB - PDF)
 
 CHMP summary of positive opinion for Bylvay
 
-Adopted
-
-Reference Number: EMA/CHMP/273563/2021
+Adopted Reference Number: EMA/CHMP/273563/2021
 
 English (EN) (143.74 KB - PDF)
 
@@ -974,236 +828,197 @@ English (EN) (143.74 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-bylvay_en.pdf)
 
-#### News on Bylvay
+## News on Bylvay
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 6-9 November 2023](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-6-9-november-2023) 10/11/2023
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 6-9 November 2023](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-6-9-november-2023)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 17-20 July 2023](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-17-20-july-2023) 21/07/2023
+10/11/2023
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 17-20 May 2021](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-17-20-may-2021) 21/05/2021
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 17-20 July 2023](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-17-20-july-2023)
 
-[First treatment for rare liver disease](/en/news/first-treatment-rare-liver-disease) 21/05/2021
+21/07/2023
 
-#### Product information - with tracked changes
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 17-20 May 2021](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-17-20-may-2021)
+
+21/05/2021
+
+[First treatment for rare liver disease](/en/news/first-treatment-rare-liver-disease)
+
+21/05/2021
+
+## Product information - with tracked changes
 
 The approved product information for this medicine is available below showing the changes since the previous procedure affecting the product information. The same document without tracked changes is above under 'Product information'.
 
 Bylvay : EPAR - Product information - tracked changes
 
-English (EN) (567.01 KB - DOCX)
+English (EN) (525.24 KB - DOCX)
 
-**First published:** 19/05/2025
+**First published:** 19/05/2025 **Last updated:** 08/05/2026
 
 [View](/en/documents/product-information-tracked-changes/bylvay-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-512)
+[Other languages (24)](#file-language-dropdown-119)
 
-български (BG) (533.2 KB - DOCX)
+български (BG) (518.97 KB - DOCX)
 
-**First published:**
-
-19/05/2025
+**First published:** 19/05/2025 **Last updated:** 08/05/2026
 
 [View](/bg/documents/product-information-tracked-changes/bylvay-epar-product-information-tracked-changes_bg.docx)
 
-español (ES) (558.85 KB - DOCX)
+español (ES) (695.18 KB - DOCX)
 
-**First published:**
-
-19/05/2025
+**First published:** 19/05/2025 **Last updated:** 08/05/2026
 
 [View](/es/documents/product-information-tracked-changes/bylvay-epar-product-information-tracked-changes_es.docx)
 
-čeština (CS) (536.48 KB - DOCX)
+čeština (CS) (532.57 KB - DOCX)
 
-**First published:**
-
-19/05/2025
+**First published:** 19/05/2025 **Last updated:** 08/05/2026
 
 [View](/cs/documents/product-information-tracked-changes/bylvay-epar-product-information-tracked-changes_cs.docx)
 
-dansk (DA) (518.43 KB - DOCX)
+dansk (DA) (505.11 KB - DOCX)
 
-**First published:**
-
-19/05/2025
+**First published:** 19/05/2025 **Last updated:** 08/05/2026
 
 [View](/da/documents/product-information-tracked-changes/bylvay-epar-product-information-tracked-changes_da.docx)
 
-Deutsch (DE) (537.67 KB - DOCX)
+Deutsch (DE) (522.34 KB - DOCX)
 
-**First published:**
-
-19/05/2025
+**First published:** 19/05/2025 **Last updated:** 08/05/2026
 
 [View](/de/documents/product-information-tracked-changes/bylvay-epar-product-information-tracked-changes_de.docx)
 
-eesti keel (ET) (522.13 KB - DOCX)
+eesti keel (ET) (505.7 KB - DOCX)
 
-**First published:**
-
-19/05/2025
+**First published:** 19/05/2025 **Last updated:** 08/05/2026
 
 [View](/et/documents/product-information-tracked-changes/bylvay-epar-product-information-tracked-changes_et.docx)
 
-ελληνικά (EL) (492.67 KB - DOCX)
+ελληνικά (EL) (480.88 KB - DOCX)
 
-**First published:**
-
-19/05/2025
+**First published:** 19/05/2025 **Last updated:** 08/05/2026
 
 [View](/el/documents/product-information-tracked-changes/bylvay-epar-product-information-tracked-changes_el.docx)
 
-français (FR) (526.3 KB - DOCX)
+français (FR) (516.92 KB - DOCX)
 
-**First published:**
-
-19/05/2025
+**First published:** 19/05/2025 **Last updated:** 08/05/2026
 
 [View](/fr/documents/product-information-tracked-changes/bylvay-epar-product-information-tracked-changes_fr.docx)
 
-hrvatski (HR) (566.49 KB - DOCX)
+hrvatski (HR) (527.82 KB - DOCX)
 
-**First published:**
-
-19/05/2025
+**First published:** 19/05/2025 **Last updated:** 08/05/2026
 
 [View](/hr/documents/product-information-tracked-changes/bylvay-epar-product-information-tracked-changes_hr.docx)
 
-íslenska (IS) (535.76 KB - DOCX)
+íslenska (IS) (524.05 KB - DOCX)
 
-**First published:**
-
-19/05/2025
+**First published:** 19/05/2025 **Last updated:** 08/05/2026
 
 [View](/is/documents/product-information-tracked-changes/bylvay-epar-product-information-tracked-changes_is.docx)
 
-italiano (IT) (541.96 KB - DOCX)
+italiano (IT) (1.39 MB - DOCX)
 
-**First published:**
-
-19/05/2025
+**First published:** 19/05/2025 **Last updated:** 08/05/2026
 
 [View](/it/documents/product-information-tracked-changes/bylvay-epar-product-information-tracked-changes_it.docx)
 
-latviešu valoda (LV) (529.09 KB - DOCX)
+latviešu valoda (LV) (513.49 KB - DOCX)
 
-**First published:**
-
-19/05/2025
+**First published:** 19/05/2025 **Last updated:** 08/05/2026
 
 [View](/lv/documents/product-information-tracked-changes/bylvay-epar-product-information-tracked-changes_lv.docx)
 
-lietuvių kalba (LT) (498.77 KB - DOCX)
+lietuvių kalba (LT) (506.14 KB - DOCX)
 
-**First published:**
-
-19/05/2025
+**First published:** 19/05/2025 **Last updated:** 08/05/2026
 
 [View](/lt/documents/product-information-tracked-changes/bylvay-epar-product-information-tracked-changes_lt.docx)
 
-magyar (HU) (521.56 KB - DOCX)
+magyar (HU) (510.78 KB - DOCX)
 
-**First published:**
-
-19/05/2025
+**First published:** 19/05/2025 **Last updated:** 08/05/2026
 
 [View](/hu/documents/product-information-tracked-changes/bylvay-epar-product-information-tracked-changes_hu.docx)
 
-Malti (MT) (554.63 KB - DOCX)
+Malti (MT) (540.51 KB - DOCX)
 
-**First published:**
-
-19/05/2025
+**First published:** 19/05/2025 **Last updated:** 08/05/2026
 
 [View](/mt/documents/product-information-tracked-changes/bylvay-epar-product-information-tracked-changes_mt.docx)
 
-Nederlands (NL) (528.51 KB - DOCX)
+Nederlands (NL) (519.93 KB - DOCX)
 
-**First published:**
-
-19/05/2025
+**First published:** 19/05/2025 **Last updated:** 08/05/2026
 
 [View](/nl/documents/product-information-tracked-changes/bylvay-epar-product-information-tracked-changes_nl.docx)
 
-norsk (NO) (597.76 KB - DOCX)
+norsk (NO) (583.29 KB - DOCX)
 
-**First published:**
-
-19/05/2025
+**First published:** 19/05/2025 **Last updated:** 08/05/2026
 
 [View](/no/documents/product-information-tracked-changes/bylvay-epar-product-information-tracked-changes_no.docx)
 
-polski (PL) (535.78 KB - DOCX)
+polski (PL) (523.86 KB - DOCX)
 
-**First published:**
-
-19/05/2025
+**First published:** 19/05/2025 **Last updated:** 08/05/2026
 
 [View](/pl/documents/product-information-tracked-changes/bylvay-epar-product-information-tracked-changes_pl.docx)
 
-português (PT) (523.24 KB - DOCX)
+português (PT) (510.23 KB - DOCX)
 
-**First published:**
-
-19/05/2025
+**First published:** 19/05/2025 **Last updated:** 08/05/2026
 
 [View](/pt/documents/product-information-tracked-changes/bylvay-epar-product-information-tracked-changes_pt.docx)
 
-română (RO) (680.81 KB - DOCX)
+română (RO) (531.56 KB - DOCX)
 
-**First published:**
-
-19/05/2025
+**First published:** 19/05/2025 **Last updated:** 08/05/2026
 
 [View](/ro/documents/product-information-tracked-changes/bylvay-epar-product-information-tracked-changes_ro.docx)
 
-slovenčina (SK) (534.87 KB - DOCX)
+slovenčina (SK) (526.66 KB - DOCX)
 
-**First published:**
-
-19/05/2025
+**First published:** 19/05/2025 **Last updated:** 08/05/2026
 
 [View](/sk/documents/product-information-tracked-changes/bylvay-epar-product-information-tracked-changes_sk.docx)
 
 slovenščina (SL) (525.1 KB - DOCX)
 
-**First published:**
-
-19/05/2025
+**First published:** 19/05/2025 **Last updated:** 08/05/2026
 
 [View](/sl/documents/product-information-tracked-changes/bylvay-epar-product-information-tracked-changes_sl.docx)
 
-Suomi (FI) (523.29 KB - DOCX)
+Suomi (FI) (509.1 KB - DOCX)
 
-**First published:**
-
-19/05/2025
+**First published:** 19/05/2025 **Last updated:** 08/05/2026
 
 [View](/fi/documents/product-information-tracked-changes/bylvay-epar-product-information-tracked-changes_fi.docx)
 
 svenska (SV) (526.58 KB - DOCX)
 
-**First published:**
-
-19/05/2025
+**First published:** 19/05/2025 **Last updated:** 08/05/2026
 
 [View](/sv/documents/product-information-tracked-changes/bylvay-epar-product-information-tracked-changes_sv.docx)
 
-#### More information on Bylvay
+## More information on Bylvay
 
 The orphan designation [EU/3/12/1040](https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-12-1040) was withdrawn from the Union Register of orphan medicinal products by the European Commission in November 2023.
 
-#### More information on Bylvay
+## More information on Bylvay
 
 - [EU/3/12/1028 - orphan designation for treatment of progressive familial intrahepatic cholestasis](/en/medicines/human/orphan-designations/eu-3-12-1028)
+- [EU/3/12/1040 - orphan designation for treatment of Alagille syndrome](/en/medicines/human/orphan-designations/eu-3-12-1040)
 - [EMEA-002054-PIP01-16-M03 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-002054-pip01-16-m03)
 - [Bylvay - withdrawal of application for variation to marketing authorisation](/en/medicines/human/variation/bylvay-0)
-- [Prospective Registry-Based Study of the Long-Term Safety of Odevixibat in Patients with Progressive Familial Intrahepatic Cholestasis (PFIC) - post-authorisation study](https://catalogues.ema.europa.eu/study/106458)
 - [Prospective Registry-Based Study Evaluating the Effectiveness and Safety of Odevixibat in Participants With Alagille Syndrome (ALGS) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000441)
+- [Prospective Registry-Based Study of the Long-Term Safety of Odevixibat in Patients with Progressive Familial Intrahepatic Cholestasis (PFIC) - post-authorisation study](https://catalogues.ema.europa.eu/study/106458)
 
-**This page was last updated on** 11/07/2025
+**This page was last updated on**
+
+08/05/2026
 
 ## Share this page
-
-[Back to top](#main-content)

@@ -1,20 +1,20 @@
 ---
-document_datetime: 2024-09-18 14:57:00
-document_pages: 24
+document_datetime: 2026-05-07 13:54:07
+document_pages: 25
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/comtan-epar-product-information_en.pdf
 document_name: comtan-epar-product-information_en.pdf
 version: success
-processing_time: 4.7905117
-conversion_datetime: 2025-12-20 16:06:54.926539
+processing_time: 5.021234
+conversion_datetime: 2026-05-10 12:42:54.818973
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.17.0
+  docling-jobkit: 1.18.0
+  docling: 2.92.0
+  docling-core: 2.74.1
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.10.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -105,11 +105,9 @@ Neither NMS nor rhabdomyolysis have been reported in association with entacapone
 
 Entacapone therapy should be administered cautiously to patients with ischaemic heart disease.
 
-Because of its mechanism of action, entacapone may interfere with the metabolism of medicinal
+Because of its mechanism of action, entacapone may interfere with the metabolism of medicinal products containing a catechol group and potentiate their action. Thus, entacapone should be administered cautiously to patients being treated with medicinal products metabolised by catechol-Omethyl transferase (COMT), e.g. rimiterole, isoprenaline, adrenaline, noradrenaline, dopamine, dobutamine, alpha-methyldopa, and apomorphine (see also section 4.5).
 
 <div style=\"page-break-after: always\"></div>
-
-products containing a catechol group and potentiate their action. Thus, entacapone should be administered cautiously to patients being treated with medicinal products metabolised by catechol-Omethyl transferase (COMT), e.g. rimiterole, isoprenaline, adrenaline, noradrenaline, dopamine, dobutamine, alpha-methyldopa, and apomorphine (see also section 4.5).
 
 Entacapone is always given as an adjunct to levodopa treatment. Hence, the precautions valid for levodopa treatment should also be taken into account for entacapone treatment. Entacapone increases the bioavailability of levodopa from standard levodopa/benserazide preparations 5-10% more than from standard levodopa/carbidopa preparations. Consequently, adverse dopaminergic reactions may be more frequent when entacapone is added to levodopa/benserazide treatment (see also section 4.8). To reduce levodopa-related dopaminergic adverse reactions, it is often necessary to adjust levodopa dosage within the first days to first weeks after initiating entacapone treatment, according to the clinical condition of the patient (see sections 4.2 and 4.8).
 
@@ -133,11 +131,9 @@ This medicinal product contains 7.3 mg sodium per tablet. The maximum recommende
 
 No interaction of entacapone with carbidopa has been observed with the recommended treatment schedule. Pharmacokinetic interaction with benserazide has not been studied.
 
-In single-dose studies in healthy volunteers, no interactions were observed between entacapone and
+In single-dose studies in healthy volunteers, no interactions were observed between entacapone and imipramine or between entacapone and moclobemide. Similarly, no interactions between entacapone and selegiline were observed in repeated-dose studies in parkinsonian patients. However, the experience of the clinical use of entacapone with several medicinal products, including MAO-A inhibitors, tricyclic antidepressants, noradrenaline reuptake inhibitors such as desipramine, maprotiline and venlafaxine, and medicinal products that are metabolised by COMT (e.g. catecholstructured compounds: rimiterol, isoprenaline, adrenaline, noradrenaline, dopamine, dobutamine, alpha-methyldopa, apomorphine, and paroxetine) is still limited. Caution should be exercised when these medicinal products are used concomitantly with entacapone (see also sections 4.3 and 4.4).
 
 <div style=\"page-break-after: always\"></div>
-
-imipramine or between entacapone and moclobemide. Similarly, no interactions between entacapone and selegiline were observed in repeated-dose studies in parkinsonian patients. However, the experience of the clinical use of entacapone with several medicinal products, including MAO-A inhibitors, tricyclic antidepressants, noradrenaline reuptake inhibitors such as desipramine, maprotiline and venlafaxine, and medicinal products that are metabolised by COMT (e.g. catecholstructured compounds: rimiterol, isoprenaline, adrenaline, noradrenaline, dopamine, dobutamine, alpha-methyldopa, apomorphine, and paroxetine) is still limited. Caution should be exercised when these medicinal products are used concomitantly with entacapone (see also sections 4.3 and 4.4).
 
 Entacapone may be used with selegiline (a selective MAO-B inhibitor), but the daily dose of selegiline should not exceed 10 mg.
 
@@ -185,7 +181,7 @@ Table 1* Adverse drug reactions
 
 | Psychiatric disorders                  | Psychiatric disorders                                                                  |
 |----------------------------------------|----------------------------------------------------------------------------------------|
-| Common: Very rare:                     | Insomnia, hallucinations, confusion, paroniria Agitation                               |
+| Common:                                | Insomnia, hallucinations, confusion, paroniria                                         |
 | Nervous system disorders               | Nervous system disorders                                                               |
 | Very common:                           | Dyskinesia                                                                             |
 | Common:                                | Parkinsonism aggravated, dizziness, dystonia, hyperkinesia                             |
@@ -215,7 +211,7 @@ Table 1* Adverse drug reactions
 | Very rare:                                             | Weight decrease                                        |
 
 * Adverse reactions are ranked under headings of frequency, the most frequent first, using the following convention: Very common (≥1/10); common (≥1/100 to &lt;1/10); uncommon (≥1/1,000 to &lt;1/100); rare (≥1/10,000 to &lt;1/1,000); very rare (&lt;1/10,000), not known (cannot be estimated from the available data, since no valid estimate can be derived from clinical trials or epidemiological studies).
-- ** The incidence rates of myocardial infarction and other ischaemic heart disease events (0.43% and 1.54%, respectively) are derived from an analysis of 13 double-blind studies involving 2,082 patients with end-of-dose motor fluctuations receiving entacapone.
+- ** The incidence rates of myocardial infarction and other ischaemic heart disease events (0.43% and 1.54%, respectively) are derived from an analysis of 13 double-blind studies involving 2,082 patients with end-ofdose motor fluctuations receiving entacapone.
 
 ## Description of selected adverse reactions
 
@@ -243,9 +239,9 @@ Pharmacotherapeutic group: other dopaminergic agents, ATC code: N04BX02.
 
 Entacapone belongs to a new therapeutic class, catechol-O-methyl transferase (COMT) inhibitors. It is a reversible, specific, and mainly peripherally acting COMT inhibitor designed for concomitant administration with levodopa preparations. Entacapone decreases the metabolic loss of levodopa to 3-O-methyldopa (3-OMD) by inhibiting the COMT enzyme. This leads to a higher levodopa AUC. The amount of levodopa available to the brain is increased. Entacapone thus prolongs the clinical response to levodopa.
 
-<div style=\"page-break-after: always\"></div>
-
 Entacapone inhibits the COMT enzyme mainly in peripheral tissues. COMT inhibition in red blood cells closely follows the plasma concentrations of entacapone, thus clearly indicating the reversible nature of COMT inhibition.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Clinical studies
 
@@ -269,7 +265,7 @@ The % change from baseline in OFF time was -24% in the entacapone group and 0% i
 
 ## 5.2 Pharmacokinetic properties
 
-## General characteristics of the active substance
+General characteristics of the active substance
 
 ## Absorption
 
@@ -283,11 +279,11 @@ After absorption from the gastrointestinal tract, entacapone is rapidly distribu
 
 Entacapone is extensively bound to plasma proteins, mainly to albumin. In human plasma the unbound fraction is about 2.0% in the therapeutic concentration range. At therapeutic concentrations, entacapone does not displace other extensively bound substances (e.g. warfarin, salicylic acid, phenylbutazone, or diazepam), nor is it displaced to any significant extent by any of these substances at therapeutic or higher concentrations.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Biotransformation
 
 A small amount of entacapone, the (E) -isomer, is converted to its (Z) -isomer. The (E) -isomer accounts for 95% of the AUC of entacapone. The (Z) -isomer and traces of other metabolites account for the remaining 5%.
+
+<div style=\"page-break-after: always\"></div>
 
 Data from in vitro studies using human liver microsomal preparations indicate that entacapone inhibits cytochrome P450 2C9 (IC50  4 µM). Entacapone showed little or no inhibition of other types of P450 isoenzymes (CYP1A2, CYP2A6, CYP2D6, CYP2E1, CYP3A and CYP2C19) (see section 4.5).
 
@@ -313,11 +309,9 @@ Microcrystalline cellulose Mannitol Croscarmellose sodium Hydrogenated vegetable
 
 ## Film-coating
 
-Hypromellose Polysorbate 80 Glycerol 85% Sucrose Yellow iron oxide (E172) Red iron oxide (E172) Titanium dioxide (E171)
+Hypromellose Polysorbate 80 Glycerol 85% Sucrose Yellow iron oxide (E172) Red iron oxide (E172) Titanium dioxide (E171) Magnesium stearate
 
 <div style=\"page-break-after: always\"></div>
-
-Magnesium stearate
 
 ## 6.2 Incompatibilities
 
@@ -333,7 +327,7 @@ This medicinal product does not require any special storage conditions.
 
 ## 6.5 Nature and contents of container
 
-White high-density polyethylene (HDPE) bottles with white tamper proof polypropylene (PP) closures containing 30, 60 or 100 tablets.
+White high-density polyethylene (HDPE) bottles with white tamper proof polypropylene (PP) closures containing 30, 60, 100 or 175 tablets.
 
 Not all pack sizes may be marketed.
 
@@ -343,15 +337,15 @@ No special requirements for disposal.
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Orion Corporation
+Orion Corporation Orionintie 1
 
 FI-02200 Espoo
 
-Orionintie 1 Finland
+Finland
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/98/081/005-007
+EU/1/98/081/005-008
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -434,6 +428,8 @@ Contains sucrose and sodium.
 
 - 100 film-coated tablets
 
+- 175 film-coated tablets
+
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
 Read the package leaflet before use.
@@ -458,7 +454,7 @@ EXP
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Carton
+## Carton
 
 Orion Corporation
 
@@ -486,6 +482,10 @@ EU/1/98/081/007
 
 60 film-coated tablets
 
+EU/1/98/081/008
+
+175 film-coated tablets
+
 ## 13. BATCH NUMBER
 
 Lot
@@ -504,15 +504,12 @@ Comtan 200 mg [carton only]
 
 2D barcode carrying the unique identifier included.
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+<div style=\"page-break-after: always\"></div>
+
+| 18.   | UNIQUE IDENTIFIER - HUMANREADABLEDATA   |
+|-------|-----------------------------------------|
 
 [carton only]
-
-PC {number}
-
-SN {number}
-
-&lt;NN {number}&gt;
 
 <!-- image -->
 
@@ -609,11 +606,9 @@ Do not drive or operate machinery if you experience these side effects.
 
 ## Comtan contains sucrose and sodium
 
-Comtan tablets contain a sugar called sucrose. If you have been told by your doctor that you have an
+Comtan tablets contain a sugar called sucrose. If you have been told by your doctor that you have an intolerance to some sugars, contact your doctor before taking this medicinal product.
 
 <div style=\"page-break-after: always\"></div>
-
-intolerance to some sugars, contact your doctor before taking this medicinal product.
 
 This medicine contains 7.3 mg sodium (main component of cooking/table salt) in each tablet. The maximum recommended daily dose (10 tablets) contains 73 mg of sodium. This is equivalent to 4% of the recommended maximum daily dietary intake of sodium for an adult.
 
@@ -627,7 +622,11 @@ The recommended dose of Comtan is one 200 mg tablet with each levodopa dose. The
 
 If you are receiving dialysis for renal insufficiency, your doctor may tell you to increase the time between doses.
 
-To open the bottle for the first time: open the closure, and then press with your thumb on the seal until it breaks. See picture 1.
+Picture 1
+
+<!-- image -->
+
+To open the bottle for the first time: open the PP closure, and then tear off the seal using the tear tab. Pull the half-moon-shaped tear tab upward and tear the seal from one side to the other. See picture 1.
 
 ## Use in children and adolescents
 
@@ -651,13 +650,11 @@ When stopping, your doctor may need to re-adjust the dosage of your other medici
 
 If you have any further questions on the use of this medicine, ask your doctor or pharmacist.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 4. Possible side effects
 
 Like all medicines, this medicine can cause side effects, although not everybody gets them. Usually side effects caused by Comtan are mild to moderate.
-
-<!-- image -->
-
-<div style=\"page-break-after: always\"></div>
 
 Some of the side effects are often caused by the increased effects of levodopa therapy and are most common at the start of treatment. If you experience such effects at the start of treatment with Comtan you should contact your doctor who may decide to adjust your dosage of levodopa.
 
@@ -707,9 +704,10 @@ In doses of 1,400 to 2,000 mg per day, the following side effects are more commo
 
 -  Comtan taken with levodopa may rarely make you feel very drowsy during the day, and cause you to suddenly fall asleep;
 -  Neuroleptic Malignant Syndrome (NMS) is a rare severe reaction to medicines used to treat disorders of the nervous system. It is characterised by stiffness, muscle twitching, shaking, agitation, confusion, coma, high body temperature, increased heart rate and unstable blood pressure;
--  a rare severe muscle disorder (rhabdomyolysis) which causes pain, tenderness and weakness of the muscles and may lead to kidney problems.
 
 <div style=\"page-break-after: always\"></div>
+
+-  a rare severe muscle disorder (rhabdomyolysis) which causes pain, tenderness and weakness of the muscles and may lead to kidney problems.
 
 ## You may experience the following side effects:
 
@@ -747,15 +745,15 @@ Do not throw away any medicines via wastewater. Ask your pharmacist how to throw
 
 Comtan 200 mg film-coated tablets are brownish-orange, oval tablets with 'Comtan' engraved on one side. They are packed in bottles.
 
-There are three different pack sizes (bottles containing 30, 60, or 100 tablets). Not all pack sizes may be marketed.
+There are four different pack sizes (bottles containing 30, 60, 100, 175 tablets). Not all pack sizes may be marketed.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Marketing Authorisation Holder
 
 Orion Corporation
 
 Orionintie 1 FI-02200 Espoo Finland
-
-<div style=\"page-break-after: always\"></div>
 
 ## Manufacturer
 
@@ -769,27 +767,19 @@ Orion Pharma BVBA/SPRL Tél/Tel: +32 (0)15 64 10 20
 
 ## България
 
-Orion Corporation
-
-Тел.: +358 10 4261
+Orion Corporation Тел.: +358 10 4261
 
 ## Česká republika
 
-Orion Pharma s.r.o.
-
-Tel: +420 234 703 305
+Orion Pharma s.r.o. Tel: +420 234 703 305
 
 ## Danmark
 
-Orion Corporation
-
-Tlf.: +358 10 4261
+Orion Pharma A/S Tlf.: +45 8614 0000
 
 ## Deutschland
 
-Orion Corporation
-
-Tel: +358 10 4261
+Orion Pharma GmbH Jürgen-Töpfer-Straße 46 22763 Hamburg Tel: +49 40 899 6890
 
 ## Eesti
 
@@ -803,27 +793,17 @@ Orion Pharma Hellas M.E.Π.E Τηλ: +30 210 980 3355
 
 ## España
 
-Orion Pharma S.L.
-
-Tel: +34 91 599 86 01
+Orion Pharma S.L. Tel: +34 91 599 86 01
 
 ## France
 
-Orion Pharma Tél: +33 (0) 1 85 18 00 00
+Orion Pharma
 
-## Hrvatska
-
-Orion Pharma d.o.o. Tel. +386 (0) 1 600 8015
-
-## Ireland
-
-Orion Corporation Tel: +358 10 4261
+Tél: +33 (0) 1 85 18 00 00
 
 ## Lietuva
 
-Orion Corporation
-
-Tel: +358 10 4261
+UAB Orion Pharma Tel: +370 5 276 9499
 
 ## Luxembourg/Luxemburg
 
@@ -831,15 +811,11 @@ Orion Pharma BVBA/SPRL Tél/Tel: +32 (0)15 64 10 20
 
 ## Magyarország
 
-Orion Pharma Kft.
-
-Tel.: +36 1 239 9095
+Orion Pharma Kft. Tel.: +36 1 239 9095
 
 ## Malta
 
-Orion Corporation
-
-Tel: +358 10 4261
+Orion Corporation Tel: +358 10 4261
 
 ## Nederland
 
@@ -849,47 +825,45 @@ Tel: +32 (0)15 64 10 20
 
 ## Norge
 
-Orion Corporation
-
-Tlf: +358 10 4261
+Orion Pharma AS Tlf: +47 40 00 42 10
 
 ## Österreich
 
-Orion Pharma GmbH
-
-Tel: +49 40 899 6890
+Orion Pharma GmbH Tel: +49 40 899 6890
 
 ## Polska
+
+Orion Pharma Poland Sp z o.o.
+
+Tel.: +48 22 8333177
+
+## Portugal
+
+Orionfin Unipessoal Lda
+
+Tel: +351 21 154 68 20
+
+<div style=\"page-break-after: always\"></div>
+
+## Hrvatska
 
 Orion Corporation
 
 Tel.: +358 10 4261
 
-## Portugal
+## Ireland
 
-Orionfin Unipessoal Lda Tel: +351 21 154 68 20
+Orion Pharma (Ireland) Ltd.
 
-## România
+c/o Allphar Services Ltd.
 
-Orion Corporation Tel: +358 10 4261
-
-## Slovenija
-
-Orion Corporation
-
-Tel: +358 10 4261
+Tel: +353 1 428 7777
 
 ## Ísland
 
-Orion Corporation
+Vistor hf.
 
-Sími: +358 10 4261
-
-## Slovenská republika
-
-Orion Pharma s.r.o
-
-Tel: +420 234 703 305
+Sími: +354 535 7000
 
 ## Italia
 
@@ -897,23 +871,11 @@ Orion Pharma S.r.l.
 
 Tel: +39 02 67876111
 
-## Suomi/Finland
-
-Orion Corporation
-
-Puh/Tel: +358 10 4261
-
 ## Κύπρος
 
 Orion Corporation
 
 Τηλ: +358 10 4261
-
-## Sverige
-
-Orion Corporation
-
-Tel: +358 10 4261
 
 ## Latvija
 
@@ -921,10 +883,40 @@ Orion Corporation
 
 Tel: +358 10 4261
 
-<div style=\"page-break-after: always\"></div>
-
 ## This leaflet was last revised in
 
 ## Other sources of information
 
-Detailed information on this medicine is available on the European Medicines Agency website: https://www.ema.europa.eu.
+Detailed information on this medicine is available on the European Medicines Agency website:
+
+[https://www.ema.europa.eu.](https://www.ema.europa.eu/)
+
+## România
+
+Orion Corporation
+
+Tel: +358 10 4261
+
+## Slovenija
+
+Orion Corporation
+
+Tel: +358 10 4261
+
+## Slovenská republika
+
+Orion Pharma s.r.o
+
+Tel: +420 234 703 305
+
+## Suomi/Finland
+
+Orion Corporation
+
+Puh/Tel: +358 10 4261
+
+## Sverige
+
+Orion Pharma AB
+
+Tel: +46 8 623 6440

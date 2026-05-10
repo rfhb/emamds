@@ -1,30 +1,108 @@
 ---
-document_datetime: 2026-01-27 17:00:00
+document_datetime: 2026-05-07 15:10:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/beovu.html
 document_name: beovu.html
 version: success
-processing_time: 0.1227325
-conversion_datetime: 2026-01-29 12:15:18.844301
+processing_time: 0.1146153
+conversion_datetime: 2026-05-10 12:51:04.120728
 docling_version:
-  docling-serve: 1.11.0
-  docling-jobkit: 1.9.0
-  docling: 2.70.0
-  docling-core: 2.61.0
-  docling-ibm-models: 3.11.0
-  docling-parse: 4.7.3
+  docling-serve: 1.17.0
+  docling-jobkit: 1.18.0
+  docling: 2.92.0
+  docling-core: 2.74.1
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.10.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
+# Search
+
+- [Medicines](/en/medicines)
+    - [Find medicine](/en/medicines)
+    - [Therapeutic areas: latest updates](/en/medicines/therapeutic-areas-latest-updates)
+    - [Download medicine data](/en/medicines/download-medicine-data)
+    - [What we publish on medicines and when](/en/medicines/what-we-publish-medicines-when)
+    - [Medicines under evaluation](/en/medicines/medicines-human-use-under-evaluation)
+    - [National registers](/en/medicines/national-registers-authorised-medicines)
+- [Human regulatory](/en/human-regulatory-overview)
+    - [Overview](/en/human-regulatory-overview)
+    - [Research and development](/en/human-regulatory-overview/research-development)
+    - [Marketing authorisation](/en/human-regulatory-overview/marketing-authorisation)
+    - [Post-authorisation](/en/human-regulatory-overview/post-authorisation)
+    - [Medical devices](/en/human-regulatory-overview/medical-devices)
+    - [Herbal products](/en/human-regulatory-overview/herbal-medicinal-products)
+- [Veterinary regulatory](/en/veterinary-regulatory-overview)
+    - [Overview](/en/veterinary-regulatory-overview)
+    - [Research and development](/en/veterinary-regulatory-overview/research-development-veterinary-medicines)
+    - [Marketing authorisation](/en/veterinary-regulatory-overview/marketing-authorisation-veterinary-medicines)
+    - [Post-authorisation](/en/veterinary-regulatory-overview/post-authorisation-veterinary-medicines)
+- [Committees](/en/committees)
+    - [Overview](/en/committees)
+    - [How the committees work](/en/committees/how-committees-work)
+    - [CHMP](/en/committees/committee-medicinal-products-human-use-chmp)
+    - [CVMP](/en/committees/committee-veterinary-medicinal-products-cvmp)
+    - [PRAC](/en/committees/pharmacovigilance-risk-assessment-committee-prac)
+    - [COMP](/en/committees/committee-orphan-medicinal-products-comp)
+    - [HMPC](/en/committees/committee-herbal-medicinal-products-hmpc)
+    - [CAT](/en/committees/committee-advanced-therapies-cat)
+    - [PDCO](/en/committees/paediatric-committee-pdco)
+    - [Working parties and other groups](/en/committees/working-parties-other-groups)
+- [News &amp; events](/en/news-events)
+    - [Overview](/en/news-events)
+    - [News](/en/news)
+    - [Events](/en/events/upcoming-events)
+    - [What's new](/en/news-events/whats-new)
+    - [Committee highlights](/en/news-events/committee-highlights)
+    - [Publications](/en/news-and-events/publications)
+    - [Press and social media](/en/news-events/press-social-media)
+    - [Podcast: Inside EMA](/en/news-events/podcast-inside-ema)
+    - [EMA Campaigns](/en/news-events/ema-campaigns)
+    - [Open consultations](/en/news-events/open-consultations)
+    - [RSS feeds](/en/news-events/rss-feeds)
+- [Partners &amp; networks](/en/partners-networks)
+    - [Overview](/en/partners-networks)
+    - [EU partners](/en/partners-networks/eu-partners)
+    - [International activities](/en/partners-networks/international-activities)
+    - [Patients and consumers](/en/partners-networks/patients-consumers)
+    - [Healthcare professionals](/en/partners-networks/healthcare-professionals)
+    - [Academia](/en/partners-networks/academia)
+    - [Pharmaceutical industry](/en/partners-networks/pharmaceutical-industry)
+    - [Networks](/en/partners-networks/networks)
+    - [Health technology assessment bodies](/en/partners-networks/health-technology-assessment-bodies)
+    - [One Health approach](/en/partners-networks/one-health-approach)
+    - [Animal health practitioners](/en/partners-networks/animal-health-practitioners)
+    - [One substance - one assessment](/en/partners-networks/one-substance-one-assessment-osoa-eu-collaboration-chemicals-related-data)
+- [About us](/en/about-us)
+    - [Overview](/en/about-us)
+    - [What we do](/en/about-us/what-we-do)
+    - [Who we are](/en/about-us/who-we-are)
+    - [How we work](/en/about-us/how-we-work)
+    - [Fees](/en/about-us/fees-payable-european-medicines-agency)
+    - [Support to SMEs](/en/about-us/support-smes)
+    - [Annual reports and work programmes](/en/about-us/annual-reports-work-programmes)
+    - [History of EMA](/en/about-us/history-ema)
+    - [Careers](/en/about-us/careers)
+    - [Procurement](/en/about-us/procurement-grants)
+    - [About this website](/en/about-us/about-website)
+    - [Data protection and privacy](/en/about-us/data-protection-privacy-ema)
+    - [Contacts](/en/about-us/contacts-european-medicines-agency)
+
+1. [Home](/en/homepage)
+2. [Medicines](https://www.ema.europa.eu/en/medicines)
+3. Beovu
+
 # Beovu
 
 [RSS](/en/individual-human-medicine.xml/67278)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-brolucizumab Medicine Human Authorised
+brolucizumab
+
+Medicine Human Authorised
 
 Page contents
 
@@ -118,275 +196,141 @@ Reference Number: EMA/130586/2022
 
 English (EN) (153.34 KB - PDF)
 
-**First published:** 18/02/2020
-
-**Last updated:** 06/04/2022
+**First published:** 18/02/2020 **Last updated:** 06/04/2022
 
 [View](/en/documents/overview/beovu-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-761)
+[Other languages (22)](#file-language-dropdown-558)
 
 български (BG) (182.55 KB - PDF)
 
-**First published:**
-
-18/02/2020
-
-**Last updated:**
-
-06/04/2022
+**First published:** 18/02/2020 **Last updated:** 06/04/2022
 
 [View](/bg/documents/overview/beovu-epar-medicine-overview_bg.pdf)
 
 español (ES) (154.46 KB - PDF)
 
-**First published:**
-
-18/02/2020
-
-**Last updated:**
-
-06/04/2022
+**First published:** 18/02/2020 **Last updated:** 06/04/2022
 
 [View](/es/documents/overview/beovu-epar-medicine-overview_es.pdf)
 
 čeština (CS) (179.84 KB - PDF)
 
-**First published:**
-
-18/02/2020
-
-**Last updated:**
-
-06/04/2022
+**First published:** 18/02/2020 **Last updated:** 06/04/2022
 
 [View](/cs/documents/overview/beovu-epar-medicine-overview_cs.pdf)
 
 dansk (DA) (152.96 KB - PDF)
 
-**First published:**
-
-18/02/2020
-
-**Last updated:**
-
-06/04/2022
+**First published:** 18/02/2020 **Last updated:** 06/04/2022
 
 [View](/da/documents/overview/beovu-epar-medicine-overview_da.pdf)
 
 Deutsch (DE) (155.83 KB - PDF)
 
-**First published:**
-
-18/02/2020
-
-**Last updated:**
-
-06/04/2022
+**First published:** 18/02/2020 **Last updated:** 06/04/2022
 
 [View](/de/documents/overview/beovu-epar-medicine-overview_de.pdf)
 
 eesti keel (ET) (141.86 KB - PDF)
 
-**First published:**
-
-18/02/2020
-
-**Last updated:**
-
-06/04/2022
+**First published:** 18/02/2020 **Last updated:** 06/04/2022
 
 [View](/et/documents/overview/beovu-epar-medicine-overview_et.pdf)
 
 ελληνικά (EL) (184.8 KB - PDF)
 
-**First published:**
-
-18/02/2020
-
-**Last updated:**
-
-06/04/2022
+**First published:** 18/02/2020 **Last updated:** 06/04/2022
 
 [View](/el/documents/overview/beovu-epar-medicine-overview_el.pdf)
 
 français (FR) (156.2 KB - PDF)
 
-**First published:**
-
-18/02/2020
-
-**Last updated:**
-
-06/04/2022
+**First published:** 18/02/2020 **Last updated:** 06/04/2022
 
 [View](/fr/documents/overview/beovu-epar-medicine-overview_fr.pdf)
 
 hrvatski (HR) (176 KB - PDF)
 
-**First published:**
-
-18/02/2020
-
-**Last updated:**
-
-06/04/2022
+**First published:** 18/02/2020 **Last updated:** 06/04/2022
 
 [View](/hr/documents/overview/beovu-epar-medicine-overview_hr.pdf)
 
 italiano (IT) (152.76 KB - PDF)
 
-**First published:**
-
-18/02/2020
-
-**Last updated:**
-
-06/04/2022
+**First published:** 18/02/2020 **Last updated:** 06/04/2022
 
 [View](/it/documents/overview/beovu-epar-medicine-overview_it.pdf)
 
 latviešu valoda (LV) (186.18 KB - PDF)
 
-**First published:**
-
-18/02/2020
-
-**Last updated:**
-
-06/04/2022
+**First published:** 18/02/2020 **Last updated:** 06/04/2022
 
 [View](/lv/documents/overview/beovu-epar-medicine-overview_lv.pdf)
 
 lietuvių kalba (LT) (176.97 KB - PDF)
 
-**First published:**
-
-18/02/2020
-
-**Last updated:**
-
-06/04/2022
+**First published:** 18/02/2020 **Last updated:** 06/04/2022
 
 [View](/lt/documents/overview/beovu-epar-medicine-overview_lt.pdf)
 
 magyar (HU) (177.15 KB - PDF)
 
-**First published:**
-
-18/02/2020
-
-**Last updated:**
-
-06/04/2022
+**First published:** 18/02/2020 **Last updated:** 06/04/2022
 
 [View](/hu/documents/overview/beovu-epar-medicine-overview_hu.pdf)
 
 Malti (MT) (180.16 KB - PDF)
 
-**First published:**
-
-18/02/2020
-
-**Last updated:**
-
-06/04/2022
+**First published:** 18/02/2020 **Last updated:** 06/04/2022
 
 [View](/mt/documents/overview/beovu-epar-medicine-overview_mt.pdf)
 
 Nederlands (NL) (153.8 KB - PDF)
 
-**First published:**
-
-18/02/2020
-
-**Last updated:**
-
-06/04/2022
+**First published:** 18/02/2020 **Last updated:** 06/04/2022
 
 [View](/nl/documents/overview/beovu-epar-medicine-overview_nl.pdf)
 
 polski (PL) (182.59 KB - PDF)
 
-**First published:**
-
-18/02/2020
-
-**Last updated:**
-
-06/04/2022
+**First published:** 18/02/2020 **Last updated:** 06/04/2022
 
 [View](/pl/documents/overview/beovu-epar-medicine-overview_pl.pdf)
 
 português (PT) (155.29 KB - PDF)
 
-**First published:**
-
-18/02/2020
-
-**Last updated:**
-
-06/04/2022
+**First published:** 18/02/2020 **Last updated:** 06/04/2022
 
 [View](/pt/documents/overview/beovu-epar-medicine-overview_pt.pdf)
 
 română (RO) (175.96 KB - PDF)
 
-**First published:**
-
-18/02/2020
-
-**Last updated:**
-
-06/04/2022
+**First published:** 18/02/2020 **Last updated:** 06/04/2022
 
 [View](/ro/documents/overview/beovu-epar-medicine-overview_ro.pdf)
 
 slovenčina (SK) (178.18 KB - PDF)
 
-**First published:**
-
-18/02/2020
-
-**Last updated:**
-
-06/04/2022
+**First published:** 18/02/2020 **Last updated:** 06/04/2022
 
 [View](/sk/documents/overview/beovu-epar-medicine-overview_sk.pdf)
 
 slovenščina (SL) (176.18 KB - PDF)
 
-**First published:**
-
-18/02/2020
-
-**Last updated:**
-
-06/04/2022
+**First published:** 18/02/2020 **Last updated:** 06/04/2022
 
 [View](/sl/documents/overview/beovu-epar-medicine-overview_sl.pdf)
 
 Suomi (FI) (151.65 KB - PDF)
 
-**First published:**
-
-18/02/2020
-
-**Last updated:**
-
-06/04/2022
+**First published:** 18/02/2020 **Last updated:** 06/04/2022
 
 [View](/fi/documents/overview/beovu-epar-medicine-overview_fi.pdf)
 
 svenska (SV) (152.05 KB - PDF)
 
-**First published:**
-
-18/02/2020
-
-**Last updated:**
-
-06/04/2022
+**First published:** 18/02/2020 **Last updated:** 06/04/2022
 
 [View](/sv/documents/overview/beovu-epar-medicine-overview_sv.pdf)
 
@@ -394,9 +338,7 @@ Beovu : EPAR - Risk Management Plan
 
 English (EN) (10.96 MB - PDF)
 
-**First published:** 26/05/2023
-
-**Last updated:** 29/11/2024
+**First published:** 26/05/2023 **Last updated:** 29/11/2024
 
 [View](/en/documents/rmp/beovu-epar-risk-management-plan_en.pdf)
 
@@ -404,305 +346,161 @@ English (EN) (10.96 MB - PDF)
 
 Beovu : EPAR - Product information
 
-English (EN) (726.92 KB - PDF)
+English (EN) (810.18 KB - PDF)
 
-**First published:** 18/02/2020
-
-**Last updated:** 27/01/2026
+**First published:** 18/02/2020 **Last updated:** 07/05/2026
 
 [View](/en/documents/product-information/beovu-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-580)
+[Other languages (24)](#file-language-dropdown-37)
 
-български (BG) (792.41 KB - PDF)
+български (BG) (897.8 KB - PDF)
 
-**First published:**
-
-18/02/2020
-
-**Last updated:**
-
-27/01/2026
+**First published:** 18/02/2020 **Last updated:** 07/05/2026
 
 [View](/bg/documents/product-information/beovu-epar-product-information_bg.pdf)
 
-español (ES) (685.37 KB - PDF)
+español (ES) (792.66 KB - PDF)
 
-**First published:**
-
-18/02/2020
-
-**Last updated:**
-
-27/01/2026
+**First published:** 18/02/2020 **Last updated:** 07/05/2026
 
 [View](/es/documents/product-information/beovu-epar-product-information_es.pdf)
 
-čeština (CS) (733.11 KB - PDF)
+čeština (CS) (842.82 KB - PDF)
 
-**First published:**
-
-18/02/2020
-
-**Last updated:**
-
-27/01/2026
+**First published:** 18/02/2020 **Last updated:** 07/05/2026
 
 [View](/cs/documents/product-information/beovu-epar-product-information_cs.pdf)
 
-dansk (DA) (753.12 KB - PDF)
+dansk (DA) (866.35 KB - PDF)
 
-**First published:**
-
-18/02/2020
-
-**Last updated:**
-
-27/01/2026
+**First published:** 18/02/2020 **Last updated:** 07/05/2026
 
 [View](/da/documents/product-information/beovu-epar-product-information_da.pdf)
 
-Deutsch (DE) (723.11 KB - PDF)
+Deutsch (DE) (826.55 KB - PDF)
 
-**First published:**
-
-18/02/2020
-
-**Last updated:**
-
-27/01/2026
+**First published:** 18/02/2020 **Last updated:** 07/05/2026
 
 [View](/de/documents/product-information/beovu-epar-product-information_de.pdf)
 
-eesti keel (ET) (724.32 KB - PDF)
+eesti keel (ET) (825.77 KB - PDF)
 
-**First published:**
-
-18/02/2020
-
-**Last updated:**
-
-27/01/2026
+**First published:** 18/02/2020 **Last updated:** 07/05/2026
 
 [View](/et/documents/product-information/beovu-epar-product-information_et.pdf)
 
-ελληνικά (EL) (796.99 KB - PDF)
+ελληνικά (EL) (952.37 KB - PDF)
 
-**First published:**
-
-18/02/2020
-
-**Last updated:**
-
-27/01/2026
+**First published:** 18/02/2020 **Last updated:** 07/05/2026
 
 [View](/el/documents/product-information/beovu-epar-product-information_el.pdf)
 
-français (FR) (733.83 KB - PDF)
+français (FR) (847.9 KB - PDF)
 
-**First published:**
-
-18/02/2020
-
-**Last updated:**
-
-27/01/2026
+**First published:** 18/02/2020 **Last updated:** 07/05/2026
 
 [View](/fr/documents/product-information/beovu-epar-product-information_fr.pdf)
 
-hrvatski (HR) (772.46 KB - PDF)
+hrvatski (HR) (888.27 KB - PDF)
 
-**First published:**
-
-18/02/2020
-
-**Last updated:**
-
-27/01/2026
+**First published:** 18/02/2020 **Last updated:** 07/05/2026
 
 [View](/hr/documents/product-information/beovu-epar-product-information_hr.pdf)
 
-íslenska (IS) (722.49 KB - PDF)
+íslenska (IS) (833.15 KB - PDF)
 
-**First published:**
-
-18/02/2020
-
-**Last updated:**
-
-27/01/2026
+**First published:** 18/02/2020 **Last updated:** 07/05/2026
 
 [View](/is/documents/product-information/beovu-epar-product-information_is.pdf)
 
-italiano (IT) (737.24 KB - PDF)
+italiano (IT) (834 KB - PDF)
 
-**First published:**
-
-18/02/2020
-
-**Last updated:**
-
-27/01/2026
+**First published:** 18/02/2020 **Last updated:** 07/05/2026
 
 [View](/it/documents/product-information/beovu-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (730.96 KB - PDF)
+latviešu valoda (LV) (838.03 KB - PDF)
 
-**First published:**
-
-18/02/2020
-
-**Last updated:**
-
-27/01/2026
+**First published:** 18/02/2020 **Last updated:** 07/05/2026
 
 [View](/lv/documents/product-information/beovu-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (762.98 KB - PDF)
+lietuvių kalba (LT) (867.22 KB - PDF)
 
-**First published:**
-
-18/02/2020
-
-**Last updated:**
-
-27/01/2026
+**First published:** 18/02/2020 **Last updated:** 07/05/2026
 
 [View](/lt/documents/product-information/beovu-epar-product-information_lt.pdf)
 
-magyar (HU) (741.48 KB - PDF)
+magyar (HU) (847.64 KB - PDF)
 
-**First published:**
-
-18/02/2020
-
-**Last updated:**
-
-27/01/2026
+**First published:** 18/02/2020 **Last updated:** 07/05/2026
 
 [View](/hu/documents/product-information/beovu-epar-product-information_hu.pdf)
 
-Malti (MT) (799.8 KB - PDF)
+Malti (MT) (920.32 KB - PDF)
 
-**First published:**
-
-18/02/2020
-
-**Last updated:**
-
-27/01/2026
+**First published:** 18/02/2020 **Last updated:** 07/05/2026
 
 [View](/mt/documents/product-information/beovu-epar-product-information_mt.pdf)
 
-Nederlands (NL) (742.96 KB - PDF)
+Nederlands (NL) (844.18 KB - PDF)
 
-**First published:**
-
-18/02/2020
-
-**Last updated:**
-
-27/01/2026
+**First published:** 18/02/2020 **Last updated:** 07/05/2026
 
 [View](/nl/documents/product-information/beovu-epar-product-information_nl.pdf)
 
-norsk (NO) (688.79 KB - PDF)
+norsk (NO) (795.14 KB - PDF)
 
-**First published:**
-
-18/02/2020
-
-**Last updated:**
-
-27/01/2026
+**First published:** 18/02/2020 **Last updated:** 07/05/2026
 
 [View](/no/documents/product-information/beovu-epar-product-information_no.pdf)
 
-polski (PL) (761.64 KB - PDF)
+polski (PL) (846.5 KB - PDF)
 
-**First published:**
-
-18/02/2020
-
-**Last updated:**
-
-27/01/2026
+**First published:** 18/02/2020 **Last updated:** 07/05/2026
 
 [View](/pl/documents/product-information/beovu-epar-product-information_pl.pdf)
 
-português (PT) (746.77 KB - PDF)
+português (PT) (847.69 KB - PDF)
 
-**First published:**
-
-18/02/2020
-
-**Last updated:**
-
-27/01/2026
+**First published:** 18/02/2020 **Last updated:** 07/05/2026
 
 [View](/pt/documents/product-information/beovu-epar-product-information_pt.pdf)
 
-română (RO) (775.9 KB - PDF)
+română (RO) (895.76 KB - PDF)
 
-**First published:**
-
-18/02/2020
-
-**Last updated:**
-
-27/01/2026
+**First published:** 18/02/2020 **Last updated:** 07/05/2026
 
 [View](/ro/documents/product-information/beovu-epar-product-information_ro.pdf)
 
-slovenčina (SK) (750.89 KB - PDF)
+slovenčina (SK) (832.62 KB - PDF)
 
-**First published:**
-
-18/02/2020
-
-**Last updated:**
-
-27/01/2026
+**First published:** 18/02/2020 **Last updated:** 07/05/2026
 
 [View](/sk/documents/product-information/beovu-epar-product-information_sk.pdf)
 
-slovenščina (SL) (760.31 KB - PDF)
+slovenščina (SL) (872.75 KB - PDF)
 
-**First published:**
-
-18/02/2020
-
-**Last updated:**
-
-27/01/2026
+**First published:** 18/02/2020 **Last updated:** 07/05/2026
 
 [View](/sl/documents/product-information/beovu-epar-product-information_sl.pdf)
 
-Suomi (FI) (697.36 KB - PDF)
+Suomi (FI) (800.7 KB - PDF)
 
-**First published:**
-
-18/02/2020
-
-**Last updated:**
-
-27/01/2026
+**First published:** 18/02/2020 **Last updated:** 07/05/2026
 
 [View](/fi/documents/product-information/beovu-epar-product-information_fi.pdf)
 
-svenska (SV) (712.19 KB - PDF)
+svenska (SV) (817.1 KB - PDF)
 
-**First published:**
-
-18/02/2020
-
-**Last updated:**
-
-27/01/2026
+**First published:** 18/02/2020 **Last updated:** 07/05/2026
 
 [View](/sv/documents/product-information/beovu-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000323553 27/01/2026
+**Latest procedure affecting product information:** VR/0000343868
+
+05/05/2026
 
 icon globe
 
@@ -726,203 +524,173 @@ English (EN) (81.95 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/beovu-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-813)
+[Other languages (24)](#file-language-dropdown-576)
 
 български (BG) (89.35 KB - PDF)
 
-**First published:**
-
-18/02/2020
+**First published:** 18/02/2020
 
 [View](/bg/documents/all-authorised-presentations/beovu-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (81.09 KB - PDF)
 
-**First published:**
-
-18/02/2020
+**First published:** 18/02/2020
 
 [View](/es/documents/all-authorised-presentations/beovu-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (85.75 KB - PDF)
 
-**First published:**
-
-18/02/2020
+**First published:** 18/02/2020
 
 [View](/cs/documents/all-authorised-presentations/beovu-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (83.8 KB - PDF)
 
-**First published:**
-
-18/02/2020
+**First published:** 18/02/2020
 
 [View](/da/documents/all-authorised-presentations/beovu-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (84.18 KB - PDF)
 
-**First published:**
-
-18/02/2020
+**First published:** 18/02/2020
 
 [View](/de/documents/all-authorised-presentations/beovu-epar-all-authorised-presentations_de.pdf)
 
 eesti keel (ET) (79.15 KB - PDF)
 
-**First published:**
-
-18/02/2020
+**First published:** 18/02/2020
 
 [View](/et/documents/all-authorised-presentations/beovu-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (85.72 KB - PDF)
 
-**First published:**
-
-18/02/2020
+**First published:** 18/02/2020
 
 [View](/el/documents/all-authorised-presentations/beovu-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (83.29 KB - PDF)
 
-**First published:**
-
-18/02/2020
+**First published:** 18/02/2020
 
 [View](/fr/documents/all-authorised-presentations/beovu-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (83.38 KB - PDF)
 
-**First published:**
-
-18/02/2020
+**First published:** 18/02/2020
 
 [View](/hr/documents/all-authorised-presentations/beovu-epar-all-authorised-presentations_hr.pdf)
 
 íslenska (IS) (83.27 KB - PDF)
 
-**First published:**
-
-18/02/2020
+**First published:** 18/02/2020
 
 [View](/is/documents/all-authorised-presentations/beovu-epar-all-authorised-presentations_is.pdf)
 
 italiano (IT) (81.36 KB - PDF)
 
-**First published:**
-
-18/02/2020
+**First published:** 18/02/2020
 
 [View](/it/documents/all-authorised-presentations/beovu-epar-all-authorised-presentations_it.pdf)
 
 latviešu valoda (LV) (86.38 KB - PDF)
 
-**First published:**
-
-18/02/2020
+**First published:** 18/02/2020
 
 [View](/lv/documents/all-authorised-presentations/beovu-epar-all-authorised-presentations_lv.pdf)
 
 lietuvių kalba (LT) (86.6 KB - PDF)
 
-**First published:**
-
-18/02/2020
+**First published:** 18/02/2020
 
 [View](/lt/documents/all-authorised-presentations/beovu-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (86.12 KB - PDF)
 
-**First published:**
-
-18/02/2020
+**First published:** 18/02/2020
 
 [View](/hu/documents/all-authorised-presentations/beovu-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (85.78 KB - PDF)
 
-**First published:**
-
-18/02/2020
+**First published:** 18/02/2020
 
 [View](/mt/documents/all-authorised-presentations/beovu-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (81.05 KB - PDF)
 
-**First published:**
-
-18/02/2020
+**First published:** 18/02/2020
 
 [View](/nl/documents/all-authorised-presentations/beovu-epar-all-authorised-presentations_nl.pdf)
 
 norsk (NO) (84.03 KB - PDF)
 
-**First published:**
-
-18/02/2020
+**First published:** 18/02/2020
 
 [View](/no/documents/all-authorised-presentations/beovu-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (87.8 KB - PDF)
 
-**First published:**
-
-18/02/2020
+**First published:** 18/02/2020
 
 [View](/pl/documents/all-authorised-presentations/beovu-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (83.43 KB - PDF)
 
-**First published:**
-
-18/02/2020
+**First published:** 18/02/2020
 
 [View](/pt/documents/all-authorised-presentations/beovu-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (84.72 KB - PDF)
 
-**First published:**
-
-18/02/2020
+**First published:** 18/02/2020
 
 [View](/ro/documents/all-authorised-presentations/beovu-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (87.35 KB - PDF)
 
-**First published:**
-
-18/02/2020
+**First published:** 18/02/2020
 
 [View](/sk/documents/all-authorised-presentations/beovu-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (82.3 KB - PDF)
 
-**First published:**
-
-18/02/2020
+**First published:** 18/02/2020
 
 [View](/sl/documents/all-authorised-presentations/beovu-epar-all-authorised-presentations_sl.pdf)
 
 Suomi (FI) (79.32 KB - PDF)
 
-**First published:**
-
-18/02/2020
+**First published:** 18/02/2020
 
 [View](/fi/documents/all-authorised-presentations/beovu-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (85.99 KB - PDF)
 
-**First published:**
-
-18/02/2020
+**First published:** 18/02/2020
 
 [View](/sv/documents/all-authorised-presentations/beovu-epar-all-authorised-presentations_sv.pdf)
 
 ## Product details
 
-Name of medicine Beovu Active substance brolucizumab International non-proprietary name (INN) or common name brolucizumab Therapeutic area (MeSH) Wet Macular Degeneration Anatomical therapeutic chemical (ATC) code S01
+Name of medicine
+
+Beovu
+
+Active substance
+
+brolucizumab
+
+International non-proprietary name (INN) or common name
+
+brolucizumab
+
+Therapeutic area (MeSH)
+
+Wet Macular Degeneration
+
+Anatomical therapeutic chemical (ATC) code
+
+S01
 
 ### Pharmacotherapeutic group
 
@@ -934,13 +702,27 @@ Beovu is indicated in adults for the treatment of neovascular (wet) age-related 
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/004913 Marketing authorisation holder
+EMA product number
+
+EMEA/H/C/004913
+
+Marketing authorisation holder
 
 Novartis Europharm Limited
 
 Vista Building
 
-Opinion adopted 12/12/2019 Marketing authorisation issued 13/02/2020 Revision 17
+Opinion adopted
+
+12/12/2019
+
+Marketing authorisation issued
+
+13/02/2020
+
+Revision
+
+18
 
 ## Assessment history
 
@@ -952,11 +734,9 @@ Collapse section
 
 Beovu : EPAR - Procedural steps taken and scientific information after the authorisation
 
-English (EN) (334.56 KB - PDF)
+English (EN) (154.79 KB - PDF)
 
-**First published:** 19/05/2025
-
-**Last updated:** 27/01/2026
+**First published:** 19/05/2025 **Last updated:** 07/05/2026
 
 [View](/en/documents/procedural-steps-after/beovu-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -964,17 +744,13 @@ Beovu : EPAR - Procedural steps taken and scientific information after the autho
 
 English (EN) (144.39 KB - PDF)
 
-**First published:** 22/10/2020
-
-**Last updated:** 19/05/2025
+**First published:** 22/10/2020 **Last updated:** 19/05/2025
 
 [View](/en/documents/procedural-steps-after/beovu-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 Beovu-H-C-004913-II-0010 : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/23630/2020
+Adopted Reference Number: EMA/23630/2020
 
 English (EN) (5.98 MB - PDF)
 
@@ -984,9 +760,7 @@ English (EN) (5.98 MB - PDF)
 
 CHMP post-authorisation summary of opinion for Beovu (II-10)
 
-Adopted
-
-Reference Number: EMA/CHMP/123447/2022
+Adopted Reference Number: EMA/CHMP/123447/2022
 
 English (EN) (138.69 KB - PDF)
 
@@ -998,9 +772,7 @@ English (EN) (138.69 KB - PDF)
 
 Beovu : EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/23630/2020
+Adopted Reference Number: EMA/23630/2020
 
 English (EN) (2.16 MB - PDF)
 
@@ -1010,9 +782,7 @@ English (EN) (2.16 MB - PDF)
 
 CHMP summary of positive opinion for Beovu
 
-Adopted
-
-Reference Number: EMA/CHMP/656078/2019
+Adopted Reference Number: EMA/CHMP/656078/2019
 
 English (EN) (127.99 KB - PDF)
 
@@ -1020,24 +790,28 @@ English (EN) (127.99 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-beovu_en.pdf)
 
-#### News on Beovu
+## News on Beovu
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 21-24 February 2022](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-21-24-february-2022) 25/02/2022
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 21-24 February 2022](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-21-24-february-2022)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 9-12 December 2019](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-9-12-december-2019) 13/12/2019
+25/02/2022
 
-#### More information on Beovu
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 9-12 December 2019](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-9-12-december-2019)
+
+13/12/2019
+
+## More information on Beovu
 
 - [EMEA-002691-PIP02-20 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-002691-pip02-20)
 - [Beovu - direct healthcare professional communication (DHPC)](/en/medicines/dhpc/beovu)
 - [Incidence of Retinal Vasculitis With or Without Retinal Vascular Occlusion Among Eyes Treated With Approved Anti-Vascular Endothelial Growth Factor Agents in Neovascular Age-Related Macular Degeneration or Diabetic Macular Edema - post-authorisation study](https://catalogues.ema.europa.eu/study/107731)
 
-#### Topics
+## Topics
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 27/01/2026
+**This page was last updated on**
+
+07/05/2026
 
 ## Share this page
-
-[Back to top](#main-content)

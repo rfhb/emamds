@@ -4,8 +4,8 @@ document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/teriflunomide-viatris.html
 document_name: teriflunomide-viatris.html
 version: success
-processing_time: 0.1315708
-conversion_datetime: 2026-05-10 13:11:08.935702
+processing_time: 0.1318117
+conversion_datetime: 2026-05-10 13:11:45.022811
 docling_version:
   docling-serve: 1.17.0
   docling-jobkit: 1.18.0

@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-05-12 17:21:34
+document_datetime: 2026-05-07 13:01:41
 document_pages: 49
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/dimethyl-fumarate-mylan-epar-product-information_en.pdf
 document_name: dimethyl-fumarate-mylan-epar-product-information_en.pdf
 version: success
-processing_time: 13.6613467
-conversion_datetime: 2025-12-31 07:42:22.562159
+processing_time: 15.5679029
+conversion_datetime: 2026-05-10 13:07:22.142525
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.17.0
+  docling-jobkit: 1.18.0
+  docling: 2.92.0
+  docling-core: 2.74.1
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.10.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -138,11 +138,9 @@ Before initiating treatment with dimethyl fumarate, a baseline MRI should be ava
 
 PML has been reported in patients treated with dimethyl fumarate (see section 4.8). PML is an opportunistic infection caused by John-Cunningham virus (JCV), which may be fatal or result in severe disability.
 
-PML cases have occurred with dimethyl fumarate and other medicinal products containing fumarates in the setting of lymphopenia (lymphocyte counts below LLN). Prolonged moderate to severe
+PML cases have occurred with dimethyl fumarate and other medicinal products containing fumarates in the setting of lymphopenia (lymphocyte counts below LLN). Prolonged moderate to severe lymphopenia appears to increase the risk of PML with dimethyl fumarate, however, risk cannot be excluded in patients with mild lymphopenia.
 
 <div style=\"page-break-after: always\"></div>
-
-lymphopenia appears to increase the risk of PML with dimethyl fumarate, however, risk cannot be excluded in patients with mild lymphopenia.
 
 Additional factors that might contribute to an increased risk of PML in the setting of lymphopenia are:
 
@@ -502,11 +500,9 @@ a All analyses of clinical endpoints were intent-to-treat;  b MRI analysis used 
 
 An open non-controlled 8-year extension study (ENDORSE) enrolled 1 736 eligible RRMS patients from the pivotal studies (DEFINE and CONFIRM). The primary objective of the study was to assess the long-term safety of dimethyl fumarate in patients with RRMS. Of the 1 736 patients, approximately half (909, 52%) were treated for 6 years or longer. 501 patients were continuously treated with dimethyl fumarate 240 mg twice daily across all 3 studies and 249 patients who were previously treated with placebo in studies DEFINE and CONFIRM received treatment 240 mg twice daily in study ENDORSE. Patients who received treatment twice daily continuously were treated for up to 12 years.
 
-During study ENDORSE, more than half of all patients treated with dimethyl fumarate 240 mg twice daily did not have a relapse. For patients continuously treated twice daily across all 3 studies, the
+During study ENDORSE, more than half of all patients treated with dimethyl fumarate 240 mg twice daily did not have a relapse. For patients continuously treated twice daily across all 3 studies, the adjusted ARR was 0.187 (95% CI: 0.156, 0.224) in studies DEFINE and CONFIRM and 0.141 (95% CI: 0.119, 0.167) in study ENDORSE. For patients previously treated with placebo, the adjusted ARR decreased from 0.330 (95% CI: 0.266, 0.408) in studies DEFINE and CONFIRM to 0.149 (95% CI: 0.116, 0.190) in study ENDORSE.
 
 <div style=\"page-break-after: always\"></div>
-
-adjusted ARR was 0.187 (95% CI: 0.156, 0.224) in studies DEFINE and CONFIRM and 0.141 (95% CI: 0.119, 0.167) in study ENDORSE. For patients previously treated with placebo, the adjusted ARR decreased from 0.330 (95% CI: 0.266, 0.408) in studies DEFINE and CONFIRM to 0.149 (95% CI: 0.116, 0.190) in study ENDORSE.
 
 In study ENDORSE, the majority of patients (&gt; 75%) did not have confirmed disability progression (measured as 6-month sustained disability progression). Pooled results from the three studies demonstrated dimethyl fumarate treated patients had consistent and low rates of confirmed disability progression with slight increase in mean EDSS scores across ENDORSE. MRI assessments (up to year 6, including 752 patients who had previously been included in the MRI cohort of studies DEFINE and CONFIRM) showed that the majority of patients (approximately 90%) had no Gd-enhancing lesions. Over the 6 years, the annual adjusted mean number of new or newly enlarging T2 and new T1 lesions remained low.
 
@@ -529,11 +525,9 @@ The safety profile in paediatric patients (aged 13 to less than 18 years of age)
 
 ## 5.2 Pharmacokinetic properties
 
-Orally administered dimethyl fumarate undergoes rapid pre-systemic hydrolysis by esterases and is converted to its primary metabolite, monomethyl fumarate, which is also active. Dimethyl fumarate is not quantifiable in plasma following oral administration of dimethyl fumarate. Therefore, all pharmacokinetic analyses related to dimethyl fumarate were performed with plasma monomethyl
+Orally administered dimethyl fumarate undergoes rapid pre-systemic hydrolysis by esterases and is converted to its primary metabolite, monomethyl fumarate, which is also active. Dimethyl fumarate is not quantifiable in plasma following oral administration of dimethyl fumarate. Therefore, all pharmacokinetic analyses related to dimethyl fumarate were performed with plasma monomethyl fumarate concentrations. Pharmacokinetic data were obtained in subjects with multiple sclerosis and healthy volunteers.
 
 <div style=\"page-break-after: always\"></div>
-
-fumarate concentrations. Pharmacokinetic data were obtained in subjects with multiple sclerosis and healthy volunteers.
 
 ## Absorption
 
@@ -621,11 +615,9 @@ Oral administration of dimethyl fumarate at 25, 100, and 250 mg/kg/day to rats d
 
 ## Toxicity in juvenile animals
 
-Two toxicity studies in juvenile rats with daily oral administration of dimethyl fumarate from postnatal day (PND) 28 through PND 90 to 93 (equivalent to approximately 3 years and older in humans) revealed similar target organ toxicities in the kidney and forestomach as observed in adult animals. In the first study, dimethyl fumarate did not affect development, neurobehavior or male and female fertility up to the highest dose of 140 mg/kg/day (approximately 4.6 times the recommended human dose based on limited AUC data in paediatric patients). Likewise, no effects on male reproductive and
+Two toxicity studies in juvenile rats with daily oral administration of dimethyl fumarate from postnatal day (PND) 28 through PND 90 to 93 (equivalent to approximately 3 years and older in humans) revealed similar target organ toxicities in the kidney and forestomach as observed in adult animals. In the first study, dimethyl fumarate did not affect development, neurobehavior or male and female fertility up to the highest dose of 140 mg/kg/day (approximately 4.6 times the recommended human dose based on limited AUC data in paediatric patients). Likewise, no effects on male reproductive and accessory organs were observed up to the highest dimethyl fumarate dose of 375 mg/kg/day in the second study in male juvenile rats (about 15-times the putative AUC at the recommended paediatric dose). However, decreased bone mineral content and density in the femur and lumbar vertebrae were evident in male juvenile rats. Bone densitometry changes were also observed in juvenile rats following oral diroximel fumarate administration, another fumaric ester that is metabolised to the same active metabolite monomethyl fumarate in vivo . The NOAEL for the densitometry changes in juvenile rats is approximately 1.5 times the presumptive AUC at the recommended paediatric dose. A relation of the bone effects to lower body weight is possible, but the involvement of a direct effect cannot be excluded. The bone findings are of limited relevance for adult patients. The relevance for paediatric patients is not known.
 
 <div style=\"page-break-after: always\"></div>
-
-accessory organs were observed up to the highest dimethyl fumarate dose of 375 mg/kg/day in the second study in male juvenile rats (about 15-times the putative AUC at the recommended paediatric dose). However, decreased bone mineral content and density in the femur and lumbar vertebrae were evident in male juvenile rats. Bone densitometry changes were also observed in juvenile rats following oral diroximel fumarate administration, another fumaric ester that is metabolised to the same active metabolite monomethyl fumarate in vivo . The NOAEL for the densitometry changes in juvenile rats is approximately 1.5 times the presumptive AUC at the recommended paediatric dose. A relation of the bone effects to lower body weight is possible, but the involvement of a direct effect cannot be excluded. The bone findings are of limited relevance for adult patients. The relevance for paediatric patients is not known.
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
@@ -675,17 +667,17 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Mylan Ireland Limited Unit 35/36 Grange Parade Baldoyle Industrial Estate Dublin 13 Ireland
+Mylan Pharmaceuticals Limited
+
+Damastown Industrial Park Mulhuddart Dublin 15 DUBLIN Ireland
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
 Dimethyl fumarate Mylan 120 mg gastro-resistant hard capsules
 
 ```
-EU/1/24/1814/001 EU/1/24/1814/002 EU/1/24/1814/003
+EU/1/24/1814/001 EU/1/24/1814/002 EU/1/24/1814/003 EU/1/24/1814/004
 ```
-
-EU/1/24/1814/004
 
 Dimethyl fumarate Mylan 240 mg gastro-resistant hard capsules
 
@@ -807,11 +799,13 @@ Do not store above 30 °C.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Mylan Ireland Limited Unit 35/36 Grange Parade Baldoyle Industrial Estate Dublin 13 Ireland
+Mylan Pharmaceuticals Limited Damastown Industrial Park Mulhuddart Dublin 15 DUBLIN Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/24/1814/001 EU/1/24/1814/002
+EU/1/24/1814/001
+
+EU/1/24/1814/002
 
 ## 13. BATCH NUMBER
 
@@ -831,7 +825,9 @@ Dimethyl fumarate Mylan 120 mg
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC SN
+PC
+
+SN
 
 NN
 
@@ -849,7 +845,7 @@ Dimethyl fumarate Mylan 120 mg gastro-resistant hard capsules dimethyl fumarate
 | 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
 |------|----------------------------------------------|
 
-Mylan Ireland Limited
+Mylan Pharmaceuticals Limited
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -915,7 +911,9 @@ Do not store above 30 °C.
 | 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
 |-------|----------------------------------------------------------|
 
-Mylan Ireland Limited Unit 35/36 Grange Parade Baldoyle Industrial Estate Dublin 13 Ireland
+Mylan Pharmaceuticals Limited Damastown Industrial Park Mulhuddart Dublin 15 DUBLIN
+
+Ireland
 
 | 12.   | MARKETING AUTHORISATION NUMBER(S)   |
 |-------|-------------------------------------|
@@ -966,7 +964,7 @@ Dimethyl fumarate Mylan 240 mg gastro-resistant hard capsules dimethyl fumarate
 | 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
 |------|----------------------------------------------|
 
-Mylan Ireland Limited
+Mylan Pharmaceuticals Limited
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -1033,7 +1031,7 @@ Do not store above 30°C.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Mylan Ireland Limited Unit 35/36 Grange Parade Baldoyle Industrial Estate Dublin 13 Ireland
+Mylan Pharmaceuticals Limited Damastown Industrial Park Mulhuddart Dublin 15 DUBLIN Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1059,7 +1057,9 @@ Dimethyl fumarate Mylan 120 mg
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC SN
+PC
+
+SN
 
 NN
 
@@ -1083,7 +1083,7 @@ Each capsule contains 120 mg dimethyl fumarate.
 
 ## Gastro-resistant hard capsule
 
-14 gastro-resistant hard capsules
+- 14 gastro-resistant hard capsules
 
 60 gastro-resistant hard capsules
 
@@ -1109,20 +1109,17 @@ Do not store above 30°C.
 
 <div style=\"page-break-after: always\"></div>
 
-| 10. OR   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|----------|--------------------------------------------------------------------------------------------------------------------------------------|
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 | 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
 |-------|----------------------------------------------------------|
 
-Mylan Ireland Limited Unit 35/36 Grange Parade Baldoyle Industrial Estate Dublin 13 Ireland
+Mylan Pharmaceuticals Limited Damastown Industrial Park Mulhuddart Dublin 15 DUBLIN Ireland
 
 | 12.   | MARKETING AUTHORISATION NUMBER(S)   |
 |-------|-------------------------------------|
 
-EU/1/24/1814/003
-
-EU/1/24/1814/004
+EU/1/24/1814/003 EU/1/24/1814/004
 
 | 13.   | BATCH NUMBER   |
 |-------|----------------|
@@ -1170,7 +1167,9 @@ Each capsule contains 240 mg dimethyl fumarate.
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-Oral use Read the package leaflet before use.
+Oral use
+
+Read the package leaflet before use.
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -1192,7 +1191,7 @@ Do not store above 30°C.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Mylan Ireland Limited Unit 35/36 Grange Parade Baldoyle Industrial Estate Dublin 13 Ireland
+Mylan Pharmaceuticals Limited Damastown Industrial Park Mulhuddart Dublin 15 DUBLIN Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1250,7 +1249,9 @@ Each capsule contains 240 mg dimethyl fumarate.
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-Oral use Read the package leaflet before use.
+Oral use
+
+Read the package leaflet before use.
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -1268,12 +1269,13 @@ Do not store above 30°C.
 
 <div style=\"page-break-after: always\"></div>
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS   |
+|-------|-----------------------------------------------------------------|
 
 | 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
 |-------|----------------------------------------------------------|
 
-Mylan Ireland Limited Unit 35/36 Grange Parade Baldoyle Industrial Estate Dublin 13 Ireland
+Mylan Pharmaceuticals Limited Damastown Industrial Park Mulhuddart Dublin 15 DUBLIN Ireland
 
 | 12.   | MARKETING AUTHORISATION NUMBER(S)   |
 |-------|-------------------------------------|
@@ -1353,13 +1355,9 @@ Dimethyl fumarate Mylan seems to work by stopping the body's defence system from
 
 ## Warnings and precautions
 
-Dimethyl fumarate Mylan may affect your white blood cell counts , your kidneys and liver . Before you start Dimethyl fumarate Mylan, your doctor will do a blood test to count the number of your white blood cells and will check that your kidneys and liver are working properly. Your doctor will test these
+Dimethyl fumarate Mylan may affect your white blood cell counts , your kidneys and liver . Before you start Dimethyl fumarate Mylan, your doctor will do a blood test to count the number of your white blood cells and will check that your kidneys and liver are working properly. Your doctor will test these periodically during treatment. If your number of white blood cells decreases during treatment, your doctor may consider additional tests or discontinue your treatment Talk to your doctor before taking Dimethyl fumarate Mylan if you have:
 
 <div style=\"page-break-after: always\"></div>
-
-periodically during treatment. If your number of white blood cells decreases during treatment, your doctor may consider additional tests or discontinue your treatment
-
-Talk to your doctor before taking Dimethyl fumarate Mylan if you have:
 
 - -severe kidney disease
 - -severe liver disease
@@ -1547,11 +1545,9 @@ Dimethyl fumarate Mylan 120 mg: Each capsule contains 120 mg of dimethyl fumarat
 
 Dimethyl fumarate Mylan 240 mg: Each capsule contains 240 mg of dimethyl fumarate.
 
-The other ingredients are microcrystalline cellulose, croscarmellose sodium (see section 2 'Dimethyl fumarate Mylan contains sodium'), talc, silica colloidal anhydrous, magnesium stearate, triethyl
+The other ingredients are microcrystalline cellulose, croscarmellose sodium (see section 2 'Dimethyl fumarate Mylan contains sodium'), talc, silica colloidal anhydrous, magnesium stearate, triethyl citrate, methacrylic acid - methyl methacrylate copolymer (1:1), methacrylic acid - ethyl acrylate copolymer (1:1) dispersion 30%, gelatin, titanium dioxide (E171), brilliant blue FD&amp;C#2 (E132), yellow iron oxide (E172), shellac, propylene glycol, ammonium hydroxide, black iron oxide (E172) and purified water (only in 240 mg capsules).
 
 <div style=\"page-break-after: always\"></div>
-
-citrate, methacrylic acid - methyl methacrylate copolymer (1:1), methacrylic acid - ethyl acrylate copolymer (1:1) dispersion 30%, gelatin, titanium dioxide (E171), brilliant blue FD&amp;C#2 (E132), yellow iron oxide (E172), shellac, propylene glycol, ammonium hydroxide, black iron oxide (E172) and purified water (only in 240 mg capsules).
 
 ## What Dimethyl fumarate Mylan looks like and contents of the pack
 
@@ -1563,7 +1559,7 @@ Not all pack sizes may be marketed.
 
 ## Marketing Authorisation Holder
 
-Mylan Ireland Limited Unit 35/36 Grange Parade Baldoyle Industrial Estate Dublin 13 Ireland
+Mylan Pharmaceuticals Limited Damastown Industrial Park Mulhuddart Dublin 15 DUBLIN Ireland
 
 ## Manufacturers
 
@@ -1581,13 +1577,13 @@ Tél/Tel: + 32 (0)2 658 61 00
 
 ## Lietuva
 
-Viatris UAB Tel: +370 5 205 1288
+Viatris UAB
+
+Tel: +370 5 205 1288
 
 ## България
 
-Майлан ЕООД
-
-Тел.: +359 2 44 55 400
+Майлан ЕООД Тел.: +359 2 44 55 400
 
 ## Luxembourg/Luxemburg
 
@@ -1605,15 +1601,13 @@ Tel.: + 36 1 465 2100
 
 ## Danmark
 
+Malta
+
 Viatris ApS
 
-## Malta
-
-V.J. Salomone Pharma Ltd
+Tlf: +45 28 11 69 32
 
 <div style=\"page-break-after: always\"></div>
-
-Tlf: +45 28 11 69 32
 
 ## Deutschland
 
@@ -1635,9 +1629,7 @@ Viatris Hellas Ltd
 
 ## España
 
-Viatris Pharmaceuticals, S.L
-
-Tel: + 34 900 102 712
+Viatris Pharmaceuticals, S.L Tel: + 34 900 102 712
 
 ## France
 
@@ -1686,6 +1678,8 @@ Tel: +371 676 055 80
 ## Other sources of information
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu/en
+
+V.J. Salomone Pharma Ltd
 
 Tel: + 356 21 22 01 74
 

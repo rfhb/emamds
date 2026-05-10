@@ -1,32 +1,32 @@
 ---
-document_datetime: 2025-12-29 11:15:33
+document_datetime: 2026-05-08 15:35:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/arava.html
 document_name: arava.html
 version: success
-processing_time: 0.131138
-conversion_datetime: 2025-12-30 21:28:15.57699
+processing_time: 0.1380254
+conversion_datetime: 2026-05-10 12:28:47.094806
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.17.0
+  docling-jobkit: 1.18.0
+  docling: 2.92.0
+  docling-core: 2.74.1
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.10.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 # Arava
 
 [RSS](/en/individual-human-medicine.xml/65587)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-leflunomide Medicine Human Authorised
+leflunomide
 
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
+Medicine Human Authorised
 
 Page contents
 
@@ -119,283 +119,149 @@ Reference Number: EMA/262370/2011
 
 English (EN) (76.34 KB - PDF)
 
-**First published:** 20/07/2009
-
-**Last updated:** 29/06/2015
+**First published:** 20/07/2009 **Last updated:** 29/06/2015
 
 [View](/en/documents/overview/arava-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-502)
+[Other languages (22)](#file-language-dropdown-362)
 
 български (BG) (104.75 KB - PDF)
 
-**First published:**
-
-20/07/2009
-
-**Last updated:**
-
-29/06/2015
+**First published:** 20/07/2009 **Last updated:** 29/06/2015
 
 [View](/bg/documents/overview/arava-epar-summary-public_bg.pdf)
 
 español (ES) (77.06 KB - PDF)
 
-**First published:**
-
-20/07/2009
-
-**Last updated:**
-
-29/06/2015
+**First published:** 20/07/2009 **Last updated:** 29/06/2015
 
 [View](/es/documents/overview/arava-epar-summary-public_es.pdf)
 
 čeština (CS) (103.85 KB - PDF)
 
-**First published:**
-
-20/07/2009
-
-**Last updated:**
-
-29/06/2015
+**First published:** 20/07/2009 **Last updated:** 29/06/2015
 
 [View](/cs/documents/overview/arava-epar-summary-public_cs.pdf)
 
 dansk (DA) (99.53 KB - PDF)
 
-**First published:**
-
-20/07/2009
-
-**Last updated:**
-
-29/06/2015
+**First published:** 20/07/2009 **Last updated:** 29/06/2015
 
 [View](/da/documents/overview/arava-epar-summary-public_da.pdf)
 
 Deutsch (DE) (78.18 KB - PDF)
 
-**First published:**
-
-20/07/2009
-
-**Last updated:**
-
-29/06/2015
+**First published:** 20/07/2009 **Last updated:** 29/06/2015
 
 [View](/de/documents/overview/arava-epar-summary-public_de.pdf)
 
 eesti keel (ET) (75.96 KB - PDF)
 
-**First published:**
-
-20/07/2009
-
-**Last updated:**
-
-29/06/2015
+**First published:** 20/07/2009 **Last updated:** 29/06/2015
 
 [View](/et/documents/overview/arava-epar-summary-public_et.pdf)
 
 ελληνικά (EL) (105.6 KB - PDF)
 
-**First published:**
-
-20/07/2009
-
-**Last updated:**
-
-29/06/2015
+**First published:** 20/07/2009 **Last updated:** 29/06/2015
 
 [View](/el/documents/overview/arava-epar-summary-public_el.pdf)
 
 français (FR) (78.09 KB - PDF)
 
-**First published:**
-
-20/07/2009
-
-**Last updated:**
-
-29/06/2015
+**First published:** 20/07/2009 **Last updated:** 29/06/2015
 
 [View](/fr/documents/overview/arava-epar-summary-public_fr.pdf)
 
 hrvatski (HR) (97.39 KB - PDF)
 
-**First published:**
-
-20/07/2009
-
-**Last updated:**
-
-29/06/2015
+**First published:** 20/07/2009 **Last updated:** 29/06/2015
 
 [View](/hr/documents/overview/arava-epar-summary-public_hr.pdf)
 
 italiano (IT) (76.42 KB - PDF)
 
-**First published:**
-
-20/07/2009
-
-**Last updated:**
-
-29/06/2015
+**First published:** 20/07/2009 **Last updated:** 29/06/2015
 
 [View](/it/documents/overview/arava-epar-summary-public_it.pdf)
 
 latviešu valoda (LV) (100.87 KB - PDF)
 
-**First published:**
-
-20/07/2009
-
-**Last updated:**
-
-29/06/2015
+**First published:** 20/07/2009 **Last updated:** 29/06/2015
 
 [View](/lv/documents/overview/arava-epar-summary-public_lv.pdf)
 
 lietuvių kalba (LT) (100.53 KB - PDF)
 
-**First published:**
-
-20/07/2009
-
-**Last updated:**
-
-29/06/2015
+**First published:** 20/07/2009 **Last updated:** 29/06/2015
 
 [View](/lt/documents/overview/arava-epar-summary-public_lt.pdf)
 
 magyar (HU) (97.61 KB - PDF)
 
-**First published:**
-
-20/07/2009
-
-**Last updated:**
-
-29/06/2015
+**First published:** 20/07/2009 **Last updated:** 29/06/2015
 
 [View](/hu/documents/overview/arava-epar-summary-public_hu.pdf)
 
 Malti (MT) (104.95 KB - PDF)
 
-**First published:**
-
-20/07/2009
-
-**Last updated:**
-
-29/06/2015
+**First published:** 20/07/2009 **Last updated:** 29/06/2015
 
 [View](/mt/documents/overview/arava-epar-summary-public_mt.pdf)
 
 Nederlands (NL) (77.27 KB - PDF)
 
-**First published:**
-
-20/07/2009
-
-**Last updated:**
-
-29/06/2015
+**First published:** 20/07/2009 **Last updated:** 29/06/2015
 
 [View](/nl/documents/overview/arava-epar-summary-public_nl.pdf)
 
 polski (PL) (105.14 KB - PDF)
 
-**First published:**
-
-20/07/2009
-
-**Last updated:**
-
-29/06/2015
+**First published:** 20/07/2009 **Last updated:** 29/06/2015
 
 [View](/pl/documents/overview/arava-epar-summary-public_pl.pdf)
 
 português (PT) (114.63 KB - PDF)
 
-**First published:**
-
-20/07/2009
-
-**Last updated:**
-
-29/06/2015
+**First published:** 20/07/2009 **Last updated:** 29/06/2015
 
 [View](/pt/documents/overview/arava-epar-summary-public_pt.pdf)
 
 română (RO) (100.07 KB - PDF)
 
-**First published:**
-
-20/07/2009
-
-**Last updated:**
-
-29/06/2015
+**First published:** 20/07/2009 **Last updated:** 29/06/2015
 
 [View](/ro/documents/overview/arava-epar-summary-public_ro.pdf)
 
 slovenčina (SK) (102.46 KB - PDF)
 
-**First published:**
-
-20/07/2009
-
-**Last updated:**
-
-29/06/2015
+**First published:** 20/07/2009 **Last updated:** 29/06/2015
 
 [View](/sk/documents/overview/arava-epar-summary-public_sk.pdf)
 
 slovenščina (SL) (93.25 KB - PDF)
 
-**First published:**
-
-20/07/2009
-
-**Last updated:**
-
-29/06/2015
+**First published:** 20/07/2009 **Last updated:** 29/06/2015
 
 [View](/sl/documents/overview/arava-epar-summary-public_sl.pdf)
 
 Suomi (FI) (96.97 KB - PDF)
 
-**First published:**
-
-20/07/2009
-
-**Last updated:**
-
-29/06/2015
+**First published:** 20/07/2009 **Last updated:** 29/06/2015
 
 [View](/fi/documents/overview/arava-epar-summary-public_fi.pdf)
 
 svenska (SV) (76.5 KB - PDF)
 
-**First published:**
-
-20/07/2009
-
-**Last updated:**
-
-29/06/2015
+**First published:** 20/07/2009 **Last updated:** 29/06/2015
 
 [View](/sv/documents/overview/arava-epar-summary-public_sv.pdf)
 
 Arava : EPAR - Risk Management Plan
 
-English (EN) (907.07 KB - PDF)
+English (EN) (1.03 MB - PDF)
 
-**First published:** 09/03/2023
+**First published:** 09/03/2023 **Last updated:** 08/05/2026
 
 [View](/en/documents/rmp-summary/arava-epar-risk-management-plan_en.pdf)
 
@@ -403,305 +269,161 @@ English (EN) (907.07 KB - PDF)
 
 Arava : EPAR - Product Information
 
-English (EN) (767.12 KB - PDF)
+English (EN) (776.56 KB - PDF)
 
-**First published:** 13/11/2009
-
-**Last updated:** 17/10/2025
+**First published:** 13/11/2009 **Last updated:** 08/05/2026
 
 [View](/en/documents/product-information/arava-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-682)
+[Other languages (24)](#file-language-dropdown-716)
 
-български (BG) (941.42 KB - PDF)
+български (BG) (947.38 KB - PDF)
 
-**First published:**
-
-13/11/2009
-
-**Last updated:**
-
-17/10/2025
+**First published:** 13/11/2009 **Last updated:** 08/05/2026
 
 [View](/bg/documents/product-information/arava-epar-product-information_bg.pdf)
 
-español (ES) (695.02 KB - PDF)
+español (ES) (901.06 KB - PDF)
 
-**First published:**
-
-13/11/2009
-
-**Last updated:**
-
-17/10/2025
+**First published:** 13/11/2009 **Last updated:** 08/05/2026
 
 [View](/es/documents/product-information/arava-epar-product-information_es.pdf)
 
-čeština (CS) (688.28 KB - PDF)
+čeština (CS) (937.8 KB - PDF)
 
-**First published:**
-
-13/11/2009
-
-**Last updated:**
-
-17/10/2025
+**First published:** 13/11/2009 **Last updated:** 08/05/2026
 
 [View](/cs/documents/product-information/arava-epar-product-information_cs.pdf)
 
-dansk (DA) (709.69 KB - PDF)
+dansk (DA) (763.16 KB - PDF)
 
-**First published:**
-
-13/11/2009
-
-**Last updated:**
-
-17/10/2025
+**First published:** 13/11/2009 **Last updated:** 08/05/2026
 
 [View](/da/documents/product-information/arava-epar-product-information_da.pdf)
 
-Deutsch (DE) (834.83 KB - PDF)
+Deutsch (DE) (843.94 KB - PDF)
 
-**First published:**
-
-13/11/2009
-
-**Last updated:**
-
-17/10/2025
+**First published:** 13/11/2009 **Last updated:** 08/05/2026
 
 [View](/de/documents/product-information/arava-epar-product-information_de.pdf)
 
-eesti keel (ET) (685.13 KB - PDF)
+eesti keel (ET) (690.01 KB - PDF)
 
-**First published:**
-
-13/11/2009
-
-**Last updated:**
-
-17/10/2025
+**First published:** 13/11/2009 **Last updated:** 08/05/2026
 
 [View](/et/documents/product-information/arava-epar-product-information_et.pdf)
 
-ελληνικά (EL) (988.03 KB - PDF)
+ελληνικά (EL) (1.06 MB - PDF)
 
-**First published:**
-
-13/11/2009
-
-**Last updated:**
-
-17/10/2025
+**First published:** 13/11/2009 **Last updated:** 08/05/2026
 
 [View](/el/documents/product-information/arava-epar-product-information_el.pdf)
 
-français (FR) (900.25 KB - PDF)
+français (FR) (975.86 KB - PDF)
 
-**First published:**
-
-13/11/2009
-
-**Last updated:**
-
-17/10/2025
+**First published:** 13/11/2009 **Last updated:** 08/05/2026
 
 [View](/fr/documents/product-information/arava-epar-product-information_fr.pdf)
 
-hrvatski (HR) (730.36 KB - PDF)
+hrvatski (HR) (732.77 KB - PDF)
 
-**First published:**
-
-13/11/2009
-
-**Last updated:**
-
-17/10/2025
+**First published:** 13/11/2009 **Last updated:** 08/05/2026
 
 [View](/hr/documents/product-information/arava-epar-product-information_hr.pdf)
 
-íslenska (IS) (990.76 KB - PDF)
+íslenska (IS) (959.13 KB - PDF)
 
-**First published:**
-
-13/11/2009
-
-**Last updated:**
-
-17/10/2025
+**First published:** 13/11/2009 **Last updated:** 08/05/2026
 
 [View](/is/documents/product-information/arava-epar-product-information_is.pdf)
 
-italiano (IT) (828.64 KB - PDF)
+italiano (IT) (875.99 KB - PDF)
 
-**First published:**
-
-13/11/2009
-
-**Last updated:**
-
-17/10/2025
+**First published:** 13/11/2009 **Last updated:** 08/05/2026
 
 [View](/it/documents/product-information/arava-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (850.03 KB - PDF)
+latviešu valoda (LV) (857.81 KB - PDF)
 
-**First published:**
-
-13/11/2009
-
-**Last updated:**
-
-17/10/2025
+**First published:** 13/11/2009 **Last updated:** 08/05/2026
 
 [View](/lv/documents/product-information/arava-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (812.66 KB - PDF)
+lietuvių kalba (LT) (814.86 KB - PDF)
 
-**First published:**
-
-13/11/2009
-
-**Last updated:**
-
-17/10/2025
+**First published:** 13/11/2009 **Last updated:** 08/05/2026
 
 [View](/lt/documents/product-information/arava-epar-product-information_lt.pdf)
 
-magyar (HU) (555.64 KB - PDF)
+magyar (HU) (552.97 KB - PDF)
 
-**First published:**
-
-13/11/2009
-
-**Last updated:**
-
-17/10/2025
+**First published:** 13/11/2009 **Last updated:** 08/05/2026
 
 [View](/hu/documents/product-information/arava-epar-product-information_hu.pdf)
 
-Malti (MT) (1 MB - PDF)
+Malti (MT) (1.19 MB - PDF)
 
-**First published:**
-
-13/11/2009
-
-**Last updated:**
-
-17/10/2025
+**First published:** 13/11/2009 **Last updated:** 08/05/2026
 
 [View](/mt/documents/product-information/arava-epar-product-information_mt.pdf)
 
-Nederlands (NL) (785.68 KB - PDF)
+Nederlands (NL) (816.9 KB - PDF)
 
-**First published:**
-
-13/11/2009
-
-**Last updated:**
-
-17/10/2025
+**First published:** 13/11/2009 **Last updated:** 08/05/2026
 
 [View](/nl/documents/product-information/arava-epar-product-information_nl.pdf)
 
-norsk (NO) (699.42 KB - PDF)
+norsk (NO) (721.37 KB - PDF)
 
-**First published:**
-
-13/11/2009
-
-**Last updated:**
-
-17/10/2025
+**First published:** 13/11/2009 **Last updated:** 08/05/2026
 
 [View](/no/documents/product-information/arava-epar-product-information_no.pdf)
 
-polski (PL) (994.44 KB - PDF)
+polski (PL) (1000.07 KB - PDF)
 
-**First published:**
-
-13/11/2009
-
-**Last updated:**
-
-17/10/2025
+**First published:** 13/11/2009 **Last updated:** 08/05/2026
 
 [View](/pl/documents/product-information/arava-epar-product-information_pl.pdf)
 
-português (PT) (757.55 KB - PDF)
+português (PT) (703.34 KB - PDF)
 
-**First published:**
-
-13/11/2009
-
-**Last updated:**
-
-17/10/2025
+**First published:** 13/11/2009 **Last updated:** 08/05/2026
 
 [View](/pt/documents/product-information/arava-epar-product-information_pt.pdf)
 
-română (RO) (928.11 KB - PDF)
+română (RO) (831.09 KB - PDF)
 
-**First published:**
-
-13/11/2009
-
-**Last updated:**
-
-17/10/2025
+**First published:** 13/11/2009 **Last updated:** 08/05/2026
 
 [View](/ro/documents/product-information/arava-epar-product-information_ro.pdf)
 
-slovenčina (SK) (948.51 KB - PDF)
+slovenčina (SK) (1.03 MB - PDF)
 
-**First published:**
-
-13/11/2009
-
-**Last updated:**
-
-17/10/2025
+**First published:** 13/11/2009 **Last updated:** 08/05/2026
 
 [View](/sk/documents/product-information/arava-epar-product-information_sk.pdf)
 
-slovenščina (SL) (831.32 KB - PDF)
+slovenščina (SL) (997.26 KB - PDF)
 
-**First published:**
-
-13/11/2009
-
-**Last updated:**
-
-17/10/2025
+**First published:** 13/11/2009 **Last updated:** 08/05/2026
 
 [View](/sl/documents/product-information/arava-epar-product-information_sl.pdf)
 
-Suomi (FI) (380.88 KB - PDF)
+Suomi (FI) (769.51 KB - PDF)
 
-**First published:**
-
-13/11/2009
-
-**Last updated:**
-
-17/10/2025
+**First published:** 13/11/2009 **Last updated:** 08/05/2026
 
 [View](/fi/documents/product-information/arava-epar-product-information_fi.pdf)
 
-svenska (SV) (725.2 KB - PDF)
+svenska (SV) (743.87 KB - PDF)
 
-**First published:**
-
-13/11/2009
-
-**Last updated:**
-
-17/10/2025
+**First published:** 13/11/2009 **Last updated:** 08/05/2026
 
 [View](/sv/documents/product-information/arava-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000279486 04/09/2025
+**Latest procedure affecting product information:** VR/0000264105
+
+12/03/2026
 
 icon globe
 
@@ -721,310 +443,178 @@ Arava : EPAR - All Authorised presentations
 
 English (EN) (25.68 KB - PDF)
 
-**First published:** 15/12/2005
-
-**Last updated:** 22/01/2013
+**First published:** 15/12/2005 **Last updated:** 22/01/2013
 
 [View](/en/documents/all-authorised-presentations/arava-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-81)
+[Other languages (24)](#file-language-dropdown-53)
 
 български (BG) (58.86 KB - PDF)
 
-**First published:**
-
-15/12/2005
-
-**Last updated:**
-
-22/01/2013
+**First published:** 15/12/2005 **Last updated:** 22/01/2013
 
 [View](/bg/documents/all-authorised-presentations/arava-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (18.48 KB - PDF)
 
-**First published:**
-
-15/12/2005
-
-**Last updated:**
-
-22/01/2013
+**First published:** 15/12/2005 **Last updated:** 22/01/2013
 
 [View](/es/documents/all-authorised-presentations/arava-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (29.13 KB - PDF)
 
-**First published:**
-
-15/12/2005
-
-**Last updated:**
-
-22/01/2013
+**First published:** 15/12/2005 **Last updated:** 22/01/2013
 
 [View](/cs/documents/all-authorised-presentations/arava-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (22.53 KB - PDF)
 
-**First published:**
-
-15/12/2005
-
-**Last updated:**
-
-22/01/2013
+**First published:** 15/12/2005 **Last updated:** 22/01/2013
 
 [View](/da/documents/all-authorised-presentations/arava-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (20.18 KB - PDF)
 
-**First published:**
-
-15/12/2005
-
-**Last updated:**
-
-22/01/2013
+**First published:** 15/12/2005 **Last updated:** 22/01/2013
 
 [View](/de/documents/all-authorised-presentations/arava-epar-all-authorised-presentations_de.pdf)
 
 eesti keel (ET) (23.12 KB - PDF)
 
-**First published:**
-
-15/12/2005
-
-**Last updated:**
-
-22/01/2013
+**First published:** 15/12/2005 **Last updated:** 22/01/2013
 
 [View](/et/documents/all-authorised-presentations/arava-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (54.39 KB - PDF)
 
-**First published:**
-
-15/12/2005
-
-**Last updated:**
-
-22/01/2013
+**First published:** 15/12/2005 **Last updated:** 22/01/2013
 
 [View](/el/documents/all-authorised-presentations/arava-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (15.86 KB - PDF)
 
-**First published:**
-
-15/12/2005
-
-**Last updated:**
-
-22/01/2013
+**First published:** 15/12/2005 **Last updated:** 22/01/2013
 
 [View](/fr/documents/all-authorised-presentations/arava-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (44.16 KB - PDF)
 
-**First published:**
-
-15/12/2005
-
-**Last updated:**
-
-22/01/2013
+**First published:** 15/12/2005 **Last updated:** 22/01/2013
 
 [View](/hr/documents/all-authorised-presentations/arava-epar-all-authorised-presentations_hr.pdf)
 
 íslenska (IS) (15.88 KB - PDF)
 
-**First published:**
-
-15/12/2005
-
-**Last updated:**
-
-22/01/2013
+**First published:** 15/12/2005 **Last updated:** 22/01/2013
 
 [View](/is/documents/all-authorised-presentations/arava-epar-all-authorised-presentations_is.pdf)
 
 italiano (IT) (16 KB - PDF)
 
-**First published:**
-
-15/12/2005
-
-**Last updated:**
-
-22/01/2013
+**First published:** 15/12/2005 **Last updated:** 22/01/2013
 
 [View](/it/documents/all-authorised-presentations/arava-epar-all-authorised-presentations_it.pdf)
 
 latviešu valoda (LV) (46.93 KB - PDF)
 
-**First published:**
-
-15/12/2005
-
-**Last updated:**
-
-22/01/2013
+**First published:** 15/12/2005 **Last updated:** 22/01/2013
 
 [View](/lv/documents/all-authorised-presentations/arava-epar-all-authorised-presentations_lv.pdf)
 
 lietuvių kalba (LT) (53.39 KB - PDF)
 
-**First published:**
-
-15/12/2005
-
-**Last updated:**
-
-22/01/2013
+**First published:** 15/12/2005 **Last updated:** 22/01/2013
 
 [View](/lt/documents/all-authorised-presentations/arava-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (51.73 KB - PDF)
 
-**First published:**
-
-15/12/2005
-
-**Last updated:**
-
-22/01/2013
+**First published:** 15/12/2005 **Last updated:** 22/01/2013
 
 [View](/hu/documents/all-authorised-presentations/arava-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (57.08 KB - PDF)
 
-**First published:**
-
-15/12/2005
-
-**Last updated:**
-
-22/01/2013
+**First published:** 15/12/2005 **Last updated:** 22/01/2013
 
 [View](/mt/documents/all-authorised-presentations/arava-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (15.83 KB - PDF)
 
-**First published:**
-
-15/12/2005
-
-**Last updated:**
-
-22/01/2013
+**First published:** 15/12/2005 **Last updated:** 22/01/2013
 
 [View](/nl/documents/all-authorised-presentations/arava-epar-all-authorised-presentations_nl.pdf)
 
 norsk (NO) (15.89 KB - PDF)
 
-**First published:**
-
-15/12/2005
-
-**Last updated:**
-
-22/01/2013
+**First published:** 15/12/2005 **Last updated:** 22/01/2013
 
 [View](/no/documents/all-authorised-presentations/arava-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (39.44 KB - PDF)
 
-**First published:**
-
-15/12/2005
-
-**Last updated:**
-
-22/01/2013
+**First published:** 15/12/2005 **Last updated:** 22/01/2013
 
 [View](/pl/documents/all-authorised-presentations/arava-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (18.39 KB - PDF)
 
-**First published:**
-
-15/12/2005
-
-**Last updated:**
-
-22/01/2013
+**First published:** 15/12/2005 **Last updated:** 22/01/2013
 
 [View](/pt/documents/all-authorised-presentations/arava-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (49.56 KB - PDF)
 
-**First published:**
-
-15/12/2005
-
-**Last updated:**
-
-22/01/2013
+**First published:** 15/12/2005 **Last updated:** 22/01/2013
 
 [View](/ro/documents/all-authorised-presentations/arava-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (47.41 KB - PDF)
 
-**First published:**
-
-15/12/2005
-
-**Last updated:**
-
-22/01/2013
+**First published:** 15/12/2005 **Last updated:** 22/01/2013
 
 [View](/sk/documents/all-authorised-presentations/arava-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (30.82 KB - PDF)
 
-**First published:**
-
-15/12/2005
-
-**Last updated:**
-
-22/01/2013
+**First published:** 15/12/2005 **Last updated:** 22/01/2013
 
 [View](/sl/documents/all-authorised-presentations/arava-epar-all-authorised-presentations_sl.pdf)
 
 Suomi (FI) (20.17 KB - PDF)
 
-**First published:**
-
-15/12/2005
-
-**Last updated:**
-
-22/01/2013
+**First published:** 15/12/2005 **Last updated:** 22/01/2013
 
 [View](/fi/documents/all-authorised-presentations/arava-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (15.97 KB - PDF)
 
-**First published:**
-
-15/12/2005
-
-**Last updated:**
-
-22/01/2013
+**First published:** 15/12/2005 **Last updated:** 22/01/2013
 
 [View](/sv/documents/all-authorised-presentations/arava-epar-all-authorised-presentations_sv.pdf)
 
 ## Product details
 
-Name of medicine Arava Active substance leflunomide International non-proprietary name (INN) or common name leflunomide Therapeutic area (MeSH)
+Name of medicine
+
+Arava
+
+Active substance
+
+leflunomide
+
+International non-proprietary name (INN) or common name
+
+leflunomide
+
+Therapeutic area (MeSH)
 
 - Arthritis, Rheumatoid
 - Arthritis, Psoriatic
 
-Anatomical therapeutic chemical (ATC) code L04AK01
+Anatomical therapeutic chemical (ATC) code
+
+L04AK01
 
 ### Pharmacotherapeutic group
 
@@ -1043,13 +633,27 @@ Moreover, switching from leflunomide to another DMARD without following the wash
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/000235 Marketing authorisation holder
+EMA product number
+
+EMEA/H/C/000235
+
+Marketing authorisation holder
 
 Sanofi-aventis Deutschland GmbH
 
 D-65926 Frankfurt am Main
 
-Opinion adopted 20/05/1999 Marketing authorisation issued 02/09/1999 Revision 43
+Opinion adopted
+
+20/05/1999
+
+Marketing authorisation issued
+
+02/09/1999
+
+Revision
+
+44
 
 ## Assessment history
 
@@ -1061,9 +665,9 @@ Collapse section
 
 Arava : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (119.48 KB - PDF)
+English (EN) (127.83 KB - PDF)
 
-**First published:** 17/10/2025
+**First published:** 17/10/2025 **Last updated:** 08/05/2026
 
 [View](/en/documents/procedural-steps-after/arava-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1071,9 +675,7 @@ Arava : EPAR - Procedural steps taken and scientific information after authorisa
 
 English (EN) (146.21 KB - PDF)
 
-**First published:** 16/11/2009
-
-**Last updated:** 17/10/2025
+**First published:** 16/11/2009 **Last updated:** 17/10/2025
 
 [View](/en/documents/procedural-steps-after/arava-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
@@ -1089,15 +691,11 @@ English (EN) (93.13 KB - PDF)
 
 Arava-H-C-235-II-0028: EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/215936/2012
+Adopted Reference Number: EMA/215936/2012
 
 English (EN) (626.98 KB - PDF)
 
-**First published:** 03/04/2012
-
-**Last updated:** 03/04/2012
+**First published:** 03/04/2012 **Last updated:** 03/04/2012
 
 [View](/en/documents/variation-report/arava-h-c-235-ii-0028-epar-assessment-report-variation_en.pdf)
 
@@ -1105,9 +703,7 @@ Arava : EPAR - Steps taken after authorisation when a cutoff date has been used
 
 English (EN) (105.12 KB - PDF)
 
-**First published:** 23/11/2005
-
-**Last updated:** 23/11/2005
+**First published:** 23/11/2005 **Last updated:** 23/11/2005
 
 [View](/en/documents/steps-after-cutoff/arava-epar-steps-taken-after-authorisation-when-cutoff-date-has-been-used_en.pdf)
 
@@ -1117,9 +713,7 @@ Arava : EPAR - Scientific Discussion
 
 English (EN) (227.28 KB - PDF)
 
-**First published:** 23/11/2005
-
-**Last updated:** 23/11/2005
+**First published:** 23/11/2005 **Last updated:** 23/11/2005
 
 [View](/en/documents/scientific-discussion/arava-epar-scientific-discussion_en.pdf)
 
@@ -1127,224 +721,174 @@ Arava : EPAR - Procedural steps taken before authorisation
 
 English (EN) (89.65 KB - PDF)
 
-**First published:** 23/11/2005
-
-**Last updated:** 23/11/2005
+**First published:** 23/11/2005 **Last updated:** 23/11/2005
 
 [View](/en/documents/procedural-steps/arava-epar-procedural-steps-taken-authorisation_en.pdf)
 
-#### Product information - with tracked changes
+## Product information - with tracked changes
 
 The approved product information for this medicine is available below showing the changes since the previous procedure affecting the product information. The same document without tracked changes is above under 'Product information'.
 
 Arava : EPAR - Product information - tracked changes
 
-English (EN) (242.46 KB - DOCX)
+English (EN) (236.74 KB - DOCX)
 
-**First published:** 17/10/2025
+**First published:** 17/10/2025 **Last updated:** 08/05/2026
 
 [View](/en/documents/product-information-tracked-changes/arava-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-436)
+[Other languages (24)](#file-language-dropdown-447)
 
-български (BG) (270.03 KB - DOCX)
+български (BG) (268.35 KB - DOCX)
 
-**First published:**
-
-17/10/2025
+**First published:** 17/10/2025 **Last updated:** 08/05/2026
 
 [View](/bg/documents/product-information-tracked-changes/arava-epar-product-information-tracked-changes_bg.docx)
 
-español (ES) (301.36 KB - DOCX)
+español (ES) (299.39 KB - DOCX)
 
-**First published:**
-
-17/10/2025
+**First published:** 17/10/2025 **Last updated:** 08/05/2026
 
 [View](/es/documents/product-information-tracked-changes/arava-epar-product-information-tracked-changes_es.docx)
 
-čeština (CS) (250.81 KB - DOCX)
+čeština (CS) (247.49 KB - DOCX)
 
-**First published:**
-
-17/10/2025
+**First published:** 17/10/2025 **Last updated:** 08/05/2026
 
 [View](/cs/documents/product-information-tracked-changes/arava-epar-product-information-tracked-changes_cs.docx)
 
-dansk (DA) (252.98 KB - DOCX)
+dansk (DA) (254.43 KB - DOCX)
 
-**First published:**
-
-17/10/2025
+**First published:** 17/10/2025 **Last updated:** 08/05/2026
 
 [View](/da/documents/product-information-tracked-changes/arava-epar-product-information-tracked-changes_da.docx)
 
-Deutsch (DE) (290.24 KB - DOCX)
+Deutsch (DE) (271.85 KB - DOCX)
 
-**First published:**
-
-17/10/2025
+**First published:** 17/10/2025 **Last updated:** 08/05/2026
 
 [View](/de/documents/product-information-tracked-changes/arava-epar-product-information-tracked-changes_de.docx)
 
-eesti keel (ET) (203.87 KB - DOCX)
+eesti keel (ET) (227.99 KB - DOCX)
 
-**First published:**
-
-17/10/2025
+**First published:** 17/10/2025 **Last updated:** 08/05/2026
 
 [View](/et/documents/product-information-tracked-changes/arava-epar-product-information-tracked-changes_et.docx)
 
-ελληνικά (EL) (359.65 KB - DOCX)
+ελληνικά (EL) (371.41 KB - DOCX)
 
-**First published:**
-
-17/10/2025
+**First published:** 17/10/2025 **Last updated:** 08/05/2026
 
 [View](/el/documents/product-information-tracked-changes/arava-epar-product-information-tracked-changes_el.docx)
 
-français (FR) (265.38 KB - DOCX)
+français (FR) (262.92 KB - DOCX)
 
-**First published:**
-
-17/10/2025
+**First published:** 17/10/2025 **Last updated:** 08/05/2026
 
 [View](/fr/documents/product-information-tracked-changes/arava-epar-product-information-tracked-changes_fr.docx)
 
-hrvatski (HR) (280.05 KB - DOCX)
+hrvatski (HR) (261.04 KB - DOCX)
 
-**First published:**
-
-17/10/2025
+**First published:** 17/10/2025 **Last updated:** 08/05/2026
 
 [View](/hr/documents/product-information-tracked-changes/arava-epar-product-information-tracked-changes_hr.docx)
 
-íslenska (IS) (235.4 KB - DOCX)
+íslenska (IS) (226.67 KB - DOCX)
 
-**First published:**
-
-17/10/2025
+**First published:** 17/10/2025 **Last updated:** 08/05/2026
 
 [View](/is/documents/product-information-tracked-changes/arava-epar-product-information-tracked-changes_is.docx)
 
-italiano (IT) (301.78 KB - DOCX)
+italiano (IT) (303 KB - DOCX)
 
-**First published:**
-
-17/10/2025
+**First published:** 17/10/2025 **Last updated:** 08/05/2026
 
 [View](/it/documents/product-information-tracked-changes/arava-epar-product-information-tracked-changes_it.docx)
 
-latviešu valoda (LV) (223.97 KB - DOCX)
+latviešu valoda (LV) (224.97 KB - DOCX)
 
-**First published:**
-
-17/10/2025
+**First published:** 17/10/2025 **Last updated:** 08/05/2026
 
 [View](/lv/documents/product-information-tracked-changes/arava-epar-product-information-tracked-changes_lv.docx)
 
-lietuvių kalba (LT) (207.2 KB - DOCX)
+lietuvių kalba (LT) (209.97 KB - DOCX)
 
-**First published:**
-
-17/10/2025
+**First published:** 17/10/2025 **Last updated:** 08/05/2026
 
 [View](/lt/documents/product-information-tracked-changes/arava-epar-product-information-tracked-changes_lt.docx)
 
-magyar (HU) (284.55 KB - DOCX)
+magyar (HU) (279.65 KB - DOCX)
 
-**First published:**
-
-17/10/2025
+**First published:** 17/10/2025 **Last updated:** 08/05/2026
 
 [View](/hu/documents/product-information-tracked-changes/arava-epar-product-information-tracked-changes_hu.docx)
 
-Malti (MT) (254.34 KB - DOCX)
+Malti (MT) (252.43 KB - DOCX)
 
-**First published:**
-
-17/10/2025
+**First published:** 17/10/2025 **Last updated:** 08/05/2026
 
 [View](/mt/documents/product-information-tracked-changes/arava-epar-product-information-tracked-changes_mt.docx)
 
-Nederlands (NL) (251.74 KB - DOCX)
+Nederlands (NL) (243.53 KB - DOCX)
 
-**First published:**
-
-17/10/2025
+**First published:** 17/10/2025 **Last updated:** 08/05/2026
 
 [View](/nl/documents/product-information-tracked-changes/arava-epar-product-information-tracked-changes_nl.docx)
 
-norsk (NO) (267.47 KB - DOCX)
+norsk (NO) (251.15 KB - DOCX)
 
-**First published:**
-
-17/10/2025
+**First published:** 17/10/2025 **Last updated:** 08/05/2026
 
 [View](/no/documents/product-information-tracked-changes/arava-epar-product-information-tracked-changes_no.docx)
 
-polski (PL) (278.45 KB - DOCX)
+polski (PL) (276.85 KB - DOCX)
 
-**First published:**
-
-17/10/2025
+**First published:** 17/10/2025 **Last updated:** 08/05/2026
 
 [View](/pl/documents/product-information-tracked-changes/arava-epar-product-information-tracked-changes_pl.docx)
 
-português (PT) (240.96 KB - DOCX)
+português (PT) (238.74 KB - DOCX)
 
-**First published:**
-
-17/10/2025
+**First published:** 17/10/2025 **Last updated:** 08/05/2026
 
 [View](/pt/documents/product-information-tracked-changes/arava-epar-product-information-tracked-changes_pt.docx)
 
-română (RO) (262.18 KB - DOCX)
+română (RO) (261.71 KB - DOCX)
 
-**First published:**
-
-17/10/2025
+**First published:** 17/10/2025 **Last updated:** 08/05/2026
 
 [View](/ro/documents/product-information-tracked-changes/arava-epar-product-information-tracked-changes_ro.docx)
 
-slovenčina (SK) (270.36 KB - DOCX)
+slovenčina (SK) (274.62 KB - DOCX)
 
-**First published:**
-
-17/10/2025
+**First published:** 17/10/2025 **Last updated:** 08/05/2026
 
 [View](/sk/documents/product-information-tracked-changes/arava-epar-product-information-tracked-changes_sk.docx)
 
-slovenščina (SL) (305.84 KB - DOCX)
+slovenščina (SL) (270.3 KB - DOCX)
 
-**First published:**
-
-17/10/2025
+**First published:** 17/10/2025 **Last updated:** 08/05/2026
 
 [View](/sl/documents/product-information-tracked-changes/arava-epar-product-information-tracked-changes_sl.docx)
 
-Suomi (FI) (255.93 KB - DOCX)
+Suomi (FI) (254.56 KB - DOCX)
 
-**First published:**
-
-17/10/2025
+**First published:** 17/10/2025 **Last updated:** 08/05/2026
 
 [View](/fi/documents/product-information-tracked-changes/arava-epar-product-information-tracked-changes_fi.docx)
 
-svenska (SV) (249.93 KB - DOCX)
+svenska (SV) (246.13 KB - DOCX)
 
-**First published:**
-
-17/10/2025
+**First published:** 17/10/2025 **Last updated:** 08/05/2026
 
 [View](/sv/documents/product-information-tracked-changes/arava-epar-product-information-tracked-changes_sv.docx)
 
-#### Topics
+## Topics
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 17/10/2025
+**This page was last updated on**
+
+08/05/2026
 
 ## Share this page
-
-[Back to top](#main-content)

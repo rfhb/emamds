@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-07-16 09:51:04
+document_datetime: 2026-05-07 13:59:57
 document_pages: 69
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/ilumetri-epar-product-information_en.pdf
 document_name: ilumetri-epar-product-information_en.pdf
 version: success
-processing_time: 20.2961623
-conversion_datetime: 2025-12-22 09:53:06.865373
+processing_time: 21.8025935
+conversion_datetime: 2026-05-10 12:10:38.89435
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.17.0
+  docling-jobkit: 1.18.0
+  docling: 2.92.0
+  docling-core: 2.74.1
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.10.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -240,11 +240,9 @@ IL-23 is a naturally occurring cytokine that is involved in inflammatory and imm
 
 ## Clinical efficacy and safety
 
-The multicentre, randomised, double-blind, placebo-controlled trials reSURFACE 1 and reSURFACE 2 studies enrolled a total of 1,862 patients 18 years of age and older with plaque psoriasis who had a minimum body surface area involvement of 10%, a Physician Global Assessment (PGA) score of ≥ 3 in the overall assessment (plaque thickness, erythema, and scaling) of psoriasis on
+The multicentre, randomised, double-blind, placebo-controlled trials reSURFACE 1 and reSURFACE 2 studies enrolled a total of 1,862 patients 18 years of age and older with plaque psoriasis who had a minimum body surface area involvement of 10%, a Physician Global Assessment (PGA) score of ≥ 3 in the overall assessment (plaque thickness, erythema, and scaling) of psoriasis on a severity scale of 0 to 5, a Psoriasis Area and Severity Index (PASI) score ≥ 12, and who were candidates for phototherapy or systemic therapy.
 
 <div style=\"page-break-after: always\"></div>
-
-a severity scale of 0 to 5, a Psoriasis Area and Severity Index (PASI) score ≥ 12, and who were candidates for phototherapy or systemic therapy.
 
 In these studies, patients were randomised to either placebo or tildrakizumab (including 200 mg and 100 mg at 0, 4 and every twelve weeks thereafter [Q12W]), up to 52 or 64 weeks. In the active comparator study (reSURFACE 2), patients were also randomised to receive etanercept 50 mg twice weekly for 12 weeks, and weekly thereafter up to 28 weeks. Patients who did not respond to etanercept treatment (&lt;75% reduction in PASI from baseline) were switched to tildrakizumab 200 mg Q12W up to 52 weeks, while patients who responded to etanercept were discontinued from the study.
 
@@ -260,7 +258,7 @@ Table 2. Summary of response rates in studies reSURFACE 1 and reSURFACE 2
 
 |                                                                           | Week 12 (2 doses)*   | Week 12 (2 doses)*   | Week 12 (2 doses)*   | Week 12 (2 doses)*   | Week 28 (3 doses)*   | Week 28 (3 doses)*   | Week 28 (3 doses)*   |
 |---------------------------------------------------------------------------|----------------------|----------------------|----------------------|----------------------|----------------------|----------------------|----------------------|
-|                                                                           | 200m g               | 100 mg               | Placebo              | Etanercep t          | 200 mg               | 100 mg               | Etanercept           |
+|                                                                           | 200 mg               | 100 mg               | Placebo              | Etanercept           | 200 mg               | 100 mg               | Etanercept           |
 | reSURFACE1                                                                |                      |                      |                      |                      |                      |                      |                      |
 | Number of patients                                                        | 308                  | 309                  | 154                  | -                    | 298                  | 299                  | -                    |
 | PASI 75 a (%)                                                             | 62.3 †b              | 63.8 †b              | 5.8 b                | -                    | 81.9 c               | 80.4 c               | -                    |
@@ -271,31 +269,16 @@ Table 2. Summary of response rates in studies reSURFACE 1 and reSURFACE 2
 | reSURFACE2                                                                |                      |                      |                      |                      |                      |                      |                      |
 | Number of patients                                                        | 314                  | 307                  | 156                  | 313                  | 299                  | 294                  | 289                  |
 | PASI 75 a (%)                                                             | 65.6 †‡b             | 61.2 †‡b             | 5.8 b                | 48.2 b               | 72.6 ‡b              | 73.5 ‡b              | 53.6 b               |
-| PGA of 'clear' or 'minimal' with ≥2                                       | 59.2 †¥b             | 54.7 †b              | 4.5 b                | 47.6 b               | 69.2 ‡b              | 64.6 ‡b              | 45.3 b               |
+| PGA of 'clear' or 'minimal' with ≥2 grade improvement from Baseline a (%) | 59.2 †¥b             | 54.7 †b              | 4.5 b                | 47.6 b               | 69.2 ‡b              | 64.6 ‡b              | 45.3 b               |
 
 <div style=\"page-break-after: always\"></div>
 
-|                                       | Week 12 (2 doses)*   | Week 12 (2 doses)*   | Week 12 (2 doses)*   | Week 12 (2 doses)*   | Week 28 (3 doses)*   | Week 28 (3 doses)*   | Week 28 (3 doses)*   |
-|---------------------------------------|----------------------|----------------------|----------------------|----------------------|----------------------|----------------------|----------------------|
-|                                       | 200m g               | 100 mg               | Placebo              | Etanercep t          | 200 mg               | 100 mg               | Etanercept           |
-| grade improvement from Baseline a (%) |                      |                      |                      |                      |                      |                      |                      |
-| PASI 90 (%)                           | 36.6 †‡b             | 38.8 †‡b             | 1.3 b                | 21.4 b               | 57.7 ‡c              | 55.5 ‡c              | 29.4 c               |
-| PASI 100 (%)                          | 11.8 †‡b             | 12.4 †‡b             | 0                    | 4.8 b                | 27.0 ‡c              | 22.8 ‡c              | 10.7 c               |
-| DLQI Score 0 or 1 (%)                 | 47.4 †¥              | 40.2 †               | 8.0                  | 35.5                 | 65.0 ‡c              | 54.1 ‡c              | 39.4 c               |
-
-a  Co-primary efficacy endpoint at week 12.
-
-b  Non-responder imputation for missing data.
-
-c  No imputation for missing data.
-
-*The number of doses administered refers only to tildrakizumab groups.
-
-n = number of patients in the full analysis set for which data was available, after imputation when applicable.
-
-p-values calculated using the Cochran-MantelHaenszel (CMH) test stratified by body weight (≤90 kg, &gt;90 kg) and prior exposure to biologic therapy for psoriasis (yes/no).
-
-† p≤0.001 versus placebo; ‡ p≤0.001 versus etanercept; ¥ p≤0.05 versus etanercept.
+|                       | Week 12 (2 doses)*   | Week 12 (2 doses)*   | Week 12 (2 doses)*   | Week 12 (2 doses)*   | Week 28 (3 doses)*   | Week 28 (3 doses)*   | Week 28 (3 doses)*   |
+|-----------------------|----------------------|----------------------|----------------------|----------------------|----------------------|----------------------|----------------------|
+|                       | 200 mg               | 100 mg               | Placebo              | Etanercept           | 200 mg               | 100 mg               | Etanercept           |
+| PASI 90 (%)           | 36.6 †‡b             | 38.8 †‡b             | 1.3 b                | 21.4 b               | 57.7 ‡c              | 55.5 ‡c              | 29.4 c               |
+| PASI 100 (%)          | 11.8 †‡b             | 12.4 †‡b             | 0                    | 4.8 b                | 27.0 ‡c              | 22.8 ‡c              | 10.7 c               |
+| DLQI Score 0 or 1 (%) | 47.4 †¥              | 40.2 †               | 8.0                  | 35.5                 | 65.0 ‡c              | 54.1 ‡c              | 39.4 c               |
 
 ## Maintenance of response
 
@@ -316,10 +299,6 @@ Table 3. Maintenance of response in studies reSURFACE 1 and reSURFACE 2
 | PGA of 'clear' or 'minimal' with ≥2 grade improvement from Baseline (%) | 88.0                     | 84.8                     | 84.0                     | 79.4                     |
 | PASI 90 (%)                                                             | 75.0                     | 81.9                     | 74.2                     | 78.4                     |
 | PASI 100 (%)                                                            | 34.3                     | 46.7                     | 30.2                     | 35.3                     |
-
-a  Long-term response in patients who were responders (had achieved at least PASI 75) to tildrakizumab at week 28.
-
-b  No imputation for missing data.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -357,6 +336,23 @@ At week 12 and across studies, tildrakizumab was associated with statistically s
 
 A randomised, placebo-controlled study evaluated the efficacy and safety of tildrakizumab in 231 patients with moderate to severe plaque psoriasis of the scalp, defined as an Investigator's Global Assessment (IGA) modified (mod) 2011 scalp score ≥3, Psoriasis Scalp Severity Index (PSSI) score ≥12, and ≥30% of scalp surface area (SSA) affected at baseline. At week 16, tildrakizumab treatment compared to placebo was associated with a statistically significant improvement in both endpoints the IGA mod 2011 0 or 1 scalp only response (49% versus 7%) and PSSI 90 response (56% versus 4%). These effects were sustained for tildrakizumab patients who continued treatment up to week 52.
 
+## Nail psoriasis
+
+A randomised, placebo-controlled study evaluated the efficacy and safety of tildrakizumab in 99 adults with moderate to severe plaque psoriasis who had moderate to severe nail psoriasis, defined as a modified Nail Psoriasis Severity Index (mNAPSI) score of ≥20 and at least 50% nail destruction. Patients were randomised to tildrakizumab 100 mg administered at week 0, week 4, and every Q12W thereafter, or placebo up to 28 weeks. Tildrakizumab demonstrated a statistically significant treatment benefit in patients with moderate to severe nail psoriasis (Table 4).
+
+Table 4. Efficacy Outcomes at Week 28
+
+| Endpoint                                | Tildrakizumab 100 mg Q12W N=51   | Placebo N=48   | Response Difference (95% CI)   |
+|-----------------------------------------|----------------------------------|----------------|--------------------------------|
+| mNAPSI 75, n (%)                        | 13 (25.5) a                      | 2 (4.2) a      | 22.0% (7.97, 36.06) b          |
+| Mean change in total- fingernail mNAPSI | -21.8                            | -7.7           | -14.1 (-19.86, -8.42) c        |
+
+a Non-responder imputation for missing data.
+
+b Response difference and CI were calculated using Miettinen-Nurminen, stratified by body weight and prior anti-TNF agent exposure.
+
+c MMRM model included fixed effects for treatment, visit, treatment by visit interaction, prior use of TNF-alpha inhibitors, body weight class, and prior anti-TNF agent exposures.
+
 ## Immunogenicity
 
 In pooled Phase 2b and Phase 3 analyses, 7.3% of tildrakizumab-treated patients developed antibodies to tildrakizumab up to week 64. Of the subjects who developed antibodies to tildrakizumab, 38% (22/57 patients) had neutralizing antibodies. This represents 2.8% of all subjects receiving tildrakizumab.
@@ -364,6 +360,8 @@ In pooled Phase 2b and Phase 3 analyses, 7.3% of tildrakizumab-treated patients 
 In pooled phase 3 analyses, 8.3% of tildrakizumab-treated patients developed antibodies to tildrakizumab up to 420 weeks of treatment. Of the tildrakizumab-treated patients who developed antibodies to tildrakizumab, 35% (36/102 patients) had antibodies that were classified as neutralizing, which represents 2.9% of all tildrakizumab-treated patients.
 
 The development of neutralizing antibodies to tildrakizumab was associated with lower serum tildrakizumab concentrations.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Paediatric population
 
@@ -380,8 +378,6 @@ At steady state, following administration of 100 mg of tildrakizumab in subjects
 ## Distribution
 
 Tildrakizumab has limited extravascular distribution with volume of distribution (Vd) values ranging from 76.9 to 106 mL/kg.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Biotransformation
 
@@ -403,6 +399,8 @@ Steady-state is achieved by 16 weeks with the clinical regimen of 0, 4, and ever
 
 Population pharmacokinetic analysis indicated that age did not have a clinically significant influence on the clearance of tildrakizumab in adult subjects with plaque psoriasis. Following administration of 100 mg or 200 mg of tildrakizumab, subjects who are 65 years or older (n=81 and n=82, respectively) had a similar tildrakizumab clearance as compared to subjects less than 65 years old (n=884).
 
+<div style=\"page-break-after: always\"></div>
+
 ## Renal and hepatic impairment
 
 No formal trial of the effect of hepatic or renal impairment on the pharmacokinetics of tildrakizumab was conducted. Tildrakizumab is catabolised into component amino acids by general protein degradation processes and is not eliminated by renal or hepatic pathways.
@@ -421,8 +419,6 @@ Non-clinical data reveal no special hazard for humans based on conventional stud
 
 Animal mutagenicity and carcinogenicity studies have not been conducted with tildrakizumab. Studies in mouse tumor models showed that selective inhibition of IL-23p19 does not increase carcinogenic risk.
 
-<div style=\"page-break-after: always\"></div>
-
 In cynomolgus monkeys, there was negligible secretion of the product into breast milk. One month after birth, the milk/serum ratio was ≤ 0.002. Tildrakizumab was shown to distribute across the placental barrier. After repeated dosing to pregnant cynomolgus monkeys, serum concentrations were quantifiable in the fetus, but the reproduction toxicity studies did not reveal any untoward effects.
 
 No effects on fertility parameters such as reproductive organs, menstrual cycle length, and/or hormones were observed in male and female cynomolgus monkeys that were administered tildrakizumab at doses resulting in &gt; 100 times the human exposure at the recommended clinical dose based on AUC.
@@ -434,6 +430,8 @@ In a pre- and postnatal development toxicity study in monkeys, no related increa
 ## 6.1 List of excipients
 
 L-Histidine L-Histidine hydrochloride monohydrate Polysorbate 80 (E 433) Sucrose Water for injections
+
+<div style=\"page-break-after: always\"></div>
 
 ## 6.2 Incompatibilities
 
@@ -449,9 +447,7 @@ Store in a refrigerator (2 °C - 8 °C).
 
 Do not freeze.
 
-Unopened syringe or pen of Ilumetri may be removed from the refrigeration and stored up to 25 °C for a single period of up to 30 days. Once removed from the refrigerator and stored under these conditions, discard after 30 days or by the expiry date printed on the container, whichever occurs first. A field for the date is provided on the carton to record the removal from refrigerator date.
-
-Store in the outer carton in order to protect from light.
+Unopened syringe or pen of Ilumetri may be removed from the refrigeration and stored up to 25 °C for a single period of up to 30 days. Once removed from the refrigerator and stored under these conditions, discard after 30 days or by the expiry date printed on the container, whichever occurs first. A field for the date is provided on the carton to record the removal from refrigerator date. Store in the outer carton in order to protect from light.
 
 Do not shake.
 
@@ -460,8 +456,6 @@ Do not shake.
 ## Ilumetri 100 mg solution for injection in pre-filled syringe
 
 1 mL solution in a type I glass pre-filled syringe with stainless steel 29G x ½' needle, covered with a needle shield and rigid needle shield of polypropylene with a fluropolymer lamination, plunger stopper assembled in a passive safety device.
-
-<div style=\"page-break-after: always\"></div>
 
 Pack size of 1 pre-filled syringe or 2 pre-filled syringes.
 
@@ -485,6 +479,8 @@ Pack size of 1 pre-filled pen.
 
 Pack size of 1 pre-filled pen.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 6.6 Special precautions for disposal and other handling
 
 Ilumetri is a sterile solution for injection in pre-filled syringe or pre-filled pen. The syringes and pens are for single use only.
@@ -501,11 +497,11 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 Almirall, S.A. Ronda General Mitre, 151 08022 Barcelona Spain
 
-<div style=\"page-break-after: always\"></div>
-
 ## 8. MARKETING AUTHORISATION NUMBERS
 
-EU/1/18/1323/001 EU/1/18/1323/002 EU/1/18/1323/003 EU/1/18/1323/004 EU/1/18/1323/005
+EU/1/18/1323/001 EU/1/18/1323/002 EU/1/18/1323/003 EU/1/18/1323/004
+
+EU/1/18/1323/005
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -645,7 +641,9 @@ Almirall, S.A. Ronda General Mitre, 151 08022 Barcelona Spain
 
 ## 12. MARKETING AUTHORISATION NUMBERS
 
-EU/1/18/1323/001 EU/1/18/1323/002
+EU/1/18/1323/001
+
+EU/1/18/1323/002
 
 ## 13. BATCH NUMBER
 
@@ -657,7 +655,9 @@ Lot
 
 ## 16. INFORMATION IN BRAILLE
 
-ilumetri 100 mg syringe ilumetri (2x 100 mg) syringe
+ilumetri 100 mg syringe
+
+ilumetri (2x 100 mg) syringe
 
 ## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
@@ -1231,11 +1231,9 @@ Common (may affect up to 1 in 10 people)
 
 ## Reporting of side effects
 
-If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting
+If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
 
 <div style=\"page-break-after: always\"></div>
-
-system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
 
 ## 5. How to store Ilumetri
 
@@ -1280,11 +1278,9 @@ Ronda General Mitre, 151
 
 ## Manufacturer:
 
-SUN Pharmaceuticals Industries (Europe) B.V. Polarisavenue 87 2132JH Hoofddorp, Netherlands
+SUN Pharmaceuticals Industries (Europe) B.V. Polarisavenue 87 2132JH Hoofddorp, Netherlands Industrias Farmacéuticas Almirall, S.A. Ctra. de Martorell 41-61
 
 <div style=\"page-break-after: always\"></div>
-
-Industrias Farmacéuticas Almirall, S.A. Ctra. de Martorell 41-61
 
 08740 Sant Andreu de la Barca, Barcelona, Spain
 
@@ -1372,7 +1368,7 @@ Puh/Tel: +358 10 4261
 
 ## Ísland
 
-Vistor hf.
+Vistor ehf.
 
 Sími: +354 535 70 00
 
@@ -1660,11 +1656,9 @@ Common (may affect up to 1 in 10 people)
 
 ## Reporting of side effects
 
-If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting
+If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
 
 <div style=\"page-break-after: always\"></div>
-
-system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
 
 ## 5. How to store Ilumetri
 
@@ -1725,7 +1719,7 @@ Almirall SpA
 
 Tel: +39 02 346181
 
-България/ Eesti/ Ελλάδα/ España/ Hrvatska/ Κύπρος/ Latvija/ Lietuva/ Magyarország/ Malta/ România/ Slovenija
+## България/ Eesti/ Ελλάδα/ España/ Hrvatska/ Κύπρος/ Latvija/ Lietuva/ Magyarország/ Malta/ România/ Slovenija
 
 Almirall, S.A.
 
@@ -1791,7 +1785,7 @@ Puh/Tel: +358 10 4261
 
 ## Ísland
 
-Vistor hf.
+Vistor ehf.
 
 Sími: +354 535 70 00
 
@@ -2072,11 +2066,9 @@ Common (may affect up to 1 in 10 people)
 
 ## Reporting of side effects
 
-If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting
+If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
 
 <div style=\"page-break-after: always\"></div>
-
-system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
 
 ## 5. How to store Ilumetri
 
@@ -2119,11 +2111,7 @@ Almirall, S.A. Ronda General Mitre, 151
 
 SUN Pharmaceuticals Industries (Europe) B.V. Polarisavenue 87 2132JH Hoofddorp, Netherlands
 
-Industrias Farmacéuticas Almirall, S.A. Ctra. de Martorell 41-61 08740 Sant Andreu de la Barca, Barcelona, Spain
-
-<div style=\"page-break-after: always\"></div>
-
-For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
+Industrias Farmacéuticas Almirall, S.A. Ctra. de Martorell 41-61 08740 Sant Andreu de la Barca, Barcelona, Spain For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 ## België/Belgique/Belgien/ Luxembourg/Luxemburg
 
@@ -2133,7 +2121,7 @@ Tél/Tel: +32 (0)2 771 86 37
 
 ## Ísland
 
-Vistor hf.
+Vistor ehf.
 
 Sími: +354 535 70 00
 
@@ -2202,6 +2190,8 @@ Tel: +353 1800 849322
 Almirall - Produtos Farmacêuticos, Lda.
 
 Tel.: +351 21 415 57 50
+
+<div style=\"page-break-after: always\"></div>
 
 ## This leaflet was last revised in
 
@@ -2381,7 +2371,9 @@ DO NOT rub the injection site.
 
 <div style=\"page-break-after: always\"></div>
 
-## Ilumetri 200 mg solution for injection in pre-filled pen tildrakizumab
+## mg solution for injection in pre-filled pen
+
+## Ilumetri 200 tildrakizumab
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
@@ -2532,11 +2524,9 @@ Common (may affect up to 1 in 10 people)
 
 ## Reporting of side effects
 
-If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting
+If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
 
 <div style=\"page-break-after: always\"></div>
-
-system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
 
 ## 5. How to store Ilumetri
 
@@ -2587,7 +2577,7 @@ Tél/Tel: +32 (0)2 771 86 37
 
 ## Ísland
 
-Vistor hf.
+Vistor ehf.
 
 Sími: +354 535 70 00
 

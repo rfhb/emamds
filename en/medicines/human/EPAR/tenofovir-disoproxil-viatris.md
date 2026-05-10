@@ -1,32 +1,32 @@
 ---
-document_datetime: 2025-12-29 07:44:05
+document_datetime: 2026-05-08 14:50:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/tenofovir-disoproxil-viatris.html
 document_name: tenofovir-disoproxil-viatris.html
 version: success
-processing_time: 0.3934243
-conversion_datetime: 2025-12-30 07:57:16.40923
+processing_time: 0.1491357
+conversion_datetime: 2026-05-10 12:06:54.360078
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.17.0
+  docling-jobkit: 1.18.0
+  docling: 2.92.0
+  docling-core: 2.74.1
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.10.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 # Tenofovir disoproxil Viatris (previously Tenofovir disoproxil Mylan)
 
 [RSS](/en/individual-human-medicine.xml/66050)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-tenofovir disoproxil Medicine Human Authorised
+tenofovir disoproxil
 
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
+Medicine Human Authorised
 
 Page contents
 
@@ -106,275 +106,141 @@ Tenofovir disoproxil Mylan : EPAR - Summary for the public
 
 English (EN) (94.78 KB - PDF)
 
-**First published:** 19/12/2016
-
-**Last updated:** 19/12/2016
+**First published:** 19/12/2016 **Last updated:** 19/12/2016
 
 [View](/en/documents/overview/tenofovir-disoproxil-mylan-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-324)
+[Other languages (22)](#file-language-dropdown-844)
 
 български (BG) (121.62 KB - PDF)
 
-**First published:**
-
-19/12/2016
-
-**Last updated:**
-
-19/12/2016
+**First published:** 19/12/2016 **Last updated:** 19/12/2016
 
 [View](/bg/documents/overview/tenofovir-disoproxil-mylan-epar-summary-public_bg.pdf)
 
 español (ES) (93.95 KB - PDF)
 
-**First published:**
-
-19/12/2016
-
-**Last updated:**
-
-19/12/2016
+**First published:** 19/12/2016 **Last updated:** 19/12/2016
 
 [View](/es/documents/overview/tenofovir-disoproxil-mylan-epar-summary-public_es.pdf)
 
 čeština (CS) (120.07 KB - PDF)
 
-**First published:**
-
-19/12/2016
-
-**Last updated:**
-
-19/12/2016
+**First published:** 19/12/2016 **Last updated:** 19/12/2016
 
 [View](/cs/documents/overview/tenofovir-disoproxil-mylan-epar-summary-public_cs.pdf)
 
 dansk (DA) (93.75 KB - PDF)
 
-**First published:**
-
-19/12/2016
-
-**Last updated:**
-
-19/12/2016
+**First published:** 19/12/2016 **Last updated:** 19/12/2016
 
 [View](/da/documents/overview/tenofovir-disoproxil-mylan-epar-summary-public_da.pdf)
 
 Deutsch (DE) (95.89 KB - PDF)
 
-**First published:**
-
-19/12/2016
-
-**Last updated:**
-
-19/12/2016
+**First published:** 19/12/2016 **Last updated:** 19/12/2016
 
 [View](/de/documents/overview/tenofovir-disoproxil-mylan-epar-summary-public_de.pdf)
 
 eesti keel (ET) (92.87 KB - PDF)
 
-**First published:**
-
-19/12/2016
-
-**Last updated:**
-
-19/12/2016
+**First published:** 19/12/2016 **Last updated:** 19/12/2016
 
 [View](/et/documents/overview/tenofovir-disoproxil-mylan-epar-summary-public_et.pdf)
 
 ελληνικά (EL) (125.72 KB - PDF)
 
-**First published:**
-
-19/12/2016
-
-**Last updated:**
-
-19/12/2016
+**First published:** 19/12/2016 **Last updated:** 19/12/2016
 
 [View](/el/documents/overview/tenofovir-disoproxil-mylan-epar-summary-public_el.pdf)
 
 français (FR) (94.65 KB - PDF)
 
-**First published:**
-
-19/12/2016
-
-**Last updated:**
-
-19/12/2016
+**First published:** 19/12/2016 **Last updated:** 19/12/2016
 
 [View](/fr/documents/overview/tenofovir-disoproxil-mylan-epar-summary-public_fr.pdf)
 
 hrvatski (HR) (114.43 KB - PDF)
 
-**First published:**
-
-19/12/2016
-
-**Last updated:**
-
-19/12/2016
+**First published:** 19/12/2016 **Last updated:** 19/12/2016
 
 [View](/hr/documents/overview/tenofovir-disoproxil-mylan-epar-summary-public_hr.pdf)
 
 italiano (IT) (93.07 KB - PDF)
 
-**First published:**
-
-19/12/2016
-
-**Last updated:**
-
-19/12/2016
+**First published:** 19/12/2016 **Last updated:** 19/12/2016
 
 [View](/it/documents/overview/tenofovir-disoproxil-mylan-epar-summary-public_it.pdf)
 
 latviešu valoda (LV) (116.83 KB - PDF)
 
-**First published:**
-
-19/12/2016
-
-**Last updated:**
-
-19/12/2016
+**First published:** 19/12/2016 **Last updated:** 19/12/2016
 
 [View](/lv/documents/overview/tenofovir-disoproxil-mylan-epar-summary-public_lv.pdf)
 
 lietuvių kalba (LT) (117.42 KB - PDF)
 
-**First published:**
-
-19/12/2016
-
-**Last updated:**
-
-19/12/2016
+**First published:** 19/12/2016 **Last updated:** 19/12/2016
 
 [View](/lt/documents/overview/tenofovir-disoproxil-mylan-epar-summary-public_lt.pdf)
 
 magyar (HU) (116.22 KB - PDF)
 
-**First published:**
-
-19/12/2016
-
-**Last updated:**
-
-19/12/2016
+**First published:** 19/12/2016 **Last updated:** 19/12/2016
 
 [View](/hu/documents/overview/tenofovir-disoproxil-mylan-epar-summary-public_hu.pdf)
 
 Malti (MT) (121.4 KB - PDF)
 
-**First published:**
-
-19/12/2016
-
-**Last updated:**
-
-19/12/2016
+**First published:** 19/12/2016 **Last updated:** 19/12/2016
 
 [View](/mt/documents/overview/tenofovir-disoproxil-mylan-epar-summary-public_mt.pdf)
 
 Nederlands (NL) (94.46 KB - PDF)
 
-**First published:**
-
-19/12/2016
-
-**Last updated:**
-
-19/12/2016
+**First published:** 19/12/2016 **Last updated:** 19/12/2016
 
 [View](/nl/documents/overview/tenofovir-disoproxil-mylan-epar-summary-public_nl.pdf)
 
 polski (PL) (121.01 KB - PDF)
 
-**First published:**
-
-19/12/2016
-
-**Last updated:**
-
-19/12/2016
+**First published:** 19/12/2016 **Last updated:** 19/12/2016
 
 [View](/pl/documents/overview/tenofovir-disoproxil-mylan-epar-summary-public_pl.pdf)
 
 português (PT) (94.1 KB - PDF)
 
-**First published:**
-
-19/12/2016
-
-**Last updated:**
-
-19/12/2016
+**First published:** 19/12/2016 **Last updated:** 19/12/2016
 
 [View](/pt/documents/overview/tenofovir-disoproxil-mylan-epar-summary-public_pt.pdf)
 
 română (RO) (116.97 KB - PDF)
 
-**First published:**
-
-19/12/2016
-
-**Last updated:**
-
-19/12/2016
+**First published:** 19/12/2016 **Last updated:** 19/12/2016
 
 [View](/ro/documents/overview/tenofovir-disoproxil-mylan-epar-summary-public_ro.pdf)
 
 slovenčina (SK) (118.25 KB - PDF)
 
-**First published:**
-
-19/12/2016
-
-**Last updated:**
-
-19/12/2016
+**First published:** 19/12/2016 **Last updated:** 19/12/2016
 
 [View](/sk/documents/overview/tenofovir-disoproxil-mylan-epar-summary-public_sk.pdf)
 
 slovenščina (SL) (113.38 KB - PDF)
 
-**First published:**
-
-19/12/2016
-
-**Last updated:**
-
-19/12/2016
+**First published:** 19/12/2016 **Last updated:** 19/12/2016
 
 [View](/sl/documents/overview/tenofovir-disoproxil-mylan-epar-summary-public_sl.pdf)
 
 Suomi (FI) (93.06 KB - PDF)
 
-**First published:**
-
-19/12/2016
-
-**Last updated:**
-
-19/12/2016
+**First published:** 19/12/2016 **Last updated:** 19/12/2016
 
 [View](/fi/documents/overview/tenofovir-disoproxil-mylan-epar-summary-public_fi.pdf)
 
 svenska (SV) (93.39 KB - PDF)
 
-**First published:**
-
-19/12/2016
-
-**Last updated:**
-
-19/12/2016
+**First published:** 19/12/2016 **Last updated:** 19/12/2016
 
 [View](/sv/documents/overview/tenofovir-disoproxil-mylan-epar-summary-public_sv.pdf)
 
@@ -390,305 +256,161 @@ English (EN) (194.6 KB - PDF)
 
 Tenofovir disoproxil Viatris : EPAR - Product information
 
-English (EN) (973.42 KB - PDF)
+English (EN) (973.32 KB - PDF)
 
-**First published:** 19/12/2016
-
-**Last updated:** 09/09/2025
+**First published:** 19/12/2016 **Last updated:** 08/05/2026
 
 [View](/en/documents/product-information/tenofovir-disoproxil-viatris-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-503)
+[Other languages (24)](#file-language-dropdown-959)
 
-български (BG) (730.11 KB - PDF)
+български (BG) (974.86 KB - PDF)
 
-**First published:**
-
-19/12/2016
-
-**Last updated:**
-
-09/09/2025
+**First published:** 19/12/2016 **Last updated:** 08/05/2026
 
 [View](/bg/documents/product-information/tenofovir-disoproxil-viatris-epar-product-information_bg.pdf)
 
-español (ES) (618.49 KB - PDF)
+español (ES) (911.07 KB - PDF)
 
-**First published:**
-
-19/12/2016
-
-**Last updated:**
-
-09/09/2025
+**First published:** 19/12/2016 **Last updated:** 08/05/2026
 
 [View](/es/documents/product-information/tenofovir-disoproxil-viatris-epar-product-information_es.pdf)
 
-čeština (CS) (699.78 KB - PDF)
+čeština (CS) (1.02 MB - PDF)
 
-**First published:**
-
-19/12/2016
-
-**Last updated:**
-
-09/09/2025
+**First published:** 19/12/2016 **Last updated:** 08/05/2026
 
 [View](/cs/documents/product-information/tenofovir-disoproxil-viatris-epar-product-information_cs.pdf)
 
-dansk (DA) (710.41 KB - PDF)
+dansk (DA) (924.81 KB - PDF)
 
-**First published:**
-
-19/12/2016
-
-**Last updated:**
-
-09/09/2025
+**First published:** 19/12/2016 **Last updated:** 08/05/2026
 
 [View](/da/documents/product-information/tenofovir-disoproxil-viatris-epar-product-information_da.pdf)
 
-Deutsch (DE) (634.48 KB - PDF)
+Deutsch (DE) (972.87 KB - PDF)
 
-**First published:**
-
-19/12/2016
-
-**Last updated:**
-
-09/09/2025
+**First published:** 19/12/2016 **Last updated:** 08/05/2026
 
 [View](/de/documents/product-information/tenofovir-disoproxil-viatris-epar-product-information_de.pdf)
 
-eesti keel (ET) (618.46 KB - PDF)
+eesti keel (ET) (870.3 KB - PDF)
 
-**First published:**
-
-19/12/2016
-
-**Last updated:**
-
-09/09/2025
+**First published:** 19/12/2016 **Last updated:** 08/05/2026
 
 [View](/et/documents/product-information/tenofovir-disoproxil-viatris-epar-product-information_et.pdf)
 
-ελληνικά (EL) (827.24 KB - PDF)
+ελληνικά (EL) (1.03 MB - PDF)
 
-**First published:**
-
-19/12/2016
-
-**Last updated:**
-
-09/09/2025
+**First published:** 19/12/2016 **Last updated:** 08/05/2026
 
 [View](/el/documents/product-information/tenofovir-disoproxil-viatris-epar-product-information_el.pdf)
 
-français (FR) (674.11 KB - PDF)
+français (FR) (994.14 KB - PDF)
 
-**First published:**
-
-19/12/2016
-
-**Last updated:**
-
-09/09/2025
+**First published:** 19/12/2016 **Last updated:** 08/05/2026
 
 [View](/fr/documents/product-information/tenofovir-disoproxil-viatris-epar-product-information_fr.pdf)
 
-hrvatski (HR) (793.37 KB - PDF)
+hrvatski (HR) (969.24 KB - PDF)
 
-**First published:**
-
-19/12/2016
-
-**Last updated:**
-
-09/09/2025
+**First published:** 19/12/2016 **Last updated:** 08/05/2026
 
 [View](/hr/documents/product-information/tenofovir-disoproxil-viatris-epar-product-information_hr.pdf)
 
-íslenska (IS) (697.75 KB - PDF)
+íslenska (IS) (506.26 KB - PDF)
 
-**First published:**
-
-19/12/2016
-
-**Last updated:**
-
-09/09/2025
+**First published:** 19/12/2016 **Last updated:** 08/05/2026
 
 [View](/is/documents/product-information/tenofovir-disoproxil-viatris-epar-product-information_is.pdf)
 
-italiano (IT) (704.16 KB - PDF)
+italiano (IT) (904.58 KB - PDF)
 
-**First published:**
-
-19/12/2016
-
-**Last updated:**
-
-09/09/2025
+**First published:** 19/12/2016 **Last updated:** 08/05/2026
 
 [View](/it/documents/product-information/tenofovir-disoproxil-viatris-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (506.79 KB - PDF)
+latviešu valoda (LV) (985.17 KB - PDF)
 
-**First published:**
-
-19/12/2016
-
-**Last updated:**
-
-09/09/2025
+**First published:** 19/12/2016 **Last updated:** 08/05/2026
 
 [View](/lv/documents/product-information/tenofovir-disoproxil-viatris-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (572.78 KB - PDF)
+lietuvių kalba (LT) (916.7 KB - PDF)
 
-**First published:**
-
-19/12/2016
-
-**Last updated:**
-
-09/09/2025
+**First published:** 19/12/2016 **Last updated:** 08/05/2026
 
 [View](/lt/documents/product-information/tenofovir-disoproxil-viatris-epar-product-information_lt.pdf)
 
-magyar (HU) (828.3 KB - PDF)
+magyar (HU) (993.35 KB - PDF)
 
-**First published:**
-
-19/12/2016
-
-**Last updated:**
-
-09/09/2025
+**First published:** 19/12/2016 **Last updated:** 08/05/2026
 
 [View](/hu/documents/product-information/tenofovir-disoproxil-viatris-epar-product-information_hu.pdf)
 
-Malti (MT) (704.96 KB - PDF)
+Malti (MT) (1.07 MB - PDF)
 
-**First published:**
-
-19/12/2016
-
-**Last updated:**
-
-09/09/2025
+**First published:** 19/12/2016 **Last updated:** 08/05/2026
 
 [View](/mt/documents/product-information/tenofovir-disoproxil-viatris-epar-product-information_mt.pdf)
 
-Nederlands (NL) (706.63 KB - PDF)
+Nederlands (NL) (900.76 KB - PDF)
 
-**First published:**
-
-19/12/2016
-
-**Last updated:**
-
-09/09/2025
+**First published:** 19/12/2016 **Last updated:** 08/05/2026
 
 [View](/nl/documents/product-information/tenofovir-disoproxil-viatris-epar-product-information_nl.pdf)
 
-norsk (NO) (522.75 KB - PDF)
+norsk (NO) (877.08 KB - PDF)
 
-**First published:**
-
-19/12/2016
-
-**Last updated:**
-
-09/09/2025
+**First published:** 19/12/2016 **Last updated:** 08/05/2026
 
 [View](/no/documents/product-information/tenofovir-disoproxil-viatris-epar-product-information_no.pdf)
 
-polski (PL) (872.43 KB - PDF)
+polski (PL) (1.05 MB - PDF)
 
-**First published:**
-
-19/12/2016
-
-**Last updated:**
-
-09/09/2025
+**First published:** 19/12/2016 **Last updated:** 08/05/2026
 
 [View](/pl/documents/product-information/tenofovir-disoproxil-viatris-epar-product-information_pl.pdf)
 
-português (PT) (491.3 KB - PDF)
+português (PT) (903.93 KB - PDF)
 
-**First published:**
-
-19/12/2016
-
-**Last updated:**
-
-09/09/2025
+**First published:** 19/12/2016 **Last updated:** 08/05/2026
 
 [View](/pt/documents/product-information/tenofovir-disoproxil-viatris-epar-product-information_pt.pdf)
 
-română (RO) (971.25 KB - PDF)
+română (RO) (1011.1 KB - PDF)
 
-**First published:**
-
-19/12/2016
-
-**Last updated:**
-
-09/09/2025
+**First published:** 19/12/2016 **Last updated:** 08/05/2026
 
 [View](/ro/documents/product-information/tenofovir-disoproxil-viatris-epar-product-information_ro.pdf)
 
-slovenčina (SK) (500.28 KB - PDF)
+slovenčina (SK) (1.04 MB - PDF)
 
-**First published:**
-
-19/12/2016
-
-**Last updated:**
-
-09/09/2025
+**First published:** 19/12/2016 **Last updated:** 08/05/2026
 
 [View](/sk/documents/product-information/tenofovir-disoproxil-viatris-epar-product-information_sk.pdf)
 
-slovenščina (SL) (476.08 KB - PDF)
+slovenščina (SL) (990.49 KB - PDF)
 
-**First published:**
-
-19/12/2016
-
-**Last updated:**
-
-09/09/2025
+**First published:** 19/12/2016 **Last updated:** 08/05/2026
 
 [View](/sl/documents/product-information/tenofovir-disoproxil-viatris-epar-product-information_sl.pdf)
 
-Suomi (FI) (715.73 KB - PDF)
+Suomi (FI) (910.43 KB - PDF)
 
-**First published:**
-
-19/12/2016
-
-**Last updated:**
-
-09/09/2025
+**First published:** 19/12/2016 **Last updated:** 08/05/2026
 
 [View](/fi/documents/product-information/tenofovir-disoproxil-viatris-epar-product-information_fi.pdf)
 
-svenska (SV) (700.46 KB - PDF)
+svenska (SV) (905.09 KB - PDF)
 
-**First published:**
-
-19/12/2016
-
-**Last updated:**
-
-09/09/2025
+**First published:** 19/12/2016 **Last updated:** 08/05/2026
 
 [View](/sv/documents/product-information/tenofovir-disoproxil-viatris-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000291054 05/09/2025
+**Latest procedure affecting product information:** VR/0000325156
+
+05/05/2026
 
 icon globe
 
@@ -708,305 +430,177 @@ Tenofovir disoproxil Viatris : EPAR - All Authorised presentations
 
 English (EN) (45.63 KB - PDF)
 
-**First published:** 19/12/2016
-
-**Last updated:** 26/07/2024
+**First published:** 19/12/2016 **Last updated:** 26/07/2024
 
 [View](/en/documents/all-authorised-presentations/tenofovir-disoproxil-viatris-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-102)
+[Other languages (24)](#file-language-dropdown-552)
 
 български (BG) (65.91 KB - PDF)
 
-**First published:**
-
-19/12/2016
-
-**Last updated:**
-
-26/07/2024
+**First published:** 19/12/2016 **Last updated:** 26/07/2024
 
 [View](/bg/documents/all-authorised-presentations/tenofovir-disoproxil-mylan-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (48.14 KB - PDF)
 
-**First published:**
-
-19/12/2016
-
-**Last updated:**
-
-26/07/2024
+**First published:** 19/12/2016 **Last updated:** 26/07/2024
 
 [View](/es/documents/all-authorised-presentations/tenofovir-disoproxil-mylan-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (51.25 KB - PDF)
 
-**First published:**
-
-19/12/2016
-
-**Last updated:**
-
-26/07/2024
+**First published:** 19/12/2016 **Last updated:** 26/07/2024
 
 [View](/cs/documents/all-authorised-presentations/tenofovir-disoproxil-mylan-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (46.33 KB - PDF)
 
-**First published:**
-
-19/12/2016
-
-**Last updated:**
-
-26/07/2024
+**First published:** 19/12/2016 **Last updated:** 26/07/2024
 
 [View](/da/documents/all-authorised-presentations/tenofovir-disoproxil-mylan-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (50.54 KB - PDF)
 
-**First published:**
-
-19/12/2016
-
-**Last updated:**
-
-26/07/2024
+**First published:** 19/12/2016 **Last updated:** 26/07/2024
 
 [View](/de/documents/all-authorised-presentations/tenofovir-disoproxil-mylan-epar-all-authorised-presentations_de.pdf)
 
 eesti keel (ET) (26.95 KB - PDF)
 
-**First published:**
-
-19/12/2016
-
-**Last updated:**
-
-26/07/2024
+**First published:** 19/12/2016 **Last updated:** 26/07/2024
 
 [View](/et/documents/all-authorised-presentations/tenofovir-disoproxil-mylan-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (70.29 KB - PDF)
 
-**First published:**
-
-19/12/2016
-
-**Last updated:**
-
-26/07/2024
+**First published:** 19/12/2016 **Last updated:** 26/07/2024
 
 [View](/el/documents/all-authorised-presentations/tenofovir-disoproxil-mylan-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (17.28 KB - PDF)
 
-**First published:**
-
-19/12/2016
-
-**Last updated:**
-
-26/07/2024
+**First published:** 19/12/2016 **Last updated:** 26/07/2024
 
 [View](/fr/documents/all-authorised-presentations/tenofovir-disoproxil-mylan-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (82.79 KB - PDF)
 
-**First published:**
-
-19/12/2016
-
-**Last updated:**
-
-26/07/2024
+**First published:** 19/12/2016 **Last updated:** 26/07/2024
 
 [View](/hr/documents/all-authorised-presentations/tenofovir-disoproxil-mylan-epar-all-authorised-presentations_hr.pdf)
 
 íslenska (IS) (46.33 KB - PDF)
 
-**First published:**
-
-19/12/2016
-
-**Last updated:**
-
-26/07/2024
+**First published:** 19/12/2016 **Last updated:** 26/07/2024
 
 [View](/is/documents/all-authorised-presentations/tenofovir-disoproxil-mylan-epar-all-authorised-presentations_is.pdf)
 
 italiano (IT) (50.4 KB - PDF)
 
-**First published:**
-
-19/12/2016
-
-**Last updated:**
-
-26/07/2024
+**First published:** 19/12/2016 **Last updated:** 26/07/2024
 
 [View](/it/documents/all-authorised-presentations/tenofovir-disoproxil-mylan-epar-all-authorised-presentations_it.pdf)
 
 latviešu valoda (LV) (65.28 KB - PDF)
 
-**First published:**
-
-19/12/2016
-
-**Last updated:**
-
-26/07/2024
+**First published:** 19/12/2016 **Last updated:** 26/07/2024
 
 [View](/lv/documents/all-authorised-presentations/tenofovir-disoproxil-mylan-epar-all-authorised-presentations_lv.pdf)
 
 lietuvių kalba (LT) (66.61 KB - PDF)
 
-**First published:**
-
-19/12/2016
-
-**Last updated:**
-
-26/07/2024
+**First published:** 19/12/2016 **Last updated:** 26/07/2024
 
 [View](/lt/documents/all-authorised-presentations/tenofovir-disoproxil-mylan-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (34.51 KB - PDF)
 
-**First published:**
-
-19/12/2016
-
-**Last updated:**
-
-26/07/2024
+**First published:** 19/12/2016 **Last updated:** 26/07/2024
 
 [View](/hu/documents/all-authorised-presentations/tenofovir-disoproxil-mylan-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (64.27 KB - PDF)
 
-**First published:**
-
-19/12/2016
-
-**Last updated:**
-
-26/07/2024
+**First published:** 19/12/2016 **Last updated:** 26/07/2024
 
 [View](/mt/documents/all-authorised-presentations/tenofovir-disoproxil-mylan-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (50.27 KB - PDF)
 
-**First published:**
-
-19/12/2016
-
-**Last updated:**
-
-26/07/2024
+**First published:** 19/12/2016 **Last updated:** 26/07/2024
 
 [View](/nl/documents/all-authorised-presentations/tenofovir-disoproxil-mylan-epar-all-authorised-presentations_nl.pdf)
 
 norsk (NO) (52.45 KB - PDF)
 
-**First published:**
-
-19/12/2016
-
-**Last updated:**
-
-26/07/2024
+**First published:** 19/12/2016 **Last updated:** 26/07/2024
 
 [View](/no/documents/all-authorised-presentations/tenofovir-disoproxil-mylan-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (36.59 KB - PDF)
 
-**First published:**
-
-19/12/2016
-
-**Last updated:**
-
-26/07/2024
+**First published:** 19/12/2016 **Last updated:** 26/07/2024
 
 [View](/pl/documents/all-authorised-presentations/tenofovir-disoproxil-mylan-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (27.08 KB - PDF)
 
-**First published:**
-
-19/12/2016
-
-**Last updated:**
-
-26/07/2024
+**First published:** 19/12/2016 **Last updated:** 26/07/2024
 
 [View](/pt/documents/all-authorised-presentations/tenofovir-disoproxil-mylan-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (49.71 KB - PDF)
 
-**First published:**
-
-19/12/2016
-
-**Last updated:**
-
-26/07/2024
+**First published:** 19/12/2016 **Last updated:** 26/07/2024
 
 [View](/ro/documents/all-authorised-presentations/tenofovir-disoproxil-mylan-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (50.54 KB - PDF)
 
-**First published:**
-
-19/12/2016
-
-**Last updated:**
-
-26/07/2024
+**First published:** 19/12/2016 **Last updated:** 26/07/2024
 
 [View](/sk/documents/all-authorised-presentations/tenofovir-disoproxil-mylan-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (38.74 KB - PDF)
 
-**First published:**
-
-19/12/2016
-
-**Last updated:**
-
-26/07/2024
+**First published:** 19/12/2016 **Last updated:** 26/07/2024
 
 [View](/sl/documents/all-authorised-presentations/tenofovir-disoproxil-mylan-epar-all-authorised-presentations_sl.pdf)
 
 Suomi (FI) (65.85 KB - PDF)
 
-**First published:**
-
-19/12/2016
-
-**Last updated:**
-
-26/07/2024
+**First published:** 19/12/2016 **Last updated:** 26/07/2024
 
 [View](/fi/documents/all-authorised-presentations/tenofovir-disoproxil-mylan-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (50.66 KB - PDF)
 
-**First published:**
-
-19/12/2016
-
-**Last updated:**
-
-26/07/2024
+**First published:** 19/12/2016 **Last updated:** 26/07/2024
 
 [View](/sv/documents/all-authorised-presentations/tenofovir-disoproxil-mylan-epar-all-authorised-presentations_sv.pdf)
 
 ## Product details
 
-Name of medicine Tenofovir disoproxil Viatris (previously Tenofovir disoproxil Mylan) Active substance tenofovir disoproxil International non-proprietary name (INN) or common name tenofovir disoproxil Therapeutic area (MeSH) HIV Infections Anatomical therapeutic chemical (ATC) code J05AF07
+Name of medicine
+
+Tenofovir disoproxil Viatris (previously Tenofovir disoproxil Mylan)
+
+Active substance
+
+tenofovir disoproxil
+
+International non-proprietary name (INN) or common name
+
+tenofovir disoproxil
+
+Therapeutic area (MeSH)
+
+HIV Infections
+
+Anatomical therapeutic chemical (ATC) code
+
+J05AF07
 
 ### Pharmacotherapeutic group
 
@@ -1038,7 +632,9 @@ Tenofovir disoproxil 245 mg film-coated tablets are indicated for the treatment 
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/004049
+EMA product number
+
+EMEA/H/C/004049
 
 Generic
 
@@ -1048,9 +644,19 @@ Marketing authorisation holder
 
 Viatris Limited
 
-Damastown Industrial Park Mulhuddart Dublin 15 Ireland
+Damastown Industrial Park Dublin 15 Ireland
 
-Opinion adopted 13/10/2016 Marketing authorisation issued 08/12/2016 Revision 22
+Opinion adopted
+
+13/10/2016
+
+Marketing authorisation issued
+
+08/12/2016
+
+Revision
+
+23
 
 ## Assessment history
 
@@ -1062,11 +668,9 @@ Collapse section
 
 Tenofovir disoproxil Mylan : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (138.42 KB - PDF)
+English (EN) (160.06 KB - PDF)
 
-**First published:** 19/07/2024
-
-**Last updated:** 09/09/2025
+**First published:** 19/07/2024 **Last updated:** 08/05/2026
 
 [View](/en/documents/procedural-steps-after/tenofovir-disoproxil-mylan-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1074,9 +678,7 @@ Tenofovir disoproxil Mylan : EPAR - Procedural steps taken and scientific inform
 
 English (EN) (121.65 KB - PDF)
 
-**First published:** 10/05/2017
-
-**Last updated:** 19/07/2024
+**First published:** 10/05/2017 **Last updated:** 19/07/2024
 
 [View](/en/documents/procedural-steps-after/tenofovir-disoproxil-mylan-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
@@ -1098,31 +700,27 @@ Adopted
 
 English (EN) (678.62 KB - PDF)
 
-**First published:** 19/12/2016
-
-**Last updated:** 19/12/2016
+**First published:** 19/12/2016 **Last updated:** 19/12/2016
 
 [View](/en/documents/assessment-report/tenofovir-disoproxil-mylan-epar-public-assessment-report_en.pdf)
 
 CHMP summary of positive opinion for Tenofovir disoproxil Mylan
 
-Adopted
-
-Reference Number: EMA/CHMP/659525/2016
+Adopted Reference Number: EMA/CHMP/659525/2016
 
 English (EN) (77.67 KB - PDF)
 
-**First published:** 14/10/2016
-
-**Last updated:** 14/10/2016
+**First published:** 14/10/2016 **Last updated:** 14/10/2016
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-tenofovir-disoproxil-mylan_en.pdf)
 
-#### News on Tenofovir disoproxil Viatris (previously Tenofovir disoproxil Mylan)
+## News on Tenofovir disoproxil Viatris (previously Tenofovir disoproxil Mylan)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 10-13 October 2016](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-10-13-october-2016) 14/10/2016
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 10-13 October 2016](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-10-13-october-2016)
 
-#### Product information - with tracked changes
+14/10/2016
+
+## Product information - with tracked changes
 
 The approved product information for this medicine is available below showing the changes since the previous procedure affecting the product information. The same document without tracked changes is above under 'Product information'.
 
@@ -1134,201 +732,153 @@ English (EN) (278.65 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/tenofovir-disoproxil-viatris-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-97)
+[Other languages (24)](#file-language-dropdown-531)
 
 български (BG) (212.21 KB - DOCX)
 
-**First published:**
-
-09/09/2025
+**First published:** 09/09/2025
 
 [View](/bg/documents/product-information-tracked-changes/tenofovir-disoproxil-viatris-epar-product-information-tracked-changes_bg.docx)
 
 español (ES) (205.82 KB - DOCX)
 
-**First published:**
-
-09/09/2025
+**First published:** 09/09/2025
 
 [View](/es/documents/product-information-tracked-changes/tenofovir-disoproxil-viatris-epar-product-information-tracked-changes_es.docx)
 
 čeština (CS) (210.28 KB - DOCX)
 
-**First published:**
-
-09/09/2025
+**First published:** 09/09/2025
 
 [View](/cs/documents/product-information-tracked-changes/tenofovir-disoproxil-viatris-epar-product-information-tracked-changes_cs.docx)
 
 dansk (DA) (200.55 KB - DOCX)
 
-**First published:**
-
-09/09/2025
+**First published:** 09/09/2025
 
 [View](/da/documents/product-information-tracked-changes/tenofovir-disoproxil-viatris-epar-product-information-tracked-changes_da.docx)
 
 Deutsch (DE) (174.17 KB - DOCX)
 
-**First published:**
-
-09/09/2025
+**First published:** 09/09/2025
 
 [View](/de/documents/product-information-tracked-changes/tenofovir-disoproxil-viatris-epar-product-information-tracked-changes_de.docx)
 
 eesti keel (ET) (173 KB - DOCX)
 
-**First published:**
-
-09/09/2025
+**First published:** 09/09/2025
 
 [View](/et/documents/product-information-tracked-changes/tenofovir-disoproxil-viatris-epar-product-information-tracked-changes_et.docx)
 
 ελληνικά (EL) (220.09 KB - DOCX)
 
-**First published:**
-
-09/09/2025
+**First published:** 09/09/2025
 
 [View](/el/documents/product-information-tracked-changes/tenofovir-disoproxil-viatris-epar-product-information-tracked-changes_el.docx)
 
 français (FR) (195.3 KB - DOCX)
 
-**First published:**
-
-09/09/2025
+**First published:** 09/09/2025
 
 [View](/fr/documents/product-information-tracked-changes/tenofovir-disoproxil-viatris-epar-product-information-tracked-changes_fr.docx)
 
 hrvatski (HR) (220.03 KB - DOCX)
 
-**First published:**
-
-09/09/2025
+**First published:** 09/09/2025
 
 [View](/hr/documents/product-information-tracked-changes/tenofovir-disoproxil-viatris-epar-product-information-tracked-changes_hr.docx)
 
 íslenska (IS) (191.81 KB - DOCX)
 
-**First published:**
-
-09/09/2025
+**First published:** 09/09/2025
 
 [View](/is/documents/product-information-tracked-changes/tenofovir-disoproxil-viatris-epar-product-information-tracked-changes_is.docx)
 
 italiano (IT) (179.59 KB - DOCX)
 
-**First published:**
-
-09/09/2025
+**First published:** 09/09/2025
 
 [View](/it/documents/product-information-tracked-changes/tenofovir-disoproxil-viatris-epar-product-information-tracked-changes_it.docx)
 
 latviešu valoda (LV) (210.51 KB - DOCX)
 
-**First published:**
-
-09/09/2025
+**First published:** 09/09/2025
 
 [View](/lv/documents/product-information-tracked-changes/tenofovir-disoproxil-viatris-epar-product-information-tracked-changes_lv.docx)
 
 lietuvių kalba (LT) (168.1 KB - DOCX)
 
-**First published:**
-
-09/09/2025
+**First published:** 09/09/2025
 
 [View](/lt/documents/product-information-tracked-changes/tenofovir-disoproxil-viatris-epar-product-information-tracked-changes_lt.docx)
 
 magyar (HU) (204.33 KB - DOCX)
 
-**First published:**
-
-09/09/2025
+**First published:** 09/09/2025
 
 [View](/hu/documents/product-information-tracked-changes/tenofovir-disoproxil-viatris-epar-product-information-tracked-changes_hu.docx)
 
 Malti (MT) (188.63 KB - DOCX)
 
-**First published:**
-
-09/09/2025
+**First published:** 09/09/2025
 
 [View](/mt/documents/product-information-tracked-changes/tenofovir-disoproxil-viatris-epar-product-information-tracked-changes_mt.docx)
 
 Nederlands (NL) (181.72 KB - DOCX)
 
-**First published:**
-
-09/09/2025
+**First published:** 09/09/2025
 
 [View](/nl/documents/product-information-tracked-changes/tenofovir-disoproxil-viatris-epar-product-information-tracked-changes_nl.docx)
 
 norsk (NO) (195.22 KB - DOCX)
 
-**First published:**
-
-09/09/2025
+**First published:** 09/09/2025
 
 [View](/no/documents/product-information-tracked-changes/tenofovir-disoproxil-viatris-epar-product-information-tracked-changes_no.docx)
 
 polski (PL) (194.61 KB - DOCX)
 
-**First published:**
-
-09/09/2025
+**First published:** 09/09/2025
 
 [View](/pl/documents/product-information-tracked-changes/tenofovir-disoproxil-viatris-epar-product-information-tracked-changes_pl.docx)
 
 português (PT) (189.49 KB - DOCX)
 
-**First published:**
-
-09/09/2025
+**First published:** 09/09/2025
 
 [View](/pt/documents/product-information-tracked-changes/tenofovir-disoproxil-viatris-epar-product-information-tracked-changes_pt.docx)
 
 română (RO) (171.11 KB - DOCX)
 
-**First published:**
-
-09/09/2025
+**First published:** 09/09/2025
 
 [View](/ro/documents/product-information-tracked-changes/tenofovir-disoproxil-viatris-epar-product-information-tracked-changes_ro.docx)
 
 slovenčina (SK) (198.32 KB - DOCX)
 
-**First published:**
-
-09/09/2025
+**First published:** 09/09/2025
 
 [View](/sk/documents/product-information-tracked-changes/tenofovir-disoproxil-viatris-epar-product-information-tracked-changes_sk.docx)
 
 slovenščina (SL) (199.66 KB - DOCX)
 
-**First published:**
-
-09/09/2025
+**First published:** 09/09/2025
 
 [View](/sl/documents/product-information-tracked-changes/tenofovir-disoproxil-viatris-epar-product-information-tracked-changes_sl.docx)
 
 Suomi (FI) (192.05 KB - DOCX)
 
-**First published:**
-
-09/09/2025
+**First published:** 09/09/2025
 
 [View](/fi/documents/product-information-tracked-changes/tenofovir-disoproxil-viatris-epar-product-information-tracked-changes_fi.docx)
 
 svenska (SV) (178.8 KB - DOCX)
 
-**First published:**
-
-09/09/2025
+**First published:** 09/09/2025
 
 [View](/sv/documents/product-information-tracked-changes/tenofovir-disoproxil-viatris-epar-product-information-tracked-changes_sv.docx)
 
-#### Related information
+## Related information
 
 - [Clinical data](https://clinicaldata.ema.europa.eu/web/cdp/home?p_p_id=cdpdossierviewportlet_WAR_cdpdossierviewportlet=0=maximized=view=column-3=2=EMEAHC0040490000) (initial marketing authorisation)
 
@@ -1338,285 +888,151 @@ Reference Number: EMA/393905/2006 Rev. 2
 
 English (EN) (66.45 KB - PDF)
 
-**First published:** 09/07/2007
-
-**Last updated:** 07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-573)
+[Other languages (22)](#file-language-dropdown-111)
 
 български (BG) (93.16 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/bg/documents/other/questions-and-answers-generic-medicines_bg.pdf)
 
 español (ES) (68.3 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/es/documents/other/questions-and-answers-generic-medicines_es.pdf)
 
 čeština (CS) (87.71 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/cs/documents/other/questions-and-answers-generic-medicines_cs.pdf)
 
 dansk (DA) (66.79 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/da/documents/other/questions-and-answers-generic-medicines_da.pdf)
 
 Deutsch (DE) (67.55 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/de/documents/other/questions-and-answers-generic-medicines_de.pdf)
 
 eesti keel (ET) (65.21 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/et/documents/other/questions-and-answers-generic-medicines_et.pdf)
 
 ελληνικά (EL) (91.29 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/el/documents/other/questions-and-answers-generic-medicines_el.pdf)
 
 français (FR) (68.35 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/fr/documents/other/questions-and-answers-generic-medicines_fr.pdf)
 
 hrvatski (HR) (87.8 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/hr/documents/other/questions-and-answers-generic-medicines_hr.pdf)
 
 italiano (IT) (67.62 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/it/documents/other/questions-and-answers-generic-medicines_it.pdf)
 
 latviešu valoda (LV) (111.81 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/lv/documents/other/questions-and-answers-generic-medicines_lv.pdf)
 
 lietuvių kalba (LT) (86.76 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/lt/documents/other/questions-and-answers-generic-medicines_lt.pdf)
 
 magyar (HU) (85.76 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/hu/documents/other/questions-and-answers-generic-medicines_hu.pdf)
 
 Malti (MT) (89.35 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/mt/documents/other/questions-and-answers-generic-medicines_mt.pdf)
 
 Nederlands (NL) (66.81 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/nl/documents/other/questions-and-answers-generic-medicines_nl.pdf)
 
 polski (PL) (88.51 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/pl/documents/other/questions-and-answers-generic-medicines_pl.pdf)
 
 português (PT) (68.32 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/pt/documents/other/questions-and-answers-generic-medicines_pt.pdf)
 
 română (RO) (86.9 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/ro/documents/other/questions-and-answers-generic-medicines_ro.pdf)
 
 slovenčina (SK) (87.73 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/sk/documents/other/questions-and-answers-generic-medicines_sk.pdf)
 
 slovenščina (SL) (84.8 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/sl/documents/other/questions-and-answers-generic-medicines_sl.pdf)
 
 Suomi (FI) (66.21 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/fi/documents/other/questions-and-answers-generic-medicines_fi.pdf)
 
 svenska (SV) (67.11 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/sv/documents/other/questions-and-answers-generic-medicines_sv.pdf)
 
-#### Topics
+## Topics
 
 - [Generic and hybrid medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A54)
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 09/09/2025
+**This page was last updated on**
+
+08/05/2026
 
 ## Share this page
-
-[Back to top](#main-content)

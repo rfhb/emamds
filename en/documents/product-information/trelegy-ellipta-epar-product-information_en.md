@@ -1,20 +1,20 @@
 ---
-document_datetime: 2023-11-09 19:37:23
+document_datetime: 2026-05-08 15:39:43
 document_pages: 44
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/trelegy-ellipta-epar-product-information_en.pdf
 document_name: trelegy-ellipta-epar-product-information_en.pdf
 version: success
-processing_time: 8.3841049
-conversion_datetime: 2025-12-26 17:15:27.334798
+processing_time: 9.7133589
+conversion_datetime: 2026-05-10 12:53:12.020247
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.17.0
+  docling-jobkit: 1.18.0
+  docling: 2.92.0
+  docling-core: 2.74.1
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.10.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -311,7 +311,7 @@ Reporting suspected adverse reactions after authorisation of the medicinal produ
 
 ## Symptoms
 
-An overdose will likely produce signs, symptoms or adverse reactions associated with the individual components' pharmacological actions (e.g. Cushing's syndrome, Cushingoid features, adrenal suppression, decrease in bone mineral density, dry mouth, visual accommodation disturbances, tachycardia, arrhythmias, tremor, headache, palpitations, nausea, hyperglycaemia and hypokalaemia).
+An overdose will likely produce signs, symptoms or adverse reactions associated with the individual components' pharmacological actions ( e.g. Cushing's syndrome, Cushingoid features, adrenal suppression , decrease in bone mineral density, dry mouth, visual accommodation disturbances, tachycardia, arrhythmias, tremor, headache, palpitations, nausea, hyperglycaemia and hypokalaemia).
 
 ## Management
 
@@ -329,11 +329,9 @@ Pharmacotherapeutic group: Drugs for obstructive airway diseases, adrenergics in
 
 ## Mechanism of action
 
-Fluticasone furoate/umeclidinium/vilanterol is a combination of inhaled synthetic corticosteroid, long-acting muscarinic receptor antagonist and long-acting beta2-adrenergic agonist (ICS/LAMA/LABA). Following oral
+Fluticasone furoate/umeclidinium/vilanterol is a combination of inhaled synthetic corticosteroid, long-acting muscarinic receptor antagonist and long-acting beta2-adrenergic agonist (ICS/LAMA/LABA). Following oral inhalation, umeclidinium and vilanterol act locally on airways to produce bronchodilation by separate mechanisms and fluticasone furoate reduces inflammation.
 
 <div style=\"page-break-after: always\"></div>
-
-inhalation, umeclidinium and vilanterol act locally on airways to produce bronchodilation by separate mechanisms and fluticasone furoate reduces inflammation.
 
 ## Fluticasone furoate
 
@@ -345,7 +343,7 @@ Umeclidinium is a long-acting muscarinic receptor antagonist (also referred to a
 
 ## Vilanterol
 
-Vilanterol is a selective long-acting, beta2-adrenergic receptor agonist (LABA). The pharmacologic effects of beta2-adrenergic agonists, including vilanterol, are at least in part attributable to stimulation of intracellular adenylate cyclase, the enzyme that catalyses the conversion of adenosine triphosphate (ATP) to cyclic-3',5'adenosine monophosphate (cyclic AMP). Increased cyclic AMP levels cause relaxation of bronchial smooth muscle and inhibition of release of mediators of immediate hypersensitivity from cells, especially from mast cells.
+Vilanterol is a selective long-acting, beta2-adrenergic receptor agonist (LABA). The pharmacologic effects of beta2-adrenergic agonists, including vilanterol, are at least in part attributable to stimulation of intracellular adenylate cyclase, the enzyme that catalyses the conversion of adenosine triphosphate (ATP) to cyclic3',5' -adenosine monophosphate (cyclic AMP). Increased cyclic AMP levels cause relaxation of bronchial smooth muscle and inhibition of release of mediators of immediate hypersensitivity from cells, especially from mast cells.
 
 ## Pharmacodynamic effects
 
@@ -357,7 +355,7 @@ No clinically relevant effects on the QTc interval were observed on review of ce
 
 ## Clinical efficacy and safety
 
-The efficacy of Trelegy Ellipta (92/55/22 micrograms), administered as a once-daily treatment, has been evaluated in patients with a clinical diagnosis of COPD in two, active-controlled studies and in a single, noninferiority study. All three studies were multicentre, randomised, double-blind studies that required patients to be symptomatic with a COPD Assessment Test (CAT) score ≥ 10 and on daily maintenance treatment for their COPD for at least three months prior to study entry.
+The efficacy of Trelegy Ellipta (92/55/22 micrograms), administered as a once-daily treatment, has been evaluated in patients with a clinical diagnosis of COPD in two, active-controlled studies and in a single, noninferiority study. All three studies were multicentre, randomised, double-blind studies that required patients to be symptomatic with a COPD Assessment Test (CAT) score  10 and on daily maintenance treatment for their COPD for at least three months prior to study entry.
 
 FULFIL (CTT116853) was a 24-week study (N=1 810), with an extension up to 52 weeks in a subset of subjects (n=430), that compared Trelegy Ellipta (92/55/22 micrograms) with budesonide/formoterol 400/12 micrograms (BUD/FOR) administered twice-daily. At screening, the mean post-bronchodilator percent predicted FEV1 was 45% and 65% of patients reported a history of one or more moderate/severe exacerbation in the past year.
 
@@ -380,11 +378,11 @@ Table 1. Lung function endpoint in FULFIL
 | Trough FEV 1 (L) at week 24, LS mean change from baseline (SE) a | 0.142                      | -0.029            | 0.171                                                   |
 |                                                                  | (0.0083)                   | (0.0085)          | 0.148, 0.194                                            |
 
-FEV1=forced expiratory volume in 1 second; L=litres; LS=least squares; SE= standard error, N=number in the intent-totreat population; CI= confidence interval, a  Statistically significant treatment difference for FF/UMEC/VI vs. BUD/FOR also observed at the other assessment timepoints (weeks 2, 4 and 12).
+FEV1=forced expiratory volume in 1 second;   L=litres; LS=least squares; SE= standard error, N=number in the intent-totreat population; CI= confidence interval,  a  Statistically significant treatment difference for FF/UMEC/VI vs. BUD/FOR also observed at the other assessment timepoints (weeks 2, 4 and 12).
 
 In IMPACT, Trelegy Ellipta significantly improved (p&lt;0.001) lung function when compared with FF/VI and UMEC/VI over a 52-week period (See Table 2).
 
-Table 2 - Lung function endpoint in IMPACT
+Table 2 -Lung function endpoint in IMPACT
 
 |                                                           |                             |                   |                     | Treatment difference 95% CI   | Treatment difference 95% CI    |
 |-----------------------------------------------------------|-----------------------------|-------------------|---------------------|-------------------------------|--------------------------------|
@@ -392,17 +390,15 @@ Table 2 - Lung function endpoint in IMPACT
 | Trough FEV 1 (L) at week 52, LS mean change from baseline | 0.094                       | -0.003            | 0.040               | 0.097                         | 0.054                          |
 | (SE) a                                                    | (0.004)                     | (0.004)           | (0.006)             | 0.085, 0.109                  | 0.039, 0.069                   |
 
-FEV1= forced expiratory volume in 1 second; L= litres; LS=least squares; SE= standard error; N= number in the intentto-treat population; CI= confidence interval; a Statistically significant treatment differences for FF/UMEC/VI vs. FF/VI and FF/UMEC/VI vs. UMEC/VI were also observed at the other assessment timepoints (weeks 4, 16, 28, and 40) .
+FEV1= forced expiratory volume in 1 second; L= litres; LS=least squares;   SE= standard error; N= number in the intentto-treat population; CI= confidence interval; a Statistically significant treatment differences for FF/UMEC/VI vs. FF/VI and FF/UMEC/VI vs. UMEC/VI were also observed at the other assessment timepoints (weeks 4, 16, 28, and 40) .
 
 In Study 200812, Trelegy Ellipta was non-inferior compared with FF/VI+UMEC, co-administered in two inhalers, in the improvement from baseline in trough FEV1 at week 24. The pre-specified non-inferiority margin was 50 mL.
 
 ## Exacerbations
 
-In IMPACT, over 52 weeks, Trelegy Ellipta significantly reduced (p&lt;0.001) the annual rate of moderate/severe exacerbations by 15% (95% CI:10, 20) compared with FF/VI (rate; 0.91 vs 1.07 events per patient year) and by 25% (95% CI: 19, 30) compared with UMEC/VI (rate; 0.91 vs 1.21 events per patient
+In IMPACT, over 52 weeks, Trelegy Ellipta significantly reduced (p&lt;0.001) the annual rate of moderate/severe exacerbations by 15% (95% CI:10, 20) compared with FF/VI (rate; 0.91 vs 1.07 events per patient year) and by 25% (95% CI: 19, 30) compared with UMEC/VI (rate; 0.91 vs 1.21 events per patient year). In FULFIL, based upon data up to 24 weeks, Trelegy Ellipta significantly reduced (p=0.002) the annual rate of moderate/severe exacerbations by 35% (95% CI: 14, 51) compared with BUD/FOR.
 
 <div style=\"page-break-after: always\"></div>
-
-year). In FULFIL, based upon data up to 24 weeks, Trelegy Ellipta significantly reduced (p=0.002) the annual rate of moderate/severe exacerbations by 35% (95% CI: 14, 51) compared with BUD/FOR.
 
 In IMPACT, Trelegy Ellipta prolonged the time to first moderate/severe exacerbation and significantly decreased (p&lt;0.001) the risk of a moderate/severe exacerbation, as measured by time to first exacerbation, compared with both FF/VI (14.8%; 95% CI: 9.3, 19.9) and UMEC/VI (16.0%; 95% CI: 9.4, 22.1). In FULFIL, Trelegy Ellipta significantly decreased the risk of a moderate/severe exacerbation compared with BUD/FOR over 24 weeks (33%; 95% CI: 12, 48; p=0.004).
 
@@ -410,7 +406,7 @@ In IMPACT, treatment with Trelegy Ellipta reduced the annual rate of severe exac
 
 ## Health-related quality of life
 
-Trelegy Ellipta significantly improved (p&lt;0.001) Health Related Quality of Life (as measured by the St George's Respiratory Questionnaire [SGRQ] total score) in both FULFIL (week 24) when compared with BUD/FOR (-2.2 units; 95% CI: -3.5, -1.0) and IMPACT (week 52) when compared with FF/VI (-1.8 units; 95% CI: -2.4, -1.1) and UMEC/VI (-1.8 units; 95% CI: -2.6, -1.0).
+Trelegy Ellipta significantly improved (p&lt;0.001) Health Related Quality of Life (as measured by the St Geo rge's Respiratory Questionnaire [SGRQ] total score) in both FULFIL (week 24) when compared with BUD/FOR (-2.2 units; 95% CI: -3.5, -1.0) and IMPACT (week 52) when compared with FF/VI (-1.8   units; 95% CI: -2.4, -1.1) and UMEC/VI (-1.8 units; 95% CI: -2.6, -1.0).
 
 A higher percentage of patients receiving Trelegy Ellipta responded with a clinically meaningful improvement in SGRQ total score in FULFIL at week 24 compared with BUD/FOR (50% and 41% respectively), odds ratios of response vs. non-response (OR) (1.41; 95% CI: 1.16, 1.70) and in IMPACT at week 52 compared with FF/VI and UMEC/VI (42%, 34% and 34% respectively), OR vs. FF/VI (1.41; 95% CI:1.29, 1.55) and OR vs. UMEC/VI (1.41; 95% CI: 1.26, 1.57); all treatment comparisons were statistically significant (p&lt;0.001).
 
@@ -426,11 +422,9 @@ In FULFIL, Trelegy Ellipta improved daily symptoms of COPD as assessed by E-RS: 
 
 In FULFIL, Trelegy Ellipta significantly reduced (p&lt;0.001) the use of rescue medication between weeks 1-24 compared with BUD/FOR (treatment difference: -0.2 occasions per day; 95% CI: -0.3, -0.1).
 
-In IMPACT, Trelegy Ellipta significantly reduced (p&lt;0.001) the use of rescue medication (occasions per day) at each 4-week time period compared with FF/VI and UMEC/VI. At weeks 49-52, the treatment
+In IMPACT, Trelegy Ellipta significantly reduced (p&lt;0.001) the use of rescue medication (occasions per day) at each 4-week time period compared with FF/VI and UMEC/VI. At weeks 49-52, the treatment difference was -0.28 (95% CI: -0.37, -0.19) when compared with FF/VI and -0.30 (95% CI: -0.41, -0.19) with UMEC/VI.
 
 <div style=\"page-break-after: always\"></div>
-
-difference was -0.28 (95% CI: -0.37, -0.19) when compared with FF/VI and -0.30 (95% CI: -0.41, -0.19) with UMEC/VI.
 
 ## Nighttime awakenings
 
@@ -550,7 +544,7 @@ Fluticasone furoate was not genotoxic in a standard battery of studies and was n
 
 ## Umeclidinium
 
-Umeclidinium was not genotoxic in a standard battery of studies and was not carcinogenic in lifetime inhalation studies in mice or rats at exposures ≥ 20- or ≥ 17- fold the human clinical exposure at a daily dose of 55 micrograms umeclidinium, based on AUC respectively.
+Umeclidinium was not genotoxic in a standard battery of studies and was not carcinogenic in lifetime inhalation studies in mice or rats at exposures  20- or  17- fold the human clinical exposure at a daily dose of 55 micrograms umeclidinium, based on AUC respectively.
 
 ## Vilanterol
 
@@ -616,7 +610,9 @@ The inhaler will be in the 'closed' position when it is first taken out of its s
 
 <div style=\"page-break-after: always\"></div>
 
-If the inhaler cover is opened and closed without inhaling the medicinal product, the dose will be lost. The lost dose will be securely held inside the inhaler, but it will no longer be available to be inhaled.
+If the inhaler cover is opened and closed without inhaling the medicinal product, the dose will be lost. The
+
+lost dose will be securely held inside the inhaler, but it will no longer be available to be inhaled.
 
 It is not possible to accidentally take an extra dose or a double dose in one inhalation.
 
@@ -652,10 +648,7 @@ Detailed information on this medicinal product is available on the website of th
 
 ## ANNEX II
 
-- A. MANUFACTURER RESPONSIBLE FOR BATCH RELEASE
-- B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
-- C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
-- D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
+- A. MANUFACTURER RESPONSIBLE FOR BATCH RELEASE B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
 <div style=\"page-break-after: always\"></div>
 
@@ -800,8 +793,8 @@ trelegy ellipta
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
+|-------|-----------------------------------------|
 
 PC SN NN
 
@@ -996,11 +989,12 @@ Lot
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
-16. INFORMATION IN BRAILLE
+
+## 16. INFORMATION IN BRAILLE
 
 trelegy ellipta
 
-17. UNIQUE IDENTIFIER - 2D BARCODE
+17. UNIQUE IDENTIFIER -2D BARCODE
 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 <div style=\"page-break-after: always\"></div>
@@ -1011,7 +1005,9 @@ TRAY LABEL
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Trelegy Ellipta 92/55/22 mcg inhalation powder fluticasone furoate/umeclidinium/vilanterol
+Trelegy Ellipta 92/55/22 mcg inhalation powder
+
+fluticasone furoate/umeclidinium/vilanterol
 
 ## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
 
@@ -1035,7 +1031,9 @@ Do not open until ready to inhale. In use shelf-life: 6 weeks.
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS INHALER LABEL
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
+
+INHALER LABEL
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
@@ -1247,7 +1245,7 @@ If your breathing or wheezing gets worse straight after using this medicine, sto
 
 ## Pneumonia (infection of the lung) in COPD patients (common side effect)
 
-Tell your doctor if you have any of the following while using Trelegy Ellipta - these could be symptoms of a lung infection:
+Tell your doctor if you have any of the following while using Trelegy Ellipta -these could be symptoms of a lung infection:
 
 - fever or chills
 - increased mucus production, change in mucus colour
@@ -1287,7 +1285,7 @@ Common (may affect up to 1 in 10 people)
 - increased eye pressure
 - eye pain.
 
-Rare (may affect up to 1 in 1 000 people)
+## Rare (may affect up to 1 in 1 000 people)
 
 - allergic reactions (see earlier in Section 4)
 - difficulties passing urine (urinary retention)
@@ -1306,7 +1304,7 @@ If you get any side effects, talk to your doctor, pharmacist or nurse.  This inc
 
 Keep this medicine out of the sight and reach of children.
 
-Do not use this medicine after the expiry date which is stated on the carton, tray and inhaler after 'EXP'. The expiry date refers to the last day of that month.
+Do not use this medicine after the expiry date which is stated on the carton , tray and inhaler after 'EXP'. The expiry date refers to the last day of that month.
 
 Do not store above 30°C.
 
@@ -1326,7 +1324,7 @@ Each single inhalation provides a delivered dose (the dose leaving the mouthpiec
 
 <div style=\"page-break-after: always\"></div>
 
-The other ingredients are lactose monohydrate (see section 2 under 'Trelegy Ellipta contains lactose') and magnesium stearate.
+The other ingredients are lactose monohydrate (see section 2 under 'Trelegy Ellipta contains lactose' ) and magnesium stearate.
 
 ## What Trelegy Ellipta looks like and contents of the pack
 
@@ -1356,11 +1354,13 @@ Tél/Tel: + 32 (0) 10 85 52 00
 
 ## Lietuva
 
-UAB 'BERLIN-CHEMIE MENARINI BALTIC' Tel: + 370 52 691 947 lt@berlin-chemie.com
+UAB 'BERLIN - CHEMIE MENARINI BALTIC' Tel: + 370 52 691 947 lt@berlin-chemie.com
 
 ## България
 
-' Берлин - Хеми/А. Менарини България' EООД Teл.: + 359 2 454 0950 bcsofia@berlin-chemie.com
+'Берлин - Хеми/А. Менарини България' EООД
+
+Teл.: + 359 2 454 0950 bcsofia@berlin-chemie.com
 
 ## Luxembourg/Luxemburg
 
@@ -1368,7 +1368,9 @@ GlaxoSmithKline Pharmaceuticals s.a./n.v. Belgique/Belgien Tél/Tel: + 32 (0) 10
 
 ## Česká republika
 
-GlaxoSmithKline, s.r.o. Tel: + 420 222 001 111 cz.info@gsk.com
+GlaxoSmithKline, s.r.o.
+
+Tel: + 420 222 001 111 cz.info@gsk.com
 
 ## Magyarország
 
@@ -1376,7 +1378,11 @@ Berlin-Chemie/A. Menarini Kft. Tel.: + 36 23501301 bc-hu@berlin-chemie.com
 
 ## Danmark
 
-GlaxoSmithKline Pharma A/S Tlf: + 45 36 35 91 00 dk-info@gsk.com
+GlaxoSmithKline Pharma A/S
+
+Tlf.: + 45 36 35 91 00
+
+dk-info@gsk.com
 
 ## Malta
 
@@ -1386,7 +1392,7 @@ GlaxoSmithKline Trading Services Limited Tel: + 356 80065004
 
 ## Deutschland
 
-GlaxoSmithKline GmbH &amp; Co. KG Tel.: + 49 (0)89 36044 8701 produkt.info@gsk.com
+GlaxoSmithKline GmbH &amp; Co. KG Tel: + 49 (0)89 36044 8701 produkt.info@gsk.com
 
 ## Eesti
 
@@ -1414,7 +1420,7 @@ GlaxoSmithKline (Ireland) Limited Tel: + 353 (0)1 4955000
 
 ## Ísland
 
-Vistor hf. Sími:  +354 535 7000
+Vistor ehf. Sími:  +354 535 7000
 
 ## Italia
 
@@ -1430,7 +1436,9 @@ SIA Berlin-Chemie/Menarini Baltic Tel: + 371 67103210 lv@berlin-chemie.com
 
 ## Nederland
 
-GlaxoSmithKline BV Tel: + 31 (0)33 2081100
+GlaxoSmithKline BV
+
+Tel: + 31 (0)33 2081100
 
 ## Norge
 
@@ -1442,13 +1450,11 @@ GlaxoSmithKline Pharma GmbH Tel: + 43 (0)1 97075 0 at.info@gsk.com
 
 ## Polska
 
-GSK Services Sp. z o.o.
-
-Tel.: + 48 (0)22 576 9000
+GSK Services Sp. z o.o. Tel.: + 48 (0)22 576 9000
 
 ## Portugal
 
-GlaxoSmithKline - Produtos Farmacêuticos, Lda. Tel: + 351 21 412 95 00 FI.PT@gsk.com
+BIAL, Portela &amp; Ca. SA. Tel: + 351 22 986 61 00
 
 ## România
 
@@ -1470,10 +1476,6 @@ GlaxoSmithKline Oy Puh/Tel: + 358 (0)10 30 30 30
 
 GlaxoSmithKline AB Tel: + 46 (0)8 638 93 00 info.produkt@gsk.com
 
-## United Kingdom (Northern Ireland)
-
-GlaxoSmithKline Trading Services Limited Tel: + 44 (0)800 221441 customercontactuk@gsk.com
-
 <div style=\"page-break-after: always\"></div>
 
 ## This leaflet was last revised in .
@@ -1494,7 +1496,7 @@ The first time you use Trelegy Ellipta you do not need to check that the inhaler
 
 <!-- image -->
 
-The inhaler is packaged in a tray. Do not open the tray until you are ready to inhale a dose of your medicine. When you are ready to use your inhaler, peel back the lid to open the tray. The tray contains a desiccant sachet, to reduce moisture. Throw this desiccant sachet away do not open, eat or inhale it.
+The inhaler is packaged in a tray. Do not open the tray until you are ready to inhale a dose of your medicine. When you are ready to use your inhaler, peel back the lid to open the tray. The tray contains a desiccant sachet, to reduce moisture. Throw this desiccant sachet away -do not open, eat or inhale it.
 
 <!-- image -->
 
@@ -1551,14 +1553,11 @@ The dose counter counts down by 1 to confirm.
 
 - While holding the inhaler away from your mouth, breathe out as far as is comfortable. Do not breathe out into the inhaler.
 - Put the mouthpiece between your lips, and close your lips firmly around it. Do not block the air vent with your fingers.
-
-<!-- image -->
-
-Your lips fit over the contoured shape of the mouthpiece for inhaling. Do not block the air vent with your fingers.
-
 - Take one long, steady, deep breath in. Hold this breath in for as long as possible (at least 3-4 seconds).
 - Remove the inhaler from your mouth.
 - Breathe out slowly and gently.
+
+<!-- image -->
 
 You may not be able to taste or feel the medicine, even when you are using the inhaler correctly.
 
@@ -1572,7 +1571,7 @@ If you want to clean the mouthpiece, use a dry tissue , before you close the cov
 
 <!-- image -->
 
-- •
+- ·
 - Rinse your mouth with water after you have used the inhaler, do not swallow.
 
 This will make it less likely that you will develop a sore mouth or throat as side effects.

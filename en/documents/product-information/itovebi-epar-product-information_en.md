@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-01-06 11:50:28
+document_datetime: 2026-05-08 09:45:32
 document_pages: 40
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/itovebi-epar-product-information_en.pdf
 document_name: itovebi-epar-product-information_en.pdf
 version: success
-processing_time: 11.4605206
-conversion_datetime: 2026-01-10 10:58:01.084815
+processing_time: 13.146053
+conversion_datetime: 2026-05-10 12:26:45.863539
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.1
-  docling: 2.67.0
-  docling-core: 2.58.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.17.0
+  docling-jobkit: 1.18.0
+  docling: 2.92.0
+  docling-core: 2.74.1
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.10.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -111,7 +111,7 @@ Table 1: Dose reduction guidelines for adverse reactions
 
 The dose of Itovebi may be re-escalated to a maximum daily dose of 9 mg based on clinical evaluation of the patient by the treating physician. Dose modification guidance for specific adverse reactions is presented in Tables 2-4.
 
-Hyperglycaemia
+Hyperglycaemia Stomatitis Other adverse reactions
 
 Table 2: Dose modification and management for hyperglycaemia
 
@@ -128,8 +128,6 @@ Table 2: Dose modification and management for hyperglycaemia
 | > 500 mg/dL (> 27.8 mmol/L)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |  Interrupt Itovebi.  Initiate or intensify anti-hyperglycaemic treatment b .  Assess for volume depletion and ketosis and administer appropriate hydration.  If fasting glucose level decreases to ≤ 160 mg/dL ( ≤ 8.9 mmol/L), resume Itovebi at one lower dose level (see Table 1).  If fasting glucose level > 500 mg/dL (> 27.8 mmol/L) recurs within 30 days, permanently discontinue Itovebi.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 | ULN = upper limit of normal a Fasting glucose levels (fasting plasma glucose [FPG] or fasting blood glucose [FBG]) should be checked prior to initiation of treatment. Fasting glucose levels referenced in this table reflect hyperglycaemia grading according to Common Terminology Criteria for Adverse Events (CTCAE) version 4.03. b Initiate applicable anti-hyperglycaemic treatments such as metformin, sodium-glucose cotransporter-2 (SGLT2) inhibitors, insulin sensitisers (such as thiazolidinediones), dipeptidyl peptidase-4 (DPP-4) inhibitors, or insulin, and review the respective prescribing information for dosing and dose titration recommendations, including local hyperglycaemia treatment guidelines. Metformin was recommended in the INAVO120 study as the preferred initial agent. See sections 4.4 and 4.8. c See section 4.4 for risk factors for hyperglycaemia. | ULN = upper limit of normal a Fasting glucose levels (fasting plasma glucose [FPG] or fasting blood glucose [FBG]) should be checked prior to initiation of treatment. Fasting glucose levels referenced in this table reflect hyperglycaemia grading according to Common Terminology Criteria for Adverse Events (CTCAE) version 4.03. b Initiate applicable anti-hyperglycaemic treatments such as metformin, sodium-glucose cotransporter-2 (SGLT2) inhibitors, insulin sensitisers (such as thiazolidinediones), dipeptidyl peptidase-4 (DPP-4) inhibitors, or insulin, and review the respective prescribing information for dosing and dose titration recommendations, including local hyperglycaemia treatment guidelines. Metformin was recommended in the INAVO120 study as the preferred initial agent. See sections 4.4 and 4.8. c See section 4.4 for risk factors for hyperglycaemia. |
 
-Stomatitis
-
 Table 3: Dose modification and management for stomatitis
 
 | Grade a                       | Recommendation                                                                                                                                                                                                                                                                              |
@@ -139,8 +137,6 @@ Table 3: Dose modification and management for stomatitis
 | Grade 3                       |  Withhold Itovebi until recovery to Grade ≤ 1.  Initiate or intensify appropriate medical therapy. Resume Itovebi at one lower dose level (see Table 1).                                                                                                                                |
 | Grade 4                       |  Permanently discontinue Itovebi.                                                                                                                                                                                                                                                         |
 | a Based on CTCAE version 5.0. | a Based on CTCAE version 5.0.                                                                                                                                                                                                                                                               |
-
-Other adverse reactions
 
 Table 4: Dose modification and management for other adverse reactions
 
@@ -172,7 +168,7 @@ No dose adjustment of Itovebi is required in patients ≥ 65 years of age based 
 
 ## Renal impairment
 
-The recommended starting dose of Itovebi for patients with moderate renal impairment (eGFR 30 to &lt; 60 mL/min based on CKD-EPI) is 6 mg orally once daily. No dose adjustment is required in patients with mild renal impairment (eGFR 60 to &lt; 90 mL/min). The safety and efficacy of Itovebi have not been established in patients with severe renal impairment (see section 5.2).
+The recommended starting dose of Itovebi for patients with moderate renal impairment (eGFR 30 to &lt; 60 mL/min based on CKD-EPI) is 6 mg orally once daily, and with severe renal impairment (eGFR &lt; 30 mL/min based on CKD-EPI) is 3 mg orally once daily. No dose adjustment is required in patients with mild renal impairment (eGFR 60 to &lt; 90 mL/min).
 
 ## Hepatic impairment
 
@@ -190,11 +186,9 @@ Hypersensitivity to the active substance or to any of the excipients listed in s
 
 ## Hyperglycaemia
 
-The safety and efficacy of Itovebi in patients with Type 1 diabetes mellitus or Type 2 diabetes mellitus requiring ongoing anti-hyperglycaemic therapy have not been studied as these patients were excluded from the INAVO120 study. Only 1 patient with Type 2 diabetes was included in the Itovebi arm of the INAVO120 study, which should be considered when Itovebi is prescribed to patients with diabetes mellitus. Patients with a history of diabetes mellitus may require intensified anti-hyperglycaemic
+The safety and efficacy of Itovebi in patients with Type 1 diabetes mellitus or Type 2 diabetes mellitus requiring ongoing anti-hyperglycaemic therapy have not been studied as these patients were excluded from the INAVO120 study. Only 1 patient with Type 2 diabetes was included in the Itovebi arm of the INAVO120 study, which should be considered when Itovebi is prescribed to patients with diabetes mellitus. Patients with a history of diabetes mellitus may require intensified anti-hyperglycaemic treatment and more frequent fasting glucose testing during Itovebi treatment. Treatment with Itovebi should not be initiated until fasting glucose levels are optimised. Consultation with a healthcare professional experienced in the treatment of hyperglycaemia should be considered before initiating Itovebi.
 
 <div style=\"page-break-after: always\"></div>
-
-treatment and more frequent fasting glucose testing during Itovebi treatment. Treatment with Itovebi should not be initiated until fasting glucose levels are optimised. Consultation with a healthcare professional experienced in the treatment of hyperglycaemia should be considered before initiating Itovebi.
 
 Hyperglycaemia has been frequently reported in patients treated with Itovebi. Severe cases of hyperglycaemia, including ketoacidosis with fatal complications, have occurred.
 
@@ -234,7 +228,7 @@ Information on the efficacy of the combination of Itovebi, palbociclib, and fulv
 
 ## Lactose
 
-Patients with rare hereditary problems of galactose intolerance, total lactase deficiency or glucose glucose-galactose galactose malabsorption should not take this medicine.
+Patients with rare hereditary problems of galactose intolerance, total lactase deficiency or glucose-galactose malabsorption should not take this medicine.
 
 ## Sodium
 
@@ -250,11 +244,9 @@ Clinical study results indicated that the predominant metabolites of inavolisib 
 
 ## CYP substrates
 
-Inavolisib induces CYP3A and is a time-dependent inhibitor of CYP3A in vitro . Therefore, inavolisib should be used with caution in combination with sensitive CYP3A4 substrates with a narrow
+Inavolisib induces CYP3A and is a time-dependent inhibitor of CYP3A in vitro . Therefore, inavolisib should be used with caution in combination with sensitive CYP3A4 substrates with a narrow therapeutic index (e.g., alfentanil, astemizole, cisapride, cyclosporine, quinidine, sirolimus, tacrolimus) as inavolisib may increase or decrease the systemic exposure of these substrates.
 
 <div style=\"page-break-after: always\"></div>
-
-therapeutic index (e.g., alfentanil, astemizole, cisapride, cyclosporine, quinidine, sirolimus, tacrolimus) as inavolisib may increase or decrease the systemic exposure of these substrates.
 
 In addition, inavolisib induces CYP2B6, CYP2C8, CYP2C9, and CYP2C19 in vitro . Therefore, inavolisib should be used with caution in combination with sensitive substrates of these enzymes with a narrow therapeutic index (e.g., paclitaxel, warfarin, phenytoin, S-mephenytoin) as inavolisib may decrease their systemic exposure and consequently lead to decreased efficacy.
 
@@ -371,11 +363,9 @@ f Includes dermatitis, dermatitis acneiform, and dermatitis bullous.
 
 In the INAVO120 study, hyperglycaemia of any grade was reported in 59.9% of patients treated with Itovebi in combination with palbociclib and fulvestrant; Grade 2 and Grade 3 events were reported in 38.3% and 5.6% of patients, respectively (based on CTCAE version 5.0). Among the patients who experienced hyperglycaemia, the rate of new onset of hyperglycaemia events was highest during the first two months of treatment with a median time to first onset of 7 days (range: 2 to 955 days).
 
-In the 97 patients who received Itovebi in combination with palbociclib and fulvestrant and experienced hyperglycaemia, 74.2% (72/97) received anti-hyperglycaemic medicines including SGLT2 inhibitors, thiazolidinediones, and DPP-4 inhibitors for prophylaxis or treatment of hyperglycaemia. All patients who received anti-hyperglycaemic medicines received metformin as a
+In the 97 patients who received Itovebi in combination with palbociclib and fulvestrant and experienced hyperglycaemia, 74.2% (72/97) received anti-hyperglycaemic medicines including SGLT2 inhibitors, thiazolidinediones, and DPP-4 inhibitors for prophylaxis or treatment of hyperglycaemia. All patients who received anti-hyperglycaemic medicines received metformin as a single agent or in combination with other anti-hyperglycaemic medicines (i.e., insulin, DPP-4 inhibitors, and sulfonylureas); and 11.3% (11/97) received insulin (see section 4.4).
 
 <div style=\"page-break-after: always\"></div>
-
-single agent or in combination with other anti-hyperglycaemic medicines (i.e., insulin, DPP-4 inhibitors, and sulfonylureas); and 11.3% (11/97) received insulin (see section 4.4).
 
 In patients with fasting glucose levels &gt; 160 mg/dL (&gt; 8.9 mmol/L) with at least one level (see Table 2) improvement in fasting blood glucose levels (n=52), the median time to improvement was 8 days (range: 2 to 43 days).
 
@@ -417,7 +407,7 @@ Patients who experience overdose should be closely supervised and supportive car
 
 ## 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: Antineoplastic agents, PI3K inhibitors, ATC Code: not yet assigned
+Pharmacotherapeutic group: Antineoplastic agents, PI3K inhibitors, ATC Code: L01EM06
 
 ## Mechanism of action
 
@@ -435,11 +425,9 @@ The efficacy of Itovebi in combination with palbociclib and fulvestrant was eval
 
 PIK3CA mutation status was prospectively determined through testing of plasma-derived circulating tumour DNA (ctDNA) using a next-generation sequencing (NGS) assay (FoundationOne ®  Liquid CDx assay or PredicineCARE TM ) performed at a central laboratory (87.4%), or in local laboratories (12.6%) using various validated polymerase chain reaction (PCR) or NGS assays on tumour tissue or plasma. The following PIK3CA mutations at the indicated amino acid positions were eligible for inclusion: H1047D/I/L/N/P/Q/R/T/Y, G1049A/C/D/R/S, E545A/D/G/K/L/Q/R/V, E453A/D/G/K/Q/V, E542A/D/G/K/Q/R/V, K111N/R/E, Q546E/H/K/L/P/R, G106A/D/R/S/V, N345D/H/I/K/S/T/Y, G118D, C420R, R88Q, and M1043I/T/V. At least one eligible PIK3CA mutation was identified in at least one of these amino acid positions in each of the enrolled patient specimens. Based on results from the central FoundationOne ®  Liquid CDx assay, the most common PIK3CA alterations were short variants at amino acids H1047 (n=115, 42.6%), E545 (n=58, 21.5%), and E542 (n=39, 14.4%). There were 25 patients whose specimens harboured more than one PIK3CA alterations (i.e., multiple PIK3CA mutations), and 33 with less common PIK3CA alterations.
 
-A total of 325 patients were randomised 1:1 to receive either Itovebi 9 mg (n=161) or placebo (n=164) orally once daily, in combination with palbociclib and fulvestrant, until disease progression or
+A total of 325 patients were randomised 1:1 to receive either Itovebi 9 mg (n=161) or placebo (n=164) orally once daily, in combination with palbociclib and fulvestrant, until disease progression or unacceptable toxicity. In addition, pre/perimenopausal women and men received an LHRH agonist throughout therapy. Randomisation was stratified by presence of visceral disease (yes or no), endocrine resistance (primary or secondary), and geographic region (North America/Western Europe, Asia, other).
 
 <div style=\"page-break-after: always\"></div>
-
-unacceptable toxicity. In addition, pre/perimenopausal women and men received an LHRH agonist throughout therapy. Randomisation was stratified by presence of visceral disease (yes or no), endocrine resistance (primary or secondary), and geographic region (North America/Western Europe, Asia, other).
 
 The baseline demographic and disease characteristics were: median age 54 years (range: 27 to 79 years, 18.2% were ≥ 65 years of age); 98.2% female; 38.2% pre/perimenopausal; 58.8% White, 38.2% Asian, 2.5% unknown, 0.6% Black or African American; 6.2% Hispanic or Latino; and Eastern Cooperative Oncology Group (ECOG) performance status of 0 (63.4%) or 1 (36.3%). Tamoxifen (56.9%) and aromatase inhibitors (50.2%) were the most commonly used adjuvant endocrine therapies. Three (0.9%) patients received prior CDK4/6 inhibitor therapy. The demographics and baseline disease characteristics were balanced and comparable between study arms.
 
@@ -470,19 +458,19 @@ Table 7: Efficacy results in patients with locally advanced or metastatic breast
 
 <div style=\"page-break-after: always\"></div>
 
-d  Per RECIST version 1.1. ORR is defined as the proportion of patients with a CR or PR on two consecutive occasions ≥ 4 weeks apart, as determined by the investigator.
+| Efficacy endpoint                                                                                                                                                       | Itovebi + palbociclib + fulvestrant N=161                                                                                                                               | Placebo + palbociclib + fulvestrant N=164                                                                                                                               |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| d Per RECIST version 1.1. ORR is defined as the proportion of patients with a CR or PR on two consecutive occasions ≥ 4 weeks apart, as determined by the investigator. | d Per RECIST version 1.1. ORR is defined as the proportion of patients with a CR or PR on two consecutive occasions ≥ 4 weeks apart, as determined by the investigator. | d Per RECIST version 1.1. ORR is defined as the proportion of patients with a CR or PR on two consecutive occasions ≥ 4 weeks apart, as determined by the investigator. |
 
 Figure 1 INV-assessed progression-free survival in patients with locally advanced or metastatic breast cancer in INAVO120
 
 <!-- image -->
 
-Time inMonths
+Time in Months
 
 Figure 2 Overall survival in patients with locally advanced or metastatic breast cancer in INAVO120
 
 <!-- image -->
-
-TimeinMonths
 
 <div style=\"page-break-after: always\"></div>
 
@@ -542,7 +530,7 @@ No clinically relevant differences in inavolisib pharmacokinetics were noted bet
 
 ## Renal impairment
 
-Population pharmacokinetic analyses indicated that mild renal impairment is not a clinically relevant covariate on inavolisib exposure. The pharmacokinetics of inavolisib in patients with mild renal impairment (eGFR 60 to &lt; 90 mL/min) were similar to those in patients with normal renal function. Inavolisib AUC and Cmax were 73% and 11% higher in patients with moderate renal impairment compared to patients with normal renal function (eGFR ≥ 90 mL/min), respectively. The effect of severe renal impairment on inavolisib pharmacokinetics has not been established.
+Population pharmacokinetic analyses indicated that mild renal impairment is not a clinically relevant covariate on inavolisib exposure. The pharmacokinetics of inavolisib in patients with mild renal impairment (eGFR 60 to &lt; 90 mL/min) were similar to those in patients with normal renal function. Inavolisib AUC and Cmax were 73% and 11% higher in patients with moderate renal impairment (eGFR 30 to &lt; 60 mL/min), and 123% and 33% higher in patients with severe renal impairment (eGFR  30 mL/min), compared to patients with normal renal function (eGFR ≥ 90 mL/min), respectively.
 
 ## Hepatic impairment
 
@@ -588,13 +576,9 @@ Lactose monohydrate Magnesium stearate (E470b) Microcrystalline cellulose (E460)
 
 ## Itovebi 3 mg film-coating
 
-Polyvinyl alcohol, partially hydrolysed
+Polyvinyl alcohol, partially hydrolysed Titanium dioxide (E 171) Macrogol Talc (E 553b) Iron oxide red (E 172)
 
 <div style=\"page-break-after: always\"></div>
-
-Titanium dioxide (E 171)
-
-Macrogol Talc (E 553b) Iron oxide red (E 172)
 
 Itovebi 9 mg film-coating
 
@@ -632,9 +616,9 @@ EU/1/25/1942/001 EU/1/25/1942/002
 
 Date of first authorisation: 18 July 2025
 
-## 10. DATE OF REVISION OF THE TEXT
-
 <div style=\"page-break-after: always\"></div>
+
+## 10. DATE OF REVISION OF THE TEXT
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
@@ -1003,11 +987,9 @@ Your doctor may also ask you to monitor your blood sugar at home during treatmen
 - Your doctor will tell you exactly when to test your blood sugar..
 - This will be needed more often in the first 4 weeks of treatment. If you are not sure how to test your blood sugar, talk to a doctor, pharmacist, or nurse.
 
-Based on the results, your doctor will take any necessary actions - such as prescribing a medicine to lower blood sugar levels. If necessary, your doctor may decide to pause treatment with Itovebi - or
+Based on the results, your doctor will take any necessary actions - such as prescribing a medicine to lower blood sugar levels. If necessary, your doctor may decide to pause treatment with Itovebi - or reduce your Itovebi dose to decrease your blood sugar levels. Your doctor may also decide to stop Itovebi treatment permanently.
 
 <div style=\"page-break-after: always\"></div>
-
-reduce your Itovebi dose to decrease your blood sugar levels. Your doctor may also decide to stop Itovebi treatment permanently.
 
 ## Children and adolescents
 

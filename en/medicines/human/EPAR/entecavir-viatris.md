@@ -1,30 +1,32 @@
 ---
-document_datetime: 2026-01-16 09:42:00
+document_datetime: 2026-05-07 17:45:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/entecavir-viatris.html
 document_name: entecavir-viatris.html
 version: success
-processing_time: 0.1380495
-conversion_datetime: 2026-01-17 13:36:30.901649
+processing_time: 0.1240096
+conversion_datetime: 2026-05-10 12:34:43.702456
 docling_version:
-  docling-serve: 1.10.0
-  docling-jobkit: 1.8.1
-  docling: 2.68.0
-  docling-core: 2.59.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.3
+  docling-serve: 1.17.0
+  docling-jobkit: 1.18.0
+  docling: 2.92.0
+  docling-core: 2.74.1
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.10.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 # Entecavir Viatris (previously Entecavir Mylan)
 
 [RSS](/en/individual-human-medicine.xml/66886)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-entecavir Medicine Human Authorised
+entecavir
+
+Medicine Human Authorised
 
 Page contents
 
@@ -105,275 +107,141 @@ Entecavir Mylan : EPAR - Summary for the public
 
 English (EN) (93.21 KB - PDF)
 
-**First published:** 10/10/2017
-
-**Last updated:** 26/10/2017
+**First published:** 10/10/2017 **Last updated:** 26/10/2017
 
 [View](/en/documents/overview/entecavir-mylan-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-809)
+[Other languages (22)](#file-language-dropdown-681)
 
 български (BG) (119.51 KB - PDF)
 
-**First published:**
-
-10/10/2017
-
-**Last updated:**
-
-26/10/2017
+**First published:** 10/10/2017 **Last updated:** 26/10/2017
 
 [View](/bg/documents/overview/entecavir-mylan-epar-summary-public_bg.pdf)
 
 español (ES) (92.86 KB - PDF)
 
-**First published:**
-
-10/10/2017
-
-**Last updated:**
-
-26/10/2017
+**First published:** 10/10/2017 **Last updated:** 26/10/2017
 
 [View](/es/documents/overview/entecavir-mylan-epar-summary-public_es.pdf)
 
 čeština (CS) (118.8 KB - PDF)
 
-**First published:**
-
-10/10/2017
-
-**Last updated:**
-
-26/10/2017
+**First published:** 10/10/2017 **Last updated:** 26/10/2017
 
 [View](/cs/documents/overview/entecavir-mylan-epar-summary-public_cs.pdf)
 
 dansk (DA) (92.13 KB - PDF)
 
-**First published:**
-
-10/10/2017
-
-**Last updated:**
-
-26/10/2017
+**First published:** 10/10/2017 **Last updated:** 26/10/2017
 
 [View](/da/documents/overview/entecavir-mylan-epar-summary-public_da.pdf)
 
 Deutsch (DE) (94.55 KB - PDF)
 
-**First published:**
-
-10/10/2017
-
-**Last updated:**
-
-26/10/2017
+**First published:** 10/10/2017 **Last updated:** 26/10/2017
 
 [View](/de/documents/overview/entecavir-mylan-epar-summary-public_de.pdf)
 
 eesti keel (ET) (91.41 KB - PDF)
 
-**First published:**
-
-10/10/2017
-
-**Last updated:**
-
-26/10/2017
+**First published:** 10/10/2017 **Last updated:** 26/10/2017
 
 [View](/et/documents/overview/entecavir-mylan-epar-summary-public_et.pdf)
 
 ελληνικά (EL) (122 KB - PDF)
 
-**First published:**
-
-10/10/2017
-
-**Last updated:**
-
-26/10/2017
+**First published:** 10/10/2017 **Last updated:** 26/10/2017
 
 [View](/el/documents/overview/entecavir-mylan-epar-summary-public_el.pdf)
 
 français (FR) (93.71 KB - PDF)
 
-**First published:**
-
-10/10/2017
-
-**Last updated:**
-
-26/10/2017
+**First published:** 10/10/2017 **Last updated:** 26/10/2017
 
 [View](/fr/documents/overview/entecavir-mylan-epar-summary-public_fr.pdf)
 
 hrvatski (HR) (111.13 KB - PDF)
 
-**First published:**
-
-10/10/2017
-
-**Last updated:**
-
-26/10/2017
+**First published:** 10/10/2017 **Last updated:** 26/10/2017
 
 [View](/hr/documents/overview/entecavir-mylan-epar-summary-public_hr.pdf)
 
 italiano (IT) (91.98 KB - PDF)
 
-**First published:**
-
-10/10/2017
-
-**Last updated:**
-
-26/10/2017
+**First published:** 10/10/2017 **Last updated:** 26/10/2017
 
 [View](/it/documents/overview/entecavir-mylan-epar-summary-public_it.pdf)
 
 latviešu valoda (LV) (114.9 KB - PDF)
 
-**First published:**
-
-10/10/2017
-
-**Last updated:**
-
-26/10/2017
+**First published:** 10/10/2017 **Last updated:** 26/10/2017
 
 [View](/lv/documents/overview/entecavir-mylan-epar-summary-public_lv.pdf)
 
 lietuvių kalba (LT) (115.03 KB - PDF)
 
-**First published:**
-
-10/10/2017
-
-**Last updated:**
-
-26/10/2017
+**First published:** 10/10/2017 **Last updated:** 26/10/2017
 
 [View](/lt/documents/overview/entecavir-mylan-epar-summary-public_lt.pdf)
 
 magyar (HU) (112.96 KB - PDF)
 
-**First published:**
-
-10/10/2017
-
-**Last updated:**
-
-26/10/2017
+**First published:** 10/10/2017 **Last updated:** 26/10/2017
 
 [View](/hu/documents/overview/entecavir-mylan-epar-summary-public_hu.pdf)
 
 Malti (MT) (118.1 KB - PDF)
 
-**First published:**
-
-10/10/2017
-
-**Last updated:**
-
-26/10/2017
+**First published:** 10/10/2017 **Last updated:** 26/10/2017
 
 [View](/mt/documents/overview/entecavir-mylan-epar-summary-public_mt.pdf)
 
 Nederlands (NL) (92.61 KB - PDF)
 
-**First published:**
-
-10/10/2017
-
-**Last updated:**
-
-26/10/2017
+**First published:** 10/10/2017 **Last updated:** 26/10/2017
 
 [View](/nl/documents/overview/entecavir-mylan-epar-summary-public_nl.pdf)
 
 polski (PL) (118.07 KB - PDF)
 
-**First published:**
-
-10/10/2017
-
-**Last updated:**
-
-26/10/2017
+**First published:** 10/10/2017 **Last updated:** 26/10/2017
 
 [View](/pl/documents/overview/entecavir-mylan-epar-summary-public_pl.pdf)
 
 português (PT) (92.66 KB - PDF)
 
-**First published:**
-
-10/10/2017
-
-**Last updated:**
-
-26/10/2017
+**First published:** 10/10/2017 **Last updated:** 26/10/2017
 
 [View](/pt/documents/overview/entecavir-mylan-epar-summary-public_pt.pdf)
 
 română (RO) (115.21 KB - PDF)
 
-**First published:**
-
-10/10/2017
-
-**Last updated:**
-
-26/10/2017
+**First published:** 10/10/2017 **Last updated:** 26/10/2017
 
 [View](/ro/documents/overview/entecavir-mylan-epar-summary-public_ro.pdf)
 
 slovenčina (SK) (117.71 KB - PDF)
 
-**First published:**
-
-10/10/2017
-
-**Last updated:**
-
-26/10/2017
+**First published:** 10/10/2017 **Last updated:** 26/10/2017
 
 [View](/sk/documents/overview/entecavir-mylan-epar-summary-public_sk.pdf)
 
 slovenščina (SL) (110.79 KB - PDF)
 
-**First published:**
-
-10/10/2017
-
-**Last updated:**
-
-26/10/2017
+**First published:** 10/10/2017 **Last updated:** 26/10/2017
 
 [View](/sl/documents/overview/entecavir-mylan-epar-summary-public_sl.pdf)
 
 Suomi (FI) (91.96 KB - PDF)
 
-**First published:**
-
-10/10/2017
-
-**Last updated:**
-
-26/10/2017
+**First published:** 10/10/2017 **Last updated:** 26/10/2017
 
 [View](/fi/documents/overview/entecavir-mylan-epar-summary-public_fi.pdf)
 
 svenska (SV) (92.08 KB - PDF)
 
-**First published:**
-
-10/10/2017
-
-**Last updated:**
-
-26/10/2017
+**First published:** 10/10/2017 **Last updated:** 26/10/2017
 
 [View](/sv/documents/overview/entecavir-mylan-epar-summary-public_sv.pdf)
 
@@ -389,305 +257,161 @@ English (EN) (74.25 KB - PDF)
 
 Entecavir Viatris : EPAR - Product Information
 
-English (EN) (287.03 KB - PDF)
+English (EN) (380.68 KB - PDF)
 
-**First published:** 10/10/2017
-
-**Last updated:** 16/01/2026
+**First published:** 10/10/2017 **Last updated:** 07/05/2026
 
 [View](/en/documents/product-information/entecavir-viatris-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-106)
+[Other languages (24)](#file-language-dropdown-946)
 
-български (BG) (720.42 KB - PDF)
+български (BG) (581.79 KB - PDF)
 
-**First published:**
-
-10/10/2017
-
-**Last updated:**
-
-16/01/2026
+**First published:** 10/10/2017 **Last updated:** 07/05/2026
 
 [View](/bg/documents/product-information/entecavir-viatris-epar-product-information_bg.pdf)
 
-español (ES) (452.46 KB - PDF)
+español (ES) (437.74 KB - PDF)
 
-**First published:**
-
-10/10/2017
-
-**Last updated:**
-
-16/01/2026
+**First published:** 10/10/2017 **Last updated:** 07/05/2026
 
 [View](/es/documents/product-information/entecavir-viatris-epar-product-information_es.pdf)
 
-čeština (CS) (625.41 KB - PDF)
+čeština (CS) (473.79 KB - PDF)
 
-**First published:**
-
-10/10/2017
-
-**Last updated:**
-
-16/01/2026
+**First published:** 10/10/2017 **Last updated:** 07/05/2026
 
 [View](/cs/documents/product-information/entecavir-viatris-epar-product-information_cs.pdf)
 
-dansk (DA) (572.83 KB - PDF)
+dansk (DA) (405.93 KB - PDF)
 
-**First published:**
-
-10/10/2017
-
-**Last updated:**
-
-16/01/2026
+**First published:** 10/10/2017 **Last updated:** 07/05/2026
 
 [View](/da/documents/product-information/entecavir-viatris-epar-product-information_da.pdf)
 
-Deutsch (DE) (417.73 KB - PDF)
+Deutsch (DE) (400.26 KB - PDF)
 
-**First published:**
-
-10/10/2017
-
-**Last updated:**
-
-16/01/2026
+**First published:** 10/10/2017 **Last updated:** 07/05/2026
 
 [View](/de/documents/product-information/entecavir-viatris-epar-product-information_de.pdf)
 
-eesti keel (ET) (540.69 KB - PDF)
+eesti keel (ET) (406.09 KB - PDF)
 
-**First published:**
-
-10/10/2017
-
-**Last updated:**
-
-16/01/2026
+**First published:** 10/10/2017 **Last updated:** 07/05/2026
 
 [View](/et/documents/product-information/entecavir-viatris-epar-product-information_et.pdf)
 
-ελληνικά (EL) (602.91 KB - PDF)
+ελληνικά (EL) (592.87 KB - PDF)
 
-**First published:**
-
-10/10/2017
-
-**Last updated:**
-
-16/01/2026
+**First published:** 10/10/2017 **Last updated:** 07/05/2026
 
 [View](/el/documents/product-information/entecavir-viatris-epar-product-information_el.pdf)
 
-français (FR) (559.2 KB - PDF)
+français (FR) (440.92 KB - PDF)
 
-**First published:**
-
-10/10/2017
-
-**Last updated:**
-
-16/01/2026
+**First published:** 10/10/2017 **Last updated:** 07/05/2026
 
 [View](/fr/documents/product-information/entecavir-viatris-epar-product-information_fr.pdf)
 
-hrvatski (HR) (667.96 KB - PDF)
+hrvatski (HR) (475.53 KB - PDF)
 
-**First published:**
-
-10/10/2017
-
-**Last updated:**
-
-16/01/2026
+**First published:** 10/10/2017 **Last updated:** 07/05/2026
 
 [View](/hr/documents/product-information/entecavir-viatris-epar-product-information_hr.pdf)
 
-íslenska (IS) (557.13 KB - PDF)
+íslenska (IS) (387.36 KB - PDF)
 
-**First published:**
-
-10/10/2017
-
-**Last updated:**
-
-16/01/2026
+**First published:** 10/10/2017 **Last updated:** 07/05/2026
 
 [View](/is/documents/product-information/entecavir-viatris-epar-product-information_is.pdf)
 
-italiano (IT) (548.36 KB - PDF)
+italiano (IT) (408.65 KB - PDF)
 
-**First published:**
-
-10/10/2017
-
-**Last updated:**
-
-16/01/2026
+**First published:** 10/10/2017 **Last updated:** 07/05/2026
 
 [View](/it/documents/product-information/entecavir-viatris-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (490.1 KB - PDF)
+latviešu valoda (LV) (497.58 KB - PDF)
 
-**First published:**
-
-10/10/2017
-
-**Last updated:**
-
-16/01/2026
+**First published:** 10/10/2017 **Last updated:** 07/05/2026
 
 [View](/lv/documents/product-information/entecavir-viatris-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (460.14 KB - PDF)
+lietuvių kalba (LT) (457.53 KB - PDF)
 
-**First published:**
-
-10/10/2017
-
-**Last updated:**
-
-16/01/2026
+**First published:** 10/10/2017 **Last updated:** 07/05/2026
 
 [View](/lt/documents/product-information/entecavir-viatris-epar-product-information_lt.pdf)
 
-magyar (HU) (678.84 KB - PDF)
+magyar (HU) (465.65 KB - PDF)
 
-**First published:**
-
-10/10/2017
-
-**Last updated:**
-
-16/01/2026
+**First published:** 10/10/2017 **Last updated:** 07/05/2026
 
 [View](/hu/documents/product-information/entecavir-viatris-epar-product-information_hu.pdf)
 
-Malti (MT) (752.98 KB - PDF)
+Malti (MT) (513.12 KB - PDF)
 
-**First published:**
-
-10/10/2017
-
-**Last updated:**
-
-16/01/2026
+**First published:** 10/10/2017 **Last updated:** 07/05/2026
 
 [View](/mt/documents/product-information/entecavir-viatris-epar-product-information_mt.pdf)
 
-Nederlands (NL) (539.55 KB - PDF)
+Nederlands (NL) (411.7 KB - PDF)
 
-**First published:**
-
-10/10/2017
-
-**Last updated:**
-
-16/01/2026
+**First published:** 10/10/2017 **Last updated:** 07/05/2026
 
 [View](/nl/documents/product-information/entecavir-viatris-epar-product-information_nl.pdf)
 
-norsk (NO) (422.29 KB - PDF)
+norsk (NO) (420.5 KB - PDF)
 
-**First published:**
-
-10/10/2017
-
-**Last updated:**
-
-16/01/2026
+**First published:** 10/10/2017 **Last updated:** 07/05/2026
 
 [View](/no/documents/product-information/entecavir-viatris-epar-product-information_no.pdf)
 
-polski (PL) (658.03 KB - PDF)
+polski (PL) (570.87 KB - PDF)
 
-**First published:**
-
-10/10/2017
-
-**Last updated:**
-
-16/01/2026
+**First published:** 10/10/2017 **Last updated:** 07/05/2026
 
 [View](/pl/documents/product-information/entecavir-viatris-epar-product-information_pl.pdf)
 
-português (PT) (285.57 KB - PDF)
+português (PT) (418.22 KB - PDF)
 
-**First published:**
-
-10/10/2017
-
-**Last updated:**
-
-16/01/2026
+**First published:** 10/10/2017 **Last updated:** 07/05/2026
 
 [View](/pt/documents/product-information/entecavir-viatris-epar-product-information_pt.pdf)
 
-română (RO) (648.57 KB - PDF)
+română (RO) (469.65 KB - PDF)
 
-**First published:**
-
-10/10/2017
-
-**Last updated:**
-
-16/01/2026
+**First published:** 10/10/2017 **Last updated:** 07/05/2026
 
 [View](/ro/documents/product-information/entecavir-viatris-epar-product-information_ro.pdf)
 
-slovenčina (SK) (645.19 KB - PDF)
+slovenčina (SK) (471.23 KB - PDF)
 
-**First published:**
-
-10/10/2017
-
-**Last updated:**
-
-16/01/2026
+**First published:** 10/10/2017 **Last updated:** 07/05/2026
 
 [View](/sk/documents/product-information/entecavir-viatris-epar-product-information_sk.pdf)
 
-slovenščina (SL) (398.27 KB - PDF)
+slovenščina (SL) (446.28 KB - PDF)
 
-**First published:**
-
-10/10/2017
-
-**Last updated:**
-
-16/01/2026
+**First published:** 10/10/2017 **Last updated:** 07/05/2026
 
 [View](/sl/documents/product-information/entecavir-viatris-epar-product-information_sl.pdf)
 
-Suomi (FI) (597.6 KB - PDF)
+Suomi (FI) (392.33 KB - PDF)
 
-**First published:**
-
-10/10/2017
-
-**Last updated:**
-
-16/01/2026
+**First published:** 10/10/2017 **Last updated:** 07/05/2026
 
 [View](/fi/documents/product-information/entecavir-viatris-epar-product-information_fi.pdf)
 
-svenska (SV) (396.32 KB - PDF)
+svenska (SV) (398.92 KB - PDF)
 
-**First published:**
-
-10/10/2017
-
-**Last updated:**
-
-16/01/2026
+**First published:** 10/10/2017 **Last updated:** 07/05/2026
 
 [View](/sv/documents/product-information/entecavir-viatris-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000323069 15/01/2026
+**Latest procedure affecting product information:** VR/0000325156
+
+05/05/2026
 
 icon globe
 
@@ -707,305 +431,177 @@ Entecavir Viatris (previously Entecavir Mylan) : EPAR - All Authorised presentat
 
 English (EN) (7.9 KB - PDF)
 
-**First published:** 10/10/2017
-
-**Last updated:** 16/01/2024
+**First published:** 10/10/2017 **Last updated:** 16/01/2024
 
 [View](/en/documents/all-authorised-presentations/entecavir-viatris-previously-entecavir-mylan-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-204)
+[Other languages (24)](#file-language-dropdown-537)
 
 български (BG) (78.79 KB - PDF)
 
-**First published:**
-
-10/10/2017
-
-**Last updated:**
-
-16/01/2024
+**First published:** 10/10/2017 **Last updated:** 16/01/2024
 
 [View](/bg/documents/all-authorised-presentations/entecavir-viatris-previously-entecavir-mylan-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (46.1 KB - PDF)
 
-**First published:**
-
-10/10/2017
-
-**Last updated:**
-
-16/01/2024
+**First published:** 10/10/2017 **Last updated:** 16/01/2024
 
 [View](/es/documents/all-authorised-presentations/entecavir-viatris-previously-entecavir-mylan-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (47.06 KB - PDF)
 
-**First published:**
-
-10/10/2017
-
-**Last updated:**
-
-16/01/2024
+**First published:** 10/10/2017 **Last updated:** 16/01/2024
 
 [View](/cs/documents/all-authorised-presentations/entecavir-viatris-previously-entecavir-mylan-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (34.39 KB - PDF)
 
-**First published:**
-
-10/10/2017
-
-**Last updated:**
-
-16/01/2024
+**First published:** 10/10/2017 **Last updated:** 16/01/2024
 
 [View](/da/documents/all-authorised-presentations/entecavir-viatris-previously-entecavir-mylan-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (47.05 KB - PDF)
 
-**First published:**
-
-10/10/2017
-
-**Last updated:**
-
-16/01/2024
+**First published:** 10/10/2017 **Last updated:** 16/01/2024
 
 [View](/de/documents/all-authorised-presentations/entecavir-viatris-previously-entecavir-mylan-epar-all-authorised-presentations_de.pdf)
 
 eesti keel (ET) (39.21 KB - PDF)
 
-**First published:**
-
-10/10/2017
-
-**Last updated:**
-
-16/01/2024
+**First published:** 10/10/2017 **Last updated:** 16/01/2024
 
 [View](/et/documents/all-authorised-presentations/entecavir-viatris-previously-entecavir-mylan-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (36.64 KB - PDF)
 
-**First published:**
-
-10/10/2017
-
-**Last updated:**
-
-16/01/2024
+**First published:** 10/10/2017 **Last updated:** 16/01/2024
 
 [View](/el/documents/all-authorised-presentations/entecavir-viatris-previously-entecavir-mylan-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (32.33 KB - PDF)
 
-**First published:**
-
-10/10/2017
-
-**Last updated:**
-
-16/01/2024
+**First published:** 10/10/2017 **Last updated:** 16/01/2024
 
 [View](/fr/documents/all-authorised-presentations/entecavir-viatris-previously-entecavir-mylan-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (59.48 KB - PDF)
 
-**First published:**
-
-10/10/2017
-
-**Last updated:**
-
-16/01/2024
+**First published:** 10/10/2017 **Last updated:** 16/01/2024
 
 [View](/hr/documents/all-authorised-presentations/entecavir-viatris-previously-entecavir-mylan-epar-all-authorised-presentations_hr.pdf)
 
 íslenska (IS) (34.77 KB - PDF)
 
-**First published:**
-
-10/10/2017
-
-**Last updated:**
-
-16/01/2024
+**First published:** 10/10/2017 **Last updated:** 16/01/2024
 
 [View](/is/documents/all-authorised-presentations/entecavir-viatris-previously-entecavir-mylan-epar-all-authorised-presentations_is.pdf)
 
 italiano (IT) (39.46 KB - PDF)
 
-**First published:**
-
-10/10/2017
-
-**Last updated:**
-
-16/01/2024
+**First published:** 10/10/2017 **Last updated:** 16/01/2024
 
 [View](/it/documents/all-authorised-presentations/entecavir-viatris-previously-entecavir-mylan-epar-all-authorised-presentations_it.pdf)
 
 latviešu valoda (LV) (58.18 KB - PDF)
 
-**First published:**
-
-10/10/2017
-
-**Last updated:**
-
-16/01/2024
+**First published:** 10/10/2017 **Last updated:** 16/01/2024
 
 [View](/lv/documents/all-authorised-presentations/entecavir-viatris-previously-entecavir-mylan-epar-all-authorised-presentations_lv.pdf)
 
 lietuvių kalba (LT) (88.7 KB - PDF)
 
-**First published:**
-
-10/10/2017
-
-**Last updated:**
-
-16/01/2024
+**First published:** 10/10/2017 **Last updated:** 16/01/2024
 
 [View](/lt/documents/all-authorised-presentations/entecavir-viatris-previously-entecavir-mylan-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (58.58 KB - PDF)
 
-**First published:**
-
-10/10/2017
-
-**Last updated:**
-
-16/01/2024
+**First published:** 10/10/2017 **Last updated:** 16/01/2024
 
 [View](/hu/documents/all-authorised-presentations/entecavir-viatris-previously-entecavir-mylan-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (48.19 KB - PDF)
 
-**First published:**
-
-10/10/2017
-
-**Last updated:**
-
-16/01/2024
+**First published:** 10/10/2017 **Last updated:** 16/01/2024
 
 [View](/mt/documents/all-authorised-presentations/entecavir-viatris-previously-entecavir-mylan-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (42.94 KB - PDF)
 
-**First published:**
-
-10/10/2017
-
-**Last updated:**
-
-16/01/2024
+**First published:** 10/10/2017 **Last updated:** 16/01/2024
 
 [View](/nl/documents/all-authorised-presentations/entecavir-viatris-previously-entecavir-mylan-epar-all-authorised-presentations_nl.pdf)
 
 norsk (NO) (33.12 KB - PDF)
 
-**First published:**
-
-10/10/2017
-
-**Last updated:**
-
-16/01/2024
+**First published:** 10/10/2017 **Last updated:** 16/01/2024
 
 [View](/no/documents/all-authorised-presentations/entecavir-viatris-previously-entecavir-mylan-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (25.1 KB - PDF)
 
-**First published:**
-
-10/10/2017
-
-**Last updated:**
-
-16/01/2024
+**First published:** 10/10/2017 **Last updated:** 16/01/2024
 
 [View](/pl/documents/all-authorised-presentations/entecavir-viatris-previously-entecavir-mylan-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (9.04 KB - PDF)
 
-**First published:**
-
-10/10/2017
-
-**Last updated:**
-
-16/01/2024
+**First published:** 10/10/2017 **Last updated:** 16/01/2024
 
 [View](/pt/documents/all-authorised-presentations/entecavir-viatris-previously-entecavir-mylan-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (67.13 KB - PDF)
 
-**First published:**
-
-10/10/2017
-
-**Last updated:**
-
-16/01/2024
+**First published:** 10/10/2017 **Last updated:** 16/01/2024
 
 [View](/ro/documents/all-authorised-presentations/entecavir-viatris-previously-entecavir-mylan-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (48.69 KB - PDF)
 
-**First published:**
-
-10/10/2017
-
-**Last updated:**
-
-16/01/2024
+**First published:** 10/10/2017 **Last updated:** 16/01/2024
 
 [View](/sk/documents/all-authorised-presentations/entecavir-viatris-previously-entecavir-mylan-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (39.41 KB - PDF)
 
-**First published:**
-
-10/10/2017
-
-**Last updated:**
-
-16/01/2024
+**First published:** 10/10/2017 **Last updated:** 16/01/2024
 
 [View](/sl/documents/all-authorised-presentations/entecavir-viatris-previously-entecavir-mylan-epar-all-authorised-presentations_sl.pdf)
 
 Suomi (FI) (39.32 KB - PDF)
 
-**First published:**
-
-10/10/2017
-
-**Last updated:**
-
-16/01/2024
+**First published:** 10/10/2017 **Last updated:** 16/01/2024
 
 [View](/fi/documents/all-authorised-presentations/entecavir-viatris-previously-entecavir-mylan-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (32.5 KB - PDF)
 
-**First published:**
-
-10/10/2017
-
-**Last updated:**
-
-16/01/2024
+**First published:** 10/10/2017 **Last updated:** 16/01/2024
 
 [View](/sv/documents/all-authorised-presentations/entecavir-viatris-previously-entecavir-mylan-epar-all-authorised-presentations_sv.pdf)
 
 ## Product details
 
-Name of medicine Entecavir Viatris (previously Entecavir Mylan) Active substance entecavir monohydrate International non-proprietary name (INN) or common name entecavir Therapeutic area (MeSH) Hepatitis B Anatomical therapeutic chemical (ATC) code J05AF10
+Name of medicine
+
+Entecavir Viatris (previously Entecavir Mylan)
+
+Active substance
+
+entecavir monohydrate
+
+International non-proprietary name (INN) or common name
+
+entecavir
+
+Therapeutic area (MeSH)
+
+Hepatitis B
+
+Anatomical therapeutic chemical (ATC) code
+
+J05AF10
 
 ### Pharmacotherapeutic group
 
@@ -1015,9 +611,16 @@ Antivirals for systemic use
 
 Entecavir Viatris is indicated for the treatment of chronic hepatitis B virus (HBV) infection in adults with:
 
+- compensated liver disease and evidence of active viral replication, persistently elevated serum alanine aminotransferase (ALT) levels and histological evidence of active inflammation and/or fibrosis.
+- decompensated liver disease.
+
+For both compensated and decompensated liver disease, this indication is based on clinical trial data in nucleoside naive patients with HBeAg positive and HBeAg negative HBV infection. With respect to patients with lamivudine-refractory hepatitis B. Entecavir Viatris is also indicated for the treatment of chronic HBV infection in nucleoside naive paediatric patients from 2 to &lt;18 years of age with compensated liver disease who have evidence of active viral replication and persistently elevated serum ALT levels, or histological evidence of moderate to severe inflammation and/or fibrosis. With respect to the decision to initiate treatment in paediatric patients.
+
 ## Authorisation details
 
-EMA product number EMEA/H/C/004377
+EMA product number
+
+EMEA/H/C/004377
 
 Generic
 
@@ -1027,9 +630,19 @@ Marketing authorisation holder
 
 Viatris Limited
 
-Damastown Industrial Park Mulhuddart Dublin 15 Ireland
+Damastown Industrial Park Dublin 15 Ireland
 
-Opinion adopted 18/05/2017 Marketing authorisation issued 18/09/2017 Revision 11
+Opinion adopted
+
+18/05/2017
+
+Marketing authorisation issued
+
+18/09/2017
+
+Revision
+
+12
 
 ## Assessment history
 
@@ -1041,11 +654,9 @@ Collapse section
 
 Entecavir Viatris : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (151.71 KB - PDF)
+English (EN) (154.6 KB - PDF)
 
-**First published:** 10/03/2025
-
-**Last updated:** 16/01/2026
+**First published:** 10/03/2025 **Last updated:** 07/05/2026
 
 [View](/en/documents/procedural-steps-after/entecavir-viatris-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1053,9 +664,7 @@ Entecavir Viatris : EPAR - Procedural steps taken and scientific information aft
 
 English (EN) (158 KB - PDF)
 
-**First published:** 30/04/2019
-
-**Last updated:** 10/03/2025
+**First published:** 30/04/2019 **Last updated:** 10/03/2025
 
 [View](/en/documents/procedural-steps-after/entecavir-viatris-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
@@ -1067,9 +676,7 @@ Reference Number: EMA/555410/2017
 
 English (EN) (382.72 KB - PDF)
 
-**First published:** 10/10/2017
-
-**Last updated:** 10/10/2017
+**First published:** 10/10/2017 **Last updated:** 10/10/2017
 
 [View](/en/documents/assessment-report/entecavir-mylan-epar-public-assessment-report_en.pdf)
 
@@ -1079,17 +686,17 @@ Reference Number: EMA/CHMP/275743/2017
 
 English (EN) (75.31 KB - PDF)
 
-**First published:** 21/07/2017
-
-**Last updated:** 21/07/2017
+**First published:** 21/07/2017 **Last updated:** 21/07/2017
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-entecavir-mylan_en.pdf)
 
-#### News on Entecavir Viatris (previously Entecavir Mylan)
+## News on Entecavir Viatris (previously Entecavir Mylan)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 17-20 July 2017](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-17-20-july-2017) 21/07/2017
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 17-20 July 2017](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-17-20-july-2017)
 
-#### More information on Entecavir Mylan
+21/07/2017
+
+## More information on Entecavir Mylan
 
 Questions and answers on generic medicines
 
@@ -1097,285 +704,151 @@ Reference Number: EMA/393905/2006 Rev. 2
 
 English (EN) (66.45 KB - PDF)
 
-**First published:** 09/07/2007
-
-**Last updated:** 07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-597)
+[Other languages (22)](#file-language-dropdown-111)
 
 български (BG) (93.16 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/bg/documents/other/questions-and-answers-generic-medicines_bg.pdf)
 
 español (ES) (68.3 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/es/documents/other/questions-and-answers-generic-medicines_es.pdf)
 
 čeština (CS) (87.71 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/cs/documents/other/questions-and-answers-generic-medicines_cs.pdf)
 
 dansk (DA) (66.79 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/da/documents/other/questions-and-answers-generic-medicines_da.pdf)
 
 Deutsch (DE) (67.55 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/de/documents/other/questions-and-answers-generic-medicines_de.pdf)
 
 eesti keel (ET) (65.21 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/et/documents/other/questions-and-answers-generic-medicines_et.pdf)
 
 ελληνικά (EL) (91.29 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/el/documents/other/questions-and-answers-generic-medicines_el.pdf)
 
 français (FR) (68.35 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/fr/documents/other/questions-and-answers-generic-medicines_fr.pdf)
 
 hrvatski (HR) (87.8 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/hr/documents/other/questions-and-answers-generic-medicines_hr.pdf)
 
 italiano (IT) (67.62 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/it/documents/other/questions-and-answers-generic-medicines_it.pdf)
 
 latviešu valoda (LV) (111.81 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/lv/documents/other/questions-and-answers-generic-medicines_lv.pdf)
 
 lietuvių kalba (LT) (86.76 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/lt/documents/other/questions-and-answers-generic-medicines_lt.pdf)
 
 magyar (HU) (85.76 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/hu/documents/other/questions-and-answers-generic-medicines_hu.pdf)
 
 Malti (MT) (89.35 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/mt/documents/other/questions-and-answers-generic-medicines_mt.pdf)
 
 Nederlands (NL) (66.81 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/nl/documents/other/questions-and-answers-generic-medicines_nl.pdf)
 
 polski (PL) (88.51 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/pl/documents/other/questions-and-answers-generic-medicines_pl.pdf)
 
 português (PT) (68.32 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/pt/documents/other/questions-and-answers-generic-medicines_pt.pdf)
 
 română (RO) (86.9 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/ro/documents/other/questions-and-answers-generic-medicines_ro.pdf)
 
 slovenčina (SK) (87.73 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/sk/documents/other/questions-and-answers-generic-medicines_sk.pdf)
 
 slovenščina (SL) (84.8 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/sl/documents/other/questions-and-answers-generic-medicines_sl.pdf)
 
 Suomi (FI) (66.21 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/fi/documents/other/questions-and-answers-generic-medicines_fi.pdf)
 
 svenska (SV) (67.11 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/sv/documents/other/questions-and-answers-generic-medicines_sv.pdf)
 
-#### Topics
+## Topics
 
 - [Generic and hybrid medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A54)
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 16/01/2026
+**This page was last updated on**
+
+07/05/2026
 
 ## Share this page
-
-[Back to top](#main-content)

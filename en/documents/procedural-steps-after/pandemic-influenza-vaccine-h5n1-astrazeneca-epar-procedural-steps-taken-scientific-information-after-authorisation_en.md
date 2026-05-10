@@ -4,8 +4,8 @@ document_pages: 8
 document_pathfilename: www.ema.europa.eu/en/documents/procedural-steps-after/pandemic-influenza-vaccine-h5n1-astrazeneca-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
 document_name: pandemic-influenza-vaccine-h5n1-astrazeneca-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
 version: success
-processing_time: 4.7184493
-conversion_datetime: 2026-05-10 13:13:03.547174
+processing_time: 4.3723758
+conversion_datetime: 2026-05-10 13:25:47.416702
 docling_version:
   docling-serve: 1.17.0
   docling-jobkit: 1.18.0

@@ -1,22 +1,24 @@
 ---
-document_datetime: 2026-01-16 09:39:32
+document_datetime: 2026-05-07 16:44:22
 document_pages: 49
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/entecavir-viatris-epar-product-information_en.pdf
 document_name: entecavir-viatris-epar-product-information_en.pdf
 version: success
-processing_time: 13.7694667
-conversion_datetime: 2026-01-17 13:42:46.236203
+processing_time: 15.2813536
+conversion_datetime: 2026-05-10 12:54:13.969277
 docling_version:
-  docling-serve: 1.10.0
-  docling-jobkit: 1.8.1
-  docling: 2.68.0
-  docling-core: 2.59.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.3
+  docling-serve: 1.17.0
+  docling-jobkit: 1.18.0
+  docling: 2.92.0
+  docling-core: 2.74.1
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.10.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
-## ANNEX I SUMMARY OF PRODUCT CHARACTERISTICS
+## ANNEX I
+
+## SUMMARY OF PRODUCT CHARACTERISTICS
 
 <div style=\"page-break-after: always\"></div>
 
@@ -38,9 +40,7 @@ Each film-coated tablet contains entecavir monohydrate equivalent to 1 mg enteca
 
 Entecavir Viatris 0.5 mg film-coated tablets Each film-coated tablet contains 62.5 mg lactose monohydrate.
 
-Entecavir Viatris 1 mg film-coated tablets
-
-Each film-coated tablet contains 125 mg lactose monohydrate.
+Entecavir Viatris 1 mg film-coated tablets Each film-coated tablet contains 125 mg lactose monohydrate.
 
 For the full list of excipients, see section 6.1.
 
@@ -62,8 +62,8 @@ White, film-coated, round, biconvex, beveled edge tablet debossed with 'M' on on
 
 Entecavir Viatris is indicated for the treatment of chronic hepatitis B virus (HBV) infection (see section 5.1) in adults with:
 
--  compensated liver disease and evidence of active viral replication, persistently elevated serum alanine aminotransferase (ALT) levels and histological evidence of active inflammation and/or fibrosis.
--  decompensated liver disease (see section 4.4)
+- compensated liver disease and evidence of active viral replication, persistently elevated serum alanine aminotransferase (ALT) levels and histological evidence of active inflammation and/or fibrosis.
+- decompensated liver disease (see section 4.4)
 
 For both compensated and decompensated liver disease, this indication is based on clinical trial data in nucleoside naive patients with HBeAg positive and HBeAg negative HBV infection. With respect to patients with lamivudine-refractory hepatitis B, see sections 4.2, 4.4 and 5.1.
 
@@ -97,8 +97,8 @@ The recommended dose for adult patients with decompensated liver disease is 1 mg
 
 The optimal duration of treatment is unknown. Treatment discontinuation may be considered as follows:
 
--  In HBeAg positive adult patients, treatment should be administered at least until 12 months after achieving HBe seroconversion (HBeAg loss and HBV DNA loss with anti-HBe detection on two consecutive serum samples at least 3-6 months apart) or until HBs seroconversion or there is loss of efficacy (see section 4.4).
--  In HBeAg negative adult patients, treatment should be administered at least until HBs seroconversion or there is evidence of loss of efficacy. With prolonged treatment for more than 2 years, regular reassessment is recommended to confirm that continuing the selected therapy remains appropriate for the patient.
+- In HBeAg negative adult patients, treatment should be administered at least until HBs seroconversion or there is evidence of loss of efficacy. With prolonged treatment for more than 2 years, regular reassessment is recommended to confirm that continuing the selected therapy remains appropriate for the patient.
+- In HBeAg positive adult patients, treatment should be administered at least until 12 months after achieving HBe seroconversion (HBeAg loss and HBV DNA loss with anti-HBe detection on two consecutive serum samples at least 3-6 months apart) or until HBs seroconversion or there is loss of efficacy (see section 4.4).
 
 In patients with decompensated liver disease or cirrhosis, treatment cessation is not recommended.
 
@@ -106,11 +106,9 @@ In patients with decompensated liver disease or cirrhosis, treatment cessation i
 
 For appropriate dosing in the paediatric population Entecavir Viatris 0.5 mg film-coated tablets are available and for doses below 0.5 mg an oral solution may be available.
 
-The decision to treat paediatric patients should be based on careful consideration of individual patient needs and with reference to current paediatric treatment guidelines including the value of baseline histological information. The benefits of long-term virologic suppression with continued therapy must
+The decision to treat paediatric patients should be based on careful consideration of individual patient needs and with reference to current paediatric treatment guidelines including the value of baseline histological information. The benefits of long-term virologic suppression with continued therapy must be weighed against the risk of prolonged treatment, including the emergence of resistant hepatitis B virus.
 
 <div style=\"page-break-after: always\"></div>
-
-be weighed against the risk of prolonged treatment, including the emergence of resistant hepatitis B virus.
 
 Serum ALT should be persistently elevated for at least 6 months prior to treatment of paediatric patients with compensated liver disease due to HBeAg positive chronic hepatitis B; and for at least 12 months in patients with HBeAg negative disease.
 
@@ -120,8 +118,8 @@ Paediatric patients with body weight of at least 32.6 kg, should be administered
 
 The optimal duration of treatment is unknown. In accordance with current paediatric practice guidelines, treatment discontinuation may be considered as follows:
 
--  In HBeAg positive paediatric patients, treatment should be administered for at least 12 months after achieving undetectable HBV DNA and HBeAg seroconversion (HBeAg loss and anti-HBe detection on two consecutive serum samples at least 3-6 months apart) or until HBs seroconversion or there is loss of efficacy. Serum ALT and HBV DNA levels should be followed regularly after treatment discontinuation (see section 4.4).
--  In HBeAg negative paediatric patients, treatment should be administered until HBs seroconversion or there is evidence of loss of efficacy.
+- In HBeAg negative paediatric patients, treatment should be administered until HBs seroconversion or there is evidence of loss of efficacy.
+- In HBeAg positive paediatric patients, treatment should be administered for at least 12 months after achieving undetectable HBV DNA and HBeAg seroconversion (HBeAg loss and anti-HBe detection on two consecutive serum samples at least 3-6 months apart) or until HBs seroconversion or there is loss of efficacy. Serum ALT and HBV DNA levels should be followed regularly after treatment discontinuation (see section 4.4).
 
 Pharmacokinetics in paediatric patients with renal or hepatic impairment have not been studied.
 
@@ -140,7 +138,7 @@ The clearance of entecavir decreases with decreasing creatinine clearance (see s
 |                                | Entecavir dose*                              | Entecavir dose*                                      |
 |--------------------------------|----------------------------------------------|------------------------------------------------------|
 | Creatinine clearance (mL/min ) | Nucleoside naïve patients                    | Lamivudine-refractory or decompensated liver disease |
-| ≥50                            | 0.5 mg once daily                            | 1 mg once daily                                      |
+| ≥ 50                           | 0.5 mg once daily                            | 1 mg once daily                                      |
 | 30 - 49                        | 0.25 mg once daily* OR 0.5 mg every 48 hours | 0.5 mg once daily                                    |
 | 10 - 29                        | 0.15 mg once daily* OR 0.5 mg every 72 hours | 0.3 mg once daily* OR 0.5 mg every 48 hours          |
 
@@ -150,6 +148,10 @@ The clearance of entecavir decreases with decreasing creatinine clearance (see s
 |--------------------------------|----------------------------------------------|------------------------------------------------------|
 | Creatinine clearance (mL/min ) | Nucleoside naïve patients                    | Lamivudine-refractory or decompensated liver disease |
 | <10 Haemodialysis or CAPD**    | 0.05 mg once daily* OR 0.5 mg every 5-7 days | 0.1 mg once daily* OR 0.5 mg every 72 hours          |
+
+* for doses &lt;0.5 mg entecavir oral solution is recommended
+
+**  on haemodialysis days, administer entecavir after haemodialysis.
 
 ## Hepatic impairment
 
@@ -179,11 +181,9 @@ Among entecavir-treated nucleoside naive patients, post-treatment exacerbations 
 
 ## Patients with decompensated liver disease
 
-A higher rate of serious hepatic adverse events (regardless of causality) has been observed in patients with decompensated liver disease, in particular in those with Child-Turcotte-Pugh (CTP) class C disease, compared with rates in patients with compensated liver function. Also, patients with
+A higher rate of serious hepatic adverse events (regardless of causality) has been observed in patients with decompensated liver disease, in particular in those with Child-Turcotte-Pugh (CTP) class C disease, compared with rates in patients with compensated liver function. Also, patients with decompensated liver disease may be at higher risk for lactic acidosis and for specific renal adverse events such as hepatorenal syndrome. Therefore, clinical and laboratory parameters should be closely monitored in this patient population (see also sections 4.8 and 5.1).
 
 <div style=\"page-break-after: always\"></div>
-
-decompensated liver disease may be at higher risk for lactic acidosis and for specific renal adverse events such as hepatorenal syndrome. Therefore, clinical and laboratory parameters should be closely monitored in this patient population (see also sections 4.8 and 5.1).
 
 ## Lactic acidosis and severe hepatomegaly with steatosis
 
@@ -199,7 +199,7 @@ Pre-existing lamivudine-resistant HBV is associated with an increased risk for s
 
 ## Paediatric population
 
-A lower rate of virologic response (HBV DNA &lt;50 IU/mL) was observed in paediatric patients with baseline HBV DNA ≥8.0 log10 IU/mL (see section 5.1). Entecavir should be used in these patients only if the potential benefit justifies the potential risk to the child (e.g. resistance). Since some paediatric patients may require long-term or even lifetime management of chronic active hepatitis B, consideration should be given to the impact of entecavir on future treatment options.
+A lower rate of virologic response (HBV DNA &lt;50 IU/mL) was observed in paediatric patients with baseline HBV DNA ≥ 8.0 log 10 IU/mL (see section 5.1). Entecavir should be used in these patients only if the potential benefit justifies the potential risk to the child (e.g. resistance). Since some paediatric patients may require long-term or even lifetime management of chronic active hepatitis B, consideration should be given to the impact of entecavir on future treatment options.
 
 ## Liver transplant recipients
 
@@ -211,7 +211,7 @@ Renal function should be carefully evaluated before and during entecavir therapy
 
 There are no data on the efficacy of entecavir in patients co-infected with hepatitis C or D virus.
 
-## Human immunodeficiency virus (HIV)/HBV co-infected patients not receiving concomitant antiretroviral therapy
+Human immunodeficiency virus (HIV)/HBV co-infected patients not receiving concomitant antiretroviral therapy
 
 Entecavir has not been evaluated in HIV/HBV co-infected patients not concurrently receiving effective HIV treatment. Emergence of HIV resistance has been observed when entecavir was used to treat chronic hepatitis B infection in patients with HIV infection not receiving highly active antiretroviral therapy (HAART) (see section 5.1). Therefore, therapy with entecavir should not be used for HIV/HBV co-infected patients who are not receiving HAART. Entecavir has not been studied as a treatment for HIV infection and is not recommended for this use.
 
@@ -273,7 +273,7 @@ In clinical trials in patients with compensated liver disease, the most common a
 
 Assessment of adverse reactions is based on experience from postmarketing surveillance and four clinical trials in which 1,720 patients with chronic hepatitis B infection and compensated liver disease received double-blind treatment with entecavir (n = 862) or lamivudine (n = 858) for up to 107 weeks (see section 5.1). In these studies, the safety profiles, including laboratory abnormalities, were comparable for entecavir 0.5 mg daily (679 nucleoside-naive HBeAg positive or negative patients treated for a median of 53 weeks), entecavir 1 mg daily (183 lamivudine-refractory patients treated for a median of 69 weeks), and lamivudine.
 
-Adverse reactions considered at least possibly related to treatment with entecavir are listed by body system organ class. Frequency is defined as very common (≥1/10); common (≥1/100 to &lt;1/10); uncommon (≥1/1,000 to &lt;1/100); rare (≥1/10,000 to &lt;1/1,000). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
+Adverse reactions considered at least possibly related to treatment with entecavir are listed by body system organ class. Frequency is defined as very common ( ≥ 1/10); common ( ≥ 1/100 to &lt;1/10); uncommon ( ≥ 1/1,000 to &lt;1/100); rare ( ≥ 1/10,000 to &lt;1/1,000). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
 Immune system disorders:
 
@@ -321,7 +321,7 @@ In clinical trials with lamivudine-refractory patients, 4% had ALT elevations &g
 
 ## Exacerbations during treatment
 
-In studies with nucleoside naive patients, on treatment ALT elevations &gt;10 times ULN and &gt;2 times baseline occurred in 2% of entecavir treated patients vs 4% of lamivudine treated patients. In studies with lamivudine-refractory patients, on treatment ALT elevations &gt;10 times ULN and &gt;2 times baseline occurred in 2% of entecavir treated patients vs 11% of lamivudine treated patients. Among entecavir-treated patients, on-treatment ALT elevations had a median time to onset of 4-5 weeks, generally resolved with continued treatment, and, in a majority of cases, were associated with a ≥2 log10 /mL reduction in viral load that preceded or coincided with the ALT elevation. Periodic monitoring of hepatic function is recommended during treatment.
+In studies with nucleoside naive patients, on treatment ALT elevations &gt;10 times ULN and &gt;2 times baseline occurred in 2% of entecavir treated patients vs 4% of lamivudine treated patients. In studies with lamivudine-refractory patients, on treatment ALT elevations &gt;10 times ULN and &gt;2 times baseline occurred in 2% of entecavir treated patients vs 11% of lamivudine treated patients. Among entecavir-treated patients, on-treatment ALT elevations had a median time to onset of 4-5 weeks, generally resolved with continued treatment, and, in a majority of cases, were associated with a ≥ 2 log 10 /mL reduction in viral load that preceded or coincided with the ALT elevation. Periodic monitoring of hepatic function is recommended during treatment.
 
 ## Exacerbations after discontinuation of treatment
 
@@ -335,7 +335,7 @@ In the clinical trials entecavir treatment was discontinued if patients achieved
 
 The safety of entecavir in paediatric patients from 2 to &lt;18 years of age is based on two clinical trials in subjects with chronic HBV infection; one Phase 2 pharmacokinetic trial (study 028) and one Phase 3 trial (study 189). These trials provide experience in 195 HBeAg-positive nucleoside-treatment-naïve subjects treated with entecavir for a median duration of 99 weeks. The adverse reactions observed in paediatric subjects who received treatment with entecavir were consistent with those observed in clinical trials of entecavir in adults (see Summary of the safety profile and section 5.1) with the following exception in the paediatric population:
 
--  very common adverse reactions:  neutropenia.
+- very common adverse reactions:  neutropenia.
 
 ## Other special populations
 
@@ -349,7 +349,7 @@ The safety profile of entecavir in a limited number of HIV/HBV co-infected patie
 
 ## Gender/age
 
-There was no apparent difference in the safety profile of entecavir with respect to gender (≈ 25% women in the clinical trials) or age (≈ 5% of patients &gt;65 years of age).
+There was no apparent difference in the safety profile of entecavir with respect to gender ( ≈ 25% women in the clinical trials) or age ( ≈ 5% of patients &gt;65 years of age).
 
 ## Reporting of suspected adverse reactions
 
@@ -369,7 +369,7 @@ Pharmacotherapeutic group: antivirals for systemic use, nucleoside and nucleotid
 
 ## Mechanism of action
 
-Entecavir, a guanosine nucleoside analogue with activity against HBV polymerase, is efficiently phosphorylated to the active triphosphate (TP) form, which has an intracellular half-life of 15 hours. By competing with the natural substrate deoxyguanosine TP, entecavir-TP functionally inhibits the 3 activities of the viral polymerase: (1) priming of the HBV polymerase, (2) reverse transcription of the negative strand DNA from the pregenomic messenger RNA, and (3) synthesis of the positive strand HBV DNA. The entecavir-TP Ki for HBV DNA polymerase is 0.0012 μM. Entecavir-TP is a weak inhibitor of cellular DNA polymerases α, β, and δ with K i values of 18 to 40 µM. In addition, high exposures of entecavir had no relevant adverse reactions on γ polymerase or mitochondrial DNA synthesis in HepG2 cells (Ki &gt;160 µM).
+Entecavir, a guanosine nucleoside analogue with activity against HBV polymerase, is efficiently phosphorylated to the active triphosphate (TP) form, which has an intracellular half-life of 15 hours. By competing with the natural substrate deoxyguanosine TP, entecavir-TP functionally inhibits the 3 activities of the viral polymerase: (1) priming of the HBV polymerase, (2) reverse transcription of the negative strand DNA from the pregenomic messenger RNA, and (3) synthesis of the positive strand HBV DNA. The entecavir-TP Ki for HBV DNA polymerase is 0.0012 μ M. Entecavir-TP is a weak inhibitor of cellular DNA polymerases α , β , and δ with Ki values of 18 to 40 µM. In addition, high exposures of entecavir had no relevant adverse reactions on γ polymerase or mitochondrial DNA synthesis in HepG2 cells (Ki &gt;160 µM).
 
 ## Antiviral activity
 
@@ -389,7 +389,7 @@ Relative to wild-type HBV, LVDr viruses containing rtM204V and rtL180M substitut
 
 The demonstration of benefit is based on histological, virological, biochemical, and serological responses after 48 weeks of treatment in active-controlled clinical trials of 1,633 adults with chronic hepatitis B infection, evidence of viral replication and compensated liver disease. The safety and efficacy of entecavir were also evaluated in an active-controlled clinical trial of 191 HBV-infected patients with decompensated liver disease and in a clinical trial of 68 patients co-infected with HBV and HIV.
 
-In studies in patients with compensated liver disease, histological improvement was defined as a ≥2point decrease in Knodell necro-inflammatory score from baseline with no worsening of the Knodell fibrosis score. Responses for patients with baseline Knodell Fibrosis Scores of 4 (cirrhosis) were comparable to overall responses on all efficacy outcome measures (all patients had compensated liver disease). High baseline Knodell necroinflammatory scores (&gt;10) were associated with greater histological improvement in nucleoside-naive patients. Baseline ALT levels ≥2 times ULN and baseline HBV DNA ≤9.0 log10 copies/mL were both associated with higher rates of virologic response (Week 48 HBV DNA &lt;400 copies/mL) in nucleoside-naive HBeAg-positive patients. Regardless of baseline characteristics, the majority of patients showed histological and virological responses to treatment.
+In studies in patients with compensated liver disease, histological improvement was defined as a ≥ 2point decrease in Knodell necro-inflammatory score from baseline with no worsening of the Knodell fibrosis score. Responses for patients with baseline Knodell Fibrosis Scores of 4 (cirrhosis) were comparable to overall responses on all efficacy outcome measures (all patients had compensated liver disease). High baseline Knodell necroinflammatory scores (&gt;10) were associated with greater histological improvement in nucleoside-naive patients. Baseline ALT levels ≥ 2 times ULN and baseline HBV DNA ≤ 9.0 log 10 copies/mL were both associated with higher rates of virologic response (Week 48 HBV DNA &lt;400 copies/mL) in nucleoside-naive HBeAg-positive patients. Regardless of baseline characteristics, the majority of patients showed histological and virological responses to treatment.
 
 ## Experience in nucleoside-naive patients with compensated liver disease
 
@@ -406,14 +406,16 @@ Results at 48 weeks of randomised, double blind studies comparing entecavir (ETV
 | n                                              | 354                        | 355                        | 325                        | 313                        |
 | Viral load reduction (log 10 copies/mL) c      | -6.86*                     | -5.39                      | -5.04*                     | -4.53                      |
 | HBV DNA undetectable (<300 copies/mL by PCR) c | 67%*                       | 36%                        | 90%*                       | 72%                        |
-| ALT normalisation (≤1 times ULN)               | 68%*                       | 60%                        | 78%*                       | 71%                        |
+| ALT normalisation ( ≤ 1 times ULN)             | 68%*                       | 60%                        | 78%*                       | 71%                        |
 | HBeAg Seroconversion                           | 21%                        | 18%                        |                            |                            |
 
 *p value vs lamivudine &lt;0.05
 
-a  patients with evaluable baseline histology (baseline Knodell Necroinflammatory Score ≥2)
+a  patients with evaluable baseline histology (baseline Knodell Necroinflammatory Score ≥ 2)
 
-b a primary endpoint c  Roche Cobas Amplicor PCR assay (LLOQ = 300 copies/mL)
+b a primary endpoint
+
+c  Roche Cobas Amplicor PCR assay (LLOQ = 300 copies/mL)
 
 ## Experience in lamivudine-refractory patients with compensated liver disease
 
@@ -431,7 +433,7 @@ In a randomised, double-blind study in HBeAg positive lamivudine-refractory pati
 | n                                              | 141                                                | 145                                                |
 | Viral load reduction (log 10 copies/mL) c      | -5.11*                                             | -0.48                                              |
 | HBV DNA undetectable (<300 copies/mL by PCR) c | 19%*                                               | 1%                                                 |
-| ALT normalisation (≤1 times ULN)               | 61%*                                               | 15%                                                |
+| ALT normalisation ( ≤ 1 times ULN)             | 61%*                                               | 15%                                                |
 | HBeAg Seroconversion                           | 8%                                                 | 3%                                                 |
 
 * p value vs lamivudine &lt;0.05
@@ -450,29 +452,27 @@ Treatment was discontinued when prespecified response criteria were met either a
 
 HBeAg positive (study 022): treatment with entecavir for up to 96 weeks (n = 354) resulted in cumulative response rates of 80% for HBV DNA &lt;300 copies/mL by PCR, 87% for ALT normalisation, 31% for HBeAg seroconversion and 2% for HBsAg seroconversion (5% for HBsAg loss). For lamivudine (n = 355), cumulative response rates were 39% for HBV DNA &lt;300 copies/mL by PCR, 79% for ALT normalisation, 26% for HBeAg seroconversion, and 2% for HBsAg seroconversion (3% for HBsAg loss).
 
-At end of dosing, among patients who continued treatment beyond 52 weeks (median of 96 weeks), 81% of 243 entecavir-treated and 39% of 164 lamivudine-treated patients had HBV DNA &lt;300 copies/mL by PCR while ALT normalisation (≤1 times ULN) occurred in 79% of entecavirtreated and 68% of lamivudine-treated patients.
+At end of dosing, among patients who continued treatment beyond 52 weeks (median of 96 weeks), 81% of 243 entecavir-treated and 39% of 164 lamivudine-treated patients had HBV DNA &lt;300 copies/mL by PCR while ALT normalisation ( ≤ 1 times ULN) occurred in 79% of entecavirtreated and 68% of lamivudine-treated patients.
 
 HBeAg negative (study 027): treatment with entecavir up to 96 weeks (n = 325) resulted in cumulative response rates of 94% for HBV DNA &lt;300 copies/mL by PCR and 89% for ALT normalisation versus 77% for HBV DNA &lt;300 copies/mL by PCR and 84% for ALT normalisation for lamivudine-treated patients (n = 313).
 
-For 26 entecavir-treated and 28 lamivudine-treated patients who continued treatment beyond 52 weeks (median 96 weeks), 96% of entecavir-treated and 64% of lamivudine-treated patients had HBV DNA &lt;300 copies/mL by PCR at end of dosing. ALT normalisation (≤1 times ULN) occurred in 27% of entecavir-treated and 21% of lamivudine-treated patients at end of dosing.
+For 26 entecavir-treated and 28 lamivudine-treated patients who continued treatment beyond 52 weeks (median 96 weeks), 96% of entecavir-treated and 64% of lamivudine-treated patients had HBV DNA &lt;300 copies/mL by PCR at end of dosing. ALT normalisation ( ≤ 1 times ULN) occurred in 27% of entecavir-treated and 21% of lamivudine-treated patients at end of dosing.
 
-For patients who met protocol-defined response criteria, response was sustained throughout the 24-week post-treatment follow-up in 75% (83/111) of entecavir responders vs 73% (68/93) for lamivudine responders in study 022 and 46% (131/286) of entecavir responders vs 31% (79/253) for
+For patients who met protocol-defined response criteria, response was sustained throughout the 24-week post-treatment follow-up in 75% (83/111) of entecavir responders vs 73% (68/93) for lamivudine responders in study 022 and 46% (131/286) of entecavir responders vs 31% (79/253) for lamivudine responders in study 027. By 48 weeks of post-treatment follow-up, a substantial number of HBeAg negative patients lost response.
 
 <div style=\"page-break-after: always\"></div>
 
-lamivudine responders in study 027. By 48 weeks of post-treatment follow-up, a substantial number of HBeAg negative patients lost response.
-
-Liver biopsy results: 57 patients from the pivotal nucleoside-naive studies 022 (HBeAg positive) and 027 (HBeAg negative) who enrolled in a long-term rollover study were evaluated for long-term liver histology outcomes. The entecavir dose was 0.5 mg daily in the pivotal studies (mean exposure 85 weeks) and 1 mg daily in the rollover study (mean exposure 177 weeks), and 51 patients in the rollover study initially also received lamivudine (median duration 29 weeks). Of these patients, 55/57 (96%) had histological improvement as previously defined (see above), and 50/57 (88%) had a ≥1-point decrease in Ishak fibrosis score. For patients with baseline Ishak fibrosis score ≥2, 25/43 (58%) had a ≥2-point decrease. All (10/10) patients with advanced fibrosis or cirrhosis at baseline (Ishak fibrosis score of 4, 5 or 6) had a ≥1 point decrease (median decrease from baseline was 1.5 points). At the time of the long-term biopsy, all patients had HBV DNA &lt;300 copies/mL and 49/57 (86%) had serum ALT ≤1 times ULN. All 57 patients remained positive for HBsAg.
+Liver biopsy results: 57 patients from the pivotal nucleoside-naive studies 022 (HBeAg positive) and 027 (HBeAg negative) who enrolled in a long-term rollover study were evaluated for long-term liver histology outcomes. The entecavir dose was 0.5 mg daily in the pivotal studies (mean exposure 85 weeks) and 1 mg daily in the rollover study (mean exposure 177 weeks), and 51 patients in the rollover study initially also received lamivudine (median duration 29 weeks). Of these patients, 55/57 (96%) had histological improvement as previously defined (see above), and 50/57 (88%) had a ≥ 1-point decrease in Ishak fibrosis score. For patients with baseline Ishak fibrosis score ≥ 2, 25/43 (58%) had a ≥ 2-point decrease. All (10/10) patients with advanced fibrosis or cirrhosis at baseline (Ishak fibrosis score of 4, 5 or 6) had a ≥ 1 point decrease (median decrease from baseline was 1.5 points). At the time of the long-term biopsy, all patients had HBV DNA &lt;300 copies/mL and 49/57 (86%) had serum ALT ≤ 1 times ULN. All 57 patients remained positive for HBsAg.
 
 ## Lamivudine-refractory
 
 HBeAg positive (study 026): treatment with entecavir for up to 96 weeks (n = 141) resulted in cumulative response rates of 30% for HBV DNA &lt; 300 copies/mL by PCR, 85% for ALT normalisation and 17% for HBeAg seroconversion.
 
-For the 77 patients who continued entecavir treatment beyond 52 weeks (median 96 weeks), 40% of patients had HBV DNA &lt;300 copies/mL by PCR and 81% had ALT normalisation (≤1 times ULN) at end of dosing.
+For the 77 patients who continued entecavir treatment beyond 52 weeks (median 96 weeks), 40% of patients had HBV DNA &lt;300 copies/mL by PCR and 81% had ALT normalisation ( ≤ 1 times ULN) at end of dosing.
 
 ## Age/gender
 
-There was no apparent difference in efficacy for entecavir based on gender (≈ 25% women in the clinical trials) or age (≈ 5% of patients &gt;65 years of age).
+There was no apparent difference in efficacy for entecavir based on gender ( ≈ 25% women in the clinical trials) or age ( ≈ 5% of patients &gt;65 years of age).
 
 ## Long-Term Follow-Up Study
 
@@ -497,28 +497,10 @@ In study 048, 191 patients with HBeAg positive or negative chronic HBV infection
 | MELD score Mean change from baseline c,e       | -2.0                | -0.9                                | -2.6                | -1.7                                |
 | HBsAg loss b                                   | 1%                  | 0                                   | 5%                  | 0                                   |
 | Normalization of: f                            |                     |                                     |                     |                                     |
-| ALT (≤1 X ULN) b                               | 46/78 (59%)*        | 28/71 (39%)                         | 49/78 (63%)*        | 33/71 (46%)                         |
-| Albumin (≥1 X LLN) b                           | 20/82 (24%)         | 14/69 (20%)                         | 32/82 (39%)         | 20/69 (29%)                         |
-| Bilirubin (≤1 X ULN) b                         | 12/75 (16%)         | 10/65 (15%)                         | 15/75 (20%)         | 18/65 (28%)                         |
-| Prothrombin time (≤1 X ULN) b                  | 9/95 (9%)           | 6/82 (7%)                           | 8/95 (8%)           | 7/82 (9%)                           |
-
-a  Roche COBAS Amplicor PCR assay (LLOQ = 300 copies/mL).
-
-b  NC=F (noncompleter=failure), meaning treatment discontinuations before the analysis week, including reasons such as death, lack of efficacy, adverse event, noncompliance/loss-to-follow-up, are counted as failures (e.g., HBV DNA
-
-≥300 copies/mL)
-
-c  NC=M (noncompleters=missing)
-
-d  Defined as decrease or no change from baseline in CTP score.
-
-e  Baseline mean MELD score was 17.1 for ETV and 15.3 for adefovir dipivoxil.
-
-f Denominator is patients with abnormal values at baseline.
-
-*p&lt;0.05
-
-ULN=upper limit of normal, LLN=lower limit of normal.
+| ALT ( ≤ 1 X ULN) b                             | 46/78 (59%)*        | 28/71 (39%)                         | 49/78 (63%)*        | 33/71 (46%)                         |
+| Albumin ( ≥ 1 X LLN) b                         | 20/82 (24%)         | 14/69 (20%)                         | 32/82 (39%)         | 20/69 (29%)                         |
+| Bilirubin ( ≤ 1 X ULN) b                       | 12/75 (16%)         | 10/65 (15%)                         | 15/75 (20%)         | 18/65 (28%)                         |
+| Prothrombin time ( ≤ 1 X ULN) b                | 9/95 (9%)           | 6/82 (7%)                           | 8/95 (8%)           | 7/82 (9%)                           |
 
 The time to onset of HCC or death (whichever occurred first) was comparable in the two treatment groups; on-study cumulative death rates were 23% (23/102) and 33% (29/89) for patients treated with entecavir and adefovir dipivoxil, respectively, and on-study cumulative rates of HCC were 12% (12/102) and 20% (18/89) for entecavir and adefovir dipivoxil, respectively.
 
@@ -526,11 +508,9 @@ For patients with LVDr substitutions at baseline, the percentage of patients wit
 
 ## HIV/HBV co-infected patients receiving concomitant HAART
 
-Study 038 included 67 HBeAg positive and 1 HBeAg negative patients co-infected with HIV. Patients had stable controlled HIV (HIV RNA &lt;400 copies/mL) with recurrence of HBV viraemia on a lamivudine-containing HAART regimen. HAART regimens did not include emtricitabine or tenofovir disoproxil fumarate. At baseline entecavir-treated patients had a median duration of prior lamivudine therapy of 4.8 years and median CD4 count of 494 cells/mm 3 (with only 5 subjects having CD4 count &lt;200 cells/mm 3 ). Patients continued their lamivudine-regimen and were assigned to add either entecavir 1 mg once daily (n = 51) or placebo (n = 17) for 24 weeks followed by an additional 24 weeks where all received entecavir. At 24 weeks the reduction in HBV viral load was significantly greater with entecavir (-3.65 vs an increase of 0.11 log 10 copies/mL). For patients originally assigned
+Study 038 included 67 HBeAg positive and 1 HBeAg negative patients co-infected with HIV. Patients had stable controlled HIV (HIV RNA &lt;400 copies/mL) with recurrence of HBV viraemia on a lamivudine-containing HAART regimen. HAART regimens did not include emtricitabine or tenofovir disoproxil fumarate. At baseline entecavir-treated patients had a median duration of prior lamivudine therapy of 4.8 years and median CD4 count of 494 cells/mm 3 (with only 5 subjects having CD4 count &lt;200 cells/mm 3 ). Patients continued their lamivudine-regimen and were assigned to add either entecavir 1 mg once daily (n = 51) or placebo (n = 17) for 24 weeks followed by an additional 24 weeks where all received entecavir. At 24 weeks the reduction in HBV viral load was significantly greater with entecavir (-3.65 vs an increase of 0.11 log 10 copies/mL). For patients originally assigned to entecavir treatment, the reduction in HBV DNA at 48 weeks was -4.20 log10 copies/mL, ALT normalisation had occurred in 37% of patients with abnormal baseline ALT and none achieved HBeAg seroconversion.
 
 <div style=\"page-break-after: always\"></div>
-
-to entecavir treatment, the reduction in HBV DNA at 48 weeks was -4.20 log10 copies/mL, ALT normalisation had occurred in 37% of patients with abnormal baseline ALT and none achieved HBeAg seroconversion.
 
 ## HIV/HBV co-infected patients not receiving concomitant HAART
 
@@ -538,7 +518,7 @@ Entecavir has not been evaluated in HIV/HBV co-infected patients not concurrentl
 
 ## Liver transplant recipients
 
-The safety and efficacy of entecavir 1 mg once daily were assessed in a single-arm study in 65 patients who received a liver transplant for complications of chronic HBV infection and had HBV DNA &lt;172 IU/mL (approximately 1000 copies/mL) at the time of transplant. The study population was 82% male, 39% Caucasian, and 37% Asian, with a mean age of 49 years; 89% of patients had HBeAgnegative disease at the time of transplant. Of the 61 patients who were evaluable for efficacy (received entecavir for at least 1 month), 60 also received hepatitis B immune globulin (HBIg) as part of the post-transplant prophylaxis regimen. Of these 60 patients, 49 received more than 6 months of HBIg therapy. At Week 72 post-transplant, none of 55 observed cases had virologic recurrence of HBV [defined as HBV DNA ≥50 IU/mL (approximately 300 copies/mL)], and there was no reported virologic recurrence at time of censoring for the remaining 6 patients. All 61 patients had HBsAg loss post-transplantation, and 2 of these later became HBsAg positive despite maintaining undetectable HBV DNA (&lt;6 IU/mL). The frequency and nature of adverse events in this study were consistent with those expected in patients who have received a liver transplant and the known safety profile of entecavir.
+The safety and efficacy of entecavir 1 mg once daily were assessed in a single-arm study in 65 patients who received a liver transplant for complications of chronic HBV infection and had HBV DNA &lt;172 IU/mL (approximately 1000 copies/mL) at the time of transplant. The study population was 82% male, 39% Caucasian, and 37% Asian, with a mean age of 49 years; 89% of patients had HBeAgnegative disease at the time of transplant. Of the 61 patients who were evaluable for efficacy (received entecavir for at least 1 month), 60 also received hepatitis B immune globulin (HBIg) as part of the post-transplant prophylaxis regimen. Of these 60 patients, 49 received more than 6 months of HBIg therapy. At Week 72 post-transplant, none of 55 observed cases had virologic recurrence of HBV [defined as HBV DNA ≥ 50 IU/mL (approximately 300 copies/mL)], and there was no reported virologic recurrence at time of censoring for the remaining 6 patients. All 61 patients had HBsAg loss post-transplantation, and 2 of these later became HBsAg positive despite maintaining undetectable HBV DNA (&lt;6 IU/mL). The frequency and nature of adverse events in this study were consistent with those expected in patients who have received a liver transplant and the known safety profile of entecavir.
 
 ## Paediatric population
 
@@ -553,7 +533,7 @@ Study 189 is a study of the efficacy and safety of entecavir among 180 nucleosid
 | HBeAg seroconversion a                                                | 24.2%         | 36.7%         | 10.0%       |
 | ALT normalisation a                                                   | 67.5%         | 81.7%         | 23.3%       |
 | HBV DNA <50 IU/mL a Baseline HBV DNA <8 log 10 IU/mL Baseline HBV DNA | 82.6% (38/46) | 82.6% (38/46) | 6.5% (2/31) |
-| ≥8 log 10 IU/mL                                                       | 28.4% (21/74) | 52.7% (39/74) | 0% (0/29)   |
+| ≥ 8 log 10 IU/mL                                                      | 28.4% (21/74) | 52.7% (39/74) | 0% (0/29)   |
 
 a NC=F (noncompleter = failure)
 
@@ -561,7 +541,7 @@ a NC=F (noncompleter = failure)
 
 <div style=\"page-break-after: always\"></div>
 
-The paediatric resistance assessment is based on data from nucleoside-treatment-naive paediatric patients with HBeAg-positive chronic HBV infection in two clinical trials (028 and 189). The two trials provide resistance data in 183 patients treated and monitored in Year 1 and 180 patients treated and monitored in Year 2. Genotypic evaluations were performed for all patients with available samples who had virologic breakthrough through Week 96 or HBV DNA ≥50 IU/mL at Week 48 or Week 96. During Year 2, genotypic resistance to ETV was detected in 2 patients (1.1% cumulative probability of resistance through Year 2).
+The paediatric resistance assessment is based on data from nucleoside-treatment-naive paediatric patients with HBeAg-positive chronic HBV infection in two clinical trials (028 and 189). The two trials provide resistance data in 183 patients treated and monitored in Year 1 and 180 patients treated and monitored in Year 2. Genotypic evaluations were performed for all patients with available samples who had virologic breakthrough through Week 96 or HBV DNA ≥ 50 IU/mL at Week 48 or Week 96. During Year 2, genotypic resistance to ETV was detected in 2 patients (1.1% cumulative probability of resistance through Year 2).
 
 ## Clinical resistance in adults
 
@@ -586,9 +566,9 @@ b Includes patients with at least one on-therapy HBV DNA measurement by PCR at o
 
 c Patients also have LVDr substitutions.
 
-d ≥1 log10 increase above nadir in HBV DNA by PCR, confirmed with successive measurements or at the end of the windowed time point.
+d ≥ 1 log10 increase above nadir in HBV DNA by PCR, confirmed with successive measurements or at the end of the windowed time point.
 
-ETVr substitutions (in addition to LVDr substitutions rtM204V/I ± rtL180M) were observed at baseline in isolates from 10/187 (5%) lamivudine-refractory patients treated with entecavir and monitored for resistance, indicating that prior lamivudine treatment can select these resistance substitutions and that they can exist at a low frequency before entecavir treatment. Through Week 240, 3 of the 10 patients experienced virologic breakthrough (≥1 log 10 increase above nadir). Emerging entecavir resistance in lamivudine-refractory studies through Week 240 is summarized in the table.
+ETVr substitutions (in addition to LVDr substitutions rtM204V/I ± rtL180M) were observed at baseline in isolates from 10/187 (5%) lamivudine-refractory patients treated with entecavir and monitored for resistance, indicating that prior lamivudine treatment can select these resistance substitutions and that they can exist at a low frequency before entecavir treatment. Through Week 240, 3 of the 10 patients experienced virologic breakthrough ( ≥ 1 log 10 increase above nadir). Emerging entecavir resistance in lamivudine-refractory studies through Week 240 is summarized in the table.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -609,7 +589,7 @@ b  Includes patients with at least one on-therapy HBV DNA measurement by PCR at 
 
 c Patients also have LVDr substitutions.
 
-d  ≥1 log10 increase above nadir in HBV DNA by PCR, confirmed with successive measurements or at the end of the windowed time point.
+d ≥ 1 log10 increase above nadir in HBV DNA by PCR, confirmed with successive measurements or at the end of the windowed time point.
 
 e ETVr occurring in any year; virologic breakthrough in specified year.
 
@@ -621,7 +601,7 @@ Integrated Analysis of Phase 2 and 3 Clinical Trials: In a post-approval integra
 
 ## Absorption
 
-Entecavir is rapidly absorbed with peak plasma concentrations occurring between 0.5-1.5 hours. The absolute bioavailability has not been determined. Based on urinary excretion of unchanged medicinal product, the bioavailability has been estimated to be at least 70%. There is a dose-proportionate increase in C max and AUC values following multiple doses ranging from 0.1-1 mg. Steady-state is achieved between 6-10 days after once daily dosing with ≈ 2 times accumulation. C max and Cmin at steady-state are 4.2 and 0.3 ng/mL, respectively, for a dose of 0.5 mg, and 8.2 and 0.5 ng/mL, respectively, for 1 mg. The tablet and oral solution were bioequivalent in healthy subjects; therefore, both forms may be used interchangeably.
+Entecavir is rapidly absorbed with peak plasma concentrations occurring between 0.5-1.5 hours. The absolute bioavailability has not been determined. Based on urinary excretion of unchanged medicinal product, the bioavailability has been estimated to be at least 70%. There is a dose-proportionate increase in C max and AUC values following multiple doses ranging from 0.1-1 mg. Steady-state is achieved between 6-10 days after once daily dosing with ≈ 2 times accumulation. Cmax and Cmin at steady-state are 4.2 and 0.3 ng/mL, respectively, for a dose of 0.5 mg, and 8.2 and 0.5 ng/mL, respectively, for 1 mg. The tablet and oral solution were bioequivalent in healthy subjects; therefore, both forms may be used interchangeably.
 
 Administration of 0.5 mg entecavir with a standard high-fat meal (945 kcal, 54.6 g fat) or a light meal (379 kcal, 8.2 g fat) resulted in a minimal delay in absorption (1-1.5 hour fed vs. 0.75 hour fasted), a decrease in Cmax of 44-46%, and a decrease in AUC of 18-20%. The lower Cmax and AUC when taken with food is not considered to be of clinical relevance in nucleoside-naive patients but could affect efficacy in lamivudine-refractory patients (see section 4.2).
 
@@ -649,10 +629,10 @@ Entecavir clearance decreases with decreasing creatinine clearance. A 4-hour per
 
 |                          | Baseline Creatinine Clearance (mL/min)   | Baseline Creatinine Clearance (mL/min)   | Baseline Creatinine Clearance (mL/min)   | Baseline Creatinine Clearance (mL/min)   | Baseline Creatinine Clearance (mL/min)    |                                  |
 |--------------------------|------------------------------------------|------------------------------------------|------------------------------------------|------------------------------------------|-------------------------------------------|----------------------------------|
-|                          | Unimpaired >80 (n = 6)                   | Mild >50; ≤80 (n = 6)                    | Moderate 30-50 (n = 6)                   | Severe 20- <30 (n = 6)                   | Severe Managed with Haemodialysis (n = 6) | Severe Managed with CAPD (n = 4) |
+|                          | Unimpaired >80 (n = 6)                   | Mild >50; ≤ 80 (n = 6)                   | Moderate 30-50 (n = 6)                   | Severe 20- <30 (n = 6)                   | Severe Managed with Haemodialysis (n = 6) | Severe Managed with CAPD (n = 4) |
 | C max (ng/mL) (CV%)      | 8.1 (30.7)                               | 10.4 (37.2)                              | 10.5 (22.7)                              | 15.3 (33.8)                              | 15.4 (56.4)                               | 16.6 (29.7)                      |
 |                          | 27.9                                     | 51.5                                     | 69.5                                     | 145.7                                    | 233.9                                     | 221.8                            |
-| AUC(0-T) (ngꞏh /mL) (CV) | (25.6)                                   | (22.8)                                   | (22.7)                                   | (31.5)                                   | (28.4)                                    | (11.6)                           |
+| AUC(0-T) (ng·h /mL) (CV) | (25.6)                                   | (22.8)                                   | (22.7)                                   | (31.5)                                   | (28.4)                                    | (11.6)                           |
 | CLR (mL/min) (SD)        | 383.2 (101.8)                            | 197.9 (78.1)                             | 135.6 (31.6)                             | 40.3 (10.1)                              | NA                                        | NA                               |
 | CLT/F (mL/min)           | 588.1                                    | 309.2                                    | 226.3                                    | 100.6                                    | 50.6                                      | 35.7                             |
 | (SD)                     | (153.7)                                  | (62.6)                                   | (60.1)                                   | (29.1)                                   | (16.5)                                    | (19.6)                           |
@@ -681,19 +661,17 @@ The steady-state pharmacokinetics of entecavir were evaluated (study 028) in 24 
 
 ## 5.3 Preclinical safety data
 
-In repeat-dose toxicology studies in dogs, reversible perivascular inflammation was observed in the central nervous system, for which no-effect doses corresponded to exposures 19 and 10 times those in humans (at 0.5 and 1 mg respectively). This finding was not observed in repeat-dose studies in other species, including monkeys administered entecavir daily for 1 year at exposures ≥100 times those in humans.
+In repeat-dose toxicology studies in dogs, reversible perivascular inflammation was observed in the central nervous system, for which no-effect doses corresponded to exposures 19 and 10 times those in humans (at 0.5 and 1 mg respectively). This finding was not observed in repeat-dose studies in other species, including monkeys administered entecavir daily for 1 year at exposures ≥ 100 times those in humans.
 
-In reproductive toxicology studies in which animals were administered entecavir for up to 4 weeks, no evidence of impaired fertility was seen in male or female rats at high exposures. Testicular changes (seminiferous tubular degeneration) were evident in repeat-dose toxicology studies in rodents and dogs at exposures ≥26 times those in humans. No testicular changes were evident in a 1-year study in monkeys.
+In reproductive toxicology studies in which animals were administered entecavir for up to 4 weeks, no evidence of impaired fertility was seen in male or female rats at high exposures. Testicular changes (seminiferous tubular degeneration) were evident in repeat-dose toxicology studies in rodents and dogs at exposures ≥ 26 times those in humans. No testicular changes were evident in a 1-year study in monkeys.
 
-In pregnant rats and rabbits administered entecavir, no effect levels for embryotoxicity and maternal toxicity corresponded to exposures ≥21 times those in humans. In rats, maternal toxicity, embryo-foetal toxicity (resorptions), lower foetal body weights, tail and vertebral malformations, reduced ossification (vertebrae, sternebrae, and phalanges), and extra lumbar vertebrae and ribs were observed at high exposures. In rabbits, embryo-foetal toxicity (resorptions), reduced ossification (hyoid), and an increased incidence of 13 th rib were observed at high exposures. In a peri-postnatal
+In pregnant rats and rabbits administered entecavir, no effect levels for embryotoxicity and maternal toxicity corresponded to exposures ≥ 21 times those in humans. In rats, maternal toxicity, embryo-foetal toxicity (resorptions), lower foetal body weights, tail and vertebral malformations, reduced ossification (vertebrae, sternebrae, and phalanges), and extra lumbar vertebrae and ribs were observed at high exposures. In rabbits, embryo-foetal toxicity (resorptions), reduced ossification (hyoid), and an increased incidence of 13 th rib were observed at high exposures. In a peri-postnatal study in rats, no adverse effects on offspring were observed. In a separate study wherein entecavir was administered to pregnant lactating rats at 10 mg/kg, both foetal exposure to entecavir and secretion of entecavir into milk were demonstrated. In juvenile rats administered entecavir from postnatal days 4 to 80, a moderately reduced acoustic startle response was noted during the recovery period (postnatal days 110 to 114) but not during the dosing period at AUC values ≥ 92 times those in humans at the 0.5 mg dose or paediatric equivalent dose. Given the exposure margin, this finding is considered of unlikely clinical significance.
 
 <div style=\"page-break-after: always\"></div>
 
-study in rats, no adverse effects on offspring were observed. In a separate study wherein entecavir was administered to pregnant lactating rats at 10 mg/kg, both foetal exposure to entecavir and secretion of entecavir into milk were demonstrated. In juvenile rats administered entecavir from postnatal days 4 to 80, a moderately reduced acoustic startle response was noted during the recovery period (postnatal days 110 to 114) but not during the dosing period at AUC values ≥92 times those in humans at the 0.5 mg dose or paediatric equivalent dose. Given the exposure margin, this finding is considered of unlikely clinical significance.
-
 No evidence of genotoxicity was observed in an Ames microbial mutagenicity assay, a mammalian cell gene mutation assay, and a transformation assay with Syrian hamster embryo cells. A micronucleus study and a DNA repair study in rats were also negative. Entecavir was clastogenic to human lymphocyte cultures at concentrations substantially higher than those achieved clinically.
 
-Two-year carcinogenicity studies: in male mice, increases in the incidences of lung tumours were observed at exposures ≥4 and ≥2 times that in humans at 0.5 mg and 1 mg respectively. Tumour development was preceded by pneumocyte proliferation in the lung which was not observed in rats, dogs, or monkeys, indicating that a key event in lung tumour development observed in mice likely was species-specific. Increased incidences of other tumours including brain gliomas in male and female rats, liver carcinomas in male mice, benign vascular tumours in female mice, and liver adenomas and carcinomas in female rats were seen only at high lifetime exposures. However, the no effect levels could not be precisely established. The predictivity of the findings for humans is not known. For clinical data. See section 5.1.
+Two-year carcinogenicity studies: in male mice, increases in the incidences of lung tumours were observed at exposures ≥ 4 and ≥ 2 times that in humans at 0.5 mg and 1 mg respectively. Tumour development was preceded by pneumocyte proliferation in the lung which was not observed in rats, dogs, or monkeys, indicating that a key event in lung tumour development observed in mice likely was species-specific. Increased incidences of other tumours including brain gliomas in male and female rats, liver carcinomas in male mice, benign vascular tumours in female mice, and liver adenomas and carcinomas in female rats were seen only at high lifetime exposures. However, the no effect levels could not be precisely established. The predictivity of the findings for humans is not known. For clinical data. See section 5.1.
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
@@ -737,7 +715,9 @@ Viatris Limited Damastown Industrial Park, Mulhuddart, Dublin 15, DUBLIN Ireland
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
+```
 EU/1/17/1227/001 EU/1/17/1227/002 EU/1/17/1227/003 EU/1/17/1227/004 EU/1/17/1227/005 EU/1/17/1227/006 EU/1/17/1227/007 EU/1/17/1227/008 EU/1/17/1227/009 EU/1/17/1227/010
+```
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -766,7 +746,7 @@ Name and address of the manufacturers responsible for batch release
 
 Mylan Hungary Kft. Mylan utca 1, Komárom - 2900 Hungary
 
-Mylan Germany GmbH Zweigniederlassung Bad Homburg v. d. Hoehe, Benzstrasse 1 Bad Homburg v. d. Hoehe Hessen, 61352, Germany
+Viatris Germany GmbH Zweigniederlassung Bad Homburg v. d. Hoehe, Benzstrasse 1 Bad Homburg v. d. Hoehe Hessen, 61352, Germany
 
 The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.
 
@@ -776,20 +756,20 @@ Medicinal product subject to restricted medical prescription (see Annex I: Summa
 
 ## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
-##  Periodic safety update reports (PSURs)
+## · Periodic safety update reports (PSURs)
 
 The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
-##  Risk management plan (RMP)
+## · Risk management plan (RMP)
 
 The marketing autorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP.
 
 An updated RMP should be submitted:
 
--  At the request of the European Medicines Agency;
--  Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
+- Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
+- At the request of the European Medicines Agency;
 
 If the dates for submission of a PSUR and the update of a RMP coincide, they can be submitted at the same time.
 
@@ -825,9 +805,11 @@ Also contains lactose. See leaflet for further information
 
 ## Film-coated tablet
 
-- 30 film-coated tablets
-- 30 x 1 film-coated tablets
-- 90 x 1 film-coated tablets
+30 film-coated tablets
+
+30 x 1 film-coated tablets
+
+90 x 1 film-coated tablets
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -849,7 +831,7 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -875,7 +857,8 @@ EU/1/17/1227/005
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
+
 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
@@ -903,6 +886,35 @@ NN
 | 1.   | NAME OF THE MEDICINAL PRODUCT   |
 |------|---------------------------------|
 
+Entecavir Viatris 0.5 mg film-coated tablets entecavir
+
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
+
+Viatris Limited
+
+| 3.   | EXPIRY DATE   |
+|------|---------------|
+
+EXP
+
+| 4.   | BATCH NUMBER   |
+|------|----------------|
+
+Lot Entecavir Viatris 0.5 mg film-coated tablets entecavir Viatris Limited EXP
+
+| 5.   | OTHER   |
+|------|---------|
+
+<div style=\"page-break-after: always\"></div>
+
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| UNIT DOSE BLISTER                                     |
+
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
+
 | 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
 |------|----------------------------------------------|
 
@@ -912,58 +924,10 @@ NN
 | 4.   | BATCH NUMBER   |
 |------|----------------|
 
-| 5.   | OTHER   |
-|------|---------|
-
-## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS BLISTER
-
-## 1. NAME OF THE MEDICINAL PRODUCT
-
-Entecavir Viatris 0.5 mg film-coated tablets entecavir
-
-## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
-
-Viatris Limited
-
-## 3. EXPIRY DATE
-
-EXP
-
-## 4. BATCH NUMBER
-
 Lot
-
-## 5. OTHER
-
-<div style=\"page-break-after: always\"></div>
-
-| 4.   | BATCH NUMBER   |
-|------|----------------|
 
 | 5.   | OTHER   |
 |------|---------|
-
-## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
-
-## UNIT DOSE BLISTER
-
-## 1. NAME OF THE MEDICINAL PRODUCT
-
-Entecavir Viatris 0.5 mg film-coated tablets entecavir
-
-## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
-
-Viatris Limited
-
-## 3. EXPIRY DATE
-
-EXP
-
-## 4. BATCH NUMBER
-
-Lot
-
-## 5. OTHER
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1015,17 +979,28 @@ EXP
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Viatris Limited Damastown Industrial Park, Mulhuddart, Dublin 15, DUBLIN Ireland
+Viatris Limited
+
+Damastown Industrial Park,
+
+Mulhuddart, Dublin 15,
+
+DUBLIN
+
+Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/17/1227/001 EU/1/17/1227/004
+EU/1/17/1227/001
+
+EU/1/17/1227/004
 
 ## 13. BATCH NUMBER
 
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
+
 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
@@ -1097,8 +1072,7 @@ EXP
 
 Viatris Limited Damastown Industrial Park, Mulhuddart, Dublin 15, DUBLIN Ireland
 
-| 12. MARKETING AUTHORISATION NUMBER(S)   |
-|-----------------------------------------|
+## 12. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/17/1227/001 EU/1/17/1227/004
 
@@ -1110,8 +1084,7 @@ Lot
 
 15. INSTRUCTIONS ON USE
 
-| 16.   | INFORMATION IN BRAILLE   |
-|-------|--------------------------|
+## 16. INFORMATION IN BRAILLE
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1135,9 +1108,11 @@ Also contains lactose. See leaflet for further information
 
 ## Film-coated tablet
 
-- 30 film-coated tablets
-- 30 x 1 film-coated tablets
-- 90 x 1 film-coated tablets
+30 film-coated tablets
+
+30 x 1 film-coated tablets
+
+90 x 1 film-coated tablets
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -1185,7 +1160,8 @@ EU/1/17/1227/010
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
+
 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
@@ -1213,6 +1189,35 @@ NN
 | 1.   | NAME OF THE MEDICINAL PRODUCT   |
 |------|---------------------------------|
 
+Entecavir Viatris 1 mg film-coated tablets entecavir
+
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
+
+Viatris Limited
+
+| 3.   | EXPIRY DATE   |
+|------|---------------|
+
+EXP
+
+| 4.   | BATCH NUMBER   |
+|------|----------------|
+
+Lot Entecavir Viatris 1 mg film-coated tablets entecavir Viatris Limited EXP
+
+| 5.   | OTHER   |
+|------|---------|
+
+<div style=\"page-break-after: always\"></div>
+
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| UNIT DOSE BLISTER                                     |
+
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
+
 | 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
 |------|----------------------------------------------|
 
@@ -1222,62 +1227,10 @@ NN
 | 4.   | BATCH NUMBER   |
 |------|----------------|
 
-| 5.   | OTHER   |
-|------|---------|
-
-## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS BLISTER
-
-## 1. NAME OF THE MEDICINAL PRODUCT
-
-Entecavir Viatris 1 mg film-coated tablets entecavir
-
-2. NAME OF THE MARKETING AUTHORISATION HOLDER
-
-Viatris Limited
-
-## 3. EXPIRY DATE
-
-EXP
-
-## 4. BATCH NUMBER
-
 Lot
-
-## 5. OTHER
-
-<div style=\"page-break-after: always\"></div>
-
-| 1.   | NAME OF THE MEDICINAL PRODUCT   |
-|------|---------------------------------|
-
-| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
-|------|----------------------------------------------|
-
-| 4.   | BATCH NUMBER   |
-|------|----------------|
 
 | 5.   | OTHER   |
 |------|---------|
-
-## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS UNIT DOSE BLISTER
-
-## 1. NAME OF THE MEDICINAL PRODUCT
-
-Entecavir Viatris 1 mg film-coated tablets entecavir
-
-## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
-
-Viatris Limited
-
-## 3. EXPIRY DATE
-
-EXP
-
-## 4. BATCH NUMBER
-
-Lot
-
-## 5. OTHER
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1329,17 +1282,28 @@ EXP
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Viatris Limited Damastown Industrial Park, Mulhuddart, Dublin 15, DUBLIN Ireland
+Viatris Limited
+
+Damastown Industrial Park,
+
+Mulhuddart, Dublin 15,
+
+DUBLIN
+
+Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/17/1227/006 EU/1/17/1227/009
+EU/1/17/1227/006
+
+EU/1/17/1227/009
 
 ## 13. BATCH NUMBER
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
+
 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
@@ -1423,16 +1387,15 @@ Lot
 
 15. INSTRUCTIONS ON USE
 
-| 16.   | INFORMATION IN BRAILLE   |
-|-------|--------------------------|
+## 16. INFORMATION IN BRAILLE
 
 <div style=\"page-break-after: always\"></div>
 
 ## B. PACKAGE LEAFLET
 
-## Package leaflet: Information for the user
-
 <div style=\"page-break-after: always\"></div>
+
+## Package leaflet: Information for the user
 
 ## Entecavir Viatris 0.5 mg film-coated tablets Entecavir Viatris 1 mg film-coated tablets
 
@@ -1440,10 +1403,10 @@ entecavir
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
--  Keep this leaflet. You may need to read it again.
--  If you have any further questions, ask your doctor or pharmacist.
--  This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
--  If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
+- If you have any further questions, ask your doctor or pharmacist.
+- Keep this leaflet. You may need to read it again.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -1561,9 +1524,9 @@ Patients treated with entecavir have reported the following side effects:
 
 ## Adults
 
--  Common (at least 1 in 100 patients): headache, insomnia (inability to sleep), fatigue (extreme tiredness), dizziness, somnolence (sleepiness), vomiting, diarrhoea, nausea, dyspepsia (indigestion), and increased blood levels of liver enzymes.
--  Uncommon (at least 1 in 1,000 patients): rash, hair loss.
--  Rare (at least 1 in 10,000 patients): severe allergic reaction.
+- Common (at least 1 in 100 patients): headache, insomnia (inability to sleep), fatigue (extreme tiredness), dizziness, somnolence (sleepiness), vomiting, diarrhoea, nausea, dyspepsia (indigestion), and increased blood levels of liver enzymes.
+- Uncommon (at least 1 in 1,000 patients): rash, hair loss.
+- Rare (at least 1 in 10,000 patients): severe allergic reaction.
 
 ## Children and adolescents
 
@@ -1627,19 +1590,17 @@ Viatris Limited Damastown Industrial Park, Mulhuddart, Dublin 15, DUBLIN Ireland
 
 Mylan Hungary Kft. Mylan utca 1, Komárom - 2900 Hungary
 
-Mylan Germany GmbH
-
-Zweigniederlassung Bad Homburg v. d. Hoehe, Benzstrasse 1 Bad Homburg v. d. Hoehe Hessen, 61352, Germany
+Viatris Germany GmbH Zweigniederlassung Bad Homburg v. d. Hoehe, Benzstrasse 1 Bad Homburg v. d. Hoehe Hessen, 61352, Germany
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 ## België/Belgique/Belgien
 
+## Lietuva
+
 Viatris
 
 Tél/Tel: + 32 (0)2 658 61 00
-
-## Lietuva
 
 Viatris UAB
 
@@ -1647,9 +1608,13 @@ Tel: +370 5 205 1288
 
 ## България
 
-Майлан ЕООД
+Виатрис
 
-Teл.: +359 2 44 55 400
+ЕООД
+
+Te л
+
+.: +359 2 44 55 400
 
 ## Luxembourg/Luxemburg
 
@@ -1659,7 +1624,7 @@ Tél/Tel: + 32 (0)2 658 61 00
 
 (Belgique/Belgien)
 
-## Česká republika
+## Č eská republika
 
 Viatris CZ s.r.o.
 
@@ -1713,7 +1678,9 @@ Tlf: + 47 66 75 33 00
 
 Viatris Hellas Ltd
 
-Τηλ: +30 2100 100 02
+Τηλ
+
+: +30 2100 100 02
 
 ## España
 
@@ -1755,7 +1722,9 @@ Tel: + 39 (0) 2 612 46921
 
 CPO Pharmaceuticals Limited
 
-Τηλ: +357 22863100
+Τηλ
+
+: +357 22863100
 
 ## Latvija
 

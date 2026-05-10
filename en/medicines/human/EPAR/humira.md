@@ -1,32 +1,32 @@
 ---
-document_datetime: 2025-12-29 07:32:18
+document_datetime: 2026-05-07 16:12:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/humira.html
 document_name: humira.html
 version: success
-processing_time: 0.2208836
-conversion_datetime: 2025-12-31 05:26:17.535513
+processing_time: 0.2280504
+conversion_datetime: 2026-05-10 13:14:12.801199
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.17.0
+  docling-jobkit: 1.18.0
+  docling: 2.92.0
+  docling-core: 2.74.1
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.10.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 # Humira
 
 [RSS](/en/individual-human-medicine.xml/67120)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-adalimumab Medicine Human Authorised
+adalimumab
 
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
+Medicine Human Authorised
 
 Page contents
 
@@ -130,285 +130,149 @@ Reference Number: EMA/670962/2020
 
 English (EN) (105.88 KB - PDF)
 
-**First published:** 24/11/2009
-
-**Last updated:** 09/12/2020
+**First published:** 24/11/2009 **Last updated:** 09/12/2020
 
 [View](/en/documents/overview/humira-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-455)
+[Other languages (22)](#file-language-dropdown-936)
 
 български (BG) (130 KB - PDF)
 
-**First published:**
-
-24/11/2009
-
-**Last updated:**
-
-09/12/2020
+**First published:** 24/11/2009 **Last updated:** 09/12/2020
 
 [View](/bg/documents/overview/humira-epar-medicine-overview_bg.pdf)
 
 español (ES) (106.56 KB - PDF)
 
-**First published:**
-
-24/11/2009
-
-**Last updated:**
-
-09/12/2020
+**First published:** 24/11/2009 **Last updated:** 09/12/2020
 
 [View](/es/documents/overview/humira-epar-medicine-overview_es.pdf)
 
 čeština (CS) (127.31 KB - PDF)
 
-**First published:**
-
-24/11/2009
-
-**Last updated:**
-
-09/12/2020
+**First published:** 24/11/2009 **Last updated:** 09/12/2020
 
 [View](/cs/documents/overview/humira-epar-medicine-overview_cs.pdf)
 
 dansk (DA) (105.52 KB - PDF)
 
-**First published:**
-
-24/11/2009
-
-**Last updated:**
-
-09/12/2020
+**First published:** 24/11/2009 **Last updated:** 09/12/2020
 
 [View](/da/documents/overview/humira-epar-medicine-overview_da.pdf)
 
 Deutsch (DE) (106.96 KB - PDF)
 
-**First published:**
-
-24/11/2009
-
-**Last updated:**
-
-09/12/2020
+**First published:** 24/11/2009 **Last updated:** 09/12/2020
 
 [View](/de/documents/overview/humira-epar-medicine-overview_de.pdf)
 
 eesti keel (ET) (104.98 KB - PDF)
 
-**First published:**
-
-24/11/2009
-
-**Last updated:**
-
-09/12/2020
+**First published:** 24/11/2009 **Last updated:** 09/12/2020
 
 [View](/et/documents/overview/humira-epar-medicine-overview_et.pdf)
 
 ελληνικά (EL) (137.52 KB - PDF)
 
-**First published:**
-
-24/11/2009
-
-**Last updated:**
-
-09/12/2020
+**First published:** 24/11/2009 **Last updated:** 09/12/2020
 
 [View](/el/documents/overview/humira-epar-medicine-overview_el.pdf)
 
 français (FR) (107.15 KB - PDF)
 
-**First published:**
-
-24/11/2009
-
-**Last updated:**
-
-09/12/2020
+**First published:** 24/11/2009 **Last updated:** 09/12/2020
 
 [View](/fr/documents/overview/humira-epar-medicine-overview_fr.pdf)
 
 hrvatski (HR) (121.34 KB - PDF)
 
-**First published:**
-
-24/11/2009
-
-**Last updated:**
-
-09/12/2020
+**First published:** 24/11/2009 **Last updated:** 09/12/2020
 
 [View](/hr/documents/overview/humira-epar-medicine-overview_hr.pdf)
 
 italiano (IT) (106.46 KB - PDF)
 
-**First published:**
-
-24/11/2009
-
-**Last updated:**
-
-09/12/2020
+**First published:** 24/11/2009 **Last updated:** 09/12/2020
 
 [View](/it/documents/overview/humira-epar-medicine-overview_it.pdf)
 
 latviešu valoda (LV) (127.45 KB - PDF)
 
-**First published:**
-
-24/11/2009
-
-**Last updated:**
-
-09/12/2020
+**First published:** 24/11/2009 **Last updated:** 09/12/2020
 
 [View](/lv/documents/overview/humira-epar-medicine-overview_lv.pdf)
 
 lietuvių kalba (LT) (125.35 KB - PDF)
 
-**First published:**
-
-24/11/2009
-
-**Last updated:**
-
-09/12/2020
+**First published:** 24/11/2009 **Last updated:** 09/12/2020
 
 [View](/lt/documents/overview/humira-epar-medicine-overview_lt.pdf)
 
 magyar (HU) (121.22 KB - PDF)
 
-**First published:**
-
-24/11/2009
-
-**Last updated:**
-
-09/12/2020
+**First published:** 24/11/2009 **Last updated:** 09/12/2020
 
 [View](/hu/documents/overview/humira-epar-medicine-overview_hu.pdf)
 
 Malti (MT) (126.21 KB - PDF)
 
-**First published:**
-
-24/11/2009
-
-**Last updated:**
-
-09/12/2020
+**First published:** 24/11/2009 **Last updated:** 09/12/2020
 
 [View](/mt/documents/overview/humira-epar-medicine-overview_mt.pdf)
 
 Nederlands (NL) (106.52 KB - PDF)
 
-**First published:**
-
-24/11/2009
-
-**Last updated:**
-
-09/12/2020
+**First published:** 24/11/2009 **Last updated:** 09/12/2020
 
 [View](/nl/documents/overview/humira-epar-medicine-overview_nl.pdf)
 
 polski (PL) (126.79 KB - PDF)
 
-**First published:**
-
-24/11/2009
-
-**Last updated:**
-
-09/12/2020
+**First published:** 24/11/2009 **Last updated:** 09/12/2020
 
 [View](/pl/documents/overview/humira-epar-medicine-overview_pl.pdf)
 
 português (PT) (106.27 KB - PDF)
 
-**First published:**
-
-24/11/2009
-
-**Last updated:**
-
-09/12/2020
+**First published:** 24/11/2009 **Last updated:** 09/12/2020
 
 [View](/pt/documents/overview/humira-epar-medicine-overview_pt.pdf)
 
 română (RO) (124 KB - PDF)
 
-**First published:**
-
-24/11/2009
-
-**Last updated:**
-
-09/12/2020
+**First published:** 24/11/2009 **Last updated:** 09/12/2020
 
 [View](/ro/documents/overview/humira-epar-medicine-overview_ro.pdf)
 
 slovenčina (SK) (124.29 KB - PDF)
 
-**First published:**
-
-24/11/2009
-
-**Last updated:**
-
-09/12/2020
+**First published:** 24/11/2009 **Last updated:** 09/12/2020
 
 [View](/sk/documents/overview/humira-epar-medicine-overview_sk.pdf)
 
 slovenščina (SL) (129.44 KB - PDF)
 
-**First published:**
-
-24/11/2009
-
-**Last updated:**
-
-09/12/2020
+**First published:** 24/11/2009 **Last updated:** 09/12/2020
 
 [View](/sl/documents/overview/humira-epar-medicine-overview_sl.pdf)
 
 Suomi (FI) (105.62 KB - PDF)
 
-**First published:**
-
-24/11/2009
-
-**Last updated:**
-
-09/12/2020
+**First published:** 24/11/2009 **Last updated:** 09/12/2020
 
 [View](/fi/documents/overview/humira-epar-medicine-overview_fi.pdf)
 
 svenska (SV) (105.38 KB - PDF)
 
-**First published:**
-
-24/11/2009
-
-**Last updated:**
-
-09/12/2020
+**First published:** 24/11/2009 **Last updated:** 09/12/2020
 
 [View](/sv/documents/overview/humira-epar-medicine-overview_sv.pdf)
 
 Humira : EPAR - Risk management plan
 
-English (EN) (1.48 MB - PDF)
+English (EN) (846.9 KB - PDF)
 
-**First published:** 12/07/2019
-
-**Last updated:** 03/03/2025
+**First published:** 12/07/2019 **Last updated:** 07/05/2026
 
 [View](/en/documents/rmp/humira-epar-risk-management-plan_en.pdf)
 
@@ -418,303 +282,159 @@ Humira : EPAR - Product information
 
 English (EN) (1.66 MB - PDF)
 
-**First published:** 13/11/2009
-
-**Last updated:** 08/10/2025
+**First published:** 13/11/2009 **Last updated:** 08/10/2025
 
 [View](/en/documents/product-information/humira-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-925)
+[Other languages (24)](#file-language-dropdown-547)
 
 български (BG) (1.91 MB - PDF)
 
-**First published:**
-
-13/11/2009
-
-**Last updated:**
-
-08/10/2025
+**First published:** 13/11/2009 **Last updated:** 08/10/2025
 
 [View](/bg/documents/product-information/humira-epar-product-information_bg.pdf)
 
 español (ES) (1.68 MB - PDF)
 
-**First published:**
-
-13/11/2009
-
-**Last updated:**
-
-08/10/2025
+**First published:** 13/11/2009 **Last updated:** 08/10/2025
 
 [View](/es/documents/product-information/humira-epar-product-information_es.pdf)
 
 čeština (CS) (2.06 MB - PDF)
 
-**First published:**
-
-13/11/2009
-
-**Last updated:**
-
-08/10/2025
+**First published:** 13/11/2009 **Last updated:** 08/10/2025
 
 [View](/cs/documents/product-information/humira-epar-product-information_cs.pdf)
 
 dansk (DA) (1.82 MB - PDF)
 
-**First published:**
-
-13/11/2009
-
-**Last updated:**
-
-08/10/2025
+**First published:** 13/11/2009 **Last updated:** 08/10/2025
 
 [View](/da/documents/product-information/humira-epar-product-information_da.pdf)
 
 Deutsch (DE) (1.89 MB - PDF)
 
-**First published:**
-
-13/11/2009
-
-**Last updated:**
-
-08/10/2025
+**First published:** 13/11/2009 **Last updated:** 08/10/2025
 
 [View](/de/documents/product-information/humira-epar-product-information_de.pdf)
 
 eesti keel (ET) (1.73 MB - PDF)
 
-**First published:**
-
-13/11/2009
-
-**Last updated:**
-
-08/10/2025
+**First published:** 13/11/2009 **Last updated:** 08/10/2025
 
 [View](/et/documents/product-information/humira-epar-product-information_et.pdf)
 
 ελληνικά (EL) (1.94 MB - PDF)
 
-**First published:**
-
-13/11/2009
-
-**Last updated:**
-
-08/10/2025
+**First published:** 13/11/2009 **Last updated:** 08/10/2025
 
 [View](/el/documents/product-information/humira-epar-product-information_el.pdf)
 
 français (FR) (1.92 MB - PDF)
 
-**First published:**
-
-13/11/2009
-
-**Last updated:**
-
-08/10/2025
+**First published:** 13/11/2009 **Last updated:** 08/10/2025
 
 [View](/fr/documents/product-information/humira-epar-product-information_fr.pdf)
 
 hrvatski (HR) (1.92 MB - PDF)
 
-**First published:**
-
-13/11/2009
-
-**Last updated:**
-
-08/10/2025
+**First published:** 13/11/2009 **Last updated:** 08/10/2025
 
 [View](/hr/documents/product-information/humira-epar-product-information_hr.pdf)
 
 íslenska (IS) (1.68 MB - PDF)
 
-**First published:**
-
-13/11/2009
-
-**Last updated:**
-
-08/10/2025
+**First published:** 13/11/2009 **Last updated:** 08/10/2025
 
 [View](/is/documents/product-information/humira-epar-product-information_is.pdf)
 
 italiano (IT) (1.86 MB - PDF)
 
-**First published:**
-
-13/11/2009
-
-**Last updated:**
-
-08/10/2025
+**First published:** 13/11/2009 **Last updated:** 08/10/2025
 
 [View](/it/documents/product-information/humira-epar-product-information_it.pdf)
 
 latviešu valoda (LV) (1.86 MB - PDF)
 
-**First published:**
-
-13/11/2009
-
-**Last updated:**
-
-08/10/2025
+**First published:** 13/11/2009 **Last updated:** 08/10/2025
 
 [View](/lv/documents/product-information/humira-epar-product-information_lv.pdf)
 
 lietuvių kalba (LT) (1.91 MB - PDF)
 
-**First published:**
-
-13/11/2009
-
-**Last updated:**
-
-08/10/2025
+**First published:** 13/11/2009 **Last updated:** 08/10/2025
 
 [View](/lt/documents/product-information/humira-epar-product-information_lt.pdf)
 
 magyar (HU) (1.98 MB - PDF)
 
-**First published:**
-
-13/11/2009
-
-**Last updated:**
-
-08/10/2025
+**First published:** 13/11/2009 **Last updated:** 08/10/2025
 
 [View](/hu/documents/product-information/humira-epar-product-information_hu.pdf)
 
 Malti (MT) (2.12 MB - PDF)
 
-**First published:**
-
-13/11/2009
-
-**Last updated:**
-
-08/10/2025
+**First published:** 13/11/2009 **Last updated:** 08/10/2025
 
 [View](/mt/documents/product-information/humira-epar-product-information_mt.pdf)
 
 Nederlands (NL) (1.73 MB - PDF)
 
-**First published:**
-
-13/11/2009
-
-**Last updated:**
-
-08/10/2025
+**First published:** 13/11/2009 **Last updated:** 08/10/2025
 
 [View](/nl/documents/product-information/humira-epar-product-information_nl.pdf)
 
 norsk (NO) (1.73 MB - PDF)
 
-**First published:**
-
-13/11/2009
-
-**Last updated:**
-
-08/10/2025
+**First published:** 13/11/2009 **Last updated:** 08/10/2025
 
 [View](/no/documents/product-information/humira-epar-product-information_no.pdf)
 
 polski (PL) (2.04 MB - PDF)
 
-**First published:**
-
-13/11/2009
-
-**Last updated:**
-
-08/10/2025
+**First published:** 13/11/2009 **Last updated:** 08/10/2025
 
 [View](/pl/documents/product-information/humira-epar-product-information_pl.pdf)
 
 português (PT) (1.74 MB - PDF)
 
-**First published:**
-
-13/11/2009
-
-**Last updated:**
-
-08/10/2025
+**First published:** 13/11/2009 **Last updated:** 08/10/2025
 
 [View](/pt/documents/product-information/humira-epar-product-information_pt.pdf)
 
 română (RO) (1.85 MB - PDF)
 
-**First published:**
-
-13/11/2009
-
-**Last updated:**
-
-08/10/2025
+**First published:** 13/11/2009 **Last updated:** 08/10/2025
 
 [View](/ro/documents/product-information/humira-epar-product-information_ro.pdf)
 
 slovenčina (SK) (2.01 MB - PDF)
 
-**First published:**
-
-13/11/2009
-
-**Last updated:**
-
-08/10/2025
+**First published:** 13/11/2009 **Last updated:** 08/10/2025
 
 [View](/sk/documents/product-information/humira-epar-product-information_sk.pdf)
 
 slovenščina (SL) (1.89 MB - PDF)
 
-**First published:**
-
-13/11/2009
-
-**Last updated:**
-
-08/10/2025
+**First published:** 13/11/2009 **Last updated:** 08/10/2025
 
 [View](/sl/documents/product-information/humira-epar-product-information_sl.pdf)
 
 Suomi (FI) (1.72 MB - PDF)
 
-**First published:**
-
-13/11/2009
-
-**Last updated:**
-
-08/10/2025
+**First published:** 13/11/2009 **Last updated:** 08/10/2025
 
 [View](/fi/documents/product-information/humira-epar-product-information_fi.pdf)
 
 svenska (SV) (1.71 MB - PDF)
 
-**First published:**
-
-13/11/2009
-
-**Last updated:**
-
-08/10/2025
+**First published:** 13/11/2009 **Last updated:** 08/10/2025
 
 [View](/sv/documents/product-information/humira-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000287800 08/10/2025
+**Latest procedure affecting product information:** VR/0000287800
+
+08/10/2025
 
 icon globe
 
@@ -734,305 +454,171 @@ Humira : EPAR - All Authorised presentations
 
 English (EN) (28.58 KB - PDF)
 
-**First published:** 23/06/2009
-
-**Last updated:** 08/10/2025
+**First published:** 23/06/2009 **Last updated:** 08/10/2025
 
 [View](/en/documents/all-authorised-presentations/humira-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-116)
+[Other languages (24)](#file-language-dropdown-660)
 
 български (BG) (39.08 KB - PDF)
 
-**First published:**
-
-23/06/2009
-
-**Last updated:**
-
-08/10/2025
+**First published:** 23/06/2009 **Last updated:** 08/10/2025
 
 [View](/bg/documents/all-authorised-presentations/humira-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (27.62 KB - PDF)
 
-**First published:**
-
-23/06/2009
-
-**Last updated:**
-
-08/10/2025
+**First published:** 23/06/2009 **Last updated:** 08/10/2025
 
 [View](/es/documents/all-authorised-presentations/humira-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (43.11 KB - PDF)
 
-**First published:**
-
-23/06/2009
-
-**Last updated:**
-
-08/10/2025
+**First published:** 23/06/2009 **Last updated:** 08/10/2025
 
 [View](/cs/documents/all-authorised-presentations/humira-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (31.61 KB - PDF)
 
-**First published:**
-
-23/06/2009
-
-**Last updated:**
-
-08/10/2025
+**First published:** 23/06/2009 **Last updated:** 08/10/2025
 
 [View](/da/documents/all-authorised-presentations/humira-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (28.18 KB - PDF)
 
-**First published:**
-
-23/06/2009
-
-**Last updated:**
-
-08/10/2025
+**First published:** 23/06/2009 **Last updated:** 08/10/2025
 
 [View](/de/documents/all-authorised-presentations/humira-epar-all-authorised-presentations_de.pdf)
 
 eesti keel (ET) (27.05 KB - PDF)
 
-**First published:**
-
-23/06/2009
-
-**Last updated:**
-
-08/10/2025
+**First published:** 23/06/2009 **Last updated:** 08/10/2025
 
 [View](/et/documents/all-authorised-presentations/humira-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (36.74 KB - PDF)
 
-**First published:**
-
-23/06/2009
-
-**Last updated:**
-
-08/10/2025
+**First published:** 23/06/2009 **Last updated:** 08/10/2025
 
 [View](/el/documents/all-authorised-presentations/humira-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (35.46 KB - PDF)
 
-**First published:**
-
-23/06/2009
-
-**Last updated:**
-
-08/10/2025
+**First published:** 23/06/2009 **Last updated:** 08/10/2025
 
 [View](/fr/documents/all-authorised-presentations/humira-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (40.3 KB - PDF)
 
-**First published:**
-
-23/06/2009
-
-**Last updated:**
-
-08/10/2025
+**First published:** 23/06/2009 **Last updated:** 08/10/2025
 
 [View](/hr/documents/all-authorised-presentations/humira-epar-all-authorised-presentations_hr.pdf)
 
 íslenska (IS) (29.31 KB - PDF)
 
-**First published:**
-
-23/06/2009
-
-**Last updated:**
-
-08/10/2025
+**First published:** 23/06/2009 **Last updated:** 08/10/2025
 
 [View](/is/documents/all-authorised-presentations/humira-epar-all-authorised-presentations_is.pdf)
 
 italiano (IT) (28.79 KB - PDF)
 
-**First published:**
-
-23/06/2009
-
-**Last updated:**
-
-08/10/2025
+**First published:** 23/06/2009 **Last updated:** 08/10/2025
 
 [View](/it/documents/all-authorised-presentations/humira-epar-all-authorised-presentations_it.pdf)
 
 latviešu valoda (LV) (41.48 KB - PDF)
 
-**First published:**
-
-23/06/2009
-
-**Last updated:**
-
-08/10/2025
+**First published:** 23/06/2009 **Last updated:** 08/10/2025
 
 [View](/lv/documents/all-authorised-presentations/humira-epar-all-authorised-presentations_lv.pdf)
 
 lietuvių kalba (LT) (39.83 KB - PDF)
 
-**First published:**
-
-23/06/2009
-
-**Last updated:**
-
-08/10/2025
+**First published:** 23/06/2009 **Last updated:** 08/10/2025
 
 [View](/lt/documents/all-authorised-presentations/humira-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (38.59 KB - PDF)
 
-**First published:**
-
-23/06/2009
-
-**Last updated:**
-
-08/10/2025
+**First published:** 23/06/2009 **Last updated:** 08/10/2025
 
 [View](/hu/documents/all-authorised-presentations/humira-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (39.97 KB - PDF)
 
-**First published:**
-
-23/06/2009
-
-**Last updated:**
-
-08/10/2025
+**First published:** 23/06/2009 **Last updated:** 08/10/2025
 
 [View](/mt/documents/all-authorised-presentations/humira-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (28.6 KB - PDF)
 
-**First published:**
-
-23/06/2009
-
-**Last updated:**
-
-08/10/2025
+**First published:** 23/06/2009 **Last updated:** 08/10/2025
 
 [View](/nl/documents/all-authorised-presentations/humira-epar-all-authorised-presentations_nl.pdf)
 
 norsk (NO) (29.36 KB - PDF)
 
-**First published:**
-
-23/06/2009
-
-**Last updated:**
-
-08/10/2025
+**First published:** 23/06/2009 **Last updated:** 08/10/2025
 
 [View](/no/documents/all-authorised-presentations/humira-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (41.55 KB - PDF)
 
-**First published:**
-
-23/06/2009
-
-**Last updated:**
-
-08/10/2025
+**First published:** 23/06/2009 **Last updated:** 08/10/2025
 
 [View](/pl/documents/all-authorised-presentations/humira-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (33.72 KB - PDF)
 
-**First published:**
-
-23/06/2009
-
-**Last updated:**
-
-08/10/2025
+**First published:** 23/06/2009 **Last updated:** 08/10/2025
 
 [View](/pt/documents/all-authorised-presentations/humira-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (43.35 KB - PDF)
 
-**First published:**
-
-23/06/2009
-
-**Last updated:**
-
-08/10/2025
+**First published:** 23/06/2009 **Last updated:** 08/10/2025
 
 [View](/ro/documents/all-authorised-presentations/humira-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (39.72 KB - PDF)
 
-**First published:**
-
-23/06/2009
-
-**Last updated:**
-
-08/10/2025
+**First published:** 23/06/2009 **Last updated:** 08/10/2025
 
 [View](/sk/documents/all-authorised-presentations/humira-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (39.07 KB - PDF)
 
-**First published:**
-
-23/06/2009
-
-**Last updated:**
-
-08/10/2025
+**First published:** 23/06/2009 **Last updated:** 08/10/2025
 
 [View](/sl/documents/all-authorised-presentations/humira-epar-all-authorised-presentations_sl.pdf)
 
 Suomi (FI) (25.67 KB - PDF)
 
-**First published:**
-
-23/06/2009
-
-**Last updated:**
-
-08/10/2025
+**First published:** 23/06/2009 **Last updated:** 08/10/2025
 
 [View](/fi/documents/all-authorised-presentations/humira-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (27.44 KB - PDF)
 
-**First published:**
-
-23/06/2009
-
-**Last updated:**
-
-08/10/2025
+**First published:** 23/06/2009 **Last updated:** 08/10/2025
 
 [View](/sv/documents/all-authorised-presentations/humira-epar-all-authorised-presentations_sv.pdf)
 
 ## Product details
 
-Name of medicine Humira Active substance adalimumab International non-proprietary name (INN) or common name adalimumab Therapeutic area (MeSH)
+Name of medicine
+
+Humira
+
+Active substance
+
+adalimumab
+
+International non-proprietary name (INN) or common name
+
+adalimumab
+
+Therapeutic area (MeSH)
 
 - Spondylitis, Ankylosing
 - Arthritis, Juvenile Rheumatoid
@@ -1043,7 +629,9 @@ Name of medicine Humira Active substance adalimumab International non-proprietar
 - Crohn Disease
 - Arthritis, Rheumatoid
 
-Anatomical therapeutic chemical (ATC) code L04AB04
+Anatomical therapeutic chemical (ATC) code
+
+L04AB04
 
 ### Pharmacotherapeutic group
 
@@ -1055,13 +643,23 @@ Please refer to the product information document.
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/000481 Marketing authorisation holder
+EMA product number
+
+EMEA/H/C/000481
+
+Marketing authorisation holder
 
 AbbVie Deutschland GmbH &amp; Co. KG
 
 Knollstrasse 67061 Ludwigshafen Germany
 
-Marketing authorisation issued 08/09/2003 Revision 96
+Marketing authorisation issued
+
+08/09/2003
+
+Revision
+
+97
 
 ## Assessment history
 
@@ -1073,11 +671,9 @@ Collapse section
 
 Humira : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (146.48 KB - PDF)
+English (EN) (152.34 KB - PDF)
 
-**First published:** 20/03/2025
-
-**Last updated:** 08/10/2025
+**First published:** 20/03/2025 **Last updated:** 07/05/2026
 
 [View](/en/documents/procedural-steps-after/humira-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1085,9 +681,7 @@ Humira : EPAR - Procedural steps taken and scientific information after authoris
 
 English (EN) (687.16 KB - PDF)
 
-**First published:** 12/11/2009
-
-**Last updated:** 20/03/2025
+**First published:** 12/11/2009 **Last updated:** 20/03/2025
 
 [View](/en/documents/procedural-steps-after/humira-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
@@ -1103,9 +697,7 @@ English (EN) (325.35 KB - PDF)
 
 Humira-PAM-0000257452-P46-0120701 : EPAR - Assessment report
 
-Adopted
-
-Reference Number: EMADOC-1700519818-1965497
+Adopted Reference Number: EMADOC-1700519818-1965497
 
 English (EN) (313.99 KB - PDF)
 
@@ -1115,9 +707,7 @@ English (EN) (313.99 KB - PDF)
 
 Humira-H-C-000481-P46-125 : EPAR - Assessment Report
 
-Adopted
-
-Reference Number: EMA/591638/2022
+Adopted Reference Number: EMA/591638/2022
 
 English (EN) (619.56 KB - PDF)
 
@@ -1127,9 +717,7 @@ English (EN) (619.56 KB - PDF)
 
 Humira-H-C-481-P46-122 : EPAR - Assessment Report
 
-Adopted
-
-Reference Number: EMA/CHMP/396886/2021
+Adopted Reference Number: EMA/CHMP/396886/2021
 
 English (EN) (507.46 KB - PDF)
 
@@ -1139,9 +727,7 @@ English (EN) (507.46 KB - PDF)
 
 Humira-H-C-481-P46-122 : EPAR - Assessment Report
 
-Adopted
-
-Reference Number: EMA/CHMP/396886/2021
+Adopted Reference Number: EMA/CHMP/396886/2021
 
 English (EN) (507.46 KB - PDF)
 
@@ -1151,9 +737,7 @@ English (EN) (507.46 KB - PDF)
 
 Humira-H-C-481-P46-121 : EPAR - Assessment Report
 
-Adopted
-
-Reference Number: EMA/637884/2020
+Adopted Reference Number: EMA/637884/2020
 
 English (EN) (594.96 KB - PDF)
 
@@ -1163,9 +747,7 @@ English (EN) (594.96 KB - PDF)
 
 Humira-H-C-481-II-0198 : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/584443/2020
+Adopted Reference Number: EMA/584443/2020
 
 English (EN) (5.5 MB - PDF)
 
@@ -1175,9 +757,7 @@ English (EN) (5.5 MB - PDF)
 
 CHMP post-authorisation summary of positive opinion for Humira (II-198)
 
-Adopted
-
-Reference Number: EMA/CHMP/522809/2020
+Adopted Reference Number: EMA/CHMP/522809/2020
 
 English (EN) (167.49 KB - PDF)
 
@@ -1187,9 +767,7 @@ English (EN) (167.49 KB - PDF)
 
 Humira-H-C-481-P46-0117 : EPAR - Assessment Report
 
-Adopted
-
-Reference Number: EMA/280488/2020
+Adopted Reference Number: EMA/280488/2020
 
 English (EN) (192.47 KB - PDF)
 
@@ -1199,9 +777,7 @@ English (EN) (192.47 KB - PDF)
 
 Humira-H-C-481-P46-0119 : EPAR - Assessment Report
 
-Adopted
-
-Reference Number: EMA/495296/2020
+Adopted Reference Number: EMA/495296/2020
 
 English (EN) (246.18 KB - PDF)
 
@@ -1211,9 +787,7 @@ English (EN) (246.18 KB - PDF)
 
 Humira-H-C-481-P46-0100 : EPAR - Assessment Report
 
-Adopted
-
-Reference Number: EMA/160077/2020
+Adopted Reference Number: EMA/160077/2020
 
 English (EN) (327.75 KB - PDF)
 
@@ -1223,9 +797,7 @@ English (EN) (327.75 KB - PDF)
 
 Humira-H-C-481-P46-112 : EPAR - Assessment Report
 
-Adopted
-
-Reference Number: EMA/145491/2019
+Adopted Reference Number: EMA/145491/2019
 
 English (EN) (141.35 KB - PDF)
 
@@ -1245,9 +817,7 @@ English (EN) (170.56 KB - PDF)
 
 Humira-H-C-481-P46-108 : EPAR - Assessment Report
 
-Adopted
-
-Reference Number: EMA/CHMP/777619/2018
+Adopted Reference Number: EMA/CHMP/777619/2018
 
 English (EN) (220.34 KB - PDF)
 
@@ -1257,9 +827,7 @@ English (EN) (220.34 KB - PDF)
 
 Humira-H-C-481-P46-107 : EPAR - Assessment Report
 
-Adopted
-
-Reference Number: EMA/CHMP/551260/2018
+Adopted Reference Number: EMA/CHMP/551260/2018
 
 English (EN) (243.79 KB - PDF)
 
@@ -1269,9 +837,7 @@ English (EN) (243.79 KB - PDF)
 
 Humira-H-C-481-P46-104 : EPAR - Assessment Report
 
-Adopted
-
-Reference Number: EMA/CHMP/501355/2018
+Adopted Reference Number: EMA/CHMP/501355/2018
 
 English (EN) (361.6 KB - PDF)
 
@@ -1281,9 +847,7 @@ English (EN) (361.6 KB - PDF)
 
 Humira-H-C-481-P46-103 : EPAR - Assessment Report
 
-Adopted
-
-Reference Number: EMA/CHMP/428944/2018
+Adopted Reference Number: EMA/CHMP/428944/2018
 
 English (EN) (1.37 MB - PDF)
 
@@ -1293,15 +857,11 @@ English (EN) (1.37 MB - PDF)
 
 Humira-H-C-481-P46-102 : EPAR - Assessment Report
 
-Adopted
-
-Reference Number: EMA/CHMP/222491/2018
+Adopted Reference Number: EMA/CHMP/222491/2018
 
 English (EN) (801.32 KB - PDF)
 
-**First published:** 03/05/2018
-
-**Last updated:** 03/05/2018
+**First published:** 03/05/2018 **Last updated:** 03/05/2018
 
 [View](/en/documents/variation-report/humira-h-c-481-p46-102-epar-assessment-report_en.pdf)
 
@@ -1311,9 +871,7 @@ Reference Number: EMA/739440/2017
 
 English (EN) (65.93 KB - PDF)
 
-**First published:** 15/12/2017
-
-**Last updated:** 15/12/2017
+**First published:** 15/12/2017 **Last updated:** 15/12/2017
 
 [View](/en/documents/scientific-conclusion/humira-h-c-psusa-00000057-201612-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf)
 
@@ -1323,9 +881,7 @@ Reference Number: EMA/CHMP/829007/2017
 
 English (EN) (1.66 MB - PDF)
 
-**First published:** 15/12/2017
-
-**Last updated:** 15/12/2017
+**First published:** 15/12/2017 **Last updated:** 15/12/2017
 
 [View](/en/documents/variation-report/humira-h-c-481-x-164g-epar-assessment-report-variation_en.pdf)
 
@@ -1335,9 +891,7 @@ Reference Number: EMA/CHMP/505087/2017
 
 English (EN) (739.58 KB - PDF)
 
-**First published:** 05/10/2017
-
-**Last updated:** 05/10/2017
+**First published:** 05/10/2017 **Last updated:** 05/10/2017
 
 [View](/en/documents/variation-report/humira-h-c-481-ii-0163-epar-assessment-report-variation_en.pdf)
 
@@ -1347,9 +901,7 @@ Reference Number: EMA/CHMP/356790/2017
 
 English (EN) (721.41 KB - PDF)
 
-**First published:** 01/09/2017
-
-**Last updated:** 01/09/2017
+**First published:** 01/09/2017 **Last updated:** 01/09/2017
 
 [View](/en/documents/variation-report/humira-h-c-481-ii-0159-epar-assessment-report_en.pdf)
 
@@ -1359,9 +911,7 @@ Reference Number: EMA/CHMP/402059/2017
 
 English (EN) (83.73 KB - PDF)
 
-**First published:** 21/07/2017
-
-**Last updated:** 21/07/2017
+**First published:** 21/07/2017 **Last updated:** 21/07/2017
 
 [View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-humira-ii-163_en.pdf)
 
@@ -1371,9 +921,7 @@ Reference Number: EMA/178260/2017
 
 English (EN) (83.9 KB - PDF)
 
-**First published:** 15/03/2017
-
-**Last updated:** 15/03/2017
+**First published:** 15/03/2017 **Last updated:** 15/03/2017
 
 [View](/en/documents/variation-report/humira-h-c-481-p46-0096-epar-assessment-report_en.pdf)
 
@@ -1383,9 +931,7 @@ Reference Number: EMA/174447/2017
 
 English (EN) (155.27 KB - PDF)
 
-**First published:** 15/03/2017
-
-**Last updated:** 15/03/2017
+**First published:** 15/03/2017 **Last updated:** 15/03/2017
 
 [View](/en/documents/variation-report/humira-h-c-481-p46-0098-epar-assessment-report_en.pdf)
 
@@ -1395,23 +941,17 @@ Reference Number: EMA/174639/2017
 
 English (EN) (242.83 KB - PDF)
 
-**First published:** 15/03/2017
-
-**Last updated:** 15/03/2017
+**First published:** 15/03/2017 **Last updated:** 15/03/2017
 
 [View](/en/documents/variation-report/humira-h-c-481-p46-0099-epar-assessment-report_en.pdf)
 
 Humira-H-C-481-II-0158 : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/130014/2017
+Adopted Reference Number: EMA/130014/2017
 
 English (EN) (857.48 KB - PDF)
 
-**First published:** 23/02/2017
-
-**Last updated:** 23/02/2017
+**First published:** 23/02/2017 **Last updated:** 23/02/2017
 
 [View](/en/documents/variation-report/humira-h-c-481-ii-0158-epar-assessment-report-variation_en.pdf)
 
@@ -1421,9 +961,7 @@ Reference Number: EMA/126130/2017
 
 English (EN) (68.67 KB - PDF)
 
-**First published:** 23/02/2017
-
-**Last updated:** 23/02/2017
+**First published:** 23/02/2017 **Last updated:** 23/02/2017
 
 [View](/en/documents/pip-compliance/humira-epar-paediatric-investigation-plan-compliance-statement_en.pdf-1)
 
@@ -1433,135 +971,97 @@ Reference Number: EMA/691442/2016
 
 English (EN) (69.21 KB - PDF)
 
-**First published:** 21/02/2017
-
-**Last updated:** 21/02/2017
+**First published:** 21/02/2017 **Last updated:** 21/02/2017
 
 [View](/en/documents/pip-compliance/humira-epar-paediatric-investigation-plan-compliance-statement_en.pdf)
 
 Humira-H-C-481-II-0154 : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/CHMP/676652/2016
+Adopted Reference Number: EMA/CHMP/676652/2016
 
 English (EN) (855.02 KB - PDF)
 
-**First published:** 21/02/2017
-
-**Last updated:** 21/02/2017
+**First published:** 21/02/2017 **Last updated:** 21/02/2017
 
 [View](/en/documents/variation-report/humira-h-c-481-ii-0154-epar-assessment-report-variation_en.pdf)
 
 Humira-H-C-481-P46-0093 : EPAR - Assessment Report
 
-Adopted
-
-Reference Number: EMA/CHMP/65037/2017
+Adopted Reference Number: EMA/CHMP/65037/2017
 
 English (EN) (2.83 MB - PDF)
 
-**First published:** 30/01/2017
-
-**Last updated:** 31/01/2017
+**First published:** 30/01/2017 **Last updated:** 31/01/2017
 
 [View](/en/documents/variation-report/humira-h-c-481-p46-0093-epar-assessment-report_en.pdf)
 
 Humira-H-C-481-P46-0095 : EPAR - Assessment Report
 
-Adopted
-
-Reference Number: EMA/621044/2016
+Adopted Reference Number: EMA/621044/2016
 
 English (EN) (478.18 KB - PDF)
 
-**First published:** 26/10/2016
-
-**Last updated:** 26/10/2016
+**First published:** 26/10/2016 **Last updated:** 26/10/2016
 
 [View](/en/documents/variation-report/humira-h-c-481-p46-0095-epar-assessment-report_en.pdf)
 
 CHMP post-authorisation summary of positive opinion for Humira
 
-Adopted
-
-Reference Number: EMA/CHMP/691443/2016
+Adopted Reference Number: EMA/CHMP/691443/2016
 
 English (EN) (83.99 KB - PDF)
 
-**First published:** 11/10/2016
-
-**Last updated:** 11/10/2016
+**First published:** 11/10/2016 **Last updated:** 11/10/2016
 
 [View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-humira_en.pdf-7)
 
 Humira-H-C-481-P46-0094 : EPAR - Assessment Report
 
-Adopted
-
-Reference Number: EMA/645130/2016
+Adopted Reference Number: EMA/645130/2016
 
 English (EN) (78.22 KB - PDF)
 
-**First published:** 03/10/2016
-
-**Last updated:** 03/10/2016
+**First published:** 03/10/2016 **Last updated:** 03/10/2016
 
 [View](/en/documents/variation-report/humira-h-c-481-p46-0094-epar-assessment-report_en.pdf)
 
 Humira-H-C-481-II-0146 : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/501143/2016
+Adopted Reference Number: EMA/501143/2016
 
 English (EN) (2.28 MB - PDF)
 
-**First published:** 28/07/2016
-
-**Last updated:** 08/02/2017
+**First published:** 28/07/2016 **Last updated:** 08/02/2017
 
 [View](/en/documents/variation-report/humira-h-c-481-ii-0146-epar-assessment-report-variation_en.pdf)
 
 Humira-H-C-481-II-0147 : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/374316/2016
+Adopted Reference Number: EMA/374316/2016
 
 English (EN) (1.19 MB - PDF)
 
-**First published:** 18/07/2016
-
-**Last updated:** 18/07/2016
+**First published:** 18/07/2016 **Last updated:** 18/07/2016
 
 [View](/en/documents/variation-report/humira-h-c-481-ii-0147-epar-assessment-report-variation_en.pdf)
 
 Humira-H-C-481-P46-0091 : EPAR - Assessment Report
 
-Adopted
-
-Reference Number: EMA/645500/2016
+Adopted Reference Number: EMA/645500/2016
 
 English (EN) (122.77 KB - PDF)
 
-**First published:** 16/06/2016
-
-**Last updated:** 16/06/2016
+**First published:** 16/06/2016 **Last updated:** 16/06/2016
 
 [View](/en/documents/variation-report/humira-h-c-481-p46-0091-epar-assessment-report_en.pdf)
 
 CHMP post-authorisation summary of positive opinion for Humira
 
-Adopted
-
-Reference Number: EMA/CHMP/329583/2016
+Adopted Reference Number: EMA/CHMP/329583/2016
 
 English (EN) (82.6 KB - PDF)
 
-**First published:** 27/05/2016
-
-**Last updated:** 27/05/2016
+**First published:** 27/05/2016 **Last updated:** 27/05/2016
 
 [View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-humira_en.pdf-11)
 
@@ -1571,107 +1071,77 @@ Reference Number: EMA/233471/2016
 
 English (EN) (70.36 KB - PDF)
 
-**First published:** 25/05/2016
-
-**Last updated:** 25/05/2016
+**First published:** 25/05/2016 **Last updated:** 25/05/2016
 
 [View](/en/documents/pip-compliance/humira-epar-paediatric-investigation-plan-compliance-statement_en.pdf-0)
 
 Humira-H-C-481-II-0149 : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/281673/2016
+Adopted Reference Number: EMA/281673/2016
 
 English (EN) (3.44 MB - PDF)
 
-**First published:** 26/04/2016
-
-**Last updated:** 26/04/2016
+**First published:** 26/04/2016 **Last updated:** 26/04/2016
 
 [View](/en/documents/variation-report/humira-h-c-481-ii-0149-epar-assessment-report-variation_en.pdf)
 
 CHMP post-authorisation summary of positive opinion for Humira
 
-Adopted
-
-Reference Number: EMA/CHMP/228011/2016
+Adopted Reference Number: EMA/CHMP/228011/2016
 
 English (EN) (81.83 KB - PDF)
 
-**First published:** 01/04/2016
-
-**Last updated:** 01/04/2016
+**First published:** 01/04/2016 **Last updated:** 01/04/2016
 
 [View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-humira_en.pdf)
 
 CHMP post-authorisation summary of positive opinion for Humira
 
-Adopted
-
-Reference Number: EMA/CHMP/148113/2016
+Adopted Reference Number: EMA/CHMP/148113/2016
 
 English (EN) (81.24 KB - PDF)
 
-**First published:** 26/02/2016
-
-**Last updated:** 26/02/2016
+**First published:** 26/02/2016 **Last updated:** 26/02/2016
 
 [View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-humira_en.pdf-5)
 
 Humira-H-C-481-P46-0088 : EPAR - Assessment Report
 
-Adopted
-
-Reference Number: EMA/743698/2015
+Adopted Reference Number: EMA/743698/2015
 
 English (EN) (1.63 MB - PDF)
 
-**First published:** 10/11/2015
-
-**Last updated:** 10/11/2015
+**First published:** 10/11/2015 **Last updated:** 10/11/2015
 
 [View](/en/documents/variation-report/humira-h-c-481-p46-0088-epar-assessment-report_en.pdf)
 
 Humira-H-C-481-P46-0087 : EPAR - Assessment Report
 
-Adopted
-
-Reference Number: EMA/684090/2015
+Adopted Reference Number: EMA/684090/2015
 
 English (EN) (84.71 KB - PDF)
 
-**First published:** 15/10/2015
-
-**Last updated:** 15/10/2015
+**First published:** 15/10/2015 **Last updated:** 15/10/2015
 
 [View](/en/documents/variation-report/humira-h-c-481-p46-0087-epar-assessment-report_en.pdf)
 
 Humira-H-C-481-II-0137 : EPAR - Assessment report - Variation
 
-Adopted
-
-Reference Number: EMA/CHMP/364731/2015
+Adopted Reference Number: EMA/CHMP/364731/2015
 
 English (EN) (4.1 MB - PDF)
 
-**First published:** 09/10/2015
-
-**Last updated:** 09/10/2015
+**First published:** 09/10/2015 **Last updated:** 09/10/2015
 
 [View](/en/documents/variation-report/humira-h-c-481-ii-0137-epar-assessment-report-variation_en.pdf)
 
 CHMP post-authorisation summary of positive opinion for Humira
 
-Adopted
-
-Reference Number: EMA/CHMP/365477/2015
+Adopted Reference Number: EMA/CHMP/365477/2015
 
 English (EN) (80.55 KB - PDF)
 
-**First published:** 26/06/2015
-
-**Last updated:** 26/06/2015
+**First published:** 26/06/2015 **Last updated:** 26/06/2015
 
 [View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-humira_en.pdf-10)
 
@@ -1681,37 +1151,27 @@ Reference Number: EMA/261748/2015
 
 English (EN) (69.92 KB - PDF)
 
-**First published:** 12/05/2015
-
-**Last updated:** 12/05/2015
+**First published:** 12/05/2015 **Last updated:** 12/05/2015
 
 [View](/en/documents/pip-compliance/humira-epar-paediatric-investigation-plan-compliance-statement_en.pdf-2)
 
 Humira-H-C-481-II-0134 : EPAR - Assessment Report - Extension
 
-Adopted
-
-Reference Number: EMA/CHMP/177541/2015
+Adopted Reference Number: EMA/CHMP/177541/2015
 
 English (EN) (4 MB - PDF)
 
-**First published:** 12/05/2015
-
-**Last updated:** 12/05/2015
+**First published:** 12/05/2015 **Last updated:** 12/05/2015
 
 [View](/en/documents/variation-report/humira-h-c-481-ii-0134-epar-assessment-report-extension_en.pdf)
 
 CHMP post-authorisation summary of positive opinion for Humira
 
-Adopted
-
-Reference Number: EMA/CHMP/82703/2015
+Adopted Reference Number: EMA/CHMP/82703/2015
 
 English (EN) (78.65 KB - PDF)
 
-**First published:** 27/02/2015
-
-**Last updated:** 27/02/2015
+**First published:** 27/02/2015 **Last updated:** 27/02/2015
 
 [View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-humira_en.pdf-1)
 
@@ -1721,233 +1181,167 @@ Reference Number: EMA/CHMP/772726/2014
 
 English (EN) (67.2 KB - PDF)
 
-**First published:** 18/12/2014
-
-**Last updated:** 18/12/2014
+**First published:** 18/12/2014 **Last updated:** 18/12/2014
 
 [View](/en/documents/scientific-conclusion/humira-h-c-481-psuv-0131-epar-scientific-conclusions-and-grounds-recommending-variation-terms-marketing-authorisation_en.pdf)
 
 Humira-H-C-481-II-00127 : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/562197/2014
+Adopted Reference Number: EMA/562197/2014
 
 English (EN) (3.6 MB - PDF)
 
-**First published:** 14/10/2014
-
-**Last updated:** 14/10/2014
+**First published:** 14/10/2014 **Last updated:** 14/10/2014
 
 [View](/en/documents/variation-report/humira-h-c-481-ii-00127-epar-assessment-report-variation_en.pdf)
 
 Humira-H-C-481-II-0125 : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/CHMP/758439/2013
+Adopted Reference Number: EMA/CHMP/758439/2013
 
 English (EN) (630.91 KB - PDF)
 
-**First published:** 04/08/2014
-
-**Last updated:** 04/08/2014
+**First published:** 04/08/2014 **Last updated:** 04/08/2014
 
 [View](/en/documents/variation-report/humira-h-c-481-ii-0125-epar-assessment-report-variation_en.pdf)
 
 CHMP post-authorisation summary of positive opinion for Humira
 
-Adopted
-
-Reference Number: EMA/CHMP/438693/2014
+Adopted Reference Number: EMA/CHMP/438693/2014
 
 English (EN) (79.49 KB - PDF)
 
-**First published:** 25/07/2014
-
-**Last updated:** 25/07/2014
+**First published:** 25/07/2014 **Last updated:** 25/07/2014
 
 [View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-humira_en.pdf-4)
 
 Humira-H-C-481-II-0102 : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/76107/2013
+Adopted Reference Number: EMA/76107/2013
 
 English (EN) (446.8 KB - PDF)
 
-**First published:** 15/04/2013
-
-**Last updated:** 15/04/2013
+**First published:** 15/04/2013 **Last updated:** 15/04/2013
 
 [View](/en/documents/variation-report/humira-h-c-481-ii-0102-epar-assessment-report-variation_en.pdf)
 
 Humira-H-C-481-II-0088 : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/56352/2013
+Adopted Reference Number: EMA/56352/2013
 
 English (EN) (2.23 MB - PDF)
 
-**First published:** 04/02/2013
-
-**Last updated:** 04/02/2013
+**First published:** 04/02/2013 **Last updated:** 04/02/2013
 
 [View](/en/documents/variation-report/humira-h-c-481-ii-0088-epar-assessment-report-variation_en.pdf)
 
 CHMP post-authorisation summary of positive opinion for Humira
 
-Adopted
-
-Reference Number: EMA/CHMP/30243/2013
+Adopted Reference Number: EMA/CHMP/30243/2013
 
 English (EN) (78.78 KB - PDF)
 
-**First published:** 18/01/2013
-
-**Last updated:** 18/01/2013
+**First published:** 18/01/2013 **Last updated:** 18/01/2013
 
 [View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-humira_en.pdf-8)
 
 Humira-H-C-481-P46-0076 : EPAR - Assessment Report
 
-Adopted
-
-Reference Number: EMA/784100/2012
+Adopted Reference Number: EMA/784100/2012
 
 English (EN) (139.26 KB - PDF)
 
-**First published:** 14/12/2012
-
-**Last updated:** 14/12/2012
+**First published:** 14/12/2012 **Last updated:** 14/12/2012
 
 [View](/en/documents/variation-report/humira-h-c-481-p46-0076-epar-assessment-report_en.pdf)
 
 CHMP post-authorisation summary of positive opinion for Humira
 
-Adopted
-
-Reference Number: EMA/CHMP/674619/2012
+Adopted Reference Number: EMA/CHMP/674619/2012
 
 English (EN) (61.2 KB - PDF)
 
-**First published:** 19/10/2012
-
-**Last updated:** 19/10/2012
+**First published:** 19/10/2012 **Last updated:** 19/10/2012
 
 [View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-humira_en.pdf-2)
 
 Humira-H-C-481-II-0094: EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/CHMP/609117/2012
+Adopted Reference Number: EMA/CHMP/609117/2012
 
 English (EN) (697.06 KB - PDF)
 
-**First published:** 26/09/2012
-
-**Last updated:** 26/09/2012
+**First published:** 26/09/2012 **Last updated:** 26/09/2012
 
 [View](/en/documents/variation-report/humira-h-c-481-ii-0094-epar-assessment-report-variation_en.pdf)
 
 Humira-H-C-481-II-0085 : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/CHMP/220041/2012
+Adopted Reference Number: EMA/CHMP/220041/2012
 
 English (EN) (600.89 KB - PDF)
 
-**First published:** 11/09/2012
-
-**Last updated:** 11/09/2012
+**First published:** 11/09/2012 **Last updated:** 11/09/2012
 
 [View](/en/documents/variation-report/humira-h-c-481-ii-0085-epar-assessment-report-variation_en.pdf)
 
 CHMP post-authorisation summary of positive opinion for Humira
 
-Adopted
-
-Reference Number: EMA/CHMP/487292/2012
+Adopted Reference Number: EMA/CHMP/487292/2012
 
 English (EN) (60.35 KB - PDF)
 
-**First published:** 20/07/2012
-
-**Last updated:** 20/07/2012
+**First published:** 20/07/2012 **Last updated:** 20/07/2012
 
 [View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-humira_en.pdf-3)
 
 CHMP post-authorisation summary of positive opinion for Humira
 
-Adopted
-
-Reference Number: EMA/CHMP/422860/2012
+Adopted Reference Number: EMA/CHMP/422860/2012
 
 English (EN) (64.23 KB - PDF)
 
-**First published:** 22/06/2012
-
-**Last updated:** 22/06/2012
+**First published:** 22/06/2012 **Last updated:** 22/06/2012
 
 [View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-humira_en.pdf-9)
 
 Humira-H-C-481-II-0082 : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/217675/2012
+Adopted Reference Number: EMA/217675/2012
 
 English (EN) (2.11 MB - PDF)
 
-**First published:** 23/04/2012
-
-**Last updated:** 06/03/2013
+**First published:** 23/04/2012 **Last updated:** 06/03/2013
 
 [View](/en/documents/variation-report/humira-h-c-481-ii-0082-epar-assessment-report-variation_en.pdf)
 
 CHMP post-authorisation summary of positive opinion for Humira
 
-Adopted
-
-Reference Number: EMA/CHMP/120503/2012
+Adopted Reference Number: EMA/CHMP/120503/2012
 
 English (EN) (52.52 KB - PDF)
 
-**First published:** 17/02/2012
-
-**Last updated:** 17/02/2012
+**First published:** 17/02/2012 **Last updated:** 17/02/2012
 
 [View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-humira_en.pdf-0)
 
 Humira-H-C-481-II-0081-G : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/227628/2011
+Adopted Reference Number: EMA/227628/2011
 
 English (EN) (257.09 KB - PDF)
 
-**First published:** 19/05/2011
-
-**Last updated:** 19/05/2011
+**First published:** 19/05/2011 **Last updated:** 19/05/2011
 
 [View](/en/documents/variation-report/humira-h-c-481-ii-0081-g-epar-assessment-report-variation_en.pdf)
 
 CHMP post-authorisation summary of positive opinion for Humira
 
-Adopted
-
-Reference Number: CHMP post-authorisation summary of positive opinio
+Adopted Reference Number: CHMP post-authorisation summary of positive opinio
 
 English (EN) (130.49 KB - PDF)
 
-**First published:** 18/02/2011
-
-**Last updated:** 18/02/2011
+**First published:** 18/02/2011 **Last updated:** 18/02/2011
 
 [View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-humira_en.pdf-6)
 
@@ -1955,9 +1349,7 @@ Humira-H-C-481-II-39 : EPAR - Assessment Report - Variation
 
 English (EN) (228.8 KB - PDF)
 
-**First published:** 02/10/2008
-
-**Last updated:** 02/10/2008
+**First published:** 02/10/2008 **Last updated:** 02/10/2008
 
 [View](/en/documents/variation-report/humira-h-c-481-ii-39-epar-assessment-report-variation_en.pdf)
 
@@ -1967,9 +1359,7 @@ Adopted
 
 English (EN) (163.39 KB - PDF)
 
-**First published:** 19/02/2008
-
-**Last updated:** 19/02/2008
+**First published:** 19/02/2008 **Last updated:** 19/02/2008
 
 [View](/en/documents/scientific-discussion-variation/humira-h-c-481-ii-43-epar-scientific-discussion-variation_en.pdf)
 
@@ -1979,9 +1369,7 @@ Adopted
 
 English (EN) (237.55 KB - PDF)
 
-**First published:** 05/02/2008
-
-**Last updated:** 05/02/2008
+**First published:** 05/02/2008 **Last updated:** 05/02/2008
 
 [View](/en/documents/scientific-discussion-variation/humira-h-c-481-ii-38-epar-scientific-discussion-variation_en.pdf)
 
@@ -1991,9 +1379,7 @@ Adopted
 
 English (EN) (215.67 KB - PDF)
 
-**First published:** 02/07/2007
-
-**Last updated:** 02/07/2007
+**First published:** 02/07/2007 **Last updated:** 02/07/2007
 
 [View](/en/documents/scientific-discussion-variation/humira-h-c-481-ii-33-epar-scientific-discussion-variation_en.pdf)
 
@@ -2003,9 +1389,7 @@ Adopted
 
 English (EN) (182.31 KB - PDF)
 
-**First published:** 31/07/2006
-
-**Last updated:** 31/07/2006
+**First published:** 31/07/2006 **Last updated:** 31/07/2006
 
 [View](/en/documents/scientific-discussion-variation/humira-h-c-481-ii-26-epar-scientific-discussion-variation_en.pdf)
 
@@ -2015,9 +1399,7 @@ Adopted
 
 English (EN) (195.26 KB - PDF)
 
-**First published:** 30/03/2006
-
-**Last updated:** 30/03/2006
+**First published:** 30/03/2006 **Last updated:** 30/03/2006
 
 [View](/en/documents/scientific-discussion-variation/humira-h-c-481-ii-22-epar-scientific-discussion-variation_en.pdf)
 
@@ -2027,9 +1409,7 @@ Adopted
 
 English (EN) (185.94 KB - PDF)
 
-**First published:** 30/03/2006
-
-**Last updated:** 30/03/2006
+**First published:** 30/03/2006 **Last updated:** 30/03/2006
 
 [View](/en/documents/scientific-discussion-variation/humira-h-c-481-ii-06-epar-scientific-discussion-variation_en.pdf)
 
@@ -2039,9 +1419,7 @@ Adopted
 
 English (EN) (183.37 KB - PDF)
 
-**First published:** 30/03/2006
-
-**Last updated:** 30/03/2006
+**First published:** 30/03/2006 **Last updated:** 30/03/2006
 
 [View](/en/documents/scientific-discussion-variation/humira-h-c-481-ii-21-epar-scientific-discussion-variation_en.pdf)
 
@@ -2051,9 +1429,7 @@ Humira : EPAR - Procedural steps taken before authorisation
 
 English (EN) (86.2 KB - PDF)
 
-**First published:** 30/03/2006
-
-**Last updated:** 30/03/2006
+**First published:** 30/03/2006 **Last updated:** 30/03/2006
 
 [View](/en/documents/procedural-steps/humira-epar-procedural-steps-taken-authorisation_en.pdf)
 
@@ -2061,45 +1437,73 @@ Humira : EPAR - Scientific Discussion
 
 English (EN) (345.39 KB - PDF)
 
-**First published:** 30/03/2006
-
-**Last updated:** 30/03/2006
+**First published:** 30/03/2006 **Last updated:** 30/03/2006
 
 [View](/en/documents/scientific-discussion/humira-epar-scientific-discussion_en.pdf)
 
-#### News on Humira
+## News on Humira
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 12-15 October 2020](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-12-15-october-2020) 16/10/2020
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 12-15 October 2020](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-12-15-october-2020)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 17-20 July 2017](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-17-20-july-2017) 21/07/2017
+16/10/2020
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 7-10 November 2016](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-7-10-november-2016) 11/11/2016
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 17-20 July 2017](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-17-20-july-2017)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 23-26 May 2016](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-23-26-may-2016) 27/05/2016
+21/07/2017
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 29 March - 1 April 2016](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-29-march-1-april-2016) 01/04/2016
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 7-10 November 2016](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-7-10-november-2016)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 22-25 February 2016](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-22-25-february-2016) 26/02/2016
+11/11/2016
 
-[First medicine recommended for approval for hidradenitis suppurativa](/en/news/first-medicine-recommended-approval-hidradenitis-suppurativa) 26/06/2015
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 23-26 May 2016](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-23-26-may-2016)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 22-25 June 2015](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-22-25-june-2015) 26/06/2015
+27/05/2016
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 23-26 February 2015](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-23-26-february-2015) 27/02/2015
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 29 March - 1 April 2016](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-29-march-1-april-2016)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 21-24 July 2014](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-21-24-july-2014) 25/07/2014
+01/04/2016
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 14-17 January 2013](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-14-17-january-2013) 18/01/2013
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 22-25 February 2016](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-22-25-february-2016)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 15-18 October 2012](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-15-18-october-2012) 19/10/2012
+26/02/2016
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 16-19 July 2012](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-16-19-july-2012) 20/07/2012
+[First medicine recommended for approval for hidradenitis suppurativa](/en/news/first-medicine-recommended-approval-hidradenitis-suppurativa)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 18-21 June 2012](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-18-21-june-2012) 22/06/2012
+26/06/2015
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 13-16 February 2012](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-13-16-february-2012) 17/02/2012
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 22-25 June 2015](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-22-25-june-2015)
 
-#### Product information - with tracked changes
+26/06/2015
+
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 23-26 February 2015](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-23-26-february-2015)
+
+27/02/2015
+
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 21-24 July 2014](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-21-24-july-2014)
+
+25/07/2014
+
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 14-17 January 2013](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-14-17-january-2013)
+
+18/01/2013
+
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 15-18 October 2012](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-15-18-october-2012)
+
+19/10/2012
+
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 16-19 July 2012](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-16-19-july-2012)
+
+20/07/2012
+
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 18-21 June 2012](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-18-21-june-2012)
+
+22/06/2012
+
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 13-16 February 2012](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-13-16-february-2012)
+
+17/02/2012
+
+## Product information - with tracked changes
 
 The approved product information for this medicine is available below showing the changes since the previous procedure affecting the product information. The same document without tracked changes is above under 'Product information'.
 
@@ -2111,197 +1515,149 @@ English (EN) (3.09 MB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/humira-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-518)
+[Other languages (24)](#file-language-dropdown-724)
 
 български (BG) (3.42 MB - DOCX)
 
-**First published:**
-
-08/10/2025
+**First published:** 08/10/2025
 
 [View](/bg/documents/product-information-tracked-changes/humira-epar-product-information-tracked-changes_bg.docx)
 
 español (ES) (3.22 MB - DOCX)
 
-**First published:**
-
-08/10/2025
+**First published:** 08/10/2025
 
 [View](/es/documents/product-information-tracked-changes/humira-epar-product-information-tracked-changes_es.docx)
 
 čeština (CS) (3.35 MB - DOCX)
 
-**First published:**
-
-08/10/2025
+**First published:** 08/10/2025
 
 [View](/cs/documents/product-information-tracked-changes/humira-epar-product-information-tracked-changes_cs.docx)
 
 dansk (DA) (3.03 MB - DOCX)
 
-**First published:**
-
-08/10/2025
+**First published:** 08/10/2025
 
 [View](/da/documents/product-information-tracked-changes/humira-epar-product-information-tracked-changes_da.docx)
 
 Deutsch (DE) (2.73 MB - DOCX)
 
-**First published:**
-
-08/10/2025
+**First published:** 08/10/2025
 
 [View](/de/documents/product-information-tracked-changes/humira-epar-product-information-tracked-changes_de.docx)
 
 eesti keel (ET) (3.2 MB - DOCX)
 
-**First published:**
-
-08/10/2025
+**First published:** 08/10/2025
 
 [View](/et/documents/product-information-tracked-changes/humira-epar-product-information-tracked-changes_et.docx)
 
 ελληνικά (EL) (3.56 MB - DOCX)
 
-**First published:**
-
-08/10/2025
+**First published:** 08/10/2025
 
 [View](/el/documents/product-information-tracked-changes/humira-epar-product-information-tracked-changes_el.docx)
 
 français (FR) (3.38 MB - DOCX)
 
-**First published:**
-
-08/10/2025
+**First published:** 08/10/2025
 
 [View](/fr/documents/product-information-tracked-changes/humira-epar-product-information-tracked-changes_fr.docx)
 
 hrvatski (HR) (3.3 MB - DOCX)
 
-**First published:**
-
-08/10/2025
+**First published:** 08/10/2025
 
 [View](/hr/documents/product-information-tracked-changes/humira-epar-product-information-tracked-changes_hr.docx)
 
 íslenska (IS) (3.12 MB - DOCX)
 
-**First published:**
-
-08/10/2025
+**First published:** 08/10/2025
 
 [View](/is/documents/product-information-tracked-changes/humira-epar-product-information-tracked-changes_is.docx)
 
 italiano (IT) (2.77 MB - DOCX)
 
-**First published:**
-
-08/10/2025
+**First published:** 08/10/2025
 
 [View](/it/documents/product-information-tracked-changes/humira-epar-product-information-tracked-changes_it.docx)
 
 latviešu valoda (LV) (4.14 MB - DOCX)
 
-**First published:**
-
-08/10/2025
+**First published:** 08/10/2025
 
 [View](/lv/documents/product-information-tracked-changes/humira-epar-product-information-tracked-changes_lv.docx)
 
 lietuvių kalba (LT) (3.38 MB - DOCX)
 
-**First published:**
-
-08/10/2025
+**First published:** 08/10/2025
 
 [View](/lt/documents/product-information-tracked-changes/humira-epar-product-information-tracked-changes_lt.docx)
 
 magyar (HU) (3.3 MB - DOCX)
 
-**First published:**
-
-08/10/2025
+**First published:** 08/10/2025
 
 [View](/hu/documents/product-information-tracked-changes/humira-epar-product-information-tracked-changes_hu.docx)
 
 Malti (MT) (3.29 MB - DOCX)
 
-**First published:**
-
-08/10/2025
+**First published:** 08/10/2025
 
 [View](/mt/documents/product-information-tracked-changes/humira-epar-product-information-tracked-changes_mt.docx)
 
 Nederlands (NL) (2.61 MB - DOCX)
 
-**First published:**
-
-08/10/2025
+**First published:** 08/10/2025
 
 [View](/nl/documents/product-information-tracked-changes/humira-epar-product-information-tracked-changes_nl.docx)
 
 norsk (NO) (3.28 MB - DOCX)
 
-**First published:**
-
-08/10/2025
+**First published:** 08/10/2025
 
 [View](/no/documents/product-information-tracked-changes/humira-epar-product-information-tracked-changes_no.docx)
 
 polski (PL) (3.6 MB - DOCX)
 
-**First published:**
-
-08/10/2025
+**First published:** 08/10/2025
 
 [View](/pl/documents/product-information-tracked-changes/humira-epar-product-information-tracked-changes_pl.docx)
 
 português (PT) (3.24 MB - DOCX)
 
-**First published:**
-
-08/10/2025
+**First published:** 08/10/2025
 
 [View](/pt/documents/product-information-tracked-changes/humira-epar-product-information-tracked-changes_pt.docx)
 
 română (RO) (2.74 MB - DOCX)
 
-**First published:**
-
-08/10/2025
+**First published:** 08/10/2025
 
 [View](/ro/documents/product-information-tracked-changes/humira-epar-product-information-tracked-changes_ro.docx)
 
 slovenčina (SK) (3.42 MB - DOCX)
 
-**First published:**
-
-08/10/2025
+**First published:** 08/10/2025
 
 [View](/sk/documents/product-information-tracked-changes/humira-epar-product-information-tracked-changes_sk.docx)
 
 slovenščina (SL) (3.2 MB - DOCX)
 
-**First published:**
-
-08/10/2025
+**First published:** 08/10/2025
 
 [View](/sl/documents/product-information-tracked-changes/humira-epar-product-information-tracked-changes_sl.docx)
 
 Suomi (FI) (2.71 MB - DOCX)
 
-**First published:**
-
-08/10/2025
+**First published:** 08/10/2025
 
 [View](/fi/documents/product-information-tracked-changes/humira-epar-product-information-tracked-changes_fi.docx)
 
 svenska (SV) (3.27 MB - DOCX)
 
-**First published:**
-
-08/10/2025
+**First published:** 08/10/2025
 
 [View](/sv/documents/product-information-tracked-changes/humira-epar-product-information-tracked-changes_sv.docx)
 
@@ -2310,24 +1666,24 @@ svenska (SV) (3.27 MB - DOCX)
 - [Clinical data](https://clinicaldata.ema.europa.eu/web/cdp/home?p_p_id=cdpdossierviewportlet_WAR_cdpdossierviewportlet=0=maximized=view=column-3=2=EMEAHC000481II0146) (variation II/0146)
 - [Clinical data](https://clinicaldata.ema.europa.eu/web/cdp/home?p_p_id=cdpdossierviewportlet_WAR_cdpdossierviewportlet=0=maximized=view=column-3=2=EMEAHC000481II0154) (variation II/0154)
 
-#### More information on Humira
+## More information on Humira
 
 - [EMEA-000366-PIP02-09-M06 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-000366-pip02-09-m06)
 - [EMEA-000366-PIP01-08-M06 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-000366-pip01-08-m06)
 - [EMEA-000366-PIP04-12 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-000366-pip04-12)
 - [EMEA-000366-PIP05-12-M02 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-000366-pip05-12-m02)
+- [A 10-Year, Post-marketing, Observational Study to Assess Long Term Safety of HUMIRA® (Adalimumab) in Adult Patients With Chronic Plaque Psoriasis (PS) (ESPRIT) - post-authorisation study](https://catalogues.ema.europa.eu/study/48814)
+- [A Long-Term Non-Interventional Registry to Assess Safety and Effectiveness of HUMIRA (adalimumab) in Pediatric Patients with Moderately to Severely Active Crohn's Disease (CD) - CAPE - post-authorisation study](https://catalogues.ema.europa.eu/study/48820)
 - [A Long-term, Multi-center, Longitudinal Post-marketing, Observational Study to Assess Long Term Safety and Effectiveness of HUMIRA® (Adalimumab) in Children With Moderately to Severely Active Polyarticular or Polyarticular-course Juvenile Idiopathic Arthritis (JIA) (STRIVE) - post-authorisation study](https://catalogues.ema.europa.eu/study/48817)
 - [Shortening the time to confirm or to rebut Adverse events of interest related to innovative Therapies for immune-mediated inflammATory dIseases: cross-talking between different data sOURces. SATURATIOn study. - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000207)
-- [A 10-Year, Post-marketing, Observational Study to Assess Long Term Safety of HUMIRA® (Adalimumab) in Adult Patients With Chronic Plaque Psoriasis (PS) (ESPRIT) - post-authorisation study](https://catalogues.ema.europa.eu/study/48814)
 - [An Observational Study of Xeljanz® (tofacitinib citrate) and Biologic Rheumatoid Arthritis Treatments to Characterize their General Treatment Patterns, Effectiveness and Safety in a Real-World Taiwanese Population - post-authorisation study](https://catalogues.ema.europa.eu/study/48622)
-- [A Long-Term Non-Interventional Registry to Assess Safety and Effectiveness of HUMIRA (adalimumab) in Pediatric Patients with Moderately to Severely Active Crohn's Disease (CD) - CAPE - post-authorisation study](https://catalogues.ema.europa.eu/study/48820)
 
-#### Topics
+## Topics
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 08/10/2025
+**This page was last updated on**
+
+07/05/2026
 
 ## Share this page
-
-[Back to top](#main-content)

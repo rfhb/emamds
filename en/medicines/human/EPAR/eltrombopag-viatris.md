@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-02-05 17:30:00
+document_datetime: 2026-05-07 17:40:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/eltrombopag-viatris.html
 document_name: eltrombopag-viatris.html
 version: success
-processing_time: 0.0948738
-conversion_datetime: 2026-02-09 22:31:51.063398
+processing_time: 0.1093193
+conversion_datetime: 2026-05-10 13:01:44.478742
 docling_version:
-  docling-serve: 1.12.0
-  docling-jobkit: 1.10.1
-  docling: 2.72.0
-  docling-core: 2.63.0
-  docling-ibm-models: 3.11.0
-  docling-parse: 4.7.3
+  docling-serve: 1.17.0
+  docling-jobkit: 1.18.0
+  docling: 2.92.0
+  docling-core: 2.74.1
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.10.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 # Search
 
@@ -57,6 +57,7 @@ docling_version:
     - [Publications](/en/news-and-events/publications)
     - [Press and social media](/en/news-events/press-social-media)
     - [Podcast: Inside EMA](/en/news-events/podcast-inside-ema)
+    - [EMA Campaigns](/en/news-events/ema-campaigns)
     - [Open consultations](/en/news-events/open-consultations)
     - [RSS feeds](/en/news-events/rss-feeds)
 - [Partners &amp; networks](/en/partners-networks)
@@ -83,7 +84,6 @@ docling_version:
     - [History of EMA](/en/about-us/history-ema)
     - [Careers](/en/about-us/careers)
     - [Procurement](/en/about-us/procurement-grants)
-    - [Glossaries](/en/about-us/glossaries)
     - [About this website](/en/about-us/about-website)
     - [Data protection and privacy](/en/about-us/data-protection-privacy-ema)
     - [Contacts](/en/about-us/contacts-european-medicines-agency)
@@ -96,11 +96,13 @@ docling_version:
 
 [RSS](/en/individual-human-medicine.xml/250699)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-eltrombopag Medicine Human Authorised
+eltrombopag
+
+Medicine Human Authorised
 
 Page contents
 
@@ -124,7 +126,7 @@ Eltrombopag Viatris is a medicine that is used for the treatment of:
 - primary immune thrombocytopenia (ITP), a disease in which the patient's immune system destroys platelets (components in the blood that help it to clot). Patients with ITP have low platelet counts in the blood (thrombocytopenia) and are at risk of bleeding. Eltrombopag Viatris is used in patients from 1 year of age for whom treatment with medicines such as corticosteroids or immunoglobulins has not worked. In children and adolescents, the medicine is used when they have had the disease for at least 6 months;
 - thrombocytopenia in adults with chronic (long-term) hepatitis C, a liver disease caused by the hepatitis C virus. Eltrombopag Viatris is used when the thrombocytopenia is too severe to allow interferon-based therapy (a type of treatment for hepatitis C).
 
-Eltrombopag Viatris contains the active substance eltrombopag and is a 'generic medicine'. This means that Eltrombopag Viatris contains the same active substance and works in the same way as a 'reference medicine' already authorised in the EU. The reference medicine for Eltrombopag Viatris is Revolade. For more information on generic medicines, see the question-and-answer document [here](https://www.ema.europa.eu/en/documents/other/questions-and-answers-generic-medicines_en.pdf) .
+Eltrombopag Viatris contains the active substance eltrombopag and is a 'generic medicine'. This means that Eltrombopag Viatris contains the same active substance and works in the same way as a 'reference medicine' already authorised in the EU. The reference medicine for Eltrombopag Viatris is Revolade.
 
 Expand section
 
@@ -176,181 +178,137 @@ English (EN) (167 KB - PDF)
 
 [View](/en/documents/overview/eltrombopag-viatris-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-135)
+[Other languages (22)](#file-language-dropdown-414)
 
 български (BG) (191.02 KB - PDF)
 
-**First published:**
-
-21/01/2025
+**First published:** 21/01/2025
 
 [View](/bg/documents/overview/eltrombopag-viatris-epar-medicine-overview_bg.pdf)
 
 español (ES) (168.17 KB - PDF)
 
-**First published:**
-
-21/01/2025
+**First published:** 21/01/2025
 
 [View](/es/documents/overview/eltrombopag-viatris-epar-medicine-overview_es.pdf)
 
 čeština (CS) (187.58 KB - PDF)
 
-**First published:**
-
-21/01/2025
+**First published:** 21/01/2025
 
 [View](/cs/documents/overview/eltrombopag-viatris-epar-medicine-overview_cs.pdf)
 
 dansk (DA) (166.25 KB - PDF)
 
-**First published:**
-
-21/01/2025
+**First published:** 21/01/2025
 
 [View](/da/documents/overview/eltrombopag-viatris-epar-medicine-overview_da.pdf)
 
 Deutsch (DE) (170.5 KB - PDF)
 
-**First published:**
-
-21/01/2025
+**First published:** 21/01/2025
 
 [View](/de/documents/overview/eltrombopag-viatris-epar-medicine-overview_de.pdf)
 
 eesti keel (ET) (164.59 KB - PDF)
 
-**First published:**
-
-21/01/2025
+**First published:** 21/01/2025
 
 [View](/et/documents/overview/eltrombopag-viatris-epar-medicine-overview_et.pdf)
 
 ελληνικά (EL) (192.26 KB - PDF)
 
-**First published:**
-
-21/01/2025
+**First published:** 21/01/2025
 
 [View](/el/documents/overview/eltrombopag-viatris-epar-medicine-overview_el.pdf)
 
 français (FR) (169.55 KB - PDF)
 
-**First published:**
-
-21/01/2025
+**First published:** 21/01/2025
 
 [View](/fr/documents/overview/eltrombopag-viatris-epar-medicine-overview_fr.pdf)
 
 hrvatski (HR) (185.95 KB - PDF)
 
-**First published:**
-
-21/01/2025
+**First published:** 21/01/2025
 
 [View](/hr/documents/overview/eltrombopag-viatris-epar-medicine-overview_hr.pdf)
 
 italiano (IT) (165.65 KB - PDF)
 
-**First published:**
-
-21/01/2025
+**First published:** 21/01/2025
 
 [View](/it/documents/overview/eltrombopag-viatris-epar-medicine-overview_it.pdf)
 
 latviešu valoda (LV) (197.46 KB - PDF)
 
-**First published:**
-
-21/01/2025
+**First published:** 21/01/2025
 
 [View](/lv/documents/overview/eltrombopag-viatris-epar-medicine-overview_lv.pdf)
 
 lietuvių kalba (LT) (187.35 KB - PDF)
 
-**First published:**
-
-21/01/2025
+**First published:** 21/01/2025
 
 [View](/lt/documents/overview/eltrombopag-viatris-epar-medicine-overview_lt.pdf)
 
 magyar (HU) (188.87 KB - PDF)
 
-**First published:**
-
-21/01/2025
+**First published:** 21/01/2025
 
 [View](/hu/documents/overview/eltrombopag-viatris-epar-medicine-overview_hu.pdf)
 
 Malti (MT) (190.39 KB - PDF)
 
-**First published:**
-
-21/01/2025
+**First published:** 21/01/2025
 
 [View](/mt/documents/overview/eltrombopag-viatris-epar-medicine-overview_mt.pdf)
 
 Nederlands (NL) (167.97 KB - PDF)
 
-**First published:**
-
-21/01/2025
+**First published:** 21/01/2025
 
 [View](/nl/documents/overview/eltrombopag-viatris-epar-medicine-overview_nl.pdf)
 
 polski (PL) (191.49 KB - PDF)
 
-**First published:**
-
-21/01/2025
+**First published:** 21/01/2025
 
 [View](/pl/documents/overview/eltrombopag-viatris-epar-medicine-overview_pl.pdf)
 
 português (PT) (167.71 KB - PDF)
 
-**First published:**
-
-21/01/2025
+**First published:** 21/01/2025
 
 [View](/pt/documents/overview/eltrombopag-viatris-epar-medicine-overview_pt.pdf)
 
 română (RO) (185.61 KB - PDF)
 
-**First published:**
-
-21/01/2025
+**First published:** 21/01/2025
 
 [View](/ro/documents/overview/eltrombopag-viatris-epar-medicine-overview_ro.pdf)
 
 slovenčina (SK) (188 KB - PDF)
 
-**First published:**
-
-21/01/2025
+**First published:** 21/01/2025
 
 [View](/sk/documents/overview/eltrombopag-viatris-epar-medicine-overview_sk.pdf)
 
 slovenščina (SL) (185.31 KB - PDF)
 
-**First published:**
-
-21/01/2025
+**First published:** 21/01/2025
 
 [View](/sl/documents/overview/eltrombopag-viatris-epar-medicine-overview_sl.pdf)
 
 Suomi (FI) (165.13 KB - PDF)
 
-**First published:**
-
-21/01/2025
+**First published:** 21/01/2025
 
 [View](/fi/documents/overview/eltrombopag-viatris-epar-medicine-overview_fi.pdf)
 
 svenska (SV) (165.39 KB - PDF)
 
-**First published:**
-
-21/01/2025
+**First published:** 21/01/2025
 
 [View](/sv/documents/overview/eltrombopag-viatris-epar-medicine-overview_sv.pdf)
 
@@ -366,305 +324,161 @@ English (EN) (496.88 KB - PDF)
 
 Eltrombopag Viatris : EPAR - Product information
 
-English (EN) (1004.48 KB - PDF)
+English (EN) (974.45 KB - PDF)
 
-**First published:** 21/01/2025
-
-**Last updated:** 05/02/2026
+**First published:** 21/01/2025 **Last updated:** 07/05/2026
 
 [View](/en/documents/product-information/eltrombopag-viatris-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-74)
+[Other languages (24)](#file-language-dropdown-516)
 
-български (BG) (980.13 KB - PDF)
+български (BG) (859.4 KB - PDF)
 
-**First published:**
-
-21/01/2025
-
-**Last updated:**
-
-05/02/2026
+**First published:** 21/01/2025 **Last updated:** 07/05/2026
 
 [View](/bg/documents/product-information/eltrombopag-viatris-epar-product-information_bg.pdf)
 
-español (ES) (665.38 KB - PDF)
+español (ES) (601.14 KB - PDF)
 
-**First published:**
-
-21/01/2025
-
-**Last updated:**
-
-05/02/2026
+**First published:** 21/01/2025 **Last updated:** 07/05/2026
 
 [View](/es/documents/product-information/eltrombopag-viatris-epar-product-information_es.pdf)
 
-čeština (CS) (925.03 KB - PDF)
+čeština (CS) (730.6 KB - PDF)
 
-**First published:**
-
-21/01/2025
-
-**Last updated:**
-
-05/02/2026
+**First published:** 21/01/2025 **Last updated:** 07/05/2026
 
 [View](/cs/documents/product-information/eltrombopag-viatris-epar-product-information_cs.pdf)
 
-dansk (DA) (816.86 KB - PDF)
+dansk (DA) (605.87 KB - PDF)
 
-**First published:**
-
-21/01/2025
-
-**Last updated:**
-
-05/02/2026
+**First published:** 21/01/2025 **Last updated:** 07/05/2026
 
 [View](/da/documents/product-information/eltrombopag-viatris-epar-product-information_da.pdf)
 
-Deutsch (DE) (848.66 KB - PDF)
+Deutsch (DE) (624.84 KB - PDF)
 
-**First published:**
-
-21/01/2025
-
-**Last updated:**
-
-05/02/2026
+**First published:** 21/01/2025 **Last updated:** 07/05/2026
 
 [View](/de/documents/product-information/eltrombopag-viatris-epar-product-information_de.pdf)
 
-eesti keel (ET) (701.58 KB - PDF)
+eesti keel (ET) (554.84 KB - PDF)
 
-**First published:**
-
-21/01/2025
-
-**Last updated:**
-
-05/02/2026
+**First published:** 21/01/2025 **Last updated:** 07/05/2026
 
 [View](/et/documents/product-information/eltrombopag-viatris-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1020.59 KB - PDF)
+ελληνικά (EL) (851.31 KB - PDF)
 
-**First published:**
-
-21/01/2025
-
-**Last updated:**
-
-05/02/2026
+**First published:** 21/01/2025 **Last updated:** 07/05/2026
 
 [View](/el/documents/product-information/eltrombopag-viatris-epar-product-information_el.pdf)
 
-français (FR) (484.71 KB - PDF)
+français (FR) (622.49 KB - PDF)
 
-**First published:**
-
-21/01/2025
-
-**Last updated:**
-
-05/02/2026
+**First published:** 21/01/2025 **Last updated:** 07/05/2026
 
 [View](/fr/documents/product-information/eltrombopag-viatris-epar-product-information_fr.pdf)
 
-hrvatski (HR) (908.14 KB - PDF)
+hrvatski (HR) (620.4 KB - PDF)
 
-**First published:**
-
-21/01/2025
-
-**Last updated:**
-
-05/02/2026
+**First published:** 21/01/2025 **Last updated:** 07/05/2026
 
 [View](/hr/documents/product-information/eltrombopag-viatris-epar-product-information_hr.pdf)
 
-íslenska (IS) (753.86 KB - PDF)
+íslenska (IS) (556.9 KB - PDF)
 
-**First published:**
-
-21/01/2025
-
-**Last updated:**
-
-05/02/2026
+**First published:** 21/01/2025 **Last updated:** 07/05/2026
 
 [View](/is/documents/product-information/eltrombopag-viatris-epar-product-information_is.pdf)
 
-italiano (IT) (771.67 KB - PDF)
+italiano (IT) (580.32 KB - PDF)
 
-**First published:**
-
-21/01/2025
-
-**Last updated:**
-
-05/02/2026
+**First published:** 21/01/2025 **Last updated:** 07/05/2026
 
 [View](/it/documents/product-information/eltrombopag-viatris-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (762.42 KB - PDF)
+latviešu valoda (LV) (788.6 KB - PDF)
 
-**First published:**
-
-21/01/2025
-
-**Last updated:**
-
-05/02/2026
+**First published:** 21/01/2025 **Last updated:** 07/05/2026
 
 [View](/lv/documents/product-information/eltrombopag-viatris-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (793.2 KB - PDF)
+lietuvių kalba (LT) (782.87 KB - PDF)
 
-**First published:**
-
-21/01/2025
-
-**Last updated:**
-
-05/02/2026
+**First published:** 21/01/2025 **Last updated:** 07/05/2026
 
 [View](/lt/documents/product-information/eltrombopag-viatris-epar-product-information_lt.pdf)
 
-magyar (HU) (1020.71 KB - PDF)
+magyar (HU) (697.25 KB - PDF)
 
-**First published:**
-
-21/01/2025
-
-**Last updated:**
-
-05/02/2026
+**First published:** 21/01/2025 **Last updated:** 07/05/2026
 
 [View](/hu/documents/product-information/eltrombopag-viatris-epar-product-information_hu.pdf)
 
-Malti (MT) (1.02 MB - PDF)
+Malti (MT) (719.2 KB - PDF)
 
-**First published:**
-
-21/01/2025
-
-**Last updated:**
-
-05/02/2026
+**First published:** 21/01/2025 **Last updated:** 07/05/2026
 
 [View](/mt/documents/product-information/eltrombopag-viatris-epar-product-information_mt.pdf)
 
-Nederlands (NL) (920.18 KB - PDF)
+Nederlands (NL) (615.02 KB - PDF)
 
-**First published:**
-
-21/01/2025
-
-**Last updated:**
-
-05/02/2026
+**First published:** 21/01/2025 **Last updated:** 07/05/2026
 
 [View](/nl/documents/product-information/eltrombopag-viatris-epar-product-information_nl.pdf)
 
-norsk (NO) (589.76 KB - PDF)
+norsk (NO) (582.58 KB - PDF)
 
-**First published:**
-
-21/01/2025
-
-**Last updated:**
-
-05/02/2026
+**First published:** 21/01/2025 **Last updated:** 07/05/2026
 
 [View](/no/documents/product-information/eltrombopag-viatris-epar-product-information_no.pdf)
 
-polski (PL) (841.5 KB - PDF)
+polski (PL) (769.41 KB - PDF)
 
-**First published:**
-
-21/01/2025
-
-**Last updated:**
-
-05/02/2026
+**First published:** 21/01/2025 **Last updated:** 07/05/2026
 
 [View](/pl/documents/product-information/eltrombopag-viatris-epar-product-information_pl.pdf)
 
-português (PT) (468.7 KB - PDF)
+português (PT) (603.48 KB - PDF)
 
-**First published:**
-
-21/01/2025
-
-**Last updated:**
-
-05/02/2026
+**First published:** 21/01/2025 **Last updated:** 07/05/2026
 
 [View](/pt/documents/product-information/eltrombopag-viatris-epar-product-information_pt.pdf)
 
-română (RO) (1.14 MB - PDF)
+română (RO) (675.45 KB - PDF)
 
-**First published:**
-
-21/01/2025
-
-**Last updated:**
-
-05/02/2026
+**First published:** 21/01/2025 **Last updated:** 07/05/2026
 
 [View](/ro/documents/product-information/eltrombopag-viatris-epar-product-information_ro.pdf)
 
-slovenčina (SK) (950.39 KB - PDF)
+slovenčina (SK) (676.66 KB - PDF)
 
-**First published:**
-
-21/01/2025
-
-**Last updated:**
-
-05/02/2026
+**First published:** 21/01/2025 **Last updated:** 07/05/2026
 
 [View](/sk/documents/product-information/eltrombopag-viatris-epar-product-information_sk.pdf)
 
-slovenščina (SL) (600.52 KB - PDF)
+slovenščina (SL) (688.67 KB - PDF)
 
-**First published:**
-
-21/01/2025
-
-**Last updated:**
-
-05/02/2026
+**First published:** 21/01/2025 **Last updated:** 07/05/2026
 
 [View](/sl/documents/product-information/eltrombopag-viatris-epar-product-information_sl.pdf)
 
-Suomi (FI) (801.4 KB - PDF)
+Suomi (FI) (576.14 KB - PDF)
 
-**First published:**
-
-21/01/2025
-
-**Last updated:**
-
-05/02/2026
+**First published:** 21/01/2025 **Last updated:** 07/05/2026
 
 [View](/fi/documents/product-information/eltrombopag-viatris-epar-product-information_fi.pdf)
 
-svenska (SV) (634.99 KB - PDF)
+svenska (SV) (636.31 KB - PDF)
 
-**First published:**
-
-21/01/2025
-
-**Last updated:**
-
-05/02/2026
+**First published:** 21/01/2025 **Last updated:** 07/05/2026
 
 [View](/sv/documents/product-information/eltrombopag-viatris-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000323909 05/02/2026
+**Latest procedure affecting product information:** VR/0000325156
+
+05/05/2026
 
 icon globe
 
@@ -684,305 +498,177 @@ Eltrombopag Viatris : EPAR - All authorised presentations
 
 English (EN) (96.88 KB - PDF)
 
-**First published:** 21/01/2025
-
-**Last updated:** 06/03/2025
+**First published:** 21/01/2025 **Last updated:** 06/03/2025
 
 [View](/en/documents/all-authorised-presentations/eltrombopag-viatris-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-183)
+[Other languages (24)](#file-language-dropdown-687)
 
 български (BG) (81.4 KB - PDF)
 
-**First published:**
-
-21/01/2025
-
-**Last updated:**
-
-06/03/2025
+**First published:** 21/01/2025 **Last updated:** 06/03/2025
 
 [View](/bg/documents/all-authorised-presentations/eltrombopag-viatris-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (85.19 KB - PDF)
 
-**First published:**
-
-21/01/2025
-
-**Last updated:**
-
-06/03/2025
+**First published:** 21/01/2025 **Last updated:** 06/03/2025
 
 [View](/es/documents/all-authorised-presentations/eltrombopag-viatris-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (78.65 KB - PDF)
 
-**First published:**
-
-21/01/2025
-
-**Last updated:**
-
-06/03/2025
+**First published:** 21/01/2025 **Last updated:** 06/03/2025
 
 [View](/cs/documents/all-authorised-presentations/eltrombopag-viatris-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (17.13 KB - PDF)
 
-**First published:**
-
-21/01/2025
-
-**Last updated:**
-
-06/03/2025
+**First published:** 21/01/2025 **Last updated:** 06/03/2025
 
 [View](/da/documents/all-authorised-presentations/eltrombopag-viatris-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (57.22 KB - PDF)
 
-**First published:**
-
-21/01/2025
-
-**Last updated:**
-
-06/03/2025
+**First published:** 21/01/2025 **Last updated:** 06/03/2025
 
 [View](/de/documents/all-authorised-presentations/eltrombopag-viatris-epar-all-authorised-presentations_de.pdf)
 
 eesti keel (ET) (37.14 KB - PDF)
 
-**First published:**
-
-21/01/2025
-
-**Last updated:**
-
-06/03/2025
+**First published:** 21/01/2025 **Last updated:** 06/03/2025
 
 [View](/et/documents/all-authorised-presentations/eltrombopag-viatris-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (77.85 KB - PDF)
 
-**First published:**
-
-21/01/2025
-
-**Last updated:**
-
-06/03/2025
+**First published:** 21/01/2025 **Last updated:** 06/03/2025
 
 [View](/el/documents/all-authorised-presentations/eltrombopag-viatris-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (53.33 KB - PDF)
 
-**First published:**
-
-21/01/2025
-
-**Last updated:**
-
-06/03/2025
+**First published:** 21/01/2025 **Last updated:** 06/03/2025
 
 [View](/fr/documents/all-authorised-presentations/eltrombopag-viatris-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (77.37 KB - PDF)
 
-**First published:**
-
-21/01/2025
-
-**Last updated:**
-
-06/03/2025
+**First published:** 21/01/2025 **Last updated:** 06/03/2025
 
 [View](/hr/documents/all-authorised-presentations/eltrombopag-viatris-epar-all-authorised-presentations_hr.pdf)
 
 íslenska (IS) (12.26 KB - PDF)
 
-**First published:**
-
-21/01/2025
-
-**Last updated:**
-
-06/03/2025
+**First published:** 21/01/2025 **Last updated:** 06/03/2025
 
 [View](/is/documents/all-authorised-presentations/eltrombopag-viatris-epar-all-authorised-presentations_is.pdf)
 
 italiano (IT) (36.25 KB - PDF)
 
-**First published:**
-
-21/01/2025
-
-**Last updated:**
-
-06/03/2025
+**First published:** 21/01/2025 **Last updated:** 06/03/2025
 
 [View](/it/documents/all-authorised-presentations/eltrombopag-viatris-epar-all-authorised-presentations_it.pdf)
 
 latviešu valoda (LV) (33.72 KB - PDF)
 
-**First published:**
-
-21/01/2025
-
-**Last updated:**
-
-06/03/2025
+**First published:** 21/01/2025 **Last updated:** 06/03/2025
 
 [View](/lv/documents/all-authorised-presentations/eltrombopag-viatris-epar-all-authorised-presentations_lv.pdf)
 
 lietuvių kalba (LT) (29.43 KB - PDF)
 
-**First published:**
-
-21/01/2025
-
-**Last updated:**
-
-06/03/2025
+**First published:** 21/01/2025 **Last updated:** 06/03/2025
 
 [View](/lt/documents/all-authorised-presentations/eltrombopag-viatris-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (70.43 KB - PDF)
 
-**First published:**
-
-21/01/2025
-
-**Last updated:**
-
-06/03/2025
+**First published:** 21/01/2025 **Last updated:** 06/03/2025
 
 [View](/hu/documents/all-authorised-presentations/eltrombopag-viatris-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (63.13 KB - PDF)
 
-**First published:**
-
-21/01/2025
-
-**Last updated:**
-
-06/03/2025
+**First published:** 21/01/2025 **Last updated:** 06/03/2025
 
 [View](/mt/documents/all-authorised-presentations/eltrombopag-viatris-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (35.95 KB - PDF)
 
-**First published:**
-
-21/01/2025
-
-**Last updated:**
-
-06/03/2025
+**First published:** 21/01/2025 **Last updated:** 06/03/2025
 
 [View](/nl/documents/all-authorised-presentations/eltrombopag-viatris-epar-all-authorised-presentations_nl.pdf)
 
 norsk (NO) (100.81 KB - PDF)
 
-**First published:**
-
-21/01/2025
-
-**Last updated:**
-
-06/03/2025
+**First published:** 21/01/2025 **Last updated:** 06/03/2025
 
 [View](/no/documents/all-authorised-presentations/eltrombopag-viatris-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (29.06 KB - PDF)
 
-**First published:**
-
-21/01/2025
-
-**Last updated:**
-
-06/03/2025
+**First published:** 21/01/2025 **Last updated:** 06/03/2025
 
 [View](/pl/documents/all-authorised-presentations/eltrombopag-viatris-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (22.59 KB - PDF)
 
-**First published:**
-
-21/01/2025
-
-**Last updated:**
-
-06/03/2025
+**First published:** 21/01/2025 **Last updated:** 06/03/2025
 
 [View](/pt/documents/all-authorised-presentations/eltrombopag-viatris-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (65.48 KB - PDF)
 
-**First published:**
-
-21/01/2025
-
-**Last updated:**
-
-06/03/2025
+**First published:** 21/01/2025 **Last updated:** 06/03/2025
 
 [View](/ro/documents/all-authorised-presentations/eltrombopag-viatris-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (43.5 KB - PDF)
 
-**First published:**
-
-21/01/2025
-
-**Last updated:**
-
-06/03/2025
+**First published:** 21/01/2025 **Last updated:** 06/03/2025
 
 [View](/sk/documents/all-authorised-presentations/eltrombopag-viatris-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (69.69 KB - PDF)
 
-**First published:**
-
-21/01/2025
-
-**Last updated:**
-
-06/03/2025
+**First published:** 21/01/2025 **Last updated:** 06/03/2025
 
 [View](/sl/documents/all-authorised-presentations/eltrombopag-viatris-epar-all-authorised-presentations_sl.pdf)
 
 Suomi (FI) (55.8 KB - PDF)
 
-**First published:**
-
-21/01/2025
-
-**Last updated:**
-
-06/03/2025
+**First published:** 21/01/2025 **Last updated:** 06/03/2025
 
 [View](/fi/documents/all-authorised-presentations/eltrombopag-viatris-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (16.29 KB - PDF)
 
-**First published:**
-
-21/01/2025
-
-**Last updated:**
-
-06/03/2025
+**First published:** 21/01/2025 **Last updated:** 06/03/2025
 
 [View](/sv/documents/all-authorised-presentations/eltrombopag-viatris-epar-all-authorised-presentations_sv.pdf)
 
 ## Product details
 
-Name of medicine Eltrombopag Viatris Active substance eltrombopag olamine International non-proprietary name (INN) or common name eltrombopag Therapeutic area (MeSH) Purpura, Thrombocytopenic, Idiopathic Anatomical therapeutic chemical (ATC) code B02BX05
+Name of medicine
+
+Eltrombopag Viatris
+
+Active substance
+
+eltrombopag olamine
+
+International non-proprietary name (INN) or common name
+
+eltrombopag
+
+Therapeutic area (MeSH)
+
+Purpura, Thrombocytopenic, Idiopathic
+
+Anatomical therapeutic chemical (ATC) code
+
+B02BX05
 
 ### Pharmacotherapeutic group
 
@@ -994,7 +680,9 @@ Eltrombopag Viatris is indicated for the treatment of adult patients with primar
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/006417
+EMA product number
+
+EMEA/H/C/006417
 
 Additional monitoring
 
@@ -1008,9 +696,19 @@ Marketing authorisation holder
 
 Viatris Limited
 
-Damastown Industrial Park Mulhuddart Dublin 15 Ireland
+Damastown Industrial Park Dublin 15 Ireland
 
-Opinion adopted 17/10/2024 Marketing authorisation issued 12/12/2024 Revision 3
+Opinion adopted
+
+17/10/2024
+
+Marketing authorisation issued
+
+12/12/2024
+
+Revision
+
+4
 
 ## Assessment history
 
@@ -1022,11 +720,9 @@ Collapse section
 
 Eltrombopag Viatris : EPAR - Procedural steps and scientific information after authorisation
 
-English (EN) (135.03 KB - PDF)
+English (EN) (147.46 KB - PDF)
 
-**First published:** 06/03/2025
-
-**Last updated:** 05/02/2026
+**First published:** 06/03/2025 **Last updated:** 07/05/2026
 
 [View](/en/documents/procedural-steps-after/eltrombopag-viatris-epar-procedural-steps-scientific-information-after-authorisation_en.pdf)
 
@@ -1034,9 +730,7 @@ English (EN) (135.03 KB - PDF)
 
 Eltrombopag Viatris : EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/510859/2024
+Adopted Reference Number: EMA/510859/2024
 
 English (EN) (329.96 KB - PDF)
 
@@ -1046,9 +740,7 @@ English (EN) (329.96 KB - PDF)
 
 CHMP summary of positive opinion for Eltrombopag Viatris
 
-Adopted
-
-Reference Number: EMA/CHMP/398947/2024
+Adopted Reference Number: EMA/CHMP/398947/2024
 
 English (EN) (156.24 KB - PDF)
 
@@ -1056,12 +748,14 @@ English (EN) (156.24 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-eltrombopag-viatris_en.pdf)
 
-#### News on Eltrombopag Viatris
+## News on Eltrombopag Viatris
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 14-17 October 2024](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-14-17-october-2024) 18/10/2024
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 14-17 October 2024](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-14-17-october-2024)
 
-**This page was last updated on** 05/02/2026
+18/10/2024
+
+**This page was last updated on**
+
+07/05/2026
 
 ## Share this page
-
-[Back to top](#main-content)

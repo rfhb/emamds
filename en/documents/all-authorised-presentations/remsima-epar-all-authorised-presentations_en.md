@@ -1,18 +1,18 @@
 ---
-document_datetime: 2026-04-23 12:04:11
+document_datetime: 2026-05-08 15:09:59
 document_pages: 3
 document_pathfilename: www.ema.europa.eu/en/documents/all-authorised-presentations/remsima-epar-all-authorised-presentations_en.pdf
 document_name: remsima-epar-all-authorised-presentations_en.pdf
 version: success
-processing_time: 3.4717471
-conversion_datetime: 2026-04-25 16:01:13.378557
+processing_time: 3.5915496
+conversion_datetime: 2026-05-10 12:34:11.428348
 docling_version:
-  docling-serve: 1.16.1
-  docling-jobkit: 1.17.1
-  docling: 2.90.0
-  docling-core: 2.74.0
-  docling-ibm-models: 3.13.0
-  docling-parse: 5.9.0
+  docling-serve: 1.17.0
+  docling-jobkit: 1.18.0
+  docling: 2.92.0
+  docling-core: 2.74.1
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.10.1
   python: cpython-313 (3.13.11)
   plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---

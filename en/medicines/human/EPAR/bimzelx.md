@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-03-17 15:40:00
+document_datetime: 2026-05-08 14:40:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/bimzelx.html
 document_name: bimzelx.html
 version: success
-processing_time: 0.0932518
-conversion_datetime: 2026-03-21 12:17:12.152122
+processing_time: 0.1120825
+conversion_datetime: 2026-05-10 12:59:26.692285
 docling_version:
-  docling-serve: 1.14.3
-  docling-jobkit: 1.13.0
-  docling: 2.81.0
-  docling-core: 2.70.2
-  docling-ibm-models: 3.12.0
-  docling-parse: 5.6.0
+  docling-serve: 1.17.0
+  docling-jobkit: 1.18.0
+  docling: 2.92.0
+  docling-core: 2.74.1
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.10.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 # Bimzelx
 
@@ -24,7 +24,9 @@ Authorised
 
 This medicine is authorised for use in the European Union
 
-bimekizumab Medicine Human Authorised
+bimekizumab
+
+Medicine Human Authorised
 
 Page contents
 
@@ -139,181 +141,137 @@ English (EN) (151.86 KB - PDF)
 
 [View](/en/documents/overview/bimzelx-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-897)
+[Other languages (22)](#file-language-dropdown-364)
 
 български (BG) (177.79 KB - PDF)
 
-**First published:**
-
-07/08/2024
+**First published:** 07/08/2024
 
 [View](/bg/documents/overview/bimzelx-epar-medicine-overview_bg.pdf)
 
 español (ES) (150.66 KB - PDF)
 
-**First published:**
-
-07/08/2024
+**First published:** 07/08/2024
 
 [View](/es/documents/overview/bimzelx-epar-medicine-overview_es.pdf)
 
 čeština (CS) (176.1 KB - PDF)
 
-**First published:**
-
-07/08/2024
+**First published:** 07/08/2024
 
 [View](/cs/documents/overview/bimzelx-epar-medicine-overview_cs.pdf)
 
 dansk (DA) (148.95 KB - PDF)
 
-**First published:**
-
-07/08/2024
+**First published:** 07/08/2024
 
 [View](/da/documents/overview/bimzelx-epar-medicine-overview_da.pdf)
 
 Deutsch (DE) (154.48 KB - PDF)
 
-**First published:**
-
-07/08/2024
+**First published:** 07/08/2024
 
 [View](/de/documents/overview/bimzelx-epar-medicine-overview_de.pdf)
 
 eesti keel (ET) (148.58 KB - PDF)
 
-**First published:**
-
-07/08/2024
+**First published:** 07/08/2024
 
 [View](/et/documents/overview/bimzelx-epar-medicine-overview_et.pdf)
 
 ελληνικά (EL) (176.12 KB - PDF)
 
-**First published:**
-
-07/08/2024
+**First published:** 07/08/2024
 
 [View](/el/documents/overview/bimzelx-epar-medicine-overview_el.pdf)
 
 français (FR) (152.76 KB - PDF)
 
-**First published:**
-
-07/08/2024
+**First published:** 07/08/2024
 
 [View](/fr/documents/overview/bimzelx-epar-medicine-overview_fr.pdf)
 
 hrvatski (HR) (175.36 KB - PDF)
 
-**First published:**
-
-07/08/2024
+**First published:** 07/08/2024
 
 [View](/hr/documents/overview/bimzelx-epar-medicine-overview_hr.pdf)
 
 italiano (IT) (149.46 KB - PDF)
 
-**First published:**
-
-07/08/2024
+**First published:** 07/08/2024
 
 [View](/it/documents/overview/bimzelx-epar-medicine-overview_it.pdf)
 
 latviešu valoda (LV) (174.22 KB - PDF)
 
-**First published:**
-
-07/08/2024
+**First published:** 07/08/2024
 
 [View](/lv/documents/overview/bimzelx-epar-medicine-overview_lv.pdf)
 
 lietuvių kalba (LT) (177.14 KB - PDF)
 
-**First published:**
-
-07/08/2024
+**First published:** 07/08/2024
 
 [View](/lt/documents/overview/bimzelx-epar-medicine-overview_lt.pdf)
 
 magyar (HU) (176.33 KB - PDF)
 
-**First published:**
-
-07/08/2024
+**First published:** 07/08/2024
 
 [View](/hu/documents/overview/bimzelx-epar-medicine-overview_hu.pdf)
 
 Malti (MT) (179.37 KB - PDF)
 
-**First published:**
-
-07/08/2024
+**First published:** 07/08/2024
 
 [View](/mt/documents/overview/bimzelx-epar-medicine-overview_mt.pdf)
 
 Nederlands (NL) (153.8 KB - PDF)
 
-**First published:**
-
-07/08/2024
+**First published:** 07/08/2024
 
 [View](/nl/documents/overview/bimzelx-epar-medicine-overview_nl.pdf)
 
 polski (PL) (177.43 KB - PDF)
 
-**First published:**
-
-07/08/2024
+**First published:** 07/08/2024
 
 [View](/pl/documents/overview/bimzelx-epar-medicine-overview_pl.pdf)
 
 português (PT) (151.62 KB - PDF)
 
-**First published:**
-
-07/08/2024
+**First published:** 07/08/2024
 
 [View](/pt/documents/overview/bimzelx-epar-medicine-overview_pt.pdf)
 
 română (RO) (174.27 KB - PDF)
 
-**First published:**
-
-07/08/2024
+**First published:** 07/08/2024
 
 [View](/ro/documents/overview/bimzelx-epar-medicine-overview_ro.pdf)
 
 slovenčina (SK) (175.91 KB - PDF)
 
-**First published:**
-
-07/08/2024
+**First published:** 07/08/2024
 
 [View](/sk/documents/overview/bimzelx-epar-medicine-overview_sk.pdf)
 
 slovenščina (SL) (202.71 KB - PDF)
 
-**First published:**
-
-07/08/2024
+**First published:** 07/08/2024
 
 [View](/sl/documents/overview/bimzelx-epar-medicine-overview_sl.pdf)
 
 Suomi (FI) (149.58 KB - PDF)
 
-**First published:**
-
-07/08/2024
+**First published:** 07/08/2024
 
 [View](/fi/documents/overview/bimzelx-epar-medicine-overview_fi.pdf)
 
 svenska (SV) (148.53 KB - PDF)
 
-**First published:**
-
-07/08/2024
+**First published:** 07/08/2024
 
 [View](/sv/documents/overview/bimzelx-epar-medicine-overview_sv.pdf)
 
@@ -321,9 +279,7 @@ Bimzelx : EPAR - Risk management plan
 
 English (EN) (960.4 KB - PDF)
 
-**First published:** 24/08/2021
-
-**Last updated:** 17/03/2026
+**First published:** 24/08/2021 **Last updated:** 17/03/2026
 
 [View](/en/documents/rmp/bimzelx-epar-risk-management-plan_en.pdf)
 
@@ -331,305 +287,161 @@ English (EN) (960.4 KB - PDF)
 
 Bimzelx : EPAR - Product information
 
-English (EN) (1.43 MB - PDF)
+English (EN) (2.02 MB - PDF)
 
-**First published:** 24/08/2021
-
-**Last updated:** 28/04/2025
+**First published:** 24/08/2021 **Last updated:** 08/05/2026
 
 [View](/en/documents/product-information/bimzelx-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-367)
+[Other languages (24)](#file-language-dropdown-901)
 
-български (BG) (1.72 MB - PDF)
+български (BG) (1.77 MB - PDF)
 
-**First published:**
-
-24/08/2021
-
-**Last updated:**
-
-28/04/2025
+**First published:** 24/08/2021 **Last updated:** 28/04/2025
 
 [View](/bg/documents/product-information/bimzelx-epar-product-information_bg.pdf)
 
-español (ES) (1.48 MB - PDF)
+español (ES) (1.55 MB - PDF)
 
-**First published:**
-
-24/08/2021
-
-**Last updated:**
-
-28/04/2025
+**First published:** 24/08/2021 **Last updated:** 28/04/2025
 
 [View](/es/documents/product-information/bimzelx-epar-product-information_es.pdf)
 
-čeština (CS) (1.43 MB - PDF)
+čeština (CS) (1.68 MB - PDF)
 
-**First published:**
-
-24/08/2021
-
-**Last updated:**
-
-28/04/2025
+**First published:** 24/08/2021 **Last updated:** 28/04/2025
 
 [View](/cs/documents/product-information/bimzelx-epar-product-information_cs.pdf)
 
-dansk (DA) (1.68 MB - PDF)
+dansk (DA) (1.59 MB - PDF)
 
-**First published:**
-
-24/08/2021
-
-**Last updated:**
-
-28/04/2025
+**First published:** 24/08/2021 **Last updated:** 28/04/2025
 
 [View](/da/documents/product-information/bimzelx-epar-product-information_da.pdf)
 
-Deutsch (DE) (1.45 MB - PDF)
+Deutsch (DE) (1.75 MB - PDF)
 
-**First published:**
-
-24/08/2021
-
-**Last updated:**
-
-28/04/2025
+**First published:** 24/08/2021 **Last updated:** 28/04/2025
 
 [View](/de/documents/product-information/bimzelx-epar-product-information_de.pdf)
 
-eesti keel (ET) (1.26 MB - PDF)
+eesti keel (ET) (1.61 MB - PDF)
 
-**First published:**
-
-24/08/2021
-
-**Last updated:**
-
-28/04/2025
+**First published:** 24/08/2021 **Last updated:** 28/04/2025
 
 [View](/et/documents/product-information/bimzelx-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.86 MB - PDF)
+ελληνικά (EL) (1.82 MB - PDF)
 
-**First published:**
-
-24/08/2021
-
-**Last updated:**
-
-28/04/2025
+**First published:** 24/08/2021 **Last updated:** 28/04/2025
 
 [View](/el/documents/product-information/bimzelx-epar-product-information_el.pdf)
 
-français (FR) (1.64 MB - PDF)
+français (FR) (1.8 MB - PDF)
 
-**First published:**
-
-24/08/2021
-
-**Last updated:**
-
-28/04/2025
+**First published:** 24/08/2021 **Last updated:** 28/04/2025
 
 [View](/fr/documents/product-information/bimzelx-epar-product-information_fr.pdf)
 
-hrvatski (HR) (1.39 MB - PDF)
+hrvatski (HR) (1.72 MB - PDF)
 
-**First published:**
-
-24/08/2021
-
-**Last updated:**
-
-28/04/2025
+**First published:** 24/08/2021 **Last updated:** 28/04/2025
 
 [View](/hr/documents/product-information/bimzelx-epar-product-information_hr.pdf)
 
-íslenska (IS) (1.81 MB - PDF)
+íslenska (IS) (1.69 MB - PDF)
 
-**First published:**
-
-24/08/2021
-
-**Last updated:**
-
-28/04/2025
+**First published:** 24/08/2021 **Last updated:** 28/04/2025
 
 [View](/is/documents/product-information/bimzelx-epar-product-information_is.pdf)
 
-italiano (IT) (2.15 MB - PDF)
+italiano (IT) (1.73 MB - PDF)
 
-**First published:**
-
-24/08/2021
-
-**Last updated:**
-
-28/04/2025
+**First published:** 24/08/2021 **Last updated:** 28/04/2025
 
 [View](/it/documents/product-information/bimzelx-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (1.46 MB - PDF)
+latviešu valoda (LV) (1.74 MB - PDF)
 
-**First published:**
-
-24/08/2021
-
-**Last updated:**
-
-28/04/2025
+**First published:** 24/08/2021 **Last updated:** 28/04/2025
 
 [View](/lv/documents/product-information/bimzelx-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (1.41 MB - PDF)
+lietuvių kalba (LT) (1.75 MB - PDF)
 
-**First published:**
-
-24/08/2021
-
-**Last updated:**
-
-28/04/2025
+**First published:** 24/08/2021 **Last updated:** 28/04/2025
 
 [View](/lt/documents/product-information/bimzelx-epar-product-information_lt.pdf)
 
-magyar (HU) (1.85 MB - PDF)
+magyar (HU) (1.78 MB - PDF)
 
-**First published:**
-
-24/08/2021
-
-**Last updated:**
-
-28/04/2025
+**First published:** 24/08/2021 **Last updated:** 28/04/2025
 
 [View](/hu/documents/product-information/bimzelx-epar-product-information_hu.pdf)
 
-Malti (MT) (1.95 MB - PDF)
+Malti (MT) (1.84 MB - PDF)
 
-**First published:**
-
-24/08/2021
-
-**Last updated:**
-
-28/04/2025
+**First published:** 24/08/2021 **Last updated:** 28/04/2025
 
 [View](/mt/documents/product-information/bimzelx-epar-product-information_mt.pdf)
 
-Nederlands (NL) (1.39 MB - PDF)
+Nederlands (NL) (1.66 MB - PDF)
 
-**First published:**
-
-24/08/2021
-
-**Last updated:**
-
-28/04/2025
+**First published:** 24/08/2021 **Last updated:** 28/04/2025
 
 [View](/nl/documents/product-information/bimzelx-epar-product-information_nl.pdf)
 
-norsk (NO) (1.82 MB - PDF)
+norsk (NO) (1.57 MB - PDF)
 
-**First published:**
-
-24/08/2021
-
-**Last updated:**
-
-28/04/2025
+**First published:** 24/08/2021 **Last updated:** 28/04/2025
 
 [View](/no/documents/product-information/bimzelx-epar-product-information_no.pdf)
 
-polski (PL) (2.02 MB - PDF)
+polski (PL) (1.86 MB - PDF)
 
-**First published:**
-
-24/08/2021
-
-**Last updated:**
-
-28/04/2025
+**First published:** 24/08/2021 **Last updated:** 28/04/2025
 
 [View](/pl/documents/product-information/bimzelx-epar-product-information_pl.pdf)
 
-português (PT) (1.36 MB - PDF)
+português (PT) (1.74 MB - PDF)
 
-**First published:**
-
-24/08/2021
-
-**Last updated:**
-
-28/04/2025
+**First published:** 24/08/2021 **Last updated:** 28/04/2025
 
 [View](/pt/documents/product-information/bimzelx-epar-product-information_pt.pdf)
 
-română (RO) (1.6 MB - PDF)
+română (RO) (1.73 MB - PDF)
 
-**First published:**
-
-24/08/2021
-
-**Last updated:**
-
-28/04/2025
+**First published:** 24/08/2021 **Last updated:** 28/04/2025
 
 [View](/ro/documents/product-information/bimzelx-epar-product-information_ro.pdf)
 
-slovenčina (SK) (1.48 MB - PDF)
+slovenčina (SK) (1.63 MB - PDF)
 
-**First published:**
-
-24/08/2021
-
-**Last updated:**
-
-28/04/2025
+**First published:** 24/08/2021 **Last updated:** 28/04/2025
 
 [View](/sk/documents/product-information/bimzelx-epar-product-information_sk.pdf)
 
-slovenščina (SL) (1.37 MB - PDF)
+slovenščina (SL) (1.51 MB - PDF)
 
-**First published:**
-
-24/08/2021
-
-**Last updated:**
-
-28/04/2025
+**First published:** 24/08/2021 **Last updated:** 28/04/2025
 
 [View](/sl/documents/product-information/bimzelx-epar-product-information_sl.pdf)
 
-Suomi (FI) (1.84 MB - PDF)
+Suomi (FI) (1.66 MB - PDF)
 
-**First published:**
-
-24/08/2021
-
-**Last updated:**
-
-28/04/2025
+**First published:** 24/08/2021 **Last updated:** 28/04/2025
 
 [View](/fi/documents/product-information/bimzelx-epar-product-information_fi.pdf)
 
-svenska (SV) (1.72 MB - PDF)
+svenska (SV) (1.48 MB - PDF)
 
-**First published:**
-
-24/08/2021
-
-**Last updated:**
-
-28/04/2025
+**First published:** 24/08/2021 **Last updated:** 28/04/2025
 
 [View](/sv/documents/product-information/bimzelx-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** N/0000267765 28/04/2025
+**Latest procedure affecting product information:** R/0000304244
+
+30/04/2026
 
 icon globe
 
@@ -649,305 +461,177 @@ Bimzelx : EPAR - All authorised presentations
 
 English (EN) (77.06 KB - PDF)
 
-**First published:** 24/08/2021
-
-**Last updated:** 07/08/2024
+**First published:** 24/08/2021 **Last updated:** 07/08/2024
 
 [View](/en/documents/all-authorised-presentations/bimzelx-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-268)
+[Other languages (24)](#file-language-dropdown-15)
 
 български (BG) (73.03 KB - PDF)
 
-**First published:**
-
-24/08/2021
-
-**Last updated:**
-
-07/08/2024
+**First published:** 24/08/2021 **Last updated:** 07/08/2024
 
 [View](/bg/documents/all-authorised-presentations/bimzelx-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (33.6 KB - PDF)
 
-**First published:**
-
-24/08/2021
-
-**Last updated:**
-
-07/08/2024
+**First published:** 24/08/2021 **Last updated:** 07/08/2024
 
 [View](/es/documents/all-authorised-presentations/bimzelx-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (70.98 KB - PDF)
 
-**First published:**
-
-24/08/2021
-
-**Last updated:**
-
-07/08/2024
+**First published:** 24/08/2021 **Last updated:** 07/08/2024
 
 [View](/cs/documents/all-authorised-presentations/bimzelx-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (43.87 KB - PDF)
 
-**First published:**
-
-24/08/2021
-
-**Last updated:**
-
-07/08/2024
+**First published:** 24/08/2021 **Last updated:** 07/08/2024
 
 [View](/da/documents/all-authorised-presentations/bimzelx-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (52.94 KB - PDF)
 
-**First published:**
-
-24/08/2021
-
-**Last updated:**
-
-07/08/2024
+**First published:** 24/08/2021 **Last updated:** 07/08/2024
 
 [View](/de/documents/all-authorised-presentations/bimzelx-epar-all-authorised-presentations_de.pdf)
 
 eesti keel (ET) (29.43 KB - PDF)
 
-**First published:**
-
-24/08/2021
-
-**Last updated:**
-
-07/08/2024
+**First published:** 24/08/2021 **Last updated:** 07/08/2024
 
 [View](/et/documents/all-authorised-presentations/bimzelx-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (68.75 KB - PDF)
 
-**First published:**
-
-24/08/2021
-
-**Last updated:**
-
-07/08/2024
+**First published:** 24/08/2021 **Last updated:** 07/08/2024
 
 [View](/el/documents/all-authorised-presentations/bimzelx-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (47.63 KB - PDF)
 
-**First published:**
-
-24/08/2021
-
-**Last updated:**
-
-07/08/2024
+**First published:** 24/08/2021 **Last updated:** 07/08/2024
 
 [View](/fr/documents/all-authorised-presentations/bimzelx-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (64.37 KB - PDF)
 
-**First published:**
-
-24/08/2021
-
-**Last updated:**
-
-07/08/2024
+**First published:** 24/08/2021 **Last updated:** 07/08/2024
 
 [View](/hr/documents/all-authorised-presentations/bimzelx-epar-all-authorised-presentations_hr.pdf)
 
 íslenska (IS) (28.4 KB - PDF)
 
-**First published:**
-
-24/08/2021
-
-**Last updated:**
-
-07/08/2024
+**First published:** 24/08/2021 **Last updated:** 07/08/2024
 
 [View](/is/documents/all-authorised-presentations/bimzelx-epar-all-authorised-presentations_is.pdf)
 
 italiano (IT) (32.17 KB - PDF)
 
-**First published:**
-
-24/08/2021
-
-**Last updated:**
-
-07/08/2024
+**First published:** 24/08/2021 **Last updated:** 07/08/2024
 
 [View](/it/documents/all-authorised-presentations/bimzelx-epar-all-authorised-presentations_it.pdf)
 
 latviešu valoda (LV) (66.61 KB - PDF)
 
-**First published:**
-
-24/08/2021
-
-**Last updated:**
-
-07/08/2024
+**First published:** 24/08/2021 **Last updated:** 07/08/2024
 
 [View](/lv/documents/all-authorised-presentations/bimzelx-epar-all-authorised-presentations_lv.pdf)
 
 lietuvių kalba (LT) (61.47 KB - PDF)
 
-**First published:**
-
-24/08/2021
-
-**Last updated:**
-
-07/08/2024
+**First published:** 24/08/2021 **Last updated:** 07/08/2024
 
 [View](/lt/documents/all-authorised-presentations/bimzelx-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (71.94 KB - PDF)
 
-**First published:**
-
-24/08/2021
-
-**Last updated:**
-
-07/08/2024
+**First published:** 24/08/2021 **Last updated:** 07/08/2024
 
 [View](/hu/documents/all-authorised-presentations/bimzelx-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (84.29 KB - PDF)
 
-**First published:**
-
-24/08/2021
-
-**Last updated:**
-
-07/08/2024
+**First published:** 24/08/2021 **Last updated:** 07/08/2024
 
 [View](/mt/documents/all-authorised-presentations/bimzelx-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (32.22 KB - PDF)
 
-**First published:**
-
-24/08/2021
-
-**Last updated:**
-
-07/08/2024
+**First published:** 24/08/2021 **Last updated:** 07/08/2024
 
 [View](/nl/documents/all-authorised-presentations/bimzelx-epar-all-authorised-presentations_nl.pdf)
 
 norsk (NO) (30.3 KB - PDF)
 
-**First published:**
-
-24/08/2021
-
-**Last updated:**
-
-07/08/2024
+**First published:** 24/08/2021 **Last updated:** 07/08/2024
 
 [View](/no/documents/all-authorised-presentations/bimzelx-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (69.91 KB - PDF)
 
-**First published:**
-
-24/08/2021
-
-**Last updated:**
-
-07/08/2024
+**First published:** 24/08/2021 **Last updated:** 07/08/2024
 
 [View](/pl/documents/all-authorised-presentations/bimzelx-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (34.74 KB - PDF)
 
-**First published:**
-
-24/08/2021
-
-**Last updated:**
-
-07/08/2024
+**First published:** 24/08/2021 **Last updated:** 07/08/2024
 
 [View](/pt/documents/all-authorised-presentations/bimzelx-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (68.75 KB - PDF)
 
-**First published:**
-
-24/08/2021
-
-**Last updated:**
-
-07/08/2024
+**First published:** 24/08/2021 **Last updated:** 07/08/2024
 
 [View](/ro/documents/all-authorised-presentations/bimzelx-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (68.13 KB - PDF)
 
-**First published:**
-
-24/08/2021
-
-**Last updated:**
-
-07/08/2024
+**First published:** 24/08/2021 **Last updated:** 07/08/2024
 
 [View](/sk/documents/all-authorised-presentations/bimzelx-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (66.77 KB - PDF)
 
-**First published:**
-
-24/08/2021
-
-**Last updated:**
-
-07/08/2024
+**First published:** 24/08/2021 **Last updated:** 07/08/2024
 
 [View](/sl/documents/all-authorised-presentations/bimzelx-epar-all-authorised-presentations_sl.pdf)
 
 Suomi (FI) (31.42 KB - PDF)
 
-**First published:**
-
-24/08/2021
-
-**Last updated:**
-
-07/08/2024
+**First published:** 24/08/2021 **Last updated:** 07/08/2024
 
 [View](/fi/documents/all-authorised-presentations/bimzelx-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (32.78 KB - PDF)
 
-**First published:**
-
-24/08/2021
-
-**Last updated:**
-
-07/08/2024
+**First published:** 24/08/2021 **Last updated:** 07/08/2024
 
 [View](/sv/documents/all-authorised-presentations/bimzelx-epar-all-authorised-presentations_sv.pdf)
 
 ## Product details
 
-Name of medicine Bimzelx Active substance bimekizumab International non-proprietary name (INN) or common name bimekizumab Therapeutic area (MeSH) Psoriasis Anatomical therapeutic chemical (ATC) code L04AC
+Name of medicine
+
+Bimzelx
+
+Active substance
+
+bimekizumab
+
+International non-proprietary name (INN) or common name
+
+bimekizumab
+
+Therapeutic area (MeSH)
+
+Psoriasis
+
+Anatomical therapeutic chemical (ATC) code
+
+L04AC
 
 ### Pharmacotherapeutic group
 
@@ -977,11 +661,9 @@ Bimzelx is indicated for the treatment of adults with active ankylosing spondyli
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/005316
+EMA product number
 
-Additional monitoring
-
-This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
+EMEA/H/C/005316
 
 Marketing authorisation holder
 
@@ -989,7 +671,17 @@ UCB Pharma S.A.
 
 Allée de la Recherche 60
 
-Opinion adopted 24/06/2021 Marketing authorisation issued 20/08/2021 Revision 13
+Opinion adopted
+
+24/06/2021
+
+Marketing authorisation issued
+
+20/08/2021
+
+Revision
+
+14
 
 ## Assessment history
 
@@ -1001,29 +693,23 @@ Collapse section
 
 Bimzelx : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (159.79 KB - PDF)
+English (EN) (159.56 KB - PDF)
 
-**First published:** 28/04/2025
-
-**Last updated:** 17/03/2026
+**First published:** 28/04/2025 **Last updated:** 08/05/2026
 
 [View](/en/documents/procedural-steps-after/bimzelx-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
 Bimzelx : EPAR - Procedural steps taken and scientific information after authorisation (archive)
 
-English (EN) (218.27 KB - PDF)
+English (EN) (209.11 KB - PDF)
 
-**First published:** 17/05/2022
-
-**Last updated:** 28/04/2025
+**First published:** 17/05/2022 **Last updated:** 08/05/2026
 
 [View](/en/documents/procedural-steps-after/bimzelx-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 Bimzelx-PAM-0000295862 : EPAR - Assessment report
 
-Adopted
-
-Reference Number: EMADOC-1700519818-2845417
+Adopted Reference Number: EMADOC-1700519818-2845417
 
 English (EN) (2.58 MB - PDF)
 
@@ -1033,9 +719,7 @@ English (EN) (2.58 MB - PDF)
 
 Bimzelx-H-C-005316-II-0020 : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/145924/2024
+Adopted Reference Number: EMA/145924/2024
 
 English (EN) (9.77 MB - PDF)
 
@@ -1045,9 +729,7 @@ English (EN) (9.77 MB - PDF)
 
 CHMP post-authorisation summary of positive opinion for Bimzelx (II-20)
 
-Adopted
-
-Reference Number: EMA/CHMP/8354/2024
+Adopted Reference Number: EMA/CHMP/8354/2024
 
 English (EN) (155.01 KB - PDF)
 
@@ -1057,9 +739,7 @@ English (EN) (155.01 KB - PDF)
 
 Bimzelx-H-C-5316-II-0011 : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/235043/2023
+Adopted Reference Number: EMA/235043/2023
 
 English (EN) (12.83 MB - PDF)
 
@@ -1069,9 +749,7 @@ English (EN) (12.83 MB - PDF)
 
 Bimzelx-H-C-5316-II-0010 : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/235041/2023
+Adopted Reference Number: EMA/235041/2023
 
 English (EN) (20.18 MB - PDF)
 
@@ -1081,9 +759,7 @@ English (EN) (20.18 MB - PDF)
 
 CHMP post-authorisation summary of positive opinion for Bimzelx (II-10)
 
-Adopted
-
-Reference Number: EMA/CHMP/168258/2023
+Adopted Reference Number: EMA/CHMP/168258/2023
 
 English (EN) (153.11 KB - PDF)
 
@@ -1093,9 +769,7 @@ English (EN) (153.11 KB - PDF)
 
 CHMP post-authorisation summary of positive opinion for Bimzelx (II-11)
 
-Adopted
-
-Reference Number: EMA/CHMP/168469/2023
+Adopted Reference Number: EMA/CHMP/168469/2023
 
 English (EN) (117.86 KB - PDF)
 
@@ -1107,9 +781,7 @@ English (EN) (117.86 KB - PDF)
 
 Bimzelx : EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/393532/2021
+Adopted Reference Number: EMA/393532/2021
 
 English (EN) (8.75 MB - PDF)
 
@@ -1119,9 +791,7 @@ English (EN) (8.75 MB - PDF)
 
 CHMP summary of positive opinion for Bimzelx
 
-Adopted
-
-Reference Number: EMA/CHMP/336023/2021
+Adopted Reference Number: EMA/CHMP/336023/2021
 
 English (EN) (117.73 KB - PDF)
 
@@ -1131,18 +801,24 @@ English (EN) (117.73 KB - PDF)
 
 ## News on Bimzelx
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 18-21 March 2024](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-18-21-march-2024) 22/03/2024
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 18-21 March 2024](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-18-21-march-2024)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 24 - 26 April 2023](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-24-26-april-2023) 26/04/2023
+22/03/2024
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 21-24 June 2021](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-21-24-june-2021) 25/06/2021
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 24 - 26 April 2023](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-24-26-april-2023)
+
+26/04/2023
+
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 21-24 June 2021](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-21-24-june-2021)
+
+25/06/2021
 
 ## More information on Bimzelx
 
 - [Real-World Impact of Bimekizumab on Disease Activity in axial spondyloarthritis patients including the EARLY subpopulation (EXPEDITE) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000519)
 
-**This page was last updated on** 17/03/2026
+**This page was last updated on**
+
+08/05/2026
 
 ## Share this page
-
-[Back to top](#main-content)

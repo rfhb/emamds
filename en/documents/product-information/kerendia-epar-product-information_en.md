@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-01-16 16:30:13
-document_pages: 48
+document_datetime: 2026-05-07 11:36:12
+document_pages: 61
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/kerendia-epar-product-information_en.pdf
 document_name: kerendia-epar-product-information_en.pdf
 version: success
-processing_time: 16.501048
-conversion_datetime: 2026-01-17 13:25:13.486636
+processing_time: 24.6806305
+conversion_datetime: 2026-05-10 12:30:18.908203
 docling_version:
-  docling-serve: 1.10.0
-  docling-jobkit: 1.8.1
-  docling: 2.68.0
-  docling-core: 2.59.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.3
+  docling-serve: 1.17.0
+  docling-jobkit: 1.18.0
+  docling: 2.92.0
+  docling-core: 2.74.1
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.10.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -28,7 +28,7 @@ This medicinal product is subject to additional monitoring. This will allow quic
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Kerendia 10 mg film-coated tablets Kerendia 20 mg film-coated tablets
+Kerendia 10 mg film-coated tablets Kerendia 20 mg film-coated tablets Kerendia 40 mg film-coated tablets
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
@@ -48,7 +48,13 @@ Excipient with known effect
 
 Each film-coated tablet contains 40 mg of lactose (as monohydrate), see section 4.4.
 
-For the full list of excipients, see section 6.1.
+## Kerendia 40 mg film-coated tablets
+
+Each film-coated tablet contains 40 mg of finerenone.
+
+Excipient with known effect
+
+Each film-coated tablet contains 25 mg of lactose (as monohydrate), see section 4.4. For the full list of excipients, see section 6.1.
 
 ## 3. PHARMACEUTICAL FORM
 
@@ -60,7 +66,13 @@ Pink, oval-oblong film-coated tablet with a length of 10 mm and a width of 5 mm,
 
 ## Kerendia 20 mg film-coated tablets
 
-Yellow, oval-oblong film-coated tablet with a length of 10 mm and a width of 5 mm, marked '20' on one side and 'FI' on the other side.
+Pale yellow, oval-oblong film-coated tablet with a length of 10 mm and a width of 5 mm, marked '20' on one side and 'FI' on the other side.
+
+## Kerendia 40 mg film-coated tablets
+
+Grey-orange, oval-oblong film-coated tablet with a length of 11 mm and a width of 5 mm, marked '40' on one side and 'FI' on the other side.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 4. CLINICAL PARTICULARS
 
@@ -70,11 +82,13 @@ Kerendia is indicated for the treatment of chronic kidney disease (with albuminu
 
 For study results with respect to renal and cardiovascular events, see section 5.1.
 
-<div style=\"page-break-after: always\"></div>
+Kerendia is indicated for the treatment of symptomatic chronic heart failure with left ventricular ejection fraction (LVEF) ≥ 40% in adults.
 
 ## 4.2 Posology and method of administration
 
 ## Posology
+
+Chronic kidney disease associated with type 2 diabetes (T2D)
 
 The recommended target dose is 20 mg finerenone once daily.
 
@@ -82,9 +96,9 @@ The maximum recommended dose is 20 mg finerenone once daily.
 
 ## Initiation of treatment
 
-Serum potassium and estimated glomerular filtration rate (eGFR) have to be measured to determine if finerenone treatment can be initiated and to determine the starting dose.
+Serum potassium and estimated glomerular filtration rate (eGFR) have to be measured to determine if finerenone treatment can be initiated (see also section 4.4) and to determine the starting dose. For monitoring of serum potassium, see below 'Continuation of treatment.'
 
-If serum potassium ≤ 4.8 mmol/L, finerenone treatment can be initiated. For monitoring of serum potassium, see below 'Continuation of treatment.'
+If serum potassium ≤ 4.8 mmol/L, finerenone treatment can be initiated.
 
 If serum potassium &gt; 4.8 to 5.0 mmol/L, initiation of finerenone treatment may be considered with additional serum potassium monitoring within the first 4 weeks based on patient characteristics and serum potassium levels (see section 4.4).
 
@@ -108,7 +122,9 @@ Thereafter, serum potassium has to be remeasured periodically and as needed base
 
 See sections 4.4 and 4.5 for more information.
 
-Table 2 : Continuation of finerenone treatment and dose adjustment
+<div style=\"page-break-after: always\"></div>
+
+Table 2: Continuation of finerenone treatment and dose adjustment
 
 |                                  |              | Current finerenone dose (once daily)                                                             | Current finerenone dose (once daily)                                                 |
 |----------------------------------|--------------|--------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
@@ -117,27 +133,72 @@ Table 2 : Continuation of finerenone treatment and dose adjustment
 | Current serum potassium (mmol/L) | > 4.8 to 5.5 | Maintain 10 mg once daily                                                                        | Maintain 20 mg once daily                                                            |
 | Current serum potassium (mmol/L) | > 5.5        | Withhold finerenone. Consider re-starting at 10 mg once daily when serum potassium ≤ 5.0 mmol/L. | Withhold finerenone. Re-start at 10 mg once daily when serum potassium ≤ 5.0 mmol/L. |
 
+## Heart failure with LVEF ≥ 40%
+
+The recommended target dose depends on renal function (eGFR) at initiation of finerenone treatment (see table 4):
+
+- -40 mg once daily if eGFR ≥ 60 mL/min/1.73 m 2
+- -20 mg once daily if eGFR ≥ 25 to ˂ 60 mL/min/1.73 m 2
+
+The maximum recommended dose is 40 mg finerenone once daily.
+
+## Initiation of treatment
+
+If serum potassium ≤ 5.0 mmol/L, finerenone treatment can be initiated.
+
+Serum potassium and estimated glomerular filtration rate (eGFR) have to be measured to determine if finerenone treatment can be initiated (see also section 4.4) and to determine the starting dose. For monitoring of serum potassium, see below 'Continuation of treatment.'
+
+The recommended starting dose of finerenone is based on eGFR and is presented in table 3.
+
+Table 3 : Initiation of finerenone treatment and recommended dose
+
+| eGFR (mL/min/1.73m 2 )   | Starting dose (once daily)   |
+|--------------------------|------------------------------|
+| ≥ 60                     | 20 mg                        |
+| ≥ 25 to < 60             | 10 mg                        |
+| < 25                     | Not recommended              |
+
+## Continuation of treatment
+
+Serum potassium and eGFR have to be remeasured 4 weeks after initiation or re-start of finerenone treatment or change in dose (see table 4 to determine continuation of finerenone treatment and dose adjustment).
+
+Thereafter, serum potassium and eGFR have to be remeasured periodically and as needed based on patient characteristics.
+
+See sections 4.4 and 4.5 for more information.
+
+<div style=\"page-break-after: always\"></div>
+
+Table 4 : Continuation of finerenone treatment and dose adjustment
+
+|                                  |              | Current finerenone dose (once daily)                                                                                                                    | Current finerenone dose (once daily)                                                                                                                                  | Current finerenone dose (once daily)                                                                                                                    |
+|----------------------------------|--------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                                  |              | 10 mg                                                                                                                                                   | 20 mg                                                                                                                                                                 | 40 mg                                                                                                                                                   |
+| Current serum potassium (mmol/L) | ˂ 5.0        | Increase to 20 mg finerenone once daily if eGFR has not decreased > 30% compared to the previous measurement                                            | Increase to 40 mg once daily if eGFR has not decreased > 30% compared to the previous measurement Maintain 20 mg once daily if eGFR < 60 mL/min/1.73m 2 at initiation | Maintain 40 mg once daily Decrease to 20 mg once daily if eGFR has decreased > 30% compared to the previous measurement                                 |
+| Current serum potassium (mmol/L) | 5.0 to ˂ 5.5 | Maintain 10 mg once daily                                                                                                                               | Maintain 20 mg once daily                                                                                                                                             | Maintain 40 mg once daily Decrease to 20 mg once daily if eGFR has decreased > 30% compared to the previous measurement                                 |
+| Current serum potassium (mmol/L) | 5.5 to ˂ 6.0 | Withhold finerenone Re-start at 10 mg once daily when serum potassium ˂ 5.5 mmol/L.                                                                     | Decrease to 10 mg once daily                                                                                                                                          | Decrease to 20 mg once daily                                                                                                                            |
+| Current serum potassium (mmol/L) | ≥ 6.0        | Withhold finerenone. Re-start at 10 mg once daily when serum potassium ˂ 5.5 mmol/L or if repeatedly ≥ 5.5 mmol/L, wait to re-start until ˂ 5.0 mmol/L. | Withhold finerenone. Re-start at 10 mg once daily when serum potassium ˂ 5.5 mmol/L or if repeatedly ≥ 5.5 mmol/L, wait to re-start until ˂ 5.0 mmol/L.               | Withhold finerenone. Re-start at 10 mg once daily when serum potassium ˂ 5.5 mmol/L or if repeatedly ≥ 5.5 mmol/L, wait to re-start until ˂ 5.0 mmol/L. |
+
+If eGFR decreases by ≥ 40% compared to the previous measurement, consider reducing the dose or withholding finerenone. Once eGFR levels have stabilised, according to the individual patient´s characteristics, consider increasing the dose or restarting treatment.
+
 ## Missed dose
 
 A missed dose should be taken as soon as the patient notices, but only on the same day. The patient should not take 2 doses to make up for a missed dose.
 
 ## Special populations
 
-## Elderly
+## Elderly (≥ 65 years)
 
-No dose adjustment is necessary in elderly patients (see section 5.2).
+No dose adjustment is necessary in elderly patients (see section 5.2) but regular monitoring of renal function is recommended (see section 4.4).
 
-<div style=\"page-break-after: always\"></div>
-
-## Renal impairment
-
-## Initiation of treatment
+Renal impairment Initiation of treatment
 
 In patients with eGFR &lt; 25 mL/min/1.73 m 2 , finerenone treatment should not be initiated due to limited clinical data (see sections 4.4 and 5.2).
 
+<div style=\"page-break-after: always\"></div>
+
 ## Continuation of treatment
 
-In patients with eGFR ≥ 15 mL/min/1.73 m 2 , finerenone treatment can be continued with dose adjustment based on serum potassium. eGFR should be measured 4 weeks after initiation to determine whether the starting dose can be increased to the recommended daily dose of 20 mg (see 'Posology, Continuation of treatment' and table 2).
+In patients with eGFR ≥ 15 mL/min/1.73 m 2 , finerenone treatment can be continued with dose adjustment based on serum potassium. eGFR should be measured 4 weeks after initiation to determine whether the starting dose can be increased (see 'Posology, Continuation of treatment' and tables 2 and 4).
 
 Due to limited clinical data, finerenone treatment should be discontinued in patients who have progressed to end-stage renal disease (eGFR &lt; 15 mL/min/1.73 m 2 ) (see section 4.4).
 
@@ -154,9 +215,9 @@ Finerenone should not be initiated (see sections 4.4 and 5.2). No data are avail
 
 No initial dose adjustment is required.
 
-## Concomitant medication
+## Concomitant use of other medicinal products
 
-In patients taking finerenone concomitantly with moderate or weak CYP3A4 inhibitors, potassium supplements, trimethoprim, or trimethoprim/sulfamethoxazole, additional serum potassium monitoring and adaptation of monitoring according to patient characteristics should be considered (see section 4.4). Finerenone treatment decisions should be made as directed in table 2 ('Posology, Continuation of treatment').
+In patients taking finerenone concomitantly with moderate or weak CYP3A4 inhibitors, potassium supplements, trimethoprim, or trimethoprim/sulfamethoxazole, additional serum potassium monitoring and adaptation of monitoring according to patient characteristics should be considered (see section 4.4). Finerenone treatment decisions should be made as directed in tables 2 and 4 (see 'Posology, Continuation of treatment').
 
 Temporary discontinuation of finerenone may be necessary, when patients have to take trimethoprim, or trimethoprim/sulfamethoxazole. See sections 4.4 and 4.5 for more information.
 
@@ -198,15 +259,17 @@ For patients who are unable to swallow whole tablets, Kerendia tablets may be cr
 
 ## Hyperkalaemia
 
-Hyperkalaemia has been observed in patients treated with finerenone (see section 4.8).
-
-Some patients are at a higher risk to develop hyperkalaemia.
-
-Risk factors include low eGFR, higher serum potassium and previous episodes of hyperkalaemia. In these patients more frequent monitoring has to be considered.
-
-## Initiation and continuation of treatment ( see section 4.2)
+Hyperkalaemia has been observed in patients treated with finerenone (see section 4.8). Some patients are at a higher risk to develop hyperkalaemia. Risk factors include low eGFR, higher serum potassium and previous episodes of hyperkalaemia. In these patients more frequent monitoring has to be considered.
 
 If serum potassium &gt; 5.0 mmol/L, finerenone treatment should not be initiated.
+
+## Monitoring
+
+Serum potassium and eGFR have to be remeasured 4 weeks after initiation, restart or dose adjustment of finerenone. Thereafter, serum potassium has to be assessed periodically and as needed based on patient characteristics and serum potassium levels (see section 4.2).
+
+## Chronic kidney disease associated with T2D
+
+## Initiation and continuation of treatment (see section 4.2)
 
 If serum potassium &gt; 4.8 to 5.0 mmol/L, initiation of finerenone treatment may be considered with additional serum potassium monitoring within the first 4 weeks based on patient characteristics and serum potassium levels.
 
@@ -214,25 +277,31 @@ If serum potassium &gt; 5.5 mmol/L, finerenone treatment has to be withheld. Loc
 
 Once serum potassium ≤ 5.0 mmol/L, finerenone treatment can be restarted at 10 mg once daily.
 
-## Monitoring
+## Heart failure with LVEF ≥ 40%
 
-Serum potassium and eGFR have to be remeasured in all patients 4 weeks after initiation, re-start or increase in dose of finerenone. Thereafter, serum potassium has to be assessed periodically and as needed based on patient characteristics and serum potassium levels (see section 4.2).
+## Initiation and continuation of treatment (see section 4.2)
 
-## Concomitant medications
+If serum potassium  6.0 mmol/L, finerenone treatment has to be withheld. Local guidelines for the management of hyperkalaemia have to be followed. Once serum potassium ˂ 5.5 mmol/L, finerenone treatment can be restarted at 10 mg once daily. In case of repeated measurements of serum potassium  5.5 mmol/L, finerenone treatment can only be restarted, when serum potassium is ˂ 5.0 mmol/L.
 
-The risk of hyperkalaemia also may increase with the intake of concomitant medications that may increase serum potassium (see section 4.5.). See also 'Concomitant use of substances that affect finerenone exposure'.
+## Concomitant use of other medicinal products
+
+The risk of hyperkalaemia also may increase with the intake of concomitant medicinal products that may increase serum potassium (see section 4.5). See also 'Concomitant use of substances that affect finerenone exposure'.
 
 Finerenone should not be given concomitantly with
 
 - -potassium-sparing diuretics (e.g., amiloride, triamterene) and
 - -other mineralocorticoid receptor antagonists (MRAs), e.g., eplerenone, esaxerenone, spironolactone, canrenone.
 
+<div style=\"page-break-after: always\"></div>
+
 Finerenone should be used with caution and serum potassium should be monitored when taken concomitantly with
 
-- -potassium supplements.
+- -potassium supplements or potassium-enriched salt substitutes.
 - -trimethoprim, or trimethoprim/sulfamethoxazole. Temporary discontinuation of finerenone may be necessary.
 
-<div style=\"page-break-after: always\"></div>
+## Worsening of renal function in patients with heart failure with LVEF ≥ 40%
+
+An increased incidence of worsening of renal function has been reported in patients with heart failure with LVEF ≥ 40% treated with finerenone (see section 4.8). Monitoring of renal function is recommended periodically during treatment and as needed based on patient characteristics. Elderly patients and patients with impaired renal function (eGFR ˂ 60 mL/min/1.73 m 2 ) are at higher risk for worsening of renal function and should be monitored more frequently (see section 4.2).
 
 ## Renal impairment
 
@@ -252,9 +321,13 @@ Finerenone treatment should not be initiated in patients with severe hepatic imp
 
 The use of finerenone in patients with moderate hepatic impairment may require additional monitoring due to an increase in finerenone exposure. Additional serum potassium monitoring and adaptation of monitoring have to be considered according to patient characteristics (see sections 4.2 and 5.2).
 
-## Heart failure
+## Patients with New York Heart Association (NYHA) class IV
 
-Patients with diagnosed heart failure with reduced ejection fraction and New York Heart Association II-IV were excluded from the phase III clinical studies (see section 5.1).
+Experience with finerenone in heart failure patients classified as NYHA class IV is limited (see section 5.1).
+
+## Elderly
+
+Elderly are more likely to have impaired renal function and to be treated with medicinal products which may cause changes in renal function. Therefore, regular monitoring of renal function is recommended.
 
 ## Concomitant use of substances that affect finerenone exposure
 
@@ -265,6 +338,8 @@ Serum potassium should be monitored during concomitant use of finerenone with mo
 ## Strong and moderate CYP3A4 inducers
 
 Finerenone should not be used concomitantly with strong or moderate CYP3A4 inducers (see section 4.5).
+
+<div style=\"page-break-after: always\"></div>
 
 ## Grapefruit
 
@@ -279,8 +354,6 @@ Women of childbearing potential should be advised to use effective contraception
 Women should be advised not to breast-feed during treatment with finerenone.
 
 See sections 4.6 and 5.3 for more information.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Information about excipients
 
@@ -318,6 +391,8 @@ Kerendia should not be used concomitantly with potassium-sparing diuretics (e.g.
 
 Grapefruit or grapefruit juice should not be consumed during finerenone treatment, as it is expected to increase the plasma concentrations of finerenone through inhibition of CYP3A4 (see sections 4.2 and 4.4).
 
+<div style=\"page-break-after: always\"></div>
+
 ## Concomitant use with precautions
 
 ## Moderate CYP3A4 inhibitors
@@ -326,13 +401,9 @@ In a clinical study, concomitant use of erythromycin (500 mg three times a day) 
 
 Serum potassium may increase, and therefore, monitoring of serum potassium is recommended, especially during initiation or changes to dosing of finerenone or the CYP3A4 inhibitor (see sections 4.2 and 4.4).
 
-<div style=\"page-break-after: always\"></div>
-
 ## Weak CYP3A4 inhibitors
 
-The physiologically based pharmacokinetic (PBPK) simulations suggest that fluvoxamine (100 mg twice daily), increases finerenone AUC (1.6-fold) and Cₘₐₓ (1.4-fold).
-
-Serum potassium may increase, and therefore, monitoring of serum potassium is recommended, especially during initiation or changes to dosing of finerenone or the CYP3A4 inhibitor (see sections 4.2 and 4.4).
+The physiologically based pharmacokinetic (PBPK) simulations suggest that fluvoxamine (100 mg twice daily), increases finerenone AUC (1.6-fold) and Cₘₐₓ (1.4-fold). Serum potassium may increase, and therefore, monitoring of serum potassium is recommended, especially during initiation or changes to dosing of finerenone or the CYP3A4 inhibitor (see sections 4.2 and 4.4).
 
 ## Certain medicinal products that increase serum potassium (see section 4.4)
 
@@ -343,6 +414,16 @@ Temporary discontinuation of Kerendia during trimethoprim, or trimethoprim/sulfa
 ## Antihypertensive medicinal products
 
 The risk for hypotension increases with concomitant use of multiple other antihypertensive medicinal products. In these patients, blood pressure monitoring is recommended.
+
+## Effect of 40 mg finerenone on CYP3A4 and CYP2C8 substrates
+
+At 40 mg once daily, finerenone is a weak inhibitor of the CYP3A4 enzyme in vivo . Co-administration of multiple doses of 40 mg finerenone with the CYP3A4 probe substrate midazolam resulted in a 1.31-fold increase in mean midazolam AUC with no effect on Cₘₐₓ. The potentially increased exposure of sensitive CYP3A4 substrates with a narrow therapeutic window needs to be considered when used concomitantly with finerenone 40 mg once daily. A multiple-dose regimen of 20 mg finerenone given once daily for 10 days had no relevant effect on the AUC of the CYP3A4 probe substrate midazolam. Therefore, a clinically relevant inhibition or induction of CYP3A4 by finerenone can be excluded at this dose level.
+
+At 40 mg once daily, finerenone is a weak inhibitor of the CYP2C8 enzyme in vivo . Co-administration of multiple doses of 40 mg finerenone with the CYP2C8 probe substrate repaglinide resulted in a 1.59-fold increase in mean repaglinide AUC and a 1.30-fold increase in Cₘₐₓ. The potentially increased exposure of CYP2C8 substrates with a narrow therapeutic window needs to be considered when used concomitantly with finerenone 40 mg once daily.
+
+A single dose of 20 mg finerenone had no clinically relevant effect on AUC and Cₘₐₓ of the CYP2C8 probe substrate repaglinide. Thus, finerenone does not inhibit CYP2C8 at this dose level.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 4.6 Fertility, pregnancy and lactation
 
@@ -368,66 +449,98 @@ A decision must be made whether to discontinue breast-feeding or to discontinue/
 
 ## Fertility
 
-There are no data on the effect of finerenone on human fertility.
-
-Animal studies have shown impaired female fertility at exposures considered in excess to the maximum human exposure, indicating low clinical relevance (see section 5.3).
+There are no data on the effect of finerenone on human fertility. Animal studies have shown impaired female fertility at exposures considered in excess to the maximum human exposure, indicating low clinical relevance (see section 5.3).
 
 ## 4.7 Effects on ability to drive and use machines
 
 Kerendia has no influence on the ability to drive and use machines.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 4.8 Undesirable effects
 
 ## Summary of the safety profile
 
-The most frequently reported adverse reaction under treatment with finerenone was hyperkalaemia (14.0%). See 'Description of selected adverse reactions, Hyperkalaemia ' below and section 4.4.
+The most frequently reported adverse reaction under treatment with finerenone was hyperkalaemia (12.6%). See 'Description of selected adverse reactions, Hyperkalaemia ' below and section 4.4.
 
 ## Tabulated list of adverse reactions
 
-The safety of finerenone in patients with chronic kidney disease (CKD) and type 2 diabetes (T2D) was evaluated in 2 pivotal phase III studies, FIDELIO-DKD (diabetic kidney disease) and FIGARO-DKD. In the FIDELIO-DKD study 2,827 patients received finerenone (10 or 20 mg once daily) with a mean duration of treatment of 2.2 years. In the FIGARO-DKD study, 3,683 patients received finerenone (10 or 20 mg once daily) with a mean duration of treatment of 2.9 years.
+The safety of finerenone in patients with chronic kidney disease (CKD) and T2D was evaluated in 2 pivotal phase III studies, FIDELIO-DKD (diabetic kidney disease) and FIGARO-DKD. In the FIDELIO-DKD study 2 818 patients received finerenone (10 mg or 20 mg once daily) with a mean duration of treatment of 2.2 years. In the FIGARO-DKD study, 3 671 patients received finerenone (10 mg or 20 mg once daily) with a mean duration of treatment of 2.9 years.
 
-The adverse reactions observed are listed in table 3. They are classified according to MedDRA`s system organ class database and frequency convention.
+The safety of finerenone in patients with heart failure (HF) with LVEF ≥ 40% was evaluated in the phase III study, FINEARTS-HF. In this study, 2 993 patients received finerenone (10 mg, 20 mg, or 40 mg once daily) with a mean duration of treatment of 2.1 years.
 
-Adverse reactions are grouped according to their frequencies in the order of decreasing seriousness. Frequencies are defined, as follows:
+<div style=\"page-break-after: always\"></div>
 
-Very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), uncommon (≥ 1/1,000 to &lt; 1/100), rare (≥ 1/10,000 to &lt; 1/1,000), very rare (&lt; 1/10,000), not known (cannot be estimated from the available data).
+The adverse reactions observed are listed in table 5. They are classified according to MedDRA system organ class and frequency convention.
 
-Table 3 : Adverse reactions
+Adverse reactions are grouped according to their frequencies in the order of decreasing seriousness. Frequencies are defined as follows:
 
-| System Organ Class (MedDRA)            | Very common   | Common                               | Uncommon              |
-|----------------------------------------|---------------|--------------------------------------|-----------------------|
-| Metabolism and nutrition disorders     | Hyperkalaemia | Hyponatraemia Hyperuricaemia         |                       |
-| Vascular disorders                     |               | Hypotension                          |                       |
-| Skin and subcutaneous tissue disorders |               | Pruritus                             |                       |
-| Investigations                         |               | Glomerular filtration rate decreased | Haemoglobin decreased |
+Very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), uncommon (≥ 1/1 000 to &lt; 1/100), rare (≥ 1/10 000 to &lt; 1/1 000), very rare (&lt; 1/10 000), not known (cannot be estimated from the available data).
+
+Table 5 : Adverse reactions
+
+| System organ class                     | Frequency   | CKD with T2D                                                     | HF with LVEF ≥ 40%                                               |
+|----------------------------------------|-------------|------------------------------------------------------------------|------------------------------------------------------------------|
+| Metabolism and nutrition disorders     | Very common | Hyperkalaemia                                                    | -                                                                |
+| Metabolism and nutrition disorders     | Common      | Hyponatraemia Hyperuricaemia                                     | Hyperkalaemia Hyponatraemia Hyperuricaemia                       |
+| Vascular disorders                     | Common      | Hypotension                                                      | Hypotension                                                      |
+| Gastrointestinal disorders             | Common      | -                                                                | Diarrhoea Constipation                                           |
+| Skin and subcutaneous tissue disorders | Common      | Pruritus                                                         | -                                                                |
+| Renal and urinary disorders            | Common      | -                                                                | Renal impairment Acute kidney injury                             |
+| Investigations                         | Common      | Blood creatinine increased/ Glomerular filtration rate decreased | Blood creatinine increased/ Glomerular filtration rate decreased |
+| Investigations                         | Uncommon    | Haemoglobin decreased                                            | -                                                                |
 
 ## Description of selected adverse reactions
 
 ## Hyperkalaemia
 
-In the pooled data of FIDELIO-DKD and FIGARO-DKD studies, hyperkalaemia events were reported in 14.0% of finerenone-treated patients compared with 6.9% of placebo-treated patients. An increase from baseline in mean serum potassium in the first month of treatment of 0.17 mmol/L was observed in the finerenone group compared to placebo, which remained stable thereafter. The majority of hyperkalaemia events were mild to moderate and resolved in patients treated with finerenone. Serious events of hyperkalaemia were reported more frequently for finerenone (1.1%) than for placebo (0.2%). Serum potassium concentrations &gt; 5.5 mmol/L and &gt; 6.0 mmol/L were reported in 16.8% and 3.3% of finerenone-treated patients and in 7.4% and 1.2% of placebo-treated patients, respectively.
+An increase from baseline in mean serum potassium in the first month of treatment of up to 0.2 mmol/L was observed in the finerenone group compared to placebo, which remained stable thereafter.
 
-Hyperkalaemia leading to permanent discontinuation in patients who received finerenone was 1.7% versus 0.6% in the placebo group. Hospitalisation due to hyperkalaemia in the finerenone group was 0.9% versus 0.2% in the placebo group.
+In the pooled data of FIDELIO-DKD and FIGARO-DKD studies, hyperkalaemia events were reported in 14.0% of finerenone-treated patients compared with 6.9% of placebo-treated patients. Serious events of hyperkalaemia were reported more frequently for finerenone (1.1%) than for placebo (0.2%). Serum potassium concentrations &gt; 5.5 mmol/L and &gt; 6.0 mmol/L were reported in 16.8% and 3.3% of finerenone-treated patients and in 7.4% and 1.3% of placebo-treated patients, respectively. Hyperkalaemia leading to permanent discontinuation in patients who received finerenone was 1.7% versus 0.6% in the placebo group. Hospitalisation due to hyperkalaemia in the finerenone group was 0.9% versus 0.2% in the placebo group.
 
-For specific recommendations, refer to sections 4.2 and 4.4.
+In the FINEARTS-HF study, hyperkalaemia events were reported in 9.7% of finerenone-treated patients compared with 4.2% of placebo-treated patients. Hyperkalaemia leading to permanent discontinuation in patients who received finerenone was 0.4% versus 0.2% in the placebo group. Hospitalisation due to hyperkalaemia in the finerenone group was 0.5% versus 0.2% in the placebo group.
 
-## Hypotension
+In all studies, the majority of hyperkalaemia events were mild to moderate and resolved in patients treated with finerenone.
 
-In the pooled data of FIDELIO-DKD and FIGARO-DKD studies, hypotension events were reported in 4.6% of finerenone-treated patients compared with 3.0% of placebo-treated patients. In 3 patients (&lt; 0.1%), finerenone treatment was permanently discontinued due to hypotension. Hospitalisation due to hypotension was the same in patients receiving finerenone or placebo (&lt; 0.1%).
+For specific recommendations, see sections 4.2 and 4.4.
 
 <div style=\"page-break-after: always\"></div>
 
-The majority of hypotension events were mild or moderate and resolved in patients treated with finerenone. The mean systolic blood pressure decreased by 2-4 mm Hg and the mean diastolic blood pressure decreased by 1-2 mm Hg at month 1, remaining stable thereafter.
+## Worsening of renal function
+
+In the pooled data of FIDELIO-DKD and FIGARO-DKD studies, GFR decreased events were reported in 5.4% of finerenone-treated patients compared with 4.2% of placebo-treated patients. GFR decreased events leading to permanent discontinuation were the same in patients receiving finerenone or placebo (0.2%). Hospitalisation due to decreased GFR was the same in patients receiving finerenone or placebo (&lt; 0.1%).
+
+Blood creatinine increased events were reported in 2.6% of finerenone-treated patients compared with 2.3% of placebo-treated patients.
+
+The majority of GFR decreased/blood creatinine increased events were mild or moderate and resolved in patients treated with finerenone. Patients on finerenone experienced an initial decrease in eGFR (mean 2 mL/min/1.73 m 2 ) that attenuated over time compared to placebo. This decrease appeared to be reversible during continuous treatment.
+
+In the FINEARTS-HF study, events related to worsening of renal function were reported more frequently in patients treated with finerenone (17.7%) compared to those receiving placebo (10.9%). The reported events included renal impairment (6.6% vs. 3.9%), GFR decreased (5.2% vs. 3.6%), acute kidney injury (3.7% vs. 2.1%), renal failure (2.6% vs. 1.6%), and blood creatinine increased (1.2% vs. 0.8%).
+
+Overall, most of the reported events related to worsening of renal function were mild to moderate and resolved in patients treated with finerenone. In some cases where finerenone was permanently discontinued, eGFR did not return to baseline levels. Events related to worsening of renal function that led to permanent discontinuation were identical in both the finerenone and placebo groups (0.3%). Events related to worsening of renal function leading to hospitalisation were reported more frequently in patients treated with finerenone compared to the placebo group (2.0% vs. 1.3%), with acute kidney injury being the most frequently reported event leading to hospitalisation (1.6% in finerenone vs. 0.8% in placebo).
+
+Patients on finerenone experienced an initial decrease in GFR that appeared to be reversible during continuous treatment. The mean difference in GFR between finerenone and placebo was approximately 3-4 mL/min/1.73 m 2 from month 1 to month 6. After month 6, the decline in GFR was slightly larger in the placebo group, with a mean difference between finerenone and placebo of approximately 2-3 mL/min/1.73 m 2 .
+
+## Hypotension
+
+Finerenone treatment led to a mean systolic blood pressure decrease by 2-4 mm Hg and a mean diastolic blood pressure decrease by 1-2 mm Hg at month 1, remaining stable thereafter.
+
+In the pooled data of FIDELIO-DKD and FIGARO-DKD studies, hypotension events were reported in 4.7% of finerenone-treated patients compared with 3.0% of placebo-treated patients. In 3 patients (&lt; 0.1%), finerenone treatment was permanently discontinued due to hypotension. Hospitalisation due to hypotension was the same in patients receiving finerenone or placebo (0.1%).
+
+In the FINEARTS-HF study, hypotension events were reported in 7.6% of finerenone-treated patients compared with 4.7% of placebo-treated patients. In 3 patients (0.1%), finerenone treatment was permanently discontinued due to hypotension. Hospitalisation due to hypotension was 0.4% in the finerenone group versus 0.3% in the placebo group.
+
+In all studies, the majority of hypotension events were mild or moderate and resolved in patients treated with finerenone.
 
 ## Hyperuricaemia
 
-In the pooled data of FIDELIO-DKD and FIGARO-DKD studies, hyperuricaemia events were reported in 5.1% of finerenone-treated patients compared with 3.9% of placebo-treated patients. All events were non-serious and did not result in permanent discontinuation in patients who received finerenone. An increase from baseline in mean serum uric acid of 0.3 mg/dL was seen in the finerenone group compared to placebo up to month 16, which attenuated over time. No difference between the finerenone group and the placebo group was observed for reported events of gout (3.0%).
+In the pooled data of FIDELIO-DKD and FIGARO-DKD studies, hyperuricaemia events were reported in 5.1% of finerenone-treated patients compared with 3.9% of placebo-treated patients. An increase from baseline in mean serum uric acid of 0.3 mg/dL was seen in the finerenone group compared to placebo up to month 16, which attenuated over time. Gout reporting was comparable in finerenone-treated patients (3.1%) and in placebo-treated patients (3.0%).
 
-## Glomerular filtration rate (GFR) decreased
+<div style=\"page-break-after: always\"></div>
 
-In the pooled data of FIDELIO-DKD and FIGARO-DKD studies, GFR decreased events were reported in 5.3% of finerenone-treated patients compared with 4.2% of placebo-treated patients. GFR decreased events leading to permanent discontinuation were the same in patients receiving finerenone or placebo (0.2%). Hospitalisation due to decreased GFR was the same in patients receiving finerenone or placebo (&lt; 0.1%). The majority of GFR decreased events were mild or moderate and resolved in patients treated with finerenone. Patients on finerenone experienced an initial decrease in eGFR (mean 2 mL/min/1.73 m 2 ) that attenuated over time compared to placebo. This decrease appeared to be reversible during continuous treatment.
+In the FINEARTS-HF study, hyperuricaemia reporting was comparable in finerenone-treated patients (2.7%) and in placebo-treated patients (2.4%). Gout reporting was comparable in finerenone-treated patients (2.4%) and in placebo-treated patients (2.8%).
+
+In all studies, hyperuricaemia events were non-serious and did not result in permanent discontinuation in patients who received finerenone.
+
+## Gastrointestinal disorders
+
+In the FINEARTS-HF study, diarrhoea (5.7% vs. 4.4%) and constipation (3.8% vs. 2.7%) were reported more frequently for finerenone compared with placebo.
 
 ## Haemoglobin decreased
 
@@ -449,8 +562,6 @@ Finerenone is unlikely to be efficiently removed by haemodialysis given its frac
 
 Pharmacotherapeutic group: diuretics, aldosterone antagonists, ATC code: C03DA05
 
-<div style=\"page-break-after: always\"></div>
-
 ## Mechanism of action
 
 Finerenone is a nonsteroidal, selective antagonist of the mineralocorticoid receptor (MR) which is activated by aldosterone and cortisol and regulates gene transcription. Its binding to the MR leads to a specific receptor-ligand complex that blocks recruitment of transcriptional coactivators implicated in the expression of pro-inflammatory and pro-fibrotic mediators.
@@ -458,6 +569,10 @@ Finerenone is a nonsteroidal, selective antagonist of the mineralocorticoid rece
 ## Pharmacodynamic effects
 
 In FIDELIO-DKD and FIGARO-DKD, randomised, double-blind, placebo-controlled, multicentre phase III studies in adult patients with CKD and T2D, the placebo-corrected relative reduction in urinary albumin-to-creatinine ratio (UACR) in patients randomised to finerenone was 31% and 32%, respectively at month 4 and UACR remained reduced throughout both studies.
+
+<div style=\"page-break-after: always\"></div>
+
+In FINEARTS-HF, randomised, double-blind, placebo-controlled, multicentre phase III study in adult patients with HF with LVEF ≥ 40%, the placebo-corrected relative reduction in UACR in patients randomised to finerenone was 30% at month 6, and UACR remained reduced up to the last measurement at year 2.
 
 In ARTS-DN, a randomised, double-blind, placebo-controlled, multicentre phase IIb study in adult patients with CKD and T2D, the placebo-corrected relative reduction in UACR at Day 90 was 25% and 38% in patients treated with finerenone 10 mg and 20 mg once daily, respectively.
 
@@ -467,54 +582,54 @@ A dedicated QT study in 57 healthy participants showed that finerenone has no ef
 
 ## Clinical efficacy and safety
 
-The FIDELIO-DKD and FIGARO-DKD studies investigated the effect of finerenone compared to placebo on kidney and cardiovascular (CV) outcomes in adult patients with CKD and T2D. Patients were required to be receiving standard of care, including a maximum tolerated labelled dose of an angiotensin-converting enzyme inhibitor (ACEi) or angiotensin receptor blocker (ARB). Patients with diagnosed heart failure with reduced ejection fraction and New York Heart Association II-IV were excluded due to the class 1A recommendation for MRA therapy.
+## Chronic kidney disease associated with T2D
 
-In the FIDELIO-DKD study patients were eligible based on evidence of persistent albuminuria (&gt; 30 mg/g to 5,000 mg/g), an eGFR of 25 to 75 mL/min/1.73 m 2  and serum potassium ≤ 4.8 mmol/L at screening.
+The FIDELIO-DKD and FIGARO-DKD studies investigated the effect of finerenone compared to placebo on kidney and cardiovascular (CV) outcomes in adult patients with CKD and T2D. Patients were required to be receiving standard of care, including a maximum tolerated labelled dose of an angiotensin-converting enzyme inhibitor (ACEi) or angiotensin receptor blocker (ARB). Patients with diagnosed heart failure with reduced ejection fraction and NYHA class II-IV were excluded due to the class 1A recommendation for MRA therapy.
+
+In the FIDELIO-DKD study patients were eligible based on evidence of persistent albuminuria (&gt; 30 mg/g to 5 000 mg/g), an eGFR of 25 to 75 mL/min/1.73 m 2  and serum potassium ≤ 4.8 mmol/L at screening.
 
 The primary endpoint was a composite of time to first occurrence of kidney failure (defined as chronic dialysis or kidney transplantation, or a sustained decrease in eGFR to &lt; 15 mL/min/1.73 m 2 over at least 4 weeks), a sustained decline in eGFR of 40% or more compared to baseline over at least 4 weeks, or renal death. The key secondary endpoint was a composite of time to first occurrence of CV death, non-fatal myocardial infarction (MI), non-fatal stroke or hospitalisation for heart failure.
 
-A total of 5,674 patients were randomised to receive either finerenone (N = 2,833) or placebo (N = 2,841) and included in the analyses. The median follow-up was 2.6 years. The dose of finerenone or placebo could be adjusted between 10 mg and 20 mg once daily during the course of the study, based mainly on serum potassium concentration. At month 24, of the subjects treated with finerenone, 67% were treated with 20 mg once daily, 30% with 10 mg once daily and 3% were on a treatment interruption.
+A total of 5 662 patients were randomised to receive either finerenone (N = 2 824) or placebo (N = 2 838) and included in the analyses. The median follow-up was 2.6 years. The dose of finerenone or placebo could be adjusted between 10 mg and 20 mg once daily during the course of the study, based mainly on serum potassium concentration. At month 24, of the subjects treated with finerenone, 67% were treated with 20 mg once daily, 31% with 10 mg once daily and 3% were on a treatment interruption.
 
-After the end of study, vital status was obtained for 99.7% of patients. The study population was 63% White, 25% Asian and 5% Black. The mean age at enrolment was 66 years and 70% of patients were male. At baseline, the mean eGFR was 44.3 mL/min/1.73 m 2 , with 55% of patients having an eGFR &lt; 45 mL/min/1.73 m 2 , median UACR was 852 mg/g, and mean HbA1c was 7.7%, 46% had a history of atherosclerotic CV disease, 30% a history of coronary artery disease, 8% a history of cardiac failure, and the mean blood pressure was 138/76 mm Hg. The mean duration of T2D at baseline was 16.6 years and a history of diabetic retinopathy and diabetic neuropathy was reported in 47% and 26% of patients, respectively. At baseline, almost all patients were on ACEi (34%) or ARB (66%), and 97%
+After the end of study, vital status was obtained for 99.7% of patients. The study population was 63% White, 25% Asian and 5% Black. The mean age at enrolment was 66 years and 70% of patients were male. At baseline, the mean eGFR was 44.4 mL/min/1.73 m 2 , with 55% of patients having an eGFR &lt; 45 mL/min/1.73 m 2 , median UACR was 853 mg/g, and mean HbA1c was 7.7%, 46% had a history of atherosclerotic CV disease, 30% a history of coronary artery disease, 8% a history of cardiac failure, and the mean blood pressure was 138/76 mm Hg. The mean duration of T2D at baseline was 16.6 years and a history of diabetic retinopathy and diabetic neuropathy was reported in 47% and 26% of patients, respectively. At baseline, almost all patients were on ACEi (34%) or ARB (66%), and 97% of patients used one or more antidiabetic medicinal products (insulin [64%], biguanides [44%], glucagon-like peptide-1 [GLP-1] receptor agonists [7%], sodium-glucose cotransporter 2 [SGLT2] inhibitors [5%]). The other most frequent medicinal products taken at baseline were statins (74%) and calcium channel blockers (63%).
+
+A statistically significant difference in favour of finerenone was shown for the primary composite endpoint and the key secondary composite endpoint (see figure 1/table 6 below). The treatment effect for the primary and key secondary endpoints was generally consistent across subgroups, including region, eGFR, UACR, systolic blood pressure (SBP) and HbA1c at baseline.
 
 <div style=\"page-break-after: always\"></div>
-
-of patients used one or more antidiabetic medications (insulin [64%], biguanides [44%], glucagon-like peptide-1 [GLP-1] receptor agonists [7%], sodium-glucose cotransporter 2 [SGLT2] inhibitors [5%]). The other most frequent medications taken at baseline were statins (74%) and calcium channel blockers (63%).
-
-A statistically significant difference in favour of finerenone was shown for the primary composite endpoint and the key secondary composite endpoint (see figure 1/table 4 below). The treatment effect for the primary and key secondary endpoints was generally consistent across subgroups, including region, eGFR, UACR, systolic blood pressure (SBP) and HbA1c at baseline.
 
 In the FIGARO-DKD study patients were eligible, based on evidence of persistent albuminuria having an UACR of ≥ 30 mg/g to &lt; 300 mg/g and an eGFR of 25 to 90 mL/min/1.73 m 2 , or an UACR ≥ 300 mg/g and an eGFR ≥ 60 mL/min/1.73 m 2  at screening. Patients were required to have a serum potassium of ≤ 4.8 mmol/L at screening.
 
 The primary endpoint was a composite of time to first occurrence of CV death, non-fatal MI, non-fatal stroke or hospitalisation for heart failure. The secondary endpoint was a composite of time to kidney failure, a sustained decline in eGFR of 40% or more compared to baseline over at least 4 weeks, or renal death.
 
-A total of 7,352 patients were randomised to receive either finerenone (N = 3,686), or placebo (N = 3,666) and included in the analyses. The median follow-up was 3.4 years. The dose of finerenone or placebo could be adjusted between 10 mg and 20 mg once daily during the course of the study, based mainly on serum potassium concentration. At month 24, of the subjects treated with finerenone, 82% were treated with 20 mg once daily, 15% with 10 mg once daily and 3% were on a treatment interruption. After the end of study, vital status was obtained for 99.8% of patients. The study population was 72% White, 20% Asian and 4% Black. The mean age at enrolment was 64 years and 69% of patients were male. At baseline, the mean eGFR was 67.8 mL/min/1.73 m 2 , with 62% of patients having an eGFR ≥ 60 mL/min/1.73 m 2 , median UACR was 308 mg/g, and mean HbA1c was 7.7%, 45% of patients had a history of atherosclerotic CV disease, 8% had a history of cardiac failure, and the mean blood pressure was 136/77 mm Hg. The mean duration of T2D at baseline was 14.5 years and a history of diabetic retinopathy and diabetic neuropathy was reported in 31% and 28% of patients, respectively. At baseline, almost all patients were on ACEi (43%) or ARB (57%), and 98% of patients used one or more antidiabetic medications (insulin [54%], biguanides [69%], GLP-1 receptor agonists [7%], SGLT2 inhibitors [8%]). The other most frequent medication taken at baseline was statins (71%).
+A total of 7 328 patients were randomised to receive either finerenone (N = 3 674), or placebo (N = 3 654) and included in the analyses. The median follow-up was 3.4 years. The dose of finerenone or placebo could be adjusted between 10 mg and 20 mg once daily during the course of the study, based mainly on serum potassium concentration. At month 24, of the subjects treated with finerenone, 82% were treated with 20 mg once daily, 15% with 10 mg once daily and 3% were on a treatment interruption. After the end of study, vital status was obtained for 99.8% of patients. The study population was 72% White, 20% Asian and 4% Black. The mean age at enrolment was 64 years and 69% of patients were male. At baseline, the mean eGFR was 67.8 mL/min/1.73 m 2 , with 62% of patients having an eGFR ≥ 60 mL/min/1.73 m 2 , median UACR was 309 mg/g, and mean HbA1c was 7.7%, 45% of patients had a history of atherosclerotic CV disease, 8% had a history of cardiac failure, and the mean blood pressure was 136/77 mm Hg. The mean duration of T2D at baseline was 14.5 years and a history of diabetic retinopathy and diabetic neuropathy was reported in 31% and 28% of patients, respectively. At baseline, almost all patients were on ACEi (43%) or ARB (57%), and 98% of patients used one or more antidiabetic medicinal product (insulin [54%], biguanides [69%], GLP-1 receptor agonists [8%], SGLT2 inhibitors [8%]). The other most frequent medicinal products taken at baseline were statins (71%).
 
-A statistically significant difference in favour of finerenone was shown for the CV primary composite endpoint (see figure 2/table 5 below). The treatment effect for the primary endpoint was consistent across subgroups, including region, eGFR, UACR, SBP and HbA1c at baseline.
+A statistically significant difference in favour of finerenone was shown for the CV primary composite endpoint (see figure 2/table 7 below). The treatment effect for the primary endpoint was consistent across subgroups, including region, eGFR, UACR, SBP and HbA1c at baseline.
 
-A lower incidence rate of the secondary composite outcome of kidney failure, sustained eGFR decline of 40% or more or renal death was observed in the finerenone group compared to placebo, however this difference did not achieve statistical significance (see table 5 below). The treatment effect for the kidney secondary composite endpoint was consistent across subgroups of eGFR at baseline, but for the subgroup of patients with UACR &lt; 300 mg/g the HR was 1.16 (95% CI 0.91; 1.47) and for the subgroup of patients with UACR ≥ 300 mg/g the HR was 0.74 (95% CI 0.62; 0.90). Additional prespecified secondary time-to-event endpoints are included in table 5.
+A lower incidence rate of the secondary composite outcome of kidney failure, sustained eGFR decline of 40% or more or renal death was observed in the finerenone group compared to placebo, however this difference did not achieve statistical significance (see table 7 below). The treatment effect for the kidney secondary composite endpoint was consistent across subgroups of eGFR at baseline, but for the subgroup of patients with UACR &lt; 300 mg/g the HR was 1.16 (95% CI 0.91; 1.47) and for the subgroup of patients with UACR ≥ 300 mg/g the HR was 0.74 (95% CI 0.61; 0.89). Additional prespecified secondary time-to-event endpoints are included in table 7.
 
 <div style=\"page-break-after: always\"></div>
 
-Table 4 : Analysis of the primary and secondary time-to-event endpoints (and their individual components) in phase III study FIDELIO-DKD
+Table 6 : Analysis of the primary and secondary time-to-event endpoints (and their individual components) in phase III study FIDELIO-DKD
 
-|                                                                                            | Kerendia* (N = 2,833)                                  | Kerendia* (N = 2,833)                                  | Placebo (N = 2,841)                                    | Placebo (N = 2,841)                                    | Treatment effect                                       |
+|                                                                                            | Kerendia* (N = 2 824)                                  | Kerendia* (N = 2 824)                                  | Placebo (N = 2 838)                                    | Placebo (N = 2 838)                                    | Treatment effect                                       |
 |--------------------------------------------------------------------------------------------|--------------------------------------------------------|--------------------------------------------------------|--------------------------------------------------------|--------------------------------------------------------|--------------------------------------------------------|
 |                                                                                            | N (%)                                                  | Events/ 100-pyr                                        | N (%)                                                  | Events/ 100-pyr                                        | HR (95% CI)                                            |
 | Primary renal composite endpoint and its components                                        | Primary renal composite endpoint and its components    | Primary renal composite endpoint and its components    | Primary renal composite endpoint and its components    | Primary renal composite endpoint and its components    | Primary renal composite endpoint and its components    |
-| Composite of kidney failure, sustained eGFR decline ≥ 40% or renal death                   | 504 (17.8)                                             | 7.59                                                   | 600 (21.1)                                             | 9.08                                                   | 0.82 (0.73; 0.93) p = 0.0014                           |
-| Kidney failure                                                                             | 208 (7.3)                                              | 2.99                                                   | 235 (8.3)                                              | 3.39                                                   | 0.87 (0.72; 1.05)                                      |
-| Sustained eGFR decline ≥ 40%                                                               | 479 (16.9)                                             | 7.21                                                   | 577 (20.3)                                             | 8.73                                                   | 0.81 (0.72; 0.92)                                      |
+| Composite of kidney failure, sustained eGFR decline ≥ 40% or renal death                   | 498 (17.6)                                             | 7.53                                                   | 600 (21.1)                                             | 9.09                                                   | 0.82 (0.73; 0.92) p = 0.0009                           |
+| Kidney failure                                                                             | 205 (7.3)                                              | 2.96                                                   | 235 (8.3)                                              | 3.39                                                   | 0.86 (0.72; 1.05)                                      |
+| Sustained eGFR decline ≥ 40%                                                               | 473 (16.7)                                             | 7.15                                                   | 577 (20.3)                                             | 8.74                                                   | 0.81 (0.72; 0.91)                                      |
 | Renal death                                                                                | 2 (< 0.1)                                              | -                                                      | 2 (< 0.1)                                              | -                                                      | -                                                      |
 | Key secondary CV composite endpoint and its components                                     | Key secondary CV composite endpoint and its components | Key secondary CV composite endpoint and its components | Key secondary CV composite endpoint and its components | Key secondary CV composite endpoint and its components | Key secondary CV composite endpoint and its components |
-| Composite of CV death, non-fatal MI, non-fatal stroke or hospitalisation for heart failure | 367 (13.0)                                             | 5.11                                                   | 420 (14.8)                                             | 5.92                                                   | 0.86 (0.75; 0.99) p = 0.0339                           |
-| CV death                                                                                   | 128 (4.5)                                              | 1.69                                                   | 150 (5.3)                                              | 1.99                                                   | 0.86 (0.68;1.08)                                       |
-| Non-fatal MI                                                                               | 70 (2.5)                                               | 0.94                                                   | 87 (3.1)                                               | 1.17                                                   | 0.80 (0.58;1.09)                                       |
-| Non-fatal stroke                                                                           | 90 (3.2)                                               | 1.21                                                   | 87 (3.1)                                               | 1.18                                                   | 1.03 (0.76;1.38)                                       |
-| Hospitalisation for heart failure                                                          | 139 (4.9)                                              | 1.89                                                   | 162 (5.7)                                              | 2.21                                                   | 0.86 (0.68;1.08)                                       |
+| Composite of CV death, non-fatal MI, non-fatal stroke or hospitalisation for heart failure | 366 (13.0)                                             | 5.11                                                   | 420 (14.8)                                             | 5.93                                                   | 0.86 (0.75; 0.99) p = 0.0344                           |
+| CV death                                                                                   | 128 (4.5)                                              | 1.70                                                   | 150 (5.3)                                              | 1.99                                                   | 0.86 (0.68;1.09)                                       |
+| Non-fatal MI                                                                               | 70 (2.5)                                               | 0.94                                                   | 87 (3.1)                                               | 1.18                                                   | 0.80 (0.58;1.09)                                       |
+| Non-fatal stroke                                                                           | 90 (3.2)                                               | 1.22                                                   | 87 (3.1)                                               | 1.18                                                   | 1.03 (0.77;1.38)                                       |
+| Hospitalisation for heart failure                                                          | 138 (4.9)                                              | 1.88                                                   | 162 (5.7)                                              | 2.22                                                   | 0.85 (0.68;1.07)                                       |
 | Secondary efficacy endpoints                                                               | Secondary efficacy endpoints                           | Secondary efficacy endpoints                           | Secondary efficacy endpoints                           | Secondary efficacy endpoints                           | Secondary efficacy endpoints                           |
-| All-cause mortality                                                                        | 219 (7.7)                                              | 2.90                                                   | 244 (8.6)                                              | 3.23                                                   | 0.90 (0.75; 1.07) **                                   |
-| All-cause hospitalisation                                                                  | 1,263 (44.6)                                           | 22.56                                                  | 1,321 (46.5)                                           | 23.87                                                  | 0.95 (0.88; 1.02) **                                   |
-| Composite of kidney failure, sustained eGFR decline ≥ 57% or renal death                   | 252 (8.9)                                              | 3.64                                                   | 326 (11.5)                                             | 4.74                                                   | 0.76 (0.65; 0.90) **                                   |
+| All-cause mortality                                                                        | 219 (7.8)                                              | 2.90                                                   | 244 (8.6)                                              | 3.24                                                   | 0.90 (0.75; 1.08) **                                   |
+| All-cause hospitalisation                                                                  | 1 259 (44.6)                                           | 22.59                                                  | 1 321 (46.5)                                           | 23.91                                                  | 0.95 (0.88; 1.02) **                                   |
+| Composite of kidney failure, sustained eGFR decline ≥ 57% or renal death                   | 248 (8.8)                                              | 3.60                                                   | 326 (11.5)                                             | 4.74                                                   | 0.75 (0.65; 0.90) **                                   |
 
 CI:
 
@@ -536,25 +651,25 @@ Figure 1 : Time to first occurrence of kidney failure, sustained decline in eGFR
 
 <div style=\"page-break-after: always\"></div>
 
-Table 5: Analysis of the primary and secondary time-to-event endpoints (and their individual components) in phase III study FIGARO-DKD
+Table 7: Analysis of the primary and secondary time-to-event endpoints (and their individual components) in phase III study FIGARO-DKD
 
-|                                                                                            | Kerendia* (N = 3,686)                                 | Kerendia* (N = 3,686)                                 | Placebo (N = 3,666)                                   | Placebo (N = 3,666)                                   | Treatment effect                                      |
+|                                                                                            | Kerendia* (N = 3 674)                                 | Kerendia* (N = 3 674)                                 | Placebo (N = 3 654)                                   | Placebo (N = 3 654)                                   | Treatment effect                                      |
 |--------------------------------------------------------------------------------------------|-------------------------------------------------------|-------------------------------------------------------|-------------------------------------------------------|-------------------------------------------------------|-------------------------------------------------------|
 |                                                                                            | N (%)                                                 | Events/ 100-pyr                                       | N (%)                                                 | Events/ 100-pyr                                       | HR (95% CI)                                           |
 | Primary CV composite endpoint and its components                                           | Primary CV composite endpoint and its components      | Primary CV composite endpoint and its components      | Primary CV composite endpoint and its components      | Primary CV composite endpoint and its components      | Primary CV composite endpoint and its components      |
-| Composite of CV death, non-fatal MI, non-fatal stroke or hospitalisation for heart failure | 458 (12.4)                                            | 3.87                                                  | 519 (14.2)                                            | 4.45                                                  | 0.87 (0.76; 0.98) p = 0.0264                          |
-| CV death                                                                                   | 194 (5.3)                                             | 1.56                                                  | 214 (5.8)                                             | 1.74                                                  | 0.90 (0.74; 1.09)                                     |
-| Non-fatal MI                                                                               | 103 (2.8)                                             | 0.85                                                  | 102 (2.8)                                             | 0.85                                                  | 0.99 (0.76; 1.31)                                     |
-| Non-fatal stroke                                                                           | 108 (2.9)                                             | 0.89                                                  | 111 (3.0)                                             | 0.92                                                  | 0.97 (0.74; 1.26)                                     |
-| Hospitalisation for heart failure                                                          | 117 (3.2)                                             | 0.96                                                  | 163 (4.4)                                             | 1.36                                                  | 0.71 (0.56; 0.90)                                     |
+| Composite of CV death, non-fatal MI, non-fatal stroke or hospitalisation for heart failure | 457 (12.4)                                            | 3.88                                                  | 518 (14.2)                                            | 4.46                                                  | 0.87 (0.76; 0.98) p = 0.0254                          |
+| CV death                                                                                   | 193 (5.3)                                             | 1.56                                                  | 214 (5.9)                                             | 1.75                                                  | 0.89 (0.73; 1.08)                                     |
+| Non-fatal MI                                                                               | 103 (2.8)                                             | 0.85                                                  | 101 (2.8)                                             | 0.84                                                  | 1.00 (0.76; 1.32)                                     |
+| Non-fatal stroke                                                                           | 108 (2.9)                                             | 0.89                                                  | 111 (3.0)                                             | 0.93                                                  | 0.97 (0.74; 1.26)                                     |
+| Hospitalisation for heart failure                                                          | 117 (3.2)                                             | 0.97                                                  | 163 (4.5)                                             | 1.36                                                  | 0.71 (0.56; 0.90)                                     |
 | Secondary renal composite endpoint and its components                                      | Secondary renal composite endpoint and its components | Secondary renal composite endpoint and its components | Secondary renal composite endpoint and its components | Secondary renal composite endpoint and its components | Secondary renal composite endpoint and its components |
-| Composite of kidney failure, sustained eGFR decline ≥ 40% or renal death                   | 350 (9.5)                                             | 3.15                                                  | 395 (10.8)                                            | 3.58                                                  | 0.87 (0.76; 1.01) p = 0.0689 **                       |
-| Kidney failure                                                                             | 46 (1.2)                                              | 0.40                                                  | 62 (1.7)                                              | 0.54                                                  | 0.72 (0.49;1.05)                                      |
-| Sustained eGFR decline ≥ 40%                                                               | 338 (9.2)                                             | 3.04                                                  | 385 (10.5)                                            | 3.49                                                  | 0.87 (0.75; > 1.00)                                   |
+| Composite of kidney failure, sustained eGFR decline ≥ 40% or renal death                   | 350 (9.5)                                             | 3.17                                                  | 395 (10.8)                                            | 3.59                                                  | 0.87 (0.75; 1.01) p = 0.0635 **                       |
+| Kidney failure                                                                             | 46 (1.3)                                              | 0.40                                                  | 62 (1.7)                                              | 0.55                                                  | 0.72 (0.49;1.05)                                      |
+| Sustained eGFR decline ≥ 40%                                                               | 338 (9.2)                                             | 3.06                                                  | 385 (10.5)                                            | 3.50                                                  | 0.86 (0.74; < 1.00)                                   |
 | Renal death                                                                                | 0                                                     | -                                                     | 2 (< 0.1)                                             | -                                                     | -                                                     |
 | Secondary efficacy endpoints                                                               | Secondary efficacy endpoints                          | Secondary efficacy endpoints                          | Secondary efficacy endpoints                          | Secondary efficacy endpoints                          | Secondary efficacy endpoints                          |
-| All-cause mortality                                                                        | 333 (9.0)                                             | 2.68                                                  | 370 (10.1)                                            | 3.01                                                  | 0.89 (0.77; 1.04) **                                  |
-| All-cause hospitalisation                                                                  | 1,573 (42.7)                                          | 16.91                                                 | 1,605 (43.8)                                          | 17.52                                                 | 0.97 (0.90; 1.04) **                                  |
+| All-cause mortality                                                                        | 332 (9.0)                                             | 2.69                                                  | 370 (10.1)                                            | 3.03                                                  | 0.89 (0.77; 1.03) **                                  |
+| All-cause hospitalisation                                                                  | 1 569 (42.7)                                          | 16.94                                                 | 1 599 (43.8)                                          | 17.54                                                 | 0.97 (0.90; 1.04) **                                  |
 | Composite of kidney failure, sustained eGFR decline ≥ 57% or renal death                   | 108 (2.9)                                             | 0.95                                                  | 139 (3.8)                                             | 1.23                                                  | 0.77 (0.60; 0.99) **                                  |
 
 CI:
@@ -575,9 +690,68 @@ Figure 2 : Time to first occurrence of CV death, non-fatal myocardial infarction
 
 <!-- image -->
 
+## Heart failure with LVEF ≥ 40%
+
+The FINEARTS-HF study investigated the effect of finerenone compared to placebo on cardiovascular outcomes in adult patients with heart failure.
+
+Patients were eligible with a diagnosis of heart failure with NYHA class II-IV, ambulatory or hospitalised primarily for heart failure, and with documented LVEF ≥ 40%. In addition, patients had an eGFR ≥ 25 mL/min/1.73 m 2  and serum potassium ≤ 5.0 mmol/L at screening and randomisation and were receiving background therapy, including diuretic treatment.
+
+The primary endpoint was the composite of cardiovascular death and total (first and recurrent) heart failure events comprised of hospitalisation for heart failure and urgent heart failure visits. A multiple-testing procedure was used for the secondary endpoints, including total (first and recurrent) heart failure events, and change from baseline to month 6, 9, and 12 in Total Symptom Score (TSS) of the Kansas City Cardiomyopathy Questionnaire (KCCQ) (which quantifies heart failure symptom frequency and severity).
+
+The study analysed 6 001 patients randomly assigned to receive either finerenone (N=3 003) or placebo (N=2 998). The median follow-up was 2.7 years. The study included 3 247 (54%) patients with a heart failure event in the past 3 months, including 1 219 (20%) patients randomised during the hospitalisation or within 7 days of discharge.
+
+Based on renal parameters, patients received either 10 mg, 20 mg or 40 mg finerenone or placebo once daily during the course of the study. At month 24, of the subjects treated with finerenone, 35% were treated with 40 mg once daily, 32% with 20 mg once daily, 12% with 10 mg once daily and 1% were on a treatment interruption. At any time during treatment approximately 80% of the patients reached their target dose.
+
+After the end of study notification, vital status was obtained for 99.7% of patients. The study population was 79% White, 17% Asian and 1.5% Black. The mean age at enrolment was 72 years and 46% of patients were female. At baseline, the mean LVEF was 53%, with 64% of patients having an LVEF ≥ 50%, and 69%, 30% and 1% of patients were NYHA class II, III and IV, respectively. Mean blood pressure was 129/75 mm Hg while BMI was 30 kg/m 2 . The median N-terminal prohormone of brain natriuretic peptide (NT-pro-BNP) was 1 041 pg/mL, the mean eGFR was 62 mL/min/1.73 m 2 with 48% of patients having an eGFR ˂ 60 mL/min/1.73 m 2 , and the median UACR was 18 mg/g. Atrial fibrillation was present for 38% of patients and 41% had diabetes mellitus. The majority of patients were on loop diuretics (87%), an ACEi or ARB (79%), or an angiotensin receptor neprilysin inhibitor (9%), and 14% were on SGLT2 inhibitors.
+
+<div style=\"page-break-after: always\"></div>
+
+A statistically significant difference in favour of finerenone was shown for the primary composite endpoint (see table 8 below). The effect was observed early and was sustained throughout the duration of the study (see figure 3 below). A statistically significant difference in favour of finerenone was also shown for the secondary endpoints of total heart failure events. Prespecified secondary efficacy endpoints are also included in table 8 below. The treatment effect for the primary and key secondary endpoints was consistent across all prespecified subgroups, including gender, LVEF, NYHA class, eGFR, time since latest heart failure event, SGLT2 inhibitor therapy, and diabetes mellitus status.
+
+<div style=\"page-break-after: always\"></div>
+
+Table 8: Analysis of the primary and secondary endpoints (and their individual components for time-to-event endpoints) in phase III study FINEARTS-HF
+
+|                                                      | Kerendia* (N = 3 003)                            | Kerendia* (N = 3 003)                            | Placebo (N = 2 998)                              | Placebo (N = 2 998)                              | Treatment effect                                 |
+|------------------------------------------------------|--------------------------------------------------|--------------------------------------------------|--------------------------------------------------|--------------------------------------------------|--------------------------------------------------|
+|                                                      | [Event total] N (%)                              | Events/ 100-pyr                                  | [Event total] N (%)                              | Events/ 100-pyr                                  | (95% CI)                                         |
+| Primary CV composite endpoint and its components     | Primary CV composite endpoint and its components | Primary CV composite endpoint and its components | Primary CV composite endpoint and its components | Primary CV composite endpoint and its components | Primary CV composite endpoint and its components |
+| Composite of CV death and total heart failure events | [1 083] 624 (20.8)                               | 14.88                                            | [1 283] 719 (24.0)                               | 17.70                                            | RR 0.84 (0.74; 0.95) p = 0.0072                  |
+| Total heart failure event**                          | [842] 479 (16.0)                                 | 11.57                                            | [1 024] 573 (19.1)                               | 14.12                                            | RR 0.82 (0.71; 0.94) p = 0.0062                  |
+| CV death                                             | 242 (8.1)                                        | 3.33                                             | 260 (8.7)                                        | 3.59                                             | HR 0.93 (0.78; 1.11)                             |
+| Secondary efficacy endpoints                         | Secondary efficacy endpoints                     | Secondary efficacy endpoints                     | Secondary efficacy endpoints                     | Secondary efficacy endpoints                     | Secondary efficacy endpoints                     |
+| Change from baseline in KCCQ-TSS                     | LSM 7.99                                         | -                                                | LSM 6.43                                         | -                                                | LSM difference 1.56 (0.79; 2.34) p ˂ 0.0001      |
+| Improvement in NYHA class                            | 557 (18.6) N = 3 002                             | -                                                | 553 (18.4)                                       | -                                                | OR 1.01 (0.88; 1.15) p = 0.9295 †                |
+| Renal composite endpoint                             | 75 (2.5)                                         | 1.16                                             | 55 (1.8)                                         | 0.85                                             | HR 1.33 (0.94; 1.89) p ††                        |
+| Sustained eGFR decrease ≥ 50%                        | 68 (2.3)                                         | 1.05                                             | 51 (1.7)                                         | 0.79                                             | -                                                |
+| Sustained eGFR decline to ˂ 15mL/min/1.73m 2         | 5 (0.2)                                          | 0.08                                             | 2 (˂ 0.1)                                        | 0.03                                             | -                                                |
+| Initiation of dialysis                               | 2 (˂ 0.1)                                        | 0.03                                             | 2 (˂ 0.1)                                        | 0.03                                             | -                                                |
+| Renal transplantation                                | 0 (0.0)                                          | 0.00                                             | 0 (0.0)                                          | -                                                | -                                                |
+| All-cause mortality                                  | 491 (16.4)                                       | 6.71                                             | 522 (17.4)                                       | 7.17                                             | HR 0.93 (0.83; 1.06)                             |
+
+Abbreviations:
+
+CI: Confidence interval; HR: Hazard ratio; LSM: Least squares mean; OR: Odds ratio;
+
+RR: Rate ratio; pyr: patient-years
+
+* Treatment with 10, 20 or 40 mg once daily in addition to background therapy, including diuretic treatment
+
+** Total (first and recurrent) heart failure events was also a key secondary endpoint
+
+† Not significant (testing procedure stopped)
+
+†† Endpoint not formally tested (preceding endpoint in testing procedure not significant)
+
+<div style=\"page-break-after: always\"></div>
+
+Figure 3: Primary composite endpoint of CV death and total (first and recurrent) heart failure events in the FINEARTS-HF study
+
+<!-- image -->
+
 ## Paediatric population
 
-The European Medicines Agency has deferred the obligation to submit the results of studies with Kerendia in one or more subsets of the paediatric population in treatment of chronic kidney disease (see section 4.2 for information on paediatric use).
+The European Medicines Agency has deferred the obligation to submit the results of studies with Kerendia in one or more subsets of the paediatric population in treatment of chronic kidney disease and heart failure (see section 4.2 for information on paediatric use).
 
 ## 5.2 Pharmacokinetic properties
 
@@ -587,17 +761,17 @@ Finerenone is almost completely absorbed after oral administration. Absorption i
 
 ## Effect of food
 
-Intake with high fat, high calorie food increased finerenone AUC by 21%, reduced Cₘₐₓ by 19% and prolonged the time to reach Cₘₐₓ to 2.5 hours. Since this is not considered as clinically relevant, finerenone can be taken with or without food.
+Intake with high fat, high calorie food increased finerenone AUC by up to 21%, reduced Cₘₐₓ by 19% to 23% and prolonged the time to reach Cₘₐₓ up to 2.5 hours. Since this is not considered as clinically relevant, finerenone can be taken with or without food.
 
 ## Distribution
 
 The volume of distribution at steady state (Vₛₛ) of finerenone is 52.6 L. The human plasma protein binding of finerenone in vitro is 91.7%, with serum albumin being the main binding protein.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Biotransformation
 
 Approximately 90% of finerenone metabolism is mediated by CYP3A4 and 10% by CYP2C8. Four major metabolites were found in plasma. All metabolites are pharmacologically inactive.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Elimination
 
@@ -611,9 +785,7 @@ Finerenone pharmacokinetics are linear across the investigated dose range from 1
 
 ## Elderly
 
-Of the 2,827 patients who received finerenone in the FIDELIO-DKD study, 58% of patients were 65 years and older, and 15% were 75 years and older. Of the 3,683 patients who received finerenone in the FIGARO-DKD study, 52% of patients were 65 years and older, and 13% were 75 years and older.
-
-In both studies, no overall differences in safety or efficacy were observed between these patients and younger patients.
+Of the 2 818 patients who received finerenone in the FIDELIO-DKD study, 58% of patients were 65 years and older, and 15% were 75 years and older. Of the 3 671 patients who received finerenone in the FIGARO-DKD study, 53% of patients were 65 years and older, and 14% were 75 years and older. Of the 2 993 patients who received finerenone in the FINEARTS-HF study, 79% of patients were 65 years and older, and 43% were 75 years and older.
 
 In a phase I study (N = 48) elderly healthy participants (≥ 65 years of age) exhibited higher finerenone plasma concentrations than younger healthy participants (≤ 45 years of age), with mean AUC and Cₘₐₓ values being 34% and 51% higher in the elderly (see section 4.2). Population-pharmacokinetic analyses did not identify age as a covariate for finerenone AUC or Cₘₐₓ.
 
@@ -635,7 +807,7 @@ There are no data in patients with severe hepatic impairment (see sections 4.2 a
 
 ## Body weight
 
-Population-pharmacokinetic analyses identified body weight as a covariate for finerenone Cₘₐₓ. The Cₘₐₓ of a subject with a body weight of 50 kg was estimated to be 38% to 51% higher compared to a subject of 100 kg. Dose adaptation based on body weight is not warranted (see section 4.2).
+Population-pharmacokinetic analyses identified body weight as a covariate for finerenone Cₘₐₓ and AUC. Cₘₐₓ and AUC of subjects with a body weight of below 57 kg were estimated to be, on average, 52% and 30% higher, respectively, and of subjects with a body weight above 122 kg, 32% and 20% lower, respectively, compared to subjects between 57 and 122 kg. Dose adaptation based on body weight is not warranted (see section 4.2).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -651,10 +823,6 @@ Pre- and co-treatment with the proton pump inhibitor omeprazole (40 mg once dail
 
 Concomitant use of antacid aluminium hydroxide and magnesium hydroxide (70 mVal) had no effect on finerenone mean AUC and reduced its mean Cₘₐₓ by 19%. This is not considered as clinically relevant.
 
-In vivo a multiple-dose regimen of 20 mg finerenone given once daily for 10 days had no relevant effect on the AUC of the CYP3A4 probe substrate midazolam. Therefore, a clinically relevant inhibition or induction of CYP3A4 by finerenone can be excluded.
-
-A single dose of 20 mg finerenone also had no clinically relevant effect on AUC and Cₘₐₓ of the CYP2C8 probe substrate repaglinide. Thus, finerenone does not inhibit CYP2C8.
-
 Lack of mutual pharmacokinetic interaction was demonstrated between finerenone and the CYP2C9 substrate warfarin and between finerenone and the P-gp substrate digoxin.
 
 Multiple doses of 40 mg finerenone once daily had no clinically relevant effect on AUC and Cₘₐₓ of the breast cancer resistance protein (BCRP) and organic anion transporting polypeptides (OATP) substrate rosuvastatin.
@@ -665,21 +833,29 @@ Non-clinical data reveal no special hazard for humans based on conventional stud
 
 ## Repeated dose toxicity
 
-In dogs, a reduced prostate weight and size was found at an AUCunbound of about 10 to 60 times that in humans. The dose free of findings provides a safety margin of about 2.
+In dogs, a reduced prostate weight and size was found at an AUCunbound of about 4 to 60 times that in humans. The dose free of findings provides a safety margin of about 1-2.
 
 ## Carcinogenic potential
 
-In 2-year carcinogenicity studies, finerenone did not show carcinogenic potential in male and female rats or female mice. In male mice, finerenone resulted in an increase in Leydig cell adenoma at doses representing 26 times the AUCunbound in humans. A dose representing 17 times the AUCunbound in humans did not cause any tumours. Based on the known sensitivity of rodents to develop these tumours and the pharmacology-based mechanism at supratherapeutic doses as well as adequate safety margins, the increase in Leydig cell tumours in male mice is not clinically relevant.
-
-<div style=\"page-break-after: always\"></div>
+In 2-year carcinogenicity studies, finerenone did not show carcinogenic potential in male and female rats or female mice. In male mice, finerenone resulted in an increase in Leydig cell adenoma at doses representing 10 to 26 times the AUCunbound in humans. A dose representing 7 times the AUCunbound for the 40 mg dose and 17 times the AUCunbound in humans for the 20 mg did not cause any tumours. Based on the known sensitivity of rodents to develop these tumours and the pharmacology-based mechanism at supratherapeutic doses as well as adequate safety margins, the increase in Leydig cell tumours in male mice is not clinically relevant.
 
 ## Toxicity to development
 
-In the embryo-foetal toxicity study in rats, finerenone resulted in reduced placental weights and signs of foetal toxicity, including reduced foetal weights and retarded ossification at the maternal toxic dose of 10 mg/kg/day corresponding to an AUCunbound of 19 times that in humans. At 30 mg/kg/day, the incidence of visceral and skeletal variations was increased (slight oedema, shortened umbilical cord, slightly enlarged fontanelle) and one foetus showed complex malformations including a rare malformation (double aortic arch) at an AUCunbound of about 25 times that in humans. The doses free of any findings (low dose in rats, high dose in rabbits) provided safety margins of 10 to 13 times for AUCunbound. Therefore, the findings in rats do not indicate an increased concern for foetal harm. When rats were exposed during pregnancy and lactation in the pre- and postnatal developmental toxicity study, increased pup mortality and other adverse effects (lower pup weight, delayed pinna unfolding) were observed at about 4 times the AUCunbound expected in humans. In addition, the offspring showed slightly increased locomotor activity, but no other neurobehavioural changes starting at about 4 times the AUCunbound expected in humans. The dose free of findings provided a safety margin of about 2 for AUCunbound. The increased locomotor activity in offspring may indicate a potential risk for the foetus. In addition, because of the findings in pups, a risk for the nursing newborn/infant cannot be excluded.
+In the embryo-foetal toxicity study in rats, finerenone resulted in reduced placental weights and signs of foetal toxicity, including reduced foetal weights and retarded ossification at the maternal toxic dose of 10 mg/kg/day corresponding to an AUCunbound of at least 7 times that in humans. At 30 mg/kg/day, the incidence of visceral and skeletal variations was increased (slight oedema, shortened umbilical cord, slightly enlarged fontanelle) and one foetus showed complex malformations including a rare malformation (double aortic arch) at an AUCunbound of about 10 times that in humans at the dose of
+
+<div style=\"page-break-after: always\"></div>
+
+40 mg and about 25 times that in humans at the dose of 20 mg. The doses free of any findings (low dose in rats, high dose in rabbits) provided safety margins of 4 to 13 times for AUCunbound. Therefore, the findings in rats do not indicate an increased concern for foetal harm.
+
+When rats were exposed during pregnancy and lactation in the pre- and postnatal developmental toxicity study, increased pup mortality and other adverse effects (lower pup weight, delayed pinna unfolding) were observed at about 2 or 4 times the AUCunbound expected in humans at the dose of 40 mg and 20 mg, respectively. In addition, the offspring showed slightly increased locomotor activity, but no other neurobehavioural changes starting at about 2 or 4 times the AUCunbound expected in humans at the dose of 40 mg and 20 mg, respectively. The dose free of findings provided a safety margin of about 2 for AUCunbound for the 20 mg dose and is in the therapeutic range for the 40 mg dose. The increased locomotor activity in offspring may indicate a potential risk for the foetus. In addition, because of the findings in pups, a risk for the nursing newborn/infant cannot be excluded.
 
 ## Female fertility
 
-Finerenone caused reduced female fertility (decreased number of corpora lutea and implantation sites) as well as signs of early embryonic toxicity (increased post-implantational loss and decreased number of viable foetuses) at about 21 times the human AUCunbound. In addition, reduced ovarian weights were found at about 17 times the human AUCunbound. No effects on female fertility and early embryonic development were found at 10 times the human AUCunbound. Therefore, the findings in female rats are of little clinical relevance (see section 4.6).
+Finerenone caused reduced female fertility (decreased number of corpora lutea and implantation sites) as well as signs of early embryonic toxicity (increased post-implantational loss and decreased number of viable foetuses) at about 9 times the human AUCunbound for the 40 mg dose and at about 21 times the human AUCunbound for the 20 mg dose. In addition, reduced ovarian weights were found at about 7 times the human AUCunbound for the 40 mg dose and at about 17 times the human AUCunbound for the 20 mg dose. No effects on female fertility and early embryonic development were found at 4 times the human AUCunbound for the 40 mg dose and 10 times the human AUCunbound for the 20 mg dose. Therefore, the findings in female rats are of little clinical relevance (see section 4.6).
+
+## Environmental risk assessment (ERA)
+
+Environmental risk assessment studies have shown that finerenone may pose a risk for the surface water and groundwater compartment (see section 6.6).
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
@@ -687,17 +863,19 @@ Finerenone caused reduced female fertility (decreased number of corpora lutea an
 
 ## Tablet core
 
-Cellulose, microcrystalline Croscarmellose sodium Hypromellose 2910 Lactose monohydrate Magnesium stearate Sodium laurilsulfate
+Cellulose, microcrystalline (E 460) Croscarmellose sodium Hypromellose 2910 (E 464) Lactose monohydrate Magnesium stearate (E 470b) Sodium laurilsulfate (E 487)
 
 ## Tablet coating
 
-Hypromellose 2910 Titanium dioxide Talc
+Hypromellose 2910 (E 464) Titanium dioxide (E 171) Talc (E 553b)
 
 Kerendia 10 mg film-coated tablets Iron oxide red (E 172)
 
 Kerendia 20 mg film-coated tablets Iron oxide yellow (E 172)
 
 <div style=\"page-break-after: always\"></div>
+
+Kerendia 40 mg film-coated tablets Iron oxide red (E 172) Iron oxide yellow (E 172)
 
 ## 6.2 Incompatibilities
 
@@ -717,13 +895,15 @@ PVC/PVDC/Aluminium transparent calendarised blisters with 14 film-coated tablets
 
 PVC/PVDC/Aluminium transparent perforated unit dose blisters with 10 x 1 film-coated tablets. Pack size of 100 × 1 film-coated tablets.
 
-White opaque HDPE bottle with white opaque polypropylene child-resistant screw cap with sealing insert. Pack size of 100 film-coated tablets.
+White opaque HDPE bottle with white opaque polypropylene child-resistant screw cap with sealing insert. Pack size of 100 film-coated tablets (Kerendia 10 mg and 20 mg film-coated tablets, only).
 
 Not all pack sizes may be marketed.
 
 ## 6.6 Special precautions for disposal
 
-Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
+This medicinal product may pose a risk to the environment (see section 5.3). Any unused medicinal product or waste material should be disposed of in accordance with local
+
+requirements.
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
@@ -739,28 +919,27 @@ Kerendia 20 mg film-coated tablets
 
 EU/1/21/1616/006-010
 
+Kerendia 40 mg film-coated tablets
+
+EU/1/21/1616/011-014
+
+<div style=\"page-break-after: always\"></div>
+
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
 Date of first authorisation: 16 February 2022
 
-20
-
-<div style=\"page-break-after: always\"></div>
-
 ## 10. DATE OF REVISION OF THE TEXT
 
-Detailed information on this medicinal product is available on the European Medicines Agency web site: http://www.ema.europa.eu.
+Detailed information on this medicinal product is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
 <div style=\"page-break-after: always\"></div>
 
 ## ANNEX II
 
-- A. MANUFACTURER RESPONSIBLE FOR BATCH RELEASE
-
-## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
-
-## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
-
+- A. MANUFACTURERS RESPONSIBLE FOR BATCH RELEASE
+- B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
+- C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 - D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
 <div style=\"page-break-after: always\"></div>
@@ -785,8 +964,6 @@ Medicinal product subject to medical prescription.
 
 The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
 
-The marketing authorisation holder (MAH) shall submit the first PSUR for this product within 6 months following authorisation.
-
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
 ## · Risk management plan (RMP)
@@ -808,15 +985,15 @@ An updated RMP should be submitted:
 
 ## A. LABELLING
 
-<div style=\"page-break-after: always\"></div>
-
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
 CARTON for 10 mg (blisters and bottle)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Kerendia 10 mg film-coated tablets finerenone
+Kerendia 10 mg film-coated tablets
+
+finerenone
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE
 
@@ -831,9 +1008,13 @@ Contains lactose. Read the package leaflet before use.
 ## Film-coated tablet
 
 - 14 film-coated tablets
+
 - 28 film-coated tablets
+
 - 98 film-coated tablets
+
 - 100 × 1 film-coated tablets
+
 - 100 film-coated tablets
 
 ## 5. METHOD AND ROUTE OF ADMINISTRATION
@@ -854,11 +1035,13 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
+<div style=\"page-break-after: always\"></div>
+
 | 9.   | SPECIAL STORAGE CONDITIONS   |
 |------|------------------------------|
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|-------------------------------------------------------------------------------------------------------------------------------------|
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|--------------------------------------------------------------------------------------------------------------------------------------|
 
 | 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
 |-------|--------------------------------------------------------|
@@ -932,7 +1115,7 @@ Keep out of the sight and reach of children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-## 8. EXPIRY DATE
+8. EXPIRY DATE
 
 EXP
 
@@ -942,8 +1125,8 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVED FROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|--------------------------------------------------------------------------------------------------------------------------------------|
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-------------------------------------------------------------------------------------------------------------------------------------|
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -961,7 +1144,8 @@ Lot
 15. INSTRUCTIONS ON USE
 16. INFORMATION IN BRAILLE
 17. UNIQUE IDENTIFIER - 2D BARCODE
-18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 <div style=\"page-break-after: always\"></div>
 
@@ -994,8 +1178,6 @@ Lot
 
 Mon. Tue. Wed. Thu. Fri. Sat. Sun.
 
-31
-
 <div style=\"page-break-after: always\"></div>
 
 | MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
@@ -1007,8 +1189,8 @@ Mon. Tue. Wed. Thu. Fri. Sat. Sun.
 
 Kerendia 10 mg tablets finerenone
 
-| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
-|------|------------------------------------------|
+| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
+|------|-------------------------------------------|
 
 Bayer AG (Bayer Logo)
 
@@ -1025,13 +1207,17 @@ Lot
 | 5.   | OTHER   |
 |------|---------|
 
+<div style=\"page-break-after: always\"></div>
+
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
 CARTON for 20 mg (blisters and bottle)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Kerendia 20 mg film-coated tablets finerenone
+Kerendia 20 mg film-coated tablets
+
+finerenone
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE
 
@@ -1046,13 +1232,9 @@ Contains lactose. Read the package leaflet before use.
 ## Film-coated tablet
 
 - 14 film-coated tablets
-
 - 28 film-coated tablets
-
 - 98 film-coated tablets
-
 - 100 × 1 film-coated tablets
-
 - 100 film-coated tablets
 
 ## 5. METHOD AND ROUTE OF ADMINISTRATION
@@ -1070,8 +1252,6 @@ Keep out of the sight and reach of children.
 ## 8. EXPIRY DATE
 
 EXP
-
-<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1196,9 +1376,8 @@ Lot
 
 Kerendia 20 mg tablets finerenone
 
-2.
-
-NAME OF THE MARKETING AUTHORISATION HOLDER
+| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
+|------|------------------------------------------|
 
 Bayer AG (Bayer Logo)
 
@@ -1217,7 +1396,7 @@ Lot
 
 Mon. Tue. Wed. Thu. Fri. Sat. Sun.
 
-38
+45
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1248,15 +1427,177 @@ Lot
 | 5.   | OTHER   |
 |------|---------|
 
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
+
+CARTON for 40 mg (blisters)
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Kerendia 40 mg film-coated tablets
+
+finerenone
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE
+
+Each tablet contains 40 mg finerenone.
+
+## 3. LIST OF EXCIPIENTS
+
+Contains lactose. Read the package leaflet before use.
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+## Film-coated tablet
+
+- 14 film-coated tablets
+
+- 28 film-coated tablets
+
+- 98 film-coated tablets
+
+- 100 × 1 film-coated tablets
+
+## 5. METHOD AND ROUTE OF ADMINISTRATION
+
+Oral use
+
+Read the package leaflet before use.
+
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
+Keep out of the sight and reach of children.
+
+## 7. OTHER SPECIAL WARNING, IF NECESSARY
+
+## 8. EXPIRY DATE
+
+<div style=\"page-break-after: always\"></div>
+
+EXP
+
+<div style=\"page-break-after: always\"></div>
+
+| 9.   | SPECIAL STORAGE CONDITIONS   |
+|------|------------------------------|
+
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-------------------------------------------------------------------------------------------------------------------------------------|
+
+| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|--------------------------------------------------------|
+
+Bayer AG 51368 Leverkusen
+
+Germany
+
+| 12. MARKETING AUTHORISATION NUMBER(S)   |
+|-----------------------------------------|
+
+EU/1/21/1616/011 - 14 tablets (blister) EU/1/21/1616/012 - 28 tablets (blister) EU/1/21/1616/013 - 98 tablets (blister)
+
+EU/1/21/1616/014 - 100 x 1 tablets (perforated unit dose blister)
+
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
+
+Lot
+
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
+
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
+
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
+
+Kerendia 40 mg
+
+| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
+|-------|----------------------------------|
+
+2D barcode carrying the unique identifier included.
+
+<div style=\"page-break-after: always\"></div>
+
+| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
+|-------|-----------------------------------------|
+
+PC SN NN
+
+<div style=\"page-break-after: always\"></div>
+
+| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
+|------------------------------------------------------|
+| BLISTER for 40 mg                                    |
+
+| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
+|------|------------------------------|
+
+Kerendia 40 mg tablets finerenone
+
+| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
+|------|------------------------------------------|
+
+Bayer AG (Bayer Logo)
+
+| 3.   | EXPIRY DATE   |
+|------|---------------|
+
+EXP
+
+| 4.   | BATCH NUMBER   |
+|------|----------------|
+
+Lot
+
+| 5.   | OTHER   |
+|------|---------|
+
+Mon. Tue. Wed. Thu. Fri. Sat. Sun.
+
+<div style=\"page-break-after: always\"></div>
+
+| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
+|------------------------------------------------------|
+| UNIT-DOSE BLISTER for 40 mg                          |
+
+| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
+|------|------------------------------|
+
+Kerendia 40 mg tablets finerenone
+
+| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
+|------|------------------------------------------|
+
+Bayer AG (Bayer Logo)
+
+| 3.   | EXPIRY DATE   |
+|------|---------------|
+
+EXP
+
+| 4.   | BATCH NUMBER   |
+|------|----------------|
+
+Lot
+
+| 5.   | OTHER   |
+|------|---------|
+
 <div style=\"page-break-after: always\"></div>
 
 ## B. PACKAGE LEAFLET
 
 <div style=\"page-break-after: always\"></div>
 
+<!-- image -->
+
 ## Package leaflet: Information for the patient
 
-## Kerendia 10 mg film-coated tablets Kerendia 20 mg film-coated tablets finerenone
+Kerendia 10 mg film-coated tablets Kerendia 20 mg film-coated tablets Kerendia 40 mg film-coated tablets
+
+finerenone
 
 This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
 
@@ -1280,11 +1621,19 @@ This medicine is subject to additional monitoring. This will allow quick identif
 
 Kerendia contains the active substance finerenone. Finerenone works by blocking the action of certain hormones (mineralocorticoids) that can damage your kidneys and heart.
 
+## What Kerendia is used for
+
 Kerendia is used for the treatment of adults with chronic kidney disease (with abnormal presence of the protein albumin in the urine) associated with type 2 diabetes.
 
 Chronic kidney disease is a long-term condition. Your kidneys keep getting worse at removing waste and fluids from your blood.
 
 Type 2 diabetes is when your body cannot keep your blood sugar levels normal. Your body does not produce enough of the hormone insulin or cannot use the insulin properly. This leads to a high level of sugar in your blood.
+
+Kerendia is used for the treatment of adults with symptomatic chronic heart failure (with left ventricular ejection fraction of 40% or higher).
+
+Chronic heart failure is a long-term condition. Your heart does not work as well as it should. The most common symptoms of heart failure are feeling breathless, feeling tired, and ankle swelling. Kerendia helps protect your heart from getting worse and improves your symptoms. It can lower the need to go to hospital and can help some patients to live longer.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 2. What you need to know before you take Kerendia
 
@@ -1298,8 +1647,6 @@ Type 2 diabetes is when your body cannot keep your blood sugar levels normal. Yo
 - -nefazodone (to treat depression).
 - -have Addison's disease (when your body does not produce enough of the hormones 'cortisol' and 'aldosterone').
 
-<div style=\"page-break-after: always\"></div>
-
 ## Warnings and precautions
 
 Talk to your doctor or pharmacist before taking Kerendia if you have
@@ -1307,17 +1654,14 @@ Talk to your doctor or pharmacist before taking Kerendia if you have
 - -ever been told you had a high level of potassium in your blood.
 - -severe loss of kidney function or kidney failure.
 - -moderate or severe liver problems.
-- -mild, moderate or severe heart failure. This is when your heart does not pump blood as well as it should. It does not pump enough blood out of the heart in one beat.
 
 ## Blood tests
 
-## These tests check your potassium level and how your kidneys are working .
+These tests check your potassium level and how your kidneys are working .
 
-Using the results of your blood tests, your doctor decides whether you can start to take Kerendia.
+Using the results of your blood tests, your doctor decides whether you can start to take Kerendia. After 4 weeks of taking Kerendia, you will have more blood tests.
 
-After 4 weeks of taking Kerendia, you will have more blood tests.
-
-Your doctor may test your blood at other times, for example while you are taking certain medicines.
+Your doctor may test your blood at other times, for example while you are taking certain medicines. While taking Kerendia, some patients with heart failure may experience a decrease in how well their kidneys are working. Your doctor will test your blood on a regular basis to check how well your kidneys are working, and more often if you are 65 years or older or you have reduced kidney function .
 
 ## Children and adolescents
 
@@ -1331,10 +1675,7 @@ You must not take medicines that belong to the group of 'strong CYP3A4 inhibitor
 
 Talk to your doctor or pharmacist if you are taking other medicines while taking Kerendia, especially
 
-- -if you take
-
-for example
-
+- -if you take for example
 - -amiloride or triamterene (to remove excess water from your body in the urine)
 - -eplerenone, esaxerenone, spironolactone, or canrenone (medicines similar to finerenone)
 - -trimethoprim , or a combination of trimethoprim and sulfamethoxazole (to treat bacterial infections)
@@ -1347,6 +1688,9 @@ or if you take other medicines that may increase the level of potassium in your 
 - -verapamil (to treat high blood pressure, chest pain, and fast heartbeat)
 - -fluvoxamine (to treat depression and 'obsessive-compulsive disorder')
 - -rifampicin (to treat bacterial infections)
+
+<div style=\"page-break-after: always\"></div>
+
 - -carbamazepine , phenytoin , or phenobarbital (to treat epilepsy)
 - -St. John´s Wort ( Hypericum perforatum ) (a herbal medicine to treat depression)
 - -efavirenz (to treat HIV infection)
@@ -1354,14 +1698,13 @@ or if you take other medicines that may increase the level of potassium in your 
 or if you take other medicines that belong to the same groups of medicines as the ones listed above (certain 'CYP3A4 inhibitors' and 'inducers'). You may have more side effects, or Kerendia may not work as expected.
 
 - -if you take several other blood pressure lowering medicines . Your doctor may need to watch your blood pressure.
+- -if you take medicines that belong to certain groups of medicines (sensitive 'CYP3A4' or 'CYP2C8' substrates) along with Kerendia 40 mg tablets . Some of these medicines may not work as expected. Your doctor should review your other medicines and decide on possible changes.
 
 ## Kerendia with food and drink
 
 Do not eat grapefruit or drink grapefruit juice as long as you take Kerendia.
 
 If you do, you may get too much finerenone in your blood. You may have more side effects (possible side effects are listed in section 4).
-
-<div style=\"page-break-after: always\"></div>
 
 ## Pregnancy and breast-feeding
 
@@ -1391,15 +1734,19 @@ This medicine contains less than 1 mmol sodium (23 mg) per tablet, that is to sa
 
 ## 3. How to take Kerendia
 
-Always take this medicine exactly as your doctor or pharmacist has told you. Check with your doctor or pharmacist if you are not sure.
+Your doctor will decide how much of this medicine you need to take. The dose may change as your treatment continues. Always take this medicine exactly as your doctor or pharmacist has told you. Check with your doctor or pharmacist if you are not sure.
 
 ## How much you have to take
 
-The recommended and the maximum daily dose of this medicine is 1 tablet of 20 mg .
+If you have chronic kidney disease , the recommended and the maximum daily dose of this medicine is 1 tablet of 20 mg .
 
-- -Always take 1 tablet once daily . Each tablet contains 10 mg or 20 mg finerenone.
+If you have heart failure , the maximum daily dose of this medicine is 1 tablet of 40 mg . The dose recommended for you by your doctor may be lower.
+
+<div style=\"page-break-after: always\"></div>
+
+- -Always take 1 tablet once daily . Each tablet contains 10 mg, 20 mg or 40 mg finerenone.
 - -The starting dose depends on how well your kidneys work. To check this your doctor will test your blood. The results help your doctor to decide, if you can start with 1 tablet of 20 mg or 10 mg once daily.
-- -After 4 weeks your doctor will test your blood again. Your doctor will decide on the correct dose for you. This might be 1 tablet of 20 mg or 10 mg once daily. Your doctor may also tell you to interrupt or stop taking Kerendia.
+- -After 4 weeks your doctor will test your blood again. Your doctor will decide on the correct dose for you. This might be 1 tablet of 40 mg, 20 mg or 10 mg once daily. Your doctor may also tell you to interrupt or stop taking Kerendia.
 
 Your doctor may decide on changes in your treatment after testing your blood . See 'Blood tests' in section 2 for more information.
 
@@ -1416,9 +1763,6 @@ Swallow the tablet whole.
 If you cannot swallow the tablet whole, you can crush it.
 
 - -Mix it with water or soft foods, such as apple sauce.
-
-<div style=\"page-break-after: always\"></div>
-
 - -Take it right away.
 
 ## If you take more Kerendia than you should
@@ -1449,32 +1793,61 @@ If you have any further questions on the use of this medicine, ask your doctor o
 
 Like all medicines, this medicine can cause side effects, although not everybody gets them.
 
+In adults with chronic kidney disease associated with type 2 diabetes, the following side effects were seen:
+
 ## Side effects that your doctor may see in your blood test results
 
-very common (may affect more than 1 in 10 people)
+Very common (may affect more than 1 in 10 people)
 
-- -high potassium level (hyperkalaemia)
+- -
+- high potassium level (hyperkalaemia)
 
 Possible signs of high potassium level in the blood may include weakness or tiredness, feeling sick (nausea), numbness in the hands and lips, muscle cramps, decreased pulse rate.
 
-## common (may affect up to 1 in 10 people)
+<div style=\"page-break-after: always\"></div>
+
+## Common (may affect up to 1 in 10 people)
 
 - -low sodium level (hyponatraemia)
 - Possible signs of low sodium level in the blood may include feeling sick (nausea), tiredness, headache, confusion; muscle weakness, spasms or cramps.
-- -decrease in how well the kidneys filter blood (glomerular filtration rate decreased).
+- -changes in results that are used to check how well your kidneys are working (blood creatinine increased/ glomerular filtration rate decreased).
 - -high uric acid level (hyperuricaemia)
 
-## uncommon (may affect up to 1 in 100 people)
+Uncommon (may affect up to 1 in 100 people)
 
 - -decrease in a protein (haemoglobin) that is found in your red blood cells.
 
 ## Other side effects
 
-common (may affect up to 1 in 10 people)
+Common (may affect up to 1 in 10 people)
 
 - -low blood pressure (hypotension)
 - Possible signs of low blood pressure may include dizziness, lightheadedness, fainting.
 - -itching (pruritus)
+
+In adults with symptomatic chronic heart failure (with left ventricular ejection fraction of 40% or higher), the following side effects were seen:
+
+## Side effects that your doctor may see in your blood test results
+
+Common (may affect up to 1 in 10 people)
+
+- -
+- high potassium level (hyperkalaemia) Possible signs of high potassium level in the blood may include weakness or tiredness, feeling sick (nausea), numbness in the hands and lips, muscle cramps, decreased pulse rate.
+- -
+- low sodium level (hyponatraemia)
+- Possible signs of low sodium level in the blood may include feeling sick (nausea), tiredness, headache, confusion; muscle weakness, spasms or cramps.
+- -changes in results that are used to check how well your kidneys are working (blood creatinine increased/ glomerular filtration rate decreased).
+- -high uric acid level (hyperuricaemia)
+
+## Other side effects
+
+Common (may affect up to 1 in 10 people)
+
+- -reduced kidney function (renal impairment) or sudden inability of the kidneys to work properly (acute kidney injury)
+- -low blood pressure (hypotension)
+- Possible signs of low blood pressure may include dizziness, lightheadedness, fainting.
+- -diarrhoea
+- -constipation
 
 ## Reporting of side effects
 
@@ -1484,11 +1857,11 @@ If you get any side effects, talk to your doctor or pharmacist. This includes an
 
 Keep this medicine out of the sight and reach of children.
 
-<div style=\"page-break-after: always\"></div>
-
 Do not use this medicine after the expiry date which is stated on the blister, bottle label and carton after EXP. The expiry date refers to the last day of that month.
 
 This medicine does not require any special storage conditions.
+
+<div style=\"page-break-after: always\"></div>
 
 Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
 
@@ -1502,24 +1875,27 @@ The active substance is finerenone.
 
 - -Each tablet of Kerendia 10 mg film-coated tablets contains 10 mg finerenone.
 - -Each tablet of Kerendia 20 mg film-coated tablets contains 20 mg finerenone.
+- -Each tablet of Kerendia 40 mg film-coated tablets contains 40 mg finerenone.
 - -The other ingredients are:
-- -Tablet core: microcrystalline cellulose, croscarmellose sodium, hypromellose 2910, lactose monohydrate, magnesium stearate, sodium laurilsulfate. See 'Kerendia contains lactose' and 'Kerendia contains sodium' in section 2 for more information.
-- -Tablet coat: hypromellose 2910, titanium dioxide, talc, iron oxide red (E 172, in Kerendia 10 mg film-coated tablets only), iron oxide yellow (E 172, in Kerendia 20 mg film-coated tablets only).
+- -Tablet core: microcrystalline cellulose (E 460), croscarmellose sodium, hypromellose 2910 (E 464), lactose monohydrate, magnesium stearate (E 470b), sodium laurilsulfate (E 487). See 'Kerendia contains lactose' and 'Kerendia contains sodium' in section 2 for more information.
+- -Tablet coat: hypromellose 2910 (E 464), titanium dioxide (E 171), talc (E 553b), iron oxide red (E 172, in Kerendia 10 mg and 40 mg film-coated tablets ), iron oxide yellow (E 172, in Kerendia 20 mg and 40 mg film-coated tablets ).
 
 ## What Kerendia looks like and contents of the pack
 
 Kerendia 10 mg film-coated tablets (tablets) are pink and oval-oblong, 10 mm long and 5 mm wide, marked '10' on one side and 'FI' on the other side.
 
-Kerendia 20 mg film-coated tablets (tablets) are yellow and oval-oblong, 10 mm long and a 5 mm wide, marked '20' on one side and 'FI' on the other side.
+Kerendia 20 mg film-coated tablets (tablets) are pale yellow and oval-oblong, 10 mm long and a 5 mm wide, marked '20' on one side and 'FI' on the other side.
 
-Kerendia is available in cartons containing
+Kerendia 40 mg film-coated tablets (tablets) are grey-orange and oval-oblong, 11 mm long and 5 mm wide, marked '40' on one side and 'FI' on the other side.
 
-- -14, 28 or 98 film-coated tablets.
+## Kerendia is available in cartons containing
 
-Each calendarised transparent blister contains 14 film-coated tablets.
+- -14, 28 or 98 film-coated tablets. Each calendarised transparent blister contains 14 film-coated tablets.
+- -100 × 1 film-coated tablets.
 
-- -100 × 1 film-coated tablets. Each perforated transparent unit dose blister contains 10 film-coated tablets.
-- -100 film-coated tablets in a plastic bottle.
+Each perforated transparent unit dose blister contains 10 film-coated tablets.
+
+- -100 film-coated tablets in a plastic bottle (10 mg and 20 mg film-coated tablets).
 
 Not all pack sizes may be marketed.
 
@@ -1535,11 +1911,9 @@ You can find out who made Kerendia by looking at what is printed after 'Lot' on 
 
 If the batch number starts with 'BX', it is: Bayer AG Kaiser-Wilhelm-Allee 51368 Leverkusen Germany
 
-If the batch number starts with 'IT', it is: Bayer HealthCare Manufacturing S.r.l. Via delle Groane, 126 20024 Garbagnate Milanese Italy
+If the batch number starts with 'IT', it is: Bayer HealthCare Manufacturing S.r.l. Via delle Groane, 126 20024 Garbagnate Milanese Italy For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 <div style=\"page-break-after: always\"></div>
-
-For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 ## België/Belgique/Belgien
 
@@ -1557,7 +1931,7 @@ Bayer s.r.o. Tel: +420 266 101 111
 
 ## Danmark
 
-Bayer A/S Tlf: +45 45 23 50 00
+Bayer A/S Tlf.: +45 45 23 50 00
 
 ## Deutschland
 
@@ -1599,7 +1973,9 @@ Bayer Limited Tel: +353 1 216 3300
 
 ## Ísland
 
-Icepharma hf. Sími: +354 540 8000
+Icepharma hf.
+
+Sími: +354 540 8000
 
 ## Italia
 
@@ -1625,9 +2001,7 @@ Tel. +37 05 23 36 868
 
 ## Luxembourg/Luxemburg
 
-Bayer SA-NV
-
-Tél/Tel: +32-(0)2-535 63 11
+Bayer SA-NV Tél/Tel: +32-(0)2-535 63 11
 
 ## Magyarország
 
@@ -1657,15 +2031,11 @@ Bayer Sp. z o.o. Tel: +48 22 572 35 00
 
 ## Portugal
 
-Bayer Portugal, Lda.
-
-Tel: +351 21 416 42 00
+Bayer Portugal, Lda. Tel: +351 21 416 42 00
 
 ## România
 
-SC Bayer SRL
-
-Tel: +40 21 529 59 00
+SC Bayer SRL Tel: +40 21 529 59 00
 
 ## Slovenija
 
@@ -1691,4 +2061,4 @@ Tel: +46 (0) 8 580 223 00
 
 <div style=\"page-break-after: always\"></div>
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.

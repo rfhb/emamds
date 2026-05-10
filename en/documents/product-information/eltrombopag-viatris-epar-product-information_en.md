@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-02-05 15:54:58
+document_datetime: 2026-05-07 16:38:24
 document_pages: 75
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/eltrombopag-viatris-epar-product-information_en.pdf
 document_name: eltrombopag-viatris-epar-product-information_en.pdf
 version: success
-processing_time: 23.3687722
-conversion_datetime: 2026-02-09 22:24:29.204591
+processing_time: 26.4492665
+conversion_datetime: 2026-05-10 12:58:48.407095
 docling_version:
-  docling-serve: 1.12.0
-  docling-jobkit: 1.10.1
-  docling: 2.72.0
-  docling-core: 2.63.0
-  docling-ibm-models: 3.11.0
-  docling-parse: 4.7.3
+  docling-serve: 1.17.0
+  docling-jobkit: 1.18.0
+  docling: 2.92.0
+  docling-core: 2.74.1
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.10.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -56,7 +56,9 @@ White to off-white, round, biconvex, film-coated tablet (approximately 6 mm in d
 
 ## Eltrombopag Viatris 25 mg film-coated tablets
 
-White to off-white, round, biconvex, film-coated tablet (approximately 7 mm in diameter) debossed with '25' on one side.
+White to off-white, round, biconvex, film-coated tablet (approximately 7 mm in diameter) debossed
+
+with '25' on one side.
 
 ## Eltrombopag Viatris 50 mg film-coated tablets
 
@@ -90,7 +92,7 @@ Eltrombopag containing medicinal products may be available as a powder for oral 
 
 ## Immune (primary) thrombocytopenia
 
-The lowest dose of eltrombopag to achieve and maintain a platelet count ≥ 50 000/μl should be used. Dose adjustments are based upon the platelet count response. Eltrombopag must not be used to normalise platelet counts. In clinical studies, platelet counts generally increased within 1 to 2 weeks after starting eltrombopag and decreased within 1 to 2 weeks after discontinuation.
+The lowest dose of eltrombopag to achieve and maintain a platelet count ≥50 000/μl should be used. Dose adjustments are based upon the platelet count response. Eltrombopag must not be used to normalise platelet counts. In clinical studies, platelet counts generally increased within 1 to 2 weeks after starting eltrombopag and decreased within 1 to 2 weeks after discontinuation.
 
 ## Adults and paediatric population aged 6 to 17 years
 
@@ -114,11 +116,11 @@ Clinical haematology and liver tests should be monitored regularly throughout th
 
 <div style=\"page-break-after: always\"></div>
 
-| Platelet count              | Dose adjustment or response                                                                                                                                                    |
-|-----------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ≥ 50 000/µl to ≤ 150 000/µl | Use lowest dose of eltrombopag and/or concomitant ITP treatment to maintain platelet counts that avoid or reduce bleeding.                                                     |
-| >150 000/µl to ≤ 250 000/µl | Decrease the daily dose by 25 mg. Wait 2 weeks to assess the effects of this and any subsequent dose adjustments ♦ .                                                           |
-| >250 000/µl                 | Stop eltrombopag; increase the frequency of platelet monitoring to twice weekly. Once the platelet count is ≤ 100 000/µl, reinitiate therapy at a daily dose reduced by 25 mg. |
+| Platelet count              | Dose adjustment or response                                                                                                                                                   |
+|-----------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|  50 000/µl to  150 000/µl | Use lowest dose of eltrombopag and/or concomitant ITP treatment to maintain platelet counts that avoid or reduce bleeding.                                                    |
+| >150 000/µl to  250 000/µl | Decrease the daily dose by 25 mg. Wait 2 weeks to assess the effects of this and any subsequent dose adjustments ♦ .                                                          |
+| >250 000/µl                 | Stop eltrombopag; increase the frequency of platelet monitoring to twice weekly. Once the platelet count is ≤100 000/µl, reinitiate therapy at a daily dose reduced by 25 mg. |
 
 *
 
@@ -150,11 +152,9 @@ Eltrombopag should be initiated at a dose of 25 mg once daily. No dosage adjustm
 
 ## Monitoring and dose adjustment
 
-The dose of eltrombopag should be adjusted in 25 mg increments every 2 weeks as necessary to achieve the target platelet count required to initiate antiviral therapy. Platelet counts should be
+The dose of eltrombopag should be adjusted in 25 mg increments every 2 weeks as necessary to achieve the target platelet count required to initiate antiviral therapy. Platelet counts should be monitored every week prior to starting antiviral therapy. On initiation of antiviral therapy the platelet count may fall, so immediate eltrombopag dose adjustments should be avoided (see Table 2).
 
 <div style=\"page-break-after: always\"></div>
-
-monitored every week prior to starting antiviral therapy. On initiation of antiviral therapy the platelet count may fall, so immediate eltrombopag dose adjustments should be avoided (see Table 2).
 
 During antiviral therapy, the dose of eltrombopag should be adjusted as necessary to avoid dose reductions of peginterferon due to decreasing platelet counts that may put patients at risk of bleeding (see Table 2). Platelet counts should be monitored weekly during antiviral therapy until a stable platelet count is achieved, normally around 50 000-75 000/μl. FBCs including platelet counts and peripheral blood smears should be obtained monthly thereafter. Dose reductions on the daily dose by 25 mg should be considered if platelet counts exceed the required target. It is recommended to wait for 2 weeks to assess the effects of this and any subsequent dose adjustments.
 
@@ -165,9 +165,9 @@ Table 2 Dose adjustments of eltrombopag in HCV patients during antiviral therapy
 | Platelet count                                                                                                                                                                                                                 | Dose adjustment or response                                                                                                                                                                                                    |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | <50 000/µl following at least 2 weeks of therapy                                                                                                                                                                               | Increase daily dose by 25 mg to a maximum of 100 mg/day.                                                                                                                                                                       |
-| ≥ 50 000/µl to ≤ 100 000/µl                                                                                                                                                                                                    | Use lowest dose of eltrombopag as necessary to avoid dose reductions of peginterferon.                                                                                                                                         |
-| >100 000/µl to ≤ 150 000/µl                                                                                                                                                                                                    | Decrease the daily dose by 25 mg. Wait 2 weeks to assess the effects of this and any subsequent dose adjustments ♦ .                                                                                                           |
-| >150 000/µl                                                                                                                                                                                                                    | Stop eltrombopag; increase the frequency of platelet monitoring to twice weekly. Once the platelet count is ≤ 100 000/µl, reinitiate therapy at a daily dose reduced by 25 mg*.                                                |
+| ≥50 000/µl to ≤100 000/µl                                                                                                                                                                                                      | Use lowest dose of eltrombopag as necessary to avoid dose reductions of peginterferon.                                                                                                                                         |
+| >100 000/µl to ≤150 000/µl                                                                                                                                                                                                     | Decrease the daily dose by 25 mg. Wait 2 weeks to assess the effects of this and any subsequent dose adjustments ♦ .                                                                                                           |
+| >150 000/µl                                                                                                                                                                                                                    | Stop eltrombopag; increase the frequency of platelet monitoring to twice weekly. Once the platelet count is ≤100 000/µl, reinitiate therapy at a daily dose reduced by 25 mg*.                                                 |
 | For patients taking 25 mg eltrombopag once daily, consideration should be given to reinitiating dosing at 25 mg every other day. On initiation of antiviral therapy the platelet count may fall, so immediate eltrombopag dose | For patients taking 25 mg eltrombopag once daily, consideration should be given to reinitiating dosing at 25 mg every other day. On initiation of antiviral therapy the platelet count may fall, so immediate eltrombopag dose |
 
 ## Discontinuation
@@ -184,7 +184,7 @@ No dose adjustment is necessary in patients with renal impairment. Patients with
 
 ## Hepatic impairment
 
-Eltrombopag should not be used in ITP patients with hepatic impairment (ChildPugh score ≥ 5) unless the expected benefit outweighs the identified risk of portal venous thrombosis (see section 4.4).
+Eltrombopag should not be used in ITP patients with hepatic impairment (Child-Pugh score ≥5) unless the expected benefit outweighs the identified risk of portal venous thrombosis (see section 4.4).
 
 If the use of eltrombopag is deemed necessary for ITP patients with hepatic impairment the starting dose must be 25 mg once daily. After initiating the dose of eltrombopag in patients with hepatic impairment an interval of 3 weeks should be observed before increasing the dose.
 
@@ -224,7 +224,7 @@ Hypersensitivity to eltrombopag or to any of the excipients listed in section 6.
 
 ## 4.4 Special warnings and precautions for use
 
-There is an increased risk for adverse reactions, including potentially fatal hepatic decompensation and thromboembolic events, in thrombocytopenic HCV patients with advanced chronic liver disease, as defined by low albumin levels ≤35 g/l or model for end stage liver disease (MELD) score ≥ 10, when treated with eltrombopag in combination with interferon-based therapy. In addition, the benefits of treatment in terms of the proportion achieving sustained virological response (SVR) compared with placebo were modest in these patients (especially for those with baseline albumin ≤35 g/l) compared with the group overall. Treatment with eltrombopag in these patients should be initiated only by physicians experienced in the management of advanced HCV, and only when the risks of thrombocytopenia or withholding antiviral therapy necessitate intervention. If treatment is considered clinically indicated, close monitoring of these patients is required.
+There is an increased risk for adverse reactions, including potentially fatal hepatic decompensation and thromboembolic events, in thrombocytopenic HCV patients with advanced chronic liver disease, as defined by low albumin levels ≤35 g/l or model for end stage liver disease (MELD) score ≥10, when treated with eltrombopag in combination with interferon-based therapy. In addition, the benefits of treatment in terms of the proportion achieving sustained virological response (SVR) compared with placebo were modest in these patients (especially for those with baseline albumin ≤35 g/l) compared with the group overall. Treatment with eltrombopag in these patients should be initiated only by physicians experienced in the management of advanced HCV, and only when the risks of thrombocytopenia or withholding antiviral therapy necessitate intervention. If treatment is considered clinically indicated, close monitoring of these patients is required.
 
 ## Combination with direct-acting antiviral agents
 
@@ -234,7 +234,7 @@ Safety and efficacy have not been established in combination with direct-acting 
 
 Eltrombopag administration can cause abnormal liver function and severe hepatotoxicity, which might be life-threatening (see section 4.8).
 
-Serum alanine aminotransferase (ALT), aspartate aminotransferase (AST) and bilirubin should be measured prior to initiation of eltrombopag, every 2 weeks during the dose adjustment phase and monthly following establishment of a stable dose. Eltrombopag inhibits UGT1A1 and OATP1B1, which may lead to indirect hyperbilirubinaemia. If bilirubin is elevated fractionation should be performed. Abnormal serum liver tests should be evaluated with repeat testing within 3 to 5 days. If the abnormalities are confirmed, serum liver tests should be monitored until the abnormalities resolve, stabilise, or return to baseline levels. Eltrombopag should be discontinued if ALT levels increase ( ≥ 3 times the upper limit of normal [x ULN] in patients with normal liver function, or ≥3 x baseline or &gt;5 x ULN, whichever is the lower, in patients with pre-treatment elevations in transaminases) and are:
+Serum alanine aminotransferase (ALT), aspartate aminotransferase (AST) and bilirubin should be measured prior to initiation of eltrombopag, every 2 weeks during the dose adjustment phase and monthly following establishment of a stable dose. Eltrombopag inhibits UGT1A1 and OATP1B1, which may lead to indirect hyperbilirubinaemia. If bilirubin is elevated fractionation should be performed. Abnormal serum liver tests should be evaluated with repeat testing within 3 to 5 days. If the abnormalities are confirmed, serum liver tests should be monitored until the abnormalities resolve, stabilise, or return to baseline levels. Eltrombopag should be discontinued if ALT levels increase (≥3 times the upper limit of normal [x ULN] in patients with normal liver function, or ≥3 x baseline or &gt;5 x ULN, whichever is the lower, in patients with pre-treatment elevations in transaminases) and are:
 
 - progressive, or
 - persistent for ≥4 weeks, or
@@ -245,17 +245,15 @@ Caution is required when administering eltrombopag to patients with hepatic dise
 
 ## Hepatic decompensation (use with interferon)
 
-Hepatic decompensation in patients with chronic hepatitis C: Monitoring is required in patients with low albumin levels (≤ 35 g/l) or with MELD score ≥ 10 at baseline.
+Hepatic decompensation in patients with chronic hepatitis C: Monitoring is required in patients with low albumin levels (≤35 g/l) or with MELD score ≥10 at baseline.
 
-Chronic HCV patients with liver cirrhosis may be at risk of hepatic decompensation when receiving alfa interferon therapy. In two controlled clinical studies in thrombocytopenic patients with HCV, hepatic decompensation (ascites, hepatic encephalopathy, variceal haemorrhage, spontaneous bacterial peritonitis) occurred more frequently in the eltrombopag arm (11%) than in the placebo arm (6%). In patients with low albumin levels ( ≤ 35 g/l) or with a MELD score ≥10 at baseline, there was a 3-fold greater risk of hepatic decompensation and an increase in the risk of a fatal adverse event compared to those with less advanced liver disease. In addition, the benefits of treatment in terms of the proportion achieving SVR compared with placebo were modest in these patients (especially for those with baseline albumin ≤35 g/l) compared with the group overall. Eltrombopag should only be administered
+Chronic HCV patients with liver cirrhosis may be at risk of hepatic decompensation when receiving alfa interferon therapy. In two controlled clinical studies in thrombocytopenic patients with HCV, hepatic decompensation (ascites, hepatic encephalopathy, variceal haemorrhage, spontaneous bacterial peritonitis) occurred more frequently in the eltrombopag arm (11%) than in the placebo arm (6%). In patients with low albumin levels (≤35 g/l) or with a MELD score ≥10 at baseline, there was a 3-fold greater risk of hepatic decompensation and an increase in the risk of a fatal adverse event compared to those with less advanced liver disease. In addition, the benefits of treatment in terms of the proportion achieving SVR compared with placebo were modest in these patients (especially for those with baseline albumin ≤35 g/l) compared with the group overall. Eltrombopag should only be administered to such patients after careful consideration of the expected benefits in comparison with the risks. Patients with these characteristics should be closely monitored for signs and symptoms of hepatic decompensation. The respective interferon summary of product characteristics should be referenced for discontinuation criteria. Eltrombopag should be terminated if antiviral therapy is discontinued for hepatic decompensation.
 
 <div style=\"page-break-after: always\"></div>
 
-to such patients after careful consideration of the expected benefits in comparison with the risks. Patients with these characteristics should be closely monitored for signs and symptoms of hepatic decompensation. The respective interferon summary of product characteristics should be referenced for discontinuation criteria. Eltrombopag should be terminated if antiviral therapy is discontinued for hepatic decompensation.
-
 ## Thrombotic/thromboembolic complications
 
-In controlled studies in thrombocytopenic patients with HCV receiving interferon-based therapy (n=1 439), 38 out of 955 patients (4%) treated with eltrombopag and 6 out of 484 patients (1%) in the placebo group experienced TEEs. Reported thrombotic/thromboembolic complications included both venous and arterial events. The majority of TEEs were non-serious and resolved by the end of the study. Portal vein thrombosis was the most common TEE in both treatment groups (2% in patients treated with eltrombopag versus &lt;1% for placebo). No specific temporal relationship between start of treatment and event of TEE were observed. Patients with low a lbumin levels (≤ 35 g/l) or MELD ≥10 had a 2fold greater risk of TEEs than those with higher albumin levels; those aged ≥60 years had a 2-fold greater risk of TEEs compared to younger patients. Eltrombopag should only be administered to such patients after careful consideration of the expected benefits in comparison with the risks. Patients should be closely monitored for signs and symptoms of TEE.
+In controlled studies in thrombocytopenic patients with HCV receiving interferon-based therapy (n=1 439), 38 out of 955 patients (4%) treated with eltrombopag and 6 out of 484 patients (1%) in the placebo group experienced TEEs. Reported thrombotic/thromboembolic complications included both venous and arterial events. The majority of TEEs were non-serious and resolved by the end of the study. Portal vein thrombosis was the most common TEE in both treatment groups (2% in patients treated with eltrombopag versus &lt;1% for placebo). No specific temporal relationship between start of treatment and event of TEE were observed. Patients with low albumin levels (≤35 g/l) or MELD ≥10 had a 2-fold greater risk of TEEs than those with higher albumin levels; those aged ≥60 years had a 2-fold greater risk of TEEs compared to younger patients. Eltrombopag should only be administered to such patients after careful consideration of the expected benefits in comparison with the risks. Patients should be closely monitored for signs and symptoms of TEE.
 
 The risk of TEEs has been found to be increased in patients with chronic liver disease (CLD) treated with 75 mg eltrombopag once daily for 2 weeks in preparation for invasive procedures. Six of 143 (4%) adult patients with CLD receiving eltrombopag experienced TEEs (all of the portal venous system) and two of 145 (1%) patients in the placebo group experienced TEEs (one in the portal venous system and one myocardial infarction). Five of the 6 patients treated with eltrombopag experienced the thrombotic complication at a platelet count &gt;200 000/μl and within 30 days of the last dose of eltrombopag. Eltrombopag is not indicated for the treatment of thrombocytopenia in patients with chronic liver disease in preparation for invasive procedures.
 
@@ -267,11 +265,9 @@ Eltrombopag should not be used in ITP patients with hepatic impairment (Child-Pu
 
 ## Bleeding following discontinuation of eltrombopag
 
-Thrombocytopenia is likely to reoccur in ITP patients upon discontinuation of treatment with eltrombopag. Following discontinuation of eltrombopag, platelet counts return to baseline levels within 2 weeks in the majority of patients, which increases the bleeding risk and in some cases may lead to bleeding. This risk is increased if eltrombopag treatment is discontinued in the presence of anticoagulants or anti-platelet agents. It is recommended that, if treatment with eltrombopag is discontinued, ITP treatment be restarted according to current treatment guidelines. Additional medical
+Thrombocytopenia is likely to reoccur in ITP patients upon discontinuation of treatment with eltrombopag. Following discontinuation of eltrombopag, platelet counts return to baseline levels within 2 weeks in the majority of patients, which increases the bleeding risk and in some cases may lead to bleeding. This risk is increased if eltrombopag treatment is discontinued in the presence of anticoagulants or anti-platelet agents. It is recommended that, if treatment with eltrombopag is discontinued, ITP treatment be restarted according to current treatment guidelines. Additional medical management may include cessation of anticoagulant and/or anti-platelet therapy, reversal of anticoagulation, or platelet support. Platelet counts must be monitored weekly for 4 weeks following discontinuation of eltrombopag.
 
 <div style=\"page-break-after: always\"></div>
-
-management may include cessation of anticoagulant and/or anti-platelet therapy, reversal of anticoagulation, or platelet support. Platelet counts must be monitored weekly for 4 weeks following discontinuation of eltrombopag.
 
 In HCV clinical studies, a higher incidence of gastrointestinal bleeding, including serious and fatal cases, was reported following discontinuation of peginterferon, ribavirin, and eltrombopag. Following discontinuation of therapy, patients should be monitored for any signs or symptoms of gastrointestinal bleeding.
 
@@ -337,7 +333,7 @@ This medicinal product contains less than 1 mmol sodium (23 mg) per film-coated 
 
 ## HMG CoA reductase inhibitors
 
-Administration of eltrombopag 75 mg once daily for 5 days with a single 10 mg dose of the OATP1B1 and BCRP substrate rosuvastatin to 39 healthy adult subjects increased plasma rosuvastatin Cmax 103% (90% confidence interval [CI]: 82%, 126%) and AUC0-∞ 55% (90% CI: 42%, 69%). Interactions are also expected with other HMG-CoA reductase inhibitors, including atorvastatin, fluvastatin, lovastatin, pravastatin and simvastatin. When co-administered with eltrombopag, a reduced dose of statins should be considered and careful monitoring for statin adverse reactions should be undertaken (see section 5.2).
+Administration of eltrombopag 75 mg once daily for 5 days with a single 10 mg dose of the OATP1B1 and BCRP substrate rosuvastatin to 39 healthy adult subjects increased plasma rosuvastatin Cmax 103% (90% confidence interval [CI]: 82%, 126%) and AUC0- 55% (90% CI: 42%, 69%). Interactions are also expected with other HMG-CoA reductase inhibitors, including atorvastatin, fluvastatin, lovastatin, pravastatin and simvastatin. When co-administered with eltrombopag, a reduced dose of statins should be considered and careful monitoring for statin adverse reactions should be undertaken (see section 5.2).
 
 ## OATP1B1 and BCRP substrates
 
@@ -345,31 +341,29 @@ Concomitant administration of eltrombopag and OATP1B1 (e.g. methotrexate) and BC
 
 ## Cytochrome P450 substrates
 
-In studies utilising human liver microsomes, eltrombopag (up to 100 µ M) showed no in vitro inhibition of the CYP450 enzymes 1A2, 2A6, 2C19, 2D6, 2E1, 3A4/5, and 4A9/11 and was an inhibitor of CYP2C8 and CYP2C9 as measured using paclitaxel and diclofenac as the probe substrates. Administration of eltrombopag 75 mg once daily for 7 days to 24 healthy male subjects did not inhibit or induce the metabolism of probe substrates for 1A2 (caffeine), 2C19 (omeprazole), 2C9 (flurbiprofen), or 3A4 (midazolam) in humans. No clinically significant interactions are expected when eltrombopag and CYP450 substrates are co-administered (see section 5.2).
+In studies utilising human liver microsomes, eltrombopag (up to 100  M) showed no in vitro inhibition of the CYP450 enzymes 1A2, 2A6, 2C19, 2D6, 2E1, 3A4/5, and 4A9/11 and was an inhibitor of CYP2C8 and CYP2C9 as measured using paclitaxel and diclofenac as the probe substrates. Administration of eltrombopag 75 mg once daily for 7 days to 24 healthy male subjects did not inhibit or induce the metabolism of probe substrates for 1A2 (caffeine), 2C19 (omeprazole), 2C9 (flurbiprofen), or 3A4 (midazolam) in humans. No clinically significant interactions are expected when eltrombopag and CYP450 substrates are co-administered (see section 5.2).
 
 ## HCV protease inhibitors
 
 Dose adjustment is not required when eltrombopag is co-administered with either telaprevir or boceprevir. Co-administration of a single dose of eltrombopag 200 mg with telaprevir 750 mg every 8 hours did not alter plasma telaprevir exposure.
 
-Co-administration of a single dose of eltrombopag 200 mg with boceprevir 800 mg every 8 hours did not alter plasma boceprevir AUC(0τ ), but increased Cmax by 20%, and decreased Cmin by 32%. The clinical relevance of the decrease in Cmin has not been established, increased clinical and laboratory monitoring for HCV suppression is recommended.
+Co-administration of a single dose of eltrombopag 200 mg with boceprevir 800 mg every 8 hours did not alter plasma boceprevir AUC(0- ), but increased Cmax by 20%, and decreased Cmin by 32%. The clinical relevance of the decrease in Cmin has not been established, increased clinical and laboratory monitoring for HCV suppression is recommended.
 
 ## Effects of other medicinal products on eltrombopag
 
 ## Ciclosporin
 
-A decrease in eltrombopag exposure was observed with co-administration of 200 mg and 600 mg ciclosporin (a BCRP inhibitor). The co-administration of 200 mg ciclosporin decreased the Cmax and the AUC0-∞ of eltrombopag by 25% and 18%, respectively. The co-administration of 600 mg ciclosporin decreased the Cmax and the AUC0-∞ of eltrombopag by 39% and 24%, respectively. Eltrombopag dose adjustment is permitted during the course of the treatment based on the patient's. platelet count (see section 4.2). Platelet count should be monitored at least weekly for 2 to 3 weeks when eltrombopag is co-administered with ciclosporin. Eltrombopag dose may need to be increased based on these platelet counts.
+A decrease in eltrombopag exposure was observed with co-administration of 200 mg and 600 mg ciclosporin (a BCRP inhibitor). The co-administration of 200 mg ciclosporin decreased the Cmax and the AUC0- of eltrombopag by 25% and 18%, respectively. The co-administration of 600 mg ciclosporin decreased the Cmax and the AUC0- of eltrombopag by 39% and 24%, respectively. Eltrombopag dose adjustment is permitted during the course of the treatment based on the patient's. platelet count (see section 4.2). Platelet count should be monitored at least weekly for 2 to 3 weeks when eltrombopag is co-administered with ciclosporin. Eltrombopag dose may need to be increased based on these platelet counts.
 
 ## Polyvalent cations (chelation)
 
-Eltrombopag chelates with polyvalent cations such as iron, calcium, magnesium, aluminium, selenium and zinc. Administration of a single dose of eltrombopag 75 mg with a polyvalent cation-containing
+Eltrombopag chelates with polyvalent cations such as iron, calcium, magnesium, aluminium, selenium and zinc. Administration of a single dose of eltrombopag 75 mg with a polyvalent cation-containing antacid (1 524 mg aluminium hydroxide and 1 425 mg magnesium carbonate) decreased plasma eltrombopag AUC0- by 70% (90% CI: 64%, 76%) and Cmax by 70% (90% CI: 62%, 76%). Eltrombopag should be taken at least two hours before or four hours after any products such as antacids, dairy products or mineral supplements containing polyvalent cations to avoid significant reduction in eltrombopag absorption due to chelation (see sections 4.2 and 5.2).
 
 <div style=\"page-break-after: always\"></div>
 
-antacid (1 524 mg aluminium hydroxide and 1 425 mg magnesium carbonate) decreased plasma eltrombopag AUC0-∞ by 70% (90% CI: 64%, 76%) and Cmax by 70% (90% CI: 62%, 76%). Eltrombopag should be taken at least two hours before or four hours after any products such as antacids, dairy products or mineral supplements containing polyvalent cations to avoid significant reduction in eltrombopag absorption due to chelation (see sections 4.2 and 5.2).
-
 ## Lopinavir/ritonavir
 
-Co-administration of eltrombopag with lopinavir/ritonavir may cause a decrease in the concentration of eltrombopag. A study in 40 healthy volunteers showed that the co-administration of a single 100 mg dose of eltrombopag with repeat dose lopinavir/ritonavir 400/100 mg twice daily resulted in a reduction in eltrombopag plasma AUC0-∞ by 17% (90% CI: 6.6%, 26.6%). Therefore, caution should be used when co-administration of eltrombopag with lopinavir/ritonavir takes place. Platelet count should be closely monitored in order to ensure appropriate medical management of the dose of eltrombopag when lopinavir/ritonavir therapy is initiated or discontinued.
+Co-administration of eltrombopag with lopinavir/ritonavir may cause a decrease in the concentration of eltrombopag. A study in 40 healthy volunteers showed that the co-administration of a single 100 mg dose of eltrombopag with repeat dose lopinavir/ritonavir 400/100 mg twice daily resulted in a reduction in eltrombopag plasma AUC0- by 17% (90% CI: 6.6%, 26.6%). Therefore, caution should be used when co-administration of eltrombopag with lopinavir/ritonavir takes place. Platelet count should be closely monitored in order to ensure appropriate medical management of the dose of eltrombopag when lopinavir/ritonavir therapy is initiated or discontinued.
 
 ## CYP1A2 and CYP2C8 inhibitors and inducers
 
@@ -389,9 +383,9 @@ The administration of eltrombopag tablet or powder for oral suspension formulati
 
 Administration of a single 50 mg dose of eltrombopag in tablet form with a standard high-calorie, high-fat breakfast that included dairy products reduced plasma eltrombopag mean AUC0-∞ by 59% and mean Cmax by 65%.
 
-Administration of a single 25 mg dose of eltrombopag as powder for oral suspension with a high-calcium, moderate-fat and moderate-calorie meal reduced plasma eltrombopag mean AUC0-∞ by 75%
+Administration of a single 25 mg dose of eltrombopag as powder for oral suspension with a high-calcium, moderate-fat and moderate-calorie meal reduced plasma eltrombopag mean AUC0- by 75%
 
-and mean Cmax by 79%. This decrease of exposure was attenuated when a single 25 mg dose of eltrombopag powder for oral suspension was administered 2 hours before a high-calcium meal (mean AUC0-∞ was decreased by 20% and mean Cmax by 14%).
+and mean Cmax by 79%. This decrease of exposure was attenuated when a single 25 mg dose of eltrombopag powder for oral suspension was administered 2 hours before a high-calcium meal (mean AUC0- was decreased by 20% and mean Cmax by 14%).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -429,11 +423,9 @@ Eltrombopag has negligible influence on the ability to drive and use machines. T
 
 The safety of eltrombopag was assessed in adult patients (N=763) using the pooled double-blind, placebo-controlled studies TRA100773A and B, TRA102537 (RAISE) and TRA113765, in which 403 patients were exposed to eltrombopag and 179 to placebo, in addition to data from the completed open-label studies (N=360) TRA108057 (REPEAT), TRA105325 (EXTEND) and TRA112940 (see section 5.1). Patients received study medication for up to 8 years (in EXTEND). The most important serious adverse reactions were hepatotoxicity and thrombotic/thromboembolic events. The most common adverse reactions occurring in at least 10% of patients included nausea, diarrhoea, increased alanine aminotransferase and back pain.
 
-The safety of eltrombopag in paediatric patients (aged 1 to 17 years) with previously treated ITP has been demonstrated in two studies (N=171) (see section 5.1). PETIT2 (TRA115450) was a two-part, double-blind and open-label, randomised, placebo-controlled study. Patients were randomised 2:1 and received eltrombopag (n=63) or placebo (n=29) for up to 13 weeks in the randomised period of the
+The safety of eltrombopag in paediatric patients (aged 1 to 17 years) with previously treated ITP has been demonstrated in two studies (N=171) (see section 5.1). PETIT2 (TRA115450) was a two-part, double-blind and open-label, randomised, placebo-controlled study. Patients were randomised 2:1 and received eltrombopag (n=63) or placebo (n=29) for up to 13 weeks in the randomised period of the study. PETIT (TRA108062) was a three-part, staggered-cohort, open-label and double-blind, randomised, placebo-controlled study. Patients were randomised 2:1 and received eltrombopag (n=44) or placebo (n=21), for up to 7 weeks. The profile of adverse reactions was comparable to that seen in adults with some additional adverse reactions, marked ♦ in the table below. The most common adverse reactions in paediatric ITP patients 1 year and older (≥3% and greater than placebo) were upper respiratory tract infection, nasopharyngitis, cough, pyrexia, abdominal pain, oropharyngeal pain, toothache and rhinorrhoea.
 
 <div style=\"page-break-after: always\"></div>
-
-study. PETIT (TRA108062) was a three-part, staggered-cohort, open-label and double-blind, randomised, placebo-controlled study. Patients were randomised 2:1 and received eltrombopag (n=44) or placebo (n=21), for up to 7 weeks. The profile of adverse reactions was comparable to that seen in adults with some additional adverse reactions, marked ♦ in the table below. The most common adverse reactions in paediatric ITP patients 1 year and older ( ≥ 3% and greater than placebo) were upper respiratory tract infection, nasopharyngitis, cough, pyrexia, abdominal pain, oropharyngeal pain, toothache and rhinorrhoea.
 
 ## Thrombocytopenia with HCV infection in adult patients
 
@@ -463,9 +455,9 @@ Table 3 Adverse reactions in the ITP study population
 | Neoplasms benign, malignant and unspecified (incl cysts and polyps) | Uncommon    | Rectosigmoid cancer                                                                                                                                                                                                        |
 | Blood and lymphatic system disorders                                | Common      | Anaemia, eosinophilia, leukocytosis, thrombocytopenia, haemoglobin decreased, white blood cell count decreased                                                                                                             |
 | Blood and lymphatic system disorders                                | Uncommon    | Anisocytosis, haemolytic anaemia, myelocytosis, band neutrophil count increased, myelocyte present, platelet count increased, haemoglobin increased                                                                        |
-| Immune system disorders Metabolism and nutrition disorders          | Uncommon    | Hypersensitivity                                                                                                                                                                                                           |
-|                                                                     | Common      | Hypokalaemia, decreased appetite, blood uric acid increased                                                                                                                                                                |
-|                                                                     | Uncommon    | Anorexia, gout, hypocalcaemia                                                                                                                                                                                              |
+| Immune system disorders Metabolism and nutrition                    | Uncommon    | Hypersensitivity                                                                                                                                                                                                           |
+| disorders                                                           | Common      | Hypokalaemia, decreased appetite, blood uric acid increased                                                                                                                                                                |
+| disorders                                                           | Uncommon    | Anorexia, gout, hypocalcaemia                                                                                                                                                                                              |
 | Psychiatric disorders                                               | Common      | Sleep disorder, depression                                                                                                                                                                                                 |
 | Psychiatric disorders                                               | Uncommon    | Apathy, mood altered, tearfulness                                                                                                                                                                                          |
 | Nervous system disorders                                            | Common      | Paraesthesia, hypoaesthesia, somnolence, migraine                                                                                                                                                                          |
@@ -540,9 +532,9 @@ Table 4 Adverse reactions in the HCV study population (in combination with anti-
 | Gastrointestinal disorders                           | Common      | Vomiting, ascites, abdominal pain, abdominal pain upper, dyspepsia, dry mouth, constipation, abdominal distension, toothache, stomatitis, gastrooesophagal reflux disease, haemorrhoids, abdominal discomfort, varices oesophageal                                            |
 | Gastrointestinal disorders                           | Uncommon    | Oesophageal varices haemorrhage, gastritis, aphthous stomatitis                                                                                                                                                                                                               |
 | Hepatobiliary disorders                              | Common      | Hyperbilirubinaemia, jaundice, drug-induced liver injury                                                                                                                                                                                                                      |
-| Hepatobiliary disorders                              | Uncommon    | Portal vein thrombosis, hepatic failure Pruritus                                                                                                                                                                                                                              |
-| Skin and subcutaneous tissue disorders               | Very common | Rash, dry skin, eczema, rash pruritic,                                                                                                                                                                                                                                        |
-| Skin and subcutaneous tissue disorders               | Common      | erythema, hyperhidrosis, pruritus generalised, alopecia                                                                                                                                                                                                                       |
+| Hepatobiliary disorders                              | Uncommon    | Portal vein thrombosis, hepatic failure                                                                                                                                                                                                                                       |
+| Skin and subcutaneous tissue disorders               | Very common | Pruritus                                                                                                                                                                                                                                                                      |
+| Skin and subcutaneous tissue disorders               | Common      | Rash, dry skin, eczema, rash pruritic, erythema, hyperhidrosis, pruritus generalised, alopecia                                                                                                                                                                                |
 | Skin and subcutaneous tissue disorders               | Uncommon    | Skin lesion, skin discolouration, skin hyperpigmentation, night sweats                                                                                                                                                                                                        |
 | Musculoskeletal and connective tissue disorder       | Very common | Myalgia                                                                                                                                                                                                                                                                       |
 | Musculoskeletal and connective tissue disorder       | Common      | Arthralgia, muscle spasms, back pain, pain in extremity, musculoskeletal pain, bone pain                                                                                                                                                                                      |
@@ -554,10 +546,10 @@ Table 4 Adverse reactions in the HCV study population (in combination with anti-
 
 <div style=\"page-break-after: always\"></div>
 
-| System organ class                                                              | Frequency                                                                       | Adverse reaction                                                                |
-|---------------------------------------------------------------------------------|---------------------------------------------------------------------------------|---------------------------------------------------------------------------------|
-|                                                                                 | Uncommon                                                                        | Electrocardiogram QT prolonged                                                  |
-| Grouped term with preferred terms oliguria, renal failure and renal impairment. | Grouped term with preferred terms oliguria, renal failure and renal impairment. | Grouped term with preferred terms oliguria, renal failure and renal impairment. |
+| System organ class Frequency                                                      | Adverse reaction               |
+|-----------------------------------------------------------------------------------|--------------------------------|
+| Uncommon                                                                          | Electrocardiogram QT prolonged |
+| † Grouped term with preferred terms oliguria, renal failure and renal impairment. |                                |
 
 Table 5 Adverse reactions in the SAA study population
 
@@ -595,19 +587,19 @@ In 3 controlled and 2 uncontrolled clinical studies among adult ITP patients rec
 
 In a placebo-controlled study (n=288, Safety population), following 2 weeks' treatment in preparation for invasive procedures, 6 of 143 (4%) adult patients with chronic liver disease receiving eltrombopag experienced 7 TEEs of the portal venous system and 2 of 145 (1%) patients in the placebo group experienced 3 TEEs. Five of the 6 patients treated with eltrombopag experienced the TEE at a platelet count &gt;200 000/µl.
 
-No specific risk factors were identified in those patients who experienced a TEE with the exception of platelet counts ≥ 200 000/μl (see section 4.4).
+No specific risk factors were identified in those patients who experienced a TEE with the exception of platelet counts ≥200 000/μl (see section 4.4).
 
-In controlled studies in thrombocytopenic patients with HCV (n=1 439), 38 out of 955 patients (4%) treated with eltrombopag experienced a TEE and 6 out of 484 patients (1%) in the placebo group experienced TEEs. Portal vein thrombosis was the most common TEE in both treatment groups (2% in patients treated with eltrombopag versus &lt;1% for placebo) (see section 4.4). Patients with low albumin levels ( ≤ 35 g/l ) or MELD ≥1 0 had a 2-fold greater risk of TEEs than those with higher albumin levels; those aged ≥60 years had a 2-fold greater risk of TEEs compared to younger patients.
+In controlled studies in thrombocytopenic patients with HCV (n=1 439), 38 out of 955 patients (4%) treated with eltrombopag experienced a TEE and 6 out of 484 patients (1%) in the placebo group experienced TEEs. Portal vein thrombosis was the most common TEE in both treatment groups (2% in patients treated with eltrombopag versus &lt;1% for placebo) (see section 4.4). Patients with low albumin levels (≤35 g/l) or MELD ≥10 had a 2-fold greater risk of TEEs than those with higher albumin levels; those aged ≥60 years had a 2-fold greater risk of TEEs compared to younger patients.
 
 ## Hepatic decompensation (use with interferon)
 
-Chronic HCV patients with cirrhosis may be at risk of hepatic decompensation when receiving alfa interferon therapy. In 2 controlled clinical studies in thrombocytopenic patients with HCV, hepatic decompensation (ascites, hepatic encephalopathy, variceal haemorrhage, spontaneous bacterial peritonitis) was reported more frequently in the eltrombopag arm (11%) than in the placebo arm (6%). In patients wi th low albumin levels (≤ 35 g/l ) or MELD score ≥1 0 at baseline, there was a 3-fold greater risk of hepatic decompensation and an increase in the risk of a fatal adverse event compared to those with less advanced liver disease. Eltrombopag should only be administered to such patients after careful consideration of the expected benefits in comparison with the risks. Patients with these characteristics should be closely monitored for signs and symptoms of hepatic decompensation (see section 4.4).
+Chronic HCV patients with cirrhosis may be at risk of hepatic decompensation when receiving alfa interferon therapy. In 2 controlled clinical studies in thrombocytopenic patients with HCV, hepatic decompensation (ascites, hepatic encephalopathy, variceal haemorrhage, spontaneous bacterial peritonitis) was reported more frequently in the eltrombopag arm (11%) than in the placebo arm (6%). In patients with low albumin levels (≤35 g/l) or MELD score ≥10 at baseline, there was a 3-fold greater risk of hepatic decompensation and an increase in the risk of a fatal adverse event compared to those with less advanced liver disease. Eltrombopag should only be administered to such patients after careful consideration of the expected benefits in comparison with the risks. Patients with these characteristics should be closely monitored for signs and symptoms of hepatic decompensation (see section 4.4).
 
 ## Hepatotoxicity
 
-In the controlled clinical studies in chronic ITP with eltrombopag, increases in serum ALT, AST and bilirubin were observed (see section 4.4). These findings were mostly mild (Grade 1-2), reversible and not accompanied by clinically significant symptoms that would indicate an impaired liver function. Across the 3 placebo-controlled studies in adults with chronic ITP, 1 patient in the placebo group and 1 patient in the eltrombopag group experienced a Grade 4 liver test abnormality. In two placebocontrolled studies in paediatric patients (aged  1 to 17 years) with chronic ITP, ALT ≥ 3 x ULN was reported in 4.7% and 0% of the eltrombopag and placebo groups, respectively.
+In the controlled clinical studies in chronic ITP with eltrombopag, increases in serum ALT, AST and bilirubin were observed (see section 4.4). These findings were mostly mild (Grade 1-2), reversible and not accompanied by clinically significant symptoms that would indicate an impaired liver function. Across the 3 placebo-controlled studies in adults with chronic ITP, 1 patient in the placebo group and 1 patient in the eltrombopag group experienced a Grade 4 liver test abnormality. In two placebocontrolled studies in paediatric patients (aged  1 to 17 years) with chronic ITP, ALT ≥3 x ULN was reported in 4.7% and 0% of the eltrombopag and placebo groups, respectively.
 
-In 2 controlled clinical studies in patients with HCV, ALT or AST ≥ 3 x ULN was reported in 34% and 38% of the eltrombopag and placebo groups, respectively. Most patients receiving eltrombopag in combination with peginterferon / ribavirin therapy will experience indirect hyperbilirubinaemia. Overall, total bilirubin ≥1.5 x ULN was reported in 76% and 50% of the eltrombopag and placebo groups, respectively. In the single-arm phase II monotherapy refractory SAA study, concurrent ALT or AST &gt;3 x  ULN with total (indirect) bilirubin &gt;1.5 x ULN were reported in 5% of patients. Total bilirubin &gt;1.5 x ULN occurred in 14% of patients.
+In 2 controlled clinical studies in patients with HCV, ALT or AST ≥3 x ULN was reported in 34% and 38% of the eltrombopag and placebo groups, respectively. Most patients receiving eltrombopag in combination with peginterferon / ribavirin therapy will experience indirect hyperbilirubinaemia. Overall, total bilirubin ≥1.5 x ULN was reported in 76% and 50% of the eltrombopag and placebo groups, respectively. In the single-arm phase II monotherapy refractory SAA study, concurrent ALT or AST &gt;3 x  ULN with total (indirect) bilirubin &gt;1.5 x ULN were reported in 5% of patients. Total bilirubin &gt;1.5 x ULN occurred in 14% of patients.
 
 ## Thrombocytopenia following discontinuation of treatment
 
@@ -659,11 +651,11 @@ Two phase III, randomised, double-blind, placebo-controlled studies RAISE (TRA10
 
 ## Double-blind placebo-controlled studies RAISE:
 
-197 ITP patients were randomised 2:1, eltrombopag (n=135) to placebo (n=62), and randomisation was stratified based upon splenectomy status, use of ITP medicinal products at baseline and baseline platelet count. The dose of eltrombopag was adjusted during the 6-month treatment period based on individual platelet counts. All patients initiated treatment with eltrombopag 50 mg. From Day 29 to the end of treatment, 15 to 28% of eltrombopagtreated patients were maintained on ≤25 mg and 29 to 53% received 75 mg.
+197 ITP patients were randomised 2:1, eltrombopag (n=135) to placebo (n=62), and randomisation was stratified based upon splenectomy status, use of ITP medicinal products at baseline and baseline platelet count. The dose of eltrombopag was adjusted during the 6-month treatment period based on individual platelet counts. All patients initiated treatment with eltrombopag 50 mg. From Day 29 to the end of treatment, 15 to 28% of eltrombopag-treated patients were maintained on ≤25 mg and 29 to 53% received 75 mg.
 
 In addition, patients could taper off concomitant ITP medicinal products and receive rescue treatments as dictated by local standard of care. More than half of all patients in each treatment group had ≥3 prior ITP therapies and 36% had a prior splenectomy.
 
-Median platelet counts at baseline were 16 000/µl for both treatment groups and in the eltrombopag group were maintained above 50 000/μl at all on -therapy visits starting at Day 15; in contrast, median platelet counts in the placebo group remained &lt;30 000/μl throughout the study.
+Median platelet counts at baseline were 16 000/µl for both treatment groups and in the eltrombopag group were maintained above 50 000/μl at all on-therapy visits starting at Day 15; in contrast, median platelet counts in the placebo group remained &lt;30 000/μl throughout the study.
 
 Platelet count response between 50 000-400 000/µl in the absence of rescue treatment was achieved by significantly more patients in the eltrombopag treated group during the 6-month treatment period, p&lt;0.001 (Table 6). Fifty-four percent of the eltrombopag-treated patients and 13% of placebo-treated patients achieved this level of response after 6 weeks of treatment. A similar platelet response was maintained throughout the study, with 52% and 16% of patients responding at the end of the 6-month treatment period.
 
@@ -672,8 +664,8 @@ Platelet count response between 50 000-400 000/µl in the absence of rescue trea
 |                                                                                       | Eltrombopag N=135   | Placebo N=62   |
 |---------------------------------------------------------------------------------------|---------------------|----------------|
 | Key secondary endpoints                                                               |                     |                |
-| Number of cumulative weeks with platelet counts ≥ 50 000-400 000/µl, Mean (SD)        | 11.3 (9.46)         | 2.4 (5.95)     |
-| Patients with ≥ 75% of assessments in the target range (50 000 to                     | 51 (38)             | 4 (7)          |
+| Number of cumulative weeks with platelet counts ≥50 000-400 000/µl, Mean (SD)         | 11.3 (9.46)         | 2.4 (5.95)     |
+| Patients with ≥75% of assessments in the target range (50 000 to                      | 51 (38)             | 4 (7)          |
 | 400 000/µl), n (%) p- value a                                                         | <0.001              | <0.001         |
 | Patients with bleeding (WHO Grades 1-4) at any time during 6 months, n (%) p- value a | 106 (79)            | 56 (93)        |
 |                                                                                       | 0.012               | 0.012          |
@@ -695,28 +687,26 @@ At baseline, more than 70% of ITP patients in each treatment group reported any 
 
 ## TRA100773B:
 
-The primary efficacy endpoint was the proportion of responders, defined as ITP patients who had an increase in platelet counts to ≥ 50 000/µl at Day 43 from a baseline of &lt;30 000/µl; patients who withdrew prematurely due to a platelet count &gt;200 000/µl were considered responders, those that discontinued for any other reason were considered non-responders irrespective of platelet count. A total of 114 patients with previously treated ITP were randomised 2:1 eltrombopag (n=76) to placebo (n=38) (Table 7).
+The primary efficacy endpoint was the proportion of responders, defined as ITP patients who had an increase in platelet counts to ≥50 000/µl at Day 43 from a baseline of &lt;30 000/µl; patients who withdrew prematurely due to a platelet count &gt;200 000/µl were considered responders, those that discontinued for any other reason were considered non-responders irrespective of platelet count. A total of 114 patients with previously treated ITP were randomised 2:1 eltrombopag (n=76) to placebo (n=38) (Table 7).
 
 ## Table 7 Efficacy results from TRA100773B
 
-|                                                                                                                            | Eltrombopag N=76   | Placebo N=38   |
-|----------------------------------------------------------------------------------------------------------------------------|--------------------|----------------|
-| Key primary endpoints                                                                                                      |                    |                |
-| Eligible for efficacy analysis, n                                                                                          | 73                 | 37             |
-| Patients with platelet count ≥ 50 000/µl after up to 42 days of dosing (compared to a baseline count of <30 000/µl), n (%) | 43 (59)            | 6 (16)         |
-| p- value a                                                                                                                 | <0.001             | <0.001         |
-| Key secondary endpoints                                                                                                    |                    |                |
-| Patients with a Day 43 bleeding assessment, n                                                                              | 51                 | 30             |
-| Bleeding (WHO Grades 1-4) n (%)                                                                                            | 20 (39)            | 18 (60)        |
-| p- value a                                                                                                                 | 0.029              | 0.029          |
+|                                                                                                                       | Eltrombopag N=76   | Placebo N=38   |
+|-----------------------------------------------------------------------------------------------------------------------|--------------------|----------------|
+| Key primary endpoints                                                                                                 |                    |                |
+| Eligible for efficacy analysis, n                                                                                     | 73                 | 37             |
+| Patients with platelet count ≥50 000/µl after up to 42 days of dosing (compared to a baseline count of <30 000/µl), n | 43 (59)            | 6 (16)         |
+| p- value a                                                                                                            | <0.001             | <0.001         |
+| Key secondary endpoints                                                                                               |                    |                |
+| Patients with a Day 43 bleeding assessment, n                                                                         | 51                 | 30             |
+| Bleeding (WHO Grades 1-4) n (%)                                                                                       | 20 (39)            | 18 (60)        |
+| p- value a                                                                                                            | 0.029              | 0.029          |
 
 In both RAISE and TRA100773B the response to eltrombopag relative to placebo was similar irrespective of ITP medicinal product use, splenectomy status and baseline platelet count (≤15 000/µl, &gt;15 000/µl) at randomisation.
 
-In RAISE and TRA100773B studies, in the subgroup of ITP patients with baseline platelet count ≤15 000/μl the median platelet counts did not reach the target level (&gt;50 000/µl), although in both studies 43% of these patients treated with eltrombopag responded after 6 weeks of treatment. In addition, in the RAISE study, 42% of patients with baseline platelet count ≤15 000/μl treated with
+In RAISE and TRA100773B studies, in the subgroup of ITP patients with baseline platelet count ≤15 000/μl the median platelet counts did not reach the target level (&gt;50 000/µl), although in both studies 43% of these patients treated with eltrombopag responded after 6 weeks of treatment. In addition, in the RAISE study, 42% of patients with baseline platelet count ≤15 000/μl treated with eltrombopag responded at the end of the 6-month treatment period. Forty-two to 60% of the eltrombopag-treated patients in the RAISE study were receiving 75 mg from Day 29 to the end of treatment.
 
 <div style=\"page-break-after: always\"></div>
-
-eltrombopag responded at the end of the 6-month treatment period. Forty-two to 60% of the eltrombopag-treated patients in the RAISE study were receiving 75 mg from Day 29 to the end of treatment.
 
 ## Open-label non-controlled studies
 
@@ -740,7 +730,7 @@ The primary endpoint was the proportion of patients with sustained response off 
 
 The duration of tapering was individualised depending on the starting dose and the response of the patient. The tapering schedule recommended dose reductions of 25 mg every 2 weeks if the platelet counts were stable. After the daily dose was reduced to 25 mg for 2 weeks, the dose of 25 mg was then only administered on alternate days for 2 weeks until treatment discontinuation. The tapering was done in smaller decrements of 12.5 mg every second week for patients of East-/Southeast-Asian ancestry. If a relapse (defined as platelet count &lt;30 000/μl) occurred, patients were offered a new course of eltrombopag at the appropriate starting dose.
 
-Eighty-nine patients (84.8%) achieved a complete response (platelet count ≥100 000/μl) ( Step 1, Table 8) and 65 patients (61.9%) maintained the complete response for at least 2 months with no platelet counts below 70 000/μl ( Step 2, Table 8). Forty-four patients (41.9%) were able to be tapered off eltrombopag until treatment discontinuation while maintaining platelet counts ≥30 000/μl in the absence of bleeding events or the use of rescue therapy (Step 3, Table 8).
+Eighty-nine patients (84.8%) achieved a complete response (platelet count ≥100 000/μl) (Step 1, Table 8) and 65 patients (61.9%) maintained the complete response for at least 2 months with no platelet counts below 70 000/μl (Step 2, Table 8). Forty-four patients (41.9%) were able to be tapered off eltrombopag until treatment discontinuation while maintaining platelet counts ≥30 000/μl in the absence of bleeding events or the use of rescue therapy (Step 3, Table 8).
 
 The study met the primary objective by demonstrating that eltrombopag was able to induce sustained response off treatment, in the absence of bleeding events or the use of rescue therapy, by Month 12 in 32 of the 105 enrolled patients (30.5%; p&lt;0.0001; 95% CI: 21.9, 40.2) (Step 4, Table 8). By Month 24, 20 of the 105 enrolled patients (19.0%; 95% CI: 12.0, 27.9) maintained sustained response off treatment in the absence of bleeding events or the use of rescue therapy (Step 5, Table 8).
 
@@ -758,14 +748,14 @@ The overall safety analysis is consistent with previously reported data and the 
 
 Table 8 Proportion of patients with sustained response off treatment at Month 12 and at Month 24 (full analysis set) in TAPER
 
-|                                                                                                                                                                                                     | All patients N=105   | All patients N=105   | Hypothesis testing   | Hypothesis testing   |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------|----------------------|----------------------|----------------------|
-|                                                                                                                                                                                                     | n (%)                | 95% CI               | p-value              | Reject H0            |
-| Step 1: Patients who reached platelet count ≥ 100 000/µl at least once                                                                                                                              | 89 (84.8)            | (76.4, 91.0)         |                      |                      |
-| Step 2: Patients who maintained stable platelet count for 2 months after reaching 100 000/µl (no counts <70 000/µl)                                                                                 | 65 (61.9)            | (51.9, 71.2)         |                      |                      |
-| Step 3: Patients who were able to be tapered off eltrombopag until treatment discontinuation, maintaining platelet count ≥3 0 000/µl in the absence of bleeding events or use of any rescue therapy | 44 (41.9)            | (32.3, 51.9)         |                      |                      |
-| Step 4: Patients with sustained response off treatment until Month 12, with platelet count maintained ≥ 30 000/µl in the absence of bleeding events or use of any rescue therapy                    | 32 (30.5)            | (21.9, 40.2)         | <0.0001*             | Yes                  |
-| Step 5: Patients with sustained response off treatment from Month 12 to Month 24, maintaining platelet count ≥3 0 000/µl in the absence of bleeding events or use of any rescue therapy             | 20 (19.0)            | (12.0, 27.9)         |                      |                      |
+|                                                                                                                                                                                                    | All patients N=105   | All patients N=105   | Hypothesis testing   | Hypothesis testing   |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------|----------------------|----------------------|----------------------|
+|                                                                                                                                                                                                    | n (%)                | 95% CI               | p-value              | Reject H0            |
+| Step 1: Patients who reached platelet count ≥100 000/µl at least once                                                                                                                              | 89 (84.8)            | (76.4, 91.0)         |                      |                      |
+| Step 2: Patients who maintained stable platelet count for 2 months after reaching 100 000/µl (no counts <70 000/µl)                                                                                | 65 (61.9)            | (51.9, 71.2)         |                      |                      |
+| Step 3: Patients who were able to be tapered off eltrombopag until treatment discontinuation, maintaining platelet count ≥30 000/µl in the absence of bleeding events or use of any rescue therapy | 44 (41.9)            | (32.3, 51.9)         |                      |                      |
+| Step 4: Patients with sustained response off treatment until Month 12, with platelet count maintained ≥30 000/µl in the absence of bleeding events or use of any rescue therapy                    | 32 (30.5)            | (21.9, 40.2)         | <0.0001*             | Yes                  |
+| Step 5: Patients with sustained response off treatment from Month 12 to Month 24, maintaining platelet count ≥30 000/µl in the absence of bleeding events or use of any rescue therapy             | 20 (19.0)            | (12.0, 27.9)         |                      |                      |
 
 N: The total number of patients in the treatment group. This is the denominator for percentage (%) calculation. n: Number of patients in the corresponding category.
 
@@ -773,19 +763,17 @@ The 95% CI for the frequency distribution was computed using Clopper-Pearson exa
 
 * Indicates statistical significance (one-sided) at the 0.05 level.
 
-Results of response on treatment analysis by time since ITP diagnosis
+Results of response on treatment analysis by time since ITP diagnosis An ad-hoc analysis was conducted on the n=105 patients by time since ITP diagnosis to assess the response to eltrombopag across four different ITP categories by time since diagnosis (newly diagnosed ITP &lt;3 months, persistent ITP 3 to &lt;6 months, persistent ITP 6 to ≤12 months, and chronic ITP &gt;12 months). 49% of patients (n=51) had an ITP diagnosis of &lt;3 months, 20% (n=21) of 3 to &lt;6 months, 17% (n=18) of 6 to ≤12 months and 14% (n=15) of &gt;12 months.
 
 <div style=\"page-break-after: always\"></div>
 
-An ad-hoc analysis was conducted on the n=105 patients by time since ITP diagnosis to assess the response to eltrombopag across four different ITP categories by time since diagnosis (newly diagnosed ITP &lt;3 months, persistent ITP 3 to &lt;6 months, persistent ITP 6 to ≤ 12 months, and chronic ITP &gt;12 months). 49% of patients (n=51) had an ITP diagnosis of &lt;3 months, 20% (n=21) of 3 to &lt;6 months, 17% (n=18) of 6 to ≤ 12 months and 14% (n=15) of &gt;12 months.
+Until the cut-off date (22-Oct-2021), patients were exposed to eltrombopag for a median (Q1-Q3) duration of 6.2 months (2.3-12.0 months). The median (Q1-Q3) platelet count at baseline was 16 000/  l (7 800-28 000/  l).
 
-Until the cut-off date (22-Oct-2021), patients were exposed to eltrombopag for a median (Q1-Q3) duration of 6.2 months (2.3-12.0 months). The median (Q1-Q3) platelet count at baseline was 16 000/ µ l (7 800-28 000/ µ l).
+Platelet count response, defined as a platelet count ≥50 000/  l at least once by Week 9 without rescue therapy, was achieved in 84% (95% CI: 71% to 93%) of newly diagnosed ITP patients, 91% (95% CI: 70% to 99%) and 94% (95% CI: 73% to 100%) of persistent ITP patients (i.e. with ITP diagnosis 3 to &lt;6 months and 6 to ≤12 months, respectively), and in 87% (95% CI: 60% to 98%) of chronic ITP patients.
 
-Platelet count response, defined as a platelet count ≥ 50 000/ µ l at least once by Week 9 without rescue therapy, was achieved in 84% (95% CI: 71% to 93%) of newly diagnosed ITP patients, 91% (95% CI: 70% to 99%) and 94% (95% CI: 73% to 100%) of persistent ITP patients (i.e. with ITP diagnosis 3 to &lt;6 months and 6 to ≤ 12 months, respectively), and in 87% (95% CI: 60% to 98%) of chronic ITP patients.
+The rate of complete response, defined as platelet count ≥100 000/  l at least once by Week 9 without rescue therapy, was 75% (95% CI: 60% to 86%) in newly diagnosed ITP patients, 76% (95% CI: 53% to 92%) and 72% (95% CI: 47% to 90%) in persistent ITP patients (ITP diagnosis 3 to &lt;6 months and 6 to ≤12 months, respectively), and 87% (95% CI: 60% to 98%) in chronic ITP patients.
 
-The rate of complete response, defined as platelet count ≥ 100 000/ µ l at least once by Week 9 without rescue therapy, was 75% (95% CI: 60% to 86%) in newly diagnosed ITP patients, 76% (95% CI: 53% to 92%) and 72% (95% CI: 47% to 90%) in persistent ITP patients (ITP diagnosis 3 to &lt;6 months and 6 to ≤ 12 months, respectively), and 87% (95% CI: 60% to 98%) in chronic ITP patients.
-
-The rate of durable response, defined as a platelet count ≥ 50 000/ µ l for at least 6 out of 8 consecutive assessments without rescue therapy during the first 6 months on study, was 71% (95% CI: 56% to 83%) in newly diagnosed ITP patients, 81% (95% CI: 58% to 95%) and 72% (95% CI: 47% to 90.3%) in persistent ITP patients (ITP diagnosis 3 to &lt;6 months and 6 to ≤ 12 months, respectively), and 80% (95% CI: 52% to 96%) in chronic ITP patients.
+The rate of durable response, defined as a platelet count ≥50 000/  l for at least 6 out of 8 consecutive assessments without rescue therapy during the first 6 months on study, was 71% (95% CI: 56% to 83%) in newly diagnosed ITP patients, 81% (95% CI: 58% to 95%) and 72% (95% CI: 47% to 90.3%) in persistent ITP patients (ITP diagnosis 3 to &lt;6 months and 6 to ≤12 months, respectively), and 80% (95% CI: 52% to 96%) in chronic ITP patients.
 
 When assessed with the WHO Bleeding Scale, the proportion of newly diagnosed and persistent ITP patients without bleeding at Week 4 ranged from 88% to 95% compared to 37% to 57% at baseline. For chronic ITP patients it was 93% compared to 73% at baseline.
 
@@ -799,7 +787,7 @@ The safety and efficacy of eltrombopag in paediatric patients have been investig
 
 ## TRA115450 (PETIT2):
 
-The primary endpoint was a sustained response, defined as the proportion of patients receiving eltrombopag, compared to placebo, achieving platelet counts ≥50 000/μl for at least 6 out of 8 weeks (in the absence of rescue therapy), between weeks 5 to 12 during the double-blind randomised period. Patients were diagnosed with chronic ITP for at least 1 year and were refractory or relapsed to at least one prior ITP therapy or unable to continue other ITP treatments for a medical reason and had platelet count &lt;30 000/μl. Ninety -two patients were randomised by three age cohort strata (2:1) to eltrombopag (n=63) or placebo (n=29). The dose of eltrombopag could be adjusted based on individual platelet counts.
+The primary endpoint was a sustained response, defined as the proportion of patients receiving eltrombopag, compared to placebo, achieving platelet counts ≥50 000/μl for at least 6 out of 8 weeks (in the absence of rescue therapy), between weeks 5 to 12 during the double-blind randomised period. Patients were diagnosed with chronic ITP for at least 1 year and were refractory or relapsed to at least one prior ITP therapy or unable to continue other ITP treatments for a medical reason and had platelet count &lt;30 000/μl. Ninety-two patients were randomised by three age cohort strata (2:1) to eltrombopag (n=63) or placebo (n=29). The dose of eltrombopag could be adjusted based on individual platelet counts.
 
 Overall, a significantly greater proportion of eltrombopag patients (40%) compared with placebo patients (3%) achieved the primary endpoint (Odds Ratio: 18.0 [95% CI: 2.3, 140.9] p&lt;0.001) which was similar across the three age cohorts (Table 9).
 
@@ -829,13 +817,13 @@ Sustained response was seen in 50% of the initial responders during 20 out of 24
 
 ## Chronic hepatitis C associated thrombocytopenia studies
 
-The efficacy and safety of eltrombopag for the treatment of thrombocytopenia in patients with HCV infection were evaluated in two randomised, double-blind, placebo-controlled studies. ENABLE 1 utilised peginterferon alfa-2a plus ribavirin for antiviral treatment and ENABLE 2 utilised peginterferon alfa-2b plus ribavirin. Patients did not receive direct acting antiviral agents. In both studies, patients with a platelet count of &lt;75 000/μl were enrolled and stratified by platelet count (&lt;50 000/μl and ≥50 000 /μl to &lt;75 000/μl), screening HCV RNA (&lt;800 000 IU/ml and ≥80 0 000 IU/ml), and HCV genotype (genotype 2/3, and genotype 1/4/6).
+The efficacy and safety of eltrombopag for the treatment of thrombocytopenia in patients with HCV infection were evaluated in two randomised, double-blind, placebo-controlled studies. ENABLE 1 utilised peginterferon alfa-2a plus ribavirin for antiviral treatment and ENABLE 2 utilised peginterferon alfa-2b plus ribavirin. Patients did not receive direct acting antiviral agents. In both studies, patients with a platelet count of &lt;75 000/μl were enrolled and stratified by platelet count (&lt;50 000/μl and ≥50 000/μl to &lt;75 000/μl), screening HCV RNA (&lt;800 000 IU/ml and ≥800 000 IU/ml), and HCV genotype (genotype 2/3, and genotype 1/4/6).
 
-Baseline disease characteristics were similar in both studies and were consistent with compensated cirrhotic HCV patient population. The majority of patients were HCV genotype 1 (64%) and had bridging fibrosis/cirrhosis. Thirty-one percent of patients had been treated with prior HCV therapies, primarily pegylated interferon plus ribavirin. The median baseline platelet count was 59 500/μl in both treatment groups: 0.8%, 28% and 72% of the patients recruited had platelet counts &lt;20 000/μl, &lt;50 000/μl and ≥ 50 000/μl respectively.
+Baseline disease characteristics were similar in both studies and were consistent with compensated cirrhotic HCV patient population. The majority of patients were HCV genotype 1 (64%) and had bridging fibrosis/cirrhosis. Thirty-one percent of patients had been treated with prior HCV therapies, primarily pegylated interferon plus ribavirin. The median baseline platelet count was 59 500/μl in both treatment groups: 0.8%, 28% and 72% of the patients recruited had platelet counts &lt;20 000/μl, &lt;50 000/μl and ≥50 000/μl respectively.
 
 <div style=\"page-break-after: always\"></div>
 
-The studies consisted of two phases - a pre-antiviral treatment phase and an antiviral treatment phase. In the pre-antiviral treatment phase, patients received open-label eltrombopag to increase the platelet count to ≥90 000/μl for ENABLE 1 and ≥100 000/μl for ENABLE 2. The median time to achieve the target platelet co unt ≥ 90 000/μl (ENABLE 1) or ≥100 000/μl (ENABLE 2) was 2 weeks.
+The studies consisted of two phases - a pre-antiviral treatment phase and an antiviral treatment phase. In the pre-antiviral treatment phase, patients received open-label eltrombopag to increase the platelet count to ≥90 000/μl for ENABLE 1 and ≥100 000/μl for ENABLE 2. The median time to achieve the target platelet count ≥90 000/μl (ENABLE 1) or ≥100 000/μl (ENABLE 2) was 2 weeks.
 
 The primary efficacy endpoint for both studies was sustained virologic response (SVR), defined as the percentage of patients with no detectable HCV-RNA at 24 weeks after completion of the planned treatment period.
 
@@ -879,33 +867,33 @@ The European Medicines Agency has waived the obligation to submit the results of
 
 ## Pharmacokinetics
 
-The plasma eltrombopag concentration-time data collected in 88 patients with ITP in studies TRA100773A and TRA100773B were combined with data from 111 healthy adult subjects in a population PK analysis. Plasma eltrombopag AUC(0τ ) and Cmax estimates for ITP patients are presented (Table 11).
+The plasma eltrombopag concentration-time data collected in 88 patients with ITP in studies TRA100773A and TRA100773B were combined with data from 111 healthy adult subjects in a population PK analysis. Plasma eltrombopag AUC(0- ) and Cmax estimates for ITP patients are presented (Table 11).
 
 Table 11 Geometric mean (95% confidence intervals) of steady-state plasma eltrombopag pharmacokinetic parameters in adults with ITP
 
-| Eltrombopag dose, once daily   |   N | AUC ( 0- τ) a , μ g . h/ml   | C max a , μ g/ml   |
-|--------------------------------|-----|------------------------------|--------------------|
-| 30 mg                          |  28 | 47 (39, 58)                  | 3.78 (3.18, 4.49)  |
-| 50 mg                          |  34 | 108 (88, 134)                | 8.01 (6.73, 9.53)  |
-| 75 mg                          |  26 | 168 (143, 198)               | 12.7 (11.0, 14.5)  |
+| Eltrombopag dose, once daily   |   N | AUC ( 0-  ) a , μg . h/ml   | C max a , μg/ml   |
+|--------------------------------|-----|------------------------------|-------------------|
+| 30 mg                          |  28 | 47 (39, 58)                  | 3.78 (3.18, 4.49) |
+| 50 mg                          |  34 | 108 (88, 134)                | 8.01 (6.73, 9.53) |
+| 75 mg                          |  26 | 168 (143, 198)               | 12.7 (11.0, 14.5) |
 
-Plasma eltrombopag concentration-time data collected in 590 patients with HCV enrolled in phase III studies TPL103922/ENABLE 1 and TPL108390/ENABLE 2 were combined with data from patients with HCV enrolled in the phase II study TPL102357 and healthy adult subjects in a population PK analysis. Plasma eltrombopag Cmax and AUC(0τ) estimates for adult patients with HCV enrolled in the phase III studies are presented for each dose studied in Table 12.
+Plasma eltrombopag concentration-time data collected in 590 patients with HCV enrolled in phase III studies TPL103922/ENABLE 1 and TPL108390/ENABLE 2 were combined with data from patients with HCV enrolled in the phase II study TPL102357 and healthy adult subjects in a population PK analysis. Plasma eltrombopag Cmax and AUC(0- ) estimates for adult patients with HCV enrolled in the phase III studies are presented for each dose studied in Table 12.
 
 Table 12 Geometric mean (95% CI) steady-state plasma eltrombopag pharmacokinetic parameters in patients with chronic HCV
 
-| Eltrombopag dose (once daily)                                                                                    | N                                                                                                                | AUC ( 0- τ) (μ g . h/ml)                                                                                         | C max ( μ g/ml)                                                                                                  |
-|------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|
-| 25 mg                                                                                                            | 330                                                                                                              | 118 (109, 128)                                                                                                   | 6.40 (5.97, 6.86)                                                                                                |
-| 50 mg                                                                                                            | 119                                                                                                              | 166 (143, 192)                                                                                                   | 9.08 (7.96, 10.35)                                                                                               |
-| 75 mg                                                                                                            | 45                                                                                                               | 301 (250, 363)                                                                                                   | 16.71 (14.26, 19.58)                                                                                             |
-| 100 mg                                                                                                           | 96                                                                                                               | 354 (304, 411)                                                                                                   | 19.19 (16.81, 21.91)                                                                                             |
-| AUC (0- τ) and C max based on population PK post-hoc estimates at the highest dose in the data for each patient. | AUC (0- τ) and C max based on population PK post-hoc estimates at the highest dose in the data for each patient. | AUC (0- τ) and C max based on population PK post-hoc estimates at the highest dose in the data for each patient. | AUC (0- τ) and C max based on population PK post-hoc estimates at the highest dose in the data for each patient. |
+| Eltrombopag dose (once daily)                                                                                      | N                                                                                                                  | AUC ( 0-  ) (μg . h/ml)                                                                                           | C max (μg/ml)                                                                                                      |
+|--------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|
+| 25 mg                                                                                                              | 330                                                                                                                | 118 (109, 128)                                                                                                     | 6.40 (5.97, 6.86)                                                                                                  |
+| 50 mg                                                                                                              | 119                                                                                                                | 166 (143, 192)                                                                                                     | 9.08 (7.96, 10.35)                                                                                                 |
+| 75 mg                                                                                                              | 45                                                                                                                 | 301 (250, 363)                                                                                                     | 16.71 (14.26, 19.58)                                                                                               |
+| 100 mg                                                                                                             | 96                                                                                                                 | 354 (304, 411)                                                                                                     | 19.19 (16.81, 21.91)                                                                                               |
+| AUC ( 0-  ) and C max based on population PK post-hoc estimates at the highest dose in the data for each patient. | AUC ( 0-  ) and C max based on population PK post-hoc estimates at the highest dose in the data for each patient. | AUC ( 0-  ) and C max based on population PK post-hoc estimates at the highest dose in the data for each patient. | AUC ( 0-  ) and C max based on population PK post-hoc estimates at the highest dose in the data for each patient. |
 
 <div style=\"page-break-after: always\"></div>
 
 ## Absorption and bioavailability
 
-Eltrombopag is absorbed with a peak concentration occurring 2 to 6 hours after oral administration. Administration of eltrombopag concomitantly with antacids and other products containing polyvalent cations such as dairy products and mineral supplements significantly reduces eltrombopag exposure (see section 4.2). In a relative bioavailability study in adults, the eltrombopag powder for oral suspension delivered 22% higher plasma AUC0-∞ than the film-coated tablet formulation. The absolute oral bioavailability of eltrombopag after administration to humans has not been established. Based on urinary excretion and metabolites eliminated in faeces, the oral absorption of drug-related material following administration of a single 75 mg eltrombopag solution dose was estimated to be at least 52%.
+Eltrombopag is absorbed with a peak concentration occurring 2 to 6 hours after oral administration. Administration of eltrombopag concomitantly with antacids and other products containing polyvalent cations such as dairy products and mineral supplements significantly reduces eltrombopag exposure (see section 4.2). In a relative bioavailability study in adults, the eltrombopag powder for oral suspension delivered 22% higher plasma AUC0- than the film-coated tablet formulation. The absolute oral bioavailability of eltrombopag after administration to humans has not been established. Based on urinary excretion and metabolites eliminated in faeces, the oral absorption of drug-related material following administration of a single 75 mg eltrombopag solution dose was estimated to be at least 52%.
 
 ## Distribution
 
@@ -913,7 +901,7 @@ Eltrombopag is highly bound to human plasma proteins (&gt;99.9%), predominantly 
 
 ## Biotransformation
 
-Eltrombopag is primarily metabolised through cleavage, oxidation and conjugation with glucuronic acid, glutathione, or cysteine. In a human radiolabel study, eltrombopag accounted for approximately 64% of plasma radiocarbon AUC0-∞ . Minor metabolites due to glucuronidation and oxidation were also detected. In vitro studies suggest that CYP1A2 and CYP2C8 are responsible for oxidative metabolism of eltrombopag. Uridine diphosphoglucuronyl transferase UGT1A1 and UGT1A3 are responsible for glucuronidation, and bacteria in the lower gastrointestinal tract may be responsible for the cleavage pathway.
+Eltrombopag is primarily metabolised through cleavage, oxidation and conjugation with glucuronic acid, glutathione, or cysteine. In a human radiolabel study, eltrombopag accounted for approximately 64% of plasma radiocarbon AUC0- . Minor metabolites due to glucuronidation and oxidation were also detected. In vitro studies suggest that CYP1A2 and CYP2C8 are responsible for oxidative metabolism of eltrombopag. Uridine diphosphoglucuronyl transferase UGT1A1 and UGT1A3 are responsible for glucuronidation, and bacteria in the lower gastrointestinal tract may be responsible for the cleavage pathway.
 
 ## Elimination
 
@@ -937,76 +925,73 @@ In vitro studies demonstrated that eltrombopag is not a substrate for the organi
 
 ## Renal impairment
 
-The pharmacokinetics of eltrombopag have been studied after administration of eltrombopag to adult patients with renal impairment. Following administration of a single 50 mg dose, the AUC0-∞ of eltrombopag was 32% to 36% lower in patients with mild to moderate renal impairment, and 60% lower in patients with severe renal impairment compared with healthy volunteers. There was substantial variability and significant overlap in exposures between patients with renal impairment and healthy volunteers. Unbound eltrombopag (active) concentrations for this highly protein-bound medicinal product were not measured. Patients with impaired renal function should use eltrombopag with caution and close monitoring, for example by testing serum creatinine and/or urine analysis (see section 4.2). The efficacy and safety of eltrombopag have not been established in patients with both moderate to severe renal impairment and hepatic impairment.
+The pharmacokinetics of eltrombopag have been studied after administration of eltrombopag to adult patients with renal impairment. Following administration of a single 50 mg dose, the AUC0- of eltrombopag was 32% to 36% lower in patients with mild to moderate renal impairment, and 60% lower in patients with severe renal impairment compared with healthy volunteers. There was substantial variability and significant overlap in exposures between patients with renal impairment and healthy volunteers. Unbound eltrombopag (active) concentrations for this highly protein-bound medicinal product were not measured. Patients with impaired renal function should use eltrombopag with caution and close monitoring, for example by testing serum creatinine and/or urine analysis (see section 4.2). The efficacy and safety of eltrombopag have not been established in patients with both moderate to severe renal impairment and hepatic impairment.
 
 ## Hepatic impairment
 
-The pharmacokinetics of eltrombopag have been studied after administration of eltrombopag to adult patients with hepatic impairment. Following the administration of a single 50 mg dose, the AUC0-∞ of eltrombopag was 41% higher in patients with mild hepatic impairment and 80% to 93% higher in patients with moderate to severe hepatic impairment compared with healthy volunteers. There was substantial variability and significant overlap in exposures between patients with hepatic impairment and healthy volunteers. Unbound eltrombopag (active) concentrations for this highly protein-bound medicinal product were not measured.
+The pharmacokinetics of eltrombopag have been studied after administration of eltrombopag to adult patients with hepatic impairment. Following the administration of a single 50 mg dose, the AUC0- of eltrombopag was 41% higher in patients with mild hepatic impairment and 80% to 93% higher in patients with moderate to severe hepatic impairment compared with healthy volunteers. There was substantial variability and significant overlap in exposures between patients with hepatic impairment and healthy volunteers. Unbound eltrombopag (active) concentrations for this highly protein-bound medicinal product were not measured.
 
-The influence of hepatic impairment on the pharmacokinetics of eltrombopag following repeat administration was evaluated using a population pharmacokinetic analysis in 28 healthy adults and 714 patients with hepatic impairment (673 patients with HCV and 41 patients with chronic liver disease of other aetiology). Of the 714 patients, 642 were with mild hepatic impairment, 67 with moderate hepatic impairment, and 2 with severe hepatic impairment. Compared to healthy volunteers, patients with mild hepatic impairment had approximately 111% (95% CI: 45% to 283%) higher plasma eltrombopag AUC0-∞ values and patients with moderate hepatic impairment had approximately 183% (95% CI: 90% to 459%) higher plasma eltrombopag AUC0-∞ values.
+The influence of hepatic impairment on the pharmacokinetics of eltrombopag following repeat administration was evaluated using a population pharmacokinetic analysis in 28 healthy adults and 714 patients with hepatic impairment (673 patients with HCV and 41 patients with chronic liver disease of other aetiology). Of the 714 patients, 642 were with mild hepatic impairment, 67 with moderate hepatic impairment, and 2 with severe hepatic impairment. Compared to healthy volunteers, patients with mild hepatic impairment had approximately 111% (95% CI: 45% to 283%) higher plasma eltrombopag AUC0- values and patients with moderate hepatic impairment had approximately 183% (95% CI: 90% to 459%) higher plasma eltrombopag AUC0- values.
 
 Therefore, eltrombopag should not be used in ITP patients with hepatic impairment (Child-Pugh score ≥5) unless the expected benefit outweighs the identified risk of portal venous thrombosis (see sections 4.2 and 4.4). For patients with HCV initiate eltrombopag at a dose of 25 mg once daily (see section 4.2).
 
 ## Race
 
-The influence of East-Asian ethnicity on the pharmacokinetics of eltrombopag was evaluated using a population pharmacokinetic analysis in 111 healthy adults (31 East-Asians) and 88 patients with ITP (18 East-Asians). Based on estimates from the population pharmacokinetic analysis, East-Asian ITP patients had approximately 49% higher plasma eltrombopag AUC(0τ) values as compared to non-EastAsian patients who were predominantly Caucasian (see section 4.2).
+The influence of East-Asian ethnicity on the pharmacokinetics of eltrombopag was evaluated using a population pharmacokinetic analysis in 111 healthy adults (31 East-Asians) and 88 patients with ITP (18 East-Asians). Based on estimates from the population pharmacokinetic analysis, East-Asian ITP patients had approximately 49% higher plasma eltrombopag AUC(0- ) values as compared to non-EastAsian patients who were predominantly Caucasian (see section 4.2).
 
-The influence of East-/Southeast-Asian ethnicity on the pharmacokinetics of eltrombopag was evaluated using a population pharmacokinetic analysis in 635 patients with HCV (145 East-Asians and 69 Southeast-Asians). Based on estimates from the population pharmacokinetic analysis, East/Southeast-Asian patients had approximately 55% higher plasma eltrombopag AUC(0τ) values as compared to patients of other races who were predominantly Caucasian (see section 4.2).
+The influence of East-/Southeast-Asian ethnicity on the pharmacokinetics of eltrombopag was evaluated using a population pharmacokinetic analysis in 635 patients with HCV (145 East-Asians and 69 Southeast-Asians). Based on estimates from the population pharmacokinetic analysis, East/Southeast-Asian patients had approximately 55% higher plasma eltrombopag AUC(0- ) values as compared to patients of other races who were predominantly Caucasian (see section 4.2).
 
 <div style=\"page-break-after: always\"></div>
 
 ## Gender
 
-The influence of gender on the pharmacokinetics of eltrombopag was evaluated using a population pharmacokinetic analysis in 111 healthy adults (14 females) and 88 patients with ITP (57 females). Based on estimates from the population pharmacokinetic analysis, female ITP patients had approximately 23% higher plasma eltrombopag AUC(0τ) as compared to male patients, without adjustment for body weight differences.
+The influence of gender on the pharmacokinetics of eltrombopag was evaluated using a population pharmacokinetic analysis in 111 healthy adults (14 females) and 88 patients with ITP (57 females). Based on estimates from the population pharmacokinetic analysis, female ITP patients had approximately 23% higher plasma eltrombopag AUC(0- ) as compared to male patients, without adjustment for body weight differences.
 
-The influence of gender on eltrombopag pharmacokinetics was evaluated using population pharmacokinetics analysis in 635 patients with HCV (260 females). Based on model estimate, female HCV patient had approximately 41% higher plasma eltrombopag AUC(0τ) as compared to male patients.
+The influence of gender on eltrombopag pharmacokinetics was evaluated using population pharmacokinetics analysis in 635 patients with HCV (260 females). Based on model estimate, female HCV patient had approximately 41% higher plasma eltrombopag AUC(0- ) as compared to male patients.
 
 ## Age
 
-The influence of age on eltrombopag pharmacokinetics was evaluated using population pharmacokinetics analysis in 28 healthy subjects, 673 patients with HCV, and 41 patients with chronic liver disease of other aetiology ranging from 19 to 74 years old. There are no PK data on the use of eltrombopag in patients ≥75 years. Based on model estimate, elderly (≥65 years) patients had approximately 41% higher plasma eltrombopag AUC(0τ) as compared to younger patients (see section 4.2).
+The influence of age on eltrombopag pharmacokinetics was evaluated using population pharmacokinetics analysis in 28 healthy subjects, 673 patients with HCV, and 41 patients with chronic liver disease of other aetiology ranging from 19 to 74 years old. There are no PK data on the use of eltrombopag in patients ≥75 years. Based on model estimate, elderly (≥65 years) patients had approximately 41% higher plasma eltrombopag AUC(0- ) as compared to younger patients (see section 4.2).
 
 ## Paediatric population (aged 1 to 17 years)
 
-The pharmacokinetics of eltrombopag have been evaluated in 168 paediatric ITP patients dosed once daily in two studies, TRA108062/PETIT and TRA115450/PETIT-2. Plasma eltrombopag apparent clearance following oral administration (CL/F) increased with increasing body weight. The effects of race and sex on plasma eltrombopag CL/F estimates were consistent between paediatric and adult patients. East-/Southeast-Asian paediatric ITP patients had approximately 43% higher plasma eltrombopag AUC(0τ) values as compared to non-Asian patients. Female paediatric ITP patients had approximately 25% higher plasma eltrombopag AUC(0τ) values as compared to male patients.
+The pharmacokinetics of eltrombopag have been evaluated in 168 paediatric ITP patients dosed once daily in two studies, TRA108062/PETIT and TRA115450/PETIT-2. Plasma eltrombopag apparent clearance following oral administration (CL/F) increased with increasing body weight. The effects of race and sex on plasma eltrombopag CL/F estimates were consistent between paediatric and adult patients. East-/Southeast-Asian paediatric ITP patients had approximately 43% higher plasma eltrombopag AUC(0- ) values as compared to non-Asian patients. Female paediatric ITP patients had approximately 25% higher plasma eltrombopag AUC(0- ) values as compared to male patients.
 
 The pharmacokinetic parameters of eltrombopag in paediatric patients with ITP are shown in Table 13.
 
 Table 13 Geometric mean (95% CI) steady-state plasma eltrombopag pharmacokinetic parameters in paediatric patients with ITP (50 mg once daily dosing regimen)
 
-| Age                                                                                                        | C max (µg/ml)                                                                                              | AUC ( 0- τ) (µg.hr/ml)                                                                                     |
-|------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
-| 12 to 17 years (n=62)                                                                                      | 6.80 (6.17, 7.50)                                                                                          | 103 (91.1, 116)                                                                                            |
-| 6 to 11 years (n=68)                                                                                       | 10.3 (9.42, 11.2)                                                                                          | 153 (137, 170)                                                                                             |
-| 1 to 5 years (n=38)                                                                                        | 11.6 (10.4, 12.9)                                                                                          | 162 (139, 187)                                                                                             |
-| Data presented as geometric mean (95%CI). AUC (0- τ) and C max based on population PK post- hoc estimates. | Data presented as geometric mean (95%CI). AUC (0- τ) and C max based on population PK post- hoc estimates. | Data presented as geometric mean (95%CI). AUC (0- τ) and C max based on population PK post- hoc estimates. |
+| Age                   | C max (µg/ml)     | AUC ( 0-  ) (µg.hr/ml)   |
+|-----------------------|-------------------|---------------------------|
+| 12 to 17 years (n=62) | 6.80 (6.17, 7.50) | 103 (91.1, 116)           |
+| 6 to 11 years (n=68)  | 10.3 (9.42, 11.2) | 153 (137, 170)            |
+| 1 to 5 years (n=38)   | 11.6 (10.4, 12.9) | 162 (139, 187)            |
+
+Data presented as geometric mean (95%CI). AUC(0- ) and Cmax based on population PK posthoc estimates.
 
 ## 5.3 Preclinical safety data
 
 ## Safety pharmacology and repeat-dose toxicity
 
-Eltrombopag does not stimulate platelet production in mice, rats or dogs because of unique TPO receptor specificity. Therefore, data from these animals do not fully model potential adverse effects
+Eltrombopag does not stimulate platelet production in mice, rats or dogs because of unique TPO receptor specificity. Therefore, data from these animals do not fully model potential adverse effects related to the pharmacology of eltrombopag in humans, including the reproduction and carcinogenicity studies.
 
 <div style=\"page-break-after: always\"></div>
 
-related to the pharmacology of eltrombopag in humans, including the reproduction and carcinogenicity studies.
-
-Treatment-related cataracts were detected in rodents and were dose and timedependent. At ≥6 times the human clinical exposure in adult ITP patients at 75 mg/day and 3 times the human clinical exposure in adult HCV patients at 100 mg/day, based on AUC, cataracts were observed in mice after 6 weeks and rats after 28 weeks of dosing. At ≥ 4 times the human clinical exposure in ITP patients at 75 mg/day and 2 times the human exposure in HCV patients at 100 mg/day, based on AUC, cataracts were observed in mice after 13 weeks and in rats after 39 weeks of dosing. At non-tolerated doses in pre-weaning juvenile rats dosed from Days 4-32 (approximately equating to a 2-year-old human at the end of the dosing period), ocular opacities were observed (histology not performed) at 9 times the maximum human clinical exposure in paediatric ITP patients at 75 mg/day, based on AUC. However, cataracts were not observed in juvenile rats given tolerated doses at 5 times the human clinical exposure in paediatric ITP patients, based on AUC. Cataracts have not been observed in adult dogs after 52 weeks of dosing at 2 times the human clinical exposure in adult or paediatric ITP patients at 75 mg/day and equivalent to the human clinical exposure in HCV patients at 100 mg/day, based on AUC).
+Treatment-related cataracts were detected in rodents and were dose and time-dependent. At ≥6 times the human clinical exposure in adult ITP patients at 75 mg/day and 3 times the human clinical exposure in adult HCV patients at 100 mg/day, based on AUC, cataracts were observed in mice after 6 weeks and rats after 28 weeks of dosing. At ≥4 times the human clinical exposure in ITP patients at 75 mg/day and 2 times the human exposure in HCV patients at 100 mg/day, based on AUC, cataracts were observed in mice after 13 weeks and in rats after 39 weeks of dosing. At non-tolerated doses in pre-weaning juvenile rats dosed from Days 4-32 (approximately equating to a 2-year-old human at the end of the dosing period), ocular opacities were observed (histology not performed) at 9 times the maximum human clinical exposure in paediatric ITP patients at 75 mg/day, based on AUC. However, cataracts were not observed in juvenile rats given tolerated doses at 5 times the human clinical exposure in paediatric ITP patients, based on AUC. Cataracts have not been observed in adult dogs after 52 weeks of dosing at 2 times the human clinical exposure in adult or paediatric ITP patients at 75 mg/day and equivalent to the human clinical exposure in HCV patients at 100 mg/day, based on AUC).
 
 Renal tubular toxicity was observed in studies of up to 14 days duration in mice and rats at exposures that were generally associated with morbidity and mortality. Tubular toxicity was also observed in a 2-year oral carcinogenicity study in mice at doses of 25, 75 and 150 mg/kg/day. Effects were less severe at lower doses and were characterised by a spectrum of regenerative changes. The exposure at the lowest dose was 1.2 or 0.8 times the human clinical exposure based on AUC in adult or paediatric ITP patients at 75 mg/day and 0.6 times the human clinical exposure in HCV patients at 100 mg/day, based on AUC. Renal effects were not observed in rats after 28 weeks or in dogs after 52 weeks at exposures 4 and 2 times the human clinical exposure in adult ITP patients and 3 and 2 times the human clinical exposure in paediatric ITP patients at 75 mg/day and 2 times and equivalent to the human clinical exposure in HCV patients at 100 mg/day, based on AUC.
 
 Hepatocyte degeneration and/or necrosis, often accompanied by increased serum liver enzymes, was observed in mice, rats and dogs at doses that were associated with morbidity and mortality or were poorly tolerated. No hepatic effects were observed after chronic dosing in rats (28 weeks) and in dogs (52 weeks) at 4 or 2 times the human clinical exposure in adult ITP patients and 3 or 2 times the human clinical exposure in paediatric ITP patients at 75 mg/day and 2 times or equivalent to the human clinical exposure in HCV patients at 100 mg/day, based on AUC.
 
-At poorly tolerated doses in rats and dogs (&gt;10 or 7 times the human clinical exposure in adult or paediatric ITP patients at 75 mg/day and &gt;4 times the human clinical exposure in HCV patients at 100 mg/day, based on AUC), decreased reticulocyte counts and regenerative bone marrow erythroid hyperplasia (rats only) were observed in short-term studies. There were no effects of note on red cell mass or reticulocyte counts after dosing for up to 28 weeks in rats, 52 weeks in dogs and 2 years in mice or rats at maximally tolerated doses which were 2 to 4 times human clinical exposure in adult or paediatric ITP patients at 75 mg/day and ≤ 2 times the human clinical exposure in HCV patients at 100 mg/day, based on AUC.
+At poorly tolerated doses in rats and dogs (&gt;10 or 7 times the human clinical exposure in adult or paediatric ITP patients at 75 mg/day and &gt;4 times the human clinical exposure in HCV patients at 100 mg/day, based on AUC), decreased reticulocyte counts and regenerative bone marrow erythroid hyperplasia (rats only) were observed in short-term studies. There were no effects of note on red cell mass or reticulocyte counts after dosing for up to 28 weeks in rats, 52 weeks in dogs and 2 years in mice or rats at maximally tolerated doses which were 2 to 4 times human clinical exposure in adult or paediatric ITP patients at 75 mg/day and ≤2 times the human clinical exposure in HCV patients at 100 mg/day, based on AUC.
 
 Endosteal hyperostosis was observed in a 28-week toxicity study in rats at a non-tolerated dose of 60 mg/kg/day (6 times or 4 times the human clinical exposure in adult or paediatric ITP patients at 75 mg/day and 3 times the human clinical exposure in HCV patients at 100 mg/day, based on AUC). There were no bone changes observed in mice or rats after lifetime exposure (2 years) at 4 times or 2 times the human clinical exposure in adult or paediatric ITP patients at 75 mg/day and 2 times the human clinical exposure in HCV patients at 100 mg/day, based on AUC.
 
 ## Carcinogenicity and mutagenicity
 
-Eltrombopag was not carcinogenic in mice at doses up to 75 mg/kg/day or in rats at doses up to 40 mg/kg/day (exposures up to 4 or 2 times the human clinical exposure in adult or paediatric ITP patients at 75 mg/day and 2 times the human clinical exposure in HCV patients at 100 mg/day, based
+Eltrombopag was not carcinogenic in mice at doses up to 75 mg/kg/day or in rats at doses up to 40 mg/kg/day (exposures up to 4 or 2 times the human clinical exposure in adult or paediatric ITP patients at 75 mg/day and 2 times the human clinical exposure in HCV patients at 100 mg/day, based on AUC). Eltrombopag was not mutagenic or clastogenic in a bacterial mutation assay or in two in vivo assays in rats (micronucleus and unscheduled DNA synthesis, 10 times or 8 times the human clinical exposure in adult or paediatric ITP patients at 75 mg/day and 7 times the human clinical exposure in HCV patients at 100 mg/day, based on Cmax). In the in vitro mouse lymphoma assay, eltrombopag was marginally positive (&lt;3-fold increase in mutation frequency). These in vitro and in vivo findings suggest that eltrombopag does not pose a genotoxic risk to humans.
 
 <div style=\"page-break-after: always\"></div>
-
-on AUC). Eltrombopag was not mutagenic or clastogenic in a bacterial mutation assay or in two in vivo assays in rats (micronucleus and unscheduled DNA synthesis, 10 times or 8 times the human clinical exposure in adult or paediatric ITP patients at 75 mg/day and 7 times the human clinical exposure in HCV patients at 100 mg/day, based on Cmax). In the in vitro mouse lymphoma assay, eltrombopag was marginally positive (&lt;3-fold increase in mutation frequency). These in vitro and in vivo findings suggest that eltrombopag does not pose a genotoxic risk to humans.
 
 ## Reproductive toxicity
 
@@ -1014,7 +999,7 @@ Eltrombopag did not affect female fertility, early embryonic development or embr
 
 ## Phototoxicity
 
-In vitro studies with eltrombopag suggest a potential phototoxicity risk; however, in rodents there was no evidence of cutaneous phototoxicity (10 or 7 times the human clinical exposure in adult or paediatric ITP patients at 75 mg/day and 5 times the human clinical exposure in HCV patients at 100 mg/day, based on AUC) or ocular phototoxicity ( ≥ 4 times the human clinical exposure in adult or paediatric ITP patients at 75 mg/day and 3 times the human clinical exposure in HCV patients at 100 mg/day, based on AUC). Furthermore, a clinical pharmacology study in 36 subjects showed no evidence that photosensitivity was increased following administration of eltrombopag 75 mg. This was measured by delayed phototoxic index. Nevertheless, a potential risk of photoallergy cannot be ruled out since no specific preclinical study could be performed.
+In vitro studies with eltrombopag suggest a potential phototoxicity risk; however, in rodents there was no evidence of cutaneous phototoxicity (10 or 7 times the human clinical exposure in adult or paediatric ITP patients at 75 mg/day and 5 times the human clinical exposure in HCV patients at 100 mg/day, based on AUC) or ocular phototoxicity (≥4 times the human clinical exposure in adult or paediatric ITP patients at 75 mg/day and 3 times the human clinical exposure in HCV patients at 100 mg/day, based on AUC). Furthermore, a clinical pharmacology study in 36 subjects showed no evidence that photosensitivity was increased following administration of eltrombopag 75 mg. This was measured by delayed phototoxic index. Nevertheless, a potential risk of photoallergy cannot be ruled out since no specific preclinical study could be performed.
 
 ## Juvenile animal studies
 
@@ -1131,7 +1116,7 @@ ELPEN Pharmaceutical Co. Inc. Marathonos Ave. 95 Pikermi Attiki 19009
 
 Greece
 
-Mylan Germany GmbH Zweigniederlassung Bad Homburg v.d. Hohe Benzstrasse 1 61352 Bad Homburg v. d. Hohe Germany
+Viatris Germany GmbH Zweigniederlassung Bad Homburg v.d. Hohe Benzstrasse 1 61352 Bad Homburg v. d. Hohe Germany
 
 The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.
 
@@ -1174,7 +1159,9 @@ Carton for 12.5 mg - 14, 28, 84, 84 (3 packs of 28) film-coated tablets
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Eltrombopag Viatris 12.5 mg film-coated tablets eltrombopag
+Eltrombopag Viatris 12.5 mg film-coated tablets
+
+eltrombopag
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -1189,7 +1176,9 @@ Each film-coated tablet contains eltrombopag olamine equivalent to 12.5 mg eltro
 - 14 film-coated tablets
 - 28 film-coated tablets
 - 84 film-coated tablets
-- Multipack containing 84 (3 packs of 28) film-coated tablets
+
+Multipack containing 84 (3 packs of 28) film-coated tablets
+
 - 14 x 1 film-coated tablets
 - 28 x 1 film-coated tablets
 
@@ -1318,8 +1307,8 @@ EXP
 
 Viatris Limited Damastown Industrial Park Mulhuddart Dublin 15 DUBLIN Ireland
 
-| 12. MARKETING AUTHORISATION NUMBER(S)   |
-|-----------------------------------------|
+| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
+|-------|-------------------------------------|
 
 EU/1/24/1869/004
 
@@ -1340,26 +1329,8 @@ Lot
 | 17. UNIQUE IDENTIFIER - 2D BARCODE   |
 |--------------------------------------|
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
-
-<div style=\"page-break-after: always\"></div>
-
-| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
-|-------------------------------------------------------|
-| Blister for 12.5 mg                                   |
-
-| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
-|------|----------------------------------------------|
-
-| 3.   | EXPIRY DATE   |
-|------|---------------|
-
-| 4.   | BATCH NUMBER   |
-|------|----------------|
-
-| 5.   | OTHER   |
-|------|---------|
+| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
+|-------|-----------------------------------------|
 
 ## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
 
@@ -1375,17 +1346,19 @@ eltrombopag
 
 Viatris Limited
 
-3. EXPIRY DATE
+## 3. EXPIRY DATE
 
 EXP
 
-4. BATCH NUMBER
+## 4. BATCH NUMBER
 
 Lot
 
-5. OTHER
+## 5. OTHER
 
 Oral use
+
+<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1395,7 +1368,9 @@ Carton for 25 mg - 14, 28, 84, 84 (3 packs of 28) film-coated tablets
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Eltrombopag Viatris 25 mg film-coated tablets eltrombopag
+Eltrombopag Viatris 25 mg film-coated tablets
+
+eltrombopag
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -1458,11 +1433,11 @@ EU/1/24/1869/005 (14 film-coated tablets)
 
 EU/1/24/1869/006 (28 film-coated tablets)
 
-EU/1/24/1869/007 (84 film-coated tablets)
+- EU/1/24/1869/007 (84 film-coated tablets)
 
 EU/1/24/1869/008 (Multipack containing 84 (3 packs of 28) film-coated tablets)
 
-EU/1/24/1869/019 (14 x 1 film-coated tablets)
+- EU/1/24/1869/019 (14 x 1 film-coated tablets)
 
 EU/1/24/1869/020 (28 x 1 film-coated tablets)
 
@@ -1498,7 +1473,9 @@ Carton for 25 mg - Multipacks of 84 (3 packs of 28) film-coated tablets - withou
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Eltrombopag Viatris 25 mg film-coated tablets eltrombopag
+Eltrombopag Viatris 25 mg film-coated tablets
+
+eltrombopag
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -1539,8 +1516,8 @@ EXP
 
 Viatris Limited Damastown Industrial Park Mulhuddart Dublin 15 DUBLIN Ireland
 
-| 12. MARKETING AUTHORISATION NUMBER(S)   |
-|-----------------------------------------|
+| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
+|-------|-------------------------------------|
 
 EU/1/24/1869/008
 
@@ -1561,19 +1538,10 @@ Lot
 | 17. UNIQUE IDENTIFIER - 2D BARCODE   |
 |--------------------------------------|
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
+|-------|-----------------------------------------|
 
-<div style=\"page-break-after: always\"></div>
-
-| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
-|------|----------------------------------------------|
-
-| 3.   | EXPIRY DATE   |
-|------|---------------|
-
-| 4.   | BATCH NUMBER   |
-|------|----------------|
+49
 
 ## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
 
@@ -1581,25 +1549,25 @@ Blister for 25 mg
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Eltrombopag Viatris 25 mg tablets
-
-eltrombopag
+Eltrombopag Viatris 25 mg tablets eltrombopag
 
 ## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
 
 Viatris Limited
 
-3. EXPIRY DATE
+## 3. EXPIRY DATE
 
 EXP
 
-4. BATCH NUMBER
+## 4. BATCH NUMBER
 
 Lot
 
-5. OTHER
+## 5. OTHER
 
 Oral use
+
+<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1609,7 +1577,9 @@ Carton for 50 mg - 14, 28, 84, 84 (3 packs of 28) film-coated tablets
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Eltrombopag Viatris 50 mg film-coated tablets eltrombopag
+Eltrombopag Viatris 50 mg film-coated tablets
+
+eltrombopag
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -1672,7 +1642,7 @@ EU/1/24/1869/009 (14 film-coated tablets)
 
 EU/1/24/1869/010 (28 film-coated tablets)
 
-EU/1/24/1869/011 (84 film-coated tablets)
+- EU/1/24/1869/011 (84 film-coated tablets)
 
 EU/1/24/1869/012 (Multipack containing 84 (3 packs of 28) film-coated tablets)
 
@@ -1712,7 +1682,9 @@ Carton for 50 mg - Multipacks of 84 (3 packs of 28) film-coated tablets - withou
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Eltrombopag Viatris 50 mg film-coated tablets eltrombopag
+Eltrombopag Viatris 50 mg film-coated tablets
+
+eltrombopag
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -1753,8 +1725,8 @@ EXP
 
 Viatris Limited Damastown Industrial Park Mulhuddart Dublin 15 DUBLIN Ireland
 
-| 12. MARKETING AUTHORISATION NUMBER(S)   |
-|-----------------------------------------|
+| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
+|-------|-------------------------------------|
 
 EU/1/24/1869/012
 
@@ -1775,29 +1747,13 @@ Lot
 | 17. UNIQUE IDENTIFIER - 2D BARCODE   |
 |--------------------------------------|
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
+|-------|-----------------------------------------|
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
-|-------------------------------------------------------|
-| Blister for 50 mg                                     |
-
-| 1.   | NAME OF THE MEDICINAL PRODUCT   |
-|------|---------------------------------|
-
-| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
-|------|----------------------------------------------|
-
-| 3.   | EXPIRY DATE   |
-|------|---------------|
-
-| 4.   | BATCH NUMBER   |
-|------|----------------|
-
-| 5.   | OTHER   |
-|------|---------|
+| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
+|------|------------------------------------------|
 
 ## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
 
@@ -1821,7 +1777,7 @@ EXP
 
 Lot
 
-5. OTHER
+## 5. OTHER
 
 Oral use
 
@@ -1833,7 +1789,9 @@ Carton for 75 mg - 14, 28, 84, 84 (3 packs of 28) film-coated tablets
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Eltrombopag Viatris 75 mg film-coated tablets eltrombopag
+Eltrombopag Viatris 75 mg film-coated tablets
+
+eltrombopag
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -1896,11 +1854,11 @@ EU/1/24/1869/013 (14 film-coated tablets)
 
 EU/1/24/1869/014 (28 film-coated tablets)
 
-EU/1/24/1869/015 (84 film-coated tablets)
+- EU/1/24/1869/015 (84 film-coated tablets)
 
 EU/1/24/1869/016 (Multipack containing 84 (3 packs of 28) film-coated tablets)
 
-EU/1/24/1869/023 (14 x 1 film-coated tablets)
+- EU/1/24/1869/023 (14 x 1 film-coated tablets)
 
 EU/1/24/1869/024 (28 x 1 film-coated tablets)
 
@@ -1979,8 +1937,8 @@ EXP
 
 Viatris Limited Damastown Industrial Park Mulhuddart Dublin 15 DUBLIN Ireland
 
-| 12. MARKETING AUTHORISATION NUMBER(S)   |
-|-----------------------------------------|
+| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
+|-------|-------------------------------------|
 
 EU/1/24/1869/016
 
@@ -2001,37 +1959,53 @@ Lot
 | 17. UNIQUE IDENTIFIER - 2D BARCODE   |
 |--------------------------------------|
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
+|-------|-----------------------------------------|
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
-|-------------------------------------------------------|
-| Blister for 75 mg                                     |
+| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
+|------------------------------------------------------|
+| Blister for 75 mg                                    |
 
-| 1.   | NAME OF THE MEDICINAL PRODUCT   |
-|------|---------------------------------|
+| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
+|------|------------------------------|
 
-Eltrombopag Viatris 75 mg tablets eltrombopag
-
-| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
-|------|----------------------------------------------|
-
-Viatris Limited
+| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
+|------|------------------------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
 
-EXP
-
 | 4.   | BATCH NUMBER   |
 |------|----------------|
 
-Lot
-
 | 5.   | OTHER   |
 |------|---------|
+
+## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
+
+Blister for 75 mg
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Eltrombopag Viatris 75 mg tablets
+
+eltrombopag
+
+## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
+
+Viatris Limited
+
+3. EXPIRY DATE
+
+EXP
+
+## 4. BATCH NUMBER
+
+Lot
+
+## 5. OTHER
 
 Oral use
 
@@ -2487,7 +2461,6 @@ These may affect more than 1 in 10 people:
 
 - headache
 - loss of appetite
-- •
 - cough
 - feeling sick (nausea), diarrhoea
 - muscle pain, muscle weakness
@@ -2701,7 +2674,7 @@ ELPEN Pharmaceutical Co. Inc.
 
 Marathonos Ave. 95, Pikermi, Attiki, 19009, Greece
 
-## Mylan Germany GmbH
+## Viatris Germany GmbH
 
 Zweigniederlassung Bad Homburg v.d. Hohe, Benzstrasse 1, 61352 Bad Homburg v. d. Hohe, Germany
 
@@ -2721,9 +2694,9 @@ Tel: +370 5 205 1288
 
 ## България
 
-Майлан ЕООД
+Виатрис ЕООД
 
-Тел: +359 2 44 55 400
+Тел.: +359 2 44 55 400
 
 ## Luxembourg/Luxemburg
 
@@ -2871,9 +2844,7 @@ Puh/Tel: +358 20 720 9555
 
 CPO Pharmaceuticals Limited
 
-Τηλ
-
-: +357 22863100
+Τηλ: +357 22863100
 
 ## Sverige
 

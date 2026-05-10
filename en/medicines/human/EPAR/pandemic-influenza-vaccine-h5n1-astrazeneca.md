@@ -1,32 +1,108 @@
 ---
-document_datetime: 2025-12-29 11:41:57
+document_datetime: 2026-05-08 15:30:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/pandemic-influenza-vaccine-h5n1-astrazeneca.html
 document_name: pandemic-influenza-vaccine-h5n1-astrazeneca.html
 version: success
-processing_time: 0.1149795
-conversion_datetime: 2025-12-31 02:36:49.449927
+processing_time: 0.1142885
+conversion_datetime: 2026-05-10 12:01:20.374735
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.17.0
+  docling-jobkit: 1.18.0
+  docling: 2.92.0
+  docling-core: 2.74.1
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.10.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
+# Search
+
+- [Medicines](/en/medicines)
+    - [Find medicine](/en/medicines)
+    - [Therapeutic areas: latest updates](/en/medicines/therapeutic-areas-latest-updates)
+    - [Download medicine data](/en/medicines/download-medicine-data)
+    - [What we publish on medicines and when](/en/medicines/what-we-publish-medicines-when)
+    - [Medicines under evaluation](/en/medicines/medicines-human-use-under-evaluation)
+    - [National registers](/en/medicines/national-registers-authorised-medicines)
+- [Human regulatory](/en/human-regulatory-overview)
+    - [Overview](/en/human-regulatory-overview)
+    - [Research and development](/en/human-regulatory-overview/research-development)
+    - [Marketing authorisation](/en/human-regulatory-overview/marketing-authorisation)
+    - [Post-authorisation](/en/human-regulatory-overview/post-authorisation)
+    - [Medical devices](/en/human-regulatory-overview/medical-devices)
+    - [Herbal products](/en/human-regulatory-overview/herbal-medicinal-products)
+- [Veterinary regulatory](/en/veterinary-regulatory-overview)
+    - [Overview](/en/veterinary-regulatory-overview)
+    - [Research and development](/en/veterinary-regulatory-overview/research-development-veterinary-medicines)
+    - [Marketing authorisation](/en/veterinary-regulatory-overview/marketing-authorisation-veterinary-medicines)
+    - [Post-authorisation](/en/veterinary-regulatory-overview/post-authorisation-veterinary-medicines)
+- [Committees](/en/committees)
+    - [Overview](/en/committees)
+    - [How the committees work](/en/committees/how-committees-work)
+    - [CHMP](/en/committees/committee-medicinal-products-human-use-chmp)
+    - [CVMP](/en/committees/committee-veterinary-medicinal-products-cvmp)
+    - [PRAC](/en/committees/pharmacovigilance-risk-assessment-committee-prac)
+    - [COMP](/en/committees/committee-orphan-medicinal-products-comp)
+    - [HMPC](/en/committees/committee-herbal-medicinal-products-hmpc)
+    - [CAT](/en/committees/committee-advanced-therapies-cat)
+    - [PDCO](/en/committees/paediatric-committee-pdco)
+    - [Working parties and other groups](/en/committees/working-parties-other-groups)
+- [News &amp; events](/en/news-events)
+    - [Overview](/en/news-events)
+    - [News](/en/news)
+    - [Events](/en/events/upcoming-events)
+    - [What's new](/en/news-events/whats-new)
+    - [Committee highlights](/en/news-events/committee-highlights)
+    - [Publications](/en/news-and-events/publications)
+    - [Press and social media](/en/news-events/press-social-media)
+    - [Podcast: Inside EMA](/en/news-events/podcast-inside-ema)
+    - [EMA Campaigns](/en/news-events/ema-campaigns)
+    - [Open consultations](/en/news-events/open-consultations)
+    - [RSS feeds](/en/news-events/rss-feeds)
+- [Partners &amp; networks](/en/partners-networks)
+    - [Overview](/en/partners-networks)
+    - [EU partners](/en/partners-networks/eu-partners)
+    - [International activities](/en/partners-networks/international-activities)
+    - [Patients and consumers](/en/partners-networks/patients-consumers)
+    - [Healthcare professionals](/en/partners-networks/healthcare-professionals)
+    - [Academia](/en/partners-networks/academia)
+    - [Pharmaceutical industry](/en/partners-networks/pharmaceutical-industry)
+    - [Networks](/en/partners-networks/networks)
+    - [Health technology assessment bodies](/en/partners-networks/health-technology-assessment-bodies)
+    - [One Health approach](/en/partners-networks/one-health-approach)
+    - [Animal health practitioners](/en/partners-networks/animal-health-practitioners)
+    - [One substance - one assessment](/en/partners-networks/one-substance-one-assessment-osoa-eu-collaboration-chemicals-related-data)
+- [About us](/en/about-us)
+    - [Overview](/en/about-us)
+    - [What we do](/en/about-us/what-we-do)
+    - [Who we are](/en/about-us/who-we-are)
+    - [How we work](/en/about-us/how-we-work)
+    - [Fees](/en/about-us/fees-payable-european-medicines-agency)
+    - [Support to SMEs](/en/about-us/support-smes)
+    - [Annual reports and work programmes](/en/about-us/annual-reports-work-programmes)
+    - [History of EMA](/en/about-us/history-ema)
+    - [Careers](/en/about-us/careers)
+    - [Procurement](/en/about-us/procurement-grants)
+    - [About this website](/en/about-us/about-website)
+    - [Data protection and privacy](/en/about-us/data-protection-privacy-ema)
+    - [Contacts](/en/about-us/contacts-european-medicines-agency)
+
+1. [Home](/en/homepage)
+2. [Medicines](https://www.ema.europa.eu/en/medicines)
+3. Pandemic influenza vaccine H5N1 AstraZeneca (previously Pandemic influenza vaccine H5N1 Medimmune)
+
 # Pandemic influenza vaccine H5N1 AstraZeneca (previously Pandemic influenza vaccine H5N1 Medimmune)
 
 [RSS](/en/individual-human-medicine.xml/66977)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-pandemic influenza vaccine (H5N1) (live attenuated, nasal) Medicine Human Authorised
+pandemic influenza vaccine (H5N1) (live attenuated, nasal)
 
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
+Medicine Human Authorised
 
 Page contents
 
@@ -121,275 +197,141 @@ Pandemic influenza vaccine H5N1 AstraZeneca : EPAR - Summary for the public
 
 English (EN) (85.57 KB - PDF)
 
-**First published:** 02/06/2016
-
-**Last updated:** 07/07/2017
+**First published:** 02/06/2016 **Last updated:** 07/07/2017
 
 [View](/en/documents/overview/pandemic-influenza-vaccine-h5n1-astrazeneca-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-653)
+[Other languages (22)](#file-language-dropdown-841)
 
 български (BG) (109.91 KB - PDF)
 
-**First published:**
-
-02/06/2016
-
-**Last updated:**
-
-07/07/2017
+**First published:** 02/06/2016 **Last updated:** 07/07/2017
 
 [View](/bg/documents/overview/pandemic-influenza-vaccine-h5n1-astrazeneca-epar-summary-public_bg.pdf)
 
 español (ES) (77.4 KB - PDF)
 
-**First published:**
-
-02/06/2016
-
-**Last updated:**
-
-07/07/2017
+**First published:** 02/06/2016 **Last updated:** 07/07/2017
 
 [View](/es/documents/overview/pandemic-influenza-vaccine-h5n1-astrazeneca-epar-summary-public_es.pdf)
 
 čeština (CS) (106.5 KB - PDF)
 
-**First published:**
-
-02/06/2016
-
-**Last updated:**
-
-07/07/2017
+**First published:** 02/06/2016 **Last updated:** 07/07/2017
 
 [View](/cs/documents/overview/pandemic-influenza-vaccine-h5n1-astrazeneca-epar-summary-public_cs.pdf)
 
 dansk (DA) (76.36 KB - PDF)
 
-**First published:**
-
-02/06/2016
-
-**Last updated:**
-
-07/07/2017
+**First published:** 02/06/2016 **Last updated:** 07/07/2017
 
 [View](/da/documents/overview/pandemic-influenza-vaccine-h5n1-astrazeneca-epar-summary-public_da.pdf)
 
 Deutsch (DE) (84.28 KB - PDF)
 
-**First published:**
-
-02/06/2016
-
-**Last updated:**
-
-07/07/2017
+**First published:** 02/06/2016 **Last updated:** 07/07/2017
 
 [View](/de/documents/overview/pandemic-influenza-vaccine-h5n1-astrazeneca-epar-summary-public_de.pdf)
 
 eesti keel (ET) (75.12 KB - PDF)
 
-**First published:**
-
-02/06/2016
-
-**Last updated:**
-
-07/07/2017
+**First published:** 02/06/2016 **Last updated:** 07/07/2017
 
 [View](/et/documents/overview/pandemic-influenza-vaccine-h5n1-astrazeneca-epar-summary-public_et.pdf)
 
 ελληνικά (EL) (110.03 KB - PDF)
 
-**First published:**
-
-02/06/2016
-
-**Last updated:**
-
-07/07/2017
+**First published:** 02/06/2016 **Last updated:** 07/07/2017
 
 [View](/el/documents/overview/pandemic-influenza-vaccine-h5n1-astrazeneca-epar-summary-public_el.pdf)
 
 français (FR) (78.32 KB - PDF)
 
-**First published:**
-
-02/06/2016
-
-**Last updated:**
-
-07/07/2017
+**First published:** 02/06/2016 **Last updated:** 07/07/2017
 
 [View](/fr/documents/overview/pandemic-influenza-vaccine-h5n1-astrazeneca-epar-summary-public_fr.pdf)
 
 hrvatski (HR) (98.43 KB - PDF)
 
-**First published:**
-
-02/06/2016
-
-**Last updated:**
-
-07/07/2017
+**First published:** 02/06/2016 **Last updated:** 07/07/2017
 
 [View](/hr/documents/overview/pandemic-influenza-vaccine-h5n1-astrazeneca-epar-summary-public_hr.pdf)
 
 italiano (IT) (77.29 KB - PDF)
 
-**First published:**
-
-02/06/2016
-
-**Last updated:**
-
-07/07/2017
+**First published:** 02/06/2016 **Last updated:** 07/07/2017
 
 [View](/it/documents/overview/pandemic-influenza-vaccine-h5n1-astrazeneca-epar-summary-public_it.pdf)
 
 latviešu valoda (LV) (100.87 KB - PDF)
 
-**First published:**
-
-02/06/2016
-
-**Last updated:**
-
-07/07/2017
+**First published:** 02/06/2016 **Last updated:** 07/07/2017
 
 [View](/lv/documents/overview/pandemic-influenza-vaccine-h5n1-astrazeneca-epar-summary-public_lv.pdf)
 
 lietuvių kalba (LT) (104.2 KB - PDF)
 
-**First published:**
-
-02/06/2016
-
-**Last updated:**
-
-07/07/2017
+**First published:** 02/06/2016 **Last updated:** 07/07/2017
 
 [View](/lt/documents/overview/pandemic-influenza-vaccine-h5n1-astrazeneca-epar-summary-public_lt.pdf)
 
 magyar (HU) (102.08 KB - PDF)
 
-**First published:**
-
-02/06/2016
-
-**Last updated:**
-
-07/07/2017
+**First published:** 02/06/2016 **Last updated:** 07/07/2017
 
 [View](/hu/documents/overview/pandemic-influenza-vaccine-h5n1-astrazeneca-epar-summary-public_hu.pdf)
 
 Malti (MT) (107.9 KB - PDF)
 
-**First published:**
-
-02/06/2016
-
-**Last updated:**
-
-07/07/2017
+**First published:** 02/06/2016 **Last updated:** 07/07/2017
 
 [View](/mt/documents/overview/pandemic-influenza-vaccine-h5n1-astrazeneca-epar-summary-public_mt.pdf)
 
 Nederlands (NL) (77.13 KB - PDF)
 
-**First published:**
-
-02/06/2016
-
-**Last updated:**
-
-07/07/2017
+**First published:** 02/06/2016 **Last updated:** 07/07/2017
 
 [View](/nl/documents/overview/pandemic-influenza-vaccine-h5n1-astrazeneca-epar-summary-public_nl.pdf)
 
 polski (PL) (105.47 KB - PDF)
 
-**First published:**
-
-02/06/2016
-
-**Last updated:**
-
-07/07/2017
+**First published:** 02/06/2016 **Last updated:** 07/07/2017
 
 [View](/pl/documents/overview/pandemic-influenza-vaccine-h5n1-astrazeneca-epar-summary-public_pl.pdf)
 
 português (PT) (77.12 KB - PDF)
 
-**First published:**
-
-02/06/2016
-
-**Last updated:**
-
-07/07/2017
+**First published:** 02/06/2016 **Last updated:** 07/07/2017
 
 [View](/pt/documents/overview/pandemic-influenza-vaccine-h5n1-astrazeneca-epar-summary-public_pt.pdf)
 
 română (RO) (103.67 KB - PDF)
 
-**First published:**
-
-02/06/2016
-
-**Last updated:**
-
-07/07/2017
+**First published:** 02/06/2016 **Last updated:** 07/07/2017
 
 [View](/ro/documents/overview/pandemic-influenza-vaccine-h5n1-astrazeneca-epar-summary-public_ro.pdf)
 
 slovenčina (SK) (107.53 KB - PDF)
 
-**First published:**
-
-02/06/2016
-
-**Last updated:**
-
-07/07/2017
+**First published:** 02/06/2016 **Last updated:** 07/07/2017
 
 [View](/sk/documents/overview/pandemic-influenza-vaccine-h5n1-astrazeneca-epar-summary-public_sk.pdf)
 
 slovenščina (SL) (95.83 KB - PDF)
 
-**First published:**
-
-02/06/2016
-
-**Last updated:**
-
-07/07/2017
+**First published:** 02/06/2016 **Last updated:** 07/07/2017
 
 [View](/sl/documents/overview/pandemic-influenza-vaccine-h5n1-astrazeneca-epar-summary-public_sl.pdf)
 
 Suomi (FI) (77.13 KB - PDF)
 
-**First published:**
-
-02/06/2016
-
-**Last updated:**
-
-07/07/2017
+**First published:** 02/06/2016 **Last updated:** 07/07/2017
 
 [View](/fi/documents/overview/pandemic-influenza-vaccine-h5n1-astrazeneca-epar-summary-public_fi.pdf)
 
 svenska (SV) (75.52 KB - PDF)
 
-**First published:**
-
-02/06/2016
-
-**Last updated:**
-
-07/07/2017
+**First published:** 02/06/2016 **Last updated:** 07/07/2017
 
 [View](/sv/documents/overview/pandemic-influenza-vaccine-h5n1-astrazeneca-epar-summary-public_sv.pdf)
 
@@ -397,305 +339,161 @@ svenska (SV) (75.52 KB - PDF)
 
 Pandemic influenza vaccine H5N1 AstraZeneca : EPAR - Product Information
 
-English (EN) (496.54 KB - PDF)
+English (EN) (496.61 KB - PDF)
 
-**First published:** 02/06/2016
-
-**Last updated:** 10/12/2025
+**First published:** 02/06/2016 **Last updated:** 08/05/2026
 
 [View](/en/documents/product-information/pandemic-influenza-vaccine-h5n1-astrazeneca-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-944)
+[Other languages (24)](#file-language-dropdown-827)
 
-български (BG) (523.77 KB - PDF)
+български (BG) (523.94 KB - PDF)
 
-**First published:**
-
-02/06/2016
-
-**Last updated:**
-
-10/12/2025
+**First published:** 02/06/2016 **Last updated:** 08/05/2026
 
 [View](/bg/documents/product-information/pandemic-influenza-vaccine-h5n1-astrazeneca-epar-product-information_bg.pdf)
 
-español (ES) (431.77 KB - PDF)
+español (ES) (431.8 KB - PDF)
 
-**First published:**
-
-02/06/2016
-
-**Last updated:**
-
-10/12/2025
+**First published:** 02/06/2016 **Last updated:** 08/05/2026
 
 [View](/es/documents/product-information/pandemic-influenza-vaccine-h5n1-astrazeneca-epar-product-information_es.pdf)
 
-čeština (CS) (534.84 KB - PDF)
+čeština (CS) (1.26 MB - PDF)
 
-**First published:**
-
-02/06/2016
-
-**Last updated:**
-
-10/12/2025
+**First published:** 02/06/2016 **Last updated:** 08/05/2026
 
 [View](/cs/documents/product-information/pandemic-influenza-vaccine-h5n1-astrazeneca-epar-product-information_cs.pdf)
 
 dansk (DA) (1.27 MB - PDF)
 
-**First published:**
-
-02/06/2016
-
-**Last updated:**
-
-10/12/2025
+**First published:** 02/06/2016 **Last updated:** 08/05/2026
 
 [View](/da/documents/product-information/pandemic-influenza-vaccine-h5n1-astrazeneca-epar-product-information_da.pdf)
 
-Deutsch (DE) (424.79 KB - PDF)
+Deutsch (DE) (424.98 KB - PDF)
 
-**First published:**
-
-02/06/2016
-
-**Last updated:**
-
-10/12/2025
+**First published:** 02/06/2016 **Last updated:** 08/05/2026
 
 [View](/de/documents/product-information/pandemic-influenza-vaccine-h5n1-astrazeneca-epar-product-information_de.pdf)
 
-eesti keel (ET) (439.69 KB - PDF)
+eesti keel (ET) (439.64 KB - PDF)
 
-**First published:**
-
-02/06/2016
-
-**Last updated:**
-
-10/12/2025
+**First published:** 02/06/2016 **Last updated:** 08/05/2026
 
 [View](/et/documents/product-information/pandemic-influenza-vaccine-h5n1-astrazeneca-epar-product-information_et.pdf)
 
-ελληνικά (EL) (619.87 KB - PDF)
+ελληνικά (EL) (619.96 KB - PDF)
 
-**First published:**
-
-02/06/2016
-
-**Last updated:**
-
-10/12/2025
+**First published:** 02/06/2016 **Last updated:** 08/05/2026
 
 [View](/el/documents/product-information/pandemic-influenza-vaccine-h5n1-astrazeneca-epar-product-information_el.pdf)
 
-français (FR) (518.19 KB - PDF)
+français (FR) (518.46 KB - PDF)
 
-**First published:**
-
-02/06/2016
-
-**Last updated:**
-
-10/12/2025
+**First published:** 02/06/2016 **Last updated:** 08/05/2026
 
 [View](/fr/documents/product-information/pandemic-influenza-vaccine-h5n1-astrazeneca-epar-product-information_fr.pdf)
 
-hrvatski (HR) (511.05 KB - PDF)
+hrvatski (HR) (510.99 KB - PDF)
 
-**First published:**
-
-02/06/2016
-
-**Last updated:**
-
-10/12/2025
+**First published:** 02/06/2016 **Last updated:** 08/05/2026
 
 [View](/hr/documents/product-information/pandemic-influenza-vaccine-h5n1-astrazeneca-epar-product-information_hr.pdf)
 
-íslenska (IS) (409.55 KB - PDF)
+íslenska (IS) (409.58 KB - PDF)
 
-**First published:**
-
-02/06/2016
-
-**Last updated:**
-
-10/12/2025
+**First published:** 02/06/2016 **Last updated:** 08/05/2026
 
 [View](/is/documents/product-information/pandemic-influenza-vaccine-h5n1-astrazeneca-epar-product-information_is.pdf)
 
-italiano (IT) (492.12 KB - PDF)
+italiano (IT) (492.17 KB - PDF)
 
-**First published:**
-
-02/06/2016
-
-**Last updated:**
-
-10/12/2025
+**First published:** 02/06/2016 **Last updated:** 08/05/2026
 
 [View](/it/documents/product-information/pandemic-influenza-vaccine-h5n1-astrazeneca-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (562.99 KB - PDF)
+latviešu valoda (LV) (562.98 KB - PDF)
 
-**First published:**
-
-02/06/2016
-
-**Last updated:**
-
-10/12/2025
+**First published:** 02/06/2016 **Last updated:** 08/05/2026
 
 [View](/lv/documents/product-information/pandemic-influenza-vaccine-h5n1-astrazeneca-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (504.06 KB - PDF)
+lietuvių kalba (LT) (505.3 KB - PDF)
 
-**First published:**
-
-02/06/2016
-
-**Last updated:**
-
-10/12/2025
+**First published:** 02/06/2016 **Last updated:** 08/05/2026
 
 [View](/lt/documents/product-information/pandemic-influenza-vaccine-h5n1-astrazeneca-epar-product-information_lt.pdf)
 
 magyar (HU) (522.25 KB - PDF)
 
-**First published:**
-
-02/06/2016
-
-**Last updated:**
-
-10/12/2025
+**First published:** 02/06/2016 **Last updated:** 08/05/2026
 
 [View](/hu/documents/product-information/pandemic-influenza-vaccine-h5n1-astrazeneca-epar-product-information_hu.pdf)
 
-Malti (MT) (575.03 KB - PDF)
+Malti (MT) (575.07 KB - PDF)
 
-**First published:**
-
-02/06/2016
-
-**Last updated:**
-
-10/12/2025
+**First published:** 02/06/2016 **Last updated:** 08/05/2026
 
 [View](/mt/documents/product-information/pandemic-influenza-vaccine-h5n1-astrazeneca-epar-product-information_mt.pdf)
 
-Nederlands (NL) (398 KB - PDF)
+Nederlands (NL) (454.12 KB - PDF)
 
-**First published:**
-
-02/06/2016
-
-**Last updated:**
-
-10/12/2025
+**First published:** 02/06/2016 **Last updated:** 08/05/2026
 
 [View](/nl/documents/product-information/pandemic-influenza-vaccine-h5n1-astrazeneca-epar-product-information_nl.pdf)
 
-norsk (NO) (401.01 KB - PDF)
+norsk (NO) (401.02 KB - PDF)
 
-**First published:**
-
-02/06/2016
-
-**Last updated:**
-
-10/12/2025
+**First published:** 02/06/2016 **Last updated:** 08/05/2026
 
 [View](/no/documents/product-information/pandemic-influenza-vaccine-h5n1-astrazeneca-epar-product-information_no.pdf)
 
 polski (PL) (1.15 MB - PDF)
 
-**First published:**
-
-02/06/2016
-
-**Last updated:**
-
-10/12/2025
+**First published:** 02/06/2016 **Last updated:** 08/05/2026
 
 [View](/pl/documents/product-information/pandemic-influenza-vaccine-h5n1-astrazeneca-epar-product-information_pl.pdf)
 
-português (PT) (462.22 KB - PDF)
+português (PT) (462.23 KB - PDF)
 
-**First published:**
-
-02/06/2016
-
-**Last updated:**
-
-10/12/2025
+**First published:** 02/06/2016 **Last updated:** 08/05/2026
 
 [View](/pt/documents/product-information/pandemic-influenza-vaccine-h5n1-astrazeneca-epar-product-information_pt.pdf)
 
-română (RO) (489.68 KB - PDF)
+română (RO) (489.69 KB - PDF)
 
-**First published:**
-
-02/06/2016
-
-**Last updated:**
-
-10/12/2025
+**First published:** 02/06/2016 **Last updated:** 08/05/2026
 
 [View](/ro/documents/product-information/pandemic-influenza-vaccine-h5n1-astrazeneca-epar-product-information_ro.pdf)
 
-slovenčina (SK) (553.82 KB - PDF)
+slovenčina (SK) (552.94 KB - PDF)
 
-**First published:**
-
-02/06/2016
-
-**Last updated:**
-
-10/12/2025
+**First published:** 02/06/2016 **Last updated:** 08/05/2026
 
 [View](/sk/documents/product-information/pandemic-influenza-vaccine-h5n1-astrazeneca-epar-product-information_sk.pdf)
 
-slovenščina (SL) (507.33 KB - PDF)
+slovenščina (SL) (506.86 KB - PDF)
 
-**First published:**
-
-02/06/2016
-
-**Last updated:**
-
-10/12/2025
+**First published:** 02/06/2016 **Last updated:** 08/05/2026
 
 [View](/sl/documents/product-information/pandemic-influenza-vaccine-h5n1-astrazeneca-epar-product-information_sl.pdf)
 
-Suomi (FI) (409.48 KB - PDF)
+Suomi (FI) (409.52 KB - PDF)
 
-**First published:**
-
-02/06/2016
-
-**Last updated:**
-
-10/12/2025
+**First published:** 02/06/2016 **Last updated:** 08/05/2026
 
 [View](/fi/documents/product-information/pandemic-influenza-vaccine-h5n1-astrazeneca-epar-product-information_fi.pdf)
 
-svenska (SV) (470.76 KB - PDF)
+svenska (SV) (470.85 KB - PDF)
 
-**First published:**
-
-02/06/2016
-
-**Last updated:**
-
-10/12/2025
+**First published:** 02/06/2016 **Last updated:** 08/05/2026
 
 [View](/sv/documents/product-information/pandemic-influenza-vaccine-h5n1-astrazeneca-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000316345 10/12/2025
+**Latest procedure affecting product information:** R/0000313191
+
+12/03/2026
 
 icon globe
 
@@ -715,305 +513,177 @@ Pandemic influenza vaccine H5N1 AstraZeneca : EPAR - All Authorised presentation
 
 English (EN) (34.53 KB - PDF)
 
-**First published:** 02/06/2016
-
-**Last updated:** 20/04/2020
+**First published:** 02/06/2016 **Last updated:** 20/04/2020
 
 [View](/en/documents/all-authorised-presentations/pandemic-influenza-vaccine-h5n1-astrazeneca-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-878)
+[Other languages (24)](#file-language-dropdown-451)
 
 български (BG) (39.1 KB - PDF)
 
-**First published:**
-
-02/06/2016
-
-**Last updated:**
-
-20/04/2020
+**First published:** 02/06/2016 **Last updated:** 20/04/2020
 
 [View](/bg/documents/all-authorised-presentations/pandemic-influenza-vaccine-h5n1-astrazeneca-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (33.04 KB - PDF)
 
-**First published:**
-
-02/06/2016
-
-**Last updated:**
-
-20/04/2020
+**First published:** 02/06/2016 **Last updated:** 20/04/2020
 
 [View](/es/documents/all-authorised-presentations/pandemic-influenza-vaccine-h5n1-astrazeneca-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (32.86 KB - PDF)
 
-**First published:**
-
-02/06/2016
-
-**Last updated:**
-
-20/04/2020
+**First published:** 02/06/2016 **Last updated:** 20/04/2020
 
 [View](/cs/documents/all-authorised-presentations/pandemic-influenza-vaccine-h5n1-astrazeneca-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (63.36 KB - PDF)
 
-**First published:**
-
-02/06/2016
-
-**Last updated:**
-
-20/04/2020
+**First published:** 02/06/2016 **Last updated:** 20/04/2020
 
 [View](/da/documents/all-authorised-presentations/pandemic-influenza-vaccine-h5n1-astrazeneca-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (41.04 KB - PDF)
 
-**First published:**
-
-02/06/2016
-
-**Last updated:**
-
-20/04/2020
+**First published:** 02/06/2016 **Last updated:** 20/04/2020
 
 [View](/de/documents/all-authorised-presentations/pandemic-influenza-vaccine-h5n1-astrazeneca-epar-all-authorised-presentations_de.pdf)
 
 eesti keel (ET) (40.83 KB - PDF)
 
-**First published:**
-
-02/06/2016
-
-**Last updated:**
-
-20/04/2020
+**First published:** 02/06/2016 **Last updated:** 20/04/2020
 
 [View](/et/documents/all-authorised-presentations/pandemic-influenza-vaccine-h5n1-astrazeneca-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (38.28 KB - PDF)
 
-**First published:**
-
-02/06/2016
-
-**Last updated:**
-
-20/04/2020
+**First published:** 02/06/2016 **Last updated:** 20/04/2020
 
 [View](/el/documents/all-authorised-presentations/pandemic-influenza-vaccine-h5n1-astrazeneca-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (34.77 KB - PDF)
 
-**First published:**
-
-02/06/2016
-
-**Last updated:**
-
-20/04/2020
+**First published:** 02/06/2016 **Last updated:** 20/04/2020
 
 [View](/fr/documents/all-authorised-presentations/pandemic-influenza-vaccine-h5n1-astrazeneca-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (34.14 KB - PDF)
 
-**First published:**
-
-02/06/2016
-
-**Last updated:**
-
-20/04/2020
+**First published:** 02/06/2016 **Last updated:** 20/04/2020
 
 [View](/hr/documents/all-authorised-presentations/pandemic-influenza-vaccine-h5n1-astrazeneca-epar-all-authorised-presentations_hr.pdf)
 
 íslenska (IS) (61.28 KB - PDF)
 
-**First published:**
-
-02/06/2016
-
-**Last updated:**
-
-20/04/2020
+**First published:** 02/06/2016 **Last updated:** 20/04/2020
 
 [View](/is/documents/all-authorised-presentations/pandemic-influenza-vaccine-h5n1-astrazeneca-epar-all-authorised-presentations_is.pdf)
 
 italiano (IT) (39.84 KB - PDF)
 
-**First published:**
-
-02/06/2016
-
-**Last updated:**
-
-20/04/2020
+**First published:** 02/06/2016 **Last updated:** 20/04/2020
 
 [View](/it/documents/all-authorised-presentations/pandemic-influenza-vaccine-h5n1-astrazeneca-epar-all-authorised-presentations_it.pdf)
 
 latviešu valoda (LV) (48.65 KB - PDF)
 
-**First published:**
-
-02/06/2016
-
-**Last updated:**
-
-20/04/2020
+**First published:** 02/06/2016 **Last updated:** 20/04/2020
 
 [View](/lv/documents/all-authorised-presentations/pandemic-influenza-vaccine-h5n1-astrazeneca-epar-all-authorised-presentations_lv.pdf)
 
 lietuvių kalba (LT) (35.68 KB - PDF)
 
-**First published:**
-
-02/06/2016
-
-**Last updated:**
-
-20/04/2020
+**First published:** 02/06/2016 **Last updated:** 20/04/2020
 
 [View](/lt/documents/all-authorised-presentations/pandemic-influenza-vaccine-h5n1-astrazeneca-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (41.88 KB - PDF)
 
-**First published:**
-
-02/06/2016
-
-**Last updated:**
-
-20/04/2020
+**First published:** 02/06/2016 **Last updated:** 20/04/2020
 
 [View](/hu/documents/all-authorised-presentations/pandemic-influenza-vaccine-h5n1-astrazeneca-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (37.17 KB - PDF)
 
-**First published:**
-
-02/06/2016
-
-**Last updated:**
-
-20/04/2020
+**First published:** 02/06/2016 **Last updated:** 20/04/2020
 
 [View](/mt/documents/all-authorised-presentations/pandemic-influenza-vaccine-h5n1-astrazeneca-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (34.34 KB - PDF)
 
-**First published:**
-
-02/06/2016
-
-**Last updated:**
-
-20/04/2020
+**First published:** 02/06/2016 **Last updated:** 20/04/2020
 
 [View](/nl/documents/all-authorised-presentations/pandemic-influenza-vaccine-h5n1-astrazeneca-epar-all-authorised-presentations_nl.pdf)
 
 norsk (NO) (61.94 KB - PDF)
 
-**First published:**
-
-02/06/2016
-
-**Last updated:**
-
-20/04/2020
+**First published:** 02/06/2016 **Last updated:** 20/04/2020
 
 [View](/no/documents/all-authorised-presentations/pandemic-influenza-vaccine-h5n1-astrazeneca-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (36.44 KB - PDF)
 
-**First published:**
-
-02/06/2016
-
-**Last updated:**
-
-20/04/2020
+**First published:** 02/06/2016 **Last updated:** 20/04/2020
 
 [View](/pl/documents/all-authorised-presentations/pandemic-influenza-vaccine-h5n1-astrazeneca-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (35.08 KB - PDF)
 
-**First published:**
-
-02/06/2016
-
-**Last updated:**
-
-20/04/2020
+**First published:** 02/06/2016 **Last updated:** 20/04/2020
 
 [View](/pt/documents/all-authorised-presentations/pandemic-influenza-vaccine-h5n1-astrazeneca-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (34.49 KB - PDF)
 
-**First published:**
-
-02/06/2016
-
-**Last updated:**
-
-20/04/2020
+**First published:** 02/06/2016 **Last updated:** 20/04/2020
 
 [View](/ro/documents/all-authorised-presentations/pandemic-influenza-vaccine-h5n1-astrazeneca-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (36.08 KB - PDF)
 
-**First published:**
-
-02/06/2016
-
-**Last updated:**
-
-20/04/2020
+**First published:** 02/06/2016 **Last updated:** 20/04/2020
 
 [View](/sk/documents/all-authorised-presentations/pandemic-influenza-vaccine-h5n1-astrazeneca-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (32.51 KB - PDF)
 
-**First published:**
-
-02/06/2016
-
-**Last updated:**
-
-20/04/2020
+**First published:** 02/06/2016 **Last updated:** 20/04/2020
 
 [View](/sl/documents/all-authorised-presentations/pandemic-influenza-vaccine-h5n1-astrazeneca-epar-all-authorised-presentations_sl.pdf)
 
 Suomi (FI) (59.13 KB - PDF)
 
-**First published:**
-
-02/06/2016
-
-**Last updated:**
-
-20/04/2020
+**First published:** 02/06/2016 **Last updated:** 20/04/2020
 
 [View](/fi/documents/all-authorised-presentations/pandemic-influenza-vaccine-h5n1-astrazeneca-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (58.1 KB - PDF)
 
-**First published:**
-
-02/06/2016
-
-**Last updated:**
-
-20/04/2020
+**First published:** 02/06/2016 **Last updated:** 20/04/2020
 
 [View](/sv/documents/all-authorised-presentations/pandemic-influenza-vaccine-h5n1-astrazeneca-epar-all-authorised-presentations_sv.pdf)
 
 ## Product details
 
-Name of medicine Pandemic influenza vaccine H5N1 AstraZeneca (previously Pandemic influenza vaccine H5N1 Medimmune) Active substance reassortant influenza virus (live attenuated) of the following strain: A/Vietnam/1203/2004 (H5N1) strain International non-proprietary name (INN) or common name pandemic influenza vaccine (H5N1) (live attenuated, nasal) Therapeutic area (MeSH) Influenza, Human Anatomical therapeutic chemical (ATC) code J07BB03
+Name of medicine
+
+Pandemic influenza vaccine H5N1 AstraZeneca (previously Pandemic influenza vaccine H5N1 Medimmune)
+
+Active substance
+
+reassortant influenza virus (live attenuated) of the following strain: A/Vietnam/1203/2004 (H5N1) strain
+
+International non-proprietary name (INN) or common name
+
+pandemic influenza vaccine (H5N1) (live attenuated, nasal)
+
+Therapeutic area (MeSH)
+
+Influenza, Human
+
+Anatomical therapeutic chemical (ATC) code
+
+J07BB03
 
 ### Pharmacotherapeutic group
 
@@ -1027,7 +697,9 @@ Pandemic influenza vaccine H5N1 AstraZeneca should be used in accordance with of
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/003963
+EMA product number
+
+EMEA/H/C/003963
 
 Additional monitoring
 
@@ -1043,7 +715,17 @@ AstraZeneca AB
 
 5E-151 85 Sodertalje
 
-Opinion adopted 31/03/2016 Marketing authorisation issued 20/05/2016 Revision 12
+Opinion adopted
+
+31/03/2016
+
+Marketing authorisation issued
+
+20/05/2016
+
+Revision
+
+13
 
 ## Assessment history
 
@@ -1055,19 +737,17 @@ Collapse section
 
 Pandemic influenza vaccine H5N1 AstraZeneca : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (613.26 KB - PDF)
+English (EN) (151.71 KB - PDF)
 
-**First published:** 10/12/2025
+**First published:** 10/12/2025 **Last updated:** 08/05/2026
 
-[View](/en/documents/procedural-steps-after/pandemic-influenza-vaccine-h5n1-astrazeneca-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf-0)
+[View](/en/documents/procedural-steps-after/pandemic-influenza-vaccine-h5n1-astrazeneca-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
 Pandemic influenza vaccine H5N1 AstraZeneca : EPAR - Procedural steps taken and scientific information after authorisation (archive)
 
 English (EN) (277.59 KB - PDF)
 
-**First published:** 10/02/2017
-
-**Last updated:** 10/12/2025
+**First published:** 10/02/2017 **Last updated:** 10/12/2025
 
 [View](/en/documents/procedural-steps-after/pandemic-influenza-vaccine-h5n1-astrazeneca-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
@@ -1075,47 +755,41 @@ English (EN) (277.59 KB - PDF)
 
 Pandemic influenza vaccine H5N1 MedImmune : EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/CHMP/323530/2016
+Adopted Reference Number: EMA/CHMP/323530/2016
 
 English (EN) (3.53 MB - PDF)
 
-**First published:** 02/06/2016
-
-**Last updated:** 02/06/2016
+**First published:** 02/06/2016 **Last updated:** 02/06/2016
 
 [View](/en/documents/assessment-report/pandemic-influenza-vaccine-h5n1-medimmune-epar-public-assessment-report_en.pdf)
 
 CHMP summary of opinion for Pandemic influenza vaccine H5N1 MedImmune
 
-Adopted
-
-Reference Number: EMA/CHMP/170789/2016
+Adopted Reference Number: EMA/CHMP/170789/2016
 
 English (EN) (79.06 KB - PDF)
 
-**First published:** 01/04/2016
-
-**Last updated:** 01/04/2016
+**First published:** 01/04/2016 **Last updated:** 01/04/2016
 
 [View](/en/documents/smop-initial/chmp-summary-opinion-pandemic-influenza-vaccine-h5n1-medimmune_en.pdf)
 
-#### News on Pandemic influenza vaccine H5N1 AstraZeneca (previously Pandemic influenza vaccine H5N1 Medimmune)
+## News on Pandemic influenza vaccine H5N1 AstraZeneca (previously Pandemic influenza vaccine H5N1 Medimmune)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 29 March - 1 April 2016](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-29-march-1-april-2016) 01/04/2016
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 29 March - 1 April 2016](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-29-march-1-april-2016)
 
-#### Related information
+01/04/2016
+
+## Related information
 
 - [Clinical data](https://clinicaldata.ema.europa.eu/web/cdp/search?p_p_id=cdpdossierviewportlet_WAR_cdpdossierviewportlet=0=maximized=view=column-1=1=EMEAHC0039630000) (initial marketing authorisation)
 
-#### Topics
+## Topics
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 - [Vaccines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A76)
 
-**This page was last updated on** 10/12/2025
+**This page was last updated on**
+
+08/05/2026
 
 ## Share this page
-
-[Back to top](#main-content)

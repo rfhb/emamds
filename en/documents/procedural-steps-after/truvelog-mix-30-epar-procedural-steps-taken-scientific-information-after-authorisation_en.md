@@ -4,8 +4,8 @@ document_pages: 3
 document_pathfilename: www.ema.europa.eu/en/documents/procedural-steps-after/truvelog-mix-30-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
 document_name: truvelog-mix-30-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
 version: success
-processing_time: 3.9631481
-conversion_datetime: 2026-05-10 13:15:11.040339
+processing_time: 3.9404814
+conversion_datetime: 2026-05-10 13:24:35.091286
 docling_version:
   docling-serve: 1.17.0
   docling-jobkit: 1.18.0

@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-02-03 10:42:25
+document_datetime: 2026-05-07 15:13:05
 document_pages: 113
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/uzpruvo-epar-product-information_en.pdf
 document_name: uzpruvo-epar-product-information_en.pdf
 version: success
-processing_time: 31.8725522
-conversion_datetime: 2026-02-04 15:10:49.180066
+processing_time: 37.5465666
+conversion_datetime: 2026-05-10 12:14:15.770107
 docling_version:
-  docling-serve: 1.11.0
-  docling-jobkit: 1.9.1
-  docling: 2.72.0
-  docling-core: 2.63.0
-  docling-ibm-models: 3.11.0
-  docling-parse: 4.7.3
-  python: cpython-313 (3.13.12)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  docling-serve: 1.17.0
+  docling-jobkit: 1.18.0
+  docling: 2.92.0
+  docling-core: 2.74.1
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.10.1
+  python: cpython-313 (3.13.11)
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -182,11 +182,9 @@ Long term treatment with Uzpruvo does not suppress the humoral immune response t
 
 ## Concomitant immunosuppressive therapy
 
-In psoriasis studies, the safety and efficacy of ustekinumab in combination with immunosuppressants, including biologics, or phototherapy have not been evaluated. In psoriatic arthritis studies, concomitant MTX use did not appear to influence the safety or efficacy of ustekinumab. In Crohn's
+In psoriasis studies, the safety and efficacy of ustekinumab in combination with immunosuppressants, including biologics, or phototherapy have not been evaluated. In psoriatic arthritis studies, concomitant MTX use did not appear to influence the safety or efficacy of ustekinumab. In Crohn's disease and ulcerative colitis studies, concomitant use of immunosuppressants or corticosteroids did not appear to influence the safety or efficacy of ustekinumab. Caution should be exercised when considering concomitant use of other immunosuppressants and Uzpruvo or when transitioning from other immunosuppressive biologics (see section 4.5).
 
 <div style=\"page-break-after: always\"></div>
-
-disease and ulcerative colitis studies, concomitant use of immunosuppressants or corticosteroids did not appear to influence the safety or efficacy of ustekinumab. Caution should be exercised when considering concomitant use of other immunosuppressants and Uzpruvo or when transitioning from other immunosuppressive biologics (see section 4.5).
 
 ## Immunotherapy
 
@@ -242,15 +240,15 @@ Animal studies do not indicate direct or indirect harmful effects with respect t
 
 However, the available clinical experience is limited. As a precautionary measure, it is preferable to avoid the use of Uzpruvo in pregnancy.
 
-Ustekinumab crosses the placenta and has been detected in the serum of infants born to female patients treated with ustekinumab during pregnancy. The clinical impact of this is unknown, however, the risk of infection in infants exposed in utero to ustekinumab may be increased after birth. Administration of live vaccines (such as the BCG vaccine) to infants exposed in utero to ustekinumab is not recommended for twelve months following birth or until ustekinumab infant serum levels are undetectable (see sections 4.4 and 4.5). If there is a clear clinical benefit for the individual infant, administration of a live vaccine might be considered at an earlier timepoint, if infant ustekinumab serum levels are undetectable.
+Ustekinumab crosses the placenta and has been detected in the serum of infants born to female patients
+
+treated with ustekinumab during pregnancy. The clinical impact of this is unknown, however, the risk of infection in infants exposed in utero to ustekinumab may be increased after birth. Administration of live vaccines (such as the BCG vaccine) to infants exposed in utero to ustekinumab is not recommended for twelve months following birth or until ustekinumab infant serum levels are undetectable (see sections 4.4 and 4.5). If there is a clear clinical benefit for the individual infant, administration of a live vaccine might be considered at an earlier timepoint, if infant ustekinumab serum levels are undetectable.
 
 ## Breast-feeding
 
-Limited data from published literature suggests that ustekinumab is excreted in human breast milk in very small amounts. It is not known if ustekinumab is absorbed systemically after ingestion. Because of the potential for adverse reactions in nursing infants from ustekinumab, a decision on whether to discontinue breast-feeding during treatment and up to 15 weeks after treatment or to discontinue
+Limited data from published literature suggests that ustekinumab is excreted in human breast milk in very small amounts. It is not known if ustekinumab is absorbed systemically after ingestion. Because of the potential for adverse reactions in nursing infants from ustekinumab, a decision on whether to discontinue breast-feeding during treatment and up to 15 weeks after treatment or to discontinue therapy with Uzpruvo must be made taking into account the benefit of breast-feeding to the child and the benefit of Uzpruvo therapy to the woman.
 
 <div style=\"page-break-after: always\"></div>
-
-therapy with Uzpruvo must be made taking into account the benefit of breast-feeding to the child and the benefit of Uzpruvo therapy to the woman.
 
 ## Fertility
 
@@ -584,11 +582,9 @@ For storage conditions after dilution of the medicinal product, see section 6.3.
 
 ## 6.6 Special precautions for disposal and other handling
 
-The solution in the Uzpruvo vial should not be shaken. The solution should be visually inspected for particulate matter or discolouration prior to administration. The solution is clear, colourless to light
+The solution in the Uzpruvo vial should not be shaken. The solution should be visually inspected for particulate matter or discolouration prior to administration. The solution is clear, colourless to light yellow and practically free from visible particles. The medicinal product should not be used if the solution is frozen, discoloured or cloudy, or if foreign particulate matter is present.
 
 <div style=\"page-break-after: always\"></div>
-
-yellow and practically free from visible particles. The medicinal product should not be used if the solution is frozen, discoloured or cloudy, or if foreign particulate matter is present.
 
 ## Dilution
 
@@ -616,13 +612,11 @@ Date of first authorisation: 05 January 2024
 
 ## 10. DATE OF REVISION OF THE TEXT
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu This medicinal product is subject to additional monitoring. This will allow quick identification of new safety information. Healthcare professionals are asked to report any suspected adverse reactions. See section 4.8 for how to report adverse reactions.
 
 <div style=\"page-break-after: always\"></div>
 
 <!-- image -->
-
-This medicinal product is subject to additional monitoring. This will allow quick identification of new safety information. Healthcare professionals are asked to report any suspected adverse reactions. See section 4.8 for how to report adverse reactions.
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -737,27 +731,27 @@ Table 2 Injection volumes of Uzpruvo for paediatric psoriasis patients &lt; 60 k
 |   Body weight at time of dosing (kg) |   Dose (mg) |   Volume of injection (mL) |
 |--------------------------------------|-------------|----------------------------|
 |                                   15 |        11.3 |                       0.12 |
-|                                   16 |        12   |                       0.13 |
+|                                   16 |        12.0 |                       0.13 |
 |                                   17 |        12.8 |                       0.14 |
 |                                   18 |        13.5 |                       0.15 |
 |                                   19 |        14.3 |                       0.16 |
-|                                   20 |        15   |                       0.17 |
+|                                   20 |        15.0 |                       0.17 |
 |                                   21 |        15.8 |                       0.17 |
 |                                   22 |        16.5 |                       0.18 |
 |                                   23 |        17.3 |                       0.19 |
-|                                   24 |        18   |                       0.2  |
+|                                   24 |        18.0 |                       0.20 |
 |                                   25 |        18.8 |                       0.21 |
 |                                   26 |        19.5 |                       0.22 |
 |                                   27 |        20.3 |                       0.22 |
-|                                   28 |        21   |                       0.23 |
+|                                   28 |        21.0 |                       0.23 |
 |                                   29 |        21.8 |                       0.24 |
 |                                   30 |        22.5 |                       0.25 |
 |                                   31 |        23.3 |                       0.26 |
-|                                   32 |        24   |                       0.27 |
+|                                   32 |        24.0 |                       0.27 |
 |                                   33 |        24.8 |                       0.27 |
 |                                   34 |        25.5 |                       0.28 |
 |                                   35 |        26.3 |                       0.29 |
-|                                   36 |        27   |                       0.3  |
+|                                   36 |        27.0 |                       0.30 |
 |                                   37 |        27.8 |                       0.31 |
 |                                   38 |        28.5 |                       0.32 |
 |                                   39 |        29.3 |                       0.32 |
@@ -766,23 +760,23 @@ Table 2 Injection volumes of Uzpruvo for paediatric psoriasis patients &lt; 60 k
 
 |   Body weight at time of dosing (kg) |   Dose (mg) |   Volume of injection (mL) |
 |--------------------------------------|-------------|----------------------------|
-|                                   40 |        30   |                       0.33 |
+|                                   40 |        30.0 |                       0.33 |
 |                                   41 |        30.8 |                       0.34 |
 |                                   42 |        31.5 |                       0.35 |
 |                                   43 |        32.3 |                       0.36 |
-|                                   44 |        33   |                       0.37 |
+|                                   44 |        33.0 |                       0.37 |
 |                                   45 |        33.8 |                       0.37 |
 |                                   46 |        34.5 |                       0.38 |
 |                                   47 |        35.3 |                       0.39 |
-|                                   48 |        36   |                       0.4  |
+|                                   48 |        36.0 |                       0.40 |
 |                                   49 |        36.8 |                       0.41 |
 |                                   50 |        37.5 |                       0.42 |
 |                                   51 |        38.3 |                       0.42 |
-|                                   52 |        39   |                       0.43 |
+|                                   52 |        39.0 |                       0.43 |
 |                                   53 |        39.8 |                       0.44 |
 |                                   54 |        40.5 |                       0.45 |
 |                                   55 |        41.3 |                       0.46 |
-|                                   56 |        42   |                       0.46 |
+|                                   56 |        42.0 |                       0.46 |
 |                                   57 |        42.8 |                       0.47 |
 |                                   58 |        43.5 |                       0.48 |
 |                                   59 |        44.3 |                       0.49 |
@@ -883,11 +877,9 @@ All patients, in particular those greater than 60 years of age, patients with a 
 
 ## Systemic
 
-Serious hypersensitivity reactions have been reported in the postmarketing setting, in some cases several days after treatment. Anaphylaxis and angioedema have occurred. If an anaphylactic or other
+Serious hypersensitivity reactions have been reported in the postmarketing setting, in some cases several days after treatment. Anaphylaxis and angioedema have occurred. If an anaphylactic or other serious hypersensitivity reaction occurs, appropriate therapy should be instituted and administration of Uzpruvo should be discontinued (see section 4.8).
 
 <div style=\"page-break-after: always\"></div>
-
-serious hypersensitivity reaction occurs, appropriate therapy should be instituted and administration of Uzpruvo should be discontinued (see section 4.8).
 
 ## Respiratory
 
@@ -951,11 +943,9 @@ Live vaccines should not be given concurrently with Uzpruvo (see section 4.4).
 
 Administration of live vaccines (such as the BCG vaccine) to infants exposed in utero to ustekinumab is not recommended for twelve months following birth or until ustekinumab infant serum levels are undetectable (see sections 4.4 and 4.6). If there is a clear clinical benefit for the individual infant, administration of a live vaccine might be considered at an earlier timepoint, if infant ustekinumab serum levels are undetectable.
 
-In the population pharmacokinetic analyses of the ustekinumab phase 3 studies, the effect of the most frequently used concomitant medicinal products in patients with psoriasis (including paracetamol, ibuprofen, acetylsalicylic acid, metformin, atorvastatin, levothyroxine) on pharmacokinetics of ustekinumab was explored. There were no indications of an interaction with these concomitantly administered medicinal products. The basis for this analysis was that at least 100 patients (&gt; 5% of the studied population) were treated concomitantly with these medicinal products for at least 90% of the study period. The pharmacokinetics of ustekinumab was not impacted by concomitant use of MTX,
+In the population pharmacokinetic analyses of the ustekinumab phase 3 studies, the effect of the most frequently used concomitant medicinal products in patients with psoriasis (including paracetamol, ibuprofen, acetylsalicylic acid, metformin, atorvastatin, levothyroxine) on pharmacokinetics of ustekinumab was explored. There were no indications of an interaction with these concomitantly administered medicinal products. The basis for this analysis was that at least 100 patients (&gt; 5% of the studied population) were treated concomitantly with these medicinal products for at least 90% of the study period. The pharmacokinetics of ustekinumab was not impacted by concomitant use of MTX, NSAIDs, 6-mercaptopurine, azathioprine and oral corticosteroids in patients with psoriatic arthritis, Crohn's disease or ulcerative colitis, or prior exposure to anti-TNFα agents, in patients with psoriatic arthritis or Crohn's disease or by prior exposure to biologics (i.e. anti-TNFα agents and/or vedolizumab) in patients with ulcerative colitis.
 
 <div style=\"page-break-after: always\"></div>
-
-NSAIDs, 6-mercaptopurine, azathioprine and oral corticosteroids in patients with psoriatic arthritis, Crohn's disease or ulcerative colitis, or prior exposure to anti-TNFα agents, in patients with psoriatic arthritis or Crohn's disease or by prior exposure to biologics (i.e. anti-TNFα agents and/or vedolizumab) in patients with ulcerative colitis.
 
 The results of an in vitro study and a phase 1 study in subjects with active Crohn's disease do not suggest the need for dose adjustments in patients who are receiving concomitant CYP450 substrates (see section 5.2).
 
@@ -975,7 +965,9 @@ Animal studies do not indicate direct or indirect harmful effects with respect t
 
 However, the available clinical experience is limited. As a precautionary measure, it is preferable to avoid the use of Uzpruvo in pregnancy.
 
-Ustekinumab crosses the placenta and has been detected in the serum of infants born to female patients treated with ustekinumab during pregnancy. The clinical impact of this is unknown, however, the risk of infection in infants exposed in utero to ustekinumab may be increased after birth. Administration of live vaccines (such as the BCG vaccine) to infants exposed in utero to ustekinumab is not recommended for twelve months following birth or until ustekinumab infant serum levels are undetectable (see sections 4.4 and 4.5). If there is a clear clinical benefit for the individual infant, administration of a live vaccine might be considered at an earlier timepoint, if infant ustekinumab serum levels are undetectable.
+Ustekinumab crosses the placenta and has been detected in the serum of infants born to female patients
+
+treated with ustekinumab during pregnancy. The clinical impact of this is unknown, however, the risk of infection in infants exposed in utero to ustekinumab may be increased after birth. Administration of live vaccines (such as the BCG vaccine) to infants exposed in utero to ustekinumab is not recommended for twelve months following birth or until ustekinumab infant serum levels are undetectable (see sections 4.4 and 4.5). If there is a clear clinical benefit for the individual infant, administration of a live vaccine might be considered at an earlier timepoint, if infant ustekinumab serum levels are undetectable.
 
 ## Breast-feeding
 
@@ -1092,11 +1084,9 @@ The safety and efficacy of ustekinumab was assessed in 1,996 patients in two ran
 
 Psoriasis Study 1 (PHOENIX 1) evaluated 766 patients. 53% of these patients were either nonresponsive, intolerant, or had a contraindication to other systemic therapy. Patients randomised to ustekinumab received 45 mg or 90 mg doses at weeks 0 and 4 and followed by the same dose every 12 weeks. Patients randomised to receive placebo at weeks 0 and 4 crossed over to receive ustekinumab (either 45 mg or 90 mg) at weeks 12 and 16 followed by dosing every 12 weeks. Patients originally randomised to ustekinumab who achieved Psoriasis Area and Severity Index 75 response (PASI improvement of at least 75% relative to baseline) at both weeks 28 and 40 were re-randomised to receive ustekinumab every 12 weeks or to placebo (i.e., withdrawal of therapy). Patients who were re- randomised to placebo at week 40 reinitiated ustekinumab at their original dosing regimen when they experienced at least a 50% loss of their PASI improvement obtained at week 40. All patients were followed for up to 76 weeks following first administration of study treatment.
 
-Psoriasis Study 2 (PHOENIX 2) evaluated 1,230 patients. 61% of these patients were either nonresponsive, intolerant, or had a contraindication to other systemic therapy. Patients randomised to
+Psoriasis Study 2 (PHOENIX 2) evaluated 1,230 patients. 61% of these patients were either nonresponsive, intolerant, or had a contraindication to other systemic therapy. Patients randomised to ustekinumab received 45 mg or 90 mg doses at weeks 0 and 4 followed by an additional dose at 16 weeks. Patients randomised to receive placebo at weeks 0 and 4 crossed over to receive ustekinumab (either 45 mg or 90 mg) at weeks 12 and 16. All patients were followed for up to 52 weeks following first administration of study treatment.
 
 <div style=\"page-break-after: always\"></div>
-
-ustekinumab received 45 mg or 90 mg doses at weeks 0 and 4 followed by an additional dose at 16 weeks. Patients randomised to receive placebo at weeks 0 and 4 crossed over to receive ustekinumab (either 45 mg or 90 mg) at weeks 12 and 16. All patients were followed for up to 52 weeks following first administration of study treatment.
 
 Psoriasis Study 3 (ACCEPT) evaluated 903 patients with moderate to severe psoriasis who inadequately responded to, were intolerant to, or had a contraindication to other systemic therapy and compared the efficacy of ustekinumab to etanercept and evaluated the safety of ustekinumab and etanercept. During the 12-week active-controlled portion of the study, patients were randomised to receive etanercept (50 mg twice a week), ustekinumab 45 mg at weeks 0 and 4, or ustekinumab 90 mg at weeks 0 and 4.
 
@@ -1164,11 +1154,9 @@ In Psoriasis Study 1, at week 2 and week 12, significantly greater improvements 
 
 Ustekinumab has been shown to improve signs and symptoms, physical function and health-related quality of life, and reduce the rate of progression of peripheral joint damage in adult patients with active PsA.
 
-The safety and efficacy of ustekinumab was assessed in 927 patients in two randomised, double-blind, placebo-controlled studies in patients with active PsA (≥ 5 swollen joints and ≥ 5 tender joints) despite non-steroidal anti-inflammatory (NSAID) or disease modifying antirheumatic (DMARD) therapy. Patients in these studies had a diagnosis of PsA for at least 6 months. Patients with each subtype of PsA were enrolled, including polyarticular arthritis with no evidence of rheumatoid nodules (39%), spondylitis with peripheral arthritis (28%), asymmetric peripheral arthritis (21%), distal interphalangeal involvement (12%) and arthritis mutilans (0.5%). Over 70% and 40% of the patients in both studies had enthesitis and dactylitis at baseline, respectively. Patients were randomised to receive treatment with ustekinumab 45 mg, 90 mg, or placebo subcutaneously at weeks 0 and 4 followed by
+The safety and efficacy of ustekinumab was assessed in 927 patients in two randomised, double-blind, placebo-controlled studies in patients with active PsA (≥ 5 swollen joints and ≥ 5 tender joints) despite non-steroidal anti-inflammatory (NSAID) or disease modifying antirheumatic (DMARD) therapy. Patients in these studies had a diagnosis of PsA for at least 6 months. Patients with each subtype of PsA were enrolled, including polyarticular arthritis with no evidence of rheumatoid nodules (39%), spondylitis with peripheral arthritis (28%), asymmetric peripheral arthritis (21%), distal interphalangeal involvement (12%) and arthritis mutilans (0.5%). Over 70% and 40% of the patients in both studies had enthesitis and dactylitis at baseline, respectively. Patients were randomised to receive treatment with ustekinumab 45 mg, 90 mg, or placebo subcutaneously at weeks 0 and 4 followed by every 12 weeks (q12w) dosing. Approximately 50% of patients continued on stable doses of MTX (≤ 25 mg/week).
 
 <div style=\"page-break-after: always\"></div>
-
-every 12 weeks (q12w) dosing. Approximately 50% of patients continued on stable doses of MTX (≤ 25 mg/week).
 
 In PsA Study 1 (PSUMMIT I) and PsA Study 2 (PSUMMIT II), 80% and 86% of the patients, respectively, had been previously treated with DMARDs. In Study 1 previous treatment with antitumour necrosis factor (TNF)α agent was not allowed. In Study 2, the majority of patients (58%, n = 180) had been previously treated with one or more anti-TNFα agent(s), of whom over 70% had discontinued their anti-TNFα treatment for lack of efficacy or intolerance at any time.
 
@@ -1551,11 +1539,11 @@ Uzpruvo 45 mg solution for injection
 
 Uzpruvo 45 mg solution for injection in pre-filled syringe
 
-3 years
+4 years
 
 Uzpruvo 90 mg solution for injection in pre-filled syringe
 
-3 years
+4 years
 
 Individual pre-filled syringes may be stored at room temperature up to 30 °C for a maximum single period of up to 30 days in the original carton in order to protect from light. Once removed from the refrigerator, record the discard date in the space provided on the outer carton. The discard date must not exceed the original expiry date printed on the carton. Once a syringe has been stored at room temperature (up to 30 °C), it should not be returned to the refrigerator. Discard the syringe if not used within 30 days at room temperature storage or by the original expiry date, whichever is earlier.
 
@@ -1569,7 +1557,7 @@ If needed, individual pre-filled syringes may be stored at room temperature up t
 
 ## 6.5 Nature and contents of container
 
-Uzpruvo 45 mg solution for injection
+## Uzpruvo 45 mg solution for injection
 
 0.5 mL solution for injection in a type I glass 2 mL vial closed with a coated bromobutyl rubber stopper.
 
@@ -1577,13 +1565,13 @@ Pack size: 1 vial
 
 Uzpruvo 45 mg solution for injection in pre-filled syringe
 
-0.5 mL solution for injection in a pre-filled type I glass 1 mL syringe with a fixed 29-gauge, extended finger flanges and passive safety needle device, and a plunger stopper (bromobutyl rubber), plunger rod and rigid needle shield (RNS).
+0.5 mL solution for injection in a pre-filled type I glass 1 mL syringe with a fixed 29-gauge needle, extended finger flanges and passive safety needle device, and a plunger stopper (bromobutyl rubber), plunger rod and rigid needle shield (RNS).
 
 Pack size: 1 pre-filled syringe
 
 ## Uzpruvo 90 mg solution for injection in pre-filled syringe
 
-1 mL solution for injection in a pre-filled syringe type I glass 1 mL syringe with a fixed 29-gauge needle, extended finger flanges and passive needle, safety device and a plunger stopper (bromobutyl rubber) , plunger rod and rigid needle shield (RNS).
+1 mL solution for injection in a pre-filled type I glass 1 mL syringe with a fixed 29-gauge needle, extended finger flanges and passive safety needle device and a plunger stopper (bromobutyl rubber) , plunger rod and rigid needle shield (RNS).
 
 Pack sizes: 1 or 2 pre-filled syringe(s).
 
@@ -1814,7 +1802,9 @@ VIAL OUTER CARTON (45 mg)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Uzpruvo 45 mg solution for injection ustekinumab
+Uzpruvo 45 mg solution for injection
+
+ustekinumab
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -3732,9 +3722,7 @@ Tel.: +31 765081000
 
 ## Norge
 
-STADA Nordic ApS
-
-Tlf: +45 44859999
+STADA Nordic ApS Tlf: +45 44859999
 
 ## Österreich
 
@@ -3794,7 +3782,9 @@ STADA Nordic ApS Tel: +45 44859999
 
 ## Uzpruvo 45 mg solution for injection in pre-filled syringe
 
-ustekinumab for subcutaneous use
+ustekinumab
+
+for subcutaneous use
 
 ## Read carefully these instructions for use before using Uzpruvo solution for injection in pre-filled syringe.
 
@@ -4278,9 +4268,7 @@ België/Belgique/Belgien EG (Eurogenerics) NV Tél/Tel: +32 24797878
 
 България STADA Bulgaria EOOD Teл.: +359 29624626
 
-Česká republika STADA PHARMA CZ s.r.o.
-
-Tel: +420 257888111
+Česká republika STADA PHARMA CZ s.r.o. Tel: +420 257888111
 
 ## Danmark
 
@@ -4418,7 +4406,9 @@ Tel: +45 44859999
 
 ## INSTRUCTION FOR USE
 
-Uzpruvo 90 mg solution for injection in pre-filled syringe ustekinumab
+## Uzpruvo 90 mg solution for injection in pre-filled syringe
+
+ustekinumab
 
 for subcutaneous use
 

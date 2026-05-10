@@ -1,20 +1,20 @@
 ---
-document_datetime: 2023-09-21 21:32:56
-document_pages: 87
+document_datetime: 2026-05-08 15:58:18
+document_pages: 85
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/olanzapine-glenmark-europe-epar-product-information_en.pdf
 document_name: olanzapine-glenmark-europe-epar-product-information_en.pdf
 version: success
-processing_time: 18.7566129
-conversion_datetime: 2025-12-30 09:30:39.457668
+processing_time: 21.8114595
+conversion_datetime: 2026-05-10 13:09:47.997837
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.17.0
+  docling-jobkit: 1.18.0
+  docling: 2.92.0
+  docling-core: 2.74.1
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.10.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -66,7 +66,7 @@ During treatment for schizophrenia, manic episode and recurrence prevention in b
 
 <div style=\"page-break-after: always\"></div>
 
-Olanzapine Glenmark Europe orodispersible tablets should be placed in the mouth, where it will rapidly disperse in saliva, so it can be easily swallowed. Alternatively, it may be dispersed in a full glass of water or other suitable beverage (orange juice, apple juice, milk or coffee) immediately before  administration.
+Olanzapine Glenmark Europe orodispersible tablets should be placed in the mouth, where it will rapidly disperse in saliva, so it can be easily swallowed. Alternatively, it may be dispersed in a full glass of water or other suitable beverage (orange juice, apple juice, milk or coffee) immediately before administration.
 
 ## Special populations
 
@@ -100,13 +100,11 @@ During antipsychotic treatment, improvement in the patient's clinical condition 
 
 ## Dementia-related psychosis and/or behavioural disturbances
 
-Olanzapine is not recommended for use in patients with dementia-related psychosis and/or behavioural disturbances because of an increase in mortality and the risk of cerebrovascular accident. In placebo-controlled clinical trials (6-12 weeks duration) of elderly patients (mean age 78 years) with dementia-related psychosis and/or disturbed behaviours, there was a 2-fold increase in the incidence of death in olanzapine-treated patients compared to patients treated with placebo (3.5 % versus 1.5 %, respectively). The higher incidence of death was not associated with olanzapine dose (mean daily dose 4.4 mg) or duration of treatment.
+Olanzapine is not recommended for use in patients with dementia-related psychosis and/or behavioural disturbances because of an increase in mortality and the risk of cerebrovascular accident. In placebocontrolled clinical trials (6-12 weeks duration) of elderly patients (mean age 78 years) with dementiarelated psychosis and/or disturbed behaviours, there was a 2-fold increase in the incidence of death in olanzapine-treated patients compared to patients treated with placebo (3.5 % versus 1.5 %, respectively). The higher incidence of death was not associated with olanzapine dose (mean daily dose 4.4 mg) or duration of treatment.
 
-Risk factors that may predispose this patient population to increased mortality include age &gt; 65 years, dysphagia, sedation, malnutrition and dehydration, pulmonary conditions (e.g., pneumonia, with or
+Risk factors that may predispose this patient population to increased mortality include age &gt; 65 years, dysphagia, sedation, malnutrition and dehydration, pulmonary conditions (e.g., pneumonia, with or without aspiration), or concomitant use of benzodiazepines. However, the incidence of death was higher in olanzapine-treated than in placebo-treated patients independent of these risk factors.
 
 <div style=\"page-break-after: always\"></div>
-
-without aspiration), or concomitant use of benzodiazepines. However, the incidence of death was higher in olanzapine-treated than in placebo-treated patients independent of these risk factors.
 
 In the same clinical trials, cerebrovascular adverse events (CVAE e.g., stroke, transient ischemic attack), including fatalities, were reported. There was a 3-fold increase in CVAE in patients treated with olanzapine compared to patients treated with placebo (1.3 % versus 0.4 %, respectively). All olanzapine and placebo-treated patients who experienced a cerebrovascular event had pre-existing risk factors. Age &gt; 75 years and vascular/mixed type dementia were identified as risk factors for CVAE in association with olanzapine treatment. The efficacy of olanzapine was not established in these trials.
 
@@ -130,11 +128,11 @@ Undesirable alterations in lipids have been observed in olanzapine-treated patie
 
 While olanzapine demonstrated anticholinergic activity in vitro , experience during the clinical trials revealed a low incidence of related events. However, as clinical experience with olanzapine in patients with concomitant illness is limited, caution is advised when prescribing for patients with prostatic hypertrophy, or paralytic ileus and related conditions.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Hepatic function
 
 Transient, asymptomatic elevations of hepatic aminotransferases, alanine transferase (ALT), aspartate transferase (AST) have been seen commonly, especially in early treatment. Caution should be exercised and follow-up organised in patients with elevated ALT and/or AST, in patients with signs and symptoms of hepatic impairment, in patients with pre-existing conditions associated with limited hepatic functional reserve, and in patients who are being treated with potentially hepatotoxic medicines. In cases where hepatitis (including hepatocellular, cholestatic or mixed liver injury) has been diagnosed, olanzapine treatment should be discontinued.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Neutropenia
 
@@ -142,15 +140,15 @@ Caution should be exercised in patients with low leukocyte and/or neutrophil cou
 
 ## Discontinuation of treatment
 
-Acute symptoms such as sweating, insomnia, tremor, anxiety, nausea, or vomiting have been reported rarely (≥ 0.01% and &lt; 0.1%) when olanzapine is stopped abruptly.
+Acute symptoms such as sweating, insomnia, tremor, anxiety, nausea, or vomiting have been reported rarely ( ≥ 0.01% and &lt; 0.1% ) when olanzapine is stopped abruptly.
 
 ## QT interval
 
-In clinical trials, clinically meaningful QTc prolongations (Fridericia QT correction [QTcF] ≥ 500 milliseconds [msec] at any time post baseline in patients with baseline QTcF &lt; 500 msec) were uncommon (0.1 % to 1 %) in patients treated with olanzapine, with no significant differences in associated cardiac events compared to placebo. However, caution should be exercised when olanzapine is prescribed with medicines known to increase QTc interval, especially in the elderly, in patients with congenital long QT syndrome, congestive heart failure, heart hypertrophy, hypokalaemia or hypomagnesaemia.
+In clinical trials, clinically meaningful QTc prolongations (Fridericia QT correction [QTcF] ≥ 500 milliseconds [msec] at any time post baseline in patients with baseline QTcF &lt; 500 msec ) were uncommon (0.1 % to 1 %) in patients treated with olanzapine, with no significant differences in associated cardiac events compared to placebo. However, caution should be exercised when olanzapine is prescribed with medicines known to increase QTc interval, especially in the elderly, in patients with congenital long QT syndrome, congestive heart failure, heart hypertrophy, hypokalaemia or hypomagnesaemia.
 
 ## Thromboembolism
 
-Temporal association of olanzapine treatment and venous thromboembolism has been reported uncommonly (≥ 0.1% and &lt; 1%). A causal relationship between the occurrence of venous thromboembolism and treatment with olanzapine has not been established. However, since patients with schizophrenia often present with acquired risk factors for venous thromboembolism all possible risk factors of VTE e.g. immobilisation of patients, should be identified and preventive measures undertaken.
+Temporal association of olanzapine treatment and venous thromboembolism has been reported uncommonly (≥ 0.1% and &lt; 1%) . A causal relationship between the occurrence of venous thromboembolism and treatment with olanzapine has not been established. However, since patients with schizophrenia often present with acquired risk factors for venous thromboembolism all possible risk factors of VTE e.g. immobilisation of patients, should be identified and preventive measures undertaken.
 
 ## General CNS activity
 
@@ -164,11 +162,11 @@ Olanzapine should be used cautiously in patients who have a history of seizures 
 
 In comparator studies of one year or less duration, olanzapine was associated with a statistically significant lower incidence of treatment emergent dyskinesia. However the risk of tardive dyskinesia increases with long term exposure, and therefore if signs or symptoms of tardive dyskinesia appear in a patient on olanzapine, a dose reduction or discontinuation should be considered. These symptoms can temporally deteriorate or even arise after discontinuation of treatment.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Postural hypotension
 
 Postural hypotension was infrequently observed in the elderly in olanzapine clinical trials. It is recommended that blood pressure is measured periodically in patients over 65 years.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Sudden cardiac death
 
@@ -212,9 +210,9 @@ Fluoxetine (a CYP2D6 inhibitor), single doses of antacid (aluminium, magnesium) 
 
 Olanzapine may antagonise the effects of direct and indirect dopamine agonists.
 
-<div style=\"page-break-after: always\"></div>
-
 Olanzapine does not inhibit the main CYP450 isoenzymes in vitro (e.g. 1A2, 2D6, 2C9, 2C19, 3A4). Thus no particular interaction is expected as verified through in vivo studies where no inhibition of metabolism of the following active substances was found: tricyclic antidepressant (representing mostly CYP2D6 pathway), warfarin (CYP2C9), theophylline (CYP1A2) or diazepam (CYP3A4 and 2C19).
+
+<div style=\"page-break-after: always\"></div>
 
 Olanzapine showed no interaction when co-administered with lithium or biperiden.
 
@@ -256,83 +254,68 @@ No studies on the effects on the ability to drive and use machines have been per
 
 ## Adults
 
-The most frequently (seen in ≥ 1 % of patients) reported adverse reactions associated with the use of
+The most frequently (seen in ≥ 1 % of patients) reported adverse reactions associated with the use of olanzapine in clinical trials were somnolence, weight gain, eosinophilia, elevated prolactin, cholesterol, glucose and triglyceride levels (see section 4.4), glucosuria, increased appetite, dizziness, akathisia, parkinsonism, leukopenia, neutropenia (see section 4.4), dyskinesia, orthostatic hypotension, anticholinergic effects, transient asymptomatic elevations of hepatic aminotransferases (see section 4.4), rash, asthenia, fatigue, pyrexia, arthralgia, increased alkaline phosphatase, high gamma glutamyltransferase, high uric acid, high creatine phosphokinase and oedema.
 
 <div style=\"page-break-after: always\"></div>
-
-olanzapine in clinical trials were somnolence, weight gain, eosinophilia, elevated prolactin, cholesterol, glucose and triglyceride levels (see section 4.4), glucosuria, increased appetite, dizziness, akathisia, parkinsonism, leukopenia, neutropenia (see section 4.4), dyskinesia, orthostatic hypotension, anticholinergic effects, transient asymptomatic elevations of hepatic aminotransferases (see section 4.4), rash, asthenia, fatigue, pyrexia, arthralgia, increased alkaline phosphatase, high gamma glutamyltransferase, high uric acid, high creatine phosphokinase and oedema.
 
 ## Tabulated list of adverse reactions
 
-The following table lists the adverse reactions and laboratory investigations observed from spontaneous reporting and in clinical trials. Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness. The frequency terms listed are defined as follows: Very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), uncommon (≥ 1/1,000 &lt; 1/100), rare (≥ 1/10,000 to&lt; 1/1,000), very rare (&lt; 1/10,000), not known (cannot be estimated from the data available).
+The following table lists the adverse reactions and laboratory investigations observed from spontaneous reporting and in clinical trials. Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness. The frequency terms listed are defined as follows: Very common (≥ 1/ 10), common (≥ 1 /100 to &lt; 1/1 0), uncommon (≥ 1 /1,000 &lt; 1 /100 ), rare (≥ 1 /10,000 to &lt; 1/1,000 ), very rare (&lt; 1 /10,000), not known (cannot be estimated from the data available).
 
-| Very common                              | Common                                                                                                                   | Uncommon                                                                                                                                                                                                                  | Rare                                                                               | Not known   |
-|------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|-------------|
-| Blood and the lymphatic system disorders | Blood and the lymphatic system disorders                                                                                 | Blood and the lymphatic system disorders                                                                                                                                                                                  | Blood and the lymphatic system disorders                                           |             |
-|                                          | Eosinophilia Leukopenia 10 Neutropenia 10                                                                                |                                                                                                                                                                                                                           | Thrombocytopenia 11                                                                |             |
-| Immune system disorders                  | Immune system disorders                                                                                                  | Immune system disorders                                                                                                                                                                                                   | Immune system disorders                                                            |             |
-|                                          |                                                                                                                          | Hypersensitivity 11                                                                                                                                                                                                       |                                                                                    |             |
-| Metabolism and nutrition disorders       | Metabolism and nutrition disorders                                                                                       | Metabolism and nutrition disorders                                                                                                                                                                                        | Metabolism and nutrition disorders                                                 |             |
-| Weight gain 1                            | Elevated cholesterol levels 2,3 Elevated glucose levels 4 Elevated triglyceride levels 2,5 Glucosuria Increased appetite | Development or exacerbation of diabetes occasionally associated with ketoacidosis or coma, including some fatal cases (see section 4.4) 11                                                                                | Hypothermia 12                                                                     |             |
-| Nervous system disorders                 | Nervous system disorders                                                                                                 | Nervous system disorders                                                                                                                                                                                                  | Nervous system disorders                                                           |             |
-| Somnolence                               | Dizziness Akathisia 6 Parkinsonism 6 Dyskinesia 6                                                                        | Seizures where in most cases a history of seizures or risk factors for seizures were reported 11 Dystonia (including oculogyration) 11 Tardive dyskinesia 11 Amnesia 9 Dysarthria Stuttering 11 Restless Legs Syndrome 11 | Neuroleptic malignant syndrome (see section 4.4) 12 Discontinuation symptoms 7, 12 |             |
-| Cardiac disorders                        | Cardiac disorders                                                                                                        | Cardiac disorders                                                                                                                                                                                                         | Cardiac disorders                                                                  |             |
-|                                          |                                                                                                                          | Bradycardia QT c prolongation (see section 4.4)                                                                                                                                                                           | Ventricular tachycardia/fibrillation, sudden death (see section 4.4) 11            |             |
-| Vascular disorders                       | Vascular disorders                                                                                                       | Vascular disorders                                                                                                                                                                                                        | Vascular disorders                                                                 |             |
-| Orthostatic                              |                                                                                                                          | Thromboembolism                                                                                                                                                                                                           |                                                                                    |             |
-
-<div style=\"page-break-after: always\"></div>
-
-| hypotension 10                                       |                                                                                                                             | (including pulmonary embolism and deep vein thrombosis) (see section 4.4)                                 |                                                                            |                                                               |
-|------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|---------------------------------------------------------------|
-| Respiratory, thoracic and mediastinal disorders      | Respiratory, thoracic and mediastinal disorders                                                                             | Respiratory, thoracic and mediastinal disorders                                                           | Respiratory, thoracic and mediastinal disorders                            |                                                               |
-| Epistaxis 9 Gastrointestinal                         | Epistaxis 9 Gastrointestinal                                                                                                | Epistaxis 9 Gastrointestinal                                                                              | Epistaxis 9 Gastrointestinal                                               |                                                               |
-|                                                      | disorders Mild, transient anticholinergic effects including constipation and dry mouth                                      | Abdominal distension 9 Salivary hypersecretion 11                                                         | Pancreatitis 11                                                            |                                                               |
-| Hepatobiliary disorders                              | Hepatobiliary disorders                                                                                                     | Hepatobiliary disorders                                                                                   | Hepatobiliary disorders                                                    | Hepatobiliary disorders                                       |
-|                                                      | Transient, asymptomatic elevations of hepatic aminotransferases (ALT, AST), especially in early treatment (see section 4.4) |                                                                                                           | Hepatitis (including hepatocellular, cholestatic or mixed liver injury) 11 |                                                               |
-| Skin and subcutaneous tissue disorders               | Skin and subcutaneous tissue disorders                                                                                      | Skin and subcutaneous tissue disorders                                                                    | Skin and subcutaneous tissue disorders                                     | Skin and subcutaneous tissue disorders                        |
-|                                                      | Rash                                                                                                                        | Photosensitivity reaction Alopecia                                                                        |                                                                            | Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) |
-| Musculoskeletal and connective tissue disorders      | Musculoskeletal and connective tissue disorders                                                                             | Musculoskeletal and connective tissue disorders                                                           | Musculoskeletal and connective tissue disorders                            | Musculoskeletal and connective tissue disorders               |
-|                                                      | Arthralgia 9                                                                                                                |                                                                                                           | Rhabdomyolysis 11                                                          |                                                               |
-| Renal and urinary disorders                          | Renal and urinary disorders                                                                                                 | Renal and urinary disorders                                                                               | Renal and urinary disorders                                                | Renal and urinary disorders                                   |
-|                                                      |                                                                                                                             | Urinary incontinence, urinary retention Urinary hesitation 11                                             |                                                                            |                                                               |
-| Pregnancy, puerperium and perinatal conditions       | Pregnancy, puerperium and perinatal conditions                                                                              | Pregnancy, puerperium and perinatal conditions                                                            | Pregnancy, puerperium and perinatal conditions                             | Pregnancy, puerperium and perinatal conditions                |
-| Reproductive                                         | system and breast Erectile dysfunction in males Decreased libido in males and females                                       | disorders Amenorrhea Breast enlargement Galactorrhea in females Gynaecomastia/breast enlargement in males | Priapism 12                                                                | syndrome neonatal (see section 4.6)                           |
-| General disorders and administration site conditions | General disorders and administration site conditions                                                                        | General disorders and administration site conditions                                                      | General disorders and administration site conditions                       | General disorders and administration site conditions          |
-|                                                      | Asthenia Fatigue Oedema                                                                                                     |                                                                                                           |                                                                            |                                                               |
+| Very common                                     | Common                                                                                                                   | Uncommon                                                                                                                                                                                                                  | Rare                                                                               | Not known   |
+|-------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|-------------|
+| Blood and the lymphatic system disorders        | Blood and the lymphatic system disorders                                                                                 | Blood and the lymphatic system disorders                                                                                                                                                                                  | Blood and the lymphatic system disorders                                           |             |
+|                                                 | Eosinophilia Leukopenia 10 Neutropenia 10                                                                                |                                                                                                                                                                                                                           | Thrombocytopenia 11                                                                |             |
+| Immune system disorders                         | Immune system disorders                                                                                                  |                                                                                                                                                                                                                           |                                                                                    |             |
+|                                                 |                                                                                                                          | Hypersensitivity 11                                                                                                                                                                                                       |                                                                                    |             |
+| Metabolism and nutrition disorders              | Metabolism and nutrition disorders                                                                                       | Metabolism and nutrition disorders                                                                                                                                                                                        | Metabolism and nutrition disorders                                                 |             |
+| Weight gain 1                                   | Elevated cholesterol levels 2,3 Elevated glucose levels 4 Elevated triglyceride levels 2,5 Glucosuria Increased appetite | Development or exacerbation of diabetes occasionally associated with ketoacidosis or coma, including some fatal cases (see section 4.4) 11                                                                                | Hypothermia 12                                                                     |             |
+| Nervous system disorders                        | Nervous system disorders                                                                                                 |                                                                                                                                                                                                                           |                                                                                    |             |
+| Somnolence                                      | Dizziness Akathisia 6 Parkinsonism 6 Dyskinesia 6                                                                        | Seizures where in most cases a history of seizures or risk factors for seizures were reported 11 Dystonia (including oculogyration) 11 Tardive dyskinesia 11 Amnesia 9 Dysarthria Stuttering 11 Restless Legs Syndrome 11 | Neuroleptic malignant syndrome (see section 4.4) 12 Discontinuation symptoms 7, 12 |             |
+| Cardiac disorders                               | Cardiac disorders                                                                                                        |                                                                                                                                                                                                                           |                                                                                    |             |
+|                                                 |                                                                                                                          | Bradycardia QT c prolongation (see section 4.4)                                                                                                                                                                           | Ventricular tachycardia/fibrillation, sudden death (see section 4.4) 11            |             |
+| Vascular disorders                              | Vascular disorders                                                                                                       |                                                                                                                                                                                                                           |                                                                                    |             |
+| Orthostatic hypotension 10                      |                                                                                                                          | Thromboembolism (including pulmonary embolism and deep vein thrombosis) (see section 4.4)                                                                                                                                 |                                                                                    |             |
+| Respiratory, thoracic and mediastinal disorders | Respiratory, thoracic and mediastinal disorders                                                                          | Respiratory, thoracic and mediastinal disorders                                                                                                                                                                           | Respiratory, thoracic and mediastinal disorders                                    |             |
+| Epistaxis 9                                     | Epistaxis 9                                                                                                              | Epistaxis 9                                                                                                                                                                                                               | Epistaxis 9                                                                        |             |
+| Gastrointestinal disorders                      | Gastrointestinal disorders                                                                                               | Gastrointestinal disorders                                                                                                                                                                                                | Gastrointestinal disorders                                                         |             |
 
 <div style=\"page-break-after: always\"></div>
 
-|                                    | Pyrexia 10                                                                                                           |                           |                |                |
-|------------------------------------|----------------------------------------------------------------------------------------------------------------------|---------------------------|----------------|----------------|
-| Investigations                     | Investigations                                                                                                       | Investigations            | Investigations | Investigations |
-| Elevated plasma prolactin levels 8 | Increased alkaline phosphatase 10 High creatine phosphokinase 11 High Gamma Glutamyltransferase 10 High uric acid 10 | Increased total bilirubin |                |                |
-
-1 Clinically significant weight gain was observed across all baseline Body Mass Index (BMI) categories. Following short term treatment (median duration 47 days), weight gain ≥ 7 % of baseline body weight was very common (22.2%), ≥ 15% was common (4.2%) and ≥25% was uncommon (0.8%). Patients gaining ≥7%, ≥15% and ≥25% of their baseline body weight with long-termexposure (at least 48 weeks) were very common (64.4 %, 31.7 % and 12.3 % respectively).
-
-2 Mean increases in fasting lipid values (total cholesterol, LDL cholesterol, and triglycerides) were greater in patients without evidence of lipid dysregulation at baseline.
-
-3 Observed for fasting normal levels at baseline (&lt; 5.17 mmol/l) which increased to high (≥ 6.2 mmol/l). Changes in total fasting cholesterol levels from borderline at baseline (≥ 5.17- &lt; 6.2 mmol/l) to high (≥ 6.2 mmol/l) were very common.
-
-4 Observed for fasting normal levels at baseline (&lt; 5.56 mmol/l) which increased to high (≥ 7 mmol/l). Changes in fasting glucose from borderline at baseline (≥ 5.56 - &lt; 7 mmol/l) to high (≥ 7 mmol/l) were very common.
-
-5 Observed for fasting normal levels at baseline (&lt; 1.69 mmol/l) which increased to high (≥ 2.26 mmol/l). Changes in fasting triglycerides from borderline at baseline (≥ 1.69 mmol/l - &lt; 2.26 mmol/l) to high (≥ 2.26 mmol/l) were very common.
-
-6 In clinical trials, the incidence of Parkinsonism and dystonia in olanzapine-treated patients was numerically higher, but not statistically significantly different from placebo. Olanzapine-treated patients had a lower incidence of Parkinsonism, akathisia and dystonia compared with titrated doses of haloperidol. In the absence of detailed information on the pre-existing history of individual acute and tardive extrapyramidal movement disorders, it cannot be concluded at present that olanzapine produces less tardive dyskinesia and/or other tardive extrapyramidal syndromes.
-
-7 Acute symptoms such as sweating, insomnia, tremor, anxiety, nausea and vomiting have been reported when olanzapine is stopped abruptly.
-
-8 In clinical trials of up to 12 weeks, plasma prolactin concentrations exceeded the upper limit of normal range in approximately 30% of olanzapine treated patients with normal baseline prolactin value. In the majority of these patients the elevations were generally mild, and remained below two times the upper limit of normal range.
-
-9 Adverse event identified from clinical trials in the Olanzapine Integrated Database.
-
-10 As assessed by measured values from clinical trials in the Olanzapine Integrated Database.
-
-11 Adverse event identified from spontaneous post-marketing reporting with frequency determined utilising the Olanzapine Integrated Database.
-
-12 Adverse event identified from spontaneous post-marketing reporting with frequency estimated at the upper limit of the 95% confidence interval utilising the Olanzapine Integrated Database.
+|                                                      | Mild, transient anticholinergic effects including constipation and dry mouth                                                | Abdominal distension 9 Salivary hypersecretion 11                                               | Pancreatitis 11                                                            |                                                               |
+|------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|---------------------------------------------------------------|
+| Hepatobiliary disorders                              | Hepatobiliary disorders                                                                                                     | Hepatobiliary disorders                                                                         | Hepatobiliary disorders                                                    | Hepatobiliary disorders                                       |
+|                                                      | Transient, asymptomatic elevations of hepatic aminotransferases (ALT, AST), especially in early treatment (see section 4.4) |                                                                                                 | Hepatitis (including hepatocellular, cholestatic or mixed liver injury) 11 |                                                               |
+| Skin and subcutaneous tissue disorders               | Skin and subcutaneous tissue disorders                                                                                      | Skin and subcutaneous tissue disorders                                                          | Skin and subcutaneous tissue disorders                                     | Skin and subcutaneous tissue disorders                        |
+|                                                      | Rash                                                                                                                        | Photosensitivity reaction Alopecia                                                              |                                                                            | Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) |
+| Musculoskeletal and connective tissue disorders      | Musculoskeletal and connective tissue disorders                                                                             | Musculoskeletal and connective tissue disorders                                                 | Musculoskeletal and connective tissue disorders                            | Musculoskeletal and connective tissue disorders               |
+|                                                      | Arthralgia 9                                                                                                                |                                                                                                 | Rhabdomyolysis 11                                                          |                                                               |
+| Renal and urinary disorders                          | Renal and urinary disorders                                                                                                 | Renal and urinary disorders                                                                     | Renal and urinary disorders                                                | Renal and urinary disorders                                   |
+| Pregnancy, puerperium                                | and perinatal                                                                                                               | Urinary incontinence, urinary retention Urinary hesitation 11 conditions                        |                                                                            | Drug withdrawal syndrome neonatal (see section 4.6)           |
+| Reproductive system and breast disorders             | Reproductive system and breast disorders                                                                                    | Reproductive system and breast disorders                                                        | Reproductive system and breast disorders                                   | Reproductive system and breast disorders                      |
+|                                                      | Erectile dysfunction in males Decreased libido in males and females                                                         | Amenorrhea Breast enlargement Galactorrhea in females Gynaecomastia/breast enlargement in males | Priapism 12                                                                |                                                               |
+| General disorders and administration site conditions | General disorders and administration site conditions                                                                        | General disorders and administration site conditions                                            | General disorders and administration site conditions                       | General disorders and administration site conditions          |
+|                                                      | Asthenia Fatigue Oedema Pyrexia 10                                                                                          |                                                                                                 |                                                                            |                                                               |
+| Investigations                                       | Investigations                                                                                                              | Investigations                                                                                  | Investigations                                                             | Investigations                                                |
+| Elevated plasma prolactin levels 8                   | Increased alkaline phosphatase 10 High creatine phosphokinase 11 High Gamma Glutamyltransferase                             | Increased total bilirubin                                                                       |                                                                            |                                                               |
 
 <div style=\"page-break-after: always\"></div>
+
+| 10 High uric acid 10   |
+|------------------------|
+
+- 1 Clinically significant weight gain was observed across all baseline Body Mass Index (BMI) categories. Following short term treatment (median duration 47 days), weight gain ≥ 7 % of baseline body weight was very common (22.2%), ≥ 15% was common (4.2%) and ≥25% was uncommon (0.8%) . Patients gaining ≥7%, ≥15% and ≥25% of their baseline body weight with long-term-exposure (at least 48 weeks) were very common (64.4 %, 31.7 % and 12.3 % respectively).
+- 2 Mean increases in fasting lipid values (total cholesterol, LDL cholesterol, and triglycerides) were greater in patients without evidence of lipid dysregulation at baseline.
+- 3 Observed for fasting normal levels at baseline (&lt; 5.17 mmol/l) which increased to high ( ≥ 6.2 mmol/l). Changes in total fasting cholesterol levels from borderline at baseline (≥ 5.17 -&lt; 6.2 mmol/l) to high (≥ 6.2 mmol/l) were very common.
+- 4 Observed for fasting normal levels at baseline (&lt; 5.56 mmol/l) which increased to high (≥ 7 mmol/l). Changes in fasting glucose from borderline at baseline (≥ 5.56 -&lt; 7 mmol/l) to high (≥ 7 mmol/l) were very common.
+- 5 Observed for fasting normal levels at baseline (&lt; 1.69 mmol/l) which increased to high (≥ 2.26 mmol/l). Changes in fasting triglycerides from borderline at baseline (≥ 1.69 mmol/l -&lt; 2.26 mmol/l) to high (≥ 2.26 mmol/l) were very common.
+- 6 In clinical trials, the incidence of Parkinsonism and dystonia in olanzapine-treated patients was numerically higher, but not statistically significantly different from placebo. Olanzapine-treated patients had a lower incidence of Parkinsonism, akathisia and dystonia compared with titrated doses of haloperidol. In the absence of detailed information on the pre-existing history of individual acute and tardive extrapyramidal movement disorders, it cannot be concluded at present that olanzapine produces less tardive dyskinesia and/or other tardive extrapyramidal syndromes.
+- 7 Acute symptoms such as sweating, insomnia, tremor, anxiety, nausea and vomiting have been reported when olanzapine is stopped abruptly.
+- 8 In clinical trials of up to 12 weeks, plasma prolactin concentrations exceeded the upper limit of normal range in approximately 30% of olanzapine treated patients with normal baseline prolactin value. In the majority of these patients the elevations were generally mild, and remained below two times the upper limit of normal range.
+- 9 Adverse event identified from clinical trials in the Olanzapine Integrated Database.
+- 10 As assessed by measured values from clinical trials in the Olanzapine Integrated Database.
+- 11 Adverse event identified from spontaneous post-marketing reporting with frequency determined utilising the Olanzapine Integrated Database.
+- 12 Adverse event identified from spontaneous post-marketing reporting with frequency estimated at the upper limit of the 95% confidence interval utilising the Olanzapine Integrated Database.
 
 ## Long-term exposure (at least 48 weeks)
 
@@ -342,19 +325,21 @@ The proportion of patients who had adverse, clinically significant changes in we
 
 In clinical trials in elderly patients with dementia, olanzapine treatment was associated with a higher incidence of death and cerebrovascular adverse reactions compared to placebo (see section 4.4). Very common adverse reactions associated with the use of olanzapine in this patient group were abnormal gait and falls. Pneumonia, increased body temperature, lethargy, erythema, visual hallucinations and urinary incontinence were observed commonly.
 
+<div style=\"page-break-after: always\"></div>
+
 In clinical trials in patients with drug-induced (dopamine agonist) psychosis associated with Parkinson's disease, worsening of Parkinsonian symptomatology and hallucinations were reported very commonly and more frequently than with placebo.
 
-In one clinical trial in patients with bipolar mania, valproate combination therapy with olanzapine resulted in an incidence of neutropenia of 4.1 %; a potential contributing factor could be high plasma valproate levels. Olanzapine administered with lithium or valproate resulted in increased levels (≥ 10 %) of tremor, dry mouth, increased appetite, and weight gain. Speech disorder was also reported commonly. During treatment with olanzapine in combination with lithium or divalproex, an increase of ≥ 7 % from baseline body weight occurred in 17.4 % of patients during acute treatment (up to 6 weeks). Long-term olanzapine treatment (up to 12 months) for recurrence prevention in patients with bipolar disorder was associated with an increase of ≥ 7 % from baseline body weight in 39.9 % of patients.
+In one clinical trial in patients with bipolar mania, valproate combination therapy with olanzapine resulted in an incidence of neutropenia of 4.1 %; a potential contributing factor could be high plasma valproate levels. Olanzapine administered with lithium or valproate resulted in increased levels (≥ 10 %) of tre mor, dry mouth, increased appetite, and weight gain. Speech disorder was also reported commonly. During treatment with olanzapine in combination with lithium or divalproex, an increase of ≥ 7 % from baseline body weight occurred in 17.4 % of patients durin g acute treatment (up to 6 weeks). Long-term olanzapine treatment (up to 12 months) for recurrence prevention in patients with bipolar disorder was associated with an increase of ≥ 7 % from baseline body weight in 39.9 % of patients.
 
 ## Paediatric population
 
 Olanzapine is not indicated for the treatment of children and adolescent patients below 18 years. Although no clinical studies designed to compare adolescents to adults have been conducted, data from the adolescent trials were compared to those of the adult trials.
 
-The following table summarises the adverse reactions reported with a greater frequency in adolescent patients (aged 13-17 years) than in adult patients or adverse reactions only identified during shortterm clinical trials in adolescent patients.
+The following table summarises the adverse reactions reported with a greater frequency in adolescent patients (aged 13-17 years) than in adult patients or adverse reactions only identified during short-term clinical trials in adolescent patients.
 
 Clinically significant weight gain (≥ 7 %) appears to occur more frequently in the adolescent population compared to adults with comparable exposures. The magnitude of weight gain and the proportion of adolescent patients who had clinically significant weight gain were greater with longterm exposure (at least 24 weeks) than with short-term exposure.
 
-Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness. The frequency terms listed are defined as follows: Very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10).
+Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness. The frequency terms listed are defined as follows: Very common ( ≥ 1/ 10), common (≥ 1 /100 to &lt; 1/10).
 
 | Metabolism and nutrition disorders Very common: Weight gain 13 , elevated triglyceride levels 14 , increased appetite. Common: Elevated cholesterol levels 15   |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -365,11 +350,7 @@ Within each frequency grouping, adverse reactions are presented in order of decr
 
 <div style=\"page-break-after: always\"></div>
 
-13 Following short term treatment (median duration 22 days), weight gain ≥ 7 % of baseline body weight (kg) was very common (40.6 %), ≥ 15 % of baseline body weight was common (7.1 %) and ≥ 25 % was common (2.5 %). With long-term exposure (at least 24 weeks), 89.4 % gained ≥ 7 %, 55.3 % gained ≥ 15 % and 29.1 % gained ≥ 25% of their baseline body weight.
-
-14 Observed for fasting normal levels at baseline (&lt; 1.016 mmol/l) which increased to high (≥ 1.467 mmol/l) and changes in fasting triglycerides from borderline at baseline (≥ 1.016 mmol/l &lt; 1.467 mmol/l) to high (≥ 1.467 mmol/l).
-
-15 Changes in total fasting cholesterol levels from normal at baseline (&lt; 4.39 mmol/l) to high (≥ 5.17 mmol/l) were observed commonly. Changes in total fasting cholesterol levels from borderline at baseline (≥ 4.39 - &lt; 5.17 mmol/l) to high (≥ 5.17 mmol/l) were very common.
+15 Changes in total fasting cholesterol levels from normal at baseline (&lt; 4.39 mmol/l) to high (≥ 5.17 mmol/l) were observed commonly. Changes in total fasting cholesterol levels from borderline at baseline (≥ 4.39 -&lt; 5.17 mmol/l) to high (≥ 5.17 mmol/l) were very common.
 
 16 Elevated plasma prolactin levels were reported in 47.4 % of adolescent patients.
 
@@ -397,13 +378,13 @@ Symptomatic treatment and monitoring of vital organ function should be institute
 
 Pharmacotherapeutic group: psycholeptics, diazepines, oxazepines, thiazepines and oxepines, ATC code N05A H03.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Pharmacodynamic effects
 
 Olanzapine is an antipsychotic, antimanic and mood stabilising agent that demonstrates a broad pharmacologic profile across a number of receptor systems.
 
-In preclinical studies, olanzapine exhibited a range of receptor affinities (Ki&lt; 100 nM) for serotonin 5 HT2A/2C, 5 HT3, 5 HT6; dopamine D1, D2, D3, D4, D5; cholinergic muscarinic receptors M1-M5; α 1 adrenergic; and histamine H1 receptors. Animal behavioural studies with olanzapine indicated 5 HT, dopamine, and cholinergic antagonism, consistent with the receptor-binding profile. Olanzapine demonstrated a greater in vitro affinity for serotonin 5 HT2 than dopamine D2 receptors and greater 5HT2 than D2 activity in vivo , models. Electrophysiological studies demonstrated that olanzapine selectively reduced the firing of mesolimbic (A10) dopaminergic neurons, while having little effect on the striatal (A9) pathways involved in motor function. Olanzapine reduced a conditioned avoidance response, a test indicative of antipsychotic activity, at doses below those producing catalepsy, an effect indicative of motor side-effects. Unlike some other antipsychotic agents, olanzapine increases responding in an 'anxiolytic' test.
+In preclinical studies, olanzapine exhibited a range of receptor affinities (Ki &lt; 100 nM) for serotonin 5 HT2A/2C, 5 HT3, 5 HT6; dopamine D1, D2, D3, D4, D5; cholinergic muscarinic receptors M1-M5; α 1 adrenergic; and histamine H1 receptors. Animal behavioural studies with olanzapine indicated 5 HT, dopamine, and cholinergic antagonism, consistent with the receptor-binding profile. Olanzapine demonstrated a greater in vitro affinity for serotonin 5 HT2 than dopamine D2 receptors and greater 5HT2 than D2 activity in vivo , models. Electrophysiological studies demonstrated that olanzapine selectively reduced the firing of mesolimbic (A10) dopaminergic neurons, while having little effect on the striatal (A9) pathways involved in motor function. Olanzapine reduced a conditioned avoidance response, a test indicative of antipsychotic activity, at doses below those producing catalepsy, an effect indicative of motor side-effects. Unlike some other antipsychotic agents, olanzapine increases responding in an 'anxiolytic' test.
+
+<div style=\"page-break-after: always\"></div>
 
 In a single oral dose (10 mg) Positron Emission Tomography (PET) study in healthy volunteers, olanzapine produced a higher 5HT2A than dopamine D2 receptor occupancy. In addition, a Single Photon Emission Computed Tomography (SPECT) imaging study in schizophrenic patients revealed that olanzapine-responsive patients had lower striatal D2 occupancy than some other antipsychotic and risperidone-responsive patients, while being comparable to clozapine-responsive patients.
 
@@ -421,11 +402,11 @@ In a second 12-month recurrence prevention study in manic episode patients who a
 
 In an 18-month co-therapy study in manic or mixed episode patients stabilised with olanzapine plus a mood stabiliser (lithium or valproate), long-term olanzapine co-therapy with lithium or valproate was not statistically significantly superior to lithium or valproate alone in delaying bipolar recurrence, defined according to syndromic (diagnostic) criteria.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Paediatric population
 
 Controlled efficacy data in adolescents (ages 13 to 17 years) are limited to short term studies in schizophrenia (6 weeks) and mania associated with bipolar I disorder (3 weeks), involving less than 200 adolescents. Olanzapine was used as a flexible dose starting with 2.5 and ranging up to 20 mg/day. During treatment with olanzapine, adolescents gained significantly more weight compared with adults. The magnitude of changes in fasting total cholesterol, LDL cholesterol, triglycerides, and prolactin (see sections 4.4 and 4.8) were greater in adolescents than in adults. There are no controlled data on maintenance of effect or long term safety (see sections 4.4 and 4.8) . Information on long term safety is primarily limited to open-label, uncontrolled data.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 5.2 Pharmacokinetic properties
 
@@ -435,7 +416,7 @@ Olanzapine is well absorbed after oral administration, reaching peak plasma conc
 
 ## Distribution
 
-The plasma protein binding of olanzapine was about 93 % over the concentration range of about 7 to about 1000 ng/ml. Olanzapine is bound predominantly to albumin and α1-acid-glycoprotein.
+The plasma protein binding of olanzapine was about 93 % over the concentration range of about 7 to about 1000 ng/ml. Olanzapine is bound predominantly to albumin and α 1-acid-glycoprotein.
 
 ## Biotransformation
 
@@ -455,17 +436,15 @@ In renally impaired patients (creatinine clearance &lt; 10 ml/min) versus health
 
 ## Hepatic impairment
 
-A small study of the effect of impaired liver function in 6 subjects with clinically significant (Childs Pugh Classification A (n = 5) and B (n = 1)) cirrhosis revealed little effect on the pharmacokinetics of orally administered olanzapine (2.5 - 7.5 mg single dose): Subjects with mild to moderate hepatic dysfunction had slightly increased systemic clearance and faster elimination half-time compared to
-
-<div style=\"page-break-after: always\"></div>
-
-subjects with no hepatic dysfunction (n = 3). There were more smokers among subjects with cirrhosis (4/6; 67 %) than among subjects with no hepatic dysfunction (0/3; 0 %).
+A small study of the effect of impaired liver function in 6 subjects with clinically significant (Childs Pugh Classification A (n = 5) and B (n = 1)) cirrhosis revealed little effect on the pharmacokinetics of orally administered olanzapine (2.5 - 7.5 mg single dose): Subjects with mild to moderate hepatic dysfunction had slightly increased systemic clearance and faster elimination half-time compared to subjects with no hepatic dysfunction (n = 3). There were more smokers among subjects with cirrhosis (4/6; 67 %) than among subjects with no hepatic dysfunction (0/3; 0 %).
 
 SmokingIn non-smoking versus smoking subjects (males and females) the mean elimination half-life was prolonged (38.6 versus 30.4 hr) and the clearance was reduced (18.6 versus 27.7 l/hr).
 
 The plasma clearance of olanzapine is lower in elderly versus young subjects, in females versus males, and in non-smokers versus smokers. However, the magnitude of the impact of age, gender, or smoking on olanzapine clearance and half-life is small in comparison to the overall variability between individuals.
 
 In a study of Caucasians, Japanese, and Chinese subjects, there were no differences in the pharmacokinetic parameters among the three populations.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Paediatric population
 
@@ -495,8 +474,6 @@ Estrous cycles were affected at doses of 1.1 mg/kg (3 times the maximum human do
 
 In the offspring of rats given olanzapine, delays in foetal development and transient decreases in offspring activity levels were seen.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Mutagenicity
 
 Olanzapine was not mutagenic or clastogenic in a full range of standard tests, which included bacterial mutation tests and in vitro and in vivo mammalian tests.
@@ -509,9 +486,13 @@ Based on the results of studies in mice and rats, it was concluded that olanzapi
 
 ## 6.1 List of excipients
 
-Microcrystalline cellulose
+Mannitol (E 421) Microcrystalline cellulose Aspartame (E 951)
 
-Mannitol (E 421) Aspartame (E 951) Crospovidone Magnesium stearate
+<div style=\"page-break-after: always\"></div>
+
+Crospovidone
+
+Magnesium stearate
 
 ## 6.2 Incompatibilities
 
@@ -523,7 +504,7 @@ Not applicable.
 
 ## 6.4 Special precautions for storage
 
-Store below 30  C.
+Store below 30 ° C.
 
 ## 6.5 Nature and contents of container
 
@@ -557,8 +538,6 @@ Date of first authorisation: 03 December 2009
 
 Date of latest renewal: 19 August 2014
 
-<div style=\"page-break-after: always\"></div>
-
 ## 10. DATE OF REVISION OF THE TEXT
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu
@@ -577,7 +556,7 @@ Excipient with known effect: Each orodispersible tablet contains 0.46 mg of aspa
 
 ## 3. PHARMACEUTICAL FORM
 
-## Orodispersible tablet
+Orodispersible tablet
 
 Yellow coloured circular flat bevelled edge tablets with 'OL' debossed on one side and 'D' debossed on one side.
 
@@ -605,7 +584,7 @@ Manic episode : The starting dose is 15 mg as a single daily dose in monotherapy
 
 Preventing recurrence in bipolar disorder : The recommended starting dose is 10 mg/day. For patients who have been receiving olanzapine for treatment of manic episode, continue therapy for preventing recurrence at the same dose. If a new manic, mixed, or depressive episode occurs, olanzapine treatment should be continued (with dose optimisation as needed), with supplementary therapy to treat mood symptoms, as clinically indicated.
 
-During treatment for schizophrenia, manic episode and recurrence prevention in bipolar disorder, daily dosage may subsequently be adjusted on the basis of individual clinical status within the range 5-20 mg/day. An increase to a dose greater than the recommended starting dose is advised only after appropriate clinical reassessment and should generally occur at intervals of not less than 24 hours. Olanzapine can be given without regards for meals as absorption is not affected by food. Gradual tapering of the dose should be considered when discontinuing olanzapine.
+During treatment for schizophrenia, manic episode and recurrence prevention in bipolar disorder, daily dosage may subsequently be adjusted on the basis of individual clinical status within the range 520 mg/day. An increase to a dose greater than the recommended starting dose is advised only after appropriate clinical reassessment and should generally occur at intervals of not less than 24 hours. Olanzapine can be given without regards for meals as absorption is not affected by food. Gradual tapering of the dose should be considered when discontinuing olanzapine.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -645,11 +624,9 @@ During antipsychotic treatment, improvement in the patient's clinical condition 
 
 Olanzapine is not recommended for use in patients with dementia-related psychosis and/or behavioural disturbances because of an increase in mortality and the risk of cerebrovascular accident.
 
-In placebo-controlled clinical trials (6-12 weeks duration) of elderly patients (mean age 78 years) with dementia-related psychosis and/or disturbed behaviours, there was a 2-fold increase in the incidence of death in olanzapine-treated patients compared to patients treated with placebo (3.5 % versus 1.5 %, respectively). The higher incidence of death was not associated with olanzapine dose (mean daily dose 4.4 mg) or duration of treatment. Risk factors that may predispose this patient population to increased mortality include age &gt; 65 years, dysphagia, sedation, malnutrition and dehydration, pulmonary conditions (e.g., pneumonia, with or without aspiration), or concomitant use of
+In placebo-controlled clinical trials (6-12 weeks duration) of elderly patients (mean age 78 years) with dementia-related psychosis and/or disturbed behaviours, there was a 2-fold increase in the incidence of death in olanzapine-treated patients compared to patients treated with placebo (3.5 % versus 1.5 %, respectively). The higher incidence of death was not associated with olanzapine dose (mean daily dose 4.4 mg) or duration of treatment. Risk factors that may predispose this patient population to increased mortality include age &gt; 65 years, dysphagia, sedation, malnutrition and dehydration, pulmonary conditions (e.g., pneumonia, with or without aspiration), or concomitant use of benzodiazepines. However, the incidence of death was higher in olanzapine-treated than in placebo-treated patients independent of these risk factors.
 
 <div style=\"page-break-after: always\"></div>
-
-benzodiazepines. However, the incidence of death was higher in olanzapine-treated than in placebotreated patients independent of these risk factors.
 
 In the same clinical trials, cerebrovascular adverse events (CVAE e.g., stroke, transient ischemic attack), including fatalities, were reported. There was a 3-fold increase in CVAE in patients treated with olanzapine compared to patients treated with placebo (1.3 % versus 0.4 %, respectively). All olanzapine and placebo-treated patients who experienced a cerebrovascular event had pre-existing risk factors. Age &gt; 75 years and vascular/mixed type dementia were identified as risk factors for CVAE in association with olanzapine treatment. The efficacy of olanzapine was not established in these trials.
 
@@ -673,11 +650,11 @@ Undesirable alterations in lipids have been observed in olanzapine-treated patie
 
 While olanzapine demonstrated anticholinergic activity in vitro , experience during the clinical trials revealed a low incidence of related events. However, as clinical experience with olanzapine in patients with concomitant illness is limited, caution is advised when prescribing for patients with prostatic hypertrophy, or paralytic ileus and related conditions.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Hepatic function
 
 Transient, asymptomatic elevations of hepatic aminotransferases, alanine transferase (ALT), aspartate transferase (AST) have been seen commonly, especially in early treatment. Caution should be exercised and follow-up organised in patients with elevated ALT and/or AST, in patients with signs and symptoms of hepatic impairment, in patients with pre-existing conditions associated with limited hepatic functional reserve, and in patients who are being treated with potentially hepatotoxic medicines. In cases where hepatitis (including hepatocellular, cholestatic or mixed liver injury) has been diagnosed, olanzapine treatment should be discontinued.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Neutropenia
 
@@ -685,7 +662,7 @@ Caution should be exercised in patients with low leukocyte and/or neutrophil cou
 
 ## Discontinuation of treatment
 
-Acute symptoms such as sweating, insomnia, tremor, anxiety, nausea, or vomiting have been reported rarely (≥0.01% and &lt; 0.1%) when olanzapine is stopped abruptly.
+Acute symptoms such as sweating, insomnia, tremor, anxiety, nausea, or vomiting have been reported rarely ( ≥0.01% and &lt; 0.1% ) when olanzapine is stopped abruptly.
 
 ## QT interval
 
@@ -693,7 +670,7 @@ In clinical trials, clinically meaningful QTc prolongations (Fridericia QT corre
 
 ## Thromboembolism
 
-Temporal association of olanzapine treatment and venous thromboembolism has been reported uncommonly (≥ 0.1% and &lt; 1%). A causal relationship between the occurrence of venous thromboembolism and treatment with olanzapine has not been established. However, since patients with schizophrenia often present with acquired risk factors for venous thromboembolism all possible risk factors of VTE e.g. immobilisation of patients, should be identified and preventive measures undertaken.
+Temporal association of olanzapine treatment and venous thromboembolism has been reported uncommonly (≥ 0.1% and &lt; 1%) . A causal relationship between the occurrence of venous thromboembolism and treatment with olanzapine has not been established. However, since patients with schizophrenia often present with acquired risk factors for venous thromboembolism all possible risk factors of VTE e.g. immobilisation of patients, should be identified and preventive measures undertaken.
 
 ## General CNS activity
 
@@ -707,11 +684,11 @@ Olanzapine should be used cautiously in patients who have a history of seizures 
 
 In comparator studies of one year or less duration, olanzapine was associated with a statistically significant lower incidence of treatment emergent dyskinesia. However the risk of tardive dyskinesia increases with long term exposure, and therefore if signs or symptoms of tardive dyskinesia appear in a patient on olanzapine, a dose reduction or discontinuation should be considered. These symptoms can temporally deteriorate or even arise after discontinuation of treatment.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Postural hypotension
 
 Postural hypotension was infrequently observed in the elderly in olanzapine clinical trials. It is recommended that blood pressure is measured periodically in patients over 65 years.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Sudden cardiac death
 
@@ -751,13 +728,11 @@ Fluoxetine (a CYP2D6 inhibitor), single doses of antacid (aluminium, magnesium) 
 
 Olanzapine may antagonise the effects of direct and indirect dopamine agonists.
 
-Olanzapine does not inhibit the main CYP450 isoenzymes in vitro (e.g. 1A2, 2D6, 2C9, 2C19, 3A4). Thus no particular interaction is expected as verified through in vivo studies where no inhibition of metabolism of the following active substances was found: tricyclic antidepressant (representing
-
-<div style=\"page-break-after: always\"></div>
-
-mostly CYP2D6 pathway), warfarin (CYP2C9), theophylline (CYP1A2) or diazepam (CYP3A4 and 2C19).
+Olanzapine does not inhibit the main CYP450 isoenzymes in vitro (e.g. 1A2, 2D6, 2C9, 2C19, 3A4). Thus no particular interaction is expected as verified through in vivo studies where no inhibition of metabolism of the following active substances was found: tricyclic antidepressant (representing mostly CYP2D6 pathway), warfarin (CYP2C9), theophylline (CYP1A2) or diazepam (CYP3A4 and 2C19).
 
 Olanzapine showed no interaction when co-administered with lithium or biperiden.
+
+<div style=\"page-break-after: always\"></div>
 
 Therapeutic monitoring of valproate plasma levels did not indicate that valproate dosage adjustment is required after the introduction of concomitant olanzapine.
 
@@ -797,70 +772,62 @@ No studies on the effects on the ability to drive and use machines have been per
 
 ## Adults
 
-The most frequently (seen in ≥ 1 % of patients) reported adverse reactions associated with the use of olanzapine in clinical trials were somnolence, weight gain, eosinophilia, elevated prolactin, cholesterol, glucose and triglyceride levels (see section 4.4), glucosuria, increased appetite, dizziness, akathisia, parkinsonism, leukopenia, neutropenia (see section 4.4), dyskinesia, orthostatic
+The most frequently (seen in ≥ 1 % of patients) reported adverse reactions associated with the use of olanzapine in clinical trials were somnolence, weight gain, eosinophilia, elevated prolactin, cholesterol, glucose and triglyceride levels (see section 4.4), glucosuria, increased appetite, dizziness, akathisia, parkinsonism, leukopenia, neutropenia (see section 4.4), dyskinesia, orthostatic hypotension, anticholinergic effects, transient asymptomatic elevations of hepatic aminotransferases (see section 4.4), rash, asthenia, fatigue, pyrexia, arthralgia, increased alkaline phosphatase, high gamma glutamyltransferase, high uric acid, high creatine phosphokinase and oedema.
 
 <div style=\"page-break-after: always\"></div>
-
-hypotension, anticholinergic effects, transient asymptomatic elevations of hepatic aminotransferases (see section 4.4), rash, asthenia, fatigue, pyrexia, arthralgia, increased alkaline phosphatase, high gamma glutamyltransferase, high uric acid, high creatine phosphokinase and oedema.
 
 ## Tabulated list of adverse reactions
 
-The following table lists the adverse reactions and laboratory investigations observed from spontaneous reporting and in clinical trials. Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness. The frequency terms listed are defined as follows: Very common (≥1/10), common (≥ 1/100 to &lt; 1/10 %), uncommon (≥ 1/1,000 to &lt; 1/100), rare (≥ 1/10,000 to &lt; 1/1,000), very rare (&lt; 1/10,000), not known (cannot be estimated from the data available).
+The following table lists the adverse reactions and laboratory investigations observed from spontaneous reporting and in clinical trials. Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness. The frequency terms listed are defined as follows: Very common (≥ 1/ 10), common (≥ 1 /100 to &lt; 1/ 10 %), uncommon (≥ 1 /1,000 to &lt; 1 /100 ), rare (≥ 1 /10,000 to &lt; 1 /1,000 ), very rare (&lt; 1 /10,000), not known (cannot be estimated from the data available).
 
-| Very common                              | Common                                                                                                                   | Uncommon                                                                                                                                                                                                                  | Rare                                                                               | Not known                                |
-|------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|------------------------------------------|
-| Blood and the lymphatic system disorders | Blood and the lymphatic system disorders                                                                                 | Blood and the lymphatic system disorders                                                                                                                                                                                  | Blood and the lymphatic system disorders                                           | Blood and the lymphatic system disorders |
-|                                          | Eosinophilia Leukopenia 10 Neutropenia 10                                                                                |                                                                                                                                                                                                                           | Thrombocytopenia 11                                                                |                                          |
-| Immune system disorders                  | Immune system disorders                                                                                                  | Immune system disorders                                                                                                                                                                                                   | Immune system disorders                                                            | Immune system disorders                  |
-|                                          |                                                                                                                          | Hypersensitivity 11                                                                                                                                                                                                       |                                                                                    |                                          |
-| Metabolism and nutrition disorders       | Metabolism and nutrition disorders                                                                                       | Metabolism and nutrition disorders                                                                                                                                                                                        | Metabolism and nutrition disorders                                                 | Metabolism and nutrition disorders       |
-| Weight gain 1                            | Elevated cholesterol levels 2,3 Elevated glucose levels 4 Elevated triglyceride levels 2,5 Glucosuria Increased appetite | Development or exacerbation of diabetes occasionally associated with ketoacidosis or coma, including some fatal cases (see section 4.4) 11                                                                                | Hypothermia 12                                                                     |                                          |
-| Nervous system disorders                 | Nervous system disorders                                                                                                 | Nervous system disorders                                                                                                                                                                                                  | Nervous system disorders                                                           | Nervous system disorders                 |
-| Somnolence                               | Dizziness Akathisia 6 Parkinsonism 6 Dyskinesia 6                                                                        | Seizures where in most cases a history of seizures or risk factors for seizures were reported 11 Dystonia (including oculogyration) 11 Tardive dyskinesia 11 Amnesia 9 Dysarthria Stuttering 11 Restless Legs Syndrome 11 | Neuroleptic malignant syndrome (see section 4.4) 12 Discontinuation symptoms 7, 12 |                                          |
-| Cardiac disorders                        | Cardiac disorders                                                                                                        | Cardiac disorders                                                                                                                                                                                                         | Cardiac disorders                                                                  | Cardiac disorders                        |
-|                                          |                                                                                                                          | Bradycardia QT c prolongation (see section 4.4)                                                                                                                                                                           | Ventricular tachycardia/fibrillation, sudden death (see section 4.4) 11            |                                          |
-| Vascular disorders                       | Vascular disorders                                                                                                       | Vascular disorders                                                                                                                                                                                                        | Vascular disorders                                                                 | Vascular disorders                       |
-| Orthostatic hypotension 10               |                                                                                                                          | Thromboembolism (including pulmonary                                                                                                                                                                                      |                                                                                    |                                          |
-
-<div style=\"page-break-after: always\"></div>
-
-|                                                      |                                                                                                                             | embolism and deep vein thrombosis) (see section 4.4)                                                      |                                                                            |                                                               |
-|------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|---------------------------------------------------------------|
-| Respiratory, thoracic and mediastinal disorders      | Respiratory, thoracic and mediastinal disorders                                                                             | Respiratory, thoracic and mediastinal disorders                                                           | Respiratory, thoracic and mediastinal disorders                            | Respiratory, thoracic and mediastinal disorders               |
-| Epistaxis 9 Gastrointestinal disorders               | Epistaxis 9 Gastrointestinal disorders                                                                                      | Epistaxis 9 Gastrointestinal disorders                                                                    | Epistaxis 9 Gastrointestinal disorders                                     | Epistaxis 9 Gastrointestinal disorders                        |
-|                                                      | Mild, transient anticholinergic effects including constipation and dry mouth                                                | Abdominal distension 9 Salivary hypersecretion 11                                                         | Pancreatitis 11                                                            |                                                               |
-| Hepatobiliary disorders                              | Hepatobiliary disorders                                                                                                     | Hepatobiliary disorders                                                                                   | Hepatobiliary disorders                                                    | Hepatobiliary disorders                                       |
-|                                                      | Transient, asymptomatic elevations of hepatic aminotransferases (ALT, AST), especially in early treatment (see section 4.4) |                                                                                                           | Hepatitis (including hepatocellular, cholestatic or mixed liver injury) 11 |                                                               |
-| Skin and subcutaneous tissue disorders               | Skin and subcutaneous tissue disorders                                                                                      | Skin and subcutaneous tissue disorders                                                                    | Skin and subcutaneous tissue disorders                                     | Skin and subcutaneous tissue disorders                        |
-|                                                      | Rash                                                                                                                        | Photosensitivity reaction Alopecia                                                                        |                                                                            | Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) |
-| Musculoskeletal and connective tissue disorders      | Musculoskeletal and connective tissue disorders                                                                             | Musculoskeletal and connective tissue disorders                                                           | Musculoskeletal and connective tissue disorders                            | Musculoskeletal and connective tissue disorders               |
-|                                                      | Arthralgia 9                                                                                                                |                                                                                                           | Rhabdomyolysis 11                                                          |                                                               |
-| Renal and urinary disorders                          | Renal and urinary disorders                                                                                                 | Renal and urinary disorders                                                                               | Renal and urinary disorders                                                | Renal and urinary disorders                                   |
-|                                                      |                                                                                                                             | Urinary incontinence, urinary retention Urinary hesitation 11                                             |                                                                            |                                                               |
-| Pregnancy, puerperium and perinatal conditions       | Pregnancy, puerperium and perinatal conditions                                                                              | Pregnancy, puerperium and perinatal conditions                                                            | Pregnancy, puerperium and perinatal conditions                             | Pregnancy, puerperium and perinatal conditions                |
-|                                                      | system and breast Erectile dysfunction in males Decreased libido in males and females                                       | disorders Amenorrhea Breast enlargement Galactorrhea in females Gynaecomastia/breast enlargement in males | Priapism 12                                                                | Drug withdrawal syndrome neonatal (see section 4.6)           |
-| General disorders and administration site conditions | General disorders and administration site conditions                                                                        | General disorders and administration site conditions                                                      | General disorders and administration site conditions                       | General disorders and administration site conditions          |
-|                                                      | Asthenia                                                                                                                    |                                                                                                           |                                                                            |                                                               |
-|                                                      | Fatigue                                                                                                                     |                                                                                                           |                                                                            |                                                               |
-|                                                      | Oedema                                                                                                                      |                                                                                                           |                                                                            |                                                               |
-|                                                      | Pyrexia 10                                                                                                                  |                                                                                                           |                                                                            |                                                               |
-| Investigations                                       | Investigations                                                                                                              | Investigations                                                                                            | Investigations                                                             | Investigations                                                |
-|                                                      | Increased alkaline                                                                                                          | Increased total                                                                                           |                                                                            |                                                               |
+| Very common                                     | Common                                                                                                                   | Uncommon                                                                                                                                                                                                                  | Rare                                                                               | Not known                                       |
+|-------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|-------------------------------------------------|
+| Blood and the lymphatic system disorders        | Blood and the lymphatic system disorders                                                                                 | Blood and the lymphatic system disorders                                                                                                                                                                                  | Blood and the lymphatic system disorders                                           | Blood and the lymphatic system disorders        |
+|                                                 | Eosinophilia Leukopenia 10 Neutropenia 10                                                                                |                                                                                                                                                                                                                           | Thrombocytopenia 11                                                                |                                                 |
+| Immune system disorders                         | Immune system disorders                                                                                                  | Immune system disorders                                                                                                                                                                                                   | Immune system disorders                                                            | Immune system disorders                         |
+|                                                 |                                                                                                                          | Hypersensitivity 11                                                                                                                                                                                                       |                                                                                    |                                                 |
+| Metabolism and nutrition disorders              | Metabolism and nutrition disorders                                                                                       | Metabolism and nutrition disorders                                                                                                                                                                                        | Metabolism and nutrition disorders                                                 | Metabolism and nutrition disorders              |
+| Weight gain 1                                   | Elevated cholesterol levels 2,3 Elevated glucose levels 4 Elevated triglyceride levels 2,5 Glucosuria Increased appetite | Development or exacerbation of diabetes occasionally associated with ketoacidosis or coma, including some fatal cases (see section 4.4) 11                                                                                | Hypothermia 12                                                                     |                                                 |
+| Nervous system disorders                        | Nervous system disorders                                                                                                 | Nervous system disorders                                                                                                                                                                                                  | Nervous system disorders                                                           | Nervous system disorders                        |
+| Somnolence                                      | Dizziness Akathisia 6 Parkinsonism 6 Dyskinesia 6                                                                        | Seizures where in most cases a history of seizures or risk factors for seizures were reported 11 Dystonia (including oculogyration) 11 Tardive dyskinesia 11 Amnesia 9 Dysarthria Stuttering 11 Restless Legs Syndrome 11 | Neuroleptic malignant syndrome (see section 4.4) 12 Discontinuation symptoms 7, 12 |                                                 |
+| Cardiac disorders                               | Cardiac disorders                                                                                                        | Cardiac disorders                                                                                                                                                                                                         | Cardiac disorders                                                                  | Cardiac disorders                               |
+|                                                 |                                                                                                                          | Bradycardia QT c prolongation (see section 4.4)                                                                                                                                                                           | Ventricular tachycardia/fibrillation, sudden death (see section 4.4) 11            |                                                 |
+| Vascular disorders                              | Vascular disorders                                                                                                       | Vascular disorders                                                                                                                                                                                                        | Vascular disorders                                                                 | Vascular disorders                              |
+| Orthostatic hypotension 10                      |                                                                                                                          | Thromboembolism (including pulmonary embolism and deep vein thrombosis) (see section 4.4)                                                                                                                                 |                                                                                    |                                                 |
+| Respiratory, thoracic and mediastinal disorders | Respiratory, thoracic and mediastinal disorders                                                                          | Respiratory, thoracic and mediastinal disorders                                                                                                                                                                           | Respiratory, thoracic and mediastinal disorders                                    | Respiratory, thoracic and mediastinal disorders |
+|                                                 |                                                                                                                          | Epistaxis 9                                                                                                                                                                                                               |                                                                                    |                                                 |
+| Gastrointestinal disorders Mild, transient      | Gastrointestinal disorders Mild, transient                                                                               | Abdominal                                                                                                                                                                                                                 | Pancreatitis 11                                                                    |                                                 |
 
 <div style=\"page-break-after: always\"></div>
 
-| plasma prolactin levels 8   | phosphatase 10 High creatine phosphokinase 11 High Gamma Glutamyltransferase 10 High uric acid 10   | bilirubin   |
-|-----------------------------|-----------------------------------------------------------------------------------------------------|-------------|
+|                                                       | anticholinergic effects including constipation and dry mouth                                                                | distension 9 Salivary hypersecretion 11                       |                                                                            |                                                               |
+|-------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|----------------------------------------------------------------------------|---------------------------------------------------------------|
+| Hepatobiliary disorders                               | Hepatobiliary disorders                                                                                                     | Hepatobiliary disorders                                       | Hepatobiliary disorders                                                    | Hepatobiliary disorders                                       |
+|                                                       | Transient, asymptomatic elevations of hepatic aminotransferases (ALT, AST), especially in early treatment (see section 4.4) |                                                               | Hepatitis (including hepatocellular, cholestatic or mixed liver injury) 11 |                                                               |
+| Skin and subcutaneous tissue disorders                | Skin and subcutaneous tissue disorders                                                                                      | Skin and subcutaneous tissue disorders                        | Skin and subcutaneous tissue disorders                                     | Skin and subcutaneous tissue disorders                        |
+|                                                       | Rash                                                                                                                        | Photosensitivity reaction Alopecia                            |                                                                            | Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) |
+| Musculoskeletal and connective tissue disorders       | Musculoskeletal and connective tissue disorders                                                                             | Musculoskeletal and connective tissue disorders               | Musculoskeletal and connective tissue disorders                            | Musculoskeletal and connective tissue disorders               |
+|                                                       | Arthralgia 9                                                                                                                |                                                               | Rhabdomyolysis 11                                                          |                                                               |
+| Renal and urinary disorders                           | Renal and urinary disorders                                                                                                 | Renal and urinary disorders                                   | Renal and urinary disorders                                                | Renal and urinary disorders                                   |
+|                                                       |                                                                                                                             | Urinary incontinence, urinary retention Urinary hesitation 11 |                                                                            |                                                               |
+| Pregnancy, puerperium and perinatal conditions        | Pregnancy, puerperium and perinatal conditions                                                                              | Pregnancy, puerperium and perinatal conditions                | Pregnancy, puerperium and perinatal conditions                             | Pregnancy, puerperium and perinatal conditions                |
+|                                                       | system and breast Erectile dysfunction                                                                                      | disorders Amenorrhea                                          | Priapism 12                                                                | Drug withdrawal syndrome neonatal (see section 4.6)           |
+| Reproductive                                          | Reproductive                                                                                                                | Reproductive                                                  |                                                                            |                                                               |
+|                                                       | Decreased libido in males and females and Asthenia Fatigue                                                                  | Galactorrhea in females Gynaecomastia/breast site conditions  |                                                                            |                                                               |
+| enlargement in males General disorders administration | enlargement in males General disorders administration                                                                       | enlargement in males General disorders administration         | enlargement in males General disorders administration                      | enlargement in males General disorders administration         |
+|                                                       | Oedema Pyrexia 10 Increased alkaline phosphatase 10 High creatine phosphokinase 11                                          | Increased total bilirubin                                     |                                                                            |                                                               |
 
-1 Clinically significant weight gain was observed across all baseline Body Mass Index (BMI) categories. Following short term treatment (median duration 47 days), weight gain ≥ 7 % of baseline body weight was very common (22.2%), ≥ 15% was common (4.2%) and ≥25% was uncommon (0.8%). Patients gaining ≥7%, ≥15% and ≥25% of their baseline body weight with long-termexposure (at least 48 weeks) were very common (64.4 %, 31.7 % and 12.3 % respectively).
+<div style=\"page-break-after: always\"></div>
+
+1 Clinically significant weight gain was observed across all baseline Body Mass Index (BMI) categories. Following short term treatment (median duration 47 days), weight gain ≥ 7 % of baseline body weight was very common (22.2%), ≥ 15% was common (4.2%) and ≥25% was uncommon (0.8%). Patients gaining ≥7%, ≥15% and ≥ 25% of their baseline body weight with long-term-exposure (at least 48 weeks) were very common (64.4 %, 31.7 % and 12.3 % respectively).
 
 2 Mean increases in fasting lipid values (total cholesterol, LDL cholesterol, and triglycerides) were greater in patients without evidence of lipid dysregulation at baseline.
 
-3 Observed for fasting normal levels at baseline (&lt; 5.17 mmol/l) which increased to high (≥ 6.2 mmol/l). Changes in total fasting cholesterol levels from borderline at baseline (≥ 5.17- &lt; 6.2 mmol/l) to high (≥ 6.2 mmol/l) were very common.
+3 Observed for fasting normal levels at baseline (&lt; 5.17 mmol/l) which increased to high ( ≥ 6.2 mmol/l). Changes in total fasting cholesterol levels from borderline at baseline (≥ 5.17 -&lt; 6.2 mmol/l) to high (≥ 6.2 mmol/l) were very common.
 
-4 Observed for fasting normal levels at baseline (&lt; 5.56 mmol/l) which increased to high (≥ 7 mmol/l). Changes in fasting glucose from borderline at baseline (≥ 5.56 - &lt; 7 mmol/l) to high (≥ 7 mmol/l) were very common.
+4 Observed for fasting normal levels at baseline (&lt; 5.56 mmol/l) which increased to high (≥ 7 mmol/l). C hanges in fasting glucose from borderline at baseline (≥ 5.56 -&lt; 7 mmol/l) to high (≥ 7 mmol/l) were very common.
 
-5 Observed for fasting normal levels at baseline (&lt; 1.69 mmol/l) which increased to high (≥ 2.26 mmol/l). Changes in fasting triglycerides from borderline at baseline (≥ 1.69 mmol/l - &lt; 2.26 mmol/l) to high (≥ 2.26 mmol/l) were very common.
+5 Observed for fasting normal levels at baseline (&lt; 1.69 mmol/l) which increased to high (≥ 2.26 mmol/l). Changes in fasting triglycerides f rom borderline at baseline (≥ 1.69 mmol/l -&lt; 2.26 mmol/l) to high (≥ 2.26 mmol/l) were very common.
 
 6 In clinical trials, the incidence of Parkinsonism and dystonia in olanzapine-treated patients was numerically higher, but not statistically significantly different from placebo. Olanzapine-treated patients had a lower incidence of Parkinsonism, akathisia and dystonia compared with titrated doses of haloperidol. In the absence of detailed information on the pre-existing history of individual acute and tardive extrapyramidal movement disorders, it cannot be concluded at present that olanzapine produces less tardive dyskinesia and/or other tardive extrapyramidal syndromes.
 
@@ -878,13 +845,13 @@ The following table lists the adverse reactions and laboratory investigations ob
 
 ## Long-term exposure (at least 48 weeks)
 
-<div style=\"page-break-after: always\"></div>
-
 The proportion of patients who had adverse, clinically significant changes in weight gain, glucose, total/LDL/HDL cholesterol or triglycerides increased over time. In adult patients who completed 9-12 months of therapy, the rate of increase in mean blood glucose slowed after approximately 6 months.
 
 ## Additional information on special populations
 
 In clinical trials in elderly patients with dementia, olanzapine treatment was associated with a higher incidence of death and cerebrovascular adverse reactions compared to placebo (see section 4.4). Very common adverse reactions associated with the use of olanzapine in this patient group were abnormal gait and falls. Pneumonia, increased body temperature, lethargy, erythema, visual hallucinations and urinary incontinence were observed commonly.
+
+<div style=\"page-break-after: always\"></div>
 
 In clinical trials in patients with drug-induced (dopamine agonist) psychosis associated with Parkinson's disease, worsening of Parkinsonian symptomatology and hallucinations were reported very commonly and more frequently than with placebo.
 
@@ -894,9 +861,9 @@ In one clinical trial in patients with bipolar mania, valproate combination ther
 
 Olanzapine is not indicated for the treatment of children and adolescent patients below 18 years. Although no clinical studies designed to compare adolescents to adults have been conducted, data from the adolescent trials were compared to those of the adult trials.
 
-The following table summarises the adverse reactions reported with a greater frequency in adolescent patients (aged 13-17 years) than in adult patients or adverse reactions only identified during shortterm clinical trials in adolescent patients. Clinically significant weight gain (≥ 7 %) appears to occur more frequently in the adolescent population compared to adults with comparable exposures. The magnitude of weight gain and the proportion of adolescent patients who had clinically significant weight gain were greater with long-term exposure (at least 24 weeks) than with short-term exposure.
+The following table summarises the adverse reactions reported with a greater frequency in adolescent patients (aged 13-17 years) than in adult patients or adverse reactions only identified during short-term clinical trials in adolescent patients . Clinically significant weight gain (≥ 7 %) appears to occur more frequently in the adolescent population compared to adults with comparable exposures. The magnitude of weight gain and the proportion of adolescent patients who had clinically significant weight gain were greater with long-term exposure (at least 24 weeks) than with short-term exposure.
 
-Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness. The frequency terms listed are defined as follows: Very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10).
+Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness. The frequency terms listed are defined as follows: Very common ( ≥ 1/ 10), common (≥ 1 /100 to &lt; 1/10).
 
 | Metabolism and nutrition disorders Very common: Weight gain 13 , elevated triglyceride levels 14 , increased appetite. Common: Elevated cholesterol levels 15   |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -906,14 +873,6 @@ Within each frequency grouping, adverse reactions are presented in order of decr
 | Investigations Very common: Decreased total bilirubin, increased GGT, elevated plasma prolactin levels 16                                                       |
 
 <div style=\"page-break-after: always\"></div>
-
-25 % was common (2.5 %). With long-term exposure (at least 24 weeks), 89.4 % gained ≥ 7 %, 55.3 % gained ≥ 15 % and 29.1 % gained ≥ 25% of their baseline body weight.
-
-14 Observed for fasting normal levels at baseline (&lt; 1.016 mmol/l) which increased to high (≥ 1.467 mmol/l) and changes in fasting triglycerides from borderline at baseline (≥ 1.016 mmol/l - &lt; 1.467 mmol/l) to high (≥ 1.467 mmol/l).
-
-15 Changes in total fasting cholesterol levels from normal at baseline (&lt; 4.39 mmol/l) to high (≥ 5.17 mmol/l) were observed commonly. Changes in total fasting cholesterol levels from borderline at baseline (≥ 4.39 - &lt; 5.17 mmol/l) to high (≥ 5.17 mmol/l) were very common.
-
-16 Elevated plasma prolactin levels were reported in 47.4 % of adolescent patients.
 
 ## Reporting of suspected adverse reactions
 
@@ -943,9 +902,9 @@ Pharmacotherapeutic group: psycholeptics, diazepines, oxazepines, thiazepines an
 
 Olanzapine is an antipsychotic, antimanic and mood stabilising agent that demonstrates a broad pharmacologic profile across a number of receptor systems.
 
-<div style=\"page-break-after: always\"></div>
-
 In preclinical studies, olanzapine exhibited a range of receptor affinities (Ki &lt; 100 nM) for serotonin 5 HT2A/2C, 5 HT3, 5 HT6; dopamine D1, D2, D3, D4, D5; cholinergic muscarinic receptors M1-M5; α 1 adrenergic; and histamine H1 receptors. Animal behavioural studies with olanzapine indicated 5 HT, dopamine, and cholinergic antagonism, consistent with the receptor-binding profile. Olanzapine demonstrated a greater in vitro affinity for serotonin 5HT2 than dopamine D2 receptors and greater 5 HT2 than D2 activity in vivo , models. Electrophysiological studies demonstrated that olanzapine selectively reduced the firing of mesolimbic (A10) dopaminergic neurons, while having little effect on the striatal (A9) pathways involved in motor function. Olanzapine reduced a conditioned avoidance response, a test indicative of antipsychotic activity, at doses below those producing catalepsy, an effect indicative of motor side-effects. Unlike some other antipsychotic agents, olanzapine increases responding in an 'anxiolytic' test.
+
+<div style=\"page-break-after: always\"></div>
 
 In a single oral dose (10 mg) Positron Emission Tomography (PET) study in healthy volunteers, olanzapine produced a higher 5 HT2A than dopamine D2 receptor occupancy. In addition, a Single Photon Emission Computed Tomography (SPECT) imaging study in schizophrenic patients revealed that olanzapine-responsive patients had lower striatal D2 occupancy than some other antipsychotic and risperidone-responsive patients, while being comparable to clozapine-responsive patients.
 
@@ -965,8 +924,6 @@ In an 18-month co-therapy study in manic or mixed episode patients stabilised wi
 
 ## Paediatric population
 
-<div style=\"page-break-after: always\"></div>
-
 Controlled efficacy data in adolescents (ages 13 to 17 years) are limited to short term studies in schizophrenia (6 weeks) and mania associated with bipolar I disorder (3 weeks), involving less than 200 adolescents. Olanzapine was used as a flexible dose starting with 2.5 and ranging up to 20 mg/day. During treatment with olanzapine, adolescents gained significantly more weight compared with adults. The magnitude of changes in fasting total cholesterol, LDL cholesterol, triglycerides, and prolactin (see sections 4.4 and 4.8) were greater in adolescents than in adults. There are no controlled data on maintenance of effect or long term safety (see sections 4.4 and 4.8) . Information on long term safety is primarily limited to open-label, uncontrolled data.
 
 ## 5.2 Pharmacokinetic properties
@@ -975,9 +932,11 @@ Controlled efficacy data in adolescents (ages 13 to 17 years) are limited to sho
 
 Olanzapine is well absorbed after oral administration, reaching peak plasma concentrations within 5 to 8 hours. The absorption is not affected by food. Absolute oral bioavailability relative to intravenous administration has not been determined.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Distribution
 
-The plasma protein binding of Olanzapine was about 93 % over the concentration range of about 7 to about 1000 ng/ml. Olanzapine is bound predominantly to albumin and α1-acid-glycoprotein.
+The plasma protein binding of Olanzapine was about 93 % over the concentration range of about 7 to about 1000 ng/ml. Olanzapine is bound predominantly to albumin and α 1-acid-glycoprotein.
 
 ## Biotransformation
 
@@ -1001,8 +960,6 @@ A small study of the effect of impaired liver function in 6 subjects with clinic
 
 ## Smoking
 
-<div style=\"page-break-after: always\"></div>
-
 In non-smoking versus smoking subjects (males and females) the mean elimination half-life was prolonged (38.6 versus 30.4 hr) and the clearance was reduced (18.6 versus 27.7 l/hr).
 
 The plasma clearance of olanzapine is lower in elderly versus young subjects, in females versus males, and in non-smokers versus smokers. However, the magnitude of the impact of age, gender, or smoking on olanzapine clearance and half-life is small in comparison to the overall variability between individuals.
@@ -1012,6 +969,8 @@ In a study of Caucasians, Japanese, and Chinese subjects, there were no differen
 ## Paediatric population
 
 Adolescents (ages 13 to 17 years): The pharmacokinetics of olanzapine are similar between adolescents and adults. In clinical studies, the average olanzapine exposure was approximately 27 % higher in adolescents. Demographic differences between the adolescents and adults include a lower average body weight and fewer adolescents were smokers. Such factors possibly contribute to the higher average exposure observed in adolescents.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 5.3 Preclinical safety data
 
@@ -1039,8 +998,6 @@ Olanzapine was not mutagenic or clastogenic in a full range of standard tests, w
 
 Based on the results of studies in mice and rats, it was concluded that olanzapine is not carcinogenic.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 6. PHARMACEUTICAL PARTICULARS
 
 ## 6.1 List of excipients
@@ -1053,11 +1010,13 @@ Not applicable.
 
 ## 6.3 Shelf life
 
+<div style=\"page-break-after: always\"></div>
+
 30 months.
 
 ## 6.4 Special precautions for storage
 
-Store below 30  C.
+Store below 30 ° C.
 
 ## 6.5 Nature and contents of container
 
@@ -1094,6 +1053,8 @@ Date of latest renewal: 19 August 2014
 ## 10. DATE OF REVISION OF THE TEXT
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu
+
+31
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1139,11 +1100,11 @@ Manic episode : The starting dose is 15 mg as a single daily dose in monotherapy
 
 Preventing recurrence in bipolar disorder : The recommended starting dose is 10 mg/day. For patients who have been receiving olanzapine for treatment of manic episode, continue therapy for preventing recurrence at the same dose. If a new manic, mixed, or depressive episode occurs, olanzapine treatment should be continued (with dose optimisation as needed), with supplementary therapy to treat mood symptoms, as clinically indicated.
 
-During treatment for schizophrenia, manic episode and recurrence prevention in bipolar disorder, daily dosage may subsequently be adjusted on the basis of individual clinical status within the range 5-20 mg/day. An increase to a dose greater than the recommended starting dose is advised only after appropriate clinical reassessment and should generally occur at intervals of not less than 24 hours. Olanzapine can be given without regards for meals as absorption is not affected by food. Gradual tapering of the dose should be considered when discontinuing olanzapine.
+During treatment for schizophrenia, manic episode and recurrence prevention in bipolar disorder, daily dosage may subsequently be adjusted on the basis of individual clinical status within the range 520 mg/day. An increase to a dose greater than the recommended starting dose is advised only after appropriate clinical reassessment and should generally occur at intervals of not less than 24 hours. Olanzapine can be given without regards for meals as absorption is not affected by food. Gradual tapering of the dose should be considered when discontinuing olanzapine.
 
 <div style=\"page-break-after: always\"></div>
 
-Olanzapine Glenmark Europe orodispersible tablets should be placed in the mouth, where it will rapidly disperse in saliva, so it can be easily swallowed. Alternatively, it may be dispersed in a full glass of water or other suitable beverage (orange juice, apple juice, milk or coffee) immediately before  administration.
+Olanzapine Glenmark Europe orodispersible tablets should be placed in the mouth, where it will rapidly disperse in saliva, so it can be easily swallowed. Alternatively, it may be dispersed in a full glass of water or other suitable beverage (orange juice, apple juice, milk or coffee) immediately before administration.
 
 ## Special populations
 
@@ -1163,7 +1124,7 @@ When more than one factor is present which might result in slower metabolism (fe
 
 In cases where dose increments of 2.5 mg are considered necessary, Olanzapine Glenmark tablets should be used.
 
-(See sections 4.5 and 5.2.)
+## (See sections 4.5 and 5.2.)
 
 ## Paediatric population
 
@@ -1179,11 +1140,11 @@ During antipsychotic treatment, improvement in the patient's clinical condition 
 
 ## Dementia-related psychosis and/or behavioural disturbances
 
-Olanzapine is not recommended for use in patients with dementia-related psychosis and/or behavioural disturbances because of an increase in mortality and the risk of cerebrovascular accident. In placebo-controlled clinical trials (6-12 weeks duration) of elderly patients (mean age 78 years) with dementia-related psychosis and/or disturbed behaviours, there was a 2-fold increase in the incidence of death in olanzapine-treated patients compared to patients treated with placebo (3.5 % versus 1.5 %, respectively). The higher incidence of death was not associated with olanzapine dose (mean daily dose 4.4 mg) or duration of treatment. Risk factors that may predispose this patient population to
+Olanzapine is not recommended for use in patients with dementia-related psychosis and/or behavioural disturbances because of an increase in mortality and the risk of cerebrovascular accident. In placebocontrolled clinical trials (6-12 weeks duration) of elderly patients (mean age 78 years) with dementiarelated psychosis and/or disturbed behaviours, there was a 2-fold increase in the incidence of death in olanzapine-treated patients compared to patients treated with placebo (3.5 % versus 1.5 %, respectively). The higher incidence of death was not associated with olanzapine dose (mean daily dose 4.4 mg) or duration of treatment. Risk factors that may predispose this patient population to increased mortality include age &gt; 65 years, dysphagia, sedation, malnutrition and dehydration, pulmonary conditions (e.g., pneumonia, with or without aspiration), or concomitant use of benzodiazepines.
 
 <div style=\"page-break-after: always\"></div>
 
-increased mortality include age &gt; 65 years, dysphagia, sedation, malnutrition and dehydration, pulmonary conditions (e.g., pneumonia, with or without aspiration), or concomitant use of benzodiazepines. However, the incidence of death was higher in olanzapine-treated than in placebotreated patients independent of these risk factors.
+However, the incidence of death was higher in olanzapine-treated than in placebo-treated patients independent of these risk factors.
 
 In the same clinical trials, cerebrovascular adverse events (CVAE e.g., stroke, transient ischemic attack), including fatalities, were reported. There was a 3-fold increase in CVAE in patients treated with olanzapine compared to patients treated with placebo (1.3 % versus 0.4 %, respectively). All olanzapine and placebo-treated patients who experienced a cerebrovascular event had pre-existing risk factors. Age &gt; 75 years and vascular/mixed type dementia were identified as risk factors for CVAE in association with olanzapine treatment. The efficacy of olanzapine was not established in these trials.
 
@@ -1205,13 +1166,11 @@ Undesirable alterations in lipids have been observed in olanzapine-treated patie
 
 ## Anticholinergic activity
 
-While olanzapine demonstrated anticholinergic activity in vitro , experience during the clinical trials revealed a low incidence of related events. However, as clinical experience with olanzapine in
-
-<div style=\"page-break-after: always\"></div>
-
-patients with concomitant illness is limited, caution is advised when prescribing for patients with prostatic hypertrophy, or paralytic ileus and related conditions.
+While olanzapine demonstrated anticholinergic activity in vitro , experience during the clinical trials revealed a low incidence of related events. However, as clinical experience with olanzapine in patients with concomitant illness is limited, caution is advised when prescribing for patients with prostatic hypertrophy, or paralytic ileus and related conditions.
 
 ## Hepatic function
+
+<div style=\"page-break-after: always\"></div>
 
 Transient, asymptomatic elevations of hepatic aminotransferases, alanine transferase (ALT), aspartate transferase (AST) have been seen commonly, especially in early treatment. Caution should be exercised and follow-up organised in patients with elevated ALT and/or AST, in patients with signs and symptoms of hepatic impairment, in patients with pre-existing conditions associated with limited hepatic functional reserve, and in patients who are being treated with potentially hepatotoxic medicines. In cases where hepatitis (including hepatocellular, cholestatic or mixed liver injury) has been diagnosed, olanzapine treatment should be discontinued.
 
@@ -1221,15 +1180,15 @@ Caution should be exercised in patients with low leukocyte and/or neutrophil cou
 
 ## Discontinuation of treatment
 
-Acute symptoms such as sweating, insomnia, tremor, anxiety, nausea, or vomiting have been reported very rarely (≥ 0.01% and &lt; 0.1%) when olanzapine is stopped abruptly.
+Acute symptoms such as sweating, insomnia, tremor, anxiety, nausea, or vomiting have been reported very rarely ( ≥ 0.01% and &lt; 0.1% ) when olanzapine is stopped abruptly.
 
 ## QT interval
 
-In clinical trials, clinically meaningful QTc prolongations (Fridericia QT correction [QTcF] ≥ 500 milliseconds [msec] at any time post baseline in patients with baseline QTcF &lt; 500 msec) were uncommon (0.1 % to 1 %) in patients treated with olanzapine, with no significant differences in associated cardiac events compared to placebo. However, caution should be exercised when olanzapine is prescribed with medicines known to increase QTc interval, especially in the elderly, in patients with congenital long QT syndrome, congestive heart failure, heart hypertrophy, hypokalaemia or hypomagnesaemia.
+In clinical trials, clinically meaningful QTc prolongations (Fridericia QT correction [QTcF] ≥ 500 milliseconds [msec] at any time post baseline in patients with baseline QTcF &lt; 500 msec ) were uncommon (0.1 % to 1 %) in patients treated with olanzapine, with no significant differences in associated cardiac events compared to placebo. However, caution should be exercised when olanzapine is prescribed with medicines known to increase QTc interval, especially in the elderly, in patients with congenital long QT syndrome, congestive heart failure, heart hypertrophy, hypokalaemia or hypomagnesaemia.
 
 ## Thromboembolism
 
-Temporal association of olanzapine treatment and venous thromboembolism has been reported uncommonly (≥ 0.1% and &lt; 1%). A causal relationship between the occurrence of venous thromboembolism and treatment with olanzapine has not been established. However, since patients with schizophrenia often present with acquired risk factors for venous thromboembolism all possible risk factors of VTE e.g. immobilisation of patients, should be identified and preventive measures undertaken.
+Temporal association of olanzapine treatment and venous thromboembolism has been reported uncommonly (≥ 0.1% and &lt; 1%) . A causal relationship between the occurrence of venous thromboembolism and treatment with olanzapine has not been established. However, since patients with schizophrenia often present with acquired risk factors for venous thromboembolism all possible risk factors of VTE e.g. immobilisation of patients, should be identified and preventive measures undertaken.
 
 ## General CNS activity
 
@@ -1241,13 +1200,11 @@ Olanzapine should be used cautiously in patients who have a history of seizures 
 
 ## Tardive Dyskinesia
 
-In comparator studies of one year or less duration, olanzapine was associated with a statistically significant lower incidence of treatment emergent dyskinesia. However the risk of tardive dyskinesia increases with long term exposure, and therefore if signs or symptoms of tardive dyskinesia appear in
-
-<div style=\"page-break-after: always\"></div>
-
-a patient on olanzapine, a dose reduction or discontinuation should be considered. These symptoms can temporally deteriorate or even arise after discontinuation of treatment.
+In comparator studies of one year or less duration, olanzapine was associated with a statistically significant lower incidence of treatment emergent dyskinesia. However the risk of tardive dyskinesia increases with long term exposure, and therefore if signs or symptoms of tardive dyskinesia appear in a patient on olanzapine, a dose reduction or discontinuation should be considered. These symptoms can temporally deteriorate or even arise after discontinuation of treatment.
 
 ## Postural hypotension
+
+<div style=\"page-break-after: always\"></div>
 
 Postural hypotension was infrequently observed in the elderly in olanzapine clinical trials. It is recommended that blood pressure is measured periodically in patients over 65 years.
 
@@ -1289,9 +1246,9 @@ Fluoxetine (a CYP2D6 inhibitor), single doses of antacid (aluminium, magnesium) 
 
 Olanzapine may antagonise the effects of direct and indirect dopamine agonists.
 
-<div style=\"page-break-after: always\"></div>
-
 Olanzapine does not inhibit the main CYP450 isoenzymes in vitro (e.g. 1A2, 2D6, 2C9, 2C19, 3A4). Thus no particular interaction is expected as verified through in vivo studies where no inhibition of metabolism of the following active substances was found: tricyclic antidepressant (representing mostly CYP2D6 pathway), warfarin (CYP2C9), theophylline (CYP1A2) or diazepam (CYP3A4 and 2C19).
+
+<div style=\"page-break-after: always\"></div>
 
 Olanzapine showed no interaction when co-administered with lithium or biperiden.
 
@@ -1333,67 +1290,61 @@ No studies on the effects on the ability to drive and use machines have been per
 
 ## Adults
 
-<div style=\"page-break-after: always\"></div>
-
 The most frequently (seen in ≥ 1 % of patients) reported adverse reactions associated with the use of olanzapine in clinical trials were somnolence, weight gain, eosinophilia, elevated prolactin, cholesterol, glucose and triglyceride levels (see section 4.4), glucosuria, increased appetite, dizziness, akathisia, parkinsonism, leukopenia, neutropenia (see section 4.4), dyskinesia, orthostatic hypotension, anticholinergic effects, transient asymptomatic elevations of hepatic aminotransferases (see section 4.4), rash, asthenia, fatigue, pyrexia, arthralgia, increased alkaline phosphatase, high gamma glutamyltransferase, high uric acid, high creatine phosphokinase and oedema.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Tabulated list of adverse reactions
 
-The following table lists the adverse reactions and laboratory investigations observed from spontaneous reporting and in clinical trials. Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness. The frequency terms listed are defined as follows: Very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), uncommon (≥ 1/1,000 to &lt; 1/100), rare (≥ 1/10,000 to &lt; 1/1,000), very rare (&lt; 1/10,000), not known (cannot be estimated from the data available).
+The following table lists the adverse reactions and laboratory investigations observed from spontaneous reporting and in clinical trials. Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness. The frequency terms listed are defined as follows: Very common (≥ 1/ 10), common (≥ 1 /100 to &lt; 1/1 0), uncommon (≥ 1 /1,000 to &lt; 1 /100 ), rare (≥ 1 /10,000 to &lt; 1 /1,000 ), very rare (&lt; 1 /10,000), not known (cannot be estimated from the data available).
 
-| Very common                              | Common                                                                                                                   | Uncommon                                                                                                                                                                                                                  | Rare                                                                               | Not known   |
-|------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|-------------|
-| Blood and the lymphatic system disorders | Blood and the lymphatic system disorders                                                                                 | Blood and the lymphatic system disorders                                                                                                                                                                                  | Blood and the lymphatic system disorders                                           |             |
-|                                          | Eosinophilia Leukopenia 10 Neutropenia 10                                                                                |                                                                                                                                                                                                                           | Thrombocytopenia 11                                                                |             |
-| Immune system disorders                  | Immune system disorders                                                                                                  | Immune system disorders                                                                                                                                                                                                   | Immune system disorders                                                            |             |
-|                                          |                                                                                                                          | Hypersensitivity 11                                                                                                                                                                                                       |                                                                                    |             |
-| Metabolism and nutrition disorders       | Metabolism and nutrition disorders                                                                                       | Metabolism and nutrition disorders                                                                                                                                                                                        | Metabolism and nutrition disorders                                                 |             |
-| Weight gain 1                            | Elevated cholesterol levels 2,3 Elevated glucose levels 4 Elevated triglyceride levels 2,5 Glucosuria Increased appetite | Development or exacerbation of diabetes occasionally associated with ketoacidosis or coma, including some fatal cases (see section 4.4) 11                                                                                | Hypothermia 12                                                                     |             |
-| Nervous system disorders                 | Nervous system disorders                                                                                                 | Nervous system disorders                                                                                                                                                                                                  | Nervous system disorders                                                           |             |
-| Somnolence                               | Dizziness Akathisia 6 Parkinsonism 6 Dyskinesia 6                                                                        | Seizures where in most cases a history of seizures or risk factors for seizures were reported 11 Dystonia (including oculogyration) 11 Tardive dyskinesia 11 Amnesia 9 Dysarthria Stuttering 11 Restless Legs Syndrome 11 | Neuroleptic malignant syndrome (see section 4.4) 12 Discontinuation symptoms 7, 12 |             |
-| Cardiac disorders                        | Cardiac disorders                                                                                                        | Cardiac disorders                                                                                                                                                                                                         | Cardiac disorders                                                                  |             |
-|                                          |                                                                                                                          | Bradycardia QT c prolongation (see section 4.4)                                                                                                                                                                           | Ventricular tachycardia/fibrillation, sudden death (see section 4.4) 11            |             |
-
-<div style=\"page-break-after: always\"></div>
-
-| Vascular disorders                                                        | Vascular disorders                                                                                                          | Vascular disorders                                                                        | Vascular disorders                                                         |                                                               |
-|---------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|---------------------------------------------------------------|
-| Orthostatic hypotension 10                                                |                                                                                                                             | Thromboembolism (including pulmonary embolism and deep vein thrombosis) (see section 4.4) |                                                                            |                                                               |
-| Respiratory, thoracic and mediastinal disorders                           | Respiratory, thoracic and mediastinal disorders                                                                             | Respiratory, thoracic and mediastinal disorders                                           | Respiratory, thoracic and mediastinal disorders                            |                                                               |
-| Epistaxis Gastrointestinal disorders                                      | Epistaxis Gastrointestinal disorders                                                                                        | Epistaxis Gastrointestinal disorders                                                      | Epistaxis Gastrointestinal disorders                                       |                                                               |
-|                                                                           | Mild, transient anticholinergic effects including constipation and dry mouth                                                | Abdominal distension 9 Salivary hypersecretion 11                                         | Pancreatitis 11                                                            |                                                               |
-| Hepatobiliary disorders                                                   | Hepatobiliary disorders                                                                                                     | Hepatobiliary disorders                                                                   | Hepatobiliary disorders                                                    |                                                               |
-|                                                                           | Transient, asymptomatic elevations of hepatic aminotransferases (ALT, AST), especially in early treatment (see section 4.4) |                                                                                           | Hepatitis (including hepatocellular, cholestatic or mixed liver injury) 11 |                                                               |
-| Skin and subcutaneous tissue disorders                                    | Skin and subcutaneous tissue disorders                                                                                      | Skin and subcutaneous tissue disorders                                                    | Skin and subcutaneous tissue disorders                                     |                                                               |
-|                                                                           | Rash                                                                                                                        | Photosensitivity reaction Alopecia                                                        |                                                                            | Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) |
-| Musculoskeletal and connective tissue disorders                           | Musculoskeletal and connective tissue disorders                                                                             | Musculoskeletal and connective tissue disorders                                           | Musculoskeletal and connective tissue disorders                            |                                                               |
-| Arthralgia 9                                                              | Arthralgia 9                                                                                                                | Arthralgia 9                                                                              | Rhabdomyolysis 11                                                          |                                                               |
-| Renal and urinary disorders                                               | Renal and urinary disorders                                                                                                 | Renal and urinary disorders                                                               | Renal and urinary disorders                                                |                                                               |
-|                                                                           |                                                                                                                             | Urinary incontinence, urinary retention Urinary hesitation 11                             |                                                                            | Drug withdrawal                                               |
-| Pregnancy, puerperium and perinatal conditions                            | Pregnancy, puerperium and perinatal conditions                                                                              | Pregnancy, puerperium and perinatal conditions                                            | Pregnancy, puerperium and perinatal conditions                             |                                                               |
-| Reproductive                                                              | system and breast disorders Erectile dysfunction in males Decreased libido in                                               | Amenorrhea Breast enlargement Galactorrhea in females                                     | Priapism 12                                                                |                                                               |
-|                                                                           | males and females                                                                                                           | Gynaecomastia/breast                                                                      |                                                                            |                                                               |
-| enlargement in males General disorders and administration site conditions | enlargement in males General disorders and administration site conditions                                                   | enlargement in males General disorders and administration site conditions                 | enlargement in males General disorders and administration site conditions  |                                                               |
-|                                                                           | Asthenia                                                                                                                    |                                                                                           |                                                                            |                                                               |
-|                                                                           | Fatigue                                                                                                                     |                                                                                           |                                                                            |                                                               |
-|                                                                           | Oedema                                                                                                                      |                                                                                           |                                                                            |                                                               |
-| Pyrexia Investigations                                                    | Pyrexia Investigations                                                                                                      | Pyrexia Investigations                                                                    | Pyrexia Investigations                                                     |                                                               |
-| Elevated Increased alkaline Increased total bilirubin                     | Elevated Increased alkaline Increased total bilirubin                                                                       | Elevated Increased alkaline Increased total bilirubin                                     | Elevated Increased alkaline Increased total bilirubin                      |                                                               |
+| Very common                                     | Common                                                                                                                   | Uncommon                                                                                                                                                                                                                  | Rare                                                                               | Not known   |
+|-------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|-------------|
+| Blood and the lymphatic system disorders        | Blood and the lymphatic system disorders                                                                                 | Blood and the lymphatic system disorders                                                                                                                                                                                  | Blood and the lymphatic system disorders                                           |             |
+|                                                 | Eosinophilia Leukopenia 10 Neutropenia 10                                                                                |                                                                                                                                                                                                                           | Thrombocytopenia 11                                                                |             |
+| Immune system disorders                         | Immune system disorders                                                                                                  | Immune system disorders                                                                                                                                                                                                   | Immune system disorders                                                            |             |
+|                                                 |                                                                                                                          | Hypersensitivity 11                                                                                                                                                                                                       |                                                                                    |             |
+| Metabolism and nutrition disorders              | Metabolism and nutrition disorders                                                                                       | Metabolism and nutrition disorders                                                                                                                                                                                        | Metabolism and nutrition disorders                                                 |             |
+| Weight gain 1                                   | Elevated cholesterol levels 2,3 Elevated glucose levels 4 Elevated triglyceride levels 2,5 Glucosuria Increased appetite | Development or exacerbation of diabetes occasionally associated with ketoacidosis or coma, including some fatal cases (see section 4.4) 11                                                                                | Hypothermia 12                                                                     |             |
+| Nervous system disorders                        | Nervous system disorders                                                                                                 | Nervous system disorders                                                                                                                                                                                                  | Nervous system disorders                                                           |             |
+| Somnolence                                      | Dizziness Akathisia 6 Parkinsonism 6 Dyskinesia 6                                                                        | Seizures where in most cases a history of seizures or risk factors for seizures were reported 11 Dystonia (including oculogyration) 11 Tardive dyskinesia 11 Amnesia 9 Dysarthria Stuttering 11 Restless Legs Syndrome 11 | Neuroleptic malignant syndrome (see section 4.4) 12 Discontinuation symptoms 7, 12 |             |
+| Cardiac disorders                               | Cardiac disorders                                                                                                        | Cardiac disorders                                                                                                                                                                                                         | Cardiac disorders                                                                  |             |
+|                                                 |                                                                                                                          | Bradycardia QT c prolongation (see section 4.4)                                                                                                                                                                           | Ventricular tachycardia/fibrillation, sudden death (see section 4.4) 11            |             |
+| Vascular disorders                              | Vascular disorders                                                                                                       | Vascular disorders                                                                                                                                                                                                        | Vascular disorders                                                                 |             |
+| Orthostatic hypotension 10                      |                                                                                                                          | Thromboembolism (including pulmonary embolism and deep vein thrombosis) (see section 4.4)                                                                                                                                 |                                                                                    |             |
+| Respiratory, thoracic and mediastinal disorders | Respiratory, thoracic and mediastinal disorders                                                                          | Respiratory, thoracic and mediastinal disorders                                                                                                                                                                           | Respiratory, thoracic and mediastinal disorders                                    |             |
+| Epistaxis 9                                     | Epistaxis 9                                                                                                              | Epistaxis 9                                                                                                                                                                                                               | Epistaxis 9                                                                        |             |
 
 <div style=\"page-break-after: always\"></div>
 
-| plasma levels 8   | phosphatase 10 High creatine phosphokinase 11 High Gamma Glutamyltransferase 10 High uric acid 10   | prolactin   |
-|-------------------|-----------------------------------------------------------------------------------------------------|-------------|
+|                                                   | Mild, transient anticholinergic effects including constipation and dry mouth                                                | Abdominal distension 9 Salivary hypersecretion 11                                    | Pancreatitis 11                                                            |                                                               |
+|---------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|----------------------------------------------------------------------------|---------------------------------------------------------------|
+| Hepatobiliary disorders                           | Hepatobiliary disorders                                                                                                     | Hepatobiliary disorders                                                              | Hepatobiliary disorders                                                    | Hepatobiliary disorders                                       |
+|                                                   | Transient, asymptomatic elevations of hepatic aminotransferases (ALT, AST), especially in early treatment (see section 4.4) |                                                                                      | Hepatitis (including hepatocellular, cholestatic or mixed liver injury) 11 |                                                               |
+| Skin and subcutaneous tissue disorders            | Skin and subcutaneous tissue disorders                                                                                      | Skin and subcutaneous tissue disorders                                               | Skin and subcutaneous tissue disorders                                     | Skin and subcutaneous tissue disorders                        |
+|                                                   | Rash                                                                                                                        | Photosensitivity reaction Alopecia                                                   |                                                                            | Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) |
+| Musculoskeletal and connective tissue disorders   | Musculoskeletal and connective tissue disorders                                                                             | Musculoskeletal and connective tissue disorders                                      | Musculoskeletal and connective tissue disorders                            | Musculoskeletal and connective tissue disorders               |
+|                                                   | Arthralgia 9                                                                                                                |                                                                                      | Rhabdomyolysis 11                                                          |                                                               |
+| Renal and urinary disorders                       | Renal and urinary disorders                                                                                                 | Renal and urinary disorders                                                          | Renal and urinary disorders                                                | Renal and urinary disorders                                   |
+|                                                   |                                                                                                                             | Urinary incontinence, urinary retention Urinary hesitation 11                        |                                                                            |                                                               |
+| Pregnancy, puerperium and perinatal conditions    | Pregnancy, puerperium and perinatal conditions                                                                              | Pregnancy, puerperium and perinatal conditions                                       | Pregnancy, puerperium and perinatal conditions                             | Pregnancy, puerperium and perinatal conditions                |
+|                                                   |                                                                                                                             | Amenorrhea                                                                           | Priapism 12                                                                | Drug withdrawal syndrome neonatal (see section 4.6)           |
+| Reproductive system and breast                    | Reproductive system and breast                                                                                              | disorders                                                                            |                                                                            |                                                               |
+| General                                           | Erectile dysfunction in males Decreased libido in males and females and                                                     | Breast enlargement Galactorrhea in females Gynaecomastia/breast enlargement in males |                                                                            |                                                               |
+| disorders administration site conditions          | disorders administration site conditions                                                                                    | disorders administration site conditions                                             | disorders administration site conditions                                   | disorders administration site conditions                      |
+| Investigations Elevated plasma prolactin levels 8 | Increased alkaline phosphatase 10 High creatine phosphokinase 11 High Gamma Glutamyltransferase 10 High uric acid 10        | Increased total bilirubin                                                            |                                                                            |                                                               |
 
-1 Clinically significant weight gain was observed across all baseline Body Mass Index (BMI) categories. Following short term treatment (median duration 47 days), weight gain ≥ 7 % of baseline body weight was very common (22.2%), ≥ 15% was common (4.2%) and ≥25% was uncommon (0.8%). Patients gaining ≥7%, ≥ 15% and ≥ 25% of their baseline body weight with long-termexposure (at least 48 weeks) were very common (64.4 %, 31.7 % and 12.3 % respectively).
+<div style=\"page-break-after: always\"></div>
+
+body weight was very common (22.2%), ≥ 15% was common (4.2%) and ≥25% was uncommon (0.8%). Patients gaining ≥7%, ≥ 15% and ≥ 25% of their baseline body weight with long-termexposure (at least 48 weeks) were very common (64.4 %, 31.7 % and 12.3 % respectively).
 
 2 Mean increases in fasting lipid values (total cholesterol, LDL cholesterol, and triglycerides) were greater in patients without evidence of lipid dysregulation at baseline.
 
-3 Observed for fasting normal levels at baseline (&lt; 5.17 mmol/l) which increased to high (≥ 6.2 mmol/l). Changes in total fasting cholesterol levels from borderline at baseline (≥ 5.17- &lt; 6.2 mmol/l) to high (≥ 6.2 mmol/l) were very common.
+3 Observed for fasting normal levels at baseline (&lt; 5.17 mmol/l) which increased to high (≥ 6.2 mmol/l). Changes in total fasting cholesterol levels from borderline at baseline (≥ 5.17 -&lt; 6.2 mmol/l) to high (≥ 6.2 mmol/l) were very common.
 
-4 Observed for fasting normal levels at baseline (&lt; 5.56 mmol/l) which increased to high (≥ 7 mmol/l). Changes in fasting glucose from borderline at baseline (≥ 5.56 - &lt; 7 mmol/l) to high (≥ 7 mmol/l) were very common.
+4 Observed for fasting normal levels at baseline (&lt; 5.56 mmol/l) which increased to high (≥ 7 mmol/l). Changes in fasting glucose from borderline at baseline (≥ 5.56 -&lt; 7 mmol/l) to high (≥ 7 mmol/l) were very common.
 
-5 Observed for fasting normal levels at baseline (&lt; 1.69 mmol/l) which increased to high (≥ 2.26 mmol/l). Changes in fasting triglycerides from borderline at baseline (≥ 1.69 mmol/l - &lt; 2.26 mmol/l) to high (≥ 2.26 mmol/l) were very common.
+5 Observed for fasting normal levels at baseline (&lt; 1.69 mmol/l) which increased to high (≥ 2.26 mmol/l). Changes in fasting triglycerides from borderline at baseline (≥ 1.69 mmol/l -&lt; 2.26 mmol/l) to high (≥ 2.26 mmol/l) were very common.
 
 6 In clinical trials, the incidence of Parkinsonism and dystonia in olanzapine-treated patients was numerically higher, but not statistically significantly different from placebo. Olanzapine-treated patients had a lower incidence of Parkinsonism, akathisia and dystonia compared with titrated doses of haloperidol. In the absence of detailed information on the pre-existing history of individual acute and tardive extrapyramidal movement disorders, it cannot be concluded at present that olanzapine produces less tardive dyskinesia and/or other tardive extrapyramidal syndromes.
 
@@ -1411,27 +1362,27 @@ The following table lists the adverse reactions and laboratory investigations ob
 
 ## Long-term exposure (at least 48 weeks)
 
-<div style=\"page-break-after: always\"></div>
-
 The proportion of patients who had adverse, clinically significant changes in weight gain, glucose, total/LDL/HDL cholesterol or triglycerides increased over time. In adult patients who completed 9-12 months of therapy, the rate of increase in mean blood glucose slowed after approximately 6 months.
 
 ## Additional information on special populations
 
 In clinical trials in elderly patients with dementia, olanzapine treatment was associated with a higher incidence of death and cerebrovascular adverse reactions compared to placebo (see section 4.4). Very common adverse reactions associated with the use of olanzapine in this patient group were abnormal gait and falls. Pneumonia, increased body temperature, lethargy, erythema, visual hallucinations and urinary incontinence were observed commonly.
 
+<div style=\"page-break-after: always\"></div>
+
 In clinical trials in patients with drug-induced (dopamine agonist) psychosis associated with Parkinson's disease, worsening of Parkinsonian symptomatology and hallucinations were reported very commonly and more frequently than with placebo.
 
-In one clinical trial in patients with bipolar mania, valproate combination therapy with olanzapine resulted in an incidence of neutropenia of 4.1 %; a potential contributing factor could be high plasma valproate levels. Olanzapine administered with lithium or valproate resulted in increased levels (≥ 10 %) of tremor, dry mouth, increased appetite, and weight gain. Speech disorder was also reported commonly. During treatment with olanzapine in combination with lithium or divalproex, an increase of ≥ 7 % from baseline body weight occurred in 17.4 % of patients during acute treatment (up to 6 weeks). Long-term olanzapine treatment (up to 12 months) for recurrence prevention in patients with bipolar disorder was associated with an increase of ≥ 7 % from baseline body weight in 39.9 % of patients.
+In one clinical trial in patients with bipolar mania, valproate combination therapy with olanzapine resulted in an incidence of neutropenia of 4.1 %; a potential contributing factor could be high plasma valproate levels. Olanzapine administered with lithium or valproate resulted in increased levels ( ≥ 10 %) of tremor, dry mouth, increased appetite, and weight gain. Speech disorder was also reported commonly. During treatment with olanzapine in combination with lithium or divalproex, an increase of ≥ 7 % from baseline body weight occurred in 17.4 % of patients during acute treatment (up to 6 weeks). Long-term olanzapine treatment (up to 12 months) for recurrence prevention in patients with bipolar disorder was associated with an increase of ≥ 7 % from baseline body weight in 39.9 % of patients.
 
 ## Paediatric population
 
 Olanzapine is not indicated for the treatment of children and adolescent patients below 18 years. Although no clinical studies designed to compare adolescents to adults have been conducted, data from the adolescent trials were compared to those of the adult trials.
 
-The following table summarises the adverse reactions reported with a greater frequency in adolescent patients (aged 13-17 years) than in adult patients or adverse reactions only identified during shortterm clinical trials in adolescent patients.
+The following table summarises the adverse reactions reported with a greater frequency in adolescent patients (aged 13-17 years) than in adult patients or adverse reactions only identified during short-term clinical trials in adolescent patients.
 
 Clinically significant weight gain (≥ 7 %) appears to occur more frequently in the adolescent population compared to adults with comparable exposures. The magnitude of weight gain and the proportion of adolescent patients who had clinically significant weight gain were greater with longterm exposure (at least 24 weeks) than with short-term exposure.
 
-Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness. The frequency terms listed are defined as follows: Very common (≥ 1/10 ), common (≥ 1/100 to&lt; 1/10).
+Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness. The frequency terms listed are defined as follows: Very common ( ≥ 1 /1 0 ), common (≥ 1 /100 to &lt; 1/10).
 
 | Metabolism and nutrition disorders Very common: Weight gain 13 , elevated triglyceride levels 14 , increased appetite. Common: Elevated cholesterol levels 15   |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -1441,12 +1392,6 @@ Within each frequency grouping, adverse reactions are presented in order of decr
 | Investigations Very common: Decreased total bilirubin, increased GGT, elevated plasma prolactin levels 16                                                       |
 
 <div style=\"page-break-after: always\"></div>
-
-13 Following short term treatment (median duration 22 days), weight gain ≥ 7 % of baseline body weight (kg) was very common (40.6 %), ≥ 15 % of baseline body weight was common (7.1 %) and ≥ 25 % was common (2.5 %). With long-term exposure (at least 24 weeks), 89.4 % gained ≥ 7 %, 55.3 % gained ≥ 15 % and 29.1 % gained ≥ 25% of their baseline body weight.
-
-14 Observed for fasting normal levels at baseline (&lt; 1.016 mmol/l) which increased to high (≥ 1.467 mmol/l) and changes in fasting triglycerides from borderline at baseline (≥ 1.016 mmol/l &lt; 1.467 mmol/l) to high (≥ 1.467 mmol/l).
-
-15 Changes in total fasting cholesterol levels from normal at baseline (&lt; 4.39 mmol/l) to high (≥ 5.17 mmol/l) were observed commonly. Changes in total fasting cholesterol levels from borderline at baseline (≥ 4.39 - &lt; 5.17 mmol/l) to high (≥ 5.17 mmol/l) were very common.
 
 16 Elevated plasma prolactin levels were reported in 47.4 % of adolescent patients.
 
@@ -1476,11 +1421,11 @@ Pharmacotherapeutic group: psycholeptics, diazepines, oxazepines, thiazepines an
 
 ## Pharmacodynamic effect
 
-<div style=\"page-break-after: always\"></div>
-
 Olanzapine is an antipsychotic, antimanic and mood stabilising agent that demonstrates a broad pharmacologic profile across a number of receptor systems.
 
 In preclinical studies, olanzapine exhibited a range of receptor affinities (Ki &lt; 100 nM) for serotonin 5 HT2A/2C, 5 HT3, 5 HT6; dopamine D1, D2, D3, D4, D5; cholinergic muscarinic receptors M1-M5; α 1 adrenergic; and histamine H1 receptors. Animal behavioural studies with olanzapine indicated 5HT, dopamine, and cholinergic antagonism, consistent with the receptor-binding profile. Olanzapine demonstrated a greater in vitro affinity for serotonin 5HT2 than dopamine D2 receptors and greater 5 HT2 than D2 activity in vivo , models. Electrophysiological studies demonstrated that olanzapine selectively reduced the firing of mesolimbic (A10) dopaminergic neurons, while having little effect on the striatal (A9) pathways involved in motor function. Olanzapine reduced a conditioned avoidance response, a test indicative of antipsychotic activity, at doses below those producing catalepsy, an effect indicative of motor side-effects. Unlike some other antipsychotic agents, olanzapine increases responding in an 'anxiolytic' test.
+
+<div style=\"page-break-after: always\"></div>
 
 In a single oral dose (10 mg) Positron Emission Tomography (PET) study in healthy volunteers, olanzapine produced a higher 5 HT2A than dopamine D2 receptor occupancy. In addition, a Single Photon Emission Computed Tomography (SPECT) imaging study in schizophrenic patients revealed that olanzapine-responsive patients had lower striatal D2 occupancy than some other antipsychotic and risperidone-responsive patients, while being comparable to clozapine-responsive patients.
 
@@ -1498,8 +1443,6 @@ In a second 12-month recurrence prevention study in manic episode patients who a
 
 In an 18-month co-therapy study in manic or mixed episode patients stabilised with olanzapine plus a mood stabiliser (lithium or valproate), long-term olanzapine co-therapy with lithium or valproate was not statistically significantly superior to lithium or valproate alone in delaying bipolar recurrence, defined according to syndromic (diagnostic) criteria.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Paediatric population
 
 Controlled efficacy data in adolescents (ages 13 to 17 years) are limited to short term studies in schizophrenia (6 weeks) and mania associated with bipolar I disorder (3 weeks), involving less than 200 adolescents. Olanzapine was used as a flexible dose starting with 2.5 and ranging up to 20 mg/day. During treatment with olanzapine, adolescents gained significantly more weight compared with adults. The magnitude of changes in fasting total cholesterol, LDL cholesterol, triglycerides, and prolactin (see sections 4.4 and 4.8) were greater in adolescents than in adults. There are no controlled data on maintenance of effect or long term safety (see sections 4.4 and 4.8) . Information on long term safety is primarily limited to open-label, uncontrolled data.
@@ -1510,9 +1453,11 @@ Controlled efficacy data in adolescents (ages 13 to 17 years) are limited to sho
 
 Olanzapine is well absorbed after oral administration, reaching peak plasma concentrations within 5 to 8 hours. The absorption is not affected by food. Absolute oral bioavailability relative to intravenous administration has not been determined.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Distribution
 
-The plasma protein binding of Olanzapine was about 93 % over the concentration range of about 7 to about 1000 ng/ml. Olanzapine is bound predominantly to albumin and  1-acid-glycoprotein.
+The plasma protein binding of Olanzapine was about 93 % over the concentration range of about 7 to about 1000 ng/ml. Olanzapine is bound predominantly to albumin and α 1-acid-glycoprotein.
 
 ## Biotransformation
 
@@ -1534,8 +1479,6 @@ In renally impaired patients (creatinine clearance &lt; 10 ml/min) versus health
 
 A small study of the effect of impaired liver function in 6 subjects with clinically significant (Childs Pugh Classification A (n = 5) and B (n = 1)) cirrhosis revealed little effect on the pharmacokinetics of orally administered olanzapine (2.5 - 7.5 mg single dose): Subjects with mild to moderate hepatic dysfunction had slightly increased systemic clearance and faster elimination half-time compared to subjects with no hepatic dysfunction (n = 3). There were more smokers among subjects with cirrhosis (4/6; 67 %) than among subjects with no hepatic dysfunction (0/3; 0 %).
 
-<div style=\"page-break-after: always\"></div>
-
 SmokingIn non-smoking versus smoking subjects (males and females) the mean elimination half-life was prolonged (38.6 versus 30.4 hr) and the clearance was reduced (18.6 versus 27.7 l/hr).
 
 The plasma clearance of olanzapine is lower in elderly versus young subjects, in females versus males, and in non-smokers versus smokers. However, the magnitude of the impact of age, gender, or smoking on olanzapine clearance and half-life is small in comparison to the overall variability between individuals.
@@ -1545,6 +1488,8 @@ In a study of Caucasians, Japanese, and Chinese subjects, there were no differen
 ## Paediatric population
 
 Adolescents (ages 13 to 17 years): The pharmacokinetics of olanzapine are similar between adolescents and adults. In clinical studies, the average olanzapine exposure was approximately 27 % higher in adolescents. Demographic differences between the adolescents and adults include a lower average body weight and fewer adolescents were smokers. Such factors possibly contribute to the higher average exposure observed in adolescents.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 5.3 Preclinical safety data
 
@@ -1572,8 +1517,6 @@ Olanzapine was not mutagenic or clastogenic in a full range of standard tests, w
 
 Based on the results of studies in mice and rats, it was concluded that olanzapine is not carcinogenic.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 6. PHARMACEUTICAL PARTICULARS
 
 ## 6.1 List of excipients
@@ -1586,11 +1529,13 @@ Not applicable.
 
 ## 6.3 Shelf life
 
+<div style=\"page-break-after: always\"></div>
+
 30 months.
 
 ## 6.4 Special precautions for storage
 
-Store below 30  C.
+Store below 30 ° C.
 
 ## 6.5 Nature and contents of container
 
@@ -1612,9 +1557,7 @@ Gröbenzell, Germany
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/09/588/007
-
-EU/1/09/588/008
+EU/1/09/588/007 EU/1/09/588/008
 
 EU/1/09/588/009
 
@@ -1627,6 +1570,8 @@ Date of latest renewal: 19 August 2014
 ## 10. DATE OF REVISION OF THE TEXT
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu
+
+46
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1642,7 +1587,7 @@ Excipient with known effect: Each orodispersible tablet contains 0.92 mg of aspa
 
 ## 3. PHARMACEUTICAL FORM
 
-## Orodispersible tablet
+Orodispersible tablet
 
 Yellow coloured circular flat bevelled edge with 'OL' debossed on one side and 'F' debossed on other side.
 
@@ -1670,7 +1615,7 @@ Manic episode : The starting dose is 15 mg as a single daily dose in monotherapy
 
 Preventing recurrence in bipolar disorder : The recommended starting dose is 10 mg/day. For patients who have been receiving olanzapine for treatment of manic episode, continue therapy for preventing recurrence at the same dose. If a new manic, mixed, or depressive episode occurs, olanzapine treatment should be continued (with dose optimisation as needed), with supplementary therapy to treat mood symptoms, as clinically indicated.
 
-During treatment for schizophrenia, manic episode and recurrence prevention in bipolar disorder, daily dosage may subsequently be adjusted on the basis of individual clinical status within the range 5-20 mg/day. An increase to a dose greater than the recommended starting dose is advised only after appropriate clinical reassessment and should generally occur at intervals of not less than 24 hours. Olanzapine can be given without regards for meals as absorption is not affected by food. Gradual tapering of the dose should be considered when discontinuing olanzapine.
+During treatment for schizophrenia, manic episode and recurrence prevention in bipolar disorder, daily dosage may subsequently be adjusted on the basis of individual clinical status within the range 520 mg/day. An increase to a dose greater than the recommended starting dose is advised only after appropriate clinical reassessment and should generally occur at intervals of not less than 24 hours. Olanzapine can be given without regards for meals as absorption is not affected by food. Gradual tapering of the dose should be considered when discontinuing olanzapine.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1708,13 +1653,11 @@ During antipsychotic treatment, improvement in the patient's clinical condition 
 
 ## Dementia-related psychosis and/or behavioural disturbances
 
-Olanzapine is not recommended for use in patients with dementia-related psychosis and/or behavioural disturbances because of an increase in mortality and the risk of cerebrovascular accident. In placebo-controlled clinical trials (6-12 weeks duration) of elderly patients (mean age 78 years) with dementia-related psychosis and/or disturbed behaviours, there was a 2-fold increase in the incidence of death in olanzapine-treated patients compared to patients treated with placebo (3.5 % versus 1.5 %, respectively). The higher incidence of death was not associated with olanzapine dose (mean daily dose 4.4 mg) or duration of treatment.
+Olanzapine is not recommended for use in patients with dementia-related psychosis and/or behavioural disturbances because of an increase in mortality and the risk of cerebrovascular accident. In placebocontrolled clinical trials (6-12 weeks duration) of elderly patients (mean age 78 years) with dementiarelated psychosis and/or disturbed behaviours, there was a 2-fold increase in the incidence of death in olanzapine-treated patients compared to patients treated with placebo (3.5 % versus 1.5 %, respectively). The higher incidence of death was not associated with olanzapine dose (mean daily dose 4.4 mg) or duration of treatment.
 
-Risk factors that may predispose this patient population to increased mortality include age &gt; 65 years, dysphagia, sedation, malnutrition and dehydration, pulmonary conditions (e.g., pneumonia, with or
+Risk factors that may predispose this patient population to increased mortality include age &gt; 65 years, dysphagia, sedation, malnutrition and dehydration, pulmonary conditions (e.g., pneumonia, with or without aspiration), or concomitant use of benzodiazepines. However, the incidence of death was higher in olanzapine-treated than in placebo-treated patients independent of these risk factors.
 
 <div style=\"page-break-after: always\"></div>
-
-without aspiration), or concomitant use of benzodiazepines. However, the incidence of death was higher in olanzapine-treated than in placebo-treated patients independent of these risk factors.
 
 In the same clinical trials, cerebrovascular adverse events (CVAE e.g., stroke, transient ischemic attack), including fatalities, were reported. There was a 3-fold increase in CVAE in patients treated with olanzapine compared to patients treated with placebo (1.3 % versus 0.4 %, respectively). All olanzapine and placebo-treated patients who experienced a cerebrovascular event had pre-existing risk factors. Age &gt; 75 years and vascular/mixed type dementia were identified as risk factors for CVAE in association with olanzapine treatment. The efficacy of olanzapine was not established in these trials.
 
@@ -1738,11 +1681,11 @@ Undesirable alterations in lipids have been observed in olanzapine-treated patie
 
 While olanzapine demonstrated anticholinergic activity in vitro , experience during the clinical trials revealed a low incidence of related events. However, as clinical experience with olanzapine in patients with concomitant illness is limited, caution is advised when prescribing for patients with prostatic hypertrophy, or paralytic ileus and related conditions.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Hepatic function
 
 Transient, asymptomatic elevations of hepatic aminotransferases, alanine transferase (ALT), aspartate transferase (AST) have been seen commonly, especially in early treatment. Caution should be exercised and follow-up organised in patients with elevated ALT and/or AST, in patients with signs and symptoms of hepatic impairment, in patients with pre-existing conditions associated with limited hepatic functional reserve, and in patients who are being treated with potentially hepatotoxic medicines. In cases where hepatitis (including hepatocellular, cholestatic or mixed liver injury) has been diagnosed, olanzapine treatment should be discontinued.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Neutropenia
 
@@ -1750,15 +1693,15 @@ Caution should be exercised in patients with low leukocyte and/or neutrophil cou
 
 ## Discontinuation of treatment
 
-Acute symptoms such as sweating, insomnia, tremor, anxiety, nausea, or vomiting have been reported rarely (≥ 0.01% and &lt; 0.1% %) when olanzapine is stopped abruptly.
+Acute symptoms such as sweating, insomnia, tremor, anxiety, nausea, or vomiting have been reported rarely ( ≥ 0.01% and &lt; 0.1% %) when olanzapine is stopped abruptly.
 
 ## QT interval
 
-In clinical trials, clinically meaningful QTc prolongations (Fridericia QT correction [QTcF] ≥ 500 milliseconds [msec] at any time post baseline in patients with baseline QTcF &lt; 500 msec) were uncommon (0.1 % to 1 %) in patients treated with olanzapine, with no significant differences in associated cardiac events compared to placebo. However, as with other antipsychotics, caution should be exercised when olanzapine is prescribed with medicines known to increase QTc interval, especially in the elderly, in patients with congenital long QT syndrome, congestive heart failure, heart hypertrophy, hypokalaemia or hypomagnesaemia.
+In clinical trials, clinically meaningful QTc prolongations (Fridericia QT correction [QTcF] ≥ 500 milliseconds [msec] at any time post baseline in patients with baseline QTcF &lt; 500 ms ec) were uncommon (0.1 % to 1 %) in patients treated with olanzapine, with no significant differences in associated cardiac events compared to placebo. However, as with other antipsychotics, caution should be exercised when olanzapine is prescribed with medicines known to increase QTc interval, especially in the elderly, in patients with congenital long QT syndrome, congestive heart failure, heart hypertrophy, hypokalaemia or hypomagnesaemia.
 
 ## Thromboembolism
 
-Temporal association of olanzapine treatment and venous thromboembolism has been reported uncommonly (≥ 0.1% and &lt; 1%). A causal relationship between the occurrence of venous thromboembolism and treatment with olanzapine has not been established. However, since patients with schizophrenia often present with acquired risk factors for venous thromboembolism all possible risk factors of VTE e.g. immobilisation of patients, should be identified and preventive measures undertaken.
+Temporal association of olanzapine treatment and venous thromboembolism has been reported uncommonly (≥ 0.1% and &lt; 1%) . A causal relationship between the occurrence of venous thromboembolism and treatment with olanzapine has not been established. However, since patients with schizophrenia often present with acquired risk factors for venous thromboembolism all possible risk factors of VTE e.g. immobilisation of patients, should be identified and preventive measures undertaken.
 
 ## General CNS activity
 
@@ -1772,9 +1715,9 @@ Olanzapine should be used cautiously in patients who have a history of seizures 
 
 In comparator studies of one year or less duration, olanzapine was associated with a statistically significant lower incidence of treatment emergent dyskinesia. However the risk of tardive dyskinesia increases with long term exposure, and therefore if signs or symptoms of tardive dyskinesia appear in a patient on olanzapine, a dose reduction or discontinuation should be considered. These symptoms can temporally deteriorate or even arise after discontinuation of treatment.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Postural hypotension
+
+<div style=\"page-break-after: always\"></div>
 
 Postural hypotension was infrequently observed in the elderly in olanzapine clinical trials. It is recommended that blood pressure is measured periodically in patients over 65 years.
 
@@ -1816,13 +1759,11 @@ Fluoxetine (a CYP2D6 inhibitor), single doses of antacid (aluminium, magnesium) 
 
 Olanzapine may antagonise the effects of direct and indirect dopamine agonists.
 
-Olanzapine does not inhibit the main CYP450 isoenzymes in vitro (e.g. 1A2, 2D6, 2C9, 2C19, 3A4). Thus no particular interaction is expected as verified through in vivo studies where no inhibition of
-
-<div style=\"page-break-after: always\"></div>
-
-metabolism of the following active substances was found: tricyclic antidepressant (representing mostly CYP2D6 pathway), warfarin (CYP2C9), theophylline (CYP1A2) or diazepam (CYP3A4 and 2C19).
+Olanzapine does not inhibit the main CYP450 isoenzymes in vitro (e.g. 1A2, 2D6, 2C9, 2C19, 3A4). Thus no particular interaction is expected as verified through in vivo studies where no inhibition of metabolism of the following active substances was found: tricyclic antidepressant (representing mostly CYP2D6 pathway), warfarin (CYP2C9), theophylline (CYP1A2) or diazepam (CYP3A4 and 2C19).
 
 Olanzapine showed no interaction when co-administered with lithium or biperiden.
+
+<div style=\"page-break-after: always\"></div>
 
 Therapeutic monitoring of valproate plasma levels did not indicate that valproate dosage adjustment is required after the introduction of concomitant olanzapine.
 
@@ -1862,66 +1803,63 @@ No studies on the effects on the ability to drive and use machines have been per
 
 ## Adults
 
-The most frequently (seen in ≥ 1 % of patients) reported adverse reactions associated with the use of olanzapine in clinical trials were somnolence, weight gain, eosinophilia, elevated prolactin, cholesterol, glucose and triglyceride levels (see section 4.4), glucosuria, increased appetite, dizziness,
-
-<div style=\"page-break-after: always\"></div>
-
-akathisia, parkinsonism, leukopenia, neutropenia (see section 4.4), dyskinesia, orthostatic hypotension, anticholinergic effects, transient asymptomatic elevations of hepatic aminotransferases (see section 4.4), rash, asthenia, fatigue, pyrexia, arthralgia, increased alkaline phosphatase, high gamma glutamyltransferase, high uric acid, high creatine phosphokinase and oedema.
+The most frequently (seen in ≥ 1 % of patients) reported adverse reactions associated with the use of olanzapine in clinical trials were somnolence, weight gain, eosinophilia, elevated prolactin, cholesterol, glucose and triglyceride levels (see section 4.4), glucosuria, increased appetite, dizziness, akathisia, parkinsonism, leukopenia, neutropenia (see section 4.4), dyskinesia, orthostatic hypotension, anticholinergic effects, transient asymptomatic elevations of hepatic aminotransferases (see section 4.4), rash, asthenia, fatigue, pyrexia, arthralgia, increased alkaline phosphatase, high gamma glutamyltransferase, high uric acid, high creatine phosphokinase and oedema.
 
 ## Tabulated list of adverse reactions
 
-The following table lists the adverse reactions and laboratory investigations observed from spontaneous reporting and in clinical trials. Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness. The frequency terms listed are defined as follows: Very common (≥ 1/10), common (≥ 1/100 to &lt;1/ 10), uncommon (≥ 1/1,000 to &lt; 1/100), rare (≥1/10,000 to &lt;1/1,000), very rare (&lt;1/10,000), not known (cannot be estimated from the data available).
+<div style=\"page-break-after: always\"></div>
 
-| Very common                              | Common                                                                                                                   | Uncommon                                                                                                                                                                                                                  | Rare                                                                               | Not known   |
-|------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|-------------|
-| Blood and the lymphatic system disorders | Blood and the lymphatic system disorders                                                                                 | Blood and the lymphatic system disorders                                                                                                                                                                                  | Blood and the lymphatic system disorders                                           |             |
-|                                          | Eosinophilia Leukopenia 10 Neutropenia 10                                                                                |                                                                                                                                                                                                                           | Thrombocytopenia 11                                                                |             |
-| Immune system disorders                  | Immune system disorders                                                                                                  | Immune system disorders                                                                                                                                                                                                   | Immune system disorders                                                            |             |
-|                                          |                                                                                                                          | Hypersensitivity 11                                                                                                                                                                                                       |                                                                                    |             |
-| Metabolism and nutrition disorders       | Metabolism and nutrition disorders                                                                                       | Metabolism and nutrition disorders                                                                                                                                                                                        | Metabolism and nutrition disorders                                                 |             |
-| Weight gain 1                            | Elevated cholesterol levels 2,3 Elevated glucose levels 4 Elevated triglyceride levels 2,5 Glucosuria Increased appetite | Development or exacerbation of diabetes occasionally associated with ketoacidosis or coma, including some fatal cases (see section 4.4) 11                                                                                | Hypothermia 12                                                                     |             |
-| Nervous system disorders                 | Nervous system disorders                                                                                                 | Nervous system disorders                                                                                                                                                                                                  | Nervous system disorders                                                           |             |
-| Somnolence                               | Dizziness Akathisia 6 Parkinsonism 6 Dyskinesia 6                                                                        | Seizures where in most cases a history of seizures or risk factors for seizures were reported 11 Dystonia (including oculogyration) 11 Tardive dyskinesia 11 Amnesia 9 Dysarthria Stuttering 11 Restless Legs Syndrome 11 | Neuroleptic malignant syndrome (see section 4.4) 12 Discontinuation symptoms 7, 12 |             |
-| Cardiac disorders                        | Cardiac disorders                                                                                                        | Cardiac disorders                                                                                                                                                                                                         | Cardiac disorders                                                                  |             |
-|                                          |                                                                                                                          | Bradycardia QT c prolongation (see section 4.4)                                                                                                                                                                           | Ventricular tachycardia/fibrillation, sudden death (see section 4.4) 11            |             |
-| Vascular disorders                       | Vascular disorders                                                                                                       | Vascular disorders                                                                                                                                                                                                        | Vascular disorders                                                                 |             |
-| Orthostatic hypotension 10               |                                                                                                                          | Thromboembolism (including pulmonary embolism and deep                                                                                                                                                                    |                                                                                    |             |
+The following table lists the adverse reactions and laboratory investigations observed from spontaneous reporting and in clinical trials. Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness. The frequency terms listed are defined as follows: Very common (≥ 1/ 10), common (≥ 1 /100 to &lt; 1/ 1 0), uncommon (≥ 1 /1,000 to &lt; 1 /100 ), rare (≥1 /10,000 to &lt;1 /1,000 ), very rare (&lt;1 /10,000), not known (cannot be estimated from the data available).
+
+| Very common                                     | Common                                                                                                                   | Uncommon                                                                                                                                                                                                                  | Rare                                                                               | Not known   |
+|-------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|-------------|
+| Blood and the lymphatic system disorders        | Blood and the lymphatic system disorders                                                                                 | Blood and the lymphatic system disorders                                                                                                                                                                                  | Blood and the lymphatic system disorders                                           |             |
+|                                                 | Eosinophilia Leukopenia 10 Neutropenia 10                                                                                |                                                                                                                                                                                                                           | Thrombocytopenia 11                                                                |             |
+| Immune system disorders                         | Immune system disorders                                                                                                  | Immune system disorders                                                                                                                                                                                                   | Immune system disorders                                                            |             |
+| Hypersensitivity 11                             | Hypersensitivity 11                                                                                                      | Hypersensitivity 11                                                                                                                                                                                                       | Hypersensitivity 11                                                                |             |
+| Metabolism and nutrition disorders              | Metabolism and nutrition disorders                                                                                       | Metabolism and nutrition disorders                                                                                                                                                                                        | Metabolism and nutrition disorders                                                 |             |
+| Weight gain 1                                   | Elevated cholesterol levels 2,3 Elevated glucose levels 4 Elevated triglyceride levels 2,5 Glucosuria Increased appetite | Development or exacerbation of diabetes occasionally associated with ketoacidosis or coma, including some fatal cases (see section 4.4) 11                                                                                | Hypothermia 12                                                                     |             |
+| Nervous system disorders                        | Nervous system disorders                                                                                                 | Nervous system disorders                                                                                                                                                                                                  | Nervous system disorders                                                           |             |
+| Somnolence                                      | Dizziness Akathisia 6 Parkinsonism 6 Dyskinesia 6                                                                        | Seizures where in most cases a history of seizures or risk factors for seizures were reported 11 Dystonia (including oculogyration) 11 Tardive dyskinesia 11 Amnesia 9 Dysarthria Stuttering 11 Restless Legs Syndrome 11 | Neuroleptic malignant syndrome (see section 4.4) 12 Discontinuation symptoms 7, 12 |             |
+| Cardiac disorders                               | Cardiac disorders                                                                                                        | Cardiac disorders                                                                                                                                                                                                         | Cardiac disorders                                                                  |             |
+|                                                 |                                                                                                                          | Bradycardia QT c prolongation (see section 4.4)                                                                                                                                                                           | Ventricular tachycardia/fibrillation, sudden death (see section 4.4) 11            |             |
+| Vascular disorders                              | Vascular disorders                                                                                                       | Vascular disorders                                                                                                                                                                                                        | Vascular disorders                                                                 |             |
+| Orthostatic hypotension 10                      |                                                                                                                          | Thromboembolism (including pulmonary embolism and deep vein thrombosis) (see section 4.4)                                                                                                                                 |                                                                                    |             |
+| Respiratory, thoracic and mediastinal disorders | Respiratory, thoracic and mediastinal disorders                                                                          | Respiratory, thoracic and mediastinal disorders                                                                                                                                                                           | Respiratory, thoracic and mediastinal disorders                                    |             |
+| Epistaxis 9                                     | Epistaxis 9                                                                                                              | Epistaxis 9                                                                                                                                                                                                               | Epistaxis 9                                                                        |             |
+| Gastrointestinal disorders                      | Gastrointestinal disorders                                                                                               | Gastrointestinal disorders                                                                                                                                                                                                | Gastrointestinal disorders                                                         |             |
+|                                                 | Mild, transient anticholinergic                                                                                          | Abdominal distension 9                                                                                                                                                                                                    | Pancreatitis 11                                                                    |             |
 
 <div style=\"page-break-after: always\"></div>
 
-|                                                 |                                                                                                                             | vein thrombosis) (see section 4.4)                                                                   |                                                                            |                                                               |
-|-------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|---------------------------------------------------------------|
-| Respiratory, thoracic and mediastinal disorders | Respiratory, thoracic and mediastinal disorders                                                                             | Respiratory, thoracic and mediastinal disorders                                                      | Respiratory, thoracic and mediastinal disorders                            |                                                               |
-| Epistaxis 9                                     | Epistaxis 9                                                                                                                 | Epistaxis 9                                                                                          | Epistaxis 9                                                                |                                                               |
-|                                                 | Gastrointestinal disorders Mild, transient anticholinergic effects including constipation and dry mouth                     | Abdominal distension 9 Salivary hypersecretion 11                                                    | Pancreatitis 11                                                            |                                                               |
-| Hepatobiliary disorders                         | Hepatobiliary disorders                                                                                                     | Hepatobiliary disorders                                                                              | Hepatobiliary disorders                                                    | Hepatobiliary disorders                                       |
-|                                                 | Transient, asymptomatic elevations of hepatic aminotransferases (ALT, AST), especially in early treatment (see section 4.4) |                                                                                                      | Hepatitis (including hepatocellular, cholestatic or mixed liver injury) 11 |                                                               |
-| Skin and subcutaneous tissue disorders          | Skin and subcutaneous tissue disorders                                                                                      | Skin and subcutaneous tissue disorders                                                               | Skin and subcutaneous tissue disorders                                     | Skin and subcutaneous tissue disorders                        |
-|                                                 | Rash                                                                                                                        | Photosensitivity reaction Alopecia                                                                   |                                                                            | Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) |
-| Musculoskeletal and connective tissue disorders | Musculoskeletal and connective tissue disorders                                                                             | Musculoskeletal and connective tissue disorders                                                      | Musculoskeletal and connective tissue disorders                            | Musculoskeletal and connective tissue disorders               |
-|                                                 | Arthralgia 9                                                                                                                |                                                                                                      | Rhabdomyolysis 11                                                          |                                                               |
-| Renal and urinary disorders                     | Renal and urinary disorders                                                                                                 | Renal and urinary disorders                                                                          | Renal and urinary disorders                                                | Renal and urinary disorders                                   |
-|                                                 |                                                                                                                             | Urinary incontinence, urinary retention Urinary hesitation 11                                        |                                                                            |                                                               |
-| Pregnancy, puerperium and perinatal conditions  | Pregnancy, puerperium and perinatal conditions                                                                              | Pregnancy, puerperium and perinatal conditions                                                       | Pregnancy, puerperium and perinatal conditions                             | Pregnancy, puerperium and perinatal conditions                |
-|                                                 | Reproductive system and breast disorders                                                                                    |                                                                                                      |                                                                            | Drug withdrawal syndrome neonatal (see section 4.6)           |
-| Amenorrhea Priapism 12                          | Amenorrhea Priapism 12                                                                                                      | Amenorrhea Priapism 12                                                                               | Amenorrhea Priapism 12                                                     | Amenorrhea Priapism 12                                        |
-| General                                         | Erectile dysfunction in males Decreased libido in males and females disorders and administration                            | Breast enlargement Galactorrhea in females Gynaecomastia/breast enlargement in males site conditions |                                                                            |                                                               |
-| Oedema                                          | Oedema                                                                                                                      | Oedema                                                                                               | Oedema                                                                     | Oedema                                                        |
+|                                                      | effects including constipation and dry mouth                                                                                | Salivary hypersecretion 11                                                                      |                                                                            |                                                               |
+|------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|---------------------------------------------------------------|
+| Hepatobiliary disorders                              | Hepatobiliary disorders                                                                                                     | Hepatobiliary disorders                                                                         | Hepatobiliary disorders                                                    | Hepatobiliary disorders                                       |
+|                                                      | Transient, asymptomatic elevations of hepatic aminotransferases (ALT, AST), especially in early treatment (see section 4.4) |                                                                                                 | Hepatitis (including hepatocellular, cholestatic or mixed liver injury) 11 |                                                               |
+| Skin and subcutaneous tissue disorders               | Skin and subcutaneous tissue disorders                                                                                      | Skin and subcutaneous tissue disorders                                                          | Skin and subcutaneous tissue disorders                                     | Skin and subcutaneous tissue disorders                        |
+|                                                      | Rash                                                                                                                        | Photosensitivity reaction Alopecia                                                              |                                                                            | Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) |
+| Musculoskeletal and connective tissue disorders      | Musculoskeletal and connective tissue disorders                                                                             | Musculoskeletal and connective tissue disorders                                                 | Musculoskeletal and connective tissue disorders                            | Musculoskeletal and connective tissue disorders               |
+|                                                      | Arthralgia 9                                                                                                                |                                                                                                 | Rhabdomyolysis 11                                                          |                                                               |
+| Renal and urinary disorders                          | Renal and urinary disorders                                                                                                 | Renal and urinary disorders                                                                     | Renal and urinary disorders                                                | Renal and urinary disorders                                   |
+| Pregnancy, puerperium                                | and perinatal                                                                                                               | Urinary incontinence, urinary retention Urinary hesitation 11 conditions                        |                                                                            | Drug withdrawal syndrome neonatal (see section 4.6)           |
+| Reproductive system and breast disorders             | Reproductive system and breast disorders                                                                                    | Reproductive system and breast disorders                                                        | Reproductive system and breast disorders                                   | Reproductive system and breast disorders                      |
+|                                                      | Erectile dysfunction in males Decreased libido in males and females                                                         | Amenorrhea Breast enlargement Galactorrhea in females Gynaecomastia/breast enlargement in males | Priapism 12                                                                |                                                               |
+| General disorders and administration site conditions | General disorders and administration site conditions                                                                        | General disorders and administration site conditions                                            | General disorders and administration site conditions                       | General disorders and administration site conditions          |
+|                                                      | Asthenia Fatigue Oedema Pyrexia 10                                                                                          |                                                                                                 |                                                                            |                                                               |
+| Investigations                                       | Investigations                                                                                                              | Investigations                                                                                  | Investigations                                                             | Investigations                                                |
+| Elevated plasma prolactin levels 8                   | Increased alkaline phosphatase 10 High creatine phosphokinase 11 High Gamma Glutamyltransferase 10 High uric acid 10        | Increased total bilirubin                                                                       |                                                                            |                                                               |
 
 <div style=\"page-break-after: always\"></div>
 
-| Elevated plasma prolactin levels 8   | Increased alkaline phosphatase 10 High creatine phosphokinase 11 High Gamma Glutamyltransferase 10 High uric acid 10   | Increased total bilirubin   |
-|--------------------------------------|------------------------------------------------------------------------------------------------------------------------|-----------------------------|
-
-1 Clinically significant weight gain was observed across all baseline Body Mass Index (BMI) categories. Following short term treatment (median duration 47 days), weight gain ≥ 7 % of baseline body weight was very common (22.2%), ≥ 15% was common (4.2%) and ≥25% was uncommon (0.8%). Patients gaining ≥7%, ≥15% and ≥25% of their baseline body weight with long-termexposure (at least 48 weeks) were very common (64.4 %, 31.7 % and 12.3 % respectively).
+1 Clinically significant weight gain was observed across all baseline Body Mass Index (BMI) categories. Following short term treatment (median duration 47 days), weight gain ≥ 7 % of baseline body weight was very common (22.2%), ≥ 15% was common (4.2%) and ≥25% was uncommon (0.8%). Patients gaining ≥7%, ≥15% and ≥25% of their baseline body weight with long-term-exposure (at least 48 weeks) were very common (64.4 %, 31.7 % and 12.3 % respectively).
 
 2 Mean increases in fasting lipid values (total cholesterol, LDL cholesterol, and triglycerides) were greater in patients without evidence of lipid dysregulation at baseline.
 
-3 Observed for fasting normal levels at baseline (&lt; 5.17 mmol/l) which increased to high (≥ 6.2 mmol/l). Changes in total fasting cholesterol levels from borderline at baseline (≥ 5.17- &lt; 6.2 mmol/l) to high (≥ 6.2 mmol/l) were very common.
+3 Observed for fasting normal levels at baseline (&lt; 5.17 mmol/l) which increased to high ( ≥ 6.2 mmol/l). Changes in total fasting cholesterol levels from borderline at baseline (≥ 5.17 -&lt; 6.2 mmol/l) to high (≥ 6.2 mmol/l) were very common.
 
-4 Observed for fasting normal levels at baseline (&lt; 5.56 mmol/l) which increased to high (≥ 7 mmol/l). Changes in fasting glucose from borderline at baseline (≥ 5.56 - &lt; 7 mmol/l) to high (≥ 7 mmol/l) were very common.
+4 Observed for fasting normal levels at baseline (&lt; 5.56 mmol/l) which increased to high (≥ 7 mmol/l). C hanges in fasting glucose from borderline at baseline (≥ 5.56 -&lt; 7 mmol/l) to high (≥ 7 mmol/l) were very common.
 
-5 Observed for fasting normal levels at baseline (&lt; 1.69 mmol/l) which increased to high (≥ 2.26 mmol/l). Changes in fasting triglycerides from borderline at baseline (≥ 1.69 mmol/l - &lt; 2.26 mmol/l) to high (≥ 2.26 mmol/l) were very common.
+5 Observed for fasting normal levels at baseline (&lt; 1.69 mmol/l) which increased to high (≥ 2.26 mmol/l). Changes in fasting triglycerides f rom borderline at baseline (≥ 1.69 mmol/l -&lt; 2.26 mmol/l) to high (≥ 2.26 mmol/l) were very common.
 
 6 In clinical trials, the incidence of Parkinsonism and dystonia in olanzapine-treated patients was numerically higher, but not statistically significantly different from placebo. Olanzapine-treated patients had a lower incidence of Parkinsonism, akathisia and dystonia compared with titrated doses of haloperidol. In the absence of detailed information on the pre-existing history of individual acute and tardive extrapyramidal movement disorders, it cannot be concluded at present that olanzapine produces less tardive dyskinesia and/or other tardive extrapyramidal syndromes.
 
@@ -1939,13 +1877,13 @@ The following table lists the adverse reactions and laboratory investigations ob
 
 ## Long-term exposure (at least 48 weeks)
 
-<div style=\"page-break-after: always\"></div>
-
 The proportion of patients who had adverse, clinically significant changes in weight gain, glucose, total/LDL/HDL cholesterol or triglycerides increased over time. In adult patients who completed 9-12 months of therapy, the rate of increase in mean blood glucose slowed after approximately 6 months.
 
 ## Additional information on special populations
 
 In clinical trials in elderly patients with dementia, olanzapine treatment was associated with a higher incidence of death and cerebrovascular adverse reactions compared to placebo (see section 4.4). Very common adverse reactions associated with the use of olanzapine in this patient group were abnormal gait and falls. Pneumonia, increased body temperature, lethargy, erythema, visual hallucinations and urinary incontinence were observed commonly.
+
+<div style=\"page-break-after: always\"></div>
 
 In clinical trials in patients with drug-induced (dopamine agonist) psychosis associated with Parkinson's disease, worsening of Parkinsonian symptomatology and hallucinations were reported very commonly and more frequently than with placebo.
 
@@ -1955,9 +1893,9 @@ In one clinical trial in patients with bipolar mania, valproate combination ther
 
 Olanzapine is not indicated for the treatment of children and adolescent patients below 18 years. Although no clinical studies designed to compare adolescents to adults have been conducted, data from the adolescent trials were compared to those of the adult trials.
 
-The following table summarises the adverse reactions reported with a greater frequency in adolescent patients (aged 13-17 years) than in adult patients or adverse reactions only identified during shortterm clinical trials in adolescent patients. Clinically significant weight gain (≥ 7 %) appears to occur more frequently in the adolescent population compared to adults with comparable exposures. The magnitude of weight gain and the proportion of adolescent patients who had clinically significant weight gain were greater with long-term exposure (at least 24 weeks) than with short-term exposure.
+The following table summarises the adverse reactions reported with a greater frequency in adolescent patients (aged 13-17 years) than in adult patients or adverse reactions only identified during short-term clinical trials in adolescent patients . Clinically significant weight gain (≥ 7 %) appears to occur more frequently in the adolescent population compared to adults with comparable exposures. The magnitude of weight gain and the proportion of adolescent patients who had clinically significant weight gain were greater with long-term exposure (at least 24 weeks) than with short-term exposure.
 
-Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness. The frequency terms listed are defined as follows: Very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10).
+Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness. The frequency terms listed are defined as follows: Very common ( ≥ 1/ 10), common (≥ 1 /100 to &lt; 1/10).
 
 | Metabolism and nutrition disorders Very common: Weight gain 13 , elevated triglyceride levels 14 , increased appetite. Common: Elevated cholesterol levels 15   |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -1966,13 +1904,13 @@ Within each frequency grouping, adverse reactions are presented in order of decr
 | Hepatobiliary disorders Very common: Elevations of hepatic aminotransferases (ALT/AST; see section 4.4).                                                        |
 | Investigations Very common: Decreased total bilirubin, increased GGT, elevated plasma prolactin levels 16                                                       |
 
+13 Following short term treatment (median duration 22 days), weight gain ≥ 7 % of baseline body weight (kg) was very common (40.6 %), ≥ 15 % of baseline body weight was common (7.1 %) and ≥ 25 % was common (2.5 %). With long-term exposure (at least 24 weeks), 89.4 % gained ≥ 7 %, 55.3 % gained ≥ 15 % and 29.1 % gained ≥ 25% of their baseline body weight.
+
+14 Observed for fasting normal levels at baseline (&lt; 1.016 mmol/l) which increased to high (≥ 1.467 mmol/l) and changes in fasting triglycerides from borderline at baseline (≥ 1.016 mmol/l -&lt; 1.467 mmol/l) to high (≥ 1.467 mm ol/l).
+
+15 Changes in total fasting cholesterol levels from normal at baseline (&lt; 4.39 mmol/l) to high (≥ 5.17 mmol/l) were observed commonly. Changes in total fasting cholesterol levels from borderline at baseline (≥ 4.39 -&lt; 5.17 mmol/l) to high (≥ 5.17 mmol/l) were very common.
+
 <div style=\"page-break-after: always\"></div>
-
-25 % was common (2.5 %). With long-term exposure (at least 24 weeks), 89.4 % gained ≥ 7 %, 55.3 % gained ≥ 15 % and 29.1 % gained ≥ 25% of their baseline body weight.
-
-14 Observed for fasting normal levels at baseline (&lt; 1.016 mmol/l) which increased to high (≥ 1.467 mmol/l) and changes in fasting triglycerides from borderline at baseline (≥ 1.016 mmol/l - &lt; 1.467 mmol/l) to high (≥ 1.467 mmol/l).
-
-15 Changes in total fasting cholesterol levels from normal at baseline (&lt; 4.39 mmol/l) to high (≥ 5.17 mmol/l) were observed commonly. Changes in total fasting cholesterol levels from borderline at baseline (≥ 4.39 - &lt; 5.17 mmol/l) to high (≥ 5.17 mmol/l) were very common.
 
 16 Elevated plasma prolactin levels were reported in 47.4 % of adolescent patients.
 
@@ -2004,9 +1942,9 @@ Pharmacotherapeutic group: psycholeptics, diazepines, oxazepines, thiazepines an
 
 Olanzapine is an antipsychotic, antimanic and mood stabilising agent that demonstrates a broad pharmacologic profile across a number of receptor systems.
 
-<div style=\"page-break-after: always\"></div>
-
 In preclinical studies, olanzapine exhibited a range of receptor affinities (Ki &lt; 100 nM) for serotonin 5 HT2A/2C, 5 HT3, 5 HT6; dopamine D1, D2, D3, D4, D5; cholinergic muscarinic receptors M1-M5 α 1 adrenergic; and histamine H1 receptors. Animal behavioural studies with olanzapine indicated 5HT, dopamine, and cholinergic antagonism, consistent with the receptor-binding profile. Olanzapine demonstrated a greater in vitro affinity for serotonin 5HT2 than dopamine D2 receptors and greater 5HT2 than D2 activity in vivo , models. Electrophysiological studies demonstrated that olanzapine selectively reduced the firing of mesolimbic (A10) dopaminergic neurons, while having little effect on the striatal (A9) pathways involved in motor function. Olanzapine reduced a conditioned avoidance response, a test indicative of antipsychotic activity, at doses below those producing catalepsy, an effect indicative of motor side-effects. Unlike some other antipsychotic agents, olanzapine increases responding in an 'anxiolytic' test.
+
+<div style=\"page-break-after: always\"></div>
 
 In a single oral dose (10 mg) Positron Emission Tomography (PET) study in healthy volunteers, olanzapine produced a higher 5 HT2A than dopamine D2 receptor occupancy. In addition, a Single Photon Emission Computed Tomography (SPECT) imaging study in schizophrenic patients revealed that olanzapine-responsive patients had lower striatal D2 occupancy than some other antipsychotic and risperidone-responsive patients, while being comparable to clozapine-responsive patients.
 
@@ -2026,9 +1964,9 @@ In an 18-month co-therapy study in manic or mixed episode patients stabilised wi
 
 ## Paediatric population
 
-<div style=\"page-break-after: always\"></div>
-
 Controlled efficacy data in adolescents (ages 13 to 17 years) are limited to short term studies in schizophrenia (6 weeks) and mania associated with bipolar I disorder (3 weeks), involving less than 200 adolescents. Olanzapine was used as a flexible dose starting with 2.5 and ranging up to 20 mg/day. During treatment with olanzapine, adolescents gained significantly more weight compared with adults. The magnitude of changes in fasting total cholesterol, LDL cholesterol, triglycerides, and prolactin (see sections 4.4 and 4.8) were greater in adolescents than in adults. There are no controlled data on maintenance of effect or long term safety (see sections 4.4 and 4.8) . Information on long term safety is primarily limited to open-label, uncontrolled data.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 5.2 Pharmacokinetic properties
 
@@ -2038,7 +1976,7 @@ Olanzapine is well absorbed after oral administration, reaching peak plasma conc
 
 ## Distribution
 
-The plasma protein binding of Olanzapine was about 93 % over the concentration range of about 7 to about 1000 ng/ml. Olanzapine is bound predominantly to albumin and α1-acid-glycoprotein.
+The plasma protein binding of Olanzapine was about 93 % over the concentration range of about 7 to about 1000 ng/ml. Olanzapine is bound predominantly to albumin and α 1-acid-glycoprotein.
 
 ## Biotransformation
 
@@ -2058,11 +1996,7 @@ In renally impaired patients (creatinine clearance &lt; 10 ml/min) versus health
 
 ## Hepatic impairment
 
-A small study of the effect of impaired liver function in 6 subjects with clinically significant (Childs Pugh Classification A (n = 5) and B (n = 1)) cirrhosis revealed little effect on the pharmacokinetics of orally administered olanzapine (2.5 - 7.5 mg single dose): Subjects with mild to moderate hepatic dysfunction had slightly increased systemic clearance and faster elimination half-time compared to
-
-<div style=\"page-break-after: always\"></div>
-
-subjects with no hepatic dysfunction (n = 3). There were more smokers among subjects with cirrhosis (4/6; 67 %) than among subjects with no hepatic dysfunction (0/3; 0 %).
+A small study of the effect of impaired liver function in 6 subjects with clinically significant (Childs Pugh Classification A (n = 5) and B (n = 1)) cirrhosis revealed little effect on the pharmacokinetics of orally administered olanzapine (2.5 - 7.5 mg single dose): Subjects with mild to moderate hepatic dysfunction had slightly increased systemic clearance and faster elimination half-time compared to subjects with no hepatic dysfunction (n = 3). There were more smokers among subjects with cirrhosis (4/6; 67 %) than among subjects with no hepatic dysfunction (0/3; 0 %).
 
 ## Smoking
 
@@ -2071,6 +2005,8 @@ In non-smoking versus smoking subjects (males and females) the mean elimination 
 The plasma clearance of olanzapine is lower in elderly versus young subjects, in females versus males, and in non-smokers versus smokers. However, the magnitude of the impact of age, gender, or smoking on olanzapine clearance and half-life is small in comparison to the overall variability between individuals.
 
 In a study of Caucasians, Japanese, and Chinese subjects, there were no differences in the pharmacokinetic parameters among the three populations.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Paediatric population
 
@@ -2094,11 +2030,9 @@ Effects on haematology parameters were found in each species, including dose-rel
 
 Olanzapine had no teratogenic effects.
 
-## Sedation affected mating performance of male rats.
+Sedation affected mating performance of male rats.
 
 Estrous cycles were affected at doses of 1.1 mg/kg (3 times the maximum human dose) and reproduction parameters were influenced in rats given 3 mg/kg (9 times the maximum human dose).
-
-<div style=\"page-break-after: always\"></div>
 
 In the offspring of rats given olanzapine, delays in foetal development and transient decreases in offspring activity levels were seen.
 
@@ -2110,11 +2044,15 @@ Olanzapine was not mutagenic or clastogenic in a full range of standard tests, w
 
 Based on the results of studies in mice and rats, it was concluded that olanzapine is not carcinogenic.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 6. PHARMACEUTICAL PARTICULARS
 
 ## 6.1 List of excipients
 
-Mannitol (E 421) Microcrystalline cellulose Aspartame (E 951) Crospovidone Magnesium stearate
+Microcrystalline cellulose
+
+Mannitol (E 421) Aspartame (E 951) Crospovidone Magnesium stearate
 
 ## 6.2 Incompatibilities
 
@@ -2126,7 +2064,7 @@ Not applicable.
 
 ## 6.4 Special precautions for storage
 
-Store below 30  C.
+Store below 30 ° C.
 
 ## 6.5 Nature and contents of container
 
@@ -2143,8 +2081,6 @@ No special requirements.
 Glenmark Arzneimittel GmbH Industriestr. 31, D - 82194 Gröbenzell, Germany
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
-
-<div style=\"page-break-after: always\"></div>
 
 EU/1/09/588/010
 
@@ -2185,13 +2121,13 @@ Medicinal product subject to medical prescription.
 
 ## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
-##  Periodic safety update reports (PSURs)
+## · Periodic safety update reports (PSURs)
 
 At the time of granting the marketing authorisation, the submission of PSUR is not required for this medicinal product. However, the marketing authorisation holder shall submit periodic safety update reports for this medicinal product if the product is included in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and published on the European medicines web-portal.
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
-## · Risk Management Plan (RMP)
+- Risk Management Plan (RMP)
 
 Not applicable.
 
@@ -2253,11 +2189,9 @@ Keep out of the sight and reach of children
 
 EXP
 
-<div style=\"page-break-after: always\"></div>
-
 ## 9. SPECIAL STORAGE CONDITIONS
 
-Store below 30  C
+<div style=\"page-break-after: always\"></div>
 
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
@@ -2319,18 +2253,15 @@ Olanzapine
 
 Glenmark Arzneimittel GmbH
 
-| 3.   | EXPIRY DATE   |
-|------|---------------|
+3. EXPIRY DATE
 
 EXP
 
-| 4.   | BATCH NUMBER   |
-|------|----------------|
+4. BATCH NUMBER
 
 BN
 
-| 5.   | OTHER   |
-|------|---------|
+5. OTHER
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2358,11 +2289,9 @@ See package leaflet for further information
 
 Orodispersible tablet
 
-28 orodispersible tablets
-
-56 orodispersible tablets
-
-70 orodispersible tablets
+- 28 orodispersible tablets
+- 56 orodispersible tablets
+- 70 orodispersible tablets
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -2380,11 +2309,9 @@ Keep out of the sight and reach of children
 
 EXP
 
-<div style=\"page-break-after: always\"></div>
-
 ## 9. SPECIAL STORAGE CONDITIONS
 
-Store below 30  C
+<div style=\"page-break-after: always\"></div>
 
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
@@ -2432,9 +2359,7 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
-
-## ALUMINIUM BLISTERS
+## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS ALUMINIUM BLISTERS
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -2446,13 +2371,11 @@ Olanzapine
 
 Glenmark Arzneimittel GmbH
 
-| 3.   | EXPIRY DATE   |
-|------|---------------|
+3. EXPIRY DATE
 
 EXP
 
-| 4.   | BATCH NUMBER   |
-|------|----------------|
+## 4. BATCH NUMBER
 
 BN
 
@@ -2509,7 +2432,7 @@ EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-Store below 30  C
+Store below 30 ° C
 
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
@@ -2571,7 +2494,7 @@ Olanzapine
 
 Glenmark Arzneimittel GmbH
 
-## 3. EXPIRY DATE
+3. EXPIRY DATE
 
 EXP
 
@@ -2579,8 +2502,7 @@ EXP
 
 BN
 
-| 5.   | OTHER   |
-|------|---------|
+## 5. OTHER
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2630,11 +2552,9 @@ Keep out of the sight and reach of children
 
 EXP
 
-<div style=\"page-break-after: always\"></div>
-
 ## 9. SPECIAL STORAGE CONDITIONS
 
-Store below 30  C
+<div style=\"page-break-after: always\"></div>
 
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
@@ -2662,9 +2582,7 @@ BN
 
 Medicinal product subject to medical prescription.
 
-15.
-
-INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -2684,19 +2602,19 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
-|------------------------------------------------------|
-| ALUMINIUM BLISTERS                                   |
+| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
+|-----------------------------------------------------|
+| ALUMINIUM BLISTERS                                  |
 
-| 1.   | NAMEOF THE MEDICINAL PRODUCT   |
-|------|--------------------------------|
+| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
+|------|------------------------------|
 
 Olanzapine Glenmark Europe 20 mg orodispersible tablets
 
 Olanzapine
 
-| 2.   | NAMEOF THE MARKETING AUTHORISATION HOLDER   |
-|------|---------------------------------------------|
+| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
+|------|-------------------------------------------|
 
 Glenmark Arzneimittel GmbH
 
@@ -2732,9 +2650,7 @@ Olanzapine Glenmark Europe 5 mg orodispersible tablets Olanzapine Glenmark Europ
 - -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
 - -If you get any side effects talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
 
-## What is in this leaflet
-
-:
+## What is in this leaflet :
 
 1. What Olanzapine Glenmark Europe is and what it is used for
 2. What you need to know before you take Olanzapine Glenmark Europe
@@ -2749,8 +2665,8 @@ Olanzapine Glenmark Europe contains the active substance olanzapine. Olanzapine 
 
 Olanzapine Glenmark Europe is used to treat the following conditions:
 
--  Schizophrenia, a disease with symptoms such as hearing, seeing or sensing things which are not there, mistaken beliefs, unusual suspiciousness, and becoming withdrawn. People with this disease may also feel depressed, anxious or tense.
--  Moderate to severe manic episodes,a condition with symptoms of excitement or euphoria
+- Schizophrenia, a disease with symptoms such as hearing, seeing or sensing things which are not there, mistaken beliefs, unusual suspiciousness, and becoming withdrawn. People with this disease may also feel depressed, anxious or tense.
+- Moderate to severe manic episodes,a condition with symptoms of excitement or euphoria
 
 Olanzapine Glenmark Europe has been shown to prevent recurrence of these symptoms in patients with bipolar disorder whose manic episode has responded to olanzapine treatment.
 
@@ -2767,26 +2683,26 @@ Talk to your doctor or pharmacist before you take Olanzapine Glenmark Europe
 
 - -The use of Olanzapine Glenmark Europe in elderly patients with dememtia is not recommended as it may have serious side effects.
 - -Medicines of this type may cause unusual movements mainly of the face or tongue. If this happens after you have been given Olanzapine Glenmark Europe, tell your doctor.
+- -Very rarely, medicines of this type cause a combination of fever, faster breathing, sweating, muscle stiffness and drowsiness or sleepiness. If this happens, contact your doctor at once.
 
 <div style=\"page-break-after: always\"></div>
 
-- -Very rarely, medicines of this type cause a combination of fever, faster breathing, sweating, muscle stiffness and drowsiness or sleepiness. If this happens, contact your doctor at once.
 - -Weight gain has been seen in patients taking Olanzapine Glenmark Europe. You and your doctor should check your weight regularly. Consider referral to a dietician or help with a diet plan if necessary.
 - -High blood sugar and high levels of fat (triglycerides and cholesterol) have been seen in patients taking Olanzapine Glenmark Europe. Your doctor should do blood tests to check blood sugar and certain fat levels before you start taking Olanzapine Glenmark Europe and regularly during treatment.
 - -Tell your doctor if you or someone else in your family has a history of blood clots, as medicines like these have been associated with the formation of blood clots.
 
 If you suffer from any of the following illnesses tell your doctor as soon as possible:
 
--  Stroke or 'mini' stroke (temporary symptoms of stroke)
--  Parkinson's disease
--  Prostate problems
--  A blocked intestine (Paralytic ileus)
--  Liver or kidney disease
--  Blood disorders
--  Heart disease
--  Diabetes
--  Seizures
--  If you know that you may have salt depletion as a result of prolonged severe diarrhoea and vomiting (being sick) or usage of diuretics (water tablets)
+- Stroke or 'mini' stroke (temporary symptoms of stroke)
+- Parkinson's disease
+- Prostate problems
+- A blocked intestine (Paralytic ileus)
+- Liver or kidney disease
+- Blood disorders
+- Heart disease
+- Diabetes
+- Seizures
+- If you know that you may have salt depletion as a result of prolonged severe diarrhoea and vomiting (being sick) or usage of diuretics (water tablets)
 
 If you suffer from dementia, you or your carer/relative should tell your doctor if you have ever had a stroke or 'mini' stroke.
 
@@ -2804,8 +2720,8 @@ Tell your doctor if you are taking, have recently taken or might take any other 
 
 In particular, tell your doctor if you are taking:
 
--  Medicines for Parkinson's disease
--  Carbamazepine (an anti-epileptic and mood stabiliser), fluvoxamine (an antidepresant) or ciprofloxacin (an antibiotic) - it may be necessary to change your Olanzapine Glenmark Europe dose.
+- Medicines for Parkinson's disease
+- Carbamazepine (an anti-epileptic and mood stabiliser), fluvoxamine (an antidepresant) or ciprofloxacin (an antibiotic) - it may be necessary to change your Olanzapine Glenmark Europe dose.
 
 ## Olanzapine Glenmark Europe with alcohol
 
@@ -2815,9 +2731,9 @@ Do not drink any alcohol if you have been given Olanzapine Glenmark Europe as to
 
 If you are pregnant or breast feeding, think you may be pregnant or are planning to have a baby, ask your doctor for advice before taking this medicine. You should not be given this medicine when breast-feeding, as small amounts of  Olanzapine Glenmark Europe can pass into breast milk.
 
-<div style=\"page-break-after: always\"></div>
-
 The following symptoms may occur in newborn babies, of mothers that have used Olanzapine Glenmark Europe in the last trimester (last three months of their pregnancy): shaking, muscle stiffness and/or weakness, sleepiness, agitation, breathing problems, and difficulty in feeding. If your baby develops any of these symptoms you may need to contact your doctor.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Driving and using machines
 
@@ -2851,81 +2767,81 @@ If you suddenly stop taking Olanzapine Glenmark Europe, symptoms such as sweatin
 
 If you have any further questions on the use of this medicine, ask your doctor or pharmacist.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 4. Possible side effects
+
+<div style=\"page-break-after: always\"></div>
 
 Like all medicines, this medicine can cause side effects, although not everybody gets them.
 
 Tell your doctor immediately if you have:
 
--  unusual movement (a common side effect that may affect up to 1 in 10 people) mainly of the face or tongue;
--  blood clots in the veins (an uncommon side effect that may affect up to 1 in 100 people) especially in the legs (symptoms include swelling, pain, and redness in the leg), which may travel through blood vessels to the lungs causing chest pain and difficulty in breathing. If you notice any of these symptoms seek medical advice immediately;
--  a combination of fever, faster breathing, sweating, muscle stiffness and drowsiness or sleepiness (the frequency of this side effect cannot be estimated from the available data).
+- unusual movement (a common side effect that may affect up to 1 in 10 people) mainly of the face or tongue;
+- blood clots in the veins (an uncommon side effect that may affect up to 1 in 100 people) especially in the legs (symptoms include swelling, pain, and redness in the leg), which may travel through blood vessels to the lungs causing chest pain and difficulty in breathing. If you notice any of these symptoms seek medical advice immediately;
+- a combination of fever, faster breathing, sweating, muscle stiffness and drowsiness or sleepiness (the frequency of this side effect cannot be estimated from the available data).
 
 ## Very common side effects (may affect more than 1 in 10 people) include:
 
--  Weight gain
--  Sleepiness
--  Increases in the levels of prolactin in the blood.
--  In the early stages of treatment, some people may feel dizzy or faint (with a slow heart rate), especially when getting up from a lying or sitting position. This will usually pass on its own but if it does not, tell your doctor.
+- Weight gain
+- Sleepiness
+- Increases in the levels of prolactin in the blood.
+- In the early stages of treatment, some people may feel dizzy or faint (with a slow heart rate), especially when getting up from a lying or sitting position. This will usually pass on its own but if it does not, tell your doctor.
 
 ## Common side effects (may affect up to 1 in 10 people) include:
 
--  Changes in the levels of some blood cells, circulating fats and early in treatment, temporary increases in liver enzymes.
--  Increases in the level of sugars in the blood and urine.
--  Increases in levels of uric acid and creatine phosphokinase in the blood
--  Feeling more hungry.
--  Dizziness.
--  Restlessness.
--  Tremor.
--  Unusual movements (dyskinesias).
--  Constipation.
--  Dry mouth.
--  Rash.
--  Loss of strength.
--  Extreme tiredness.
--  Water retention leading to swelling of the hands, ankles or feet.
--  Fever
--  Joint pain
--  Sexual dysfunctions such as decreased libido in males and females or erectile dysfunction in males.
+- Changes in the levels of some blood cells, circulating fats and early in treatment, temporary increases in liver enzymes.
+- Increases in the level of sugars in the blood and urine.
+- Increases in levels of uric acid and creatine phosphokinase in the blood
+- Feeling more hungry.
+- Dizziness.
+- Restlessness.
+- Tremor.
+- Unusual movements (dyskinesias).
+- Constipation.
+- Dry mouth.
+- Rash.
+- Loss of strength.
+- Extreme tiredness.
+- Water retention leading to swelling of the hands, ankles or feet.
+- Fever
+- Joint pain
+- Sexual dysfunctions such as decreased libido in males and females or erectile dysfunction in males.
 
 ## Uncommon side effects (may affect up to 1 in 100 people) include:
 
--  Hypersensitivity (e.g. swelling in the mouth and throat, itching, rash)
--  diabetes or the worsening of diabetes, occasionally associated with ketoacidosis (ketones in the blood and urine) or coma
--  seizures, usually associated with a history of seizures (epilepsy)
--  muscle stiffness or spasms (including eye movements)
--  Restless legs syndrome
--  problems with speech
--  stuttering,
+- Hypersensitivity (e.g. swelling in the mouth and throat, itching, rash)
+- diabetes or the worsening of diabetes, occasionally associated with ketoacidosis (ketones in the blood and urine) or coma
+- seizures, usually associated with a history of seizures (epilepsy)
+- muscle stiffness or spasms (including eye movements)
+- Restless legs syndrome
+- problems with speech
+- stuttering,
+- Slow heart rate.
+- Sensitivity to sunlight.
+- Bleeding from the nose.
+- Abdominal distension
+- Drooling
 
 <div style=\"page-break-after: always\"></div>
 
--  Slow heart rate.
--  Sensitivity to sunlight.
--  Bleeding from the nose.
--  Abdominal distension
--  Drooling
--  Memory loss or forgetfulness
--  Urinary incontinence, lack of ability to urinate.
--  Hair loss.
--  Absence or decrease in menstrual periods.
--  Changes in breasts in males and females such as an abnormal production of breast milk or abnormal growth.
+- Memory loss or forgetfulness
+- Urinary incontinence, lack of ability to urinate.
+- Hair loss.
+- Absence or decrease in menstrual periods.
+- Changes in breasts in males and females such as an abnormal production of breast milk or abnormal growth.
 
 ## Rare side effects (may affect up to 1 in 1000 people) include :
 
--  Lowering of normal body temperature.
--  Abnormal rhythms of the heart.
--  Sudden unexplained death.
--  Inflammation of the pancreas causing severe stomach pain, fever and sickness.
--  Liver disease appearing as yellowing of the skin and white parts of the eyes.
--  Muscle disease presenting as unexplained aches and pains.
--  Prolonged and/or painful erection.
+- Lowering of normal body temperature.
+- Abnormal rhythms of the heart.
+- Sudden unexplained death.
+- Inflammation of the pancreas causing severe stomach pain, fever and sickness.
+- Liver disease appearing as yellowing of the skin and white parts of the eyes.
+- Muscle disease presenting as unexplained aches and pains.
+- Prolonged and/or painful erection.
 
 ## Very rare side effects (may affect up to 1 in 10,000) include :
 
--  Serious allergic reactions such as Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS). DRESS appears initially as flu-like symptoms with a rash on the face and then with an extended rash, high temperature, enlarged lymph nodes, increased levels of liver enzymes seen in blood tests and an increase in a type of white blood cell (eosinophilia).
+- Serious allergic reactions such as Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS). DRESS appears initially as flu-like symptoms with a rash on the face and then with an extended rash, high temperature, enlarged lymph nodes, increased levels of liver enzymes seen in blood tests and an increase in a type of white blood cell (eosinophilia).
 
 While taking olanzapine, elderly patients with dementia may suffer from stroke, pneumonia, urinary incontinence, falls, extreme tiredness, visual hallucinations, a rise in body temperature, redness of the skin and have trouble walking. Some fatal cases have been reported in this particular group of patients.
 
@@ -2941,7 +2857,7 @@ Keep this medicine out of sight and reach and of children
 
 Do not use this medicine after the expiry date which is stated on the carton and blister after EXP. The expiry date refers to the last day of that month.
 
-Store below 30  C.
+Store below 30 ° C.
 
 Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help to protect the environment.
 
@@ -2949,15 +2865,15 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What Olanzapine Glenmark Europe contains
 
-<div style=\"page-break-after: always\"></div>
-
 - -The active substance is olanzapine
 - -Each Olanzapine Glenmark Europe orodispersible tablet contains, 5 mg, 10 mg, 15 mg, or 20 mg olanzapine
 - -The other ingredients are mannitol (E 421), microcrystalline cellulose, aspartame (E 951), crospovidone, magnesium stearate
 
+<div style=\"page-break-after: always\"></div>
+
 ## What Olanzapine Glenmark Europe looks like and contents of the pack
 
-## Olanzapine Glenmark Europe 5mg:
+Olanzapine Glenmark Europe 5mg:
 
 yellow coloured circular flat bevelled edge orodispersible tablets with 'B' debossed on one side.
 
@@ -2999,49 +2915,15 @@ Glenmark Arzneimittel GmbH, Germany Tel: + 49 (8142) 44392 199
 
 ## Česká republika
 
-Glenmark Arzneimittel GmbH, Germany
-
-Tel: + 49 (8142) 44392 199
+Glenmark Arzneimittel GmbH, Germany Tel: + 49 (8142) 44392 199
 
 ## Danmark
 
-Glenmark Pharmaceuticals Nordic AB
-
-Tél/Tel: + 46 (0) 40 35 48 10
+Glenmark Pharmaceuticals Nordic AB Tél/Tel: + 46 (0) 40 35 48 10
 
 ## Deutschland
 
-Glenmark Arzneimittel GmbH
-
-## Luxembourg/Luxemburg
-
-Glenmark Arzneimittel GmbH, Germany Tel: + 49 (8142) 44392 199
-
-## Magyarország
-
-Glenmark Arzneimittel GmbH, Germany
-
-Tel: + 49 (8142) 44392 199
-
-## Malta
-
-Glenmark Arzneimittel GmbH, Germany
-
-Tel: + 49 (8142) 44392 199
-
-## Nederland
-
-Glenmark Pharmaceuticals B.V.
-
-Tél/Tel: + 31 800 33 555 33
-
-## Norge
-
-Glenmark Pharmaceuticals Nordic AB
-
-Tel: + 49 (8142) 44392 0
-
-<div style=\"page-break-after: always\"></div>
+Glenmark Arzneimittel GmbH Tel: + 49 (8142) 44392 0
 
 ## Eesti
 
@@ -3051,9 +2933,47 @@ Glenmark Arzneimittel GmbH, Germany Tel: + 49 (8142) 44392 199
 
 Glenmark Arzneimittel GmbH, Germany Tel: + 49 (8142) 44392 199
 
+## Luxembourg/Luxemburg
+
+Glenmark Arzneimittel GmbH, Germany
+
+Tel: + 49 (8142) 44392 199
+
+## Magyarország
+
+Glenmark Arzneimittel GmbH, Germany Tel: + 49 (8142) 44392 199
+
+## Malta
+
+Glenmark Arzneimittel GmbH, Germany Tel: + 49 (8142) 44392 199
+
+## Nederland
+
+Glenmark Pharmaceuticals B.V.
+
+Tél/Tel: + 31 800 33 555 33
+
+## Norge
+
+Glenmark Pharmaceuticals Nordic AB Tél/Tel: + 46 (0) 40 35 48 10
+
+## Österreich
+
+Glenmark Arzneimittel GmbH, Germany Tel: + 49 (8142) 44392 199
+
+## Polska
+
+Glenmark Arzneimittel GmbH, Germany
+
+Tel: + 49 (8142) 44392 199
+
+<div style=\"page-break-after: always\"></div>
+
 ## España
 
-Viso Farmacéutica S.L.U Tél/Tel: + 34 911 593 944
+Glenmark Farmacéutica S.L.U
+
+Tél/Tel: + 34 911 593 944
 
 ## France
 
@@ -3061,7 +2981,9 @@ Glenmark Arzneimittel GmbH, Germany Tel: + 49 (8142) 44392 199
 
 ## Hrvatska
 
-Glenmark Arzneimittel GmbH, Germany Tel: + 49 (8142) 44392 199
+Glenmark Arzneimittel GmbH, Germany
+
+Tel: + 49 (8142) 44392 199
 
 ## Ireland
 
@@ -3069,11 +2991,13 @@ Glenmark Arzneimittel GmbH, Germany Tel: + 49 (8142) 44392 199
 
 ## Ísland
 
-Glenmark Pharmaceuticals Nordic AB Tél/Tel: + 46 (0) 40 35 48 10
+Glenmark Pharmaceuticals Nordic AB Tel: + 46 (0) 40 35 48 10
 
 ## Italia
 
-Glenmark Arzneimittel GmbH, Germany Tel: + 49 (8142) 44392 199
+Glenmark Pharma S.r.l
+
+Tel: +39 023538114
 
 ## Κύπρος
 
@@ -3091,23 +3015,15 @@ Glenmark Arzneimittel GmbH, Germany Tel: + 49 (8142) 44392 199
 
 Detailed information on this medicine is available on the European Medicines Agency website: http://www.ema.europa.eu
 
-Tél/Tel: + 46 (0) 40 35 48 10
-
-## Österreich
-
-Glenmark Arzneimittel GmbH, Germany Tel: + 49 (8142) 44392 199
-
-## Polska
-
-Glenmark Arzneimittel GmbH, Germany Tel: + 49 (8142) 44392 199
-
 ## Portugal
 
 Glenmark Arzneimittel GmbH, Germany Tel: + 49 (8142) 44392 199
 
 ## România
 
-Glenmark Arzneimittel GmbH, Germany Tel: + 49 (8142) 44392 199
+Glenmark Arzneimittel GmbH, Germany
+
+Tel: + 49 (8142) 44392 199
 
 ## Slovenija
 
@@ -3115,18 +3031,24 @@ Glenmark Arzneimittel GmbH, Germany Tel: + 49 (8142) 44392 199
 
 ## Slovenská republika
 
-Glenmark Arzneimittel GmbH, Germany Tel: + 49 (8142) 44392 199
+Glenmark Arzneimittel GmbH, Germany
+
+Tel: + 49 (8142) 44392 199
 
 ## Suomi/Finland
 
 Glenmark Pharmaceuticals Nordic AB
 
-Tél/Tel: + 46 (0) 40 35 48 10
+Tel: + 46 (0) 40 35 48 10
 
 ## Sverige
 
-Glenmark Pharmaceuticals Nordic AB Tél/Tel: + 46 (0) 40 35 48 10
+Glenmark Pharmaceuticals Nordic AB
+
+Tel: + 46 (0) 40 35 48 10
 
 ## United Kingdom (Northern Ireland)
 
-Glenmark Arzneimittel GmbH, Germany Tel: + 49 (8142) 44392 199
+Glenmark Arzneimittel GmbH, Germany
+
+Tel: + 49 (8142) 44392 199

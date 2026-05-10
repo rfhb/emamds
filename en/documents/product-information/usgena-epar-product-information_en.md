@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-11-21 09:23:26
+document_datetime: 2026-05-07 09:55:26
 document_pages: 119
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/usgena-epar-product-information_en.pdf
 document_name: usgena-epar-product-information_en.pdf
 version: success
-processing_time: 33.9255718
-conversion_datetime: 2025-12-23 06:03:46.046045
+processing_time: 40.292861
+conversion_datetime: 2026-05-10 12:33:19.570591
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.17.0
+  docling-jobkit: 1.18.0
+  docling: 2.92.0
+  docling-core: 2.74.1
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.10.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -80,8 +80,6 @@ Table 1 Initial intravenous dosing of Usgena
 | > 55 kg to ≤ 85 kg                             | 390 mg               |                               3 |
 | > 85 kg                                        | 520 mg               |                               4 |
 
-a Approximately 6 mg/kg
-
 The first subcutaneous dose should be given at week 8 following the intravenous dose. For the posology of the subsequent subcutaneous dosing regimen, see section 4.2 of the Usgena solution for injection (vial) and solution for injection in pre-filled syringe SmPC.
 
 ## Elderly (≥ 65 years)
@@ -146,11 +144,9 @@ Infusion-related reactions were observed in clinical trials (see section 4.8). S
 
 ## Respiratory
 
-Cases of allergic alveolitis, eosinophilic pneumonia, and non-infectious organising pneumonia have been reported during post-approval use of ustekinumab. Clinical presentations included cough, dyspnoea, and interstitial infiltrates following one to three doses. Serious outcomes have included respiratory failure and prolonged hospitalisation. Improvement has been reported after discontinuation of ustekinumab and also, in some cases, administration of corticosteroids. If infection has been
+Cases of allergic alveolitis, eosinophilic pneumonia, and non-infectious organising pneumonia have been reported during post-approval use of ustekinumab. Clinical presentations included cough, dyspnoea, and interstitial infiltrates following one to three doses. Serious outcomes have included respiratory failure and prolonged hospitalisation. Improvement has been reported after discontinuation of ustekinumab and also, in some cases, administration of corticosteroids. If infection has been excluded and diagnosis is confirmed, discontinue ustekinumab and institute appropriate treatment (see section 4.8).
 
 <div style=\"page-break-after: always\"></div>
-
-excluded and diagnosis is confirmed, discontinue ustekinumab and institute appropriate treatment (see section 4.8).
 
 ## Cardiovascular events
 
@@ -208,11 +204,9 @@ In the population pharmacokinetic analyses of the ustekinumab phase 3 studies, t
 
 The results of an in vitro study and a phase 1 study in subjects with active Crohn's disease do not suggest the need for dose adjustments in patients who are receiving concomitant CYP450 substrates (see section 5.2).
 
-In psoriasis studies, the safety and efficacy of ustekinumab in combination with immunosuppressants, including biologics, or phototherapy have not been evaluated. In psoriatic arthritis studies, concomitant MTX use did not appear to influence the safety or efficacy of ustekinumab. In Crohn's
+In psoriasis studies, the safety and efficacy of ustekinumab in combination with immunosuppressants, including biologics, or phototherapy have not been evaluated. In psoriatic arthritis studies, concomitant MTX use did not appear to influence the safety or efficacy of ustekinumab. In Crohn's disease and ulcerative colitis studies, concomitant use of immunosuppressants or corticosteroids did not appear to influence the safety or efficacy of ustekinumab (see section 4.4).
 
 <div style=\"page-break-after: always\"></div>
-
-disease and ulcerative colitis studies, concomitant use of immunosuppressants or corticosteroids did not appear to influence the safety or efficacy of ustekinumab (see section 4.4).
 
 ## 4.6 Fertility, pregnancy and lactation
 
@@ -228,7 +222,9 @@ Animal studies do not indicate direct or indirect harmful effects with respect t
 
 However, the available clinical experience is limited. As a precautionary measure, it is preferable to avoid the use of Usgena in pregnancy.
 
-Ustekinumab crosses the placenta and has been detected in the serum of infants born to female patients treated with ustekinumab during pregnancy. The clinical impact of this is unknown, however, the risk of infection in infants exposed in utero to ustekinumab may be increased after birth. Administration of live vaccines (such as the BCG vaccine) to infants exposed in utero to ustekinumab is not recommended for twelve months following birth or until ustekinumab infant serum levels are undetectable (see sections 4.4 and 4.5). If there is a clear clinical benefit for the individual infant, administration of a live vaccine might be considered at an earlier timepoint, if infant ustekinumab serum levels are undetectable.
+Ustekinumab crosses the placenta and has been detected in the serum of infants born to female patients
+
+treated with ustekinumab during pregnancy. The clinical impact of this is unknown, however, the risk of infection in infants exposed in utero to ustekinumab may be increased after birth. Administration of live vaccines (such as the BCG vaccine) to infants exposed in utero to ustekinumab is not recommended for twelve months following birth or until ustekinumab infant serum levels are undetectable (see sections 4.4 and 4.5). If there is a clear clinical benefit for the individual infant, administration of a live vaccine might be considered at an earlier timepoint, if infant ustekinumab serum levels are undetectable.
 
 ## Breast-feeding
 
@@ -246,11 +242,9 @@ Usgena has no or negligible influence on the ability to drive and use machines.
 
 ## Summary of the safety profile
 
-The most common adverse reactions (&gt; 5%) in controlled periods of the adult psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis clinical studies with ustekinumab were nasopharyngitis and headache. Most were considered to be mild and did not necessitate discontinuation of study treatment. The most serious adverse reaction that has been reported for ustekinumab is serious
+The most common adverse reactions (&gt; 5%) in controlled periods of the adult psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis clinical studies with ustekinumab were nasopharyngitis and headache. Most were considered to be mild and did not necessitate discontinuation of study treatment. The most serious adverse reaction that has been reported for ustekinumab is serious hypersensitivity reactions including anaphylaxis (see section 4.4). The overall safety profile was similar for patients with psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis.
 
 <div style=\"page-break-after: always\"></div>
-
-hypersensitivity reactions including anaphylaxis (see section 4.4). The overall safety profile was similar for patients with psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis.
 
 ## Tabulated list of adverse reactions
 
@@ -276,8 +270,6 @@ Table 2 List of adverse reactions
 | System Organ Class                                   | Frequency: Adverse reaction                                                                                                                                                      |
 |------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | General disorders and administration site conditions | Common: Fatigue, injection site erythema, injection site pain Uncommon: Injection site reactions (including haemorrhage, haematoma, induration, swelling and pruritus), asthenia |
-
-* See section 4.4, Systemic and respiratory hypersensitivity reactions.
 
 ## Description of selected adverse reactions
 
@@ -395,7 +387,7 @@ Table 4:  Maintenance of Clinical Response and Remission in IM-UNITI (week 44; 5
 | who are Anti-TNFα naïve                          | 49% (25/51)          | 65% (34/52) c                               | 57% (30/53)                                  |
 | who entered from study CRD3001 §                 | 26% (16/61)          | 41% (23/56)                                 | 39% (22/57)                                  |
 
-Clinical remission is defined as CDAI score &lt; 150; Clinical response is defined as reduction in CDAI of at least 100 points or being in clinical remission
+Clinical remission is defined as CDAI score &lt; 150; Clinical response is defined as reduction in CDAI of at least 100 points or being in clinical remission In IM-UNITI, 29 of 129 patients did not maintain response to ustekinumab when treated every 12 weeks and were allowed to dose adjust to receive ustekinumab every 8 weeks. Loss of response was defined as a CDAI score ≥ 220 points and a ≥ 100 point increase from the CDAI score at baseline. In these patients, clinical remission was achieved in 41.4% of patients 16 weeks after dose adjustment.
 
 * The placebo group consisted of patients who were in response to ustekinumab and were randomised to receive placebo at the start of maintenance therapy.
 
@@ -412,8 +404,6 @@ b p &lt; 0.05
 c nominally significant (p &lt; 0.05)
 
 <div style=\"page-break-after: always\"></div>
-
-In IM-UNITI, 29 of 129 patients did not maintain response to ustekinumab when treated every 12 weeks and were allowed to dose adjust to receive ustekinumab every 8 weeks. Loss of response was defined as a CDAI score ≥ 220 points and a ≥ 100 point increase from the CDAI score at baseline. In these patients, clinical remission was achieved in 41.4% of patients 16 weeks after dose adjustment.
 
 Patients who were not in clinical response to ustekinumab induction at week 8 of the UNITI-1 and UNITI-2 induction studies (476 patients) entered into the non-randomised portion of the maintenance study (IM-UNITI) and received a 90 mg subcutaneous injection of ustekinumab at that time. Eight weeks later, 50.5% of the patients achieved clinical response and continued to receive maintenance dosing every 8 weeks; among these patients with continued maintenance dosing, a majority maintained response (68.1%) and achieved remission (50.2%) at week 44, at proportions that were similar to the patients who initially responded to ustekinumab induction.
 
@@ -613,11 +603,9 @@ In patients with Crohn's disease and ulcerative colitis, variability in ustekinu
 
 The effects of IL-12 or IL-23 on the regulation of CYP450 enzymes were evaluated in an in vitro study using human hepatocytes, which showed that IL-12 and/or IL-23 at levels of 10 ng/mL did not alter human CYP450 enzyme activities (CYP1A2, 2B6, 2C9, 2C19, 2D6, or 3A4; see section 4.5).
 
-A phase 1, open-label, drug interaction study, Study CNTO1275CRD1003, was conducted to evaluate the effect of ustekinumab on cytochrome P450 enzyme activities following induction and maintenance dosing in patients with active Crohn's disease (n=18). No clinically significant changes in exposure of caffeine (CYP1A2 substrate), warfarin (CYP2C9 substrate), omeprazole (CYP2C19 substrate),
+A phase 1, open-label, drug interaction study, Study CNTO1275CRD1003, was conducted to evaluate the effect of ustekinumab on cytochrome P450 enzyme activities following induction and maintenance dosing in patients with active Crohn's disease (n=18). No clinically significant changes in exposure of caffeine (CYP1A2 substrate), warfarin (CYP2C9 substrate), omeprazole (CYP2C19 substrate), dextromethorphan (CYP2D6 substrate), or midazolam (CYP3A substrate) were observed when used concomitantly with ustekinumab at the approved recommended dosing in patients with Crohn's disease (see section 4.5).
 
 <div style=\"page-break-after: always\"></div>
-
-dextromethorphan (CYP2D6 substrate), or midazolam (CYP3A substrate) were observed when used concomitantly with ustekinumab at the approved recommended dosing in patients with Crohn's disease (see section 4.5).
 
 ## 5.3 Preclinical safety data
 
@@ -639,7 +627,7 @@ In the absence of compatibility studies, this medicinal product must not be mixe
 
 ## 6.3 Shelf life
 
-## 18 months
+2 years
 
 Chemical and physical in-use stability has been demonstrated for 8 hours at 15-25 °C.
 
@@ -649,9 +637,11 @@ The unopened vial may be stored at room temperature up to 30 °C for a maximum s
 
 ## 6.4 Special precautions for storage
 
-Store in a refrigerator (2 °C - 8 °C). Do not freeze. Keep the vial in the outer carton in order to protect from light.
+Store in a refrigerator (2 °C - 8 °C). Do not freeze.
 
 <div style=\"page-break-after: always\"></div>
+
+Keep the vial in the outer carton in order to protect from light.
 
 For storage conditions after dilution of the medicinal product, see section 6.3.
 
@@ -685,19 +675,17 @@ EU/1/25/1987/005
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-Date of first authorisation:
+Date of first authorisation: 17 November 2025
 
 <div style=\"page-break-after: always\"></div>
 
 ## 10. DATE OF REVISION OF THE TEXT
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu This medicinal product is subject to additional monitoring. This will allow quick identification of new safety information. Healthcare professionals are asked to report any suspected adverse reactions. See section 4.8 for how to report adverse reactions.
 
 <div style=\"page-break-after: always\"></div>
 
 <!-- image -->
-
-This medicinal product is subject to additional monitoring. This will allow quick identification of new safety information. Healthcare professionals are asked to report any suspected adverse reactions. See section 4.8 for how to report adverse reactions.
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -816,27 +804,27 @@ Table 2 Injection volumes of Usgena for paediatric psoriasis patients &lt; 60 kg
 |   Body weight at time of dosing (kg) |   Dose (mg) |   Volume of injection (mL) |
 |--------------------------------------|-------------|----------------------------|
 |                                   15 |        11.3 |                       0.12 |
-|                                   16 |        12   |                       0.13 |
+|                                   16 |        12.0 |                       0.13 |
 |                                   17 |        12.8 |                       0.14 |
 |                                   18 |        13.5 |                       0.15 |
 |                                   19 |        14.3 |                       0.16 |
-|                                   20 |        15   |                       0.17 |
+|                                   20 |        15.0 |                       0.17 |
 |                                   21 |        15.8 |                       0.17 |
 |                                   22 |        16.5 |                       0.18 |
 |                                   23 |        17.3 |                       0.19 |
-|                                   24 |        18   |                       0.2  |
+|                                   24 |        18.0 |                       0.20 |
 |                                   25 |        18.8 |                       0.21 |
 |                                   26 |        19.5 |                       0.22 |
 |                                   27 |        20.3 |                       0.22 |
-|                                   28 |        21   |                       0.23 |
+|                                   28 |        21.0 |                       0.23 |
 |                                   29 |        21.8 |                       0.24 |
 |                                   30 |        22.5 |                       0.25 |
 |                                   31 |        23.3 |                       0.26 |
-|                                   32 |        24   |                       0.27 |
+|                                   32 |        24.0 |                       0.27 |
 |                                   33 |        24.8 |                       0.27 |
 |                                   34 |        25.5 |                       0.28 |
 |                                   35 |        26.3 |                       0.29 |
-|                                   36 |        27   |                       0.3  |
+|                                   36 |        27.0 |                       0.30 |
 |                                   37 |        27.8 |                       0.31 |
 |                                   38 |        28.5 |                       0.32 |
 |                                   39 |        29.3 |                       0.32 |
@@ -845,23 +833,23 @@ Table 2 Injection volumes of Usgena for paediatric psoriasis patients &lt; 60 kg
 
 |   Body weight at time of dosing (kg) |   Dose (mg) |   Volume of injection (mL) |
 |--------------------------------------|-------------|----------------------------|
-|                                   40 |        30   |                       0.33 |
+|                                   40 |        30.0 |                       0.33 |
 |                                   41 |        30.8 |                       0.34 |
 |                                   42 |        31.5 |                       0.35 |
 |                                   43 |        32.3 |                       0.36 |
-|                                   44 |        33   |                       0.37 |
+|                                   44 |        33.0 |                       0.37 |
 |                                   45 |        33.8 |                       0.37 |
 |                                   46 |        34.5 |                       0.38 |
 |                                   47 |        35.3 |                       0.39 |
-|                                   48 |        36   |                       0.4  |
+|                                   48 |        36.0 |                       0.40 |
 |                                   49 |        36.8 |                       0.41 |
 |                                   50 |        37.5 |                       0.42 |
 |                                   51 |        38.3 |                       0.42 |
-|                                   52 |        39   |                       0.43 |
+|                                   52 |        39.0 |                       0.43 |
 |                                   53 |        39.8 |                       0.44 |
 |                                   54 |        40.5 |                       0.45 |
 |                                   55 |        41.3 |                       0.46 |
-|                                   56 |        42   |                       0.46 |
+|                                   56 |        42.0 |                       0.46 |
 |                                   57 |        42.8 |                       0.47 |
 |                                   58 |        43.5 |                       0.48 |
 |                                   59 |        44.3 |                       0.49 |
@@ -958,11 +946,9 @@ Cardiovascular events including myocardial infarction and cerebrovascular accide
 
 ## Vaccinations
 
-It is recommended that live viral or live bacterial vaccines (such as Bacillus of Calmette and Guérin (BCG)) should not be given concurrently with Usgena. Specific studies have not been conducted in patients who had recently received live viral or live bacterial vaccines. No data are available on the secondary transmission of infection by live vaccines in patients receiving ustekinumab. Before live
+It is recommended that live viral or live bacterial vaccines (such as Bacillus of Calmette and Guérin (BCG)) should not be given concurrently with Usgena. Specific studies have not been conducted in patients who had recently received live viral or live bacterial vaccines. No data are available on the secondary transmission of infection by live vaccines in patients receiving ustekinumab. Before live viral or live bacterial vaccination, treatment with Usgena should be withheld for at least 15 weeks after the last dose and can be resumed at least 2 weeks after vaccination. Prescribers should consult the Summary of Product Characteristics for the specific vaccine for additional information and guidance on concomitant use of immunosuppressive agents post-vaccination.
 
 <div style=\"page-break-after: always\"></div>
-
-viral or live bacterial vaccination, treatment with Usgena should be withheld for at least 15 weeks after the last dose and can be resumed at least 2 weeks after vaccination. Prescribers should consult the Summary of Product Characteristics for the specific vaccine for additional information and guidance on concomitant use of immunosuppressive agents post-vaccination.
 
 Administration of live vaccines (such as the BCG vaccine) to infants exposed in utero to ustekinumab is not recommended for twelve months following birth or until ustekinumab infant serum levels are undetectable (see sections 4.5 and 4.6). If there is a clear clinical benefit for the individual infant, administration of a live vaccine might be considered at an earlier timepoint, if infant ustekinumab serum levels are undetectable.
 
@@ -1028,17 +1014,17 @@ Women of childbearing potential should use effective methods of contraception du
 
 ## Pregnancy
 
-Data from a moderate number of prospectively collected pregnancies following exposure to ustekinumab with known outcomes, including more than 450 pregnancies exposed during the first
+Data from a moderate number of prospectively collected pregnancies following exposure to ustekinumab with known outcomes, including more than 450 pregnancies exposed during the first trimester, do not indicate an increased risk of major congenital malformations in the newborn.
 
 <div style=\"page-break-after: always\"></div>
-
-trimester, do not indicate an increased risk of major congenital malformations in the newborn.
 
 Animal studies do not indicate direct or indirect harmful effects with respect to pregnancy, embryonic/foetal development, parturition or postnatal development (see section 5.3).
 
 However, the available clinical experience is limited. As a precautionary measure, it is preferable to avoid the use of Usgena in pregnancy.
 
-Ustekinumab crosses the placenta and has been detected in the serum of infants born to female patients treated with ustekinumab during pregnancy. The clinical impact of this is unknown, however, the risk of infection in infants exposed in utero to ustekinumab may be increased after birth. Administration of live vaccines (such as the BCG vaccine) to infants exposed in utero to ustekinumab is not recommended for twelve months following birth or until ustekinumab infant serum levels are undetectable (see sections 4.4 and 4.5). If there is a clear clinical benefit for the individual infant, administration of a live vaccine might be considered at an earlier timepoint, if infant ustekinumab serum levels are undetectable.
+Ustekinumab crosses the placenta and has been detected in the serum of infants born to female patients
+
+treated with ustekinumab during pregnancy. The clinical impact of this is unknown, however, the risk of infection in infants exposed in utero to ustekinumab may be increased after birth. Administration of live vaccines (such as the BCG vaccine) to infants exposed in utero to ustekinumab is not recommended for twelve months following birth or until ustekinumab infant serum levels are undetectable (see sections 4.4 and 4.5). If there is a clear clinical benefit for the individual infant, administration of a live vaccine might be considered at an earlier timepoint, if infant ustekinumab serum levels are undetectable.
 
 ## Breast-feeding
 
@@ -1082,17 +1068,13 @@ Table 3 List of adverse reactions
 | Musculoskeletal and connective tissue disorders      | Common: Very rare:                 | Back pain, myalgia, arthralgia Lupus-like syndrome                                                                                                                                                                     |
 | General disorders and administration site conditions | Common: Uncommon:                  | Fatigue, injection site erythema, injection site pain Injection site reactions (including haemorrhage, haematoma, induration, swelling and pruritus), asthenia                                                         |
 
-* See section 4.4, Systemic and respiratory hypersensitivity reactions.
-
 ## Description of selected adverse reactions
 
 ## Infections
 
-In the placebo-controlled studies of patients with psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis, the rates of infection or serious infection were similar between ustekinumab-treated patients and those treated with placebo. In the placebo-controlled period of these clinical studies, the rate of infection was 1.36 per patient-year of follow-up in ustekinumab-treated patients, and 1.34 in
+In the placebo-controlled studies of patients with psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis, the rates of infection or serious infection were similar between ustekinumab-treated patients and those treated with placebo. In the placebo-controlled period of these clinical studies, the rate of infection was 1.36 per patient-year of follow-up in ustekinumab-treated patients, and 1.34 in placebo-treated patients. Serious infections occurred at the rate of 0.03 per patient-year of follow-up in ustekinumab-treated patients (30 serious infections in 930 patient-years of follow-up) and 0.03 in placebo-treated patients (15 serious infections in 434 patient-years of follow-up) (see section 4.4).
 
 <div style=\"page-break-after: always\"></div>
-
-placebo-treated patients. Serious infections occurred at the rate of 0.03 per patient-year of follow-up in ustekinumab-treated patients (30 serious infections in 930 patient-years of follow-up) and 0.03 in placebo-treated patients (15 serious infections in 434 patient-years of follow-up) (see section 4.4).
 
 In the controlled and non-controlled periods of psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis clinical studies, representing 15,227 patient-years of ustekinumab exposure in 6,710 patients, the median follow-up was 1.2 years; 1.7 years for psoriatic disease studies, 0.6 year for Crohn's disease studies and 2.3 years for ulcerative colitis studies. The rate of infection was 0.85 per patient-year of follow-up in ustekinumab-treated patients, and the rate of serious infections was 0.02 per patient-year of follow-up in ustekinumab-treated patients (289 serious infections in 15,227 patient-years of follow-up) and serious infections reported included pneumonia, anal abscess, cellulitis, diverticulitis, gastroenteritis and viral infections.
 
@@ -1116,11 +1098,9 @@ The safety of ustekinumab has been studied in two phase 3 studies of paediatric 
 
 ## Reporting of suspected adverse reactions
 
-Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare
+Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
 <div style=\"page-break-after: always\"></div>
-
-professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
 ## 4.9 Overdose
 
@@ -1287,11 +1267,9 @@ The proportion of patients achieving a modified PsA response criteria (PsARC) re
 
 Responses observed in the ustekinumab treated groups were similar in patients receiving and not receiving concomitant MTX, and were maintained through weeks 52 and 100. Patients previously treated with anti-TNFα agents who received ustekinumab achieved a greater response at week 24 than patients receiving placebo (ACR 20 response at week 24 for 45 mg and 90 mg was 37% and 34%, respectively, compared with placebo 15%; p&lt; 0.05), and responses were maintained through week 52.
 
-For patients with enthesitis and/or dactylitis at baseline, in PsA Study 1 significant improvement in enthesitis and dactylitis score was observed in the ustekinumab groups compared with placebo at week 24. In PsA Study 2 significant improvement in enthesitis score and numerical improvement (not statistically significant) in dactylitis score was observed in the ustekinumab 90 mg group compared
+For patients with enthesitis and/or dactylitis at baseline, in PsA Study 1 significant improvement in enthesitis and dactylitis score was observed in the ustekinumab groups compared with placebo at week 24. In PsA Study 2 significant improvement in enthesitis score and numerical improvement (not statistically significant) in dactylitis score was observed in the ustekinumab 90 mg group compared with placebo at week 24. Improvements in enthesitis score and dactylitis score were maintained through weeks 52 and 100.
 
 <div style=\"page-break-after: always\"></div>
-
-with placebo at week 24. Improvements in enthesitis score and dactylitis score were maintained through weeks 52 and 100.
 
 ## Radiographic response
 
@@ -1317,11 +1295,9 @@ The efficacy of ustekinumab was studied in 110 paediatric patients aged 12 to 17
 
 Patients with PASI ≥ 12, PGA ≥ 3 and BSA involvement of at least 10%, who were candidates for systemic therapy or phototherapy, were eligible for the study. Approximately 60% of the patients had prior exposure to conventional systemic therapy or phototherapy. Approximately 11% of the patients had prior exposure to biologics.
 
-The primary endpoint was the proportion of patients who achieved a PGA score of cleared (0) or minimal (1) at week 12. Secondary endpoints included PASI 75, PASI 90, change from baseline in Children's Dermatology Life Quality Index (CDLQI), change from baseline in the total scale score of PedsQL (Paediatric Quality of Life Inventory) at week 12. At week 12, subjects treated with
+The primary endpoint was the proportion of patients who achieved a PGA score of cleared (0) or minimal (1) at week 12. Secondary endpoints included PASI 75, PASI 90, change from baseline in Children's Dermatology Life Quality Index (CDLQI), change from baseline in the total scale score of PedsQL (Paediatric Quality of Life Inventory) at week 12. At week 12, subjects treated with ustekinumab showed significantly greater improvement in their psoriasis and health-related quality of life compared with placebo (Table 7).
 
 <div style=\"page-break-after: always\"></div>
-
-ustekinumab showed significantly greater improvement in their psoriasis and health-related quality of life compared with placebo (Table 7).
 
 All patients were followed for efficacy for up to 52 weeks following first administration of study agent. The proportion of patients with a PGA score of cleared (0) or minimal (1) and the proportion achieving PASI 75 showed separation between the ustekinumab treated group and placebo at the first post-baseline visit at week 4, reaching a maximum by week 12. Improvements in PGA, PASI, CDLQI and PedsQL were maintained through week 52 (Table 7).
 
@@ -1785,7 +1761,7 @@ Usgena 90 mg solution for injection in pre-filled syringe EU/1/25/1987/003 [1 pr
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-Date of first authorisation:
+Date of first authorisation: 17 November 2025
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1941,9 +1917,9 @@ PC
 
 SN
 
-NN
-
 <div style=\"page-break-after: always\"></div>
+
+NN
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1983,7 +1959,9 @@ Lot
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Usgena 45 mg solution for injection ustekinumab
+Usgena 45 mg solution for injection
+
+ustekinumab
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -2175,6 +2153,7 @@ EU/1/25/1987/002
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
+
 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
@@ -2201,8 +2180,7 @@ NN
 
 Usgena 45 mg solution for injection in pre-filled syringe ustekinumab
 
-| 2.   | NAMEOF THE MARKETING AUTHORISATION HOLDER   |
-|------|---------------------------------------------|
+## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
 
 STADA Arzneimittel AG
 
@@ -2215,8 +2193,7 @@ EXP
 
 Lot
 
-| 5.   | OTHER   |
-|------|---------|
+## 5. OTHER
 
 For storage information, see leaflet.
 
@@ -2360,8 +2337,7 @@ NN
 
 Usgena 90 mg solution for injection in pre-filled syringe ustekinumab
 
-| 2.   | NAMEOF THE MARKETING AUTHORISATION HOLDER   |
-|------|---------------------------------------------|
+## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
 
 STADA Arzneimittel AG
 
@@ -2374,8 +2350,7 @@ EXP
 
 Lot
 
-| 5.   | OTHER   |
-|------|---------|
+## 5. OTHER
 
 For storage information, see leaflet.
 
@@ -2560,8 +2535,6 @@ Your doctor will decide how much Usgena you need to receive and for how long.
 | > 55 kg to ≤ 85 kg | 390 mg |
 | > 85 kg            | 520 mg |
 
-· After the starting intravenous dose, you will have the next dose of 90 mg Usgena by an injection under your skin (subcutaneous injection) 8 weeks later, and then every 12 weeks therafter.
-
 ## How Usgena is given
 
 - The first dose of Usgena for treatment of Crohn's disease or ulcerative colitis is given by a doctor as a drip in the vein of an arm (intravenous infusion).
@@ -2733,7 +2706,9 @@ Teл.: +359 29624626
 
 ## Luxembourg/Luxemburg
 
-EG (Eurogenerics) NV Tél/Tel: +32 24797878
+EG (Eurogenerics) NV
+
+Tél/Tel: +32 24797878
 
 ## Česká republika
 
@@ -2743,7 +2718,9 @@ Tel: +420 257888111
 
 ## Magyarország
 
-STADA Hungary Kft Tel.: +36 18009747
+STADA Hungary Kft
+
+Tel.: +36 18009747
 
 ## Danmark
 
@@ -3163,7 +3140,7 @@ Shedding of skin - increase in redness and shedding of skin over a larger area o
 - Feeling tired
 - Feeling dizzy
 - Headache
-- •
+- ·
 - Itching ('pruritus')
 - Back, muscle or joint pain
 - Sore throat
@@ -3234,11 +3211,9 @@ STADA Arzneimittel AG Stadastrasse 2-18 61118 Bad Vilbel Germany
 
 Alvotech Hf Sæmundargata 15-19 Reykjavik, 102 Iceland
 
-STADA Arzneimittel AG Stadastrasse 2-18 61118 Bad Vilbel Germany
+STADA Arzneimittel AG Stadastrasse 2-18 61118 Bad Vilbel Germany For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 <div style=\"page-break-after: always\"></div>
-
-For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 ## België/Belgique/Belgien
 
@@ -3250,7 +3225,9 @@ STADA Bulgaria EOOD Teл.: +359 29624626
 
 ## Česká republika
 
-STADA PHARMA CZ s.r.o. Tel: +420 257888111
+STADA PHARMA CZ s.r.o.
+
+Tel: +420 257888111
 
 ## Danmark
 
@@ -3300,7 +3277,9 @@ EG SpA Tel: +39 028310371
 
 ## Κύπρος
 
-DEMO S.A. Pharmaceutical Industry Τηλ: +30 2108161802
+DEMO S.A. Pharmaceutical Industry
+
+Τηλ: +30 2108161802
 
 ## Latvija
 
@@ -3324,9 +3303,7 @@ EG (Eurogenerics) NV Tél/Tel: +32 24797878
 
 ## Magyarország
 
-STADA Hungary Kft
-
-Tel.: +36 18009747
+STADA Hungary Kft Tel.: +36 18009747
 
 ## Malta
 
@@ -3949,7 +3926,9 @@ Detailed information on this medicine is available on the European Medicines Age
 
 ## Usgena 45 mg solution for injection in pre-filled syringe
 
-ustekinumab for subcutaneous use
+ustekinumab
+
+for subcutaneous use
 
 ## Read carefully these instructions for use before using Usgena solution for injection in pre-filled syringe.
 
@@ -4464,11 +4443,7 @@ Laboratorio STADA, S.L. Tel: +34 934738889
 
 EG LABO - Laboratoires EuroGenerics Tél: +33 146948686
 
-## Hrvatska
-
-STADA d.o.o.
-
-Tel: +385 13764111
+Hrvatska STADA d.o.o. Tel: +385 13764111
 
 ## Ireland
 
@@ -4506,9 +4481,7 @@ STADA Arzneimittel GmbH Tel: +43 136785850
 
 ## Polska
 
-STADA Pharm Sp. z.o o.
-
-Tel: +48 227377920
+STADA Pharm Sp. z.o o. Tel: +48 227377920
 
 ## Portugal
 
@@ -4562,7 +4535,9 @@ Tel: +45 44859999
 
 ## Usgena 90 mg solution for injection in pre-filled syringe
 
-ustekinumab for subcutaneous use
+ustekinumab
+
+for subcutaneous use
 
 ## Read carefully these instructions for use before using Usgena solution for injection in pre-filled syringe.
 

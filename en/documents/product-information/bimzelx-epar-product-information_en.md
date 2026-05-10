@@ -1,30 +1,26 @@
 ---
-document_datetime: 2025-04-28 15:41:20
-document_pages: 112
+document_datetime: 2026-05-08 14:36:49
+document_pages: 113
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/bimzelx-epar-product-information_en.pdf
 document_name: bimzelx-epar-product-information_en.pdf
 version: success
-processing_time: 29.2350716
-conversion_datetime: 2025-12-19 00:03:05.66017
+processing_time: 32.78042
+conversion_datetime: 2026-05-10 12:37:49.180242
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.17.0
+  docling-jobkit: 1.18.0
+  docling: 2.92.0
+  docling-core: 2.74.1
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.10.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
 ## SUMMARY OF PRODUCT CHARACTERISTICS
 
 <div style=\"page-break-after: always\"></div>
-
-<!-- image -->
-
-This medicinal product is subject to additional monitoring. This will allow quick identification of new safety information. Healthcare professionals are asked to report any suspected adverse reactions. See section 4.8 for how to report adverse reactions.
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -52,7 +48,7 @@ Each pre-filled pen contains 160 mg of bimekizumab in 1 mL.
 
 Bimzelx 320 mg solution for injection in pre-filled pen
 
-Each pre-filled pen contains 320 mg of bimekizumab in 2 mL
+Each pre-filled pen contains 320 mg of bimekizumab in 2 mL.
 
 Bimekizumab is a humanised IgG1monoclonal antibody produced in a genetically engineered Chinese hamster ovary (CHO) cell line by recombinant DNA technology.
 
@@ -74,19 +70,17 @@ Bimzelx is indicated for the treatment of moderate to severe plaque psoriasis in
 
 ## Psoriatic arthritis
 
-Bimzelx, alone or in combination with methotrexate, is indicated for the treatment of active psoriatic arthritis in adults who have had an inadequate response or who have been intolerant to one or more
-
-<div style=\"page-break-after: always\"></div>
-
-disease-modifying antirheumatic drugs (DMARDs).
+Bimzelx, alone or in combination with methotrexate, is indicated for the treatment of active psoriatic arthritis in adults who have had an inadequate response or who have been intolerant to one or more disease-modifying antirheumatic drugs (DMARDs).
 
 ## Axial spondyloarthritis
 
 Non-radiographic axial spondyloarthritis (nr-axSpA)
 
+<div style=\"page-break-after: always\"></div>
+
 Bimzelx is indicated for the treatment of adults with active non-radiographic axial spondyloarthritis with objective signs of inflammation as indicated by elevated C-reactive protein (CRP) and/or magnetic resonance imaging (MRI) who have responded inadequately or are intolerant to nonsteroidal anti-inflammatory drugs (NSAIDs).
 
-Ankylosing spondylitis (AS, radiographic axial spondyloarthritis)
+## Ankylosing spondylitis (AS, radiographic axial spondyloarthritis)
 
 Bimzelx is indicated for the treatment of adults with active ankylosing spondylitis who have responded inadequately or are intolerant to conventional therapy.
 
@@ -96,7 +90,7 @@ Bimzelx is indicated for the treatment of active moderate to severe hidradenitis
 
 ## 4.2 Posology and method of administration
 
-Bimzelx is intended for use under the guidance and supervision of a physician experienced in the diagnosis and treatment of conditions for which Bimzelx is indicated.
+This medicinal product is intended for use under the guidance and supervision of a physician experienced in the diagnosis and treatment of conditions for which it is indicated.
 
 ## Posology
 
@@ -106,9 +100,9 @@ The recommended dose for adult patients with plaque psoriasis is 320 mg (given a
 
 ## Psoriatic arthritis
 
-The recommended dose for adult patients with active psoriatic arthritis is 160 mg (given as 1 subcutaneous injection of 160 mg) every 4 weeks.
+The recommended dose for adult patients with active psoriatic arthritis is 160 mg (given as 1 subcutaneous injection of 160 mg) every 4 weeks. For psoriatic arthritis patients with coexistent moderate to severe plaque psoriasis, the recommended
 
-For psoriatic arthritis patients with coexistent moderate to severe plaque psoriasis, the recommended dose is the same as for plaque psoriasis [320 mg (given as 2 subcutaneous injections of 160 mg or 1 subcutaneous injection of 320 mg) at week 0, 4, 8, 12, 16 and every 8 weeks thereafter]. After 16 weeks, regular assessment of efficacy is recommended and if a sufficient clinical response in joints cannot be maintained, a switch to 160 mg every 4 weeks can be considered.
+dose is the same as for plaque psoriasis [320 mg (given as 2 subcutaneous injections of 160 mg or 1 subcutaneous injection of 320 mg) at week 0, 4, 8, 12, 16 and every 8 weeks thereafter]. After 16 weeks, regular assessment of efficacy is recommended and if a sufficient clinical response in joints cannot be maintained, a switch to 160 mg every 4 weeks can be considered.
 
 ## Axial spondyloarthritis (nr-axSpA and AS)
 
@@ -118,17 +112,13 @@ The recommended dose for adult patients with axial spondyloarthritis is 160 mg (
 
 The recommended dose for adult patients with hidradenitis suppurativa is 320 mg (given as 2 subcutaneous injections of 160 mg or 1 subcutaneous injection of 320 mg) every 2 weeks up to week 16 and every 4 weeks thereafter.
 
-For above indications, consideration should be given to discontinuing treatment in patients who have
-
-<div style=\"page-break-after: always\"></div>
-
-shown no improvement by 16 weeks of treatment.
+For above indications, consideration should be given to discontinuing treatment in patients who have shown no improvement by 16 weeks of treatment.
 
 ## Special populations
 
-## Overweight patients with plaque psoriasis
+Overweight patients with plaque psoriasis For some patients with plaque psoriasis (including psoriatic arthritis with coexistent moderate to severe psoriasis) and a body weight ≥120 kg who did not achieve complete skin clearance at week 16, 320 mg every 4 weeks after week 16 may further improve treatment response (see section 5.1).
 
-For some patients with plaque psoriasis (including psoriatic arthritis with coexistent moderate to severe psoriasis) and a body weight ≥120 kg who did not achieve complete skin clearance at week 16, 320 mg every 4 weeks after week 16 may further improve treatment response (see section 5.1).
+<div style=\"page-break-after: always\"></div>
 
 ## Elderly (≥65 years)
 
@@ -140,7 +130,7 @@ Bimekizumab has not been studied in these patient populations. Dose adjustments 
 
 ## Paediatric population
 
-The safety and efficacy of bimekizumab in children and adolescents below the age of 18 years have not been established. No data are available.
+The safety and efficacy of bimekizumab in children and adolescents below the age of 18 years have not yet been established. No data are available.
 
 ## Method of administration
 
@@ -168,11 +158,11 @@ In order to improve the traceability of biological medicinal products, the name 
 
 Bimekizumab may increase the risk of infections such as upper respiratory tract infections and oral candidiasis (see section 4.8).
 
-<div style=\"page-break-after: always\"></div>
-
 Caution should be exercised when considering the use of bimekizumab in patients with a chronic infection or a history of recurrent infection. Treatment with bimekizumab must not be initiated in patients with any clinically important active infection until the infection resolves or is adequately treated (see section 4.3).
 
 Patients treated with bimekizumab should be instructed to seek medical advice if signs or symptoms suggestive of an infection occur. If a patient develops an infection, the patient should be carefully monitored. If the infection becomes serious or is not responding to standard therapy, treatment should be discontinued until the infection resolves.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Pre-treatment evaluation for tuberculosis (TB)
 
@@ -188,15 +178,19 @@ Serious hypersensitivity reactions including anaphylactic reactions have been ob
 
 ## Vaccinations
 
-Prior to initiating therapy with bimekizumab, completion of all age appropriate immunisations according to current immunisation guidelines should be considered.
+Prior to initiating therapy with bimekizumab, completion of all age-appropriate immunisations according to current immunisation guidelines should be considered.
 
 Live vaccines should not be given in patients treated with bimekizumab.
 
 Patients treated with bimekizumab may receive inactivated or non-live vaccinations. Healthy individuals who received a single 320 mg dose of bimekizumab two weeks prior to vaccination with an inactivated seasonal influenza vaccine had similar antibody responses compared to individuals who did not receive bimekizumab prior to vaccination.
 
-## Excipients
+## Excipients with known effect
+
+## Polysorbate 80
 
 This medicinal product contains 0.4 mg of polysorbate 80 in each 1 mL solution. Polysorbates may cause allergic reactions.
+
+## Sodium
 
 This medicinal product contains less than 1 mmol (23 mg) sodium per dose, that is to say essentially 'sodium free'.
 
@@ -204,11 +198,11 @@ This medicinal product contains less than 1 mmol (23 mg) sodium per dose, that i
 
 ## No interaction studies have been performed.
 
-There is no direct evidence for the role of IL-17A or IL-17F in the expression of CYP450 enzymes. The formation of some CYP450 enzymes is suppressed by increased levels of cytokines during
+There is no direct evidence for the role of IL-17A or IL-17F in the expression of CYP450 enzymes. The formation of some CYP450 enzymes is suppressed by increased levels of cytokines during chronic inflammation. Thus, anti-inflammatory treatments, such as with the IL-17A and IL-17F inhibitor bimekizumab, may result in normalisation of CYP450 levels with accompanying lower exposure of CYP450-metabolised medicinal products. Therefore, a clinically relevant effect on CYP450 substrates with a narrow therapeutic index, in which the dose is individually adjusted (e.g.
 
 <div style=\"page-break-after: always\"></div>
 
-chronic inflammation. Thus, anti-inflammatory treatments, such as with the IL-17A and IL-17F inhibitor bimekizumab, may result in normalisation of CYP450 levels with accompanying lower exposure of CYP450-metabolised medicinal products. Therefore, a clinically relevant effect on CYP450 substrates with a narrow therapeutic index, in which the dose is individually adjusted (e.g. warfarin) cannot be excluded. On initiation of bimekizumab therapy in patients being treated with these types of medicinal products, therapeutic monitoring should be considered.
+warfarin) cannot be excluded. On initiation of bimekizumab therapy in patients being treated with these types of medicinal products, therapeutic monitoring should be considered.
 
 Population pharmacokinetic (PK) data analyses indicated that concomitant administration of conventional disease modifying antirheumatic drugs (cDMARDs) including methotrexate or prior exposure to biologics have no clinically relevant impact on the clearance of bimekizumab.
 
@@ -242,27 +236,26 @@ Bimzelx has no or negligible influence on the ability to drive and use machines.
 
 The most frequently reported adverse reactions were upper respiratory tract infections (14.5%, 14.6%, 16.3%, 8.8% in plaque psoriasis, psoriatic arthritis, axial spondyloarthritis (axSpA) and hidradenitis suppurativa respectively) and oral candidiasis (7.3%, 2.3%, 3.7%, 5.6% in PSO, PsA, axSpA and HS respectively).
 
-<div style=\"page-break-after: always\"></div>
-
 ## Tabulated list of adverse reactions
 
 Adverse reactions from clinical studies and post-marketing reports (Table 1) are classified by MedDRA System Organ Class and frequency, using the following convention: very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), uncommon (≥ 1/1,000 to &lt; 1/100), rare (≥ 1/10,000 to &lt; 1/1,000), very rare (&lt; 1/10,000), not known (cannot be estimated from the available data).
 
 A total of 5862 patients have been treated with bimekizumab in blinded and open-label clinical studies in plaque psoriasis (PSO), psoriatic arthritis (PsA), axial spondyloarthritis (nr-axSpA and AS) and hidradenitis suppurativa (HS) representing 11468.6 patient-years of exposure. Of these, over 4660 patients were exposed to bimekizumab for at least one year. Overall, the safety profile of bimekizumab is consistent across all indications.
 
+<div style=\"page-break-after: always\"></div>
+
 Table 1: List of adverse reactions
 
-| System Organ Class                                                                 | Frequency                                                                          | Adverse reaction                                                                                                                                                                                             |
-|------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Infections and infestations                                                        | Very common                                                                        | Upper respiratory tract infections                                                                                                                                                                           |
-| Infections and infestations                                                        | Common                                                                             | Oral candidiasis, Tinea infections, Ear infections, Herpes simplex infections, Oropharyngeal candidiasis, Gastroenteritis, Folliculitis, Vulvovaginal mycotic infection (including vulvovaginal candidiasis) |
-| Infections and infestations                                                        | Uncommon                                                                           | Mucosal and cutaneous candidiasis (including oesophageal candidiasis), Conjunctivitis                                                                                                                        |
-| Blood and lymphatic system disorders                                               | Uncommon                                                                           | Neutropenia                                                                                                                                                                                                  |
-| Nervous System disorders                                                           | Common                                                                             | Headache                                                                                                                                                                                                     |
-| Gastrointestinal disorders                                                         | Uncommon                                                                           | Inflammatory bowel disease                                                                                                                                                                                   |
-| Skin and subcutaneous tissue disorders                                             | Common                                                                             | Rash, dermatitis and eczema, Acne                                                                                                                                                                            |
-| General disorders and administration site conditions                               | Common                                                                             | Injection site reactions a , Fatigue                                                                                                                                                                         |
-| a) Includes: injection site erythema, reaction, oedema, pain, swelling, haematoma. | a) Includes: injection site erythema, reaction, oedema, pain, swelling, haematoma. | a) Includes: injection site erythema, reaction, oedema, pain, swelling, haematoma.                                                                                                                           |
+| System Organ Class                                   | Frequency   | Adverse reaction                                                                                                                                                                                             |
+|------------------------------------------------------|-------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Infections and infestations                          | Very common | Upper respiratory tract infections                                                                                                                                                                           |
+| Infections and infestations                          | Common      | Oral candidiasis, Tinea infections, Ear infections, Herpes simplex infections, Oropharyngeal candidiasis, Gastroenteritis, Folliculitis, Vulvovaginal mycotic infection (including vulvovaginal candidiasis) |
+| Infections and infestations                          | Uncommon    | Mucosal and cutaneous candidiasis (including oesophageal candidiasis), Conjunctivitis                                                                                                                        |
+| Blood and lymphatic system disorders                 | Uncommon    | Neutropenia                                                                                                                                                                                                  |
+| Nervous system disorders                             | Common      | Headache                                                                                                                                                                                                     |
+| Gastrointestinal disorders                           | Uncommon    | Inflammatory bowel disease                                                                                                                                                                                   |
+| Skin and subcutaneous tissue disorders               | Common      | Rash, dermatitis and eczema, Acne                                                                                                                                                                            |
+| General disorders and administration site conditions | Common      | Injection site reactions a , Fatigue                                                                                                                                                                         |
 
 ## Description of selected adverse reactions
 
@@ -272,15 +265,13 @@ In the placebo-controlled period of Phase III clinical studies in plaque psorias
 
 The majority of infections consisted of non-serious mild to moderate upper respiratory tract infections such as nasopharyngitis. There were higher rates of oral and oropharyngeal candidiasis in patients treated with bimekizumab consistent with the mechanism of action (7.3% and 1.2% respectively compared to 0% for placebo-treated patients). More than 98% of cases were non-serious, mild or moderate in severity, and did not require treatment discontinuation. A slightly higher incidence of oral candidiasis was reported in patients &lt;70 kg (8.5% versus 7.0% in patients ≥70 kg).
 
-Over the entire treatment period of Phase III studies in plaque psoriasis, infections were reported in
-
-<div style=\"page-break-after: always\"></div>
-
-63.2% of patients treated with bimekizumab (120.4 per 100 patient-years). Serious infections were reported in 1.5% of patients treated with bimekizumab (1.6 per 100 patient-years) (see section 4.4).
+Over the entire treatment period of Phase III studies in plaque psoriasis, infections were reported in 63.2% of patients treated with bimekizumab (120.4 per 100 patient-years). Serious infections were reported in 1.5% of patients treated with bimekizumab (1.6 per 100 patient-years) (see section 4.4).
 
 Infection rates observed in PsA and axSpA (nr-axSpA and AS) Phase III clinical studies were similar to those observed in plaque psoriasis apart from oral and oropharyngeal candidiasis rates in patients treated with bimekizumab, which were lower at 2.3% and 0% respectively in PsA and 3.7% and 0.3% respectively in axSpA compared to 0% with placebo.
 
 Infection rates observed in HS Phase III clinical studies were similar to those observed in other indications. In the placebo-controlled period, oral and oropharyngeal candidiasis rates in patients treated with bimekizumab were 7.1% and 0% respectively compared to 0% with placebo.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Neutropenia
 
@@ -288,11 +279,11 @@ Neutropenia was observed with bimekizumab in Phase III clinical studies in plaqu
 
 The frequency of neutropenia in PsA, axSpA (nr-axSpA and AS) and HS clinical studies was similar to that observed in plaque psoriasis studies.
 
-Most cases were transient and did not require treatment discontinuation. No serious infections were associated with neutropenia.
+More than 80% of the cases were transient and did not require treatment discontinuation. No serious infections were associated with neutropenia.
 
 ## Hypersensitivity
 
-Serious hypersensitivity reactions including anaphylactic reactions have been observed with IL-17 inhibitors.
+Serious hypersensitivity reactions including anaphylactic reactions have been observed with IL-17 inhibitors (see section 4.4).
 
 ## Immunogenicity
 
@@ -308,15 +299,15 @@ Approximately 31% of patients with psoriatic arthritis treated with bimekizumab 
 
 Approximately 57% of patients with nr-axSpA treated with bimekizumab up to 52 weeks at the recommended dosing regimen (160 mg every 4 weeks) had anti-drug antibodies. Of the patients with anti-drug antibodies, approximately 44% (25% of all patients treated with bimekizumab) had antibodies that were classified as neutralising.
 
-<div style=\"page-break-after: always\"></div>
-
 Approximately 44% of patients with AS treated with bimekizumab up to 52 weeks at the recommended dosing regimen (160 mg every 4 weeks) had anti-drug antibodies. Of the patients with anti-drug antibodies, approximately 44% (20% of all patients treated with bimekizumab) had antibodies that were classified as neutralising.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Hidradenitis suppurativa
 
 Approximately 59% of HS patients treated with bimekizumab up to 48 weeks at the recommended dosing regimen (320 mg every 2 weeks up to week 16 and 320 mg every 4 weeks thereafter) developed anti-drug antibodies. Of the patients who developed anti-drug antibodies, approximately 63% (37% of all patients treated with bimekizumab) had antibodies that were classified as neutralising.
 
-Across indications, no clinically meaningful impact on clinical response was associated with antibimekizumab antibodies development and an association between immunogenicity and treatment emergent adverse events has not been clearly established.
+Across indications, no clinically meaningful impact on clinical response was associated with antibimekizumab antibodies development, and an association between immunogenicity and treatment emergent adverse events has not been clearly established.
 
 ## Elderly patients (≥65 years)
 
@@ -344,17 +335,15 @@ Pharmacotherapeutic group: Immunosuppressants, interleukin inhibitors, ATC code:
 
 ## Mechanism of action
 
-Bimekizumab is a humanised IgG1/κ monoclonal antibody that selectively binds with high affinity to IL-17A, IL-17F and IL-17AF cytokines, blocking their interaction with the IL-17RA/IL-17RC receptor complex. Elevated concentrations of IL-17A and IL-17F have been implicated in the pathogenesis of several immune-mediated inflammatory diseases including plaque psoriasis, psoriatic
+Bimekizumab is a humanised IgG1/κ monoclonal antibody that selectively binds with high affinity to IL-17A, IL-17F and IL-17AF cytokines, blocking their interaction with the IL-17RA/IL-17RC receptor complex. Elevated concentrations of IL-17A and IL-17F have been implicated in the pathogenesis of several immune-mediated inflammatory diseases including plaque psoriasis, psoriatic arthritis, axial spondyloarthritis and hidradenitis suppurativa. IL-17A and IL-17F cooperate and/or synergise with other inflammatory cytokines to induce inflammation. IL17-F is produced in significant amount by innate immune cells. This production can be independent of IL-23. Bimekizumab inhibits the proinflammatory cytokines, resulting in the normalisation of skin inflammation and substantial decrease of local and systemic inflammation, and as a consequence improvement in clinical signs and symptoms associated with psoriasis, psoriatic arthritis, axial spondyloarthritis and hidradenitis suppurativa. From in vitro models, bimekizumab was shown to inhibit psoriasis-related gene expression, cytokine production, the migration of inflammatory cells and pathological osteogenesis to a greater extent than inhibition of IL-17A alone.
 
 <div style=\"page-break-after: always\"></div>
-
-arthritis, axial spondyloarthritis and hidradenitis suppurativa. IL-17A and IL-17F cooperate and/or synergise with other inflammatory cytokines to induce inflammation. IL17-F is produced in significant amount by innate immune cells. This production can be independent of IL-23. Bimekizumab inhibits the proinflammatory cytokines, resulting in the normalisation of skin inflammation and substantial decrease of local and systemic inflammation, and as a consequence improvement in clinical signs and symptoms associated with psoriasis, psoriatic arthritis, axial spondyloarthritis and hidradenitis suppurativa. From in vitro models, bimekizumab was shown to inhibit psoriasis-related gene expression, cytokine production, the migration of inflammatory cells and pathological osteogenesis to a greater extent than inhibition of IL-17A alone.
 
 ## Clinical efficacy and safety
 
 ## Plaque psoriasis
 
-The safety and efficacy of bimekizumab was evaluated in 1,480 patients with moderate to severe plaque psoriasis in three Phase 3 multicentre, randomised, placebo and/or active comparatorcontrolled studies. Patients were at least 18 years of age, had a Psoriasis Area and Severity Index (PASI) score ≥12 and Body Surface Area (BSA) affected by psoriasis (PSO) ≥10%, an Investigators Global Assessment (IGA) score ≥3 on a 5 -point scale and were candidates for systemic psoriasis therapy and/or phototherapy. The efficacy and safety of bimekizumab were evaluated versus placebo and ustekinumab (BE VIVID - PS0009), versus placebo (BE READY - PS0013) and versus adalimumab (BE SURE - PS0008).
+The safety and efficacy of bimekizumab was evaluated in 1,480 patients with moderate to severe plaque psoriasis in three Phase 3 multicentre, randomised, placebo and/or active comparatorcontrolled studies. Patients were at least 18 years of age, had a Psoriasis Area and Severity Index (PASI) score ≥12 and Body Surface Area (BSA) affected by psoriasis (PSO) ≥10%, an Investigators Global Assessment (IGA) score ≥3 on a 5 -point scale and were candidates for systemic psoriasis therapy and/or phototherapy. The efficacy and safety of bimekizumab were evaluated versus placebo and ustekinumab (BE VIVID -PS0009), versus placebo (BE READY -PS0013) and versus adalimumab (BE SURE - PS0008).
 
 The BE VIVID study evaluated 567 patients for 52 weeks where patients were randomised to receive either bimekizumab 320 mg every 4 weeks, ustekinumab (45 mg or 90 mg, depending on patient weight, at baseline and week 4 and then every 12 weeks), or placebo for an initial 16 weeks, followed by bimekizumab 320 mg every 4 weeks.
 
@@ -366,11 +355,11 @@ Baseline characteristics were consistent across all 3 studies: patients were pre
 
 Across all 3 studies, 38% of patients had received a prior biologic therapy; 23% had received at least one anti-IL17 agent (primary anti-IL17 failures were excluded) and 13% had received at least one TNF-antagonist. Twenty-two percent were naïve to any systemic therapy (including non-biologic and biologic) and 39% of patients had received prior phototherapy or photochemotherapy.
 
-The efficacy of bimekizumab was evaluated with respect to impact on skin disease overall, specific
+The efficacy of bimekizumab was evaluated with respect to impact on skin disease overall, specific body locations (scalp, nails, palms and soles), patient reported symptoms and impact on quality of life. The two co-primary endpoints in all 3 studies were the proportion of patients who achieved 1) a PASI 90 response and 2) an IGA 'clear or almost clear' (IGA 0/1with at least two points improvement from baseline) response at week 16. PASI 100, IGA 0 response at week 16 and PASI 75 response at week 4
 
 <div style=\"page-break-after: always\"></div>
 
-body locations (scalp, nails, palms and soles), patient reported symptoms and impact on quality of life. The two co-primary endpoints in all 3 studies were the proportion of patients who achieved 1) a PASI 90 response and 2) an IGA 'clear or almost clear' (IGA 0/1with at least two points improvement from baseline) response at week 16. PASI 100, IGA 0 response at week 16 and PASI 75 response at week 4 were secondary endpoints in all 3 studies.
+were secondary endpoints in all 3 studies.
 
 ## Skin disease overall
 
@@ -378,29 +367,25 @@ Treatment with bimekizumab resulted in significant improvement across efficacy e
 
 Table 2: Summary of clinical responses in BE VIVID, BE READY and BE SURE
 
-|                             | BE VIVID              | BE VIVID                              | BE VIVID                  | BE READY              | BE READY                              | BE SURE                               | BE SURE                   |
-|-----------------------------|-----------------------|---------------------------------------|---------------------------|-----------------------|---------------------------------------|---------------------------------------|---------------------------|
-|                             | Placebo (N= 83) n (%) | Bimekizumab 320 mg Q4W (N= 321) n (%) | Ustekinumab (N=163) n (%) | Placebo (N= 86) n (%) | Bimekizumab 320 mg Q4W (N= 349) n (%) | Bimekizumab 320 mg Q4W (N= 319) n (%) | Adalimumab (N= 159) n (%) |
-| PASI 100 Week 16            | 0 (0.0)               | 188 (58.6) a                          | 34 (20.9)                 | 1 (1.2)               | 238 (68.2) a                          | 194 (60.8) a                          | 38 (23.9)                 |
-| PASI 90 Week 16             | 4 (4.8)               | 273 (85.0) a, b                       | 81 (49.7)                 | 1 (1.2)               | 317 (90.8) a                          | 275 (86.2) a                          | 75 (47.2)                 |
-| PASI 75 Week 4 Week 16      | 2 (2.4) 6 (7.2)       | 247 (76.9) a, b 296 (92.2)            | 25 (15.3) 119 (73.0)      | 1 (1.2) 2 (2.3)       | 265 (75.9) a 333 (95.4)               | 244 (76.5) a 295 (92.5)               | 50 (31.4) 110 (69.2)      |
-| IGA 0 Week 16               | 0 (0.0)               | 188 (58.6) a                          | 36 (22.1)                 | 1 (1.2)               | 243 (69.6) a                          | 197 (61.8)                            | 39 (24.5)                 |
-| IGA 0/1 Week 16             | 4 (4.8)               | 270 (84.1) a, b                       | 87 (53.4)                 | 1 (1.2)               | 323 (92.6) a                          | 272 (85.3) a                          | 91 (57.2)                 |
-| Absolute PASI ≤ 2 Week 16   | 3 (3.6)               | 273 (85.0)                            | 84 (51.5)                 | 1 (1.2)               | 315 (90.3)                            | 280 (87.8)                            | 86 (54.1)                 |
-| PSD Pain improvement ≥4 (N) | (N=48)                | (N=190)                               | (N=90)                    | (N=49)                | (N=209)                               | (N=222)                               | (N=92)                    |
-| Week 16                     | 5 (10.4)              | 140 (73.7)                            | 54 (60.0)                 | 0 (0.0)               | 148 (70.8)                            | 143 (64.4)                            | 43 (46.7)                 |
-| PSD Itch improvement ≥4 (N) | (N=53)                | (N=222)                               | (N=104)                   | (N=60)                | (N=244)                               | (N=248)                               | (N=107)                   |
-| Week 16                     | 6 (11.3)              | 151 (68.0)                            | 57 (54.8)                 | 0 (0.0)               | 161 (66.0)                            | 153 (61.7)                            | 42 (39.3)                 |
-| PSD Scaling improvement     | (N=56)                | (N=225)                               | (N=104)                   | (N=65)                | (N=262)                               | (N=251)                               | (N= 109)                  |
-| ≥4 (N) Week 16              | 6 (10.7)              | 171 (76.0)                            | 59 (56.7)                 | 1 (1.5)               | 198 (75.6)                            | 170 (67.7)                            | 42 (38.5)                 |
+|                             | BE VIVID              | BE VIVID                            | BE VIVID                  | BE READY              | BE READY                            | BE SURE                             | BE SURE                   |
+|-----------------------------|-----------------------|-------------------------------------|---------------------------|-----------------------|-------------------------------------|-------------------------------------|---------------------------|
+|                             | Placebo (N= 83) n (%) | Bimekizumab 320mgQ4W (N= 321) n (%) | Ustekinumab (N=163) n (%) | Placebo (N= 86) n (%) | Bimekizumab 320mgQ4W (N= 349) n (%) | Bimekizumab 320mgQ4W (N= 319) n (%) | Adalimumab (N= 159) n (%) |
+| PASI 100 Week 16            | 0 (0.0)               | 188 (58.6) a                        | 34 (20.9)                 | 1 (1.2)               | 238 (68.2) a                        | 194 (60.8) a                        | 38 (23.9)                 |
+| PASI 90 Week 16             | 4 (4.8)               | 273 (85.0) a, b                     | 81 (49.7)                 | 1 (1.2)               | 317 (90.8) a                        | 275 (86.2) a                        | 75 (47.2)                 |
+| PASI 75 Week 4 Week 16      | 2 (2.4) 6 (7.2)       | 247 (76.9) a, b 296 (92.2)          | 25 (15.3) 119 (73.0)      | 1 (1.2) 2 (2.3)       | 265 (75.9) a 333 (95.4)             | 244 (76.5) a 295 (92.5)             | 50 (31.4) 110 (69.2)      |
+| IGA 0 Week 16               | 0 (0.0)               | 188 (58.6) a                        | 36 (22.1)                 | 1 (1.2)               | 243 (69.6) a                        | 197 (61.8)                          | 39 (24.5)                 |
+| IGA 0/1 Week 16             | 4 (4.8)               | 270 (84.1) a, b                     | 87 (53.4)                 | 1 (1.2)               | 323 (92.6) a                        | 272 (85.3) a                        | 91 (57.2)                 |
+| Absolute PASI ≤ 2 Week 16   | 3 (3.6)               | 273 (85.0)                          | 84 (51.5)                 | 1 (1.2)               | 315 (90.3)                          | 280 (87.8)                          | 86 (54.1)                 |
+| PSD Pain improvement ≥4 (N) | (N=48)                | (N=190)                             | (N=90)                    | (N=49)                | (N=209)                             | (N=222)                             | (N=92)                    |
+| Week 16                     | 5 (10.4)              | 140 (73.7)                          | 54 (60.0)                 | 0 (0.0)               | 148 (70.8)                          | 143 (64.4)                          | 43 (46.7)                 |
+| PSD Itch improvement ≥4 (N) | (N=53)                | (N=222)                             | (N=104)                   | (N=60)                | (N=244)                             | (N=248)                             | (N=107)                   |
+| Week 16                     | 6 (11.3)              | 151 (68.0)                          | 57 (54.8)                 | 0 (0.0)               | 161 (66.0)                          | 153 (61.7)                          | 42 (39.3)                 |
+| PSD Scaling improvement     | (N=56)                | (N=225)                             | (N=104)                   | (N=65)                | (N=262)                             | (N=251)                             | (N= 109)                  |
+| ≥4 (N) Week 16              | 6 (10.7)              | 171 (76.0)                          | 59 (56.7)                 | 1 (1.5)               | 198 (75.6)                          | 170 (67.7)                          | 42 (38.5)                 |
 
-Bimekizumab 320 mg Q4W= bimekizumab every 4 weeks. Non-Responder Imputation (NRI) is used.
+Bimekizumab 320 mg Q4W= bimekizumab every 4 weeks. Non-Responder Imputation (NRI) is used. IGA 0/1 response was defined as Clear (0) or Almost Clear (1) with at least a 2-category improvement from Baseline at week 16. IGA 0 response was defined as Clear (0) with at least a 2-category improvement from Baseline at week 16. PSD is a Patient Symptoms Diary, also referred to as Psoriasis Symptoms and Impacts Measure (P-SIM), measuring psoriasis symptom severity on a scale from 0 (no symptoms) to 10 (very severe symptoms). Response is defined as a decrease ≥4 from baseline to week 16 for pain, itch and scaling on a scale from 0 to 10.
 
-IGA 0/1 response was defined as Clear (0) or Almost Clear (1) with at least a 2-category improvement from Baseline at week 16. IGA 0 response was defined as Clear (0) with at least a 2-category improvement from Baseline at week 16. PSD is a Patient Symptoms Diary, also referred to as Psoriasis Symptoms and Impacts Measure (P-SIM), measuring psoriasis symptom severity on a scale from 0 (no symptoms) to 10 (very severe symptoms). Response is defined as a decrease ≥4 from baseline to week 16 for pain, itch and scaling on a scale from 0 to 10.
-
-a) p&lt;0.001 versus placebo (BE VIVID and BE READY), versus b) p&lt;0.001 versus
-
-adalimumab (BE SURE), adjusted for multiplicity. ustekinumab (BE VIVID), adjusted for multiplicity.
+a) p&lt;0.001 versus placebo (BE VIVID and BE READY), versus adalimumab (BE SURE), adjusted for multiplicity. b) p&lt;0.001 versus ustekinumab (BE VIVID), adjusted for multiplicity.
 
 Bimekizumab was associated with a rapid onset of efficacy. In BE VIVID, at week 2 and week 4, PASI 90 response rates were significantly higher for bimekizumab-treated patients (12.1% and 43.6% respectively) compared to placebo (1.2% and 2.4% respectively) and ustekinumab (1.2% and 3.1% respectively).
 
@@ -432,19 +417,17 @@ Improvements were observed in psoriasis involving the scalp, nails, palms and so
 
 Table 3: Scalp, palmoplantar and nail responses in BE VIVID, BE READY and BE SURE at week 16
 
-|                         | BE VIVID   | BE VIVID               | BE VIVID    | BE READY   | BE READY               | BE SURE                | BE SURE    |
-|-------------------------|------------|------------------------|-------------|------------|------------------------|------------------------|------------|
-|                         | Placebo    | Bimekizumab 320 mg Q4W | Ustekinumab | Placebo    | Bimekizumab 320 mg Q4W | Bimekizumab 320 mg Q4W | Adalimumab |
-| Scalp IGA (N) a         | (72)       | (285)                  | (146)       | (74)       | (310)                  | (296)                  | (138)      |
-| Scalp IGA 0/1, n (%)    | 11 (15.3)  | 240 (84.2) b           | 103 (70.5)  | 5 (6.8)    | 286 (92.3) b           | 256 (86.5)             | 93 (67.4)  |
-| pp-IGA (N) a            | (29)       | (105)                  | (47)        | (31)       | (97)                   | (90)                   | (34)       |
-| pp-IGA 0/1, n (%)       | 7 (24.1)   | 85 (81.0)              | 39 (83.0)   | 10 (32.3)  | 91 (93.8)              | 75 (83.3)              | 24 (70.6)  |
-| mNAPSI 100 (N) a mNAPSI | (51)       | (194)                  | (109)       | (50)       | (210)                  | (181)                  | (95)       |
-| 100, n (%)              | 4 (7.8)    | 57 (29.4)              | 15 (13.8)   | 3 (6.0)    | 73 (34.8)              | 54 (29.8)              | 21 (22.1)  |
+|                         | BE VIVID   | BE VIVID             | BE VIVID    | BE READY   | BE READY             | BE SURE              | BE SURE    |
+|-------------------------|------------|----------------------|-------------|------------|----------------------|----------------------|------------|
+|                         | Placebo    | Bimekizumab 320mgQ4W | Ustekinumab | Placebo    | Bimekizumab 320mgQ4W | Bimekizumab 320mgQ4W | Adalimumab |
+| Scalp IGA (N) a         | (72)       | (285)                | (146)       | (74)       | (310)                | (296)                | (138)      |
+| Scalp IGA 0/1, n (%)    | 11 (15.3)  | 240 (84.2) b         | 103 (70.5)  | 5 (6.8)    | 286 (92.3) b         | 256 (86.5)           | 93 (67.4)  |
+| pp-IGA (N) a pp-IGA     | (29)       | (105)                | (47)        | (31)       | (97)                 | (90)                 | (34)       |
+| 0/1, n (%)              | 7 (24.1)   | 85 (81.0)            | 39 (83.0)   | 10 (32.3)  | 91 (93.8)            | 75 (83.3)            | 24 (70.6)  |
+| mNAPSI 100 (N) a mNAPSI | (51)       | (194)                | (109)       | (50)       | (210)                | (181)                | (95)       |
+| 100, n (%)              | 4 (7.8)    | 57 (29.4)            | 15 (13.8)   | 3 (6.0)    | 73 (34.8)            | 54 (29.8)            | 21 (22.1)  |
 
-Bimekizumab 320 mg Q4W= bimekizumab every 4 weeks. Non responder imputation (NRI) is used.
-
-Scalp IGA 0/1 and ppIGA 0/1 responses were defined as Clear (0) or Almost Clear (1) with ≥2 category improvement relative to Baseline.
+Bimekizumab 320 mg Q4W= bimekizumab every 4 weeks. Non responder imputation (NRI) is used. Scalp IGA 0/1 and ppIGA 0/1 responses were defined as Clear (0) or Almost Clear (1) with ≥2 category improvement relative to Baseline.
 
 a)  Include only patients with a scalp Investigator Global Assessment (IGA) of 2 or greater, a palmoplantar IGA of 2 or greater and a modified Nail Psoriasis and Severity Index (mNAPSI) score &gt; 0 at baseline.
 
@@ -461,13 +444,9 @@ Table 4: Maintenance of responses with bimekizumab at week 52 in PASI 100, PASI 
 | 320 mg Q4W (N=355) n (%) | 320 mg Q8W (N=182) n (%) | 320 mg Q4W (N=516) n (%) | 320 mg Q8W (N=237) n (%) | 320 mg Q4W (N=511) n (%) | 320 mg Q8W (N=234) n (%) | 320 mg Q4W (N=511) n (%) | 320 mg Q8W (N= 238) n (%) |
 | 295 (83.1)               | 161 (88.5)               | 464 (89.9)               | 214 (90.3)               | 447 (87.5)               | 214 (91.5)               | 460 (90.0)               | 215 (90.3)                |
 
-* Integrated analysis of BE VIVID, BE READY and BE SURE. NRI is used.
-
-320 mg Q4W: bimekizumab 320 mg every 4 weeks followed by bimekizumab 320 mg every 4 weeks from week 16. 320 mg Q8W: bimekizumab 320 mg every 4 weeks followed by bimekizumab 320 mg every 8 weeks from week 16.
-
 Durability of response (after bimekizumab discontinuation)
 
-Figure 3: PASI 90 responder rates over time for PASI 90 responders at week 16 - Randomised withdrawal period in BE READY
+Figure 3: PASI 90 responder rates over time for PASI 90 responders at week 16 -Randomised withdrawal period in BE READY
 
 <!-- image -->
 
@@ -485,19 +464,19 @@ Across all 3 studies, a greater proportion of patients treated with bimekizumab 
 
 Table 5: Quality of life in study BE VIVID, BE READY and BE SURE
 
-|                     | BE VIVID              | BE VIVID                              | BE VIVID                   | BE READY              | BE READY                              | BE SURE                               | BE SURE                   |
-|---------------------|-----------------------|---------------------------------------|----------------------------|-----------------------|---------------------------------------|---------------------------------------|---------------------------|
-|                     | Placebo (N= 83) n (%) | Bimekizumab 320 mg Q4W (N= 321) n (%) | Ustekinumab (N= 163) n (%) | Placebo (N= 86) n (%) | Bimekizumab 320 mg Q4W (N= 349) n (%) | Bimekizumab 320 mg Q4W (N= 319) n (%) | Adalimumab (N= 159) n (%) |
-| DLQI 0/1 a Baseline | 3 (3.6)               | 16 (5.0)                              | 5 (3.1)                    | 4 (4.7)               | 11 (3.2)                              | 10 (3.1)                              | 13 (8.2)                  |
-| DLQI 0/1 a Week 16  | 10 (12.0)             | 216 (67.3)                            | 69 (42.3)                  | 5 (5.8)               | 264 (75.6)                            | 201 (63.0)                            | 74 (46.5)                 |
+|                     | BE VIVID              | BE VIVID                            | BE VIVID                   | BE READY              | BE READY                            | BE SURE                             | BE SURE                   |
+|---------------------|-----------------------|-------------------------------------|----------------------------|-----------------------|-------------------------------------|-------------------------------------|---------------------------|
+|                     | Placebo (N= 83) n (%) | Bimekizumab 320mgQ4W (N= 321) n (%) | Ustekinumab (N= 163) n (%) | Placebo (N= 86) n (%) | Bimekizumab 320mgQ4W (N= 349) n (%) | Bimekizumab 320mgQ4W (N= 319) n (%) | Adalimumab (N= 159) n (%) |
+| DLQI 0/1 a Baseline | 3 (3.6)               | 16 (5.0)                            | 5 (3.1)                    | 4 (4.7)               | 11 (3.2)                            | 10 (3.1)                            | 13 (8.2)                  |
+| DLQI 0/1 a Week 16  | 10 (12.0)             | 216 (67.3)                          | 69 (42.3)                  | 5 (5.8)               | 264 (75.6)                          | 201 (63.0)                          | 74 (46.5)                 |
 
-a) DLQI absolute score of 0 or 1 indicates no impact of the disease on health-related quality of life. NRI is used.
+a)  DLQI absolute score of 0 or 1 indicates no impact of the disease on health-related quality of life. NRI is used.
 
 DLQI 0/1 responses continued to increase beyond week 16 and then were maintained through week 52 / 56. In BE VIVID, DLQI 0/1 response rate at week 52 was 74.8% in patients treated with bimekizumab 320 mg every 4 weeks. In BE SURE at week 56, 78.9% and 74.1% of patients had a DLQI 0/1 with bimekizumab 320 mg every 8 weeks and bimekizumab 320 mg every 4 weeks, respectively.
 
-## Phase 3 Open Label Extension study
+## Phase 3 open label extension study
 
-Patients who completed one of the pivotal phase 3 studies ('feeder studies') could enter a 144-week open-label extension study (PS0014) to assess the long-term safety and efficacy of bimekizumab.
+Patients who completed one of the pivotal phase 3 studies ('feeder studies') could enter a 144 -week open-label extension study (PS0014) to assess the long-term safety and efficacy of bimekizumab.
 
 344 patients who were treated with bimekizumab 320 mg every 8 weeks (BKZ 320 mg Q8W) or every 4 weeks (BKZ 320 mg Q4W) during the feeder study, and who achieved PASI 90 at the end of the feeder study, received bimekizumab 320 mg Q8W throughout PS0014. Of these, 293 (85.2%) patients completed 144 weeks of treatment with bimekizumab 320 mg Q8W. 48 patients (14.0%) discontinued the study during the treatment period, of which 21 (6.1%) discontinued due to an adverse event and 4 (1.2%) discontinued due to lack of efficacy.
 
@@ -515,17 +494,13 @@ Differences in response rates between bimekizumab and secukinumab-treated patien
 
 Table 6: PASI response rates from BE RADIANT - bimekizumab versus secukinumab
 
-|                 | Week 4                               | Week 4                    | Week 16                              | Week 16                   | Week 48 a)                               | Week 48 a)                               | Week 48 a)                |
-|-----------------|--------------------------------------|---------------------------|--------------------------------------|---------------------------|------------------------------------------|------------------------------------------|---------------------------|
-|                 | Bimekizumab 320 mg Q4W (N=373) n (%) | Secukinumab (N=370) n (%) | Bimekizumab 320 mg Q4W (N=373) n (%) | Secukinumab (N=370) n (%) | Bimekizumab 320 mg Q4W/Q4W (N=147) n (%) | Bimekizumab 320 mg Q4W/Q8W (N=215) n (%) | Secukinumab (N=354) n (%) |
-| PASI 100        | 52 (13.9)                            | 23 (6.2)                  | 230 (61.7)*                          | 181 (48.9)                | 108 (73.5)*                              | 142 (66.0)*                              | 171 (48.3)                |
-| PASI 90         | 134 (35.9)                           | 65 (17.6)                 | 319 (85.5)                           | 275 (74.3)                | 126 (85.7)                               | 186 (86.5)                               | 261 (73.7)                |
-| PASI 75         | 265 (71.0)*                          | 175 (47.3)                | 348 (93.3)                           | 337 (91.1)                | 134 (91.2)                               | 196 (91.2)                               | 301 (85.0)                |
-| Absolute PASI<2 | 151 (40.5)                           | 75 (20.3)                 | 318 (85.3)                           | 283 (76.5)                | 127 (86.4)                               | 186 (86.5)                               | 269 (76.0)                |
-
-a)  Data are from the Maintenance Set consisting of patients who received at least one dose of study treatment at week 16 or later
-
-*p&lt;0.001 versus secukinumab, adjusted for multiplicity. NRI is used.
+|                 | Week 4                             | Week 4                    | Week 16                            | Week 16                   | Week 48 a)                               | Week 48 a)                               | Week 48 a)                |
+|-----------------|------------------------------------|---------------------------|------------------------------------|---------------------------|------------------------------------------|------------------------------------------|---------------------------|
+|                 | Bimekizumab 320mgQ4W (N=373) n (%) | Secukinumab (N=370) n (%) | Bimekizumab 320mgQ4W (N=373) n (%) | Secukinumab (N=370) n (%) | Bimekizumab 320 mg Q4W/Q4W (N=147) n (%) | Bimekizumab 320 mg Q4W/Q8W (N=215) n (%) | Secukinumab (N=354) n (%) |
+| PASI 100        | 52 (13.9)                          | 23 (6.2)                  | 230 (61.7)*                        | 181 (48.9)                | 108 (73.5)*                              | 142 (66.0)*                              | 171 (48.3)                |
+| PASI 90         | 134 (35.9)                         | 65 (17.6)                 | 319 (85.5)                         | 275 (74.3)                | 126 (85.7)                               | 186 (86.5)                               | 261 (73.7)                |
+| PASI 75         | 265 (71.0)*                        | 175 (47.3)                | 348 (93.3)                         | 337 (91.1)                | 134 (91.2)                               | 196 (91.2)                               | 301 (85.0)                |
+| Absolute PASI<2 | 151 (40.5)                         | 75 (20.3)                 | 318 (85.3)                         | 283 (76.5)                | 127 (86.4)                               | 186 (86.5)                               | 269 (76.0)                |
 
 Bimekizumab and secukinumab PASI 100 response rates through week 48 are presented in Figure 4.
 
@@ -537,7 +512,7 @@ NRI is used. Maintenance Set consisting of patients who received at least one do
 
 The efficacy of bimekizumab in BE RADIANT was consistent with BE VIVID, BE READY and BE SURE.
 
-## Phase 3b Open Label Extension period
+## Phase 3b open label extension period
 
 At week 48, patients were allowed to enter a 96-week open-label extension period (OLE) and started or continued with bimekizumab 320 mg Q4W or 320 mg Q8W depending on their PASI 90 responder status at week 48. Study participants who initially received bimekizumab 320 mg Q4W during the OLE were switched to bimekizumab 320 mg Q8W at week 72 or later.
 
@@ -555,11 +530,11 @@ The safety profile of bimekizumab up to week 144 was consistent with the safety 
 
 The safety and efficacy of bimekizumab were evaluated in 1112 adult patients (at least 18 years of age) with active psoriatic arthritis (PsA) in two multicentre, randomised, double-blind, placebocontrolled studies (PA0010 - BE OPTIMAL and PA0011- BE COMPLETE). The BE OPTIMAL study included an active reference treatment arm (adalimumab) (N=140).
 
-For both studies, patients had a diagnosis of active psoriatic arthritis for at least 6 months based on the Classification Criteria for Psoriatic Arthritis (CASPAR) and had active disease with tender joint count (TJC) ≥3 and swollen joint count (SJC) ≥3. Patients had a diagnosis of PsA for a median of 3.6 years in BE OPTIMAL and 6.8 years in BE COMPLETE. Patients with each subtype of PsA were enrolled in these studies, including polyarticular symmetric arthritis, oligoarticular asymmetric arthritis, distal interphalangeal joint predominant, spondylitis predominant and arthritis mutilans. At baseline, 55.9% of pat ients had ≥ 3% Body Surface Area (BSA) with active plaque psoriasis. 10.4% of patients had moderate to severe plaque psoriasis and 31.9% and 12.3% had enthesitis and dactylitis at baseline, respectively. The primary efficacy endpoint in both studies was the American College of Rheumatology (ACR) 50 response at week 16.
+For both studies, patients had a diagnosis of active psoriatic arthritis for at least 6 months based on the Classification Criteria for Psoriatic Arthritis (CASPAR) and had active disease with tender joint count (TJC) ≥3 and swollen joint count (SJC) ≥3. P atients had a diagnosis of PsA for a median of 3.6 years in BE OPTIMAL and 6.8 years in BE COMPLETE. Patients with each subtype of PsA were enrolled in these studies, including polyarticular symmetric arthritis, oligoarticular asymmetric arthritis, distal interphalangeal joint predominant, spondylitis predominant and arthritis mutilans. At baseline, 55.9% of patients had ≥ 3% Body Surface Area (BSA) with active plaque psoriasis. 10.4% of patients had moderate to severe plaque psoriasis and 31.9% and 12.3% had enthesitis and dactylitis at baseline, respectively. The primary efficacy endpoint in both studies was the American College of Rheumatology (ACR) 50 response at week 16.
 
 The BE OPTIMAL study evaluated 852 patients not previously exposed to any biologic diseasemodifying anti-rheumatic drug (bDMARD) for the treatment of psoriatic arthritis or psoriasis. Patients were randomised (3:2:1) to receive bimekizumab 160 mg every 4 weeks through week 52 or placebo up to week 16 followed by bimekizumab 160 mg every 4 weeks through week 52 or an active reference treatment arm (adalimumab 40 mg every 2 weeks) up to week 52. In this study, 78.3% of patients had received prior treatment w ith ≥ 1 cDMARDs and 21.7 % of patients had no prior treatment with cDMARDs. At baseline, 58.2% of patients were receiving concomitant methotrexate (MTX), 11.3% were receiving concomitant cDMARDs other than MTX, and 30.5% were receiving no cDMARDs.
 
-The BE COMPLETE study evaluated 400 patients with an inadequate response (lack of efficacy) or intolerance to treatment with 1 or 2 tumour necrosis factor alpha inhibitors (antiTNFα - IR) for either psoriatic arthritis or psoriasis. Patients were randomised (2:1) to receive bimekizumab 160 mg every 4 weeks or placebo up to week 16. At baseline, 42.5% of patients were receiving concomitant MTX, 8.0% were receiving concomitant cDMARDs other than MTX, and 49.5% were receiving no cDMARDs. In this study, 76.5% of participants had an inadequate response to 1 TNFα inhibitor, 11.3% had an inadequate response to 2 TNFα inhibitors and 12.3% were intolerant to TNFα inhibitors.
+The BE COMPLETE study evaluated 400 patients with an inadequate response (lack of efficacy) or intolerance to treatment with 1 or 2 tumour necrosis factor alpha inhibitors (antiTNFα IR) for either psoriatic arthritis or psoriasis. Patients were randomised (2:1) to receive bimekizumab 160 mg every 4 weeks or placebo up to week 16. At baseline, 42.5% of patients were receiving concomitant MTX, 8.0% were receiving concomitant cDMARDs other than MTX, and 49.5% were receiving no cDMARDs. In this study, 76.5% of participants had an inadequate response to 1 TNFα inhibitor, 11.3% had an inadequate response to 2 TNFα inhibitors and 12.3% were intolerant to TNFα inhibitors.
 
 ## Signs and symptoms
 
@@ -569,43 +544,43 @@ In bDMARDs-naïve patients (BE OPTIMAL) and antiTNFα IR patients (BE COMPLETE) 
 
 Table 7: Clinical response in study BE OPTIMAL and BE COMPLETE
 
-|                           | BE OPTIMAL (bDMARD-naïve)   | BE OPTIMAL (bDMARD-naïve)    | BE OPTIMAL (bDMARD-naïve)            | BE OPTIMAL (bDMARD-naïve)                      | BE COMPLETE (anti TNFα -IR)   | BE COMPLETE (anti TNFα -IR)   | BE COMPLETE (anti TNFα -IR)          |
-|---------------------------|-----------------------------|------------------------------|--------------------------------------|------------------------------------------------|-------------------------------|-------------------------------|--------------------------------------|
-|                           | Placebo (N=281) n (%)       | BKZ 160 mg Q4W (N=431) n (%) | Difference from placebo (95% CI) (d) | Reference Arm (e) (Adalimumab) (N=140) e n (%) | Placebo (N=133) n (%)         | BKZ 160 mg Q4W (N=267) n (%)  | Difference from placebo (95% CI) (d) |
-| ACR 20                    |                             |                              |                                      |                                                |                               |                               |                                      |
-| Week 16                   | 67 (23.8)                   | 268 (62.2)                   | 38.3 (31.4, 45.3)                    | 96 (68.6)                                      | 21 (15.8)                     | 179 (67.0)                    | 51.2 (42.1, 60.4)                    |
-| Week 24                   | -                           | 282 (65.4)                   |                                      | 99 (70.7)                                      |                               |                               |                                      |
-| Week 52                   |                             | 307 (71.2)                   |                                      | 102 (72.9)                                     |                               |                               |                                      |
-| ACR 50                    |                             |                              |                                      |                                                |                               |                               |                                      |
-| Week 16                   | 28 (10.0)                   | 189 (43.9)*                  | 33.9 (27.4, 40.4)                    | 64 (45.7)                                      | 9 (6.8)                       | 116 (43.4)*                   | 36.7 (27.7, 45.7)                    |
-| Week 24                   | -                           | 196 (45.5)                   |                                      | 66 (47.1)                                      |                               |                               |                                      |
-| Week 52                   |                             | 235 (54.5)                   |                                      | 70 (50.0)                                      |                               |                               |                                      |
-| ACR 70                    |                             |                              |                                      |                                                |                               |                               |                                      |
-| Week16                    | 12 (4.3)                    | 105 (24.4)                   | 20.1 (14.7, 25.5)                    | 39 (27.9)                                      | 1 (0.8)                       | 71 (26.6)                     | 25.8 (18.2, 33.5)                    |
-| Week 24                   | -                           | 126 (29.2)                   |                                      | 42 (30.0)                                      |                               |                               |                                      |
-| Week 52                   |                             | 169 (39.2)                   |                                      | 53 (37.9)                                      |                               |                               |                                      |
-| MDA (a)                   |                             |                              |                                      |                                                |                               |                               |                                      |
-| Week 16                   | 37 (13.2)                   | 194 (45.0)*                  | 31.8 (25.2, 38.5)                    | 63 (45.0)                                      | 8 (6.0)                       | 118 (44.2)*                   | 38.2 (29.2, 47.2)                    |
-| Week 24                   | -                           | 209 (48.5)                   |                                      | 67 (47.9)                                      |                               |                               |                                      |
-| Week 52                   |                             | 237 (55.0)                   |                                      | 74 (52.9)                                      |                               |                               |                                      |
-| Patients with ≥3% BSA     | (N=140)                     | (N=217)                      |                                      | (N=68)                                         | (N=88)                        | (N=176)                       |                                      |
-| PASI 90                   |                             |                              |                                      |                                                |                               |                               |                                      |
-| Week 16                   | 4 (2.9)                     | 133 (61.3)*                  | 58.4 (49.9, 66.9)                    | 28 (41.2)                                      | 6 (6.8)                       | 121 (68.8)*                   | 61.9 (51.5, 72.4)                    |
-| Week 24                   | -                           | 158 (72.8)                   |                                      | 32 (47.1)                                      |                               |                               |                                      |
-| Week 52                   |                             | 155 (71.4)                   |                                      | 41 (60.3)                                      |                               |                               |                                      |
-| PASI 100                  |                             |                              |                                      |                                                |                               |                               |                                      |
-| Week 16                   | 3 (2.1)                     | 103 (47.5)                   | 45.3 (36.7, 54.0)                    | 14 (20.6)                                      | 4 (4.5)                       | 103 (58.5)                    | 54.0 (43.1, 64.8)                    |
-| Week 24                   | -                           | 122 (56.2)                   |                                      | 26 (38.2)                                      |                               |                               |                                      |
-| Week 52                   |                             | 132 (60.8)                   |                                      | 33 (48.5)                                      |                               |                               |                                      |
-| ACR50/                    |                             |                              |                                      |                                                |                               |                               |                                      |
-| Week 16                   | 0                           | 60 (27.6)                    | NC (NC, NC)                          | 11 (16.2)                                      | 1 (1.1)                       | 59 (33.5)                     | 32.4 (22.3, 42.5)                    |
-| Week 24                   | -                           | 68 (31.3)                    |                                      | 17 (25.0)                                      |                               |                               |                                      |
-| Week 52                   |                             | 102 (47.0)                   |                                      | 24 (35.3)                                      |                               |                               |                                      |
-| Patients with LDI>0 (b)   | (N=47)                      | (N=90)                       |                                      |                                                |                               |                               |                                      |
-| free state Week 16        | 24 (51.1)                   | 68 (75.6)***                 | 24.5 (8.4, 40.6)                     |                                                |                               |                               |                                      |
-| Patients with LEI>0 (c)   | (N=106)                     | (N=249)                      |                                      |                                                |                               |                               |                                      |
-| Enthesitis free state (c) | 37 (34.9)                   |                              |                                      |                                                |                               |                               |                                      |
-| Week 16                   |                             | 124 (49.8)**                 | 14.9 (3.7, 26.1)                     |                                                |                               |                               |                                      |
+|                                   | BE OPTIMAL (bDMARD-naïve)   | BE OPTIMAL (bDMARD-naïve)    | BE OPTIMAL (bDMARD-naïve)            | BE OPTIMAL (bDMARD-naïve)                      | BE COMPLETE (anti TNFα -IR)   | BE COMPLETE (anti TNFα -IR)   | BE COMPLETE (anti TNFα -IR)          |
+|-----------------------------------|-----------------------------|------------------------------|--------------------------------------|------------------------------------------------|-------------------------------|-------------------------------|--------------------------------------|
+|                                   | Placebo (N=281) n (%)       | BKZ 160 mg Q4W (N=431) n (%) | Difference from placebo (95% CI) (d) | Reference Arm (e) (Adalimumab) (N=140) e n (%) | Placebo (N=133) n (%)         | BKZ 160 mg Q4W (N=267) n (%)  | Difference from placebo (95% CI) (d) |
+| ACR 20                            |                             |                              |                                      |                                                |                               |                               |                                      |
+| Week 16                           | 67 (23.8)                   | 268 (62.2)                   | 38.3 (31.4, 45.3)                    | 96 (68.6)                                      | 21 (15.8)                     | 179 (67.0)                    | 51.2 (42.1, 60.4)                    |
+| Week 24                           | -                           | 282 (65.4)                   |                                      | 99 (70.7)                                      |                               |                               |                                      |
+| Week 52                           |                             | 307 (71.2)                   |                                      | 102 (72.9)                                     |                               |                               |                                      |
+| ACR 50                            |                             |                              |                                      |                                                |                               |                               |                                      |
+| Week 16                           | 28 (10.0)                   | 189 (43.9)*                  | 33.9 (27.4, 40.4)                    | 64 (45.7)                                      | 9 (6.8)                       | 116 (43.4)*                   | 36.7 (27.7, 45.7)                    |
+| Week 24                           | -                           | 196 (45.5)                   |                                      | 66 (47.1)                                      |                               |                               |                                      |
+| Week 52                           |                             | 235 (54.5)                   |                                      | 70 (50.0)                                      |                               |                               |                                      |
+| ACR 70                            |                             |                              |                                      |                                                |                               |                               |                                      |
+| Week16                            | 12 (4.3)                    | 105 (24.4)                   | 20.1 (14.7, 25.5)                    | 39 (27.9)                                      | 1 (0.8)                       | 71 (26.6)                     | 25.8 (18.2, 33.5)                    |
+| Week 24                           | -                           | 126 (29.2)                   |                                      | 42 (30.0)                                      |                               |                               |                                      |
+| Week 52                           |                             | 169 (39.2)                   |                                      | 53 (37.9)                                      |                               |                               |                                      |
+| MDA (a)                           |                             |                              |                                      |                                                |                               |                               |                                      |
+| Week 16                           | 37 (13.2)                   | 194 (45.0)*                  | 31.8 (25.2, 38.5)                    | 63 (45.0)                                      | 8 (6.0)                       | 118 (44.2)*                   | 38.2 (29.2, 47.2)                    |
+| Week 24                           | -                           | 209 (48.5)                   |                                      | 67 (47.9)                                      |                               |                               |                                      |
+| Week 52                           |                             | 237 (55.0)                   |                                      | 74 (52.9)                                      |                               |                               |                                      |
+| Patients with ≥3% BSA             | (N=140)                     | (N=217)                      |                                      | (N=68)                                         | (N=88)                        | (N=176)                       |                                      |
+| PASI 90                           |                             |                              |                                      |                                                |                               |                               |                                      |
+| Week 16                           | 4 (2.9)                     | 133 (61.3)*                  | 58.4 (49.9, 66.9)                    | 28 (41.2)                                      | 6 (6.8)                       | 121 (68.8)*                   | 61.9 (51.5, 72.4)                    |
+| Week 24                           | -                           | 158 (72.8)                   |                                      | 32 (47.1)                                      |                               |                               |                                      |
+| Week 52                           |                             | 155 (71.4)                   |                                      | 41 (60.3)                                      |                               |                               |                                      |
+| PASI 100                          |                             |                              |                                      |                                                |                               |                               |                                      |
+| Week 16                           | 3 (2.1)                     | 103 (47.5)                   | 45.3 (36.7, 54.0)                    | 14 (20.6)                                      | 4 (4.5)                       | 103 (58.5)                    | 54.0 (43.1, 64.8)                    |
+| Week 24                           | -                           | 122 (56.2)                   |                                      | 26 (38.2)                                      |                               |                               |                                      |
+| Week 52                           |                             | 132 (60.8)                   |                                      | 33 (48.5)                                      |                               |                               |                                      |
+| ACR50/                            |                             |                              |                                      |                                                |                               |                               |                                      |
+| Week 16                           | 0                           | 60 (27.6)                    | NC (NC, NC)                          | 11 (16.2)                                      | 1 (1.1)                       | 59 (33.5)                     | 32.4 (22.3, 42.5)                    |
+| Week 24                           | -                           | 68 (31.3)                    |                                      | 17 (25.0)                                      |                               |                               |                                      |
+| Week 52                           |                             | 102 (47.0)                   |                                      | 24 (35.3)                                      |                               |                               |                                      |
+| Patients with LDI>0 (b)           | (N=47)                      | (N=90)                       |                                      |                                                |                               |                               |                                      |
+| free state (b) Week 16            | 24 (51.1)                   | 68 (75.6)***                 | 24.5 (8.4, 40.6)                     |                                                |                               |                               |                                      |
+| Patients with LEI>0               | (N=106)                     | (N=249)                      |                                      |                                                |                               |                               |                                      |
+| (c)                               |                             |                              |                                      |                                                |                               |                               |                                      |
+| Enthesitis free state (c) Week 16 | 37 (34.9)                   | 124 (49.8)**                 | 14.9 (3.7, 26.1)                     |                                                |                               |                               |                                      |
 
 ACR50/PASI 100= composite ACR50 and PASI 100 response. BKZ 160 mg Q4W= bimekizumab 160 mg every 4 weeks. CI= confidence interval. NC=Not calculable
 
@@ -657,12 +632,6 @@ Table 8: Change in vdHmTSS in BE OPTIMAL at week 16
 | Mean change from baseline (SE)                                             | 0.36 (0.10) | 0.04 (0.05)*   | -0.32 ( -0.35, -0.30)                 |
 | Overall population                                                         | (N=269)     | (N=420)        |                                       |
 | Mean change from baseline (SE)                                             | 0.32 (0.09) | 0.04 (0.04)*   | -0.26 ( -0.29, -0.23)                 |
-
-*p =0.001 versus placebo. p-values are based on reference-based imputation using difference in LS Mean using an ANCOVA model with treatment, bone erosion at Baseline and region as fixed effects and Baseline score as a covariate.
-
-Week 16 summary data is based on the first set of reads for the primary analysis.
-
-a)  Unadjusted differences are shown
 
 <div style=\"page-break-after: always\"></div>
 
@@ -736,8 +705,8 @@ Table 10: Other measures of efficacy in BE MOBILE 1 and BE MOBILE 2
 |-----------------------------------------------|--------------------------|--------------------------|--------------------|------------------------|
 |                                               | Placebo (N= 126)         | BKZ 160 mg Q4W (N= 128)  | Placebo (N= 111)   | BKZ 160 mg Q4W (N=221) |
 | Nocturnal spinal pain                         |                          |                          |                    |                        |
-| Baseline Mean change from baseline at Week 16 | 6.7 -1.7                 | 6.9 -3.6* -4.3           | 6.8 -1.9           | 6.6 -3.3* -4.1         |
-| BASDAI Baseline                               |                          |                          |                    |                        |
+| Baseline Mean change from baseline at Week 16 | 6.7 -1.7                 | 6.9 -4.3                 | 6.8 -1.9           | 6.6 -3.3* -4.1         |
+| BASDAI Baseline                               |                          | -3.6*                    |                    |                        |
 | Mean change from baseline at Week 52          |                          |                          |                    |                        |
 |                                               | 6.7                      | 6.9                      | 6.5                | 6.5                    |
 | Mean change from baseline at Week 16          | -1.5                     | -3.1*                    | -1.9               | -2.9*                  |
@@ -796,11 +765,8 @@ Table 11: Reduction of inflammation as assessed by MRI in BE MOBILE 1 and BE MOB
 | Mean change from baseline a) at week 16 | -1.56 (N=62)             | -6.15 (N=78)             | 0.59 (N=46)        | -4.51 (N=81)       |
 | Mean change from baseline a) at week 52 |                          | -7.57                    |                    | -4.67              |
 | ASspiMRI-a (Berlin modifications) score |                          | (N=67)                   |                    | (N=78)             |
-| Mean change from baseline a) at week 16 | 0.03                     | -0.36                    | -0.34              | -2.23              |
-| Mean change from baseline a) at week 52 |                          | -0.70                    |                    | -2.38              |
-|                                         |                          | (N=65)                   |                    | (N=77)             |
-
-a)  Change from baseline values are based on observed cases as assessed by central read of week 52 dataset.
+| Mean change from baseline a) at week 16 | 0.03 (N=60)              | -0.36 (N=74)             | -0.34 (N=46)       | -2.23 (N=81)       |
+| Mean change from baseline a) at week 52 |                          | -0.70 (N=65)             |                    | -2.38 (N=77)       |
 
 ## Physical function and other health-related outcomes
 
@@ -816,13 +782,11 @@ In pooled data from BE MOBILE 1 (nr-axSpA) and BE MOBILE 2 (AS), at week 16, the
 
 ## Hidradenitis suppurativa
 
-The safety and efficacy of bimekizumab was evaluated in 1014 adult patients (at least 18 years of age) with moderate to severe Hidradenitis Suppurativa (HS) in two Phase 3 multicentre, randomised, double-blind, placebo-controlled studies (HS0003 - BE HEARD I and HS0004 - BE HEARD II). Patients had a diagnosis of HS for at least 6 months with Hurley Stage II or Hurley Stage III disease, and wit h ≥5 inflammatory lesions (i.e. number of abscesses plus number of inflammatory nodules) and had a history of inadequate response to a course of systemic antibiotics for the treatment of HS.
+The safety and efficacy of bimekizumab was evaluated in 1014 adult patients (at least 18 years of age) with moderate to severe Hidradenitis Suppurativa (HS) in two Phase 3 multicentre, randomised, double-blind, placebo-controlled studies (HS0003 -BE HEARD I and HS0004 -BE HEARD II). Patients had a diagnosis of HS for at least 6 months with Hurley Stage II or Hurley Stage III disease, and with ≥5 inflammatory lesions (i.e. number of abscesses plus number of inflammatory nodules) and had a history of inadequate response to a course of systemic antibiotics for the treatment of HS.
 
-In both studies patients were randomised (2:2:2:1) to receive bimekizumab 320 mg every 2 weeks for 48 weeks (320 mg Q2W/Q2W) or bimekizumab 320 mg every 4 weeks for 48 weeks (320 mg Q4W/Q4W) or bimekizumab 320 mg every 2 weeks to week 16 followed by 320 mg every 4 weeks up to week 48 (320 mg Q2W/Q4W) or placebo to week 16 followed by bimekizumab 320 mg every 2 weeks up to week 48. Concomitant oral antibiotic use was allowed if the patient was on a stable dose
+In both studies patients were randomised (2:2:2:1) to receive bimekizumab 320 mg every 2 weeks for 48 weeks (320 mg Q2W/Q2W) or bimekizumab 320 mg every 4 weeks for 48 weeks (320 mg Q4W/Q4W) or bimekizumab 320 mg every 2 weeks to week 16 followed by 320 mg every 4 weeks up to week 48 (320 mg Q2W/Q4W) or placebo to week 16 followed by bimekizumab 320 mg every 2 weeks up to week 48. Concomitant oral antibiotic use was allowed if the patient was on a stable dose regimen of doxycycline, minocycline, or an equivalent systemic tetracycline for 28 days prior to baseline.
 
 <div style=\"page-break-after: always\"></div>
-
-regimen of doxycycline, minocycline, or an equivalent systemic tetracycline for 28 days prior to baseline.
 
 The primary efficacy endpoint in both studies was the Hidradenitis Suppurativa Clinical Response 50 (HiSCR50) at week 16, i.e. at least a 50% reduction in the total abscess and inflammatory nodule count with no increase in abscess or draining tunnel count relative to baseline.
 
@@ -841,25 +805,24 @@ Table 12: Response in BE HEARD I and BE HEARD II at week 16 - primary analysis a
 | HiSCR 75, % (95% CI)                        | 18.4 (9.3, 27.5)  | 24.7 (17.3, 32.1)      | 33.4* (27.8, 39.1)     | 15.6 (7.2, 24.0)  | 33.7* (25.7, 41.7)     | 35.7* (30.1, 41.3)     |
 | HSSDD worst skin pain response b % (95% CI) | 15.0 (3.6, 26.5)  | 22.1 (12.7, 31.4)      | 32.3 (25.1, 39.5)      | 10.9 (1.7, 20.1)  | 28.6 (19.5, 37.8)      | 31.8 (25.1, 38.4)      |
 
-a) Patients who take systemic antibiotics for any reason or who discontinue due to adverse event or lack of efficacy are treated as non-responders at all subsequent visits for responder variables (or are subject to multiple imputation for continuous variables). Other missing data were imputed via multiple imputation.
+a)  Patients who take systemic antibiotics for any reason or who discontinue due to adverse event or lack of efficacy are treated as non-responders at all subsequent visits for responder variables (or are subject to multiple imputation for continuous variables). Other missing data were imputed via multiple imputation.
 
-b) Skin pain response, based on the threshold for within-patient clinically meaningful change (defined as at least a 3-point decrease from Baseline in Hidradenitis Suppurativa Symptom Daily Diary (HSSDD) weekly worst skin pain score) at week 16 among study p articipants with a score of ≥3 at Baseline. For BE HEARD I: N=46 for placebo, N=103 for BKZ Q4W and N=190 for BKZ Q2W; BE HEARD II: N=49 for placebo, N=108 for BKZ Q4W and N=209 for BKZ Q2W. *p&lt;0.025 versus placebo, adjusted for multiplicity.
+b)  Skin pain response, based on the threshold for within-patient clinically meaningful change (defined as at least a 3-point decrease from Baseline in Hidradenitis Suppurativa Symptom Daily Diary (HSSDD) weekly worst skin pain score) at week 16 among study p articipants with a score of ≥3 at Baseline. For BE HEARD I: N=46 for placebo, N=103 for BKZ Q4W and N=190 for BKZ Q2W; BE HEARD II: N=49 for placebo, N=108 for BKZ Q4W and N=209 for BKZ Q2W. *p&lt;0.025 versus placebo, adjusted for multiplicity.
 
 <div style=\"page-break-after: always\"></div>
 
 Table 13: Response in BE HEARD I and BE HEARD II at week 16 - supportive analysis a
 
-|                                    | BE HEARD I        | BE HEARD I             | BE HEARD I             | BE HEARD II       | BE HEARD II            | BE HEARD II            |
-|------------------------------------|-------------------|------------------------|------------------------|-------------------|------------------------|------------------------|
-|                                    | Placebo (N=72)    | BKZ 320 mg Q4W (N=144) | BKZ 320 mg Q2W (N=289) | Placebo (N=74)    | BKZ 320 mg Q4W (N=144) | BKZ 320 mg Q2W (N=291) |
-| HiSCR 50, % (95% CI)               | 34.0 (23.0, 45.1) | 53.5 (45.0, 62.0)      | 55.2 (49.2, 61.1)      | 32.3 (21.5, 43.1) | 58.5 (50.2, 66.8)      | 58.7 (53.0, 64.5)      |
-| HiSCR 75, % (95% CI)               | 18.3 (9.3, 27.3)  | 31.4 (23.5, 39.4)      | 38.7 (32.9, 44.5)      | 15.7 (7.2, 24.1)  | 36.4 (28.3, 44.5)      | 39.7 (34.0, 45.5)      |
-| HSSDD worst skin pain response b % | 16.1              | 25.3                   | 36.7                   | 11.1              | 32.9                   | 36.7                   |
-| (95% CI)                           | (4.5, 27.8)       | (16.0, 34.7)           | (29.4, 44.1)           | (1.8, 20.4)       | (23.5, 42.4)           | (29.8, 43.6)           |
+|                                             | BE HEARD I        | BE HEARD I             | BE HEARD I             | BE HEARD II       | BE HEARD II            | BE HEARD II            |
+|---------------------------------------------|-------------------|------------------------|------------------------|-------------------|------------------------|------------------------|
+|                                             | Placebo (N=72)    | BKZ 320 mg Q4W (N=144) | BKZ 320 mg Q2W (N=289) | Placebo (N=74)    | BKZ 320 mg Q4W (N=144) | BKZ 320 mg Q2W (N=291) |
+| HiSCR 50, % (95% CI)                        | 34.0 (23.0, 45.1) | 53.5 (45.0, 62.0)      | 55.2 (49.2, 61.1)      | 32.3 (21.5, 43.1) | 58.5 (50.2, 66.8)      | 58.7 (53.0, 64.5)      |
+| HiSCR 75, % (95% CI)                        | 18.3 (9.3, 27.3)  | 31.4 (23.5, 39.4)      | 38.7 (32.9, 44.5)      | 15.7 (7.2, 24.1)  | 36.4 (28.3, 44.5)      | 39.7 (34.0, 45.5)      |
+| HSSDD worst skin pain response b % (95% CI) | 16.1 (4.5, 27.8)  | 25.3 (16.0, 34.7)      | 36.7 (29.4, 44.1)      | 11.1 (1.8, 20.4)  | 32.9 (23.5, 42.4)      | 36.7 (29.8, 43.6)      |
 
 a)  Post-hoc analysis (modified nonresponder imputation [mNRI]): Patients who take systemic antibiotics as rescue medication for HS as defined by the Investigator or who discontinue due to adverse event or lack of efficacy are treated as nonresponders at all subsequent visits for responder variables (or are subject to multiple imputation for continuous variables). Other missing data were imputed via multiple imputation.
 
-b) Skin pain response, based on the threshold for within-patient clinically meaningful change (defined as at least a 3-point decrease from Baseline in Hidradenitis Suppurativa Symptom Daily Diary (HSSDD) weekly worst skin pain score) at week 16 among study p articipants with a score of ≥3 at Baseline. For BE HEARD I: N=46 for placebo, N=103 for BKZ Q4W and N=190 for BKZ Q2W; BE HEARD II: N=49 for placebo, N=108 for BKZ Q4W and N=209 for BKZ Q2W.
+b)  Skin pain response, based on the threshold for within-patient clinically meaningful change (defined as at least a 3-point decrease from Baseline in Hidradenitis Suppurativa Symptom Daily Diary (HSSDD) weekly worst skin pain score) at week 16 among study p articipants with a score of ≥3 at Baseline. For BE HEARD I: N=46 for placebo, N=103 for BKZ Q4W and N=190 for BKZ Q2W; BE HEARD II: N=49 for placebo, N=108 for BKZ Q4W and N=209 for BKZ Q2W.
 
 In both studies, the onset of action of bimekizumab occurred as early as week 2.
 
@@ -890,7 +853,9 @@ Table 15: Health-related quality of life in BE HEARD I and BE HEARD II at week 1
 |                                  | Placebo (N=72) | BKZ 320 mg Q4W (N=144) | BKZ 320 mg Q2W (N=289) | Placebo (N=74) | BKZ 320 mg Q4W (N=144) | BKZ 320 mg Q2W (N=291) |
 | DLQI total score Mean cfb a (SE) | -2.9 (0.8)     | -5.4 (0.6)             | -5.0 (0.4)             | -3.2 (0.6)     | -4.5 (0.5)             | -4.6 (0.3)             |
 
-DLQI total score ranges from 0 to 30 with higher scores indicating lower HRQoL. Patients who take systemic antibiotics as rescue medication for HS as defined by the Investigator or who discontinue due to adverse event or lack of efficacy are subject to multiple imputation. Other missing data were imputed via multiple imputation.
+DLQI total score ranges from 0 to 30 with higher scores indicating lower HRQoL.
+
+Patients who take systemic antibiotics as rescue medication for HS as defined by the Investigator or who discontinue due to adverse event or lack of efficacy are subject to multiple imputation. Other missing data were imputed via multiple imputation.
 
 a)  cfb: change from baseline
 
@@ -992,7 +957,7 @@ In the absence of compatibility studies, this medicinal product must not be mixe
 
 Bimzelx 160 mg solution for injection in pre-filled syringe
 
-Store in a refrigerator (2 °C - 8 °C).
+Store in a refrigerator (2 °C -8 °C).
 
 Do not freeze.
 
@@ -1002,7 +967,7 @@ The pre-filled syringe may be stored at room temperature (up to 25 °C) for a si
 
 Bimzelx 320 mg solution for injection in pre-filled syringe
 
-Store in a refrigerator (2 °C - 8 °C).
+Store in a refrigerator (2 °C -8 °C).
 
 Do not freeze.
 
@@ -1012,7 +977,7 @@ The pre-filled syringe may be stored at room temperature (up to 25 °C) for a si
 
 Bimzelx 160 mg solution for injection in pre-filled pen
 
-Store in a refrigerator (2 °C - 8 °C).
+Store in a refrigerator (2 °C -8 °C).
 
 Do not freeze.
 
@@ -1022,7 +987,7 @@ The pre-filled pen may be stored at room temperature (up to 25 °C) for a single
 
 Bimzelx 320 mg solution for injection in pre-filled pen
 
-Store in a refrigerator (2 °C - 8 °C).
+Store in a refrigerator (2 °C -8 °C).
 
 Do not freeze.
 
@@ -1114,6 +1079,8 @@ EU/1/21/1575/012
 
 Date of first authorisation: 20 August 2021
 
+Date of last renewal:
+
 ## 10. DATE OF REVISION OF THE TEXT
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
@@ -1139,7 +1106,7 @@ Samsung Biologics Co., Ltd. 300 Songdo bio-daero, Yeonsu-gu Incheon, 21987 Repub
 
 Name and address of the manufacturer(s) responsible for batch release
 
-UCB Pharma S.A. Chemin du Foriest 1420 Braine-l'Alleud Belgium
+UCB Pharma S.A. Chemin du Foriest 1420 Brainel'Alleud Belgium
 
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
@@ -1180,7 +1147,9 @@ An updated RMP should be submitted:
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Bimzelx 160 mg solution for injection in pre-filled syringe bimekizumab
+Bimzelx 160 mg solution for injection in pre-filled syringe
+
+bimekizumab
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -1222,15 +1191,15 @@ EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-Store in a refrigerator. Do not freeze. May be stored at room temperature (up to 25 °C) for a maximum of 25 days. Keep the pre-filled syringe in the outer carton in order to protect from light. Keep the pre-filled syringes in the outer carton in order to protect from light. Date removed from refrigerator:
+Store in a refrigerator. Do not freeze.
+
+May be stored at room temperature (up to 25 °C) for a maximum of 25 days. Keep the pre-filled syringe in the outer carton in order to protect from light. Keep the pre-filled syringes in the outer carton in order to protect from light. Date removed from refrigerator:
 
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-UCB Pharma S.A. (logo)
-
-Allée de la Recherche 60 B-1070 Bruxelles Belgium
+UCB Pharma S.A. (logo) Allée de la Recherche 60 B-1070 Bruxelles Belgium
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1250,14 +1219,14 @@ Lot
 
 bimzelx 160 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
+|-------|-----------------------------------------|
 
 PC SN NN
 
@@ -1269,7 +1238,9 @@ PC SN NN
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Bimzelx 160 mg solution for injection in pre-filled syringe bimekizumab
+Bimzelx 160 mg solution for injection in pre-filled syringe
+
+bimekizumab
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -1347,7 +1318,7 @@ Lot
 
 bimzelx 160 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -1419,9 +1390,7 @@ May be stored at room temperature (up to 25 °C) for a maximum of 25 days. Keep 
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-UCB Pharma S.A. (logo)
-
-Allée de la Recherche 60 B-1070 Bruxelles Belgium
+UCB Pharma S.A. (logo) Allée de la Recherche 60 B-1070 Bruxelles Belgium
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1439,19 +1408,17 @@ Lot
 
 bimzelx 160 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING   |
-|--------------------------------------------------------------|
-| PRE-FILLED SYRINGE LABEL                                     |
+| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
+|------------------------------------------------------------------|
+| PRE-FILLED SYRINGE LABEL                                         |
 
-1.
-
-NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
+## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
 Bimzelx 160 mg injection bimekizumab SC
 
@@ -1477,11 +1444,13 @@ UCB Pharma S.A. (logo)
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-## PRE-FILLED PEN CARTON
+PRE-FILLED PEN CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Bimzelx 160 mg solution for injection in pre-filled pen bimekizumab
+Bimzelx 160 mg solution for injection in pre-filled pen
+
+bimekizumab
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -1537,9 +1506,7 @@ Date removed from refrigerator:
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-UCB Pharma S.A. (logo)
-
-Allée de la Recherche 60 B-1070 Bruxelles Belgium
+UCB Pharma S.A. (logo) Allée de la Recherche 60 B-1070 Bruxelles Belgium
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1557,7 +1524,7 @@ Lot
 
 bimzelx 160 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -1577,7 +1544,9 @@ NN
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Bimzelx 160 mg solution for injection in pre-filled pen bimekizumab
+Bimzelx 160 mg solution for injection in pre-filled pen
+
+bimekizumab
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -1655,7 +1624,7 @@ Lot
 
 bimzelx 160 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -1675,7 +1644,9 @@ NN
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Bimzelx 160 mg solution for injection in pre-filled pen bimekizumab
+Bimzelx 160 mg solution for injection in pre-filled pen
+
+bimekizumab
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -1733,13 +1704,13 @@ Date removed from refrigerator:
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-UCB Pharma S.A. (logo)
-
-Allée de la Recherche 60 B-1070 Bruxelles Belgium
+UCB Pharma S.A. (logo) Allée de la Recherche 60 B-1070 Bruxelles Belgium
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/21/1575/007 3 pre-filled pens (3 packs of 1) EU/1/21/1575/008 4 pre-filled pens (2 packs of 2)
+EU/1/21/1575/007 3 pre-filled pens (3 packs of 1)
+
+EU/1/21/1575/008 4 pre-filled pens (2 packs of 2)
 
 ## 13. BATCH NUMBER
 
@@ -1753,21 +1724,21 @@ Lot
 
 bimzelx 160 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING   |
-|--------------------------------------------------------------|
-| PRE-FILLED PEN LABEL                                         |
+| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
+|------------------------------------------------------------------|
+| PRE-FILLED PEN LABEL                                             |
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
 Bimzelx 160 mg injection bimekizumab SC
 
-## 2. METHOD OF ADMINISTRATION
+2. METHOD OF ADMINISTRATION
 
 ## 3. EXPIRY DATE
 
@@ -1793,7 +1764,9 @@ UCB Pharma S.A. (logo)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Bimzelx 320 mg solution for injection in pre-filled syringe bimekizumab
+Bimzelx 320 mg solution for injection in pre-filled syringe
+
+bimekizumab
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -1841,7 +1814,7 @@ Keep the pre-filled syringe in the outer carton in order to protect from light.
 
 Date removed from refrigerator:
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -1863,7 +1836,7 @@ Lot
 
 bimzelx 320 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -1883,7 +1856,9 @@ NN
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Bimzelx 320 mg solution for injection in pre-filled syringe bimekizumab
+Bimzelx 320 mg solution for injection in pre-filled syringe
+
+bimekizumab
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -1957,7 +1932,7 @@ Lot
 
 bimzelx 320 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -2043,13 +2018,13 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-## 15. INSTRUCTIONS ON USE
+15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
 bimzelx 320 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+17. UNIQUE IDENTIFIER -2D BARCODE
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
@@ -2063,7 +2038,7 @@ Bimzelx 320 mg injection bimekizumab SC
 
 ## 2. METHOD OF ADMINISTRATION
 
-3. EXPIRY DATE
+## 3. EXPIRY DATE
 
 EXP
 
@@ -2081,11 +2056,13 @@ Lot
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-## PRE-FILLED PEN CARTON
+PRE-FILLED PEN CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Bimzelx 320 mg solution for injection in pre-filled pen bimekizumab
+Bimzelx 320 mg solution for injection in pre-filled pen
+
+bimekizumab
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -2133,7 +2110,7 @@ Keep the pre-filled pen in the outer carton in order to protect from light.
 
 Date removed from refrigerator:
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -2149,13 +2126,13 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-## 15. INSTRUCTIONS ON USE
+15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
 bimzelx 320 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -2175,7 +2152,9 @@ NN
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Bimzelx 320 mg solution for injection in pre-filled pen bimekizumab
+Bimzelx 320 mg solution for injection in pre-filled pen
+
+bimekizumab
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -2249,7 +2228,7 @@ Lot
 
 bimzelx 320 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -2281,7 +2260,7 @@ Excipients: glycine, sodium acetate trihydrate, glacial acetic acid, polysorbate
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-## Solution for injection
+Solution for injection
 
 1 pre-filled pen
 
@@ -2341,15 +2320,15 @@ Lot
 
 bimzelx 320 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+17. UNIQUE IDENTIFIER -2D BARCODE
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING   |
-|--------------------------------------------------------------|
-| PRE-FILLED PEN LABEL                                         |
+| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
+|------------------------------------------------------------------|
+| PRE-FILLED PEN LABEL                                             |
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
@@ -2377,15 +2356,11 @@ UCB Pharma S.A. (logo)
 
 ## B. PACKAGE LEAFLET
 
-<div style=\"page-break-after: always\"></div>
-
-<!-- image -->
-
 ## Package leaflet: Information for the user
 
-## Bimzelx 160 mg solution for injection in pre-filled syringe bimekizumab
+<div style=\"page-break-after: always\"></div>
 
-This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
+## Bimzelx 160 mg solution for injection in pre-filled syringe bimekizumab
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
@@ -2401,9 +2376,7 @@ This medicine is subject to additional monitoring. This will allow quick identif
 3. How to use Bimzelx
 4. Possible side effects
 5. How to store Bimzelx
-6. Contents of the pack and other information
-
-Instructions for use
+6. Contents of the pack and other information Instructions for use
 
 ## 1. What Bimzelx is and what it is used for
 
@@ -2430,11 +2403,11 @@ Bimzelx is used to treat adults with psoriatic arthritis. Psoriatic arthritis is
 
 Bimzelx reduces inflammation and can therefore help to reduce pain, stiffness, swelling in and around your joints, psoriatic skin rash, psoriatic nail damage and slow down the damage to the cartilage and bone of the joints involved in the disease. These effects can help you to control signs and symptoms of the disease, ease your normal daily activities, reduce tiredness, and improve your quality of life.
 
+Axial spondyloarthritis, including non-radiographic axial spondyloarthritis and ankylosing spondylitis (radiographic axial spondyloarthritis)
+
 <div style=\"page-break-after: always\"></div>
 
-## Axial spondyloarthritis, including non-radiographic axial spondyloarthritis and ankylosing spondylitis (radiographic axial spondyloarthritis)
-
-Bimzelx is used to treat adults with an inflammatory disease primarily affecting the spine which causes inflammation of the spinal joints, called axial spondyloarthritis. If the condition is not visible using X-rays, it is referred to as 'non-radiographic axial spondyloarthritis'; if it occurs in patients with visible signs on X-rays, it is referred to as 'ankylosing spondylitis' or 'radiographic axial spondyloarthritis'.
+Bimzelx is used to treat adults with an inflammatory disease primarily affecting the spine which causes inflammation of the spinal joints, called axial spondyloarthritis. If the condition is not visible using Xrays, it is referred to as 'non -radiographic axial spondyloarthritis'; if it occurs in patients with visible signs on Xrays, it is referred to as 'ankylosing spondylitis' or 'radiographic axial spondyloarthritis'.
 
 If you have axial spondyloarthritis you will first be given other medicines. If you do not respond well enough to these medicines, you will be given Bimzelx to reduce the signs and symptoms of the disease, reduce inflammation and improve your physical function. Bimzelx can help to reduce back pain, stiffness and tiredness, which can ease your normal daily activities and improve your quality of life.
 
@@ -2466,13 +2439,13 @@ Talk to your doctor, pharmacist or nurse before using Bimzelx if:
 
 ## Inflammatory bowel disease (Crohn's disease or ulcerative colitis)
 
-Stop using Bimzelx and tell your doctor or get medical help immediately if you notice blood in the stool, abdominal cramps, pain, diarrhoea or weight loss. These may be signs of new or worsening inflammatory bowel disease (Crohn's disease or ulcerative colitis).
-
-<div style=\"page-break-after: always\"></div>
+Stop using Bimzelx and tell your doctor or get medical help immediately if you notice blood in the stool, abdominal cramps, pain, diarrhoea or weight loss. These may be signs of new or worsening inflammatory bowel disease (Crohn's disease or ulcerative col itis).
 
 ## Look out for infections and allergic reactions
 
 Bimzelx can rarely cause serious infections. Talk to your doctor or get medical help immediately if you notice any signs of a serious infection. Such signs are listed under 'Serious side effects' in section 4.
+
+<div style=\"page-break-after: always\"></div>
 
 Bimzelx can potentially cause serious allergic reactions. Talk to your doctor or get medical help immediately if you notice any signs of a serious allergic reaction. Such signs may include:
 
@@ -2483,7 +2456,7 @@ Bimzelx can potentially cause serious allergic reactions. Talk to your doctor or
 
 ## Children and adolescents
 
-Do not give this medicine to children and young people under 18 years of age. This is because it has not been studied in this age group.
+Do not give this medicine to children and young people under 18 years of age. This is because it has not yet been adequately studied in this age group.
 
 ## Other medicines and Bimzelx
 
@@ -2503,7 +2476,7 @@ Bimzelx is unlikely to affect your ability to drive and use machines.
 
 ## Bimzelx contains polysorbate 80
 
-This medicinal product contains 0.4 mg of polysorbate 80 in each 1 mL solution. Polysorbates may cause allergic reactions. Tell your doctor if you have any known allergies.
+This medicine contains 0.4 mg of polysorbate 80 in each 1 mL solution. Polysorbates may cause allergic reactions. Tell your doctor if you have any known allergies.
 
 ## Bimzelx contains sodium
 
@@ -2635,7 +2608,7 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 ## What Bimzelx contains
 
 - The active substance is bimekizumab. Each pre-filled syringe contains 160 mg of bimekizumab in the 1 mL solution.
-- The other ingredients are glycine, sodium acetate trihydrate, glacial acetic acid, polysorbate 80 and water for injections.
+- The other ingredients are glycine, sodium acetate trihydrate, glacial acetic acid, polysorbate 80 and water for injections (see section 2 'Bimzelx contains polysorbate 80' and 'Bimzelx contains sodium') .
 
 ## What Bimzelx looks like and contents of the pack
 
@@ -2649,9 +2622,7 @@ UCB Pharma S.A. Allée de la Recherche 60 B-1070 Bruxelles, Belgium
 
 ## Manufacturer
 
-UCB Pharma S.A. Chemin du Foriest
-
-B-1420 Braine-l'Alleud, Belgium
+UCB Pharma S.A. Chemin du Foriest B-1420 Brainel'Alleud, Belgium
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
@@ -2663,9 +2634,7 @@ Tél/Tel: + 32 / (0)2 559 92 00
 
 ## Lietuva
 
-UCB Pharma Oy Finland
-
-Tel: + 358 9 2514 4221 (Suomija)
+Medis Pharma Lithuania UAB Tel: +370 68 735 006
 
 ## България
 
@@ -2717,9 +2686,9 @@ Tel: + 31 / (0)76-573 11 40
 
 ## Eesti
 
-UCB Pharma Oy Finland
+Medis Pharma Lithuania UAB
 
-Tel: + 358 9 2514 4221 (Soome)
+Tel: +370 68 735 006
 
 ## Norge
 
@@ -2731,13 +2700,13 @@ Tlf: + 47 / 67 16 5880
 
 UCB Α.Ε.
 
-Τηλ: + 30 / 2109974000
-
 ## Österreich
 
 UCB Pharma GmbH
 
-Tel: + 43-(0)1 291 80 00
+Τηλ: + 30 / 2109974000
+
+<div style=\"page-break-after: always\"></div>
 
 ## España
 
@@ -2745,23 +2714,11 @@ UCB Pharma, S.A.
 
 Tel: + 34 / 91 570 34 44
 
-## Polska
-
-UCB Pharma Sp. z o.o. / VEDIM Sp. z o.o.
-
-Tel.: + 48 22 696 99 20
-
 ## France
 
-UCB Pharma S.A.
+UCB Pharma
 
 Tél: + 33 / (0)1 47 29 44 35
-
-## Portugal
-
-UCB Pharma (Produtos Farmacêuticos), Lda
-
-Tel: + 351 21 302 5300
 
 ## Hrvatska
 
@@ -2775,6 +2732,50 @@ UCB (Pharma) Ireland Ltd.
 
 Tel: + 353 / (0)1-46 37 395
 
+## Ísland
+
+UCB Nordic A/S
+
+Sími: + 45 / 32 46 24 00
+
+## Italia
+
+UCB Pharma S.p.A.
+
+Tel: + 39 / 02 300 791
+
+## Κύπρος
+
+Lifepharma (Z.A.M.) Ltd
+
+Τηλ:
+
++ 357 22 056300
+
+## Latvija
+
+Medis Pharma Lithuania UAB
+
+Tel: +370 68 735 006
+
+## This leaflet was last revised in .
+
+## Other sources of information
+
+Detailed information on this medicine is available on the European Medicines Agency website: https://www.ema.europa.eu
+
+Tel: + 43-(0)1 291 80 00
+
+## Polska
+
+UCB Pharma Sp. z o.o. / VEDIM Sp. z o.o.
+
+Tel.: + 48 22 696 99 20
+
+## Portugal
+
+UCB Pharma (Produtos Farmacêuticos), Lda Tel: + 351 21 302 5300
+
 ## România
 
 UCB Pharma Romania S.R.L.
@@ -2787,23 +2788,11 @@ Medis, d.o.o.
 
 Tel: + 386 1 589 69 00
 
-## Ísland
-
-UCB Nordic A/S
-
-Sími: + 45 / 32 46 24 00
-
 ## Slovenská republika
 
 UCB s.r.o., organizačná zložka
 
 Tel: + 421 (0) 2 5920 2020
-
-## Italia
-
-UCB Pharma S.p.A.
-
-Tel: + 39 / 02 300 791
 
 ## Suomi/Finland
 
@@ -2811,39 +2800,19 @@ UCB Pharma Oy Finland
 
 Puh/Tel: + 358 9 2514 4221
 
-## Κύπρος
-
-Lifepharma (Z.A.M.) Ltd
-
-Τηλ: + 357 22 056300
-
 ## Sverige
 
 UCB Nordic A/S
 
 Tel: + 46 / (0) 40 294 900
 
-## Latvija
-
-UCB Pharma Oy Finland
-
-Tel: + 358 9 2514 4221 (Somija)
-
 <div style=\"page-break-after: always\"></div>
-
-## This leaflet was last revised in .
-
-## Other sources of information
-
-Detailed information on this medicine is available on the European Medicines Agency website: https://www.ema.europa.eu
 
 ## Instructions for use
 
-## Read all the instructions below before you use Bimzelx 160 mg solution for injection in pre-filled syringe.
+Read all the instructions below before you use Bimzelx 160 mg solution for injection in pre-filled syringe.
 
 Bimzelx 160 mg pre-filled syringe at a glance ( see Figure A ):
-
-<div style=\"page-break-after: always\"></div>
 
 <!-- image -->
 
@@ -2873,17 +2842,17 @@ Follow the steps below each time you use Bimzelx.
 
 ## Step 1: Setting up for your injection(s)
 
-Depending on your prescribed dose, place the following items on a clean flat, well-lit work surface, like a table:
+<div style=\"page-break-after: always\"></div>
+
+## Depending on your prescribed dose, place the following items on a clean flat, well-lit work surface, like a table:
 
 - 1 or 2 Bimzelx 160 mg pre-filled syringe(s)
 
 You will also need (not included in the carton):
 
-<div style=\"page-break-after: always\"></div>
-
 - 1 or 2 alcohol wipe(s)
 - 1 or 2 clean cotton ball(s)
-- 1 sharps disposal container. See 'Throw away the used Bimzelx pre-filled syringe' at the end of these Instructions for Use.
+- 1 sharps disposal container. See ' Throw away the used Bimzelx prefilled syringe' at the end of these Instructions for Use.
 
 ## Step 2: Choose injection site and prepare your injection
 
@@ -2896,11 +2865,11 @@ You will also need (not included in the carton):
 - Do not inject within 5 cm of the belly-button (navel).
 - If a second injection is needed for your prescribed dose (320 mg), you should use a different place for your second injection. Do not use the same place to inject twice in a row.
 
-Abdomen or thigh
+Back of arm
 
 <!-- image -->
 
-Back of arm
+Abdomen or thigh
 
 <!-- image -->
 
@@ -2916,9 +2885,9 @@ Back of arm
 - Check the medicine through the viewing window. The medicine should be clear to slightly opalescent and free of particles. Its colour may vary from colourless to pale brownish-yellow. You may see air bubbles in the liquid. This is normal.
 - Do not use the Bimzelx pre-filled syringe if the medicine is cloudy, discoloured, or has particles.
 
-<!-- image -->
-
 <div style=\"page-break-after: always\"></div>
+
+<!-- image -->
 
 ## Step 3: Inject Bimzelx
 
@@ -2935,19 +2904,19 @@ Back of arm
 
 - Push the needle all the way in. Then gently let go of your skin. Make sure the needle is in place ( see Figure F ).
 
-<!-- image -->
-
-## 3c: Firmly push the plunger head all the way down until all the medicine is injected (see Figure G)
+3c: Firmly push the plunger head all the way down until all the medicine is injected (see Figure G)
 
 <!-- image -->
-
-- All the medicine is injected when you cannot push the plunger head any further ( see Figure H ).
 
 <div style=\"page-break-after: always\"></div>
 
 <!-- image -->
 
-## 3d: Lift your thumb off the plunger head (see Figure I). The needle will automatically move back in and lock in place
+- All the medicine is injected when you cannot push the plunger head any further ( see Figure H ).
+
+<!-- image -->
+
+3d: Lift your thumb off the plunger head (see Figure I). The needle will automatically move back in and lock in place
 
 <!-- image -->
 
@@ -2963,15 +2932,11 @@ If you need to have a second injection as prescribed by your doctor, use a new B
 
 Make sure to select a new injection site for your second injection.
 
-<div style=\"page-break-after: always\"></div>
-
-<!-- image -->
-
 ## Package leaflet: Information for the user
 
-## Bimzelx 160 mg solution for injection in pre-filled pen bimekizumab
+<div style=\"page-break-after: always\"></div>
 
-This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
+## Bimzelx 160 mg solution for injection in pre-filled pen bimekizumab
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
@@ -2987,9 +2952,7 @@ This medicine is subject to additional monitoring. This will allow quick identif
 3. How to use Bimzelx
 4. Possible side effects
 5. How to store Bimzelx
-6. Contents of the pack and other information
-
-Instructions for use
+6. Contents of the pack and other information Instructions for use
 
 ## 1. What Bimzelx is and what it is used for
 
@@ -3016,11 +2979,11 @@ Bimzelx is used to treat adults with psoriatic arthritis. Psoriatic arthritis is
 
 Bimzelx reduces inflammation and can therefore help to reduce pain, stiffness, swelling in and around your joints, psoriatic skin rash, psoriatic nail damage and slow down the damage to the cartilage and bone of the joints involved in the disease. These effects can help you to control signs and symptoms of the disease, ease your normal daily activities, reduce tiredness, and improve your quality of life.
 
+Axial spondyloarthritis, including non-radiographic axial spondyloarthritis and ankylosing spondylitis (radiographic axial spondyloarthritis)
+
 <div style=\"page-break-after: always\"></div>
 
-## Axial spondyloarthritis, including non-radiographic axial spondyloarthritis and ankylosing spondylitis (radiographic axial spondyloarthritis)
-
-Bimzelx is used to treat adults with an inflammatory disease primarily affecting the spine which causes inflammation of the spinal joints, called axial spondyloarthritis. If the condition is not visible using X-rays, it is referred to as 'non-radiographic axial spondyloarthritis'; if it occurs in patients with visible signs on X-rays, it is referred to as 'ankylosing spondylitis' or 'radiographic axial spondyloarthritis'.
+Bimzelx is used to treat adults with an inflammatory disease primarily affecting the spine which causes inflammation of the spinal joints, called axial spondyloarthritis. If the condition is not visible using Xrays, it is referred to as 'non -radiographic axial spondyloarthritis'; if it occurs in patients with visible signs on Xrays, it is referred to as 'ankylosing spondylitis' or 'radiographic axial spondyloarthritis'.
 
 If you have axial spondyloarthritis you will first be given other medicines. If you do not respond well enough to these medicines, you will be given Bimzelx to reduce the signs and symptoms of the disease, reduce inflammation and improve your physical function. Bimzelx can help to reduce back pain, stiffness and tiredness, which can ease your normal daily activities and improve your quality of life.
 
@@ -3054,11 +3017,11 @@ Talk to your doctor, pharmacist or nurse before using Bimzelx if:
 
 Stop using Bimzelx and tell your doctor or get medical help immediately if you notice blood in the stool, abdominal cramps, pain, diarrhoea or weight loss. These may be signs of new or worsening inflammatory bowel disease (Crohn's disease or ulcerative colitis).
 
-<div style=\"page-break-after: always\"></div>
-
 ## Look out for infections and allergic reactions
 
 Bimzelx can rarely cause serious infections. Talk to your doctor or get medical help immediately if you notice any signs of a serious infection. Such signs are listed under 'Serious side effects' in section 4.
+
+<div style=\"page-break-after: always\"></div>
 
 Bimzelx can potentially cause serious allergic reactions. Talk to your doctor or get medical help immediately if you notice any signs of a serious allergic reaction. Such signs may include:
 
@@ -3069,7 +3032,7 @@ Bimzelx can potentially cause serious allergic reactions. Talk to your doctor or
 
 ## Children and adolescents
 
-Do not give this medicine to children and young people under 18 years of age. This is because it has not been studied in this age group.
+Do not give this medicine to children and young people under 18 years of age. This is because it has not yet been adequately studied in this age group.
 
 ## Other medicines and Bimzelx
 
@@ -3089,7 +3052,7 @@ Bimzelx is unlikely to affect your ability to drive and use machines.
 
 ## Bimzelx contains polysorbate 80
 
-This medicinal product contains 0.4 mg of polysorbate 80 in each 1 mL solution. Polysorbates may cause allergic reactions. Tell your doctor if you have any known allergies.
+This medicine contains 0.4 mg of polysorbate 80 in each 1 mL solution. Polysorbates may cause allergic reactions. Tell your doctor if you have any known allergies.
 
 ## Bimzelx contains sodium
 
@@ -3221,7 +3184,7 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 ## What Bimzelx contains
 
 - The active substance is bimekizumab. Each pre-filled pen contains 160 mg of bimekizumab in the 1 mL solution.
-- The other ingredients are glycine, sodium acetate trihydrate, glacial acetic acid, polysorbate 80 and water for injections.
+- The other ingredients are glycine, sodium acetate trihydrate, glacial acetic acid, polysorbate 80 and water for injections (see section 2 'Bimzelx contains polysorbate 80' and 'Bimzelx contains sodium').
 
 ## What Bimzelx looks like and contents of the pack
 
@@ -3235,9 +3198,7 @@ UCB Pharma S.A. Allée de la Recherche 60 B-1070 Bruxelles, Belgium
 
 ## Manufacturer
 
-UCB Pharma S.A. Chemin du Foriest
-
-B-1420 Braine-l'Alleud, Belgium
+UCB Pharma S.A. Chemin du Foriest B-1420 Brainel'Alleud, Belgium
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
@@ -3249,9 +3210,9 @@ Tél/Tel: + 32 / (0)2 559 92 00
 
 ## Lietuva
 
-UCB Pharma Oy Finland
+Medis Pharma Lithuania UAB
 
-Tel: + 358 9 2514 4221 (Suomija)
+Tel: +370 68 735 006
 
 ## България
 
@@ -3305,9 +3266,9 @@ Tel: + 31 / (0)76-573 11 40
 
 ## Eesti
 
-UCB Pharma Oy Finland
+Medis Pharma Lithuania UAB
 
-Tel: + 358 9 2514 4221 (Soome)
+Tel: +370 68 735 006
 
 ## Norge
 
@@ -3317,15 +3278,13 @@ Tlf: + 47 / 67 16 5880
 
 ## Ελλάδα
 
-UCB Α.Ε.
-
 ## Österreich
 
-UCB Pharma GmbH
+<div style=\"page-break-after: always\"></div>
+
+## UCB Α.Ε.
 
 Τηλ: + 30 / 2109974000
-
-<div style=\"page-break-after: always\"></div>
 
 ## España
 
@@ -3335,7 +3294,7 @@ Tel: + 34 / 91 570 34 44
 
 ## France
 
-UCB Pharma S.A.
+UCB Pharma
 
 Tél: + 33 / (0)1 47 29 44 35
 
@@ -3367,15 +3326,13 @@ Tel: + 39 / 02 300 791
 
 Lifepharma (Z.A.M.) Ltd
 
-Τηλ:
-
-+ 357 22 056300
+Τηλ: + 357 22 056300
 
 ## Latvija
 
-UCB Pharma Oy Finland
+Medis Pharma Lithuania UAB
 
-Tel: + 358 9 2514 4221 (Somija)
+Tel: +370 68 735 006
 
 ## This leaflet was last revised in .
 
@@ -3383,11 +3340,7 @@ Tel: + 358 9 2514 4221 (Somija)
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu
 
-## Instructions for use
-
-Read all the instructions below before you use Bimzelx 160 mg solution for injection in pre-filled pen.
-
-Bimzelx 160 mg pre-filled pen at a glance ( see Figure A ):
+UCB Pharma GmbH
 
 Tel: + 43-(0)1 291 80 00
 
@@ -3433,6 +3386,12 @@ Tel: + 46 / (0) 40 294 900
 
 <div style=\"page-break-after: always\"></div>
 
+## Instructions for use
+
+Read all the instructions below before you use Bimzelx 160 mg solution for injection in pre-filled pen.
+
+Bimzelx 160 mg pre-filled pen at a glance ( see Figure A ):
+
 <!-- image -->
 
 ## Important information:
@@ -3460,7 +3419,9 @@ Follow the steps below each time you use Bimzelx.
 
 ## Step 1: Setting up for your injection(s)
 
-## Depending on your prescribed dose, place the following items on a clean flat, well-lit work surface, like a table:
+Depending on your prescribed dose, place the following items on a clean flat, well-lit work surface, like a table:
+
+<div style=\"page-break-after: always\"></div>
 
 - 1 or 2 Bimzelx 160 mg pre-filled pen(s)
 
@@ -3468,10 +3429,7 @@ You will also need (not included in the carton):
 
 - 1 or 2 alcohol wipe(s)
 - 1 or 2 clean cotton ball(s)
-
-<div style=\"page-break-after: always\"></div>
-
-- 1 sharps disposal container. See 'Throw away the used Bimzelx pre-filled pen' at the end of these Instructions for Use.
+- 1 sharps disposal container. See ' Throw away the used Bimzelx prefilled pen' at the end of these Instructions for Use.
 
 ## Step 2: Choose injection site and prepare your injection
 
@@ -3483,6 +3441,12 @@ You will also need (not included in the carton):
 - Do not inject into areas where the skin is tender, bruised, red, scaly, hard or areas with scars or stretch marks.
 - Do not inject within 5 cm of the belly-button (navel).
 - If a second injection is needed for your prescribed dose (320 mg), you should use a different place for your second injection. Do not use the same place to inject twice in a row.
+
+Abdomen or thigh
+
+<!-- image -->
+
+Back of arm
 
 <!-- image -->
 
@@ -3498,9 +3462,9 @@ You will also need (not included in the carton):
 - Check the medicine through the viewing window. The medicine should be clear to slightly opalescent and free of particles. Its colour may vary from colourless to pale brownish-yellow. You may see air bubbles in the liquid. This is normal.
 - Do not use the Bimzelx pre-filled pen if the medicine is cloudy, discoloured, or has particles.
 
-<!-- image -->
-
 <div style=\"page-break-after: always\"></div>
+
+<!-- image -->
 
 ## Step 3: Inject Bimzelx
 
@@ -3544,15 +3508,11 @@ If you need to have a second injection as prescribed by your doctor, use a new B
 
 Make sure to select a new injection site for your second injection.
 
-<div style=\"page-break-after: always\"></div>
-
-<!-- image -->
-
 ## Package leaflet: Information for the user
 
-## Bimzelx 320 mg solution for injection in pre-filled syringe bimekizumab
+<div style=\"page-break-after: always\"></div>
 
-This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
+## Bimzelx 320 mg solution for injection in pre-filled syringe bimekizumab
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
@@ -3568,9 +3528,7 @@ This medicine is subject to additional monitoring. This will allow quick identif
 3. How to use Bimzelx
 4. Possible side effects
 5. How to store Bimzelx
-6. Contents of the pack and other information
-
-Instructions for use
+6. Contents of the pack and other information Instructions for use
 
 ## 1. What Bimzelx is and what it is used for
 
@@ -3597,11 +3555,11 @@ Bimzelx is used to treat adults with psoriatic arthritis. Psoriatic arthritis is
 
 Bimzelx reduces inflammation and can therefore help to reduce pain, stiffness, swelling in and around your joints, psoriatic skin rash, psoriatic nail damage and slow down the damage to the cartilage and bone of the joints involved in the disease. These effects can help you to control signs and symptoms of the disease, ease your normal daily activities, reduce tiredness, and improve your quality of life.
 
+Axial spondyloarthritis, including non-radiographic axial spondyloarthritis and ankylosing spondylitis (radiographic axial spondyloarthritis)
+
 <div style=\"page-break-after: always\"></div>
 
-## Axial spondyloarthritis, including non-radiographic axial spondyloarthritis and ankylosing spondylitis (radiographic axial spondyloarthritis)
-
-Bimzelx is used to treat adults with an inflammatory disease primarily affecting the spine which causes inflammation of the spinal joints, called axial spondyloarthritis. If the condition is not visible using X-rays, it is referred to as 'non-radiographic axial spondyloarthritis'; if it occurs in patients with visible signs on X-rays, it is referred to as 'ankylosing spondylitis' or 'radiographic axial spondyloarthritis'.
+Bimzelx is used to treat adults with an inflammatory disease primarily affecting the spine which causes inflammation of the spinal joints, called axial spondyloarthritis. If the condition is not visible using Xrays, it is referred to as 'non -radiographic axial spondyloarthritis'; if it occurs in patients with visible signs on Xrays, it is referred to as 'ankylosing spondylitis' or 'radiographic axial spondyloarthritis'.
 
 If you have axial spondyloarthritis you will first be given other medicines. If you do not respond well enough to these medicines, you will be given Bimzelx to reduce the signs and symptoms of the disease, reduce inflammation and improve your physical function. Bimzelx can help to reduce back pain, stiffness and tiredness, which can ease your normal daily activities and improve your quality of life.
 
@@ -3633,15 +3591,15 @@ Talk to your doctor, pharmacist or nurse before using Bimzelx if:
 
 ## Inflammatory bowel disease (Crohn's disease or ulcerative colitis)
 
-Stop using Bimzelx and tell your doctor or get medical help immediately if you notice blood in the stool, abdominal cramps, pain, diarrhoea or weight loss. These may be signs of new or worsening inflammatory bowel disease (Crohn's disease or ulcerative colitis).
+Stop using Bimzelx and tell your doctor or get medical help immediately if you notice blood in the stool, abdominal cramps, pain, diarrhoea or weight loss. These may be signs of new or worsening inflammatory bowel disease (Crohn's disease or ulcerative col itis).
 
 ## Look out for infections and allergic reactions
 
 Bimzelx can rarely cause serious infections. Talk to your doctor or get medical help immediately if you notice any signs of a serious infection. Such signs are listed under 'Serious side effects' in section 4.
 
-<div style=\"page-break-after: always\"></div>
-
 Bimzelx can potentially cause serious allergic reactions. Talk to your doctor or get medical help immediately if you notice any signs of a serious allergic reaction. Such signs may include:
+
+<div style=\"page-break-after: always\"></div>
 
 - difficulty breathing or swallowing
 - low blood pressure, which can make you dizzy or light-headed
@@ -3650,7 +3608,7 @@ Bimzelx can potentially cause serious allergic reactions. Talk to your doctor or
 
 ## Children and adolescents
 
-Do not give this medicine to children and young people under 18 years of age. This is because it has not been studied in this age group.
+Do not give this medicine to children and young people under 18 years of age. This is because it has not yet been adequately studied in this age group.
 
 ## Other medicines and Bimzelx
 
@@ -3670,7 +3628,7 @@ Bimzelx is unlikely to affect your ability to drive and use machines.
 
 ## Bimzelx contains polysorbate 80
 
-This medicinal product contains 0.4 mg of polysorbate 80 in each 1 mL solution. Polysorbates may cause allergic reactions. Tell your doctor if you have any known allergies.
+This medicine contains 0.4 mg of polysorbate 80 in each 1 mL solution. Polysorbates may cause allergic reactions. Tell your doctor if you have any known allergies.
 
 ## Bimzelx contains sodium
 
@@ -3694,12 +3652,11 @@ The recommended dose, given as an injection under your skin ('subcutaneous injec
 The recommended dose, given as an injection under your skin ('subcutaneous injection') is as follows:
 
 - 160 mg every 4 weeks.
+- If you have psoriatic arthritis with coexistent moderate to severe plaque psoriasis, the recommended dose regimen is the same as for plaque psoriasis. After week 16, your doctor may adapt your injections to 160 mg every 4 weeks, depending on your joint symptoms. Other pharmaceutical forms /strengths are available for administration of the 160 mg dose.
 
 <div style=\"page-break-after: always\"></div>
 
-- If you have psoriatic arthritis with coexistent moderate to severe plaque psoriasis, the recommended dose regimen is the same as for plaque psoriasis. After week 16, your doctor may adapt your injections to 160 mg every 4 weeks, depending on your joint symptoms. Other pharmaceutical forms /strengths are available for administration of the 160 mg dose.
-
-## Axial spondyloarthritis, including non-radiographic axial spondyloarthritis and ankylosing spondylitis (radiographic axial spondyloarthritis)
+Axial spondyloarthritis, including non-radiographic axial spondyloarthritis and ankylosing spondylitis (radiographic axial spondyloarthritis)
 
 The recommended dose, given as an injection under your skin ('subcutaneous injection') is as follows:
 
@@ -3804,7 +3761,7 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 <div style=\"page-break-after: always\"></div>
 
-- The other ingredients are glycine, sodium acetate trihydrate, glacial acetic acid, polysorbate 80 and water for injections.
+- The other ingredients are glycine, sodium acetate trihydrate, glacial acetic acid, polysorbate 80 and water for injections (see section 2 'Bimzelx contains polysorbate 80' and 'Bimzelx contains sodium').
 
 ## What Bimzelx looks like and contents of the pack
 
@@ -3820,23 +3777,33 @@ UCB Pharma S.A. Allée de la Recherche 60 B-1070 Bruxelles, Belgium
 
 UCB Pharma S.A. Chemin du Foriest
 
-B-1420 Braine-l'Alleud, Belgium
+B-1420 Brainel'Alleud, Belgium
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 ## België/Belgique/Belgien
 
-UCB Pharma S.A./NV
+UCB Pharma S.A./NV Tél/Tel: + 32 / (0)2 559 92 00
 
-Tél/Tel: + 32 / (0)2 559 92 00
+## Lietuva
+
+Medis Pharma Lithuania UAB
+
+Tel: +370 68 735 006
 
 ## България
 
 Ю СИ БИ България ЕООД
 
-Te
+Te л.: +
 
-л.: + 359 (0) 2 962 30 49
+359 (0) 2 962 30 49
+
+## Luxembourg/Luxemburg
+
+UCB Pharma S.A./NV
+
+Tél/Tel: + 32 / (0)2 559 92 00 (Belgique/Belgien)
 
 ## Č eská republika
 
@@ -3844,49 +3811,17 @@ UCB s.r.o.
 
 Tel: + 420 221 773 411
 
+## Magyarország
+
+UCB Magyarország Kft.
+
+Tel.: + 36-(1) 391 0060
+
 ## Danmark
 
 UCB Nordic A/S
 
 Tlf.: + 45 / 32 462 400
-
-## Deutschland
-
-UCB Pharma GmbH
-
-Tel: + 49 /(0) 2173 48 4848
-
-## Eesti
-
-UCB Pharma Oy Finland
-
-Tel: + 358 9 2514 4221 (Soome)
-
-## Ελλάδα
-
-UCB Α.Ε.
-
-Τηλ: + 30 / 2109974000
-
-## España
-
-UCB Pharma, S.A.
-
-Tel: + 34 / 91 570 34 44
-
-## France
-
-## Lietuva
-
-UCB Pharma Oy Finland Tel: + 358 9 2514 4221 (Suomija)
-
-## Luxembourg/Luxemburg
-
-UCB Pharma S.A./NV Tél/Tel: + 32 / (0)2 559 92 00 (Belgique/Belgien)
-
-## Magyarország
-
-UCB Magyarország Kft. Tel.: + 36-(1) 391 0060
 
 ## Malta
 
@@ -3894,11 +3829,23 @@ Pharmasud Ltd.
 
 Tel: + 356 / 21 37 64 36
 
+## Deutschland
+
+UCB Pharma GmbH
+
+Tel: + 49 /(0) 2173 48 4848
+
 ## Nederland
 
 UCB Pharma B.V.
 
 Tel: + 31 / (0)76-573 11 40
+
+## Eesti
+
+Medis Pharma Lithuania UAB
+
+Tel: +370 68 735 006
 
 ## Norge
 
@@ -3906,25 +3853,39 @@ UCB Nordic A/S
 
 Tlf: + 47 / 67 16 5880
 
+## Ελλάδα
+
+UCB Α.Ε.
+
+Τηλ:
+
++ 30 / 2109974000
+
 ## Österreich
 
 UCB Pharma GmbH
 
 Tel: + 43-(0)1 291 80 00
 
+## España
+
+UCB Pharma, S.A.
+
+Tel: + 34 / 91 570 34 44
+
 ## Polska
 
-UCB Pharma Sp. z o.o. / VEDIM Sp. z o.o. Tel.: + 48 22 696 99 20
+UCB Pharma Sp. z o.o. / VEDIM Sp. z o.o.
 
-## Portugal
+Tel.: + 48 22 696 99 20
 
-UCB Pharma S.A.
+<div style=\"page-break-after: always\"></div>
+
+## France
+
+UCB Pharma
 
 Tél: + 33 / (0)1 47 29 44 35
-
-UCB Pharma (Produtos Farmacêuticos), Lda
-
-Tel: + 351 21 302 5300
 
 ## Hrvatska
 
@@ -3938,6 +3899,40 @@ UCB (Pharma) Ireland Ltd.
 
 Tel: + 353 / (0)1-46 37 395
 
+## Ísland
+
+UCB Nordic A/S
+
+Sími: + 45 / 32 46 24 00
+
+## Italia
+
+UCB Pharma S.p.A.
+
+Tel: + 39 / 02 300 791
+
+## Κύπρος
+
+Lifepharma (Z.A.M.) Ltd
+
+Τηλ: + 357 22 056300
+
+## Latvija
+
+Medis Pharma Lithuania UAB
+
+Tel: +370 68 735 006
+
+## This leaflet was last revised in .
+
+## Other sources of information
+
+Detailed information on this medicine is available on the European Medicines Agency website: https://www.ema.europa.eu
+
+## Portugal
+
+UCB Pharma (Produtos Farmacêuticos), Lda Tel: + 351 21 302 5300
+
 ## România
 
 UCB Pharma Romania S.R.L.
@@ -3950,23 +3945,11 @@ Medis, d.o.o.
 
 Tel: + 386 1 589 69 00
 
-## Ísland
-
-UCB Nordic A/S
-
-Sími: + 45 / 32 46 24 00
-
 ## Slovenská republika
 
 UCB s.r.o., organizačná zložka
 
 Tel: + 421 (0) 2 5920 2020
-
-## Italia
-
-UCB Pharma S.p.A.
-
-Tel: + 39 / 02 300 791
 
 ## Suomi/Finland
 
@@ -3974,39 +3957,19 @@ UCB Pharma Oy Finland
 
 Puh/Tel: + 358 9 2514 4221
 
-## Κύπρος
-
-Lifepharma (Z.A.M.) Ltd
-
-Τηλ: + 357 22 056300
-
 ## Sverige
 
 UCB Nordic A/S
 
 Tel: + 46 / (0) 40 294 900
 
-## Latvija
-
-UCB Pharma Oy Finland
-
-Tel: + 358 9 2514 4221 (Somija)
-
 <div style=\"page-break-after: always\"></div>
-
-## This leaflet was last revised in .
-
-## Other sources of information
-
-Detailed information on this medicine is available on the European Medicines Agency website: https://www.ema.europa.eu
 
 ## Instructions for use
 
 Read all the instructions below before you use Bimzelx 320 mg solution for injection in pre-filled syringe.
 
 Bimzelx 320 mg pre-filled syringe at a glance ( see Figure A ):
-
-<div style=\"page-break-after: always\"></div>
 
 <!-- image -->
 
@@ -4035,7 +3998,9 @@ Follow the steps below each time you use Bimzelx.
 
 ## Step 1: Setting up for your injection
 
-## Place the following items on a clean flat, well-lit work surface, like a table:
+Place the following items on a clean flat, well-lit work surface, like a table:
+
+<div style=\"page-break-after: always\"></div>
 
 - 1 Bimzelx 320 mg pre-filled syringe
 
@@ -4043,9 +4008,7 @@ You will also need (not included in the carton):
 
 - 1 alcohol wipe
 - 1clean cotton ball
-- 1 sharps disposal container. See 'Throw away the used Bimzelx pre-filled syringe' at the end of these Instructions for Use.
-
-<div style=\"page-break-after: always\"></div>
+- 1 sharps disposal container. See ' Throw away the used Bimzelx prefilled syringe' at the end of these Instructions for Use.
 
 ## Step 2: Choose injection site and prepare your injection
 
@@ -4072,13 +4035,13 @@ You will also need (not included in the carton):
 - Check the medicine through the viewing window. The medicine should be clear to slightly opalescent and free of particles. Its colour may vary from colourless to pale brownish-yellow. You may see air bubbles in the liquid. This is normal.
 - Do not use the Bimzelx pre-filled syringe if the medicine is cloudy, discoloured, or has particles.
 
+<div style=\"page-break-after: always\"></div>
+
+Step 3: Inject Bimzelx
+
 <!-- image -->
 
-## Step 3: Inject Bimzelx
-
 ## 3a: Remove the pre-filled syringe needle cap
-
-<div style=\"page-break-after: always\"></div>
 
 - Hold the pre-filled syringe around the finger grip with one hand. Pull the cap straight off the pre-filled syringe with the other hand ( see Figure E ). You may see a drop of liquid on the tip of the needle, this is normal.
 - o Do not touch the needle or let the needle touch any surface.
@@ -4091,19 +4054,19 @@ You will also need (not included in the carton):
 
 - Push the needle all the way in. Then gently let go of your skin. Make sure the needle is in place ( see Figure F ).
 
-<!-- image -->
-
 3c: Firmly push the plunger head all the way down until all the medicine is injected (see Figure G)
 
 <!-- image -->
-
-- All the medicine is injected when you cannot push the plunger head any further ( see Figure H ).
 
 <div style=\"page-break-after: always\"></div>
 
 <!-- image -->
 
-3d: Lift your thumb off the plunger head (see Figure I). The needle will automatically move back in and lock in place
+- All the medicine is injected when you cannot push the plunger head any further ( see Figure H ).
+
+<!-- image -->
+
+## 3d: Lift your thumb off the plunger head (see Figure I). The needle will automatically move back in and lock in place
 
 <!-- image -->
 
@@ -4115,15 +4078,13 @@ Put the used pre-filled syringe in a sharps disposal container straight away aft
 
 <!-- image -->
 
-<div style=\"page-break-after: always\"></div>
-
-<!-- image -->
-
 ## Package leaflet: Information for the user
 
-## Bimzelx 320 mg solution for injection in pre-filled pen bimekizumab
+<div style=\"page-break-after: always\"></div>
 
-This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
+## Bimzelx 320 mg solution for injection in pre-filled pen
+
+## bimekizumab
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
@@ -4166,11 +4127,11 @@ Bimzelx is used to treat adults with psoriatic arthritis. Psoriatic arthritis is
 
 Bimzelx reduces inflammation and can therefore help to reduce pain, stiffness, swelling in and around your joints, psoriatic skin rash, psoriatic nail damage and slow down the damage to the cartilage and bone of the joints involved in the disease. These effects can help you to control signs and symptoms of the disease, ease your normal daily activities, reduce tiredness, and improve your quality of life.
 
+Axial spondyloarthritis, including non-radiographic axial spondyloarthritis and ankylosing spondylitis (radiographic axial spondyloarthritis)
+
 <div style=\"page-break-after: always\"></div>
 
-## Axial spondyloarthritis, including non-radiographic axial spondyloarthritis and ankylosing spondylitis (radiographic axial spondyloarthritis)
-
-Bimzelx is used to treat adults with an inflammatory disease primarily affecting the spine which causes inflammation of the spinal joints, called axial spondyloarthritis. If the condition is not visible using X-rays, it is referred to as 'non-radiographic axial spondyloarthritis'; if it occurs in patients with visible signs on X-rays, it is referred to as 'ankylosing spondylitis' or 'radiographic axial spondyloarthritis'.
+Bimzelx is used to treat adults with an inflammatory disease primarily affecting the spine which causes inflammation of the spinal joints, called axial spondyloarthritis. If the condition is not visible using Xrays, it is referred to as 'non -radiographic axial spondyloarthritis'; if it occurs in patients with visible signs on Xrays, it is referred to as 'ankylosing spondylitis' or 'radiographic axial spondyloarthritis'.
 
 If you have axial spondyloarthritis you will first be given other medicines. If you do not respond well enough to these medicines, you will be given Bimzelx to reduce the signs and symptoms of the disease, reduce inflammation and improve your physical function. Bimzelx can help to reduce back pain, stiffness and tiredness, which can ease your normal daily activities and improve your quality of life.
 
@@ -4204,11 +4165,11 @@ Talk to your doctor, pharmacist or nurse before using Bimzelx if:
 
 Stop using Bimzelx and tell your doctor or get medical help immediately if you notice blood in the stool, abdominal cramps, pain, diarrhoea or weight loss. These may be signs of new or worsening inflammatory bowel disease (Crohn's disease or ulcerative colitis).
 
-<div style=\"page-break-after: always\"></div>
-
 ## Look out for infections and allergic reactions
 
 Bimzelx can rarely cause serious infections. Talk to your doctor or get medical help immediately if you notice any signs of a serious infection. Such signs are listed under 'Serious side effects' in section 4.
+
+<div style=\"page-break-after: always\"></div>
 
 Bimzelx can potentially cause serious allergic reactions. Talk to your doctor or get medical help immediately if you notice any signs of a serious allergic reaction. Such signs may include:
 
@@ -4219,7 +4180,7 @@ Bimzelx can potentially cause serious allergic reactions. Talk to your doctor or
 
 ## Children and adolescents
 
-Do not give this medicine to children and young people under 18 years of age. This is because it has not been studied in this age group.
+Do not give this medicine to children and young people under 18 years of age. This is because it has not yet been adequately studied in this age group.
 
 ## Other medicines and Bimzelx
 
@@ -4239,7 +4200,7 @@ Bimzelx is unlikely to affect your ability to drive and use machines.
 
 ## Bimzelx contains polysorbate 80
 
-This medicinal product contains 0.4 mg of polysorbate 80 in each 1 mL solution. Polysorbates may cause allergic reactions. Tell your doctor if you have any known allergies.
+This medicine contains 0.4 mg of polysorbate 80 in each 1 mL solution. Polysorbates may cause allergic reactions. Tell your doctor if you have any known allergies.
 
 ## Bimzelx contains sodium
 
@@ -4258,14 +4219,16 @@ The recommended dose, given as an injection under your skin ('subcutaneous injec
 - 320 mg (given as one pre-filled pen containing 320 mg) at weeks 0, 4, 8, 12, 16.
 - From week 16, you will use 320 mg ( one pre-filled pen containing 320 mg) every 8 weeks. If you weigh more than 120 kg, your doctor may decide to continue your injections every 4 weeks from week 16.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Psoriatic arthritis
 
 The recommended dose, given as an injection under your skin ('subcutaneous injection') is as follows:
 
 - 160 mg every 4 weeks.
-- If you have psoriatic arthritis with coexistent moderate to severe plaque psoriasis, the recommended dose regimen is the same as for plaque psoriasis. After week 16, your doctor may adapt your injections to 160 mg every 4 weeks, depending on your joint symptoms. Other pharmaceutical forms /strengths are available for administration of the 160 mg dose.
+- If you have psoriatic arthritis with coexistent moderate to severe plaque psoriasis, the recommended dose regimen is the same as for plaque psoriasis. After week 16, your doctor may
+
+<div style=\"page-break-after: always\"></div>
+
+adapt your injections to 160 mg every 4 weeks, depending on your joint symptoms. Other pharmaceutical forms /strengths are available for administration of the 160 mg dose.
 
 ## Axial spondyloarthritis, including non-radiographic axial spondyloarthritis and ankylosing spondylitis (radiographic axial spondyloarthritis)
 
@@ -4306,7 +4269,7 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 Tell your doctor or get medical help immediately if you get any of the following side effects:
 
-## Possible serious infection - the signs may include:
+Possible serious infection -the signs may include:
 
 - fever, flu-like symptoms, night sweats
 - feeling tired or short of breath, cough which will not go away
@@ -4318,13 +4281,13 @@ Your doctor will decide if you can keep using Bimzelx.
 
 Tell your doctor, pharmacist or nurse if you get any of the following side effects:
 
-<div style=\"page-break-after: always\"></div>
-
 Very common (may affect more than 1 in 10 people)
 
 - upper respiratory infections with symptoms such as sore throat and stuffy nose
 
 Common (may affect up to 1 in 10 people)
+
+<div style=\"page-break-after: always\"></div>
 
 - thrush in the mouth or throat with symptoms such as white or yellow patches; red or sore mouth and pain with swallowing
 - fungal infection of the skin, such as athlete's foot between the toes
@@ -4371,7 +4334,7 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 ## What Bimzelx contains
 
 - The active substance is bimekizumab. Each pre-filled pen contains 320 mg of bimekizumab in the 2 mL solution.
-- The other ingredients are glycine, sodium acetate trihydrate, glacial acetic acid, polysorbate 80 and water for injections.
+- The other ingredients are glycine, sodium acetate trihydrate, glacial acetic acid, polysorbate 80 and water for injections (see section 2 'Bimzelx contains polysorbate 80' and 'Bimzelx contains sodium').
 
 ## What Bimzelx looks like and contents of the pack
 
@@ -4385,9 +4348,9 @@ UCB Pharma S.A. Allée de la Recherche 60 B-1070 Bruxelles, Belgium
 
 ## Manufacturer
 
-UCB Pharma S.A. Chemin du Foriest
+UCB Pharma S.A. Chemin du Foriest B-1420 Braine-
 
-B-1420 Braine-l'Alleud, Belgium
+l'Alleud, Belgium
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
@@ -4397,37 +4360,17 @@ UCB Pharma S.A./NV
 
 Tél/Tel: + 32 / (0)2 559 92 00
 
+## Lietuva
+
+Medis Pharma Lithuania UAB
+
+Tel: +370 68 735 006
+
 ## България
 
 Ю СИ БИ България ЕООД
 
-Te
-
-л.: + 359 (0) 2 962 30 49
-
-## Č eská republika
-
-UCB s.r.o.
-
-Tel: + 420 221 773 411
-
-## Danmark
-
-UCB Nordic A/S
-
-Tlf.: + 45 / 32 462 400
-
-## Deutschland
-
-UCB Pharma GmbH
-
-Tel: + 49 /(0) 2173 48 4848
-
-## Eesti
-
-## Lietuva
-
-UCB Pharma Oy Finland Tel: + 358 9 2514 4221 (Suomija)
+Te л.: + 359 (0) 2 962 30 49
 
 ## Luxembourg/Luxemburg
 
@@ -4435,11 +4378,23 @@ UCB Pharma S.A./NV
 
 Tél/Tel: + 32 / (0)2 559 92 00 (Belgique/Belgien)
 
+## Č eská republika
+
+UCB s.r.o.
+
+Tel: + 420 221 773 411
+
 ## Magyarország
 
 UCB Magyarország Kft.
 
 Tel.: + 36-(1) 391 0060
+
+## Danmark
+
+UCB Nordic A/S
+
+Tlf.: + 45 / 32 462 400
 
 ## Malta
 
@@ -4447,17 +4402,25 @@ Pharmasud Ltd.
 
 Tel: + 356 / 21 37 64 36
 
+## Deutschland
+
+UCB Pharma GmbH
+
+Tel: + 49 /(0) 2173 48 4848
+
 ## Nederland
 
 UCB Pharma B.V.
 
 Tel: + 31 / (0)76-573 11 40
 
+## Eesti
+
+Medis Pharma Lithuania UAB
+
+Tel: +370 68 735 006
+
 ## Norge
-
-UCB Pharma Oy Finland
-
-Tel: + 358 9 2514 4221 (Soome)
 
 UCB Nordic A/S
 
@@ -4467,13 +4430,15 @@ Tlf: + 47 / 67 16 5880
 
 UCB Α.Ε.
 
-Τηλ: + 30 / 2109974000
-
 ## Österreich
 
 UCB Pharma GmbH
 
-Tel: + 43-(0)1 291 80 00
+Τηλ:
+
++ 30 / 2109974000
+
+<div style=\"page-break-after: always\"></div>
 
 ## España
 
@@ -4481,23 +4446,11 @@ UCB Pharma, S.A.
 
 Tel: + 34 / 91 570 34 44
 
-## Polska
-
-UCB Pharma Sp. z o.o. / VEDIM Sp. z o.o.
-
-Tel.: + 48 22 696 99 20
-
 ## France
 
-UCB Pharma S.A.
+UCB Pharma
 
 Tél: + 33 / (0)1 47 29 44 35
-
-## Portugal
-
-UCB Pharma (Produtos Farmacêuticos), Lda
-
-Tel: + 351 21 302 5300
 
 ## Hrvatska
 
@@ -4511,6 +4464,50 @@ UCB (Pharma) Ireland Ltd.
 
 Tel: + 353 / (0)1-46 37 395
 
+## Ísland
+
+UCB Nordic A/S
+
+Sími: + 45 / 32 46 24 00
+
+## Italia
+
+UCB Pharma S.p.A.
+
+Tel: + 39 / 02 300 791
+
+## Κύπρος
+
+Lifepharma (Z.A.M.) Ltd
+
+Τηλ:
+
++ 357 22 056300
+
+## Latvija
+
+Medis Pharma Lithuania UAB
+
+Tel: +370 68 735 006
+
+## This leaflet was last revised in .
+
+## Other sources of information
+
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu
+
+Tel: + 43-(0)1 291 80 00
+
+## Polska
+
+UCB Pharma Sp. z o.o. / VEDIM Sp. z o.o.
+
+Tel.: + 48 22 696 99 20
+
+## Portugal
+
+UCB Pharma (Produtos Farmacêuticos), Lda Tel: + 351 21 302 5300
+
 ## România
 
 UCB Pharma Romania S.R.L.
@@ -4523,23 +4520,11 @@ Medis, d.o.o.
 
 Tel: + 386 1 589 69 00
 
-## Ísland
-
-UCB Nordic A/S
-
-Sími: + 45 / 32 46 24 00
-
 ## Slovenská republika
 
 UCB s.r.o., organizačná zložka
 
 Tel: + 421 (0) 2 5920 2020
-
-## Italia
-
-UCB Pharma S.p.A.
-
-Tel: + 39 / 02 300 791
 
 ## Suomi/Finland
 
@@ -4547,39 +4532,19 @@ UCB Pharma Oy Finland
 
 Puh/Tel: + 358 9 2514 4221
 
-## Κύπρος
-
-Lifepharma (Z.A.M.) Ltd
-
-Τηλ: + 357 22 056300
-
 ## Sverige
 
 UCB Nordic A/S
 
 Tel: + 46 / (0) 40 294 900
 
-## Latvija
-
-UCB Pharma Oy Finland
-
-Tel: + 358 9 2514 4221 (Somija)
-
 <div style=\"page-break-after: always\"></div>
-
-## This leaflet was last revised in .
-
-## Other sources of information
-
-Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu
 
 ## Instructions for use
 
-Read all the instructions below before you use Bimzelx 320 mg solution for injection in pre-filled pen.
+## Read all the instructions below before you use Bimzelx 320 mg solution for injection in pre-filled pen.
 
 Bimzelx 320 mg pre-filled pen at a glance ( see Figure A ):
-
-<div style=\"page-break-after: always\"></div>
 
 <!-- image -->
 
@@ -4613,11 +4578,11 @@ Follow the steps below each time you use Bimzelx.
 
 You will also need (not included in the carton):
 
+<div style=\"page-break-after: always\"></div>
+
 - 1 alcohol wipe
 - 1 clean cotton ball
-- 1 sharps disposal container. See 'Throw away the used Bimzelx pre-filled pen' at the end of these Instructions for Use.
-
-<div style=\"page-break-after: always\"></div>
+- 1 sharps disposal container. See ' Throw away the used Bimzelx prefilled pen' at the end of these Instructions for Use.
 
 ## Step 2: Choose injection site and prepare your injection
 
@@ -4644,11 +4609,11 @@ You will also need (not included in the carton):
 - Check the medicine through the viewing window. The medicine should be clear to slightly opalescent and free of particles. Its colour may vary from colourless to pale brownish-yellow. You may see air bubbles in the liquid. This is normal.
 - Do not use the Bimzelx pre-filled pen if the medicine is cloudy, discoloured, or has particles.
 
-<!-- image -->
-
 <div style=\"page-break-after: always\"></div>
 
-## Step 3: Inject Bimzelx
+Step 3: Inject Bimzelx
+
+<!-- image -->
 
 ## 3a: Remove the pre-filled pen cap
 
@@ -4665,9 +4630,9 @@ You will also need (not included in the carton):
 
 - You will hear a click sound. Your injection begins when the first 'click' is heard ( see Figure G ). Do not lift the pre-filled pen away from the skin.
 
-<!-- image -->
-
 <div style=\"page-break-after: always\"></div>
+
+<!-- image -->
 
 ## 3d: Keep holding the pre-filled pen in place and pressed firmly against your skin. It will take about 20 seconds to receive your full dose.
 
@@ -4681,6 +4646,8 @@ You will also need (not included in the carton):
 ## 3e: Remove the pre-filled pen by carefully pulling it straight up from your skin. The needle guard will automatically cover the needle
 
 - Press a dry cotton ball over the injection site for a few seconds. Do not rub the injection site. You may see slight bleeding or a drop of liquid. This is normal. You may cover the injection site with a small adhesive plaster, if needed.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Step 4: Throw away the used Bimzelx pre-filled pen
 

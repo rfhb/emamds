@@ -4,8 +4,8 @@ document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/pregabalin-viatris.html
 document_name: pregabalin-viatris.html
 version: success
-processing_time: 0.1340361
-conversion_datetime: 2026-05-10 13:14:52.574941
+processing_time: 0.1326617
+conversion_datetime: 2026-05-10 13:16:09.927453
 docling_version:
   docling-serve: 1.17.0
   docling-jobkit: 1.18.0

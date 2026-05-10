@@ -4,8 +4,8 @@ document_pages: 4
 document_pathfilename: www.ema.europa.eu/en/documents/procedural-steps-after/ixiaro-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
 document_name: ixiaro-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
 version: success
-processing_time: 2.2821963
-conversion_datetime: 2026-05-10 13:12:44.095645
+processing_time: 2.2717699
+conversion_datetime: 2026-05-10 13:15:05.312661
 docling_version:
   docling-serve: 1.17.0
   docling-jobkit: 1.18.0

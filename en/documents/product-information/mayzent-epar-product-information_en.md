@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-10-15 14:23:05
-document_pages: 60
+document_datetime: 2026-05-08 09:29:05
+document_pages: 58
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/mayzent-epar-product-information_en.pdf
 document_name: mayzent-epar-product-information_en.pdf
 version: success
-processing_time: 13.1128285
-conversion_datetime: 2025-12-28 09:58:53.916697
+processing_time: 14.303426
+conversion_datetime: 2026-05-10 13:08:39.236105
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.17.0
+  docling-jobkit: 1.18.0
+  docling: 2.92.0
+  docling-core: 2.74.1
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.10.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -129,9 +129,7 @@ If a dose is missed, the prescribed dose should be taken at the next scheduled t
 
 If maintenance treatment is interrupted for 4 or more consecutive daily doses, siponimod needs to be re-initiated with a new titration pack.
 
-## Special populations
-
-## Elderly
+## Special populations Elderly
 
 Siponimod has not been studied in patients aged 65 years and above. Clinical studies included patients up to the age of 61 years. Siponimod should be used with caution in the elderly due to insufficient data on safety and efficacy (see section 5.2).
 
@@ -223,9 +221,9 @@ Initiation of siponimod treatment results in a transient decrease in heart rate 
 
 After the first titration dose, the heart rate decrease starts within one hour and the day 1 decline is maximal at approximately 3 to 4 hours. With continued up-titration, further heart rate decreases are seen on subsequent days, with maximal decrease from day 1 (baseline) reached on day 5 to 6. The highest daily post-dose decrease in absolute hourly mean heart rate is observed on day 1, with the pulse declining on average 5 to 6 beats per minute (bpm). Post-dose declines on the following days are less pronounced. With continued dosing heart rate starts increasing after day 6 and reaches placebo levels within 10 days after treatment initiation.
 
-<div style=\"page-break-after: always\"></div>
-
 Heart rates below 40 bpm were rarely observed. The atrioventricular conduction delays manifested in most of the cases as first-degree atrioventricular (AV) blocks (prolonged PR interval on electrocardiogram). In clinical studies, second-degree AV blocks, usually Mobitz type I (Wenckebach), have been observed in less than 1.7% of patients at the time of treatment initiation.
+
+<div style=\"page-break-after: always\"></div>
 
 Most of the bradyarrhythmic events or atrioventricular conduction delays were asymptomatic, transient and resolved within 24 hours and did not require discontinuation of treatment. Should postdose symptoms occur (dizziness, non-cardiac chest pain and headache), appropriate clinical management should be initiated and monitoring should be continued until the symptoms have resolved. If necessary, the decrease in heart rate induced by siponimod can be reversed by parenteral doses of atropine or isoprenaline.
 
@@ -252,9 +250,9 @@ A thorough QT study demonstrated no significant direct QT-prolonging effect and 
 
 Siponimod has not been studied in patients with arrhythmias requiring treatment with class Ia (e.g. quinidine, procainamide) or class III (e.g. amiodarone, sotalol) antiarrhythmic medicinal products. Class Ia and class III antiarrhythmic medicinal products have been associated with cases of torsades de pointes in patients with bradycardia. Since initiation of treatment results in decreased heart rate, siponimod should not be used concomitantly with these medicinal products during treatment initiation.
 
-<div style=\"page-break-after: always\"></div>
-
 Experience is limited in patients receiving concurrent therapy with heart-rate-lowering calcium channel blockers (such as verapamil or diltiazem) or other substances that may decrease heart rate (e.g. ivabradine or digoxin) as these medicinal products were not studied in patients receiving siponimod in clinical studies. Concomitant use of these substances during treatment initiation may be associated with severe bradycardia and heart block. Because of the potential additive effect on heart rate, treatment with siponimod should generally not be initiated in patients who are concurrently treated with these substances (see section 4.5). In such patients, treatment with siponimod should be considered only if the anticipated benefits outweigh the potential risks.
+
+<div style=\"page-break-after: always\"></div>
 
 If concomitant treatment with one of the above substances is considered during initiation of treatment with siponimod, advice from a cardiologist should be sought regarding the switch to a non-heart-rate-lowering medicinal product or appropriate monitoring for treatment initiation.
 
@@ -276,11 +274,11 @@ Basal cell carcinoma (BCC) and other cutaneous neoplasms, including squamous cel
 
 Skin examination is recommended for all patients at treatment initiation, and then every 6 to12 months taking into consideration clinical judgement. Careful skin examinations should be maintained with longer treatment duration. Patients should be advised to promptly report any suspicious skin lesions to their physician. Patients treated with siponimod should be cautioned against exposure to sunlight without protection. These patients should not receive concomitant phototherapy with UV-B radiation or PUVA-photochemotherapy.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Unexpected neurological or psychiatric symptoms/signs
 
 Rare cases of posterior reversible encephalopathy syndrome (PRES) have been reported for another sphingosine-1-phosphate (S1P) receptor modulator. Such events have not been reported for siponimod in the development programme. However, should a patient on siponimod treatment develop any unexpected neurological or psychiatric symptoms/signs (e.g. cognitive deficits, behavioural changes, cortical visual disturbances or any other neurological cortical symptoms/signs or any symptom/sign suggestive of an increase in intracranial pressure) or accelerated neurological deterioration, a complete physical and neurological examination should promptly be scheduled and MRI should be considered.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Prior treatment with immunosuppressive or immune-modulating therapies
 
@@ -306,11 +304,11 @@ Before initiation of treatment with siponimod, patients should be genotyped for 
 
 Due to risk for the foetus, siponimod is contraindicated during pregnancy and in women of childbearing potential not using effective contraception. Before initiation of treatment, women of childbearing potential must be informed of this risk to the foetus, must have a negative pregnancy test and must use effective contraception during treatment and for at least 10 days after treatment discontinuation (see sections 4.3 and 4.6).
 
-<div style=\"page-break-after: always\"></div>
-
 ## Stopping siponimod therapy
 
 Severe exacerbation of disease, including disease rebound, has been rarely reported after discontinuation of another S1P receptor modulator. The possibility of severe exacerbation of disease after stopping siponimod treatment should be considered. Patients should be observed for relevant signs of possible severe exacerbation or return of high disease activity upon siponimod discontinuation and appropriate treatment should be instituted as required.
+
+<div style=\"page-break-after: always\"></div>
 
 After siponimod therapy has been stopped, siponimod remains in the blood for up to 10 days. Starting other therapies during this interval will result in concomitant exposure to siponimod.
 
@@ -336,11 +334,11 @@ Siponimod has not been studied in combination with antineoplastic, immune-modula
 
 Due to the characteristics and duration of alemtuzumab immune suppressive effects described in its product information, initiating treatment with siponimod after alemtuzmab is not recommended unless the benefits of treatment clearly outweigh the risks for the individual patient (see section 4.4).
 
-<div style=\"page-break-after: always\"></div>
-
-Anti-arrhythmic medicinal products, QT-prolonging medicinal products, medicinal products that may decrease heart rate
+## Anti-arrhythmic medicinal products, QT-prolonging medicinal products, medicinal products that may decrease heart rate
 
 During treatment initiation siponimod should not be concomitantly used in patients receiving class Ia (e.g. quinidine, procainamide) or class III (e.g. amiodarone, sotalol) anti-arrhythmic medicinal products, QT-prolonging medicinal products with known arrhythmogenic properties, heart-rate-lowering calcium channel blockers (such as verapamil or diltiazem) or other substances that may decrease heart rate (e.g. ivabradine or digoxin) because of the potential additive effects on heart rate (see section 4.4). No data are available for concomitant use of these medicinal products with siponimod. Concomitant use of these substances during treatment initiation may be associated with severe bradycardia and heart block. Because of the potential additive effect on heart rate, treatment with siponimod should generally not be initiated in patients who are concurrently treated with these substances (see section 4.4). If treatment with siponimod is considered, advice from a cardiologist should be sought regarding the switch to non-heart-rate-lowering medicinal products or appropriate monitoring for treatment initiation.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Beta blockers
 
@@ -362,8 +360,6 @@ Cytochrome P450 (CYP2C9) is the major metabolising enzyme for siponimod, account
 
 Concomitant use of siponimod and medicinal products that cause moderate or strong CYP2C9 inhibition is not recommended because a clinically relevant increase of siponimod exposure by 2- or 4-fold is anticipated, respectively.
 
-<div style=\"page-break-after: always\"></div>
-
 The co-administration of fluconazole (moderate CYP2C9/CYP3A4 dual inhibitor) 200 mg daily at steady state and a single dose of siponimod 4 mg in healthy volunteers with a CYP2C9*1*1 genotype led to a 2-fold increase in the area under the curve (AUC) of siponimod. According to evaluation of the drug interaction potential using physiologically based pharmacokinetic (PBPK) modelling, a maximum of a 2.2-fold increase in the AUC is predicted with any type of moderate CYP2C9 inhibitor depending on the CYP2C9 genotype.
 
 ## CYP2C9 and CYP3A4 inducers
@@ -371,7 +367,11 @@ The co-administration of fluconazole (moderate CYP2C9/CYP3A4 dual inhibitor) 200
 Siponimod may be combined with most types of CYP2C9 and CYP3A4 inducers. However, because of an expected reduction in siponimod exposure, the appropriateness and possible benefit of the treatment should be considered when siponimod is combined:
 
 - -with dual strong CYP3A4/moderate CYP2C9 inducers (e.g. rifampicin, carbamazepine) in all patients, regardless of genotype. Co-administration of 2 mg siponimod and 600 mg rifampicin decreased siponimod AUCtau,ss and Cmax,ss by 57% and 45%, respectively, in CYP2C9*1*1 subjects.
-- -with moderate CYP3A4 inducers (e.g. efavirenz, modafinil) for patients with a CYP2C9*1*3 or *2*3 genotype. The most pronounced reduction of siponimod exposure by 35% (AUCtau,ss) and 39% (Cmax,ss) is predicted after co-administration of 1 mg siponimod daily and 600 mg efavirenz daily in patients with CYP2C9*1*3 genotype compared to those with CYP2C9*1*1 genotype receiving their recommended dose of 2 mg siponimod without concomitant medication. No clinical data for siponimod combined with moderate CYP3A4 inducers are available.
+- -with moderate CYP3A4 inducers (e.g. efavirenz, modafinil) for patients with a CYP2C9*1*3 or *2*3 genotype. The most pronounced reduction of siponimod exposure by 35% (AUCtau,ss) and 39% (Cmax,ss) is predicted after co-administration of 1 mg siponimod daily and 600 mg efavirenz daily in patients with CYP2C9*1*3 genotype compared to those with CYP2C9*1*1 genotype receiving their recommended dose of 2 mg siponimod without concomitant medication. No
+
+<div style=\"page-break-after: always\"></div>
+
+clinical data for siponimod combined with moderate CYP3A4 inducers are available.
 
 ## Oral contraceptives
 
@@ -393,8 +393,6 @@ When stopping siponimod therapy for planning a pregnancy, the possible return of
 
 There are no or limited amount of data available from the use of siponimod in pregnant women. Animal studies have demonstrated siponimod-induced embryotoxicity and foetotoxicity in rats and rabbits and teratogenicity in rats, including embryo-foetal deaths and skeletal or visceral malformations at exposure levels comparable to the human exposure at the daily dose of 2 mg (see section 5.3). In addition, clinical experience with another sphingosine-1-phosphate receptor modulator indicated a 2-fold higher risk of major congenital malformations when administered during pregnancy compared with the rate observed in the general population.
 
-<div style=\"page-break-after: always\"></div>
-
 Consequently, siponimod is contraindicated during pregnancy (see section 4.3). Siponimod should be stopped at least 10 days before a pregnancy is planned (see section 4.4). If a woman becomes pregnant while on treatment, siponimod must be discontinued. Medical advice should be given regarding the risk of harmful effects to the foetus associated with treatment and ultrasonography examinations should be performed.
 
 ## Breast-feeding
@@ -404,6 +402,8 @@ It is unknown whether siponimod or its major metabolites are excreted in human m
 ## Fertility
 
 The effect of siponimod on human fertility has not been evaluated. Siponimod had no effect on male reproductive organs in rats and monkeys or on fertility parameters in rats.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 4.7 Effects on ability to drive and use machines
 
@@ -433,28 +433,28 @@ Table 2 Tabulated list of adverse reactions
 | Common                                                               | Lymphopenia                                                          |
 | Immune system disorders                                              | Immune system disorders                                              |
 | Rare                                                                 | Immune reconstitution inflammatory syndrome (IRIS)                   |
+| Nervous system disorders                                             | Nervous system disorders                                             |
+| Very common                                                          | Headache                                                             |
+| Common                                                               | Dizziness Seizure Tremor                                             |
+| Eye disorders                                                        | Eye disorders                                                        |
+| Common                                                               | Macular oedema                                                       |
+| Cardiac disorders                                                    | Cardiac disorders                                                    |
+| Common                                                               | Bradycardia Atrioventricular block (first and second degree)         |
+| Vascular disorders                                                   | Vascular disorders                                                   |
+| Very common                                                          | Hypertension                                                         |
+| Gastrointestinal disorders                                           | Gastrointestinal disorders                                           |
+| Common                                                               | Nausea Diarrhoea                                                     |
+| Musculoskeletal and connective tissue disorders                      | Musculoskeletal and connective tissue disorders                      |
+| Common                                                               | Pain in extremity                                                    |
 
 <div style=\"page-break-after: always\"></div>
 
-| Nervous system disorders                             | Nervous system disorders                                     |
-|------------------------------------------------------|--------------------------------------------------------------|
-| Very common                                          | Headache                                                     |
-| Common                                               | Dizziness Seizure Tremor                                     |
-| Eye disorders                                        | Eye disorders                                                |
-| Common                                               | Macular oedema                                               |
-| Cardiac disorders                                    | Cardiac disorders                                            |
-| Common                                               | Bradycardia Atrioventricular block (first and second degree) |
-| Vascular disorders                                   | Vascular disorders                                           |
-| Very common                                          | Hypertension                                                 |
-| Gastrointestinal disorders                           | Gastrointestinal disorders                                   |
-| Common                                               | Nausea Diarrhoea                                             |
-| Musculoskeletal and connective tissue disorders      | Musculoskeletal and connective tissue disorders              |
-| Common                                               | Pain in extremity                                            |
-| General disorders and administration site conditions | General disorders and administration site conditions         |
-| Common                                               | Oedema peripheral Asthenia                                   |
-| Investigations                                       | Investigations                                               |
-| Very common                                          | Liver function test increased                                |
-| Common                                               | Pulmonary function test decreased                            |
+| General disorders and administration site conditions   | General disorders and administration site conditions   |
+|--------------------------------------------------------|--------------------------------------------------------|
+| Common                                                 | Oedema peripheral Asthenia                             |
+| Investigations                                         |                                                        |
+| Very common                                            | Liver function test increased                          |
+| Common                                                 | Pulmonary function test decreased                      |
 
 ## Description of selected adverse reactions
 
@@ -476,8 +476,6 @@ The maximum decline in heart rate is seen in the first 6 hours post-dose.
 
 A transient, dose-dependent decrease in heart rate was observed during the initial dosing phase and plateaued at doses ≥5 mg. Bradyarrhythmic events (AV blocks and sinus pauses) were detected with a higher incidence under siponimod treatment compared to placebo.
 
-<div style=\"page-break-after: always\"></div>
-
 Most AV blocks and sinus pauses occurred above the therapeutic dose of 2 mg, with notably higher incidence under non-titrated conditions compared to dose titration conditions.
 
 The decrease in heart rate induced by siponimod can be reversed by atropine or isoprenaline.
@@ -489,6 +487,8 @@ Increased hepatic enzymes (mostly ALT elevation) have been reported in MS patien
 ## Blood pressure
 
 Hypertension was more frequently reported in patients on siponimod (12.6%) than in those given placebo (9.0%) in the phase III clinical study in patients with SPMS. Treatment with siponimod resulted in an increase of systolic and diastolic blood pressure starting early after treatment initiation, reaching maximum effect after approximately 6 months of treatment (systolic 3 mmHg, diastolic 1.2 mmHg) and staying stable thereafter. The effect persisted with continued treatment.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Seizures
 
@@ -510,8 +510,6 @@ One patient (with a history of depression) who took 84 mg siponimod experienced 
 
 If the overdose constitutes first exposure to siponimod or occurs during the dose titration phase of siponimod it is important to observe for signs and symptoms of bradycardia, which could include overnight monitoring. Regular measurements of pulse rate and blood pressure are required and electrocardiograms should be performed (see sections 4.2 and 4.4).
 
-<div style=\"page-break-after: always\"></div>
-
 There is no specific antidote to siponimod available. Neither dialysis nor plasma exchange would result in meaningful removal of siponimod from the body.
 
 ## 5. PHARMACOLOGICAL PROPERTIES
@@ -523,6 +521,8 @@ Pharmacotherapeutic group: Immunosuppressants, sphingosine-1-phosphate (S1P) rec
 ## Mechanism of action
 
 Siponimod is a sphingosine-1-phosphate (S1P) receptor modulator. Siponimod binds selectively to two out of five G-protein-coupled receptors (GPCRs) for S1P, namely S1P1 and S1P5. By acting as a functional antagonist on S1P1 receptors on lymphocytes, siponimod prevents egress from lymph nodes. This reduces the recirculation of T cells into the central nervous system (CNS) to limit central inflammation.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Pharmacodynamic effects
 
@@ -540,9 +540,7 @@ Siponimod causes a transient reduction in heart rate and atrioventricular conduc
 
 ## Potential to prolong the QT interval
 
-The effects of therapeutic (2 mg) and supratherapeutic (10 mg) doses of siponimod on cardiac repolarisation were investigated in a thorough QT study. The results did not suggest an arrhythmogenic potential related to QT prolongation with siponimod. Siponimod increased the placebo-corrected baselineadjusted mean QTcF (ΔΔQTcF) by more than 5 ms, with a maximum mean effect of 7.8 ms (2 mg) and 7.2 ms (10 mg), respectively, at 3 h post-dose. The upper bound of the onesided 95% CI for the ΔΔQTcF at all time po ints remained below 10 ms. Categorical analysis revealed no treatment-emergent QTc values above 480 ms, no QTc increases from baseline of more than 60 ms and no corrected or uncorrected QT/QTc value exceeded 500 ms.
-
-<div style=\"page-break-after: always\"></div>
+The effects of therapeutic (2 mg) and supratherapeutic (10 mg) doses of siponimod on cardiac repolarisation were investigated in a thorough QT study. The results did not suggest an arrhythmogenic potential related to QT prolongation with siponimod. Siponimod increased the placebo-corrected baselineadjusted mean QTcF (ΔΔQTcF) by more than 5 ms, with a maximum mean effect of 7.8 ms (2 mg) and 7.2 ms (10 mg), respectively, at 3 h post-dose. The upper bound of the onesided 95% CI for the ΔΔQTcF at all time points remained below 10 ms. Categorical analysis revealed no treatment-emergent QTc values above 480 ms, no QTc increases from baseline of more than 60 ms and no corrected or uncorrected QT/QTc value exceeded 500 ms.
 
 ## Pulmonary function
 
@@ -556,6 +554,8 @@ The efficacy of siponimod has been investigated in a phase III study evaluating 
 
 The core part of study A2304 was a randomised, double-blind, placebo-controlled, event and follow-up duration driven, phase III study in patients with SPMS who had documented evidence of progression in the prior 2 years in the absence or independent of relapses, no evidence of relapse in the 3 months prior to study enrolment and with an Expanded Disability Status Scale (EDSS) score of 3.0 to 6.5 at study entry. The median EDSS was 6.0 at baseline. Patients above 61 years of age were not included. With regard to disease activity, features characteristic of inflammatory activity in SPMS can be relapse- or imaging-related (i.e. Gd-enhancing T1 lesions or active [new or enlarging] T2 lesions).
 
+<div style=\"page-break-after: always\"></div>
+
 Patients were randomised 2:1 to receive either once-daily siponimod 2 mg or placebo. Clinical evaluations were performed at screening and every 3 months and at the time of relapse. MRI evaluations were performed at screening and every 12 months.
 
 The primary endpoint of the study was the time to 3-month confirmed disability progression (CDP) determined as at least a 1-point increase from baseline in EDSS (0.5 point increase for patients with baseline EDSS of 5.5 or more) sustained for 3 months. Key secondary endpoints were time to 3-month confirmed worsening of at least 20% from baseline in the timed 25-foot walk test (T25W) and change from baseline in T2 lesion volume. Additional secondary endpoints included time to 6-month CDP, percent brain volume change and measures of inflammatory disease activity (annualised relapse rate, MRI lesions). Change in cognitive processing speed on Symbol Digit Modality Test score was an exploratory endpoint.
@@ -565,8 +565,6 @@ Study duration was variable for individual patients (median study duration was 2
 The study involved randomisation of 1 651 patients to either siponimod 2 mg (N=1 105) or placebo (N=546); 82% of patients treated with siponimod and 78% of placebo-treated patients completed the study. Median age was 49 years, median disease duration was 16 years and median EDSS score was 6.0 at baseline. 64% of patients had no relapses in the 2 years prior to study entry and 76% had no gadolinium (Gd)-enhancing lesions on their baseline MRI scan. 78% of patients had been previously treated with a therapy for their MS.
 
 Time to onset of 3-month and 6-month CDP was significantly delayed for siponimod, with reduction in risk of 3-month CDP by 21% compared to placebo (hazard ratio [HR] 0.79, p=0.0134) and reduction in risk of 6-month CDP by 26% compared to placebo (HR 0.74, p=0.0058).
-
-<div style=\"page-break-after: always\"></div>
 
 Figure 1 Patients with 3- and 6-month CDP based on EDSS-Kaplan-Meier curves (full analysis set, study A2304)
 
@@ -589,7 +587,7 @@ Table 3 Clinical and MRI results of study A2304
 | Annualised relapse rate (ARR)                                                                                      | 0.071                    | 0.152                 |
 | Rate reduction 2                                                                                                   | 55% [(p<0.0001)] 6       | 55% [(p<0.0001)] 6    |
 | MRI endpoints                                                                                                      |                          |                       |
-| Change from baseline in T2 lesion volume (mm 3 ) 3                                                                 | +184 mm 3                | +879mm 3              |
+| Change from baseline in T2 lesion volume (mm 3 ) 3                                                                 | +184mm 3                 | +879mm 3              |
 | Difference in T2 lesion volume change                                                                              | -695mm 3 (p<0.0001) 7    | -695mm 3 (p<0.0001) 7 |
 | Percentage brain volume change relative to baseline (95% CI) 3                                                     | -0.497%                  | -0.649%               |
 | Difference in percentage brain volume change                                                                       | 0.152% [(p=0.0002)] 6    | 0.152% [(p=0.0002)] 6 |
@@ -608,25 +606,21 @@ Results from the study showed a variable but consistent risk reduction in the ti
 
 In the subgroup of patients (n=779) with active disease (defined as patients with relapse in the 2 years prior to the study and/or presence of Gd-enhancing T1 lesions at baseline) the baseline characteristics were similar to the overall population. Median age was 47 years, median disease duration was 15 years and median EDSS score at baseline was 6.0.
 
-<div style=\"page-break-after: always\"></div>
+Time to onset of 3-month and 6-month CDP was significantly delayed in siponimod-treated patients with active disease, by 31% compared to placebo (hazard ratio [HR] 0.69; 95% CI: 0.53, 0.91) and by 37% compared to placebo (HR 0.63; 95% CI: 0.47, 0.86), respectively. The ARR (confirmed relapses) was reduced by 46% (ARR ratio 0.54; 95% CI: 0.39, 0.77) compared to placebo. The relative rate reduction of cumulative number of Gd-enhancing T1 weighted lesions over 24 months was 85% (rate ratio 0.155; 95% CI: 0.104, 0.231) compared to placebo. The differences in T2 lesion volume change and in percentage of brain volume change (average over months 12 and 24) compared to placebo were -1 163 mm 3  (95% CI: -1 484, -843 mm 3 ) and 0.141% (95% CI: 0.020, 0.261%), respectively.
 
-Time to onset of 3-month and 6-month CDP was significantly delayed in siponimod-treated patients with active disease, by 31% compared to placebo (hazard ratio [HR] 0.69; 95% CI: 0.53, 0.91) and by 37% compared to placebo (HR 0.63; 95% CI: 0.47, 0.86), respectively. The ARR (confirmed relapses) was reduced by 46% (ARR ratio 0.54; 95% CI: 0.39, 0.77) compared to placebo. The relative rate reduction of cumulative number of Gd-enhancing T1 weighted lesions over 24 months was 85% (rate ratio 0.155; 95% CI: 0.104, 0.231) compared to placebo. The differences in T2 lesion volume change and in percentage of brain volume change (average over months 12 and 24) compared to placebo were -1 163 mm 3 (95% CI: -1 484, -843 mm 3 ) and 0.141% (95% CI: 0.020, 0.261%), respectively.
+<div style=\"page-break-after: always\"></div>
 
 Figure 2 Patients with 3- and 6-month CDP based on EDSS-Kaplan-Meier curves -Subgroup with active SPMS (full analysis set, study A2304)
 
-## Time to 3-month CDP versus placebo
-
 <!-- image -->
-
-## Time to 6-month CDP versus placebo
 
 In the subgroup of patients (n=827) without signs and symptoms of disease activity (defined as patients without relapse in the 2 years prior to the study and without presence of Gd-enhancing T1 lesions at baseline), effects on 3-month and 6-month CDP were small (risk reductions were 7% and 13%, respectively).
 
 A post-hoc analysis of study A2304 (EXPAND) showed that siponimod delayed progression to EDSS ≥7.0 (sustained until end of study, i.e. time to wheelchair), resulting in a risk reduction of 38% (HR from Cox model 0.62; 95% CI: 0.41, 0.92). The Kaplan-Meier estimate of percentage of patients progressed to EDSS ≥7.0 at month 24 was 6.97% in the siponimod group and 8.72% in the placebo group. In the subgroup of patients with active SPMS, the risk reduction was 51% (HR 0.49; 95% CI: 0.27, 0.90) and the Kaplan-Meier estimates at month 24 were 6.51% in the siponimod group and 8.69% in the placebo group. As these results were exploratory in nature, they should be interpreted with caution.
 
-<div style=\"page-break-after: always\"></div>
-
 The core part (CP) of study A2304 was followed by a single-arm, open-label extension part (EP). The EP objective was exploratory in nature and in place to evaluate long-term efficacy and safety of siponimod for up to 7 additional years ' treatment. Of the total number of patients randomised, 68% (n=1 120) entered and 29% (n=485) completed the EP of study A2304. The Kaplan-Meier estimate of percentage of patients with 6-month CDP at month 108 was 64.7% in the continuous siponimod group and 68.4% in the group of patients who switched from placebo to siponimod after CP. In patients with active SPMS, the Kaplan-Meier estimate of percentage of patients with 6-month CDP at month 108 was 62.9% in the continuous siponimod group and 68.1% in the group of patients who switched from placebo to siponimod after the CP.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Paediatric population
 
@@ -652,8 +646,6 @@ The pharmacological activity of the main metabolites M3 and M17 is not expected 
 
 In vitro investigations indicated that siponimod and its major systemic metabolites M3 and M17 do not show any clinically relevant drug-drug interaction potential at the therapeutic dose of 2 mg once daily for all investigated CYP enzymes and transporters, and do not necessitate clinical investigation.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Elimination
 
 An apparent systemic clearance (CL/F) of 3.11 l/h was estimated in MS patients. The apparent elimination half-life of siponimod is approximately 30 hours.
@@ -663,6 +655,8 @@ Siponimod is eliminated from the systemic circulation mainly due to metabolism a
 ## Drug-drug interaction (DDI)
 
 The impact of moderate CYP2C9 inhibitors on siponimod exposure was observed and predicted to be up to 2-fold for AUC and 1.6-fold for Cmax across all CYP2C9 genotypes at the maintenance dose. DDI predictions for strong CYP2C9 inhibitors resulted in an approximately 4-fold exposure increase compared to CYP2C9*1*1. The concomitant use of moderate or strong CYP2C9 inhibitors is therefore not recommended (see section 4.5).
+
+<div style=\"page-break-after: always\"></div>
 
 The co-administration of clarithromycin (strong CYP3A4 inhibitor) 500 mg daily at steady state and a single dose of siponimod 0.25 mg in healthy volunteers with the CYP2C9*1*3 genotype led to a 1.09fold increase in the AUC of siponimod that was not clinically relevant.
 
@@ -679,8 +673,6 @@ Steady-state plasma concentrations are reached after approximately 6 days of onc
 The CYP2C9 genotype influences siponimod CL/F. Two population pharmacokinetic analyses indicated that CYP2C9*1*1 and *1*2 subjects behave as extensive metabolisers, *2*2 and *1*3 subjects as intermediate metabolisers and *2*3 and *3*3 subjects as poor metabolisers. Compared to CYP2C9*1*1 subjects, individuals with the CYP2C9*2*2, *1*3, *2*3 and *3*3 genotypes have 20%, 35-38%, 45-48% and 74% smaller CL/F values, respectively. Siponimod exposure is therefore approximately 25%, 61%, 91% and 284% higher in CYP2C9*2*2, *1*3, *2*3 and *3*3 subjects, respectively, as compared to *1*1 subjects (see Table 4) (see sections 4.2 and 4.4).
 
 There are other less frequent occurring polymorphisms for CYP2C9. The pharmacokinetics of siponimod have not been evaluated in such subjects. Some polymorphisms such as *5, *6, *8 and *11 are associated with decreased or loss of enzyme function. It is estimated that CYP2C9 *5, *6, *8 and *11 alleles have a combined frequency of approximately 10% in populations with African ancestry, 2% in Latinos/Hispanics and &lt;0.4% in Caucasians and Asians.
-
-<div style=\"page-break-after: always\"></div>
 
 Table 4 CYP2C9 genotype effect on siponimod CL/F and systemic exposure
 
@@ -704,6 +696,8 @@ Results from population pharmacokinetics suggest that dose adjustment is not nec
 
 Results from population pharmacokinetics suggest that gender-based dose adjustment is not necessary.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Race/Ethnicity
 
 The single-dose pharmacokinetic parameters were not different between Japanese and Caucasian healthy subjects, indicating absence of ethnic sensitivity on the pharmacokinetics of siponimod.
@@ -724,8 +718,6 @@ Dose-limiting toxicities in animal species were nephrotoxicity in mice, body wei
 
 Siponimod did not exert any phototoxic or dependence potential and was not genotoxic in vitro and in vivo .
 
-<div style=\"page-break-after: always\"></div>
-
 ## Carcinogenicity
 
 In carcinogenicity investigations, siponimod induced lymphoma, haemangioma and haemangiosarcoma in mice, whereas follicular adenoma and carcinoma of the thyroid gland were identified in male rats. These tumour findings were either regarded as mouse-specific or attributable to metabolic liver adaptations in the particularly sensitive rat species and are of questionable human relevance.
@@ -737,6 +729,8 @@ Siponimod did not affect male and female fertility in rats up to the highest dos
 The receptor affected by siponimod (sphinosine-1-phosphate receptor) is known to be involved in vascular formation during embryogenesis.
 
 In embryofoetal development studies conducted in rats and rabbits, siponimod induced embryotoxic effects in the absence of maternal toxicity. In both species, prenatal mortality was increased. While in rats a higher number of foetuses with external, skeletal and visceral malformations (e.g. cleft palate and misshapen clavicles, cardiomegaly and oedema) were noted, in rabbit foetuses skeletal and visceral variations were predominantly observed.
+
+<div style=\"page-break-after: always\"></div>
 
 In the prenatal and postnatal development study performed in rats, there was in increased number of dead (stillborn or found dead before postnatal day 4) and malformed pups (male pups with urogenital malformations and/or decreased anogenital distance; pups of both sexes with oedema, swollen soft cranium, or flexed hindlimbs).
 
@@ -756,8 +750,6 @@ Lactose monohydrate Microcrystalline cellulose Crospovidone Glycerol dibehenate 
 
 Polyvinyl alcohol Titanium dioxide (E171) Red iron oxide (E172) Black iron oxide (E172) Talc Soya lecithin Xanthan gum
 
-<div style=\"page-break-after: always\"></div>
-
 ## Mayzent 1 mg film-coated tablets
 
 ## Tablet core
@@ -767,6 +759,8 @@ Lactose monohydrate Microcrystalline cellulose Crospovidone Glycerol dibehenate 
 ## Tablet coating
 
 Polyvinyl alcohol Titanium dioxide (E171) Red iron oxide (E172) Black iron oxide (E172) Talc Soya lecithin Xanthan gum
+
+<div style=\"page-break-after: always\"></div>
 
 ## Mayzent 2 mg film-coated tablets
 
@@ -790,11 +784,9 @@ Not applicable.
 
 Do not store above 25°C.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 6.5 Nature and contents of container
 
-## Mayzent 0.25 mg film-coated tablets
+Mayzent 0.25 mg film-coated tablets
 
 Titration packs of 12 film-coated tablets in PA/alu/PVC/alu blister in wallet. Packs of 84 or 120 film-coated tablets in PA/alu/PVC/alu blisters.
 
@@ -812,15 +804,15 @@ Not all pack sizes may be marketed.
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Novartis Europharm Limited
-
-Vista Building Elm Park, Merrion Road Dublin 4 Ireland
+Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Ireland
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-Mayzent 0.25 mg film-coated tablets
+## Mayzent 0.25 mg film-coated tablets
 
 EU/1/19/1414/001
 
@@ -841,8 +833,6 @@ EU/1/19/1414/003
 EU/1/19/1414/005
 
 EU/1/19/1414/006
-
-<div style=\"page-break-after: always\"></div>
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -871,9 +861,9 @@ Name and address of the manufacturer(s) responsible for batch release
 
 Novartis Farmacéutica, S.A. Gran Via de les Corts Catalanes, 764 08013 Barcelona Spain
 
-Novartis Pharma GmbH Roonstrasse 25 D-90429 Nuremberg Germany
-
 Novartis Pharma GmbH Sophie-Germain-Strasse 10 90443 Nuremberg Germany
+
+Novartis Pharmaceutical Manufacturing LLC Verovškova Ulica 57 1000 Ljubljana Slovenia
 
 The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.
 
@@ -924,7 +914,9 @@ The P hysician's Checklist shall contain the following key messages:
 - If a titration dose is missed on one day during the first 6 days of treatment, treatment must be re-initiated with a new titration pack.
 - If the maintenance dose is interrupted for 4 or more consecutive daily doses, treatment must be re-initiated with a new titration pack.
 - Monitoring requirements at treatment initiation:
-- Prior to initiating treatment:
+
+## Prior to initiating treatment:
+
 - o Perform vitals and baseline ECG prior to the first dose of siponimod in patients with sinus bradycardia (heart rate [HR] &lt;55 bpm), history of first- or second-degree [Mobitz type I] AV block, or a history of myocardial infarction or heart failure (patients with NYHA class I and II).
 
 ## Until 6 hours after first dose:
@@ -935,17 +927,20 @@ The P hysician's Checklist shall contain the following key messages:
 ## Extended observation (&gt;6 hours after first dose):
 
 - o If, at the 6-hour time point, the heart rate is at the lowest value following the first dose, extend heart rate monitoring for at least 2 more hours and until the heart rate increases again.
+- o Extend heart rate monitoring for at least overnight in a medical facility and until resolution of findings in patients requiring pharmacological intervention during
 
 <div style=\"page-break-after: always\"></div>
 
-- o Extend heart rate monitoring for at least overnight in a medical facility and until resolution of findings in patients requiring pharmacological intervention during monitoring at treatment initiation/re-initiation. Repeat the first-dose monitoring after the second dose of siponimod.
+monitoring at treatment initiation/re-initiation. Repeat the first-dose monitoring after the second dose of siponimod.
+
 - o Appropriate management should be initiated and observation continued until the symptoms/findings have resolved if the following events are observed:
 - a. New onset third-degree AV block occurring at any time
 - b. Where at the 6-hour time point the ECG shows: New onset second-degree or higher AV block , or QTc interval ≥500 msec
 
 If pharmacological treatment is required, monitoring should be continued overnight and 6-hour monitoring should be repeated after the second dose.
 
-- Mayzent is contraindicated in:
+## · Mayzent is contraindicated in:
+
 - Patients who, in the previous 6 months, had a myocardial infarction, unstable angina pectoris, stroke/transient ischaemic attack (TIA), decompensated heart failure (requiring in-patient treatment), or New York Heart Association (NYHA) class III/IV heart failure.
 - Patients with a history of second-degree Mobitz type II atrioventricular (AV) block, third-degree AV block, sino-atrial heart block or sick sinus syndrome, if they do not wear a pacemaker.
 - Mayzent is not recommended in:
@@ -962,10 +957,10 @@ If pharmacological treatment is required, monitoring should be continued overnig
 - Before starting siponimod, test for antibodies to varicella zoster virus (VZV) in patients without a physician-confirmed history of varicella or without documentation of a full course of vaccination against VZV. If tested negative, vaccination is recommended and treatment with siponimod should be postponed for 1 month to allow the full effect of vaccination to occur.
 - Siponimod is contraindicated in patients with immunodeficiency syndrome.
 - Siponimod is contraindicated in patients with history of progressive multifocal leukoencephalopathy or cryptococcal meningitis.
+- Do not initiate siponimod treatment in patients with severe active infection until infection is resolved.
 
 <div style=\"page-break-after: always\"></div>
 
-- Do not initiate siponimod treatment in patients with severe active infection until infection is resolved.
 - Exercise caution when administering concomitant treatment with anti-neoplastic, immune-modulating or immunosuppressive therapies (including corticosteroids) due to the risk of additive immune system effects.
 - Patients should be instructed to report signs and symptoms of infections immediately to their prescriber during and for up to one month after treatment with siponimod.
 - Monitor patients carefully for signs and symptoms of infections during and after treatment with siponimod:
@@ -986,10 +981,10 @@ If pharmacological treatment is required, monitoring should be continued overnig
 - Women of childbearing potential must use effective contraception during treatment and for at least 10 days following discontinuation of treatment with siponimod.
 - Siponimod should be stopped at least 10 days before a pregnancy is planned. When stopping siponimod for planning a pregnancy the possible return of disease activity should be considered.
 - Counsel the patient in case of inadvertent pregnancy.
+- If a woman becomes pregnant while on treatment with siponimod, treatment must be discontinued. Pregnant women should be advised of potential serious risks to the foetus, and ultrasonography examinations should be performed.
 
 <div style=\"page-break-after: always\"></div>
 
-- If a woman becomes pregnant while on treatment with siponimod, treatment must be discontinued. Pregnant women should be advised of potential serious risks to the foetus, and ultrasonography examinations should be performed.
 - Should a pregnancy occur during treatment or within 10 days following discontinuation of treatment with siponimod, please report it to Novartis by calling [insert local number] or visiting [insert URL], irrespective of adverse outcomes observed.
 - Novartis has put in place a PRegnancy outcomes Intensive Monitoring (PRIM) programme, which is a registry based on enhanced follow-up mechanisms to collect information about pregnancy in patients exposed to siponimod immediately before or during pregnancy and on infant outcomes 12 months post-delivery.
 - Other reminders:
@@ -1012,10 +1007,10 @@ The Patient/Caregiver Guide shall contain the following key messages:
 - Before starting treatment, a DNA sample via blood or saliva (buccal swab) is taken to determine the CYP2C9 genotype to help determine appropriate dosing of siponimod. In certain cases the patient may not receive treatment with siponimod due to specific CYP2C9 genotype status.
 - Patients need to have chickenpox vaccination 1 month before starting siponimod treatment, if the patient is not protected against the virus.
 - Siponimod is not recommended in patients with cardiac disease or taking concomitant medicines known to decrease heart rate. Patients should tell any doctor they see that they are being treated with siponimod.
+- For patients with certain heart problems, an ECG before initiating treatment with siponimod will be needed. The need for observation (including an ECG monitoring) for 6 hours in a clinic after the first dose of siponimod on day 1, if the patient has heart problems. Information that the monitoring may need to extend overnight, if the patient experiences symptoms during the first 6 hours.
 
 <div style=\"page-break-after: always\"></div>
 
-- For patients with certain heart problems, an ECG before initiating treatment with siponimod will be needed. The need for observation (including an ECG monitoring) for 6 hours in a clinic after the first dose of siponimod on day 1, if the patient has heart problems. Information that the monitoring may need to extend overnight, if the patient experiences symptoms during the first 6 hours.
 - Patients should report immediately symptoms indicating low heart rate (such as dizziness, vertigo, nausea or palpitations) after the first dose of siponimod and during the titration period.
 - Before starting treatment patients should provide a recent complete blood count. Assessments of CBC are also recommended 3 to 4 months after treatment initiation and at least yearly thereafter, and in case of signs of infection.
 - The signs and symptoms of infection during, and up to one month after treatment with siponimod need to be reported immediately to the prescriber, including the following:
@@ -1107,25 +1102,17 @@ Keep out of the sight and reach of children.
 
 EXP
 
+<div style=\"page-break-after: always\"></div>
+
 ## 9. SPECIAL STORAGE CONDITIONS
 
 Do not store above 25°C.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Novartis Europharm Limited
-
-Vista Building
-
-Elm Park, Merrion Road
-
-Dublin 4
-
-Ireland
+Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1147,7 +1134,7 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-## 15. INSTRUCTIONS ON USE
+15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -1185,7 +1172,7 @@ Contains lactose and soya lecithin. See leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-Film-coated tablet
+## Film-coated tablet
 
 Titration pack
 
@@ -1193,7 +1180,7 @@ Titration pack
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-Read the package leaflet before use.
+## Read the package leaflet before use.
 
 Oral use
 
@@ -1221,44 +1208,35 @@ Keep out of the sight and reach of children.
 
 EXP
 
-<div style=\"page-break-after: always\"></div>
-
-| 9.   | SPECIAL STORAGE CONDITIONS   |
-|------|------------------------------|
+## 9. SPECIAL STORAGE CONDITIONS
 
 Do not store above 25°C.
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROMSUCHMEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|---------------------------------------------------------------------------------------------------------------------------------------|
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
-| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|--------------------------------------------------------|
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
 Novartis Europharm Limited
 
-| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
-|-------|-------------------------------------|
+## 12. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/19/1414/001
 
-| 13.   | BATCH NUMBER   |
-|-------|----------------|
+13. BATCH NUMBER
 
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-| 15.   | INSTRUCTIONS ON USE   |
-|-------|-----------------------|
+15. INSTRUCTIONS ON USE
 
-| 16.   | INFORMATION IN BRAILLE   |
-|-------|--------------------------|
+16. INFORMATION IN BRAILLE
 
-| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
-|-------|----------------------------------|
+17. UNIQUE IDENTIFIER - 2D BARCODE
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+
+<div style=\"page-break-after: always\"></div>
 
 ## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
 
@@ -1302,11 +1280,11 @@ Contains lactose and soya lecithin. See leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-Film-coated tablet
+## Film-coated tablet
 
-28 film-coated tablets
+- 28 film-coated tablets
 
-98 film-coated tablets
+- 98 film-coated tablets
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -1352,8 +1330,7 @@ EU/1/19/1414/008
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
-
+14. GENERAL CLASSIFICATION FOR SUPPLY
 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
@@ -1366,11 +1343,11 @@ Mayzent 1 mg
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC SN
+PC
+
+SN
 
 NN
-
-<div style=\"page-break-after: always\"></div>
 
 ## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
 
@@ -1422,6 +1399,8 @@ Sat.
 
 Sun.
 
+<div style=\"page-break-after: always\"></div>
+
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
 ## CARTON OF UNIT PACK
@@ -1450,9 +1429,7 @@ Contains lactose and soya lecithin. See leaflet for further information.
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-Read the package leaflet before use.
-
-Oral use
+Read the package leaflet before use. Oral use
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -1472,14 +1449,11 @@ Do not store above 25°C.
 
 <div style=\"page-break-after: always\"></div>
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROMSUCHMEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|---------------------------------------------------------------------------------------------------------------------------------------|
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Novartis Europharm Limited
-
-Vista Building Elm Park, Merrion Road Dublin 4 Ireland
+Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1501,7 +1475,7 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -1518,8 +1492,6 @@ PC
 SN
 
 NN
-
-<div style=\"page-break-after: always\"></div>
 
 ## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
 
@@ -1573,11 +1545,13 @@ Sun.
 
 <div style=\"page-break-after: always\"></div>
 
+<div style=\"page-break-after: always\"></div>
+
 ## B. PACKAGE LEAFLET
 
-## Package leaflet: Information for the patient
-
 <div style=\"page-break-after: always\"></div>
+
+## Package leaflet: Information for the patient
 
 ## Mayzent 0.25 mg film-coated tablets Mayzent 1 mg film-coated tablets Mayzent 2 mg film-coated tablets
 
@@ -1657,10 +1631,12 @@ If any of the above applies to you, tell your doctor before taking Mayzent.
 If you get any of the following while taking Mayzent, tell your doctor immediately because it could be serious:
 
 - if you have an infection. Mayzent lowers the number of white cells in your blood. White blood cells fight infection, so you may get infections more easily while you are taking Mayzent (and up to 3 to 4 weeks after you stop taking it). These could be serious and possibly even life-threatening.
+- if you think your multiple sclerosis (MS) is getting worse or if you notice any new or unusual symptoms. A rare brain infection called progressive multifocal leukoencephalopathy (PML) can cause symptoms similar to SPMS. It can occur in patients taking medicines like Mayzent and other medicines used for treating MS. If PML is confirmed, your doctor will stop treatment with Mayzent. Some people can get a reaction as Mayzent is removed from the body. This reaction
 
 <div style=\"page-break-after: always\"></div>
 
-- if you think your multiple sclerosis (MS) is getting worse or if you notice any new or unusual symptoms. A rare brain infection called progressive multifocal leukoencephalopathy (PML) can cause symptoms similar to SPMS. It can occur in patients taking medicines like Mayzent and other medicines used for treating MS. If PML is confirmed, your doctor will stop treatment with Mayzent. Some people can get a reaction as Mayzent is removed from the body. This reaction (known as immune reconstitution inflammatory syndrome or IRIS) may lead to your condition getting worse, including worsening of brain function.
+(known as immune reconstitution inflammatory syndrome or IRIS) may lead to your condition getting worse, including worsening of brain function.
+
 - if you have fever, feel like you have flu or have a headache together with a stiff neck, sensitivity to light, nausea or confusion. These may be symptoms of meningitis and/or encephalitis caused by a viral or fungal infection (such as cryptococcal meningitis).
 - if you have changes in your vision, for example if the centre of your vision becomes blurred or has shadows, a blind spot develops in the centre of your vision, or you have problems seeing colours or fine detail. These may be symptoms of macular oedema. You may not notice any symptoms in the early stages of macular oedema, and it can cause some of the same visual symptoms as an MS attack (optic neuritis). Your doctor may want you to have an eye examination 3 or 4 months after starting treatment and possibly again later. If macular oedema is confirmed, your doctor may advise you to stop Mayzent treatment.
 - if you have symptoms such as sudden onset of severe headache, confusion, seizures and vision changes. These may be symptoms of a condition called posterior reversible encephalopathy syndrome (PRES).
@@ -1683,11 +1659,11 @@ Before you start Mayzent, your doctor will confirm whether you have enough white
 
 Before the start of treatment your blood will also be tested to check how well your liver is working.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Skin cancer
 
 Skin cancers have been reported in MS patients treated with Mayzent. Talk to your doctor straight away if you notice any skin nodules (e.g. shiny pearly nodules), patches or open sores that do not heal within weeks. Symptoms of skin cancer may include abnormal growth or changes of skin tissue (e.g. unusual moles) with a change in colour, shape or size over time. Before you start Mayzent, a skin examination is required to check whether you have any skin nodules. Your doctor will also carry out regular skin examinations during your treatment with Mayzent. If you develop problems with your skin, your doctor may refer you to a dermatologist, who after consultation may decide that it is important for you to be seen on a regular basis.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Exposure to the sun and protection against the sun
 
@@ -1721,10 +1697,9 @@ Tell your doctor or pharmacist if you are taking, have recently taken or might t
 - strong CYP2C9 inhibitors are anticipated to increase the levels of Mayzent in the blood and are not recommended to be taken in combination with Mayzent. Your doctor will advise you on this.
 - carbamazepine and certain other medicines can lower the levels of Mayzent in your blood and can therefore stop it from working properly. Your doctor will advise you on this.
 - modafinil and certain other medicines can lower the levels of Mayzent in the blood of certain patients and can therefore stop it from working properly. Your doctor will advise you on this if this is relevant for you.
+- phototherapy with UV radiation or PUVA photochemotherapy. UV therapy during Mayzent treatment may increase your risk of developing skin cancer.
 
 <div style=\"page-break-after: always\"></div>
-
-- phototherapy with UV radiation or PUVA photochemotherapy. UV therapy during Mayzent treatment may increase your risk of developing skin cancer.
 
 ## Pregnancy, breast-feeding and fertility
 
@@ -1848,6 +1823,8 @@ Other side effects include those listed below. If any of these side effects beco
 - high blood pressure (hypertension), sometimes with symptoms such as headache and dizziness
 - blood test results showing increased liver enzyme levels
 
+<div style=\"page-break-after: always\"></div>
+
 ## Common (may affect up to 1 in 10 people)
 
 - new moles
@@ -1855,9 +1832,6 @@ Other side effects include those listed below. If any of these side effects beco
 - involuntary shaking of the body (tremor)
 - diarrhoea
 - feeling sick (nausea)
-
-<div style=\"page-break-after: always\"></div>
-
 - pain in hands or feet
 - swollen hands, ankles, legs or feet (peripheral oedema)
 - weakness (asthenia)
@@ -1888,11 +1862,13 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 ## Mayzent 0.25 mg film-coated tablets
 
 - Each tablet contains 0.25 mg siponimod (as siponimod fumaric acid).
-- •
+- ·
+
+The other ingredients are: Tablet core: Lactose monohydrate (see 'Mayzent contains lactose and soya lecithin ' in section 2), microcrystalline cellulose, crospovidone, glycerol dibehenate, colloidal anhydrous silica. 2),
 
 Tablet coating: Polyvinyl alcohol, titanium dioxide (E171), red iron oxide (E172), black iron oxide (E172), talc, soya lecithin (see 'Mayzent contains lactose and soya lecithin ' in section xanthan gum.
 
-The other ingredients are: Tablet core: Lactose monohydrate (see 'Mayzent contains lactose and soya lecithin ' in section 2), microcrystalline cellulose, crospovidone, glycerol dibehenate, colloidal anhydrous silica. 2),
+<div style=\"page-break-after: always\"></div>
 
 ## Mayzent 1 mg film-coated tablets
 
@@ -1902,8 +1878,6 @@ The other ingredients are: Tablet core: Lactose monohydrate (see 'Mayzent contai
 Tablet core: Lactose monohydrate (see 'Mayzent contains lactose and soya lecithin ' in section 2), microcrystalline cellulose, crospovidone, glycerol dibehenate, colloidal anhydrous silica.
 
 Tablet coating: Polyvinyl alcohol, titanium dioxide (E171), red iron oxide (E172), black iron oxide (E172), talc, soya lecithin (see 'Mayzent contains lactose and soya lecithin ' in section 2), xanthan gum.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Mayzent 2 mg film-coated tablets
 
@@ -1941,21 +1915,27 @@ Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Irelan
 
 Novartis Farmacéutica, S.A. Gran Via de les Corts Catalanes, 764 08013 Barcelona Spain
 
-Novartis Pharma GmbH Roonstrasse 25 D-90429 Nuremberg Germany
-
-Novartis Pharma GmbH Sophie-Germain-Strasse 10 90443 Nuremberg Germany
+Novartis Pharma GmbH Sophie-Germain-Strasse 10 90443 Nuremberg Germany Novartis Pharmaceutical Manufacturing LLC Verovškova Ulica 57 1000 Ljubljana Slovenia For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 <div style=\"page-break-after: always\"></div>
 
-For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
-
 ## België/Belgique/Belgien
 
-Novartis Pharma N.V. Tél/Tel: +32 2 246 16 11
+## Lietuva
+
+Novartis Pharma N.V.
+
+Tél/Tel: +32 2 246 16 11
+
+SIA Novartis Baltics Lietuvos filialas Tel: +370 5 269 16 50
 
 ## България
 
 Novartis Bulgaria EOOD Тел: +359 2 489 98 28
+
+## Luxembourg/Luxemburg
+
+Novartis Pharma N.V. Tél/Tel: +32 2 246 16 11
 
 ## Česká republika
 
@@ -1963,105 +1943,97 @@ Novartis s.r.o.
 
 Tel: +420 225 775 111
 
+## Magyarország
+
+Novartis Hungária Kft.
+
+Tel.: +36 1 457 65 00
+
 ## Danmark
 
 Novartis Healthcare A/S Tlf.: +45 39 16 84 00
+
+## Malta
+
+Novartis Pharma Services Inc. Tel: +356 2122 2872
 
 ## Deutschland
 
 Novartis Pharma GmbH Tel: +49 911 273 0
 
+## Nederland
+
+Novartis Pharma B.V. Tel: +31 88 04 52 111
+
 ## Eesti
 
-SIA Novartis Baltics Eesti filiaal
+SIA Novartis Baltics Eesti filiaal Tel: +372 66 30 810
 
-Tel: +372 66 30 810
+## Norge
+
+Novartis Norge AS Tlf: +47 23 05 20 00
 
 ## Ελλάδα
 
 Novartis (Hellas) A.E.B.E. Τηλ : +30 210 281 17 12
 
+## Österreich
+
+Novartis Pharma GmbH
+
+Tel: +43 1 86 6570
+
 ## España
 
 Novartis Farmacéutica, S.A. Tel: +34 93 306 42 00
+
+## Polska
+
+Novartis Poland Sp. z o.o. Tel.: +48 22 375 4888
 
 ## France
 
 Novartis Pharma S.A.S. Tél: +33 1 55 47 66 00
 
+## Portugal
+
+Novartis Farma - Produtos Farmacêuticos, S.A. Tel: +351 21 000 8600
+
 ## Hrvatska
 
 Novartis Hrvatska d.o.o. Tel. +385 1 6274 220
+
+## România
+
+Novartis Pharma Services Romania SRL Tel: +40 21 31299 01
 
 ## Ireland
 
 Novartis Ireland Limited Tel: +353 1 260 12 55
 
+## Slovenija
+
+Novartis Pharma Services Inc. Tel: +386 1 300 75 50
+
 ## Ísland
 
-Vistor hf. Sími: +354 535 7000
+Vistor hf.
+
+Sími: +354 535 7000
+
+## Slovenská republika
+
+Novartis Slovakia s.r.o.
+
+Tel: +421 2 5542 5439
+
+<div style=\"page-break-after: always\"></div>
 
 ## Italia
 
 Novartis Farma S.p.A.
 
 Tel: +39 02 96 54 1
-
-## Lietuva
-
-SIA Novartis Baltics Lietuvos filialas Tel: +370 5 269 16 50
-
-## Luxembourg/Luxemburg
-
-Novartis Pharma N.V. Tél/Tel: +32 2 246 16 11
-
-## Magyarország
-
-Novartis Hungária Kft. Tel.: +36 1 457 65 00
-
-## Malta
-
-Novartis Pharma Services Inc. Tel: +356 2122 2872
-
-## Nederland
-
-Novartis Pharma B.V. Tel: +31 88 04 52 111
-
-## Norge
-
-Novartis Norge AS Tlf: +47 23 05 20 00
-
-## Österreich
-
-Novartis Pharma GmbH Tel: +43 1 86 6570
-
-## Polska
-
-Novartis Poland Sp. z o.o. Tel.: +48 22 375 4888
-
-## Portugal
-
-Novartis Farma - Produtos Farmacêuticos, S.A. Tel: +351 21 000 8600
-
-## România
-
-Novartis Pharma Services Romania SRL Tel: +40 21 31299 01
-
-## Slovenija
-
-Novartis Pharma Services Inc. Tel: +386 1 300 75 50
-
-## Slovenská republika
-
-Novartis Slovakia s.r.o. Tel: +421 2 5542 5439
-
-## Suomi/Finland
-
-Novartis Finland Oy
-
-Puh/Tel: +358 (0)10 6133 200
-
-<div style=\"page-break-after: always\"></div>
 
 ## Κύπρος
 
@@ -2080,6 +2052,12 @@ Tel: +371 67 887 070
 ## Other sources of information
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
+
+## Suomi/Finland
+
+Novartis Finland Oy
+
+Puh/Tel: +358 (0)10 6133 200
 
 ## Sverige
 

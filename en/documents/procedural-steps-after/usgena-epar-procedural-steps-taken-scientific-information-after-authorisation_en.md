@@ -4,8 +4,8 @@ document_pages: 4
 document_pathfilename: www.ema.europa.eu/en/documents/procedural-steps-after/usgena-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
 document_name: usgena-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
 version: success
-processing_time: 1.9590291
-conversion_datetime: 2026-05-10 13:12:46.524045
+processing_time: 1.9901573
+conversion_datetime: 2026-05-10 13:24:09.699082
 docling_version:
   docling-serve: 1.17.0
   docling-jobkit: 1.18.0

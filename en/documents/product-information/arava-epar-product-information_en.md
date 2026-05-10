@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-10-17 11:26:08
+document_datetime: 2026-05-08 12:50:57
 document_pages: 99
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/arava-epar-product-information_en.pdf
 document_name: arava-epar-product-information_en.pdf
 version: success
-processing_time: 19.0952098
-conversion_datetime: 2025-12-19 10:35:51.102606
+processing_time: 22.8127863
+conversion_datetime: 2026-05-10 12:17:32.414796
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.17.0
+  docling-jobkit: 1.18.0
+  docling: 2.92.0
+  docling-core: 2.74.1
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.10.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -107,11 +107,9 @@ Arava tablets are for oral use. The tablets should be swallowed whole with suffi
 
 Concomitant administration of hepatotoxic or haematotoxic DMARDs (e.g. methotrexate) is not advisable.
 
-The active metabolite of leflunomide, A771726, has a long half-life, usually 1 to 4 weeks. Serious undesirable effects might occur (e.g. hepatotoxicity, haematotoxicity or allergic reactions, see below),
+The active metabolite of leflunomide, A771726, has a long half-life, usually 1 to 4 weeks. Serious undesirable effects might occur (e.g. hepatotoxicity, haematotoxicity or allergic reactions, see below), even if the treatment with leflunomide has been stopped. Therefore, when such toxicities occur or if for any other reason A771726 needs to be cleared rapidly from the body, the washout procedure has to be followed. The procedure may be repeated as clinically necessary.
 
 <div style=\"page-break-after: always\"></div>
-
-even if the treatment with leflunomide has been stopped. Therefore, when such toxicities occur or if for any other reason A771726 needs to be cleared rapidly from the body, the washout procedure has to be followed. The procedure may be repeated as clinically necessary.
 
 For washout procedures and other recommended actions in case of desired or unintended pregnancy, see section 4.6.
 
@@ -267,11 +265,9 @@ Repeated doses of A771726 decreased mean Cmax and AUC of caffeine (CYP1A2 substr
 
 There was an increase in mean cefaclor Cmax and AUC (1.43- and 1.54-fold, respectively), following repeated doses of A771726, suggesting that A771726 is an inhibitor of OAT3 in vivo . Therefore, when co-administered with substrates of OAT3, such as cefaclor, benzylpenicillin, ciprofloxacin, indomethacin, ketoprofen, furosemide, cimetidine, methotrexate, zidovudine, caution is recommended.
 
-Effect on BCRP (Breast Cancer Resistance Protein) and /or organic anion transporting polypeptide B1 and B3 (OATP1B1/B3) substrates
+Effect on BCRP (Breast Cancer Resistance Protein) and /or organic anion transporting polypeptide B1 and B3 (OATP1B1/B3) substrates There was an increase in mean rosuvastatin Cmax and AUC (2.65- and 2.51-fold, respectively), following repeated doses of A771726. However, there was no apparent impact of this increase in plasma rosuvastatin exposure on the HMG-CoA reductase activity. If used together, the dose of rosuvastatin should not exceed 10 mg once daily. For other substrates of BCRP (e.g., methotrexate, topotecan, sulfasalazine, daunorubicin, doxorubicin) and the OATP family especially HMG-CoA reductase inhibitors (e.g., simvastatin, atorvastatin, pravastatin, methotrexate, nateglinide, repaglinide, rifampicin) concomitant administration should also be undertaken with caution. Patients should be closely monitored for signs and symptoms of excessive exposure to the medicinal products and reduction of the dose of these medicinal products should be considered.
 
 <div style=\"page-break-after: always\"></div>
-
-There was an increase in mean rosuvastatin Cmax and AUC (2.65- and 2.51-fold, respectively), following repeated doses of A771726. However, there was no apparent impact of this increase in plasma rosuvastatin exposure on the HMG-CoA reductase activity. If used together, the dose of rosuvastatin should not exceed 10 mg once daily. For other substrates of BCRP (e.g., methotrexate, topotecan, sulfasalazine, daunorubicin, doxorubicin) and the OATP family especially HMG-CoA reductase inhibitors (e.g., simvastatin, atorvastatin, pravastatin, methotrexate, nateglinide, repaglinide, rifampicin) concomitant administration should also be undertaken with caution. Patients should be closely monitored for signs and symptoms of excessive exposure to the medicinal products and reduction of the dose of these medicinal products should be considered.
 
 Effect on oral contraceptive (0.03 mg ethinylestradiol and 0.15 mg levonorgestrel) There was an increase in mean ethinylestradiol Cmax and AUC0-24 (1.58- and 1.54-fold, respectively) and levonorgestrel Cmax and AUC0-24 (1.33- and 1.41-fold, respectively) following repeated doses of A771726. While this interaction is not expected to adversely impact the efficacy of oral contraceptives, consideration should be given to the type of oral contraceptive treatment.
 
@@ -462,7 +458,9 @@ Rare:
 
 Very rare:
 
-hepatitis, jaundice/cholestasis severe liver injury such as hepatic failure and acute hepatic necrosis that may be fatal
+hepatitis, jaundice/cholestasis
+
+severe liver injury such as hepatic failure and acute hepatic necrosis that may be fatal
 
 ## Skin and subcutaneous tissue disorders
 
@@ -795,11 +793,9 @@ Arava tablets are for oral use. The tablets should be swallowed whole with suffi
 
 Concomitant administration of hepatotoxic or haematotoxic DMARDs (e.g. methotrexate) is not advisable.
 
-The active metabolite of leflunomide, A771726, has a long half-life, usually 1 to 4 weeks. Serious able effects might occur (e.g. hepatotoxicity, haematotoxicity or allergic reactions, see below), even if the treatment with leflunomide has been stopped. Therefore, when such toxicities occur or if for any
+The active metabolite of leflunomide, A771726, has a long half-life, usually 1 to 4 weeks. Serious able effects might occur (e.g. hepatotoxicity, haematotoxicity or allergic reactions, see below), even if the treatment with leflunomide has been stopped. Therefore, when such toxicities occur or if for any other reason A771726 needs to be cleared rapidly from the body, the washout procedure has to be followed. The procedure may be repeated as clinically necessary.
 
 <div style=\"page-break-after: always\"></div>
-
-other reason A771726 needs to be cleared rapidly from the body, the washout procedure has to be followed. The procedure may be repeated as clinically necessary.
 
 For washout procedures and other recommended actions in case of desired or unintended pregnancy, see section 4.6.
 
@@ -953,11 +949,9 @@ Repeated doses of A771726 decreased mean Cmax and AUC of caffeine (CYP1A2 substr
 
 There was an increase in mean cefaclor Cmax and AUC (1.43- and 1.54-fold, respectively), following repeated doses of A771726, suggesting that A771726 is an inhibitor of OAT3 in vivo . Therefore, when co-administered with substrates of OAT3, such as cefaclor, benzylpenicillin, ciprofloxacin, indomethacin, ketoprofen, furosemide, cimetidine, methotrexate, zidovudine, caution is recommended.
 
-Effect on BCRP (Breast Cancer Resistance Protein) and /or organic anion transporting polypeptide B1 and B3 (OATP1B1/B3) substrates
+Effect on BCRP (Breast Cancer Resistance Protein) and /or organic anion transporting polypeptide B1 and B3 (OATP1B1/B3) substrates There was an increase in mean rosuvastatin Cmax and AUC (2.65- and 2.51-fold, respectively), following repeated doses of A771726. However, there was no apparent impact of this increase in plasma rosuvastatin exposure on the HMG-CoA reductase activity. If used together, the dose of rosuvastatin should not exceed 10 mg once daily. For other substrates of BCRP (e.g., methotrexate, topotecan, sulfasalazine, daunorubicin, doxorubicin) and the OATP family especially HMG-CoA reductase inhibitors (e.g., simvastatin, atorvastatin, pravastatin, methotrexate, nateglinide, repaglinide, rifampicin) concomitant administration should also be undertaken with caution. Patients should be closely monitored for signs and symptoms of excessive exposure to the medicinal products and reduction of the dose of these medicinal products should be considered.
 
 <div style=\"page-break-after: always\"></div>
-
-There was an increase in mean rosuvastatin Cmax and AUC (2.65- and 2.51-fold, respectively), following repeated doses of A771726. However, there was no apparent impact of this increase in plasma rosuvastatin exposure on the HMG-CoA reductase activity. If used together, the dose of rosuvastatin should not exceed 10 mg once daily. For other substrates of BCRP (e.g., methotrexate, topotecan, sulfasalazine, daunorubicin, doxorubicin) and the OATP family especially HMG-CoA reductase inhibitors (e.g., simvastatin, atorvastatin, pravastatin, methotrexate, nateglinide, repaglinide, rifampicin) concomitant administration should also be undertaken with caution. Patients should be closely monitored for signs and symptoms of excessive exposure to the medicinal products and reduction of the dose of these medicinal products should be considered.
 
 Effect on oral contraceptive (0.03 mg ethinylestradiol and 0.15 mg levonorgestrel) There was an increase in mean ethinylestradiol Cmax and AUC0-24 (1.58- and 1.54-fold, respectively) and levonorgestrel Cmax and AUC0-24 (1.33- and 1.41-fold, respectively) following repeated doses of A771726. While this interaction is not expected to adversely impact the efficacy of oral contraceptives, consideration should be given to the type of oral contraceptive treatment.
 
@@ -1236,9 +1230,7 @@ A771726, the active metabolite of leflunomide, inhibits the human enzyme dihydro
 
 The efficacy of Arava in the treatment of rheumatoid arthritis was demonstrated in 4 controlled trials (1 in phase II and 3 in phase III). The phase II trial, study YU203, randomised 402 subjects with active rheumatoid arthritis to placebo (n=102), leflunomide 5 mg (n=95), 10 mg (n=101) or 25 mg/day (n=104). The treatment duration was 6 months.
 
-All leflunomide patients in the phase III trials used an initial dose of 100 mg for 3 days.
-
-Study MN301 randomised 358 subjects with active rheumatoid arthritis to leflunomide 20 mg/day (n=133), sulphasalazine 2 g/day (n=133), or placebo (n=92). Treatment duration was 6 months.
+All leflunomide patients in the phase III trials used an initial dose of 100 mg for 3 days. Study MN301 randomised 358 subjects with active rheumatoid arthritis to leflunomide 20 mg/day (n=133), sulphasalazine 2 g/day (n=133), or placebo (n=92). Treatment duration was 6 months.
 
 Study MN303 was an optional 6-month blinded continuation of MN301 without the placebo arm, resulting in a 12-month comparison of leflunomide and sulphasalazine.
 
@@ -1246,11 +1238,9 @@ Study MN302 randomised 999 subjects with active rheumatoid arthritis to leflunom
 
 Study US301 randomised 482 subjects with active rheumatoid arthritis to leflunomide 20 mg/day (n=182), methotrexate 7.5 mg/week increasing to 15 mg/week (n=182), or placebo (n=118). All patients received folate 1 mg bid. Treatment duration was 12 months.
 
-Leflunomide at a daily dose of at least 10 mg (10 to 25 mg in study YU203, 20 mg in studies MN301 and US301) was statistically significantly superior to placebo in reducing the signs and symptoms of
+Leflunomide at a daily dose of at least 10 mg (10 to 25 mg in study YU203, 20 mg in studies MN301 and US301) was statistically significantly superior to placebo in reducing the signs and symptoms of rheumatoid arthritis in all 3 placebo-controlled trials. The ACR (American College of Rheumatology) response rates in study YU203 were 27.7% for placebo, 31.9% for 5 mg, 50.5% for 10 mg and 54.5% for 25 mg/day. In the phase III trials, the ACR response rates for leflunomide 20 mg/day versus placebo were 54.6% versus 28.6% (study MN301), and 49.4% versus 26.3% (study US301).After 12 months with active treatment, the ACR response rates in leflunomide patients were 52.3% (studies MN301/303), 50.5% (study MN302) and 49.4% (study US301), compared to 53.8% (studies MN301/303) in sulphasalazine patients, 64.8% (study MN302), and 43.9% (study US301) in methotrexate patients. In study MN302 leflunomide was significantly less effective than methotrexate. However, in study US301 no significant differences were observed between leflunomide and methotrexate in the primary efficacy parameters. No difference was observed between leflunomide and sulphasalazine (study MN301). The leflunomide treatment effect was evident by 1 month, stabilised by 3 to 6 months and continued throughout the course of treatment.
 
 <div style=\"page-break-after: always\"></div>
-
-rheumatoid arthritis in all 3 placebo-controlled trials. The ACR (American College of Rheumatology) response rates in study YU203 were 27.7% for placebo, 31.9% for 5 mg, 50.5% for 10 mg and 54.5% for 25 mg/day. In the phase III trials, the ACR response rates for leflunomide 20 mg/day versus placebo were 54.6% versus 28.6% (study MN301), and 49.4% versus 26.3% (study US301).After 12 months with active treatment, the ACR response rates in leflunomide patients were 52.3% (studies MN301/303), 50.5% (study MN302) and 49.4% (study US301), compared to 53.8% (studies MN301/303) in sulphasalazine patients, 64.8% (study MN302), and 43.9% (study US301) in methotrexate patients. In study MN302 leflunomide was significantly less effective than methotrexate. However, in study US301 no significant differences were observed between leflunomide and methotrexate in the primary efficacy parameters. No difference was observed between leflunomide and sulphasalazine (study MN301). The leflunomide treatment effect was evident by 1 month, stabilised by 3 to 6 months and continued throughout the course of treatment.
 
 A randomised, double-blind, parallel-group non-inferiority study compared the relative efficacy of two different daily maintenance doses of leflunomide, 10 mg and 20 mg. From the results it can be concluded that efficacy results of the 20 mg maintenance dose were more favourable, on the other hand, the safety results favoured the 10 mg daily maintenance dose.
 
@@ -1272,11 +1262,9 @@ A randomised study assessed the clinical efficacy response rate in DMARD-naïve 
 
 ## 5.2 Pharmacokinetic properties
 
-Leflunomide is rapidly converted to the active metabolite, A771726, by first-pass metabolism (ring opening) in gut wall and liver. In a study with radiolabelled 14 C-leflunomide in three healthy volunteers, no unchanged leflunomide was detected in plasma, urine or faeces. In other studies,
+Leflunomide is rapidly converted to the active metabolite, A771726, by first-pass metabolism (ring opening) in gut wall and liver. In a study with radiolabelled 14 C-leflunomide in three healthy volunteers, no unchanged leflunomide was detected in plasma, urine or faeces. In other studies, unchanged leflunomide levels in plasma have rarely been detected, however, at ng/ml plasma levels. The only plasma-radiolabelled metabolite detected was A771726. This metabolite is responsible for essentially all the in vivo activity of Arava.
 
 <div style=\"page-break-after: always\"></div>
-
-unchanged leflunomide levels in plasma have rarely been detected, however, at ng/ml plasma levels. The only plasma-radiolabelled metabolite detected was A771726. This metabolite is responsible for essentially all the in vivo activity of Arava.
 
 ## Absorption
 
@@ -1294,11 +1282,9 @@ Leflunomide is metabolised to one primary (A771726) and many minor metabolites i
 
 Elimination of A771726 is slow and characterised by an apparent clearance of about 31 ml/hr. The elimination half-life in patients is approximately 2 weeks. After administration of a radiolabelled dose of leflunomide, radioactivity was equally excreted in faeces, probably by biliary elimination, and in urine. A771726 was still detectable in urine and faeces 36 days after a single administration. The principal urinary metabolites were glucuronide products derived from leflunomide (mainly in 0 to 24 hour samples) and an oxanilic acid derivative of A771726. The principal faecal component was A771726.
 
-It has been shown in man that administration of an oral suspension of activated powdered charcoal or colestyramine leads to a rapid and significant increase in A771726 elimination rate and decline in
+It has been shown in man that administration of an oral suspension of activated powdered charcoal or colestyramine leads to a rapid and significant increase in A771726 elimination rate and decline in plasma concentrations (see section 4.9). This is thought to be achieved by a gastrointestinal dialysis mechanism and/or by interrupting enterohepatic recycling.
 
 <div style=\"page-break-after: always\"></div>
-
-plasma concentrations (see section 4.9). This is thought to be achieved by a gastrointestinal dialysis mechanism and/or by interrupting enterohepatic recycling.
 
 ## Renal impairment
 
@@ -1481,11 +1467,9 @@ Arava tablets are for oral use. The tablets should be swallowed whole with suffi
 
 Concomitant administration of hepatotoxic or haematotoxic DMARDs (e.g. methotrexate) is not advisable.
 
-The active metabolite of leflunomide, A771726, has a long half-life, usually 1 to 4 weeks. Serious undesirable effects might occur (e.g. hepatotoxicity, haematotoxicity or allergic reactions, see below), even if the treatment with leflunomide has been stopped. Therefore, when such toxicities occur or if
+The active metabolite of leflunomide, A771726, has a long half-life, usually 1 to 4 weeks. Serious undesirable effects might occur (e.g. hepatotoxicity, haematotoxicity or allergic reactions, see below), even if the treatment with leflunomide has been stopped. Therefore, when such toxicities occur or if for any other reason A771726 needs to be cleared rapidly from the body, the washout procedure has to be followed. The procedure may be repeated as clinically necessary.
 
 <div style=\"page-break-after: always\"></div>
-
-for any other reason A771726 needs to be cleared rapidly from the body, the washout procedure has to be followed. The procedure may be repeated as clinically necessary.
 
 For washout procedures and other recommended actions in case of desired or unintended pregnancy, see section 4.6.
 
@@ -1639,11 +1623,9 @@ Repeated doses of A771726 decreased mean Cmax and AUC of caffeine (CYP1A2 substr
 
 There was an increase in mean cefaclor Cmax and AUC (1.43- and 1.54-fold, respectively), following repeated doses of A771726, suggesting that A771726 is an inhibitor of OAT3 in vivo . Therefore, when co-administered with substrates of OAT3, such as cefaclor, benzylpenicillin, ciprofloxacin, indomethacin, ketoprofen, furosemide, cimetidine, methotrexate, zidovudine, caution is recommended.
 
-Effect on BCRP (Breast Cancer Resistance Protein) and /or organic anion transporting polypeptide B1 and B3 (OATP1B1/B3) substrates
+Effect on BCRP (Breast Cancer Resistance Protein) and /or organic anion transporting polypeptide B1 and B3 (OATP1B1/B3) substrates There was an increase in mean rosuvastatin Cmax and AUC (2.65- and 2.51-fold, respectively), following repeated doses of A771726. However, there was no apparent impact of this increase in plasma rosuvastatin exposure on the HMG-CoA reductase activity. If used together, the dose of rosuvastatin should not exceed 10 mg once daily. For other substrates of BCRP (e.g., methotrexate, topotecan, sulfasalazine, daunorubicin, doxorubicin) and the OATP family especially HMG-CoA reductase inhibitors (e.g., simvastatin, atorvastatin, pravastatin, methotrexate, nateglinide, repaglinide, rifampicin) concomitant administration should also be undertaken with caution. Patients should be closely monitored for signs and symptoms of excessive exposure to the medicinal products and reduction of the dose of these medicinal products should be considered.
 
 <div style=\"page-break-after: always\"></div>
-
-There was an increase in mean rosuvastatin Cmax and AUC (2.65- and 2.51-fold, respectively), following repeated doses of A771726. However, there was no apparent impact of this increase in plasma rosuvastatin exposure on the HMG-CoA reductase activity. If used together, the dose of rosuvastatin should not exceed 10 mg once daily. For other substrates of BCRP (e.g., methotrexate, topotecan, sulfasalazine, daunorubicin, doxorubicin) and the OATP family especially HMG-CoA reductase inhibitors (e.g., simvastatin, atorvastatin, pravastatin, methotrexate, nateglinide, repaglinide, rifampicin) concomitant administration should also be undertaken with caution. Patients should be closely monitored for signs and symptoms of excessive exposure to the medicinal products and reduction of the dose of these medicinal products should be considered.
 
 Effect on oral contraceptive (0.03 mg ethinylestradiol and 0.15 mg levonorgestrel) There was an increase in mean ethinylestradiol Cmax and AUC0-24 (1.58- and 1.54-fold, respectively) and levonorgestrel Cmax and AUC0-24 (1.33- and 1.41-fold, respectively) following repeated doses of A771726. While this interaction is not expected to adversely impact the efficacy of oral contraceptives, consideration should be given to the type of oral contraceptive treatment.
 
@@ -1922,9 +1904,7 @@ A771726, the active metabolite of leflunomide, inhibits the human enzyme dihydro
 
 The efficacy of Arava in the treatment of rheumatoid arthritis was demonstrated in 4 controlled trials (1 in phase II and 3 in phase III). The phase II trial, study YU203, randomised 402 subjects with active rheumatoid arthritis to placebo (n=102), leflunomide 5 mg (n=95), 10 mg (n=101) or 25 mg/day (n=104). The treatment duration was 6 months.
 
-All leflunomide patients in the phase III trials used an initial dose of 100 mg for 3 days.
-
-Study MN301 randomised 358 subjects with active rheumatoid arthritis to leflunomide 20 mg/day (n=133), sulphasalazine 2 g/day (n=133), or placebo (n=92). Treatment duration was 6 months.
+All leflunomide patients in the phase III trials used an initial dose of 100 mg for 3 days. Study MN301 randomised 358 subjects with active rheumatoid arthritis to leflunomide 20 mg/day (n=133), sulphasalazine 2 g/day (n=133), or placebo (n=92). Treatment duration was 6 months.
 
 Study MN303 was an optional 6-month blinded continuation of MN301 without the placebo arm, resulting in a 12-month comparison of leflunomide and sulphasalazine.
 
@@ -1932,11 +1912,9 @@ Study MN302 randomised 999 subjects with active rheumatoid arthritis to leflunom
 
 Study US301 randomised 482 subjects with active rheumatoid arthritis to leflunomide 20 mg/day (n=182), methotrexate 7.5 mg/week increasing to 15 mg/week (n=182), or placebo (n=118). All patients received folate 1 mg bid. Treatment duration was 12 months.
 
-Leflunomide at a daily dose of at least 10 mg (10 to 25 mg in study YU203, 20 mg in studies MN301 and US301) was statistically significantly superior to placebo in reducing the signs and symptoms of
+Leflunomide at a daily dose of at least 10 mg (10 to 25 mg in study YU203, 20 mg in studies MN301 and US301) was statistically significantly superior to placebo in reducing the signs and symptoms of rheumatoid arthritis in all 3 placebo-controlled trials. The ACR (American College of Rheumatology) response rates in study YU203 were 27.7% for placebo, 31.9% for 5 mg, 50.5% for 10 mg and 54.5% for 25 mg/day. In the phase III trials, the ACR response rates for leflunomide 20 mg/day versus placebo were 54.6% versus 28.6% (study MN301), and 49.4% versus 26.3% (study US301).After 12 months with active treatment, the ACR response rates in leflunomide patients were 52.3% (studies MN301/303), 50.5% (study MN302) and 49.4% (study US301), compared to 53.8% (studies MN301/303) in sulphasalazine patients, 64.8% (study MN302), and 43.9% (study US301) in methotrexate patients. In study MN302 leflunomide was significantly less effective than methotrexate. However, in study US301 no significant differences were observed between leflunomide and methotrexate in the primary efficacy parameters. No difference was observed between leflunomide and sulphasalazine (study MN301). The leflunomide treatment effect was evident by 1 month, stabilised by 3 to 6 months and continued throughout the course of treatment.
 
 <div style=\"page-break-after: always\"></div>
-
-rheumatoid arthritis in all 3 placebo-controlled trials. The ACR (American College of Rheumatology) response rates in study YU203 were 27.7% for placebo, 31.9% for 5 mg, 50.5% for 10 mg and 54.5% for 25 mg/day. In the phase III trials, the ACR response rates for leflunomide 20 mg/day versus placebo were 54.6% versus 28.6% (study MN301), and 49.4% versus 26.3% (study US301).After 12 months with active treatment, the ACR response rates in leflunomide patients were 52.3% (studies MN301/303), 50.5% (study MN302) and 49.4% (study US301), compared to 53.8% (studies MN301/303) in sulphasalazine patients, 64.8% (study MN302), and 43.9% (study US301) in methotrexate patients. In study MN302 leflunomide was significantly less effective than methotrexate. However, in study US301 no significant differences were observed between leflunomide and methotrexate in the primary efficacy parameters. No difference was observed between leflunomide and sulphasalazine (study MN301). The leflunomide treatment effect was evident by 1 month, stabilised by 3 to 6 months and continued throughout the course of treatment.
 
 A randomised, double-blind, parallel-group non-inferiority study compared the relative efficacy of two different daily maintenance doses of leflunomide, 10 mg and 20 mg. From the results it can be concluded that efficacy results of the 20 mg maintenance dose were more favourable, on the other hand, the safety results favoured the 10 mg daily maintenance dose.
 
@@ -1958,11 +1936,9 @@ A randomised study assessed the clinical efficacy response rate in DMARD-naïve 
 
 ## 5.2 Pharmacokinetic properties
 
-Leflunomide is rapidly converted to the active metabolite, A771726, by first-pass metabolism (ring opening) in gut wall and liver. In a study with radiolabelled 14 C-leflunomide in three healthy volunteers, no unchanged leflunomide was detected in plasma, urine or faeces. In other studies,
+Leflunomide is rapidly converted to the active metabolite, A771726, by first-pass metabolism (ring opening) in gut wall and liver. In a study with radiolabelled 14 C-leflunomide in three healthy volunteers, no unchanged leflunomide was detected in plasma, urine or faeces. In other studies, unchanged leflunomide levels in plasma have rarely been detected, however, at ng/ml plasma levels. The only plasma-radiolabelled metabolite detected was A771726. This metabolite is responsible for essentially all the in vivo activity of Arava.
 
 <div style=\"page-break-after: always\"></div>
-
-unchanged leflunomide levels in plasma have rarely been detected, however, at ng/ml plasma levels. The only plasma-radiolabelled metabolite detected was A771726. This metabolite is responsible for essentially all the in vivo activity of Arava.
 
 ## Absorption
 
@@ -1980,11 +1956,9 @@ Leflunomide is metabolised to one primary (A771726) and many minor metabolites i
 
 Elimination of A771726 is slow and characterised by an apparent clearance of about 31 ml/hr. The elimination half-life in patients is approximately 2 weeks. After administration of a radiolabelled dose of leflunomide, radioactivity was equally excreted in faeces, probably by biliary elimination, and in urine. A771726 was still detectable in urine and faeces 36 days after a single administration. The principal urinary metabolites were glucuronide products derived from leflunomide (mainly in 0 to 24 hour samples) and an oxanilic acid derivative of A771726. The principal faecal component was A771726.
 
-It has been shown in man that administration of an oral suspension of activated powdered charcoal or colestyramine leads to a rapid and significant increase in A771726 elimination rate and decline in
+It has been shown in man that administration of an oral suspension of activated powdered charcoal or colestyramine leads to a rapid and significant increase in A771726 elimination rate and decline in plasma concentrations (see section 4.9). This is thought to be achieved by a gastrointestinal dialysis mechanism and/or by interrupting enterohepatic recycling.
 
 <div style=\"page-break-after: always\"></div>
-
-plasma concentrations (see section 4.9). This is thought to be achieved by a gastrointestinal dialysis mechanism and/or by interrupting enterohepatic recycling.
 
 ## Renal impairment
 
@@ -2108,18 +2082,23 @@ The Marketing Authorisation Holder (MAH) shall ensure that all physicians who ar
 
 - The Summary of Product Characteristics
 - Physician Leaflet
+- Patient Information Sheet
 
 The Physician Leaflet should contain the following key messages:
 
-- That there is a risk of severe liver injury and so regular measurement of ALT (SGPT) levels to monitor liver function is important. The information provided in the Physician Leaflet should provide information on dose reduction, discontinuation and wash out procedures.
-- The identified risk of synergistic hepato- or haematotoxicity associated with combination therapy with another Disease-Modifying Antirheumatic Drug (e.g. methotrexate).
-- That there is a risk of teratogenicity and so pregnancy must be avoided until leflunomide plasma levels are at an appropriate level. Physicians and patients should be made aware that
+- That there is a risk of teratogenicity and so pregnancy must be avoided until leflunomide plasma levels are at an appropriate level. Physicians and patients should be made aware that there is an ad hoc advisory service available to provide information on leflunomide plasma level laboratory testing.
 
 <div style=\"page-break-after: always\"></div>
 
-- there is an ad hoc advisory service available to provide information on leflunomide plasma level laboratory testing.
-- The risk of infections, including opportunistic infections, and the contraindication for use in immuno-compromised patients.
-- The need to counsel patients on important risks associated with leflunomide therapy and appropriate precautions when using the medicine.
+## Patient Information Sheet contain the following key messages
+
+- Arava may increase the risk of serious birth defects in pregnant women or women who become pregnant while taking Arava.
+- Women of childbearing potential and their partners should take every precaution to avoid pregnancy. This includes both partners using reliable birth control as recommended by the doctor, when currently taking Arava, when undergoing the wash-out procedure, or after having discontinued Arava less than 2 years ago without wash-out.
+- Women should not attempt to become pregnant until they have discontinued Arava and confirmed that Arava has been sufficiently removed from body through the drug wash-out procedure, or within two years after stopping Arava in case no wash-out procedure has been done.
+- Women should immediately contact their doctor if their menstruation is delayed or they believe they may be pregnant.
+- Arava wash-out procedure: The duration of a complete wash-out procedure is usually 11 days, during which either cholestyramine or activated powdered charcoal is administered. The duration may be modified depending on clinical or laboratory variables. This course is followed by 2 separate laboratory blood tests at least 14 days apart to assure a very low drug level in body. If Arava levels are still too high, a repeated drug wash-out procedure may be necessary. If the procedure is not followed, it could take up to 2 years to reach a very low drug level in the blood. When confirmed that Arava levels are sufficiently low, women should at least wait another month before becoming pregnant.
+- It cannot be excluded that Arava passes into semen. Men should use reliable contraception during treatment with Arava. If men wishing to be a father, the doctor would advise stopping Arava and then undergo the drug wash-out procedure. When it is confirmed that Arava has been sufficiently removed from body, men should then wait for at least 3 months before fathering a child.
+- For further information, patients should contact their doctor.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2289,6 +2268,8 @@ Keep the bottle tightly closed.
 
 <div style=\"page-break-after: always\"></div>
 
+<div style=\"page-break-after: always\"></div>
+
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
@@ -2324,8 +2305,6 @@ PC:
 SN:
 
 NN:
-
-<div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE IMMEDIATE PACKAGING
 
@@ -2482,8 +2461,7 @@ NN:
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
-|-----------------------------------------------------|
+## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
 
 | 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
 |------|------------------------------|
@@ -2796,7 +2774,7 @@ Batch
 
 ## Arava 10 mg film-coated tablets
 
-## leflunomide
+leflunomide
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
@@ -3064,11 +3042,9 @@ Sanofi-Aventis Deutschland GmbH D-65926 Frankfurt am Main Germany
 
 ## Manufacturer
 
-Opella Healthcare International SAS 56, Route de Choisy 60200 Compiègne France
+Opella Healthcare International SAS 56, Route de Choisy 60200 Compiègne France For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder.
 
 <div style=\"page-break-after: always\"></div>
-
-For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder.
 
 ## België/Belgique/Belgien
 
@@ -3084,7 +3060,9 @@ Sanofi s.r.o. Tel: +420 233 086 111
 
 ## Danmark
 
-Sanofi A/S Tlf: +45 45 16 70 00
+Sanofi A/S
+
+Tlf: +45 45 16 70 00
 
 ## Deutschland
 
@@ -3467,9 +3445,7 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What Arava contains
 
--The active substance is leflunomide. One film-coated tablet contains 20 mg of leflunomide colloidal anhydrous, magnesium stearate (E470b), and lactose monohydrate in the tablet core, as
-
-- -The other ingredients are: maize starch, povidone (E1201), crospovidone (E1202), silica well as talc (E553b), hypromellose (E464), titanium dioxide (E171), macrogol 8000 and yellow ferric oxide (E172) in the film-coating.
+-The active substance is leflunomide. One film-coated tablet contains 20 mg of leflunomide -The other ingredients are: maize starch, povidone (E1201), crospovidone (E1202), silica colloidal anhydrous, magnesium stearate (E470b), and lactose monohydrate in the tablet core, as well as talc (E553b), hypromellose (E464), titanium dioxide (E171), macrogol 8000 and yellow ferric oxide (E172) in the film-coating.
 
 ## What Arava looks like and contents of the pack
 
@@ -3485,11 +3461,9 @@ Sanofi-Aventis Deutschland GmbH D-65926 Frankfurt am Main Germany
 
 ## Manufacturer
 
-Opella Healthcare International SAS 56, Route de Choisy 60200 Compiègne France
+Opella Healthcare International SAS 56, Route de Choisy 60200 Compiègne France For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder.
 
 <div style=\"page-break-after: always\"></div>
-
-For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder.
 
 ## België/Belgique/Belgien
 
@@ -3897,11 +3871,9 @@ Sanofi-Aventis Deutschland GmbH D-65926 Frankfurt am Main Germany
 
 ## Manufacturer
 
-Opella Healthcare International SAS 56, Route de Choisy 60200 Compiègne France
+Opella Healthcare International SAS 56, Route de Choisy 60200 Compiègne France For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder.
 
 <div style=\"page-break-after: always\"></div>
-
-For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder.
 
 ## België/Belgique/Belgien
 
@@ -3967,7 +3939,9 @@ SANOFI-AVENTIS Zrt. Tel.: +36 1 505 0050
 
 ## Malta
 
-Sanofi S.r.l. Tel: +39 02 39394275
+Sanofi S.r.l.
+
+Tel: +39 02 39394275
 
 ## Nederland
 

@@ -4,8 +4,8 @@ document_pages: 4
 document_pathfilename: www.ema.europa.eu/en/documents/procedural-steps-after/duloxetine-viatris-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
 document_name: duloxetine-viatris-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
 version: success
-processing_time: 2.1217961
-conversion_datetime: 2026-05-10 13:13:23.339068
+processing_time: 2.3209488
+conversion_datetime: 2026-05-10 13:16:23.354811
 docling_version:
   docling-serve: 1.17.0
   docling-jobkit: 1.18.0

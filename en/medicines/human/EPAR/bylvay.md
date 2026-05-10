@@ -4,8 +4,8 @@ document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/bylvay.html
 document_name: bylvay.html
 version: success
-processing_time: 0.1327794
-conversion_datetime: 2026-05-10 13:10:19.909179
+processing_time: 0.1246975
+conversion_datetime: 2026-05-10 13:25:43.94171
 docling_version:
   docling-serve: 1.17.0
   docling-jobkit: 1.18.0

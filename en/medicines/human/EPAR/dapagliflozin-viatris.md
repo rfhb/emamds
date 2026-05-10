@@ -1,30 +1,32 @@
 ---
-document_datetime: 2026-01-26 14:10:00
+document_datetime: 2026-05-07 17:10:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/dapagliflozin-viatris.html
 document_name: dapagliflozin-viatris.html
 version: success
-processing_time: 0.1175548
-conversion_datetime: 2026-01-29 12:30:03.207584
+processing_time: 0.1083479
+conversion_datetime: 2026-05-10 13:11:42.531977
 docling_version:
-  docling-serve: 1.11.0
-  docling-jobkit: 1.9.0
-  docling: 2.70.0
-  docling-core: 2.61.0
-  docling-ibm-models: 3.11.0
-  docling-parse: 4.7.3
+  docling-serve: 1.17.0
+  docling-jobkit: 1.18.0
+  docling: 2.92.0
+  docling-core: 2.74.1
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.10.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 # Dapagliflozin Viatris
 
 [RSS](/en/individual-human-medicine.xml/67653)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-dapagliflozin Medicine Human Authorised
+dapagliflozin
+
+Medicine Human Authorised
 
 Page contents
 
@@ -110,181 +112,137 @@ English (EN) (145.49 KB - PDF)
 
 [View](/en/documents/overview/dapagliflozin-viatris-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-484)
+[Other languages (22)](#file-language-dropdown-807)
 
 български (BG) (169.41 KB - PDF)
 
-**First published:**
-
-04/04/2023
+**First published:** 04/04/2023
 
 [View](/bg/documents/overview/dapagliflozin-viatris-epar-medicine-overview_bg.pdf)
 
 español (ES) (145.71 KB - PDF)
 
-**First published:**
-
-04/04/2023
+**First published:** 04/04/2023
 
 [View](/es/documents/overview/dapagliflozin-viatris-epar-medicine-overview_es.pdf)
 
 čeština (CS) (166.97 KB - PDF)
 
-**First published:**
-
-04/04/2023
+**First published:** 04/04/2023
 
 [View](/cs/documents/overview/dapagliflozin-viatris-epar-medicine-overview_cs.pdf)
 
 dansk (DA) (145.03 KB - PDF)
 
-**First published:**
-
-04/04/2023
+**First published:** 04/04/2023
 
 [View](/da/documents/overview/dapagliflozin-viatris-epar-medicine-overview_da.pdf)
 
 Deutsch (DE) (148.91 KB - PDF)
 
-**First published:**
-
-04/04/2023
+**First published:** 04/04/2023
 
 [View](/de/documents/overview/dapagliflozin-viatris-epar-medicine-overview_de.pdf)
 
 eesti keel (ET) (142.67 KB - PDF)
 
-**First published:**
-
-04/04/2023
+**First published:** 04/04/2023
 
 [View](/et/documents/overview/dapagliflozin-viatris-epar-medicine-overview_et.pdf)
 
 ελληνικά (EL) (171.99 KB - PDF)
 
-**First published:**
-
-04/04/2023
+**First published:** 04/04/2023
 
 [View](/el/documents/overview/dapagliflozin-viatris-epar-medicine-overview_el.pdf)
 
 français (FR) (147.35 KB - PDF)
 
-**First published:**
-
-04/04/2023
+**First published:** 04/04/2023
 
 [View](/fr/documents/overview/dapagliflozin-viatris-epar-medicine-overview_fr.pdf)
 
 hrvatski (HR) (165.35 KB - PDF)
 
-**First published:**
-
-04/04/2023
+**First published:** 04/04/2023
 
 [View](/hr/documents/overview/dapagliflozin-viatris-epar-medicine-overview_hr.pdf)
 
 italiano (IT) (144.76 KB - PDF)
 
-**First published:**
-
-04/04/2023
+**First published:** 04/04/2023
 
 [View](/it/documents/overview/dapagliflozin-viatris-epar-medicine-overview_it.pdf)
 
 latviešu valoda (LV) (182 KB - PDF)
 
-**First published:**
-
-04/04/2023
+**First published:** 04/04/2023
 
 [View](/lv/documents/overview/dapagliflozin-viatris-epar-medicine-overview_lv.pdf)
 
 lietuvių kalba (LT) (166.4 KB - PDF)
 
-**First published:**
-
-04/04/2023
+**First published:** 04/04/2023
 
 [View](/lt/documents/overview/dapagliflozin-viatris-epar-medicine-overview_lt.pdf)
 
 magyar (HU) (168.57 KB - PDF)
 
-**First published:**
-
-04/04/2023
+**First published:** 04/04/2023
 
 [View](/hu/documents/overview/dapagliflozin-viatris-epar-medicine-overview_hu.pdf)
 
 Malti (MT) (157.54 KB - PDF)
 
-**First published:**
-
-04/04/2023
+**First published:** 04/04/2023
 
 [View](/mt/documents/overview/dapagliflozin-viatris-epar-medicine-overview_mt.pdf)
 
 Nederlands (NL) (146.43 KB - PDF)
 
-**First published:**
-
-04/04/2023
+**First published:** 04/04/2023
 
 [View](/nl/documents/overview/dapagliflozin-viatris-epar-medicine-overview_nl.pdf)
 
 polski (PL) (170.73 KB - PDF)
 
-**First published:**
-
-04/04/2023
+**First published:** 04/04/2023
 
 [View](/pl/documents/overview/dapagliflozin-viatris-epar-medicine-overview_pl.pdf)
 
 português (PT) (145.87 KB - PDF)
 
-**First published:**
-
-04/04/2023
+**First published:** 04/04/2023
 
 [View](/pt/documents/overview/dapagliflozin-viatris-epar-medicine-overview_pt.pdf)
 
 română (RO) (162.09 KB - PDF)
 
-**First published:**
-
-04/04/2023
+**First published:** 04/04/2023
 
 [View](/ro/documents/overview/dapagliflozin-viatris-epar-medicine-overview_ro.pdf)
 
 slovenčina (SK) (166.03 KB - PDF)
 
-**First published:**
-
-04/04/2023
+**First published:** 04/04/2023
 
 [View](/sk/documents/overview/dapagliflozin-viatris-epar-medicine-overview_sk.pdf)
 
 slovenščina (SL) (164.6 KB - PDF)
 
-**First published:**
-
-04/04/2023
+**First published:** 04/04/2023
 
 [View](/sl/documents/overview/dapagliflozin-viatris-epar-medicine-overview_sl.pdf)
 
 Suomi (FI) (144.4 KB - PDF)
 
-**First published:**
-
-04/04/2023
+**First published:** 04/04/2023
 
 [View](/fi/documents/overview/dapagliflozin-viatris-epar-medicine-overview_fi.pdf)
 
 svenska (SV) (143.91 KB - PDF)
 
-**First published:**
-
-04/04/2023
+**First published:** 04/04/2023
 
 [View](/sv/documents/overview/dapagliflozin-viatris-epar-medicine-overview_sv.pdf)
 
@@ -300,305 +258,161 @@ English (EN) (77.69 KB - PDF)
 
 Dapagliflozin Viatris : EPAR - Product Information
 
-English (EN) (883.68 KB - PDF)
+English (EN) (1.12 MB - PDF)
 
-**First published:** 04/04/2023
-
-**Last updated:** 26/01/2026
+**First published:** 04/04/2023 **Last updated:** 07/05/2026
 
 [View](/en/documents/product-information/dapagliflozin-viatris-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-689)
+[Other languages (24)](#file-language-dropdown-110)
 
-български (BG) (1.14 MB - PDF)
+български (BG) (1.23 MB - PDF)
 
-**First published:**
-
-04/04/2023
-
-**Last updated:**
-
-26/01/2026
+**First published:** 04/04/2023 **Last updated:** 07/05/2026
 
 [View](/bg/documents/product-information/dapagliflozin-viatris-epar-product-information_bg.pdf)
 
-español (ES) (1.01 MB - PDF)
+español (ES) (1.21 MB - PDF)
 
-**First published:**
-
-04/04/2023
-
-**Last updated:**
-
-26/01/2026
+**First published:** 04/04/2023 **Last updated:** 07/05/2026
 
 [View](/es/documents/product-information/dapagliflozin-viatris-epar-product-information_es.pdf)
 
-čeština (CS) (1.01 MB - PDF)
+čeština (CS) (1.31 MB - PDF)
 
-**First published:**
-
-04/04/2023
-
-**Last updated:**
-
-26/01/2026
+**First published:** 04/04/2023 **Last updated:** 07/05/2026
 
 [View](/cs/documents/product-information/dapagliflozin-viatris-epar-product-information_cs.pdf)
 
-dansk (DA) (1.03 MB - PDF)
+dansk (DA) (1.21 MB - PDF)
 
-**First published:**
-
-04/04/2023
-
-**Last updated:**
-
-26/01/2026
+**First published:** 04/04/2023 **Last updated:** 07/05/2026
 
 [View](/da/documents/product-information/dapagliflozin-viatris-epar-product-information_da.pdf)
 
-Deutsch (DE) (1.01 MB - PDF)
+Deutsch (DE) (1.28 MB - PDF)
 
-**First published:**
-
-04/04/2023
-
-**Last updated:**
-
-26/01/2026
+**First published:** 04/04/2023 **Last updated:** 07/05/2026
 
 [View](/de/documents/product-information/dapagliflozin-viatris-epar-product-information_de.pdf)
 
-eesti keel (ET) (691.11 KB - PDF)
+eesti keel (ET) (1.19 MB - PDF)
 
-**First published:**
-
-04/04/2023
-
-**Last updated:**
-
-26/01/2026
+**First published:** 04/04/2023 **Last updated:** 07/05/2026
 
 [View](/et/documents/product-information/dapagliflozin-viatris-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.19 MB - PDF)
+ελληνικά (EL) (1.3 MB - PDF)
 
-**First published:**
-
-04/04/2023
-
-**Last updated:**
-
-26/01/2026
+**First published:** 04/04/2023 **Last updated:** 07/05/2026
 
 [View](/el/documents/product-information/dapagliflozin-viatris-epar-product-information_el.pdf)
 
-français (FR) (1.58 MB - PDF)
+français (FR) (3.1 MB - PDF)
 
-**First published:**
-
-04/04/2023
-
-**Last updated:**
-
-26/01/2026
+**First published:** 04/04/2023 **Last updated:** 07/05/2026
 
 [View](/fr/documents/product-information/dapagliflozin-viatris-epar-product-information_fr.pdf)
 
-hrvatski (HR) (1.01 MB - PDF)
+hrvatski (HR) (1.19 MB - PDF)
 
-**First published:**
-
-04/04/2023
-
-**Last updated:**
-
-26/01/2026
+**First published:** 04/04/2023 **Last updated:** 07/05/2026
 
 [View](/hr/documents/product-information/dapagliflozin-viatris-epar-product-information_hr.pdf)
 
-íslenska (IS) (1.06 MB - PDF)
+íslenska (IS) (1.23 MB - PDF)
 
-**First published:**
-
-04/04/2023
-
-**Last updated:**
-
-26/01/2026
+**First published:** 04/04/2023 **Last updated:** 07/05/2026
 
 [View](/is/documents/product-information/dapagliflozin-viatris-epar-product-information_is.pdf)
 
-italiano (IT) (1008.07 KB - PDF)
+italiano (IT) (1.21 MB - PDF)
 
-**First published:**
-
-04/04/2023
-
-**Last updated:**
-
-26/01/2026
+**First published:** 04/04/2023 **Last updated:** 07/05/2026
 
 [View](/it/documents/product-information/dapagliflozin-viatris-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (849.34 KB - PDF)
+latviešu valoda (LV) (1.29 MB - PDF)
 
-**First published:**
-
-04/04/2023
-
-**Last updated:**
-
-26/01/2026
+**First published:** 04/04/2023 **Last updated:** 07/05/2026
 
 [View](/lv/documents/product-information/dapagliflozin-viatris-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (1.64 MB - PDF)
+lietuvių kalba (LT) (1.38 MB - PDF)
 
-**First published:**
-
-04/04/2023
-
-**Last updated:**
-
-26/01/2026
+**First published:** 04/04/2023 **Last updated:** 07/05/2026
 
 [View](/lt/documents/product-information/dapagliflozin-viatris-epar-product-information_lt.pdf)
 
-magyar (HU) (1.19 MB - PDF)
+magyar (HU) (1.39 MB - PDF)
 
-**First published:**
-
-04/04/2023
-
-**Last updated:**
-
-26/01/2026
+**First published:** 04/04/2023 **Last updated:** 07/05/2026
 
 [View](/hu/documents/product-information/dapagliflozin-viatris-epar-product-information_hu.pdf)
 
-Malti (MT) (1.2 MB - PDF)
+Malti (MT) (1.46 MB - PDF)
 
-**First published:**
-
-04/04/2023
-
-**Last updated:**
-
-26/01/2026
+**First published:** 04/04/2023 **Last updated:** 07/05/2026
 
 [View](/mt/documents/product-information/dapagliflozin-viatris-epar-product-information_mt.pdf)
 
-Nederlands (NL) (870.63 KB - PDF)
+Nederlands (NL) (1.21 MB - PDF)
 
-**First published:**
-
-04/04/2023
-
-**Last updated:**
-
-26/01/2026
+**First published:** 04/04/2023 **Last updated:** 07/05/2026
 
 [View](/nl/documents/product-information/dapagliflozin-viatris-epar-product-information_nl.pdf)
 
-norsk (NO) (2.47 MB - PDF)
+norsk (NO) (1.18 MB - PDF)
 
-**First published:**
-
-04/04/2023
-
-**Last updated:**
-
-26/01/2026
+**First published:** 04/04/2023 **Last updated:** 07/05/2026
 
 [View](/no/documents/product-information/dapagliflozin-viatris-epar-product-information_no.pdf)
 
-polski (PL) (995.36 KB - PDF)
+polski (PL) (1.3 MB - PDF)
 
-**First published:**
-
-04/04/2023
-
-**Last updated:**
-
-26/01/2026
+**First published:** 04/04/2023 **Last updated:** 07/05/2026
 
 [View](/pl/documents/product-information/dapagliflozin-viatris-epar-product-information_pl.pdf)
 
-português (PT) (990.91 KB - PDF)
+português (PT) (1.21 MB - PDF)
 
-**First published:**
-
-04/04/2023
-
-**Last updated:**
-
-26/01/2026
+**First published:** 04/04/2023 **Last updated:** 07/05/2026
 
 [View](/pt/documents/product-information/dapagliflozin-viatris-epar-product-information_pt.pdf)
 
-română (RO) (1.09 MB - PDF)
+română (RO) (1.29 MB - PDF)
 
-**First published:**
-
-04/04/2023
-
-**Last updated:**
-
-26/01/2026
+**First published:** 04/04/2023 **Last updated:** 07/05/2026
 
 [View](/ro/documents/product-information/dapagliflozin-viatris-epar-product-information_ro.pdf)
 
-slovenčina (SK) (1.1 MB - PDF)
+slovenčina (SK) (1.37 MB - PDF)
 
-**First published:**
-
-04/04/2023
-
-**Last updated:**
-
-26/01/2026
+**First published:** 04/04/2023 **Last updated:** 07/05/2026
 
 [View](/sk/documents/product-information/dapagliflozin-viatris-epar-product-information_sk.pdf)
 
-slovenščina (SL) (2.35 MB - PDF)
+slovenščina (SL) (1.18 MB - PDF)
 
-**First published:**
-
-04/04/2023
-
-**Last updated:**
-
-26/01/2026
+**First published:** 04/04/2023 **Last updated:** 07/05/2026
 
 [View](/sl/documents/product-information/dapagliflozin-viatris-epar-product-information_sl.pdf)
 
-Suomi (FI) (1.05 MB - PDF)
+Suomi (FI) (1.22 MB - PDF)
 
-**First published:**
-
-04/04/2023
-
-**Last updated:**
-
-26/01/2026
+**First published:** 04/04/2023 **Last updated:** 07/05/2026
 
 [View](/fi/documents/product-information/dapagliflozin-viatris-epar-product-information_fi.pdf)
 
-svenska (SV) (1.08 MB - PDF)
+svenska (SV) (1.21 MB - PDF)
 
-**First published:**
-
-04/04/2023
-
-**Last updated:**
-
-26/01/2026
+**First published:** 04/04/2023 **Last updated:** 07/05/2026
 
 [View](/sv/documents/product-information/dapagliflozin-viatris-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** N/0000319376 23/01/2026
+**Latest procedure affecting product information:** VR/0000325156
+
+05/05/2026
 
 icon globe
 
@@ -622,210 +436,176 @@ English (EN) (108.94 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/dapagliflozin-viatris-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-165)
+[Other languages (24)](#file-language-dropdown-130)
 
 български (BG) (71.11 KB - PDF)
 
-**First published:**
-
-04/04/2023
+**First published:** 04/04/2023
 
 [View](/bg/documents/all-authorised-presentations/dapagliflozin-viatris-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (65.98 KB - PDF)
 
-**First published:**
-
-04/04/2023
+**First published:** 04/04/2023
 
 [View](/es/documents/all-authorised-presentations/dapagliflozin-viatris-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (66.6 KB - PDF)
 
-**First published:**
-
-04/04/2023
+**First published:** 04/04/2023
 
 [View](/cs/documents/all-authorised-presentations/dapagliflozin-viatris-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (64.64 KB - PDF)
 
-**First published:**
-
-04/04/2023
+**First published:** 04/04/2023
 
 [View](/da/documents/all-authorised-presentations/dapagliflozin-viatris-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (63.28 KB - PDF)
 
-**First published:**
-
-04/04/2023
+**First published:** 04/04/2023
 
 [View](/de/documents/all-authorised-presentations/dapagliflozin-viatris-epar-all-authorised-presentations_de.pdf)
 
 eesti keel (ET) (53.1 KB - PDF)
 
-**First published:**
-
-04/04/2023
+**First published:** 04/04/2023
 
 [View](/et/documents/all-authorised-presentations/dapagliflozin-viatris-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (87 KB - PDF)
 
-**First published:**
-
-04/04/2023
+**First published:** 04/04/2023
 
 [View](/el/documents/all-authorised-presentations/dapagliflozin-viatris-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (63.16 KB - PDF)
 
-**First published:**
-
-04/04/2023
+**First published:** 04/04/2023
 
 [View](/fr/documents/all-authorised-presentations/dapagliflozin-viatris-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (74.59 KB - PDF)
 
-**First published:**
-
-04/04/2023
+**First published:** 04/04/2023
 
 [View](/hr/documents/all-authorised-presentations/dapagliflozin-viatris-epar-all-authorised-presentations_hr.pdf)
 
 íslenska (IS) (65.04 KB - PDF)
 
-**First published:**
-
-04/04/2023
+**First published:** 04/04/2023
 
 [View](/is/documents/all-authorised-presentations/dapagliflozin-viatris-epar-all-authorised-presentations_is.pdf)
 
 italiano (IT) (60.1 KB - PDF)
 
-**First published:**
-
-04/04/2023
+**First published:** 04/04/2023
 
 [View](/it/documents/all-authorised-presentations/dapagliflozin-viatris-epar-all-authorised-presentations_it.pdf)
 
 latviešu valoda (LV) (75.44 KB - PDF)
 
-**First published:**
-
-04/04/2023
+**First published:** 04/04/2023
 
 [View](/lv/documents/all-authorised-presentations/dapagliflozin-viatris-epar-all-authorised-presentations_lv.pdf)
 
 lietuvių kalba (LT) (84.46 KB - PDF)
 
-**First published:**
-
-04/04/2023
+**First published:** 04/04/2023
 
 [View](/lt/documents/all-authorised-presentations/dapagliflozin-viatris-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (66.3 KB - PDF)
 
-**First published:**
-
-04/04/2023
+**First published:** 04/04/2023
 
 [View](/hu/documents/all-authorised-presentations/dapagliflozin-viatris-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (75.48 KB - PDF)
 
-**First published:**
-
-04/04/2023
+**First published:** 04/04/2023
 
 [View](/mt/documents/all-authorised-presentations/dapagliflozin-viatris-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (64.24 KB - PDF)
 
-**First published:**
-
-04/04/2023
+**First published:** 04/04/2023
 
 [View](/nl/documents/all-authorised-presentations/dapagliflozin-viatris-epar-all-authorised-presentations_nl.pdf)
 
 norsk (NO) (64.89 KB - PDF)
 
-**First published:**
-
-04/04/2023
+**First published:** 04/04/2023
 
 [View](/no/documents/all-authorised-presentations/dapagliflozin-viatris-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (74.38 KB - PDF)
 
-**First published:**
-
-04/04/2023
+**First published:** 04/04/2023
 
 [View](/pl/documents/all-authorised-presentations/dapagliflozin-viatris-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (64.75 KB - PDF)
 
-**First published:**
-
-04/04/2023
+**First published:** 04/04/2023
 
 [View](/pt/documents/all-authorised-presentations/dapagliflozin-viatris-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (72.01 KB - PDF)
 
-**First published:**
-
-04/04/2023
+**First published:** 04/04/2023
 
 [View](/ro/documents/all-authorised-presentations/dapagliflozin-viatris-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (76.15 KB - PDF)
 
-**First published:**
-
-04/04/2023
+**First published:** 04/04/2023
 
 [View](/sk/documents/all-authorised-presentations/dapagliflozin-viatris-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (77.91 KB - PDF)
 
-**First published:**
-
-04/04/2023
+**First published:** 04/04/2023
 
 [View](/sl/documents/all-authorised-presentations/dapagliflozin-viatris-epar-all-authorised-presentations_sl.pdf)
 
 Suomi (FI) (70.1 KB - PDF)
 
-**First published:**
-
-04/04/2023
+**First published:** 04/04/2023
 
 [View](/fi/documents/all-authorised-presentations/dapagliflozin-viatris-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (60.67 KB - PDF)
 
-**First published:**
-
-04/04/2023
+**First published:** 04/04/2023
 
 [View](/sv/documents/all-authorised-presentations/dapagliflozin-viatris-epar-all-authorised-presentations_sv.pdf)
 
 ## Product details
 
-Name of medicine Dapagliflozin Viatris Active substance dapagliflozin International non-proprietary name (INN) or common name dapagliflozin Therapeutic area (MeSH)
+Name of medicine
+
+Dapagliflozin Viatris
+
+Active substance
+
+dapagliflozin
+
+International non-proprietary name (INN) or common name
+
+dapagliflozin
+
+Therapeutic area (MeSH)
 
 - Diabetes Mellitus, Type 2
 - Heart Failure, Systolic
 - Heart Failure
 - Renal Insufficiency, Chronic
 
-Anatomical therapeutic chemical (ATC) code A10BK01
+Anatomical therapeutic chemical (ATC) code
+
+A10BK01
 
 ### Pharmacotherapeutic group
 
@@ -853,7 +633,9 @@ Dapagliflozin Viatris is indicated in adults for the treatment of chronic kidney
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/006006
+EMA product number
+
+EMEA/H/C/006006
 
 Generic
 
@@ -865,7 +647,17 @@ Viatris Limited
 
 Damastown Industrial Park Dublin 15 Ireland
 
-Opinion adopted 26/01/2023 Marketing authorisation issued 24/03/2023 Revision 5
+Opinion adopted
+
+26/01/2023
+
+Marketing authorisation issued
+
+24/03/2023
+
+Revision
+
+6
 
 ## Assessment history
 
@@ -877,9 +669,9 @@ Collapse section
 
 Dapagliflozin Viatris : EPAR - Procedural steps taken and scientific information after the authorisation
 
-English (EN) (142.64 KB - PDF)
+English (EN) (132.1 KB - PDF)
 
-**First published:** 26/01/2026
+**First published:** 26/01/2026 **Last updated:** 07/05/2026
 
 [View](/en/documents/procedural-steps-after/dapagliflozin-viatris-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -887,9 +679,7 @@ Dapagliflozin Viatris : EPAR - Procedural steps taken and scientific information
 
 English (EN) (105.28 KB - PDF)
 
-**First published:** 18/01/2024
-
-**Last updated:** 26/01/2026
+**First published:** 18/01/2024 **Last updated:** 26/01/2026
 
 [View](/en/documents/procedural-steps-after/dapagliflozin-viatris-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
@@ -897,9 +687,7 @@ English (EN) (105.28 KB - PDF)
 
 Dapagliflozin Viatris : EPAR - Public Assessment Report
 
-Adopted
-
-Reference Number: EMA/68353/2023
+Adopted Reference Number: EMA/68353/2023
 
 English (EN) (654.08 KB - PDF)
 
@@ -909,9 +697,7 @@ English (EN) (654.08 KB - PDF)
 
 CHMP summary of positive opinion for Dapagliflozin Viatris
 
-Adopted
-
-Reference Number: EMA/CHMP/30826/2023
+Adopted Reference Number: EMA/CHMP/30826/2023
 
 English (EN) (151.19 KB - PDF)
 
@@ -919,16 +705,18 @@ English (EN) (151.19 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-dapagliflozin-viatris_en.pdf)
 
-#### News on Dapagliflozin Viatris
+## News on Dapagliflozin Viatris
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 23-26 January 2023](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-23-26-january-2023) 27/01/2023
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 23-26 January 2023](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-23-26-january-2023)
 
-#### More information on Dapagliflozin Viatris
+27/01/2023
+
+## More information on Dapagliflozin Viatris
 
 - [Initiation of Sodium-Glucose Cotransporter 2 inhibitors after first hospitalization for heart failure: a population-based cohort study - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000378)
 
-**This page was last updated on** 26/01/2026
+**This page was last updated on**
+
+07/05/2026
 
 ## Share this page
-
-[Back to top](#main-content)

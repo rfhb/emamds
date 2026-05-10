@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-12-19 12:25:17
+document_datetime: 2026-05-08 09:41:56
 document_pages: 78
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/pregabalin-viatris-epar-product-information_en.pdf
 document_name: pregabalin-viatris-epar-product-information_en.pdf
 version: success
-processing_time: 23.4536164
-conversion_datetime: 2026-01-03 12:35:41.979071
+processing_time: 23.5304648
+conversion_datetime: 2026-05-10 12:05:22.471434
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.17.0
+  docling-jobkit: 1.18.0
+  docling: 2.92.0
+  docling-core: 2.74.1
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.10.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I SUMMARY OF PRODUCT CHARACTERISTICS
 
@@ -68,7 +68,9 @@ Hard capsule.
 
 ## Pregabalin Viatris 25 mg hard capsules
 
-No. 4, light peach opaque cap and white opaque body, hard-shell gelatin capsule filled with white to off-white powder. The capsule is axially printed with MYLAN over PB25 in black ink on cap and body. Pregabalin Viatris 50 mg hard capsules No. 3, dark peach opaque cap and white opaque body, hard-shell gelatin capsule filled with white to off-white powder. The capsule is axially printed with MYLAN over PB50 in black ink on cap and body. Pregabalin Viatris 75 mg hard capsules No. 4, light peach opaque cap and light peach opaque body, hard-shell gelatin capsule filled with white to off-white powder. The capsule is axially printed with MYLAN over PB75 in black ink on cap and body. Pregabalin Viatris 100 mg hard capsules No. 3, dark peach opaque cap and dark peach opaque body, hard-shell gelatin capsule filled with white to off-white powder. The capsule is axially printed with MYLAN over PB100 in black ink on cap and body. Pregabalin Viatris 150 mg hard capsules No. 2, light peach opaque cap and white opaque body, hard-shell gelatin capsule filled with white to off-white powder. The capsule is axially printed with MYLAN over PB150 in black ink on cap and body. Pregabalin Viatris 200 mg hard capsules No. 1, light peach opaque cap and light peach opaque body, hard-shell gelatin capsule filled with white to off-white powder. The capsule is axially printed with MYLAN over PB200 in black ink on cap and body. Pregabalin Viatris 225 mg hard capsules No. 1, dark peach opaque cap and dark peach opaque body, hard-shell gelatin capsule filled with white to off-white powder. The capsule is axially printed with MYLAN over PB225 in black ink on cap and body. Pregabalin Viatris 300 mg hard capsules No. 0, light peach opaque cap and white opaque body, hard-shell gelatin capsule filled with white to off-white powder. The capsule is axially printed with MYLAN over PB300 in black ink on cap and body.
+No. 4, light peach opaque cap and white opaque body, hard-shell gelatin capsule filled with white to off-white powder. The capsule is axially printed with MYLAN over PB25 in black ink on cap and body. Pregabalin Viatris 50 mg hard capsules No. 3, dark peach opaque cap and white opaque body, hard-shell gelatin capsule filled with white to off-white powder. The capsule is axially printed with MYLAN over PB50 in black ink on cap and body. Pregabalin Viatris 75 mg hard capsules No. 4, light peach opaque cap and light peach opaque body, hard-shell gelatin capsule filled with white to off-white powder. The capsule is axially printed with MYLAN over PB75 in black ink on cap and body. Pregabalin Viatris 100 mg hard capsules No. 3, dark peach opaque cap and dark peach opaque body, hard-shell gelatin capsule filled with white to off-white powder. The capsule is axially printed with MYLAN over PB100 in black ink on cap and body. Pregabalin Viatris 150 mg hard capsules No. 2, light peach opaque cap and white opaque body, hard-shell gelatin capsule filled with white to off-white powder. The capsule is axially printed with MYLAN over PB150 in black ink on cap and body. Pregabalin Viatris 200 mg hard capsules No. 1, light peach opaque cap and light peach opaque body, hard-shell gelatin capsule filled with white to off-white powder. The capsule is axially printed with MYLAN over PB200 in black ink on cap and body. Pregabalin Viatris 225 mg hard capsules No. 1, dark peach opaque cap and dark peach opaque body, hard-shell gelatin capsule filled with white to off-white powder. The capsule is axially printed with MYLAN over PB225 in black ink on cap and body. Pregabalin Viatris 300 mg hard capsules No. 0, light peach opaque cap and white opaque body, hard-shell gelatin capsule filled with white to
+
+off-white powder. The capsule is axially printed with MYLAN over PB300 in black ink on cap and body.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -583,11 +585,9 @@ In juvenile rats the types of toxicity do not differ qualitatively from those ob
 
 Capsules content
 
-Hydroxylpropylcellulose
+Hydroxylpropylcellulose Maize starch Talc
 
 <div style=\"page-break-after: always\"></div>
-
-Maize starch Talc
 
 ## Capsules shell
 
@@ -623,23 +623,15 @@ PVC/PVDC-Al perforated unit dose blister pack containing 56 x 1, 84 x 1 and 100 
 
 ## Pregabalin Viatris 50 mg hard capsules
 
-PVC/PVDC-Al blister pack containing 14, 21, 56, 84 and 100 hard capsules.
-
-PVC/PVDC-Al perforated unit dose blister pack containing 84 x 1 and 100 x 1 hard capsules.
+PVC/PVDC-Al blister pack containing 14, 21, 56, 84 and 100 hard capsules. PVC/PVDC-Al perforated unit dose blister pack containing 84 x 1 and 100 x 1 hard capsules.
 
 ## Pregabalin Viatris 75 mg hard capsules
 
 PVC/PVDC-Al blister pack containing 14, 56 and 100 hard capsules. PVC/PVDC-Al perforated unit dose blister pack containing 14 x 1, 56 x 1 and 100 x 1 hard capsules. HDPE bottle pack containing 200 hard capsules.
 
-Pregabalin Viatris 100 mg hard capsules
+Pregabalin Viatris 100 mg hard capsules PVC/PVDC-Al blister pack containing 21, 84 and 100 hard capsules. PVC/PVDC-Al perforated unit dose blister pack containing 84 x 1 and 100 x 1 hard capsules Pregabalin Viatris 150 mg hard capsules PVC/PVDC-Al blister pack containing 14, 56 and 100 hard capsules. PVC/PVDC-Al perforated unit dose blister pack containing 14 x 1, 56 x 1 and 100 x 1 hard capsules. HDPE bottle pack containing 200 hard capsules
 
 <div style=\"page-break-after: always\"></div>
-
-PVC/PVDC-Al blister pack containing 21, 84 and 100 hard capsules. PVC/PVDC-Al perforated unit dose blister pack containing 84 x 1 and 100 x 1 hard capsules
-
-Pregabalin Viatris 150 mg hard capsules
-
-PVC/PVDC-Al blister pack containing 14, 56 and 100 hard capsules. PVC/PVDC-Al perforated unit dose blister pack containing 14 x 1, 56 x 1 and 100 x 1 hard capsules. HDPE bottle pack containing 200 hard capsules
 
 ## Pregabalin Viatris 200 mg hard capsules
 
@@ -742,7 +734,7 @@ Mylan Hungary Kft Mylan utca 1, Komárom, 2900, Hungary
 
 Logiters Logistica Portugal S.A. Estrada dos Arneiros 4 Azambuja 2050-306 Portugal
 
-Mylan Germany GmbH, Benzstrasse 1, Bad Homburg v. d. Hoehe, Hessen, 61352, Germany
+Viatris Germany GmbH, Benzstrasse 1, Bad Homburg v. d. Hoehe, Hessen, 61352, Germany
 
 The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.
 
@@ -835,10 +827,11 @@ Store in the original package in order to protect from moisture.
 | 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVED FROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
 |-------|--------------------------------------------------------------------------------------------------------------------------------------|
 
-| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|--------------------------------------------------------|
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Viatris Limited Damastown Industrial Park, Mulhuddart, Dublin 15, DUBLIN Ireland
+Viatris Limited Damastown Industrial Park, Mulhuddart, Dublin 15, DUBLIN
+
+Ireland
 
 | 12.   | MARKETING AUTHORISATION NUMBER(S)   |
 |-------|-------------------------------------|
@@ -964,8 +957,7 @@ Store in the original package in order to protect from moisture.
 | 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVED FROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
 |-------|--------------------------------------------------------------------------------------------------------------------------------------|
 
-| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|--------------------------------------------------------|
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
 Viatris Limited Damastown Industrial Park, Mulhuddart, Dublin 15, DUBLIN
 
@@ -1053,19 +1045,7 @@ Each hard capsule contains 75 mg pregabalin.
 
 Hard capsule.
 
-14 hard capsules
-
-56 hard capsules
-
-100 hard capsules
-
-200 hard capsules
-
-14 x 1 hard capsules
-
-56 x 1 hard capsules
-
-100 x 1 hard capsules
+14 hard capsules 56 hard capsules 100 hard capsules 200 hard capsules 14 x 1 hard capsules 56 x 1 hard capsules 100 x 1 hard capsules
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -1094,8 +1074,7 @@ Blister : Store in the original package in order to protect from moisture. Bottl
 |----------------------------------------------------------------------|----------------------------------------------------------------------|
 | ORWASTEMATERIALS DERIVED FROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE | ORWASTEMATERIALS DERIVED FROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE |
 
-| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|--------------------------------------------------------|
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
 Viatris Limited Damastown Industrial Park, Mulhuddart, Dublin 15, DUBLIN Ireland
 
@@ -1603,7 +1582,7 @@ Keep out of the sight and reach of children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-## 8. EXPIRY DATE
+8. EXPIRY DATE
 
 EXP
 
@@ -1955,7 +1934,7 @@ Pregabalin Viatris 300 mg hard capsules pregabalin
 
 Each hard capsule contains 300 mg pregabalin.
 
-## 3. LIST OF EXCIPIENTS
+3. LIST OF EXCIPIENTS
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -2021,7 +2000,9 @@ Lot
 
 Pregabalin Viatris 25 mg hard capsules Pregabalin Viatris 50 mg hard capsules Pregabalin Viatris 75 mg hard capsules Pregabalin Viatris 100 mg hard capsules Pregabalin Viatris 150 mg hard capsules Pregabalin Viatris 200 mg hard capsules Pregabalin Viatris 225 mg hard capsules
 
-Pregabalin Viatris 300 mg hard capsules pregabalin
+Pregabalin Viatris 300 mg hard capsules
+
+pregabalin
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
@@ -2102,8 +2083,8 @@ Tell your doctor or pharmacist if you are taking, have recently taken or might t
 
 Pregabalin Viatris and certain other medicines may influence each other (interaction). When taken with certain other medicines, which have sedative effects (including opioids), Pregabalin Viatris may potentiate these effects and could lead to respiratory failure, coma and death. The degree of dizziness, sleepiness and decreased concentration may be increased if Pregabalin Viatris is taken together with medicinal products containing:
 
-- Lorazepam - (used for treating anxiety)
 - Oxycodone - (used as a pain-killer)
+- Lorazepam - (used for treating anxiety)
 - Alcohol
 
 <div style=\"page-break-after: always\"></div>
@@ -2138,9 +2119,9 @@ Pregabalin Viatris is for oral use only.
 
 ## Peripheral and central neuropathic pain, epilepsy or Generalised Anxiety Disorder:
 
-- The dose, which has been adjusted for you and your condition, will generally be between 150 mg and 600 mg each day.
 - Take the number of capsules as instructed by your doctor.
 - Your doctor will tell you to take Pregabalin Viatris either twice or three times a day. For twice a day take Pregabalin Viatris once in the morning and once in the evening, at about the same time each day. For three times a day take Pregabalin Viatris once in the morning, once in the afternoon and once in the evening, at about the same time each day.
+- The dose, which has been adjusted for you and your condition, will generally be between 150 mg and 600 mg each day.
 
 If you have the impression that the effect of Pregabalin Viatris is too strong or too weak, talk to your doctor or pharmacist.
 
@@ -2180,28 +2161,28 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 ## Common: may affect up to 1 in 10 people
 
-- Feeling of elation, confusion, disorientation, decrease in sexual interest, irritability
 - Increased appetite
 - Disturbance in attention, clumsiness, memory impairment, loss of memory, tremor, difficulty with speaking, tingling feeling, numbness, sedation, lethargy, insomnia, fatigue, feeling abnormal
-- Vertigo, problems with balance, fall
+- Feeling of elation, confusion, disorientation, decrease in sexual interest, irritability
 - Blurred vision, double vision
 - Dry mouth, constipation, vomiting, flatulence, diarrhoea, nausea, swollen abdomen
-- Swelling of the body including extremities
+- Vertigo, problems with balance, fall
 - Difficulties with erection
 - Feeling drunk, abnormal style of walking
-- Muscle cramp, joint pain, back pain, pain in limb
+- Swelling of the body including extremities
 - Weight gain
 - Sore throat
+- Muscle cramp, joint pain, back pain, pain in limb
 
 <div style=\"page-break-after: always\"></div>
 
 ## Uncommon: may affect up to 1 in 100 people
 
-- Change in perception of self, restlessness, depression, agitation, mood swings, difficulty finding words, hallucinations, abnormal dreams, panic attacks, apathy, aggression, elevated mood, mental impairment, difficulty with thinking, increase in sexual interest, problems with sexual functioning including inability to achieve a sexual climax, delayed ejaculation
 - Loss of appetite, weight loss, low blood sugar, high blood sugar
 - Changes in eyesight, unusual eye movement, changes in vision including tunnel vision, flashes of light, jerky movements, reduced reflexes, increased activity, dizziness on standing, sensitive skin, loss of taste, burning sensation, tremor on movement, decreased consciousness, loss of consciousness, fainting, increased sensitivity to noise, feeling unwell
-- Heart rhythm disturbances, increased heart rate, low blood pressure, high blood pressure, changes in heart beat, heart failure
+- Change in perception of self, restlessness, depression, agitation, mood swings, difficulty finding words, hallucinations, abnormal dreams, panic attacks, apathy, aggression, elevated mood, mental impairment, difficulty with thinking, increase in sexual interest, problems with sexual functioning including inability to achieve a sexual climax, delayed ejaculation
 - Dry eyes, eye swelling, eye pain, weak eyes, watery eyes, eye irritation
+- Heart rhythm disturbances, increased heart rate, low blood pressure, high blood pressure, changes in heart beat, heart failure
 - Flushing, hot flushes
 - Increased saliva production, heartburn, numb around mouth
 - Difficulty breathing, dry nose, nasal congestion
@@ -2240,8 +2221,8 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 genitals and eyes. These serious skin rashes can be preceded by fever and flu-like symptoms (Stevens-Johnson syndrome, toxic epidermal necrolysis).
 
-- Parkinsonism, that is symptoms resembling Parkinson's disease, such as tremor, bradykinesia (decreased ability to move), and rigidity (muscle stiffness).
 - Jaundice (yellowing of the skin and eyes)
+- Parkinsonism, that is symptoms resembling Parkinson's disease, such as tremor, bradykinesia (decreased ability to move), and rigidity (muscle stiffness).
 
 ## Very rare: may affect up to 1 in 10,000 people
 
@@ -2318,7 +2299,7 @@ Mylan Hungary Kft, Mylan utca 1, Komárom, 2900, Hun gary
 
 Logiters, Logistica, Portugal, S.A., Estrada dos Arneiros, 4, Azambuja, 2050-306, Portugal
 
-Mylan Germany GmbH, Benzstrasse 1, Bad Homburg v. d. Hoehe, Hessen, 61352, Germany
+Viatris Germany GmbH, Benzstrasse 1, Bad Homburg v. d. Hoehe, Hessen, 61352, Germany
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder.
 
@@ -2330,7 +2311,7 @@ Tél/Tel: + 32 (0)2 658 61 00
 
 ## България
 
-Майлан ЕООД
+Виатрис ЕООД
 
 Te л
 

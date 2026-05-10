@@ -1,18 +1,18 @@
 ---
-document_datetime: 2026-04-10 12:11:02
-document_pages: 64
+document_datetime: 2026-05-07 13:01:23
+document_pages: 121
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/olumiant-epar-product-information_en.pdf
 document_name: olumiant-epar-product-information_en.pdf
 version: success
-processing_time: 24.4086453
-conversion_datetime: 2026-04-13 13:52:05.933673
+processing_time: 48.5238792
+conversion_datetime: 2026-05-10 11:59:25.252662
 docling_version:
-  docling-serve: 1.16.1
-  docling-jobkit: 1.16.0
-  docling: 2.87.0
-  docling-core: 2.73.0
-  docling-ibm-models: 3.13.0
-  docling-parse: 5.8.0
+  docling-serve: 1.17.0
+  docling-jobkit: 1.18.0
+  docling: 2.92.0
+  docling-core: 2.74.1
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.10.1
   python: cpython-313 (3.13.11)
   plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
@@ -24,11 +24,13 @@ docling_version:
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Olumiant 1 mg film-coated tablets Olumiant 2 mg film-coated tablets Olumiant 4 mg film-coated tablets
+Olumiant 1 mg film-coated tablets Olumiant 2 mg film-coated tablets
+
+Olumiant 4 mg film-coated tablets
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
-Olumiant 1 mg film-coated tablets
+## Olumiant 1 mg film-coated tablets
 
 Each film-coated tablet contains 1 mg baricitinib.
 
@@ -50,7 +52,7 @@ Olumiant 1 mg film-coated tablets
 
 Very light pink, 6.75 mm round tablets, debossed with 'Lilly' on one side and '1' on the other.
 
-Olumiant 2 mg film-coated tablets
+## Olumiant 2 mg film-coated tablets
 
 Light pink, 9 x 7.5 mm oblong tablets, debossed with 'Lilly' on one side and '2' on the other.
 
@@ -144,11 +146,9 @@ Consideration should be given to discontinuing treatment in patients who show no
 
 ## Treatment initiation
 
-Treatment should not be initiated in patients with an absolute lymphocyte count (ALC) less than 0.5 x 10 9 cells/L, an absolute neutrophil count (ANC) less than 1 x 10 9 cells/L, or who have a
+Treatment should not be initiated in patients with an absolute lymphocyte count (ALC) less than 0.5 x 10 9 cells/L, an absolute neutrophil count (ANC) less than 1 x 10 9 cells/L, or who have a haemoglobin value less than 8 g/dL. Treatment may be initiated once values have improved above these limits (see section 4.4).
 
 <div style=\"page-break-after: always\"></div>
-
-haemoglobin value less than 8 g/dL. Treatment may be initiated once values have improved above these limits (see section 4.4).
 
 ## Dose reduction
 
@@ -174,6 +174,8 @@ The safety and efficacy of baricitinib in children less than 2 years with atopic
 
 The safety and efficacy of baricitinib in children less than 12 years of age or weighing &lt; 30 kg with alopecia areata have not yet been established. No data are available. See section 4.2 above for information on posology in adolescents aged 12 years and older and weighing 30 kg or more.
 
+For paediatric patients who are unable to swallow tablets, the tablets may be dispersed in water prior to administration (see 'Alternative administration for children' below). Alternatively, an oral suspension may be used if available.
+
 ## Method of administration
 
 Oral use.
@@ -187,6 +189,1153 @@ For paediatric patients who are unable to swallow whole tablets, it may be consi
 If for any reason the entire suspension is not administered, do not disperse and administer another tablet but wait until the next scheduled dose.
 
 For instructions on dispersion of the medicinal product before administration, see section 6.6.
+
+<div style=\"page-break-after: always\"></div>
+
+## 4.3 Contraindications
+
+Hypersensitivity to the active substance or to any of the excipients listed in section 6.1.
+
+Pregnancy (see section 4.6).
+
+## 4.4 Special warnings and precautions for use
+
+Baricitinib should only be used if no suitable treatment alternatives are available in patients: - 65 years of age and older;
+
+- patients with history of atherosclerotic cardiovascular disease or other cardiovascular risk factors (such as current or past long-time smokers);
+
+- patients with malignancy risk factors (e.g. current malignancy or history of malignancy)
+
+## Use of JAK inhibitors in patients 65 years of age and older
+
+Considering the increased risk of MACE, malignancies, serious infections, and all-cause mortality in patients 65 years of age and older, as observed in a large randomised study of tofacitinib (another JAK inhibitor), baricitinib should only be used in these patients if no suitable treatment alternatives are available.
+
+## Infections
+
+Serious and sometimes fatal infections, including opportunistic infections, have been reported in patients receiving other JAK inhibitors.
+
+Baricitinib is associated with an increased rate of infections such as upper respiratory tract infections compared to placebo (see section 4.8). In rheumatoid arthritis clinical studies, combination with methotrexate resulted in increased frequency of infections compared to baricitinib monotherapy.
+
+The risks and benefits of treatment should be carefully considered prior to initiating baricitinib in patients with active, chronic or recurrent infections (see section 4.2). If an infection develops, the patient should be monitored carefully and therapy should be temporarily interrupted if the patient is not responding to standard therapy. Treatment should not be resumed until the infection resolves.
+
+As there is a higher incidence of infections in the elderly and in the diabetic populations in general, caution should be used when treating the elderly and patients with diabetes. In patients over 65 years of age, baricitinib should only be used if no suitable treatment alternatives are available.
+
+## Tuberculosis
+
+Patients should be screened for tuberculosis (TB) before starting therapy. Baricitinib should not be given to patients with active TB. Anti-TB therapy should be considered prior to initiation of treatment in patients with previously untreated latent TB.
+
+## Haematological abnormalities
+
+Absolute Neutrophil Count (ANC) &lt; 1 x 10 9 cells/L, Absolute Lymphocyte Count (ALC) &lt; 0.5 x 10 9 cells/L, and haemoglobin &lt; 8 g/dL were reported in clinical trials.
+
+Treatment should not be initiated, or should be temporarily interrupted, in patients with an ANC &lt; 1 x 10 9 cells/L, ALC &lt; 0.5 x 10 9 cells/L or haemoglobin &lt; 8 g/dL observed during routine patient management (see section 4.2).
+
+The risk of lymphocytosis is increased in elderly patients with rheumatoid arthritis. Rare cases of lymphoproliferative disorders have been reported.
+
+<div style=\"page-break-after: always\"></div>
+
+## Viral reactivation
+
+Viral reactivation, including cases of herpes virus reactivation (e.g., herpes zoster, herpes simplex), were reported in clinical studies (see section 4.8). In rheumatoid arthritis clinical studies, herpes zoster was reported more commonly in patients ≥ 65 years of age who had previously been treated with both biologic and synthetic conventional DMARDs. If a patient develops herpes zoster, treatment should be temporarily interrupted until the episode resolves.
+
+Screening for viral hepatitis should be performed in accordance with clinical guidelines before starting therapy with baricitinib. Patients with evidence of active hepatitis B or C infection were excluded from clinical trials. Patients, who were positive for hepatitis C antibody but negative for hepatitis C virus RNA, were allowed to participate. Patients with hepatitis B surface antibody and hepatitis B core antibody, without hepatitis B surface antigen, were also allowed to participate; such patients should be monitored for expression of hepatitis B virus (HBV) DNA. If HBV DNA is detected, a liver specialist should be consulted to determine if treatment interruption is warranted.
+
+## Vaccination
+
+No data are available on the response to vaccination with live vaccines in patients receiving baricitinib. Use with live, attenuated vaccines during or immediately prior to baricitinib therapy is not recommended. Prior to initiating treatment, it is recommended that all patients, and particularly paediatric patients, be brought up to date with all immunisations in agreement with current immunisation guidelines.
+
+## Lipids
+
+Dose dependent increases in blood lipid parameters were reported in paediatric and adult patients treated with baricitinib (see section 4.8). Elevations in low density lipoprotein (LDL) cholesterol decreased to pre-treatment levels in response to statin therapy in adults. In both paediatric and adult patients, lipid parameters should be assessed approximately 12 weeks following initiation of therapy and thereafter patients should be managed according to international clinical guidelines for hyperlipidaemia.
+
+## Hepatic transaminase elevations
+
+Dose dependent increases in blood alanine transaminase (ALT) and aspartate transaminase (AST) activity were reported in patients treated with baricitinib (see section 4.8).
+
+Increases in ALT and AST to ≥ 5 and ≥ 10 x upper limit of normal (ULN) were reported in clinical trials. In rheumatoid arthritis clinical studies, combination with methotrexate resulted in increased frequency of hepatic transaminase elevations compared with baricitinib monotherapy (see section 4.8).
+
+If increases in ALT or AST are observed during routine patient management and drug-induced liver injury is suspected, treatment should be temporarily interrupted until this diagnosis is excluded.
+
+## Malignancy
+
+Immunomodulatory medicinal products may increase the risk of malignancies including lymphoma. Lymphoma and other malignancies have been reported in patients receiving JAK inhibitors, including baricitinib.
+
+In a large randomized active-controlled study of tofacitinib (another JAK inhibitor) in rheumatoid arthritis patients 50 years and older with at least one additional cardiovascular risk factor, a higher rate of malignancies, particularly lung cancer, lymphoma and non-melanoma skin cancer (NMSC) was observed with tofacitinib compared to TNF inhibitors.
+
+<div style=\"page-break-after: always\"></div>
+
+In patients over 65 years of age, patients who are current or past long-time smokers, or with other malignancy risk factors (e.g. current malignancy or history of malignancy) baricitinib should only be used if no suitable treatment alternatives are available.
+
+Periodic skin examination is recommended for all patients, particularly those with risk factors for skin cancer.
+
+## Venous thromboembolism
+
+In a retrospective observational study of baricitinib in rheumatoid arthritis patients, a higher rate of venous thromboembolic events (VTE) was observed compared to patients treated with TNF inhibitors (see section 4.8).
+
+In a large randomized active-controlled study of tofacitinib (another JAK inhibitor) in rheumatoid arthritis patients 50 years and older with at least one additional cardiovascular risk factor, a dose dependent higher rate of VTE including deep venous thrombosis (DVT) and pulmonary embolism (PE) was observed with tofacitinib compared to TNF inhibitors.
+
+In patients with cardiovascular or malignancy risk factors (see also section 4.4 'Major adverse cardiovascular events (MACE)' and 'Malignancy') baricitinib should only be used if no suitable treatment alternatives are available.
+
+In patients with known VTE risk factors other than cardiovascular or malignancy risk factors, baricitinib should be used with caution. VTE risk factors other than cardiovascular or malignancy risk factors include previous VTE, patients undergoing major surgery, immobilisation, use of combined hormonal contraceptives or hormone replacement therapy, and inherited coagulation disorder.
+
+Patients should be re-evaluated periodically during baricitinib treatment to assess for changes in VTE risk.
+
+Promptly evaluate patients with signs and symptoms of VTE and discontinue baricitinib in patients with suspected VTE, regardless of dose or indication.
+
+## Major adverse cardiovascular events (MACE)
+
+In a retrospective observational study of baricitinib in rheumatoid arthritis patients, a higher rate of MACE was observed compared to patients treated with TNF inhibitors.
+
+In a large randomized active-controlled study of tofacitinib (another JAK inhibitor) in rheumatoid arthritis patients 50 years and older with at least one additional cardiovascular risk factor, a higher rate of major adverse cardiovascular events (MACE), defined as cardiovascular death, non-fatal myocardial infarction (MI) and non-fatal stroke, was observed with tofacitinib (another JAK inhibitor) compared with TNF inhibitors.
+
+<div style=\"page-break-after: always\"></div>
+
+Therefore, in patients over 65 years of age, patients who are current or past long-time smokers, and patients with history of atherosclerotic cardiovascular disease or other cardiovascular risk factors, baricitinib should only be used if no suitable treatment alternatives are available.
+
+## Laboratory monitoring
+
+Table 1. Laboratory measures and monitoring guidance
+
+| Laboratory measure              | Action                                                                                                            | Monitoring guidance                                                                                                      |
+|---------------------------------|-------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|
+| Lipid parameters                | Patients should be managed according to international clinical guidelines for hyperlipidaemia                     | 12 weeks after initiation of treatment and thereafter according to international clinical guidelines for hyperlipidaemia |
+| Absolute Neutrophil Count (ANC) | Treatment should be interrupted if ANC < 1 x 10 9 cells/L and may be restarted once ANC return above this value   | Before treatment initiation and thereafter according to routine patient management                                       |
+| Absolute Lymphocyte Count (ALC) | Treatment should be interrupted if ALC < 0.5 x 10 9 cells/L and may be restarted once ALC return above this value | Before treatment initiation and thereafter according to routine patient management                                       |
+| Haemoglobin (Hb)                | Treatment should be interrupted if Hb < 8 g/dL and may be restarted once Hb return above this value               | Before treatment initiation and thereafter according to routine patient management                                       |
+| Hepatic transaminases           | Treatment should be temporarily interrupted if drug-induced liver injury is suspected                             | Before treatment initiation and thereafter according to routine patient management                                       |
+
+## Immunosuppressive medicinal products
+
+Combination with biological DMARDs, biological immunomodulators or other Janus kinase (JAK) inhibitors is not recommended, as a risk of additive immunosuppression cannot be excluded.
+
+In rheumatoid arthritis and juvenile idiopathic arthritis, data concerning use of baricitinib with potent immunosuppressive medicinal products other than methotrexate (e.g., azathioprine, tacrolimus, ciclosporin) are limited. Caution should be exercised when using such combinations (see section 4.5).
+
+In atopic dermatitis and alopecia areata, combination with ciclosporin or other potent immunosuppressants has not been studied and is not recommended (see section 4.5).
+
+## Hypersensitivity
+
+In post-marketing experience, cases of hypersensitivity associated with baricitinib administration have been reported. If any serious allergic or anaphylactic reaction occurs, treatment should be discontinued immediately.
+
+## Diverticulitis
+
+Cases of diverticulitis and gastrointestinal perforation have been reported in clinical trials and from postmarketing sources (see section 4.8). Baricitinib should be used with caution in patients with diverticular disease and especially in patients chronically treated with concomitant medicinal products associated with an increased risk of diverticulitis: nonsteroidal anti-inflammatory drugs, corticosteroids, and opioids. Patients presenting with new onset abdominal signs and symptoms should be evaluated promptly for early identification of diverticulitis or gastrointestinal perforation.
+
+<div style=\"page-break-after: always\"></div>
+
+## Hypoglycaemia in patients treated for diabetes
+
+There have been reports of hypoglycaemia following initiation of JAK inhibitors, including baricitinib, in patients receiving medication for diabetes. Dose adjustment of anti-diabetic medication may be necessary in the event that hypoglycaemia occurs.
+
+## Excipients with known effect
+
+This medicinal product contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially 'sodium-free'.
+
+## 4.5 Interaction with other medicinal products and other forms of interaction
+
+## Pharmacodynamic interactions
+
+## Immunosuppressive medicinal products
+
+Combination with biological DMARDs, biological immunomodulators or other JAK inhibitors has not been studied. In rheumatoid arthritis and juvenile idiopathic arthritis, use of baricitinib with potent immunosuppressive medicinal products such as azathioprine, tacrolimus, or ciclosporin was limited in clinical studies, and a risk of additive immunosuppression cannot be excluded. In atopic dermatitis and alopecia areata, combination with ciclosporin or other potent immunosuppressants has not been studied and is not recommended (see section 4.4).
+
+## Potential for other medicinal products to affect the pharmacokinetics of baricitinib
+
+## Transporters
+
+In vitro , baricitinib is a substrate for organic anionic transporter (OAT)3, P-glycoprotein (Pgp), breast cancer resistance protein (BCRP) and multidrug and toxic extrusion protein (MATE)2-K. In a clinical pharmacology study, dosing of probenecid (an OAT3 inhibitor with strong inhibition potential) resulted in approximately a 2-fold increase in AUC(0-∞) with no change in tmax or Cmax of baricitinib. Consequently, in patients taking OAT3 inhibitors with a strong inhibition potential, such as probenecid, the recommended dose of baricitinib should be reduced by half (see section 4.2). No clinical pharmacology study has been conducted with OAT3 inhibitors with less inhibition potential. The prodrug leflunomide rapidly converts to teriflunomide which is a weak OAT3 inhibitor and therefore may lead to an increase in baricitinib exposure. Since dedicated interaction studies have not been conducted, caution should be used when leflunomide or teriflunomide are given concomitantly with baricitinib. Concomitant use of the OAT3 inhibitors ibuprofen and diclofenac may lead to increased exposure of baricitinib, however their inhibition potential of OAT3 is less compared to probenecid and thus a clinically relevant interaction is not expected. Coadministration of baricitinib with ciclosporin (Pgp/BCRP inhibitor) or methotrexate (substrate of several transporters including OATP1B1, OAT1, OAT3, BCRP, MRP2, MRP3, and MRP4) resulted in no clinically meaningful effects on baricitinib exposure.
+
+## Cytochrome P450 enzymes
+
+In vitro , baricitinib is a cytochrome P450 enzyme (CYP)3A4 substrate although less than 10 % of the dose is metabolised via oxidation. In clinical pharmacology studies, coadministration of baricitinib with ketoconazole (strong CYP3A inhibitor) resulted in no clinically meaningful effect on the PK of baricitinib. Coadministration of baricitinib with fluconazole (moderate CYP3A/CYP2C19/CYP2C9 inhibitor) or rifampicin (strong CYP3A inducer) resulted in no clinically meaningful changes to baricitinib exposure.
+
+<div style=\"page-break-after: always\"></div>
+
+## Gastric pH modifying agents
+
+Elevating gastric pH with omeprazole had no clinically significant effect on baricitinib exposure.
+
+## Potential for baricitinib to affect the pharmacokinetics of other medicinal products
+
+## Transporters
+
+In vitro , baricitinib is not an inhibitor of OAT1, OAT2, OAT3, organic cationic transporter (OCT) 2, OATP1B1, OATP1B3, BCRP, MATE1 and MATE2-K at clinically relevant concentrations. Baricitinib may be a clinically relevant inhibitor of OCT1, however there are currently no known selective OCT1 substrates for which clinically significant interactions might be predicted. In clinical pharmacology studies there were no clinically meaningful effects on exposure when baricitinib was coadministered with digoxin (Pgp substrate) or methotrexate (substrate of several transporters).
+
+## Cytochrome P450 enzymes
+
+In clinical pharmacology studies, coadministration of baricitinib with the CYP3A substrates simvastatin, ethinyl oestradiol, or levonorgestrel resulted in no clinically meaningful changes in the PK of these medicinal products.
+
+## 4.6 Fertility, pregnancy and lactation
+
+## Pregnancy
+
+The JAK/STAT pathway has been shown to be involved in cell adhesion and cell polarity which can affect early embryonic development. There are no adequate data from the use of baricitinib in pregnant women. Studies in animals have shown reproductive toxicity (see section 5.3). Baricitinib was teratogenic in rats and rabbits. Animal studies indicate that baricitinib may have an adverse effect on bone development in utero at higher doses.
+
+Baricitinib is contraindicated during pregnancy (see section 4.3). Women of childbearing potential have to use effective contraception during and for at least 1 week after treatment. If a patient becomes pregnant while taking baricitinib the parents should be informed of the potential risk to the foetus.
+
+## Breast-feeding
+
+It is unknown whether baricitinib/metabolites are excreted in human milk. Available pharmacodynamic/toxicological data in animals have shown excretion of baricitinib in milk (see section 5.3).
+
+A risk to newborns/infants cannot be excluded and baricitinib should not be used during breast-feeding. A decision must be made whether to discontinue breast-feeding or to discontinue therapy taking into account the benefit of breast-feeding for the child and the benefit of therapy for the woman.
+
+## Fertility
+
+Studies in animals suggest that treatment with baricitinib has the potential to decrease female fertility while on treatment, but there was no effect on male spermatogenesis (see section 5.3).
+
+## 4.7 Effects on ability to drive and use machines
+
+Baricitinib has no or negligible influence on the ability to drive and use machines.
+
+<div style=\"page-break-after: always\"></div>
+
+## 4.8 Undesirable effects
+
+## Summary of the safety profile
+
+The most commonly reported adverse reactions with baricitinib are increased LDL cholesterol (26.0 %), upper respiratory tract infections (16.9 %), headache (5.2 %), herpes simplex (3.2 %), and urinary tract infections (2.9 %). Serious pneumonia (0.2 %) and serious herpes zoster (0.2 %) occurred uncommonly in patients with rheumatoid arthritis.
+
+## Tabulated list of adverse reactions
+
+Frequency estimate: Very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), uncommon (≥ 1/1 000 to &lt; 1/100), rare (≥ 1/10 000 to &lt; 1/1 000), very rare (&lt; 1/10 000). The frequencies in Table 2 are based on integrated data from clinical trials in adults and/or postmarketing setting across rheumatoid arthritis, atopic dermatitis, and alopecia areata indications unless stated otherwise; where notable differences in frequency between indications are observed, these are presented in the footnotes below the table. Within each frequency grouping, adverse reactions are presented in the order of decreasing seriousness.
+
+Table 2. Adverse reactions
+
+| System organ class                           | Very common                        | Common                                                                                             | Uncommon                         |
+|----------------------------------------------|------------------------------------|----------------------------------------------------------------------------------------------------|----------------------------------|
+| Infections and infestations                  | Upper respiratory tract infections | Pneumonia d Herpes zoster b Urinary tract infections Gastroenteritis Herpes simplex Folliculitis g |                                  |
+| Blood and lymphatic system disorders         |                                    | Thrombocytosis > 600 x 10 9 cells/L a, d                                                           | Neutropenia < 1 x 10 9 cells/L a |
+| Immune system disorders                      |                                    |                                                                                                    | Swelling of the face, Urticaria  |
+| Metabolism and nutrition disorders           | Hypercholesterolaemia a            |                                                                                                    | Hypertriglyceridaemia a          |
+| Nervous system disorders                     |                                    | Headache                                                                                           |                                  |
+| Vascular disorders                           |                                    |                                                                                                    | Deep vein thrombosis b           |
+| Respiratory, thoracic, mediastinal disorders |                                    |                                                                                                    | Pulmonary embolism f             |
+| Gastrointestinal disorders                   |                                    | Abdominal pain d Nausea d                                                                          | Diverticulitis                   |
+| Hepatobiliary disorders                      |                                    | ALT increased ≥ 3 x ULN a, d                                                                       | AST increased ≥ 3 x ULN a, e     |
+| Skin and subcutaneous tissue disorders       |                                    | Rash Acne c                                                                                        |                                  |
+| Investigations                               |                                    | Creatine phosphokinase increased > 5 x ULN a, c                                                    | Weight increased                 |
+
+<div style=\"page-break-after: always\"></div>
+
+- b Frequency for herpes zoster and deep vein thrombosis is based on rheumatoid arthritis clinical trials.
+- c In rheumatoid arthritis clinical trials, the frequency of acne and creatine phosphokinase increased &gt; 5 x ULN was uncommon.
+- d In atopic dermatitis clinical trials, the frequency of nausea, and ALT ≥3 x ULN was uncommon. In alopecia areata clinical trials, the frequency of abdominal pain was uncommon. In atopic dermatitis and alopecia areata clinical trials, the frequency of pneumonia and thrombocytosis &gt; 600 x 10 9  cells/L was uncommon.
+- e In alopecia areata clinical trials, the frequency of AST ≥ 3 x ULN was common.
+- f Frequency for pulmonary embolism is based on rheumatoid arthritis and atopic dermatitis clinical trials.
+- g Folliculitis was observed in alopecia areata clinical trials. It was usually localized in the scalp region associated with hair regrowth.
+
+## Description of selected adverse reactions
+
+## Gastrointestinal disorders
+
+In rheumatoid arthritis clinical studies, in treatment-naïve patients, through 52 weeks, the frequency of nausea was greater for the combination treatment of methotrexate and baricitinib (9.3 %) compared to methotrexate alone (6.2 %) or baricitinib alone (4.4 %). In the integrated data from rheumatoid arthritis, atopic dermatitis and alopecia areata clinical trials, nausea was most frequent during the first 2 weeks of treatment.
+
+Cases of abdominal pain were usually mild, transient, not associated with infectious or inflammatory gastrointestinal disorders, and did not lead to treatment interruption.
+
+## Infections
+
+In the integrated data from rheumatoid arthritis, atopic dermatitis and alopecia areata clinical trials, most infections were mild to moderate in severity. In studies which included both doses, infections were reported in 31.0 %, 25.7 % and 26.7 % of patients in the 4 mg, 2 mg and placebo groups, respectively. In rheumatoid arthritis clinical studies, combination with methotrexate resulted in increased frequency of infections compared to baricitinib monotherapy. Frequency of herpes zoster was common in rheumatoid arthritis, very rare in atopic dermatitis and uncommon in alopecia areata. In atopic dermatitis clinical trials, there were less skin infections requiring antibiotic treatment with baricitinib than with placebo.
+
+The incidence of serious infections with baricitinib was similar to placebo. The incidence of serious infections remained stable during long-term exposure. The overall incidence rate of serious infections in the clinical trial programme was 3.2 per 100 patient-years in rheumatoid arthritis, 2.1 in atopic dermatitis and 0.8 in alopecia areata. Serious pneumonia and serious herpes zoster occurred uncommonly in patients with rheumatoid arthritis.
+
+## Hepatic transaminase elevations
+
+Dose dependent increases in blood ALT and AST activity were reported in studies extended over week 16. Elevations in mean ALT/AST remained stable over time. Most cases of hepatic transaminase elevations ≥ 3 x ULN were asymptomatic and transient.
+
+In patients with rheumatoid arthritis, the combination of baricitinib with potentially hepatotoxic medicinal products, such as methotrexate, resulted in increased frequency of these elevations.
+
+## Lipid elevations
+
+In the integrated data from rheumatoid arthritis, atopic dermatitis and alopecia areata clinical trials, baricitinib treatment was associated with dose-dependent increases in lipid parameters including total cholesterol, LDL cholesterol, and high density lipoprotein (HDL) cholesterol. There was no change in the LDL/HDL ratio. Elevations were observed at 12 weeks and remained stable thereafter at a higher value than baseline including in the long-term extension study in rheumatoid arthritis. Mean total and LDL cholesterol increased through week 52 in patients with atopic dermatitis and alopecia areata. In rheumatoid arthritis clinical trials, baricitinib treatment was associated with dose-dependent increases in triglycerides. There was no increase in triglycerides levels in atopic dermatitis and alopecia areata clinical trials.
+
+<div style=\"page-break-after: always\"></div>
+
+Elevations in LDL cholesterol decreased to pre-treatment levels in response to statin therapy.
+
+## Creatine phosphokinase (CPK)
+
+Baricitinib treatment was associated with dose-dependent increases in CPK. Mean CPK was increased at week 4 and remained at a higher value than baseline thereafter. Across indications, most cases of CPK elevations &gt; 5 x ULN were transient and did not require treatment discontinuation.
+
+In clinical trials, there were no confirmed cases of rhabdomyolysis.
+
+## Neutropenia
+
+Mean neutrophil counts decreased at 4 weeks and remained stable at a lower value than baseline over time. There was no clear relationship between neutropenia and the occurrence of serious infections. However, in clinical studies, treatment was interrupted in response to ANC &lt; 1 x 10 9 cells/L.
+
+## Thrombocytosis
+
+Dose-dependent increases in mean platelet counts were observed and remained stable at a higher value than baseline over time.
+
+## Paediatric population
+
+## Juvenile idiopathic arthritis
+
+A total of 220 patients from 2 to less than 18 years of age were exposed to any dose of baricitinib in the juvenile idiopathic arthritis clinical trial programme, representing 326 patient years' exposure.
+
+In paediatric patients treated with baricitinib in the placebo-controlled double-blind randomised withdrawal period of the juvenile idiopathic arthritis clinical trial (n=82), headache was very common (11 %), neutropenia &lt; 1 000 cells/mm 3  was common (2.4 %, one patient) and pulmonary embolism was common (1.2 %, one patient).
+
+## Paediatric atopic dermatitis
+
+The safety assessment in children and adolescents is based on the safety data of the phase III trial BREEZE-AD-PEDS in which 466 patients between 2 and 18 years of age received any dose of baricitinib. Overall, the safety profile in these patients was comparable to that observed in the adult population. Neutropenia (&lt; 1 x 10 9 cells/L) was more common (1.7%) compared to adults.
+
+## Adolescent alopecia areata
+
+A total of 245 patients from 12 to less than 18 years of age were exposed to any dose of baricitinib in the phase III trial BRAVE-AA-PEDS. Of those, 85 patients were treated with 4 mg in the placebocontrolled period. Overall, the safety profile in adolescent patients was comparable to that observed in the adult population. Acne (10.6%) and neutropaenia (3.6%) (&lt; 1 x 10 9  cells/L) were more common compared to adults.
+
+## Reporting of suspected adverse reactions
+
+Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
+
+## 4.9 Overdose
+
+Single doses up to 40 mg and multiple doses of up to 20 mg daily for 10 days have been administered to adult patients in clinical trials without dose-limiting toxicity. No specific toxicities were identified.
+
+<div style=\"page-break-after: always\"></div>
+
+Pharmacokinetic data of a single dose of 40 mg in healthy volunteers indicate that more than 90 % of the administered dose is expected to be eliminated within 24 hours. In case of an overdose, it is recommended that the patient be monitored for signs and symptoms of adverse reactions. Patients who develop adverse reactions should receive appropriate treatment.
+
+## 5. PHARMACOLOGICAL PROPERTIES
+
+## 5.1 Pharmacodynamic properties
+
+Pharmacotherapeutic group: Immunosuppressants, Janus-associated kinase (JAK) inhibitors, ATC code: L04AF02
+
+## Mechanism of action
+
+Baricitinib is a selective and reversible inhibitor of Janus kinase (JAK)1 and JAK2. In isolated enzyme assays, baricitinib inhibited the activities of JAK1, JAK2, Tyrosine Kinase 2 and JAK3 with IC50 values of 5.9, 5.7, 53 and &gt; 400 nM, respectively.
+
+Janus kinases (JAKs) are enzymes that transduce intracellular signals from cell surface receptors for a number of cytokines and growth factors involved in haematopoiesis, inflammation and immune function. Within the intracellular signalling pathway, JAKs phosphorylate and activate signal transducers and activators of transcription (STATs), which activate gene expression within the cell. Baricitinib modulates these signalling pathways by partially inhibiting JAK1 and JAK2 enzymatic activity, thereby reducing the phosphorylation and activation of STATs.
+
+## Pharmacodynamic effects
+
+## Inhibition of IL-6 induced STAT3 phosphorylation
+
+Administration of baricitinib resulted in a dose dependent inhibition of IL-6 induced STAT3 phosphorylation in whole blood from healthy subjects with maximal inhibition observed 2 hours after dosing which returned to near baseline by 24 hours.
+
+## Immunoglobulins
+
+Mean serum IgG, IgM, and IgA values decreased by 12 weeks after starting treatment, and remained stable at a lower value than baseline through at least 104 weeks. For most patients, changes in immunoglobulins occurred within the normal reference range.
+
+## Lymphocytes
+
+Mean absolute lymphocyte count increased by 1 week after starting treatment, returned to baseline by week 24, and then remained stable through at least 104 weeks. For most patients, changes in lymphocyte count occurred within the normal reference range.
+
+## C-reactive protein
+
+In patients with rheumatoid arthritis, decreases in serum C-reactive protein (CRP) were observed as early as 1 week after starting treatment and were maintained throughout dosing.
+
+## Creatinine
+
+In clinical trials, baricitinib induced a mean increase in serum creatinine levels of 3.8 µmol/L after two weeks of treatment, which remained stable thereafter. This may be due to inhibition of creatinine secretion by baricitinib in the renal tubules. Consequently, estimates of the glomerular filtration rate based on serum creatinine may be slightly reduced, without actual loss of renal function or the occurrence of renal adverse reactions. In alopecia areata, mean serum creatinine continued to increase up to week 52. In atopic dermatitis and alopecia areata, baricitinib was associated with a decrease in cystatin C (also used to estimate glomerular filtration rate) at week 4, with no further decreases thereafter.
+
+<div style=\"page-break-after: always\"></div>
+
+## In vitro skin models
+
+In an in vitro human skin model treated with pro-inflammatory cytokines (i.e., IL-4, IL-13, IL-31), baricitinib reduced epidermal keratinocyte pSTAT3 expression, and increased the expression of filaggrin, a protein that plays a role in skin barrier function and in the pathogenesis of atopic dermatitis.
+
+## Vaccine study
+
+The  influence  of  baricitinib  on  the  humoral  response  to  non-live  vaccines  was  evaluated  in 106 rheumatoid arthritis patients under stable treatment with baricitinib 2 or 4 mg, receiving inactivated pneumococcal  or  tetanus  vaccination.  The  majority  of  these  patients  (n = 94)  were  co-treated  with methotrexate. For the total population, pneumococcal vaccination resulted in a satisfactory IgG immune response in 68 % (95 % CI: 58.4 %, 76.2 %) of the patients. In 43.1 % (95 % CI: 34 %, 52.8 %) of the patients, a satisfactory IgG immune response to tetanus vaccination was achieved .
+
+## Clinical efficacy
+
+## Rheumatoid arthritis
+
+The efficacy and safety of baricitinib once daily were assessed in 4 Phase III randomised, double-blind, multicentre studies in adult patients with moderate to severe active rheumatoid arthritis diagnosed according to the ACR/EULAR 2010 criteria (Table 3). The presence of at least 6 tender and 6 swollen joints was required at baseline. All patients who completed these studies were eligible to enrol in a long-term extension study for up to 7 years additional treatment.
+
+<div style=\"page-break-after: always\"></div>
+
+Table 3. Clinical trial summary
+
+| Study name (Duration)   | Population (Number)   | Treatment arms                                                                                                   | Summary of key outcome measures                                                                                                                                           |
+|-------------------------|-----------------------|------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| RA-BEGIN (52 weeks)     | MTX-naïve 1 (584)     | • Baricitinib 4 mg QD • Baricitinib 4 mg QD + MTX • MTX                                                          | • Primary endpoint: ACR20 at week 24 • Physical function (HAQ-DI) • Radiographic progression (mTSS) • Low disease activity and Remission (SDAI)                           |
+| RA-BEAM (52 weeks)      | MTX-IR 2 (1305)       | • Baricitinib 4 mg QD • Adalimumab 40 mg SC Q2W • Placebo All patients on background MTX                         | • Primary endpoint: ACR20 at week 12 • Physical function (HAQ-DI) • Radiographic progression (mTSS) • Low disease activity and Remission (SDAI) • Morning Joint Stiffness |
+| RA-BUILD (24 weeks)     | cDMARD-IR 3 (684)     | • Baricitinib 4 mg QD • Baricitinib 2 mg QD • Placebo On background cDMARDs 5 if on stable cDMARD at study entry | • Primary endpoint: ACR20 at week 12 • Physical function (HAQ-DI) • Low disease activity and remission (SDAI) • Radiographic progression (mTSS) • Morning Joint Stiffness |
+| RA- BEACON (24 weeks)   | TNF-IR 4 (527)        | • Baricitinib 4 mg QD • Baricitinib 2 mg QD • Placebo On background cDMARDs 5                                    | • Primary endpoint: ACR20 at week 12 • Physical function (HAQ-DI) • Low disease activity and Remission (SDAI)                                                             |
+
+Abbreviations: IR = inadequate responder; QD = Once daily; Q2W = Once every 2 weeks; SC = Subcutaneously; ACR = American College of Rheumatology; SDAI = Simplified Disease Activity Index; HAQ-DI = Health Assessment Questionnaire-Disability Index; mTSS = modified Total Sharp Score
+
+1 Patients who had received less than 3 doses of Methotrexate (MTX); naïve to other conventional or biologic DMARDs
+
+2 Patients who had an inadequate response to MTX (+/- other cDMARDs); biologic-naïve
+
+3 Patients who had an inadequate response or were intolerant to ≥ 1 cDMARDs; biologic- naïve
+
+4 Patients who had an inadequate response or were intolerant to ≥ 1 bDMARDs; including at least one TNF inhibitor
+
+5  Most common concomitant cDMARDs included MTX, hydroxychloroquine, leflunomide and sulfasalazine
+
+## Clinical response
+
+In all studies, patients treated with baricitinib 4 mg once daily had statistically significantly higher ACR20, ACR50 and ACR70 response at 12 weeks compared to placebo, methotrexate (MTX) or adalimumab (Table 4). Time to onset of efficacy was rapid across measures with significantly greater responses seen as early as week 1. Continued, durable response rates were observed, with ACR20/50/70 responses maintained for at least 2 years including the long-term extension study.
+
+Treatment with baricitinib 4 mg, alone or in combination with cDMARDs, resulted in significant improvements in all individual ACR components, including tender and swollen joint counts, patient and physician global assessments, HAQ-DI, pain assessment and CRP, compared to placebo, MTX or adalimumab.
+
+No relevant differences regarding efficacy and safety were observed in subgroups defined by types of concomitant DMARDs used in combination with baricitinib.
+
+<div style=\"page-break-after: always\"></div>
+
+## Remission and low disease activity
+
+A statistically significantly greater proportion of patients treated with baricitinib 4 mg compared to placebo or MTX achieved remission (SDAI ≤ 3.3 and CDAI ≤ 2.8) or low disease activity or remission (DAS28-ESR or DAS28-hsCRP ≤ 3.2 and DAS28-ESR or DAS28-hsCRP &lt; 2.6), at weeks 12 and 24 (Table 4).
+
+Greater rates of remission compared to placebo were observed as early as week 4. Remission and low disease activity rates were maintained for at least 2 years. Data from the long-term extension study up to 6 years follow-up indicate durable low disease activity/remission rates.
+
+<div style=\"page-break-after: always\"></div>
+
+Table 4: Response, remission and physical function
+
+| Study                                                                                | RA-BEGIN MTX-naïve patients                                                          | RA-BEGIN MTX-naïve patients                                                          | RA-BEGIN MTX-naïve patients                                                          | RA-BEAM MTX-IR patients                                                              | RA-BEAM MTX-IR patients                                                              | RA-BEAM MTX-IR patients                                                              | RA-BUILD cDMARD-IR patients                                                          | RA-BUILD cDMARD-IR patients                                                          | RA-BUILD cDMARD-IR patients                                                          | RA-BEACON TNF-IR patients                                                            | RA-BEACON TNF-IR patients                                                            | RA-BEACON TNF-IR patients                                                            |
+|--------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
+| Treatment group                                                                      | MTX                                                                                  | BARI 4 mg                                                                            | BARI 4 mg + MTX                                                                      | PBO                                                                                  | BARI 4 mg                                                                            | ADA 40 mg Q2W                                                                        | PBO                                                                                  | BARI 2 mg                                                                            | BARI 4 mg                                                                            | PBO                                                                                  | BARI 2 mg                                                                            | BARI 4 mg                                                                            |
+| N                                                                                    | 210                                                                                  | 159                                                                                  | 215                                                                                  | 488                                                                                  | 487                                                                                  | 330                                                                                  | 228                                                                                  | 229                                                                                  | 227                                                                                  | 176                                                                                  | 174                                                                                  | 177                                                                                  |
+| ACR20:                                                                               | ACR20:                                                                               | ACR20:                                                                               | ACR20:                                                                               | ACR20:                                                                               | ACR20:                                                                               | ACR20:                                                                               | ACR20:                                                                               | ACR20:                                                                               | ACR20:                                                                               | ACR20:                                                                               | ACR20:                                                                               | ACR20:                                                                               |
+| Week 12                                                                              | 59%                                                                                  | 79% ***                                                                              | 77% ***                                                                              | 40%                                                                                  | 70% ***†                                                                             | 61% ***                                                                              | 39%                                                                                  | 66% ***                                                                              | 62% ***                                                                              | 27%                                                                                  | 49% ***                                                                              | 55% ***                                                                              |
+| Week 24                                                                              | 62%                                                                                  | 77% **                                                                               | 78% ***                                                                              | 37%                                                                                  | 74% ***†                                                                             | 66% ***                                                                              | 42%                                                                                  | 61% ***                                                                              | 65% ***                                                                              | 27%                                                                                  | 45% ***                                                                              | 46% ***                                                                              |
+| Week 52                                                                              | 56%                                                                                  | 73% ***                                                                              | 73% ***                                                                              |                                                                                      | 71% ††                                                                               | 62%                                                                                  |                                                                                      |                                                                                      |                                                                                      |                                                                                      |                                                                                      |                                                                                      |
+| ACR50:                                                                               | ACR50:                                                                               | ACR50:                                                                               | ACR50:                                                                               | ACR50:                                                                               | ACR50:                                                                               | ACR50:                                                                               | ACR50:                                                                               | ACR50:                                                                               | ACR50:                                                                               | ACR50:                                                                               | ACR50:                                                                               | ACR50:                                                                               |
+| Week 12                                                                              | 33%                                                                                  | 55% ***                                                                              | 60% ***                                                                              | 17%                                                                                  | 45% ***††                                                                            | 35% ***                                                                              | 13%                                                                                  | 33% ***                                                                              | 34% ***                                                                              | 8%                                                                                   | 20% **                                                                               | 28% ***                                                                              |
+| Week 24                                                                              | 43%                                                                                  | 60% **                                                                               | 63% ***                                                                              | 19%                                                                                  | 51% ***                                                                              | 45% ***                                                                              | 21%                                                                                  | 41% ***                                                                              | 44% ***                                                                              | 13%                                                                                  | 23% *                                                                                | 29% ***                                                                              |
+| Week 52                                                                              | 38%                                                                                  | 57% ***                                                                              | 62% ***                                                                              |                                                                                      | 56% †                                                                                | 47%                                                                                  |                                                                                      |                                                                                      |                                                                                      |                                                                                      |                                                                                      |                                                                                      |
+| ACR70:                                                                               | ACR70:                                                                               | ACR70:                                                                               | ACR70:                                                                               | ACR70:                                                                               | ACR70:                                                                               | ACR70:                                                                               | ACR70:                                                                               | ACR70:                                                                               | ACR70:                                                                               | ACR70:                                                                               | ACR70:                                                                               | ACR70:                                                                               |
+| Week 12                                                                              | 16%                                                                                  | 31% ***                                                                              | 34% ***                                                                              | 5%                                                                                   | 19% ***†                                                                             | 13% ***                                                                              | 3%                                                                                   | 18% ***                                                                              | 18% ***                                                                              | 2%                                                                                   | 13% ***                                                                              | 11% **                                                                               |
+| Week 24                                                                              | 21%                                                                                  | 42% ***                                                                              | 40% ***                                                                              | 8%                                                                                   | 30% ***†                                                                             | 22% ***                                                                              | 8%                                                                                   | 25% ***                                                                              | 24% ***                                                                              | 3%                                                                                   | 13% ***                                                                              | 17% ***                                                                              |
+| Week 52                                                                              | 25%                                                                                  | 42% ***                                                                              | 46% ***                                                                              |                                                                                      | 37%                                                                                  | 31%                                                                                  |                                                                                      |                                                                                      |                                                                                      |                                                                                      |                                                                                      |                                                                                      |
+| DAS28-hsCRP ≤ 3.2:                                                                   | DAS28-hsCRP ≤ 3.2:                                                                   | DAS28-hsCRP ≤ 3.2:                                                                   | DAS28-hsCRP ≤ 3.2:                                                                   | DAS28-hsCRP ≤ 3.2:                                                                   | DAS28-hsCRP ≤ 3.2:                                                                   | DAS28-hsCRP ≤ 3.2:                                                                   | DAS28-hsCRP ≤ 3.2:                                                                   | DAS28-hsCRP ≤ 3.2:                                                                   | DAS28-hsCRP ≤ 3.2:                                                                   | DAS28-hsCRP ≤ 3.2:                                                                   | DAS28-hsCRP ≤ 3.2:                                                                   | DAS28-hsCRP ≤ 3.2:                                                                   |
+| Week 12                                                                              | 30%                                                                                  | 47% ***                                                                              | 56% ***                                                                              | 14%                                                                                  | 44% ***††                                                                            | 35% ***                                                                              | 17%                                                                                  | 36% ***                                                                              | 39% ***                                                                              | 9%                                                                                   | 24% ***                                                                              | 32% ***                                                                              |
+| Week 24                                                                              | 38%                                                                                  | 57% ***                                                                              | 60% ***                                                                              | 19%                                                                                  | 52% ***                                                                              | 48% ***                                                                              | 24%                                                                                  | 46% ***                                                                              | 52% ***                                                                              | 11%                                                                                  | 20% *                                                                                | 33% ***                                                                              |
+| Week 52                                                                              | 38%                                                                                  | 57% ***                                                                              | 63% ***                                                                              |                                                                                      | 56% †                                                                                | 48%                                                                                  |                                                                                      |                                                                                      |                                                                                      |                                                                                      |                                                                                      |                                                                                      |
+| SDAI ≤ 3.3:                                                                          | SDAI ≤ 3.3:                                                                          | SDAI ≤ 3.3:                                                                          | SDAI ≤ 3.3:                                                                          | SDAI ≤ 3.3:                                                                          | SDAI ≤ 3.3:                                                                          | SDAI ≤ 3.3:                                                                          | SDAI ≤ 3.3:                                                                          | SDAI ≤ 3.3:                                                                          | SDAI ≤ 3.3:                                                                          | SDAI ≤ 3.3:                                                                          | SDAI ≤ 3.3:                                                                          | SDAI ≤ 3.3:                                                                          |
+| Week 12                                                                              | 6%                                                                                   | 14% *                                                                                | 20% ***                                                                              | 2%                                                                                   | 8% ***                                                                               | 7% ***                                                                               | 1%                                                                                   | 9% ***                                                                               | 9% ***                                                                               | 2%                                                                                   | 2%                                                                                   | 5%                                                                                   |
+| Week 24                                                                              | 10%                                                                                  | 22% **                                                                               | 23% ***                                                                              | 3%                                                                                   | 16% ***                                                                              | 14% ***                                                                              | 4%                                                                                   | 17% ***                                                                              | 15% ***                                                                              | 2%                                                                                   | 5%                                                                                   | 9% **                                                                                |
+| Week 52                                                                              | 13%                                                                                  | 25% **                                                                               | 30% ***                                                                              |                                                                                      | 23%                                                                                  | 18%                                                                                  |                                                                                      |                                                                                      |                                                                                      |                                                                                      |                                                                                      |                                                                                      |
+| CDAI ≤ 2.8:                                                                          | CDAI ≤ 2.8:                                                                          | CDAI ≤ 2.8:                                                                          | CDAI ≤ 2.8:                                                                          | CDAI ≤ 2.8:                                                                          | CDAI ≤ 2.8:                                                                          | CDAI ≤ 2.8:                                                                          | CDAI ≤ 2.8:                                                                          | CDAI ≤ 2.8:                                                                          | CDAI ≤ 2.8:                                                                          | CDAI ≤ 2.8:                                                                          | CDAI ≤ 2.8:                                                                          | CDAI ≤ 2.8:                                                                          |
+| Week 12                                                                              | 7%                                                                                   | 14% *                                                                                | 19% ***                                                                              | 2%                                                                                   | 8% ***                                                                               | 7% **                                                                                | 2%                                                                                   | 10% ***                                                                              | 9% ***                                                                               | 2%                                                                                   | 3%                                                                                   | 6%                                                                                   |
+| Week 24                                                                              | 11%                                                                                  | 21% **                                                                               | 22% **                                                                               | 4%                                                                                   | 16% ***                                                                              | 12% ***                                                                              | 4%                                                                                   | 15% ***                                                                              | 15% ***                                                                              | 3%                                                                                   | 5%                                                                                   | 9% *                                                                                 |
+| Week 52                                                                              | 16%                                                                                  | 25% *                                                                                | 28% **                                                                               |                                                                                      | 22%                                                                                  | 18%                                                                                  |                                                                                      |                                                                                      |                                                                                      |                                                                                      |                                                                                      |                                                                                      |
+| HAQ-DI Minimum Clinically Important Difference (decrease in HAQ-DI score of ≥ 0.30): | HAQ-DI Minimum Clinically Important Difference (decrease in HAQ-DI score of ≥ 0.30): | HAQ-DI Minimum Clinically Important Difference (decrease in HAQ-DI score of ≥ 0.30): | HAQ-DI Minimum Clinically Important Difference (decrease in HAQ-DI score of ≥ 0.30): | HAQ-DI Minimum Clinically Important Difference (decrease in HAQ-DI score of ≥ 0.30): | HAQ-DI Minimum Clinically Important Difference (decrease in HAQ-DI score of ≥ 0.30): | HAQ-DI Minimum Clinically Important Difference (decrease in HAQ-DI score of ≥ 0.30): | HAQ-DI Minimum Clinically Important Difference (decrease in HAQ-DI score of ≥ 0.30): | HAQ-DI Minimum Clinically Important Difference (decrease in HAQ-DI score of ≥ 0.30): | HAQ-DI Minimum Clinically Important Difference (decrease in HAQ-DI score of ≥ 0.30): | HAQ-DI Minimum Clinically Important Difference (decrease in HAQ-DI score of ≥ 0.30): | HAQ-DI Minimum Clinically Important Difference (decrease in HAQ-DI score of ≥ 0.30): | HAQ-DI Minimum Clinically Important Difference (decrease in HAQ-DI score of ≥ 0.30): |
+| Week 12                                                                              | 60%                                                                                  | 81% ***                                                                              | 77% ***                                                                              | 46%                                                                                  | 68% ***                                                                              | 64% ***                                                                              | 44%                                                                                  | 60% ***                                                                              | 56% **                                                                               | 35%                                                                                  | 48% *                                                                                | 54% ***                                                                              |
+| Week 24                                                                              | 66%                                                                                  | 77% *                                                                                | 74%                                                                                  | 37%                                                                                  | 67% ***†                                                                             | 60% ***                                                                              | 37%                                                                                  | 58% ***                                                                              | 55% ***                                                                              | 24%                                                                                  | 41% ***                                                                              | 44% ***                                                                              |
+| Week 52                                                                              | 53%                                                                                  | 65% *                                                                                | 67% **                                                                               |                                                                                      | 61%                                                                                  | 55%                                                                                  |                                                                                      |                                                                                      |                                                                                      |                                                                                      |                                                                                      |                                                                                      |
+
+Note: Proportions of responders at each time point based on those initially randomised to treatment (N). Patients who discontinued or received rescue therapy were considered as non-responders thereafter.
+
+Abbreviations: ADA = adalimumab; BARI = baricitinib; IR = inadequate responder; MTX = methotrexate; PBO = Placebo
+
+* p ≤ 0.05; ** p ≤ 0.01; *** p ≤ 0.001 vs. placebo (vs. MTX for study RA-BEGIN)
+
+† p ≤ 0.05; †† p ≤ 0.01; ††† p ≤ 0.001 vs. adalimumab
+
+## Radiographic response
+
+The effect of baricitinib on progression of structural joint damage was evaluated radiographically in studies RA-BEGIN, RA-BEAM and RA-BUILD and assessed using the modified Total Sharp Score (mTSS) and its components, the erosion score and joint space narrowing score.
+
+<div style=\"page-break-after: always\"></div>
+
+Treatment with baricitinib 4 mg resulted in a statistically significant inhibition of progression of structural joint damage (Table 5). Analyses of erosion and joint space narrowing scores were consistent with the overall scores. The proportion of patients with no radiographic progression (mTSS change ≤ 0) was significantly higher with baricitinib 4 mg compared to placebo at weeks 24 and 52.
+
+Table 5. Radiographic changes
+
+| Study                                                       | RA-BEGIN MTX-naïve patients                                 | RA-BEGIN MTX-naïve patients                                 | RA-BEGIN MTX-naïve patients                                 | RA-BEAM MTX-IR patients                                     | RA-BEAM MTX-IR patients                                     | RA-BEAM MTX-IR patients                                     | RA-BUILD cDMARD-IR patients                                 | RA-BUILD cDMARD-IR patients                                 | RA-BUILD cDMARD-IR patients                                 |
+|-------------------------------------------------------------|-------------------------------------------------------------|-------------------------------------------------------------|-------------------------------------------------------------|-------------------------------------------------------------|-------------------------------------------------------------|-------------------------------------------------------------|-------------------------------------------------------------|-------------------------------------------------------------|-------------------------------------------------------------|
+| Treatment group                                             | MTX                                                         | BARI4 mg                                                    | BARI4 mg + MTX                                              | PBO a                                                       | BARI4 mg                                                    | ADA 40 mg Q2W                                               | PBO                                                         | BARI2 mg                                                    | BARI4 mg                                                    |
+| Modified Total Sharp Score, mean change from baseline:      | Modified Total Sharp Score, mean change from baseline:      | Modified Total Sharp Score, mean change from baseline:      | Modified Total Sharp Score, mean change from baseline:      | Modified Total Sharp Score, mean change from baseline:      | Modified Total Sharp Score, mean change from baseline:      | Modified Total Sharp Score, mean change from baseline:      | Modified Total Sharp Score, mean change from baseline:      | Modified Total Sharp Score, mean change from baseline:      | Modified Total Sharp Score, mean change from baseline:      |
+| Week 24                                                     | 0.61                                                        | 0.39                                                        | 0.29 *                                                      | 0.90                                                        | 0.41 ***                                                    | 0.33 ***                                                    | 0.70                                                        | 0.33 *                                                      | 0.15 **                                                     |
+| Week 52                                                     | 1.02                                                        | 0.80                                                        | 0.40 **                                                     | 1.80                                                        | 0.71 ***                                                    | 0.60 ***                                                    |                                                             |                                                             |                                                             |
+| Proportion of patients with no radiographic progression b : | Proportion of patients with no radiographic progression b : | Proportion of patients with no radiographic progression b : | Proportion of patients with no radiographic progression b : | Proportion of patients with no radiographic progression b : | Proportion of patients with no radiographic progression b : | Proportion of patients with no radiographic progression b : | Proportion of patients with no radiographic progression b : | Proportion of patients with no radiographic progression b : | Proportion of patients with no radiographic progression b : |
+| Week 24                                                     | 68%                                                         | 76%                                                         | 81% **                                                      | 70%                                                         | 81% ***                                                     | 83% ***                                                     | 74%                                                         | 72%                                                         | 80%                                                         |
+| Week 52                                                     | 66%                                                         | 69%                                                         | 80% **                                                      | 70%                                                         | 79% **                                                      | 81% **                                                      |                                                             |                                                             |                                                             |
+
+Abbreviations: ADA = adalimumab; BARI = baricitinib; IR = inadequate responder;
+
+MTX = methotrexate; PBO = Placebo
+
+- a Placebo data at week 52 derived using linear extrapolation
+
+b No progression defined as mTSS change ≤ 0.
+
+* p ≤ 0.05; ** p ≤ 0.01; *** p ≤ 0.001 vs. placebo (vs. MTX for study RA-BEGIN)
+
+## Physical function response and health-related outcomes
+
+Treatment with baricitinib 4 mg, alone or in combination with cDMARDs, resulted in a significant improvement in physical function (HAQ-DI) and pain (0-100 visual analogue scale) compared to all comparators (placebo, MTX, adalimumab). Improvements were seen as early as week 1 and, in studies RA-BEGIN and RA-BEAM, this was maintained for up to 52 weeks.
+
+In RA-BEAM and RA-BUILD, treatment with baricitinib 4 mg resulted in a significant improvement in the mean duration and severity of morning joint stiffness compared to placebo or adalimumab as assessed using daily electronic patient diaries.
+
+In all studies, baricitinib-treated patients reported improvements in patient-reported quality of life, as measured by the Short Form (36) Health Survey (SF-36) Physical Component Score and fatigue, as measured by the Functional Assessment of Chronic Illness Therapy-Fatigue score (FACIT-F).
+
+## Baricitinib 4 mg vs. 2 mg
+
+Differences in efficacy between the 4 mg and the 2 mg doses were most notable in the bDMARD-inadequate responder (IR) population (RA-BEACON), in which statistically significant improvements in the ACR components of swollen joint count, tender joint count and ESR were shown for baricitinib 4 mg compared to placebo at week 24 but not for baricitinib 2 mg compared to placebo. In addition, for both study RA-BEACON and RA-BUILD, onset of efficacy was faster and the effect size was generally larger for the 4 mg dose groups compared to 2 mg.
+
+In a long-term extension study, patients from Studies RA-BEAM, RA-BUILD and RA-BEACON who achieved sustained low disease activity or remission (CDAI ≤ 10) after at least 15 months of treatment with baricitinib 4 mg once daily were re-randomised 1:1 in a double-blind manner to continue 4 mg once daily or reduce dose to 2 mg once daily. The majority of patients maintained low disease activity or remission based on CDAI score:
+
+- At week 12:  451/498 (91 %) continuing 4 mg vs.  405/498 (81 %) reduced to 2 mg (p ≤ 0.001)
+- At week 24:  434/498 (87 %) continuing 4 mg vs.  372/498 (75 %) reduced to 2 mg (p ≤ 0.001)
+- At week 48:  400/498 (80 %) continuing 4 mg vs.  343/498 (69 %) reduced to 2 mg (p ≤ 0.001)
+
+<div style=\"page-break-after: always\"></div>
+
+- At week 96: 347/494 (70 %) continuing 4 mg vs. 297/496 (60 %) reduced to 2 mg (p ≤ 0.001)
+
+The majority of patients who lost their low disease activity or remission status after dose reduction could regain disease control after the dose was returned to 4 mg.
+
+## Adults with atopic dermatitis
+
+The efficacy and safety of baricitinib as monotherapy or in combination with topical corticosteroids (TCS) were assessed in 3 Phase III randomised, double-blind, placebo-controlled, 16 week studies (BREEZE-AD1, -AD2, and -AD7). The studies included 1 568 patients with moderate to severe atopic dermatitis defined by Investigator's Global Assessment (IGA) score ≥ 3, an Eczema Area and Severity Index (EASI) score ≥ 16, and a body surface area (BSA) involvement of ≥ 10 %. Eligible patients were over 18 years of age and had previous inadequate response or were intolerant to topical medicinal products. Patients were permitted to receive rescue treatment (which included topical or systemic therapy), at which time they were considered non-responders. At baseline of study BREEZEAD7, all patients were on concomitant topical corticosteroids therapy and patients were permitted to use topical calcineurin inhibitors. All patients who completed these studies were eligible to enrol in a long-term extension study (BREEZE AD-3) for up to 4 years of continued treatment.
+
+The Phase III randomised, double-blind, placebo-controlled BREEZE-AD4 study evaluated the efficacy of baricitinib in combination with topical corticosteroids over 52 weeks in 463 patients with moderate to severe atopic dermatitis with failure, intolerance, or contraindication to oral ciclosporin treatment.
+
+## Baseline characteristics
+
+In the placebo-controlled Phase III studies (BREEZE-AD1, -AD2, -AD7, and -AD4), across all treatment groups, 37 % were female, 64 % were Caucasian, 31 % were Asian and 0.6 % were Black, and the mean age was 35.6 years. In these studies, 42 % to 51 % of patients had a baseline IGA of 4 (severe atopic dermatitis), and 54 % to 79 % of patients had received prior systemic treatment for atopic dermatitis. The baseline mean EASI score ranged from 29.6 to 33.5, the baseline weekly averaged Itch Numerical Rating Scale (NRS) ranged from 6.5 to 7.1, the baseline mean Dermatology Life Quality Index (DLQI) ranged from 13.6 to 14.9, and the baseline mean Hospital Anxiety and Depression Scale (HADS) Total score ranged from 10.9 to 12.1.
+
+## Clinical response
+
+16-week monotherapy (BREEZE-AD1, -AD2) and TCS combination (BREEZE-AD7) studies A significantly larger proportion of patients randomised to baricitinib 4 mg achieved an IGA 0 or 1 response (primary outcome) , EASI75, or an improvement of ≥ 4 points on the Itch NRS compared to placebo at week 16 (Table 6). Figure 1 shows the mean percent change from baseline in EASI up to week 16.
+
+A significantly greater proportion of patients randomised to baricitinib 4 mg achieved a ≥ 4-point improvement in the Itch NRS compared to placebo (within the first week of treatment for BREEZE-AD1 and AD2, and as early as week 2 for BREEZE-AD7; p &lt; 0.002).
+
+Treatment effects in subgroups (weight, age, gender, race, disease severity, and previous treatment, including immunosuppressants) were consistent with the results in the overall study population.
+
+<div style=\"page-break-after: always\"></div>
+
+Table 6. Efficacy of baricitinib at week 16 (FAS a )
+
+|                                                     | Monotherapy   | Monotherapy   | Monotherapy   | Monotherapy   | Monotherapy   | Monotherapy   | TCS combination   | TCS combination   | TCS combination   |
+|-----------------------------------------------------|---------------|---------------|---------------|---------------|---------------|---------------|-------------------|-------------------|-------------------|
+| Study                                               | BREEZE- AD1   | BREEZE- AD1   | BREEZE- AD1   | BREEZE-AD2    | BREEZE-AD2    | BREEZE-AD2    | BREEZE- AD7       | BREEZE- AD7       | BREEZE- AD7       |
+| Treatment Group                                     | PBO           | BARI 2 mg     | BARI 4 mg     | PBO           | BARI 2 mg     | BARI 4 mg     | PBO + TCS         | BARI 2 mg + TCS   | BARI 4 mg + TCS   |
+| N                                                   | 249           | 123           | 125           | 244           | 123           | 123           | 109               | 109               | 111               |
+| IGA 0 or 1, %responders b, c                        | 4.8           | 11.4**        | 16.8**        | 4.5           | 10.6**        | 13.8**        | 14.7              | 23.9              | 30.6**            |
+| EASI-75, %responders c                              | 8.8           | 18.7**        | 24.8**        | 6.1           | 17.9**        | 21.1**        | 22.9              | 43.1*             | 47.7**            |
+| Itch NRS (≥ 4 point improvement), %responders c , d | 7.2           | 12.0          | 21.5**        | 4.7           | 15.1**        | 18.7**        | 20.2              | 38.1*             | 44.0**            |
+
+BARI = Baricitinib; PBO = Placebo
+
+* statistically significant vs placebo without adjustment for multiplicity; ** statistically significant vs placebo with adjustment for multiplicity.
+- a Full analysis set (FAS) including all randomised patients.
+- b Responder was defined as a patient with IGA 0 or 1 ('clear' or 'almost clear') with a reduction of ≥ 2 points on 0-4 IGA scale.
+- c Non-Responder Imputation: Patients who received rescue treatment or with missing data were considered as non-responders.
+- d Results shown in subset of patients eligible for assessment (patients with itch NRS ≥ 4 at baseline).
+- LS = Least squares; * statistically significant vs placebo without adjustment for multiplicity; ** statistically significant vs placebo with adjustment for multiplicity.
+- a Full analysis set (FAS) including all patients randomised. Data collected after rescue therapy or after permanent medicinal product discontinuation were considered missing. LS means are from Mixed Model with Repeated Measures (MMRM) analyses.
+
+Figure 1. Mean percent change from baseline in EASI (FAS) a
+
+<!-- image -->
+
+## Maintenance of response
+
+To evaluate maintenance of response, 1 398 subjects treated with baricitinib for 16 weeks in BREEZE-AD1 (N = 566), BREEZE-AD2 (N = 540) and BREEZE-AD7 (N = 292) were eligible to enrol in a long-term extension study BREEZE-AD3. Data are available up to 4 years (216 weeks) of cumulative treatment. Continued response was observed in patients with at least some response (IGA 0, 1 or 2) after initiating baricitinib.
+
+<div style=\"page-break-after: always\"></div>
+
+## Dose tapering
+
+In the long-term extension study BREEZE-AD3, patients who had clear, almost clear skin, or mild disease (i.e., IGA 0, 1, or 2) with baricitinib 4 mg once daily were re-randomised at Week 52 to continue 4 mg once daily or reduce the dose to 2 mg once daily. Among patients who reduced the dose to 2 mg, 37 % had an IGA 0, 1, or 2 response and 52 % had an EASI75 response at Week 200. 47 % of patients in this group had an Itch NRS ≥ 4-point improvement at Week 52, and 40 % had this improvement at Week 68. The proportion of patients with a relapse (IGA ≥ 3) was lower in the subgroup of patients with clear, or almost clear skin (IGA 0 or 1) at start of dose reduction. For those patients who experienced a relapse (IGA ≥ 3) after dose reduction, the majority regained disease control upon retreatment with baricitinib 4 mg.
+
+## Quality of life/patient-reported outcomes in atopic dermatitis
+
+In both monotherapy studies (BREEZE-AD1 and BREEZE-AD2) and in the concomitant TCS study (BREEZE-AD7), baricitinib 4 mg significantly improved patient-reported outcomes, including itch NRS, sleep (ADSS), skin pain (skin pain NRS), quality of life (DLQI) and symptoms of anxiety and depression (HADS) that were uncorrected for multiplicity, at 16 weeks compared to placebo (See Table 7).
+
+Table 7. Quality of life/patient-reported outcomes results of baricitinib monotherapy and baricitinib in combination with TCS at week 16 (FAS)  a
+
+|                                                    | Monotherapy   | Monotherapy   | Monotherapy    | Monotherapy   | Monotherapy    | Monotherapy    | TCS combination   | TCS combination   | TCS combination   |
+|----------------------------------------------------|---------------|---------------|----------------|---------------|----------------|----------------|-------------------|-------------------|-------------------|
+| Study                                              | BREEZE-AD1    | BREEZE-AD1    | BREEZE-AD1     | BREEZE-AD2    | BREEZE-AD2     | BREEZE-AD2     | BREEZE-AD7 e      | BREEZE-AD7 e      | BREEZE-AD7 e      |
+| Treatment group                                    | PBO           | BARI 2 mg     | BARI 4 mg      | PBO           | BARI 2 mg      | BARI 4 mg      | PBO + TCS         | BARI 2 mg + TCS   | BARI 4 mg + TCS   |
+| N                                                  | 249           | 123           | 125            | 244           | 123            | 123            | 109               | 109               | 111               |
+| ADSS Item 2 ≥ 2-point improvement, %responders c,d | 12.8          | 11.4          | 32.7*          | 8.0           | 19.6           | 24.4*          | 30.6              | 61.5*             | 66.7*             |
+| Change in Skin Pain NRS, mean(SE) b                | -0.84 (0.24)  | -1.58 (0.29)  | -1.93** (0.26) | -0.86 (0.26)  | -2.61** (0.30) | -2.49** (0.28) | -2.06 (0.23)      | -3.22* (0.22)     | -3.73* (0.23)     |
+| Change in DLQI, mean(SE) b                         | -2.46 (0.57)  | -4.30* (0.68) | -6.76* (0.60)  | -3.35 (0.62)  | -7.44* (0.71)  | -7.56* (0.66)  | -5.58 (0.61)      | -7.50* (0.58)     | -8.89* (0.58)     |
+| Change in HADS, mean(SE) b                         | -1.22 (0.48)  | -3.22* (0.58) | -3.56* (0.52)  | -1.25 (0.57)  | -2.82 (0.66)   | -3.71* (0.62)  | -3.18 (0.56)      | -4.75* (0.54)     | -5.12* (0.54)     |
+
+BARI = Baricitinib; PBO = Placebo
+
+* statistically significant vs placebo without adjustment for multiplicity; ** statistically significant vs placebo with adjustment for multiplicity.
+
+a Full analysis set (FAS) including all randomised patients.
+
+b Results shown are LS mean change from baseline (SE). Data collected after rescue therapy or after permanent medicinal product discontinuation were considered missing. LS means are from Mixed Model with Repeated Measures (MMRM) analyses.
+
+c ADSS Item 2: Number of night time awakenings due to itch.
+
+d Nonresponder imputation: patients who received rescue treatment or with missing data were considered as nonresponders. Results shown in subset of patients eligible for assessment (patients with ADSS Item 2 ≥ 2 at baseline).
+
+e All patients were on concomitant topical corticosteroids therapy and patients were permitted to use topical calcineurin inhibitors.
+
+<div style=\"page-break-after: always\"></div>
+
+Clinical response in patients with experience with or a contra-indication to ciclosporin treatment (BREEZE-AD4 study)
+
+A total of 463 patients were enrolled, who had either failed (n = 173), or had an intolerance (n = 75), or contraindication (n = 126) to oral ciclosporin. The primary endpoint was the proportion of patients achieving EASI-75 at week 16. The primary and some of the most important secondary endpoints at week 16 are summarised in Table 8.
+
+Table 8: Efficacy of baricitinib in combination with TCS a  at week 16 in BREEZE-AD4 (FAS) b
+
+| Study                                              | BREEZE- AD4   | BREEZE- AD4   | BREEZE- AD4    |
+|----------------------------------------------------|---------------|---------------|----------------|
+| Treatment group                                    | PBO a         | BARI 2 mg a   | BARI 4 mg a    |
+| N                                                  | 93            | 185           | 92             |
+| EASI-75, %responders c                             | 17.2          | 27.6          | 31.5**         |
+| IGA 0 or 1, %responders c, e                       | 9.7           | 15.1          | 21.7*          |
+| Itch NRS (≥ 4 point improvement), %responders c, f | 8.2           | 22.9*         | 38.2**         |
+| Change in DLQI mean (SE) d                         | -4.95 (0.752) | -6.57 (0.494) | -7.95* (0.705) |
+
+BARI = Baricitinib; PBO = Placebo
+
+* statistically significant vs placebo without adjustment for multiplicity; ** statistically significant vs placebo with adjustment for multiplicity.
+
+a All patients were on concomitant topical corticosteroids therapy and patients were permitted to use topical calcineurin inhibitors.
+
+b Full analysis set (FAS) includes all randomised patients.
+
+c Non-Responder Imputation: Patients who received rescue treatment or with missing data were considered as non-responders.
+
+d Data collected after rescue therapy or after permanent medicinal product discontinuation were considered missing. LS means are from Mixed Model with Repeated Measures (MMRM) analyses.
+
+e
+
+Responder was defined as a patient with IGA 0 or 1 ('clear' or 'almost clear') with a reduction of
+
+≥ 2 points on 0-4 IGA scale.
+
+f Results shown in subset of patients eligible for assessment (patients with itch NRS ≥ 4 at baseline).
+
+## Adults with alopecia areata
+
+The efficacy and safety of baricitinib once daily were assessed in one adaptive Phase II/III study (BRAVE-AA1) and one Phase III study (BRAVE-AA2). The Phase III portion of BRAVE-AA1 study and the Phase III BRAVE-AA2 study were randomised, double blind, placebo-controlled, 36-week studies with extension phases up to 200 weeks. In both phase III studies, patients were randomised to placebo, 2 mg or 4 mg baricitinib in a 2:2:3 ratio. Eligible patients were adults between 18 years and 60 years of age for male patients, and between 18 years and 70 years of age for female patients, with a current episode of more than 6 months of severe alopecia areata ( hair loss encompassing ≥ 50 % of the scalp). Patients with a current episode of more than 8 years were not eligible unless episodes of regrowth had been observed on the affected areas of the scalp over the past 8 years. The only permitted concomitant alopecia areata therapies were finasteride (or other 5 alpha reductase inhibitors), oral or topical minoxidil, and bimatoprost ophthalmic solution for eyelashes, if at a stable dose at study entry.
+
+Both studies assessed as primary outcome the proportion of subjects who achieved a SALT (Severity of Alopecia Tool) score of ≤ 20 (80 % or more scalp coverage with hair) at week 36. Additionally, both studies evaluated clinician assessment of eyebrow and eyelash hair loss using a 4-point scale (ClinRO Measure for Eyebrow Hair Loss™, ClinRO Measure for Eyelash Hair Loss™).
+
+<div style=\"page-break-after: always\"></div>
+
+## Baseline characteristics
+
+The Phase III portion of BRAVE-AA1 study and the Phase III BRAVE-AA2 study included 1 200 adult patients. Across all treatment groups, the mean age was 37.5 years, 61 % of patients were female. The mean duration of alopecia areata from onset and the mean duration of current episode of hair loss were 12.2 and 3.9 years, respectively. The median SALT score across the studies was 96 (this equals 96 % scalp hair loss), and approximately 44 % of patients were reported as alopecia universalis. Across the studies, 69 % of patients had significant or complete eyebrow hair loss at baseline and 58 % had significant or complete eyelash hair loss, as measured by ClinRO Measures for eyebrow and eyelash scores of 2 or 3. Approximately 90 % of patients had received at least one treatment for alopecia areata at some point before entering the studies, and 50 % at least one systemic immunosuppressant. The use of authorised concomitant alopecia areata treatments was reported by only 4.3 % of patients during the studies.
+
+## Clinical response
+
+In both studies, a significantly greater proportion of patients randomised to baricitinib 4 mg once daily achieved a SALT ≤ 20 at week 36 compared to placebo, starting as early as week 8 in study BRAVE-AA1 and week 12 in study BRAVE-AA2. Consistent efficacy was seen across most of the secondary endpoints (Table 9). Figure 2 shows the proportion of patients achieving SALT ≤ 20 up to week 36.
+
+Treatment effects in subgroups (gender, age, weight, eGFR, race, geographic region, disease severity, current alopecia areata episode duration) were consistent with the results in the overall study population at week 36.
+
+Table 9. Efficacy of baricitinib through week 36 for pooled studies (pooled week 36 efficacy population a )
+
+|                                                                                                        | BRAVE-AA1 (phase III part of a phase II/III study) and BRAVE-AA2 (phase III study) pooled data*   | BRAVE-AA1 (phase III part of a phase II/III study) and BRAVE-AA2 (phase III study) pooled data*   | BRAVE-AA1 (phase III part of a phase II/III study) and BRAVE-AA2 (phase III study) pooled data*   |
+|--------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
+|                                                                                                        | Placebo N=345                                                                                     | Baricitinib 2 mg N=340                                                                            | Baricitinib 4 mg N=515                                                                            |
+| SALT ≤ 20 at week 36                                                                                   | 4.1%                                                                                              | 19.7 %**                                                                                          | 34.0 %**                                                                                          |
+| SALT ≤ 20 at week 24                                                                                   | 3.2%                                                                                              | 11.2%                                                                                             | 27.4 %**                                                                                          |
+| ClinRO Measure for Eyebrow Hair Loss of 0 or 1 at week 36 with a ≥ 2 point improvement from baseline b | 3.8%                                                                                              | 15.8%                                                                                             | 33.0 %**                                                                                          |
+| ClinRO Measure for Eyelash Hair Loss of 0 or 1 at week 36 with a ≥ 2 point improvement from baseline b | 4.3%                                                                                              | 12.0%                                                                                             | 33.9 %**                                                                                          |
+| Change in Skindex-16 adapted for alopecia areata emotions domain, mean (SE) c                          | -11.33 (1.768)                                                                                    | -19.89 (1.788)                                                                                    | -23.81 (1.488)                                                                                    |
+| Change in Skindex-16 adapted for alopecia areata functioning domain, mean (SE) c                       | -9.26 (1.605)                                                                                     | -13.68 (1.623)                                                                                    | -16.93 (1.349)                                                                                    |
+
+ClinRO = clinician-reported outcome; SE = standard error
+
+<div style=\"page-break-after: always\"></div>
+
+- a Pooled Week 36 Efficacy Population: All patients enrolled in the Phase III portion of Study BRAVE-AA1 and in Study BRAVE-AA2.
+* The results of the pooled analysis are in line with those of the individual studies
+- ** Statistically significant with adjustment for multiplicity in the graphical testing scheme within each individual study.
+- b Patients with ClinRO Measure for Eyebrow Hair loss score of ≥ 2 at baseline: 236 (Placebo), 240 (Baricitinib 2 mg), 349 (Baricitinib 4 mg). Patients with ClinRO Measure for Eyelash Hair loss score of ≥ 2 at baseline: 186 (Placebo), 200 (Baricitinib 2 mg), 307 (Baricitinib 4 mg). Both ClinRO Measures use a 4-point response scale ranging from 0 indicating no hair loss to 3 indicating no notable eyebrow/eyelashes hair.
+- c Sample sizes for analysis on Skindex-16 adapted for alopecia areata at week 36 are n= 256 (Placebo), 249 (Baricitinib 2 mg), 392 (Baricitinib 4 mg).
+- **p-value for baricitinib versus placebo ≤ 0.01; ***p-value for baricitinib versus placebo ≤ 0.001.
+
+Figure 2: Proportion of patients with SALT ≤ 20 through week 36
+
+<!-- image -->
+
+## Efficacy up to week 52
+
+The proportion of patients treated with baricitinib achieving a SALT ≤ 20 continued to increase after week 36, reaching 39.0 % of patients on baricitinib 4 mg at week 52. The results for the baseline disease severity and episode duration subpopulations at week 52 were consistent with those observed at week 36 and with the results in the overall study population.
+
+## Dose tapering substudy
+
+In the study BRAVE-AA2, patients who had received baricitinib 4 mg once daily since the initial randomization and achieved SALT ≤ 20 at week 52 were re-randomised in a double-blind manner to continue 4 mg once daily or reduce dose to 2 mg once daily. The results show that 96 % of the patients who remained on baricitinib 4 mg and 74 % of the patients who were re-randomised to baricitinib 2 mg maintained their response at week 76.
+
+## Juvenile idiopathic arthritis
+
+The baricitinib clinical development programme for juvenile idiopathic arthritis consisted of one completed pivotal Phase III study (JUVE-BASIS) and one ongoing long-term open label safety extension study (JUVE-X).
+
+JUVE-BASIS was a double-blind randomised withdrawal (DBW), up to 44-week placebo-controlled study to evaluate the efficacy and safety of baricitinib when administered once daily to patients from 2 years to less than 18 years of age with juvenile idiopathic arthritis who have had an inadequate response or intolerance to treatment with at least 1 conventional synthetic or biologic DMARD. This included patients with polyarticular juvenile idiopathic arthritis (rheumatoid factor positive or rheumatoid factor negative), extended oligoarticular course juvenile idiopathic arthritis, enthesitis-related juvenile idiopathic arthritis, and juvenile psoriatic arthritis as defined by the International League of Associations for Rheumatology (ILAR) criteria. Patients who participated in JUVE-BASIS were eligible for enrolment into study JUVE-X.
+
+<div style=\"page-break-after: always\"></div>
+
+In JUVE-BASIS, patients received open-label once daily baricitinib for approximately 12 weeks from baseline. Patients 2 to less than 9 years received 2 mg daily and patients 9 to less than 18 years received 4 mg daily, to attain an equivalent exposure to a 4 mg dose in adults. At week 12, treatment response (based on PedACR30 criteria) was reviewed for each patient. Patients who achieved at least a PedACR30 response were randomised (1:1 ratio) to receive placebo or to remain on the same baricitinib dose in the 32-week double-blind, placebo-controlled phase. Patients who did not achieve PedACR30 were given the option of enrolling to JUVE-X.
+
+The primary efficacy endpoint of JUVE-BASIS was time to disease flare from the initiation of the DBW period to the end of the DBW period.
+
+## Baseline characteristics
+
+A total of 220 patients enrolled JUVE-BASIS. Of these, 163 (74.4 %) patients were eligible to be randomised into the DBW period to either baricitinib (n=82) or placebo (n=81). There were 144 patients with polyarticular juvenile idiopathic arthritis, 16 with extended oligoarticular course juvenile idiopathic arthritis, 50 with enthesitis-related juvenile idiopathic arthritis and 10 with juvenile psoriatic arthritis.
+
+In JUVE-BASIS, the mean age was 13 years (standard deviation 3.0) and 69.1 % were female. Patient numbers per age group were as follows: 2 to &lt;6 years: n=6; 6 to &lt;9 years: n=9; 9 to &lt;12 years: n=30; and 12 to &lt;18 years: n=175.
+
+The average time reported by all patients in the study since juvenile idiopathic arthritis diagnosis was 4 years. Use of concomitant therapies was similar across treatment groups in the DBW period (most common concomitant csDMARDs included MTX, sulfasalazine and leflunomide). A total of 127 (57.7 %) patients were on MTX at baseline.
+
+## Clinical response
+
+In JUVE-BASIS, the group of baricitinib treated patients had a significantly longer time to disease flare compared to those receiving placebo (Figure 3). In addition, more patients treated with baricitinib achieved a PedACR value of 30/50/70/90/100 throughout the DBW period, as compared to placebo.
+
+<div style=\"page-break-after: always\"></div>
+
+Figure 3. Time to disease flare during the DBW period
+
+<!-- image -->
+
+CI = confidence interval; HR = hazard ratio; NA = not applicable; No. = number *a HR - stratified by juvenile idiopathic arthritis categories (polyarticular and extended oligoarticular versus enthesitis-related arthritis and juvenile psoriatic arthritis). *b P-value is from log-rank test stratified by juvenile idiopathic arthritis categories (polyarticular and
+
+extended oligoarticular versus enthesitis-related arthritis and juvenile psoriatic arthritis).
+
+Time to disease flare and PedACR score results were overall consistent across juvenile idiopathic arthritis subtypes and background characteristics (including age, geography, weight, prior use of biologic, concomitant use of MTX or corticosteroids), and were consistent with those for the overall study population.
+
+## Paediatric atopic dermatitis
+
+The efficacy and safety of baricitinib in combination with TCS were assessed in a single Phase III randomised, double-blind, placebo-controlled, 16 week study (BREEZE-AD-PEDS). The study included 483 patients with moderate to severe atopic dermatitis defined by IGA score ≥ 3, an EASI score ≥ 16, and a BSA involvement of ≥ 10 %. Eligible patients were 2 to less than 18 years of age and had previous inadequate response or were intolerant to topical medications and were candidates for systemic therapy. All patients were prescribed concomitant low or medium potency topical corticosteroids and patients were permitted to use topical calcineurin inhibitors during the study. Patients were randomised to placebo or baricitinib low, medium or high dose tested (resulting in equivalent exposure to 1 mg, 2 mg or 4 mg in adult AD patients, respectively) in a 1:1:1:1 ratio. The study includes an ongoing long-term extension for up to 4 years.
+
+## Baseline characteristics
+
+Across all treatment groups, 76 % were Caucasian, 15% were Asian and 3 % were Black, 50 % were female and mean age was 12 years with 72 % at least 10 years of age and 28 % less than 10 years of age. Patients 6 years and younger comprised 14% of the population (6 years [N=28], 5 years [N=11], 4 years [N=16], 3 years [N=8], 2 years [N=5]). In this study, 38 % of patients had a baseline IGA of 4 (severe atopic dermatitis), and 42 % of patients had received prior systemic treatment for atopic dermatitis. The baseline EASI score ranged from 12.2 to 70.8, the baseline weekly averaged Itch Numeric Rating Scale (NRS) in patients at least 10 years of age was 5.5 (SD = 2.6).
+
+<div style=\"page-break-after: always\"></div>
+
+## Clinical response
+
+A statistically significant larger proportion of patients randomised to the baricitinib 4 mg equivalent dose achieved an IGA 0 or 1 response (primary outcome), EASI75, or an improvement of ≥ 4 points on the Itch NRS compared to placebo at week 16 (Table 10). Figure 4 shows the time course of achieving IGA 0 or 1.
+
+Treatment effects in subgroups (weight, age, gender, race, disease severity, and previous treatment, including immunosuppressants) were consistent with the results in the overall study population.
+
+Table 10. Efficacy of baricitinib in paediatric patients at week 16 a
+
+| Study                                            | BREEZE-AD-PEDS   | BREEZE-AD-PEDS       |
+|--------------------------------------------------|------------------|----------------------|
+| Treatment group                                  | PBO              | BARI 4 mg equivalent |
+| N                                                | 122              | 120                  |
+| IGA 0 or 1, %responders b,c                      | 16.4             | 41.7**               |
+| EASI75, %responders c                            | 32.0             | 52.5**               |
+| Itch NRS (≥4 point improvement), %responders c,d | 16.4             | 35.5**               |
+
+BARI = Baricitinib; PBO = Placebo
+
+- ** Statistically significant vs placebo with adjustment for multiplicity.
+
+a Intent to Treat (ITT) population (all randomized patients)
+
+- b Responder was defined as a patient with IGA 0 or 1 ('clear' or 'almost clear') with a reduction of ≥ 2 points on 0-4 IGA scale.
+- c Non-Responder Imputation: Patients who received rescue treatment or with missing data were considered as non-responders.
+- d Results shown in subset of patients eligible for assessment (patients aged ≥ 10 years with Itch NRS ≥ 4 at baseline, BARI 4 mg equivalent N=62; Placebo, N = 55).
+
+<div style=\"page-break-after: always\"></div>
+
+Figure 4. Time course for achieving IGA 0 or 1 with ≥ 2 points improvement in paediatric patients through week 16
+
+BARI=baricitinib; NRI=non-responder imputation; PBO=placebo* p&lt; 0.05; ** p&lt; 0.01; *** p&lt; 0.001 vs. PBO (nominal p-value; logistic regression analysis); † Statistically significant with multiplicity adjustment
+
+<!-- image -->
+
+A significantly greater proportion of patients randomised to the baricitinib 4 mg equivalent dose achieved a ≥ 4-point improvement in the Itch NRS compared to placebo as early as week 4 (adjusted for multiplicity).
+
+The need for concomitant TCS use was reduced as demonstrated by a median reduction in gram quantity of TCS use for the baricitinib 4 mg equivalent dose versus placebo over 16 weeks and a greater median number of TCS-free days for the baricitinib 4 mg equivalent dose (25 days) versus placebo (11 days) over 16 weeks.
+
+## Adolescents with alopecia areata
+
+The efficacy and safety of baricitinib once daily was assessed in a single Phase III double-blind, randomised, placebo-controlled 36-week study (BRAVE-AA-PEDS). Patients were randomised to placebo, 2 mg or 4 mg baricitinib in a 1:1:1 ratio. Eligible patients were adolescents 12 to less than 18 years of age, weighing 30 kg or more, with a current episode of more than 6 months of severe alopecia areata ( hair loss encompassing ≥ 50 % of the scalp). Patients with a current episode of more than 8 years were not eligible unless episodes of regrowth had been observed on the affected areas of the scalp over the past 8 years. The only permitted concomitant alopecia areata therapies were oral or topical minoxidil, and bimatoprost ophthalmic solution for eyelashes, if at a stable dose at study entry. The study includes an ongoing long-term extension for up to 2 years.
+
+The primary outcome of the study was the proportion of subjects who achieved a SALT (Severity of Alopecia Tool) score of ≤ 20 (80 % or more scalp coverage with hair) at week 36. Additionally, the study evaluated clinician assessment of eyebrow and eyelash hair loss using a 4-point scale (ClinRO Measure for Eyebrow Hair Loss™, ClinRO Measure for Eyelash Hair Loss™).
+
+## Baseline characteristics
+
+The placebo-controlled adolescent portion of the BRAVE-AA-PEDS study included 257 adolescent patients. Across all treatment groups, the mean age was 14.7 years, and 49 % of patients were female. The mean duration of alopecia areata from onset and the mean duration of current episode of hair loss were 6.4 and 3.2 years, respectively. The median SALT score was 100 (this equals 100 % scalp hair loss), and approximately 54 % of patients were reported as alopecia universalis. As measured by ClinRO Measures for eyebrow and eyelash scores of 2 or 3, 65 % of patients had significant or complete eyebrow hair loss at baseline and 57 % had significant or complete eyelash hair loss. All patients had received at least one treatment for alopecia areata at some point before entering the studies, and 52 % at least one systemic treatment. The use of authorised concomitant alopecia areata treatments was reported by only 3.1 % of patients during the study.
+
+<div style=\"page-break-after: always\"></div>
+
+## Clinical response
+
+A significantly greater proportion of patients randomised to baricitinib 4 mg once daily achieved a SALT ≤ 20 at week 36 compared to placebo, starting as early as week 12. Consistent efficacy of baricitinib 4 mg was seen across all key secondary endpoints (Table 11), numerically supported by the majority of secondary endpoints including physician and patient reported outcomes. Figure 5 shows the proportion of patients achieving SALT ≤ 20 up to week 36.
+
+Treatment effects in subgroups (gender, race, geographic region, disease severity, current alopecia areata episode duration) were consistent with the results in the overall study population at week 36.
+
+Table 11. Efficacy of baricitinib in adolescent patients through week 36
+
+|                                                                                                        | BRAVE-AA-PEDS   | BRAVE-AA-PEDS         | BRAVE-AA-PEDS         |
+|--------------------------------------------------------------------------------------------------------|-----------------|-----------------------|-----------------------|
+|                                                                                                        | Placebo N=88    | Baricitinib 2 mg N=84 | Baricitinib 4 mg N=85 |
+| SALT ≤ 20 at week 36                                                                                   | 4.5%            | 27.4 %**              | 42.4 %**              |
+| SALT ≤ 20 at week 24                                                                                   | 3.4%            | 16.7 %**              | 31.8 %**              |
+| SALT ≤ 10 at week 36                                                                                   | 2.3%            | 21.4 %**              | 36.5 %**              |
+| ClinRO Measure for Eyebrow Hair Loss of 0 or 1 at week 36 with a ≥ 2 point improvement from baseline a | 0%              | 24.1 %*               | 50.0 %*               |
+| ClinRO Measure for Eyelash Hair Loss of 0 or 1 at week 36 with a ≥ 2 point improvement from baseline a | 14.0%           | 25.5%                 | 42.9 %*               |
+| Change in Skindex-16 adapted for alopecia areata emotions domain, LSM (SE) b                           | -3.98 (2.63)    | -12.87 (2.55)*        | -18.22 (2.60)*        |
+
+ClinRO = clinician-reported outcome; LSM = least square mean; SE = standard error
+
+* Statistically significant versus placebo without adjustment for multiplicity. ** Statistically significant versus placebo with adjustment for multiplicity.
+
+a Patients with ClinRO Measure for Eyebrow Hair loss score of ≥ 2 at baseline: 60 (Placebo), 54 (Baricitinib 2 mg), 54 (Baricitinib 4 mg). Patients with ClinRO Measure for Eyelash Hair loss score of ≥ 2 at baseline: 50 (Placebo), 47 (Baricitinib 2 mg), 49 (Baricitinib 4 mg). Both ClinRO Measures use a 4-point response scale ranging from 0 indicating no hair loss to 3 indicating no notable eyebrow/eyelashes hair.
+
+b Sample sizes for analysis on Skindex-16 adapted for alopecia areata at week 36 are n= 87 (Placebo), 84 (Baricitinib 2 mg), 85 (Baricitinib 4 mg).
+
+<div style=\"page-break-after: always\"></div>
+
+Figure 5: Proportion of adolescent patients with SALT ≤ 20 through week 36
+
+<!-- image -->
+
+*p-value for baricitinib versus placebo ≤ 0.05; **p-value for baricitinib versus placebo ≤ 0.01; ***p-value for baricitinib versus placebo ≤ 0.001.
+
+## Paediatric population
+
+The European Medicines Agency has deferred the obligation to submit the results of studies with baricitinib in one or more subsets of the paediatric population in chronic idiopathic arthritis and alopecia areata (see section 4.2 for information on paediatric use).
+
+The efficacy of baricitinib up to 12 mg/day has been evaluated in 71 patients with CANDLE (chronic atypical neutrophilic dermatosis with lipodystrophy and elevated temperature, n=10), CANDLE-related conditions (CANDLE-RC, n=9), SAVI (Stimulator of interferon gene-Associated Vasculopathy with onset during Infancy, n=8), Juvenile dermatomyositis (JDM, n=5), and Aicardi-Goutières syndrome (AGS, n=39). Total patient-years of exposure (PYE) was 251. Due to methodological insufficiencies no definite conclusion could be drawn on the efficacy of baricitinib in these patients. Although safety patterns showed similarities with the adult indications, frequencies of adverse events were generally higher. Three deaths were observed, in the AGS population; it is unclear whether these deaths were related to treatment with baricitinib.
+
+The efficacy and safety of baricitinib were evaluated in 29 patients from 2 to &lt; 18 years of age with active JIA-associated uveitis or chronic anterior antibody positive uveitis. MTX-IR (n = 10) were assigned to baricitinib (n = 5) or adalimumab (n = 5); bDMARD-IR (n = 19) were all assigned to baricitinib. Baricitinib was dosed 2 mg once daily for patients 2 to &lt; 9 years old and 4 mg once daily for those 9 to &lt; 18 years old, adalimumab dosing was 20 mg (if &lt; 30 kg), or 40 mg (if ≥ 30 kg) once every two weeks.
+
+The primary endpoint was the proportion of patients with a 2 step decrease in the level of inflammation (anterior chamber cells) according to the SUN (standardisation of uveitis nomenclature) criteria or decrease to zero through week 24, in the eye most severely affected at baseline. Eight (33.3 %) patients were baricitinib responders (7 bDMARD-IR and 1 MTX-IR), but the response rate between the two cohorts did not show a statistical significance.
+
+<div style=\"page-break-after: always\"></div>
+
+## 5.2 Pharmacokinetic properties
+
+Following oral administration of baricitinib, a dose-proportional increase in systemic exposure was observed in the therapeutic dose range. The PK of baricitinib is linear with respect to time.
+
+## Absorption
+
+Following oral administration, baricitinib is rapidly absorbed with a median tmax of approximately 1 hour (range 0.5 - 3.0 h) and an absolute bioavailability of approximately 79 % (CV = 3.94 %). Pharmacokinetic studies have shown that the baricitinib tablets and oral suspension are bioequivalent based on AUC and Cmax.
+
+Food intake with the tablets led to a decreased exposure by up to 14 %, a decrease in Cmax by up to 18 % and delayed tmax by 0.5 hours. Similarly, coadministration of the oral suspension with food led to a reduction in Cmax by 33% and a delayed tmax by 2 hours, compared to the fasted state. Administration with meals was not associated with a clinically relevant effect on exposure.
+
+## Distribution
+
+Mean volume of distribution following intravenous infusion administration was 76 L, indicating distribution of baricitinib into tissues. Baricitinib is approximately 50 % bound to plasma proteins.
+
+## Biotransformation
+
+Baricitinib metabolism is mediated by CYP3A4, with less than 10 % of the dose identified as undergoing biotransformation. No metabolites were quantifiable in plasma. In a clinical pharmacology study, baricitinib was excreted predominately as the unchanged active substance in urine (69 %) and faeces (15 %) and only 4 minor oxidative metabolites were identified (3 in urine; 1 in faeces) constituting approximately 5 % and 1 % of the dose, respectively. In vitro , baricitinib is a substrate for CYP3A4, OAT3, Pgp, BCRP and MATE2-K, and may be a clinically relevant inhibitor of the transporter OCT1 (see section 4.5). Baricitinib is not an inhibitor of the transporters OAT1, OAT2, OAT3, OCT2, OATP1B1, OATP1B3, BCRP, MATE1 and MATE2-K at clinically relevant concentrations.
+
+## Elimination
+
+Renal elimination is the principal mechanism for baricitinib's clearance through glomerular filtration and active secretion via OAT3, Pgp, BCRP and MATE2-K. In a clinical pharmacology study, approximately 75 % of the administered dose was eliminated in the urine, while about 20 % of the dose was eliminated in the faeces.
+
+Mean apparent clearance (CL/F) and half-life in patients with rheumatoid arthritis was 9.42 L/hr (CV = 34.3 %) and 12.5 hrs (CV = 27.4 %), respectively. Cmax and AUC at steady state are 1.4- and 2.0-fold higher, respectively, in subjects with rheumatoid arthritis compared to healthy subjects.
+
+Mean apparent clearance (CL/F) and half-life in patients with atopic dermatitis was 11.2 L/hr (CV = 33.0 %) and 12.9 hrs (CV = 36.0 %), respectively. Cmax and AUC at steady state in patients with atopic dermatitis are 0.8-fold those seen in rheumatoid arthritis.
+
+Mean apparent clearance (CL/F) and half-life in patients with alopecia areata was 11.0 L/hr (CV = 36.0 %) and 15.8 hrs (CV = 35.0 %), respectively. Cmax and AUC at steady state in patients with alopecia areata are 0.9-fold those seen in rheumatoid arthritis.
+
+## Renal impairment
+
+Renal function was found to significantly affect baricitinib exposure. The mean ratios of AUC in patients with mild and moderate renal impairment to patients with normal renal function are 1.41
+
+<div style=\"page-break-after: always\"></div>
+
+(90 % CI: 1.15-1.74) and 2.22 (90 % CI: 1.81-2.73), respectively. The mean ratios of Cmax in patients with mild and moderate renal impairment to patients with normal renal function are 1.16 (90 %CI: 0.92-1.45) and 1.46 (90 %CI: 1.17-1.83), respectively. See section 4.2 for dose recommendations.
+
+## Hepatic impairment
+
+There was no clinically relevant effect on the PK of baricitinib in patients with mild or moderate hepatic impairment. The use of baricitinib has not been studied in patients with severe hepatic impairment.
+
+## Elderly
+
+Age ≥ 65 years or ≥ 75 years has no effect on baricitinib exposure (Cmax and AUC).
+
+## Paediatric population
+
+## Pharmacokinetics in paediatric patients with juvenile idiopathic arthritis
+
+The half-life in paediatric patients from 2 to less than18 years was 8 to 9 hours.
+
+Exposure in paediatric patients weighing &lt;30 kg and ≥ 30 kg: In patients &lt; 30 kg with a mean age and range of 8.1 (2.0-16.0) years, the mean and CV% for AUC and Cmax was 381 h*ng/mL (76%) and 62.1 ng/mL (39%), respectively. In patients ≥ 30 kg with mean age and range of 14.1 (9.0 - 17.0), the mean and CV% for AUC and Cmax was 438 h*ng/mL (68%) and 60.7 ng/mL (30%), respectively.
+
+Exposure in paediatric patients weighing 10 to &lt;20 kg and 20 to &lt;30 kg: In patients 10 to &lt; 20 kg with a mean age and range of 5.1 (2.0-8.0) years, the mean and CV% for AUC and Cmax was 458 h*ng/mL (81%) and 77.6 ng/mL (38%), respectively. In patients 20 to &lt; 30 kg with mean age and range of 10.3 (6.0 - 16.0), the mean and CV% for AUC and Cmax was 327 h*ng/mL (66%) and 51.2 ng/mL (22%), respectively.
+
+## Pharmacokinetics in paediatric patients with atopic dermatitis
+
+The mean half-life in paediatric patients from 2 to less than 18 years was 13 to 18 hours.
+
+Exposure in paediatric patients weighing &lt; 30 kg and ≥ 30 kg: In patients &lt; 30 kg with a mean age and range of 6.4 (2.0-11.1) years, the mean and CV% for AUC and Cmax was 404 h*ng/mL (78%) and 60.4 ng/mL (28%), respectively. In patients ≥ 30 kg with mean age and range of 13.5 (6.2 - 17.9), the mean and CV% for AUC and Cmax was 529 h*ng/mL (102%) and 57.0 ng/mL (42%), respectively.
+
+Exposure in paediatric patients weighing 10 to &lt; 20 kg and 20 to &lt;30 kg: In patients 10 to &lt; 20 kg with a mean age and range of 4.8 (2.0-6.9) years, the mean and CV% for AUC and Cmax was 467 h*ng/mL (80%) and 73.4 ng/mL (21%), respectively. In patients 20 to &lt; 30 kg with mean age and range of 7.5 (4.8 - 11.1), the mean and CV% for AUC and Cmax was 363 h*ng/mL (72%) and 52.0 ng/mL (21%), respectively.
+
+## Pharmacokinetics in adolescent patients with alopecia areata
+
+The mean half-life in adolescent patients from 12 to less than 18 years was approximately 10 hours.
+
+Exposure in adolescent patients from 12 to less than 18 years weighing ≥ 30 kg: In patients ≥ 30 kg with a mean age and range of 14.7 (12.0 - 18.0) years, the mean and CV% for AUC and Cmax was 334 h*ng/mL (45%) and 52.9 ng/mL (23%), respectively.
+
+<div style=\"page-break-after: always\"></div>
+
+## Other intrinsic factors
+
+Body weight, age, sex, race, and ethnicity did not have a clinically relevant effect on the PK of baricitinib in adult patients. The mean effects of intrinsic factors on PK parameters (AUC and Cmax) were generally within the inter-subject PK variability of baricitinib. Therefore, no dose adjustment is needed based on these patient factors.
+
+## 5.3 Preclinical safety data
+
+Non-clinical data reveal no special hazard for humans based on conventional studies of safety pharmacology, genotoxicity and carcinogenic potential.
+
+Decreases in lymphocytes, eosinophils and basophils as well as lymphoid depletion in organs/tissues of the immune system were observed in mice, rats and dogs. Opportunistic infections related to demodicosis (mange) were observed in dogs at exposures approximately 7 times the human exposure. Decreases in red blood cell parameters were observed in mice, rats and dogs at exposures approximately 6 to 36 times the human exposure. Degeneration of the sternal growth plate was observed in some dogs, at low incidence and also in control animals, but with a dose-effect relationship regarding severity. At present it is not known whether this is clinically relevant.
+
+In rat and rabbit reproductive toxicology studies, baricitinib was shown to reduce foetal growth/weight and produce skeletal malformations (at exposures of approximately 10 and 39 times the human exposure, respectively). No adverse foetal effects were observed at exposures 2 times the human exposure based on AUC.
+
+In a combined male/female rat fertility study, baricitinib decreased overall mating performance (decreased fertility and conception indices). In female rats there were decreased numbers of corpora lutea and implantation sites, increased pre-implantation loss, and/or adverse effects on intrauterine survival of the embryos. Since there were no effects on spermatogenesis (as assessed by histopathology) or semen/sperm endpoints in male rats, the decreased overall mating performance was likely the result of these female effects.
+
+Baricitinib was detected in the milk of lactating rats. In a pre- and postnatal development study, decreased pup weights and decreased postnatal survival were observed at exposures 4 and 21 times, respectively, the human exposure.
+
+## 6. PHARMACEUTICAL PARTICULARS
+
+## 6.1 List of excipients
+
+## Tablet cores
+
+cellulose, microcrystalline croscarmellose sodium magnesium stearate mannitol
+
+## Film coating
+
+iron oxide red (E172) lecithin (soya) (E322) macrogol poly (vinyl alcohol) talc titanium dioxide (E171)
+
+<div style=\"page-break-after: always\"></div>
+
+## 6.2 Incompatibilities
+
+Not applicable.
+
+## 6.3 Shelf life
+
+3 years.
+
+## 6.4 Special precautions for storage
+
+This medicinal product does not require any special storage conditions.
+
+## 6.5 Nature and contents of container
+
+## Olumiant 1 mg film-coated tablets
+
+Polyvinylchloride/polyethylene/polychlorotrifluoroethylene - aluminium blisters in cartons of 14 or 28 film-coated tablets.
+
+Polyvinylchloride/aluminium/oriented polyamide - aluminium perforated unit dose blisters in cartons of 28 x 1 film-coated tablets.
+
+## Olumiant 2 mg and 4 mg film-coated tablets
+
+Polyvinylchloride/polyethylene/polychlorotrifluoroethylene - aluminium blisters in cartons of 14, 28, 35, 56, 84 or 98 film-coated tablets.
+
+Polyvinylchloride/aluminium/oriented polyamide - aluminium perforated unit dose blisters in cartons of 28 x 1 or 84 x 1 film-coated tablets.
+
+Not all pack sizes may be marketed.
+
+## 6.6 Special precautions for disposal and other handling
+
+For paediatric patients who are unable to swallow whole tablets, it may be considered to disperse the tablets in water. Only water should be used to disperse the tablet. Only the number of tablets needed for the dose should be dispersed.
+
+- -Place whole tablet in a container with 5-10 mL of water at room temperature and gently swirl to disperse. It may take up to 10 minutes for the tablet to disperse into a cloudy pale pink suspension. Some settling may occur.
+- -After the tablet is dispersed, gently swirl again and administer the entire suspension immediately.
+- -Add 5-10 mL of room temperature water to the container, swirl to collect any remaining medicine, and administer immediately.
+
+The tablet dispersed in water is stable for up to 4 hours at room temperature. If for any reason the entire suspension is not administered, do not disperse and administer another tablet but wait until the next scheduled dose.
+
+Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
+
+<div style=\"page-break-after: always\"></div>
+
+## 7. MARKETING AUTHORISATION HOLDER
+
+Eli Lilly Nederland B.V., Orteliuslaan 1000, 3528 BD Utrecht, The Netherlands.
+
+## 8. MARKETING AUTHORISATION NUMBERS
+
+## Olumiant 1 mg film-coated tablets
+
+```
+EU/1/16/1170/017 EU/1/16/1170/018
+```
+
+EU/1/16/1170/019
+
+## Olumiant 2 mg film-coated tablets
+
+```
+EU/1/16/1170/001 EU/1/16/1170/002 EU/1/16/1170/003 EU/1/16/1170/004 EU/1/16/1170/005 EU/1/16/1170/006 EU/1/16/1170/007
+```
+
+EU/1/16/1170/008
+
+## Olumiant 4 mg film-coated tablets
+
+```
+EU/1/16/1170/009 EU/1/16/1170/010 EU/1/16/1170/011 EU/1/16/1170/012 EU/1/16/1170/013 EU/1/16/1170/014 EU/1/16/1170/015
+```
+
+EU/1/16/1170/016
+
+## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
+
+Date of first authorisation: 13 February 2017
+
+Date of latest renewal: 12 November 2021
+
+## 10. DATE OF REVISION OF THE TEXT
+
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
+
+<div style=\"page-break-after: always\"></div>
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Olumiant 2 mg/mL oral suspension
+
+## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
+
+Each mL oral suspension contains 2 mg baricitinib.
+
+## Excipients with known effect
+
+Each mL of oral suspension contains: 2.09 mg sodium benzoate (E211) 105 mg sorbitol (E420) 0.24 mg benzyl alcohol (E1519)
+
+For the full list of excipients, see section 6.1.
+
+## 3. PHARMACEUTICAL FORM
+
+Oral suspension
+
+White to practically white aqueous suspension.
+
+## 4. CLINICAL PARTICULARS
+
+## 4.1 Therapeutic indications
+
+## Rheumatoid arthritis
+
+Baricitinib is indicated for the treatment of moderate to severe active rheumatoid arthritis in adult patients who have responded inadequately to, or who are intolerant to one or more disease-modifying anti-rheumatic drugs (DMARDs). Baricitinib may be used as monotherapy or in combination with methotrexate (see sections 4.4, 4.5 and 5.1 for available data on different combinations).
+
+## Atopic dermatitis
+
+Baricitinib is indicated for the treatment of moderate to severe atopic dermatitis in adult and paediatric patients 2 years of age and older who are candidates for systemic therapy.
+
+## Alopecia areata
+
+Baricitinib is indicated for the treatment of severe alopecia areata in adult and adolescent patients 12 years of age and older (see section 5.1).
+
+## Juvenile idiopathic arthritis
+
+Baricitinib is indicated for the treatment of active juvenile idiopathic arthritis in patients 2 years of age and older who have had an inadequate response or intolerance to one or more prior conventional synthetic or biologic DMARDs:
+
+- -Polyarticular juvenile idiopathic arthritis (polyarticular rheumatoid factor positive [RF+] or negative [RF-], extended oligoarticular),
+- -Enthesitis-related arthritis, and
+- -Juvenile psoriatic arthritis.
+
+<div style=\"page-break-after: always\"></div>
+
+Baricitinib may be used as monotherapy or in combination with methotrexate.
+
+## 4.2 Posology and method of administration
+
+Treatment should be initiated by physicians experienced in the diagnosis and treatment of the conditions for which this medicinal product is indicated.
+
+## Posology
+
+The table below presents the doses of the oral suspension for the specified dose regimens.
+
+| Dose regimen   | Oral suspension   |
+|----------------|-------------------|
+| 2 mg           | 1 mL              |
+| 4 mg           | 2 mL              |
+
+Note: tablets are available for patients able to swallow them.
+
+If for any reason the entire suspension is not administered, wait until the next scheduled dose.
+
+## Rheumatoid arthritis
+
+The recommended dose of baricitinib is 4 mg once daily. A dose of 2 mg once daily is recommended for patients at higher risk of venous thromboembolism (VTE), major adverse cardiovascular events (MACE) and malignancy, for patients aged ≥ 65 years and for patients with a history of chronic or recurrent infections (see section 4.4). A dose of 4 mg once daily may be considered for patients who do not achieve adequate control of disease activity with 2 mg once daily dose. A dose of 2 mg once daily should be considered for patients who have achieved sustained control of disease activity with 4 mg once daily and are eligible for dose tapering (see section 5.1).
+
+## Atopic dermatitis
+
+## Adults
+
+The recommended dose of baricitinib is 4 mg once daily. A dose of 2 mg once daily is recommended for patients at higher risk of VTE, MACE and malignancy, for patients aged ≥ 65 years and for patients with a history of chronic or recurrent infections (see section 4.4). A dose of 4 mg once daily may be considered for patients who do not achieve adequate control of disease activity with 2 mg once daily dose. A dose of 2 mg once daily should be considered for patients who have achieved sustained control of disease activity with 4 mg once daily and are eligible for dose tapering (see section 5.1).
+
+Baricitinib can be used with or without topical corticosteroids. The efficacy of baricitinib can be enhanced when given with topical corticosteroids (see section 5.1). Topical calcineurin inhibitors may be used, but should be reserved for sensitive areas only, such as the face, neck, intertriginous and genital areas.
+
+Consideration should be given to discontinuing treatment in patients who show no evidence of therapeutic benefit after 8 weeks of treatment.
+
+## Children and adolescents (2 years of age and older)
+
+The recommended dose of baricitinib is 4 mg once daily for patients weighing 30 kg or more. For patients weighing 10 kg to less than 30 kg, the recommended dose is 2 mg once daily. A reduction to half the dose should be considered for patients who have achieved sustained control of disease activity with the recommended dose and are eligible for dose tapering.
+
+Baricitinib can be used with or without topical corticosteroids. Topical calcineurin inhibitors may be used, but should be reserved for sensitive areas only, such as the face, neck, intertriginous and genital areas.
+
+<div style=\"page-break-after: always\"></div>
+
+Consideration should be given to discontinuing treatment in patients who show no evidence of therapeutic benefit after 8 weeks of treatment.
+
+## Alopecia areata
+
+## Adults
+
+The recommended dose of baricitinib is 4 mg once daily. A dose of 2 mg once daily is recommended for patients at higher risk of VTE, MACE and malignancy, for patients aged ≥ 65 years and for patients with a history of chronic or recurrent infections (see section 4.4). A dose of 4 mg once daily may be considered for patients who do not achieve adequate control of disease activity with 2 mg once daily dose. A dose of 2 mg once daily should be considered for patients who have achieved sustained control of disease activity with 4 mg once daily and are eligible for dose tapering (see section 5.1).
+
+Once a stable response has been achieved, it is recommended to continue treatment for at least several months, in order to avoid relapse. The benefit-risk of treatment should be re-assessed at regular intervals on an individual basis.
+
+Consideration should be given to discontinuing treatment in patients who show no evidence of therapeutic benefit after 36 weeks of treatment.
+
+## Adolescents (12 years of age and older)
+
+The recommended dose of baricitinib is 4 mg once daily for patients weighing 30 kg or more. See section 4.2 Paediatric population below for information on patients weighing less than 30 kg. A dose of 2 mg once daily should be considered for patients who have achieved sustained control of disease activity with 4 mg once daily and are eligible for dose tapering.
+
+Once a stable response has been achieved, it is recommended to continue treatment for at least several months, in order to avoid relapse. The benefit-risk of treatment should be re-assessed at regular intervals on an individual basis.
+
+Consideration should be given to discontinuing treatment in patients who show no evidence of therapeutic benefit after 36 weeks of treatment.
+
+## Juvenile idiopathic arthritis (from 2 to less than 18 years of age)
+
+The recommended dose of baricitinib is 4 mg once daily for patients weighing 30 kg or more. For patients weighing 10 kg to less than 30 kg, the recommended dose is 2 mg once daily.
+
+Consideration should be given to discontinuing treatment in patients who show no evidence of therapeutic benefit after 12 weeks of treatment.
+
+## Treatment initiation
+
+Treatment should not be initiated in patients with an absolute lymphocyte count (ALC) less than 0.5 x 10 9 cells/L, an absolute neutrophil count (ANC) less than 1 x 10 9 cells/L, or who have a haemoglobin value less than 8 g/dL. Treatment may be initiated once values have improved above these limits (see section 4.4).
+
+## Dose reduction
+
+In patients taking strong Organic Anion Transporter 3 (OAT3) inhibitors such as probenecid, or with creatinine clearance between 30 and 60 mL/min the recommended dose should be reduced by half for paediatric patients and the recommended dose is 2 mg for adult patients (see section 4.5).
+
+<div style=\"page-break-after: always\"></div>
+
+## Special populations
+
+## Renal impairment
+
+The recommended dose is 2 mg once daily in adult patients with creatinine clearance between 30 and 60 mL/min. In paediatric patients with creatinine clearance between 30 and 60 mL/min, the recommended dose of baricitinib should be reduced by half. Baricitinib is not recommended for use in patients with creatinine clearance &lt; 30 mL/min (see section 5.2).
+
+## Hepatic impairment
+
+No dose adjustment is required in patients with mild or moderate hepatic impairment. Baricitinib is not recommended for use in patients with severe hepatic impairment (see section 5.2).
+
+## Elderly
+
+Clinical experience in patients aged ≥ 75 years is very limited.
+
+## Paediatric population
+
+The safety and efficacy of baricitinib in children less than 2 years with atopic dermatitis and juvenile idiopathic arthritis have not yet been established. No data are available. See section 4.2 above for information on posology in children aged 2 years and older.
+
+The safety and efficacy of baricitinib in children less than 12 years of age or weighing &lt; 30 kg with alopecia areata have not yet been established. No data are available. See section 4.2 above for information on posology in adolescents aged 12 years and older and weighing 30 kg or more.
+
+## Method of administration
+
+Oral use.
+
+Baricitinib 2 mg/mL oral suspension is given orally with or without food and may be taken at any time of the day. If necessary, the oral suspension can be mixed with a small quantity (e.g., one teaspoon or 5 mL) of milk, orange juice or water, and consumed immediately. To ensure the entire dose is administered, the container should be rinsed with a small quantity (e.g., one teaspoon or 5 mL) of the same liquid and consumed immediately.
+
+The press-in-bottle adaptor (PIBA) which is supplied in the product carton should be inserted firmly into the neck of the bottle before first use and remain in place for the duration of the usage of the bottle. Shake bottle well for at least 10 seconds before each use. Shake again if the bottle sits longer than 15 minutes. The graduated syringe should be inserted into the PIBA and the dose withdrawn from the inverted bottle aligning the mL graduation mark with the bottom of the flange. The cap should be replaced after each use. Rinse syringe by placing water in a cup and filling syringe with water and pushing the water out.
+
+The prescribed dose can be administered via enteral feeding tubes. To ensure adequate dosing, the tube should be flushed with water before and after administration of the oral suspension.
+
+For instructions on preparation of the medicinal product before administration via enteral feeding tubes, see section 6.6.
 
 ## 4.3 Contraindications
 
@@ -234,11 +1383,9 @@ The risk of lymphocytosis is increased in elderly patients with rheumatoid arthr
 
 ## Viral reactivation
 
-Viral reactivation, including cases of herpes virus reactivation (e.g., herpes zoster, herpes simplex), were reported in clinical studies (see section 4.8). In rheumatoid arthritis clinical studies, herpes zoster was reported more commonly in patients ≥ 65 years of age who had previously been treated with both
+Viral reactivation, including cases of herpes virus reactivation (e.g., herpes zoster, herpes simplex), were reported in clinical studies (see section 4.8). In rheumatoid arthritis clinical studies, herpes zoster was reported more commonly in patients ≥ 65 years of age who had previously been treated with both biologic and synthetic conventional DMARDs. If a patient develops herpes zoster, treatment should be temporarily interrupted until the episode resolves.
 
 <div style=\"page-break-after: always\"></div>
-
-biologic and synthetic conventional DMARDs. If a patient develops herpes zoster, treatment should be temporarily interrupted until the episode resolves.
 
 Screening for viral hepatitis should be performed in accordance with clinical guidelines before starting therapy with baricitinib. Patients with evidence of active hepatitis B or C infection were excluded from clinical trials. Patients, who were positive for hepatitis C antibody but negative for hepatitis C virus RNA, were allowed to participate. Patients with hepatitis B surface antibody and hepatitis B core antibody, without hepatitis B surface antigen, were also allowed to participate; such patients should be monitored for expression of hepatitis B virus (HBV) DNA. If HBV DNA is detected, a liver specialist should be consulted to determine if treatment interruption is warranted.
 
@@ -274,7 +1421,7 @@ Periodic skin examination is recommended for all patients, particularly those wi
 
 In a retrospective observational study of baricitinib in rheumatoid arthritis patients, a higher rate of venous thromboembolic events (VTE) was observed compared to patients treated with TNF inhibitors (see section 4.8).
 
-In a large randomized active-controlled study of tofacitinib (another JAK inhibitor) in rheumatoid arthritis patients 50 years and older with at least one additional cardiovascular risk factor, a dose dependent higher rate of VTE including deep venous thrombosis (DVT) and pulmonary embolism (PE) was observed with tofacitinib compared to TNF inhibitors.
+In a large randomised active-controlled study of tofacitinib (another JAK inhibitor) in rheumatoid arthritis patients 50 years and older with at least one additional cardiovascular risk factor, a dose dependent higher rate of VTE including deep venous thrombosis (DVT) and pulmonary embolism (PE) was observed with tofacitinib compared to TNF inhibitors.
 
 In patients with cardiovascular or malignancy risk factors (see also section 4.4 'Major adverse cardiovascular events (MACE)' and 'Malignancy') baricitinib should only be used if no suitable treatment alternatives are available.
 
@@ -290,9 +1437,9 @@ In a retrospective observational study of baricitinib in rheumatoid arthritis pa
 
 In a large randomized active-controlled study of tofacitinib (another JAK inhibitor) in rheumatoid arthritis patients 50 years and older with at least one additional cardiovascular risk factor, a higher rate of major adverse cardiovascular events (MACE), defined as cardiovascular death, non-fatal myocardial infarction (MI) and non-fatal stroke, was observed with tofacitinib (another JAK inhibitor) compared with TNF inhibitors.
 
-Therefore, in patients over 65 years of age, patients who are current or past long-time smokers, and patients with history of atherosclerotic cardiovascular disease or other cardiovascular risk factors, baricitinib should only be used if no suitable treatment alternatives are available.
-
 <div style=\"page-break-after: always\"></div>
+
+Therefore, in patients over 65 years of age, patients who are current or past long-time smokers, and patients with history of atherosclerotic cardiovascular disease or other cardiovascular risk factors, baricitinib should only be used if no suitable treatment alternatives are available.
 
 ## Laboratory monitoring
 
@@ -328,9 +1475,23 @@ Cases of diverticulitis and gastrointestinal perforation have been reported in c
 
 There have been reports of hypoglycaemia following initiation of JAK inhibitors, including baricitinib, in patients receiving medication for diabetes. Dose adjustment of anti-diabetic medication may be necessary in the event that hypoglycaemia occurs.
 
-## Excipients
+## Excipients with known effect
 
-This medicinal product contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially 'sodium-free'.
+## Sodium benzoate
+
+This medicinal product contains 2.09 mg sodium benzoate in each mL.
+
+## Sorbitol
+
+This medicinal product contains 105 mg sorbitol in each mL. Sorbitol is a source of fructose. The additive effect of concomitantly administered products containing sorbitol (or fructose) and dietary intake of sorbitol (or fructose) should be taken into account. The content of sorbitol in medicinal products for oral use may affect the bioavailability of other medicinal products for oral use administered concomitantly. Patients with hereditary fructose intolerance (HFI) should not be given this medicinal product.
+
+## Benzyl alcohol
+
+This medicinal product contains 0.24 mg benzyl alcohol in each mL. In young children, there is an increased risk due to accumulation of benzyl alcohol.
+
+## Sodium
+
+This medicinal product contains less than 1 mmol sodium (23 mg) per mL, that is to say essentially 'sodium-free'.
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
@@ -346,6 +1507,8 @@ Combination with biological DMARDs, biological immunomodulators or other JAK inh
 
 In vitro , baricitinib is a substrate for organic anionic transporter (OAT)3, P-glycoprotein (Pgp), breast cancer resistance protein (BCRP) and multidrug and toxic extrusion protein (MATE)2-K. In a clinical pharmacology study, dosing of probenecid (an OAT3 inhibitor with strong inhibition potential) resulted in approximately a 2-fold increase in AUC(0-∞) with no change in tmax or Cmax of baricitinib. Consequently, in patients taking OAT3 inhibitors with a strong inhibition potential, such as probenecid, the recommended dose of baricitinib should be reduced by half (see section 4.2). No clinical pharmacology study has been conducted with OAT3 inhibitors with less inhibition potential. The prodrug leflunomide rapidly converts to teriflunomide which is a weak OAT3 inhibitor and therefore may lead to an increase in baricitinib exposure. Since dedicated interaction studies have not been conducted, caution should be used when leflunomide or teriflunomide are given concomitantly with baricitinib. Concomitant use of the OAT3 inhibitors ibuprofen and diclofenac may lead to increased exposure of baricitinib, however their inhibition potential of OAT3 is less compared to probenecid and thus a clinically relevant interaction is not expected. Coadministration of baricitinib with ciclosporin (Pgp/BCRP inhibitor) or methotrexate (substrate of several transporters including OATP1B1, OAT1, OAT3, BCRP, MRP2, MRP3, and MRP4) resulted in no clinically meaningful effects on baricitinib exposure.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Cytochrome P450 enzymes
 
 In vitro , baricitinib is a cytochrome P450 enzyme (CYP)3A4 substrate although less than 10 % of the dose is metabolised via oxidation. In clinical pharmacology studies, coadministration of baricitinib with ketoconazole (strong CYP3A inhibitor) resulted in no clinically meaningful effect on the PK of baricitinib. Coadministration of baricitinib with fluconazole (moderate CYP3A/CYP2C19/CYP2C9 inhibitor) or rifampicin (strong CYP3A inducer) resulted in no clinically meaningful changes to baricitinib exposure.
@@ -353,8 +1516,6 @@ In vitro , baricitinib is a cytochrome P450 enzyme (CYP)3A4 substrate although l
 ## Gastric pH modifying agents
 
 Elevating gastric pH with omeprazole had no clinically significant effect on baricitinib exposure.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Potential for baricitinib to affect the pharmacokinetics of other medicinal products
 
@@ -380,6 +1541,8 @@ It is unknown whether baricitinib/metabolites are excreted in human milk. Availa
 
 A risk to newborns/infants cannot be excluded and baricitinib should not be used during breast-feeding. A decision must be made whether to discontinue breast-feeding or to discontinue therapy taking into account the benefit of breast-feeding for the child and the benefit of therapy for the woman.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Fertility
 
 Studies in animals suggest that treatment with baricitinib has the potential to decrease female fertility while on treatment, but there was no effect on male spermatogenesis (see section 5.3).
@@ -392,33 +1555,33 @@ Baricitinib has no or negligible influence on the ability to drive and use machi
 
 ## Summary of the safety profile
 
-The most commonly reported adverse reactions with baricitinib are increased LDL cholesterol (26.0 %), upper respiratory tract infections (16.9 %), headache (5.2 %), herpes simplex (3.2 %), and
-
-<div style=\"page-break-after: always\"></div>
-
-urinary tract infections (2.9 %). Serious pneumonia and serious herpes zoster occurred uncommonly in patients with rheumatoid arthritis.
+The most commonly reported adverse reactions with baricitinib are increased LDL cholesterol (26.0 %), upper respiratory tract infections (16.9 %), headache (5.2 %), herpes simplex (3.2 %), and urinary tract infections (2.9 %). Serious pneumonia (0.2 %) and serious herpes zoster (0.2 %) occurred uncommonly in patients with rheumatoid arthritis.
 
 ## Tabulated list of adverse reactions
 
-Frequency estimate: Very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), uncommon (≥ 1/1 000 to &lt; 1/100), rare (≥ 1/10 000 to &lt; 1/1 000), very rare (&lt; 1/10 000). The frequencies in Table 2 are based on integrated data from clinical trials in adults and/or postmarketing setting across rheumatoid arthritis, atopic dermatitis, and alopecia areata indications unless stated otherwise; where notable differences in frequency between indications are observed, these are presented in the footnotes below the table.
+Frequency estimate: Very common ( ≥ 1/10), common ( ≥ 1/100 to &lt; 1/10), uncommon ( ≥ 1/1 000 to &lt; 1/100), rare ( ≥ 1/10 000 to &lt; 1/1 000), very rare (&lt; 1/10 000). The frequencies in Table 2 are based on integrated data from clinical trials in adults and/or postmarketing setting across rheumatoid arthritis, atopic dermatitis, and alopecia areata indications unless stated otherwise; where notable differences in frequency between indications are observed, these are presented in the footnotes below the table. Within each frequency grouping, adverse reactions are presented in the order of decreasing seriousness.
+
+<div style=\"page-break-after: always\"></div>
 
 Table 2. Adverse reactions
 
-| System organ class                           | Very common                        | Common                                                                                             | Uncommon                          |
-|----------------------------------------------|------------------------------------|----------------------------------------------------------------------------------------------------|-----------------------------------|
-| Infections and infestations                  | Upper respiratory tract infections | Herpes zoster b Herpes simplex Gastroenteritis Urinary tract infections Pneumonia d Folliculitis g |                                   |
-| Blood and lymphatic system disorders         |                                    | Thrombocytosis > 600 x 10 9 cells/L a, d                                                           | Neutropaenia < 1 x 10 9 cells/L a |
-| Immune system disorders                      |                                    |                                                                                                    | Swelling of the face, Urticaria   |
-| Metabolism and nutrition disorders           | Hypercholesterolaemia a            |                                                                                                    | Hypertriglyceridaemia a           |
-| Nervous system disorders                     |                                    | Headache                                                                                           |                                   |
-| Vascular disorders                           |                                    |                                                                                                    | Deep vein thrombosis b            |
-| Respiratory, thoracic, mediastinal disorders |                                    |                                                                                                    | Pulmonary embolism f              |
-| Gastrointestinal disorders                   |                                    | Nausea d Abdominal pain d                                                                          | Diverticulitis                    |
-| Hepatobiliary disorders                      |                                    | ALT increased ≥ 3 x ULN a, d                                                                       | AST increased ≥ 3 x ULN a, e      |
-| Skin and subcutaneous tissue disorders       |                                    | Rash Acne c                                                                                        |                                   |
-| Investigations                               |                                    | Creatine phosphokinase increased > 5 x ULN a, c                                                    | Weight increased                  |
+| System organ class                           | Very common                        | Common                                                                                             | Uncommon                         |
+|----------------------------------------------|------------------------------------|----------------------------------------------------------------------------------------------------|----------------------------------|
+| Infections and infestations                  | Upper respiratory tract infections | Pneumonia d Herpes zoster b Urinary tract infections Gastroenteritis Herpes simplex Folliculitis g |                                  |
+| Blood and lymphatic system disorders         |                                    | Thrombocytosis > 600 x 10 9 cells/L a, d                                                           | Neutropenia < 1 x 10 9 cells/L a |
+| Immune system disorders                      |                                    |                                                                                                    | Swelling of the face, Urticaria  |
+| Metabolism and nutrition disorders           | Hypercholesterolaemia a            |                                                                                                    | Hypertriglyceridaemia a          |
+| Nervous system disorders                     |                                    | Headache                                                                                           |                                  |
+| Vascular disorders                           |                                    |                                                                                                    | Deep vein thrombosis b           |
+| Respiratory, thoracic, mediastinal disorders |                                    |                                                                                                    | Pulmonary embolism f             |
+| Gastrointestinal disorders                   |                                    | Abdominal pain d Nausea d                                                                          | Diverticulitis                   |
+| Hepatobiliary disorders                      |                                    | ALT increased ≥ 3 x ULN a, d                                                                       | AST increased ≥ 3 x ULN a, e     |
+| Skin and subcutaneous tissue disorders       |                                    | Rash Acne c                                                                                        |                                  |
+| Investigations                               |                                    | Creatine phosphokinase increased > 5 x ULN a, c                                                    | Weight increased                 |
 
-<div style=\"page-break-after: always\"></div>
+- d In atopic dermatitis clinical trials, the frequency of nausea, and ALT ≥3 x ULN was uncommon. In alopecia areata clinical trials, the frequency of abdominal pain was uncommon. In atopic dermatitis and alopecia areata clinical trials, the frequency of pneumonia and thrombocytosis &gt; 600 x 10 9  cells/L was uncommon.
+
+e In alopecia areata clinical trials, the frequency of AST ≥ 3 x ULN was common.
 
 - f Frequency for pulmonary embolism is based on rheumatoid arthritis and atopic dermatitis clinical trials.
 - g Folliculitis was observed in alopecia areata clinical trials. It was usually localized in the scalp region associated with hair regrowth.
@@ -429,13 +1592,15 @@ Table 2. Adverse reactions
 
 In rheumatoid arthritis clinical studies, in treatment-naïve patients, through 52 weeks, the frequency of nausea was greater for the combination treatment of methotrexate and baricitinib (9.3 %) compared to methotrexate alone (6.2 %) or baricitinib alone (4.4 %). In the integrated data from rheumatoid arthritis, atopic dermatitis and alopecia areata clinical trials, nausea was most frequent during the first 2 weeks of treatment.
 
+<div style=\"page-break-after: always\"></div>
+
 Cases of abdominal pain were usually mild, transient, not associated with infectious or inflammatory gastrointestinal disorders, and did not lead to treatment interruption.
 
 ## Infections
 
 In the integrated data from rheumatoid arthritis, atopic dermatitis and alopecia areata clinical trials, most infections were mild to moderate in severity. In studies which included both doses, infections were reported in 31.0 %, 25.7 % and 26.7 % of patients in the 4 mg, 2 mg and placebo groups, respectively. In rheumatoid arthritis clinical studies, combination with methotrexate resulted in increased frequency of infections compared to baricitinib monotherapy. Frequency of herpes zoster was common in rheumatoid arthritis, very rare in atopic dermatitis and uncommon in alopecia areata. In atopic dermatitis clinical trials, there were less skin infections requiring antibiotic treatment with baricitinib than with placebo.
 
-The incidence of serious infections with baricitinib was similar to placebo. The incidence of serious infections remained stable during long term exposure. The overall incidence rate of serious infections in the clinical trial programme was 3.2 per 100 patient-years in rheumatoid arthritis, 2.1 in atopic dermatitis and 0.8 in alopecia areata. Serious pneumonia and serious herpes zoster occurred uncommonly in patients with rheumatoid arthritis.
+The incidence of serious infections with baricitinib was similar to placebo. The incidence of serious infections remained stable during long-term exposure. The overall incidence rate of serious infections in the clinical trial programme was 3.2 per 100 patient-years in rheumatoid arthritis, 2.1 in atopic dermatitis and 0.8 in alopecia areata. Serious pneumonia and serious herpes zoster occurred uncommonly in patients with rheumatoid arthritis.
 
 ## Hepatic transaminase elevations
 
@@ -449,17 +1614,17 @@ In the integrated data from rheumatoid arthritis, atopic dermatitis and alopecia
 
 Elevations in LDL cholesterol decreased to pre-treatment levels in response to statin therapy.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Creatine phosphokinase (CPK)
 
 Baricitinib treatment was associated with dose-dependent increases in CPK. Mean CPK was increased at week 4 and remained at a higher value than baseline thereafter. Across indications, most cases of CPK elevations &gt; 5 x ULN were transient and did not require treatment discontinuation.
 
 In clinical trials, there were no confirmed cases of rhabdomyolysis.
 
-## Neutropaenia
+## Neutropenia
 
-Mean neutrophil counts decreased at 4 weeks and remained stable at a lower value than baseline over time. There was no clear relationship between neutropaenia and the occurrence of serious infections. However, in clinical studies, treatment was interrupted in response to ANC &lt; 1 x 10 9 cells/L.
+Mean neutrophil counts decreased at 4 weeks and remained stable at a lower value than baseline over time. There was no clear relationship between neutropenia and the occurrence of serious infections. However, in clinical studies, treatment was interrupted in response to ANC &lt; 1 x 10 9 cells/L.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Thrombocytosis
 
@@ -471,15 +1636,15 @@ Dose-dependent increases in mean platelet counts were observed and remained stab
 
 A total of 220 patients from 2 to less than 18 years of age were exposed to any dose of baricitinib in the juvenile idiopathic arthritis clinical trial programme, representing 326 patient years' exposure.
 
-In paediatric patients treated with baricitinib in the placebo-controlled double-blind randomised withdrawal period of the juvenile idiopathic arthritis clinical trial (n=82), headache was very common (11 %), neutropenia &lt; 1 000 cells/mm 3 was common (2.4 % , one patient) and pulmonary embolism was common (1.2 %, one patient).
+In paediatric patients treated with baricitinib in the placebo-controlled double-blind randomised withdrawal period of the juvenile idiopathic arthritis clinical trial (n=82), headache was very common (11 %), neutropenia &lt; 1 000 cells/mm 3  was common (2.4 %, one patient) and pulmonary embolism was common (1.2 %, one patient).
 
 ## Paediatric atopic dermatitis
 
-The safety assessment in children and adolescents is based on the safety data of the phase III trial BREEZE-AD-PEDS in which 466 patients between 2 and 18 years of age received any dose of baricitinib. Overall, the safety profile in these patients was comparable to that observed in the adult population. Neutropaenia (&lt; 1 x 10 9 cells/L) was more common (1.7%) compared to adults.
+The safety assessment in children and adolescents is based on the safety data of the phase III trial BREEZE-AD-PEDS in which 466 patients between 2 and 18 years of age received any dose of baricitinib. Overall, the safety profile in these patients was comparable to that observed in the adult population. Neutropenia (&lt; 1 x 10 9 cells/L) was more common (1.7%) compared to adults.
 
 ## Adolescent alopecia areata
 
-A total of 245 patients from 12 to less than 18 years of age were exposed to any dose of baricitinib in the phase III trial BRAVE-AA-PEDS. Of those, 85 patients were treated with 4 mg in the placebocontrolled period. Overall, the safety profile in adolescent patients was comparable to that observed in the adult population. Acne (10.6%) and neutropaenia (3.6%) (&lt; 1 x 10 9 cells/L) were more common compared to adults.
+A total of 245 patients from 12 to less than 18 years of age were exposed to any dose of baricitinib in the phase III trial BRAVE-AA-PEDS. Of those, 85 patients were treated with 4 mg in the placebocontrolled period. Overall, the safety profile in adolescent patients was comparable to that observed in the adult population. Acne (10.6%) and neutropaenia (3.6%) (&lt; 1 x 10 9  cells/L) were more common compared to adults.
 
 ## Reporting of suspected adverse reactions
 
@@ -489,13 +1654,13 @@ Reporting suspected adverse reactions after authorisation of the medicinal produ
 
 Single doses up to 40 mg and multiple doses of up to 20 mg daily for 10 days have been administered to adult patients in clinical trials without dose-limiting toxicity. No specific toxicities were identified. Pharmacokinetic data of a single dose of 40 mg in healthy volunteers indicate that more than 90 % of the administered dose is expected to be eliminated within 24 hours. In case of an overdose, it is recommended that the patient be monitored for signs and symptoms of adverse reactions. Patients who develop adverse reactions should receive appropriate treatment.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 5. PHARMACOLOGICAL PROPERTIES
 
 ## 5.1 Pharmacodynamic properties
 
 Pharmacotherapeutic group: Immunosuppressants, Janus-associated kinase (JAK) inhibitors, ATC code: L04AF02
+
+<div style=\"page-break-after: always\"></div>
 
 ## Mechanism of action
 
@@ -529,24 +1694,24 @@ In clinical trials, baricitinib induced a mean increase in serum creatinine leve
 
 In an in vitro human skin model treated with pro-inflammatory cytokines (i.e., IL-4, IL-13, IL-31), baricitinib reduced epidermal keratinocyte pSTAT3 expression, and increased the expression of filaggrin, a protein that plays a role in skin barrier function and in the pathogenesis of atopic dermatitis.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Vaccine study
 
 The  influence  of  baricitinib  on  the  humoral  response  to  non-live  vaccines  was  evaluated  in 106 rheumatoid arthritis patients under stable treatment with baricitinib 2 or 4 mg, receiving inactivated pneumococcal  or  tetanus  vaccination.  The  majority  of  these  patients  (n = 94)  were  co-treated  with methotrexate. For the total population, pneumococcal vaccination resulted in a satisfactory IgG immune response in 68 % (95 % CI: 58.4 %, 76.2 %) of the patients. In 43.1 % (95 % CI: 34 %, 52.8 %) of the patients, a satisfactory IgG immune response to tetanus vaccination was achieved .
+
+<div style=\"page-break-after: always\"></div>
 
 ## Clinical efficacy
 
 ## Rheumatoid arthritis
 
-The efficacy and safety of baricitinib once daily were assessed in 4 Phase III randomised, double-blind, multicentre studies in adult patients with moderate to severe active rheumatoid arthritis diagnosed according to the ACR/EULAR 2010 criteria (Table 3). The presence of at least 6 tender and 6 swollen joints was required at baseline. All patients who completed these studies were eligible to enrol in a long term extension study for up to 7 years additional treatment.
+The efficacy and safety of baricitinib once daily were assessed in 4 Phase III randomised, double-blind, multicentre studies in adult patients with moderate to severe active rheumatoid arthritis diagnosed according to the ACR/EULAR 2010 criteria (Table 3). The presence of at least 6 tender and 6 swollen joints was required at baseline. All patients who completed these studies were eligible to enrol in a long-term extension study for up to 7 years additional treatment.
 
 Table 3. Clinical trial summary
 
 | Study name (Duration)   | Population (Number)   | Treatment arms                                                                                                   | Summary of key outcome measures                                                                                                                                           |
 |-------------------------|-----------------------|------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | RA-BEGIN (52 weeks)     | MTX-naïve 1 (584)     | • Baricitinib 4 mg QD • Baricitinib 4 mg QD + MTX • MTX                                                          | • Primary endpoint: ACR20 at week 24 • Physical function (HAQ-DI) • Radiographic progression (mTSS) • Low disease activity and Remission (SDAI)                           |
-| RA-BEAM (52 weeks)      | MTX-IR 2 (1305)       | • Baricitinib 4 mg QD • Adalimumab 40 mg SC Q2W • Placebo All patients on background MTX                         | • Primary endpoint:ACR20 at week 12 • Physical function (HAQ-DI) • Radiographic progression (mTSS) • Low disease activity and Remission (SDAI) • Morning Joint Stiffness  |
+| RA-BEAM (52 weeks)      | MTX-IR 2 (1305)       | • Baricitinib 4 mg QD • Adalimumab 40 mg SC Q2W • Placebo All patients on background MTX                         | • Primary endpoint: ACR20 at week 12 • Physical function (HAQ-DI) • Radiographic progression (mTSS) • Low disease activity and Remission (SDAI) • Morning Joint Stiffness |
 | RA-BUILD (24 weeks)     | cDMARD-IR 3 (684)     | • Baricitinib 4 mg QD • Baricitinib 2 mg QD • Placebo On background cDMARDs 5 if on stable cDMARD at study entry | • Primary endpoint: ACR20 at week 12 • Physical function (HAQ-DI) • Low disease activity and remission (SDAI) • Radiographic progression (mTSS) • Morning Joint Stiffness |
 | RA- BEACON (24 weeks)   | TNF-IR 4 (527)        | • Baricitinib 4 mg QD • Baricitinib 2 mg QD • Placebo On background cDMARDs 5                                    | • Primary endpoint: ACR20 at week 12 • Physical function (HAQ-DI) • Low disease activity and Remission (SDAI)                                                             |
 
@@ -560,13 +1725,13 @@ Abbreviations: IR = inadequate responder; QD = Once daily; Q2W = Once every 2 we
 
 4 Patients who had an inadequate response or were intolerant to ≥ 1 bDMARDs; including at least one TNF inhibitor
 
-5 Most common concomitant cDMARDs included MTX, hydroxychloroquine, leflunomide and sulfasalazine
-
-<div style=\"page-break-after: always\"></div>
+5  Most common concomitant cDMARDs included MTX, hydroxychloroquine, leflunomide and sulfasalazine
 
 ## Clinical response
 
 In all studies, patients treated with baricitinib 4 mg once daily had statistically significantly higher ACR20, ACR50 and ACR70 response at 12 weeks compared to placebo, methotrexate (MTX) or adalimumab (Table 4). Time to onset of efficacy was rapid across measures with significantly greater responses seen as early as week 1. Continued, durable response rates were observed, with ACR20/50/70 responses maintained for at least 2 years including the long-term extension study.
+
+<div style=\"page-break-after: always\"></div>
 
 Treatment with baricitinib 4 mg, alone or in combination with cDMARDs, resulted in significant improvements in all individual ACR components, including tender and swollen joint counts, patient and physician global assessments, HAQ-DI, pain assessment and CRP, compared to placebo, MTX or adalimumab.
 
@@ -627,11 +1792,9 @@ Abbreviations: ADA = adalimumab; BARI = baricitinib; IR = inadequate responder; 
 
 The effect of baricitinib on progression of structural joint damage was evaluated radiographically in studies RA-BEGIN, RA-BEAM and RA-BUILD and assessed using the modified Total Sharp Score (mTSS) and its components, the erosion score and joint space narrowing score.
 
-Treatment with baricitinib 4 mg resulted in a statistically significant inhibition of progression of structural joint damage (Table 5). Analyses of erosion and joint space narrowing scores were
-
 <div style=\"page-break-after: always\"></div>
 
-consistent with the overall scores. The proportion of patients with no radiographic progression (mTSS change ≤ 0) was significantly higher with baricitinib 4 mg compared to placebo at weeks 24 and 52.
+Treatment with baricitinib 4 mg resulted in a statistically significant inhibition of progression of structural joint damage (Table 5). Analyses of erosion and joint space narrowing scores were consistent with the overall scores. The proportion of patients with no radiographic progression (mTSS change ≤ 0) was significantly higher with baricitinib 4 mg compared to placebo at weeks 24 and 52.
 
 Table 5. Radiographic changes
 
@@ -649,7 +1812,7 @@ Abbreviations: ADA = adalimumab; BARI = baricitinib; IR = inadequate responder;
 
 MTX = methotrexate; PBO = Placebo
 
-a Placebo data at week 52 derived using linear extrapolation
+- a Placebo data at week 52 derived using linear extrapolation
 
 b No progression defined as mTSS change ≤ 0.
 
@@ -672,15 +1835,16 @@ In a long-term extension study, patients from Studies RA-BEAM, RA-BUILD and RA-B
 - At week 12:  451/498 (91 %) continuing 4 mg vs.  405/498 (81 %) reduced to 2 mg (p ≤ 0.001)
 - At week 24:  434/498 (87 %) continuing 4 mg vs.  372/498 (75 %) reduced to 2 mg (p ≤ 0.001)
 - At week 48:  400/498 (80 %) continuing 4 mg vs.  343/498 (69 %) reduced to 2 mg (p ≤ 0.001)
-- At week 96: 347/494 (70 %) continuing 4 mg vs. 297/496 (60 %) reduced to 2 mg (p ≤ 0.001)
 
 <div style=\"page-break-after: always\"></div>
+
+- At week 96: 347/494 (70 %) continuing 4 mg vs. 297/496 (60 %) reduced to 2 mg (p ≤ 0.001)
 
 The majority of patients who lost their low disease activity or remission status after dose reduction could regain disease control after the dose was returned to 4 mg.
 
 ## Adults with atopic dermatitis
 
-The efficacy and safety of baricitinib as monotherapy or in combination with topical corticosteroids (TCS) were assessed in 3 Phase III randomised, double-blind, placebo-controlled, 16 week studies (BREEZE-AD1, -AD2, and -AD7). The studies included 1 568 patients with moderate to severe atopic dermatitis defined by Investigator's Global Assessment (IGA) score ≥ 3, an Eczema Area and Severity Index (EASI) score ≥ 16, and a body surface area (BSA) involvement of ≥ 10 %. Eligible patients were over 18 years of age and had previous inadequate response or were intolerant to topical medicinal products. Patients were permitted to receive rescue treatment (which included topical or systemic therapy), at which time they were considered non-responders. At baseline of study BREEZEAD7, all patients were on concomitant topical corticosteroids therapy and patients were permitted to use topical calcineurin inhibitors. All patients who completed these studies were eligible to enrol in a long term extension study (BREEZE AD-3) for up to 4 years of continued treatment.
+The efficacy and safety of baricitinib as monotherapy or in combination with topical corticosteroids (TCS) were assessed in 3 Phase III randomised, double-blind, placebo-controlled, 16 week studies (BREEZE-AD1, -AD2, and -AD7). The studies included 1 568 patients with moderate to severe atopic dermatitis defined by Investigator's Global Assessment (IGA) score ≥ 3, an Eczema Area and Severity Index (EASI) score ≥ 16, and a body surface area (BSA) involvement of ≥ 10 %. Eligible patients were over 18 years of age and had previous inadequate response or were intolerant to topical medicinal products. Patients were permitted to receive rescue treatment (which included topical or systemic therapy), at which time they were considered non-responders. At baseline of study BREEZEAD7, all patients were on concomitant topical corticosteroids therapy and patients were permitted to use topical calcineurin inhibitors. All patients who completed these studies were eligible to enrol in a long-term extension study (BREEZE AD-3) for up to 4 years of continued treatment.
 
 The Phase III randomised, double-blind, placebo-controlled BREEZE-AD4 study evaluated the efficacy of baricitinib in combination with topical corticosteroids over 52 weeks in 463 patients with moderate to severe atopic dermatitis with failure, intolerance, or contraindication to oral ciclosporin treatment.
 
@@ -690,7 +1854,7 @@ In the placebo-controlled Phase III studies (BREEZE-AD1, -AD2, -AD7, and -AD4), 
 
 ## Clinical response
 
-16-week monotherapy (BREEZE-AD1, -AD2) and TCS combination (BREEZE-AD7) studies A significantly larger proportion of patients randomised to baricitinib 4 mg achieved an IGA 0 or 1 response (primary outcome) , EASI75, or an improvement of ≥ 4 points on the Itch NRS compared to placebo at week 16 (Table 6). Figure 1 shows the mean percent change from baseline in EASI up to week 16.
+16-week monotherapy (BREEZE-AD1, -AD2) and TCS combination (BREEZE-AD7) studies A significantly larger proportion of patients randomised to baricitinib 4 mg achieved an IGA 0 or 1 response (primary outcome), EASI75, or an improvement of ≥ 4 points on the Itch NRS compared to placebo at week 16 (Table 6). Figure 1 shows the mean percent change from baseline in EASI up to week 16.
 
 A significantly greater proportion of patients randomised to baricitinib 4 mg achieved a ≥ 4-point improvement in the Itch NRS compared to placebo (within the first week of treatment for BREEZE-AD1 and AD2, and as early as week 2 for BREEZE-AD7; p &lt; 0.002).
 
@@ -698,29 +1862,9 @@ Treatment effects in subgroups (weight, age, gender, race, disease severity, and
 
 <div style=\"page-break-after: always\"></div>
 
-LS Mean % Change from Baseline
-
--20
-
--40
-
--60
-
--80
-
--100
-
-BREEZE-AD1 and BREEZE-AD2
-
-2
-
-0
-
 Table 6. Efficacy of baricitinib at week 16 (FAS a )
 
--40
-
-|                                                     | Monotherapy   | Monotherapy   | Monotherapy   | Monotherapy   | Monotherapy   | Monotherapy   | TCS Combination   | TCS Combination   | TCS Combination   |
+|                                                     | Monotherapy   | Monotherapy   | Monotherapy   | Monotherapy   | Monotherapy   | Monotherapy   | TCS combination   | TCS combination   | TCS combination   |
 |-----------------------------------------------------|---------------|---------------|---------------|---------------|---------------|---------------|-------------------|-------------------|-------------------|
 | Study                                               | BREEZE- AD1   | BREEZE- AD1   | BREEZE- AD1   | BREEZE-AD2    | BREEZE-AD2    | BREEZE-AD2    | BREEZE- AD7       | BREEZE- AD7       | BREEZE- AD7       |
 | Treatment Group                                     | PBO           | BARI 2 mg     | BARI 4 mg     | PBO           | BARI 2 mg     | BARI 4 mg     | PBO + TCS         | BARI 2 mg + TCS   | BARI 4 mg + TCS   |
@@ -732,26 +1876,20 @@ Table 6. Efficacy of baricitinib at week 16 (FAS a )
 BARI = Baricitinib; PBO = Placebo
 
 * statistically significant vs placebo without adjustment for multiplicity; ** statistically significant vs placebo with adjustment for multiplicity.
-
-a Full analysis set (FAS) including all randomised patients.
-
+- a Full analysis set (FAS) including all randomised patients.
 - b Responder was defined as a patient with IGA 0 or 1 ('clear' or 'almost clear') with a reduction of ≥ 2 points on 0-4 IGA scale.
 - c Non-Responder Imputation: Patients who received rescue treatment or with missing data were considered as non-responders.
 - d Results shown in subset of patients eligible for assessment (patients with itch NRS ≥ 4 at baseline).
+- LS = Least squares; * statistically significant vs placebo without adjustment for multiplicity; ** statistically significant vs placebo with adjustment for multiplicity.
+- a Full analysis set (FAS) including all patients randomised. Data collected after rescue therapy or after permanent medicinal product discontinuation were considered missing. LS means are from Mixed Model with Repeated Measures (MMRM) analyses.
 
 Figure 1. Mean percent change from baseline in EASI (FAS) a
 
 <!-- image -->
 
-LS = Least squares; * statistically significant vs placebo without adjustment for multiplicity; ** statistically significant vs placebo with adjustment for multiplicity.
-
-- a Full analysis set (FAS) including all patients randomised. Data collected after rescue therapy or after permanent medicinal product discontinuation were considered missing. LS means are from Mixed Model with Repeated Measures (MMRM) analyses.
-
 ## Maintenance of response
 
-To evaluate maintenance of response, 1 398 subjects treated with baricitinib for 16 weeks in BREEZE-AD1 (N = 566), BREEZE-AD2 (N = 540) and BREEZE-AD7 (N = 292) were eligible to enrol in a long term extension study BREEZE-AD3. Data are available up to 4 years (216 weeks) of cumulative treatment. Continued response was observed in patients with at least some response (IGA 0, 1 or 2) after initiating baricitinib.
-
-BREEZE-AD7
+To evaluate maintenance of response, 1 398 subjects treated with baricitinib for 16 weeks in BREEZE-AD1 (N = 566), BREEZE-AD2 (N = 540) and BREEZE-AD7 (N = 292) were eligible to enrol in a long-term extension study BREEZE-AD3. Data are available up to 4 years (216 weeks) of cumulative treatment. Continued response was observed in patients with at least some response (IGA 0, 1 or 2) after initiating baricitinib.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -765,15 +1903,15 @@ In both monotherapy studies (BREEZE-AD1 and BREEZE-AD2) and in the concomitant T
 
 Table 7. Quality of life/patient-reported outcomes results of baricitinib monotherapy and baricitinib in combination with TCS at week 16 (FAS)  a
 
-|                                                    | Monotherapy   | Monotherapy   | Monotherapy    | Monotherapy   | Monotherapy    | Monotherapy    | TCS Combination   | TCS Combination   | TCS Combination   |
+|                                                    | Monotherapy   | Monotherapy   | Monotherapy    | Monotherapy   | Monotherapy    | Monotherapy    | TCS combination   | TCS combination   | TCS combination   |
 |----------------------------------------------------|---------------|---------------|----------------|---------------|----------------|----------------|-------------------|-------------------|-------------------|
-| Study                                              | BREEZE-AD1    | BREEZE-AD1    | BREEZE-AD1     | BREEZE-AD2    | BREEZE-AD2     | BREEZE-AD2     | BREEZE-AD7        | BREEZE-AD7        | BREEZE-AD7        |
+| Study                                              | BREEZE-AD1    | BREEZE-AD1    | BREEZE-AD1     | BREEZE-AD2    | BREEZE-AD2     | BREEZE-AD2     | BREEZE-AD7 e      | BREEZE-AD7 e      | BREEZE-AD7 e      |
 | Treatment group                                    | PBO           | BARI 2 mg     | BARI 4 mg      | PBO           | BARI 2 mg      | BARI 4 mg      | PBO + TCS         | BARI 2 mg + TCS   | BARI 4 mg + TCS   |
 | N                                                  | 249           | 123           | 125            | 244           | 123            | 123            | 109               | 109               | 111               |
 | ADSS Item 2 ≥ 2-point improvement, %responders c,d | 12.8          | 11.4          | 32.7*          | 8.0           | 19.6           | 24.4*          | 30.6              | 61.5*             | 66.7*             |
-| Change in Skin Pain NRS, mean(SE) b                | -0.84 (0.24)  | -1.58 (0.29)  | -1.93** (0.26) | -0.86 (0.26)  | -2.61** (0.30) | -2.49** (0.28) | -2.06 (0.23)      | -3.22* (0.22)     | -3.73* (0.23)     |
-| Change in DLQI, mean(SE) b                         | -2.46 (0.57)  | -4.30* (0.68) | -6.76* (0.60)  | -3.35 (0.62)  | -7.44* (0.71)  | -7.56* (0.66)  | -5.58 (0.61)      | -7.50* (0.58)     | -8.89* (0.58)     |
-| Change in HADS, mean(SE) b                         | -1.22 (0.48)  | -3.22* (0.58) | -3.56* (0.52)  | -1.25 (0.57)  | -2.82 (0.66)   | -3.71* (0.62)  | -3.18 (0.56)      | -4.75* (0.54)     | -5.12* (0.54)     |
+| Change in Skin Pain NRS, mean (SE) b               | -0.84 (0.24)  | -1.58 (0.29)  | -1.93** (0.26) | -0.86 (0.26)  | -2.61** (0.30) | -2.49** (0.28) | -2.06 (0.23)      | -3.22* (0.22)     | -3.73* (0.23)     |
+| Change in DLQI, mean (SE) b                        | -2.46 (0.57)  | -4.30* (0.68) | -6.76* (0.60)  | -3.35 (0.62)  | -7.44* (0.71)  | -7.56* (0.66)  | -5.58 (0.61)      | -7.50* (0.58)     | -8.89* (0.58)     |
+| Change in HADS, mean (SE) b                        | -1.22 (0.48)  | -3.22* (0.58) | -3.56* (0.52)  | -1.25 (0.57)  | -2.82 (0.66)   | -3.71* (0.62)  | -3.18 (0.56)      | -4.75* (0.54)     | -5.12* (0.54)     |
 
 BARI = Baricitinib; PBO = Placebo
 
@@ -787,6 +1925,8 @@ c ADSS Item 2: Number of night time awakenings due to itch.
 
 d Nonresponder imputation: patients who received rescue treatment or with missing data were considered as nonresponders. Results shown in subset of patients eligible for assessment (patients with ADSS Item 2 ≥ 2 at baseline).
 
+e All patients were on concomitant topical corticosteroids therapy and patients were permitted to use topical calcineurin inhibitors.
+
 <div style=\"page-break-after: always\"></div>
 
 Clinical response in patients with experience with or a contra-indication to ciclosporin treatment (BREEZE-AD4 study)
@@ -795,14 +1935,14 @@ A total of 463 patients were enrolled, who had either failed (n = 173), or had a
 
 Table 8: Efficacy of baricitinib in combination with TCS a  at week 16 in BREEZE-AD4 (FAS) b
 
-| Study                                               | BREEZE- AD4   | BREEZE- AD4   | BREEZE- AD4    |
-|-----------------------------------------------------|---------------|---------------|----------------|
-| Treatment group                                     | PBO a         | BARI 2 mg a   | BARI 4 mg a    |
-| N                                                   | 93            | 185           | 92             |
-| EASI-75, %responders c                              | 17.2          | 27.6          | 31.5**         |
-| IGA 0 or 1, %responders c, e                        | 9.7           | 15.1          | 21.7*          |
-| Itch NRS (≥ 4 point improvement), %responders c , f | 8.2           | 22.9*         | 38.2**         |
-| Change in DLQI mean (SE) d                          | -4.95 (0.752) | -6.57 (0.494) | -7.95* (0.705) |
+| Study                                              | BREEZE- AD4   | BREEZE- AD4   | BREEZE- AD4    |
+|----------------------------------------------------|---------------|---------------|----------------|
+| Treatment group                                    | PBO a         | BARI 2 mg a   | BARI 4 mg a    |
+| N                                                  | 93            | 185           | 92             |
+| EASI-75, %responders c                             | 17.2          | 27.6          | 31.5**         |
+| IGA 0 or 1, %responders c, e                       | 9.7           | 15.1          | 21.7*          |
+| Itch NRS (≥ 4 point improvement), %responders c, f | 8.2           | 22.9*         | 38.2**         |
+| Change in DLQI mean (SE) d                         | -4.95 (0.752) | -6.57 (0.494) | -7.95* (0.705) |
 
 BARI = Baricitinib; PBO = Placebo
 
@@ -816,13 +1956,15 @@ c Non-Responder Imputation: Patients who received rescue treatment or with missi
 
 d Data collected after rescue therapy or after permanent medicinal product discontinuation were considered missing. LS means are from Mixed Model with Repeated Measures (MMRM) analyses.
 
-e Responder was defined as a patient with IGA 0 or 1 ('clear' or 'almost clear') with a reduction of ≥ 2 points on 0-4 IGA scale.
+e Responder was defined as a patient with IGA 0 or 1 ('clear' or 'almost clear') with a reduction of
+
+≥ 2 points on 0-4 IGA scale.
 
 f Results shown in subset of patients eligible for assessment (patients with itch NRS ≥ 4 at baseline).
 
 ## Adults with alopecia areata
 
-The efficacy and safety of baricitinib once daily were assessed in one adaptive Phase II/III study (BRAVE-AA1) and one Phase III study (BRAVE-AA2). The Phase III portion of BRAVE-AA1 study and the Phase III BRAVE-AA2 study were randomised, double blind, placebo-controlled, 36-week studies with extension phases up to 200 weeks. In both phase III studies, patients were randomised to placebo, 2 mg or 4 mg baricitinib in a 2:2:3 ratio. Eligible patients were adults between 18 years and 60 years of age for male patients, and between 18 years and 70 years of age for female patients, with a current episode of more than 6 months of severe alopecia areata ( hair loss encompassing ≥ 50 % of the scalp). Patients with a current episode of more than 8 years were not eligible unless episodes of regrowth had been observed on the affected areas of the scalp over the past 8 years. The only permitted concomitant alopecia areata therapies were finasteride (or other 5 alpha reductase inhibitors), oral or topical minoxidil, and bimatoprost ophthalmic solution for eyelashes, if at a stable dose at study entry.
+The efficacy and safety of baricitinib once daily were assessed in one adaptive Phase II/III study (BRAVE-AA1) and one Phase III study (BRAVE-AA2). The Phase III portion of BRAVE-AA1 study and the Phase III BRAVE-AA2 study were randomised, double blind, placebo-controlled, 36-week studies with extension phases up to 200 weeks. In both phase III studies, patients were randomised to placebo, 2 mg or 4 mg baricitinib in a 2:2:3 ratio. Eligible patients were adults between 18 years and 60 years of age for male patients, and between 18 years and 70 years of age for female patients, with a current episode of more than 6 months of severe alopecia areata ( hair loss encompassing ≥ 50 % of the scalp). Patients with a current episode of more than 8 years were not eligible unless episodes of regrowth had been observed on the affected areas of the scalp over the past 8 years. The only permitted concomitant alopecia areata therapies were finasteride (or other 5 alpha reductase inhibitors), oral or topical minoxidil and bimatoprost ophthalmic solution for eyelashes, if at a stable dose at study entry.
 
 Both studies assessed as primary outcome the proportion of subjects who achieved a SALT (Severity of Alopecia Tool) score of ≤ 20 (80 % or more scalp coverage with hair) at week 36. Additionally, both studies evaluated clinician assessment of eyebrow and eyelash hair loss using a 4-point scale (ClinRO Measure for Eyebrow Hair Loss™, ClinRO Measure for Eyelash Hair Loss™).
 
@@ -838,9 +1980,9 @@ In both studies, a significantly greater proportion of patients randomised to ba
 
 Treatment effects in subgroups (gender, age, weight, eGFR, race, geographic region, disease severity, current alopecia areata episode duration) were consistent with the results in the overall study population at week 36.
 
-Table 9. Efficacy of baricitinib through week 36 for pooled studies (Pooled Week 36 Efficacy Population a )
+Table 9. Efficacy of baricitinib through week 36 for pooled studies (pooled week 36 efficacy population a )
 
-|                                                                                                        | BRAVE-AA1 (phase III part of a phase II/III study) and BRAVE-AA2 (phase III study) Pooled Data*   | BRAVE-AA1 (phase III part of a phase II/III study) and BRAVE-AA2 (phase III study) Pooled Data*   | BRAVE-AA1 (phase III part of a phase II/III study) and BRAVE-AA2 (phase III study) Pooled Data*   |
+|                                                                                                        | BRAVE-AA1 (phase III part of a phase II/III study) and BRAVE-AA2 (phase III study) pooled data*   | BRAVE-AA1 (phase III part of a phase II/III study) and BRAVE-AA2 (phase III study) pooled data*   | BRAVE-AA1 (phase III part of a phase II/III study) and BRAVE-AA2 (phase III study) pooled data*   |
 |--------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
 |                                                                                                        | Placebo N=345                                                                                     | Baricitinib 2 mg N=340                                                                            | Baricitinib 4 mg N=515                                                                            |
 | SALT ≤ 20 at week 36                                                                                   | 4.1%                                                                                              | 19.7 %**                                                                                          | 34.0 %**                                                                                          |
@@ -854,35 +1996,9 @@ ClinRO = clinician-reported outcome; SE = standard error
 
 <div style=\"page-break-after: always\"></div>
 
-20
-
-Proportion of Patients with SALT ≤
-
-35%
-
-30% -
-
-25%
-
-20%
-
-15% -
-
-10% -
-
-5% -
-
-0%
-
-Pooled BRAVE AA-1 / AA-2
-
-***
-
-34%
-
 - a Pooled Week 36 Efficacy Population: All patients enrolled in the Phase III portion of Study BRAVE-AA1 and in Study BRAVE-AA2.
 * The results of the pooled analysis are in line with those of the individual studies
-- ** Statistically significant with adjustment for multiplicity in the graphical testing scheme within each individual study. ***
+- ** Statistically significant with adjustment for multiplicity in the graphical testing scheme within each individual study.
 - b Patients with ClinRO Measure for Eyebrow Hair loss score of ≥ 2 at baseline: 236 (Placebo), 240 (Baricitinib 2 mg), 349 (Baricitinib 4 mg). Patients with ClinRO Measure for Eyelash Hair loss score of ≥ 2 at baseline: 186 (Placebo), 200 (Baricitinib 2 mg), 307 (Baricitinib 4 mg). Both ClinRO Measures use a 4-point response scale ranging from 0 indicating no hair loss to 3 indicating no notable eyebrow/eyelashes hair.
 - c Sample sizes for analysis on Skindex-16 adapted for alopecia areata at week 36 are n= 256 (Placebo), 249 (Baricitinib 2 mg), 392 (Baricitinib 4 mg).
 - **p-value for baricitinib versus placebo ≤ 0.01; ***p-value for baricitinib versus placebo ≤ 0.001.
@@ -903,11 +2019,9 @@ In the study BRAVE-AA2, patients who had received baricitinib 4 mg once daily si
 
 The baricitinib clinical development programme for juvenile idiopathic arthritis consisted of one completed pivotal Phase III study (JUVE-BASIS) and one ongoing long-term open label safety extension study (JUVE-X).
 
-JUVE-BASIS was a double-blind randomised withdrawal (DBW), up to 44-week placebo-controlled study to evaluate the efficacy and safety of baricitinib when administered once daily to patients from 2 years to less than 18 years of age with juvenile idiopathic arthritis who have had an inadequate response or intolerance to treatment with at least 1 conventional synthetic or biologic DMARD. This
+JUVE-BASIS was a double-blind randomised withdrawal (DBW), up to 44-week placebo-controlled study to evaluate the efficacy and safety of baricitinib when administered once daily to patients from 2 years to less than 18 years of age with juvenile idiopathic arthritis who have had an inadequate response or intolerance to treatment with at least 1 conventional synthetic or biologic DMARD. This included patients with polyarticular juvenile idiopathic arthritis (rheumatoid factor positive or rheumatoid factor negative), extended oligoarticular course juvenile idiopathic arthritis, enthesitis-related juvenile idiopathic arthritis, and juvenile psoriatic arthritis as defined by the International League of Associations for Rheumatology (ILAR) criteria. Patients who participated in JUVE-BASIS were eligible for enrolment into study JUVE-X.
 
 <div style=\"page-break-after: always\"></div>
-
-included patients with polyarticular juvenile idiopathic arthritis (rheumatoid factor positive or rheumatoid factor negative), extended oligoarticular course juvenile idiopathic arthritis, enthesitis-related juvenile idiopathic arthritis, and juvenile psoriatic arthritis as defined by the International League of Associations for Rheumatology (ILAR) criteria. Patients who participated in JUVE-BASIS were eligible for enrollment into study JUVE-X.
 
 In JUVE-BASIS, patients received open-label once daily baricitinib for approximately 12 weeks from baseline. Patients 2 to less than 9 years received 2 mg daily and patients 9 to less than 18 years received 4 mg daily, to attain an equivalent exposure to a 4 mg dose in adults. At week 12, treatment response (based on PedACR30 criteria) was reviewed for each patient. Patients who achieved at least a PedACR30 response were randomised (1:1 ratio) to receive placebo or to remain on the same baricitinib dose in the 32-week double-blind, placebo-controlled phase. Patients who did not achieve PedACR30 were given the option of enrolling to JUVE-X.
 
@@ -917,7 +2031,7 @@ The primary efficacy endpoint of JUVE-BASIS was time to disease flare from the i
 
 A total of 220 patients enrolled JUVE-BASIS. Of these, 163 (74.4 %) patients were eligible to be randomised into the DBW period to either baricitinib (n=82) or placebo (n=81). There were 144 patients with polyarticular juvenile idiopathic arthritis, 16 with extended oligoarticular course juvenile idiopathic arthritis, 50 with enthesitis-related juvenile idiopathic arthritis and 10 with juvenile psoriatic arthritis.
 
-In JUVE-BASIS, the mean age was 13 years (standard deviation 3.0) and 69.1 % were female.  Patient numbers per age group were as follows:  2 to &lt;6 years: n=6; 6 to &lt;9 years: n=9; 9 to &lt;12 years: n=30; and 12 to &lt;18 years: n=175.
+In JUVE-BASIS, the mean age was 13 years (standard deviation 3.0) and 69.1 % were female. Patient numbers per age group were as follows: 2 to &lt;6 years: n=6; 6 to &lt;9 years: n=9; 9 to &lt;12 years: n=30; and 12 to &lt;18 years: n=175.
 
 The average time reported by all patients in the study since juvenile idiopathic arthritis diagnosis was 4 years. Use of concomitant therapies was similar across treatment groups in the DBW period (most common concomitant csDMARDs included MTX, sulfasalazine and leflunomide). A total of 127 (57.7 %) patients were on MTX at baseline.
 
@@ -927,72 +2041,13 @@ In JUVE-BASIS, the group of baricitinib treated patients had a significantly lon
 
 <div style=\"page-break-after: always\"></div>
 
-Proportion of Subjects Flared (%)
-
-100
-
-80
-
-60 -
-
-40 -
-
-20 -
-
-0
-
-No. of Subjects at Risk
-
-Time
-
-PLACEBO
-
-BARICITINIB
-
-Treatment
-
-PLACEBO
-
-BARICITINIB
-
-#
-
-#
-
-Patients Events (%)
-
-81
-
-82
-
-41 (50.6)
-
-14(17.1)
-
-Median (95% CI)
-
-(Weeks)
-
-27.14 (15.29, NA)
-
-HR*a
-
-0.241 (0.128, 0.453)
-
-p-value*b
-
-&lt;0.001
-
 Figure 3. Time to disease flare during the DBW period
 
 <!-- image -->
 
-CI = confidence interval; HR = hazard ratio; NA = not applicable; No. = number
+CI = confidence interval; HR = hazard ratio; NA = not applicable; No. = number *a HR - stratified by juvenile idiopathic arthritis categories (polyarticular and extended oligoarticular versus enthesitis-related arthritis and juvenile psoriatic arthritis). *b P-value is from log-rank test stratified by juvenile idiopathic arthritis categories (polyarticular and
 
-- *a HR - stratified by juvenile idiopathic arthritis categories (polyarticular and extended oligoarticular
-- versus enthesitis-related arthritis and juvenile psoriatic arthritis).
-
-*b P-value is from logrank test stratified by juvenile idiopathic arthritis categories (polyarticular and extended oligoarticular versus enthesitis-related arthritis and juvenile psoriatic arthritis).
+extended oligoarticular versus enthesitis-related arthritis and juvenile psoriatic arthritis).
 
 Time to disease flare and PedACR score results were overall consistent across juvenile idiopathic arthritis subtypes and background characteristics (including age, geography, weight, prior use of biologic, concomitant use of MTX or corticosteroids), and were consistent with those for the overall study population.
 
@@ -1002,11 +2057,9 @@ The efficacy and safety of baricitinib in combination with TCS were assessed in 
 
 ## Baseline characteristics
 
-Across all treatment groups, 76 % were Caucasian, 15% were Asian and 3 % were Black, 50 % were female and mean age was 12 years with 72 % at least 10 years of age and 28 % less than 10 years of age. Patients 6 years and younger comprised 14% of the population (6 years [N=28], 5 years [N=11], 4 years [N=16], 3 years [N=8], 2 years [N=5]). In this study, 38 % of patients had a baseline IGA of 4 (severe atopic dermatitis), and 42 % of patients had received prior systemic treatment for atopic
+Across all treatment groups, 76 % were Caucasian, 15% were Asian and 3 % were Black, 50 % were female and mean age was 12 years with 72 % at least 10 years of age and 28 % less than 10 years of age. Patients 6 years and younger comprised 14% of the population (6 years [N=28], 5 years [N=11], 4 years [N=16], 3 years [N=8], 2 years [N=5]). In this study, 38 % of patients had a baseline IGA of 4 (severe atopic dermatitis), and 42 % of patients had received prior systemic treatment for atopic dermatitis. The baseline EASI score ranged from 12.2 to 70.8, the baseline weekly averaged Itch Numeric Rating Scale (NRS) in patients at least 10 years of age was 5.5 (SD = 2.6).
 
 <div style=\"page-break-after: always\"></div>
-
-dermatitis. The baseline EASI score ranged from 12.2 to 70.8, the baseline weekly averaged Itch Numeric Rating Scale (NRS) in patients at least 10 years of age was 5.5 (SD = 2.6).
 
 ## Clinical response
 
@@ -1026,47 +2079,21 @@ Table 10. Efficacy of baricitinib in paediatric patients at week 16 a
 
 BARI = Baricitinib; PBO = Placebo
 
-** Statistically significant vs placebo with adjustment for multiplicity.
+- ** Statistically significant vs placebo with adjustment for multiplicity.
 
 a Intent to Treat (ITT) population (all randomized patients)
 
-b Responder was defined as a patient with IGA 0 or 1 ('clear' or 'almost clear') with a reduction of ≥ 2 points on 0-4 IGA scale.
-
-c Non-Responder Imputation: Patients who received rescue treatment or with missing data were considered as non-responders.
-
+- b Responder was defined as a patient with IGA 0 or 1 ('clear' or 'almost clear') with a reduction of ≥ 2 points on 0-4 IGA scale.
+- c Non-Responder Imputation: Patients who received rescue treatment or with missing data were considered as non-responders.
 - d Results shown in subset of patients eligible for assessment (patients aged ≥ 10 years with Itch NRS ≥ 4 at baseline, BARI 4 mg equivalent N=62; Placebo, N = 55).
 
 <div style=\"page-break-after: always\"></div>
 
-100
-
-80
-
-Responders, % (NRI)
-
-60
-
-20
-
-1
-
-PBO (N=122)
-
---BARI 1mg equivalent (N=121)
-
 Figure 4. Time course for achieving IGA 0 or 1 with ≥ 2 points improvement in paediatric patients through week 16
 
-—BARI 4mg equivalent (N=120)
-
-***
-
-+
-
-41.7
+BARI=baricitinib; NRI=non-responder imputation; PBO=placebo* p&lt; 0.05; ** p&lt; 0.01; *** p&lt; 0.001 vs. PBO (nominal p-value; logistic regression analysis); † Statistically significant with multiplicity adjustment
 
 <!-- image -->
-
-BARI=baricitinib; NRI=non-responder imputation; PBO=placebo* p&lt; 0.05; ** p&lt; 0.01; *** p&lt; 0.001 vs. PBO (nominal p-value; logistic regression analysis); † Statistically significant with multiplicity adjustment
 
 A significantly greater proportion of patients randomised to the baricitinib 4 mg equivalent dose achieved a ≥ 4-point improvement in the Itch NRS compared to placebo as early as week 4 (adjusted for multiplicity).
 
@@ -1080,11 +2107,9 @@ The primary outcome of the study was the proportion of subjects who achieved a S
 
 ## Baseline characteristics
 
-The placebo-controlled adolescent portion of the BRAVE-AA-PEDS study included 257 adolescent patients. Across all treatment groups, the mean age was 14.7 years, and 49 % of patients were female. The mean duration of alopecia areata from onset and the mean duration of current episode of hair loss were 6.4 and 3.2 years, respectively. The median SALT score was 100 (this equals 100 % scalp hair loss), and approximately 54 % of patients were reported as alopecia universalis. As measured by ClinRO Measures for eyebrow and eyelash scores of 2 or 3, 65 % of patients had significant or complete eyebrow hair loss at baseline and 57 % had significant or complete eyelash hair loss. All
+The placebo-controlled adolescent portion of the BRAVE-AA-PEDS study included 257 adolescent patients. Across all treatment groups, the mean age was 14.7 years, and 49 % of patients were female. The mean duration of alopecia areata from onset and the mean duration of current episode of hair loss were 6.4 and 3.2 years, respectively. The median SALT score was 100 (this equals 100 % scalp hair loss), and approximately 54 % of patients were reported as alopecia universalis. As measured by ClinRO Measures for eyebrow and eyelash scores of 2 or 3, 65 % of patients had significant or complete eyebrow hair loss at baseline and 57 % had significant or complete eyelash hair loss. All patients had received at least one treatment for alopecia areata at some point before entering the studies, and 52 % at least one systemic treatment. The use of authorised concomitant alopecia areata treatments was reported by only 3.1 % of patients during the study.
 
 <div style=\"page-break-after: always\"></div>
-
-patients had received at least one treatment for alopecia areata at some point before entering the studies, and 52 % at least one systemic treatment. The use of authorised concomitant alopecia areata treatments was reported by only 3.1 % of patients during the study.
 
 ## Clinical response
 
@@ -1114,21 +2139,7 @@ b Sample sizes for analysis on Skindex-16 adapted for alopecia areata at week 36
 
 <div style=\"page-break-after: always\"></div>
 
-Proportion of Patients with SALT ≤20
-
-20-
-
-10-
-
-0+
-
-0
-
-BRAVE-AA-PEDS
-
 Figure 5: Proportion of adolescent patients with SALT ≤ 20 through week 36
-
-42.4%
 
 <!-- image -->
 
@@ -1138,7 +2149,7 @@ Figure 5: Proportion of adolescent patients with SALT ≤ 20 through week 36
 
 The European Medicines Agency has deferred the obligation to submit the results of studies with baricitinib in one or more subsets of the paediatric population in chronic idiopathic arthritis and alopecia areata (see section 4.2 for information on paediatric use).
 
-The efficacy of baricitinib up to 12 mg/day has been evaluated in 71 patients with CANDLE (chronic atypical neutrophilic dermatosis with lipodystrophy and elevated temperature, n=10), CANDLE-related conditions (CANDLE-RC, n=9), SAVI (Stimulator of interferon gene-Associated Vasculopathy with onset during Infancy, n=8), Juvenile Dermatomyositis (JDM, n=5), and Aicardi-Goutières syndrome (AGS, n=39). Total patient-years of exposure (PYE) was 251. Due to methodological insufficiencies no definite conclusion could be drawn on the efficacy of baricitinib in these patients. Although safety patterns showed similarities with the adult indications, frequencies of adverse events were generally higher. Three deaths were observed, in the AGS population; it is unclear whether these deaths were related to treatment with baricitinib.
+The efficacy of baricitinib up to 12 mg/day has been evaluated in 71 patients with CANDLE (chronic atypical neutrophilic dermatosis with lipodystrophy and elevated temperature, n=10), CANDLE-related conditions (CANDLE-RC, n=9), SAVI (Stimulator of interferon gene-Associated Vasculopathy with onset during Infancy, n=8), Juvenile dermatomyositis (JDM, n=5), and Aicardi-Goutières syndrome (AGS, n=39). Total patient-years of exposure (PYE) was 251. Due to methodological insufficiencies no definite conclusion could be drawn on the efficacy of baricitinib in these patients. Although safety patterns showed similarities with the adult indications, frequencies of adverse events were generally higher. Three deaths were observed, in the AGS population; it is unclear whether these deaths were related to treatment with baricitinib.
 
 The efficacy and safety of baricitinib were evaluated in 29 patients from 2 to &lt; 18 years of age with active JIA-associated uveitis or chronic anterior antibody positive uveitis. MTX-IR (n = 10) were assigned to baricitinib (n = 5) or adalimumab (n = 5); bDMARD-IR (n = 19) were all assigned to baricitinib. Baricitinib was dosed 2 mg once daily for patients 2 to &lt; 9 years old and 4 mg once daily for those 9 to &lt; 18 years old, adalimumab dosing was 20 mg (if &lt; 30 kg), or 40 mg (if ≥ 30 kg) once every two weeks.
 
@@ -1152,7 +2163,9 @@ Following oral administration of baricitinib, a dose-proportional increase in sy
 
 ## Absorption
 
-Following oral administration, baricitinib is rapidly absorbed with a median tmax of approximately 1 hour (range 0.5 - 3.0 h) and an absolute bioavailability of approximately 79 % (CV = 3.94 %). Food intake led to a decreased exposure by up to 14 %, a decrease in Cmax by up to 18 % and delayed tmax by 0.5 hours. Administration with meals was not associated with a clinically relevant effect on exposure.
+Following oral administration, baricitinib is rapidly absorbed with a median tmax of approximately 1 hour (range 0.5 - 3.0 h) and an absolute bioavailability of approximately 79 % (CV = 3.94 %). Pharmacokinetic studies have shown that the baricitinib tablets and oral suspension are bioequivalent based on AUC and Cmax.
+
+Food intake with the tablets led to a decreased exposure by up to 14 %, a decrease in Cmax by up to 18 % and delayed tmax by 0.5 hours. Similarly, coadministration of the oral suspension with food led to a reduction in Cmax by 33% and a delayed tmax by 2 hours, compared to the fasted state. Administration with meals was not associated with a clinically relevant effect on exposure.
 
 ## Distribution
 
@@ -1174,11 +2187,11 @@ Mean apparent clearance (CL/F) and half-life in patients with alopecia areata wa
 
 ## Renal impairment
 
-Renal function was found to significantly affect baricitinib exposure. The mean ratios of AUC in patients with mild and moderate renal impairment to patients with normal renal function are 1.41 (90 % CI: 1.15-1.74) and 2.22 (90 % CI: 1.81-2.73), respectively. The mean ratios of Cmax in patients with mild and moderate renal impairment to patients with normal renal function are 1.16
+Renal function was found to significantly affect baricitinib exposure. The mean ratios of AUC in patients with mild and moderate renal impairment to patients with normal renal function are 1.41
 
 <div style=\"page-break-after: always\"></div>
 
-(90 %CI: 0.92-1.45) and 1.46 (90 %CI: 1.17-1.83), respectively. See section 4.2 for dose recommendations.
+(90 % CI: 1.15-1.74) and 2.22 (90 % CI: 1.81-2.73), respectively. The mean ratios of Cmax in patients with mild and moderate renal impairment to patients with normal renal function are 1.16 (90 %CI: 0.92-1.45) and 1.46 (90 %CI: 1.17-1.83), respectively. See section 4.2 for dose recommendations.
 
 ## Hepatic impairment
 
@@ -1190,11 +2203,13 @@ Age ≥ 65 years or ≥ 75 years has no effect on baricitinib exposure (Cmax and
 
 ## Paediatric population
 
-Pharmacokinetics in paediatric patients with juvenile idiopathic arthritis The half-life in paediatric patients from 2 to less than18 years was 8 to 9 hours.
+## Pharmacokinetics in paediatric patients with juvenile idiopathic arthritis
 
-Exposure in paediatric patients weighing &lt;30 kg and ≥ 30 kg: In patients &lt; 30 kg with a mean age and range of 8.1 (2.0-16.0) years, the mean and CV% for AUC and Cmax was 381 h*ng/mL (76%) and 62.1 ng/mL (39%), respectively.  In patients ≥ 30 kg with mean age and range of 14.1 (9.0 - 17.0), the mean and CV% for AUC and Cmax was 438 h*ng/mL (68%) and 60.7 ng/mL (30%), respectively.
+The half-life in paediatric patients from 2 to less than18 years was 8 to 9 hours.
 
-Exposure in paediatric patients weighing 10 to &lt;20 kg and 20 to &lt;30 kg: In patients 10 to &lt; 20 kg with a mean age and range of 5.1 (2.0-8.0) years, the mean and CV% for AUC and Cmax was 458 h*ng/mL (81%) and 77.6 ng/mL (38%), respectively.  In patients 20 to &lt; 30 kg with mean age and range of 10.3 (6.0 - 16.0), the mean and CV% for AUC and Cmax was 327 h*ng/mL (66%) and 51.2 ng/mL (22%), respectively.
+Exposure in paediatric patients weighing &lt;30 kg and ≥ 30 kg: In patients &lt; 30 kg with a mean age and range of 8.1 (2.0-16.0) years, the mean and CV% for AUC and Cmax was 381 h*ng/mL (76%) and 62.1 ng/mL (39%), respectively. In patients ≥ 30 kg with mean age and range of 14.1 (9.0 - 17.0), the mean and CV% for AUC and Cmax was 438 h*ng/mL (68%) and 60.7 ng/mL (30%), respectively.
+
+Exposure in paediatric patients weighing 10 to &lt;20 kg and 20 to &lt;30 kg: In patients 10 to &lt; 20 kg with a mean age and range of 5.1 (2.0-8.0) years, the mean and CV% for AUC and Cmax was 458 h*ng/mL (81%) and 77.6 ng/mL (38%), respectively. In patients 20 to &lt; 30 kg with mean age and range of 10.3 (6.0 - 16.0), the mean and CV% for AUC and Cmax was 327 h*ng/mL (66%) and 51.2 ng/mL (22%), respectively.
 
 ## Pharmacokinetics in paediatric patients with atopic dermatitis
 
@@ -1202,7 +2217,7 @@ The mean half-life in paediatric patients from 2 to less than 18 years was 13 to
 
 Exposure in paediatric patients weighing &lt; 30 kg and ≥ 30 kg: In patients &lt; 30 kg with a mean age and range of 6.4 (2.0-11.1) years, the mean and CV% for AUC and Cmax was 404 h*ng/mL (78%) and 60.4 ng/mL (28%), respectively. In patients ≥ 30 kg with mean age and range of 13.5 (6.2 - 17.9), the mean and CV% for AUC and Cmax was 529 h*ng/mL (102%) and 57.0 ng/mL (42%), respectively.
 
-Exposure in paediatric patients weighing 10 to &lt; 20 kg and 20 to &lt;30 kg: In patients 10 to &lt;20 kg with a mean age and range of 4.8 (2.0-6.9) years, the mean and CV% for AUC and Cmax was 467 h*ng/mL (80%) and 73.4 ng/mL (21%), respectively. In patients 20 to &lt; 30 kg with mean age and range of 7.5 (4.8 - 11.1), the mean and CV% for AUC and Cmax was 363 h*ng/mL (72%) and 52.0 ng/mL (21%), respectively.
+Exposure in paediatric patients weighing 10 to &lt; 20 kg and 20 to &lt;30 kg: In patients 10 to &lt; 20 kg with a mean age and range of 4.8 (2.0-6.9) years, the mean and CV% for AUC and Cmax was 467 h*ng/mL (80%) and 73.4 ng/mL (21%), respectively. In patients 20 to &lt; 30 kg with mean age and range of 7.5 (4.8 - 11.1), the mean and CV% for AUC and Cmax was 363 h*ng/mL (72%) and 52.0 ng/mL (21%), respectively.
 
 ## Pharmacokinetics in adolescent patients with alopecia areata
 
@@ -1212,9 +2227,11 @@ Exposure in adolescent patients from 12 to less than 18 years weighing ≥ 30 kg
 
 ## Other intrinsic factors
 
-Body weight, age, sex, race, and ethnicity did not have a clinically relevant effect on the PK of baricitinib in adult patients. The mean effects of intrinsic factors on PK parameters (AUC and Cmax) were generally within the inter-subject PK variability of baricitinib. Therefore, no dose adjustment is needed based on these patient factors.
+Body weight, age, sex, race, and ethnicity did not have a clinically relevant effect on the PK of baricitinib in adult patients. The mean effects of intrinsic factors on PK parameters (AUC and Cmax)
 
 <div style=\"page-break-after: always\"></div>
+
+were generally within the inter-subject PK variability of baricitinib. Therefore, no dose adjustment is needed based on these patient factors.
 
 ## 5.3 Preclinical safety data
 
@@ -1232,13 +2249,7 @@ Baricitinib was detected in the milk of lactating rats. In a pre- and postnatal 
 
 ## 6.1 List of excipients
 
-## Tablet cores
-
-cellulose, microcrystalline croscarmellose sodium magnesium stearate mannitol
-
-## Film coating
-
-iron oxide red (E172) lecithin (soya) (E322) macrogol poly (vinyl alcohol) talc titanium dioxide (E171)
+Xanthan gum (E415) Microcrystalline cellulose (E460) Carmellose sodium (E466) Citric acid monohydrate (E330) Sodium citrate (E331) Sodium benzoate (E211) Silica, colloidal anhydrous (E551) Sorbitol (E420), liquid (crystallising) Polysorbate 80 (E433) Sucralose (E955) Simethicone emulsion, 30% (containing dimethylpolysiloxane (E900), methylcellulose (E461), sorbic acid (E200), water) Orange flavour (contains propylene glycol (E1520), benzyl alcohol (E1519) and flavouring agents) Purified water
 
 ## 6.2 Incompatibilities
 
@@ -1248,84 +2259,81 @@ Not applicable.
 
 ## 6.3 Shelf life
 
-3 years.
+2 years.
+
+After first bottle opening: 90 days Store between 10°C and 30°C. Store the bottle upright.
 
 ## 6.4 Special precautions for storage
 
-This medicinal product does not require any special storage conditions.
+Before use, this medicinal product does not require any special temperature storage conditions.
+
+For storage conditions after first opening of the medicinal product, see section 6.3.
 
 ## 6.5 Nature and contents of container
 
-## Olumiant 1 mg film-coated tablets
+The oral suspension is provided in a type III amber glass bottle with a two-piece child-resistant polypropylene (PP) closure with a compression foam liner and a tamper evident drop ring. This medicinal product is available in bottles containing either 7.5 mL or 30 mL of oral suspension.
 
-Polyvinylchloride/polyethylene/polychlorotrifluoroethylene - aluminium blisters in cartons of 14 or 28 film-coated tablets.
+The bottle containing 7.5 mL is provided with a low-density polyethylene (LDPE) 1 mL graduated syringe with 0.25 mL graduations and an LDPE press-in-bottle adaptor.
 
-Polyvinylchloride/aluminium/oriented polyamide - aluminium perforated unit dose blisters in cartons of 28 x 1 film-coated tablets.
-
-## Olumiant 2 mg and 4 mg film-coated tablets
-
-Polyvinylchloride/polyethylene/polychlorotrifluoroethylene - aluminium blisters in cartons of 14, 28, 35, 56, 84 or 98 film-coated tablets.
-
-Polyvinylchloride/aluminium/oriented polyamide - aluminium perforated unit dose blisters in cartons of 28 x 1 or 84 x 1 film-coated tablets.
+The bottle containing 30 mL is provided with a low-density polyethylene (LDPE) 2 mL graduated syringe with 0.25 mL graduations and an LDPE press-in-bottle adaptor.
 
 Not all pack sizes may be marketed.
 
 ## 6.6 Special precautions for disposal and other handling
 
-For paediatric patients who are unable to swallow whole tablets, it may be considered to disperse the tablets in water. Only water should be used to disperse the tablet.  Only the number of tablets needed for the dose should be dispersed.
+Enteral feeding tubes made of polyvinylchloride, polyurethane and silicone have demonstrated compatibility with the oral suspension.
 
-- -Place whole tablet in a container with 5-10 mL of water at room temperature and gently swirl to disperse. It may take up to 10 minutes for the tablet to disperse into a cloudy pale pink suspension. Some settling may occur.
-- -After the tablet is dispersed, gently swirl again and administer the entire suspension immediately.
-- -Rinse the container with 5-10 mL of water at room temperature and administer the entire contents immediately.
+- -Pre-rinse the feeding tube with room temperature water.
+- -Place the prescribed dose of the oral suspension in a container with room temperature water using the oral syringe with the bottle adaptor in place and gently swirl to disperse.
+- -Use the enteral tube syringe to administer the entire dispersed suspension immediately via the enteral feeding tube.
+- -Add room temperature water to the container, swirl to collect any remaining medicine and administer immediately via the enteral feeding tube.
 
-The tablet dispersed in water is stable for up to 4 hours at room temperature. If for any reason the entire suspension is not administered, do not disperse and administer another tablet but wait until the next scheduled dose.
+The oral suspension dispersed in water is stable for up to 30 minutes at room temperature.
+
+The recommended volume of water for each step is provided in the table below.
+
+Table 12. Recommended enteral feeding tube size and volumes
+
+| Tube size (Fr)   |   Pre-rinse volume (mL) |   Dispersion volume (mL) |   Post-dispersion volume (mL) |
+|------------------|-------------------------|--------------------------|-------------------------------|
+| 5 - 6.5*         |                      10 |                        6 |                             6 |
+| 6.5 - 24**       |                      20 |                       15 |                            15 |
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
-## 7. MARKETING AUTHORISATION HOLDER
+<div style=\"page-break-after: always\"></div>
+
+7.
+
+MARKETING AUTHORISATION HOLDER
 
 Eli Lilly Nederland B.V., Orteliuslaan 1000, 3528 BD Utrecht, The Netherlands.
 
-<div style=\"page-break-after: always\"></div>
+8.
 
-## 8. MARKETING AUTHORISATION NUMBERS
+MARKETING AUTHORISATION NUMBER(S)
 
-## Olumiant 1 mg film-coated tablets
+EU/1/16/1170/020 EU/1/16/1170/021
 
-```
-EU/1/16/1170/017 EU/1/16/1170/018 EU/1/16/1170/019
-```
+9.
 
-## Olumiant 2 mg film-coated tablets
-
-```
-EU/1/16/1170/001 EU/1/16/1170/002 EU/1/16/1170/003 EU/1/16/1170/004 EU/1/16/1170/005 EU/1/16/1170/006 EU/1/16/1170/007 EU/1/16/1170/008
-```
-
-## Olumiant 4 mg film-coated tablets
-
-```
-EU/1/16/1170/009 EU/1/16/1170/010 EU/1/16/1170/011 EU/1/16/1170/012 EU/1/16/1170/013 EU/1/16/1170/014 EU/1/16/1170/015 EU/1/16/1170/016
-```
-
-## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
+DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
 Date of first authorisation: 13 February 2017
 
 Date of latest renewal: 12 November 2021
 
-## 10. DATE OF REVISION OF THE TEXT
+10.
+
+DATE OF REVISION OF THE TEXT
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
+73
+
 <div style=\"page-break-after: always\"></div>
 
-## ANNEX II
-
-- A. MANUFACTURER RESPONSIBLE FOR BATCH RELEASE
-- B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
-
-## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
+## ANNEX II A. MANUFACTURER RESPONSIBLE FOR BATCH RELEASE B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
@@ -1335,7 +2343,9 @@ Detailed information on this medicinal product is available on the website of th
 
 Name and address of the manufacturer responsible for batch release
 
-Lilly S.A. Avda. de la Industria, 30 Alcobendas 28108 Madrid SPAIN
+Film-coated tablets Lilly S.A. Avda. de la Industria, 30 Alcobendas 28108 Madrid SPAIN
+
+Oral suspension Delpharm Huningue S.A.S 26 Rue de la Chapelle Huningue, 68330 France
 
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
@@ -1362,9 +2372,9 @@ An updated RMP should be submitted:
 
 Prior to launch of baricitinib in each Member State, the MAH must agree about the content and format of the educational materials, including communication media, distribution modalities, and any other aspects of the programme, with the National Competent Authority.
 
-The main objectives of the programme are to make the prescribers aware of the risks associated with the product's use, and to highlight specific risk minimisation measures to be performed before and during the treatment with baricitinib.
-
 <div style=\"page-break-after: always\"></div>
+
+The main objectives of the programme are to make the prescribers aware of the risks associated with the product's use, and to highlight specific risk minimisation measures to be performed before and during the treatment with baricitinib.
 
 The MAH shall ensure that, in each Member State where baricitinib is marketed, all healthcare professionals who are expected to prescribe baricitinib are provided with the physician educational material, which should contain:
 
@@ -1373,7 +2383,7 @@ The MAH shall ensure that, in each Member State where baricitinib is marketed, a
 - The guide for healthcare professionals to support counselling of the patient
 - Additional Patient Alert Cards
 
-## The guide for healthcare professionals shall contain the following key elements:
+The guide for healthcare professionals shall contain the following key elements:
 
 - Indication and posology statements provided to reinforce in whom baricitinib should be used
 - That baricitinib increases the potential risk of infections. Patients should be instructed to seek immediate medical attention, if signs or symptoms suggesting infection appear. As there is a higher incidence of infections in the elderly and in the diabetic populations in general, caution should be used when treating the elderly and patients with diabetes. Baricitinib should only be used in patients 65 years of age and older if no suitable treatment alternatives are available.
@@ -1382,9 +2392,9 @@ The MAH shall ensure that, in each Member State where baricitinib is marketed, a
 - Prescribers should screen the patients for viral hepatitis before commencing baricitinib treatment. Active tuberculosis should also be ruled out.
 - That baricitinib use is associated with hyperlipidaemia; prescribers should monitor the patient's lipid parameters and manage the hyperlipidaemia, if detected.
 - Baricitinib increases the risk of venous thrombosis and pulmonary embolism.. Baricitinib should be used with caution in patients with known risk factors for DVT/PE other than cardiovascular or malignancy risk factors. Patients should be instructed to seek immediate medical attention if signs or symptoms of DVT/PE appear.
-- That there is a potentially increased risk of MACE in patients with certain risk factors using JAK inhibitor treatment, including baricitinib. In patients 65 years of age and older , patients who are current or past long term smokers, and patients with other cardiovascular risk factors, baricitinib should only be used if no suitable treatment alternatives are available.
-- That Lymphoma and other malignancies have been reported in patients receiving JAK inhibitors, including baricitinib. In patients over 65 years of age, patients who are current or past long term smokers, or with other malignancy risk factors (e.g. current malignancy or history of malignancy) baricitinib should only be used if no suitable treatment alternatives are available.
-- That baricitinib is contraindicated in pregnancy as pre-clinical data showed reduced foetal growth and malformations. Physicians should advise women of child bearing potential to use contraception during treatment and for a week after its ending. If a planned pregnancy is considered, baricitinib treatment should be stopped.
+- That there is a potentially increased risk of MACE in patients with certain risk factors using JAK inhibitor treatment, including baricitinib. In patients 65 years of age and older, patients who are current or past long-term smokers, and patients with other cardiovascular risk factors, baricitinib should only be used if no suitable treatment alternatives are available.
+- That Lymphoma and other malignancies have been reported in patients receiving JAK inhibitors, including baricitinib. In patients over 65 years of age, patients who are current or past long-term smokers, or with other malignancy risk factors (e.g. current malignancy or history of malignancy) baricitinib should only be used if no suitable treatment alternatives are available.
+- That baricitinib is contraindicated in pregnancy as pre-clinical data showed reduced foetal growth and malformations. Physicians should advise women of child-bearing potential to use contraception during treatment and for a week after its ending. If a planned pregnancy is considered, baricitinib treatment should be stopped.
 - The purpose and use of the Patient Alert Card.
 
 ## The patient alert card shall contain the following key messages:
@@ -1392,11 +2402,11 @@ The MAH shall ensure that, in each Member State where baricitinib is marketed, a
 - That treatment with baricitinib may increase the risk of infections, and viral reactivation which can become serious if not treated.
 - Signs or symptoms of infections including general symptoms, and specifically tuberculosis and herpes zoster signs and symptoms; and a warning for the patients to seek immediate medical attention if signs or symptoms suggesting infection appear.
 - Patients should seek immediate medical attention if signs and symptoms of myocardial infarction or stroke occur.
-- That baricitinib should not be taken while pregnant and that women should inform their doctor should they become (or wish to become) pregnant.
-- That baricitinib may cause a blood clot in the leg that may travel to the lungs; a description of signs and symptoms is provided, along with a warning for the patients to seek immediate medical attention if signs or symptoms suggesting a blood clot appear.
 
 <div style=\"page-break-after: always\"></div>
 
+- That baricitinib should not be taken while pregnant and that women should inform their doctor should they become (or wish to become) pregnant.
+- That baricitinib may cause a blood clot in the leg that may travel to the lungs; a description of signs and symptoms is provided, along with a warning for the patients to seek immediate medical attention if signs or symptoms suggesting a blood clot appear.
 - That baricitinib may cause non-melanoma skin cancer and that the patients should talk to their doctor if new skin lesions appear during or after therapy or if existing lesions change appearance, tell your doctor.
 - Contact details of the prescriber.
 - That the Patient Alert Card should be carried by the patient at any time and to share it with other healthcare professionals involved in their treatment.
@@ -1429,7 +2439,7 @@ Each tablet contains 1 mg baricitinib.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-14 film-coated tablets
+- 14 film-coated tablets
 
 28 film-coated tablets
 
@@ -1487,7 +2497,7 @@ Lot
 
 Olumiant 1 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -1503,17 +2513,17 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
-|-------------------------------------------------------|
-| CALENDAR BLISTERS FOR 1 MGFILM-COATED TABLETS         |
+| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
+|-----------------------------------------------------|
+| CALENDAR BLISTERS FOR 1 MGFILM-COATED TABLETS       |
 
-| 1.   | NAME OF THE MEDICINAL PRODUCT   |
-|------|---------------------------------|
+| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
+|------|------------------------------|
 
 Olumiant 1 mg tablets baricitinib
 
-| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
-|------|----------------------------------------------|
+| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
+|------|-------------------------------------------|
 
 Lilly
 
@@ -1530,36 +2540,41 @@ Lot
 | 5.   | OTHER   |
 |------|---------|
 
-Mon. Tue. Wed. Thu. Fri. Sat. Sun.
+Mon.
+
+Tue.
+
+Wed.
+
+Thu.
+
+Fri.
+
+Sat.
+
+Sun.
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS       |
-|-----------------------------------------------------------|
-| PERFORATED UNIT DOSE BLISTERS FOR 1 MGFILM-COATED TABLETS |
+## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS PERFORATED UNIT DOSE BLISTERS FOR 1 MG FILM-COATED TABLETS
 
-| 1.   | NAME OF THE MEDICINAL PRODUCT   |
-|------|---------------------------------|
+## 1. NAME OF THE MEDICINAL PRODUCT
 
 Olumiant 1 mg tablets baricitinib
 
-| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
-|------|----------------------------------------------|
+## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
 
 Lilly
 
-| 3.   | EXPIRY DATE   |
-|------|---------------|
+## 3. EXPIRY DATE
 
 EXP
 
-| 4.   | BATCH NUMBER   |
-|------|----------------|
+## 4. BATCH NUMBER
 
 Lot
 
-| 5.   | OTHER   |
-|------|---------|
+## 5. OTHER
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
@@ -1615,7 +2630,7 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -1659,7 +2674,8 @@ EU/1/16/1170/008
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
+
 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
@@ -1680,17 +2696,17 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
-|-------------------------------------------------------|
-| CALENDAR BLISTERS FOR 2 MGFILM-COATED TABLETS         |
+| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
+|-----------------------------------------------------|
+| CALENDAR BLISTERS FOR 2 MGFILM-COATED TABLETS       |
 
-| 1.   | NAME OF THE MEDICINAL PRODUCT   |
-|------|---------------------------------|
+| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
+|------|------------------------------|
 
 Olumiant 2 mg tablets baricitinib
 
-| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
-|------|----------------------------------------------|
+| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
+|------|-------------------------------------------|
 
 Lilly
 
@@ -1707,36 +2723,41 @@ Lot
 | 5.   | OTHER   |
 |------|---------|
 
-Mon. Tue. Wed. Thu. Fri. Sat. Sun.
+Mon.
+
+Tue.
+
+Wed.
+
+Thu.
+
+Fri.
+
+Sat.
+
+Sun.
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
+## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS PERFORATED UNIT DOSE BLISTERS FOR 2 MG FILM-COATED TABLETS
 
-## PERFORATED UNIT DOSE BLISTERS FOR 2 MG FILM-COATED TABLETS
-
-| 1.   | NAME OF THE MEDICINAL PRODUCT   |
-|------|---------------------------------|
+## 1. NAME OF THE MEDICINAL PRODUCT
 
 Olumiant 2 mg tablets baricitinib
 
-| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
-|------|----------------------------------------------|
+## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
 
 Lilly
 
-| 3.   | EXPIRY DATE   |
-|------|---------------|
+## 3. EXPIRY DATE
 
 EXP
 
-| 4.   | BATCH NUMBER   |
-|------|----------------|
+## 4. BATCH NUMBER
 
 Lot
 
-| 5.   | OTHER   |
-|------|---------|
+## 5. OTHER
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
@@ -1859,17 +2880,17 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
-|-------------------------------------------------------|
-| CALENDAR BLISTERS FOR 4 MGFILM-COATED TABLETS         |
+| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
+|-----------------------------------------------------|
+| CALENDAR BLISTERS FOR 4 MGFILM-COATED TABLETS       |
 
-| 1.   | NAME OF THE MEDICINAL PRODUCT   |
-|------|---------------------------------|
+| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
+|------|------------------------------|
 
 Olumiant 4 mg tablets baricitinib
 
-| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
-|------|----------------------------------------------|
+| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
+|------|-------------------------------------------|
 
 Lilly
 
@@ -1886,36 +2907,155 @@ Lot
 | 5.   | OTHER   |
 |------|---------|
 
-Mon. Tue. Wed. Thu. Fri. Sat. Sun.
+Mon.
+
+Tue.
+
+Wed.
+
+Thu.
+
+Fri.
+
+Sat.
+
+Sun.
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS       |
-|-----------------------------------------------------------|
-| PERFORATED UNIT DOSE BLISTERS FOR 4 MGFILM-COATED TABLETS |
+## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS PERFORATED UNIT DOSE BLISTERS FOR 4 MG FILM-COATED TABLETS
 
-| 1.   | NAME OF THE MEDICINAL PRODUCT   |
-|------|---------------------------------|
+## 1. NAME OF THE MEDICINAL PRODUCT
 
 Olumiant 4 mg tablets baricitinib
 
-| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
-|------|----------------------------------------------|
+## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
 
 Lilly
 
-| 3.   | EXPIRY DATE   |
-|------|---------------|
+## 3. EXPIRY DATE
 
 EXP
 
-| 4.   | BATCH NUMBER   |
-|------|----------------|
+## 4. BATCH NUMBER
 
 Lot
 
-| 5.   | OTHER   |
-|------|---------|
+## 5. OTHER
+
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
+
+## OUTER CARTON FOR ORAL SUSPENSION
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Olumiant 2 mg/mL oral suspension baricitinib
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+
+Each mL of oral suspension contains 2 mg of baricitinib
+
+## 3. LIST OF EXCIPIENTS
+
+sodium benzoate (E211), sorbitol (E420), liquid (crystallising), benzyl alcohol (E1519). See package leaflet for further information.
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+oral suspension
+
+30 mL
+
+7.5 mL
+
+Each carton contains 1 bottle, 1 graduated syringe and 1 press-in-bottle adaptor.
+
+## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+
+Shake the medicine bottle well for at least 10 seconds before each use to fully mix the suspension. Shake again if the bottle sits longer than 15 minutes. Read the package leaflet before use.
+
+Oral use
+
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
+Keep out of the sight and reach of children.
+
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+## 8. EXPIRY DATE
+
+EXP
+
+After first bottle opening: use within 90 days. Open date:\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_
+
+<div style=\"page-break-after: always\"></div>
+
+## 9. SPECIAL STORAGE CONDITIONS
+
+After first opening: store the bottle upright and between 10°C and 30°C.
+
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+
+Eli Lilly Nederland B.V., Orteliuslaan 1000, 3528 BD Utrecht, The Netherlands.
+
+12. MARKETING AUTHORISATION NUMBER(S)
+
+EU/1/16/1170/020 EU/1/16/1170/021
+
+## 13. BATCH NUMBER
+
+Lot
+
+14. GENERAL CLASSIFICATION FOR SUPPLY
+
+15. INSTRUCTIONS ON USE
+
+16. INFORMATION IN BRAILLE
+
+Olumiant 2 mg/mL
+
+17. UNIQUE IDENTIFIER - 2D BARCODE
+
+2D barcode carrying the unique identifier included.
+
+18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+
+PC
+
+SN
+
+NN
+
+<div style=\"page-break-after: always\"></div>
+
+<div style=\"page-break-after: always\"></div>
+
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS BOTTLE LABEL FOR ORAL SUSPENSION
+
+## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
+
+Olumiant 2 mg/mL oral suspension baricitinib Oral use
+
+## 2. METHOD OF ADMINISTRATION
+
+Read the package leaflet before use
+
+3. EXPIRY DATE
+
+EXP
+
+## 4. BATCH NUMBER
+
+Lot
+
+## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
+
+30 mL 7.5 mL
+
+## 6. OTHER
+
+Open date:\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1925,7 +3065,9 @@ Lot
 
 ## Package leaflet: Information for the patient
 
-Olumiant 1 mg film-coated tablets Olumiant 2 mg film-coated tablets Olumiant 4 mg film-coated tablets baricitinib
+Olumiant 1 mg film-coated tablets Olumiant 2 mg film-coated tablets Olumiant 4 mg film-coated tablets
+
+baricitinib
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
@@ -1957,7 +3099,7 @@ Olumiant works by reducing the activity of an enzyme in the body called 'Janus k
 
 Olumiant is used to treat children from the age of 2 years, adolescents and adults with moderate to severe atopic dermatitis, also known as atopic eczema. Olumiant may be used with eczema medicines that you apply to the skin or it may be used on its own.
 
-Olumiant works by reducing the activity of an enzyme in the body called 'Janus kinase', which is involved in inflammation. By reducing the activity of this enzyme, Olumiant helps to improve the condition of your skin and reduce itching . In addition, Olumiant helps improve your sleep disturbance (due to itch) and overall quality of life. Olumiant has also been shown to improve symptoms of skin pain, anxiety, and depression associated with atopic dermatitis.
+Olumiant works by reducing the activity of an enzyme in the body called 'Janus kinase', which is involved in inflammation. By reducing the activity of this enzyme, Olumiant helps to improve the condition of your skin and reduce itching. In addition, Olumiant helps improve your sleep disturbance (due to itch) and overall quality of life. Olumiant has also been shown to improve symptoms of skin pain, anxiety, and depression associated with atopic dermatitis.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2019,7 +3161,7 @@ If you notice any of the following serious side effects, you need to tell a doct
 - -one-sided weakness in arm and/or leg
 - -slurred speech
 
-You may need blood tests before you start Olumiant, or while you are taking it, to check if you have a low red blood cell count (anaemia), low white blood cell count (neutropaenia or lymphopaenia), high blood fat (cholesterol) or high levels of liver enzymes, to ensure that treatment with Olumiant is not causing problems.
+You may need blood tests before you start Olumiant, or while you are taking it, to check if you have a low red blood cell count (anaemia), low white blood cell count (neutropenia or lymphopenia), high blood fat (cholesterol) or high levels of liver enzymes, to ensure that treatment with Olumiant is not causing problems.
 
 ## Children and adolescents
 
@@ -2077,7 +3219,9 @@ If you have reduced kidney function, the recommended dose of Olumiant is 2 mg on
 
 ## Children and adolescents with atopic dermatitis, polyarticular juvenile idiopathic arthritis, enthesitisrelated arthritis and juvenile psoriatic arthritis
 
-The recommended dose is 4 mg once a day for patients ≥ 30 kg. For patients 10 kg to &lt; 30 kg the recommended dose is 2 mg once a day. If you have reduced kidney function, the recommended dose of Olumiant should be reduced by half.
+The recommended dose is 4 mg once a day for patients ≥ 30 kg. For patients 10 kg to &lt; 30 kg the recommended dose is 2 mg once a day.
+
+If you have reduced kidney function, the recommended dose of Olumiant should be reduced by half.
 
 ## Adolescents with alopecia areata
 
@@ -2089,11 +3233,11 @@ For paediatric patients who are unable to swallow whole tablets, the tablets may
 
 - -Place whole tablet in a container with 5-10 mL of water at room temperature and gently swirl to disperse (break apart) tablet. It may take up to 10 minutes for the tablet to disperse into a cloudy pale pink suspension. Some settling may occur.
 - -After the tablet is dispersed, gently swirl again and then swallow mixture immediately
-- -Rinse the container with 5-10 mL of water at room temperature by swirling, and swallow the mixture immediately to ensure full dose is delivered.
-
-Only water should be used to disperse the tablet.
+- -Add 5-10 mL of room temperature water to the container, swirl to collect any remaining medicine, and swallow the mixture immediately to ensure full dose is delivered.
 
 <div style=\"page-break-after: always\"></div>
+
+## Only water should be used to disperse the tablet.
 
 After the tablet is dispersed in water it can be used for up to 4 hours if kept at room temperature. If a tablet is dispersed in water and only part of the dispersed dose is taken, wait until the next day to take the next scheduled dose.
 
@@ -2136,12 +3280,12 @@ Serious pneumonia and serious herpes zoster were uncommon.
 
 ## Other side effects
 
-Very common (may affect more than 1 in 10 people)
+## Very common (may affect more than 1 in 10 people)
 
 - -throat and nose infections
 - -high levels of blood fat (cholesterol) shown by blood test
 
-Common (may affect up to 1 in 10 people)
+## Common (may affect up to 1 in 10 people)
 
 - -cold sores (herpes simplex)
 - -infection causing a sick stomach or diarrhoea (gastroenteritis)
@@ -2149,11 +3293,11 @@ Common (may affect up to 1 in 10 people)
 - -high number of platelets (cells involved in blood clotting), shown by blood test (this was uncommon in atopic dermatitis and alopecia areata)
 - -headache
 - -feeling sick in the stomach (nausea; this was uncommon in atopic dermatitis)
-- -stomach pain (this was uncommon in alopecia areata)
-- -high levels of liver enzymes, shown by blood test (this was uncommon in atopic dermatitis)
 
 <div style=\"page-break-after: always\"></div>
 
+- -stomach pain (this was uncommon in alopecia areata)
+- -high levels of liver enzymes, shown by blood test (this was uncommon in atopic dermatitis)
 - -rash
 - -acne (this was uncommon in rheumatoid arthritis)
 - -increase in an enzyme called creatine kinase, shown by a blood test (this was uncommon in rheumatoid arthritis)
@@ -2214,7 +3358,7 @@ Olumiant 1 mg is available in blister packs of 14 and 28 tablets in calendar bli
 
 ## Marketing Authorisation Holder
 
-Eli Lilly Nederland B.V., Orteliuslaan 1000, 3528 BD, Utrecht, The Netherlands.
+Eli Lilly Nederland B.V.,  Orteliuslaan 1000, 3528 BD, Utrecht, The Netherlands.
 
 ## Manufacturer
 
@@ -2224,13 +3368,13 @@ For any information about this medicine, please contact the local representative
 
 ## Belgique/België/Belgien
 
-Eli Lilly Benelux S.A./N.V.
-
-Tél/Tel: + 32-(0)2 548 84 84
+Eli Lilly Benelux S.A./N.V. Tél/Tel: + 32-(0)2 548 84 84
 
 ## Lietuva
 
-Eli Lilly Lietuva Tel. +370 (5) 2649600
+Eli Lilly Lietuva
+
+Tel. +370 (5) 2649600
 
 ## България
 
@@ -2258,7 +3402,7 @@ Tel: + 36 1 328 5100
 
 Eli Lilly Danmark A/S
 
-Tlf: +45 45 26 60 00
+Tlf.: +45 45 26 60 00
 
 ## Malta
 
@@ -2336,9 +3480,7 @@ Tel: + 39- 055 42571
 
 Phadisco Ltd
 
-Τηλ
-
-: +357 22 715000
+Τηλ: +357 22 715000
 
 ## Latvija
 
@@ -2418,7 +3560,7 @@ Tel: + 46-(0) 8 7378800
 
 <div style=\"page-break-after: always\"></div>
 
-Keep this information with you and share it with other  healthcare professionals involved in your medical care or treatment.
+Keep this information with you and share it with other healthcare professionals involved in your medical care or treatment.
 
 ## Your name:
 
@@ -2466,3 +3608,818 @@ Inform your doctor immediately if you experience any of the following:
 - Cold sweat
 - One-sided weakness in arm and/or leg
 - Slurred speech
+
+<div style=\"page-break-after: always\"></div>
+
+## Package leaflet: Information for the patient
+
+## Olumiant 2mg/mL oral suspension baricitinib
+
+## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
+
+- -Keep this leaflet. You may need to read it again.
+- -If you have any further questions, ask your doctor, or pharmacist or nurse.
+- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- -If you get any side effects, talk to your doctor, or pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+
+## What is in this leaflet
+
+1. What Olumiant is and what it is used for
+2. What you need to know before you take Olumiant
+3. How to take Olumiant
+4. Possible side effects
+5. How to store Olumiant
+6. Contents of the pack and other information
+
+## 1. What Olumiant is and what it is used for
+
+Olumiant 2 mg/mL oral suspension contains the active substance baricitinib. It belongs to a group of medicines called Janus kinase inhibitors, which help to reduce inflammation.
+
+## Rheumatoid arthritis
+
+Olumiant is used to treat adults with moderate to severe rheumatoid arthritis, an inflammatory disease of the joints, if previous therapy did not work well enough or was not tolerated. Olumiant can be used alone or together with some other medicines, such as methotrexate.
+
+Olumiant works by reducing the activity of an enzyme in the body called 'Janus kinase', which is involved in inflammation. By reducing the activity of this enzyme, Olumiant helps to reduce pain, stiffness and swelling in your joints, tiredness, and helps to slow damage to the bone and cartilage in the joints. These effects can help you to do normal daily activities and so improve the health-related quality of life for patients with rheumatoid arthritis.
+
+## Atopic dermatitis
+
+Olumiant is used to treat children from the age of 2 years, adolescents and adults with moderate to severe atopic dermatitis, also known as atopic eczema. Olumiant may be used with eczema medicines that you apply to the skin or it may be used on its own.
+
+Olumiant works by reducing the activity of an enzyme in the body called 'Janus kinase', which is involved in inflammation. By reducing the activity of this enzyme, Olumiant helps to improve the condition of your skin and reduce itching. In addition, Olumiant helps improve your sleep disturbance (due to itch) and overall quality of life. Olumiant has also been shown to improve symptoms of skin pain, anxiety, and depression associated with atopic dermatitis.
+
+## Alopecia areata
+
+Olumiant is used to treat adolescents from the age of 12 years and adults with severe alopecia areata, an autoimmune disease characterized by inflammatory, nonscarring hair loss on the scalp, face and sometimes on other areas of the body that can be recurrent and progressive.
+
+<div style=\"page-break-after: always\"></div>
+
+Olumiant works by reducing the activity of an enzyme in the body called 'Janus kinase', which is involved in inflammation. By reducing the activity of this enzyme, Olumiant helps hair to regrow on scalp, face and other areas of the body impacted by the disease.
+
+## Polyarticular juvenile idiopathic arthritis, enthesitis-related arthritis and juvenile psoriatic arthritis
+
+Olumiant is used for the treatment of active polyarticular juvenile idiopathic arthritis, an inflammatory disease of the joints, in children 2 years of age and older.
+
+Olumiant is also used for the treatment of active enthesitis-related arthritis, an inflammatory disease of the joints and the places where tendons join the bone, in children 2 years of age and older.
+
+Olumiant is also used for the treatment of active juvenile psoriatic arthritis, a condition that is an inflammatory disease of the joints often accompanied by psoriasis, in children 2 years of age and older.
+
+Olumiant can be used alone or together with methotrexate.
+
+## 2. What you need to know before you take Olumiant
+
+## Do not take Olumiant
+
+- -if you are allergic to baricitinib or any of the other ingredients of this medicine (listed in section 6).
+- -if you are pregnant or think you may be pregnant.
+
+## Warnings and precautions
+
+Talk to your doctor or pharmacist before and during treatment with Olumiant if you:
+
+- -are older than 65. Patients aged 65 years and older may be at increased risk of infections, heart problems including heart attack and some types of cancer. Your doctor will discuss with you if Olumiant is appropriate for you
+- -have an infection, or if you often get infections. Tell your doctor if you get symptoms such as fever, wounds, feeling more tired than usual or dental problems as these can be signs of infection. Olumiant can reduce your body's ability to fight infections and may make an existing infection worse or increase the chance of you getting a new infection. If you have diabetes or are older than 65 you may have an increased chance of getting infections
+- -have, or have previously had, tuberculosis. You may need tests to check for tuberculosis before you are given Olumiant. Tell your doctor if you get persistent cough, fever, night sweats and weight loss during Olumiant treatment as these can be signs of tuberculosis
+- -have had a herpes infection (shingles), because Olumiant may allow it to come back. Tell your doctor if you get painful skin rash with blisters during Olumiant treatment as these can be signs of shingles
+- -have, or have previously had, hepatitis B or C
+- -are due to have a vaccine. You should not be given certain (live) vaccines while using Olumiant
+- -have or have had cancer, smoke or have smoked in the past, because your doctor will discuss with you if Olumiant is appropriate for you
+- -have poor liver function
+- -have, or have had, heart problems, because your doctor will discuss with you if Olumiant is appropriate for you
+- -have previously had blood clots in the veins of your legs (deep vein thrombosis) or lungs (pulmonary embolism), or have an increased risk for developing this (for example: if you had recent major surgery, if you use hormonal contraceptives\\hormonal replacement therapy, or if a coagulation defect is identified in you or your close relatives). Your doctor will discuss with you if Olumiant is appropriate for you. Tell your doctor if you get sudden shortness of breath or difficulty breathing, chest pain or pain in upper back, swelling of the leg or arm, leg pain or tenderness, or redness or discoloration in the leg or arm as these can be signs of blood clots in the veins
+
+<div style=\"page-break-after: always\"></div>
+
+- -have had diverticulitis (a type of inflammation of the large intestine) or ulcers in stomach or intestines (see section 4)
+- -Non-melanoma skin cancer has been observed in patients taking Olumiant. Your doctor may recommend that you have regular skin examinations while taking Olumiant. If new skin lesions appear during or after therapy or if existing lesions change appearance, tell your doctor.
+
+If you notice any of the following serious side effects, you need to tell a doctor straight away:
+
+- -wheezing
+- -severe dizziness or light-headedness
+- -swelling of the lips, tongue or throat
+- -hives (itching or skin rash)
+- -severe abdominal pain especially accompanied with fever, nausea and vomiting.
+- -severe chest pain or tightness (that may spread to arms, jaw, neck, back)
+- -shortness of breath
+- -cold sweat
+- -one-sided weakness in arm and/or leg
+- -slurred speech
+
+You may need blood tests before you start Olumiant, or while you are taking it, to check if you have a low red blood cell count (anaemia), low white blood cell count (neutropenia or lymphopenia), high blood fat (cholesterol) or high levels of liver enzymes, to ensure that treatment with Olumiant is not causing problems.
+
+## Children and adolescents
+
+If possible, children and adolescents should be up to date with all vaccinations before using Olumiant.
+
+Do not give this medicine to children younger than 2 years of age.
+
+Do not give this medicine to children with alopecia areata under 12 years old, or weighing &lt; 30 kg, because there is no information on use in this disease.
+
+## Other medicines and Olumiant
+
+Tell your doctor or pharmacist if you are taking, have recently taken, or might take, any other medicines.
+
+In particular, tell your doctor or pharmacist before taking Olumiant if you are taking any other medicine such as:
+
+- -probenecid (for gout), since this medicine may increase the levels of Olumiant in your blood. If you are taking probenecid, the recommended dose of Olumiant for adults is 2 mg once a day and for children and adolescents the dose should be reduced by half.
+- -injectable anti-rheumatic medicine
+- -injectable medicines that depress the immune system, including so called targeted biologic (antibody) therapies
+- -medicines which are used to control the body's immune response, such as azathioprine, tacrolimus or ciclosporin
+- -other medicines belonging to the group of Janus kinase inhibitors
+- -medicines that may increase your risk of diverticulitis such as a non-steroidal anti-inflammatory medicines (usually used to treat painful and/or inflammatory conditions of muscle or joints) and/or opioids (used to treat severe pain), and/or corticosteroids (usually used to treat inflammatory conditions) (see section 4)
+- -medicines to treat diabetes or if you have diabetes. Your doctor may decide if you need less anti-diabetic medicine while taking Olumiant.
+
+## Pregnancy and breast-feeding
+
+If you are pregnant or breast-feeding, think you may be pregnant or are planning to have a baby, ask your doctor or pharmacist for advice before taking this medicine.
+
+<div style=\"page-break-after: always\"></div>
+
+You should use an effective method of contraception to avoid becoming pregnant during treatment with Olumiant and for at least one week after the last Olumiant treatment. You must tell your doctor if you become pregnant as Olumiant should not be used during pregnancy.
+
+You should not use Olumiant while breast-feeding as it is not known if this medicine passes into milk. You and your doctor should decide if you will breast-feed or use Olumiant. You should not do both.
+
+## Driving and using machines
+
+Olumiant has no effect on the ability to drive and use machines.
+
+## Olumiant contains sodium benzoate (E211)
+
+This medicine contains 2.09 mg sodium benzoate in each mL.
+
+## Olumiant contains sorbitol (E420)
+
+This medicine contains 105 mg sorbitol in each mL. Sorbitol is a source of fructose. If your doctor has told you that you (or your child) have an intolerance to some sugars or if you have been diagnosed with hereditary fructose intolerance (HFI), a rare genetic disorder in which a person cannot break down fructose, talk to your doctor before you (or your child) take or receive this medicine.
+
+## Olumiant contains benzyl alcohol (E1519)
+
+This medicine contains 0.24 mg benzyl alcohol in each mL. Benzyl alcohol may cause allergic reactions. Ask your doctor, nurse or pharmacist for advice if you have a liver or kidney disease. This is because large amounts of benzyl alcohol can build-up in your body and may cause side effects (called 'metabolic acidosis'). Do not use for more than a week in young children (less than 3 years old), unless advised by your doctor or pharmacist.
+
+## Olumiant contains sodium
+
+This medicine contains less than 1 mmol sodium (23 mg) per mL, that is to say essentially 'sodium-free'.
+
+## 3. How to take Olumiant
+
+Treatment should be started by a doctor experienced in the diagnosis and treatment of your condition. Always take this medicine exactly as your doctor or pharmacist has told you. Check with your doctor or pharmacist if you are not sure.
+
+Olumiant oral suspension is supplied in a bottle. This is part of a pack which also includes a dosing device containing an oral syringe marked in 0.25 mL increments and a press-in-bottle adaptor. Read the instructions for use booklet, which is included in the carton for instructions on how to use the adaptor and the syringe.
+
+## Adults with rheumatoid arthritis, atopic dermatitis and alopecia areata
+
+The recommended dose is 4 mg (2 mL) once a day. Your doctor may give you a lower dose of 2 mg (1 mL) once a day, particularly if you are over 65 years old or if you have an increased risk of infections, of blood clots, major cardiovascular events or cancer.
+
+If the medicine is working well, your doctor may decide the dose can be reduced.
+
+If you have reduced kidney function, the recommended dose of Olumiant is 2 mg (1 mL) once a day.
+
+## Use in children and adolescents
+
+Children and adolescents with atopic dermatitis, polyarticular juvenile idiopathic arthritis, enthesitisrelated arthritis and juvenile psoriatic arthritis The recommended dose is 4 mg (2 mL) once a day for patients ≥ 30 kg. For patients 10 kg to &lt; 30 kg the recommended dose is 2 mg (1 mL) once a day.
+
+<div style=\"page-break-after: always\"></div>
+
+If you have reduced kidney function, the recommended dose of Olumiant should be reduced by half.
+
+## Adolescents with alopecia areata
+
+The recommended dose is 4 mg (2 mL) once a day for patients ≥ 30 kg.
+
+If you have reduced kidney function, the recommended dose of Olumiant should be reduced by half.
+
+## Method of administration
+
+Olumiant is for oral use.
+
+You can take Olumiant with or without food. Your doctor or pharmacist will advise you how the medicine can be mixed with milk, orange juice or water. To help you remember to take Olumiant, you may find it easier to take it at the same time every day.
+
+The prescribed dose can be administered via enteral feeding tubes. Follow your doctor and/or pharmacist's instructions for giving Olumiant through a feeding tube.
+
+## If you take more Olumiant than you should
+
+If you take more Olumiant than you should, contact your doctor. You may get some of the side effects described in section 4.
+
+## If you forget to take Olumiant
+
+- -If you miss a dose, take it as soon as you remember.
+- -If you forget your dose for an entire day, just skip the missed dose and take only a single dose as usual the following day.
+- -Do not take a double dose to make up for a forgotten dose.
+
+## If you stop taking Olumiant
+
+Do not stop taking Olumiant unless your doctor tells you to stop taking it.
+
+If you have any further questions on the use of this medicine, ask your doctor or pharmacist.
+
+## 4. Possible side effects
+
+Like all medicines, this medicine can cause side effects, although not everybody gets them.
+
+## Serious side effects
+
+## Infection such as shingles and pneumonia , which may affect up to 1 in 10 people:
+
+Tell your doctor or seek medical help immediately if you get the following symptoms, which may be signs of:
+
+- -shingles (herpes zoster): painful skin rash with blisters and fever (this was very rare in atopic dermatitis and uncommon in alopecia areata)
+- -pneumonia: persistent cough, fever, shortness of breath, and tiredness (this was uncommon in atopic dermatitis and alopecia areata)
+
+Serious pneumonia and serious herpes zoster were uncommon.
+
+## Other side effects
+
+## Very common (may affect more than 1 in 10 people)
+
+- -throat and nose infections
+- -high levels of blood fat (cholesterol) shown by blood test
+
+<div style=\"page-break-after: always\"></div>
+
+## Common (may affect up to 1 in 10 people)
+
+- -cold sores (herpes simplex)
+- -infection causing a sick stomach or diarrhoea (gastroenteritis)
+- -urinary infection
+- -high number of platelets (cells involved in blood clotting), shown by blood test (this was uncommon in atopic dermatitis and alopecia areata)
+- -headache
+- -feeling sick in the stomach (nausea; this was uncommon in atopic dermatitis)
+- -stomach pain (this was uncommon in alopecia areata)
+- -high levels of liver enzymes, shown by blood test (this was uncommon in atopic dermatitis)
+- -rash
+- -acne (this was uncommon in rheumatoid arthritis)
+- -increase in an enzyme called creatine kinase, shown by a blood test (this was uncommon in rheumatoid arthritis)
+- -inflammation (swelling) of the hair follicles particularly in the scalp region associated with hair regrowth (observed in alopecia areata)
+
+## Uncommon (may affect up to 1 in 100 people)
+
+- -low number of white bloods cells (neutrophils), shown by blood test
+- -high levels of blood fat (triglycerides), shown by blood test
+- -high levels of liver enzymes, shown by blood test (this was common in alopecia areata)
+- -weight gain
+- -swelling of the face
+- -urticaria
+- -blood clots in the blood vessels of the lungs
+- -blood clot in the veins of the legs or pelvis, called a deep vein thrombosis (DVT)
+- -diverticulitis (painful inflammation of small pockets in the lining of your intestine)
+
+## Children and adolescents
+
+- -Polyarticular juvenile idiopathic arthritis, enthesitis-related arthritis and juvenile
+- psoriatic arthritis: In a study of children 2 years of age and older with polyarticular juvenile idiopathic arthritis, enthesitis-related arthritis and juvenile psoriatic arthritis, headache was very common, low number of white blood cells and blood clots in the lungs were common (1 out of 82 children each).
+- -Paediatric atopic dermatitis: In a study of children 2 years of age and older with atopic dermatitis, side effects were consistent with those seen in adult patients with the exception of low number of white bloods cells (neutrophils), which was more common compared to adults.
+- -Adolescents with alopecia areata: In a study of adolescents 12 years of age and older with alopecia areata, side effects were consistent with those seen in adult patients with the exception of acne and low number of white bloods cells (neutrophils), which were more common compared to adults.
+
+## Reporting of side effects
+
+If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
+
+## 5. How to store Olumiant
+
+Keep this medicine out of the sight and reach of children.
+
+Do not use this medicine after the expiry date which is stated on the bottle and carton after 'EXP'. The expiry date refers to the last day of that month.
+
+<div style=\"page-break-after: always\"></div>
+
+Do not use the medicine if the bottle has been open for more than 90 days.
+
+After first opening, store the bottle upright and store this medicine between 10°C and 30°C.
+
+Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
+
+## 6. Contents of the pack and other information
+
+## What Olumiant contains
+
+- -The active substance is baricitinib. Each mL contains 2 mg of baricitinib.
+- -The other ingredients are: xanthan gum [(E415)], microcrystalline cellulose [(E460)], carmellose sodium [(E466)], citric acid monohydrate [(E330)], sodium citrate [(E331)], sodium benzoate [(E211)], silica colloidal anhydrous [(E551)], sorbitol liquid (crystallising) [(E420)], polysorbate 80 [(E433)], sucralose [(E955)], simethicone emulsion 30% (containing dimethylpolysiloxane [(E900)], methylcellulose [(E461)], sorbic acid [E200]), water), orange flavour [(contains propylene glycol [(E1520)], benzyl alcohol [(E1519), and flavouring agents)], purified water. See section 2 'Olumiant contains' for more information about sodium benzoate, sorbitol, benzyl alcohol and sodium.
+
+## What Olumiant looks like and contents of the pack
+
+Olumiant 2 mg/mL oral suspension is a white to practically white aqueous suspension.
+
+Olumiant 2 mg/mL oral suspension 7.5 mL bottle : Olumiant is packaged in a bottle containing 7.5 mL of oral suspension and child-resistant closure, inside a carton. Each carton contains one bottle, a 1 mL graduated syringe with 0.25 mL graduations and a press-in-bottle adaptor.
+
+Olumiant 2 mg/mL oral suspension 30 mL bottle : Olumiant is packaged in a bottle containing 30 mL of oral suspension and child-resistant closure, inside a carton. Each carton contains one bottle, a 2 mL graduated syringe with 0.25 mL graduations and a press-in-bottle adaptor.
+
+## Marketing Authorisation Holder
+
+Eli Lilly Nederland B.V., Orteliuslaan 1000, 3528 BD, Utrecht, The Netherlands.
+
+## Manufacturer
+
+Delpharm Huningue S.A.S, 26 rue de la Chapelle, Huningue, 68330, France.
+
+For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
+
+## Belgique/België/Belgien
+
+Eli Lilly Benelux S.A./N.V.
+
+Tél/Tel: + 32-(0)2 548 84 84
+
+## Lietuva
+
+Eli Lilly Lietuva
+
+Tel. +370 (5) 2649600
+
+## България
+
+ТП \" Ели Лили Недерланд \" Б . В . - България тел. + 359 2 491 41 40
+
+## Luxembourg/Luxemburg
+
+Eli Lilly Benelux S.A./N.V.
+
+Tél/Tel: + 32-(0)2 548 84 84
+
+## Česká republika
+
+ELI LILLY ČR, s.r.o.
+
+Tel: + 420 234 664 111
+
+## Magyarország
+
+Lilly Hungária Kft.
+
+Tel: + 36 1 328 5100
+
+<div style=\"page-break-after: always\"></div>
+
+## Danmark
+
+Eli Lilly Danmark A/S
+
+Tlf.: +45 45 26 60 00
+
+## Deutschland
+
+Lilly Deutschland GmbH
+
+Tel. + 49-(0) 6172 273 2222
+
+## Eesti
+
+Eli Lilly Nederland B.V.
+
+Tel: +372 6 817 280
+
+## Ελλάδα
+
+ΦΑΡΜΑΣΕΡΒ - ΛΙΛΛΥ Α.Ε.Β.Ε.
+
+Τηλ: +30 210 629 4600
+
+## España
+
+Lilly S.A.
+
+Tel: + 34-91 663 50 00
+
+## France
+
+Lilly France
+
+Tél: +33-(0) 1 55 49 34 34
+
+## Hrvatska
+
+Eli Lilly Hrvatska d.o.o.
+
+Tel: +385 1 2350 999
+
+## Ireland
+
+Eli Lilly and Company (Ireland) Limited
+
+Tel: + 353-(0) 1 661 4377
+
+## Ísland
+
+Icepharma hf.
+
+Sími + 354 540 8000
+
+## Italia
+
+Eli Lilly Italia S.p.A.
+
+Tel: + 39- 055 42571
+
+## Κύπρος
+
+Phadisco Ltd
+
+Τηλ: +357 22 715000
+
+## Latvija
+
+Eli Lilly (Suisse) S.A Pārstāvniecība Latvijā
+
+Tel:
+
++ 371 67364000
+
+## This leaflet was last revised in
+
+## Other sources of information
+
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
+
+Please remove this portion of the package leaflet and keep it with you.
+
+## Malta
+
+Charles de Giorgio Ltd.
+
+Tel: + 356 25600 500
+
+## Nederland
+
+Eli Lilly Nederland B.V.
+
+Tel: + 31-(0) 30 60 25 800
+
+## Norge
+
+Eli Lilly Norge A.S.
+
+Tlf: + 47 22 88 18 00
+
+## Österreich
+
+Eli Lilly Ges.m.b.H.
+
+Tel: + 43-(0) 1 711 780
+
+## Polska
+
+Eli Lilly Polska Sp. z o.o.
+
+Tel: +48 22 440 33 00
+
+## Portugal
+
+Lilly Portugal Produtos Farmacêuticos, Lda
+
+Tel: + 351-21-4126600
+
+## România
+
+Eli Lilly România S.R.L.
+
+Tel: + 40 21 4023000
+
+## Slovenija
+
+Eli Lilly farmacevtska družba, d.o.o.
+
+Tel: +386 (0)1 580 00 10
+
+## Slovenská republika
+
+Eli Lilly Slovakia s.r.o.
+
+Tel: + 421 220 663 111
+
+## Suomi/Finland
+
+Oy Eli Lilly Finland Ab
+
+Puh/Tel: + 358-(0) 9 85 45 250
+
+## Sverige
+
+Eli Lilly Sweden AB
+
+Tel: + 46-(0) 8 7378800
+
+<div style=\"page-break-after: always\"></div>
+
+--------------------------------------------------------------------------------------------------------------------------
+
+## Information for Patients about OLUMIANT (baricitinib)
+
+This document contains important information you should be aware of before and during treatment with Olumiant.
+
+Keep this information with you and share it with other healthcare professionals involved in your medical care or treatment.
+
+## Your name:
+
+\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_
+
+Doctor's name (who prescribed Olumiant):
+
+\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_
+
+## Doctor's phone number:
+
+\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_
+
+## Pregnancy:
+
+- Do not take Olumiant if you are pregnant or suspect you may be pregnant.
+- Use effective contraception while taking Olumiant (and for 1 week after, if you stop treatment).
+- Tell your doctor immediately if you become (or wish to become) pregnant.
+
+## Infections:
+
+Olumiant may make an existing infection worse or increase the chance of you getting a new infection or increase the chance of viral reactivation. If you have diabetes or are older than 65 you may have an increased chance of getting infections. The infection can become serious if not treated. Inform your doctor immediately if you get symptoms of infection, such as:
+
+- Fever, wounds, feeling more tired than usual, or dental problems.
+- A cough that won't go away, night sweats, and weight loss. These could be symptoms of tuberculosis (an infectious disease of the lungs).
+- A painful skin rash with blisters. This could be a sign of a herpes zoster infection.
+
+## Non-melanoma skin cancer:
+
+Non-melanoma skin cancer has been observed in patients taking Olumiant. If new skin lesions appear during or after therapy or if existing lesions change appearance, tell your doctor.
+
+## Blood clots:
+
+Olumiant may cause a condition in which a blood clot forms in your leg that may travel to your lungs. Inform your doctor immediately if you experience any of the following symptoms:
+
+- Swelling or pain in one leg or arm
+- Warmth or redness in one leg or arm
+- Shortness of breath which is unexpected
+- Rapid breathing
+- Chest pain
+
+## Heart attack or stroke:
+
+Inform your doctor immediately if you experience any of the following:
+
+<div style=\"page-break-after: always\"></div>
+
+| • Severe chest pain or tightness (that may spread to arms, jaw, neck, back) • Shortness of breath • Cold sweat • One-sided weakness in arm and/or leg • Slurred speech   |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+<div style=\"page-break-after: always\"></div>
+
+## INSTRUCTIONS FOR USE
+
+## Olumiant 2 mg/mL oral suspension baricitinib
+
+Before you use OLUMIANT oral suspension, read and carefully follow all the step-by-step instructions.
+
+This instructions for use contains information on how to use OLUMIANT oral suspension.
+
+## Parts of the Olumiant oral suspension delivery system
+
+<!-- image -->
+
+## IMPORTANT INFORMATION YOU NEED TO KNOW BEFORE USING OLUMIANT ORAL SUSPENSION
+
+<!-- image -->
+
+The adaptor represents a CHOKING HAZARD - small parts. Do not attach the oral dosing syringe to the adaptor until the adaptor is fully inserted into the bottle. It must be inserted completely into the bottle for safe use. Use only under adult supervision.
+
+Do not let your child take the medicine without your help.
+
+Do not use if bottle, adaptor, or oral dosing syringe is damaged.
+
+Do not use the medicine if the bottle has been open for more than 90 days . See the Disposal section to find out what to do with the medicine you don't use.
+
+Record date of first opening of bottle here:
+
+\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_
+
+Do not wash the oral dosing syringe with soap or detergent. Please see steps 4b - 4c for cleaning instructions.
+
+Do not put the oral dosing syringe in the dishwasher. The syringe may not work as well as it should.
+
+Use a new oral dosing syringe after 30 days . If you need an additional oral dosing syringe call Lilly Your doctor or pharmacist will advise you how the medicine can be mixed with milk, orange juice or water.
+
+<div style=\"page-break-after: always\"></div>
+
+Give OLUMIANT oral suspension using only the oral dosing syringe supplied with the medicine.
+
+The medicine is white. Air gaps may be difficult to see in the oral dosing syringe when preparing the dose and may result in an incorrect dose. Instructions are provided below if air gaps are observed.
+
+<!-- image -->
+
+In case of overdose, contact your doctor, pharmacist or nurse immediately. Quick medical attention is important even if you do not notice any signs or symptoms.
+
+## STEP 1: PREPARE THE BOTTLE
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+Gather the medicine bottle and adaptor.
+
+Wash your hands with soap and water.
+
+## Remove the cap from the bottle.
+
+Firmly push the cap down while twisting it counterclockwise.
+
+Remove the cap from the bottle.
+
+Prior to the first use only, push the adaptor all the way down into the opening of the bottle.
+
+<!-- image -->
+
+The adaptor represents a CHOKING HAZARD small parts. It must be inserted completely into the bottle for safe use.
+
+Do not attach the oral dosing syringe to the adaptor until the adaptor is fully inserted into the bottle.
+
+Do not twist the adaptor.
+
+<div style=\"page-break-after: always\"></div>
+
+1d
+
+<!-- image -->
+
+## STEP 2: PREPARE THE DOSE
+
+<!-- image -->
+
+2b
+
+<!-- image -->
+
+2c
+
+2d
+
+<!-- image -->
+
+## Screw the cap back on the bottle tightly.
+
+The cap will fit over the adaptor .
+
+## Gather the medicine bottle with adaptor inserted and oral dosing syringe.
+
+Make sure the cap is on tightly.
+
+Wash your hands with soap and water.
+
+## Shake the bottle.
+
+Shake the medicine bottle well for at least 10 seconds before each use to fully mix the suspension.
+
+Shake again if the bottle sits longer than 15 minutes.
+
+## Remove the cap from the bottle.
+
+## Firmly insert the oral dosing syringe into the opening of the adaptor.
+
+Make sure the syringe tip is fully inside the adaptor and the plunger is pushed all the way to the syringe tip.
+
+<div style=\"page-break-after: always\"></div>
+
+2e
+
+2f
+
+2g
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+## Turn the bottle and oral dosing syringe upside down while holding the syringe in place.
+
+Make sure that the bottle is upside down.
+
+Make sure the oral dosing syringe stays completely inserted in the adaptor.
+
+## Draw the dose.
+
+Slowly pull the plunger down until the mL graduation mark is visible below the bottom of the flange for the dose prescribed for your child.
+
+The graduation mark is located on the plunger of the oral dosing syringe.
+
+Make sure the top edge of the graduation mark is aligned to the bottom of the flange.
+
+Turn the bottle upright and check closely for air gaps in the oral dosing syringe.
+
+<!-- image -->
+
+An air gap may result in an incorrect dose.
+
+The medicine is white, the same colour as the syringe. Air gaps may be difficult to see.
+
+If there is an air gap, empty the medicine back into the bottle and repeat steps 2d through 2g.
+
+<div style=\"page-break-after: always\"></div>
+
+2h
+
+<!-- image -->
+
+## STEP 3: GIVE THE DOSE
+
+<!-- image -->
+
+## STEP 4: CLEAN UP
+
+4a
+
+<!-- image -->
+
+<!-- image -->
+
+## Remove the oral dosing syringe from the bottle.
+
+Do not touch the plunger.
+
+Put the oral dosing syringe into a corner of your child's mouth. Tell your child not to bite the syringe.
+
+Do not squirt the medicine into the back of the throat.
+
+Slowly and gently push down the plunger to the end of the syringe so that all of the medicine is in your child's mouth.
+
+Make sure your child swallows all of the medicine.
+
+Screw the cap back on the bottle tightly.
+
+Do not remove the adaptor. The cap will fit over it.
+
+## Fill the oral dosing syringe with clean water.
+
+<!-- image -->
+
+Do not wash the oral dosing syringe with soap or detergent.
+
+<!-- image -->
+
+- Do not remove the plunger from the oral dosing syringe.
+
+Fill a cup with clean water, insert the oral dosing syringe, and pull the plunger up to fill the syringe with water .
+
+<div style=\"page-break-after: always\"></div>
+
+4c
+
+<!-- image -->
+
+## DISPOSAL OF MEDICINE
+
+Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
+
+## DISPOSAL OF ORAL DOSING SYRINGE
+
+Ask your doctor, pharmacist or nurse how to dispose of your oral dosing syringe.
+
+## HOW TO STORE YOUR MEDICINE
+
+After first opening, store the bottle standing upright and store between 10°C and 30°C.
+
+Keep the bottle and oral dosing syringe out of sight and reach of children.
+
+## COMMONLY ASKED QUESTIONS
+
+- Q. What if I see air gaps in my oral dosing syringe?
+- A. Do not give the medicine. Air gaps may result in an incorrect dose. Empty the medicine back into the bottle and repeat steps 2d through 2g.
+- Q. What if there is too much medicine in the oral dosing syringe?
+- A. Keep the syringe tip in the bottle. Hold the bottle upright. Push the plunger down until the correct dose is in the syringe.
+- Q. What if there is not enough medicine in the oral dosing syringe?
+- A. Keep the syringe in the bottle. Hold the bottle upside down. Pull the plunger down until the correct dose is in the syringe.
+- Q. What if I get the medicine in my eye or in my child's eye?
+- A. Flush the eye immediately with water and call your doctor, pharmacist or nurse. As soon as possible, wash hands and surfaces that may have come in contact with the medicine.
+- Q. How do I travel with this medicine?
+- A. Make sure you have enough medicine for the entire trip. Take the oral dosing syringe and medicine in its original container. After first opening, store the medicine in a safe place upright and store between 10°C and 30°C.
+- Q. Can I mix this medicine with food or water before I give it to my child?
+
+## Push the plunger down and squirt the water into the cup or into the sink.
+
+Make sure to remove the water from the syringe.
+
+Shake excess water from the syringe and dry it with a paper towel.
+
+Store the oral dosing syringe and bottle in the original carton.
+
+Wash your hands with soap and water.
+
+<div style=\"page-break-after: always\"></div>
+
+- A. Your doctor or pharmacist will advise you how the medicine can be mixed with milk, orange juice or water. You can give your child a glass of water to drink after he or she takes the entire dose of medicine.
+- Q. What if my child spits up the medicine?
+- A. Do not give additional medicine to your child. Contact your doctor, pharmacist or nurse.
+- Q. What if my child does not swallow all of the medicine?
+- A. Contact your doctor, pharmacist or nurse.
+- Q. What if my child swallows too much medicine?
+- A. Immediately contact your doctor, pharmacist or nurse.
+
+## FOR QUESTIONS OR MORE INFORMATION ABOUT OLUMIANT ORAL SUSPENSION
+
+## For questions or more information about OLUMIANT
+
+- Call your doctor, pharmacist or nurse
+- Call Lilly
+
+Read the full package leaflet for OLUMIANT inside the carton to learn more about your medicine.

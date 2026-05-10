@@ -1,18 +1,18 @@
 ---
-document_datetime: 2026-04-15 15:43:19
+document_datetime: 2026-05-08 11:58:04
 document_pages: 42
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/teduglutide-viatris-epar-product-information_en.pdf
 document_name: teduglutide-viatris-epar-product-information_en.pdf
 version: success
-processing_time: 9.2807059
-conversion_datetime: 2026-04-17 15:36:04.998899
+processing_time: 10.2845172
+conversion_datetime: 2026-05-10 13:12:30.371691
 docling_version:
-  docling-serve: 1.16.1
-  docling-jobkit: 1.17.0
-  docling: 2.89.0
-  docling-core: 2.73.0
-  docling-ibm-models: 3.13.0
-  docling-parse: 5.9.0
+  docling-serve: 1.17.0
+  docling-jobkit: 1.18.0
+  docling: 2.92.0
+  docling-core: 2.74.1
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.10.1
   python: cpython-313 (3.13.11)
   plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
@@ -85,7 +85,7 @@ Table 1 Injection volume per body weight for adults
 | 86-89 kg      | 0.44 ml                               |
 | 90-93 kg      | 0.46 ml                               |
 
-## Paediatric population (≥ 1 year)
+## Paediatric population ( ≥ 1 year)
 
 Treatment should be initiated under the supervision of a medical professional with experience in the treatment of paediatric SBS.
 
@@ -93,7 +93,7 @@ The recommended dose of Teduglutide Viatris in children and adolescents (aged 1 
 
 If a dose is missed, that dose should be injected as soon as possible on that day. A treatment period of 6 months is recommended after which treatment effect should be evaluated. In children below the age of two years, treatment should be evaluated after 12 weeks. There are no data available in paediatric patients after 6 months (see section 5.1).
 
-Table 2 Injection volume per body weight for paediatric population (≥ 1 year)
+Table 2 Injection volume per body weight for paediatric population ( ≥ 1 year)
 
 | Body weight   | 5 mg strength Volume to be injected   |
 |---------------|---------------------------------------|
@@ -113,7 +113,7 @@ Table 2 Injection volume per body weight for paediatric population (≥ 1 year)
 | Body weight   | 5 mg strength Volume to be injected   |
 |---------------|---------------------------------------|
 | 46-49 kg      | 0.24 ml                               |
-| ≥50 kg        | See Table 1 under 'Adults' section.   |
+| ≥ 50 kg       | See Table 1 under 'Adults' section.   |
 
 ## Paediatric population (aged 4 months to less than 12 months)
 
@@ -191,11 +191,9 @@ To avoid fluid overload or dehydration, careful adjustment of parenteral support
 
 Fluid overload has been observed in clinical trials. Fluid overload adverse events occurred most frequently during the first 4 weeks of therapy and decreased over time.
 
-Due to increased fluid absorption, patients with cardiovascular disease, such as cardiac insufficiency and hypertension, should be monitored with regard to fluid overload, especially during initiation of
+Due to increased fluid absorption, patients with cardiovascular disease, such as cardiac insufficiency and hypertension, should be monitored with regard to fluid overload, especially during initiation of therapy. Patients should be advised to contact their physician in case of sudden weight gain, face swelling, swollen ankles and/or dyspnoea. In general, fluid overload can be prevented by appropriate and timely assessment of parenteral nutrition needs. This assessment should be conducted more frequently within the first months of treatment.
 
 <div style=\"page-break-after: always\"></div>
-
-therapy. Patients should be advised to contact their physician in case of sudden weight gain, face swelling, swollen ankles and/or dyspnoea. In general, fluid overload can be prevented by appropriate and timely assessment of parenteral nutrition needs. This assessment should be conducted more frequently within the first months of treatment.
 
 Congestive heart failure has been observed in clinical trials. In case of a significant deterioration of the cardiovascular disease, the need for continued treatment with teduglutide should be reassessed.
 
@@ -239,7 +237,7 @@ Caution is needed when administering teduglutide to persons with a known hyperse
 
 ## Excipients
 
-This medicinal product contains less than 1 mmol sodium (23 mg) per vial, that is to say essentially 'sodium -free'.
+This medicinal product contains less than 1 mmol sodium (23 mg) per vial, that is to say essentially 'sodium-free'.
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
@@ -275,7 +273,7 @@ No new safety signals have been identified in patients exposed to 0.05 mg/kg/day
 
 ## Tabulated list of adverse reactions
 
-Adverse reactions are listed below by MedDRA system organ class and by frequency. Frequencies are defined as very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1 000 to &lt; 1/100); rare (≥ 1/10 000 to &lt; 1/1 000); very rare (&lt; 1/10 000); not known (cannot be estimated from available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
+Adverse reactions are listed below by MedDRA system organ class and by frequency. Frequencies are defined as very common ( ≥ 1/10); common ( ≥ 1/100 to &lt; 1/10); uncommon ( ≥ 1/1 000 to &lt; 1/100); rare ( ≥ 1/10 000 to &lt; 1/1 000); very rare (&lt; 1/10 000); not known (cannot be estimated from available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
 All adverse reactions identified in post-marketing experience are italicised.
 
@@ -296,14 +294,16 @@ All adverse reactions identified in post-marketing experience are italicised.
 
 <div style=\"page-break-after: always\"></div>
 
-| Frequency                                      | Very common                         | Common   | Uncommon   | Not known   |
-|------------------------------------------------|-------------------------------------|----------|------------|-------------|
-| Injury, poisoning and procedural complications | Gastrointestinal stoma complication |          |            |             |
+| Frequency                                            | Very common                         | Common   | Uncommon   | Not known   |
+|------------------------------------------------------|-------------------------------------|----------|------------|-------------|
+| class Injury, poisoning and procedural complications | Gastrointestinal stoma complication |          |            |             |
+
+† Includes the following preferred terms: Pancreatitis, Pancreatitis acute , and Pancreatitis chronic.
 
 * Includes the following preferred terms: Nasopharyngitis, Influenza, Upper respiratory tract infection, and Lower respiratory tract infection.
-- † Includes the following preferred terms: Pancreatitis, Pancreatitis acute , and Pancreatitis chronic.
 - ‡ Locations include duodenum, jejunum, and ileum.
-- § Includes the following preferred terms: Injection site haematoma, Injection site erythema, Injection site pain, Injection site swelling and Injection site haemorrhage.
+
+§ Includes the following preferred terms: Injection site haematoma, Injection site erythema, Injection site pain, Injection site swelling and Injection site haemorrhage.
 
 ## Description of selected adverse reactions
 
@@ -397,7 +397,7 @@ Reduction in parenteral nutrition volume:
 
 <div style=\"page-break-after: always\"></div>
 
-Among the 2 infants included in and completed the study, a ≥20% reduction in PS volume was recorded in 1 infant during the teduglutide treatment. The mean change in PS volume at EOT from baseline was -26.2±13.61 ml/kg/day (-26.7%).
+Among the 2 infants included in and completed the study, a ≥ 20% reduction in PS volume was recorded in 1 infant during the teduglutide treatment. The mean change in PS volume at EOT from baseline was -26.2±13.61 ml/kg/day (-26.7%).
 
 Reduction in parenteral nutrition calories:
 
@@ -473,7 +473,7 @@ The mean reduction in parenteral nutrition (n=30) was 7.55 l/week (a 65.6% reduc
 
 Of the 39 placebo subjects, 29 completed 24 months of treatment with teduglutide. The mean reduction in parenteral nutrition was 3.11 l/week (an additional 28.3% reduction). Sixteen (16, 55.2%) of the 29 completers achieved a 20% or greater reduction of parenteral nutrition. At the end of study, 14 (48.3%), 7 (24.1%) and 5 (17.2%) patients achieved a reduction of 1, 2, or 3 days per week in parenteral nutrition, respectively. Two (2) subjects were weaned off their parenteral support while on teduglutide.
 
-Of the 12 subjects not randomised in the pivotal study, 6 completed 24 months of treatment with teduglutide. The mean reduction in parenteral nutrition was 4.0 l/week (39.4% reduction from baseline -the start of the extension study) and 4 of the 6 completers (66.7%) achieved a 20% or greater reduction in parenteral support. At the end of study, 3 (50%), 2 (33%) and 2 (33%) achieved a reduction of 1, 2, or 3 days per week in parenteral nutrition, respectively. One subject was weaned off their parenteral support while on teduglutide.
+Of the 12 subjects not randomised in the pivotal study, 6 completed 24 months of treatment with teduglutide. The mean reduction in parenteral nutrition was 4.0 l/week (39.4% reduction from baseline - the start of the extension study) and 4 of the 6 completers (66.7%) achieved a 20% or greater reduction in parenteral support. At the end of study, 3 (50%), 2 (33%) and 2 (33%) achieved a reduction of 1, 2, or 3 days per week in parenteral nutrition, respectively. One subject was weaned off their parenteral support while on teduglutide.
 
 In another phase 3 double-blind, placebo-controlled study in patients with SBS, who required parenteral nutrition, patients received a 0.05 mg/kg/day dose (n=35), a 0.10 mg/kg/day dose (n=32) of teduglutide or placebo (n=16) for up to 24 weeks.
 
@@ -517,11 +517,9 @@ The rate and extent of absorption of teduglutide is dose-proportional at single 
 
 ## Paediatric population
 
-Following subcutaneous administration, similar Cmax of teduglutide driving the efficacy responses, across age groups (4 months corrected by gestational age to 17 years) was demonstrated by population pharmacokinetics modelling based on PK samples collected in the population following SC 0.05 mg/kg daily dose. However, lower exposure (AUC) and shorter half-life were seen in paediatric patients 4 months to 17 years of age, as compared with adults. The pharmacokinetic profile of teduglutide in this paediatric population, as evaluated by clearance and volume of distribution, was different from that observed in adults after correcting for body weights. Specifically, clearance
+Following subcutaneous administration, similar Cmax of teduglutide driving the efficacy responses, across age groups (4 months corrected by gestational age to 17 years) was demonstrated by population pharmacokinetics modelling based on PK samples collected in the population following SC 0.05 mg/kg daily dose. However, lower exposure (AUC) and shorter half-life were seen in paediatric patients 4 months to 17 years of age, as compared with adults. The pharmacokinetic profile of teduglutide in this paediatric population, as evaluated by clearance and volume of distribution, was different from that observed in adults after correcting for body weights. Specifically, clearance decreases with increasing age from 4 months to adults. No data are available for paediatric patients with moderate to severe renal impairment and end-stage renal disease (ESRD).
 
 <div style=\"page-break-after: always\"></div>
-
-decreases with increasing age from 4 months to adults. No data are available for paediatric patients with moderate to severe renal impairment and end-stage renal disease (ESRD).
 
 ## Gender
 
@@ -537,7 +535,7 @@ In a phase 1 study the effect of hepatic impairment on the pharmacokinetics of t
 
 ## Renal impairment
 
-In a phase 1 study, the effect of renal impairment on the pharmacokinetics of teduglutide following subcutaneous administration of 10 mg teduglutide was investigated. With progressive renal impairment up to and including end-stage renal disease the primary pharmacokinetic parameters of teduglutide increased up to a factor of 2.6 (AUCinf) and 2.1 (Cmax) compared to healthy subjects.
+In a phase 1 study, the effect of renal impairment on the pharmacokinetics of teduglutide following subcutaneous administration of 10 mg teduglutide was investigated. With progressive renal impairment up to and including end-stage renal disease the primary pharmacokinetic parameters of teduglutide increased up to a factor of 2.6 (AUC inf ) and 2.1 (C max ) compared to healthy subjects.
 
 ## 5.3 Preclinical safety data
 
@@ -555,11 +553,9 @@ In a rat carcinogenicity study, treatment related benign neoplasms included tumo
 
 ## Reproductive and developmental toxicity
 
-Reproductive and developmental toxicity studies evaluating teduglutide have been carried out in rats and rabbits at doses of 0, 2, 10 and 50 mg/kg/day subcutaneously. Teduglutide was not associated with
+Reproductive and developmental toxicity studies evaluating teduglutide have been carried out in rats and rabbits at doses of 0, 2, 10 and 50 mg/kg/day subcutaneously. Teduglutide was not associated with effects on reproductive performance, in utero or developmental parameters measured in studies to investigate fertility, embryo-foetal development and pre- and post-natal development. Pharmacokinetic data demonstrated that the teduglutide exposure of foetal rabbits and suckling rat pups was very low.
 
 <div style=\"page-break-after: always\"></div>
-
-effects on reproductive performance, in utero or developmental parameters measured in studies to investigate fertility, embryo-foetal development and pre- and post-natal development. Pharmacokinetic data demonstrated that the teduglutide exposure of foetal rabbits and suckling rat pups was very low.
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
@@ -599,7 +595,7 @@ If not used immediately, in-use storage times and conditions are the responsibil
 
 Powder
 
-Store in a refrigerator (2 °C -8 °C).
+Store in a refrigerator (2 °C - 8 °C).
 
 Do not freeze.
 
@@ -651,7 +647,9 @@ For single use only.
 
 <div style=\"page-break-after: always\"></div>
 
-Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
+Any unused medicinal product or waste material should be disposed of in accordance with local
+
+requirements.
 
 All needles and syringes should be disposed of in a sharps disposal container.
 
@@ -706,7 +704,7 @@ Name and address of the manufacturers responsible for batch release
 
 Pharmadox Healthcare Ltd, KW20A Kordin Industrial Park, Paola, PLA3000 Malta
 
-Mylan Germany GmbH, Benzstrasse 1 61352 Bad Homburg v. d. Hohe Germany
+Viatris Germany GmbH, Benzstrasse 1 61352 Bad Homburg v. d. Hohe Germany
 
 The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.
 
@@ -728,8 +726,8 @@ The marketing authorisation holder (MAH) shall perform the required pharmacovigi
 
 An updated RMP should be submitted:
 
-- At the request of the European Medicines Agency;
 - Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
+- At the request of the European Medicines Agency;
 
 <div style=\"page-break-after: always\"></div>
 
@@ -789,17 +787,25 @@ EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-Store in a refrigerator (2 °C -8 °C).
+Store in a refrigerator (2 °C - 8 °C).
 
 Do not freeze.
 
 After reconstitution, the solution should be used immediately.
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Viatris Limited Damastown Industrial Park Mulhuddart, Dublin 15 DUBLIN Ireland
+Viatris Limited
+
+Damastown Industrial Park
+
+Mulhuddart, Dublin 15
+
+DUBLIN
+
+Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -811,13 +817,13 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
 Teduglutide Viatris
 
-## 17. UNIQUE IDENTIFIER -2D BARCODE
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -831,15 +837,20 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS Vial label
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| Vial label                                                         |
 
-## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
 Teduglutide Viatris 5 mg powder for solution for injection teduglutide Subcutaneous use
 
-## 2. METHOD OF ADMINISTRATION
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
-3. EXPIRY DATE
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
@@ -848,8 +859,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 5 mg
 
@@ -858,19 +869,21 @@ Lot
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| Solvent - Pre-filled syringe label                               |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| Solvent - Pre-filled syringe label                                 |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|-------------------------------------------------------------|
+1.
+
+NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
 Solvent for Teduglutide Viatris Subcutaneous use
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
-3. EXPIRY DATE
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
@@ -879,8 +892,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 0.5 ml
 
@@ -893,9 +906,9 @@ For reconstitution.
 
 ## B. PACKAGE LEAFLET
 
-<div style=\"page-break-after: always\"></div>
-
 ## Package leaflet: Information for the patient
+
+<div style=\"page-break-after: always\"></div>
 
 ## Teduglutide Viatris 5 mg powder and solvent for solution for injection teduglutide
 
@@ -952,7 +965,7 @@ Your doctor will take special care and monitor your small bowel function and mon
 
 ## Medical check-ups before and during treatment with Teduglutide Viatris
 
-Before you start treatment with this medicine, you will need to have a test done to see if there is blood in the stool. You will also have a colonoscopy done (a procedure to see inside your colon and rectum to check for the presence of polyps (small abnormal growths) and have them removed) if you have unexplained blood in your bowel movements (stools). If polyps are found before your treatment with Teduglutide Viatris, your doctor will decide whether you should use this medicine. Teduglutide Viatris should not be used if a cancer is detected during your colonoscopy. Your doctor will perform further colonoscopies if you continue treatment with Teduglutide Viatris. The doctor will monitor your child's body fluids and electrolytes as an imbalance may cause fluid overload or dehydration .
+Before you start treatment with this medicine, you will need to have a test done to see if there is blood in the stool. You will also have a colonoscopy done (a procedure to see inside your colon and rectum to check for the presence of polyps (small abnormal growths) and have them removed) if you have unexplained blood in your bowel movements (stools). If polyps are found before your treatment with Teduglutide Viatris, your doctor will decide whether you should use this medicine. Teduglutide Viatris should not be used if a cancer is detected during your colonoscopy. Your doctor will perform further colonoscopies if you continue treatment with Teduglutide Viatris. The doctor will monitor your child's body fluids and electrolytes as an imbalance may cause fluid overload or dehydration.
 
 ## Children aged below 1 year and above 4 months
 
@@ -978,7 +991,7 @@ This medicine may cause you to feel dizzy. If this happens to you, do not drive 
 
 ## Teduglutide Viatris contains sodium
 
-This medicine contains less than 1 mmol sodium (23 mg) per vial, that is to say essentially 'sodium -free'.
+This medicine contains less than 1 mmol sodium (23 mg) per vial, that is to say essentially 'sodiumfree'.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1032,7 +1045,7 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 - -Reduced flow of bile from the gallbladder and/or inflammation of the gallbladder. Contact your doctor or the emergency unit if you experience yellowing of the skin and the whites in the eyes, itching, dark urine and light-coloured stools or pain in the upper right side or middle of the stomach area.
 
-Uncommon (may affect up to 1 in 100 people):
+## Uncommon (may affect up to 1 in 100 people):
 
 - -Fainting. If heart rate and breathing is normal and you awaken fast, speak to your doctor. In other cases, seek help as soon as possible.
 
@@ -1085,9 +1098,7 @@ Do not use this medicine after the expiry date which is stated on the carton, vi
 
 <div style=\"page-break-after: always\"></div>
 
-## Powder
-
-Store in a refrigerator (2 °C -8 °C).
+Powder Store in a refrigerator (2 °C - 8 °C).
 
 Do not freeze.
 
@@ -1127,11 +1138,9 @@ Viatris Limited Damastown Industrial Park, Mulhuddart, Dublin 15, DUBLIN Ireland
 
 Pharmadox Healthcare Ltd, KW20A Kordin Industrial Park, Paola, PLA3000 Malta
 
-Mylan Germany GmbH, Benzstrasse 1 61352 Bad Homburg v. d. Hohe Germany
+Viatris Germany GmbH, Benzstrasse 1 61352 Bad Homburg v. d. Hohe Germany For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 <div style=\"page-break-after: always\"></div>
-
-For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 ## België/Belgique/Belgien
 
@@ -1141,7 +1150,7 @@ Tél/Tel: + 32 (0)2 658 61 00
 
 ## България
 
-Майлан ЕООД
+Виатрис ЕООД
 
 Тел
 
@@ -1175,7 +1184,7 @@ Tel: + 372 6363 052
 
 Viatris Hellas Ltd
 
-Τηλ: +30 2100 100 002
+Τηλ : +30 2100 100 002
 
 ## España
 
@@ -1191,9 +1200,7 @@ Tél: +33 4 37 25 75 00
 
 ## Hrvatska
 
-Viatris Hrvatska d.o.o.
-
-Tel: +385 1 23 50 599
+Viatris Hrvatska d.o.o. Tel: +385 1 23 50 599
 
 ## Ireland
 
@@ -1293,6 +1300,8 @@ Viatris Oy
 
 Puh/Tel: +358 20 720 9555
 
+<div style=\"page-break-after: always\"></div>
+
 ## Κύπρος
 
 CPO Pharmaceuticals Limited
@@ -1300,8 +1309,6 @@ CPO Pharmaceuticals Limited
 Τηλ
 
 : +357 22863100
-
-<div style=\"page-break-after: always\"></div>
 
 ## Latvija
 
@@ -1332,7 +1339,7 @@ Tel: +46 (0)8 630 19 00
 - -Do not inject Teduglutide Viatris into a vein (intravenously) or muscle (intramuscularly).
 - -Keep Teduglutide Viatris out of the sight and reach of children.
 - -Do not use Teduglutide Viatris after the expiry date which is stated on the carton, the vial and the pre-filled syringe. The expiry date refers to the last day of that month.
-- -Store in a refrigerator (2 °C -8 °C).
+- -Store in a refrigerator (2 °C - 8 °C).
 - -Do not freeze.
 - -After reconstitution, from a microbiological point of view, the solution should be used immediately. However, chemical and physical stability has been demonstrated for 3 hours at 20-25 ºC.
 - -Do not use Teduglutide Viatris if you notice that the solution is cloudy or contains particulate matter.
@@ -1420,6 +1427,9 @@ NOTE: Once prepared, the solution should be used immediately. It should be kept 
 <!-- image -->
 
 - 3.3 Turn the vial upside down, slide the tip of the reconstitution needle close to the stopper and allow all the medicine to fill the syringe by pulling the plunger back gently.
+- 3.4 Remove the injection syringe from reconstitution needle leaving the needle in the vial. Discard the vial and reconstitution needle together into the sharps disposal container.
+- 3.5 Take the injection needle, but do not remove the plastic needle cap. Attach the needle to the injection syringe containing the medicine.
+- 3.6 Check for air bubbles. If air bubbles are present, gently tap the syringe until they rise to the top. Then gently push up the plunger to expel the air.
 
 NOTE: If your doctor has told you that you need two vials, prepare a second pre-filled syringe with solvent and a second powder vial as shown in the main steps 1 and 2. Withdraw the solution from the second vial into the same injection syringe by repeating step 3.
 
@@ -1429,13 +1439,7 @@ NOTE: If your doctor has told you that you need two vials, prepare a second pre-
 
 <!-- image -->
 
-- 3.4 Remove the injection syringe from reconstitution needle leaving the needle in the vial. Discard the vial and reconstitution needle together into the sharps disposal container.
-- 3.5 Take the injection needle, but do not remove the plastic needle cap. Attach the needle to the injection syringe containing the medicine.
-- 3.6 Check for air bubbles. If air bubbles are present, gently tap the syringe until they rise to the top. Then gently push up the plunger to expel the air.
-
 <div style=\"page-break-after: always\"></div>
-
-wist
 
 <!-- image -->
 
@@ -1445,12 +1449,11 @@ wist
 
 - 3.7 Your dose in ml has been calculated by the doctor. Expel any excessive volume from the syringe with the needle cap still on until your dose is reached.
 - 4.1 Find an area on your belly, or if you have pain or hardening of the tissue on your belly, on your thigh where it is easy for you to give the injection (see the diagram).
+- 4.2 Clean the intended site of injection on your skin with an alcohol swab, using a circular motion, working outwards. Allow the area to air-dry.
 
 NOTE: Do not use the same area each day for each injection - rotate sites (use upper, lower, and left and right side of your belly) to avoid discomfort. Avoid areas that are inflamed, swollen, scarred or covered by a mole, birthmark or other lesion.
 
 <!-- image -->
-
-- 4.2 Clean the intended site of injection on your skin with an alcohol swab, using a circular motion, working outwards. Allow the area to air-dry.
 
 <div style=\"page-break-after: always\"></div>
 

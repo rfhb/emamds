@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-07-11 10:34:12
-document_pages: 3
+document_datetime: 2026-05-08 14:26:15
+document_pages: 5
 document_pathfilename: www.ema.europa.eu/en/documents/procedural-steps-after/bylvay-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
 document_name: bylvay-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
 version: success
-processing_time: 1.5752528
-conversion_datetime: 2025-12-30 08:47:20.834536
+processing_time: 3.0877304
+conversion_datetime: 2026-05-10 12:11:14.865807
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.17.0
+  docling-jobkit: 1.18.0
+  docling: 2.92.0
+  docling-core: 2.74.1
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.10.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 ## Bylvay
 
@@ -24,7 +24,7 @@ Procedural steps taken and scientific information after the authorisation*
 
 | Application number   | Scope                                   | Opinion/ Notification 1 issued on   | Commission Decision Issued 2 / amended on   | Product Information affected 3   | Summary   |
 |----------------------|-----------------------------------------|-------------------------------------|---------------------------------------------|----------------------------------|-----------|
-| Variation type IB /  | This was an application for a variation | 10/07/2025                          | N/A                                         |                                  |           |
+| Variation type IB /  | This was an application for a variation | 05/03/2026                          |                                             |                                  |           |
 
 <!-- image -->
 
@@ -32,12 +32,27 @@ Procedural steps taken and scientific information after the authorisation*
 
 <div style=\"page-break-after: always\"></div>
 
-| EMA/VR/0000268240                        | following a worksharing procedure according to Article 20 of Commission Regulation (EC) No 1234/2008. C.I.11 Introduction of, or change(s) to, the obligations and conditions of a marketing authorisation, including the risk management plan - C.I.11.z Other RMP changes (e.g. agreed wording + template change) - Accepted C.I.11.z - to submit, for both Kayfanda and Bylvay, the consolidated version (version 7.0) of odevixibat's EU RMP combining all the approved changes from EU RMP versions 6.2 and 6.3.   |            |                        |
-|------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|------------------------|
-| Variation type IA_IN / EMA/VR/0000274069 | A. ADMINISTRATIVE CHANGES - A.1 Change in the name and/or address of the marketing authorisation holder - Accepted                                                                                                                                                                                                                                                                                                                                                                                                      | 06/06/2025 | SmPC, Labelling and PL |
-| Variation type IB / EMA/VR/0000249036    | This was an application for a group of variations following a worksharing procedure according to Article 20 of Commission Regulation (EC) No 1234/2008. B.II.f.1 Change in the shelf-life or storage conditions of the finished product - B.II.f.1.e Change to an approved stability protocol - Accepted                                                                                                                                                                                                                | 03/04/2025 | SmPC                   |
+| EMA/VR/0000308170                          | following a worksharing procedure according to Article 20 of Commission Regulation (EC) No 1234/2008. B.II.d.1 Change in the specification parameters and/or limits of the finished product - B.II.d.1.g Addition or replacement (excluding biological or immunological product) of a specification parameter with its corresponding test method as a result of a safety or quality issue - Accepted   |            |            |                                  |                                                                                                                                                                                                                                                                      |
+|--------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|------------|----------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Renewal - 5 year / EMA/R/0000306638        | Renewal of marketing authorisation.                                                                                                                                                                                                                                                                                                                                                                    | 29/01/2026 | 26/03/2026 | SmPC, Annex II, Labelling and PL | Based on the review of data on quality, safety and efficacy, the CHMP considered that the benefit-risk balance of Bylvay in the approved indication remains favourable and therefore recommended the renewal of the marketing authorisation with unlimited validity. |
+| Annual reassessment - H / EMA/S/0000287370 | 4nth annual re-assessment                                                                                                                                                                                                                                                                                                                                                                              | 13/11/2025 |            |                                  |                                                                                                                                                                                                                                                                      |
+| Variation type IB / EMA/VR/0000285086      | This was an application for a variation following a worksharing procedure according to Article 20 of Commission Regulation (EC) No 1234/2008. B.I.a.1 Change in the manufacturer of a starting material/reagent/intermediate used in the manufacturing process of the active substance or change in the manufacturer                                                                                   | 06/11/2025 |            |                                  |                                                                                                                                                                                                                                                                      |
 
 <div style=\"page-break-after: always\"></div>
 
-| finished product - B.II.f.1.b.1 As packaged for sale (supported by real time data) - Accepted   |
-|-------------------------------------------------------------------------------------------------|
+| (including where relevant quality control testing sites) of the active substance, where no Ph. Eur. Certificate of Suitability is part of the approved dossier - B.I.a.1.z Other variation - Accepted B.I.b.1 Change in the specification parameters and/or limits of an active substance, starting material / intermediate / reagent used in the manufacturing process of the active substance - B.I.b.1.c Addition of a new specification parameter to the specification with its corresponding test method - Accepted B.I.a.1 Change in the manufacturer of a starting material/reagent/intermediate used in the manufacturing process of the active substance or change in the manufacturer (including where relevant quality control testing sites) of the active substance, where no Ph. Eur. Certificate of Suitability is part of the approved dossier - B.I.a.1.z - Change in the manufacturer of AS or of a starting material/reagent/intermediate for AS - Other variation - Accepted B.I.a.2 Changes in the manufacturing process of the active substance - B.I.a.2.a Minor change in the manufacturing process of the active substance - Accepted B.I.a.2 Changes in the manufacturing process of the active substance - B.I.a.2.a Minor change in the manufacturing process of the active substance - Accepted   |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+<div style=\"page-break-after: always\"></div>
+
+| Variation type IB /                      | This was an application for a variation following a worksharing procedure according to Article 20 of Commission Regulation (EC) No 1234/2008. C.I.11 Introduction of, or change(s) to, the obligations and conditions of a marketing authorisation, including the risk management plan - C.I.11.z Other RMP changes (e.g. agreed wording + template change) - Accepted C.I.11.z - to submit, for both Kayfanda and Bylvay, the consolidated version (version 7.0) of odevixibat's EU RMP combining all the approved changes from EU RMP versions 6.2 and 6.3.   | 10/07/2025   |            |                        | EMA/VR/0000268240   |
+|------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|------------|------------------------|---------------------|
+| Variation type IA_IN / EMA/VR/0000274069 | A. ADMINISTRATIVE CHANGES - A.1 Change in the name and/or address of the marketing authorisation holder - Accepted                                                                                                                                                                                                                                                                                                                                                                                                                                              | 06/06/2025   | 26/03/2026 | SmPC, Labelling and PL |                     |
+| Variation type IB / EMA/VR/0000249036    | This was an application for a group of variations following a worksharing procedure according to Article 20 of Commission Regulation (EC) No 1234/2008. B.II.f.1 Change in the shelf-life or storage conditions of the finished product - B.II.f.1.e Change to an approved stability protocol -                                                                                                                                                                                                                                                                 | 03/04/2025   | 26/03/2026 | SmPC                   |                     |
+
+<div style=\"page-break-after: always\"></div>
+
+|                            | Accepted B.II.f.1.b Extension of the shelf life of the finished product - B.II.f.1.b.1 As packaged for sale (supported by real time data) - Accepted   |             |
+|----------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
+| PSUR / EMA/PSUR/0000305038 |                                                                                                                                                        | Maintenance |
+| PSUR / EMA/PSUR/0000268956 |                                                                                                                                                        | Maintenance |

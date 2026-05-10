@@ -4,8 +4,8 @@ document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/rivaroxaban-viatris.html
 document_name: rivaroxaban-viatris.html
 version: success
-processing_time: 0.1278716
-conversion_datetime: 2026-05-10 13:11:28.386045
+processing_time: 0.1273378
+conversion_datetime: 2026-05-10 13:16:26.07995
 docling_version:
   docling-serve: 1.17.0
   docling-jobkit: 1.18.0

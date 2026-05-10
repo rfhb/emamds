@@ -4,8 +4,8 @@ document_pages: 40
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/dovprela-epar-product-information_en.pdf
 document_name: dovprela-epar-product-information_en.pdf
 version: success
-processing_time: 10.76558
-conversion_datetime: 2026-05-10 13:24:01.408086
+processing_time: 10.0528779
+conversion_datetime: 2026-05-10 13:24:54.146871
 docling_version:
   docling-serve: 1.17.0
   docling-jobkit: 1.18.0

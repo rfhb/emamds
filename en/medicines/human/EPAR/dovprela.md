@@ -1,30 +1,32 @@
 ---
-document_datetime: 2026-02-19 17:00:00
+document_datetime: 2026-05-07 11:10:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/dovprela.html
 document_name: dovprela.html
 version: success
-processing_time: 0.1040048
-conversion_datetime: 2026-02-21 12:45:33.454489
+processing_time: 0.118487
+conversion_datetime: 2026-05-10 12:34:59.894739
 docling_version:
-  docling-serve: 1.13.0
-  docling-jobkit: 1.11.0
-  docling: 2.74.0
-  docling-core: 2.65.1
-  docling-ibm-models: 3.11.0
-  docling-parse: 5.3.2
+  docling-serve: 1.17.0
+  docling-jobkit: 1.18.0
+  docling: 2.92.0
+  docling-core: 2.74.1
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.10.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 # Dovprela (previously Pretomanid FGK)
 
 [RSS](/en/individual-human-medicine.xml/67308)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-pretomanid Medicine Human Authorised
+pretomanid
+
+Medicine Human Authorised
 
 Page contents
 
@@ -112,291 +114,155 @@ Pretomanid FGK received a conditional marketing authorisation valid throughout t
 
 The conditional marketing authorisation was switched to a standard marketing authorisation on 15 November 2023.
 
-Dovprela (previously Pretomanid FGK) : EPAR - Medicine overview
+Dovprela : EPAR - Medicine overview
 
 Reference Number: EMADOC-1829012207-38633
 
-English (EN) (217.29 KB - PDF)
+English (EN) (244.8 KB - PDF)
 
-**First published:** 11/08/2020
+**First published:** 11/08/2020 **Last updated:** 19/02/2026
 
-**Last updated:** 19/02/2026
+[View](/en/documents/overview/dovprela-epar-medicine-overview_en.pdf)
 
-[View](/en/documents/overview/dovprela-previously-pretomanid-fgk-epar-medicine-overview_en.pdf)
+[Other languages (22)](#file-language-dropdown-119)
 
-[Other languages (22)](#file-language-dropdown-640)
+български (BG) (259.52 KB - PDF)
 
-български (BG) (242.34 KB - PDF)
+**First published:** 11/08/2020 **Last updated:** 19/02/2026
 
-**First published:**
+[View](/bg/documents/overview/dovprela-epar-medicine-overview_bg.pdf)
 
-11/08/2020
+español (ES) (232.15 KB - PDF)
 
-**Last updated:**
+**First published:** 11/08/2020 **Last updated:** 19/02/2026
 
-19/02/2026
+[View](/es/documents/overview/dovprela-epar-medicine-overview_es.pdf)
 
-[View](/bg/documents/overview/dovprela-previously-pretomanid-fgk-epar-medicine-overview_bg.pdf)
+čeština (CS) (258.79 KB - PDF)
 
-español (ES) (215.67 KB - PDF)
+**First published:** 11/08/2020 **Last updated:** 19/02/2026
 
-**First published:**
+[View](/cs/documents/overview/dovprela-epar-medicine-overview_cs.pdf)
 
-11/08/2020
+dansk (DA) (232.74 KB - PDF)
 
-**Last updated:**
+**First published:** 11/08/2020 **Last updated:** 19/02/2026
 
-19/02/2026
+[View](/da/documents/overview/dovprela-epar-medicine-overview_da.pdf)
 
-[View](/es/documents/overview/dovprela-previously-pretomanid-fgk-epar-medicine-overview_es.pdf)
+Deutsch (DE) (236.86 KB - PDF)
 
-čeština (CS) (241.37 KB - PDF)
+**First published:** 11/08/2020 **Last updated:** 19/02/2026
 
-**First published:**
+[View](/de/documents/overview/dovprela-epar-medicine-overview_de.pdf)
 
-11/08/2020
+eesti keel (ET) (228.97 KB - PDF)
 
-**Last updated:**
+**First published:** 11/08/2020 **Last updated:** 19/02/2026
 
-19/02/2026
+[View](/et/documents/overview/dovprela-epar-medicine-overview_et.pdf)
 
-[View](/cs/documents/overview/dovprela-previously-pretomanid-fgk-epar-medicine-overview_cs.pdf)
+ελληνικά (EL) (270.26 KB - PDF)
 
-dansk (DA) (216.51 KB - PDF)
+**First published:** 11/08/2020 **Last updated:** 19/02/2026
 
-**First published:**
+[View](/el/documents/overview/dovprela-epar-medicine-overview_el.pdf)
 
-11/08/2020
+français (FR) (234.37 KB - PDF)
 
-**Last updated:**
+**First published:** 11/08/2020 **Last updated:** 19/02/2026
 
-19/02/2026
+[View](/fr/documents/overview/dovprela-epar-medicine-overview_fr.pdf)
 
-[View](/da/documents/overview/dovprela-previously-pretomanid-fgk-epar-medicine-overview_da.pdf)
+hrvatski (HR) (252.75 KB - PDF)
 
-Deutsch (DE) (220.03 KB - PDF)
+**First published:** 11/08/2020 **Last updated:** 19/02/2026
 
-**First published:**
+[View](/hr/documents/overview/dovprela-epar-medicine-overview_hr.pdf)
 
-11/08/2020
+italiano (IT) (231.14 KB - PDF)
 
-**Last updated:**
+**First published:** 11/08/2020 **Last updated:** 19/02/2026
 
-19/02/2026
+[View](/it/documents/overview/dovprela-epar-medicine-overview_it.pdf)
 
-[View](/de/documents/overview/dovprela-previously-pretomanid-fgk-epar-medicine-overview_de.pdf)
+latviešu valoda (LV) (271.65 KB - PDF)
 
-eesti keel (ET) (212.62 KB - PDF)
+**First published:** 11/08/2020 **Last updated:** 19/02/2026
 
-**First published:**
+[View](/lv/documents/overview/dovprela-epar-medicine-overview_lv.pdf)
 
-11/08/2020
+lietuvių kalba (LT) (253.63 KB - PDF)
 
-**Last updated:**
+**First published:** 11/08/2020 **Last updated:** 19/02/2026
 
-19/02/2026
+[View](/lt/documents/overview/dovprela-epar-medicine-overview_lt.pdf)
 
-[View](/et/documents/overview/dovprela-previously-pretomanid-fgk-epar-medicine-overview_et.pdf)
+magyar (HU) (257.79 KB - PDF)
 
-ελληνικά (EL) (252.73 KB - PDF)
+**First published:** 11/08/2020 **Last updated:** 19/02/2026
 
-**First published:**
+[View](/hu/documents/overview/dovprela-epar-medicine-overview_hu.pdf)
 
-11/08/2020
+Malti (MT) (258.15 KB - PDF)
 
-**Last updated:**
+**First published:** 11/08/2020 **Last updated:** 19/02/2026
 
-19/02/2026
+[View](/mt/documents/overview/dovprela-epar-medicine-overview_mt.pdf)
 
-[View](/el/documents/overview/dovprela-previously-pretomanid-fgk-epar-medicine-overview_el.pdf)
+Nederlands (NL) (234.17 KB - PDF)
 
-français (FR) (217.71 KB - PDF)
+**First published:** 11/08/2020 **Last updated:** 19/02/2026
 
-**First published:**
+[View](/nl/documents/overview/dovprela-epar-medicine-overview_nl.pdf)
 
-11/08/2020
+polski (PL) (259.14 KB - PDF)
 
-**Last updated:**
+**First published:** 11/08/2020 **Last updated:** 19/02/2026
 
-19/02/2026
+[View](/pl/documents/overview/dovprela-epar-medicine-overview_pl.pdf)
 
-[View](/fr/documents/overview/dovprela-previously-pretomanid-fgk-epar-medicine-overview_fr.pdf)
+português (PT) (232.32 KB - PDF)
 
-hrvatski (HR) (236.05 KB - PDF)
+**First published:** 11/08/2020 **Last updated:** 19/02/2026
 
-**First published:**
+[View](/pt/documents/overview/dovprela-epar-medicine-overview_pt.pdf)
 
-11/08/2020
+română (RO) (253.46 KB - PDF)
 
-**Last updated:**
+**First published:** 11/08/2020 **Last updated:** 19/02/2026
 
-19/02/2026
+[View](/ro/documents/overview/dovprela-epar-medicine-overview_ro.pdf)
 
-[View](/hr/documents/overview/dovprela-previously-pretomanid-fgk-epar-medicine-overview_hr.pdf)
+slovenčina (SK) (257.43 KB - PDF)
 
-italiano (IT) (214.86 KB - PDF)
+**First published:** 11/08/2020 **Last updated:** 19/02/2026
 
-**First published:**
+[View](/sk/documents/overview/dovprela-epar-medicine-overview_sk.pdf)
 
-11/08/2020
+slovenščina (SL) (252.56 KB - PDF)
 
-**Last updated:**
+**First published:** 11/08/2020 **Last updated:** 19/02/2026
 
-19/02/2026
+[View](/sl/documents/overview/dovprela-epar-medicine-overview_sl.pdf)
 
-[View](/it/documents/overview/dovprela-previously-pretomanid-fgk-epar-medicine-overview_it.pdf)
+Suomi (FI) (229.02 KB - PDF)
 
-latviešu valoda (LV) (254.83 KB - PDF)
+**First published:** 11/08/2020 **Last updated:** 19/02/2026
 
-**First published:**
+[View](/fi/documents/overview/dovprela-epar-medicine-overview_fi.pdf)
 
-11/08/2020
+svenska (SV) (230.32 KB - PDF)
 
-**Last updated:**
+**First published:** 11/08/2020 **Last updated:** 19/02/2026
 
-19/02/2026
-
-[View](/lv/documents/overview/dovprela-previously-pretomanid-fgk-epar-medicine-overview_lv.pdf)
-
-lietuvių kalba (LT) (236.92 KB - PDF)
-
-**First published:**
-
-11/08/2020
-
-**Last updated:**
-
-19/02/2026
-
-[View](/lt/documents/overview/dovprela-previously-pretomanid-fgk-epar-medicine-overview_lt.pdf)
-
-magyar (HU) (240.33 KB - PDF)
-
-**First published:**
-
-11/08/2020
-
-**Last updated:**
-
-19/02/2026
-
-[View](/hu/documents/overview/dovprela-previously-pretomanid-fgk-epar-medicine-overview_hu.pdf)
-
-Malti (MT) (241.09 KB - PDF)
-
-**First published:**
-
-11/08/2020
-
-**Last updated:**
-
-19/02/2026
-
-[View](/mt/documents/overview/dovprela-previously-pretomanid-fgk-epar-medicine-overview_mt.pdf)
-
-Nederlands (NL) (217.37 KB - PDF)
-
-**First published:**
-
-11/08/2020
-
-**Last updated:**
-
-19/02/2026
-
-[View](/nl/documents/overview/dovprela-previously-pretomanid-fgk-epar-medicine-overview_nl.pdf)
-
-polski (PL) (241.66 KB - PDF)
-
-**First published:**
-
-11/08/2020
-
-**Last updated:**
-
-19/02/2026
-
-[View](/pl/documents/overview/dovprela-previously-pretomanid-fgk-epar-medicine-overview_pl.pdf)
-
-português (PT) (216.11 KB - PDF)
-
-**First published:**
-
-11/08/2020
-
-**Last updated:**
-
-19/02/2026
-
-[View](/pt/documents/overview/dovprela-previously-pretomanid-fgk-epar-medicine-overview_pt.pdf)
-
-română (RO) (236.49 KB - PDF)
-
-**First published:**
-
-11/08/2020
-
-**Last updated:**
-
-19/02/2026
-
-[View](/ro/documents/overview/dovprela-previously-pretomanid-fgk-epar-medicine-overview_ro.pdf)
-
-slovenčina (SK) (239.8 KB - PDF)
-
-**First published:**
-
-11/08/2020
-
-**Last updated:**
-
-19/02/2026
-
-[View](/sk/documents/overview/dovprela-previously-pretomanid-fgk-epar-medicine-overview_sk.pdf)
-
-slovenščina (SL) (236.01 KB - PDF)
-
-**First published:**
-
-11/08/2020
-
-**Last updated:**
-
-19/02/2026
-
-[View](/sl/documents/overview/dovprela-previously-pretomanid-fgk-epar-medicine-overview_sl.pdf)
-
-Suomi (FI) (212.86 KB - PDF)
-
-**First published:**
-
-11/08/2020
-
-**Last updated:**
-
-19/02/2026
-
-[View](/fi/documents/overview/dovprela-previously-pretomanid-fgk-epar-medicine-overview_fi.pdf)
-
-svenska (SV) (214.19 KB - PDF)
-
-**First published:**
-
-11/08/2020
-
-**Last updated:**
-
-19/02/2026
-
-[View](/sv/documents/overview/dovprela-previously-pretomanid-fgk-epar-medicine-overview_sv.pdf)
+[View](/sv/documents/overview/dovprela-epar-medicine-overview_sv.pdf)
 
 Pretomanid FGK : EPAR - Risk management plan
 
 English (EN) (539.16 KB - PDF)
 
-**First published:** 11/08/2020
-
-**Last updated:** 05/07/2024
+**First published:** 11/08/2020 **Last updated:** 05/07/2024
 
 [View](/en/documents/rmp-summary/pretomanid-fgk-epar-risk-management-plan_en.pdf)
 
@@ -404,305 +270,161 @@ English (EN) (539.16 KB - PDF)
 
 Dovprela : EPAR - Product information
 
-English (EN) (403.58 KB - PDF)
+English (EN) (213.57 KB - PDF)
 
-**First published:** 11/08/2020
-
-**Last updated:** 19/02/2026
+**First published:** 11/08/2020 **Last updated:** 07/05/2026
 
 [View](/en/documents/product-information/dovprela-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-289)
+[Other languages (24)](#file-language-dropdown-621)
 
-български (BG) (361.93 KB - PDF)
+български (BG) (320.35 KB - PDF)
 
-**First published:**
-
-11/08/2020
-
-**Last updated:**
-
-19/02/2026
+**First published:** 11/08/2020 **Last updated:** 07/05/2026
 
 [View](/bg/documents/product-information/dovprela-epar-product-information_bg.pdf)
 
-español (ES) (494.8 KB - PDF)
+español (ES) (222.41 KB - PDF)
 
-**First published:**
-
-11/08/2020
-
-**Last updated:**
-
-19/02/2026
+**First published:** 11/08/2020 **Last updated:** 07/05/2026
 
 [View](/es/documents/product-information/dovprela-epar-product-information_es.pdf)
 
-čeština (CS) (491.1 KB - PDF)
+čeština (CS) (237.8 KB - PDF)
 
-**First published:**
-
-11/08/2020
-
-**Last updated:**
-
-19/02/2026
+**First published:** 11/08/2020 **Last updated:** 07/05/2026
 
 [View](/cs/documents/product-information/dovprela-epar-product-information_cs.pdf)
 
-dansk (DA) (285.38 KB - PDF)
+dansk (DA) (211.89 KB - PDF)
 
-**First published:**
-
-11/08/2020
-
-**Last updated:**
-
-19/02/2026
+**First published:** 11/08/2020 **Last updated:** 07/05/2026
 
 [View](/da/documents/product-information/dovprela-epar-product-information_da.pdf)
 
-Deutsch (DE) (286.77 KB - PDF)
+Deutsch (DE) (233.93 KB - PDF)
 
-**First published:**
-
-11/08/2020
-
-**Last updated:**
-
-19/02/2026
+**First published:** 11/08/2020 **Last updated:** 07/05/2026
 
 [View](/de/documents/product-information/dovprela-epar-product-information_de.pdf)
 
-eesti keel (ET) (475.4 KB - PDF)
+eesti keel (ET) (208.54 KB - PDF)
 
-**First published:**
-
-11/08/2020
-
-**Last updated:**
-
-19/02/2026
+**First published:** 11/08/2020 **Last updated:** 07/05/2026
 
 [View](/et/documents/product-information/dovprela-epar-product-information_et.pdf)
 
-ελληνικά (EL) (574.28 KB - PDF)
+ελληνικά (EL) (326.02 KB - PDF)
 
-**First published:**
-
-11/08/2020
-
-**Last updated:**
-
-19/02/2026
+**First published:** 11/08/2020 **Last updated:** 07/05/2026
 
 [View](/el/documents/product-information/dovprela-epar-product-information_el.pdf)
 
-français (FR) (261.07 KB - PDF)
+français (FR) (231.29 KB - PDF)
 
-**First published:**
-
-11/08/2020
-
-**Last updated:**
-
-19/02/2026
+**First published:** 11/08/2020 **Last updated:** 07/05/2026
 
 [View](/fr/documents/product-information/dovprela-epar-product-information_fr.pdf)
 
-hrvatski (HR) (505.94 KB - PDF)
+hrvatski (HR) (222.63 KB - PDF)
 
-**First published:**
-
-11/08/2020
-
-**Last updated:**
-
-19/02/2026
+**First published:** 11/08/2020 **Last updated:** 07/05/2026
 
 [View](/hr/documents/product-information/dovprela-epar-product-information_hr.pdf)
 
-íslenska (IS) (488.69 KB - PDF)
+íslenska (IS) (211.57 KB - PDF)
 
-**First published:**
-
-11/08/2020
-
-**Last updated:**
-
-19/02/2026
+**First published:** 11/08/2020 **Last updated:** 07/05/2026
 
 [View](/is/documents/product-information/dovprela-epar-product-information_is.pdf)
 
-italiano (IT) (517.06 KB - PDF)
+italiano (IT) (221.68 KB - PDF)
 
-**First published:**
-
-11/08/2020
-
-**Last updated:**
-
-19/02/2026
+**First published:** 11/08/2020 **Last updated:** 07/05/2026
 
 [View](/it/documents/product-information/dovprela-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (498.35 KB - PDF)
+latviešu valoda (LV) (381.17 KB - PDF)
 
-**First published:**
-
-11/08/2020
-
-**Last updated:**
-
-19/02/2026
+**First published:** 11/08/2020 **Last updated:** 07/05/2026
 
 [View](/lv/documents/product-information/dovprela-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (520.67 KB - PDF)
+lietuvių kalba (LT) (237.16 KB - PDF)
 
-**First published:**
-
-11/08/2020
-
-**Last updated:**
-
-19/02/2026
+**First published:** 11/08/2020 **Last updated:** 07/05/2026
 
 [View](/lt/documents/product-information/dovprela-epar-product-information_lt.pdf)
 
-magyar (HU) (537.75 KB - PDF)
+magyar (HU) (235.52 KB - PDF)
 
-**First published:**
-
-11/08/2020
-
-**Last updated:**
-
-19/02/2026
+**First published:** 11/08/2020 **Last updated:** 07/05/2026
 
 [View](/hu/documents/product-information/dovprela-epar-product-information_hu.pdf)
 
-Malti (MT) (535.63 KB - PDF)
+Malti (MT) (248.42 KB - PDF)
 
-**First published:**
-
-11/08/2020
-
-**Last updated:**
-
-19/02/2026
+**First published:** 11/08/2020 **Last updated:** 07/05/2026
 
 [View](/mt/documents/product-information/dovprela-epar-product-information_mt.pdf)
 
-Nederlands (NL) (473.9 KB - PDF)
+Nederlands (NL) (215.62 KB - PDF)
 
-**First published:**
-
-11/08/2020
-
-**Last updated:**
-
-19/02/2026
+**First published:** 11/08/2020 **Last updated:** 07/05/2026
 
 [View](/nl/documents/product-information/dovprela-epar-product-information_nl.pdf)
 
-norsk (NO) (233.24 KB - PDF)
+norsk (NO) (204.36 KB - PDF)
 
-**First published:**
-
-11/08/2020
-
-**Last updated:**
-
-19/02/2026
+**First published:** 11/08/2020 **Last updated:** 07/05/2026
 
 [View](/no/documents/product-information/dovprela-epar-product-information_no.pdf)
 
-polski (PL) (448.84 KB - PDF)
+polski (PL) (255.56 KB - PDF)
 
-**First published:**
-
-11/08/2020
-
-**Last updated:**
-
-19/02/2026
+**First published:** 11/08/2020 **Last updated:** 07/05/2026
 
 [View](/pl/documents/product-information/dovprela-epar-product-information_pl.pdf)
 
-português (PT) (478.95 KB - PDF)
+português (PT) (218.1 KB - PDF)
 
-**First published:**
-
-11/08/2020
-
-**Last updated:**
-
-19/02/2026
+**First published:** 11/08/2020 **Last updated:** 07/05/2026
 
 [View](/pt/documents/product-information/dovprela-epar-product-information_pt.pdf)
 
-română (RO) (524.54 KB - PDF)
+română (RO) (250.62 KB - PDF)
 
-**First published:**
-
-11/08/2020
-
-**Last updated:**
-
-19/02/2026
+**First published:** 11/08/2020 **Last updated:** 07/05/2026
 
 [View](/ro/documents/product-information/dovprela-epar-product-information_ro.pdf)
 
-slovenčina (SK) (530.28 KB - PDF)
+slovenčina (SK) (235.5 KB - PDF)
 
-**First published:**
-
-11/08/2020
-
-**Last updated:**
-
-19/02/2026
+**First published:** 11/08/2020 **Last updated:** 07/05/2026
 
 [View](/sk/documents/product-information/dovprela-epar-product-information_sk.pdf)
 
-slovenščina (SL) (522.85 KB - PDF)
+slovenščina (SL) (221.05 KB - PDF)
 
-**First published:**
-
-11/08/2020
-
-**Last updated:**
-
-19/02/2026
+**First published:** 11/08/2020 **Last updated:** 07/05/2026
 
 [View](/sl/documents/product-information/dovprela-epar-product-information_sl.pdf)
 
-Suomi (FI) (496.66 KB - PDF)
+Suomi (FI) (218.69 KB - PDF)
 
-**First published:**
-
-11/08/2020
-
-**Last updated:**
-
-19/02/2026
+**First published:** 11/08/2020 **Last updated:** 07/05/2026
 
 [View](/fi/documents/product-information/dovprela-epar-product-information_fi.pdf)
 
-svenska (SV) (365.36 KB - PDF)
+svenska (SV) (210.43 KB - PDF)
 
-**First published:**
-
-11/08/2020
-
-**Last updated:**
-
-19/02/2026
+**First published:** 11/08/2020 **Last updated:** 07/05/2026
 
 [View](/sv/documents/product-information/dovprela-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000258124 19/01/2026
+**Latest procedure affecting product information:** VR/0000343394
+
+04/05/2026
 
 icon globe
 
@@ -718,309 +440,181 @@ Product information documents contain:
 - labelling (annex IIIA);
 - package leaflet (annex IIIB).
 
-Dovprela (previously Pretomanid FGK): EPAR - All authorised presentations
+Dovprela: EPAR - All authorised presentations
 
 English (EN) (10.17 KB - PDF)
 
-**First published:** 11/08/2020
+**First published:** 11/08/2020 **Last updated:** 07/02/2021
 
-**Last updated:** 07/02/2021
+[View](/en/documents/all-authorised-presentations/dovprela-epar-all-authorised-presentations_en.pdf)
 
-[View](/en/documents/all-authorised-presentations/dovprela-previously-pretomanid-fgk-epar-all-authorised-presentations_en.pdf)
-
-[Other languages (24)](#file-language-dropdown-55)
+[Other languages (24)](#file-language-dropdown-293)
 
 български (BG) (44.33 KB - PDF)
 
-**First published:**
-
-11/08/2020
-
-**Last updated:**
-
-07/02/2021
+**First published:** 11/08/2020 **Last updated:** 07/02/2021
 
 [View](/bg/documents/all-authorised-presentations/dovprela-previously-pretomanid-fgk-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (10.52 KB - PDF)
 
-**First published:**
-
-11/08/2020
-
-**Last updated:**
-
-07/02/2021
+**First published:** 11/08/2020 **Last updated:** 07/02/2021
 
 [View](/es/documents/all-authorised-presentations/dovprela-previously-pretomanid-fgk-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (45.51 KB - PDF)
 
-**First published:**
-
-11/08/2020
-
-**Last updated:**
-
-07/02/2021
+**First published:** 11/08/2020 **Last updated:** 07/02/2021
 
 [View](/cs/documents/all-authorised-presentations/dovprela-previously-pretomanid-fgk-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (14.24 KB - PDF)
 
-**First published:**
-
-11/08/2020
-
-**Last updated:**
-
-07/02/2021
+**First published:** 11/08/2020 **Last updated:** 07/02/2021
 
 [View](/da/documents/all-authorised-presentations/dovprela-previously-pretomanid-fgk-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (14.4 KB - PDF)
 
-**First published:**
-
-11/08/2020
-
-**Last updated:**
-
-07/02/2021
+**First published:** 11/08/2020 **Last updated:** 07/02/2021
 
 [View](/de/documents/all-authorised-presentations/dovprela-previously-pretomanid-fgk-epar-all-authorised-presentations_de.pdf)
 
 eesti keel (ET) (10.06 KB - PDF)
 
-**First published:**
-
-11/08/2020
-
-**Last updated:**
-
-07/02/2021
+**First published:** 11/08/2020 **Last updated:** 07/02/2021
 
 [View](/et/documents/all-authorised-presentations/dovprela-previously-pretomanid-fgk-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (47.97 KB - PDF)
 
-**First published:**
-
-11/08/2020
-
-**Last updated:**
-
-07/02/2021
+**First published:** 11/08/2020 **Last updated:** 07/02/2021
 
 [View](/el/documents/all-authorised-presentations/dovprela-previously-pretomanid-fgk-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (10.2 KB - PDF)
 
-**First published:**
-
-11/08/2020
-
-**Last updated:**
-
-07/02/2021
+**First published:** 11/08/2020 **Last updated:** 07/02/2021
 
 [View](/fr/documents/all-authorised-presentations/dovprela-previously-pretomanid-fgk-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (40.67 KB - PDF)
 
-**First published:**
-
-11/08/2020
-
-**Last updated:**
-
-07/02/2021
+**First published:** 11/08/2020 **Last updated:** 07/02/2021
 
 [View](/hr/documents/all-authorised-presentations/dovprela-previously-pretomanid-fgk-epar-all-authorised-presentations_hr.pdf)
 
 íslenska (IS) (7.74 KB - PDF)
 
-**First published:**
-
-11/08/2020
-
-**Last updated:**
-
-07/02/2021
+**First published:** 11/08/2020 **Last updated:** 07/02/2021
 
 [View](/is/documents/all-authorised-presentations/dovprela-previously-pretomanid-fgk-epar-all-authorised-presentations_is.pdf)
 
 italiano (IT) (10.11 KB - PDF)
 
-**First published:**
-
-11/08/2020
-
-**Last updated:**
-
-07/02/2021
+**First published:** 11/08/2020 **Last updated:** 07/02/2021
 
 [View](/it/documents/all-authorised-presentations/dovprela-previously-pretomanid-fgk-epar-all-authorised-presentations_it.pdf)
 
 latviešu valoda (LV) (42.25 KB - PDF)
 
-**First published:**
-
-11/08/2020
-
-**Last updated:**
-
-07/02/2021
+**First published:** 11/08/2020 **Last updated:** 07/02/2021
 
 [View](/lv/documents/all-authorised-presentations/dovprela-previously-pretomanid-fgk-epar-all-authorised-presentations_lv.pdf)
 
 lietuvių kalba (LT) (42.2 KB - PDF)
 
-**First published:**
-
-11/08/2020
-
-**Last updated:**
-
-07/02/2021
+**First published:** 11/08/2020 **Last updated:** 07/02/2021
 
 [View](/lt/documents/all-authorised-presentations/dovprela-previously-pretomanid-fgk-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (23.77 KB - PDF)
 
-**First published:**
-
-11/08/2020
-
-**Last updated:**
-
-07/02/2021
+**First published:** 11/08/2020 **Last updated:** 07/02/2021
 
 [View](/hu/documents/all-authorised-presentations/dovprela-previously-pretomanid-fgk-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (40.78 KB - PDF)
 
-**First published:**
-
-11/08/2020
-
-**Last updated:**
-
-07/02/2021
+**First published:** 11/08/2020 **Last updated:** 07/02/2021
 
 [View](/mt/documents/all-authorised-presentations/dovprela-previously-pretomanid-fgk-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (10.28 KB - PDF)
 
-**First published:**
-
-11/08/2020
-
-**Last updated:**
-
-07/02/2021
+**First published:** 11/08/2020 **Last updated:** 07/02/2021
 
 [View](/nl/documents/all-authorised-presentations/dovprela-previously-pretomanid-fgk-epar-all-authorised-presentations_nl.pdf)
 
 norsk (NO) (10.17 KB - PDF)
 
-**First published:**
-
-11/08/2020
-
-**Last updated:**
-
-07/02/2021
+**First published:** 11/08/2020 **Last updated:** 07/02/2021
 
 [View](/no/documents/all-authorised-presentations/dovprela-previously-pretomanid-fgk-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (21.74 KB - PDF)
 
-**First published:**
-
-11/08/2020
-
-**Last updated:**
-
-07/02/2021
+**First published:** 11/08/2020 **Last updated:** 07/02/2021
 
 [View](/pl/documents/all-authorised-presentations/dovprela-previously-pretomanid-fgk-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (10.36 KB - PDF)
 
-**First published:**
-
-11/08/2020
-
-**Last updated:**
-
-07/02/2021
+**First published:** 11/08/2020 **Last updated:** 07/02/2021
 
 [View](/pt/documents/all-authorised-presentations/dovprela-previously-pretomanid-fgk-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (41.11 KB - PDF)
 
-**First published:**
-
-11/08/2020
-
-**Last updated:**
-
-07/02/2021
+**First published:** 11/08/2020 **Last updated:** 07/02/2021
 
 [View](/ro/documents/all-authorised-presentations/dovprela-previously-pretomanid-fgk-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (41.43 KB - PDF)
 
-**First published:**
-
-11/08/2020
-
-**Last updated:**
-
-07/02/2021
+**First published:** 11/08/2020 **Last updated:** 07/02/2021
 
 [View](/sk/documents/all-authorised-presentations/dovprela-previously-pretomanid-fgk-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (23.59 KB - PDF)
 
-**First published:**
-
-11/08/2020
-
-**Last updated:**
-
-07/02/2021
+**First published:** 11/08/2020 **Last updated:** 07/02/2021
 
 [View](/sl/documents/all-authorised-presentations/dovprela-previously-pretomanid-fgk-epar-all-authorised-presentations_sl.pdf)
 
 Suomi (FI) (7.84 KB - PDF)
 
-**First published:**
-
-11/08/2020
-
-**Last updated:**
-
-07/02/2021
+**First published:** 11/08/2020 **Last updated:** 07/02/2021
 
 [View](/fi/documents/all-authorised-presentations/dovprela-previously-pretomanid-fgk-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (10.29 KB - PDF)
 
-**First published:**
-
-11/08/2020
-
-**Last updated:**
-
-07/02/2021
+**First published:** 11/08/2020 **Last updated:** 07/02/2021
 
 [View](/sv/documents/all-authorised-presentations/dovprela-previously-pretomanid-fgk-epar-all-authorised-presentations_sv.pdf)
 
 ## Product details
 
-Name of medicine Dovprela (previously Pretomanid FGK) Active substance pretomanid International non-proprietary name (INN) or common name pretomanid Therapeutic area (MeSH) Tuberculosis, Multidrug-Resistant Anatomical therapeutic chemical (ATC) code J04
+Name of medicine
+
+Dovprela (previously Pretomanid FGK)
+
+Active substance
+
+pretomanid
+
+International non-proprietary name (INN) or common name
+
+pretomanid
+
+Therapeutic area (MeSH)
+
+Tuberculosis, Multidrug-Resistant
+
+Anatomical therapeutic chemical (ATC) code
+
+J04
 
 ### Pharmacotherapeutic group
 
@@ -1034,7 +628,9 @@ Consideration should be given to official guidance on the appropriate use of ant
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/005167
+EMA product number
+
+EMEA/H/C/005167
 
 Additional monitoring
 
@@ -1048,9 +644,19 @@ Marketing authorisation holder
 
 Mylan IRE Healthcare Limited
 
-Mylan IRE Healthcare Limited
+Unit 35/36 Grange Parade
 
-Opinion adopted 26/03/2020 Marketing authorisation issued 31/07/2020 Revision 12
+Opinion adopted
+
+26/03/2020
+
+Marketing authorisation issued
+
+31/07/2020
+
+Revision
+
+14
 
 ## Assessment history
 
@@ -1062,19 +668,15 @@ Collapse section
 
 Dovprela : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (150.78 KB - PDF)
+English (EN) (136.26 KB - PDF)
 
-**First published:** 09/02/2021
-
-**Last updated:** 19/02/2026
+**First published:** 09/02/2021 **Last updated:** 07/05/2026
 
 [View](/en/documents/procedural-steps-after/dovprela-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
 Dovprela-VR-0000258124 : EPAR - Assessment report - Variation
 
-Adopted
-
-Reference Number: EMADOC-1700519818-2703796
+Adopted Reference Number: EMADOC-1700519818-2703796
 
 English (EN) (2.01 MB - PDF)
 
@@ -1084,9 +686,7 @@ English (EN) (2.01 MB - PDF)
 
 CHMP post-authorisation summary of positive opinion for Dovprela (VR-0000258124)
 
-Adopted
-
-Reference Number: EMADOC-1700519818-2699355
+Adopted Reference Number: EMADOC-1700519818-2699355
 
 English (EN) (177.13 KB - PDF)
 
@@ -1096,9 +696,7 @@ English (EN) (177.13 KB - PDF)
 
 Dovprela-H-C-005167-II-0013 : EPAR - Assessment report - Variation
 
-Adopted
-
-Reference Number: EMA/485589/2023
+Adopted Reference Number: EMA/485589/2023
 
 English (EN) (1.68 MB - PDF)
 
@@ -1110,9 +708,7 @@ English (EN) (1.68 MB - PDF)
 
 Pretomanid FGK : Orphan maintenance assessment report (initial authorisation)
 
-Adopted
-
-Reference Number: EMADOC-1700519818-446338 Corr
+Adopted Reference Number: EMADOC-1700519818-446338 Corr
 
 English (EN) (227.83 KB - PDF)
 
@@ -1122,9 +718,7 @@ English (EN) (227.83 KB - PDF)
 
 Pretomanid FGK : EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/200048/2020
+Adopted Reference Number: EMA/200048/2020
 
 English (EN) (1.94 MB - PDF)
 
@@ -1134,9 +728,7 @@ English (EN) (1.94 MB - PDF)
 
 CHMP summary of positive opinion for Pretomanid FGK
 
-Adopted
-
-Reference Number: EMA/CHMP/116569/2020
+Adopted Reference Number: EMA/CHMP/116569/2020
 
 English (EN) (163.31 KB - PDF)
 
@@ -1144,24 +736,28 @@ English (EN) (163.31 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-pretomanid-fgk_en.pdf)
 
-#### News on Dovprela (previously Pretomanid FGK)
+## News on Dovprela (previously Pretomanid FGK)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 8-11 December 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-8-11-december-2025) 12/12/2025
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 8-11 December 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-8-11-december-2025)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 23-26 March 2020 (updated)](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-23-26-march-2020-updated) 27/03/2020
+12/12/2025
 
-#### More information on Dovprela (previously Pretomanid FGK)
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 23-26 March 2020 (updated)](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-23-26-march-2020-updated)
+
+27/03/2020
+
+## More information on Dovprela (previously Pretomanid FGK)
 
 - [EU/3/07/513 - orphan designation for treatment of tuberculosis](/en/medicines/human/orphan-designations/eu-3-07-513)
 - [EMEA-002115-PIP01-17-M06 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-002115-pip01-17-m06)
 
-#### Topics
+## Topics
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 - [Rare diseases](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A64)
 
-**This page was last updated on** 19/02/2026
+**This page was last updated on**
+
+07/05/2026
 
 ## Share this page
-
-[Back to top](#main-content)

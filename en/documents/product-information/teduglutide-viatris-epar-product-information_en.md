@@ -4,8 +4,8 @@ document_pages: 42
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/teduglutide-viatris-epar-product-information_en.pdf
 document_name: teduglutide-viatris-epar-product-information_en.pdf
 version: success
-processing_time: 10.2845172
-conversion_datetime: 2026-05-10 13:12:30.371691
+processing_time: 9.2379826
+conversion_datetime: 2026-05-10 13:14:35.38324
 docling_version:
   docling-serve: 1.17.0
   docling-jobkit: 1.18.0

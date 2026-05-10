@@ -1,20 +1,20 @@
 ---
-document_datetime: 2023-09-21 20:25:10
-document_pages: 33
+document_datetime: 2026-05-08 12:25:17
+document_pages: 34
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/ixiaro-epar-product-information_en.pdf
 document_name: ixiaro-epar-product-information_en.pdf
 version: success
-processing_time: 11.6584414
-conversion_datetime: 2025-12-21 19:01:37.949456
+processing_time: 12.1959729
+conversion_datetime: 2026-05-10 12:28:30.471004
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.17.0
+  docling-jobkit: 1.18.0
+  docling: 2.92.0
+  docling-core: 2.74.1
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.10.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -24,7 +24,9 @@ docling_version:
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-IXIARO suspension for injection Japanese encephalitis vaccine (inactivated, adsorbed)
+IXIARO suspension for injection
+
+Japanese encephalitis vaccine (inactivated, adsorbed)
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
@@ -32,21 +34,17 @@ IXIARO suspension for injection Japanese encephalitis vaccine (inactivated, adso
 
 Japanese encephalitis virus strain SA14-14-2 (inactivated) 1,2 6 AU 3 corresponding to a potency of ≤ 460 ng ED50
 
-1
+1 produced in Vero cells
 
 2 adsorbed on aluminium hydroxide, hydrated (approximately 0.25 milligrams Al 3+ )
 
-3
-
-```
-produced in Vero cells Antigen Units
-```
+3 Antigen Units
 
 Excipients with known effect:
 
 This medicine contains potassium, less than 1mmol (39 mg) per 0.5 ml single dosage i.e. essentially 'potassium-free' and less than 1 mmol sodium (23 mg) per 0.5 ml single dosage, that is to say essentially 'sodium-free'. This product might contain traces of residual sodium metabisulfite which is below detection limit.
 
-Phosphate Buffered Saline 0.0067 M (in PO4) has the following saline composition:
+Phospha te Buffered Saline 0.0067 M (in PO4) has the following saline composition:
 
 NaCl - 9mg/mL
 
@@ -72,7 +70,7 @@ IXIARO should be considered for use in individuals at risk of exposure through t
 
 ## 4.2 Posology and method of administration
 
-Posology
+## Posology
 
 ## Adults (18 to ≤ 65 years of age)
 
@@ -92,15 +90,15 @@ Second dose: 7 days after first dose.
 
 <div style=\"page-break-after: always\"></div>
 
-With both schedules, primary immunisation should be completed at least one week prior to potential exposure to Japanese encephalitis virus (JEV) (see section 4.4).
+With both schedules, primary immunis ation should be completed at least one week prior to potential exposure to Japanese encephalitis virus ( JEV ) (see section 4.4).
 
-It is recommended that vaccinees who received the first dose of IXIARO complete the primary 2-dose vaccination course with IXIARO.
+It is recommended that vac cinees who received the first dose of IXIARO complete the primary 2 -dose vaccination course with IXIARO.
 
 If the primary immunization of two injections is not completed, full protection against the disease might not be achieved. There is data that a second injection given up to 11 months after the first dose results in high seroconversion rates (see section 5.1).
 
 ## Booster dose
 
-A booster dose (third dose) should be given within the second year (i.e. 12 - 24 months) after primary immunization, prior to potential re-exposure to JEV.
+A booster dose (third dose) should be given within the second year (i.e. 12 - 24 months) after primary immunization, prior to potential reexposure to JEV.
 
 Persons at continuous risk for acquiring Japanese encephalitis (laboratory personnel or persons residing in endemic areas) should receive a booster dose at month 12 after primary immunization (see section 5.1). Long-term seroprotection data following a first booster dose administered 12 - 24 months after primary immunization suggest that a second booster should be given 10 years after the first booster dose, prior to potential exposure to JEV.
 
@@ -112,15 +110,15 @@ First dose at Day 0.
 
 Second dose: 28 days after first dose.
 
-The primary immunisation should be completed at least one week prior to potential exposure to Japanese encephalitis virus (JEV) (see section 4.4).
+The primary immunis ation should be completed at least one week prior to potential exposure to Japanese encephalitis virus ( JEV ) (see section 4.4).
 
-It is recommended that vaccinees who received the first dose of IXIARO complete the primary 2-dose vaccination course with IXIARO.
+It is recommended that vac cinees who received the first dose of IXIARO complete the primary 2 -dose vaccination course with IXIARO.
 
 If the primary immunization of two injections is not completed, full protection against the disease might not be achieved. There is data that a second injection given up to 11 months after the first dose results in high seroconversion rates (see section 5.1).
 
 ## Booster dose
 
-As with many vaccines, the immune response in elderly persons to IXIARO is lower than in younger adults. Duration of protection is uncertain in elderly persons, therefore a booster dose (third dose) should be considered before any further exposure to JE virus. Long-term seroprotection following a booster-dose is not known.
+As with many vaccines, the immune response in elderly persons to IXIARO is lower than in younger adults. Duration of protection is uncertain in elderly persons, therefore a booster dose (third dose) should be considered before any further exposure to JE virus . Longterm seroprotection following a booster -dose is not known.
 
 ## Paediatric Population
 
@@ -142,17 +140,17 @@ Second dose: 28 days after first dose.
 
 See section 6.6 for instructions on preparing a 0.25 ml dose for children aged 2 months to &lt;3 years.
 
-It is recommended that vaccinees who received the first dose of IXIARO complete the primary 2-dose vaccination course with IXIARO.
+It is recommended that vacc inees who received the first dose of IXIARO complete the primary 2 -dose vaccination course with IXIARO.
 
 ## Booster dose (Children and adolescents )
 
-A booster dose (third dose) should be given within the second year (i.e. 12 - 24 months) after primary immunization, prior to potential re-exposure to JEV.
+A booster dose (third dose) should be given within the second year (i.e. 12 - 24 months) after primary immunization, prior to potential reexposure to JEV.
 
 Children and adolescents at continuous risk for acquiring Japanese encephalitis (residing in endemic areas) should receive a booster dose at month 12 after primary immunization (see section 5.1).
 
 Children and adolescents from 3 years to &lt; 18 years of age should receive a single 0.5 ml booster dose. Children from 14 months to &lt; 3 years of age should receive a single 0.25 ml booster dose. See section 6.6 for instructions on preparing a 0.25 ml dose for children aged 2 months to &lt;3 years.
 
-No long-term seroprotection data beyond two years after a first booster administered 1 year after primary immunization has been generated in children.
+No longterm seroprotection data beyond two years after a first booster administered 1 year after primary immunization has been generated in children.
 
 ## Children below 2 months of age
 
@@ -186,15 +184,15 @@ Under no circumstances should IXIARO be administered intravascularly.
 
 <div style=\"page-break-after: always\"></div>
 
-As with any other vaccine, vaccination with IXIARO may not result in protection in all cases.
+As with any other vaccine, vaccination with IXIARO may not result in protection in all cases .
 
-IXIARO will not protect against encephalitis caused by other micro-organisms.
+IXIARO will not protect against encephalitis caused by other micro -organisms.
 
 Like other intramuscular injections, this vaccine should not be administered intramuscularly to persons with thrombocytopenia, haemophilia or other bleeding disorders (see section 4.2).
 
 In adults a seroconversion rate of 29.4 % has been observed 10 days after the first i.m. vaccination, and 97.3 % one week after the second i.m. vaccination in the conventional schedule. After immunisation with the rapid schedule a seroconversion rate of 99% has been observed 7 days after the second i.m. vaccination.
 
-Hence, primary immunisation should be completed at least one week prior to potential exposure to Japanese encephalitis virus (JEV).
+Hence, primary immunis ation should be completed at least one week prior to potential exposure to Japanese encephalitis virus (JEV).
 
 Protection against Japanese Encephalitis is not ensured until the second dose has been received.
 
@@ -202,7 +200,7 @@ Protection against Japanese Encephalitis is not ensured until the second dose ha
 
 ## Concomitant administration of IXIARO with other vaccines:
 
-Concomitant administration of IXIARO with inactivated hepatitis A vaccine and with inactivated rabies vaccine in two different schedules has been evaluated in clinical studies. There was no interference with the immune response to Japanese encephalitis virus (JEV) or to hepatitis A or rabies virus vaccines (see section 5.1).
+Concomitant administration of IXIARO with inactivated hepatitis A vaccine and with inactivated rabies vaccine in two different schedules has been evaluated in clinical studies . There was no interference with the immune response to Japanese encephalitis virus (JEV) or to hepatitis A or rabies virus vaccines (see section 5.1).
 
 The safety profiles of IXIARO and the other studied vaccines were not compromised when administered concomitantly.
 
@@ -226,7 +224,7 @@ As a precautionary measure, the use of IXIARO during pregnancy should be avoided
 
 It is unknown whether IXIARO is excreted in human milk.
 
-No effects on the breastfed newborn/infant are anticipated since the systemic exposure of the breast-feeding woman to IXIARO is negligible. However, in the absence of data and as a precautionary measure the use of IXIARO during lactation should be avoided.
+No effects on the breastfed newborn/infant are anticipated since the systemic exposure of the breast -feeding woman to IXIARO is negligible. However, in the absence of data and as a precautionary measure the use of IXIARO during lactation should be avoided.
 
 ## Fertility
 
@@ -242,15 +240,13 @@ IXIARO has no or negligible influence on the ability to drive and use machines.
 
 The safety of Ixiaro was assessed in controlled and uncontrolled clinical studies in 5,021 healthy adults (from non-endemic countries) and 1,559 children and adolescents (mostly from endemic countries).
 
-Approximately 40% of treated subjects experienced systemic adverse reactions and approximately 54% experienced injection site reactions. They usually occur within the first three days after vaccination, are
+Approximately 40% of treated subjects experienced systemic adverse reactions and approximately 54% experienced injection site reactions . They usually occur within the first three days after vaccination, are usually mild and resolve within a few days. No increase in the number of adverse reactions was noted between first and second doses or following a booster dose in adults.
 
 <div style=\"page-break-after: always\"></div>
 
-usually mild and resolve within a few days. No increase in the number of adverse reactions was noted between first and second doses or following a booster dose in adults.
-
 Most commonly reported adverse reactions in adults included headache (20% of subjects), myalgia (13%), injection site pain (33%), injection site tenderness (33%) and fatigue (12.9%).
 
-Most commonly reported adverse reactions in children and adolescents included pyrexia, diarrhoea, influenza like illness, irritability, injection site pain, injection site tenderness, and injection site redness (see table 1).
+Most commonly reported adverse reactions in children and adolescents included pyrexia, diarrhoea, influenza like illness, irritability, injection site pain , injection site tenderness, and injection site redness (see table 1).
 
 Adverse reactions are listed according to the following frequencies:
 
@@ -270,7 +266,13 @@ Uncommon: lymphadenopathy
 
 Rare: thrombocytopenia
 
-Nervous system disorders Very common: headache Uncommon: migraine, dizziness Rare: paraesthesia, neuritis, dysgeusia, syncope*
+Nervous system disorders
+
+Very common: headache
+
+Uncommon: migraine, dizziness
+
+Rare: paraesthesia, neuritis, dysgeusia, syncope*
 
 Eye disorders
 
@@ -298,25 +300,41 @@ Uncommon: rash, pruritus, hyperhidrosis
 
 Rare: urticaria, erythema
 
-Musculoskeletal and connective tissue disorders Very common: myalgia Uncommon: musculoskeletal stiffness, arthralgia Rare: pain in extremity
+Musculoskeletal and connective tissue disorders
+
+Very common: myalgia
+
+Uncommon: musculoskeletal stiffness
+
+, arthralgia
+
+Rare: pain in extremity
 
 ## General disorders and administration site conditions
 
 Very common: injection site pain, injection site tenderness, fatigue
 
-Common: influenza like illness, pyrexia, other injection site reactions e.g. redness, hardening, swelling, itching
+Common:
+
+influenza like illness, pyrexia,
+
+other injection site reactions e.g.
+
+redness, hardening, swelling,
+
+itching
 
 Uncommon: chills, malaise, asthenia
 
 Rare: oedema peripheral
 
-Investigations
+## Investigations
 
 Uncommon: hepatic enzymes increased
 
 <div style=\"page-break-after: always\"></div>
 
-## *reported also from post-marketing experience
+## *reported also from postmarketing experience
 
 ## Paediatric population (2 months to &lt;18 years of age)
 
@@ -366,7 +384,7 @@ Reporting suspected adverse reactions after authorisation of the medicinal produ
 
 ## 4.9 Overdose
 
-No symptoms related to overdose were reported.
+No symptoms related to overdose were reported .
 
 ## Paediatric population:
 
@@ -388,35 +406,35 @@ No prospective efficacy trials have been performed. Immunogenicity of IXIARO was
 
 ## Pivotal immunogenicity trial (adults)
 
-Immunogenicity of the vaccine was evaluated in a randomized, active controlled, observer blinded, multicenter Phase 3 clinical trial including 867 healthy male and female subjects given IXIARO or the US licensed JEV vaccine JE VAX (on a 0, 7 and 28 day schedule by subcutaneous injection). The co-primary endpoint was seroconversion rate (anti JEV antibody titer ≥1:10) and geometric mean titers (GMT) at Day 56 as assessed by a Plaque Reduction Neutralization Test (PRNT) for the entire study population. By Day 56, the proportion of subjects who had seroconverted was similar for both treatment groups (96.4% vs. 93.8% for IXIARO and JE VAX, respectively). GMT increased by Day 56 to 243.6 for IXIARO and to 102.0 for JE VAX, respectively. The immune responses elicited by IXIARO were non inferior to those induced by JE VAX (Table 2).
+Immunogenicity of the vaccine was evaluated in a randomized, active controlled, observer blinded, multicenter Phase 3 clinical trial including 867 healthy male and female subjects given IXIARO or the US licensed JEV vaccine JE VAX (on a 0, 7 and 28 day schedule by subcutaneous injection). The co -primary endpoint was seroconversion rate (anti JEV antibody titer ≥1:10) and geometric mean titers (GMT) at Day 56 as assessed by a Plaque Reduction Neutralization Test (PRNT) for the entire study population. By Day 56, the proportion of subjects who had seroconverted was similar for both treatment grou ps (96.4% vs. 93.8% for IXIARO and JE VAX, respectively). GMT increased by Day 56 to 243.6 for IXIARO and to 102.0 for JE VAX, respectively. The immune responses elicited by IXIARO were non inferior to those induced by JE VAX (Table 2).
 
 <div style=\"page-break-after: always\"></div>
 
-Table 2: Seroconversion rates and geometric mean titers of IXIARO and JE VAX in the Per Protocol Population. Neutralising antibody titers against JEV were measured against the JEV strain SA1414-2.
+Table 2: Seroconversion rates and geometric mean titers o f IXIARO and JE VAX in the Per Protocol Population. Neutralising antibody titers against JEV were measured against the JEV strain SA1414-2.
 
 | Seroconversion rate                                            | Seroconversion rate                                            | Seroconversion rate                                            |
 |----------------------------------------------------------------|----------------------------------------------------------------|----------------------------------------------------------------|
-| Time point                                                     | IXIARO N=365 %(n)                                              | JE-VAX N=370 %(n)                                              |
+| Time point                                                     | IXIARO N=365 %(n)                                              | JE -VAX N=370 %(n)                                             |
 | Visit 0 (Screening)                                            | 0                                                              | 0                                                              |
 | Visit 3 (Day 28)                                               | 54 (197)                                                       | 86.8 (321)                                                     |
 | Visit 4 (Day 56)                                               | 96.4 (352)                                                     | 93.8 (347)                                                     |
 | Geometric mean titer (by plaque reduction neutralization test) | Geometric mean titer (by plaque reduction neutralization test) | Geometric mean titer (by plaque reduction neutralization test) |
-| Time point                                                     | IXIARO N=365 GMT (n)                                           | JE-VAX N=370 GMT (n)                                           |
+| Time point                                                     | IXIARO N=365 GMT (n)                                           | JE -VAX N=370 GMT (n)                                          |
 | Visit 0 (Screening)                                            | 5.0 (365)                                                      | 5.0 (370)                                                      |
 | Visit 3 (Day 28)                                               | 17.4 (363)                                                     | 76.9 (367)                                                     |
 | Visit 4 (Day 56)                                               | 243.6 (361)                                                    | 102.0 (364)                                                    |
 
-The effect of age on the immune response to IXIARO and JE-VAX was assessed as a secondary endpoint in this active controlled study, comparing subjects aged ≥ 50 years of age (N=262, mean age 59.8) with those below 50 years of age (N=605, mean age 33.9).
+The effect of age on the immune response to IXIARO and JE -VAX was assessed as a secondary endpoint in this active controlled study, comparing subjects aged ≥ 50 years of age (N=262, mean age 59.8) with those below 50 years of age (N=605, mean age 33.9).
 
-There was no significant difference between seroconversion rates of IXIARO and JE-VAX in subjects aged &lt;50 years compared to those aged ≥50 years at Day 28 or Day 56 following vaccination. Geometric mean titers were significantly higher at Day 28 in subjects aged &lt;50 years than those aged ≥50 years in the JE VAX group (80.9 vs. 45.9, p=0.0236) but there was no significant difference at Day 56 for this treatment group. There were no significant effects of age on geometric mean titer in the group receiving IXIARO. There was no significant difference between seroconversion rates in subjects aged &lt;50 years compared to those aged ≥50 years at Day 28 or Day 56 for either treatment group.
+There was no significant difference between seroconversion rates of IXIARO and JE -VAX in subjects aged &lt;50 years compared to those aged ≥50 years at Day 28 or Day 56 following vaccination. Geometric mean titers were significantly higher at Day 28 in subjects aged &lt;50 years than those aged ≥50 years in the JE VAX group (80.9 vs. 45.9, p=0.0236) but there was no significant difference at Day 56 for this treatment group. There were no significant effects of age on geometric mean titer in the group receiving IXIARO. There was no significant difference between seroconversion rates in subjects aged &lt;50 years compared to those aged ≥50 years at Day 28 or Day 56 for eit her treatment group.
 
 ## Antibody persistence (adults)
 
 Antibody persistence was evaluated in an uncontrolled Phase 3 follow up clinical trial, enrolling subjects who had completed two pivotal studies, and who received at least one dose of IXIARO. Long term immunogenicity of IXIARO was assessed in a subset of 181 subjects up to month 24 (Intent-to-treat (ITT) population) and in 152 subjects up to month 36 after the first IXIARO vaccination.
 
-Rates of subjects with PRNT50≥1:10 and GMTs at Months 2, 6, 12, 24 and 36 are summarized in Table 3 for the ITT population.
+Rates of subjects with PRNT 50 ≥1:10 and GMTs at Months 2, 6 , 12, 24 and 36 are summarized in Table 3 for the ITT population.
 
-Table 3: Rates of subjects with PRNT50≥1:10 and geometric mean titers (GMT) at Month 2, 6, 12, 24 and 36 after vaccination with IXIARO (ITT population)
+Table 3: Rates of subjects with PRNT 50 ≥1: 10 and geometric mean titers (GMT) at Month 2, 6 , 12, 24 and 36 after vaccination with IXIARO (ITT population)
 
 |            | Rate of subjects with PRNT 50 ≥1:10   | Rate of subjects with PRNT 50 ≥1:10   | GMT         | GMT                     |
 |------------|---------------------------------------|---------------------------------------|-------------|-------------------------|
@@ -431,91 +449,89 @@ Table 3: Rates of subjects with PRNT50≥1:10 and geometric mean titers (GMT) at
 
 The observed decline in GMT is as expected and compares well with data from other inactivated JE vaccines.
 
-In another open-label, follow-up Phase 3 study, the persistence of antibodies up to 24 months after primary vaccination was assessed. A total of 116 subjects who had received the recommended primary schedule of IXIARO were included in this follow-up study. Rates of subjects with PRNT50≥1:10 were 82.8% (95% CI: 74.9, 88.6, N=116) at Month 6 and 58.3% at Month 12 (95% CI: 49.1, 66.9, N=115). At Month 24, 48.3% (95% CI: 39.4, 57.3, N=116) of subjects who completed the recommended primary immunization still had PRNT50 titers of ≥ 1:10. GMT in these subjects was 16.2 (95% CI: 13.8, 19.0) at Month 24.
+In another openlabel, follow -up Phase 3 study, the persistence of antibodies up to 24 months after primary vaccination was assessed. A total of 116 subjects who had received the recommended primary schedule of IXIARO were included in th is follow -up study. Rates of subjects with PRNT 50 ≥1:10 were 82.8% (95% CI: 74.9, 88.6, N=116) at Month 6 and 58.3% at Month 12 (95% CI: 49.1, 66.9, N=115). At Month 24, 48.3% (95% CI: 39.4, 57.3, N=116) of subjects who completed the recommended primary immunization still had PRNT50 titers of ≥ 1: 10. GMT in these subjects was 16.2 (95% CI: 13.8, 19.0) at Month 24.
 
 ## Booster immunisation (adults)
 
 In an uncontrolled, open-label phase 3 study a single 6 mcg (0.5 ml) booster dose of IXIARO was given at month 15 after primary immunization. All of the 198 subjects treated were included in the ITT and Safety Populations.
 
-Rates of subjects with PRNT50≥1:10 and GMT over time are summarised in table 4:
+Rates of subjects with PRNT 50 ≥1:10 and GMT over time are summarised in table 4:
 
-Table 4: Rates of subjects with PRNT50≥1:10 and GMT before and at months 1, 6 and 12 after a single 6 mcg (0.5 ml) booster dose administered to subjects at 15 months after recommended primary immunization with IXIARO (ITT population)
+Table 4: Rates of subjects with PRNT 50 ≥1:10 and GMT before and at months 1, 6 and 12 after a single 6 mcg (0.5 ml) booster dose administered to subjects at 15 months after recommended primary immunization with IXIARO (ITT population)
 
-|                            | Rate of subjects with PRNT 50 ≥1:10   | Rate of subjects with PRNT 50 ≥1:10   | GMT   | GMT             |
-|----------------------------|---------------------------------------|---------------------------------------|-------|-----------------|
-|                            |                                       | 95% CI                                |       | 95% CI          |
-| Pre-booster, Day 0 (n=198) | 69.2%                                 | [62.4%, 75.2%]                        | 22.5  | [19.0, 26.7]    |
-| Day 28 (n=198)             | 100.0%                                | [98.1%, 100.0%]                       | 900.1 | [742.4, 1091.3] |
-| Month 6 (n=197)            | 98.5%                                 | [95.6%, 99.5%]                        | 487.4 | [390.7, 608.1]  |
-| Month 12 (n=194)           | 98.5%                                 | [95.6%, 99.5%]                        | 361.4 | [294.5, 443.5]  |
+|                             | Rate of subjects with PRNT 50 ≥1:10   | Rate of subjects with PRNT 50 ≥1:10   |   GMT | GMT             |
+|-----------------------------|---------------------------------------|---------------------------------------|-------|-----------------|
+|                             |                                       | 95% CI                                |       | 95% CI          |
+| Pre- booster, Day 0 (n=198) | 69.2%                                 | [62.4%, 75.2%]                        |  22.5 | [19.0, 26.7]    |
+| Day 28 (n=198)              | 100.0%                                | [98.1%, 100.0%]                       | 900.1 | [742.4, 1091.3] |
+| Month 6 (n=197)             | 98.5%                                 | [95.6%, 99.5%]                        | 487.4 | [390.7, 608.1]  |
+| Month 12 (n=194)            | 98.5%                                 | [95.6%, 99.5%]                        | 361.4 | [294.5, 443.5]  |
 
 ## Antibody persistence after booster immunisation (adults)
 
-In an uncontrolled, open-label extension to the booster study described above, 67 subjects were followed up for determination of JEV neutralizing antibody titres at approximately 6 years after a booster dose. 96% of subjects (64/67) still had protective antibody levels (PRNT50≥1:10), with a GMT of 148 (95%CI: 107; 207). Mathematical modelling was applied to project the average duration of protection. Based on this model, it is estimated that average duration of protection will be 14 years and 75% of vaccinees will retain protective antibody levels (PRNT50≥1:10) for 10 years. A second booster should therefore be given 10 years after the first booster dose, administered 1 year after the primary immunization, prior to potential exposure to JEV.
+In an uncontrolled, open-label extension to the booster study described above, 67 subjects were followed up for determination of JEV neutralizing antibody titres at approximately 6 years after a booster dose. 96% of subjects (64/67) still had protective antibody levels (PRNT50 ≥1:10), with a GMT of 148 (95%CI: 107; 207). Mathematical modelling was applied to project the average duration of protection. Based on this model, it is estimated that average duration of protection will be 14 years and 75% of vaccinees will retain protective antibody levels (PRNT50 ≥1:10 ) for 10 years. A second booster should therefore be given 10 years after the first booster dose, administered 1 year after the primary immunization, prior to potential exposure to JEV.
 
 ## Rapid immunisation schedule (adults)
 
-The immunogenicity of IXIARO administered in a rapid vaccination schedule was evaluated in a randomized, observer-blind, phase 3 study. A total of 217 subjects aged 18 to  ≤ 65 years received IXIARO together with inactivated rabies vaccine (Rabipur) in a rapid immunisation schedule on Day 0 and Day 7 and 56 subjects received IXIARO alone in the conventional immunisation schedule on Day 0 and Day 28. The proportion of subjects that seroconverted by 7 and by 28 days after the last immunisation was similar for both schedules. Seroconversion rates and antibody titers also remained comparably high up to 12 months after the first immunisation in both schedules (Table 5).
+The immunogenicity of IXIARO administered in a rapid vaccination schedule was evaluated in a randomized, observer-blind, phase 3 study. A total of 217 subjects aged 18 to ≤ 65 years received IXIARO together with inactivated rabies vaccine (Rabipur) in a rapid immunisation schedule on Day 0 and Day 7 and 56 subjects received IXIARO alone in the conventional immunisation schedule on Day 0 and Day 28. The proportion of subjects that seroconverted by 7 and by 28 days after the last immunisation was similar for both schedules. Seroconversion rates and antibody titers also remained comparably high up to 12 months after the first immunisation in both schedules (Table 5).
 
 The rapid schedule was tested for concomitant administration of IXIARO and Rabipur but it can also be used for administration of IXIARO alone, as no immune interference of the two vaccines has been observed (see section 4.5).
 
 <div style=\"page-break-after: always\"></div>
 
-Table 5: Seroconversion rates and GMTs for  anti-JEV neutralizing antibodies on Day 0, 14, 21, 35, 56 and 365 after immunisation with IXIARO and inactivated rabies vaccine in a rapid schedule and IXIARO alone in a conventional schedule (Per Protocol population)
+Table 5: Seroconversion rates and GMT s for  antiJEV neutralizing antibodies on Day 0, 14, 2 1, 35, 56 and 365 after immunisatio n with IXIARO and inactivated rabies vaccine in a rapid schedule and IXIARO alone in a conventional schedule (Per Protocol population)
 
-|                    | Seroconversion Rate (Rate of subjects with PRNT 50 ≥1:10)   | Seroconversion Rate (Rate of subjects with PRNT 50 ≥1:10)   | GMT ( plaque reduction neutralization test)   | GMT ( plaque reduction neutralization test)   |
-|--------------------|-------------------------------------------------------------|-------------------------------------------------------------|-----------------------------------------------|-----------------------------------------------|
-|                    | Rapid Schedule %(n/N)                                       | Conventional Schedule %(n/N)                                | Rapid Schedule (N)                            | Conventional Schedule (N)                     |
-| Vaccination scheme | IXIARO Day 0,7 Rabipur Day 0,3,7                            | IXIARO Day 0,28 -                                           | IXIARO Day 0,7 Rabipur Day 0,3,7              | IXIARO Day 0, 28 -                            |
-| Day 0              | 6 (13/215)                                                  | 9 (5/55)                                                    | 5.63 (215)                                    | 5.73 (55)                                     |
-| Day 14             | 99 (206/209)                                                | NA                                                          | 715 (209)                                     | NA                                            |
-| Day 21             | 100 (207/208)                                               | NA                                                          | 1255 (208)                                    | NA                                            |
-| Day 35             | 99 (203/206)                                                | 100 (47/47)                                                 | 690 (206)                                     | 376 (47)                                      |
-| Day 56             | 98 (200/204)                                                | 100 (49/49)                                                 | 372 (204)                                     | 337 (49)                                      |
-| Day 365            | 94 (188/199)                                                | 88 (42/48)                                                  | 117 (199)                                     | 39 (48)                                       |
+|                    | Seroconversion Rate ( Rate of subjects with PRNT 50 ≥1:10 )   | Seroconversion Rate ( Rate of subjects with PRNT 50 ≥1:10 )   | GMT ( plaque reduction neutralization test)   | GMT ( plaque reduction neutralization test)   |
+|--------------------|---------------------------------------------------------------|---------------------------------------------------------------|-----------------------------------------------|-----------------------------------------------|
+|                    | Rapid Schedule %(n/N)                                         | Conventional Schedule %(n/N)                                  | Rapid Schedule (N)                            | Conventional Schedule (N)                     |
+| Vaccination scheme | IXIARO Day 0,7 Rabipur Day 0,3,7                              | IXIARO Day 0,28 -                                             | IXIARO Day 0,7 Rabipur Day 0,3, 7             | IXIARO Day 0, 28 -                            |
+| Day 0              | 6 (13/215)                                                    | 9 (5/55)                                                      | 5.63 (215)                                    | 5.73 (55)                                     |
+| Day 14             | 99 (206/209)                                                  | NA                                                            | 715 (209)                                     | NA                                            |
+| Day 21             | 100 (207/208)                                                 | NA                                                            | 1255 (208)                                    | NA                                            |
+| Day 35             | 99 (203/206)                                                  | 100 (47/47)                                                   | 690 (206)                                     | 376 (47)                                      |
+| Day 56             | 98 (200/204)                                                  | 100 (49/49)                                                   | 372 (204)                                     | 337 (49)                                      |
+| Day 365            | 94 (188/199)                                                  | 88 (42/48)                                                    | 117 (199)                                     | 39 (48)                                       |
 
 NA= not applicable
 
 ## Incomplete primary immunization (adults)
 
-The immunogenicity of booster doses was also assessed in the study investigating persistence of immunity following different primary immunization regimens (2x6 mcg: N=116, 1x12mcg: N=116 or 1x6 mcg: N=117). A single 6 mcg (0.5 ml) booster dose was administered at 11 or 23 months after the first dose to subjects, which were determined to be seronegative (PRNT50 titers &lt; 1:10) at month 6 and/or month 12 after the primary immunization. Results indicate that the second injection of the primary immunization series can be given up to 11 months after the first dose. The immune responses to further doses at different time points after complete or incomplete primary immunization are shown in table 6.
+The immunogenicity of booster doses was also assessed in the study investigating persistence of immunity following different primary immunization regimens (2x6 mcg: N=116, 1x12mcg: N=116 or 1x6 mcg: N=117). A single 6 mcg (0.5 ml) booster dose was administered at 11 or 23 months after the first dose to subjects, which were determined to be seronegative (PRNT 50 titers &lt; 1:10) at month 6 and/or month 12 after the primary immunization. Results indicate that the second injection of the primary immunization series can be given up to 11 months after the first dose. The immune responses to further doses at different time points after complete or incomplete primary immunization are shown in table 6.
 
 Table 6: SCR and GMT at four weeks after a single 6 mcg booster dose administered to subjects with a PRNT50 &lt;1:10 (PRNT50&lt;1:10 means a subject is no longer seroprotected) at month 11 or month 23 after recommended primary immunization (2x 6 mcg) or incomplete (1x6 mcg) primary immunization with IXIARO (ITT population)
 
-|                                                                 | (n / N)    | SCR   | GMT    | [95% CI]         |
+|                                                                 | (n / N)    | SCR   |    GMT | [95% CI]         |
 |-----------------------------------------------------------------|------------|-------|--------|------------------|
 | Booster following recommended primary immunization (2x6 mcg)    |            |       |        |                  |
-| Booster at Month 11                                             | (17 / 17)  | 100%  | 673.6  | [378.7, 1198.2]  |
+| Booster at Month 11                                             | (17 / 17)  | 100%  |  673.6 | [378.7, 1198.2]  |
 | Booster at Month 23                                             | (27 / 27)  | 100%  | 2536.7 | [1467.7, 4384.4] |
 | Second dose following incomplete primary immunization (1x6 mcg) |            |       |        |                  |
-| Second dose at Month 11                                         | (99 / 100) | 99%   | 504.3  | [367.3, 692.3]   |
-| Second dose at Month 23                                         | (5 / 5)    | 100%  | 571.4  | [88.2, 3702.9]   |
+| Second dose at Month 11                                         | (99 / 100) | 99%   |  504.3 | [367.3, 692.3]   |
+| Second dose at Month 23                                         | (5 / 5)    | 100%  |  571.4 | [88.2, 3702.9]   |
 
 <div style=\"page-break-after: always\"></div>
 
 ## Concomitant use (adults)
 
-## Concomitant administration of IXIARO with inactivated hepatitis A virus (HAV) vaccine (HAVRIX 1440)
-
-The concomitant use of IXIARO with inactivated hepatitis A virus (HAV) vaccine (HAVRIX 1440) has been explored in one clinical trial. There was no interference with the immune response to the JE virus and HAV, respectively. Concomitant administration of IXIARO and inactivated hepatitis A vaccine was shown to be non-inferior to single vaccinations with regard to GMT of anti-JE virus neutralizing antibody and HAV antibody, and for seroconversion rates of both antibody types (Table 7).
+Concomitant administration of IXIARO with inactivated hepatitis A virus (HAV) vaccine (HAVRIX 1440) The concomitant use of IXIARO with inactivated hepatitis A virus (HAV) vaccine (HAVRIX 1440) has been explored in one clinical trial. There was no interference with the immune response to the JE virus and HAV, respectively. Concomitant administration of IXIARO and inactivated hepatitis A vaccine was shown to be noninferior to single vaccinations with regard to GMT of anti -JE virus neutralizing antibody and HAV antibody, and for seroconversion rates of both antibody types (Table 7).
 
 Table 7: Seroconversion rates and geometric mean titer of anti JEV neutralizing antibody at Day 56 and seroconversion rates and geometric mean titer for HAV antibody at Day 28 in the Per Protocol Population
 
-| Seroconversion rates and geometric mean titer for anti-JEV neutralizing antibody at Day 56   | Seroconversion rates and geometric mean titer for anti-JEV neutralizing antibody at Day 56   | Seroconversion rates and geometric mean titer for anti-JEV neutralizing antibody at Day 56   | Seroconversion rates and geometric mean titer for anti-JEV neutralizing antibody at Day 56   |
-|----------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
-|                                                                                              | %with SCR                                                                                    | GMT                                                                                          | 95% CI                                                                                       |
-| Group C: IXIARO + HAVRIX1440                                                                 | 100.0                                                                                        | 202.7                                                                                        | [153.7, 261.2]                                                                               |
-| Group A: IXIARO + Placebo                                                                    | 98.2                                                                                         | 192.2                                                                                        | [147.9, 249.8]                                                                               |
-| Seroconversion rates and geometric mean titer for HAV antibody at Day 28                     | Seroconversion rates and geometric mean titer for HAV antibody at Day 28                     | Seroconversion rates and geometric mean titer for HAV antibody at Day 28                     | Seroconversion rates and geometric mean titer for HAV antibody at Day 28                     |
-|                                                                                              | %with SCR                                                                                    | GMT                                                                                          | 95% CI                                                                                       |
-| Group C: IXIARO + HAVRIX 1440                                                                | 100.0                                                                                        | 150.0                                                                                        | [111.7, 202.3]                                                                               |
-| Group B: HAVRIX + Placebo                                                                    | 96.2                                                                                         | 124.0                                                                                        | [91.4, 168.2]                                                                                |
+| Seroconversion rates and geometric mean titer for anti- JEV neutralizing antibody at Day 56   | Seroconversion rates and geometric mean titer for anti- JEV neutralizing antibody at Day 56   | Seroconversion rates and geometric mean titer for anti- JEV neutralizing antibody at Day 56   | Seroconversion rates and geometric mean titer for anti- JEV neutralizing antibody at Day 56   |
+|-----------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
+|                                                                                               | %with SCR                                                                                     | GMT                                                                                           | 95% CI                                                                                        |
+| Group C: IXIARO + HAVRIX1440                                                                  | 100.0                                                                                         | 202.7                                                                                         | [153.7, 261.2]                                                                                |
+| Group A: IXIARO + Placebo                                                                     | 98.2                                                                                          | 192.2                                                                                         | [147.9, 249.8]                                                                                |
+| Seroconversion rates and geometric mean titer for HAV antibody at Day 28                      | Seroconversion rates and geometric mean titer for HAV antibody at Day 28                      | Seroconversion rates and geometric mean titer for HAV antibody at Day 28                      | Seroconversion rates and geometric mean titer for HAV antibody at Day 28                      |
+|                                                                                               | %with SCR                                                                                     | GMT                                                                                           | 95% CI                                                                                        |
+| Group C: IXIARO + HAVRIX 1440                                                                 | 100.0                                                                                         | 150.0                                                                                         | [111.7, 202.3]                                                                                |
+| Group B: HAVRIX + Placebo                                                                     | 96.2                                                                                          | 124.0                                                                                         | [91.4, 168.2]                                                                                 |
 
 Concomitant administration of IXIARO with inactivated rabies vaccine (Rabipur):
 
-In an observer-blind Phase 3 study, concomitant administration of IXIARO and Rabipur has been studied in adults aged 18 to  ≤ 65 years of age in comparison to respective single vaccinations in conventional schedule. No interference was observed with regards to geometric mean titer (GMT) and seroconversion rates for anti JEV neutralizing antibodies (Table 8). There was also no interference with the immune response to Rabipur.
+In an observer-blind Phase 3 study, concomitant administration of IXIARO and Rabipur has been studied in adults aged 18 to ≤ 65 years of age in comparison to respective single vaccinations in conventional schedule. No interference was observed with regards to geometric mean titer (GMT) and seroconversion rates for anti JEV neutralizing antibodies (Table 8). There was also no interference with the immune response to Rabipur .
 
-Table 8: Seroconversion rates (rate of subjects with PRNT50≥1:10) and GMTs (plaque reduction neutralization test) for anti-JEV neutralizing antibodies after administration of IXIARO and Rabipur in conventional schedule, Per Protocol population
+Table 8: Seroconversion rates (r ate of subjects with PRNT 50 ≥1:10) and GMT s (plaque reduction neutralization test) for antiJEV neutralizing antibodies after administration of IXIARO and Rabipur in conventional schedule, Per Protocol population
 
 | Seroconversion rates and geometric mean titer for JEV neutralizing antibody at Day 56   | Seroconversion rates and geometric mean titer for JEV neutralizing antibody at Day 56   | Seroconversion rates and geometric mean titer for JEV neutralizing antibody at Day 56   |
 |-----------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
@@ -523,11 +539,11 @@ Table 8: Seroconversion rates (rate of subjects with PRNT50≥1:10) and GMTs (pl
 | IXIARO + Rabipur                                                                        | 100 (157/157)                                                                           | 299 [254-352] (157)                                                                     |
 | IXIARO                                                                                  | 100 (49/49)                                                                             | 337 [252-451] (49)                                                                      |
 
-Vaccination schedules: IXIARO: Day 0/28, Rabipur: Day 0/7/28.
+Vaccination schedules : IXIARO: Day 0/28, Rabipur: Day 0/7/28.
 
 ## Immunogenicity in elderly persons (&gt;65 years)
 
-The immunogenicity of IXIARO was evaluated in an open-label, uncontrolled trial in 200 healthy elderly persons aged &gt;65 to 83 years, including subjects with stable underlying conditions like hypercholesterolemia, hypertension, cardiovascular disease or non insulin-dependent diabetes mellitus. JEV neutralizing antibodies were determined 42 days after the second dose of the primary series (Day 70). Elderly persons have a lower immune response to vaccination compared to younger adults or children, in terms of seroconversion rates (percentage of subjects with PRNT50 titer ≥1:10) and geometric mean titers (Table 9).
+The immunogenicity of IXIARO was evaluated in an open -label, uncontrolled trial in 200 healthy elderly persons aged &gt;65 to 83 years, including subjects with stable underlying conditions like hypercholesterolemia, hypertension, cardiovascular disease or non insulin-dependent diabetes mellitus. JEV neutralizing antibodies were determined 42 days after the second dose of the primary series (Day 70) . Elderly persons have a lower immune response to vaccination compared to younger adults or children, in terms of seroconversion rates (percentage of subjects with PRNT 50 titer ≥1:10 ) and geometric mean titers (Table 9).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -542,40 +558,40 @@ Table 9: Seroconversion rates and geometric mean titer of JEV neutralizing antib
 
 ## Paediatric population
 
-In a phase 2 study in healthy Indian toddlers aged ≥1 year to &lt;3 years, 24 children were vaccinated with 0.25 ml of IXIARO (the licensed dose for this age group) and 24 children received the adult 0.5 ml dose. Data are limited but there were no differences in the safety profile between the 0.25 ml and the 0.5 ml dose in this age group.
+In a phase 2 study in healthy Indian toddlers aged ≥1 year to &lt;3 years , 24 children were vaccinated with 0.25 ml of IXIARO (the licensed dose for this age group) and 24 children received the adult 0.5 ml dose. Data are limited but there were no differences in the safety profile between the 0.25 ml and the 0.5 ml dose in this age group.
 
 ## Immunogenicity and safety of IXIARO in children and adolescents from a JEV-endemic country
 
-The safety and immunogenicity of IXIARO were evaluated in a randomized, controlled, open-label clinical trial conducted in the Philippines, where JEV is endemic. The safety profile of IXIARO was compared to control vaccines Havrix (Hepatitis A vaccine, paediatric 720 EL.U./0.5 mL formulation) and Prevenar (Pneumococcal 7-valent Conjugate Vaccine [Diphtheria CRM197 protein]). The immunogenicity evaluation was performed in a subset of the study population and included the determination of the seroconversion rate (SCR), defined as JEV neutralizing antibody titer ≥1:10, the proportion of subjects achieving an at least fourfold increase in antibody titers and the geometric mean titer (GMT) at Day 56 and Month 7, by dose and by age group. The immune responses elicited by IXIARO are presented in Table 10.
+The safety and immunogenicity of IXIARO were evaluated in a randomized, controlled, open -label clinical trial conducted in the Philippines, where JEV is endemic. The safety profile of IXIARO was compared to control vaccines Havrix (Hepatitis A vaccine, pa ediatric 720 EL.U./0.5 mL formulation ) and Prevenar (Pneumococcal 7valent Conjugate Vaccine [Diphtheria CRM197 protein] ). The immunogenicity evaluation was performed in a subset of the study population and included the determination of the seroconversion rate (SCR), defined as JEV neutralizing antibody titer ≥1:10, the proportion of subjects achieving an at least fourfold increase in antibody titers and the geometric mean titer (GMT) at Day 56 and Month 7, by dose and by age group. The immune responses elicited by IXIARO are presented in Table 10.
 
 <div style=\"page-break-after: always\"></div>
 
-Table 10: Seroconversion rates, rates of subjects with at least 4-fold increase in JEV neutralizing antibody titers and Geometric Mean Titers at baseline, Day 56 and Month 7 stratified by age group, Intent To Treat Population
+Table 10: Seroconversion rates, r ates of subjects with at least 4-fold increase in JEV neutralizing antibody titers and Geometric Mean Titers at baseline, Day 56 and Month 7 stratified by age group , Intent To Treat Population
 
-| Vaccine Dose                                                                       | 0.25 ml                                                                            | 0.25 ml                                                                            | 0.25 ml                                                                            | 0.5 ml                                                                             | 0.5 ml                                                                             |
-|------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|
-| Age Group                                                                          | 2 months - <6 months                                                               | 6 months - <12 months                                                              | 1 year - < 3 years                                                                 | 3 years - < 12 years                                                               | 12 years - < 18 years                                                              |
-| Seroconversion Rates %(n/N)                                                        | Seroconversion Rates %(n/N)                                                        | Seroconversion Rates %(n/N)                                                        | Seroconversion Rates %(n/N)                                                        | Seroconversion Rates %(n/N)                                                        | Seroconversion Rates %(n/N)                                                        |
-| Pre-Vaccination                                                                    | 30% (3/10)                                                                         | 0% (0/20)                                                                          | 3.2% (4/125)                                                                       | 16.8% (17/101)                                                                     | 45.7% (64/140)                                                                     |
-| Day 56                                                                             | 100% (9/9)                                                                         | 100% (19/19)                                                                       | 99.2% (119/120)                                                                    | 100.0% (100/100)                                                                   | 100% (137/137)                                                                     |
-| Month 7                                                                            | 100% (10/10)                                                                       | 100% (18/18)                                                                       | 85.5% (106/124)                                                                    | 91.0% (91/100)                                                                     | 97.1% (133/137)                                                                    |
-| Proportion of Subjects Achieving an ≥4-fold Increase in JEV Antibody Titers %(n/N) | Proportion of Subjects Achieving an ≥4-fold Increase in JEV Antibody Titers %(n/N) | Proportion of Subjects Achieving an ≥4-fold Increase in JEV Antibody Titers %(n/N) | Proportion of Subjects Achieving an ≥4-fold Increase in JEV Antibody Titers %(n/N) | Proportion of Subjects Achieving an ≥4-fold Increase in JEV Antibody Titers %(n/N) | Proportion of Subjects Achieving an ≥4-fold Increase in JEV Antibody Titers %(n/N) |
-| Day 56                                                                             | 100 (9/9)                                                                          | 94.7 (18/19)                                                                       | 96.7 (116/120)                                                                     | 94.0 (94/100)                                                                      | 77.4 (106/137)                                                                     |
-| Month 7                                                                            | 90.0 (9/10)                                                                        | 83.3 (15/18)                                                                       | 75.8 (94/124)                                                                      | 71.0 (71/100)                                                                      | 65.0 (89/137)                                                                      |
-| Geometric Mean Titer (N)                                                           | Geometric Mean Titer (N)                                                           | Geometric Mean Titer (N)                                                           | Geometric Mean Titer (N)                                                           | Geometric Mean Titer (N)                                                           | Geometric Mean Titer (N)                                                           |
-| Pre-Vaccination                                                                    | 8.42 (10 )                                                                         | 5 ◊ (20)                                                                           | 5.52 (124)                                                                         | 6.54 (101)                                                                         | 13.08 (140)                                                                        |
-| Day 56                                                                             | 687.35 (9)                                                                         | 377.79 (19)                                                                        | 258.90 (121)                                                                       | 213.67 (100)                                                                       | 175.63 (137)                                                                       |
-| Month 7                                                                            | 159.27 (10)                                                                        | 64.00 (18)                                                                         | 38.91 (125)                                                                        | 43.60 (100)                                                                        | 86.61 (137)                                                                        |
+| Vaccine Dose                                                                         | 0.25 ml                                                                              | 0.25 ml                                                                              | 0.25 ml                                                                              | 0.5 ml                                                                               | 0.5 ml                                                                               |
+|--------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
+| Age Group                                                                            | 2 months - <6 months                                                                 | 6 months - <12 months                                                                | 1 year - < 3 years                                                                   | 3 years - < 12 years                                                                 | 12 years - < 18 years                                                                |
+| Seroconversion Rates %(n/N)                                                          | Seroconversion Rates %(n/N)                                                          | Seroconversion Rates %(n/N)                                                          | Seroconversion Rates %(n/N)                                                          | Seroconversion Rates %(n/N)                                                          | Seroconversion Rates %(n/N)                                                          |
+| Pre-Vaccination                                                                      | 30% (3/10)                                                                           | 0% (0/20)                                                                            | 3.2% (4/125)                                                                         | 16.8% (17/101)                                                                       | 45.7% (64/140)                                                                       |
+| Day 56                                                                               | 100% (9/9)                                                                           | 100% (19/19)                                                                         | 99.2% (119/120)                                                                      | 100.0% (100/100)                                                                     | 100% (137/137)                                                                       |
+| Month 7                                                                              | 100% (10/10)                                                                         | 100% (18/18)                                                                         | 85.5% (106/124)                                                                      | 91.0% (91/100)                                                                       | 97.1% (133/137)                                                                      |
+| Proportion of Subjects Achieving an ≥4 - fold Increase in JEV Antibody Titers %(n/N) | Proportion of Subjects Achieving an ≥4 - fold Increase in JEV Antibody Titers %(n/N) | Proportion of Subjects Achieving an ≥4 - fold Increase in JEV Antibody Titers %(n/N) | Proportion of Subjects Achieving an ≥4 - fold Increase in JEV Antibody Titers %(n/N) | Proportion of Subjects Achieving an ≥4 - fold Increase in JEV Antibody Titers %(n/N) | Proportion of Subjects Achieving an ≥4 - fold Increase in JEV Antibody Titers %(n/N) |
+| Day 56                                                                               | 100 (9/9)                                                                            | 94.7 (18/19)                                                                         | 96.7 (116/120)                                                                       | 94.0 (94/100)                                                                        | 77.4 (106/137)                                                                       |
+| Month 7                                                                              | 90.0 (9/10)                                                                          | 83.3 (15/18)                                                                         | 75.8 (94/124)                                                                        | 71.0 (71/100)                                                                        | 65.0 (89/137)                                                                        |
+| Geometric Mean Titer (N)                                                             | Geometric Mean Titer (N)                                                             | Geometric Mean Titer (N)                                                             | Geometric Mean Titer (N)                                                             | Geometric Mean Titer (N)                                                             | Geometric Mean Titer (N)                                                             |
+| Pre-Vaccination                                                                      | 8.42 (10 )                                                                           | 5 ◊ (20)                                                                             | 5.52 (124)                                                                           | 6.54 (101)                                                                           | 13.08 (140)                                                                          |
+| Day 56                                                                               | 687.35 (9)                                                                           | 377.79 (19)                                                                          | 258.90 (121)                                                                         | 213.67 (100)                                                                         | 175.63 (137)                                                                         |
+| Month 7                                                                              | 159.27 (10)                                                                          | 64.00 (18)                                                                           | 38.91 (125)                                                                          | 43.60 (100)                                                                          | 86.61 (137)                                                                          |
 
-◊Negative Pre-Vaccination titers were imputed to 5.
+◊Negative Pre -Vac cination titers were imputed to 5.
 
-Safety and tolerability was evaluated in the entire study population. Parents or subjects recorded adverse events on a diary card for the first seven days after each vaccination. Parents or subjects were asked for any unsolicited AEs on the day of the second vaccination and at in-person visits including a medical exam 28 days (Day 56) and 6 months (Month 7) after the second dose. The safety profile of IXIARO was comparable to that of Havrix or Prevenar.
+Safety and tol erability was evaluated in the entire study population. Parents or subjects recorded adverse events on a diary card for the first seven days after each vaccination. Parents or subjects were asked for any unsolicited AEs on the day of the second vaccination and at in -person visits including a medical exam 28 days (Day 56) and 6 months (Month 7) after the second dose. The safety profile of IXIARO was comparable to that of Havrix or Prevenar.
 
-Antibody persistence and booster dose in children and adolescents from a JEV-endemic country The persistence of JEV neutralizing antibodies after primary immunisation and safety and immunogenicity of an IXIARO booster dose 12 months after primary immunization were evaluated in a randomized, controlled, open-label clinical trial conducted in the Philippines, where JEV is endemic (300 children, mean age 5.3 years, range 1.2 - 17.3 years). 150 children were followed-up for three years without booster, additional 150 children received a booster after 1 year (0.25 ml if aged &lt;3 years at time of the booster, 0.5 ml if aged 3 years and above) and were followed-up for further two years. Seroprotection rate (SPR) defined as neutralizing antibody titer ≥1:10 and geometric mean titers (GMT) are presented in Table 11. The booster dose led to a pronounced increase in GMTs and seroprotection rate remained at 100% two years after the booster.
+Antibody persistence and booster dose in children and adolescents from a JEV-endemic country The persistence of JEV neutralizing antibodies after primary immunisation and safety and immunogenicity of an IXIARO booster dose 12 months after primary immunization were evaluated in a randomized, controlled, openlabel clinical trial conducted in the Philippines, where JEV is endemic (300 children, mean age 5.3 years, range 1.2 - 17.3 years). 150 children were followed -up for three years without booster, additional 150 children received a booster after 1 year (0.25 ml if aged &lt;3 years at time of the booster, 0.5 ml if aged 3 years and above) and were followed -up for further two years. Seroprotection rate (SPR) defined as neutralizing antibody titer ≥1:10 and geometric mean titer s (GMT) are presented in Table 11. The booster dose led to a pronounced increase in GMTs and seroprotection rate remained at 100% two years after the booster.
 
 <div style=\"page-break-after: always\"></div>
 
-Table 11: Seroprotection Rates and Geometric Mean Titers with and without a booster of IXIARO at Month 12, 13, 24 and 36, Intent To Treat Population
+Table 11: Seroprotection R ates and Geometric Mean Titers with and without a booster of IXIARO at Month 12, 13, 24 and 36, Intent To Treat Population
 
 |                                       | Without Booster N = 150    | Booster dose 12 months after primary immunization N = 149   | Booster dose 12 months after primary immunization N = 149   |
 |---------------------------------------|----------------------------|-------------------------------------------------------------|-------------------------------------------------------------|
@@ -595,14 +611,14 @@ n.a. = not available
 
 ## Immunogenicity and safety in children and adolescents from non-endemic countries
 
-The  safety  and  immunogenicity  of  IXIARO  was  evaluated  in  an  uncontrolled,  open-label  clinical  trial conducted in the United States, Europe and Australia in healthy male and female subjects with planned travel to JEV-endemic areas. Children and adolescents aged ≥ 3 to &lt; 18 years received two vaccine doses of 0.5ml and children aged  ≥ 2 months to &lt; 3 years received two vaccine doses of 0.25ml on Day 0 and Day 28 by intramuscular  injection.  Immunogenicity  data  were  evaluated  in  64  subjects.  The  SCRs  and  GMTs  are displayed in Table 12.
+The  safety  and  immunogenicity  of  IXIARO  was  evaluated  in  an  uncontrolled,  open -label  clinical  trial conducted in the United States, Europe and Australia in healthy male and female subjects with planned travel to JEV -endemic areas. Children and adolescents aged ≥ 3 to &lt; 18 years received two vaccine doses of 0.5ml and children aged ≥ 2 months to &lt; 3 years received two vaccine doses of 0.25ml on Day 0 and Day 28 by intramuscular  injection.  Immunogenicity  data were  evaluated  in 64  subjects. The  SCRs  and  GMTs  are displayed in Table 12.
 
 Table 12: Seroconversion rates and geometric mean titer of JEV neutralizing antibody by vaccine dose and age group. Intent-to-treat Population
 
 |                                 | IXIARO Dose   | Time Point   | SCR n / N   |   GMT | 95% CI         |
 |---------------------------------|---------------|--------------|-------------|-------|----------------|
 | Age Group ≥2 months to <3 years | 0.25 ml       | Day 56       | 100% 5/5    | 216.2 | 106.0; 441.0   |
-|                                 |               | Month 7      | 100% 2/2    |  48   | 0.0; 3214485.7 |
+|                                 |               | Month 7      | 100% 2/2    |  48.0 | 0.0; 3214485.7 |
 | Age Group ≥3 to <18 years       | 0.5 ml        | Day 56       | 100% 57/57  | 340.7 | 269.8; 430.3   |
 |                                 |               | Month 7      | 90.6% 29/32 |  57.1 | 38.4; 84.9     |
 
@@ -610,16 +626,16 @@ Table 12: Seroconversion rates and geometric mean titer of JEV neutralizing anti
 
 Antibody persistence in children and adolescents from non-endemic countries
 
-Antibody  persistence  was  evaluated  for  three  years  after  the  primary  vaccination  with  IXIARO  in  an uncontrolled, open-label follow-up clinical trial conducted in the United States, Europe and Australia. Longterm immunogenicity data were evaluated in 23 children, mean age 14.3 years, range 3 - 18 years). The SPRs and GMTs are displayed in Table 13.
+Antibody  persistence was  evaluated for  three  years after  the  primary  vaccination  with  IXIARO in  an uncontrolled, open-label follow -up clinical trial conducted in the United States, Europe and Australia. Longterm immunogenicity data were evaluated in 23 children, mean age 14.3 years, range 3 - 18 years). The SPRs and GMTs are displayed in Table 13.
 
 Table 13: Seroprotection rates and geometric mean titer of JEV neutralizing antibody by vaccine dose and age group. Intent-to-treat Population
 
-|          | Seroprotection Rate (Rate of subjects with PRNT 50 ≥1:10) %(n/N)   | Seroprotection Rate (Rate of subjects with PRNT 50 ≥1:10) %(n/N)   | Geometric Mean Titer ( plaque reduction neutralization test) GMT [95%CI]   | Geometric Mean Titer ( plaque reduction neutralization test) GMT [95%CI]   |
-|----------|--------------------------------------------------------------------|--------------------------------------------------------------------|----------------------------------------------------------------------------|----------------------------------------------------------------------------|
-|          | After 0.25 mL Dose Primary Immunization                            | After 0.5 mL Dose Primary Immunization                             | After 0.25 mL Dose Primary Immunization                                    | After 0.5 mL Dose Primary Immunization                                     |
-| Month 12 | 0% (0/0)                                                           | 89.5% (17/19)                                                      | -                                                                          | 48 [28; 80]                                                                |
-| Month 24 | 100% (1/1)                                                         | 90.9% (20/22)                                                      | 193 [n.a.]                                                                 | 75 [46; 124]                                                               |
-| Month 36 | 100% (1/1)                                                         | 88.9% (16/18)                                                      | 136 [n.a.]                                                                 | 61 [35; 106]                                                               |
+|          | Seroprotection Rate ( Rate of subjects with PRNT 50 ≥1:10 ) %(n/N)   | Seroprotection Rate ( Rate of subjects with PRNT 50 ≥1:10 ) %(n/N)   | G eometric Mean Titer ( plaque reduction neutralization test) GMT [95%CI]   | G eometric Mean Titer ( plaque reduction neutralization test) GMT [95%CI]   |
+|----------|----------------------------------------------------------------------|----------------------------------------------------------------------|-----------------------------------------------------------------------------|-----------------------------------------------------------------------------|
+|          | After 0.25 mL Dose Primary Immunization                              | After 0.5 mL Dose Primary Immunization                               | After 0.25 mL Dose Primary Immunization                                     | After 0.5 mL Dose Primary Immunization                                      |
+| Month 12 | 0% (0/0)                                                             | 89.5% (17/19)                                                        | -                                                                           | 48 [28; 80]                                                                 |
+| Month 24 | 100% (1/1)                                                           | 90.9% (20/22)                                                        | 193 [n.a.]                                                                  | 75 [46; 124]                                                                |
+| Month 36 | 100% (1/1)                                                           | 88.9% (16/18)                                                        | 136 [n.a.]                                                                  | 61 [35; 106]                                                                |
 
 n.a. 95% Confidence Interval could not be established (single-subject data)
 
@@ -631,7 +647,7 @@ Not applicable.
 
 Non-clinical toxicity data are limited.
 
-In a reproductive and pre-/post-natal toxicity study, no vaccine-related effects were detected on reproduction, foetal weight, survival and development of the off-spring. However, incomplete ossification of parts of the skeleton was observed in the group receiving 2 doses, but not in the group receiving 3 doses. It is currently difficult to explain if this phenomenon is treatment related or not.
+In a reproductive and pre-/post-natal toxicity study, no vaccinerelated effects were detected on reproduction, foetal weight, survival and development of the off -spring. However, incomplete ossification of parts of the skeleton was observed in the group receiving 2 doses, but not in the group receiving 3 doses. It is currently difficult to explain if this phenomenon is treatment related or not.
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
@@ -663,7 +679,7 @@ Store in the original package in order to protect from light.
 
 ## 6.5 Nature and contents of container
 
-0.5 ml of suspension in a pre-filled syringe (Type I glass) with a plunger stopper (chlorobutyl elastomer). Pack size of 1 syringe with or without a separate needle.
+0.5 ml of suspension in a prefilled syringe (Type I glass) with a plunger stopper (chlorobutyl elastomer). Pack size of 1 syringe with or without a separate needle.
 
 ## 6.6 Special precautions for disposal and other handling
 
@@ -692,7 +708,7 @@ For administration of a 0.25 ml dose in children aged 2 months to &lt; 3 years, 
 3. Attach a needle to the pre-filled syringe.
 4. Hold the syringe in an upright position.
 5. Push the plunger stopper up to the edge of the red line on the syringe barrel, indicated by a red arrow (see Figure 1)*, to discard excess volume.
-6. Attach a new sterile needle prior to injection of the remaining volume.
+6. 6 . Attach a new sterile needle prior to injection of the remaining volume.
 
 * If you pushed the plunger stopper beyond the red line, a 0.25 ml dose is not guaranteed and a new syringe should be used.
 
@@ -712,9 +728,13 @@ EU/1/08/501/002
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-Date of first authorisation: 31 March 2009
+Date of first authorisation:
 
-Date of latest renewal: 22 November 2018
+31 March 2009
+
+Date of lat est renewal:
+
+22 November 2018
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -739,6 +759,10 @@ Name and address of the manufacturer(s) of the biological active substance(s)
 
 Valneva Scotland Ltd. Oakbank Park Road Livingston EH53 0TG United Kingdom
 
+and
+
+Valneva Scotland Limited 1 Oakbank Park Place Livingston EH53 0TN United Kingdom
+
 Name and address of the manufacturer(s) responsible for batch release
 
 Valneva Austria GmbH Campus Vienna Biocenter 3 1030 Wien Austria
@@ -749,13 +773,13 @@ Medicinal product subject to medical prescription.
 
 ## · Official batch release
 
-In accordance with Article 114 Directive 2001/83/EC as amended, the official batch release will be undertaken by a state laboratory or a laboratory designated for that purpose.
+I n accordance with Article 114 Directive 2001/83/EC as amended, the official batch release will be undertaken by a state laboratory or a laboratory designated for that purpose.
 
 ## C. OTHER CONDITIONS OR REQUIREMENTS OF THE MARKETING AUTHORISATION
 
 ## · Periodic Safety Update Reports
 
-The requirements for submission of periodic safety update reports for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
+The requirements for submission of periodic safety update reports for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web -portal.
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
@@ -766,6 +790,9 @@ The MAH shall perform the required pharmacovigilance activities and intervention
 An updated RMP should be submitted:
 
 - At the request of the European Medicines Agency;
+
+<div style=\"page-break-after: always\"></div>
+
 - Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 
 <div style=\"page-break-after: always\"></div>
@@ -796,13 +823,13 @@ Presentation for adults, adolescents and children
 
 1 dose (0.5 ml) of IXIARO contains:
 
-6 AU (Antigen Units, corresponding to a potency of ≤ 460 ng ED50) of inactivated Japanese encephalitis virus strain SA14-14-2 (produced in Vero cells) adsorbed on aluminium hydroxide, hydrated (approximately 0.25 milligrams Al 3+ ).
+6 AU (Antigen Units, corresponding to a potency of ≤ 460 ng ED 50) of inactivated Japanese encephalitis virus strain SA14-14-2 (produced in Vero cells) adsorbed on aluminium hydroxide, hydrated (approximately 0.25 milligrams Al 3+ ).
 
 ## 3. LIST OF EXCIPIENTS
 
 Excipients:
 
-Phosphate buffered solution consisting of sodium chloride, potassium dihydrogen phosphate, disodium hydrogen phosphate and water for injections.
+Phosphate buffered solution consisting of sodium chloride, potassium dihydrogen phosphate, disodium hydrogen phosphate and w ater for injections.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -852,7 +879,9 @@ Valneva Austria GmbH Campus Vienna Biocenter 3 A-1030 Vienna Austria
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/08/501/001 EU/1/08/501/002
+EU/ 1/08/501/001
+
+EU/ 1/08/501/002
 
 ## 13. BATCH NUMBER AND PRODUCT CODES
 
@@ -872,13 +901,13 @@ Justification for not including Braille accepted
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
+| MINIMUM PARTICULARS TO APPEARON BLISTERS ORSTRIPS   |
 |-----------------------------------------------------|
 | Blister foil                                        |
 
 Blank white foil without any printed information.
 
-25
+26
 
 <div style=\"page-break-after: always\"></div>
 
@@ -923,7 +952,7 @@ Japanese encephalitis vaccine (inactivated, adsorbed)
 ## Read all of this leaflet carefully before you or your child receive this vaccine because it contains important information for you.
 
 - Keep this leaflet. You and your child may need to read it again.
-- If you have any further questions, ask your doctor.
+- I f you have any further questions, ask your doctor.
 - This vaccine has been prescribed for you and/or your child only. Do not pass it on to others.
 - If you and/or your child get any side effects, talk to your doctor. This includes any possible side effects not listed in this leaflet. See section 4.
 
@@ -942,9 +971,9 @@ IXIARO is a vaccine against the Japanese encephalitis virus.
 
 The vaccine causes the body to produce its own protection (antibodies) against this disease.
 
-IXIARO is used to prevent infection with the Japanese encephalitis virus (JEV). This virus is mainly found in Asia and is transmitted to humans by mosquitoes that have bitten an infected animal (like pigs). Many infected people develop mild symptoms or no symptoms at all. In people who develop severe disease, JE usually starts as a flu-like illness, with fever, chills, tiredness, headache, nausea, and vomiting. Confusion and agitation also occur in the early stage of disease.
+IXIARO is used to prevent infection with the Japanese encephalitis virus (JEV). This virus is mainly found in Asia and is transmitted to humans by mosquitoes that have bitten an infected animal (like pigs). Many infected people develop mild symptoms or no symptoms at all. In people who develop severe disease, JE usually starts as a flulike illness, with fever, chills, tiredness, headache, nausea, and vomiting. Confusion and agitation also occur in the early stage of disease.
 
-IXIARO should be given only to adults, adolescents, children and infants aged 2 months and older travelling to countries, where JE is endemic or who are at risk through work.
+IXIARO should be given only to adults, adolescents, children and infants aged 2 months and older travelling to countries , where JE is endemic or who are at risk through work .
 
 ## 2. What you need to know before you and/or your child receive IXIARO
 
@@ -981,11 +1010,13 @@ Please note that:
 
 ## Other medicines and IXIARO
 
-Studies in humans to evaluate the effectiveness and safety of medicines (clinical trials) have shown that IXIARO can be given at the same time with hepatitis A vaccine and rabies vaccine. Tell your doctor if you and/or your child are taking or have recently taken, or might take any other medicines, including medicines obtained without a prescription or have recently received any other vaccine.
+Studies in humans to evaluate the effectiveness and safety of medicines (clinical trials) have shown that IXIARO can be given at the same time with hepatitis A vaccine and rabies vaccine.
+
+Tell your doctor if you and/or your child are taking or have recently taken, or might take any other medicines, including medicines obtained without a prescription or have recently received any other vaccine.
 
 ## Pregnancy and breast-feeding and fertility
 
-There are limited amount of data from the use of IXIARO in pregnant or breast-feeding women. As a precautionary measure, the use of IXIARO during pregnancy or breast-feeding should be avoided. If you are pregnant or breast-feeding, think you may be pregnant or are planning to have a baby, ask your doctor for advice before receiving this vaccine.
+There are limited amount of data from the use of IXIARO in pregnant or breastfeeding women. As a precautionary measure, the use of IXIARO during pregnancy or breast-feeding should be avoided. If you are pregnant or breastfeeding, think you may be pregnant or are planning to have a baby, ask your doctor for advice before receiving this vaccine.
 
 ## Driving and using machines
 
@@ -993,28 +1024,26 @@ IXIARO has no or negligible influence on the ability to drive and use machines.
 
 ## IXIARO contains potassium and sodium
 
-This medicine contains potassium, less than 1mmol (39 mg) per 0.5 ml single dosage i.e. essentially 'potassium-free' and less than 1 mmol sodium (23 mg) per 0.5 ml single dosage, that is to say essentially 'sodium-free'. This product might contain traces of residual sodium metabisulfite which is below detection limit.
+This medicine contains potassium, less than 1mmol (39 mg) per 0.5 ml single dosage i.e. essentially 'potassium-free' and less than 1 mmol sodium (23 mg) per 0.5 ml single dosage, that is to say essentially 'sodiumfree'. This product might contain traces of residual sodium metabisulfite which is below detection limit.
 
 ## 3. How to use IXIARO
 
 The recommended dosage for adults, adolescents and children aged 3 years of age and older is a total of 2 injections of 0.5 ml each:
 
-- The first injection on Day 0
-- The second injection 28 days after the first injection (Day 28).
+- T he first injection on Day 0
+- T he second injection 28 days after the first injection (Day 28).
 
-Adults aged 18 to  ≤ 65 years can also be vaccinated as follows:
+Adults aged 18 to ≤ 65 years can also b e vaccinated as follows:
 
-- The first injection on Day 0
-- The second injection 7 days after the first injection (Day 7).
+- T he first injection on Day 0
+- T he second injection 7 days after the first injection (Day 7).
 
-Babies and children aged 2 months to &lt; 3 years of age
+Babies and children aged 2 months to &lt; 3 years of age The recommended dosage for babies and children aged 2 months to &lt; 3 years is a total of 2 injections of 0.25 ml each:
 
 <div style=\"page-break-after: always\"></div>
 
-The recommended dosage for babies and children aged 2 months to &lt; 3 years is a total of 2 injections of 0.25 ml each:
-
-- The first injection on Day 0
-- The second injection 28 days after the first injection (Day 28).
+- T he first injection on Day 0
+- T he second injection 28 days after the first injection (Day 28).
 
 For instruction on the preparation of the 0.25 ml dose, please refer to the end of this package leaflet.
 
@@ -1046,15 +1075,15 @@ headache, muscle pain, injection site pain, injection site tenderness, tiredness
 
 ## Common (affects 1 to 10 users in 100):
 
-Nausea, influenza like illness, fever, other injection site reactions (e.g. redness, hardening, swelling, itching)
+Nausea, influenza like illness , fever, other injection site reactions (e.g. redness, hardening, swelling, itching)
 
 ## Uncommon (affects 1 to 10 users in 1,000):
 
-vomiting, skin rash, changes in the lymph-nodes, migraine (throbbing headache, often accompanied by nausea and vomiting and sensitivity to light), dizziness, vertigo (spinning sensation), diarrhoea, belly pain, excessive sweating, itching, chills, general condition of feeling unwell, musculoskeletal stiffness, joint pain, weakness, abnormal laboratory liver test results (hepatic enzymes increased)
+vomiting, skin rash , changes in the lymph-nodes, migraine (throbbing headache, often accompanied by nausea and vomiting and sensitivity to light), dizziness, vertigo (spinning sensation), diarrhoea, belly pain, excessive sweating , itching, chills, general c ondition of feeling unwell , musculoskeletal stiffness , joint pain, weakness, abnormal laboratory liver test results (hepatic enzymes increased)
 
 ## Rare (affects 1 to 10 users in 10,000):
 
-palpitations, rapid heartbeat, difficulty to breathe, abnormal sensation of skin (for example pins and needles), hives, skin redness, pain in leg or arm, platelet deficiency, nerve inflammation, limb swelling and ankle swelling, taste disturbance, swelling of eyelid, fainting
+palpitations, rapid heartbeat, difficulty to breathe, abnormal sensation of skin (for example pins and needles), hives, skin redness , pain in leg or arm, platelet deficiency, nerve inflammation, limb swelling and ankle swelling, taste disturbance, swelling of eyelid , fainting
 
 ## Additional side effects in children aged 2 months to &lt;3 years
 
@@ -1064,7 +1093,7 @@ In children aged 2 months to &lt;3 years, the following side effects have been o
 
 Very common:
 
-fever (28.9%), diarrhoea (11.8%), influenza like illness (11.2%), irritability (11.0%)
+fever (28.9%) , diarrhoea (11.8%), influenza like illness ( 11.2%), irritability (11.0%)
 
 Common:
 
@@ -1076,7 +1105,7 @@ cough
 
 ## Reporting of side effects
 
-If you and/or your child get any side effects, talk to your doctor. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V.
+If you and/or your child get any side effects, talk to your doctor . This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V.
 
 By reporting side effects you can help provide more information on the safety of this medicine.
 
@@ -1093,9 +1122,13 @@ By reporting side effects you can help provide more information on the safety of
 
 ## What IXIARO contains
 
-```
-1 dose (0.5 ml) of IXIARO contains: Japanese encephalitis virus strain SA14-14-2 (inactivated) 1,2 6 AU 3 corresponding to a potency of ≤ 460 ng ED50 1 produced in Vero cells 2 adsorbed on aluminium hydroxide, hydrated (approximately 0.25 milligrams Al 3+ 3 Antigen Units
-```
+1 dose (0.5 ml) of IXIARO contains: Japanese encephalitis virus strain SA14-14-2 (inactivated) 1,2 6 AU 3 corresponding to a potency of ≤ 460 ng ED 50
+
+- 1 produced in Vero cells
+
+2 adsorbed on aluminium hydroxide, hydrated (approximately 0.25 milligrams Al 3+ )
+
+3 Antigen Units
 
 Aluminium hydroxide is included in this vaccine as an adjuvant.
 
@@ -1105,15 +1138,13 @@ The other ingredients are: Sodium chloride, potassium dihydrogen phosphate, diso
 
 IXIARO is a suspension for injection (0.5 ml in a glass syringe with or without a separate needle, pack size of 1).
 
-IXIARO is a white and slightly milky sterile suspension, which becomes homogenous on shaking.
+IXIARO is a white and slightly milky sterile suspension , which becomes homogenous on shaking.
 
 ## Marketing Authorisation Holder and Manufacturer
 
 Marketing Authorisation Holder:
 
-Valneva Austria GmbH Campus Vienna Biocenter 3
-
-)
+Valneva Austria G mbH Campus Vienna Biocenter 3
 
 A-1030 Vienna Austria Email: infoixiaro@valneva.com
 
@@ -1123,19 +1154,19 @@ Manufacturer: Campus Vienna Biocenter 3
 
 Valneva Austria GmbH A-1030 Vienna Austria
 
-For any information about this medicine, please contact the  Marketing Authorization Holder by the following email-address: infoixiaro@valneva.com
+For any information about this medicine, please contact the Marketing Authorization Holder by the following email -address: infoixiaro@valneva.com
 
 ## This leaflet was last revised in         .
 
 ## Other sources of information
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu/.
+Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu /.
 
-This leaflet is available in all EU/EEA languages on the European Medicines Agency website.
+This leaflet is available in all EU/EEA languages on the European Medicines Agency website .
 
 ----------------------------------------------------------------------------------------------------------------------------
 
-## The following information is intended for healthcare professionals only:
+The following information is intended for healthcare professionals only:
 
 The pre-filled syringe is for single use only and should not be used for more than one person. The pre-filled syringe is ready to use. If a needle is not provided, use a sterile needle.
 
@@ -1164,7 +1195,7 @@ For administration of a 0.25 ml dose in children aged 2 months to &lt; 3 years, 
 3. Attach a needle to the pre-filled syringe.
 4. Hold the syringe in an upright position.
 5. Push the plunger stopper up to the edge of the red line on the syringe barrel, indicated by a red arrow (see Figure 1)*, to discard excess volume.
-6. Attach a new sterile needle prior to injection of the remaining volume.
+6. 6 . Attach a new sterile needle prior to injection of the remaining volume.
 7. *If you pushed the plunger stopper beyond the red line, a 0.25 ml dose is not guaranteed and a new syringe should be used.
 
 Figure 1: Preparation for Administration of 0.25 ml Dose

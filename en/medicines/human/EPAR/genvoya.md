@@ -1,30 +1,108 @@
 ---
-document_datetime: 2026-01-28 13:48:00
+document_datetime: 2026-05-08 15:20:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/genvoya.html
 document_name: genvoya.html
 version: success
-processing_time: 0.1278235
-conversion_datetime: 2026-02-01 20:44:28.336689
+processing_time: 0.1258033
+conversion_datetime: 2026-05-10 12:11:30.865876
 docling_version:
-  docling-serve: 1.11.0
-  docling-jobkit: 1.9.1
-  docling: 2.71.0
-  docling-core: 2.62.0
-  docling-ibm-models: 3.11.0
-  docling-parse: 4.7.3
+  docling-serve: 1.17.0
+  docling-jobkit: 1.18.0
+  docling: 2.92.0
+  docling-core: 2.74.1
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.10.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
+# Search
+
+- [Medicines](/en/medicines)
+    - [Find medicine](/en/medicines)
+    - [Therapeutic areas: latest updates](/en/medicines/therapeutic-areas-latest-updates)
+    - [Download medicine data](/en/medicines/download-medicine-data)
+    - [What we publish on medicines and when](/en/medicines/what-we-publish-medicines-when)
+    - [Medicines under evaluation](/en/medicines/medicines-human-use-under-evaluation)
+    - [National registers](/en/medicines/national-registers-authorised-medicines)
+- [Human regulatory](/en/human-regulatory-overview)
+    - [Overview](/en/human-regulatory-overview)
+    - [Research and development](/en/human-regulatory-overview/research-development)
+    - [Marketing authorisation](/en/human-regulatory-overview/marketing-authorisation)
+    - [Post-authorisation](/en/human-regulatory-overview/post-authorisation)
+    - [Medical devices](/en/human-regulatory-overview/medical-devices)
+    - [Herbal products](/en/human-regulatory-overview/herbal-medicinal-products)
+- [Veterinary regulatory](/en/veterinary-regulatory-overview)
+    - [Overview](/en/veterinary-regulatory-overview)
+    - [Research and development](/en/veterinary-regulatory-overview/research-development-veterinary-medicines)
+    - [Marketing authorisation](/en/veterinary-regulatory-overview/marketing-authorisation-veterinary-medicines)
+    - [Post-authorisation](/en/veterinary-regulatory-overview/post-authorisation-veterinary-medicines)
+- [Committees](/en/committees)
+    - [Overview](/en/committees)
+    - [How the committees work](/en/committees/how-committees-work)
+    - [CHMP](/en/committees/committee-medicinal-products-human-use-chmp)
+    - [CVMP](/en/committees/committee-veterinary-medicinal-products-cvmp)
+    - [PRAC](/en/committees/pharmacovigilance-risk-assessment-committee-prac)
+    - [COMP](/en/committees/committee-orphan-medicinal-products-comp)
+    - [HMPC](/en/committees/committee-herbal-medicinal-products-hmpc)
+    - [CAT](/en/committees/committee-advanced-therapies-cat)
+    - [PDCO](/en/committees/paediatric-committee-pdco)
+    - [Working parties and other groups](/en/committees/working-parties-other-groups)
+- [News &amp; events](/en/news-events)
+    - [Overview](/en/news-events)
+    - [News](/en/news)
+    - [Events](/en/events/upcoming-events)
+    - [What's new](/en/news-events/whats-new)
+    - [Committee highlights](/en/news-events/committee-highlights)
+    - [Publications](/en/news-and-events/publications)
+    - [Press and social media](/en/news-events/press-social-media)
+    - [Podcast: Inside EMA](/en/news-events/podcast-inside-ema)
+    - [EMA Campaigns](/en/news-events/ema-campaigns)
+    - [Open consultations](/en/news-events/open-consultations)
+    - [RSS feeds](/en/news-events/rss-feeds)
+- [Partners &amp; networks](/en/partners-networks)
+    - [Overview](/en/partners-networks)
+    - [EU partners](/en/partners-networks/eu-partners)
+    - [International activities](/en/partners-networks/international-activities)
+    - [Patients and consumers](/en/partners-networks/patients-consumers)
+    - [Healthcare professionals](/en/partners-networks/healthcare-professionals)
+    - [Academia](/en/partners-networks/academia)
+    - [Pharmaceutical industry](/en/partners-networks/pharmaceutical-industry)
+    - [Networks](/en/partners-networks/networks)
+    - [Health technology assessment bodies](/en/partners-networks/health-technology-assessment-bodies)
+    - [One Health approach](/en/partners-networks/one-health-approach)
+    - [Animal health practitioners](/en/partners-networks/animal-health-practitioners)
+    - [One substance - one assessment](/en/partners-networks/one-substance-one-assessment-osoa-eu-collaboration-chemicals-related-data)
+- [About us](/en/about-us)
+    - [Overview](/en/about-us)
+    - [What we do](/en/about-us/what-we-do)
+    - [Who we are](/en/about-us/who-we-are)
+    - [How we work](/en/about-us/how-we-work)
+    - [Fees](/en/about-us/fees-payable-european-medicines-agency)
+    - [Support to SMEs](/en/about-us/support-smes)
+    - [Annual reports and work programmes](/en/about-us/annual-reports-work-programmes)
+    - [History of EMA](/en/about-us/history-ema)
+    - [Careers](/en/about-us/careers)
+    - [Procurement](/en/about-us/procurement-grants)
+    - [About this website](/en/about-us/about-website)
+    - [Data protection and privacy](/en/about-us/data-protection-privacy-ema)
+    - [Contacts](/en/about-us/contacts-european-medicines-agency)
+
+1. [Home](/en/homepage)
+2. [Medicines](https://www.ema.europa.eu/en/medicines)
+3. Genvoya
+
 # Genvoya
 
 [RSS](/en/individual-human-medicine.xml/66992)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-elvitegravir / cobicistat / emtricitabine / tenofovir alafenamide Medicine Human Authorised
+elvitegravir / cobicistat / emtricitabine / tenofovir alafenamide
+
+Medicine Human Authorised
 
 Page contents
 
@@ -111,275 +189,141 @@ Reference Number: EMA/676172/2022
 
 English (EN) (122.76 KB - PDF)
 
-**First published:** 01/12/2015
-
-**Last updated:** 08/11/2022
+**First published:** 01/12/2015 **Last updated:** 08/11/2022
 
 [View](/en/documents/overview/genvoya-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-444)
+[Other languages (22)](#file-language-dropdown-951)
 
 български (BG) (150.87 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-08/11/2022
+**First published:** 01/12/2015 **Last updated:** 08/11/2022
 
 [View](/bg/documents/overview/genvoya-epar-summary-public_bg.pdf)
 
 español (ES) (126.14 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-08/11/2022
+**First published:** 01/12/2015 **Last updated:** 08/11/2022
 
 [View](/es/documents/overview/genvoya-epar-summary-public_es.pdf)
 
 čeština (CS) (148.78 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-08/11/2022
+**First published:** 01/12/2015 **Last updated:** 08/11/2022
 
 [View](/cs/documents/overview/genvoya-epar-summary-public_cs.pdf)
 
 dansk (DA) (124.46 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-08/11/2022
+**First published:** 01/12/2015 **Last updated:** 08/11/2022
 
 [View](/da/documents/overview/genvoya-epar-summary-public_da.pdf)
 
 Deutsch (DE) (128.78 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-08/11/2022
+**First published:** 01/12/2015 **Last updated:** 08/11/2022
 
 [View](/de/documents/overview/genvoya-epar-summary-public_de.pdf)
 
 eesti keel (ET) (112.23 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-08/11/2022
+**First published:** 01/12/2015 **Last updated:** 08/11/2022
 
 [View](/et/documents/overview/genvoya-epar-summary-public_et.pdf)
 
 ελληνικά (EL) (149.75 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-08/11/2022
+**First published:** 01/12/2015 **Last updated:** 08/11/2022
 
 [View](/el/documents/overview/genvoya-epar-summary-public_el.pdf)
 
 français (FR) (126.51 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-08/11/2022
+**First published:** 01/12/2015 **Last updated:** 08/11/2022
 
 [View](/fr/documents/overview/genvoya-epar-summary-public_fr.pdf)
 
 hrvatski (HR) (150.69 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-08/11/2022
+**First published:** 01/12/2015 **Last updated:** 08/11/2022
 
 [View](/hr/documents/overview/genvoya-epar-summary-public_hr.pdf)
 
 italiano (IT) (125.26 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-08/11/2022
+**First published:** 01/12/2015 **Last updated:** 08/11/2022
 
 [View](/it/documents/overview/genvoya-epar-summary-public_it.pdf)
 
 latviešu valoda (LV) (156.23 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-08/11/2022
+**First published:** 01/12/2015 **Last updated:** 08/11/2022
 
 [View](/lv/documents/overview/genvoya-epar-summary-public_lv.pdf)
 
 lietuvių kalba (LT) (147.93 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-08/11/2022
+**First published:** 01/12/2015 **Last updated:** 08/11/2022
 
 [View](/lt/documents/overview/genvoya-epar-summary-public_lt.pdf)
 
 magyar (HU) (149.26 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-08/11/2022
+**First published:** 01/12/2015 **Last updated:** 08/11/2022
 
 [View](/hu/documents/overview/genvoya-epar-summary-public_hu.pdf)
 
 Malti (MT) (151.57 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-08/11/2022
+**First published:** 01/12/2015 **Last updated:** 08/11/2022
 
 [View](/mt/documents/overview/genvoya-epar-summary-public_mt.pdf)
 
 Nederlands (NL) (124.87 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-08/11/2022
+**First published:** 01/12/2015 **Last updated:** 08/11/2022
 
 [View](/nl/documents/overview/genvoya-epar-summary-public_nl.pdf)
 
 polski (PL) (152.15 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-08/11/2022
+**First published:** 01/12/2015 **Last updated:** 08/11/2022
 
 [View](/pl/documents/overview/genvoya-epar-summary-public_pl.pdf)
 
 português (PT) (126.66 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-08/11/2022
+**First published:** 01/12/2015 **Last updated:** 08/11/2022
 
 [View](/pt/documents/overview/genvoya-epar-summary-public_pt.pdf)
 
 română (RO) (147.31 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-08/11/2022
+**First published:** 01/12/2015 **Last updated:** 08/11/2022
 
 [View](/ro/documents/overview/genvoya-epar-summary-public_ro.pdf)
 
 slovenčina (SK) (151 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-08/11/2022
+**First published:** 01/12/2015 **Last updated:** 08/11/2022
 
 [View](/sk/documents/overview/genvoya-epar-summary-public_sk.pdf)
 
 slovenščina (SL) (175.42 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-08/11/2022
+**First published:** 01/12/2015 **Last updated:** 08/11/2022
 
 [View](/sl/documents/overview/genvoya-epar-summary-public_sl.pdf)
 
 Suomi (FI) (122.69 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-08/11/2022
+**First published:** 01/12/2015 **Last updated:** 08/11/2022
 
 [View](/fi/documents/overview/genvoya-epar-summary-public_fi.pdf)
 
 svenska (SV) (124.28 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-08/11/2022
+**First published:** 01/12/2015 **Last updated:** 08/11/2022
 
 [View](/sv/documents/overview/genvoya-epar-summary-public_sv.pdf)
 
@@ -387,9 +331,7 @@ Genvoya : EPAR - Risk management plan
 
 English (EN) (13.19 MB - PDF)
 
-**First published:** 01/12/2015
-
-**Last updated:** 28/01/2026
+**First published:** 01/12/2015 **Last updated:** 28/01/2026
 
 [View](/en/documents/rmp/genvoya-epar-risk-management-plan_en.pdf)
 
@@ -399,303 +341,159 @@ Genvoya : EPAR - Product Information
 
 English (EN) (621.77 KB - PDF)
 
-**First published:** 01/12/2015
-
-**Last updated:** 28/11/2022
+**First published:** 01/12/2015 **Last updated:** 28/11/2022
 
 [View](/en/documents/product-information/genvoya-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-176)
+[Other languages (24)](#file-language-dropdown-80)
 
 български (BG) (902.67 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-28/11/2022
+**First published:** 01/12/2015 **Last updated:** 28/11/2022
 
 [View](/bg/documents/product-information/genvoya-epar-product-information_bg.pdf)
 
 español (ES) (711.1 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-28/11/2022
+**First published:** 01/12/2015 **Last updated:** 28/11/2022
 
 [View](/es/documents/product-information/genvoya-epar-product-information_es.pdf)
 
 čeština (CS) (801.42 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-28/11/2022
+**First published:** 01/12/2015 **Last updated:** 28/11/2022
 
 [View](/cs/documents/product-information/genvoya-epar-product-information_cs.pdf)
 
 dansk (DA) (713.21 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-28/11/2022
+**First published:** 01/12/2015 **Last updated:** 28/11/2022
 
 [View](/da/documents/product-information/genvoya-epar-product-information_da.pdf)
 
 Deutsch (DE) (734.37 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-28/11/2022
+**First published:** 01/12/2015 **Last updated:** 28/11/2022
 
 [View](/de/documents/product-information/genvoya-epar-product-information_de.pdf)
 
 eesti keel (ET) (692.67 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-28/11/2022
+**First published:** 01/12/2015 **Last updated:** 28/11/2022
 
 [View](/et/documents/product-information/genvoya-epar-product-information_et.pdf)
 
 ελληνικά (EL) (851.24 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-28/11/2022
+**First published:** 01/12/2015 **Last updated:** 28/11/2022
 
 [View](/el/documents/product-information/genvoya-epar-product-information_el.pdf)
 
 français (FR) (696.86 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-28/11/2022
+**First published:** 01/12/2015 **Last updated:** 28/11/2022
 
 [View](/fr/documents/product-information/genvoya-epar-product-information_fr.pdf)
 
 hrvatski (HR) (777.21 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-28/11/2022
+**First published:** 01/12/2015 **Last updated:** 28/11/2022
 
 [View](/hr/documents/product-information/genvoya-epar-product-information_hr.pdf)
 
 íslenska (IS) (719.86 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-28/11/2022
+**First published:** 01/12/2015 **Last updated:** 28/11/2022
 
 [View](/is/documents/product-information/genvoya-epar-product-information_is.pdf)
 
 italiano (IT) (767.37 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-28/11/2022
+**First published:** 01/12/2015 **Last updated:** 28/11/2022
 
 [View](/it/documents/product-information/genvoya-epar-product-information_it.pdf)
 
 latviešu valoda (LV) (689.6 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-28/11/2022
+**First published:** 01/12/2015 **Last updated:** 28/11/2022
 
 [View](/lv/documents/product-information/genvoya-epar-product-information_lv.pdf)
 
 lietuvių kalba (LT) (792.4 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-28/11/2022
+**First published:** 01/12/2015 **Last updated:** 28/11/2022
 
 [View](/lt/documents/product-information/genvoya-epar-product-information_lt.pdf)
 
 magyar (HU) (728.59 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-28/11/2022
+**First published:** 01/12/2015 **Last updated:** 28/11/2022
 
 [View](/hu/documents/product-information/genvoya-epar-product-information_hu.pdf)
 
 Malti (MT) (849.05 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-28/11/2022
+**First published:** 01/12/2015 **Last updated:** 28/11/2022
 
 [View](/mt/documents/product-information/genvoya-epar-product-information_mt.pdf)
 
 Nederlands (NL) (710.83 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-28/11/2022
+**First published:** 01/12/2015 **Last updated:** 28/11/2022
 
 [View](/nl/documents/product-information/genvoya-epar-product-information_nl.pdf)
 
 norsk (NO) (687.62 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-28/11/2022
+**First published:** 01/12/2015 **Last updated:** 28/11/2022
 
 [View](/no/documents/product-information/genvoya-epar-product-information_no.pdf)
 
 polski (PL) (832.98 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-28/11/2022
+**First published:** 01/12/2015 **Last updated:** 28/11/2022
 
 [View](/pl/documents/product-information/genvoya-epar-product-information_pl.pdf)
 
 português (PT) (717.08 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-28/11/2022
+**First published:** 01/12/2015 **Last updated:** 28/11/2022
 
 [View](/pt/documents/product-information/genvoya-epar-product-information_pt.pdf)
 
 română (RO) (797.55 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-28/11/2022
+**First published:** 01/12/2015 **Last updated:** 28/11/2022
 
 [View](/ro/documents/product-information/genvoya-epar-product-information_ro.pdf)
 
 slovenčina (SK) (801.72 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-28/11/2022
+**First published:** 01/12/2015 **Last updated:** 28/11/2022
 
 [View](/sk/documents/product-information/genvoya-epar-product-information_sk.pdf)
 
 slovenščina (SL) (756.19 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-28/11/2022
+**First published:** 01/12/2015 **Last updated:** 28/11/2022
 
 [View](/sl/documents/product-information/genvoya-epar-product-information_sl.pdf)
 
 Suomi (FI) (697.2 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-28/11/2022
+**First published:** 01/12/2015 **Last updated:** 28/11/2022
 
 [View](/fi/documents/product-information/genvoya-epar-product-information_fi.pdf)
 
 svenska (SV) (584.59 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-28/11/2022
+**First published:** 01/12/2015 **Last updated:** 28/11/2022
 
 [View](/sv/documents/product-information/genvoya-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** X/0079/G 03/10/2022
+**Latest procedure affecting product information:** X/0079/G
+
+03/10/2022
 
 icon globe
 
@@ -715,305 +513,163 @@ Genvoya : EPAR - All Authorised presentations
 
 English (EN) (44.1 KB - PDF)
 
-**First published:** 01/12/2015
-
-**Last updated:** 14/10/2022
+**First published:** 01/12/2015 **Last updated:** 14/10/2022
 
 [View](/en/documents/all-authorised-presentations/genvoya-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-45)
+[Other languages (24)](#file-language-dropdown-73)
 
 български (BG) (69.97 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-14/10/2022
+**First published:** 01/12/2015 **Last updated:** 14/10/2022
 
 [View](/bg/documents/all-authorised-presentations/genvoya-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (61.36 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-14/10/2022
+**First published:** 01/12/2015 **Last updated:** 14/10/2022
 
 [View](/es/documents/all-authorised-presentations/genvoya-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (57.84 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-14/10/2022
+**First published:** 01/12/2015 **Last updated:** 14/10/2022
 
 [View](/cs/documents/all-authorised-presentations/genvoya-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (44.46 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-14/10/2022
+**First published:** 01/12/2015 **Last updated:** 14/10/2022
 
 [View](/da/documents/all-authorised-presentations/genvoya-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (44.4 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-14/10/2022
+**First published:** 01/12/2015 **Last updated:** 14/10/2022
 
 [View](/de/documents/all-authorised-presentations/genvoya-epar-all-authorised-presentations_de.pdf)
 
 eesti keel (ET) (56.82 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-14/10/2022
+**First published:** 01/12/2015 **Last updated:** 14/10/2022
 
 [View](/et/documents/all-authorised-presentations/genvoya-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (59.62 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-14/10/2022
+**First published:** 01/12/2015 **Last updated:** 14/10/2022
 
 [View](/el/documents/all-authorised-presentations/genvoya-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (43.09 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-14/10/2022
+**First published:** 01/12/2015 **Last updated:** 14/10/2022
 
 [View](/fr/documents/all-authorised-presentations/genvoya-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (87.25 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-14/10/2022
+**First published:** 01/12/2015 **Last updated:** 14/10/2022
 
 [View](/hr/documents/all-authorised-presentations/genvoya-epar-all-authorised-presentations_hr.pdf)
 
 íslenska (IS) (45.76 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-14/10/2022
+**First published:** 01/12/2015 **Last updated:** 14/10/2022
 
 [View](/is/documents/all-authorised-presentations/genvoya-epar-all-authorised-presentations_is.pdf)
 
 italiano (IT) (43.5 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-14/10/2022
+**First published:** 01/12/2015 **Last updated:** 14/10/2022
 
 [View](/it/documents/all-authorised-presentations/genvoya-epar-all-authorised-presentations_it.pdf)
 
 latviešu valoda (LV) (50.47 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-14/10/2022
+**First published:** 01/12/2015 **Last updated:** 14/10/2022
 
 [View](/lv/documents/all-authorised-presentations/genvoya-epar-all-authorised-presentations_lv.pdf)
 
 lietuvių kalba (LT) (81.34 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-14/10/2022
+**First published:** 01/12/2015 **Last updated:** 14/10/2022
 
 [View](/lt/documents/all-authorised-presentations/genvoya-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (60.18 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-14/10/2022
+**First published:** 01/12/2015 **Last updated:** 14/10/2022
 
 [View](/hu/documents/all-authorised-presentations/genvoya-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (79.08 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-14/10/2022
+**First published:** 01/12/2015 **Last updated:** 14/10/2022
 
 [View](/mt/documents/all-authorised-presentations/genvoya-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (43.57 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-14/10/2022
+**First published:** 01/12/2015 **Last updated:** 14/10/2022
 
 [View](/nl/documents/all-authorised-presentations/genvoya-epar-all-authorised-presentations_nl.pdf)
 
 norsk (NO) (62.39 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-14/10/2022
+**First published:** 01/12/2015 **Last updated:** 14/10/2022
 
 [View](/no/documents/all-authorised-presentations/genvoya-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (45.07 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-14/10/2022
+**First published:** 01/12/2015 **Last updated:** 14/10/2022
 
 [View](/pl/documents/all-authorised-presentations/genvoya-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (61.95 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-14/10/2022
+**First published:** 01/12/2015 **Last updated:** 14/10/2022
 
 [View](/pt/documents/all-authorised-presentations/genvoya-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (75.12 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-14/10/2022
+**First published:** 01/12/2015 **Last updated:** 14/10/2022
 
 [View](/ro/documents/all-authorised-presentations/genvoya-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (46.27 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-14/10/2022
+**First published:** 01/12/2015 **Last updated:** 14/10/2022
 
 [View](/sk/documents/all-authorised-presentations/genvoya-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (44.37 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-14/10/2022
+**First published:** 01/12/2015 **Last updated:** 14/10/2022
 
 [View](/sl/documents/all-authorised-presentations/genvoya-epar-all-authorised-presentations_sl.pdf)
 
 Suomi (FI) (42.47 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-14/10/2022
+**First published:** 01/12/2015 **Last updated:** 14/10/2022
 
 [View](/fi/documents/all-authorised-presentations/genvoya-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (42.73 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-14/10/2022
+**First published:** 01/12/2015 **Last updated:** 14/10/2022
 
 [View](/sv/documents/all-authorised-presentations/genvoya-epar-all-authorised-presentations_sv.pdf)
 
 ## Product details
 
-Name of medicine Genvoya Active substance
+Name of medicine
+
+Genvoya
+
+Active substance
 
 - elvitegravir
 - cobicistat
@@ -1027,7 +683,13 @@ International non-proprietary name (INN) or common name
 - emtricitabine
 - tenofovir alafenamide
 
-Therapeutic area (MeSH) HIV Infections Anatomical therapeutic chemical (ATC) code J05AR
+Therapeutic area (MeSH)
+
+HIV Infections
+
+Anatomical therapeutic chemical (ATC) code
+
+J05AR
 
 ### Pharmacotherapeutic group
 
@@ -1039,13 +701,27 @@ Genvoya is indicated for the treatment of adults and adolescents (aged 12 years 
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/004042 Marketing authorisation holder
+EMA product number
+
+EMEA/H/C/004042
+
+Marketing authorisation holder
 
 Gilead Sciences Ireland UC
 
 IDA Business &amp; Technology Park
 
-Opinion adopted 24/09/2015 Marketing authorisation issued 19/11/2015 Revision 28
+Opinion adopted
+
+24/09/2015
+
+Marketing authorisation issued
+
+19/11/2015
+
+Revision
+
+29
 
 ## Assessment history
 
@@ -1067,17 +743,23 @@ Genvoya : EPAR - Procedural steps taken and scientific information after authori
 
 English (EN) (375.35 KB - PDF)
 
-**First published:** 31/03/2016
-
-**Last updated:** 28/01/2026
+**First published:** 31/03/2016 **Last updated:** 28/01/2026
 
 [View](/en/documents/procedural-steps-after/genvoya-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
+Genvoya-PAM-0000320343 : EPAR - Assessment report
+
+Adopted Reference Number: EMADOC-1700519818-2797590
+
+English (EN) (436.15 KB - PDF)
+
+**First published:** 08/05/2026
+
+[View](/en/documents/variation-report/genvoya-pam-0000320343-epar-assessment-report_en.pdf)
+
 Genvoya-H-C-004042-X-0079-G : EPAR - Assessment report - Extension
 
-Adopted
-
-Reference Number: EMA/682126/2022
+Adopted Reference Number: EMA/682126/2022
 
 English (EN) (3.01 MB - PDF)
 
@@ -1097,9 +779,7 @@ English (EN) (139.78 KB - PDF)
 
 CHMP post-authorisation summary of positive opinion for Genvoya (X-79-G)
 
-Adopted
-
-Reference Number: EMA/CHMP/126645/2022
+Adopted Reference Number: EMA/CHMP/126645/2022
 
 English (EN) (125.11 KB - PDF)
 
@@ -1123,9 +803,7 @@ Reference Number: EMA/540739/2018
 
 English (EN) (104.25 KB - PDF)
 
-**First published:** 10/08/2018
-
-**Last updated:** 10/08/2018
+**First published:** 10/08/2018 **Last updated:** 10/08/2018
 
 [View](/en/documents/scientific-conclusion/genvoya-h-c-psusa-00010449-201805-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf)
 
@@ -1135,23 +813,17 @@ Reference Number: EMA/776917/2017
 
 English (EN) (1.48 MB - PDF)
 
-**First published:** 23/01/2018
-
-**Last updated:** 23/01/2018
+**First published:** 23/01/2018 **Last updated:** 23/01/2018
 
 [View](/en/documents/variation-report/genvoya-h-c-4042-ii-0026-epar-assessment-report_en.pdf)
 
 CHMP post-authorisation summary of positive opinion for Genvoya (II-26)
 
-Adopted
-
-Reference Number: EMA/CHMP/452568/2017
+Adopted Reference Number: EMA/CHMP/452568/2017
 
 English (EN) (66.62 KB - PDF)
 
-**First published:** 10/11/2017
-
-**Last updated:** 10/11/2017
+**First published:** 10/11/2017 **Last updated:** 10/11/2017
 
 [View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-genvoya-ii-26_en.pdf)
 
@@ -1159,50 +831,48 @@ English (EN) (66.62 KB - PDF)
 
 Genvoya : EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/688326/2015
+Adopted Reference Number: EMA/688326/2015
 
 English (EN) (4.7 MB - PDF)
 
-**First published:** 01/12/2015
-
-**Last updated:** 01/12/2015
+**First published:** 01/12/2015 **Last updated:** 01/12/2015
 
 [View](/en/documents/assessment-report/genvoya-epar-public-assessment-report_en.pdf)
 
 CHMP summary of positive opinion for Genvoya
 
-Adopted
-
-Reference Number: EMA/628515/2015
+Adopted Reference Number: EMA/628515/2015
 
 English (EN) (68.61 KB - PDF)
 
-**First published:** 25/09/2015
-
-**Last updated:** 25/09/2015
+**First published:** 25/09/2015 **Last updated:** 25/09/2015
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-genvoya_en.pdf)
 
-#### News on Genvoya
+## News on Genvoya
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 18-21 July 2022](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-18-21-july-2022) 22/07/2022
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 18-21 July 2022](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-18-21-july-2022)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 6-9 November 2017](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-6-9-november-2017) 10/11/2017
+22/07/2022
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 21-24 September 2015](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-21-24-september-2015) 25/09/2015
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 6-9 November 2017](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-6-9-november-2017)
 
-#### More information on Genvoya
+10/11/2017
+
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 21-24 September 2015](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-21-24-september-2015)
+
+25/09/2015
+
+## More information on Genvoya
 
 - [EMEA-001460-PIP01-13-M05 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001460-pip01-13-m05)
 
-#### Topics
+## Topics
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 28/01/2026
+**This page was last updated on**
+
+08/05/2026
 
 ## Share this page
-
-[Back to top](#main-content)

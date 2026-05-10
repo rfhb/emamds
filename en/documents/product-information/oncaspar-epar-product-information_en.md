@@ -1,20 +1,20 @@
 ---
-document_datetime: 2024-07-09 15:25:20
+document_datetime: 2026-05-07 10:50:54
 document_pages: 35
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/oncaspar-epar-product-information_en.pdf
 document_name: oncaspar-epar-product-information_en.pdf
 version: success
-processing_time: 6.7964181
-conversion_datetime: 2025-12-25 11:05:30.03612
+processing_time: 7.6352648
+conversion_datetime: 2026-05-10 12:38:27.730484
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.17.0
+  docling-jobkit: 1.18.0
+  docling: 2.92.0
+  docling-core: 2.74.1
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.10.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -28,9 +28,7 @@ Oncaspar 750 U/ml powder for solution for injection/infusion.
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
-Each vial contains 3,750 Units (U)** of pegaspargase*.
-
-After reconstitution, 1 ml of solution contains 750 U pegaspargase (750 U/ml).
+Each vial contains 3,750 Units (U)** of pegaspargase*. After reconstitution, 1 ml of solution contains 750 U pegaspargase (750 U/ml).
 
 * The active substance is a covalent conjugate of Escherichia coli -derived L-asparaginase with monomethoxypolyethylene glycol
 
@@ -154,11 +152,9 @@ Increased prothrombin time (PT), increased partial thromboplastin time (PTT), hy
 
 ## Osteonecrosis
 
-In  the  presence  of  glucocorticoids,  osteonecrosis  (avascular  necrosis)  is  a  possible  complication  of hypercoagulability  observed  in  children  and  adolescents  with  a  higher  incidence  seen  in  girls  (see section 4.5 and  4.8). Therefore,  a close  monitoring  in  children  and  adolescents'  patients is recommended in order to detect any clinical signs/symptoms of osteonecrosis. Clinical judgement of
+In  the  presence  of  glucocorticoids,  osteonecrosis  (avascular  necrosis)  is  a  possible  complication  of hypercoagulability observed in children and adolescents with a higher incidence seen in girls (see section 4.5 and 4.8). Therefore, a close monitoring in children and adolescents' patients is recommended in order  to  detect  any  clinical  signs/symptoms  of  osteonecrosis.  Clinical  judgement  of  the  treating physician should guide the management plan of each patient based on individual benefit/risk assessment as per standard guidelines of treatment of ALL and supportive care principles.
 
 <div style=\"page-break-after: always\"></div>
-
-the  treating  physician  should  guide  the  management  plan  of  each  patient  based  on  individual benefit/risk assessment as per standard guidelines of treatment of ALL and supportive care principles.
 
 ## Hepatic effects
 
@@ -200,7 +196,7 @@ Effective non-oral method of contraception must be used during Oncaspar treatmen
 
 ## Sodium content
 
-This medicinal product contains less than 1 mmol sodium (23 mg) per dose, that is to say, essentially 'sodium-free'.
+This medicinal product contains less than 1 mmol sodium (23 mg) per dose, that is to say, essentially 'sodium -free'.
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
@@ -214,17 +210,15 @@ The use of Oncaspar can lead to fluctuation in coagulation factors. This can pro
 
 When glucocorticoids (e.g., prednisone) and pegaspargase are given at the same time, alterations in coagulation parameters (e.g., fall in fibrinogen and antithrombin III deficiency, ATIII) can be more pronounced.
 
-Pegaspargase may  increase the risk of glucocorticoid-induced osteonecrosis in children and adolescents  when  both  treatments  are  given  simultaneously,  with  a  higher  incidence  seen  in  girls, through a potential increase in exposure of dexamethasone. (see sections 4.4 and 4.8).
+Pegaspargase may increase the risk of glucocorticoid-induced osteonecrosis in children and adolescents when both treatments are given simultaneously, with a higher incidence seen in girls, through a potential increase in exposure of dexamethasone. (see sections 4.4 and 4.8).
 
 Immediately preceding or simultaneous treatment with vincristine can increase the toxicity of pegaspargase. Administration of Oncaspar before vincristine may increase the neurotoxicity of vincristine. Therefore, vincristine should be given at least 12 hours prior to administration of Oncaspar in order to minimise toxicity.
 
 An indirect interaction cannot be ruled out between pegaspargase and oral contraceptives due to pegaspargase hepatotoxicity that may impair the hepatic clearance of oral contraceptives. Therefore, the concomitant use of Oncaspar with oral contraceptives is not recommended. Another method than oral contraception should be used in women of childbearing potential (see sections 4.4 and 4.6).
 
-Simultaneous vaccination with live vaccines may increase the risk of severe infections attributable to the immunosuppressive activity of pegaspargase, the presence of the underlying disease and
+Simultaneous vaccination with live vaccines may increase the risk of severe infections attributable to the immunosuppressive activity of pegaspargase, the presence of the underlying disease and combination chemotherapy (see section 4.4). Vaccination with live vaccines should therefore be given no earlier than 3 months after termination of the entire antileukaemic treatment.
 
 <div style=\"page-break-after: always\"></div>
-
-combination chemotherapy (see section 4.4). Vaccination with live vaccines should therefore be given no earlier than 3 months after termination of the entire antileukaemic treatment.
 
 ## 4.6 Fertility, pregnancy and lactation
 
@@ -256,11 +250,9 @@ The adverse reactions described in this section are derived from clinical studie
 
 The most common adverse reactions with Oncaspar (observed in at least 2 studies with a frequency of &gt;10%) included: alanine aminotransferase increased, aspartate aminotransferase increased, blood bilirubin increased, activated partial thromboplastin time prolonged, hypertriglyceridaemia, hyperglycaemia, and febrile neutropenia.
 
-The most common, severe adverse reactions with Oncaspar (graded 3 or 4) observed in studies DFCI 11-001 and AALL07P4 with a frequency of &gt;5% included: alanine aminotransferase increased,
+The most common, severe adverse reactions with Oncaspar (graded 3 or 4) observed in studies DFCI 11-001 and AALL07P4 with a frequency of &gt;5% included: alanine aminotransferase increased, aspartate aminotransferase increased, blood bilirubin increased, febrile neutropenia, hyperglycaemia, lipase increased, and pancreatitis.
 
 <div style=\"page-break-after: always\"></div>
-
-aspartate aminotransferase increased, blood bilirubin increased, febrile neutropenia, hyperglycaemia, lipase increased, and pancreatitis.
 
 ## Tabulated list of adverse reactions
 
@@ -268,39 +260,39 @@ Adverse reactions and their frequencies are reported in Table 1. Frequencies are
 
 Table 1: Adverse reactions reported with Oncaspar therapy
 
-| MedDRA standard system organ class                   | Adverse reaction                                                                                                                                                                                                                                                                                                                               |
-|------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Infections and infestations                          | Common: Infections, sepsis                                                                                                                                                                                                                                                                                                                     |
-| Blood and lymphatic system disorders                 | Very common: Febrile neutropenia                                                                                                                                                                                                                                                                                                               |
-| Blood and lymphatic system disorders                 | Common: Anaemia, coagulopathy                                                                                                                                                                                                                                                                                                                  |
-| Blood and lymphatic system disorders                 | Not known: Bone marrow failure                                                                                                                                                                                                                                                                                                                 |
-| Immune system disorders                              | Very common: Hypersensitivity, urticaria, anaphylactic reaction                                                                                                                                                                                                                                                                                |
-| Immune system disorders                              | Not known: Anaphylactic shock.                                                                                                                                                                                                                                                                                                                 |
-| Metabolism and nutrition disorders                   | Very common: Decreased appetite, hyperglycaemia                                                                                                                                                                                                                                                                                                |
-| Metabolism and nutrition disorders                   | Common: Hyperlipidaemia, hypercholesterolaemia                                                                                                                                                                                                                                                                                                 |
-| Metabolism and nutrition disorders                   | Not known: Diabetic ketoacidosis, hypoglycaemia                                                                                                                                                                                                                                                                                                |
-| Psychiatric disorders                                | Not known: Confusional state                                                                                                                                                                                                                                                                                                                   |
-| Nervous system disorders                             | Common: Seizure, peripheral motor neuropathy, syncope                                                                                                                                                                                                                                                                                          |
-|                                                      | Rare: Posterior reversible leukoencephalopathy syndrome                                                                                                                                                                                                                                                                                        |
-|                                                      | Not known: Somnolence, tremor*                                                                                                                                                                                                                                                                                                                 |
-| Vascular disorders                                   | Very common: Embolism**                                                                                                                                                                                                                                                                                                                        |
-| Vascular disorders                                   | Common: Thrombosis***                                                                                                                                                                                                                                                                                                                          |
-| Vascular disorders                                   | Not known: Cerebrovascular accident, haemorrhage, superior sagittal sinus thrombosis                                                                                                                                                                                                                                                           |
-| Respiratory, thoracic and mediastinal disorders      | Common: Hypoxia                                                                                                                                                                                                                                                                                                                                |
-|                                                      | Very common: Pancreatitis, diarrhoea, abdominal pain, nausea                                                                                                                                                                                                                                                                                   |
-| Gastrointestinal disorders                           | Common: Vomiting, stomatitis, ascites                                                                                                                                                                                                                                                                                                          |
-| Gastrointestinal disorders                           | Rare: Pancreatitis necrotising, pancreatitis                                                                                                                                                                                                                                                                                                   |
-| Gastrointestinal disorders                           | haemorrhagic                                                                                                                                                                                                                                                                                                                                   |
-| Hepatobiliary disorders                              | Not known: Pancreatic pseudocyst, parotitis* Common: Hepatotoxicity, fatty liver                                                                                                                                                                                                                                                               |
-| Hepatobiliary disorders                              | Rare: Hepatic necrosis, jaundice, cholestasis, hepatic failure                                                                                                                                                                                                                                                                                 |
-| Skin and subcutaneous tissue disorders               | Not known: Veno-occlusive disease                                                                                                                                                                                                                                                                                                              |
-|                                                      | Very common: Rash                                                                                                                                                                                                                                                                                                                              |
-|                                                      | Not known: Toxic epidermal necrolysis*                                                                                                                                                                                                                                                                                                         |
-| Musculoskeletal and connective tissue disorders      | Common: Pain in extremities                                                                                                                                                                                                                                                                                                                    |
-| Renal and urinary disorders                          | Not known: Renal failure acute*                                                                                                                                                                                                                                                                                                                |
-|                                                      | Not known: Osteonecrosis (see sections 4.4 and 4.5)                                                                                                                                                                                                                                                                                            |
-| General disorders and administration site conditions | Not known: Pyrexia common: Weight                                                                                                                                                                                                                                                                                                              |
-| Investigations                                       | Very decreased, hypoalbuminaemia, alanine aminotransferase increased, aspartate aminotransferase increased, hypertriglyceridaemia, blood fibrinogen decreased, lipase increased, amylase increased, activated partial thromboplastin time prolonged, blood bilirubin increased, antithrombin III decreased****, neutrophil count decreased**** |
+| MedDRA standard system organ class                   | Adverse reaction                                                                                                                                                                                                                                                                                                                                              |
+|------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Infections and infestations                          | Common: Infections, sepsis                                                                                                                                                                                                                                                                                                                                    |
+| Blood and lymphatic system disorders                 | Very common: Febrile neutropenia                                                                                                                                                                                                                                                                                                                              |
+| Blood and lymphatic system disorders                 | Common: Anaemia, coagulopathy                                                                                                                                                                                                                                                                                                                                 |
+| Blood and lymphatic system disorders                 | Not known: Bone marrow failure                                                                                                                                                                                                                                                                                                                                |
+| Immune system disorders                              | Very common: Hypersensitivity, urticaria, anaphylactic reaction                                                                                                                                                                                                                                                                                               |
+| Immune system disorders                              | Not known: Anaphylactic shock.                                                                                                                                                                                                                                                                                                                                |
+| Metabolism and nutrition disorders                   | Very common: Decreased appetite, hyperglycaemia                                                                                                                                                                                                                                                                                                               |
+| Metabolism and nutrition disorders                   | Common: Hyperlipidaemia, hypercholesterolaemia                                                                                                                                                                                                                                                                                                                |
+| Metabolism and nutrition disorders                   | Not known: Diabetic ketoacidosis, hypoglycaemia                                                                                                                                                                                                                                                                                                               |
+| Psychiatric disorders                                | Not known: Confusional state                                                                                                                                                                                                                                                                                                                                  |
+| Nervous system disorders                             | Common: Seizure, peripheral motor neuropathy, syncope                                                                                                                                                                                                                                                                                                         |
+| Nervous system disorders                             | Rare: Posterior reversible leukoencephalopathy syndrome                                                                                                                                                                                                                                                                                                       |
+| Nervous system disorders                             | Not known: Somnolence, tremor*                                                                                                                                                                                                                                                                                                                                |
+| Vascular disorders                                   | Very common: Embolism**                                                                                                                                                                                                                                                                                                                                       |
+| Vascular disorders                                   | Common: Thrombosis***                                                                                                                                                                                                                                                                                                                                         |
+| Vascular disorders                                   | Not known: Cerebrovascular accident, haemorrhage, superior sagittal sinus thrombosis                                                                                                                                                                                                                                                                          |
+| Respiratory, thoracic and mediastinal disorders      | Common: Hypoxia                                                                                                                                                                                                                                                                                                                                               |
+| Gastrointestinal disorders                           | Very common: Pancreatitis, diarrhoea, abdominal pain, nausea                                                                                                                                                                                                                                                                                                  |
+| Gastrointestinal disorders                           | Common: Vomiting, stomatitis, ascites                                                                                                                                                                                                                                                                                                                         |
+| Gastrointestinal disorders                           | Rare: Pancreatitis necrotising, pancreatitis haemorrhagic                                                                                                                                                                                                                                                                                                     |
+| Gastrointestinal disorders                           | Not known: Pancreatic pseudocyst, parotitis*                                                                                                                                                                                                                                                                                                                  |
+| Hepatobiliary disorders                              | Common: Hepatotoxicity, fatty liver                                                                                                                                                                                                                                                                                                                           |
+| Hepatobiliary disorders                              | Rare: Hepatic necrosis, jaundice, cholestasis, hepatic failure                                                                                                                                                                                                                                                                                                |
+| Hepatobiliary disorders                              | Not known: Veno-occlusive disease                                                                                                                                                                                                                                                                                                                             |
+| Skin and subcutaneous tissue disorders               | Very common: Rash                                                                                                                                                                                                                                                                                                                                             |
+| Skin and subcutaneous tissue disorders               | Not known: Toxic epidermal necrolysis*                                                                                                                                                                                                                                                                                                                        |
+| Musculoskeletal and connective tissue disorders      | Common: Pain in extremities                                                                                                                                                                                                                                                                                                                                   |
+| Musculoskeletal and connective tissue disorders      | Not known: Osteonecrosis (see sections 4.4 and 4.5)                                                                                                                                                                                                                                                                                                           |
+| Renal and urinary disorders                          | Not known: Renal failure acute*                                                                                                                                                                                                                                                                                                                               |
+| General disorders and administration site conditions | Not known: Pyrexia                                                                                                                                                                                                                                                                                                                                            |
+| Investigations                                       | Very common: Weight decreased, hypoalbuminaemia, alanine aminotransferase increased, aspartate aminotransferase increased, hypertriglyceridaemia, blood fibrinogen decreased, lipase increased, amylase increased, activated partial thromboplastin time prolonged, blood bilirubin increased, antithrombin III decreased****, neutrophil count decreased**** |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -323,9 +315,11 @@ Oncaspar may cause central nervous system dysfunctions manifesting as convulsion
 
 ## Gastrointestinal disorders
 
-About half of patients develop mild to moderate gastrointestinal reactions such as loss of appetite, nausea, vomiting, abdominal cramps, diarrhoea and weight loss. Acute pancreatitis can occur commonly. There have been isolated reports of formation of pseudocysts
+About half of patients develop mild to moderate gastrointestinal reactions such as loss of appetite,
 
-(up to four months after the last treatment).
+nausea, vomiting, abdominal cramps, diarrhoea and weight loss.
+
+Acute pancreatitis can occur commonly. There have been isolated reports of formation of pseudocysts (up to four months after the last treatment).
 
 Haemorrhagic or necrotising pancreatitis occurs rarely. One case of pancreatitis with simultaneous acute parotitis has been described with L-asparaginase treatment. In single cases, haemorrhagic or necrotising pancreatitis with fatal outcome has been reported.
 
@@ -337,7 +331,7 @@ Acute renal failure may develop in rare cases during treatment with L-asparagina
 
 ## Skin and subcutaneous tissue disorders
 
-Allergic reactions can manifest on the skin. One case of toxic epidermal necrolysis (Lyell's syndrome) has been described in association with L-asparaginase.
+Allergic reactions can manifest o n the skin. One case of toxic epidermal necrolysis (Lyell's syndrome) has been described in association with L-asparaginase.
 
 ## Endocrine disorders
 
@@ -401,9 +395,9 @@ Anti-leukaemic effect of L-asparaginase is related to a sustained L-asparagine d
 
 In Study CCG-1962, PD effect of Oncaspar was assessed through serial measurements of asparagine in serum (n=57) and CSF (n=50) of newly diagnosed paediatric patients with standard-risk ALL who received three intramuscular doses of Oncaspar (2,500 Units/m 2 BSA), one each during induction and two during delayed intensification treatment phases. A reduction in serum asparagine concentration was evident by the 4th day after the first Induction dose and reached an apparent nadir by the 10th day after the dose. Serum asparagine concentrations of approximately 1 µM persisted for approximately 3 weeks. Asparagine concentration fell to &lt;3 µM when asparaginase activity was &gt;0.1 U/mL. CSF asparagine of 2.3 µM pre-treatment fell to 1.1 µM on Day 7 and 0.6 µM on Day 28 of Induction (see Clinical efficacy and safety).
 
-In Study AALL07P4, the PD effect of Oncaspar was assessed in 47 evaluable subjects with high risk B-precursor ALL who received intravenous doses of Oncaspar 2,500 U/m 2 BSA during the Induction and Consolidation phases. Plasma L-asparagine concentrations were depleted to below the assay limit of quantification within 24 hours following the Induction and first Consolidation dose of Oncaspar and depletion was sustained for approximately two weeks. CSF asparagine concentrations were reduced by the 4th day following the Induction dose, and remained largely undetectable by the 18th day after dosing.
+In Study AALL07P4, the PD effect of Oncaspar was assessed in 47 evaluable subjects with high risk B-precursor ALL who received intravenous doses of Oncaspar 2,500 U/m 2  BSA during the Induction and Consolidation phases. Plasma L-asparagine concentrations were depleted to below the assay limit of quantification within 24 hours following the Induction and first Consolidation dose of Oncaspar and depletion was sustained for approximately two weeks. CSF asparagine concentrations were reduced by the 4th day following the Induction dose, and remained largely undetectable by the 18th day after dosing.
 
-Based on results from these two studies, a 2,500 U/m 2 BSA dose of Oncaspar administered intramuscular (CCG-1962) and intravenous (AALL07P4) provides maintenance of L-asparagine depletion for approximately two weeks following dosing.
+Based on results from these two studies, a 2,500 U/m 2  BSA dose of Oncaspar administered intramuscular (CCG-1962) and intravenous (AALL07P4) provides maintenance of L-asparagine depletion for approximately two weeks following dosing.
 
 ## Clinical efficacy and safety
 
@@ -413,25 +407,23 @@ Oncaspar efficacy in ALL in patients with relapse/refractory disease and a histo
 
 ## First-Line (ALL patients non-hypersensitive to native E. coli L-asparaginase)
 
-The safety and efficacy of Oncaspar was evaluated in an open-label, multicentre, randomised, active-controlled study (Study CCG-1962). In this study, 118 paediatric patients aged 1 to 9 years with previously untreated standard-risk ALL were randomised 1:1 to Oncaspar or native E. coli L-asparaginase as part of combination therapy. Oncaspar was administered intramuscularly at a dose of 2,500 Units/m 2 BSA on Day 3 of the 4-week Induction phase and on Day 3 of each of two 8-week Delayed Intensification (DI) phases. Native E. coli L-asparaginase was administered intramuscularly
+The safety and efficacy of Oncaspar was evaluated in an open-label, multicentre, randomised, active-controlled study (Study CCG-1962). In this study, 118 paediatric patients aged 1 to 9 years with previously untreated standard-risk ALL were randomised 1:1 to Oncaspar or native E. coli L-asparaginase as part of combination therapy. Oncaspar was administered intramuscularly at a dose of 2,500 Units/m 2  BSA on Day 3 of the 4-week Induction phase and on Day 3 of each of two 8-week Delayed Intensification (DI) phases. Native E. coli L-asparaginase was administered intramuscularly at a dose of 6,000 Units/m 2 BSA three times weekly for a total of 9 doses during induction and for a total of 6 doses during each delayed intensification phase.
 
 <div style=\"page-break-after: always\"></div>
 
-at a dose of 6,000 Units/m 2 BSA three times weekly for a total of 9 doses during induction and for a total of 6 doses during each delayed intensification phase.
-
-The primary determination of efficacy was based on demonstration of similar asparagine depletion (magnitude and duration) in the Oncaspar and native E. coli L-asparaginase arms. The protocol-specified goal was achievement of asparagine depletion to a serum concentration of ≤ 1 µ M. The proportion of patients with this level of depletion was similar between the 2 study arms during all 3 phases of treatment at the protocol-specified time points.
+The primary determination of efficacy was based on demonstration of similar asparagine depletion (magnitude and duration) in the Oncaspar and native E. coli L-asparaginase arms. The protocol-specified goal was achievement of asparagine depletion to a serum concentration of  1  M. The proportion of patients with this level of depletion was similar between the 2 study arms during all 3 phases of treatment at the protocol-specified time points.
 
 In all phases of treatment, serum asparagine concentrations decreased within 4 days of the first dose of asparaginase in the treatment phase and remained low for approximately 3 weeks for both Oncaspar and native E. coli L-asparaginase arms. Serum asparagine concentrations during the induction phase are shown in Figure 1. The patterns of serum asparagine depletion in the 2 delayed intensification phases are similar to the pattern of serum asparagine depletion in the induction phase.
 
-Figure 1: Mean ( ± standard error) serum asparagine during Study CCG-1962 induction phase
+Figure 1: Mean (  standard error) serum asparagine during Study CCG-1962 induction phase
 
 Asparagine (µM)
 
 <!-- image -->
 
-Note: Oncaspar (2,500 Units/m 2 BSA intramuscular) was administered on Day 3 of the 4-week induction phase. Native E. coli L-asparaginase (6,000 Units/m 2 BSA intramuscular) was administered 3 times weekly for 9 doses during induction.
+Note: Oncaspar (2,500 Units/m 2  BSA intramuscular) was administered on Day 3 of the 4-week induction phase. Native E. coli L-asparaginase (6,000 Units/m 2  BSA intramuscular) was administered 3 times weekly for 9 doses during induction.
 
-CSF asparagine concentrations were determined in 50 patients during the induction phase. CSF asparagine decreased from a mean pre-treatment concentration of 3.1 µM to 1.7 µM on Day 4 ± 1 and 1.5 µM at 25 ± 1 days after administration of Oncaspar. These findings were similar to those observed in the native E. coli L-asparaginase treatment arm.
+CSF asparagine concentrations were determined in 50 patients during the induction phase. CSF asparagine decreased from a mean pre-treatment concentration of 3.1 µM to 1.7 µM on Day 4  1 and 1.5 µM at 25  1 days after administration of Oncaspar. These findings were similar to those observed in the native E. coli L-asparaginase treatment arm.
 
 Event-free survival (EFS) for the Oncaspar and native E. coli L-asparaginase arms is summarised in Table 2, Study CCG-1962 was not designed to evaluate differences in EFS rates.
 
@@ -440,16 +432,14 @@ Table 2: Event-free survival rate at 3, 5 and 7 years (Study CCG-1962)
 |                            | Oncaspar    | native E. coli L-asparaginase   |
 |----------------------------|-------------|---------------------------------|
 | 3-Year EFS Rate,% (95% CI) | 83 (73, 93) | 79 (68, 90)                     |
-| 5-Year EFS Rate,% (95% CI) | 78 (67, 88) | 73                              |
-|                            |             | (61, 85)                        |
+| 5-Year EFS Rate,% CI)      | 78          | 73                              |
+| (95%                       | (67, 88)    | (61, 85)                        |
 | 7-Year EFS Rate,%          | 75          | 66                              |
 | (95% CI)                   | (63, 87)    | (52, 80)                        |
 
-In Study CCG-1962, the most common adverse reactions were infections, including two life-threatening infections (1 patient in each arm). In general, incidence and type of adverse reactions Grade 3 and 4 were similar between the two treatment groups. Two patients in the Oncaspar arm had
+In Study CCG-1962, the most common adverse reactions were infections, including two life-threatening infections (1 patient in each arm). In general, incidence and type of adverse reactions Grade 3 and 4 were similar between the two treatment groups. Two patients in the Oncaspar arm had allergic reactions during Delayed Intensification (DI) DI #1 (Grade 1 allergic reaction and Grade 3 hives).
 
 <div style=\"page-break-after: always\"></div>
-
-allergic reactions during Delayed Intensification (DI) DI #1 (Grade 1 allergic reaction and Grade 3 hives).
 
 A pilot study was conducted for newly diagnosed patients from 1 to &lt;31 years of age with high risk B-precursor ALL (Study AALL07P4). This was an open label, controlled, randomised study comparing an investigational pegylated asparaginase product to Oncaspar as a component of multi-agent chemotherapy in the first line treatment of ALL. White blood cell (WBC) criteria were: a) Age 1-10 years: WBC ≥50,000/μL; b) Age 10-30 years: Any WBC; c) Prior steroid therapy: Any WBC. Patients were not allowed prior cytotoxic chemotherapy with the exception of steroids and intrathecal cytarabine. A total of 166 patients were enrolled in this study; 54 patients were randomised to treatment with 2,500 U/m 2 BSA Oncaspar and 111 patients were randomised to the investigational pegylated asparaginase product. Oncaspar was administered intravenously at the dose of 2,500 Units/m 2 BSA during Induction, Consolidation, Delayed Intensification, and Interim Maintenance phases in patients with high-risk ALL receiving augmented Berlin-Frankfurt-Münster therapy. The percentage of patients in the Oncaspar treatment arm with evaluable minimal residual disease (MRD) negative status (&lt;0.1% leukaemia cells in bone marrow) at Day 29 of Induction was 80% (40/50). At 4-years, the EFS and overall survival (OS) for the Oncaspar treatment arm were 81.8% [95% CI 62.9-91.7%] and 90.4% [95% CI 78.5-95.9%], respectively. Overall, in the group receiving Oncaspar, the rate of all grade hypersensitivity was 5.8%, anaphylactic reactions was 19.2%, and pancreatitis 7.7%. Grade 3 or higher febrile neutropenia was 15.4%.
 
@@ -461,29 +451,27 @@ Six open-label studies evaluated Oncaspar in relapse/refractory haematological d
 
 ## 5.2 Pharmacokinetic properties
 
-Oncaspar pharmacokinetic properties were based on asparaginase activity measured by an enzymatic assay after intramuscular (CCG-1962) and intravenous (AALL07P4, DFCI 11-001) administration.
+Oncaspar pharmacokinetic properties were based on asparaginase activity measured by an enzymatic assay after intramuscular (CCG-1962)   and intravenous (AALL07P4, DFCI 11-001) administration.
 
-In Study CCG-1962, mean asparaginase activity reached peak value of 1 U/mL on Day 5 after the injection. The mean half-life after absorption from the injection site was 1.7 days and the elimination
+In Study CCG-1962, mean asparaginase activity reached peak value of 1 U/mL on Day 5 after the injection. The mean half-life after absorption from the injection site was 1.7 days and the elimination half-life was 5.5 days. The volume of distribution at steady-state and clearance were estimated at 1.86 L/m 2 and 0.169 L/m 2 per day, respectively.
 
 <div style=\"page-break-after: always\"></div>
 
-half-life was 5.5 days. The volume of distribution at steady-state and clearance were estimated at 1.86 L/m 2 and 0.169 L/m 2 per day, respectively.
-
-In Study AALL07P4, PK parameters after a single 2,500 U/m 2 intravenous dose during Induction were calculated by noncompartmental PK analysis from sequential plasma samples and are depicted in Table 3 (see section 5.1). The Cmax and AUC of Oncaspar trended lower in males, subjects with larger BMI, and subjects &gt;10 years. During Induction, following a single intravenous dose of Oncaspar 2,500 U/m 2 , as paraginase activity ≥0.1 U/mL was sustained for up to 18 days post-dose in 95.3% of subjects.
+In Study AALL07P4, PK parameters after a single 2,500 U/m 2  intravenous dose during Induction were calculated by noncompartmental PK analysis from sequential plasma samples and are depicted in Table 3 (see section 5.1). The Cmax and AUC of Oncaspar trended lower in males, subjects with larger BMI, and subjects &gt;10 years. During Induction, following a single intravenous dose of Oncaspar 2,500 U/m 2 , asparaginase activity ≥0.1 U/mL was sustained for up to 18 days post-dose in 95.3% of subjects.
 
 Table 3 : Pharmacokinetic Parameters After a Single intravenous Dose of Oncaspar 2,500 U/m 2  BSA During Induction (N=47; Study AALL07P4)
 
-| PK Parameters            | Arithmetic Mean (SD)   |
-|--------------------------|------------------------|
-| C max (mU/mL) *          | 1638 (459.1)           |
-| T max (hr) *             | 1.25 (1.08, 5.33) †    |
-| AUC 0-t (mU  day/mL) *  | 14810 (3555)           |
-| AUC 0- ∞ (mU  day/mL) ǂ | 16570 (4810)           |
-| t 1/2 (day) ǂ            | 5.33 (2.33)            |
-| CL (L/day) ǂ             | 0.2152 (0.1214)        |
-| Vss (L) ǂ                | 1.95 (1.13)            |
+| PK Parameters             | Arithmetic Mean (SD)   |
+|---------------------------|------------------------|
+| C max (mU/mL) *           | 1638 (459.1)           |
+| T max (hr) *              | 1.25 (1.08, 5.33) †    |
+| AUC 0-t (mU  day/mL) *   | 14810 (3555)           |
+| AUC 0 -  (mU  day/mL) ǂ | 16570 (4810)           |
+| t 1/2 (day) ǂ             | 5.33 (2.33)            |
+| CL (L/day) ǂ              | 0.2152 (0.1214)        |
+| Vss (L) ǂ                 | 1.95 (1.13)            |
 
-In Study DFCI 11-001, assessments of asparaginase activity were performed following a single intravenous dose of Oncaspar 2,500 U/m 2 BSA during Induction, and every two weeks during post-Induction (see section 5.1). During Induction, plasma asparaginase activity ≥0.1 U/mL was sustained in 93.5% of subjects 18 days after administration. During the post-Induction phase, a nadir (trough) asparaginase activity above 0.4 U/mL was sustained in 100% of subjects from Week 7 up until Week 25. These results indicate that, when Oncaspar 2,500 U/m 2 BSA is administered as single and repeated doses every two weeks, clinically relevant asparaginase activity is sustained over the entire dosing interval (i.e., two weeks).
+In Study DFCI 11-001, assessments of asparaginase activity were performed following a single intravenous dose of Oncaspar 2,500 U/m 2  BSA during Induction, and every two weeks during post-Induction (see section 5.1). During Induction, plasma asparaginase activity ≥0.1 U/mL was sustained in 93.5% of subjects 18 days after administration. During the post-Induction phase, a nadir (trough) asparaginase activity above 0.4 U/mL was sustained in 100% of subjects from Week 7 up until Week 25. These results indicate that, when Oncaspar 2,500 U/m 2 BSA is administered as single and repeated doses every two weeks, clinically relevant asparaginase activity is sustained over the entire dosing interval (i.e., two weeks).
 
 Patients with newly diagnosed ALL received a single intramuscular injection of Oncaspar (2,500 U/m² BSA) or native asparaginase from E. coli (25,000 U/m² BSA) or from Erwinia (25,000 U/m² BSA). The plasma elimination half-life of Oncaspar was statistically significantly longer (5.7 days) than the plasma elimination half-lives of the native asparaginases from E. coli (1.3 days) and Erwinia (0.65 days). The immediate cell death of leukaemic cells in vivo , measured by rhodamine fluorescence, was the same for all three L-asparaginase preparations.
 
@@ -507,7 +495,7 @@ Pharmacokinetic/pharmacodynamic nonclinical comparability between the two pharma
 
 ## Acute toxicity
 
-Only very high doses of pegaspargase given to mice intraperitoneally as a single dose (25,000 100,000 U/kg body weight) caused the death of 14% of all treated mice. Mild hepatotoxicity was observed with the same doses. Adverse reactions were loss of body weight, piloerection and reduced activity. Reduced splenic weight might be a sign of potential immunosuppressant effect of the treatment.
+Only very high doses of pegaspargase given to mice intraperitoneally as a single dose (25,000 -100,000 U/kg body weight) caused the death of 14% of all treated mice. Mild hepatotoxicity was observed with the same doses. Adverse reactions were loss of body weight, piloerection and reduced activity. Reduced splenic weight might be a sign of potential immunosuppressant effect of the treatment.
 
 Pegaspargase was well tolerated both in rats and dogs when administered intravenously in single doses up to 500 U/kg body weight.
 
@@ -561,7 +549,7 @@ Chemical and physical in-use stability has been demonstrated for 48 hours at 2°
 
 ## 6.4 Special precautions for storage
 
-Store in a refrigerator (2°C-8°C). Do not freeze.
+Store in a refrigerator (2°C -8°C). Do not freeze.
 
 For storage conditions of the reconstituted and diluted medicinal product, see section 6.3.
 
@@ -759,7 +747,7 @@ EU/1/15/1070/002
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
@@ -789,7 +777,7 @@ Oncaspar 750 U/ml powder for solution for injection/infusion. pegaspargase For i
 
 ## 2. METHOD OF ADMINISTRATION
 
-## 3. EXPIRY DATE
+3. EXPIRY DATE
 
 EXP
 
@@ -1002,11 +990,9 @@ Talk to your doctor if you get any of the following:
 
 ## Reporting of side effects
 
-If you get any side effects you think might be related to your chemotherapy , talk to your doctor. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via
+If you get any side effects you think might be related to your chemotherapy , talk to your doctor. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
 
 <div style=\"page-break-after: always\"></div>
-
-the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
 
 ## 5. How to store Oncaspar
 
@@ -1014,7 +1000,7 @@ Keep this medicine out of the sight and reach of children.
 
 Do not use this medicine after the expiry date which is stated on the label and carton after EXP. The expiry date refers to the last day of that month.
 
-Store in a refrigerator (2°C-8°C). Do not freeze.
+Store in a refrigerator (2°C -8°C). Do not freeze.
 
 After the medicine has been reconstituted and diluted, the solution should be used immediately. If immediate use is not possible, the diluted solution can be stored at 2°C-8°C for up to 48 hours.
 
@@ -1040,7 +1026,9 @@ Each pack contains 1 glass vial with 3,750 U pegaspargase.
 
 ## Marketing Authorisation Holder
 
-Les Laboratoires Servier 50, rue Carnot 92284 Suresnes cedex France
+Les Laboratoires Servier 50, rue Carnot 92284 Suresnes cedex
+
+France
 
 ## Manufacturer
 
@@ -1066,7 +1054,7 @@ Servier s.r.o. Tel: +420 222 118 111
 
 ## Danmark
 
-Servier Danmark A/S Tlf: +45 36 44 22 60
+Servier Danmark A/S Tlf.: +45 36 44 22 60
 
 ## Deutschland
 
@@ -1086,15 +1074,11 @@ Laboratorios Servier S.L. Tel: + 34 91 748 96 30
 
 ## France
 
-Les Laboratoires Servier
-
-Tél: + 33 (0)1 55 72 60 00
+Les Laboratoires Servier Tél: + 33 (0)1 55 72 60 00
 
 ## Hrvatska
 
-Servier Pharma, d. o. o.
-
-Tel: + 385 (0)1 3016 222
+Servier Pharma, d. o. o. Tel: + 385 (0)1 3016 222
 
 ## Ireland
 
@@ -1122,7 +1106,7 @@ S.A. Servier Benelux N.V. Tel: +32 (0)2 529 43 11
 
 ## Magyarország
 
-Servier Hungaria Kft. Tel: +36 1 238 7799
+Servier Hungaria Kft. Tel.: +36 1 238 7799
 
 ## Malta
 
@@ -1142,7 +1126,7 @@ Servier Austria GmbH Tel: +43 (1) 524 39 99
 
 ## Polska
 
-Servier Polska Sp. z o.o. Tel: + 48 (0) 22 594 90 00
+Servier Polska Sp. z o.o. Tel.: + 48 (0) 22 594 90 00
 
 ## Portugal
 
@@ -1162,21 +1146,17 @@ Servier Slovensko spol. s r.o. Tel: + 421 2 5920 41 11
 
 ## Suomi/Finland
 
-Servier Finland Oy P. /Tel: +358 (0)9 279 80 80
+Servier Finland Oy Puh /Tel: +358 (0)40 901 2978
 
 ## Sverige
 
-Servier Sverige AB Tel : +46 (0)8 522 508 00
-
-## United Kingdom (Northern Ireland)
-
-Servier Laboratories (Ireland) Ltd.Tel: +44 (0)1753 666409
+Servier Sverige AB Tel: +46 (0)8 522 508 00
 
 <div style=\"page-break-after: always\"></div>
 
 ## This leaflet was last revised in
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
 ---------------------------------------------------------------------------------------------------------------------------
 

@@ -4,8 +4,8 @@ document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/humira.html
 document_name: humira.html
 version: success
-processing_time: 0.2280504
-conversion_datetime: 2026-05-10 13:14:12.801199
+processing_time: 0.2224065
+conversion_datetime: 2026-05-10 13:15:46.852106
 docling_version:
   docling-serve: 1.17.0
   docling-jobkit: 1.18.0

@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-10-15 18:34:52
+document_datetime: 2026-05-07 16:27:31
 document_pages: 70
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/duloxetine-viatris-epar-product-information_en.pdf
 document_name: duloxetine-viatris-epar-product-information_en.pdf
 version: success
-processing_time: 14.7024217
-conversion_datetime: 2025-12-14 15:41:48.567473
+processing_time: 16.4524171
+conversion_datetime: 2026-05-10 12:13:23.069953
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.17.0
+  docling-jobkit: 1.18.0
+  docling: 2.92.0
+  docling-core: 2.74.1
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.10.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -52,7 +52,7 @@ For the full list of excipients, see section 6.1.
 
 Hard gastro-resistant capsule
 
-## 30 mg capsules
+30 mg capsules
 
 Opaque blue cap and opaque white body approximately 15.9 mm, imprinted in gold ink with 'MYLAN' over 'DL 30' on both the cap and the body.
 
@@ -64,11 +64,7 @@ Opaque blue cap and opaque yellow body approximately 21.7 mm, imprinted in white
 
 ## 4.1 Therapeutic indications
 
-Treatment of major depressive disorder.
-
-Treatment of diabetic peripheral neuropathic pain.
-
-Treatment of generalised anxiety disorder.
+Treatment of major depressive disorder. Treatment of diabetic peripheral neuropathic pain. Treatment of generalised anxiety disorder.
 
 Duloxetine Viatris is indicated in adults.
 
@@ -410,37 +406,15 @@ Within each frequency grouping, undesirable effects are presented in order of de
 | Investigations                                       | Investigations                                       | Investigations                                                                                | Investigations                                       | Investigations                                       | Investigations                                       |
 |                                                      | Weight decrease                                      | Weight increase Blood creatine phosphokinase increased Blood potassium increased              | Blood cholesterol increased                          |                                                      |                                                      |
 
-1  Cases of convulsion and cases of tinnitus have also been reported after treatment discontinuation.
-
-2  Cases of orthostatic hypotension and syncope have been reported especially at the initiation of treatment.
-
-3  See section 4.4.
-
-4  Cases of aggression and anger have been reported particularly early in treatment or after treatment discontinuation.
-
-5  Cases of suicidal ideation and suicidal behaviours have been reported during duloxetine therapy or early after treatment discontinuation (see section 4.4).
-
-6  Estimated frequency of post-marketing surveillance reported adverse reactions; not observed in placebo-controlled clinical trials.
-
-7  Not statistically significantly different from placebo.
-
-8  Estimated frequency based on placebo-controlled clinical trials.
-
-9  Estimated frequency based on all clinical trial data.
-
-10  Falls were more common in the elderly ( ≥ 65 years old).
-
 ## Description of selected adverse reactions
 
 Discontinuation of duloxetine (particularly when abrupt) commonly leads to withdrawal symptoms. Dizziness, sensory disturbances (including paraesthesia or electric shock like sensations, particularly in the head), sleep disturbances (including insomnia and intense dreams), fatigue, somnolence, agitation or anxiety, nausea and/or vomiting, tremor, headache, myalgia, irritability, diarrhoea, hyperhydrosis and vertigo are the most commonly reported reactions.
 
 Generally, for SSRIs and SNRIs, these events are mild to moderate and self-limiting, however, in some patients they may be severe and/or prolonged.  It is therefore advised that when duloxetine treatment is no longer required, gradual discontinuation by dose tapering should be carried out (see sections 4.2 and 4.4).
 
-In the 12 week acute phase of three clinical trials of duloxetine in patients with diabetic neuropathic pain, small but statistically significant increases in fasting blood glucose were observed in duloxetine-treated patients.  HbA1c was stable in both duloxetine-treated and placebo-treated patients.  In the extension phase of these studies, which lasted up to 52 weeks, there was an increase in HbA1c in both the duloxetine and routine care groups, but the mean increase was 0.3% greater in the duloxetine-treated group.  There
+In the 12 week acute phase of three clinical trials of duloxetine in patients with diabetic neuropathic pain, small but statistically significant increases in fasting blood glucose were observed in duloxetine-treated patients.  HbA1c was stable in both duloxetine-treated and placebo-treated patients.  In the extension phase of these studies, which lasted up to 52 weeks, there was an increase in HbA1c in both the duloxetine and routine care groups, but the mean increase was 0.3% greater in the duloxetine-treated group.  There was also a small increase in fasting blood glucose and in total cholesterol in duloxetine-treated patients while those laboratory tests showed a slight decrease in the routine care group.
 
 <div style=\"page-break-after: always\"></div>
-
-was also a small increase in fasting blood glucose and in total cholesterol in duloxetine-treated patients while those laboratory tests showed a slight decrease in the routine care group.
 
 The heart rate-corrected QT interval in duloxetine-treated patients did not differ from that seen in placebo treated patients.  No clinically significant differences were observed for QT, PR, QRS, or QTcB measurements between duloxetine-treated and placebo-treated patients.
 
@@ -516,11 +490,9 @@ In an open label long-term uncontrolled study, the pain reduction in patients re
 
 Duloxetine has not been studied in patients under the age of 7.
 
-Two randomized, double-blind, parallel clinical trials were performed in 800 paediatric patients aged 7 to 17 years with major depressive disorder (see section 4.2).  These two studies included a 10 week placebo
+Two randomized, double-blind, parallel clinical trials were performed in 800 paediatric patients aged 7 to 17 years with major depressive disorder (see section 4.2).  These two studies included a 10 week placebo and active (fluoxetine) controlled acute phase followed by six months period of active controlled extension treatment.  Neither duloxetine (30-120 mg) nor the active control arm (fluoxetine 20-40 mg) statistically separated from placebo on change from baseline to endpoint in the Children´s Depression Rating Scale-Revised (CDRS-R) total score.  Discontinuation due to adverse events was higher in patients taking duloxetine compared with those treated with fluoxetine, mostly due to nausea.  During the 10-week acute treatment period, suicidal behaviours were reported (duloxetine 0/333 [0%], fluoxetine 2/225 [0.9%], placebo 1/220 [0.5%]).  Over the entire 36-week course of the study, 6 out of 333 patients initially randomized to duloxetine and 3 out of 225 patients initially randomized to fluoxetine experienced suicidal behaviour (exposure adjusted incidence 0.039 events per patient year for duloxetine and 0.026 for fluoxetine).  In addition, one patient who transitioned from placebo to duloxetine experienced a suicidal behaviour while taking duloxetine.
 
 <div style=\"page-break-after: always\"></div>
-
-and active (fluoxetine) controlled acute phase followed by six months period of active controlled extension treatment.  Neither duloxetine (30-120 mg) nor the active control arm (fluoxetine 20-40 mg) statistically separated from placebo on change from baseline to endpoint in the Children´s Depression Rating Scale-Revised (CDRS-R) total score.  Discontinuation due to adverse events was higher in patients taking duloxetine compared with those treated with fluoxetine, mostly due to nausea.  During the 10-week acute treatment period, suicidal behaviours were reported (duloxetine 0/333 [0%], fluoxetine 2/225 [0.9%], placebo 1/220 [0.5%]).  Over the entire 36-week course of the study, 6 out of 333 patients initially randomized to duloxetine and 3 out of 225 patients initially randomized to fluoxetine experienced suicidal behaviour (exposure adjusted incidence 0.039 events per patient year for duloxetine and 0.026 for fluoxetine).  In addition, one patient who transitioned from placebo to duloxetine experienced a suicidal behaviour while taking duloxetine.
 
 A randomised, double-blind, placebo-controlled study was performed in 272 patients aged 7-17 years with generalised anxiety disorder.  The study included a 10 week placebo-controlled acute phase, followed by an 18 week extension treatment period.  A flexible dose regimen was used in this study, to allow for slow dose escalation from 30 mg once daily to higher doses (maximum 120 mg once daily).  Treatment with duloxetine showed a statistically significantly greater improvement in GAD symptoms, as measured by PARS severity score for GAD (mean difference between duloxetine and placebo of 2.7 points [95% CI 1.3-4.0]), after 10 weeks of treatment.  The maintenance of the effect has not been evaluated.  There was no statistically significant difference in discontinuation due to adverse events between duloxetine and placebo groups during the 10 week acute treatment phase.  Two patients who transitioned from placebo to duloxetine after the acute phase experienced suicidal behaviours while taking duloxetine during the extension phase.  A conclusion on the overall benefit/risk in this age group has not been established (see also sections 4.2 and 4.8).
 
@@ -534,11 +506,9 @@ Duloxetine is administered as a single enantiomer.  Duloxetine is extensively me
 
 ## Absorption
 
-Duloxetine is well absorbed after oral administration with a Cmax occurring 6 hours post dose.  The absolute oral bioavailability of duloxetine ranged from 32% to 80% (mean of 50%).  Food delays the time
+Duloxetine is well absorbed after oral administration with a Cmax occurring 6 hours post dose.  The absolute oral bioavailability of duloxetine ranged from 32% to 80% (mean of 50%).  Food delays the time to reach the peak concentration from 6 to 10 hours and it marginally decreases the extent of absorption (approximately 11%).  These changes do not have any clinical significance.
 
 <div style=\"page-break-after: always\"></div>
-
-to reach the peak concentration from 6 to 10 hours and it marginally decreases the extent of absorption (approximately 11%).  These changes do not have any clinical significance.
 
 ## Distribution
 
@@ -572,15 +542,13 @@ Moderate liver disease (Child Pugh Class B) affected the pharmacokinetics of dul
 
 ## Breast-feeding mothers
 
-The disposition of duloxetine was studied in 6 lactating women who were at least 12-weeks postpartum. Duloxetine is detected in breast milk, and steady-state concentrations in breast milk are about one-fourth
+The disposition of duloxetine was studied in 6 lactating women who were at least 12-weeks postpartum. Duloxetine is detected in breast milk, and steady-state concentrations in breast milk are about one-fourth those in plasma.  The amount of duloxetine in breast milk is approximately 7 μg/day while on 40 mg twice daily dosing.  Lactation did not influence duloxetine pharmacokinetics.
 
 <div style=\"page-break-after: always\"></div>
 
-those in plasma.  The amount of duloxetine in breast milk is approximately 7 μg/day while on 40 mg twice daily dosing.  Lactation did not influence duloxetine pharmacokinetics.
-
 ## Paediatric population
 
-Pharmacokinetics of duloxetine in paediatric patients aged 7 to 17 years with major depressive disorder following oral administration of 20 to 120 mg once daily dosing regimen was characterized using population modelling analyses  based on data  from 3 studies.   The model-predicted duloxetine steady state  plasma concentrations in paediatric patients were mostly within the concentration range observed in adult patients.
+Pharmacokinetics of duloxetine in paediatric patients aged 7 to 17 years with major depressive disorder following oral administration of 20 to 120 mg once daily dosing regimen was characterized using population modelling analyses based on data from 3 studies.  The model-predicted duloxetine steady state plasma concentrations in paediatric patients were mostly within the concentration range observed in adult patients.
 
 ## 5.3 Preclinical safety data
 
@@ -682,117 +650,56 @@ Viatris Limited Damastown Industrial Park, Mulhuddart, Dublin 15, DUBLIN Ireland
 
 ## 30 mg capsules
 
-EU/1/15/1010/001 7 hard gastro-resistant capsules
-
-EU/1/15/1010/002 28 hard gastro-resistant capsules
-
-EU/1/15/1010/003 98 hard gastro-resistant capsules
-
-EU/1/15/1010/004 7 x 1 hard gastro-resistant capsules
-
-EU/1/15/1010/005 28 x 1 hard gastro-resistant capsules
-
-EU/1/15/1010/006 30 x 1 hard gastro-resistant capsules
-
-EU/1/15/1010/007 30 hard gastro-resistant capsules
-
-EU/1/15/1010/008 100 hard gastro-resistant capsules
-
-EU/1/15/1010/009 250 hard gastro-resistant capsules
-
-EU/1/15/1010/010 500 hard gastro-resistant capsules
-
-EU/1/15/1010/021 14 hard gastro-resistant capsules
-
-EU/1/15/1010/022 7 hard gastro-resistant capsules
+EU/1/15/1010/001 7 hard gastro-resistant capsules EU/1/15/1010/002 28 hard gastro-resistant capsules EU/1/15/1010/003 98 hard gastro-resistant capsules EU/1/15/1010/004 7 x 1 hard gastro-resistant capsules EU/1/15/1010/005 28 x 1 hard gastro-resistant capsules EU/1/15/1010/006 30 x 1 hard gastro-resistant capsules EU/1/15/1010/007 30 hard gastro-resistant capsules EU/1/15/1010/008 100 hard gastro-resistant capsules EU/1/15/1010/009 250 hard gastro-resistant capsules EU/1/15/1010/010 500 hard gastro-resistant capsules EU/1/15/1010/021 14 hard gastro-resistant capsules EU/1/15/1010/022 7 hard gastro-resistant capsules
 
 <div style=\"page-break-after: always\"></div>
 
-EU/1/15/1010/023 14 hard gastro-resistant capsules
-
-EU/1/15/1010/024 28 hard gastro-resistant capsules
-
-EU/1/15/1010/025 98 hard gastro-resistant capsules
-
-EU/1/15/1010/026 7 x 1 hard gastro-resistant capsules
-
-EU/1/15/1010/027 28 x 1 hard gastro-resistant capsules)
-
-EU/1/15/1010/028 30 x 1 hard gastro-resistant capsules
-
-EU/1/15/1010/037 98 hard gastro-resistant capsules (2 packs of 49)
-
-EU/1/15/1010/038 98 hard gastro-resistant capsules (2 packs of 49)
-
-EU/1/15/1010/041 7 hard gastro-resistant capsules
-
-EU/1/15/1010/042 7 x 1 hard gastro-resistant capsules
-
-EU/1/15/1010/043 14 hard gastro-resistant capsules
-
-EU/1/15/1010/044 28 hard gastro-resistant capsules
-
-EU/1/15/1010/045 28 x 1 hard gastro-resistant capsules
-
-EU/1/15/1010/046 49 hard gastro-resistant capsules
-
-EU/1/15/1010/047 98 hard gastro-resistant capsules
-
-EU/1/15/1010/048 98 hard gastro-resistant capsules (2 packs of 49)
+| EU/1/15/1010/023 14 hard gastro-resistant capsules                 |
+|--------------------------------------------------------------------|
+| EU/1/15/1010/024 28 hard gastro-resistant capsules                 |
+| EU/1/15/1010/025 98 hard gastro-resistant capsules                 |
+| EU/1/15/1010/026 7 x 1 hard gastro-resistant capsules              |
+| EU/1/15/1010/027 28 x 1 hard gastro-resistant capsules)            |
+| EU/1/15/1010/028 30 x 1 hard gastro-resistant capsules             |
+| EU/1/15/1010/037 98 hard gastro-resistant capsules (2 packs of 49) |
+| EU/1/15/1010/038 98 hard gastro-resistant capsules (2 packs of 49) |
+| EU/1/15/1010/041 7 hard gastro-resistant capsules                  |
+| EU/1/15/1010/042 7 x 1 hard gastro-resistant capsules              |
+| EU/1/15/1010/043 14 hard gastro-resistant capsules                 |
+| EU/1/15/1010/044 28 hard gastro-resistant capsules                 |
+| EU/1/15/1010/045 28 x 1 hard gastro-resistant capsules             |
+| EU/1/15/1010/046 49 hard gastro-resistant capsules                 |
+| EU/1/15/1010/047 98 hard gastro-resistant capsules                 |
+| EU/1/15/1010/048 98 hard gastro-resistant capsules (2 packs of 49) |
 
 ## 60 mg capsules
 
-EU/1/15/1010/011 28 hard gastro-resistant capsules
-
-EU/1/15/1010/012 84 hard gastro-resistant capsules
-
-EU/1/15/1010/013 98 hard gastro-resistant capsules
-
-EU/1/15/1010/014 28 x 1 hard gastro-resistant capsules
-
-EU/1/15/1010/015 30 x 1 hard gastro-resistant capsules
-
-EU/1/15/1010/016 100 x 1 hard gastro-resistant capsules
-
-EU/1/15/1010/017 30 hard gastro-resistant capsules
-
-EU/1/15/1010/018 100 hard gastro-resistant capsules
-
-EU/1/15/1010/019 250 hard gastro-resistant capsules
-
-EU/1/15/1010/020 500 hard gastro-resistant capsules
-
-EU/1/15/1010/029 28 hard gastro-resistant capsules
-
-EU/1/15/1010/030 84 hard gastro-resistant capsules
-
-EU/1/15/1010/031 98 hard gastro-resistant capsules
-
-EU/1/15/1010/032 28 x 1 hard gastro-resistant capsules
-
-EU/1/15/1010/033 30 x 1 hard gastro-resistant capsules
-
-EU/1/15/1010/034 100 x 1 hard gastro-resistant capsules
-
-EU/1/15/1010/035 14 hard gastro-resistant capsules
-
-EU/1/15/1010/036 14 hard gastro-resistant capsules
-
-EU/1/15/1010/039 98 hard gastro-resistant capsules (2 packs of 49)
-
-EU/1/15/1010/040 98 hard gastro-resistant capsules (2 packs of 49)
-
-EU/1/15/1010/049 14 hard gastro-resistant capsules
-
-EU/1/15/1010/050 28 hard gastro-resistant capsules
-
-EU/1/15/1010/051 28 x 1 hard gastro-resistant capsules
-
-EU/1/15/1010/052 49 hard gastro-resistant capsules
-
-EU/1/15/1010/053 98 hard gastro-resistant capsules
-
-EU/1/15/1010/054 98 hard gastro-resistant capsules (2 packs of 49)
+| EU/1/15/1010/011 28 hard gastro-resistant capsules EU/1/15/1010/012 84 hard gastro-resistant capsules   |
+|---------------------------------------------------------------------------------------------------------|
+| EU/1/15/1010/013 98 hard gastro-resistant capsules                                                      |
+| EU/1/15/1010/014 28 x 1 hard gastro-resistant capsules                                                  |
+| EU/1/15/1010/015 30 x 1 hard gastro-resistant capsules                                                  |
+| EU/1/15/1010/016 100 x 1 hard gastro-resistant capsules                                                 |
+| EU/1/15/1010/017 30 hard gastro-resistant capsules                                                      |
+| EU/1/15/1010/018 100 hard gastro-resistant capsules                                                     |
+| EU/1/15/1010/019 250 hard gastro-resistant capsules                                                     |
+| EU/1/15/1010/020 500 hard gastro-resistant capsules                                                     |
+| EU/1/15/1010/029 28 hard gastro-resistant capsules                                                      |
+| EU/1/15/1010/030 84 hard gastro-resistant capsules                                                      |
+| EU/1/15/1010/031 98 hard gastro-resistant capsules                                                      |
+| EU/1/15/1010/032 28 x 1 hard gastro-resistant capsules                                                  |
+| EU/1/15/1010/033 30 x 1 hard gastro-resistant capsules                                                  |
+| EU/1/15/1010/034 100 x 1 hard gastro-resistant capsules                                                 |
+| EU/1/15/1010/035 14 hard gastro-resistant capsules                                                      |
+| EU/1/15/1010/036 14 hard gastro-resistant capsules                                                      |
+| EU/1/15/1010/039 98 hard gastro-resistant capsules (2 packs of 49)                                      |
+| EU/1/15/1010/040 98 hard gastro-resistant capsules (2 packs of 49)                                      |
+| EU/1/15/1010/049 14 hard gastro-resistant capsules                                                      |
+| EU/1/15/1010/050 28 hard gastro-resistant capsules                                                      |
+| EU/1/15/1010/051 28 x 1 hard gastro-resistant capsules                                                  |
+| EU/1/15/1010/052 49 hard gastro-resistant capsules                                                      |
+| EU/1/15/1010/053 98 hard gastro-resistant capsules                                                      |
+| EU/1/15/1010/054 98 hard gastro-resistant capsules (2 packs of 49)                                      |
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -811,12 +718,9 @@ Detailed information on this medicinal product is available on the website of th
 ## ANNEX II
 
 - A. MANUFACTURER(S) RESPONSIBLE FOR BATCH RELEASE
-
-## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
-
-## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
-
-## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
+- B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
+- C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
+- D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
 <div style=\"page-break-after: always\"></div>
 
@@ -826,7 +730,7 @@ Name and address of the manufacturer(s) responsible for batch release
 
 Mylan Hungary Kft Mylan utca 1 Komárom 2900 Hungary
 
-Mylan Germany GmbH Zweigniederlassung Bad Homburg v. d. Hoehe, Benzstrasse 1 Bad Homburg v. d. Hoehe Hessen, 61352, Germany
+Viatris Germany GmbH Zweigniederlassung Bad Homburg v. d. Hoehe, Benzstrasse 1 Bad Homburg v. d. Hoehe Hessen, 61352, Germany
 
 The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.
 
@@ -967,14 +871,12 @@ EU/1/15/1010/045 28 x 1 hard gastro-resistant capsules
 
 EU/1/15/1010/046 49 hard gastro-resistant capsules
 
-EU/1/15/1010/047 98 hard gastro-resistant capsules
+EU/1/15/1010/047 98 hard gastro-resistant capsules Lot Duloxetine Viatris 30 mg
 
 <div style=\"page-break-after: always\"></div>
 
 | 13.   | BATCH NUMBER   |
 |-------|----------------|
-
-Lot
 
 | 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
 |-------|-------------------------------------|
@@ -985,15 +887,13 @@ Lot
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
 
-Duloxetine Viatris 30 mg
-
-| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
-|-------|----------------------------------|
+| 17. UNIQUE IDENTIFIER - 2D BARCODE   |
+|--------------------------------------|
 
 2D barcode carrying the unique identifier included
 
-| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
-|-------|-------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|-------|------------------------------------------|
 
 PC SN NN
 
@@ -1001,7 +901,7 @@ PC SN NN
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-BLISTER OUTER CARTON FOR MULTIPACK FOR 30 MG HARD GASTRO RESISTANT CAPSULES, WITH BLUE BOX
+## BLISTER OUTER CARTON FOR MULTIPACK FOR 30 MG HARD GASTRO RESISTANT CAPSULES, WITH BLUE BOX
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -1073,14 +973,12 @@ Duloxetine Viatris 30 mg
 
 ## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
-2D barcode carrying the unique identifier included
+2D barcode carrying the unique identifier included PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
-|-------|-------------------------------------------|
-
-PC SN NN
+| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|-------|------------------------------------------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1132,7 +1030,7 @@ EXP
 
 Store in the original package in order to protect from moisture.
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -1152,9 +1050,8 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-## 15. INSTRUCTIONS ON USE
-
-## 16. INFORMATION IN BRAILLE
+15. INSTRUCTIONS ON USE
+16. INFORMATION IN BRAILLE
 
 ## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
@@ -1162,12 +1059,9 @@ Lot
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
-|-------------------------------------------------------|
-| BLISTER FOR 30 MG HARD GASTRO RESISTANT CAPSULES      |
+## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS BLISTER FOR 30 MG HARD GASTRO RESISTANT CAPSULES
 
-| 1.   | NAME OF THE MEDICINAL PRODUCT   |
-|------|---------------------------------|
+## 1. NAME OF THE MEDICINAL PRODUCT
 
 Duloxetine Viatris 30 mg hard gastro-resistant capsules duloxetine
 
@@ -1272,8 +1166,7 @@ EU/1/15/1010/010 500 hard gastro-resistant capsules
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
-
+14. GENERAL CLASSIFICATION FOR SUPPLY
 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
@@ -1282,13 +1175,13 @@ Duloxetine Viatris 30 mg
 
 <div style=\"page-break-after: always\"></div>
 
-| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
-|-------|----------------------------------|
+| 17. UNIQUE IDENTIFIER - 2D BARCODE   |
+|--------------------------------------|
 
 2D barcode carrying the unique identifier included
 
-| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
-|-------|-------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|-------|------------------------------------------|
 
 PC SN NN
 
@@ -1375,16 +1268,14 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-## 15. INSTRUCTIONS ON USE
-
-## 16. INFORMATION IN BRAILLE
-
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+15. INSTRUCTIONS ON USE
+16. INFORMATION IN BRAILLE
+17. UNIQUE IDENTIFIER - 2D BARCODE
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
-|-------|-------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER -HUMAN READABLE DATA   |
+|-------|------------------------------------------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1486,14 +1377,12 @@ EU/1/15/1010/051 28 x 1 hard gastro-resistant capsules
 
 EU/1/15/1010/052 49 hard gastro-resistant capsules
 
-EU/1/15/1010/053 98 hard gastro-resistant capsules
+EU/1/15/1010/053 98 hard gastro-resistant capsules Lot Duloxetine Viatris 60 mg
 
 <div style=\"page-break-after: always\"></div>
 
 | 13.   | BATCH NUMBER   |
 |-------|----------------|
-
-Lot
 
 | 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
 |-------|-------------------------------------|
@@ -1504,15 +1393,13 @@ Lot
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
 
-Duloxetine Viatris 60 mg
-
-| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
-|-------|----------------------------------|
+| 17. UNIQUE IDENTIFIER - 2D BARCODE   |
+|--------------------------------------|
 
 2D barcode carrying the unique identifier included
 
-| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
-|-------|-------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|-------|------------------------------------------|
 
 PC SN NN
 
@@ -1520,7 +1407,7 @@ PC SN NN
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-BLISTER OUTER CARTON FOR MULTIPACK FOR 60 MG HARD GASTRO RESISTANT CAPSULES, WITH BLUE BOX
+## BLISTER OUTER CARTON FOR MULTIPACK FOR 60 MG HARD GASTRO RESISTANT CAPSULES, WITH BLUE BOX
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -1538,7 +1425,7 @@ See leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-Hard gastro-resistant capsules
+## Hard gastro-resistant capsules
 
 Multipack: 98 (2 packs of 49) hard gastro-resistant capsules
 
@@ -1564,11 +1451,19 @@ EXP
 
 Store in the original package in order to protect from moisture.
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Viatris Limited Damastown Industrial Park, Mulhuddart, Dublin 15, DUBLIN Ireland
+Viatris Limited
+
+Damastown Industrial Park,
+
+Mulhuddart, Dublin 15,
+
+DUBLIN
+
+Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1584,7 +1479,7 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-## 15. INSTRUCTIONS ON USE
+15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -1592,14 +1487,12 @@ Duloxetine Viatris 60 mg
 
 ## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
-2D barcode carrying the unique identifier included
+2D barcode carrying the unique identifier included PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
-|-------|-------------------------------------------|
-
-PC SN NN
+| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|-------|------------------------------------------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1669,44 +1562,51 @@ EU/1/15/1010/054 98 hard gastro-resistant capsules (2 packs of 49)
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
-
-## 15. INSTRUCTIONS ON USE
-
-## 16. INFORMATION IN BRAILLE
-
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+14. GENERAL CLASSIFICATION FOR SUPPLY
+15. INSTRUCTIONS ON USE
+16. INFORMATION IN BRAILLE
+17. UNIQUE IDENTIFIER - 2D BARCODE
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
-|-------------------------------------------------------|
-| BLISTER FOR 60 MG HARD GASTRO RESISTANT CAPSULES      |
-
 | 1.   | NAME OF THE MEDICINAL PRODUCT   |
 |------|---------------------------------|
-
-Duloxetine Viatris 60 mg hard gastro-resistant capsules duloxetine
 
 | 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
 |------|----------------------------------------------|
 
-Viatris Limited
-
 | 3.   | EXPIRY DATE   |
 |------|---------------|
-
-EXP
 
 | 4.   | BATCH NUMBER   |
 |------|----------------|
 
-Lot
-
 | 5.   | OTHER   |
 |------|---------|
+
+## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
+
+## BLISTER FOR 60 MG HARD GASTRO RESISTANT CAPSULES
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Duloxetine Viatris 60 mg hard gastro-resistant capsules duloxetine
+
+## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
+
+Viatris Limited
+
+3. EXPIRY DATE
+
+EXP
+
+4. BATCH NUMBER
+
+Lot
+
+## 5. OTHER
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1789,7 +1689,7 @@ EU/1/15/1010/020 500 hard gastro-resistant capsules
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
@@ -1801,13 +1701,13 @@ Duloxetine Viatris 60 mg
 
 <div style=\"page-break-after: always\"></div>
 
-| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
-|-------|----------------------------------|
+| 17. UNIQUE IDENTIFIER - 2D BARCODE   |
+|--------------------------------------|
 
 2D barcode carrying the unique identifier included
 
-| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
-|-------|-------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|-------|------------------------------------------|
 
 PC SN NN
 
@@ -1894,16 +1794,14 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-## 15. INSTRUCTIONS ON USE
-
-## 16. INFORMATION IN BRAILLE
-
+15. INSTRUCTIONS ON USE
+16. INFORMATION IN BRAILLE
 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
-|-------|-------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|-------|------------------------------------------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1913,7 +1811,7 @@ Lot
 
 <div style=\"page-break-after: always\"></div>
 
-Duloxetine Viatris 30 mg hard gastro-resistant capsules Duloxetine Viatris 60 mg hard gastro-resistant capsules duloxetine
+## Duloxetine Viatris 30 mg hard gastro-resistant capsules Duloxetine Viatris 60 mg hard gastro-resistant capsules duloxetine
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
@@ -1966,9 +1864,8 @@ Talk to your doctor if you have high blood pressure or heart disease.  Your doct
 The following are reasons why Duloxetine Viatris may not be suitable for you.  Talk to your doctor before you take Duloxetine Viatris if you:
 
 - -are taking other medicines to treat depression or medicines known as opioids that are used to relieve pain or to treat opioid (narcotic) addiction.
-- The use of these medicines together with Duloxetine Viatris can lead to serotonin syndrome, a
 
-potentially life-threatening condition (see 'Other medicines and Duloxetine Viatris').
+The use of these medicines together with Duloxetine Viatris can lead to serotonin syndrome, a potentially life-threatening condition (see 'Other medicines and Duloxetine Viatris').
 
 - -are taking St. John's Wort, a herbal treatment ( Hypericum perforatum )
 - -have kidney disease
@@ -2028,11 +1925,9 @@ Monoamine oxidase inhibitors (MAOIs): You should not take Duloxetine Viatris if 
 
 Medicines that cause sleepiness: These include medicines prescribed by your doctor including benzodiazepines, strong painkillers, antipsychotics, phenobarbital and antihistamines.
 
-Medicines that increase the level of serotonin: Triptans, tryptophan, SSRIs (such as paroxetine and fluoxetine), SNRIs (such as venlafaxine), tricyclic antidepressants (such as clomipramine, amitriptyline), St John's Wort, MAOIs (such as moclobemide and linezolid), opioids (such as buprenorphine, tramadol and pethidine).  These medicines may interact with Duloxetine Viatris and you may experience symptoms such as involuntary, rhythmic contractions of muscles, including the muscles that control movement of the eye, agitation, hallucinations, coma, excessive sweating, tremor, exaggeration of reflexes, increased
+Medicines that increase the level of serotonin: Triptans, tryptophan, SSRIs (such as paroxetine and fluoxetine), SNRIs (such as venlafaxine), tricyclic antidepressants (such as clomipramine, amitriptyline), St John's Wort, MAOIs (such as moclobemide and linezolid), opioids (such as buprenorphine, tramadol and pethidine).  These medicines may interact with Duloxetine Viatris and you may experience symptoms such as involuntary, rhythmic contractions of muscles, including the muscles that control movement of the eye, agitation, hallucinations, coma, excessive sweating, tremor, exaggeration of reflexes, increased muscle tension, body temperature above 38°C. Contact your doctor when experiencing such symptoms, as these might indicate a potentially life-threatening condition known as serotonin syndrome.
 
 <div style=\"page-break-after: always\"></div>
-
-muscle tension, body temperature above 38°C. Contact your doctor when experiencing such symptoms, as these might indicate a potentially life-threatening condition known as serotonin syndrome.
 
 Oral anticoagulants or antiplatelet agents : Medicines which thin the blood or prevent the blood from clotting.  These medicines might increase the risk of bleeding.
 
@@ -2206,7 +2101,7 @@ The active substance is duloxetine.
 
 Each capsule contains 30 mg or 60 mg of duloxetine (as hydrochloride).
 
-The other ingredients are:
+## The other ingredients are:
 
 Capsule content: Sugar spheres (sucrose, maize starch), hypromellose, Macrogol, Crospovidone, talc, sucrose, hypromellose phthalate, diethyl phthalate.
 
@@ -2232,13 +2127,7 @@ Viatris Limited, Damastown Industrial Park, Mulhuddart, Dublin 15, DUBLIN, Irela
 
 ## Manufacturers
 
-Mylan Hungary Kft., Mylan utca 1, Komárom 2900, Hungary
-
-<div style=\"page-break-after: always\"></div>
-
-Mylan Germany GmbH, Zweigniederlassung Bad Homburg v. d. Hoehe, Benzstrasse 1, Bad Homburg v. d. Hoehe, Hessen, 61352, Germany
-
-For any further information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
+Mylan Hungary Kft., Mylan utca 1, Komárom 2900, Hungary Viatris Germany GmbH, Zweigniederlassung Bad Homburg v. d. Hoehe, Benzstrasse 1, Bad Homburg v. d. Hoehe, Hessen, 61352, Germany For any further information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 ## België/Belgique/Belgien
 
@@ -2254,9 +2143,11 @@ Tel:  +370 5 205 1288
 
 ## България
 
-Майлан ЕООД
+Виатрис ЕООД
 
-Тел: +359 2 44 55 400
+Тел
+
+.: +359 2 44 55 400
 
 ## Luxembourg/Luxemburg
 
@@ -2266,7 +2157,7 @@ Tél/Tel: + 32 (0)2 658 61 00
 
 (Belgique/Belgien)
 
-## Česká republika
+## Č eská republika
 
 Viatris CZ s.r.o.
 
@@ -2318,7 +2209,9 @@ Tlf: +47 66 75 33 00
 
 Viatris Hellas Ltd
 
-Τηλ: +30 2100 100 002
+Τηλ:
+
++30 2100 100 002
 
 ## Österreich
 
@@ -2344,7 +2237,7 @@ Viatris Santé
 
 Tél: +33 4 37 25 75 00
 
-## Portugal
+Portugal
 
 Mylan, Lda.
 
@@ -2362,17 +2255,15 @@ BGP Products SRL
 
 Tel: + 4 0372 579 000
 
+<div style=\"page-break-after: always\"></div>
+
+<div style=\"page-break-after: always\"></div>
+
 ## Ireland
 
 Viatris Limited
 
 Tel: +353 1 8711600
-
-## Slovenija
-
-Viatris d.o.o.
-
-Tel: +386 1 23 63 180
 
 ## Ísland
 
@@ -2380,35 +2271,19 @@ Icepharma hf.
 
 Sími: +354 540 8000
 
-## Slovenská republika
-
-Viatris Slovakia s.r.o.
-
-Tel: +421 2 32 199 100
-
 ## Italia
 
 Viatris Italia S.r.l.
 
 Tel: +39 02 612 46921
 
-## Suomi/Finland
-
-Viatris Oy
-
-Puh/Tel: +358 20 720 9555
-
 ## Κύπρος
 
 CPO Pharmaceuticals Limited
 
-Τηλ: +357 22863100
+Τηλ
 
-## Sverige
-
-Viatris AB
-
-Tel: + 46 (0)8 630 19 00
+: +357 22863100
 
 ## Latvija
 
@@ -2416,8 +2291,30 @@ Viatris SIA
 
 Tel: + 371 676 055 80
 
-<div style=\"page-break-after: always\"></div>
-
 ## This leaflet was last revised in
 
 Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
+
+## Slovenija
+
+Viatris d.o.o.
+
+Tel: +386 1 23 63 180
+
+## Slovenská republika
+
+Viatris Slovakia s.r.o.
+
+Tel: +421 2 32 199 100
+
+## Suomi/Finland
+
+Viatris Oy
+
+Puh/Tel: +358 20 720 9555
+
+## Sverige
+
+Viatris AB
+
+Tel: + 46 (0)8 630 19 00

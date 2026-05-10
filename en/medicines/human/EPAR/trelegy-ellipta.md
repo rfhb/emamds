@@ -1,32 +1,32 @@
 ---
-document_datetime: 2025-12-29 11:15:50
+document_datetime: 2026-05-08 16:05:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/trelegy-ellipta.html
 document_name: trelegy-ellipta.html
 version: success
-processing_time: 0.1205328
-conversion_datetime: 2025-12-31 05:15:23.759818
+processing_time: 0.1323575
+conversion_datetime: 2026-05-10 13:23:37.622777
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.17.0
+  docling-jobkit: 1.18.0
+  docling: 2.92.0
+  docling-core: 2.74.1
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.10.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 # Trelegy Ellipta
 
 [RSS](/en/individual-human-medicine.xml/66704)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-fluticasone furoate / umeclidinium / vilanterol Medicine Human Authorised
+fluticasone furoate / umeclidinium / vilanterol
 
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
+Medicine Human Authorised
 
 Page contents
 
@@ -38,6 +38,7 @@ Page contents
 - [Authorisation details](#authorisation-details)
 - [Assessment history](#assessment-history)
 - [News on Trelegy Ellipta](#news-on)
+- [Product information - with tracked changes](#product-information-with-tracked-changes-85915)
 - [More information on Trelegy Ellipta](#related-medicines)
 - [Topics](#topics)
 
@@ -107,275 +108,141 @@ Trelegy Ellipta : EPAR - Medicine overview
 
 English (EN) (70.63 KB - PDF)
 
-**First published:** 12/01/2018
-
-**Last updated:** 04/01/2019
+**First published:** 12/01/2018 **Last updated:** 04/01/2019
 
 [View](/en/documents/overview/trelegy-ellipta-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-548)
+[Other languages (22)](#file-language-dropdown-121)
 
 български (BG) (104.16 KB - PDF)
 
-**First published:**
-
-12/01/2018
-
-**Last updated:**
-
-04/01/2019
+**First published:** 12/01/2018 **Last updated:** 04/01/2019
 
 [View](/bg/documents/overview/trelegy-ellipta-epar-medicine-overview_bg.pdf)
 
 español (ES) (77.12 KB - PDF)
 
-**First published:**
-
-12/01/2018
-
-**Last updated:**
-
-04/01/2019
+**First published:** 12/01/2018 **Last updated:** 04/01/2019
 
 [View](/es/documents/overview/trelegy-ellipta-epar-medicine-overview_es.pdf)
 
 čeština (CS) (101.79 KB - PDF)
 
-**First published:**
-
-12/01/2018
-
-**Last updated:**
-
-04/01/2019
+**First published:** 12/01/2018 **Last updated:** 04/01/2019
 
 [View](/cs/documents/overview/trelegy-ellipta-epar-medicine-overview_cs.pdf)
 
 dansk (DA) (76.07 KB - PDF)
 
-**First published:**
-
-12/01/2018
-
-**Last updated:**
-
-04/01/2019
+**First published:** 12/01/2018 **Last updated:** 04/01/2019
 
 [View](/da/documents/overview/trelegy-ellipta-epar-medicine-overview_da.pdf)
 
 Deutsch (DE) (77.78 KB - PDF)
 
-**First published:**
-
-12/01/2018
-
-**Last updated:**
-
-04/01/2019
+**First published:** 12/01/2018 **Last updated:** 04/01/2019
 
 [View](/de/documents/overview/trelegy-ellipta-epar-medicine-overview_de.pdf)
 
 eesti keel (ET) (87.47 KB - PDF)
 
-**First published:**
-
-12/01/2018
-
-**Last updated:**
-
-04/01/2019
+**First published:** 12/01/2018 **Last updated:** 04/01/2019
 
 [View](/et/documents/overview/trelegy-ellipta-epar-medicine-overview_et.pdf)
 
 ελληνικά (EL) (115.56 KB - PDF)
 
-**First published:**
-
-12/01/2018
-
-**Last updated:**
-
-04/01/2019
+**First published:** 12/01/2018 **Last updated:** 04/01/2019
 
 [View](/el/documents/overview/trelegy-ellipta-epar-medicine-overview_el.pdf)
 
 français (FR) (78.07 KB - PDF)
 
-**First published:**
-
-12/01/2018
-
-**Last updated:**
-
-04/01/2019
+**First published:** 12/01/2018 **Last updated:** 04/01/2019
 
 [View](/fr/documents/overview/trelegy-ellipta-epar-medicine-overview_fr.pdf)
 
 hrvatski (HR) (97.59 KB - PDF)
 
-**First published:**
-
-12/01/2018
-
-**Last updated:**
-
-04/01/2019
+**First published:** 12/01/2018 **Last updated:** 04/01/2019
 
 [View](/hr/documents/overview/trelegy-ellipta-epar-medicine-overview_hr.pdf)
 
 italiano (IT) (75.97 KB - PDF)
 
-**First published:**
-
-12/01/2018
-
-**Last updated:**
-
-04/01/2019
+**First published:** 12/01/2018 **Last updated:** 04/01/2019
 
 [View](/it/documents/overview/trelegy-ellipta-epar-medicine-overview_it.pdf)
 
 latviešu valoda (LV) (108.47 KB - PDF)
 
-**First published:**
-
-12/01/2018
-
-**Last updated:**
-
-04/01/2019
+**First published:** 12/01/2018 **Last updated:** 04/01/2019
 
 [View](/lv/documents/overview/trelegy-ellipta-epar-medicine-overview_lv.pdf)
 
 lietuvių kalba (LT) (99.96 KB - PDF)
 
-**First published:**
-
-12/01/2018
-
-**Last updated:**
-
-04/01/2019
+**First published:** 12/01/2018 **Last updated:** 04/01/2019
 
 [View](/lt/documents/overview/trelegy-ellipta-epar-medicine-overview_lt.pdf)
 
 magyar (HU) (99.12 KB - PDF)
 
-**First published:**
-
-12/01/2018
-
-**Last updated:**
-
-04/01/2019
+**First published:** 12/01/2018 **Last updated:** 04/01/2019
 
 [View](/hu/documents/overview/trelegy-ellipta-epar-medicine-overview_hu.pdf)
 
 Malti (MT) (104.15 KB - PDF)
 
-**First published:**
-
-12/01/2018
-
-**Last updated:**
-
-04/01/2019
+**First published:** 12/01/2018 **Last updated:** 04/01/2019
 
 [View](/mt/documents/overview/trelegy-ellipta-epar-medicine-overview_mt.pdf)
 
 Nederlands (NL) (76.65 KB - PDF)
 
-**First published:**
-
-12/01/2018
-
-**Last updated:**
-
-04/01/2019
+**First published:** 12/01/2018 **Last updated:** 04/01/2019
 
 [View](/nl/documents/overview/trelegy-ellipta-epar-medicine-overview_nl.pdf)
 
 polski (PL) (102.12 KB - PDF)
 
-**First published:**
-
-12/01/2018
-
-**Last updated:**
-
-04/01/2019
+**First published:** 12/01/2018 **Last updated:** 04/01/2019
 
 [View](/pl/documents/overview/trelegy-ellipta-epar-medicine-overview_pl.pdf)
 
 português (PT) (77.24 KB - PDF)
 
-**First published:**
-
-12/01/2018
-
-**Last updated:**
-
-04/01/2019
+**First published:** 12/01/2018 **Last updated:** 04/01/2019
 
 [View](/pt/documents/overview/trelegy-ellipta-epar-medicine-overview_pt.pdf)
 
 română (RO) (107.36 KB - PDF)
 
-**First published:**
-
-12/01/2018
-
-**Last updated:**
-
-04/01/2019
+**First published:** 12/01/2018 **Last updated:** 04/01/2019
 
 [View](/ro/documents/overview/trelegy-ellipta-epar-medicine-overview_ro.pdf)
 
 slovenčina (SK) (100.64 KB - PDF)
 
-**First published:**
-
-12/01/2018
-
-**Last updated:**
-
-04/01/2019
+**First published:** 12/01/2018 **Last updated:** 04/01/2019
 
 [View](/sk/documents/overview/trelegy-ellipta-epar-medicine-overview_sk.pdf)
 
 slovenščina (SL) (95.79 KB - PDF)
 
-**First published:**
-
-12/01/2018
-
-**Last updated:**
-
-04/01/2019
+**First published:** 12/01/2018 **Last updated:** 04/01/2019
 
 [View](/sl/documents/overview/trelegy-ellipta-epar-medicine-overview_sl.pdf)
 
 Suomi (FI) (75.91 KB - PDF)
 
-**First published:**
-
-12/01/2018
-
-**Last updated:**
-
-04/01/2019
+**First published:** 12/01/2018 **Last updated:** 04/01/2019
 
 [View](/fi/documents/overview/trelegy-ellipta-epar-medicine-overview_fi.pdf)
 
 svenska (SV) (76.58 KB - PDF)
 
-**First published:**
-
-12/01/2018
-
-**Last updated:**
-
-04/01/2019
+**First published:** 12/01/2018 **Last updated:** 04/01/2019
 
 [View](/sv/documents/overview/trelegy-ellipta-epar-medicine-overview_sv.pdf)
 
@@ -391,305 +258,161 @@ English (EN) (2.53 MB - PDF)
 
 Trelegy Ellipta : EPAR - Product Information
 
-English (EN) (779.04 KB - PDF)
+English (EN) (738.78 KB - PDF)
 
-**First published:** 12/01/2018
-
-**Last updated:** 30/10/2023
+**First published:** 12/01/2018 **Last updated:** 08/05/2026
 
 [View](/en/documents/product-information/trelegy-ellipta-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-744)
+[Other languages (24)](#file-language-dropdown-966)
 
-български (BG) (893.03 KB - PDF)
+български (BG) (806.02 KB - PDF)
 
-**First published:**
-
-12/01/2018
-
-**Last updated:**
-
-30/10/2023
+**First published:** 12/01/2018 **Last updated:** 08/05/2026
 
 [View](/bg/documents/product-information/trelegy-ellipta-epar-product-information_bg.pdf)
 
-español (ES) (863.73 KB - PDF)
+español (ES) (883.21 KB - PDF)
 
-**First published:**
-
-12/01/2018
-
-**Last updated:**
-
-30/10/2023
+**First published:** 12/01/2018 **Last updated:** 08/05/2026
 
 [View](/es/documents/product-information/trelegy-ellipta-epar-product-information_es.pdf)
 
-čeština (CS) (1.01 MB - PDF)
+čeština (CS) (798.36 KB - PDF)
 
-**First published:**
-
-12/01/2018
-
-**Last updated:**
-
-30/10/2023
+**First published:** 12/01/2018 **Last updated:** 08/05/2026
 
 [View](/cs/documents/product-information/trelegy-ellipta-epar-product-information_cs.pdf)
 
-dansk (DA) (775.58 KB - PDF)
+dansk (DA) (819.16 KB - PDF)
 
-**First published:**
-
-12/01/2018
-
-**Last updated:**
-
-30/10/2023
+**First published:** 12/01/2018 **Last updated:** 08/05/2026
 
 [View](/da/documents/product-information/trelegy-ellipta-epar-product-information_da.pdf)
 
-Deutsch (DE) (791.44 KB - PDF)
+Deutsch (DE) (1.12 MB - PDF)
 
-**First published:**
-
-12/01/2018
-
-**Last updated:**
-
-30/10/2023
+**First published:** 12/01/2018 **Last updated:** 08/05/2026
 
 [View](/de/documents/product-information/trelegy-ellipta-epar-product-information_de.pdf)
 
-eesti keel (ET) (770.53 KB - PDF)
+eesti keel (ET) (714.14 KB - PDF)
 
-**First published:**
-
-12/01/2018
-
-**Last updated:**
-
-30/10/2023
+**First published:** 12/01/2018 **Last updated:** 08/05/2026
 
 [View](/et/documents/product-information/trelegy-ellipta-epar-product-information_et.pdf)
 
-ελληνικά (EL) (931.97 KB - PDF)
+ελληνικά (EL) (818.91 KB - PDF)
 
-**First published:**
-
-12/01/2018
-
-**Last updated:**
-
-30/10/2023
+**First published:** 12/01/2018 **Last updated:** 08/05/2026
 
 [View](/el/documents/product-information/trelegy-ellipta-epar-product-information_el.pdf)
 
-français (FR) (855.53 KB - PDF)
+français (FR) (848.23 KB - PDF)
 
-**First published:**
-
-12/01/2018
-
-**Last updated:**
-
-30/10/2023
+**First published:** 12/01/2018 **Last updated:** 08/05/2026
 
 [View](/fr/documents/product-information/trelegy-ellipta-epar-product-information_fr.pdf)
 
-hrvatski (HR) (791.22 KB - PDF)
+hrvatski (HR) (737.76 KB - PDF)
 
-**First published:**
-
-12/01/2018
-
-**Last updated:**
-
-30/10/2023
+**First published:** 12/01/2018 **Last updated:** 08/05/2026
 
 [View](/hr/documents/product-information/trelegy-ellipta-epar-product-information_hr.pdf)
 
-íslenska (IS) (1017.33 KB - PDF)
+íslenska (IS) (717.99 KB - PDF)
 
-**First published:**
-
-12/01/2018
-
-**Last updated:**
-
-30/10/2023
+**First published:** 12/01/2018 **Last updated:** 08/05/2026
 
 [View](/is/documents/product-information/trelegy-ellipta-epar-product-information_is.pdf)
 
-italiano (IT) (879.61 KB - PDF)
+italiano (IT) (661.22 KB - PDF)
 
-**First published:**
-
-12/01/2018
-
-**Last updated:**
-
-30/10/2023
+**First published:** 12/01/2018 **Last updated:** 08/05/2026
 
 [View](/it/documents/product-information/trelegy-ellipta-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (865.35 KB - PDF)
+latviešu valoda (LV) (782.25 KB - PDF)
 
-**First published:**
-
-12/01/2018
-
-**Last updated:**
-
-30/10/2023
+**First published:** 12/01/2018 **Last updated:** 08/05/2026
 
 [View](/lv/documents/product-information/trelegy-ellipta-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (843.76 KB - PDF)
+lietuvių kalba (LT) (771.02 KB - PDF)
 
-**First published:**
-
-12/01/2018
-
-**Last updated:**
-
-30/10/2023
+**First published:** 12/01/2018 **Last updated:** 08/05/2026
 
 [View](/lt/documents/product-information/trelegy-ellipta-epar-product-information_lt.pdf)
 
-magyar (HU) (1014.38 KB - PDF)
+magyar (HU) (864.64 KB - PDF)
 
-**First published:**
-
-12/01/2018
-
-**Last updated:**
-
-30/10/2023
+**First published:** 12/01/2018 **Last updated:** 08/05/2026
 
 [View](/hu/documents/product-information/trelegy-ellipta-epar-product-information_hu.pdf)
 
-Malti (MT) (931.85 KB - PDF)
+Malti (MT) (891.82 KB - PDF)
 
-**First published:**
-
-12/01/2018
-
-**Last updated:**
-
-30/10/2023
+**First published:** 12/01/2018 **Last updated:** 08/05/2026
 
 [View](/mt/documents/product-information/trelegy-ellipta-epar-product-information_mt.pdf)
 
-Nederlands (NL) (831.75 KB - PDF)
+Nederlands (NL) (791.02 KB - PDF)
 
-**First published:**
-
-12/01/2018
-
-**Last updated:**
-
-30/10/2023
+**First published:** 12/01/2018 **Last updated:** 08/05/2026
 
 [View](/nl/documents/product-information/trelegy-ellipta-epar-product-information_nl.pdf)
 
-norsk (NO) (959.35 KB - PDF)
+norsk (NO) (911.19 KB - PDF)
 
-**First published:**
-
-12/01/2018
-
-**Last updated:**
-
-30/10/2023
+**First published:** 12/01/2018 **Last updated:** 08/05/2026
 
 [View](/no/documents/product-information/trelegy-ellipta-epar-product-information_no.pdf)
 
-polski (PL) (844.56 KB - PDF)
+polski (PL) (733.98 KB - PDF)
 
-**First published:**
-
-12/01/2018
-
-**Last updated:**
-
-30/10/2023
+**First published:** 12/01/2018 **Last updated:** 08/05/2026
 
 [View](/pl/documents/product-information/trelegy-ellipta-epar-product-information_pl.pdf)
 
-português (PT) (784.15 KB - PDF)
+português (PT) (732.1 KB - PDF)
 
-**First published:**
-
-12/01/2018
-
-**Last updated:**
-
-30/10/2023
+**First published:** 12/01/2018 **Last updated:** 08/05/2026
 
 [View](/pt/documents/product-information/trelegy-ellipta-epar-product-information_pt.pdf)
 
-română (RO) (1015.48 KB - PDF)
+română (RO) (956.42 KB - PDF)
 
-**First published:**
-
-12/01/2018
-
-**Last updated:**
-
-30/10/2023
+**First published:** 12/01/2018 **Last updated:** 08/05/2026
 
 [View](/ro/documents/product-information/trelegy-ellipta-epar-product-information_ro.pdf)
 
-slovenčina (SK) (862.42 KB - PDF)
+slovenčina (SK) (829.92 KB - PDF)
 
-**First published:**
-
-12/01/2018
-
-**Last updated:**
-
-30/10/2023
+**First published:** 12/01/2018 **Last updated:** 08/05/2026
 
 [View](/sk/documents/product-information/trelegy-ellipta-epar-product-information_sk.pdf)
 
-slovenščina (SL) (1.35 MB - PDF)
+slovenščina (SL) (771.54 KB - PDF)
 
-**First published:**
-
-12/01/2018
-
-**Last updated:**
-
-30/10/2023
+**First published:** 12/01/2018 **Last updated:** 08/05/2026
 
 [View](/sl/documents/product-information/trelegy-ellipta-epar-product-information_sl.pdf)
 
-Suomi (FI) (788.24 KB - PDF)
+Suomi (FI) (796.74 KB - PDF)
 
-**First published:**
-
-12/01/2018
-
-**Last updated:**
-
-30/10/2023
+**First published:** 12/01/2018 **Last updated:** 08/05/2026
 
 [View](/fi/documents/product-information/trelegy-ellipta-epar-product-information_fi.pdf)
 
-svenska (SV) (787.44 KB - PDF)
+svenska (SV) (759.01 KB - PDF)
 
-**First published:**
-
-12/01/2018
-
-**Last updated:**
-
-30/10/2023
+**First published:** 12/01/2018 **Last updated:** 08/05/2026
 
 [View](/sv/documents/product-information/trelegy-ellipta-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** PAM/0000248964 25/04/2025
+**Latest procedure affecting product information:** N/0000347286
+
+07/05/2026
 
 icon globe
 
@@ -709,305 +432,163 @@ Trelegy Ellipta : EPAR - All Authorised presentations
 
 English (EN) (23.97 KB - PDF)
 
-**First published:** 12/01/2018
-
-**Last updated:** 12/01/2018
+**First published:** 12/01/2018 **Last updated:** 12/01/2018
 
 [View](/en/documents/all-authorised-presentations/trelegy-ellipta-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-150)
+[Other languages (24)](#file-language-dropdown-356)
 
 български (BG) (57.47 KB - PDF)
 
-**First published:**
-
-12/01/2018
-
-**Last updated:**
-
-12/01/2018
+**First published:** 12/01/2018 **Last updated:** 12/01/2018
 
 [View](/bg/documents/all-authorised-presentations/trelegy-ellipta-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (11.83 KB - PDF)
 
-**First published:**
-
-12/01/2018
-
-**Last updated:**
-
-12/01/2018
+**First published:** 12/01/2018 **Last updated:** 12/01/2018
 
 [View](/es/documents/all-authorised-presentations/trelegy-ellipta-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (37.91 KB - PDF)
 
-**First published:**
-
-12/01/2018
-
-**Last updated:**
-
-12/01/2018
+**First published:** 12/01/2018 **Last updated:** 12/01/2018
 
 [View](/cs/documents/all-authorised-presentations/trelegy-ellipta-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (11.49 KB - PDF)
 
-**First published:**
-
-12/01/2018
-
-**Last updated:**
-
-12/01/2018
+**First published:** 12/01/2018 **Last updated:** 12/01/2018
 
 [View](/da/documents/all-authorised-presentations/trelegy-ellipta-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (15.6 KB - PDF)
 
-**First published:**
-
-12/01/2018
-
-**Last updated:**
-
-12/01/2018
+**First published:** 12/01/2018 **Last updated:** 12/01/2018
 
 [View](/de/documents/all-authorised-presentations/trelegy-ellipta-epar-all-authorised-presentations_de.pdf)
 
 eesti keel (ET) (50.08 KB - PDF)
 
-**First published:**
-
-12/01/2018
-
-**Last updated:**
-
-12/01/2018
+**First published:** 12/01/2018 **Last updated:** 12/01/2018
 
 [View](/et/documents/all-authorised-presentations/trelegy-ellipta-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (36.02 KB - PDF)
 
-**First published:**
-
-12/01/2018
-
-**Last updated:**
-
-12/01/2018
+**First published:** 12/01/2018 **Last updated:** 12/01/2018
 
 [View](/el/documents/all-authorised-presentations/trelegy-ellipta-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (27.55 KB - PDF)
 
-**First published:**
-
-12/01/2018
-
-**Last updated:**
-
-12/01/2018
+**First published:** 12/01/2018 **Last updated:** 12/01/2018
 
 [View](/fr/documents/all-authorised-presentations/trelegy-ellipta-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (22.63 KB - PDF)
 
-**First published:**
-
-12/01/2018
-
-**Last updated:**
-
-12/01/2018
+**First published:** 12/01/2018 **Last updated:** 12/01/2018
 
 [View](/hr/documents/all-authorised-presentations/trelegy-ellipta-epar-all-authorised-presentations_hr.pdf)
 
 íslenska (IS) (99.18 KB - PDF)
 
-**First published:**
-
-12/01/2018
-
-**Last updated:**
-
-12/01/2018
+**First published:** 12/01/2018 **Last updated:** 12/01/2018
 
 [View](/is/documents/all-authorised-presentations/trelegy-ellipta-epar-all-authorised-presentations_is.pdf)
 
 italiano (IT) (91.48 KB - PDF)
 
-**First published:**
-
-12/01/2018
-
-**Last updated:**
-
-12/01/2018
+**First published:** 12/01/2018 **Last updated:** 12/01/2018
 
 [View](/it/documents/all-authorised-presentations/trelegy-ellipta-epar-all-authorised-presentations_it.pdf)
 
 latviešu valoda (LV) (36.14 KB - PDF)
 
-**First published:**
-
-12/01/2018
-
-**Last updated:**
-
-12/01/2018
+**First published:** 12/01/2018 **Last updated:** 12/01/2018
 
 [View](/lv/documents/all-authorised-presentations/trelegy-ellipta-epar-all-authorised-presentations_lv.pdf)
 
 lietuvių kalba (LT) (69.49 KB - PDF)
 
-**First published:**
-
-12/01/2018
-
-**Last updated:**
-
-12/01/2018
+**First published:** 12/01/2018 **Last updated:** 12/01/2018
 
 [View](/lt/documents/all-authorised-presentations/trelegy-ellipta-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (31 KB - PDF)
 
-**First published:**
-
-12/01/2018
-
-**Last updated:**
-
-12/01/2018
+**First published:** 12/01/2018 **Last updated:** 12/01/2018
 
 [View](/hu/documents/all-authorised-presentations/trelegy-ellipta-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (41.43 KB - PDF)
 
-**First published:**
-
-12/01/2018
-
-**Last updated:**
-
-12/01/2018
+**First published:** 12/01/2018 **Last updated:** 12/01/2018
 
 [View](/mt/documents/all-authorised-presentations/trelegy-ellipta-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (11.45 KB - PDF)
 
-**First published:**
-
-12/01/2018
-
-**Last updated:**
-
-12/01/2018
+**First published:** 12/01/2018 **Last updated:** 12/01/2018
 
 [View](/nl/documents/all-authorised-presentations/trelegy-ellipta-epar-all-authorised-presentations_nl.pdf)
 
 norsk (NO) (24.18 KB - PDF)
 
-**First published:**
-
-12/01/2018
-
-**Last updated:**
-
-12/01/2018
+**First published:** 12/01/2018 **Last updated:** 12/01/2018
 
 [View](/no/documents/all-authorised-presentations/trelegy-ellipta-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (51.17 KB - PDF)
 
-**First published:**
-
-12/01/2018
-
-**Last updated:**
-
-12/01/2018
+**First published:** 12/01/2018 **Last updated:** 12/01/2018
 
 [View](/pl/documents/all-authorised-presentations/trelegy-ellipta-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (49.48 KB - PDF)
 
-**First published:**
-
-12/01/2018
-
-**Last updated:**
-
-12/01/2018
+**First published:** 12/01/2018 **Last updated:** 12/01/2018
 
 [View](/pt/documents/all-authorised-presentations/trelegy-ellipta-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (101.17 KB - PDF)
 
-**First published:**
-
-12/01/2018
-
-**Last updated:**
-
-12/01/2018
+**First published:** 12/01/2018 **Last updated:** 12/01/2018
 
 [View](/ro/documents/all-authorised-presentations/trelegy-ellipta-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (39.4 KB - PDF)
 
-**First published:**
-
-12/01/2018
-
-**Last updated:**
-
-12/01/2018
+**First published:** 12/01/2018 **Last updated:** 12/01/2018
 
 [View](/sk/documents/all-authorised-presentations/trelegy-ellipta-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (23.8 KB - PDF)
 
-**First published:**
-
-12/01/2018
-
-**Last updated:**
-
-12/01/2018
+**First published:** 12/01/2018 **Last updated:** 12/01/2018
 
 [View](/sl/documents/all-authorised-presentations/trelegy-ellipta-epar-all-authorised-presentations_sl.pdf)
 
 Suomi (FI) (21.27 KB - PDF)
 
-**First published:**
-
-12/01/2018
-
-**Last updated:**
-
-12/01/2018
+**First published:** 12/01/2018 **Last updated:** 12/01/2018
 
 [View](/fi/documents/all-authorised-presentations/trelegy-ellipta-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (11.68 KB - PDF)
 
-**First published:**
-
-12/01/2018
-
-**Last updated:**
-
-12/01/2018
+**First published:** 12/01/2018 **Last updated:** 12/01/2018
 
 [View](/sv/documents/all-authorised-presentations/trelegy-ellipta-epar-all-authorised-presentations_sv.pdf)
 
 ## Product details
 
-Name of medicine Trelegy Ellipta Active substance
+Name of medicine
+
+Trelegy Ellipta
+
+Active substance
 
 - fluticasone furoate
 - umeclidinium bromide
@@ -1019,7 +600,13 @@ International non-proprietary name (INN) or common name
 - umeclidinium
 - vilanterol
 
-Therapeutic area (MeSH) Pulmonary Disease, Chronic Obstructive Anatomical therapeutic chemical (ATC) code R03AL08
+Therapeutic area (MeSH)
+
+Pulmonary Disease, Chronic Obstructive
+
+Anatomical therapeutic chemical (ATC) code
+
+R03AL08
 
 ### Pharmacotherapeutic group
 
@@ -1031,13 +618,27 @@ Trelegy Ellipta is indicated as a maintenance treatment in adult patients with m
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/004363 Marketing authorisation holder
+EMA product number
+
+EMEA/H/C/004363
+
+Marketing authorisation holder
 
 GlaxoSmithKline Trading Services Limited
 
 12 Riverwalk Citywest Business Campus Dublin 24 D24 YK11 Ireland
 
-Opinion adopted 14/09/2017 Marketing authorisation issued 15/11/2017 Revision 12
+Opinion adopted
+
+14/09/2017
+
+Marketing authorisation issued
+
+15/11/2017
+
+Revision
+
+13
 
 ## Assessment history
 
@@ -1049,9 +650,9 @@ Collapse section
 
 Trelegy Ellipta : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (144.36 KB - PDF)
+English (EN) (150.83 KB - PDF)
 
-**First published:** 05/05/2025
+**First published:** 05/05/2025 **Last updated:** 08/05/2026
 
 [View](/en/documents/procedural-steps-after/trelegy-ellipta-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1059,17 +660,13 @@ Trelegy Ellipta : EPAR - Procedural steps taken and scientific information after
 
 English (EN) (194.26 KB - PDF)
 
-**First published:** 12/06/2018
-
-**Last updated:** 05/05/2025
+**First published:** 12/06/2018 **Last updated:** 05/05/2025
 
 [View](/en/documents/procedural-steps-after/trelegy-ellipta-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 Trelegy Ellipta-PAM-0000248964 : EPAR - Assessment report
 
-Adopted
-
-Reference Number: EMADOC-1700519818-1894726
+Adopted Reference Number: EMADOC-1700519818-1894726
 
 English (EN) (626.65 KB - PDF)
 
@@ -1089,9 +686,7 @@ English (EN) (93.04 KB - PDF)
 
 Trelegy Ellipta-H-C-WS-1683 : EPAR - Assessment report - Variation
 
-Adopted
-
-Reference Number: EMA/198723/2020
+Adopted Reference Number: EMA/198723/2020
 
 English (EN) (4.96 MB - PDF)
 
@@ -1101,9 +696,7 @@ English (EN) (4.96 MB - PDF)
 
 Trelegy Ellipta-H-C-WS-1369 : EPAR - Assessment report - Variation
 
-Adopted
-
-Reference Number: EMA/630775/2018
+Adopted Reference Number: EMA/630775/2018
 
 English (EN) (1.7 MB - PDF)
 
@@ -1113,15 +706,11 @@ English (EN) (1.7 MB - PDF)
 
 CHMP post-authorisation summary of positive opinion for Trelegy Ellipta
 
-Adopted
-
-Reference Number: EMA/CHMP/652421/2018
+Adopted Reference Number: EMA/CHMP/652421/2018
 
 English (EN) (68.48 KB - PDF)
 
-**First published:** 21/09/2018
-
-**Last updated:** 21/09/2018
+**First published:** 21/09/2018 **Last updated:** 21/09/2018
 
 [View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-trelegy-ellipta_en.pdf)
 
@@ -1129,15 +718,11 @@ English (EN) (68.48 KB - PDF)
 
 Trelegy Ellipta : EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/648156/2017
+Adopted Reference Number: EMA/648156/2017
 
 English (EN) (1.1 MB - PDF)
 
-**First published:** 12/01/2018
-
-**Last updated:** 12/01/2018
+**First published:** 12/01/2018 **Last updated:** 12/01/2018
 
 [View](/en/documents/assessment-report/trelegy-ellipta-epar-public-assessment-report_en.pdf)
 
@@ -1147,34 +732,198 @@ Reference Number: EMA/CHMP/244744/2017
 
 English (EN) (82.67 KB - PDF)
 
-**First published:** 15/09/2017
-
-**Last updated:** 15/09/2017
+**First published:** 15/09/2017 **Last updated:** 15/09/2017
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-trelegy-ellipta_en.pdf)
 
-#### News on Trelegy Ellipta
+## News on Trelegy Ellipta
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 22-25 February 2021](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-22-25-february-2021) 26/02/2021
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 22-25 February 2021](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-22-25-february-2021)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 17-20 September 2018](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-17-20-september-2018) 21/09/2018
+26/02/2021
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 17-20 September 2018](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-17-20-september-2018) 21/09/2018
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 17-20 September 2018](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-17-20-september-2018)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 11 to 14 September 2017](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-11-14-september-2017) 15/09/2017
+21/09/2018
 
-#### More information on Trelegy Ellipta
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 17-20 September 2018](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-17-20-september-2018)
+
+21/09/2018
+
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 11 to 14 September 2017](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-11-14-september-2017)
+
+15/09/2017
+
+## Product information - with tracked changes
+
+The approved product information for this medicine is available below showing the changes since the previous procedure affecting the product information. The same document without tracked changes is above under 'Product information'.
+
+Trelegy Ellipta : EPAR - Product information - tracked changes
+
+English (EN) (1.82 MB - DOCX)
+
+**First published:** 08/05/2026
+
+[View](/en/documents/product-information-tracked-changes/trelegy-ellipta-epar-product-information-tracked-changes_en.docx)
+
+[Other languages (24)](#file-language-dropdown-337)
+
+български (BG) (1.22 MB - DOC)
+
+**First published:** 08/05/2026
+
+[View](/bg/documents/product-information-tracked-changes/trelegy-ellipta-epar-product-information-tracked-changes_bg.doc)
+
+español (ES) (1.63 MB - DOCX)
+
+**First published:** 08/05/2026
+
+[View](/es/documents/product-information-tracked-changes/trelegy-ellipta-epar-product-information-tracked-changes_es.docx)
+
+čeština (CS) (953 KB - DOC)
+
+**First published:** 08/05/2026
+
+[View](/cs/documents/product-information-tracked-changes/trelegy-ellipta-epar-product-information-tracked-changes_cs.doc)
+
+dansk (DA) (1.82 MB - DOCX)
+
+**First published:** 08/05/2026
+
+[View](/da/documents/product-information-tracked-changes/trelegy-ellipta-epar-product-information-tracked-changes_da.docx)
+
+Deutsch (DE) (1.33 MB - DOCX)
+
+**First published:** 08/05/2026
+
+[View](/de/documents/product-information-tracked-changes/trelegy-ellipta-epar-product-information-tracked-changes_de.docx)
+
+eesti keel (ET) (1.77 MB - DOCX)
+
+**First published:** 08/05/2026
+
+[View](/et/documents/product-information-tracked-changes/trelegy-ellipta-epar-product-information-tracked-changes_et.docx)
+
+ελληνικά (EL) (1.18 MB - DOCX)
+
+**First published:** 08/05/2026
+
+[View](/el/documents/product-information-tracked-changes/trelegy-ellipta-epar-product-information-tracked-changes_el.docx)
+
+français (FR) (1.34 MB - DOCX)
+
+**First published:** 08/05/2026
+
+[View](/fr/documents/product-information-tracked-changes/trelegy-ellipta-epar-product-information-tracked-changes_fr.docx)
+
+hrvatski (HR) (1.58 MB - DOCX)
+
+**First published:** 08/05/2026
+
+[View](/hr/documents/product-information-tracked-changes/trelegy-ellipta-epar-product-information-tracked-changes_hr.docx)
+
+íslenska (IS) (1.1 MB - DOCX)
+
+**First published:** 08/05/2026
+
+[View](/is/documents/product-information-tracked-changes/trelegy-ellipta-epar-product-information-tracked-changes_is.docx)
+
+italiano (IT) (851 KB - DOC)
+
+**First published:** 08/05/2026
+
+[View](/it/documents/product-information-tracked-changes/trelegy-ellipta-epar-product-information-tracked-changes_it.doc)
+
+latviešu valoda (LV) (1.01 MB - DOCX)
+
+**First published:** 08/05/2026
+
+[View](/lv/documents/product-information-tracked-changes/trelegy-ellipta-epar-product-information-tracked-changes_lv.docx)
+
+lietuvių kalba (LT) (1.4 MB - DOCX)
+
+**First published:** 08/05/2026
+
+[View](/lt/documents/product-information-tracked-changes/trelegy-ellipta-epar-product-information-tracked-changes_lt.docx)
+
+magyar (HU) (1.66 MB - DOCX)
+
+**First published:** 08/05/2026
+
+[View](/hu/documents/product-information-tracked-changes/trelegy-ellipta-epar-product-information-tracked-changes_hu.docx)
+
+Malti (MT) (1.8 MB - DOCX)
+
+**First published:** 08/05/2026
+
+[View](/mt/documents/product-information-tracked-changes/trelegy-ellipta-epar-product-information-tracked-changes_mt.docx)
+
+Nederlands (NL) (1.82 MB - DOCX)
+
+**First published:** 08/05/2026
+
+[View](/nl/documents/product-information-tracked-changes/trelegy-ellipta-epar-product-information-tracked-changes_nl.docx)
+
+norsk (NO) (1.56 MB - DOCX)
+
+**First published:** 08/05/2026
+
+[View](/no/documents/product-information-tracked-changes/trelegy-ellipta-epar-product-information-tracked-changes_no.docx)
+
+polski (PL) (1.61 MB - DOCX)
+
+**First published:** 08/05/2026
+
+[View](/pl/documents/product-information-tracked-changes/trelegy-ellipta-epar-product-information-tracked-changes_pl.docx)
+
+português (PT) (914 KB - DOC)
+
+**First published:** 08/05/2026
+
+[View](/pt/documents/product-information-tracked-changes/trelegy-ellipta-epar-product-information-tracked-changes_pt.doc)
+
+română (RO) (1.55 MB - DOC)
+
+**First published:** 08/05/2026
+
+[View](/ro/documents/product-information-tracked-changes/trelegy-ellipta-epar-product-information-tracked-changes_ro.doc)
+
+slovenčina (SK) (1.85 MB - DOCX)
+
+**First published:** 08/05/2026
+
+[View](/sk/documents/product-information-tracked-changes/trelegy-ellipta-epar-product-information-tracked-changes_sk.docx)
+
+slovenščina (SL) (992.5 KB - DOC)
+
+**First published:** 08/05/2026
+
+[View](/sl/documents/product-information-tracked-changes/trelegy-ellipta-epar-product-information-tracked-changes_sl.doc)
+
+Suomi (FI) (1.21 MB - DOCX)
+
+**First published:** 08/05/2026
+
+[View](/fi/documents/product-information-tracked-changes/trelegy-ellipta-epar-product-information-tracked-changes_fi.docx)
+
+svenska (SV) (1.81 MB - DOCX)
+
+**First published:** 08/05/2026
+
+[View](/sv/documents/product-information-tracked-changes/trelegy-ellipta-epar-product-information-tracked-changes_sv.docx)
+
+## More information on Trelegy Ellipta
 
 - [EMEA-002153-PIP01-17-M01 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-002153-pip01-17-m01)
 - [Cohort study to estimate incidence of pneumonia in users of Trelegy 100 or multiple inhaler triple therapy among patients with chronic obstructive pulmonary disease using health insurance claims data provided by Medical Data Vision Co., Ltd. in Japan (212606) - post-authorisation study](https://catalogues.ema.europa.eu/study/48198)
 - [Trelegy Ellipta general drug use investigation (asthma) - post-authorisation study](https://catalogues.ema.europa.eu/study/44600)
 
-#### Topics
+## Topics
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 05/05/2025
+**This page was last updated on**
+
+08/05/2026
 
 ## Share this page
-
-[Back to top](#main-content)

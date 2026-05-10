@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-01-06 16:22:43
-document_pages: 74
+document_datetime: 2026-05-08 09:36:37
+document_pages: 70
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/pomalidomide-viatris-epar-product-information_en.pdf
 document_name: pomalidomide-viatris-epar-product-information_en.pdf
 version: success
-processing_time: 31.2210296
-conversion_datetime: 2025-12-28 03:15:22.190022
+processing_time: 32.7916062
+conversion_datetime: 2026-05-10 12:48:20.072981
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.17.0
+  docling-jobkit: 1.18.0
+  docling: 2.92.0
+  docling-core: 2.74.1
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.10.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -24,15 +24,21 @@ docling_version:
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Pomalidomide Viatris 1 mg hard capsules Pomalidomide Viatris 2 mg hard capsules Pomalidomide Viatris 3 mg hard capsules Pomalidomide Viatris 4 mg hard capsules
+Pomalidomide Viatris 1 mg hard capsules
+
+Pomalidomide Viatris 2 mg hard capsules
+
+Pomalidomide Viatris 3 mg hard capsules
+
+Pomalidomide Viatris 4 mg hard capsules
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
-## Pomalidomide Viatris 1 mg hard capsules
+Pomalidomide Viatris 1 mg hard capsules
 
 Each hard capsule contains 1 mg of pomalidomide.
 
-## Pomalidomide Viatris 2 mg hard capsules
+Pomalidomide Viatris 2 mg hard capsules
 
 Each hard capsule contains 2 mg of pomalidomide.
 
@@ -40,7 +46,7 @@ Pomalidomide Viatris 3 mg hard capsules
 
 Each hard capsule contains 3 mg of pomalidomide.
 
-## Pomalidomide Viatris 4 mg hard capsules
+Pomalidomide Viatris 4 mg hard capsules
 
 Each hard capsule contains 4 mg of pomalidomide.
 
@@ -50,21 +56,21 @@ For the full list of excipients, see section 6.1.
 
 Hard capsule (capsule)
 
-## Pomalidomide Viatris 1 mg hard capsules
+Pomalidomide Viatris 1 mg hard capsules
 
-Blue opaque cap and light yellow opaque body, imprinted with 'VIATRIS' over 'PM1' in black ink. The gelatin hard capsule is approximately 15.9 mm in length.
+Blue opaque cap and light yellow opaque body, imprinted with 'VIATRIS' over 'PM1' in black ink . The gelatin hard capsule is approximately 15.9 mm in length.
 
 ## Pomalidomide Viatris 2 mg hard capsules
 
-Blue opaque cap and light orange opaque body, imprinted with 'VIATRIS' over 'PM2' in black ink. The gelatin hard capsule is approximately 15.9 mm in length.
+Blue opaque cap and light orange opaque body, imprinted with 'VIATRIS' over 'PM2' in black ink . The gelatin hard capsule is approximately 15.9 mm in length.
 
 ## Pomalidomide Viatris 3 mg hard capsules
 
-Blue opaque cap and light green opaque body, imprinted with 'VIATRIS' over 'PM3' in black ink. The gelatin hard capsule is approximately 18 mm in length.
+Blue opaque cap and light green opaque body, imprinted with 'VIATRIS' over 'PM3' in black ink . The gelatin hard capsule is approximately 18 mm in length.
 
 ## Pomalidomide Viatris 4 mg hard capsules
 
-Blue opaque cap and light blue opaque body, imprinted with 'VIATRIS' over 'PM4' in black ink. The gelatin hard capsule is approximately 18 mm in length.
+Blue opaque cap and light blue opaque body, imprinted with 'VIATRIS' over 'PM4' in black ink . The gelatin hard capsule is approximately 18 mm in length.
 
 ## 4. CLINICAL PARTICULARS
 
@@ -90,35 +96,33 @@ The recommended starting dose of pomalidomide is 4 mg taken orally once daily on
 
 Pomalidomide is administered in combination with bortezomib and dexamethasone, as shown in Table 1.
 
-The recommended starting dose of bortezomib is 1.3 mg/m 2  intravenous or subcutaneous once daily, on the days shown in Table 1. The recommended dose of dexamethasone is 20 mg taken orally once daily, on the days shown in Table 1.
+The recommended starting dose of bortezomib is 1.3 mg/m 2 intravenous or subcutaneous once daily, on the days shown in Table 1. The recommended dose of dexamethasone is 20 mg taken orally once daily, on the days shown in Table 1.
 
 Treatment with pomalidomide combined with bortezomib and dexamethasone should be given until disease progression or until unacceptable toxicity occurs.
 
-## Table 1. Recommended dosing scheme for pomalidomide in combination with bortezomib and dexamethasone
+## Table 1.  Recommended dosing scheme for pomalidomide in combination with bortezomib and dexamethasone
 
-| Cycle 1-8                | Day (of 21-day cycle)   |    |    |    |     |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
-|--------------------------|-------------------------|----|----|----|-----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|
-|                          | 1                       | 2  | 3  | 4  | 5 6 | 7  | 8  | 9  | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 |
-| Pomalidomide (4 mg)      | •                       | •  | •  | •  | • • | •  | •  | •  | •  | •  | •  | •  | •  |    |    |    |    |    |    |    |
-| Bortezomib (1.3 mg/m 2 ) | •                       |    |    | •  |     |    | •  |    |    | •  |    |    |    |    |    |    |    |    |    |    |
-| Dexamethasone (20 mg) *  | •                       | •  |    | •  | •   |    | •  | •  |    | •  | •  |    |    |    |    |    |    |    |    |    |
+| Cycle 1-8                | Day (of 21-day cycle)   |    |    |    |     |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
+|--------------------------|-------------------------|----|----|----|-----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|
+|                          | 1                       | 2  | 3  | 4  | 5 6 | 7  | 8  | 9  | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 19 | 20 | 21 |
+| Pomalidomide (4 mg)      | •                       | •  | •  | •  | • • | •  | •  | •  | •  | •  | •  | •  | •  |    |    |    |    |    |    |
+| Bortezomib (1.3 mg/m 2 ) | •                       |    |    | •  |     |    | •  |    |    | •  |    |    |    |    |    |    |    |    |    |
+| Dexamethasone (20 mg) *  | •                       | •  |    | •  | •   |    | •  | •  |    | •  | •  |    |    |    |    |    |    |    |    |
 
-| Cycle 9 onwards          | Day (of 21-day cycle)   |    |    |    |     |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
-|--------------------------|-------------------------|----|----|----|-----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|
-|                          | 1                       | 2  | 3  | 4  | 5 6 | 7  | 8  | 9  | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 |
-| Pomalidomide (4 mg)      | •                       | •  | •  | •  | • • | •  | •  | •  | •  | •  | •  | •  | •  |    |    |    |    |    |    |    |
-| Bortezomib (1.3 mg/m 2 ) | •                       |    |    |    |     |    | •  |    |    |    |    |    |    |    |    |    |    |    |    |    |
-| Dexamethasone (20 mg) *  | •                       | •  |    |    |     |    | •  | •  |    |    |    |    |    |    |    |    |    |    |    |    |
+| Cycle 9 onwards          | Day (of 21-day cycle)   |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
+|--------------------------|-------------------------|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|
+|                          | 1                       | 2  | 3  | 4  | 5  | 6  | 7  | 8  | 9  | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 |
+| Pomalidomide (4 mg)      | •                       | •  | •  | •  | •  | •  | •  | •  | •  | •  | •  | •  | •  | •  |    |    |    |    |    |    |    |
+| Bortezomib (1.3 mg/m 2 ) | •                       |    |    |    |    |    |    | •  |    |    |    |    |    |    |    |    |    |    |    |    |    |
+| Dexamethasone (20 mg) *  | •                       | •  |    |    |    |    |    | •  | •  |    |    |    |    |    |    |    |    |    |    |    |    |
 
-Pomalidomide dose modification or interruption
+Pomalidomide dose modification or interruption To initiate a new cycle of pomalidomide, the neutrophil count must be  1 x 10 9 /l and the platelet  count must be  50 x 10 9 /l.
 
 <div style=\"page-break-after: always\"></div>
 
-To initiate a new cycle of pomalidomide, the neutrophil count must be  1 x 10 9 /l and the platelet  count must be  50 x 10 9 /l.
-
 Instructions on dose interruptions or reductions for pomalidomide related adverse reactions are outlined in the Table 2 and dose levels are defined in Table 3 below:
 
-Table 2. Pomalidomide dose modification instructions ∞
+Table 2.  Pomalidomide dose modification instructions ∞
 
 | Toxicity                                                                                                                                                                                                                                                     | Dose modification                                                                                                                                                                                            |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -147,7 +151,7 @@ Table 3. Pomalidomide dose reduction ∞
 
 ∞
 
-Dose reduction in this table is applicable to pomalidomide in combination with bortezomib and dexamethasone  and to pomalidomide in combination with dexamethasone.
+Dose reduction in this table is applicable to pomalidomide in combination with bortezomib and dexamethasone and to pomalidomide in combination with dexamethasone.
 
 If adverse reactions occur after dose reductions to 1 mg, then the treatment should be discontinued .
 
@@ -161,11 +165,11 @@ For instructions on dose interruptions or reductions for bortezomib related adve
 
 ## Dexamethasone dose modification or interruption
 
-Instructions on dose interruptions or reductions for low-dose dexamethasone related adverse reactions are outlined in Tables 4 and 5 below. However, dose interruption or resumption decisions are at the physician's discretion per Summary of Product Characteristics (SmPC).
+Instructions on dose interruptions or reductions for low-dose dexamethasone related adverse reactions are outlined in Tables 4 and 5 below. However, dose interruption or resumption decisions are at the physician's discretion per Summary of Product Characte ristics (SmPC).
 
 <div style=\"page-break-after: always\"></div>
 
-Table 4. Dexamethasone dose modification instructions
+Table 4.  Dexamethasone dose modification instructions
 
 | Toxicity                                             | Dose Modification                                                                                                                  |
 |------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|
@@ -180,7 +184,7 @@ Table 4. Dexamethasone dose modification instructions
 
 If recovery from toxicities is prolonged beyond 14 days, then the dose of dexamethasone will be resumed at one dose level lower than the previous dose.
 
-Table 5. Dexamethasone dose reduction
+Table 5.  Dexamethasone dose reduction
 
 | Dose Level    | ≤75 years old Dose (Cycle 1-8: Days 1, 2, 4, 5, 8, 9, 11, 12 of a 21-day cycle Cycle ≥9: Days 1, 2, 8, 9 of a 21-day cycle)   | >75 years old Dose (Cycle 1-8: Days 1, 2, 4, 5, 8, 9, 11, 12 of a 21-day cycle Cycle ≥9: Days 1, 2, 8, 9 of a 21-day cycle)   |
 |---------------|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
@@ -210,7 +214,7 @@ Instructions for dose interruptions or reductions for pomalidomide related adver
 
 Instructions for dose modification for dexamethasone related adverse reactions are outlined in Table 4. Instructions for dose reduction for dexamethasone related adverse reactions are outlined in Table 6 below. However, dose interruption / resumption decisions are at physician's discretion per the current Summary of Product Characteristics (SmPC).
 
-Table 6. Dexamethasone dose reduction
+Table 6.  Dexamethasone dose reduction
 
 | Dose Level    | ≤75 years old Days 1, 8, 15 and 22 of each 28-day cycle   | >75 years old Days 1, 8, 15 and 22 of each 28-day cycle   |
 |---------------|-----------------------------------------------------------|-----------------------------------------------------------|
@@ -241,11 +245,9 @@ For patients &gt;75 years of age, the starting dose of dexamethasone is:
 
 ## Hepatic impairment
 
-Patients with serum total bilirubin &gt;1.5 x ULN ( upper limit of normal range ) were excluded from clinical studies. Hepatic impairment has a modest effect on the pharmacokinetics of pomalidomide (see section 5.2). No adjustment of the starting dose of pomalidomide is required for patients with hepatic impairment as defined by the Child-Pugh criteria. However, patients with hepatic impairment
+Patients with serum total bilirubin &gt;1.5 x ULN ( upper limit of normal range ) were excluded from clinical studies. Hepatic impairment has a modest effect on the pharmacokinetics of pomalidomide (see section 5.2). No adjustment of the starting dose of pomalidomide is required for patients with hepatic impairment as defined by the Child-Pugh criteria. However, patients with hepatic impairment should be carefully monitored for adverse reactions and dose reduction or interruption of pomalidomide should be used as needed.
 
 <div style=\"page-break-after: always\"></div>
-
-should be carefully monitored for adverse reactions and dose reduction or interruption of pomalidomide should be used as needed.
 
 ## Renal impairment
 
@@ -333,7 +335,7 @@ The following can be considered to be examples of suitable methods of contracept
 
 Because of the increased risk of venous thromboembolism in patients with multiple myeloma taking pomalidomide and dexamethasone, combined oral contraceptive pills are not recommended (see also section 4.5). If a patient is currently using combined oral contraception the patient should switch to one of the effective methods listed above. The risk of venous thromboembolism continues for 4-6 weeks after discontinuing combined oral contraception. The efficacy of contraceptive steroids may be reduced during cotreatment with dexamethasone (see section 4.5).
 
-Implants and  levonorgestrel-releasing intrauterine systems  are  associated  with an  increased  risk of infection at  the time of insertion and irregular vaginal bleeding. Prophylactic antibiotics should be considered particularly in patients with neutropenia.
+Implants  and  levonorgestrel-releasing  intrauterine  systems  are  associated  with  an  increased  risk  of infection  at  the  time  of  insertion  and  irregular  vaginal  bleeding.  Prophylactic  antibiotics  should  be considered particularly in patients with neutropenia.
 
 Insertion of copper-releasing intrauterine devices is not recommended due to the potential risks of infection at the time of insertion and menstrual blood loss which may compromise patients with severe neutropenia or severe thrombocytopenia.
 
@@ -359,7 +361,7 @@ Healthcare professionals and caregivers should wear disposable gloves when handl
 
 <div style=\"page-break-after: always\"></div>
 
-capsule (see section 6.6)
+## capsule (see section 6.6)
 
 ## Educational materials, prescribing and dispensing restrictions
 
@@ -379,11 +381,9 @@ Cases of hypothyroidism have been reported. Optimal control of co-morbid conditi
 
 ## Peripheral neuropathy
 
-Patients with ongoing ≥Grade 2 peripheral neuropathy were excluded from clinical studies with pomalidomide. Appropriate caution should be exercised when considering the treatment of such
+Patients with ongoing ≥Grade 2 peripheral neuropathy were excluded from clinical studies with pomalidomide. Appropriate caution should be exercised when considering the treatment of such patients with pomalidomide.
 
 <div style=\"page-break-after: always\"></div>
-
-patients with pomalidomide.
 
 ## Significant cardiac dysfunction
 
@@ -431,7 +431,7 @@ If PML is suspected, further dosing must be suspended until PML has been exclude
 
 ## Sodium content
 
-This medicinal product contains less than 1 mmol sodium (23 mg) per capsule, that is to say essentially 'sodium-free'.
+This medicinal product contains less than 1 mmol sodium (23 mg) per capsule, that is to say essentially 'sodium -free' .
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
@@ -441,11 +441,9 @@ Pomalidomide is not anticipated to cause clinically relevant pharmacokinetic int
 
 ## Effect of other medicinal products on pomalidomide
 
-Pomalidomide is partly metabolised by CYP1A2 and CYP3A4/5. It is also a substrate for P-glycoprotein. Co-administration of pomalidomide with the strong CYP3A4/5 and P-gp inhibitor ketoconazole, or the strong CYP3A4/5 inducer carbamazepine, had no clinically relevant effect on exposure to pomalidomide. Co-administration of the strong CYP1A2 inhibitor fluvoxamine with pomalidomide in the presence of ketoconazole, increased mean exposure to pomalidomide by 107% with a 90% confidence interval [91% to 124%] compared to pomalidomide plus ketoconazole. In a
+Pomalidomide is partly metabolised by CYP1A2 and CYP3A4/5. It is also a substrate for P-glycoprotein. Co-administration of pomalidomide with the strong CYP3A4/5 and P-gp inhibitor ketoconazole, or the strong CYP3A4/5 inducer carbamazepine, had no clinically relevant effect on exposure to pomalidomide. Co-administration of the strong CYP1A2 inhibitor fluvoxamine with pomalidomide in the presence of ketoconazole, increased mean exposure to pomalidomide by 107% with a 90% confidence interval [91% to 124%] compared to pomalidomide plus ketoconazole. In a second study to evaluate the contribution of a CYP1A2 inhibitor alone to metabolism changes, co-administration of fluvoxamine alone with pomalidomide increased mean exposure to pomalidomide by 125% with a 90% confidence interval [98% to 157%] compared to pomalidomide alone. If strong  inhibitors of CYP1A2 (e.g. ciprofloxacin, enoxacin and fluvoxamine) are co-administered with pomalidomide, reduce the dose of pomalidomide by 50%.
 
 <div style=\"page-break-after: always\"></div>
-
-second study to evaluate the contribution of a CYP1A2 inhibitor alone to metabolism changes, co-administration of fluvoxamine alone with pomalidomide increased mean exposure to pomalidomide by 125% with a 90% confidence interval [98% to 157%] compared to pomalidomide alone. If strong  inhibitors of CYP1A2 (e.g. ciprofloxacin, enoxacin and fluvoxamine) are co-administered with pomalidomide, reduce the dose of pomalidomide by 50%.
 
 ## Dexamethasone
 
@@ -497,7 +495,7 @@ The adverse reactions observed in patients treated with pomalidomide in combinat
 
 Frequencies are defined in accordance with current guidance, as: very common (≥1/10), common (≥1/100 to &lt;1/10), uncommon (≥1/1 000 to &lt;1/100) and not known (frequency cannot be determined).
 
-Table 7. Adverse reactions (ADRs) reported in clinical trials and post-market settings
+Table 7.  Adverse reactions (ADRs) reported in clinical trials and post-market settings
 
 | Combination of treatment           | Pomalidomide/ bortezomib/dexamethasone   | Pomalidomide/ bortezomib/dexamethasone   | Pomalidomide/ dexamethasone   | Pomalidomide/ dexamethasone   |
 |------------------------------------|------------------------------------------|------------------------------------------|-------------------------------|-------------------------------|
@@ -568,33 +566,33 @@ Table 7. Adverse reactions (ADRs) reported in clinical trials and post-market se
 
 <div style=\"page-break-after: always\"></div>
 
-| Combination of treatment           | Pomalidomide/ bortezomib/dexamethasone   | Pomalidomide/ bortezomib/dexamethasone   | Pomalidomide/ dexamethasone   | Pomalidomide/ dexamethasone   |
-|------------------------------------|------------------------------------------|------------------------------------------|-------------------------------|-------------------------------|
-| System Organ Class /Preferred term | All ADRs                                 | Grade 3-4 ADRs                           | All ADRs                      | Grade 3-4 ADRs                |
-| Psychiatric disorders              | Psychiatric disorders                    | Psychiatric disorders                    | Psychiatric disorders         | Psychiatric disorders         |
-| Insomnia                           | Very common                              | Common                                   | -                             | -                             |
-| Depression                         | Common                                   | Common                                   | -                             | -                             |
-| Confusional state                  | -                                        | -                                        | Common                        | Common                        |
-| Nervous system disorders           | Nervous system disorders                 | Nervous system disorders                 | Nervous system disorders      | Nervous system disorders      |
-| Peripheral sensory neuropathy      | Very common                              | Common                                   | Common                        | Uncommon                      |
-| Dizziness                          | Very common                              | Uncommon                                 | Common                        | Uncommon                      |
-| Tremor                             | Very common                              | Uncommon                                 | Common                        | Uncommon                      |
-| Syncope                            | Common                                   | Common                                   | -                             | -                             |
-| Peripheral sensorimotor neuropathy | Common                                   | Common                                   | -                             | -                             |
-| Paraesthesia                       | Common                                   | -                                        | -                             | -                             |
-| Dysgeusia                          | Common                                   | -                                        | -                             | -                             |
-| Depressed level of consciousness   | -                                        | -                                        | Common                        | Common                        |
-| Intracranial haemorrhage           | -                                        | -                                        | Common*                       | Uncommon*                     |
-| Cerebrovascular accident           | -                                        | -                                        | Uncommon*                     | Uncommon*                     |
-| Eye disorders                      | Eye disorders                            | Eye disorders                            | Eye disorders                 | Eye disorders                 |
-| Cataract                           | Common                                   | Common                                   | -                             | -                             |
-| Ear and labyrinth disorders        | Ear and labyrinth disorders              | Ear and labyrinth disorders              | Ear and labyrinth disorders   | Ear and labyrinth disorders   |
-| Vertigo                            | -                                        | -                                        | Common                        | Common                        |
-| Cardiac disorders                  | Cardiac disorders                        | Cardiac disorders                        | Cardiac disorders             | Cardiac disorders             |
-| Atrial fibrillation                | Very common                              | Common                                   | Common*                       | Common*                       |
-| Cardiac failure                    | -                                        | -                                        | Common*                       | Common*                       |
-| Myocardial infarction              | -                                        | -                                        | Common*                       | Uncommon*                     |
-| Vascular disorders                 | Vascular disorders                       | Vascular disorders                       | Vascular disorders            | Vascular disorders            |
+| Combination of treatment           | Pomalidomide/ bortezomib/dexamethasone   | Pomalidomide/ bortezomib/dexamethasone   | Pomalidomide/               | Pomalidomide/               |
+|------------------------------------|------------------------------------------|------------------------------------------|-----------------------------|-----------------------------|
+| System Organ Class /Preferred term | All ADRs                                 | Grade 3-4 ADRs                           | All ADRs                    | Grade 3-4 ADRs              |
+| Psychiatric disorders              | Psychiatric disorders                    | Psychiatric disorders                    | Psychiatric disorders       | Psychiatric disorders       |
+| Insomnia                           | Very common                              | Common                                   | -                           | -                           |
+| Depression                         | Common                                   | Common                                   | -                           | -                           |
+| Confusional state                  | -                                        | -                                        | Common                      | Common                      |
+| Nervous system disorders           | Nervous system disorders                 | Nervous system disorders                 | Nervous system disorders    | Nervous system disorders    |
+| Peripheral sensory neuropathy      | Very common                              | Common                                   | Common                      | Uncommon                    |
+| Dizziness                          | Very common                              | Uncommon                                 | Common                      | Uncommon                    |
+| Tremor                             | Very common                              | Uncommon                                 | Common                      | Uncommon                    |
+| Syncope                            | Common                                   | Common                                   | -                           | -                           |
+| Peripheral sensorimotor neuropathy | Common                                   | Common                                   | -                           | -                           |
+| Paraesthesia                       | Common                                   | -                                        | -                           | -                           |
+| Dysgeusia                          | Common                                   | -                                        | -                           | -                           |
+| Depressed level of consciousness   | -                                        | -                                        | Common                      | Common                      |
+| Intracranial haemorrhage           | -                                        | -                                        | Common*                     | Uncommon*                   |
+| Cerebrovascular accident           | -                                        | -                                        | Uncommon*                   | Uncommon*                   |
+| Eye disorders                      | Eye disorders                            | Eye disorders                            | Eye disorders               | Eye disorders               |
+| Cataract                           | Common                                   | Common                                   | -                           | -                           |
+| Ear and labyrinth disorders        | Ear and labyrinth disorders              | Ear and labyrinth disorders              | Ear and labyrinth disorders | Ear and labyrinth disorders |
+| Vertigo                            | -                                        | -                                        | Common                      | Common                      |
+| Cardiac disorders                  | Cardiac disorders                        | Cardiac disorders                        | Cardiac disorders           | Cardiac disorders           |
+| Atrial fibrillation                | Very common                              | Common                                   | Common*                     | Common*                     |
+| Cardiac failure                    | -                                        | -                                        | Common*                     | Common*                     |
+| Myocardial infarction              | -                                        | -                                        | Common*                     | Uncommon*                   |
+| Vascular disorders                 | Vascular disorders                       | Vascular disorders                       | Vascular disorders          | Vascular disorders          |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -694,11 +692,9 @@ Neutropenia and thrombocytopenia tended to occur more frequently within the firs
 
 Infection was the most common non haematological toxicity.
 
-Infection occurred in 83.1% (Pom+Btz+Dex) patients and 55.0% (Pom+Dex) patients (34.9% (Pom+Btz+Dex) and 24.0% (Pom+Dex) Grade 3 or 4). Upper respiratory tract infection and
+Infection occurred in 83.1% (Pom+Btz+Dex) patients and 55.0% (Pom+Dex) patients (34.9% (Pom+Btz+Dex) and 24.0% (Pom+Dex) Grade 3 or 4). Upper respiratory tract infection and pneumonia were the most frequently occurring infections. Fatal infections (Grade 5) occurred in 4.0% (Pom+Btz+Dex) patients and 2.7% (Pom+Dex) patients. Infections led to pomalidomide discontinuation in 3.6% (Pom+Btz+Dex) patients and 2.0% (Pom+Dex) patients.
 
 <div style=\"page-break-after: always\"></div>
-
-pneumonia were the most frequently occurring infections. Fatal infections (Grade 5) occurred in 4.0% (Pom+Btz+Dex) patients and 2.7% (Pom+Dex) patients. Infections led to pomalidomide discontinuation in 3.6% (Pom+Btz+Dex) patients and 2.0% (Pom+Dex) patients.
 
 ## Thromboembolic events
 
@@ -730,11 +726,9 @@ Reporting suspected adverse reactions after authorisation of the medicinal produ
 
 ## 4.9 Overdose
 
-Pomalidomide doses as high as 50 mg as a single dose in healthy volunteers have been studied without reporting serious adverse reactions related to overdose. Doses as high as 10 mg once-daily  multiple doses in multiple myeloma patients have been studied without reported serious adverse reactions related to overdose. The dose-limiting toxicity was myelosuppression. In studies, pomalidomide was
+Pomalidomide doses as high as 50 mg as a single dose in healthy volunteers have been studied without reporting serious adverse reactions related to overdose. Doses as high as 10 mg once-daily  multiple doses in multiple myeloma patients have been studied without reported serious adverse reactions related to overdose. The dose-limiting toxicity was myelosuppression. In studies, pomalidomide was found to be removed by haemodialysis.
 
 <div style=\"page-break-after: always\"></div>
-
-found to be removed by haemodialysis.
 
 In the event of overdose, supportive care is advised.
 
@@ -746,7 +740,7 @@ Pharmacotherapeutic group: Immunosuppressants, Other immunosuppressants, ATC cod
 
 ## Mechanism of action
 
-Pomalidomide has direct anti-myeloma tumoricidal activity, immunomodulatory activities and inhibits stromal cell support for multiple myeloma tumour cell growth. Specifically, pomalidomide inhibits proliferation and induces apoptosis of haematopoietic tumour cells. Additionally, pomalidomide inhibits the proliferation of lenalidomide-resistant multiple myeloma cell lines and synergises with dexamethasone in both lenalidomide-sensitive and lenalidomide-resistant cell lines to induce tumour cell apoptosis. Pomalidomide enhances T cell- and natural killer (NK) cell-mediated immunity and inhibits production of pro-inflammatory cytokines (e.g. TNF-α and IL-6) by monocytes. Pomalidomide also inhibits angiogenesis by blocking the migration and adhesion of endothelial cells.
+Pomalidomide has direct anti-myeloma tumoricidal activity, immunomodulatory activities and inhibits stromal cell support for multiple myeloma tumour cell growth. Specifically, pomalidomide inhibits proliferation and induces apoptosis of haematopoietic tumour cells. Additionally, pomalidomide inhibits the proliferation of lenalidomide-resistant multiple myeloma cell lines and synergises with dexamethasone in both lenalidomide-sensitive and lenalidomide-resistant cell lines to induce tumour cell apoptosis. Pomalidomide enhances T cell- and natural killer (NK) cell-mediated immunity and inhibits production of pro-inflammatory cytokines (e.g. TNFα and IL-6) by monocytes. Pomalidomide also inhibits angiogenesis by blocking the migration and adhesion of endothelial cells.
 
 Pomalidomide binds directly to the protein cereblon (CRBN), which is part of an E3 ligase complex that includes deoxyribonucleic acid (DNA) damage-binding protein 1(DDB1), cullin 4 (CUL4), and regulator of cullins-1 (Roc1), and can inhibit the auto-ubiquitination of CRBN within the complex. E3 ubiquitin ligases are responsible for the poly-ubiquitination of a variety of substrate proteins, and may  partially explain the pleiotropic cellular effects observed with pomalidomide treatment.
 
@@ -773,7 +767,7 @@ Table 8. Summary of overall efficacy data
 | PFS (months)              |                            |                            |
 | Median a time (95% CI) b  | 11.20 (9.66, 13.73)        | 7.10 (5.88, 8.48)          |
 | HR c (95% CI), p-value d  | 0.61 (0.49, 0.77), <0.0001 | 0.61 (0.49, 0.77), <0.0001 |
-| ORR, n (%)                | 82.2 %                     | 50.0%                      |
+| ORR, n (%)                | 82.2%                      | 50.0%                      |
 | sCR                       | 9 (3.2)                    | 2 (0.7)                    |
 | CR                        | 35 (12.5)                  | 9 (3.2)                    |
 | VGPR                      | 104 (37.0)                 | 40 (14.4)                  |
@@ -793,9 +787,9 @@ c Based on Cox proportional hazards model.
 
 d The p-value is based on a stratified log-rank test.
 
-e Odds ratio is for Pom+Btz+LD-Dex:Btz+LD-Dex.
+e   Odds ratio is for Pom+Btz+LD-Dex:Btz+LD-Dex.
 
-f The p-value  is based on a CMH test, stratified by age (&lt;=75 vs &gt;75), Prior number of antimyeloma regimens (1 vs &gt;1), and Beta-2-microglobulin at screening (&lt;3.5 mg/L versus ≥3.5 mg/L - ≤5.5 mg/L versus &gt;5.5 mg/L).
+f The p-value is based on a CMH test, stratified by age (&lt;=75 vs &gt;75), Prior number of antimyeloma regimens (1 vs &gt;1), and Beta-2-microglobulin at screening (&lt;3.5 mg/L versus ≥3.5 mg/L ≤5.5 mg/L versus &gt;5.5 mg/L).
 
 The median duration of treatment was 8.8 months (12 treatment cycles) in the Pom+Btz+LD-Dex arm and 4.9 months (7 treatment cycles) in the Btz+LD-Dex arm.
 
@@ -807,7 +801,7 @@ Figure 1.  Progression Free Survival based on IRAC review of response by IMWG cr
 
 <!-- image -->
 
-Data cutoff:  26 Oct 2017
+Data cutoff: 26 Oct 2017
 
 Final analysis for Overall Survival (OS), using a cut-off of 13 May 2022 (median follow-up period of 64.5 months), median OS time from Kaplan-Meier estimates was 35.6 months for the Pom + Btz + LD-Dex arm and 31.6 months for the Btz + LD-Dex arm; HR =0.94, 95% CI: -0.77, 1.15, with an overall event rate of 70.0%. The OS analysis was not adjusted to account for subsequent therapies received.
 
@@ -842,11 +836,13 @@ Note: CI=Confidence interval; IRAC=Independent Review Adjudication Committee; NE
 
 a The median is based on Kaplan-Meier estimate.
 
-b 95% confidence  interval about the median progression free survival time.
+b 95% confidence interval about the median progression free survival time.
 
 c Based on Cox proportional hazards model comparing the hazard functions associated with treatment groups, stratified by age (≤75 vs &gt;75),diseases population (refractory to both lenalidomide and bortezomib vs not refractory to both active substances), and prior  number of antimyeloma therapy (=2 vs &gt;2).
 
-d The p-value  is based on a stratified log-rank test with the same stratification factors as the above Cox model. Data cutoff: 07 Sep 2012
+d The p-value is based on a stratified log-rank test with the same stratification factors as the above Cox model.
+
+Data cutoff: 07 Sep 2012
 
 <div style=\"page-break-after: always\"></div>
 
@@ -876,17 +872,13 @@ Table 10.  Overall Survival: ITT Population
 | Hazard Ratio (Pom+LD-Dex:HD-Dex) [Two sided 95% CI c ] | Hazard Ratio (Pom+LD-Dex:HD-Dex) [Two sided 95% CI c ] | 0.53[0.37, 0.74]       | 0.53[0.37, 0.74]   |
 | Log-Rank Test Two sided P-Value d                      | Log-Rank Test Two sided P-Value d                      | <0.001                 | <0.001             |
 
-Note: CI=Confidence interval. NE = Not Estimable.
-
-a The median is based on Kaplan-Meier estimate.
-
-- b 95% confidence  interval about the median overall survival time.
+- b 95% confidence interval about the median overall survival time.
 
 c Based on Cox proportional hazards model comparing the hazard functions associated with treatment groups.
 
-d The p-value  is based on an unstratified log-rank test.  Data cutoff: 07 Sep 2012
+d The p-value is based on an unstratified log-rank test.  Data cutoff: 07 Sep 2012
 
-Figure 3.  Kaplan-Meier Curve of overall survival (ITT Population)
+Figure 3. Kaplan-Meier Curve of overall survival (ITT Population)
 
 <!-- image -->
 
@@ -918,11 +910,9 @@ Pomalidomide has a mean apparent volume of distribution (Vd/F) between 62 and 13
 
 Pomalidomide is the major circulating component (approximately 70% of plasma radioactivity) in vivo in healthy subjects who received a single oral dose of [ 14 C]-pomalidomide (2 mg). No metabolites were present at &gt;10% relative to parent or total radioactivity in plasma.
 
-The predominant metabolic pathways of excreted radioactivity are hydroxylation with subsequent glucuronidation, or hydrolysis. In vitro , CYP1A2 and CYP3A4 were identified as the primary enzymes involved in the CYP-mediated hydroxylation of pomalidomide, with additional minor contributions from CYP2C19 and CYP2D6. Pomalidomide is also a substrate of P-glycoprotein in vitro . Co-administration of pomalidomide with the strong CYP3A4/5 and P-gp inhibitor ketoconazole, or the strong CYP3A4/5 inducer carbamazepine, had no clinically relevant effect on exposure to pomalidomide. Co-administration of the strong CYP1A2 inhibitor fluvoxamine with pomalidomide in the presence of ketoconazole, increased mean exposure to pomalidomide by 107% with a 90% confidence interval [91% to 124%] compared to pomalidomide plus ketoconazole. In a second study to evaluate the contribution of a CYP1A2 inhibitor alone to metabolism changes, coadministration of fluvoxamine alone with pomalidomide increased mean exposure to pomalidomide by 125% with a 90% confidence interval [98% to 157%] compared to pomalidomide alone. If strong
+The predominant metabolic pathways of excreted radioactivity are hydroxylation with subsequent glucuronidation, or hydrolysis. In vitro , CYP1A2 and CYP3A4 were identified as the primary enzymes involved in the CYP-mediated hydroxylation of pomalidomide, with additional minor contributions from CYP2C19 and CYP2D6. Pomalidomide is also a substrate of P-glycoprotein in vitro . Co-administration of pomalidomide with the strong CYP3A4/5 and P-gp inhibitor ketoconazole, or the strong CYP3A4/5 inducer carbamazepine, had no clinically relevant effect on exposure to pomalidomide. Co-administration of the strong CYP1A2 inhibitor fluvoxamine with pomalidomide in the presence of ketoconazole, increased mean exposure to pomalidomide by 107% with a 90% confidence interval [91% to 124%] compared to pomalidomide plus ketoconazole. In a second study to evaluate the contribution of a CYP1A2 inhibitor alone to metabolism changes, coadministration of fluvoxamine alone with pomalidomide increased mean exposure to pomalidomide by 125% with a 90% confidence interval [98% to 157%] compared to pomalidomide alone. If strong inhibitors of CYP1A2 (e.g. ciprofloxacin, enoxacin and fluvoxamine) are co-administered with pomalidomide, reduce the dose of pomalidomide to 50%. Administration of pomalidomide in smokers, with smoking tobacco known to induce the CYP1A2 isoform, had no clinically relevant effect on exposure to pomalidomide compared to that exposure to pomalidomide observed in nonsmokers.
 
 <div style=\"page-break-after: always\"></div>
-
-inhibitors of CYP1A2 (e.g. ciprofloxacin, enoxacin and fluvoxamine) are co-administered with pomalidomide, reduce the dose of pomalidomide to 50%. Administration of pomalidomide in smokers, with smoking tobacco known to induce the CYP1A2 isoform, had no clinically relevant effect on exposure to pomalidomide compared to that exposure to pomalidomide observed in nonsmokers.
 
 Based on in vitro data, pomalidomide is not an inhibitor or inducer of cytochrome P 450 isoenzymes, and does not inhibit any drug transporters that were studied. Clinically relevant interactions are not anticipated when pomalidomide is co-administered with substrates of these pathways.
 
@@ -942,15 +932,13 @@ Based on population PK analysis using a two-compartment model, healthy subjects 
 
 ## Paediatric population
 
-Following a single oral dose of pomalidomide in children and young adults with recurrent or progressive primary brain tumour, the median Tmax was 2 to 4 hours post-dose and corresponded to geometric mean Cmax (CV%) values of 74.8 (59.4%), 79.2 (51.7%), and 104 (18.3%) ng/mL at the 1.9, 2.6, and 3.4 mg/m 2 dose levels, respectively. AUC0-24 and AUC0-inf followed similar trends, with total exposure in the range of approximately 700 to 800 h·ng/mL at the lower 2 doses, and approximately 1 200 h·ng/mL at the high dose. Estimates of half-life were in the range of approximately 5 to 7 hours. There were no clear trends attributable to stratification by age and steroid use at the MTD.
+Following a single oral dose of pomalidomide in children and young adults with recurrent or progressive primary brain tumour, the median Tmax was 2 to 4 hours post-dose and corresponded to geometric mean Cmax (CV%) values of 74.8 (59.4%), 79.2 (51.7%), and 104 (18.3%) ng/mL at the 1.9, 2.6, and 3.4 mg/m 2 dose levels, respectively. AUC0-24 and AUC0-inf followed similar trends, with total exposure in the range of approximately 700 to 800 h · ng/mL at the lower 2 doses, and approximately 1 200 h · ng/mL at the high dose. Estimates of half-life were in the range of approximately 5 to 7 hours. There were no clear trends attributable to stratification by age and steroid use at the MTD.
 
 Overall, data suggest that AUC increased nearly proportional to the increase in pomalidomide dose, while the increase in Cmax was generally less than proportional.
 
-The pharmacokinetics of pomalidomide following oral administration dose levels of 1.9 mg/m 2 /day to 3.4 mg/m 2 /day were determined in 70 patients with ages from 4 to 20 years in an integrated analysis of a Phase 1 and Phase 2 study in recurrent or progressive paediatric brain tumours. Pomalidomide concentration-time profiles were adequately described with a one compartment PK model with firstorder absorption and elimination. Pomalidomide exhibited linear and time-invariant PK with moderate
+The pharmacokinetics of pomalidomide following oral administration dose levels of 1.9 mg/m 2 /day to 3.4 mg/m 2 /day were determined in 70 patients with ages from 4 to 20 years in an integrated analysis of a Phase 1 and Phase 2 study in recurrent or progressive paediatric brain tumours. Pomalidomide concentration-time profiles were adequately described with a one compartment PK model with firstorder absorption and elimination. Pomalidomide exhibited linear and time-invariant PK with moderate variability. The typical values of CL/F, Vc/F, Ka, lag time of pomalidomide were 3.94 L/h, 43.0 L, 1.45 h -1 and 0.454 h respectively. The terminal elimination half-life of pomalidomide was 7.33 hours. Except for body surface area (BSA), none of the tested covariates including age and sex had effect on pomalidomide PK. Although BSA was identified as a statistically significant covariate of pomalidomide CL/F and Vc/F, the impact of BSA on exposure parameters was not deemed clinically relevant.
 
 <div style=\"page-break-after: always\"></div>
-
-variability. The typical values of CL/F, Vc/F, Ka, lag time of pomalidomide were 3.94 L/h, 43.0 L, 1.45 h -1  and 0.454 h respectively. The terminal elimination half-life of pomalidomide was 7.33 hours. Except for body surface area (BSA), none of the tested covariates including age and sex had effect on pomalidomide PK. Although BSA was identified as a statistically significant covariate of pomalidomide CL/F and Vc/F, the impact of BSA on exposure parameters was not deemed clinically relevant.
 
 In general, there is no significant difference of pomalidomide PK between children and adult patients.
 
@@ -972,11 +960,9 @@ The pharmacokinetic parameters were modestly changed in hepatically impaired pat
 
 In rats, chronic administration of pomalidomide at doses of 50, 250 and 1 000 mg/kg/day for 6 months was well tolerated. No adverse findings were noted up to 1 000 mg/kg/day (175-fold exposure ratio relative to a 4 mg clinical dose).
 
-In monkeys, pomalidomide was evaluated in repeat-dose studies of up to 9 months in duration. In these studies, monkeys exhibited greater sensitivity to pomalidomide effects than rats. The primary toxicities observed in monkeys were associated with the haematopoietic/lymphoreticular systems. In the 9 month study in monkeys with doses of 0.05, 0.1, and 1 mg/kg/day, morbidity and early
+In monkeys, pomalidomide was evaluated in repeat-dose studies of up to 9 months in duration. In these studies, monkeys exhibited greater sensitivity to pomalidomide effects than rats. The primary toxicities observed in monkeys were associated with the haematopoietic/lymphoreticular systems. In the 9 month study in monkeys with doses of 0.05, 0.1, and 1 mg/kg/day, morbidity and early euthanasia of 6 animals were observed at the dose of 1 mg/kg/day and were attributed to immunosuppressive effects (staphylococcal infection, decreased peripheral blood lymphocytes, chronic inflammation of the large intestine, histologic lymphoid depletion and hypocellularity of bone marrow) at high exposures of pomalidomide (15-fold exposure ratio relative to a 4 mg clinical dose). These immunosuppressive effects resulted in early euthanasia of 4 monkeys due to poor health condition (watery stool, inappetence, reduced food intake and weight loss); histopathologic evaluation of these animals showed chronic inflammation of the large intestine and villous atrophy of the small intestine. Staphylococcal infection was observed in 4 monkeys; 3 of these animals responded to antibiotic treatment and 1 died without treatment. In addition, findings consistent with acute myelogenous leukemia led to euthanasia of 1 monkey; clinical observations and clinical pathology and/or bone marrow alterations observed in this animal were consistent with immunosuppression. Minimal or mild bile duct proliferation with associated increases in ALP and GGT were also observed at 1 mg/kg/day. Evaluation of recovery animals indicated that all treatment-related findings were reversible after 8 weeks of dosing cessation, except for proliferation of intrahepatic bile ducts observed in 1 animal in the 1 mg/kg/day group. The No Observed Adverse Effect Level (NOAEL) was 0.1 mg/kg/day (0.5-fold exposure ratio relative to a 4 mg clinical dose).
 
 <div style=\"page-break-after: always\"></div>
-
-euthanasia of 6 animals were observed at the dose of 1 mg/kg/day and were attributed to immunosuppressive effects (staphylococcal infection, decreased peripheral blood lymphocytes, chronic inflammation of the large intestine, histologic lymphoid depletion and hypocellularity of bone marrow) at high exposures of pomalidomide (15-fold exposure ratio relative to a 4 mg clinical dose). These immunosuppressive effects resulted in early euthanasia of 4 monkeys due to poor health condition (watery stool, inappetence, reduced food intake and weight loss); histopathologic evaluation of these animals showed chronic inflammation of the large intestine and villous atrophy of the small intestine. Staphylococcal infection was observed in 4 monkeys; 3 of these animals responded to antibiotic treatment and 1 died without treatment. In addition, findings consistent with acute myelogenous leukemia led to euthanasia of 1 monkey; clinical observations and clinical pathology and/or bone marrow alterations observed in this animal were consistent with immunosuppression. Minimal or mild bile duct proliferation with associated increases in ALP and GGT were also observed at 1 mg/kg/day. Evaluation of recovery animals indicated that all treatment-related findings were reversible after 8 weeks of dosing cessation, except for proliferation of intrahepatic bile ducts observed in 1 animal in the 1 mg/kg/day group. The No Observed Adverse Effect Level (NOAEL) was 0.1 mg/kg/day (0.5-fold exposure ratio relative to a 4 mg clinical dose).
 
 ## Genotoxicity/carcinogenicity
 
@@ -992,11 +978,9 @@ In a fertility and early embryonic development study in rats, pomalidomide was a
 
 Pomalidomide was found to be teratogenic in both rats and rabbits when administered during the period of major organogenesis. In the rat embryofoetal developmental toxicity study, malformations of absence of urinary bladder, absence of thyroid gland, and fusion and misalignment of lumbar and thoracic vertebral elements (central and/or neural arches) were observed at all dose levels (25, 250 and 1 000 mg/kg/day).
 
-There was no maternal toxicity observed in this study. Therefore, the maternal NOAEL was 1000 mg/kg/day, and the NOAEL for developmental toxicity was &lt;25 mg/kg/day (AUC24h was 34 340 ng·h/mL on Gestation Day 17 at this lowest dose tested, and the exposure ratio was 85-fold relative to a 4 mg clinical dose). In rabbits, pomalidomide at doses ranging from 10 to 250 mg/kg produced embryo-foetal developmental malformations. Increased cardiac anomalies were seen at all doses with significant increases at 250 mg/kg/day. At 100 and 250 mg/kg/day, there were slight increases in post-implantation loss and slight decreases in foetal body weights. At 250 mg/kg/day, foetal malformations included limb anomalies (flexed and/or rotated fore- and/or hindlimbs, unattached or absent digit) and associated skeletal malformations (not ossified metacarpal, misaligned phalanx and metacarpal, absent digit, not ossified phalanx, and short not ossified or bent tibia); moderate dilation of  the lateral ventricle in the brain; abnormal placement of the right subclavian artery; absent intermediate lobe in the lungs; low-set kidney; altered liver morphology; incompletely
+There was no maternal toxicity observed in this study. Therefore, the maternal NOAEL was 1000 mg/kg/day, and the NOAEL for developmental toxicity was &lt;25 mg/kg/day (AUC24h was 34 340 ng·h/mL on Gestation Day 17 at this lowest dose tested, and the exposure ratio was 85-fold relative to a 4 mg clinical dose). In rabbits, pomalidomide at doses ranging from 10 to 250 mg/kg produced embryo-foetal developmental malformations. Increased cardiac anomalies were seen at all doses with significant increases at 250 mg/kg/day. At 100 and 250 mg/kg/day, there were slight increases in post-implantation loss and slight decreases in foetal body weights. At 250 mg/kg/day, foetal malformations included limb anomalies (flexed and/or rotated fore- and/or hindlimbs, unattached or absent digit) and associated skeletal malformations (not ossified metacarpal, misaligned phalanx and metacarpal, absent digit, not ossified phalanx, and short not ossified or bent tibia); moderate dilation of  the lateral ventricle in the brain; abnormal placement of the right subclavian artery; absent intermediate lobe in the lungs; low-set kidney; altered liver morphology; incompletely or not ossified pelvis; an increased average for supernumerary thoracic ribs and a reduced average for ossified tarsals. Slight reduction in maternal body weight gain, significant reduction in triglycerides, and significant decrease in absolute and relative spleen weights were observed at 100 and 250 mg/kg/day. The maternal NOAEL was 10 mg/kg/day, and the developmental NOAEL was &lt;10 mg/kg/day (AUC24h was 418 ng·h/mL on Gestation Day 19 at this lowest dose tested, which was similar to that obtained from a 4 mg clinical dose).
 
 <div style=\"page-break-after: always\"></div>
-
-or not ossified pelvis; an increased average for supernumerary thoracic ribs and a reduced average for ossified tarsals. Slight reduction in maternal body weight gain, significant reduction in triglycerides, and significant decrease in absolute and relative spleen weights were observed at 100 and 250 mg/kg/day. The maternal NOAEL was 10 mg/kg/day, and the developmental NOAEL was &lt;10 mg/kg/day (AUC24h was 418 ng·h/mL on Gestation Day 19 at this lowest dose tested, which was similar to that obtained from a 4 mg clinical dose).
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
@@ -1056,15 +1040,13 @@ Viatris Limited Damastown Industrial Park Mulhuddart Dublin 15 DUBLIN Ireland
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-## Pomalidomide Viatris 1 mg hard capsules
+Pomalidomide Viatris 1 mg hard capsules
 
 EU/1/23/1785/001 EU/1/23/1785/002 EU/1/23/1785/003 EU/1/23/1785/004
 
 ## Pomalidomide Viatris 2 mg hard capsules
 
-EU/1/23/1785/005 EU/1/23/1785/006 EU/1/23/1785/007
-
-EU/1/23/1785/008
+EU/1/23/1785/005 EU/1/23/1785/006 EU/1/23/1785/007 EU/1/23/1785/008
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1115,7 +1097,7 @@ Detailed information on this medicinal product is available on the website of th
 
 Name and address of the manufacturer(s) responsible for batch release
 
-Mylan Germany GmbH
+Viatris Germany GmbH
 
 Benzstrasse 1 Bad Homburg 61352 Germany
 
@@ -1129,13 +1111,13 @@ Medicinal product subject to restricted medical prescription (see Annex I: Summa
 
 ## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
-- Periodic safety update reports (PSURs)
+## · Periodic safety update reports (PSURs)
 
 The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
-- Risk management plan (RMP)
+## · Risk management plan (RMP)
 
 The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP.
 
@@ -1230,13 +1212,13 @@ The Educational Health Care Professional's Kit shall contain the following eleme
 
 <div style=\"page-break-after: always\"></div>
 
-The Educational brochures for patients should be of 3 types:
+## The Educational brochures for patients should be of 3 types:
 
 - Brochure for women patients of childbearing potential and their partners
 - Brochure for women patients who are not of childbearing potential
 - Brochure for male patients
 
-All patient brochures should contain the following elements:
+## All patient brochures should contain the following elements:
 
 - That pomalidomide is teratogenic in animals and is expected to be teratogenic in humans
 - That pomalidomide may cause thrombocytopenia and the need for regular blood tests
@@ -1369,7 +1351,7 @@ Each hard capsule contains 1 mg of pomalidomide.
 
 ## Hard capsule
 
-14 hard capsules
+- 14 hard capsules
 
 14x1 hard capsules
 
@@ -1399,7 +1381,7 @@ EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 Unused medicinal product should be returned to the pharmacist.
 
@@ -1433,13 +1415,13 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-## 15. INSTRUCTIONS ON USE
+15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
 Pomalidomide Viatris 1 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 &lt;2D barcode carrying the unique identifier included.&gt;
 
@@ -1449,23 +1431,21 @@ PC
 
 SN
 
-<div style=\"page-break-after: always\"></div>
-
 NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
-|-------------------------------------------------------|
-| BLISTER                                               |
+| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
+|------------------------------------------------------|
+| BLISTER                                              |
 
-| 1.   | NAME OF THE MEDICINAL PRODUCT   |
-|------|---------------------------------|
+| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
+|------|------------------------------|
 
 Pomalidomide Viatris 1 mg capsules pomalidomide
 
-| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
-|------|----------------------------------------------|
+| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
+|------|------------------------------------------|
 
 Viatris
 
@@ -1502,7 +1482,7 @@ Each hard capsule contains 2 mg of pomalidomide.
 
 ## Hard capsule
 
-14 hard capsules
+- 14 hard capsules
 
 14x1 hard capsules
 
@@ -1532,7 +1512,7 @@ EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 Unused medicinal product should be returned to the pharmacist.
 
@@ -1566,13 +1546,13 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-## 15. INSTRUCTIONS ON USE
+15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
 Pomalidomide Viatris 2 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 &lt;2D barcode carrying the unique identifier included.&gt;
 
@@ -1582,23 +1562,21 @@ PC
 
 SN
 
-<div style=\"page-break-after: always\"></div>
-
 NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
-|-------------------------------------------------------|
-| BLISTER                                               |
+| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
+|------------------------------------------------------|
+| BLISTER                                              |
 
-| 1.   | NAME OF THE MEDICINAL PRODUCT   |
-|------|---------------------------------|
+| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
+|------|------------------------------|
 
 Pomalidomide Viatris 2 mg capsules pomalidomide
 
-| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
-|------|----------------------------------------------|
+| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
+|------|------------------------------------------|
 
 Viatris
 
@@ -1635,11 +1613,11 @@ Each hard capsule contains 3 mg of pomalidomide.
 
 ## Hard capsule
 
-14 hard capsules
+- 14 hard capsules
 
 14x1 hard capsules
 
-21 hard capsules
+- 21 hard capsules
 
 21x1 hard capsules
 
@@ -1665,7 +1643,7 @@ EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 Unused medicinal product should be returned to the pharmacist.
 
@@ -1699,13 +1677,13 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-## 15. INSTRUCTIONS ON USE
+15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
 Pomalidomide Viatris 3 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 &lt;2D barcode carrying the unique identifier included.&gt;
 
@@ -1715,33 +1693,29 @@ PC
 
 SN
 
-<div style=\"page-break-after: always\"></div>
-
 NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
-|-------------------------------------------------------|
-| BLISTER                                               |
+## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
 
-| 1.   | NAME OF THE MEDICINAL PRODUCT   |
-|------|---------------------------------|
+BLISTER
 
-Pomalidomide Viatris 3 mg capsules pomalidomide
+## 1. NAME OF THE MEDICINAL PRODUCT
 
-| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
-|------|----------------------------------------------|
+Pomalidomide Viatris 3 mg capsules
+
+pomalidomide
+
+## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
 
 Viatris
 
-| 3.   | EXPIRY DATE   |
-|------|---------------|
+## 3. EXPIRY DATE
 
 EXP
 
-| 4.   | BATCH NUMBER<, DONATION AND PRODUCT CODES>   |
-|------|----------------------------------------------|
+## 4. BATCH NUMBER&lt;, DONATION AND PRODUCT CODES&gt;
 
 Lot
 
@@ -1768,7 +1742,7 @@ Each hard capsule contains 4 mg of pomalidomide.
 
 ## Hard capsule
 
-14 hard capsules
+- 14 hard capsules
 
 14x1 hard capsules
 
@@ -1830,15 +1804,14 @@ EU/1/23/1785/016
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
-
-## 15. INSTRUCTIONS ON USE
+14. GENERAL CLASSIFICATION FOR SUPPLY
+15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
 Pomalidomide Viatris 4 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 &lt;2D barcode carrying the unique identifier included.&gt;
 
@@ -1846,23 +1819,23 @@ Pomalidomide Viatris 4 mg
 
 PC
 
+SN
+
+NN
+
 <div style=\"page-break-after: always\"></div>
 
-SN NN
+| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
+|------------------------------------------------------|
+| BLISTER                                              |
 
-<div style=\"page-break-after: always\"></div>
-
-| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
-|-------------------------------------------------------|
-| BLISTER                                               |
-
-| 1.   | NAME OF THE MEDICINAL PRODUCT   |
-|------|---------------------------------|
+| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
+|------|------------------------------|
 
 Pomalidomide Viatris 4 mg capsules pomalidomide
 
-| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
-|------|----------------------------------------------|
+| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
+|------|------------------------------------------|
 
 Viatris
 
@@ -1887,13 +1860,7 @@ Lot
 
 <div style=\"page-break-after: always\"></div>
 
-Pomalidomide Viatris 1 mg hard capsules
-
-Pomalidomide Viatris 2 mg hard capsules
-
-Pomalidomide Viatris 3 mg hard capsules
-
-Pomalidomide Viatris 4 mg hard capsules
+Pomalidomide Viatris 1 mg hard capsules Pomalidomide Viatris 2 mg hard capsules Pomalidomide Viatris 3 mg hard capsules Pomalidomide Viatris 4 mg hard capsules
 
 ## pomalidomide
 
@@ -1930,11 +1897,11 @@ Pomalidomide Viatris is used to treat adults with a type of cancer called 'multi
 
 ## Pomalidomide Viatris is either used with:
 
-- two other medicines - called 'bortezomib' (a type of chemotherapy medicine) and 'dexamethasone' (an anti-inflammatory medicine) in people who have had at least one other treatment - including lenalidomide.
+- two other medicines -called 'bortezomib' (a type of chemotherapy medicine) and 'dexamethasone' (an anti-inflammatory medicine) in people who have had at least one other treatment - including lenalidomide.
 
 ## or
 
-- one other medicine - called 'dexamethasone' in people whose myeloma has become worse, despite having at least two other treatments - including lenalidomide and bortezomib.
+- one other medicine -called 'dexamethasone' in people whose myeloma has become worse, despite having at least two other treatments - including lenalidomide and bortezomib.
 
 ## What is multiple myeloma
 
@@ -1968,8 +1935,8 @@ When pomalidomide is used with dexamethasone, in people who have had at least tw
 
 ## Do not take Pomalidomide Viatris:
 
-- if you are pregnant or think you may be pregnant or are planning to become pregnant - this is because Pomalidomide Viatris is expected to be harmful to an unborn child . (Men and women taking this medicine must read the section 'Pregnancy, contraception and breast-feeding - information for women and men' below).
-- if you are able to become pregnant, unless you follow all the necessary measures to prevent you from becoming pregnant (see 'Pregnancy, contraception and breast-feeding - information for women and men'). If you are able to become pregnant, your doctor will record with each prescription that the necessary measures have been taken and will provide you with this confirmation.
+- if you are pregnant or think you may be pregnant or are planning to become pregnant -this is because Pomalidomide Viatris is expected to be harmful to an unborn child . (Men and women taking this m edicine must read the section 'Pregnancy, contraception and breast -feeding -information for women and men' below).
+- if you are able to become pregnant, unless you follow all the necessary measures to prevent you from becoming pregnant (see 'Pregnancy, contraception and breast -feeding -information for women and men'). If you are able to become pregnant, your doctor will record with each prescription that the necessary measures have been taken and will provide you with this confirmation.
 - if you are allergic to pomalidomide or any of the other ingredients of this medicine (listed in section 6). If you think you may be allergic, ask your doctor for advice.
 
 If you are uncertain whether any of the conditions above apply to you, talk to your doctor, pharmacist or nurse before taking Pomalidomide Viatris.
@@ -1991,13 +1958,13 @@ in the blood which can lead to kidney failure. You may also experience an uneven
 - you have or have ever had hepatitis B infection. Treatment with Pomalidomide Viatris may cause the hepatitis B virus to become active again in patients who carry the virus, resulting in a recurrence  of the infection. Your doctor should check whether you have ever had hepatitis B infection.
 - you experience or have experienced in the past a combination of any of the following symptoms: rash on face or extended rash, red skin, high fever, flu-like symptoms, enlarged lymph nodes (signs of severe skin reaction called Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) or drug hypersensitivity syndrome, Toxic Epidermal Necrolysis (TEN) or Stevens-Johnson Syndrome (SJS). See also section 4 'Possible side effects').
 
-It is  important to note that patients with multiple myeloma treated with  pomalidomide may develop additional types of cancer, therefore your doctor should carefully evaluate the benefit and risk when  you are prescribed this medicine.
+It  is  important to note that patients with multiple myeloma treated with pomalidomide may develop additional types of cancer, therefore your doctor should carefully evaluate the benefit and risk when  you are prescribed this medicine.
 
 At any time during or after your treatment, tell your doctor or nurse immediately if you: experience blurred, loss of or double vision, difficulty speaking, weakness in an arm or a leg, a change in the way you walk or problems with your balance, persistent numbness, decreased sensation or loss of sensation, memory loss or confusion. These may all be symptoms of a serious and potentially fatal brain condition known as progressive multifocal leukoencephalopathy (PML). If you had these symptoms prior to treatment with Pomalidomide Viatris, tell your doctor about any change in these symptoms.
 
 At the end of the treatment you should return all unused capsules to the pharmacist.
 
-## Pregnancy, contraception and breast-feeding - information for women and men
+## Pregnancy, contraception and breast-feeding -information for women and men
 
 The following must be followed as stated in the Pomalidomide Viatris Pregnancy Prevention Programme. Women and men taking Pomalidomide Viatris must not become pregnant or father a child. This is because pomalidomide is expected to harm the unborn baby. You and your partner should use effective methods of contraception while taking this medicine.
 
@@ -2062,7 +2029,7 @@ Some people feel tired, dizzy, faint, confused or less alert when taking Pomalid
 
 ## Pomalidomide Viatris contains sodium
 
-This medicine contains less than 1 mmol sodium (23 mg) per capsule, that is to say essentially 'sodium-free'.
+This medicine contains less than 1 mmol sodium (23 mg) per capsule, that is to say essentially 'sodium -free'.
 
 ## 3. How to take Pomalidomide Viatris
 
@@ -2077,16 +2044,15 @@ Always take your medicines exactly as your doctor has told you. Check with your 
 ## Pomalidomide Viatris with bortezomib and dexamethasone
 
 - See the leaflets that come with bortezomib and dexamethasone for further information on their use and effects.
-- Pomalidomide Viatris, bortezomib and dexamethasone are taken in 'treatment cycles'. Each cycle lasts 21 days (3 weeks).
+- Pomalidomide Viatris, bortezomib and dexamethasone are taken in ' treatment c ycles'. Each cycle lasts 21 days (3 weeks).
 - Look at the chart below to see what to take on each day of the 3-week cycle:
 - o Each day, look down the chart and find the correct day to see which medicines to take.
 - o Some days, you take all 3 medicines, some days just 2 or 1 medicines, and some days none at all.
+- After completing each 3-week cycle, start a new one.
 
 ## POM: Pomalidomide Viatris; BOR : Bortezomib; DEX : Dexamethasone
 
 Cycle 1 to 8
-
-Cycle 9 and onwards
 
 |     | Medicine name   | Medicine name   | Medicine name   |
 |-----|-----------------|-----------------|-----------------|
@@ -2113,6 +2079,8 @@ Cycle 9 and onwards
 | 20  |                 |                 |                 |
 | 21  |                 |                 |                 |
 
+Cycle 9 and onwards
+
 |     | Medicine name   | Medicine name   | Medicine name   |
 |-----|-----------------|-----------------|-----------------|
 | Day | POM             | BOR             | DEX             |
@@ -2138,12 +2106,10 @@ Cycle 9 and onwards
 | 20  |                 |                 |                 |
 | 21  |                 |                 |                 |
 
-- After completing each 3-week cycle, start a new one.
-
 ## Pomalidomide Viatris with dexamethasone only
 
 - See the leaflet that comes with dexamethasone for further information on its use and effects.
-- Pomalidomide Viatris and dexamethasone are taken in 'treatment cycles'. Each cycle lasts 28 days (4 weeks).
+- Pomalidomide Viatris and dexamethasone are taken in 'treatment cycle s'. Each cycle lasts 28 days (4 weeks).
 - Look at the chart below to see what to take on each day of the 4-week cycle:
 - o Each day, look down the chart and find the correct day to see which medicines to take.
 - o Some days, you take both medicines, some days just 1 medicine, and some days none at all.
@@ -2191,7 +2157,7 @@ POM: Pomalidomide Viatris; DEX : Dexamethasone
 ## Pomalidomide Viatris with bortezomib and dexamethasone
 
 - The recommended starting dose of Pomalidomide Viatris is 4 mg per day.
-- The recommended starting dose of bortezomib will be worked out by your doctor and based on your height and weight (1.3 mg/m 2  body surface area).
+- The recommended starting dose of bortezomib will be worked out by your doctor and based on your height and weight (1.3 mg/m 2 body surface area).
 - The recommended starting dose of dexamethasone is 20 mg per day. However, if you are over 75, the recommended starting dose is 10 mg per day.
 
 ## Pomalidomide Viatris with dexamethasone only
@@ -2239,7 +2205,7 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 ## Serious side effects
 
-Stop taking Pomalidomide Viatris and see a doctor straight away if you notice any of the following serious  side effects - you may need urgent medical treatment:
+Stop taking Pomalidomide Viatris and see a doctor straight away if you notice any of the following serious  side effects -you may need urgent medical treatment:
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2254,7 +2220,7 @@ Stop taking Pomalidomide Viatris and see a doctor straight away if you notice an
 - Recurrence of hepatitis B infection, which can cause yellowing of the skin and eyes, dark, brown-coloured urine, right-sided abdominal pain, fever and feeling nauseous or being sick.  Tell your doctor straightaway if you notice any of these symptoms.
 - Widespread rash, high body temperature, enlarged lymph nodes and other body organs involvement (Drug Reaction with Eosinophilia and Systemic Symptoms which is also known as DRESS or drug hypersensitivity syndrome, Toxic Epidermal Necrolysis or Stevens-Johnson Syndrome). Stop using pomalidomide if you develop these symptoms and contact your doctor or seek medical attention immediately. See also section 2.
 
-Stop taking Pomalidomide Viatris and see a doctor straight away if you notice any of the serious side effects listed above - you may need urgent medical treatment.
+Stop taking Pomalidomide Viatris and see a doctor straight away if you notice any of the serious side effects listed above -you may need urgent medical treatment.
 
 ## Other side effects
 
@@ -2359,7 +2325,7 @@ Do not throw away any medicines via wastewater or household waste. Any unused me
 - -The other ingredients are pregelatinised starch, colloidal anhydrous silica, magnesium stearate, mannitol and croscarmellose sodium.
 - -The printing ink contains: shellac, black iron oxide (E172), propylene glycol and ammonium hydroxide.
 
-Pomalidomide Viatris 1 mg hard capsule:
+## Pomalidomide Viatris 1 mg hard capsule:
 
 - -Each capsule contains 1 mg of pomalidomide.
 - -The capsule shell contains: gelatin, titanium dioxide (E171), ferric oxide red (E172), ferric oxide yellow (E172) and Indigo carmine (E132).
@@ -2369,7 +2335,7 @@ Pomalidomide Viatris 2 mg hard capsule:
 - -Each capsule contains 2 mg of pomalidomide.
 - -The capsule shell contains: gelatin, titanium dioxide (E171), ferric oxide red (E172), ferric oxide yellow (E172) and Indigo carmine (E132).
 
-Pomalidomide Viatris 3 mg hard capsule:
+## Pomalidomide Viatris 3 mg hard capsule:
 
 - -Each capsule contains 3 mg of pomalidomide.
 - -The capsule shell contains: gelatin, titanium dioxide (E171), ferric oxide yellow (E172) and Indigo carmine (E132).
@@ -2389,7 +2355,9 @@ Pomalidomide Viatris 2 mg hard capsules have a blue opaque cap and light orange 
 
 Pomalidomide Viatris 3 mg hard capsules have a blue opaque cap and light green opaque body, imprinted with 'VIATRIS' over 'PM3'.
 
-Pomalidomide Viatris 4 mg hard capsules have a blue opaque cap and light blue opaque body, imprinted with 'VIATRIS' over 'PM4'.
+Pomalidomide Viatris 4 mg hard capsules have a blue opaque cap and light blue opaque body,
+
+imprinted with 'VIATRIS' over 'PM4'.
 
 Pomalidomide Viatris is provided in blister packs of 14 or 21 hard capsules or perforated blister packs of 14x1 or 21x1 hard capsules.
 
@@ -2403,7 +2371,7 @@ Viatris Limited Damastown Industrial Park Mulhuddart Dublin 15 DUBLIN Ireland
 
 Mylan Hungary Kft. / Mylan Hungary Ltd. Mylan Utca 1 Komárom 2900 Hungary
 
-## Mylan Germany GmbH
+## Viatris Germany GmbH
 
 Benzstrasse 1
 
@@ -2429,9 +2397,13 @@ Tel: +370 5 205 1288
 
 ## България
 
-Майлан ЕООД
+Виатрис
 
-Тел: +359 2 44 55 400
+ЕООД
+
+Тел
+
+.: +359 2 44 55 400
 
 ## Luxembourg/Luxemburg
 
@@ -2443,7 +2415,7 @@ Tél/Tel: + 32 (0)2 658 61 00
 
 <div style=\"page-break-after: always\"></div>
 
-## Česká republika
+## Č eská republika
 
 Viatris CZ s.r.o.
 
@@ -2469,7 +2441,9 @@ Tel: + 372 6363 052
 
 ## Ελλάδα
 
-Viatris Hellas Ltd Τηλ: +30 2100 100 002
+Viatris Hellas Ltd
+
+Τηλ: +30 210 0 100 002
 
 ## España
 
@@ -2509,7 +2483,11 @@ Tel: + 39 (0)2 612 46921
 
 ## Κύπρος
 
-GPA Pharmaceuticals Ltd Τηλ: +357 22863100
+CPO Pharmaceuticals Limited
+
+Τηλ: +357
+
+22863100
 
 ## Magyarország
 
@@ -2549,7 +2527,9 @@ Tel.: + 48 22 546 64 00
 
 ## Portugal
 
-Mylan, Lda. Tel: + 351 214 127 200
+Mylan, Lda.
+
+Tel: + 351 214 127 200
 
 ## România
 
@@ -2571,7 +2551,9 @@ Tel: +421 2 32 199 100
 
 ## Suomi/Finland
 
-Viatris Oy Puh/Tel: +358 20 720 9555
+Viatris Oy
+
+Puh/Tel: +358 20 720 9555
 
 ## Sverige
 

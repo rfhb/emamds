@@ -1,32 +1,108 @@
 ---
-document_datetime: 2025-12-29 08:56:54
+document_datetime: 2026-05-07 16:55:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/rapilysin.html
 document_name: rapilysin.html
 version: success
-processing_time: 0.1108123
-conversion_datetime: 2025-12-30 00:50:29.100479
+processing_time: 0.092207
+conversion_datetime: 2026-05-10 12:24:05.205177
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.17.0
+  docling-jobkit: 1.18.0
+  docling: 2.92.0
+  docling-core: 2.74.1
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.10.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
+# Search
+
+- [Medicines](/en/medicines)
+    - [Find medicine](/en/medicines)
+    - [Therapeutic areas: latest updates](/en/medicines/therapeutic-areas-latest-updates)
+    - [Download medicine data](/en/medicines/download-medicine-data)
+    - [What we publish on medicines and when](/en/medicines/what-we-publish-medicines-when)
+    - [Medicines under evaluation](/en/medicines/medicines-human-use-under-evaluation)
+    - [National registers](/en/medicines/national-registers-authorised-medicines)
+- [Human regulatory](/en/human-regulatory-overview)
+    - [Overview](/en/human-regulatory-overview)
+    - [Research and development](/en/human-regulatory-overview/research-development)
+    - [Marketing authorisation](/en/human-regulatory-overview/marketing-authorisation)
+    - [Post-authorisation](/en/human-regulatory-overview/post-authorisation)
+    - [Medical devices](/en/human-regulatory-overview/medical-devices)
+    - [Herbal products](/en/human-regulatory-overview/herbal-medicinal-products)
+- [Veterinary regulatory](/en/veterinary-regulatory-overview)
+    - [Overview](/en/veterinary-regulatory-overview)
+    - [Research and development](/en/veterinary-regulatory-overview/research-development-veterinary-medicines)
+    - [Marketing authorisation](/en/veterinary-regulatory-overview/marketing-authorisation-veterinary-medicines)
+    - [Post-authorisation](/en/veterinary-regulatory-overview/post-authorisation-veterinary-medicines)
+- [Committees](/en/committees)
+    - [Overview](/en/committees)
+    - [How the committees work](/en/committees/how-committees-work)
+    - [CHMP](/en/committees/committee-medicinal-products-human-use-chmp)
+    - [CVMP](/en/committees/committee-veterinary-medicinal-products-cvmp)
+    - [PRAC](/en/committees/pharmacovigilance-risk-assessment-committee-prac)
+    - [COMP](/en/committees/committee-orphan-medicinal-products-comp)
+    - [HMPC](/en/committees/committee-herbal-medicinal-products-hmpc)
+    - [CAT](/en/committees/committee-advanced-therapies-cat)
+    - [PDCO](/en/committees/paediatric-committee-pdco)
+    - [Working parties and other groups](/en/committees/working-parties-other-groups)
+- [News &amp; events](/en/news-events)
+    - [Overview](/en/news-events)
+    - [News](/en/news)
+    - [Events](/en/events/upcoming-events)
+    - [What's new](/en/news-events/whats-new)
+    - [Committee highlights](/en/news-events/committee-highlights)
+    - [Publications](/en/news-and-events/publications)
+    - [Press and social media](/en/news-events/press-social-media)
+    - [Podcast: Inside EMA](/en/news-events/podcast-inside-ema)
+    - [EMA Campaigns](/en/news-events/ema-campaigns)
+    - [Open consultations](/en/news-events/open-consultations)
+    - [RSS feeds](/en/news-events/rss-feeds)
+- [Partners &amp; networks](/en/partners-networks)
+    - [Overview](/en/partners-networks)
+    - [EU partners](/en/partners-networks/eu-partners)
+    - [International activities](/en/partners-networks/international-activities)
+    - [Patients and consumers](/en/partners-networks/patients-consumers)
+    - [Healthcare professionals](/en/partners-networks/healthcare-professionals)
+    - [Academia](/en/partners-networks/academia)
+    - [Pharmaceutical industry](/en/partners-networks/pharmaceutical-industry)
+    - [Networks](/en/partners-networks/networks)
+    - [Health technology assessment bodies](/en/partners-networks/health-technology-assessment-bodies)
+    - [One Health approach](/en/partners-networks/one-health-approach)
+    - [Animal health practitioners](/en/partners-networks/animal-health-practitioners)
+    - [One substance - one assessment](/en/partners-networks/one-substance-one-assessment-osoa-eu-collaboration-chemicals-related-data)
+- [About us](/en/about-us)
+    - [Overview](/en/about-us)
+    - [What we do](/en/about-us/what-we-do)
+    - [Who we are](/en/about-us/who-we-are)
+    - [How we work](/en/about-us/how-we-work)
+    - [Fees](/en/about-us/fees-payable-european-medicines-agency)
+    - [Support to SMEs](/en/about-us/support-smes)
+    - [Annual reports and work programmes](/en/about-us/annual-reports-work-programmes)
+    - [History of EMA](/en/about-us/history-ema)
+    - [Careers](/en/about-us/careers)
+    - [Procurement](/en/about-us/procurement-grants)
+    - [About this website](/en/about-us/about-website)
+    - [Data protection and privacy](/en/about-us/data-protection-privacy-ema)
+    - [Contacts](/en/about-us/contacts-european-medicines-agency)
+
+1. [Home](/en/homepage)
+2. [Medicines](https://www.ema.europa.eu/en/medicines)
+3. Rapilysin
+
 # Rapilysin
 
 [RSS](/en/individual-human-medicine.xml/65917)
 
-##### Authorised
+Withdrawn
 
-This medicine is authorised for use in the European Union
+This medicine's authorisation has been withdrawn
 
-reteplase Medicine Human Authorised
+reteplase
 
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
+Medicine Human Withdrawn
 
 Page contents
 
@@ -45,329 +121,149 @@ Page contents
 
 ## Overview
 
-This is a summary of the European public assessment report (EPAR) for Rapilysin. It explains how the Committee for Medicinal Products for Human Use (CHMP) assessed the medicine to reach its opinion in favour of granting a marketing authorisation and its recommendations on the conditions of use for Rapilysin.
+On 26 January 2024, the European Commission withdrew the marketing authorisation for Rapilysin (reteplase) in the European Union (EU). The withdrawal was at the request of the marketing authorisation holder, Actavis Group PTC ehf., which notified the European Commission of its decision to permanently discontinue the marketing of the product for commercial reasons.
 
-Expand section
-
-Collapse section
-
-## What is Rapilysin?
-
-Rapilysin is a powder and solvent that are made up into a solution for injection. It contains the active substance reteplase.
-
-## What is Rapilysin used for?
-
-Rapilysin is used within 12 hours of a suspected heart attack to help dissolve the blood clots obstructing the flow of blood to the heart muscle.
-
-The medicine can only be obtained with a prescription.
-
-## How is Rapilysin used?
-
-Rapilysin should be prescribed by doctors who have experience in using medicines that dissolve blood clots and who can monitor its use.
-
-Treatment with Rapilysin should be started as soon as possible after the start of heart attack symptoms. Rapilysin is given as two injections, 30 minutes apart. Each injection is given into a vein slowly, but in less than two minutes. Other medicines that prevent clotting (aspirin and heparin) should be given before and after the Rapilysin injection to stop clots from forming again. However, Rapilysin and heparin or aspirin must not be given in the same syringe.
-
-## How does Rapilysin work?
-
-The active substance in Rapilysin, reteplase, is a copy of a natural enzyme called t?PA that has been modified so that it starts working faster and for longer. Reteplase activates the production of an enzyme called plasmin, which breaks up blood clots. Following a heart attack, Rapilysin can help dissolve blood clots that have formed in the arteries supplying the heart muscle, thereby restoring normal blood flow to the heart.
-
-## How has Rapilysin been studied?
-
-Rapilysin has been studied in more than 21,000 patients in four studies. Rapilysin has been compared with other medicines used to dissolve blood clots: streptokinase in 6,000 patients and alteplase in about 15,000 patients. The studies looked at the number of patients who had died 30 to 35 days after treatment, and at the number of patients who had heart failure (an inability of the heart to pump enough blood around the body) or a stroke.
-
-## What benefit has Rapilysin shown during the studies?
-
-Rapilysin was more effective than streptokinase in reducing the number of patients with heart failure, and it was as effective as streptokinase in preventing death. Rapilysin was also as effective as alteplase in preventing death and stroke.
-
-## What is the risk associated with Rapilysin?
-
-The most common side effects with Rapilysin (seen in more than 1 patient in 10) are bleeding at the injection site, recurrent ischaemia (reduced blood supply to parts of the body) or angina (severe chest pain), hypotension (low blood pressure), heart failure or pulmonary oedema (build-up of fluid on the lungs), and reactions at the site of the injection, such as burning sensations. For the full list of all side effects reported with Rapilysin, see the package leaflet.
-
-Rapilysin must also not be used in patients who are at risk of bleeding because of other diseases, treatment with other medicines, high blood pressure, previous bleeding or recent surgery. For the full list of restrictions, see the package leaflet.
-
-## Why has Rapilysin been approved?
-
-The CHMP decided that Rapilysin's benefits are greater than its risks for and recommended that it be given marketing authorisation.
-
-## Other information about Rapilysin
-
-The European Commission granted a marketing authorisation valid throughout the European Union for Rapilysin on 9 November 1996.
-
-For more information about treatment with Rapilysin, read the package leaflet (also part of the EPAR) or contact your doctor or pharmacist.
+Rapilysin was granted marketing authorisation in the EU on 29 August 1996 for the treatment of suspected myocardial infarction. The marketing authorisation was initially valid for a 5-year period. It was subsequently renewed for an additional 5-year period in 2001. It was then granted unlimited validity in 2006.
 
 Rapilysin : EPAR - Summary for the public
 
-English (EN) (90.83 KB - PDF)
+English (EN) (107.87 KB - PDF)
 
-**First published:** 11/07/2006
-
-**Last updated:** 09/03/2016
+**First published:** 11/07/2006 **Last updated:** 09/03/2016
 
 [View](/en/documents/overview/rapilysin-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-191)
+[Other languages (22)](#file-language-dropdown-19)
 
-български (BG) (98.77 KB - PDF)
+български (BG) (115.26 KB - PDF)
 
-**First published:**
-
-11/07/2006
-
-**Last updated:**
-
-09/03/2016
+**First published:** 11/07/2006 **Last updated:** 09/03/2016
 
 [View](/bg/documents/overview/rapilysin-epar-summary-public_bg.pdf)
 
-español (ES) (68.38 KB - PDF)
+español (ES) (85.87 KB - PDF)
 
-**First published:**
-
-11/07/2006
-
-**Last updated:**
-
-09/03/2016
+**First published:** 11/07/2006 **Last updated:** 09/03/2016
 
 [View](/es/documents/overview/rapilysin-epar-summary-public_es.pdf)
 
-čeština (CS) (95.86 KB - PDF)
+čeština (CS) (107.81 KB - PDF)
 
-**First published:**
-
-11/07/2006
-
-**Last updated:**
-
-09/03/2016
+**First published:** 11/07/2006 **Last updated:** 09/03/2016
 
 [View](/cs/documents/overview/rapilysin-epar-summary-public_cs.pdf)
 
-dansk (DA) (72.76 KB - PDF)
+dansk (DA) (84.37 KB - PDF)
 
-**First published:**
-
-11/07/2006
-
-**Last updated:**
-
-09/03/2016
+**First published:** 11/07/2006 **Last updated:** 09/03/2016
 
 [View](/da/documents/overview/rapilysin-epar-summary-public_da.pdf)
 
-Deutsch (DE) (74.75 KB - PDF)
+Deutsch (DE) (86.08 KB - PDF)
 
-**First published:**
-
-11/07/2006
-
-**Last updated:**
-
-09/03/2016
+**First published:** 11/07/2006 **Last updated:** 09/03/2016
 
 [View](/de/documents/overview/rapilysin-epar-summary-public_de.pdf)
 
-eesti keel (ET) (65.88 KB - PDF)
+eesti keel (ET) (83.3 KB - PDF)
 
-**First published:**
-
-11/07/2006
-
-**Last updated:**
-
-09/03/2016
+**First published:** 11/07/2006 **Last updated:** 09/03/2016
 
 [View](/et/documents/overview/rapilysin-epar-summary-public_et.pdf)
 
-ελληνικά (EL) (100.81 KB - PDF)
+ελληνικά (EL) (117.09 KB - PDF)
 
-**First published:**
-
-11/07/2006
-
-**Last updated:**
-
-09/03/2016
+**First published:** 11/07/2006 **Last updated:** 09/03/2016
 
 [View](/el/documents/overview/rapilysin-epar-summary-public_el.pdf)
 
-français (FR) (68.94 KB - PDF)
+français (FR) (86.41 KB - PDF)
 
-**First published:**
-
-11/07/2006
-
-**Last updated:**
-
-09/03/2016
+**First published:** 11/07/2006 **Last updated:** 09/03/2016
 
 [View](/fr/documents/overview/rapilysin-epar-summary-public_fr.pdf)
 
-hrvatski (HR) (93.46 KB - PDF)
+hrvatski (HR) (110.81 KB - PDF)
 
-**First published:**
-
-11/07/2006
-
-**Last updated:**
-
-09/03/2016
+**First published:** 11/07/2006 **Last updated:** 09/03/2016
 
 [View](/hr/documents/overview/rapilysin-epar-summary-public_hr.pdf)
 
-italiano (IT) (66.19 KB - PDF)
+italiano (IT) (83.4 KB - PDF)
 
-**First published:**
-
-11/07/2006
-
-**Last updated:**
-
-09/03/2016
+**First published:** 11/07/2006 **Last updated:** 09/03/2016
 
 [View](/it/documents/overview/rapilysin-epar-summary-public_it.pdf)
 
-latviešu valoda (LV) (87.59 KB - PDF)
+latviešu valoda (LV) (108.59 KB - PDF)
 
-**First published:**
-
-11/07/2006
-
-**Last updated:**
-
-09/03/2016
+**First published:** 11/07/2006 **Last updated:** 09/03/2016
 
 [View](/lv/documents/overview/rapilysin-epar-summary-public_lv.pdf)
 
-lietuvių kalba (LT) (88.41 KB - PDF)
+lietuvių kalba (LT) (106.48 KB - PDF)
 
-**First published:**
-
-11/07/2006
-
-**Last updated:**
-
-09/03/2016
+**First published:** 11/07/2006 **Last updated:** 09/03/2016
 
 [View](/lt/documents/overview/rapilysin-epar-summary-public_lt.pdf)
 
-magyar (HU) (84.61 KB - PDF)
+magyar (HU) (102.86 KB - PDF)
 
-**First published:**
-
-11/07/2006
-
-**Last updated:**
-
-09/03/2016
+**First published:** 11/07/2006 **Last updated:** 09/03/2016
 
 [View](/hu/documents/overview/rapilysin-epar-summary-public_hu.pdf)
 
-Malti (MT) (91.08 KB - PDF)
+Malti (MT) (109.06 KB - PDF)
 
-**First published:**
-
-11/07/2006
-
-**Last updated:**
-
-09/03/2016
+**First published:** 11/07/2006 **Last updated:** 09/03/2016
 
 [View](/mt/documents/overview/rapilysin-epar-summary-public_mt.pdf)
 
-Nederlands (NL) (66.96 KB - PDF)
+Nederlands (NL) (83.97 KB - PDF)
 
-**First published:**
-
-11/07/2006
-
-**Last updated:**
-
-09/03/2016
+**First published:** 11/07/2006 **Last updated:** 09/03/2016
 
 [View](/nl/documents/overview/rapilysin-epar-summary-public_nl.pdf)
 
-polski (PL) (92.05 KB - PDF)
+polski (PL) (110.46 KB - PDF)
 
-**First published:**
-
-11/07/2006
-
-**Last updated:**
-
-09/03/2016
+**First published:** 11/07/2006 **Last updated:** 09/03/2016
 
 [View](/pl/documents/overview/rapilysin-epar-summary-public_pl.pdf)
 
-português (PT) (68.07 KB - PDF)
+português (PT) (85.5 KB - PDF)
 
-**First published:**
-
-11/07/2006
-
-**Last updated:**
-
-09/03/2016
+**First published:** 11/07/2006 **Last updated:** 09/03/2016
 
 [View](/pt/documents/overview/rapilysin-epar-summary-public_pt.pdf)
 
-română (RO) (87.23 KB - PDF)
+română (RO) (105.15 KB - PDF)
 
-**First published:**
-
-11/07/2006
-
-**Last updated:**
-
-09/03/2016
+**First published:** 11/07/2006 **Last updated:** 09/03/2016
 
 [View](/ro/documents/overview/rapilysin-epar-summary-public_ro.pdf)
 
-slovenčina (SK) (91.84 KB - PDF)
+slovenčina (SK) (110.25 KB - PDF)
 
-**First published:**
-
-11/07/2006
-
-**Last updated:**
-
-09/03/2016
+**First published:** 11/07/2006 **Last updated:** 09/03/2016
 
 [View](/sk/documents/overview/rapilysin-epar-summary-public_sk.pdf)
 
-slovenščina (SL) (81.13 KB - PDF)
+slovenščina (SL) (98.85 KB - PDF)
 
-**First published:**
-
-11/07/2006
-
-**Last updated:**
-
-09/03/2016
+**First published:** 11/07/2006 **Last updated:** 09/03/2016
 
 [View](/sl/documents/overview/rapilysin-epar-summary-public_sl.pdf)
 
-Suomi (FI) (66.06 KB - PDF)
+Suomi (FI) (83.21 KB - PDF)
 
-**First published:**
-
-11/07/2006
-
-**Last updated:**
-
-09/03/2016
+**First published:** 11/07/2006 **Last updated:** 09/03/2016
 
 [View](/fi/documents/overview/rapilysin-epar-summary-public_fi.pdf)
 
-svenska (SV) (66.74 KB - PDF)
+svenska (SV) (83.94 KB - PDF)
 
-**First published:**
-
-11/07/2006
-
-**Last updated:**
-
-09/03/2016
+**First published:** 11/07/2006 **Last updated:** 09/03/2016
 
 [View](/sv/documents/overview/rapilysin-epar-summary-public_sv.pdf)
 
@@ -375,305 +271,161 @@ svenska (SV) (66.74 KB - PDF)
 
 Rapilysin : EPAR - Product Information
 
-English (EN) (346.95 KB - PDF)
+English (EN) (373.29 KB - PDF)
 
-**First published:** 13/08/2008
-
-**Last updated:** 01/06/2023
+**First published:** 13/08/2008 **Last updated:** 01/06/2023
 
 [View](/en/documents/product-information/rapilysin-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-741)
+[Other languages (24)](#file-language-dropdown-39)
 
-български (BG) (425.85 KB - PDF)
+български (BG) (454.3 KB - PDF)
 
-**First published:**
-
-13/08/2008
-
-**Last updated:**
-
-01/06/2023
+**First published:** 13/08/2008 **Last updated:** 01/06/2023
 
 [View](/bg/documents/product-information/rapilysin-epar-product-information_bg.pdf)
 
-español (ES) (352.26 KB - PDF)
+español (ES) (385.27 KB - PDF)
 
-**First published:**
-
-13/08/2008
-
-**Last updated:**
-
-01/06/2023
+**First published:** 13/08/2008 **Last updated:** 01/06/2023
 
 [View](/es/documents/product-information/rapilysin-epar-product-information_es.pdf)
 
-čeština (CS) (366.51 KB - PDF)
+čeština (CS) (393.69 KB - PDF)
 
-**First published:**
-
-13/08/2008
-
-**Last updated:**
-
-01/06/2023
+**First published:** 13/08/2008 **Last updated:** 01/06/2023
 
 [View](/cs/documents/product-information/rapilysin-epar-product-information_cs.pdf)
 
-dansk (DA) (358.16 KB - PDF)
+dansk (DA) (385.43 KB - PDF)
 
-**First published:**
-
-13/08/2008
-
-**Last updated:**
-
-01/06/2023
+**First published:** 13/08/2008 **Last updated:** 01/06/2023
 
 [View](/da/documents/product-information/rapilysin-epar-product-information_da.pdf)
 
-Deutsch (DE) (380.08 KB - PDF)
+Deutsch (DE) (406.69 KB - PDF)
 
-**First published:**
-
-13/08/2008
-
-**Last updated:**
-
-01/06/2023
+**First published:** 13/08/2008 **Last updated:** 01/06/2023
 
 [View](/de/documents/product-information/rapilysin-epar-product-information_de.pdf)
 
-eesti keel (ET) (403.4 KB - PDF)
+eesti keel (ET) (430.74 KB - PDF)
 
-**First published:**
-
-13/08/2008
-
-**Last updated:**
-
-01/06/2023
+**First published:** 13/08/2008 **Last updated:** 01/06/2023
 
 [View](/et/documents/product-information/rapilysin-epar-product-information_et.pdf)
 
-ελληνικά (EL) (449.04 KB - PDF)
+ελληνικά (EL) (478.54 KB - PDF)
 
-**First published:**
-
-13/08/2008
-
-**Last updated:**
-
-01/06/2023
+**First published:** 13/08/2008 **Last updated:** 01/06/2023
 
 [View](/el/documents/product-information/rapilysin-epar-product-information_el.pdf)
 
-français (FR) (391.53 KB - PDF)
+français (FR) (418.05 KB - PDF)
 
-**First published:**
-
-13/08/2008
-
-**Last updated:**
-
-01/06/2023
+**First published:** 13/08/2008 **Last updated:** 01/06/2023
 
 [View](/fr/documents/product-information/rapilysin-epar-product-information_fr.pdf)
 
-hrvatski (HR) (379.45 KB - PDF)
+hrvatski (HR) (404.79 KB - PDF)
 
-**First published:**
-
-13/08/2008
-
-**Last updated:**
-
-01/06/2023
+**First published:** 13/08/2008 **Last updated:** 01/06/2023
 
 [View](/hr/documents/product-information/rapilysin-epar-product-information_hr.pdf)
 
-íslenska (IS) (350.65 KB - PDF)
+íslenska (IS) (376.43 KB - PDF)
 
-**First published:**
-
-13/08/2008
-
-**Last updated:**
-
-01/06/2023
+**First published:** 13/08/2008 **Last updated:** 01/06/2023
 
 [View](/is/documents/product-information/rapilysin-epar-product-information_is.pdf)
 
-italiano (IT) (352.19 KB - PDF)
+italiano (IT) (378.23 KB - PDF)
 
-**First published:**
-
-13/08/2008
-
-**Last updated:**
-
-01/06/2023
+**First published:** 13/08/2008 **Last updated:** 01/06/2023
 
 [View](/it/documents/product-information/rapilysin-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (397.52 KB - PDF)
+latviešu valoda (LV) (424.33 KB - PDF)
 
-**First published:**
-
-13/08/2008
-
-**Last updated:**
-
-01/06/2023
+**First published:** 13/08/2008 **Last updated:** 01/06/2023
 
 [View](/lv/documents/product-information/rapilysin-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (386.98 KB - PDF)
+lietuvių kalba (LT) (411.88 KB - PDF)
 
-**First published:**
-
-13/08/2008
-
-**Last updated:**
-
-01/06/2023
+**First published:** 13/08/2008 **Last updated:** 01/06/2023
 
 [View](/lt/documents/product-information/rapilysin-epar-product-information_lt.pdf)
 
-magyar (HU) (411.45 KB - PDF)
+magyar (HU) (436.05 KB - PDF)
 
-**First published:**
-
-13/08/2008
-
-**Last updated:**
-
-01/06/2023
+**First published:** 13/08/2008 **Last updated:** 01/06/2023
 
 [View](/hu/documents/product-information/rapilysin-epar-product-information_hu.pdf)
 
-Malti (MT) (485.9 KB - PDF)
+Malti (MT) (509.97 KB - PDF)
 
-**First published:**
-
-13/08/2008
-
-**Last updated:**
-
-01/06/2023
+**First published:** 13/08/2008 **Last updated:** 01/06/2023
 
 [View](/mt/documents/product-information/rapilysin-epar-product-information_mt.pdf)
 
-Nederlands (NL) (361.61 KB - PDF)
+Nederlands (NL) (388.28 KB - PDF)
 
-**First published:**
-
-13/08/2008
-
-**Last updated:**
-
-01/06/2023
+**First published:** 13/08/2008 **Last updated:** 01/06/2023
 
 [View](/nl/documents/product-information/rapilysin-epar-product-information_nl.pdf)
 
-norsk (NO) (344.09 KB - PDF)
+norsk (NO) (370.17 KB - PDF)
 
-**First published:**
-
-13/08/2008
-
-**Last updated:**
-
-01/06/2023
+**First published:** 13/08/2008 **Last updated:** 01/06/2023
 
 [View](/no/documents/product-information/rapilysin-epar-product-information_no.pdf)
 
-polski (PL) (377.93 KB - PDF)
+polski (PL) (404.56 KB - PDF)
 
-**First published:**
-
-13/08/2008
-
-**Last updated:**
-
-01/06/2023
+**First published:** 13/08/2008 **Last updated:** 01/06/2023
 
 [View](/pl/documents/product-information/rapilysin-epar-product-information_pl.pdf)
 
-português (PT) (375.05 KB - PDF)
+português (PT) (401.27 KB - PDF)
 
-**First published:**
-
-13/08/2008
-
-**Last updated:**
-
-01/06/2023
+**First published:** 13/08/2008 **Last updated:** 01/06/2023
 
 [View](/pt/documents/product-information/rapilysin-epar-product-information_pt.pdf)
 
-română (RO) (401.83 KB - PDF)
+română (RO) (428.44 KB - PDF)
 
-**First published:**
-
-13/08/2008
-
-**Last updated:**
-
-01/06/2023
+**First published:** 13/08/2008 **Last updated:** 01/06/2023
 
 [View](/ro/documents/product-information/rapilysin-epar-product-information_ro.pdf)
 
-slovenčina (SK) (393.89 KB - PDF)
+slovenčina (SK) (418.3 KB - PDF)
 
-**First published:**
-
-13/08/2008
-
-**Last updated:**
-
-01/06/2023
+**First published:** 13/08/2008 **Last updated:** 01/06/2023
 
 [View](/sk/documents/product-information/rapilysin-epar-product-information_sk.pdf)
 
-slovenščina (SL) (395.98 KB - PDF)
+slovenščina (SL) (420.89 KB - PDF)
 
-**First published:**
-
-13/08/2008
-
-**Last updated:**
-
-01/06/2023
+**First published:** 13/08/2008 **Last updated:** 01/06/2023
 
 [View](/sl/documents/product-information/rapilysin-epar-product-information_sl.pdf)
 
-Suomi (FI) (379.54 KB - PDF)
+Suomi (FI) (406.1 KB - PDF)
 
-**First published:**
-
-13/08/2008
-
-**Last updated:**
-
-01/06/2023
+**First published:** 13/08/2008 **Last updated:** 01/06/2023
 
 [View](/fi/documents/product-information/rapilysin-epar-product-information_fi.pdf)
 
-svenska (SV) (342.34 KB - PDF)
+svenska (SV) (369.13 KB - PDF)
 
-**First published:**
-
-13/08/2008
-
-**Last updated:**
-
-01/06/2023
+**First published:** 13/08/2008 **Last updated:** 01/06/2023
 
 [View](/sv/documents/product-information/rapilysin-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** IG1612 31/05/2023
+**Latest procedure affecting product information:** IG1612
+
+31/05/2023
 
 icon globe
 
@@ -691,307 +443,179 @@ Product information documents contain:
 
 Rapilysin : EPAR - All Authorised presentations
 
-English (EN) (61.71 KB - PDF)
+English (EN) (81.75 KB - PDF)
 
-**First published:** 11/07/2006
-
-**Last updated:** 11/07/2006
+**First published:** 11/07/2006 **Last updated:** 11/07/2006
 
 [View](/en/documents/all-authorised-presentations/rapilysin-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-715)
+[Other languages (24)](#file-language-dropdown-128)
 
-български (BG) (93.87 KB - PDF)
+български (BG) (103.94 KB - PDF)
 
-**First published:**
-
-11/07/2006
-
-**Last updated:**
-
-11/07/2006
+**First published:** 11/07/2006 **Last updated:** 11/07/2006
 
 [View](/bg/documents/all-authorised-presentations/rapilysin-epar-all-authorised-presentations_bg.pdf)
 
-español (ES) (60.08 KB - PDF)
+español (ES) (80.2 KB - PDF)
 
-**First published:**
-
-11/07/2006
-
-**Last updated:**
-
-11/07/2006
+**First published:** 11/07/2006 **Last updated:** 11/07/2006
 
 [View](/es/documents/all-authorised-presentations/rapilysin-epar-all-authorised-presentations_es.pdf)
 
-čeština (CS) (82.29 KB - PDF)
+čeština (CS) (102.58 KB - PDF)
 
-**First published:**
-
-11/07/2006
-
-**Last updated:**
-
-11/07/2006
+**First published:** 11/07/2006 **Last updated:** 11/07/2006
 
 [View](/cs/documents/all-authorised-presentations/rapilysin-epar-all-authorised-presentations_cs.pdf)
 
-dansk (DA) (64 KB - PDF)
+dansk (DA) (84.49 KB - PDF)
 
-**First published:**
-
-11/07/2006
-
-**Last updated:**
-
-11/07/2006
+**First published:** 11/07/2006 **Last updated:** 11/07/2006
 
 [View](/da/documents/all-authorised-presentations/rapilysin-epar-all-authorised-presentations_da.pdf)
 
-Deutsch (DE) (67.8 KB - PDF)
+Deutsch (DE) (87.94 KB - PDF)
 
-**First published:**
-
-11/07/2006
-
-**Last updated:**
-
-11/07/2006
+**First published:** 11/07/2006 **Last updated:** 11/07/2006
 
 [View](/de/documents/all-authorised-presentations/rapilysin-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (60.37 KB - PDF)
+eesti keel (ET) (80.67 KB - PDF)
 
-**First published:**
-
-11/07/2006
-
-**Last updated:**
-
-11/07/2006
+**First published:** 11/07/2006 **Last updated:** 11/07/2006
 
 [View](/et/documents/all-authorised-presentations/rapilysin-epar-all-authorised-presentations_et.pdf)
 
-ελληνικά (EL) (79.1 KB - PDF)
+ελληνικά (EL) (102.81 KB - PDF)
 
-**First published:**
-
-11/07/2006
-
-**Last updated:**
-
-11/07/2006
+**First published:** 11/07/2006 **Last updated:** 11/07/2006
 
 [View](/el/documents/all-authorised-presentations/rapilysin-epar-all-authorised-presentations_el.pdf)
 
-français (FR) (61.76 KB - PDF)
+français (FR) (81.86 KB - PDF)
 
-**First published:**
-
-11/07/2006
-
-**Last updated:**
-
-11/07/2006
+**First published:** 11/07/2006 **Last updated:** 11/07/2006
 
 [View](/fr/documents/all-authorised-presentations/rapilysin-epar-all-authorised-presentations_fr.pdf)
 
-hrvatski (HR) (31.11 KB - PDF)
+hrvatski (HR) (47.2 KB - PDF)
 
-**First published:**
-
-11/07/2006
-
-**Last updated:**
-
-11/07/2006
+**First published:** 11/07/2006 **Last updated:** 11/07/2006
 
 [View](/hr/documents/all-authorised-presentations/rapilysin-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (14.85 KB - PDF)
+íslenska (IS) (30.04 KB - PDF)
 
-**First published:**
-
-11/07/2006
-
-**Last updated:**
-
-11/07/2006
+**First published:** 11/07/2006 **Last updated:** 11/07/2006
 
 [View](/is/documents/all-authorised-presentations/rapilysin-epar-all-authorised-presentations_is.pdf)
 
-italiano (IT) (59.83 KB - PDF)
+italiano (IT) (79.91 KB - PDF)
 
-**First published:**
-
-11/07/2006
-
-**Last updated:**
-
-11/07/2006
+**First published:** 11/07/2006 **Last updated:** 11/07/2006
 
 [View](/it/documents/all-authorised-presentations/rapilysin-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (84.43 KB - PDF)
+latviešu valoda (LV) (104.66 KB - PDF)
 
-**First published:**
-
-11/07/2006
-
-**Last updated:**
-
-11/07/2006
+**First published:** 11/07/2006 **Last updated:** 11/07/2006
 
 [View](/lv/documents/all-authorised-presentations/rapilysin-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (81.45 KB - PDF)
+lietuvių kalba (LT) (101.4 KB - PDF)
 
-**First published:**
-
-11/07/2006
-
-**Last updated:**
-
-11/07/2006
+**First published:** 11/07/2006 **Last updated:** 11/07/2006
 
 [View](/lt/documents/all-authorised-presentations/rapilysin-epar-all-authorised-presentations_lt.pdf)
 
-magyar (HU) (83.94 KB - PDF)
+magyar (HU) (104.27 KB - PDF)
 
-**First published:**
-
-11/07/2006
-
-**Last updated:**
-
-11/07/2006
+**First published:** 11/07/2006 **Last updated:** 11/07/2006
 
 [View](/hu/documents/all-authorised-presentations/rapilysin-epar-all-authorised-presentations_hu.pdf)
 
-Malti (MT) (90.26 KB - PDF)
+Malti (MT) (100.62 KB - PDF)
 
-**First published:**
-
-11/07/2006
-
-**Last updated:**
-
-11/07/2006
+**First published:** 11/07/2006 **Last updated:** 11/07/2006
 
 [View](/mt/documents/all-authorised-presentations/rapilysin-epar-all-authorised-presentations_mt.pdf)
 
-Nederlands (NL) (61.2 KB - PDF)
+Nederlands (NL) (81.26 KB - PDF)
 
-**First published:**
-
-11/07/2006
-
-**Last updated:**
-
-11/07/2006
+**First published:** 11/07/2006 **Last updated:** 11/07/2006
 
 [View](/nl/documents/all-authorised-presentations/rapilysin-epar-all-authorised-presentations_nl.pdf)
 
-norsk (NO) (14.96 KB - PDF)
+norsk (NO) (29.87 KB - PDF)
 
-**First published:**
-
-11/07/2006
-
-**Last updated:**
-
-11/07/2006
+**First published:** 11/07/2006 **Last updated:** 11/07/2006
 
 [View](/no/documents/all-authorised-presentations/rapilysin-epar-all-authorised-presentations_no.pdf)
 
-polski (PL) (84.96 KB - PDF)
+polski (PL) (105.03 KB - PDF)
 
-**First published:**
-
-11/07/2006
-
-**Last updated:**
-
-11/07/2006
+**First published:** 11/07/2006 **Last updated:** 11/07/2006
 
 [View](/pl/documents/all-authorised-presentations/rapilysin-epar-all-authorised-presentations_pl.pdf)
 
-português (PT) (61.74 KB - PDF)
+português (PT) (82.01 KB - PDF)
 
-**First published:**
-
-11/07/2006
-
-**Last updated:**
-
-11/07/2006
+**First published:** 11/07/2006 **Last updated:** 11/07/2006
 
 [View](/pt/documents/all-authorised-presentations/rapilysin-epar-all-authorised-presentations_pt.pdf)
 
-română (RO) (90.26 KB - PDF)
+română (RO) (99.14 KB - PDF)
 
-**First published:**
-
-11/07/2006
-
-**Last updated:**
-
-11/07/2006
+**First published:** 11/07/2006 **Last updated:** 11/07/2006
 
 [View](/ro/documents/all-authorised-presentations/rapilysin-epar-all-authorised-presentations_ro.pdf)
 
-slovenčina (SK) (82.83 KB - PDF)
+slovenčina (SK) (103.17 KB - PDF)
 
-**First published:**
-
-11/07/2006
-
-**Last updated:**
-
-11/07/2006
+**First published:** 11/07/2006 **Last updated:** 11/07/2006
 
 [View](/sk/documents/all-authorised-presentations/rapilysin-epar-all-authorised-presentations_sk.pdf)
 
-slovenščina (SL) (80.4 KB - PDF)
+slovenščina (SL) (100.44 KB - PDF)
 
-**First published:**
-
-11/07/2006
-
-**Last updated:**
-
-11/07/2006
+**First published:** 11/07/2006 **Last updated:** 11/07/2006
 
 [View](/sl/documents/all-authorised-presentations/rapilysin-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (57.3 KB - PDF)
+Suomi (FI) (77.48 KB - PDF)
 
-**First published:**
-
-11/07/2006
-
-**Last updated:**
-
-11/07/2006
+**First published:** 11/07/2006 **Last updated:** 11/07/2006
 
 [View](/fi/documents/all-authorised-presentations/rapilysin-epar-all-authorised-presentations_fi.pdf)
 
-svenska (SV) (63.11 KB - PDF)
+svenska (SV) (83.32 KB - PDF)
 
-**First published:**
-
-11/07/2006
-
-**Last updated:**
-
-11/07/2006
+**First published:** 11/07/2006 **Last updated:** 11/07/2006
 
 [View](/sv/documents/all-authorised-presentations/rapilysin-epar-all-authorised-presentations_sv.pdf)
 
 ## Product details
 
-Name of medicine Rapilysin Active substance reteplase International non-proprietary name (INN) or common name reteplase Therapeutic area (MeSH) Myocardial Infarction Anatomical therapeutic chemical (ATC) code B01AD07
+Name of medicine
+
+Rapilysin
+
+Active substance
+
+reteplase
+
+International non-proprietary name (INN) or common name
+
+reteplase
+
+Therapeutic area (MeSH)
+
+Myocardial Infarction
+
+Anatomical therapeutic chemical (ATC) code
+
+B01AD07
 
 ### Pharmacotherapeutic group
 
@@ -1003,13 +627,27 @@ Rapilysin is indicated for the thrombolytic treatment of suspected myocardial in
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/000105 Marketing authorisation holder
+EMA product number
+
+EMEA/H/C/000105
+
+Marketing authorisation holder
 
 Actavis Group PTC ehf
 
 Dalshraun 1
 
-Marketing authorisation issued 29/08/1996 Revision 27
+Marketing authorisation issued
+
+29/08/1996
+
+Withdrawal of marketing authorisation
+
+26/01/2024
+
+Revision
+
+28
 
 ## Assessment history
 
@@ -1021,21 +659,17 @@ Collapse section
 
 Rapilysin : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (2.06 MB - PDF)
+English (EN) (2.09 MB - PDF)
 
-**First published:** 13/08/2008
+**First published:** 13/08/2008 **Last updated:** 01/06/2023
 
-**Last updated:** 01/06/2023
-
-[View](/en/documents/procedural-steps-after/rapilysin-epar-procedural-steps-taken-and-scientific-information-after-authorisation_en.pdf)
+[View](/en/documents/procedural-steps-after/rapilysin-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
 Rapilysin : EPAR - Steps taken after authorisation when a cutoff date has been used
 
-English (EN) (97.87 KB - PDF)
+English (EN) (114.96 KB - PDF)
 
-**First published:** 11/07/2006
-
-**Last updated:** 11/07/2006
+**First published:** 11/07/2006 **Last updated:** 11/07/2006
 
 [View](/en/documents/steps-after-cutoff/rapilysin-epar-steps-taken-after-authorisation-when-cutoff-date-has-been-used_en.pdf)
 
@@ -1043,30 +677,26 @@ English (EN) (97.87 KB - PDF)
 
 Rapilysin : EPAR - Scientific Discussion
 
-English (EN) (176.14 KB - PDF)
+English (EN) (193.1 KB - PDF)
 
-**First published:** 11/07/2006
-
-**Last updated:** 11/07/2006
+**First published:** 11/07/2006 **Last updated:** 11/07/2006
 
 [View](/en/documents/scientific-discussion/rapilysin-epar-scientific-discussion_en.pdf)
 
 Rapilysin : EPAR - Procedural steps taken before authorisation
 
-English (EN) (82.29 KB - PDF)
+English (EN) (102.24 KB - PDF)
 
-**First published:** 11/07/2006
-
-**Last updated:** 11/07/2006
+**First published:** 11/07/2006 **Last updated:** 11/07/2006
 
 [View](/en/documents/procedural-steps/rapilysin-epar-procedural-steps-taken-authorisation_en.pdf)
 
-#### Topics
+## Topics
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 01/06/2023
+**This page was last updated on**
+
+07/05/2026
 
 ## Share this page
-
-[Back to top](#main-content)

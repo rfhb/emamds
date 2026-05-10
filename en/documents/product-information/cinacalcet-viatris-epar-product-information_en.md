@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-10-07 12:20:38
+document_datetime: 2026-05-07 16:05:38
 document_pages: 45
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/cinacalcet-viatris-epar-product-information_en.pdf
 document_name: cinacalcet-viatris-epar-product-information_en.pdf
 version: success
-processing_time: 8.6222042
-conversion_datetime: 2025-12-24 06:55:24.209857
+processing_time: 10.0878093
+conversion_datetime: 2026-05-10 12:21:26.19682
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.17.0
+  docling-jobkit: 1.18.0
+  docling: 2.92.0
+  docling-core: 2.74.1
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.10.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -28,17 +28,13 @@ Cinacalcet Viatris 30 mg film-coated tablets Cinacalcet Viatris 60 mg film-coate
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
-Cinacalcet Viatris 30 mg film-coated tablets
-
-Each film-coated tablet contains 30 mg of cinacalcet (as hydrochloride).
-
-Cinacalcet Viatris 60 mg film-coated tablets
-
-Each film-coated tablet contains 60 mg of cinacalcet (as hydrochloride).
-
-Cinacalcet Viatris 90 mg film-coated tablets
-
-Each film-coated tablet contains 90 mg of cinacalcet (as hydrochloride).
+| Cinacalcet Viatris 30 mg film-coated tablets                             |
+|--------------------------------------------------------------------------|
+| Each film-coated tablet contains 30 mg of cinacalcet (as hydrochloride). |
+| Cinacalcet Viatris 60 mg film-coated tablets                             |
+| Each film-coated tablet contains 60 mg of cinacalcet (as hydrochloride). |
+| Cinacalcet Viatris 90 mg film-coated tablets                             |
+| Each film-coated tablet contains 90 mg of cinacalcet (as hydrochloride). |
 
 For the full list of excipients, see section 6.1.
 
@@ -124,12 +120,12 @@ Table 1. Cinacalcet Viatris daily dose in paediatric patients
 
 | Patient dry weight (kg)   |   Starting dose (mg) | Available sequential dose levels (mg)   |
 |---------------------------|----------------------|-----------------------------------------|
-| 10 to < 12.5              |                  1   | 1, 2.5, 5, 7.5, 10 and 15               |
+| 10 to < 12.5              |                    1 | 1, 2.5, 5, 7.5, 10 and 15               |
 | ≥ 12.5 to < 25            |                  2.5 | 2.5, 5, 7.5, 10, 15, and 30             |
-| ≥ 25 to < 36              |                  5   | 5, 10, 15, 30, and 60                   |
-| ≥ 36 to < 50              |                  5   | 5, 10, 15, 30, 60, and 90               |
-| ≥ 50 to < 75              |                 10   | 10, 15, 30, 60, 90, and 120             |
-| ≥ 75                      |                 15   | 15, 30, 60, 90, 120, and 180            |
+| ≥ 25 to < 36              |                    5 | 5, 10, 15, 30, and 60                   |
+| ≥ 36 to < 50              |                    5 | 5, 10, 15, 30, 60, and 90               |
+| ≥ 50 to < 75              |                   10 | 10, 15, 30, 60, 90, and 120             |
+| ≥ 75                      |                   15 | 15, 30, 60, 90, 120, and 180            |
 
 Children who require doses lower than 30 mg or who are unable to swallow tablets, should use other more suitable pharmaceutical forms of cinacalcet products.
 
@@ -137,7 +133,7 @@ Children who require doses lower than 30 mg or who are unable to swallow tablets
 
 PTH levels should be assessed at least 12 hours after dosing with cinacalcet and iPTH should be measured 1 to 4 weeks after initiation or dose adjustment of cinacalcet.
 
-The dose should be adjusted based on iPTH as shown below:
+## The dose should be adjusted based on iPTH as shown below:
 
 - If iPTH is &lt; 150 pg/mL (15.9 pmol/L) and ≥ 100 pg/mL (10.6 pmol/L), decrease the dose of cinacalcet to the next lower dose.
 - If iPTH &lt; 100 pg/mL (10.6 pmol/L), stop cinacalcet treatment, restart cinacalcet at the next lower dose once the iPTH is &gt; 150 pg/mL (15.9 pmol/L). If cinacalcet treatment has been stopped for more than 14 days, restart at the recommended starting dose.
@@ -146,11 +142,9 @@ The dose should be adjusted based on iPTH as shown below:
 
 Serum calcium should be measured within 1 week after initiation or dose adjustment of cinacalcet.
 
-Once the maintenance dose has been established, weekly measurement of serum calcium is recommended. Serum calcium levels in paediatric patients should be maintained within the normal
+Once the maintenance dose has been established, weekly measurement of serum calcium is recommended. Serum calcium levels in paediatric patients should be maintained within the normal range. If serum calcium levels decrease below the normal range or symptoms of hypocalcaemia occur, appropriate dose adjustment steps should be taken as shown in table 2 below:
 
 <div style=\"page-break-after: always\"></div>
-
-range. If serum calcium levels decrease below the normal range or symptoms of hypocalcaemia occur, appropriate dose adjustment steps should be taken as shown in table 2 below:
 
 Table 2. Dose adjustment in paediatric patients ≥ 3 to &lt; 18 years of age
 
@@ -187,7 +181,7 @@ No change in starting dose is necessary. Cinacalcet should be used with caution 
 
 ## Method of administration
 
-For oral use.
+## For oral use.
 
 Tablets should be taken whole and should not be chewed, crushed or divided.
 
@@ -351,10 +345,6 @@ Adverse reactions, considered at least possibly attributable to cinacalcet treat
 | General disorders and administration site conditions |                 | Asthenia                                                               |                                                                                                     |
 | Investigations                                       |                 | Hypocalcaemia † Hyperkalaemia Reduced testosterone levels †            |                                                                                                     |
 
-* see section description of selected adverse reactions
-
-† see section 4.4
-
 ## Description of selected adverse reactions
 
 ## Hypersensitivity reactions
@@ -437,11 +427,9 @@ Seventeen patients received at least one dose of cinacalcet and 11 completed at 
 
 In one study, 46 adult patients (29 with parathyroid carcinoma and 17 with primary HPT and severe hypercalcaemia (who had failed or had contraindications to parathyroidectomy) received cinacalcet for up to 3 years (mean of 328 days for patients with parathyroid carcinoma and mean of 347 days for patients with primary HPT). Cinacalcet was administered at doses ranging from 30 mg twice daily to 90 mg four times daily. The primary endpoint of the study was a reduction of serum calcium of ≥ 1 mg/dl (≥ 0.25 mmol/l). In patients with parathyroid carcinoma, mean serum calcium declined from 14.1 mg/dl to 12.4 mg/dl (3.5 mmol/l to 3.1 mmol/l), while in patients with primary HPT, serum calcium levels declined from 12.7 mg/dl to 10.4 mg/dl (3.2 mmol/l to 2.6 mmol/l). Eighteen (18) of 29 patients (62%) with parathyroid carcinoma and 15 of 17 subjects (88%) with primary HPT achieved a reduction in serum calcium of ≥ 1 mg/dl (≥ 0.25 mmol/l).
 
-In a 28 week placebo-controlled study, 67 adult patients with primary HPT who met criteria for parathyroidectomy on the basis of corrected total serum calcium (&gt; 11.3 mg/dl (2.82 mmol/l) but ≤ 12.5 mg/dl (3.12 mmol/l), but who were unable to undergo parathyroidectomy were included. Cinacalcet was initiated at a dose of 30 mg twice daily and titrated to maintain a corrected total serum calcium concentration within the normal range. A significantly higher percentage of cinacalcet treated
+In a 28 week placebo-controlled study, 67 adult patients with primary HPT who met criteria for parathyroidectomy on the basis of corrected total serum calcium (&gt; 11.3 mg/dl (2.82 mmol/l) but ≤ 12.5 mg/dl (3.12 mmol/l), but who were unable to undergo parathyroidectomy were included. Cinacalcet was initiated at a dose of 30 mg twice daily and titrated to maintain a corrected total serum calcium concentration within the normal range. A significantly higher percentage of cinacalcet treated patients achieved mean corrected total serum calcium concentration ≤ 10.3 mg/dl (2.57 mmol/l) and ≥ 1 mg/dl (0.25 mmol/l) decrease from baseline in mean corrected total serum calcium concentration, when compared with the placebo treated patients (75.8% versus 0% and 84.8% versus 5.9% respectively).
 
 <div style=\"page-break-after: always\"></div>
-
-patients achieved mean corrected total serum calcium concentration ≤ 10.3 mg/dl (2.57 mmol/l) and ≥ 1 mg/dl (0.25 mmol/l) decrease from baseline in mean corrected total serum calcium concentration, when compared with the placebo treated patients (75.8% versus 0% and 84.8% versus 5.9% respectively).
 
 ## 5.2 Pharmacokinetic properties
 
@@ -606,7 +594,7 @@ Name and address of the manufacturers responsible for batch release Mylan Hungar
 
 McDermott Laboratories Limited trading as Gerard Laboratories 35/36 Baldoyle Industrial Estate, Grange Road, Dublin 13 Ireland
 
-Mylan Germany GmbH Zweigniederlassung Bad Homburg v. d. Hoehe, Benzstrasse 1 Bad Homburg v. d. Hoehe Hessen, 61352, Germany
+Viatris Germany GmbH Zweigniederlassung Bad Homburg v. d. Hoehe, Benzstrasse 1 Bad Homburg v. d. Hoehe Hessen, 61352, Germany
 
 The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.
 
@@ -742,8 +730,7 @@ NN
 |-------------------------------------------------------|
 | BLISTERS                                              |
 
-| 1.   | NAME OF THE MEDICINAL PRODUCT   |
-|------|---------------------------------|
+## 1. NAME OF THE MEDICINAL PRODUCT
 
 Cinacalcet Viatris 30 mg film-coated tablets cinacalcet
 
@@ -752,13 +739,11 @@ Cinacalcet Viatris 30 mg film-coated tablets cinacalcet
 
 Viatris Limited
 
-| 3.   | EXPIRY DATE   |
-|------|---------------|
+3. EXPIRY DATE
 
 EXP
 
-| 4.   | BATCH NUMBER   |
-|------|----------------|
+## 4. BATCH NUMBER
 
 Lot
 
@@ -807,7 +792,7 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -891,6 +876,8 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
+<div style=\"page-break-after: always\"></div>
+
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
@@ -906,16 +893,10 @@ EU/1/15/1054/014
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
-
 15. INSTRUCTIONS ON USE
-
 16. INFORMATION IN BRAILLE
-
 17. UNIQUE IDENTIFIER - 2D BARCODE
-
 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
-
-<div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE IMMEDIATE PACKAGING
 
@@ -957,6 +938,8 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
+<div style=\"page-break-after: always\"></div>
+
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
@@ -988,8 +971,6 @@ Cinacalcet Viatris 30 mg
 PC
 
 SN
-
-<div style=\"page-break-after: always\"></div>
 
 NN
 
@@ -1088,8 +1069,6 @@ SN
 
 NN
 
-<div style=\"page-break-after: always\"></div>
-
 ## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS BLISTERS
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
@@ -1107,6 +1086,10 @@ EXP
 ## 4. BATCH NUMBER
 
 Lot
+
+## 5. OTHER
+
+<div style=\"page-break-after: always\"></div>
 
 | 5.   | OTHER   |
 |------|---------|
@@ -1214,8 +1197,7 @@ NN
 
 Cinacalcet Viatris 90 mg film-coated tablets cinacalcet
 
-| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
-|------|----------------------------------------------|
+## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
 
 Viatris Limited
 
@@ -1238,7 +1220,9 @@ Lot
 
 ## Package leaflet: Information for the patient
 
-Cinacalcet Viatris 30 mg film-coated tablets Cinacalcet Viatris 60 mg film-coated tablets Cinacalcet Viatris 90 mg film-coated tablets cinacalcet
+Cinacalcet Viatris 30 mg film-coated tablets Cinacalcet Viatris 60 mg film-coated tablets Cinacalcet Viatris 90 mg film-coated tablets
+
+cinacalcet
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
@@ -1475,8 +1459,6 @@ Cinacalcet Viatris 30 mg, 60 mg, 90 mg film-coated tablets are available in blis
 
 Not all pack sizes may be marketed.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Marketing Authorisation Holder
 
 Viatris Limited Damastown Industrial Park, Mulhuddart, Dublin 15, DUBLIN
@@ -1489,7 +1471,17 @@ Mylan Hungary Kft H-2900 Komárom, Mylan utca 1 Hungary
 
 McDermott Laboratories Limited trading as Gerard Laboratories 35/36 Baldoyle Industrial Estate, Grange Road, Dublin 13 Ireland
 
-Mylan Germany GmbH Zweigniederlassung Bad Homburg v. d. Hoehe, Benzstrasse 1 Bad Homburg v. d. Hoehe Hessen, 61352, Germany
+Viatris Germany GmbH
+
+Zweigniederlassung Bad Homburg v. d. Hoehe, Benzstrasse 1
+
+Bad Homburg v. d. Hoehe
+
+Hessen, 61352,
+
+Germany
+
+<div style=\"page-break-after: always\"></div>
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
@@ -1505,14 +1497,6 @@ Viatris UAB
 
 Tel: + 370 5 205 1288
 
-## България
-
-Майлан ЕООД
-
-Тел:
-
-+359 2 44 55 400
-
 ## Luxembourg/Luxemburg
 
 Viatris
@@ -1521,23 +1505,11 @@ Tél/Tel: + 32 (0)2 658 61 00
 
 (Belgique/Belgien)
 
-## Česká republika
-
-Viatris CZ s.r.o.
-
-Tel: + 420 222 004 400
-
 ## Magyarország
 
 Viatris Healthcare Kft.
 
 Tel.: + 36 1 465 2100
-
-## Danmark
-
-Viatris ApS
-
-Tlf: +45 28 11 69 32
 
 ## Malta
 
@@ -1545,29 +1517,49 @@ V.J. Salomone Pharma Ltd
 
 Tel: + 356 21 22 01 74
 
-## Deutschland
-
-Viatris Healthcare GmbH
-
-Tel:  +49 800 0700 800
-
 ## Nederland
 
 Mylan BV
 
 Tel:  +31 (0)20 426 3300
 
-## Eesti
-
-Viatris OÜ
-
-Tel: + 372 6363 052
-
 ## Norge
 
 Viatris AS
 
 Tlf: + 47 66 75 33 00
+
+## България
+
+Виатрис ЕООД
+
+Тел . :
+
++359 2 44 55 400
+
+## Česká republika
+
+Viatris CZ s.r.o.
+
+Tel: + 420 222 004 400
+
+## Danmark
+
+Viatris ApS
+
+Tlf: +45 28 11 69 32
+
+## Deutschland
+
+Viatris Healthcare GmbH
+
+Tel:  +49 800 0700 800
+
+## Eesti
+
+Viatris OÜ
+
+Tel: + 372 6363 052
 
 ## Ελλάδα
 
@@ -1581,29 +1573,19 @@ Viatris Austria GmbH
 
 Tel: +43 1 86390
 
+<div style=\"page-break-after: always\"></div>
+
 ## España
 
 Viatris Pharmaceuticals, S.L.
 
 Tel: + 34 900 102 712
 
-## Polska
-
-Viatris Healthcare Sp. z.o.o.
-
-Tel.: + 48 22 546 64 00
-
 ## France
 
 Viatris Santé
 
 Tél: + 33 4 37 25 75 00
-
-## Portugal
-
-Mylan, Lda.
-
-Tel: + 351 214 127 200
 
 ## Hrvatska
 
@@ -1617,6 +1599,48 @@ Viatris Limited
 
 Tel: +353 1 8711600
 
+## Ísland
+
+Icepharma hf.
+
+Sími: +354 540 8000
+
+## Italia
+
+Viatris Italia S.r.l.
+
+Tel: + 39 (0)2 612 46921
+
+## Κύπρος
+
+CPO Pharmaceuticals Limited
+
+Τηλ: +357 22863100
+
+## Latvija
+
+Viatris SIA
+
+Tel: +371 676 055 80
+
+## This leaflet was last revised in
+
+## Other sources of information
+
+Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
+
+## Polska
+
+Viatris Healthcare Sp. z.o.o.
+
+Tel.: + 48 22 546 64 00
+
+## Portugal
+
+Mylan, Lda.
+
+Tel: + 351 214 127 200
+
 ## România
 
 BGP Products SRL
@@ -1629,23 +1653,11 @@ Viatris d.o.o.
 
 Tel: + 386 1 23 63 180
 
-## Ísland
-
-Icepharma hf.
-
-Sími: +354 540 8000
-
 ## Slovenská republika
 
 Viatris Slovakia s.r.o.
 
 Tel: +421 2 32 199 100
-
-## Italia
-
-Viatris Italia S.r.l.
-
-Tel: + 39 (0)2 612 46921
 
 ## Suomi/Finland
 
@@ -1653,26 +1665,8 @@ Viatris Oy
 
 Puh/Tel: +358 20 720 9555
 
-## Κύπρος
-
-CPO Pharmaceuticals Limited Τηλ: +357 22863100
-
 ## Sverige
 
 Viatris AB
 
 Tel: + 46 (0)8 630 19 00
-
-## Latvija
-
-Viatris SIA
-
-Tel: +371 676 055 80
-
-<div style=\"page-break-after: always\"></div>
-
-## This leaflet was last revised in
-
-## Other sources of information
-
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.

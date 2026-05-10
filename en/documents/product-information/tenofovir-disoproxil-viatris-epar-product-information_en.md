@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-09-09 10:14:40
+document_datetime: 2026-05-08 12:01:44
 document_pages: 66
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/tenofovir-disoproxil-viatris-epar-product-information_en.pdf
 document_name: tenofovir-disoproxil-viatris-epar-product-information_en.pdf
 version: success
-processing_time: 19.0314664
-conversion_datetime: 2025-12-14 14:17:56.199968
+processing_time: 17.8271869
+conversion_datetime: 2026-05-10 12:04:22.278936
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.17.0
+  docling-jobkit: 1.18.0
+  docling: 2.92.0
+  docling-core: 2.74.1
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.10.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -132,11 +132,9 @@ Tenofovir is eliminated by renal excretion and the exposure to tenofovir increas
 
 ## Adults
 
-There are limited data on the safety and efficacy of tenofovir disoproxil in adult patients with moderate and severe renal impairment (creatinine clearance &lt; 50 ml/min) and long-term safety data has not been evaluated for mild renal impairment (creatinine clearance 50-80 ml/min). Therefore, in
+There are limited data on the safety and efficacy of tenofovir disoproxil in adult patients with moderate and severe renal impairment (creatinine clearance &lt; 50 ml/min) and long-term safety data has not been evaluated for mild renal impairment (creatinine clearance 50-80 ml/min). Therefore, in adult patients with renal impairment tenofovir disoproxil should only be used if the potential benefits of treatment are considered to outweigh the potential risks. Administration of tenofovir disoproxil 33 mg/g granules to provide a reduced daily dose of tenofovir disoproxil is recommended for adult patients with creatinine clearance &lt; 50 ml/min, including haemodialysis patients.
 
 <div style=\"page-break-after: always\"></div>
-
-adult patients with renal impairment tenofovir disoproxil should only be used if the potential benefits of treatment are considered to outweigh the potential risks. Administration of tenofovir disoproxil 33 mg/g granules to provide a reduced daily dose of tenofovir disoproxil is recommended for adult patients with creatinine clearance &lt; 50 ml/min, including haemodialysis patients.
 
 ## Mild renal impairment (creatinine clearance 50-80 ml/min)
 
@@ -502,11 +500,9 @@ Hepatitis B clinical studies: Assessment of adverse reactions from HBV clinical 
 
 Patients  with  decompensated  liver  disease: The  safety  profile  of  tenofovir  disoproxil  in patients  with  decompensated  liver  disease  was  assessed  in  a  double-blind  active  controlled study (GS-US-174-0108) in which adult patients received treatment with tenofovir disoproxil (n = 45) or emtricitabine plus tenofovir disoproxil (n = 45) or entecavir (n = 22) for 48 weeks.
 
-In the tenofovir disoproxil treatment arm, 7% of patients discontinued treatment due to an adverse event; 9% of patients experienced a confirmed increase in serum creatinine of ≥ 0.5 mg/dl or confirmed serum phosphate of &lt; 2 mg/dl through week 48; there were no statistically significant differences between the combined tenofovir-containing arms and the entecavir arm. After 168 weeks, 16% (7/45) of the tenofovir disoproxil group, 4% (2/45) of the emtricitabine plus
+In the tenofovir disoproxil treatment arm, 7% of patients discontinued treatment due to an adverse event; 9% of patients experienced a confirmed increase in serum creatinine of ≥ 0.5 mg/dl or confirmed serum phosphate of &lt; 2 mg/dl through week 48; there were no statistically significant differences between the combined tenofovir-containing arms and the entecavir arm. After 168 weeks, 16% (7/45) of the tenofovir disoproxil group, 4% (2/45) of the emtricitabine plus tenofovir disoproxil group, and 14% (3/22) of the entecavir group experienced tolerability failure. Thirteen percent (6/45) of the tenofovir disoproxil group, 13% (6/45) of the emtricitabine plus tenofovir disoproxil group, and 9% (2/22) of the entecavir group had a confirmed increase in serum creatinine ≥ 0.5 mg/dl or confirmed serum phosphate of &lt; 2 mg/dl.
 
 <div style=\"page-break-after: always\"></div>
-
-tenofovir disoproxil group, and 14% (3/22) of the entecavir group experienced tolerability failure. Thirteen percent (6/45) of the tenofovir disoproxil group, 13% (6/45) of the emtricitabine plus tenofovir disoproxil group, and 9% (2/22) of the entecavir group had a confirmed increase in serum creatinine ≥ 0.5 mg/dl or confirmed serum phosphate of &lt; 2 mg/dl.
 
 At week 168, in this population of patients with decompensated liver disease, the rate of death was of 13% (6/45) in the tenofovir disoproxil group, 11% (5/45) in the emtricitabine plus tenofovir disoproxil group and 14% (3/22) in the entecavir group. The rate of hepatocellular carcinoma was 18% (8/45) in the tenofovir disoproxil group, 7% (3/45) in the emtricitabine plus tenofovir disoproxil group and 9% (2/22) in the entecavir group.
 
@@ -706,18 +702,6 @@ Table 3: Efficacy parameters in compensated HBeAg negative and HBeAg positive pa
 | ALT (%) Normalised ALT d                                    | 76                                  | 77                                | 68*                                 | 54                                |
 | HBeAg loss/seroconversio n HBsAg loss/seroconversio         | n/a 0/0                             | n/a 0/0                           | 22/21 3*/1                          | 18/18 0/0                         |
 
-* p-value versus adefovir dipivoxil &lt; 0.05.
-
-a Complete response defined as HBV DNA levels &lt; 400 copies/ml and Knodell necroinflammatory score improvement of at least 2 points without worsening in Knodell fibrosis.
-
-b Knodell necroinflammatory score improvement of at least 2 points without worsening in Knodell fibrosis.
-
-c Median change from baseline HBV DNA merely reflects the difference between baseline HBV DNA and the limit of detection (LOD) of the assay.
-
-d The population used for analysis of ALT normalisation included only patients with ALT above ULN at baseline.
-
-n/a = not applicable.
-
 Tenofovir disoproxil was associated with significantly greater proportions of patients with undetectable HBV DNA (&lt; 169 copies/ml [&lt; 29 IU/ml]; the limit of quantification of the Roche Cobas Taqman HBV assay), when compared to adefovir dipivoxil (study GS-US-174-0102; 91%, 56% and study GS-US-174-0103; 69%, 9%), respectively.
 
 Response to treatment with tenofovir disoproxil was comparable in nucleoside-experienced (n = 51) and nucleoside-naïve (n = 375) patients and in patients with normal ALT (n = 21) and abnormal ALT (n = 405) at baseline when studies GS-US-174-0102 and GS-US-174-0103 were combined. Forty-nine of the 51 nucleoside-experienced patients were previously treated with lamivudine. Seventy-three percent of nucleoside-experienced and 69% of nucleoside-naïve patients achieved complete response to treatment; 90% of nucleoside-experienced and 88% of nucleoside-naïve patients achieved HBV DNA suppression &lt; 400 copies/ml. All patients with normal ALT at baseline and 88% of patients with abnormal ALT at baseline achieved HBV DNA suppression &lt; 400 copies/ml.
@@ -738,18 +722,6 @@ Table 4: Efficacy parameters in compensated HBeAg negative patients at week 96, 
 | ALT (%) Normalised ALT d                            | 72                                  | 73                                  | 67                                  | 70                                  | 68                                  | 64                                  | 68                                                                        | 70                                                                        | 77                                                                        | 76                                                                        | 74                                                                        | 69                                                                        |
 | Serology (%) HBeAg loss/ seroconversion HBsAg loss/ | n/a                                 | n/a                                 | n/a                                 | n/a                                 | n/a                                 | n/a                                 | n/a                                                                       | n/a                                                                       | n/a                                                                       | n/a                                                                       | n/a                                                                       | n/a                                                                       |
 | seroconversion                                      | 0/0                                 | 0/0                                 | 0/0                                 | 0/0                                 | 0/0                                 | 1/1 n                               | 0/0                                                                       | 0/0                                                                       | 0/0                                                                       | 0/0 k                                                                     | 1/1 n                                                                     | 1/1 n                                                                     |
-
-a  Based upon Long Term Evaluation algorithm (LTE Analysis) - Patients who discontinued the study at any time prior to week 384 due to a protocol defined endpoint, as well as those completing week 384, are included in the denominator.
-
-b  48 weeks of double-blind tenofovir disoproxil followed by 48 weeks open-label.
-
-c  48 weeks of double-blind adefovir dipivoxil followed by 48 weeks open-label tenofovir disoproxil.
-
-d  The population used for analysis of ALT normalisation included only patients with ALT above ULN at baseline.
-
-e  48 weeks of double-blind tenofovir disoproxil followed by 96 weeks open-label.
-
-f  48 weeks of double-blind adefovir dipivoxil followed by 96 weeks open-label tenofovir disoproxil.
 
 g  48 weeks of double-blind tenofovir disoproxil followed by 144 weeks open-label.
 
@@ -827,8 +799,6 @@ Table 6: Histological response (%) in compensated HBeAg negative and HBeAg posit
 |                               | Tenofovir disoproxil 245 mg n = 250 c | Adefovir dipivoxil 10 mg roll over to tenofovir disoproxil 245 mg n = 125 d | Tenofovir disoproxil 245 mg n = 176 c | Adefovir dipivoxil 10 mg roll over to tenofovir disoproxil 245 mg n = 90 d |
 | Histological response a,b (%) | 88 [130/148]                          | 85 [63/74]                                                                  | 90 [63/70]                            | 92 [36/39]                                                                 |
 
-a The population used for analysis of histology included only patients with available liver biopsy data (Missing = Excluded)
-
 <div style=\"page-break-after: always\"></div>
 
 by week 240. Response after addition of emtricitabine is excluded (total of 17 subjects across both studies).
@@ -870,7 +840,9 @@ Table 7: Safety and efficacy parameters in decompensated patients at week 48
 | Mean change from baseline in CPT score                                                                             | -0.8        | -0.9        | -1.3        |
 | Mean change from baseline in MELDscore                                                                             | -1.8        | -2.3        | -2.6        |
 
-a p-value comparing the combined tenofovir-containing arms versus the entecavir arm = 0.622, b p-value comparing the combined tenofovir-containing arms versus the entecavir arm = 1.000.
+a p-value comparing the combined tenofovir-containing arms versus the entecavir arm = 0.622,
+
+b p-value comparing the combined tenofovir-containing arms versus the entecavir arm = 1.000.
 
 ## Experience beyond 48 weeks in study GS-US-174-0108
 
@@ -880,11 +852,9 @@ Using a noncompleter/switch = failure analysis, 50% (21/42) of subjects receivin
 
 The efficacy and safety of 245 mg tenofovir disoproxil was evaluated in a randomised, double-blind study (GS-US-174-0121) in HBeAg positive and HBeAg negative patients (n = 280) with compensated liver disease, viraemia (HBV DNA ≥ 1,000 IU/ml), and genotypic evidence of lamivudine resistance (rtM204I/V +/- rtL180M). Only five had adefovir-associated resistance mutations at baseline. One hundred forty-one and 139 adult subjects were randomised to a tenofovir disoproxil and emtricitabine plus tenofovir disoproxil treatment arm, respectively. Baseline demographics were similar between the two treatment arms: At baseline, 52.5% of subjects were HBeAg negative, 47.5% were HBeAg positive, mean HBV DNA level was 6.5 log10 copies/ml, and mean ALT was 79 U/l, respectively.
 
-After 240 weeks of treatment, 117 of 141 subjects (83%) randomised to tenofovir disoproxil had HBV DNA &lt; 400 copies/ml, and 51 of 79 subjects (65%) had ALT normalisation. After 240 weeks of treatment with emtricitabine plus tenofovir disoproxil, 115 of 139 subjects (83%) had HBV DNA &lt; 400 copies/ml, and 59 of 83 subjects (71%) had ALT normalisation. Among the HBeAg positive subjects randomised to tenofovir disoproxil, 16 of 65 subjects (25%) experienced HBeAg loss, and 8 of 65 subjects (12%) experienced anti-HBe seroconversion through week 240. In the HBeAg positive subjects randomised to emtricitabine plus tenofovir disoproxil, 13 of 68 subjects (19%) experienced HBeAg loss, and 7 of 68 subjects (10%) experienced anti-HBe seroconversion through week 240. Two subjects randomised to tenofovir disoproxil experienced HBsAg loss by Week 240, but not seroconversion to anti-HBs. Five subjects randomised to emtricitabine plus tenofovir
+After 240 weeks of treatment, 117 of 141 subjects (83%) randomised to tenofovir disoproxil had HBV DNA &lt; 400 copies/ml, and 51 of 79 subjects (65%) had ALT normalisation. After 240 weeks of treatment with emtricitabine plus tenofovir disoproxil, 115 of 139 subjects (83%) had HBV DNA &lt; 400 copies/ml, and 59 of 83 subjects (71%) had ALT normalisation. Among the HBeAg positive subjects randomised to tenofovir disoproxil, 16 of 65 subjects (25%) experienced HBeAg loss, and 8 of 65 subjects (12%) experienced anti-HBe seroconversion through week 240. In the HBeAg positive subjects randomised to emtricitabine plus tenofovir disoproxil, 13 of 68 subjects (19%) experienced HBeAg loss, and 7 of 68 subjects (10%) experienced anti-HBe seroconversion through week 240. Two subjects randomised to tenofovir disoproxil experienced HBsAg loss by Week 240, but not seroconversion to anti-HBs. Five subjects randomised to emtricitabine plus tenofovir disoproxil experienced HBsAg loss with 2 of these 5 subjects experiencing seroconversion to antiHBs.
 
 <div style=\"page-break-after: always\"></div>
-
-disoproxil experienced HBsAg loss with 2 of these 5 subjects experiencing seroconversion to antiHBs.
 
 ## Clinical resistance
 
@@ -914,11 +884,9 @@ Reductions in BMD have been reported in paediatric patients. In patients who rec
 
 In study GS-US-104-0352, 8 out of 89 paediatric patients (9.0%) exposed to tenofovir disoproxil discontinued study drug due to renal adverse events. Five subjects (5.6%) had laboratory findings clinically consistent with proximal renal tubulopathy, 4 of whom discontinued tenofovir disoproxil therapy (median tenofovir disoproxil exposure 331 weeks).
 
-Chronic hepatitis B: In study GS-US-174-0115, 106 HBeAg negative and HBeAg positive patients aged 12 to &lt; 18 years with chronic HBV infection [HBV DNA ≥ 10 5 copies/ml, elevated serum ALT (≥ 2 x ULN) or a history of elevated serum ALT levels in the past 24 months] were treated with tenofovir disoproxil 245 mg (n = 52) or placebo (n = 54) for 72 weeks. Subjects must have been naïve to tenofovir disoproxil, but could have received interferon based regimens (&gt; 6 months prior to screening) or any other non-tenofovir disoproxil containing oral anti-HBV nucleoside/nucleotide therapy (&gt; 16 weeks prior to screening). At week 72, overall 88% (46/52) of patients in the tenofovir
+Chronic hepatitis B: In study GS-US-174-0115, 106 HBeAg negative and HBeAg positive patients aged 12 to &lt; 18 years with chronic HBV infection [HBV DNA ≥ 10 5 copies/ml, elevated serum ALT (≥ 2 x ULN) or a history of elevated serum ALT levels in the past 24 months] were treated with tenofovir disoproxil 245 mg (n = 52) or placebo (n = 54) for 72 weeks. Subjects must have been naïve to tenofovir disoproxil, but could have received interferon based regimens (&gt; 6 months prior to screening) or any other non-tenofovir disoproxil containing oral anti-HBV nucleoside/nucleotide therapy (&gt; 16 weeks prior to screening). At week 72, overall 88% (46/52) of patients in the tenofovir disoproxil treatment group and 0% (0/54) of patients in the placebo group had HBV DNA &lt; 400 copies/ml. Seventy-four percent (26/35) of patients in the tenofovir disoproxil group had normalised ALT at week 72 compared to 31% (13/42) in the placebo group. Response to treatment with tenofovir disoproxil was comparable in nucleos(t)ide-naïve (n = 20) and nucleos(t)ideexperienced (n = 32) patients, including lamivudine- resistant patients (n = 6). Ninety-five percent of nucleos(t)ide-naïve patients, 84% of nucleos(t)ide- experienced patients, and 83% of lamivudineresistant patients achieved HBV DNA &lt; 400 copies/ml at week 72. Thirty-one of the 32 nucleos(t)ide-experienced patients had prior lamivudine experience. At week 72, 96% (27/28) of immune-active patients (HBV DNA ≥ 10 5 copies/ml, serum ALT &gt; 1.5 x ULN) in the tenofovir disoproxil treatment group and 0% (0/32) of patients in the placebo group had HBV DNA &lt; 400 copies/ml. Seventy-five percent (21/28) of immune-active patients in the tenofovir disoproxil group had normal ALT at week 72 compared to 34% (11/32) in the placebo group.
 
 <div style=\"page-break-after: always\"></div>
-
-disoproxil treatment group and 0% (0/54) of patients in the placebo group had HBV DNA &lt; 400 copies/ml. Seventy-four percent (26/35) of patients in the tenofovir disoproxil group had normalised ALT at week 72 compared to 31% (13/42) in the placebo group. Response to treatment with tenofovir disoproxil was comparable in nucleos(t)ide-naïve (n = 20) and nucleos(t)ideexperienced (n = 32) patients, including lamivudine- resistant patients (n = 6). Ninety-five percent of nucleos(t)ide-naïve patients, 84% of nucleos(t)ide- experienced patients, and 83% of lamivudineresistant patients achieved HBV DNA &lt; 400 copies/ml at week 72. Thirty-one of the 32 nucleos(t)ide-experienced patients had prior lamivudine experience. At week 72, 96% (27/28) of immune-active patients (HBV DNA ≥ 10 5 copies/ml, serum ALT &gt; 1.5 x ULN) in the tenofovir disoproxil treatment group and 0% (0/32) of patients in the placebo group had HBV DNA &lt; 400 copies/ml. Seventy-five percent (21/28) of immune-active patients in the tenofovir disoproxil group had normal ALT at week 72 compared to 34% (11/32) in the placebo group.
 
 After 72 weeks of blinded randomized treatment, each subject could switch to open-label tenofovir disoproxil treatment up to week 192. After week 72, virologic suppression was maintained for those receiving double-blind tenofovir disoproxil followed by open-label tenofovir disoproxil (tenofovir disoproxil-tenofovir disoproxil group): 86.5% (45/52) of subjects in the tenofovir disoproxiltenofovir disoproxil group had HBV DNA &lt; 400 copies/ml at week 192. Among the subjects who received placebo during the double-blind period, the proportion of subjects with HBV DNA &lt; 400 copies/mL rose sharply after they began treatment with open-label tenofovir disoproxil (PLB-tenofovir disoproxil group): 74.1% (40/54) of subjects in the PLB-tenofovir disoproxil group had HBV DNA &lt; 400 copies/ml at week 192. The proportion of subjects with ALT normalization at week 192 in the tenofovir disoproxil-tenofovir disoproxil group was 75.8% (25/33) among those who were HBeAg positive at baseline and 100.0% (2 of 2 subjects) among those who were HBeAg negative at baseline. Similar percentages of subjects in the tenofovir disoproxil-tenofovir disoproxil and PLB-tenofovir disoproxil groups (37.5% and 41.7%, respectively) experienced seroconversion to anti-HBe through week 192.
 
@@ -972,7 +940,9 @@ Table 9: Bone Mineral Density Evaluation at Baseline, Week 48 and Week 192
 | Lumbar spineBMD mean %increase                                         | NA              | NA              | 3.9%            | 7.6%            | 19.2%           | 26.1%           |
 | Whole bodyBMD mean %increase                                           | NA              | NA              | 4.6%            | 8.7%            | 23.7%           | 27.7%           |
 
-NA = Not Applicable a  No additional subjects had ≥ 4% BMD decreases beyond week 48
+NA = Not Applicable
+
+a  No additional subjects had ≥ 4% BMD decreases beyond week 48
 
 The European Medicines Agency has deferred the obligation to submit the results of studies with tenofovir disoproxil in one or more subsets of the paediatric population in HIV and chronic hepatitis B (see section 4.2 for information on paediatric use).
 
@@ -1147,7 +1117,7 @@ Name and address of the manufacturer(s) responsible for batch release
 
 Mylan Hungary Kft Mylan utca 1, Komarom, 2900, Hungary
 
-Mylan Germany GmbH Zweigniederlassung Bad Homburg v. d. Hoehe, Benzstrasse 1, Bad Homburg v. d. Hoehe, Hessen, 61352, Germany
+Viatris Germany GmbH Zweigniederlassung Bad Homburg v. d. Hoehe, Benzstrasse 1, Bad Homburg v. d. Hoehe, Hessen, 61352, Germany
 
 The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.
 
@@ -1704,9 +1674,9 @@ If you are pregnant or breast-feeding, think you may be pregnant or are planning
 
 Tenofovir disoproxil can cause dizziness. If you feel dizzy while taking Tenofovir disoproxil Viatris, do not drive or ride a bicycle and do not use any tools or machines.
 
-Tenofovir disoproxil Viatris contains lactose
+Tenofovir disoproxil Viatris contains lactose If you have been told by your doctor
 
-Tell your doctor before taking Tenofovir disoproxil Viatris. If you have been told by your doctor that you have an intolerance to some sugars, contact your doctor before taking this medicine.
+Tell your doctor before taking Tenofovir disoproxil Viatris. that you have an intolerance to some sugars, contact your doctor before taking this medicine.
 
 ## 3. How to take Tenofovir disoproxil Viatris
 
@@ -1864,7 +1834,7 @@ Viatris Limited Damastown Industrial Park, Mulhuddart, Dublin 15, DUBLIN Ireland
 
 Mylan Hungary Kft Mylan utca 1, Komarom, H-2900, Hungary
 
-Mylan Germany GmbH Zweigniederlassung Bad Homburg v. d. Hoehe, Benzstrasse 1, Bad Homburg v. d. Hoehe Hessen, 61352 Germany
+Viatris Germany GmbH Zweigniederlassung Bad Homburg v. d. Hoehe, Benzstrasse 1, Bad Homburg v. d. Hoehe Hessen, 61352 Germany
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
@@ -1882,13 +1852,15 @@ Tel: + 370 5 205 1288
 
 ## България
 
-Майлан ЕООД
+Виатрис ЕООД
 
-Тел: + 359 2 44 55 400
+Тел.: + 359 2 44 55 400
 
 ## Luxembourg/Luxemburg
 
-Viatris Tél/Tel: + 32 (0)2 658 61 00 (Belgique/Belgien)
+Viatris (Belgique/Belgien)
+
+Tél/Tel: + 32 (0)2 658 61 00
 
 ## Česká republika
 

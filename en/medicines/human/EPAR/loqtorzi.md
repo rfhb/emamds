@@ -1,18 +1,18 @@
 ---
-document_datetime: 2026-04-22 15:02:00
+document_datetime: 2026-05-07 16:25:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/loqtorzi.html
 document_name: loqtorzi.html
 version: success
-processing_time: 0.1122722
-conversion_datetime: 2026-04-25 16:26:48.565055
+processing_time: 0.10866
+conversion_datetime: 2026-05-10 13:00:55.618773
 docling_version:
-  docling-serve: 1.16.1
-  docling-jobkit: 1.17.1
-  docling: 2.90.0
-  docling-core: 2.74.0
-  docling-ibm-models: 3.13.0
-  docling-parse: 5.9.0
+  docling-serve: 1.17.0
+  docling-jobkit: 1.18.0
+  docling: 2.92.0
+  docling-core: 2.74.1
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.10.1
   python: cpython-313 (3.13.11)
   plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
@@ -114,7 +114,7 @@ English (EN) (186.44 KB - PDF)
 
 [View](/en/documents/overview/loqtorzi-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-501)
+[Other languages (22)](#file-language-dropdown-859)
 
 български (BG) (183.83 KB - PDF)
 
@@ -260,155 +260,161 @@ English (EN) (672.81 KB - PDF)
 
 Loqtorzi : EPAR - Product information
 
-English (EN) (555.78 KB - PDF)
+English (EN) (529.5 KB - PDF)
 
-**First published:** 24/09/2024 **Last updated:** 22/04/2026
+**First published:** 24/09/2024 **Last updated:** 07/05/2026
 
 [View](/en/documents/product-information/loqtorzi-epar-product-information_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-183)
+[Other languages (24)](#file-language-dropdown-137)
 
-български (BG) (718.08 KB - PDF)
+български (BG) (685.89 KB - PDF)
 
-**First published:** 24/09/2024 **Last updated:** 22/04/2026
+**First published:** 24/09/2024 **Last updated:** 07/05/2026
 
 [View](/bg/documents/product-information/loqtorzi-epar-product-information_bg.pdf)
 
-español (ES) (654.62 KB - PDF)
+español (ES) (616.35 KB - PDF)
 
-**First published:** 24/09/2024 **Last updated:** 22/04/2026
+**First published:** 24/09/2024 **Last updated:** 07/05/2026
 
 [View](/es/documents/product-information/loqtorzi-epar-product-information_es.pdf)
 
-čeština (CS) (723.14 KB - PDF)
+čeština (CS) (668.9 KB - PDF)
 
-**First published:** 24/09/2024 **Last updated:** 22/04/2026
+**First published:** 24/09/2024 **Last updated:** 07/05/2026
 
 [View](/cs/documents/product-information/loqtorzi-epar-product-information_cs.pdf)
 
-dansk (DA) (636.21 KB - PDF)
+dansk (DA) (589.7 KB - PDF)
 
-**First published:** 24/09/2024 **Last updated:** 22/04/2026
+**First published:** 24/09/2024 **Last updated:** 07/05/2026
 
 [View](/da/documents/product-information/loqtorzi-epar-product-information_da.pdf)
 
-eesti keel (ET) (624.3 KB - PDF)
+Deutsch (DE) (610.7 KB - PDF)
 
-**First published:** 24/09/2024 **Last updated:** 22/04/2026
+**First published:** 24/09/2024 **Last updated:** 07/05/2026
+
+[View](/de/documents/product-information/loqtorzi-epar-product-information_de.pdf)
+
+eesti keel (ET) (580.5 KB - PDF)
+
+**First published:** 24/09/2024 **Last updated:** 07/05/2026
 
 [View](/et/documents/product-information/loqtorzi-epar-product-information_et.pdf)
 
-ελληνικά (EL) (750.84 KB - PDF)
+ελληνικά (EL) (674.13 KB - PDF)
 
-**First published:** 24/09/2024 **Last updated:** 22/04/2026
+**First published:** 24/09/2024 **Last updated:** 07/05/2026
 
 [View](/el/documents/product-information/loqtorzi-epar-product-information_el.pdf)
 
-français (FR) (659.34 KB - PDF)
+français (FR) (605.12 KB - PDF)
 
-**First published:** 24/09/2024 **Last updated:** 22/04/2026
+**First published:** 24/09/2024 **Last updated:** 07/05/2026
 
 [View](/fr/documents/product-information/loqtorzi-epar-product-information_fr.pdf)
 
-hrvatski (HR) (720.54 KB - PDF)
+hrvatski (HR) (659.98 KB - PDF)
 
-**First published:** 24/09/2024 **Last updated:** 22/04/2026
+**First published:** 24/09/2024 **Last updated:** 07/05/2026
 
 [View](/hr/documents/product-information/loqtorzi-epar-product-information_hr.pdf)
 
-íslenska (IS) (618.88 KB - PDF)
+íslenska (IS) (578.72 KB - PDF)
 
-**First published:** 24/09/2024 **Last updated:** 22/04/2026
+**First published:** 24/09/2024 **Last updated:** 07/05/2026
 
 [View](/is/documents/product-information/loqtorzi-epar-product-information_is.pdf)
 
-italiano (IT) (635.09 KB - PDF)
+italiano (IT) (592.48 KB - PDF)
 
-**First published:** 24/09/2024 **Last updated:** 22/04/2026
+**First published:** 24/09/2024 **Last updated:** 07/05/2026
 
 [View](/it/documents/product-information/loqtorzi-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (736.43 KB - PDF)
+latviešu valoda (LV) (667.25 KB - PDF)
 
-**First published:** 24/09/2024 **Last updated:** 22/04/2026
+**First published:** 24/09/2024 **Last updated:** 07/05/2026
 
 [View](/lv/documents/product-information/loqtorzi-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (663.86 KB - PDF)
+lietuvių kalba (LT) (618.12 KB - PDF)
 
-**First published:** 24/09/2024 **Last updated:** 22/04/2026
+**First published:** 24/09/2024 **Last updated:** 07/05/2026
 
 [View](/lt/documents/product-information/loqtorzi-epar-product-information_lt.pdf)
 
-magyar (HU) (732.68 KB - PDF)
+magyar (HU) (679.21 KB - PDF)
 
-**First published:** 24/09/2024 **Last updated:** 22/04/2026
+**First published:** 24/09/2024 **Last updated:** 07/05/2026
 
 [View](/hu/documents/product-information/loqtorzi-epar-product-information_hu.pdf)
 
-Malti (MT) (699.45 KB - PDF)
+Malti (MT) (638.01 KB - PDF)
 
-**First published:** 24/09/2024 **Last updated:** 22/04/2026
+**First published:** 24/09/2024 **Last updated:** 07/05/2026
 
 [View](/mt/documents/product-information/loqtorzi-epar-product-information_mt.pdf)
 
-Nederlands (NL) (614.33 KB - PDF)
+Nederlands (NL) (590.15 KB - PDF)
 
-**First published:** 24/09/2024 **Last updated:** 22/04/2026
+**First published:** 24/09/2024 **Last updated:** 07/05/2026
 
 [View](/nl/documents/product-information/loqtorzi-epar-product-information_nl.pdf)
 
-norsk (NO) (598.6 KB - PDF)
+norsk (NO) (573.93 KB - PDF)
 
-**First published:** 24/09/2024 **Last updated:** 22/04/2026
+**First published:** 24/09/2024 **Last updated:** 07/05/2026
 
 [View](/no/documents/product-information/loqtorzi-epar-product-information_no.pdf)
 
-polski (PL) (800.67 KB - PDF)
+polski (PL) (746.08 KB - PDF)
 
-**First published:** 24/09/2024 **Last updated:** 22/04/2026
+**First published:** 24/09/2024 **Last updated:** 07/05/2026
 
 [View](/pl/documents/product-information/loqtorzi-epar-product-information_pl.pdf)
 
-português (PT) (624.67 KB - PDF)
+português (PT) (585.16 KB - PDF)
 
-**First published:** 24/09/2024 **Last updated:** 22/04/2026
+**First published:** 24/09/2024 **Last updated:** 07/05/2026
 
 [View](/pt/documents/product-information/loqtorzi-epar-product-information_pt.pdf)
 
-română (RO) (719.81 KB - PDF)
+română (RO) (662.73 KB - PDF)
 
-**First published:** 24/09/2024 **Last updated:** 22/04/2026
+**First published:** 24/09/2024 **Last updated:** 07/05/2026
 
 [View](/ro/documents/product-information/loqtorzi-epar-product-information_ro.pdf)
 
-slovenčina (SK) (717.45 KB - PDF)
+slovenčina (SK) (684.13 KB - PDF)
 
-**First published:** 24/09/2024 **Last updated:** 22/04/2026
+**First published:** 24/09/2024 **Last updated:** 07/05/2026
 
 [View](/sk/documents/product-information/loqtorzi-epar-product-information_sk.pdf)
 
-slovenščina (SL) (720.74 KB - PDF)
+slovenščina (SL) (702.69 KB - PDF)
 
-**First published:** 24/09/2024 **Last updated:** 22/04/2026
+**First published:** 24/09/2024 **Last updated:** 07/05/2026
 
 [View](/sl/documents/product-information/loqtorzi-epar-product-information_sl.pdf)
 
-Suomi (FI) (635.82 KB - PDF)
+Suomi (FI) (584.82 KB - PDF)
 
-**First published:** 24/09/2024 **Last updated:** 22/04/2026
+**First published:** 24/09/2024 **Last updated:** 07/05/2026
 
 [View](/fi/documents/product-information/loqtorzi-epar-product-information_fi.pdf)
 
-svenska (SV) (618.56 KB - PDF)
+svenska (SV) (585.24 KB - PDF)
 
-**First published:** 24/09/2024 **Last updated:** 22/04/2026
+**First published:** 24/09/2024 **Last updated:** 07/05/2026
 
 [View](/sv/documents/product-information/loqtorzi-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** PSUR/0000296630
+**Latest procedure affecting product information:** N/0000341695
 
-26/03/2026
+06/05/2026
 
 icon globe
 
@@ -432,7 +438,7 @@ English (EN) (44.86 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/loqtorzi-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-202)
+[Other languages (24)](#file-language-dropdown-897)
 
 български (BG) (55.66 KB - PDF)
 
@@ -637,7 +643,7 @@ Marketing authorisation issued
 
 Revision
 
-3
+4
 
 ## Assessment history
 
@@ -649,9 +655,9 @@ Collapse section
 
 Loqtorzi : EPAR - Procedural steps taken and scientific information after the authorisation
 
-English (EN) (151.4 KB - PDF)
+English (EN) (153.98 KB - PDF)
 
-**First published:** 08/04/2025 **Last updated:** 22/04/2026
+**First published:** 08/04/2025 **Last updated:** 07/05/2026
 
 [View](/en/documents/procedural-steps-after/loqtorzi-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -695,6 +701,6 @@ English (EN) (155.2 KB - PDF)
 
 **This page was last updated on**
 
-22/04/2026
+07/05/2026
 
 ## Share this page

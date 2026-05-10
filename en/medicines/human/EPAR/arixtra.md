@@ -1,30 +1,108 @@
 ---
-document_datetime: 2026-01-29 12:42:00
+document_datetime: 2026-05-07 15:45:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/arixtra.html
 document_name: arixtra.html
 version: success
-processing_time: 0.2603547
-conversion_datetime: 2026-02-01 20:37:52.871935
+processing_time: 0.1422166
+conversion_datetime: 2026-05-10 12:21:57.700861
 docling_version:
-  docling-serve: 1.11.0
-  docling-jobkit: 1.9.1
-  docling: 2.71.0
-  docling-core: 2.62.0
-  docling-ibm-models: 3.11.0
-  docling-parse: 4.7.3
+  docling-serve: 1.17.0
+  docling-jobkit: 1.18.0
+  docling: 2.92.0
+  docling-core: 2.74.1
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.10.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
+# Search
+
+- [Medicines](/en/medicines)
+    - [Find medicine](/en/medicines)
+    - [Therapeutic areas: latest updates](/en/medicines/therapeutic-areas-latest-updates)
+    - [Download medicine data](/en/medicines/download-medicine-data)
+    - [What we publish on medicines and when](/en/medicines/what-we-publish-medicines-when)
+    - [Medicines under evaluation](/en/medicines/medicines-human-use-under-evaluation)
+    - [National registers](/en/medicines/national-registers-authorised-medicines)
+- [Human regulatory](/en/human-regulatory-overview)
+    - [Overview](/en/human-regulatory-overview)
+    - [Research and development](/en/human-regulatory-overview/research-development)
+    - [Marketing authorisation](/en/human-regulatory-overview/marketing-authorisation)
+    - [Post-authorisation](/en/human-regulatory-overview/post-authorisation)
+    - [Medical devices](/en/human-regulatory-overview/medical-devices)
+    - [Herbal products](/en/human-regulatory-overview/herbal-medicinal-products)
+- [Veterinary regulatory](/en/veterinary-regulatory-overview)
+    - [Overview](/en/veterinary-regulatory-overview)
+    - [Research and development](/en/veterinary-regulatory-overview/research-development-veterinary-medicines)
+    - [Marketing authorisation](/en/veterinary-regulatory-overview/marketing-authorisation-veterinary-medicines)
+    - [Post-authorisation](/en/veterinary-regulatory-overview/post-authorisation-veterinary-medicines)
+- [Committees](/en/committees)
+    - [Overview](/en/committees)
+    - [How the committees work](/en/committees/how-committees-work)
+    - [CHMP](/en/committees/committee-medicinal-products-human-use-chmp)
+    - [CVMP](/en/committees/committee-veterinary-medicinal-products-cvmp)
+    - [PRAC](/en/committees/pharmacovigilance-risk-assessment-committee-prac)
+    - [COMP](/en/committees/committee-orphan-medicinal-products-comp)
+    - [HMPC](/en/committees/committee-herbal-medicinal-products-hmpc)
+    - [CAT](/en/committees/committee-advanced-therapies-cat)
+    - [PDCO](/en/committees/paediatric-committee-pdco)
+    - [Working parties and other groups](/en/committees/working-parties-other-groups)
+- [News &amp; events](/en/news-events)
+    - [Overview](/en/news-events)
+    - [News](/en/news)
+    - [Events](/en/events/upcoming-events)
+    - [What's new](/en/news-events/whats-new)
+    - [Committee highlights](/en/news-events/committee-highlights)
+    - [Publications](/en/news-and-events/publications)
+    - [Press and social media](/en/news-events/press-social-media)
+    - [Podcast: Inside EMA](/en/news-events/podcast-inside-ema)
+    - [EMA Campaigns](/en/news-events/ema-campaigns)
+    - [Open consultations](/en/news-events/open-consultations)
+    - [RSS feeds](/en/news-events/rss-feeds)
+- [Partners &amp; networks](/en/partners-networks)
+    - [Overview](/en/partners-networks)
+    - [EU partners](/en/partners-networks/eu-partners)
+    - [International activities](/en/partners-networks/international-activities)
+    - [Patients and consumers](/en/partners-networks/patients-consumers)
+    - [Healthcare professionals](/en/partners-networks/healthcare-professionals)
+    - [Academia](/en/partners-networks/academia)
+    - [Pharmaceutical industry](/en/partners-networks/pharmaceutical-industry)
+    - [Networks](/en/partners-networks/networks)
+    - [Health technology assessment bodies](/en/partners-networks/health-technology-assessment-bodies)
+    - [One Health approach](/en/partners-networks/one-health-approach)
+    - [Animal health practitioners](/en/partners-networks/animal-health-practitioners)
+    - [One substance - one assessment](/en/partners-networks/one-substance-one-assessment-osoa-eu-collaboration-chemicals-related-data)
+- [About us](/en/about-us)
+    - [Overview](/en/about-us)
+    - [What we do](/en/about-us/what-we-do)
+    - [Who we are](/en/about-us/who-we-are)
+    - [How we work](/en/about-us/how-we-work)
+    - [Fees](/en/about-us/fees-payable-european-medicines-agency)
+    - [Support to SMEs](/en/about-us/support-smes)
+    - [Annual reports and work programmes](/en/about-us/annual-reports-work-programmes)
+    - [History of EMA](/en/about-us/history-ema)
+    - [Careers](/en/about-us/careers)
+    - [Procurement](/en/about-us/procurement-grants)
+    - [About this website](/en/about-us/about-website)
+    - [Data protection and privacy](/en/about-us/data-protection-privacy-ema)
+    - [Contacts](/en/about-us/contacts-european-medicines-agency)
+
+1. [Home](/en/homepage)
+2. [Medicines](https://www.ema.europa.eu/en/medicines)
+3. Arixtra
+
 # Arixtra
 
 [RSS](/en/individual-human-medicine.xml/66777)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-fondaparinux sodium Medicine Human Authorised
+fondaparinux sodium
+
+Medicine Human Authorised
 
 Page contents
 
@@ -117,263 +195,135 @@ Arixtra : EPAR - Summary for the public
 
 English (EN) (66.58 KB - PDF)
 
-**First published:** 05/12/2008
-
-**Last updated:** 08/10/2010
+**First published:** 05/12/2008 **Last updated:** 08/10/2010
 
 [View](/en/documents/overview/arixtra-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-510)
+[Other languages (21)](#file-language-dropdown-791)
 
 български (BG) (174.24 KB - PDF)
 
-**First published:**
-
-05/12/2008
-
-**Last updated:**
-
-08/10/2010
+**First published:** 05/12/2008 **Last updated:** 08/10/2010
 
 [View](/bg/documents/overview/arixtra-epar-summary-public_bg.pdf)
 
 español (ES) (131.83 KB - PDF)
 
-**First published:**
-
-05/12/2008
-
-**Last updated:**
-
-08/10/2010
+**First published:** 05/12/2008 **Last updated:** 08/10/2010
 
 [View](/es/documents/overview/arixtra-epar-summary-public_es.pdf)
 
 čeština (CS) (161.97 KB - PDF)
 
-**First published:**
-
-05/12/2008
-
-**Last updated:**
-
-08/10/2010
+**First published:** 05/12/2008 **Last updated:** 08/10/2010
 
 [View](/cs/documents/overview/arixtra-epar-summary-public_cs.pdf)
 
 dansk (DA) (131.38 KB - PDF)
 
-**First published:**
-
-05/12/2008
-
-**Last updated:**
-
-08/10/2010
+**First published:** 05/12/2008 **Last updated:** 08/10/2010
 
 [View](/da/documents/overview/arixtra-epar-summary-public_da.pdf)
 
 Deutsch (DE) (73.4 KB - PDF)
 
-**First published:**
-
-05/12/2008
-
-**Last updated:**
-
-08/10/2010
+**First published:** 05/12/2008 **Last updated:** 08/10/2010
 
 [View](/de/documents/overview/arixtra-epar-summary-public_de.pdf)
 
 eesti keel (ET) (129.19 KB - PDF)
 
-**First published:**
-
-05/12/2008
-
-**Last updated:**
-
-08/10/2010
+**First published:** 05/12/2008 **Last updated:** 08/10/2010
 
 [View](/et/documents/overview/arixtra-epar-summary-public_et.pdf)
 
 ελληνικά (EL) (191.59 KB - PDF)
 
-**First published:**
-
-05/12/2008
-
-**Last updated:**
-
-08/10/2010
+**First published:** 05/12/2008 **Last updated:** 08/10/2010
 
 [View](/el/documents/overview/arixtra-epar-summary-public_el.pdf)
 
 français (FR) (72.02 KB - PDF)
 
-**First published:**
-
-05/12/2008
-
-**Last updated:**
-
-08/10/2010
+**First published:** 05/12/2008 **Last updated:** 08/10/2010
 
 [View](/fr/documents/overview/arixtra-epar-summary-public_fr.pdf)
 
 italiano (IT) (133.08 KB - PDF)
 
-**First published:**
-
-05/12/2008
-
-**Last updated:**
-
-08/10/2010
+**First published:** 05/12/2008 **Last updated:** 08/10/2010
 
 [View](/it/documents/overview/arixtra-epar-summary-public_it.pdf)
 
 latviešu valoda (LV) (161.72 KB - PDF)
 
-**First published:**
-
-05/12/2008
-
-**Last updated:**
-
-08/10/2010
+**First published:** 05/12/2008 **Last updated:** 08/10/2010
 
 [View](/lv/documents/overview/arixtra-epar-summary-public_lv.pdf)
 
 lietuvių kalba (LT) (158.42 KB - PDF)
 
-**First published:**
-
-05/12/2008
-
-**Last updated:**
-
-08/10/2010
+**First published:** 05/12/2008 **Last updated:** 08/10/2010
 
 [View](/lt/documents/overview/arixtra-epar-summary-public_lt.pdf)
 
 magyar (HU) (156.4 KB - PDF)
 
-**First published:**
-
-05/12/2008
-
-**Last updated:**
-
-08/10/2010
+**First published:** 05/12/2008 **Last updated:** 08/10/2010
 
 [View](/hu/documents/overview/arixtra-epar-summary-public_hu.pdf)
 
 Malti (MT) (169.92 KB - PDF)
 
-**First published:**
-
-05/12/2008
-
-**Last updated:**
-
-08/10/2010
+**First published:** 05/12/2008 **Last updated:** 08/10/2010
 
 [View](/mt/documents/overview/arixtra-epar-summary-public_mt.pdf)
 
 Nederlands (NL) (131.76 KB - PDF)
 
-**First published:**
-
-05/12/2008
-
-**Last updated:**
-
-08/10/2010
+**First published:** 05/12/2008 **Last updated:** 08/10/2010
 
 [View](/nl/documents/overview/arixtra-epar-summary-public_nl.pdf)
 
 polski (PL) (163.02 KB - PDF)
 
-**First published:**
-
-05/12/2008
-
-**Last updated:**
-
-08/10/2010
+**First published:** 05/12/2008 **Last updated:** 08/10/2010
 
 [View](/pl/documents/overview/arixtra-epar-summary-public_pl.pdf)
 
 português (PT) (131.96 KB - PDF)
 
-**First published:**
-
-05/12/2008
-
-**Last updated:**
-
-08/10/2010
+**First published:** 05/12/2008 **Last updated:** 08/10/2010
 
 [View](/pt/documents/overview/arixtra-epar-summary-public_pt.pdf)
 
 română (RO) (158.93 KB - PDF)
 
-**First published:**
-
-05/12/2008
-
-**Last updated:**
-
-08/10/2010
+**First published:** 05/12/2008 **Last updated:** 08/10/2010
 
 [View](/ro/documents/overview/arixtra-epar-summary-public_ro.pdf)
 
 slovenčina (SK) (98.73 KB - PDF)
 
-**First published:**
-
-05/12/2008
-
-**Last updated:**
-
-08/10/2010
+**First published:** 05/12/2008 **Last updated:** 08/10/2010
 
 [View](/sk/documents/overview/arixtra-epar-summary-public_sk.pdf)
 
 slovenščina (SL) (95.8 KB - PDF)
 
-**First published:**
-
-05/12/2008
-
-**Last updated:**
-
-08/10/2010
+**First published:** 05/12/2008 **Last updated:** 08/10/2010
 
 [View](/sl/documents/overview/arixtra-epar-summary-public_sl.pdf)
 
 Suomi (FI) (71.98 KB - PDF)
 
-**First published:**
-
-05/12/2008
-
-**Last updated:**
-
-08/10/2010
+**First published:** 05/12/2008 **Last updated:** 08/10/2010
 
 [View](/fi/documents/overview/arixtra-epar-summary-public_fi.pdf)
 
 svenska (SV) (69.41 KB - PDF)
 
-**First published:**
-
-05/12/2008
-
-**Last updated:**
-
-08/10/2010
+**First published:** 05/12/2008 **Last updated:** 08/10/2010
 
 [View](/sv/documents/overview/arixtra-epar-summary-public_sv.pdf)
 
@@ -381,305 +331,161 @@ svenska (SV) (69.41 KB - PDF)
 
 Arixtra : EPAR - Product information
 
-English (EN) (1.26 MB - PDF)
+English (EN) (952.37 KB - PDF)
 
-**First published:** 04/11/2008
-
-**Last updated:** 29/01/2026
+**First published:** 04/11/2008 **Last updated:** 07/05/2026
 
 [View](/en/documents/product-information/arixtra-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-106)
+[Other languages (24)](#file-language-dropdown-73)
 
-български (BG) (1.36 MB - PDF)
+български (BG) (1.22 MB - PDF)
 
-**First published:**
-
-04/11/2008
-
-**Last updated:**
-
-29/01/2026
+**First published:** 04/11/2008 **Last updated:** 07/05/2026
 
 [View](/bg/documents/product-information/arixtra-epar-product-information_bg.pdf)
 
-español (ES) (2.17 MB - PDF)
+español (ES) (997.11 KB - PDF)
 
-**First published:**
-
-04/11/2008
-
-**Last updated:**
-
-29/01/2026
+**First published:** 04/11/2008 **Last updated:** 07/05/2026
 
 [View](/es/documents/product-information/arixtra-epar-product-information_es.pdf)
 
-čeština (CS) (1.3 MB - PDF)
+čeština (CS) (1022.89 KB - PDF)
 
-**First published:**
-
-04/11/2008
-
-**Last updated:**
-
-29/01/2026
+**First published:** 04/11/2008 **Last updated:** 07/05/2026
 
 [View](/cs/documents/product-information/arixtra-epar-product-information_cs.pdf)
 
-dansk (DA) (1.26 MB - PDF)
+dansk (DA) (926.09 KB - PDF)
 
-**First published:**
-
-04/11/2008
-
-**Last updated:**
-
-29/01/2026
+**First published:** 04/11/2008 **Last updated:** 07/05/2026
 
 [View](/da/documents/product-information/arixtra-epar-product-information_da.pdf)
 
-Deutsch (DE) (1.28 MB - PDF)
+Deutsch (DE) (1.02 MB - PDF)
 
-**First published:**
-
-04/11/2008
-
-**Last updated:**
-
-29/01/2026
+**First published:** 04/11/2008 **Last updated:** 07/05/2026
 
 [View](/de/documents/product-information/arixtra-epar-product-information_de.pdf)
 
-eesti keel (ET) (1.19 MB - PDF)
+eesti keel (ET) (986.98 KB - PDF)
 
-**First published:**
-
-04/11/2008
-
-**Last updated:**
-
-29/01/2026
+**First published:** 04/11/2008 **Last updated:** 07/05/2026
 
 [View](/et/documents/product-information/arixtra-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.63 MB - PDF)
+ελληνικά (EL) (1.43 MB - PDF)
 
-**First published:**
-
-04/11/2008
-
-**Last updated:**
-
-29/01/2026
+**First published:** 04/11/2008 **Last updated:** 07/05/2026
 
 [View](/el/documents/product-information/arixtra-epar-product-information_el.pdf)
 
-français (FR) (1.34 MB - PDF)
+français (FR) (984.69 KB - PDF)
 
-**First published:**
-
-04/11/2008
-
-**Last updated:**
-
-29/01/2026
+**First published:** 04/11/2008 **Last updated:** 07/05/2026
 
 [View](/fr/documents/product-information/arixtra-epar-product-information_fr.pdf)
 
-hrvatski (HR) (1.4 MB - PDF)
+hrvatski (HR) (1.06 MB - PDF)
 
-**First published:**
-
-04/11/2008
-
-**Last updated:**
-
-29/01/2026
+**First published:** 04/11/2008 **Last updated:** 07/05/2026
 
 [View](/hr/documents/product-information/arixtra-epar-product-information_hr.pdf)
 
-íslenska (IS) (1.23 MB - PDF)
+íslenska (IS) (976.37 KB - PDF)
 
-**First published:**
-
-04/11/2008
-
-**Last updated:**
-
-29/01/2026
+**First published:** 04/11/2008 **Last updated:** 07/05/2026
 
 [View](/is/documents/product-information/arixtra-epar-product-information_is.pdf)
 
-italiano (IT) (1.13 MB - PDF)
+italiano (IT) (965.96 KB - PDF)
 
-**First published:**
-
-04/11/2008
-
-**Last updated:**
-
-29/01/2026
+**First published:** 04/11/2008 **Last updated:** 07/05/2026
 
 [View](/it/documents/product-information/arixtra-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (1.47 MB - PDF)
+latviešu valoda (LV) (1.2 MB - PDF)
 
-**First published:**
-
-04/11/2008
-
-**Last updated:**
-
-29/01/2026
+**First published:** 04/11/2008 **Last updated:** 07/05/2026
 
 [View](/lv/documents/product-information/arixtra-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (1.49 MB - PDF)
+lietuvių kalba (LT) (1.07 MB - PDF)
 
-**First published:**
-
-04/11/2008
-
-**Last updated:**
-
-29/01/2026
+**First published:** 04/11/2008 **Last updated:** 07/05/2026
 
 [View](/lt/documents/product-information/arixtra-epar-product-information_lt.pdf)
 
-magyar (HU) (1.42 MB - PDF)
+magyar (HU) (1.1 MB - PDF)
 
-**First published:**
-
-04/11/2008
-
-**Last updated:**
-
-29/01/2026
+**First published:** 04/11/2008 **Last updated:** 07/05/2026
 
 [View](/hu/documents/product-information/arixtra-epar-product-information_hu.pdf)
 
-Malti (MT) (1.46 MB - PDF)
+Malti (MT) (1 MB - PDF)
 
-**First published:**
-
-04/11/2008
-
-**Last updated:**
-
-29/01/2026
+**First published:** 04/11/2008 **Last updated:** 07/05/2026
 
 [View](/mt/documents/product-information/arixtra-epar-product-information_mt.pdf)
 
-Nederlands (NL) (1.3 MB - PDF)
+Nederlands (NL) (1.05 MB - PDF)
 
-**First published:**
-
-04/11/2008
-
-**Last updated:**
-
-29/01/2026
+**First published:** 04/11/2008 **Last updated:** 07/05/2026
 
 [View](/nl/documents/product-information/arixtra-epar-product-information_nl.pdf)
 
-norsk (NO) (1.21 MB - PDF)
+norsk (NO) (945.03 KB - PDF)
 
-**First published:**
-
-04/11/2008
-
-**Last updated:**
-
-29/01/2026
+**First published:** 04/11/2008 **Last updated:** 07/05/2026
 
 [View](/no/documents/product-information/arixtra-epar-product-information_no.pdf)
 
-polski (PL) (1.48 MB - PDF)
+polski (PL) (1.3 MB - PDF)
 
-**First published:**
-
-04/11/2008
-
-**Last updated:**
-
-29/01/2026
+**First published:** 04/11/2008 **Last updated:** 07/05/2026
 
 [View](/pl/documents/product-information/arixtra-epar-product-information_pl.pdf)
 
-português (PT) (1.22 MB - PDF)
+português (PT) (1.09 MB - PDF)
 
-**First published:**
-
-04/11/2008
-
-**Last updated:**
-
-29/01/2026
+**First published:** 04/11/2008 **Last updated:** 07/05/2026
 
 [View](/pt/documents/product-information/arixtra-epar-product-information_pt.pdf)
 
-română (RO) (1.33 MB - PDF)
+română (RO) (1.06 MB - PDF)
 
-**First published:**
-
-04/11/2008
-
-**Last updated:**
-
-29/01/2026
+**First published:** 04/11/2008 **Last updated:** 07/05/2026
 
 [View](/ro/documents/product-information/arixtra-epar-product-information_ro.pdf)
 
-slovenčina (SK) (2.41 MB - PDF)
+slovenčina (SK) (1.08 MB - PDF)
 
-**First published:**
-
-04/11/2008
-
-**Last updated:**
-
-29/01/2026
+**First published:** 04/11/2008 **Last updated:** 07/05/2026
 
 [View](/sk/documents/product-information/arixtra-epar-product-information_sk.pdf)
 
-slovenščina (SL) (2.19 MB - PDF)
+slovenščina (SL) (1.02 MB - PDF)
 
-**First published:**
-
-04/11/2008
-
-**Last updated:**
-
-29/01/2026
+**First published:** 04/11/2008 **Last updated:** 07/05/2026
 
 [View](/sl/documents/product-information/arixtra-epar-product-information_sl.pdf)
 
-Suomi (FI) (1.26 MB - PDF)
+Suomi (FI) (1.01 MB - PDF)
 
-**First published:**
-
-04/11/2008
-
-**Last updated:**
-
-29/01/2026
+**First published:** 04/11/2008 **Last updated:** 07/05/2026
 
 [View](/fi/documents/product-information/arixtra-epar-product-information_fi.pdf)
 
-svenska (SV) (1.22 MB - PDF)
+svenska (SV) (949.08 KB - PDF)
 
-**First published:**
-
-04/11/2008
-
-**Last updated:**
-
-29/01/2026
+**First published:** 04/11/2008 **Last updated:** 07/05/2026
 
 [View](/sv/documents/product-information/arixtra-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** N/0000315081 28/01/2026
+**Latest procedure affecting product information:** VR/0000325156
+
+05/05/2026
 
 icon globe
 
@@ -699,312 +505,180 @@ Arixtra : EPAR - All Authorised presentations
 
 English (EN) (17.92 KB - PDF)
 
-**First published:** 04/11/2008
-
-**Last updated:** 04/11/2008
+**First published:** 04/11/2008 **Last updated:** 04/11/2008
 
 [View](/en/documents/all-authorised-presentations/arixtra-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-524)
+[Other languages (24)](#file-language-dropdown-105)
 
 български (BG) (89.22 KB - PDF)
 
-**First published:**
-
-04/11/2008
-
-**Last updated:**
-
-04/11/2008
+**First published:** 04/11/2008 **Last updated:** 04/11/2008
 
 [View](/bg/documents/all-authorised-presentations/arixtra-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (19.44 KB - PDF)
 
-**First published:**
-
-04/11/2008
-
-**Last updated:**
-
-04/11/2008
+**First published:** 04/11/2008 **Last updated:** 04/11/2008
 
 [View](/es/documents/all-authorised-presentations/arixtra-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (93.07 KB - PDF)
 
-**First published:**
-
-04/11/2008
-
-**Last updated:**
-
-04/11/2008
+**First published:** 04/11/2008 **Last updated:** 04/11/2008
 
 [View](/cs/documents/all-authorised-presentations/arixtra-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (20.93 KB - PDF)
 
-**First published:**
-
-04/11/2008
-
-**Last updated:**
-
-04/11/2008
+**First published:** 04/11/2008 **Last updated:** 04/11/2008
 
 [View](/da/documents/all-authorised-presentations/arixtra-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (19.7 KB - PDF)
 
-**First published:**
-
-04/11/2008
-
-**Last updated:**
-
-04/11/2008
+**First published:** 04/11/2008 **Last updated:** 04/11/2008
 
 [View](/de/documents/all-authorised-presentations/arixtra-epar-all-authorised-presentations_de.pdf)
 
 eesti keel (ET) (18.77 KB - PDF)
 
-**First published:**
-
-04/11/2008
-
-**Last updated:**
-
-04/11/2008
+**First published:** 04/11/2008 **Last updated:** 04/11/2008
 
 [View](/et/documents/all-authorised-presentations/arixtra-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (83.06 KB - PDF)
 
-**First published:**
-
-04/11/2008
-
-**Last updated:**
-
-04/11/2008
+**First published:** 04/11/2008 **Last updated:** 04/11/2008
 
 [View](/el/documents/all-authorised-presentations/arixtra-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (19.89 KB - PDF)
 
-**First published:**
-
-04/11/2008
-
-**Last updated:**
-
-04/11/2008
+**First published:** 04/11/2008 **Last updated:** 04/11/2008
 
 [View](/fr/documents/all-authorised-presentations/arixtra-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (162.44 KB - PDF)
 
-**First published:**
-
-04/11/2008
-
-**Last updated:**
-
-04/11/2008
+**First published:** 04/11/2008 **Last updated:** 04/11/2008
 
 [View](/hr/documents/all-authorised-presentations/arixtra-epar-all-authorised-presentations_hr.pdf)
 
 íslenska (IS) (113.51 KB - PDF)
 
-**First published:**
-
-04/11/2008
-
-**Last updated:**
-
-04/11/2008
+**First published:** 04/11/2008 **Last updated:** 04/11/2008
 
 [View](/is/documents/all-authorised-presentations/arixtra-epar-all-authorised-presentations_is.pdf)
 
 italiano (IT) (17.97 KB - PDF)
 
-**First published:**
-
-04/11/2008
-
-**Last updated:**
-
-04/11/2008
+**First published:** 04/11/2008 **Last updated:** 04/11/2008
 
 [View](/it/documents/all-authorised-presentations/arixtra-epar-all-authorised-presentations_it.pdf)
 
 latviešu valoda (LV) (88.8 KB - PDF)
 
-**First published:**
-
-04/11/2008
-
-**Last updated:**
-
-04/11/2008
+**First published:** 04/11/2008 **Last updated:** 04/11/2008
 
 [View](/lv/documents/all-authorised-presentations/arixtra-epar-all-authorised-presentations_lv.pdf)
 
 lietuvių kalba (LT) (88.65 KB - PDF)
 
-**First published:**
-
-04/11/2008
-
-**Last updated:**
-
-04/11/2008
+**First published:** 04/11/2008 **Last updated:** 04/11/2008
 
 [View](/lt/documents/all-authorised-presentations/arixtra-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (86.82 KB - PDF)
 
-**First published:**
-
-04/11/2008
-
-**Last updated:**
-
-04/11/2008
+**First published:** 04/11/2008 **Last updated:** 04/11/2008
 
 [View](/hu/documents/all-authorised-presentations/arixtra-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (90.38 KB - PDF)
 
-**First published:**
-
-04/11/2008
-
-**Last updated:**
-
-04/11/2008
+**First published:** 04/11/2008 **Last updated:** 04/11/2008
 
 [View](/mt/documents/all-authorised-presentations/arixtra-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (19.15 KB - PDF)
 
-**First published:**
-
-04/11/2008
-
-**Last updated:**
-
-04/11/2008
+**First published:** 04/11/2008 **Last updated:** 04/11/2008
 
 [View](/nl/documents/all-authorised-presentations/arixtra-epar-all-authorised-presentations_nl.pdf)
 
 norsk (NO) (135.06 KB - PDF)
 
-**First published:**
-
-04/11/2008
-
-**Last updated:**
-
-04/11/2008
+**First published:** 04/11/2008 **Last updated:** 04/11/2008
 
 [View](/no/documents/all-authorised-presentations/arixtra-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (94.81 KB - PDF)
 
-**First published:**
-
-04/11/2008
-
-**Last updated:**
-
-04/11/2008
+**First published:** 04/11/2008 **Last updated:** 04/11/2008
 
 [View](/pl/documents/all-authorised-presentations/arixtra-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (18.8 KB - PDF)
 
-**First published:**
-
-04/11/2008
-
-**Last updated:**
-
-04/11/2008
+**First published:** 04/11/2008 **Last updated:** 04/11/2008
 
 [View](/pt/documents/all-authorised-presentations/arixtra-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (85.03 KB - PDF)
 
-**First published:**
-
-04/11/2008
-
-**Last updated:**
-
-04/11/2008
+**First published:** 04/11/2008 **Last updated:** 04/11/2008
 
 [View](/ro/documents/all-authorised-presentations/arixtra-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (90.55 KB - PDF)
 
-**First published:**
-
-04/11/2008
-
-**Last updated:**
-
-04/11/2008
+**First published:** 04/11/2008 **Last updated:** 04/11/2008
 
 [View](/sk/documents/all-authorised-presentations/arixtra-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (86.14 KB - PDF)
 
-**First published:**
-
-04/11/2008
-
-**Last updated:**
-
-04/11/2008
+**First published:** 04/11/2008 **Last updated:** 04/11/2008
 
 [View](/sl/documents/all-authorised-presentations/arixtra-epar-all-authorised-presentations_sl.pdf)
 
 Suomi (FI) (19.75 KB - PDF)
 
-**First published:**
-
-04/11/2008
-
-**Last updated:**
-
-04/11/2008
+**First published:** 04/11/2008 **Last updated:** 04/11/2008
 
 [View](/fi/documents/all-authorised-presentations/arixtra-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (19.86 KB - PDF)
 
-**First published:**
-
-04/11/2008
-
-**Last updated:**
-
-04/11/2008
+**First published:** 04/11/2008 **Last updated:** 04/11/2008
 
 [View](/sv/documents/all-authorised-presentations/arixtra-epar-all-authorised-presentations_sv.pdf)
 
 ## Product details
 
-Name of medicine Arixtra International non-proprietary name (INN) or common name fondaparinux sodium Therapeutic area (MeSH)
+Name of medicine
+
+Arixtra
+
+Active substance
+
+fondaparinux sodium
+
+International non-proprietary name (INN) or common name
+
+fondaparinux sodium
+
+Therapeutic area (MeSH)
 
 - Venous Thrombosis
 - Pulmonary Embolism
 - Myocardial Infarction
 - Angina, Unstable
 
-Anatomical therapeutic chemical (ATC) code B01AX05
+Anatomical therapeutic chemical (ATC) code
+
+B01AX05
 
 ### Pharmacotherapeutic group
 
@@ -1034,13 +708,27 @@ Treatment of adults with acute deep-vein thrombosis (DVT) and treatment of acute
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/000403 Marketing authorisation holder
+EMA product number
+
+EMEA/H/C/000403
+
+Marketing authorisation holder
 
 Viatris Healthcare Limited
 
 Damastown Industrial Park Mulhuddart Dublin 15 Dublin Ireland
 
-Opinion adopted 22/07/2010 Marketing authorisation issued 20/03/2002 Revision 38
+Opinion adopted
+
+22/07/2010
+
+Marketing authorisation issued
+
+20/03/2002
+
+Revision
+
+39
 
 ## Assessment history
 
@@ -1052,9 +740,9 @@ Collapse section
 
 Arixtra : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (134.03 KB - PDF)
+English (EN) (133.27 KB - PDF)
 
-**First published:** 29/01/2026
+**First published:** 29/01/2026 **Last updated:** 07/05/2026
 
 [View](/en/documents/procedural-steps-after/arixtra-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1062,9 +750,7 @@ Arixtra : EPAR - Procedural steps taken and scientific information after authori
 
 English (EN) (266.92 KB - PDF)
 
-**First published:** 06/05/2009
-
-**Last updated:** 29/01/2026
+**First published:** 06/05/2009 **Last updated:** 29/01/2026
 
 [View](/en/documents/procedural-steps-after/arixtra-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
@@ -1074,9 +760,7 @@ Reference Number: EMA/CHMP/493771/2016
 
 English (EN) (67.68 KB - PDF)
 
-**First published:** 08/11/2016
-
-**Last updated:** 08/11/2016
+**First published:** 08/11/2016 **Last updated:** 08/11/2016
 
 [View](/en/documents/scientific-conclusion/arixtra-h-c-psusa-00001467-201512-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf)
 
@@ -1086,23 +770,17 @@ Adopted
 
 English (EN) (413.95 KB - PDF)
 
-**First published:** 08/10/2010
-
-**Last updated:** 08/10/2010
+**First published:** 08/10/2010 **Last updated:** 08/10/2010
 
 [View](/en/documents/variation-report/arixtra-h-c-403-ii-45-epar-assessment-report-variation_en.pdf)
 
 CHMP authorisation positive summary of opinion for Arixtra
 
-Adopted
-
-Reference Number: EMA/CHMP/429539/2010
+Adopted Reference Number: EMA/CHMP/429539/2010
 
 English (EN) (54.72 KB - PDF)
 
-**First published:** 23/07/2010
-
-**Last updated:** 23/07/2010
+**First published:** 23/07/2010 **Last updated:** 23/07/2010
 
 [View](/en/documents/smop/chmp-authorisation-positive-summary-opinion-arixtra_en.pdf)
 
@@ -1112,9 +790,7 @@ Adopted
 
 English (EN) (696.59 KB - PDF)
 
-**First published:** 20/11/2007
-
-**Last updated:** 20/11/2007
+**First published:** 20/11/2007 **Last updated:** 20/11/2007
 
 [View](/en/documents/scientific-discussion-variation/arixtra-h-c-403-ii-24-epar-scientific-discussion-variation_en.pdf)
 
@@ -1124,9 +800,7 @@ Adopted
 
 English (EN) (109.41 KB - PDF)
 
-**First published:** 20/11/2007
-
-**Last updated:** 20/11/2007
+**First published:** 20/11/2007 **Last updated:** 20/11/2007
 
 [View](/en/documents/scientific-discussion-variation/arixtra-h-c-403-x-25-epar-scientific-discussion-extension_en.pdf)
 
@@ -1134,9 +808,7 @@ Arixtra : EPAR - Steps taken after authorisation when a cutoff date has been use
 
 English (EN) (90.12 KB - PDF)
 
-**First published:** 04/11/2005
-
-**Last updated:** 04/11/2005
+**First published:** 04/11/2005 **Last updated:** 04/11/2005
 
 [View](/en/documents/steps-after-cutoff/arixtra-epar-steps-taken-after-authorisation-when-cutoff-date-has-been-used_en.pdf)
 
@@ -1146,9 +818,7 @@ Adopted
 
 English (EN) (251.14 KB - PDF)
 
-**First published:** 04/11/2005
-
-**Last updated:** 04/11/2005
+**First published:** 04/11/2005 **Last updated:** 04/11/2005
 
 [View](/en/documents/scientific-discussion-variation/arixtra-h-c-403-ii-12-epar-scientific-discussion-variation_en.pdf)
 
@@ -1158,9 +828,7 @@ Arixtra : EPAR - Procedural steps taken before authorisation
 
 English (EN) (92.13 KB - PDF)
 
-**First published:** 04/11/2005
-
-**Last updated:** 04/11/2005
+**First published:** 04/11/2005 **Last updated:** 04/11/2005
 
 [View](/en/documents/procedural-steps/arixtra-epar-procedural-steps-taken-authorisation_en.pdf)
 
@@ -1168,228 +836,179 @@ Arixtra : EPAR - Scientific Discussion
 
 English (EN) (692.26 KB - PDF)
 
-**First published:** 04/11/2005
-
-**Last updated:** 04/11/2005
+**First published:** 04/11/2005 **Last updated:** 04/11/2005
 
 [View](/en/documents/scientific-discussion/arixtra-epar-scientific-discussion_en.pdf)
 
-#### Product information - with tracked changes
+## Product information - with tracked changes
 
 The approved product information for this medicine is available below showing the changes since the previous procedure affecting the product information. The same document without tracked changes is above under 'Product information'.
 
 Arixtra : EPAR - Product information - tracked changes
 
-English (EN) (1.26 MB - PDF)
+English (EN) (660.2 KB - DOCX)
 
-**First published:** 29/01/2026
+**First published:** 29/01/2026 **Last updated:** 07/05/2026
 
-[View](/en/documents/product-information-tracked-changes/arixtra-epar-product-information-tracked-changes_en.pdf)
+[View](/en/documents/product-information-tracked-changes/arixtra-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-378)
+[Other languages (24)](#file-language-dropdown-875)
 
-български (BG) (1.36 MB - PDF)
+български (BG) (606.87 KB - DOCX)
 
-**First published:**
+**First published:** 29/01/2026 **Last updated:** 07/05/2026
 
-29/01/2026
+[View](/bg/documents/product-information-tracked-changes/arixtra-epar-product-information-tracked-changes_bg.docx)
 
-[View](/bg/documents/product-information-tracked-changes/arixtra-epar-product-information-tracked-changes_bg.pdf)
+español (ES) (884.97 KB - DOCX)
 
-español (ES) (2.17 MB - PDF)
+**First published:** 29/01/2026 **Last updated:** 07/05/2026
 
-**First published:**
+[View](/es/documents/product-information-tracked-changes/arixtra-epar-product-information-tracked-changes_es.docx)
 
-29/01/2026
+čeština (CS) (556.86 KB - DOCX)
 
-[View](/es/documents/product-information-tracked-changes/arixtra-epar-product-information-tracked-changes_es.pdf)
+**First published:** 29/01/2026 **Last updated:** 07/05/2026
 
-čeština (CS) (1.3 MB - PDF)
+[View](/cs/documents/product-information-tracked-changes/arixtra-epar-product-information-tracked-changes_cs.docx)
 
-**First published:**
+dansk (DA) (567.08 KB - DOCX)
 
-29/01/2026
+**First published:** 29/01/2026 **Last updated:** 07/05/2026
 
-[View](/cs/documents/product-information-tracked-changes/arixtra-epar-product-information-tracked-changes_cs.pdf)
+[View](/da/documents/product-information-tracked-changes/arixtra-epar-product-information-tracked-changes_da.docx)
 
-dansk (DA) (1.26 MB - PDF)
+Deutsch (DE) (670.33 KB - DOCX)
 
-**First published:**
+**First published:** 29/01/2026 **Last updated:** 07/05/2026
 
-29/01/2026
+[View](/de/documents/product-information-tracked-changes/arixtra-epar-product-information-tracked-changes_de.docx)
 
-[View](/da/documents/product-information-tracked-changes/arixtra-epar-product-information-tracked-changes_da.pdf)
+eesti keel (ET) (501.46 KB - DOCX)
 
-Deutsch (DE) (1.28 MB - PDF)
+**First published:** 29/01/2026 **Last updated:** 07/05/2026
 
-**First published:**
+[View](/et/documents/product-information-tracked-changes/arixtra-epar-product-information-tracked-changes_et.docx)
 
-29/01/2026
+ελληνικά (EL) (821.16 KB - DOCX)
 
-[View](/de/documents/product-information-tracked-changes/arixtra-epar-product-information-tracked-changes_de.pdf)
+**First published:** 29/01/2026 **Last updated:** 07/05/2026
 
-eesti keel (ET) (1.19 MB - PDF)
+[View](/el/documents/product-information-tracked-changes/arixtra-epar-product-information-tracked-changes_el.docx)
 
-**First published:**
+français (FR) (557.2 KB - DOCX)
 
-29/01/2026
+**First published:** 29/01/2026 **Last updated:** 07/05/2026
 
-[View](/et/documents/product-information-tracked-changes/arixtra-epar-product-information-tracked-changes_et.pdf)
+[View](/fr/documents/product-information-tracked-changes/arixtra-epar-product-information-tracked-changes_fr.docx)
 
-ελληνικά (EL) (1.63 MB - PDF)
+hrvatski (HR) (728.74 KB - DOCX)
 
-**First published:**
+**First published:** 29/01/2026 **Last updated:** 07/05/2026
 
-29/01/2026
+[View](/hr/documents/product-information-tracked-changes/arixtra-epar-product-information-tracked-changes_hr.docx)
 
-[View](/el/documents/product-information-tracked-changes/arixtra-epar-product-information-tracked-changes_el.pdf)
+íslenska (IS) (571.43 KB - DOCX)
 
-français (FR) (1.34 MB - PDF)
+**First published:** 29/01/2026 **Last updated:** 07/05/2026
 
-**First published:**
+[View](/is/documents/product-information-tracked-changes/arixtra-epar-product-information-tracked-changes_is.docx)
 
-29/01/2026
+italiano (IT) (540.63 KB - DOCX)
 
-[View](/fr/documents/product-information-tracked-changes/arixtra-epar-product-information-tracked-changes_fr.pdf)
+**First published:** 29/01/2026 **Last updated:** 07/05/2026
 
-hrvatski (HR) (1.4 MB - PDF)
+[View](/it/documents/product-information-tracked-changes/arixtra-epar-product-information-tracked-changes_it.docx)
 
-**First published:**
+latviešu valoda (LV) (677.03 KB - DOCX)
 
-29/01/2026
+**First published:** 29/01/2026 **Last updated:** 07/05/2026
 
-[View](/hr/documents/product-information-tracked-changes/arixtra-epar-product-information-tracked-changes_hr.pdf)
+[View](/lv/documents/product-information-tracked-changes/arixtra-epar-product-information-tracked-changes_lv.docx)
 
-íslenska (IS) (1.23 MB - PDF)
+lietuvių kalba (LT) (625.43 KB - DOCX)
 
-**First published:**
+**First published:** 29/01/2026 **Last updated:** 07/05/2026
 
-29/01/2026
+[View](/lt/documents/product-information-tracked-changes/arixtra-epar-product-information-tracked-changes_lt.docx)
 
-[View](/is/documents/product-information-tracked-changes/arixtra-epar-product-information-tracked-changes_is.pdf)
+magyar (HU) (721.3 KB - DOCX)
 
-italiano (IT) (1.13 MB - PDF)
+**First published:** 29/01/2026 **Last updated:** 07/05/2026
 
-**First published:**
+[View](/hu/documents/product-information-tracked-changes/arixtra-epar-product-information-tracked-changes_hu.docx)
 
-29/01/2026
+Malti (MT) (601.56 KB - DOCX)
 
-[View](/it/documents/product-information-tracked-changes/arixtra-epar-product-information-tracked-changes_it.pdf)
+**First published:** 29/01/2026 **Last updated:** 07/05/2026
 
-latviešu valoda (LV) (1.47 MB - PDF)
+[View](/mt/documents/product-information-tracked-changes/arixtra-epar-product-information-tracked-changes_mt.docx)
 
-**First published:**
+Nederlands (NL) (723.95 KB - DOCX)
 
-29/01/2026
+**First published:** 29/01/2026 **Last updated:** 07/05/2026
 
-[View](/lv/documents/product-information-tracked-changes/arixtra-epar-product-information-tracked-changes_lv.pdf)
+[View](/nl/documents/product-information-tracked-changes/arixtra-epar-product-information-tracked-changes_nl.docx)
 
-lietuvių kalba (LT) (1.49 MB - PDF)
+norsk (NO) (547.1 KB - DOCX)
 
-**First published:**
+**First published:** 29/01/2026 **Last updated:** 07/05/2026
 
-29/01/2026
+[View](/no/documents/product-information-tracked-changes/arixtra-epar-product-information-tracked-changes_no.docx)
 
-[View](/lt/documents/product-information-tracked-changes/arixtra-epar-product-information-tracked-changes_lt.pdf)
+polski (PL) (693.53 KB - DOCX)
 
-magyar (HU) (1.42 MB - PDF)
+**First published:** 29/01/2026 **Last updated:** 07/05/2026
 
-**First published:**
+[View](/pl/documents/product-information-tracked-changes/arixtra-epar-product-information-tracked-changes_pl.docx)
 
-29/01/2026
+português (PT) (605.37 KB - DOCX)
 
-[View](/hu/documents/product-information-tracked-changes/arixtra-epar-product-information-tracked-changes_hu.pdf)
+**First published:** 29/01/2026 **Last updated:** 07/05/2026
 
-Malti (MT) (1.46 MB - PDF)
+[View](/pt/documents/product-information-tracked-changes/arixtra-epar-product-information-tracked-changes_pt.docx)
 
-**First published:**
+română (RO) (608.71 KB - DOCX)
 
-29/01/2026
+**First published:** 29/01/2026 **Last updated:** 07/05/2026
 
-[View](/mt/documents/product-information-tracked-changes/arixtra-epar-product-information-tracked-changes_mt.pdf)
+[View](/ro/documents/product-information-tracked-changes/arixtra-epar-product-information-tracked-changes_ro.docx)
 
-Nederlands (NL) (1.3 MB - PDF)
+slovenčina (SK) (729.52 KB - DOCX)
 
-**First published:**
+**First published:** 29/01/2026 **Last updated:** 07/05/2026
 
-29/01/2026
+[View](/sk/documents/product-information-tracked-changes/arixtra-epar-product-information-tracked-changes_sk.docx)
 
-[View](/nl/documents/product-information-tracked-changes/arixtra-epar-product-information-tracked-changes_nl.pdf)
+slovenščina (SL) (687.88 KB - DOCX)
 
-norsk (NO) (1.21 MB - PDF)
+**First published:** 29/01/2026 **Last updated:** 07/05/2026
 
-**First published:**
+[View](/sl/documents/product-information-tracked-changes/arixtra-epar-product-information-tracked-changes_sl.docx)
 
-29/01/2026
+Suomi (FI) (700.5 KB - DOCX)
 
-[View](/no/documents/product-information-tracked-changes/arixtra-epar-product-information-tracked-changes_no.pdf)
+**First published:** 29/01/2026 **Last updated:** 07/05/2026
 
-polski (PL) (1.48 MB - PDF)
+[View](/fi/documents/product-information-tracked-changes/arixtra-epar-product-information-tracked-changes_fi.docx)
 
-**First published:**
+svenska (SV) (529.78 KB - DOCX)
 
-29/01/2026
+**First published:** 29/01/2026 **Last updated:** 07/05/2026
 
-[View](/pl/documents/product-information-tracked-changes/arixtra-epar-product-information-tracked-changes_pl.pdf)
+[View](/sv/documents/product-information-tracked-changes/arixtra-epar-product-information-tracked-changes_sv.docx)
 
-português (PT) (1.22 MB - PDF)
-
-**First published:**
-
-29/01/2026
-
-[View](/pt/documents/product-information-tracked-changes/arixtra-epar-product-information-tracked-changes_pt.pdf)
-
-română (RO) (1.33 MB - PDF)
-
-**First published:**
-
-29/01/2026
-
-[View](/ro/documents/product-information-tracked-changes/arixtra-epar-product-information-tracked-changes_ro.pdf)
-
-slovenčina (SK) (2.41 MB - PDF)
-
-**First published:**
-
-29/01/2026
-
-[View](/sk/documents/product-information-tracked-changes/arixtra-epar-product-information-tracked-changes_sk.pdf)
-
-slovenščina (SL) (2.19 MB - PDF)
-
-**First published:**
-
-29/01/2026
-
-[View](/sl/documents/product-information-tracked-changes/arixtra-epar-product-information-tracked-changes_sl.pdf)
-
-Suomi (FI) (1.26 MB - PDF)
-
-**First published:**
-
-29/01/2026
-
-[View](/fi/documents/product-information-tracked-changes/arixtra-epar-product-information-tracked-changes_fi.pdf)
-
-svenska (SV) (1.22 MB - PDF)
-
-**First published:**
-
-29/01/2026
-
-[View](/sv/documents/product-information-tracked-changes/arixtra-epar-product-information-tracked-changes_sv.pdf)
-
-#### More information on Arixtra
+## More information on Arixtra
 
 - [Arixtra - supply shortage](/en/medicines/human/shortages/arixtra)
+- [Arixtra - direct healthcare professional communication (DHPC)](/en/medicines/dhpc/arixtra)
 
-#### Topics
+## Topics
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 29/01/2026
+**This page was last updated on**
+
+07/05/2026
 
 ## Share this page
-
-[Back to top](#main-content)

@@ -1,32 +1,108 @@
 ---
-document_datetime: 2025-12-29 09:23:30
+document_datetime: 2026-05-07 15:00:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/truvelog-mix-30.html
 document_name: truvelog-mix-30.html
 version: success
-processing_time: 0.1047073
-conversion_datetime: 2025-12-30 11:21:12.542439
+processing_time: 0.109763
+conversion_datetime: 2026-05-10 12:08:10.897756
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.17.0
+  docling-jobkit: 1.18.0
+  docling: 2.92.0
+  docling-core: 2.74.1
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.10.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
+# Search
+
+- [Medicines](/en/medicines)
+    - [Find medicine](/en/medicines)
+    - [Therapeutic areas: latest updates](/en/medicines/therapeutic-areas-latest-updates)
+    - [Download medicine data](/en/medicines/download-medicine-data)
+    - [What we publish on medicines and when](/en/medicines/what-we-publish-medicines-when)
+    - [Medicines under evaluation](/en/medicines/medicines-human-use-under-evaluation)
+    - [National registers](/en/medicines/national-registers-authorised-medicines)
+- [Human regulatory](/en/human-regulatory-overview)
+    - [Overview](/en/human-regulatory-overview)
+    - [Research and development](/en/human-regulatory-overview/research-development)
+    - [Marketing authorisation](/en/human-regulatory-overview/marketing-authorisation)
+    - [Post-authorisation](/en/human-regulatory-overview/post-authorisation)
+    - [Medical devices](/en/human-regulatory-overview/medical-devices)
+    - [Herbal products](/en/human-regulatory-overview/herbal-medicinal-products)
+- [Veterinary regulatory](/en/veterinary-regulatory-overview)
+    - [Overview](/en/veterinary-regulatory-overview)
+    - [Research and development](/en/veterinary-regulatory-overview/research-development-veterinary-medicines)
+    - [Marketing authorisation](/en/veterinary-regulatory-overview/marketing-authorisation-veterinary-medicines)
+    - [Post-authorisation](/en/veterinary-regulatory-overview/post-authorisation-veterinary-medicines)
+- [Committees](/en/committees)
+    - [Overview](/en/committees)
+    - [How the committees work](/en/committees/how-committees-work)
+    - [CHMP](/en/committees/committee-medicinal-products-human-use-chmp)
+    - [CVMP](/en/committees/committee-veterinary-medicinal-products-cvmp)
+    - [PRAC](/en/committees/pharmacovigilance-risk-assessment-committee-prac)
+    - [COMP](/en/committees/committee-orphan-medicinal-products-comp)
+    - [HMPC](/en/committees/committee-herbal-medicinal-products-hmpc)
+    - [CAT](/en/committees/committee-advanced-therapies-cat)
+    - [PDCO](/en/committees/paediatric-committee-pdco)
+    - [Working parties and other groups](/en/committees/working-parties-other-groups)
+- [News &amp; events](/en/news-events)
+    - [Overview](/en/news-events)
+    - [News](/en/news)
+    - [Events](/en/events/upcoming-events)
+    - [What's new](/en/news-events/whats-new)
+    - [Committee highlights](/en/news-events/committee-highlights)
+    - [Publications](/en/news-and-events/publications)
+    - [Press and social media](/en/news-events/press-social-media)
+    - [Podcast: Inside EMA](/en/news-events/podcast-inside-ema)
+    - [EMA Campaigns](/en/news-events/ema-campaigns)
+    - [Open consultations](/en/news-events/open-consultations)
+    - [RSS feeds](/en/news-events/rss-feeds)
+- [Partners &amp; networks](/en/partners-networks)
+    - [Overview](/en/partners-networks)
+    - [EU partners](/en/partners-networks/eu-partners)
+    - [International activities](/en/partners-networks/international-activities)
+    - [Patients and consumers](/en/partners-networks/patients-consumers)
+    - [Healthcare professionals](/en/partners-networks/healthcare-professionals)
+    - [Academia](/en/partners-networks/academia)
+    - [Pharmaceutical industry](/en/partners-networks/pharmaceutical-industry)
+    - [Networks](/en/partners-networks/networks)
+    - [Health technology assessment bodies](/en/partners-networks/health-technology-assessment-bodies)
+    - [One Health approach](/en/partners-networks/one-health-approach)
+    - [Animal health practitioners](/en/partners-networks/animal-health-practitioners)
+    - [One substance - one assessment](/en/partners-networks/one-substance-one-assessment-osoa-eu-collaboration-chemicals-related-data)
+- [About us](/en/about-us)
+    - [Overview](/en/about-us)
+    - [What we do](/en/about-us/what-we-do)
+    - [Who we are](/en/about-us/who-we-are)
+    - [How we work](/en/about-us/how-we-work)
+    - [Fees](/en/about-us/fees-payable-european-medicines-agency)
+    - [Support to SMEs](/en/about-us/support-smes)
+    - [Annual reports and work programmes](/en/about-us/annual-reports-work-programmes)
+    - [History of EMA](/en/about-us/history-ema)
+    - [Careers](/en/about-us/careers)
+    - [Procurement](/en/about-us/procurement-grants)
+    - [About this website](/en/about-us/about-website)
+    - [Data protection and privacy](/en/about-us/data-protection-privacy-ema)
+    - [Contacts](/en/about-us/contacts-european-medicines-agency)
+
+1. [Home](/en/homepage)
+2. [Medicines](https://www.ema.europa.eu/en/medicines)
+3. Truvelog Mix 30
+
 # Truvelog Mix 30
 
 [RSS](/en/individual-human-medicine.xml/67562)
 
-##### Authorised
+Withdrawn
 
-This medicine is authorised for use in the European Union
+This medicine's authorisation has been withdrawn
 
-insulin aspart Medicine Human Authorised
+insulin aspart
 
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
+Medicine Human Withdrawn
 
 Page contents
 
@@ -46,257 +122,161 @@ Page contents
 
 ## Overview
 
-Truvelog Mix 30 is an insulin medicine used to treat patients from 10 years of age who have diabetes and need insulin to keep their blood glucose (sugar) level controlled.
+On 25 January 2024, the European Commission withdrew the marketing authorisation for Truvelog Mix 30 (insulin aspart) in the European Union (EU). The withdrawal was at the request of the marketing authorisation holder, Sanofi Winthrop Industrie, which notified the European Commission of its decision to permanently discontinue the marketing of the product for commercial reasons.
 
-Truvelog Mix 30 is a 'biosimilar medicine'. This means that Truvelog Mix 30 is highly similar to another biological medicine (the 'reference medicine') that is already authorised in the EU. The reference medicine for Truvelog Mix 30 is NovoMix 30. For more information on biosimilar medicines, see [here](/en/biosimilar-medicines-overview) .
+Truvelog Mix 30 was granted marketing authorisation in the EU on 25 April 2022 for the treatment of diabetes mellitus.
 
-Truvelog Mix 30 contains the active substance insulin aspart combined with protamine to make it longer acting.
-
-Expand section
-
-Collapse section
-
-## How is Truvelog Mix 30 used?
-
-Truvelog Mix 30 can only be obtained with a prescription and is given as an injection under the skin in the upper arm, thigh, buttock or belly, usually shortly before a meal or, if more appropriate, soon after a meal. The dose is worked out for each patient and depends on the patient's weight and blood glucose level.
-
-In type 2 diabetes, Truvelog Mix 30 can be given on its own or together with other diabetes medicines.
-
-A healthcare professional should explain to the patient how to use the medicine properly.
-
-For more information about using Truvelog Mix 30, see the package leaflet or contact your doctor or pharmacist.
-
-## How does Truvelog Mix 30 work?
-
-In diabetes, patients have high levels of blood glucose because either the body does not produce enough insulin or the body is unable to use insulin effectively. Truvelog Mix 30 is a replacement insulin that helps control blood glucose levels, thereby alleviating symptoms of diabetes and reducing the risk of complications.
-
-The insulin aspart in Truvelog Mix 30 is a form of insulin which is absorbed more quickly by the body than regular insulin and can therefore start working sooner after it is injected. In Truvelog Mix 30, 30% of the active substance is in this rapid acting form, and 70% in a longer acting form combined with protamine (insulin aspart protamine), which is absorbed more slowly and so works for longer.
-
-## What benefits of Truvelog Mix 30 have been shown in studies?
-
-Laboratory studies comparing Truvelog Mix 30 with NovoMix 30 have shown that the active substance in Truvelog Mix 30 is highly similar to that in NovoMix 30 in terms of structure, purity and biological activity. Studies have also shown that giving Truvelog Mix 30 produces similar levels of the active substance in the body to giving NovoMix 30.
-
-Because Truvelog Mix 30 is a biosimilar medicine, the studies on effectiveness and safety of insulin aspart carried out with NovoMix 30 do not all need to be repeated for Truvelog Mix 30.
-
-## What are the risks associated with Truvelog Mix 30?
-
-The safety of Truvelog Mix 30 has been evaluated, and on the basis of all the studies carried out the side effects of the medicine are considered to be comparable to those of the reference medicine NovoMix 30.
-
-The most common side effects with Truvelog Mix 30 (which may affect more than 1 in 10 people) is hypoglycaemia (low blood glucose levels) and the medicine must not be given to people whose blood glucose level is already low.
-
-For the full list of side effects and restrictions with Truvelog Mix 30, see the package leaflet.
-
-## Why is Truvelog Mix 30 authorised in the EU?
-
-The European Medicines Agency decided that, in accordance with EU requirements for biosimilar medicines, Truvelog Mix 30 has a highly similar structure, purity and biological activity to NovoMix 30 and is distributed in the body in the same way.
-
-All these data were considered sufficient to conclude that Truvelog Mix 30 will behave in the same way as NovoMix 30 in terms of effectiveness and safety in its authorised uses. Therefore, the Agency's view was that, as for NovoMix 30, the benefits of Truvelog Mix 30 outweigh the identified risks and it can be authorised for use in the EU.
-
-## What measures are being taken to ensure the safe and effective use of Truvelog Mix 30?
-
-Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Truvelog Mix 30 have been included in the summary of product characteristics and the package leaflet.
-
-As for all medicines, data on the use of Truvelog Mix 30 are continuously monitored. Suspected side effects reported with Truvelog Mix 30 are carefully evaluated and any necessary action taken to protect patients.
-
-## Other information about Truvelog Mix 30
-
-Further information on Truvelog Mix 30 can be found on the Agency's website: [ema.europa.eu/medicines/human/EPAR/truvelog-mix-30](/en/medicines/human/EPAR/truvelog-mix-30) .
-
-This overview was last updated in 03-2022.
+The European Public Assessment Report (EPAR) for Truvelog Mix 30 will be updated to indicate that the marketing authorisation is no longer valid.
 
 Truvelog Mix 30 : EPAR - Summary for the public
 
 Reference Number: EMA/125308/2022
 
-English (EN) (120.25 KB - PDF)
+English (EN) (123.9 KB - PDF)
 
-**First published:** 15/06/2022
+**First published:** 15/06/2022 **Last updated:** 07/05/2026
 
 [View](/en/documents/overview/truvelog-mix-30-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-708)
+[Other languages (22)](#file-language-dropdown-332)
 
-български (BG) (146.87 KB - PDF)
+български (BG) (155.11 KB - PDF)
 
-**First published:**
-
-15/06/2022
+**First published:** 15/06/2022 **Last updated:** 07/05/2026
 
 [View](/bg/documents/overview/truvelog-mix-30-epar-summary-public_bg.pdf)
 
-español (ES) (121.76 KB - PDF)
+español (ES) (126.74 KB - PDF)
 
-**First published:**
-
-15/06/2022
+**First published:** 15/06/2022 **Last updated:** 07/05/2026
 
 [View](/es/documents/overview/truvelog-mix-30-epar-summary-public_es.pdf)
 
-čeština (CS) (144.88 KB - PDF)
+čeština (CS) (150.08 KB - PDF)
 
-**First published:**
-
-15/06/2022
+**First published:** 15/06/2022 **Last updated:** 07/05/2026
 
 [View](/cs/documents/overview/truvelog-mix-30-epar-summary-public_cs.pdf)
 
-dansk (DA) (119.69 KB - PDF)
+dansk (DA) (124.6 KB - PDF)
 
-**First published:**
-
-15/06/2022
+**First published:** 15/06/2022 **Last updated:** 07/05/2026
 
 [View](/da/documents/overview/truvelog-mix-30-epar-summary-public_da.pdf)
 
-Deutsch (DE) (124.7 KB - PDF)
+Deutsch (DE) (129.24 KB - PDF)
 
-**First published:**
-
-15/06/2022
+**First published:** 15/06/2022 **Last updated:** 07/05/2026
 
 [View](/de/documents/overview/truvelog-mix-30-epar-summary-public_de.pdf)
 
-eesti keel (ET) (109.15 KB - PDF)
+eesti keel (ET) (113.25 KB - PDF)
 
-**First published:**
-
-15/06/2022
+**First published:** 15/06/2022 **Last updated:** 07/05/2026
 
 [View](/et/documents/overview/truvelog-mix-30-epar-summary-public_et.pdf)
 
-ελληνικά (EL) (144.21 KB - PDF)
+ελληνικά (EL) (151.96 KB - PDF)
 
-**First published:**
-
-15/06/2022
+**First published:** 15/06/2022 **Last updated:** 07/05/2026
 
 [View](/el/documents/overview/truvelog-mix-30-epar-summary-public_el.pdf)
 
-français (FR) (122.59 KB - PDF)
+français (FR) (127.1 KB - PDF)
 
-**First published:**
-
-15/06/2022
+**First published:** 15/06/2022 **Last updated:** 07/05/2026
 
 [View](/fr/documents/overview/truvelog-mix-30-epar-summary-public_fr.pdf)
 
-hrvatski (HR) (142.36 KB - PDF)
+hrvatski (HR) (147.2 KB - PDF)
 
-**First published:**
-
-15/06/2022
+**First published:** 15/06/2022 **Last updated:** 07/05/2026
 
 [View](/hr/documents/overview/truvelog-mix-30-epar-summary-public_hr.pdf)
 
-italiano (IT) (120.33 KB - PDF)
+italiano (IT) (125.18 KB - PDF)
 
-**First published:**
-
-15/06/2022
+**First published:** 15/06/2022 **Last updated:** 07/05/2026
 
 [View](/it/documents/overview/truvelog-mix-30-epar-summary-public_it.pdf)
 
-latviešu valoda (LV) (158.77 KB - PDF)
+latviešu valoda (LV) (164.64 KB - PDF)
 
-**First published:**
-
-15/06/2022
+**First published:** 15/06/2022 **Last updated:** 07/05/2026
 
 [View](/lv/documents/overview/truvelog-mix-30-epar-summary-public_lv.pdf)
 
-lietuvių kalba (LT) (143.92 KB - PDF)
+lietuvių kalba (LT) (148.79 KB - PDF)
 
-**First published:**
-
-15/06/2022
+**First published:** 15/06/2022 **Last updated:** 07/05/2026
 
 [View](/lt/documents/overview/truvelog-mix-30-epar-summary-public_lt.pdf)
 
-magyar (HU) (139.9 KB - PDF)
+magyar (HU) (145.8 KB - PDF)
 
-**First published:**
-
-15/06/2022
+**First published:** 15/06/2022 **Last updated:** 07/05/2026
 
 [View](/hu/documents/overview/truvelog-mix-30-epar-summary-public_hu.pdf)
 
-Malti (MT) (144.72 KB - PDF)
+Malti (MT) (149.67 KB - PDF)
 
-**First published:**
-
-15/06/2022
+**First published:** 15/06/2022 **Last updated:** 07/05/2026
 
 [View](/mt/documents/overview/truvelog-mix-30-epar-summary-public_mt.pdf)
 
-Nederlands (NL) (122.21 KB - PDF)
+Nederlands (NL) (126.76 KB - PDF)
 
-**First published:**
-
-15/06/2022
+**First published:** 15/06/2022 **Last updated:** 07/05/2026
 
 [View](/nl/documents/overview/truvelog-mix-30-epar-summary-public_nl.pdf)
 
-polski (PL) (146.87 KB - PDF)
+polski (PL) (152.46 KB - PDF)
 
-**First published:**
-
-15/06/2022
+**First published:** 15/06/2022 **Last updated:** 07/05/2026
 
 [View](/pl/documents/overview/truvelog-mix-30-epar-summary-public_pl.pdf)
 
-português (PT) (122.4 KB - PDF)
+português (PT) (127.6 KB - PDF)
 
-**First published:**
-
-15/06/2022
+**First published:** 15/06/2022 **Last updated:** 07/05/2026
 
 [View](/pt/documents/overview/truvelog-mix-30-epar-summary-public_pt.pdf)
 
-română (RO) (141.77 KB - PDF)
+română (RO) (147.15 KB - PDF)
 
-**First published:**
-
-15/06/2022
+**First published:** 15/06/2022 **Last updated:** 07/05/2026
 
 [View](/ro/documents/overview/truvelog-mix-30-epar-summary-public_ro.pdf)
 
-slovenčina (SK) (143.2 KB - PDF)
+slovenčina (SK) (149.06 KB - PDF)
 
-**First published:**
-
-15/06/2022
+**First published:** 15/06/2022 **Last updated:** 07/05/2026
 
 [View](/sk/documents/overview/truvelog-mix-30-epar-summary-public_sk.pdf)
 
-slovenščina (SL) (141.65 KB - PDF)
+slovenščina (SL) (146.57 KB - PDF)
 
-**First published:**
-
-15/06/2022
+**First published:** 15/06/2022 **Last updated:** 07/05/2026
 
 [View](/sl/documents/overview/truvelog-mix-30-epar-summary-public_sl.pdf)
 
-Suomi (FI) (119.65 KB - PDF)
+Suomi (FI) (124.43 KB - PDF)
 
-**First published:**
-
-15/06/2022
+**First published:** 15/06/2022 **Last updated:** 07/05/2026
 
 [View](/fi/documents/overview/truvelog-mix-30-epar-summary-public_fi.pdf)
 
-svenska (SV) (119.5 KB - PDF)
+svenska (SV) (124.41 KB - PDF)
 
-**First published:**
-
-15/06/2022
+**First published:** 15/06/2022 **Last updated:** 07/05/2026
 
 [View](/sv/documents/overview/truvelog-mix-30-epar-summary-public_sv.pdf)
 
 Truvelog Mix 30 : EPAR - Risk-management-plan summary
 
-English (EN) (31.31 KB - PDF)
+English (EN) (50.78 KB - PDF)
 
-**First published:** 15/06/2022
+**First published:** 15/06/2022 **Last updated:** 07/05/2026
 
 [View](/en/documents/rmp-summary/truvelog-mix-30-epar-risk-management-plan-summary_en.pdf)
 
@@ -304,305 +284,161 @@ English (EN) (31.31 KB - PDF)
 
 Truvelog Mix 30 : EPAR - Product Information
 
-English (EN) (1.1 MB - PDF)
+English (EN) (1.13 MB - PDF)
 
-**First published:** 15/06/2022
-
-**Last updated:** 06/07/2023
+**First published:** 15/06/2022 **Last updated:** 07/05/2026
 
 [View](/en/documents/product-information/truvelog-mix-30-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-296)
+[Other languages (24)](#file-language-dropdown-133)
 
-български (BG) (1.1 MB - PDF)
+български (BG) (1.12 MB - PDF)
 
-**First published:**
-
-15/06/2022
-
-**Last updated:**
-
-06/07/2023
+**First published:** 15/06/2022 **Last updated:** 07/05/2026
 
 [View](/bg/documents/product-information/truvelog-mix-30-epar-product-information_bg.pdf)
 
-español (ES) (1.1 MB - PDF)
+español (ES) (1.13 MB - PDF)
 
-**First published:**
-
-15/06/2022
-
-**Last updated:**
-
-06/07/2023
+**First published:** 15/06/2022 **Last updated:** 07/05/2026
 
 [View](/es/documents/product-information/truvelog-mix-30-epar-product-information_es.pdf)
 
-čeština (CS) (1.03 MB - PDF)
+čeština (CS) (1.05 MB - PDF)
 
-**First published:**
-
-15/06/2022
-
-**Last updated:**
-
-06/07/2023
+**First published:** 15/06/2022 **Last updated:** 07/05/2026
 
 [View](/cs/documents/product-information/truvelog-mix-30-epar-product-information_cs.pdf)
 
-dansk (DA) (1.01 MB - PDF)
+dansk (DA) (1.03 MB - PDF)
 
-**First published:**
-
-15/06/2022
-
-**Last updated:**
-
-06/07/2023
+**First published:** 15/06/2022 **Last updated:** 07/05/2026
 
 [View](/da/documents/product-information/truvelog-mix-30-epar-product-information_da.pdf)
 
-Deutsch (DE) (1.33 MB - PDF)
+Deutsch (DE) (1.36 MB - PDF)
 
-**First published:**
-
-15/06/2022
-
-**Last updated:**
-
-06/07/2023
+**First published:** 15/06/2022 **Last updated:** 07/05/2026
 
 [View](/de/documents/product-information/truvelog-mix-30-epar-product-information_de.pdf)
 
-eesti keel (ET) (1.03 MB - PDF)
+eesti keel (ET) (1.06 MB - PDF)
 
-**First published:**
-
-15/06/2022
-
-**Last updated:**
-
-06/07/2023
+**First published:** 15/06/2022 **Last updated:** 07/05/2026
 
 [View](/et/documents/product-information/truvelog-mix-30-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.11 MB - PDF)
+ελληνικά (EL) (1.15 MB - PDF)
 
-**First published:**
-
-15/06/2022
-
-**Last updated:**
-
-06/07/2023
+**First published:** 15/06/2022 **Last updated:** 07/05/2026
 
 [View](/el/documents/product-information/truvelog-mix-30-epar-product-information_el.pdf)
 
-français (FR) (1.05 MB - PDF)
+français (FR) (1.08 MB - PDF)
 
-**First published:**
-
-15/06/2022
-
-**Last updated:**
-
-06/07/2023
+**First published:** 15/06/2022 **Last updated:** 07/05/2026
 
 [View](/fr/documents/product-information/truvelog-mix-30-epar-product-information_fr.pdf)
 
-hrvatski (HR) (1.07 MB - PDF)
+hrvatski (HR) (1.1 MB - PDF)
 
-**First published:**
-
-15/06/2022
-
-**Last updated:**
-
-06/07/2023
+**First published:** 15/06/2022 **Last updated:** 07/05/2026
 
 [View](/hr/documents/product-information/truvelog-mix-30-epar-product-information_hr.pdf)
 
-íslenska (IS) (1.03 MB - PDF)
+íslenska (IS) (1.05 MB - PDF)
 
-**First published:**
-
-15/06/2022
-
-**Last updated:**
-
-06/07/2023
+**First published:** 15/06/2022 **Last updated:** 07/05/2026
 
 [View](/is/documents/product-information/truvelog-mix-30-epar-product-information_is.pdf)
 
-italiano (IT) (1.05 MB - PDF)
+italiano (IT) (1.08 MB - PDF)
 
-**First published:**
-
-15/06/2022
-
-**Last updated:**
-
-06/07/2023
+**First published:** 15/06/2022 **Last updated:** 07/05/2026
 
 [View](/it/documents/product-information/truvelog-mix-30-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (1.02 MB - PDF)
+latviešu valoda (LV) (1.05 MB - PDF)
 
-**First published:**
-
-15/06/2022
-
-**Last updated:**
-
-06/07/2023
+**First published:** 15/06/2022 **Last updated:** 07/05/2026
 
 [View](/lv/documents/product-information/truvelog-mix-30-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (1.07 MB - PDF)
+lietuvių kalba (LT) (1.08 MB - PDF)
 
-**First published:**
-
-15/06/2022
-
-**Last updated:**
-
-06/07/2023
+**First published:** 15/06/2022 **Last updated:** 07/05/2026
 
 [View](/lt/documents/product-information/truvelog-mix-30-epar-product-information_lt.pdf)
 
-magyar (HU) (1.11 MB - PDF)
+magyar (HU) (1.14 MB - PDF)
 
-**First published:**
-
-15/06/2022
-
-**Last updated:**
-
-06/07/2023
+**First published:** 15/06/2022 **Last updated:** 07/05/2026
 
 [View](/hu/documents/product-information/truvelog-mix-30-epar-product-information_hu.pdf)
 
-Malti (MT) (1.22 MB - PDF)
+Malti (MT) (1.24 MB - PDF)
 
-**First published:**
-
-15/06/2022
-
-**Last updated:**
-
-06/07/2023
+**First published:** 15/06/2022 **Last updated:** 07/05/2026
 
 [View](/mt/documents/product-information/truvelog-mix-30-epar-product-information_mt.pdf)
 
-Nederlands (NL) (1.17 MB - PDF)
+Nederlands (NL) (1.19 MB - PDF)
 
-**First published:**
-
-15/06/2022
-
-**Last updated:**
-
-06/07/2023
+**First published:** 15/06/2022 **Last updated:** 07/05/2026
 
 [View](/nl/documents/product-information/truvelog-mix-30-epar-product-information_nl.pdf)
 
-norsk (NO) (1.05 MB - PDF)
+norsk (NO) (1.08 MB - PDF)
 
-**First published:**
-
-15/06/2022
-
-**Last updated:**
-
-06/07/2023
+**First published:** 15/06/2022 **Last updated:** 07/05/2026
 
 [View](/no/documents/product-information/truvelog-mix-30-epar-product-information_no.pdf)
 
-polski (PL) (1.14 MB - PDF)
+polski (PL) (1.17 MB - PDF)
 
-**First published:**
-
-15/06/2022
-
-**Last updated:**
-
-06/07/2023
+**First published:** 15/06/2022 **Last updated:** 07/05/2026
 
 [View](/pl/documents/product-information/truvelog-mix-30-epar-product-information_pl.pdf)
 
-português (PT) (1.03 MB - PDF)
+português (PT) (1.05 MB - PDF)
 
-**First published:**
-
-15/06/2022
-
-**Last updated:**
-
-06/07/2023
+**First published:** 15/06/2022 **Last updated:** 07/05/2026
 
 [View](/pt/documents/product-information/truvelog-mix-30-epar-product-information_pt.pdf)
 
-română (RO) (1.13 MB - PDF)
+română (RO) (1.16 MB - PDF)
 
-**First published:**
-
-15/06/2022
-
-**Last updated:**
-
-06/07/2023
+**First published:** 15/06/2022 **Last updated:** 07/05/2026
 
 [View](/ro/documents/product-information/truvelog-mix-30-epar-product-information_ro.pdf)
 
-slovenčina (SK) (1.1 MB - PDF)
+slovenčina (SK) (1.12 MB - PDF)
 
-**First published:**
-
-15/06/2022
-
-**Last updated:**
-
-06/07/2023
+**First published:** 15/06/2022 **Last updated:** 07/05/2026
 
 [View](/sk/documents/product-information/truvelog-mix-30-epar-product-information_sk.pdf)
 
-slovenščina (SL) (1.23 MB - PDF)
+slovenščina (SL) (1.25 MB - PDF)
 
-**First published:**
-
-15/06/2022
-
-**Last updated:**
-
-06/07/2023
+**First published:** 15/06/2022 **Last updated:** 07/05/2026
 
 [View](/sl/documents/product-information/truvelog-mix-30-epar-product-information_sl.pdf)
 
-Suomi (FI) (1.04 MB - PDF)
+Suomi (FI) (1.07 MB - PDF)
 
-**First published:**
-
-15/06/2022
-
-**Last updated:**
-
-06/07/2023
+**First published:** 15/06/2022 **Last updated:** 07/05/2026
 
 [View](/fi/documents/product-information/truvelog-mix-30-epar-product-information_fi.pdf)
 
-svenska (SV) (1.02 MB - PDF)
+svenska (SV) (1.05 MB - PDF)
 
-**First published:**
-
-15/06/2022
-
-**Last updated:**
-
-06/07/2023
+**First published:** 15/06/2022 **Last updated:** 07/05/2026
 
 [View](/sv/documents/product-information/truvelog-mix-30-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** N/0004 06/07/2023
+**Latest procedure affecting product information:** N/0004
+
+06/07/2023
 
 icon globe
 
@@ -620,209 +456,179 @@ Product information documents contain:
 
 Truvelog Mix 30 : EPAR - All Authorised presentations
 
-English (EN) (48.58 KB - PDF)
+English (EN) (57.81 KB - PDF)
 
-**First published:** 15/06/2022
+**First published:** 15/06/2022 **Last updated:** 07/05/2026
 
 [View](/en/documents/all-authorised-presentations/truvelog-mix-30-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-854)
+[Other languages (24)](#file-language-dropdown-338)
 
-български (BG) (64.89 KB - PDF)
+български (BG) (73.63 KB - PDF)
 
-**First published:**
-
-15/06/2022
+**First published:** 15/06/2022 **Last updated:** 07/05/2026
 
 [View](/bg/documents/all-authorised-presentations/truvelog-mix-30-epar-all-authorised-presentations_bg.pdf)
 
-español (ES) (48.92 KB - PDF)
+español (ES) (58.58 KB - PDF)
 
-**First published:**
-
-15/06/2022
+**First published:** 15/06/2022 **Last updated:** 07/05/2026
 
 [View](/es/documents/all-authorised-presentations/truvelog-mix-30-epar-all-authorised-presentations_es.pdf)
 
-čeština (CS) (48.26 KB - PDF)
+čeština (CS) (66.93 KB - PDF)
 
-**First published:**
-
-15/06/2022
+**First published:** 15/06/2022 **Last updated:** 07/05/2026
 
 [View](/cs/documents/all-authorised-presentations/truvelog-mix-30-epar-all-authorised-presentations_cs.pdf)
 
-dansk (DA) (31.75 KB - PDF)
+dansk (DA) (31.24 KB - PDF)
 
-**First published:**
-
-15/06/2022
+**First published:** 15/06/2022 **Last updated:** 07/05/2026
 
 [View](/da/documents/all-authorised-presentations/truvelog-mix-30-epar-all-authorised-presentations_da.pdf)
 
-Deutsch (DE) (48.15 KB - PDF)
+Deutsch (DE) (58.95 KB - PDF)
 
-**First published:**
-
-15/06/2022
+**First published:** 15/06/2022 **Last updated:** 07/05/2026
 
 [View](/de/documents/all-authorised-presentations/truvelog-mix-30-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (48.81 KB - PDF)
+eesti keel (ET) (57.42 KB - PDF)
 
-**First published:**
-
-15/06/2022
+**First published:** 15/06/2022 **Last updated:** 07/05/2026
 
 [View](/et/documents/all-authorised-presentations/truvelog-mix-30-epar-all-authorised-presentations_et.pdf)
 
-ελληνικά (EL) (40.03 KB - PDF)
+ελληνικά (EL) (59.46 KB - PDF)
 
-**First published:**
-
-15/06/2022
+**First published:** 15/06/2022 **Last updated:** 07/05/2026
 
 [View](/el/documents/all-authorised-presentations/truvelog-mix-30-epar-all-authorised-presentations_el.pdf)
 
-français (FR) (47.12 KB - PDF)
+français (FR) (61.61 KB - PDF)
 
-**First published:**
-
-15/06/2022
+**First published:** 15/06/2022 **Last updated:** 07/05/2026
 
 [View](/fr/documents/all-authorised-presentations/truvelog-mix-30-epar-all-authorised-presentations_fr.pdf)
 
-hrvatski (HR) (76.17 KB - PDF)
+hrvatski (HR) (80.93 KB - PDF)
 
-**First published:**
-
-15/06/2022
+**First published:** 15/06/2022 **Last updated:** 07/05/2026
 
 [View](/hr/documents/all-authorised-presentations/truvelog-mix-30-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (52.76 KB - PDF)
+íslenska (IS) (63.09 KB - PDF)
 
-**First published:**
-
-15/06/2022
+**First published:** 15/06/2022 **Last updated:** 07/05/2026
 
 [View](/is/documents/all-authorised-presentations/truvelog-mix-30-epar-all-authorised-presentations_is.pdf)
 
-italiano (IT) (58.77 KB - PDF)
+italiano (IT) (57.8 KB - PDF)
 
-**First published:**
-
-15/06/2022
+**First published:** 15/06/2022 **Last updated:** 07/05/2026
 
 [View](/it/documents/all-authorised-presentations/truvelog-mix-30-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (101.57 KB - PDF)
+latviešu valoda (LV) (99.23 KB - PDF)
 
-**First published:**
-
-15/06/2022
+**First published:** 15/06/2022 **Last updated:** 07/05/2026
 
 [View](/lv/documents/all-authorised-presentations/truvelog-mix-30-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (71.37 KB - PDF)
+lietuvių kalba (LT) (79.44 KB - PDF)
 
-**First published:**
-
-15/06/2022
+**First published:** 15/06/2022 **Last updated:** 07/05/2026
 
 [View](/lt/documents/all-authorised-presentations/truvelog-mix-30-epar-all-authorised-presentations_lt.pdf)
 
-magyar (HU) (34.09 KB - PDF)
+magyar (HU) (51.52 KB - PDF)
 
-**First published:**
-
-15/06/2022
+**First published:** 15/06/2022 **Last updated:** 07/05/2026
 
 [View](/hu/documents/all-authorised-presentations/truvelog-mix-30-epar-all-authorised-presentations_hu.pdf)
 
-Malti (MT) (51.48 KB - PDF)
+Malti (MT) (66.94 KB - PDF)
 
-**First published:**
-
-15/06/2022
+**First published:** 15/06/2022 **Last updated:** 07/05/2026
 
 [View](/mt/documents/all-authorised-presentations/truvelog-mix-30-epar-all-authorised-presentations_mt.pdf)
 
-Nederlands (NL) (45.05 KB - PDF)
+Nederlands (NL) (57.84 KB - PDF)
 
-**First published:**
-
-15/06/2022
+**First published:** 15/06/2022 **Last updated:** 07/05/2026
 
 [View](/nl/documents/all-authorised-presentations/truvelog-mix-30-epar-all-authorised-presentations_nl.pdf)
 
-norsk (NO) (26.74 KB - PDF)
+norsk (NO) (29.59 KB - PDF)
 
-**First published:**
-
-15/06/2022
+**First published:** 15/06/2022 **Last updated:** 07/05/2026
 
 [View](/no/documents/all-authorised-presentations/truvelog-mix-30-epar-all-authorised-presentations_no.pdf)
 
-polski (PL) (80 KB - PDF)
+polski (PL) (80.65 KB - PDF)
 
-**First published:**
-
-15/06/2022
+**First published:** 15/06/2022 **Last updated:** 07/05/2026
 
 [View](/pl/documents/all-authorised-presentations/truvelog-mix-30-epar-all-authorised-presentations_pl.pdf)
 
-português (PT) (45.62 KB - PDF)
+português (PT) (61.54 KB - PDF)
 
-**First published:**
-
-15/06/2022
+**First published:** 15/06/2022 **Last updated:** 07/05/2026
 
 [View](/pt/documents/all-authorised-presentations/truvelog-mix-30-epar-all-authorised-presentations_pt.pdf)
 
-română (RO) (53.23 KB - PDF)
+română (RO) (64.1 KB - PDF)
 
-**First published:**
-
-15/06/2022
+**First published:** 15/06/2022 **Last updated:** 07/05/2026
 
 [View](/ro/documents/all-authorised-presentations/truvelog-mix-30-epar-all-authorised-presentations_ro.pdf)
 
-slovenčina (SK) (67.98 KB - PDF)
+slovenčina (SK) (77.06 KB - PDF)
 
-**First published:**
-
-15/06/2022
+**First published:** 15/06/2022 **Last updated:** 07/05/2026
 
 [View](/sk/documents/all-authorised-presentations/truvelog-mix-30-epar-all-authorised-presentations_sk.pdf)
 
-slovenščina (SL) (63.54 KB - PDF)
+slovenščina (SL) (78.93 KB - PDF)
 
-**First published:**
-
-15/06/2022
+**First published:** 15/06/2022 **Last updated:** 07/05/2026
 
 [View](/sl/documents/all-authorised-presentations/truvelog-mix-30-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (54.72 KB - PDF)
+Suomi (FI) (58.9 KB - PDF)
 
-**First published:**
-
-15/06/2022
+**First published:** 15/06/2022 **Last updated:** 07/05/2026
 
 [View](/fi/documents/all-authorised-presentations/truvelog-mix-30-epar-all-authorised-presentations_fi.pdf)
 
-svenska (SV) (75.43 KB - PDF)
+svenska (SV) (78.59 KB - PDF)
 
-**First published:**
-
-15/06/2022
+**First published:** 15/06/2022 **Last updated:** 07/05/2026
 
 [View](/sv/documents/all-authorised-presentations/truvelog-mix-30-epar-all-authorised-presentations_sv.pdf)
 
 ## Product details
 
-Name of medicine Truvelog Mix 30 Active substance insulin aspart International non-proprietary name (INN) or common name insulin aspart Therapeutic area (MeSH) Diabetes Mellitus Anatomical therapeutic chemical (ATC) code A10AD05
+Name of medicine
+
+Truvelog Mix 30
+
+Active substance
+
+insulin aspart
+
+International non-proprietary name (INN) or common name
+
+insulin aspart
+
+Therapeutic area (MeSH)
+
+Diabetes Mellitus
+
+Anatomical therapeutic chemical (ATC) code
+
+A10AD05
 
 ### Pharmacotherapeutic group
 
@@ -834,11 +640,9 @@ Truvelog Mix 30 is indicated for treatment of diabetes mellitus in adults, adole
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/005635
+EMA product number
 
-Additional monitoring
-
-This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
+EMEA/H/C/005635
 
 Biosimilar
 
@@ -850,7 +654,21 @@ Sanofi Winthrop Industrie
 
 82 Avenue Raspail
 
-Opinion adopted 24/02/2022 Marketing authorisation issued 25/04/2022 Revision 2
+Opinion adopted
+
+24/02/2022
+
+Marketing authorisation issued
+
+25/04/2022
+
+Withdrawal of marketing authorisation
+
+25/01/2024
+
+Revision
+
+3
 
 ## Assessment history
 
@@ -862,50 +680,46 @@ Collapse section
 
 Truvelog Mix 30 : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (270.12 KB - PDF)
+English (EN) (290.22 KB - PDF)
 
-**First published:** 23/03/2023
+**First published:** 23/03/2023 **Last updated:** 07/05/2026
 
-**Last updated:** 06/07/2023
-
-[View](/en/documents/procedural-steps-after/truvelog-mix-30-epar-procedural-steps-taken-and-scientific-information-after-authorisation_en.pdf)
+[View](/en/documents/procedural-steps-after/truvelog-mix-30-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
 ## Initial marketing authorisation documents
 
 Truvelog Mix 30 : EPAR - Public assessment report
 
-Adopted
+Adopted Reference Number: EMA/165165/2022
 
-Reference Number: EMA/165165/2022
+English (EN) (2.53 MB - PDF)
 
-English (EN) (2.41 MB - PDF)
-
-**First published:** 15/06/2022
+**First published:** 15/06/2022 **Last updated:** 07/05/2026
 
 [View](/en/documents/assessment-report/truvelog-mix-30-epar-public-assessment-report_en.pdf)
 
 CHMP summary of positive opinion for Truvelog Mix 30
 
-Adopted
+Adopted Reference Number: EMA/CHMP/83437/2022
 
-Reference Number: EMA/CHMP/83437/2022
+English (EN) (144.97 KB - PDF)
 
-English (EN) (119.3 KB - PDF)
-
-**First published:** 25/02/2022
+**First published:** 25/02/2022 **Last updated:** 07/05/2026
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-truvelog-mix-30_en.pdf)
 
-#### News on Truvelog Mix 30
+## News on Truvelog Mix 30
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 21-24 February 2022](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-21-24-february-2022) 25/02/2022
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 21-24 February 2022](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-21-24-february-2022)
 
-#### Related content
+25/02/2022
+
+## Related content
 
 - [Biosimilar medicines: Overview](/en/human-regulatory-overview/biosimilar-medicines-overview)
 
-**This page was last updated on** 06/07/2023
+**This page was last updated on**
+
+07/05/2026
 
 ## Share this page
-
-[Back to top](#main-content)

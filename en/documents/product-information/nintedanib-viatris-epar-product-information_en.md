@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-09-05 08:55:48
-document_pages: 53
+document_datetime: 2026-05-08 09:22:47
+document_pages: 54
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/nintedanib-viatris-epar-product-information_en.pdf
 document_name: nintedanib-viatris-epar-product-information_en.pdf
 version: success
-processing_time: 19.7629225
-conversion_datetime: 2025-12-25 03:30:24.217544
+processing_time: 23.1942038
+conversion_datetime: 2026-05-10 12:57:47.056011
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.17.0
+  docling-jobkit: 1.18.0
+  docling: 2.92.0
+  docling-core: 2.74.1
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.10.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -83,8 +83,8 @@ Paediatric patients: Treatment should be initiated only after involvement of a m
 ## Adults
 
 - Idiopathic pulmonary fibrosis (IPF)
-- Other chronic fibrosing interstitial lung diseases (ILDs) with a progressive phenotype
 - Systemic sclerosis associated interstitial lung disease (SSc-ILD)
+- Other chronic fibrosing interstitial lung diseases (ILDs) with a progressive phenotype
 
 The recommended dose is 150 mg nintedanib twice daily administered approximately 12 hours apart. The 100 mg twice daily dose is only recommended to be used in patients who do not tolerate the 150 mg twice daily dose.
 
@@ -115,16 +115,14 @@ The recommended dose of nintedanib for paediatric patients aged 6 to 17 years of
 
 Table 1: Nintedanib dose and reduced dose recommendation in milligrams (mg) by body weight in kilograms (kg) for paediatric patients aged 6 years to 17 years old
 
-| Weight range      | Weight range                                                                                                                                                                                                                                               | Nintedanib dose                                                                                                                                                                                                                                            | Nintedanib reduced dose *                                                                                                                                                                                                                                  |
-|-------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 13.5 ** - 22.9 kg | 13.5 ** - 22.9 kg                                                                                                                                                                                                                                          | 50 mg (two 25 mg # capsules) twice daily                                                                                                                                                                                                                   | 25 mg # (one 25 mg # capsule) twice daily                                                                                                                                                                                                                  |
-| 23.0 - 33.4 kg    | 23.0 - 33.4 kg                                                                                                                                                                                                                                             | 75 mg (three 25 mg # capsules) twice daily                                                                                                                                                                                                                 | 50 mg (two 25 mg # capsules) twice daily                                                                                                                                                                                                                   |
-| 33.5 - 57.4 kg    | 33.5 - 57.4 kg                                                                                                                                                                                                                                             | 100 mg (one 100 mg capsule or four 25 mg # capsules) twice daily                                                                                                                                                                                           | 75 mg (three 25 mg # capsules) twice daily                                                                                                                                                                                                                 |
-| 57.5 kg and above | 57.5 kg and above                                                                                                                                                                                                                                          | 150 mg (one 150 mg capsule or six 25 mg # capsules) twice daily                                                                                                                                                                                            | 100 mg (one 100 mg capsule or four 25 mg # capsules) twice daily                                                                                                                                                                                           |
-| *                 | Reduced dose is recommended in children and adolescents with mild hepatic impairment (Child Pugh A) and for the management of adverse reactions in the paediatric population. For more information on the management of adverse drug reactions, see above. | Reduced dose is recommended in children and adolescents with mild hepatic impairment (Child Pugh A) and for the management of adverse reactions in the paediatric population. For more information on the management of adverse drug reactions, see above. | Reduced dose is recommended in children and adolescents with mild hepatic impairment (Child Pugh A) and for the management of adverse reactions in the paediatric population. For more information on the management of adverse drug reactions, see above. |
-| **                | Weight below 13.5 kg : Treatment should be interrupted in case the patient experiences a weight decrease below 13.5 kg                                                                                                                                     | Weight below 13.5 kg : Treatment should be interrupted in case the patient experiences a weight decrease below 13.5 kg                                                                                                                                     | Weight below 13.5 kg : Treatment should be interrupted in case the patient experiences a weight decrease below 13.5 kg                                                                                                                                     |
-
-# Nintedanib Viatris is only available as 100 mg and 150 mg soft capsules. Thus, it is not possible to administer Nintedanib Viatris to paediatric patients that require less than a full 100 mg dose. If an alternative dose is required, other nintedanib products offering such an option should be used.
+| Weight range                                                                                                                                                                                                                                                 | Nintedanib dose                                                                                                                                                                                                                                              | Nintedanib reduced dose *                                                                                                                                                                                                                                    |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 13.5 ** - 22.9 kg                                                                                                                                                                                                                                            | 50 mg (two 25 mg # capsules) twice daily                                                                                                                                                                                                                     | 25 mg # (one 25 mg # capsule) twice daily                                                                                                                                                                                                                    |
+| 23.0 - 33.4 kg                                                                                                                                                                                                                                               | 75 mg (three 25 mg # capsules) twice daily                                                                                                                                                                                                                   | 50 mg (two 25 mg # capsules) twice daily                                                                                                                                                                                                                     |
+| 33.5 - 57.4 kg                                                                                                                                                                                                                                               | 100 mg (one 100 mg capsule or four 25 mg # capsules) twice daily                                                                                                                                                                                             | 75 mg (three 25 mg # capsules) twice daily                                                                                                                                                                                                                   |
+| 57.5 kg and above                                                                                                                                                                                                                                            | 150 mg (one 150 mg capsule or six 25 mg # capsules) twice daily                                                                                                                                                                                              | 100 mg (one 100 mg capsule or four 25 mg # capsules) twice daily                                                                                                                                                                                             |
+| * Reduced dose is recommended in children and adolescents with mild hepatic impairment (Child Pugh A) and for the management of adverse reactions in the paediatric population. For more information on the management of adverse drug reactions, see above. | * Reduced dose is recommended in children and adolescents with mild hepatic impairment (Child Pugh A) and for the management of adverse reactions in the paediatric population. For more information on the management of adverse drug reactions, see above. | * Reduced dose is recommended in children and adolescents with mild hepatic impairment (Child Pugh A) and for the management of adverse reactions in the paediatric population. For more information on the management of adverse drug reactions, see above. |
+| ** Weight below 13.5 kg : Treatment should be interrupted in case the patient experiences a weight decrease below 13.5 kg                                                                                                                                    | ** Weight below 13.5 kg : Treatment should be interrupted in case the patient experiences a weight decrease below 13.5 kg                                                                                                                                    | ** Weight below 13.5 kg : Treatment should be interrupted in case the patient experiences a weight decrease below 13.5 kg                                                                                                                                    |
 
 ## Special populations
 
@@ -233,11 +231,9 @@ Administration of nintedanib may increase blood pressure. Systemic blood pressur
 
 ## Pulmonary hypertension
 
-Data on the use of nintedanib in patients with pulmonary hypertension is limited. Patients with significant pulmonary hypertension (cardiac index ≤ 2 L/min/m², or parenteral
+Data on the use of nintedanib in patients with pulmonary hypertension is limited. Patients with significant pulmonary hypertension (cardiac index ≤ 2 L/min/m², or parenteral epoprostenol/treprostinil, or significant right heart failure) were excluded from the INBUILD and SENSCIS trials.
 
 <div style=\"page-break-after: always\"></div>
-
-epoprostenol/treprostinil, or significant right heart failure) were excluded from the INBUILD and SENSCIS trials.
 
 Nintedanib should not be used in patients with severe pulmonary hypertension. Close monitoring is recommended in patients with mild to moderate pulmonary hypertension.
 
@@ -271,11 +267,11 @@ Particularities for the paediatric population are detailed below:
 
 ## Bone development and growth
 
-Reversible epiphyseal growth plate alterations were observed in preclinical studies (see section 5.3). In the paediatric clinical trial, significant reductions in growth rate were not observed while receiving nintedanib. However, long term safety data in paediatric patients are not available. Growth must be regularly monitored, and evaluation of epiphyseal growth plate alteration via annual bone imaging is recommended in patients with open epiphyses. Treatment interruption should be
+Reversible epiphyseal growth plate alterations were observed in preclinical studies (see section 5.3). In the paediatric clinical trial, significant reductions in growth rate were not observed while receiving nintedanib. However, long term safety data in paediatric patients are not available.
+
+Growth must be regularly monitored, and evaluation of epiphyseal growth plate alteration via annual bone imaging is recommended in patients with open epiphyses. Treatment interruption should be considered in patients who develop signs of growth impairment or epiphyseal growth plates alterations.
 
 <div style=\"page-break-after: always\"></div>
-
-considered in patients who develop signs of growth impairment or epiphyseal growth plates alterations.
 
 ## Tooth development disorders
 
@@ -309,11 +305,9 @@ Interaction studies have only been performed in adults.
 
 ## Women of childbearing potential / Contraception
 
-Nintedanib may cause foetal harm in humans (see section 5.3). Women of childbearing potential should be advised to avoid becoming pregnant while receiving treatment with nintedanib and to use highly effective contraceptive methods at initiation of, during and at least 3 months after the last dose of nintedanib. Nintedanib does not relevantly affect the plasma exposure of ethinylestradiol and levonorgestrel (see section 5.2). The efficacy of oral hormonal contraceptives may be compromised by vomiting and/or diarrhoea or other conditions where the absorption may be affected. Women taking
+Nintedanib may cause foetal harm in humans (see section 5.3). Women of childbearing potential should be advised to avoid becoming pregnant while receiving treatment with nintedanib and to use highly effective contraceptive methods at initiation of, during and at least 3 months after the last dose of nintedanib. Nintedanib does not relevantly affect the plasma exposure of ethinylestradiol and levonorgestrel (see section 5.2). The efficacy of oral hormonal contraceptives may be compromised by vomiting and/or diarrhoea or other conditions where the absorption may be affected. Women taking oral hormonal contraceptives experiencing these conditions should be advised to use an alternative highly effective contraceptive measure.
 
 <div style=\"page-break-after: always\"></div>
-
-oral hormonal contraceptives experiencing these conditions should be advised to use an alternative highly effective contraceptive measure.
 
 ## Pregnancy
 
@@ -452,11 +446,9 @@ Reporting suspected adverse reactions after authorisation of the medicinal produ
 
 ## 4.9 Overdose
 
-There is no specific antidote or treatment for nintedanib overdose. Two patients in the oncology programme had an overdose of maximum 600 mg twice daily up to eight days. Observed adverse reactions were consistent with the known safety profile of nintedanib, i.e. increased liver enzymes and gastrointestinal symptoms. Both patients recovered from these adverse reactions. In the INPULSIS trials, one patient was inadvertently exposed to a dose of 600 mg daily for a total of 21 days. A nonserious adverse event (nasopharyngitis) occurred and resolved during the period of incorrect dosing,
+There is no specific antidote or treatment for nintedanib overdose. Two patients in the oncology programme had an overdose of maximum 600 mg twice daily up to eight days. Observed adverse reactions were consistent with the known safety profile of nintedanib, i.e. increased liver enzymes and gastrointestinal symptoms. Both patients recovered from these adverse reactions. In the INPULSIS trials, one patient was inadvertently exposed to a dose of 600 mg daily for a total of 21 days. A nonserious adverse event (nasopharyngitis) occurred and resolved during the period of incorrect dosing, with no onset of other reported events. In case of overdose, treatment should be interrupted and general supportive measures initiated as appropriate.
 
 <div style=\"page-break-after: always\"></div>
-
-with no onset of other reported events. In case of overdose, treatment should be interrupted and general supportive measures initiated as appropriate.
 
 ## 5. PHARMACOLOGICAL PROPERTIES
 
@@ -466,7 +458,7 @@ Pharmacotherapeutic group: Antineoplastic agents, protein kinase inhibitors, ATC
 
 ## Mechanism of action
 
-Nintedanib is a small molecule tyrosine kinase inhibitor including the receptors platelet-derived growth factor receptor (PDGFR) α and β, fibroblast growth factor receptor (FGFR) 1 -3, and VEGFR 1-3. In addition, nintedanib inhibits Lck (lymphocyte-specific tyrosine-protein kinase), Lyn (tyrosine-protein kinase lyn), Src (proto-oncogene tyrosine-protein kinase src), and CSF1R (colony stimulating factor 1 receptor) kinases. Nintedanib binds competitively to the adenosine triphosphate (ATP) binding pocket of these kinases and blocks the intracellular signalling cascades, which have been demonstrated to be involved in the pathogenesis of fibrotic tissue remodelling in interstitial lung diseases.
+Nintedanib is a small molecule tyrosine kinase inhibitor including the receptors platelet-derived growth factor receptor (PDGFR) α and β , fibroblast growth factor receptor (FGFR) 1-3, and VEGFR 1-3. In addition, nintedanib inhibits Lck (lymphocyte-specific tyrosine-protein kinase), Lyn (tyrosine-protein kinase lyn), Src (proto-oncogene tyrosine-protein kinase src), and CSF1R (colony stimulating factor 1 receptor) kinases. Nintedanib binds competitively to the adenosine triphosphate (ATP) binding pocket of these kinases and blocks the intracellular signalling cascades, which have been demonstrated to be involved in the pathogenesis of fibrotic tissue remodelling in interstitial lung diseases.
 
 ## Pharmacodynamic effects
 
@@ -522,7 +514,7 @@ Table 5: Proportion of FVC responders at 52 weeks in trials INPULSIS-1, INPULSIS
 |--------------------------------|-----------------------|-------------------------------|-----------------------|-------------------------------|-------------------------------------|-------------------------------------|
 |                                | Placebo               | Nintedanib 150 mg twice daily | Placebo               | Nintedanib 150 mg twice daily | Placebo                             | Nintedanib 150 mg twice daily       |
 | Number of analysed patients    | 204                   | 309                           | 219                   | 329                           | 423                                 | 638                                 |
-| 5%threshold                    |                       |                               |                       |                               |                                     |                                     |
+| 5% threshold                   |                       |                               |                       |                               |                                     |                                     |
 | Number (%) of FVC Responders 1 | 78 (38.2)             | 163 (52.8)                    | 86 (39.3)             | 175 (53.2)                    | 164 (38.8)                          | 338 (53.0)                          |
 | Comparison vs placebo          | Comparison vs placebo |                               |                       |                               |                                     |                                     |
 | Odds ratio                     |                       | 1.85                          |                       | 1.79                          |                                     | 1.84                                |
@@ -597,11 +589,9 @@ In a pre-specified sensitivity analysis, the frequency of patients with at least
 
 ## Survival analysis
 
-In the pre-specified pooled analysis of survival data of the INPULSIS trials, overall mortality over 52 weeks was lower in the nintedanib group (5.5%) compared with the placebo group (7.8%). The
+In the pre-specified pooled analysis of survival data of the INPULSIS trials, overall mortality over 52 weeks was lower in the nintedanib group (5.5%) compared with the placebo group (7.8%). The analysis of time to death resulted in a HR of 0.70 (95% CI 0.43, 1.12; p = 0.1399). The results of all survival endpoints (such as on-treatment mortality and respiratory mortality) showed a consistent numerical difference in favour of nintedanib.
 
 <div style=\"page-break-after: always\"></div>
-
-analysis of time to death resulted in a HR of 0.70 (95% CI 0.43, 1.12; p = 0.1399). The results of all survival endpoints (such as on-treatment mortality and respiratory mortality) showed a consistent numerical difference in favour of nintedanib.
 
 Table 8: All-cause mortality over 52 weeks in trials INPULSIS-1, INPULSIS-2, and their pooled data - treated set
 
@@ -670,12 +660,12 @@ Similar results were observed in the co-primary population of patients with HRCT
 
 Figure 2: Forest plot of the annual rate of decline in FVC (mL) over 52 weeks in the patient populations
 
-|                                                                    | N analysed   | N analysed        | Estimate[95%CI]     | p-value   |
-|--------------------------------------------------------------------|--------------|-------------------|---------------------|-----------|
-|                                                                    | Placebo      | Nintedanib 150bid |                     |           |
-| Overall population                                                 | 331          | 332               | 107.0 [65.4; 148.5] | <.0001    |
-| Co-primary population (PatientswithHRCT withUIP-like               | 206          | 206               | 128.2 [70.8;185.6]  | <.0001    |
-| Complementary population (Patientswithother HRCTfibrotic patterns) | 125          | 126               | 75.2 [15.5; 135.0]  | <0.05*    |
+|                                                                       | Nanalysed   | Nanalysed         | Estimate[95%CI]     | p-value   |
+|-----------------------------------------------------------------------|-------------|-------------------|---------------------|-----------|
+|                                                                       | Placebo     | Nintedanib 150bid |                     |           |
+| Overall population                                                    | 331         | 332               | 107.0 [65.4; 148.5] | <.0001    |
+| Co-primary population (PatientswithHRCT withUIP-like fibroticpattern) | 206         | 206               | 128.2[70.8;185.6]   | <.0001    |
+| Complementary population (Patientswithother HRCTfibrotic patterns)    | 125         | 126               | 75.2[15.5;135.0]    | <0.05*    |
 
 bid = twice daily
 
@@ -704,7 +694,7 @@ Table 10: Proportion of FVC responders at 52 weeks in INBUILD
 |                                | Placebo    | Nintedanib 150 mg twice daily   |
 |--------------------------------|------------|---------------------------------|
 | Number of analysed patients    | 331        | 332                             |
-| 5%threshold                    |            |                                 |
+| 5% threshold                   |            |                                 |
 | Number (%) of FVC responders 1 | 104 (31.4) | 158 (47.6)                      |
 | Comparison vs placebo          |            |                                 |
 | Odds ratio²                    |            | 2.01                            |
@@ -766,8 +756,6 @@ The annual rate of decline of FVC (mL) over 52 weeks was significantly reduced b
 
 Table 11: Annual rate of decline in FVC (mL) over 52 weeks
 
-1
-
 |                                      | Placebo      | Nintedanib 150 mg twice daily   |
 |--------------------------------------|--------------|---------------------------------|
 | Number of analysed patients          | 288          | 287                             |
@@ -776,6 +764,8 @@ Table 11: Annual rate of decline in FVC (mL) over 52 weeks
 | Difference 1                         |              | 41.0                            |
 | 95% CI                               |              | (2.9, 79.0)                     |
 | p-value                              |              | < 0.05                          |
+
+1
 
 Based on a random coefficient regression with fixed categorical effects of treatment, ATA status, gender, fixed continuous effects of time, baseline FVC [mL], age, height, and including treatment-by-time and baseline-by-time interactions. Random effect was included for patient specific intercept and time. Within-patient errors were modelled by an unstructured variance-covariance matrix. Inter-individual variability was modelled by a variance-components variance-covariance matrix.
 
@@ -852,24 +842,22 @@ The primary objectives of the InPedILD trial were to evaluate the dose-exposure 
 
 The InPedILD trial enrolled children and adolescents aged 6 to 17 years with clinically significant fibrosing ILD and FVC of at least 25% predicted. Patients were classified as having fibrosing ILD based on evidence of fibrosis on two HRCT scans (with one HRCT scan conducted within the previous 12 months) or evidence of fibrosis on lung biopsy and one HRCT scan conducted within the previous 12 months.
 
-Clinically significant disease was defined as a Fan score ≥3 or documented evidence of clinical progression over any time frame. Evidence of clinical progression was based on a relative decline in FVC ≥10% predicted, a relative decline in FVC of 5 -10% predicted with worsening symptoms, worsening fibrosis on HRCT or other measures of clinical worsening attributed to progressive
+Clinically significant disease was defined as a Fan score ≥ 3 or documented evidence of clinical progression over any time frame. Evidence of clinical progression was based on a relative decline in FVC ≥ 10% predicted, a relative decline in FVC of 5-10% predicted with worsening symptoms, worsening fibrosis on HRCT or other measures of clinical worsening attributed to progressive pulmonary fibrosis (e.g. increased oxygen requirement, decreased diffusion capacity) although this was not a requirement for enrolment for patients with a Fan score of ≥ 3.
 
 <div style=\"page-break-after: always\"></div>
-
-pulmonary fibrosis (e.g. increased oxygen requirement, decreased diffusion capacity) although this was not a requirement for enrolment for patients with a Fan score of ≥3.
 
 In total, 39 patients were randomised (61.5% female). Baseline characteristics:
 
 - 6-11 years: 12 patients, 12-17 years: 27 patients. The mean [standard deviation (SD)] age was 12.6 (3.3) years.
 - Mean (SD) weight was 42.2 kg (17.8 kg); 6-11 years: 26.6 kg (10.4 kg), 12-17 years: 49.1 kg (16.0 kg).
-- The overall baseline mean BMI-for-age-Z-score (SD) was -0.6 (1.8).
 - The overall mean FVC Z-score (SD) at baseline was -3.5 (1.9).
+- The overall baseline mean BMI-for-age-Z-score (SD) was -0.6 (1.8).
 
 The most frequent single underlying ILD diagnoses of enrolled patients were:
 
 - 'Surfactant protein deficiency' (nintedanib: 26.9%, placebo: 38.5%),
-- 'Systemic sclerosis' (nintedanib: 15.4%, placebo: 23.1%),
 - 'Toxic/radiation/drug-induced pneumonitis' (nintedanib: 11.5%, placebo 7.7%).
+- 'Systemic sclerosis' (nintedanib: 15.4%, placebo: 23.1%),
 - 'Chronic hypersensitivity pneumonitis' was reported for 2 patients (nintedanib: 7.7%).
 - The remaining underlying ILD diagnoses reported for 1 patient each were:
 - o Post-HSCT fibrosis,
@@ -891,7 +879,7 @@ The primary endpoint results were:
 
 ## · Exposure to Nintedanib:
 
-- o The exposure to nintedanib described as AUC τ,ss based on sampling at steady state was broadly similar in children and adolescents and comparable to the AUC τ,ss observed in adults (see section 5.2).
+- o The exposure to nintedanib described as AUC τ ,ss based on sampling at steady state was broadly similar in children and adolescents and comparable to the AUC τ ,ss observed in adults (see section 5.2).
 - Treatment-Emergent Adverse Events (Week 24):
 - o Nintedanib group: 84.6% of patients (6-11 years: 75.0%, 12-17 years: 88.9%)
 - o Placebo group: 84.6% of patients (6-11 years: 100%, 12-17 years: 77.8%)
@@ -961,21 +949,19 @@ Nintedanib is a substrate of P-gp. For the interaction potential of nintedanib w
 
 ## Population pharmocokinetic analysis in special populations
 
-The PK properties of nintedanib were similar in healthy volunteers, patients with IPF, patients with other chronic fibrosing ILDs with a progressive phenotype, patients with SSc-ILD, and cancer
+The PK properties of nintedanib were similar in healthy volunteers, patients with IPF, patients with other chronic fibrosing ILDs with a progressive phenotype, patients with SSc-ILD, and cancer patients. Based on results of a population PK (PopPK) analysis in patients with IPF and non small cell lung cancer (NSCLC) (N = 1 191) and descriptive investigations, exposure to nintedanib was not influenced by sex (body weight corrected), mild and moderate renal impairment (estimated by creatinine clearance), alcohol consumption, or P-gp genotype.
 
 <div style=\"page-break-after: always\"></div>
-
-patients. Based on results of a population PK (PopPK) analysis in patients with IPF and non small cell lung cancer (NSCLC) (N = 1 191) and descriptive investigations, exposure to nintedanib was not influenced by sex (body weight corrected), mild and moderate renal impairment (estimated by creatinine clearance), alcohol consumption, or P-gp genotype.
 
 PopPK analyses indicated moderate effects on exposure to nintedanib depending on age, body weight, and race (see below). Based on the high inter-individual variability of exposure observed moderate effects are considered not clinically relevant (see section 4.4).
 
 ## Age
 
-Exposure to nintedanib increased linearly with age. AUCτ,ss decreased by 16% for a 45 -year old patient and increased by 13% for a 76-year old patient relative to a patient with the median age of 62 years. The age range covered by the analysis was 29 to 85 years; approximately 5% of the population were older than 75 years. Based on a PopPK model, an increase in nintedanib exposure of approximately 20-25% was observed in patients ≥ 75 years compared with patients under 65 years.
+Exposure to nintedanib increased linearly with age. AUC τ ,ss decreased by 16% for a 45-year old patient and increased by 13% for a 76-year old patient relative to a patient with the median age of 62 years. The age range covered by the analysis was 29 to 85 years; approximately 5% of the population were older than 75 years. Based on a PopPK model, an increase in nintedanib exposure of approximately 20-25% was observed in patients ≥ 75 years compared with patients under 65 years.
 
 ## Paediatric population
 
-Based on the analysis of pharmacokinetic data of study InPedILD (1199-0337), oral administration of nintedanib according to the weight-based dosing algorithm resulted in exposure within the range observed in adult patients. The observed geometric mean AUC τ,ss (geometric coefficient of variation) exposures were 175 ng/mL·hr (85.1%) and 167 ng/mL·hr (83.6 %) in 10 patients aged 6 to 11 years old and 23 patients aged 12 to 17 years old, respectively.
+Based on the analysis of pharmacokinetic data of study InPedILD (1199-0337), oral administration of nintedanib according to the weight-based dosing algorithm resulted in exposure within the range observed in adult patients. The observed geometric mean AUC τ ,ss (geometric coefficient of variation) exposures were 175 ng/mL·hr (85.1%) and 167 ng/mL·hr (83.6 %) in 10 patients aged 6 to 11 years old and 23 patients aged 12 to 17 years old, respectively.
 
 Exposure-response analyses of the data of study InPedILD indicated an Emax-like relationship between exposure and FVC % predicted as well FVC Z-score, supported by adult data. For FVC % predicted, the EC50 was 4.4 ng/mL (relative standard error: 28.6%), while for FVC Z-score, the EC50 was 5.0 ng/mL (relative standard error: 75.3%).
 
@@ -983,7 +969,7 @@ Nintedanib was not studied in children and adolescents with hepatic impairment. 
 
 ## Body weight
 
-An inverse correlation between body weight and exposure to nintedanib was observed. AUC τ,ss increased by 25% for a 50 kg patient (5th percentile) and decreased by 19% for a 100 kg patient (95th percentile) relative to a patient with the median weight of 71.5 kg.
+An inverse correlation between body weight and exposure to nintedanib was observed. AUC τ ,ss increased by 25% for a 50 kg patient (5th percentile) and decreased by 19% for a 100 kg patient (95th percentile) relative to a patient with the median weight of 71.5 kg.
 
 ## Race
 
@@ -1001,7 +987,7 @@ In a dedicated pharmacokinetic study, concomitant treatment of nintedanib with p
 
 received steady state treatment of 801 mg pirfenidone three times a day and had a PK profiling before and after at least 7 days of co-treatment with 150 mg nintedanib twice daily (N = 17 patients treated).
 
-In group 1, the adjusted geometric mean ratios (90% confidence interval (CI)) were 93% (57%-151%) and 96% (70% - 131%) for Cmax and AUC0-tz of nintedanib, respectively (n = 12 for intraindividual comparison). In group 2, the adjusted geometric mean ratios (90% CI)) were 97% (86% - 110%) and 95% (86% - 106%) for Cmax,ss and AUC τ,ss of pirfenidone, respectively (n = 12 for intraindividual comparison).
+In group 1, the adjusted geometric mean ratios (90% confidence interval (CI)) were 93% (57%-151%) and 96% (70% - 131%) for Cmax and AUC0-tz of nintedanib, respectively (n = 12 for intraindividual comparison). In group 2, the adjusted geometric mean ratios (90% CI)) were 97% (86% - 110%) and 95% (86% - 106%) for Cmax,ss and AUC τ ,ss of pirfenidone, respectively (n = 12 for intraindividual comparison).
 
 Based on these results, there is no evidence of a relevant pharmacokinetic drug-drug interaction between nintedanib and pirfenidone when administered in combination (see section 4.4).
 
@@ -1011,7 +997,7 @@ In a dedicated pharmacokinetic study, concomitant treatment of nintedanib with b
 
 ## Concomitant treatment with oral hormonal contraceptives
 
-In a dedicated pharmacokinetic study, female patients with SSc-ILD received a single dose of a combination of 30 μg ethinylestradiol and 150 μg levonorgestrel before and after twice daily dosing of 150 mg nintedanib for at least 10 days. The adjusted geometric mean ratios (90% confidence interval (CI)) were 117% (108% - 127%; Cmax) and 101% (93% - 111%; AUC0-tz) for ethinylestradiol and 101% (90% - 113%; Cmax) and 96% (91% - 102%; AUC0-tz) for levonorgestrel, respectively (n = 15), indicating that co-administration of nintedanib has no relevant effect on the plasma exposure of ethinylestradiol and levonorgestrel.
+In a dedicated pharmacokinetic study, female patients with SSc-ILD received a single dose of a combination of 30 μ g ethinylestradiol and 150 μ g levonorgestrel before and after twice daily dosing of 150 mg nintedanib for at least 10 days. The adjusted geometric mean ratios (90% confidence interval (CI)) were 117% (108% - 127%; Cmax) and 101% (93% - 111%; AUC0-tz) for ethinylestradiol and 101% (90% - 113%; Cmax) and 96% (91% - 102%; AUC0-tz) for levonorgestrel, respectively (n = 15), indicating that co-administration of nintedanib has no relevant effect on the plasma exposure of ethinylestradiol and levonorgestrel.
 
 ## Exposure-response relationship
 
@@ -1041,7 +1027,7 @@ In a pre- and postnatal development study in rats, effects on pre- and post-nata
 
 A study of male fertility and early embryonic development up to implantation in rats did not reveal effects on the male reproductive tract and male fertility.
 
-In rats, small amounts of radiolabelled nintedanib and/or its metabolites were excreted into the milk (≤ 0.5% of the administered dose).
+In rats, small amounts of radiolabelled nintedanib and/or its metabolites were excreted into the milk ( ≤ 0.5% of the administered dose).
 
 From the 2-year carcinogenicity studies in mice and rats, there was no evidence for a carcinogenic potential of nintedanib.
 
@@ -1091,17 +1077,7 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Viatris Limited
-
-Damastown Industrial Park
-
-Mulhuddart
-
-Dublin 15
-
-DUBLIN
-
-Ireland
+Viatris Limited Damastown Industrial Park Mulhuddart Dublin 15 DUBLIN Ireland
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1142,7 +1118,7 @@ Detailed information on this medicinal product is available on the website of th
 
 Name and address of the manufacturer(s) responsible for batch release
 
-Mylan Germany GmbH, Benzstrasse 1 61352 Bad Homburg v. d. Hohe Germany
+Viatris Germany GmbH, Benzstrasse 1 61352 Bad Homburg v. d. Hohe Germany
 
 Mylan Hungary Kft./Mylan Hungary Ltd. Mylan utca 1 Komarom 2900, Hungary
 
@@ -1251,11 +1227,9 @@ EU/1/25/1959/002 (60 x 1 capsules)
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
-
+14. GENERAL CLASSIFICATION FOR SUPPLY
 15. INSTRUCTIONS ON USE
-
-## 16. INFORMATION IN BRAILLE
+16. INFORMATION IN BRAILLE
 
 Nintedanib Viatris 100 mg
 
@@ -1273,32 +1247,46 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
-|-------------------------------------------------------|
-| Unit-dose blister                                     |
+| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
+|-----------------------------------------------------|
+| Unit-dose blister                                   |
 
-| 1.   | NAME OF THE MEDICINAL PRODUCT   |
-|------|---------------------------------|
+| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
+|------|------------------------------|
 
-Nintedanib Viatris 100 mg soft capsules nintedanib
-
-| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
-|------|----------------------------------------------|
-
-Viatris Limited
+| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
+|------|-------------------------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
 
-EXP
-
 | 4.   | BATCH NUMBER   |
 |------|----------------|
 
-Lot
-
 | 5.   | OTHER   |
 |------|---------|
+
+## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
+
+Unit-dose blister
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Nintedanib Viatris 100 mg soft capsules nintedanib
+
+## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
+
+Viatris Limited
+
+## 3. EXPIRY DATE
+
+EXP
+
+## 4. BATCH NUMBER
+
+Lot
+
+## 5. OTHER
 
 Oral use
 
@@ -1320,11 +1308,11 @@ Contains soya lecithin. See leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-Soft capsules
+## Soft capsules
 
 - 30 × 1 soft capsules
 
-60 × 1 soft capsules
+- 60 × 1 soft capsules
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -1346,11 +1334,23 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+<div style=\"page-break-after: always\"></div>
+
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Viatris Limited Damastown Industrial Park Mulhuddart Dublin 15 DUBLIN Ireland
+Viatris Limited
+
+Damastown Industrial Park
+
+Mulhuddart
+
+Dublin 15
+
+DUBLIN
+
+Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1362,11 +1362,9 @@ EU/1/25/1959/004 (60 x 1 capsules)
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
-
+14. GENERAL CLASSIFICATION FOR SUPPLY
 15. INSTRUCTIONS ON USE
-
-## 16. INFORMATION IN BRAILLE
+16. INFORMATION IN BRAILLE
 
 Nintedanib Viatris 150 mg
 
@@ -1384,19 +1382,17 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-<div style=\"page-break-after: always\"></div>
+| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
+|-----------------------------------------------------|
+| Unit-dose blister                                   |
 
-| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
-|-------------------------------------------------------|
-| Unit-dose blister                                     |
-
-| 1.   | NAME OF THE MEDICINAL PRODUCT   |
-|------|---------------------------------|
+| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
+|------|------------------------------|
 
 Nintedanib Viatris 150 mg soft capsules nintedanib
 
-| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
-|------|----------------------------------------------|
+| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
+|------|-------------------------------------------|
 
 Viatris Limited
 
@@ -1744,11 +1740,9 @@ Keep this medicine out of the sight and reach of children.
 
 Do not use this medicine after the expiry date which is stated on the carton and the blister. The expiry date refers to the last day of that month.
 
-This medicine does not require any special storage conditions
+This medicine does not require any special storage conditions Do not use this medicine if you notice that the blister containing the capsules is opened or a capsule is broken. If you are in contact with the content of the capsule, wash off your hands immediately with plenty of water (see section 3).
 
 <div style=\"page-break-after: always\"></div>
-
-Do not use this medicine if you notice that the blister containing the capsules is opened or a capsule is broken. If you are in contact with the content of the capsule, wash off your hands immediately with plenty of water (see section 3).
 
 Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
 
@@ -1782,29 +1776,29 @@ Viatris Limited Damastown Industrial Park Mulhuddart Dublin 15 DUBLIN Ireland
 
 ## Manufacturer
 
-Mylan Germany GmbH, Benzstrasse 1 61352 Bad Homburg v. d. Hohe Germany
+Viatris Germany GmbH, Benzstrasse 1 61352 Bad Homburg v. d. Hohe Germany
 
-Mylan Hungary Kft./Mylan Hungary Ltd. Mylan utca 1 Komarom 2900, Hungary
+Mylan Hungary Kft./Mylan Hungary Ltd. Mylan utca 1 Komarom 2900, Hungary For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 <div style=\"page-break-after: always\"></div>
 
-For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
-
 ## België/Belgique/Belgien
 
-Viatris Tél/Tel: + 32 (0)2 658 61 00
+Viatris
 
-България
+Tél/Tel:  + 32 (0)2 658 61 00
 
-Майлан ЕООД
+## България
 
-Тел: +359 2 44 55 400
+Виатрис ЕООД
 
-## Česká republika
+Тел .
 
-Viatris CZ s.r.o.
+: +359 2 44 55 400
 
-Tel: + 420 222 004 400
+## Č eská republika
+
+Viatris CZ s.r.o. Tel: + 420 222 004 400
 
 ## Danmark
 
@@ -1812,73 +1806,43 @@ Viatris ApS Tlf: +45 28 11 69 32
 
 ## Deutschland
 
-Viatris Healthcare GmbH Tel: +49 800 0700 800
+Viatris Healthcare GmbH
+
+Tel: +49 800 0700 800
 
 ## Eesti
 
-Viatris OÜ
-
-Tel: + 372 6363 052
+Viatris OÜ Tel: + 372 6363 052
 
 ## Ελλάδα
 
-Viatris Hellas Ltd
-
-Τηλ:
-
-+30 2100 100 002
+Viatris Hellas Ltd Τηλ : +30 2100 100 002
 
 ## España
 
-Viatris Pharmaceuticals, S.L.
-
-Tel: + 34 900 102 712
+Viatris Pharmaceuticals, S.L. Tel: + 34 900 102 712
 
 ## France
 
-Viatris Santé
-
-Tél: +33 4 37 25 75 00
+Viatris Santé Tél: +33 4 37 25 75 00
 
 ## Hrvatska
 
-Viatris Hrvatska d.o.o.
-
-Tel: +385 1 23 50 599
+Viatris Hrvatska d.o.o. Tel: +385 1 23 50 599
 
 ## Ireland
 
-Viatris Limited
-
-Tel: +353 1 8711600
+Viatris Limited Tel: +353 1 8711600
 
 ## Ísland
 
-Icepharma hf.
-
-Sími: +354 540 8000
+Icepharma hf. Sími: +354 540 8000
 
 ## Italia
 
 Viatris Italia S.r.l.
 
 Tel: + 39 (0) 2 612 46921
-
-## Κύπρος
-
-CPO Pharmaceuticals Limited
-
-Τηλ: +357 22863100
-
-## Latvija
-
-Viatris SIA
-
-Tel: +371 676 055 80
-
-## This leaflet was last revised in .
-
-Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
 ## Lietuva
 
@@ -1888,23 +1852,17 @@ Tel: +370 5 205 1288
 
 ## Luxembourg/Luxemburg
 
-Viatris
-
-Tél/Tel: + 32 (0)2 658 61 00
-
-(Belgique/Belgien)
+Viatris Tél/Tel: + 32 (0)2 658 61 00 (Belgique/Belgien)
 
 ## Magyarország
 
 Viatris Healthcare Kft.
 
-Tel.: + 36 1 465 2100
+Tel.: + 36 1 465 2100
 
 ## Malta
 
-V.J. Salomone Pharma Ltd
-
-Tel: + 356 21 22 01 74
+V.J. Salomone Pharma Ltd Tel: + 356 21 22 01 74
 
 ## Nederland
 
@@ -1914,15 +1872,11 @@ Tel: +31 (0)20 426 3300
 
 ## Norge
 
-Viatris AS
-
-Tlf: + 47 66 75 33 00
+Viatris AS Tlf: + 47 66 75 33 00
 
 ## Österreich
 
-Viatris Austria GmbH
-
-Tel: +43 1 86390
+Viatris Austria GmbH Tel: +43 1 86390
 
 ## Polska
 
@@ -1936,25 +1890,37 @@ Tel: + 351 214 127 200
 
 ## România
 
-BGP Products SRL
-
-Tel: +40 372 579 000
+BGP Products SRL Tel: +40 372 579 000
 
 ## Slovenija
 
-Viatris d.o.o.
-
-Tel: + 386 1 23 63 180
+Viatris d.o.o. Tel: + 386 1 23 63 180
 
 ## Slovenská republika
 
-Viatris Slovakia s.r.o. Tel: +421 2 32 199 100
+Viatris Slovakia s.r.o. Tel: +421 2 32 199 100
 
 ## Suomi/Finland
 
 Viatris Oy
 
 Puh/Tel: +358 20 720 9555
+
+## Κύπρος
+
+CPO Pharmaceuticals Limited Τηλ : +357 22863100
+
+<div style=\"page-break-after: always\"></div>
+
+## Latvija
+
+Viatris SIA
+
+Tel: +371 676 055 80
+
+## This leaflet was last revised in .
+
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
 ## Sverige
 

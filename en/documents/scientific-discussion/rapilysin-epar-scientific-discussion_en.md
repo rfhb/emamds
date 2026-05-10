@@ -4,8 +4,8 @@ document_pages: 13
 document_pathfilename: www.ema.europa.eu/en/documents/scientific-discussion/rapilysin-epar-scientific-discussion_en.pdf
 document_name: rapilysin-epar-scientific-discussion_en.pdf
 version: success
-processing_time: 3.3008218
-conversion_datetime: 2026-05-10 13:16:05.439184
+processing_time: 20.0556292
+conversion_datetime: 2026-05-10 13:17:03.856574
 docling_version:
   docling-serve: 1.17.0
   docling-jobkit: 1.18.0

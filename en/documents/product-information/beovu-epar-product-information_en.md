@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-01-27 14:39:34
-document_pages: 56
+document_datetime: 2026-05-07 12:56:30
+document_pages: 57
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/beovu-epar-product-information_en.pdf
 document_name: beovu-epar-product-information_en.pdf
 version: success
-processing_time: 14.0951205
-conversion_datetime: 2026-01-29 12:15:04.85851
+processing_time: 16.4457555
+conversion_datetime: 2026-05-10 13:09:11.273223
 docling_version:
-  docling-serve: 1.11.0
-  docling-jobkit: 1.9.0
-  docling: 2.70.0
-  docling-core: 2.61.0
-  docling-ibm-models: 3.11.0
-  docling-parse: 4.7.3
+  docling-serve: 1.17.0
+  docling-jobkit: 1.18.0
+  docling: 2.92.0
+  docling-core: 2.74.1
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.10.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -93,7 +93,9 @@ Thereafter, the physician may individualise treatment intervals based on disease
 
 If visual and anatomical outcomes indicate that the patient is not benefiting from continued treatment, Beovu should be discontinued.
 
-## Special populations Elderly
+## Special populations
+
+## Elderly
 
 No dose adjustment is required in patients aged 65 years or above (see section 5.2).
 
@@ -143,11 +145,11 @@ Injecting the entire volume of the vial could result in overdose. To expel the a
 
 For instructions on preparation of the medicinal product before administration, see section 6.6.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 4.3 Contraindications
 
 Hypersensitivity to the active substance or to any of the excipients listed in section 6.1.
-
-<div style=\"page-break-after: always\"></div>
 
 Patients with active or suspected ocular or periocular infections.
 
@@ -159,7 +161,7 @@ Patients with active intraocular inflammation.
 
 In order to improve the traceability of biological medicinal products, the name and the batch number of the administered product should be clearly recorded.
 
-## Endophthalmitis, intraocular inflammation, traumatic cataract, retinal detachment, retinal tear, retinal vasculitis, and/or retinal vascular occlusion
+Endophthalmitis, intraocular inflammation, traumatic cataract, retinal detachment, retinal tear, retinal vasculitis, and/or retinal vascular occlusion
 
 Intravitreal injections, including those with Beovu, have been associated with endophthalmitis, intraocular inflammation, traumatic cataract, retinal detachment and retinal tear (see section 4.8). Proper aseptic injection techniques must always be used when administering Beovu.
 
@@ -282,9 +284,7 @@ The adverse reactions experienced following administration of Beovu in clinical 
 
 Adverse reactions (Table 1) are listed according to the MedDRA system organ class. Within each system organ class, the adverse reactions are ranked by frequency, with the most frequent reactions first. Frequency categories for each adverse reaction are based on the following convention: very common (≥1/10), common (≥1/100 to &lt;1/10), uncommon (≥1/1 000 to &lt;1/100), rare (≥1/10 000 to &lt;1/1 000), very rare (&lt;1/10 000), not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
-<div style=\"page-break-after: always\"></div>
-
-Table 1 Frequencies of adverse reactions in clinical studies
+## Table 1 Frequencies of adverse reactions in clinical studies
 
 | MedDRA System organ class                                        | Frequency category*   |
 |------------------------------------------------------------------|-----------------------|
@@ -304,29 +304,30 @@ Table 1 Frequencies of adverse reactions in clinical studies
 | Conjunctival haemorrhage                                         | Common                |
 | Vitreous floaters                                                | Common                |
 | Eye pain                                                         | Common                |
-| Intraocular pressure increase                                    | Common                |
-| Conjunctivitis                                                   | Common                |
-| Retinal pigment epithelial tear                                  | Common                |
-| Vision blurred                                                   | Common                |
-| Corneal abrasion                                                 | Common                |
-| Punctate keratitis                                               | Common                |
-| Blindness                                                        | Uncommon              |
-| Endophthalmitis                                                  | Uncommon              |
-| Retinal detachment                                               | Uncommon              |
-| Conjunctival hyperaemia                                          | Uncommon              |
-| Lacrimation increased                                            | Uncommon              |
-| Abnormal sensation in eye                                        | Uncommon              |
-| Detachment of retinal pigment epithelium                         | Uncommon              |
-| Vitritis                                                         | Uncommon              |
-| Anterior chamber inflammation                                    | Uncommon              |
-| Anterior chamber flare                                           | Uncommon              |
-| Corneal oedema                                                   | Uncommon              |
-| Retinal vasculitis                                               | Uncommon              |
-| Scleritis**                                                      | Uncommon              |
 
-*The frequency category for each adverse reaction is based on the most conservative incidence rate from either pooled nAMD or pooled DME Phase III pivotal studies.
+<div style=\"page-break-after: always\"></div>
 
-**including episcleritis
+| Intraocular pressure increase                                                                                                                                                                | Common                                                                                                                                                                                       |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Conjunctivitis                                                                                                                                                                               | Common                                                                                                                                                                                       |
+| Retinal pigment epithelial tear                                                                                                                                                              | Common                                                                                                                                                                                       |
+| Vision blurred                                                                                                                                                                               | Common                                                                                                                                                                                       |
+| Corneal abrasion                                                                                                                                                                             | Common                                                                                                                                                                                       |
+| Punctate keratitis                                                                                                                                                                           | Common                                                                                                                                                                                       |
+| Blindness                                                                                                                                                                                    | Uncommon                                                                                                                                                                                     |
+| Endophthalmitis                                                                                                                                                                              | Uncommon                                                                                                                                                                                     |
+| Retinal detachment                                                                                                                                                                           | Uncommon                                                                                                                                                                                     |
+| Conjunctival hyperaemia                                                                                                                                                                      | Uncommon                                                                                                                                                                                     |
+| Lacrimation increased                                                                                                                                                                        | Uncommon                                                                                                                                                                                     |
+| Abnormal sensation in eye                                                                                                                                                                    | Uncommon                                                                                                                                                                                     |
+| Detachment of retinal pigment epithelium                                                                                                                                                     | Uncommon                                                                                                                                                                                     |
+| Vitritis                                                                                                                                                                                     | Uncommon                                                                                                                                                                                     |
+| Anterior chamber inflammation                                                                                                                                                                | Uncommon                                                                                                                                                                                     |
+| Anterior chamber flare                                                                                                                                                                       | Uncommon                                                                                                                                                                                     |
+| Corneal oedema                                                                                                                                                                               | Uncommon                                                                                                                                                                                     |
+| Retinal vasculitis                                                                                                                                                                           | Uncommon                                                                                                                                                                                     |
+| Scleritis**                                                                                                                                                                                  | Uncommon                                                                                                                                                                                     |
+| *The frequency category for each adverse reaction is based on the most conservative incidence rate from either pooled nAMD or pooled DME Phase III pivotal studies. **including episcleritis | *The frequency category for each adverse reaction is based on the most conservative incidence rate from either pooled nAMD or pooled DME Phase III pivotal studies. **including episcleritis |
 
 ## Description of selected adverse reactions
 
@@ -342,8 +343,6 @@ After dosing with Beovu for 88 weeks, treatment-emergent anti-brolucizumab antib
 
 After dosing with Beovu for 96 weeks, treatment-emergent anti-brolucizumab antibodies were detected in 16-23% of patients.
 
-<div style=\"page-break-after: always\"></div>
-
 Among AMD and DME patients with treatment-emergent antibodies, a higher number of intraocular inflammation adverse reactions were observed. After investigation, retinal vasculitis and/or retinal vascular occlusion, typically in the presence of intraocular inflammation, were found to be immunemediated adverse events related to exposure to Beovu (see section 4.4). Anti-brolucizumab antibodies were not associated with an impact on clinical efficacy.
 
 ## Product-class-related adverse reactions
@@ -353,6 +352,8 @@ There is a theoretical risk of arterial thromboembolic events, including stroke 
 ## Reporting of suspected adverse reactions
 
 Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 4.9 Overdose
 
@@ -376,17 +377,15 @@ Increased levels of signalling through the vascular endothelial growth factor A 
 
 In the HAWK and HARRIER studies, anatomical parameters related to leakage of blood and fluid that characterise choroidal neovascularisation (CNV) were part of the disease activity assessments guiding treatment decisions. Reductions in central subfield thickness (CST) and in presence of intraretinal/subretinal fluid (IRF/SRF) or sub-retinal pigment epithelium (sub-RPE) fluid were observed in patients treated with Beovu as early as 4 weeks after treatment initiation and up to week 48 and week 96.
 
-At week 16, the reduction in CST was statistically significant on Beovu versus aflibercept in both studies (HAWK: -161 vs. -134 microns; HARRIER: -174 vs. -134 microns). This decrease from
-
-<div style=\"page-break-after: always\"></div>
-
-baseline in CST was also statistically significant at week 48 (HAWK: -173 vs. -144 microns; HARRIER: -194 vs. -144 microns), and maintained to the end of each study at week 96 (HAWK: -175 vs. -149 microns; HARRIER: -198 vs. -155 microns).
+At week 16, the reduction in CST was statistically significant on Beovu versus aflibercept in both studies (HAWK: -161 vs. -134 microns; HARRIER: -174 vs. -134 microns). This decrease from baseline in CST was also statistically significant at week 48 (HAWK: -173 vs. -144 microns; HARRIER: -194 vs. -144 microns), and maintained to the end of each study at week 96 (HAWK: -175 vs. -149 microns; HARRIER: -198 vs. -155 microns).
 
 At week 16, the percentage difference in patients with IRF and/or SRF fluid was statistically significant on Beovu versus aflibercept in both studies (HAWK: 34% vs. 52%; HARRIER: 29% vs. 45%). This difference was also statistically significant at week 48 (HAWK: 31% vs. 45%; HARRIER: 26% vs. 44%), and maintained to the end of each study at week 96 (HAWK: 24% vs. 37%; HARRIER: 24% vs. 39%).
 
 At week 16, the percentage difference in patients with sub-RPE fluid was statistically significant on Beovu versus aflibercept in both studies (HAWK: 19% vs. 27%; HARRIER: 16% vs. 24%). This difference was also statistically significant at week 48 (HAWK: 14% vs. 22%; HARRIER: 13% vs. 22%), and maintained to the end of each study at week 96 (HAWK: 11% vs. 15%; HARRIER: 17% vs. 22%).
 
 In these studies, for patients treated with Beovu, reductions in CNV lesion size were observed as early as 12 weeks, and at weeks 48 and 96 after treatment initiation.
+
+<div style=\"page-break-after: always\"></div>
 
 ## DME
 
@@ -423,7 +422,9 @@ Table 2 Visual acuity outcomes at weeks 48 and 96 in Phase III - HAWK and HARRIE
 
 BCVA: best corrected visual acuity; missing data are imputed using last observation carried forward (LOCF) method ETDRS: early treatment diabetic retinopathy study
 
-SE: standard error a) P-value referring to the non-inferiority hypothesis with a non-interiority margin of 4.0 letters.
+SE: standard error
+
+a) P-value referring to the non-inferiority hypothesis with a non-interiority margin of 4.0 letters.
 
 b) Key secondary endpoint, accounting for differences in timing of Beovu and aflibercept treatments.
 
@@ -495,6 +496,8 @@ The visual acuity gains observed in the first year were maintained in the second
 
 Detailed results of both studies are shown in Table 4 and in Figure 2 below.
 
+<div style=\"page-break-after: always\"></div>
+
 Table 4 Visual acuity outcomes at weeks 52 and 100 in Phase III - KESTREL and KITE studies
 
 |                                                                               |       | KESTREL       | KESTREL                  | KESTREL                                        | KITE          | KITE                     | KITE                                           |
@@ -503,15 +506,22 @@ Table 4 Visual acuity outcomes at weeks 52 and 100 in Phase III - KESTREL and KI
 | Change from baseline in BCVA (measured by ETDRS letters score) - LS mean (SE) | 52    | 9.2 (0.57)    | 10.5 (0.57)              | -1.3 (-2.9, 0.3) P <0.001 a                    | 10.6 (0.66)   | 9.4 (0.66)               | 1.2 (-0.6, 3.1) P <0.001 a                     |
 | Change from baseline in BCVA (measured by ETDRS letters score) - LS mean (SE) | 40-52 | 9.0 (0.53)    | 10.5 (0.53)              | -1.5 (-3.0, 0.0) P <0.001 a                    | 10.3 (0.62)   | 9.4 (0.62)               | 0.9 (-0.9, 2.6) P <0.001 a                     |
 | Change from baseline in BCVA (measured by ETDRS letters score) - LS mean (SE) | 100   | 8.8 (0.75)    | 10.6 (0.75)              | -1.7 (-3.8, 0.4)                               | 10.9 (0.85)   | 8.4 (0.85)               | 2.6 (0.2, 4.9)                                 |
+| Gain of at least 15 letters in BCVA from baseline or BCVA ≥84 letters (%)     | 52    | 36.0          | 40.1                     | -4.1 (-13.3, 5.9)                              | 46.8          | 37.2                     | 9.6 (-0.4, 20.2)                               |
+| Gain of at least 15 letters in BCVA from baseline or BCVA ≥84 letters (%)     | 100   | 39.2          | 42.2                     | -3.0 (-12.5, 6.3)                              | 50.4          | 36.9                     | 13.6 (3.3, 23.5)                               |
+
+BCVA: best corrected visual acuity; BCVA assessments after start of alternative DME treatment in the study eye were censored and replaced by the last value prior to start of this alternative treatment.
+
+ETDRS: early treatment diabetic retinopathy study
+
+LS: least-square
+
+SE: standard error
+
+a P-value referring to the non-inferiority hypothesis with a non-inferiority margin of 4.0 letters
 
 <div style=\"page-break-after: always\"></div>
 
 Figure 2 Mean change in visual acuity from baseline to week 100 in KESTREL and KITE studies
-
-| Gain of at least 15 letters in BCVA from baseline or BCVA ≥84 letters                                                                                                                                                                                                        | 52                                                                                                                                                                                                                                                                           | 36.0                                                                                                                                                                                                                                                                         | 40.1                                                                                                                                                                                                                                                                         | -4.1 (-13.3, 5.9)                                                                                                                                                                                                                                                            | 46.8                                                                                                                                                                                                                                                                         | 37.2                                                                                                                                                                                                                                                                         | 9.6 (-0.4, 20.2)                                                                                                                                                                                                                                                             |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| (%)                                                                                                                                                                                                                                                                          | 100                                                                                                                                                                                                                                                                          | 39.2                                                                                                                                                                                                                                                                         | 42.2                                                                                                                                                                                                                                                                         | -3.0 (-12.5, 6.3)                                                                                                                                                                                                                                                            | 50.4                                                                                                                                                                                                                                                                         | 36.9                                                                                                                                                                                                                                                                         | 13.6 (3.3, 23.5)                                                                                                                                                                                                                                                             |
-| BCVA: best corrected visual acuity; BCVA assessments after start of alternative DME treatment in the study eye were censored and replaced by the last value prior to start of this alternative treatment. ETDRS: early treatment diabetic retinopathy study LS: least-square | BCVA: best corrected visual acuity; BCVA assessments after start of alternative DME treatment in the study eye were censored and replaced by the last value prior to start of this alternative treatment. ETDRS: early treatment diabetic retinopathy study LS: least-square | BCVA: best corrected visual acuity; BCVA assessments after start of alternative DME treatment in the study eye were censored and replaced by the last value prior to start of this alternative treatment. ETDRS: early treatment diabetic retinopathy study LS: least-square | BCVA: best corrected visual acuity; BCVA assessments after start of alternative DME treatment in the study eye were censored and replaced by the last value prior to start of this alternative treatment. ETDRS: early treatment diabetic retinopathy study LS: least-square | BCVA: best corrected visual acuity; BCVA assessments after start of alternative DME treatment in the study eye were censored and replaced by the last value prior to start of this alternative treatment. ETDRS: early treatment diabetic retinopathy study LS: least-square | BCVA: best corrected visual acuity; BCVA assessments after start of alternative DME treatment in the study eye were censored and replaced by the last value prior to start of this alternative treatment. ETDRS: early treatment diabetic retinopathy study LS: least-square | BCVA: best corrected visual acuity; BCVA assessments after start of alternative DME treatment in the study eye were censored and replaced by the last value prior to start of this alternative treatment. ETDRS: early treatment diabetic retinopathy study LS: least-square | BCVA: best corrected visual acuity; BCVA assessments after start of alternative DME treatment in the study eye were censored and replaced by the last value prior to start of this alternative treatment. ETDRS: early treatment diabetic retinopathy study LS: least-square |
 
 ## KESTREL
 
@@ -521,11 +531,11 @@ Figure 2 Mean change in visual acuity from baseline to week 100 in KESTREL and K
 
 <!-- image -->
 
-<div style=\"page-break-after: always\"></div>
-
 These visual acuity gains were achieved with 55% and 50% of patients treated with Beovu on a 12weekly dosing interval at week 52, and 44% and 37% of patients treated with Beovu on a 12-weekly or 12-weekly/16-weekly dosing interval at week 100 in KESTREL and KITE, respectively. Among patients identified as eligible for the 12-weekly regimen during the first 12-week interval, approximately 70% remained on at least the 12-weekly interval at week 100 in both studies. In KITE, 25% of patients were treated with Beovu on a 16-weekly dosing interval at week 100.
 
 Treatment effects in evaluable subgroups (e.g. age, gender, baseline HbA1c, baseline visual acuity, baseline central subfield thickness, DME lesion type, duration of DME since diagnosis, retinal fluid status) in each study were generally consistent with the results in the overall populations.
+
+<div style=\"page-break-after: always\"></div>
 
 In KESTREL and KITE, disease activity was assessed throughout the studies by changes in visual acuity and/or anatomical parameters, including CST and/or presence of IRF/SRF. The reduction in CST from baseline was maintained up to week 100. At week 100, the proportion of patients with IRF/SRF was lower in patients treated with Beovu (42% KESTREL and 41% KITE) compared to patients treated with aflibercept 2 mg (54% KESTREL and 57% KITE).
 
@@ -549,8 +559,6 @@ Brolucizumab is a monoclonal antibody fragment and no metabolism studies have be
 
 After intravitreal injections, brolucizumab was eliminated with an apparent systemic half-life of 4.3 ± 1.9 days. Concentrations were generally near or below the quantitation limit (&lt;0.5 ng/ml) approximately 4 weeks after dosing in most patients. Brolucizumab did not accumulate in the serum when administered intravitreally every 4 weeks.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Special populations
 
 ## Elderly
@@ -560,6 +568,8 @@ There were no relevant differences in systemic pharmacokinetics following intrav
 ## Renal impairment
 
 The systemic pharmacokinetics of brolucizumab was evaluated in nAMD patients with normal renal function (≥90 ml/min [n=21]), with mild (60 to &lt;90 ml/min [n=22]) or moderate (30 to &lt;60 ml/min [n=7]) renal impairment. While the mean systemic clearance values for patients with mild or moderate renal impairment were generally lower than patients with normal renal function, no significant impact of mild and moderate renal impairment on the overall systemic exposure to brolucizumab was observed. No patients with severe (&lt;30 ml/min) renal impairment were studied.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Hepatic impairment
 
@@ -589,17 +599,15 @@ Pre-filled syringe: 2 years Vial: 2 years
 
 ## Pre-filled syringe
 
-Store in a refrigerator (2°C - 8°C ) .
-
-<div style=\"page-break-after: always\"></div>
-
-## Do not freeze.
+Store in a refrigerator (2°C - 8°C ) . Do not freeze.
 
 Keep the pre-filled syringe in its sealed blister and in the outer carton in order to protect from light. Prior to use, the unopened blister may be kept at room temperature (below 25°C) for up to 24 hours.
 
 ## Vial
 
 Store in a refrigerator (2°C - 8°C ) . Do not freeze. Keep the vial in the outer carton in order to protect from light. Prior to use, the unopened vial may be kept at room temperature (below 25°C) for up to 24 hours.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 6.5 Nature and contents of container
 
@@ -631,27 +639,23 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## Vial
 
-The vial contains more than the recommended dose of 6 mg. The extractable volume of the vial (0.23 ml) is not to be used in total. The excess volume should be expelled prior to injection. Injecting
-
-<div style=\"page-break-after: always\"></div>
-
-the entire volume of the vial could result in overdose. The injection dose must be set to the 0.05 ml dose mark, i.e. 6 mg brolucizumab.
+The vial contains more than the recommended dose of 6 mg. The extractable volume of the vial (0.23 ml) is not to be used in total. The excess volume should be expelled prior to injection. Injecting the entire volume of the vial could result in overdose. The injection dose must be set to the 0.05 ml dose mark, i.e. 6 mg brolucizumab.
 
 The solution should be inspected visually upon removal from the refrigerator and prior to administration. If particulates or cloudiness are visible, the vial must not be used, and appropriate replacement procedures must be followed.
 
-The content of the vial and the filter needle are sterile and for single use only. Do not use if the packaging, vial and/or filter needle are damaged or expired. Detailed instructions for use are provided
+The content of the vial and the filter needle are sterile and for single use only. Do not use if the packaging, vial and/or filter needle are damaged or expired. Detailed instructions for use are provided in the package leaflet.
 
-in the package leaflet.
+<div style=\"page-break-after: always\"></div>
 
-Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
+Any unused medicinal product or waste material should be disposed of in accordance with local
+
+requirements.
 
 7.
 
 MARKETING AUTHORISATION HOLDER
 
-Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4
-
-Ireland
+Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Ireland
 
 8.
 
@@ -659,7 +663,9 @@ MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/19/1417/001-002
 
-## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
+9.
+
+DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
 Date of first authorisation: 13 February 2020
 
@@ -671,7 +677,7 @@ DATE OF REVISION OF THE TEXT
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
-20
+21
 
 <div style=\"page-break-after: always\"></div>
 
@@ -698,7 +704,9 @@ Solution for injection in pre-filled syringe Novartis Manufacturing NV Rijksweg 
 
 Novartis Pharma GmbH Sophie-Germain-Strasse 10 90443 Nuremberg Germany
 
-Solution for injection Novartis Manufacturing NV Rijksweg 14 2870 Puurs-Sint-Amands Belgium
+Solution for injection Novartis Pharmaceutical Manufacturing LLC Verovškova Ulica 57 1000 Ljubljana Slovenia
+
+Novartis Manufacturing NV Rijksweg 14 2870 Puurs-Sint-Amands Belgium
 
 Novartis Farmacéutica, S.A. Gran Via de les Corts Catalanes, 764 08013 Barcelona Spain
 
@@ -818,7 +826,15 @@ Keep the pre-filled syringe in its sealed blister and in the outer carton in ord
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Ireland
+Novartis Europharm Limited
+
+Vista Building
+
+Elm Park, Merrion Road
+
+Dublin 4
+
+Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -830,7 +846,7 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-## 15. INSTRUCTIONS ON USE
+15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -850,12 +866,12 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| PARTICULARS TO APPEAR ON THE OUTER PACKAGING                       |
+| PARTICULARS TO APPEAR ONTHEOUTERPACKAGING                          |
 |--------------------------------------------------------------------|
 | PEEL-OFF LABEL AFFIXED TO INNER LID OF CARTON - PRE-FILLED SYRINGE |
 
-| 1.   | NAME OF THE MEDICINAL PRODUCT   |
-|------|---------------------------------|
+| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
+|------|------------------------------|
 
 Beovu
 
@@ -869,7 +885,7 @@ EXP
 
 Lot
 
-28
+29
 
 <div style=\"page-break-after: always\"></div>
 
@@ -895,17 +911,16 @@ Lot
 
 ## 5. OTHER
 
-0.165 ml
+0.165 ml Beovu 120 mg/ml injection brolucizumab Intravitreal use
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
-|--------------------------------------------------------------------|
-| LABEL - PRE-FILLED SYRINGE                                         |
+| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
+|------------------------------------------------------------------|
+| LABEL - PRE-FILLED SYRINGE                                       |
 
-## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
-
-Beovu 120 mg/ml injection brolucizumab Intravitreal use
+| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|-------------------------------------------------------------|
 
 ## 2. METHOD OF ADMINISTRATION
 
@@ -919,7 +934,8 @@ EXP
 
 Lot
 
-## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
+| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
+|------|---------------------------------------|
 
 19.8 mg/0.165 ml
 
@@ -934,7 +950,9 @@ CARTON -VIAL
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Beovu 120 mg/ml solution for injection brolucizumab
+Beovu 120 mg/ml solution for injection
+
+brolucizumab
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -1010,7 +1028,7 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-## 15. INSTRUCTIONS ON USE
+15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -1030,17 +1048,17 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
-|--------------------------------------------------------------------|
-| LABEL - VIAL                                                       |
+| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
+|------------------------------------------------------------------|
+| LABEL - VIAL                                                     |
 
-| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|----------------------------------------------------------------|
+| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|-------------------------------------------------------------|
 
 Beovu 120 mg/ml injection brolucizumab Intravitreal use
 
-| 2.   | METHOD OF ADMINISTRATION   |
-|------|----------------------------|
+| 2.   | METHODOFADMINISTRATION   |
+|------|--------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -1052,8 +1070,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
-|------|--------------------------------------------|
+| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
+|------|---------------------------------------|
 
 27.6 mg/0.23 ml
 
@@ -1104,15 +1122,15 @@ Beovu is used to treat eye conditions in adults which occur when abnormal blood 
 
 Beovu may slow down disease progression and thereby maintain, or even improve, your vision.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 2. What you need to know before you are given Beovu
 
 ## You must not be given Beovu:
 
 - -if you are allergic to brolucizumab or any of the other ingredients of this medicine (listed in section 6).
-
-<div style=\"page-break-after: always\"></div>
-
-- -if you have an active or suspected infection in or around the eye.
+- -
+- if you have an active or suspected infection in or around the eye.
 - -if you have pain or redness in your eye (eye inflammation).
 
 If any of these applies to you, tell your doctor. You should not be given Beovu.
@@ -1229,11 +1247,11 @@ Get immediate medical help if you have any of the following, which are signs of 
 
 If you have any serious side effects, tell your doctor immediately.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Other possible side effects
 
 Other side effects which may occur after Beovu treatment include those listed below.
-
-<div style=\"page-break-after: always\"></div>
 
 Most of the side effects are mild to moderate and will generally disappear within a week after each injection.
 
@@ -1281,13 +1299,13 @@ If these side effects become severe, please tell your doctor.
 
 If you get any side effects, talk to your doctor. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 5. How to store Beovu
 
 Keep this medicine out of the sight and reach of children.
 
 Do not use this medicine after the expiry date which is stated on the carton and label after EXP. The expiry date refers to the last day of that month.
-
-<div style=\"page-break-after: always\"></div>
 
 Store in a refrigerator (2°C - 8°C).
 
@@ -1318,15 +1336,11 @@ Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Irelan
 
 Novartis Manufacturing NV Rijksweg 14 2870 Puurs-Sint-Amands Belgium
 
-Novartis Pharma GmbH Sophie-Germain-Strasse 10 90443 Nuremberg Germany
-
-For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
+Novartis Pharma GmbH Sophie-Germain-Strasse 10 90443 Nuremberg Germany For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 ## België/Belgique/Belgien
 
-Novartis Pharma N.V.
-
-Tél/Tel: +32 2 246 16 11
+Novartis Pharma N.V. Tél/Tel: +32 2 246 16 11
 
 ## Lietuva
 
@@ -1334,17 +1348,11 @@ SIA Novartis Baltics Lietuvos filialas Tel: +370 5 269 16 50
 
 ## България
 
-Novartis Bulgaria EOOD
-
-Тел.: +359 2 489 98 28
+Novartis Bulgaria EOOD Тел.: +359 2 489 98 28
 
 ## Luxembourg/Luxemburg
 
-Novartis Pharma N.V.
-
-Tél/Tel: +32 2 246 16 11
-
-<div style=\"page-break-after: always\"></div>
+Novartis Pharma N.V. Tél/Tel: +32 2 246 16 11
 
 ## Česká republika
 
@@ -1352,17 +1360,25 @@ Novartis s.r.o.
 
 Tel: +420 225 775 111
 
+## Magyarország
+
+Novartis Hungária Kft. Tel.: +36 1 457 65 00
+
 ## Danmark
 
-Novartis Healthcare A/S
+Novartis Healthcare A/S Tlf.: +45 39 16 84 00
 
-Tlf.: +45 39 16 84 00
+## Malta
+
+Novartis Pharma Services Inc. Tel: +356 2122 2872
 
 ## Deutschland
 
-Novartis Pharma GmbH
+Novartis Pharma GmbH Tel: +49 911 273 0
 
-Tel: +49 911 273 0
+## Nederland
+
+Novartis Pharma B.V. Tel: +31 88 04 52 111
 
 ## Eesti
 
@@ -1370,9 +1386,17 @@ SIA Novartis Baltics Eesti filiaal
 
 Tel: +372 66 30 810
 
+## Norge
+
+Novartis Norge AS Tlf: +47 23 05 20 00
+
 ## Ελλάδα
 
-Novartis (Hellas) A.E.B.E. Τηλ: +30 210 281 17 12
+Novartis (Hellas) A.E.B.E. Τηλ : +30 210 281 17 12
+
+## Österreich
+
+Novartis Pharma GmbH Tel: +43 1 86 6570
 
 ## España
 
@@ -1380,29 +1404,69 @@ Novartis Farmacéutica, S.A.
 
 Tel: +34 93 306 42 00
 
+## Polska
+
+Novartis Poland Sp. z o.o. Tel.: +48 22 375 4888
+
 ## France
 
-Novartis Pharma S.A.S. Tél: +33 1 55 47 66 00
+Novartis Pharma S.A.S.
+
+Tél: +33 1 55 47 66 00
+
+## Portugal
+
+Novartis Farma - Produtos Farmacêuticos, S.A. Tel: +351 21 000 8600
 
 ## Hrvatska
 
 Novartis Hrvatska d.o.o. Tel. +385 1 6274 220
 
+## România
+
+Novartis Pharma Services Romania SRL Tel: +40 21 31299 01
+
 ## Ireland
 
-Novartis Ireland Limited Tel: +353 1 260 12 55
+Novartis Ireland Limited
+
+Tel: +353 1 260 12 55
+
+## Slovenija
+
+Novartis Pharma Services Inc. Tel: +386 1 300 75 50
 
 ## Ísland
 
-Vistor hf. Sími: +354 535 7000
+Vistor hf.
+
+Sími: +354 535 7000
+
+## Slovenská republika
+
+Novartis Slovakia s.r.o. Tel: +421 2 5542 5439
 
 ## Italia
 
-Novartis Farma S.p.A. Tel: +39 02 96 54 1
+Novartis Farma S.p.A.
+
+Tel: +39 02 96 54 1
+
+## Suomi/Finland
+
+Novartis Finland Oy
+
+Puh/Tel: +358 (0)10 6133 200
+
+<div style=\"page-break-after: always\"></div>
+
+<div style=\"page-break-after: always\"></div>
 
 ## Κύπρος
 
-Novartis Pharma Services Inc. Τηλ: +357 22 690 690
+Novartis Pharma Services Inc.
+
+Τηλ: +357 22 690 690
 
 ## Latvija
 
@@ -1412,65 +1476,15 @@ Tel: +371 67 887 070
 
 ## This leaflet was last revised in
 
-## Magyarország
-
-Novartis Hungária Kft. Tel.: +36 1 457 65 00
-
-## Malta
-
-Novartis Pharma Services Inc. Tel: +356 2122 2872
-
-## Nederland
-
-Novartis Pharma B.V.
-
-Tel: +31 88 04 52 111
-
-## Norge
-
-Novartis Norge AS Tlf: +47 23 05 20 00
-
-## Österreich
-
-Novartis Pharma GmbH
-
-Tel: +43 1 86 6570
-
-## Polska
-
-Novartis Poland Sp. z o.o. Tel.: +48 22 375 4888
-
-## Portugal
-
-Novartis Farma - Produtos Farmacêuticos, S.A. Tel: +351 21 000 8600
-
-## România
-
-Novartis Pharma Services Romania SRL Tel: +40 21 31299 01
-
-## Slovenija
-
-Novartis Pharma Services Inc. Tel: +386 1 300 75 50
-
-## Slovenská republika
-
-Novartis Slovakia s.r.o.
-
-Tel: +421 2 5542 5439
-
-## Suomi/Finland
-
-Novartis Finland Oy Puh/Tel: +358 (0)10 6133 200
-
-## Sverige
-
-Novartis Sverige AB Tel: +46 8 732 32 00
-
-<div style=\"page-break-after: always\"></div>
-
 ## Other sources of information
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu
+
+## Sverige
+
+Novartis Sverige AB
+
+Tel: +46 8 732 32 00
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1514,13 +1528,21 @@ Ensure that the injection is given immediately after preparation of the dose (st
 
 <!-- image -->
 
+|   1. | Peel the lid off the syringe blister and, using aseptic technique, remove the syringe.                                                                                                                                                                                       |
+|------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|   2. | Snap off (do not turn or twist) the syringe cap.                                                                                                                                                                                                                             |
+|   3. | Aseptically and firmly assemble a 30G x ½' injection needle onto the syringe.                                                                                                                                                                                                |
+|   4. | To check for air bubbles, hold the syringe with the needle pointing up. If there are any air bubbles, gently tap the syringe with your finger until the bubbles rise to the top. Carefully remove the needle cap by pulling it straight off.                                 |
+|   5. | Hold the syringe at eye level and carefully push the plunger until the edge below the dome of the rubber stopper is aligned with the 0.05 ml dose mark. This will expel the air and the excess solution and set the dose to 0.05 ml. The syringe is ready for the injection. |
+|   6. | Inject slowly until the rubber stopper reaches the end of the syringe to deliver the volume of 0.05 ml. Confirm delivery of the full dose by checking that the rubber stopper has reached the end of the syringe barrel.                                                     |
+
 Note: Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
 <div style=\"page-break-after: always\"></div>
 
 ## Commonly asked questions and answers
 
-- Q: What if I cannot remove all the air bubbles from the liquid?
+Q: What if I cannot remove all the air bubbles from the liquid?
 
 A: It is important that the liquid is air free. However, tiny air bubbles that are attached to the stopper usually do not detach from the stopper during the injection and therefore do not affect the dose volume.
 
@@ -1564,14 +1586,13 @@ Beovu is used to treat eye conditions in adults which occur when abnormal blood 
 
 Beovu may slow down disease progression and thereby maintain, or even improve, your vision.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 2. What you need to know before you are given Beovu
 
 ## You must not be given Beovu:
 
 - -if you are allergic to brolucizumab or any of the other ingredients of this medicine (listed in section 6).
-
-<div style=\"page-break-after: always\"></div>
-
 - -if you have an active or suspected infection in or around the eye.
 - -if you have pain or redness in your eye (eye inflammation).
 
@@ -1658,6 +1679,22 @@ Starting treatment (also called loading treatment)
 - -You will be treated with one injection every six weeks for the first five injections.
 - -After that, you may get one injection every 3 months. Your doctor will determine your treatment interval based on the condition of your eye. Some patients may need treatment every 2 months. Some patients may receive treatment every 4 months.
 
+First 5 doses,
+
+once every
+
+weeks
+
+For the first 5 doses, 1 injection every 6 weeks
+
+After that, once every
+
+weeks
+
+Then, 1 injection every 12 weeks (3 months) or as recommended by your doctor
+
+12
+
 <!-- image -->
 
 ## Method of administration
@@ -1689,11 +1726,11 @@ Get immediate medical help if you have any of the following, which are signs of 
 
 If you have any serious side effects, tell your doctor immediately.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Other possible side effects
 
 Other side effects which may occur after Beovu treatment include those listed below.
-
-<div style=\"page-break-after: always\"></div>
 
 Most of the side effects are mild to moderate and will generally disappear within a week after each injection.
 
@@ -1741,13 +1778,13 @@ If these side effects become severe, please tell your doctor.
 
 If you get any side effects, talk to your doctor. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 5. How to store Beovu
 
 Keep this medicine out of the sight and reach of children.
 
 Do not use this medicine after the expiry date which is stated on the carton and label after EXP. The expiry date refers to the last day of that month.
-
-<div style=\"page-break-after: always\"></div>
 
 Store in a refrigerator (2°C - 8°C).
 
@@ -1776,89 +1813,27 @@ Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Irelan
 
 ## Manufacturer
 
-Novartis Manufacturing NV Rijksweg 14 2870 Puurs-Sint-Amands Belgium
+Novartis Pharmaceutical Manufacturing LLC Verovškova Ulica 57 1000 Ljubljana Slovenia
 
-Novartis Farmacéutica, S.A. Gran Via de les Corts Catalanes, 764 08013 Barcelona Spain
+## Novartis Manufacturing NV
 
-Lek Pharmaceuticals d.d. Verovškova ulica 57 Ljubljana, 1526 Slovenia
+Rijksweg 14 2870 Puurs-Sint-Amands Belgium
 
-Novartis Pharma GmbH Sophie-Germain-Strasse 10 90443 Nuremberg Germany
+Novartis Farmacéutica, S.A. Gran Via de les Corts Catalanes, 764 08013 Barcelona Spain Lek Pharmaceuticals d.d. Verovškova ulica 57 Ljubljana, 1526 Slovenia Novartis Pharma GmbH Sophie-Germain-Strasse 10 90443 Nuremberg Germany For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 <div style=\"page-break-after: always\"></div>
 
-For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
-
 ## België/Belgique/Belgien
 
+## Lietuva
+
 Novartis Pharma N.V. Tél/Tel: +32 2 246 16 11
+
+SIA Novartis Baltics Lietuvos filialas Tel: +370 5 269 16 50
 
 ## България
 
 Novartis Bulgaria EOOD Тел.: +359 2 489 98 28
-
-## Česká republika
-
-Novartis s.r.o.
-
-Tel: +420 225 775 111
-
-## Danmark
-
-Novartis Healthcare A/S Tlf.: +45 39 16 84 00
-
-## Deutschland
-
-Novartis Pharma GmbH
-
-Tel: +49 911 273 0
-
-## Eesti
-
-SIA Novartis Baltics Eesti filiaal
-
-Tel: +372 66 30 810
-
-## Ελλάδα
-
-Novartis (Hellas) A.E.B.E. Τηλ: +30 210 281 17 12
-
-## España
-
-Novartis Farmacéutica, S.A.
-
-Tel: +34 93 306 42 00
-
-## France
-
-Novartis Pharma S.A.S.
-
-Tél: +33 1 55 47 66 00
-
-## Hrvatska
-
-Novartis Hrvatska d.o.o. Tel. +385 1 6274 220
-
-## Ireland
-
-Novartis Ireland Limited
-
-Tel: +353 1 260 12 55
-
-## Ísland
-
-Vistor hf.
-
-Sími: +354 535 7000
-
-## Italia
-
-Novartis Farma S.p.A.
-
-Tel: +39 02 96 54 1
-
-## Lietuva
-
-SIA Novartis Baltics Lietuvos filialas Tel: +370 5 269 16 50
 
 ## Luxembourg/Luxemburg
 
@@ -1866,41 +1841,109 @@ Novartis Pharma N.V.
 
 Tél/Tel: +32 2 246 16 11
 
+## Česká republika
+
+Novartis s.r.o.
+
+Tel: +420 225 775 111
+
 ## Magyarország
 
-Novartis Hungária Kft. Tel.: +36 1 457 65 00
+Novartis Hungária Kft.
+
+Tel.: +36 1 457 65 00
+
+## Danmark
+
+Novartis Healthcare A/S Tlf.: +45 39 16 84 00
 
 ## Malta
 
 Novartis Pharma Services Inc. Tel: +356 2122 2872
 
+## Deutschland
+
+Novartis Pharma GmbH
+
+Tel: +49 911 273 0
+
 ## Nederland
 
-Novartis Pharma B.V. Tel: +31 88 04 52 111
+Novartis Pharma B.V.
+
+Tel: +31 88 04 52 111
+
+## Eesti
+
+SIA Novartis Baltics Eesti filiaal
+
+Tel: +372 66 30 810
 
 ## Norge
 
-Novartis Norge AS Tlf: +47 23 05 20 00
+Novartis Norge AS
+
+Tlf: +47 23 05 20 00
+
+## Ελλάδα
+
+Novartis (Hellas) A.E.B.E. Τηλ: +30 210 281 17 12
 
 ## Österreich
 
-Novartis Pharma GmbH Tel: +43 1 86 6570
+Novartis Pharma GmbH
+
+Tel: +43 1 86 6570
+
+## España
+
+Novartis Farmacéutica, S.A.
+
+Tel: +34 93 306 42 00
 
 ## Polska
 
-Novartis Poland Sp. z o.o. Tel.: +48 22 375 4888
+Novartis Poland Sp. z o.o.
+
+Tel.: +48 22 375 4888
+
+## France
+
+Novartis Pharma S.A.S.
+
+Tél: +33 1 55 47 66 00
 
 ## Portugal
 
 Novartis Farma - Produtos Farmacêuticos, S.A. Tel: +351 21 000 8600
 
+## Hrvatska
+
+Novartis Hrvatska d.o.o. Tel. +385 1 6274 220
+
 ## România
 
-Novartis Pharma Services Romania SRL Tel: +40 21 31299 01
+Novartis Pharma Services Romania SRL
+
+Tel: +40 21 31299 01
+
+## Ireland
+
+Novartis Ireland Limited
+
+Tel: +353 1 260 12 55
 
 ## Slovenija
 
-Novartis Pharma Services Inc. Tel: +386 1 300 75 50
+Novartis Pharma Services Inc.
+
+Tel: +386 1 300 75 50
+
+## Ísland
+
+Vistor hf.
+
+Sími: +354 535 7000
 
 ## Slovenská republika
 
@@ -1908,19 +1951,31 @@ Novartis Slovakia s.r.o.
 
 Tel: +421 2 5542 5439
 
+## Italia
+
+Novartis Farma S.p.A.
+
+Tel: +39 02 96 54 1
+
 ## Suomi/Finland
 
 Novartis Finland Oy
 
 Puh/Tel: +358 (0)10 6133 200
 
-<div style=\"page-break-after: always\"></div>
-
 ## Κύπρος
 
 Novartis Pharma Services Inc.
 
 Τηλ: +357 22 690 690
+
+## Sverige
+
+Novartis Sverige AB
+
+Tel: +46 8 732 32 00
+
+<div style=\"page-break-after: always\"></div>
 
 ## Latvija
 
@@ -1932,17 +1987,9 @@ Tel: +371 67 887 070
 
 ## Other sources of information
 
-Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu
-
-## Sverige
-
-Novartis Sverige AB
-
-Tel: +46 8 732 32 00
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu The following information is intended for healthcare professionals only:
 
 <div style=\"page-break-after: always\"></div>
-
-The following information is intended for healthcare professionals only:
 
 ## Instructions for use of vial
 
@@ -1994,12 +2041,12 @@ Ensure that the injection is given immediately after preparation of the dose (st
 
 |   1. | Remove the vial cap and clean the vial septum (e.g. with 70% alcohol swab).                                                                                                                                                                               |
 |------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|    2 | Assemble the filter needle onto a 1 ml syringe using aseptic technique.                                                                                                                                                                                   |
-|    3 | Push the filter needle into the centre of the vial septum until the needle touches the bottom of the vial.                                                                                                                                                |
-|    4 | To withdraw the liquid, hold the vial slightly inclined and slowly withdraw all the liquid from the vial and filter needle. Ensure that the plunger rod is drawn sufficiently back when emptying the vial in order to completely empty the filter needle. |
-|    5 | Disconnect the filter needle from the syringe in an aseptic manner and dispose of it. The filter needle is not to be used for intravitreal injection.                                                                                                     |
-|    6 | Aseptically and firmly assemble a 30G x ½' injection needle onto the syringe.                                                                                                                                                                             |
-|    7 | To check for air bubbles, hold the syringe with the needle pointing up. If there are any air bubbles, gently tap the syringe with your finger until the bubbles rise to the top.                                                                          |
+|   2. | Assemble the filter needle onto a 1 ml syringe using aseptic technique.                                                                                                                                                                                   |
+|   3. | Push the filter needle into the centre of the vial septum until the needle touches the bottom of the vial.                                                                                                                                                |
+|   4. | To withdraw the liquid, hold the vial slightly inclined and slowly withdraw all the liquid from the vial and filter needle. Ensure that the plunger rod is drawn sufficiently back when emptying the vial in order to completely empty the filter needle. |
+|   5. | Disconnect the filter needle from the syringe in an aseptic manner and dispose of it. The filter needle is not to be used for intravitreal injection.                                                                                                     |
+|   6. | Aseptically and firmly assemble a 30G x ½' injection needle onto the syringe.                                                                                                                                                                             |
+|   7. | To check for air bubbles, hold the syringe with the needle pointing up. If there are any air bubbles, gently tap the syringe with your finger until the bubbles rise to the top.                                                                          |
 
 <div style=\"page-break-after: always\"></div>
 

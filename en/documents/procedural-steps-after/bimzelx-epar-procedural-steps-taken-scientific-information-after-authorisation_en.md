@@ -4,8 +4,8 @@ document_pages: 5
 document_pathfilename: www.ema.europa.eu/en/documents/procedural-steps-after/bimzelx-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
 document_name: bimzelx-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
 version: success
-processing_time: 6.0650346
-conversion_datetime: 2026-05-10 13:12:25.779569
+processing_time: 11.3690279
+conversion_datetime: 2026-05-10 13:17:33.493778
 docling_version:
   docling-serve: 1.17.0
   docling-jobkit: 1.18.0

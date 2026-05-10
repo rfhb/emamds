@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-11-05 17:49:39
+document_datetime: 2026-05-08 10:16:33
 document_pages: 223
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/rivaroxaban-viatris-epar-product-information_en.pdf
 document_name: rivaroxaban-viatris-epar-product-information_en.pdf
 version: success
-processing_time: 76.8359869
-conversion_datetime: 2025-12-19 14:08:45.932741
+processing_time: 97.9618004
+conversion_datetime: 2026-05-10 11:57:40.511607
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.17.0
+  docling-jobkit: 1.18.0
+  docling: 2.92.0
+  docling-core: 2.74.1
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.10.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -30,7 +30,7 @@ Rivaroxaban Viatris 2.5 mg film-coated tablets
 
 Each film-coated tablet contains 2.5 mg rivaroxaban.
 
-## Excipient with known effect
+Excipient with known effect
 
 Each film-coated tablet contains 19.24 mg lactose (as monohydrate), see section 4.4.
 
@@ -56,7 +56,7 @@ Posology
 
 The recommended dose is 2.5 mg twice daily.
 
-## · ACS
+- ACS
 
 Patients taking Rivaroxaban Viatris 2.5 mg twice daily should also take a daily dose of 75 - 100 mg ASA or a daily dose of 75 - 100 mg ASA in addition to either a daily dose of 75 mg clopidogrel or a standard daily dose of ticlopidine.
 
@@ -105,11 +105,9 @@ For patients currently receiving a parenteral anticoagulant, discontinue the par
 
 Give the first dose of parenteral anticoagulant at the time the next Rivaroxaban Viatris dose would be taken.
 
-Special populations Renal impairment
+Special populations Renal impairment Limited clinical data for patients with severe renal impairment (creatinine clearance 15 - 29 ml/min) indicate that rivaroxaban plasma concentrations are significantly increased. Therefore, Rivaroxaban Viatris is to be used with caution in these patients. Use is not recommended in patients with creatinine clearance &lt; 15 ml/min (see sections 4.4 and 5.2).
 
 <div style=\"page-break-after: always\"></div>
-
-Limited clinical data for patients with severe renal impairment (creatinine clearance 15 - 29 ml/min) indicate that rivaroxaban plasma concentrations are significantly increased. Therefore, Rivaroxaban Viatris is to be used with caution in these patients. Use is not recommended in patients with creatinine clearance &lt; 15 ml/min (see sections 4.4 and 5.2).
 
 No dose adjustment is necessary in patients with mild renal impairment (creatinine clearance 50 80 ml/min) or moderate renal impairment (creatinine clearance 30 - 49 ml/min) (see section 5.2).
 
@@ -137,21 +135,19 @@ The safety and efficacy of Rivaroxaban Viatris 2.5 mg tablets in children aged 0
 
 ## Method of administration
 
-## Rivaroxaban Viatris is for oral use.
+Rivaroxaban Viatris is for oral use.
 
 The tablets can be taken with or without food (see sections 4.5 and 5.2).
 
 ## Crushing of tablets
 
-For patients who are unable to swallow whole tablets, Rivaroxaban Viatris tablets may be crushed and mixed with water or apple puree immediately prior to use and administered orally.
-
-The crushed Rivaroxaban Viatris tablets may also be given through gastric tubes (see sections 5.2 and 6.6).
+For patients who are unable to swallow whole tablets, Rivaroxaban Viatris tablets may be crushed and mixed with water or apple puree immediately prior to use and administered orally. The crushed Rivaroxaban Viatris tablets may also be given through gastric tubes (see sections 5.2 and 6.6).
 
 ## 4.3 Contraindications
 
 Hypersensitivity to the active substance or to any of the excipients listed in section 6.1.
 
-Active clinically significant bleeding.
+## Active clinically significant bleeding.
 
 Lesion or condition, if considered to be a significant risk for major bleeding. This may include current or recent gastrointestinal ulceration, presence of malignant neoplasms at high risk of bleeding, recent brain or spinal injury, recent brain, spinal or ophthalmic surgery, recent intracranial haemorrhage, known or suspected oesophageal varices, arteriovenous malformations, vascular aneurysms or major intraspinal or intracerebral vascular abnormalities.
 
@@ -183,7 +179,9 @@ As with other anticoagulants, patients taking Rivaroxaban Viatris are to be care
 
 In the clinical studies mucosal bleedings (i.e. epistaxis, gingival, gastrointestinal, genito urinary including abnormal vaginal or increased menstrual bleeding) and anaemia were seen more frequently during long term rivaroxaban treatment on top of single or dual anti-platelet therapy. Thus, in addition to adequate clinical surveillance, laboratory testing of haemoglobin/haematocrit could be of value to detect occult bleeding and quantify the clinical relevance of overt bleeding, as judged to be appropriate.
 
-Several sub-groups of patients, as detailed below, are at increased risk of bleeding. Therefore, the use of Rivaroxaban Viatris in combination with dual antiplatelet therapy in patients at known increased risk for bleeding should be balanced against the benefit in terms of prevention of atherothrombotic events. In addition these patients are to be carefully monitored for signs and symptoms of bleeding complications and anaemia after initiation of treatment (see section 4.8). Any unexplained fall in haemoglobin or blood pressure should lead to a search for a bleeding site.
+Several sub-groups of patients, as detailed below, are at increased risk of bleeding. Therefore, the use of Rivaroxaban Viatris in combination with dual antiplatelet therapy in patients at known increased risk for bleeding should be balanced against the benefit in terms of prevention of atherothrombotic events. In addition these patients are to be carefully monitored for signs and symptoms of bleeding complications and anaemia after initiation of treatment (see section 4.8).
+
+Any unexplained fall in haemoglobin or blood pressure should lead to a search for a bleeding site.
 
 Although treatment with rivaroxaban does not require routine monitoring of exposure, rivaroxaban levels measured with a calibrated quantitative anti-factor Xa assay may be useful in exceptional situations where knowledge of rivaroxaban exposure may help to inform clinical decisions, e.g. overdose and emergency surgery (see sections 5.1 and 5.2).
 
@@ -199,7 +197,9 @@ In patients with moderate renal impairment (creatinine clearance 30 - 49 ml/min)
 
 The use of Rivaroxaban Viatris is not recommended in patients receiving concomitant systemic treatment with azole-antimycotics (such as ketoconazole, itraconazole, voriconazole and posaconazole) or HIV protease inhibitors (e.g. ritonavir). These active substances are strong inhibitors of both CYP3A4 and P-gp and therefore may increase rivaroxaban plasma concentrations to a clinically relevant degree (2.6 fold on average) which may lead to an increased bleeding risk (see section 4.5).
 
-Care is to be taken if patients are treated concomitantly with medicinal products affecting haemostasis such as non-steroidal anti-inflammatory medicinal products (NSAIDs), acetylsalicylic acid (ASA) and platelet aggregation inhibitors or selective serotonin reuptake inhibitors (SSRIs) and serotonin norepinephrine reuptake inhibitors (SNRIs). For patients at risk of ulcerative gastrointestinal disease an appropriate prophylactic treatment may be considered (see sections 4.5 and 5.1). Patients treated with Rivaroxaban Viatris and antiplatelet agents should only receive concomitant treatment with NSAIDs if the benefit outweighs the bleeding risk.
+Care is to be taken if patients are treated concomitantly with medicinal products affecting haemostasis such as non-steroidal anti-inflammatory medicinal products (NSAIDs), acetylsalicylic acid (ASA) and platelet aggregation inhibitors or selective serotonin reuptake inhibitors (SSRIs) and serotonin norepinephrine reuptake inhibitors (SNRIs). For patients at risk of ulcerative gastrointestinal disease an appropriate prophylactic treatment may be considered (see sections 4.5 and 5.1). Patients treated with Rivaroxaban Viatris and antiplatelet agents should only receive concomitant
+
+treatment with NSAIDs if the benefit outweighs the bleeding risk.
 
 ## Other haemorrhagic risk factors
 
@@ -227,13 +227,15 @@ In patients with malignant neoplasms at high risk of bleeding, the use of rivaro
 
 Rivaroxaban should not be used for thromboprophylaxis in patients having recently undergone transcatheter aortic valve replacement (TAVR). Safety and efficacy of Rivaroxaban Viatris have not been studied in patients with prosthetic heart valves; therefore, there are no data to support that Rivaroxaban Viatris provides adequate anticoagulation in this patient population. Treatment with Rivaroxaban Viatris is not recommended for these patients.
 
-Patients with antiphospholipid syndrome
+## Patients with antiphospholipid syndrome
 
 <div style=\"page-break-after: always\"></div>
 
 Direct acting Oral Anticoagulants (DOACs) including rivaroxaban are not recommended for patients with a history of thrombosis who are diagnosed with antiphospholipid syndrome. In particular for patients that are triple positive (for lupus anticoagulant, anticardiolipin antibodies, and anti-beta 2glycoprotein I antibodies), treatment with DOACs could be associated with increased rates of recurrent thrombotic events compared with vitamin K antagonist therapy.
 
-## Patients with prior stroke and/or TIA Patients with ACS
+## Patients with prior stroke and/or TIA
+
+## Patients with ACS
 
 Rivaroxaban Viatris 2.5 mg is contraindicated for the treatment of ACS in patients with a prior stroke or TIA (see section 4.3). Few ACS patients with a prior stroke or TIA have been studied but the limited efficacy data available indicate that these patients do not benefit from treatment.
 
@@ -259,11 +261,9 @@ Increasing age may increase haemorrhagic risk (see sections 5.1 and 5.2).
 
 ## Dermatological reactions
 
-Serious skin reactions, including Stevens-Johnson syndrome/toxic epidermal necrolysis and DRESS syndrome, have been reported during post-marketing surveillance in association with the use of rivaroxaban (see section 4.8). Patients appear to be at highest risk for these reactions early in the
+Serious skin reactions, including Stevens-Johnson syndrome/toxic epidermal necrolysis and DRESS syndrome, have been reported during post-marketing surveillance in association with the use of rivaroxaban (see section 4.8). Patients appear to be at highest risk for these reactions early in the course of therapy: the onset of the reaction occurring in the majority of cases within the first weeks of treatment. Rivaroxaban should be discontinued at the first appearance of a severe skin rash (e.g. spreading, intense and/or blistering), or any other sign of hypersensitivity in conjunction with mucosal lesions.
 
 <div style=\"page-break-after: always\"></div>
-
-course of therapy: the onset of the reaction occurring in the majority of cases within the first weeks of treatment. Rivaroxaban should be discontinued at the first appearance of a severe skin rash (e.g. spreading, intense and/or blistering), or any other sign of hypersensitivity in conjunction with mucosal lesions.
 
 ## Information about excipients
 
@@ -355,13 +355,13 @@ Overall, 69,608 adult patients in nineteen phase III studies and 488 paediatric 
 
 Table 1: Number of patients studied, total daily dose and maximum treatment duration in adult and paediatric phase III studies
 
-| Indication                                                                                                                                                         | Number of patients*   | Total daily dose                                                                                                                      | Maximum treatment duration   |
+| Indication                                                                                                                                                         |   Number of patients* | Total daily dose                                                                                                                      | Maximum treatment duration   |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------|---------------------------------------------------------------------------------------------------------------------------------------|------------------------------|
-| Prevention of venous thromboembolism (VTE) in adult patients undergoing elective hip or knee replacement surgery                                                   | 6,097                 | 10 mg                                                                                                                                 | 39 days                      |
-| Prevention of VTE in medically ill patients                                                                                                                        | 3,997                 | 10 mg                                                                                                                                 | 39 days                      |
-| Treatment of deep vein thrombosis (DVT), pulmonary embolism (PE) and prevention of recurrence                                                                      | 6,790                 | Day 1 - 21: 30 mg Day 22 and onwards: 20 mg After at least 6 months: 10 mg or 20 mg                                                   | 21 months                    |
-| Treatment of VTE and prevention of VTE recurrence in term neonates and children aged less than 18 years following initiation of standard anticoagulation treatment | 329                   | Body weight- adjusted dose to achieve a similar exposure as that observed in adults treated for DVT with 20 mg rivaroxaban once daily | 12 months                    |
-| Prevention of stroke and systemic embolism in patients with non- valvular atrial fibrillation                                                                      | 7,750                 | 20 mg                                                                                                                                 | 41 months                    |
+| Prevention of venous thromboembolism (VTE) in adult patients undergoing elective hip or knee replacement surgery                                                   |                 6,097 | 10 mg                                                                                                                                 | 39 days                      |
+| Prevention of VTE in medically ill patients                                                                                                                        |                 3,997 | 10 mg                                                                                                                                 | 39 days                      |
+| Treatment of deep vein thrombosis (DVT), pulmonary embolism (PE) and prevention of recurrence                                                                      |                 6,790 | Day 1 - 21: 30 mg Day 22 and onwards: 20 mg After at least 6 months: 10 mg or 20 mg                                                   | 21 months                    |
+| Treatment of VTE and prevention of VTE recurrence in term neonates and children aged less than 18 years following initiation of standard anticoagulation treatment |                   329 | Body weight- adjusted dose to achieve a similar exposure as that observed in adults treated for DVT with 20 mg rivaroxaban once daily | 12 months                    |
+| Prevention of stroke and systemic embolism in patients with non- valvular atrial fibrillation                                                                      |                 7,750 | 20 mg                                                                                                                                 | 41 months                    |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -369,10 +369,6 @@ Table 1: Number of patients studied, total daily dose and maximum treatment dura
 |------------------------------------------------------------------|----------|-------------------------------------------------------------------------------------------------------|-------------|
 | Prevention of atherothrombotic events in patients with CAD/PAD   | 18,244   | 5 mg co- administered with ASA or 10 mg alone                                                         | 47 months   |
 | Prevention of atherothrombotic events in patients with CAD/PAD   | 3,256**  | 5 mg co- administered with ASA                                                                        | 42 months   |
-
- Patients exposed to at least one dose of rivaroxaban
-
-** From the VOYAGER PAD study
 
 The most commonly reported adverse reactions in patients receiving rivaroxaban were bleedings (see section 4.4. and 'Description of selected adverse reactions' below) (Table 2). The most commonly reported bleedings were epistaxis (4.5%) and gastrointestinal tract haemorrhage (3.8%).
 
@@ -389,66 +385,56 @@ Table 2: Bleeding* and anaemia events rates in patients exposed to rivaroxaban a
 | Prevention of atherothrombotic events in patients with CAD/PAD                                                                                                     | 6.7 per 100 patient years    | 0.15 per 100 patient years**    |
 | Prevention of atherothrombotic events in patients with CAD/PAD                                                                                                     | 8.38 per 100 patient years # | 0.74 per 100 patient years*** # |
 
-* For all rivaroxaban studies all bleeding events are collected, reported and adjudicated.
-
-** In the COMPASS study, there is a low anaemia incidence as a selective approach to adverse event collection was applied
-
-*** A selective approach to adverse event collection was applied
-
-# From the VOYAGER PAD study
-
 ## Tabulated list of adverse reactions
 
 The frequencies of adverse reactions reported with rivaroxaban in adult and paediatric patients are summarised in Table 3 below by system organ class (in MedDRA) and by frequency.
 
-Frequencies are defined as: very common (≥ 1/10)
-
-common (≥ 1/100 to &lt; 1/10)
+Frequencies are defined as: very common ( ≥ 1/10) common ( ≥ 1/100 to &lt; 1/10)
 
 <div style=\"page-break-after: always\"></div>
 
-uncommon (≥ 1/1,000 to &lt; 1/100) rare (≥ 1/10,000 to &lt; 1/1,000) very rare (&lt; 1/10,000) not known (cannot be estimated from the available data)
+uncommon ( ≥ 1/1,000 to &lt; 1/100) rare ( ≥ 1/10,000 to &lt; 1/1,000) very rare (&lt; 1/10,000) not known (cannot be estimated from the available data)
 
 Table 3: All adverse reactions reported in adult patients in phase III clinical studies or through post-marketing use* and in two phase II and two phase III studies in paediatric patients
 
-| Common                                                                                                                                                                 | Uncommon                                                               | Rare                                                      | Very rare                                           | Not known                                       |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------|-----------------------------------------------------------|-----------------------------------------------------|-------------------------------------------------|
-| Blood and lymphatic system disorders                                                                                                                                   | Blood and lymphatic system disorders                                   | Blood and lymphatic system disorders                      | Blood and lymphatic system disorders                | Blood and lymphatic system disorders            |
-| Anaemia (incl. respective laboratory parameters)                                                                                                                       | Thrombocytosis (incl. platelet count increased) A , Thrombocytopenia   |                                                           |                                                     |                                                 |
-| Immune system disorders                                                                                                                                                | Immune system disorders                                                | Immune system disorders                                   | Immune system disorders                             | Immune system disorders                         |
-|                                                                                                                                                                        | Allergic reaction, Dermatitis allergic, Angioedema and allergic oedema |                                                           | Anaphylactic reactions including anaphylactic shock |                                                 |
-| Nervous system disorders                                                                                                                                               | Nervous system disorders                                               | Nervous system disorders                                  | Nervous system disorders                            | Nervous system disorders                        |
-| Dizziness, Headache                                                                                                                                                    | Cerebral and intracranial haemorrhage, Syncope                         |                                                           |                                                     |                                                 |
-| Eye disorders                                                                                                                                                          | Eye disorders                                                          | Eye disorders                                             | Eye disorders                                       | Eye disorders                                   |
-| Eye haemorrhage (incl. conjunctival haemorrhage)                                                                                                                       |                                                                        |                                                           |                                                     |                                                 |
-| Cardiac disorders                                                                                                                                                      | Cardiac disorders                                                      | Cardiac disorders                                         | Cardiac disorders                                   | Cardiac disorders                               |
-|                                                                                                                                                                        | Tachycardia                                                            |                                                           |                                                     |                                                 |
-| Vascular disorders                                                                                                                                                     | Vascular disorders                                                     | Vascular disorders                                        | Vascular disorders                                  | Vascular disorders                              |
-| Hypotension, Haematoma                                                                                                                                                 |                                                                        |                                                           |                                                     |                                                 |
-| Respiratory, thoracic and mediastinal disorders                                                                                                                        | Respiratory, thoracic and mediastinal disorders                        | Respiratory, thoracic and mediastinal disorders           | Respiratory, thoracic and mediastinal disorders     | Respiratory, thoracic and mediastinal disorders |
-| Epistaxis, Haemoptysis                                                                                                                                                 |                                                                        |                                                           | Eosinophilic pneumonia                              |                                                 |
-| Gastrointestinal disorders                                                                                                                                             | Gastrointestinal disorders                                             | Gastrointestinal disorders                                | Gastrointestinal disorders                          | Gastrointestinal disorders                      |
-| Gingival bleeding, Gastrointestinal tract haemorrhage (incl. rectal haemorrhage), Gastrointestinal and abdominal pains, Dyspepsia, Nausea, Constipation A , Diarrhoea, | Dry mouth                                                              |                                                           |                                                     |                                                 |
-| Vomiting Hepatobiliary disorders                                                                                                                                       | Vomiting Hepatobiliary disorders                                       | Vomiting Hepatobiliary disorders                          | Vomiting Hepatobiliary disorders                    | Vomiting Hepatobiliary disorders                |
-| Increase in transaminases                                                                                                                                              | Hepatic impairment, Increased bilirubin, Increased blood alkaline      | Jaundice, Bilirubin conjugated increased (with or without |                                                     |                                                 |
+| Common                                                                                                                                                                   | Uncommon                                                               | Rare                                                      | Very rare                                           | Not known                                       |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------|-----------------------------------------------------------|-----------------------------------------------------|-------------------------------------------------|
+| Blood and lymphatic system disorders                                                                                                                                     | Blood and lymphatic system disorders                                   | Blood and lymphatic system disorders                      | Blood and lymphatic system disorders                | Blood and lymphatic system disorders            |
+| Anaemia (incl. respective laboratory parameters)                                                                                                                         | Thrombocytosis (incl. platelet count increased) A , Thrombocytopenia   |                                                           |                                                     |                                                 |
+| Immune system disorders                                                                                                                                                  | Immune system disorders                                                | Immune system disorders                                   | Immune system disorders                             | Immune system disorders                         |
+|                                                                                                                                                                          | Allergic reaction, Dermatitis allergic, Angioedema and allergic oedema |                                                           | Anaphylactic reactions including anaphylactic shock |                                                 |
+| Nervous system disorders                                                                                                                                                 | Nervous system disorders                                               | Nervous system disorders                                  | Nervous system disorders                            | Nervous system disorders                        |
+| Dizziness, Headache                                                                                                                                                      | Cerebral and intracranial haemorrhage, Syncope                         |                                                           |                                                     |                                                 |
+| Eye disorders                                                                                                                                                            | Eye disorders                                                          | Eye disorders                                             | Eye disorders                                       | Eye disorders                                   |
+| Eye haemorrhage (incl. conjunctival haemorrhage)                                                                                                                         |                                                                        |                                                           |                                                     |                                                 |
+| Cardiac disorders                                                                                                                                                        | Cardiac disorders                                                      | Cardiac disorders                                         | Cardiac disorders                                   | Cardiac disorders                               |
+|                                                                                                                                                                          | Tachycardia                                                            |                                                           |                                                     |                                                 |
+| Vascular disorders                                                                                                                                                       | Vascular disorders                                                     | Vascular disorders                                        | Vascular disorders                                  | Vascular disorders                              |
+| Hypotension, Haematoma                                                                                                                                                   |                                                                        |                                                           |                                                     |                                                 |
+| Respiratory, thoracic and mediastinal disorders                                                                                                                          | Respiratory, thoracic and mediastinal disorders                        | Respiratory, thoracic and mediastinal disorders           | Respiratory, thoracic and mediastinal disorders     | Respiratory, thoracic and mediastinal disorders |
+| Epistaxis, Haemoptysis                                                                                                                                                   |                                                                        |                                                           | Eosinophilic pneumonia                              |                                                 |
+| Gastrointestinal disorders                                                                                                                                               | Gastrointestinal disorders                                             | Gastrointestinal disorders                                | Gastrointestinal disorders                          | Gastrointestinal disorders                      |
+| Gingival bleeding, Gastrointestinal tract haemorrhage (incl. rectal haemorrhage), Gastrointestinal and abdominal pains, Dyspepsia, Nausea, Constipation A , Diarrhoea, A | Dry mouth                                                              |                                                           |                                                     |                                                 |
+| Vomiting Hepatobiliary disorders                                                                                                                                         | Vomiting Hepatobiliary disorders                                       | Vomiting Hepatobiliary disorders                          | Vomiting Hepatobiliary disorders                    | Vomiting Hepatobiliary disorders                |
+| Increase in transaminases                                                                                                                                                | Hepatic impairment, Increased bilirubin, Increased blood alkaline      | Jaundice, Bilirubin conjugated increased (with or without |                                                     |                                                 |
 
 <div style=\"page-break-after: always\"></div>
 
-| Common                                                                                                                                        | Uncommon                                                   | Rare                                                                               | Very rare                                                            | Not known                                                                                                           |
-|-----------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------|------------------------------------------------------------------------------------|----------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|
-|                                                                                                                                               | phosphatase A , Increased GGT A                            | concomitant increase of ALT), Cholestasis, Hepatitis (incl. hepatocellular injury) |                                                                      |                                                                                                                     |
-| Skin and subcutaneous tissue disorders                                                                                                        | Skin and subcutaneous tissue disorders                     | Skin and subcutaneous tissue disorders                                             | Skin and subcutaneous tissue disorders                               | Skin and subcutaneous tissue disorders                                                                              |
-| Pruritus (incl. uncommon cases of generalised pruritus), Rash, Ecchymosis, Cutaneous and subcutaneous haemorrhage                             | Urticaria                                                  |                                                                                    | Stevens-Johnson syndrome/ Toxic Epidermal Necrolysis, DRESS syndrome |                                                                                                                     |
-| Musculoskeletal and connective tissue disorders                                                                                               | Musculoskeletal and connective tissue disorders            | Musculoskeletal and connective tissue disorders                                    | Musculoskeletal and connective tissue disorders                      | Musculoskeletal and connective tissue disorders                                                                     |
-| Pain in extremity A                                                                                                                           | Haemarthrosis                                              | Muscle haemorrhage                                                                 |                                                                      | Compartment syndrome secondary to a bleeding                                                                        |
-| Renal and urinary disorders                                                                                                                   | Renal and urinary disorders                                | Renal and urinary disorders                                                        | Renal and urinary disorders                                          | Renal and urinary disorders                                                                                         |
-| Urogenital tract haemorrhage (incl. haematuria and menorrhagia B ), Renal impairment (incl. blood creatinine increased, blood urea increased) |                                                            |                                                                                    |                                                                      | Renal failure/acute renal failure secondary to a bleeding sufficient to cause hypoperfusion, Anticoagulant- related |
-| General disorders and administration site conditions                                                                                          | General disorders and administration site conditions       | General disorders and administration site conditions                               | General disorders and administration site conditions                 | General disorders and administration site conditions                                                                |
-| Fever A , Peripheral oedema, Decreased general strength and energy (incl. fatigue and asthenia)                                               | Feeling unwell (incl. malaise)                             | Localised oedema A                                                                 |                                                                      |                                                                                                                     |
-| Investigations                                                                                                                                | Investigations                                             | Investigations                                                                     | Investigations                                                       | Investigations                                                                                                      |
-|                                                                                                                                               | Increased LDH A , Increased lipase A , Increased amylase A |                                                                                    |                                                                      |                                                                                                                     |
-| Injury, poisoning and procedural complications                                                                                                | Injury, poisoning and procedural complications             | Injury, poisoning and procedural complications                                     | Injury, poisoning and procedural complications                       | Injury, poisoning and procedural complications                                                                      |
-| Postprocedural haemorrhage (incl. postoperative anaemia, and wound haemorrhage), Contusion, Wound secretion A                                 |                                                            | Vascular pseudoaneurysm C                                                          |                                                                      |                                                                                                                     |
+| Common                                                                                                                                        | Uncommon                                                   | Rare                                                                               | Very rare                                                            | Not known                                                                                                                       |
+|-----------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------|------------------------------------------------------------------------------------|----------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|
+|                                                                                                                                               | phosphatase A , Increased GGT A                            | concomitant increase of ALT), Cholestasis, Hepatitis (incl. hepatocellular injury) |                                                                      |                                                                                                                                 |
+| Skin and subcutaneous tissue disorders                                                                                                        | Skin and subcutaneous tissue disorders                     | Skin and subcutaneous tissue disorders                                             | Skin and subcutaneous tissue disorders                               | Skin and subcutaneous tissue disorders                                                                                          |
+| Pruritus (incl. uncommon cases of generalised pruritus), Rash, Ecchymosis, Cutaneous and subcutaneous haemorrhage                             | Urticaria                                                  |                                                                                    | Stevens-Johnson syndrome/ Toxic Epidermal Necrolysis, DRESS syndrome |                                                                                                                                 |
+| Musculoskeletal and connective tissue disorders                                                                                               | Musculoskeletal and connective tissue disorders            | Musculoskeletal and connective tissue disorders                                    | Musculoskeletal and connective tissue disorders                      | Musculoskeletal and connective tissue disorders                                                                                 |
+| Pain in extremity A                                                                                                                           | Haemarthrosis                                              | Muscle haemorrhage                                                                 |                                                                      | Compartment syndrome secondary to a bleeding                                                                                    |
+| Renal and urinary disorders                                                                                                                   | Renal and urinary disorders                                | Renal and urinary disorders                                                        | Renal and urinary disorders                                          | Renal and urinary disorders                                                                                                     |
+| Urogenital tract haemorrhage (incl. haematuria and menorrhagia B ), Renal impairment (incl. blood creatinine increased, blood urea increased) |                                                            |                                                                                    |                                                                      | Renal failure/acute renal failure secondary to a bleeding sufficient to cause hypoperfusion, Anticoagulant- related nephropathy |
+| General disorders and administration site conditions                                                                                          | General disorders and administration site conditions       | General disorders and administration site conditions                               | General disorders and administration site conditions                 | General disorders and administration site conditions                                                                            |
+| Fever A , Peripheral oedema, Decreased general strength and energy (incl. fatigue and asthenia)                                               | Feeling unwell (incl. malaise)                             | Localised oedema A                                                                 |                                                                      |                                                                                                                                 |
+| Investigations                                                                                                                                | Investigations                                             | Investigations                                                                     | Investigations                                                       | Investigations                                                                                                                  |
+|                                                                                                                                               | Increased LDH A , Increased lipase A , Increased amylase A |                                                                                    |                                                                      |                                                                                                                                 |
+| Injury, poisoning and procedural complications                                                                                                | Injury, poisoning and procedural complications             | Injury, poisoning and procedural complications                                     | Injury, poisoning and procedural complications                       | Injury, poisoning and procedural complications                                                                                  |
+| Postprocedural haemorrhage (incl. postoperative anaemia, and wound haemorrhage), Contusion, A                                                 |                                                            | Vascular pseudoaneurysm C                                                          |                                                                      |                                                                                                                                 |
 
 A: observed in prevention of VTE in adult patients undergoing elective hip or knee replacement surgery
 
@@ -480,11 +466,9 @@ The use of activated charcoal to reduce absorption in case of rivaroxaban overdo
 
 Should a bleeding complication arise in a patient receiving rivaroxaban, the next rivaroxaban administration should be delayed or treatment should be discontinued as appropriate. Rivaroxaban has a half-life of approximately 5 to 13 hours (see section 5.2). Management should be individualised according to the severity and location of the haemorrhage. Appropriate symptomatic treatment could be used as needed, such as mechanical compression (e.g. for severe epistaxis), surgical haemostasis with bleeding control procedures, fluid replacement and haemodynamic support, blood products (packed red cells or fresh frozen plasma, depending on associated anaemia or coagulopathy) or platelets.
 
-If bleeding cannot be controlled by the above measures, either the administration of a specific factor Xa inhibitor reversal agent (andexanet alfa), which antagonises the pharmacodynamic effect of
+If bleeding cannot be controlled by the above measures, either the administration of a specific factor Xa inhibitor reversal agent (andexanet alfa), which antagonises the pharmacodynamic effect of rivaroxaban, or a specific procoagulant agent, such as prothrombin complex concentrate (PCC), activated prothrombin complex concentrate (APCC) or recombinant factor VIIa (r-FVIIa), should be considered. However, there is currently very limited clinical experience with the use of these medicinal products in individuals receiving rivaroxaban. The recommendation is also based on limited non-clinical data. Re-dosing of recombinant factor VIIa shall be considered and titrated depending on improvement of bleeding. Depending on local availability, a consultation with a coagulation expert should be considered in case of major bleedings (see section 5.1).
 
 <div style=\"page-break-after: always\"></div>
-
-rivaroxaban, or a specific procoagulant agent, such as prothrombin complex concentrate (PCC), activated prothrombin complex concentrate (APCC) or recombinant factor VIIa (r-FVIIa), should be considered. However, there is currently very limited clinical experience with the use of these medicinal products in individuals receiving rivaroxaban. The recommendation is also based on limited non-clinical data. Re-dosing of recombinant factor VIIa shall be considered and titrated depending on improvement of bleeding. Depending on local availability, a consultation with a coagulation expert should be considered in case of major bleedings (see section 5.1).
 
 Protamine sulphate and vitamin K are not expected to affect the anticoagulant activity of rivaroxaban. There is limited experience with tranexamic acid and no experience with aminocaproic acid and aprotinin in individuals receiving rivaroxaban. There is neither scientific rationale for benefit nor experience with the use of the systemic haemostatic desmopressin in individuals receiving rivaroxaban. Due to the high plasma protein binding rivaroxaban is not expected to be dialysable.
 
@@ -510,11 +494,9 @@ The activated partial thomboplastin time (aPTT) and Hep test are also prolonged 
 
 ## ACS
 
-The rivaroxaban clinical programme was designed to demonstrate the efficacy of rivaroxaban for the prevention of cardiovascular (CV) death, myocardial infarction (MI) or stroke in subjects with a recent ACS (ST-elevation myocardial infarction [STEMI], non-ST-elevation myocardial infarction [NSTEMI] or unstable angina [UA]). In the pivotal double-blind ATLAS ACS 2 TIMI 51 study, 15,526 patients were randomly assigned in a 1:1:1 fashion to one of three treatment groups: rivaroxaban 2.5 mg orally twice daily, 5 mg orally twice daily or to placebo twice daily coadministered with ASA alone or with ASA plus a thienopyridine (clopidogrel or ticlopidine). Patients with an ACS under the age of 55 had to have either diabetes mellitus or a previous MI. The median time on treatment was 13 months and overall treatment duration was up to almost 3 years. 93.2% of patients received ASA concomitantly plus thienopyridine treatment and 6.8% ASA only. Among
+The rivaroxaban clinical programme was designed to demonstrate the efficacy of rivaroxaban for the prevention of cardiovascular (CV) death, myocardial infarction (MI) or stroke in subjects with a recent ACS (ST-elevation myocardial infarction [STEMI], non-ST-elevation myocardial infarction [NSTEMI] or unstable angina [UA]). In the pivotal double-blind ATLAS ACS 2 TIMI 51 study, 15,526 patients were randomly assigned in a 1:1:1 fashion to one of three treatment groups: rivaroxaban 2.5 mg orally twice daily, 5 mg orally twice daily or to placebo twice daily coadministered with ASA alone or with ASA plus a thienopyridine (clopidogrel or ticlopidine). Patients with an ACS under the age of 55 had to have either diabetes mellitus or a previous MI. The median time on treatment was 13 months and overall treatment duration was up to almost 3 years. 93.2% of patients received ASA concomitantly plus thienopyridine treatment and 6.8% ASA only. Among patients receiving dual anti-platelets therapy 98.8% received clopidogrel, 0.9% received ticlopidine and 0.3% received prasugrel. Patients received the first dose of rivaroxaban at a minimum of 24 hours and up to 7 days (mean 4.7 days) after admission to the hospital, but as soon as possible after stabilisation of the ACS event, including revascularisation procedures and when parenteral anticoagulation therapy would normally be discontinued.
 
 <div style=\"page-break-after: always\"></div>
-
-patients receiving dual anti-platelets therapy 98.8% received clopidogrel, 0.9% received ticlopidine and 0.3% received prasugrel. Patients received the first dose of rivaroxaban at a minimum of 24 hours and up to 7 days (mean 4.7 days) after admission to the hospital, but as soon as possible after stabilisation of the ACS event, including revascularisation procedures and when parenteral anticoagulation therapy would normally be discontinued.
 
 Both the 2.5 mg twice daily and the 5 mg twice daily regimens of rivaroxaban were effective in further reducing the incidence of CV events on a background of standard antiplatelet care. The 2.5 mg twice daily regimen reduced mortality, and there is evidence that the lower dose had lower bleeding risks, therefore rivaroxaban 2.5 mg twice daily co-administered with acetylsalicylic acid alone or with ASA plus clopidogrel or ticlopidine is recommended for the prevention of atherothrombotic events in adult patients after an ACS with elevated cardiac biomarkers.
 
@@ -537,33 +519,25 @@ Table 4: Efficacy results from phase III ATLAS ACS 2 TIMI 51
 | Stroke                             | 46 (0.9%) 1.13 (0.74, 1.73) p = 0.562                                                | 41 (0.8%)                                           |
 | Stent thrombosis                   | 61 (1.2%) 0.70 (0.51, 0.97) p = 0.033**                                              | 87 (1.7%)                                           |
 
-a) modified intent to treat analysis set (intent to treat total analysis set for stent thrombosis)
+<div style=\"page-break-after: always\"></div>
 
-- b) vs placebo; Log-Rank p-value
+b) vs placebo; Log-Rank p-value
 
 * statistically superior
 
 ** nominally significant
 
-<div style=\"page-break-after: always\"></div>
-
 Table 5: Efficacy results from phase III ATLAS ACS 2 TIMI 51 in patients undergoing PCI
 
-| Study population                   | Patients with recent acute coronary syndrome undergoing PCI a)       | Patients with recent acute coronary syndrome undergoing PCI a)   |
-|------------------------------------|----------------------------------------------------------------------|------------------------------------------------------------------|
-| Treatment dose                     | Rivaroxaban 2.5 mg, twice daily, N=3114 n (%) HR (95% CI) p-value b) | Placebo N=3096 n (%)                                             |
-| Cardiovascular death, MI or stroke | 153 (4.9%) 0.94 (0.75, 1.17) p = 0.572                               | 165 (5.3%)                                                       |
-| Cardiovascular death               | 24 (0.8%) 0.54 (0.33, 0.89) p = 0.013**                              | 45 (1.5%)                                                        |
-| All-cause death                    | 31 (1.0%) 0.64 (0.41, 1.01) p = 0.053                                | 49 (1.6%)                                                        |
-| MI                                 | 115 (3.7%) 1.03 (0.79, 1.33) p = 0.829                               | 113 (3.6%)                                                       |
-| Stroke                             | 27 (0.9%) 1.30 (0.74, 2.31) p = 0.360                                | 21 (0.7%)                                                        |
-| Stent thrombosis                   | 47 (1.5%) 0.66 (0.46, 0.95) p = 0.026**                              | 71 (2.3%)                                                        |
-
-a) modified intent to treat analysis set (intent to treat total analysis set for stent thrombosis)
-
-b) vs placebo; Log-Rank p-value
-
-** nominally significant
+| Study population                   | Patients with recent acute coronary syndrome undergoing PCI a)      | Patients with recent acute coronary syndrome undergoing PCI a)   |
+|------------------------------------|---------------------------------------------------------------------|------------------------------------------------------------------|
+| Treatment dose                     | Rivaroxaban 2.5 mg, twice daily, N=3114 n (%) HR(95% CI) p-value b) | Placebo N=3096 n (%)                                             |
+| Cardiovascular death, MI or stroke | 153 (4.9%) 0.94 (0.75, 1.17) p = 0.572                              | 165 (5.3%)                                                       |
+| Cardiovascular death               | 24 (0.8%) 0.54 (0.33, 0.89) p = 0.013**                             | 45 (1.5%)                                                        |
+| All-cause death                    | 31 (1.0%) 0.64 (0.41, 1.01) p = 0.053                               | 49 (1.6%)                                                        |
+| MI                                 | 115 (3.7%) 1.03 (0.79, 1.33) p = 0.829                              | 113 (3.6%)                                                       |
+| Stroke                             | 27 (0.9%) 1.30 (0.74, 2.31) p = 0.360                               | 21 (0.7%)                                                        |
+| Stent thrombosis                   | 47 (1.5%) 0.66 (0.46, 0.95) p = 0.026**                             | 71 (2.3%)                                                        |
 
 Table 6: Safety results from phase III ATLAS ACS 2 TIMI 51
 
@@ -581,12 +555,6 @@ Table 6: Safety results from phase III ATLAS ACS 2 TIMI 51
 | Surgical intervention for ongoing bleeding                          | 7 (0.1%)   | 9 (0.2%)   |
 | Transfusion of 4 or more units of blood over a 48 hour period       | 19 (0.4%)  | 6 (0.1%)   |
 
-a) safety population, on treatment
-
-b) vs placebo; Log-Rank p-value
-
-* statistically significant
-
 Figure 1: Time to first occurrence of primary efficacy endpoint (CV death, MI or stroke)
 
 <!-- image -->
@@ -599,11 +567,9 @@ Subjects without a continuous need for treatment with a proton pump inhibitor we
 
 CAD patients had multivessel CAD and/or prior MI. For patients &lt; 65 years of age atherosclerosis involving at least two vascular beds or at least two additional cardiovascular risk factors were required.
 
-PAD patients had previous interventions such as bypass surgery or percutaneous transluminal angioplasty or limb or foot amputation for arterial vascular disease or intermittent claudication with
+PAD patients had previous interventions such as bypass surgery or percutaneous transluminal angioplasty or limb or foot amputation for arterial vascular disease or intermittent claudication with ankle/arm blood pressure ratio &lt; 0.90 and/ or significant peripheral artery stenosis or previous carotid revascularisation or asymptomatic carotid artery stenosis ≥ 50%.
 
 <div style=\"page-break-after: always\"></div>
-
-ankle/arm blood pressure ratio &lt; 0.90 and/ or significant peripheral artery stenosis or previous carotid revascularisation or asymptomatic carotid artery stenosis ≥ 50%.
 
 Exclusion criteria included the need for dual antiplatelet or other non-ASA antiplatelet or oral anticoagulant therapy and patients with high bleeding risk, or heart failure with ejection fraction &lt; 30% or New York Heart Association class III or IV, or any ischaemic, non-lacunar stroke within 1 month or any history of haemorrhagic or lacunar stroke.
 
@@ -611,7 +577,7 @@ Rivaroxaban 2.5 mg twice daily in combination with ASA 100 mg once daily was sup
 
 There was a significant increase of the primary safety outcome (modified ISTH major bleeding events) in patients treated with rivaroxaban 2.5 mg twice daily in combination with ASA 100 mg once daily compared to patients who received ASA 100 mg (see Table 8).
 
-For the primary efficacy outcome, the observed benefit of rivaroxaban 2.5 mg twice daily plus ASA 100 mg once daily compared with ASA 100 mg once daily was HR=0.89 (95% CI 0.7-1.1) in patients ≥75 years (incidence: 6.3% vs 7.0%) and HR=0.70 (95% CI 0.6-0.8) in patients &lt;75 years (3.6% vs 5.0%). For modified ISTH major bleeding, the observed risk increase was HR=2.12 (95% CI 1.5-3.0) in patients ≥75 years (5.2% vs 2.5%) and HR=1.53 (95% CI 1.2-1.9) in patients &lt;75 years (2.6% vs 1.7%).
+For the primary efficacy outcome, the observed benefit of rivaroxaban 2.5 mg twice daily plus ASA 100 mg once daily compared with ASA 100 mg once daily was HR=0.89 (95% CI 0.7-1.1) in patients ≥ 75 years (incidence: 6.3% vs 7.0%) and HR=0.70 (95% CI 0.6-0.8) in patients &lt;75 years (3.6% vs 5.0%). For modified ISTH major bleeding, the observed risk increase was HR=2.12 (95% CI 1.5-3.0) in patients ≥ 75 years (5.2% vs 2.5%) and HR=1.53 (95% CI 1.2-1.9) in patients &lt;75 years (2.6% vs 1.7%).
 
 The use of pantoprazole 40 mg once daily in addition to antithrombotic study medication in patients with no clinical need for a proton pump inhibitor showed no benefit in the prevention of upper gastrointestinal events (i.e. composite of upper gastrointestinal bleeding, upper gastrointestinal ulceration, or upper gastrointestinal obstruction or perforation); the incidence rate of upper gastrointestinal events was 0.39/100 patient-years in the pantoprazole 40 mg once daily group and 0.44/100 patient-years in the placebo once daily group.
 
@@ -631,8 +597,6 @@ Table 7: Efficacy results from phase III COMPASS
 
 | Acute limb ischaemia   | 22 (0.2%)   | 0.27%   | 40 (0.4%)   | 0.60%   | 0.55 (0.32;0.92)   |
 |------------------------|-------------|---------|-------------|---------|--------------------|
-
-a) intention to treat analysis set, primary analyses
 
 b) vs ASA 100 mg; Log-Rank p-value
 
@@ -655,8 +619,6 @@ Table 8: Safety results from phase III COMPASS
 | Major gastrointestinal bleeding                                                                      | 140 (2.0%)                                                                       | 65 (1.1%)                            | 2.15 (1.60;2.89) p < 0.00001     |
 | Major intracranial bleeding                                                                          | 28 (0.4%)                                                                        | 24 (0.3%)                            | 1.16 (0.67;2.00) p = 0.59858     |
 
-a) intention-to-treat analysis set, primary analyses
-
 b) vs ASA 100 mg; Log-Rank p-value
 
 bid: twice daily; CI: confidence interval; Cum. Risk: Cumulative incidence risk (Kaplan-Meier estimates) at 30 months; ISTH: International Society on Thrombosis and Haemostasis; od: once daily
@@ -669,9 +631,7 @@ Figure 2: Time to first occurrence of primary efficacy outcome (stroke, myocardi
 
 bid: twice daily; od: once daily; CI: confidence interval
 
-Patients after recent revascularisation procedure of the lower limb due to symptomatic PAD In the pivotal phase III double-blind VOYAGER PAD trial, 6,564 patients after recent successful revascularisation procedure of the lower limb (surgical or endovascular including hybrid procedures) due to symptomatic PAD were randomly assigned to one of two antithrombotic treatment groups: rivaroxaban 2.5 mg twice daily in combination with ASA 100 mg once daily, or to ASA 100 mg once daily, in a 1:1 fashion. Patients were allowed to additionally receive standard dose of clopidogrel once daily for up to 6 months. The objective of the study was to demonstrate the efficacy and safety of rivaroxaban plus ASA for the prevention of myocardial infarction, ischaemic stroke, CV death, acute limb ischaemia, or major amputation of a vascular etiology in patients after recent successful lower limb revascularisation procedures due to symptomatic PAD. Patients aged ≥ 50 years with documented moderate to severe symptomatic lower extremity atherosclerotic PAD evidenced by all of the following: clinically (i.e. functional limitations), anatomically (i.e. imaging evidence of PAD distal to external iliac artery) and haemodynamically (ankle-brachial-index [ABI] ≤ 0.80 or toe-brachialindex [TBI] ≤ 0.60 for patients without a prior history of limb revascularisation or ABI ≤ 0.85 or TBI ≤ 0.65 for patients with a prior history of limb revascularisation) were included. Patients in need of dual antiplatelet therapy for &gt; 6 months, or any additional antiplatelet therapy other than ASA and clopidogrel, or oral anticoagulant therapy, as well as patients with a history of intracranial haemorrhage, stroke, or TIA, or patients with eGFR &lt; 15 mL/min were excluded.
-
-The mean duration of follow-up was 24 months and the maximum follow-up was 4.1 years. The mean age of the enrolled patients was 67 years and 17% of the patient population were &gt; 75 years. The median time from index revascularisation procedure to start of study treatment was 5 days in the overall population (6 days after surgical and 4 days after endovascular revascularisation including hybrid procedures). Overall, 53.0% of patients received short term background clopidogrel therapy with a median duration of 31 days. According to study protocol study treatment could be commenced as soon as possible but no later than 10 days after a successful qualifying revascularisation procedure and once haemostasis had been assured.
+Patients after recent revascularisation procedure of the lower limb due to symptomatic PAD In the pivotal phase III double-blind VOYAGER PAD trial, 6,564 patients after recent successful revascularisation procedure of the lower limb (surgical or endovascular including hybrid procedures) due to symptomatic PAD were randomly assigned to one of two antithrombotic treatment groups: rivaroxaban 2.5 mg twice daily in combination with ASA 100 mg once daily, or to ASA 100 mg once daily, in a 1:1 fashion. Patients were allowed to additionally receive standard dose of clopidogrel once daily for up to 6 months. The objective of the study was to demonstrate the efficacy and safety of rivaroxaban plus ASA for the prevention of myocardial infarction, ischaemic stroke, CV death, acute limb ischaemia, or major amputation of a vascular etiology in patients after recent successful lower limb revascularisation procedures due to symptomatic PAD. Patients aged ≥ 50 years with documented moderate to severe symptomatic lower extremity atherosclerotic PAD evidenced by all of the following: clinically (i.e. functional limitations), anatomically (i.e. imaging evidence of PAD distal to external iliac artery) and haemodynamically (ankle-brachial-index [ABI] ≤ 0.80 or toe-brachialindex [TBI] ≤ 0.60 for patients without a prior history of limb revascularisation or ABI ≤ 0.85 or TBI ≤ 0.65 for patients with a prior history of limb revascularisation) were included. Patients in need of dual antiplatelet therapy for &gt; 6 months, or any additional antiplatelet therapy other than ASA and clopidogrel, or oral anticoagulant therapy, as well as patients with a history of intracranial haemorrhage, stroke, or TIA, or patients with eGFR &lt; 15 mL/min were excluded. The mean duration of follow-up was 24 months and the maximum follow-up was 4.1 years. The mean age of the enrolled patients was 67 years and 17% of the patient population were &gt; 75 years. The median time from index revascularisation procedure to start of study treatment was 5 days in the overall population (6 days after surgical and 4 days after endovascular revascularisation including hybrid procedures). Overall, 53.0% of patients received short term background clopidogrel therapy with a median duration of 31 days. According to study protocol study treatment could be commenced as soon as possible but no later than 10 days after a successful qualifying revascularisation procedure and once haemostasis had been assured.
 
 Rivaroxaban 2.5 mg twice daily in combination with ASA 100 mg once daily was superior in the reduction of the primary composite outcome of myocardial infarction, ischaemic stroke, CV death, acute limb ischaemia and major amputation of vascular etiology compared to ASA alone (see Table
 
@@ -696,21 +656,7 @@ Table 9: Efficacy results from phase III VOYAGER PAD
 | All-cause mortality                                                                           | 321 (9.8%)                                                                                       | 297 (9.1%)                                                                                       | 1.08 (0.92;1.27)                                                                                 |
 | VTE events                                                                                    | 25 (0.8%)                                                                                        | 41 (1.3%)                                                                                        | 0.61 (0.37;1.00)                                                                                 |
 
-a) intention to treat analysis set, primary analyses; ICAC adjudicated
-
-b) composite of MI, ischaemic stroke, CV death (CV death and unknown cause of death), ALI, and major amputation of vascular etiology
-
-c) only the first occurrence of the outcome event under analysis within the data scope from a subject is considered
-
-d) HR (95% CI) is based on the Cox proportional hazards model stratified by type of procedure and clopidogrel use with treatment as the only covariate.
-
-e) One sided p-value is based on the log-rank test stratified by type of procedure and clopidogrel use with treatment as factor.
-
-f) acute limb ischaemia is defined as sudden significant worsening of limb perfusion, either with new pulse deficit or requiring therapeutic intervention (i.e. thrombolysis or thrombectomy, or urgent revascularisation), and leading to hospitalisation
-
-* The reduction in the efficacy outcome was statistically superior.
-
-ALI: acute limb ischaemia; bid: twice daily; od: once daily; CI: confidence interval; MI: myocardial infarction; CV: cardiovascular; ICAC: Independent Clinical Adjudication Committee
+ALI: acute limb ischaemia; bid: twice daily; od: once daily; CI: confidence interval; MI: myocardial infarction; CV: cardiovascular; ICAC: Independent Clinical Adjudication Committee b) n = number of subjects with events, N = number of subjects at risk, % = 100 * n/N, n/100p-yrs = ratio of number of subjects with incident events / cumulative at-risk time a) Safety analysis set (all randomised subjects with at least one dose of study drug), ICAC: Independent Clinical Adjudication Committee c) HR (95% CI) is based on the Cox proportional hazards model stratified by type of procedure and clopidogrel use with treatment as the only covariate d) Two sided p-value is based on the log rank-test stratified by type of procedure and clopidogrel use with treatment as a factor
 
 Table 10: Safety results from phase III VOYAGER PAD
 
@@ -730,14 +676,9 @@ Table 10: Safety results from phase III VOYAGER PAD
 | - Non-fatal critical organ bleeding                          | 29 (0.9%)                                                                             | 26 (0.8%)                                  | 1.14 (0.67;1.93)                      |
 | ISTH clinically relevant non-major bleeding                  | 246 (7.6%)                                                                            | 139 (4.3%)                                 | 1.81 (1.47;2.23)                      |
 
-a) Safety analysis set (all randomised subjects with at least one dose of study drug), ICAC: Independent Clinical Adjudication Committee b) n = number of subjects with events, N = number of subjects at risk, % = 100 * n/N, n/100p-yrs = ratio of number of subjects with incident events / cumulative at-risk time
-
-- c) HR (95% CI) is based on the Cox proportional hazards model stratified by type of procedure and clopidogrel use with treatment as the only covariate
-- d) Two sided p-value is based on the log rank-test stratified by type of procedure and clopidogrel use with treatment as a factor
-
 ## CAD with heart failure
 
-The COMMANDER HF study included 5,022 patients with heart failure and significant coronary artery disease (CAD) following a hospitalisation of decompensated heart failure (HF) which were randomly assigned into one of the two treatment groups: rivaroxaban 2.5 mg twice daily (N=2,507) or matching placebo (N=2,515), respectively. The overall median study treatment duration was 504 days. Patients must have had symptomatic HF for at least 3 months and left ventricular ejection fraction (LVEF) of ≤40% within one year of enrolment. At baseline, the median ejection fraction was 34% (IQR: 28%-38%) and 53% of subjects were NYHA Class III or IV.
+The COMMANDER HF study included 5,022 patients with heart failure and significant coronary artery disease (CAD) following a hospitalisation of decompensated heart failure (HF) which were randomly assigned into one of the two treatment groups: rivaroxaban 2.5 mg twice daily (N=2,507) or matching placebo (N=2,515), respectively. The overall median study treatment duration was 504 days. Patients must have had symptomatic HF for at least 3 months and left ventricular ejection fraction (LVEF) of ≤ 40% within one year of enrolment. At baseline, the median ejection fraction was 34% (IQR: 28%-38%) and 53% of subjects were NYHA Class III or IV.
 
 The primary efficacy analysis (i.e. composite of all-cause mortality, MI, or stroke) showed no statistically significant difference between the rivaroxaban 2.5 mg twice daily group and the placebo group with a HR=0.94 (95% CI 0.84 - 1.05), p=0.270. For all-cause mortality, there was no difference between rivaroxaban and placebo in the number of events (event rate per 100 patient-years; 11.41 vs 11.63, HR: 0.98; 95% CI: 0.87 to 1.10; p=0.743). The event rates for MI per 100 patient-years (rivaroxaban vs placebo) were 2.08 vs 2.52 (HR 0.83; 95% CI: 0.63 to 1.08; p=0.165) and for stroke the event rates per 100 patient-years were 1.08 vs 1.62 (HR: 0.66; 95% CI: 0.47 to 0.95; p=0.023). The principal safety outcome (i.e. composite of fatal bleeding or bleeding into a critical space with a potential for permanent disability), occurred in 18 (0.7%) patients in the rivaroxaban 2.5 mg twice daily treatment group and in 23 (0.9%) patients in the placebo group, respectively (HR=0.80; 95% CI 0.43 - 1.49; p=0.484). There was a statistically significant increase in ISTH major bleeding in the rivaroxaban group compared with placebo (event rate per 100 patient-years: 2.04 vs 1.21, HR 1.68; 95% CI: 1.18 to 2.39; p=0.003).
 
@@ -745,11 +686,9 @@ In patients with mild and moderate heart failure the treatment effects for the C
 
 ## Patients with high risk triple positive antiphospholipid syndrome
 
-In an investigator sponsored, randomised open-label multicentre study with blinded endpoint adjudication, rivaroxaban was compared to warfarin in patients with a history of thrombosis,
+In an investigator sponsored, randomised open-label multicentre study with blinded endpoint adjudication, rivaroxaban was compared to warfarin in patients with a history of thrombosis, diagnosed with antiphospholipid syndrome and at high risk for thromboembolic events (positive for all 3 antiphospholipid tests: lupus anticoagulant, anticardiolipin antibodies, and anti-beta 2-glycoprotein I antibodies). The study was terminated prematurely after the enrolment of 120 patients due to an excess of events among patients in the rivaroxaban arm. Mean follow-up was 569 days. 59 patients were randomised to rivaroxaban 20 mg (15 mg for patients with creatinine clearance (CrCl) &lt;50 mL/min) and 61 to warfarin (INR 2.0-3.0). Thromboembolic events occurred in 12% of patients randomised to rivaroxaban (4 ischaemic strokes and 3 myocardial infarctions). No events were reported in patients randomised to warfarin. Major bleeding occurred in 4 patients (7%) of the rivaroxaban group and 2 patients (3%) of the warfarin group.
 
 <div style=\"page-break-after: always\"></div>
-
-diagnosed with antiphospholipid syndrome and at high risk for thromboembolic events (positive for all 3 antiphospholipid tests: lupus anticoagulant, anticardiolipin antibodies, and anti-beta 2-glycoprotein I antibodies). The study was terminated prematurely after the enrolment of 120 patients due to an excess of events among patients in the rivaroxaban arm. Mean follow-up was 569 days. 59 patients were randomised to rivaroxaban 20 mg (15 mg for patients with creatinine clearance (CrCl) &lt;50 mL/min) and 61 to warfarin (INR 2.0-3.0). Thromboembolic events occurred in 12% of patients randomised to rivaroxaban (4 ischaemic strokes and 3 myocardial infarctions). No events were reported in patients randomised to warfarin. Major bleeding occurred in 4 patients (7%) of the rivaroxaban group and 2 patients (3%) of the warfarin group.
 
 ## Paediatric population
 
@@ -779,11 +718,9 @@ Of the administered rivaroxaban dose, approximately 2/3 undergoes metabolic degr
 
 Rivaroxaban is metabolised via CYP3A4, CYP2J2 and CYP-independent mechanisms. Oxidative degradation of the morpholinone moiety and hydrolysis of the amide bonds are the major sites of biotransformation. Based on in vitro investigations rivaroxaban is a substrate of the transporter proteins P-gp (P-glycoprotein) and Bcrp (breast cancer resistance protein).
 
-Unchanged rivaroxaban is the most important compound in human plasma, with no major or active circulating metabolites being present. With a systemic clearance of about 10 l/h, rivaroxaban can be
+Unchanged rivaroxaban is the most important compound in human plasma, with no major or active circulating metabolites being present. With a systemic clearance of about 10 l/h, rivaroxaban can be classified as a low-clearance substance. After intravenous administration of a 1 mg dose the elimination half-life is about 4.5 hours. After oral administration the elimination becomes absorption rate limited. Elimination of rivaroxaban from plasma occurs with terminal half-lives of 5 to 9 hours in young individuals, and with terminal half-lives of 11 to 13 hours in the elderly.
 
 <div style=\"page-break-after: always\"></div>
-
-classified as a low-clearance substance. After intravenous administration of a 1 mg dose the elimination half-life is about 4.5 hours. After oral administration the elimination becomes absorption rate limited. Elimination of rivaroxaban from plasma occurs with terminal half-lives of 5 to 9 hours in young individuals, and with terminal half-lives of 11 to 13 hours in the elderly.
 
 ## Special populations
 
@@ -821,15 +758,13 @@ Use is not recommended in patients with creatinine clearance &lt; 15 ml/min. Riv
 
 ## Pharmacokinetic data in patients
 
-In patients receiving rivaroxaban 2.5 mg twice daily for the prevention of atherothrombotic events in patients with ACS the geometric mean concentration (90% prediction interval) 2 - 4 h and about 12 h
+In patients receiving rivaroxaban 2.5 mg twice daily for the prevention of atherothrombotic events in patients with ACS the geometric mean concentration (90% prediction interval) 2 - 4 h and about 12 h after dose (roughly representing maximum and minimum concentrations during the dose interval) was 47 (13 - 123) and 9.2 (4.4 - 18) mcg/l, respectively.
 
 <div style=\"page-break-after: always\"></div>
 
-after dose (roughly representing maximum and minimum concentrations during the dose interval) was 47 (13 - 123) and 9.2 (4.4 - 18) mcg/l, respectively.
-
 ## Pharmacokinetic/pharmacodynamic relationship
 
-The pharmacokinetic/pharmacodynamic (PK/PD) relationship between rivaroxaban plasma concentration and several PD endpoints (factor-Xa inhibition, PT, aPTT, Heptest) has been evaluated after administration of a wide range of doses (5 - 30 mg twice a day). The relationship between rivaroxaban concentration and factor-Xa activity was best described by an Emax model. For PT, the linear intercept model generally described the data better. Depending on the different PT reagents used, the slope differed considerably. When Neoplastin PT was used, baseline PT was about 13 s and the slope was around 3 to 4 s/(100 mcg/l). The results of the PK/PD analyses in Phase II and III were consistent with the data established in healthy subjects.
+The pharmacokinetic/pharmacodynamic (PK/PD) relationship between rivaroxaban plasma concentration and several PD endpoints (factor-Xa inhibition, PT, aPTT, Heptest) has been evaluated after administration of a wide range of doses (5 - 30 mg twice a day). The relationship between rivaroxaban concentration and factor-Xa activity was best described by an E max model. For PT, the linear intercept model generally described the data better. Depending on the different PT reagents used, the slope differed considerably. When Neoplastin PT was used, baseline PT was about 13 s and the slope was around 3 to 4 s/(100 mcg/l). The results of the PK/PD analyses in Phase II and III were consistent with the data established in healthy subjects.
 
 ## Paediatric population
 
@@ -873,7 +808,7 @@ This medicinal product does not require any special storage conditions.
 
 ## 6.5 Nature and contents of container
 
-PVC/PVdC/Aluminium foil blister packs containing 10, 28, 56, 60, 100 or 196 film-coated tablets or perforated unit dose blisters in cartons of 28  1, 30  1, 56  1, 60  1 or 90  1 film-coated tablets.
+PVC/PVdC/Aluminium foil blister packs containing 10, 28, 56, 60, 100 or 196 film-coated tablets or perforated unit dose blisters in cartons of 28 × 1, 30 × 1, 56 × 1, 60 × 1 or 90 × 1 film-coated tablets.
 
 White HDPE bottles with white opaque PP screw cap with aluminium induction sealing liner wad containing 98, 100, 196 or 250 film-coated tablets.
 
@@ -904,16 +839,14 @@ Viatris Limited Damastown Industrial Park Mulhuddart Dublin 15 DUBLIN Ireland
 <div style=\"page-break-after: always\"></div>
 
 ```
-EU/1/21/1588/007  Blister (PVC/PVdC/alu)  28 x 1 tablets (unit dose) EU/1/21/1588/008  Blister (PVC/PVdC/alu)  30 x 1 tablets (unit dose) EU/1/21/1588/009  Blister (PVC/PVdC/alu)  56 x 1 tablets (unit dose) EU/1/21/1588/010  Blister (PVC/PVdC/alu)  60 x 1 tablets (unit dose) EU/1/21/1588/011  Blister (PVC/PVdC/alu)  90 x 1 tablets (unit dose) EU/1/21/1588/012  bottle (HDPE)  98 tablets EU/1/21/1588/013  bottle (HDPE)  100 tablets EU/1/21/1588/014  bottle (HDPE)  196 tablets
+EU/1/21/1588/007  Blister (PVC/PVdC/alu)  28 x 1 tablets (unit dose) EU/1/21/1588/008  Blister (PVC/PVdC/alu)  30 x 1 tablets (unit dose) EU/1/21/1588/009  Blister (PVC/PVdC/alu)  56 x 1 tablets (unit dose) EU/1/21/1588/010  Blister (PVC/PVdC/alu)  60 x 1 tablets (unit dose) EU/1/21/1588/011  Blister (PVC/PVdC/alu)  90 x 1 tablets (unit dose) EU/1/21/1588/012  bottle (HDPE)  98 tablets EU/1/21/1588/013  bottle (HDPE)  100 tablets EU/1/21/1588/014  bottle (HDPE)  196 tablets EU/1/21/1588/061  bottle (HDPE)  250 tablets
 ```
-
-EU/1/21/1588/061  bottle (HDPE)  250 tablets
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-Date of first authorisation: 12 -November - 2021
+Date of first authorisation: 12
 
-th
+th -November - 2021
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -953,9 +886,9 @@ Treatment of deep vein thrombosis (DVT) and pulmonary embolism (PE), and prevent
 
 ## Posology
 
-## Prevention of VTE in adult patients undergoing elective hip or knee replacement surgery
+Prevention of VTE in adult patients undergoing elective hip or knee replacement surgery The recommended dose is 10 mg rivaroxaban taken orally once daily. The initial dose should be taken
 
-The recommended dose is 10 mg rivaroxaban taken orally once daily. The initial dose should be taken 6 to 10 hours after surgery, provided that haemostasis has been established.
+6 to 10 hours after surgery, provided that haemostasis has been established.
 
 The duration of treatment depends on the individual risk of the patient for VTE which is determined by the type of orthopaedic surgery.
 
@@ -1002,11 +935,9 @@ There is a potential for inadequate anticoagulation during the transition from R
 
 For patients currently receiving a parenteral anticoagulant, discontinue the parenteral anticoagulant and start Rivaroxaban Viatris 0 to 2 hours before the time that the next scheduled administration of the parenteral medicinal product (e.g. low molecular weight heparins) would be due or at the time of discontinuation of a continuously administered parenteral medicinal product (e.g. intravenous unfractionated heparin).
 
-Converting from Rivaroxaban Viatris to parenteral anticoagulants
+Converting from Rivaroxaban Viatris to parenteral anticoagulants Give the first dose of parenteral anticoagulant at the time the next Rivaroxaban Viatris dose would be taken.
 
 <div style=\"page-break-after: always\"></div>
-
-Give the first dose of parenteral anticoagulant at the time the next Rivaroxaban Viatris dose would be taken.
 
 ## Special populations
 
@@ -1041,7 +972,7 @@ The safety and efficacy of Rivaroxaban Viatris 10 mg tablets in children aged 0 
 
 ## Method of administration
 
-## Rivaroxaban Viatris is for oral use.
+Rivaroxaban Viatris is for oral use.
 
 The tablets can be taken with or without food (see sections 4.5 and 5.2).
 
@@ -1125,7 +1056,7 @@ Rivaroxaban has not been studied in interventional clinical studies in patients 
 
 <div style=\"page-break-after: always\"></div>
 
-## Haemodynamically unstable PE patients or patients who require thrombolysis or pulmonary embolectomy
+Haemodynamically unstable PE patients or patients who require thrombolysis or pulmonary embolectomy
 
 Rivaroxaban Viatris is not recommended as an alternative to unfractionated heparin in patients with pulmonary embolism who are haemodynamically unstable or may receive thrombolysis or pulmonary embolectomy since the safety and efficacy of Rivaroxaban Viatris have not been established in these clinical situations.
 
@@ -1256,8 +1187,6 @@ Table 1: Number of patients studied, total daily dose and maximum treatment dura
 | Prevention of atherothrombotic events in patients with CAD/PAD                                                                                                     | 18,244                | 5 mg co- administered with acetylsalicylic acid or 10 mg alone                                                                        | 47 months                    |
 | Prevention of atherothrombotic events in patients with CAD/PAD                                                                                                     | 3,256**               | 5 mg co- administered with acetylsalicylic acid                                                                                       | 42 months                    |
 
- Patients exposed to at least one dose of rivaroxaban
-
 <div style=\"page-break-after: always\"></div>
 
 ## ** From the VOYAGER PAD study
@@ -1277,21 +1206,11 @@ Table 2: Bleeding* and anaemia events rates in patients exposed to rivaroxaban a
 | Prevention of atherothrombotic events in patients with CAD/PAD                                                                                                     | 6.7 per 100 patient years    | 0.15 per 100 patient years**    |
 | Prevention of atherothrombotic events in patients with CAD/PAD                                                                                                     | 8.38 per 100 patient years # | 0.74 per 100 patient years*** # |
 
-* For all rivaroxaban studies all bleeding events are collected, reported and adjudicated.
-
-** In the COMPASS study, there is a low anaemia incidence as a selective approach to adverse event collection was applied
-
-*** A selective approach to adverse event collection was applied
-
-# From the VOYAGER PAD study
-
 ## Tabulated list of adverse reactions
 
 The frequencies of adverse reactions reported with rivaroxaban in adult and paediatric patients are summarised in Table 3 below by system organ class (in MedDRA) and by frequency.
 
-Frequencies are defined as: very common (≥ 1/10) common (≥ 1/100 to &lt; 1/10) uncommon (≥ 1/1,000 to &lt; 1/100) rare (≥ 1/10,000 to &lt; 1/1,000) very rare ( &lt; 1/10,000)
-
-not known (cannot be estimated from the available data)
+Frequencies are defined as: very common ( ≥ 1/10) common ( ≥ 1/100 to &lt; 1/10) uncommon ( ≥ 1/1,000 to &lt; 1/100) rare ( ≥ 1/10,000 to &lt; 1/1,000) very rare ( &lt; 1/10,000) not known (cannot be estimated from the available data)
 
 Table 3: All adverse reactions reported in adult patients in phase III clinical studies or through post-marketing use* and in two phase II and two phase III studies in paediatric patients
 
@@ -1302,26 +1221,26 @@ Table 3: All adverse reactions reported in adult patients in phase III clinical 
 
 <div style=\"page-break-after: always\"></div>
 
-| Common                                                                                                                                                                 | Uncommon                                                                                          | Rare                                                                                                                                         | Very rare                                                            | Not known                                       |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------|-------------------------------------------------|
-| Immune system disorders                                                                                                                                                | Immune system disorders                                                                           | Immune system disorders                                                                                                                      | Immune system disorders                                              | Immune system disorders                         |
-|                                                                                                                                                                        | Allergic reaction, Dermatitis allergic, Angioedema and allergic oedema                            |                                                                                                                                              | Anaphylactic reactions including anaphylactic shock                  |                                                 |
-| Nervous system disorders                                                                                                                                               | Nervous system disorders                                                                          | Nervous system disorders                                                                                                                     | Nervous system disorders                                             | Nervous system disorders                        |
-| Dizziness, Headache                                                                                                                                                    | Cerebral and intracranial haemorrhage, Syncope                                                    |                                                                                                                                              |                                                                      |                                                 |
-| Eye disorders                                                                                                                                                          | Eye disorders                                                                                     | Eye disorders                                                                                                                                | Eye disorders                                                        | Eye disorders                                   |
-| Eye haemorrhage (incl. conjunctival haemorrhage)                                                                                                                       |                                                                                                   |                                                                                                                                              |                                                                      |                                                 |
-| Cardiac disorders                                                                                                                                                      | Cardiac disorders                                                                                 | Cardiac disorders                                                                                                                            | Cardiac disorders                                                    | Cardiac disorders                               |
-|                                                                                                                                                                        | Tachycardia                                                                                       |                                                                                                                                              |                                                                      |                                                 |
-| Vascular disorders                                                                                                                                                     | Vascular disorders                                                                                | Vascular disorders                                                                                                                           | Vascular disorders                                                   | Vascular disorders                              |
-| Hypotension, Haematoma                                                                                                                                                 |                                                                                                   |                                                                                                                                              |                                                                      |                                                 |
-| Respiratory, thoracic and mediastinal disorders                                                                                                                        | Respiratory, thoracic and mediastinal disorders                                                   | Respiratory, thoracic and mediastinal disorders                                                                                              | Respiratory, thoracic and mediastinal disorders                      | Respiratory, thoracic and mediastinal disorders |
-| Epistaxis, Haemoptysis                                                                                                                                                 |                                                                                                   |                                                                                                                                              | Eosinophilic pneumonia                                               |                                                 |
-| Gastrointestinal disorders                                                                                                                                             | Gastrointestinal disorders                                                                        | Gastrointestinal disorders                                                                                                                   | Gastrointestinal disorders                                           | Gastrointestinal disorders                      |
-| Gingival bleeding, Gastrointestinal tract haemorrhage (incl. rectal haemorrhage), Gastrointestinal and abdominal pains, Dyspepsia, Nausea, Constipation A , Diarrhoea, | Dry mouth                                                                                         |                                                                                                                                              |                                                                      |                                                 |
-| Vomiting Hepatobiliary disorders                                                                                                                                       | Vomiting Hepatobiliary disorders                                                                  | Vomiting Hepatobiliary disorders                                                                                                             | Vomiting Hepatobiliary disorders                                     | Vomiting Hepatobiliary disorders                |
-| Increase in transaminases                                                                                                                                              | Hepatic impairment, Increased bilirubin, Increased blood alkaline phosphatase A , Increased GGT A | Jaundice, Bilirubin conjugated increased (with or without concomitant increase of ALT), Cholestasis, Hepatitis (incl. hepatocellular injury) |                                                                      |                                                 |
-| Skin and subcutaneous tissue disorders                                                                                                                                 | Skin and subcutaneous tissue disorders                                                            | Skin and subcutaneous tissue disorders                                                                                                       | Skin and subcutaneous tissue disorders                               | Skin and subcutaneous tissue disorders          |
-| Pruritus (incl. uncommon cases of generalised pruritus), Rash, Ecchymosis, Cutaneous and                                                                               | Urticaria                                                                                         |                                                                                                                                              | Stevens-Johnson syndrome/ Toxic Epidermal Necrolysis, DRESS syndrome |                                                 |
+| Common                                                                                                                                                                   | Uncommon                                                                                          | Rare                                                                                                                                         | Very rare                                                            | Not known                                       |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------|-------------------------------------------------|
+| Immune system disorders                                                                                                                                                  | Immune system disorders                                                                           | Immune system disorders                                                                                                                      | Immune system disorders                                              | Immune system disorders                         |
+|                                                                                                                                                                          | Allergic reaction, Dermatitis allergic, Angioedema and allergic oedema                            |                                                                                                                                              | Anaphylactic reactions including anaphylactic shock                  |                                                 |
+| Nervous system disorders                                                                                                                                                 | Nervous system disorders                                                                          | Nervous system disorders                                                                                                                     | Nervous system disorders                                             | Nervous system disorders                        |
+| Dizziness, Headache                                                                                                                                                      | Cerebral and intracranial haemorrhage, Syncope                                                    |                                                                                                                                              |                                                                      |                                                 |
+| Eye disorders                                                                                                                                                            | Eye disorders                                                                                     | Eye disorders                                                                                                                                | Eye disorders                                                        | Eye disorders                                   |
+| Eye haemorrhage (incl. conjunctival haemorrhage)                                                                                                                         |                                                                                                   |                                                                                                                                              |                                                                      |                                                 |
+| Cardiac disorders                                                                                                                                                        |                                                                                                   |                                                                                                                                              |                                                                      |                                                 |
+| Tachycardia                                                                                                                                                              | Tachycardia                                                                                       | Tachycardia                                                                                                                                  | Tachycardia                                                          | Tachycardia                                     |
+| Vascular disorders                                                                                                                                                       |                                                                                                   |                                                                                                                                              |                                                                      |                                                 |
+| Hypotension, Haematoma                                                                                                                                                   |                                                                                                   |                                                                                                                                              |                                                                      |                                                 |
+| Respiratory, thoracic and mediastinal disorders                                                                                                                          | Respiratory, thoracic and mediastinal disorders                                                   | Respiratory, thoracic and mediastinal disorders                                                                                              | Respiratory, thoracic and mediastinal disorders                      | Respiratory, thoracic and mediastinal disorders |
+| Epistaxis, Haemoptysis                                                                                                                                                   |                                                                                                   |                                                                                                                                              | Eosinophilic pneumonia                                               |                                                 |
+| Gastrointestinal disorders                                                                                                                                               | Gastrointestinal disorders                                                                        | Gastrointestinal disorders                                                                                                                   | Gastrointestinal disorders                                           | Gastrointestinal disorders                      |
+| Gingival bleeding, Gastrointestinal tract haemorrhage (incl. rectal haemorrhage), Gastrointestinal and abdominal pains, Dyspepsia, Nausea, Constipation A , Diarrhoea, A | Dry mouth                                                                                         |                                                                                                                                              |                                                                      |                                                 |
+| Vomiting Hepatobiliary disorders                                                                                                                                         | Vomiting Hepatobiliary disorders                                                                  | Vomiting Hepatobiliary disorders                                                                                                             | Vomiting Hepatobiliary disorders                                     | Vomiting Hepatobiliary disorders                |
+| Increase in transaminases                                                                                                                                                | Hepatic impairment, Increased bilirubin, Increased blood alkaline phosphatase A , Increased GGT A | Jaundice, Bilirubin conjugated increased (with or without concomitant increase of ALT), Cholestasis, Hepatitis (incl. hepatocellular injury) |                                                                      |                                                 |
+| Skin and subcutaneous tissue disorders                                                                                                                                   | Skin and subcutaneous tissue disorders                                                            | Skin and subcutaneous tissue disorders                                                                                                       | Skin and subcutaneous tissue disorders                               | Skin and subcutaneous tissue disorders          |
+| Pruritus (incl. uncommon cases of generalised pruritus), Rash, Ecchymosis, Cutaneous and                                                                                 | Urticaria                                                                                         |                                                                                                                                              | Stevens-Johnson syndrome/ Toxic Epidermal Necrolysis, DRESS syndrome |                                                 |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1360,9 +1279,7 @@ Reporting suspected adverse reactions after authorisation of the medicinal produ
 
 ## 4.9 Overdose
 
-Rare cases of overdose up to 1,960 mg have been reported. In case of overdose, the patient should be observed carefully for  bleeding complications or other adverse reactions (see section 'Management of bleeding'). Due to limited absorption a ceiling effect with no further increase in average plasma exposure is expected at supratherapeutic doses of 50 mg rivaroxaban or above.
-
-A specific reversal agent (andexanet alfa) antagonising the pharmacodynamic effect of rivaroxaban is available (refer to the Summary of Product Characteristics of andexanet alfa). The use of activated charcoal to reduce absorption in case of rivaroxaban overdose may be considered.
+Rare cases of overdose up to 1,960 mg have been reported. In case of overdose, the patient should be observed carefully for  bleeding complications or other adverse reactions (see section 'Management of bleeding'). Due to limited absorption a ceiling effect with no further increase in average plasma exposure is expected at supratherapeutic doses of 50 mg rivaroxaban or above. A specific reversal agent (andexanet alfa) antagonising the pharmacodynamic effect of rivaroxaban is available (refer to the Summary of Product Characteristics of andexanet alfa). The use of activated charcoal to reduce absorption in case of rivaroxaban overdose may be considered.
 
 ## Management of bleeding
 
@@ -1386,9 +1303,11 @@ Rivaroxaban is a highly selective direct factor Xa inhibitor with oral bioavaila
 
 ## Pharmacodynamic effects
 
-Dose-dependent inhibition of factor Xa activity was observed in humans. Prothrombin time (PT) is influenced by rivaroxaban in a dose dependent way with a close correlation to plasma concentrations (r value equals 0.98) if Neoplastin is used for the assay. Other reagents would provide different results. The readout for PT is to be done in seconds, because the INR is only calibrated and validated for coumarins and cannot be used for any other anticoagulant. In patients undergoing major orthopaedic surgery, the 5/95 percentiles for PT (Neoplastin) 2 - 4 hours after tablet intake (i.e. at the time of maximum effect) ranged from 13 to 25 s (baseline values before surgery 12 to 15 s). (Factors II, IX and X) and a 4-factor PCC (Factors II, VII, IX and X) were assessed. The 3-factor PCC reductions of approximately 3.5 seconds observed with the 4-factor PCC. In contrast, the 3-factor PCC
+Dose-dependent inhibition of factor Xa activity was observed in humans. Prothrombin time (PT) is
 
-In a clinical pharmacology study on the reversal of rivaroxaban pharmacodynamics in healthy adult subjects (n=22), the effects of single doses (50 IU/kg) of two different types of PCCs, a 3-factor PCC reduced mean Neoplastin PT values by approximately 1.0 second within 30 minutes, compared to had a greater and more rapid overall effect on reversing changes in endogenous thrombin generation than the 4-factor PCC (see section 4.9).
+influenced by rivaroxaban in a dose dependent way with a close correlation to plasma concentrations (r value equals 0.98) if Neoplastin is used for the assay. Other reagents would provide different results. The readout for PT is to be done in seconds, because the INR is only calibrated and validated for coumarins and cannot be used for any other anticoagulant. In patients undergoing major orthopaedic surgery, the 5/95 percentiles for PT (Neoplastin) 2 - 4 hours after tablet intake (i.e. at the time of maximum effect) ranged from 13 to 25 s (baseline values before surgery 12 to 15 s). In a clinical pharmacology study on the reversal of rivaroxaban pharmacodynamics in healthy adult subjects (n=22), the effects of single doses (50 IU/kg) of two different types of PCCs, a 3-factor PCC (Factors II, IX and X) and a 4-factor PCC (Factors II, VII, IX and X) were assessed. The 3-factor PCC reduced mean Neoplastin PT values by approximately 1.0 second within 30 minutes, compared to reductions of approximately 3.5 seconds observed with the 4-factor PCC. In contrast, the 3-factor PCC had a greater and more rapid overall effect on reversing changes in endogenous thrombin generation
+
+than the 4-factor PCC (see section 4.9).
 
 The activated partial thomboplastin time (aPTT) and Hep test are also prolonged dose-dependently; however, they are not recommended to assess the pharmacodynamic effect of rivaroxaban. There is no need for monitoring of coagulation parameters during treatment with rivaroxaban in clinical routine. However, if clinically indicated rivaroxaban levels can be measured by calibrated quantitative antifactor Xa tests (see section 5.2).
 
@@ -1415,9 +1334,9 @@ The main safety endpoint, major bleeding, showed comparable rates for patients t
 |-------------------------------------------|-----------------------------------------------------------|-----------------------------------------------------------|-----------------------------------------------------------|------------------------------------------------------------------|------------------------------------------------------------------|-----------------------------------------------------------|---------------------------------------------------------------|---------------------------------------------------------------|------------------------------------------------------------|
 | Treatment dose and duration after surgery | Rivaroxaban 10 mg od 35 ± 4 days 40 35 ±                  | Rivaroxaban 10 mg od 35 ± 4 days 40 35 ±                  | Enoxaparin mg od 4 days p                                 | Rivaroxaban 10 mg od 35 ± 4 days Enoxaparin 40 mg od 12 ± 2 days | Rivaroxaban 10 mg od 35 ± 4 days Enoxaparin 40 mg od 12 ± 2 days | p                                                         | Rivaroxaban 10 mg od 12 ± 2 days Enoxaparin 40 mg 12 ± 2 days | Rivaroxaban 10 mg od 12 ± 2 days Enoxaparin 40 mg 12 ± 2 days | od p                                                       |
 | Total VTE                                 | 18 (1.1%)                                                 | 58 (3.7%)                                                 | < 0.001                                                   | 17 (2.0%)                                                        | 81 (9.3%)                                                        | < 0.001                                                   | 79 (9.6%)                                                     | 166 (18.9%)                                                   | < 0.001                                                    |
-| Major VTE                                 | 4 (0.2%)                                                  | 33 (2.0%) <                                               | 0.001                                                     | 6 (0.6%)                                                         | 49 (5.1%)                                                        | < 0.001                                                   | 9 (1.0%)                                                      | 24 (2.6%)                                                     | 0.01                                                       |
+| Major VTE                                 | 4 (0.2%)                                                  | 33 (2.0%)                                                 | < 0.001                                                   | 6 (0.6%)                                                         | 49 (5.1%)                                                        | < 0.001                                                   | 9 (1.0%)                                                      | 24 (2.6%)                                                     | 0.01                                                       |
 | Symptomatic VTE                           | 6 (0.4%)                                                  | 11 (0.7%)                                                 | 3                                                         | (0.4%)                                                           | 15 (1.7%)                                                        |                                                           | 8 (1.0%)                                                      | 24 (2.7%)                                                     | 24 (2.7%)                                                  |
-| Major bleedings                           | 6 (0.3%)                                                  | 2 (0.1%)                                                  | 1                                                         | (0.1%)                                                           | 1 (0.1%)                                                         |                                                           | 7 (0.6%)                                                      | 6 (0.5%)                                                      | 6 (0.5%)                                                   |
+| Major bleedings                           | 6 (0.3%)                                                  | 2 (0.1%)                                                  |                                                           | 1 (0.1%)                                                         | 1 (0.1%)                                                         |                                                           | 7 (0.6%)                                                      | 6 (0.5%)                                                      | 6 (0.5%)                                                   |
 
 od: once daily
 
@@ -1439,13 +1358,11 @@ In Einstein PE, 4,832 patients with acute PE were studied for the treatment of P
 
 For the initial treatment of acute PE 15 mg rivaroxaban was administered twice daily for three weeks. This was followed by 20 mg rivaroxaban once daily.
 
-In both the Einstein DVT and the Einstein PE study, the comparator treatment regimen consisted of enoxaparin administered for at least 5 days in combination with vitamin K antagonist treatment until the PT/INR was in therapeutic range (≥ 2.0). Treatment was continued with a vitamin K antagonist dose-adjusted to maintain the PT/INR values within the therapeutic range of 2.0 to 3.0.
+In both the Einstein DVT and the Einstein PE study, the comparator treatment regimen consisted of enoxaparin administered for at least 5 days in combination with vitamin K antagonist treatment until the PT/INR was in therapeutic range ( ≥ 2.0). Treatment was continued with a vitamin K antagonist dose-adjusted to maintain the PT/INR values within the therapeutic range of 2.0 to 3.0.
 
-In Einstein Extension 1,197 patients with DVT or PE were studied for the prevention of recurrent DVT and PE. The treatment duration was for an additional 6 or 12 months in patients who had
+In Einstein Extension 1,197 patients with DVT or PE were studied for the prevention of recurrent DVT and PE. The treatment duration was for an additional 6 or 12 months in patients who had completed 6 to 12 months of treatment for venous thromboembolism depending on the clinical judgment of the investigator. Rivaroxaban 20 mg once daily was compared with placebo.
 
 <div style=\"page-break-after: always\"></div>
-
-completed 6 to 12 months of treatment for venous thromboembolism depending on the clinical judgment of the investigator. Rivaroxaban 20 mg once daily was compared with placebo.
 
 Einstein DVT, PE and Extension used the same pre-defined primary and secondary efficacy outcomes. The primary efficacy outcome was symptomatic recurrent VTE defined as the composite of recurrent DVT or fatal or non-fatal PE. The secondary efficacy outcome was defined as the composite of recurrent DVT, non-fatal PE and all-cause mortality.
 
@@ -1460,19 +1377,13 @@ Table 5: Efficacy and safety results from phase III Einstein DVT
 | Study population                                | 3,449 patients with symptomatic acute DVT   | 3,449 patients with symptomatic acute DVT    |
 |-------------------------------------------------|---------------------------------------------|----------------------------------------------|
 | Treatment dose and duration                     | Rivaroxaban a ) 3, 6 or 12 months N=1,731   | Enoxaparin/VKA b ) 3, 6 or 12 months N=1,718 |
-| Symptomatic recurrent VTE*                      | 36 (2.1%)                                   | 51 (3.0%)                                    |
+| Symptomatic recurrent VTE *                     | 36 (2.1%)                                   | 51 (3.0%)                                    |
 | Symptomatic recurrent PE                        | 20 (1.2%)                                   | 18 (1.0%)                                    |
 | Symptomatic recurrent DVT                       | 14 (0.8%)                                   | 28 (1.6%)                                    |
 | Symptomatic PE and DVT                          | 1 (0.1%)                                    | 0                                            |
 | Fatal PE/death where PE cannot be ruled out     | 4 (0.2%)                                    | 6 (0.3%)                                     |
 | Major or clinically relevant non-major bleeding | 139 (8.1%)                                  | 138 (8.1%)                                   |
 | Major bleeding events                           | 14 (0.8%)                                   | 20 (1.2%)                                    |
-
-a) Rivaroxaban 15 mg twice daily for 3 weeks followed by 20 mg once daily
-
-b) Enoxaparin for at least 5 days, overlapped with and followed by VKA
-
-* p &lt; 0.0001 (non-inferiority to a prespecified HR of 2.0); HR: 0.680 (0.443 - 1.042), p=0.076 (superiority)
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1485,7 +1396,7 @@ Table 6: Efficacy and safety results from phase III Einstein PE
 | Study population                                | 4,832 patients with an acute symptomatic PE   | 4,832 patients with an acute symptomatic PE   |
 |-------------------------------------------------|-----------------------------------------------|-----------------------------------------------|
 | Treatment dose and duration                     | Rivaroxaban a) 3, 6 or 12 months N=2,419      | Enoxaparin/VKA b) 3, 6 or 12 months N=2,413   |
-| Symptomatic recurrent VTE*                      | 50 (2.1%)                                     | 44 (1.8%)                                     |
+| Symptomatic recurrent VTE *                     | 50 (2.1%)                                     | 44 (1.8%)                                     |
 | Symptomatic recurrent PE                        | 23 (1.0%)                                     | 20 (0.8%)                                     |
 | Symptomatic recurrent DVT                       | 18 (0.7%)                                     | 17 (0.7%)                                     |
 | Symptomatic PE and DVT                          | 0                                             | 2 (<0.1%)                                     |
@@ -1493,20 +1404,12 @@ Table 6: Efficacy and safety results from phase III Einstein PE
 | Major or clinically relevant non-major bleeding | 249 (10.3%)                                   | 274 (11.4%)                                   |
 | Major bleeding events                           | 26 (1.1%)                                     | 52 (2.2%)                                     |
 
-a) Rivaroxaban 15 mg twice daily for 3 weeks followed by 20 mg once daily
-
-b) Enoxaparin for at least 5 days, overlapped with and followed by VKA
-
-* p &lt; 0.0026 (non-inferiority to a prespecified HR of 2.0); HR: 1.123 (0.749 - 1.684)
-
-A prespecified pooled analysis of the outcome of the Einstein DVT and PE studies was conducted (see Table 7).
-
 Table 7: Efficacy and safety results from pooled analysis of phase III Einstein DVT and Einstein PE
 
 | Study population            | 8,281 patients with an acute symptomatic DVT or PE   | 8,281 patients with an acute symptomatic DVT or PE   |
 |-----------------------------|------------------------------------------------------|------------------------------------------------------|
 | Treatment dose and duration | Rivaroxaban a) 3, 6 or 12 months N=4,150             | Enoxaparin/VKA b ) 3, 6 or 12 months N=4,131         |
-| Symptomatic recurrent VTE*  | 86 (2.1%)                                            | 95 (2.3%)                                            |
+| Symptomatic recurrent VTE * | 86 (2.1%)                                            | 95 (2.3%)                                            |
 | Symptomatic recurrent PE    | 43 (1.0%)                                            | 38 (0.9%)                                            |
 | Symptomatic recurrent DVT   | 32                                                   | 45                                                   |
 
@@ -1518,8 +1421,6 @@ Table 7: Efficacy and safety results from pooled analysis of phase III Einstein 
 | Fatal PE/death where PE cannot be ruled out     | 15 (0.4%)  | 13 (0.3%)   |
 | Major or clinically relevant non-major bleeding | 388 (9.4%) | 412 (10.0%) |
 | Major bleeding events                           | 40 (1.0%)  | 72 (1.7%)   |
-
-a) Rivaroxaban 15 mg twice daily for 3 weeks followed by 20 mg once daily
 
 b) Enoxaparin for at least 5 days, overlapped with and followed by VKA
 
@@ -1534,16 +1435,12 @@ Table 8: Efficacy and safety results from phase III Einstein Extension
 | Study population                            | 1,197 patients continued treatment and prevention of recurrent VTE   | 1,197 patients continued treatment and prevention of recurrent VTE   |
 |---------------------------------------------|----------------------------------------------------------------------|----------------------------------------------------------------------|
 | Treatment dose and duration                 | Rivaroxaban a) 6 or 12 months N=602                                  | Placebo 6 or 12 months N=594                                         |
-| Symptomatic recurrent VTE*                  | 8 (1.3%)                                                             | 42 (7.1%)                                                            |
+| Symptomatic recurrent VTE *                 | 8 (1.3%)                                                             | 42 (7.1%)                                                            |
 | Symptomatic recurrent PE                    | 2 (0.3%)                                                             | 13 (2.2%)                                                            |
 | Symptomatic recurrent DVT                   | 5 (0.8%)                                                             | 31 (5.2%)                                                            |
 | Fatal PE/death where PE cannot be ruled out | 1 (0.2%)                                                             | 1 (0.2%)                                                             |
 | Major bleeding events                       | 4 (0.7%)                                                             | 0 (0.0%)                                                             |
 | Clinically relevant non-major bleeding      | 32 (5.4%)                                                            | 7 (1.2%)                                                             |
-
-a) Rivaroxaban 20 mg once daily
-
-* p &lt; 0.0001 (superiority), HR: 0.185 (0.087 - 0.393)
 
 In the Einstein Choice study (Table 9) rivaroxaban 20 mg and 10 mg were both superior to 100 mg acetylsalicylic acid for the primary efficacy outcome. The principal safety outcome (major bleeding events) was similar for patients treated with  rivaroxaban 20 mg and 10 mg once daily compared to 100 mg acetylsalicylic acid.
 
@@ -1568,11 +1465,7 @@ Table 9: Efficacy and safety results from phase III Einstein Choice
 
 od: once daily
 
-* p&lt;0.001(superiority) 20 mg rivaroxaban od versus acetylsalicylic acid 100 mg od; HR=0.34 (0.200.59)
-
-** p&lt;0.001 (superiority) 10 mg rivaroxaban od versus acetylsalicylic acid 100 mg od; HR=0.26 (0.140.47)
-
-+  20 mg rivaroxaban od versus acetylsalicylic acid 100 mg od; HR=0.44 (0.27-0.71), p=0.0009 (nominal) ++  10 mg rivaroxaban od versus acetylsalicylic acid 100 mg od; HR=0.32 (0.18-0.55), p&lt;0.0001
+* p&lt;0.001(superiority) 20 mg rivaroxaban od versus acetylsalicylic acid 100 mg od; HR=0.34 (0.200.59) ** p&lt;0.001 (superiority) 10 mg rivaroxaban od versus acetylsalicylic acid 100 mg od; HR=0.26 (0.140.47) +  20 mg rivaroxaban od versus acetylsalicylic acid 100 mg od; HR=0.44 (0.27-0.71), p=0.0009 (nominal) ++  10 mg rivaroxaban od versus acetylsalicylic acid 100 mg od; HR=0.32 (0.18-0.55), p&lt;0.0001
 
 (nominal)
 
@@ -1612,9 +1505,7 @@ Rivaroxaban is metabolised via CYP3A4, CYP2J2 and CYP-independent mechanisms. Ox
 
 Unchanged rivaroxaban is the most important compound in human plasma, with no major or active circulating metabolites being present. With a systemic clearance of about 10 l/h, rivaroxaban can be classified as a low-clearance substance. After intravenous administration of a 1 mg dose the elimination half-life is about 4.5 hours. After oral administration the elimination becomes absorption rate limited. Elimination of rivaroxaban from plasma occurs with terminal half-lives of 5 to 9 hours in young individuals, and with terminal half-lives of 11 to 13 hours in the elderly.
 
-## Special populations
-
-## Gender
+## Special populations Gender
 
 There were no clinically relevant differences in pharmacokinetics and pharmacodynamics between male and female patients.
 
@@ -1654,11 +1545,9 @@ In patients receiving rivaroxaban 10 mg once daily for prevention of VTE the geo
 
 ## Pharmacokinetic/pharmacodynamic relationship
 
-The pharmacokinetic/pharmacodynamic (PK/PD) relationship between rivaroxaban plasma concentration and several PD endpoints (factor Xa inhibition, PT, aPTT, Heptest) has been evaluated after administration of a wide range of doses (5 - 30 mg twice a day). The relationship between rivaroxaban concentration and factor Xa activity was best described by an Emax model. For PT, the linear intercept model generally described the data better. Depending on the different PT reagents
+The pharmacokinetic/pharmacodynamic (PK/PD) relationship between rivaroxaban plasma concentration and several PD endpoints (factor Xa inhibition, PT, aPTT, Heptest) has been evaluated after administration of a wide range of doses (5 - 30 mg twice a day). The relationship between rivaroxaban concentration and factor Xa activity was best described by an Emax model. For PT, the linear intercept model generally described the data better. Depending on the different PT reagents used, the slope differed considerably. When Neoplastin PT was used, baseline PT was about 13 s and the slope was around 3 to 4 s/(100 mcg/l). The results of the PK/PD analyses in Phase II and III were consistent with the data established in healthy subjects. In patients, baseline factor Xa and PT were influenced by the surgery resulting in a difference in the concentration-PT slope between the day postsurgery and steady state.
 
 <div style=\"page-break-after: always\"></div>
-
-used, the slope differed considerably. When Neoplastin PT was used, baseline PT was about 13 s and the slope was around 3 to 4 s/(100 mcg/l). The results of the PK/PD analyses in Phase II and III were consistent with the data established in healthy subjects. In patients, baseline factor Xa and PT were influenced by the surgery resulting in a difference in the concentration-PT slope between the day postsurgery and steady state.
 
 ## Paediatric population
 
@@ -1702,7 +1591,7 @@ This medicinal product does not require any special storage conditions.
 
 ## 6.5 Nature and contents of container
 
-PVC/PVdC/Aluminium foil blister packs containing 5, 10, 30 or 100 film-coated tablets or perforated unit dose blisters in cartons of 10  1, 28  1, 30  1, 50  1, 98  1, or 100  1 film-coated tablets.
+PVC/PVdC/Aluminium foil blister packs containing 5, 10, 30 or 100 film-coated tablets or perforated unit dose blisters in cartons of 10 × 1, 28 × 1, 30 × 1, 50 × 1, 98 × 1, or 100 × 1 film-coated tablets.
 
 White HDPE bottles with white opaque PP screw cap with aluminium induction sealing liner wad containing 98, 100 or 250 film-coated tablets.
 
@@ -1730,9 +1619,7 @@ EU/1/21/1588/015  Blister (PVC/PVdC/alu)  10 tablets EU/1/21/1588/016  Blister (
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-Date of first authorisation: 12
-
-th -November-2021
+Date of first authorisation: 12 th -November-2021
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -1786,11 +1673,9 @@ Therapy with Rivaroxaban Viatris should be continued long term provided the bene
 
 If a dose is missed the patient should take Rivaroxaban Viatris immediately and continue on the following day with the once daily intake as recommended. The dose should not be doubled within the same day to make up for a missed dose.
 
-Treatment of DVT, treatment of PE and prevention of recurrent DVT and PE in adults
+Treatment of DVT, treatment of PE and prevention of recurrent DVT and PE in adults The recommended dose for the initial treatment of acute DVT or PE is 15 mg twice daily for the first three weeks followed by 20 mg once daily for the continued treatment and prevention of recurrent DVT and PE.
 
 <div style=\"page-break-after: always\"></div>
-
-The recommended dose for the initial treatment of acute DVT or PE is 15 mg twice daily for the first three weeks followed by 20 mg once daily for the continued treatment and prevention of recurrent DVT and PE.
 
 Short duration of therapy (at least 3 months) should be considered in patients with DVT or PE provoked by major transient risk factors (i.e. recent major surgery or trauma). Longer duration of therapy should be considered in patients with provoked DVT or PE not related to major transient risk factors, unprovoked DVT or PE, or a history of recurrent DVT or PE.
 
@@ -1815,25 +1700,26 @@ Treatment of VTE and prevention of VTE recurrence in children and adolescents Ri
 The dose for children and adolescent is calculated based on body weight.
 
 - -Body weight from 30 to 50 kg:
-- a once daily dose of 15 mg rivaroxaban is recommended. This is the maximum daily dose.
-- -Body weight of 50 kg or more:
-- a once daily dose of 20 mg rivaroxaban is recommended. This is the maximum daily dose.
+
+a once daily dose of 15 mg rivaroxaban is recommended. This is the maximum daily dose.
+
+- -Body weight of 50 kg or more: a once daily dose of 20 mg rivaroxaban is recommended. This is the maximum daily dose.
 - -For patients with body weight less 30 kg refer to the Summary of Product Characteristics of more suitable forms of rivaroxaban.
 
 The weight of a child should be monitored and the dose reviewed regularly. This is to ensure a therapeutic dose is maintained. Dose adjustments should be made based on changes in body weight only.
 
-Treatment should be continued for at least 3 months in children and adolescents. Treatment can be extended up to 12 months when clinically necessary. There is no data available in children to support a dose reduction after 6 months treatment. The benefit-risk of continued therapy after 3 months should
+Treatment should be continued for at least 3 months in children and adolescents. Treatment can be extended up to 12 months when clinically necessary. There is no data available in children to support a dose reduction after 6 months treatment. The benefit-risk of continued therapy after 3 months should be assessed on an individual basis taking into account the risk for recurrent thrombosis versus the potential bleeding risk.
 
 <div style=\"page-break-after: always\"></div>
-
-be assessed on an individual basis taking into account the risk for recurrent thrombosis versus the potential bleeding risk.
 
 If a dose is missed, the missed dose should be taken as soon as possible after it is noticed, but only on the same day. If this is not possible, the patient should skip the dose and continue with the next dose as prescribed. The patient should not take two doses to make up for a missed dose.
 
 ## Converting from Vitamin K Antagonists (VKA) to Rivaroxaban Viatris
 
-- -
-- Prevention of stroke and systemic embolism: VKA treatment should be stopped and Rivaroxaban Viatris therapy should be initiated when the International Normalised Ratio (INR) is ≤ 3.0.
+- -Prevention of stroke and systemic embolism: VKA treatment should be stopped and Rivaroxaban Viatris therapy should be initiated when the
+
+International Normalised Ratio (INR) is ≤ 3.0.
+
 - -Treatment of DVT, PE and prevention of recurrence in adults and treatment of VTE and prevention of recurrence in paediatric patients:
 
 VKA treatment should be stopped and rivaroxaban therapy should be initiated once the INR is ≤ 2.5.
@@ -1900,11 +1786,9 @@ Rivaroxaban Viatris can be initiated or continued in patients who may require ca
 
 ## Patients with non-valvular atrial fibrillation who undergo PCI (percutaneous coronary intervention) with stent placement
 
-There is limited experience of a reduced dose of 15 mg Rivaroxaban Viatris once daily (or 10 mg Rivaroxaban Viatris once daily for patients with moderate renal impairment [creatinine clearance 30-49 ml/min]) in addition to a P2Y12 inhibitor for a maximum of 12 months in patients with non-
+There is limited experience of a reduced dose of 15 mg Rivaroxaban Viatris once daily (or 10 mg Rivaroxaban Viatris once daily for patients with moderate renal impairment [creatinine clearance 30-49 ml/min]) in addition to a P2Y12 inhibitor for a maximum of 12 months in patients with non- valvular atrial fibrillation who require oral anticoagulation and undergo PCI with stent placement (see sections 4.4 and 5.1).
 
 <div style=\"page-break-after: always\"></div>
-
-valvular atrial fibrillation who require oral anticoagulation and undergo PCI with stent placement (see sections 4.4 and 5.1).
 
 ## Paediatric population
 
@@ -1950,11 +1834,9 @@ Active clinically significant bleeding.
 
 Lesion or condition, if considered to be a significant risk for major bleeding. This may include current or recent gastrointestinal ulceration, presence of malignant neoplasms at high risk of bleeding, recent brain or spinal injury, recent brain, spinal or ophthalmic surgery, recent intracranial haemorrhage, known or suspected oesophageal varices, arteriovenous malformations, vascular aneurysms or major intraspinal or intracerebral vascular abnormalities.
 
-Concomitant treatment with any other anticoagulants, e.g. unfractionated heparin (UFH), low molecular weight heparins (enoxaparin, dalteparin, etc.), heparin derivatives (fondaparinux, etc.), oral anticoagulants (warfarin, dabigatran etexilate, apixaban, etc.) except under specific circumstances of
+Concomitant treatment with any other anticoagulants, e.g. unfractionated heparin (UFH), low molecular weight heparins (enoxaparin, dalteparin, etc.), heparin derivatives (fondaparinux, etc.), oral anticoagulants (warfarin, dabigatran etexilate, apixaban, etc.) except under specific circumstances of switching anticoagulant therapy (see section 4.2) or when UFH is given at doses necessary to maintain an open central venous or arterial catheter (see section 4.5).
 
 <div style=\"page-break-after: always\"></div>
-
-switching anticoagulant therapy (see section 4.2) or when UFH is given at doses necessary to maintain an open central venous or arterial catheter (see section 4.5).
 
 Hepatic disease associated with coagulopathy and clinically relevant bleeding risk including cirrhotic patients with Child Pugh B and C (see section 5.2).
 
@@ -1988,11 +1870,9 @@ Rivaroxaban Viatris is not recommended in children and adolescents with moderate
 
 ## Interaction with other medicinal products
 
-The use of Rivaroxaban Viatris is not recommended in patients receiving concomitant systemic treatment with azole-antimycotics (such as ketoconazole, itraconazole, voriconazole and posaconazole) or HIV protease inhibitors (e.g. ritonavir). These active substances are strong inhibitors of both CYP3A4 and P-gp and therefore may increase rivaroxaban plasma concentrations to a
+The use of Rivaroxaban Viatris is not recommended in patients receiving concomitant systemic treatment with azole-antimycotics (such as ketoconazole, itraconazole, voriconazole and posaconazole) or HIV protease inhibitors (e.g. ritonavir). These active substances are strong inhibitors of both CYP3A4 and P-gp and therefore may increase rivaroxaban plasma concentrations to a clinically relevant degree (2.6 fold on average) which may lead to an increased bleeding risk No clinical data is available in children receiving concomitant systemic treatment with strong inhibitors of both CYP 3A4 and P-gp (see section 4.5).
 
 <div style=\"page-break-after: always\"></div>
-
-clinically relevant degree (2.6 fold on average) which may lead to an increased bleeding risk No clinical data is available in children receiving concomitant systemic treatment with strong inhibitors of both CYP 3A4 and P-gp (see section 4.5).
 
 Care is to be taken if patients are treated concomitantly with medicinal products affecting haemostasis such as non-steroidal anti-inflammatory medicinal products (NSAIDs), acetylsalicylic acid (ASA) and platelet aggregation inhibitors or selective serotonin reuptake inhibitors (SSRIs) and serotonin norepinephrine reuptake inhibitors (SNRIs). For patients at risk of ulcerative gastrointestinal disease an appropriate prophylactic treatment may be considered (see section 4.5).
 
@@ -2024,7 +1904,9 @@ Direct acting Oral Anticoagulants (DOACs) including rivaroxaban are not recommen
 
 Clinical data are available from an interventional study with the primary objective to assess safety in patients with non-valvular atrial fibrillation who undergo PCI with stent placement. Data on efficacy in this population are limited (see sections 4.2 and 5.1). No data are available for such patients with a history of stroke/transient ischaemic attack.
 
-## Haemodynamically unstable PE patients or patients who require thrombolysis or pulmonary embolectomy
+## Haemodynamically unstable PE patients or patients who require thrombolysis or pulmonary
+
+## embolectomy
 
 Rivaroxaban Viatris is not recommended as an alternative to unfractionated heparin in patients with pulmonary embolism who are haemodynamically unstable or may receive thrombolysis or pulmonary embolectomy since the safety and efficacy of Rivaroxaban Viatris have not been established in these clinical situations.
 
@@ -2040,7 +1922,9 @@ For the removal of an epidural catheter and based on the general PK characterist
 
 If traumatic puncture occurs the administration of rivaroxaban is to be delayed for 24 hours. No data is available on the timing of the placement or removal of neuraxial catheter in children while on Rivaroxaban Viatris. In such cases, discontinue rivaroxaban and consider a short acting parenteral anticoagulant.
 
-Dosing recommendations before and after invasive procedures and surgical intervention If an invasive procedure or surgical intervention is required, Rivaroxaban Viatris 15 mg should be stopped at least 24 hours before the intervention, if possible and based on the clinical judgement of the physician. If the procedure cannot be delayed the increased risk of bleeding should be assessed against the urgency of the intervention.
+## Dosing recommendations before and after invasive procedures and surgical intervention
+
+If an invasive procedure or surgical intervention is required, Rivaroxaban Viatris 15 mg should be stopped at least 24 hours before the intervention, if possible and based on the clinical judgement of the physician. If the procedure cannot be delayed the increased risk of bleeding should be assessed against the urgency of the intervention.
 
 Rivaroxaban Viatris should be restarted as soon as possible after the invasive procedure or surgical intervention provided the clinical situation allows and adequate haemostasis has been established as determined by the treating physician (see section 5.2).
 
@@ -2148,23 +2032,23 @@ Overall, 69,608 adult patients in nineteen phase III studies and 488 paediatric 
 
 Table 1: Number of patients studied, total daily dose and maximum treatment duration in adult and paediatric phase III studies
 
-| Indication                                                                                                                                                         | Number of patients*   | Total daily dose                                                                                                                      | Maximum treatment duration   |
+| Indication                                                                                                                                                         |   Number of patients* | Total daily dose                                                                                                                      | Maximum treatment duration   |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------|---------------------------------------------------------------------------------------------------------------------------------------|------------------------------|
-| Prevention of (VTE in adult patients undergoing elective hip or knee replacement surgery                                                                           | 6,097                 | 10 mg                                                                                                                                 | 39 days                      |
-| Prevention of VTE in medically ill patients                                                                                                                        | 3,997                 | 10 mg                                                                                                                                 | 39 days                      |
-| Treatment of DVT, PE and prevention of recurrence                                                                                                                  | 6,790                 | Day 1 - 21: 30 mg Day 22 and onwards: 20 mg After at least 6 months: 10 mg or 20 mg                                                   | 21 months                    |
-| Treatment of VTE and prevention of VTE recurrence in term neonates and children aged less than 18 years following initiation of standard anticoagulation treatment | 329                   | Body weight- adjusted dose to achieve a similar exposure as that observed in adults treated for DVT with 20 mg rivaroxaban once daily | 12 months                    |
-| Prevention of stroke and systemic embolism in patients with non- valvular atrial fibrillation                                                                      | 7,750                 | 20 mg                                                                                                                                 | 41 months                    |
-| Prevention of atherothrombotic events in patients after an acute coronary syndrome (ACS)                                                                           | 10,225                | 5 mg or 10 mg respectively, co- administered with either acetylsalicylic acid or acetylsalicylic acid plus clopidogrel or ticlopidine | 31 months                    |
-| Prevention of atherothrombotic events in patients with CAD/PAD                                                                                                     | 18,244                | 5 mg co- administered with acetylsalicylic acid or 10 mg alone                                                                        | 47 months                    |
+| Prevention of (VTE in adult patients undergoing elective hip or knee replacement surgery                                                                           |                 6,097 | 10 mg                                                                                                                                 | 39 days                      |
+| Prevention of VTE in medically ill patients                                                                                                                        |                 3,997 | 10 mg                                                                                                                                 | 39 days                      |
+| Treatment of DVT, PE and prevention of recurrence                                                                                                                  |                 6,790 | Day 1 - 21: 30 mg Day 22 and onwards: 20 mg After at least 6 months: 10 mg or 20 mg                                                   | 21 months                    |
+| Treatment of VTE and prevention of VTE recurrence in term neonates and children aged less than 18 years following initiation of standard anticoagulation treatment |                   329 | Body weight- adjusted dose to achieve a similar exposure as that observed in adults treated for DVT with 20 mg rivaroxaban once daily | 12 months                    |
+| Prevention of stroke and systemic embolism in patients with non- valvular atrial fibrillation                                                                      |                 7,750 | 20 mg                                                                                                                                 | 41 months                    |
+| Prevention of atherothrombotic events in patients after an acute coronary syndrome (ACS)                                                                           |                10,225 | 5 mg or 10 mg respectively, co- administered with either acetylsalicylic acid or acetylsalicylic acid plus clopidogrel or ticlopidine | 31 months                    |
+| Prevention of atherothrombotic events in patients with CAD/PAD                                                                                                     |                18,244 | 5 mg co- administered with acetylsalicylic acid or 10 mg alone                                                                        | 47 months                    |
 
 <div style=\"page-break-after: always\"></div>
 
 | 3,256**   | 5 mg co- administered with acetylsalicylic acid   | 42 months   |
 |-----------|---------------------------------------------------|-------------|
 
--  Patients exposed to at least one dose of rivaroxaban
 - ** From the VOYAGER PAD study
+- ∗ Patients exposed to at least one dose of rivaroxaban
 
 The most commonly reported adverse reactions in patients receiving rivaroxaban were bleedings (see section 4.4. and 'Description of selected adverse reactions' below) (Table 2). The most commonly reported bleedings were epistaxis (4.5%) and gastrointestinal tract haemorrhage (3.8%).
 
@@ -2181,45 +2065,35 @@ Table 2: Bleeding* and anaemia events rates in patients exposed to rivaroxaban a
 | Prevention of atherothrombotic events in patients with CAD/PAD                                                                                                     | 6.7 per 100 patient years    | 0.15 per 100 patient years**    |
 | Prevention of atherothrombotic events in patients with CAD/PAD                                                                                                     | 8.38 per 100 patient years # | 0.74 per 100 patient years*** # |
 
-* For all rivaroxaban studies all bleeding events are collected, reported and adjudicated.
-
-** In the COMPASS study, there is a low anaemia incidence as a selective approach to adverse event collection was applied
-
-- *** A selective approach to adverse event collection was applied
-
-# From the VOYAGER PAD study
-
 ## Tabulated list of adverse reactions
 
 The frequencies of adverse reactions reported with rivaroxaban in adult and paediatric patients are summarised in Table 3 below by system organ class (in MedDRA) and by frequency.
 
-Frequencies are defined as: very common (≥ 1/10) common (≥ 1/100 to &lt; 1/10) uncommon (≥ 1/1,000 to &lt; 1/100) rare (≥ 1/10,000 to &lt; 1/1,000) very rare ( &lt; 1/10,000) not known (cannot be estimated from the available data)
+Frequencies are defined as: very common ( ≥ 1/10) common ( ≥ 1/100 to &lt; 1/10) uncommon ( ≥ 1/1,000 to &lt; 1/100) rare ( ≥ 1/10,000 to &lt; 1/1,000) very rare ( &lt; 1/10,000) not known (cannot be estimated from the available data)
 
 Table 3: All adverse reactions reported in adult patients in phase III clinical studies or through post-marketing use*and in two phase II and two phase III studies in paediatric patients
 
 <div style=\"page-break-after: always\"></div>
 
-| Common                                                                                                                                     | Uncommon                                                                                          | Rare                                                                                                                                         | Very rare                                           | Not known                                       |
-|--------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------|-------------------------------------------------|
-| Blood and lymphatic system disorders                                                                                                       | Blood and lymphatic system disorders                                                              | Blood and lymphatic system disorders                                                                                                         | Blood and lymphatic system disorders                | Blood and lymphatic system disorders            |
-| Anaemia (incl. respective laboratory parameters)                                                                                           | Thrombocytosis (incl. platelet count increased) A , Thrombocytopenia                              |                                                                                                                                              |                                                     |                                                 |
-| Immune system disorders                                                                                                                    | Immune system disorders                                                                           | Immune system disorders                                                                                                                      | Immune system disorders                             | Immune system disorders                         |
-|                                                                                                                                            | Allergic reaction, Dermatitis allergic, Angioedema and allergic oedema                            |                                                                                                                                              | Anaphylactic reactions including anaphylactic shock |                                                 |
-| Nervous system disorders                                                                                                                   | Nervous system disorders                                                                          | Nervous system disorders                                                                                                                     | Nervous system disorders                            | Nervous system disorders                        |
-| Dizziness, Headache                                                                                                                        | Cerebral and intracranial haemorrhage, Syncope                                                    |                                                                                                                                              |                                                     |                                                 |
-| Eye disorders                                                                                                                              | Eye disorders                                                                                     | Eye disorders                                                                                                                                | Eye disorders                                       | Eye disorders                                   |
-| Eye haemorrhage (incl. conjunctival haemorrhage)                                                                                           |                                                                                                   |                                                                                                                                              |                                                     |                                                 |
-| Cardiac disorders                                                                                                                          | Cardiac disorders                                                                                 | Cardiac disorders                                                                                                                            | Cardiac disorders                                   | Cardiac disorders                               |
-| Tachycardia                                                                                                                                | Tachycardia                                                                                       | Tachycardia                                                                                                                                  | Tachycardia                                         | Tachycardia                                     |
-| Vascular disorders                                                                                                                         | Vascular disorders                                                                                | Vascular disorders                                                                                                                           | Vascular disorders                                  | Vascular disorders                              |
-| Hypotension, Haematoma                                                                                                                     |                                                                                                   |                                                                                                                                              |                                                     |                                                 |
-| Respiratory, thoracic and mediastinal disorders                                                                                            | Respiratory, thoracic and mediastinal disorders                                                   | Respiratory, thoracic and mediastinal disorders                                                                                              | Respiratory, thoracic and mediastinal disorders     | Respiratory, thoracic and mediastinal disorders |
-| Epistaxis, Haemoptysis                                                                                                                     |                                                                                                   |                                                                                                                                              | Eosinophilic pneumonia                              |                                                 |
-| Gastrointestinal disorders                                                                                                                 | Gastrointestinal disorders                                                                        | Gastrointestinal disorders                                                                                                                   | Gastrointestinal disorders                          | Gastrointestinal disorders                      |
-| Gingival bleeding, Gastrointestinal tract haemorrhage (incl. rectal haemorrhage), Gastrointestinal and abdominal pains, Dyspepsia, Nausea, | Dry mouth                                                                                         |                                                                                                                                              |                                                     |                                                 |
-| Vomiting Hepatobiliary disorders                                                                                                           | Vomiting Hepatobiliary disorders                                                                  | Vomiting Hepatobiliary disorders                                                                                                             | Vomiting Hepatobiliary disorders                    | Vomiting Hepatobiliary disorders                |
-| Increase in transaminases                                                                                                                  | Hepatic impairment, Increased bilirubin, increased blood alkaline phosphatase A , increased GGT A | Jaundice, Bilirubin conjugated increased (with or without concomitant increase of ALT), Cholestasis, Hepatitis (incl. hepatocellular injury) |                                                     |                                                 |
-| Skin and subcutaneous tissue disorders                                                                                                     | Skin and subcutaneous tissue disorders                                                            | Skin and subcutaneous tissue disorders                                                                                                       | Skin and subcutaneous tissue disorders              | Skin and subcutaneous tissue disorders          |
+| Common                                                                                                                                       | Uncommon                                                                                          | Rare                                                                                                                                         | Very rare                                           | Not known                                       |
+|----------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------|-------------------------------------------------|
+| Blood and lymphatic system disorders                                                                                                         | Blood and lymphatic system disorders                                                              | Blood and lymphatic system disorders                                                                                                         | Blood and lymphatic system disorders                | Blood and lymphatic system disorders            |
+| Anaemia (incl. respective laboratory parameters)                                                                                             | Thrombocytosis (incl. platelet count increased) A , Thrombocytopenia                              |                                                                                                                                              |                                                     |                                                 |
+| Immune system disorders                                                                                                                      | Immune system disorders                                                                           | Immune system disorders                                                                                                                      | Immune system disorders                             | Immune system disorders                         |
+|                                                                                                                                              | Allergic reaction, Dermatitis allergic, Angioedema and allergic oedema                            |                                                                                                                                              | Anaphylactic reactions including anaphylactic shock |                                                 |
+| Nervous system disorders                                                                                                                     | Nervous system disorders                                                                          | Nervous system disorders                                                                                                                     | Nervous system disorders                            | Nervous system disorders                        |
+| Dizziness, Headache                                                                                                                          | Cerebral and intracranial haemorrhage, Syncope                                                    |                                                                                                                                              |                                                     |                                                 |
+| Eye disorders                                                                                                                                | Eye disorders                                                                                     | Eye disorders                                                                                                                                | Eye disorders                                       | Eye disorders                                   |
+| Eye haemorrhage (incl. conjunctival haemorrhage)                                                                                             |                                                                                                   |                                                                                                                                              |                                                     |                                                 |
+| Cardiac disorders Tachycardia                                                                                                                | Cardiac disorders Tachycardia                                                                     | Cardiac disorders Tachycardia                                                                                                                | Cardiac disorders Tachycardia                       | Cardiac disorders Tachycardia                   |
+| Vascular disorders Hypotension, Haematoma                                                                                                    |                                                                                                   |                                                                                                                                              |                                                     |                                                 |
+| Respiratory, thoracic and mediastinal disorders                                                                                              | Respiratory, thoracic and mediastinal disorders                                                   | Respiratory, thoracic and mediastinal disorders                                                                                              | Respiratory, thoracic and mediastinal disorders     | Respiratory, thoracic and mediastinal disorders |
+| Epistaxis, Haemoptysis                                                                                                                       |                                                                                                   |                                                                                                                                              | Eosinophilic pneumonia                              |                                                 |
+| Gastrointestinal disorders                                                                                                                   | Gastrointestinal disorders                                                                        | Gastrointestinal disorders                                                                                                                   | Gastrointestinal disorders                          | Gastrointestinal disorders                      |
+| Gingival bleeding, Gastrointestinal tract haemorrhage (incl. rectal haemorrhage), Gastrointestinal and abdominal pains, Dyspepsia, Nausea, A | Dry mouth                                                                                         |                                                                                                                                              |                                                     |                                                 |
+| Vomiting A                                                                                                                                   | Vomiting A                                                                                        | Vomiting A                                                                                                                                   | Vomiting A                                          | Vomiting A                                      |
+| Hepatobiliary disorders Increase in transaminases                                                                                            | Hepatic impairment, Increased bilirubin, increased blood alkaline phosphatase A , increased GGT A | Jaundice, Bilirubin conjugated increased (with or without concomitant increase of ALT), Cholestasis, Hepatitis (incl. hepatocellular injury) |                                                     |                                                 |
+| Skin and subcutaneous tissue disorders                                                                                                       | Skin and subcutaneous tissue disorders                                                            | Skin and subcutaneous tissue disorders                                                                                                       | Skin and subcutaneous tissue disorders              | Skin and subcutaneous tissue disorders          |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2311,9 +2185,9 @@ PT (neoplastin reagent), aPTT, and anti-Xa assay (with a calibrated quantitative
 
 ## Clinical efficacy and safety
 
-Prevention of stroke and systemic embolism in patients with non-valvular atrial fibrillation The rivaroxaban clinical programme was designed to demonstrate the efficacy of rivaroxaban for the prevention of stroke and systemic embolism in patients with non-valvular atrial fibrillation. In the pivotal double-blind ROCKET AF study, 14,264 patients were assigned either to rivaroxaban 20 mg once daily (15 mg once daily in patients with creatinine clearance 30 - 49 ml/min) or to warfarin titrated to a target INR of 2.5 (therapeutic range 2.0 to 3.0). The median time on treatment was 19 months and overall treatment duration was up to 41 months.
+Prevention of stroke and systemic embolism in patients with non-valvular atrial fibrillation The rivaroxaban clinical programme was designed to demonstrate the efficacy of rivaroxaban for the prevention of stroke and systemic embolism in patients with non-valvular atrial fibrillation. In the pivotal double-blind ROCKET AF study, 14,264 patients were assigned either to rivaroxaban 20 mg once daily (15 mg once daily in patients with creatinine clearance 30 - 49 ml/min) or to warfarin titrated to a target INR of 2.5 (therapeutic range 2.0 to 3.0). The median time on treatment was 19 months and overall treatment duration was up to 41 months. 34.9% of patients were treated with acetylsalicylic acid and 11.4% were treated with class III
 
-34.9% of patients were treated with acetylsalicylic acid and 11.4% were treated with class III antiarrhythmic including amiodarone.
+antiarrhythmic including amiodarone.
 
 Rivaroxaban was non-inferior to warfarin for the primary composite endpoint of stroke and non-CNS systemic embolism. In the per-protocol population on treatment, stroke or systemic embolism occurred in 188 patients on rivaroxaban (1.71% per year) and 241 on warfarin (2.16% per year) (HR 0.79; 95% CI, 0.66 - 0.96; p&lt;0.001 for non-inferiority). Among all randomised patients analysed according to ITT, primary events occurred in 269 on rivaroxaban (2.12% per year) and 306 on warfarin (2.42% per year) (HR 0.88; 95% CI, 0.74 - 1.03; p&lt;0.001 for non-inferiority; p=0.117 for superiority). Results for secondary endpoints as tested in hierarchical order in the ITT analysis are displayed in Table 4. Among patients in the warfarin group, INR values were within the therapeutic range (2.0 to 3.0) a mean of 55% of the time (median, 58%; interquartile range, 43 to 71). The effect of rivaroxaban did not differ across the level of centre TTR (Time in Target INR Range of 2.0 - 3.0) in the equally sized quartiles (p=0.74 for interaction). Within the highest quartile according to centre, the Hazard Ratio (HR) with rivaroxaban versus warfarin was 0.74 (95% CI, 0.49 - 1.12).
 
@@ -2339,20 +2213,20 @@ Table 5: Safety results from phase III ROCKET AF
 
 | Study population                                        | Study population                                                                                  | Patients with non-valvular atrial fibrillation a )                                             | Patients with non-valvular atrial fibrillation a )   |
 |---------------------------------------------------------|---------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|------------------------------------------------------|
-| Treatment dose                                          | 20 mg rivaroxaban od (15 mg od in patients with moderate renal impairment) Event rate (100 pt-yr) | Warfarin titrated to a target INR of 2.5 (therapeutic range 2.0 to 3.0) Event rate (100 pt-yr) | HR (95% CI) p-value                                  |
+| Treatment dose                                          | 20 mg rivaroxaban od (15 mg od in patients with moderate renal impairment) Event rate (100 pt-yr) | Warfarin titrated to a target INR of 2.5 (therapeutic range 2.0 to 3.0) Event rate (100 pt-yr) | HR(95% CI) p-value                                   |
 | Major and non-major clinically relevant bleeding events | 1,475 (14.91)                                                                                     | 1,449 (14.52)                                                                                  | 1.03 (0.96 - 1.11) 0.442                             |
 | Major bleeding events                                   | 395 (3.60)                                                                                        | 386 (3.45)                                                                                     | 1.04 (0.90 - 1.20) 0.576                             |
-| Death due to bleeding*                                  | 27 (0.24)                                                                                         | 55 (0.48)                                                                                      | 0.50 (0.31 - 0.79) 0.003                             |
-| Critical organ bleeding*                                | 91 (0.82)                                                                                         | 133 (1.18)                                                                                     | 0.69 (0.53 - 0.91) 0.007                             |
-| Intracranial haemorrhage*                               | 55 (0.49)                                                                                         | 84 (0.74)                                                                                      | 0.67 (0.47 - 0.93) 0.019                             |
-| Haemoglobin drop*                                       | 305 (2.77)                                                                                        | 254 (2.26)                                                                                     | 1.22 (1.03 - 1.44) 0.019                             |
+| Death due to bleeding *                                 | 27 (0.24)                                                                                         | 55 (0.48)                                                                                      | 0.50 (0.31 - 0.79) 0.003                             |
+| Critical organ bleeding *                               | 91 (0.82)                                                                                         | 133 (1.18)                                                                                     | 0.69 (0.53 - 0.91) 0.007                             |
+| Intracranial haemorrhage *                              | 55 (0.49)                                                                                         | 84 (0.74)                                                                                      | 0.67 (0.47 - 0.93) 0.019                             |
+| Haemoglobin drop *                                      | 305 (2.77)                                                                                        | 254 (2.26)                                                                                     | 1.22 (1.03 - 1.44) 0.019                             |
 
 <div style=\"page-break-after: always\"></div>
 
-| Transfusion of 2 or more units of packed red blood cells or whole blood*   | 183 (1.65)    | 149 (1.32)    | 1.25 (1.01 - 1.55) 0.044   |
-|----------------------------------------------------------------------------|---------------|---------------|----------------------------|
-| Non-major clinically relevant bleeding events                              | 1,185 (11.80) | 1,151 (11.37) | 1.04 (0.96 - 1.13) 0.345   |
-| All-cause mortality                                                        | 208 (1.87)    | 250 (2.21)    | 0.85 (0.70 - 1.02) 0.073   |
+| Transfusion of 2 or more units of packed red blood cells or whole blood *   | 183 (1.65)    | 149 (1.32)    | 1.25 (1.01 - 1.55) 0.044   |
+|-----------------------------------------------------------------------------|---------------|---------------|----------------------------|
+| Non-major clinically relevant bleeding events                               | 1,185 (11.80) | 1,151 (11.37) | 1.04 (0.96 - 1.13) 0.345   |
+| All-cause mortality                                                         | 208 (1.87)    | 250 (2.21)    | 0.85 (0.70 - 1.02) 0.073   |
 
 a) Safety population, on treatment
 
@@ -2374,15 +2248,15 @@ A randomised, open-label, multicentre study (PIONEER AF-PCI) was conducted in 2,
 
 Group 1 received rivaroxaban 15 mg once daily (10 mg once daily in patients with creatinine clearance 30 - 49 ml/min) plus P2Y12 inhibitor. Group 2 received rivaroxaban 2.5 mg twice daily plus DAPT (dual antiplatelet therapy i.e. clopidogrel 75 mg [or alternate P2Y12 inhibitor] plus low-dose acetylsalicylic acidASA) for 1, 6 or 12 months followed by rivaroxaban 15 mg (or 10 mg for subjects with creatinine clearance 30 - 49 ml/min) once daily plus low-dose acetylsalicylic acid. Group 3 received dose-adjusted VKA plus DAPT for 1, 6 or 12 months followed by dose-adjusted VKA plus low-dose acetylsalicylic acid.
 
-The primary safety endpoint, clinically significant bleeding events, occurred in 109 (15.7%), 117 (16.6%), and 167 (24.0%) subjects in group 1, group 2 and group 3, respectively (HR 0.59; 95% CI 0.47-0.76; p&lt;0.001, and HR 0.63; 95% CI 0.50-0.80; p&lt;0.001, respectively). The secondary endpoint (composite of cardiovascular events CV death, MI, or stroke) occurred in 41 (5.9%), 36 (5.1%), and 36 (5.2%) subjects in the group 1, group 2 and group 3, respectively. Each of the rivaroxaban regimens
+The primary safety endpoint, clinically significant bleeding events, occurred in 109 (15.7%), 117 (16.6%), and 167 (24.0%) subjects in group 1, group 2 and group 3, respectively (HR 0.59; 95% CI 0.47-0.76; p&lt;0.001, and HR 0.63; 95% CI 0.50-0.80; p&lt;0.001, respectively). The secondary endpoint (composite of cardiovascular events CV death, MI, or stroke) occurred in 41 (5.9%), 36 (5.1%), and 36 (5.2%) subjects in the group 1, group 2 and group 3, respectively. Each of the rivaroxaban regimens showed a significant reduction in clinically significant bleeding events compared to the VKA regimen in patients with non-valvular atrial fibrillation who underwent a PCI with stent placement. The primary objective of PIONEER AF-PCI was to assess safety. Data on efficacy (including thromboembolic events) in this population are limited.
 
 <div style=\"page-break-after: always\"></div>
 
-showed a significant reduction in clinically significant bleeding events compared to the VKA regimen in patients with non-valvular atrial fibrillation who underwent a PCI with stent placement. The primary objective of PIONEER AF-PCI was to assess safety. Data on efficacy (including thromboembolic events) in this population are limited.
-
 ## Treatment of DVT, PE and prevention of recurrent DVT and PE
 
-The rivaroxaban clinical programme was designed to demonstrate the efficacy of rivaroxaban in the initial and continued treatment of acute DVT and PE and prevention of recurrence. Over 12,800 patients were studied in four randomised controlled phase III clinical studies (Einstein DVT, Einstein PE, Einstein Extension and Einstein Choice) and additionally a predefined pooled analysis of the Einstein DVT and Einstein PE studies was conducted. The overall combined treatment duration in all studies was up to 21 months.
+The rivaroxaban clinical programme was designed to demonstrate the efficacy of rivaroxaban in the
+
+initial and continued treatment of acute DVT and PE and prevention of recurrence. Over 12,800 patients were studied in four randomised controlled phase III clinical studies (Einstein DVT, Einstein PE, Einstein Extension and Einstein Choice) and additionally a predefined pooled analysis of the Einstein DVT and Einstein PE studies was conducted. The overall combined treatment duration in all studies was up to 21 months.
 
 In Einstein DVT 3,449 patients with acute DVT were studied for the treatment of DVT and the prevention of recurrent DVT and PE (patients who presented with symptomatic PE were excluded from this study). The treatment duration was for 3, 6 or 12 months depending on the clinical judgement of the investigator.
 
@@ -2392,7 +2266,7 @@ In Einstein PE, 4,832 patients with acute PE were studied for the treatment of P
 
 For the initial treatment of acute PE 15 mg rivaroxaban was administered twice daily for three weeks. This was followed by 20 mg rivaroxaban once daily.
 
-In both the Einstein DVT and the Einstein PE study, the comparator treatment regimen consisted of enoxaparin administered for at least 5 days in combination with vitamin K antagonist treatment until the PT/INR was in therapeutic range (≥ 2.0). Treatment was continued with a vitamin K antagonist dose-adjusted to maintain the PT/INR values within the therapeutic range of 2.0 to 3.0.
+In both the Einstein DVT and the Einstein PE study, the comparator treatment regimen consisted of enoxaparin administered for at least 5 days in combination with vitamin K antagonist treatment until the PT/INR was in therapeutic range ( ≥ 2.0). Treatment was continued with a vitamin K antagonist dose-adjusted to maintain the PT/INR values within the therapeutic range of 2.0 to 3.0.
 
 In Einstein Extension 1,197 patients with DVT or PE were studied for the prevention of recurrent DVT and PE. The treatment duration was for an additional 6 or 12 months in patients who had completed 6 to 12 months of treatment for VTE depending on the clinical judgment of the investigator. Rivaroxaban 20 mg once daily was compared with placebo.
 
@@ -2400,11 +2274,9 @@ Einstein DVT, PE and Extension used the same pre-defined primary and secondary e
 
 In Einstein Choice, 3,396 patients with confirmed symptomatic DVT and/or PE who completed 6-12 months of anticoagulant treatment were studied for the prevention of fatal PE or non-fatal symptomatic recurrent DVT or PE. Patients with an indication for continued therapeutic-dosed anticoagulation were excluded from the study. The treatment duration was up to 12 months depending on the individual randomisation date (median: 351 days). Rivaroxaban 20 mg once daily and rivaroxaban10 mg once daily were compared with 100 mg acetylsalicylic acid once daily. The primary efficacy outcome was symptomatic recurrent VTE defined as the composite of recurrent DVT or fatal or non-fatal PE.
 
-In the Einstein DVT study (see Table 6) rivaroxaban was demonstrated to be non-inferior to enoxaparin/VKA for the primary efficacy outcome (p &lt; 0.0001 (test for non-inferiority); HR: 0.680 (0.443 - 1.042), p=0.076 (test for superiority)). The prespecified net clinical benefit (primary efficacy outcome plus major bleeding events) was reported with a HR of 0.67 ((95% CI: 0.47 - 0.95), nominal p value p=0.027) in favour of rivaroxaban. INR values were within the therapeutic range a mean of 60.3% of the time for the mean treatment duration of 189 days, and 55.4%, 60.1%, and 62.8% of the time in the 3-, 6-, and 12-month intended treatment duration groups, respectively. In the
+In the Einstein DVT study (see Table 6) rivaroxaban was demonstrated to be non-inferior to enoxaparin/VKA for the primary efficacy outcome (p &lt; 0.0001 (test for non-inferiority); HR: 0.680 (0.443 - 1.042), p=0.076 (test for superiority)). The prespecified net clinical benefit (primary efficacy outcome plus major bleeding events) was reported with a HR of 0.67 ((95% CI: 0.47 - 0.95), nominal p value p=0.027) in favour of rivaroxaban. INR values were within the therapeutic range a mean of 60.3% of the time for the mean treatment duration of 189 days, and 55.4%, 60.1%, and 62.8% of the time in the 3-, 6-, and 12-month intended treatment duration groups, respectively. In the enoxaparin/VKA group, there was no clear relation between the level of mean centre TTR (Time in Target INR Range of 2.0 - 3.0) in the equally sized tertiles and the incidence of the recurrent VTE (p=0.932 for interaction). Within the highest tertile according to centre, the HR with rivaroxaban versus warfarin was 0.69 (95% CI: 0.35 - 1.35).
 
 <div style=\"page-break-after: always\"></div>
-
-enoxaparin/VKA group, there was no clear relation between the level of mean centre TTR (Time in Target INR Range of 2.0 - 3.0) in the equally sized tertiles and the incidence of the recurrent VTE (p=0.932 for interaction). Within the highest tertile according to centre, the HR with rivaroxaban versus warfarin was 0.69 (95% CI: 0.35 - 1.35).
 
 The incidence rates for the primary safety outcome (major or clinically relevant non-major bleeding events) as well as the secondary safety outcome (major bleeding events) were similar for both treatment groups.
 
@@ -2413,19 +2285,13 @@ Table 6: Efficacy and safety results from phase III Einstein DVT
 | Study population                                | 3,449 patients with symptomatic acute DVT   | 3,449 patients with symptomatic acute DVT   |
 |-------------------------------------------------|---------------------------------------------|---------------------------------------------|
 | Treatment dose and duration                     | Rivaroxaban a) 3, 6 or 12 months N=1,731    | Enoxaparin/VKA b) 3, 6 or 12 months N=1,718 |
-| Symptomatic recurrent VTE*                      | 36 (2.1%)                                   | 51 (3.0%)                                   |
+| Symptomatic recurrent VTE *                     | 36 (2.1%)                                   | 51 (3.0%)                                   |
 | Symptomatic recurrent PE                        | 20 (1.2%)                                   | 18 (1.0%)                                   |
 | Symptomatic recurrent DVT                       | 14 (0.8%)                                   | 28 (1.6%)                                   |
 | Symptomatic PE and DVT                          | 1 (0.1%)                                    | 0                                           |
 | Fatal PE/death where PE cannot be ruled out     | 4 (0.2%)                                    | 6 (0.3%)                                    |
 | Major or clinically relevant non-major bleeding | 139 (8.1%)                                  | 138 (8.1%)                                  |
 | Major bleeding events                           | 14 (0.8%)                                   | 20 (1.2%)                                   |
-
-a) Rivaroxaban 15 mg twice daily for 3 weeks followed by 20 mg once daily
-
-b) Enoxaparin for at least 5 days, overlapped with and followed by VKA
-
-* p &lt; 0.0001 (non-inferiority to a prespecified HR of 2.0); HR: 0.680 (0.443 - 1.042), p=0.076 (superiority)
 
 In the Einstein PE study (see Table 7) rivaroxaban was demonstrated to be non-inferior to enoxaparin/VKA for the primary efficacy outcome (p=0.0026 (test for non-inferiority); HR: 1.123 (0.749 - 1.684)). The prespecified net clinical benefit (primary efficacy outcome plus major bleeding events) was reported with a HR of 0.849 ((95% CI: 0.633 - 1.139), nominal p-value p=0.275). INR values were within the therapeutic range a mean of 63% of the time for the mean treatment duration of 215 days, and 57%, 62%, and 65% of the time in the 3-, 6-, and 12-month intended treatment duration groups, respectively. In the enoxaparin/VKA group, there was no clear relation between the level of mean centre TTR (Time in Target INR Range of 2.0 - 3.0) in the equally sized tertiles and the incidence of the recurrent VTE (p=0.082 for interaction). Within the highest tertile according to centre, the HR with rivaroxaban versus warfarin was 0.642 (95% CI: 0.277 - 1.484).
 
@@ -2436,7 +2302,7 @@ Table 7: Efficacy and safety results from phase III Einstein PE
 | Study population            | 4,832 patients with an acute symptomatic PE   | 4,832 patients with an acute symptomatic PE   |
 |-----------------------------|-----------------------------------------------|-----------------------------------------------|
 | Treatment dose and duration | Rivaroxaban a) 3, 6 or 12 months N=2,419      | Enoxaparin/VKA b) 3, 6 or 12 months N=2,413   |
-| Symptomatic recurrent VTE*  | 50 (2.1%)                                     | 44 (1.8%)                                     |
+| Symptomatic recurrent VTE * | 50 (2.1%)                                     | 44 (1.8%)                                     |
 | Symptomatic recurrent PE    | 23                                            | 20                                            |
 
 <div style=\"page-break-after: always\"></div>
@@ -2449,12 +2315,6 @@ Table 7: Efficacy and safety results from phase III Einstein PE
 | Major or clinically relevant non-major bleeding | 249 (10.3%) | 274 (11.4%) |
 | Major bleeding events                           | 26 (1.1%)   | 52 (2.2%)   |
 
-a) Rivaroxaban 15 mg twice daily for 3 weeks followed by 20 mg once daily
-
-b) Enoxaparin for at least 5 days, overlapped with and followed by VKA
-
-* p &lt; 0.0026 (non-inferiority to a prespecified HR of 2.0); HR: 1.123 (0.749 - 1.684)
-
 A prespecified pooled analysis of the outcome of the Einstein DVT and PE studies was conducted (see Table 8).
 
 Table 8: Efficacy and safety results from pooled analysis of phase III Einstein DVT and Einstein PE
@@ -2462,19 +2322,13 @@ Table 8: Efficacy and safety results from pooled analysis of phase III Einstein 
 | Study population                                | 8,281 patients with an acute symptomatic DVT or PE   | 8,281 patients with an acute symptomatic DVT or PE   |
 |-------------------------------------------------|------------------------------------------------------|------------------------------------------------------|
 | Treatment dose and duration                     | Rivaroxaban a) 3, 6 or 12 months N=4,150             | Enoxaparin/VKA b) 3, 6 or 12 months N=4,131          |
-| Symptomatic recurrent VTE*                      | 86 (2.1%)                                            | 95 (2.3%)                                            |
+| Symptomatic recurrent VTE *                     | 86 (2.1%)                                            | 95 (2.3%)                                            |
 | Symptomatic recurrent PE                        | 43 (1.0%)                                            | 38 (0.9%)                                            |
 | Symptomatic recurrent DVT                       | 32 (0.8%)                                            | 45 (1.1%)                                            |
 | Symptomatic PE and DVT                          | 1 (<0.1%)                                            | 2 (<0.1%)                                            |
 | Fatal PE/death where PE cannot be ruled out     | 15 (0.4%)                                            | 13 (0.3%)                                            |
 | Major or clinically relevant non-major bleeding | 388 (9.4%)                                           | 412 (10.0%)                                          |
 | Major bleeding events                           | 40 (1.0%)                                            | 72 (1.7%)                                            |
-
-a) Rivaroxaban 15 mg twice daily for 3 weeks followed by 20 mg once daily
-
-b) Enoxaparin for at least 5 days, overlapped with and followed by VKA
-
-* p &lt; 0.0001 (non-inferiority to a prespecified HR of 1.75); HR: 0.886 (0.661 - 1.186)
 
 The prespecified net clinical benefit (primary efficacy outcome plus major bleeding events) of the pooled analysis was reported with a HR of 0.771 ((95% CI: 0.614 - 0.967), nominal p-value p= 0.0244).
 
@@ -2487,16 +2341,12 @@ Table 9: Efficacy and safety results from phase III Einstein Extension
 | Study population                            | 1,197 patients continued treatment and prevention of recurrent VTE   | 1,197 patients continued treatment and prevention of recurrent VTE   |
 |---------------------------------------------|----------------------------------------------------------------------|----------------------------------------------------------------------|
 | Treatment dose and duration                 | Rivaroxaban a) 6 or 12 months N=602                                  | Placebo 6 or 12 months N=594                                         |
-| Symptomatic recurrent VTE*                  | 8 (1.3%)                                                             | 42 (7.1%)                                                            |
+| Symptomatic recurrent VTE *                 | 8 (1.3%)                                                             | 42 (7.1%)                                                            |
 | Symptomatic recurrent PE                    | 2 (0.3%)                                                             | 13 (2.2%)                                                            |
 | Symptomatic recurrent DVT                   | 5 (0.8%)                                                             | 31 (5.2%)                                                            |
 | Fatal PE/death where PE cannot be ruled out | 1 (0.2%)                                                             | 1 (0.2%)                                                             |
 | Major bleeding events                       | 4 (0.7%)                                                             | 0 (0.0%)                                                             |
 | Clinically relevant non-major bleeding      | 32 (5.4%)                                                            | 7 (1.2%)                                                             |
-
-a) Rivaroxaban 20 mg once daily
-
-* p &lt; 0.0001 (superiority), HR: 0.185 (0.087 - 0.393)
 
 In the Einstein Choice study (see Table 10) rivaroxaban 20 mg and 10 mg were both superior to 100 mg acetylsalicylic acid for the primary efficacy outcome. The principal safety outcome (major bleeding events) was similar for patients treated with rivaroxaban 20 mg and 10 mg once daily compared to 100 mg acetylsalicylic acid.
 
@@ -2515,23 +2365,13 @@ Table 10: Efficacy and safety results from phase III Einstein Choice
 | Clinically relevant non-major bleeding                              | 30 (2.7)                     | 22 (2.0)                                               | 20 (1.8)                                               |
 | Symptomatic recurrent VTE or major bleeding (net clinical benefit)  | 23 (2.1%) +                  | 17 (1.5%) ++                                           | 53 (4.7%)                                              |
 
-od: once daily
-
-* p&lt;0.001(superiority) rivaroxaban 20 mg od versus acetylsalicylic acid 100 mg od; HR=0.34 (0.200.59)
-
-** p&lt;0.001 (superiority) 10 mg rivaroxaban od versus acetylsalicylic acid 100 mg od; HR=0.26 (0.140.47)
-
-+ rivaroxaban 20 mg od versus acetylsalicylic acid 100 mg od; HR=0.44 (0.27-0.71), p=0.0009 (nominal)
-
 <div style=\"page-break-after: always\"></div>
 
 ++ 10 mg rivaroxaban od versus acetylsalicylic acid 100 mg od; HR=0.32 (0.18-0.55), p&lt;0.0001 (nominal)
 
 In addition to the phase III EINSTEIN programme, a prospective, non-interventional, open-label cohort study (XALIA) with central outcome adjudication including recurrent VTE, major bleeding and death has been conducted. 5,142 patients with acute DVT were enrolled to investigate the long-term safety of rivaroxaban compared with standard-of-care anticoagulation therapy in clinical practice. Rates of major bleeding, recurrent VTE and all-cause mortality for rivaroxaban were 0.7%, 1.4% and 0.5%, respectively. There were differences in patient baseline characteristics including age, cancer and renal impairment. A pre-specified propensity score stratified analysis was used to adjust for measured baseline differences but residual confounding may, in spite of this, influence the results. Adjusted HRs comparing rivaroxaban and standard-of-care for major bleeding, recurrent VTE and all-cause mortality were 0.77 (95% CI 0.40 - 1.50), 0.91 (95% CI 0.54 - 1.54) and 0.51 (95% CI 0.24 - 1.07), respectively. These results in clinical practice are consistent with the established safety profile in this indication.
 
-## Paediatric population
-
-## Treatment of VTE and prevention of VTE recurrence in paediatric patients
+## Paediatric population Treatment of VTE and prevention of VTE recurrence in paediatric patients
 
 A total of 727 children with confirmed acute VTE, of whom 528 received rivaroxaban, were studied in 6 open-label, multicentre paediatric studies. Body weight-adjusted dosing in patients from birth to less than 18 years resulted in rivaroxaban exposure similar to that observed in adult DVT patients treated with rivaroxaban 20 mg once daily as confirmed in the phase III study (see section 5.2).
 
@@ -2545,11 +2385,9 @@ Patients received initial treatment with therapeutic doses of UFH, LMWH, or fond
 
 The primary efficacy outcome was symptomatic recurrent VTE. The primary safety outcome was the composite of major bleeding and clinically relevant non-major bleeding (CRNMB). All efficacy and safety outcomes were centrally adjudicated by an independent committee blinded for treatment allocation. The efficacy and safety results are shown in Tables 11 and 12 below.
 
-Recurrent VTEs occurred in the rivaroxaban group in 4 of 335 patients and in the comparator group in 5 of 165 patients. The composite of major bleeding and CRNMB was reported in 10 of 329 patients (3%) treated with rivaroxaban and in 3 of 162 patients (1.9%) treated with comparator. Net clinical
+Recurrent VTEs occurred in the rivaroxaban group in 4 of 335 patients and in the comparator group in 5 of 165 patients. The composite of major bleeding and CRNMB was reported in 10 of 329 patients (3%) treated with rivaroxaban and in 3 of 162 patients (1.9%) treated with comparator. Net clinical benefit (symptomatic recurrent VTE plus major bleeding events) was reported in the rivaroxaban group in 4 of 335 patients and in the comparator group in 7 of 165 patients. Normalisation of the thrombus burden on repeat imaging occurred in 128 of 335 patients with rivaroxaban treatment and in 43 of 165 patients in the comparator group. These findings were generally similar among age groups. There were 119 (36.2%) children with any treatment-emergent bleeding in the rivaroxaban group and 45 (27.8%) children in the comparator group.
 
 <div style=\"page-break-after: always\"></div>
-
-benefit (symptomatic recurrent VTE plus major bleeding events) was reported in the rivaroxaban group in 4 of 335 patients and in the comparator group in 7 of 165 patients. Normalisation of the thrombus burden on repeat imaging occurred in 128 of 335 patients with rivaroxaban treatment and in 43 of 165 patients in the comparator group. These findings were generally similar among age groups. There were 119 (36.2%) children with any treatment-emergent bleeding in the rivaroxaban group and 45 (27.8%) children in the comparator group.
 
 Table 11: Efficacy results at the end of the main treatment period
 
@@ -2571,8 +2409,6 @@ Table 12: Safety results at the end of the main treatment period
 | Composite: Major bleeding + CRNMB (primary safety outcome) | 10 (3.0%, 95% CI 1.6% - 5.5%) | 3 (1.9%, 95% CI 0.5% - 5.3%) |
 | Major bleeding                                             | 0 (0.0%, 95% CI 0.0% - 1.1%)  | 2 (1.2%, 95% CI 0.2% - 4.3%) |
 | Any treatment-emergent bleedings                           | 119 (36.2%)                   | 45 (27.8%)                   |
-
-* SAF= safety analysis set, all children who were randomised and received at least 1 dose of study medicinal product.
 
 The efficacy and safety profile of rivaroxaban was largely similar between the paediatric VTE population and the DVT/PE adult population, however, the proportion of subjects with any bleeding was higher in the paediatric VTE population as compared to the DVT/PE adult population.
 
@@ -2600,9 +2436,7 @@ Oral absorption of rivaroxaban is almost complete and oral bioavailability is hi
 
 Due to a reduced extent of absorption an oral bioavailability of 66% was determined for the 20 mg tablet under fasting conditions. When  rivaroxaban 20 mg tablets are taken together with food increases in mean AUC by 39% were observed when compared to tablet intake under fasting conditions, indicating almost complete absorption and high oral bioavailability. Rivaroxaban 15 mg and 20 mg are to be taken with food (see section 4.2).
 
-Rivaroxaban pharmacokinetics are approximately linear up to about 15 mg once daily in fasting state. Under fed conditions rivaroxaban 10 mg, 15 mg and 20 mg tablets demonstrated dose-proportionality.
-
-At higher doses rivaroxaban displays dissolution limited absorption with decreased bioavailability and decreased absorption rate with increased dose.
+Rivaroxaban pharmacokinetics are approximately linear up to about 15 mg once daily in fasting state. Under fed conditions rivaroxaban 10 mg, 15 mg and 20 mg tablets demonstrated dose-proportionality. At higher doses rivaroxaban displays dissolution limited absorption with decreased bioavailability and decreased absorption rate with increased dose.
 
 Variability in rivaroxaban pharmacokinetics is moderate with inter-individual variability (CV%) ranging from 30% to 40%.
 
@@ -2622,7 +2456,7 @@ Plasma protein binding in adults is high at approximately 92% to 95%, with serum
 
 ## Paediatric population
 
-No data on rivaroxaban plasma protein binding specific to children is available. No PK data following intravenous administration of rivaroxaban to children is available. Vss estimated via population PK modelling in children (age range 0 to &lt; 18 years) following oral administration of rivaroxaban is dependent on body weight and can be described with an allometric function, with an average of 113 L for a subject with a body weight of 82.8 kg.
+No data on rivaroxaban plasma protein binding specific to children is available. No PK data following intravenous administration of rivaroxaban to children is available. V ss estimated via population PK modelling in children (age range 0 to &lt; 18 years) following oral administration of rivaroxaban is dependent on body weight and can be described with an allometric function, with an average of 113 L for a subject with a body weight of 82.8 kg.
 
 ## Biotransformation and elimination
 
@@ -2634,7 +2468,7 @@ Unchanged rivaroxaban is the most important compound in human plasma, with no ma
 
 ## Paediatric population
 
-No metabolism data specific to children is available. No PK data following intravenous administration of rivaroxaban to children is available. CL estimated via population PK modelling in children (age range 0 to &lt; 18 years) following oral administration of rivaroxaban is dependent on body weight and can be described with an allometric function, with an average of 8 L/h for a subject with body weight of 82.8 kg. The geometric mean values for disposition half-lives (t1/2) estimated via population PK modelling decrease with decreasing age and ranged from 4.2 h in adolescents to approximately 3 h in children aged 2-12 years down to 1.9 and 1.6 h in children aged 0.5-&lt; 2 years and less than 0.5 years, respectively.
+No metabolism data specific to children is available. No PK data following intravenous administration of rivaroxaban to children is available. CL estimated via population PK modelling in children (age range 0 to &lt; 18 years) following oral administration of rivaroxaban is dependent on body weight and can be described with an allometric function, with an average of 8 L/h for a subject with body weight of 82.8 kg. The geometric mean values for disposition half-lives (t 1/2 ) estimated via population PK modelling decrease with decreasing age and ranged from 4.2 h in adolescents to approximately 3 h in children aged 2-12 years down to 1.9 and 1.6 h in children aged 0.5-&lt; 2 years and less than 0.5 years, respectively.
 
 ## Special populations
 
@@ -2676,9 +2510,9 @@ In adults, there was an increase in rivaroxaban exposure correlated to decrease 
 
 Due to the high plasma protein binding rivaroxaban is not expected to be dialysable.
 
-Use is not recommended in patients with creatinine clearance &lt; 15 ml/min. Rivaroxaban is to be used with caution in patients with creatinine clearance 15 - 29 ml/min (see section 4.4). No clinical data is available in children 1 year or older with moderate or severe renal impairment
+Use is not recommended in patients with creatinine clearance &lt; 15 ml/min. Rivaroxaban is to be used with caution in patients with creatinine clearance 15 - 29 ml/min (see section 4.4).
 
-(glomerular filtration rate &lt; 50 mL/min/1.73 m 2 ).
+No clinical data is available in children 1 year or older with moderate or severe renal impairment (glomerular filtration rate &lt; 50 mL/min/1.73 m 2 ).
 
 ## Pharmacokinetic data in patients
 
@@ -2743,7 +2577,7 @@ Not applicable.
 
 Bottle once opened: 180 days.
 
-Crushed tablets
+## Crushed tablets
 
 Crushed rivaroxaban tablets are stable in water and apple puree for 2 hours.
 
@@ -2755,7 +2589,7 @@ This medicinal product does not require any special storage conditions.
 
 ## Rivaroxaban Viatris
 
-PVC/PVdC/Aluminium foil blister packs containing 14, 28, 30, 42, 98 or 100 film-coated tablets or perforated unit dose blisters in cartons of 14  1, 28 x 1, 30  1, 42  1, 50  1, 98  1, or 100  1 film-coated tablets.
+PVC/PVdC/Aluminium foil blister packs containing 14, 28, 30, 42, 98 or 100 film-coated tablets or perforated unit dose blisters in cartons of 14 × 1, 28 x 1, 30 × 1, 42 × 1, 50 × 1, 98 × 1, or 100 × 1 film-coated tablets.
 
 White HDPE bottles with white opaque PP screw cap with aluminium induction sealing liner wad containing 30, 98, 100 or 250 film-coated tablets.
 
@@ -2769,11 +2603,9 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## Crushing of tablets
 
-Rivaroxaban Viatris tablets may be crushed and suspended in 50 mL of water and administered via a nasogastric tube or gastric feeding tube after confirming gastric placement of the tube. Afterwards, the tube should be flushed with water. Since rivaroxaban absorption is dependent on the site of active substance release, administration of rivaroxaban distal to the stomach should be avoided, as this can
+Rivaroxaban Viatris tablets may be crushed and suspended in 50 mL of water and administered via a nasogastric tube or gastric feeding tube after confirming gastric placement of the tube. Afterwards, the tube should be flushed with water. Since rivaroxaban absorption is dependent on the site of active substance release, administration of rivaroxaban distal to the stomach should be avoided, as this can result in reduced absorption and thereby, reduced active substance exposure. Enteral feeding is required immediately after administration of the 15 mg or 20 mg tablets.
 
 <div style=\"page-break-after: always\"></div>
-
-result in reduced absorption and thereby, reduced active substance exposure. Enteral feeding is required immediately after administration of the 15 mg or 20 mg tablets.
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
@@ -2813,7 +2645,7 @@ For the full list of excipients, see section 6.1.
 
 ## 3. PHARMACEUTICAL FORM
 
-## Film-coated tablet (tablet)
+Film-coated tablet (tablet)
 
 Reddish brown coloured, film-coated, round, biconvex, beveled edge tablet (7.0 mm diameter) marked with 'RX' on one side of the tablet and '4' on the other side.
 
@@ -2865,7 +2697,9 @@ If a dose is missed during the 15 mg twice daily treatment phase (day 1 - 21), t
 
 If a dose is missed during the once daily treatment phase, the patient should take Rivaroxaban Viatris immediately, and continue on the following day with the once daily intake as recommended. The dose should not be doubled within the same day to make up for a missed dose.
 
-Treatment of VTE and prevention of VTE recurrence in children and adolescents Rivaroxaban Viatris treatment in children and adolescents aged less than 18 years should be initiated following at least 5 days of initial parenteral anticoagulation treatment (see section 5.1).
+## Treatment of VTE and prevention of VTE recurrence in children and adolescents
+
+Rivaroxaban Viatris treatment in children and adolescents aged less than 18 years should be initiated following at least 5 days of initial parenteral anticoagulation treatment (see section 5.1).
 
 The dose for children and adolescent is calculated based on body weight.
 
@@ -2879,21 +2713,15 @@ a once daily dose of 20 mg rivaroxaban is recommended. This is the maximum daily
 
 The weight of a child should be monitored and the dose reviewed regularly. This is to ensure a therapeutic dose is maintained. Dose adjustments should be made based on changes in body weight only.
 
-Treatment should be continued for at least 3 months in children and adolescents. Treatment can be extended up to 12 months when clinically necessary. There is no data available in children to support a
+Treatment should be continued for at least 3 months in children and adolescents. Treatment can be extended up to 12 months when clinically necessary. There is no data available in children to support a dose reduction after 6 months treatment. The benefit-risk of continued therapy after 3 months should be assessed on an individual basis taking into account the risk for recurrent thrombosis versus the potential bleeding risk.
 
 <div style=\"page-break-after: always\"></div>
-
-dose reduction after 6 months treatment. The benefit-risk of continued therapy after 3 months should be assessed on an individual basis taking into account the risk for recurrent thrombosis versus the potential bleeding risk.
 
 If a dose is missed, the missed dose should be taken as soon as possible after it is noticed, but only on the same day. If this is not possible, the patient should skip the dose and continue with the next dose as prescribed. The patient should not take two doses to make up for a missed dose.
 
 ## Converting from Vitamin K Antagonists (VKA) to Rivaroxaban Viatris
 
-- -
-- Prevention of stroke and systemic embolism:
-
-VKA treatment should be stopped and Rivaroxaban Viatris therapy should be initiated when the International Normalised Ratio (INR) is ≤ 3.0.
-
+- -Prevention of stroke and systemic embolism: VKA treatment should be stopped and Rivaroxaban Viatris therapy should be initiated when the International Normalised Ratio (INR) is ≤ 3.0.
 - -Treatment of DVT, PE and prevention of recurrence in adults and treatment of VTE and prevention of recurrence in paediatric patients:
 
 VKA treatment should be stopped and rivaroxaban therapy should be initiated once the INR is ≤ 2.5.
@@ -2972,7 +2800,9 @@ The safety and efficacy of Rivaroxaban Viatris in children aged 0 to &lt; 18 yea
 
 ## Adults
 
-Rivaroxaban Viatris is for oral use. The tablets are to be taken with food (see section 5.2).
+Rivaroxaban Viatris is for oral use.
+
+The tablets are to be taken with food (see section 5.2).
 
 ## Crushing of tablets
 
@@ -3038,11 +2868,9 @@ Rivaroxaban Viatris is not recommended in children and adolescents with moderate
 
 ## Interaction with other medicinal products
 
-The use of Rivaroxaban Viatris is not recommended in patients receiving concomitant systemic treatment with azole-antimycotics (such as ketoconazole, itraconazole, voriconazole and posaconazole) or HIV protease inhibitors (e.g. ritonavir). These active substances are strong inhibitors of both CYP3A4 and P-gp and therefore may increase rivaroxaban plasma concentrations to a clinically relevant degree (2.6 fold on average) which may lead to an increased bleeding risk No
+The use of Rivaroxaban Viatris is not recommended in patients receiving concomitant systemic treatment with azole-antimycotics (such as ketoconazole, itraconazole, voriconazole and posaconazole) or HIV protease inhibitors (e.g. ritonavir). These active substances are strong inhibitors of both CYP3A4 and P-gp and therefore may increase rivaroxaban plasma concentrations to a clinically relevant degree (2.6 fold on average) which may lead to an increased bleeding risk No clinical data is available in children receiving concomitant systemic treatment with strong inhibitors of both CYP 3A4 and P-gp (see section 4.5).
 
 <div style=\"page-break-after: always\"></div>
-
-clinical data is available in children receiving concomitant systemic treatment with strong inhibitors of both CYP 3A4 and P-gp (see section 4.5).
 
 Care is to be taken if patients are treated concomitantly with medicinal products affecting haemostasis such as non-steroidal anti-inflammatory medicinal products (NSAIDs), acetylsalicylic acid (ASA) and platelet aggregation inhibitors or selective serotonin reuptake inhibitors (SSRIs) and serotonin norepinephrine reuptake inhibitors (SNRIs). For patients at risk of ulcerative gastrointestinal disease an appropriate prophylactic treatment may be considered (see section 4.5).
 
@@ -3074,7 +2902,9 @@ Direct acting Oral Anticoagulants (DOACs) including rivaroxaban are not recommen
 
 Clinical data are available from an interventional study with the primary objective to assess safety in patients with non-valvular atrial fibrillation who undergo PCI with stent placement. Data on efficacy in this population are limited (see sections 4.2 and 5.1). No data are available for such patients with a history of stroke/ transient ischaemic attack.
 
-## Haemodynamically unstable PE patients or patients who require thrombolysis or pulmonary embolectomy
+## Haemodynamically unstable PE patients or patients who require thrombolysis or pulmonary
+
+## embolectomy
 
 Rivaroxaban Viatris is not recommended as an alternative to unfractionated heparin in patients with pulmonary embolism who are haemodynamically unstable or may receive thrombolysis or pulmonary embolectomy since the safety and efficacy of Rivaroxaban Viatris have not been established in these clinical situations.
 
@@ -3198,23 +3028,23 @@ Overall, 69,608 adult patients in nineteen phase III studies and 488 paediatric 
 
 Table 1: Number of patients studied, total daily dose and maximum treatment duration in adult and paediatric phase III studies
 
-| Indication                                                                                                                                                         | Number of patients*   | Total daily dose                                                                                                                      | Maximum treatment duration   |
+| Indication                                                                                                                                                         |   Number of patients* | Total daily dose                                                                                                                      | Maximum treatment duration   |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------|---------------------------------------------------------------------------------------------------------------------------------------|------------------------------|
-| Prevention of VTE in adult patients undergoing elective hip or knee replacement surgery                                                                            | 6,097                 | 10 mg                                                                                                                                 | 39 days                      |
-| Prevention of VTE in medically ill patients                                                                                                                        | 3,997                 | 10 mg                                                                                                                                 | 39 days                      |
-| Treatment of DVT, PE and prevention of recurrence                                                                                                                  | 6,790                 | Day 1 - 21: 30 mg Day 22 and onwards: 20 mg After at least 6 months: 10 mg or 20 mg                                                   | 21 months                    |
-| Treatment of VTE and prevention of VTE recurrence in term neonates and children aged less than 18 years following initiation of standard anticoagulation treatment | 329                   | Body weight- adjusted dose to achieve a similar exposure as that observed in adults treated for DVT with 20 mg rivaroxaban once daily | 12 months                    |
-| Prevention of stroke and systemic embolism in patients with non- valvular atrial fibrillation                                                                      | 7,750                 | 20 mg                                                                                                                                 | 41 months                    |
-| Prevention of atherothrombotic events in patients after an ACS                                                                                                     | 10,225                | 5 mg or 10 mg respectively, co- administered with either acetylsalicylic acid or acetylsalicylic acid plus clopidogrel or ticlopidine | 31 months                    |
-| Prevention of atherothrombotic events in patients with CAD/PAD                                                                                                     | 18,244                | 5 mg co- administered with acetylsalicylic acid or 10 mg alone                                                                        | 47 months                    |
+| Prevention of VTE in adult patients undergoing elective hip or knee replacement surgery                                                                            |                 6,097 | 10 mg                                                                                                                                 | 39 days                      |
+| Prevention of VTE in medically ill patients                                                                                                                        |                 3,997 | 10 mg                                                                                                                                 | 39 days                      |
+| Treatment of DVT, PE and prevention of recurrence                                                                                                                  |                 6,790 | Day 1 - 21: 30 mg Day 22 and onwards: 20 mg After at least 6 months: 10 mg or 20 mg                                                   | 21 months                    |
+| Treatment of VTE and prevention of VTE recurrence in term neonates and children aged less than 18 years following initiation of standard anticoagulation treatment |                   329 | Body weight- adjusted dose to achieve a similar exposure as that observed in adults treated for DVT with 20 mg rivaroxaban once daily | 12 months                    |
+| Prevention of stroke and systemic embolism in patients with non- valvular atrial fibrillation                                                                      |                 7,750 | 20 mg                                                                                                                                 | 41 months                    |
+| Prevention of atherothrombotic events in patients after an ACS                                                                                                     |                10,225 | 5 mg or 10 mg respectively, co- administered with either acetylsalicylic acid or acetylsalicylic acid plus clopidogrel or ticlopidine | 31 months                    |
+| Prevention of atherothrombotic events in patients with CAD/PAD                                                                                                     |                18,244 | 5 mg co- administered with acetylsalicylic acid or 10 mg alone                                                                        | 47 months                    |
 
 <div style=\"page-break-after: always\"></div>
 
 | 3,256**   | 5 mg co- administered with acetylsalicylic acid   | 42 months   |
 |-----------|---------------------------------------------------|-------------|
 
--  Patients exposed to at least one dose of rivaroxaban
 - ** From the VOYAGER PAD study
+- ∗ Patients exposed to at least one dose of rivaroxaban
 
 The most commonly reported adverse reactions in patients receiving rivaroxaban were bleedings (see section 4.4. and 'Description of selected adverse reactions' below) (Table 2). The most commonly reported bleedings were epistaxis (4.5%) and gastrointestinal tract haemorrhage (3.8%).
 
@@ -3231,10 +3061,6 @@ Table 2: Bleeding* and anaemia events rates in patients exposed to rivaroxaban a
 | Prevention of atherothrombotic events in patients with CAD/PAD                                                                                                     | 6.7 per 100 patient years    | 0.15 per 100 patient years**    |
 | Prevention of atherothrombotic events in patients with CAD/PAD                                                                                                     | 8.38 per 100 patient years # | 0.74 per 100 patient years*** # |
 
-* For all rivaroxaban studies all bleeding events are collected, reported and adjudicated.
-
-** In the COMPASS study, there is a low anaemia incidence as a selective approach to adverse event collection was applied
-
 - *** A selective approach to adverse event collection was applied
 
 # From the VOYAGER PAD study
@@ -3243,33 +3069,31 @@ Table 2: Bleeding* and anaemia events rates in patients exposed to rivaroxaban a
 
 The frequencies of adverse reactions reported with rivaroxaban in adult and paediatric patients are summarised in Table 3 below by system organ class (in MedDRA) and by frequency.
 
-Frequencies are defined as: very common (≥ 1/10) common (≥ 1/100 to &lt; 1/10) uncommon (≥ 1/1,000 to &lt; 1/100) rare (≥ 1/10,000 to &lt; 1/1,000) very rare ( &lt; 1/10,000) not known (cannot be estimated from the available data)
+Frequencies are defined as: very common ( ≥ 1/10) common ( ≥ 1/100 to &lt; 1/10) uncommon ( ≥ 1/1,000 to &lt; 1/100) rare ( ≥ 1/10,000 to &lt; 1/1,000) very rare ( &lt; 1/10,000) not known (cannot be estimated from the available data)
 
 Table 3: All adverse reactions reported in adult patients in phase III clinical studies or through post-marketing use* and in two phase II and two phase III studies in paediatric patients
 
 <div style=\"page-break-after: always\"></div>
 
-| Common                                                                                                                                     | Uncommon                                                                                          | Rare                                                                                                                                         | Very rare                                           | Not known                                       |
-|--------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------|-------------------------------------------------|
-| Blood and lymphatic system disorders                                                                                                       | Blood and lymphatic system disorders                                                              | Blood and lymphatic system disorders                                                                                                         | Blood and lymphatic system disorders                | Blood and lymphatic system disorders            |
-| Anaemia (incl. respective laboratory parameters)                                                                                           | Thrombocytosis (incl. platelet count increased) A , Thrombocytopenia                              |                                                                                                                                              |                                                     |                                                 |
-| Immune system disorders                                                                                                                    | Immune system disorders                                                                           | Immune system disorders                                                                                                                      | Immune system disorders                             | Immune system disorders                         |
-|                                                                                                                                            | Allergic reaction, Dermatitis allergic, Angioedema and allergic oedema                            |                                                                                                                                              | Anaphylactic reactions including anaphylactic shock |                                                 |
-| Nervous system disorders                                                                                                                   | Nervous system disorders                                                                          | Nervous system disorders                                                                                                                     | Nervous system disorders                            | Nervous system disorders                        |
-| Dizziness, Headache                                                                                                                        | Cerebral and intracranial haemorrhage, Syncope                                                    |                                                                                                                                              |                                                     |                                                 |
-| Eye disorders                                                                                                                              | Eye disorders                                                                                     | Eye disorders                                                                                                                                | Eye disorders                                       | Eye disorders                                   |
-| Eye haemorrhage (incl. conjunctival haemorrhage)                                                                                           |                                                                                                   |                                                                                                                                              |                                                     |                                                 |
-| Cardiac disorders                                                                                                                          | Cardiac disorders                                                                                 | Cardiac disorders                                                                                                                            | Cardiac disorders                                   | Cardiac disorders                               |
-| Tachycardia                                                                                                                                | Tachycardia                                                                                       | Tachycardia                                                                                                                                  | Tachycardia                                         | Tachycardia                                     |
-| Vascular disorders                                                                                                                         | Vascular disorders                                                                                | Vascular disorders                                                                                                                           | Vascular disorders                                  | Vascular disorders                              |
-| Hypotension, Haematoma                                                                                                                     |                                                                                                   |                                                                                                                                              |                                                     |                                                 |
-| Respiratory, thoracic and mediastinal disorders                                                                                            | Respiratory, thoracic and mediastinal disorders                                                   | Respiratory, thoracic and mediastinal disorders                                                                                              | Respiratory, thoracic and mediastinal disorders     | Respiratory, thoracic and mediastinal disorders |
-| Epistaxis, Haemoptysis                                                                                                                     |                                                                                                   |                                                                                                                                              | Eosinophilic pneumonia                              |                                                 |
-| Gastrointestinal disorders                                                                                                                 | Gastrointestinal disorders                                                                        | Gastrointestinal disorders                                                                                                                   | Gastrointestinal disorders                          | Gastrointestinal disorders                      |
-| Gingival bleeding, Gastrointestinal tract haemorrhage (incl. rectal haemorrhage), Gastrointestinal and abdominal pains, Dyspepsia, Nausea, | Dry mouth                                                                                         |                                                                                                                                              |                                                     |                                                 |
-| Vomiting Hepatobiliary disorders                                                                                                           | Vomiting Hepatobiliary disorders                                                                  | Vomiting Hepatobiliary disorders                                                                                                             | Vomiting Hepatobiliary disorders                    | Vomiting Hepatobiliary disorders                |
-| Increase in transaminases                                                                                                                  | Hepatic impairment, Increased bilirubin, Increased blood alkaline phosphatase A , Increased GGT A | Jaundice, Bilirubin conjugated increased (with or without concomitant increase of ALT), Cholestasis, Hepatitis (incl. hepatocellular injury) |                                                     |                                                 |
-| Skin and subcutaneous tissue disorders                                                                                                     | Skin and subcutaneous tissue disorders                                                            | Skin and subcutaneous tissue disorders                                                                                                       | Skin and subcutaneous tissue disorders              | Skin and subcutaneous tissue disorders          |
+| Common                                                                                                                                       | Uncommon                                                                                          | Rare                                                                                                                                         | Very rare                                           | Not known                                       |
+|----------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------|-------------------------------------------------|
+| Blood and lymphatic system disorders                                                                                                         | Blood and lymphatic system disorders                                                              | Blood and lymphatic system disorders                                                                                                         | Blood and lymphatic system disorders                | Blood and lymphatic system disorders            |
+| Anaemia (incl. respective laboratory parameters)                                                                                             | Thrombocytosis (incl. platelet count increased) A , Thrombocytopenia                              |                                                                                                                                              |                                                     |                                                 |
+| Immune system disorders                                                                                                                      | Immune system disorders                                                                           | Immune system disorders                                                                                                                      | Immune system disorders                             | Immune system disorders                         |
+|                                                                                                                                              | Allergic reaction, Dermatitis allergic, Angioedema and allergic oedema                            |                                                                                                                                              | Anaphylactic reactions including anaphylactic shock |                                                 |
+| Nervous system disorders                                                                                                                     | Nervous system disorders                                                                          | Nervous system disorders                                                                                                                     | Nervous system disorders                            | Nervous system disorders                        |
+| Dizziness, Headache                                                                                                                          | Cerebral and intracranial haemorrhage, Syncope                                                    |                                                                                                                                              |                                                     |                                                 |
+| Eye disorders                                                                                                                                | Eye disorders                                                                                     | Eye disorders                                                                                                                                | Eye disorders                                       | Eye disorders                                   |
+| Eye haemorrhage (incl. conjunctival haemorrhage)                                                                                             |                                                                                                   |                                                                                                                                              |                                                     |                                                 |
+| Cardiac disorders Tachycardia                                                                                                                | Cardiac disorders Tachycardia                                                                     | Cardiac disorders Tachycardia                                                                                                                | Cardiac disorders Tachycardia                       | Cardiac disorders Tachycardia                   |
+| Vascular disorders Hypotension, Haematoma                                                                                                    |                                                                                                   |                                                                                                                                              |                                                     |                                                 |
+| Respiratory, thoracic and mediastinal disorders                                                                                              | Respiratory, thoracic and mediastinal disorders                                                   | Respiratory, thoracic and mediastinal disorders                                                                                              | Respiratory, thoracic and mediastinal disorders     | Respiratory, thoracic and mediastinal disorders |
+| Epistaxis, Haemoptysis                                                                                                                       |                                                                                                   |                                                                                                                                              | Eosinophilic pneumonia                              |                                                 |
+| Gastrointestinal disorders                                                                                                                   | Gastrointestinal disorders                                                                        | Gastrointestinal disorders                                                                                                                   | Gastrointestinal disorders                          | Gastrointestinal disorders                      |
+| Gingival bleeding, Gastrointestinal tract haemorrhage (incl. rectal haemorrhage), Gastrointestinal and abdominal pains, Dyspepsia, Nausea, A | Dry mouth                                                                                         |                                                                                                                                              |                                                     |                                                 |
+| Vomiting A                                                                                                                                   | Vomiting A                                                                                        | Vomiting A                                                                                                                                   | Vomiting A                                          | Vomiting A                                      |
+| Hepatobiliary disorders Increase in transaminases                                                                                            | Hepatic impairment, Increased bilirubin, Increased blood alkaline phosphatase A , Increased GGT A | Jaundice, Bilirubin conjugated increased (with or without concomitant increase of ALT), Cholestasis, Hepatitis (incl. hepatocellular injury) |                                                     |                                                 |
+| Skin and subcutaneous tissue disorders                                                                                                       | Skin and subcutaneous tissue disorders                                                            | Skin and subcutaneous tissue disorders                                                                                                       | Skin and subcutaneous tissue disorders              | Skin and subcutaneous tissue disorders          |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3361,9 +3185,9 @@ PT (neoplastin reagent), aPTT, and anti-Xa assay (with a calibrated quantitative
 
 ## Clinical efficacy and safety
 
-Prevention of stroke and systemic embolism in patients with non-valvular atrial fibrillation The rivaroxaban clinical programme was designed to demonstrate the efficacy of rivaroxaban for the prevention of stroke and systemic embolism in patients with non-valvular atrial fibrillation. In the pivotal double-blind ROCKET AF study, 14,264 patients were assigned either to rivaroxaban 20 mg once daily (15 mg once daily in patients with creatinine clearance 30 - 49 ml/min) or to warfarin titrated to a target INR of 2.5 (therapeutic range 2.0 to 3.0). The median time on treatment was 19 months and overall treatment duration was up to 41 months.
+Prevention of stroke and systemic embolism in patients with non-valvular atrial fibrillation The rivaroxaban clinical programme was designed to demonstrate the efficacy of rivaroxaban for the prevention of stroke and systemic embolism in patients with non-valvular atrial fibrillation. In the pivotal double-blind ROCKET AF study, 14,264 patients were assigned either to rivaroxaban 20 mg once daily (15 mg once daily in patients with creatinine clearance 30 - 49 ml/min) or to warfarin titrated to a target INR of 2.5 (therapeutic range 2.0 to 3.0). The median time on treatment was 19 months and overall treatment duration was up to 41 months. 34.9% of patients were treated with acetylsalicylic acid and 11.4% were treated with class III
 
-34.9% of patients were treated with acetylsalicylic acid and 11.4% were treated with class III antiarrhythmic including amiodarone.
+antiarrhythmic including amiodarone.
 
 Rivaroxaban was non-inferior to warfarin for the primary composite endpoint of stroke and non-CNS systemic embolism. In the per-protocol population on treatment, stroke or systemic embolism occurred in 188 patients on rivaroxaban (1.71% per year) and 241 on warfarin (2.16% per year) (HR 0.79; 95% CI, 0.66 - 0.96; p&lt;0.001 for non-inferiority). Among all randomised patients analysed according to ITT, primary events occurred in 269 on rivaroxaban (2.12% per year) and 306 on warfarin (2.42% per year) (HR 0.88; 95% CI, 0.74 - 1.03; p&lt;0.001 for non-inferiority; p=0.117 for superiority). Results for secondary endpoints as tested in hierarchical order in the ITT analysis are displayed in Table 4. Among patients in the warfarin group, INR values were within the therapeutic range (2.0 to 3.0) a mean of 55% of the time (median, 58%; interquartile range, 43 to 71). The effect of rivaroxaban did not differ across the level of centre TTR (Time in Target INR Range of 2.0 - 3.0) in the equally sized quartiles (p=0.74 for interaction). Within the highest quartile according to centre, the Hazard Ratio (HR) with rivaroxaban versus warfarin was 0.74 (95% CI, 0.49 - 1.12).
 
@@ -3389,7 +3213,7 @@ Table 5: Safety results from phase III ROCKET AF
 
 | Study population                                        | Study population                                                                                  | Patients with non-valvular atrial fibrillation a )                                             | Patients with non-valvular atrial fibrillation a )   |
 |---------------------------------------------------------|---------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|------------------------------------------------------|
-| Treatment dose                                          | 20 mg rivaroxaban od (15 mg od in patients with moderate renal impairment) Event rate (100 pt-yr) | Warfarin titrated to a target INR of 2.5 (therapeutic range 2.0 to 3.0) Event rate (100 pt-yr) | HR (95% CI) p-value                                  |
+| Treatment dose                                          | 20 mg rivaroxaban od (15 mg od in patients with moderate renal impairment) Event rate (100 pt-yr) | Warfarin titrated to a target INR of 2.5 (therapeutic range 2.0 to 3.0) Event rate (100 pt-yr) | HR(95% CI) p-value                                   |
 | Major and non-major clinically relevant bleeding events | 1,475 (14.91)                                                                                     | 1,449 (14.52)                                                                                  | 1.03 (0.96 - 1.11) 0.442                             |
 | Major bleeding events                                   | 395 (3.60)                                                                                        | 386 (3.45)                                                                                     | 1.04 (0.90 - 1.20) 0.576                             |
 | Death due to bleeding*                                  | 27 (0.24)                                                                                         | 55 (0.48)                                                                                      | 0.50 (0.31 - 0.79) 0.003                             |
@@ -3406,7 +3230,9 @@ Table 5: Safety results from phase III ROCKET AF
 
 a) Safety population, on treatment
 
-* Nominally significant od: once daily
+* Nominally significant
+
+od: once daily
 
 In addition to the phase III ROCKET AF study, a prospective, single-arm, post-authorisation, noninterventional, open-label cohort study (XANTUS) with central outcome adjudication including thromboembolic events and major bleeding has been conducted. 6,785 patients with non-valvular atrial fibrillation were enrolled for prevention of stroke and non-central nervous system (CNS) systemic embolism in clinical practice. The mean CHADS2 and HAS-BLED scores were both 2.0 in XANTUS, compared to a mean CHADS2 and HAS-BLED score of 3.5 and 2.8 in ROCKET AF, respectively. Major bleeding occurred in 2.1 per 100 patient years. Fatal haemorrhage was reported in 0.2 per 100 patient years and intracranial haemorrhage in 0.4 per 100 patient years. Stroke or non-CNS systemic embolism was recorded in 0.8 per 100 patient years.
 
@@ -3420,19 +3246,17 @@ A prospective, randomised, open-label, multicentre, exploratory study with blind
 
 A randomised, open-label, multicentre study (PIONEER AF-PCI) was conducted in 2,124 patients with non-valvular atrial fibrillation who underwent PCI with stent placement for primary atherosclerotic disease to compare safety of two rivaroxaban regimens and one VKA regimen. Patients were randomly assigned in a 1:1:1 fashion for an overall 12-month-therapy. Patients with a history of stroke or transient ischaemic attack were excluded.
 
-Group 1 received rivaroxaban 15 mg once daily (10 mg once daily in patients with creatinine clearance 30 - 49 ml/min) plus P2Y12 inhibitor. Group 2 received rivaroxaban 2.5 mg twice daily plus DAPT (dual antiplatelet therapy i.e. clopidogrel 75 mg [or alternate P2Y12 inhibitor] plus low-dose ASA) for 1, 6 or 12 months followed by rivaroxaban 15 mg (or 10 mg for subjects with creatinine clearance 30 - 49 ml/min) once daily plus low-dose ASA. Group 3 received dose-adjusted VKA plus DAPT for 1, 6 or 12 months followed by dose-adjusted VKA plus low-dose acetylsalicylic acid. The primary safety endpoint, clinically significant bleeding events, occurred in 109 (15.7%), 117 (16.6%), and 167 (24.0%) subjects in group 1, group 2 and group 3, respectively (HR 0.59; 95% CI 0.47-0.76; p&lt;0.001, and HR 0.63; 95% CI 0.50-0.80; p&lt;0.001, respectively). The secondary endpoint (composite of cardiovascular events CV death, MI, or stroke) occurred in 41 (5.9%), 36 (5.1%), and 36 (5.2%) subjects in the group 1, group 2 and group 3, respectively. Each of the rivaroxaban regimens showed a significant reduction in clinically significant bleeding events compared to the
+Group 1 received rivaroxaban 15 mg once daily (10 mg once daily in patients with creatinine clearance 30 - 49 ml/min) plus P2Y12 inhibitor. Group 2 received rivaroxaban 2.5 mg twice daily plus DAPT (dual antiplatelet therapy i.e. clopidogrel 75 mg [or alternate P2Y12 inhibitor] plus low-dose ASA) for 1, 6 or 12 months followed by rivaroxaban 15 mg (or 10 mg for subjects with creatinine clearance 30 - 49 ml/min) once daily plus low-dose ASA. Group 3 received dose-adjusted VKA plus DAPT for 1, 6 or 12 months followed by dose-adjusted VKA plus low-dose acetylsalicylic acid. The primary safety endpoint, clinically significant bleeding events, occurred in 109 (15.7%), 117 (16.6%), and 167 (24.0%) subjects in group 1, group 2 and group 3, respectively (HR 0.59; 95% CI 0.47-0.76; p&lt;0.001, and HR 0.63; 95% CI 0.50-0.80; p&lt;0.001, respectively). The secondary endpoint (composite of cardiovascular events CV death, MI, or stroke) occurred in 41 (5.9%), 36 (5.1%), and 36 (5.2%) subjects in the group 1, group 2 and group 3, respectively. Each of the rivaroxaban regimens showed a significant reduction in clinically significant bleeding events compared to the VKA regimen in patients with non-valvular atrial fibrillation who underwent a PCI with stent placement.
 
 <div style=\"page-break-after: always\"></div>
-
-VKA regimen in patients with non-valvular atrial fibrillation who underwent a PCI with stent placement.
 
 The primary objective of PIONEER AF-PCI was to assess safety. Data on efficacy (including thromboembolic events) in this population are limited.
 
 ## Treatment of DVT, PE and prevention of recurrent DVT and PE
 
-The rivaroxaban clinical programme was designed to demonstrate the efficacy of rivaroxaban in the initial and continued treatment of acute DVT and PE and prevention of recurrence.
+The rivaroxaban clinical programme was designed to demonstrate the efficacy of rivaroxaban in the
 
-Over 12,800 patients were studied in four randomised controlled phase III clinical studies (Einstein DVT, Einstein PE, Einstein Extension and Einstein Choice) and additionally a predefined pooled analysis of the Einstein DVT and Einstein PE studies was conducted. The overall combined treatment duration in all studies was up to 21 months.
+initial and continued treatment of acute DVT and PE and prevention of recurrence. Over 12,800 patients were studied in four randomised controlled phase III clinical studies (Einstein DVT, Einstein PE, Einstein Extension and Einstein Choice) and additionally a predefined pooled analysis of the Einstein DVT and Einstein PE studies was conducted. The overall combined treatment duration in all studies was up to 21 months.
 
 In Einstein DVT 3,449 patients with acute DVT were studied for the treatment of DVT and the prevention of recurrent DVT and PE (patients who presented with symptomatic PE were excluded from this study). The treatment duration was for 3, 6 or 12 months depending on the clinical judgement of the investigator.
 
@@ -3442,7 +3266,7 @@ In Einstein PE, 4,832 patients with acute PE were studied for the treatment of P
 
 For the initial treatment of acute PE 15 mg rivaroxaban was administered twice daily for three weeks. This was followed by 20 mg rivaroxaban once daily.
 
-In both the Einstein DVT and the Einstein PE study, the comparator treatment regimen consisted of enoxaparin administered for at least 5 days in combination with vitamin K antagonist treatment until the PT/INR was in therapeutic range (≥ 2.0). Treatment was continued with a vitamin K antagonist dose-adjusted to maintain the PT/INR values within the therapeutic range of 2.0 to 3.0.
+In both the Einstein DVT and the Einstein PE study, the comparator treatment regimen consisted of enoxaparin administered for at least 5 days in combination with vitamin K antagonist treatment until the PT/INR was in therapeutic range ( ≥ 2.0). Treatment was continued with a vitamin K antagonist dose-adjusted to maintain the PT/INR values within the therapeutic range of 2.0 to 3.0.
 
 In Einstein Extension 1,197 patients with DVT or PE were studied for the prevention of recurrent DVT and PE. The treatment duration was for an additional 6 or 12 months in patients who had completed 6 to 12 months of treatment for VTE depending on the clinical judgment of the investigator. Rivaroxaban 20 mg once daily was compared with placebo.
 
@@ -3450,11 +3274,9 @@ Einstein DVT, PE and Extension used the same pre-defined primary and secondary e
 
 In Einstein Choice, 3,396 patients with confirmed symptomatic DVT and/or PE who completed 6-12 months of anticoagulant treatment were studied for the prevention of fatal PE or non-fatal symptomatic recurrent DVT or PE. Patients with an indication for continued therapeutic-dosed anticoagulation were excluded from the study. The treatment duration was up to 12 months depending on the individual randomisation date (median: 351 days). Rivaroxaban 20 mg once daily and rivaroxaban 10 mg once daily were compared with 100 mg acetylsalicylic acid once daily. The primary efficacy outcome was symptomatic recurrent VTE defined as the composite of recurrent DVT or fatal or non-fatal PE.
 
-In the Einstein DVT study (see Table 6) rivaroxaban was demonstrated to be non-inferior to enoxaparin/VKA for the primary efficacy outcome (p &lt; 0.0001 (test for non-inferiority); HR: 0.680 (0.443 - 1.042), p=0.076 (test for superiority)). The prespecified net clinical benefit (primary efficacy outcome plus major bleeding events) was reported with a HR of 0.67 ((95% CI: 0.47 - 0.95), nominal p -value p=0.027) in favour of rivaroxaban. INR values were within the therapeutic range a mean of 60.3% of the time for the mean treatment duration of 189 days, and 55.4%, 60.1%, and 62.8% of the time in the 3-, 6-, and 12-month intended treatment duration groups, respectively. In the
+In the Einstein DVT study (see Table 6) rivaroxaban was demonstrated to be non-inferior to enoxaparin/VKA for the primary efficacy outcome (p &lt; 0.0001 (test for non-inferiority); HR: 0.680 (0.443 - 1.042), p=0.076 (test for superiority)). The prespecified net clinical benefit (primary efficacy outcome plus major bleeding events) was reported with a HR of 0.67 ((95% CI: 0.47 - 0.95), nominal p -value p=0.027) in favour of rivaroxaban. INR values were within the therapeutic range a mean of 60.3% of the time for the mean treatment duration of 189 days, and 55.4%, 60.1%, and 62.8% of the time in the 3-, 6-, and 12-month intended treatment duration groups, respectively. In the enoxaparin/VKA group, there was no clear relation between the level of mean centre TTR (Time in Target INR Range of 2.0 - 3.0) in the equally sized tertiles and the incidence of the recurrent VTE (p=0.932 for interaction). Within the highest tertile according to centre, the HR with rivaroxaban versus warfarin was 0.69 (95% CI: 0.35 - 1.35).
 
 <div style=\"page-break-after: always\"></div>
-
-enoxaparin/VKA group, there was no clear relation between the level of mean centre TTR (Time in Target INR Range of 2.0 - 3.0) in the equally sized tertiles and the incidence of the recurrent VTE (p=0.932 for interaction). Within the highest tertile according to centre, the HR with rivaroxaban versus warfarin was 0.69 (95% CI: 0.35 - 1.35).
 
 The incidence rates for the primary safety outcome (major or clinically relevant non-major bleeding events) as well as the secondary safety outcome (major bleeding events) were similar for both treatment groups.
 
@@ -3470,12 +3292,6 @@ Table 6: Efficacy and safety results from phase III Einstein DVT
 | Fatal PE/death where PE cannot be ruled out     | 4 (0.2%)                                    | 6 (0.3%)                                    |
 | Major or clinically relevant non-major bleeding | 139 (8.1%)                                  | 138 (8.1%)                                  |
 | Major bleeding events                           | 14 (0.8%)                                   | 20 (1.2%)                                   |
-
-a) Rivaroxaban 15 mg twice daily for 3 weeks followed by 20 mg once daily
-
-b) Enoxaparin for at least 5 days, overlapped with and followed by VKA
-
-* p &lt; 0.0001 (non-inferiority to a prespecified HR of 2.0); HR: 0.680 (0.443 - 1.042), p=0.076 (superiority)
 
 In the Einstein PE study (see Table 7) rivaroxaban was demonstrated to be non-inferior to enoxaparin/VKA for the primary efficacy outcome (p=0.0026 (test for non-inferiority); HR: 1.123 (0.749 - 1.684)). The prespecified net clinical benefit (primary efficacy outcome plus major bleeding events) was reported with a HR of 0.849 ((95% CI: 0.633 - 1.139), nominal p -value p=0.275). INR values were within the therapeutic range a mean of 63% of the time for the mean treatment duration of 215 days, and 57%, 62%, and 65% of the time in the 3-, 6-, and 12-month intended treatment duration groups, respectively. In the enoxaparin/VKA group, there was no clear relation between the level of mean centre TTR (Time in Target INR Range of 2.0 - 3.0) in the equally sized tertiles and the incidence of the recurrent VTE (p=0.082 for interaction). Within the highest tertile according to centre, the HR with rivaroxaban versus warfarin was 0.642 (95% CI: 0.277 - 1.484).
 
@@ -3499,8 +3315,6 @@ Table 7: Efficacy and safety results from phase III Einstein PE
 | Major or clinically relevant non-major bleeding | 249 (10.3%) | 274 (11.4%) |
 | Major bleeding events                           | 26 (1.1%)   | 52 (2.2%)   |
 
-a) Rivaroxaban 15 mg twice daily for 3 weeks followed by 20 mg once daily
-
 b) Enoxaparin for at least 5 days, overlapped with and followed by VKA
 
 * p &lt; 0.0026 (non-inferiority to a prespecified HR of 2.0); HR: 1.123 (0.749 - 1.684)
@@ -3520,12 +3334,6 @@ Table 8: Efficacy and safety results from pooled analysis of phase III Einstein 
 | Major or clinically relevant non-major bleeding | 388 (9.4%)                                           | 412 (10.0%)                                          |
 | Major bleeding events                           | 40 (1.0%)                                            | 72 (1.7%)                                            |
 
-a) Rivaroxaban 15 mg twice daily for 3 weeks followed by 20 mg once daily
-
-b) Enoxaparin for at least 5 days, overlapped with and followed by VKA
-
-* p &lt; 0.0001 (non-inferiority to a prespecified HR of 1.75); HR: 0.886 (0.661 - 1.186)
-
 The prespecified net clinical benefit (primary efficacy outcome plus major bleeding events) of the pooled analysis was reported with a HR of 0.771 ((95% CI: 0.614 - 0.967), nominal p-value p= 0.0244).
 
 In the Einstein Extension study (see Table 9) rivaroxaban was superior to placebo for the primary and secondary efficacy outcomes. For the primary safety outcome (major bleeding events) there was a non-significant numerically higher incidence rate for patients treated with rivaroxaban 20 mg once daily compared to placebo. The secondary safety outcome (major or clinically relevant non-major bleeding events) showed higher rates for patients treated with rivaroxaban 20 mg once daily compared to placebo.
@@ -3543,10 +3351,6 @@ Table 9: Efficacy and safety results from phase III Einstein Extension
 | Fatal PE/death where PE cannot be ruled out | 1 (0.2%)                                                             | 1 (0.2%)                                                             |
 | Major bleeding events                       | 4 (0.7%)                                                             | 0 (0.0%)                                                             |
 | Clinically relevant non-major bleeding      | 32 (5.4%)                                                            | 7 (1.2%)                                                             |
-
-a) Rivaroxaban 20 mg once daily
-
-* p &lt; 0.0001 (superiority), HR: 0.185 (0.087 - 0.393)
 
 In the Einstein Choice study (see Table 10) rivaroxaban 20 mg and 10 mg were both superior to 100 mg acetylsalicylic acid for the primary efficacy outcome. The principal safety outcome (major bleeding events) was similar for patients treated with rivaroxaban 20 mg and 10 mg once daily compared to 100 mg acetylsalicylic acid.
 
@@ -3573,15 +3377,13 @@ od: once daily
 
 <div style=\"page-break-after: always\"></div>
 
-+ rivaroxaban 20 mg od versus acetylsalicylic acid 100 mg od; HR=0.44 (0.27-0.71), p=0.0009 (nominal)
++ rivaroxaban 20 mg od versus acetylsalicylic acid 100 mg od; HR=0.44 (0.27-0.71), p=0.0009 (nominal) ++ 10 mg rivaroxaban od versus acetylsalicylic acid 100 mg od; HR=0.32 (0.18-0.55), p&lt;0.0001
 
-++ 10 mg rivaroxaban od versus acetylsalicylic acid 100 mg od; HR=0.32 (0.18-0.55), p&lt;0.0001 (nominal)
+(nominal)
 
 In addition to the phase III EINSTEIN programme, a prospective, non-interventional, open-label cohort study (XALIA) with central outcome adjudication including recurrent VTE, major bleeding and death has been conducted. 5,142 patients with acute DVT were enrolled to investigate the long-term safety of rivaroxaban compared with standard-of-care anticoagulation therapy in clinical practice. Rates of major bleeding, recurrent VTE and all-cause mortality for rivaroxaban were 0.7%, 1.4% and 0.5%, respectively. There were differences in patient baseline characteristics including age, cancer and renal impairment. A pre-specified propensity score stratified analysis was used to adjust for measured baseline differences but residual confounding may, in spite of this, influence the results. Adjusted HRs comparing rivaroxaban and standard-of-care for major bleeding, recurrent VTE and all-cause mortality were 0.77 (95% CI 0.40 - 1.50), 0.91 (95% CI 0.54 - 1.54) and 0.51 (95% CI 0.24 - 1.07), respectively. These results in clinical practice are consistent with the established safety profile in this indication.
 
-## Paediatric population
-
-## Treatment of VTE and prevention of VTE recurrence in paediatric patients
+## Paediatric population Treatment of VTE and prevention of VTE recurrence in paediatric patients
 
 A total of 727 children with confirmed acute VTE, of whom 528 received rivaroxaban, were studied in 6 open-label, multicentre paediatric studies. Body weight-adjusted dosing in patients from birth to less than 18 years resulted in rivaroxaban exposure similar to that observed in adult DVT patients treated with rivaroxaban 20 mg once daily as confirmed in the phase III study (see section 5.2).
 
@@ -3612,8 +3414,6 @@ Table 11: Efficacy results at the end of the main treatment period
 | Composite: Symptomatic recurrent VTE + major bleeding (net clinical benefit)                    | 4 (1.2%, 95% CI 0.4% - 3.0%)      | 7 (4.2%, 95% CI 2.0% - 8.4%)     |
 | Fatal or non-fatal pulmonary embolism                                                           | 1 (0.3%, 95% CI 0.0% - 1.6%)      | 1 (0.6%, 95% CI 0.0% - 3.1%)     |
 
-*FAS= full analysis set, all children who were randomised
-
 Table 12: Safety results at the end of the main treatment period
 
 |                                                            | Rivaroxaban N=329*            | Comparator N=162*            |
@@ -3622,17 +3422,13 @@ Table 12: Safety results at the end of the main treatment period
 | Major bleeding                                             | 0 (0.0%, 95% CI 0.0% - 1.1%)  | 2 (1.2%, 95% CI 0.2% - 4.3%) |
 | Any treatment-emergent bleedings                           | 119 (36.2%)                   | 45 (27.8%)                   |
 
-* SAF= safety analysis set, all children who were randomised and received at least 1 dose of study medicinal product.
-
 The efficacy and safety profile of rivaroxaban was largely similar between the paediatric VTE population and the DVT/PE adult population, however, the proportion of subjects with any bleeding was higher in the paediatric VTE population as compared to the DVT/PE adult population.
 
 ## Patients with high risk triple positive antiphospholipid syndrome
 
-In an investigator sponsored, randomised open-label multicentre study with blinded endpoint adjudication, rivaroxaban was compared to warfarin in patients with a history of thrombosis,
+In an investigator sponsored, randomised open-label multicentre study with blinded endpoint adjudication, rivaroxaban was compared to warfarin in patients with a history of thrombosis, diagnosed with antiphospholipid syndrome and at high risk for thromboembolic events (positive for all 3 antiphospholipid tests: lupus anticoagulant, anticardiolipin antibodies, and anti-beta 2-glycoprotein I antibodies). The study was terminated prematurely after the enrolment of 120 patients due to an excess of events among patients in the rivaroxaban arm. Mean follow-up was 569 days. 59 patients were randomised to rivaroxaban 20 mg (15 mg for patients with creatinine clearance (CrCl) &lt;50 mL/min) and 61 to warfarin (INR 2.0-3.0). Thromboembolic events occurred in 12% of patients randomised to rivaroxaban (4 ischaemic strokes and 3 myocardial infarctions). No events were reported in patients randomised to warfarin. Major bleeding occurred in 4 patients (7%) of the rivaroxaban group and 2 patients (3%) of the warfarin group.
 
 <div style=\"page-break-after: always\"></div>
-
-diagnosed with antiphospholipid syndrome and at high risk for thromboembolic events (positive for all 3 antiphospholipid tests: lupus anticoagulant, anticardiolipin antibodies, and anti-beta 2-glycoprotein I antibodies). The study was terminated prematurely after the enrolment of 120 patients due to an excess of events among patients in the rivaroxaban arm. Mean follow-up was 569 days. 59 patients were randomised to rivaroxaban 20 mg (15 mg for patients with creatinine clearance (CrCl) &lt;50 mL/min) and 61 to warfarin (INR 2.0-3.0). Thromboembolic events occurred in 12% of patients randomised to rivaroxaban (4 ischaemic strokes and 3 myocardial infarctions). No events were reported in patients randomised to warfarin. Major bleeding occurred in 4 patients (7%) of the rivaroxaban group and 2 patients (3%) of the warfarin group.
 
 ## Paediatric population
 
@@ -3670,7 +3466,7 @@ Plasma protein binding in adults is high at approximately 92% to 95%, with serum
 
 ## Paediatric population
 
-No data on rivaroxaban plasma protein binding specific to children is available. No PK data following intravenous administration of rivaroxaban to children is available. Vss estimated via population PK modelling in children (age range 0 to &lt; 18 years) following oral administration of rivaroxaban is dependent on body weight and can be described with an allometric function, with an average of 113 L for a subject with a body weight of 82.8 kg.
+No data on rivaroxaban plasma protein binding specific to children is available. No PK data following intravenous administration of rivaroxaban to children is available. V ss estimated via population PK modelling in children (age range 0 to &lt; 18 years) following oral administration of rivaroxaban is dependent on body weight and can be described with an allometric function, with an average of 113 L for a subject with a body weight of 82.8 kg.
 
 ## Biotransformation and elimination
 
@@ -3682,7 +3478,7 @@ Unchanged rivaroxaban is the most important compound in human plasma, with no ma
 
 ## Paediatric population
 
-No metabolism data specific to children is available. No PK data following intravenous administration of rivaroxaban to children is available. CL estimated via population PK modelling in children (age range 0 to &lt; 18 years) following oral administration of rivaroxaban is dependent on body weight and can be described with an allometric function, with an average of 8 L/h for a subject with body weight of 82.8 kg. The geometric mean values for disposition half-lives (t1/2) estimated via population PK modelling decrease with decreasing age and ranged from 4.2 h in adolescents to approximately 3 h in children aged 2-12 years down to 1.9 and 1.6 h in children aged 0.5-&lt; 2 years and less than 0.5 years, respectively.
+No metabolism data specific to children is available. No PK data following intravenous administration of rivaroxaban to children is available. CL estimated via population PK modelling in children (age range 0 to &lt; 18 years) following oral administration of rivaroxaban is dependent on body weight and can be described with an allometric function, with an average of 8 L/h for a subject with body weight of 82.8 kg. The geometric mean values for disposition half-lives (t 1/2 ) estimated via population PK modelling decrease with decreasing age and ranged from 4.2 h in adolescents to approximately 3 h in children aged 2-12 years down to 1.9 and 1.6 h in children aged 0.5-&lt; 2 years and less than 0.5 years, respectively.
 
 ## Special populations
 
@@ -3780,7 +3576,9 @@ Rivaroxaban was tested in juvenile rats up to 3 - month treatment duration start
 
 ## 6.1 List of excipients
 
-Tablet core Microcrystalline cellulose Lactose monohydrate Croscarmellose sodium Hypromellose Sodium laurilsulfate Magnesium stearate
+## Tablet core
+
+Microcrystalline cellulose Lactose monohydrate Croscarmellose sodium Hypromellose Sodium laurilsulfate Magnesium stearate
 
 Film-coat Poly(vinyl alcohol) Macrogol 3350 Talc Titanium dioxide (E171) Ferric oxide red (E172)
 
@@ -3794,7 +3592,7 @@ Not applicable.
 
 Bottle once opened: 180 days.
 
-Crushed tablets
+## Crushed tablets
 
 Crushed rivaroxaban tablets are stable in water and apple puree for 2 hours.
 
@@ -3804,7 +3602,7 @@ This medicinal product does not require any special storage conditions.
 
 ## 6.5 Nature and contents of container
 
-PVC/PVdC/Aluminium foil blister packs containing 14, 28, 30, 98 or 100 film-coated tablets or perforated unit dose blisters in cartons of 14  1, 28  1, 30  1, 50  1, 90  1, 98  1 or 100  1 filmcoated tablets or calendar packs of 14, 28 or 98 film-coated tablets.
+PVC/PVdC/Aluminium foil blister packs containing 14, 28, 30, 98 or 100 film-coated tablets or perforated unit dose blisters in cartons of 14 × 1, 28 × 1, 30 × 1, 50 × 1, 90 × 1, 98 × 1 or 100 × 1 filmcoated tablets or calendar packs of 14, 28 or 98 film-coated tablets.
 
 White HDPE bottles with white opaque PP screw cap with aluminium induction sealing liner wad containing 30, 98,100 or 250 film-coated tablets.
 
@@ -3830,13 +3628,9 @@ Viatris Limited Damastown Industrial Park Mulhuddart Dublin 15 DUBLIN Ireland
 EU/1/21/1588/041  Blister (PVC/PVdC/alu)  14 tablets EU/1/21/1588/042  Blister (PVC/PVdC/alu)  28 tablets EU/1/21/1588/043  Blister (PVC/PVdC/alu)  30 tablets EU/1/21/1588/044  Blister (PVC/PVdC/alu)  98 tablets EU/1/21/1588/045  Blister (PVC/PVdC/alu)  100 tablets EU/1/21/1588/046  Blister (PVC/PVdC/alu)  14 x 1 tablets (unit dose) EU/1/21/1588/047  Blister (PVC/PVdC/alu)  28 x 1 tablets (unit dose) EU/1/21/1588/048  Blister (PVC/PVdC/alu)  30 x 1 tablets (unit dose) EU/1/21/1588/049  Blister (PVC/PVdC/alu)  50 x 1 tablets (unit dose) EU/1/21/1588/050  Blister (PVC/PVdC/alu)  90 x 1 tablets (unit dose) EU/1/21/1588/051  Blister (PVC/PVdC/alu)  98 x 1 tablets (unit dose) EU/1/21/1588/052  Blister (PVC/PVdC/alu)  100 x 1 tablets (unit dose) EU/1/21/1588/053  Bottle (HDPE)  98 tablets EU/1/21/1588/054  Bottle (HDPE)  100 tablets EU/1/21/1588/060  Bottle (HDPE)  30 tablets EU/1/21/1588/064  Bottle (HDPE)  250 tablets
 ```
 
-EU/1/21/1588/056  Blister Calendar (PVC/PVdC/alu)  14 tablets
-
 ```
-EU/1/21/1588/057  Blister Calendar (PVC/PVdC/alu)  28 tablets
+EU/1/21/1588/056  Blister Calendar (PVC/PVdC/alu)  14 tablets EU/1/21/1588/057  Blister Calendar (PVC/PVdC/alu)  28 tablets EU/1/21/1588/058  Blister Calendar (PVC/PVdC/alu)  98 tablets
 ```
-
-EU/1/21/1588/058  Blister Calendar (PVC/PVdC/alu)  98 tablets
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -3850,8 +3644,6 @@ Detailed information on this medicinal product is available on the website of th
 
 <div style=\"page-break-after: always\"></div>
 
-Treatment Initiation Pack
-
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
 Rivaroxaban Viatris 15 mg film-coated tablets Rivaroxaban Viatris 20 mg film-coated tablets
@@ -3860,9 +3652,9 @@ Rivaroxaban Viatris 15 mg film-coated tablets Rivaroxaban Viatris 20 mg film-coa
 
 Each 15 mg film-coated tablet contains 15 mg rivaroxaban. Each 20 mg film-coated tablet contains 20 mg rivaroxaban.
 
-Excipient with known effect
+Excipient with known effect Each 15 mg film-coated tablet contains 28.86 mg lactose (as monohydrate), see section 4.4.
 
-Each 15 mg film-coated tablet contains 28.86 mg lactose (as monohydrate), see section 4.4. Each 20 mg film-coated tablet contains 38.48 mg lactose (as monohydrate), see section 4.4.
+Each 20 mg film-coated tablet contains 38.48 mg lactose (as monohydrate), see section 4.4.
 
 For the full list of excipients, see section 6.1.
 
@@ -3884,17 +3676,15 @@ Treatment of deep vein thrombosis (DVT) and pulmonary embolism (PE), and prevent
 
 ## Posology
 
-## Treatment of DVT, treatment of PE and prevention of recurrent DVT and PE
+Treatment of DVT, treatment of PE and prevention of recurrent DVT and PE
 
 The recommended dose for the initial treatment of acute DVT or PE is 15 mg twice daily for the first three weeks followed by 20 mg once daily for the continued treatment and prevention of recurrent DVT and PE.
 
 Short duration of therapy (at least 3 months) should be considered in patients with DVT or PE provoked by major transient risk factors (i.e. recent major surgery or trauma). Longer duration of therapy should be considered in patients with provoked DVT or PE not related to major transient risk factors, unprovoked DVT or PE, or a history of recurrent DVT or PE.
 
-When extended prevention of recurrent DVT and PE is indicated (following completion of at least 6 months therapy for DVT or PE), the recommended dose is 10 mg once daily. In patients in whom the risk of recurrent DVT or PE is considered high, such as those with complicated comorbidities, or who
+When extended prevention of recurrent DVT and PE is indicated (following completion of at least 6 months therapy for DVT or PE), the recommended dose is 10 mg once daily. In patients in whom the risk of recurrent DVT or PE is considered high, such as those with complicated comorbidities, or who have developed recurrent DVT or PE on extended prevention with Rivaroxaban Viatris 10 mg once daily, a dose of Rivaroxaban Viatris 20 mg once daily should be considered.
 
 <div style=\"page-break-after: always\"></div>
-
-have developed recurrent DVT or PE on extended prevention with Rivaroxaban Viatris 10 mg once daily, a dose of Rivaroxaban Viatris 20 mg once daily should be considered.
 
 The duration of therapy and dose selection should be individualised after careful assessment of the treatment benefit against the risk for bleeding (see section 4.4).
 
@@ -3928,7 +3718,9 @@ Give the first dose of parenteral anticoagulant at the time the next Rivaroxaban
 
 <div style=\"page-break-after: always\"></div>
 
-## Special populations Renal impairment
+## Special populations
+
+## Renal impairment
 
 Limited clinical data for patients with severe renal impairment (creatinine clearance 15 - 29 ml/min) indicate that rivaroxaban plasma concentrations are significantly increased. Therefore, Rivaroxaban Viatris is to be used with caution in these patients. Use is not recommended in patients with creatinine clearance &lt; 15 ml/min (see sections 4.4 and 5.2).
 
@@ -3960,7 +3752,7 @@ Rivaroxaban Viatris treatment initiation pack should not be used in children age
 
 ## Method of administration
 
-## Rivaroxaban Viatris is for oral use.
+Rivaroxaban Viatris is for oral use.
 
 The tablets are to be taken with food (see section 5.2).
 
@@ -4042,11 +3834,9 @@ Rivaroxaban Viatris is not recommended as an alternative to unfractionated hepar
 
 ## Spinal/epidural anaesthesia or puncture
 
-When neuraxial anaesthesia (spinal/epidural anaesthesia) or spinal/epidural puncture is employed, patients treated with antithrombotic agents for prevention of thromboembolic complications are at risk
+When neuraxial anaesthesia (spinal/epidural anaesthesia) or spinal/epidural puncture is employed, patients treated with antithrombotic agents for prevention of thromboembolic complications are at risk of developing an epidural or spinal haematoma which can result in long-term or permanent paralysis. The risk of these events may be increased by the post-operative use of indwelling epidural catheters or the concomitant use of medicinal products affecting haemostasis. The risk may also be increased by traumatic or repeated epidural or spinal puncture. Patients are to be frequently monitored for signs and symptoms of neurological impairment (e.g. numbness or weakness of the legs, bowel or bladder dysfunction). If neurological compromise is noted, urgent diagnosis and treatment is necessary. Prior to neuraxial intervention the physician should consider the potential benefit versus the risk in anticoagulated patients or in patients to be anticoagulated for thromboprophylaxis. There is no clinical experience with the use of 15 mg or 20 mg rivaroxaban in these situations.
 
 <div style=\"page-break-after: always\"></div>
-
-of developing an epidural or spinal haematoma which can result in long-term or permanent paralysis. The risk of these events may be increased by the post-operative use of indwelling epidural catheters or the concomitant use of medicinal products affecting haemostasis. The risk may also be increased by traumatic or repeated epidural or spinal puncture. Patients are to be frequently monitored for signs and symptoms of neurological impairment (e.g. numbness or weakness of the legs, bowel or bladder dysfunction). If neurological compromise is noted, urgent diagnosis and treatment is necessary. Prior to neuraxial intervention the physician should consider the potential benefit versus the risk in anticoagulated patients or in patients to be anticoagulated for thromboprophylaxis. There is no clinical experience with the use of 15 mg or 20 mg rivaroxaban in these situations.
 
 To reduce the potential risk of bleeding associated with the concurrent use of rivaroxaban and neuraxial (epidural/spinal) anaesthesia or spinal puncture, consider the pharmacokinetic profile of rivaroxaban. Placement or removal of an epidural catheter or lumbar puncture is best performed when the anticoagulant effect of rivaroxaban is estimated to be low. However, the exact timing to reach a sufficiently low anticoagulant effect in each patient is not known.
 
@@ -4054,9 +3844,7 @@ For the removal of an epidural catheter and based on the general PK characterist
 
 If traumatic puncture occurs the administration of rivaroxaban is to be delayed for 24 hours.
 
-## Dosing recommendations before and after invasive procedures and surgical intervention
-
-If an invasive procedure or surgical intervention is required, Rivaroxaban Viatris 15 mg/20 mg should be stopped at least 24 hours before the intervention, if possible and based on the clinical judgement of the physician. If the procedure cannot be delayed the increased risk of bleeding should be assessed against the urgency of the intervention.
+Dosing recommendations before and after invasive procedures and surgical intervention If an invasive procedure or surgical intervention is required, Rivaroxaban Viatris 15 mg/20 mg should be stopped at least 24 hours before the intervention, if possible and based on the clinical judgement of the physician. If the procedure cannot be delayed the increased risk of bleeding should be assessed against the urgency of the intervention.
 
 Rivaroxaban Viatris should be restarted as soon as possible after the invasive procedure or surgical intervention provided the clinical situation allows and adequate haemostasis has been established as determined by the treating physician (see section 5.2).
 
@@ -4090,7 +3878,9 @@ Given the limited clinical data available with dronedarone, co-administration wi
 
 ## Anticoagulants
 
-After combined administration of enoxaparin (40 mg single dose) with rivaroxaban (10 mg single dose) an additive effect on anti-factor Xa activity was observed without any additional effects on clotting tests (PT, aPTT). Enoxaparin did not affect the pharmacokinetics of rivaroxaban. Due to the increased bleeding risk care is to be taken if patients are treated concomitantly with any other anticoagulants (see sections 4.3 and 4.4).
+After combined administration of enoxaparin (40 mg single dose) with rivaroxaban (10 mg single dose) an additive effect on anti-factor Xa activity was observed without any additional effects on clotting tests (PT, aPTT). Enoxaparin did not affect the pharmacokinetics of rivaroxaban. Due to the increased bleeding risk care is to be taken if patients are treated concomitantly with any
+
+other anticoagulants (see sections 4.3 and 4.4).
 
 ## NSAIDs/platelet aggregation inhibitors
 
@@ -4173,10 +3963,6 @@ Table 1: Number of patients studied, total daily dose and maximum treatment dura
 | Prevention of atherothrombotic events in patients with CAD/PAD                                                                                                     | 18,244                | 5 mg co- administered with acetylsalicylic acid or 10 mg alone                                                                        | 47 months                    |
 | Prevention of atherothrombotic events in patients with CAD/PAD                                                                                                     | 3,256**               | 5 mg co- administered with acetylsalicylic acid                                                                                       | 42 months                    |
 
- Patients exposed to at least one dose of rivaroxaban
-
-** From the VOYAGER PAD study
-
 The most commonly reported adverse reactions in patients receiving rivaroxaban were bleedings (see section 4.4. and 'Description of selected adverse reactions' below) (Table 2). The most commonly reported bleedings were epistaxis (4.5%) and gastrointestinal tract haemorrhage (3.8%).
 
 <div style=\"page-break-after: always\"></div>
@@ -4194,10 +3980,6 @@ Table 2: Bleeding* and anaemia events rates in patients exposed to rivaroxaban a
 | Prevention of atherothrombotic events in patients with CAD/PAD                                                                                                     | 6.7 per 100 patient years    | 0.15 per 100 patient years**    |
 | Prevention of atherothrombotic events in patients with CAD/PAD                                                                                                     | 8.38 per 100 patient years # | 0.74 per 100 patient years*** # |
 
-* For all rivaroxaban studies all bleeding events are collected, reported and adjudicated.
-
-** In the COMPASS study, there is a low anaemia incidence as a selective approach to adverse event collection was applied
-
 - *** A selective approach to adverse event collection was applied
 - # From the VOYAGER PAD study
 
@@ -4205,7 +3987,7 @@ Table 2: Bleeding* and anaemia events rates in patients exposed to rivaroxaban a
 
 The frequencies of adverse reactions reported with rivaroxaban in adult and paediatric patients are summarised in Table 3 below by system organ class (in MedDRA) and by frequency.
 
-Frequencies are defined as: very common (≥ 1/10) common (≥ 1/100 to &lt; 1/10) uncommon (≥ 1/1,000 to &lt; 1/100) rare (≥ 1/10,000 to &lt; 1/1,000) very rare ( &lt; 1/10,000) not known (cannot be estimated from the available data)
+Frequencies are defined as: very common ( ≥ 1/10) common ( ≥ 1/100 to &lt; 1/10) uncommon ( ≥ 1/1,000 to &lt; 1/100) rare ( ≥ 1/10,000 to &lt; 1/1,000) very rare ( &lt; 1/10,000) not known (cannot be estimated from the available data)
 
 Table 3: All adverse reactions reported in adult patients in phase III clinical studies or through post-marketing use* and in two phase II and two phase III studies in paediatric patients
 
@@ -4218,27 +4000,26 @@ Table 3: All adverse reactions reported in adult patients in phase III clinical 
 
 <div style=\"page-break-after: always\"></div>
 
-| Common                                                                                                                                                                 | Uncommon                                                                                          | Rare                                                                                                                                         | Very rare                                                            | Not known                                       |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------|-------------------------------------------------|
-|                                                                                                                                                                        | Angioedema and allergic oedema                                                                    |                                                                                                                                              | anaphylactic shock                                                   |                                                 |
-| Nervous system disorders                                                                                                                                               | Nervous system disorders                                                                          | Nervous system disorders                                                                                                                     | Nervous system disorders                                             | Nervous system disorders                        |
-| Dizziness, Headache                                                                                                                                                    | Cerebral and intracranial haemorrhage, Syncope                                                    |                                                                                                                                              |                                                                      |                                                 |
-| Eye disorders                                                                                                                                                          | Eye disorders                                                                                     | Eye disorders                                                                                                                                | Eye disorders                                                        | Eye disorders                                   |
-| Eye haemorrhage (incl. conjunctival haemorrhage)                                                                                                                       |                                                                                                   |                                                                                                                                              |                                                                      |                                                 |
-| Cardiac disorders                                                                                                                                                      | Cardiac disorders                                                                                 | Cardiac disorders                                                                                                                            | Cardiac disorders                                                    | Cardiac disorders                               |
-| Tachycardia                                                                                                                                                            | Tachycardia                                                                                       | Tachycardia                                                                                                                                  | Tachycardia                                                          | Tachycardia                                     |
-| Vascular disorders                                                                                                                                                     | Vascular disorders                                                                                | Vascular disorders                                                                                                                           | Vascular disorders                                                   | Vascular disorders                              |
-| Hypotension,                                                                                                                                                           |                                                                                                   |                                                                                                                                              |                                                                      |                                                 |
-| Haematoma                                                                                                                                                              |                                                                                                   |                                                                                                                                              |                                                                      |                                                 |
-| Respiratory, thoracic and mediastinal disorders                                                                                                                        | Respiratory, thoracic and mediastinal disorders                                                   | Respiratory, thoracic and mediastinal disorders                                                                                              | Respiratory, thoracic and mediastinal disorders                      | Respiratory, thoracic and mediastinal disorders |
-| Epistaxis, Haemoptysis                                                                                                                                                 |                                                                                                   |                                                                                                                                              | Eosinophilic pneumonia                                               |                                                 |
-| Gastrointestinal disorders                                                                                                                                             | Gastrointestinal disorders                                                                        | Gastrointestinal disorders                                                                                                                   | Gastrointestinal disorders                                           | Gastrointestinal disorders                      |
-| Gingival bleeding, Gastrointestinal tract haemorrhage (incl. rectal haemorrhage), Gastrointestinal and abdominal pains, Dyspepsia, Nausea, Constipation A , Diarrhoea, | Dry mouth                                                                                         |                                                                                                                                              |                                                                      |                                                 |
-| Hepatobiliary disorders                                                                                                                                                | Hepatobiliary disorders                                                                           | Hepatobiliary disorders                                                                                                                      | Hepatobiliary disorders                                              | Hepatobiliary disorders                         |
-| Increase in transaminases                                                                                                                                              | Hepatic impairment, Increased bilirubin, Increased blood alkaline phosphatase A , Increased GGT A | Jaundice, Bilirubin conjugated increased (with or without concomitant increase of ALT), Cholestasis, Hepatitis (incl. hepatocellular injury) |                                                                      |                                                 |
-| Skin and subcutaneous tissue disorders                                                                                                                                 | Skin and subcutaneous tissue disorders                                                            | Skin and subcutaneous tissue disorders                                                                                                       | Skin and subcutaneous tissue disorders                               | Skin and subcutaneous tissue disorders          |
-| Pruritus (incl. uncommon cases of generalised pruritus), Rash,                                                                                                         | Urticaria                                                                                         |                                                                                                                                              | Stevens-Johnson syndrome/ Toxic Epidermal Necrolysis, DRESS syndrome |                                                 |
-| Musculoskeletal and connective tissue disorders                                                                                                                        | Musculoskeletal and connective tissue disorders                                                   | Musculoskeletal and connective tissue disorders                                                                                              | Musculoskeletal and connective tissue disorders                      | Musculoskeletal and connective tissue disorders |
+| Common                                                                                                                                                                   | Uncommon                                                                                          | Rare                                                                                                                                         | Very rare                                                            | Not known                                       |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------|-------------------------------------------------|
+|                                                                                                                                                                          | Angioedema and allergic oedema                                                                    |                                                                                                                                              | anaphylactic shock                                                   |                                                 |
+| Nervous system disorders                                                                                                                                                 | Nervous system disorders                                                                          | Nervous system disorders                                                                                                                     | Nervous system disorders                                             | Nervous system disorders                        |
+| Dizziness, Headache                                                                                                                                                      | Cerebral and intracranial haemorrhage, Syncope                                                    |                                                                                                                                              |                                                                      |                                                 |
+| Eye disorders                                                                                                                                                            | Eye disorders                                                                                     | Eye disorders                                                                                                                                | Eye disorders                                                        | Eye disorders                                   |
+| Eye haemorrhage (incl. conjunctival haemorrhage)                                                                                                                         |                                                                                                   |                                                                                                                                              |                                                                      |                                                 |
+| Cardiac disorders                                                                                                                                                        | Cardiac disorders                                                                                 | Cardiac disorders                                                                                                                            | Cardiac disorders                                                    | Cardiac disorders                               |
+| Tachycardia                                                                                                                                                              | Tachycardia                                                                                       | Tachycardia                                                                                                                                  | Tachycardia                                                          | Tachycardia                                     |
+| Vascular disorders                                                                                                                                                       | Vascular disorders                                                                                | Vascular disorders                                                                                                                           | Vascular disorders                                                   | Vascular disorders                              |
+| Hypotension, Haematoma                                                                                                                                                   |                                                                                                   |                                                                                                                                              |                                                                      |                                                 |
+| Respiratory, thoracic and mediastinal disorders                                                                                                                          | Respiratory, thoracic and mediastinal disorders                                                   | Respiratory, thoracic and mediastinal disorders                                                                                              | Respiratory, thoracic and mediastinal disorders                      | Respiratory, thoracic and mediastinal disorders |
+| Epistaxis, Haemoptysis                                                                                                                                                   |                                                                                                   |                                                                                                                                              | Eosinophilic pneumonia                                               |                                                 |
+| Gastrointestinal disorders                                                                                                                                               | Gastrointestinal disorders                                                                        | Gastrointestinal disorders                                                                                                                   | Gastrointestinal disorders                                           | Gastrointestinal disorders                      |
+| Gingival bleeding, Gastrointestinal tract haemorrhage (incl. rectal haemorrhage), Gastrointestinal and abdominal pains, Dyspepsia, Nausea, Constipation A , Diarrhoea, A | Dry mouth                                                                                         |                                                                                                                                              |                                                                      |                                                 |
+| Hepatobiliary disorders                                                                                                                                                  | Hepatobiliary disorders                                                                           | Hepatobiliary disorders                                                                                                                      | Hepatobiliary disorders                                              | Hepatobiliary disorders                         |
+| Increase in transaminases                                                                                                                                                | Hepatic impairment, Increased bilirubin, Increased blood alkaline phosphatase A , Increased GGT A | Jaundice, Bilirubin conjugated increased (with or without concomitant increase of ALT), Cholestasis, Hepatitis (incl. hepatocellular injury) |                                                                      |                                                 |
+| Skin and subcutaneous tissue disorders                                                                                                                                   | Skin and subcutaneous tissue disorders                                                            | Skin and subcutaneous tissue disorders                                                                                                       | Skin and subcutaneous tissue disorders                               | Skin and subcutaneous tissue disorders          |
+| Pruritus (incl. uncommon cases of generalised pruritus), Rash, Ecchymosis, Cutaneous and subcutaneous                                                                    | Urticaria                                                                                         |                                                                                                                                              | Stevens-Johnson syndrome/ Toxic Epidermal Necrolysis, DRESS syndrome |                                                 |
+| Musculoskeletal and                                                                                                                                                      | connective tissue                                                                                 | disorders                                                                                                                                    |                                                                      |                                                 |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -4261,11 +4042,9 @@ Table 3: All adverse reactions reported in adult patients in phase III clinical 
 
 ## Description of selected adverse reactions
 
-Due to the pharmacological mode of action, the use of Rivaroxaban Viatris may be associated with an increased risk of occult or overt bleeding from any tissue or organ which may result in post haemorrhagic anaemia. The signs, symptoms, and severity (including fatal outcome) will vary according to the location and degree or extent of the bleeding and/or anaemia (see section 4.9 'Management of bleeding'). In the clinical studies mucosal bleedings (i.e. epistaxis, gingival, gastrointestinal, genito urinary including abnormal vaginal or increased menstrual bleeding) and anaemia were seen more frequently during long term rivaroxaban treatment compared with VKA treatment. Thus, in addition to adequate clinical surveillance, laboratory testing of
+Due to the pharmacological mode of action, the use of Rivaroxaban Viatris may be associated with an increased risk of occult or overt bleeding from any tissue or organ which may result in post haemorrhagic anaemia. The signs, symptoms, and severity (including fatal outcome) will vary according to the location and degree or extent of the bleeding and/or anaemia (see section 4.9 'Management of bleeding'). In the clinical studies mucosal bleedings (i.e. epistaxis, gingival, gastrointestinal, genito urinary including abnormal vaginal or increased menstrual bleeding) and anaemia were seen more frequently during long term rivaroxaban treatment compared with VKA treatment. Thus, in addition to adequate clinical surveillance, laboratory testing of haemoglobin/haematocrit could be of value to detect occult bleeding and quantify the clinical relevance of overt bleeding, as judged to be appropriate. The risk of bleedings may be increased in certain patient groups, e.g. those patients with uncontrolled severe arterial hypertension and/or on concomitant treatment affecting haemostasis (see section 4.4 'Haemorrhagic risk'). Menstrual bleeding may be intensified and/or prolonged. Haemorrhagic complications may present as weakness, paleness, dizziness, headache or unexplained swelling, dyspnoea and unexplained shock. In some cases as a consequence of anaemia, symptoms of cardiac ischaemia like chest pain or angina pectoris have been observed.
 
 <div style=\"page-break-after: always\"></div>
-
-haemoglobin/haematocrit could be of value to detect occult bleeding and quantify the clinical relevance of overt bleeding, as judged to be appropriate. The risk of bleedings may be increased in certain patient groups, e.g. those patients with uncontrolled severe arterial hypertension and/or on concomitant treatment affecting haemostasis (see section 4.4 'Haemorrhagic risk'). Menstrual bleeding may be intensified and/or prolonged. Haemorrhagic complications may present as weakness, paleness, dizziness, headache or unexplained swelling, dyspnoea and unexplained shock. In some cases as a consequence of anaemia, symptoms of cardiac ischaemia like chest pain or angina pectoris have been observed.
 
 Known complications secondary to severe bleeding such as compartment syndrome and renal failure due to hypoperfusion, or anticoagulant-related nephropathy have been reported for Rivaroxaban Viatris. Therefore, the possibility of haemorrhage is to be considered in evaluating the condition in any anticoagulated patient.
 
@@ -4329,7 +4108,7 @@ In Einstein PE, 4,832 patients with acute PE were studied for the treatment of P
 
 For the initial treatment of acute PE 15 mg rivaroxaban was administered twice daily for three weeks. This was followed by 20 mg rivaroxaban once daily.
 
-In both the Einstein DVT and the Einstein PE study, the comparator treatment regimen consisted of enoxaparin administered for at least 5 days in combination with vitamin K antagonist treatment until the PT/INR was in therapeutic range (≥ 2.0). Treatment was continued with a vitamin K antagonist dose-adjusted to maintain the PT/INR values within the therapeutic range of 2.0 to 3.0.
+In both the Einstein DVT and the Einstein PE study, the comparator treatment regimen consisted of enoxaparin administered for at least 5 days in combination with vitamin K antagonist treatment until the PT/INR was in therapeutic range ( ≥ 2.0). Treatment was continued with a vitamin K antagonist dose-adjusted to maintain the PT/INR values within the therapeutic range of 2.0 to 3.0.
 
 In Einstein Extension 1,197 patients with DVT or PE were studied for the prevention of recurrent DVT and PE. The treatment duration was for an additional 6 or 12 months in patients who had completed 6 to 12 months of treatment for VTE depending on the clinical judgment of the investigator. Rivaroxaban 20 mg once daily was compared with placebo.
 
@@ -4358,12 +4137,6 @@ Table 4: Efficacy and safety results from phase III Einstein DVT
 | Major or clinically relevant non-major bleeding | 139 (8.1%) | 138 (8.1%) |
 | Major bleeding events                           | 14 (0.8%)  | 20 (1.2%)  |
 
-a) Rivaroxaban 15 mg twice daily for 3 weeks followed by 20 mg once daily
-
-b) Enoxaparin for at least 5 days, overlapped with and followed by VKA
-
-* p &lt; 0.0001 (non-inferiority to a prespecified HR of 2.0); HR: 0.680 (0.443 - 1.042), p=0.076 (superiority)
-
 In the Einstein PE study (see Table 5) rivaroxaban was demonstrated to be non-inferior to enoxaparin/VKA for the primary efficacy outcome (p=0.0026 (test for non-inferiority); HR: 1.123 (0.749 - 1.684)). The prespecified net clinical benefit (primary efficacy outcome plus major bleeding events) was reported with a HR of 0.849 ((95% CI: 0.633 - 1.139), nominal p-value p=0.275). INR values were within the therapeutic range a mean of 63% of the time for the mean treatment duration of 215 days, and 57%, 62%, and 65% of the time in the 3-, 6-, and 12-month intended treatment duration groups, respectively. In the enoxaparin/VKA group, there was no clear relation between the level of mean centre TTR (Time in Target INR Range of 2.0 - 3.0) in the equally sized tertiles and the incidence of the recurrent VTE (p=0.082 for interaction). Within the highest tertile according to centre, the HR with rivaroxaban versus warfarin was 0.642 (95% CI: 0.277 - 1.484).
 
 The incidence rates for the primary safety outcome (major or clinically relevant non-major bleeding events) were slightly lower in the rivaroxaban treatment group (10.3% (249/2412)) than in the enoxaparin/VKA treatment group (11.4% (274/2405)). The incidence of the secondary safety outcome (major bleeding events) was lower in the rivaroxaban group (1.1% (26/2412)) than in the enoxaparin/VKA group (2.2% (52/2405)) with a HR 0.493 (95% CI: 0.308 - 0.789).
@@ -4381,15 +4154,9 @@ Table 5: Efficacy and safety results from phase III Einstein PE
 | Major or clinically relevant non-major bleeding | 249 (10.3%)                                   | 274 (11.4%)                                   |
 | Major bleeding events                           | 26 (1.1%)                                     | 52 (2.2%)                                     |
 
-a) Rivaroxaban 15 mg twice daily for 3 weeks followed by 20 mg once daily
-
-b) Enoxaparin for at least 5 days, overlapped with and followed by VKA
-
-* p &lt; 0.0026 (non-inferiority to a prespecified HR of 2.0); HR: 1.123 (0.749 - 1.684)
-
 A prespecified pooled analysis of the outcome of the Einstein DVT and PE studies was conducted (see Table 6).
 
-## Table 6: Efficacy and safety results from pooled analysis of phase III Einstein DVT and Einstein PE
+Table 6: Efficacy and safety results from pooled analysis of phase III Einstein DVT and Einstein PE
 
 <div style=\"page-break-after: always\"></div>
 
@@ -4403,12 +4170,6 @@ A prespecified pooled analysis of the outcome of the Einstein DVT and PE studies
 | Fatal PE/death where PE cannot be ruled out     | 15 (0.4%)                                            | 13 (0.3%)                                            |
 | Major or clinically relevant non-major bleeding | 388 (9.4%)                                           | 412 (10.0%)                                          |
 | Major bleeding events                           | 40 (1.0%)                                            | 72 (1.7%)                                            |
-
-a) Rivaroxaban 15 mg twice daily for 3 weeks followed by 20 mg once daily
-
-b) Enoxaparin for at least 5 days, overlapped with and followed by VKA
-
-* p &lt; 0.0001 (non-inferiority to a prespecified HR of 1.75); HR: 0.886 (0.661 - 1.186)
 
 The prespecified net clinical benefit (primary efficacy outcome plus major bleeding events) of the pooled analysis was reported with a HR of 0.771 ((95% CI: 0.614 - 0.967), nominal p-value p= 0.0244).
 
@@ -4425,10 +4186,6 @@ Table 7: Efficacy and safety results from phase III Einstein Extension
 | Fatal PE/death where PE cannot be ruled out | 1 (0.2%)                                                             | 1 (0.2%)                                                             |
 | Major bleeding events                       | 4 (0.7%)                                                             | 0 (0.0%)                                                             |
 | Clinically relevant non-major bleeding      | 32 (5.4%)                                                            | 7 (1.2%)                                                             |
-
-a) Rivaroxaban 20 mg once daily
-
-* p &lt; 0.0001 (superiority), HR: 0.185 (0.087 - 0.393)
 
 In the Einstein Choice study (see Table 8) rivaroxaban 20 mg and 10 mg were both superior to 100 mg acetylsalicylic acid for the primary efficacy outcome. The principal safety outcome (major bleeding events) was similar for patients treated with rivaroxaban 20 mg and 10 mg once daily compared to 100 mg acetylsalicylic acid.
 
@@ -4462,11 +4219,9 @@ In addition to the phase III EINSTEIN programme, a prospective, non-intervention
 
 ## Patients with high risk triple positive antiphospholipid syndrome
 
-In an investigator sponsored, randomised open-label multicentre study with blinded endpoint adjudication, rivaroxaban was compared to warfarin in patients with a history of thrombosis, diagnosed with antiphospholipid syndrome and at high risk for thromboembolic events (positive for all 3 antiphospholipid tests: lupus anticoagulant, anticardiolipin antibodies, and anti-beta 2-glycoprotein I antibodies). The study was terminated prematurely after the enrolment of 120 patients due to an excess
+In an investigator sponsored, randomised open-label multicentre study with blinded endpoint adjudication, rivaroxaban was compared to warfarin in patients with a history of thrombosis, diagnosed with antiphospholipid syndrome and at high risk for thromboembolic events (positive for all 3 antiphospholipid tests: lupus anticoagulant, anticardiolipin antibodies, and anti-beta 2-glycoprotein I antibodies). The study was terminated prematurely after the enrolment of 120 patients due to an excess of events among patients in the rivaroxaban arm. Mean follow-up was 569 days. 59 patients were randomised to rivaroxaban 20 mg (15 mg for patients with creatinine clearance (CrCl) &lt;50 mL/min) and 61 to warfarin (INR 2.0-3.0). Thromboembolic events occurred in 12% of patients randomised to rivaroxaban (4 ischaemic strokes and 3 myocardial infarctions). No events were reported in patients randomised to warfarin. Major bleeding occurred in 4 patients (7%) of the rivaroxaban group and 2 patients (3%) of the warfarin group.
 
 <div style=\"page-break-after: always\"></div>
-
-of events among patients in the rivaroxaban arm. Mean follow-up was 569 days. 59 patients were randomised to rivaroxaban 20 mg (15 mg for patients with creatinine clearance (CrCl) &lt;50 mL/min) and 61 to warfarin (INR 2.0-3.0). Thromboembolic events occurred in 12% of patients randomised to rivaroxaban (4 ischaemic strokes and 3 myocardial infarctions). No events were reported in patients randomised to warfarin. Major bleeding occurred in 4 patients (7%) of the rivaroxaban group and 2 patients (3%) of the warfarin group.
 
 ## Paediatric population
 
@@ -4568,7 +4323,7 @@ Rivaroxaban Viatris 15 mg film-coated tablets Tablet core Microcrystalline cellu
 
 Film-coat Poly(vinyl alcohol) Macrogol 3350 Talc Titanium dioxide (E171) Ferric oxide red (E172)
 
-Rivaroxaban Viatris 20 mg film-coated tablets Tablet core
+## Rivaroxaban Viatris 20 mg film-coated tablets Tablet core
 
 <div style=\"page-break-after: always\"></div>
 
@@ -4594,9 +4349,11 @@ This medicinal product does not require any special storage conditions.
 
 ## 6.5 Nature and contents of container
 
-Treatment initiation pack for the first 4 weeks of treatment: PVC/PVdC/Aluminium foil blister packs containing 49 film-coated tablets: 20 mg film-coated tablets (one blister pack of 7
+Treatment initiation pack for the first 4 weeks of treatment:
 
-Outer carton containing one box of 42  15 mg film-coated tablets (three blister packs of 14  15 mg tablets with sun and moon symbol) and one box of 7   20 mg tablets with days 22-28 marking).
+PVC/PVdC/Aluminium foil blister packs containing 49 film-coated tablets: Outer carton containing one box of 42 × 15 mg film-coated tablets (three blister packs of 14 × 15 mg 20 mg film-coated tablets (one blister pack of 7
+
+tablets with sun and moon symbol) and one box of 7 × × 20 mg tablets with days 22-28 marking).
 
 ## 6.6 Special precautions for disposal and other handling
 
@@ -4620,7 +4377,9 @@ Ireland
 
 EU/1/21/1588/055  Blister (PVC/PVdC/alu)  Initiation pack: 49 tablets (42 x 15 mg + 7 x 20 mg)
 
-## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
+9.
+
+DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
 Date of first authorisation: 12
 
@@ -4647,15 +4406,15 @@ Detailed information on this medicinal product is available on the website of th
 
 Name and address of the manufacturer(s) responsible for batch release
 
-Mylan Germany GmbH
+Viatris Germany GmbH
 
 Benzstrasse 1 Bad Homburg, Hesse, 61352, Germany
 
-Mylan Hungary Kft Mylan utca 1, Komárom, H-2900, Hungary
+Mylan Hungary Kft
 
-Medis International (Bolatice),
+Mylan utca 1, Komárom, H-2900, Hungary
 
-Prumyslova 961/16, Bolatice, 74723, Czechia
+Medis International (Bolatice), Prumyslova 961/16, Bolatice, 74723, Czechia
 
 The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.
 
@@ -4677,8 +4436,8 @@ The marketing authorisation holder (MAH) shall perform the required pharmacovigi
 
 An updated RMP should be submitted:
 
-- At the request of the European Medicines Agency;
 - Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
+- At the request of the European Medicines Agency;
 
 <div style=\"page-break-after: always\"></div>
 
@@ -4699,11 +4458,11 @@ The MAH must agree the content and format of the Prescriber Guide together with 
 - -Management of overdose situations
 - -The use of coagulation tests and their interpretation
 - -That all patients should be counselled about:
-- Signs or symptoms of bleeding and when to seek attention from a health care provider.
 - Importance of treatment compliance
+- Signs or symptoms of bleeding and when to seek attention from a health care provider.
 - The need for intake of the 15 mg and 20 mg tablets with food
-- Necessity to carry the Patient Alert Card that is included in each pack, with them at all times
 - The need to inform Health Care Professionals that they are taking rivaroxaban if they need to have any surgery or invasive procedure.
+- Necessity to carry the Patient Alert Card that is included in each pack, with them at all times
 
 The MAH shall also provide a Patient Alert Card in each medicine pack, the text of which is included in Annex III.
 
@@ -4737,7 +4496,7 @@ Contains lactose. See package leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-Film-coated tablet
+## Film-coated tablet
 
 - 10 film-coated tablets
 - 28 film-coated tablets
@@ -4772,25 +4531,28 @@ EXP
 | 9.   | SPECIAL STORAGE CONDITIONS   |
 |------|------------------------------|
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROMSUCHMEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|---------------------------------------------------------------------------------------------------------------------------------------|
 
-| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|--------------------------------------------------------|
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
 Viatris Limited Damastown Industrial Park Mulhuddart Dublin 15 DUBLIN Ireland
 
-| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
-|-------|-------------------------------------|
+| 12. MARKETING AUTHORISATION NUMBER(S)   |
+|-----------------------------------------|
 
 EU/1/21/1588/001  Blister (PVC/PVdC/alu)  10 tablets EU/1/21/1588/002  Blister (PVC/PVdC/alu)  28 tablets EU/1/21/1588/003  Blister (PVC/PVdC/alu)  56 tablets EU/1/21/1588/004  Blister (PVC/PVdC/alu)  60 tablets EU/1/21/1588/005  Blister (PVC/PVdC/alu)  100 tablets EU/1/21/1588/006  Blister (PVC/PVdC/alu)  196 tablets
 
 EU/1/21/1588/007  Blister (PVC/PVdC/alu)  28 x 1 tablets (unit dose) EU/1/21/1588/008  Blister (PVC/PVdC/alu)  30 x 1 tablets (unit dose) EU/1/21/1588/009  Blister (PVC/PVdC/alu)  56 x 1 tablets (unit dose) EU/1/21/1588/010  Blister (PVC/PVdC/alu)  60 x 1 tablets (unit dose) EU/1/21/1588/011  Blister (PVC/PVdC/alu)  90 x 1 tablets (unit dose)
 
-## 13. BATCH NUMBER
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
 
 ## 15. INSTRUCTIONS ON USE
 
@@ -4813,40 +4575,32 @@ PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| BLISTER                                               |
+
 | 1.   | NAME OF THE MEDICINAL PRODUCT   |
 |------|---------------------------------|
+
+Rivaroxaban Viatris 2.5 mg tablets rivaroxaban
 
 | 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
 |------|----------------------------------------------|
 
+Viatris Limited
+
 | 3.   | EXPIRY DATE   |
 |------|---------------|
+
+EXP
 
 | 4.   | BATCH NUMBER   |
 |------|----------------|
 
+Lot Rivaroxaban Viatris 2.5 mg tablets rivaroxaban Viatris Limited EXP
+
 | 5.   | OTHER   |
 |------|---------|
-
-## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS BLISTER
-
-## 1. NAME OF THE MEDICINAL PRODUCT
-
-Rivaroxaban Viatris 2.5 mg tablets rivaroxaban
-
-## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
-
-Viatris Limited
-
-## 3. EXPIRY DATE
-
-EXP
-
-## 4. BATCH NUMBER
-
-Lot
-
-## 5. OTHER
 
 <div style=\"page-break-after: always\"></div>
 
@@ -4857,17 +4611,11 @@ Lot
 | 1.   | NAME OF THE MEDICINAL PRODUCT   |
 |------|---------------------------------|
 
-Rivaroxaban Viatris 2.5 mg tablets rivaroxaban
-
 | 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
 |------|----------------------------------------------|
 
-Viatris Limited
-
 | 3.   | EXPIRY DATE   |
 |------|---------------|
-
-EXP
 
 | 4.   | BATCH NUMBER   |
 |------|----------------|
@@ -4971,8 +4719,6 @@ Rivaroxaban Viatris 2.5 mg
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC
-
 <div style=\"page-break-after: always\"></div>
 
 SN NN
@@ -5031,29 +4777,32 @@ EXP
 | 9.   | SPECIAL STORAGE CONDITIONS   |
 |------|------------------------------|
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROMSUCHMEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|---------------------------------------------------------------------------------------------------------------------------------------|
 
-| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|--------------------------------------------------------|
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
 Viatris Limited Damastown Industrial Park Mulhuddart Dublin 15 DUBLIN Ireland
 
-| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
-|-------|-------------------------------------|
+## 12. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/21/1588/015  Blister (PVC/PVdC/alu)  10 tablets EU/1/21/1588/016  Blister (PVC/PVdC/alu)  30 tablets EU/1/21/1588/017  Blister (PVC/PVdC/alu)  100 tablets EU/1/21/1588/065 Blister (PVC/PVdC/alu)  5 tablets
 
 EU/1/21/1588/018  Blister (PVC/PVdC/alu)  10 x 1 tablets (unit dose) EU/1/21/1588/019  Blister (PVC/PVdC/alu)  28 x 1 tablets (unit dose) EU/1/21/1588/020  Blister (PVC/PVdC/alu)  30 x 1 tablets (unit dose) EU/1/21/1588/021  Blister (PVC/PVdC/alu)  50 x 1 tablets (unit dose) EU/1/21/1588/022  Blister (PVC/PVdC/alu)  98 x 1 tablets (unit dose) EU/1/21/1588/023  Blister (PVC/PVdC/alu)  100 x 1 tablets (unit dose)
 
-## 13. BATCH NUMBER
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
 
 ## 15. INSTRUCTIONS ON USE
 
-## 16. INFORMATION IN BRAILLE
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -5093,7 +4842,7 @@ EXP
 | 4.   | BATCH NUMBER   |
 |------|----------------|
 
-Lot
+Lot Rivaroxaban Viatris 10 mg tablets rivaroxaban Viatris Limited EXP
 
 | 5.   | OTHER   |
 |------|---------|
@@ -5107,17 +4856,11 @@ Lot
 | 1.   | NAME OF THE MEDICINAL PRODUCT   |
 |------|---------------------------------|
 
-Rivaroxaban Viatris 10 mg tablets rivaroxaban
-
 | 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
 |------|----------------------------------------------|
 
-Viatris Limited
-
 | 3.   | EXPIRY DATE   |
 |------|---------------|
-
-EXP
 
 | 4.   | BATCH NUMBER   |
 |------|----------------|
@@ -5175,7 +4918,7 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -5243,7 +4986,7 @@ Contains lactose. See package leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-Film-coated tablet
+## Film-coated tablet
 
 - 14 film-coated tablets
 - 28 film-coated tablets
@@ -5257,8 +5000,7 @@ Film-coated tablet
 - 42 x 1 film-coated tablets
 - 50 x 1 film-coated tablets
 - 98 x 1 film-coated tablets
-
-100 x 1 film-coated tablets
+- 100 x 1 film-coated tablets
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -5274,45 +5016,44 @@ Keep out of the sight and reach of children.
 
 <div style=\"page-break-after: always\"></div>
 
-## 8. EXPIRY DATE
+| 8.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
 | 9.   | SPECIAL STORAGE CONDITIONS   |
 |------|------------------------------|
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROMSUCHMEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|---------------------------------------------------------------------------------------------------------------------------------------|
 
-| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|--------------------------------------------------------|
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
-Viatris Limited Damastown Industrial Park Mulhuddart Dublin 15 DUBLIN
+Viatris Limited Damastown Industrial Park Mulhuddart Dublin 15 DUBLIN Ireland
 
-Ireland
-
-| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
-|-------|-------------------------------------|
+| 12. MARKETING AUTHORISATION NUMBER(S)   |
+|-----------------------------------------|
 
 EU/1/21/1588/026  Blister (PVC/PVdC/alu)  14 tablets EU/1/21/1588/027  Blister (PVC/PVdC/alu)  28 tablets EU/1/21/1588/028  Blister (PVC/PVdC/alu)  30 tablets EU/1/21/1588/029  Blister (PVC/PVdC/alu)  42 tablets EU/1/21/1588/030  Blister (PVC/PVdC/alu)  98 tablets
 
-EU/1/21/1588/031  Blister (PVC/PVdC/alu)  100 tablets EU/1/21/1588/032  Blister (PVC/PVdC/alu)  14 x 1 tablets (unit dose) EU/1/21/1588/033  Blister (PVC/PVdC/alu)  28 x 1 tablets (unit dose) EU/1/21/1588/034  Blister (PVC/PVdC/alu)  30 x 1 tablets (unit dose) EU/1/21/1588/035  Blister (PVC/PVdC/alu)  42 x 1 tablets (unit dose) EU/1/21/1588/036  Blister (PVC/PVdC/alu)  50 x 1 tablets (unit dose) EU/1/21/1588/037  Blister (PVC/PVdC/alu)  98 x 1 tablets (unit dose)
+EU/1/21/1588/031  Blister (PVC/PVdC/alu)  100 tablets EU/1/21/1588/032  Blister (PVC/PVdC/alu)  14 x 1 tablets (unit dose) EU/1/21/1588/033  Blister (PVC/PVdC/alu)  28 x 1 tablets (unit dose) EU/1/21/1588/034  Blister (PVC/PVdC/alu)  30 x 1 tablets (unit dose) EU/1/21/1588/035  Blister (PVC/PVdC/alu)  42 x 1 tablets (unit dose) EU/1/21/1588/036  Blister (PVC/PVdC/alu)  50 x 1 tablets (unit dose) EU/1/21/1588/037  Blister (PVC/PVdC/alu)  98 x 1 tablets (unit dose) EU/1/21/1588/038  Blister (PVC/PVdC/alu)  100 x 1 tablets (unit dose)
 
-EU/1/21/1588/038  Blister (PVC/PVdC/alu)  100 x 1 tablets (unit dose)
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
 
-## 13. BATCH NUMBER
+Lot Rivaroxaban Viatris 15 mg
 
-Lot
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
-
-## 15. INSTRUCTIONS ON USE
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
 <div style=\"page-break-after: always\"></div>
 
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
-
-Rivaroxaban Viatris 15 mg
 
 | 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
 |-------|----------------------------------|
@@ -5326,34 +5067,9 @@ PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS BLISTER
-
-## 1. NAME OF THE MEDICINAL PRODUCT
-
-Rivaroxaban Viatris 15 mg tablets rivaroxaban
-
-| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
-|------|----------------------------------------------|
-
-Viatris Limited
-
-## 3. EXPIRY DATE
-
-EXP
-
-| 4.   | BATCH NUMBER   |
-|------|----------------|
-
-Lot
-
-| 5.   | OTHER   |
-|------|---------|
-
-<div style=\"page-break-after: always\"></div>
-
 | MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
 |-------------------------------------------------------|
-| UNIT DOSE BLISTER                                     |
+| BLISTER                                               |
 
 | 1.   | NAME OF THE MEDICINAL PRODUCT   |
 |------|---------------------------------|
@@ -5369,6 +5085,29 @@ Viatris Limited
 |------|---------------|
 
 EXP
+
+| 4.   | BATCH NUMBER   |
+|------|----------------|
+
+Lot Rivaroxaban Viatris 15 mg tablets rivaroxaban Viatris Limited EXP
+
+| 5.   | OTHER   |
+|------|---------|
+
+<div style=\"page-break-after: always\"></div>
+
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| UNIT DOSE BLISTER                                     |
+
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
+
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
+
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 | 4.   | BATCH NUMBER   |
 |------|----------------|
@@ -5401,11 +5140,8 @@ Contains lactose. See package leaflet for further information.
 Film-coated tablet
 
 - 30 film-coated tablets
-
-98 film-coated tablets
-
-100 film-coated tablets
-
+- 98 film-coated tablets
+- 100 film-coated tablets
 - 250 film-coated tablets
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
@@ -5531,7 +5267,7 @@ EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -5540,10 +5276,8 @@ Viatris Limited Damastown Industrial Park Mulhuddart Dublin 15 DUBLIN Ireland
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
 ```
-EU/1/21/1588/041  Blister (PVC/PVdC/alu)  14 tablets EU/1/21/1588/042  Blister (PVC/PVdC/alu)  28 tablets EU/1/21/1588/043  Blister (PVC/PVdC/alu)  30 tablets EU/1/21/1588/044  Blister (PVC/PVdC/alu)  98 tablets EU/1/21/1588/045  Blister (PVC/PVdC/alu)  100 tablets EU/1/21/1588/046  Blister (PVC/PVdC/alu)  14 x 1 tablets (unit dose) EU/1/21/1588/047  Blister (PVC/PVdC/alu)  28 x 1 tablets (unit dose) EU/1/21/1588/048  Blister (PVC/PVdC/alu)  30 x 1 tablets (unit dose) EU/1/21/1588/049  Blister (PVC/PVdC/alu)  50 x 1 tablets (unit dose) EU/1/21/1588/050  Blister (PVC/PVdC/alu)  90 x 1 tablets (unit dose) EU/1/21/1588/051  Blister (PVC/PVdC/alu)  98 x 1 tablets (unit dose) EU/1/21/1588/052  Blister (PVC/PVdC/alu)  100 x 1 tablets (unit dose) EU/1/21/1588/056  Blister Calendar (PVC/PVdC/alu)  14 tablets EU/1/21/1588/057  Blister Calendar (PVC/PVdC/alu)  28 tablets
+EU/1/21/1588/041  Blister (PVC/PVdC/alu)  14 tablets EU/1/21/1588/042  Blister (PVC/PVdC/alu)  28 tablets EU/1/21/1588/043  Blister (PVC/PVdC/alu)  30 tablets EU/1/21/1588/044  Blister (PVC/PVdC/alu)  98 tablets EU/1/21/1588/045  Blister (PVC/PVdC/alu)  100 tablets EU/1/21/1588/046  Blister (PVC/PVdC/alu)  14 x 1 tablets (unit dose) EU/1/21/1588/047  Blister (PVC/PVdC/alu)  28 x 1 tablets (unit dose) EU/1/21/1588/048  Blister (PVC/PVdC/alu)  30 x 1 tablets (unit dose) EU/1/21/1588/049  Blister (PVC/PVdC/alu)  50 x 1 tablets (unit dose) EU/1/21/1588/050  Blister (PVC/PVdC/alu)  90 x 1 tablets (unit dose) EU/1/21/1588/051  Blister (PVC/PVdC/alu)  98 x 1 tablets (unit dose) EU/1/21/1588/052  Blister (PVC/PVdC/alu)  100 x 1 tablets (unit dose) EU/1/21/1588/056  Blister Calendar (PVC/PVdC/alu)  14 tablets EU/1/21/1588/057  Blister Calendar (PVC/PVdC/alu)  28 tablets EU/1/21/1588/058  Blister Calendar (PVC/PVdC/alu)  98 tablets
 ```
-
-EU/1/21/1588/058  Blister Calendar (PVC/PVdC/alu)  98 tablets
 
 ## 13. BATCH NUMBER
 
@@ -5561,17 +5295,15 @@ Lot
 
 Rivaroxaban Viatris 20 mg
 
-| 17. UNIQUE IDENTIFIER - 2D BARCODE   |
-|--------------------------------------|
+| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
+|-------|----------------------------------|
 
 2D barcode carrying the unique identifier included.
 
 | 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
 |-------|------------------------------------------|
 
-PC SN
-
-NN
+PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
@@ -5597,7 +5329,7 @@ EXP
 | 4.   | BATCH NUMBER   |
 |------|----------------|
 
-Lot
+Lot Rivaroxaban Viatris 20 mg tablets rivaroxaban Viatris Limited EXP
 
 | 5.   | OTHER   |
 |------|---------|
@@ -5611,17 +5343,11 @@ Lot
 | 1.   | NAME OF THE MEDICINAL PRODUCT   |
 |------|---------------------------------|
 
-Rivaroxaban Viatris 20 mg tablets rivaroxaban
-
 | 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
 |------|----------------------------------------------|
 
-Viatris Limited
-
 | 3.   | EXPIRY DATE   |
 |------|---------------|
-
-EXP
 
 | 4.   | BATCH NUMBER   |
 |------|----------------|
@@ -5637,28 +5363,23 @@ Lot
 
 ## BLISTER CALENDAR PACK OF 14 (1 X 14, 2 X 14 OR 7 X 14) TABLETS FOR 20 MG
 
-| 1.   | NAME OF THE MEDICINAL PRODUCT   |
-|------|---------------------------------|
+## 1. NAME OF THE MEDICINAL PRODUCT
 
 Rivaroxaban Viatris 20 mg tablets rivaroxaban
 
-| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
-|------|----------------------------------------------|
+## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
 
 Viatris Limited
 
-| 3.   | EXPIRY DATE   |
-|------|---------------|
+## 3. EXPIRY DATE
 
 EXP
 
-| 4.   | BATCH NUMBER   |
-|------|----------------|
+## 4. BATCH NUMBER
 
 Lot
 
-| 5.   | OTHER   |
-|------|---------|
+## 5. OTHER
 
 Mon.
 
@@ -5696,12 +5417,9 @@ Contains lactose. See package leaflet for further information.
 
 Film-coated tablet
 
-30 film-coated tablets
-
-98 film-coated tablets
-
-100 film-coated tablets
-
+- 30 film-coated tablets
+- 98 film-coated tablets
+- 100 film-coated tablets
 - 250 film-coated tablets
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
@@ -5724,7 +5442,7 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -5790,7 +5508,9 @@ rivaroxaban
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
-Each pink to brick red film-coated tablet for week 1, 2 and 3 contains 15 mg rivaroxaban. Each reddish brown film-coated tablet for week 4 contains 20 mg rivaroxaban.
+Each pink to brick red film-coated tablet for week 1, 2 and 3 contains 15 mg rivaroxaban.
+
+Each reddish brown film-coated tablet for week 4 contains 20 mg rivaroxaban.
 
 ## 3. LIST OF EXCIPIENTS
 
@@ -5857,7 +5577,7 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -5930,6 +5650,8 @@ Keep out of the sight and reach of children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
+<div style=\"page-break-after: always\"></div>
+
 ## 8. EXPIRY DATE
 
 EXP
@@ -5961,7 +5683,6 @@ EU/1/21/1588/055  Blister (PVC/PVdC/alu)  Initiation pack: 49 tablets (42 x 15 m
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
-
 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
@@ -5970,9 +5691,8 @@ Rivaroxaban Viatris 15 mg
 
 ## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
-
-<div style=\"page-break-after: always\"></div>
+| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|-------|------------------------------------------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -6024,6 +5744,8 @@ Keep out of the sight and reach of children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
+<div style=\"page-break-after: always\"></div>
+
 ## 8. EXPIRY DATE
 
 EXP
@@ -6062,11 +5784,9 @@ Lot
 
 Rivaroxaban Viatris 20 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+17. UNIQUE IDENTIFIER - 2D BARCODE
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
-
-<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -6237,9 +5957,7 @@ Rivaroxaban Viatris contains the active substance rivaroxaban and belongs to a g
 
 ## Package leaflet: Information for the user
 
-## Rivaroxaban Viatris 2.5 mg film-coated tablets
-
-## rivaroxaban
+## Rivaroxaban Viatris 2.5 mg film-coated tablets rivaroxaban
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
@@ -6262,7 +5980,7 @@ IMPORTANT: The Rivaroxaban Viatris pack includes a Patient Alert Card which cont
 
 ## 1. What Rivaroxaban Viatris is and what it is used for
 
-## You have been given Rivaroxaban Viatris because
+You have been given Rivaroxaban Viatris because
 
 - -you have been diagnosed with an acute coronary syndrome (a group of conditions that includes heart attack and unstable angina, a severe type of chest pain) and have been shown to have had an increase in certain cardiac blood tests. Rivaroxaban Viatris reduces the risk in adults of having another heart attack or reduces the risk of dying from a disease related to your heart or your blood vessels. Rivaroxaban Viatris will not be given to you on its own. Your doctor will also tell you to take either:
 - acetylsalicylic acid or
@@ -6292,16 +6010,17 @@ Rivaroxaban Viatris should not be used in combination with certain other medicin
 ## Take special care with Rivaroxaban Viatris
 
 - -if you have an increased risk of bleeding, as could be the case in situations such as:
-- severe kidney disease, since your kidney function may affect the amount of medicine that works in your body
-- if you are taking other medicines to prevent blood clotting (e.g. warfarin, dabigatran, apixaban or heparin), when changing anticoagulant treatment or while getting heparin through a venous or arterial line to keep it open (see section 'Other medicines and Rivaroxaban Viatris' )
-- bleeding disorders
-- very high blood pressure, not controlled by medical treatment
-- diseases of your stomach or bowel that might result in bleeding, e.g. inflammation of the bowels or stomach, or inflammation of the oesophagus (gullet), e.g. due to gastroesophageal reflux disease (disease where stomach acid goes upwards into the oesophagus) or tumours located in the stomach or bowels or genital tract or urinary tract
-- a problem with the blood vessels in the back of your eyes (retinopathy)
-- a lung disease where your bronchi are widened and filled with pus (bronchiectasis), or previous bleeding from your lung
-- you are older than 75 years
-- you weigh less than 60 kg
-- you have a coronary artery disease with severe symptomatic heart failure
+-  severe kidney disease, since your kidney function may affect the amount of medicine that works in your body
+-  if you are taking other medicines to prevent blood clotting (e.g. warfarin, dabigatran, apixaban or heparin), when changing anticoagulant treatment or while getting heparin through a venous or arterial line to keep it open (see section 'Other medicines and Rivaroxaban Viatris' )
+-  bleeding disorders
+-  very high blood pressure, not controlled by medical treatment
+-  diseases of your stomach or bowel that might result in bleeding, e.g. inflammation of the
+- bowels or stomach, or inflammation of the oesophagus (gullet), e.g. due to gastroesophageal reflux disease (disease where stomach acid goes upwards into the oesophagus) or tumours located in the stomach or bowels or genital tract or urinary tract
+-  a problem with the blood vessels in the back of your eyes (retinopathy)
+-  a lung disease where your bronchi are widened and filled with pus (bronchiectasis), or previous bleeding from your lung
+-  you are older than 75 years
+-  you weigh less than 60 kg
+-  you have a coronary artery disease with severe symptomatic heart failure
 - -if you have a prosthetic heart valve
 - -if you know that you have a disease called antiphospholipid syndrome (a disorder of the immune system that causes an increased risk of blood clots), tell your doctor who will decide if the treatment may need to be changed.
 
@@ -6313,8 +6032,8 @@ If any of the above apply to you, tell your doctor before you take Rivaroxaban V
 
 - -it is very important to take Rivaroxaban Viatris before and after the operation exactly at the times you have been told by your doctor.
 - -If your operation involves a catheter or injection into your spinal column (e.g. for epidural or spinal anaesthesia or pain reduction):
-- it is very important to take Rivaroxaban Viatris before and after the injection or removal of the catheter exactly at the times you have been told by your doctor
-- tell your doctor immediately if you get numbness or weakness of your legs or problems with your bowel or bladder after the end of anaesthesia, because urgent care is necessary.
+-  it is very important to take Rivaroxaban Viatris before and after the injection or removal of the catheter exactly at the times you have been told by your doctor
+-  tell your doctor immediately if you get numbness or weakness of your legs or problems with your bowel or bladder after the end of anaesthesia, because urgent care is necessary.
 
 ## Children and adolescents
 
@@ -6328,24 +6047,23 @@ Tell your doctor or pharmacist if you are taking, have recently taken or might t
 
 ## -If you are taking
 
-- some medicines for fungal infections (e.g. fluconazole, itraconazole, voriconazole, posaconazole), unless they are only applied to the skin
-- ketoconazole tablets (used to treat Cushing's syndrome - when the body produces an excess of cortisol)
-- some medicines for bacterial infections (e.g. clarithromycin, erythromycin)
-- some anti-viral medicines for HIV / AIDS (e.g. ritonavir)
-- other medicines to reduce blood clotting (e.g. enoxaparin, clopidogrel or vitamin K antagonists such as warfarin and acenocoumarol, prasugrel and ticagrelor (see section 'Warnings and Precautions'))
-- anti-inflammatory and pain relieving medicines (e.g. naproxen or acetylsalicylic acid)
-- dronedarone, a medicine to treat abnormal heart beat
-- some medicines to treat depression (selective serotonin reuptake inhibitors (SSRIs) or serotonin norepinephrine reuptake inhibitors (SNRIs))
+-  some medicines for fungal infections (e.g. fluconazole, itraconazole, voriconazole, posaconazole), unless they are only applied to the skin
+-  ketoconazole tablets (used to treat Cushing's syndrome - when the body produces an excess of cortisol)
+-  some medicines for bacterial infections (e.g. clarithromycin, erythromycin)
+-  some anti-viral medicines for HIV / AIDS (e.g. ritonavir)
+-  other medicines to reduce blood clotting (e.g. enoxaparin, clopidogrel or vitamin K antagonists such as warfarin and acenocoumarol, prasugrel and ticagrelor (see section 'Warnings and Precautions'))
+-  anti-inflammatory and pain relieving medicines (e.g. naproxen or acetylsalicylic acid)
+-  dronedarone, a medicine to treat abnormal heart beat
+-  some medicines to treat depression (selective serotonin reuptake inhibitors (SSRIs) or serotonin norepinephrine reuptake inhibitors (SNRIs))
 
 If any of the above apply to you, tell your doctor before taking Rivaroxaban Viatris, because the effect of Rivaroxaban Viatris may be increased. Your doctor will decide, if you should be treated with this medicine and if you should be kept under closer observation.
 
 If your doctor thinks that you are at increased risk of developing stomach or bowel ulcers, he may also use a preventative ulcer treatment.
 
-## -If you are taking
-
-- some medicines for treatment of epilepsy (phenytoin, carbamazepine, phenobarbital)
-- St John's Wort ( Hypericum perforatum ), a herbal product used for depression
-- rifampicin, an antibiotic
+- -If you are taking
+-  some medicines for treatment of epilepsy (phenytoin, carbamazepine, phenobarbital)
+-  St John's Wort ( Hypericum perforatum ), a herbal product used for depression
+-  rifampicin, an antibiotic
 
 If any of the above apply to you, tell your doctor before taking Rivaroxaban Viatris, because the effect of Rivaroxaban Viatris may be reduced. Your doctor will decide, if you should be treated with Rivaroxaban Viatris and if you should be kept under closer observation.
 
@@ -6379,9 +6097,11 @@ If necessary, your doctor may also give you the crushed Rivaroxaban Viatris tabl
 
 Rivaroxaban Viatris will not be given to you on its own.
 
-Your doctor will also tell you to take acetylsalicylic acid. If you get Rivaroxaban Viatris after an acute coronary syndrome, your doctor may tell you to also take clopidogrel or ticlopidine.
+Your doctor will also tell you to take acetylsalicylic acid. If you get Rivaroxaban Viatris after an acute
 
-If you get Rivaroxaban Viatris after a procedure to open a narrowed or closed artery of your leg to restore blood flow, your doctor may also prescribe clopidogrel for you to take in addition to acetylsalicylic acid for a short while.
+coronary syndrome, your doctor may tell you to also take clopidogrel or ticlopidine. If you get Rivaroxaban Viatris after a procedure to open a narrowed or closed artery of your leg to
+
+restore blood flow, your doctor may also prescribe clopidogrel for you to take in addition to acetylsalicylic acid for a short while.
 
 Your doctor will tell you how much of these to take (usually between 75 to 100 mg acetylsalicylic acid daily or a daily dose of 75 to 100 mg acetylsalicylic acid plus a daily dose of either 75 mg clopidogrel or a standard daily dose of ticlopidine).
 
@@ -6419,9 +6139,10 @@ Like other similar medicines to reduce the formation of blood clots, Rivaroxaban
 
 ## Tell your doctor immediately if you experience any of the following side effects:
 
+- -bleeding into the brain or inside the skull (symptoms can include headache, one-sided weakness, vomiting, seizures, decreased level of consciousness, and neck stiffness.
+
 ## · Signs of bleeding
 
-- -bleeding into the brain or inside the skull (symptoms can include headache, one-sided weakness, vomiting, seizures, decreased level of consciousness, and neck stiffness.
 - A serious medical emergency. Seek medical attention immediately!)
 - -long or excessive bleeding
 - -exceptional weakness, tiredness, paleness, dizziness, headache, unexplained swelling, breathlessness, chest pain or angina pectoris
@@ -6479,7 +6200,7 @@ Common (may affect up to 1 in 10 people)
 - -dry mouth
 - -hives
 
-## Rare (may affect up to 1 in 1,000 people)
+Rare (may affect up to 1 in 1,000 people)
 
 - -bleeding into a muscle
 - -cholestasis (decreased bile flow), hepatitis incl. hepatocellular injury (inflamed liver incl. liver injury)
@@ -6535,7 +6256,7 @@ Rivaroxaban Viatris 2.5 mg film-coated tablets (tablets) are light yellow to yel
 ## They come in
 
 - -blisters in cartons of 10, 28, 56, 60, 100 or 196 film-coated tablets or
-- -unit dose cartons of 28  1, 30  1, 56  1, 60  1 or 90  1 film-coated tablets or
+- -unit dose cartons of 28 × 1, 30 × 1, 56 × 1, 60 × 1 or 90 × 1 film-coated tablets or
 - -bottles of 98, 100 196 or 250 film-coated tablets
 
 Not all pack sizes may be marketed.
@@ -6546,9 +6267,11 @@ Viatris Limited Damastown Industrial Park Mulhuddart Dublin 15 DUBLIN Ireland
 
 ## Manufacturer
 
-Mylan Germany GmbH Benzstrasse 1 Bad Homburg, Hesse, 61352, Germany
+Viatris Germany GmbH Benzstrasse 1 Bad Homburg, Hesse, 61352, Germany
 
-Mylan Hungary Kft Mylan utca 1, Komárom, H-2900, Hungary
+Mylan Hungary Kft
+
+Mylan utca 1, Komárom, H-2900, Hungary
 
 Medis International (Bolatice), Prumyslova 961/16, Bolatice, 74723, Czechia
 
@@ -6564,11 +6287,13 @@ Tél/Tel: + 32 (0)2 658 61 00
 
 ## България
 
-Майлан ЕООД
+Виатрис ЕООД
 
-Тел: +359 2 44 55 400
+Тел
 
-## Česká republika
+.: +359 2 44 55 400
+
+## Č eská republika
 
 Viatris CZ .s.r.o.
 
@@ -6596,7 +6321,7 @@ Tel: + 372 6363 052
 
 Viatris Hellas Ltd
 
-Τηλ:  +30 210 0 100 002
+Τηλ :  +30 210 0 100 002
 
 ## España
 
@@ -6702,29 +6427,21 @@ Viatris Slovakia  s.r.o.
 
 Tel: +421 2 32 199 100
 
+<div style=\"page-break-after: always\"></div>
+
 ## Italia
 
 Viatris Italia S.r.l.
 
 Tel: + 39 02 612 46921
 
-## Suomi/Finland
-
-Viatris Oy Puh/Tel: +358 20 720 9555
-
 ## Κύπρος
 
 CPO Pharmaceuticals Limited
 
-Τηλ: +357 22863100
+Τηλ
 
-Sverige
-
-Viatris  AB
-
-Tel: + 46  8 630 19 00
-
-<div style=\"page-break-after: always\"></div>
+: +357 22863100
 
 ## Latvija
 
@@ -6736,13 +6453,21 @@ Tel: +371 676 055 80
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu/en
 
-## Package leaflet: Information for the user
+## Suomi/Finland
+
+Viatris Oy Puh/Tel: +358 20 720 9555
+
+## Sverige
+
+Viatris  AB
+
+Tel: + 46  8 630 19 00
 
 <div style=\"page-break-after: always\"></div>
 
-## Rivaroxaban Viatris 10 mg film-coated tablets
+## Package leaflet: Information for the user
 
-## rivaroxaban
+## Rivaroxaban Viatris 10 mg film-coated tablets rivaroxaban
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
@@ -6796,13 +6521,13 @@ Talk to your doctor or pharmacist before taking Rivaroxaban Viatris.
 ## Take special care with Rivaroxaban Viatris
 
 - -if you have an increased risk of bleeding, as could be the case in situations such as:
-- moderate or severe kidney disease, since your kidney function may affect the amount of medicine that works in your body
-- if you are taking other medicines to prevent blood clotting (e.g. warfarin, dabigatran, apixaban or heparin), when changing anticoagulant treatment or while getting heparin through a venous or arterial line to keep it open (see section 'Other medicines and Rivaroxaban Viatris' )
-- bleeding disorders
-- very high blood pressure, not controlled by medical treatment
-- diseases of your stomach or bowel that might result in bleeding, e.g. inflammation of the bowels or stomach, or inflammation of the oesophagus (gullet), e.g. due to gastroesophageal reflux disease (disease where stomach acid goes upwards into the oesophagus) or tumours located in the stomach or bowels or genital tract or urinary tract
-- a problem with the blood vessels in the back of your eyes (retinopathy)
-- a lung disease where your bronchi are widened and filled with pus (bronchiectasis), or previous bleeding from your lung
+-  moderate or severe kidney disease, since your kidney function may affect the amount of medicine that works in your body
+-  if you are taking other medicines to prevent blood clotting (e.g. warfarin, dabigatran, apixaban or heparin), when changing anticoagulant treatment or while getting heparin through a venous or arterial line to keep it open (see section 'Other medicines and Rivaroxaban Viatris' )
+-  bleeding disorders
+-  very high blood pressure, not controlled by medical treatment
+-  diseases of your stomach or bowel that might result in bleeding, e.g. inflammation of the bowels or stomach, or inflammation of the oesophagus (gullet), e.g. due to gastroesophageal reflux disease (disease where stomach acid goes upwards into the oesophagus) or tumours located in the stomach or bowels or genital tract or urinary tract
+-  a problem with the blood vessels in the back of your eyes (retinopathy)
+-  a lung disease where your bronchi are widened and filled with pus (bronchiectasis), or previous bleeding from your lung
 - if you have a prosthetic heart valve
 - -
 - -if you know that you have a disease called antiphospholipid syndrome (a disorder of the immune system that causes an increased risk of blood clots), tell your doctor who will decide if the treatment may need to be changed.
@@ -6814,8 +6539,8 @@ If any of the above apply to you, tell your doctor before you take Rivaroxaban V
 
 - -it is very important to take Rivaroxaban Viatris before and after the operation exactly at the times you have been told by your doctor.
 - -If your operation involves a catheter or injection into your spinal column (e.g. for epidural or spinal anaesthesia or pain reduction):
-- it is very important to take Rivaroxaban Viatris exactly at the times you have been told by your doctor
-- tell your doctor immediately if you get numbness or weakness of your legs or problems with your bowel or bladder after the end of anaesthesia, because urgent care is necessary.
+-  it is very important to take Rivaroxaban Viatris exactly at the times you have been told by your doctor
+-  tell your doctor immediately if you get numbness or weakness of your legs or problems with your bowel or bladder after the end of anaesthesia, because urgent care is necessary.
 
 ## Children and adolescents
 
@@ -6827,17 +6552,17 @@ Tell your doctor or pharmacist if you are taking, have recently taken or might t
 
 ## -If you are taking
 
-- some medicines for fungal infections (e.g. fluconazole, itraconazole, voriconazole, posaconazole), unless they are only applied to the skin
-- ketoconazole tablets (used to treat Cushing's syndrome - when the body produces an excess of cortisol)
-- some medicines for bacterial infections (e.g. clarithromycin, erythromycin)
+-  some medicines for fungal infections (e.g. fluconazole, itraconazole, voriconazole, posaconazole), unless they are only applied to the skin
+-  ketoconazole tablets (used to treat Cushing's syndrome - when the body produces an excess of cortisol)
+-  some medicines for bacterial infections (e.g. clarithromycin, erythromycin)
 
 <div style=\"page-break-after: always\"></div>
 
-- some anti-viral medicines for HIV / AIDS (e.g. ritonavir)
-- other medicines to reduce blood clotting (e.g. enoxaparin, clopidogrel or vitamin K antagonists such as warfarin and acenocoumarol)
-- anti-inflammatory and pain relieving medicines (e.g. naproxen or acetylsalicylic acid)
-- dronedarone, a medicine to treat abnormal heart beat
-- some medicines to treat depression (selective serotonin reuptake inhibitors (SSRIs) or serotonin norepinephrine reuptake inhibitors (SNRIs))
+-  some anti-viral medicines for HIV / AIDS (e.g. ritonavir)
+-  other medicines to reduce blood clotting (e.g. enoxaparin, clopidogrel or vitamin K antagonists such as warfarin and acenocoumarol)
+-  anti-inflammatory and pain relieving medicines (e.g. naproxen or acetylsalicylic acid)
+-  dronedarone, a medicine to treat abnormal heart beat
+-  some medicines to treat depression (selective serotonin reuptake inhibitors (SSRIs) or serotonin norepinephrine reuptake inhibitors (SNRIs))
 
 ## If any of the above apply to you, tell your doctor before taking Rivaroxaban Viatris ,
 
@@ -6845,9 +6570,9 @@ because the effect of Rivaroxaban Viatris may be increased. Your doctor will dec
 
 ## -If you are taking
 
-- some medicines for treatment of epilepsy (phenytoin, carbamazepine, phenobarbital)
-- St John's Wort ( Hypericum perforatum ), a herbal product used for depression
-- rifampicin, an antibiotic
+-  some medicines for treatment of epilepsy (phenytoin, carbamazepine, phenobarbital)
+-  St John's Wort ( Hypericum perforatum ), a herbal product used for depression
+-  rifampicin, an antibiotic
 
 If any of the above apply to you, tell your doctor before taking Rivaroxaban Viatris, because the effect of Rivaroxaban Viatris may be reduced. Your doctor will decide, if you should be treated with Rivaroxaban Viatris and if you should be kept under closer observation.
 
@@ -6925,8 +6650,10 @@ Like other similar medicines to reduce the formation of blood clots, Rivaroxaban
 
 ## Tell your doctor immediately if you experience any of the following side effects:
 
-- Signs of bleeding
 - -bleeding into the brain or inside the skull (symptoms can include headache, one-sided weakness, vomiting, seizures, decreased level of consciousness, and neck stiffness. A serious medical emergency. Seek medical attention immediately!)
+
+## · Signs of bleeding
+
 - -long or excessive bleeding
 - -exceptional weakness, tiredness, paleness, dizziness, headache, unexplained swelling, breathlessness, chest pain or angina pectoris
 
@@ -7028,7 +6755,8 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 - -The active substance is rivaroxaban. Each tablet contains 10 mg of rivaroxaban.
 - -The other ingredients are:
 - Tablet core: microcrystalline cellulose, lactose monohydrate, croscarmellose sodium, hypromellose, sodium laurilsulfate,, magnesium stearate. See section 2 'Rivaroxaban Viatris contains lactose and sodium.'
-- Tablet film coat: macrogol (3350), poly(vinyl alcohol), talc, titanium dioxide (E171), ferric oxide red (E172).
+
+Tablet film coat: macrogol (3350), poly(vinyl alcohol), talc, titanium dioxide (E171), ferric oxide red (E172).
 
 ## What Rivaroxaban Viatris looks like and contents of the pack
 
@@ -7037,7 +6765,7 @@ Rivaroxaban Viatris 10 mg film-coated tablets (tablets) are light pink to pink c
 ## They come in
 
 - -blisters in cartons of 5,10, 30 or 100 film-coated tablets or
-- -unit dose blisters in cartons of 10  1, 28  1, 30  1, 50  1, 98  1 or 100  1 film-coated tablets or
+- -unit dose blisters in cartons of 10 × 1, 28 × 1, 30 × 1, 50 × 1, 98 × 1 or 100 × 1 film-coated tablets or
 - -bottles of 98,100 or 250 film-coated tablets
 
 Not all pack sizes may be marketed.
@@ -7054,11 +6782,31 @@ Ireland
 
 ## Manufacturer
 
-Mylan Germany GmbH Benzstrasse 1 Bad Homburg, Hesse, 61352, Germany
+Viatris Germany GmbH
 
-Mylan Hungary Kft Mylan utca 1, Komárom, H-2900, Hungary
+Benzstrasse 1
 
-Medis International (Bolatice) Prumyslova 961/16, Bolatice, 74723, Czechia
+Bad Homburg,
+
+Hesse,
+
+61352,
+
+Germany
+
+Mylan Hungary Kft
+
+Mylan utca 1, Komárom, H-2900, Hungary
+
+Medis International (Bolatice)
+
+Prumyslova 961/16,
+
+Bolatice,
+
+74723,
+
+Czechia
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
@@ -7068,11 +6816,15 @@ Viatris Tél/Tel: + 32 (0)2 658 61 00
 
 ## България
 
-Майлан ЕООД
+Виатрис
 
-Тел: +359 2 44 55 400
+ЕООД
 
-## Česká republika
+Тел
+
+.: +359 2 44 55 400
+
+## Č eská republika
 
 Viatris CZ.s.r.o.
 
@@ -7100,13 +6852,17 @@ Tel: + 372 6363 052
 
 Viatris Hellas Ltd
 
-Τηλ:  +30 210 0 100 002
+Τηλ
+
+:  +30 210 0 100 002
 
 ## España
 
 ## Lietuva
 
-Viatris UAB Tel: +370 5 205 1288
+Viatris UAB
+
+Tel: +370 5 205 1288
 
 ## Luxembourg/Luxemburg
 
@@ -7114,23 +6870,33 @@ ViatrisTél/Tel: + 32 (0)2 658 61 00 (Belgique/Belgien)
 
 ## Magyarország
 
-Viatris Healthcare Kft Tel: + 36 1 465 2100
+Viatris Healthcare Kft
+
+Tel: + 36 1 465 2100
 
 ## Malta
 
-V.J. Salomone Pharma Ltd Tel: + 356 21 22 01 74
+V.J. Salomone Pharma Ltd
+
+Tel: + 356 21 22 01 74
 
 ## Nederland
 
-Mylan BV Tel: +31 (0)20 426 3300
+Mylan BV
+
+Tel: +31 (0)20 426 3300
 
 ## Norge
 
-Viatris AS Tel: + 47 66 75 33 00
+Viatris AS
+
+Tel: + 47 66 75 33 00
 
 ## Österreich
 
-Viatris Austria GmbH Tel: +43 1 86390
+Viatris Austria GmbH
+
+Tel: +43 1 86390
 
 ## Polska
 
@@ -7204,7 +6970,9 @@ Viatris Oy Puh/Tel: +358 20 720 9555
 
 CPO Pharmaceuticals Limited
 
-Τηλ: +357 22863100
+Τηλ
+
+: +357 22863100
 
 ## Sverige
 
@@ -7220,9 +6988,9 @@ Tel: +371 676 055 80
 
 ## This leaflet was last revised in {MM/YYYY}.
 
-Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu/en
-
 <div style=\"page-break-after: always\"></div>
+
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu/en
 
 ## Package leaflet: Information for the user
 
@@ -7287,13 +7055,13 @@ Talk to your doctor or pharmacist before taking Rivaroxaban Viatris.
 ## Take special care with Rivaroxaban Viatris
 
 - -if you have an increased risk of bleeding, as could be the case in situations such as:
-- severe kidney disease, for adults, and moderate or severe kidney disease for children and adolescents since your kidney function may affect the amount of medicine that works in your body
-- if you are taking other medicines to prevent blood clotting (e.g. warfarin, dabigatran, apixaban or heparin), when changing anticoagulant treatment or while getting heparin through a venous or arterial line to keep it open (see section 'Other medicines and Rivaroxaban Viatris' )
-- bleeding disorders
-- very high blood pressure, not controlled by medical treatment
-- diseases of your stomach or bowel that might result in bleeding, e.g. inflammation of the bowels or stomach, or inflammation of the oesophagus (gullet), e.g. due to gastroesophageal reflux disease (disease where stomach acid goes upwards into the oesophagus) or tumours located in the stomach or bowels or genital tract or urinary tract
-- a problem with the blood vessels in the back of your eyes (retinopathy)
-- a lung disease where your bronchi are widened and filled with pus (bronchiectasis), or previous bleeding from your lung
+-  severe kidney disease, for adults, and moderate or severe kidney disease for children and adolescents since your kidney function may affect the amount of medicine that works in your body
+-  if you are taking other medicines to prevent blood clotting (e.g. warfarin, dabigatran, apixaban or heparin), when changing anticoagulant treatment or while getting heparin through a venous or arterial line to keep it open (see section 'Other medicines and Rivaroxaban Viatris' )
+-  bleeding disorders
+-  very high blood pressure, not controlled by medical treatment
+-  diseases of your stomach or bowel that might result in bleeding, e.g. inflammation of the bowels or stomach, or inflammation of the oesophagus (gullet), e.g. due to gastroesophageal reflux disease (disease where stomach acid goes upwards into the oesophagus) or tumours located in the stomach or bowels or genital tract or urinary tract
+-  a problem with the blood vessels in the back of your eyes (retinopathy)
+-  a lung disease where your bronchi are widened and filled with pus (bronchiectasis), or previous bleeding from your lung
 - -if you have a prosthetic heart valve
 - -if you know that you have a disease called antiphospholipid syndrome (a disorder of the immune system that causes an increased risk of blood clots), tell your doctor who will decide if the treatment may need to be changed.
 - -if your doctor determines that your blood pressure is unstable or another treatment or surgical procedure to remove the blood clot from your lungs is planned.
@@ -7304,8 +7072,8 @@ If any of the above apply to you, tell your doctor before you take Rivaroxaban V
 
 - -it is very important to take Rivaroxaban Viatris before and after the operation exactly at the times you have been told by your doctor.
 - -If your operation involves a catheter or injection into your spinal column (e.g. for epidural or spinal anaesthesia or pain reduction):
-- it is very important to take Rivaroxaban Viatris before and after the injection or removal of the catheter exactly at the times you have been told by your doctor
-- tell your doctor immediately if you get numbness or weakness of your legs or problems with your bowel or bladder after the end of anaesthesia, because urgent care is necessary.
+-  it is very important to take Rivaroxaban Viatris before and after the injection or removal of the catheter exactly at the times you have been told by your doctor
+-  tell your doctor immediately if you get numbness or weakness of your legs or problems with your bowel or bladder after the end of anaesthesia, because urgent care is necessary.
 
 ## Children and adolescents
 
@@ -7319,14 +7087,14 @@ Tell your doctor or pharmacist if you are taking, have recently taken or might t
 
 <div style=\"page-break-after: always\"></div>
 
-- some medicines for fungal infections (e.g. fluconazole, itraconazole, voriconazole, posaconazole), unless they are only applied to the skin
-- ketoconazole tablets (used to treat Cushing's syndrome - when the body produces an excess of cortisol)
-- some medicines for bacterial infections (e.g. clarithromycin, erythromycin)
-- some anti-viral medicines for HIV / AIDS (e.g. ritonavir)
-- other medicines to reduce blood clotting (e.g. enoxaparin, clopidogrel or vitamin K antagonists such as warfarin and acenocoumarol)
-- anti-inflammatory and pain relieving medicines (e.g. naproxen or acetylsalicylic acid)
-- dronedarone, a medicine to treat abnormal heart beat
-- some medicines to treat depression (selective serotonin reuptake inhibitors (SSRIs) or serotonin norepinephrine reuptake inhibitors (SNRIs))
+-  some medicines for fungal infections (e.g. fluconazole, itraconazole, voriconazole, posaconazole), unless they are only applied to the skin
+-  ketoconazole tablets (used to treat Cushing's syndrome - when the body produces an excess of cortisol)
+-  some medicines for bacterial infections (e.g. clarithromycin, erythromycin)
+-  some anti-viral medicines for HIV / AIDS (e.g. ritonavir)
+-  other medicines to reduce blood clotting (e.g. enoxaparin, clopidogrel or vitamin K antagonists such as warfarin and acenocoumarol)
+-  anti-inflammatory and pain relieving medicines (e.g. naproxen or acetylsalicylic acid)
+-  dronedarone, a medicine to treat abnormal heart beat
+-  some medicines to treat depression (selective serotonin reuptake inhibitors (SSRIs) or serotonin norepinephrine reuptake inhibitors (SNRIs))
 
 ## If any of the above apply to you, tell your doctor before taking Rivaroxaban Viatris ,
 
@@ -7334,9 +7102,9 @@ because the effect of Rivaroxaban Viatris may be increased. Your doctor will dec
 
 ## -If you are taking
 
-- some medicines for treatment of epilepsy (phenytoin, carbamazepine, phenobarbital)
-- St John's Wort ( Hypericum perforatum ), a herbal product used for depression
-- rifampicin, an antibiotic
+-  some medicines for treatment of epilepsy (phenytoin, carbamazepine, phenobarbital)
+-  St John's Wort ( Hypericum perforatum ), a herbal product used for depression
+-  rifampicin, an antibiotic
 
 If any of the above apply to you, tell your doctor before taking Rivaroxaban Viatris, because the effect of Rivaroxaban Viatris may be reduced. Your doctor will decide, if you should be treated with Rivaroxaban Viatris and if you should be kept under closer observation.
 
@@ -7358,7 +7126,9 @@ This medicine contains less than 1 mmol sodium (23 mg) per tablet, that is to sa
 
 Always take this medicine exactly as your doctor has told you. Check with your doctor or pharmacist if you are not sure.
 
-You must take Rivaroxaban Viatris together with a meal. Swallow the tablet(s) preferably with water.
+You must take Rivaroxaban Viatris together with a meal.
+
+Swallow the tablet(s) preferably with water.
 
 If you have difficulty swallowing the tablet whole, talk to your doctor about other ways to take Rivaroxaban Viatris. The tablet may be crushed and mixed with water or apple puree immediately before you take it. This mixture should be immediately followed by food.
 
@@ -7372,9 +7142,9 @@ If necessary, your doctor may also give you the crushed Rivaroxaban Viatris tabl
 
 -
 
-To prevent blood clots in brain (stroke) and other blood vessels in your body The recommended dose is one tablet Rivaroxaban Viatris 20 mg once a day.
+- To prevent blood clots in brain (stroke) and other blood vessels in your body The recommended dose is one tablet Rivaroxaban Viatris 20 mg once a day. If you have kidney problems, the dose may be reduced to one tablet Rivaroxaban Viatris 15 mg
 
-If you have kidney problems, the dose may be reduced to one tablet Rivaroxaban Viatris 15 mg once a day.
+once a day.
 
 If you need a procedure to treat blocked blood vessels in your heart (called a percutaneous coronary intervention - PCI with an insertion of a stent), there is limited evidence to reduce the dose to one tablet Rivaroxaban Viatris 15 mg once a day (or to one tablet Rivaroxaban Viatris 10 mg once a day in case your kidneys are not working properly) in addition to an antiplatelet medicine such as clopidogrel.
 
@@ -7390,8 +7160,8 @@ If you have kidney problems and take one tablet Rivaroxaban Viatris 20 mg once a
 
 The dose of Rivaroxaban Viatris depends on the body weight, and will be calculated by the doctor.
 
-- The recommended dose for children and adolescents with a body weight between 30 kg and less than 50 kg is one Rivaroxaban Viatris 15 mg tablet once a day.
-- The recommended dose for children and adolescents with a body weight of 50 kg or more is one Rivaroxaban Viatris 20 mg tablet once a day.
+-  The recommended dose for children and adolescents with a body weight between 30 kg and less than 50 kg is one Rivaroxaban Viatris 15 mg tablet once a day.
+-  The recommended dose for children and adolescents with a body weight of 50 kg or more is one Rivaroxaban Viatris 20 mg tablet once a day.
 
 Take each Rivaroxaban Viatris dose with a drink (e.g. water or juice) during a meal. Take the tablets every day at approximately the same time. Consider setting an alarm to remind you. For parents or caregivers: please observe the child to ensure the full dose is taken.
 
@@ -7406,7 +7176,8 @@ If the oral suspension is not available, you may crush the Rivaroxaban Viatris t
 ## If you spit up the dose or vomit
 
 - less than 30 minutes after you have taken Rivaroxaban Viatris, take a new dose.
-- more than 30 minutes after you have taken Rivaroxaban Viatris, do not take a new dose. In this case, take the next Rivaroxaban Viatris dose at the usual time.
+- more than 30 minutes after you have taken Rivaroxaban Viatris, do not take a new dose. In this
+- case, take the next Rivaroxaban Viatris dose at the usual time.
 
 Contact the doctor if you repeatedly spit up the dose or vomit after taking Rivaroxaban Viatris.
 
@@ -7414,7 +7185,9 @@ Contact the doctor if you repeatedly spit up the dose or vomit after taking Riva
 
 ## When to take Rivaroxaban Viatris
 
-Take the tablet every day until your doctor tells you to stop. Try to take the tablet at the same time every day to help you to remember it. Your doctor will decide how long you must continue treatment.
+Take the tablet every day until your doctor tells you to stop.
+
+Try to take the tablet at the same time every day to help you to remember it. Your doctor will decide how long you must continue treatment.
 
 To prevent blood clots in the brain (stroke) and other blood vessels in your body: If your heart beat needs to be restored to normal by a procedure called cardioversion, take Rivaroxaban Viatris at the times your doctor tells you.
 
@@ -7446,9 +7219,10 @@ Like other similar medicines to reduce the formation of blood clots, Rivaroxaban
 
 ## Tell your doctor immediately if you or the child experience any of the following side effects:
 
+- -bleeding into the brain or inside the skull (symptoms can include headache, one-sided weakness, vomiting, seizures, decreased level of consciousness, and neck stiffness. A serious medical emergency. Seek medical attention immediately!)
+
 ## · Signs of bleeding
 
-- -bleeding into the brain or inside the skull (symptoms can include headache, one-sided weakness, vomiting, seizures, decreased level of consciousness, and neck stiffness. A serious medical emergency. Seek medical attention immediately!)
 - -long or excessive bleeding
 - -exceptional weakness, tiredness, paleness, dizziness, headache, unexplained swelling, breathlessness, chest pain or angina pectoris
 
@@ -7572,10 +7346,8 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 ## What Rivaroxaban Viatris contains
 
 - -The active substance is rivaroxaban. Each tablet contains 15 mg or 20 mg of rivaroxaban.
-- -
-- The other ingredients are: contains lactose and sodium'
-
-Tablet core: microcrystalline cellulose, lactose monohydrate, croscarmellose sodium, hypromellose, sodium laurilsulfate, magnesium stearate. See section 2 'Rivaroxaban Viatris
+- -The other ingredients are:
+- Tablet core: microcrystalline cellulose, lactose monohydrate, croscarmellose sodium, hypromellose, sodium laurilsulfate, magnesium stearate. See section 2 'Rivaroxaban Viatris contains lactose and sodium'
 
 <div style=\"page-break-after: always\"></div>
 
@@ -7588,7 +7360,7 @@ Rivaroxaban Viatris 15 mg film-coated tablets (tablets) are pink to brick red co
 ## They come in
 
 - -blisters in cartons of 14, 28, 30, 42, 98 or 100 film-coated tablets or
-- -unit dose blisters in cartons of 14  1, 28  1, 30  1, 42  1, 50  1, 98  1 or 100  1 film-coated tablets or
+- -unit dose blisters in cartons of 14 × 1, 28 × 1, 30 × 1, 42 × 1, 50 × 1, 98 × 1 or 100 × 1 film-coated tablets or
 - -bottles of 30, 98,100 or 250 film-coated tablets
 
 Rivaroxaban Viatris 20 mg film-coated tablets (tablets) are reddish brown coloured, round, biconvex, beveled edge tablets (diameter 7.0 mm) and marked with 'RX' on side and '4' on the other side.
@@ -7596,7 +7368,7 @@ Rivaroxaban Viatris 20 mg film-coated tablets (tablets) are reddish brown colour
 ## They come in
 
 - -blisters in cartons of 14, 28, 30, 98 or 100 film-coated tablets or
-- -unit dose blisters in cartons of 14  1, 28  1, 30  1, 50  1, 90  1, 98  1 or 100  1 film-coated tablets or
+- -unit dose blisters in cartons of 14 × 1, 28 × 1, 30 × 1, 50 × 1, 90 × 1, 98 × 1 or 100 × 1 film-coated tablets or
 - -bottles of 30, 98, 100 or 250 film-coated tablets or
 - -calendar packs of 14, 28 or 98 film-coated tablets
 
@@ -7608,11 +7380,13 @@ Viatris Limited Damastown Industrial Park Mulhuddart Dublin 15 DUBLIN Ireland
 
 ## Manufacturer
 
-Mylan Germany GmbH Benzstrasse 1 Bad Homburg, Hesse, 61352, Germany
+Viatris Germany GmbH Benzstrasse 1 Bad Homburg, Hesse, 61352, Germany
 
 Mylan Hungary Kft, Mylan utca 1, Komárom, H-2900, Hungary
 
-Medis International (Bolatice), Prumyslova 961/16, Bolatice, 74723, Czechia
+Medis International (Bolatice),
+
+Prumyslova 961/16, Bolatice, 74723, Czechia
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
@@ -7624,15 +7398,19 @@ ViatrisTél/Tel: + 32 (0)2 658 61 00
 
 ## България
 
-Майлан ЕООД Тел: +359 2 44 55 400
+Виатрис ЕООД
 
-## Česká republika
+Тел .: +359 2 44 55 400
+
+## Č eská republika
 
 Viatris CZ.s.r.o. Tel: + 420 222 004 400
 
 ## Danmark
 
-Viatris ApS Tel: +45 28 11 69 32
+Viatris ApS
+
+Tel: +45 28 11 69 32
 
 ## Deutschland
 
@@ -7644,7 +7422,7 @@ Viatris OÜ Tel: + 372 6363 052
 
 ## Ελλάδα
 
-Viatris Hellas Ltd Τηλ:  +30 210 0 100 002
+Viatris Hellas Ltd Τηλ :  +30 210 0 100 002
 
 ## España
 
@@ -7696,9 +7474,7 @@ Tel: +31 (0)20 426 3300
 
 ## Norge
 
-Viatris AS
-
-Tel: + 47 66 75 33 00
+Viatris AS Tel: + 47 66 75 33 00
 
 ## Österreich
 
@@ -7710,9 +7486,7 @@ Viatris Healthcare Sp. z. o.o. Tel: + 48 22 546 64 00
 
 ## Portugal
 
-Mylan, Lda.
-
-Tel: + 351 21 412 72 00
+Mylan, Lda. Tel: + 351 21 412 72 00
 
 ## România
 
@@ -7732,7 +7506,9 @@ Viatris Oy Puh/Tel: +358 20 720 9555
 
 ## Sverige
 
-CPO Pharmaceuticals Limited Τηλ: +357 22863100
+Τηλ
+
+: +357 22863100
 
 <div style=\"page-break-after: always\"></div>
 
@@ -7744,9 +7520,7 @@ Tel: +371 676 055 80
 
 ## This leaflet was last revised in {MM/YYYY}.
 
-Detailed information on this medicine is available on the European Medicines Agency web site:
-
-https://www.ema.europa.eu/en
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu/en
 
 Viatris  AB
 
@@ -7811,13 +7585,13 @@ Talk to your doctor or pharmacist before taking Rivaroxaban Viatris.
 ## Take special care with Rivaroxaban Viatris
 
 - -if you have an increased risk of bleeding, as could be the case in situations such as:
-- severe kidney disease, since your kidney function may affect the amount of medicine that works in your body
-- if you are taking other medicines to prevent blood clotting (e.g. warfarin, dabigatran, apixaban or heparin), when changing anticoagulant treatment or while getting heparin through a venous or arterial line to keep it open (see section 'Other medicines and Rivaroxaban Viatris' )
-- bleeding disorders
-- very high blood pressure, not controlled by medical treatment
-- diseases of your stomach or bowel that might result in bleeding, e.g. inflammation of the bowels or stomach, or inflammation of the oesophagus (gullet), e.g. due to gastroesophageal reflux disease (disease where stomach acid goes upwards into the oesophagus) or tumours located in the stomach or bowels or genital tract or urinary tract
-- a problem with the blood vessels in the back of your eyes (retinopathy)
-- a lung disease where your bronchi are widened and filled with pus (bronchiectasis), or previous bleeding from your lung
+-  severe kidney disease, since your kidney function may affect the amount of medicine that works in your body
+-  if you are taking other medicines to prevent blood clotting (e.g. warfarin, dabigatran, apixaban or heparin), when changing anticoagulant treatment or while getting heparin through a venous or arterial line to keep it open (see section 'Other medicines and Rivaroxaban Viatris' )
+-  bleeding disorders
+-  very high blood pressure, not controlled by medical treatment
+-  diseases of your stomach or bowel that might result in bleeding, e.g. inflammation of the bowels or stomach, or inflammation of the oesophagus (gullet), e.g. due to gastroesophageal reflux disease (disease where stomach acid goes upwards into the oesophagus) or tumours located in the stomach or bowels or genital tract or urinary tract
+-  a problem with the blood vessels in the back of your eyes (retinopathy)
+-  a lung disease where your bronchi are widened and filled with pus (bronchiectasis), or previous bleeding from your lung
 - if you have a prosthetic heart valve
 - -
 - -if you know that you have a disease called antiphospholipid syndrome (a disorder of the immune system that causes an increased risk of blood clots), tell your doctor who will decide if the treatment may need to be changed.
@@ -7829,8 +7603,8 @@ If any of the above apply to you, tell your doctor before you take Rivaroxaban V
 
 - -it is very important to take Rivaroxaban Viatris before and after the operation exactly at the times you have been told by your doctor.
 - -If your operation involves a catheter or injection into your spinal column (e.g. for epidural or spinal anaesthesia or pain reduction):
-- it is very important to take Rivaroxaban Viatris before and after the injection or removal of the catheter exactly at the times you have been told by your doctor
-- tell your doctor immediately if you get numbness or weakness of your legs or problems with your bowel or bladder after the end of anaesthesia, because urgent care is necessary.
+-  it is very important to take Rivaroxaban Viatris before and after the injection or removal of the catheter exactly at the times you have been told by your doctor
+-  tell your doctor immediately if you get numbness or weakness of your legs or problems with your bowel or bladder after the end of anaesthesia, because urgent care is necessary.
 
 ## Children and adolescents
 
@@ -7842,17 +7616,17 @@ Tell your doctor or pharmacist if you are taking, have recently taken or might t
 
 ## -If you are taking
 
-- some medicines for fungal infections (e.g. fluconazole, itraconazole, voriconazole, posaconazole), unless they are only applied to the skin
-- ketoconazole tablets (used to treat Cushing's syndrome - when the body produces an excess of cortisol)
+-  some medicines for fungal infections (e.g. fluconazole, itraconazole, voriconazole, posaconazole), unless they are only applied to the skin
+-  ketoconazole tablets (used to treat Cushing's syndrome - when the body produces an excess of cortisol)
 
 <div style=\"page-break-after: always\"></div>
 
-- some medicines for bacterial infections (e.g. clarithromycin, erythromycin)
-- some anti-viral medicines for HIV / AIDS (e.g. ritonavir)
-- other medicines to reduce blood clotting (e.g. enoxaparin, clopidogrel or vitamin K antagonists such as warfarin and acenocoumarol)
-- anti-inflammatory and pain relieving medicines (e.g. naproxen or acetylsalicylic acid)
-- dronedarone, a medicine to treat abnormal heart beat
-- some medicines to treat depression (selective serotonin reuptake inhibitors (SSRIs) or serotonin norepinephrine reuptake inhibitors (SNRIs))
+-  some medicines for bacterial infections (e.g. clarithromycin, erythromycin)
+-  some anti-viral medicines for HIV / AIDS (e.g. ritonavir)
+-  other medicines to reduce blood clotting (e.g. enoxaparin, clopidogrel or vitamin K antagonists such as warfarin and acenocoumarol)
+-  anti-inflammatory and pain relieving medicines (e.g. naproxen or acetylsalicylic acid)
+-  dronedarone, a medicine to treat abnormal heart beat
+-  some medicines to treat depression (selective serotonin reuptake inhibitors (SSRIs) or serotonin norepinephrine reuptake inhibitors (SNRIs))
 
 ## If any of the above apply to you, tell your doctor before taking Rivaroxaban Viatris ,
 
@@ -7860,9 +7634,9 @@ because the effect of Rivaroxaban Viatris may be increased. Your doctor will dec
 
 ## -If you are taking
 
-- some medicines for treatment of epilepsy (phenytoin, carbamazepine, phenobarbital)
-- St John's Wort ( Hypericum perforatum ), a herbal product used for depression
-- rifampicin, an antibiotic
+-  some medicines for treatment of epilepsy (phenytoin, carbamazepine, phenobarbital)
+-  St John's Wort ( Hypericum perforatum ), a herbal product used for depression
+-  rifampicin, an antibiotic
 
 If any of the above apply to you, tell your doctor before taking Rivaroxaban Viatris, because the effect of Rivaroxaban Viatris may be reduced. Your doctor will decide, if you should be treated with Rivaroxaban Viatris and if you should be kept under closer observation.
 
@@ -7886,9 +7660,9 @@ Always take this medicine exactly as your doctor has told you. Check with your d
 
 You must take Rivaroxaban Viatris together with a meal. Swallow the tablet(s) preferably with water.
 
-If you have difficulty swallowing the tablet whole, talk to your doctor about other ways to take Rivaroxaban Viatris. The tablet may be crushed and mixed with water or apple puree immediately before you take it. This mixture should be immediately followed by food.
+If you have difficulty swallowing the tablet whole, talk to your doctor about other ways to take Rivaroxaban Viatris. The tablet may be crushed and mixed with water or apple puree immediately before you take it. This mixture should be immediately followed by food. If necessary, your doctor may also give you the crushed Rivaroxaban Viatris tablet through a stomach
 
-If necessary, your doctor may also give you the crushed Rivaroxaban Viatris tablet through a stomach tube.
+tube.
 
 ## How much to take
 
@@ -7902,7 +7676,9 @@ If you have kidney problems, your doctor may decide to reduce the dose for the t
 
 ## When to take Rivaroxaban Viatris
 
-Take the tablet every day until your doctor tells you to stop. Try to take the tablet at the same time every day to help you to remember it. Your doctor will decide how long you must continue treatment.
+Take the tablet every day until your doctor tells you to stop.
+
+Try to take the tablet at the same time every day to help you to remember it. Your doctor will decide how long you must continue treatment.
 
 ## If you take more Rivaroxaban Viatris than you should
 
@@ -7927,8 +7703,8 @@ Like other similar medicines to reduce the formation of blood clots, Rivaroxaban
 
 ## Tell your doctor immediately if you experience any of the following side effects:
 
-- Signs of bleeding
 - -bleeding into the brain or inside the skull (symptoms can include headache, one-sided weakness, vomiting, seizures, decreased level of consciousness, and neck stiffness.
+- Signs of bleeding
 - -A serious medical emergency. Seek medical attention immediately!)
 - -long or excessive bleeding
 - -exceptional weakness, tiredness, paleness, dizziness, headache, unexplained swelling, breathlessness, chest pain or angina pectoris
@@ -8029,8 +7805,10 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 - -The active substance is rivaroxaban. Each tablet contains 15 mg or 20 mg of rivaroxaban, respectively.
 - -The other ingredients are:
-- Tablet core: microcrystalline cellulose, lactose monohydrate, croscarmellose sodium, hypromellose, sodium laurilsulfate, magnesium stearate. See section 2 'Rivaroxaban Viatris contains lactose and sodium'
-- Tablet film coat: poly(vinyl alcohol), macrogol (3350), talc, titanium dioxide (E171), ferric oxide red (E172).
+
+Tablet core: microcrystalline cellulose, lactose monohydrate, croscarmellose sodium, hypromellose, sodium laurilsulfate, magnesium stearate. See section 2 'Rivaroxaban Viatris contains lactose and sodium'
+
+Tablet film coat: poly(vinyl alcohol), macrogol (3350), talc, titanium dioxide (E171), ferric oxide red (E172).
 
 ## What Rivaroxaban Viatris looks like and contents of the pack
 
@@ -8044,13 +7822,41 @@ One box containing 42 film-coated tablets of 15 mg rivaroxaban (three blister pa
 
 ## Marketing Authorisation Holder
 
-Viatris Limited Damastown Industrial Park Mulhuddart Dublin 15 DUBLIN Ireland
+Viatris Limited
+
+Damastown Industrial Park
+
+Mulhuddart
+
+Dublin 15
+
+DUBLIN
+
+Ireland
 
 ## Manufacturer
 
-Mylan Germany GmbH Benzstrasse 1 Bad Homburg, Hesse, 61352, Germany
+Viatris Germany GmbH
 
-Mylan Hungary Kft, Mylan utca 1, Komárom, H-2900, Hungary
+Benzstrasse 1
+
+Bad Homburg,
+
+Hesse,
+
+61352,
+
+Germany
+
+Mylan Hungary Kft,
+
+Mylan utca 1,
+
+Komárom,
+
+H-2900,
+
+Hungary
 
 Medis International (Bolatice) Prumyslova 961/16, Bolatice, 74723, Czechia
 
@@ -8064,19 +7870,23 @@ Tél/Tel: + 32  (0)2 658 61 00
 
 ## Lietuva
 
-Viatris UAB Tel: +370 5 205 1288
+Viatris UAB
+
+Tel: +370 5 205 1288
 
 ## България
 
-Майлан ЕООД
+Виатрис ЕООД
 
-Тел: +359 2 44 55 400
+Тел
+
+.: +359 2 44 55 400
 
 ## Luxembourg/Luxemburg
 
 Viatris Tél/Tel: + 32 (0)2 658 61 00 (Belgique/Belgien)
 
-## Česká republika
+## Č eská republika
 
 Viatris CZ .s.r.o.
 
@@ -8084,7 +7894,9 @@ Tel: + 420 222 004 400
 
 ## Magyarország
 
-Viatris Healthcare Kft Tel: + 36 1 465 2100
+Viatris Healthcare Kft
+
+Tel: + 36 1 465 2100
 
 ## Danmark
 
@@ -8094,7 +7906,9 @@ Tel: +45 28 11 69 32
 
 ## Malta
 
-V.J. Salomone Pharma Ltd Tel: + 356 21 22 01 74
+V.J. Salomone Pharma Ltd
+
+Tel: + 356 21 22 01 74
 
 ## Deutschland
 
@@ -8107,6 +7921,10 @@ Tel: +49 800 0700 800
 Mylan BV
 
 Tel: +31 (0)20 426 3300
+
+Viatris Oy Puh/Tel: +358 20 720 9555
+
+<div style=\"page-break-after: always\"></div>
 
 ## Eesti
 
@@ -8124,7 +7942,9 @@ Tel: + 47 66 75 33 00
 
 Viatris Hellas Ltd
 
-Τηλ:  +30 210 0 100 002
+Τηλ
+
+:  +30 210 0 100 002
 
 ## Österreich
 
@@ -8200,13 +8020,13 @@ Tel: + 39 (0)-2 612 46921
 
 ## Suomi/Finland
 
-Viatris Oy Puh/Tel: +358 20 720 9555
-
 ## Κύπρος
 
 CPO Pharmaceuticals Limited
 
-Τηλ: +357 22863100
+Τηλ
+
+: +357 22863100
 
 ## Sverige
 
@@ -8219,8 +8039,6 @@ Tel: + 46 8 630 19 00
 Viatris SIA
 
 Tel: +371 676 055 80
-
-<div style=\"page-break-after: always\"></div>
 
 ## This leaflet was last revised in {MM/YYYY}.
 

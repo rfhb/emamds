@@ -1,32 +1,32 @@
 ---
-document_datetime: 2025-12-29 12:05:57
+document_datetime: 2026-05-11 15:05:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/orencia.html
 document_name: orencia.html
 version: success
-processing_time: 0.1317734
-conversion_datetime: 2025-12-31 01:26:39.337745
+processing_time: 0.1513982
+conversion_datetime: 2026-05-13 13:16:39.687183
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.17.0
+  docling-jobkit: 1.18.0
+  docling: 2.92.0
+  docling-core: 2.74.1
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.10.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
 ---
 # Orencia
 
 [RSS](/en/individual-human-medicine.xml/67102)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-abatacept Medicine Human Authorised
+abatacept
 
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
+Medicine Human Authorised
 
 Page contents
 
@@ -130,591 +130,311 @@ Orencia : EPAR - Medicine overview
 
 English (EN) (95.67 KB - PDF)
 
-**First published:** 05/06/2007
-
-**Last updated:** 12/04/2019
+**First published:** 05/06/2007 **Last updated:** 12/04/2019
 
 [View](/en/documents/overview/orencia-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-536)
+[Other languages (22)](#file-language-dropdown-206)
 
 български (BG) (135.92 KB - PDF)
 
-**First published:**
-
-05/06/2007
-
-**Last updated:**
-
-12/04/2019
+**First published:** 05/06/2007 **Last updated:** 12/04/2019
 
 [View](/bg/documents/overview/orencia-epar-medicine-overview_bg.pdf)
 
 español (ES) (110.83 KB - PDF)
 
-**First published:**
-
-05/06/2007
-
-**Last updated:**
-
-12/04/2019
+**First published:** 05/06/2007 **Last updated:** 12/04/2019
 
 [View](/es/documents/overview/orencia-epar-medicine-overview_es.pdf)
 
 čeština (CS) (131.4 KB - PDF)
 
-**First published:**
-
-05/06/2007
-
-**Last updated:**
-
-12/04/2019
+**First published:** 05/06/2007 **Last updated:** 12/04/2019
 
 [View](/cs/documents/overview/orencia-epar-medicine-overview_cs.pdf)
 
 dansk (DA) (110.2 KB - PDF)
 
-**First published:**
-
-05/06/2007
-
-**Last updated:**
-
-12/04/2019
+**First published:** 05/06/2007 **Last updated:** 12/04/2019
 
 [View](/da/documents/overview/orencia-epar-medicine-overview_da.pdf)
 
 Deutsch (DE) (111.38 KB - PDF)
 
-**First published:**
-
-05/06/2007
-
-**Last updated:**
-
-12/04/2019
+**First published:** 05/06/2007 **Last updated:** 12/04/2019
 
 [View](/de/documents/overview/orencia-epar-medicine-overview_de.pdf)
 
 eesti keel (ET) (117.01 KB - PDF)
 
-**First published:**
-
-05/06/2007
-
-**Last updated:**
-
-12/04/2019
+**First published:** 05/06/2007 **Last updated:** 12/04/2019
 
 [View](/et/documents/overview/orencia-epar-medicine-overview_et.pdf)
 
 ελληνικά (EL) (143.75 KB - PDF)
 
-**First published:**
-
-05/06/2007
-
-**Last updated:**
-
-12/04/2019
+**First published:** 05/06/2007 **Last updated:** 12/04/2019
 
 [View](/el/documents/overview/orencia-epar-medicine-overview_el.pdf)
 
 français (FR) (111.73 KB - PDF)
 
-**First published:**
-
-05/06/2007
-
-**Last updated:**
-
-12/04/2019
+**First published:** 05/06/2007 **Last updated:** 12/04/2019
 
 [View](/fr/documents/overview/orencia-epar-medicine-overview_fr.pdf)
 
 hrvatski (HR) (125.82 KB - PDF)
 
-**First published:**
-
-05/06/2007
-
-**Last updated:**
-
-12/04/2019
+**First published:** 05/06/2007 **Last updated:** 12/04/2019
 
 [View](/hr/documents/overview/orencia-epar-medicine-overview_hr.pdf)
 
 italiano (IT) (110.45 KB - PDF)
 
-**First published:**
-
-05/06/2007
-
-**Last updated:**
-
-12/04/2019
+**First published:** 05/06/2007 **Last updated:** 12/04/2019
 
 [View](/it/documents/overview/orencia-epar-medicine-overview_it.pdf)
 
 latviešu valoda (LV) (131.3 KB - PDF)
 
-**First published:**
-
-05/06/2007
-
-**Last updated:**
-
-12/04/2019
+**First published:** 05/06/2007 **Last updated:** 12/04/2019
 
 [View](/lv/documents/overview/orencia-epar-medicine-overview_lv.pdf)
 
 lietuvių kalba (LT) (128.71 KB - PDF)
 
-**First published:**
-
-05/06/2007
-
-**Last updated:**
-
-12/04/2019
+**First published:** 05/06/2007 **Last updated:** 12/04/2019
 
 [View](/lt/documents/overview/orencia-epar-medicine-overview_lt.pdf)
 
 magyar (HU) (127.09 KB - PDF)
 
-**First published:**
-
-05/06/2007
-
-**Last updated:**
-
-12/04/2019
+**First published:** 05/06/2007 **Last updated:** 12/04/2019
 
 [View](/hu/documents/overview/orencia-epar-medicine-overview_hu.pdf)
 
 Malti (MT) (136.61 KB - PDF)
 
-**First published:**
-
-05/06/2007
-
-**Last updated:**
-
-12/04/2019
+**First published:** 05/06/2007 **Last updated:** 12/04/2019
 
 [View](/mt/documents/overview/orencia-epar-medicine-overview_mt.pdf)
 
 Nederlands (NL) (111.05 KB - PDF)
 
-**First published:**
-
-05/06/2007
-
-**Last updated:**
-
-12/04/2019
+**First published:** 05/06/2007 **Last updated:** 12/04/2019
 
 [View](/nl/documents/overview/orencia-epar-medicine-overview_nl.pdf)
 
 polski (PL) (131.7 KB - PDF)
 
-**First published:**
-
-05/06/2007
-
-**Last updated:**
-
-12/04/2019
+**First published:** 05/06/2007 **Last updated:** 12/04/2019
 
 [View](/pl/documents/overview/orencia-epar-medicine-overview_pl.pdf)
 
 português (PT) (110.71 KB - PDF)
 
-**First published:**
-
-05/06/2007
-
-**Last updated:**
-
-12/04/2019
+**First published:** 05/06/2007 **Last updated:** 12/04/2019
 
 [View](/pt/documents/overview/orencia-epar-medicine-overview_pt.pdf)
 
 română (RO) (129.62 KB - PDF)
 
-**First published:**
-
-05/06/2007
-
-**Last updated:**
-
-12/04/2019
+**First published:** 05/06/2007 **Last updated:** 12/04/2019
 
 [View](/ro/documents/overview/orencia-epar-medicine-overview_ro.pdf)
 
 slovenčina (SK) (128.42 KB - PDF)
 
-**First published:**
-
-05/06/2007
-
-**Last updated:**
-
-12/04/2019
+**First published:** 05/06/2007 **Last updated:** 12/04/2019
 
 [View](/sk/documents/overview/orencia-epar-medicine-overview_sk.pdf)
 
 slovenščina (SL) (125.25 KB - PDF)
 
-**First published:**
-
-05/06/2007
-
-**Last updated:**
-
-12/04/2019
+**First published:** 05/06/2007 **Last updated:** 12/04/2019
 
 [View](/sl/documents/overview/orencia-epar-medicine-overview_sl.pdf)
 
 Suomi (FI) (109.96 KB - PDF)
 
-**First published:**
-
-05/06/2007
-
-**Last updated:**
-
-12/04/2019
+**First published:** 05/06/2007 **Last updated:** 12/04/2019
 
 [View](/fi/documents/overview/orencia-epar-medicine-overview_fi.pdf)
 
 svenska (SV) (109.78 KB - PDF)
 
-**First published:**
-
-05/06/2007
-
-**Last updated:**
-
-12/04/2019
+**First published:** 05/06/2007 **Last updated:** 12/04/2019
 
 [View](/sv/documents/overview/orencia-epar-medicine-overview_sv.pdf)
 
-Orencia : EPAR - Risk-management-plan summary
+Orencia : EPAR - Risk management plan
 
-English (EN) (354.17 KB - PDF)
+English (EN) (13.93 MB - PDF)
 
-**First published:** 12/04/2019
+**First published:** 12/04/2019 **Last updated:** 11/05/2026
 
-**Last updated:** 19/07/2019
-
-[View](/en/documents/rmp-summary/orencia-epar-risk-management-plan-summary_en.pdf)
+[View](/en/documents/rmp/orencia-epar-risk-management-plan_en.pdf)
 
 ## Product information
 
 Orencia : EPAR - Product Information
 
-English (EN) (1.99 MB - PDF)
+English (EN) (2.08 MB - PDF)
 
-**First published:** 08/07/2009
-
-**Last updated:** 26/06/2025
+**First published:** 08/07/2009 **Last updated:** 11/05/2026
 
 [View](/en/documents/product-information/orencia-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-425)
+[Other languages (24)](#file-language-dropdown-450)
 
-български (BG) (2.32 MB - PDF)
+български (BG) (2.64 MB - PDF)
 
-**First published:**
-
-08/07/2009
-
-**Last updated:**
-
-26/06/2025
+**First published:** 08/07/2009 **Last updated:** 11/05/2026
 
 [View](/bg/documents/product-information/orencia-epar-product-information_bg.pdf)
 
-español (ES) (2 MB - PDF)
+español (ES) (2.3 MB - PDF)
 
-**First published:**
-
-08/07/2009
-
-**Last updated:**
-
-26/06/2025
+**First published:** 08/07/2009 **Last updated:** 11/05/2026
 
 [View](/es/documents/product-information/orencia-epar-product-information_es.pdf)
 
-čeština (CS) (2.29 MB - PDF)
+čeština (CS) (2.59 MB - PDF)
 
-**First published:**
-
-08/07/2009
-
-**Last updated:**
-
-26/06/2025
+**First published:** 08/07/2009 **Last updated:** 11/05/2026
 
 [View](/cs/documents/product-information/orencia-epar-product-information_cs.pdf)
 
-dansk (DA) (2.01 MB - PDF)
+dansk (DA) (2.34 MB - PDF)
 
-**First published:**
-
-08/07/2009
-
-**Last updated:**
-
-26/06/2025
+**First published:** 08/07/2009 **Last updated:** 11/05/2026
 
 [View](/da/documents/product-information/orencia-epar-product-information_da.pdf)
 
-Deutsch (DE) (2.09 MB - PDF)
+Deutsch (DE) (2.42 MB - PDF)
 
-**First published:**
-
-08/07/2009
-
-**Last updated:**
-
-26/06/2025
+**First published:** 08/07/2009 **Last updated:** 11/05/2026
 
 [View](/de/documents/product-information/orencia-epar-product-information_de.pdf)
 
-eesti keel (ET) (2.02 MB - PDF)
+eesti keel (ET) (2.3 MB - PDF)
 
-**First published:**
-
-08/07/2009
-
-**Last updated:**
-
-26/06/2025
+**First published:** 08/07/2009 **Last updated:** 11/05/2026
 
 [View](/et/documents/product-information/orencia-epar-product-information_et.pdf)
 
-ελληνικά (EL) (2.31 MB - PDF)
+ελληνικά (EL) (2.4 MB - PDF)
 
-**First published:**
-
-08/07/2009
-
-**Last updated:**
-
-26/06/2025
+**First published:** 08/07/2009 **Last updated:** 11/05/2026
 
 [View](/el/documents/product-information/orencia-epar-product-information_el.pdf)
 
-français (FR) (2 MB - PDF)
+français (FR) (2.37 MB - PDF)
 
-**First published:**
-
-08/07/2009
-
-**Last updated:**
-
-26/06/2025
+**First published:** 08/07/2009 **Last updated:** 11/05/2026
 
 [View](/fr/documents/product-information/orencia-epar-product-information_fr.pdf)
 
-hrvatski (HR) (2.2 MB - PDF)
+hrvatski (HR) (2.53 MB - PDF)
 
-**First published:**
-
-08/07/2009
-
-**Last updated:**
-
-26/06/2025
+**First published:** 08/07/2009 **Last updated:** 11/05/2026
 
 [View](/hr/documents/product-information/orencia-epar-product-information_hr.pdf)
 
-íslenska (IS) (1.95 MB - PDF)
+íslenska (IS) (2.24 MB - PDF)
 
-**First published:**
-
-08/07/2009
-
-**Last updated:**
-
-26/06/2025
+**First published:** 08/07/2009 **Last updated:** 11/05/2026
 
 [View](/is/documents/product-information/orencia-epar-product-information_is.pdf)
 
-italiano (IT) (1.98 MB - PDF)
+italiano (IT) (2.27 MB - PDF)
 
-**First published:**
-
-08/07/2009
-
-**Last updated:**
-
-26/06/2025
+**First published:** 08/07/2009 **Last updated:** 11/05/2026
 
 [View](/it/documents/product-information/orencia-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (2.23 MB - PDF)
+latviešu valoda (LV) (2.52 MB - PDF)
 
-**First published:**
-
-08/07/2009
-
-**Last updated:**
-
-26/06/2025
+**First published:** 08/07/2009 **Last updated:** 11/05/2026
 
 [View](/lv/documents/product-information/orencia-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (2.2 MB - PDF)
+lietuvių kalba (LT) (2.03 MB - PDF)
 
-**First published:**
-
-08/07/2009
-
-**Last updated:**
-
-26/06/2025
+**First published:** 08/07/2009 **Last updated:** 11/05/2026
 
 [View](/lt/documents/product-information/orencia-epar-product-information_lt.pdf)
 
-magyar (HU) (2.27 MB - PDF)
+magyar (HU) (2.56 MB - PDF)
 
-**First published:**
-
-08/07/2009
-
-**Last updated:**
-
-26/06/2025
+**First published:** 08/07/2009 **Last updated:** 11/05/2026
 
 [View](/hu/documents/product-information/orencia-epar-product-information_hu.pdf)
 
-Malti (MT) (2.29 MB - PDF)
+Malti (MT) (2.51 MB - PDF)
 
-**First published:**
-
-08/07/2009
-
-**Last updated:**
-
-26/06/2025
+**First published:** 08/07/2009 **Last updated:** 11/05/2026
 
 [View](/mt/documents/product-information/orencia-epar-product-information_mt.pdf)
 
-Nederlands (NL) (2.01 MB - PDF)
+Nederlands (NL) (2.32 MB - PDF)
 
-**First published:**
-
-08/07/2009
-
-**Last updated:**
-
-26/06/2025
+**First published:** 08/07/2009 **Last updated:** 11/05/2026
 
 [View](/nl/documents/product-information/orencia-epar-product-information_nl.pdf)
 
-norsk (NO) (1.99 MB - PDF)
+norsk (NO) (2.27 MB - PDF)
 
-**First published:**
-
-08/07/2009
-
-**Last updated:**
-
-26/06/2025
+**First published:** 08/07/2009 **Last updated:** 11/05/2026
 
 [View](/no/documents/product-information/orencia-epar-product-information_no.pdf)
 
-polski (PL) (2.34 MB - PDF)
+polski (PL) (2.56 MB - PDF)
 
-**First published:**
-
-08/07/2009
-
-**Last updated:**
-
-26/06/2025
+**First published:** 08/07/2009 **Last updated:** 11/05/2026
 
 [View](/pl/documents/product-information/orencia-epar-product-information_pl.pdf)
 
-português (PT) (1.99 MB - PDF)
+português (PT) (2.29 MB - PDF)
 
-**First published:**
-
-08/07/2009
-
-**Last updated:**
-
-26/06/2025
+**First published:** 08/07/2009 **Last updated:** 11/05/2026
 
 [View](/pt/documents/product-information/orencia-epar-product-information_pt.pdf)
 
-română (RO) (2.25 MB - PDF)
+română (RO) (2.7 MB - PDF)
 
-**First published:**
-
-08/07/2009
-
-**Last updated:**
-
-26/06/2025
+**First published:** 08/07/2009 **Last updated:** 11/05/2026
 
 [View](/ro/documents/product-information/orencia-epar-product-information_ro.pdf)
 
-slovenčina (SK) (2.3 MB - PDF)
+slovenčina (SK) (2.77 MB - PDF)
 
-**First published:**
-
-08/07/2009
-
-**Last updated:**
-
-26/06/2025
+**First published:** 08/07/2009 **Last updated:** 11/05/2026
 
 [View](/sk/documents/product-information/orencia-epar-product-information_sk.pdf)
 
-slovenščina (SL) (2.26 MB - PDF)
+slovenščina (SL) (2.75 MB - PDF)
 
-**First published:**
-
-08/07/2009
-
-**Last updated:**
-
-26/06/2025
+**First published:** 08/07/2009 **Last updated:** 11/05/2026
 
 [View](/sl/documents/product-information/orencia-epar-product-information_sl.pdf)
 
-Suomi (FI) (2.01 MB - PDF)
+Suomi (FI) (2.36 MB - PDF)
 
-**First published:**
-
-08/07/2009
-
-**Last updated:**
-
-26/06/2025
+**First published:** 08/07/2009 **Last updated:** 11/05/2026
 
 [View](/fi/documents/product-information/orencia-epar-product-information_fi.pdf)
 
-svenska (SV) (2 MB - PDF)
+svenska (SV) (2.3 MB - PDF)
 
-**First published:**
-
-08/07/2009
-
-**Last updated:**
-
-26/06/2025
+**First published:** 08/07/2009 **Last updated:** 11/05/2026
 
 [View](/sv/documents/product-information/orencia-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** IB/0168 24/06/2024
+**Latest procedure affecting product information:** VR/0000287898
+
+12/03/2026
 
 icon globe
 
@@ -734,311 +454,179 @@ Orencia : EPAR - All Authorised presentations
 
 English (EN) (100.53 KB - PDF)
 
-**First published:** 05/06/2007
-
-**Last updated:** 12/04/2019
+**First published:** 05/06/2007 **Last updated:** 12/04/2019
 
 [View](/en/documents/all-authorised-presentations/orencia-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-187)
+[Other languages (24)](#file-language-dropdown-318)
 
 български (BG) (73.14 KB - PDF)
 
-**First published:**
-
-05/06/2007
-
-**Last updated:**
-
-12/04/2019
+**First published:** 05/06/2007 **Last updated:** 12/04/2019
 
 [View](/bg/documents/all-authorised-presentations/orencia-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (67.26 KB - PDF)
 
-**First published:**
-
-05/06/2007
-
-**Last updated:**
-
-12/04/2019
+**First published:** 05/06/2007 **Last updated:** 12/04/2019
 
 [View](/es/documents/all-authorised-presentations/orencia-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (117.98 KB - PDF)
 
-**First published:**
-
-05/06/2007
-
-**Last updated:**
-
-12/04/2019
+**First published:** 05/06/2007 **Last updated:** 12/04/2019
 
 [View](/cs/documents/all-authorised-presentations/orencia-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (56.2 KB - PDF)
 
-**First published:**
-
-05/06/2007
-
-**Last updated:**
-
-12/04/2019
+**First published:** 05/06/2007 **Last updated:** 12/04/2019
 
 [View](/da/documents/all-authorised-presentations/orencia-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (56.62 KB - PDF)
 
-**First published:**
-
-05/06/2007
-
-**Last updated:**
-
-12/04/2019
+**First published:** 05/06/2007 **Last updated:** 12/04/2019
 
 [View](/de/documents/all-authorised-presentations/orencia-epar-all-authorised-presentations_de.pdf)
 
 eesti keel (ET) (102.86 KB - PDF)
 
-**First published:**
-
-05/06/2007
-
-**Last updated:**
-
-12/04/2019
+**First published:** 05/06/2007 **Last updated:** 12/04/2019
 
 [View](/et/documents/all-authorised-presentations/orencia-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (74.96 KB - PDF)
 
-**First published:**
-
-05/06/2007
-
-**Last updated:**
-
-12/04/2019
+**First published:** 05/06/2007 **Last updated:** 12/04/2019
 
 [View](/el/documents/all-authorised-presentations/orencia-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (38.68 KB - PDF)
 
-**First published:**
-
-05/06/2007
-
-**Last updated:**
-
-12/04/2019
+**First published:** 05/06/2007 **Last updated:** 12/04/2019
 
 [View](/fr/documents/all-authorised-presentations/orencia-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (66.9 KB - PDF)
 
-**First published:**
-
-05/06/2007
-
-**Last updated:**
-
-12/04/2019
+**First published:** 05/06/2007 **Last updated:** 12/04/2019
 
 [View](/hr/documents/all-authorised-presentations/orencia-epar-all-authorised-presentations_hr.pdf)
 
 íslenska (IS) (53.86 KB - PDF)
 
-**First published:**
-
-05/06/2007
-
-**Last updated:**
-
-12/04/2019
+**First published:** 05/06/2007 **Last updated:** 12/04/2019
 
 [View](/is/documents/all-authorised-presentations/orencia-epar-all-authorised-presentations_is.pdf)
 
 italiano (IT) (103.69 KB - PDF)
 
-**First published:**
-
-05/06/2007
-
-**Last updated:**
-
-12/04/2019
+**First published:** 05/06/2007 **Last updated:** 12/04/2019
 
 [View](/it/documents/all-authorised-presentations/orencia-epar-all-authorised-presentations_it.pdf)
 
 latviešu valoda (LV) (127.01 KB - PDF)
 
-**First published:**
-
-05/06/2007
-
-**Last updated:**
-
-12/04/2019
+**First published:** 05/06/2007 **Last updated:** 12/04/2019
 
 [View](/lv/documents/all-authorised-presentations/orencia-epar-all-authorised-presentations_lv.pdf)
 
 lietuvių kalba (LT) (121 KB - PDF)
 
-**First published:**
-
-05/06/2007
-
-**Last updated:**
-
-12/04/2019
+**First published:** 05/06/2007 **Last updated:** 12/04/2019
 
 [View](/lt/documents/all-authorised-presentations/orencia-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (129.11 KB - PDF)
 
-**First published:**
-
-05/06/2007
-
-**Last updated:**
-
-12/04/2019
+**First published:** 05/06/2007 **Last updated:** 12/04/2019
 
 [View](/hu/documents/all-authorised-presentations/orencia-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (125.91 KB - PDF)
 
-**First published:**
-
-05/06/2007
-
-**Last updated:**
-
-12/04/2019
+**First published:** 05/06/2007 **Last updated:** 12/04/2019
 
 [View](/mt/documents/all-authorised-presentations/orencia-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (96.14 KB - PDF)
 
-**First published:**
-
-05/06/2007
-
-**Last updated:**
-
-12/04/2019
+**First published:** 05/06/2007 **Last updated:** 12/04/2019
 
 [View](/nl/documents/all-authorised-presentations/orencia-epar-all-authorised-presentations_nl.pdf)
 
 norsk (NO) (98.61 KB - PDF)
 
-**First published:**
-
-05/06/2007
-
-**Last updated:**
-
-12/04/2019
+**First published:** 05/06/2007 **Last updated:** 12/04/2019
 
 [View](/no/documents/all-authorised-presentations/orencia-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (129.3 KB - PDF)
 
-**First published:**
-
-05/06/2007
-
-**Last updated:**
-
-12/04/2019
+**First published:** 05/06/2007 **Last updated:** 12/04/2019
 
 [View](/pl/documents/all-authorised-presentations/orencia-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (103.85 KB - PDF)
 
-**First published:**
-
-05/06/2007
-
-**Last updated:**
-
-12/04/2019
+**First published:** 05/06/2007 **Last updated:** 12/04/2019
 
 [View](/pt/documents/all-authorised-presentations/orencia-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (122.5 KB - PDF)
 
-**First published:**
-
-05/06/2007
-
-**Last updated:**
-
-12/04/2019
+**First published:** 05/06/2007 **Last updated:** 12/04/2019
 
 [View](/ro/documents/all-authorised-presentations/orencia-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (127.34 KB - PDF)
 
-**First published:**
-
-05/06/2007
-
-**Last updated:**
-
-12/04/2019
+**First published:** 05/06/2007 **Last updated:** 12/04/2019
 
 [View](/sk/documents/all-authorised-presentations/orencia-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (114.85 KB - PDF)
 
-**First published:**
-
-05/06/2007
-
-**Last updated:**
-
-12/04/2019
+**First published:** 05/06/2007 **Last updated:** 12/04/2019
 
 [View](/sl/documents/all-authorised-presentations/orencia-epar-all-authorised-presentations_sl.pdf)
 
 Suomi (FI) (52.4 KB - PDF)
 
-**First published:**
-
-05/06/2007
-
-**Last updated:**
-
-12/04/2019
+**First published:** 05/06/2007 **Last updated:** 12/04/2019
 
 [View](/fi/documents/all-authorised-presentations/orencia-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (103.61 KB - PDF)
 
-**First published:**
-
-05/06/2007
-
-**Last updated:**
-
-12/04/2019
+**First published:** 05/06/2007 **Last updated:** 12/04/2019
 
 [View](/sv/documents/all-authorised-presentations/orencia-epar-all-authorised-presentations_sv.pdf)
 
 ## Product details
 
-Name of medicine Orencia Active substance abatacept International non-proprietary name (INN) or common name abatacept Therapeutic area (MeSH)
+Name of medicine
+
+Orencia
+
+Active substance
+
+abatacept
+
+International non-proprietary name (INN) or common name
+
+abatacept
+
+Therapeutic area (MeSH)
 
 - Arthritis, Psoriatic
 - Arthritis, Juvenile Rheumatoid
 - Arthritis, Rheumatoid
 
-Anatomical therapeutic chemical (ATC) code L04AA24
+Anatomical therapeutic chemical (ATC) code
+
+L04AA24
 
 ### Pharmacotherapeutic group
 
@@ -1065,13 +653,27 @@ Orencia can be given as monotherapy in case of intolerance to methotrexate or wh
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/000701 Marketing authorisation holder
+EMA product number
+
+EMEA/H/C/000701
+
+Marketing authorisation holder
 
 Bristol-Myers Squibb Pharma EEIG
 
 Plaza 254 Blanchardstown Corporate Park 2 Dublin 15 D15 T867 Ireland
 
-Opinion adopted 22/03/2007 Marketing authorisation issued 21/05/2007 Revision 41
+Opinion adopted
+
+22/03/2007
+
+Marketing authorisation issued
+
+21/05/2007
+
+Revision
+
+43
 
 ## Assessment history
 
@@ -1083,19 +685,23 @@ Collapse section
 
 Orencia : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (357.57 KB - PDF)
+English (EN) (150.78 KB - PDF)
 
-**First published:** 05/06/2007
-
-**Last updated:** 27/06/2024
+**First published:** 11/05/2026
 
 [View](/en/documents/procedural-steps-after/orencia-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
+Orencia : EPAR - Procedural steps taken and scientific information after authorisation (archive)
+
+English (EN) (409.5 KB - PDF)
+
+**First published:** 05/06/2007 **Last updated:** 11/05/2026
+
+[View](/en/documents/procedural-steps-after/orencia-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
+
 Orencia-H-C-000701-P46-072 : EPAR - Assessment Report
 
-Adopted
-
-Reference Number: EMA/165651/2025
+Adopted Reference Number: EMA/165651/2025
 
 English (EN) (486.42 KB - PDF)
 
@@ -1105,9 +711,7 @@ English (EN) (486.42 KB - PDF)
 
 Orencia-H-C-000701-P46-067 : EPAR - Assessment Report
 
-Adopted
-
-Reference Number: EMA/696828/2021
+Adopted Reference Number: EMA/696828/2021
 
 English (EN) (650.17 KB - PDF)
 
@@ -1117,9 +721,7 @@ English (EN) (650.17 KB - PDF)
 
 Orencia-H-C-701-P46-065 : EPAR - Assessment Report
 
-Adopted
-
-Reference Number: EMA/485288/2020
+Adopted Reference Number: EMA/485288/2020
 
 English (EN) (1.98 MB - PDF)
 
@@ -1129,9 +731,7 @@ English (EN) (1.98 MB - PDF)
 
 Orencia-H-C-701-II-0134 : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/692959/2019
+Adopted Reference Number: EMA/692959/2019
 
 English (EN) (418.06 KB - PDF)
 
@@ -1141,9 +741,7 @@ English (EN) (418.06 KB - PDF)
 
 Orencia-H-C-701-P46-064 : EPAR - Assessment Report
 
-Adopted
-
-Reference Number: EMA/257651/2019
+Adopted Reference Number: EMA/257651/2019
 
 English (EN) (830.37 KB - PDF)
 
@@ -1153,9 +751,7 @@ English (EN) (830.37 KB - PDF)
 
 Orencia-H-C-701-P46-063 : EPAR - Assessment Report
 
-Adopted
-
-Reference Number: EMA/191269/2019
+Adopted Reference Number: EMA/191269/2019
 
 English (EN) (452.56 KB - PDF)
 
@@ -1165,9 +761,7 @@ English (EN) (452.56 KB - PDF)
 
 Orencia-H-C-000701-X-117-G : EPAR - Assessment report - Extension
 
-Adopted
-
-Reference Number: EMA/126226/2019
+Adopted Reference Number: EMA/126226/2019
 
 English (EN) (2.36 MB - PDF)
 
@@ -1177,9 +771,7 @@ English (EN) (2.36 MB - PDF)
 
 CHMP post-authorisation summary of positive opinion for Orencia (X-117-G)
 
-Adopted
-
-Reference Number: EMA/CHMP/917551/2019
+Adopted Reference Number: EMA/CHMP/917551/2019
 
 English (EN) (83.69 KB - PDF)
 
@@ -1193,9 +785,7 @@ Reference Number: EMA/455579/2017
 
 English (EN) (4.54 MB - PDF)
 
-**First published:** 09/08/2017
-
-**Last updated:** 09/08/2017
+**First published:** 09/08/2017 **Last updated:** 09/08/2017
 
 [View](/en/documents/variation-report/orencia-h-c-701-ii-0105-epar-assessment-report-variation_en.pdf)
 
@@ -1205,51 +795,37 @@ Reference Number: EMA/CHMP/368672/2017
 
 English (EN) (124.44 KB - PDF)
 
-**First published:** 23/06/2017
-
-**Last updated:** 23/06/2017
+**First published:** 23/06/2017 **Last updated:** 23/06/2017
 
 [View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-orencia_en.pdf-0)
 
 Orencia-H-C-701-II-0097 : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/639090/2016
+Adopted Reference Number: EMA/639090/2016
 
 English (EN) (2.43 MB - PDF)
 
-**First published:** 08/11/2016
-
-**Last updated:** 08/11/2016
+**First published:** 08/11/2016 **Last updated:** 08/11/2016
 
 [View](/en/documents/variation-report/orencia-h-c-701-ii-0097-epar-assessment-report-variation_en.pdf)
 
 CHMP post-authorisation summary of positive opinion for Orencia
 
-Adopted
-
-Reference Number: EMA/CHMP/486928/2016
+Adopted Reference Number: EMA/CHMP/486928/2016
 
 English (EN) (53.55 KB - PDF)
 
-**First published:** 22/07/2016
-
-**Last updated:** 22/07/2016
+**First published:** 22/07/2016 **Last updated:** 22/07/2016
 
 [View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-orencia_en.pdf-2)
 
 Orencia-H-C-701-P46-0039 : EPAR - Assessment Report
 
-Adopted
-
-Reference Number: EMA/763437/2012
+Adopted Reference Number: EMA/763437/2012
 
 English (EN) (261.05 KB - PDF)
 
-**First published:** 29/11/2012
-
-**Last updated:** 29/11/2012
+**First published:** 29/11/2012 **Last updated:** 29/11/2012
 
 [View](/en/documents/variation-report/orencia-h-c-701-p46-0039-epar-assessment-report_en.pdf)
 
@@ -1259,37 +835,27 @@ Adopted
 
 English (EN) (387.58 KB - PDF)
 
-**First published:** 23/07/2010
-
-**Last updated:** 23/07/2010
+**First published:** 23/07/2010 **Last updated:** 23/07/2010
 
 [View](/en/documents/scientific-discussion-variation/orencia-h-c-701-ii-0033-epar-scientific-discussion-variation_en.pdf)
 
 CHMP post-authorisation summary of positive opinion for Orencia
 
-Adopted
-
-Reference Number: EMA/CHMP/316572/2010
+Adopted Reference Number: EMA/CHMP/316572/2010
 
 English (EN) (63.6 KB - PDF)
 
-**First published:** 21/05/2010
-
-**Last updated:** 21/05/2010
+**First published:** 21/05/2010 **Last updated:** 21/05/2010
 
 [View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-orencia_en.pdf)
 
 CHMP post-authorisation summary of positive opinion for Orencia
 
-Adopted
-
-Reference Number: EMA/CHMP/811199/2009
+Adopted Reference Number: EMA/CHMP/811199/2009
 
 English (EN) (31.99 KB - PDF)
 
-**First published:** 17/12/2009
-
-**Last updated:** 17/12/2009
+**First published:** 17/12/2009 **Last updated:** 17/12/2009
 
 [View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-orencia_en.pdf-1)
 
@@ -1299,9 +865,7 @@ Orencia : EPAR - Scientific Discussion
 
 English (EN) (370.84 KB - PDF)
 
-**First published:** 05/06/2007
-
-**Last updated:** 05/06/2007
+**First published:** 05/06/2007 **Last updated:** 05/06/2007
 
 [View](/en/documents/scientific-discussion/orencia-epar-scientific-discussion_en.pdf)
 
@@ -1309,23 +873,29 @@ Orencia : EPAR - Procedural steps taken before authorisation
 
 English (EN) (17.03 KB - PDF)
 
-**First published:** 05/06/2007
-
-**Last updated:** 05/06/2007
+**First published:** 05/06/2007 **Last updated:** 05/06/2007
 
 [View](/en/documents/procedural-steps/orencia-epar-procedural-steps-taken-authorisation_en.pdf)
 
-#### News on Orencia
+## News on Orencia
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 18-21 March 2024](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-18-21-march-2024) 22/03/2024
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 18-21 March 2024](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-18-21-march-2024)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 28-31 January 2019](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-28-31-january-2019) 01/02/2019
+22/03/2024
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 19-22 June 2017](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-19-22-june-2017) 23/06/2017
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 28-31 January 2019](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-28-31-january-2019)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 18-21 July 2016](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-18-21-july-2016) 22/07/2016
+01/02/2019
 
-#### More information on Orencia
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 19-22 June 2017](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-19-22-june-2017)
+
+23/06/2017
+
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 18-21 July 2016](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-18-21-july-2016)
+
+22/07/2016
+
+## More information on Orencia
 
 - [EMEA-000118-PIP01-07-M01 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-000118-pip01-07-m01)
 - [EMEA-000118-PIP02-10-M03 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-000118-pip02-10-m03)
@@ -1335,12 +905,12 @@ English (EN) (17.03 KB - PDF)
 - [A Nationwide Post-Marketing Study on the Safety of Abatacept Treatment in Denmark Using the DANBIO Register - post-authorisation study](https://catalogues.ema.europa.eu/study/32096)
 - [A Nationwide Post-Marketing Study on the Safety of Abatacept Treatment in Sweden Using the SRQ Register - post-authorisation study](https://catalogues.ema.europa.eu/study/32093)
 
-#### Topics
+## Topics
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 19/05/2025
+**This page was last updated on**
+
+11/05/2026
 
 ## Share this page
-
-[Back to top](#main-content)

@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-11-18 11:43:17
-document_pages: 152
+document_datetime: 2026-05-11 10:05:06
+document_pages: 176
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/omlyclo-epar-product-information_en.pdf
 document_name: omlyclo-epar-product-information_en.pdf
 version: success
-processing_time: 52.3793801
-conversion_datetime: 2025-12-19 03:49:18.562914
+processing_time: 59.5198042
+conversion_datetime: 2026-05-13 13:14:56.487498
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.17.0
+  docling-jobkit: 1.18.0
+  docling: 2.92.0
+  docling-core: 2.74.1
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.10.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -98,37 +98,30 @@ The maximum recommended dose is 600 mg omalizumab every two weeks.
 
 Table 1 Conversion from dose to number of pre-filled syringes/pens*, number of injections** and total injection volume for each administration
 
-| Dose (mg)   | Number of syringes/pens*   | Number of syringes/pens*   | Number of syringes/pens*   | Number of injections**   | Total injection volume (ml)   |
+|   Dose (mg) | Number of syringes/pens*   | Number of syringes/pens*   | Number of syringes/pens*   |   Number of injections** |   Total injection volume (ml) |
 |-------------|----------------------------|----------------------------|----------------------------|--------------------------|-------------------------------|
 |             | 75 mg                      | 150 mg                     | 300 mg *                   |                          |                               |
-| 75          | 1                          | 0                          | 0                          | 1                        | 0.5                           |
-| 150         | 0                          | 1                          | 0                          | 1                        | 1.0                           |
-| 225         | 1                          | 1                          | 0                          | 2                        | 1.5                           |
-| 300         | 0                          | 0                          | 1                          | 1                        | 2.0                           |
-| 375         | 1                          | 0                          | 1                          | 2                        | 2.5                           |
-| 450         | 0                          | 1                          | 1                          | 2                        | 3.0                           |
-| 525         | 1                          | 1                          | 1                          | 3                        | 3.5                           |
-| 600         | 0                          | 0                          | 2                          | 2                        | 4.0                           |
-
-*Omlyclo 300 mg pre-filled syringe and all dose strengths (75 mg and 150 mg) of pre-filled pen are not intended for use in patients &lt;12 years of age.
-
-** This table represents the least number of injections for the patients, however there are other syringe/pen dosing combinations possible to achieve the desired dose.
+|          75 | 1                          | 0                          | 0                          |                        1 |                           0.5 |
+|         150 | 0                          | 1                          | 0                          |                        1 |                           1.0 |
+|         225 | 1                          | 1                          | 0                          |                        2 |                           1.5 |
+|         300 | 0                          | 0                          | 1                          |                        1 |                           2.0 |
+|         375 | 1                          | 0                          | 1                          |                        2 |                           2.5 |
+|         450 | 0                          | 1                          | 1                          |                        2 |                           3.0 |
+|         525 | 1                          | 1                          | 1                          |                        3 |                           3.5 |
+|         600 | 0                          | 0                          | 2                          |                        2 |                           4.0 |
 
 Table 2 ADMINISTRATION EVERY 4 WEEKS. Omalizumab doses (milligrams per dose) administered by subcutaneous injection every 4 weeks
 
-| Baseline IgE (IU/ml)                      | ≥ 20 - 25*                               | > 25 - 30*                               | > 30 - 40                                | > 40 - 50                                | > 50 - 60                                | > 60 - 70                                | > 70 - 80                                | > 80 - 90                                | > 90 - 125                               | > 125 - 150                              |
-|-------------------------------------------|------------------------------------------|------------------------------------------|------------------------------------------|------------------------------------------|------------------------------------------|------------------------------------------|------------------------------------------|------------------------------------------|------------------------------------------|------------------------------------------|
-| ≥ 30 - 100                                | 75                                       | 75                                       | 75                                       | 150                                      | 150                                      | 150                                      | 150                                      | 150                                      | 300                                      | 300                                      |
-| > 100 - 200                               | 150                                      | 150                                      | 150                                      | 300                                      | 300                                      | 300                                      | 300                                      | 300                                      | 450                                      | 600                                      |
-| > 200 - 300                               | 150                                      | 150                                      | 225                                      | 300                                      | 300                                      | 450                                      | 450                                      | 450                                      | 600                                      |                                          |
-| > 300 - 400                               | 225                                      | 225                                      | 300                                      | 450                                      | 450                                      | 450                                      | 600                                      | 600                                      |                                          |                                          |
-| > 400 - 500                               | 225                                      | 300                                      | 450                                      | 450                                      | 600                                      | 600                                      |                                          |                                          |                                          |                                          |
-| > 500 - 600                               | 300                                      | 300                                      | 450                                      | 600                                      | 600                                      |                                          |                                          |                                          |                                          |                                          |
-| > 600 - 700                               | 300                                      |                                          | 450                                      | 600                                      |                                          |                                          |                                          |                                          |                                          |                                          |
-| > 700 - 800                               |                                          |                                          |                                          |                                          |                                          |                                          |                                          |                                          |                                          |                                          |
-| > 800 - 900 > 900 - 1,000 > 1,000 - 1,100 | ADMINISTRATION EVERY 2 WEEKS SEE TABLE 3 | ADMINISTRATION EVERY 2 WEEKS SEE TABLE 3 | ADMINISTRATION EVERY 2 WEEKS SEE TABLE 3 | ADMINISTRATION EVERY 2 WEEKS SEE TABLE 3 | ADMINISTRATION EVERY 2 WEEKS SEE TABLE 3 | ADMINISTRATION EVERY 2 WEEKS SEE TABLE 3 | ADMINISTRATION EVERY 2 WEEKS SEE TABLE 3 | ADMINISTRATION EVERY 2 WEEKS SEE TABLE 3 | ADMINISTRATION EVERY 2 WEEKS SEE TABLE 3 | ADMINISTRATION EVERY 2 WEEKS SEE TABLE 3 |
-
-*Body weights below 30 kg were not studied in the pivotal trials for CRSwNP.
+| Baseline IgE (IU/ml)                                  | ≥ 20 - 25*                               | > 25 - 30*                               | > 30 - 40                                | > 40 - 50                                | > 50 - 60                                | > 60 - 70                                | > 70 - 80                                | > 80 - 90                                | > 90 - 125                               | > 125 - 150                              |
+|-------------------------------------------------------|------------------------------------------|------------------------------------------|------------------------------------------|------------------------------------------|------------------------------------------|------------------------------------------|------------------------------------------|------------------------------------------|------------------------------------------|------------------------------------------|
+| ≥ 30 - 100                                            | 75                                       | 75                                       | 75                                       | 150                                      | 150                                      | 150                                      | 150                                      | 150                                      | 300                                      | 300                                      |
+| > 100 - 200                                           | 150                                      | 150                                      | 150                                      | 300                                      | 300                                      | 300                                      | 300                                      | 300                                      | 450                                      | 600                                      |
+| > 200 - 300                                           | 150                                      | 150                                      | 225                                      | 300                                      | 300                                      | 450                                      | 450                                      | 450                                      | 600                                      |                                          |
+| > 300 - 400                                           | 225                                      | 225                                      | 300                                      | 450                                      | 450                                      | 450                                      | 600                                      | 600                                      |                                          |                                          |
+| > 400 - 500                                           | 225                                      | 300                                      | 450                                      | 450                                      | 600                                      | 600                                      |                                          |                                          |                                          |                                          |
+| > 500 - 600                                           | 300                                      | 300                                      | 450                                      | 600                                      | 600                                      |                                          |                                          |                                          |                                          |                                          |
+| > 600 - 700                                           | 300                                      |                                          | 450                                      | 600                                      |                                          |                                          |                                          |                                          |                                          |                                          |
+| > 700 - 800 > 800 - 900 > 900 - 1,000 > 1,000 - 1,100 | ADMINISTRATION EVERY 2 WEEKS SEE TABLE 3 | ADMINISTRATION EVERY 2 WEEKS SEE TABLE 3 | ADMINISTRATION EVERY 2 WEEKS SEE TABLE 3 | ADMINISTRATION EVERY 2 WEEKS SEE TABLE 3 | ADMINISTRATION EVERY 2 WEEKS SEE TABLE 3 | ADMINISTRATION EVERY 2 WEEKS SEE TABLE 3 | ADMINISTRATION EVERY 2 WEEKS SEE TABLE 3 | ADMINISTRATION EVERY 2 WEEKS SEE TABLE 3 | ADMINISTRATION EVERY 2 WEEKS SEE TABLE 3 | ADMINISTRATION EVERY 2 WEEKS SEE TABLE 3 |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -136,9 +129,25 @@ Table 3 ADMINSTRATION EVERY 2 WEEKS. Omalizumab doses (milligrams per dose) admi
 
 <!-- image -->
 
+| Baseline IgE (IU/ml)   | ≥ 20 - 25*                               | > 25 - 30*                               | > 30 - 40                                | > 40 - 50                                | > 50 - 60                                | > 60 - 70                                | > 70 - 80                                | > 80 - 90                                | > 90 - 125                               | > 125 - 150                              |
+|------------------------|------------------------------------------|------------------------------------------|------------------------------------------|------------------------------------------|------------------------------------------|------------------------------------------|------------------------------------------|------------------------------------------|------------------------------------------|------------------------------------------|
+| ≥ 30 - 100 > 100 - 200 | ADMINISTRATION EVERY 4 WEEKS SEE TABLE 2 | ADMINISTRATION EVERY 4 WEEKS SEE TABLE 2 | ADMINISTRATION EVERY 4 WEEKS SEE TABLE 2 | ADMINISTRATION EVERY 4 WEEKS SEE TABLE 2 | ADMINISTRATION EVERY 4 WEEKS SEE TABLE 2 | ADMINISTRATION EVERY 4 WEEKS SEE TABLE 2 | ADMINISTRATION EVERY 4 WEEKS SEE TABLE 2 | ADMINISTRATION EVERY 4 WEEKS SEE TABLE 2 | ADMINISTRATION EVERY 4 WEEKS SEE TABLE 2 | ADMINISTRATION EVERY 4 WEEKS SEE TABLE 2 |
+| > 200 - 300            |                                          |                                          |                                          |                                          |                                          |                                          |                                          |                                          |                                          | 375                                      |
+| > 300 - 400            |                                          |                                          |                                          |                                          |                                          |                                          |                                          |                                          | 450                                      | 525                                      |
+| > 400 - 500            |                                          |                                          |                                          |                                          |                                          |                                          | 375                                      | 375                                      | 525                                      | 600                                      |
+| > 500 - 600            |                                          |                                          |                                          |                                          |                                          | 375                                      | 450                                      | 450                                      | 600                                      |                                          |
+| > 600 - 700            |                                          | 225                                      |                                          |                                          | 375                                      | 450                                      | 450                                      | 525                                      |                                          |                                          |
+| > 700 - 800            | 225                                      | 225                                      | 300                                      | 375                                      | 450                                      | 450                                      | 525                                      | 600                                      |                                          |                                          |
+| > 800 - 900            | 225                                      | 225                                      | 300                                      | 375                                      | 450                                      | 525                                      | 600                                      |                                          |                                          |                                          |
+| > 900 - 1,000          | 225                                      | 300                                      | 375                                      | 450                                      | 525                                      | 600                                      |                                          |                                          |                                          |                                          |
+| > 1,000 - 1,100        | 225                                      | 300                                      | 375                                      | 450                                      | 600                                      |                                          |                                          |                                          |                                          |                                          |
+| > 1,100 - 1,200        | 300                                      | 300                                      | 450                                      | 525                                      | 600                                      | Insufficient data to recommend a dose    | Insufficient data to recommend a dose    | Insufficient data to recommend a dose    | Insufficient data to recommend a dose    | Insufficient data to recommend a dose    |
+| > 1,200 - 1,300        | 300                                      | 375                                      | 450                                      | 525                                      |                                          |                                          |                                          |                                          |                                          |                                          |
+| > 1,300 - 1,500        | 300                                      | 375                                      | 525                                      | 600                                      |                                          |                                          |                                          |                                          |                                          |                                          |
+
 ## Treatment duration, monitoring and dose adjustments Allergic asthma
 
-Omlyclo is intended for long-term treatment. Clinical trials have demonstrated that it takes at least 12 -16 weeks for the treatment to show effectiveness. At 16 weeks after commencing Omlyclo therapy patients should be assessed by their physician for treatment effectiveness before further injections are administered. The decision to continue treatment following the 16-week timepoint, or on subsequent occasions, should be based on whether a marked improvement in overall asthma control is seen (see section 5 .1, Physician's overall assessment of treatment effectiveness).
+Omlyclo is intended for long-term treatment. Clinical trials have demonstrated that it takes at least 12 -16 weeks for the treatment to show effectiveness. At 16 weeks after commencing Omlyclo therapy patients should be assessed by their physician for treatment effectiveness before further injections are administered. The decision to continue treatment following the 16-week timepoint, or on subsequent occasions, should be based on whether a marked improvement in overall asthma control is seen (see section 5.1, Phy sician's overall assessment of treatment effectiveness).
 
 ## Chronic rhinosinusitis with nasal polyps (CRSwNP)
 
@@ -146,11 +155,9 @@ In clinical trials for CRSwNP, changes in nasal polyps score (NPS) and nasal con
 
 ## Allergic asthma and chronic rhinosinusitis with nasal polyps (CRSwNP)
 
-Discontinuation of treatment generally results in a return to elevated free IgE levels and associated symptoms. Total IgE levels are elevated during treatment and remain elevated for up to one year after
+Discontinuation of treatment generally results in a return to elevated free IgE levels and associated symptoms. Total IgE levels are elevated during treatment and remain elevated for up to one year after the discontinuation of treatment. Therefore, re-testing of IgE levels during treatment cannot be used as a guide for dose determination. Dose determination after treatment interruptions lasting less than one year should be based on serum IgE levels obtained at the initial dose determination. Total serum IgE levels may be re-tested for dose determination if treatment has been interrupted for one year or more.
 
 <div style=\"page-break-after: always\"></div>
-
-the discontinuation of treatment. Therefore, re-testing of IgE levels during treatment cannot be used as a guide for dose determination. Dose determination after treatment interruptions lasting less than one year should be based on serum IgE levels obtained at the initial dose determination. Total serum IgE levels may be re-tested for dose determination if treatment has been interrupted for one year or more.
 
 Doses should be adjusted for significant changes in body weight (see Tables 2 and 3).
 
@@ -174,7 +181,7 @@ In CRSwNP, the safety and efficacy of omalizumab in patients below the age of 18
 
 For subcutaneous administration only. Omalizumab must not be administered by the intravenous or intramuscular route.
 
-Omlyclo 300 mg pre-filled syringe and all dose strengths (75 mg and 150 mg) of pre-filled pen are not intended for use in children &lt;12 years of age. Omlyclo 75 mg pre-filled syringe and Omlyclo 150 mg pre-filled syringe may  be used in children 6 to 11 years of age with allergic asthma.
+Omlyclo 300 mg pre-filled syringe and all dose strengths of pre-filled pen are not intended for use in children &lt;12 years of age. Omlyclo 75 mg pre-filled syringe and Omlyclo 150 mg pre-filled syringe may be used in children 6 to 11 years of age with allergic asthma.
 
 If more than one injection is needed to achieve the required dose, injections should be divided across two or more injection sites (Table 1).
 
@@ -208,7 +215,7 @@ Abrupt discontinuation of systemic or inhaled corticosteroids after initiation o
 
 ## Allergic reactions type I
 
-Type I local or systemic allergic reactions, including anaphylaxis and anaphylactic shock, may occur when taking omalizumab, even after a long duration of treatment. However, most of these reactions occurred within 2 hours after the first and subsequent injections of omalizumab but some started beyond 2 hours and even beyond 24 hours after the injection. The majority of anaphylactic reactions occurred within the first 3 doses of omalizumab. Therefore, the first 3 doses must be administered either by or under the supervision of a healthcare professional. A history of anaphylaxis unrelated to omalizumab may be a risk factor for anaphylaxis following omalizumab administration. Therefore for patients with a known history of anaphylaxis, omalizumab must be administered by a health care professional, who should always have medicinal products for the treatment of anaphylactic reactions available for immediate use following administration of omalizumab. If an anaphylactic or other serious allergic reaction occurs, administration of omalizumab must be discontinued immediately, and appropriate therapy initiated. Patients should be informed that such reactions are possible, and prompt medical attention should be sought if allergic reactions occur.
+Type I local or systemic allergic reactions, including anaphylaxis and anaphylactic shock, may occur when taking omalizumab, even after a long duration of treatment. However, most of these reactions occurred within 2 hours after the first and subsequent injections of omalizumab but some started beyond 2 hours and even beyond 24 hours after the injection. The majority of anaphylactic reactions occurred within the first 3 doses of omalizumab. Therefore, the first 3 doses must be administered either by or under the supervision of a healthcare professional. A history of anaphylaxis unrelated to omalizumab may be a risk factor for anaphylaxis following omalizumab administration. Therefore, for patients with a known history of anaphylaxis, omalizumab must be administered by a health care professional, who should always have medicinal products for the treatment of anaphylactic reactions available for immediate use following administration of omalizumab. If an anaphylactic or other serious allergic reaction occurs, administration of omalizumab must be discontinued immediately, and appropriate therapy initiated. Patients should be informed that such reactions are possible, and prompt medical attention should be sought if allergic reactions occur.
 
 Antibodies to omalizumab have been detected in a low number of patients in clinical trials (see section 4.8). The clinical relevance of anti-omalizumab antibodies is not well understood.
 
@@ -226,7 +233,7 @@ In rare cases, patients on therapy with anti-asthma medicinal products, includin
 
 In these patients, physicians should be alert to the development of marked eosinophilia, vasculitic rash, worsening pulmonary symptoms, paranasal sinus abnormalities, cardiac complications, and/or neuropathy.
 
-Discontinuation of omalizumab should be considered in all severe cases with the above mentioned immune system disorders.
+Discontinuation of omalizumab should be considered in all severe cases with the above-mentioned immune system disorders.
 
 ## Parasitic (helminth) infections
 
@@ -274,7 +281,7 @@ Given orally, immunoglobulin G proteins undergo intestinal proteolysis and have 
 
 ## Fertility
 
-There are no human fertility data for omalizumab. In specifically-designed non-clinical fertility studies, in non-human primates including mating studies, no impairment of male or female fertility was observed following repeated dosing with omalizumab at dose levels up to 75 mg/kg. Furthermore, no genotoxic effects were observed in a separate non-clinical genotoxicity study.
+There are no human fertility data for omalizumab. In specifically designed non-clinical fertility studies, in non-human primates including mating studies, no impairment of male or female fertility was observed following repeated dosing with omalizumab at dose levels up to 75 mg/kg. Furthermore, no genotoxic effects were observed in a separate non-clinical genotoxicity study.
 
 ## 4.7 Effects on ability to drive and use machines
 
@@ -331,14 +338,6 @@ Table 4 Adverse reactions in allergic asthma and CRSwNP
 | Very common                                          | Pyrexia**                                                                                       |
 | Common                                               | Injection site reactions such as swelling, erythema, pain, pruritus                             |
 | Uncommon                                             | Influenza-like illness, swelling arms, weight increase, fatigue                                 |
-
-*: Very common in children 6 to &lt; 12 years of age
-
-**: In children 6 to &lt; 12 years of age
-
-# : Common in nasal polyp trials
-
-†: Unknown in allergic asthma trials
 
 <div style=\"page-break-after: always\"></div>
 
@@ -418,7 +417,7 @@ The efficacy and safety of omalizumab were demonstrated in a 28-week double-blin
 
 The rate of asthma exacerbations requiring treatment with bursts of systemic corticosteroids was the primary endpoint. Omalizumab reduced the rate of asthma exacerbations by 19 % (p = 0.153). Further evaluations which did show statistical significance (p &lt; 0.05) in favour of omalizumab included reductions in severe exacerbations (where patient's lung function was reduced to below 6 0 % of personal best and requiring systemic corticosteroids) and asthma-related emergency visits (comprised of hospitalisations, emergency room, and unscheduled doctor visits), and improvements in Physician's overall assessment of treatment effectiveness, Asthma-related Quality of Life (AQL), asthma symptoms and lung function.
 
-In a subgroup analysis, patients with pre-treatment total IgE ≥ 76 IU/ml were more likely to experience clinically meaningful benefit to omalizumab. In these patients in study 1 omalizumab reduced the rate of asthma exacerbations by 40 % (p = 0.002). In addition more patients had clinically meaningful responses in the total IgE ≥ 76 IU/ml population across the omalizumab severe asthma programme. Table 5 includes results in the study 1 population.
+In a subgroup analysis, patients with pre-treatment total IgE ≥ 76 IU/ml were more likely to experience clinically meaningful benefit to omalizumab. In these patients in study 1 omalizumab reduced the rate of asthma exacerbations by 40 % (p = 0.002). In addition, more patients had clinically meaningful responses in the total IgE ≥ 76 IU/ml population across the omalizumab severe asthma programme. Table 5 includes results in the study 1 population.
 
 Table 5 Results of study 1
 
@@ -615,15 +614,23 @@ This medicinal product must not be mixed with other medicinal products.
 
 ## 6.3 Shelf life
 
-2 years. The product may be kept for a total of 7 days at 25 °C.
+2 years.
+
+The product may be kept for a total of 7 days at 25 °C.
 
 ## 6.4 Special precautions for storage
 
-Store in a refrigerator (2 °C -8 °C). Do not freeze. Store in the original package in order to protect from light.
+Store in a refrigerator (2 °C -8 °C).
+
+Do not freeze.
+
+Store in the original package in order to protect from light.
+
+If necessary, the carton may be removed from and placed back in the refrigerator. The total combined time out of the refrigerator must not exceed 7 days at temperatures below 25°C.
 
 ## 6.5 Nature and contents of container
 
-## Omlyclo 75 mg solution for injection in pre-filled syringe
+Omlyclo 75 mg solution for injection in pre-filled syringe
 
 Omlyclo 75 mg solution for injection in pre-filled syringe is supplied as 0.5 ml solution in a pre-filled syringe barrel (type I glass) with staked 27-gauge special thin needle (stainless steel), (type I) plunger stopper (elastomer) and needle cap (elastomer and polypropylene).
 
@@ -641,9 +648,9 @@ Not all pack sizes may be marketed.
 
 ## Pre-filled syringe
 
-The single-use pre-filled syringe is for individual use. It should be taken out of the refrigerator 30 to 45  minutes before injecting to allow it to reach room temperature.
+The single-use pre-filled syringe is for individual use. It should be taken out of the refrigerator 30 to 45 minutes before injecting to allow it to reach room temperature.
 
-Pre-filled pen
+## Pre-filled pen
 
 <div style=\"page-break-after: always\"></div>
 
@@ -693,7 +700,13 @@ This medicinal product is subject to additional monitoring. This will allow quic
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Omlyclo 150 mg solution for injection in pre-filled syringe Omlyclo 300 mg solution for injection in pre-filled syringe Omlyclo 150 mg solution for injection in pre-filled pen
+Omlyclo 150 mg solution for injection in pre-filled syringe
+
+Omlyclo 300 mg solution for injection in pre-filled syringe
+
+Omlyclo 150 mg solution for injection in pre-filled pen
+
+Omlyclo 300 mg solution for injection in pre-filled pen
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
@@ -708,6 +721,10 @@ Each pre-filled syringe of 2 ml solution contains 300 mg of omalizumab*.
 Omlyclo 150 mg solution for injection in pre-filled pen
 
 Each pre-filled pen of 1 ml solution contains 150 mg of omalizumab*.
+
+Omlyclo 300 mg solution for injection in pre-filled pen
+
+Each pre-filled pen of 2 ml solution contains 300 mg of omalizumab*.
 
 *Omalizumab is a humanised monoclonal antibody manufactured by recombinant DNA technology in a Chinese hamster ovary (CHO) mammalian cell line.
 
@@ -731,15 +748,13 @@ Clear to opalescent, colourless to pale brownish-yellow solution.
 
 Omlyclo is indicated in adults, adolescents and children (6 to &lt; 12 years of age).
 
+<div style=\"page-break-after: always\"></div>
+
 Omlyclo treatment should only be considered for patients with convincing IgE (immunoglobulin E) mediated asthma (see section 4.2).
 
 ## Adults and adolescents (12 years of age and older)
 
-Omlyclo is indicated as add-on therapy to improve asthma control in patients with severe persistent allergic asthma who have a positive skin test or in vitro reactivity to a perennial aeroallergen and who
-
-<div style=\"page-break-after: always\"></div>
-
-have reduced lung function (FEV1 &lt; 80 %) as well as frequent daytime symptoms or night-time awakenings and who have had multiple documented severe asthma exacerbations despite daily highdose inhaled corticosteroids, plus a long-acting inhaled beta2-agonist.
+Omlyclo is indicated as add-on therapy to improve asthma control in patients with severe persistent allergic asthma who have a positive skin test or in vitro reactivity to a perennial aeroallergen and who have reduced lung function (FEV1 &lt; 80 %) as well as frequent daytime symptoms or night-time awakenings and who have had multiple documented severe asthma exacerbations despite daily highdose inhaled corticosteroids, plus a long-acting inhaled beta2-agonist.
 
 ## Children (6 to &lt; 12 years of age)
 
@@ -775,36 +790,30 @@ The maximum recommended dose is 600 mg omalizumab every two weeks.
 
 Table 1 Conversion from dose to number of pre-filled syringes/pens*, number of injections** and total injection volume for each administration
 
-| Dose (mg)   | Number of syringes/pens*   | Number of syringes/pens*   | Number of syringes/pens*   | Number of injections**   | Total injection volume (ml)   |
+|   Dose (mg) | Number of syringes/pens*   | Number of syringes/pens*   | Number of syringes/pens*   |   Number of injections** |   Total injection volume (ml) |
 |-------------|----------------------------|----------------------------|----------------------------|--------------------------|-------------------------------|
 |             | 75 mg                      | 150 mg                     | 300 mg *                   |                          |                               |
-| 75          | 1                          | 0                          | 0                          | 1                        | 0.5                           |
-| 150         | 0                          | 1                          | 0                          | 1                        | 1.0                           |
-| 225         | 1                          | 1                          | 0                          | 2                        | 1.5                           |
-| 300         | 0                          | 0                          | 1                          | 1                        | 2.0                           |
-| 375         | 1                          | 0                          | 1                          | 2                        | 2.5                           |
-| 450         | 0                          | 1                          | 1                          | 2                        | 3.0                           |
-| 525         | 1                          | 1                          | 1                          | 3                        | 3.5                           |
-| 600         | 0                          | 0                          | 2                          | 2                        | 4.0                           |
-
-*Omlyclo 300 mg pre-filled syringe and all dose strengths (75 mg and 150 mg) of pre-filled pen are not intended for use in patients &lt;12 years of age.
-
-** This table represents the least number of injections for the patients, however there are other syringe/pen dosing combinations possible to achieve the desired dose.
+|          75 | 1                          | 0                          | 0                          |                        1 |                           0.5 |
+|         150 | 0                          | 1                          | 0                          |                        1 |                           1.0 |
+|         225 | 1                          | 1                          | 0                          |                        2 |                           1.5 |
+|         300 | 0                          | 0                          | 1                          |                        1 |                           2.0 |
+|         375 | 1                          | 0                          | 1                          |                        2 |                           2.5 |
+|         450 | 0                          | 1                          | 1                          |                        2 |                           3.0 |
+|         525 | 1                          | 1                          | 1                          |                        3 |                           3.5 |
+|         600 | 0                          | 0                          | 2                          |                        2 |                           4.0 |
 
 Table 2 ADMINISTRATION EVERY 4 WEEKS. Omalizumab doses (milligrams per dose) administered by subcutaneous injection every 4 weeks
 
-| Baseline IgE (IU/ml)                                  | ≥ 20 - 25*   | > 25 - 30*   | > 30 - 40   | > 40 - 50   | > 50 - 60   | > 60 - 70          | > 70 - 80   | > 80 - 90   | > 90 - 125   | > 125 - 150   |
-|-------------------------------------------------------|--------------|--------------|-------------|-------------|-------------|--------------------|-------------|-------------|--------------|---------------|
-| ≥ 30 - 100                                            | 75           | 75           | 75          | 150         | 150         | 150                | 150         | 150         | 300          | 300           |
-| > 100 - 200                                           | 150          | 150          | 150         | 300         | 300         | 300                | 300         | 300         | 450          | 600           |
-| > 200 - 300                                           | 150          | 150          | 225         | 300         | 300         | 450                | 450         | 450         | 600          |               |
-| > 300 - 400                                           | 225          | 225          | 300         | 450         | 450         | 450                | 600         | 600         |              |               |
-| > 400 - 500                                           | 225          | 300          | 450         | 450         | 600         | 600                |             |             |              |               |
-| > 500 - 600                                           | 300          | 300          | 450         | 600         | 600         |                    |             |             |              |               |
-| > 600 - 700                                           | 300          |              | 450         | 600         |             |                    |             |             |              |               |
-| > 700 - 800 > 800 - 900 > 900 - 1,000 > 1,000 - 1,100 |              |              |             |             |             | ADMINISTRATION SEE | TABLE       | EVERY 2 3   | WEEKS        |               |
-
-*Body weights below 30 kg were not studied in the pivotal trials for CRSwNP.
+| Baseline IgE (IU/ml)                                  | ≥ 20 - 25*                               | > 25 - 30*                               | > 30 - 40                                | > 40 - 50                                | > 50 - 60                                | > 60 - 70                                | > 70 - 80                                | > 80 - 90                                | > 90 - 125                               | > 125 - 150                              |
+|-------------------------------------------------------|------------------------------------------|------------------------------------------|------------------------------------------|------------------------------------------|------------------------------------------|------------------------------------------|------------------------------------------|------------------------------------------|------------------------------------------|------------------------------------------|
+| ≥ 30 - 100                                            | 75                                       | 75                                       | 75                                       | 150                                      | 150                                      | 150                                      | 150                                      | 150                                      | 300                                      | 300                                      |
+| > 100 - 200                                           | 150                                      | 150                                      | 150                                      | 300                                      | 300                                      | 300                                      | 300                                      | 300                                      | 450                                      | 600                                      |
+| > 200 - 300                                           | 150                                      | 150                                      | 225                                      | 300                                      | 300                                      | 450                                      | 450                                      | 450                                      | 600                                      |                                          |
+| > 300 - 400                                           | 225                                      | 225                                      | 300                                      | 450                                      | 450                                      | 450                                      | 600                                      | 600                                      |                                          |                                          |
+| > 400 - 500                                           | 225                                      | 300                                      | 450                                      | 450                                      | 600                                      | 600                                      |                                          |                                          |                                          |                                          |
+| > 500 - 600                                           | 300                                      | 300                                      | 450                                      | 600                                      | 600                                      |                                          |                                          |                                          |                                          |                                          |
+| > 600 - 700                                           | 300                                      |                                          | 450                                      | 600                                      |                                          |                                          |                                          |                                          |                                          |                                          |
+| > 700 - 800 > 800 - 900 > 900 - 1,000 > 1,000 - 1,100 | ADMINISTRATION EVERY 2 WEEKS SEE TABLE 3 | ADMINISTRATION EVERY 2 WEEKS SEE TABLE 3 | ADMINISTRATION EVERY 2 WEEKS SEE TABLE 3 | ADMINISTRATION EVERY 2 WEEKS SEE TABLE 3 | ADMINISTRATION EVERY 2 WEEKS SEE TABLE 3 | ADMINISTRATION EVERY 2 WEEKS SEE TABLE 3 | ADMINISTRATION EVERY 2 WEEKS SEE TABLE 3 | ADMINISTRATION EVERY 2 WEEKS SEE TABLE 3 | ADMINISTRATION EVERY 2 WEEKS SEE TABLE 3 | ADMINISTRATION EVERY 2 WEEKS SEE TABLE 3 |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -828,21 +837,19 @@ Table 3 ADMINSTRATION EVERY 2 WEEKS. Omalizumab doses (milligrams per dose) admi
 | > 1,200 - 1,300        | 300                                      | 375                                      | 450                                      | 525                                      |                                          |                                          |                                          |                                          |                                          |                                          |
 | > 1,300 - 1,500        | 300                                      | 375                                      | 525                                      | 600                                      |                                          |                                          |                                          |                                          |                                          |                                          |
 
-*Body weights below 30 kg were not studied in the pivotal trials for CRSwNP.
-
 ## Treatment duration, monitoring and dose adjustments Allergic asthma
 
-Omlyclo is intended for long-term treatment. Clinical trials have demonstrated that it takes at least 12 -16 weeks for the treatment to show effectiveness. At 16 weeks after commencing Omlyclo therapy patients should be assessed by their physician for treatment effectiveness before further injections are administered. The decision to continue treatment following the 16-week timepoint, or on subsequent occasions, should be based on whether a marked improvement in overall asthma control is seen (see section 5.1, Phy sician's overall assessment of treatment effectiveness).
+Omlyclo is intended for long-term treatment. Clinical trials have demonstrated that it takes at least 12 -16 weeks for the treatment to show effectiveness. At 16 weeks after commencing Omlyclo therapy patients should be assessed by their physician for treatment effectiveness before further injections are administered. The decision to continue treatment following the 16-week timepoint, or on subsequent occasions, should be based on whether a marked improvement in overall asthma control is seen (see section 5 .1, Physician's overall assessment of treatment effectiveness).
 
 ## Chronic rhinosinusitis with nasal polyps (CRSwNP)
 
 In clinical trials for CRSwNP, changes in nasal polyps score (NPS) and nasal congestion score (NCS) were observed at 4 weeks. The need for continued therapy should be periodically reassessed based upon the patient's disease severity and level of symptom control.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Allergic asthma and chronic rhinosinusitis with nasal polyps (CRSwNP)
 
 Discontinuation of treatment generally results in a return to elevated free IgE levels and associated symptoms. Total IgE levels are elevated during treatment and remain elevated for up to one year after the discontinuation of treatment. Therefore, re-testing of IgE levels during treatment cannot be used as a guide for dose determination. Dose determination after treatment interruptions lasting less than one year should be based on serum IgE levels obtained at the initial dose determination. Total serum IgE levels may be re-tested for dose determination if treatment has been interrupted for one year or more.
+
+<div style=\"page-break-after: always\"></div>
 
 Doses should be adjusted for significant changes in body weight (see Tables 2 and 3).
 
@@ -876,15 +883,15 @@ In CSU, the safety and efficacy of omalizumab in patients below the age of 12 ye
 
 For subcutaneous administration only. Omalizumab must not be administered by the intravenous or intramuscular route.
 
-Omlyclo 300 mg pre-filled syringe and all dose strengths (75 mg and 150 mg) of pre-filled pen are not intended for use in children &lt;12 years of age. Omlyclo 75 mg pre-filled syringe and Omlyclo 150 mg pre-filled syringe may  be used in children 6 to 11 years of age with allergic asthma.
+Omlyclo 300 mg pre-filled syringe and all dose strengths of pre-filled pen are not intended for use in children &lt;12 years of age. Omlyclo 75 mg pre-filled syringe and Omlyclo 150 mg pre-filled syringe may be used in children 6 to 11 years of age with allergic asthma.
 
 If more than one injection is needed to achieve the required dose, injections should be divided across two or more injection sites (Table 1).
 
 Patients with no known history of anaphylaxis may self-inject Omlyclo or be injected by a caregiver from the 4th dose onwards if a physician determines that this is appropriate (see section 4.4). The patient or the caregiver must have been trained in the correct injection technique and the recognition of the early signs and symptoms of serious allergic reactions.
 
-<div style=\"page-break-after: always\"></div>
-
 Patients or caregivers should be instructed to inject the full amount of Omlyclo according to the instructions provided in the package leaflet.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 4.3 Contraindications
 
@@ -910,17 +917,15 @@ Abrupt discontinuation of systemic or inhaled corticosteroids after initiation o
 
 ## Allergic reactions type I
 
-Type I local or systemic allergic reactions, including anaphylaxis and anaphylactic shock, may occur when taking omalizumab, even after a long duration of treatment. However, most of these reactions occurred within 2 hours after the first and subsequent injections of omalizumab but some started beyond 2 hours and even beyond 24 hours after the injection. The majority of anaphylactic reactions occurred within the first 3 doses of omalizumab. Therefore, the first 3 doses must be administered either by or under the supervision of a healthcare professional. A history of anaphylaxis unrelated to omalizumab may be a risk factor for anaphylaxis following omalizumab administration. Therefore for patients with a known history of anaphylaxis, omalizumab must be administered by a health care professional, who should always have medicinal products for the treatment of anaphylactic reactions available for immediate use following administration of omalizumab. If an anaphylactic or other serious allergic reaction occurs, administration of omalizumab must be discontinued immediately, and appropriate therapy initiated. Patients should be informed that such reactions are possible, and prompt medical attention should be sought if allergic reactions occur.
+Type I local or systemic allergic reactions, including anaphylaxis and anaphylactic shock, may occur when taking omalizumab, even after a long duration of treatment. However, most of these reactions occurred within 2 hours after the first and subsequent injections of omalizumab but some started beyond 2 hours and even beyond 24 hours after the injection. The majority of anaphylactic reactions occurred within the first 3 doses of omalizumab. Therefore, the first 3 doses must be administered either by or under the supervision of a healthcare professional. A history of anaphylaxis unrelated to omalizumab may be a risk factor for anaphylaxis following omalizumab administration. Therefore, for patients with a known history of anaphylaxis, omalizumab must be administered by a health care professional, who should always have medicinal products for the treatment of anaphylactic reactions available for immediate use following administration of omalizumab. If an anaphylactic or other serious allergic reaction occurs, administration of omalizumab must be discontinued immediately, and appropriate therapy initiated. Patients should be informed that such reactions are possible, and prompt medical attention should be sought if allergic reactions occur.
 
 Antibodies to omalizumab have been detected in a low number of patients in clinical trials (see section 4.8). The clinical relevance of anti-omalizumab antibodies is not well understood.
 
 ## Serum sickness
 
-Serum sickness and serum sickness-like reactions, which are delayed allergic type III reactions, have been seen in patients treated with humanised monoclonal antibodies including omalizumab. The suggested pathophysiologic mechanism includes immune-complex formation and deposition due to
+Serum sickness and serum sickness-like reactions, which are delayed allergic type III reactions, have been seen in patients treated with humanised monoclonal antibodies including omalizumab. The suggested pathophysiologic mechanism includes immune-complex formation and deposition due to development of antibodies against omalizumab. The onset has typically been 1 -5 days after administration of the first or subsequent injections, also after long duration of treatment. Symptoms suggestive of serum sickness include arthritis/arthralgias, rash (urticaria or other forms), fever and lymphadenopathy. Antihistamines and corticosteroids may be useful for preventing or treating this disorder, and patients should be advised to report any suspected symptoms.
 
 <div style=\"page-break-after: always\"></div>
-
-development of antibodies against omalizumab. The onset has typically been 1 -5 days after administration of the first or subsequent injections, also after long duration of treatment. Symptoms suggestive of serum sickness include arthritis/arthralgias, rash (urticaria or other forms), fever and lymphadenopathy. Antihistamines and corticosteroids may be useful for preventing or treating this disorder, and patients should be advised to report any suspected symptoms.
 
 ## Churg-Strauss syndrome and hypereosinophilic syndrome
 
@@ -930,7 +935,7 @@ In rare cases, patients on therapy with anti-asthma medicinal products, includin
 
 In these patients, physicians should be alert to the development of marked eosinophilia, vasculitic rash, worsening pulmonary symptoms, paranasal sinus abnormalities, cardiac complications, and/or neuropathy.
 
-Discontinuation of omalizumab should be considered in all severe cases with the above mentioned immune system disorders.
+Discontinuation of omalizumab should be considered in all severe cases with the above-mentioned immune system disorders.
 
 ## Parasitic (helminth) infections
 
@@ -938,7 +943,7 @@ IgE may be involved in the immunological response to some helminth infections. I
 
 ## Excipient with known effect
 
-Each 150 mg pre-filled syringe and pre-filled pen contains 0.40 mg of polysorbate 20 (E 432) and each 300 mg pre-filled syringe contains 0.80 mg of polysorbate 20 (E 432), which is equivalent to 0.40 mg/ml. Polysorbates may cause allergic reactions. Patients with polysorbate allergy should not take this medicine.
+Each 150 mg pre-filled syringe and pre-filled pen contains 0.40 mg of polysorbate 20 (E 432) and each 300 mg pre-filled syringe and pre-filled pen contains 0.80 mg of polysorbate 20 (E 432), which is equivalent to 0.40 mg/ml. Polysorbates may cause allergic reactions. Patients with polysorbate allergy should not take this medicine.
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
@@ -948,11 +953,9 @@ Cytochrome P450 enzymes, efflux pumps and protein-binding mechanisms are not inv
 
 ## Allergic asthma
 
-In clinical studies omalizumab was commonly used in conjunction with inhaled and oral corticosteroids, inhaled short-acting and long-acting beta agonists, leukotriene modifiers, theophyllines and oral antihistamines. There was no indication that the safety of omalizumab was
+In clinical studies omalizumab was commonly used in conjunction with inhaled and oral corticosteroids, inhaled short-acting and long-acting beta agonists, leukotriene modifiers, theophyllines and oral antihistamines. There was no indication that the safety of omalizumab was altered with these other commonly used anti-asthma medicinal products. Limited data are available on the use of omalizumab in combination with specific immunotherapy (hypo-sensitisation therapy). In a clinical trial where omalizumab was co-administered with immunotherapy, the safety and efficacy of omalizumab in combination with specific immunotherapy were found to be no different to that of omalizumab alone.
 
 <div style=\"page-break-after: always\"></div>
-
-altered with these other commonly used anti-asthma medicinal products. Limited data are available on the use of omalizumab in combination with specific immunotherapy (hypo-sensitisation therapy). In a clinical trial where omalizumab was co-administered with immunotherapy, the safety and efficacy of omalizumab in combination with specific immunotherapy were found to be no different to that of omalizumab alone.
 
 ## Chronic rhinosinusitis with nasal polyps (CRSwNP)
 
@@ -990,7 +993,7 @@ Given orally, immunoglobulin G proteins undergo intestinal proteolysis and have 
 
 ## Fertility
 
-There are no human fertility data for omalizumab. In specifically-designed non-clinical fertility studies, in non-human primates including mating studies, no impairment of male or female fertility was observed following repeated dosing with omalizumab at dose levels up to 75 mg/kg. Furthermore, no genotoxic effects were observed in a separate non-clinical genotoxicity study.
+There are no human fertility data for omalizumab. In specifically designed non-clinical fertility studies, in non-human primates including mating studies, no impairment of male or female fertility was observed following repeated dosing with omalizumab at dose levels up to 75 mg/kg. Furthermore, no genotoxic effects were observed in a separate non-clinical genotoxicity study.
 
 ## 4.7 Effects on ability to drive and use machines
 
@@ -1022,10 +1025,11 @@ Table 4 Adverse reactions in allergic asthma and CRSwNP
 | Vascular disorders                              | Vascular disorders                                                                                                                                    |
 | Uncommon                                        | Postural hypotension, flushing                                                                                                                        |
 | Respiratory, thoracic and mediastinal disorders | Respiratory, thoracic and mediastinal disorders                                                                                                       |
+| Uncommon                                        | Allergic bronchospasm, coughing                                                                                                                       |
 
 <div style=\"page-break-after: always\"></div>
 
-| Uncommon Rare Not known                              | Allergic bronchospasm, coughing Laryngoedema Allergic granulomatous vasculitis (i.e. Churg-Strauss syndrome)                                  |
+| Rare Not known                                       | Laryngoedema Allergic granulomatous vasculitis (i.e. Churg-Strauss syndrome)                                                                  |
 |------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
 | Gastrointestinal disorders                           | Gastrointestinal disorders                                                                                                                    |
 | Common Uncommon                                      | Abdominal pain upper** ,# Dyspeptic signs and symptoms, diarrhoea, nausea                                                                     |
@@ -1036,14 +1040,6 @@ Table 4 Adverse reactions in allergic asthma and CRSwNP
 | General disorders and administration site conditions | General disorders and administration site conditions                                                                                          |
 | Very common Common Uncommon                          | Pyrexia** Injection site reactions such as swelling, erythema, pain, pruritus Influenza-like illness, swelling arms, weight increase, fatigue |
 
-*: Very common in children 6 to &lt; 12 years of age
-
-**: In children 6 to &lt; 12 years of age
-
-# : Common in nasal polyp trials
-
-†: Unknown in allergic asthma trials
-
 ## Chronic spontaneous urticaria (CSU)
 
 ## Summary of the safety profile
@@ -1052,7 +1048,7 @@ The safety and tolerability of omalizumab were investigated with doses of 75 mg,
 
 ## Tabulated list of adverse reactions
 
-A separate table (Table 5) shows the adverse reactions for the CSU indication resulting from differences in dosages and treatment populations (with significantly different risk factors, comorbidities, co-medications and ages [e.g. asthma trials included children from 6 -12 years of age]).
+A separate table (Table 5) shows the adverse reactions for the CSU indication resulting from differences in dose and treatment populations (with significantly different risk factors, comorbidities, concomitant medicinal products and ages [e.g. asthma trials included children from 6 -12 years of age]).
 
 Table 5 lists the adverse reactions (events occurring in ≥ 1 % of patients in any treatment group and ≥ 2 % more frequently in any omalizumab treatment group than with placebo (after medical review)) reported with 300 mg in the three pooled phase III studies. The adverse reactions presented are divided into two groups: those identified in the 12-week and the 24-week treatment periods.
 
@@ -1077,8 +1073,6 @@ Table 5 Adverse reactions from the pooled CSU safety database (day 1 to week 24)
 |                                          | Placebo N = 163                        | 300 mg N = 333                         |                      |
 | Infections and infestations              |                                        |                                        |                      |
 | Upper respiratory tract infection        | 5 (3.1 %)                              | 19 (5.7 %)                             | Common               |
-
-* Despite not showing a 2 % difference to placebo, injection site reactions were included as all cases were assessed causally related to study treatment.
 
 In a 48-week study, 81 CSU patients received omalizumab 300 mg every 4 weeks (see section 5.1). The safety profile of long-term use was similar to the safety profile observed in 24-week studies in CSU.
 
@@ -1168,7 +1162,7 @@ The efficacy and safety of omalizumab were demonstrated in a 28-week double-blin
 
 The rate of asthma exacerbations requiring treatment with bursts of systemic corticosteroids was the primary endpoint. Omalizumab reduced the rate of asthma exacerbations by 19 % (p = 0.153). Further evaluations which did show statistical significance (p &lt; 0.05) in favour of omalizumab included reductions in severe exacerbations (where patient's lung function was reduced to below 6 0 % of personal best and requiring systemic corticosteroids) and asthma-related emergency visits (comprised of hospitalisations, emergency room, and unscheduled doctor visits), and improvements in Physician's overall assessment of treatment effectiveness, Asthma-related Quality of Life (AQL), asthma symptoms and lung function.
 
-In a subgroup analysis, patients with pre-treatment total IgE ≥ 76 IU/ml were more likely to experience clinically meaningful benefit to omalizumab. In these patients in study 1 omalizumab reduced the rate of asthma exacerbations by 40 % (p = 0.002). In addition more patients had clinically meaningful responses in the total IgE ≥ 76 IU/ml population across the omalizumab severe asthma programme. Table 6 includes results in the study 1 population.
+In a subgroup analysis, patients with pre-treatment total IgE ≥ 76 IU/ml were more likely to experience clinically meaningful benefit to omalizumab. In these patients in study 1 omalizumab reduced the rate of asthma exacerbations by 40 % (p = 0.002). In addition, more patients had clinically meaningful responses in the total IgE ≥ 76 IU/ml population across the omalizumab severe asthma programme. Table 6 includes results in the study 1 population.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1446,7 +1440,13 @@ The product may be kept for a total of 7 days at 25 °C.
 
 ## 6.4 Special precautions for storage
 
-Store in a refrigerator (2 °C -8 °C). Do not freeze. Store in the original package in order to protect from light.
+Store in a refrigerator (2 °C -8 °C).
+
+Do not freeze.
+
+Store in the original package in order to protect from light.
+
+If necessary, the carton may be removed from and placed back in the refrigerator. The total combined time out of the refrigerator must not exceed 7 days at temperatures below 25°C.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1470,6 +1470,12 @@ Omlyclo 150 mg solution for injection in pre-filled pen is supplied as 1 ml solu
 
 A pack containing 1 pre-filled pen and multipacks containing 2 (2 x 1), 3 (3 x 1), 6 (6 x 1) or 10 (10 x 1) pre-filled pens.
 
+## Omlyclo 300 mg solution for injection in pre-filled pen
+
+Omlyclo 300 mg solution for injection in pre-filled pen is supplied as 2 ml solution in a pre-filled pen barrel (type I glass) with staked 27-gauge special thin needle (stainless steel), (type I) plunger stopper (elastomer) and needle cap (elastomer and polypropylene).
+
+A pack containing 1 pre-filled pen and multipacks containing 2 (2 x 1), 3 (3 x 1) or 6 (6 x 1) pre-filled pens.
+
 Not all pack sizes may be marketed.
 
 ## 6.6 Special precautions for disposal and other handling
@@ -1486,35 +1492,23 @@ The single-use pre-filled pen is for individual use. It should be taken out of t
 
 Dispose of the used syringe or pen immediately in a sharps container.
 
-Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
-
 <div style=\"page-break-after: always\"></div>
+
+Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
 Váci út 1-3. WestEnd Office Building B torony
 
+```
 Celltrion Healthcare Hungary Kft. 1062 Budapest, Hungary
+```
 
 ## 8. MARKETING AUTHORISATION NUMBERS
 
 Omlyclo 150 mg solution for injection in pre-filled syringe
 
-EU/1/24/1817/002 EU/1/24/1817/003 EU/1/24/1817/004
-
-EU/1/24/1817/011
-
-Omlyclo 300 mg solution for injection in pre-filled syringe
-
-EU/1/24/1817/014 EU/1/24/1817/015 EU/1/24/1817/016
-
-EU/1/24/1817/017
-
-## Omlyclo 150 mg solution for injection in pre-filled pen
-
-EU/1/24/1817/006 EU/1/24/1817/007 EU/1/24/1817/008 EU/1/24/1817/012
-
-EU/1/24/1817/013
+EU/1/24/1817/002 EU/1/24/1817/003 EU/1/24/1817/004 EU/1/24/1817/011 Omlyclo 300 mg solution for injection in pre-filled syringe EU/1/24/1817/014 EU/1/24/1817/015 EU/1/24/1817/016 EU/1/24/1817/017 Omlyclo 150 mg solution for injection in pre-filled pen EU/1/24/1817/006 EU/1/24/1817/007 EU/1/24/1817/008 EU/1/24/1817/012 EU/1/24/1817/013 Omlyclo 300 mg solution for injection in pre-filled pen EU/1/24/1817/018 EU/1/24/1817/019 EU/1/24/1817/020 EU/1/24/1817/021
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -1543,7 +1537,7 @@ CELLTRION INC. 23, Academy-ro, Yeonsu-gu Incheon, 22014, Republic of Korea
 
 Name and address of the manufacturer(s) responsible for batch release Nuvisan France SARL 2400, Route des Colles, 06410, Biot, France
 
-MIDAS Pharma GmbH Rheinstrasse 49 55218 West Ingelheim Am Rhein Rhineland-Palatinate Germany
+MIDAS Pharma GmbH Rheinstrasse 49 55218 Ingelheim Am Rhein Rhineland-Palatinate Germany
 
 Kymos S.L. Ronda De Can Fatjo 7b Parc Tecnologic Del Valles 08290 Cerdanyola Del Valles Barcelona Spain
 
@@ -1611,7 +1605,7 @@ Solution for injection in pre-filled syringe
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-Subcutaneous use.
+Subcutaneous use
 
 Read the package leaflet before use.
 
@@ -1661,7 +1655,7 @@ Lot
 
 15. INSTRUCTIONS ON USE
 
-## 16. INFORMATION IN BRAILLE
+16. INFORMATION IN BRAILLE
 
 Omlyclo 75 mg
 
@@ -1671,13 +1665,9 @@ Omlyclo 75 mg
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC
-
-SN
+PC SN NN
 
 <div style=\"page-break-after: always\"></div>
-
-NN
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1707,7 +1697,7 @@ Multipack: 3 (3 × 1) pre-filled syringes with needle guard
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-Subcutaneous use.
+Subcutaneous use
 
 Read the package leaflet before use.
 
@@ -1733,7 +1723,7 @@ Do not freeze.
 
 Keep the syringe in the original package in order to protect from light.
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -1755,11 +1745,9 @@ EU/1/24/1817/009
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
-
+14. GENERAL CLASSIFICATION FOR SUPPLY
 15. INSTRUCTIONS ON USE
-
-## 16. INFORMATION IN BRAILLE
+16. INFORMATION IN BRAILLE
 
 Omlyclo 75 mg
 
@@ -1769,11 +1757,7 @@ Omlyclo 75 mg
 
 ## 18. UNIQUE IDENTIFIER -HUMAN READABLE DATA
 
-PC
-
-SN
-
-NN
+PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1803,7 +1787,7 @@ Solution for injection in pre-filled syringe
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-Subcutaneous use.
+Subcutaneous use
 
 Read the package leaflet before use.
 
@@ -1829,7 +1813,7 @@ Do not freeze.
 
 Keep the syringe in the original package in order to protect from light.
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -1851,8 +1835,7 @@ EU/1/24/1817/009
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
-
+14. GENERAL CLASSIFICATION FOR SUPPLY
 15. INSTRUCTIONS ON USE
 16. INFORMATION IN BRAILLE
 
@@ -1867,8 +1850,7 @@ Omlyclo 75 mg
 |------------------------------------------------------------------|
 | PRE-FILLED SYRINGE LABEL                                         |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|-------------------------------------------------------------|
+## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
 Omlyclo 75 mg injection omalizumab SC
 
@@ -1888,7 +1870,7 @@ Lot
 | 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
 |------|---------------------------------------|
 
-75 mg/0.5 ml
+0.5 ml
 
 | 6.   | OTHER   |
 |------|---------|
@@ -1921,7 +1903,7 @@ Solution for injection in pre-filled pen
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-Subcutaneous use.
+Subcutaneous use
 
 Read the package leaflet before use.
 
@@ -1936,8 +1918,6 @@ Keep out of the sight and reach of children.
 ## 8. EXPIRY DATE
 
 EXP
-
-<div style=\"page-break-after: always\"></div>
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
@@ -1971,23 +1951,21 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-## 15. INSTRUCTIONS ON USE
+15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
 Omlyclo 75 mg
 
-## 17. UNIQUE IDENTIFIER -2D BARCODE
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
-## 18. UNIQUE IDENTIFIER -HUMAN READABLE DATA
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC
+PC SN NN
 
-SN
-
-NN
+<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2017,103 +1995,7 @@ Multipack: 3 (3 × 1) pre-filled pens
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-Subcutaneous use.
-
-Read the package leaflet before use.
-
-For single use only.
-
-## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
-
-Keep out of the sight and reach of children.
-
-## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
-
-## 8. EXPIRY DATE
-
-EXP
-
-<div style=\"page-break-after: always\"></div>
-
-## 9. SPECIAL STORAGE CONDITIONS
-
-Store in a refrigerator.
-
-Do not freeze.
-
-Keep the pre-filled pen in the original package in order to protect from light.
-
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
-
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
-
-Celltrion Healthcare Hungary Kft.
-
-1062 Budapest,
-
-Váci út 1-3. WestEnd Office Building B torony
-
-Hungary
-
-## 12. MARKETING AUTHORISATION NUMBER(S)
-
-EU/1/24/1817/010
-
-75 mg solution for injection in pre-filled pen (3 x 1)
-
-## 13. BATCH NUMBER
-
-Lot
-
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
-
-15. INSTRUCTIONS ON USE
-
-## 16. INFORMATION IN BRAILLE
-
-Omlyclo 75 mg
-
-## 17. UNIQUE IDENTIFIER -2D BARCODE
-
-2D barcode carrying the unique identifier included.
-
-## 18. UNIQUE IDENTIFIER -HUMAN READABLE DATA
-
-PC
-
-SN
-
-NN
-
-<div style=\"page-break-after: always\"></div>
-
-## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
-
-## INTERMEDIATE CARTON OF MULTIPACKS (WITHOUT BLUE BOX)
-
-## 1. NAME OF THE MEDICINAL PRODUCT
-
-Omlyclo 75 mg solution for injection in pre-filled pen omalizumab
-
-## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
-
-One 0.5 ml pre-filled pen contains 75 mg of omalizumab.
-
-## 3. LIST OF EXCIPIENTS
-
-Excipients: L-arginine hydrochloride, L-histidine hydrochloride monohydrate, L-histidine, polysorbate 20 (E 432), water for injections. See package leaflet for further information.
-
-## 4. PHARMACEUTICAL FORM AND CONTENTS
-
-Solution for injection in pre-filled pen
-
-75 mg/0.5 ml
-
-1 pre-filled pen. Component of a multipack. Not to be sold separately.
-
-## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
-
-Subcutaneous use.
+Subcutaneous use
 
 Read the package leaflet before use.
 
@@ -2161,6 +2043,95 @@ EU/1/24/1817/010
 
 Lot
 
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
+
+15. INSTRUCTIONS ON USE
+16. INFORMATION IN BRAILLE
+
+Omlyclo 75 mg
+
+## 17. UNIQUE IDENTIFIER -2D BARCODE
+
+2D barcode carrying the unique identifier included.
+
+## 18. UNIQUE IDENTIFIER -HUMAN READABLE DATA
+
+PC SN NN
+
+<div style=\"page-break-after: always\"></div>
+
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
+
+## INTERMEDIATE CARTON OF MULTIPACKS (WITHOUT BLUE BOX)
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Omlyclo 75 mg solution for injection in pre-filled pen omalizumab
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+
+One 0.5 ml pre-filled pen contains 75 mg of omalizumab.
+
+## 3. LIST OF EXCIPIENTS
+
+Excipients: L-arginine hydrochloride, L-histidine hydrochloride monohydrate, L-histidine, polysorbate 20 (E 432), water for injections. See package leaflet for further information.
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+Solution for injection in pre-filled pen
+
+75 mg/0.5 ml
+
+1 pre-filled pen. Component of a multipack. Not to be sold separately.
+
+## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+
+Subcutaneous use
+
+Read the package leaflet before use.
+
+For single use only.
+
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
+Keep out of the sight and reach of children.
+
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+## 8. EXPIRY DATE
+
+EXP
+
+<div style=\"page-break-after: always\"></div>
+
+## 9. SPECIAL STORAGE CONDITIONS
+
+Store in a refrigerator.
+
+Do not freeze.
+
+Keep the pre-filled pen in the original package in order to protect from light.
+
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+
+Celltrion Healthcare Hungary Kft.
+
+1062 Budapest,
+
+Váci út 1-3. WestEnd Office Building B torony
+
+Hungary
+
+## 12. MARKETING AUTHORISATION NUMBER(S)
+
+EU/1/24/1817/010
+
+## 13. BATCH NUMBER
+
+Lot
+
 14. GENERAL CLASSIFICATION FOR SUPPLY
 15. INSTRUCTIONS ON USE
 16. INFORMATION IN BRAILLE
@@ -2170,18 +2141,20 @@ Omlyclo 75 mg
 17. UNIQUE IDENTIFIER -2D BARCODE
 18. UNIQUE IDENTIFIER -HUMAN READABLE DATA
 
+75 mg solution for injection in pre-filled pen (3 x 1)
+
 <div style=\"page-break-after: always\"></div>
 
 | MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
 |------------------------------------------------------------------|
 | PRE-FILLED PEN LABEL                                             |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|-------------------------------------------------------------|
+## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
 Omlyclo 75 mg injection omalizumab SC
 
-## 2. METHOD OF ADMINISTRATION
+| 2.   | METHODOFADMINISTRATION   |
+|------|--------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -2196,7 +2169,7 @@ Lot
 | 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
 |------|---------------------------------------|
 
-75 mg/0.5 ml
+0.5 ml
 
 | 6.   | OTHER   |
 |------|---------|
@@ -2229,7 +2202,7 @@ Solution for injection in pre-filled syringe
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-Subcutaneous use.
+Subcutaneous use
 
 Read the package leaflet before use.
 
@@ -2279,7 +2252,7 @@ Lot
 
 15. INSTRUCTIONS ON USE
 
-## 16. INFORMATION IN BRAILLE
+16. INFORMATION IN BRAILLE
 
 Omlyclo 150 mg
 
@@ -2289,13 +2262,9 @@ Omlyclo 150 mg
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC
-
-SN
+PC SN NN
 
 <div style=\"page-break-after: always\"></div>
-
-NN
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2329,7 +2298,7 @@ Multipack: 10 (10 × 1) pre-filled syringes with needle guard
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-Subcutaneous use.
+Subcutaneous use
 
 Read the package leaflet before use.
 
@@ -2399,11 +2368,7 @@ Omlyclo 150 mg
 
 ## 18. UNIQUE IDENTIFIER -HUMAN READABLE DATA
 
-PC
-
-SN
-
-NN
+PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2433,7 +2398,7 @@ Solution for injection in pre-filled syringe
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-Subcutaneous use.
+Subcutaneous use
 
 Read the package leaflet before use.
 
@@ -2503,10 +2468,11 @@ Omlyclo 150 mg
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS PRE-FILLED SYRINGE LABEL
+| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
+|------------------------------------------------------------------|
+| PRE-FILLED SYRINGE LABEL                                         |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|-------------------------------------------------------------|
+## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
 Omlyclo 150 mg injection omalizumab SC
 
@@ -2526,7 +2492,7 @@ Lot
 | 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
 |------|---------------------------------------|
 
-150 mg/1 ml
+1 ml
 
 | 6.   | OTHER   |
 |------|---------|
@@ -2559,7 +2525,7 @@ Solution for injection in pre-filled pen
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-Subcutaneous use.
+Subcutaneous use
 
 Read the package leaflet before use.
 
@@ -2607,7 +2573,7 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-## 15. INSTRUCTIONS ON USE
+15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -2619,13 +2585,9 @@ Omlyclo 150 mg
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC
-
-SN
+PC SN NN
 
 <div style=\"page-break-after: always\"></div>
-
-NN
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2647,9 +2609,7 @@ Excipients: L-arginine hydrochloride, L-histidine hydrochloride monohydrate, L-h
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-Solution for injection in pre-filled pen
-
-150 mg/1 ml
+Solution for injection in pre-filled pen 150 mg/1 ml
 
 Multipack: 2 (2 × 1) pre-filled pens
 
@@ -2661,7 +2621,7 @@ Multipack: 10 (10 × 1) pre-filled pens
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-Subcutaneous use.
+Subcutaneous use
 
 Read the package leaflet before use.
 
@@ -2735,11 +2695,7 @@ Omlyclo 150 mg
 
 ## 18. UNIQUE IDENTIFIER -HUMAN READABLE DATA
 
-PC
-
-SN
-
-NN
+PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2769,7 +2725,7 @@ Solution for injection in pre-filled pen
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-Subcutaneous use.
+Subcutaneous use
 
 Read the package leaflet before use.
 
@@ -2868,7 +2824,7 @@ Lot
 | 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
 |------|---------------------------------------|
 
-150 mg/1 ml
+1 ml
 
 | 6.   | OTHER   |
 |------|---------|
@@ -2901,7 +2857,7 @@ Solution for injection in pre-filled syringe
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-Subcutaneous use.
+Subcutaneous use
 
 Read the package leaflet before use.
 
@@ -2949,7 +2905,7 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-## 15. INSTRUCTIONS ON USE
+15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -2961,13 +2917,9 @@ Omlyclo 300 mg
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC
-
-SN
+PC SN NN
 
 <div style=\"page-break-after: always\"></div>
-
-NN
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3001,7 +2953,7 @@ Multipack: 6 (6 × 1) pre-filled syringes with needle guard
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-Subcutaneous use.
+Subcutaneous use
 
 Read the package leaflet before use.
 
@@ -3071,11 +3023,7 @@ Omlyclo 300 mg
 
 ## 18. UNIQUE IDENTIFIER -HUMAN READABLE DATA
 
-PC
-
-SN
-
-NN
+PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3105,7 +3053,7 @@ Solution for injection in pre-filled syringe
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-Subcutaneous use.
+Subcutaneous use
 
 Read the package leaflet before use.
 
@@ -3147,9 +3095,7 @@ Hungary
 
 EU/1/24/1817/015 2 pre-filled syringes with needle guard (2 x 1)
 
-EU/1/24/1817/016
-
-3 pre-filled syringes with needle guard (3 x 1)
+EU/1/24/1817/016 3 pre-filled syringes with needle guard (3 x 1)
 
 EU/1/24/1817/017 6 pre-filled syringes with needle guard (6 x 1)
 
@@ -3171,16 +3117,16 @@ Omlyclo 300 mg
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS PRE-FILLED SYRINGE LABEL
+| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
+|------------------------------------------------------------------|
+| PRE-FILLED SYRINGE LABEL                                         |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|-------------------------------------------------------------|
+## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
 Omlyclo 300 mg injection omalizumab SC
 
-2.
-
-METHOD OF ADMINISTRATION
+| 2.   | METHODOFADMINISTRATION   |
+|------|--------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -3195,7 +3141,318 @@ Lot
 | 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
 |------|---------------------------------------|
 
+2 ml
+
+| 6.   | OTHER   |
+|------|---------|
+
+<div style=\"page-break-after: always\"></div>
+
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
+
+## OUTER CARTON OF UNIT PACK
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Omlyclo 300 mg solution for injection in pre-filled pen omalizumab
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+
+One 2 ml pre-filled pen contains 300 mg of omalizumab.
+
+## 3. LIST OF EXCIPIENTS
+
+Excipients: L-arginine hydrochloride, L-histidine hydrochloride monohydrate, L-histidine, polysorbate 20 (E 432), water for injections. See package leaflet for further information.
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+Solution for injection in pre-filled pen
+
 300 mg/2 ml
+
+1 pre-filled pen
+
+## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+
+Subcutaneous use
+
+Read the package leaflet before use.
+
+For single use only.
+
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
+Keep out of the sight and reach of children.
+
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+## 8. EXPIRY DATE
+
+EXP
+
+<div style=\"page-break-after: always\"></div>
+
+## 9. SPECIAL STORAGE CONDITIONS
+
+Store in a refrigerator.
+
+Do not freeze.
+
+Keep the pre-filled pen in the original package in order to protect from light.
+
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+
+Celltrion Healthcare Hungary Kft.
+
+1062 Budapest,
+
+Váci út 1-3. WestEnd Office Building B torony
+
+Hungary
+
+## 12. MARKETING AUTHORISATION NUMBER(S)
+
+EU/1/24/1817/018
+
+300 mg solution for injection in pre-filled pen
+
+## 13. BATCH NUMBER
+
+Lot
+
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
+
+15. INSTRUCTIONS ON USE
+
+## 16. INFORMATION IN BRAILLE
+
+Omlyclo 300 mg
+
+## 17. UNIQUE IDENTIFIER -2D BARCODE
+
+2D barcode carrying the unique identifier included.
+
+## 18. UNIQUE IDENTIFIER -HUMAN READABLE DATA
+
+PC SN NN
+
+<div style=\"page-break-after: always\"></div>
+
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
+
+## OUTER CARTON OF MULTIPACKS (INCLUDING BLUE BOX)
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Omlyclo 300 mg solution for injection in pre-filled pen omalizumab
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+
+One 2 ml pre-filled pen contains 300 mg of omalizumab.
+
+## 3. LIST OF EXCIPIENTS
+
+Excipients: L-arginine hydrochloride, L-histidine hydrochloride monohydrate, L-histidine, polysorbate 20 (E 432), water for injections. See package leaflet for further information.
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+Solution for injection in pre-filled pen
+
+300 mg/2 ml
+
+Multipack: 2 (2 × 1) pre-filled pens
+
+Multipack: 3 (3 × 1) pre-filled pens
+
+Multipack: 6 (6 × 1) pre-filled pens
+
+## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+
+Subcutaneous use
+
+Read the package leaflet before use.
+
+For single use only.
+
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
+Keep out of the sight and reach of children.
+
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+## 8. EXPIRY DATE
+
+EXP
+
+<div style=\"page-break-after: always\"></div>
+
+## 9. SPECIAL STORAGE CONDITIONS
+
+Store in a refrigerator.
+
+Do not freeze.
+
+Keep the pre-filled pen in the original package in order to protect from light.
+
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+
+Celltrion Healthcare Hungary Kft.
+
+1062 Budapest,
+
+Váci út 1-3. WestEnd Office Building B torony
+
+Hungary
+
+## 12. MARKETING AUTHORISATION NUMBER(S)
+
+EU/1/24/1817/019
+
+300 mg solution for injection in pre-filled pen (2 x 1)
+
+EU/1/24/1817/020 300 mg solution for injection in pre-filled pen (3 x 1)
+
+EU/1/24/1817/021 300 mg solution for injection in pre-filled pen (6 x 1)
+
+## 13. BATCH NUMBER
+
+Lot
+
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
+
+## 15. INSTRUCTIONS ON USE
+
+## 16. INFORMATION IN BRAILLE
+
+Omlyclo 300 mg
+
+## 17. UNIQUE IDENTIFIER -2D BARCODE
+
+2D barcode carrying the unique identifier included.
+
+## 18. UNIQUE IDENTIFIER -HUMAN READABLE DATA
+
+PC SN
+
+NN
+
+<div style=\"page-break-after: always\"></div>
+
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
+
+## INTERMEDIATE CARTON OF MULTIPACKS (WITHOUT BLUE BOX)
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Omlyclo 300 mg solution for injection in pre-filled pen omalizumab
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+
+One 2 ml pre-filled pen contains 300 mg of omalizumab.
+
+## 3. LIST OF EXCIPIENTS
+
+Excipients: L-arginine hydrochloride, L-histidine hydrochloride monohydrate, L-histidine, polysorbate 20 (E 432), water for injections. See package leaflet for further information.
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+Solution for injection in pre-filled pen
+
+300 mg/2 ml
+
+1 pre-filled pen. Component of a multipack. Not to be sold separately.
+
+## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+
+Subcutaneous use
+
+Read the package leaflet before use.
+
+For single use only.
+
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
+Keep out of the sight and reach of children.
+
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+## 8. EXPIRY DATE
+
+EXP
+
+<div style=\"page-break-after: always\"></div>
+
+## 9. SPECIAL STORAGE CONDITIONS
+
+Store in a refrigerator.
+
+Do not freeze.
+
+Keep the pre-filled pen in the original package in order to protect from light.
+
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+
+Celltrion Healthcare Hungary Kft.
+
+1062 Budapest,
+
+Váci út 1-3. WestEnd Office Building B torony
+
+Hungary
+
+## 12. MARKETING AUTHORISATION NUMBER(S)
+
+EU/1/24/1817/019 300 mg solution for injection in pre-filled pen (2 x 1) EU/1/24/1817/020 300 mg solution for injection in pre-filled pen (3 x 1) EU/1/24/1817/021 300 mg solution for injection in pre-filled pen (6 x 1)
+
+## 13. BATCH NUMBER
+
+Lot
+
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
+
+## 15. INSTRUCTIONS ON USE
+
+## 16. INFORMATION IN BRAILLE
+
+Omlyclo 300 mg
+
+## 17. UNIQUE IDENTIFIER -2D BARCODE
+
+## 18. UNIQUE IDENTIFIER -HUMAN READABLE DATA
+
+<div style=\"page-break-after: always\"></div>
+
+| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
+|------------------------------------------------------------------|
+| PRE-FILLED PEN LABEL                                             |
+
+## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
+
+Omlyclo 300 mg injection omalizumab SC
+
+| 2.   | METHODOFADMINISTRATION   |
+|------|--------------------------|
+
+| 3.   | EXPIRY DATE   |
+|------|---------------|
+
+EXP
+
+| 4.   | BATCH NUMBER   |
+|------|----------------|
+
+Lot
+
+| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
+|------|---------------------------------------|
+
+2 ml
 
 | 6.   | OTHER   |
 |------|---------|
@@ -3466,7 +3723,7 @@ Celltrion Healthcare Hungary Kft. 1062 Budapest, Váci út 1-3. WestEnd Office B
 
 Nuvisan France SARL 2400, Route des Colles, 06410, Biot, France
 
-MIDAS Pharma GmbH Rheinstrasse 49 55218 West Ingelheim Am Rhein Rhineland-Palatinate Germany
+MIDAS Pharma GmbH Rheinstrasse 49 55218 Ingelheim Am Rhein Rhineland-Palatinate Germany
 
 Kymos S.L. Ronda De Can Fatjo 7b Parc Tecnologic Del Valles 08290 Cerdanyola Del Valles Barcelona Spain
 
@@ -3536,9 +3793,7 @@ Tél.: +33 (0)1 71 25 27 00
 
 ## Hrvatska
 
-Oktal Pharma d.o.o.
-
-Tel: +385 1 6595 777
+Oktal Pharma d.o.o. Tel: +385 1 6595 777
 
 ## Ireland
 
@@ -3558,7 +3813,9 @@ C.A. Papaellinas Ltd Τηλ : +357 22741741
 
 ## Latvija
 
-Celltrion Healthcare Hungary Kft. Tālr.: +36 1 231 0493
+Celltrion Healthcare Hungary Kft.
+
+Tālr.: +36 1 231 0493
 
 ## This leaflet was last revised in
 
@@ -3580,7 +3837,9 @@ Celltrion Healthcare Hungary Kft. Tel.: +36 1 231 0493
 
 ## Portugal
 
-CELLTRION PORTUGAL, UNIPESSOAL LDA Tel: +351 21 936 8542 contact\\_pt@celltrion.com
+CELLTRION PORTUGAL, UNIPESSOAL LDA
+
+Tel: +351 21 936 8542 contact\\_pt@celltrion.com
 
 ## România
 
@@ -3598,11 +3857,7 @@ Celltrion Healthcare Hungary Kft. Tel: +36 1 231 0493
 
 Celltrion Healthcare Finland Oy. Puh/Tel: +358 29 170 7755 contact\\_fi@celltrionhc.com
 
-## Sverige
-
-Celltrion Sweden AB
-
-Tel: +46 8 80 11 77
+Sverige Celltrion Sweden AB Tel: +46 8 80 11 77
 
 Contact\\_se@celltrionhc.com
 
@@ -3610,7 +3865,7 @@ Contact\\_se@celltrionhc.com
 
 ## INSTRUCTIONS FOR USE OF OMLYCLO PRE-FILLED SYRINGE
 
-Read and follow the Instructions for Use that come with your Omlyclo Pre-filled Syringe before you start using it and each time you get a refill. There may be new information. Before  you use Omlyclo Prefi lled Syringe for the fi rst time, make sure your healthcare provider shows you the right way to use it.
+Read and follow the Instructions for Use that come with your Omlyclo Pre-filled Syringe before you start using it and each time you get a refill. There may be new information. Before  you use Omlyclo Pre-filled Syringe for the first time, make  sure your healthcare provider shows you the right way to use it.
 
 Children (6 to 11 years of age) should not inject Omlyclo Pre-filled Syringes themselves, however, if deemed appropriate by their healthcare provider, a caregiver may give them their injection after proper training.
 
@@ -3843,7 +4098,7 @@ Figure P
 ## 15. If your prescribed dose requires more than 1 injection:
 
 - a. Throw away the used Pre-filled Syringe as described in Step 16. Dispose of the Pre-filled Syringe.
-- b. Repeat Step 1 through Step 14 for the next injection using a new Pre-filled Syringe.
+- b. Repeat Step 2 through Step 14 for the next injection using a new Pre-filled Syringe.
 3. ⚫ Make sure each injection is at least 2 cm apart from each other.
 4. ⚫ Complete all the required injections for your prescribed dose, immediately one after another.
 5. ⚫ Contact your healthcare provider if you have any questions.
@@ -3931,8 +4186,7 @@ Omlyclo works by blocking a substance called immunoglobulin E (IgE), which is pr
 ## Do not use Omlyclo:
 
 - -if you are allergic to omalizumab or any of the other ingredients of this medicine (listed in section 6). (See special warnings at the end of this section under subtitle ' Omlyclo contains polysorbate ')
-
-If you think you may be allergic to any of the ingredients, tell your doctor as you should not use Omlyclo.
+- -if you think you may be allergic to any of the ingredients, tell your doctor as you should not use Omlyclo.
 
 ## Warnings and precautions
 
@@ -3951,7 +4205,7 @@ Omlyclo is not meant to prevent or treat other allergy-type conditions, such as 
 
 Omlyclo can potentially cause serious side effects. You must look out for signs of these conditions while you use Omlyclo. Seek medical help immediately if you notice any signs indicating a severe allergic reaction or other serious side effects. Such signs are listed under 'Serious side effects' in section 4.
 
-It is important that you receive training from your doctor in how to recognise early symptoms of severe allergic reactions, and how to manage these reactions if they occur, before you inject Omlyclo yourself or before a non-healthcare professional gives you a Omlyclo injection (see section 3, 'How to use Omlyclo '). The majority of severe allergic reactions occur within the first 3 doses of Omlyclo.
+It is important that you receive training from your doctor in how to recognise early symptoms of severe allergic reactions, and how to manage these reactions if they occur, before you inject Omlyclo yourself or before a non-healthcare professional gives you an Omlyclo injection (see section 3, 'How to use Omlyclo '). The majority of severe allergic reactions occur within the first 3 doses of Omlyclo.
 
 ## Children and adolescents
 
@@ -3988,7 +4242,7 @@ It is unlikely that Omlyclo will affect your ability to drive and use machines.
 
 ## Omlyclo contains polysorbate
 
-This medicine contains 0.20 mg of polysorbate 20 in each pre-filled pen, which is equivalent to 0.40 mg/ml. Polysorbates may cause allergic reactions. Tell your doctor if you or your child has any known allergies
+This medicine contains 0.20 mg of polysorbate 20 in each pre-filled pen, which is equivalent to 0.40 mg/ml. Polysorbates may cause allergic reactions. Tell your doctor if you or your child has any known allergies.
 
 ## 3. How to use Omlyclo
 
@@ -4019,7 +4273,7 @@ For more information about the early signs and symptoms of serious allergic reac
 
 Your doctor will decide how much Omlyclo you need and how often you will need it. This depends on your body weight and the results of a blood test carried out before the start of the treatment to measure the amount of IgE in your blood.
 
-You will need 1 to 4 injections at a time. You will need the injections either every two weeks, or every four weeks.
+You will need 1 to 3 injections at a time. You will need the injections either every two weeks, or every four weeks.
 
 Keep taking your current asthma and/or nasal polyps medicine during Omlyclo treatment. Do not stop taking any asthma and/or nasal polyps medicine without talking to your doctor.
 
@@ -4145,7 +4399,7 @@ Celltrion Healthcare Hungary Kft. 1062 Budapest, Váci út 1-3. WestEnd Office B
 
 Nuvisan France SARL 2400, Route des Colles, 06410, Biot, France
 
-MIDAS Pharma GmbH Rheinstrasse 49 55218 West Ingelheim Am Rhein Rhineland-Palatinate Germany
+MIDAS Pharma GmbH Rheinstrasse 49 55218 Ingelheim Am Rhein Rhineland-Palatinate Germany
 
 Kymos S.L. Ronda De Can Fatjo 7b Parc Tecnologic Del Valles 08290 Cerdanyola Del Valles Barcelona Spain
 
@@ -4175,9 +4429,7 @@ Celltrion Healthcare Hungary Kft. Tel: +36 1 231 0493
 
 ## Magyarország
 
-Celltrion Healthcare Hungary Kft.
-
-Tel.: +36 1 231 0493
+Celltrion Healthcare Hungary Kft. Tel.: +36 1 231 0493
 
 ## Danmark
 
@@ -4281,9 +4533,7 @@ contact\\_pt@celltrion.com
 
 ## România
 
-Celltrion Healthcare Hungary Kft.
-
-Tel: +36 1 231 0493
+Celltrion Healthcare Hungary Kft. Tel: +36 1 231 0493
 
 ## Slovenija
 
@@ -4311,7 +4561,7 @@ Contact\\_se@celltrionhc.com
 
 ## INSTRUCTIONS FOR USE OF OMLYCLO PRE-FILLED PEN
 
-Read and follow the Instructions for Use that come with Omlyclo pre-filled pen before you start using it and each time you get a refill. There may be new information. Before you use Omlyclo, make sure your healthcare provider shows you the right way to use it.
+Read and follow the Instructions for Use that come with your Omlyclo pre-filled pen before you start using it and each time you get a refill. There may be new information. Before you use Omlyclo, make sure your healthcare provider shows you the right way to use it.
 
 Adolescents 12 years of age and older: Omlyclo pre-filled pen may be self-administered under adult supervision. The Omlyclo pre-filled pen (all doses) are intended for use only in adults and adolescents aged 12 years and older.
 
@@ -4323,7 +4573,7 @@ Figure A
 
 ## Choose the Correct Pre-filled pen or Combination of Pre-filled pens
 
-Omlyclo pre-filled pens are available in 2 dose strengths (see Figure B ). These instructions are to be used for both dose strengths.
+Omlyclo pre-filled pens are available in 3 dose strengths (see Figure B ).
 
 Figure B
 
@@ -4341,17 +4591,9 @@ Figure C
 
 Note: Your healthcare provider may prescribe a different combination of pre-filled pens for your complete dose.
 
-## How Should I Store Omlyclo?
+## Important information you need to know before injecting Omlyclo
 
-- Store the unused pre-filled pen in the original carton in a refrigerator between 2°C to 8º C.
-- Before giving an injection, the carton can be removed from and placed back in the refrigerator if needed. The total combined time out of the refrigerator may not exceed 7 days. If Omlyclo is exposed to temperatures above 25°C, do not use Omlyclo and throw it away in a sharps disposal container.
-- Do not remove the pre-filled pen from its original carton during storage.
-- Keep the pre-filled pen out of direct sunlight.
-- Do not freeze. Do not use if the pre-filled pen has been frozen.
-- Keep the pre-filled pen, sharps disposal container, and all medicines out of sight and the reach of children.
-
-## Important Information
-
+- Omlyclo is for subcutaneous injection only (inject directly into fatty layer under the skin).
 - Do not use if the carton is damaged or appears to be tampered with.
 - Do not open the carton until you are ready to inject.
 - Do not use the pre-filled pen if it has been damaged or appears to be tampered with.
@@ -4360,12 +4602,18 @@ Note: Your healthcare provider may prescribe a different combination of pre-fill
 - Do not try to take apart the pre-filled pen at any time.
 - Do not clean or touch the needle cover.
 
+## How Should I Store Omlyclo?
+
+- Store the unused pre-filled pen in the original carton in a refrigerator between 2°C to 8º C.
+- Before giving an injection, the carton can be removed from and placed back in the refrigerator if needed. The total combined time out of the refrigerator may not exceed 7 days. If Omlyclo is exposed to temperatures above 25°C, do not use Omlyclo and throw it away in a sharps disposal container.
+- Do not remove the pre-filled pen from its original carton during storage.
+- Keep the pre-filled pen out of direct sunlight.
+- Do not freeze. Do not use if the pre-filled pen has been frozen.
+- Keep the pre-filled pen, sharps disposal container, and all medicines out of sight and the reach of children. Contains small parts.
+
 <div style=\"page-break-after: always\"></div>
 
 ## Preparing for the Injection
-
-1. Take the carton containing the pre-filled pen out of the refrigerator.
-2. 1.a. If you need more than 1 pre-filled pen to deliver your prescribed dose (see Figure C ), take all the cartons out of the refrigerator at the same time (each carton contains 1 pre-filled pen). The following steps must be followed for each pre-filled pen.
 
 <!-- image -->
 
@@ -4379,7 +4627,14 @@ Figure F
 
 <!-- image -->
 
-## 2. Gather supplies needed to give your injection (see Figure D).
+## 1. Take the carton containing the Pre-filled Pen out of the refrigerator and allow the Pre-filled Pen to reach room temperature.
+
+- 1.a. If you need more than 1 pre-filled pen to deliver your prescribed dose (see Figure C ), take all the cartons out of the refrigerator at the same time (each carton contains 1 pre-filled pen). The following steps must be followed for each pre-filled pen.
+- 1.b. Set aside the unopened carton on a clean, flat surface for at least 30 to 45 minutes to allow it to warm up. Leave the pre-filled pen in the carton to protect it from light (see Figure D ).
+- Do not warm the pre-filled pen using heat sources such as hot water or a microwave.
+- If the pre-filled pen does not reach room temperature, this could cause discomfort.
+
+## 2. Gather supplies needed to give your injection (see Figure E).
 
 - 2.a. Carton containing Omlyclo pre-filled pen
 
@@ -4392,94 +4647,76 @@ Not included in the carton:
 
 Note : You may need more than 1 Omlyclo prefilled pen for your prescribed dose. See the Dosing Table ( Figure C ) for more information. Each Omlyclo carton contains 1 pre-filled pen.
 
-## 3. Check the expiration date on the carton (see Figure E).
+## 3. Check the expiration date on the carton (see Figure F).
 
 - Do not use the pre-filled pen if the expiration date has passed.
-- If the expiration date has passed, throw away the pre-filled pen in a sharps disposal container (see Step 17 ) and contact your healthcare provider.
-
-## 4. Allow the pre-filled pen to reach room temperature.
-
-4a. Set aside the carton on a clean flat surface for 30 to 45 minutes so the pre-filled pen can warm up on its own to room temperature. Leave the pre-filled pen in the carton to protect it from light (see Figure F ).
-
-- If the pre-filled pen does not reach room temperature, this could cause discomfort.
-- Do not warm the pre-filled pen using heat sources such as hot water or a microwave.
+- If the expiration date has passed, throw away the pre-filled pen in a sharps disposal container (see Step 16 ) and contact your healthcare provider.
 
 <div style=\"page-break-after: always\"></div>
 
-<!-- image -->
-
 Figure G
+
+<!-- image -->
 
 Figure H
 
 <!-- image -->
 
-Figure I
+## 4. Open the carton.
 
-<!-- image -->
-
-## 5. Open the carton.
-
-5a. Wash your hands with soap and water. 5b. Take the pre-filled pen out of the carton by holding it from the middle (see Figure G ).
-
+- 4.a. Wash your hands with soap and water.
+- 4.b. Take the pre-filled pen out of the carton by holding it from the middle (see Figure G ).
 - Do not turn the carton upside down to take out the pre-filled pen as this may damage it.
 - Do not hold the pre-filled pen by the cap.
 - Do not remove the cap until you are ready to inject.
 
-## 6. Check the pre-filled pen
+## 5. Check the pre-filled pen
 
-6a. Look through the viewing window of the prefilled pen to check that the liquid is clear to slightly cloudy, colourless to pale brownish-yellow and free of particles or flakes. You may notice air bubbles in the medicine, which is normal (see Figure H ).
-
+- 5.a. Look through the viewing window of the prefilled pen to check that the liquid is clear to slightly cloudy, colourless to pale brownishyellow and free of particles or flakes. You may notice air bubbles in the medicine, which is normal (see Figure H ).
 - Do not use the pre-filled pen if the liquid is discoloured, distinctly cloudy, or has particles or flakes in it.
-- 6b. Check the expiration date on the pre-filled pen.
+- 5.b. Check the expiration date on the pre-filled pen.
 - Do not use the pre-filled pen if the expiration date has passed.
-
-6c. Check the pre-filled pen for signs of damage or if it appears to be tampered with.
-
+- 5.c. Check the pre-filled pen for signs of damage or if it appears to be tampered with.
 - Do not use the pre-filled pen if it appears to be damaged or tampered with.
-
-6d. If the medicine does not look as described or if the expiration date has passed, safely dispose of the pre-filled pen in a sharps disposal container (see Step 17 ) and contact your healthcare provider.
-
-## 7. Choose an appropriate injection site (see Figure I).
-
-- 7a. The recommended site is:
-- The front of the thighs. You may also use the lower abdomen, but not the area 5 cm around the navel (belly button).
-- The outer area of the upper arm (only if you are a caregiver or healthcare professional (HCP)).
-- Do not inject into the upper arm by yourself.
-- Do not inject into moles, scars, bruises, or areas where the skin is tender, red, or hard, or if there are breaks in the skin.
-- Do not inject through clothing. The injection site should be exposed, clean skin
-- If your prescribed dose requires more than 1 injection, make sure your injections are at least 2 cm apart from each other
+- 5.d. If the medicine does not look as described or if the expiration date has passed, safely dispose of the pre-filled pen in a sharps disposal container (see Step16 ) and contact your healthcare provider.
 
 <div style=\"page-break-after: always\"></div>
+
+Figure I
+
+<!-- image -->
 
 Figure J
 
 <!-- image -->
 
-## Giving the Injection
+## 6. Choose an injection site (see Figure I).
 
-Figure K
+- 6.a. If you are giving yourself the injection, you can inject into:
+- -The front of the thighs.
+- -The lower stomach area (lower abdomen) except within the 5 cm area around your belly button (navel).
+- 6.b. If a caregiver or healthcare provider (HCP) is giving the injection, they can use:
+- -The outer area of the upper arm.
+- -The front of the thighs.
+- -The lower stomach area (lower abdomen) except within the 5 cm area around your belly button (navel).
+- Do not inject into the upper arm by yourself.
+- Do not inject into moles, scars, bruises, or areas where the skin is tender, red, or hard, or if there are breaks in the skin.
+- Do not inject through clothing. The injection site should be exposed, clean skin.
+- If your prescribed dose requires more than 1 injection, make sure your injections are at least 2 cm apart from each other.
 
-<!-- image -->
+## 7. Clean the injection site.
 
-## 8. Clean the injection site.
-
-8a. Wipe the injection site with an alcohol swab in a circular motion and let it air dry for 10 seconds (see Figure J ).
-
+- 7.a. Wipe the injection site with an alcohol swab in a circular motion and let it air dry for 10 seconds (see Figure J ).
 - Do not touch the injection site again before giving the injection.
 - Do not fan or blow on the clean area.
 
-## 9. Remove the cap.
-
-9a. Hold the pre-filled pen firmly with 1 hand and pull the cap straight off with the other hand (see Figure K ).
-
-- Do not twist the cap.
-- Do not re -cap the pre-filled pen.
-- You may see a few drops of liquid at the end of the Needle. This is normal
-- 9b. Throw away the cap in regular household trash.
-- Do not clean or touch the needle cover at the tip of the pre-filled pen.
-
 <div style=\"page-break-after: always\"></div>
+
+## Giving the Injection
+
+<!-- image -->
+
+Figure K
 
 Figure L
 
@@ -4489,19 +4726,25 @@ Figure M
 
 <!-- image -->
 
-## 10. Position the pre-filled pen.
+## 8. Remove the cap.
 
-10a. Hold the pre-filled pen comfortably with the needle cover directly against the skin and position it so you can see the viewing window.
+- 8.a. Hold the pre-filled pen firmly with 1 hand and pull the cap straight off with the other hand (see Figure K ).
+- Do not twist the cap.
+- Do not re -cap the pre-filled pen.
+- You may see a few drops of liquid at the end of the needle. This is normal
+- 8.b. Throw away the cap in regular household trash.
+- Do not clean or touch the needle cover at the tip of the pre-filled pen.
 
-10b. Without pinching or stretching the skin, place the pre-filled pen against the skin at a 90-degree angle (see Figure L ).
+## 9. Position the pre-filled pen.
 
-## 11. Start the injection.
+- 9.a. Hold the pre-filled pen comfortably with the needle cover directly against the skin and position it so you can see the viewing window.
+- 9.b. Without pinching or stretching the skin, place the pre-filled pen against the skin at a 90degree angle (see Figure L ).
 
-11a. Press straight down and hold the pre-filled pen firmly against the skin. The 1 st click indicates that the injection has started (see Figure M ).
+## 10. Start the injection.
 
-11b. Hold the pre-filled pen tightly in place.
-
-· Do not change the angle of the injection or remove the pre-filled pen until the injection is completed.
+- 10.a. Press straight down and hold the pre-filled pen firmly against the skin. The 1 st click indicates that the injection has started (see Figure M ).
+- 10.b. Hold the pre-filled pen tightly in place.
+- Do not change the angle of the injection or remove the pre-filled pen until the injection is completed.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -4517,43 +4760,33 @@ Figure P
 
 <!-- image -->
 
-## 12. Monitor the injection using the yellow indicator.
+## 11. Monitor the injection using the yellow indicator.
 
-12a. Keep holding the pre-filled pen against the skin. The yellow indicator will move within the viewing window (see Figure N ).
+- 11.a. Keep holding the pre-filled pen against the skin. The yellow indicator will move within the viewing window (see Figure N ).
+12. Complete the injection.
+- 12.a. Listen for the 2 nd click. This indicates that the injection is almost complete (see Figure O ).
+- 12.b. After you hear the 2 nd 'click', continue to hold the pre-filled pen firmly against the skin and count slowly to 5 to make sure you inject the full dose (see Figure O ).
+- 12.c. Hold the pre-filled pen in position until the yellow indicator has stopped moving and completely fills the viewing window to make sure the injection is complete.
 
-## 13. Complete the injection.
+## 13. Remove the pre-filled pen from the skin and check the yellow indicator (see Figure P).
 
-13a. Listen for the 2 nd click. This indicates that the injection is almost complete (see Figure O ).
-
-13b. After you hear the 2 nd 'click', continue to hold the pre-filled pen firmly against the skin and count slowly to 5 to make sure you inject the full dose (see Figure O ).
-
-13c. Hold the pre-filled pen in position until the yellow indicator has stopped moving and completely fills the viewing window to make sure the injection is complete.
-
-## 14. Remove the pre-filled pen from the skin and check the yellow indicator (see Figure P).
-
-14a. After the yellow indicator has stopped moving and has completely filled the viewing window, lift the pre-filled pen straight up from the skin. The needle cover will automatically extend and lock over the needle.
-
-· If the yellow indicator has not completely filled the viewing window, contact your healthcare provider or pharmacist.
+- 13.a. After the yellow indicator has stopped moving and has completely filled the viewing window, lift the pre-filled pen straight up from the skin. The needle cover will automatically extend and lock over the needle.
+- If the yellow indicator has not completely filled the viewing window, contact your healthcare provider or pharmacist.
 
 <div style=\"page-break-after: always\"></div>
 
-## 15. Care for the injection site.
+## 14. Care for the injection site.
 
-15a. If a little bleeding occurs or there is a drop of liquid at the injection site, treat the injection site by gently pressing, not rubbing, a cotton ball or gauze to the site and apply an adhesive bandage if needed.
+- 14.a. If a little bleeding occurs or there is a drop of liquid at the injection site, treat the injection site by gently pressing, not rubbing, a cotton ball or gauze to the site and apply an adhesive bandage if needed.
+- Do not rub the injection site.
+- 14.b. In the case of skin contact with the medicine, wash the area that touched the medicine with water.
 
-## · Do not rub the injection site.
+## 15. If your prescribed dose requires more than 1 injection:
 
-15b. In the case of skin contact with the medicine, wash the area that touched the medicine with water.
-
-## 16. If your prescribed dose requires more than 1 injection:
-
-16a. Throw away the used pre-filled pen as described in Step 17 and Figure Q .
-
-16b. Repeat Step 2 through Step 15 for the next injection using a new pre-filled pen.
-
-16c. Choose a different injection site for each new injection at least 2 cm apart from other injection sites.
-
-16d. Complete all the required injections for your prescribed dose, immediately one after another. Contact your healthcare provider if you have any questions.
+- 15.a. Throw away the used pre-filled pen as described in Step 16 and Figure Q .
+- 15.b. Repeat Step 2 through Step 14 for the next injection using a new pre-filled pen.
+- 15.c. Choose a different injection site for each new injection at least 2 cm apart from other injection sites.
+- 15.d. Complete all the required injections for your prescribed dose, immediately one after another. Contact your healthcare provider if you have any questions.
 
 ## After the injection
 
@@ -4561,10 +4794,9 @@ Figure Q
 
 <!-- image -->
 
-## 17. Throw away (dispose of) pre-filled pen
+## 16. Throw away (dispose of) pre-filled pen
 
-17a. Put the used pre-filled pen and other supplies in a sharps disposal container right away after use (see Figure Q ).
-
+- 16.a. Put the used pre-filled pen and other supplies in a sharps disposal container right away after use (see Figure Q ).
 - Do not re-use the pre-filled pen.
 - Do not re-cap the pre-filled pen.
 - Do not dispose of your used sharps disposal container in your household trash unless you community guidelines permit this.
@@ -4879,7 +5111,7 @@ MIDAS Pharma GmbH Rheinstrasse 49
 
 <div style=\"page-break-after: always\"></div>
 
-55218 West Ingelheim Am Rhein Rhineland-Palatinate Germany
+55218 Ingelheim Am Rhein Rhineland-Palatinate Germany
 
 Kymos S.L. Ronda De Can Fatjo 7b Parc Tecnologic Del Valles 08290 Cerdanyola Del Valles Barcelona Spain
 
@@ -4965,7 +5197,9 @@ Celltrion Healthcare France SAS Tél.: +33 (0)1 71 25 27 00
 
 ## Hrvatska
 
-Oktal Pharma d.o.o. Tel: +385 1 6595 777
+Oktal Pharma d.o.o.
+
+Tel: +385 1 6595 777
 
 ## Ireland
 
@@ -4977,9 +5211,7 @@ Celltrion Healthcare Hungary Kft. Sí mi: +36 1 231 0493 contact\\_fi@celltrionh
 
 ## Italia
 
-Celltrion Healthcare Italy S.R.L. Tel: +39 0247927040
-
-celltrionhealthcare\\_italy@legalmail.it
+Celltrion Healthcare Italy S.R.L. Tel: +39 0247927040 celltrionhealthcare\\_italy@legalmail.it
 
 ## Κύπρος
 
@@ -5029,7 +5261,7 @@ Contact\\_se@celltrionhc.com
 
 ## INSTRUCTIONS FOR USE OF OMLYCLO PRE-FILLED SYRINGE
 
-Read and follow the Instructions for Use that come with your Omlyclo Pre-filled Syringe before you start using it and each time you get a refill. There may be new information. Before  you use Omlyclo Prefi lled Syringe for the fi rst time, make sure your healthcare provider shows you the right way to use it.
+Read and follow the Instructions for Use that come with your Omlyclo Pre-filled Syringe before you start using it and each time you get a refill. There may be new information. Before  you use Omlyclo Pre-filled Syringe for the first time, make  sure your healthcare provider shows you the right way to use it.
 
 Children (6 to 11 years of age) should not inject Omlyclo Pre-filled Syringes themselves, however, if deemed appropriate by their healthcare provider, a caregiver may give them their injection after proper training.
 
@@ -5269,7 +5501,7 @@ Figure P
 ## 15. If your prescribed dose requires more than 1 injection:
 
 - a. Throw away the used Pre-filled Syringe as described in Step 16. Dispose of the Pre-filled Syringe.
-- b. Repeat Step 1 through Step 14 for the next injection using a new Pre-filled Syringe.
+- b. Repeat Step 2 through Step 14 for the next injection using a new Pre-filled Syringe.
 3. ⚫ Make sure each injection is at least 2 cm apart from each other.
 4. ⚫ Complete all the required injections for your prescribed dose, immediately one after another.
 5. ⚫ Contact your healthcare provider if you have any questions.
@@ -5297,9 +5529,9 @@ Figure P
 5. ⚫ If you do not have a sharps disposal container, you may use a household container that is closable and puncture resistant.
 6. ⚫ Talk to your doctor or pharmacist about proper disposal of the sharps disposal container. There may be local regulations for disposal.
 
-## Package leaflet: Information for the user
-
 <div style=\"page-break-after: always\"></div>
+
+## Package leaflet: Information for the user
 
 ## Omlyclo 150 mg solution for injection in pre-filled pen
 
@@ -5354,8 +5586,7 @@ Omlyclo works by blocking a substance called immunoglobulin E (IgE), which is pr
 ## Do not use Omlyclo:
 
 - -if you are allergic to omalizumab or any of the other ingredients of this medicine (listed in section 6). (See special warnings at the end of this section under subtitle ' Omlyclo contains polysorbate ')
-
-If you think you may be allergic to any of the ingredients, tell your doctor as you should not use Omlyclo.
+- -if you think you may be allergic to any of the ingredients, tell your doctor as you should not use Omlyclo.
 
 ## Warnings and precautions
 
@@ -5374,7 +5605,7 @@ Omlyclo is not meant to prevent or treat other allergy-type conditions, such as 
 
 Omlyclo can potentially cause serious side effects. You must look out for signs of these conditions while you use Omlyclo. Seek medical help immediately if you notice any signs indicating a severe allergic reaction or other serious side effects. Such signs are listed under 'Serious side effects' in section 4.
 
-It is important that you receive training from your doctor in how to recognise early symptoms of severe allergic reactions, and how to manage these reactions if they occur, before you inject Omlyclo yourself or before a non-healthcare professional gives you a Omlyclo injection (see section 3, 'How to use Omlyclo '). The majority of severe allergic reactions occur within the first 3 doses of Omlyclo.
+It is important that you receive training from your doctor in how to recognise early symptoms of severe allergic reactions, and how to manage these reactions if they occur, before you inject Omlyclo yourself or before a non-healthcare professional gives you an Omlyclo injection (see section 3, 'How to use Omlyclo '). The majority of severe allergic reactions occur within the first 3 doses of Omlyclo.
 
 ## Children and adolescents
 
@@ -5415,11 +5646,11 @@ It is unlikely that Omlyclo will affect your ability to drive and use machines.
 
 ## Omlyclo contains polysorbate
 
-This medicine contains 0.40 mg of polysorbate 20 in each pre-filled pen, which is equivalent to 0.40 mg/ml. Polysorbates may cause allergic reactions. Tell your doctor if you or your child has any known allergies
+This medicine contains 0.40 mg of polysorbate 20 in each pre-filled pen, which is equivalent to 0.40 mg/ml. Polysorbates may cause allergic reactions. Tell your doctor if you or your child has any known allergies.
 
 ## 3. How to use Omlyclo
 
-Always use this medicine exactly as your doctor has told you. Check with your doctor, nurse or pharmacist if you are not sure
+Always use this medicine exactly as your doctor has told you. Check with your doctor, nurse or pharmacist if you are not sure.
 
 ## How Omlyclo is used
 
@@ -5450,7 +5681,7 @@ Your doctor will decide how much Omlyclo you need and how often you will need it
 
 <div style=\"page-break-after: always\"></div>
 
-You will need 1 to 4 injections at a time. You will need the injections either every two weeks, or every four weeks.
+You will need 1 to 3 injections at a time. You will need the injections either every two weeks, or every four weeks.
 
 Keep taking your current asthma and/or nasal polyps medicine during Omlyclo treatment. Do not stop taking any asthma and/or nasal polyps medicine without talking to your doctor.
 
@@ -5525,7 +5756,8 @@ Common (may affect up to 1 in 10 people)
 - -pain in the upper part of the tummy
 - -headache (very common in children)
 - -upper respiratory tract infection, such as inflammation of the pharynx and common cold
-- -feeling of pressure or pain in the cheeks and forehead (sinusitis, sinus headache)
+- -
+- feeling of pressure or pain in the cheeks and forehead (sinusitis, sinus headache)
 - -pain in joints (arthralgia)
 - -feeling dizzy
 
@@ -5589,7 +5821,7 @@ Nuvisan France SARL 2400, Route des Colles, 06410, Biot,
 
 France
 
-MIDAS Pharma GmbH Rheinstrasse 49 55218 West Ingelheim Am Rhein Rhineland-Palatinate Germany
+MIDAS Pharma GmbH Rheinstrasse 49 55218 Ingelheim Am Rhein Rhineland-Palatinate Germany
 
 Kymos S.L. Ronda De Can Fatjo 7b Parc Tecnologic Del Valles
 
@@ -5643,7 +5875,7 @@ contact\\_es@celltrion.com
 
 Celltrion Healthcare France SAS Tél.: +33 (0)1 71 25 27 00
 
-## Hrvatska
+Hrvatska
 
 Oktal Pharma d.o.o.
 
@@ -5651,15 +5883,11 @@ Tel: +385 1 6595 777
 
 ## Lietuva
 
-Celltrion Healthcare Hungary Kft.
-
-Tel.: +36 1 231 0493
+Celltrion Healthcare Hungary Kft. Tel.: +36 1 231 0493
 
 ## Luxembourg/Luxemburg
 
-Celltrion Healthcare Belgium BVBA
-
-Tél/Tel: + 32 1 528 7418 BEinfo@celltrionhc.com
+Celltrion Healthcare Belgium BVBA Tél/Tel: + 32 1 528 7418 BEinfo@celltrionhc.com
 
 ## Magyarország
 
@@ -5667,7 +5895,9 @@ Celltrion Healthcare Hungary Kft. Tel.: +36 1 231 0493
 
 ## Malta
 
-Mint Health Ltd. Tel: +356 2093 9800
+Mint Health Ltd.
+
+Tel: +356 2093 9800
 
 ## Nederland
 
@@ -5777,7 +6007,7 @@ Contact\\_se@celltrionhc.com
 
 ## INSTRUCTIONS FOR USE OF OMLYCLO PRE-FILLED PEN
 
-Read and follow the Instructions for Use that come with Omlyclo pre-filled pen before you start using it and each time you get a refill. There may be new information. Before you use Omlyclo, make sure your healthcare provider shows you the right way to use it.
+Read and follow the Instructions for Use that come with your Omlyclo pre-filled pen before you start using it and each time you get a refill. There may be new information. Before you use Omlyclo, make sure your healthcare provider shows you the right way to use it.
 
 Adolescents 12 years of age and older: Omlyclo pre-filled pen may be self-administered under adult supervision. The Omlyclo pre-filled pen (all doses) are intended for use only in adults and adolescents aged 12 years and older.
 
@@ -5789,17 +6019,15 @@ Figure A
 
 ## Choose the Correct Pre-filled pen or Combination of Pre-filled pens
 
-Omlyclo pre-filled pens are available in 2 dose strengths (see Figure B ). These instructions are to be used for both dose strengths.
+Omlyclo pre-filled pens are available in 3 dose strengths (see Figure B ).
 
 Figure B
 
 <!-- image -->
 
-Your prescribed dose may require more than 1 injection. The Dosing Table ( Figure C ) below shows the combination of pre-filled pens needed to give your full dose. Check the label on the
-
 <div style=\"page-break-after: always\"></div>
 
-Omlyclo carton to make sure you have received the correct pre-filled pen or combination of prefilled pens for your prescribed dose. If your dose requires more than 1 injection, complete all injections for your prescribed dose, immediately one after another. Contact your healthcare provider if you have any questions.
+Your prescribed dose may require more than 1 injection. The Dosing Table ( Figure C ) below shows the combination of pre-filled pens needed to give your full dose. Check the label on the Omlyclo carton to make sure you have received the correct pre-filled pen or combination of prefilled pens for your prescribed dose. If your dose requires more than 1 injection, complete all injections for your prescribed dose, immediately one after another. Contact your healthcare provider if you have any questions.
 
 ## Dosing Table
 
@@ -5809,17 +6037,9 @@ Figure C
 
 Note: Your healthcare provider may prescribe a different combination of pre-filled pens for your complete dose.
 
-## How Should I Store Omlyclo?
+## Important information you need to know before injecting Omlyclo
 
-- Store the unused pre-filled pen in the original carton in a refrigerator between 2°C to 8º C.
-- Before giving an injection, the carton can be removed from and placed back in the refrigerator if needed. The total combined time out of the refrigerator may not exceed 7 days. If Omlyclo is exposed to temperatures above 25°C, do not use Omlyclo and throw it away in a sharps disposal container.
-- Do not remove the pre-filled pen from its original carton during storage.
-- Keep the pre-filled pen out of direct sunlight.
-- Do not freeze. Do not use if the pre-filled pen has been frozen.
-- Keep the pre-filled pen, sharps disposal container, and all medicines out of sight and the reach of children.
-
-## Important Information
-
+- Omlyclo is for subcutaneous injection only (inject directly into fatty layer under the skin).
 - Do not use if the carton is damaged or appears to be tampered with.
 - Do not open the carton until you are ready to inject.
 - Do not use the pre-filled pen if it has been damaged or appears to be tampered with.
@@ -5828,12 +6048,18 @@ Note: Your healthcare provider may prescribe a different combination of pre-fill
 - Do not try to take apart the pre-filled pen at any time.
 - Do not clean or touch the needle cover.
 
+## How Should I Store Omlyclo?
+
+- Store the unused pre-filled pen in the original carton in a refrigerator between 2°C to 8º C.
+- Before giving an injection, the carton can be removed from and placed back in the refrigerator if needed. The total combined time out of the refrigerator may not exceed 7 days. If Omlyclo is exposed to temperatures above 25°C, do not use Omlyclo and throw it away in a sharps disposal container.
+- Do not remove the pre-filled pen from its original carton during storage.
+- Keep the pre-filled pen out of direct sunlight.
+- Do not freeze. Do not use if the pre-filled pen has been frozen.
+- Keep the pre-filled pen, sharps disposal container, and all medicines out of sight and the reach of children. Contains small parts.
+
 <div style=\"page-break-after: always\"></div>
 
 ## Preparing for the Injection
-
-1. Take the carton containing the pre-filled pen out of the refrigerator.
-2. 1.a. If you need more than 1 pre-filled pen to deliver your prescribed dose (see Figure C ), take all the cartons out of the refrigerator at the same time (each carton contains 1 pre-filled pen). The following steps must be followed for each pre-filled pen.
 
 <!-- image -->
 
@@ -5847,7 +6073,14 @@ Figure F
 
 <!-- image -->
 
-## 2. Gather supplies needed to give your injection (see Figure D).
+## 1. Take the carton containing the Pre-filled Pen out of the refrigerator and allow the Pre-filled Pen to reach room temperature.
+
+- 1.a. If you need more than 1 pre-filled pen to deliver your prescribed dose (see Figure C ), take all the cartons out of the refrigerator at the same time (each carton contains 1 pre-filled pen). The following steps must be followed for each pre-filled pen.
+- 1.b. Set aside the unopened carton on a clean, flat surface for at least 30 to 45 minutes to allow it to warm up. Leave the pre-filled pen in the carton to protect it from light (see Figure D ).
+- Do not warm the pre-filled pen using heat sources such as hot water or a microwave.
+- If the pre-filled pen does not reach room temperature, this could cause discomfort
+
+## 2. Gather supplies needed to give your injection (see Figure E).
 
 - 2.a. Carton containing Omlyclo pre-filled pen
 
@@ -5860,17 +6093,10 @@ Not included in the carton:
 
 Note : You may need more than 1 Omlyclo pre-filled pen for your prescribed dose. See the Dosing Table ( Figure C ) for more information. Each Omlyclo carton contains 1 pre-filled pen.
 
-## 3. Check the expiration date on the carton (see Figure E).
+## 3. Check the expiration date on the carton (see Figure F).
 
 - Do not use the pre-filled pen if the expiration date has passed.
-- If the expiration date has passed, throw away the pre-filled pen in a sharps disposal container (see Step 17 ) and contact your healthcare provider.
-
-## 4. Allow the pre-filled pen to reach room temperature.
-
-4a. Set aside the carton on a clean flat surface for 30 to 45 minutes so the pre-filled pen can warm up on its own to room temperature. Leave the pre-filled pen in the carton to protect it from light (see Figure F ).
-
-- If the pre-filled pen does not reach room temperature, this could cause discomfort.
-- Do not warm the pre-filled pen using heat sources such as hot water or a microwave.
+- If the expiration date has passed, throw away the pre-filled pen in a sharps disposal container (see Step 16 ) and contact your healthcare provider.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -5882,27 +6108,27 @@ Figure H
 
 <!-- image -->
 
-## 5. Open the carton.
+## 4. Open the carton.
 
-5a. Wash your hands with soap and water. 5b. Take the pre-filled pen out of the carton by holding it from the middle (see Figure G ).
+- 4.a. Wash your hands with soap and water.
+- 4.b. Take the pre-filled pen out of the carton by holding it from the middle (see Figure G ).
 
-- Do not turn the carton upside down to take out the pre-filled pen as this may damage it.
+· Do not turn the carton upside down to take out the pre-filled pen as this may damage it.
+
 - Do not hold the pre-filled pen by the cap.
 - Do not remove the cap until you are ready to inject.
 
-## 6. Check the pre-filled pen
+## 5. Check the pre-filled pen
 
-6a. Look through the viewing window of the prefilled pen to check that the liquid is clear to slightly cloudy, colourless to pale brownish-yellow, and free of particles or flakes. You may notice air bubbles in the medicine, which is normal (see Figure H ).
+- 5.a. Look through the viewing window of the prefilled pen to check that the liquid is clear to slightly cloudy, colourless to pale brownishyellow, and free of particles or flakes. You may notice air bubbles in the medicine, which is normal (see Figure H ).
 
-- Do not use the pre-filled pen if the liquid is discoloured, distinctly cloudy, or has particles or flakes in it.
-- 6b. Check the expiration date on the pre-filled pen.
+· Do not use the pre-filled pen if the liquid is discoloured, distinctly cloudy, or has particles or flakes in it.
+
+- 5.b. Check the expiration date on the pre-filled pen.
 - Do not use the pre-filled pen if the expiration date has passed.
-
-6c. Check the pre-filled pen for signs of damage or if it appears to be tampered with.
-
+- 5.c. Check the pre-filled pen for signs of damage or if it appears to be tampered with.
 - Do not use the pre-filled pen if it appears to be damaged or tampered with.
-
-6d. If the medicine does not look as described or if the expiration date has passed, safely dispose of the pre-filled pen in a sharps disposal container (see Step 17 ) and contact your healthcare provider.
+- 5.d. If the medicine does not look as described or if the expiration date has passed, safely dispose of the pre-filled pen in a sharps disposal container (see Step 16 ) and contact your healthcare provider.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -5914,72 +6140,66 @@ Figure J
 
 <!-- image -->
 
-## Giving the Injection
+## 6. Choose an injection site (see Figure I).
 
-Figure K
-
-<!-- image -->
-
-## 7. Choose an appropriate injection site (see Figure I).
-
-- 7a. The recommended site is:
-- The front of the thighs. You may also use the lower abdomen, but not the area 5 cm around the navel (belly button).
-- The outer area of the upper arm (only if you are a caregiver or healthcare professional (HCP)).
+- 6.a. If you are giving yourself the injection, you can inject into:
+- -The front of the thighs.
+- -The lower stomach area (lower abdomen) except within the 5 cm area around your belly button (navel).
+- 6.b. If a caregiver or healthcare provider (HCP) is giving the injection, they can use:
+- -The outer area of the upper arm.
+- -The front of the thighs.
+- -The lower stomach area (lower abdomen) except within the 5 cm area around your belly button (navel).
 - Do not inject into the upper arm by yourself.
 - Do not inject into moles, scars, bruises, or areas where the skin is tender, red, or hard, or if there are breaks in the skin.
 - Do not inject through clothing. The injection site should be exposed, clean skin.
 - If your prescribed dose requires more than 1 injection, make sure your injections are at least 2 cm apart from each other.
 
-## 8. Clean the injection site.
+## 7. Clean the injection site.
 
-8a. Wipe the injection site with an alcohol swab in a circular motion and let it air dry for 10 seconds (see Figure J ).
-
+- 7.a. Wipe the injection site with an alcohol swab in a circular motion and let it air dry for 10 seconds (see Figure J ).
 - Do not touch the injection site again before giving the injection.
 - Do not fan or blow on the clean area.
 
-## 9. Remove the cap.
-
-9a. Hold the pre-filled pen firmly with 1 hand and pull the cap straight off with the other hand (see Figure K ).
-
-- Do not twist the cap.
-- Do not re-cap the pre-filled pen.
-- You may see a few drops of liquid at the end of the Needle. This is normal.
-- 9b. Throw away the cap in regular household trash.
-- Do not clean or touch the needle cover at the tip of the pre-filled pen.
-
 <div style=\"page-break-after: always\"></div>
+
+## Giving the Injection
 
 <!-- image -->
 
+Figure K
+
 Figure L
+
+<!-- image -->
 
 Figure M
 
 <!-- image -->
 
-Figure N
+## 8. Remove the cap.
+
+- 8.a. Hold the pre-filled pen firmly with 1 hand and pull the cap straight off with the other hand (see Figure K ).
+- Do not twist the cap.
+- Do not re-cap the pre-filled pen.
+- You may see a few drops of liquid at the end of the needle. This is normal.
+- 8.b. Throw away the cap in regular household trash. · Do not clean or touch the needle cover at the tip of the pre-filled pen.
+
+## 9. Position the pre-filled pen.
+
+- 9.a. Hold the pre-filled pen comfortably with the needle cover directly against the skin and position it so you can see the viewing window.
+- 9.b. Without pinching or stretching the skin, place the pre-filled pen against the skin at a 90degree angle (see Figure L ).
+
+## 10. Start the injection.
+
+- 10.a. Press straight down and hold the pre-filled pen firmly against the skin. The 1st click indicates that the injection has started (see Figure M ).
+- 10.b. Hold the pre-filled pen tightly in place.
+- Do not change the angle of the injection or remove the pre-filled pen until the injection is completed.
+
+<div style=\"page-break-after: always\"></div>
 
 <!-- image -->
 
-## 10. Position the pre-filled pen.
-
-10a. Hold the pre-filled pen comfortably with the needle cover directly against the skin and position it so you can see the viewing window.
-
-10b. Without pinching or stretching the skin, place the pre-filled pen against the skin at a 90-degree angle (see Figure L ).
-
-## 11. Start the injection.
-
-11a. Press straight down and hold the pre-filled pen firmly against the skin. The 1st click indicates that the injection has started (see Figure M ).
-
-11b. Hold the pre-filled pen tightly in place.
-
-- Do not change the angle of the injection or remove the pre-filled pen until the injection is completed.
-
-## 12. Monitor the injection using the blue indicator.
-
-12a. Keep holding the pre-filled pen against the skin. The blue indicator will move within the viewing window (see Figure N ).
-
-<div style=\"page-break-after: always\"></div>
+Figure N
 
 Figure O
 
@@ -5989,39 +6209,33 @@ Figure P
 
 <!-- image -->
 
-## 15. Care for the injection site.
+## 11. Monitor the injection using the blue indicator.
 
-15a. If a little bleeding occurs or there is a drop of liquid at the injection site, treat the injection site by gently pressing, not rubbing, a cotton ball or gauze to the site and apply an adhesive bandage if needed.
+- 11.a. Keep holding the pre-filled pen against the skin. The blue indicator will move within the viewing window (see Figure N ).
+12. Complete the injection.
+- 12.a. Listen for the 2 nd click. This indicates that the injection is almost complete (see Figure O ).
+- 12.b. After you hear the 2 nd 'click', continue to hold the pre-filled pen firmly against the skin and count slowly to 5 to make sure you inject the full dose (see Figure O ).
+- 12.c. Hold the pre-filled pen in position until the blue indicator has stopped moving and completely fills the viewing window to make sure the injection is complete.
 
-## · Do not rub the injection site.
+## 13. Remove the pre-filled pen from the skin and check the blue indicator (see Figure P).
 
-15b. In the case of skin contact with the medicine, wash the area that touched the medicine with water.
-
-## 13. Complete the injection.
-
-13a. Listen for the 2 nd click. This indicates that the injection is almost complete (see Figure O ).
-
-13b. After you hear the 2 nd 'click', continue to hold the pre-filled pen firmly against the skin and count slowly to 5 to make sure you inject the full dose (see Figure O ).
-
-13c. Hold the pre-filled pen in position until the blue indicator has stopped moving and completely fills the viewing window to make sure the injection is complete.
-
-## 14. Remove the pre-filled pen from the skin and check the blue indicator (see Figure P).
-
-14a. After the blue indicator has stopped moving and has completely filled the viewing window, lift the pre-filled pen straight up from the skin. The needle cover will automatically extend and lock over the needle.
-
-· If the blue indicator has not completely filled the viewing window, contact your healthcare provider or pharmacist.
+- 13.a. After the blue indicator has stopped moving and has completely filled the viewing window, lift the pre-filled pen straight up from the skin. The needle cover will automatically extend and lock over the needle.
+- If the blue indicator has not completely filled the viewing window, contact your healthcare provider or pharmacist.
 
 <div style=\"page-break-after: always\"></div>
 
-## 16. If your prescribed dose requires more than 1 injection:
+## 14. Care for the injection site.
 
-16a. Throw away the used pre-filled pen as described in Step 17 and Figure Q .
+- 14.a. If a little bleeding occurs or there is a drop of liquid at the injection site, treat the injection site by gently pressing, not rubbing, a cotton ball or gauze to the site and apply an adhesive bandage if needed.
+- ⚫ Do not rub the injection site.
+- 14.b. In the case of skin contact with the medicine, wash the area that touched the medicine with water.
 
-16b. Repeat Step 2 through Step 15 for the next injection using a new pre-filled pen.
+## 15. If your prescribed dose requires more than 1 injection:
 
-16c. Choose a different injection site for each new injection at least 2 cm apart from other injection sites.
-
-16d. Complete all the required injections for your prescribed dose, immediately one after another. Contact your healthcare provider if you have any questions.
+- 15.a. Throw away the used pre-filled pen as described in Step 16 and Figure Q .
+- 15.b. Repeat Step 2 through Step 14 for the next injection using a new pre-filled pen.
+- 15.c. Choose a different injection site for each new injection at least 2 cm apart from other injection sites.
+- 15.d. Complete all the required injections for your prescribed dose, immediately one after another. Contact your healthcare provider if you have any questions.
 
 ## After the injection
 
@@ -6029,10 +6243,9 @@ Figure Q
 
 <!-- image -->
 
-## 17. Throw away (dispose of) pre-filled pen.
+## 16. Throw away (dispose of) pre-filled pen.
 
-17a. Put the used pre-filled pen and other supplies in a sharps disposal container right away after use (see Figure Q ).
-
+- 16.a. Put the used pre-filled pen and other supplies in a sharps disposal container right away after use (see Figure Q ).
 - Do not re-use the pre-filled pen.
 - Do not re-cap the pre-filled pen.
 - Do not dispose of your used sharps disposal container in your household trash unless you community guidelines permit this.
@@ -6046,4 +6259,735 @@ If you do not have a sharps disposal container, you may use a household containe
 - leak -resistant, and
 - properly labeled to warn of hazardous waste inside the container.
 
-Talk  to  your  doctor  or  pharmacist  about  proper disposal of the sharps disposal container. There may be local regulations for disposal.
+Talk  to your  doctor or  pharmacist  about  proper disposal of the sharps disposal container. There may be local regulations for disposal.
+
+<div style=\"page-break-after: always\"></div>
+
+## Package leaflet: Information for the user
+
+## Omlyclo 300 mg solution for injection in pre-filled pen
+
+## omalizumab
+
+This medicinal product is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
+
+## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
+
+- -Keep this leaflet. You may need to read it again.
+- -If you have any further questions, ask your doctor, pharmacist or nurse.
+- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- -If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+
+## What is in this leaflet
+
+1. What Omlyclo is and what it is used for
+2. What you need to know before you use Omlyclo
+3. How to use Omlyclo
+4. Possible side effects
+5. How to store Omlyclo
+6. Contents of the pack and other information
+
+## 1. What Omlyclo is and what it is used for
+
+Omlyclo contains the active substance omalizumab. Omalizumab is a man-made protein that is similar to natural proteins produced by the body. It belongs to a class of medicines called monoclonal antibodies.
+
+## Omlyclo is used for the treatment of:
+
+- -allergic asthma
+- -chronic rhinosinusitis (inflammation of the nose and sinuses) with nasal polyps
+- -chronic spontaneous urticaria (CSU)
+
+## Allergic asthma
+
+This medicine is used to prevent asthma from getting worse by controlling symptoms of severe allergic asthma in adults, adolescents and children (6 years of age and older) who are already receiving asthma medicine, but whose asthma symptoms are not well controlled by medicines such as high-dose steroid inhalers and beta-agonist inhalers.
+
+## Chronic rhinosinusitis with nasal polyps
+
+This medicine is used to treat chronic rhinosinusitis with nasal polyps in adults (18 years of age and older) who are already receiving intranasal corticosteroids (corticosteroid nasal spray), but whose symptoms are not well controlled by these medicines. Nasal polyps are small growths on the lining of the nose. Omlyclo helps to reduce the size of the polyps and improves symptoms including nasal congestion, loss of sense of smell, mucus in the back of the throat and runny nose.
+
+## Chronic spontaneous urticaria (CSU)
+
+This medicine is used to treat chronic spontaneous urticaria in adults and adolescents (12 years of age and older) who are already receiving antihistamines but whose CSU symptoms are not well controlled by these medicines.
+
+<div style=\"page-break-after: always\"></div>
+
+Omlyclo works by blocking a substance called immunoglobulin E (IgE), which is produced by the body. IgE contributes to a type of inflammation that plays a key role in causing allergic asthma, chronic rhinosinusitis with nasal polyps and CSU.
+
+## 2. What you need to know before you use Omlyclo
+
+## Do not use Omlyclo:
+
+- -if you are allergic to omalizumab or any of the other ingredients of this medicine (listed in section 6). (See special warnings at the end of this section under subtitle ' Omlyclo contains polysorbate ')
+- -if you think you may be allergic to any of the ingredients, tell your doctor as you should not use Omlyclo.
+
+## Warnings and precautions
+
+Talk to your doctor before using Omlyclo:
+
+- -if you have kidney or liver problems.
+- -if you have a disorder where your own immune system attacks parts of your own body (autoimmune disease).
+- -if you are travelling to region where infections caused by parasites are common -Omlyclo may weaken your resistance to such infections.
+- -if you have had a previous severe allergic reaction (anaphylaxis), for example resulting from a medicine, an insect bite or food.
+
+Omlyclo does not treat acute asthma symptoms, such as a sudden asthma attack. Therefore, Omlyclo should not be used to treat such symptoms.
+
+Omlyclo is not meant to prevent or treat other allergy-type conditions, such as sudden allergic reactions, hyperimmunoglobulin E syndrome (an inherited immune disorder), aspergillosis (a fungus-related lung disease), food allergy, eczema or hay fever because Omlyclo has not been studied in these conditions.
+
+## Look out for signs of allergic reactions and other serious side effects
+
+Omlyclo can potentially cause serious side effects. You must look out for signs of these conditions while you use Omlyclo. Seek medical help immediately if you notice any signs indicating a severe allergic reaction or other serious side effects. Such signs are listed under 'Serious side effects' in section 4.
+
+It is important that you receive training from your doctor in how to recognise early symptoms of severe allergic reactions, and how to manage these reactions if they occur, before you inject Omlyclo yourself or before a non-healthcare professional gives you an Omlyclo injection (see section 3, 'How to use Omlyclo '). The majority of severe allergic reactions occur within the first 3 doses of Omlyclo.
+
+## Children and adolescents
+
+## Allergic asthma
+
+Omlyclo is not recommended for children under 6 years of age. Its use in children under 6 years of age has not been studied.
+
+## Chronic rhinosinusitis with nasal polyps
+
+Omlyclo is not recommended for children and adolescents under 18 years of age. Its use in patients under 18 years of age has not been studied.
+
+## Chronic spontaneous urticaria (CSU)
+
+Omlyclo is not recommended for children under 12 years of age. Its use in children under 12 years of age has not been studied.
+
+<div style=\"page-break-after: always\"></div>
+
+## Other medicines and Omlyclo
+
+Tell your doctor, pharmacist or nurse if you are taking, have recently taken or might take any other medicines.
+
+This is especially important if you are taking:
+
+- -medicines to treat an infection caused by a parasite, as Omlyclo may reduce the effect of your medicines,
+- -inhaled corticosteroids and other medicines for allergic asthma.
+
+## Pregnancy and breast-feeding
+
+If you are pregnant, think you may be pregnant or are planning to have a baby, ask your doctor for advice before using this medicine. Your doctor will discuss with you the benefits and potential risks of using this medicine during pregnancy.
+
+If you become pregnant while being treated with Omlyclo, tell your doctor immediately.
+
+Omlyclo may pass into breast milk. If you are breast-feeding or plan to breast-feed, ask your doctor for advice before using this medicine.
+
+## Driving and using machines
+
+It is unlikely that Omlyclo will affect your ability to drive and use machines.
+
+## Omlyclo contains polysorbate
+
+This medicine contains 0.80 mg of polysorbate 20 in each pre-filled pen, which is equivalent to 0.40 mg/ml. Polysorbates may cause allergic reactions. Tell your doctor if you or your child has any known allergies.
+
+## 3. How to use Omlyclo
+
+Always use this medicine exactly as your doctor has told you. Check with your doctor, nurse or pharmacist if you are not sure
+
+## How Omlyclo is used
+
+Omlyclo is used as an injection under your skin (known as a subcutaneous injection).
+
+## Injecting Omlyclo
+
+- -You and your doctor will decide if you should inject Omlyclo yourself. The first 3 doses are always given by or under the supervision of a healthcare professional (see section 2).
+- -It is important to be properly trained on how to inject the medicine before injecting yourself.
+- -A caregiver (for example a parent) may also give you your Omlyclo injection after he or she has received proper training.
+
+For detailed instructions on how to inject Omlyclo , see 'Instructions for use of Omlyclo pre-filled pen ' at the end of this leaflet.
+
+## Training to recognise serious allergic reactions
+
+It is also important that you do not inject Omlyclo yourself until you have been trained by your doctor or nurse on:
+
+- -how to recognise the early signs and symptoms of serious allergic reactions
+- -what to do if the symptoms occur.
+
+For more information about the early signs and symptoms of serious allergic reactions, see section 4.
+
+## How much to use
+
+## Allergic asthma and chronic rhinosinusitis with nasal polyps
+
+Your doctor will decide how much Omlyclo you need and how often you will need it. This depends on your body weight and the results of a blood test carried out before the start of the treatment to measure the amount of IgE in your blood.
+
+<div style=\"page-break-after: always\"></div>
+
+You will need 1 to 3 injections at a time. You will need the injections either every two weeks, or every four weeks.
+
+Keep taking your current asthma and/or nasal polyps medicine during Omlyclo treatment. Do not stop taking any asthma and/or nasal polyps medicine without talking to your doctor.
+
+You may not see an immediate improvement after beginning Omlyclo treatment. In patients with nasal polyps effects have been seen 4 weeks after the start of the treatment. In asthma patients it usually takes between 12 and 16 weeks to have the full effect.
+
+## Chronic spontaneous urticaria (CSU)
+
+You will need one 300 mg injection at a time every four weeks.
+
+Keep taking your current medicine for CSU during Omlyclo treatment. Do not stop taking any medicine without talking to your doctor.
+
+## Use in children and adolescents
+
+## Allergic asthma
+
+Omlyclo can be used in children and adolescents aged 6 years and older, who are already receiving asthma medicine, but whose asthma symptoms are not well controlled by medicines such as high dose steroid inhalers and beta-agonist inhalers. Your doctor will work out how much Omlyclo your child needs and how often it needs to be given. This will depend on your child's weight and the results of a blood test carried out before the start of the treatment to measure the amount of IgE in his/her blood.
+
+Children (6 to 11 years of age) should not self-administer Omlyclo. However, if considered appropriate by their doctor, a caregiver may give them their Omlyclo injection after proper training.
+
+Omlyclo pre-filled pens are not intended for use in children under 12 years of age. Omlyclo 75 mg pre-filled syringe and Omlyclo 150 mg pre-filled syringe may be used in children 6-11 years of age with allergic asthma.
+
+## Chronic rhinosinusitis with nasal polyps
+
+Omlyclo should not be used in children and adolescents under 18 years of age.
+
+## Chronic spontaneous urticaria (CSU)
+
+Omlyclo can be used in adolescents aged 12 years of age and older, who are already receiving antihistamines but whose CSU symptoms are not well controlled by these medicines. The dose for adolescents aged 12 years and above is the same as for adults.
+
+## If a dose of Omlyclo is missed
+
+If you have missed an appointment, contact your doctor or hospital as soon as possible to reschedule it.
+
+If you have forgotten to give yourself a dose of Omlyclo, inject the dose as soon as you remember. Then talk to your doctor to discuss when you should inject the next dose.
+
+## If you stop treatment with Omlyclo
+
+Do not stop treatment with Omlyclo unless your doctor tells you to. Interrupting or stopping the treatment with Omlyclo may cause your symptoms to come back.
+
+However, if you are being treated for CSU, your doctor may stop Omlyclo treatment from time to time so that your symptoms can be assessed. Follow your doctor's instructions.
+
+If you have any further questions on the use of this medicine, ask your doctor, pharmacist or nurse.
+
+<div style=\"page-break-after: always\"></div>
+
+## 4. Possible side effects
+
+Like all medicines, this medicine can cause side effects, although not everybody gets them. The side effects caused by Omlyclo are usually mild to moderate but can occasionally be serious.
+
+## Serious side effects:
+
+Seek medical attention immediately if you notice any signs of the following side effects: Rare (may affect up to 1 in 1000 people)
+
+- -Severe allergic reactions (including anaphylaxis). Symptoms may include rash, itching or hives on the skin, swelling of the face, lips, tongue, larynx (voice box), windpipe or other parts of the body, fast heartbeat, dizziness and light-headedness, confusion, shortness of breath, wheezing or trouble breathing, blue skin or lips, collapsing and losing consciousness. If you have a history of severe allergic reactions (anaphylaxis) unrelated to Omlyclo you may be more at risk of developing a severe allergic reaction following use of Omlyclo.
+- -Systemic lupus erythematosus (SLE). Symptoms may include muscle pain, joint pain and swelling, rash, fever, weight loss, and fatigue.
+
+Not known (frequency cannot be estimated from the available data)
+
+- -Churg-Strauss syndrome or hypereosinophilic syndrome. Symptoms may include one or more of the following: swelling, pain or rash around blood or lymph vessels, high level of a specific type of white blood cells (marked eosinophilia), worsening problems with breathing, nasal congestion, heart problems, pain, numbness, tingling in the arms and legs.
+- -Low blood platelet count with symptoms such as bleeding or bruising more easily than normal.
+- -Serum sickness. Symptoms may include one or more of the following: joint pain with or without swelling or stiffness, rash, fever, swollen lymph nodes, muscle pain.
+
+## Other side effects include:
+
+Very common (may affect more than 1 in 10 people)
+
+- -fever (in children)
+
+Common (may affect up to 1 in 10 people)
+
+- -reactions at the injection site including pain, swelling, itching and redness
+- -pain in the upper part of the tummy
+- -headache (very common in children)
+- -upper respiratory tract infection, such as inflammation of the pharynx and common cold
+- -
+- feeling of pressure or pain in the cheeks and forehead (sinusitis, sinus headache)
+- -pain in joints (arthralgia)
+- -feeling dizzy
+
+Uncommon (may affect up to 1 in 100 people)
+
+- -feeling sleepy or tired
+- -tingling or numbness of the hands or feet
+- -fainting, low blood pressure while sitting or standing (postural hypotension), flushing
+- -sore throat, coughing, acute breathing problems
+- -feeling sick (nausea), diarrhoea, indigestion
+- -itching, hives, rash, increased sensitivity of the skin to sun
+- -weight increase
+- -flu-like symptoms
+- -swelling arms
+
+Rare (may affect up to 1 in 1000 people)
+
+- -parasitic infection
+
+<div style=\"page-break-after: always\"></div>
+
+Not known (frequency cannot be estimated from the available data)
+
+- -muscle pain and joint swelling
+- -hair loss
+
+## Reporting of side effects
+
+If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
+
+## 5. How to store Omlyclo
+
+- -Keep this medicine out of the sight and reach of children.
+- -Do not use this medicine after the expiry date which is stated on the label after EXP. The expiry date refers to the last day of that month. The carton containing the pre-filled pen can be stored for a total time of 7 days at room temperature (25 °C) before use.
+- -Store in the original package in order to protect from light.
+- -Store in a refrigerator (2 °C -8 °C). Do not freeze.
+- -Do not use any pack that is damaged or shows signs of tampering.
+
+## 6. Contents of the pack and other information
+
+## What Omlyclo contains
+
+- -The active substance is omalizumab. One pen of 2 ml solution contains 300 mg omalizumab.
+- -The other ingredients are L-arginine hydrochloride, L-histidine hydrochloride monohydrate, Lhistidine, Polysorbate 20 (E 432) and water for injections.
+
+## What Omlyclo looks like and contents of the pack
+
+Omlyclo solution for injection is supplied as a clear to slightly cloudy, colourless to pale brownishyellow solution in a pre-filled pen.
+
+Omlyclo 300 mg solution for injection is available in a pack containing 1 pre-filled pen and in multipacks containing 2 (2 x 1), 3 (3 x 1) or 6 (6 x 1) pre-filled pens.
+
+Not all pack sizes may be marketed in your country.
+
+## Marketing Authorisation Holder
+
+Celltrion Healthcare Hungary Kft. 1062 Budapest, Váci út 1-3. WestEnd Office Building B torony Hungary
+
+## Manufacturer
+
+Nuvisan France SARL 2400, Route des Colles, 06410, Biot,
+
+France
+
+MIDAS Pharma GmbH Rheinstrasse 49 55218 Ingelheim Am Rhein Rhineland-Palatinate Germany
+
+Kymos S.L. Ronda De Can Fatjo 7b Parc Tecnologic Del Valles
+
+<div style=\"page-break-after: always\"></div>
+
+08290 Cerdanyola Del Valles Barcelona Spain
+
+For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
+
+## België/Belgique/Belgien
+
+Celltrion Healthcare Belgium BVBA Tél/Tel: + 32 1 528 7418 BEinfo@celltrionhc.com
+
+## България
+
+Celltrion Healthcare Hungary Kft. Teл.: +36 1 231 0493
+
+## Česká republika
+
+Celltrion Healthcare Hungary Kft. Tel: +36 1 231 0493
+
+## Danmark
+
+Celltrion Healthcare Denmark ApS Contact\\_dk@celltrionhc.com
+
+Tlf: +45 3535 2989
+
+## Deutschland
+
+Celltrion Healthcare Deutschland GmbH Tel: +49 303 464 941 50 infoDE@celltrionhc.com
+
+## Eesti
+
+Celltrion Healthcare Hungary Kft. Tel: +36 1 231 0493 contact\\_fi@celltrionhc.com
+
+## España
+
+CELLTRION FARMACEUTICA (ESPAÑ A) S.L.
+
+Tel: +34 910 498 478
+
+contact\\_es@celltrion.com
+
+## Ελλάδα
+
+ΒΙΑΝΕΞ Α.Ε.
+
+Τηλ: +30 210 8009111 - 120
+
+## France
+
+Celltrion Healthcare France SAS Tél.: +33 (0)1 71 25 27 00
+
+Hrvatska
+
+Oktal Pharma d.o.o.
+
+Tel: +385 1 6595 777
+
+## Lietuva
+
+Celltrion Healthcare Hungary Kft. Tel.: +36 1 231 0493
+
+## Luxembourg/Luxemburg
+
+Celltrion Healthcare Belgium BVBA Tél/Tel: + 32 1 528 7418 BEinfo@celltrionhc.com
+
+## Magyarország
+
+Celltrion Healthcare Hungary Kft. Tel.: +36 1 231 0493
+
+## Malta
+
+Mint Health Ltd.
+
+Tel: +356 2093 9800
+
+## Nederland
+
+Celltrion Healthcare Netherlands B.V.
+
+Tel: + 31 20 888 7300 NLinfo@celltrionhc.com
+
+## Norge
+
+Celltrion Healthcare Norway AS Contact\\_no@celltrionhc.com
+
+## Ö sterreich
+
+Astro-Pharma GmbH
+
+Tel: +43 1 97 99 860
+
+## Polska
+
+Celltrion Healthcare Hungary Kft.
+
+Tel.: +36 1 231 0493
+
+## Portugal
+
+CELLTRION PORTUGAL, UNIPESSOAL LDA
+
+Tel: +351 21 936 8542
+
+contact\\_pt@celltrion.com
+
+## România
+
+Celltrion Healthcare Hungary Kft. Tel: +36 1 231 0493
+
+<div style=\"page-break-after: always\"></div>
+
+## Ireland
+
+Celltrion Healthcare Ireland Limited
+
+Tel: +353 1 223 4026
+
+enquiry\\_ie@celltrionhc.com
+
+## Ísland
+
+Celltrion Healthcare Hungary Kft.
+
+Sí mi: +36 1 231 0493
+
+contact\\_fi@celltrionhc.com
+
+## Italia
+
+Celltrion Healthcare Italy S.R.L.
+
+Tel: +39 0247927040
+
+celltrionhealthcare\\_italy@legalmail.it
+
+## Κύπρος
+
+C.A. Papaellinas Ltd
+
+Τηλ
+
+: +357 22741741
+
+## Latvija
+
+Celltrion Healthcare Hungary Kft.
+
+Tālr.: +36 1 231 0493
+
+## This leaflet was last revised in
+
+## Other sources of information
+
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
+
+## Slovenija
+
+OPH Oktal Pharma d.o.o.
+
+Tel.: +386 1 519 29 22
+
+## Slovenská republika
+
+Celltrion Healthcare Hungary Kft.
+
+Tel: +36 1 231 0493
+
+## Suomi/Finland
+
+Celltrion Healthcare Finland Oy. Puh/Tel: +358 29 170 7755 contact\\_fi@celltrionhc.com
+
+## Sverige
+
+Celltrion Sweden AB
+
+Tel: +46 8 80 11 77
+
+Contact\\_se@celltrionhc.com
+
+<div style=\"page-break-after: always\"></div>
+
+## INSTRUCTIONS FOR USE OF OMLYCLO PRE-FILLED PEN
+
+Read and follow the Instructions for Use that come with your Omlyclo pre-filled pen before you start using it and each time you get a refill. There may be new information. Before you use Omlyclo, make sure your healthcare provider shows you the right way to use it.
+
+Adolescents 12 years of age and older: Omlyclo pre-filled pen may be self-administered under adult supervision. The Omlyclo pre-filled pen (all doses) are intended for use only in adults and adolescents aged 12 years and older.
+
+## Pre-filled Pen Parts (see Figure A)
+
+Figure A
+
+<!-- image -->
+
+## Choose the Correct Pre-filled Pen or Combination of Pre-filled Pens
+
+Omlyclo pre-filled pens are available in 3 dose strengths (see Figure B ).
+
+Figure B
+
+<!-- image -->
+
+Your prescribed dose may require more than 1 injection. The Dosing Table ( Figure C ) to the below shows the combination of pre-filled pens needed to give your full dose. Check the label on the Omlyclo carton to make sure you have received the correct pre-filled pen or combination of pre-filled pens for your prescribed dose. If your dose requires more than 1 injection, complete all injections for your prescribed dose, immediately one after another. Contact your healthcare provider if you have any questions
+
+<div style=\"page-break-after: always\"></div>
+
+## Dosing Table
+
+<!-- image -->
+
+Figure C
+
+Note: Your healthcare provider may prescribe a different combination of pre-filled pens for your complete dose.
+
+## Important information you need to know before injecting Omlyclo
+
+- Omlyclo is for subcutaneous injection only (inject directly into fatty layer under the skin).
+- Do not use if the carton is damaged or appears to be tampered with.
+- Do not open the carton until you are ready to inject.
+- Do not use the pre-filled pen if it has been damaged or appears to be tampered with.
+- Do not remove the cap until you are ready to inject Omlyclo.
+- Do not use if the pre-filled pen has been dropped on a hard surface or dropped after removing the cap.
+- Do not try to take apart the pre-filled pen at any time.
+- Do not clean or touch the needle cover.
+
+## How Should I Store Omlyclo?
+
+- Store the unused pre-filled pen in the original carton in a refrigerator between 2°C to 8º C.
+- Before giving an injection, the carton can be removed from and placed back in the refrigerator if needed. The total combined time out of the refrigerator  may not exceed  7  days.  If  Omlyclo  is  exposed  to temperatures above 25°C, do not use Omlyclo and throw it away in a sharps disposal container.
+- Do not remove the pre-filled pen from its original carton during storage.
+- Keep the pre-filled pen out of direct sunlight.
+- Do not freeze. Do not use if the pre-filled pen has been frozen.
+- Keep the pre-filled pen, sharps disposal container, and all medicines out of sight and the reach of children. Contains small parts.
+
+<div style=\"page-break-after: always\"></div>
+
+## Preparing for the Injection
+
+Figure D
+
+<!-- image -->
+
+Figure E
+
+<!-- image -->
+
+EXP:MMYYYY
+
+Figure F
+
+<!-- image -->
+
+1. Take the carton containing the Pre-filled Pen out of the refrigerator and allow the Pre-filled Pen to reach room temperature.
+2. 1.a. If you need more than 1 pre-filled pen to deliver your prescribed dose (see Figure C ), take all the cartons out of the refrigerator at the same time (each carton contains 1 prefilled pen). The following steps must be followed for each pre-filled pen.
+3. 1.b. Set aside the unopened carton on a clean, flat surface for at least 30 to 45 minutes to allow it to warm up. Leave the pre-filled pen in the carton to protect it from light (see Figure D ).
+4. ⚫ Do not warm the pre-filled pen using heat sources such as hot water or a microwave.
+5. ⚫ If the pre-filled pen does not reach room temperature, this could cause discomfort.
+2. Gather  the  supplies  needed  to give  your injection (see Figure E).
+- Carton containing Omlyclo pre-filled pen
+
+Not included in the carton:
+
+- Alcohol swab
+- Cotton ball or gauze
+- Adhesive bandage
+- Sharps disposal container
+
+Note : You may need more than 1 Omlyclo pre-filled pen for your prescribed dose. See the Dosing Table ( Figure C ) for more information. Each Omlyclo carton contains 1 pre-filled pen.
+
+3. Check  the  expiration  on  the  carton  (see Figure F).
+2. ⚫ Do not use the pre-filled pen if the expiration date has passed.
+3. ⚫ If the expiration date has passed, throw away the pre-filled pen in a sharps disposal container (see step 16 ) and contact your healthcare provider.
+
+<div style=\"page-break-after: always\"></div>
+
+Figure G
+
+<!-- image -->
+
+Figure H
+
+<!-- image -->
+
+4. Open the carton.
+2. 4.a. Wash your hands with soap and water .
+3. 4.b. Take the pre-filled pen out of the carton by holding it from the middle (see Figure G ).
+4. ⚫ Do not turn the carton upside down to take out the pre-filled pen as this may damage it.
+5. ⚫ Do not hold the pre-filled pen by the cap.
+6. ⚫ Do not remove the cap until you are ready to inject .
+
+## 5. Check the pre-filled pen.
+
+- 5.a. Look through the viewing window of the prefilled pen to check that the liquid is clear to slightly cloudy, colourless to pale brownishyellow, and free of particles or flakes. You may notice air bubbles in the medicine, which is normal (see Figure H ).
+- ⚫ Do not use the pre-filled pen if the liquid is discoloured, distinctly cloudy, or has particles or flakes in it.
+- 5.b. Check the expiration date on the pre-filled pen.
+- ⚫ Do not use the pre-filled pen if the expiration date has passed.
+- 5.c. Check the pre-filled pen for signs of damage or if it appears to be tampered with.
+- ⚫ Do not use the pre-filled pen if it appears to be damaged or tampered with.
+- 5.d. If the medicine does not look as described or if the expiration date has passed, safely dispose of the pre-filled pen in a sharps disposal container (see Step 16 ) and contact your healthcare provider.
+
+<div style=\"page-break-after: always\"></div>
+
+Figure I
+
+<!-- image -->
+
+Figure J
+
+<!-- image -->
+
+## 6. Choose an injection site (see Figure I)
+
+- 6.a. If you are giving yourself the injection, you can inject into:
+- -The front of the thighs.
+- -The lower stomach area (lower abdomen) except within the 5 cm area around your belly button (navel).
+- 6.b. If a caregiver or healthcare provider (HCP) is giving the injection, they can use:
+- -The outer area of the upper arm.
+- -The front of the thighs.
+- -The lower stomach area (lower abdomen) except within the 5 cm area around your belly button (navel).
+- ⚫ Do not inject into the upper arm by yourself.
+- ⚫ Do not inject into moles, scars, bruises, or areas where the skin is tender, red, hard, or if there are breaks in the skin.
+- ⚫ Do not inject through clothing. The injection site should be exposed, clean skin.
+- ⚫ If your prescribed dose requires more than 1 injection, make sure your injection site are at least 2 cm apart from each other.
+
+## 7. Clean the injection site.
+
+- 7.a. Wipe the injection site with an alcohol swab in a circular motion and let it air dry for 10 seconds (see Figure J )
+- ⚫ Do not touch the injection site again before giving the injection.
+- ⚫ Do not fan or blow on the clean area.
+
+<div style=\"page-break-after: always\"></div>
+
+## Giving the Injection
+
+Figure K
+
+<!-- image -->
+
+Figure L
+
+<!-- image -->
+
+## 8. Remove the Cap.
+
+- 8.a. Hold the pre-filled pen firmly with 1 hand and pull the cap straight off with the other hand (see Figure K )
+- ⚫ Do not twist the cap.
+- ⚫ Do not re-cap the pre-filled pen.
+- ⚫ You may see a few drops of liquid at the tip of the needle. This is normal.
+- 8.b. Throw away the cap in regular household trash.
+- ⚫ Do not clean or touch the needle cover at the tip of the pre-filled pen.
+
+## 9. Position the pre-filled pen.
+
+- 9.a. Hold the pre-filled pen comfortably with the needle cover directly against the skin and position it so you can see the viewing window.
+- 9.b. Without pinching or stretching the skin, place the pre-filled pen against the skin at a 90degree angle (see Figure L ).
+
+<div style=\"page-break-after: always\"></div>
+
+<!-- image -->
+
+Figure M
+
+Figure N
+
+<!-- image -->
+
+Figure O
+
+<!-- image -->
+
+## 10. Start the injection.
+
+- 10.a. Press straight down and hold the pre-filled pen firmly against the skin. The 1 st click indicates that the injection has started (see Figure M )
+- 10.b. Hold the pre-filled pen tightly in place.
+- ⚫ Do not change the angle of the injection or remove the pre-filled pen until the injection is complete.
+
+## 11. Monitor the injection using the lavender indicator.
+
+- 11.a. Keep holding the pre-filled pen against the skin. The lavender indicator will move within the viewing window (see Figure N ).
+
+## 12. Complete the injection.
+
+- 12.a. Listen for the 2 nd click. This indicates that the injection is almost complete (see Figure O ).
+- 12.b. After you hear the 2 nd 'click', continue to hold the pre-filled pen firmly against the skin and count slowly to 5 to make sure you inject the full dose (see Figure O ).
+- 12.c. Hold the pre-filled pen in position until the lavender indicator has stopped moving and completely fills the viewing window to make sure the injection is complete.
+
+<div style=\"page-break-after: always\"></div>
+
+Figure P
+
+<!-- image -->
+
+## 14. Care for the injection site.
+
+- 14.a. If a little bleeding occurs or there is a drop of liquid at the injection site, treat the injection site by gently pressing, not rubbing, a cotton ball or gauze to the site and apply an adhesive bandage if needed.
+- ⚫ Do not rub the injection site.
+- 14.b. In the case of skin contact with the medicine, wash the area that touched the medicine with water.
+
+## 15. If your prescribed dose requires more than 1 injection:
+
+- 15.a. Throw away the used pre-filled pen as described in Step 16 and Figure Q .
+- 15.b. Repeat Step 2 through Step 14 for the next injection using a new pre-filled pen.
+- ⚫ Choose a different injection site for each new injection at least 2 cm from other injection sites.
+- ⚫ Complete all the required injections for your prescribed dose, immediately one after another. Contact your healthcare provider if you have any questions.
+
+## 13. Remove the pre-filled pen from the skin and check the lavender indicator (see Figure P).
+
+- 13.a. After the lavender indicator has stopped moving and has completely filled the viewing window, lift the pre-filled pen straight up from the skin. The needle cover will automatically extend and lock the needle.
+- ⚫ If the lavender indicator has not completely filled the viewing window, contact your healthcare provider or pharmacist.
+
+<div style=\"page-break-after: always\"></div>
+
+## After the injection
+
+Figure Q
+
+<!-- image -->
+
+## 16. Throw away (dispose of) pre-filled pen.
+
+- 16.a. Put the used pre-filled pen and other supplies in a sharps disposal container right away after use (see Figure Q ).
+- ⚫ Do not re-use the pre-filled pen.
+- ⚫ Do not re-cap the pre-filled pen.
+- ⚫ Do not dispose of your used sharps disposal container in your household trash unless your community guidelines permit this.
+- ⚫ Do not recycle your used sharps disposal container.
+
+If you do not have a sharps disposal container, you may use a household container that is:
+
+- ⚫ made of a heavy-duty plastic,
+- ⚫ can be closed with a tight-fitting,
+- ⚫ puncture-resistant lid, without sharps being able to come out,
+- ⚫ upright stable during use,
+- ⚫ leak-resistant, and
+- ⚫ properly labeled to warn of hazardous waste inside the container.
+
+Talk to your doctor or pharmacist about proper disposal of the sharps disposal container. There may be local regulations for disposal.

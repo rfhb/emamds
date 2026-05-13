@@ -1,11 +1,11 @@
 ---
-document_datetime: 2026-05-08 14:56:00
+document_datetime: 2026-05-11 15:31:51
 document_pages: 63
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/esbriet-epar-product-information_en.pdf
 document_name: esbriet-epar-product-information_en.pdf
 version: success
-processing_time: 25.5262392
-conversion_datetime: 2026-05-10 12:31:17.711263
+processing_time: 26.3269337
+conversion_datetime: 2026-05-13 13:08:55.010105
 docling_version:
   docling-serve: 1.17.0
   docling-jobkit: 1.18.0
@@ -14,7 +14,7 @@ docling_version:
   docling-ibm-models: 3.13.2
   docling-parse: 5.10.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 

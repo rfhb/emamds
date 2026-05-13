@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-03-12 15:30:21
+document_datetime: 2026-05-11 09:55:11
 document_pages: 53
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/exdensur-epar-product-information_en.pdf
 document_name: exdensur-epar-product-information_en.pdf
 version: success
-processing_time: 19.9652034
-conversion_datetime: 2026-03-17 18:54:49.755459
+processing_time: 17.3539061
+conversion_datetime: 2026-05-13 13:22:49.079738
 docling_version:
-  docling-serve: 1.14.3
-  docling-jobkit: 1.13.0
-  docling: 2.80.0
-  docling-core: 2.70.1
-  docling-ibm-models: 3.12.0
-  docling-parse: 5.5.0
+  docling-serve: 1.17.0
+  docling-jobkit: 1.18.0
+  docling: 2.92.0
+  docling-core: 2.74.1
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.10.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -230,11 +230,9 @@ Fifteen adolescents (aged 12-17) received depemokimab in two placebo-controlled 
 
 ## Reporting of suspected adverse reactions
 
-Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare
+Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
 <div style=\"page-break-after: always\"></div>
-
-professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
 ## 4.9 Overdose
 
@@ -303,7 +301,9 @@ Table 2. Demographics and baseline characteristics (FAS population)
 
 <div style=\"page-break-after: always\"></div>
 
-FAS = Full Analysis Set, FEV1 = Forced Expiratory Volume in 1 second, IgE = immunoglobulin E, SGRQ = St. George ' s Respiratory Questionnaire, ACQ-5 = Asthma Control Questionnaire, ICS = inhaled corticosteroid, OCS = oral corticosteroid a  Medium-dose ICS = 440 mcg FP daily or equivalent; High-dose ICS &gt; 440 mcg FP daily or equivalent
+FAS = Full Analysis Set, FEV1 = Forced Expiratory Volume in 1 second, IgE = immunoglobulin E, SGRQ = St. George ' s Respiratory Questionnaire, ACQ-5 = Asthma Control Questionnaire, ICS = inhaled corticosteroid, OCS = oral corticosteroid
+
+a  Medium-dose ICS = 440 mcg FP daily or equivalent; High-dose ICS &gt; 440 mcg FP daily or equivalent
 
 ## Exacerbations
 
@@ -395,7 +395,9 @@ Table 5. Demographics and baseline characteristics (FAS population)
 | SNOT-22 total score a e , mean (SD), maximum score = 110            | 57.4 (22.15) | 60.1 (19.95) |
 | Patients with SNOT- 22 total score ≥ 40, n (%)                      | 204 (75)     | 207 (81)     |
 
-FAS = Full Analysis Set, CRSwNP = chronic rhinosinusitis with nasal polyps, SCS = systemic corticosteroid, NP = nasal polyp, AERD = aspirin-exacerbated respiratory disease, VRS = Verbal Response Scale, SNOT-22 = Sino-Nasal Outcome Test a Higher scores indicate greater disease severity.
+FAS = Full Analysis Set, CRSwNP = chronic rhinosinusitis with nasal polyps, SCS = systemic corticosteroid, NP = nasal polyp, AERD = aspirin-exacerbated respiratory disease, VRS = Verbal Response Scale, SNOT-22 = Sino-Nasal Outcome Test
+
+a Higher scores indicate greater disease severity.
 
 b As graded by independent blinded assessors.
 
@@ -582,7 +584,7 @@ In the absence of compatibility studies, this medicinal product must not be mixe
 
 ## 6.3 Shelf life
 
-2 years
+30 months
 
 ## 6.4 Special precautions for storage
 
@@ -626,11 +628,13 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-GlaxoSmithKline Trading Services Limited 12 Riverwalk Citywest Business Campus
+GlaxoSmithKline Trading Services Limited 12 Riverwalk Citywest Business Campus Dublin 24
 
 <div style=\"page-break-after: always\"></div>
 
-Dublin 24 D24 YK11 Ireland
+D24 YK11
+
+Ireland
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
@@ -644,11 +648,13 @@ EU/1/25/2007/002
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-Date of first authorisation:
+Date of first authorisation: 12 February 2026
 
 ## 10. DATE OF REVISION OF THE TEXT
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
+
+18
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1137,6 +1143,8 @@ Do not stop injections of EXDENSUR unless your doctor advises you to. Interrupti
 
 If your symptoms get worse while receiving injections of EXDENSUR:
 
+<!-- image -->
+
 - ➔ call your doctor.
 
 If you have any further questions on the use of this medicine, ask your doctor, pharmacist or nurse.
@@ -1235,7 +1243,7 @@ GlaxoSmithKline GmbH &amp; Co. KG Tel.: + 49 (0)89 36044 8701 produkt.info@gsk.c
 
 GlaxoSmithKline Trading Services Limited Tel: + 372 8002640
 
-Ελλάδα
+## Ελλάδα
 
 GlaxoSmithKline Μονοπρόσωπη A.E.B.E. Τηλ: + 30 210 68 82 100
 
@@ -1279,7 +1287,11 @@ GSK Services Sp. z o.o. Tel.: + 48 (0)22 576 9000
 
 ## France
 
-Laboratoire GlaxoSmithKline Tél: + 33 (0)1 39 17 84 44 diam@gsk.com
+Laboratoire GlaxoSmithKline
+
+Tél: + 33 (0)1 39 17 84 44
+
+diam@gsk.com
 
 ## Hrvatska
 
@@ -1615,6 +1627,8 @@ If you may have had a similar reaction to any injection or medicine:
 ## Parasitic infections
 
 EXDENSUR may weaken your resistance to infections caused by parasites. If you have a parasitic infection; it should be treated before you start treatment with EXDENSUR. If you live in a region where these infections are common or if you are travelling to such a region:
+
+<!-- image -->
 
 - ➔ check with your doctor if you think any of these may apply to you.
 

@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-01-19 12:38:45
+document_datetime: 2026-05-11 15:15:32
 document_pages: 90
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/imuldosa-epar-product-information_en.pdf
 document_name: imuldosa-epar-product-information_en.pdf
 version: success
-processing_time: 26.4119578
-conversion_datetime: 2026-01-20 20:33:54.829715
+processing_time: 27.4503301
+conversion_datetime: 2026-05-13 13:12:56.86561
 docling_version:
-  docling-serve: 1.10.0
-  docling-jobkit: 1.8.1
-  docling: 2.69.0
-  docling-core: 2.60.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.3
+  docling-serve: 1.17.0
+  docling-jobkit: 1.18.0
+  docling: 2.92.0
+  docling-core: 2.74.1
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.10.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -22,7 +22,7 @@ docling_version:
 
 <div style=\"page-break-after: always\"></div>
 
-▼This medicinal product is subject to additional monitoring. This will allow quick identification of new safety information. Healthcare professionals are asked to report any suspected adverse reactions. See section 4.8 for how to report adverse reactions.
+▼ This medicinal product is subject to additional monitoring. This will allow quick identification of new safety information. Healthcare professionals are asked to report any suspected adverse reactions. See section 4.8 for how to report adverse reactions.
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -32,7 +32,7 @@ IMULDOSA 130 mg concentrate for solution for infusion
 
 Each vial contains 130 mg ustekinumab in 26 mL (5 mg/mL).
 
-Ustekinumab is a fully human IgG1κ monoclonal antibody to interleukin (IL)-12/23 produced in a murine myeloma cell line using recombinant DNA technology.
+Ustekinumab is a fully human IgG 1κ monoclonal antibody to interleukin (IL)-12/23 produced in a murine myeloma cell line using recombinant DNA technology.
 
 ## Excipient with known effect
 
@@ -58,7 +58,7 @@ The solution is colourless to slightly yellow and clear to slightly opalescent.
 
 ## Adult Crohn's Disease
 
-IMULDOSA is indicated for the treatment of adult patients with moderately to severely active Crohn's disease who have had an inadequate response with, lost response to, or were intolerant to either conventional therapy or a TNFα antagonist.
+IMULDOSA is indicated for the treatment of adult patients with moderately to severely active Crohn's disease who have had an inadequate response with, lost response to, or were intolerant to either conventional therapy or a TN Fα antagonist.
 
 ## Paediatric Crohn's Disease
 
@@ -90,7 +90,7 @@ Table 1        Initial intravenous dosing of IMULDOSA
 
 The first subcutaneous dose should be given at week 8 following the intravenous dose. For the posology of the subsequent subcutaneous dosing regimen, see section 4.2 of the IMULDOSA solution for injection (vial) and solution for injection in pre-filled syringe SmPC.
 
-## Elderly (≥ 65 years)
+## Elderly ( ≥ 65 years)
 
 No dose adjustment is needed for elderly patients (see section 4.4).
 
@@ -162,11 +162,9 @@ Serious hypersensitivity reactions have been reported in the post-marketing sett
 
 ## Infusion-related reactions
 
-Infusion-related reactions were observed in clinical trials (see section 4.8). Serious infusion-related reactions
+Infusion-related reactions were observed in clinical trials (see section 4.8). Serious infusion-related reactions including anaphylactic reactions to the infusion have been reported in the post-marketing setting. If a serious or life-threatening reaction is observed, appropriate therapy should be instituted and ustekinumab should be discontinued.
 
 <div style=\"page-break-after: always\"></div>
-
-including anaphylactic reactions to the infusion have been reported in the post-marketing setting. If a serious or life-threatening reaction is observed, appropriate therapy should be instituted and ustekinumab should be discontinued.
 
 ## Respiratory
 
@@ -206,7 +204,7 @@ Cases of lupus-related conditions have been reported in patients treated with us
 
 ## Special populations
 
-## Elderly (≥ 65 years)
+## Elderly ( ≥ 65 years)
 
 No overall differences in efficacy or safety in patients age 65 and older who received ustekinumab were observed compared to younger patients in clinical studies in approved indications, however the number of patients aged 65 and older is not sufficient to determine whether they respond differently from younger patients. Because there is a higher incidence of infections in the elderly population in general, caution should be used in treating the elderly.
 
@@ -226,7 +224,7 @@ Live vaccines should not be given concurrently with IMULDOSA.
 
 Administration of live vaccines (such as the BCG vaccine) to infants exposed in utero to ustekinumab is not recommended for twelve months following birth or until ustekinumab infant serum levels are undetectable (see sections 4.4 and 4.6). If there is a clear clinical benefit for the individual infant, administration of a live vaccine might be considered at an earlier timepoint, if infant ustekinumab serum levels are undetectable.
 
-In the population pharmacokinetic analyses of the phase 3 studies, the effect of the most frequently used concomitant medicinal products in patients with psoriasis (including paracetamol, ibuprofen, acetylsalicylic acid, metformin, atorvastatin, levothyroxine) on pharmacokinetics of ustekinumab was explored. There were no indications of an interaction with these concomitantly administered medicinal products. The basis for this analysis was that at least 100 patients (&gt; 5% of the studied population) were treated concomitantly with these medicinal products for at least 90% of the study period. The pharmacokinetics of ustekinumab was not impacted by concomitant use of MTX, NSAIDs, 6-mercaptopurine, azathioprine and oral corticosteroids in patients with psoriatic arthritis, Crohn's disease or prior exposure to anti-TNFα agents, in patients with psoriatic arthritis or Crohn's disease.
+In the population pharmacokinetic analyses of the phase 3 studies, the effect of the most frequently used concomitant medicinal products in patients with psoriasis (including paracetamol, ibuprofen, acetylsalicylic acid, metformin, atorvastatin, levothyroxine) on pharmacokinetics of ustekinumab was explored. There were no indications of an interaction with these concomitantly administered medicinal products. The basis for this analysis was that at least 100 patients (&gt; 5% of the studied population) were treated concomitantly with these medicinal products for at least 90% of the study period. The pharmacokinetics of ustekinumab was not impacted by concomitant use of MTX, NSAIDs, 6-mercaptopurine, azathioprine and oral corticosteroids in patients with psoriatic arthritis, Crohn's disease or prior exposure to anti-TN Fα agents, in patients with psoriatic arthritis or Crohn's disease.
 
 The results of an in vitro study and a phase 1 study in subjects with active Crohn's disease do not suggest the need for dose adjustments in patients who are receiving concomitant CYP450 substrates (see section 5.2).
 
@@ -274,11 +272,9 @@ The most common adverse reactions (&gt; 5%) in controlled periods of the adult p
 
 The safety data described below reflect exposure in adults to ustekinumab in 14 phase 2 and phase 3 studies in 6,710 patients (4,135 with psoriasis and/or psoriatic arthritis and 1,749 with Crohn's disease). This includes exposure to ustekinumab in the controlled and non-controlled periods of the clinical studies in patients with psoriasis, psoriatic arthritis or Crohn's disease for at least 6 months (4,577 patients) or at least 1 year (3,648 patients). 2,194 patients with psoriasis, Crohn's disease were exposed for at least 4 years while 1,148 patients with psoriasis or Crohn's disease were exposed for at least 5 years.
 
-Table 3 provides a list of adverse reactions from adult psoriasis, psoriatic arthritis and Crohn's disease clinical studies as well as adverse reactions reported from post-marketing experience. The adverse reactions are classified
+Table 3 provides a list of adverse reactions from adult psoriasis, psoriatic arthritis and Crohn's disease clinical studies as well as adverse reactions reported from post-marketing experience. The adverse reactions are classified by System Organ Class and frequency, using the following convention: Very common ( ≥ 1/10), Common ( ≥ 1/100 to &lt; 1/10), Uncommon ( ≥ 1/1,000 to &lt; 1/100), Rare ( ≥ 1/10,000 to &lt; 1/1,000), Very rare (&lt; 1/10,000), not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
 <div style=\"page-break-after: always\"></div>
-
-by System Organ Class and frequency, using the following convention: Very common (≥ 1/10), Common (≥ 1/100 to &lt; 1/10), Uncommon (≥ 1/1,000 to &lt; 1/100), Rare (≥ 1/10,000 to &lt; 1/1,000), Very rare (&lt; 1/10,000), not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
 Table 3 List of adverse reactions
 
@@ -302,11 +298,9 @@ In the placebo-controlled studies of patients with psoriasis, psoriatic arthriti
 
 In the controlled and non-controlled periods of psoriasis, psoriatic arthritis and Crohn's disease clinical studies, representing 15,227 patient-years of ustekinumab exposure in 6,710 patients, the median follow-up was 1.2 years; 1.7 years for psoriatic disease studies and 0.6 year for Crohn's disease studies. The rate of infection was 0.85 per patient-year of follow-up in ustekinumab-treated patients, and the rate of serious infections was 0.02 per patient-year of follow-up in ustekinumab-treated patients (289 serious infections in 15,227  patient-years of follow-up) and serious infections reported included pneumonia, anal abscess, cellulitis, diverticulitis, gastroenteritis and viral infections.
 
-In clinical studies, patients with latent tuberculosis who were concurrently treated with isoniazid did not develop
+In clinical studies, patients with latent tuberculosis who were concurrently treated with isoniazid did not develop tuberculosis.
 
 <div style=\"page-break-after: always\"></div>
-
-tuberculosis.
 
 ## Malignancies
 
@@ -348,7 +342,7 @@ IMULDOSA is a biosimilar medicinal product. Detailed information is available on
 
 ## Mechanism of action
 
-Ustekinumab is a fully human IgG1κ monoclonal antibody that binds with specificity to the shared p40 protein subunit of human cytokines interleukin (IL)-12 and IL-23. Ustekinumab inhibits the bioactivity of human IL-12 and IL-23 by preventing p40 from binding to the IL-12Rβ1 receptor protein expressed on the surface of immune cells. Ustekinumab cannot bind to IL-12 or IL-23 that is already bound to IL-12Rβ1 cell surface receptors. Thus, ustekinumab is not likely to contribute to complement- or antibody-mediated cytotoxicity of cells with IL-12 and/or IL-23 receptors. IL-12 and IL-23 are heterodimeric cytokines secreted by activated antigen presenting cells, such as macrophages and dendritic cells, and both cytokines participate in immune functions; IL-12 stimulates natural killer (NK) cells and drives the differentiation of CD4+ T cells toward the T helper 1 (Th1) phenotype, IL- 23 induces the T helper 17 (Th17) pathway. However, abnormal regulation of IL 12 and IL 23 has been associated with immune mediated diseases, such as psoriasis, psoriatic arthritis and Crohn's disease.
+Ustekinumab is a fully human IgG 1κ monoclonal antibody that binds with specificity to the shared p40 protein subunit of human cytokines interleukin (IL)-12 and IL-23. Ustekinumab inhibits the bioactivity of human IL-12 and IL-23 by preventing p40 from binding to the IL-12R β 1 receptor protein expressed on the surface of immune cells. Ustekinumab cannot bind to IL-12 or IL-23 that is already bound to IL-12R β 1 cell surface receptors. Thus, ustekinumab is not likely to contribute to complement- or antibody-mediated cytotoxicity of cells with IL-12 and/or IL-23 receptors. IL-12 and IL-23 are heterodimeric cytokines secreted by activated antigen presenting cells, such as macrophages and dendritic cells, and both cytokines participate in immune functions; IL-12 stimulates natural killer (NK) cells and drives the differentiation of CD4+ T cells toward the T helper 1 (Th1) phenotype, IL- 23 induces the T helper 17 (Th17) pathway. However, abnormal regulation of IL 12 and IL 23 has been associated with immune mediated diseases, such as psoriasis, psoriatic arthritis and Crohn's disease.
 
 By binding the shared p40 subunit of IL-12 and IL-23, ustekinumab may exert its clinical effects in psoriasis, psoriatic arthritis and Crohn's disease through interruption of the Th1 and Th17 cytokine pathways, which are central to the pathology of these diseases.
 
@@ -366,13 +360,13 @@ The safety and efficacy of ustekinumab was assessed in three randomised, double-
 
 The induction studies included 1409 (UNITI-1, n = 769; UNITI-2 n = 640) patients. The primary endpoint for both induction studies was the proportion of subjects in clinical response (defined as a reduction in CDAI score of ≥ 100 points) at week 6. Efficacy data were collected and analyzed through week 8 for both studies. Concomitant doses of oral corticosteroids, immunomodulators, aminosalicylates and antibiotics were permitted and 75% of patients continued to receive at least one of these medications. In both studies, patients were randomised to receive a single intravenous administration of either the recommended tiered dose of approximately 6 mg/kg (see Table 1, section 4.2), a fixed dose of 130 mg ustekinumab, or placebo at week 0.
 
-Patients in UNITI-1 had failed or were intolerant to prior anti-TNFα therapy. Approximately 48% of the patients had failed 1 prior anti-TNFα  therapy and 52% had failed 2 or 3 prior anti-TNFα therapies. In this study, 29.1% of the patients had an inadequate initial response (primary non-responders), 69.4% responded but lost response
+Patients in UNITI-1 had failed or were intolerant to prior anti-TN Fα therapy. Approximately 48% of the patients had failed 1 prior anti-TN Fα therapy and 52% had failed 2 or 3 prior anti-TN Fα therapies. In this study, 29.1% of the patients had an inadequate initial response (primary non-responders), 69.4% responded but lost response
 
 <div style=\"page-break-after: always\"></div>
 
-(secondary non-responders), and 36.4% were intolerant to anti-TNFα therapies.
+(secondary non-responders), and 36.4% were intolerant to anti-TN Fα therapies.
 
-Patients in UNITI-2 had failed at least one conventional therapy, including corticosteroids or immunomodulators, and were either anti-TNF-α naïve (68.6%) or had previously received but not failed anti-TNFα therapy (31.4%).
+Patients in UNITI-2 had failed at least one conventional therapy, including corticosteroids or immunomodulators, and were either anti-TNFα naïve (68.6%) or had previously received but not failed anti-TN Fα therapy (31.4%).
 
 In both UNITI-1 and UNITI-2, a significantly greater proportion of patients were in clinical response and remission in the ustekinumab treated group compared to placebo (Table 4). Clinical response and remission were significant as early as week 3 in ustekinumab treated patients and continued to improve through week 8. In these induction studies, efficacy was higher and better sustained in the tiered dose group compared to the 130 mg dose group, and tiered dosing is therefore the recommended intravenous induction dose.
 
@@ -391,7 +385,7 @@ Clinical remission is defined as CDAI score &lt; 150; Clinical response is defin
 
 70 point response is defined as reduction in CDAI score by at least 70 points
 
-*    Anti-TNFα failures
+*    Anti-TNF α failures
 
 **  Conventional therapy failures
 
@@ -413,22 +407,24 @@ Table 5: Maintenance of Clinical Response and Remission in IM-UNITI (week 44; 52
 | Clinical Remission in patients:                  |                    |                                           |                                            |
 | in remission at the start of maintenance therapy | 46% (36/79)        | 67% (52/78) a                             | 56% (44/78)                                |
 | who entered from study CRD3002 ‡                 | 44% (31/70)        | 63% (45/72) c                             | 57% (41/72)                                |
-| who are Anti-TNFα naïve                          | 49% (25/51)        | 65% (34/52) c                             | 57% (30/53)                                |
+| who are Anti-TN Fα naïve                         | 49% (25/51)        | 65% (34/52) c                             | 57% (30/53)                                |
 | who entered from study CRD3001 §                 | 26% (16/61)        | 41% (23/56)                               | 39% (22/57)                                |
 
 Clinical remission is defined as CDAI score &lt; 150; Clinical response is defined as reduction in CDAI of at least 100 points or being in clinical remission
 
-*    The placebo group consisted of patients who were in response to ustekinumab and were randomised to receive placebo at the start of
+*    The placebo group consisted of patients who were in response to ustekinumab and were randomised to receive placebo at the start of maintenance therapy.
 
 <div style=\"page-break-after: always\"></div>
 
-```
-maintenance therapy. † Patients who were in 100 point clinical response to ustekinumab at start of maintenance therapy ‡ Patients who failed conventional therapy but not anti-TNFα therapy § Patients who are anti-TNFα refractory/intolerant a p < 0.01 b p < 0.05 c nominally significant (p < 0.05)
-```
+- † Patients who were in 100 point clinical response to ustekinumab at start of maintenance therapy ‡ Patients who failed conventional therapy but not anti-TNF α therapy § Patients who are anti-TNF α refractory/intolerant a p &lt; 0.01 b p &lt; 0.05 c nominally significant (p &lt; 0.05)
 
 In IM-UNITI, 29 of 129 patients did not maintain response to ustekinumab when treated every 12 weeks and were allowed to dose adjust to receive ustekinumab every 8 weeks. Loss of response  was defined as a CDAI score ≥ 220 points and a ≥ 100 point increase from the CDAI score at baseline. In these patients, clinical remission was achieved in 41.4% of patients 16 weeks after dose adjustment.
 
-Patients who were not in clinical response to ustekinumab induction at week 8 of the UNITI-1 and UNITI-2 induction studies (476 patients) entered into the non-randomised portion of the maintenance study (IM-UNITI) and received a 90 mg subcutaneous injection of ustekinumab at that time. Eight weeks later, 50.5% of the patients achieved clinical response and continued to receive maintenance dosing every 8 weeks; among these patients with continued maintenance dosing, a majority maintained response (68.1%) and achieved remission (50.2%) at week 44, at proportions that were similar to the patients who initially responded to ustekinumab induction.
+Patients who were not in clinical response to ustekinumab induction at week 8 of the UNITI-1 and UNITI-2 and received a 90 mg subcutaneous injection of ustekinumab at that time.
+
+Eight weeks later, 50.5% of the patients achieved clinical response and continued to receive maintenance dosing and achieved remission (50.2%) at week 44, at proportions that were similar to the patients who initially responded to ustekinumab induction.
+
+induction studies (476 patients) entered into the non-randomised portion of the maintenance study (IM-UNITI) every 8 weeks; among these patients with continued maintenance dosing, a majority maintained response (68.1%)
 
 Of 131 patients who responded to ustekinumab induction, and were randomised to the placebo group at the start of the maintenance study, 51 subsequently lost response and received 90 mg ustekinumab subcutaneously every 8 weeks. The majority of patients who lost response and resumed ustekinumab did so within 24 weeks of the induction infusion. Of these 51 patients, 70.6% achieved clinical response and 39.2% percent achieved clinical remission 16 weeks after receiving the first subcutaneous dose of ustekinumab.
 
@@ -486,7 +482,7 @@ Table 6: Summary of Secondary endpoints through Maintenance week 44
 
 † Clinical response is defined as a reduction from baseline in the PCDAI score of ≥12.5 points with a total PCDAI score not more than 30.
 
-£ Endoscopic response is defined as a reduction in the SES-CD score of ≥50% or SES-CD score ≤2, in patients with a baseline SES-CD score of ≥3.
+£ Endoscopic response is defined as a reduction in the SESCD score of ≥50% or SES -CD score ≤2, in patients with a baseline SESCD score of ≥3.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -506,7 +502,7 @@ The total IMPACT-III scores and all subdomains (bowel symptoms, fatigue-related 
 
 ## 5.2 Pharmacokinetic properties
 
-Following the recommended intravenous induction dose, median peak serum ustekinumab concentration, observed 1 hour after the infusion, was 126.1 μg/mL in patients with Crohn's disease.
+Following the recommended intravenous induction dose, median peak serum ustekinumab concentration, observed 1 hour after the infusion, was 126.1 μ g/mL in patients with Crohn's disease.
 
 ## Distribution
 
@@ -532,11 +528,9 @@ In patients with Crohn's disease, variability in ustekinumab clearance was affec
 
 ## Regulation of CYP450 enzymes
 
-The effects of IL-12 or IL-23 on the regulation of CYP450 enzymes were evaluated in an in vitro study using
+The effects of IL-12 or IL-23 on the regulation of CYP450 enzymes were evaluated in an in vitro study using human hepatocytes, which showed that IL-12 and/or IL-23 at levels of 10 ng/mL did not alter human CYP450 enzyme activities (CYP1A2, 2B6, 2C9, 2C19, 2D6, or 3A4; see section 4.5).
 
 <div style=\"page-break-after: always\"></div>
-
-human hepatocytes, which showed that IL-12 and/or IL-23 at levels of 10 ng/mL did not alter human CYP450 enzyme activities (CYP1A2, 2B6, 2C9, 2C19, 2D6, or 3A4; see section 4.5).
 
 A phase 1, open-label, drug interaction study, Study CNTO1275CRD1003, was conducted to evaluate the effect of ustekinumab on cytochrome P450 enzyme activities following induction and maintenance dosing in patients with active Crohn's disease (n=18). No clinically significant changes in exposure of caffeine (CYP1A2 substrate), warfarin (CYP2C9 substrate), omeprazole (CYP2C19 substrate), dextromethorphan (CYP2D6 substrate), or midazolam (CYP3A substrate) were observed when used concomitantly with ustekinumab at the approved recommended dosing in patients with Crohn's disease (see section 4.5).
 
@@ -564,7 +558,7 @@ In the absence of compatibility studies, this medicinal product must not be mixe
 
 ## 6.3 Shelf life
 
-2 years. Do not freeze.
+3 years. Do not freeze.
 
 After dilution, the chemical and physical in-use stability has been demonstrated for 24 hours at 23°C - 27°C or 7 days at 2°C - 8°C.
 
@@ -620,7 +614,7 @@ Detailed information on this medicinal product is available on the website of th
 
 <div style=\"page-break-after: always\"></div>
 
-▼This medicinal product is subject to additional monitoring. This will allow quick identification of new safety information. Healthcare professionals are asked to report any suspected adverse reactions. See section 4.8 for how to report adverse reactions.
+▼ This medicinal product is subject to additional monitoring. This will allow quick identification of new safety information. Healthcare professionals are asked to report any suspected adverse reactions. See section 4.8 for how to report adverse reactions.
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -632,7 +626,7 @@ IMULDOSA 45 mg solution for injection in pre-filled syringe Each pre-filled syri
 
 IMULDOSA 90 mg solution for injection in pre-filled syringe Each pre-filled syringe contains 90 mg ustekinumab in 1 mL.
 
-Ustekinumab is a fully human IgG1κ monoclonal antibody to interleukin (IL)-12/23 produced in a murine myeloma cell line using recombinant DNA technology.
+Ustekinumab is a fully human IgG 1κ monoclonal antibody to interleukin (IL)-12/23 produced in a murine myeloma cell line using recombinant DNA technology.
 
 ## Excipient with known effect
 
@@ -668,7 +662,7 @@ IMULDOSA, alone or in combination with MTX, is indicated for the treatment of ac
 
 ## Adult Crohn's Disease
 
-IMULDOSA is indicated for the treatment of adult patients with moderately to severely active Crohn's disease who have had an inadequate response with, lost response to, or were intolerant to either conventional therapy or a TNFα antagonist.
+IMULDOSA is indicated for the treatment of adult patients with moderately to severely active Crohn's disease who have had an inadequate response with, lost response to, or were intolerant to either conventional therapy or a TN Fα antagonist.
 
 ## Paediatric Crohn's Disease
 
@@ -696,7 +690,7 @@ The recommended posology of IMULDOSA is an initial dose of 45 mg administered su
 
 Consideration should be given to discontinuing treatment in patients who have shown no response up to 28 weeks of treatment.
 
-## Elderly (≥ 65 years)
+## Elderly ( ≥ 65 years)
 
 No dose adjustment is needed for elderly patients (see section 4.4).
 
@@ -719,7 +713,7 @@ The recommended dose of IMULDOSA based on body weight over 60 kg is shown below 
 | Body weight at the time of dosing   | Recommended Dose   |
 |-------------------------------------|--------------------|
 | < 60 kg*                            | -                  |
-| ≥ 60-≤ 100 kg                       | 45 mg              |
+| ≥ 60 - ≤ 100 kg                     | 45 mg              |
 | > 100 kg                            | 90 mg              |
 
 * IMULDOSA is not available for patients that require less than a full 45 mg dose. If an alternative dose is required, other ustekinumab products offering such an option should be used.
@@ -730,7 +724,7 @@ Consideration should be given to discontinuing treatment in patients who have sh
 
 ## Adult Crohn's Disease
 
-In the treatment  regimen,  the first dose of IMULDOSA  is administered  intravenously.  For the posology of the intravenous dosing regimen, see  section 4.2  of  the  IMULDOSA 130 mg Concentrate for solution for infusion SmPC.
+In the treatment  regimen,  the first dose of IMULDOSA  is administered  intravenously.  For the posology of the  intravenous dosing regimen, see  section 4.2  of  the  IMULDOSA 130 mg Concentrate for solution for infusion SmPC.
 
 The first subcutaneous administration of 90 mg IMULDOSA should take place at week 8 after the intravenous dose. After this, dosing every 12 weeks is recommended.
 
@@ -746,7 +740,7 @@ Immunomodulators and/or corticosteroids may be continued during treatment with I
 
 In Crohn's disease, if therapy is interrupted, resumption of treatment with subcutaneous dosing every 8 weeks is safe and effective.
 
-## Elderly (≥ 65 years)
+## Elderly ( ≥ 65 years)
 
 No dose adjustment is needed for elderly patients (see section 4.4).
 
@@ -760,11 +754,9 @@ Ustekinumab has not been studied in these patient populations. No dose recommend
 
 In the treatment regimen, the first dose of IMULDOSA is administered intravenously. For the posology of the intravenous dosing regimen, see section 4.2 of the IMULDOSA 130 mg Concentrate for solution for infusion SmPC.
 
-The first subcutaneous administration of 90 mg IMULDOSA should take place at week 8 after the
+The first subcutaneous administration of 90 mg IMULDOSA should take place at week 8 afte r the intravenous dose. After this, dosing every 12 weeks is recommended.
 
 <div style=\"page-break-after: always\"></div>
-
-intravenous dose. After this, dosing every 12 weeks is recommended.
 
 Patients who lose response on dosing every 12 weeks may benefit from an increase in dosing frequency to every 8 weeks (see section 5.1, section 5.2).
 
@@ -806,11 +798,9 @@ Opportunistic infections including reactivation of tuberculosis, other opportuni
 
 Caution should be exercised when considering the use of IMULDOSA in patients with a chronic infection or a history of recurrent infection (see section 4.3).
 
-Prior to initiating treatment with IMULDOSA, patients should be evaluated for tuberculosis infection. IMULDOSA must not be given to patients with active tuberculosis (see section 4.3). Treatment of latent
+Prior to initiating treatment with IMULDOSA, patients should be evaluated for tuberculosis infection. IMULDOSA must not be given to patients with active tuberculosis (see section 4.3). Treatment of latent tuberculosis infection should be initiated prior to administering IMULDOSA. Anti-tuberculosis therapy should also be considered prior to initiation of IMULDOSA in patients with a history of latent or active tuberculosis in whom an adequate course of treatment cannot be confirmed. Patients receiving IMULDOSA should be monitored closely for signs and symptoms of active tuberculosis during and after treatment.
 
 <div style=\"page-break-after: always\"></div>
-
-tuberculosis infection should be initiated prior to administering IMULDOSA. Anti-tuberculosis therapy should also be considered prior to initiation of IMULDOSA in patients with a history of latent or active tuberculosis in whom an adequate course of treatment cannot be confirmed. Patients receiving IMULDOSA should be monitored closely for signs and symptoms of active tuberculosis during and after treatment.
 
 Patients should be instructed to seek medical advice if signs or symptoms suggestive of an infection occur. If a patient develops a serious infection, the patient should be closely monitored and IMULDOSA should not be administered until the infection resolves.
 
@@ -866,7 +856,7 @@ Cases of lupus-related conditions have been reported in patients treated with us
 
 ## Special populations
 
-## Elderly (≥ 65 years)
+## Elderly ( ≥ 65 years)
 
 No overall differences in efficacy or safety in patients age 65 and older who received ustekinumab were observed compared to younger patients in clinical studies in approved indications, however the number of patients aged 65 and older is not sufficient to determine whether they respond differently from younger patients. Because there is a higher incidence of infections in the elderly population in general, caution should be used in treating the elderly.
 
@@ -880,13 +870,13 @@ Polysorbates may cause allergic reactions.
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
-## Live vaccines should not be given concurrently with IMULDOSA.
+Live vaccines should not be given concurrently with IMULDOSA.
 
 Administration of live vaccines (such as the BCG vaccine) to infants exposed in utero to ustekinumab is not recommended for twelve months following birth or until ustekinumab infant serum levels are undetectable (see sections 4.4 and 4.6). If there is a clear clinical benefit for the individual infant, administration of a live vaccine might be considered at an earlier timepoint, if infant ustekinumab serum levels are undetectable.
 
 <div style=\"page-break-after: always\"></div>
 
-In the population pharmacokinetic analyses of the phase 3 studies, the effect of the most frequently used concomitant medicinal products in patients with psoriasis (including paracetamol, ibuprofen, acetylsalicylic acid, metformin, atorvastatin, levothyroxine) on pharmacokinetics of ustekinumab was explored. There were no indications of an interaction with these concomitantly administered medicinal products. The basis for this analysis was that at least 100 patients (&gt; 5% of the studied population) were treated concomitantly with these medicinal products for at least 90% of the study period. The pharmacokinetics of ustekinumab was not impacted by concomitant use of MTX, NSAIDs, 6-mercaptopurine, azathioprine and oral corticosteroids in patients with psoriatic arthritis, Crohn's disease, or prior exposure to anti-TNFα agents, in patients with psoriatic arthritis or Crohn's disease.
+In the population pharmacokinetic analyses of the phase 3 studies, the effect of the most frequently used concomitant medicinal products in patients with psoriasis (including paracetamol, ibuprofen, acetylsalicylic acid, metformin, atorvastatin, levothyroxine) on pharmacokinetics of ustekinumab was explored. There were no indications of an interaction with these concomitantly administered medicinal products. The basis for this analysis was that at least 100 patients (&gt; 5% of the studied population) were treated concomitantly with these medicinal products for at least 90% of the study period. The pharmacokinetics of ustekinumab was not impacted by concomitant use of MTX, NSAIDs, 6-mercaptopurine, azathioprine and oral corticosteroids in patients with psoriatic arthritis, Crohn's disease, or prior exposure to anti-TN Fα agents, in patients with psoriatic arthritis or Crohn's disease.
 
 The results of an in vitro study and a phase 1 study in subjects with active Crohn's disease do not suggest the need for dose adjustments in patients who are receiving concomitant CYP450 substrates (see section 5.2).
 
@@ -932,7 +922,7 @@ The most common adverse reactions (&gt; 5%) in controlled periods of the adult p
 
 The safety data described below reflect exposure in adults to ustekinumab in 14 phase 2 and phase 3 studies in 6,710 patients (4,135 with psoriasis and/or psoriatic arthritis and 1,749 with Crohn's disease). This includes exposure to ustekinumab in the controlled and non-controlled periods of the clinical studies in patients with psoriasis, psoriatic arthritis, Crohn's disease for at least 6 months (4,577 patients) or at least 1 year (3,648 patients). 2,194 patients with psoriasis, and Crohn's disease for at least 4 years while 1,148 patients with psoriasis or Crohn's disease were exposed for at least 5 years.
 
-Table 2 provides a list of adverse reactions from adult psoriasis, psoriatic arthritis and Crohn's disease clinical studies as well as adverse reactions reported from post-marketing experience. The adverse reactions are classified by System Organ Class and frequency, using the following convention: Very common (≥ 1/10), Common (≥ 1/100 to &lt; 1/10), Uncommon (≥ 1/1,000 to &lt; 1/100), Rare (≥ 1/10,000 to &lt; 1/1,000), Very rare (&lt; 1/10,000), not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
+Table 2 provides a list of adverse reactions from adult psoriasis, psoriatic arthritis and Crohn's disease clinical studies as well as adverse reactions reported from post-marketing experience. The adverse reactions are classified by System Organ Class and frequency, using the following convention: Very common ( ≥ 1/10), Common ( ≥ 1/100 to &lt; 1/10), Uncommon ( ≥ 1/1,000 to &lt; 1/100), Rare ( ≥ 1/10,000 to &lt; 1/1,000), Very rare (&lt; 1/10,000), not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
 Table 2: List of adverse reactions
 
@@ -976,11 +966,9 @@ During the controlled periods of the psoriasis and psoriatic arthritis clinical 
 
 ## Paediatric patients 6 years and older with plaque psoriasis
 
-The safety of ustekinumab  has been studied  in two phase  3 studies  of paediatric  patients  with moderate to
+The safety of ustekinumab  has been studied  in two phase  3 studies  of paediatric  patients  with moderate to severe plaque psoriasis. The first study was in 110 patients from 12 to 17 years of age treated for up to 60 weeks and the second study was in 44 patients from 6 to 11 years of age treated for up to 56 weeks. In general, the adverse events reported in these two studies with safety data up to 1 year were similar to those seen in previous studies in adults with plaque psoriasis.
 
 <div style=\"page-break-after: always\"></div>
-
-severe plaque psoriasis. The first study was in 110 patients from 12 to 17 years of age treated for up to 60 weeks and the second study was in 44 patients from 6 to 11 years of age treated for up to 56 weeks. In general, the adverse events reported in these two studies with safety data up to 1 year were similar to those seen in previous studies in adults with plaque psoriasis.
 
 ## Paediatric patients weighing at least 40 kg with Crohn's disease
 
@@ -1004,7 +992,7 @@ IMULDOSA is a biosimilar medicinal product. Detailed information is available on
 
 ## Mechanism of action
 
-Ustekinumab is a fully human IgG1κ monoclonal antibody that binds with specificity to the shared p40 protein subunit of human cytokines interleukin (IL)-12 and IL-23. Ustekinumab inhibits the bioactivity of human IL-12 and IL-23 by preventing p40 from binding to the IL-12Rβ1 receptor protein expressed on the surface of immune cells. Ustekinumab cannot bind to IL-12 or IL-23 that is already bound to IL-12Rβ1 cell surface receptors. Thus, ustekinumab is not likely to contribute to complement- or antibody-mediated cytotoxicity of cells with IL-12 and/or IL-23 receptors. IL-12 and IL-23 are heterodimeric cytokines secreted by activated antigen presenting cells, such as macrophages and dendritic cells, and both cytokines participate in immune functions; IL-12 stimulates natural killer (NK) cells and drives the differentiation of CD4+ T cells toward the T helper 1 (Th1) phenotype, IL-23 induces the T helper 17 (Th17) pathway. However, abnormal regulation of IL 12 and IL 23 has been associated with immune mediated diseases, such as psoriasis, psoriatic arthritis, Crohn's disease.
+Ustekinumab is a fully human IgG 1κ monoclonal antibody that binds with specificity to the shared p40 protein subunit of human cytokines interleukin (IL)-12 and IL-23. Ustekinumab inhibits the bioactivity of human IL-12 and IL-23 by preventing p40 from binding to the IL-12R β 1 receptor protein expressed on the surface of immune cells. Ustekinumab cannot bind to IL-12 or IL-23 that is already bound to IL-12R β 1 cell surface receptors. Thus, ustekinumab is not likely to contribute to complement- or antibody-mediated cytotoxicity of cells with IL-12 and/or IL-23 receptors. IL-12 and IL-23 are heterodimeric cytokines secreted by activated antigen presenting cells, such as macrophages and dendritic cells, and both cytokines participate in immune functions; IL-12 stimulates natural killer (NK) cells and drives the differentiation of CD4+ T cells toward the T helper 1 (Th1) phenotype, IL-23 induces the T helper 17 (Th17) pathway. However, abnormal regulation of IL 12 and IL 23 has been associated with immune mediated diseases, such as psoriasis, psoriatic arthritis, Crohn's disease.
 
 By binding the shared p40 subunit of IL-12 and IL-23, ustekinumab may exert its clinical effects in psoriasis, psoriatic arthritis, Crohn's disease through interruption of the Th1 and Th17 cytokine pathways, which are central to the pathology of these diseases.
 
@@ -1012,11 +1000,9 @@ In patients with Crohn's disease, treatment with ustekinumab resulted in a decre
 
 ## Immunisation
 
-During the long-term extension of Psoriasis Study 2 (PHOENIX 2), adult patients treated with ustekinumab for at least 3.5 years mounted similar antibody responses to both pneumococcal polysaccharide and tetanus vaccines as a non-systemically treated psoriasis control group. Similar proportions of adult patients developed protective
+During the long-term extension of Psoriasis Study 2 (PHOENIX 2), adult patients treated with ustekinumab for at least 3.5 years mounted similar antibody responses to both pneumococcal polysaccharide and tetanus vaccines as a non-systemically treated psoriasis control group. Similar proportions of adult patients developed protective levels of anti-pneumococcal and anti- tetanus antibodies and antibody titres were similar among ustekinumabtreated and control patients.
 
 <div style=\"page-break-after: always\"></div>
-
-levels of anti-pneumococcal and anti- tetanus antibodies and antibody titres were similar among ustekinumabtreated and control patients.
 
 ## Clinical efficacy Plaque psoriasis (Adults)
 
@@ -1073,16 +1059,14 @@ Table 4: Summary of clinical response at week 12 in Psoriasis Study 3 (ACCEPT)
 | PASI 75 response N (%)          | 197 (57%)                               | 141 (67%) b                             | 256 (74%) a                             |
 | PASI 90 response N (%)          | 80 (23%)                                | 76 (36%) a                              | 155 (45%) a                             |
 | PGA of cleared or minimal N (%) | 170 (49%)                               | 136 (65%) a                             | 245 (71%) a                             |
-| Number of patients ≤100 kg      | 251                                     | 151                                     | 244                                     |
+| Number of patients ≤ 100 kg     | 251                                     | 151                                     | 244                                     |
 | PASI 75 response N (%)          | 154 (61%)                               | 109 (72%)                               | 189 (77%)                               |
 | Number of patients >100 kg      | 96                                      | 58                                      | 103                                     |
 | PASI 75 response N (%)          | 43 (45%)                                | 32 (55%)                                | 67 (65%)                                |
 
-In Psoriasis Study 1 maintenance of PASI 75 was significantly superior with continuous treatment compared with treatment withdrawal (p &lt; 0.001). Similar results were seen with each dose of ustekinumab. At 1 year (week 52), 89% of patients re-randomised to maintenance treatment were PASI 75 responders compared with 63% of
+In Psoriasis Study 1 maintenance of PASI 75 was significantly superior with continuous treatment compared with treatment withdrawal (p &lt; 0.001). Similar results were seen with each dose of ustekinumab. At 1 year (week 52), 89% of patients re-randomised to maintenance treatment were PASI 75 responders compared with 63% of patients re-randomised to placebo (treatment withdrawal) (p &lt; 0.001). At 18 months (week 76), 84% of patients re-randomised to maintenance treatment were PASI 75 responders compared with 19% of patients re-randomised to placebo (treatment withdrawal). At 3 years (week 148), 82% of patients re-randomised to maintenance treatment were PASI 75 responders. At 5 years (week 244), 80% of patients re- randomised to maintenance treatment were PASI 75 responders.
 
 <div style=\"page-break-after: always\"></div>
-
-patients re-randomised to placebo (treatment withdrawal) (p &lt; 0.001). At 18 months (week 76), 84% of patients re-randomised to maintenance treatment were PASI 75 responders compared with 19% of patients re-randomised to placebo (treatment withdrawal). At 3 years (week 148), 82% of patients re-randomised to maintenance treatment were PASI 75 responders. At 5 years (week 244), 80% of patients re- randomised to maintenance treatment were PASI 75 responders.
 
 In patients re-randomised to placebo, and who reinitiated their original ustekinumab treatment regimen after loss of ≥ 50% of PASI improvement 85% regained PASI 75 response within 12 weeks after re-initiating therapy.
 
@@ -1092,9 +1076,9 @@ In Psoriasis Study 1, at week 2 and week 12, significantly greater improvements 
 
 Ustekinumab has been shown to improve signs and symptoms, physical function and health- related quality of life, and reduce the rate of progression of peripheral joint damage in adult patients with active PsA.
 
-The safety and efficacy of ustekinumab was assessed in 927 patients in two randomised, double- blind, placebo-controlled  studies in patients with active PsA (≥ 5 swollen joints and ≥ 5 tender joints) despite nonsteroidal  anti-inflammatory  (NSAID)  or  disease modifying  antirheumatic (DMARD) therapy. Patients in these studies had a diagnosis of PsA for at least 6 months. Patients with each subtype  of PsA were enrolled, including  polyarticular  arthritis  with no evidence  of rheumatoid  nodules  (39%),  spondylitis  with peripheral arthritis  (28%),  asymmetric  peripheral arthritis (21%), distal interphalangeal involvement (12%) and arthritis mutilans (0.5%). Over 70% and 40% of the patients  in both studies  had enthesitis  and dactylitis  at baseline, respectively. Patients  were randomised  to receive  treatment  with ustekinumab  45 mg, 90 mg, or placebo subcutaneously at Weeks 0 and 4 followed by every 12 weeks (q12w) dosing. Approximately 50% of patients continued on stable doses of MTX (≤ 25 mg/week).
+The safety and efficacy of ustekinumab was assessed in 927 patients in two randomised, double- blind, placebo-controlled  studies in patients with active PsA ( ≥ 5 swollen joints and ≥ 5 tender joints) despite nonsteroidal  anti-inflammatory  (NSAID)  or  disease modifying  antirheumatic (DMARD) therapy. Patients in these studies had a diagnosis of PsA for at least 6 months. Patients with each subtype  of PsA were enrolled, including  polyarticular  arthritis  with no evidence  of rheumatoid  nodules  (39%),  spondylitis  with peripheral arthritis  (28%),  asymmetric  peripheral arthritis (21%), distal interphalangeal involvement (12%) and arthritis mutilans (0.5%). Over 70% and 40% of the patients  in both studies  had enthesitis  and dactylitis  at baseline, respectively. Patients  were randomised  to receive  treatment  with ustekinumab  45 mg, 90 mg, or placebo subcutaneously at Weeks 0 and 4 followed by every 12 weeks (q12w) dosing. Approximately 50% of patients continued on stable doses of MTX ( ≤ 25 mg/week).
 
-In PsA Study 1 (PSUMMIT I) and PsA Study 2 (PSUMMIT II), 80% and 86% of the patients, respectively, had been previously treated with DMARDs. In Study 1 previous treatment with anti-tumour necrosis factor (TNF)α agent was not allowed. In Study 2, the majority of patients (58%, n = 180) had been previously treated with one or more anti-TNFα agent(s), of whom over 70% had discontinued their anti-TNFα treatment for lack of efficacy or intolerance at any time.
+In PsA Study 1 (PSUMMIT I) and PsA Study 2 (PSUMMIT II), 80% and 86% of the patients, respectively, had been previously treated with DMARDs. In Study 1 previous treatment with anti-tumour necrosis factor (TNF) α agent was not allowed. In Study 2, the majority of patients (58%, n = 180) had been previously treated with one or more anti-TN Fα agent(s), of whom over 70% had discontinued their anti-TN Fα treatment for lack of efficacy or intolerance at any time.
 
 ## Signs and symptoms
 
@@ -1112,18 +1096,18 @@ Table 5: Number of patients who achieved clinical response in Psoriatic arthriti
 
 <div style=\"page-break-after: always\"></div>
 
-| Number of patients with ≥3% BSA d          | 146      | 145        | 149        | 80       | 80         | 81         |
+| Number of patients with ≥ 3% BSA d         | 146      | 145        | 149        | 80       | 80         | 81         |
 |--------------------------------------------|----------|------------|------------|----------|------------|------------|
 | PASI 75 response, N (%)                    | 16 (11%) | 83 (57%) a | 93 (62%) a | 4 (5%)   | 41 (51%) a | 45 (56%) a |
 | PASI 90 response, N (%)                    | 4 (3%)   | 60 (41%) a | 65 (44%) a | 3 (4%)   | 24 (30%) a | 36 (44%) a |
 | Combined PASI 75 and ACR 20 response, N(%) | 8 (5%)   | 40 (28%) a | 62 (42%) a | 2 (3%)   | 24 (30%) a | 31 (38%) a |
 | Number of patients ≤ 100kg                 | 154      | 153        | 154        | 74       | 74         | 73         |
 | ACR 20 response, N (%)                     | 39 (25%) | 67 (44%)   | 78 (51%)   | 17 (23%) | 32 (43%)   | 34 (47%)   |
-| Number of patients with ≥3% BSA d          | 105      | 105        | 111        | 54       | 58         | 57         |
+| Number of patients with ≥ 3% BSA d         | 105      | 105        | 111        | 54       | 58         | 57         |
 | PASI 75 response, N (%)                    | 14 (13%) | 64 (61%)   | 73 (66%)   | 4 (7%)   | 31 (53%)   | 32 (56%)   |
 | Number of patients >100 kg                 | 52       | 52         | 50         | 30       | 29         | 31         |
 | ACR 20 response, N (%)                     | 8 (15%)  | 20 (38%)   | 23 (46%)   | 4 (13%)  | 13 (45%)   | 12 (39%)   |
-| Number of patients with ≥3% BSA d          | 41       | 40         | 38         | 26       | 22         | 24         |
+| Number of patients with ≥ 3% BSA d         | 41       | 40         | 38         | 26       | 22         | 24         |
 | PASI 75 response, N (%)                    | 2 (5%)   | 19 (48%)   | 20 (53%)   | 0        | 10 (45%)   | 13 (54%)   |
 
 a
@@ -1144,17 +1128,15 @@ ACR 20, 50 and 70 responses continued to improve or were maintained through week
 
 The proportion of patients achieving a modified PsA response criteria (PsARC) response was also significantly greater in the ustekinumab groups compared to placebo at week 24. PsARC responses were maintained through weeks 52 and 100. A higher proportion of patients treated with ustekinumab who had spondylitis with peripheral arthritis as their primary presentation, demonstrated 50 and 70 percent improvement in Bath Ankylosing Spondylitis Disease Activity Index (BASDAI) scores compared with placebo at week 24.
 
-Responses observed in the ustekinumab treated groups were similar in patients receiving and not receiving concomitant MTX, and were maintained through weeks 52 and 100. Patients previously treated with anti-TNFα agents who received ustekinumab achieved a greater response at week 24 than patients receiving placebo (ACR 20 response at week 24 for 45 mg and 90 mg was 37% and 34%, respectively, compared with placebo 15%; p &lt; 0.05), and responses were maintained through week 52.
+Responses observed in the ustekinumab treated groups were similar in patients receiving and not receiving concomitant MTX, and were maintained through weeks 52 and 100. Patients previously treated with anti-TN Fα agents who received ustekinumab achieved a greater response at week 24 than patients receiving placebo (ACR 20 response at week 24 for 45 mg and 90 mg was 37% and 34%, respectively, compared with placebo 15%; p &lt; 0.05), and responses were maintained through week 52.
 
 For patients with enthesitis and/or dactylitis at baseline, in PsA Study 1 significant improvement in enthesitis and dactylitis score was observed in the ustekinumab groups compared with placebo at week 24. In PsA Study 2 significant improvement in enthesitis score and numerical improvement (not statistically significant) in dactylitis score was observed in the ustekinumab 90 mg group compared with placebo at week 24. Improvements in enthesitis score and dactylitis score were maintained through weeks 52 and 100.
 
 ## Radiographic Response
 
-Structural damage in both hands and feet was expressed as change in total van der Heijde-Sharp score (vdH-S score), modified for PsA by addition of hand distal interphalangeal joints, compared to baseline. A pre-specified integrated analysis combining data from 927 subjects in both PsA Study 1 and 2 was performed. Ustekinumab
+Structural damage in both hands and feet was expressed as change in total van der Heijde-Sharp score (vdH-S score), modified for PsA by addition of hand distal interphalangeal joints, compared to baseline. A pre-specified integrated analysis combining data from 927 subjects in both PsA Study 1 and 2 was performed. Ustekinumab demonstrated a statistically significant decrease in the rate of progression of structural damage compared to placebo, as measured by change from baseline to week 24 in the total modified vdH-S score (mean ± SD score was 0.97 ± 3.85 in the placebo group compared with 0.40 ± 2.11 and 0.39 ± 2.40 in the ustekinumab 45 mg (p &lt; 0.05) and 90 mg (p &lt; 0.001) groups, respectively). This effect was driven by PsA Study 1. The effect is considered demonstrated irrespective of concomitant MTX use, and was maintained through Weeks 52 (integrated analysis) and 100 (PsA Study 1).
 
 <div style=\"page-break-after: always\"></div>
-
-demonstrated a statistically significant decrease in the rate of progression of structural damage compared to placebo, as measured by change from baseline to week 24 in the total modified vdH-S score (mean ± SD score was 0.97 ± 3.85 in the placebo group compared with 0.40 ± 2.11 and 0.39 ± 2.40 in the ustekinumab 45 mg (p &lt; 0.05) and 90 mg (p &lt; 0.001) groups, respectively). This effect was driven by PsA Study 1. The effect is considered demonstrated irrespective of concomitant MTX use, and was maintained through Weeks 52 (integrated analysis) and 100 (PsA Study 1).
 
 ## Physical function and health-related quality of life
 
@@ -1206,10 +1188,7 @@ Table 6: Summary of primary and secondary endpoints at week 12 and week 52
 - a p &lt; 0.001
 - b CDLQI: The CDLQI is a dermatology instrument to assess the effect of a skin problem on the health-related quality of life in the paediatric population. CDLQI of 0 or 1 indicates no effect on child's quality of life.
 - c p = 0.002
-
-d
-
-- PedsQL: The PedsQL Total Scale Score is a general health-related quality of life measure developed for use in children and adolescent populations. For the placebo group at week 12, N = 36
+- d PedsQL: The PedsQL Total Scale Score is a general health-related quality of life measure developed for use in children and adolescent populations. For the placebo group at week 12, N = 36
 - e p = 0.028
 
 During the placebo-controlled period through week 12, the efficacy of both the recommended and half of the recommended dose groups were generally comparable at the primary endpoint (69.4% and 67.6% respectively) although there was evidence of a dose response for higher level efficacy criteria (e.g. PGA of cleared (0), PASI 90). Beyond week 12, efficacy was generally higher and better sustained in the recommended dose group compared with half of the recommended dosage group in which a modest loss of efficacy was more frequently observed toward the end of each 12 week dosing interval. The safety profiles of the recommended dose and half of the recommended dose were comparable.
@@ -1251,9 +1230,9 @@ The safety and efficacy of ustekinumab was assessed in three randomised, double-
 
 The induction studies included 1409 (UNITI-1, n = 769; UNITI-2 n = 640) patients. The primary endpoint for both induction studies was the proportion of subjects in clinical response (defined as a reduction in CDAI score of ≥ 100 points) at week 6. Efficacy data were collected and analyzed through week 8 for both studies. Concomitant doses of oral corticosteroids, immunomodulators, aminosalicylates and antibiotics were permitted and 75% of patients continued to receive at least one of these medications. In both studies, patients were randomised to receive a single intravenous administration of either the recommended tiered dose of approximately 6 mg/kg (see section 4.2 of the IMULDOSA 130 mg Concentrate for solution for infusion SmPC), a fixed dose of 130 mg ustekinumab, or placebo at week 0.
 
-Patients in UNITI-1 had failed or were intolerant to prior anti-TNFα therapy. Approximately 48% of the patients had failed 1 prior anti-TNFα  therapy and 52% had failed 2 or 3 prior anti- TNFα therapies. In this study, 29.1% of the patients had an inadequate initial response (primary non-responders), 69.4% responded but lost response (secondary non-responders), and 36.4% were intolerant to anti- TNFα therapies.
+Patients in UNITI-1 had failed or were intolerant to prior anti-TN Fα therapy. Approximately 48% of the patients had failed 1 prior anti-TN Fα therapy and 52% had failed 2 or 3 prior anti- TN Fα therapies. In this study, 29.1% of the patients had an inadequate initial response (primary non-responders), 69.4% responded but lost response (secondary non-responders), and 36.4% were intolerant to anti- TN Fα therapies.
 
-Patients in UNITI-2 had failed at least one conventional therapy, including corticosteroids or immunomodulators, and were either anti-TNF-α naïve (68.6%) or had previously received but not failed anti-TNFα therapy (31.4%).
+Patients in UNITI-2 had failed at least one conventional therapy, including corticosteroids or immunomodulators, and were either anti-TNFα naïve (68.6%) or had previously received but not failed anti-TN Fα therapy (31.4%).
 
 In both UNITI-1 and UNITI-2, a significantly greater proportion of patients were in clinical response and remission in the ustekinumab treated group compared to placebo (Table 8). Clinical response and remission were significant as early as week 3 in ustekinumab treated patients and continued to improve through week 8. In these induction studies, efficacy was higher and better sustained in the tiered dose group compared to the 130 mg dose group, and tiered dosing is therefore the recommended intravenous induction dose.
 
@@ -1275,7 +1254,7 @@ Clinical remission is defined as CDAI score &lt; 150; Clinical response is defin
 
 70 point response is defined as reduction in CDAI score by at least 70 points
 
-* Anti-TNFα failures
+* Anti-TNF α failures
 - ** Conventional therapy failures
 - a p &lt; 0.001
 - b p &lt; 0.01
@@ -1294,15 +1273,15 @@ Table 9: Maintenance of Clinical Response and Remission in IM-UNITI (week 44; 52
 | Clinical Remission in patients:                  |                    |                                           |                                            |
 | in remission at the start of maintenance therapy | 46% (36/79)        | 67% (52/78) a                             | 56% (44/78)                                |
 | who entered from study CRD3002 ‡                 | 44% (31/70)        | 63% (45/72) c                             | 57% (41/72)                                |
-| who are Anti-TNFα naïve                          | 49% (25/51)        | 65% (34/52) c                             | 57% (30/53)                                |
+| who are Anti-TN Fα naïve                         | 49% (25/51)        | 65% (34/52) c                             | 57% (30/53)                                |
 | who entered from study CRD3001 §                 | 26% (16/61)        | 41% (23/56)                               | 39% (22/57)                                |
 
 Clinical remission is defined as CDAI score &lt; 150; Clinical response is defined as reduction in CDAI of at least 100 points or being in clinical remission
 
 * The placebo group consisted of patients who were in response to ustekinumab and were randomised to receive placebo at the start of maintenance therapy.
 - † Patients who were in 100 point clinical response to ustekinumab at start of maintenance therapy
-- ‡ Patients who failed conventional therapy but not anti-TNFα therapy
-- § Patients who are anti-TNFα refractory/intolerant
+- ‡ Patients who failed conventional therapy but not anti-TNF α therapy
+- § Patients who are anti-TNF α refractory/intolerant
 - a p &lt; 0.01
 - b p &lt; 0.05
 - c nominally significant (p &lt; 0.05)
@@ -1371,7 +1350,7 @@ Table 10: Summary of Secondary endpoints through Maintenance week 44
 
 † Clinical response is defined as a reduction from baseline in the PCDAI score of ≥12.5 points with a total PCDAI score not more than 30.
 
-£ Endoscopic response is defined as a reduction in the SES-CD score of ≥50% or SES-CD score ≤2, in patients with a baseline SES-CD score of ≥3.
+£ Endoscopic response is defined as a reduction in the SESCD score of ≥50% or SES -CD score ≤2, in patients with a baseline SESCD score of ≥3.
 
 ## Dosing frequency adjustment
 
@@ -1381,11 +1360,9 @@ The safety profile of the induction dose regimen and both maintenance dose regim
 
 ## Serum and faecal inflammatory biomarkers
 
-The mean change from baseline at maintenance week 44 in C-Reactive protein (CRP) and faecal
+The mean change from baseline at maintenance week 44 in C-Reactive protein (CRP) and faecal calprotectin concentrations were -11.17 mg/L (24.159) and -538.2 mg/kg (1271.33), respectively.
 
 <div style=\"page-break-after: always\"></div>
-
-calprotectin concentrations were -11.17 mg/L (24.159) and -538.2 mg/kg (1271.33), respectively.
 
 ## Health-related quality of life
 
@@ -1417,17 +1394,15 @@ The systemic  exposure  of ustekinumab  (Cmax and AUC) increased  in an approxim
 
 ## Single dose versus multiple doses
 
-Serum concentration-time profiles of ustekinumab were generally predictable after single or multiple subcutaneous dose administrations. In patients with psoriasis, steady-state serum concentrations of ustekinumab were achieved by week 28 after initial subcutaneous doses at Weeks 0 and 4 followed by doses every 12 weeks. The median steady-state trough concentration ranged from 0.21 μg/mL to 0.26 μg/mL (45 mg) and from 0.47 μg/mL to 0.49 μg/mL (90 mg). There was no apparent accumulation in serum ustekinumab concentration over time when given subcutaneously every 12 weeks.
+Serum concentration-time profiles of ustekinumab were generally predictable after single or multiple subcutaneous dose administrations. In patients with psoriasis, steady-state serum concentrations of ustekinumab were achieved by week 28 after initial subcutaneous doses at Weeks 0 and 4 followed by doses every 12 weeks. The median steady-state trough concentration ranged from 0.21 μ g/mL to 0.26 μ g/mL (45 mg) and from 0.47 μ g/mL to 0.49 μ g/mL (90 mg). There was no apparent accumulation in serum ustekinumab concentration over time when given subcutaneously every 12 weeks.
 
-In patients with Crohn's disease, following an intravenous dose of ~6 mg/kg, starting at week 8, subcutaneous maintenance dosing of 90 mg ustekinumab was administered every 8 or 12 weeks. Steady state ustekinumab concentration was achieved by the start of the second maintenance dose. In patients with Crohn's disease, median steady-state trough concentrations ranged from 1.97 μg/mL to 2.24 μg/mL and from 0.61 μg/mL to 0.76 μg/mL for 90 mg ustekinumab every 8 weeks or every 12 weeks respectively.
+In patients with Crohn's disease, following an intravenous dose of ~6 mg/kg, starting at week 8, subcutaneous maintenance dosing of 90 mg ustekinumab was administered every 8 or 12 weeks. Steady state ustekinumab concentration was achieved by the start of the second maintenance dose. In patients with Crohn's disease, median steady-state trough concentrations ranged from 1.97 μ g/mL to 2.24 μ g/mL and from 0.61 μ g/mL to 0.76 μ g/mL for 90 mg ustekinumab every 8 weeks or every 12 weeks respectively.
 
 ## Impact of weight on pharmacokinetics
 
-In a population pharmacokinetic analysis using data from patients with psoriasis, body weight was found to be the most significant covariate affecting the clearance of ustekinumab. The median CL/F in patients with weight &gt; 100 kg was approximately 55% higher compared to patients with weight ≤ 100 kg. The median V/F in patients
+In a population pharmacokinetic analysis using data from patients with psoriasis, body weight was found to be the most significant covariate affecting the clearance of ustekinumab. The median CL/F in patients with weight &gt; 100 kg was approximately 55% higher compared to patients with weight ≤ 100 kg. The median V/F in patients with weight &gt; 100 kg was approximately 37% higher as compared to patients with weight ≤ 100 kg. The median trough serum concentrations of ustekinumab in patients with higher weight (&gt; 100 kg) in the 90 mg group were comparable to those in patients with lower weight ( ≤ 100 kg) in the 45 mg group. Similar results were obtained from a confirmatory population pharmacokinetic analysis using data from patients with psoriatic arthritis.
 
 <div style=\"page-break-after: always\"></div>
-
-with weight &gt; 100 kg was approximately 37% higher as compared to patients with weight ≤ 100 kg. The median trough serum concentrations of ustekinumab in patients with higher weight (&gt; 100 kg) in the 90 mg group were comparable to those in patients with lower weight (≤ 100 kg) in the 45 mg group. Similar results were obtained from a confirmatory population pharmacokinetic analysis using data from patients with psoriatic arthritis.
 
 ## Dosing frequency adjustment
 
@@ -1455,11 +1430,9 @@ The effects of IL-12 or IL-23 on the regulation of CYP450 enzymes were evaluated
 
 Non-clinical data reveal no special hazard (e.g. organ toxicity) for humans based on studies of repeated-dose toxicity and developmental and reproductive toxicity, including safety pharmacology evaluations. In developmental and reproductive toxicity studies in cynomolgus monkeys, neither adverse effects on male fertility indices nor birth defects or developmental toxicity were observed. No adverse effects on female fertility indices were observed using an analogous antibody to IL-12/23 in mice.
 
-Dose levels in animal studies were up to approximately 45-fold higher than the highest equivalent dose intended
+Dose levels in animal studies were up to approximately 45-fold higher than the highest equivalent dose intended to be administered to psoriasis patients and resulted in peak serum concentrations in monkeys that were more than 100-fold higher than observed in humans.
 
 <div style=\"page-break-after: always\"></div>
-
-to be administered to psoriasis patients and resulted in peak serum concentrations in monkeys that were more than 100-fold higher than observed in humans.
 
 Carcinogenicity studies were not performed with ustekinumab due to the lack of appropriate models for an antibody with no cross-reactivity to rodent IL-12/23 p40.
 
@@ -1503,11 +1476,9 @@ IMULDOSA is available in a pack of 1 pre-filled syringe.
 
 ## 6.6 Special precautions for disposal and other handling
 
-The solution in the IMULDOSA pre-filled syringe should not be shaken. The solution should be visually inspected for particulate matter or discolouration prior to subcutaneous administration. The solution is
+The solution in the IMULDOSA pre-filled syringe should not be shaken. The solution should be visually inspected for particulate matter or discolouration prior to subcutaneous administration. The solution is colourless to slightly yellow and clear to slightly opalescent. This appearance is not unusual for proteinaceous solutions. The medicinal product should not be used if the solution is discoloured or cloudy, or if foreign particulate matter is present. Before administration, IMULDOSA should be allowed to reach room temperature (approximately half an hour). Detailed instructions for use are provided in the package leaflet.
 
 <div style=\"page-break-after: always\"></div>
-
-colourless to slightly yellow and clear to slightly opalescent. This appearance is not unusual for proteinaceous solutions. The medicinal product should not be used if the solution is discoloured or cloudy, or if foreign particulate matter is present. Before administration, IMULDOSA should be allowed to reach room temperature (approximately half an hour). Detailed instructions for use are provided in the package leaflet.
 
 IMULDOSA does not contain preservatives; therefore any unused medicinal product remaining in the syringe should not be used. IMULDOSA is supplied as a sterile, single- use pre-filled syringe. The syringe and needle must never be re-used. Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
@@ -1587,7 +1558,7 @@ An updated RMP should be submitted:
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-## OUTER CARTON (130 mg)
+OUTER CARTON (130 mg)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -1753,8 +1724,7 @@ Lot
 
 ## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
-2D barcode carrying the unique identifier included.
-
+- 2D barcode carrying the unique identifier included.
 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
@@ -1833,7 +1803,7 @@ EU/1/24/1872/001
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
@@ -2084,7 +2054,7 @@ Lot
 
 ustekinumab
 
-▼This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
+▼ This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
@@ -2212,9 +2182,13 @@ Your doctor will decide how much IMULDOSA you need to receive and for how long.
 
 - The doctor will work out the recommended intravenous infusion dose for you based on your body weight.
 
-| Your body weight   | Dose   |
-|--------------------|--------|
-| ≤ 55 kg            | 260 mg |
+Your body weight
+
+Dose
+
+≤ 55 kg
+
+260 mg
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2226,8 +2200,8 @@ Your doctor will decide how much IMULDOSA you need to receive and for how long.
 
 ## Children with Crohn's disease who weigh at least 40 kg
 
--  The doctor will work out the recommended intravenous infusion dose for you based on your body weight.
--  After the starting intravenous dose, you will have the next dose of 90 mg Imuldosa by an injection under your skin (subcutaneous injection) 8 weeks later, and then every 12 weeks thereafter.
+- The doctor will work out the recommended intravenous infusion dose for you based on your body weight.
+- After the starting intravenous dose, you will have the next dose of 90 mg Imuldosa by an injection under your skin (subcutaneous injection) 8 weeks later, and then every 12 weeks thereafter.
 
 | Your body weight   | Dose   |
 |--------------------|--------|
@@ -2267,11 +2241,9 @@ Some patients may have serious side effects that may need urgent treatment.
 - o swelling of the face, lips, mouth or throat.
 - Common signs of an allergic reaction include skin rash and hives (these may affect up to 1 in 100 people).
 
-Infusion-related reactions - If you are being treated for Crohn's disease, the first dose of IMULDOSA is
+Infusion-related reactions - If you are being treated for Crohn's disease, the first dose of IMULDOSA is given through a drip into a vein (intravenous infusion). Some patients have experienced serious allergic reactions during the infusion.
 
 <div style=\"page-break-after: always\"></div>
-
-given through a drip into a vein (intravenous infusion). Some patients have experienced serious allergic reactions during the infusion.
 
 In rare cases, allergic lung reactions and lung inflammation have been reported in patients who receive ustekinumab. Tell your doctor right away if you develop symptoms such as cough, shortness of breath, and fever.
 
@@ -2440,7 +2412,7 @@ The following information is intended for healthcare professionals only:
 
 ustekinumab
 
-▼This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
+▼ This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
 
 Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
@@ -2528,11 +2500,9 @@ IMULDOSA can cause serious side effects, including allergic reactions and infect
 
 If you are not sure if any of the above applies to you, talk to your doctor or pharmacist before using IMULDOSA.
 
-Some patients have experienced lupus-like reactions including skin lupus or lupus-like syndrome during treatment with ustekinumab. Talk to your doctor right away if you experience a red, raised, scaly rash sometimes
+Some patients have experienced lupus-like reactions including skin lupus or lupus-like syndrome during treatment with ustekinumab. Talk to your doctor right away if you experience a red, raised, scaly rash sometimes with a darker border, in areas of the skin that are exposed to the sun or with joint pains.
 
 <div style=\"page-break-after: always\"></div>
-
-with a darker border, in areas of the skin that are exposed to the sun or with joint pains.
 
 ## Heart attack and strokes
 
@@ -2552,12 +2522,12 @@ Tell your doctor or pharmacist:
 
 ## Pregnancy and breast-feeding
 
--  If you are pregnant, think you may be pregnant or are planning to have a baby, ask your doctor for advice before taking this medicine.
--  A higher risk of birth defects has not been seen in babies exposed to Imuldosa in the womb. However, there is limited experience with Imuldosa in pregnant women. It is therefore preferable to avoid the use of Imuldosa in pregnancy.
--  If you are a woman of childbearing potential, you are advised to avoid becoming pregnant and must use adequate contraception while using Imuldosa and for at least 15 weeks after the last Imuldosa treatment.
--  Imuldosa can pass across the placenta to the unborn baby. If you received Imuldosa during your pregnancy, your baby may have a higher risk for getting an infection.
--  It is important that you tell your baby's doctors and other health care professionals if you received Imuldosa during your pregnancy before the baby receives any vaccine. Live vaccines such as the BCG vaccine (used to prevent tuberculosis) are not recommended for your baby in the first twelve months after birth if you received Imuldosa during the pregnancy unless your baby's doctor recommends otherwise.
--  Ustekinumab may pass into breast milk in very small amounts. Talk to your doctor if you are breast-feeding or are planning to breast-feed. You and your doctor should decide if you should breast-feed or use Imuldosa - do not do both.
+- If you are pregnant, think you may be pregnant or are planning to have a baby, ask your doctor for advice before taking this medicine.
+- A higher risk of birth defects has not been seen in babies exposed to Imuldosa in the womb. However, there is limited experience with Imuldosa in pregnant women. It is therefore preferable to avoid the use of Imuldosa in pregnancy.
+- If you are a woman of childbearing potential, you are advised to avoid becoming pregnant and must use adequate contraception while using Imuldosa and for at least 15 weeks after the last Imuldosa treatment.
+- Imuldosa can pass across the placenta to the unborn baby. If you received Imuldosa during your pregnancy, your baby may have a higher risk for getting an infection.
+- It is important that you tell your baby's doctors and other health care professionals if you received Imuldosa during your pregnancy before the baby receives any vaccine. Live vaccines such as the BCG vaccine (used to prevent tuberculosis) are not recommended for your baby in the first twelve months after birth if you received Imuldosa during the pregnancy unless your baby's doctor recommends otherwise.
+- Ustekinumab may pass into breast milk in very small amounts. Talk to your doctor if you are breast-feeding or are planning to breast-feed. You and your doctor should decide if you should breast-feed or use Imuldosa - do not do both.
 
 ## Driving and using machines
 
@@ -2591,9 +2561,7 @@ Your doctor will decide how much IMULDOSA you need to use and for how long.
 - During treatment, the first dose of approximately 6 mg/kg IMULDOSA will be given by your doctor through a drip in a vein in your arm (intravenous infusion). After the starting dose, you will receive the next dose of 90 mg IMULDOSA after 8 weeks, then every 12 weeks thereafter by an injection under the skin ('subcutaneously').
 - In some patients, after the first injection under the skin, 90 mg IMULDOSA may be given every 8 weeks. Your doctor will decide when you should receive your next dose.
 
-## Children and adolescents aged 6 years or older
-
-## Psoriasis
+## Children and adolescents aged 6 years or older Psoriasis
 
 -  The doctor will work out the right dose for you, including the amount (volume) of IMULDOSA to be injected to give the right dose. The right dose for you will depend on your body weight at the time each dose is given.
 -  If you weigh less than 60 kg, there is no dosage form for IMULDOSA for children below 60 kg body weight, therefore other ustekinumab products should be used.
@@ -2603,8 +2571,8 @@ Your doctor will decide how much IMULDOSA you need to use and for how long.
 
 ## Children who weigh at least 40 kg Crohn's disease
 
--  During treatment, the first dose of approximately 6 mg/kg Imuldosa will be given by your doctor through a drip in a vein in your arm (intravenous infusion). After the starting dose, you will receive the next dose of 90 mg Imuldosa after 8 weeks, then every 12 weeks thereafter by an injection under the skin ('subcutaneously').
--  In some patients, after the first injection under the skin, 90 mg Imuldosa may be given every 8 weeks. Your doctor will decide when you should receive your next dose.
+- During treatment, the first dose of approximately 6 mg/kg Imuldosa will be given by your doctor through a drip in a vein in your arm (intravenous infusion). After the starting dose, you will receive the next dose of 90 mg Imuldosa after 8 weeks, then every 12 weeks thereafter by an injection under the skin ('subcutaneously').
+- In some patients, after the first injection under the skin, 90 mg Imuldosa may be given every 8 weeks. Your doctor will decide when you should receive your next dose.
 
 ## How IMULDOSA is given
 
@@ -2620,15 +2588,15 @@ If you have used or been given too much IMULDOSA, talk to a doctor or pharmacist
 
 ## If you forget to use IMULDOSA
 
-If you forget a dose, contact your doctor or pharmacist. Do not take a double dose to make up for a forgotten
+If you forget a dose, contact your doctor or pharmacist. Do not take a double dose to make up for a forgotten dose.
 
 <div style=\"page-break-after: always\"></div>
 
-dose.
-
 ## If you stop using IMULDOSA
 
-It is not dangerous to stop using IMULDOSA. However, if you stop, your symptoms may come back. If you have any further questions on the use of this medicine, ask your doctor or pharmacist.
+It is not dangerous to stop using IMULDOSA. However, if you stop, your symptoms may come back. If you
+
+have any further questions on the use of this medicine, ask your doctor or pharmacist.
 
 ## 4. Possible side effects
 
@@ -2657,7 +2625,9 @@ If you have a serious allergic reaction, your doctor may decide that you should 
 - Inflammation of tissue under the skin ('cellulitis') is uncommon (may affect up to 1 in 100 people)
 - Shingles (a type of painful rash with blisters) are uncommon (may affect up to 1 in 100 people)
 
-IMULDOSA may make you less able to fight infections. Some infections could become serious and may include infections caused by viruses, fungi, bacteria (including tuberculosis), or parasites, including infections that mainly occur in people with a weakened immune system (opportunistic infections). Opportunistic infections of the brain (encephalitis, meningitis), lungs, and eye have been reported in patients receiving treatment with ustekinumab.
+IMULDOSA may make you less able to fight infections. Some infections could become serious and may include infections caused by viruses, fungi, bacteria (including tuberculosis), or parasites, including infections that mainly occur in people with a weakened immune system (opportunistic infections). Opportunistic infections of the brain (encephalitis, meningitis),
+
+lungs, and eye have been reported in patients receiving treatment with ustekinumab.
 
 You must look out for signs of infection while you are using IMULDOSA. These include:
 
@@ -2764,7 +2734,7 @@ For any information about this medicine, please contact the local representative
 
 <div style=\"page-break-after: always\"></div>
 
-## AT / BE / BG / CY / CZ / DE / DK / EE / ES / FI / FR / HR / HU / IE / IS / IT / LT / LV / LU / MT / NL / NO / PL / PT / RO / SE / SI / SK
+AT / BE / BG / CY / CZ / DE / DK / EE / ES / FI / FR / HR / HU / IE / IS / IT / LT / LV / LU / MT / NL / NO / PL / PT / RO / SE / SI / SK
 
 Accord Healthcare S.L.U.
 
@@ -2830,7 +2800,8 @@ Choose an injection site (see Figure 2)
 - Good places for the injection are the upper thigh or around the belly (abdomen) at least 5 cm away from the navel (belly button)
 - If possible, do not use areas of skin that show signs of psoriasis
 - If someone will assist in giving you the injection, then he or she may also choose the upper arms as an injection site
-- *Areas in gray are recommended injection sites.
+
+*Areas in gray are recommended injection sites.
 
 <!-- image -->
 
@@ -2910,7 +2881,7 @@ Figure 7
 
 ustekinumab
 
-▼This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
+▼ This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
 
 Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
@@ -2998,11 +2969,9 @@ IMULDOSA can cause serious side effects, including allergic reactions and infect
 
 If you are not sure if any of the above applies to you, talk to your doctor or pharmacist before using IMULDOSA.
 
-Some patients have experienced lupus-like reactions including skin lupus or lupus-like syndrome during treatment with ustekinumab. Talk to your doctor right away if you experience a red, raised, scaly rash sometimes
+Some patients have experienced lupus-like reactions including skin lupus or lupus-like syndrome during treatment with ustekinumab. Talk to your doctor right away if you experience a red, raised, scaly rash sometimes with a darker border, in areas of the skin that are exposed to the sun or with joint pains.
 
 <div style=\"page-break-after: always\"></div>
-
-with a darker border, in areas of the skin that are exposed to the sun or with joint pains.
 
 ## Heart attack and strokes
 
@@ -3071,8 +3040,8 @@ Your doctor will decide how much IMULDOSA you need to use and for how long.
 
 ## Children who weigh at least 40 kg Crohn's disease
 
--  During treatment, the first dose of approximately 6 mg/kg Imuldosa will be given by your doctor through a drip in a vein in your arm (intravenous infusion). After the starting dose, you will receive the next dose of 90 mg Imuldosa after 8 weeks, then every 12 weeks thereafter by an injection under the skin ('subcutaneously').
--  In some patients, after the first injection under the skin, 90 mg Imuldosa may be given every 8 weeks. Your doctor will decide when you should receive your next dose.
+- During treatment, the first dose of approximately 6 mg/kg Imuldosa will be given by your doctor through a drip in a vein in your arm (intravenous infusion). After the starting dose, you will receive the next dose of 90 mg Imuldosa after 8 weeks, then every 12 weeks thereafter by an injection under the skin ('subcutaneously').
+- In some patients, after the first injection under the skin, 90 mg Imuldosa may be given every 8 weeks. Your doctor will decide when you should receive your next dose.
 
 ## How IMULDOSA is given
 
@@ -3224,11 +3193,9 @@ Accord Healthcare S.L.U. World Trade Center, Moll De Barcelona, s/n Edifici Est,
 
 Accord Healthcare Polska Sp. z.o.o. ul. Lutomierska 50, 95-200, Pabianice, Poland
 
-Accord Healthcare B.V. Winthontlaan 200, 3526 KV Utrecht, Netherlands
+Accord Healthcare B.V. Winthontlaan 200, 3526 KV Utrecht, Netherlands For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 <div style=\"page-break-after: always\"></div>
-
-For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 AT / BE / BG / CY / CZ / DE / DK / EE / ES / FI / FR / HR / HU / IE / IS / IT / LT / LV / LU / MT / NL / NO / PL / PT / RO / SE / SI / SK
 
@@ -3236,11 +3203,7 @@ Accord Healthcare S.L.U.
 
 Tel: +34 93 301 00 64
 
-EL
-
-Win Medica Α.Ε.
-
-Τηλ: +30 210 74 88 821
+EL Win Medica Α.Ε. Τηλ: +30 210 74 88 821
 
 ## This leaflet was last revised in { MM/YYYY }.
 

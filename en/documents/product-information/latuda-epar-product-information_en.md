@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-01-12 15:58:49
-document_pages: 47
+document_datetime: 2026-05-08 14:08:01
+document_pages: 48
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/latuda-epar-product-information_en.pdf
 document_name: latuda-epar-product-information_en.pdf
 version: success
-processing_time: 15.5230727
-conversion_datetime: 2026-01-14 07:23:17.449653
+processing_time: 16.6731343
+conversion_datetime: 2026-05-13 13:24:19.553004
 docling_version:
-  docling-serve: 1.10.0
-  docling-jobkit: 1.8.1
-  docling: 2.68.0
-  docling-core: 2.59.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.17.0
+  docling-jobkit: 1.18.0
+  docling: 2.92.0
+  docling-core: 2.74.1
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.10.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -46,9 +46,13 @@ For the full list of excipients, see section 6.1.
 
 Film-coated tablet (tablet).
 
-Latuda 18.5 mg film-coated tablets White to off-white, film-coated round tablets of 6 mm debossed with 'LA'
+Latuda 18.5 mg film-coated tablets
 
-Latuda 37 mg film-coated tablets White to off-white, film-coated round tablets of 8 mm debossed with 'LB'
+White to off-white, film-coated round tablets of 6 mm debossed with 'LA'
+
+## Latuda 37 mg film-coated tablets
+
+White to off-white, film-coated round tablets of 8 mm debossed with 'LB'
 
 ## Latuda 74 mg film-coated tablets
 
@@ -72,11 +76,9 @@ Patients on doses higher than 111 mg once daily who discontinue their treatment 
 
 ## Paediatric population
 
-The recommended starting dose is 37 mg of lurasidone once daily. No initial dose titration is required. It is effective in a dose range of 37 to 74 mg once daily. Dose increase should be based on physician
+The recommended starting dose is 37 mg of lurasidone once daily. No initial dose titration is required. It is effective in a dose range of 37 to 74 mg once daily. Dose increase should be based on physician judgement and observed clinical response. The maximum daily dose should not exceed 74 mg. In children, lurasidone should be prescribed by an expert in paediatric psychiatry.
 
 <div style=\"page-break-after: always\"></div>
-
-judgement and observed clinical response. The maximum daily dose should not exceed 74 mg. In children, lurasidone should be prescribed by an expert in paediatric psychiatry.
 
 ## Dose adjustment due to interactions
 
@@ -90,7 +92,7 @@ Due to different pharmacodynamic and pharmacokinetic profiles among antipsychoti
 
 Dosing recommendations for elderly patients with normal renal function (CrCl ≥ 80 ml/min) are the same as for adults with normal renal function. However, because elderly patients may have diminished renal function, dose adjustments may be required according to their renal function status (see 'Renal impairment' below).
 
-Limited data are available in elderly people treated with higher doses of lurasidone. No data are available in elderly people treated with 148 mg of lurasidone. Caution should be exercised when treating patients ≥ 65 years of age with higher doses of lurasidone.
+Limited data are available in elderly people treated with higher doses of lurasidone. No data are available in elderly people treated with 148 mg of lurasidone. Caution should be exercised when treating patients ≥65 years of age with higher doses of lurasidone.
 
 ## Renal impairment
 
@@ -155,11 +157,9 @@ In a meta-analysis of 17 controlled clinical trials, elderly patients with demen
 
 ## Cerebrovascular accident
 
-An approximately 3-fold increased risk of cerebrovascular adverse reactions has been seen in randomised placebo-controlled clinical trials in the dementia population with some atypical antipsychotics, including risperidone, aripiprazole and olanzapine. The mechanism for this increased risk is not known. An increased risk cannot be excluded for other antipsychotics or other patient
+An approximately 3-fold increased risk of cerebrovascular adverse reactions has been seen in randomised placebo-controlled clinical trials in the dementia population with some atypical antipsychotics, including risperidone, aripiprazole and olanzapine. The mechanism for this increased risk is not known. An increased risk cannot be excluded for other antipsychotics or other patient populations. Lurasidone should be used with caution in elderly patients with dementia who have risk factors for stroke.
 
 <div style=\"page-break-after: always\"></div>
-
-populations. Lurasidone should be used with caution in elderly patients with dementia who have risk factors for stroke.
 
 ## Venous thromboembolism
 
@@ -179,7 +179,7 @@ Rare cases of glucose related adverse reactions, e.g. increase in blood glucose,
 
 ## Orthostatic hypotension/syncope
 
-Lurasidone may cause orthostatic hypotension, perhaps due to its α 1-adrenergic receptor antagonism. Monitoring of orthostatic vital signs should be considered in patients who are vulnerable to hypotension.
+Lurasidone may cause orthostatic hypotension, perhaps due to its α1 -adrenergic receptor antagonism. Monitoring of orthostatic vital signs should be considered in patients who are vulnerable to hypotension.
 
 ## Interaction with grapefruit juice
 
@@ -189,9 +189,9 @@ Grapefruit juice should be avoided during treatment with lurasidone (see section
 
 Concomitant administration of Latuda and other serotonergic agents, such as buprenorphine/opioids, MAO inhibitors, selective serotonin re-uptake inhibitors (SSRIs), serotonin norepinephrine re-uptake inhibitors (SNRIs) or tricyclic antidepressants may result in serotonin syndrome, a potentially lifethreatening condition (see section 4.5).
 
-If concomitant treatment with other serotonergic agents is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases.
+If concomitant treatment with other serotonergic agents is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases. neuromuscular abnormalities, and/or gastrointestinal symptoms. If serotonin syndrome is suspected, a
 
-Symptoms of serotonin syndrome may include mental-status changes, autonomic instability, neuromuscular abnormalities, and/or gastrointestinal symptoms. If serotonin syndrome is suspected, a dose reduction or discontinuation of therapy should be considered depending on the severity of the symptoms.
+Symptoms of serotonin syndrome may include mental-status changes, autonomic instability, dose reduction or discontinuation of therapy should be considered depending on the severity of the symptoms.
 
 This medicine contains less than 1 mmol sodium (23 mg) per one tablet, that is to say essentially 'sodium-free'.
 
@@ -233,7 +233,7 @@ Lurasidone is contraindicated with strong CYP3A4 inducers (e.g. carbamazepine, p
 
 Coadministration of lurasidone with the strong CYP3A4 inducer rifampicin resulted in a 6-fold decrease in exposure of lurasidone.
 
-Coadministration of lurasidone with mild (e.g. armodafinil, amprenavir, aprepitant, prednisone, rufinamide) or moderate (e.g. bosentan, efavirenz, etravirine, modafinil, nafcillin) inducers of CYP3A4 would be expected to give a &lt;2-fold reduction in lurasidone exposure during co-administration and for up to 2 weeks after discontinuation of mild or moderate CYP3A4 inducers.
+Coadministration of lurasidone with mild (e.g. armodafinil, amprenavir, aprepitant, prednisone, rufinamide) or moderate (e.g. bosentan, efavirenz, etravirine, modafinil, nafcillin) inducers of CYP3A4 would be expected to give a &lt;2 -fold reduction in lurasidone exposure during co-administration and for up to 2 weeks after discontinuation of mild or moderate CYP3A4 inducers.
 
 When lurasidone is coadministered with mild or moderate CYP3A4 inducers, the efficacy of lurasidone needs to be carefully monitored and a dose adjustment may be needed.
 
@@ -273,7 +273,9 @@ Studies in animals have shown a number of effects on fertility, mainly related t
 
 ## 4.7 Effects on ability to drive and use machines
 
-Lurasidone has minor influence on the ability to drive and use machines. Patients should be cautioned about operating hazardous machines, including motor vehicles and cycles, until they are reasonably certain that lurasidone does not affect them adversely (see section 4.8). Regarding road safety, adolescents who may not be old enough to drive may nevertheless cycle.
+Lurasidone has minor influence on the ability to drive and use machines. Patients should be cautioned about operating hazardous machines, including motor vehicles and cycles, until they are reasonably certain that lurasidone does not affect them adversely (see section 4.8).
+
+Regarding road safety, adolescents who may not be old enough to drive may nevertheless cycle.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -281,11 +283,11 @@ Lurasidone has minor influence on the ability to drive and use machines. Patient
 
 ## Summary of the safety profile
 
-The safety of lurasidone has been evaluated at doses of 18.5 -148 mg in clinical studies in patients with schizophrenia treated for up to 52 weeks and in the post-marketing setting. The most common adverse drug reactions (ADRs) ( ≥ 10%) were akathisia, nausea and insomnia.
+The safety of lurasidone has been evaluated at doses of 18.5 -148 mg in clinical studies in patients with schizophrenia treated for up to 52 weeks and in the post-marketing setting. The most common adverse drug reactions (ADRs) (≥ 10%) were akathisia , nausea and insomnia.
 
 ## Tabulated summary of adverse reactions
 
-Adverse drug reactions (ADRs) based upon pooled data are shown by system, organ class and by preferred term are listed in Table 1 below. The incidence of ADRs reported in clinical trials is tabulated by frequency category. The following terms and frequencies are applied: very common ( ≥ 1/10), common ( ≥ 1/100 to &lt; 1/10), uncommon ( ≥ 1/1,000 to &lt; 1/100), rare ( ≥ 1/10,000 to &lt; 1/1,000), very rare (&lt;1 /10,000) and not known (cannot be estimated from the available data).
+Adverse drug reactions (ADRs) based upon pooled data are shown by system, organ class and by preferred term are listed in Table 1 below. The incidence of ADRs reported in clinical trials is tabulated by frequency category. The following terms and frequencies are applied: very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), uncommon (≥ 1/1,000 to &lt; 1/100), rare (≥ 1/10,000 to &lt; 1/1,000), very rare (&lt;1 /10,000) and not known (cannot be estimated from the available data).
 
 Table 1:  Adverse drug reactions (ADRs) Based Upon Pooled Data for Adults
 
@@ -334,16 +336,16 @@ Table 2:  Adverse Drug Reactions (ADRs) for Adolescents
 
 <div style=\"page-break-after: always\"></div>
 
-| System Organ Class                              | Very Common                    | Common                                                                   | Uncommon                                                                                                                                                                                                   | Rare   | Frequency not known   |
-|-------------------------------------------------|--------------------------------|--------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|-----------------------|
-| Nervous System Disorders                        | Akathisia Headache Somnolence* | Disturbance in attention Dizziness Dyskinesia Dystonia*** Parkinsonism** | Panic Attack Psychomotor hyperactivity Restlessness Sleep disorder Suicidal ideation Terminal insomnia Thinking abnormal Dizziness postural Dysgeusia Hyperkinesia Memory impairment Migraine Paraesthesia |        |                       |
-| Eye Disorders                                   |                                |                                                                          | Accommodation disorder Vision blurred                                                                                                                                                                      |        |                       |
-| Ear and labyrinth disorders                     |                                |                                                                          | Hyperacusis                                                                                                                                                                                                |        |                       |
-| Cardiac disorders                               |                                | Tachycardia                                                              | Palpitations Supraventricular extrasystoles                                                                                                                                                                |        |                       |
-| Vascular disorders                              |                                |                                                                          | Orthostatic hypotension Hypertension                                                                                                                                                                       |        |                       |
-| Respiratory, thoracic and mediastinal disorders |                                |                                                                          | Oropharyngeal pain Dyspnoea                                                                                                                                                                                |        |                       |
-| Gastrointestinal disorders                      | Nausea                         | Constipation Dry mouth Salivary hypersecretion Vomiting                  | Abdominal discomfort Abdominal pain upper Aptyalism Diarrhoea Dyspepsia Lip dry Toothache                                                                                                                  |        |                       |
-| Skin and subcutaneous tissue disorders          |                                | Hyperhidrosis                                                            | Alopecia Hair growth abnormal Rash Urticaria                                                                                                                                                               |        |                       |
+| System Organ Class                              | Very Common                    | Common                                                                   | Uncommon                                                                                                                                                                                                                | Rare   | Frequency not known   |
+|-------------------------------------------------|--------------------------------|--------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|-----------------------|
+| Nervous System Disorders                        | Akathisia Headache Somnolence* | Disturbance in attention Dizziness Dyskinesia Dystonia*** Parkinsonism** | Psychomotor hyperactivity Restlessness Sleep disorder Suicidal ideation Terminal insomnia Thinking abnormal Dizziness postural Dysgeusia Hyperkinesia Memory impairment Migraine Paraesthesia Psychomotor hyperactivity |        |                       |
+| Eye Disorders                                   |                                |                                                                          | Tension headache Accommodation disorder Vision blurred                                                                                                                                                                  |        |                       |
+| Ear and labyrinth disorders                     |                                |                                                                          | Hyperacusis                                                                                                                                                                                                             |        |                       |
+| Cardiac disorders                               |                                | Tachycardia                                                              | Palpitations Supraventricular extrasystoles                                                                                                                                                                             |        |                       |
+| Vascular disorders                              |                                |                                                                          | Orthostatic hypotension Hypertension                                                                                                                                                                                    |        |                       |
+| Respiratory, thoracic and mediastinal disorders |                                |                                                                          | Oropharyngeal pain Dyspnoea                                                                                                                                                                                             |        |                       |
+| Gastrointestinal disorders                      | Nausea                         | Constipation Dry mouth Salivary hypersecretion Vomiting                  | Abdominal discomfort Abdominal pain upper Aptyalism Diarrhoea Dyspepsia Lip dry Toothache                                                                                                                               |        |                       |
+| Skin and subcutaneous tissue disorders          |                                | Hyperhidrosis                                                            | Alopecia Hair growth abnormal Rash Urticaria                                                                                                                                                                            |        |                       |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -362,9 +364,7 @@ Table 2:  Adverse Drug Reactions (ADRs) for Adolescents
 | Investigations                                 |               | Blood creatine phosphokinase increased C-reactive protein increased Weight decreased Weight increased | Alanine aminotransferase increased Anti-thyroid antibody positive Aspartate aminotransferase increased Blood alkaline phosphatase decreased Blood alkaline phosphokinase increased Blood cholesterol increased Blood glucose increased Blood insulin increased Blood testosterone decreased Blood thyroid stimulating hormone increased Blood triglycerides increased Electrocardiogram PR shortened Haemoglobin decreased High density lipoprotein decreased Low density lipoprotein decreased |        |                       |
 | Injury, poisoning and procedural complications |               |                                                                                                       | Intentional overdose                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |        |                       |
 
-*Somnolence includes the following adverse reactions observed in adolescents: hypersomnia, sedation, and somnolence.
-
-**Parkinsonism includes the following adverse reactions observed in adolescents: cogwheel rigidity, extrapyramidal disorder, hypokinesia, parkinsonism, and tremor.
+*Somnolence includes the following adverse reactions observed in adolescents: hypersomnia, sedation, and somnolence. **Parkinsonism includes the following adverse reactions observed in adolescents: cogwheel rigidity, extrapyramidal disorder, hypokinesia, parkinsonism, and tremor.
 
 *** Dystonia includes the following adverse reactions observed in adolescents: dystonia, oculogyric crisis and torticollis.
 
@@ -374,11 +374,9 @@ Post marketing reports of clinically serious cases of skin and other hypersensit
 
 ## Events of interest to the class
 
-Extrapyramidal symptoms (EPS): In the adult short-term placebo-controlled studies, the incidence of reported events related to EPS, excluding akathisia and restlessness, was 13.5% for lurasidone-treated
+Extrapyramidal symptoms (EPS): In the adult short-term placebo-controlled studies, the incidence of reported events related to EPS, excluding akathisia and restlessness, was 13.5% for lurasidone -treated subjects versus 5.8% for placebo -treated subjects. The incidence of akathisia for lurasidone-treated subjects was 12.9% versus 3.0% for placebo -treated subjects. In the adolescent short-term placebocontrolled study, the incidence of reported events relate d to EPS, excluding akathisia, was 5.1% for lurasidonetreated subjects versus 1.8% for placebo -treated subjects. The incidence of akathisia for lurasidonetreated subjects was 8.9% versus 1.8% for placebo -treated subjects.
 
 <div style=\"page-break-after: always\"></div>
-
-subjects versus 5.8% for placebo-treated subjects. The incidence of akathisia for lurasidone-treated subjects was 12.9% versus 3.0% for placebo-treated subjects. In the adolescent short-term placebocontrolled study, the incidence of reported events related to EPS, excluding akathisia, was 5.1% for lurasidone-treated subjects versus 1.8% for placebo-treated subjects. The incidence of akathisia for lurasidone-treated subjects was 8.9% versus 1.8% for placebo-treated subjects.
 
 Dystonia: Symptoms of dystonia, prolonged abnormal contractions of muscle groups, may occur in susceptible individuals during the first few days of treatment. Dystonic symptoms include: spasm of the neck muscles, sometimes progressing to tightness of the throat, difficulty swallowing, difficulty breathing, and/or protrusion of the tongue. While these symptoms can occur at low doses, they occur more frequently and with greater severity, higher potency and at higher doses of first generation antipsychotic medicinal products. An elevated risk of acute dystonia is observed in males and younger age groups.
 
@@ -410,11 +408,9 @@ Pharmacotherapeutic group: Psycholeptics, antipsychotics. ATC code: N05AE05
 
 ## Mechanism of action
 
-Lurasidone is a selective blocking agent of dopamine and monoamine effects. Lurasidone binds strongly to dopaminergic D2- and to serotonergic 5-HT2A and 5-HT7- receptors with high binding
+Lurasidone is a selective blocking agent of dopamine and monoamine effects. Lurasidone binds strongly to dopaminergic D2- and to serotonergic 5-HT2A and 5-HT7- receptors with high binding affinity of 0.994, 0.47 and 0.495 nM, respectively. It also blocks α2c -adrenergic receptors and α2a -adrenergic receptors with a binding affinity of 10.8 and 40.7 nM respectively. Lurasidone also exhibits partial agonism at the 5HT-1A receptor with a binding affinity of 6.38 nM. Lurasidone does not bind to histaminergic or muscarinic receptors.
 
 <div style=\"page-break-after: always\"></div>
-
-affinity of 0.994, 0.47 and 0.495 nM, respectively. It also blocks α 2c-adrenergic receptors and α 2a-adrenergic receptors with a binding affinity of 10.8 and 40.7 nM respectively. Lurasidone also exhibits partial agonism at the 5HT-1A receptor with a binding affinity of 6.38 nM. Lurasidone does not bind to histaminergic or muscarinic receptors.
 
 The mechanism of action of the minor active metabolite of lurasidone ID-14283 is similar to that of lurasidone.
 
@@ -432,24 +428,23 @@ The efficacy of lurasidone in the treatment of schizophrenia was demonstrated in
 
 Table 3: Schizophrenia Adult Studies: Positive and Negative Syndrome Scale for Schizophrenia (PANSS) Total Score - Change from Baseline to Week 6- MMRM for Studies D1050229, D1050231, and D1050233: Intent-to-Treat Analysis Set
 
-| Study Statistic                                          | Placebo                       | Lurasidone dose (b)           | Lurasidone dose (b)           | Lurasidone dose (b)           | Lurasidone dose (b)     | Active Control                |
-|----------------------------------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------|-------------------------------|
-|                                                          |                               | 37 mg                         | 74 mg                         | 111 mg                        | 148 mg                  | (a)                           |
-| Study D1050229 Baseline Mean (SD) LS Mean Change (SE)    | N=124 96.8 (11.1) -17.0 (1.8) | N=121 96.5 (11.6) -19.2 (1.7) | N=118 96.0 (10.8) -23.4 (1.8) | N=123 96.0 (9.7) -20.5 (1.8)  | -- -- --                | -- -- --                      |
-| Treatment Difference vs. placebo                         |                               |                               |                               |                               |                         |                               |
-| Estimate (SE)                                            | -- --                         | -2.1 (2.5) 0.591              | -6.4 (2.5) 0.034              | -3.5 (2.5) 0.391              | -- --                   | -- --                         |
-| p-value Study D1050231 Baseline Mean (SD) LS Mean Change | N=114 95.8 (10.8) -16.0 (2.1) | N=118 96.6 (10.7) -25.7       | -- -- --                      | N=118 97.9 (11.3) -23.6 (2.1) | -- -- --                | N=121 96.3 (12.2) -28.7 (1.9) |
-| (SE) Treatment Difference vs. placebo                    |                               | (2.0)                         |                               |                               |                         |                               |
-| Estimate (SE) p-value                                    | -- --                         | -9.7 (2.9) 0.002              | -- --                         | -7.5 (3.0) 0.022              | -- --                   | -12.6 (2.8) <0.001            |
-| Study D1050233 Baseline Mean (SD)                        | N=120 96.6 (10.2)             | -- --                         | N=125 97.7 (9.7) -22.2 (1.8)  | -- -- --                      | N=121 97.9 (11.8) -26.5 | N=116 97.7 (10.2) -27.8 (1.8) |
-| LS Mean Change (SE) Treatment Difference                 | -10.3 (1.8)                   | --                            |                               |                               | (1.8)                   |                               |
-| vs. placebo                                              |                               |                               |                               |                               |                         |                               |
-| Estimate                                                 | --                            | --                            | -11.9                         |                               | -16.2                   |                               |
-| p-value                                                  |                               |                               |                               |                               |                         |                               |
-| (SE)                                                     |                               |                               | (2.6)                         | --                            | (2.5)                   | -17.5 (2.6)                   |
-|                                                          | --                            | --                            | <0.001                        | --                            | <0.001                  | <0.001                        |
+| Study Statistic                                          | Placebo                        | Lurasidone dose (b)           | Lurasidone dose (b)           | Lurasidone dose (b)           | Lurasidone dose (b)           | Active Control                |
+|----------------------------------------------------------|--------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|
+|                                                          |                                | 37 mg                         | 74 mg                         | 111 mg                        | 148 mg                        | (a)                           |
+| Study D1050229 Baseline Mean (SD) LS Mean Change (SE)    | N=124 96.8 (11.1) - 17.0 (1.8) | N=121 96.5 (11.6) -19.2 (1.7) | N=118 96.0 (10.8) -23.4 (1.8) | N=123 96.0 (9.7) - 20.5 (1.8) | -- -- --                      | -- -- --                      |
+| Treatment Difference vs. placebo                         |                                |                               |                               |                               |                               |                               |
+| Estimate (SE)                                            | -- --                          | -2.1 (2.5) 0.591              | -6.4 (2.5) 0.034              | -3.5 (2.5) 0.391              | -- --                         | -- --                         |
+| p-value Study D1050231 Baseline Mean (SD) LS Mean Change | N=114 95.8 (10.8) - 16.0 (2.1) | N=118 96.6 (10.7) -25.7 (2.0) | -- -- --                      | N=118 97.9 (11.3) -23.6 (2.1) | -- -- --                      | N=121 96.3 (12.2) -28.7 (1.9) |
+| (SE) Treatment Difference vs. placebo                    |                                |                               |                               |                               |                               |                               |
+| Estimate (SE) p-value                                    | -- --                          | -9.7 (2.9) 0.002              | -- --                         | - 7.5 (3.0) 0.022             | -- --                         | -12.6 (2.8) <0.001            |
+| Study D1050233 Baseline Mean (SD) LS Mean Change         | N=120 96.6 (10.2) - 10.3       | -- -- --                      | N=125 97.7 (9.7) -22.2 (1.8)  | -- -- --                      | N=121 97.9 (11.8) -26.5 (1.8) | N=116 97.7 (10.2) -27.8 (1.8) |
+| (SE) Treatment Difference vs. placebo                    | (1.8)                          | --                            | -11.9 (2.6)                   | --                            |                               |                               |
+| Estimate                                                 | --                             |                               |                               |                               | -16.2                         | -17.5 (2.6)                   |
+| p-value                                                  | --                             | --                            |                               |                               | (2.5)                         |                               |
+| (SE)                                                     |                                |                               |                               |                               |                               |                               |
+|                                                          |                                |                               | <0.001                        | --                            | <0.001                        | <0.001                        |
 
-(a) Olanzapine 15 mg in Study D1050231, quetiapine extended-release (XR) 600 mg in Study D1050233.
+(a) Olanzapine 15 mg in Study D1050231, quetiapine extended -release (XR) 600 mg in Study D1050233.
 
 N is number of subjects per model estimate.
 
@@ -457,15 +452,13 @@ N is number of subjects per model estimate.
 
 In the short-term studies there was no consistent dose-response correlation observed.
 
-Long-term maintenance efficacy of lurasidone (37 to 148 mg lurasidone once daily) was demonstrated in a 12 month non-inferiority trial with quetiapine extended release (200 to 800 mg once daily). Lurasidone was non-inferior to quetiapine extended release in time to relapse of schizophrenia. Lurasidone had a small increase from baseline to Month 12 in body weight and body mass index (Mean (SD): 0.73 (3.36) kg and 0.28 (1.17) kg/m2, respectively) compared to quetiapine extended release (1.23 (4.56) kg and 0.45 (1.63) kg/m2, respectively). Overall, lurasidone had a negligible effect on weight and other metabolic parameters including total cholesterol, triglycerides, and glucose levels.
+Long-term maintenance efficacy of lurasidone (37 to 148 mg lurasidone once daily) was demonstrated in a 12 month noninferiority trial with quetiapine extended release (200 to 800 mg once daily). Lurasidone was non-inferior to quetiapine extended release in time to relapse of schizophrenia. Lurasidone had a small increase from baseline to Month 12 in body weight and body mass index (Mean (SD): 0.73 (3.36) kg and 0.28 (1.17) kg/m2, respectively) compared to quetiapine extended release (1.23 (4.56) kg and 0.4 5 (1.63) kg/m2, respectively). Overall, lurasidone had a negligible effect on weight and other metabolic parameters including total cholesterol, triglycerides, and glucose levels.
 
 In a long-term safety study clinically stable patients were treated using 37 - 111 mg lurasidone or risperidone 2 - 6 mg. In that study the rate of relapse over a 12-month period was 20% for lurasidone and 16% for risperidone. This difference neared, but did not reach, statistical significance.
 
-In a long-term trial designed to assess the maintenance of effect, lurasidone was more effective than placebo in maintaining symptom control and delaying relapse of schizophrenia. After having been treated for an acute episode and stabilized for a minimum of 12 weeks with lurasidone, patients were then randomised in a double-blind manner to either continue on lurasidone or on placebo until they
+In a long-term trial designed to assess the maintenance of effect, lurasidone was more effective than placebo in maintaining symptom control and delaying relapse of schizophrenia. After having been treated for an acute episode and stabilized for a minimum of 12 weeks with lurasidone, patients were then randomised in a double-blind manner to either continue on lurasidone or on placebo until they experienced a relapse in schizophrenia symptoms. In the primary analysis of time to relapse in which patients that withdrew without relapse were censored at the time of withdrawal, patients on lurasidone showed a significantly longer time to relapse compar ed with patients on placebo (p=0.039). The KaplanMeier estimates of the probability of relapse at Week 28 were 42.2% for lurasidone and 51.2% for placebo. The probability of allcause discontinuation at Week 28 were 58.2% for lurasidone and 69.9% for placebo (p=0.072).
 
 <div style=\"page-break-after: always\"></div>
-
-experienced a relapse in schizophrenia symptoms. In the primary analysis of time to relapse in which patients that withdrew without relapse were censored at the time of withdrawal, patients on lurasidone showed a significantly longer time to relapse compared with patients on placebo (p=0.039). The Kaplan-Meier estimates of the probability of relapse at Week 28 were 42.2% for lurasidone and 51.2% for placebo. The probability of all-cause discontinuation at Week 28 were 58.2% for lurasidone and 69.9% for placebo (p=0.072).
 
 ## Paediatric population
 
@@ -481,51 +474,51 @@ The primary efficacy results are provided in Table 4.
 
 Table 4 Primary Efficacy Results (PANSS Total Score) - Change From Baseline to Week 6- MMRM for the Adolescent Schizophrenia Study D1050301: Intent-to-Treat Analysis Set
 
-| Study Statistic                  | Placebo      | Lurasidone dose (a)   | Lurasidone dose (a)   |
-|----------------------------------|--------------|-----------------------|-----------------------|
-|                                  |              | 37 mg                 | 74 mg                 |
-| Study D1050301                   | N=112        | N=108                 | N=106                 |
-| Baseline Mean (SD)               | 92.8 (11.08) | 94.5 (10.97)          | 94.0 (11.12)          |
-| LS Mean Change (SE)              | -10.5 (1.59) | -18.6 (1.59)          | -18.3 (1.60)          |
-| Treatment Difference vs. placebo |              |                       |                       |
-| Estimate (SE)                    | --           | -8.0 (2.21)           | -7.7 (2.22)           |
-| p-value                          | --           | 0.0006                | 0.0008                |
+| Study Statistic                  | Placebo       | Lurasidone dose (a)   | Lurasidone dose (a)   |
+|----------------------------------|---------------|-----------------------|-----------------------|
+|                                  |               | 37 mg                 | 74 mg                 |
+| Study D1050301                   | N=112         | N=108                 | N=106                 |
+| Baseline Mean (SD)               | 92.8 (11.08)  | 94.5 (10.97)          | 94.0 (11.12)          |
+| LS Mean Change (SE)              | - 10.5 (1.59) | -18.6 (1.59)          | - 18.3 (1.60)         |
+| Treatment Difference vs. placebo |               |                       |                       |
+| Estimate (SE)                    | --            | - 8.0 (2.21)          | -7.7 (2.22)           |
+| p-value                          | --            | 0.0006                | 0.0008                |
 
 N is number of subjects per model estimate.
 
 (a) p-values for lurasidone vs. placebo were adjusted for multiple comparisons.
 
-The improvements in the CGI-S scores at Week 6 were significantly different from placebo for both the lurasidone 74 mg/day (-0.42 ± 0.130, adjusted p = 0.0015) and lurasidone 37 mg/day (-0.47 ± 0.130, adjusted p = 0.0008) treatment groups.
+The improvements in the CGI-S scores at Week 6 were significantly different from placebo for both the lurasidone 74 mg/day (0.42 ± 0.130, adjusted p = 0.0015) and lurasidone 37 mg/day (0.47 ± 0.130, adjusted p = 0.0008) treatment groups .
 
-A 104-week extension study (Study D1050302) was designed to evaluate the long-term safety, tolerability, and effectiveness of flexibly dosed lurasidone (18.5, 37, 55.5, or 74 mg/day) in paediatric subjects who completed a 6-week treatment period in three preceding studies of various indications. Only results for 271 subjects with schizophrenia who enrolled from Study D1050301 are hereinafter presented. Of these, 186 subjects (68.6%) completed through 52 weeks and 156 (57.6%) subjects completed 104 weeks of flexible dosing with lurasidone 18.5 to 74 mg/day.
+A 104 -week extension study (Study D1050302) was designed to evaluate the long-term safety, tolerability, and effectiveness of flexibly dosed lurasidone (18.5, 37, 55.5, or 74 mg/day) in paediatric subjects who completed a 6-week treatment period in three preceding studies of various indications. Only results for 271 subjects with schizophrenia who enrolled from Study D1050301 are hereinafter presented. Of these, 186 subjects (68.6%) completed through 52 weeks and 156 (57.6%) subjects completed 104 weeks of flexible dosing with lurasidone 18.5 to 74 mg/day.
 
-For subjects who continued from D1050301, the mean (95% CI) in PANSS total score from DB Baseline was -26.5 (-28.5, -24.5) at Week 28 LOCF, -28.2 (-30.2, -26.2) at Week 52 LOCF, and -29.5 (-31.8, -27.3) at Week 104 LOCF/post-OL Endpoint, and mean change (95% CI) from OL Baseline was -9.2 (-11.1, -7.2) at Week 28 LOCF, -10.8 (-13.0, -8.7) at Week 52 LOCF, and -12.2 (-14.5, -9.8) at Week 104 LOCF/post-OL Endpoint.
+For subjects who continued from D1050301, the mean (95% CI) in PANSS total score from DB Baseline was -26.5 (-28.5, -24.5) at Week 28 LOCF, -28.2 (30.2, -26.2) at Week 52 LOCF, and -29.5 (-31.8, 27.3) at Week 104 LOCF/post -OL Endpoint, and mean change (95% CI) from OL Baseline was -9.2 (-11.1, -7.2) at Week 28 LOCF, 10.8 ( -13.0, -8.7) at Week 52 LOCF, and -12.2 (-14.5, -9.8) at Week 104 LOCF/post -OL Endpoint.
 
 <div style=\"page-break-after: always\"></div>
 
 ## Bipolar Depression
 
-The short-term efficacy of lurasidone was studied in a 6-week multicentre, randomized, double-blind, placebo-controlled, study of children and adolescent patients (10-17 years of age) who met Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition (DSM-V) criteria for a major depressive episode associated with bipolar I disorder, with or without rapid cycling, and without psychotic features (N=350). Patients were randomized to flexibly dosed lurasidone 18-74 mg once daily or placebo.
+The short-term efficacy of lurasidone was studied in a 6-week multicentre, randomized, double-blind, placebocontrolled, study of children and adolescent patients (10 -17 years of age) who met Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition (DSM-V) criteria for a major depressive episode associated with bipolar I disorder, with or without rapid cycling, and without psychotic features (N=350). Patients were randomized to flexibly dosed lurasidone 18 -74 mg once daily or placebo.
 
-The primary efficacy endpoint was defined as the mean change from baseline to Week 6 in Children's Depression Rating Scale, Revised (CDRS-R) Total Score. The key secondary endpoint was Clinical Global Impression - Bipolar Version, Severity of Illness (CGI-BP-S) Depression Score. Statistically significant differences favouring lurasidone over placebo were shown for these endpoints for the total population studied, beginning at Week 2 and were maintained at each study visit through to the end of the study.  However, the primary and key secondary efficacy endpoints were not met in younger patients (below 15 years of age). Placebo-adjusted LS mean change (95% CI) from Baseline to Week 6 LOCF in CDRS-R total score for the lurasidone group was -1.8 (-5.6, 2.0) for subjects in the 10- to 14-year-old age patients and was -8.6 (-12.4, -4.8) for subjects in the 15- to 17-year-old age patients (Table 5).
+The primary efficacy endpoint was defined as the mean change from baseline to Week 6 in Children's Depression Rating Scale, Revised (CDRS-R) Total Score. The key secondary endpoint was Clinical Global Impression - Bipolar Version, Severity of Illness (CGI-BP-S) Depression Score. Statistically significant differences favouring lurasidone over placebo were shown for these endpoints for the total population studied, beginning at Week 2 and were maintained at each study visit through to the end of the study.  However, the primary and key secondary efficacy endpoints were not met in younger patients (below 15 years of age). Placeboadjusted LS mean change (95% CI) from Baseline to Week 6 LOCF in CDRS-R total score for the lurasidone group was -1.8 (5.6, 2.0) for subjects in the 10 - to 14-year-old age patients and was -8.6 (-12.4, -4.8) for subjects in the 15- to 17-year-old age patients (Table 5).
 
 The safety profile of lurasidone in children included in this short-term study is in general consistent with that observed when treated within the approved indication in adults, however, differences in frequency of the most commonly occurred adverse reactions have been observed in paediatric patients for nausea (very common), diarrhea (common) and decreased appetite (common), compared with adults (common, unknown, and uncommon, respectively).
 
 Table 5 Bipolar Depression Paediatric Study: Children's Depression Rating Scale, Revised (CDRS-R) Total Score and Clinical Global Impression-Bipolar Version, Severity of Illness (CGI-BP-S) Depression Score (Depression) - Change From Baseline to Week 6 - MMRM for Study D1050326: Intent-to-Treat Analysis Set
 
-| Parameters                                        | Study Statistic                                                                               | Placebo       | Lurasidone dose 18.5-74 mg (a) (b)   |
-|---------------------------------------------------|-----------------------------------------------------------------------------------------------|---------------|--------------------------------------|
-| Primary Endpoint: CDRS-R Total Score              | Baseline Mean (SD) LS Mean Change (SE) Treatment Difference vs. placebo Estimate (SE; 95% CI) | N=170         | N=173 59.2 (8.24) -21.0 (1.06)       |
-| Primary Endpoint: CDRS-R Total Score              |                                                                                               | 58.6 (8.26)   |                                      |
-| Primary Endpoint: CDRS-R Total Score              |                                                                                               | -15.3 (1.08)  |                                      |
-| Primary Endpoint: CDRS-R Total Score              |                                                                                               | --            | -5.7 (1.39; -8.4 to -3.0)            |
-| Primary Endpoint: CDRS-R Total Score              | p-value                                                                                       | --            | <0.0001                              |
-| Key Secondary Endpoint: CGI-BP-S Depression Score |                                                                                               | N=170         | N=173                                |
-| Key Secondary Endpoint: CGI-BP-S Depression Score | Baseline Mean (SD)                                                                            | 4.5           | 4.6                                  |
-| Key Secondary Endpoint: CGI-BP-S Depression Score | LS Mean Change (SE)                                                                           | -1.05 (0.087) | -1.49 (0.085)                        |
-| Key Secondary Endpoint: CGI-BP-S Depression Score | Treatment Difference vs. placebo                                                              |               |                                      |
-| Key Secondary Endpoint: CGI-BP-S Depression Score | Estimate (SE; 95% CI)                                                                         | --            | -0.44 (0.112; -0.66 to -0.22)        |
-| Key Secondary Endpoint: CGI-BP-S Depression Score | p-value                                                                                       | --            | <0.0001                              |
+| Parameters                                        | Study Statistic                                        | Placebo        | Lurasidone dose 18.5-74 mg (a) (b)   |
+|---------------------------------------------------|--------------------------------------------------------|----------------|--------------------------------------|
+| Primary Endpoint: CDRS-R Total Score              |                                                        | N=170          | N=173                                |
+| Primary Endpoint: CDRS-R Total Score              | Baseline Mean (SD)                                     | 58.6 (8.26)    | 59.2 (8.24)                          |
+| Primary Endpoint: CDRS-R Total Score              | LS Mean Change (SE)                                    | - 15.3 (1.08)  | - 21.0 (1.06)                        |
+| Primary Endpoint: CDRS-R Total Score              | Treatment Difference vs. placebo Estimate (SE; 95% CI) | --             | -5.7 (1.39; -8.4 to - 3.0)           |
+| Primary Endpoint: CDRS-R Total Score              | p-value                                                | --             | <0.0001                              |
+| Key Secondary Endpoint: CGI-BP-S Depression Score |                                                        | N=170          | N=173                                |
+| Key Secondary Endpoint: CGI-BP-S Depression Score | Baseline Mean (SD)                                     | 4.5            | 4.6                                  |
+| Key Secondary Endpoint: CGI-BP-S Depression Score | LS Mean Change (SE)                                    | - 1.05 (0.087) | - 1.49 (0.085)                       |
+| Key Secondary Endpoint: CGI-BP-S Depression Score | Treatment Difference vs. placebo                       |                |                                      |
+| Key Secondary Endpoint: CGI-BP-S Depression Score | Estimate (SE; 95% CI)                                  | --             | - 0.44 (0.112; - 0.66 to - 0.22)     |
+| Key Secondary Endpoint: CGI-BP-S Depression Score | p-value                                                | --             | <0.0001                              |
 
 N is number of subjects.
 
@@ -551,13 +544,13 @@ Following administration of 37 mg of lurasidone, the mean approximate apparent v
 
 Lurasidone is metabolised mainly via CYP3A4. The major biotransformation pathways are oxidative N-dealkylation, hydroxylation of norbornane ring, and S-oxidation.
 
-Lurasidone is metabolised into two active metabolites (ID-14283 and ID-14326) and two non-active metabolites (ID-20219 and ID-20220). Lurasidone and its metabolites ID-14283, ID-14326, ID-20219 and ID-20220 correspond to approximately 11.4, 4.1, 0.4, 24 and 11% respectively, of serum radioactivity respectively.
+Lurasidone is metabolised into two active metabolites (ID-14283 and ID-14326) and two non-active metabolites (ID20219 and ID -20220). Lurasidone and its metabolites ID -14283, ID-14326, ID20219 and ID20220 correspond to approximately 11.4, 4.1, 0.4, 24 and 11% respectively, of serum radioactivity respectively.
 
 CYP3A4 is the major enzyme responsible for metabolism of the active metabolite ID-14283. Lurasidone and its active metabolite ID-14283 both contribute to the pharmacodynamic effect at the dopaminergic and serotonergic receptors.
 
 Based on in vitro studies lurasidone is not a substrate of CYP1A1, CYP1A2, CYP2A6, CYP4A11, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6 or CYP2E1 enzymes.
 
-In vitro , lurasidone demonstrated no direct, or weak inhibition (direct or time-dependent) (IC50&gt;5.9 μ M) of the enzymes cytochrome P450 (CYP)1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, CYP2E1, and CYP3A4. Based on this data, lurasidone is not expected to affect the pharmacokinetics of medicinal products that are substrates of CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, and CYP2E1. For administration of medicinal products that are substrates of CYP3A4 with a narrow therapeutic range, see section 4.5.
+In vitro , lurasidone demonstrated no direct, or weak inhibition (direct or timedependent) (IC50&gt;5.9 μM) of the enzymes cytochrome P450 (CYP)1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, CYP2E1, and CYP3A4. Based on this data, lurasidone is not expected to affect the pharmacokinetics of medicinal products that are substrates of CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, and CYP2E1. For administration of medicinal products that are substrates of CYP3A4 with a narrow therapeutic range, see section 4.5.
 
 Lurasidone is an in vitro substrate of the efflux transporters P-gp and BCRP. Lurasidone is not subject to active uptake transport by OATP1B1 or OATP1B3.
 
@@ -565,7 +558,7 @@ Lurasidone is an inhibitor of P-gp, BCRP and OCT1 in vitro (see section 4.5). Lu
 
 ## Elimination
 
-Following administration of lurasidone, the elimination half-life was 20-40 hours. Following oral administration of a radiolabelled dose, approximately 67% dose was recovered in faeces and 19% in urine. Urine comprised mostly of a number of metabolites with minimal renal excretion of parent compound.
+Following administration of lurasidone, the elimination halflife was 20 -40 hours. Following oral administration of a radiolabelled dose, approximately 67% dose was recovered in faeces and 19% in urine. Urine comprised mostly of a number of metabolites with minimal renal excretion of parent compound.
 
 ## Linearity/non-linearity
 
@@ -585,7 +578,7 @@ The serum concentrations of lurasidone are increased in healthy subjects with Ch
 
 ## Renal impairment
 
-The serum concentrations of lurasidone are increased in healthy subjects with mild, moderate and severe renal impairment with an increased exposure of 1.5, 1.9 and 2.0-fold respectively. Subjects with ESRD (CrCl&lt;15 ml/min) have not been investigated.
+The serum concentrations of lurasidone are increased in healthy subjects with mild, moderate and severe renal impairment with an increased exposure of 1.5, 1.9 and 2.0 -fold respectively. Subjects with ESRD (CrCl&lt;15 ml/min) have not been investigated.
 
 ## Gender
 
@@ -601,7 +594,7 @@ Based on in vitro studies utilising human liver enzymes, lurasidone is not a sub
 
 ## Paediatric population
 
-The pharmacokinetics of lurasidone in paediatric patients was evaluated in 47 children aged 6-12 years and 234 adolescents aged 13-17 years. Lurasidone was administered as lurasidone hydrochloride at daily doses of either 20, 40, 80, 120 mg (6-17 years) or 160 mg (10-17 years only) for up to 42 days. There was no clear correlation between obtained serum exposure and age or body weight. The pharmacokinetics of lurasidone in paediatric patients aged 6-17 years was generally comparable to those observed in adults.
+The pharmacokinetics of lurasidone in paediatric patients was evaluated in 47 children aged 6-12 years and 234 adolescents aged 13-17 years. Lurasidone was administered as lurasidone hydrochloride at daily doses of either 20, 40, 80, 120 mg (6-17 years) or 160 mg (10 -17 years only) for up to 42 days. There was no clear correlation between obtained serum exposure and age or body weight. The pharmacokinetics of lurasidone in paediatric patients aged 6-17 years was generally comparable to those observed in adults.
 
 ## 5.3 Preclinical safety data
 
@@ -609,13 +602,13 @@ Nonclinical data reveal no special hazard for humans based on conventional studi
 
 In rats, lurasidone had no effect on male and female reproduction at oral doses of 150 and 0.1 mg/kg/day lurasidone hydrochloride, respectively, or on early embryonic development at an oral dose of 15 mg/kg/day lurasidone hydrochloride.
 
-A fertility study in female rats resulted in prolonged oestrous cycle and delayed copulation at ≥ 1.5 mg/kg/day lurasidone hydrochloride, whilst the copulation and fertility indices, and the numbers of corpora lutea, implantations and live foetuses were decreased at 150 mg/kg/day lurasidone hydrochloride. These effects were due to the hyperprolactinemia following lurasidone treatment, affecting the oestrous cycle and copulatory behaviour as well as the maintenance of corpus luteum of the female rats, resulting in a decrease in implantation and the number of live foetuses. These prolactin-related effects are not considered to be relevant to human reproduction.
+A fertility study in female rats resulted in prolonged oestrous cycle and delayed copulation at ≥1.5 mg/kg/day lurasidone hydrochloride, whilst the copulation and fertility indices, and the numbers of corpora lutea, implantations and live foetuses were dec reased at 150 mg/kg/day lurasidone hydrochloride. These effects were due to the hyperprolactinemia following lurasidone treatment, affecting the oestrous cycle and copulatory behaviour as well as the maintenance of corpus luteum of the female rats, resulting in a decrease in implantation and the number of live foetuses. These prolactin-related effects are not considered to be relevant to human reproduction.
 
 A single dose of 10 mg/kg lurasidone hydrochloride to pregnant rats resulted in fetal exposure. In a dose range finding study in pregnant rats, 150 mg/kg/day lurasidone hydrochloride caused fetal growth retardation without signs of teratogenicity. Lurasidone was not teratogenic in rats or rabbits at an exposure similar to or below the maximum recommended human dose (148 mg lurasidone).
 
 <div style=\"page-break-after: always\"></div>
 
-In the definitive juvenile rat toxicity study, no increased sensitivity of juvenile animals to lurasidonerelated effects on body weight, food consumption, and clinical observations were apparent, but similar effects as in adult rat were noted (delays in growth and development and hyperprolactinaemia). Hyperactivity that was evident at ≥ 3 mg/kg/day during the post-treatment period has also been reported for other D2 receptor antagonists. Slightly lower birth weights and body weights/body weight gains during the postnatal period were noted in the offspring of juvenile rats previously treated with ≥ 30 mg/kg/day. At the NOAEL of 3 mg/kg/day, the exposures of lurasidone and most metabolites were lower than that achieved at the recommended clinical dose in adolescents aged 13 years or above.
+In the definitive juvenile rat toxicity study, no increased sensitivity of juvenile animals to lurasidonerelated effects on body weight, food consumption, and clinical observations were apparent, but similar effects as in adult rat were noted (delays in growth and development and hyperprolactinaemia). Hyperactivity that was evident at ≥3 mg/kg/day during the post -treatment period has also been reported for other D2 receptor antagonists. Slightly lower birth weights and body weights/body weight gains during the postnatal period were noted in the offspring of juvenile rats previously treated with ≥30 mg/kg/day. At the NOAEL of 3 mg/kg/day, the exposures of lurasidone and most metabolites were lower than that achieved at the recommended clinical dose in adolescents aged 13 years or above.
 
 Lurasidone was excreted in milk of rats during lactation.
 
@@ -625,9 +618,9 @@ Lurasidone was not genotoxic in a battery of tests. Mammary gland and/or pituita
 
 ## 6.1 List of excipients
 
-## Latuda 18.5 mg film-coated tablets
+Latuda 18.5 mg film-coated tablets Core Mannitol (E 421) Starch, pregelatinised Croscarmellose sodium (E468) Hypromellose 2910 (E 464)
 
-Core Mannitol (E 421) Starch, pregelatinised Croscarmellose sodium (E468) Hypromellose 2910 (E 464) Magnesium stearate (E 470b)
+Magnesium stearate (E 470b)
 
 Tablet coating Hypromellose 2910 (E 464) Titanium dioxide (E 171) Macrogol 8000 Carnauba wax (E 903)
 
@@ -643,7 +636,9 @@ Core Mannitol (E 421) Starch, pregelatinised Croscarmellose sodium (E468) Hyprom
 
 <div style=\"page-break-after: always\"></div>
 
-Tablet coating Hypromellose 2910 (E 464) Titanium dioxide (E 171) Macrogol 8000 Iron oxide, Yellow (E 172) Indigotine (E 132) Carnauba wax (E 903)
+Tablet coating Hypromellose 2910 (E 464) Titanium dioxide (E 171) Macrogol 8000 Iron oxide, Yellow (E 172) Indigotine (E 132)
+
+Carnauba wax (E 903)
 
 ## 6.2 Incompatibilities
 
@@ -669,23 +664,15 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Aziende Chimiche Riunite Angelini Francesco - A.C.R.A.F. S.p.A.
-
-Viale Amelia 70, 00181
-
-Rome - Italy
+Angelini Pharma S.p.A. Viale Amelia 70, 00181 Rome - Italy
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-Latuda 18.5 mg film-coated tablet EU/1/14/913/001-007
+Latuda 18.5 mg film-coated tablet EU/1/14/913/001 -007
 
-Latuda 37 mg film-coated tablet
+Latuda 37 mg film-coated tablet EU/1/14/913/008 -014
 
-EU/1/14/913/008-014
-
-Latuda 74 mg film-coated tablet
-
-EU/1/14/913/015-021
+Latuda 74 mg film-coated tablet EU/1/14/913/015 -021
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -714,7 +701,11 @@ Detailed information on this medicinal product is available on the website of th
 
 Name and address of the manufacturer(s) responsible for batch release
 
-Aziende Chimiche Riunite Angelini Francesco - A.C.R.A.F. S.p.A. Via Vecchia del Pinocchio, 22 60131 Ancona (AN), Italy
+Aziende Chimiche Riunite Angelini Francesco - A.C.R.A.F. S.p.A. Via Vecchia del Pinocchio, 22 601 31 Ancona (AN), Italy
+
+Skyepharma Production SAS, Zone Industrielle Chesnes Ouest, 55 Rue Du Montmurier, St Quentin Fallavier, 38070, France
+
+The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.
 
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
@@ -734,8 +725,8 @@ The marketing authorisation holder (MAH) shall perform the required pharmacovigi
 
 An updated RMP should be submitted:
 
-- Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 - At the request of the European Medicines Agency;
+- Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -747,15 +738,15 @@ An updated RMP should be submitted:
 
 ## A. LABELLING
 
-<div style=\"page-break-after: always\"></div>
-
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
 CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Latuda 18.5 mg film-coated tablets lurasidone
+Latuda 18.5 mg film-coated tablets
+
+lurasidone
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -765,19 +756,19 @@ Each film-coated tablet contains lurasidone hydrochloride equivalent to18.6 mg l
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-14 x 1 film-coated tablets
+- 14 x 1 film-coated tablets
 
-28 x 1 film-coated tablets
+- 28 x 1 film-coated tablets
 
-30 x 1 film-coated tablets
+- 30 x 1 film -coated tablets
 
-56 x 1 film-coated tablets
+- 56 x 1 film-coated tablets
 
-60 x 1 film-coated tablets
+- 60 x 1 film -coated tablets
 
-90 x 1 film-coated tablets
+- 90 x 1 film -coated tablets
 
-98 x 1 film-coated tablets
+- 98 x 1 film-coated tablets
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -797,37 +788,37 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
+<div style=\"page-break-after: always\"></div>
+
 ## 9. SPECIAL STORAGE CONDITIONS
 
 Store in the original package in order to protect from light.
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10.
+
+SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS
+
+OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF
+
+APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Aziende Chimiche Riunite Angelini Francesco - A.C.R.A.F. S.p.A. Viale Amelia 70, 00181 Rome - Italy
+Angelini Pharma S.p.A Viale Amelia 70, 00181 Rome - Italy
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/14/913/001 14 x 1 film-coated tablets
+EU/1/14/913/001 14 x 1 film-coated tablets EU/1/14/913/002 28 x 1 film -coated tablets EU/1/14/913/003 30 x 1 film -coated tablets EU/1/14/913/004 56 x 1 film -coated tablets EU/1/14/913/005 60 x 1 film -coated tablets EU/1/14/913/006 90 x 1 film -coated tablets
 
-EU/1/14/913/002 28 x 1 film-coated tablets
+EU/1/14/913/007 98 x 1 film -coated tablets
 
-EU/1/14/913/003 30 x 1 film-coated tablets
-
-EU/1/14/913/004 56 x 1 film-coated tablets
-
-EU/1/14/913/005 60 x 1 film-coated tablets
-
-EU/1/14/913/006 90 x 1 film-coated tablets
-
-EU/1/14/913/007 98 x 1 film-coated tablets
-
-## 13. BATCH NUMBER
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
 
 ## 15. INSTRUCTIONS ON USE
 
@@ -835,11 +826,13 @@ Lot
 
 Latuda 18.5 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
+|-------|----------------------------------|
 
 2D barcode carrying the unique identifier included.
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|-------|------------------------------------------|
 
 PC:
 
@@ -849,19 +842,19 @@ NN:
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
-|-------------------------------------------------------|
-| BLISTERS                                              |
+| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
+|-----------------------------------------------------|
+| BLISTERS                                            |
 
-| 1.   | NAME OF THE MEDICINAL PRODUCT   |
-|------|---------------------------------|
+| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
+|------|------------------------------|
 
 Latuda 18.5 mg tablets lurasidone
 
-| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
-|------|----------------------------------------------|
+| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
+|------|-------------------------------------------|
 
-A.C.R.A.F. S.p.A.
+Angelini Pharma S.p.A
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -878,15 +871,15 @@ Lot
 
 30
 
-<div style=\"page-break-after: always\"></div>
-
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
 CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Latuda 37 mg film-coated tablets lurasidone
+Latuda 37 mg film-coated tablets
+
+lurasidone
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -896,19 +889,19 @@ Each film-coated tablet contains lurasidone hydrochloride equivalent to 37.2 mg 
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-14 x 1 film-coated tablets
+- 14 x 1 film-coated tablets
 
-28 x 1 film-coated tablets
+- 28 x 1 film-coated tablets
 
-30 x 1 film-coated tablets
+- 30 x 1 film -coated tablets
 
-56 x 1 film-coated tablets
+- 56 x 1 film-coated tablets
 
-60 x 1 film-coated tablets
+- 60 x 1 film -coated tablets
 
-90 x 1 film-coated tablets
+- 90 x 1 film -coated tablets
 
-98 x 1 film-coated tablets
+- 98 x 1 film-coated tablets
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -928,6 +921,8 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
+<div style=\"page-break-after: always\"></div>
+
 ## 9. SPECIAL STORAGE CONDITIONS
 
 Store in the original package in order to protect from light.
@@ -936,23 +931,13 @@ Store in the original package in order to protect from light.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Aziende Chimiche Riunite Angelini Francesco - A.C.R.A.F. S.p.A. Viale Amelia 70, 00181 Rome - Italy
+Angelini Pharma S.p.A Viale Amelia 70, 00181 Rome - Italy
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/14/913/008 14 x 1 film-coated tablets
+EU/1/14/913/008 14 x 1 film-coated tablets EU/1/14/913/009 28 x 1 film-coated tablets EU/1/14/913/010 30 x 1 film -coated tablets EU/1/14/913/011 56 x 1 film-coated tablets EU/1/14/913/012 60 x 1 film -coated tablets EU/1/14/913/013 90 x 1 film -coated tablets
 
-EU/1/14/913/009 28 x 1 film-coated tablets
-
-EU/1/14/913/010 30 x 1 film-coated tablets
-
-EU/1/14/913/011 56 x 1 film-coated tablets
-
-EU/1/14/913/012 60 x 1 film-coated tablets
-
-EU/1/14/913/013 90 x 1 film-coated tablets
-
-EU/1/14/913/014 98 x 1 film-coated tablets
+EU/1/14/913/014 98 x 1 film -coated tablets
 
 ## 13. BATCH NUMBER
 
@@ -966,11 +951,13 @@ Lot
 
 Latuda 37 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
+|-------|----------------------------------|
 
 2D barcode carrying the unique identifier included.
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|-------|------------------------------------------|
 
 PC:
 
@@ -980,19 +967,19 @@ NN:
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
-|-------------------------------------------------------|
-| BLISTERS                                              |
+| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
+|-----------------------------------------------------|
+| BLISTERS                                            |
 
-| 1.   | NAME OF THE MEDICINAL PRODUCT   |
-|------|---------------------------------|
+| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
+|------|------------------------------|
 
 Latuda 37 mg tablets lurasidone
 
-| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
-|------|----------------------------------------------|
+| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
+|------|-------------------------------------------|
 
-A.C.R.A.F. S.p.A.
+Angelini Pharma S.p.A
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -1009,15 +996,15 @@ Lot
 
 33
 
-<div style=\"page-break-after: always\"></div>
-
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
 CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Latuda 74 mg film-coated tablets lurasidone
+Latuda 74 mg film-coated tablets
+
+lurasidone
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -1027,19 +1014,19 @@ Each film-coated tablet contains lurasidone hydrochloride equivalent to 74.5 mg 
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-14 x 1 film-coated tablets
+- 14 x 1 film-coated tablets
 
-28 x 1 film-coated tablets
+- 28 x 1 film-coated tablets
 
-30 x 1 film-coated tablets
+- 30 x 1 film -coated tablets
 
-56 x 1 film-coated tablets
+- 56 x 1 film-coated tablets
 
-60 x 1 film-coated tablets
+- 60 x 1 film -coated tablets
 
-90 x 1 film-coated tablets
+- 90 x 1 film -coated tablets
 
-98 x 1 film-coated tablets
+- 98 x 1 film-coated tablets
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -1059,6 +1046,8 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
+<div style=\"page-break-after: always\"></div>
+
 ## 9. SPECIAL STORAGE CONDITIONS
 
 Store in the original package in order to protect from light.
@@ -1067,27 +1056,13 @@ Store in the original package in order to protect from light.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Aziende Chimiche Riunite Angelini Francesco - A.C.R.A.F. S.p.A.
-
-Viale Amelia 70, 00181
-
-Rome - Italy
+Angelini Pharma S.p.A Viale Amelia 70, 00181 Rome - Italy
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/14/913/015 14 x 1 film-coated tablets
+EU/1/14/913/015 14 x 1 film-coated tablets EU/1/14/913/016 28 x 1 film -coated tablets EU/1/14/913/017 30 x 1 film -coated tablets EU/1/14/913/018 56 x 1 film -coated tablets EU/1/14/913/019 60 x 1 film -coated tablets EU/1/14/913/020 90 x 1 film -coated tablets
 
-EU/1/14/913/016 28 x 1 film-coated tablets
-
-EU/1/14/913/017 30 x 1 film-coated tablets
-
-EU/1/14/913/018 56 x 1 film-coated tablets
-
-EU/1/14/913/019 60 x 1 film-coated tablets
-
-EU/1/14/913/020 90 x 1 film-coated tablets
-
-EU/1/14/913/021 98 x 1 film-coated tablets
+EU/1/14/913/021 98 x 1 film -coated tablets
 
 ## 13. BATCH NUMBER
 
@@ -1101,7 +1076,8 @@ Lot
 
 Latuda 74 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
+|-------|----------------------------------|
 
 2D barcode carrying the unique identifier included.
 
@@ -1115,19 +1091,19 @@ NN:
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
-|-------------------------------------------------------|
-| BLISTERS                                              |
+| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
+|-----------------------------------------------------|
+| BLISTERS                                            |
 
-| 1.   | NAME OF THE MEDICINAL PRODUCT   |
-|------|---------------------------------|
+| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
+|------|------------------------------|
 
 Latuda 74 mg tablets lurasidone
 
-| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
-|------|----------------------------------------------|
+| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
+|------|-------------------------------------------|
 
-A.C.R.A.F. S.p.A.
+Angelini Pharma S.p.A
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -1148,11 +1124,13 @@ Lot
 
 ## B. PACKAGE LEAFLET
 
-## Package leaflet: Information for the patient
-
 <div style=\"page-break-after: always\"></div>
 
-Latuda 18.5 mg film-coated tablets Latuda 37 mg film-coated tablets Latuda 74 mg film-coated tablets lurasidone
+## Package leaflet: Information for the patient
+
+## Latuda 18.5 mg film-coated tablets Latuda 37 mg film-coated tablets Latuda 74 mg film-coated tablets
+
+lurasidone
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
@@ -1180,8 +1158,8 @@ Schizophrenia is a disorder with symptoms such as hearing things, seeing or sens
 
 ## Do not take Latuda:
 
-- if you are taking medicines which may affect the level of lurasidone in your blood such as:
 - if you are allergic to lurasidone or any of the other ingredients of this medicine (listed in section 6)
+- if you are taking medicines which may affect the level of lurasidone in your blood such as:
 - -medicines for fungal infections such as itraconazole, ketoconazole (except as a shampoo), posaconazole or voriconazole
 - -medicines for an infection such as the antibiotic clarithromycin or telithromycin
 - -medicines for HIV infections such as cobicistat, indinavir, nelfinavir, ritonavir, and saquinavir
@@ -1199,17 +1177,17 @@ It may take several days or even weeks before this medicine will have a full eff
 
 Talk to your doctor or pharmacist before taking Latuda, or during treatment, especially if you have:
 
-- Parkinson's disease or dementia
 - suicidal thoughts or behaviour
+- Parkinson's disease or dementia
 - ever been diagnosed with a condition whose symptoms include high temperature and muscle stiffness (also known as neuroleptic malignant syndrome) or if you have ever experienced rigidity, tremors or problems moving (extrapyramidal symptoms) or abnormal movements of the tongue or face (tardive dyskinesia). You should be aware that these conditions may be caused by this medicine
-- a history of seizures (fits) or epilepsy
 - heart disease or heart disease treatment that makes you prone to low blood pressure or have a family history of irregular heartbeat (including QT prolongation)
+- a history of seizures (fits) or epilepsy
 - a history of blood clots, or if someone else in your family has a history of blood clots, as medicines for schizophrenia have been associated with formation of blood clots
-- diabetes or are prone to diabetes
 - enlarged breasts in male (gynecomastia), milky nipple discharge (galactorrhea), absence of menstruation (amenorrhea) or erectile dysfunction
+- diabetes or are prone to diabetes
 - decreased kidney function
-- an increase in your weight
 - decreased liver function
+- an increase in your weight
 - blood pressure dropping upon your standing up which may cause fainting
 - opioid dependence (treated with buprenorphine) or severe pain (treated with opioids) or depression or other conditions that are treated with antidepressants. The use of these medicines together with Latuda can lead to serotonin syndrome, a potentially life-threatening condition (see 'Other medicines and Latuda').
 
@@ -1223,11 +1201,11 @@ Do not give this medicine to children below 13 years of age.
 
 Tell your doctor or pharmacist if you are taking, have recently taken or might take any other medicines. This is especially important if you are taking:
 
-- medicines that lower blood pressure, as this medicine can also lower blood pressure
 - any medicines that also work in the brain, as their effects could be additive in a negative way with the effects of Latuda on your brain
+- medicines that lower blood pressure, as this medicine can also lower blood pressure
 - medicines for Parkinson's disease and restless legs syndrome (e.g. levodopa) as this medicine can reduce their effects
-- medicines containing buprenorphine (used for treating opioid dependence) or opioids (used for treating sever pain) or anti-depressants such as moclobemide, tranylcypromine, citalopram, escitalopram, fluoxetine, fluvoxamine, paroxetine, sertraline, duloxetine, venlafaxine, amitriptyline, doxepine, or trimipramine. These medicines may interact with Latuda and you may experience symptoms such as involuntary, rhythmic contractions of muscles, including the muscles that control movement of the eye, agitation, hallucinations, coma, excessive sweating,
 - medicines containing ergot alkaloid derivatives (used for treating migraines), and other medicines including terfenadine and astemizole (used for treating hay fever and other allergic conditions), cisapride (used for treating digestive problems), pimozide (used to treating psychiatric illnesses), quinidine (used for treating heart conditions), bepridil (used for treating chest pain)
+- medicines containing buprenorphine (used for treating opioid dependence) or opioids (used for treating sever pain) or anti-depressants such as moclobemide, tranylcypromine, citalopram, escitalopram, fluoxetine, fluvoxamine, paroxetine, sertraline, duloxetine, venlafaxine, amitriptyline, doxepine, or trimipramine. These medicines may interact with Latuda and you may experience symptoms such as involuntary, rhythmic contractions of muscles, including the muscles that control movement of the eye, agitation, hallucinations, coma, excessive sweating,
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1237,18 +1215,18 @@ Tell your doctor if you take any of these medicines since your doctor may have t
 
 The following medicines may increase the level of lurasidone in your blood:
 
-- erythromycin (to treat infections)
 - diltiazem (to treat high blood pressure)
+- erythromycin (to treat infections)
 - fluconazole (to treat fungal infections)
 - verapamil (to treat high blood pressure or chest pain).
 
 The following medicines may decrease the level of lurasidone in your blood:
 
-- aprepitant (to treat nausea and vomiting)
 - amprenavir, efavirenz, etravirine (to treat HIV infection)
+- aprepitant (to treat nausea and vomiting)
 - armodafinil, modafinil (to treat sleepiness)
-- nafcillin (to treat infections)
 - bosentan (to treat high blood pressure or ulcers of the fingers)
+- nafcillin (to treat infections)
 - prednisone (to treat inflammatory disease)
 - rufinamide (to treat seizures).
 
@@ -1290,8 +1268,8 @@ Always take this medicine exactly as your doctor or pharmacist has told you. Che
 
 Your dose will be decided by your doctor and may depend on:
 
-- if you are taking some other medicines (see section 2, Other medicines and Latuda)
 - how well you respond to a dose
+- if you are taking some other medicines (see section 2, Other medicines and Latuda)
 - if you have kidney or liver problems.
 
 ## Adults (aged 18 years and over)
@@ -1330,8 +1308,8 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 ## If you notice any of the following symptoms seek medical attention immediately :
 
-- a serious blistering rash affecting the skin, mouth, eyes and genitals (Stevens-Johnson syndrome). This reaction is seen with unknown frequency
 - a severe allergic reaction seen as fever, swollen mouth, face, lip or tongue, shortness of breath, itching, skin rash and sometimes a drop in blood pressure (hypersensitivity). These reactions are seen commonly (may affect up to 1 in 10 people)
+- a serious blistering rash affecting the skin, mouth, eyes and genitals (Stevens-Johnson syndrome). This reaction is seen with unknown frequency
 - fever, sweating, muscle stiffness, and reduced consciousness. These could be symptoms of a condition known as neuroleptic malignant syndrome. These reactions are seen rarely (may affect up to 1 in 1,000 people)
 
 <div style=\"page-break-after: always\"></div>
@@ -1342,83 +1320,83 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 ## Very common (may affect more than 1 in 10 people):
 
-- nausea (feeling sick)
 - feeling of restlessness and inability to sit still
+- nausea (feeling sick)
 - insomnia.
 
 ## Common (may affect up to 1 in 10 people):
 
-- speech problems, unusual muscle movements; a collection of symptoms known as extrapyramidal symptoms (EPS) which typically will involve unusual purposeless involuntary muscle movements
 - Parkinsonism: this is a medical term that describes many symptoms which include increase in saliva secretion or watery mouth, drooling, jerks when bending the limbs, slow, reduced or impaired body movements, no expression in the face, muscle tightness, stiff neck, muscle stiffness, small, shuffling, hurried steps and lack of normal arm movements when walking, persistent blinking in response to tapping of the forehead (an abnormal reflex)
+- speech problems, unusual muscle movements; a collection of symptoms known as extrapyramidal symptoms (EPS) which typically will involve unusual purposeless involuntary muscle movements
 - fast heartbeat
-- dizziness
 - increased blood pressure
+- dizziness
 - muscle spasms and stiffness
-- diarrhoea
 - vomiting (being sick)
+- diarrhoea
 - back pain
-- indigestion
 - rash and itching
+- indigestion
 - dry mouth or excess saliva
-- somnolence, tiredness, agitation and anxiety
 - abdominal pain
+- somnolence, tiredness, agitation and anxiety
 - weight gain
-- increase in creatinine (a marker of kidney function) seen in blood tests
 - increase in creatine phosphokinase (an enzyme in muscles) seen in blood tests
+- increase in creatinine (a marker of kidney function) seen in blood tests
 - reduced appetite.
 
 ## Uncommon (may affect up to 1 in 100 people):
 
-- nightmares
 - slurred speech
+- nightmares
 - difficulty swallowing
-- sudden feelings of anxiety
 - irritation to lining of stomach
+- sudden feelings of anxiety
 - convulsion (fits)
-- muscle aches
 - chest pain
+- muscle aches
 - temporary loss of consciousness
-- abnormal nerve impulses in the heart
 - spinning sensation
+- abnormal nerve impulses in the heart
 - slow heart rate
-- problems walking
 - joint pains
+- problems walking
 - rigid posture
 - increased blood prolactin, increased blood glucose (blood sugar), increase in some liver enzymes, seen in blood tests
 
 <div style=\"page-break-after: always\"></div>
 
 - blood pressure dropping upon standing up which may cause fainting
-- hot flush
 - common cold
+- hot flush
 - blurred vision
-- pain when passing urine
 - sweating
+- pain when passing urine
 - uncontrollable movements of mouth, tongue and limbs (tardive dyskinesia)
-- lack of energy (lethargy)
 - low blood levels of sodium which can cause tiredness and confusion, muscle twitching, fits and coma (hyponatremia)
+- lack of energy (lethargy)
 - gas (flatulence)
-- problems with erections
 - neck pain
+- problems with erections
 - painful or absence of menstrual periods
 - reduced levels of red blood cells (which carry oxygen around the body).
 
 ## Rare (may affect up to 1 in 1,000 people):
 
-- increase in eosinophils (a type of white blood cell)
 - Rhabdomyolysis which is the breakdown of muscle fibres that leads to the release of muscle fibre contents (myoglobin) into the bloodstream, seen as muscle pain, being sick, being confused, an abnormal heart rate and rhythm, and possibly dark urine
+- increase in eosinophils (a type of white blood cell)
 - swelling beneath the skin surface (angioedema)
-- cerebrovascular accident
 - deliberate injury to oneself
+- cerebrovascular accident
 - kidney failure
-- breast pain, milk secretion from breasts
 - reduced levels of white blood cells (which fight infection)
+- breast pain, milk secretion from breasts
 - sudden death.
 
 ## Not known (frequency cannot be estimated from the available data):
 
-- sleep disorder
 - reduced levels of a subgroup of white blood cells (neutrophils)
+- sleep disorder
 - newborn babies may show the following: agitation, increase or decreases in muscle tone, tremor, sleepiness, breathing or feeding problems
 - abnormal breast enlargement.
 
@@ -1428,102 +1406,102 @@ In elderly people with dementia, a small increase in the number of deaths has be
 
 ## Very common (may affect more than 1 in 10 people):
 
-- headache
 - feeling of restlessness and inability to sit still
+- headache
 - sleepiness
 - nausea (feeling sick).
 
 ## Common (may affect up to 1 in 10 people):
 
-- abnormal dreams
 - reduced or increased appetite
+- abnormal dreams
 - difficulty in sleeping, tension, agitation, anxiety and irritability
-- depression
 - physical weakness, tiredness
+- depression
 - psychotic disorder: this is a medical term that describes many mental diseases that cause abnormal thinking and perceptions; people with psychoses lose touch with reality
 
 <div style=\"page-break-after: always\"></div>
 
 - symptoms of schizophrenia
-- spinning sensation
 - difficulty in attention
+- spinning sensation
 - abnormal involuntary movements (dyskinesia)
-- Parkinsonism: this is a medical term that describes many symptoms which include increase in saliva  secretion  or  watery  mouth,  drooling,  jerks  when  bending  the  limbs,  slow,  reduced  or impaired body movements, no expression in the face, muscle tightness, stiff neck, muscle stiffness, small,  shuffling,  hurried  steps  and  lack  of  normal  arm  movements  when  walking,  persistent blinking in response to tapping of the forehead (an abnormal reflex)
 - abnormal muscle tone, including torticollis and involuntary upward deviation of the eyes,
+- Parkinsonism: this is a medical term that describes many symptoms which include increase in saliva  secretion  or  watery  mouth,  drooling,  jerks  when  bending  the  limbs,  slow,  reduced  or impaired body movements, no expression in the face, muscle tightness, stiff neck, muscle stiffness, small,  shuffling,  hurried  steps  and  lack  of  normal  arm  movements  when  walking,  persistent blinking in response to tapping of the forehead (an abnormal reflex)
 - fast heartbeat
-- dry mouth or excess saliva
 - difficulty in emptying the bowels (constipation)
+- dry mouth or excess saliva
 - vomiting (being sick)
-- muscle rigidity
 - sweating
+- muscle rigidity
 - problems with erections
-- increase in blood prolactin (a hormone), seen in blood tests
 - increase in creatine phosphokinase (an enzyme in muscles) seen in blood tests
+- increase in blood prolactin (a hormone), seen in blood tests
 - weight gain or loss.
 
 ## Uncommon (may affect up to 1 in 100 people):
 
-- common cold, infection of throat and nose
 - hypersensitivity
+- common cold, infection of throat and nose
 - decreased activity of thyroid, inflammation of thyroid
-- apathy
 - aggressive behaviour, impulsive behaviour
+- apathy
 - confusional state
-- separation of normal mental processes (dissociation)
 - depressed mood
+- separation of normal mental processes (dissociation)
 - hallucination (auditory or visual)
-- difficulty in sleeping
 - homicidal thoughts
+- difficulty in sleeping
 - sexual desire increased or decreased
-- mental condition changes
 - lack of energy
+- mental condition changes
 - obsessive thoughts
-- engage in involuntary movements that serve no purpose (psychomotor hyperactivity)
 - feeling of acute and disabling anxiety (panic attack)
+- engage in involuntary movements that serve no purpose (psychomotor hyperactivity)
 - hyperactivity of the muscles in the body (hyperkinesia), inability to rest (restlessness)
-- sleep disorder
 - uncontrollable urge to move legs (restless legs syndrome), uncontrollable movements of mouth, tongue and limbs (tardive dyskinesia)
+- sleep disorder
 - deliberate suicidal thoughts
-- unsteadiness (spinning sensation)
 - thinking abnormal
+- unsteadiness (spinning sensation)
 - alteration of taste
-- abnormal skin sensation (paraesthesia)
 - memory impairment
+- abnormal skin sensation (paraesthesia)
 - feeling like with a tight band around head (tension headache), migraine
-- increased sensitivity of hearing
 - difficulty of the eyes in focusing, vision blurred
+- increased sensitivity of hearing
 - palpitations, alterations in heart rhythm
 - blood pressure dropping upon standing up which may cause fainting
 
 <div style=\"page-break-after: always\"></div>
 
 - increased blood pressure
-- absence of or deficiency in secretion of saliva
 - abdominal pain or disturbance
+- absence of or deficiency in secretion of saliva
 - diarrhoea
-- lip dry
 - indigestion
+- lip dry
 - toothache
-- rash, urticaria
 - partial or complete absence of hair, hair growth abnormal
+- rash, urticaria
 - muscle spasms and stiffness, muscle aches
-- presence of bilirubin in urine, presence of protein in urine, a marker of kidney function
 - joint pains, pain in arms and legs, pain in jaw
+- presence of bilirubin in urine, presence of protein in urine, a marker of kidney function
 - pain or difficulty when passing urine, frequent urination, renal disorder
-- difficulty in ejaculation
 - sexual dysfunction
+- difficulty in ejaculation
 - abnormal breast enlargement, breast pain, milk secretion from breasts
-- make uncontrolled noises and movements (Tourette's disorder)
 - menstruation absent or irregular
+- make uncontrolled noises and movements (Tourette's disorder)
 - chills
-- malaise
 - problems walking
+- malaise
 - chest pain
-- intentional overdose
 - fever
+- intentional overdose
 - effects on the thyroid function, seen in blood tests increased blood cholesterol, increased blood triglycerides, decreased high density lipoprotein, decreased low density lipoprotein, seen in blood tests
-- increased or decreased blood testosterone, increased blood thyroid stimulating hormone, seen in blood tests
 - increased blood glucose (blood sugar), increased blood insulin, increase in some liver enzymes (a marker of liver function), seen in blood tests
+- increased or decreased blood testosterone, increased blood thyroid stimulating hormone, seen in blood tests
 - electrocardiogram alterations
 - decreased haemoglobin, reduced levels of white blood cells (which fight infection) seen in blood tests.
 
@@ -1547,51 +1525,58 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What Latuda contains
 
+- The active substance is lurasidone.
+
 Each 18.5 mg tablet contains lurasidone hydrochloride equivalent to 18.6 mg lurasidone. Each 37 mg tablet contains lurasidone hydrochloride equivalent to 37.2 mg lurasidone. Each 74 mg tablet contains lurasidone hydrochloride equivalent to 74.5 mg lurasidone.
 
-- The active substance is lurasidone.
 - The other ingredients are mannitol, pregelatinised starch, croscarmellose sodium, hypromellose 2910, magnesium stearate (E470b), titanium dioxide (E171), macrogol, yellow iron oxide (E172) (present in 74 mg tablets), indigotine (E132) (present in 74 mg tablets) and carnauba wax (E903).
 
 ## What Latuda looks like and contents of the pack
 
-- Latuda 37 mg film-coated tablets are white to off-white, film-coated round tablets debossed with 'LB'
 - Latuda 18.5 mg film-coated tablets are white to off-white, film-coated round tablets debossed with 'LA'
+- Latuda 37 mg film-coated tablets are white to off-white, film-coated round tablets debossed with 'LB'
 - Latuda 74 mg film-coated tablets are pale green, film-coated oval tablets debossed with 'LD'.
 
-Latuda film-coated tablets are available in pack sizes containing 14 x 1, 28 x 1, 30 x 1, 56 x 1, 60 x 1, 90 x 1 or 98 x 1 film-coated tablet in aluminium/aluminium perforated unit dose blisters.
+Latuda filmcoated tablets are available in pack sizes containing 14 x 1, 28 x 1, 30 x 1, 56 x 1, 60 x 1, 90 x 1 or 98 x 1 film-coated tablet in aluminium/aluminium perforated unit dose blisters.
 
 Not all pack sizes may be marketed.
 
 ## Marketing Authorisation Holder
 
-Aziende Chimiche Riunite Angelini Francesco - A.C.R.A.F. S.p.A. Viale Amelia 70, 00181 Rome - Italy
+Angelini Pharma S.p.A. Viale Amelia 70, 00181 Rome - Italy
 
 ## Manufacturer
 
-Aziende Chimiche Riunite Angelini Francesco - A.C.R.A.F. S.p.A. Via Vecchia del Pinocchio, 22 60131 Ancona (AN), Italy
+Aziende Chimiche Riunite Angelini Francesco - A.C.R.A.F. S.p.A. Via Vecchia del Pinocchio, 22 601 31 Ancona (AN), Italy
+
+Skyepharma Production SAS, Zone Industrielle Chesnes Ouest, 55 Rue Du Montmurier, St Quentin Fallavier, 38070, France
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-| België/ Belgique/ Belgien CNX Therapeutics Netherlands B.V. medinfo@cnx-therapeutics.com   | Lithuania/ Lietuva CNX Therapeutics Netherlands B.V. medinfo@cnx-therapeutics.com    |
-|--------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
-| Bulgaria/ България Анджелини Фарма България ЕООД office@angelini.bg                        | Luxembourg/ Luxemburg CNX Therapeutics Netherlands B.V. medinfo@cnx-therapeutics.com |
-| Czech Republic/ Č eská republika Angelini Pharma Č eská republika s.r.o. info@angelini.cz  | Hungary/ Magyarország Angelini Pharma Magyarország Kft office@angelini.hu            |
-| Denmark/ Danmark CNX Therapeutics Netherlands B.V. medinfo@cnx-therapeutics.com            | Malta CNX Therapeutics Netherlands B.V. medinfo@cnx-therapeutics.com                 |
+| België/ Belgique/ Belgien CNX Therapeutics Netherlands B.V. medinfo@cnx-therapeutics.com   | Lithuania/ Lietuva CNX Therapeutics Netherlands B.V. medinfo@cnx-therapeutics.com   |
+|--------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|
 
 <div style=\"page-break-after: always\"></div>
 
-| Germany/ Deutschland CNX Therapeutics Netherlands B.V. medinfo@cnx-therapeutics.com                           | Netherlands/ Nederland CNX Therapeutics Netherlands B.V. medinfo@cnx-therapeutics.com              |
+| Bulgaria/ България Анджелини Фарма България ЕООД office@angelini.bg                                           | Luxembourg/ Luxemburg CNX Therapeutics Netherlands B.V. medinfo@cnx-therapeutics.com               |
 |---------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
+| Czech Republic/ Česká republika Angelini Pharma Česká republika s.r.o. info@angelini.cz                       | Hungary/ Magyarország Angelini Pharma Magyarország Kft office@angelini.hu                          |
+| Denmark/ Danmark CNX Therapeutics Netherlands B.V. medinfo@cnx-therapeutics.com                               | Malta CNX Therapeutics Netherlands B.V. medinfo@cnx-therapeutics.com                               |
+| Germany/ Deutschland CNX Therapeutics Netherlands B.V. medinfo@cnx-therapeutics.com                           | Netherlands/ Nederland CNX Therapeutics Netherlands B.V. medinfo@cnx-therapeutics.com              |
 | Estonia/ Eesti CNX Therapeutics Netherlands B.V. medinfo@cnx-therapeutics.com                                 | Norway/ Norge CNX Therapeutics Netherlands B.V. medinfo@cnx-therapeutics.com                       |
 | Greece/ Ελλάδα Angelini Pharma Hellas ΜΟΝΟΠΡΟΣΩΠΗ ABEE ΠΑΡΑΓΩΓΗΣ ΚΑΙ ΕΜΠΟΡΙΑΣ ΦΑΡΜΑΚΩΝ info@angelinipharma.gr | Austria/ Österreich Angelini Pharma Österreich GmbH office@angelini.at                             |
-| Spain/ España ANGELINI PHARMA ESPAÑA, S.L. Tel: + 34 93 253 45 05                                             | Poland/ Polska Angelini Pharma Polska Sp. z o.o. angelini@angelini.pl                              |
+| Spain/ España ANGELINI PHARMA ESPAÑA, S.L. Tel: + 34 93 253 45 0 5                                            | Poland/ Polska Angelini Pharma Polska Sp. z o.o. angelini@angelini.pl                              |
 | France CNX Therapeutics Netherlands B.V. medinfo@cnx-therapeutics.com                                         | Portugal Angelini Pharma Portugal, Unipessoal Lda farmacovigilancia@angelini.pt                    |
 | Croatia/ Hrvatska Aziende Chimiche Riunite Angelini Francesco - A.C.R.A.F. S.p.A. Tel: + 39 06 78 0531        | Romania/ România Angelini Pharmaceuticals România SRL office@angelini.ro                           |
 | Ireland CNX Therapeutics Netherlands B.V. medinfo@cnx-therapeutics.com                                        | Slovenia/ Slovenija Bonifar d.o.o. Tel: + 386 1 235 0490                                           |
 | Iceland/ Ísland CNX Therapeutics Netherlands B.V. medinfo@cnx-therapeutics.com                                | Slovak republic/ Slovenská republika Angelini Pharma Slovenská republika s.r.o. office@angelini.sk |
-| Italy/ Italia Angelini Pharma S.p.A. Tel: +39 071 809 809                                                     | Suomi/ Finland CNX Therapeutics Netherlands B.V. medinfo@cnx-therapeutics.com                      |
-| Cyprus/ Κύπρος Angelini Pharma Hellas ΜΟΝΟΠΡΟΣΩΠΗ ABEE ΠΑΡΑΓΩΓΗΣ ΚΑΙ ΕΜΠΟΡΙΑΣ ΦΑΡΜΑΚΩΝ info@angelinipharma.gr | Sweden/ Sverige CNX Therapeutics Netherlands B.V. medinfo@cnx-therapeutics.com                     |
-| Latvia/ Latvija CNX Therapeutics Netherlands B.V. medinfo@cnx-therapeutics.com                                |                                                                                                    |
+
+<div style=\"page-break-after: always\"></div>
+
+| Italy/ Italia Angelini Pharma S.p.A. Tel: +39 071 809 809                                                     | Suomi/ Finland CNX Therapeutics Netherlands B.V. medinfo@cnx-therapeutics.com   |
+|---------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|
+| Cyprus/ Κύπρος Angelini Pharma Hellas ΜΟΝΟΠΡΟΣΩΠΗ ABEE ΠΑΡΑΓΩΓΗΣ ΚΑΙ ΕΜΠΟΡΙΑΣ ΦΑΡΜΑΚΩΝ info@angelinipharma.gr | Sweden/ Sverige CNX Therapeutics Netherlands B.V. medinfo@cnx-therapeutics.com  |
+| Latvia/ Latvija CNX Therapeutics Netherlands B.V. medinfo@cnx-therapeutics.com                                |                                                                                 |
 
 ## This leaflet was last revised in
 

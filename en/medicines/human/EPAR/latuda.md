@@ -1,30 +1,32 @@
 ---
-document_datetime: 2026-01-12 16:30:00
+document_datetime: 2026-05-08 14:11:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/latuda.html
 document_name: latuda.html
 version: success
-processing_time: 0.1289448
-conversion_datetime: 2026-01-14 07:16:36.005213
+processing_time: 0.130623
+conversion_datetime: 2026-05-13 12:51:06.345005
 docling_version:
-  docling-serve: 1.10.0
-  docling-jobkit: 1.8.1
-  docling: 2.68.0
-  docling-core: 2.59.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.17.0
+  docling-jobkit: 1.18.0
+  docling: 2.92.0
+  docling-core: 2.74.1
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.10.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
 ---
 # Latuda
 
 [RSS](/en/individual-human-medicine.xml/66808)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-lurasidone Medicine Human Authorised
+lurasidone
+
+Medicine Human Authorised
 
 Page contents
 
@@ -103,275 +105,141 @@ Latuda : EPAR - Medicine overview
 
 English (EN) (128.82 KB - PDF)
 
-**First published:** 08/04/2014
-
-**Last updated:** 14/09/2020
+**First published:** 08/04/2014 **Last updated:** 14/09/2020
 
 [View](/en/documents/overview/latuda-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-167)
+[Other languages (22)](#file-language-dropdown-441)
 
 български (BG) (145.07 KB - PDF)
 
-**First published:**
-
-08/04/2014
-
-**Last updated:**
-
-14/09/2020
+**First published:** 08/04/2014 **Last updated:** 14/09/2020
 
 [View](/bg/documents/overview/latuda-epar-medicine-overview_bg.pdf)
 
 español (ES) (119.76 KB - PDF)
 
-**First published:**
-
-08/04/2014
-
-**Last updated:**
-
-14/09/2020
+**First published:** 08/04/2014 **Last updated:** 14/09/2020
 
 [View](/es/documents/overview/latuda-epar-medicine-overview_es.pdf)
 
 čeština (CS) (142.57 KB - PDF)
 
-**First published:**
-
-08/04/2014
-
-**Last updated:**
-
-14/09/2020
+**First published:** 08/04/2014 **Last updated:** 14/09/2020
 
 [View](/cs/documents/overview/latuda-epar-medicine-overview_cs.pdf)
 
 dansk (DA) (119.51 KB - PDF)
 
-**First published:**
-
-08/04/2014
-
-**Last updated:**
-
-14/09/2020
+**First published:** 08/04/2014 **Last updated:** 14/09/2020
 
 [View](/da/documents/overview/latuda-epar-medicine-overview_da.pdf)
 
 Deutsch (DE) (126.21 KB - PDF)
 
-**First published:**
-
-08/04/2014
-
-**Last updated:**
-
-14/09/2020
+**First published:** 08/04/2014 **Last updated:** 14/09/2020
 
 [View](/de/documents/overview/latuda-epar-medicine-overview_de.pdf)
 
 eesti keel (ET) (108.19 KB - PDF)
 
-**First published:**
-
-08/04/2014
-
-**Last updated:**
-
-14/09/2020
+**First published:** 08/04/2014 **Last updated:** 14/09/2020
 
 [View](/et/documents/overview/latuda-epar-medicine-overview_et.pdf)
 
 ελληνικά (EL) (144.43 KB - PDF)
 
-**First published:**
-
-08/04/2014
-
-**Last updated:**
-
-14/09/2020
+**First published:** 08/04/2014 **Last updated:** 14/09/2020
 
 [View](/el/documents/overview/latuda-epar-medicine-overview_el.pdf)
 
 français (FR) (120.79 KB - PDF)
 
-**First published:**
-
-08/04/2014
-
-**Last updated:**
-
-14/09/2020
+**First published:** 08/04/2014 **Last updated:** 14/09/2020
 
 [View](/fr/documents/overview/latuda-epar-medicine-overview_fr.pdf)
 
 hrvatski (HR) (141.92 KB - PDF)
 
-**First published:**
-
-08/04/2014
-
-**Last updated:**
-
-14/09/2020
+**First published:** 08/04/2014 **Last updated:** 14/09/2020
 
 [View](/hr/documents/overview/latuda-epar-medicine-overview_hr.pdf)
 
 italiano (IT) (120.58 KB - PDF)
 
-**First published:**
-
-08/04/2014
-
-**Last updated:**
-
-14/09/2020
+**First published:** 08/04/2014 **Last updated:** 14/09/2020
 
 [View](/it/documents/overview/latuda-epar-medicine-overview_it.pdf)
 
 latviešu valoda (LV) (152.35 KB - PDF)
 
-**First published:**
-
-08/04/2014
-
-**Last updated:**
-
-14/09/2020
+**First published:** 08/04/2014 **Last updated:** 14/09/2020
 
 [View](/lv/documents/overview/latuda-epar-medicine-overview_lv.pdf)
 
 lietuvių kalba (LT) (144.02 KB - PDF)
 
-**First published:**
-
-08/04/2014
-
-**Last updated:**
-
-14/09/2020
+**First published:** 08/04/2014 **Last updated:** 14/09/2020
 
 [View](/lt/documents/overview/latuda-epar-medicine-overview_lt.pdf)
 
 magyar (HU) (142.65 KB - PDF)
 
-**First published:**
-
-08/04/2014
-
-**Last updated:**
-
-14/09/2020
+**First published:** 08/04/2014 **Last updated:** 14/09/2020
 
 [View](/hu/documents/overview/latuda-epar-medicine-overview_hu.pdf)
 
 Malti (MT) (145.54 KB - PDF)
 
-**First published:**
-
-08/04/2014
-
-**Last updated:**
-
-14/09/2020
+**First published:** 08/04/2014 **Last updated:** 14/09/2020
 
 [View](/mt/documents/overview/latuda-epar-medicine-overview_mt.pdf)
 
 Nederlands (NL) (119.9 KB - PDF)
 
-**First published:**
-
-08/04/2014
-
-**Last updated:**
-
-14/09/2020
+**First published:** 08/04/2014 **Last updated:** 14/09/2020
 
 [View](/nl/documents/overview/latuda-epar-medicine-overview_nl.pdf)
 
 polski (PL) (143.34 KB - PDF)
 
-**First published:**
-
-08/04/2014
-
-**Last updated:**
-
-14/09/2020
+**First published:** 08/04/2014 **Last updated:** 14/09/2020
 
 [View](/pl/documents/overview/latuda-epar-medicine-overview_pl.pdf)
 
 português (PT) (120.07 KB - PDF)
 
-**First published:**
-
-08/04/2014
-
-**Last updated:**
-
-14/09/2020
+**First published:** 08/04/2014 **Last updated:** 14/09/2020
 
 [View](/pt/documents/overview/latuda-epar-medicine-overview_pt.pdf)
 
 română (RO) (133.38 KB - PDF)
 
-**First published:**
-
-08/04/2014
-
-**Last updated:**
-
-14/09/2020
+**First published:** 08/04/2014 **Last updated:** 14/09/2020
 
 [View](/ro/documents/overview/latuda-epar-medicine-overview_ro.pdf)
 
 slovenčina (SK) (143.28 KB - PDF)
 
-**First published:**
-
-08/04/2014
-
-**Last updated:**
-
-14/09/2020
+**First published:** 08/04/2014 **Last updated:** 14/09/2020
 
 [View](/sk/documents/overview/latuda-epar-medicine-overview_sk.pdf)
 
 slovenščina (SL) (141.23 KB - PDF)
 
-**First published:**
-
-08/04/2014
-
-**Last updated:**
-
-14/09/2020
+**First published:** 08/04/2014 **Last updated:** 14/09/2020
 
 [View](/sl/documents/overview/latuda-epar-medicine-overview_sl.pdf)
 
 Suomi (FI) (117.55 KB - PDF)
 
-**First published:**
-
-08/04/2014
-
-**Last updated:**
-
-14/09/2020
+**First published:** 08/04/2014 **Last updated:** 14/09/2020
 
 [View](/fi/documents/overview/latuda-epar-medicine-overview_fi.pdf)
 
 svenska (SV) (118.67 KB - PDF)
 
-**First published:**
-
-08/04/2014
-
-**Last updated:**
-
-14/09/2020
+**First published:** 08/04/2014 **Last updated:** 14/09/2020
 
 [View](/sv/documents/overview/latuda-epar-medicine-overview_sv.pdf)
 
@@ -379,9 +247,7 @@ Latuda : EPAR - Risk management plan
 
 English (EN) (1.21 MB - PDF)
 
-**First published:** 13/05/2014
-
-**Last updated:** 13/12/2024
+**First published:** 13/05/2014 **Last updated:** 13/12/2024
 
 [View](/en/documents/rmp/latuda-epar-risk-management-plan_en.pdf)
 
@@ -389,305 +255,161 @@ English (EN) (1.21 MB - PDF)
 
 Latuda : EPAR - Product Information
 
-English (EN) (285.66 KB - PDF)
+English (EN) (321.83 KB - PDF)
 
-**First published:** 08/04/2014
-
-**Last updated:** 12/01/2026
+**First published:** 08/04/2014 **Last updated:** 08/05/2026
 
 [View](/en/documents/product-information/latuda-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-723)
+[Other languages (24)](#file-language-dropdown-805)
 
-български (BG) (484.69 KB - PDF)
+български (BG) (462.68 KB - PDF)
 
-**First published:**
-
-08/04/2014
-
-**Last updated:**
-
-12/01/2026
+**First published:** 08/04/2014 **Last updated:** 08/05/2026
 
 [View](/bg/documents/product-information/latuda-epar-product-information_bg.pdf)
 
-español (ES) (308.35 KB - PDF)
+español (ES) (326.1 KB - PDF)
 
-**First published:**
-
-08/04/2014
-
-**Last updated:**
-
-12/01/2026
+**First published:** 08/04/2014 **Last updated:** 08/05/2026
 
 [View](/es/documents/product-information/latuda-epar-product-information_es.pdf)
 
-čeština (CS) (357.48 KB - PDF)
+čeština (CS) (395.3 KB - PDF)
 
-**First published:**
-
-08/04/2014
-
-**Last updated:**
-
-12/01/2026
+**First published:** 08/04/2014 **Last updated:** 08/05/2026
 
 [View](/cs/documents/product-information/latuda-epar-product-information_cs.pdf)
 
-dansk (DA) (294.06 KB - PDF)
+dansk (DA) (315.65 KB - PDF)
 
-**First published:**
-
-08/04/2014
-
-**Last updated:**
-
-12/01/2026
+**First published:** 08/04/2014 **Last updated:** 08/05/2026
 
 [View](/da/documents/product-information/latuda-epar-product-information_da.pdf)
 
-Deutsch (DE) (350.64 KB - PDF)
+Deutsch (DE) (427.82 KB - PDF)
 
-**First published:**
-
-08/04/2014
-
-**Last updated:**
-
-12/01/2026
+**First published:** 08/04/2014 **Last updated:** 08/05/2026
 
 [View](/de/documents/product-information/latuda-epar-product-information_de.pdf)
 
-eesti keel (ET) (290.52 KB - PDF)
+eesti keel (ET) (323.56 KB - PDF)
 
-**First published:**
-
-08/04/2014
-
-**Last updated:**
-
-12/01/2026
+**First published:** 08/04/2014 **Last updated:** 08/05/2026
 
 [View](/et/documents/product-information/latuda-epar-product-information_et.pdf)
 
-ελληνικά (EL) (494.92 KB - PDF)
+ελληνικά (EL) (457.83 KB - PDF)
 
-**First published:**
-
-08/04/2014
-
-**Last updated:**
-
-12/01/2026
+**First published:** 08/04/2014 **Last updated:** 08/05/2026
 
 [View](/el/documents/product-information/latuda-epar-product-information_el.pdf)
 
-français (FR) (318.62 KB - PDF)
+français (FR) (363.42 KB - PDF)
 
-**First published:**
-
-08/04/2014
-
-**Last updated:**
-
-12/01/2026
+**First published:** 08/04/2014 **Last updated:** 08/05/2026
 
 [View](/fr/documents/product-information/latuda-epar-product-information_fr.pdf)
 
-hrvatski (HR) (322.46 KB - PDF)
+hrvatski (HR) (382.58 KB - PDF)
 
-**First published:**
-
-08/04/2014
-
-**Last updated:**
-
-12/01/2026
+**First published:** 08/04/2014 **Last updated:** 08/05/2026
 
 [View](/hr/documents/product-information/latuda-epar-product-information_hr.pdf)
 
-íslenska (IS) (291.91 KB - PDF)
+íslenska (IS) (325.63 KB - PDF)
 
-**First published:**
-
-08/04/2014
-
-**Last updated:**
-
-12/01/2026
+**First published:** 08/04/2014 **Last updated:** 08/05/2026
 
 [View](/is/documents/product-information/latuda-epar-product-information_is.pdf)
 
-italiano (IT) (341.81 KB - PDF)
+italiano (IT) (391.2 KB - PDF)
 
-**First published:**
-
-08/04/2014
-
-**Last updated:**
-
-12/01/2026
+**First published:** 08/04/2014 **Last updated:** 08/05/2026
 
 [View](/it/documents/product-information/latuda-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (386.27 KB - PDF)
+latviešu valoda (LV) (406.76 KB - PDF)
 
-**First published:**
-
-08/04/2014
-
-**Last updated:**
-
-12/01/2026
+**First published:** 08/04/2014 **Last updated:** 08/05/2026
 
 [View](/lv/documents/product-information/latuda-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (383.31 KB - PDF)
+lietuvių kalba (LT) (427.04 KB - PDF)
 
-**First published:**
-
-08/04/2014
-
-**Last updated:**
-
-12/01/2026
+**First published:** 08/04/2014 **Last updated:** 08/05/2026
 
 [View](/lt/documents/product-information/latuda-epar-product-information_lt.pdf)
 
-magyar (HU) (332.35 KB - PDF)
+magyar (HU) (418.11 KB - PDF)
 
-**First published:**
-
-08/04/2014
-
-**Last updated:**
-
-12/01/2026
+**First published:** 08/04/2014 **Last updated:** 08/05/2026
 
 [View](/hu/documents/product-information/latuda-epar-product-information_hu.pdf)
 
-Malti (MT) (414.12 KB - PDF)
+Malti (MT) (527.58 KB - PDF)
 
-**First published:**
-
-08/04/2014
-
-**Last updated:**
-
-12/01/2026
+**First published:** 08/04/2014 **Last updated:** 08/05/2026
 
 [View](/mt/documents/product-information/latuda-epar-product-information_mt.pdf)
 
-Nederlands (NL) (305.99 KB - PDF)
+Nederlands (NL) (327.66 KB - PDF)
 
-**First published:**
-
-08/04/2014
-
-**Last updated:**
-
-12/01/2026
+**First published:** 08/04/2014 **Last updated:** 08/05/2026
 
 [View](/nl/documents/product-information/latuda-epar-product-information_nl.pdf)
 
-norsk (NO) (282.59 KB - PDF)
+norsk (NO) (338.14 KB - PDF)
 
-**First published:**
-
-08/04/2014
-
-**Last updated:**
-
-12/01/2026
+**First published:** 08/04/2014 **Last updated:** 08/05/2026
 
 [View](/no/documents/product-information/latuda-epar-product-information_no.pdf)
 
-polski (PL) (411.08 KB - PDF)
+polski (PL) (431.65 KB - PDF)
 
-**First published:**
-
-08/04/2014
-
-**Last updated:**
-
-12/01/2026
+**First published:** 08/04/2014 **Last updated:** 08/05/2026
 
 [View](/pl/documents/product-information/latuda-epar-product-information_pl.pdf)
 
-português (PT) (328.81 KB - PDF)
+português (PT) (354.05 KB - PDF)
 
-**First published:**
-
-08/04/2014
-
-**Last updated:**
-
-12/01/2026
+**First published:** 08/04/2014 **Last updated:** 08/05/2026
 
 [View](/pt/documents/product-information/latuda-epar-product-information_pt.pdf)
 
-română (RO) (367.12 KB - PDF)
+română (RO) (427.4 KB - PDF)
 
-**First published:**
-
-08/04/2014
-
-**Last updated:**
-
-12/01/2026
+**First published:** 08/04/2014 **Last updated:** 08/05/2026
 
 [View](/ro/documents/product-information/latuda-epar-product-information_ro.pdf)
 
-slovenčina (SK) (346.33 KB - PDF)
+slovenčina (SK) (404.28 KB - PDF)
 
-**First published:**
-
-08/04/2014
-
-**Last updated:**
-
-12/01/2026
+**First published:** 08/04/2014 **Last updated:** 08/05/2026
 
 [View](/sk/documents/product-information/latuda-epar-product-information_sk.pdf)
 
-slovenščina (SL) (365.37 KB - PDF)
+slovenščina (SL) (439.27 KB - PDF)
 
-**First published:**
-
-08/04/2014
-
-**Last updated:**
-
-12/01/2026
+**First published:** 08/04/2014 **Last updated:** 08/05/2026
 
 [View](/sl/documents/product-information/latuda-epar-product-information_sl.pdf)
 
-Suomi (FI) (290.75 KB - PDF)
+Suomi (FI) (329.29 KB - PDF)
 
-**First published:**
-
-08/04/2014
-
-**Last updated:**
-
-12/01/2026
+**First published:** 08/04/2014 **Last updated:** 08/05/2026
 
 [View](/fi/documents/product-information/latuda-epar-product-information_fi.pdf)
 
-svenska (SV) (293.03 KB - PDF)
+svenska (SV) (310.94 KB - PDF)
 
-**First published:**
-
-08/04/2014
-
-**Last updated:**
-
-12/01/2026
+**First published:** 08/04/2014 **Last updated:** 08/05/2026
 
 [View](/sv/documents/product-information/latuda-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000319661 12/01/2026
+**Latest procedure affecting product information:** VR/0000341353
+
+06/05/2026
 
 icon globe
 
@@ -707,305 +429,177 @@ Latuda : EPAR - All Authorised presentations
 
 English (EN) (27.72 KB - PDF)
 
-**First published:** 08/04/2014
-
-**Last updated:** 08/04/2014
+**First published:** 08/04/2014 **Last updated:** 08/04/2014
 
 [View](/en/documents/all-authorised-presentations/latuda-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-150)
+[Other languages (24)](#file-language-dropdown-587)
 
 български (BG) (63.41 KB - PDF)
 
-**First published:**
-
-08/04/2014
-
-**Last updated:**
-
-08/04/2014
+**First published:** 08/04/2014 **Last updated:** 08/04/2014
 
 [View](/bg/documents/all-authorised-presentations/latuda-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (32.51 KB - PDF)
 
-**First published:**
-
-08/04/2014
-
-**Last updated:**
-
-08/04/2014
+**First published:** 08/04/2014 **Last updated:** 08/04/2014
 
 [View](/es/documents/all-authorised-presentations/latuda-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (46.58 KB - PDF)
 
-**First published:**
-
-08/04/2014
-
-**Last updated:**
-
-08/04/2014
+**First published:** 08/04/2014 **Last updated:** 08/04/2014
 
 [View](/cs/documents/all-authorised-presentations/latuda-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (33.1 KB - PDF)
 
-**First published:**
-
-08/04/2014
-
-**Last updated:**
-
-08/04/2014
+**First published:** 08/04/2014 **Last updated:** 08/04/2014
 
 [View](/da/documents/all-authorised-presentations/latuda-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (34.31 KB - PDF)
 
-**First published:**
-
-08/04/2014
-
-**Last updated:**
-
-08/04/2014
+**First published:** 08/04/2014 **Last updated:** 08/04/2014
 
 [View](/de/documents/all-authorised-presentations/latuda-epar-all-authorised-presentations_de.pdf)
 
 eesti keel (ET) (33.23 KB - PDF)
 
-**First published:**
-
-08/04/2014
-
-**Last updated:**
-
-08/04/2014
+**First published:** 08/04/2014 **Last updated:** 08/04/2014
 
 [View](/et/documents/all-authorised-presentations/latuda-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (62.3 KB - PDF)
 
-**First published:**
-
-08/04/2014
-
-**Last updated:**
-
-08/04/2014
+**First published:** 08/04/2014 **Last updated:** 08/04/2014
 
 [View](/el/documents/all-authorised-presentations/latuda-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (33.18 KB - PDF)
 
-**First published:**
-
-08/04/2014
-
-**Last updated:**
-
-08/04/2014
+**First published:** 08/04/2014 **Last updated:** 08/04/2014
 
 [View](/fr/documents/all-authorised-presentations/latuda-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (65.99 KB - PDF)
 
-**First published:**
-
-08/04/2014
-
-**Last updated:**
-
-08/04/2014
+**First published:** 08/04/2014 **Last updated:** 08/04/2014
 
 [View](/hr/documents/all-authorised-presentations/latuda-epar-all-authorised-presentations_hr.pdf)
 
 íslenska (IS) (31.27 KB - PDF)
 
-**First published:**
-
-08/04/2014
-
-**Last updated:**
-
-08/04/2014
+**First published:** 08/04/2014 **Last updated:** 08/04/2014
 
 [View](/is/documents/all-authorised-presentations/latuda-epar-all-authorised-presentations_is.pdf)
 
 italiano (IT) (34.75 KB - PDF)
 
-**First published:**
-
-08/04/2014
-
-**Last updated:**
-
-08/04/2014
+**First published:** 08/04/2014 **Last updated:** 08/04/2014
 
 [View](/it/documents/all-authorised-presentations/latuda-epar-all-authorised-presentations_it.pdf)
 
 latviešu valoda (LV) (60.58 KB - PDF)
 
-**First published:**
-
-08/04/2014
-
-**Last updated:**
-
-08/04/2014
+**First published:** 08/04/2014 **Last updated:** 08/04/2014
 
 [View](/lv/documents/all-authorised-presentations/latuda-epar-all-authorised-presentations_lv.pdf)
 
 lietuvių kalba (LT) (63.44 KB - PDF)
 
-**First published:**
-
-08/04/2014
-
-**Last updated:**
-
-08/04/2014
+**First published:** 08/04/2014 **Last updated:** 08/04/2014
 
 [View](/lt/documents/all-authorised-presentations/latuda-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (46.97 KB - PDF)
 
-**First published:**
-
-08/04/2014
-
-**Last updated:**
-
-08/04/2014
+**First published:** 08/04/2014 **Last updated:** 08/04/2014
 
 [View](/hu/documents/all-authorised-presentations/latuda-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (59.74 KB - PDF)
 
-**First published:**
-
-08/04/2014
-
-**Last updated:**
-
-08/04/2014
+**First published:** 08/04/2014 **Last updated:** 08/04/2014
 
 [View](/mt/documents/all-authorised-presentations/latuda-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (32.74 KB - PDF)
 
-**First published:**
-
-08/04/2014
-
-**Last updated:**
-
-08/04/2014
+**First published:** 08/04/2014 **Last updated:** 08/04/2014
 
 [View](/nl/documents/all-authorised-presentations/latuda-epar-all-authorised-presentations_nl.pdf)
 
 norsk (NO) (32.66 KB - PDF)
 
-**First published:**
-
-08/04/2014
-
-**Last updated:**
-
-08/04/2014
+**First published:** 08/04/2014 **Last updated:** 08/04/2014
 
 [View](/no/documents/all-authorised-presentations/latuda-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (45.8 KB - PDF)
 
-**First published:**
-
-08/04/2014
-
-**Last updated:**
-
-08/04/2014
+**First published:** 08/04/2014 **Last updated:** 08/04/2014
 
 [View](/pl/documents/all-authorised-presentations/latuda-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (33.4 KB - PDF)
 
-**First published:**
-
-08/04/2014
-
-**Last updated:**
-
-08/04/2014
+**First published:** 08/04/2014 **Last updated:** 08/04/2014
 
 [View](/pt/documents/all-authorised-presentations/latuda-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (60.9 KB - PDF)
 
-**First published:**
-
-08/04/2014
-
-**Last updated:**
-
-08/04/2014
+**First published:** 08/04/2014 **Last updated:** 08/04/2014
 
 [View](/ro/documents/all-authorised-presentations/latuda-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (45.79 KB - PDF)
 
-**First published:**
-
-08/04/2014
-
-**Last updated:**
-
-08/04/2014
+**First published:** 08/04/2014 **Last updated:** 08/04/2014
 
 [View](/sk/documents/all-authorised-presentations/latuda-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (47.79 KB - PDF)
 
-**First published:**
-
-08/04/2014
-
-**Last updated:**
-
-08/04/2014
+**First published:** 08/04/2014 **Last updated:** 08/04/2014
 
 [View](/sl/documents/all-authorised-presentations/latuda-epar-all-authorised-presentations_sl.pdf)
 
 Suomi (FI) (35.06 KB - PDF)
 
-**First published:**
-
-08/04/2014
-
-**Last updated:**
-
-08/04/2014
+**First published:** 08/04/2014 **Last updated:** 08/04/2014
 
 [View](/fi/documents/all-authorised-presentations/latuda-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (33.97 KB - PDF)
 
-**First published:**
-
-08/04/2014
-
-**Last updated:**
-
-08/04/2014
+**First published:** 08/04/2014 **Last updated:** 08/04/2014
 
 [View](/sv/documents/all-authorised-presentations/latuda-epar-all-authorised-presentations_sv.pdf)
 
 ## Product details
 
-Name of medicine Latuda Active substance lurasidone International non-proprietary name (INN) or common name lurasidone Therapeutic area (MeSH) Schizophrenia Anatomical therapeutic chemical (ATC) code N05AE05
+Name of medicine
+
+Latuda
+
+Active substance
+
+lurasidone
+
+International non-proprietary name (INN) or common name
+
+lurasidone
+
+Therapeutic area (MeSH)
+
+Schizophrenia
+
+Anatomical therapeutic chemical (ATC) code
+
+N05AE05
 
 ### Pharmacotherapeutic group
 
@@ -1017,13 +611,27 @@ Treatment of schizophrenia in adults aged 18 years and over.
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/002713 Marketing authorisation holder
+EMA product number
+
+EMEA/H/C/002713
+
+Marketing authorisation holder
 
 Aziende Chimiche Riunite Angelini Francesco S.p.A.
 
 Viale Amelia 70
 
-Opinion adopted 22/01/2014 Marketing authorisation issued 21/03/2014 Revision 29
+Opinion adopted
+
+22/01/2014
+
+Marketing authorisation issued
+
+21/03/2014
+
+Revision
+
+30
 
 ## Assessment history
 
@@ -1035,11 +643,9 @@ Collapse section
 
 Latuda : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (130.3 KB - PDF)
+English (EN) (154.78 KB - PDF)
 
-**First published:** 07/07/2025
-
-**Last updated:** 12/01/2026
+**First published:** 07/07/2025 **Last updated:** 08/05/2026
 
 [View](/en/documents/procedural-steps-after/latuda-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1047,17 +653,13 @@ Latuda : EPAR - Procedural steps taken and scientific information after authoris
 
 English (EN) (154.64 KB - PDF)
 
-**First published:** 11/08/2014
-
-**Last updated:** 07/07/2025
+**First published:** 11/08/2014 **Last updated:** 07/07/2025
 
 [View](/en/documents/procedural-steps-after/latuda-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 Latuda-H-C-2713-II-0029 : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/59804/2021
+Adopted Reference Number: EMA/59804/2021
 
 English (EN) (2.06 MB - PDF)
 
@@ -1067,9 +669,7 @@ English (EN) (2.06 MB - PDF)
 
 CHMP post-authorisation summary of positive opinion for Latuda (II-29)
 
-Adopted
-
-Reference Number: EMA/CHMP/386251/2020
+Adopted Reference Number: EMA/CHMP/386251/2020
 
 English (EN) (130.77 KB - PDF)
 
@@ -1079,9 +679,7 @@ English (EN) (130.77 KB - PDF)
 
 Latuda-H-C-2713-P46-0009 : EPAR - Assessment Report
 
-Adopted
-
-Reference Number: EMA/CHMP/471670/2019
+Adopted Reference Number: EMA/CHMP/471670/2019
 
 English (EN) (494.43 KB - PDF)
 
@@ -1091,9 +689,7 @@ English (EN) (494.43 KB - PDF)
 
 Latuda-H-C-2713-II-0021 : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/841602/2018
+Adopted Reference Number: EMA/841602/2018
 
 English (EN) (756.52 KB - PDF)
 
@@ -1103,15 +699,11 @@ English (EN) (756.52 KB - PDF)
 
 Latuda-H-C-2713-P46-008 : EPAR - Assessment Report
 
-Adopted
-
-Reference Number: EMA/172850/2018
+Adopted Reference Number: EMA/172850/2018
 
 English (EN) (1.56 MB - PDF)
 
-**First published:** 13/04/2018
-
-**Last updated:** 13/04/2018
+**First published:** 13/04/2018 **Last updated:** 13/04/2018
 
 [View](/en/documents/variation-report/latuda-h-c-2713-p46-008-epar-assessment-report_en.pdf)
 
@@ -1121,23 +713,17 @@ Reference Number: EMA/CHMP/733650/2017
 
 English (EN) (67.88 KB - PDF)
 
-**First published:** 13/12/2017
-
-**Last updated:** 13/12/2017
+**First published:** 13/12/2017 **Last updated:** 13/12/2017
 
 [View](/en/documents/scientific-conclusion/latuda-h-c-psusa-00010114-201610-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf)
 
 Latuda-H-C-2713-P46-0006-0007 : EPAR - Assessment Report
 
-Adopted
-
-Reference Number: EMA/CHMP/693084/2016
+Adopted Reference Number: EMA/CHMP/693084/2016
 
 English (EN) (748.35 KB - PDF)
 
-**First published:** 29/11/2016
-
-**Last updated:** 29/11/2016
+**First published:** 29/11/2016 **Last updated:** 29/11/2016
 
 [View](/en/documents/variation-report/latuda-h-c-2713-p46-0006-0007-epar-assessment-report_en.pdf)
 
@@ -1147,23 +733,17 @@ Reference Number: EMA/847570/2015
 
 English (EN) (66.89 KB - PDF)
 
-**First published:** 07/03/2016
-
-**Last updated:** 07/03/2016
+**First published:** 07/03/2016 **Last updated:** 07/03/2016
 
 [View](/en/documents/scientific-conclusion/latuda-h-c-psusa-00010114-201504-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf)
 
 Latuda-H-C-2713-P46-001.1 : EPAR - Assessment Report
 
-Adopted
-
-Reference Number: EMA/748413/2014
+Adopted Reference Number: EMA/748413/2014
 
 English (EN) (1.3 MB - PDF)
 
-**First published:** 27/03/2015
-
-**Last updated:** 27/03/2015
+**First published:** 27/03/2015 **Last updated:** 27/03/2015
 
 [View](/en/documents/variation-report/latuda-h-c-2713-p46-0011-epar-assessment-report_en.pdf)
 
@@ -1171,50 +751,46 @@ English (EN) (1.3 MB - PDF)
 
 Latuda : EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/113836/2014
+Adopted Reference Number: EMA/113836/2014
 
 English (EN) (2.76 MB - PDF)
 
-**First published:** 08/04/2014
-
-**Last updated:** 08/04/2014
+**First published:** 08/04/2014 **Last updated:** 08/04/2014
 
 [View](/en/documents/assessment-report/latuda-epar-public-assessment-report_en.pdf)
 
 CHMP summary of positive opinion for Latuda
 
-Adopted
-
-Reference Number: EMA/CHMP/26583/2014
+Adopted Reference Number: EMA/CHMP/26583/2014
 
 English (EN) (67.85 KB - PDF)
 
-**First published:** 24/01/2014
-
-**Last updated:** 24/01/2014
+**First published:** 24/01/2014 **Last updated:** 24/01/2014
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-latuda_en.pdf)
 
-#### News on Latuda
+## News on Latuda
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 20-23 July 2020](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-20-23-july-2020) 24/07/2020
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 20-23 July 2020](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-20-23-july-2020)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 20-23 January 2014](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-20-23-january-2014) 24/01/2014
+24/07/2020
 
-#### More information on Latuda
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 20-23 January 2014](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-20-23-january-2014)
+
+24/01/2014
+
+## More information on Latuda
 
 - [EMEA-001230-PIP01-11-M05 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001230-pip01-11-m05)
 - [Evaluation of the safety profile of lurasidone: a post-authorization safety study using United States administrative claims databases (Lurasidone PASS program) - post-authorisation study](https://catalogues.ema.europa.eu/study/40822)
 - [An observational, real world evidence study to describe clinical experience with lurasidone in the treatment of adult patients with schizophrenia in routine clinical practice in Europe (LATUDA) - post-authorisation study](https://catalogues.ema.europa.eu/study/46673)
 
-#### Topics
+## Topics
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 12/01/2026
+**This page was last updated on**
+
+08/05/2026
 
 ## Share this page
-
-[Back to top](#main-content)

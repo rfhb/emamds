@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-04-10 14:53:52
+document_datetime: 2026-05-12 10:11:24
 document_pages: 54
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/evrenzo-epar-product-information_en.pdf
 document_name: evrenzo-epar-product-information_en.pdf
 version: success
-processing_time: 36.8613967
-conversion_datetime: 2026-04-13 13:40:37.273882
+processing_time: 34.3752784
+conversion_datetime: 2026-05-13 13:10:36.285846
 docling_version:
-  docling-serve: 1.16.1
-  docling-jobkit: 1.16.0
-  docling: 2.87.0
-  docling-core: 2.73.0
-  docling-ibm-models: 3.13.0
-  docling-parse: 5.8.0
+  docling-serve: 1.17.0
+  docling-jobkit: 1.18.0
+  docling: 2.92.0
+  docling-core: 2.74.1
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.10.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -477,31 +477,7 @@ Four ESA-controlled DD Studies (2,354 patients on roxadustat; 2,360 patients on 
 
 <div style=\"page-break-after: always\"></div>
 
-Mean Hemoglobin (g/dL) +/- SE
-
-13
-
-12
-
-10
-
-9
-
-8
-
-Roxadustat
-
-Placebo
-
-Treatment
-
--#- Placebo
-
-· Roxadustat
-
 Table 4. Overview on Roxadustat phase 3 development program in anaemia with CKD
-
-0
 
 | Studies in NDD patients             | Studies in NDD patients                                             | Studies in NDD patients                                             | Studies in NDD patients                                             | Studies in NDD patients                                             | Studies in NDD patients                                             |
 |-------------------------------------|---------------------------------------------------------------------|---------------------------------------------------------------------|---------------------------------------------------------------------|---------------------------------------------------------------------|---------------------------------------------------------------------|
@@ -531,8 +507,6 @@ FAS: full analysis set; Hb: haemoglobin; NDD: non-dialysis dependent; SE: standa
 Key Hb efficacy endpoints in NDD CKD patients
 
 In NDD patients in need of anaemia treatment for Hb correction, the proportion of patients who achieved Hb response during the first 24 weeks was higher in the roxadustat group (80.2%) compared with placebo (8.7%). There was a statistically significant increase in Hb from baseline to weeks 28 to
-
-&lt; 9.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -573,35 +547,7 @@ In clinical studies, roxadustat was effective in achieving and maintaining targe
 
 <div style=\"page-break-after: always\"></div>
 
-Mean Hemoglobin (g/dL) +/- SE
-
-13
-
-12
-
-11
-
-10
-
-9
-
-8
-
-Roxadustat
-
-Active Control 1589 1533 1533 1533 1500 1505 1490 1487 1489 1466 1457
-
-Treatment
-
-Roxadustat
-
--*-
-
-Active Control
-
 Figure 2. Mean (SE) Hb up to week 52 (FAS); ID DD subpool (Hb correction)
-
-0
 
 <!-- image -->
 
@@ -944,7 +890,9 @@ The Netherlands
 
 <div style=\"page-break-after: always\"></div>
 
-## 8. MARKETING AUTHORISATION NUMBER(S)
+8.
+
+MARKETING AUTHORISATION NUMBER(S)
 
 12 x 1 film-coated tablets
 
@@ -954,15 +902,23 @@ EU/1/21/1574/001 - 005
 
 EU/1/21/1574/006 - 010
 
-## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
+9.
+
+DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
 Date of first authorisation: 18 August 2021
 
-Date of latest renewal:
+Date of latest renewal: 30 March 2026
 
-## 10. DATE OF REVISION OF THE TEXT
+10.
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
+DATE OF REVISION OF THE TEXT
+
+Detailed information on this medicinal product is available on the website of the European Medicines
+
+Agency https://www.ema.europa.eu.
+
+26
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1559,8 +1515,8 @@ NN
 
 Evrenzo 150 mg tablets roxadustat
 
-| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
-|------|-------------------------------------------|
+| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
+|------|------------------------------------------|
 
 Astellas
 
@@ -1585,7 +1541,9 @@ Lot
 
 ## Package leaflet: Information for the patient
 
-Evrenzo 20 mg film-coated tablets Evrenzo 50 mg film-coated tablets Evrenzo 70 mg film-coated tablets Evrenzo 100 mg film-coated tablets Evrenzo 150 mg film-coated tablets roxadustat
+Evrenzo 20 mg film-coated tablets Evrenzo 50 mg film-coated tablets Evrenzo 70 mg film-coated tablets Evrenzo 100 mg film-coated tablets Evrenzo 150 mg film-coated tablets
+
+roxadustat
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
@@ -1913,7 +1871,9 @@ Astellas d.o.o. Tel: +385 1670 0102
 
 ## Ireland
 
-Astellas Pharma Co. Ltd. Tel: +353 (0)1 4671555
+Astellas Pharma Co. Ltd.
+
+Tel: +353 (0)1 4671555
 
 ## Ísland
 
@@ -1922,10 +1882,6 @@ Vistor Sími: +354 535 7000
 ## Italia
 
 Astellas Pharma S.p.A. Tel: +39 (0)2 921381
-
-## Κύπρος
-
-Ελλάδα Astellas Pharmaceuticals AEBE Τηλ: +30 210 8189900
 
 ## Luxembourg/Luxemburg
 
@@ -1937,7 +1893,7 @@ Astellas Pharma Kft. Tel.: +36 1 577 8200
 
 ## Malta
 
-Astellas Pharmaceuticals AEBE Tel: +30 210 8189900
+Vivian Corporation Ltd. Tel: + 356 22588600
 
 ## Nederland
 
@@ -1975,11 +1931,13 @@ Astellas Pharma s.r.o. Tel: +421 2 4444 2157
 
 Astellas Pharma Puh/Tel: +358 (0)9 85606000
 
-## Sverige
-
-Astellas Pharma AB Tel: +46 (0)40-650 15 00
-
 <div style=\"page-break-after: always\"></div>
+
+## Κύπρος
+
+Novagem Ltd
+
+Τηλ: +357 22 483858
 
 ## Latvija
 
@@ -1992,3 +1950,9 @@ Tel: +371 67 619365
 ## Other sources of information
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
+
+## Sverige
+
+Astellas Pharma AB
+
+Tel: +46 (0)40-650 15 00

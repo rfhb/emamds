@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-06-26 10:58:12
-document_pages: 163
+document_datetime: 2026-05-11 09:00:50
+document_pages: 166
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/orencia-epar-product-information_en.pdf
 document_name: orencia-epar-product-information_en.pdf
 version: success
-processing_time: 45.1314909
-conversion_datetime: 2025-12-18 09:43:29.224189
+processing_time: 47.4496787
+conversion_datetime: 2026-05-13 12:53:07.984737
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.17.0
+  docling-jobkit: 1.18.0
+  docling: 2.92.0
+  docling-core: 2.74.1
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.10.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -28,7 +28,9 @@ ORENCIA 250 mg powder for concentrate for solution for infusion
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
-Each vial contains 250 mg of abatacept. Each mL contains 25 mg of abatacept, after reconstitution.
+Each vial contains 250 mg of abatacept.
+
+Each mL contains 25 mg of abatacept, after reconstitution.
 
 Abatacept is a fusion protein produced by recombinant DNA technology in Chinese hamster ovary cells.
 
@@ -91,13 +93,9 @@ Table 1: Dose of ORENCIA a
 | ≥ 60 kg to ≤ 100 kg      | 750 mg   |                   3 |
 | > 100 kg                 | 1,000 mg |                   4 |
 
-a  Approximating 10 mg/kg.
-
-b  Each vial provides 250 mg of abatacept for administration.
-
 No dose adjustment is required when used in combination with other DMARDs, corticosteroids, salicylates, nonsteroidal anti-inflammatory drugs (NSAIDs), or analgesics.
 
-Psoriatic arthritis
+## Psoriatic arthritis
 
 ## Adults
 
@@ -257,11 +255,9 @@ In rats, abatacept had no undesirable effects on male or female fertility (see s
 
 ## 4.7 Effects on ability to drive and use machines
 
-Based on its mechanism of action, abatacept is expected to have no or negligible influence on the ability to drive and use machines. However, dizziness and reduced visual acuity have been reported as
+Based on its mechanism of action, abatacept is expected to have no or negligible influence on the ability to drive and use machines. However, dizziness and reduced visual acuity have been reported as common and uncommon adverse reactions respectively from patients treated with ORENCIA, therefore if a patient experiences such symptoms, driving and use of machinery should be avoided.
 
 <div style=\"page-break-after: always\"></div>
-
-common and uncommon adverse reactions respectively from patients treated with ORENCIA, therefore if a patient experiences such symptoms, driving and use of machinery should be avoided.
 
 ## 4.8 Undesirable effects
 
@@ -281,12 +277,11 @@ Listed in Table 2 are adverse reactions observed in clinical trials and post-mar
 
 ## Table 2: Adverse reactions
 
-| Infections and infestations                                          | Very Common   | Upper respiratory tract infection (including tracheitis, nasopharyngitis, and sinusitis) Lower respiratory tract infection (including bronchitis), urinary tract infection, herpes infections (including herpes simplex, oral and herpes zoster), pneumonia, influenza Tooth infection, onychomycosis, sepsis, musculoskeletal infections, skin abscess,   |
-|----------------------------------------------------------------------|---------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|                                                                      | Common        | herpes,                                                                                                                                                                                                                                                                                                                                                    |
-|                                                                      | Uncommon      | pyelonephritis, rhinitis, ear infection                                                                                                                                                                                                                                                                                                                    |
-|                                                                      | Rare          | Tuberculosis, bacteraemia, gastrointestinal infection, pelvic inflammatory disease                                                                                                                                                                                                                                                                         |
-| Neoplasms benign, malignant and unspecified (incl. cysts and polyps) | Uncommon Rare | Basal cell carcinoma, skin papilloma Lymphoma, lung neoplasm malignant, squamous cell carcinoma                                                                                                                                                                                                                                                            |
+| Infections and infestations                                          | Very Common Common   | Upper respiratory tract infection (including tracheitis, nasopharyngitis, and sinusitis) Lower respiratory tract infection (including bronchitis), urinary tract infection, herpes infections (including herpes simplex, oral herpes, and herpes zoster), pneumonia, influenza Tooth infection, onychomycosis, sepsis, musculoskeletal infections, skin abscess,   |
+|----------------------------------------------------------------------|----------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                                                                      | Uncommon             | pyelonephritis, rhinitis, ear infection                                                                                                                                                                                                                                                                                                                            |
+|                                                                      | Rare                 | Tuberculosis, bacteraemia, gastrointestinal infection, pelvic inflammatory disease                                                                                                                                                                                                                                                                                 |
+| Neoplasms benign, malignant and unspecified (incl. cysts and polyps) | Uncommon Rare        | Basal cell carcinoma, skin papilloma Lymphoma, lung neoplasm malignant, squamous cell carcinoma                                                                                                                                                                                                                                                                    |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -305,12 +300,23 @@ Listed in Table 2 are adverse reactions observed in clinical trials and post-mar
 | Skin and subcutaneous tissue disorders          | Common Uncommon | Rash (including dermatitis) Increased tendency to bruise, dry skin, alopecia, pruritus, urticaria, psoriasis, acne, erythema, hyperhidrosis |
 | Musculoskeletal and connective tissue disorders | Uncommon        | Arthralgia, pain in extremity                                                                                                               |
 
-<div style=\"page-break-after: always\"></div>
+Reproductive system and breast disorders
 
-| Reproductive system and breast disorders   | Uncommon   | Amenorrhea, menorrhagia                  |
-|--------------------------------------------|------------|------------------------------------------|
-| General disorders and                      | Common     | Fatigue, asthenia                        |
-| administration site conditions             | Uncommon   | Influenza like illness, weight increased |
+Uncommon
+
+Amenorrhea, menorrhagia
+
+General disorders and administration site conditions
+
+Common
+
+Fatigue, asthenia
+
+Uncommon
+
+Influenza like illness, weight increased
+
+<div style=\"page-break-after: always\"></div>
 
 ## Description of selected adverse reactions
 
@@ -334,15 +340,17 @@ The most frequently reported malignancy in the placebo-controlled clinical trial
 
 The most frequently reported organ cancer in the placebo-controlled clinical trials was lung cancer 0.17 (0.05, 0.43) per 100 patient-years for abatacept-treated patients, 0 for placebo-treated patients and 0.12 (0.08, 0.17) per 100 patient-years in the cumulative period. The most common hematologic malignancy was lymphoma 0.04 (0, 0.24) per 100 patient-years for abatacept-treated patients, 0 for placebo-treated patients and 0.06 (0.03, 0.1) per 100 patient-years in the cumulative period.
 
+Registry studies in Denmark and Sweden have reported a higher risk of non-melanoma skin cancer in rheumatoid arthritis patients treated with abatacept compared to other DMARDs. In Denmark, standardised incidence rates (IR) for basal cell carcinoma (BCC) and squamous cell carcinoma (SCC) in abatacept-treated patients (n = 1,280) were 0.86/100 patient-years (95% CI 0.66-1.11) and 0.21/100 patient-years (95% CI 0.12-0.36), and age, sex and medical history adjusted hazard ratios (HR) for BCC and SCC in abatacept-treated patients were 1.49 (95% CI 1.07-2.09) and 2.49 (1.26-4.91) when compared to targeted DMARDs (n = 9,256). In Swedish data, IRs in abatacepttreated patients (n = 5,052) were 1.13/100 patient-years (95% CI 1.01-1.26) and 0.38/100 patient-years (95% CI 0.32-0.46) for BCC and SCC, and corresponding adjusted HRs were 1.11 (95% CI 0.98-1.25)
+
+<div style=\"page-break-after: always\"></div>
+
+and 1.61 (95% CI 1.29-1.99) in abatacept-treated patients when compared to biological/targeted DMARD-treated patients (n = 43,096). Abatacept-treated patients tended to have more severe rheumatoid arthritis and a higher co-morbidity burden at baseline. No increased risk of other malignancies was observed in these registry data.
+
 ## Infusion-related reactions
 
 Acute infusion-related events (adverse reactions occurring within 1 hour of the start of the infusion) in seven pooled intravenous studies (for studies II, III, IV and V see section 5.1) were more common in the abatacept-treated patients than the placebo-treated patients (5.2% for abatacept, 3.7% for placebo). The most frequently reported event with abatacept (1-2%) was dizziness.
 
-Acute infusion-related events that were reported in &gt; 0.1% and ≤ 1% of patients treated with abatacept included cardiopulmonary symptoms such as hypotension, decreased blood pressure, tachycardia, bronchospasm, and dyspnoea; other symptoms included myalgia, nausea, erythema, flushing, urticaria,
-
-<div style=\"page-break-after: always\"></div>
-
-hypersensitivity, pruritus, throat tightness, chest discomfort, chills, infusion site extravasation, infusion site pain, infusion site swelling, infusion related reaction, and rash. Most of these reactions were mild to moderate.
+Acute infusion-related events that were reported in &gt; 0.1% and ≤ 1% of patients treated with abatacept included cardiopulmonary symptoms such as hypotension, decreased blood pressure, tachycardia, bronchospasm, and dyspnoea; other symptoms included myalgia, nausea, erythema, flushing, urticaria, hypersensitivity, pruritus, throat tightness, chest discomfort, chills, infusion site extravasation, infusion site pain, infusion site swelling, infusion related reaction, and rash. Most of these reactions were mild to moderate.
 
 The occurrence of anaphylaxis remained rare during the double blind and the cumulative period. Hypersensitivity was reported uncommonly. Other reactions potentially associated with hypersensitivity to the medicinal product, such as hypotension, urticaria, and dyspnoea, that occurred within 24 hours of ORENCIA infusion, were uncommon.
 
@@ -364,6 +372,8 @@ Antibodies directed against the abatacept molecule were assessed by ELISA assays
 
 Samples with confirmed binding activity to CTLA-4 were assessed for the presence of neutralizing antibodies. Twenty-two of 48 evaluable patients showed significant neutralizing activity. The potential clinical relevance of neutralizing antibody formation is not known.
 
+<div style=\"page-break-after: always\"></div>
+
 Overall, there was no apparent correlation of antibody development to clinical response or adverse events. However, the number of patients that developed antibodies was too limited to make a definitive assessment. Because immunogenicity analyses are product-specific, comparison of antibody rates with those from other products is not appropriate.
 
 ## Safety information related to the pharmacological class
@@ -372,11 +382,7 @@ Abatacept is the first selective co-stimulation modulator. Information on the re
 
 ## Paediatric population
 
-Abatacept has been studied in patients with pJIA in two clinical trials (pJIA SC study and pJIA IV study). The pJIA SC study included 46 patients in the 2 to 5 year age cohort and 173 patients in the 6 to 17 year age cohort. The pJIA IV study included 190 patients in the 6 to 17 year age cohort. During
-
-<div style=\"page-break-after: always\"></div>
-
-the first 4-month open-label period, the overall safety profile in these 409 pJIA patients was similar to that observed in the RA population with the following exceptions in the pJIA patients:
+Abatacept has been studied in patients with pJIA in two clinical trials (pJIA SC study and pJIA IV study). The pJIA SC study included 46 patients in the 2 to 5 year age cohort and 173 patients in the 6 to 17 year age cohort. The pJIA IV study included 190 patients in the 6 to 17 year age cohort. During the first 4-month open-label period, the overall safety profile in these 409 pJIA patients was similar to that observed in the RA population with the following exceptions in the pJIA patients:
 
 -  Common adverse reactions: pyrexia
 -  Uncommon adverse reactions: haematuria, otitis (media and externa).
@@ -399,13 +405,13 @@ Antibodies directed against the entire abatacept molecule or to the CTLA-4 porti
 
 During the extension period of the pJIA studies (20 months in the pJIA SC study and 5 years in the pJIA IV study), the safety profile in the pJIA patients aged 6 to 17 years was comparable to that seen in adult patients. One patient was diagnosed with multiple sclerosis while in the extension period of the pJIA IV study. One serious adverse reaction of infection (limb abscess) was reported in the 2 to 5 year age cohort during the 20-month extension period of the pJIA SC study.
 
+<div style=\"page-break-after: always\"></div>
+
 Long-term safety data in 2 to 5 year age cohort with pJIA was limited, but the existing evidence did not reveal any new safety concern in this younger paediatric population. During the 24-month cumulative period of the pJIA SC study (4-month short term period plus 20-month extension period), a higher frequency of infections was reported in the 2 to 5 year age cohort (87.0%) compared to that reported in the 6 to 17 year age cohort (68.2%). This was mostly due to non-serious upper respiratory tract infections in the 2 to 5 year age cohort.
 
 ## Reporting of suspected adverse reactions
 
 Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 4.9 Overdose
 
@@ -427,17 +433,15 @@ Studies in vitro and in animal models demonstrate that abatacept modulates T lym
 
 ## Pharmacodynamic effects
 
-Dose-dependent reductions were observed with abatacept in serum levels of soluble interleukin2 receptor, a marker of T lymphocyte activation; serum interleukin-6, a product of activated synovial macrophages and fibroblast-like synoviocytes in rheumatoid arthritis; rheumatoid factor, an autoantibody produced by plasma cells; and C-reactive protein, an acute phase reactant of inflammation. In addition, serum levels of matrix metalloproteinase-3, which produces cartilage destruction and tissue re modelling, were decreased. Reductions in serum TNFα were also observed.
+Dose-dependent reductions were observed with abatacept in serum levels of soluble interleukin2 receptor, a marker of T lymphocyte activation; serum interleukin-6, a product of activated synovial macrophages and fibroblast-like synoviocytes in rheumatoid arthritis; rheumatoid factor, an autoantibody produced by plasma cells; and C-reactive protein, an acute phase reactant of inflammation. In addition, serum levels of matrix metalloproteinase-3, which produces cartilage destruction and tissue remodelling, were decreased. Reductions in serum TNFα were also observed.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Clinical efficacy and safety in adult rheumatoid arthritis
 
 The efficacy and safety of intravenous abatacept were assessed in randomised, double-blind, placebocontrolled clinical trials in adult patients with active rheumatoid arthritis diagnosed according to American College of Rheumatology (ACR) criteria. Studies I, II, III, V, and VI required patients to have at least 12 tender and 10 swollen joints at randomisation. Study IV did not require any specific number of tender or swollen joints.
 
-In studies I, II, and V the efficacy and safety of abatacept compared to placebo were assessed in patients with an inadequate response to methotrexate and who continued on their stable dose of methotrexate. In addition, study V investigated the safety and efficacy of abatacept or infliximab relative to placebo. In study III the efficacy and safety of abatacept were assessed in patients with an inadequate response to a TNF-inhibitor, with the TNF-inhibitor discontinued prior to randomisation;
-
-<div style=\"page-break-after: always\"></div>
-
-other DMARDs were permitted. Study IV primarily assessed safety in patients with active rheumatoid arthritis requiring additional intervention in spite of current therapy with non-biological and/or biological DMARDs; all DMARDs used at enrollment were continued. In study VI, the efficacy and safety of abatacept were assessed in methotrexate-naive, Rheumatoid Factor (RF) and/or anti-Cyclic Citrullinated Peptide 2 (Anti-CCP2)-positive patients with early, erosive rheumatoid arthritis (≤ 2 years disease duration) who were randomised to receive abatacept plus methotrexate or methotrexate plus placebo. Study SC-II investigated the relative efficacy and safety of abatacept and adalimumab, both given subcutaneously without an intravenous loading dose and with background MTX, in patients with moderate to severely active RA and an inadequate response to previous MTX therapy. In study SC-III, abatacept subcutaneous was evaluated in combination with methotrexate (MTX), or as abatacept monotherapy, and compared to MTX monotherapy in induction of remission following 12 months of treatment, and the possible maintenance of drug-free remission after complete drug withdrawal, in adult MTX-naive patients with highly active early, rheumatoid arthritis (mean DAS28-CRP of 5.4; mean symptom duration less than 6.7 months) with poor prognostic factors for rapidly progressive disease (e.g., anti-citrullinated protein antibodies [ACPA+], as measured by anti-CCP2 assay, and/or RF+, baseline joint erosions).
+In studies I, II, and V the efficacy and safety of abatacept compared to placebo were assessed in patients with an inadequate response to methotrexate and who continued on their stable dose of methotrexate. In addition, study V investigated the safety and efficacy of abatacept or infliximab relative to placebo. In study III the efficacy and safety of abatacept were assessed in patients with an inadequate response to a TNF-inhibitor, with the TNF-inhibitor discontinued prior to randomisation; other DMARDs were permitted. Study IV primarily assessed safety in patients with active rheumatoid arthritis requiring additional intervention in spite of current therapy with non-biological and/or biological DMARDs; all DMARDs used at enrollment were continued. In study VI, the efficacy and safety of abatacept were assessed in methotrexate-naive, Rheumatoid Factor (RF) and/or anti-Cyclic Citrullinated Peptide 2 (Anti-CCP2)-positive patients with early, erosive rheumatoid arthritis (≤ 2 years disease duration) who were randomised to receive abatacept plus methotrexate or methotrexate plus placebo. Study SC-II investigated the relative efficacy and safety of abatacept and adalimumab, both given subcutaneously without an intravenous loading dose and with background MTX, in patients with moderate to severely active RA and an inadequate response to previous MTX therapy. In study SC-III, abatacept subcutaneous was evaluated in combination with methotrexate (MTX), or as abatacept monotherapy, and compared to MTX monotherapy in induction of remission following 12 months of treatment, and the possible maintenance of drug-free remission after complete drug withdrawal, in adult MTX-naive patients with highly active early, rheumatoid arthritis (mean DAS28-CRP of 5.4; mean symptom duration less than 6.7 months) with poor prognostic factors for rapidly progressive disease (e.g., anti-citrullinated protein antibodies [ACPA+], as measured by anti-CCP2 assay, and/or RF+, baseline joint erosions).
 
 Study I patients were randomised to receive abatacept 2 or 10 mg/kg or placebo for 12 months. Study II, III, IV, and VI patients were randomised to receive a fixed dose approximating 10 mg/kg of abatacept or placebo for 12 (studies II, IV, and VI) or 6 months (study III). The dose of abatacept was 500 mg for patients weighing less than 60 kg, 750 mg for patients weighing 60 to 100 kg, and 1,000 mg for patients weighing greater than 100 kg. Study V patients were randomised to receive this same fixed dose of abatacept or 3 mg/kg infliximab or placebo for 6 months. Study V continued for an additional 6 months with the abatacept and infliximab groups only.
 
@@ -453,7 +457,7 @@ In abatacept-treated patients in studies II and III, statistically significant i
 
 <div style=\"page-break-after: always\"></div>
 
-## Table 3: Clinical responses in controlled trials
+Table 3: Clinical responses in controlled trials
 
 |                           | Percent of patients      | Percent of patients   | Percent of patients        | Percent of patients        | Percent of patients                  | Percent of patients                  |
 |---------------------------|--------------------------|-----------------------|----------------------------|----------------------------|--------------------------------------|--------------------------------------|
@@ -492,7 +496,9 @@ In abatacept-treated patients in studies II and III, statistically significant i
 
 a  Fixed dose approximating 10 mg/kg (see section 4.2).
 
-b  Concurrent DMARDs included one or more of the following: methotrexate, chloroquine/hydroxychloroquine, sulfasalazine, leflunomide, azathioprine, gold, and anakinra.
+b  Concurrent DMARDs included one or more of the following: methotrexate, chloroquine/hydroxychloroquine, sulfasalazine,
+
+leflunomide, azathioprine, gold, and anakinra.
 
 c  Major clinical response is defined as achieving an ACR 70 response for a continuous 6-month period.
 
@@ -500,11 +506,9 @@ d After 6 months, patients were given the opportunity to enter an open-label stu
 
 e  DAS28-CRP Remission is defined as a DAS28-CRP score &lt; 2.6
 
-In the open-label extension of studies I, II, III, and VI durable and sustained ACR 20, 50, and 70 responses have been observed through 7 years, 5 years, 5 years, and 2 years, respectively, of abatacept treatment. In study I, ACR responses were assessed at 7 years in 43 patients with 72% ACR 20 responses, 58% ACR 50 responses, and 44% ACR 70 responses. In study II, ACR responses were assessed at 5 years in 270 patients with 84% ACR 20 responses, 61% ACR 50 responses, and 40% ACR 70 responses. In study III, ACR responses were assessed at 5 years in 91 patients with 74% ACR 20 responses, 51% ACR 50 responses, and 23% ACR 70 responses. In study VI, ACR responses
+In the open-label extension of studies I, II, III, and VI durable and sustained ACR 20, 50, and 70 responses have been observed through 7 years, 5 years, 5 years, and 2 years, respectively, of abatacept treatment. In study I, ACR responses were assessed at 7 years in 43 patients with 72% ACR 20 responses, 58% ACR 50 responses, and 44% ACR 70 responses. In study II, ACR responses were assessed at 5 years in 270 patients with 84% ACR 20 responses, 61% ACR 50 responses, and 40% ACR 70 responses. In study III, ACR responses were assessed at 5 years in 91 patients with 74% ACR 20 responses, 51% ACR 50 responses, and 23% ACR 70 responses. In study VI, ACR responses were assessed at 2 years in 232 patients with 85% ACR 20 responses, 74% ACR 50 responses, and 54% ACR 70 responses.
 
 <div style=\"page-break-after: always\"></div>
-
-were assessed at 2 years in 232 patients with 85% ACR 20 responses, 74% ACR 50 responses, and 54% ACR 70 responses.
 
 Greater improvements were seen with abatacept than with placebo in other measures of rheumatoid arthritis disease activity not included in the ACR response criteria, such as morning stiffness.
 
@@ -522,11 +526,9 @@ A randomised, double-blind study was conducted to assess the safety and efficacy
 
 ## Study SC-II: abatacept versus adalimumab
 
-A randomised, single (investigator)-blinded, non-inferiority study was conducted to assess the safety and efficacy of weekly subcutaneous (SC) abatacept without an abatacept intravenous (IV) loading dose versus every-other-weekly subcutaneous adalimumab, both with background MTX, in patients with an inadequate response to methotrexate (study SC-II). The primary endpoint showed non-inferiority (predefined margin of 12%) of ACR 20 response after 12 months of treatment, 64.8% (206/318) for the abatacept SC group and 63.4% (208/328) for the adalimumab SC group; treatment difference was 1.8% [95% confidence interval (CI): -5.6, 9.2], with comparable responses throughout the 24-month period. The respective values for ACR 20 at 24 months were 59.7% (190/318) for the abatacept SC group and 60.1% (197/328) for the adalimumab SC group. The respective values for ACR 50 and ACR 70 at 12 months and 24 months were consistent and similar for abatacept and adalimumab. The adjusted mean changes (standard error; SE) from baseline in DAS28-CRP were -2.35 (SE 0.08) [95% CI: -2.51, -2.19] and -2.33 (SE 0.08) [95% CI: -2.50, -2.17] in the SC abatacept group and the adalimumab group, respectively, at 24 months, with similar changes
+A randomised, single (investigator)-blinded, non-inferiority study was conducted to assess the safety and efficacy of weekly subcutaneous (SC) abatacept without an abatacept intravenous (IV) loading dose versus every-other-weekly subcutaneous adalimumab, both with background MTX, in patients with an inadequate response to methotrexate (study SC-II). The primary endpoint showed non-inferiority (predefined margin of 12%) of ACR 20 response after 12 months of treatment, 64.8% (206/318) for the abatacept SC group and 63.4% (208/328) for the adalimumab SC group; treatment difference was 1.8% [95% confidence interval (CI): -5.6, 9.2], with comparable responses throughout the 24-month period. The respective values for ACR 20 at 24 months were 59.7% (190/318) for the abatacept SC group and 60.1% (197/328) for the adalimumab SC group. The respective values for ACR 50 and ACR 70 at 12 months and 24 months were consistent and similar for abatacept and adalimumab. The adjusted mean changes (standard error; SE) from baseline in DAS28-CRP were -2.35 (SE 0.08) [95% CI: -2.51, -2.19] and -2.33 (SE 0.08) [95% CI: -2.50, -2.17] in the SC abatacept group and the adalimumab group, respectively, at 24 months, with similar changes over time. At 24 months, 50.6% (127/251) [95% CI: 44.4, 56.8] of patients in abatacept and 53.3% (130/244) [95% CI: 47.0, 59.5] of patients in adalimumab groups achieved DAS 28 &lt; 2.6. Improvement from baseline as measured by HAQ-DI at 24 months and over time was also similar between abatacept SC and adalimumab SC.
 
 <div style=\"page-break-after: always\"></div>
-
-over time. At 24 months, 50.6% (127/251) [95% CI: 44.4, 56.8] of patients in abatacept and 53.3% (130/244) [95% CI: 47.0, 59.5] of patients in adalimumab groups achieved DAS 28 &lt; 2.6. Improvement from baseline as measured by HAQ-DI at 24 months and over time was also similar between abatacept SC and adalimumab SC.
 
 Safety and structural damage assessments were conducted at one and two years. The overall safety profile with respect to adverse reactions was similar between the two groups over the 24-month period. After 24 months, adverse reactions were reported in 41.5% (132/318) and 50% (164/328) of abatacept and adalimumab-treated patients. Serious adverse reactions were reported in 3.5% (11/318) and 6.1% (20/328) of the respective group. At 24 months, 20.8% (66/318) of patients on abatacept and 25.3% (83/328) on adalimumab had discontinued.
 
@@ -560,10 +562,6 @@ Table 4: Remission rates at end of drug treatment and drug withdrawal phases in 
 | Odds Ratio (95% CI) vs. MTX                                                                                         | 2.51 (1.02, 6.18)                                                                                                   | N/A                                                                                                                 | 2.04 (0.81, 5.14)                                                                                                   |
 | P value                                                                                                             | 0.045                                                                                                               | N/A                                                                                                                 | N/A                                                                                                                 |
 
-a  DAS28-defined remission (DAS28-CRP &lt; 2.6)
-
-b SDAI criterion (SDAI ≤ 3.3)
-
 In SC-III the safety profiles of the three treatment groups (abatacept + MTX, abatacept monotherapy, MTX group) were overall similar. During the 12-month treatment period, adverse reactions were reported in 44.5% (53/119), 41.4% (48/116), and 44.0% (51/116) and serious adverse reactions were reported in 2.5% (3/119), 2.6% (3/116) and 0.9% (1/116) of patients treated in the three treatment groups, respectively. Serious infections were reported in 0.8% (1/119), 3.4% (4/116) and 0% (0/116) patients.
 
 ## Radiographic response
@@ -580,25 +578,20 @@ Table 5: Mean radiographic changes over 12 months in study II
 | Erosion score     |                    0.63 |                  1.14 |       0.029 |
 | JSN score         |                    0.58 |                  1.18 |       0.009 |
 
-a  Based on non-parametric analysis.
-
-In study VI, the mean change in TSS at 12 months was significantly lower in patients treated with abatacept plus methotrexate compared to those treated with methotrexate plus placebo. At 12 months 61% (148/242) of the patients treated with abatacept plus methotrexate and 53% (128/242) of the patients treated with methotrexate plus placebo had no progression (TSS ≤ 0). The progression of structural damage was lower in patients receiving continuous abatacept plus methotrexate treatment (for 24 months) compared to patients who initially received methotrexate plus placebo (for 12 months) and were switched to abatacept plus methotrexate for the next 12 months. Among the patients who entered the open-label 12-month period, 59% (125/213) of patients receiving continuous abatacept
+In study VI, the mean change in TSS at 12 months was significantly lower in patients treated with abatacept plus methotrexate compared to those treated with methotrexate plus placebo. At 12 months 61% (148/242) of the patients treated with abatacept plus methotrexate and 53% (128/242) of the patients treated with methotrexate plus placebo had no progression (TSS ≤ 0). The progression of structural damage was lower in patients receiving continuous abatacept plus methotrexate treatment (for 24 months) compared to patients who initially received methotrexate plus placebo (for 12 months) and were switched to abatacept plus methotrexate for the next 12 months. Among the patients who entered the open-label 12-month period, 59% (125/213) of patients receiving continuous abatacept plus methotrexate treatment and 48% (92/192) of patients who initially received methotrexate and switched to combination with abatacept had no progression.
 
 <div style=\"page-break-after: always\"></div>
-
-plus methotrexate treatment and 48% (92/192) of patients who initially received methotrexate and switched to combination with abatacept had no progression.
 
 In study SC-III, structural joint damage was assessed by MRI. The abatacept + MTX group had less progression in structural damage compared with MTX group as reflected by mean treatment difference of the abatacept + MTX group versus MTX group (Table 6).
 
 Table 6: Structural and inflammatory MRI assessment in study SC-III
 
-| Mean Treatment Difference between Abatacept SC+MTX vs. MTX at 12 Months (95% CI)*   | Mean Treatment Difference between Abatacept SC+MTX vs. MTX at 12 Months (95% CI)*   |
-|-------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|
-| MRI Erosion Score                                                                   | -1.22 (-2.20, -0.25)                                                                |
-| MRI Osteitis/Bone Oedema Score                                                      | -1.43 (-2.68, -0.18)                                                                |
-| MRI Synovitis Score                                                                 | -1.60 (-2.42, -0.78)                                                                |
+Mean Treatment Difference between Abatacept SC+MTX vs. MTX at 12 Months (95% CI)*
 
-* n = 119 for Abatacept SC + MTX; n = 116 for MTX
+| MRI Erosion Score              | -1.22 (-2.20, -0.25)   |
+|--------------------------------|------------------------|
+| MRI Osteitis/Bone Oedema Score | -1.43 (-2.68, -0.18)   |
+| MRI Synovitis Score            | -1.60 (-2.42, -0.78)   |
 
 ## Physical function response
 
@@ -617,14 +610,6 @@ Table 7: Improvement in physical function in controlled trials
 | Proportion of patients with a clinically meaningful improvement d |                      |                      |                                       |                                       |                                        |                                        |
 | Month 6                                                           | 72% †                | 63%                  | 61%***                                | 45%                                   | 47%***                                 | 23%                                    |
 | Month 12                                                          | 72% †                | 62%                  | 64%***                                | 39%                                   | NA e                                   | NA e                                   |
-
-*** p &lt; 0.001, abatacept vs. placebo.
-
-†  p &lt; 0.05, abatacept plus MTX vs MTX plus placebo
-
-a  Fixed dose approximating 10 mg/kg (see section 4.2).
-
-b  Concurrent DMARDs included one or more of the following: methotrexate, chloroquine/hydroxychloroquine, sulfasalazine, leflunomide, azathioprine, gold, and anakinra.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -650,7 +635,7 @@ A study of open-label abatacept on a background of nonbiologic DMARDs was conduc
 
 The efficacy and safety of abatacept were assessed in two randomised, double-blind, placebo-controlled trials (studies PsA-I and PsA-II) in adult patients, age 18 years and older. Patients had active PsA (≥ 3 swollen joints and ≥ 3 tender joints) despite prior treatment with DMARD therapy and had one qualifying psoriatic skin lesion of at least 2 cm in diameter.
 
-In study PsA-I, 170 patients received placebo or abatacept intravenously on day 1, 15, 29, and then every 28 days thereafter in a double blind manner for 24 weeks, followed by open-label abatacept 10 mg/kg intravenously every 28 days. Patients were randomised to receive placebo or abatacept 3 mg/kg, 10 mg/kg, or two doses of 30 mg/kg followed by 10 mg/kg, without escape for 24 weeks, followed by open label abatacept 10 mg/kg monthly intravenous every month. Patients were allowed to receive stable doses of concomitant methotrexate, low dose c orticosteroids (equivalent to ≤ 10 mg of prednisone) and/or NSAIDs during the trial.
+In study PsA-I, 170 patients received placebo or abatacept intravenously on day 1, 15, 29, and then every 28 days thereafter in a double blind manner for 24 weeks, followed by open-label abatacept 10 mg/kg intravenously every 28 days. Patients were randomised to receive placebo or abatacept 3 mg/kg, 10 mg/kg, or two doses of 30 mg/kg followed by 10 mg/kg, without escape for 24 weeks, followed by open label abatacept 10 mg/kg monthly intravenous every month. Patients were allowed to receive stable doses of concomitant methotrexate, low dose corticosteroids (equivalent to ≤ 10 mg of prednisone) and/or NSAIDs during the trial.
 
 In study PsA-II, 424 patients were randomised 1:1 to receive in a double-blind manner weekly doses of subcutaneous placebo or abatacept 125 mg without a loading dose for 24 weeks, followed by open-label abatacept 125 mg subcutaneous weekly. Patients were allowed to receive stable doses of concomitant methotrexate, sulfasalazine, leflunomide, hydroxychloroquine, low dose corticosteroids (equivalent to ≤ 10 mg of prednisone) and/or NSAIDs during the trial. Patients who had not achieved at least a 20% improvement from baseline in their swollen and tender joint counts by week 16 escaped to open-label abatacept 125 mg subcutaneous weekly.
 
@@ -666,20 +651,12 @@ The percent of patients achieving ACR 20, 50, or 70 responses at the recommended
 
 Table 8: Proportion of patients with ACR responses at week 24 in studies PsA-I and PsA-II
 
-| PsA-I a                      | PsA-I a          | PsA-I a                         | PsA-II b,c                  | PsA-II b,c       | PsA-II b,c                      |
-|------------------------------|------------------|---------------------------------|-----------------------------|------------------|---------------------------------|
-| Abatacept 10 mg/kg IV N = 40 | Placebo N = 42   | Estimate of difference (95% CI) | Abatacept 125 mg SC N = 213 | Placebo N = 211  | Estimate of difference (95% CI) |
-| 47.5%* 19.0%                 | 28.7 (9.4, 48.0) | 39.4%*                          | 22.3%                       | 17.2 (8.7, 25.6) | ACR 20                          |
-| 25.0% 2.4%                   | 22.7 (8.6, 36.9) | 19.2%                           | 12.3%                       | 6.9 (0.1, 13.7)  | ACR 50                          |
-| 12.5% 0%                     | 12.5 (2.3, 22.7) | 10.3%                           | 6.6%                        | 3.7 (-1.5, 8.9)  | ACR 70                          |
-
-*  p &lt; 0.05 vs placebo, p values not assessed for ACR 50 and ACR 70.
-
-a  37% of patients were previously treated with TNF inhibitor.
-
-b  61% of patients were previously treated with TNF inhibitor.
-
-c  Patients who had less than 20% improvement in tender or swollen joint counts at Week 16 met escape criteria and were considered non-responders.
+|             | PsA-I a          | PsA-I a          | PsA-I a                         | PsA-II b,c                  | PsA-II b,c       | PsA-II b,c                      |
+|-------------|------------------|------------------|---------------------------------|-----------------------------|------------------|---------------------------------|
+| 10 mg/kg IV | Abatacept N = 40 | Placebo N = 42   | Estimate of difference (95% CI) | Abatacept 125 mg SC N = 213 | Placebo N = 211  | Estimate of difference (95% CI) |
+| 47.5%*      | 19.0%            | 28.7 (9.4, 48.0) | 39.4%*                          | 22.3%                       | 17.2 (8.7, 25.6) | ACR 20                          |
+| 25.0%       | 2.4%             | 22.7 (8.6, 36.9) | 19.2%                           | 12.3%                       | 6.9 (0.1, 13.7)  | ACR 50                          |
+| 12.5%       | 0%               | 12.5 (2.3, 22.7) | 10.3%                           | 6.6%                        | 3.7 (-1.5, 8.9)  | ACR 70                          |
 
 A significantly higher proportion of patients achieved an ACR 20 response after treatment with abatacept 10 mg/kg intravenous in PsA-I or 125 mg subcutaneous in PsA-II compared to placebo at Week 24 in the overall study populations. Higher ACR 20 responses were observed with abatacept vs placebo regardless of prior TNF-inhibitor treatment in both studies. In the smaller study PsA-I, the ACR 20 responses with abatacept 10 mg/kg intravenous vs placebo in patients who were TNF inhibitor-naive were 55.6% vs 20.0%, respectively, and in patients who were TNF inhibitor-experienced were 30.8% vs 16.7%, respectively. In study PsA-II, the ACR 20 responses with abatacept 125 mg subcutaneous vs placebo in patients who were TNF inhibitor-naive were 44.0% vs 22.2%, respectively (21.9 [8.3, 35.6], estimate of difference [95% CI]), and in patients who were TNF inhibitor-experienced were 36.4% vs 22.3%, respectively (14.0 [3.3, 24.8], estimate of difference [95% CI]).
 
@@ -714,11 +691,9 @@ Flare was defined as:
 
 The patients entered in the trial were a mean of 12.4 years of age with mean disease duration of 4.4 years. They had active disease, with baseline mean active joint count of 16 and a mean number of joints with loss of motion of 16; and elevated C-reactive protein (CRP) levels (mean, 3.2 mg/dL) and ESRs (mean, 32 mm/h). Their pJIA subtypes at disease onset were: oligoarticular (16%), polyarticular (64%; 20% of the total were rheumatoid factor positive), and systemic (20%).
 
-Of the 190 patients enrolled, 170 completed Period A, 65% (123/190) achieved an ACR Pedi 30 response, and 122 were randomised to Period B. Responses were similar in all subtypes of pJIA studied and for patients with or without methotrexate use. Of the 133 (70%) patients with no prior
+Of the 190 patients enrolled, 170 completed Period A, 65% (123/190) achieved an ACR Pedi 30 response, and 122 were randomised to Period B. Responses were similar in all subtypes of pJIA studied and for patients with or without methotrexate use. Of the 133 (70%) patients with no prior TNF-inhibitor therapy, 101 (76%) achieved at least an ACR Pedi 30 response; of the 57 patients who had received prior TNF-inhibitor therapy, 22 (39%) achieved at least an ACR Pedi 30 response.
 
 <div style=\"page-break-after: always\"></div>
-
-TNF-inhibitor therapy, 101 (76%) achieved at least an ACR Pedi 30 response; of the 57 patients who had received prior TNF-inhibitor therapy, 22 (39%) achieved at least an ACR Pedi 30 response.
 
 During Period B, the time to disease flare for the patients randomised to placebo was significantly shorter than for those randomised to abatacept (primary endpoint, p = 0.0002; log-rank test). Significantly more placebo recipients flared during Period B (33/62; 53%) than those maintained on abatacept (12/60; 20%; chi-square p &lt; 0.001). The risk of disease flare for patients continuing on abatacept was less than one third that for placebo-treated patients (hazard ratio estimate = 0.31; 95% CI 0.16, 0.59).
 
@@ -738,10 +713,6 @@ Table 9: Proportion (%) of polyarticular JIA patients with ACR responses or inac
 | ACR90            | 13                          | 41                            | 15                            | 67                          | 40                        | 39                        |
 | Inactive disease | Not assessed                | 31                            | 10                            | 52                          | 33                        | 31                        |
 
-a  day 169 Last Observation Carried Forward (LOCF) for patients treated in Period C
-
-b  As observed
-
 Participants in Period C at day 1765 included 33 of the 58 Period B abatacept recipients, 30 of the 59 Period B placebo recipients, and 13 of the 36 Period A non-responders. The median duration of abatacept treatment in Period C was 1815 days (range 57-2,415 days; nearly 61 months). One hundred and two (67%) of the subjects had received at least 1,080 days (~ 36 months) of abatacept therapy in Period C. All patients had at least 4 months of prior, open-label abatacept treatment in Period A.
 
 Abatacept in pJIA patients has also been studied with the subcutaneous formulation in children and adolescents with moderate to severe active pJIA, ages 2 to 17 years with an inadequate response or intolerance to at least one DMARD, which may have included biologic agents. The safety and efficacy of abatacept in the ongoing SC study were consistent with the results seen with abatacept in the IV study (see section 5.1 of the ORENCIA solution for injection in pre-filled syringe SmPC for complete study description and results).
@@ -750,11 +721,9 @@ Abatacept in pJIA patients has also been studied with the subcutaneous formulati
 
 ## Adult rheumatoid arthritis
 
-After multiple intravenous infusions (days 1, 15, 30, and every 4 weeks thereafter), the pharmacokinetics of abatacept in rheumatoid arthritis patients showed dose-proportional increases of Cmax and AUC over the dose range of 2 mg/kg to 10 mg/kg. At 10 mg/kg, the mean terminal half-life was 13.1 days, ranging from 8 to 25 days. The mean distribution volume (Vss) was 0.07 L/kg and
+After multiple intravenous infusions (days 1, 15, 30, and every 4 weeks thereafter), the pharmacokinetics of abatacept in rheumatoid arthritis patients showed dose-proportional increases of Cmax and AUC over the dose range of 2 mg/kg to 10 mg/kg. At 10 mg/kg, the mean terminal half-life was 13.1 days, ranging from 8 to 25 days. The mean distribution volume (Vss) was 0.07 L/kg and ranged from 0.02 to 0.13 L/kg. The systemic clearance was approximately 0.22 mL/h/kg. Mean steady-state trough concentrations were approximately 25 mcg/mL, and mean Cmax concentrations were approximately 290 mcg/mL. No systemic accumulation of abatacept occurred upon continued repeated treatment with 10 mg/kg at monthly intervals in rheumatoid arthritis patients.
 
 <div style=\"page-break-after: always\"></div>
-
-ranged from 0.02 to 0.13 L/kg. The systemic clearance was approximately 0.22 mL/h/kg. Mean steady-state trough concentrations were approximately 25 mcg/mL, and mean Cmax concentrations were approximately 290 mcg/mL. No systemic accumulation of abatacept occurred upon continued repeated treatment with 10 mg/kg at monthly intervals in rheumatoid arthritis patients.
 
 Population pharmacokinetic analyses revealed that there was a trend toward higher clearance of abatacept with increasing body weight. Age and gender (when corrected for body weight) did not affect clearance. Methotrexate, NSAIDs, corticosteroids, and TNF-inhibitors were not found to influence abatacept clearance. No studies were conducted to examine the effects of either renal or hepatic impairment on the pharmacokinetics of abatacept.
 
@@ -873,7 +842,7 @@ Date of latest renewal: 15 March 2012
 
 ## 10. DATE OF REVISION OF THE TEXT
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu.
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1042,11 +1011,9 @@ Anti-rheumatic therapies have been associated with hepatitis B reactivation. The
 
 ## Progressive multifocal leukoencephalopathy (PML)
 
-Cases of PML have been reported in patients receiving abatacept mostly in combination with other immunosuppressive medication. PML can be fatal and should be considered in the differential diagnosis in immunosuppressed patients with new onset or worsening neurological, psychiatric and
+Cases of PML have been reported in patients receiving abatacept mostly in combination with other immunosuppressive medication. PML can be fatal and should be considered in the differential diagnosis in immunosuppressed patients with new onset or worsening neurological, psychiatric and cognitive symptoms. If symptoms suggestive of PML occur during ORENCIA therapy, treatment with ORENCIA should be discontinued and appropriate diagnostic measures initiated.
 
 <div style=\"page-break-after: always\"></div>
-
-cognitive symptoms. If symptoms suggestive of PML occur during ORENCIA therapy, treatment with ORENCIA should be discontinued and appropriate diagnostic measures initiated.
 
 ## Malignancies
 
@@ -1140,7 +1107,7 @@ In placebo-controlled clinical trials with abatacept, adverse reactions (ARs) we
 
 ## Tabulated list of adverse reactions
 
-Listed in Table 2 are adverse reactions observed in clinical trials and post-marketing experience presented by system organ class a nd frequency, using the following categories: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1,000 to &lt; 1/100); rare (≥ 1/10,000 to &lt; 1/1,000); very rare (&lt; 1/10,000). Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
+Listed in Table 2 are adverse reactions observed in clinical trials and post-marketing experience presented by system organ class and frequency, using the following categories: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1,000 to &lt; 1/100); rare (≥ 1/10,000 to &lt; 1/1,000); very rare (&lt; 1/10,000). Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1172,8 +1139,6 @@ Listed in Table 2 are adverse reactions observed in clinical trials and post-mar
 | Reproductive system and breast disorders             | Uncommon          | Amenorrhea, menorrhagia                                                                                                                     |
 | General disorders and administration site conditions | Common Uncommon   | Fatigue, asthenia, local injection site reactions, systemic injection reactions* Influenza like illness, weight increased                   |
 
-*(e.g. pruritus, throat tightness, dyspnoea)
-
 ## Description of selected adverse reactions
 
 ## Infections
@@ -1198,6 +1163,8 @@ The most frequently reported malignancy in the placebo-controlled clinical trial
 
 The most frequently reported organ cancer in the placebo-controlled clinical trials was lung cancer 0.17 (0.05, 0.43) per 100 patient-years for abatacept-treated patients, 0 for placebo-treated patients and 0.12 (0.08, 0.17) per 100 patient-years in the cumulative period. The most common hematologic malignancy was lymphoma 0.04 (0, 0.24) per 100 patient-years for abatacept-treated patients, 0 for placebo-treated patients, and 0.06 (0.03, 0.1) per 100 patient-years in the cumulative period.
 
+Registry studies in Denmark and Sweden have reported a higher risk of non-melanoma skin cancer in rheumatoid arthritis patients treated with abatacept compared to other DMARDs. In Denmark, standardised incidence rates (IR) for basal cell carcinoma (BCC) and squamous cell carcinoma (SCC) in abatacept-treated patients (n = 1,280) were 0.86/100 patient-years (95% CI 0.66-1.11) and 0.21/100 patient-years (95% CI 0.12-0.36), and age, sex and medical history adjusted hazard ratios (HR) for BCC and SCC in abatacept-treated patients were 1.49 (95% CI 1.07-2.09) and 2.49 (1.26-4.91) when compared to targeted DMARDs (n = 9,256). In Swedish data, IRs in abatacepttreated patients (n = 5,052) were 1.13/100 patient-years (95% CI 1.01-1.26) and 0.38/100 patient-years (95% CI 0.32-0.46) for BCC and SCC, and corresponding adjusted HRs were 1.11 (95% CI 0.98-1.25) and 1.61 (95% CI 1.29-1.99) in abatacept-treated patients when compared to biological/targeted DMARD-treated patients (n = 43,096). Abatacept-treated patients tended to have more severe rheumatoid arthritis and a higher co-morbidity burden at baseline. No increased risk of other malignancies was observed in these registry data.
+
 ## Adverse reactions in patients with chronic obstructive pulmonary disease (COPD)
 
 In study IV, there were 37 patients with COPD treated with intravenous abatacept and 17 treated with placebo. The COPD patients treated with abatacept developed adverse reactions more frequently than those treated with placebo (51.4% vs. 47.1%, respectively). Respiratory disorders occurred more frequently in abatacept-treated patients than in placebo-treated patients (10.8% vs. 5.9%, respectively); these included COPD exacerbation, and dyspnoea. A greater percentage of abatacept- than placebo-treated patients with COPD developed a serious adverse reaction (5.4% vs. 0%), including COPD exacerbation (1 of 37 patients [2.7%]) and bronchitis (1 of 37 patients [2.7%]).
@@ -1208,6 +1175,8 @@ Abatacept therapy did not lead to increased formation of autoantibodies, i.e., a
 
 The incidence rate of autoimmune disorders in abatacept-treated patients during the double-blind period was 8.8 (7.6, 10.1) per 100 person-years of exposure and for placebo-treated patients was 9.6 (7.9, 11.5) per 100 person-years of exposure. The incidence rate in abatacept-treated patients was 3.8 per 100 person-years in the cumulative period. The most frequently reported autoimmune-related disorders other than the indication being studied during the cumulative period were psoriasis, rheumatoid nodule, and Sjogren's syndrome.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Immunogenicity in adults treated with intravenous abatacept
 
 Antibodies directed against the abatacept molecule were assessed by ELISA assays in 3,985 rheumatoid arthritis patients treated for up to 8 years with abatacept. One hundred and eighty-seven of 3,877 (4.8%) patients developed anti-abatacept antibodies while on treatment. In patients assessed for anti-abatacept antibodies after discontinuation of abatacept (&gt; 42 days after last dose), 103 of 1,888 (5.5%) were seropositive.
@@ -1215,8 +1184,6 @@ Antibodies directed against the abatacept molecule were assessed by ELISA assays
 Samples with confirmed binding activity to CTLA-4 were assessed for the presence of neutralizing antibodies. Twenty-two of 48 evaluable patients showed significant neutralizing activity. The potential clinical relevance of neutralizing antibody formation is not known.
 
 Overall, there was no apparent correlation of antibody development to clinical response or adverse events. However, the number of patients that developed antibodies was too limited to make a definitive assessment. Because immunogenicity analyses are product-specific, comparison of antibody rates with those from other products is not appropriate.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Immunogenicity in adults treated with subcutaneous abatacept
 
@@ -1230,17 +1197,17 @@ In study SC-III, similar immunogenicity rates were seen in patients on treatment
 
 ## Immunogenicity and safety of abatacept upon withdrawal and restart of treatment
 
-A study in the subcutaneous program was conducted to investigate the effect of withdrawal (three months) and restart of abatacept subcutaneous treatment on immunogenicity. Upon withdrawal of abatacept subcutaneous treatment, the increased rate of immunogenicity was consistent with that seen upon discontinuation of abatacept administered intravenously. Upon reinitiating therapy, there were no injection reactions and no other safety concerns in patients who were withdrawn from subcutaneous therapy for up to 3 months relative to those who remained on subcutaneous therapy, whether therapy was reintroduced with or without an intravenous loading dose. The safety observed in the treatment arm that reinitiated therapy without an intravenous loading dose was also consistent with that observed in the other studies.
+A study in the subcutaneous programme was conducted to investigate the effect of withdrawal (three months) and restart of abatacept subcutaneous treatment on immunogenicity. Upon withdrawal of abatacept subcutaneous treatment, the increased rate of immunogenicity was consistent with that seen upon discontinuation of abatacept administered intravenously. Upon reinitiating therapy, there were no injection reactions and no other safety concerns in patients who were withdrawn from subcutaneous therapy for up to 3 months relative to those who remained on subcutaneous therapy, whether therapy was reintroduced with or without an intravenous loading dose. The safety observed in the treatment arm that reinitiated therapy without an intravenous loading dose was also consistent with that observed in the other studies.
 
 In SC-III, increased rates of immunogenicity were observed in subjects tested during 6 months of complete drug withdrawal in the abatacept+MTX and abatacept monotherapy groups (37.7% [29/77] and 44.1% [27/59], respectively) with generally low titer antibody responses. No clinical impact of these antibody responses was detected, and no safety concerns were observed upon reinitiation of abatacept therapy.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Injection Reactions in adult patients treated with subcutaneous abatacept
 
 Study SC-I compared the safety of abatacept including injection site reactions following subcutaneous or intravenous administration. The overall frequency of injection site reactions was 2.6% (19/736) and 2.5% (18/721) for the subcutaneous abatacept group and the subcutaneous placebo group (intravenous abatacept), respectively. All injection site reactions were described as mild to moderate (hematoma, pruritus, or erythema) and generally did not necessitate drug discontinuation. During the cumulative study period when all subjects treated with abatacept in 7 SC studies were included, the frequency of injection site reactions was 4.6% (116/2,538) with an incidence rate of 1.32 per 100 person-years.
 
 Postmarketing reports of systemic injection reactions (e.g. pruritus, throat tightness, dyspnoea) have been received following the use of subcutaneous ORENCIA.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Safety information related to the pharmacological class
 
@@ -1267,15 +1234,13 @@ Infections were the most commonly reported adverse events in patients with pJIA.
 
 Of the 219 patients with pJIA treated with subcutaneous abatacept during the first 4-month abatacept treatment, the frequency of local injection reactions was 4.6% (10/219); injection site pain and injection site erythema were the most frequently reported local injection reactions. No systemic hypersensitivity reactions were reported.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Immunogenicity in patients with pJIA treated with subcutaneous abatacept
 
 Antibodies directed against the whole abatacept molecule or to the CTLA-4 portion of abatacept were assessed by an ECL assay in patients with pJIA following repeated treatment with subcutaneous abatacept. Overall, 6.9% (15/218) of subjects (cohorts combined) had a positive immunogenicity response relative to baseline during the cumulative period, including the 4-month short-term treatment period, 20-month extension treatment period and the 6-month post abatacept follow-up period. In the 6 to 17 year age cohort, the overall rate of seropositivity during the cumulative period including post abatacept follow-up was 4.7% (8/172): 2.3% (4/172) on treatment and 13.6% (6/44) after discontinuation of abatacept (≥ 28 days after the last dose). In the 2 to 5 year age cohort, the overall rate of seropositivity during the cumulative period including post abatacept follow-up was 15.2% (7/46): 10.9% (5/46) on treatment and 37.5% (3/8) after discontinuation of abatacept (≥ 28 days after the last dose).
 
-Overall antibodies against abatacept were generally transient and of low titer. The absence of concomitant methotrexate did not appear to be associated with a higher rate of seropositivity. The significance of the higher incidence in the 2 to 5 year age cohort is unknown, taking into account the
-
-<div style=\"page-break-after: always\"></div>
-
-difference in sample size. The presence of antibodies was not associated with adverse reactions, or with changes in efficacy or serum abatacept concentrations, in either cohort.
+Overall antibodies against abatacept were generally transient and of low titer. The absence of concomitant methotrexate did not appear to be associated with a higher rate of seropositivity. The significance of the higher incidence in the 2 to 5 year age cohort is unknown, taking into account the difference in sample size. The presence of antibodies was not associated with adverse reactions, or with changes in efficacy or serum abatacept concentrations, in either cohort.
 
 ## Long-term extension period
 
@@ -1299,15 +1264,13 @@ Pharmacotherapeutic group: Immunosuppressants, selective immunosuppressants, ATC
 
 Abatacept is a fusion protein that consists of the extracellular domain of human cytotoxic T-lymphocyte-associated antigen 4 (CTLA-4) linked to a modified Fc portion of human immunoglobulin G1 (IgG1). Abatacept is produced by recombinant DNA technology in Chinese hamster ovary cells.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Mechanism of action
 
 Abatacept selectively modulates a key costimulatory signal required for full activation of T lymphocytes expressing CD28. Full activation of T lymphocytes requires two signals provided by antigen presenting cells: recognition of a specific antigen by a T cell receptor (signal 1) and a second, costimulatory signal. A major costimulatory pathway involves the binding of CD80 and CD86 molecules on the surface of antigen presenting cells to the CD28 receptor on T lymphocytes (signal 2). Abatacept selectively inhibits this costimulatory pathway by specifically binding to CD80 and CD86. Studies indicate that naive T lymphocyte responses are more affected by abatacept than memory T lymphocyte responses.
 
-Studies in vitro and in animal models demonstrate that abatacept modulates T lymphocyte-dependent antibody responses and inflammation. In vitro , abatacept attenuates human T lymphocyte activation as
-
-<div style=\"page-break-after: always\"></div>
-
-measured by decreased proliferation and cytokine production. Abatacept decreases antigen specific TNFα, interferon -γ, and interleukin -2 production by T lymphocytes.
+Studies in vitro and in animal models demonstrate that abatacept modulates T lymphocyte-dependent antibody responses and inflammation. In vitro , abatacept attenuates human T lymphocyte activation as measured by decreased proliferation and cytokine production. Abatacept decreases antigen specific TNFα, interferon -γ, and interleukin -2 production by T lymphocytes.
 
 ## Pharmacodynamic effects
 
@@ -1319,11 +1282,9 @@ The efficacy and safety of intravenous abatacept were assessed in randomised, do
 
 In studies I, II, and V the efficacy and safety of abatacept compared to placebo were assessed in patients with an inadequate response to methotrexate and who continued on their stable dose of methotrexate. In addition, study V investigated the safety and efficacy of abatacept or infliximab relative to placebo. In study III the efficacy and safety of abatacept were assessed in patients with an inadequate response to a TNF-inhibitor, with the TNF-inhibitor discontinued prior to randomisation; other DMARDs were permitted. Study IV primarily assessed safety in patients with active rheumatoid arthritis requiring additional intervention in spite of current therapy with non-biological and/or biological DMARDs; all DMARDs used at enrollment were continued. In study VI, the efficacy and safety of abatacept were assessed in methotrexate-naive, Rheumatoid Factor (RF) and/or anti-Cyclic Citrullinated Peptide 2 (Anti-CCP2)-positive patients with early, erosive rheumatoid arthritis (≤ 2 years disease duration) who were randomised to receive abatacept plus methotrexate or methotrexate plus placebo. In study SC-I, the goal was to demonstrate non-inferiority of the efficacy and comparability of the safety of abatacept subcutaneous relative to intravenous administration in subjects with moderate to severely active RA and experiencing inadequate response to MTX. Study SC-II investigated the relative efficacy and safety of abatacept and adalimumab, both given subcutaneously without an intravenous loading dose and with background MTX, in patients with moderate to severely active RA and an inadequate response to previous MTX therapy. In study SC-III, abatacept subcutaneous was evaluated in combination with methotrexate, or as abatacept monotherapy, and compared to MTX monotherapy in induction of remission following 12 months of treatment, and the possible maintenance of drug-free remission after complete drug withdrawal, in adult MTX-naive patients with highly active early rheumatoid arthritis (mean DAS28-CRP of 5.4; mean symptom duration less than 6.7 months) with poor prognostic factors for rapidly progressive disease (e.g. anti-citrullinated protein antibodies [ACPA+], as measured by anti-CCP2 assay, and/or RF+, baseline joint erosions).
 
-Study I patients were randomised to receive abatacept 2 or 10 mg/kg or placebo for 12 months. Study II, III, IV, and VI patients were randomised to receive a fixed dose approximating 10 mg/kg of abatacept or placebo for 12 (studies II, IV, and VI) or 6 months (study III). The dose of abatacept was 500 mg for patients weighing less than 60 kg, 750 mg for patients weighing 60 to 100 kg, and 1,000 mg for patients weighing greater than 100 kg. In study SC-I, abatacept was given subcutaneously to patients after a single loading dose of intravenous abatacept and then every week thereafter. Subjects continued taking their current dose of MTX from the day of randomisation. Study V patients were randomised to receive this same fixed dose of abatacept or 3 mg/kg infliximab
-
 <div style=\"page-break-after: always\"></div>
 
-or placebo for 6 months. Study V continued for an additional 6 months with the abatacept and infliximab groups only.
+Study I patients were randomised to receive abatacept 2 or 10 mg/kg or placebo for 12 months. Study II, III, IV, and VI patients were randomised to receive a fixed dose approximating 10 mg/kg of abatacept or placebo for 12 (studies II, IV, and VI) or 6 months (study III). The dose of abatacept was 500 mg for patients weighing less than 60 kg, 750 mg for patients weighing 60 to 100 kg, and 1,000 mg for patients weighing greater than 100 kg. In study SC-I, abatacept was given subcutaneously to patients after a single loading dose of intravenous abatacept and then every week thereafter. Subjects continued taking their current dose of MTX from the day of randomisation. Study V patients were randomised to receive this same fixed dose of abatacept or 3 mg/kg infliximab or placebo for 6 months. Study V continued for an additional 6 months with the abatacept and infliximab groups only.
 
 Studies I, II, III, IV, V, VI, SC-I, SC-II, and SC-III evaluated 339, 638, 389, 1441, 431, 509, 1371, 646, and 351 adult patients, respectively.
 
@@ -1339,21 +1300,9 @@ In study SC-I, abatacept administered subcutaneously (SC) was non-inferior relat
 
 No difference in clinical response between subcutaneous and intravenous abatacept was seen across the 3 weight groups. In SC-I, the ACR 20 response rates at day 169 for subcutaneous and intravenous abatacept were respectively 78.3% (472/603 SC) and 76.0% (456/600 IV) in patients &lt; 65 years, versus 61.1% (55/90 SC) and 74.4% (58/78 IV) for patients ≥ 65 years.
 
-Table 3: Clinical responses in controlled trials
-
-|               | Percent of patients        | Percent of patients        | Percent of patients        | Percent of patients        | Percent of patients                  | Percent of patients                  | Percent of patients         | Percent of patients         |
-|---------------|----------------------------|----------------------------|----------------------------|----------------------------|--------------------------------------|--------------------------------------|-----------------------------|-----------------------------|
-|               | Intravenous administration | Intravenous administration | Intravenous administration | Intravenous administration | Intravenous administration           | Intravenous administration           | Subcutaneous administration | Subcutaneous administration |
-|               | MTX-Naive                  | MTX-Naive                  | Inadequate response to MTX | Inadequate response to MTX | Inadequate response to TNF Inhibitor | Inadequate response to TNF Inhibitor | Inadequate response toMTX   | Inadequate response toMTX   |
-|               | Study VI                   | Study VI                   | Study II                   | Study II                   | Study III                            | Study III                            | Study SC-I                  | Study SC-I                  |
-| Response Rate | Abatacept a +MTX n = 256   | Placebo +MTX n = 253       | Abatacept a +MTX n = 424   | Placebo +MTX n = 214       | Abatacept a +DMARDs b n = 256        | Placebo +DMARDs b n = 133            | Abatacept f SC +MTX n = 693 | Abatacept f IV +MTX n = 678 |
-| ACR 20        |                            |                            |                            |                            |                                      |                                      |                             |                             |
-| Day 15        | 24%                        | 18%                        | 23%*                       | 14%                        | 18%**                                | 5%                                   | 25%                         | 25%                         |
-| Month 3       | 64% ††                     | 53%                        | 62%***                     | 37%                        | 46%***                               | 18%                                  | 68%                         | 69%                         |
-| Month 6       | 75% †                      | 62%                        | 68%***                     | 40%                        | 50%***                               | 20%                                  | 76% §                       | 76%                         |
-| Month 12      | 76% ‡                      | 62%                        | 73%***                     | 40%                        | NA d                                 | NA d                                 | NA                          | NA                          |
-
 <div style=\"page-break-after: always\"></div>
+
+Table 3: Clinical responses in controlled trials
 
 |                           | Percent of patients        | Percent of patients        | Percent of patients        | Percent of patients        | Percent of patients                  | Percent of patients                  | Percent of patients         | Percent of patients         |
 |---------------------------|----------------------------|----------------------------|----------------------------|----------------------------|--------------------------------------|--------------------------------------|-----------------------------|-----------------------------|
@@ -1361,6 +1310,11 @@ Table 3: Clinical responses in controlled trials
 |                           | MTX-Naive                  | MTX-Naive                  | Inadequate response to MTX | Inadequate response to MTX | Inadequate response to TNF Inhibitor | Inadequate response to TNF Inhibitor | Inadequate response toMTX   | Inadequate response toMTX   |
 |                           | Study VI                   | Study VI                   | Study II                   | Study II                   | Study III                            | Study III                            | Study SC-I                  | Study SC-I                  |
 | Response Rate             | Abatacept a +MTX n = 256   | Placebo +MTX n = 253       | Abatacept a +MTX n = 424   | Placebo +MTX n = 214       | Abatacept a +DMARDs b n = 256        | Placebo +DMARDs b n = 133            | Abatacept f SC +MTX n = 693 | Abatacept f IV +MTX n = 678 |
+| ACR 20                    |                            |                            |                            |                            |                                      |                                      |                             |                             |
+| Day 15                    | 24%                        | 18%                        | 23%*                       | 14%                        | 18%**                                | 5%                                   | 25%                         | 25%                         |
+| Month 3                   | 64% ††                     | 53%                        | 62%***                     | 37%                        | 46%***                               | 18%                                  | 68%                         | 69%                         |
+| Month 6                   | 75% †                      | 62%                        | 68%***                     | 40%                        | 50%***                               | 20%                                  | 76% §                       | 76%                         |
+| Month 12                  | 76% ‡                      | 62%                        | 73%***                     | 40%                        | NA d                                 | NA d                                 | NA                          | NA                          |
 | ACR 50                    |                            |                            |                            |                            |                                      |                                      |                             |                             |
 | Month 3                   | 40% ‡                      | 23%                        | 32%***                     | 8%                         | 18%**                                | 6%                                   | 33%                         | 39%                         |
 | Month 6                   | 53% ‡                      | 38%                        | 40%***                     | 17%                        | 20%***                               | 4%                                   | 52%                         | 50%                         |
@@ -1374,41 +1328,11 @@ Table 3: Clinical responses in controlled trials
 | Month 6                   | 28% ‡                      | 15%                        | NA                         | NA                         | NA                                   | NA                                   | 24% §§                      | 25%                         |
 | Month 12                  | 41% ‡                      | 23%                        | NA                         | NA                         | NA                                   | NA                                   | NA                          | NA                          |
 
-* p &lt; 0.05, abatacept vs. placebo.
-
-** p &lt; 0.01, abatacept vs. placebo.
-
-*** p &lt; 0.001, abatacept vs. placebo.
-
-†  p &lt; 0.01, abatacept plus MTX vs. MTX plus placebo
-
-‡  p &lt; 0.001, abatacept plus MTX vs. MTX plus placebo
-
-††  p &lt; 0.05, abatacept plus MTX vs. MTX plus placebo
-
-§  95% CI : -4.2, 4.8 (based on prespecified margin for non -inferiority of -7.5%)
-
-§§ ITT data is presented in table
-
-a  Fixed dose approximating 10 mg/kg (see section 4.2).
-
-b  Concurrent DMARDs included one or more of the following: methotrexate, chloroquine/hydroxychloroquine, sulfasalazine,
-
-leflunomide, azathioprine, gold, and anakinra.
-
-c  Major clinical response is defined as achieving an ACR 70 response for a continuous 6-month period.
-
-d After 6 months, patients were given the opportunity to enter an open-label study.
-
-e  DAS28-CRP Remission is defined as a DAS28-CRP score &lt; 2.6
-
-f Per protocol data is presented in table. For ITT; n = 736, 721 for subcutaneous (SC) and intravenous (IV) abatacept, respectively
-
-In the open-label extension of studies I, II, III, VI, and SC-I durable and sustained ACR 20, 50, and 70 responses have been observed through 7 years, 5 years, 5 years, 2 years, and 5 years, respectively, of abatacept treatment. In study I, ACR responses were assessed at 7 years in 43 patients with 72% ACR 20 responses, 58% ACR 50 responses, and 44% ACR 70 responses. In study II, ACR responses were assessed at 5 years in 270 patients with 84% ACR 20 responses, 61% ACR 50 responses, and 40% ACR 70 responses. In study III, ACR responses were assessed at 5 years in 91 patients with 74% ACR 20 responses, 51% ACR 50 responses, and 23% ACR 70 responses. In study VI, ACR responses were assessed at 2 years in 232 patients with 85% ACR 20 responses, 74% ACR 50 responses, and 54% ACR 70 responses. In study SC-I, ACR responses were assessed at
+In the open-label extension of studies I, II, III, VI, and SC-I durable and sustained ACR 20, 50, and 70 responses have been observed through 7 years, 5 years, 5 years, 2 years, and 5 years, respectively, of abatacept treatment. In study I, ACR responses were assessed at 7 years in 43 patients with 72% ACR 20 responses, 58% ACR 50 responses, and 44% ACR 70 responses. In study II, ACR responses were assessed at 5 years in 270 patients with 84% ACR 20 responses, 61% ACR 50
 
 <div style=\"page-break-after: always\"></div>
 
-5 years with 85% (356/421) ACR 20 responses, 66% (277/423) ACR 50 responses, and 45% (191/425) ACR 70 responses.
+responses, and 40% ACR 70 responses. In study III, ACR responses were assessed at 5 years in 91 patients with 74% ACR 20 responses, 51% ACR 50 responses, and 23% ACR 70 responses. In study VI, ACR responses were assessed at 2 years in 232 patients with 85% ACR 20 responses, 74% ACR 50 responses, and 54% ACR 70 responses. In study SC-I, ACR responses were assessed at 5 years with 85% (356/421) ACR 20 responses, 66% (277/423) ACR 50 responses, and 45% (191/425) ACR 70 responses.
 
 Greater improvements were seen with abatacept than with placebo in other measures of rheumatoid arthritis disease activity not included in the ACR response criteria, such as morning stiffness.
 
@@ -1424,9 +1348,11 @@ A randomised, double-blind study was conducted to assess the safety and efficacy
 
 ## Study SC-II: abatacept versus adalimumab
 
-A randomised, single (investigator)-blinded, non-inferiority study was conducted to assess the safety and efficacy of weekly subcutaneous (SC) abatacept without an abatacept intravenous (IV) loading dose versus every-other-weekly subcutaneous adalimumab, both with background MTX, in patients with an inadequate response to methotrexate (study SC-II). The primary endpoint showed non-inferiority (predefined margin of 12%) of ACR20 response after 12 months of treatment, 64.8% (206/318) for the abatacept SC group and 63.4% (208/328) for the adalimumab SC group; treatment difference was 1.8% [95% confidence interval (CI): -5.6, 9.2], with comparable responses throughout the 24-month period. The respective values for ACR 20 at 24 months were 59.7% (190/318) for the abatacept SC group and 60.1% (197/328) for the adalimumab SC group. The respective values for ACR 50 and ACR 70 at 12 months and 24 months were consistent and similar for abatacept and adalimumab. The adjusted mean changes (standard error; SE) from baseline in DAS28-CRP were -2.35 (SE 0.08) [95% CI: -2.51, -2.19] and -2.33 (SE 0.08) [95% CI: -2.50, -2.17] in the SC abatacept group and the adalimumab group, respectively, at 24 months, with similar changes over time. At 24 months, 50.6% (127/251) [95% CI: 44.4, 56.8] of patients in abatacept and 53.3% (130/244) [95% CI: 47.0, 59.5] of patients in adalimumab groups achieved DAS 28 &lt; 2.6. Improvement from baseline as measured by HAQ-DI at 24 months and over time was also similar between abatacept SC and adalimumab SC.
+A randomised, single (investigator)-blinded, non-inferiority study was conducted to assess the safety and efficacy of weekly subcutaneous (SC) abatacept without an abatacept intravenous (IV) loading dose versus every-other-weekly subcutaneous adalimumab, both with background MTX, in patients with an inadequate response to methotrexate (study SC-II). The primary endpoint showed non-inferiority (predefined margin of 12%) of ACR20 response after 12 months of treatment, 64.8% (206/318) for the abatacept SC group and 63.4% (208/328) for the adalimumab SC group; treatment difference was 1.8% [95% confidence interval (CI): -5.6, 9.2], with comparable responses throughout the 24-month period. The respective values for ACR 20 at 24 months were 59.7% (190/318) for the abatacept SC group and 60.1% (197/328) for the adalimumab SC group. The respective values for ACR 50 and ACR 70 at 12 months and 24 months were consistent and similar for abatacept and adalimumab. The adjusted mean changes (standard error; SE) from baseline in DAS28-CRP were -2.35 (SE 0.08) [95% CI: -2.51, -2.19] and -2.33 (SE 0.08) [95% CI: -2.50, -2.17] in the SC abatacept group and the adalimumab group, respectively, at 24 months, with similar changes over time. At 24 months, 50.6% (127/251) [95% CI: 44.4, 56.8] of patients in abatacept and 53.3% (130/244) [95% CI: 47.0, 59.5] of patients in adalimumab groups achieved DAS 28 &lt; 2.6.
 
 <div style=\"page-break-after: always\"></div>
+
+Improvement from baseline as measured by HAQ-DI at 24 months and over time was also similar between abatacept SC and adalimumab SC.
 
 Safety and structural damage assessments were conducted at one and two years. The overall safety profile with respect to adverse reactions was similar between the two groups over the 24-month period. After 24 months, adverse reactions were reported in 41.5% (132/318) and 50% (164/328) of abatacept and adalimumab-treated patients. Serious adverse reactions were reported in 3.5% (11/318) and 6.1% (20/328) of the respective group. At 24 months, 20.8% (66/318) of patients on abatacept and 25.3% (83/328) on adalimumab had discontinued.
 
@@ -1440,30 +1366,29 @@ A randomised and double-blinded study evaluated abatacept SC in combination with
 
 Table 4: Remission rates at end of drug treatment and drug withdrawal phases in study SC-III
 
-| Number of patients                                                                                                  | Abatacept SC + MTX n = 119                                                                                          | MTX n = 116                                                                                                         | Abatacept SC n = 116                                                                                                |
-|---------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|
-| Proportion of randomised patients with induction of remission after 12 months of treatment                          | Proportion of randomised patients with induction of remission after 12 months of treatment                          | Proportion of randomised patients with induction of remission after 12 months of treatment                          | Proportion of randomised patients with induction of remission after 12 months of treatment                          |
-| DAS28-Remission a                                                                                                   | 60.9%                                                                                                               | 45.2%                                                                                                               | 42.5%                                                                                                               |
-| Odds Ratio (95% CI) vs. MTX                                                                                         | 2.01 (1.18, 3.43)                                                                                                   | N/A                                                                                                                 | 0.92 (0.55, 1.57)                                                                                                   |
-| P value                                                                                                             | 0.010                                                                                                               | N/A                                                                                                                 | N/A                                                                                                                 |
-| SDAI Clinical Remission b                                                                                           | 42.0%                                                                                                               | 25.0%                                                                                                               | 29.3%                                                                                                               |
-| Estimate of Difference (95% CI) vs. MTX                                                                             | 17.02 (4.30, 29.73)                                                                                                 | N/A                                                                                                                 | 4.31 (-7.98, 16.61)                                                                                                 |
-| Boolean Clinical Remission                                                                                          | 37.0%                                                                                                               | 22.4%                                                                                                               | 26.7%                                                                                                               |
-| Estimate of Difference (95% CI) vs. MTX                                                                             | 14.56 (2.19, 26.94)                                                                                                 | N/A                                                                                                                 | 4.31 (-7.62, 16.24)                                                                                                 |
-| Proportion of randomised patients in remission at 12 months and at 18 months (6 months of complete drug withdrawal) | Proportion of randomised patients in remission at 12 months and at 18 months (6 months of complete drug withdrawal) | Proportion of randomised patients in remission at 12 months and at 18 months (6 months of complete drug withdrawal) | Proportion of randomised patients in remission at 12 months and at 18 months (6 months of complete drug withdrawal) |
-| DAS28-Remission a                                                                                                   | 14.8%                                                                                                               | 7.8%                                                                                                                | 12.4%                                                                                                               |
-| Odds Ratio (95% CI) vs. MTX                                                                                         | 2.51 (1.02, 6.18)                                                                                                   | N/A                                                                                                                 | 2.04 (0.81, 5.14)                                                                                                   |
-| P value                                                                                                             | 0.045                                                                                                               | N/A                                                                                                                 | N/A                                                                                                                 |
+| Number of patients                                                                         | Abatacept SC + MTX n = 119                                                                 | MTX n = 116                                                                                | Abatacept SC n = 116                                                                       |
+|--------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
+| Proportion of randomised patients with induction of remission after 12 months of treatment | Proportion of randomised patients with induction of remission after 12 months of treatment | Proportion of randomised patients with induction of remission after 12 months of treatment | Proportion of randomised patients with induction of remission after 12 months of treatment |
+| DAS28-Remission a                                                                          | 60.9%                                                                                      | 45.2%                                                                                      | 42.5%                                                                                      |
+| Odds Ratio (95% CI) vs. MTX P value                                                        | 2.01 (1.18, 3.43) 0.010                                                                    | N/A N/A                                                                                    | 0.92 (0.55, 1.57) N/A                                                                      |
+| SDAI Clinical Remission b                                                                  | 42.0%                                                                                      | 25.0%                                                                                      | 29.3%                                                                                      |
+| Estimate of Difference (95% CI) vs. MTX                                                    | 17.02 (4.30, 29.73)                                                                        | N/A                                                                                        | 4.31 (-7.98, 16.61)                                                                        |
+| Boolean Clinical Remission                                                                 | 37.0%                                                                                      | 22.4%                                                                                      | 26.7%                                                                                      |
+| Estimate of Difference (95% CI) vs. MTX                                                    | 14.56 (2.19, 26.94)                                                                        | N/A                                                                                        | 4.31 (-7.62, 16.24)                                                                        |
+
+| Proportion of randomised patients in remission at 12 months and at 18 months (6 months of complete drug withdrawal)   | Proportion of randomised patients in remission at 12 months and at 18 months (6 months of complete drug withdrawal)   | Proportion of randomised patients in remission at 12 months and at 18 months (6 months of complete drug withdrawal)   | Proportion of randomised patients in remission at 12 months and at 18 months (6 months of complete drug withdrawal)   |
+|-----------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
+| DAS28-Remission a                                                                                                     | 14.8%                                                                                                                 | 7.8%                                                                                                                  | 12.4%                                                                                                                 |
+| Odds Ratio (95% CI) vs. MTX                                                                                           | 2.51 (1.02, 6.18)                                                                                                     | N/A                                                                                                                   | 2.04 (0.81, 5.14)                                                                                                     |
+| P value                                                                                                               | 0.045                                                                                                                 | N/A                                                                                                                   | N/A                                                                                                                   |
 
 a  DAS28-defined remission (DAS28-CRP &lt; 2.6)
 
 b SDAI criterion (SDAI ≤ 3.3)
 
-In SC-III the safety profiles of the three treatment groups (abatacept + MTX, abatacept monotherapy, MTX group) were overall similar. During the 12-month treatment period, adverse reactions were reported in 44.5% (53/119), 41.4% (48/116), and 44.0% (51/116) and serious adverse reactions were
+In SC-III the safety profiles of the three treatment groups (abatacept + MTX, abatacept monotherapy, MTX group) were overall similar. During the 12-month treatment period, adverse reactions were reported in 44.5% (53/119), 41.4% (48/116), and 44.0% (51/116) and serious adverse reactions were reported in 2.5% (3/119), 2.6% (3/116) and 0.9% (1/116) of patients treated in the three treatment groups, respectively. Serious infections were reported in 0.8% (1/119), 3.4% (4/116) and 0% (0/116) patients.
 
 <div style=\"page-break-after: always\"></div>
-
-reported in 2.5% (3/119), 2.6% (3/116) and 0.9% (1/116) of patients treated in the three treatment groups, respectively. Serious infections were reported in 0.8% (1/119), 3.4% (4/116) and 0% (0/116) patients.
 
 ## Radiographic response
 
@@ -1497,8 +1422,6 @@ Table 6: Structural and inflammatory MRI assessment in study SC-III
 | MRI Osteitis/Bone Oedema Score                                                      | -1.43 (-2.68, -0.18)                                                                |
 | MRI Synovitis Score                                                                 | -1.60 (-2.42, -0.78)                                                                |
 
-* n = 119 for Abatacept SC + MTX; n = 116 for MTX
-
 ## Physical function response
 
 Improvement in physical function was measured by the Health Assessment Questionnaire Disability Index (HAQ-DI) in studies II, III, IV, V, and VI and the modified HAQ-DI in study I. In study SC-I, improvement from baseline as measured by HAQ-DI at 6 months and over time was similar between subcutaneous and intravenous administration. The results from studies II, III, and VI are shown in Table 7.
@@ -1517,25 +1440,9 @@ Table 7: Improvement in physical function in controlled trials
 | Month 6                                                           | 72% †                | 63%                  | 61%***                                | 45%                                   | 47%***                                 | 23%                                    |
 | Month 12                                                          | 72% †                | 62%                  | 64%***                                | 39%                                   | NA e                                   | NA e                                   |
 
-*** p &lt; 0.001, abatacept vs. placebo.
-
-†  p &lt; 0.05, abatacept plus MTX vs MTX plus placebo
-
-a  Fixed dose approximating 10 mg/kg (see section 4.2).
-
-b  Concurrent DMARDs included one or more of the following: methotrexate, chloroquine/hydroxychloroquine, sulfasalazine, leflunomide, azathioprine, gold, and anakinra.
-
-c Health Assessment Questionnaire; 0 = best, 3 = worst; 20 questions; 8 categories: dressing and grooming, arising, eating, walking, hygiene, reach, grip, and activities.
-
-d  Reduction in HAQ-DI of ≥ 0.3 units from baseline.
-
-e After 6 months, patients were given the opportunity to enter into an open-label study.
-
-In study II, among patients with clinically meaningful improvement at month 12, 88% retained the response at month 18, and 85% retained the response at month 24. During the open-label periods of
+In study II, among patients with clinically meaningful improvement at month 12, 88% retained the response at month 18, and 85% retained the response at month 24. During the open-label periods of studies I, II, III, and VI the improvement in physical function has been maintained through 7 years, 5 years, 5 years, and 2 years, respectively.
 
 <div style=\"page-break-after: always\"></div>
-
-studies I, II, III, and VI the improvement in physical function has been maintained through 7 years, 5 years, 5 years, and 2 years, respectively.
 
 In study SC-III, the proportion of subjects with a HAQ response as a measure of clinically meaningful improvement in physical function (reduction from baseline in HAQD1 score of ≥ 0.3) was greater for the abatacept + MTX group vs. the MTX group at month 12 (65.5% vs 44.0%, respectively; treatment difference vs. MTX group of 21.6% [95% CI: 8.3, 34.9]).
 
@@ -1567,20 +1474,12 @@ The percent of patients achieving ACR 20, 50, or 70 responses at the recommended
 
 Table 8: Proportion of patients with ACR responses at week 24 in studies PsA-I and PsA-II
 
-| PsA-I a                      | PsA-I a          | PsA-I a                         | PsA-II b,c                  | PsA-II b,c       | PsA-II b,c                      |
-|------------------------------|------------------|---------------------------------|-----------------------------|------------------|---------------------------------|
-| Abatacept 10 mg/kg IV N = 40 | Placebo N = 42   | Estimate of difference (95% CI) | Abatacept 125 mg SC N = 213 | Placebo N = 211  | Estimate of difference (95% CI) |
-| 47.5%* 19.0%                 | 28.7 (9.4, 48.0) | 39.4%*                          | 22.3%                       | 17.2 (8.7, 25.6) | ACR 20                          |
-| 25.0% 2.4%                   | 22.7 (8.6, 36.9) | 19.2%                           | 12.3%                       | 6.9 (0.1, 13.7)  | ACR 50                          |
-| 12.5% 0%                     | 12.5 (2.3, 22.7) | 10.3%                           | 6.6%                        | 3.7 (-1.5, 8.9)  | ACR 70                          |
-
-*  p &lt; 0.05 vs placebo, p values not assessed for ACR 50 and ACR 70.
-
-a  37% of patients were previously treated with TNF inhibitor.
-
-b  61% of patients were previously treated with TNF inhibitor.
-
-c  Patients who had less than 20% improvement in tender or swollen joint counts at Week 16 met escape criteria and were considered non-responders.
+|        | PsA-I a                      | PsA-I a        | PsA-I a                         | PsA-II b,c                  | PsA-II b,c      | PsA-II b,c                      |
+|--------|------------------------------|----------------|---------------------------------|-----------------------------|-----------------|---------------------------------|
+|        | Abatacept 10 mg/kg IV N = 40 | Placebo N = 42 | Estimate of difference (95% CI) | Abatacept 125 mg SC N = 213 | Placebo N = 211 | Estimate of difference (95% CI) |
+| ACR 20 | 47.5%*                       | 19.0%          | 28.7 (9.4, 48.0)                | 39.4%*                      | 22.3%           | 17.2 (8.7, 25.6)                |
+| ACR 50 | 25.0%                        | 2.4%           | 22.7 (8.6, 36.9)                | 19.2%                       | 12.3%           | 6.9 (0.1, 13.7)                 |
+| ACR 70 | 12.5%                        | 0%             | 12.5 (2.3, 22.7)                | 10.3%                       | 6.6%            | 3.7 (-1.5, 8.9)                 |
 
 A significantly higher proportion of patients achieved an ACR 20 response after treatment with abatacept 10 mg/kg intravenous in PsA-I or 125 mg subcutaneous in PsA-II compared to placebo at Week 24 in the overall study populations. Higher ACR 20 responses were observed with abatacept vs placebo regardless of prior TNF-inhibitor treatment in both studies. In the smaller study PsA-I, the ACR 20 responses with abatacept 10 mg/kg intravenous vs placebo in patients who were TNF inhibitor-naive were 55.6% vs 20.0%, respectively, and in patients who were TNF inhibitor-experienced were 30.8% vs 16.7%, respectively. In study PsA-II, the ACR 20 responses with abatacept 125 mg subcutaneous vs placebo in patients who were TNF inhibitor-naive were 44.0% vs 22.2%, respectively (21.9 [8.3, 35.6], estimate of difference [95% CI]), and in patients who were TNF inhibitor-experienced were 36.4% vs 22.3%, respectively (14.0 [3.3, 24.8], estimate of difference [95% CI]).
 
@@ -1592,11 +1491,9 @@ In study PsA-II, the proportion of radiographic non-progressors ( ≤ 0 change f
 
 ## Physical Function Response
 
-In study PsA-I, the proportion of patients with ≥ 0.30 decrease from baseline in HAQ-DI score was 45.0% with intravenous abatacept vs 19.0% with placebo (26.1 [6.8, 45.5], estimate of difference [95% CI]) at Week 24. In study PsA-II, the proportion of patients with at least ≥ 0.35 decrease from
+In study PsA-I, the proportion of patients with ≥ 0.30 decrease from baseline in HAQ-DI score was 45.0% with intravenous abatacept vs 19.0% with placebo (26.1 [6.8, 45.5], estimate of difference [95% CI]) at Week 24. In study PsA-II, the proportion of patients with at least ≥ 0.35 decrease from baseline in HAQ-DI was 31.0% with abatacept vs. 23.7% with placebo (7.2 [-1.1, 15.6], estimate of difference [95% CI]). Improvement in HAQ-DI scores was maintained or improved for up to 1 year with continuing abatacept treatment in both PsA-I and PsA-II studies.
 
 <div style=\"page-break-after: always\"></div>
-
-baseline in HAQ-DI was 31.0% with abatacept vs. 23.7% with placebo (7.2 [-1.1, 15.6], estimate of difference [95% CI]). Improvement in HAQ-DI scores was maintained or improved for up to 1 year with continuing abatacept treatment in both PsA-I and PsA-II studies.
 
 No significant changes in PASI scores with abatacept treatment were seen over the 24-week double-blind period. Patients entering the two PsA studies had mild to moderate psoriasis with median PASI scores of 8.6 in PsA-I and 4.5 in PsA-II. In study PsA-I, the proportions of patients achieving PASI 50 response was 28.6% with abatacept vs. 14.3% with placebo (14.3 [-15.3, 43.9], estimate of difference [95% CI]), and the proportion of patients who achieved PASI 75 response was 14.3% with abatacept vs. 4.8% with placebo (9.5 [-13.0, 32.0], estimate of difference [95% CI]). In study PsA-II, the proportion of patients who achieved PASI 50 response was 26.7% with abatacept vs. 19.6% with placebo (7.3 [-2.2, 16.7], estimate of difference [95% CI]), and the proportion of patients who achieved PASI 75 response was 16.4% with abatacept vs. 10.1% with placebo (6.4 [-1.3, 14.1], estimate of difference [95% CI]).
 
@@ -1627,8 +1524,6 @@ Table 9: Proportion (%) of polyarticular JIA patients with ACRP responses or ina
 | ACRP90            | 34.7%                |
 | ACRP100           | 20.1%                |
 | Inactive disease* | 34.2%                |
-
-* No active joints, physician's global assessment of disease severity ≤ 10 mm and CRP ≤ 0.6 mg/dL.
 
 The ACRP responses and inactive disease results were maintained through 2 years.
 
@@ -1671,10 +1566,6 @@ Table 10: Proportion (%) of polyarticular JIA patients with ACR responses or ina
 | ACR90            | 13                          | 41                            | 15                            | 67                          | 40                        | 39                        |
 | Inactive disease | Not assessed                | 31                            | 10                            | 52                          | 33                        | 31                        |
 
-a  day 169 Last Observation Carried Forward (LOCF) for patients treated in Period C
-
-b  As observed
-
 Participants in Period C at day 1765 included 33 of the 58 Period B abatacept recipients, 30 of the 59 Period B placebo recipients, and 13 of the 36 Period A non-responders. The median duration of abatacept treatment in Period C was 1815 days (range 57-2,415 days; nearly 61 months). One hundred and two (67%) of the subjects had received at least 1,080 days (~ 36 months) of abatacept therapy in Period C. All patients had at least 4 months of prior, open-label abatacept treatment in Period A.
 
 ## 5.2 Pharmacokinetic properties
@@ -1685,11 +1576,9 @@ The geometric mean estimate (90% confidence interval) for the bioavailability of
 
 A single study was conducted to determine the effect of monotherapy use of abatacept on immunogenicity following subcutaneous administration without an intravenous load. When the intravenous loading dose was not administered, a mean trough concentration of 12.6 mcg/mL was achieved after 2 weeks of dosing. The efficacy response over time in this study appeared consistent with studies that included an intravenous loading dose, however, the effect of no intravenous load on the onset of efficacy has not been formally studied.
 
-Consistent with the intravenous data, population pharmacokinetic analyses for subcutaneous abatacept in RA patients revealed that there was a trend toward higher clearance of abatacept with increasing
+Consistent with the intravenous data, population pharmacokinetic analyses for subcutaneous abatacept in RA patients revealed that there was a trend toward higher clearance of abatacept with increasing body weight. Age and gender (when corrected for body weight) did not affect apparent clearance. Concomitant MTX, NSAIDs, corticosteroids, and TNF-inhibitors did not influence abatacept apparent clearance.
 
 <div style=\"page-break-after: always\"></div>
-
-body weight. Age and gender (when corrected for body weight) did not affect apparent clearance. Concomitant MTX, NSAIDs, corticosteroids, and TNF-inhibitors did not influence abatacept apparent clearance.
 
 ## Adult psoriatic arthritis
 
@@ -1775,7 +1664,9 @@ Bristol-Myers Squibb Pharma EEIG Plaza 254 Blanchardstown Corporate Park 2 Dubli
 
 ## 8. MARKETING AUTHORISATION NUMBERS
 
-EU/1/07/389/004-010 EU/1/07/389/013-014
+EU/1/07/389/004-010
+
+EU/1/07/389/013-014
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -1785,7 +1676,7 @@ Date of latest renewal: 15 March 2012
 
 ## 10. DATE OF REVISION OF THE TEXT
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu.
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1912,11 +1803,9 @@ Co-administration of ORENCIA with biologic immunosuppressive or immunomodulatory
 
 ## Infections
 
-Serious infections, including sepsis and pneumonia, have been reported with abatacept (see section 4.8). Some of these infections have been fatal. Many of the serious infections have occurred in patients on concomitant immunosuppressive therapy which in addition to their underlying disease, could further predispose them to infections. Treatment with ORENCIA should not be initiated in patients with active infections until infections are controlled. Physicians should exercise caution when considering the use of ORENCIA in patients with a history of recurrent infections or underlying conditions which may predispose them to infections. Patients who develop a new infection while
+Serious infections, including sepsis and pneumonia, have been reported with abatacept (see section 4.8). Some of these infections have been fatal. Many of the serious infections have occurred in patients on concomitant immunosuppressive therapy which in addition to their underlying disease, could further predispose them to infections. Treatment with ORENCIA should not be initiated in patients with active infections until infections are controlled. Physicians should exercise caution when considering the use of ORENCIA in patients with a history of recurrent infections or underlying conditions which may predispose them to infections. Patients who develop a new infection while undergoing treatment with ORENCIA should be monitored closely. Administration of ORENCIA should be discontinued if a patient develops a serious infection.
 
 <div style=\"page-break-after: always\"></div>
-
-undergoing treatment with ORENCIA should be monitored closely. Administration of ORENCIA should be discontinued if a patient develops a serious infection.
 
 No increase of tuberculosis was observed in the pivotal placebo-controlled studies; however, all ORENCIA patients were screened for tuberculosis. The safety of ORENCIA in individuals with latent tuberculosis is unknown. There have been reports of tuberculosis in patients receiving ORENCIA (see section 4.8). Patients should be screened for latent tuberculosis prior to initiating ORENCIA. The available medical guidelines should also be taken into account.
 
@@ -2049,8 +1938,6 @@ Listed in Table 1 are adverse reactions observed in clinical trials and post-mar
 | Reproductive system and breast disorders             | Uncommon          | Amenorrhea, menorrhagia                                                                                                                     |
 | General disorders and administration site conditions | Common Uncommon   | Fatigue, asthenia, local injection site reactions, systemic injection reactions* Influenza like illness, weight increased                   |
 
-*(e.g. pruritus, throat tightness, dyspnoea)
-
 ## Description of selected adverse reactions
 
 ## Infections
@@ -2075,6 +1962,8 @@ The most frequently reported malignancy in the placebo-controlled clinical trial
 
 The most frequently reported organ cancer in the placebo-controlled clinical trials was lung cancer 0.17 (0.05, 0.43) per 100 patient-years for abatacept-treated patients, 0 for placebo-treated patients, and 0.12 (0.08, 0.17) per 100 patient-years in the cumulative period. The most common hematologic malignancy was lymphoma 0.04 (0, 0.24) per 100 patient-years for abatacept-treated patients, 0 for placebo-treated patients, and 0.06 (0.03, 0.1) per 100 patient-years in the cumulative period.
 
+Registry studies in Denmark and Sweden have reported a higher risk of non-melanoma skin cancer in rheumatoid arthritis patients treated with abatacept compared to other DMARDs. In Denmark, standardised incidence rates (IR) for basal cell carcinoma (BCC) and squamous cell carcinoma (SCC) in abatacept-treated patients (n = 1,280) were 0.86/100 patient-years (95% CI 0.66-1.11) and 0.21/100 patient-years (95% CI 0.12-0.36), and age, sex and medical history adjusted hazard ratios (HR) for BCC and SCC in abatacept-treated patients were 1.49 (95% CI 1.07-2.09) and 2.49 (1.26-4.91) when compared to targeted DMARDs (n = 9,256). In Swedish data, IRs in abatacepttreated patients (n = 5,052) were 1.13/100 patient-years (95% CI 1.01-1.26) and 0.38/100 patient-years (95% CI 0.32-0.46) for BCC and SCC, and corresponding adjusted HRs were 1.11 (95% CI 0.98-1.25) and 1.61 (95% CI 1.29-1.99) in abatacept-treated patients when compared to biological/targeted DMARD-treated patients (n = 43,096). Abatacept-treated patients tended to have more severe rheumatoid arthritis and a higher co-morbidity burden at baseline. No increased risk of other malignancies was observed in these registry data.
+
 ## Adverse reactions in patients with chronic obstructive pulmonary disease (COPD)
 
 In study IV, there were 37 patients with COPD treated with intravenous abatacept and 17 treated with placebo. The COPD patients treated with abatacept developed adverse reactions more frequently than those treated with placebo (51.4% vs. 47.1%, respectively). Respiratory disorders occurred more frequently in abatacept-treated patients than in placebo-treated patients (10.8% vs. 5.9%, respectively); these included COPD exacerbation, and dyspnoea. A greater percentage of abatacept- than placebo-treated patients with COPD developed a serious adverse reaction (5.4% vs. 0%), including COPD exacerbation (1 of 37 patients [2.7%]) and bronchitis (1 of 37 patients [2.7%]).
@@ -2085,6 +1974,8 @@ Abatacept therapy did not lead to increased formation of autoantibodies, i.e., a
 
 The incidence rate of autoimmune disorders in abatacept-treated patients during the double-blind period was 8.8 (7.6, 10.1) per 100 person-years of exposure and for placebo-treated patients was 9.6 (7.9, 11.5) per 100 person-years of exposure. The incidence rate in abatacept-treated patients was 3.8 per 100 person-years in the cumulative period. The most frequently reported autoimmune-related disorders other than the indication being studied during the cumulative period were psoriasis, rheumatoid nodule, and Sjogren's syndrome.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Immunogenicity in adults treated with intravenous abatacept
 
 Antibodies directed against the abatacept molecule were assessed by ELISA assays in 3,985 rheumatoid arthritis patients treated for up to 8 years with abatacept. One hundred and eighty-seven of 3,877 (4.8%) patients developed anti-abatacept antibodies while on treatment. In patients assessed for anti-abatacept antibodies after discontinuation of abatacept (&gt; 42 days after last dose), 103 of 1,888 (5.5%) were seropositive.
@@ -2092,8 +1983,6 @@ Antibodies directed against the abatacept molecule were assessed by ELISA assays
 Samples with confirmed binding activity to CTLA-4 were assessed for the presence of neutralizing antibodies. Twenty-two of 48 evaluable patients showed significant neutralizing activity. The potential clinical relevance of neutralizing antibody formation is not known.
 
 Overall, there was no apparent correlation of antibody development to clinical response or adverse events. However, the number of patients that developed antibodies was too limited to make a definitive assessment. Because immunogenicity analyses are product-specific, comparison of antibody rates with those from other products is not appropriate.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Immunogenicity in adults treated with subcutaneous abatacept
 
@@ -2107,15 +1996,15 @@ In study SC-III, similar immunogenicity rates were seen in patients on treatment
 
 ## Immunogenicity and safety of abatacept upon withdrawal and restart of treatment
 
-A study in the subcutaneous program was conducted to investigate the effect of withdrawal (three months) and restart of abatacept subcutaneous treatment on immunogenicity. Upon withdrawal of abatacept subcutaneous treatment, the increased rate of immunogenicity was consistent with that seen upon discontinuation of abatacept administered intravenously. Upon reinitiating therapy, there were no injection reactions and no other safety concerns in patients who were withdrawn from subcutaneous therapy for up to 3 months relative to those who remained on subcutaneous therapy, whether therapy was reintroduced with or without an intravenous loading dose. The safety observed in the treatment arm that reinitiated therapy without an intravenous loading dose was also consistent with that observed in the other studies.
+A study in the subcutaneous programme was conducted to investigate the effect of withdrawal (three months) and restart of abatacept subcutaneous treatment on immunogenicity. Upon withdrawal of abatacept subcutaneous treatment, the increased rate of immunogenicity was consistent with that seen upon discontinuation of abatacept administered intravenously. Upon reinitiating therapy, there were no injection reactions and no other safety concerns in patients who were withdrawn from subcutaneous therapy for up to 3 months relative to those who remained on subcutaneous therapy, whether therapy was reintroduced with or without an intravenous loading dose. The safety observed in the treatment arm that reinitiated therapy without an intravenous loading dose was also consistent with that observed in the other studies.
 
 In SC-III, increased rates of immunogenicity were observed in subjects tested during 6 months of complete drug withdrawal in the abatacept+MTX and abatacept monotherapy groups (37.7% [29/77] and 44.1% [27/59], respectively) with generally low titer antibody responses. No clinical impact of these antibody responses was detected, and no safety concerns were observed upon reinitiation of abatacept therapy.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Injection Reactions in adult patients treated with subcutaneous abatacept
 
 Study SC-I compared the safety of abatacept including injection site reactions following subcutaneous or intravenous administration. The overall frequency of injection site reactions was 2.6% (19/736) and 2.5% (18/721) for the subcutaneous abatacept group and the subcutaneous placebo group (intravenous abatacept), respectively. All injection site reactions were described as mild to moderate (hematoma, pruritus, or erythema) and generally did not necessitate drug discontinuation. During the cumulative study period when all subjects treated with abatacept in 7 SC studies were included the frequency of injection site reactions was 4.6% (116/2,538) with an incidence rate of 1.32 per 100 person-years. Postmarketing reports of systemic injection reactions (e.g. pruritus, throat tightness, dyspnoea) have been received following the use of subcutaneous ORENCIA.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Safety information related to the pharmacological class
 
@@ -2141,13 +2030,13 @@ Pharmacotherapeutic group: Immunosuppressants, selective immunosuppressants, ATC
 
 Abatacept is a fusion protein that consists of the extracellular domain of human cytotoxic T-lymphocyte-associated antigen 4 (CTLA-4) linked to a modified Fc portion of human immunoglobulin G1 (IgG1). Abatacept is produced by recombinant DNA technology in Chinese hamster ovary cells.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Mechanism of action
 
 Abatacept selectively modulates a key costimulatory signal required for full activation of T lymphocytes expressing CD28. Full activation of T lymphocytes requires two signals provided by antigen presenting cells: recognition of a specific antigen by a T cell receptor (signal 1) and a second, costimulatory signal. A major costimulatory pathway involves the binding of CD80 and CD86 molecules on the surface of antigen presenting cells to the CD28 receptor on T lymphocytes (signal 2). Abatacept selectively inhibits this costimulatory pathway by specifically binding to CD80 and CD86. Studies indicate that naive T lymphocyte responses are more affected by abatacept than memory T lymphocyte responses.
 
 Studies in vitro and in animal models demonstrate that abatacept modulates T lymphocyte-dependent antibody responses and inflammation. In vitro , abatacept attenuates human T lymphocyte activation as measured by decreased proliferation and cytokine production. Abatacept decreases antigen specific TNFα, interferon -γ, and interleukin -2 production by T lymphocytes.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Pharmacodynamic effects
 
@@ -2159,9 +2048,9 @@ The efficacy and safety of intravenous abatacept were assessed in randomised, do
 
 In studies I, II, and V the efficacy and safety of abatacept compared to placebo were assessed in patients with an inadequate response to methotrexate and who continued on their stable dose of methotrexate. In addition, study V investigated the safety and efficacy of abatacept or infliximab relative to placebo. In study III the efficacy and safety of abatacept were assessed in patients with an inadequate response to a TNF-inhibitor, with the TNF-inhibitor discontinued prior to randomisation; other DMARDs were permitted. Study IV primarily assessed safety in patients with active rheumatoid arthritis requiring additional intervention in spite of current therapy with non-biological and/or biological DMARDs; all DMARDs used at enrollment were continued. In study VI, the efficacy and safety of abatacept were assessed in methotrexate-naive, Rheumatoid Factor (RF) and/or anti-Cyclic Citrullinated Peptide 2 (Anti-CCP2)-positive patients with early, erosive rheumatoid arthritis (≤ 2 years disease duration) who were randomised to receive abatacept plus methotrexate or methotrexate plus placebo. In study SC-I, the goal was to demonstrate non-inferiority of the efficacy and comparability of the safety of abatacept subcutaneous relative to intravenous administration in subjects with moderate to severely active RA and experiencing inadequate response to MTX. Study SC-II investigated the relative efficacy and safety of abatacept and adalimumab, both given subcutaneously without an intravenous loading dose and with background MTX, in patients with moderate to severely active RA and an inadequate response to previous MTX therapy. In study SC-III, abatacept subcutaneous was evaluated in combination with methotrexate, or as abatacept monotherapy, and compared to MTX monotherapy in induction of remission following 12 months of treatment, and the possible maintenance of drug-free remission after complete drug withdrawal, in adult MTX-naive patients with highly active early rheumatoid arthritis (mean DAS28-CRP of 5.4; mean symptom duration less than 6.7 months) with poor prognostic factors for rapidly progressive disease (e.g. anti-citrullinated protein antibodies [ACPA+], as measured by anti-CCP2 assay, and/or RF+, baseline joint erosions).
 
-Study I patients were randomised to receive abatacept 2 or 10 mg/kg or placebo for 12 months. Study II, III, IV, and VI patients were randomised to receive a fixed dose approximating 10 mg/kg of abatacept or placebo for 12 (studies II, IV, and VI) or 6 months (study III). The dose of abatacept was 500 mg for patients weighing less than 60 kg, 750 mg for patients weighing 60 to 100 kg, and 1,000 mg for patients weighing greater than 100 kg. In study SC-I, abatacept was given subcutaneously to patients after a single loading dose of intravenous abatacept and then every week thereafter. Subjects continued taking their current dose of MTX from the day of randomisation. Study V patients were randomised to receive this same fixed dose of abatacept or 3 mg/kg infliximab or placebo for 6 months. Study V continued for an additional 6 months with the abatacept and infliximab groups only.
-
 <div style=\"page-break-after: always\"></div>
+
+Study I patients were randomised to receive abatacept 2 or 10 mg/kg or placebo for 12 months. Study II, III, IV, and VI patients were randomised to receive a fixed dose approximating 10 mg/kg of abatacept or placebo for 12 (studies II, IV, and VI) or 6 months (study III). The dose of abatacept was 500 mg for patients weighing less than 60 kg, 750 mg for patients weighing 60 to 100 kg, and 1,000 mg for patients weighing greater than 100 kg. In study SC-I, abatacept was given subcutaneously to patients after a single loading dose of intravenous abatacept and then every week thereafter. Subjects continued taking their current dose of MTX from the day of randomisation. Study V patients were randomised to receive this same fixed dose of abatacept or 3 mg/kg infliximab or placebo for 6 months. Study V continued for an additional 6 months with the abatacept and infliximab groups only.
 
 Studies I, II, III, IV, V, VI, SC-I, SC-II, and SC-III evaluated 339, 638, 389, 1441, 431, 509, 1371, 646, and 351 adult patients, respectively.
 
@@ -2177,39 +2066,34 @@ In study SC-I, abatacept administered subcutaneously (SC) was non-inferior relat
 
 No difference in clinical response between subcutaneous and intravenous abatacept was seen across the 3 weight groups. In SC-I, the ACR 20 response rates at day 169 for subcutaneous and intravenous abatacept were respectively 78.3% (472/603 SC) and 76.0% (456/600 IV) in patients &lt; 65 years, versus 61.1% (55/90 SC) and 74.4% (58/78 IV) for patients ≥ 65 years.
 
-Table 2: Clinical responses in controlled trials
-
-|               | Percent of patients        | Percent of patients        | Percent of patients        | Percent of patients        | Percent of patients                  | Percent of patients                  | Percent of patients         | Percent of patients         |
-|---------------|----------------------------|----------------------------|----------------------------|----------------------------|--------------------------------------|--------------------------------------|-----------------------------|-----------------------------|
-|               | Intravenous administration | Intravenous administration | Intravenous administration | Intravenous administration | Intravenous administration           | Intravenous administration           | Subcutaneous administration | Subcutaneous administration |
-|               | MTX-Naive                  | MTX-Naive                  | Inadequate response to MTX | Inadequate response to MTX | Inadequate response to TNF Inhibitor | Inadequate response to TNF Inhibitor | Inadequate response toMTX   | Inadequate response toMTX   |
-|               | Study VI                   | Study VI                   | Study II                   | Study II                   | Study III                            | Study III                            | Study SC-I                  | Study SC-I                  |
-| Response Rate | Abatacept a +MTX n = 256   | Placebo +MTX n = 253       | Abatacept a +MTX n = 424   | Placebo +MTX n = 214       | Abatacept a +DMARDs b n = 256        | Placebo +DMARDs b n = 133            | Abatacept f SC +MTX n = 693 | Abatacept f IV +MTX n = 678 |
-| ACR 20        |                            |                            |                            |                            |                                      |                                      |                             |                             |
-| Day 15        | 24%                        | 18%                        | 23%*                       | 14%                        | 18%**                                | 5%                                   | 25%                         | 25%                         |
-| Month 3       | 64% ††                     | 53%                        | 62%***                     | 37%                        | 46%***                               | 18%                                  | 68%                         | 69%                         |
-| Month 6       | 75% †                      | 62%                        | 68%***                     | 40%                        | 50%***                               | 20%                                  | 76% §                       | 76%                         |
-| Month 12      | 76% ‡                      | 62%                        | 73%***                     | 40%                        | NA d                                 | NA d                                 | NA                          | NA                          |
-| ACR 50        |                            |                            |                            |                            |                                      |                                      |                             |                             |
-| Month 3       | 40% ‡                      | 23%                        | 32%***                     | 8%                         | 18%**                                | 6%                                   | 33%                         | 39%                         |
-| Month 6       | 53% ‡                      | 38%                        | 40%***                     | 17%                        | 20%***                               | 4%                                   | 52%                         | 50%                         |
-| Month 12      | 57% ‡                      | 42%                        | 48%***                     | 18%                        | NA d                                 | NA d                                 | NA                          | NA                          |
-
 <div style=\"page-break-after: always\"></div>
+
+## Table 2: Clinical responses in controlled trials
 
 ## Percent of patients
 
-|                           | Intravenous administration   | Intravenous administration   | Intravenous administration   | Intravenous administration   | Intravenous administration                     | Intravenous administration                     | Subcutaneous administration          | Subcutaneous administration          |
-|---------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------------------------|------------------------------------------------|--------------------------------------|--------------------------------------|
-|                           | MTX-Naive                    | MTX-Naive                    | Inadequate response to MTX   | Inadequate response to MTX   | Inadequate response to TNF Inhibitor Study III | Inadequate response to TNF Inhibitor Study III | Inadequate response toMTX Study SC-I | Inadequate response toMTX Study SC-I |
-| ACR 70                    |                              |                              |                              |                              |                                                |                                                |                                      |                                      |
-| Month 3                   | 19% †                        | 10%                          | 13%***                       | 3%                           | 6% ††                                          | 1%                                             | 13%                                  | 16%                                  |
-| Month 6                   | 32% †                        | 20%                          | 20%***                       | 7%                           | 10%**                                          | 2%                                             | 26%                                  | 25%                                  |
-| Month 12                  | 43% ‡                        | 27%                          | 29%***                       | 6%                           | NA d                                           | NA d                                           | NA                                   | NA                                   |
-| Major Clinical Response c | 27% ‡                        | 12%                          | 14%***                       | 2%                           | NA d                                           | NA d                                           | NA                                   | NA                                   |
-| DAS28-CRP Remission e     |                              |                              |                              |                              |                                                |                                                |                                      |                                      |
-| Month 6                   | 28% ‡                        | 15%                          | NA                           | NA                           | NA                                             | NA                                             | 24% §§                               | 25%                                  |
-| Month 12                  | 41% ‡                        | 23%                          | NA                           | NA                           | NA                                             | NA                                             | NA                                   | NA                                   |
+|                           | Intravenous administration   | Intravenous administration   | Intravenous administration   | Intravenous administration   | Intravenous administration           | Intravenous administration           | Subcutaneous administration   | Subcutaneous administration   |
+|---------------------------|------------------------------|------------------------------|------------------------------|------------------------------|--------------------------------------|--------------------------------------|-------------------------------|-------------------------------|
+|                           | MTX-Naive                    | MTX-Naive                    | Inadequate response to MTX   | Inadequate response to MTX   | Inadequate response to TNF Inhibitor | Inadequate response to TNF Inhibitor | Inadequate response toMTX     | Inadequate response toMTX     |
+|                           | Study VI                     | Study VI                     | Study II                     | Study II                     | Study III                            | Study III                            | Study SC-I                    | Study SC-I                    |
+| Response Rate             | Abatacept a +MTX n = 256     | Placebo +MTX n = 253         | Abatacept a +MTX n = 424     | Placebo +MTX n = 214         | Abatacept a +DMARDs b n = 256        | Placebo +DMARDs b n = 133            | Abatacept f SC +MTX n = 693   | Abatacept f IV +MTX n = 678   |
+| ACR 20                    |                              |                              |                              |                              |                                      |                                      |                               |                               |
+| Day 15                    | 24%                          | 18%                          | 23%*                         | 14%                          | 18%**                                | 5%                                   | 25%                           | 25%                           |
+| Month 3                   | 64% ††                       | 53%                          | 62%***                       | 37%                          | 46%***                               | 18%                                  | 68%                           | 69%                           |
+| Month 6                   | 75% †                        | 62%                          | 68%***                       | 40%                          | 50%***                               | 20%                                  | 76% §                         | 76%                           |
+| Month 12                  | 76% ‡                        | 62%                          | 73%***                       | 40%                          | NA d                                 | NA d                                 | NA                            | NA                            |
+| ACR 50                    |                              |                              |                              |                              |                                      |                                      |                               |                               |
+| Month 3                   | 40% ‡                        | 23%                          | 32%***                       | 8%                           | 18%**                                | 6%                                   | 33%                           | 39%                           |
+| Month 6                   | 53% ‡                        | 38%                          | 40%***                       | 17%                          | 20%***                               | 4%                                   | 52%                           | 50%                           |
+| Month 12                  | 57% ‡                        | 42%                          | 48%***                       | 18%                          | NA d                                 | NA d                                 | NA                            | NA                            |
+| ACR 70                    |                              |                              |                              |                              |                                      |                                      |                               |                               |
+| Month 3                   | 19% †                        | 10%                          | 13%***                       | 3%                           | 6% ††                                | 1%                                   | 13%                           | 16%                           |
+| Month 6                   | 32% †                        | 20%                          | 20%***                       | 7%                           | 10%**                                | 2%                                   | 26%                           | 25%                           |
+| Month 12                  | 43% ‡                        | 27%                          | 29%***                       | 6%                           | NA d                                 | NA d                                 | NA                            | NA                            |
+| Major Clinical Response c | 27% ‡                        | 12%                          | 14%***                       | 2%                           | NA d                                 | NA d                                 | NA                            | NA                            |
+| DAS28-CRP Remission e     |                              |                              |                              |                              |                                      |                                      |                               |                               |
+| Month 6                   | 28% ‡                        | 15%                          | NA                           | NA                           | NA                                   | NA                                   | 24% §§                        | 25%                           |
+| Month 12                  | 41% ‡                        | 23%                          | NA                           | NA                           | NA                                   | NA                                   | NA                            | NA                            |
 
 * p &lt; 0.05, abatacept vs. placebo.
 
@@ -2229,7 +2113,9 @@ Table 2: Clinical responses in controlled trials
 
 a  Fixed dose approximating 10 mg/kg (see section 4.2).
 
-b  Concurrent DMARDs included one or more of the following: methotrexate, chloroquine/hydroxychloroquine, sulfasalazine, leflunomide, azathioprine, gold, and anakinra.
+b  Concurrent DMARDs included one or more of the following: methotrexate, chloroquine/hydroxychloroquine, sulfasalazine,
+
+leflunomide, azathioprine, gold, and anakinra.
 
 c  Major clinical response is defined as achieving an ACR 70 response for a continuous 6-month period.
 
@@ -2239,6 +2125,8 @@ e  DAS28-CRP Remission is defined as a DAS28-CRP score &lt; 2.6
 
 f Per protocol data is presented in table. For ITT; n = 736, 721 for subcutaneous (SC) and intravenous (IV) abatacept, respectively
 
+<div style=\"page-break-after: always\"></div>
+
 In the open-label extension of studies I, II, III, VI, and SC-I durable and sustained ACR 20, 50, and 70 responses have been observed through 7 years, 5 years, 5 years, 2 years, and 5 years, respectively, of abatacept treatment. In study I, ACR responses were assessed at 7 years in 43 patients with 72% ACR 20 responses, 58% ACR 50 responses, and 44% ACR 70 responses. In study II, ACR responses were assessed at 5 years in 270 patients with 84% ACR 20 responses, 61% ACR 50 responses, and 40% ACR 70 responses. In study III, ACR responses were assessed at 5 years in 91 patients with 74% ACR 20 responses, 51% ACR 50 responses, and 23% ACR 70 responses. In study VI, ACR responses were assessed at 2 years in 232 patients with 85% ACR 20 responses, 74% ACR 50 responses, and 54% ACR 70 responses. In study SC-I, ACR responses were assessed at 5 years with 85% (356/421) ACR 20 responses, 66% (277/423) ACR 50 responses, and 45% (191/425) ACR 70 responses.
 
 Greater improvements were seen with abatacept than with placebo in other measures of rheumatoid arthritis disease activity not included in the ACR response criteria, such as morning stiffness.
@@ -2246,8 +2134,6 @@ Greater improvements were seen with abatacept than with placebo in other measure
 ## DAS28 response
 
 Disease activity was also assessed using the Disease Activity Score 28. There was a significant improvement of DAS in studies II, III, V, and VI as compared to placebo or comparator.
-
-<div style=\"page-break-after: always\"></div>
 
 In study VI, which only included adults, a significantly higher proportion of patients in the abatacept plus methotrexate group (41%) achieved DAS28 (CRP)-defined remission (score &lt; 2.6) versus the methotrexate plus placebo group (23%) at year 1. The response at year 1 in the abatacept group was maintained through year 2.
 
@@ -2259,11 +2145,11 @@ A randomised, double-blind study was conducted to assess the safety and efficacy
 
 A randomised, single (investigator)-blinded, non-inferiority study was conducted to assess the safety and efficacy of weekly subcutaneous (SC) abatacept without an abatacept intravenous (IV) loading dose versus every-other-weekly subcutaneous adalimumab, both with background MTX, in patients with an inadequate response to methotrexate (study SC-II). The primary endpoint showed non-inferiority (predefined margin of 12%) of ACR20 response after 12 months of treatment, 64.8% (206/318) for the abatacept SC group and 63.4% (208/328) for the adalimumab SC group; treatment difference was 1.8% [95% confidence interval (CI): -5.6, 9.2], with comparable responses throughout the 24-month period. The respective values for ACR 20 at 24 months were 59.7% (190/318) for the abatacept SC group and 60.1% (197/328) for the adalimumab SC group. The respective values for ACR 50 and ACR 70 at 12 months and 24 months were consistent and similar for abatacept and adalimumab. The adjusted mean changes (standard error; SE) from baseline in DAS28-CRP were -2.35 (SE 0.08) [95% CI: -2.51, -2.19] and -2.33 (SE 0.08) [95% CI: -2.50, -2.17] in the SC abatacept group and the adalimumab group, respectively, at 24 months, with similar changes over time. At 24 months, 50.6% (127/251) [95% CI: 44.4, 56.8] of patients in abatacept and 53.3% (130/244) [95% CI: 47.0, 59.5] of patients in adalimumab groups achieved DAS 28 &lt; 2.6. Improvement from baseline as measured by HAQ-DI at 24 months and over time was also similar between abatacept SC and adalimumab SC.
 
+<div style=\"page-break-after: always\"></div>
+
 Safety and structural damage assessments were conducted at one and two years. The overall safety profile with respect to adverse reactions was similar between the two groups over the 24-month period. After 24-months, adverse reactions were reported in 41.5% (132/318) and 50% (164/328) of abatacept and adalimumab-treated patients. Serious adverse reactions were reported in 3.5% (11/318) and 6.1% (20/328) of the respective group. At 24-months, 20.8% (66/318) of patients on abatacept and 25.3% (83/328) on adalimumab had discontinued.
 
 In SC-II, serious infections were reported in 3.8% (12/318) of patients treated with abatacept SC weekly, none of which led to discontinuation and in 5.8% (19/328) of patients treated with adalimumab SC every-other-week, leading to 9 discontinuations in the 24-month period.
-
-<div style=\"page-break-after: always\"></div>
 
 The frequency of local injection site reactions was 3.8% (12/318) and 9.1% (30/328) at 12 months (p = 0.006) and 4.1% (13/318) and 10.4% (34/328) at 24 months for abatacept SC and adalimumab SC, respectively. Over the 2 year study period, 3.8% (12/318) and 1.5% (5/328) patients treated with abatacept SC and adalimumab SC respectively reported autoimmune disorders mild to moderate in severity (e.g., psoriasis, Raynaud's phenomenon, erythema nodosum).
 
@@ -2284,23 +2170,19 @@ Table 3: Remission rates at end of drug treatment and drug withdrawal phases in 
 | Boolean Clinical Remission                                                                 | 37.0%                                                                                      | 22.4%                                                                                      | 26.7%                                                                                      |
 | Estimate of Difference (95% CI) vs. MTX                                                    | 14.56 (2.19, 26.94)                                                                        | N/A                                                                                        | 4.31 (-7.62, 16.24)                                                                        |
 
+<div style=\"page-break-after: always\"></div>
+
 | Proportion of randomised patients in remission at 12 months and at 18 months (6 months of complete drug withdrawal)   | Proportion of randomised patients in remission at 12 months and at 18 months (6 months of complete drug withdrawal)   | Proportion of randomised patients in remission at 12 months and at 18 months (6 months of complete drug withdrawal)   | Proportion of randomised patients in remission at 12 months and at 18 months (6 months of complete drug withdrawal)   |
 |-----------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
 | DAS28-Remission a                                                                                                     | 14.8%                                                                                                                 | 7.8%                                                                                                                  | 12.4%                                                                                                                 |
 | Odds Ratio (95% CI) vs. MTX                                                                                           | 2.51 (1.02, 6.18)                                                                                                     | N/A                                                                                                                   | 2.04 (0.81, 5.14)                                                                                                     |
 | P value                                                                                                               | 0.045                                                                                                                 | N/A                                                                                                                   | N/A                                                                                                                   |
 
-a  DAS28-defined remission (DAS28-CRP &lt; 2.6)
-
-b SDAI criterion (SDAI ≤ 3.3)
-
 In SC-III the safety profiles of the three treatment groups (abatacept + MTX, abatacept monotherapy, MTX group) were overall similar. During the 12-month treatment period, adverse reactions were reported in 44.5% (53/119), 41.4% (48/116), and 44.0% (51/116) and serious adverse reactions were reported in 2.5% (3/119), 2.6% (3/116) and 0.9% (1/116) of patients treated in the three treatment groups, respectively. Serious infections were reported in 0.8% (1/119), 3.4% (4/116) and 0% (0/116) patients.
 
 ## Radiographic response
 
 Structural joint damage was assessed radiographically over a two-year period in studies II, VI, and SC-II. The results were measured using the Genant-modified total Sharp score (TSS) and its components, the erosion score and joint space narrowing (JSN) score.
-
-<div style=\"page-break-after: always\"></div>
 
 In study II, the baseline median TSS was 31.7 in abatacept-treated patients and 33.4 in placebo-treated patients. Abatacept/methotrexate reduced the rate of progression of structural damage compared to placebo/methotrexate after 12 months of treatment as shown in Table 4. The rate of progression of structural damage in year 2 was significantly lower than that in year 1 for patients randomised to abatacept (p &lt; 0.0001). Subjects entering the long term extension after 1 year of double blind treatment all received abatacept treatment and radiographic progression was investigated through year 5. Data were analysed in an as-observed analysis using mean change in total score from the previous annual visit. The mean change was, 0.41 and 0.74 from year 1 to year 2 (n = 290, 130), 0.37 and 0.68 from year 2 to year 3 (n = 293, 130), 0.34 and 0.43 from year 3 to year 4 (n = 290, 128) and the change was 0.26 and 0.29 (n = 233, 114) from year 4 to year 5 for patients originally randomised to abatacept plus MTX and placebo plus MTX respectively.
 
@@ -2312,9 +2194,9 @@ Table 4: Mean radiographic changes over 12 months in study II
 | Erosion score     |                    0.63 |                  1.14 |       0.029 |
 | JSN score         |                    0.58 |                  1.18 |       0.009 |
 
-a  Based on non-parametric analysis.
-
 In study VI, the mean change in TSS at 12 months was significantly lower in patients treated with abatacept plus methotrexate compared to those treated with methotrexate plus placebo. At 12 months 61% (148/242) of the patients treated with abatacept plus methotrexate and 53% (128/242) of the patients treated with methotrexate plus placebo had no progression (TSS ≤ 0). The progression of structural damage was lower in patients receiving continuous abatacept plus methotrexate treatment (for 24 months) compared to patients who initially received methotrexate plus placebo (for 12 months) and were switched to abatacept plus methotrexate for the next 12 months. Among the patients who entered the open-label 12-month period, 59% (125/213) of patients receiving continuous abatacept plus methotrexate treatment and 48% (92/192) of patients who initially received methotrexate and switched to combination with abatacept had no progression.
+
+<div style=\"page-break-after: always\"></div>
 
 In study SC-II, structural joint damage was assessed radiographically and expressed as a change from baseline in the van der Heijde-modified Total Sharp Score (mTSS) and its components. Similar inhibition was observed in both treatment groups up to 24 months (mTSS (mean ± standard deviation [SD] = 0.89 ±4.13 vs 1.13 ±8.66), erosion score (0.41 ±2.57 vs 0.41 ±5.04), and JSN score (0.48 ±2.18 vs 0.72 ±3.81)) for the abatacept (n = 257) and adalimumab (n = 260) groups, respectively.
 
@@ -2322,15 +2204,11 @@ In study SC-III, structural joint damage was assessed by MRI. The abatacept + MT
 
 Table 5: Structural and inflammatory MRI assessment in study SC-III
 
-| Mean Treatment Difference between Abatacept SC+MTX vs. MTX at 12 Months (95% CI)*   | Mean Treatment Difference between Abatacept SC+MTX vs. MTX at 12 Months (95% CI)*   |
-|-------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|
-| MRI Erosion Score                                                                   | -1.22 (-2.20, -0.25)                                                                |
-| MRI Osteitis/Bone Oedema Score                                                      | -1.43 (-2.68, -0.18)                                                                |
-| MRI Synovitis Score                                                                 | -1.60 (-2.42, -0.78)                                                                |
-
-* n = 119 for Abatacept SC + MTX; n = 116 for MTX
-
-<div style=\"page-break-after: always\"></div>
+| Mean Treatment Difference between Abatacept SC+MTX vs. MTX at 12 Months (95%   | CI)*                 |
+|--------------------------------------------------------------------------------|----------------------|
+| MRI Erosion Score                                                              | -1.22 (-2.20, -0.25) |
+| MRI Osteitis/Bone Oedema Score                                                 | -1.43 (-2.68, -0.18) |
+| MRI Synovitis Score                                                            | -1.60 (-2.42, -0.78) |
 
 ## Physical function response
 
@@ -2338,13 +2216,19 @@ Improvement in physical function was measured by the Health Assessment Questionn
 
 Table 6: Improvement in physical function in controlled trials
 
+|                                | Methotrexate-Naive Study VI   | Methotrexate-Naive Study VI   | Inadequate response to Methotrexate Study II   | Inadequate response to Methotrexate Study II   | Inadequate response to TNF Inhibitor Study III   | Inadequate response to TNF Inhibitor Study III   |
+|--------------------------------|-------------------------------|-------------------------------|------------------------------------------------|------------------------------------------------|--------------------------------------------------|--------------------------------------------------|
+| HAQ c Disability Index         | Abatacept a +MTX              | Placebo +MTX                  | Abatacept a +MTX                               | Placebo +MTX                                   | Abatacept a +DMARDs b                            | Placebo +DMARDs b                                |
+| Baseline (Mean)                | 1.7 (n = 254)                 | 1.7 (n = 251)                 | 1.69 (n = 422)                                 | 1.69 (n = 212)                                 | 1.83 (n = 249)                                   | 1.82 (n = 130)                                   |
+| Mean Improvement from Baseline |                               |                               |                                                |                                                |                                                  |                                                  |
+| Month 6                        | 0.85 (n = 250)                | 0.68 (n = 249)                | 0.59*** (n = 420)                              | 0.40 (n = 211)                                 | 0.45*** (n = 249)                                | 0.11 (n = 130)                                   |
+| Month 12                       | 0.96 (n = 254)                | 0.76 (n = 251)                | 0.66*** (n = 422)                              | 0.37 (n = 212)                                 | NA e                                             | NA e                                             |
+
+<div style=\"page-break-after: always\"></div>
+
 |                                                                   | Methotrexate-Naive Study VI   | Methotrexate-Naive Study VI   | Inadequate response to Methotrexate Study II   | Inadequate response to Methotrexate Study II   | Inadequate response to TNF Inhibitor Study III   | Inadequate response to TNF Inhibitor Study III   |
 |-------------------------------------------------------------------|-------------------------------|-------------------------------|------------------------------------------------|------------------------------------------------|--------------------------------------------------|--------------------------------------------------|
 | HAQ c Disability Index                                            | Abatacept a +MTX              | Placebo +MTX                  | Abatacept a +MTX                               | Placebo +MTX                                   | Abatacept a +DMARDs b                            | Placebo +DMARDs b                                |
-| Baseline (Mean)                                                   | 1.7 (n = 254)                 | 1.7 (n = 251)                 | 1.69 (n = 422)                                 | 1.69 (n = 212)                                 | 1.83 (n = 249)                                   | 1.82 (n = 130)                                   |
-| Mean Improvement from Baseline                                    |                               |                               |                                                |                                                |                                                  |                                                  |
-| Month 6                                                           | 0.85 (n = 250)                | 0.68 (n = 249)                | 0.59*** (n = 420)                              | 0.40 (n = 211)                                 | 0.45*** (n = 249)                                | 0.11 (n = 130)                                   |
-| Month 12                                                          | 0.96 (n = 254)                | 0.76 (n = 251)                | 0.66*** (n = 422)                              | 0.37 (n = 212)                                 | NA e                                             | NA e                                             |
 | Proportion of patients with a clinically meaningful improvement d |                               |                               |                                                |                                                |                                                  |                                                  |
 | Month 6                                                           | 72% †                         | 63%                           | 61%***                                         | 45%                                            | 47%***                                           | 23%                                              |
 | Month 12                                                          | 72% †                         | 62%                           | 64%***                                         | 39%                                            | NA e                                             | NA e                                             |
@@ -2367,8 +2251,6 @@ In study II, among patients with clinically meaningful improvement at month 12, 
 
 In study SC-III, the proportion of subjects with a HAQ response as a measure of clinically meaningful improvement in physical function (reduction from baseline in HAQD1 score of ≥ 0.3) was greater for the abatacept + MTX group vs. the MTX group at month 12 (65.5% vs 44.0%, respectively; treatment difference vs. MTX group of 21.6% [95% CI: 8.3, 34.9]).
 
-<div style=\"page-break-after: always\"></div>
-
 ## Health-related outcomes and quality of life
 
 Health-related quality of life was assessed by the SF-36 questionnaire at 6 months in studies I, II, and III and at 12 months in studies I and II. In these studies, clinically and statistically significant improvement was observed in the abatacept group as compared with the placebo group in all 8 domains of the SF-36 (4 physical domains: physical function, role physical, bodily pain, general health; and 4 mental domains: vitality, social function, role emotional, mental health), as well as the Physical Component Summary (PCS) and the Mental Component Summary (MCS). In study VI, improvement was observed at 12 months in abatacept plus methotrexate group as compared with the methotrexate plus placebo group in both PCS and MCS, and was maintained through 2 years.
@@ -2381,15 +2263,15 @@ A study of open-label intravenous abatacept on a background of nonbiologic DMARD
 
 Patients in the sub-study (n = 117) of the open-label extension of study SC-I received 125 mg of subcutaneous abatacept administered weekly via the pre-filled syringe for at least 4 months, and were then switched to receive 125 mg SC abatacept administered weekly via the pre-filled pen for 12 weeks. The adjusted geometric mean of abatacept at steady state trough concentration (Cminss) was 25.3 mcg/mL for the subcutaneous pre-filled pen and 27.8 mcg/mL for the subcutaneous pre-filled syringe with a ratio of 0.91 [90% CI: 0.83, 1.00]. During the 12-week pre-filled pen period of the sub-study, there were no deaths or related SAEs. Three patients had SAEs (postoperative wound infection, H1N1 influenza, and myocardial ischemia in 1 patient each) that were not considered related to the study drug. There were six overall discontinuations during this period, only one of which was due to an AE (the SAE of post-operative wound infection). Two patients (2/117, 1.7%) using the SC pre-filled pen experienced local injection site reactions.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Clinical efficacy and safety in adult psoriatic arthritis
 
 The efficacy and safety of abatacept were assessed in two randomised, double-blind, placebo-controlled trials (studies PsA-I and PsA-II) in adult patients, age 18 years and older. Patients had active PsA (≥ 3 swollen joints and ≥ 3 tender joints) despite prior treatment with DMARD therapy and had one qualifying psoriatic skin lesion of at least 2 cm in diameter.
 
-In study PsA-I, 170 patients received placebo or abatacept intravenously on Day 1, 15, 29, and then every 28 days thereafter in a double blind manner for 24 weeks, followed by open-label abatacept 10 mg/kg intravenous every 28 days. Patients were randomised to receive placebo or abatacept 3 mg/kg, 10 mg/kg, or two doses of 30 mg/kg followed by 10 mg/kg, without escape for 24 weeks, followed by open label abatacept 10 mg/kg monthly intravenous every month. Patients were allowed to receive stable doses of concomitant methotrexate, low dose c orticosteroids (equivalent to ≤ 10 mg of prednisone) and/or NSAIDs during the trial.
+In study PsA-I, 170 patients received placebo or abatacept intravenously on Day 1, 15, 29, and then every 28 days thereafter in a double blind manner for 24 weeks, followed by open-label abatacept 10 mg/kg intravenous every 28 days. Patients were randomised to receive placebo or abatacept 3 mg/kg, 10 mg/kg, or two doses of 30 mg/kg followed by 10 mg/kg, without escape for 24 weeks, followed by open label abatacept 10 mg/kg monthly intravenous every month. Patients were allowed to receive stable doses of concomitant methotrexate, low dose corticosteroids (equivalent to ≤ 10 mg of prednisone) and/or NSAIDs during the trial.
 
 In study PsA-II, 424 patients were randomised 1:1 to receive in a double-blind manner weekly doses of subcutaneous placebo or abatacept 125 mg without a loading dose for 24 weeks, followed by open-label abatacept 125 mg subcutaneous weekly. Patients were allowed to receive stable doses of concomitant methotrexate, sulfasalazine, leflunomide, hydroxychloroquine, low dose corticosteroids (equivalent to ≤ 10 mg of prednisone) and/or NSAIDs during the trial. Patients who had not achieved at least a 20% improvement from baseline in their swollen and tender joint counts by Week 16 escaped to open-label abatacept 125 mg subcutaneous weekly.
-
-<div style=\"page-break-after: always\"></div>
 
 The primary endpoint for both PsA-I and PsA-II was the proportion of patients achieving ACR 20 response at Week 24 (day 169).
 
@@ -2399,14 +2281,16 @@ The primary endpoint for both PsA-I and PsA-II was the proportion of patients ac
 
 The percent of patients achieving ACR 20, 50, or 70 responses at the recommended abatacept dose in studies PsA-I (10 mg/kg intravenous) and PsA-II (125 mg subcutaneous) are presented in Table 7 below.
 
+<div style=\"page-break-after: always\"></div>
+
 Table 7: Proportion of patients with ACR responses at week 24 in studies PsA-I and PsA-II
 
-| PsA-I a                      | PsA-I a          | PsA-I a                         | PsA-II b,c                  | PsA-II b,c       | PsA-II b,c                      |
-|------------------------------|------------------|---------------------------------|-----------------------------|------------------|---------------------------------|
-| Abatacept 10 mg/kg IV N = 40 | Placebo N = 42   | Estimate of difference (95% CI) | Abatacept 125 mg SC N = 213 | Placebo N = 211  | Estimate of difference (95% CI) |
-| 47.5%* 19.0%                 | 28.7 (9.4, 48.0) | 39.4%*                          | 22.3%                       | 17.2 (8.7, 25.6) | ACR 20                          |
-| 25.0% 2.4%                   | 22.7 (8.6, 36.9) | 19.2%                           | 12.3%                       | 6.9 (0.1, 13.7)  | ACR 50                          |
-| 12.5% 0%                     | 12.5 (2.3, 22.7) | 10.3%                           | 6.6%                        | 3.7 (-1.5, 8.9)  | ACR 70                          |
+|             | PsA-I a          | PsA-I a          | PsA-I a                         | PsA-II b,c                  | PsA-II b,c       | PsA-II b,c                      |
+|-------------|------------------|------------------|---------------------------------|-----------------------------|------------------|---------------------------------|
+| 10 mg/kg IV | Abatacept N = 40 | Placebo N = 42   | Estimate of difference (95% CI) | Abatacept 125 mg SC N = 213 | Placebo N = 211  | Estimate of difference (95% CI) |
+| 47.5%*      | 19.0%            | 28.7 (9.4, 48.0) | 39.4%*                          | 22.3%                       | 17.2 (8.7, 25.6) | ACR 20                          |
+| 25.0%       | 2.4%             | 22.7 (8.6, 36.9) | 19.2%                           | 12.3%                       | 6.9 (0.1, 13.7)  | ACR 50                          |
+| 12.5%       | 0%               | 12.5 (2.3, 22.7) | 10.3%                           | 6.6%                        | 3.7 (-1.5, 8.9)  | ACR 70                          |
 
 *  p &lt; 0.05 vs placebo, p values not assessed for ACR 50 and ACR 70.
 
@@ -2424,13 +2308,13 @@ Higher ACR 20 responses in study PsA-II were seen with abatacept 125 mg subcutan
 
 In study PsA-II, the proportion of radiographic non-progressors ( ≤ 0 change from baseline) in total PsA-modified SHS on x-rays at Week 24 was greater with abatacept 125 mg subcutaneous (42.7%) than placebo (32.7%) (10.0 [1.0, 19.1] estimate of difference [95% CI]).
 
-<div style=\"page-break-after: always\"></div>
-
 ## Physical Function Response
 
 In study PsA-I, the proportion of patients with ≥ 0.30 decrease from baseline in HAQ-DI score was 45.0% with intravenous abatacept vs 19.0% with placebo (26.1 [6.8, 45.5], estimate of difference [95% CI]) at Week 24. In study PsA-II, the proportion of patients with at least ≥ 0.35 decrease from baseline in HAQ-DI was 31.0% with abatacept vs. 23.7% with placebo (7.2 [-1.1, 15.6], estimate of difference [95% CI]). Improvement in HAQ-DI scores was maintained or improved for up to 1 year with continuing abatacept treatment in both PsA-I and PsA-II studies.
 
 No significant changes in PASI scores with abatacept treatment were seen over the 24-week double-blind period. Patients entering the two PsA studies had mild to moderate psoriasis with median PASI scores of 8.6 in PsA-I and 4.5 in PsA-II. In study PsA-I, the proportions of patients achieving PASI 50 response was 28.6% with abatacept vs. 14.3% with placebo (14.3 [-15.3, 43.9], estimate of difference [95% CI]), and the proportion of patients who achieved PASI 75 response was 14.3% with abatacept vs. 4.8% with placebo (9.5 [-13.0, 32.0], estimate of difference [95% CI]). In study PsA-II, the proportion of patients who achieved PASI 50 response was 26.7% with abatacept vs. 19.6% with placebo (7.3 [-2.2, 16.7], estimate of difference [95% CI]), and the proportion of patients who achieved PASI 75 response was 16.4% with abatacept vs. 10.1% with placebo (6.4 [-1.3, 14.1], estimate of difference [95% CI]).
+
+<div style=\"page-break-after: always\"></div>
 
 ## Paediatric population
 
@@ -2448,15 +2332,13 @@ Consistent with the intravenous data, population pharmacokinetic analyses for su
 
 ## Adult psoriatic arthritis
 
-In PsA-I, patients were randomised to receive intravenous placebo or abatacept 3 mg/kg (3/3 mg/kg), 10 mg/kg (10/10 mg/kg), or two doses of 30 mg/kg followed by 10 mg/kg (30/10 mg/kg), on day 1, 15, 29, and then every 28 days thereafter. In this study, the steady-state concentrations of abatacept were dose-related. The geometric mean (CV%) cmin at day 169 were 7.8 mcg/mL (56.3%) for the
-
-<div style=\"page-break-after: always\"></div>
-
-3/3 mg/kg, 24.3 mcg/mL (40.8%) for 10/10 mg/kg, and 26.6 mcg/mL (39.0%) for the 30/10 mg/kg regimens.
+In PsA-I, patients were randomised to receive intravenous placebo or abatacept 3 mg/kg (3/3 mg/kg), 10 mg/kg (10/10 mg/kg), or two doses of 30 mg/kg followed by 10 mg/kg (30/10 mg/kg), on day 1, 15, 29, and then every 28 days thereafter. In this study, the steady-state concentrations of abatacept were dose-related. The geometric mean (CV%) cmin at day 169 were 7.8 mcg/mL (56.3%) for the 3/3 mg/kg, 24.3 mcg/mL (40.8%) for 10/10 mg/kg, and 26.6 mcg/mL (39.0%) for the 30/10 mg/kg regimens.
 
 In study PsA-II following weekly subcutaneous administration of abatacept at 125 mg, steady-state of abatacept was reached at day 57 with the geometric mean (CV%) cmin ranging from 22.3 (54.2%) to 25.6 (47.7%) mcg/mL on days 57 to 169, respectively.
 
 Consistent with the results observed earlier in RA patients, population pharmacokinetic analyses for abatacept in PsA patients revealed that there was a trend toward higher clearance (L/h) of abatacept with increasing body weight.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 5.3 Preclinical safety data
 
@@ -2467,8 +2349,6 @@ In rats, abatacept had no undesirable effects on male or female fertility. Embry
 ## Non-clinical studies relevant for use in the paediatric population
 
 Studies in rats exposed to abatacept have shown immune system abnormalities including a low incidence of infections leading to death (juvenile rats). In addition, inflammation of the thyroid and pancreas was frequently seen in both juvenile and adult rats exposed to abatacept. Juvenile rats seemed to be more sensitive to lymphocytic inflammation of thyroid. Studies in adult mice and monkeys have not demonstrated similar findings. It is likely that the increased susceptibility to opportunistic infections observed in juvenile rats is associated with the exposure to abatacept before development of memory responses. The relevance of these results to humans is unknown.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
@@ -2483,6 +2363,8 @@ In the absence of compatibility studies, this medicinal product must not be mixe
 ## 6.3 Shelf life
 
 2 years
+
+<div style=\"page-break-after: always\"></div>
 
 ## 6.4 Special precautions for storage
 
@@ -2510,8 +2392,6 @@ Bristol-Myers Squibb Pharma EEIG Plaza 254 Blanchardstown Corporate Park 2 Dubli
 
 EU/1/07/389/011-012
 
-<div style=\"page-break-after: always\"></div>
-
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
 Date of first authorisation: 21 May 2007
@@ -2520,7 +2400,7 @@ Date of latest renewal: 15 March 2012
 
 ## 10. DATE OF REVISION OF THE TEXT
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu.
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
 79
 
@@ -2528,13 +2408,10 @@ Detailed information on this medicinal product is available on the website of th
 
 ## ANNEX II
 
-## A. MANUFACTURER OF THE BIOLOGICAL ACTIVE SUBSTANCE AND MANUFACTURERS RESPONSIBLE FOR BATCH RELEASE
-
-## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
-
-## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
-
-## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
+- A. MANUFACTURER OF THE BIOLOGICAL ACTIVE SUBSTANCE AND MANUFACTURERS RESPONSIBLE FOR BATCH RELEASE
+- B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
+- C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
+- D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2617,7 +2494,7 @@ Excipients: maltose, sodium dihydrogen phosphate monohydrate and sodium chloride
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-Powder for concentrate for solution for infusion
+## Powder for concentrate for solution for infusion
 
 1 vial
 
@@ -2659,13 +2536,7 @@ Discard any unused solution.
 
 Bristol-Myers Squibb Pharma EEIG
 
-Plaza 254
-
-Blanchardstown Corporate Park 2
-
-Dublin 15, D15 T867
-
-Ireland
+Plaza 254 Blanchardstown Corporate Park 2 Dublin 15, D15 T867 Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -2781,7 +2652,7 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-## 15. INSTRUCTIONS ON USE
+15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -2881,7 +2752,7 @@ EU/1/07/389/003 3 vials and 3 silicone-free syringes (3 packs of 1)
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
@@ -2903,7 +2774,7 @@ Justification for not including Braille accepted.
 
 ## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS VIAL LABEL
 
-## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION
+## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
 ORENCIA 250 mg powder for concentrate for solution for infusion abatacept Intravenous use
 
@@ -3021,8 +2892,7 @@ NN:
 |--------------------------------------------------------------------|
 | LABEL FOR SYRINGE                                                  |
 
-| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|----------------------------------------------------------------|
+## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
 ORENCIA 50 mg injection abatacept SC
 
@@ -3143,7 +3013,8 @@ NN:
 |--------------------------------------------------------------------|
 | LABEL FOR SYRINGE                                                  |
 
-## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
 ORENCIA 87.5 mg injection abatacept SC
 
@@ -3340,7 +3211,7 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-## 15. INSTRUCTIONS ON USE
+15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -3445,9 +3316,9 @@ ORENCIA 125 mg
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
-
-## LABEL FOR SYRINGE
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING   |
+|--------------------------------------------------------------|
+| LABEL FOR SYRINGE                                            |
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
@@ -3465,7 +3336,7 @@ Lot
 
 ## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
 
-## 6. OTHER
+6. OTHER
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3567,7 +3438,7 @@ NN:
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-## OUTER CARTON FOR MULTIPACK (INCLUDING BLUE BOX)
+OUTER CARTON FOR MULTIPACK (INCLUDING BLUE BOX)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -3707,7 +3578,7 @@ Do not freeze.
 
 Store in the original package in order to protect from light.
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -3836,7 +3707,7 @@ NN:
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-## OUTER CARTON FOR MULTIPACK (INCLUDING BLUE BOX)
+OUTER CARTON FOR MULTIPACK (INCLUDING BLUE BOX)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -4047,20 +3918,21 @@ This alert card contains important safety information that you need to be aware 
 
 ORENCIA increases the risk of getting infections.
 
-- -You must not be treated with ORENCIA if you have severe infection.
-- -You should be screened for certain infections prior to treatment with ORENCIA.
+- You must not be treated with ORENCIA if you have severe infection.
 
-Tuberculosis (TB): You should be screened for  TB  prior  to  ORENCIA  treatment.  It  is very important that you tell your doctor if you have ever had TB, or if you have been in close contact with someone who has had TB.
+- You should be screened for certain infections prior to treatment with ORENCIA.
+
+Tuberculosis (TB): You should be screened for  TB  prior  to  ORENCIA  treatment.  It  is very  important  that  you  tell  your  doctor  if you have ever had TB, or if you have been in close contact with someone who has had TB.
 
 Hepatitis: Anti-rheumatic therapies have been associated with hepatitis B reactivation. You should be screened for viral hepatitis in accordance with published guidelines.
 
 ## Infections
 
-- -If you develop symptoms suggestive of infections, such as fever, persistent cough, weight loss, or listlessness, seek medical attention immediately.
+- If you develop symptoms suggestive of infections, such as fever, persistent cough, weight loss, or listlessness, seek medical attention immediately.
 
 ## Allergic Reactions
 
-Allergic  reactions  may  occur  after  the  use  of ORENCIA. If you experience symptoms such as chest  tightness,  wheezing,  severe  dizziness,  or lightheadedness, seek medical attention immediately.
+Allergic  reactions  may  occur  after  the  use  of ORENCIA. If you experience symptoms such as  chest  tightness,  wheezing,  severe  dizziness, or lightheadedness, seek medical attention immediately.
 
 ## Dates of ORENCIA Treatment:
 
@@ -4072,7 +3944,8 @@ Most recent:
 
 \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_
 
-- See the ORENCIA package leaflet for more information.
+- See the ORENCIA  package  leaflet  for more information.
+
 - Please make sure you also have a list of all your other medicines with you at any visit to a health care professional.
 
 Patient's Name: \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_
@@ -4083,7 +3956,7 @@ Doctor's Phone: \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_
 
 Keep this card with you for 3 months after the last  ORENCIA  dose,  since  side  effects  may occur  a long  time  after your  last dose  of ORENCIA.
 
-ORENCIA  should  not  be  used  in  pregnant women  unless  clearly  necessary.  If  you  have received ORENCIA while you were pregnant, it is  important that you inform the baby's health care personnel before any vaccinations are given to your baby. Your baby may be at risk of severe infection caused by 'live vaccines' for 14 weeks since your last ORENCIA administration.
+ORENCIA  should  not  be  used  in  pregnant women  unless  clearly  necessary.  If  you  have received ORENCIA while you were pregnant, it  is  important  that  you  inform  the  baby's health  care  personnel  before  any  vaccinations are  given  to  your  baby.  Your  baby  may  be  at risk of severe infection caused by 'live vaccines' for 14 weeks since your last ORENCIA administration.
 
 [Mmm YYYY]
 
@@ -4095,7 +3968,7 @@ ORENCIA  should  not  be  used  in  pregnant women  unless  clearly  necessary. 
 
 This alert card contains important safety information that you need to be aware of before you are given ORENCIA and during treatment with ORENCIA.
 
-- Show this card to any doctor involved in your treatment.
+- Show  this  card  to  any  doctor  involved  in your treatment.
 
 ## Infections
 
@@ -4104,7 +3977,7 @@ ORENCIA increases the risk of getting infections.
 - -You must not be treated with ORENCIA if you have severe infection.
 - -You should be screened for certain infections prior to treatment with ORENCIA.
 
-Tuberculosis (TB): You should be screened for  TB  prior  to  ORENCIA  treatment.  It  is very important that you tell your doctor if you have ever had TB, or if you have been in close contact with someone who has had TB.
+Tuberculosis (TB): You should be screened for  TB  prior  to  ORENCIA  treatment.  It  is very  important  that  you  tell  your  doctor  if you have ever had TB, or if you have been in close contact with someone who has had TB.
 
 Hepatitis: Anti-rheumatic therapies have been associated with hepatitis B reactivation. You should be screened for viral hepatitis in accordance with published guidelines.
 
@@ -4114,13 +3987,13 @@ Hepatitis: Anti-rheumatic therapies have been associated with hepatitis B reacti
 
 ## Allergic Reactions
 
-Allergic  reactions  may  occur  after  the  use  of ORENCIA. If you experience symptoms such as chest  tightness,  wheezing,  severe  dizziness,  or lightheadedness, seek medical attention immediately.
+Allergic  reactions  may  occur  after  the  use  of ORENCIA. If you experience symptoms such as  chest  tightness,  wheezing,  severe  dizziness, or lightheadedness, seek medical attention immediately.
 
 ## Start of ORENCIA Treatment:
 
 \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_
 
-- See the ORENCIA package leaflet for more information.
+- See the ORENCIA  package  leaflet  for more information.
 - Please make sure you also have a list of all your other medicines with you at any visit to a health care professional.
 
 Patient's Name: \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_
@@ -4131,7 +4004,7 @@ Doctor's Phone: \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_
 
 Keep this card with you for 3 months after the last  ORENCIA  dose,  since  side  effects  may occur  a long  time  after your  last dose  of ORENCIA.
 
-ORENCIA  should  not  be  used  in  pregnant women  unless  clearly  necessary.  If  you  have received ORENCIA while you were pregnant, it is  important that you inform the baby's health care personnel before any vaccinations are given to your baby. Your baby may be at risk of severe infection caused by 'live vaccines' for 14 weeks since your last ORENCIA administration.
+ORENCIA  should  not  be  used  in  pregnant women  unless  clearly  necessary.  If  you  have received ORENCIA while you were pregnant, it  is  important  that  you  inform  the  baby's health  care  personnel  before  any  vaccinations are  given  to  your  baby.  Your  baby  may  be  at risk of severe infection caused by 'live vaccines' for 14 weeks since your last ORENCIA administration.
 
 [Mmm YYYY]
 
@@ -4215,6 +4088,7 @@ Talk to your doctor, pharmacist or nurse:
 -  if you have had tuberculosis (TB) or have symptoms of tuberculosis (persistent cough, weight loss, listlessness, mild fever) tell your doctor . Before you are given ORENCIA, your doctor will examine you for tuberculosis or do a skin test.
 -  if you have viral hepatitis tell your doctor. Before you are given ORENCIA, your doctor may examine you for hepatitis.
 -  if you have cancer, your doctor will decide if you can still be given ORENCIA.
+-  Studies have shown an increased risk of non-melanoma skin cancer in patients taking ORENCIA. Discuss with your doctor ways to decrease your risk of skin cancer. Your doctor may recommend that you have regular skin examinations while taking ORENCIA. If there are changes in the appearance of your skin or growths on your skin during or after therapy, tell your doctor.
 -  if you recently had a vaccination or are planning to have one, tell your doctor . Some vaccines should not be given while you are receiving ORENCIA. Check with your doctor before you are given any vaccines. It is recommended that patients with polyarticular juvenile idiopathic arthritis, if possible, be brought up to date with all immunisations in agreement with current immunisation guidelines prior to starting ORENCIA therapy. Certain vaccinations may cause infections from the vaccine. If you received ORENCIA while you were pregnant, your baby may be at a higher risk for getting such an infection for up to approximately 14 weeks after the last dose you received during pregnancy. It is important that you tell your baby's doctors and
 
 <div style=\"page-break-after: always\"></div>
@@ -4439,11 +4313,143 @@ CATALENT ANAGNI S.R.L. Loc. Fontana del Ceraso snc Strada Provinciale 12 Casilin
 
 Swords Laboratories Unlimited Company t/a Bristol-Myers Squibb Cruiserath Biologics Cruiserath Road, Mulhuddart Dublin 15 Ireland
 
+For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
+
+## België/Belgique/Belgien
+
+N.V. Bristol-Myers Squibb Belgium S.A. Tél/Tel: + 32 2 352 76 11 medicalinfo.belgium@bms.com
+
+## България
+
+Swixx Biopharma EOOD Teл.: + 359 2 4942 480
+
+[medinfo.bulgaria@swixxbiopharma.com](mailto:medinfo.bulgaria@swixxbiopharma.com)
+
+## Česká republika
+
+Bristol-Myers Squibb spol. s r.o. Tel: + 420 221 016 111 medinfo.czech@bms.com
+
+Danmark Bristol-Myers Squibb Denmark Tlf: + 45 45 93 05 06 medinfo.denmark@bms.com
+
+## Deutschland
+
+Bristol-Myers Squibb GmbH &amp; Co. KGaA
+
+Tel: 0800 0752002 (+ 49 89 121 42 350) medwiss.info@bms.com Lietuva Swixx Biopharma UAB Tel: + 370 52 369140 medinfo.lithuania@swixxbiopharma.com
+
+## Luxembourg/Luxemburg
+
+N.V. Bristol-Myers Squibb Belgium S.A. Tél/Tel: + 32 2 352 76 11 medicalinfo.belgium@bms.com
+
+## Magyarország
+
+Bristol-Myers Squibb Kft. Tel.: + 36 1 301 9797 Medinfo.hungary@bms.com
+
+Malta A.M. Mangion Ltd Tel: + 356 23976333 pv@ammangion.com
+
+## Nederland
+
+Bristol-Myers Squibb B.V.
+
+Tel: + 31 (0)30 300 2222
+
+[medischeafdeling@bms.com](mailto:medischeafdeling@bms.com)
+
+<div style=\"page-break-after: always\"></div>
+
+## Eesti
+
+Swixx Biopharma OÜ Tel: + 372 640 1030
+
+[medinfo.estonia@swixxbiopharma.com](mailto:medinfo.estonia@swixxbiopharma.com)
+
+Ελλάδα Bristol-Myers Squibb A.E. Τηλ: + 30 210 6074300
+
+[medinfo.greece@bms.com](mailto:medinfo.greece@bms.com)
+
+España Bristol-Myers Squibb, S.A. Tel: + 34 91 456 53 00
+
+[informacion.medica@bms.com](mailto:informacion.medica@bms.com)
+
+France Bristol-Myers Squibb SAS Tél: + 33 (0)1 58 83 84 96
+
+[infomed@bms.com](mailto:infomed@bms.com)
+
+Hrvatska
+
+Swixx Biopharma d.o.o. Tel: + 385 1 2078 500
+
+[medinfo.croatia@swixxbiopharma.com](mailto:medinfo.croatia@swixxbiopharma.com)
+
+Ireland Bristol-Myers Squibb Pharmaceuticals uc Tel: 1 800 749 749 (+ 353 (0)1 483 3625) medical.information@bms.com
+
+Ísland Vistor ehf. Sími: + 354 535 7000
+
+[medical.information@bms.com](mailto:medical.information@bms.com)
+
+Italia Bristol-Myers Squibb S.r.l. Tel: + 39 06 50 39 61
+
+[medicalinformation.italia@bms.com](mailto:medicalinformation.italia@bms.com)
+
+Κύπρος Bristol-Myers Squibb A.E. Τηλ: 800 92666 (+ 30 210 6074300) medinfo.greece@bms.com
+
+Latvija Swixx Biopharma SIA Tel: + 371 66164750
+
+medinfo.latvia@swixxbiopharma.com Bristol-Myers Squibb Norway AS
+
+Norge Tlf: + 47 67 55 53 50
+
+[medinfo.norway@bms.com](mailto:medinfo.norway@bms.com)
+
+## Österreich
+
+Bristol-Myers Squibb GesmbH Tel: + 43 1 60 14 30
+
+[medinfo.austria@bms.com](mailto:medinfo.austria@bms.com)
+
+Polska
+
+Bristol-Myers Squibb Polska Sp. z o.o. Tel.: + 48 22 2606400 informacja.medyczna@bms.com
+
+Portugal
+
+Bristol-Myers Squibb Farmacêutica Portuguesa,
+
+S.A.
+
+Tel: + 351 21 440 70 00
+
+[portugal.medinfo@bms.com](mailto:portugal.medinfo@bms.com)
+
+România
+
+Bristol-Myers Squibb Marketing Services S.R.L. Tel: + 40 (0)21 272 16 19
+
+[medinfo.romania@bms.com](mailto:medinfo.romania@bms.com)
+
+Slovenija Swixx Biopharma d.o.o. Tel: + 386 1 2355 100
+
+[medinfo.slovenia@swixxbiopharma.com](mailto:medinfo.slovenia@swixxbiopharma.com)
+
+Slovenská republika Swixx Biopharma s.r.o. Tel: + 421 2 20833 600
+
+[medinfo.slovakia@swixxbiopharma.com](mailto:medinfo.slovakia@swixxbiopharma.com)
+
+Suomi/Finland Oy Bristol-Myers Squibb (Finland) Ab Puh/Tel: + 358 9 251 21 230 medinfo.finland@bms.com
+
+Sverige Bristol-Myers Squibb Aktiebolag Tel: + 46 8 704 71 00
+
+[medinfo.sweden@bms.com](mailto:medinfo.sweden@bms.com)
+
+<div style=\"page-break-after: always\"></div>
+
 ## This leaflet was last revised in
 
 ## Other sources of information
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
+Detailed information on this medicine is available on the European Medicines Agency web site:
+
+[https://www.ema.europa.eu.](https://www.ema.europa.eu/)
 
 ---------------------------------------------------------------------------------------------------------------------------
 
@@ -4455,11 +4461,7 @@ Dose selection: see section 3 'How to use ORENCIA' of the Package Leaflet
 
 Reconstitution of vials: under aseptic conditions, reconstitute each vial with 10 mL of water for injections, using the silicone-free disposable syringe provided with each vial and an 18-21 gauge needle. Remove the flip-top from the vial and wipe the top with an alcohol swab. Insert the syringe needle into the vial through the centre of the rubber stopper and direct the stream of water for injections to the glass wall of the vial. Do not use the vial if a vacuum is not present. Remove the syringe and needle after 10 mL of water for injections have been injected into the vial. To minimise foam formation in solutions of ORENCIA the vial should be rotated with gentle swirling until the contents are completely dissolved. Do not shake . Do not use prolonged or vigorous agitation . Upon complete dissolution of the powder, the vial should be vented with a needle to dissipate any foam that may be present. After reconstitution the solution should be clear and colourless to pale yellow. Do not use if opaque particles, discolouration, or other foreign particles are present.
 
-Preparation of infusion: immediately after reconstitution, dilute the concentrate to 100 mL with sodium chloride 9 mg/mL (0.9%) solution for injection. From a 100 mL infusion bag or bottle, withdraw a volume of 0.9% sodium chloride injection equal to the volume of the reconstituted ORENCIA vials. Slowly add the reconstituted ORENCIA solution from each vial to the infusion bag
-
-<div style=\"page-break-after: always\"></div>
-
-or bottle using the same silicone-free disposable syringe provided with each vial . Gently mix. The final concentration of abatacept in the bag or bottle will depend upon the amount of active substance added, but will be no more than 10 mg/mL.
+Preparation of infusion: immediately after reconstitution, dilute the concentrate to 100 mL with sodium chloride 9 mg/mL (0.9%) solution for injection. From a 100 mL infusion bag or bottle, withdraw a volume of 0.9% sodium chloride injection equal to the volume of the reconstituted ORENCIA vials. Slowly add the reconstituted ORENCIA solution from each vial to the infusion bag or bottle using the same silicone-free disposable syringe provided with each vial . Gently mix. The final concentration of abatacept in the bag or bottle will depend upon the amount of active substance added, but will be no more than 10 mg/mL.
 
 Administration: when reconstitution and dilution are performed under aseptic conditions ORENCIA infusion solution can be used immediately or within 24 hours if stored refrigerated at 2°C to 8°C. However, for microbiological reasons, it is to be used immediately. Prior to administration, the ORENCIA solution should be inspected visually for particulate matter and discolouration. Discard the solution if any particulate matter or discolouration is observed. The entire, fully diluted ORENCIA solution should be administered over a period of 30 minutes and must be administered with an infusion set and a sterile, non-pyrogenic, low-protein-binding filter (pore size of 0.2 to 1.2 mcm). Do not store any unused portion of the infusion solution for reuse.
 
@@ -4552,6 +4554,7 @@ Talk to your doctor, pharmacist or nurse:
 
 -  if you have viral hepatitis tell your doctor. Before you use ORENCIA, your doctor may examine you for hepatitis.
 -  if you have cancer, your doctor will decide if you can still be given ORENCIA.
+-  Studies have shown an increased risk of non-melanoma skin cancer in patients taking ORENCIA. Discuss with your doctor ways to decrease your risk of skin cancer. Your doctor may recommend that you have regular skin examinations while taking ORENCIA. If there are changes in the appearance of your skin or growths on your skin during or after therapy, tell your doctor.
 -  if you recently had a vaccination or are planning to have one, tell your doctor . Some vaccines should not be given while you are receiving ORENCIA. Check with your doctor before you are given any vaccines. Certain vaccinations may cause infections from the vaccine. If you received ORENCIA while you were pregnant, your baby may be at a higher risk for getting such an infection for up to approximately 14 weeks after the last dose you received during pregnancy. It is important that you tell your baby's doctors and other health care professionals about your ORENCIA use during your pregnancy so they can decide when your baby should receive any vaccine.
 
 Your doctor may also do tests to examine your blood values.
@@ -4581,11 +4584,11 @@ It is not known whether ORENCIA passes into human milk. You must stop breast-fee
 
 The use of ORENCIA is not expected to affect the ability to drive, cycle or use machines. However, if you are feeling tired or unwell after receiving ORENCIA, you should not drive, cycle or operate any machinery.
 
+<div style=\"page-break-after: always\"></div>
+
 ## ORENCIA contains sodium
 
 This medicine contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodiumfree'.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 3. How to use ORENCIA
 
@@ -4628,11 +4631,11 @@ If this happens, contact immediately your doctor who will monitor you for any si
 
 Keep track of your next dose. It is very important to use ORENCIA exactly as prescribed by your doctor. If you miss your dose within three days of when you are supposed to take it, take your dose as soon as you remember and then follow your original dosing schedule on your chosen day. If you miss your dose by more than three days, ask your doctor when to take your next dose.
 
+<div style=\"page-break-after: always\"></div>
+
 ## If you stop using ORENCIA
 
 The decision to stop using ORENCIA should be discussed with your doctor.
-
-<div style=\"page-break-after: always\"></div>
 
 If you have any further questions on the use of this medicine, ask your doctor, pharmacist or nurse .
 
@@ -4642,14 +4645,14 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 Possible serious side effects include serious infections, malignancies (cancer) and allergic reactions, as listed below.
 
-Tell your doctor immediately if you notice any of the following:
+## Tell your doctor immediately if you notice any of the following:
 
 -  severe rash, hives or other signs of allergic reaction
 -  swollen face, hands or feet
 -  trouble breathing or swallowing
 -  fever, persistent cough, weight loss, listlessness
 
-Tell your doctor as soon as possible if you notice any of the following:
+## Tell your doctor as soon as possible if you notice any of the following:
 
 -  feeling generally unwell, dental problems, burning sensation during urination, painful skin rash, painful skin blisters, coughing
 
@@ -4682,14 +4685,14 @@ Very common (may affect more than 1 in 10 people):
 -  depression, anxiety, sleep disturbance
 -  migraine
 -  numbness
+
+<div style=\"page-break-after: always\"></div>
+
 -  dry eye, reduced vision
 -  eye inflammation
 -  palpitation, rapid heart rate, low heart rate
 -  low blood pressure, hot flush, blood vessels inflammation, flushing
 -  difficulty in breathing, wheezing, shortness of breath, acute worsening of a lung disease called chronic obstructive pulmonary disease (COPD)
-
-<div style=\"page-break-after: always\"></div>
-
 -  throat tightness
 -  rhinitis
 -  increased tendency to bruise, dry skin, psoriasis, skin redness, excessive sweating, acne
@@ -4736,9 +4739,9 @@ Store in the original package in order to protect from light.
 
 Do not use this medicine if the liquid is cloudy or discoloured, or has large particles. The liquid should be clear to pale yellow.
 
-Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help to protect the environment.
-
 <div style=\"page-break-after: always\"></div>
+
+Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help to protect the environment.
 
 ## 6. Contents of the pack and other information
 
@@ -4770,7 +4773,7 @@ ORENCIA is available in the following presentations:
 
 -  pack of 4 pre-filled syringes with needle guard.
 
-ORENCIA 87.5 mg solution for injection in pre-filled syringe with light blue plunger
+## ORENCIA 87.5 mg solution for injection in pre-filled syringe with light blue plunger
 
 -  pack of 4 pre-filled syringes with needle guard.
 
@@ -4787,17 +4790,129 @@ Bristol-Myers Squibb Pharma EEIG Plaza 254 Blanchardstown Corporate Park 2 Dubli
 
 ## Manufacturer
 
-CATALENT ANAGNI S.R.L. Loc. Fontana del Ceraso snc Strada Provinciale 12 Casilina, 41 03012 Anagni (FR) Italy
-
-Swords Laboratories Unlimited Company t/a Bristol-Myers Squibb Cruiserath Biologics
-
-Cruiserath Road, Mulhuddart Dublin 15 Ireland
+CATALENT ANAGNI S.R.L. Loc. Fontana del Ceraso snc Strada Provinciale 12 Casilina, 41 03012 Anagni (FR) Italy Swords Laboratories Unlimited Company t/a Bristol-Myers Squibb Cruiserath Biologics Cruiserath Road, Mulhuddart Dublin 15 Ireland For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 <div style=\"page-break-after: always\"></div>
 
-## This leaflet was last revised in Other sources of information
+België/Belgique/Belgien N.V. Bristol-Myers Squibb Belgium S.A. Tél/Tel: + 32 2 352 76 11 medicalinfo.belgium@bms.com
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
+България Swixx Biopharma EOOD Teл.: + 359 2 4942 480
+
+[medinfo.bulgaria@swixxbiopharma.com](mailto:medinfo.bulgaria@swixxbiopharma.com)
+
+## Česká republika
+
+Bristol-Myers Squibb spol. s r.o. Tel: + 420 221 016 111
+
+[medinfo.czech@bms.com](mailto:medinfo.czech@bms.com)
+
+Danmark Bristol-Myers Squibb Denmark Tlf: + 45 45 93 05 06 medinfo.denmark@bms.com
+
+Deutschland Bristol-Myers Squibb GmbH &amp; Co. KGaA Tel: 0800 0752002 (+ 49 89 121 42 350) medwiss.info@bms.com
+
+Eesti Swixx Biopharma OÜ Tel: + 372 640 1030
+
+[medinfo.estonia@swixxbiopharma.com](mailto:medinfo.estonia@swixxbiopharma.com)
+
+Ελλάδα Bristol-Myers Squibb A.E. Τηλ: + 30 210 6074300
+
+[medinfo.greece@bms.com](mailto:medinfo.greece@bms.com)
+
+España
+
+Bristol-Myers Squibb, S.A. Tel: + 34 91 456 53 00 informacion.medica@bms.com
+
+France Bristol-Myers Squibb SAS Tél: + 33 (0)1 58 83 84 96 infomed@bms.com Lietuva Swixx Biopharma UAB Tel: + 370 52 369140 medinfo.lithuania@swixxbiopharma.com Luxembourg/Luxemburg N.V. Bristol-Myers Squibb Belgium S.A. Tél/Tel: + 32 2 352 76 11 medicalinfo.belgium@bms.com Magyarország Bristol-Myers Squibb Kft. Tel.: + 36 1 301 9797
+
+[Medinfo.hungary@bms.com](mailto:Medinfo.hungary@bms.com)
+
+Malta A.M. Mangion Ltd
+
+[Tel: + 356 23976333 pv@ammangion.com](mailto:pv@ammangion.com)
+
+Nederland
+
+Bristol-Myers Squibb B.V. Tel: + 31 (0)30 300 2222 medischeafdeling@bms.com
+
+Norge
+
+Bristol-Myers Squibb Norway AS Tlf: + 47 67 55 53 50 medinfo.norway@bms.com
+
+Österreich Bristol-Myers Squibb GesmbH Tel: + 43 1 60 14 30 medinfo.austria@bms.com
+
+Polska Bristol-Myers Squibb Polska Sp. z o.o. Tel.: + 48 22 2606400 informacja.medyczna@bms.com
+
+Portugal Bristol-Myers Squibb Farmacêutica Portuguesa, S.A. Tel: + 351 21 440 70 00 portugal.medinfo@bms.com
+
+<div style=\"page-break-after: always\"></div>
+
+## Hrvatska
+
+Swixx Biopharma d.o.o. Tel: + 385 1 2078 500 medinfo.croatia@swixxbiopharma.com
+
+## Ireland
+
+Bristol-Myers Squibb Pharmaceuticals uc Tel: 1 800 749 749 (+ 353 (0)1 483 3625) medical.information@bms.com
+
+## Ísland
+
+Vistor ehf. Sími: + 354 535 7000
+
+[medical.information@bms.com](mailto:medical.information@bms.com)
+
+## Italia
+
+Bristol-Myers Squibb S.r.l. Tel: + 39 06 50 39 61
+
+[medicalinformation.italia@bms.com](mailto:medicalinformation.italia@bms.com)
+
+## Κύπρος
+
+Bristol-Myers Squibb A.E.
+
+Τηλ: 800 92666 (+ 30 210 6074300) medinfo.greece@bms.com
+
+## Latvija
+
+Swixx Biopharma SIA
+
+Tel: + 371 66164750
+
+[medinfo.latvia@swixxbiopharma.com](mailto:medinfo.latvia@swixxbiopharma.com)
+
+## This leaflet was last revised in
+
+## Other sources of information
+
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
+
+## România
+
+Bristol-Myers Squibb Marketing Services S.R.L. Tel: + 40 (0)21 272 16 19 medinfo.romania@bms.com
+
+## Slovenija
+
+Swixx Biopharma d.o.o. Tel: + 386 1 2355 100
+
+[medinfo.slovenia@swixxbiopharma.com](mailto:medinfo.slovenia@swixxbiopharma.com)
+
+## Slovenská republika
+
+Swixx Biopharma s.r.o. Tel: + 421 2 20833 600
+
+[medinfo.slovakia@swixxbiopharma.com](mailto:medinfo.slovakia@swixxbiopharma.com)
+
+## Suomi/Finland
+
+Oy Bristol-Myers Squibb (Finland) Ab Puh/Tel: + 358 9 251 21 230
+
+[medinfo.finland@bms.com](mailto:medinfo.finland@bms.com)
+
+## Sverige
+
+Bristol-Myers Squibb Aktiebolag Tel: + 46 8 704 71 00
+
+[medinfo.sweden@bms.com](mailto:medinfo.sweden@bms.com)
 
 <div style=\"page-break-after: always\"></div>
 
@@ -4907,17 +5022,15 @@ Hold the pre-filled syringe by the body with the needle cover pointing down as s
 
 - 
 - Check the expiry date printed on the label.
-
-Do not use if the expiry date has passed.
-
+- Do not use if the expiry date has passed.
 -  Check the pre-filled syringe for damage.
 - Do not use if it is cracked or broken.
 
 <div style=\"page-break-after: always\"></div>
 
-Check the liquid
-
 <!-- image -->
+
+## Check the liquid
 
 Check the liquid in the pre-filled syringe through the viewing window. It should be clear and colourless to pale yellow.
 
@@ -4953,7 +5066,10 @@ Choose your injection site in either the abdomen , front of the thighs , or oute
 
 -  Each week you can use the same area of your body, but use a different injection site in that area.
 -  Do not
-- inject into an area where the skin is tender, bruised, red, scaly, or hard. Do not give the injection in any areas with scars or stretch marks.
+- inject into an area where the skin is tender, bruised, red, scaly, or hard.
+
+Do not give the injection in any areas with scars or stretch marks.
+
 -  Record the date, time, and site where you inject.
 
 <!-- image -->
@@ -5138,7 +5254,7 @@ There may be a small air bubble in the liquid in the syringe. There is no need t
 You may notice a drop of fluid leaving the needle. This is normal and will not affect your dose.
 
 -  Don't touch the plunger while you remove the needle cover.
--  Don't remove the needle cover until you are ready to inject ORENCIA .
+-  Don't remove the needle cover until you are ready to inject ORENCIA.
 -  Don't touch the needle or let it touch any surfaces.
 -  Don't use the syringe if it is dropped without the needle cover in place.
 -  Don't put the needle cover back on the needle once removed.
@@ -5246,11 +5362,12 @@ Talk to your doctor, pharmacist or nurse:
 -  if you have had tuberculosis (TB) or have symptoms of tuberculosis (persistent cough, weight loss, listlessness, mild fever) tell your doctor . Before you use ORENCIA, your doctor will examine you for tuberculosis or do a skin test.
 -  if you have viral hepatitis tell your doctor. Before you use ORENCIA, your doctor may examine you for hepatitis.
 -  if you have cancer, your doctor will decide if you can still be given ORENCIA.
+-  Studies have shown an increased risk of non-melanoma skin cancer in patients taking ORENCIA. Discuss with your doctor ways to decrease your risk of skin cancer. Your doctor may recommend that you have regular skin examinations while taking ORENCIA. If there are changes in the appearance of your skin or growths on your skin during or after therapy, tell your doctor.
 -  if you recently had a vaccination or are planning to have one, tell your doctor . Some vaccines should not be given while you are receiving ORENCIA. Check with your doctor before you are given any vaccines. Certain vaccinations may cause infections from the vaccine. If you received ORENCIA while you were pregnant, your baby may be at a higher risk for getting such an infection for up to approximately 14 weeks after the last dose you received during pregnancy. It is important that you tell your baby's doctors and other health care professionals about your ORENCIA use during your pregnancy so they can decide when your baby should receive any vaccine.
 
-Your doctor may also do tests to examine your blood values.
-
 <div style=\"page-break-after: always\"></div>
+
+Your doctor may also do tests to examine your blood values.
 
 ## Children and adolescents
 
@@ -5293,9 +5410,9 @@ This medicine contains less than 1 mmol sodium (23 mg) per dose, that is to say 
 
 Always use this medicine exactly as your doctor or pharmacist has told you. Check with your doctor or pharmacist if you are not sure.
 
-ORENCIA solution for injection is injected under the skin (subcutaneous use).
-
 <div style=\"page-break-after: always\"></div>
+
+ORENCIA solution for injection is injected under the skin (subcutaneous use).
 
 ## Recommended dose
 
@@ -5336,10 +5453,10 @@ Possible serious side effects include serious infections, malignancies (cancer) 
 ## Tell your doctor immediately if you notice any of the following:
 
 -  severe rash, hives or other signs of allergic reaction
--  swollen face, hands or feet
 
 <div style=\"page-break-after: always\"></div>
 
+-  swollen face, hands or feet
 -  trouble breathing or swallowing
 -  fever, persistent cough, weight loss, listlessness
 
@@ -5447,15 +5564,117 @@ Ireland
 
 CATALENT ANAGNI S.R.L. Loc. Fontana del Ceraso snc Strada Provinciale 12 Casilina, 41 03012 Anagni (FR) Italy
 
-Swords Laboratories Unlimited Company t/a Bristol-Myers Squibb Cruiserath Biologics Cruiserath Road, Mulhuddart
+Swords Laboratories Unlimited Company t/a Bristol-Myers Squibb Cruiserath Biologics Cruiserath Road, Mulhuddart Dublin 15 Ireland
 
-Dublin 15 Ireland
+For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
+
+België/Belgique/Belgien N.V. Bristol-Myers Squibb Belgium S.A. Tél/Tel: + 32 2 352 76 11 medicalinfo.belgium@bms.com
+
+България
+
+Swixx Biopharma EOOD Teл.: + 359 2 4942 480 medinfo.bulgaria@swixxbiopharma.com
+
+Česká republika Bristol-Myers Squibb spol. s r.o. Tel: + 420 221 016 111 medinfo.czech@bms.com
+
+Danmark Bristol-Myers Squibb Denmark Tlf: + 45 45 93 05 06 medinfo.denmark@bms.com
+
+Deutschland Bristol-Myers Squibb GmbH &amp; Co. KGaA Tel: 0800 0752002 (+ 49 89 121 42 350) medwiss.info@bms.com
+
+Eesti Swixx Biopharma OÜ Tel: + 372 640 1030 medinfo.estonia@swixxbiopharma.com
+
+Ελλάδα Bristol-Myers Squibb A.E. Τηλ: + 30 210 6074300 medinfo.greece@bms.com
+
+España
+
+Bristol-Myers Squibb, S.A. Tel: + 34 91 456 53 00 informacion.medica@bms.com Lietuva Swixx Biopharma UAB Tel: + 370 52 369140 medinfo.lithuania@swixxbiopharma.com Luxembourg/Luxemburg N.V. Bristol-Myers Squibb Belgium S.A. Tél/Tel: + 32 2 352 76 11 medicalinfo.belgium@bms.com Magyarország Bristol-Myers Squibb Kft. Tel.: + 36 1 301 9797 Medinfo.hungary@bms.com Malta A.M. Mangion Ltd Tel: + 356 23976333 pv@ammangion.com Nederland Bristol-Myers Squibb B.V. Tel: + 31 (0)30 300 2222 medischeafdeling@bms.com Norge Bristol-Myers Squibb Norway AS Tlf: + 47 67 55 53 50 medinfo.norway@bms.com Österreich Bristol-Myers Squibb GesmbH Tel: + 43 1 60 14 30 medinfo.austria@bms.com Polska Bristol-Myers Squibb Polska Sp. z o.o. Tel.: + 48 22 2606400 informacja.medyczna@bms.com
+
+<div style=\"page-break-after: always\"></div>
+
+## France
+
+Bristol-Myers Squibb SAS Tél: + 33 (0)1 58 83 84 96 infomed@bms.com
+
+## Hrvatska
+
+Swixx Biopharma d.o.o. Tel: + 385 1 2078 500
+
+[medinfo.croatia@swixxbiopharma.com](mailto:medinfo.croatia@swixxbiopharma.com)
+
+## Ireland
+
+Bristol-Myers Squibb Pharmaceuticals uc Tel: 1 800 749 749 (+ 353 (0)1 483 3625) medical.information@bms.com
+
+## Ísland
+
+Vistor ehf. Sími: + 354 535 7000
+
+[medical.information@bms.com](mailto:medical.information@bms.com)
+
+Italia
+
+Bristol-Myers Squibb S.r.l. Tel: + 39 06 50 39 61
+
+[medicalinformation.italia@bms.com](mailto:medicalinformation.italia@bms.com)
+
+## Κύπρος
+
+Bristol-Myers Squibb A.E. Τηλ: 800 92666 (+ 30 210 6074300)
+
+[medinfo.greece@bms.com](mailto:medinfo.greece@bms.com)
+
+## Latvija
+
+Swixx Biopharma SIA
+
+Tel: + 371 66164750
+
+[medinfo.latvia@swixxbiopharma.com](mailto:medinfo.latvia@swixxbiopharma.com)
 
 ## This leaflet was last revised in
 
 ## Other sources of information
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
+
+## Portugal
+
+Bristol-Myers Squibb Farmacêutica Portuguesa,
+
+S.A.
+
+Tel: + 351 21 440 70 00
+
+[portugal.medinfo@bms.com](mailto:portugal.medinfo@bms.com)
+
+## România
+
+Bristol-Myers Squibb Marketing Services S.R.L.
+
+[Tel: + 40 (0)21 272 16 19 medinfo.romania@bms.com](mailto:medinfo.romania@bms.com)
+
+## Slovenija
+
+Swixx Biopharma d.o.o.
+
+Tel: + 386 1 2355 100
+
+[medinfo.slovenia@swixxbiopharma.com](mailto:medinfo.slovenia@swixxbiopharma.com)
+
+## Slovenská republika
+
+Swixx Biopharma s.r.o. Tel: + 421 2 20833 600
+
+[medinfo.slovakia@swixxbiopharma.com](mailto:medinfo.slovakia@swixxbiopharma.com)
+
+## Suomi/Finland
+
+Oy Bristol-Myers Squibb (Finland) Ab Puh/Tel: + 358 9 251 21 230
+
+[medinfo.finland@bms.com](mailto:medinfo.finland@bms.com)
+
+Sverige Bristol-Myers Squibb Aktiebolag Tel: + 46 8 704 71 00
+
+[medinfo.sweden@bms.com](mailto:medinfo.sweden@bms.com)
 
 <div style=\"page-break-after: always\"></div>
 
@@ -5518,8 +5737,8 @@ Wash your hands well with soap and water to prepare for injection.
 ## Examine the ClickJect Pre-filled Pen:
 
 -  Check the expiry date printed on the label. DO NOT use if past the expiry date.
--  Check the Pen for damage.
-- DO NOT use if it is cracked or broken.
+- use if it is cracked or broken.
+-  Check the Pen for damage. DO NOT
 -  Check the liquid through the viewing window. It should be clear to pale yellow. You may see a small air bubble. You do not need to remove it. DO NOT inject if the liquid is cloudy, discoloured or has visible particles.
 
 <!-- image -->
@@ -5545,8 +5764,7 @@ Gently clean injection site with an alcohol swab and let your skin dry.
 -  DO NOT twist the needle cover
 -  DO NOT replace the cap on the Pen.
 - You can discard the cap in your household waste after the injection.
--  DO NOT
-- use the Pen if it is dropped after the cap is removed. It's normal to see a drop of fluid leaving the needle.
+-  DO NOT use the Pen if it is dropped after the cap is removed. It's normal to see a drop of fluid leaving the needle.
 
 <!-- image -->
 

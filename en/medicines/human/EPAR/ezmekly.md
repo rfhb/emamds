@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-04-21 15:58:00
+document_datetime: 2026-05-12 16:20:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/ezmekly.html
 document_name: ezmekly.html
 version: success
-processing_time: 0.1166403
-conversion_datetime: 2026-04-25 16:22:29.672988
+processing_time: 0.1127945
+conversion_datetime: 2026-05-13 12:59:16.958982
 docling_version:
-  docling-serve: 1.16.1
-  docling-jobkit: 1.17.1
-  docling: 2.90.0
-  docling-core: 2.74.0
-  docling-ibm-models: 3.13.0
-  docling-parse: 5.9.0
+  docling-serve: 1.17.0
+  docling-jobkit: 1.18.0
+  docling: 2.92.0
+  docling-core: 2.74.1
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.10.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
 ---
 # Ezmekly
 
@@ -122,7 +122,7 @@ English (EN) (130.39 KB - PDF)
 
 [View](/en/documents/overview/ezmekly-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-349)
+[Other languages (22)](#file-language-dropdown-402)
 
 български (BG) (148.96 KB - PDF)
 
@@ -268,161 +268,155 @@ English (EN) (5.67 MB - PDF)
 
 Ezmekly: EPAR - Product information
 
-English (EN) (713.33 KB - PDF)
+English (EN) (722.37 KB - PDF)
 
-**First published:** 20/08/2025 **Last updated:** 21/04/2026
+**First published:** 20/08/2025 **Last updated:** 12/05/2026
 
 [View](/en/documents/product-information/ezmekly-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-727)
+[Other languages (23)](#file-language-dropdown-476)
 
-български (BG) (778.42 KB - PDF)
+български (BG) (790.29 KB - PDF)
 
-**First published:** 20/08/2025 **Last updated:** 21/04/2026
+**First published:** 20/08/2025 **Last updated:** 12/05/2026
 
 [View](/bg/documents/product-information/ezmekly-epar-product-information_bg.pdf)
 
-español (ES) (746.51 KB - PDF)
+español (ES) (769.35 KB - PDF)
 
-**First published:** 20/08/2025 **Last updated:** 21/04/2026
+**First published:** 20/08/2025 **Last updated:** 12/05/2026
 
 [View](/es/documents/product-information/ezmekly-epar-product-information_es.pdf)
 
-čeština (CS) (690.4 KB - PDF)
+čeština (CS) (694.38 KB - PDF)
 
-**First published:** 20/08/2025 **Last updated:** 21/04/2026
+**First published:** 20/08/2025 **Last updated:** 12/05/2026
 
 [View](/cs/documents/product-information/ezmekly-epar-product-information_cs.pdf)
 
-dansk (DA) (678.57 KB - PDF)
+dansk (DA) (707.94 KB - PDF)
 
-**First published:** 20/08/2025 **Last updated:** 21/04/2026
+**First published:** 20/08/2025 **Last updated:** 12/05/2026
 
 [View](/da/documents/product-information/ezmekly-epar-product-information_da.pdf)
 
-Deutsch (DE) (703.61 KB - PDF)
+Deutsch (DE) (746.03 KB - PDF)
 
-**First published:** 20/08/2025 **Last updated:** 21/04/2026
+**First published:** 20/08/2025 **Last updated:** 12/05/2026
 
 [View](/de/documents/product-information/ezmekly-epar-product-information_de.pdf)
 
-eesti keel (ET) (669 KB - PDF)
+eesti keel (ET) (684.9 KB - PDF)
 
-**First published:** 20/08/2025 **Last updated:** 21/04/2026
+**First published:** 20/08/2025 **Last updated:** 12/05/2026
 
 [View](/et/documents/product-information/ezmekly-epar-product-information_et.pdf)
 
-ελληνικά (EL) (836.18 KB - PDF)
+ελληνικά (EL) (855.72 KB - PDF)
 
-**First published:** 20/08/2025 **Last updated:** 21/04/2026
+**First published:** 20/08/2025 **Last updated:** 12/05/2026
 
 [View](/el/documents/product-information/ezmekly-epar-product-information_el.pdf)
 
-français (FR) (670.33 KB - PDF)
+français (FR) (692.59 KB - PDF)
 
-**First published:** 20/08/2025 **Last updated:** 21/04/2026
+**First published:** 20/08/2025 **Last updated:** 12/05/2026
 
 [View](/fr/documents/product-information/ezmekly-epar-product-information_fr.pdf)
 
-hrvatski (HR) (725.48 KB - PDF)
+hrvatski (HR) (735.78 KB - PDF)
 
-**First published:** 20/08/2025 **Last updated:** 21/04/2026
+**First published:** 20/08/2025 **Last updated:** 12/05/2026
 
 [View](/hr/documents/product-information/ezmekly-epar-product-information_hr.pdf)
 
-íslenska (IS) (649.21 KB - PDF)
+íslenska (IS) (672.28 KB - PDF)
 
-**First published:** 20/08/2025 **Last updated:** 21/04/2026
+**First published:** 20/08/2025 **Last updated:** 12/05/2026
 
 [View](/is/documents/product-information/ezmekly-epar-product-information_is.pdf)
 
-italiano (IT) (819.25 KB - PDF)
+italiano (IT) (863.8 KB - PDF)
 
-**First published:** 20/08/2025 **Last updated:** 21/04/2026
+**First published:** 20/08/2025 **Last updated:** 12/05/2026
 
 [View](/it/documents/product-information/ezmekly-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (764.52 KB - PDF)
+latviešu valoda (LV) (785.66 KB - PDF)
 
-**First published:** 20/08/2025 **Last updated:** 21/04/2026
+**First published:** 20/08/2025 **Last updated:** 12/05/2026
 
 [View](/lv/documents/product-information/ezmekly-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (729.25 KB - PDF)
+lietuvių kalba (LT) (731.42 KB - PDF)
 
-**First published:** 20/08/2025 **Last updated:** 21/04/2026
+**First published:** 20/08/2025 **Last updated:** 12/05/2026
 
 [View](/lt/documents/product-information/ezmekly-epar-product-information_lt.pdf)
 
-magyar (HU) (834.22 KB - PDF)
+magyar (HU) (852.81 KB - PDF)
 
-**First published:** 20/08/2025 **Last updated:** 21/04/2026
+**First published:** 20/08/2025 **Last updated:** 12/05/2026
 
 [View](/hu/documents/product-information/ezmekly-epar-product-information_hu.pdf)
 
-Malti (MT) (871.76 KB - PDF)
+Malti (MT) (871 KB - PDF)
 
-**First published:** 20/08/2025 **Last updated:** 21/04/2026
+**First published:** 20/08/2025 **Last updated:** 12/05/2026
 
 [View](/mt/documents/product-information/ezmekly-epar-product-information_mt.pdf)
 
-Nederlands (NL) (719.36 KB - PDF)
+Nederlands (NL) (748.13 KB - PDF)
 
-**First published:** 20/08/2025 **Last updated:** 21/04/2026
+**First published:** 20/08/2025 **Last updated:** 12/05/2026
 
 [View](/nl/documents/product-information/ezmekly-epar-product-information_nl.pdf)
 
-norsk (NO) (615.52 KB - PDF)
+norsk (NO) (637.64 KB - PDF)
 
-**First published:** 20/08/2025 **Last updated:** 21/04/2026
+**First published:** 20/08/2025 **Last updated:** 12/05/2026
 
 [View](/no/documents/product-information/ezmekly-epar-product-information_no.pdf)
 
-polski (PL) (868.56 KB - PDF)
+polski (PL) (889.91 KB - PDF)
 
-**First published:** 20/08/2025 **Last updated:** 21/04/2026
+**First published:** 20/08/2025 **Last updated:** 12/05/2026
 
 [View](/pl/documents/product-information/ezmekly-epar-product-information_pl.pdf)
 
-português (PT) (672.05 KB - PDF)
+português (PT) (685.33 KB - PDF)
 
-**First published:** 20/08/2025 **Last updated:** 21/04/2026
+**First published:** 20/08/2025 **Last updated:** 12/05/2026
 
 [View](/pt/documents/product-information/ezmekly-epar-product-information_pt.pdf)
 
-română (RO) (768.99 KB - PDF)
+română (RO) (784.9 KB - PDF)
 
-**First published:** 20/08/2025 **Last updated:** 21/04/2026
+**First published:** 20/08/2025 **Last updated:** 12/05/2026
 
 [View](/ro/documents/product-information/ezmekly-epar-product-information_ro.pdf)
 
-slovenčina (SK) (748.36 KB - PDF)
+slovenčina (SK) (788.19 KB - PDF)
 
-**First published:** 20/08/2025 **Last updated:** 21/04/2026
+**First published:** 20/08/2025 **Last updated:** 12/05/2026
 
 [View](/sk/documents/product-information/ezmekly-epar-product-information_sk.pdf)
 
-slovenščina (SL) (761.01 KB - PDF)
+Suomi (FI) (720.74 KB - PDF)
 
-**First published:** 20/08/2025 **Last updated:** 21/04/2026
-
-[View](/sl/documents/product-information/ezmekly-epar-product-information_sl.pdf)
-
-Suomi (FI) (700.67 KB - PDF)
-
-**First published:** 20/08/2025 **Last updated:** 21/04/2026
+**First published:** 20/08/2025 **Last updated:** 12/05/2026
 
 [View](/fi/documents/product-information/ezmekly-epar-product-information_fi.pdf)
 
-svenska (SV) (686.66 KB - PDF)
+svenska (SV) (696.2 KB - PDF)
 
-**First published:** 20/08/2025 **Last updated:** 21/04/2026
+**First published:** 20/08/2025 **Last updated:** 12/05/2026
 
 [View](/sv/documents/product-information/ezmekly-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000313332
+**Latest procedure affecting product information:** T/0000334329
 
-12/03/2026
+23/04/2026
 
 icon globe
 
@@ -446,7 +440,7 @@ English (EN) (50.57 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/ezmekly-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-831)
+[Other languages (22)](#file-language-dropdown-3)
 
 български (BG) (68.86 KB - PDF)
 
@@ -631,9 +625,9 @@ This medicine was designated an orphan medicine. This means that it was develope
 
 Marketing authorisation holder
 
-SpringWorks Therapeutics Ireland Limited
+Merck Europe B.V.
 
-70 Sir John Rogerson's Quay Dublin 2 D02 R296 Ireland
+Gustav Mahlerplein 102
 
 Opinion adopted
 
@@ -645,7 +639,7 @@ Marketing authorisation issued
 
 Revision
 
-1
+2
 
 ## Assessment history
 
@@ -657,9 +651,9 @@ Collapse section
 
 Ezmekly : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (148.58 KB - PDF)
+English (EN) (149.6 KB - PDF)
 
-**First published:** 21/04/2026
+**First published:** 21/04/2026 **Last updated:** 12/05/2026
 
 [View](/en/documents/procedural-steps-after/ezmekly-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -707,6 +701,6 @@ English (EN) (185.45 KB - PDF)
 
 **This page was last updated on**
 
-21/04/2026
+12/05/2026
 
 ## Share this page

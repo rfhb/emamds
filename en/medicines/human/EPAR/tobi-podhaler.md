@@ -1,32 +1,32 @@
 ---
-document_datetime: 2025-12-29 08:02:00
+document_datetime: 2026-05-11 17:11:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/tobi-podhaler.html
 document_name: tobi-podhaler.html
 version: success
-processing_time: 0.145573
-conversion_datetime: 2025-12-31 05:08:11.757249
+processing_time: 0.1562936
+conversion_datetime: 2026-05-13 13:13:12.116127
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.17.0
+  docling-jobkit: 1.18.0
+  docling: 2.92.0
+  docling-core: 2.74.1
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.10.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
 ---
 # Tobi Podhaler
 
 [RSS](/en/individual-human-medicine.xml/65935)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-tobramycin Medicine Human Authorised
+tobramycin
 
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
+Medicine Human Authorised
 
 Page contents
 
@@ -112,275 +112,141 @@ Reference Number: EMA/614187/2010
 
 English (EN) (79.81 KB - PDF)
 
-**First published:** 25/08/2011
-
-**Last updated:** 22/03/2016
+**First published:** 25/08/2011 **Last updated:** 22/03/2016
 
 [View](/en/documents/overview/tobi-podhaler-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-959)
+[Other languages (22)](#file-language-dropdown-471)
 
 български (BG) (112.58 KB - PDF)
 
-**First published:**
-
-25/08/2011
-
-**Last updated:**
-
-22/03/2016
+**First published:** 25/08/2011 **Last updated:** 22/03/2016
 
 [View](/bg/documents/overview/tobi-podhaler-epar-summary-public_bg.pdf)
 
 español (ES) (78.68 KB - PDF)
 
-**First published:**
-
-25/08/2011
-
-**Last updated:**
-
-22/03/2016
+**First published:** 25/08/2011 **Last updated:** 22/03/2016
 
 [View](/es/documents/overview/tobi-podhaler-epar-summary-public_es.pdf)
 
 čeština (CS) (104.14 KB - PDF)
 
-**First published:**
-
-25/08/2011
-
-**Last updated:**
-
-22/03/2016
+**First published:** 25/08/2011 **Last updated:** 22/03/2016
 
 [View](/cs/documents/overview/tobi-podhaler-epar-summary-public_cs.pdf)
 
 dansk (DA) (77.62 KB - PDF)
 
-**First published:**
-
-25/08/2011
-
-**Last updated:**
-
-22/03/2016
+**First published:** 25/08/2011 **Last updated:** 22/03/2016
 
 [View](/da/documents/overview/tobi-podhaler-epar-summary-public_da.pdf)
 
 Deutsch (DE) (79.54 KB - PDF)
 
-**First published:**
-
-25/08/2011
-
-**Last updated:**
-
-22/03/2016
+**First published:** 25/08/2011 **Last updated:** 22/03/2016
 
 [View](/de/documents/overview/tobi-podhaler-epar-summary-public_de.pdf)
 
 eesti keel (ET) (77.31 KB - PDF)
 
-**First published:**
-
-25/08/2011
-
-**Last updated:**
-
-22/03/2016
+**First published:** 25/08/2011 **Last updated:** 22/03/2016
 
 [View](/et/documents/overview/tobi-podhaler-epar-summary-public_et.pdf)
 
 ελληνικά (EL) (108.86 KB - PDF)
 
-**First published:**
-
-25/08/2011
-
-**Last updated:**
-
-22/03/2016
+**First published:** 25/08/2011 **Last updated:** 22/03/2016
 
 [View](/el/documents/overview/tobi-podhaler-epar-summary-public_el.pdf)
 
 français (FR) (78.86 KB - PDF)
 
-**First published:**
-
-25/08/2011
-
-**Last updated:**
-
-22/03/2016
+**First published:** 25/08/2011 **Last updated:** 22/03/2016
 
 [View](/fr/documents/overview/tobi-podhaler-epar-summary-public_fr.pdf)
 
 hrvatski (HR) (98.96 KB - PDF)
 
-**First published:**
-
-25/08/2011
-
-**Last updated:**
-
-22/03/2016
+**First published:** 25/08/2011 **Last updated:** 22/03/2016
 
 [View](/hr/documents/overview/tobi-podhaler-epar-summary-public_hr.pdf)
 
 italiano (IT) (77.72 KB - PDF)
 
-**First published:**
-
-25/08/2011
-
-**Last updated:**
-
-22/03/2016
+**First published:** 25/08/2011 **Last updated:** 22/03/2016
 
 [View](/it/documents/overview/tobi-podhaler-epar-summary-public_it.pdf)
 
 latviešu valoda (LV) (100.86 KB - PDF)
 
-**First published:**
-
-25/08/2011
-
-**Last updated:**
-
-22/03/2016
+**First published:** 25/08/2011 **Last updated:** 22/03/2016
 
 [View](/lv/documents/overview/tobi-podhaler-epar-summary-public_lv.pdf)
 
 lietuvių kalba (LT) (101.64 KB - PDF)
 
-**First published:**
-
-25/08/2011
-
-**Last updated:**
-
-22/03/2016
+**First published:** 25/08/2011 **Last updated:** 22/03/2016
 
 [View](/lt/documents/overview/tobi-podhaler-epar-summary-public_lt.pdf)
 
 magyar (HU) (98.53 KB - PDF)
 
-**First published:**
-
-25/08/2011
-
-**Last updated:**
-
-22/03/2016
+**First published:** 25/08/2011 **Last updated:** 22/03/2016
 
 [View](/hu/documents/overview/tobi-podhaler-epar-summary-public_hu.pdf)
 
 Malti (MT) (105.06 KB - PDF)
 
-**First published:**
-
-25/08/2011
-
-**Last updated:**
-
-22/03/2016
+**First published:** 25/08/2011 **Last updated:** 22/03/2016
 
 [View](/mt/documents/overview/tobi-podhaler-epar-summary-public_mt.pdf)
 
 Nederlands (NL) (78.16 KB - PDF)
 
-**First published:**
-
-25/08/2011
-
-**Last updated:**
-
-22/03/2016
+**First published:** 25/08/2011 **Last updated:** 22/03/2016
 
 [View](/nl/documents/overview/tobi-podhaler-epar-summary-public_nl.pdf)
 
 polski (PL) (105.57 KB - PDF)
 
-**First published:**
-
-25/08/2011
-
-**Last updated:**
-
-22/03/2016
+**First published:** 25/08/2011 **Last updated:** 22/03/2016
 
 [View](/pl/documents/overview/tobi-podhaler-epar-summary-public_pl.pdf)
 
 português (PT) (78.52 KB - PDF)
 
-**First published:**
-
-25/08/2011
-
-**Last updated:**
-
-22/03/2016
+**First published:** 25/08/2011 **Last updated:** 22/03/2016
 
 [View](/pt/documents/overview/tobi-podhaler-epar-summary-public_pt.pdf)
 
 română (RO) (99.87 KB - PDF)
 
-**First published:**
-
-25/08/2011
-
-**Last updated:**
-
-22/03/2016
+**First published:** 25/08/2011 **Last updated:** 22/03/2016
 
 [View](/ro/documents/overview/tobi-podhaler-epar-summary-public_ro.pdf)
 
 slovenčina (SK) (104 KB - PDF)
 
-**First published:**
-
-25/08/2011
-
-**Last updated:**
-
-22/03/2016
+**First published:** 25/08/2011 **Last updated:** 22/03/2016
 
 [View](/sk/documents/overview/tobi-podhaler-epar-summary-public_sk.pdf)
 
 slovenščina (SL) (97.96 KB - PDF)
 
-**First published:**
-
-25/08/2011
-
-**Last updated:**
-
-22/03/2016
+**First published:** 25/08/2011 **Last updated:** 22/03/2016
 
 [View](/sl/documents/overview/tobi-podhaler-epar-summary-public_sl.pdf)
 
 Suomi (FI) (77.35 KB - PDF)
 
-**First published:**
-
-25/08/2011
-
-**Last updated:**
-
-22/03/2016
+**First published:** 25/08/2011 **Last updated:** 22/03/2016
 
 [View](/fi/documents/overview/tobi-podhaler-epar-summary-public_fi.pdf)
 
 svenska (SV) (78.08 KB - PDF)
 
-**First published:**
-
-25/08/2011
-
-**Last updated:**
-
-22/03/2016
+**First published:** 25/08/2011 **Last updated:** 22/03/2016
 
 [View](/sv/documents/overview/tobi-podhaler-epar-summary-public_sv.pdf)
 
@@ -388,305 +254,161 @@ svenska (SV) (78.08 KB - PDF)
 
 Tobi Podhaler : EPAR - Product Information
 
-English (EN) (866.45 KB - PDF)
+English (EN) (302.76 KB - PDF)
 
-**First published:** 25/08/2011
-
-**Last updated:** 11/12/2025
+**First published:** 25/08/2011 **Last updated:** 11/05/2026
 
 [View](/en/documents/product-information/tobi-podhaler-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-512)
+[Other languages (24)](#file-language-dropdown-363)
 
-български (BG) (851.89 KB - PDF)
+български (BG) (756.44 KB - PDF)
 
-**First published:**
-
-25/08/2011
-
-**Last updated:**
-
-11/12/2025
+**First published:** 25/08/2011 **Last updated:** 11/05/2026
 
 [View](/bg/documents/product-information/tobi-podhaler-epar-product-information_bg.pdf)
 
-español (ES) (610.4 KB - PDF)
+español (ES) (647.55 KB - PDF)
 
-**First published:**
-
-25/08/2011
-
-**Last updated:**
-
-11/12/2025
+**First published:** 25/08/2011 **Last updated:** 11/05/2026
 
 [View](/es/documents/product-information/tobi-podhaler-epar-product-information_es.pdf)
 
-čeština (CS) (614.88 KB - PDF)
+čeština (CS) (667.55 KB - PDF)
 
-**First published:**
-
-25/08/2011
-
-**Last updated:**
-
-11/12/2025
+**First published:** 25/08/2011 **Last updated:** 11/05/2026
 
 [View](/cs/documents/product-information/tobi-podhaler-epar-product-information_cs.pdf)
 
-dansk (DA) (561.95 KB - PDF)
+dansk (DA) (618.99 KB - PDF)
 
-**First published:**
-
-25/08/2011
-
-**Last updated:**
-
-11/12/2025
+**First published:** 25/08/2011 **Last updated:** 11/05/2026
 
 [View](/da/documents/product-information/tobi-podhaler-epar-product-information_da.pdf)
 
-Deutsch (DE) (650.99 KB - PDF)
+Deutsch (DE) (689.22 KB - PDF)
 
-**First published:**
-
-25/08/2011
-
-**Last updated:**
-
-11/12/2025
+**First published:** 25/08/2011 **Last updated:** 11/05/2026
 
 [View](/de/documents/product-information/tobi-podhaler-epar-product-information_de.pdf)
 
-eesti keel (ET) (666.47 KB - PDF)
+eesti keel (ET) (628.65 KB - PDF)
 
-**First published:**
-
-25/08/2011
-
-**Last updated:**
-
-11/12/2025
+**First published:** 25/08/2011 **Last updated:** 11/05/2026
 
 [View](/et/documents/product-information/tobi-podhaler-epar-product-information_et.pdf)
 
-ελληνικά (EL) (701.04 KB - PDF)
+ελληνικά (EL) (764.12 KB - PDF)
 
-**First published:**
-
-25/08/2011
-
-**Last updated:**
-
-11/12/2025
+**First published:** 25/08/2011 **Last updated:** 11/05/2026
 
 [View](/el/documents/product-information/tobi-podhaler-epar-product-information_el.pdf)
 
-français (FR) (556.29 KB - PDF)
+français (FR) (641.16 KB - PDF)
 
-**First published:**
-
-25/08/2011
-
-**Last updated:**
-
-11/12/2025
+**First published:** 25/08/2011 **Last updated:** 11/05/2026
 
 [View](/fr/documents/product-information/tobi-podhaler-epar-product-information_fr.pdf)
 
-hrvatski (HR) (796.12 KB - PDF)
+hrvatski (HR) (632.43 KB - PDF)
 
-**First published:**
-
-25/08/2011
-
-**Last updated:**
-
-11/12/2025
+**First published:** 25/08/2011 **Last updated:** 11/05/2026
 
 [View](/hr/documents/product-information/tobi-podhaler-epar-product-information_hr.pdf)
 
-íslenska (IS) (563.7 KB - PDF)
+íslenska (IS) (622.69 KB - PDF)
 
-**First published:**
-
-25/08/2011
-
-**Last updated:**
-
-11/12/2025
+**First published:** 25/08/2011 **Last updated:** 11/05/2026
 
 [View](/is/documents/product-information/tobi-podhaler-epar-product-information_is.pdf)
 
-italiano (IT) (634.19 KB - PDF)
+italiano (IT) (629.14 KB - PDF)
 
-**First published:**
-
-25/08/2011
-
-**Last updated:**
-
-11/12/2025
+**First published:** 25/08/2011 **Last updated:** 11/05/2026
 
 [View](/it/documents/product-information/tobi-podhaler-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (352.09 KB - PDF)
+latviešu valoda (LV) (692.12 KB - PDF)
 
-**First published:**
-
-25/08/2011
-
-**Last updated:**
-
-11/12/2025
+**First published:** 25/08/2011 **Last updated:** 11/05/2026
 
 [View](/lv/documents/product-information/tobi-podhaler-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (690.58 KB - PDF)
+lietuvių kalba (LT) (684.45 KB - PDF)
 
-**First published:**
-
-25/08/2011
-
-**Last updated:**
-
-11/12/2025
+**First published:** 25/08/2011 **Last updated:** 11/05/2026
 
 [View](/lt/documents/product-information/tobi-podhaler-epar-product-information_lt.pdf)
 
-magyar (HU) (640.55 KB - PDF)
+magyar (HU) (663.05 KB - PDF)
 
-**First published:**
-
-25/08/2011
-
-**Last updated:**
-
-11/12/2025
+**First published:** 25/08/2011 **Last updated:** 11/05/2026
 
 [View](/hu/documents/product-information/tobi-podhaler-epar-product-information_hu.pdf)
 
-Malti (MT) (714.26 KB - PDF)
+Malti (MT) (685.15 KB - PDF)
 
-**First published:**
-
-25/08/2011
-
-**Last updated:**
-
-11/12/2025
+**First published:** 25/08/2011 **Last updated:** 11/05/2026
 
 [View](/mt/documents/product-information/tobi-podhaler-epar-product-information_mt.pdf)
 
-Nederlands (NL) (754.66 KB - PDF)
+Nederlands (NL) (641.34 KB - PDF)
 
-**First published:**
-
-25/08/2011
-
-**Last updated:**
-
-11/12/2025
+**First published:** 25/08/2011 **Last updated:** 11/05/2026
 
 [View](/nl/documents/product-information/tobi-podhaler-epar-product-information_nl.pdf)
 
-norsk (NO) (622.47 KB - PDF)
+norsk (NO) (616.94 KB - PDF)
 
-**First published:**
-
-25/08/2011
-
-**Last updated:**
-
-11/12/2025
+**First published:** 25/08/2011 **Last updated:** 11/05/2026
 
 [View](/no/documents/product-information/tobi-podhaler-epar-product-information_no.pdf)
 
-polski (PL) (669.48 KB - PDF)
+polski (PL) (692.37 KB - PDF)
 
-**First published:**
-
-25/08/2011
-
-**Last updated:**
-
-11/12/2025
+**First published:** 25/08/2011 **Last updated:** 11/05/2026
 
 [View](/pl/documents/product-information/tobi-podhaler-epar-product-information_pl.pdf)
 
-português (PT) (591.55 KB - PDF)
+português (PT) (626.11 KB - PDF)
 
-**First published:**
-
-25/08/2011
-
-**Last updated:**
-
-11/12/2025
+**First published:** 25/08/2011 **Last updated:** 11/05/2026
 
 [View](/pt/documents/product-information/tobi-podhaler-epar-product-information_pt.pdf)
 
-română (RO) (662.4 KB - PDF)
+română (RO) (658.36 KB - PDF)
 
-**First published:**
-
-25/08/2011
-
-**Last updated:**
-
-11/12/2025
+**First published:** 25/08/2011 **Last updated:** 11/05/2026
 
 [View](/ro/documents/product-information/tobi-podhaler-epar-product-information_ro.pdf)
 
-slovenčina (SK) (786.17 KB - PDF)
+slovenčina (SK) (644.81 KB - PDF)
 
-**First published:**
-
-25/08/2011
-
-**Last updated:**
-
-11/12/2025
+**First published:** 25/08/2011 **Last updated:** 11/05/2026
 
 [View](/sk/documents/product-information/tobi-podhaler-epar-product-information_sk.pdf)
 
-slovenščina (SL) (597.26 KB - PDF)
+slovenščina (SL) (629.28 KB - PDF)
 
-**First published:**
-
-25/08/2011
-
-**Last updated:**
-
-11/12/2025
+**First published:** 25/08/2011 **Last updated:** 11/05/2026
 
 [View](/sl/documents/product-information/tobi-podhaler-epar-product-information_sl.pdf)
 
-Suomi (FI) (415.53 KB - PDF)
+Suomi (FI) (613.33 KB - PDF)
 
-**First published:**
-
-25/08/2011
-
-**Last updated:**
-
-11/12/2025
+**First published:** 25/08/2011 **Last updated:** 11/05/2026
 
 [View](/fi/documents/product-information/tobi-podhaler-epar-product-information_fi.pdf)
 
-svenska (SV) (391.79 KB - PDF)
+svenska (SV) (617.81 KB - PDF)
 
-**First published:**
-
-25/08/2011
-
-**Last updated:**
-
-11/12/2025
+**First published:** 25/08/2011 **Last updated:** 11/05/2026
 
 [View](/sv/documents/product-information/tobi-podhaler-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** N/0000316739 11/12/2025
+**Latest procedure affecting product information:** VR/0000325156
+
+05/05/2026
 
 icon globe
 
@@ -706,310 +428,178 @@ Tobi Podhaler : EPAR - All Authorised presentations
 
 English (EN) (22.61 KB - PDF)
 
-**First published:** 25/08/2011
-
-**Last updated:** 25/08/2011
+**First published:** 25/08/2011 **Last updated:** 25/08/2011
 
 [View](/en/documents/all-authorised-presentations/tobi-podhaler-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-177)
+[Other languages (24)](#file-language-dropdown-905)
 
 български (BG) (95.28 KB - PDF)
 
-**First published:**
-
-25/08/2011
-
-**Last updated:**
-
-25/08/2011
+**First published:** 25/08/2011 **Last updated:** 25/08/2011
 
 [View](/bg/documents/all-authorised-presentations/tobi-podhaler-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (23.16 KB - PDF)
 
-**First published:**
-
-25/08/2011
-
-**Last updated:**
-
-25/08/2011
+**First published:** 25/08/2011 **Last updated:** 25/08/2011
 
 [View](/es/documents/all-authorised-presentations/tobi-podhaler-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (88.84 KB - PDF)
 
-**First published:**
-
-25/08/2011
-
-**Last updated:**
-
-25/08/2011
+**First published:** 25/08/2011 **Last updated:** 25/08/2011
 
 [View](/cs/documents/all-authorised-presentations/tobi-podhaler-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (22.91 KB - PDF)
 
-**First published:**
-
-25/08/2011
-
-**Last updated:**
-
-25/08/2011
+**First published:** 25/08/2011 **Last updated:** 25/08/2011
 
 [View](/da/documents/all-authorised-presentations/tobi-podhaler-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (22.82 KB - PDF)
 
-**First published:**
-
-25/08/2011
-
-**Last updated:**
-
-25/08/2011
+**First published:** 25/08/2011 **Last updated:** 25/08/2011
 
 [View](/de/documents/all-authorised-presentations/tobi-podhaler-epar-all-authorised-presentations_de.pdf)
 
 eesti keel (ET) (23.23 KB - PDF)
 
-**First published:**
-
-25/08/2011
-
-**Last updated:**
-
-25/08/2011
+**First published:** 25/08/2011 **Last updated:** 25/08/2011
 
 [View](/et/documents/all-authorised-presentations/tobi-podhaler-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (88.69 KB - PDF)
 
-**First published:**
-
-25/08/2011
-
-**Last updated:**
-
-25/08/2011
+**First published:** 25/08/2011 **Last updated:** 25/08/2011
 
 [View](/el/documents/all-authorised-presentations/tobi-podhaler-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (23.08 KB - PDF)
 
-**First published:**
-
-25/08/2011
-
-**Last updated:**
-
-25/08/2011
+**First published:** 25/08/2011 **Last updated:** 25/08/2011
 
 [View](/fr/documents/all-authorised-presentations/tobi-podhaler-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (211.32 KB - PDF)
 
-**First published:**
-
-25/08/2011
-
-**Last updated:**
-
-25/08/2011
+**First published:** 25/08/2011 **Last updated:** 25/08/2011
 
 [View](/hr/documents/all-authorised-presentations/tobi-podhaler-epar-all-authorised-presentations_hr.pdf)
 
 íslenska (IS) (23.07 KB - PDF)
 
-**First published:**
-
-25/08/2011
-
-**Last updated:**
-
-25/08/2011
+**First published:** 25/08/2011 **Last updated:** 25/08/2011
 
 [View](/is/documents/all-authorised-presentations/tobi-podhaler-epar-all-authorised-presentations_is.pdf)
 
 italiano (IT) (22.59 KB - PDF)
 
-**First published:**
-
-25/08/2011
-
-**Last updated:**
-
-25/08/2011
+**First published:** 25/08/2011 **Last updated:** 25/08/2011
 
 [View](/it/documents/all-authorised-presentations/tobi-podhaler-epar-all-authorised-presentations_it.pdf)
 
 latviešu valoda (LV) (89.58 KB - PDF)
 
-**First published:**
-
-25/08/2011
-
-**Last updated:**
-
-25/08/2011
+**First published:** 25/08/2011 **Last updated:** 25/08/2011
 
 [View](/lv/documents/all-authorised-presentations/tobi-podhaler-epar-all-authorised-presentations_lv.pdf)
 
 lietuvių kalba (LT) (89.14 KB - PDF)
 
-**First published:**
-
-25/08/2011
-
-**Last updated:**
-
-25/08/2011
+**First published:** 25/08/2011 **Last updated:** 25/08/2011
 
 [View](/lt/documents/all-authorised-presentations/tobi-podhaler-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (144.88 KB - PDF)
 
-**First published:**
-
-25/08/2011
-
-**Last updated:**
-
-25/08/2011
+**First published:** 25/08/2011 **Last updated:** 25/08/2011
 
 [View](/hu/documents/all-authorised-presentations/tobi-podhaler-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (90.78 KB - PDF)
 
-**First published:**
-
-25/08/2011
-
-**Last updated:**
-
-25/08/2011
+**First published:** 25/08/2011 **Last updated:** 25/08/2011
 
 [View](/mt/documents/all-authorised-presentations/tobi-podhaler-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (22.47 KB - PDF)
 
-**First published:**
-
-25/08/2011
-
-**Last updated:**
-
-25/08/2011
+**First published:** 25/08/2011 **Last updated:** 25/08/2011
 
 [View](/nl/documents/all-authorised-presentations/tobi-podhaler-epar-all-authorised-presentations_nl.pdf)
 
 norsk (NO) (23.09 KB - PDF)
 
-**First published:**
-
-25/08/2011
-
-**Last updated:**
-
-25/08/2011
+**First published:** 25/08/2011 **Last updated:** 25/08/2011
 
 [View](/no/documents/all-authorised-presentations/tobi-podhaler-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (91.23 KB - PDF)
 
-**First published:**
-
-25/08/2011
-
-**Last updated:**
-
-25/08/2011
+**First published:** 25/08/2011 **Last updated:** 25/08/2011
 
 [View](/pl/documents/all-authorised-presentations/tobi-podhaler-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (23.13 KB - PDF)
 
-**First published:**
-
-25/08/2011
-
-**Last updated:**
-
-25/08/2011
+**First published:** 25/08/2011 **Last updated:** 25/08/2011
 
 [View](/pt/documents/all-authorised-presentations/tobi-podhaler-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (87.84 KB - PDF)
 
-**First published:**
-
-25/08/2011
-
-**Last updated:**
-
-25/08/2011
+**First published:** 25/08/2011 **Last updated:** 25/08/2011
 
 [View](/ro/documents/all-authorised-presentations/tobi-podhaler-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (89.93 KB - PDF)
 
-**First published:**
-
-25/08/2011
-
-**Last updated:**
-
-25/08/2011
+**First published:** 25/08/2011 **Last updated:** 25/08/2011
 
 [View](/sk/documents/all-authorised-presentations/tobi-podhaler-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (58.64 KB - PDF)
 
-**First published:**
-
-25/08/2011
-
-**Last updated:**
-
-25/08/2011
+**First published:** 25/08/2011 **Last updated:** 25/08/2011
 
 [View](/sl/documents/all-authorised-presentations/tobi-podhaler-epar-all-authorised-presentations_sl.pdf)
 
 Suomi (FI) (22.89 KB - PDF)
 
-**First published:**
-
-25/08/2011
-
-**Last updated:**
-
-25/08/2011
+**First published:** 25/08/2011 **Last updated:** 25/08/2011
 
 [View](/fi/documents/all-authorised-presentations/tobi-podhaler-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (23.03 KB - PDF)
 
-**First published:**
-
-25/08/2011
-
-**Last updated:**
-
-25/08/2011
+**First published:** 25/08/2011 **Last updated:** 25/08/2011
 
 [View](/sv/documents/all-authorised-presentations/tobi-podhaler-epar-all-authorised-presentations_sv.pdf)
 
 ## Product details
 
-Name of medicine Tobi Podhaler Active substance tobramycin International non-proprietary name (INN) or common name tobramycin Therapeutic area (MeSH)
+Name of medicine
+
+Tobi Podhaler
+
+Active substance
+
+tobramycin
+
+International non-proprietary name (INN) or common name
+
+tobramycin
+
+Therapeutic area (MeSH)
 
 - Cystic Fibrosis
 - Respiratory Tract Infections
 
-Anatomical therapeutic chemical (ATC) code J01GB01
+Anatomical therapeutic chemical (ATC) code
+
+J01GB01
 
 ### Pharmacotherapeutic group
 
@@ -1023,13 +613,27 @@ Consideration should be given to official guidance on the appropriate use of ant
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/002155 Marketing authorisation holder
+EMA product number
+
+EMEA/H/C/002155
+
+Marketing authorisation holder
 
 Viatris Healthcare Limited
 
 Damastown Industrial Park Mulhuddart Dublin 15 Dublin Ireland
 
-Opinion adopted 23/09/2010 Marketing authorisation issued 20/07/2011 Revision 24
+Opinion adopted
+
+23/09/2010
+
+Marketing authorisation issued
+
+20/07/2011
+
+Revision
+
+25
 
 ## Assessment history
 
@@ -1041,9 +645,9 @@ Collapse section
 
 Tobi Podhaler : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (147.53 KB - PDF)
+English (EN) (154.53 KB - PDF)
 
-**First published:** 11/12/2025
+**First published:** 11/12/2025 **Last updated:** 11/05/2026
 
 [View](/en/documents/procedural-steps-after/tobi-podhaler-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1051,9 +655,7 @@ Tobi Podhaler : EPAR - Procedural steps taken and scientific information after a
 
 English (EN) (262.51 KB - PDF)
 
-**First published:** 03/05/2012
-
-**Last updated:** 11/12/2025
+**First published:** 03/05/2012 **Last updated:** 11/12/2025
 
 [View](/en/documents/procedural-steps-after/tobi-podhaler-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
@@ -1069,9 +671,7 @@ English (EN) (93.71 KB - PDF)
 
 TOBI Podhaler-H-C-002155-P46-030: EPAR - Assessment report
 
-Adopted
-
-Reference Number: EMA/220887/2023
+Adopted Reference Number: EMA/220887/2023
 
 English (EN) (481.39 KB - PDF)
 
@@ -1081,9 +681,7 @@ English (EN) (481.39 KB - PDF)
 
 TOBI Podhaler-H-C-002155-P46-031: EPAR - Assessment report
 
-Adopted
-
-Reference Number: EMA/220907/2023
+Adopted Reference Number: EMA/220907/2023
 
 English (EN) (348.95 KB - PDF)
 
@@ -1093,9 +691,7 @@ English (EN) (348.95 KB - PDF)
 
 TOBI Podhaler-H-C-002155-P46-033: EPAR - Assessment report
 
-Adopted
-
-Reference Number: EMA/220904/2023
+Adopted Reference Number: EMA/220904/2023
 
 English (EN) (436.89 KB - PDF)
 
@@ -1115,71 +711,51 @@ English (EN) (261.53 KB - PDF)
 
 Tobi Podhaler-H-C-2155-P46-0027: EPAR - Assessment Report
 
-Adopted
-
-Reference Number: EMA/533035/2016
+Adopted Reference Number: EMA/533035/2016
 
 English (EN) (886.77 KB - PDF)
 
-**First published:** 05/08/2016
-
-**Last updated:** 05/08/2016
+**First published:** 05/08/2016 **Last updated:** 05/08/2016
 
 [View](/en/documents/variation-report/tobi-podhaler-h-c-2155-p46-0027-epar-assessment-report_en.pdf)
 
 Tobi Podhaler-H-C-2155-P46-0029 : EPAR - Assessment Report
 
-Adopted
-
-Reference Number: EMA/451636/2016
+Adopted Reference Number: EMA/451636/2016
 
 English (EN) (626.73 KB - PDF)
 
-**First published:** 05/07/2016
-
-**Last updated:** 05/07/2016
+**First published:** 05/07/2016 **Last updated:** 05/07/2016
 
 [View](/en/documents/variation-report/tobi-podhaler-h-c-2155-p46-0029-epar-assessment-report_en.pdf)
 
 Tobi Podhaler-H-C-2155-P46-0028 : EPAR - Assessment Report
 
-Adopted
-
-Reference Number: EMA/194399/2016
+Adopted Reference Number: EMA/194399/2016
 
 English (EN) (3.07 MB - PDF)
 
-**First published:** 15/03/2016
-
-**Last updated:** 15/03/2016
+**First published:** 15/03/2016 **Last updated:** 15/03/2016
 
 [View](/en/documents/variation-report/tobi-podhaler-h-c-2155-p46-0028-epar-assessment-report_en.pdf)
 
 Tobi Podhaler-H-C-2155-P46-0026: EPAR - Assessment Report
 
-Adopted
-
-Reference Number: EMA/CHMP/780249/2015
+Adopted Reference Number: EMA/CHMP/780249/2015
 
 English (EN) (443.84 KB - PDF)
 
-**First published:** 17/12/2015
-
-**Last updated:** 17/12/2015
+**First published:** 17/12/2015 **Last updated:** 17/12/2015
 
 [View](/en/documents/variation-report/tobi-podhaler-h-c-2155-p46-0026-epar-assessment-report_en.pdf)
 
 Tobi Podhaler-H-C-2155-P46-0024 : EPAR - Assessment Report
 
-Adopted
-
-Reference Number: EMA/589999/2015
+Adopted Reference Number: EMA/589999/2015
 
 English (EN) (631.89 KB - PDF)
 
-**First published:** 15/10/2015
-
-**Last updated:** 15/10/2015
+**First published:** 15/10/2015 **Last updated:** 15/10/2015
 
 [View](/en/documents/variation-report/tobi-podhaler-h-c-2155-p46-0024-epar-assessment-report_en.pdf)
 
@@ -1189,23 +765,17 @@ Reference Number: EMA/759531/2014
 
 English (EN) (63.75 KB - PDF)
 
-**First published:** 23/01/2015
-
-**Last updated:** 23/01/2015
+**First published:** 23/01/2015 **Last updated:** 23/01/2015
 
 [View](/en/documents/pip-compliance/tobi-podhaler-epar-paediatric-investigation-plan-compliance-statement_en.pdf)
 
 Tobi Podhaler-H-C-2155-II-0027-G : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/CHMP/701057/2014
+Adopted Reference Number: EMA/CHMP/701057/2014
 
 English (EN) (459.82 KB - PDF)
 
-**First published:** 23/01/2015
-
-**Last updated:** 23/01/2015
+**First published:** 23/01/2015 **Last updated:** 23/01/2015
 
 [View](/en/documents/variation-report/tobi-podhaler-h-c-2155-ii-0027-g-epar-assessment-report-variation_en.pdf)
 
@@ -1215,9 +785,7 @@ Reference Number: EMA/CHMP/443412/2013
 
 English (EN) (78.96 KB - PDF)
 
-**First published:** 16/12/2013
-
-**Last updated:** 16/12/2013
+**First published:** 16/12/2013 **Last updated:** 16/12/2013
 
 [View](/en/documents/scientific-conclusion/tobi-podhaler-h-c-2155-psuv-0015-epar-scientific-conclusion-and-grounds-recommending-variation-terms-marketing-authorisation_en.pdf)
 
@@ -1229,247 +797,193 @@ Adopted
 
 English (EN) (574.47 KB - PDF)
 
-**First published:** 25/08/2011
-
-**Last updated:** 25/08/2011
+**First published:** 25/08/2011 **Last updated:** 25/08/2011
 
 [View](/en/documents/assessment-report/tobi-podhaler-epar-public-assessment-report_en.pdf)
 
 CHMP summary of positive opinion for Tobi Podhaler
 
-Adopted
-
-Reference Number: EMA/CHMP/571131/2010
+Adopted Reference Number: EMA/CHMP/571131/2010
 
 English (EN) (50.93 KB - PDF)
 
-**First published:** 24/09/2010
-
-**Last updated:** 24/09/2010
+**First published:** 24/09/2010 **Last updated:** 24/09/2010
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-tobi-podhaler_en.pdf)
 
-#### Product information - with tracked changes
+## Product information - with tracked changes
 
 The approved product information for this medicine is available below showing the changes since the previous procedure affecting the product information. The same document without tracked changes is above under 'Product information'.
 
 Tobi Podhaler : EPAR - Product information - tracked changes
 
-English (EN) (625.5 KB - DOC)
+English (EN) (648.5 KB - DOC)
 
-**First published:** 14/05/2025
+**First published:** 14/05/2025 **Last updated:** 11/05/2026
 
 [View](/en/documents/product-information-tracked-changes/tobi-podhaler-epar-product-information-tracked-changes_en.doc)
 
-[Other languages (24)](#file-language-dropdown-83)
+[Other languages (24)](#file-language-dropdown-170)
 
-български (BG) (488.22 KB - DOCX)
+български (BG) (495.15 KB - DOCX)
 
-**First published:**
-
-14/05/2025
+**First published:** 14/05/2025 **Last updated:** 11/05/2026
 
 [View](/bg/documents/product-information-tracked-changes/tobi-podhaler-epar-product-information-tracked-changes_bg.docx)
 
-español (ES) (472.68 KB - DOCX)
+español (ES) (480.66 KB - DOCX)
 
-**First published:**
-
-14/05/2025
+**First published:** 14/05/2025 **Last updated:** 11/05/2026
 
 [View](/es/documents/product-information-tracked-changes/tobi-podhaler-epar-product-information-tracked-changes_es.docx)
 
-čeština (CS) (468.22 KB - DOCX)
+čeština (CS) (475.37 KB - DOCX)
 
-**First published:**
-
-14/05/2025
+**First published:** 14/05/2025 **Last updated:** 11/05/2026
 
 [View](/cs/documents/product-information-tracked-changes/tobi-podhaler-epar-product-information-tracked-changes_cs.docx)
 
-dansk (DA) (462.86 KB - DOCX)
+dansk (DA) (466.13 KB - DOCX)
 
-**First published:**
-
-14/05/2025
+**First published:** 14/05/2025 **Last updated:** 11/05/2026
 
 [View](/da/documents/product-information-tracked-changes/tobi-podhaler-epar-product-information-tracked-changes_da.docx)
 
-Deutsch (DE) (481.3 KB - DOCX)
+Deutsch (DE) (485.13 KB - DOCX)
 
-**First published:**
-
-14/05/2025
+**First published:** 14/05/2025 **Last updated:** 11/05/2026
 
 [View](/de/documents/product-information-tracked-changes/tobi-podhaler-epar-product-information-tracked-changes_de.docx)
 
-eesti keel (ET) (453.26 KB - DOCX)
+eesti keel (ET) (460.14 KB - DOCX)
 
-**First published:**
-
-14/05/2025
+**First published:** 14/05/2025 **Last updated:** 11/05/2026
 
 [View](/et/documents/product-information-tracked-changes/tobi-podhaler-epar-product-information-tracked-changes_et.docx)
 
-ελληνικά (EL) (470.85 KB - DOCX)
+ελληνικά (EL) (481.18 KB - DOCX)
 
-**First published:**
-
-14/05/2025
+**First published:** 14/05/2025 **Last updated:** 11/05/2026
 
 [View](/el/documents/product-information-tracked-changes/tobi-podhaler-epar-product-information-tracked-changes_el.docx)
 
-français (FR) (469.84 KB - DOCX)
+français (FR) (478.22 KB - DOCX)
 
-**First published:**
-
-14/05/2025
+**First published:** 14/05/2025 **Last updated:** 11/05/2026
 
 [View](/fr/documents/product-information-tracked-changes/tobi-podhaler-epar-product-information-tracked-changes_fr.docx)
 
-hrvatski (HR) (474.76 KB - DOCX)
+hrvatski (HR) (483.11 KB - DOCX)
 
-**First published:**
-
-14/05/2025
+**First published:** 14/05/2025 **Last updated:** 11/05/2026
 
 [View](/hr/documents/product-information-tracked-changes/tobi-podhaler-epar-product-information-tracked-changes_hr.docx)
 
-íslenska (IS) (457.4 KB - DOCX)
+íslenska (IS) (468.24 KB - DOCX)
 
-**First published:**
-
-14/05/2025
+**First published:** 14/05/2025 **Last updated:** 11/05/2026
 
 [View](/is/documents/product-information-tracked-changes/tobi-podhaler-epar-product-information-tracked-changes_is.docx)
 
-italiano (IT) (482.94 KB - DOCX)
+italiano (IT) (482.77 KB - DOCX)
 
-**First published:**
-
-14/05/2025
+**First published:** 14/05/2025 **Last updated:** 11/05/2026
 
 [View](/it/documents/product-information-tracked-changes/tobi-podhaler-epar-product-information-tracked-changes_it.docx)
 
-latviešu valoda (LV) (450.49 KB - DOCX)
+latviešu valoda (LV) (459.29 KB - DOCX)
 
-**First published:**
-
-14/05/2025
+**First published:** 14/05/2025 **Last updated:** 11/05/2026
 
 [View](/lv/documents/product-information-tracked-changes/tobi-podhaler-epar-product-information-tracked-changes_lv.docx)
 
-lietuvių kalba (LT) (450.16 KB - DOCX)
+lietuvių kalba (LT) (455.47 KB - DOCX)
 
-**First published:**
-
-14/05/2025
+**First published:** 14/05/2025 **Last updated:** 11/05/2026
 
 [View](/lt/documents/product-information-tracked-changes/tobi-podhaler-epar-product-information-tracked-changes_lt.docx)
 
-magyar (HU) (461.65 KB - DOCX)
+magyar (HU) (470.53 KB - DOCX)
 
-**First published:**
-
-14/05/2025
+**First published:** 14/05/2025 **Last updated:** 11/05/2026
 
 [View](/hu/documents/product-information-tracked-changes/tobi-podhaler-epar-product-information-tracked-changes_hu.docx)
 
-Malti (MT) (465.12 KB - DOCX)
+Malti (MT) (473.56 KB - DOCX)
 
-**First published:**
-
-14/05/2025
+**First published:** 14/05/2025 **Last updated:** 11/05/2026
 
 [View](/mt/documents/product-information-tracked-changes/tobi-podhaler-epar-product-information-tracked-changes_mt.docx)
 
-Nederlands (NL) (465.46 KB - DOCX)
+Nederlands (NL) (473.83 KB - DOCX)
 
-**First published:**
-
-14/05/2025
+**First published:** 14/05/2025 **Last updated:** 11/05/2026
 
 [View](/nl/documents/product-information-tracked-changes/tobi-podhaler-epar-product-information-tracked-changes_nl.docx)
 
-norsk (NO) (464.96 KB - DOCX)
+norsk (NO) (474.01 KB - DOCX)
 
-**First published:**
-
-14/05/2025
+**First published:** 14/05/2025 **Last updated:** 11/05/2026
 
 [View](/no/documents/product-information-tracked-changes/tobi-podhaler-epar-product-information-tracked-changes_no.docx)
 
-polski (PL) (480.35 KB - DOCX)
+polski (PL) (487.19 KB - DOCX)
 
-**First published:**
-
-14/05/2025
+**First published:** 14/05/2025 **Last updated:** 11/05/2026
 
 [View](/pl/documents/product-information-tracked-changes/tobi-podhaler-epar-product-information-tracked-changes_pl.docx)
 
-português (PT) (463.16 KB - DOCX)
+português (PT) (475.83 KB - DOCX)
 
-**First published:**
-
-14/05/2025
+**First published:** 14/05/2025 **Last updated:** 11/05/2026
 
 [View](/pt/documents/product-information-tracked-changes/tobi-podhaler-epar-product-information-tracked-changes_pt.docx)
 
-română (RO) (428.66 KB - DOCX)
+română (RO) (437.58 KB - DOCX)
 
-**First published:**
-
-14/05/2025
+**First published:** 14/05/2025 **Last updated:** 11/05/2026
 
 [View](/ro/documents/product-information-tracked-changes/tobi-podhaler-epar-product-information-tracked-changes_ro.docx)
 
-slovenčina (SK) (462.19 KB - DOCX)
+slovenčina (SK) (468.88 KB - DOCX)
 
-**First published:**
-
-14/05/2025
+**First published:** 14/05/2025 **Last updated:** 11/05/2026
 
 [View](/sk/documents/product-information-tracked-changes/tobi-podhaler-epar-product-information-tracked-changes_sk.docx)
 
-slovenščina (SL) (463.25 KB - DOCX)
+slovenščina (SL) (469.66 KB - DOCX)
 
-**First published:**
-
-14/05/2025
+**First published:** 14/05/2025 **Last updated:** 11/05/2026
 
 [View](/sl/documents/product-information-tracked-changes/tobi-podhaler-epar-product-information-tracked-changes_sl.docx)
 
-Suomi (FI) (468.86 KB - DOCX)
+Suomi (FI) (475.59 KB - DOCX)
 
-**First published:**
-
-14/05/2025
+**First published:** 14/05/2025 **Last updated:** 11/05/2026
 
 [View](/fi/documents/product-information-tracked-changes/tobi-podhaler-epar-product-information-tracked-changes_fi.docx)
 
-svenska (SV) (454.73 KB - DOCX)
+svenska (SV) (461.98 KB - DOCX)
 
-**First published:**
-
-14/05/2025
+**First published:** 14/05/2025 **Last updated:** 11/05/2026
 
 [View](/sv/documents/product-information-tracked-changes/tobi-podhaler-epar-product-information-tracked-changes_sv.docx)
 
-#### More information on Tobi Podhaler
+## More information on Tobi Podhaler
 
 This product is no longer an orphan medicine. It was originally [designated an orphan medicine](/en/medicines/human/orphan-designations/eu-3-03-140) on 17 April 2003. Tobi Podhaler was withdrawn from the Community register of orphan medicinal products in July 2023 at the end of the 12-year period of market exclusivity.
 
-#### More information on Tobi Podhaler
+## More information on Tobi Podhaler
 
 - [EMEA-000184-PIP01-08-M02 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-000184-pip01-08-m02)
 - [EMEA-000184-PIP03-16 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-000184-pip03-16)
 
-#### Topics
+## Topics
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 11/12/2025
+**This page was last updated on**
+
+11/05/2026
 
 ## Share this page
-
-[Back to top](#main-content)

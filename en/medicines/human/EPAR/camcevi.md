@@ -1,32 +1,32 @@
 ---
-document_datetime: 2025-12-29 07:00:07
+document_datetime: 2026-05-11 17:02:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/camcevi.html
 document_name: camcevi.html
 version: success
-processing_time: 0.1059278
-conversion_datetime: 2025-12-31 04:10:59.777964
+processing_time: 0.1214553
+conversion_datetime: 2026-05-13 12:50:51.073053
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.17.0
+  docling-jobkit: 1.18.0
+  docling: 2.92.0
+  docling-core: 2.74.1
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.10.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
 ---
 # Camcevi
 
 [RSS](/en/individual-human-medicine.xml/67566)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-leuprorelin Medicine Human Authorised
+leuprorelin
 
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
+Medicine Human Authorised
 
 Page contents
 
@@ -105,495 +105,307 @@ English (EN) (137.22 KB - PDF)
 
 [View](/en/documents/overview/camcevi-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-733)
+[Other languages (22)](#file-language-dropdown-988)
 
 български (BG) (141.03 KB - PDF)
 
-**First published:**
-
-20/06/2022
+**First published:** 20/06/2022
 
 [View](/bg/documents/overview/camcevi-epar-medicine-overview_bg.pdf)
 
 español (ES) (117.52 KB - PDF)
 
-**First published:**
-
-20/06/2022
+**First published:** 20/06/2022
 
 [View](/es/documents/overview/camcevi-epar-medicine-overview_es.pdf)
 
 čeština (CS) (138.61 KB - PDF)
 
-**First published:**
-
-20/06/2022
+**First published:** 20/06/2022
 
 [View](/cs/documents/overview/camcevi-epar-medicine-overview_cs.pdf)
 
 dansk (DA) (115.08 KB - PDF)
 
-**First published:**
-
-20/06/2022
+**First published:** 20/06/2022
 
 [View](/da/documents/overview/camcevi-epar-medicine-overview_da.pdf)
 
 Deutsch (DE) (119.61 KB - PDF)
 
-**First published:**
-
-20/06/2022
+**First published:** 20/06/2022
 
 [View](/de/documents/overview/camcevi-epar-medicine-overview_de.pdf)
 
 eesti keel (ET) (104.49 KB - PDF)
 
-**First published:**
-
-20/06/2022
+**First published:** 20/06/2022
 
 [View](/et/documents/overview/camcevi-epar-medicine-overview_et.pdf)
 
 ελληνικά (EL) (138.98 KB - PDF)
 
-**First published:**
-
-20/06/2022
+**First published:** 20/06/2022
 
 [View](/el/documents/overview/camcevi-epar-medicine-overview_el.pdf)
 
 français (FR) (118.09 KB - PDF)
 
-**First published:**
-
-20/06/2022
+**First published:** 20/06/2022
 
 [View](/fr/documents/overview/camcevi-epar-medicine-overview_fr.pdf)
 
 hrvatski (HR) (137.61 KB - PDF)
 
-**First published:**
-
-20/06/2022
+**First published:** 20/06/2022
 
 [View](/hr/documents/overview/camcevi-epar-medicine-overview_hr.pdf)
 
 italiano (IT) (115.86 KB - PDF)
 
-**First published:**
-
-20/06/2022
+**First published:** 20/06/2022
 
 [View](/it/documents/overview/camcevi-epar-medicine-overview_it.pdf)
 
 latviešu valoda (LV) (154.76 KB - PDF)
 
-**First published:**
-
-20/06/2022
+**First published:** 20/06/2022
 
 [View](/lv/documents/overview/camcevi-epar-medicine-overview_lv.pdf)
 
 lietuvių kalba (LT) (138.91 KB - PDF)
 
-**First published:**
-
-20/06/2022
+**First published:** 20/06/2022
 
 [View](/lt/documents/overview/camcevi-epar-medicine-overview_lt.pdf)
 
 magyar (HU) (138.7 KB - PDF)
 
-**First published:**
-
-20/06/2022
+**First published:** 20/06/2022
 
 [View](/hu/documents/overview/camcevi-epar-medicine-overview_hu.pdf)
 
 Malti (MT) (140.75 KB - PDF)
 
-**First published:**
-
-20/06/2022
+**First published:** 20/06/2022
 
 [View](/mt/documents/overview/camcevi-epar-medicine-overview_mt.pdf)
 
 Nederlands (NL) (116.42 KB - PDF)
 
-**First published:**
-
-20/06/2022
+**First published:** 20/06/2022
 
 [View](/nl/documents/overview/camcevi-epar-medicine-overview_nl.pdf)
 
 polski (PL) (140.79 KB - PDF)
 
-**First published:**
-
-20/06/2022
+**First published:** 20/06/2022
 
 [View](/pl/documents/overview/camcevi-epar-medicine-overview_pl.pdf)
 
 português (PT) (118.17 KB - PDF)
 
-**First published:**
-
-20/06/2022
+**First published:** 20/06/2022
 
 [View](/pt/documents/overview/camcevi-epar-medicine-overview_pt.pdf)
 
 română (RO) (135.41 KB - PDF)
 
-**First published:**
-
-20/06/2022
+**First published:** 20/06/2022
 
 [View](/ro/documents/overview/camcevi-epar-medicine-overview_ro.pdf)
 
 slovenčina (SK) (138.9 KB - PDF)
 
-**First published:**
-
-20/06/2022
+**First published:** 20/06/2022
 
 [View](/sk/documents/overview/camcevi-epar-medicine-overview_sk.pdf)
 
 slovenščina (SL) (135.09 KB - PDF)
 
-**First published:**
-
-20/06/2022
+**First published:** 20/06/2022
 
 [View](/sl/documents/overview/camcevi-epar-medicine-overview_sl.pdf)
 
 Suomi (FI) (113.1 KB - PDF)
 
-**First published:**
-
-20/06/2022
+**First published:** 20/06/2022
 
 [View](/fi/documents/overview/camcevi-epar-medicine-overview_fi.pdf)
 
 svenska (SV) (115.55 KB - PDF)
 
-**First published:**
-
-20/06/2022
+**First published:** 20/06/2022
 
 [View](/sv/documents/overview/camcevi-epar-medicine-overview_sv.pdf)
 
-Camcevi : EPAR - Risk management plan summary
+Camcevi : EPAR - Risk management plan
 
-English (EN) (113.05 KB - PDF)
+English (EN) (219.67 KB - PDF)
 
-**First published:** 20/06/2022
+**First published:** 20/06/2022 **Last updated:** 11/05/2026
 
-[View](/en/documents/rmp-summary/camcevi-epar-risk-management-plan-summary_en.pdf)
+[View](/en/documents/rmp/camcevi-epar-risk-management-plan_en.pdf)
 
 ## Product information
 
 Camcevi : EPAR - Product Information
 
-English (EN) (411.11 KB - PDF)
+English (EN) (1.3 MB - PDF)
 
-**First published:** 20/06/2022
-
-**Last updated:** 03/04/2025
+**First published:** 20/06/2022 **Last updated:** 11/05/2026
 
 [View](/en/documents/product-information/camcevi-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-760)
+[Other languages (24)](#file-language-dropdown-541)
 
-български (BG) (447.38 KB - PDF)
+български (BG) (1.67 MB - PDF)
 
-**First published:**
-
-20/06/2022
-
-**Last updated:**
-
-03/04/2025
+**First published:** 20/06/2022 **Last updated:** 11/05/2026
 
 [View](/bg/documents/product-information/camcevi-epar-product-information_bg.pdf)
 
-español (ES) (410.9 KB - PDF)
+español (ES) (1.31 MB - PDF)
 
-**First published:**
-
-20/06/2022
-
-**Last updated:**
-
-03/04/2025
+**First published:** 20/06/2022 **Last updated:** 11/05/2026
 
 [View](/es/documents/product-information/camcevi-epar-product-information_es.pdf)
 
-čeština (CS) (395.6 KB - PDF)
+čeština (CS) (1.06 MB - PDF)
 
-**First published:**
-
-20/06/2022
-
-**Last updated:**
-
-03/04/2025
+**First published:** 20/06/2022 **Last updated:** 11/05/2026
 
 [View](/cs/documents/product-information/camcevi-epar-product-information_cs.pdf)
 
-dansk (DA) (373.2 KB - PDF)
+dansk (DA) (994.86 KB - PDF)
 
-**First published:**
-
-20/06/2022
-
-**Last updated:**
-
-03/04/2025
+**First published:** 20/06/2022 **Last updated:** 11/05/2026
 
 [View](/da/documents/product-information/camcevi-epar-product-information_da.pdf)
 
-Deutsch (DE) (430.67 KB - PDF)
+Deutsch (DE) (1.33 MB - PDF)
 
-**First published:**
-
-20/06/2022
-
-**Last updated:**
-
-03/04/2025
+**First published:** 20/06/2022 **Last updated:** 11/05/2026
 
 [View](/de/documents/product-information/camcevi-epar-product-information_de.pdf)
 
-eesti keel (ET) (399.96 KB - PDF)
+eesti keel (ET) (1.3 MB - PDF)
 
-**First published:**
-
-20/06/2022
-
-**Last updated:**
-
-03/04/2025
+**First published:** 20/06/2022 **Last updated:** 11/05/2026
 
 [View](/et/documents/product-information/camcevi-epar-product-information_et.pdf)
 
-ελληνικά (EL) (451.64 KB - PDF)
+ελληνικά (EL) (1.35 MB - PDF)
 
-**First published:**
-
-20/06/2022
-
-**Last updated:**
-
-03/04/2025
+**First published:** 20/06/2022 **Last updated:** 11/05/2026
 
 [View](/el/documents/product-information/camcevi-epar-product-information_el.pdf)
 
-français (FR) (429.68 KB - PDF)
+français (FR) (1.4 MB - PDF)
 
-**First published:**
-
-20/06/2022
-
-**Last updated:**
-
-03/04/2025
+**First published:** 20/06/2022 **Last updated:** 11/05/2026
 
 [View](/fr/documents/product-information/camcevi-epar-product-information_fr.pdf)
 
-hrvatski (HR) (439.52 KB - PDF)
+hrvatski (HR) (1.53 MB - PDF)
 
-**First published:**
-
-20/06/2022
-
-**Last updated:**
-
-03/04/2025
+**First published:** 20/06/2022 **Last updated:** 11/05/2026
 
 [View](/hr/documents/product-information/camcevi-epar-product-information_hr.pdf)
 
-íslenska (IS) (347.66 KB - PDF)
+íslenska (IS) (1.24 MB - PDF)
 
-**First published:**
-
-20/06/2022
-
-**Last updated:**
-
-03/04/2025
+**First published:** 20/06/2022 **Last updated:** 11/05/2026
 
 [View](/is/documents/product-information/camcevi-epar-product-information_is.pdf)
 
-italiano (IT) (434.57 KB - PDF)
+italiano (IT) (1.61 MB - PDF)
 
-**First published:**
-
-20/06/2022
-
-**Last updated:**
-
-03/04/2025
+**First published:** 20/06/2022 **Last updated:** 11/05/2026
 
 [View](/it/documents/product-information/camcevi-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (430.98 KB - PDF)
+latviešu valoda (LV) (1.38 MB - PDF)
 
-**First published:**
-
-20/06/2022
-
-**Last updated:**
-
-03/04/2025
+**First published:** 20/06/2022 **Last updated:** 11/05/2026
 
 [View](/lv/documents/product-information/camcevi-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (411.37 KB - PDF)
+lietuvių kalba (LT) (1.41 MB - PDF)
 
-**First published:**
-
-20/06/2022
-
-**Last updated:**
-
-03/04/2025
+**First published:** 20/06/2022 **Last updated:** 11/05/2026
 
 [View](/lt/documents/product-information/camcevi-epar-product-information_lt.pdf)
 
-magyar (HU) (466.01 KB - PDF)
+magyar (HU) (1.3 MB - PDF)
 
-**First published:**
-
-20/06/2022
-
-**Last updated:**
-
-03/04/2025
+**First published:** 20/06/2022 **Last updated:** 11/05/2026
 
 [View](/hu/documents/product-information/camcevi-epar-product-information_hu.pdf)
 
-Malti (MT) (428.81 KB - PDF)
+Malti (MT) (1.53 MB - PDF)
 
-**First published:**
-
-20/06/2022
-
-**Last updated:**
-
-03/04/2025
+**First published:** 20/06/2022 **Last updated:** 11/05/2026
 
 [View](/mt/documents/product-information/camcevi-epar-product-information_mt.pdf)
 
-Nederlands (NL) (387.39 KB - PDF)
+Nederlands (NL) (1.39 MB - PDF)
 
-**First published:**
-
-20/06/2022
-
-**Last updated:**
-
-03/04/2025
+**First published:** 20/06/2022 **Last updated:** 11/05/2026
 
 [View](/nl/documents/product-information/camcevi-epar-product-information_nl.pdf)
 
-norsk (NO) (385.88 KB - PDF)
+norsk (NO) (1.03 MB - PDF)
 
-**First published:**
-
-20/06/2022
-
-**Last updated:**
-
-03/04/2025
+**First published:** 20/06/2022 **Last updated:** 11/05/2026
 
 [View](/no/documents/product-information/camcevi-epar-product-information_no.pdf)
 
-polski (PL) (463.52 KB - PDF)
+polski (PL) (1.5 MB - PDF)
 
-**First published:**
-
-20/06/2022
-
-**Last updated:**
-
-03/04/2025
+**First published:** 20/06/2022 **Last updated:** 11/05/2026
 
 [View](/pl/documents/product-information/camcevi-epar-product-information_pl.pdf)
 
-português (PT) (410.9 KB - PDF)
+português (PT) (1.26 MB - PDF)
 
-**First published:**
-
-20/06/2022
-
-**Last updated:**
-
-03/04/2025
+**First published:** 20/06/2022 **Last updated:** 11/05/2026
 
 [View](/pt/documents/product-information/camcevi-epar-product-information_pt.pdf)
 
-română (RO) (420.89 KB - PDF)
+română (RO) (1.46 MB - PDF)
 
-**First published:**
-
-20/06/2022
-
-**Last updated:**
-
-03/04/2025
+**First published:** 20/06/2022 **Last updated:** 11/05/2026
 
 [View](/ro/documents/product-information/camcevi-epar-product-information_ro.pdf)
 
-slovenčina (SK) (393.93 KB - PDF)
+slovenčina (SK) (1.06 MB - PDF)
 
-**First published:**
-
-20/06/2022
-
-**Last updated:**
-
-03/04/2025
+**First published:** 20/06/2022 **Last updated:** 11/05/2026
 
 [View](/sk/documents/product-information/camcevi-epar-product-information_sk.pdf)
 
-slovenščina (SL) (435.08 KB - PDF)
+slovenščina (SL) (1.43 MB - PDF)
 
-**First published:**
-
-20/06/2022
-
-**Last updated:**
-
-03/04/2025
+**First published:** 20/06/2022 **Last updated:** 11/05/2026
 
 [View](/sl/documents/product-information/camcevi-epar-product-information_sl.pdf)
 
-Suomi (FI) (376.38 KB - PDF)
+Suomi (FI) (946.94 KB - PDF)
 
-**First published:**
-
-20/06/2022
-
-**Last updated:**
-
-03/04/2025
+**First published:** 20/06/2022 **Last updated:** 11/05/2026
 
 [View](/fi/documents/product-information/camcevi-epar-product-information_fi.pdf)
 
-svenska (SV) (365 KB - PDF)
+svenska (SV) (1.04 MB - PDF)
 
-**First published:**
-
-20/06/2022
-
-**Last updated:**
-
-03/04/2025
+**First published:** 20/06/2022 **Last updated:** 11/05/2026
 
 [View](/sv/documents/product-information/camcevi-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000261705 03/04/2025
+**Latest procedure affecting product information:** X/0000258054
+
+20/04/2026
 
 icon globe
 
@@ -617,203 +429,169 @@ English (EN) (43.38 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/camcevi-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-766)
+[Other languages (24)](#file-language-dropdown-410)
 
 български (BG) (51.76 KB - PDF)
 
-**First published:**
-
-20/06/2022
+**First published:** 20/06/2022
 
 [View](/bg/documents/all-authorised-presentations/camcevi-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (43.14 KB - PDF)
 
-**First published:**
-
-20/06/2022
+**First published:** 20/06/2022
 
 [View](/es/documents/all-authorised-presentations/camcevi-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (58.39 KB - PDF)
 
-**First published:**
-
-20/06/2022
+**First published:** 20/06/2022
 
 [View](/cs/documents/all-authorised-presentations/camcevi-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (42.19 KB - PDF)
 
-**First published:**
-
-20/06/2022
+**First published:** 20/06/2022
 
 [View](/da/documents/all-authorised-presentations/camcevi-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (44.97 KB - PDF)
 
-**First published:**
-
-20/06/2022
+**First published:** 20/06/2022
 
 [View](/de/documents/all-authorised-presentations/camcevi-epar-all-authorised-presentations_de.pdf)
 
 eesti keel (ET) (42.81 KB - PDF)
 
-**First published:**
-
-20/06/2022
+**First published:** 20/06/2022
 
 [View](/et/documents/all-authorised-presentations/camcevi-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (57.76 KB - PDF)
 
-**First published:**
-
-20/06/2022
+**First published:** 20/06/2022
 
 [View](/el/documents/all-authorised-presentations/camcevi-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (43.17 KB - PDF)
 
-**First published:**
-
-20/06/2022
+**First published:** 20/06/2022
 
 [View](/fr/documents/all-authorised-presentations/camcevi-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (60.32 KB - PDF)
 
-**First published:**
-
-20/06/2022
+**First published:** 20/06/2022
 
 [View](/hr/documents/all-authorised-presentations/camcevi-epar-all-authorised-presentations_hr.pdf)
 
 íslenska (IS) (43.73 KB - PDF)
 
-**First published:**
-
-20/06/2022
+**First published:** 20/06/2022
 
 [View](/is/documents/all-authorised-presentations/camcevi-epar-all-authorised-presentations_is.pdf)
 
 italiano (IT) (42.06 KB - PDF)
 
-**First published:**
-
-20/06/2022
+**First published:** 20/06/2022
 
 [View](/it/documents/all-authorised-presentations/camcevi-epar-all-authorised-presentations_it.pdf)
 
 latviešu valoda (LV) (57.55 KB - PDF)
 
-**First published:**
-
-20/06/2022
+**First published:** 20/06/2022
 
 [View](/lv/documents/all-authorised-presentations/camcevi-epar-all-authorised-presentations_lv.pdf)
 
 lietuvių kalba (LT) (60.17 KB - PDF)
 
-**First published:**
-
-20/06/2022
+**First published:** 20/06/2022
 
 [View](/lt/documents/all-authorised-presentations/camcevi-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (60.92 KB - PDF)
 
-**First published:**
-
-20/06/2022
+**First published:** 20/06/2022
 
 [View](/hu/documents/all-authorised-presentations/camcevi-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (61.95 KB - PDF)
 
-**First published:**
-
-20/06/2022
+**First published:** 20/06/2022
 
 [View](/mt/documents/all-authorised-presentations/camcevi-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (43.02 KB - PDF)
 
-**First published:**
-
-20/06/2022
+**First published:** 20/06/2022
 
 [View](/nl/documents/all-authorised-presentations/camcevi-epar-all-authorised-presentations_nl.pdf)
 
 norsk (NO) (44.68 KB - PDF)
 
-**First published:**
-
-20/06/2022
+**First published:** 20/06/2022
 
 [View](/no/documents/all-authorised-presentations/camcevi-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (64.1 KB - PDF)
 
-**First published:**
-
-20/06/2022
+**First published:** 20/06/2022
 
 [View](/pl/documents/all-authorised-presentations/camcevi-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (43.98 KB - PDF)
 
-**First published:**
-
-20/06/2022
+**First published:** 20/06/2022
 
 [View](/pt/documents/all-authorised-presentations/camcevi-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (60.56 KB - PDF)
 
-**First published:**
-
-20/06/2022
+**First published:** 20/06/2022
 
 [View](/ro/documents/all-authorised-presentations/camcevi-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (58.97 KB - PDF)
 
-**First published:**
-
-20/06/2022
+**First published:** 20/06/2022
 
 [View](/sk/documents/all-authorised-presentations/camcevi-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (61.1 KB - PDF)
 
-**First published:**
-
-20/06/2022
+**First published:** 20/06/2022
 
 [View](/sl/documents/all-authorised-presentations/camcevi-epar-all-authorised-presentations_sl.pdf)
 
 Suomi (FI) (40.08 KB - PDF)
 
-**First published:**
-
-20/06/2022
+**First published:** 20/06/2022
 
 [View](/fi/documents/all-authorised-presentations/camcevi-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (43.02 KB - PDF)
 
-**First published:**
-
-20/06/2022
+**First published:** 20/06/2022
 
 [View](/sv/documents/all-authorised-presentations/camcevi-epar-all-authorised-presentations_sv.pdf)
 
 ## Product details
 
-Name of medicine Camcevi Active substance leuprorelin mesilate International non-proprietary name (INN) or common name leuprorelin Therapeutic area (MeSH) Prostatic Neoplasms
+Name of medicine
+
+Camcevi
+
+Active substance
+
+leuprorelin mesilate
+
+International non-proprietary name (INN) or common name
+
+leuprorelin
+
+Therapeutic area (MeSH)
+
+Prostatic Neoplasms
 
 ### Pharmacotherapeutic group
 
@@ -825,13 +603,27 @@ Camcevi is indicated for the treatment of hormone dependent advanced prostate ca
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/005034 Marketing authorisation holder
+EMA product number
+
+EMEA/H/C/005034
+
+Marketing authorisation holder
 
 Accord Healthcare S.L.U.
 
 Edificio Este Planta 6a
 
-Opinion adopted 24/03/2022 Marketing authorisation issued 24/05/2022 Revision 5
+Opinion adopted
+
+24/03/2022
+
+Marketing authorisation issued
+
+24/05/2022
+
+Revision
+
+6
 
 ## Assessment history
 
@@ -843,9 +635,9 @@ Collapse section
 
 Camcevi : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (150.33 KB - PDF)
+English (EN) (172.07 KB - PDF)
 
-**First published:** 03/04/2025
+**First published:** 03/04/2025 **Last updated:** 11/05/2026
 
 [View](/en/documents/procedural-steps-after/camcevi-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -853,11 +645,19 @@ Camcevi : EPAR - Procedural steps taken and scientific information after authori
 
 English (EN) (117.49 KB - PDF)
 
-**First published:** 12/05/2023
-
-**Last updated:** 03/04/2025
+**First published:** 12/05/2023 **Last updated:** 03/04/2025
 
 [View](/en/documents/procedural-steps-after/camcevi-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
+
+Camcevi-X-0000258054 : EPAR - Assessment report - Variation
+
+Adopted Reference Number: EMADOC-1700519818-2921322
+
+English (EN) (2.44 MB - PDF)
+
+**First published:** 11/05/2026
+
+[View](/en/documents/variation-report/camcevi-x-0000258054-epar-assessment-report-variation_en.pdf)
 
 Camcevi-H-C-PSUSA-00010877-202307 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
 
@@ -873,9 +673,7 @@ English (EN) (93.91 KB - PDF)
 
 Camcevi : EPAR - Public Assessment Report
 
-Adopted
-
-Reference Number: EMA/567396/2022
+Adopted Reference Number: EMA/567396/2022
 
 English (EN) (3.61 MB - PDF)
 
@@ -885,9 +683,7 @@ English (EN) (3.61 MB - PDF)
 
 CHMP summary of opinion for Camcevi
 
-Adopted
-
-Reference Number: EMA/CHMP/138725/2022
+Adopted Reference Number: EMA/CHMP/138725/2022
 
 English (EN) (165.65 KB - PDF)
 
@@ -895,12 +691,14 @@ English (EN) (165.65 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-opinion-camcevi_en.pdf)
 
-#### News on Camcevi
+## News on Camcevi
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 21-24 March 2022](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-21-24-march-2022) 25/03/2022
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 21-24 March 2022](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-21-24-march-2022)
 
-**This page was last updated on** 03/04/2025
+25/03/2022
+
+**This page was last updated on**
+
+11/05/2026
 
 ## Share this page
-
-[Back to top](#main-content)

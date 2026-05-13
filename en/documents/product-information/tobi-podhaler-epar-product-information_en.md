@@ -1,24 +1,22 @@
 ---
-document_datetime: 2025-12-11 15:52:14
+document_datetime: 2026-05-11 17:02:36
 document_pages: 46
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/tobi-podhaler-epar-product-information_en.pdf
 document_name: tobi-podhaler-epar-product-information_en.pdf
 version: success
-processing_time: 9.7671917
-conversion_datetime: 2025-12-22 13:28:53.578618
+processing_time: 9.904048
+conversion_datetime: 2026-05-13 12:56:29.478081
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.17.0
+  docling-jobkit: 1.18.0
+  docling: 2.92.0
+  docling-core: 2.74.1
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.10.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
 ---
-## ANNEX I
-
-## SUMMARY OF PRODUCT CHARACTERISTICS
+## ANNEX I SUMMARY OF PRODUCT CHARACTERISTICS
 
 <div style=\"page-break-after: always\"></div>
 
@@ -64,7 +62,7 @@ Treatment with TOBI Podhaler should be continued on a cyclical basis for as long
 
 ## Special populations
 
-## Elderly patients (≥65 years)
+## Elderly patients ( ≥ 65 years)
 
 There are insufficient data in this population to support a recommendation for or against dose adjustment.
 
@@ -142,17 +140,15 @@ The serum concentration of tobramycin should only be monitored through validated
 
 Bronchospasm can occur with inhalation of medicinal products and has been reported with TOBI Podhaler in clinical studies. Bronchospasm should be treated as medically appropriate.
 
-The first dose of TOBI Podhaler should be given under supervision, after using a bronchodilator if this is part of the current regimen for the patient. FEV1 should be measured before and after inhalation of TOBI Podhaler.
+The first dose of TOBI Podhaler should be given under supervision, after using a bronchodilator if this is part of the current regimen for the patient. FEV 1 should be measured before and after inhalation of TOBI Podhaler.
 
 If there is evidence of therapy-induced bronchospasm, the physician should carefully evaluate whether the benefits of continued use of TOBI Podhaler outweigh the risks to the patient. If an allergic response is suspected, TOBI Podhaler should be discontinued.
 
 ## Cough
 
-Cough was reported with use of TOBI Podhaler in clinical studies. Based on clinical trial data the
+Cough was reported with use of TOBI Podhaler in clinical studies. Based on clinical trial data the inhalation powder TOBI Podhaler was associated with a higher reported rate of cough compared with tobramycin nebuliser solution (TOBI). Cough was not related to bronchospasm. Children below the age of 13 years may be more likely to cough when treated with TOBI Podhaler compared with older subjects.
 
 <div style=\"page-break-after: always\"></div>
-
-inhalation powder TOBI Podhaler was associated with a higher reported rate of cough compared with tobramycin nebuliser solution (TOBI). Cough was not related to bronchospasm. Children below the age of 13 years may be more likely to cough when treated with TOBI Podhaler compared with older subjects.
 
 If there is evidence of continued therapy-induced cough with TOBI Podhaler, the physician should consider whether an approved tobramycin nebuliser solution should be used as an alternative treatment. Should cough remain unchanged, other antibiotics should be considered.
 
@@ -232,7 +228,7 @@ The vast majority of adverse reactions reported with TOBI Podhaler were mild or 
 
 ## Tabulated summary of adverse reactions
 
-Adverse drug reactions in Table 1 are listed according to system organ classes in MedDRA. Within each system organ class, the adverse drug reactions are ranked by frequency, with the most frequent reactions first. Within each frequency grouping, adverse drug reactions are presented in order of decreasing seriousness. In addition, the corresponding frequency category for each adverse drug reaction is based on the following convention (CIOMS III): very common (≥1/10); common (≥1/100 to &lt;1/10); uncommon (≥1/1,000 to &lt;1/100); rare (≥1/10,000 to &lt;1/1,000); very rare (&lt;1/10,000); not known (cannot be estimated from the available data).
+Adverse drug reactions in Table 1 are listed according to system organ classes in MedDRA. Within each system organ class, the adverse drug reactions are ranked by frequency, with the most frequent reactions first. Within each frequency grouping, adverse drug reactions are presented in order of decreasing seriousness. In addition, the corresponding frequency category for each adverse drug reaction is based on the following convention (CIOMS III): very common ( ≥ 1/10); common ( ≥ 1/100 to &lt;1/10); uncommon ( ≥ 1/1,000 to &lt;1/100); rare ( ≥ 1/10,000 to &lt;1/1,000); very rare (&lt;1/10,000); not known (cannot be estimated from the available data).
 
 The frequencies in Table 1 are based on the reporting rates from the active-controlled study.
 
@@ -333,33 +329,31 @@ Based upon in vitro data and/or clinical trial experience, the organisms associa
 
 The TOBI Podhaler Phase III clinical development programme consisted of two studies and 612 treated patients with a clinical diagnosis of CF, confirmed by quantitative pilocarpine iontophoresis sweat chloride test or well-characterised disease causing mutations in each cystic fibrosis transmembrane regulator (CFTR) gene, or abnormal nasal transepithelial potential difference characteristic of CF.
 
-In the placebo controlled study, patients were aged 6 - ≤22 years with an FEV1 at screening of between
+In the placebo controlled study, patients were aged 6 -≤ 22 years with an FEV1 at screening of between
 
 <div style=\"page-break-after: always\"></div>
 
-25% and 84% of predicted normal values for their age, sex and height based upon Knudson criteria. In the active controlled studies, all patients were aged &gt;6years old (range 6-66 years) with an FEV1 % predicted at screening of between 24% and 76%. In addition, all patients were infected with P. aeruginosa as demonstrated by a positive sputum or throat culture (or bronchoalveolar lavage) within 6 months prior to screening, and also in a sputum culture taken at the screening visit.
+25% and 84% of predicted normal values for their age, sex and height based upon Knudson criteria. In the active controlled studies, all patients were aged &gt;6years old (range 6-66 years) with an FEV 1 % predicted at screening of between 24% and 76%. In addition, all patients were infected with P. aeruginosa as demonstrated by a positive sputum or throat culture (or bronchoalveolar lavage) within 6 months prior to screening, and also in a sputum culture taken at the screening visit.
 
 In a randomised, double-blind, placebo-controlled, multicentre study, TOBI Podhaler 112 mg (4 x 28 mg capsules) was administered twice daily, for three cycles of 28 days on-treatment and 28 days off-treatment (a total treatment period of 24 weeks). Patients who were randomised to the placebo treatment group received placebo during the first treatment cycle and TOBI Podhaler in the subsequent two cycles. Patients in this study had no exposure to inhaled tobramycin for at least 4 months prior to study start.
 
-TOBI Podhaler significantly improved lung function compared with placebo, as shown by the relative increase in percent predicted FEV1 of about 13% after 28 days of treatment. The improvements in lung function achieved during the first treatment cycle were maintained during the two subsequent cycles of treatment with TOBI Podhaler.
+TOBI Podhaler significantly improved lung function compared with placebo, as shown by the relative increase in percent predicted FEV 1 of about 13% after 28 days of treatment. The improvements in lung function achieved during the first treatment cycle were maintained during the two subsequent cycles of treatment with TOBI Podhaler.
 
-When patients in the placebo treatment group were switched from placebo to TOBI Podhaler at the start of the second treatment cycle, they experienced a similar improvement from baseline in percent predicted FEV1. Treatment with TOBI Podhaler for 28 days resulted in a statistically significant reduction in P. aeruginosa sputum density (mean difference with placebo about 2.70 log10 in colony forming units/CFUs).
+When patients in the placebo treatment group were switched from placebo to TOBI Podhaler at the start of the second treatment cycle, they experienced a similar improvement from baseline in percent predicted FEV1. Treatment with TOBI Podhaler for 28 days resulted in a statistically significant reduction in P. aeruginosa sputum density (mean difference with placebo about 2.70 log 10 in colony forming units/CFUs).
 
 In a second open-label, multicentre study, patients received treatment with either TOBI Podhaler (112 mg) or tobramycin 300 mg/5 ml nebuliser solution (TOBI), administered twice daily for three cycles. A majority of the patients were tobramycin-experienced adults with chronic pulmonary P. aeruginosa infection.
 
-Treatment with both TOBI Podhaler and tobramycin 300 mg/5 ml nebuliser solution (TOBI) resulted in relative increases from baseline to day 28 of the third treatment cycle in percent predicted FEV1 of 5.8% and 4.7%, respectively. The improvement in percent predicted FEV1 was numerically greater in the TOBI Podhaler treatment group and was statistically non-inferior to TOBI nebuliser solution. Although the magnitude of improvements in lung function was smaller in this study, this is explained by the previous exposure of this patient population to treatment with inhaled tobramycin. Over half of the patients in both the TOBI Podhaler and TOBI nebuliser solution treatment groups received new (additional) anti-pseudomonal antibiotics (64.9% and 54.5% respectively, the difference consisting mainly of oral ciprofloxacin use). The proportions of patients requiring hospitalisation for respiratory events were 24.4% with TOBI Podhaler and 22.0% with TOBI nebuliser solution.
+Treatment with both TOBI Podhaler and tobramycin 300 mg/5 ml nebuliser solution (TOBI) resulted in relative increases from baseline to day 28 of the third treatment cycle in percent predicted FEV 1 of 5.8% and 4.7%, respectively. The improvement in percent predicted FEV1 was numerically greater in the TOBI Podhaler treatment group and was statistically non-inferior to TOBI nebuliser solution. Although the magnitude of improvements in lung function was smaller in this study, this is explained by the previous exposure of this patient population to treatment with inhaled tobramycin. Over half of the patients in both the TOBI Podhaler and TOBI nebuliser solution treatment groups received new (additional) anti-pseudomonal antibiotics (64.9% and 54.5% respectively, the difference consisting mainly of oral ciprofloxacin use). The proportions of patients requiring hospitalisation for respiratory events were 24.4% with TOBI Podhaler and 22.0% with TOBI nebuliser solution.
 
-A difference in FEV1 response by age was noted. In the patients aged &lt;20 years the increase from baseline percent predicted FEV1 was larger: 11.3% for TOBI Podhaler and 6.9% for the nebuliser solution after 3 cycles. A numerically lower response in patients aged ≥20 years was observed: the change from baseline FEV1 observed in the patients aged ≥20 years was smaller (0.3% with TOBI Podhaler and 0.9% with TOBI nebuliser solution).
+A difference in FEV1 response by age was noted. In the patients aged &lt;20 years the increase from baseline percent predicted FEV1 was larger: 11.3% for TOBI Podhaler and 6.9% for the nebuliser solution after 3 cycles. A numerically lower response in patients aged ≥ 20 years was observed: the change from baseline FEV1 observed in the patients aged ≥ 20 years was smaller (0.3% with TOBI Podhaler and 0.9% with TOBI nebuliser solution).
 
 Furthermore, an improvement of 6% in percent predicted FEV1 was obtained in about 30% versus 36% of the adult patients in the TOBI Podhaler and TOBI nebuliser solution group respectively.
 
-Treatment with TOBI Podhaler for 28 days resulted in a statistically significant reduction in P. aeruginosa sputum density (-1.61 log10 CFUs), as did the nebuliser solution (-0.77 log10 CFUs). Suppression of sputum P. aeruginosa density was similar across age groups in both arms. In both studies, there was a trend for a recovery of P. aeruginosa density after the 28 days off-treatment period, which was reversed after a further 28 days on-treatment.
+Treatment with TOBI Podhaler for 28 days resulted in a statistically significant reduction in P. aeruginosa sputum density (-1.61 log 10 CFUs), as did the nebuliser solution (-0.77 log 10 CFUs). Suppression of sputum P. aeruginosa density was similar across age groups in both arms. In both studies, there was a trend for a recovery of P. aeruginosa density after the 28 days off-treatment period, which was reversed after a further 28 days on-treatment.
 
-In the active-controlled study, administration of a TOBI Podhaler dose was faster with a mean difference of approximately 14 minutes (6 minutes vs. 20 minutes with the nebuliser solution). Patient-
+In the active-controlled study, administration of a TOBI Podhaler dose was faster with a mean difference of approximately 14 minutes (6 minutes vs. 20 minutes with the nebuliser solution). Patient- reported convenience and overall treatment satisfaction (as collected through a patient-reported outcomes questionnaire) were consistently higher with TOBI Podhaler compared with tobramycin nebuliser solution in each cycle.
 
 <div style=\"page-break-after: always\"></div>
-
-reported convenience and overall treatment satisfaction (as collected through a patient-reported outcomes questionnaire) were consistently higher with TOBI Podhaler compared with tobramycin nebuliser solution in each cycle.
 
 ## For safety results see section 4.8
 
@@ -375,11 +369,11 @@ The systemic exposure to tobramycin after inhalation of TOBI Podhaler is expecte
 
 ## Serum concentrations
 
-After inhalation of a 112 mg single dose (4 x 28 mg capsules) of TOBI Podhaler in cystic fibrosis patients, the maximum serum concentration (Cmax) of tobramycin was 1.02 ± 0.53 μg/ml (mean ± SD) and the median time to reach the peak concentration (Tmax) was one hour. In comparison, after inhalation of a single dose of tobramycin 300 mg/5 ml nebuliser solution (TOBI), Cmax was 1.04 ± 0.58 µg/ml and median Tmax was one hour. The extent of systemic exposure (AUC) was also similar for the 112 mg TOBI Podhaler dose and the 300 mg tobramycin nebuliser solution dose. At the end of a 4-week dosing cycle of TOBI Podhaler (112 mg twice daily), maximum serum concentration of tobramycin 1 hour after dosing was 1.99 ± 0.59 µg/ml.
+After inhalation of a 112 mg single dose (4 x 28 mg capsules) of TOBI Podhaler in cystic fibrosis patients, the maximum serum concentration (Cmax) of tobramycin was 1.02 ± 0.53 μ g/ml (mean ± SD) and the median time to reach the peak concentration (T max ) was one hour. In comparison, after inhalation of a single dose of tobramycin 300 mg/5 ml nebuliser solution (TOBI), C max was 1.04 ± 0.58 µg/ml and median Tmax was one hour. The extent of systemic exposure (AUC) was also similar for the 112 mg TOBI Podhaler dose and the 300 mg tobramycin nebuliser solution dose. At the end of a 4-week dosing cycle of TOBI Podhaler (112 mg twice daily), maximum serum concentration of tobramycin 1 hour after dosing was 1.99 ± 0.59 µg/ml.
 
 ## Sputum concentrations
 
-After inhalation of a 112 mg single dose (4 x 28 mg capsules) of TOBI Podhaler in cystic fibrosis patients, sputum Cmax of tobramycin was 1047 ± 1080 µg/g (mean ± SD). In comparison, after inhalation of a single 300 mg dose of tobramycin nebuliser solution (TOBI), sputum Cmax was 737.3 ± 1028.4 µg/g. The variability in pharmacokinetic parameters was higher in sputum as compared to serum.
+After inhalation of a 112 mg single dose (4 x 28 mg capsules) of TOBI Podhaler in cystic fibrosis patients, sputum Cmax of tobramycin was 1047 ± 1080 µg/g (mean ± SD). In comparison, after inhalation of a single 300 mg dose of tobramycin nebuliser solution (TOBI), sputum C max was 737.3 ± 1028.4 µg/g. The variability in pharmacokinetic parameters was higher in sputum as compared to serum.
 
 ## Distribution
 
@@ -439,7 +433,9 @@ TOBI Podhaler is supplied in monthly packs containing 4 weekly cartons and a res
 
 ## Pack sizes
 
-56 capsules and 1 inhaler 224 (4 x 56) capsules and 5 inhalers (monthly multipack) 448 (8 x 56) capsules and 10 inhalers (2 x monthly multipack wrapped in foil)
+56 capsules and 1 inhaler 224 (4 x 56) capsules and 5 inhalers (monthly multipack)
+
+448 (8 x 56) capsules and 10 inhalers (2 x monthly multipack wrapped in foil)
 
 Not all pack sizes may be marketed.
 
@@ -477,9 +473,7 @@ Any unused product or waste material should be disposed of in accordance with lo
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Viatris Healthcare Limited Damastown Industrial Park Mulhuddart Dublin 15 DUBLIN
-
-Ireland
+Viatris Healthcare Limited Damastown Industrial Park Mulhuddart Dublin 15 DUBLIN Ireland
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
@@ -512,7 +506,7 @@ Name and address of the manufacturer(s) responsible for batch release
 
 McDermott Laboratories Ltd T/A Mylan Dublin Respiratory Unit 25, Baldoyle Industrial Estate Grange Road, Baldoyle Dublin 13, D13 N5X2 Ireland
 
-Mylan Germany GmbH Zweigniederlassung Bad Homburg v. d. Hoehe Benzstrasse 1 61352 Bad Homburg v. d. Hoehe Germany
+Viatris Germany GmbH Zweigniederlassung Bad Homburg v. d. Hoehe Benzstrasse 1 61352 Bad Homburg v. d. Hoehe Germany
 
 The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.
 
@@ -643,8 +637,8 @@ TOBI Podhaler
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER-HUMANREADABLEDATA   |
-|-------|---------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|-------|------------------------------------------|
 
 PC: SN: NN:
 
@@ -740,11 +734,7 @@ Ireland
 
 EU/1/10/652/002
 
-monthly multipack
-
 EU/1/10/652/003
-
-2 x monthly multipack wrapped in foil
 
 ## 13. BATCH NUMBER
 
@@ -760,10 +750,14 @@ TOBI Podhaler
 
 ## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
+monthly multipack
+
+2 x monthly multipack wrapped in foil
+
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER-HUMANREADABLEDATA   |
-|-------|---------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|-------|------------------------------------------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -861,8 +855,8 @@ TOBI Podhaler
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER-HUMANREADABLEDATA   |
-|-------|---------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|-------|------------------------------------------|
 
 PC: SN: NN:
 
@@ -938,17 +932,7 @@ Store in the original package in order to protect from moisture and only remove 
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Viatris Healthcare Limited
-
-Damastown Industrial Park
-
-Mulhuddart
-
-Dublin 15
-
-DUBLIN
-
-Ireland
+Viatris Healthcare Limited Damastown Industrial Park Mulhuddart Dublin 15 DUBLIN Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -958,7 +942,7 @@ EU/1/10/652/003
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
@@ -966,14 +950,14 @@ Lot
 
 TOBI Podhaler
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+17. UNIQUE IDENTIFIER - 2D BARCODE
 
 <div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER-HUMANREADABLEDATA   |
-|-------|---------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|-------|------------------------------------------|
 
 30
 
@@ -1061,9 +1045,9 @@ PC:
 
 SN:
 
-<div style=\"page-break-after: always\"></div>
-
 NN:
+
+<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1089,13 +1073,7 @@ Lot
 
 ## 5. OTHER
 
-Inhalation use only. Do not swallow.
-
-Use capsule immediately after removal from blister.
-
-Do not push capsule through foil.
-
-4 capsules = 1 dose
+Inhalation use only. Do not swallow. Use capsule immediately after removal from blister. Do not push capsule through foil. 4 capsules = 1 dose
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1151,7 +1129,9 @@ It is a very common bacterium that infects the lungs of nearly everyone with cys
 
 -  if you are allergic to tobramycin, to any type of aminoglycoside antibiotic, or to any of the other ingredients of this medicine (listed in section 6).
 
-If this applies to you, tell your doctor without taking TOBI Podhaler . If you think you may be allergic, ask your doctor for advice.
+If this applies to you, tell your doctor without taking TOBI Podhaler .
+
+If you think you may be allergic, ask your doctor for advice.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1280,10 +1260,7 @@ If your underlying lung disease seems worse while taking TOBI Podhaler, tell you
 
 ## Some side effects can be serious
 
--  Unusual difficulty in breathing with wheezing or coughing and chest tightness (common).
-
-If you experience any of these, stop taking TOBI Podhaler and tell your doctor straight away .
-
+-  Unusual difficulty in breathing with wheezing or coughing and chest tightness (common). If you experience any of these, stop taking TOBI Podhaler and tell your doctor straight away .
 -  Coughing up blood (very common)
 -  Decreasing hearing (ringing in the ears is a potential warning sign of hearing loss), noises (such as hissing) in the ears (common).
 -  Low urine volume, vomiting, confusion and swelling in the legs, ankles or feet, as these may be signs of sudden decrease in kidney function (not known)
@@ -1299,7 +1276,7 @@ Very common (may affect more than 1 in 10 people)
 -  Sore throat
 -  Fever
 
-Common (may affect up to 1 in 10 people)
+## Common (may affect up to 1 in 10 people)
 
 -  Wheezing, rales (crackles)
 
@@ -1348,7 +1325,9 @@ TOBI Podhaler is supplied in monthly packs containing 4 weekly cartons and a res
 
 Each weekly carton contains 7 blisters (capsule cards) of 8 capsules each, and a Podhaler device in its storage case.
 
-The following pack sizes are available: 56 inhalation powder, hard capsules and 1 inhaler (weekly pack) 224 (4 x 56) inhalation powder, hard capsules and 5 inhalers (monthly multipack) 448 (8 x 56) inhalation powder, hard capsules and 10 inhalers (2 x monthly multipack wrapped in foil)
+The following pack sizes are available:
+
+56 inhalation powder, hard capsules and 1 inhaler (weekly pack) 224 (4 x 56) inhalation powder, hard capsules and 5 inhalers (monthly multipack) 448 (8 x 56) inhalation powder, hard capsules and 10 inhalers (2 x monthly multipack wrapped in foil)
 
 Not all pack sizes may be available in your country.
 
@@ -1362,7 +1341,7 @@ Viatris Healthcare Limited Damastown Industrial Park Mulhuddart Dublin 15 DUBLIN
 
 McDermott Laboratories Ltd T/A Mylan Dublin Respiratory Unit 25, Baldoyle Industrial Estate Grange Road, Baldoyle Dublin 13, D13 N5X2 Ireland
 
-Mylan Germany GmbH Zweigniederlassung Bad Homburg v. d. Hoehe Benzstrasse 1 61352 Bad Homburg v. d. Hoehe Germany
+Viatris Germany GmbH Zweigniederlassung Bad Homburg v. d. Hoehe Benzstrasse 1 61352 Bad Homburg v. d. Hoehe Germany
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
@@ -1380,9 +1359,11 @@ Tel: +370 5 205 1288
 
 ## България
 
-Майлан ЕООД
+Виатрис ЕООД
 
-Тел.: +359 2 44 55 400
+Тел
+
+.: +359 2 44 55 400
 
 ## Luxembourg/Luxemburg
 
@@ -1390,7 +1371,7 @@ Viatris
 
 Tél/Tel: +32 2 658 61 00
 
-## Česká republika
+## Č eská republika
 
 Viatris CZ s.r.o.
 
@@ -1442,7 +1423,7 @@ Tlf: +47 66 75 33 00
 
 Viatris Hellas Ltd
 
-Τηλ: +30 210 0100002
+Τηλ : +30 210 0100002
 
 ## Österreich
 
@@ -1498,7 +1479,9 @@ Tel: +39 02 612 46921
 
 CPO Pharmaceuticals Limited
 
-Τηλ: +357 22863100
+Τηλ
+
+: +357 22863100
 
 ## Latvija
 
@@ -1579,8 +1562,6 @@ Each weekly carton of TOBI Podhaler contains:
 
 <!-- image -->
 
-<!-- image -->
-
 <div style=\"page-break-after: always\"></div>
 
 <!-- image -->
@@ -1611,12 +1592,6 @@ Each weekly carton of TOBI Podhaler contains:
 | 11. Look at the used capsule. It should appear pierced and empty. If it is empty, discard the capsule.                                                                                                                                                                                                                                                                   |
 
 <div style=\"page-break-after: always\"></div>
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
 
 <!-- image -->
 

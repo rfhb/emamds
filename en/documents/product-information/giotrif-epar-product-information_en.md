@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-03-31 16:30:36
-document_pages: 78
+document_datetime: 2026-05-11 09:17:13
+document_pages: 90
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/giotrif-epar-product-information_en.pdf
 document_name: giotrif-epar-product-information_en.pdf
 version: success
-processing_time: 23.4477129
-conversion_datetime: 2025-12-22 09:31:08.709032
+processing_time: 26.4919871
+conversion_datetime: 2026-05-13 12:51:48.227073
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.17.0
+  docling-jobkit: 1.18.0
+  docling: 2.92.0
+  docling-core: 2.74.1
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.10.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -128,14 +128,6 @@ Table 1: Dose adjustment information for adverse reactions
 | Grade 1 or Grade 2                                | No interruption b           | No dose adjustment                               |
 | Grade 2 (prolonged c or intolerable) or Grade > 3 | Interrupt until Grade 0/1 b | Resume with dose reduction by 10 mg decrements d |
 
-a  NCI Common Terminology Criteria for Adverse Events
-
-b In case of diarrhoea, anti-diarrhoeal medicinal products (e.g. loperamide) should be taken immediately and continued for persistent diarrhoea until loose bowel movements cease.
-
-c &gt; 48 hours of diarrhoea and/or &gt; 7 days of rash
-
-d  If patient cannot tolerate 20 mg/day, permanent discontinuation of GIOTRIF should be considered
-
 Interstitial Lung Disease (ILD) should be considered if a patient develops acute or worsening of respiratory symptoms in which case treatment should be interrupted pending evaluation. If ILD is diagnosed, GIOTRIF should be discontinued and appropriate treatment initiated as necessary (see section 4.4).
 
 <div style=\"page-break-after: always\"></div>
@@ -180,11 +172,9 @@ When assessing the EGFR mutation status of a patient, it is important that a wel
 
 ## Diarrhoea
 
-Diarrhoea, including severe diarrhoea, has been reported during treatment with GIOTRIF (see section 4.8). Diarrhoea may result in dehydration with or without renal impairment, which in rare
+Diarrhoea, including severe diarrhoea, has been reported during treatment with GIOTRIF (see section 4.8). Diarrhoea may result in dehydration with or without renal impairment, which in rare cases has resulted in fatal outcomes. Diarrhoea usually occurred within the first 2 weeks of treatment. Grade 3 diarrhoea most frequently occurred within the first 6 weeks of treatment.
 
 <div style=\"page-break-after: always\"></div>
-
-cases has resulted in fatal outcomes. Diarrhoea usually occurred within the first 2 weeks of treatment. Grade 3 diarrhoea most frequently occurred within the first 6 weeks of treatment.
 
 Proactive management of diarrhoea including adequate hydration combined with anti-diarrhoeal medicinal products especially within the first 6 weeks of the treatment is important and should start at first signs of diarrhoea. Antidiarrhoeal medicinal products (e.g. loperamide) should be used and if necessary their dose should be escalated to the highest recommended approved dose. Anti-diarrhoeal medicinal products should be readily available to the patients so that treatment can be initiated at first signs of diarrhoea and continued until loose bowel movements cease for 12 hours. Patients with severe diarrhoea may require interruption and dose reduction or discontinuation of therapy with GIOTRIF (see section 4.2). Patients who become dehydrated may require administration of intravenous electrolytes and fluids.
 
@@ -206,11 +196,9 @@ Careful assessment of all patients with an acute onset and/or unexplained worsen
 
 ## Severe hepatic impairment
 
-Hepatic failure, including fatalities, has been reported during treatment with this medicinal product in less than 1% of patients. In these patients, confounding factors have included pre-existing liver disease and/or comorbidities associated with progression of underlying malignancy. Periodic liver function testing is recommended in patients with pre-existing liver disease. In the pivotal trials Grade 3 alanine aminotransferase (ALT) and aspartate aminotransferase (AST) elevations were observed in 2.4% (LUX-Lung-3) and 1.6% (LUX-Lung 8) of patients with normal baseline liver tests treated with 40 mg/day. In LUX-Lung-3 Grade 3 ALT/AST elevations were about 3.5 fold higher in patients with abnormal baseline liver tests. There were no Grade 3 ALT/AST elevations in patients with abnormal baseline liver tests in LUX-Lung 8 (see section 4.8). Dose interruption may become necessary in
+Hepatic failure, including fatalities, has been reported during treatment with this medicinal product in less than 1% of patients. In these patients, confounding factors have included pre-existing liver disease and/or comorbidities associated with progression of underlying malignancy. Periodic liver function testing is recommended in patients with pre-existing liver disease. In the pivotal trials Grade 3 alanine aminotransferase (ALT) and aspartate aminotransferase (AST) elevations were observed in 2.4% (LUX-Lung-3) and 1.6% (LUX-Lung 8) of patients with normal baseline liver tests treated with 40 mg/day. In LUX-Lung-3 Grade 3 ALT/AST elevations were about 3.5 fold higher in patients with abnormal baseline liver tests. There were no Grade 3 ALT/AST elevations in patients with abnormal baseline liver tests in LUX-Lung 8 (see section 4.8). Dose interruption may become necessary in patients who experience worsening of liver function (see section 4.2). In patients who develop severe hepatic impairment while taking GIOTRIF, treatment should be discontinued.
 
 <div style=\"page-break-after: always\"></div>
-
-patients who experience worsening of liver function (see section 4.2). In patients who develop severe hepatic impairment while taking GIOTRIF, treatment should be discontinued.
 
 ## Gastrointestinal perforations
 
@@ -240,11 +228,9 @@ This medicinal product contains lactose. Patients with rare hereditary condition
 
 ## Effects of P-gp and breast cancer resistance protein (BCRP) inhibitors on afatinib
 
-In vitro studies have demonstrated that afatinib is a substrate of P-gp and BCRP. When the strong P-gp and BCRP inhibitor ritonavir (200 mg twice a day for 3 days) was administered 1 hour before a single dose of 20 mg GIOTRIF, exposure to afatinib increased by 48% (area under the curve (AUC0-∞)) and 39% (maximum plasma concentration (Cmax)). In contrast, when ritonavir was administered simultaneously or 6 hours after 40 mg GIOTRIF, the relative bioavailability of afatinib was 119% (AUC0-∞) and 104% (Cmax) and 111% (AUC0-∞) and 105% (Cmax), respectively. Therefore, it is recommended to administer strong P-gp inhibitors (including but not limited to ritonavir, cyclosporine A, ketoconazole, itraconazole, erythromycin, verapamil, quinidine, tacrolimus,
+In vitro studies have demonstrated that afatinib is a substrate of P-gp and BCRP. When the strong P-gp and BCRP inhibitor ritonavir (200 mg twice a day for 3 days) was administered 1 hour before a single dose of 20 mg GIOTRIF, exposure to afatinib increased by 48% (area under the curve (AUC0-∞)) and 39% (maximum plasma concentration (Cmax)). In contrast, when ritonavir was administered simultaneously or 6 hours after 40 mg GIOTRIF, the relative bioavailability of afatinib was 119% (AUC0-∞) and 104% (Cmax) and 111% (AUC0-∞) and 105% (Cmax), respectively. Therefore, it is recommended to administer strong P-gp inhibitors (including but not limited to ritonavir, cyclosporine A, ketoconazole, itraconazole, erythromycin, verapamil, quinidine, tacrolimus, nelfinavir, saquinavir, and amiodarone) using staggered dosing, preferably 6 hours or 12 hours apart from GIOTRIF (see section 4.2).
 
 <div style=\"page-break-after: always\"></div>
-
-nelfinavir, saquinavir, and amiodarone) using staggered dosing, preferably 6 hours or 12 hours apart from GIOTRIF (see section 4.2).
 
 ## Effects of P-gp inducers on afatinib
 
@@ -321,22 +307,6 @@ Table 2: Summary of ADRs per frequency category
 | General disorders and administration site conditions |                                                     | Pyrexia                                                                 |                                           |                                                         |
 | Investigations                                       |                                                     | Weight decreased                                                        |                                           |                                                         |
 
-1 Includes Paronychia, Nail infection, Nail bed infection
-
-2  Includes Stomatitis, Aphthous stomatitis, Mucosal inflammation, Mouth ulceration, Oral mucosa erosion, Mucosal erosion, Mucosal ulceration
-
-3 Includes group of rash preferred terms
-
-4  Includes Acne, Acne pustular, Dermatitis acneiform
-
-5 Includes Pruritus, Pruritus generalised
-
-6 Includes Dry skin, Skin chapped
-
-7  Based on post-marketing experience
-
-8 Includes Nail disorder, Onycholysis, Nail toxicity, Onychoclasis, Ingrowing nail, Nail pitting, Onychomadesis, Nail discoloration, Nail dystrophy, Nail ridging, and Onychogryphosis
-
 ## Description of selected adverse reactions
 
 Very common ADRs in GIOTRIF-treated patients occurring in at least 10% of patients in trial LUX-Lung 3 and LUX-Lung 7 are summarised by National Cancer Institute-Common Toxicity Criteria (NCI-CTC) Grade in Tables 3 and 4.
@@ -366,18 +336,6 @@ Table 3: Very common ADRs in trial LUX-Lung 3
 | Pruritus 6                                      | 19.2                          | 0.4                           | 0                             | 0.9                             | 0                               | 0                               |
 | Investigations                                  |                               |                               |                               |                                 |                                 |                                 |
 | Weight decreased                                | 10.5                          | 0                             | 0                             | 9.0                             | 0                               | 0                               |
-
-1 Includes Paronychia, Nail infection, Nail bed infection
-
-2  Includes Stomatitis, Aphthous stomatitis, Mucosal inflammation, Mouth ulceration, Oral mucosa erosion, Mucosal erosion, Mucosal ulceration
-
-3 Includes group of rash preferred terms
-
-4  Includes Acne, Acne pustular, Dermatitis acneiform
-
-5  Includes Dry skin, Skin chapped
-
-6 Includes Pruritus, Pruritus generalised
 
 <div style=\"page-break-after: always\"></div>
 
@@ -414,22 +372,6 @@ Table 4: Very common ADRs in trial LUX-Lung 7
 | Investigations                                       |                               |                               |                               |                     |                     |                     |
 | Weight decreased                                     | 10.0                          | 0.6                           | 0                             | 5.7                 | 0.6                 | 0                   |
 
-1 Includes Paronychia, Nail infection, Nail bed infection
-
-2 Includes Cystitis, Urinary tract infection
-
-3  Includes Hypokalaemia, Blood potassium decreased
-
-4  Includes Rhinorrhoea, Nasal inflammation
-
-5  Includes Stomatitis, Aphthous stomatitis, Mucosal inflammation, Mouth ulceration, Mucosal erosion
-
-6 Includes group of rash preferred terms
-
-7 Includes Pruritus, Pruritus generalised
-
-8  Includes Dermatitis acneiform, Acne
-
 ## Liver function test abnormalities
 
 Liver function test abnormalities (including elevated ALT and AST) were observed in patients receiving GIOTRIF 40 mg. These elevations were mainly transient and did not lead to discontinuation. Grade 2 (&gt; 2.5 to 5.0 times upper limit of normal (ULN)) ALT elevations occurred in &lt; 8% of patients treated with this medicinal product. Grade 3 (&gt; 5.0 to 20.0 times ULN) elevations occurred in &lt; 4% of patients treated with GIOTRIF (see section 4.4).
@@ -457,16 +399,6 @@ Table 5: Very common ADRs in trial LUX-Lung 8*
 | Skin and subcutaneous tissue disorders |                               |                               |                               |                     |                     |                     |
 | Rash 3                                 | 60.7                          | 5.4                           | 0                             | 56.7                | 8.1                 | 0                   |
 | Dermatitis acneiform 4                 | 14.0                          | 1.3                           | 0                             | 18.0                | 2.5                 | 0                   |
-
-* Reporting the frequency of patients with all causality AEs
-
-1 Includes Paronychia, Nail infection, Nail bed infection
-
-2  Includes Stomatitis, Aphthous stomatitis, Mucosal inflammation, Mouth ulceration, Oral mucosa erosion, Mucosal erosion, Mucosal ulceration
-
-3 Includes group of rash preferred terms
-
-4  Includes Acne, Acne pustular, Dermatitis acneiform
 
 ## Liver function test abnormalities
 
@@ -599,7 +531,9 @@ Table 8: Symptom outcomes for GIOTRIF vs. chemotherapy in trials LUX-Lung 3 and 
 | %of patients improved a                            | 76% vs. 55%; p = 0.0003           | 71% vs. 48%; p < 0.0001          | 65% vs. 47%; p = 0.0017         |
 | Delay of median time to deterioration (months) a,b | 31.1 vs. 10.3 HR 0.46; p = 0.0001 | 7.7 vs. 1.7 HR 0.53; p < 0.0001  | 6.9 vs. 3.4 HR 0.70; p = 0.0220 |
 
-a  values presented for GIOTRIF vs. chemotherapy, p-value based on logistic regression b p-value for time to deterioration based on stratified log-rank test
+a  values presented for GIOTRIF vs. chemotherapy, p-value based on logistic regression
+
+b p-value for time to deterioration based on stratified log-rank test
 
 ## LUX-Lung 2
 
@@ -649,17 +583,13 @@ Among 795 patients randomized, the majority were males (84%), white (73%), curre
 
 Table 10: Efficacy results for GIOTRIF vs erlotinib in LUX-Lung 8, based on primary analysis of OS, including all randomized patients
 
-|                                       | GIOTRIF (N = 398)   | Erlotinib (n = 397)   | Hazard Ratio/ Odds Ratio (95%CI)   | p-value 2   |
+|                                       | GIOTRIF (N = 398)   | Erlotinib (n = 397)   | Hazard Ratio/ Odds Ratio (95%CI)   |   p-value 2 |
 |---------------------------------------|---------------------|-----------------------|------------------------------------|-------------|
-| PFS Months (median)                   | 2.63                | 1.94                  | HR 0.81 (0.69, 0.96)               | 0.0103      |
-| OS Months (median)                    | 7.92                | 6.77                  | HR 0.81 (0.69, 0.95)               | 0.0077      |
+| PFS Months (median)                   | 2.63                | 1.94                  | HR 0.81 (0.69, 0.96)               |      0.0103 |
+| OS Months (median)                    | 7.92                | 6.77                  | HR 0.81 (0.69, 0.95)               |      0.0077 |
 | Alive at 12 months Alive at 18 months | 36.4% 22.0%         | 28.2% 14.4%           |                                    |             |
-| Objective Response Rate (CR+PR) 1     | 5.5%                | 2.8%                  | OR 2.06 (0.98, 4.32)               | 0.0551      |
+| Objective Response Rate (CR+PR) 1     | 5.5%                | 2.8%                  | OR 2.06 (0.98, 4.32)               |      0.0551 |
 | Duration of response Months (median)  | 7.29                | 3.71                  |                                    |             |
-
-1  CR=complete response; PR=partial response
-
-2 p-value for PFS/OS based on stratified log-rank test; p-value for Objective Response Rate based on logistic regression
 
 The overall survival hazard ratio in patients &lt; 65 years of age was 0.68 (95% CI 0.55, 0.85) and in patients 65 years of age and older it was 0.95 (95% CI 0.76, 1.19).
 
@@ -677,12 +607,6 @@ Table 11: Symptom outcomes for GIOTRIF vs. erlotinib in trial LUX-Lung 8 (EORTC 
 |----------------------------------------------|---------------------------------|---------------------------------|---------------------------------|
 | %of patients improved a, c                   | 43% vs. 35%; p = 0.0294         | 51% vs. 44%; p = 0.0605         | 40% vs. 39%; p = 0.7752         |
 | Delay of time to deterioration (months) b, c | 4.5 vs. 3.7 HR 0.89; p = 0.2562 | 2.6 vs. 1.9 HR 0.79; p = 0.0078 | 2.5 vs. 2.4 HR 0.99; p = 0.8690 |
-
-a values presented for GIOTRIF vs. erlotinib, p-value based on logistic regression
-
-b p-value for time to deterioration based on stratified log-rank test
-
-c p-values were not adjusted for multiplicity
 
 Efficacy in EGFR-negative tumours has not been established.
 
@@ -822,15 +746,27 @@ Not applicable.
 
 ## 6.3 Shelf life
 
-3 years.
+## Blister and bottle
+
+3 years
+
+Once the bottle is opened, the medicinal product must be used within 2 months.
 
 ## 6.4 Special precautions for storage
 
+## Blister
+
 Store in the original package in order to protect from moisture and light.
+
+## Bottle
+
+Keep the bottle tightly closed in order to protect from moisture. Store in the original package in order to protect from light.
 
 ## 6.5 Nature and contents of container
 
 PVC/PVDC perforated unit dose blister. Each blister is packed together with a desiccant sachet in a laminated aluminium pouch and contains 7 × 1 film-coated tablets. Pack sizes of 7 × 1, 14 × 1 or 28 × 1 film-coated tablets.
+
+Polypropylene (PP) bottle with HDPE/PP screw closure and desiccant integrated in the cap. Pack size of 30 film-coated tablets.
 
 Not all pack sizes may be marketed.
 
@@ -852,6 +788,8 @@ EU/1/13/879/002
 
 EU/1/13/879/003
 
+EU/1/13/879/013
+
 ## GIOTRIF 30 mg film-coated tablets
 
 EU/1/13/879/004
@@ -860,19 +798,19 @@ EU/1/13/879/005
 
 EU/1/13/879/006
 
+EU/1/13/879/014
+
 ## GIOTRIF 40 mg film-coated tablets
 
 EU/1/13/879/007
 
-EU/1/13/879/008
+EU/1/13/879/008 EU/1/13/879/009 EU/1/13/879/015
 
-EU/1/13/879/009
+<div style=\"page-break-after: always\"></div>
 
 ## GIOTRIF 50 mg film-coated tablets
 
-EU/1/13/879/010
-
-EU/1/13/879/011
+EU/1/13/879/010 EU/1/13/879/011
 
 EU/1/13/879/012
 
@@ -881,8 +819,6 @@ EU/1/13/879/012
 Date of first authorisation: 25 September 2013
 
 Date of latest renewal: 16 May 2018
-
-<div style=\"page-break-after: always\"></div>
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -1028,7 +964,7 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
 
 ALUMINIUM POUCH for 20 mg
 
@@ -1086,6 +1022,164 @@ Lot
 |------|---------|
 
 Do not open before use.
+
+<div style=\"page-break-after: always\"></div>
+
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
+
+FOLDING BOX FOR BOTTLE for 20 mg
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+GIOTRIF 20 mg film-coated tablets afatinib
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+
+Each film-coated tablet contains 20 mg afatinib (as dimaleate).
+
+## 3. LIST OF EXCIPIENTS
+
+Contains lactose. See package leaflet for further information.
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+30 film-coated tablets
+
+## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+
+Oral use
+
+Read the package leaflet before use.
+
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
+Keep out of the sight and reach of children.
+
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+## 8. EXPIRY DATE
+
+EXP
+
+Once opened, the medicine must be used within 2 months.
+
+## 9. SPECIAL STORAGE CONDITIONS
+
+Keep the bottle tightly closed in order to protect from moisture. Store in the original package in order to protect from light.
+
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+
+Boehringer Ingelheim International GmbH Binger Strasse 173 55216 Ingelheim am Rhein Germany
+
+## 12. MARKETING AUTHORISATION NUMBER(S)
+
+EU/1/13/879/013
+
+13. BATCH NUMBER
+
+Lot
+
+14. GENERAL CLASSIFICATION FOR SUPPLY
+
+15. INSTRUCTIONS ON USE
+
+16. INFORMATION IN BRAILLE
+
+GIOTRIF 20 mg
+
+17. UNIQUE IDENTIFIER - 2D BARCODE
+
+2D barcode carrying the unique identifier included.
+
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+
+PC SN
+
+NN
+
+<div style=\"page-break-after: always\"></div>
+
+<div style=\"page-break-after: always\"></div>
+
+## PARTICULARS TO APPEAR ON THE IMMEDIATE PACKAGING
+
+- LABEL FOR BOTTLE for 20 mg
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+GIOTRIF 20 mg film-coated tablets afatinib
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+
+- 1 film-coated tablet contains 20 mg afatinib (as dimaleate).
+
+## 3. LIST OF EXCIPIENTS
+
+Contains lactose. See package leaflet for further information.
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+- 30 film-coated tablets
+
+## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+
+Oral use
+
+Read the package leaflet before use.
+
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
+Keep out of the sight and reach of children.
+
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+## 8. EXPIRY DATE
+
+EXP
+
+Once opened, use within 2 months.
+
+## 9. SPECIAL STORAGE CONDITIONS
+
+Keep the bottle tightly closed in order to protect from moisture. Store in the original package in order to protect from light.
+
+Store in the original package to protect from moisture and light.
+
+<div style=\"page-break-after: always\"></div>
+
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-------------------------------------------------------------------------------------------------------------------------------------|
+
+| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|--------------------------------------------------------|
+
+Boehringer Ingelheim International GmbH Binger Strasse 173 55216 Ingelheim am Rhein Germany
+
+| 12. MARKETING AUTHORISATION NUMBER(S)   |
+|-----------------------------------------|
+
+EU/1/13/879/013
+
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
+
+Lot
+
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
+
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
+
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
+
+17. UNIQUE IDENTIFIER - 2D BARCODE
+
+| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
+|-------|-----------------------------------------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1203,7 +1297,7 @@ Boehringer Ingelheim (logo)
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEARON BLISTERS OR STRIPS   |
+| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
 |------------------------------------------------------|
 | PERFORATED BLISTER for 30 mg                         |
 
@@ -1212,8 +1306,8 @@ Boehringer Ingelheim (logo)
 
 GIOTRIF 30 mg tablets afatinib
 
-| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
-|------|------------------------------------------|
+| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
+|------|-------------------------------------------|
 
 Boehringer Ingelheim (logo)
 
@@ -1236,6 +1330,157 @@ Do not open before use.
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
+FOLDING BOX FOR BOTTLE for 30 mg
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+GIOTRIF 30 mg film-coated tablets afatinib
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+
+Each film-coated tablet contains 30 mg afatinib (as dimaleate).
+
+## 3. LIST OF EXCIPIENTS
+
+Contains lactose. See package leaflet for further information.
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+30 film-coated tablets
+
+## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+
+Oral use
+
+Read the package leaflet before use.
+
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
+Keep out of the sight and reach of children.
+
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+## 8. EXPIRY DATE
+
+EXP
+
+Once opened, the medicine must be used within 2 months.
+
+## 9. SPECIAL STORAGE CONDITIONS
+
+Keep the bottle tightly closed in order to protect from moisture.
+
+Store in the original package in order to protect from light.
+
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+
+Boehringer Ingelheim International GmbH Binger Strasse 173 55216 Ingelheim am Rhein Germany
+
+## 12. MARKETING AUTHORISATION NUMBER(S)
+
+EU/1/13/879/014
+
+## 13. BATCH NUMBER
+
+Lot
+
+14. GENERAL CLASSIFICATION FOR SUPPLY
+
+15. INSTRUCTIONS ON USE
+
+16. INFORMATION IN BRAILLE
+
+GIOTRIF 30 mg
+
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
+
+2D barcode carrying the unique identifier included.
+
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+
+PC SN
+
+NN
+
+<div style=\"page-break-after: always\"></div>
+
+## PARTICULARS TO APPEAR ON THE IMMEDIATE PACKAGING
+
+## LABEL FOR BOTTLE for 30 mg
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+GIOTRIF 30 mg film-coated tablets afatinib
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+
+- 1 film-coated tablet contains 30 mg afatinib (as dimaleate).
+
+## 3. LIST OF EXCIPIENTS
+
+Contains lactose. See package leaflet for further information.
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+- 30 film-coated tablets
+
+## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+
+Oral use
+
+Read the package leaflet before use.
+
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
+Keep out of the sight and reach of children.
+
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+## 8. EXPIRY DATE
+
+EXP
+
+Once opened, use within 2 months.
+
+## 9. SPECIAL STORAGE CONDITIONS
+
+Keep the bottle tightly closed in order to protect from moisture. Store in the original package in order to protect from light.
+
+Store in the original package to protect from moisture and light.
+
+<div style=\"page-break-after: always\"></div>
+
+<div style=\"page-break-after: always\"></div>
+
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-------------------------------------------------------------------------------------------------------------------------------------|
+
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+
+Boehringer Ingelheim International GmbH Binger Strasse 173 55216 Ingelheim am Rhein Germany
+
+| 12. MARKETING AUTHORISATION NUMBER(S)   |
+|-----------------------------------------|
+
+EU/1/13/879/014
+
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
+
+Lot
+
+14. GENERAL CLASSIFICATION FOR SUPPLY
+15. INSTRUCTIONS ON USE
+16. INFORMATION IN BRAILLE
+17. UNIQUE IDENTIFIER - 2D BARCODE
+
+| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
+|-------|-----------------------------------------|
+
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
+
 OUTER CARTON (FOLDING BOX FOR BLISTER for 40 mg)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
@@ -1253,7 +1498,9 @@ Contains lactose. See package leaflet for further information.
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
 - 7 × 1 film-coated tablets
+
 - 14 × 1 film-coated tablets
+
 - 28 × 1 film-coated tablets
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
@@ -1274,7 +1521,11 @@ EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
+<div style=\"page-break-after: always\"></div>
+
 Store in the original package in order to protect from moisture and light.
+
+<div style=\"page-break-after: always\"></div>
 
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
@@ -1295,9 +1546,7 @@ EU/1/13/879/009
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
-
 15. INSTRUCTIONS ON USE
-
 16. INFORMATION IN BRAILLE
 
 GIOTRIF 40 mg
@@ -1311,8 +1560,6 @@ GIOTRIF 40 mg
 PC
 
 SN
-
-<div style=\"page-break-after: always\"></div>
 
 NN
 
@@ -1377,6 +1624,160 @@ Do not open before use.
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
+FOLDING BOX FOR BOTTLE for 40 mg
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+GIOTRIF 40 mg film-coated tablets afatinib
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+
+Each film-coated tablet contains 40 mg afatinib (as dimaleate).
+
+## 3. LIST OF EXCIPIENTS
+
+Contains lactose. See package leaflet for further information.
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+30 film-coated tablets
+
+## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+
+Oral use
+
+Read the package leaflet before use.
+
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
+Keep out of the sight and reach of children.
+
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+## 8. EXPIRY DATE
+
+EXP
+
+Once opened, the medicine must be used within 2 months.
+
+## 9. SPECIAL STORAGE CONDITIONS
+
+Keep the bottle tightly closed in order to protect from moisture. Store in the original package in order to protect from light.
+
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+
+Boehringer Ingelheim International GmbH Binger Strasse 173 55216 Ingelheim am Rhein Germany
+
+## 12. MARKETING AUTHORISATION NUMBER(S)
+
+EU/1/13/879/015
+
+## 13. BATCH NUMBER
+
+Lot
+
+14. GENERAL CLASSIFICATION FOR SUPPLY
+
+15. INSTRUCTIONS ON USE
+
+16. INFORMATION IN BRAILLE
+
+GIOTRIF 40 mg
+
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
+
+2D barcode carrying the unique identifier included.
+
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+
+PC SN
+
+NN
+
+<div style=\"page-break-after: always\"></div>
+
+## PARTICULARS TO APPEAR ON THE IMMEDIATE PACKAGING
+
+- LABEL FOR BOTTLE for 40 mg
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+GIOTRIF 40 mg film-coated tablets afatinib
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+
+- 1 film-coated tablet contains 40 mg afatinib (as dimaleate).
+
+## 3. LIST OF EXCIPIENTS
+
+Contains lactose. See package leaflet for further information.
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+- 30 film-coated tablets
+
+## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+
+Oral use
+
+Read the package leaflet before use.
+
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
+Keep out of the sight and reach of children.
+
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+## 8. EXPIRY DATE
+
+EXP
+
+Once opened, use within 2 months.
+
+## 9. SPECIAL STORAGE CONDITIONS
+
+Keep the bottle tightly closed in order to protect from moisture. Store in the original package in order to protect from light.
+
+<div style=\"page-break-after: always\"></div>
+
+Store in the original package to protect from moisture and light.
+
+<div style=\"page-break-after: always\"></div>
+
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-------------------------------------------------------------------------------------------------------------------------------------|
+
+| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|--------------------------------------------------------|
+
+Boehringer Ingelheim International GmbH Binger Strasse 173 55216 Ingelheim am Rhein Germany
+
+| 12. MARKETING AUTHORISATION NUMBER(S)   |
+|-----------------------------------------|
+
+EU/1/13/879/015
+
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
+
+Lot
+
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
+
+15. INSTRUCTIONS ON USE
+17. UNIQUE IDENTIFIER - 2D BARCODE
+
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
+
+| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
+|-------|-----------------------------------------|
+
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
+
 OUTER CARTON (FOLDING BOX FOR BLISTER for 50 mg)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
@@ -1394,7 +1795,9 @@ Contains lactose. See package leaflet for further information.
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
 - 7 × 1 film-coated tablets
+
 - 14 × 1 film-coated tablets
+
 - 28 × 1 film-coated tablets
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
@@ -1416,6 +1819,8 @@ EXP
 ## 9. SPECIAL STORAGE CONDITIONS
 
 Store in the original package in order to protect from moisture and light.
+
+<div style=\"page-break-after: always\"></div>
 
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
@@ -1457,9 +1862,7 @@ SN
 
 NN
 
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
-
-ALUMINIUM POUCH for 50 mg
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS ALUMINIUM POUCH for 50 mg
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
@@ -1487,7 +1890,7 @@ Boehringer Ingelheim (logo)
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
+| MINIMUM PARTICULARS TO APPEARON BLISTERS OR STRIPS   |
 |------------------------------------------------------|
 | PERFORATED BLISTER for 50 mg                         |
 
@@ -1719,7 +2122,7 @@ Very common side effects (may affect more than 1 in 10 people):
 
 <div style=\"page-break-after: always\"></div>
 
-## Common side effects (may affect up to 1 in 10 people):
+Common side effects (may affect up to 1 in 10 people):
 
 - Pain, redness, swelling or peeling of the skin of your hands and feet
 - Increased levels of the liver enzymes (aspartate aminotransferase and alanine aminotransferase) in blood tests.
@@ -1751,9 +2154,11 @@ If you get any side effects, talk to your doctor or pharmacist. This includes an
 
 Keep this medicine out of the sight and reach of children.
 
-Do not use this medicine after the expiry date which is stated on the carton, the pouch and the blister after EXP. The expiry date refers to the last day of that month.
+Do not use this medicine after the expiry date which is stated on the carton, the bottle, the pouch and the blister after EXP. The expiry date refers to the last day of that month.
 
-Store in the original package in order to protect from moisture and light.
+Blister: Store in the original package in order to protect from moisture and light.
+
+Bottle: Keep the bottle tightly closed in order to protect from moisture. Store in the original package in order to protect from light. Once the bottle is opened, the medicine must be used within 2 months.
 
 Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
 
@@ -1762,15 +2167,18 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 ## What GIOTRIF contains
 
 - -The active substance is afatinib. Each film-coated tablet contains 20 mg of afatinib (as dimaleate).
-- -The other ingredients are lactose monohydrate, microcrystalline cellulose (E460), colloidal anhydrous silica (E551), crospovidone type A, magnesium stearate (E470b), hypromellose (E464), macrogol 400, titanium dioxide (E171), talc (E553b), polysorbate 80 (E433).
 
 <div style=\"page-break-after: always\"></div>
+
+- -The other ingredients are lactose monohydrate, microcrystalline cellulose (E460), colloidal anhydrous silica (E551), crospovidone type A, magnesium stearate (E470b), hypromellose (E464), macrogol 400, titanium dioxide (E171), talc (E553b), polysorbate 80 (E433).
 
 ## What GIOTRIF looks like and contents of the pack
 
 GIOTRIF 20 mg film-coated tablets are white to yellowish and round shaped. They are debossed with the code 'T20' on one side and the Boehringer Ingelheim company logo on the other.
 
 GIOTRIF film-coated tablets are available in packs containing 1, 2 or 4 perforated unit dose blisters. Each blister contains 7 × 1 film-coated tablets and is packed in an aluminium pouch together with a desiccant sachet that should not be swallowed.
+
+GIOTRIF film-coated tablets are also available in a polypropylene (PP) (plastic) bottle with HDPE/PP screw closure and desiccant integrated in the cap. Each bottle contains 30 film-coated tablets.
 
 Not all pack sizes may be marketed.
 
@@ -1782,11 +2190,9 @@ Boehringer Ingelheim International GmbH Binger Strasse 173 55216 Ingelheim am Rh
 
 Boehringer Ingelheim Pharma GmbH &amp; Co. KG Binger Strasse 173 55216 Ingelheim am Rhein Germany
 
-Boehringer Ingelheim France 100-104 Avenue de France 75013 Paris France
+Boehringer Ingelheim France 100-104 Avenue de France 75013 Paris France For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 <div style=\"page-break-after: always\"></div>
-
-For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 ## België/Belgique/Belgien
 
@@ -1862,7 +2268,7 @@ Boehringer Ingelheim B.V. Tel: +31 (0) 800 22 55 889
 
 ## Norge
 
-Boehringer Ingelheim Danmark Norwegian branch Tlf: +47 66 76 13 00
+Boehringer Ingelheim Danmark A/S NUF Tlf: +47 66 76 13 00
 
 ## Österreich
 
@@ -1900,7 +2306,9 @@ Tel: +39 02 5355 1
 
 ## Κύπρος
 
-Boehringer Ingelheim Ελλάς Μονοπρόσωπη A.E. Tηλ: +30 2 10 89 06 300
+Boehringer Ingelheim Ελλάς Μονοπρόσωπη A.E.
+
+Tηλ: +30 2 10 89 06 300
 
 ## Latvija
 
@@ -2123,7 +2531,7 @@ Very common side effects (may affect more than 1 in 10 people):
 
 <div style=\"page-break-after: always\"></div>
 
-## Common side effects (may affect up to 1 in 10 people):
+Common side effects (may affect up to 1 in 10 people):
 
 - Pain, redness, swelling or peeling of the skin of your hands and feet
 - Increased levels of the liver enzymes (aspartate aminotransferase and alanine aminotransferase) in blood tests.
@@ -2155,9 +2563,11 @@ If you get any side effects, talk to your doctor or pharmacist. This includes an
 
 Keep this medicine out of the sight and reach of children.
 
-Do not use this medicine after the expiry date which is stated on the carton, the pouch and the blister after EXP. The expiry date refers to the last day of that month.
+Do not use this medicine after the expiry date which is stated on the carton, the bottle, the pouch and the blister after EXP. The expiry date refers to the last day of that month.
 
-Store in the original package in order to protect from moisture and light.
+Blister: Store in the original package in order to protect from moisture and light.
+
+Bottle: Keep the bottle tightly closed in order to protect from moisture. Store in the original package in order to protect fromlight. Once the bottle is opened, the medicine must be used within 2 months.
 
 Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
 
@@ -2166,15 +2576,18 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 ## What GIOTRIF contains
 
 - -The active substance is afatinib. Each film-coated tablet contains 30 mg of afatinib (as dimaleate).
-- -The other ingredients are lactose monohydrate, microcrystalline cellulose (E460), colloidal anhydrous silica (E551), crospovidone type A, magnesium stearate (E470b), hypromellose (E464), macrogol 400, titanium dioxide (E171), talc (E553b), polysorbate 80 (E433), indigo carmine (E132) aluminium lake.
 
 <div style=\"page-break-after: always\"></div>
+
+- -The other ingredients are lactose monohydrate, microcrystalline cellulose (E460), colloidal anhydrous silica (E551), crospovidone type A, magnesium stearate (E470b), hypromellose (E464), macrogol 400, titanium dioxide (E171), talc (E553b), polysorbate 80 (E433), indigo carmine (E132) aluminium lake.
 
 ## What GIOTRIF looks like and contents of the pack
 
 GIOTRIF 30 mg film-coated tablets are dark blue and round shaped. They are debossed with the code 'T30' on one side and the Boehringer Ingelheim company logo on the other.
 
 GIOTRIF film-coated tablets are available in packs containing 1, 2 or 4 perforated unit dose blisters. Each blister contains 7 × 1 film-coated tablets and is packed in an aluminium pouch together with a desiccant sachet that should not be swallowed.
+
+GIOTRIF film-coated tablets are also available in a polypropylene (PP) (plastic) bottle with HDPE/PP screw closure and desiccant integrated in the cap. Each bottle contains 30 film-coated tablets.
 
 Not all pack sizes may be marketed.
 
@@ -2186,11 +2599,9 @@ Boehringer Ingelheim International GmbH Binger Strasse 173 55216 Ingelheim am Rh
 
 Boehringer Ingelheim Pharma GmbH &amp; Co. KG Binger Strasse 173 55216 Ingelheim am Rhein Germany
 
-Boehringer Ingelheim France 100-104 Avenue de France 75013 Paris France
+Boehringer Ingelheim France 100-104 Avenue de France 75013 Paris France For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 <div style=\"page-break-after: always\"></div>
-
-For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 ## België/Belgique/Belgien
 
@@ -2230,7 +2641,9 @@ Boehringer Ingelheim France S.A.S. Tél: +33 3 26 50 45 33
 
 ## Hrvatska
 
-Boehringer Ingelheim Zagreb d.o.o. Tel: +385 1 2444 600
+Boehringer Ingelheim Zagreb d.o.o.
+
+Tel: +385 1 2444 600
 
 ## Ireland
 
@@ -2264,7 +2677,7 @@ Boehringer Ingelheim B.V. Tel: +31 (0) 800 22 55 889
 
 ## Norge
 
-Boehringer Ingelheim Danmark Norwegian branch Tlf: +47 66 76 13 00
+Boehringer Ingelheim Danmark A/S NUF Tlf: +47 66 76 13 00
 
 ## Österreich
 
@@ -2296,7 +2709,9 @@ Tel: +421 2 5810 1211
 
 ## Italia
 
-Boehringer Ingelheim Italia S.p.A. Tel: +39 02 5355 1
+Boehringer Ingelheim Italia S.p.A.
+
+Tel: +39 02 5355 1
 
 ## Κύπρος
 
@@ -2498,8 +2913,7 @@ Diarrhoea lasting more than 2 days or more severe diarrhoea may lead to fluid lo
 
 It is important to treat the rash early. Tell your doctor if a rash starts. If treatment for rash is not working and the rash is getting more severe (for example, you have peeling or blistering of the skin) you should notify your doctor immediately, since your doctor may decide to stop your treatment with GIOTRIF. Rash may occur or worsen in areas exposed to sun. Sun protection with protective clothing and sunscreen is recommended.
 
-- Inflammation of the lungs
-- lung disease'.
+- Inflammation of the lungs (uncommon, may affect up to 1 in 100 people) called 'interstitial lung disease'.
 
 Tell your doctor immediately if you develop new or sudden worsening of shortness of breath, possibly with a cough or fever.
 
@@ -2521,11 +2935,10 @@ Very common side effects (may affect more than 1 in 10 people):
 - Vomiting
 - Itching
 - Dry skin
-- (uncommon, may affect up to 1 in 100 people) called 'interstitial
 
 <div style=\"page-break-after: always\"></div>
 
-## Common side effects (may affect up to 1 in 10 people):
+Common side effects (may affect up to 1 in 10 people):
 
 - Pain, redness, swelling or peeling of the skin of your hands and feet
 - Increased levels of the liver enzymes (aspartate aminotransferase and alanine aminotransferase) in blood tests.
@@ -2557,9 +2970,11 @@ If you get any side effects, talk to your doctor or pharmacist. This includes an
 
 Keep this medicine out of the sight and reach of children.
 
-Do not use this medicine after the expiry date which is stated on the carton, the pouch and the blister after EXP. The expiry date refers to the last day of that month.
+Do not use this medicine after the expiry date which is stated on the carton, the bottle, the pouch and the blister after EXP. The expiry date refers to the last day of that month.
 
-Store in the original package in order to protect from moisture and light.
+Blister: Store in the original package in order to protect from moisture and light.
+
+Bottle: Keep the bottle tightly closed in order to protect from moisture. Store in the original package in order to protect from light. Once the bottle is opened, the medicine must be used within 2 months.
 
 Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
 
@@ -2568,15 +2983,18 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 ## What GIOTRIF contains
 
 - -The active substance is afatinib. Each film-coated tablet contains 40 mg of afatinib (as dimaleate).
-- -The other ingredients are lactose monohydrate, microcrystalline cellulose (E460), colloidal anhydrous silica (E551), crospovidone type A, magnesium stearate (E470b), hypromellose (E464), macrogol 400, titanium dioxide (E171), talc (E553b), polysorbate 80 (E433), indigo carmine (E132) aluminium lake.
 
 <div style=\"page-break-after: always\"></div>
+
+- -The other ingredients are lactose monohydrate, microcrystalline cellulose (E460), colloidal anhydrous silica (E551), crospovidone type A, magnesium stearate (E470b), hypromellose (E464), macrogol 400, titanium dioxide (E171), talc (E553b), polysorbate 80 (E433), indigo carmine (E132) aluminium lake.
 
 ## What GIOTRIF looks like and contents of the pack
 
 GIOTRIF 40 mg film-coated tablets are light blue and round shaped. They are debossed with the code 'T40' on one side and the Boehringer Ingelheim company logo on the other.
 
 GIOTRIF film-coated tablets are available in packs containing 1, 2 or 4 perforated unit dose blisters. Each blister contains 7 × 1 film-coated tablets and is packed in an aluminium pouch together with a desiccant sachet that should not be swallowed.
+
+GIOTRIF film-coated tablets are also available in a polypropylene (PP) (plastic) bottle with HDPE/PP screw closure and desiccant integrated in the cap. Each bottle contains 30 film-coated tablets.
 
 Not all pack sizes may be marketed.
 
@@ -2588,11 +3006,9 @@ Boehringer Ingelheim International GmbH Binger Strasse 173 55216 Ingelheim am Rh
 
 Boehringer Ingelheim Pharma GmbH &amp; Co. KG Binger Strasse 173 55216 Ingelheim am Rhein Germany
 
-Boehringer Ingelheim France 100-104 Avenue de France 75013 Paris France
+Boehringer Ingelheim France 100-104 Avenue de France 75013 Paris France For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 <div style=\"page-break-after: always\"></div>
-
-For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 ## België/Belgique/Belgien
 
@@ -2668,7 +3084,7 @@ Boehringer Ingelheim B.V. Tel: +31 (0) 800 22 55 889
 
 ## Norge
 
-Boehringer Ingelheim Danmark Norwegian branch Tlf: +47 66 76 13 00
+Boehringer Ingelheim Danmark A/S NUF Tlf: +47 66 76 13 00
 
 ## Österreich
 
@@ -2700,11 +3116,15 @@ Tel: +421 2 5810 1211
 
 ## Italia
 
-Boehringer Ingelheim Italia S.p.A. Tel: +39 02 5355 1
+Boehringer Ingelheim Italia S.p.A.
+
+Tel: +39 02 5355 1
 
 ## Κύπρος
 
-Boehringer Ingelheim Ελλάς Μονοπρόσωπη A.E. Tηλ: +30 2 10 89 06 300
+Boehringer Ingelheim Ελλάς Μονοπρόσωπη A.E.
+
+Tηλ: +30 2 10 89 06 300
 
 ## Latvija
 
@@ -2990,11 +3410,9 @@ Boehringer Ingelheim International GmbH Binger Strasse 173 55216 Ingelheim am Rh
 
 Boehringer Ingelheim Pharma GmbH &amp; Co. KG Binger Strasse 173 55216 Ingelheim am Rhein Germany
 
-Boehringer Ingelheim France 100-104 Avenue de France 75013 Paris France
+Boehringer Ingelheim France 100-104 Avenue de France 75013 Paris France For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 <div style=\"page-break-after: always\"></div>
-
-For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 ## België/Belgique/Belgien
 
@@ -3048,9 +3466,7 @@ Vistor ehf. Sími: +354 535 7000
 
 ## Lietuva
 
-Boehringer Ingelheim RCV GmbH &amp; Co KG Lietuvos filialas
-
-Tel: +370 5 2595942
+Boehringer Ingelheim RCV GmbH &amp; Co KG Lietuvos filialas Tel: +370 5 2595942
 
 ## Luxembourg/Luxemburg
 
@@ -3070,7 +3486,7 @@ Boehringer Ingelheim B.V. Tel: +31 (0) 800 22 55 889
 
 ## Norge
 
-Boehringer Ingelheim Danmark Norwegian branch Tlf: +47 66 76 13 00
+Boehringer Ingelheim Danmark A/S NUF Tlf: +47 66 76 13 00
 
 ## Österreich
 
@@ -3108,9 +3524,7 @@ Tel: +39 02 5355 1
 
 ## Κύπρος
 
-Boehringer Ingelheim Ελλάς Μονοπρόσωπη A.E.
-
-Tηλ: +30 2 10 89 06 300
+Boehringer Ingelheim Ελλάς Μονοπρόσωπη A.E. Tηλ: +30 2 10 89 06 300
 
 ## Latvija
 

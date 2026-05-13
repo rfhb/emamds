@@ -1,0 +1,52 @@
+---
+document_datetime: 2026-05-11 09:56:10
+document_pages: 4
+document_pathfilename: www.ema.europa.eu/en/documents/procedural-steps-after/exdensur-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
+document_name: exdensur-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
+version: success
+processing_time: 3.2260542
+conversion_datetime: 2026-05-13 12:49:07.548602
+docling_version:
+  docling-serve: 1.17.0
+  docling-jobkit: 1.18.0
+  docling: 2.92.0
+  docling-core: 2.74.1
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.10.1
+  python: cpython-313 (3.13.11)
+  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
+---
+## EXDENSUR
+
+Procedural steps taken and scientific information after the authorisation*
+
+*Due to the Agency`s update of its procedure management systems, an additional document, reflecting the historical lifecycle may be available in the 'Assessment history' section. For the complete product lifecycle procedures, you may need to also refer to EPAR - Procedural steps taken and scientific information after authorisation (archive) .
+
+| Application number   | Scope                                  | Opinion/ Notification 1 issued on   | Commission Decision Issued 2 / amended on   | Product Information affected 3   | Summary   |
+|----------------------|----------------------------------------|-------------------------------------|---------------------------------------------|----------------------------------|-----------|
+| Variation type IB /  | This was an application for a group of | 08/05/2026                          |                                             | SmPC                             |           |
+
+<!-- image -->
+
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
+
+| EMA/VR/0000340523   | variations. Q.II.d.2 Change to analytical procedure for the finished product - Q.II.d.2.a) Minor change to an approved analytical procedure - Accepted Q.II.d.2 Change to analytical procedure for the finished product - Q.II.d.2.a) Minor change to an approved analytical procedure - Accepted Q.II.f.1.b) Extension of the shelf life of the finished product - Q.II.f.1.b.1 As packaged for sale (supported by real time data, fully in line with the stability protocol) - Accepted Q.II Finished product - Q.II.z Other variation - Accepted   |            |                   |
+|---------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|-------------------|
+| Variation type IB / | This was an application for a group of variations. Q.I.a) Manufacture - Q.I.a.z Other variation - Accepted Q.I.c.3 Change in analytical procedure for the immediate packaging of the active substance - Q.I.c.3.z Other variation - Accepted Q.I.b.2 Change to analytical procedure for active substance or starting material/reagent/intermediate used in the manufacturing process of the active substance - Q.I.b.2.a) Minor change to an                                                                                                          | 07/05/2026 | EMA/VR/0000340521 |
+
+<div style=\"page-break-after: always\"></div>
+
+| analytical procedure for the active substance - Accepted Q.I.b.2 Change to analytical procedure for active substance or starting material/reagent/intermediate used in the manufacturing process of the active substance - Q.I.b.2.a) Minor change to an analytical procedure for the active - Accepted Q.I.e.8 Changes to an approved product lifecycle management document (PLCM) related to the active substance - Q.I.e.8.b) Minor changes to an approved PLCM - Accepted Q.I.e.8 Changes to an approved product lifecycle management document (PLCM) related to the active substance - Q.I.e.8.b) Minor changes to an approved PLCM - Accepted Q.I.e.8 Changes to an approved product lifecycle management document (PLCM) related to the active substance - Q.I.e.8.b) Minor changes to an approved PLCM - Accepted Q.I.e.8 Changes to an approved product lifecycle management document (PLCM) related to the active substance - Q.I.e.8.b) Minor changes to an approved PLCM -   |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| substance                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| Accepted                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| Q.I.e.8 Changes to an approved product                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| lifecycle management document (PLCM)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| related to the active substance - Q.I.e.8.b)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+
+<div style=\"page-break-after: always\"></div>
+
+| Minor changes to an approved PLCM - Accepted   |
+|------------------------------------------------|

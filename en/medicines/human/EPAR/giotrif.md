@@ -1,32 +1,32 @@
 ---
-document_datetime: 2025-12-29 09:43:45
+document_datetime: 2026-05-11 15:37:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/giotrif.html
 document_name: giotrif.html
 version: success
-processing_time: 0.1152495
-conversion_datetime: 2025-12-30 11:34:15.607788
+processing_time: 0.1331009
+conversion_datetime: 2026-05-13 13:12:15.453173
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.17.0
+  docling-jobkit: 1.18.0
+  docling: 2.92.0
+  docling-core: 2.74.1
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.10.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
 ---
 # Giotrif
 
 [RSS](/en/individual-human-medicine.xml/66117)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-afatinib Medicine Human Authorised
+afatinib
 
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
+Medicine Human Authorised
 
 Page contents
 
@@ -111,275 +111,141 @@ Reference Number: EMA/473990/2013
 
 English (EN) (80.92 KB - PDF)
 
-**First published:** 16/10/2013
-
-**Last updated:** 24/05/2016
+**First published:** 16/10/2013 **Last updated:** 24/05/2016
 
 [View](/en/documents/overview/giotrif-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-812)
+[Other languages (22)](#file-language-dropdown-181)
 
 български (BG) (107.16 KB - PDF)
 
-**First published:**
-
-16/10/2013
-
-**Last updated:**
-
-24/05/2016
+**First published:** 16/10/2013 **Last updated:** 24/05/2016
 
 [View](/bg/documents/overview/giotrif-epar-summary-public_bg.pdf)
 
 español (ES) (75.42 KB - PDF)
 
-**First published:**
-
-16/10/2013
-
-**Last updated:**
-
-24/05/2016
+**First published:** 16/10/2013 **Last updated:** 24/05/2016
 
 [View](/es/documents/overview/giotrif-epar-summary-public_es.pdf)
 
 čeština (CS) (104.45 KB - PDF)
 
-**First published:**
-
-16/10/2013
-
-**Last updated:**
-
-24/05/2016
+**First published:** 16/10/2013 **Last updated:** 24/05/2016
 
 [View](/cs/documents/overview/giotrif-epar-summary-public_cs.pdf)
 
 dansk (DA) (79.34 KB - PDF)
 
-**First published:**
-
-16/10/2013
-
-**Last updated:**
-
-24/05/2016
+**First published:** 16/10/2013 **Last updated:** 24/05/2016
 
 [View](/da/documents/overview/giotrif-epar-summary-public_da.pdf)
 
 Deutsch (DE) (81.46 KB - PDF)
 
-**First published:**
-
-16/10/2013
-
-**Last updated:**
-
-24/05/2016
+**First published:** 16/10/2013 **Last updated:** 24/05/2016
 
 [View](/de/documents/overview/giotrif-epar-summary-public_de.pdf)
 
 eesti keel (ET) (78.04 KB - PDF)
 
-**First published:**
-
-16/10/2013
-
-**Last updated:**
-
-24/05/2016
+**First published:** 16/10/2013 **Last updated:** 24/05/2016
 
 [View](/et/documents/overview/giotrif-epar-summary-public_et.pdf)
 
 ελληνικά (EL) (107.62 KB - PDF)
 
-**First published:**
-
-16/10/2013
-
-**Last updated:**
-
-24/05/2016
+**First published:** 16/10/2013 **Last updated:** 24/05/2016
 
 [View](/el/documents/overview/giotrif-epar-summary-public_el.pdf)
 
 français (FR) (100.33 KB - PDF)
 
-**First published:**
-
-16/10/2013
-
-**Last updated:**
-
-24/05/2016
+**First published:** 16/10/2013 **Last updated:** 24/05/2016
 
 [View](/fr/documents/overview/giotrif-epar-summary-public_fr.pdf)
 
 hrvatski (HR) (100.33 KB - PDF)
 
-**First published:**
-
-16/10/2013
-
-**Last updated:**
-
-24/05/2016
+**First published:** 16/10/2013 **Last updated:** 24/05/2016
 
 [View](/hr/documents/overview/giotrif-epar-summary-public_hr.pdf)
 
 italiano (IT) (79.5 KB - PDF)
 
-**First published:**
-
-16/10/2013
-
-**Last updated:**
-
-24/05/2016
+**First published:** 16/10/2013 **Last updated:** 24/05/2016
 
 [View](/it/documents/overview/giotrif-epar-summary-public_it.pdf)
 
 latviešu valoda (LV) (100.81 KB - PDF)
 
-**First published:**
-
-16/10/2013
-
-**Last updated:**
-
-24/05/2016
+**First published:** 16/10/2013 **Last updated:** 24/05/2016
 
 [View](/lv/documents/overview/giotrif-epar-summary-public_lv.pdf)
 
 lietuvių kalba (LT) (102.89 KB - PDF)
 
-**First published:**
-
-16/10/2013
-
-**Last updated:**
-
-24/05/2016
+**First published:** 16/10/2013 **Last updated:** 24/05/2016
 
 [View](/lt/documents/overview/giotrif-epar-summary-public_lt.pdf)
 
 magyar (HU) (99.19 KB - PDF)
 
-**First published:**
-
-16/10/2013
-
-**Last updated:**
-
-24/05/2016
+**First published:** 16/10/2013 **Last updated:** 24/05/2016
 
 [View](/hu/documents/overview/giotrif-epar-summary-public_hu.pdf)
 
 Malti (MT) (105.29 KB - PDF)
 
-**First published:**
-
-16/10/2013
-
-**Last updated:**
-
-24/05/2016
+**First published:** 16/10/2013 **Last updated:** 24/05/2016
 
 [View](/mt/documents/overview/giotrif-epar-summary-public_mt.pdf)
 
 Nederlands (NL) (79.62 KB - PDF)
 
-**First published:**
-
-16/10/2013
-
-**Last updated:**
-
-24/05/2016
+**First published:** 16/10/2013 **Last updated:** 24/05/2016
 
 [View](/nl/documents/overview/giotrif-epar-summary-public_nl.pdf)
 
 polski (PL) (105.03 KB - PDF)
 
-**First published:**
-
-16/10/2013
-
-**Last updated:**
-
-24/05/2016
+**First published:** 16/10/2013 **Last updated:** 24/05/2016
 
 [View](/pl/documents/overview/giotrif-epar-summary-public_pl.pdf)
 
 português (PT) (80.22 KB - PDF)
 
-**First published:**
-
-16/10/2013
-
-**Last updated:**
-
-24/05/2016
+**First published:** 16/10/2013 **Last updated:** 24/05/2016
 
 [View](/pt/documents/overview/giotrif-epar-summary-public_pt.pdf)
 
 română (RO) (101.41 KB - PDF)
 
-**First published:**
-
-16/10/2013
-
-**Last updated:**
-
-24/05/2016
+**First published:** 16/10/2013 **Last updated:** 24/05/2016
 
 [View](/ro/documents/overview/giotrif-epar-summary-public_ro.pdf)
 
 slovenčina (SK) (103.96 KB - PDF)
 
-**First published:**
-
-16/10/2013
-
-**Last updated:**
-
-24/05/2016
+**First published:** 16/10/2013 **Last updated:** 24/05/2016
 
 [View](/sk/documents/overview/giotrif-epar-summary-public_sk.pdf)
 
 slovenščina (SL) (97.93 KB - PDF)
 
-**First published:**
-
-16/10/2013
-
-**Last updated:**
-
-24/05/2016
+**First published:** 16/10/2013 **Last updated:** 24/05/2016
 
 [View](/sl/documents/overview/giotrif-epar-summary-public_sl.pdf)
 
 Suomi (FI) (79.07 KB - PDF)
 
-**First published:**
-
-16/10/2013
-
-**Last updated:**
-
-24/05/2016
+**First published:** 16/10/2013 **Last updated:** 24/05/2016
 
 [View](/fi/documents/overview/giotrif-epar-summary-public_fi.pdf)
 
 svenska (SV) (79.69 KB - PDF)
 
-**First published:**
-
-16/10/2013
-
-**Last updated:**
-
-24/05/2016
+**First published:** 16/10/2013 **Last updated:** 24/05/2016
 
 [View](/sv/documents/overview/giotrif-epar-summary-public_sv.pdf)
 
@@ -387,305 +253,161 @@ svenska (SV) (79.69 KB - PDF)
 
 Giotrif : EPAR - Product information
 
-English (EN) (1.07 MB - PDF)
+English (EN) (1.28 MB - PDF)
 
-**First published:** 16/10/2013
-
-**Last updated:** 31/03/2025
+**First published:** 16/10/2013 **Last updated:** 11/05/2026
 
 [View](/en/documents/product-information/giotrif-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-486)
+[Other languages (24)](#file-language-dropdown-959)
 
-български (BG) (1.16 MB - PDF)
+български (BG) (2.55 MB - PDF)
 
-**First published:**
-
-16/10/2013
-
-**Last updated:**
-
-31/03/2025
+**First published:** 16/10/2013 **Last updated:** 11/05/2026
 
 [View](/bg/documents/product-information/giotrif-epar-product-information_bg.pdf)
 
-español (ES) (1.08 MB - PDF)
+español (ES) (2.38 MB - PDF)
 
-**First published:**
-
-16/10/2013
-
-**Last updated:**
-
-31/03/2025
+**First published:** 16/10/2013 **Last updated:** 11/05/2026
 
 [View](/es/documents/product-information/giotrif-epar-product-information_es.pdf)
 
-čeština (CS) (1.21 MB - PDF)
+čeština (CS) (2.87 MB - PDF)
 
-**First published:**
-
-16/10/2013
-
-**Last updated:**
-
-31/03/2025
+**First published:** 16/10/2013 **Last updated:** 11/05/2026
 
 [View](/cs/documents/product-information/giotrif-epar-product-information_cs.pdf)
 
-dansk (DA) (1.06 MB - PDF)
+dansk (DA) (2.42 MB - PDF)
 
-**First published:**
-
-16/10/2013
-
-**Last updated:**
-
-31/03/2025
+**First published:** 16/10/2013 **Last updated:** 11/05/2026
 
 [View](/da/documents/product-information/giotrif-epar-product-information_da.pdf)
 
-Deutsch (DE) (1.09 MB - PDF)
+Deutsch (DE) (2.52 MB - PDF)
 
-**First published:**
-
-16/10/2013
-
-**Last updated:**
-
-31/03/2025
+**First published:** 16/10/2013 **Last updated:** 11/05/2026
 
 [View](/de/documents/product-information/giotrif-epar-product-information_de.pdf)
 
-eesti keel (ET) (1.1 MB - PDF)
+eesti keel (ET) (2.42 MB - PDF)
 
-**First published:**
-
-16/10/2013
-
-**Last updated:**
-
-31/03/2025
+**First published:** 16/10/2013 **Last updated:** 11/05/2026
 
 [View](/et/documents/product-information/giotrif-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.22 MB - PDF)
+ελληνικά (EL) (2.59 MB - PDF)
 
-**First published:**
-
-16/10/2013
-
-**Last updated:**
-
-31/03/2025
+**First published:** 16/10/2013 **Last updated:** 11/05/2026
 
 [View](/el/documents/product-information/giotrif-epar-product-information_el.pdf)
 
-français (FR) (1.23 MB - PDF)
+français (FR) (2.66 MB - PDF)
 
-**First published:**
-
-16/10/2013
-
-**Last updated:**
-
-31/03/2025
+**First published:** 16/10/2013 **Last updated:** 11/05/2026
 
 [View](/fr/documents/product-information/giotrif-epar-product-information_fr.pdf)
 
-hrvatski (HR) (1.16 MB - PDF)
+hrvatski (HR) (2.45 MB - PDF)
 
-**First published:**
-
-16/10/2013
-
-**Last updated:**
-
-31/03/2025
+**First published:** 16/10/2013 **Last updated:** 11/05/2026
 
 [View](/hr/documents/product-information/giotrif-epar-product-information_hr.pdf)
 
-íslenska (IS) (1.05 MB - PDF)
+íslenska (IS) (2.31 MB - PDF)
 
-**First published:**
-
-16/10/2013
-
-**Last updated:**
-
-31/03/2025
+**First published:** 16/10/2013 **Last updated:** 11/05/2026
 
 [View](/is/documents/product-information/giotrif-epar-product-information_is.pdf)
 
-italiano (IT) (1.14 MB - PDF)
+italiano (IT) (2.43 MB - PDF)
 
-**First published:**
-
-16/10/2013
-
-**Last updated:**
-
-31/03/2025
+**First published:** 16/10/2013 **Last updated:** 11/05/2026
 
 [View](/it/documents/product-information/giotrif-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (1.17 MB - PDF)
+latviešu valoda (LV) (2.5 MB - PDF)
 
-**First published:**
-
-16/10/2013
-
-**Last updated:**
-
-31/03/2025
+**First published:** 16/10/2013 **Last updated:** 11/05/2026
 
 [View](/lv/documents/product-information/giotrif-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (1.17 MB - PDF)
+lietuvių kalba (LT) (2.68 MB - PDF)
 
-**First published:**
-
-16/10/2013
-
-**Last updated:**
-
-31/03/2025
+**First published:** 16/10/2013 **Last updated:** 11/05/2026
 
 [View](/lt/documents/product-information/giotrif-epar-product-information_lt.pdf)
 
-magyar (HU) (1.14 MB - PDF)
+magyar (HU) (2.51 MB - PDF)
 
-**First published:**
-
-16/10/2013
-
-**Last updated:**
-
-31/03/2025
+**First published:** 16/10/2013 **Last updated:** 11/05/2026
 
 [View](/hu/documents/product-information/giotrif-epar-product-information_hu.pdf)
 
-Malti (MT) (1.19 MB - PDF)
+Malti (MT) (3.11 MB - PDF)
 
-**First published:**
-
-16/10/2013
-
-**Last updated:**
-
-31/03/2025
+**First published:** 16/10/2013 **Last updated:** 11/05/2026
 
 [View](/mt/documents/product-information/giotrif-epar-product-information_mt.pdf)
 
-Nederlands (NL) (1.11 MB - PDF)
+Nederlands (NL) (2.48 MB - PDF)
 
-**First published:**
-
-16/10/2013
-
-**Last updated:**
-
-31/03/2025
+**First published:** 16/10/2013 **Last updated:** 11/05/2026
 
 [View](/nl/documents/product-information/giotrif-epar-product-information_nl.pdf)
 
-norsk (NO) (1.04 MB - PDF)
+norsk (NO) (2.39 MB - PDF)
 
-**First published:**
-
-16/10/2013
-
-**Last updated:**
-
-31/03/2025
+**First published:** 16/10/2013 **Last updated:** 11/05/2026
 
 [View](/no/documents/product-information/giotrif-epar-product-information_no.pdf)
 
-polski (PL) (1.21 MB - PDF)
+polski (PL) (2.87 MB - PDF)
 
-**First published:**
-
-16/10/2013
-
-**Last updated:**
-
-31/03/2025
+**First published:** 16/10/2013 **Last updated:** 11/05/2026
 
 [View](/pl/documents/product-information/giotrif-epar-product-information_pl.pdf)
 
-português (PT) (1.04 MB - PDF)
+português (PT) (2.34 MB - PDF)
 
-**First published:**
-
-16/10/2013
-
-**Last updated:**
-
-31/03/2025
+**First published:** 16/10/2013 **Last updated:** 11/05/2026
 
 [View](/pt/documents/product-information/giotrif-epar-product-information_pt.pdf)
 
-română (RO) (1.12 MB - PDF)
+română (RO) (2.47 MB - PDF)
 
-**First published:**
-
-16/10/2013
-
-**Last updated:**
-
-31/03/2025
+**First published:** 16/10/2013 **Last updated:** 11/05/2026
 
 [View](/ro/documents/product-information/giotrif-epar-product-information_ro.pdf)
 
-slovenčina (SK) (1.17 MB - PDF)
+slovenčina (SK) (2.79 MB - PDF)
 
-**First published:**
-
-16/10/2013
-
-**Last updated:**
-
-31/03/2025
+**First published:** 16/10/2013 **Last updated:** 11/05/2026
 
 [View](/sk/documents/product-information/giotrif-epar-product-information_sk.pdf)
 
-slovenščina (SL) (1.16 MB - PDF)
+slovenščina (SL) (2.49 MB - PDF)
 
-**First published:**
-
-16/10/2013
-
-**Last updated:**
-
-31/03/2025
+**First published:** 16/10/2013 **Last updated:** 11/05/2026
 
 [View](/sl/documents/product-information/giotrif-epar-product-information_sl.pdf)
 
-Suomi (FI) (1.07 MB - PDF)
+Suomi (FI) (2.43 MB - PDF)
 
-**First published:**
-
-16/10/2013
-
-**Last updated:**
-
-31/03/2025
+**First published:** 16/10/2013 **Last updated:** 11/05/2026
 
 [View](/fi/documents/product-information/giotrif-epar-product-information_fi.pdf)
 
-svenska (SV) (1.05 MB - PDF)
+svenska (SV) (2.39 MB - PDF)
 
-**First published:**
-
-16/10/2013
-
-**Last updated:**
-
-31/03/2025
+**First published:** 16/10/2013 **Last updated:** 11/05/2026
 
 [View](/sv/documents/product-information/giotrif-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000261894 31/03/2025
+**Latest procedure affecting product information:** VR/0000326537
+
+08/05/2026
 
 icon globe
 
@@ -703,307 +425,179 @@ Product information documents contain:
 
 Giotrif : EPAR - All Authorised presentations
 
-English (EN) (18.02 KB - PDF)
+English (EN) (65.61 KB - PDF)
 
-**First published:** 16/10/2013
-
-**Last updated:** 27/03/2014
+**First published:** 16/10/2013 **Last updated:** 11/05/2026
 
 [View](/en/documents/all-authorised-presentations/giotrif-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-406)
+[Other languages (24)](#file-language-dropdown-800)
 
-български (BG) (48.66 KB - PDF)
+български (BG) (89.47 KB - PDF)
 
-**First published:**
-
-16/10/2013
-
-**Last updated:**
-
-27/03/2014
+**First published:** 16/10/2013 **Last updated:** 11/05/2026
 
 [View](/bg/documents/all-authorised-presentations/giotrif-epar-all-authorised-presentations_bg.pdf)
 
-español (ES) (18.75 KB - PDF)
+español (ES) (69.72 KB - PDF)
 
-**First published:**
-
-16/10/2013
-
-**Last updated:**
-
-27/03/2014
+**First published:** 16/10/2013 **Last updated:** 11/05/2026
 
 [View](/es/documents/all-authorised-presentations/giotrif-epar-all-authorised-presentations_es.pdf)
 
-čeština (CS) (52.79 KB - PDF)
+čeština (CS) (71.28 KB - PDF)
 
-**First published:**
-
-16/10/2013
-
-**Last updated:**
-
-27/03/2014
+**First published:** 16/10/2013 **Last updated:** 11/05/2026
 
 [View](/cs/documents/all-authorised-presentations/giotrif-epar-all-authorised-presentations_cs.pdf)
 
-dansk (DA) (48.66 KB - PDF)
+dansk (DA) (65.7 KB - PDF)
 
-**First published:**
-
-16/10/2013
-
-**Last updated:**
-
-27/03/2014
+**First published:** 16/10/2013 **Last updated:** 11/05/2026
 
 [View](/da/documents/all-authorised-presentations/giotrif-epar-all-authorised-presentations_da.pdf)
 
-Deutsch (DE) (16.81 KB - PDF)
+Deutsch (DE) (99.02 KB - PDF)
 
-**First published:**
-
-16/10/2013
-
-**Last updated:**
-
-27/03/2014
+**First published:** 16/10/2013 **Last updated:** 11/05/2026
 
 [View](/de/documents/all-authorised-presentations/giotrif-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (19.38 KB - PDF)
+eesti keel (ET) (92.45 KB - PDF)
 
-**First published:**
-
-16/10/2013
-
-**Last updated:**
-
-27/03/2014
+**First published:** 16/10/2013 **Last updated:** 11/05/2026
 
 [View](/et/documents/all-authorised-presentations/giotrif-epar-all-authorised-presentations_et.pdf)
 
-ελληνικά (EL) (38.08 KB - PDF)
+ελληνικά (EL) (85.32 KB - PDF)
 
-**First published:**
-
-16/10/2013
-
-**Last updated:**
-
-27/03/2014
+**First published:** 16/10/2013 **Last updated:** 11/05/2026
 
 [View](/el/documents/all-authorised-presentations/giotrif-epar-all-authorised-presentations_el.pdf)
 
-français (FR) (18.44 KB - PDF)
+français (FR) (98.56 KB - PDF)
 
-**First published:**
-
-16/10/2013
-
-**Last updated:**
-
-27/03/2014
+**First published:** 16/10/2013 **Last updated:** 11/05/2026
 
 [View](/fr/documents/all-authorised-presentations/giotrif-epar-all-authorised-presentations_fr.pdf)
 
-hrvatski (HR) (54.4 KB - PDF)
+hrvatski (HR) (70.33 KB - PDF)
 
-**First published:**
-
-16/10/2013
-
-**Last updated:**
-
-27/03/2014
+**First published:** 16/10/2013 **Last updated:** 11/05/2026
 
 [View](/hr/documents/all-authorised-presentations/giotrif-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (49.52 KB - PDF)
+íslenska (IS) (98.62 KB - PDF)
 
-**First published:**
-
-16/10/2013
-
-**Last updated:**
-
-27/03/2014
+**First published:** 16/10/2013 **Last updated:** 11/05/2026
 
 [View](/is/documents/all-authorised-presentations/giotrif-epar-all-authorised-presentations_is.pdf)
 
-italiano (IT) (18.44 KB - PDF)
+italiano (IT) (97.58 KB - PDF)
 
-**First published:**
-
-16/10/2013
-
-**Last updated:**
-
-27/03/2014
+**First published:** 16/10/2013 **Last updated:** 11/05/2026
 
 [View](/it/documents/all-authorised-presentations/giotrif-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (35.87 KB - PDF)
+latviešu valoda (LV) (92.02 KB - PDF)
 
-**First published:**
-
-16/10/2013
-
-**Last updated:**
-
-27/03/2014
+**First published:** 16/10/2013 **Last updated:** 11/05/2026
 
 [View](/lv/documents/all-authorised-presentations/giotrif-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (38.73 KB - PDF)
+lietuvių kalba (LT) (100.06 KB - PDF)
 
-**First published:**
-
-16/10/2013
-
-**Last updated:**
-
-27/03/2014
+**First published:** 16/10/2013 **Last updated:** 11/05/2026
 
 [View](/lt/documents/all-authorised-presentations/giotrif-epar-all-authorised-presentations_lt.pdf)
 
-magyar (HU) (30.76 KB - PDF)
+magyar (HU) (70.61 KB - PDF)
 
-**First published:**
-
-16/10/2013
-
-**Last updated:**
-
-27/03/2014
+**First published:** 16/10/2013 **Last updated:** 11/05/2026
 
 [View](/hu/documents/all-authorised-presentations/giotrif-epar-all-authorised-presentations_hu.pdf)
 
-Malti (MT) (45.17 KB - PDF)
+Malti (MT) (98.31 KB - PDF)
 
-**First published:**
-
-16/10/2013
-
-**Last updated:**
-
-27/03/2014
+**First published:** 16/10/2013 **Last updated:** 11/05/2026
 
 [View](/mt/documents/all-authorised-presentations/giotrif-epar-all-authorised-presentations_mt.pdf)
 
-Nederlands (NL) (18.01 KB - PDF)
+Nederlands (NL) (86.15 KB - PDF)
 
-**First published:**
-
-16/10/2013
-
-**Last updated:**
-
-27/03/2014
+**First published:** 16/10/2013 **Last updated:** 11/05/2026
 
 [View](/nl/documents/all-authorised-presentations/giotrif-epar-all-authorised-presentations_nl.pdf)
 
-norsk (NO) (18.68 KB - PDF)
+norsk (NO) (66.9 KB - PDF)
 
-**First published:**
-
-16/10/2013
-
-**Last updated:**
-
-27/03/2014
+**First published:** 16/10/2013 **Last updated:** 11/05/2026
 
 [View](/no/documents/all-authorised-presentations/giotrif-epar-all-authorised-presentations_no.pdf)
 
-polski (PL) (27.63 KB - PDF)
+polski (PL) (69.79 KB - PDF)
 
-**First published:**
-
-16/10/2013
-
-**Last updated:**
-
-27/03/2014
+**First published:** 16/10/2013 **Last updated:** 11/05/2026
 
 [View](/pl/documents/all-authorised-presentations/giotrif-epar-all-authorised-presentations_pl.pdf)
 
-português (PT) (18.68 KB - PDF)
+português (PT) (94.38 KB - PDF)
 
-**First published:**
-
-16/10/2013
-
-**Last updated:**
-
-27/03/2014
+**First published:** 16/10/2013 **Last updated:** 11/05/2026
 
 [View](/pt/documents/all-authorised-presentations/giotrif-epar-all-authorised-presentations_pt.pdf)
 
-română (RO) (35.56 KB - PDF)
+română (RO) (71.72 KB - PDF)
 
-**First published:**
-
-16/10/2013
-
-**Last updated:**
-
-27/03/2014
+**First published:** 16/10/2013 **Last updated:** 11/05/2026
 
 [View](/ro/documents/all-authorised-presentations/giotrif-epar-all-authorised-presentations_ro.pdf)
 
-slovenčina (SK) (27.39 KB - PDF)
+slovenčina (SK) (77.29 KB - PDF)
 
-**First published:**
-
-16/10/2013
-
-**Last updated:**
-
-27/03/2014
+**First published:** 16/10/2013 **Last updated:** 11/05/2026
 
 [View](/sk/documents/all-authorised-presentations/giotrif-epar-all-authorised-presentations_sk.pdf)
 
-slovenščina (SL) (26.76 KB - PDF)
+slovenščina (SL) (70.09 KB - PDF)
 
-**First published:**
-
-16/10/2013
-
-**Last updated:**
-
-27/03/2014
+**First published:** 16/10/2013 **Last updated:** 11/05/2026
 
 [View](/sl/documents/all-authorised-presentations/giotrif-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (19.61 KB - PDF)
+Suomi (FI) (65.27 KB - PDF)
 
-**First published:**
-
-16/10/2013
-
-**Last updated:**
-
-27/03/2014
+**First published:** 16/10/2013 **Last updated:** 11/05/2026
 
 [View](/fi/documents/all-authorised-presentations/giotrif-epar-all-authorised-presentations_fi.pdf)
 
-svenska (SV) (17.89 KB - PDF)
+svenska (SV) (63.52 KB - PDF)
 
-**First published:**
-
-16/10/2013
-
-**Last updated:**
-
-27/03/2014
+**First published:** 16/10/2013 **Last updated:** 11/05/2026
 
 [View](/sv/documents/all-authorised-presentations/giotrif-epar-all-authorised-presentations_sv.pdf)
 
 ## Product details
 
-Name of medicine Giotrif Active substance afatinib International non-proprietary name (INN) or common name afatinib Therapeutic area (MeSH) Carcinoma, Non-Small-Cell Lung Anatomical therapeutic chemical (ATC) code L01XE13
+Name of medicine
+
+Giotrif
+
+Active substance
+
+afatinib
+
+International non-proprietary name (INN) or common name
+
+afatinib
+
+Therapeutic area (MeSH)
+
+Carcinoma, Non-Small-Cell Lung
+
+Anatomical therapeutic chemical (ATC) code
+
+L01XE13
 
 ### Pharmacotherapeutic group
 
@@ -1018,13 +612,27 @@ Giotrif as monotherapy is indicated for the treatment of
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/002280 Marketing authorisation holder
+EMA product number
+
+EMEA/H/C/002280
+
+Marketing authorisation holder
 
 Boehringer Ingelheim International GmbH
 
 Binger Strasse 173
 
-Opinion adopted 25/07/2013 Marketing authorisation issued 25/09/2013 Revision 17
+Opinion adopted
+
+25/07/2013
+
+Marketing authorisation issued
+
+25/09/2013
+
+Revision
+
+18
 
 ## Assessment history
 
@@ -1036,9 +644,9 @@ Collapse section
 
 Giotrif : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (143.73 KB - PDF)
+English (EN) (140.33 KB - PDF)
 
-**First published:** 31/03/2025
+**First published:** 31/03/2025 **Last updated:** 11/05/2026
 
 [View](/en/documents/procedural-steps-after/giotrif-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1046,37 +654,27 @@ Giotrif : EPAR - Procedural steps taken and scientific information after authori
 
 English (EN) (175.85 KB - PDF)
 
-**First published:** 06/11/2014
-
-**Last updated:** 31/03/2025
+**First published:** 06/11/2014 **Last updated:** 31/03/2025
 
 [View](/en/documents/procedural-steps-after/giotrif-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 Giotrif-H-C-2280-II-0012 : EPAR - Assessment Report - Extension
 
-Adopted
-
-Reference Number: EMA/CHMP/206630/2016
+Adopted Reference Number: EMA/CHMP/206630/2016
 
 English (EN) (2.45 MB - PDF)
 
-**First published:** 24/05/2016
-
-**Last updated:** 24/05/2016
+**First published:** 24/05/2016 **Last updated:** 24/05/2016
 
 [View](/en/documents/variation-report/giotrif-h-c-2280-ii-0012-epar-assessment-report-extension_en.pdf)
 
 CHMP post-authorisation summary of positive opinion for Giotrif
 
-Adopted
-
-Reference Number: EMA/CHMP/100611/2016
+Adopted Reference Number: EMA/CHMP/100611/2016
 
 English (EN) (71.91 KB - PDF)
 
-**First published:** 26/02/2016
-
-**Last updated:** 26/02/2016
+**First published:** 26/02/2016 **Last updated:** 26/02/2016
 
 [View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-giotrif_en.pdf)
 
@@ -1084,43 +682,39 @@ English (EN) (71.91 KB - PDF)
 
 Giotrif : EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/491185/2013
+Adopted Reference Number: EMA/491185/2013
 
 English (EN) (4.95 MB - PDF)
 
-**First published:** 16/10/2013
-
-**Last updated:** 16/10/2013
+**First published:** 16/10/2013 **Last updated:** 16/10/2013
 
 [View](/en/documents/assessment-report/giotrif-epar-public-assessment-report_en.pdf)
 
 CHMP summary of positive opinion for Giotrif
 
-Adopted
-
-Reference Number: EMA/CHMP/447957/2013
+Adopted Reference Number: EMA/CHMP/447957/2013
 
 English (EN) (63.61 KB - PDF)
 
-**First published:** 26/07/2013
-
-**Last updated:** 26/07/2013
+**First published:** 26/07/2013 **Last updated:** 26/07/2013
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-giotrif_en.pdf)
 
-#### News on Giotrif
+## News on Giotrif
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 22-25 February 2016](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-22-25-february-2016) 26/02/2016
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 22-25 February 2016](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-22-25-february-2016)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 22-25 July 2013](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-22-25-july-2013) 26/07/2013
+26/02/2016
 
-#### Related information
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 22-25 July 2013](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-22-25-july-2013)
+
+26/07/2013
+
+## Related information
 
 - [Clinical data](https://clinicaldata.ema.europa.eu/web/cdp/search?p_p_id=cdpdossierviewportlet_WAR_cdpdossierviewportlet=0=maximized=view=column-1=1=EMEAHC002280II0012) (variation II/0012)
 
-#### More information on Giotrif
+## More information on Giotrif
 
 - [EMEA-001596-PIP02-17-M02 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001596-pip02-17-m02)
 - [A regulatory requirement post-marketing surveillance study to monitor the safety and efficacy of GIOTRIF®(afatinib dimaleate, 20mg, 30mg, 40mg, q.d) in Korean patients with locally advanced or metastatic non-small cell lung cancer (NSCLC) with Epidermal Growth Factor Receptor (EGFR) mutation(s) (GIOTRIF rPMS in Korean patients with NSCLC) - post-authorisation study](https://catalogues.ema.europa.eu/study/20368)
@@ -1129,12 +723,12 @@ English (EN) (63.61 KB - PDF)
 - [START: Real-world study on sequential therapy with afatinib as first-line treatment in patients with epidermal growth factor receptor (EGFR) mutation-positive advanced non-small cell lung cancer (NSCLC) - post-authorisation study](https://catalogues.ema.europa.eu/study/44236)
 - [Evaluation of the impact of a nurse-led telephone follow-up on treatment compliance of patients treated from a locally advanced or metastatic non-small-cell lung cancer (NSCLC) with activating epidermal growth factor receptor (EGFR) mutation(s).The PARTAGE study. - post-authorisation study](https://catalogues.ema.europa.eu/study/12955)
 
-#### Topics
+## Topics
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 31/03/2025
+**This page was last updated on**
+
+11/05/2026
 
 ## Share this page
-
-[Back to top](#main-content)

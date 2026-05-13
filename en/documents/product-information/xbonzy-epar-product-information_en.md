@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-03-02 10:00:10
-document_pages: 36
+document_datetime: 2026-05-12 10:52:59
+document_pages: 40
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/xbonzy-epar-product-information_en.pdf
 document_name: xbonzy-epar-product-information_en.pdf
 version: success
-processing_time: 9.9201783
-conversion_datetime: 2026-03-05 12:17:42.075227
+processing_time: 11.6276809
+conversion_datetime: 2026-05-13 12:57:19.888538
 docling_version:
-  docling-serve: 1.14.1
-  docling-jobkit: 1.13.0
-  docling: 2.76.0
-  docling-core: 2.66.0
-  docling-ibm-models: 3.11.0
-  docling-parse: 5.4.2
+  docling-serve: 1.17.0
+  docling-jobkit: 1.18.0
+  docling: 2.92.0
+  docling-core: 2.74.1
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.10.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -149,11 +149,9 @@ The following risk factors should be considered when evaluating a patient's risk
 - concomitant therapies: corticosteroids, chemotherapy, angiogenesis inhibitors, radiotherapy to head and neck.
 - poor oral hygiene, periodontal disease, poorly fitting dentures, pre-existing dental disease, invasive dental procedures (e.g. tooth extractions).
 
-All patients should be encouraged to maintain good oral hygiene, receive routine dental check-ups, and immediately report any oral symptoms such as dental mobility, pain or swelling, or non-healing of sores or discharge during treatment with denosumab. While on treatment, invasive dental
+All patients should be encouraged to maintain good oral hygiene, receive routine dental check-ups, and immediately report any oral symptoms such as dental mobility, pain or swelling, or non-healing of sores or discharge during treatment with denosumab. While on treatment, invasive dental procedures should be performed only after careful consideration and be avoided in close proximity to Xbonzy administration.
 
 <div style=\"page-break-after: always\"></div>
-
-procedures should be performed only after careful consideration and be avoided in close proximity to Xbonzy administration.
 
 The management plan of the patients who develop ONJ should be set up in close collaboration between the treating physician and a dentist or oral surgeon with expertise in ONJ. Temporary interruption of Xbonzy treatment should be considered until the condition resolves and contributing risk factors are mitigated where possible.
 
@@ -219,7 +217,7 @@ Hypocalcaemia has very commonly been reported following denosumab administration
 
 ## Tabulated list of adverse reactions
 
-The following convention has been used for the classification of the adverse reactions based on incidence rates in four phase III, two phase II clinical studies and post-marketing experience (see table 1): very common ( ≥ 1/10), common ( ≥ 1/100 to &lt; 1/10), uncommon ( ≥ 1/1,000 to &lt; 1/100), rare ( ≥ 1/10,000 to &lt; 1/1,000), very rare (&lt; 1/10 000) and not known (cannot be estimated from the available data. Within each frequency grouping and system organ class, adverse reactions are presented in order of decreasing seriousness.
+The following convention has been used for the classification of the adverse reactions based on incidence rates in four phase III, two phase II clinical studies and post-marketing experience (see table 1): very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), uncommon (≥ 1/1,000 to &lt; 1/100), rare (≥ 1/10,000 to &lt; 1/1,000), very rare (&lt; 1/10 000) and not known (cannot be estimated from the available data. Within each frequency grouping and system organ class, adverse reactions are presented in order of decreasing seriousness.
 
 Table 1. Adverse reactions reported in patients with advanced malignancies involving bone, multiple myeloma, or with giant cell tumour of bone
 
@@ -273,11 +271,9 @@ The trials in patients with breast or prostate cancer included an denosumab exte
 
 The patient-year adjusted overall incidence of confirmed ONJ was 1.1 per 100 patient-years during the first year of treatment, 3.7 in the second year and 4.6 thereafter. The median time to ONJ was 20.6 months (range: 4 - 53).
 
-A non-randomised, retrospective, observational study in 2,877 patients with cancer treated with denosumab or zoledronic acid in Sweden, Denmark, and Norway showed that 5-year incidence
+A non-randomised, retrospective, observational study in 2,877 patients with cancer treated with denosumab or zoledronic acid in Sweden, Denmark, and Norway showed that 5-year incidence proportions of medically confirmed ONJ were 5.7% (95% CI: 4.4, 7.3; median follow up time of 20 months [range 0.2-60]) in a cohort of patients receiving denosumab and 1.4% (95% CI: 0.8, 2.3; median follow up time of 13 months [range 0.1-60]) in a separate cohort of patients receiving zoledronic acid. Five-year incidence proportion of ONJ in patients switching from zoledronic acid to denosumab was 6.6% (95% CI: 4.2, 10.0; median follow up time of 13 months [range 0.2-60]).
 
 <div style=\"page-break-after: always\"></div>
-
-proportions of medically confirmed ONJ were 5.7% (95% CI: 4.4, 7.3; median follow up time of 20 months [range 0.2-60]) in a cohort of patients receiving denosumab and 1.4% (95% CI: 0.8, 2.3; median follow up time of 13 months [range 0.1-60]) in a separate cohort of patients receiving zoledronic acid. Five-year incidence proportion of ONJ in patients switching from zoledronic acid to denosumab was 6.6% (95% CI: 4.2, 10.0; median follow up time of 13 months [range 0.2-60]).
 
 In a phase III trial in patients with non-metastatic prostate cancer (a patient population for which denosumab is not indicated), with longer treatment exposure of up to 7 years, the patient-year adjusted incidence of confirmed ONJ was 1.1 per 100 patient-years during the first year of treatment, 3.0 in the second year, and 7.1 thereafter.
 
@@ -347,11 +343,9 @@ Xbonzy is a biosimilar medicinal product. Detailed information is available on t
 
 ## Mechanism of action
 
-RANKL exists as a transmembrane or soluble protein. RANKL is essential for the formation, function and survival of osteoclasts, the sole cell type responsible for bone resorption. Increased osteoclast
+RANKL exists as a transmembrane or soluble protein. RANKL is essential for the formation, function and survival of osteoclasts, the sole cell type responsible for bone resorption. Increased osteoclast activity, stimulated by RANKL, is a key mediator of bone destruction in metastatic bone disease and multiple myeloma. Denosumab is a human monoclonal antibody (IgG2) that targets and binds with high affinity and specificity to RANKL, preventing the RANKL/RANK interaction from occurring and resulting in reduced osteoclast numbers and function, thereby decreasing bone resorption and cancer-induced bone destruction.
 
 <div style=\"page-break-after: always\"></div>
-
-activity, stimulated by RANKL, is a key mediator of bone destruction in metastatic bone disease and multiple myeloma. Denosumab is a human monoclonal antibody (IgG2) that targets and binds with high affinity and specificity to RANKL, preventing the RANKL/RANK interaction from occurring and resulting in reduced osteoclast numbers and function, thereby decreasing bone resorption and cancer-induced bone destruction.
 
 Giant cell tumours of bone are characterised by neoplastic stromal cells expressing RANK ligand and osteoclast-like giant cells expressing RANK. In patients with giant cell tumour of bone, denosumab binds to RANK ligand, significantly reducing or eliminating osteoclast-like giant cells. Consequently, osteolysis is reduced and proliferative tumour stroma is replaced with non-proliferative, differentiated, densely woven new bone.
 
@@ -465,15 +459,13 @@ NE = not estimable
 
 HCM = hypercalcaemia of malignancy
 
-## Clinical efficacy and safety in adults and skeletally mature adolescents with giant cell tumour of bone
+Clinical efficacy and safety in adults and skeletally mature adolescents with giant cell tumour of bone
 
 The safety and efficacy of denosumab was studied in two phase II open-label, single-arm trials (studies 5 and 6) that enrolled 554 patients with giant cell tumour of bone that was either unresectable or for which surgery would be associated with severe morbidity and a prospective, multicentre, openlabel, phase IV study (study 7) that provided long-term safety follow-up for patients who completed study 6. Patients received 120 mg denosumab subcutaneously every 4 weeks with a loading dose of 120 mg on days 8 and 15. Patients who discontinued denosumab then entered the safety follow-up phase for a minimum of 60 months. Retreatment with denosumab while in safety follow-up was allowed for patients who initially demonstrated a response to denosumab (e.g. in the case of recurrent disease).
 
-Study 5 enrolled 37 adult patients with histologically confirmed unresectable or recurrent giant cell tumour of bone. The main outcome measure of the trial was response rate, defined as either at least 90% elimination of giant cells relative to baseline (or complete elimination of giant cells in cases where giant cells represent &lt; 5% of tumour cells), or a lack of progression of the target lesion by radiographic measurements in cases where histopathology was not available. Of the 35 patients
+Study 5 enrolled 37 adult patients with histologically confirmed unresectable or recurrent giant cell tumour of bone. The main outcome measure of the trial was response rate, defined as either at least 90% elimination of giant cells relative to baseline (or complete elimination of giant cells in cases where giant cells represent &lt; 5% of tumour cells), or a lack of progression of the target lesion by radiographic measurements in cases where histopathology was not available. Of the 35 patients included in the efficacy analysis, 85.7% (95% CI: 69.7, 95.2) had a treatment response to denosumab. All 20 patients (100%) with histology assessments met response criteria. Of the remaining 15 patients, 10 (67%) radiographic measurements showed no progression of the target lesion.
 
 <div style=\"page-break-after: always\"></div>
-
-included in the efficacy analysis, 85.7% (95% CI: 69.7, 95.2) had a treatment response to denosumab. All 20 patients (100%) with histology assessments met response criteria. Of the remaining 15 patients, 10 (67%) radiographic measurements showed no progression of the target lesion.
 
 Study 6 enrolled 535 adult or skeletally mature adolescents with giant cell tumour of bone. Of these patients, 28 were aged 12-17 years. Patients were assigned to one of three cohorts: cohort 1 included patients with surgically unsalvageable disease (e.g. sacral, spinal, or multiple lesions, including pulmonary metastases); cohort 2 included patients with surgically salvageable disease whose planned surgery was associated with severe morbidity (e.g. joint resection, limb amputation, or hemipelvectomy); cohort 3 included patients previously participating in study 5 and rolled over into this study. The primary objective was to evaluate the safety profile of denosumab in patients with giant cell tumour of bone. The secondary outcome measures of the study included time to disease progression (based on investigator assessment) for cohort 1 and proportion of patients without any surgery at month 6 for cohort 2.
 
@@ -551,11 +543,9 @@ In preclinical bone quality studies in monkeys on long-term denosumab treatment,
 
 In male mice genetically engineered to express huRANKL (knock-in mice), which were subjected to a transcortical fracture, denosumab delayed the removal of cartilage and remodelling of the fracture callus compared to control, but biomechanical strength was not adversely affected.
 
-In preclinical studies knockout mice lacking RANK or RANKL had an absence of lactation due to inhibition of mammary gland maturation (lobulo-alveolar gland development during pregnancy) and exhibited impairment of lymph node formation. Neonatal RANK/RANKL knockout mice exhibited
+In preclinical studies knockout mice lacking RANK or RANKL had an absence of lactation due to inhibition of mammary gland maturation (lobulo-alveolar gland development during pregnancy) and exhibited impairment of lymph node formation. Neonatal RANK/RANKL knockout mice exhibited decreased body weight, reduced bone growth, altered growth plates and lack of tooth eruption. Reduced bone growth, altered growth plates and impaired tooth eruption were also seen in studies of neonatal rats administered RANKL inhibitors, and these changes were partially reversible when dosing of RANKL inhibitor was discontinued. Adolescent primates dosed with denosumab at 2.7 and 15 times (10 and 50 mg/kg dose) the clinical exposure had abnormal growth plates. Therefore, treatment with denosumab may impair bone growth in children with open growth plates and may inhibit eruption of dentition.
 
 <div style=\"page-break-after: always\"></div>
-
-decreased body weight, reduced bone growth, altered growth plates and lack of tooth eruption. Reduced bone growth, altered growth plates and impaired tooth eruption were also seen in studies of neonatal rats administered RANKL inhibitors, and these changes were partially reversible when dosing of RANKL inhibitor was discontinued. Adolescent primates dosed with denosumab at 2.7 and 15 times (10 and 50 mg/kg dose) the clinical exposure had abnormal growth plates. Therefore, treatment with denosumab may impair bone growth in children with open growth plates and may inhibit eruption of dentition.
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
@@ -581,7 +571,7 @@ Store in a refrigerator (2 °C - 8 °C). Do not freeze. Keep the vial in the out
 
 1.7 mL solution in a single use vial (type I glass) with stopper (fluoropolymer coated elastomeric) and seal (aluminium) with flip-off cap.
 
-Pack sizes of one, three or four vials.
+Pack sizes of one, three or four vials or multipack with 3 x 1 vials.
 
 Not all pack sizes may be marketed.
 
@@ -606,15 +596,19 @@ Reddy Holding GmbH Kobelweg 95 86156 Augsburg Germany
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/25/1982/001 EU/1/25/1982/002 EU/1/25/1982/003
+EU/1/25/1982/001
+
+EU/1/25/1982/002
+
+EU/1/25/1982/003
+
+EU/1/25/1982/004
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
 Date of first authorisation: 17.11.2025
 
 ## 10. DATE OF REVISION OF THE TEXT
-
-12/2025
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
@@ -637,7 +631,11 @@ Alvotech hf Sæmundargata 15-19 102 Reykjavik Iceland
 
 Name and address of the manufacturer(s) responsible for batch release
 
-Alvotech hf Sæmundargata 15-19 102 Reykjavik Iceland betapharm Arzneimittel GmbH Kobelweg 95 86156 Augsburg Germany
+Alvotech hf Sæmundargata 15-19 102 Reykjavik Iceland
+
+betapharm Arzneimittel GmbH Kobelweg 95 86156 Augsburg Germany
+
+The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.
 
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
@@ -662,9 +660,9 @@ An updated RMP should be submitted:
 
 ## · Additional risk minimisation measures
 
-Additional risk minimisation measures are in place for the following safety concern:
-
 <div style=\"page-break-after: always\"></div>
+
+Additional risk minimisation measures are in place for the following safety concern:
 
 - ⦁ Osteonecrosis of the jaw
 
@@ -807,6 +805,185 @@ Lot
 
 | 6.   | OTHER   |
 |------|---------|
+
+<div style=\"page-break-after: always\"></div>
+
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
+
+## VIAL CARTON AS PART OF THE MULTIPACK
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Xbonzy 120 mg solution for injection
+
+denosumab
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+
+Each vial contains 120 mg of denosumab in 1.7 mL of solution (70mg/mL).
+
+## 3. LIST OF EXCIPIENTS
+
+L-histidine, L-histidine monohydrochloride monohydrate, sucrose, poloxamer 188, water for injections.
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+Solution for injection
+
+1 vial
+
+Component of a multipack, can't be sold separately
+
+## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+
+Read the package leaflet before use.
+
+Subcutaneous use.
+
+Do not shake.
+
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
+Keep out of the sight and reach of children.
+
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+## 8. EXPIRY DATE
+
+EXP
+
+## 9. SPECIAL STORAGE CONDITIONS
+
+Store in a refrigerator.
+
+Do not freeze.
+
+<div style=\"page-break-after: always\"></div>
+
+Keep the vial in the outer carton in order to protect from light.
+
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+
+Reddy Holding GmbH Kobelweg 95 86156 Augsburg Germany
+
+## 12. MARKETING AUTHORISATION NUMBER(S)
+
+EU/1/25/1982/004
+
+13. BATCH NUMBER
+
+Lot
+
+14. GENERAL CLASSIFICATION FOR SUPPLY
+
+15. INSTRUCTIONS ON USE
+
+16. INFORMATION IN BRAILLE
+
+Justification for not including Braille accepted.
+
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
+
+not applicable.
+
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+
+not applicable.
+
+<div style=\"page-break-after: always\"></div>
+
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
+
+## OUTER CARTON OF MULTIPACK
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Xbonzy 120 mg solution for injection
+
+denosumab
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+
+Each vial contains 120 mg of denosumab in 1.7 mL of solution (70mg/mL).
+
+## 3. LIST OF EXCIPIENTS
+
+L-histidine, L-histidine monohydrochloride monohydrate, sucrose, poloxamer 188, water for injections.
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+Solution for injection
+
+Multipack: 3 x 1 vials
+
+## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+
+Read the package leaflet before use.
+
+Subcutaneous use.
+
+Do not shake.
+
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
+Keep out of the sight and reach of children.
+
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+## 8. EXPIRY DATE
+
+EXP
+
+## 9. SPECIAL STORAGE CONDITIONS
+
+Store in a refrigerator.
+
+Do not freeze.
+
+Keep the vial in the outer carton in order to protect from light.
+
+<div style=\"page-break-after: always\"></div>
+
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-------------------------------------------------------------------------------------------------------------------------------------|
+
+| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|--------------------------------------------------------|
+
+Reddy Holding GmbH Kobelweg 95 86156 Augsburg Germany
+
+| 12. MARKETING AUTHORISATION NUMBER(S)   |
+|-----------------------------------------|
+
+EU/1/25/1982/004
+
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
+
+Lot
+
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
+
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
+
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
+
+Justification for not including Braille accepted.
+
+| 17. UNIQUE IDENTIFIER - 2D BARCODE   |
+|--------------------------------------|
+
+2D barcode carrying the unique identifier included.
+
+| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
+|-------|-----------------------------------------|
+
+PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1011,7 +1188,7 @@ Xbonzy is a solution for injection (injection).
 
 Xbonzy is a clear, colourless to slightly yellow solution. It may contain trace amounts of translucent to white proteinaceous particles.
 
-Each pack contains one, three or four single use vials. Not all pack sizes may be marketed.
+Each pack contains one, three, four or 3 x 1 (multipack) single use vials. Not all pack sizes may be marketed.
 
 ## Marketing Authorisation Holder
 
@@ -1019,13 +1196,13 @@ Reddy Holding GmbH Kobelweg 95 86156 Augsburg Germany
 
 ## Manufacturer
 
-Alvotech hf Sæmundargata 15-19 102 Reykjavik Iceland or
+Alvotech hf Sæmundargata 15-19 102 Reykjavik Iceland
 
-betapharm Arzneimittel GmbH Kobelweg 95 86156 Augsburg Germany
+or
+
+betapharm Arzneimittel GmbH Kobelweg 95 86156 Augsburg Germany For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 <div style=\"page-break-after: always\"></div>
-
-For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 ## België/Belgique/Belgien
 
@@ -1035,9 +1212,9 @@ betapharm Arzneimittel GmbH Tél/Tel: + 49 821 74881 0 info@betapharm.de
 
 betapharm Arzneimittel GmbH Teл.: +49 821 74881 0 info@betapharm.de
 
-Česká republika betapharm Arzneimittel GmbH
+## Česká republika
 
-Tel: +49 821 74881 0 info@betapharm.de
+betapharm Arzneimittel GmbH Tel: +49 821 74881 0 info@betapharm.de
 
 ## Danmark
 
@@ -1053,7 +1230,7 @@ betapharm Arzneimittel GmbH Tel: + 49 821 74881 0 info@betapharm.de
 
 ## Ελλάδα
 
-betapharm Arzneimittel GmbH Τηλ : + 49 821 74881 0 info@betapharm.de
+betapharm Arzneimittel GmbH Τηλ: + 49 821 74881 0 info@betapharm.de
 
 ## España
 
@@ -1061,7 +1238,9 @@ Reddy Pharma Iberia S.A.U. Avenida Josep Tarradellas nº 38 E-08029 Barcelona Te
 
 ## France
 
-Reddy Pharma SAS 9 avenue Edouard Belin F-92500 Rueil-Malmaison Tél: + 33 1 85 78 17 34
+Reddy Pharma SAS 9 avenue Edouard Belin
+
+F-92500 Rueil-Malmaison Tél: + 33 1 85 78 17 34
 
 pv-infomedfrance@drreddys.com
 
@@ -1103,11 +1282,15 @@ betapharm Arzneimittel GmbH Tel.: + 49 821 74881 0 info@betapharm.de
 
 ## Portugal
 
-betapharm Arzneimittel GmbH Tel: + 49 821 74881 0 info@betapharm.de
+betapharm Arzneimittel GmbH
+
+Tel: + 49 821 74881 0 info@betapharm.de
 
 ## România
 
-Dr. Reddy´s Laboratories Romania SRL Tel: + 4021 224 0032 office@drreddys.ro
+Dr. Reddy´s Laboratories Romania SRL Tel: + 4021 224 0032
+
+office@drreddys.ro
 
 Slovenija betapharm Arzneimittel GmbH
 
@@ -1145,7 +1328,7 @@ betapharm Arzneimittel GmbH Tel: + 49 821 74881 0 info@betapharm.de
 
 <div style=\"page-break-after: always\"></div>
 
-## This leaflet was last revised in December 2025
+## This leaflet was last revised in
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 

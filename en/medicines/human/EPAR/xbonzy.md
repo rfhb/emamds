@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-03-02 10:52:00
+document_datetime: 2026-05-12 16:08:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/xbonzy.html
 document_name: xbonzy.html
 version: success
-processing_time: 0.088111
-conversion_datetime: 2026-03-05 11:56:16.983067
+processing_time: 0.1191148
+conversion_datetime: 2026-05-13 13:22:17.612065
 docling_version:
-  docling-serve: 1.14.1
-  docling-jobkit: 1.13.0
-  docling: 2.76.0
-  docling-core: 2.66.0
-  docling-ibm-models: 3.11.0
-  docling-parse: 5.4.2
+  docling-serve: 1.17.0
+  docling-jobkit: 1.18.0
+  docling: 2.92.0
+  docling-core: 2.74.1
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.10.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
 ---
 # Xbonzy
 
@@ -24,7 +24,9 @@ Authorised
 
 This medicine is authorised for use in the European Union
 
-denosumab Medicine Human Authorised
+denosumab
+
+Medicine Human Authorised
 
 Page contents
 
@@ -115,181 +117,137 @@ English (EN) (124.94 KB - PDF)
 
 [View](/en/documents/overview/xbonzy-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-125)
+[Other languages (22)](#file-language-dropdown-776)
 
 български (BG) (141.31 KB - PDF)
 
-**First published:**
-
-02/03/2026
+**First published:** 02/03/2026
 
 [View](/bg/documents/overview/xbonzy-epar-medicine-overview_bg.pdf)
 
 español (ES) (124.77 KB - PDF)
 
-**First published:**
-
-02/03/2026
+**First published:** 02/03/2026
 
 [View](/es/documents/overview/xbonzy-epar-medicine-overview_es.pdf)
 
 čeština (CS) (152.79 KB - PDF)
 
-**First published:**
-
-02/03/2026
+**First published:** 02/03/2026
 
 [View](/cs/documents/overview/xbonzy-epar-medicine-overview_cs.pdf)
 
 dansk (DA) (125.85 KB - PDF)
 
-**First published:**
-
-02/03/2026
+**First published:** 02/03/2026
 
 [View](/da/documents/overview/xbonzy-epar-medicine-overview_da.pdf)
 
 Deutsch (DE) (128.9 KB - PDF)
 
-**First published:**
-
-02/03/2026
+**First published:** 02/03/2026
 
 [View](/de/documents/overview/xbonzy-epar-medicine-overview_de.pdf)
 
 eesti keel (ET) (122.1 KB - PDF)
 
-**First published:**
-
-02/03/2026
+**First published:** 02/03/2026
 
 [View](/et/documents/overview/xbonzy-epar-medicine-overview_et.pdf)
 
 ελληνικά (EL) (148.66 KB - PDF)
 
-**First published:**
-
-02/03/2026
+**First published:** 02/03/2026
 
 [View](/el/documents/overview/xbonzy-epar-medicine-overview_el.pdf)
 
 français (FR) (125.83 KB - PDF)
 
-**First published:**
-
-02/03/2026
+**First published:** 02/03/2026
 
 [View](/fr/documents/overview/xbonzy-epar-medicine-overview_fr.pdf)
 
 hrvatski (HR) (146.96 KB - PDF)
 
-**First published:**
-
-02/03/2026
+**First published:** 02/03/2026
 
 [View](/hr/documents/overview/xbonzy-epar-medicine-overview_hr.pdf)
 
 italiano (IT) (123.77 KB - PDF)
 
-**First published:**
-
-02/03/2026
+**First published:** 02/03/2026
 
 [View](/it/documents/overview/xbonzy-epar-medicine-overview_it.pdf)
 
 latviešu valoda (LV) (153.17 KB - PDF)
 
-**First published:**
-
-02/03/2026
+**First published:** 02/03/2026
 
 [View](/lv/documents/overview/xbonzy-epar-medicine-overview_lv.pdf)
 
 lietuvių kalba (LT) (146.11 KB - PDF)
 
-**First published:**
-
-02/03/2026
+**First published:** 02/03/2026
 
 [View](/lt/documents/overview/xbonzy-epar-medicine-overview_lt.pdf)
 
 magyar (HU) (147 KB - PDF)
 
-**First published:**
-
-02/03/2026
+**First published:** 02/03/2026
 
 [View](/hu/documents/overview/xbonzy-epar-medicine-overview_hu.pdf)
 
 Malti (MT) (149.31 KB - PDF)
 
-**First published:**
-
-02/03/2026
+**First published:** 02/03/2026
 
 [View](/mt/documents/overview/xbonzy-epar-medicine-overview_mt.pdf)
 
 Nederlands (NL) (125.58 KB - PDF)
 
-**First published:**
-
-02/03/2026
+**First published:** 02/03/2026
 
 [View](/nl/documents/overview/xbonzy-epar-medicine-overview_nl.pdf)
 
 polski (PL) (151.42 KB - PDF)
 
-**First published:**
-
-02/03/2026
+**First published:** 02/03/2026
 
 [View](/pl/documents/overview/xbonzy-epar-medicine-overview_pl.pdf)
 
 português (PT) (125.41 KB - PDF)
 
-**First published:**
-
-02/03/2026
+**First published:** 02/03/2026
 
 [View](/pt/documents/overview/xbonzy-epar-medicine-overview_pt.pdf)
 
 română (RO) (143.55 KB - PDF)
 
-**First published:**
-
-02/03/2026
+**First published:** 02/03/2026
 
 [View](/ro/documents/overview/xbonzy-epar-medicine-overview_ro.pdf)
 
 slovenčina (SK) (148.49 KB - PDF)
 
-**First published:**
-
-02/03/2026
+**First published:** 02/03/2026
 
 [View](/sk/documents/overview/xbonzy-epar-medicine-overview_sk.pdf)
 
 slovenščina (SL) (144.92 KB - PDF)
 
-**First published:**
-
-02/03/2026
+**First published:** 02/03/2026
 
 [View](/sl/documents/overview/xbonzy-epar-medicine-overview_sl.pdf)
 
 Suomi (FI) (121.6 KB - PDF)
 
-**First published:**
-
-02/03/2026
+**First published:** 02/03/2026
 
 [View](/fi/documents/overview/xbonzy-epar-medicine-overview_fi.pdf)
 
 svenska (SV) (122.93 KB - PDF)
 
-**First published:**
-
-02/03/2026
+**First published:** 02/03/2026
 
 [View](/sv/documents/overview/xbonzy-epar-medicine-overview_sv.pdf)
 
@@ -305,207 +263,161 @@ English (EN) (1.18 MB - PDF)
 
 Xbonzy : EPAR - Product information
 
-English (EN) (351.62 KB - PDF)
+English (EN) (570.3 KB - PDF)
 
-**First published:** 02/03/2026
+**First published:** 02/03/2026 **Last updated:** 12/05/2026
 
 [View](/en/documents/product-information/xbonzy-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-891)
+[Other languages (24)](#file-language-dropdown-385)
 
-български (BG) (432.64 KB - PDF)
+български (BG) (620.16 KB - PDF)
 
-**First published:**
-
-02/03/2026
+**First published:** 02/03/2026 **Last updated:** 12/05/2026
 
 [View](/bg/documents/product-information/xbonzy-epar-product-information_bg.pdf)
 
-español (ES) (397.44 KB - PDF)
+español (ES) (624.35 KB - PDF)
 
-**First published:**
-
-02/03/2026
+**First published:** 02/03/2026 **Last updated:** 12/05/2026
 
 [View](/es/documents/product-information/xbonzy-epar-product-information_es.pdf)
 
-čeština (CS) (384.38 KB - PDF)
+čeština (CS) (593.25 KB - PDF)
 
-**First published:**
-
-02/03/2026
+**First published:** 02/03/2026 **Last updated:** 12/05/2026
 
 [View](/cs/documents/product-information/xbonzy-epar-product-information_cs.pdf)
 
-dansk (DA) (335.44 KB - PDF)
+dansk (DA) (589.54 KB - PDF)
 
-**First published:**
-
-02/03/2026
+**First published:** 02/03/2026 **Last updated:** 12/05/2026
 
 [View](/da/documents/product-information/xbonzy-epar-product-information_da.pdf)
 
-Deutsch (DE) (355.67 KB - PDF)
+Deutsch (DE) (546.63 KB - PDF)
 
-**First published:**
-
-02/03/2026
+**First published:** 02/03/2026 **Last updated:** 12/05/2026
 
 [View](/de/documents/product-information/xbonzy-epar-product-information_de.pdf)
 
-eesti keel (ET) (331.68 KB - PDF)
+eesti keel (ET) (583.62 KB - PDF)
 
-**First published:**
-
-02/03/2026
+**First published:** 02/03/2026 **Last updated:** 12/05/2026
 
 [View](/et/documents/product-information/xbonzy-epar-product-information_et.pdf)
 
-ελληνικά (EL) (440.51 KB - PDF)
+ελληνικά (EL) (616.99 KB - PDF)
 
-**First published:**
-
-02/03/2026
+**First published:** 02/03/2026 **Last updated:** 12/05/2026
 
 [View](/el/documents/product-information/xbonzy-epar-product-information_el.pdf)
 
-français (FR) (380.03 KB - PDF)
+français (FR) (635.86 KB - PDF)
 
-**First published:**
-
-02/03/2026
+**First published:** 02/03/2026 **Last updated:** 12/05/2026
 
 [View](/fr/documents/product-information/xbonzy-epar-product-information_fr.pdf)
 
-hrvatski (HR) (383.19 KB - PDF)
+hrvatski (HR) (582.97 KB - PDF)
 
-**First published:**
-
-02/03/2026
+**First published:** 02/03/2026 **Last updated:** 12/05/2026
 
 [View](/hr/documents/product-information/xbonzy-epar-product-information_hr.pdf)
 
-íslenska (IS) (326.77 KB - PDF)
+íslenska (IS) (585.38 KB - PDF)
 
-**First published:**
-
-02/03/2026
+**First published:** 02/03/2026 **Last updated:** 12/05/2026
 
 [View](/is/documents/product-information/xbonzy-epar-product-information_is.pdf)
 
-italiano (IT) (320.97 KB - PDF)
+italiano (IT) (591.45 KB - PDF)
 
-**First published:**
-
-02/03/2026
+**First published:** 02/03/2026 **Last updated:** 12/05/2026
 
 [View](/it/documents/product-information/xbonzy-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (418.85 KB - PDF)
+latviešu valoda (LV) (616.34 KB - PDF)
 
-**First published:**
-
-02/03/2026
+**First published:** 02/03/2026 **Last updated:** 12/05/2026
 
 [View](/lv/documents/product-information/xbonzy-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (416.05 KB - PDF)
+lietuvių kalba (LT) (626.22 KB - PDF)
 
-**First published:**
-
-02/03/2026
+**First published:** 02/03/2026 **Last updated:** 12/05/2026
 
 [View](/lt/documents/product-information/xbonzy-epar-product-information_lt.pdf)
 
-magyar (HU) (409.84 KB - PDF)
+magyar (HU) (609.25 KB - PDF)
 
-**First published:**
-
-02/03/2026
+**First published:** 02/03/2026 **Last updated:** 12/05/2026
 
 [View](/hu/documents/product-information/xbonzy-epar-product-information_hu.pdf)
 
-Malti (MT) (420.85 KB - PDF)
+Malti (MT) (620.78 KB - PDF)
 
-**First published:**
-
-02/03/2026
+**First published:** 02/03/2026 **Last updated:** 12/05/2026
 
 [View](/mt/documents/product-information/xbonzy-epar-product-information_mt.pdf)
 
-Nederlands (NL) (320.26 KB - PDF)
+Nederlands (NL) (574.91 KB - PDF)
 
-**First published:**
-
-02/03/2026
+**First published:** 02/03/2026 **Last updated:** 12/05/2026
 
 [View](/nl/documents/product-information/xbonzy-epar-product-information_nl.pdf)
 
-norsk (NO) (325.86 KB - PDF)
+norsk (NO) (587.87 KB - PDF)
 
-**First published:**
-
-02/03/2026
+**First published:** 02/03/2026 **Last updated:** 12/05/2026
 
 [View](/no/documents/product-information/xbonzy-epar-product-information_no.pdf)
 
-polski (PL) (426.98 KB - PDF)
+polski (PL) (624.67 KB - PDF)
 
-**First published:**
-
-02/03/2026
+**First published:** 02/03/2026 **Last updated:** 12/05/2026
 
 [View](/pl/documents/product-information/xbonzy-epar-product-information_pl.pdf)
 
-português (PT) (307.15 KB - PDF)
+português (PT) (565.53 KB - PDF)
 
-**First published:**
-
-02/03/2026
+**First published:** 02/03/2026 **Last updated:** 12/05/2026
 
 [View](/pt/documents/product-information/xbonzy-epar-product-information_pt.pdf)
 
-română (RO) (395.52 KB - PDF)
+română (RO) (533.93 KB - PDF)
 
-**First published:**
-
-02/03/2026
+**First published:** 02/03/2026 **Last updated:** 12/05/2026
 
 [View](/ro/documents/product-information/xbonzy-epar-product-information_ro.pdf)
 
-slovenčina (SK) (414.89 KB - PDF)
+slovenčina (SK) (638.48 KB - PDF)
 
-**First published:**
-
-02/03/2026
+**First published:** 02/03/2026 **Last updated:** 12/05/2026
 
 [View](/sk/documents/product-information/xbonzy-epar-product-information_sk.pdf)
 
-slovenščina (SL) (406.29 KB - PDF)
+slovenščina (SL) (598.4 KB - PDF)
 
-**First published:**
-
-02/03/2026
+**First published:** 02/03/2026 **Last updated:** 12/05/2026
 
 [View](/sl/documents/product-information/xbonzy-epar-product-information_sl.pdf)
 
-Suomi (FI) (320.11 KB - PDF)
+Suomi (FI) (553.02 KB - PDF)
 
-**First published:**
-
-02/03/2026
+**First published:** 02/03/2026 **Last updated:** 12/05/2026
 
 [View](/fi/documents/product-information/xbonzy-epar-product-information_fi.pdf)
 
-svenska (SV) (339.02 KB - PDF)
+svenska (SV) (584.41 KB - PDF)
 
-**First published:**
-
-02/03/2026
+**First published:** 02/03/2026 **Last updated:** 12/05/2026
 
 [View](/sv/documents/product-information/xbonzy-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000321403 08/01/2026
+**Latest procedure affecting product information:** VR/0000341436
+
+11/05/2026
 
 icon globe
 
@@ -523,214 +435,180 @@ Product information documents contain:
 
 Xbonzy : EPAR - All authorised presentations
 
-English (EN) (26.46 KB - PDF)
+English (EN) (63.57 KB - PDF)
 
-**First published:** 02/03/2026
+**First published:** 02/03/2026 **Last updated:** 12/05/2026
 
 [View](/en/documents/all-authorised-presentations/xbonzy-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-242)
+[Other languages (24)](#file-language-dropdown-626)
 
-български (BG) (58.54 KB - PDF)
+български (BG) (59.37 KB - PDF)
 
-**First published:**
-
-02/03/2026
+**First published:** 02/03/2026 **Last updated:** 12/05/2026
 
 [View](/bg/documents/all-authorised-presentations/xbonzy-epar-all-authorised-presentations_bg.pdf)
 
-español (ES) (31.89 KB - PDF)
+español (ES) (51.17 KB - PDF)
 
-**First published:**
-
-02/03/2026
+**First published:** 02/03/2026 **Last updated:** 12/05/2026
 
 [View](/es/documents/all-authorised-presentations/xbonzy-epar-all-authorised-presentations_es.pdf)
 
-čeština (CS) (57.18 KB - PDF)
+čeština (CS) (56.17 KB - PDF)
 
-**First published:**
-
-02/03/2026
+**First published:** 02/03/2026 **Last updated:** 12/05/2026
 
 [View](/cs/documents/all-authorised-presentations/xbonzy-epar-all-authorised-presentations_cs.pdf)
 
-dansk (DA) (32.62 KB - PDF)
+dansk (DA) (53.17 KB - PDF)
 
-**First published:**
-
-02/03/2026
+**First published:** 02/03/2026 **Last updated:** 12/05/2026
 
 [View](/da/documents/all-authorised-presentations/xbonzy-epar-all-authorised-presentations_da.pdf)
 
-Deutsch (DE) (31.56 KB - PDF)
+Deutsch (DE) (54.45 KB - PDF)
 
-**First published:**
-
-02/03/2026
+**First published:** 02/03/2026 **Last updated:** 12/05/2026
 
 [View](/de/documents/all-authorised-presentations/xbonzy-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (31.36 KB - PDF)
+eesti keel (ET) (49.14 KB - PDF)
 
-**First published:**
-
-02/03/2026
+**First published:** 02/03/2026 **Last updated:** 12/05/2026
 
 [View](/et/documents/all-authorised-presentations/xbonzy-epar-all-authorised-presentations_et.pdf)
 
-ελληνικά (EL) (55.92 KB - PDF)
+ελληνικά (EL) (54.59 KB - PDF)
 
-**First published:**
-
-02/03/2026
+**First published:** 02/03/2026 **Last updated:** 12/05/2026
 
 [View](/el/documents/all-authorised-presentations/xbonzy-epar-all-authorised-presentations_el.pdf)
 
-français (FR) (31.43 KB - PDF)
+français (FR) (53.01 KB - PDF)
 
-**First published:**
-
-02/03/2026
+**First published:** 02/03/2026 **Last updated:** 12/05/2026
 
 [View](/fr/documents/all-authorised-presentations/xbonzy-epar-all-authorised-presentations_fr.pdf)
 
-hrvatski (HR) (53.51 KB - PDF)
+hrvatski (HR) (48.21 KB - PDF)
 
-**First published:**
-
-02/03/2026
+**First published:** 02/03/2026 **Last updated:** 12/05/2026
 
 [View](/hr/documents/all-authorised-presentations/xbonzy-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (31.14 KB - PDF)
+íslenska (IS) (53.23 KB - PDF)
 
-**First published:**
-
-02/03/2026
+**First published:** 02/03/2026 **Last updated:** 12/05/2026
 
 [View](/is/documents/all-authorised-presentations/xbonzy-epar-all-authorised-presentations_is.pdf)
 
-italiano (IT) (31.92 KB - PDF)
+italiano (IT) (50.63 KB - PDF)
 
-**First published:**
-
-02/03/2026
+**First published:** 02/03/2026 **Last updated:** 12/05/2026
 
 [View](/it/documents/all-authorised-presentations/xbonzy-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (56.2 KB - PDF)
+latviešu valoda (LV) (55.88 KB - PDF)
 
-**First published:**
-
-02/03/2026
+**First published:** 02/03/2026 **Last updated:** 12/05/2026
 
 [View](/lv/documents/all-authorised-presentations/xbonzy-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (40.78 KB - PDF)
+lietuvių kalba (LT) (53.12 KB - PDF)
 
-**First published:**
-
-02/03/2026
+**First published:** 02/03/2026 **Last updated:** 12/05/2026
 
 [View](/lt/documents/all-authorised-presentations/xbonzy-epar-all-authorised-presentations_lt.pdf)
 
-magyar (HU) (41.44 KB - PDF)
+magyar (HU) (53.04 KB - PDF)
 
-**First published:**
-
-02/03/2026
+**First published:** 02/03/2026 **Last updated:** 12/05/2026
 
 [View](/hu/documents/all-authorised-presentations/xbonzy-epar-all-authorised-presentations_hu.pdf)
 
-Malti (MT) (51.91 KB - PDF)
+Malti (MT) (54.58 KB - PDF)
 
-**First published:**
-
-02/03/2026
+**First published:** 02/03/2026 **Last updated:** 12/05/2026
 
 [View](/mt/documents/all-authorised-presentations/xbonzy-epar-all-authorised-presentations_mt.pdf)
 
-Nederlands (NL) (31.24 KB - PDF)
+Nederlands (NL) (50.77 KB - PDF)
 
-**First published:**
-
-02/03/2026
+**First published:** 02/03/2026 **Last updated:** 12/05/2026
 
 [View](/nl/documents/all-authorised-presentations/xbonzy-epar-all-authorised-presentations_nl.pdf)
 
-norsk (NO) (31.7 KB - PDF)
+norsk (NO) (53.38 KB - PDF)
 
-**First published:**
-
-02/03/2026
+**First published:** 02/03/2026 **Last updated:** 12/05/2026
 
 [View](/no/documents/all-authorised-presentations/xbonzy-epar-all-authorised-presentations_no.pdf)
 
-polski (PL) (52.07 KB - PDF)
+polski (PL) (55.99 KB - PDF)
 
-**First published:**
-
-02/03/2026
+**First published:** 02/03/2026 **Last updated:** 12/05/2026
 
 [View](/pl/documents/all-authorised-presentations/xbonzy-epar-all-authorised-presentations_pl.pdf)
 
-português (PT) (31.97 KB - PDF)
+português (PT) (53.09 KB - PDF)
 
-**First published:**
-
-02/03/2026
+**First published:** 02/03/2026 **Last updated:** 12/05/2026
 
 [View](/pt/documents/all-authorised-presentations/xbonzy-epar-all-authorised-presentations_pt.pdf)
 
-română (RO) (55.81 KB - PDF)
+română (RO) (54.5 KB - PDF)
 
-**First published:**
-
-02/03/2026
+**First published:** 02/03/2026 **Last updated:** 12/05/2026
 
 [View](/ro/documents/all-authorised-presentations/xbonzy-epar-all-authorised-presentations_ro.pdf)
 
-slovenčina (SK) (55.68 KB - PDF)
+slovenčina (SK) (55.76 KB - PDF)
 
-**First published:**
-
-02/03/2026
+**First published:** 02/03/2026 **Last updated:** 12/05/2026
 
 [View](/sk/documents/all-authorised-presentations/xbonzy-epar-all-authorised-presentations_sk.pdf)
 
-slovenščina (SL) (40.51 KB - PDF)
+slovenščina (SL) (52.33 KB - PDF)
 
-**First published:**
-
-02/03/2026
+**First published:** 02/03/2026 **Last updated:** 12/05/2026
 
 [View](/sl/documents/all-authorised-presentations/xbonzy-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (31.57 KB - PDF)
+Suomi (FI) (48.28 KB - PDF)
 
-**First published:**
-
-02/03/2026
+**First published:** 02/03/2026 **Last updated:** 12/05/2026
 
 [View](/fi/documents/all-authorised-presentations/xbonzy-epar-all-authorised-presentations_fi.pdf)
 
-svenska (SV) (31.32 KB - PDF)
+svenska (SV) (51.79 KB - PDF)
 
-**First published:**
-
-02/03/2026
+**First published:** 02/03/2026 **Last updated:** 12/05/2026
 
 [View](/sv/documents/all-authorised-presentations/xbonzy-epar-all-authorised-presentations_sv.pdf)
 
 ## Product details
 
-Name of medicine Xbonzy Active substance denosumab International non-proprietary name (INN) or common name denosumab Therapeutic area (MeSH)
+Name of medicine
+
+Xbonzy
+
+Active substance
+
+denosumab
+
+International non-proprietary name (INN) or common name
+
+denosumab
+
+Therapeutic area (MeSH)
 
 - Giant Cell Tumor of Bone
 - Neoplasms, Bone Tissue
 
-Anatomical therapeutic chemical (ATC) code M05BX04
+Anatomical therapeutic chemical (ATC) code
+
+M05BX04
 
 ### Pharmacotherapeutic group
 
@@ -742,7 +620,9 @@ Prevention of skeletal related events (pathological fracture, radiation to bone,
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/006722
+EMA product number
+
+EMEA/H/C/006722
 
 Biosimilar
 
@@ -754,7 +634,17 @@ Reddy Holding GmbH
 
 Kobelweg 95 Kriegshaber 86156 Augsburg Germany
 
-Opinion adopted 18/09/2025 Marketing authorisation issued 17/11/2025 Revision 1
+Opinion adopted
+
+18/09/2025
+
+Marketing authorisation issued
+
+17/11/2025
+
+Revision
+
+2
 
 ## Assessment history
 
@@ -766,9 +656,9 @@ Collapse section
 
 Xbonzy : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (197.93 KB - PDF)
+English (EN) (138.3 KB - PDF)
 
-**First published:** 02/03/2026
+**First published:** 02/03/2026 **Last updated:** 12/05/2026
 
 [View](/en/documents/procedural-steps-after/xbonzy-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -776,9 +666,7 @@ English (EN) (197.93 KB - PDF)
 
 Xbonzy : EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/CHMP/278068/2025
+Adopted Reference Number: EMA/CHMP/278068/2025
 
 English (EN) (4.08 MB - PDF)
 
@@ -788,9 +676,7 @@ English (EN) (4.08 MB - PDF)
 
 CHMP summary of positive opinion for Xbonzy
 
-Adopted
-
-Reference Number: EMA/273823/2025
+Adopted Reference Number: EMA/273823/2025
 
 English (EN) (143.64 KB - PDF)
 
@@ -800,10 +686,12 @@ English (EN) (143.64 KB - PDF)
 
 ## News on Xbonzy
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 15-18 September 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-15-18-september-2025) 19/09/2025
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 15-18 September 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-15-18-september-2025)
 
-**This page was last updated on** 02/03/2026
+19/09/2025
+
+**This page was last updated on**
+
+12/05/2026
 
 ## Share this page
-
-[Back to top](#main-content)

@@ -1,32 +1,32 @@
 ---
-document_datetime: 2025-12-29 12:24:48
+document_datetime: 2026-05-11 15:00:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/denbrayce.html
 document_name: denbrayce.html
 version: success
-processing_time: 0.1227129
-conversion_datetime: 2025-12-31 03:11:49.23458
+processing_time: 0.1334252
+conversion_datetime: 2026-05-13 13:16:24.692122
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.17.0
+  docling-jobkit: 1.18.0
+  docling: 2.92.0
+  docling-core: 2.74.1
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.10.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
 ---
 # Denbrayce
 
 [RSS](/en/individual-human-medicine.xml/258597)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-denosumab Medicine Human Authorised
+denosumab
 
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
+Medicine Human Authorised
 
 Page contents
 
@@ -118,181 +118,137 @@ English (EN) (123.3 KB - PDF)
 
 [View](/en/documents/overview/denbrayce-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-673)
+[Other languages (22)](#file-language-dropdown-645)
 
 български (BG) (149.46 KB - PDF)
 
-**First published:**
-
-09/10/2025
+**First published:** 09/10/2025
 
 [View](/bg/documents/overview/denbrayce-epar-medicine-overview_bg.pdf)
 
 español (ES) (124.85 KB - PDF)
 
-**First published:**
-
-09/10/2025
+**First published:** 09/10/2025
 
 [View](/es/documents/overview/denbrayce-epar-medicine-overview_es.pdf)
 
 čeština (CS) (146.58 KB - PDF)
 
-**First published:**
-
-09/10/2025
+**First published:** 09/10/2025
 
 [View](/cs/documents/overview/denbrayce-epar-medicine-overview_cs.pdf)
 
 dansk (DA) (123.59 KB - PDF)
 
-**First published:**
-
-09/10/2025
+**First published:** 09/10/2025
 
 [View](/da/documents/overview/denbrayce-epar-medicine-overview_da.pdf)
 
 Deutsch (DE) (127.33 KB - PDF)
 
-**First published:**
-
-09/10/2025
+**First published:** 09/10/2025
 
 [View](/de/documents/overview/denbrayce-epar-medicine-overview_de.pdf)
 
 eesti keel (ET) (122.09 KB - PDF)
 
-**First published:**
-
-09/10/2025
+**First published:** 09/10/2025
 
 [View](/et/documents/overview/denbrayce-epar-medicine-overview_et.pdf)
 
 ελληνικά (EL) (147.74 KB - PDF)
 
-**First published:**
-
-09/10/2025
+**First published:** 09/10/2025
 
 [View](/el/documents/overview/denbrayce-epar-medicine-overview_el.pdf)
 
 français (FR) (125.75 KB - PDF)
 
-**First published:**
-
-09/10/2025
+**First published:** 09/10/2025
 
 [View](/fr/documents/overview/denbrayce-epar-medicine-overview_fr.pdf)
 
 hrvatski (HR) (146.37 KB - PDF)
 
-**First published:**
-
-09/10/2025
+**First published:** 09/10/2025
 
 [View](/hr/documents/overview/denbrayce-epar-medicine-overview_hr.pdf)
 
 italiano (IT) (123.46 KB - PDF)
 
-**First published:**
-
-09/10/2025
+**First published:** 09/10/2025
 
 [View](/it/documents/overview/denbrayce-epar-medicine-overview_it.pdf)
 
 latviešu valoda (LV) (155 KB - PDF)
 
-**First published:**
-
-09/10/2025
+**First published:** 09/10/2025
 
 [View](/lv/documents/overview/denbrayce-epar-medicine-overview_lv.pdf)
 
 lietuvių kalba (LT) (147.16 KB - PDF)
 
-**First published:**
-
-09/10/2025
+**First published:** 09/10/2025
 
 [View](/lt/documents/overview/denbrayce-epar-medicine-overview_lt.pdf)
 
 magyar (HU) (146.78 KB - PDF)
 
-**First published:**
-
-09/10/2025
+**First published:** 09/10/2025
 
 [View](/hu/documents/overview/denbrayce-epar-medicine-overview_hu.pdf)
 
 Malti (MT) (149.27 KB - PDF)
 
-**First published:**
-
-09/10/2025
+**First published:** 09/10/2025
 
 [View](/mt/documents/overview/denbrayce-epar-medicine-overview_mt.pdf)
 
 Nederlands (NL) (124.02 KB - PDF)
 
-**First published:**
-
-09/10/2025
+**First published:** 09/10/2025
 
 [View](/nl/documents/overview/denbrayce-epar-medicine-overview_nl.pdf)
 
 polski (PL) (150.96 KB - PDF)
 
-**First published:**
-
-09/10/2025
+**First published:** 09/10/2025
 
 [View](/pl/documents/overview/denbrayce-epar-medicine-overview_pl.pdf)
 
 português (PT) (125.17 KB - PDF)
 
-**First published:**
-
-09/10/2025
+**First published:** 09/10/2025
 
 [View](/pt/documents/overview/denbrayce-epar-medicine-overview_pt.pdf)
 
 română (RO) (144.18 KB - PDF)
 
-**First published:**
-
-09/10/2025
+**First published:** 09/10/2025
 
 [View](/ro/documents/overview/denbrayce-epar-medicine-overview_ro.pdf)
 
 slovenčina (SK) (146.92 KB - PDF)
 
-**First published:**
-
-09/10/2025
+**First published:** 09/10/2025
 
 [View](/sk/documents/overview/denbrayce-epar-medicine-overview_sk.pdf)
 
 slovenščina (SL) (143.43 KB - PDF)
 
-**First published:**
-
-09/10/2025
+**First published:** 09/10/2025
 
 [View](/sl/documents/overview/denbrayce-epar-medicine-overview_sl.pdf)
 
 Suomi (FI) (121.52 KB - PDF)
 
-**First published:**
-
-09/10/2025
+**First published:** 09/10/2025
 
 [View](/fi/documents/overview/denbrayce-epar-medicine-overview_fi.pdf)
 
 svenska (SV) (122.86 KB - PDF)
 
-**First published:**
-
-09/10/2025
+**First published:** 09/10/2025
 
 [View](/sv/documents/overview/denbrayce-epar-medicine-overview_sv.pdf)
 
@@ -308,305 +264,161 @@ English (EN) (1.04 MB - PDF)
 
 Denbrayce : EPAR - Product information
 
-English (EN) (482.39 KB - PDF)
+English (EN) (490.27 KB - PDF)
 
-**First published:** 09/10/2025
-
-**Last updated:** 24/11/2025
+**First published:** 09/10/2025 **Last updated:** 11/05/2026
 
 [View](/en/documents/product-information/denbrayce-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-112)
+[Other languages (24)](#file-language-dropdown-309)
 
-български (BG) (629.83 KB - PDF)
+български (BG) (657.3 KB - PDF)
 
-**First published:**
-
-09/10/2025
-
-**Last updated:**
-
-24/11/2025
+**First published:** 09/10/2025 **Last updated:** 11/05/2026
 
 [View](/bg/documents/product-information/denbrayce-epar-product-information_bg.pdf)
 
-español (ES) (527.05 KB - PDF)
+español (ES) (607.4 KB - PDF)
 
-**First published:**
-
-09/10/2025
-
-**Last updated:**
-
-24/11/2025
+**First published:** 09/10/2025 **Last updated:** 11/05/2026
 
 [View](/es/documents/product-information/denbrayce-epar-product-information_es.pdf)
 
-čeština (CS) (585.64 KB - PDF)
+čeština (CS) (622.69 KB - PDF)
 
-**First published:**
-
-09/10/2025
-
-**Last updated:**
-
-24/11/2025
+**First published:** 09/10/2025 **Last updated:** 11/05/2026
 
 [View](/cs/documents/product-information/denbrayce-epar-product-information_cs.pdf)
 
-dansk (DA) (539.02 KB - PDF)
+dansk (DA) (570.14 KB - PDF)
 
-**First published:**
-
-09/10/2025
-
-**Last updated:**
-
-24/11/2025
+**First published:** 09/10/2025 **Last updated:** 11/05/2026
 
 [View](/da/documents/product-information/denbrayce-epar-product-information_da.pdf)
 
-Deutsch (DE) (579.08 KB - PDF)
+Deutsch (DE) (704.75 KB - PDF)
 
-**First published:**
-
-09/10/2025
-
-**Last updated:**
-
-24/11/2025
+**First published:** 09/10/2025 **Last updated:** 11/05/2026
 
 [View](/de/documents/product-information/denbrayce-epar-product-information_de.pdf)
 
-eesti keel (ET) (508.68 KB - PDF)
+eesti keel (ET) (541 KB - PDF)
 
-**First published:**
-
-09/10/2025
-
-**Last updated:**
-
-24/11/2025
+**First published:** 09/10/2025 **Last updated:** 11/05/2026
 
 [View](/et/documents/product-information/denbrayce-epar-product-information_et.pdf)
 
-ελληνικά (EL) (592.53 KB - PDF)
+ελληνικά (EL) (724.87 KB - PDF)
 
-**First published:**
-
-09/10/2025
-
-**Last updated:**
-
-24/11/2025
+**First published:** 09/10/2025 **Last updated:** 11/05/2026
 
 [View](/el/documents/product-information/denbrayce-epar-product-information_el.pdf)
 
-français (FR) (588.59 KB - PDF)
+français (FR) (616.6 KB - PDF)
 
-**First published:**
-
-09/10/2025
-
-**Last updated:**
-
-24/11/2025
+**First published:** 09/10/2025 **Last updated:** 11/05/2026
 
 [View](/fr/documents/product-information/denbrayce-epar-product-information_fr.pdf)
 
-hrvatski (HR) (574.46 KB - PDF)
+hrvatski (HR) (611.77 KB - PDF)
 
-**First published:**
-
-09/10/2025
-
-**Last updated:**
-
-24/11/2025
+**First published:** 09/10/2025 **Last updated:** 11/05/2026
 
 [View](/hr/documents/product-information/denbrayce-epar-product-information_hr.pdf)
 
-íslenska (IS) (541.33 KB - PDF)
+íslenska (IS) (573.14 KB - PDF)
 
-**First published:**
-
-09/10/2025
-
-**Last updated:**
-
-24/11/2025
+**First published:** 09/10/2025 **Last updated:** 11/05/2026
 
 [View](/is/documents/product-information/denbrayce-epar-product-information_is.pdf)
 
-italiano (IT) (562.5 KB - PDF)
+italiano (IT) (593.15 KB - PDF)
 
-**First published:**
-
-09/10/2025
-
-**Last updated:**
-
-24/11/2025
+**First published:** 09/10/2025 **Last updated:** 11/05/2026
 
 [View](/it/documents/product-information/denbrayce-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (569.75 KB - PDF)
+latviešu valoda (LV) (598.78 KB - PDF)
 
-**First published:**
-
-09/10/2025
-
-**Last updated:**
-
-24/11/2025
+**First published:** 09/10/2025 **Last updated:** 11/05/2026
 
 [View](/lv/documents/product-information/denbrayce-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (622.48 KB - PDF)
+lietuvių kalba (LT) (654.68 KB - PDF)
 
-**First published:**
-
-09/10/2025
-
-**Last updated:**
-
-24/11/2025
+**First published:** 09/10/2025 **Last updated:** 11/05/2026
 
 [View](/lt/documents/product-information/denbrayce-epar-product-information_lt.pdf)
 
-magyar (HU) (609.26 KB - PDF)
+magyar (HU) (646.99 KB - PDF)
 
-**First published:**
-
-09/10/2025
-
-**Last updated:**
-
-24/11/2025
+**First published:** 09/10/2025 **Last updated:** 11/05/2026
 
 [View](/hu/documents/product-information/denbrayce-epar-product-information_hu.pdf)
 
-Malti (MT) (677.29 KB - PDF)
+Malti (MT) (684.67 KB - PDF)
 
-**First published:**
-
-09/10/2025
-
-**Last updated:**
-
-24/11/2025
+**First published:** 09/10/2025 **Last updated:** 11/05/2026
 
 [View](/mt/documents/product-information/denbrayce-epar-product-information_mt.pdf)
 
-Nederlands (NL) (618.47 KB - PDF)
+Nederlands (NL) (651.35 KB - PDF)
 
-**First published:**
-
-09/10/2025
-
-**Last updated:**
-
-24/11/2025
+**First published:** 09/10/2025 **Last updated:** 11/05/2026
 
 [View](/nl/documents/product-information/denbrayce-epar-product-information_nl.pdf)
 
-norsk (NO) (654.25 KB - PDF)
+norsk (NO) (687.53 KB - PDF)
 
-**First published:**
-
-09/10/2025
-
-**Last updated:**
-
-24/11/2025
+**First published:** 09/10/2025 **Last updated:** 11/05/2026
 
 [View](/no/documents/product-information/denbrayce-epar-product-information_no.pdf)
 
-polski (PL) (684.14 KB - PDF)
+polski (PL) (725.16 KB - PDF)
 
-**First published:**
-
-09/10/2025
-
-**Last updated:**
-
-24/11/2025
+**First published:** 09/10/2025 **Last updated:** 11/05/2026
 
 [View](/pl/documents/product-information/denbrayce-epar-product-information_pl.pdf)
 
-português (PT) (649.67 KB - PDF)
+português (PT) (665.35 KB - PDF)
 
-**First published:**
-
-09/10/2025
-
-**Last updated:**
-
-24/11/2025
+**First published:** 09/10/2025 **Last updated:** 11/05/2026
 
 [View](/pt/documents/product-information/denbrayce-epar-product-information_pt.pdf)
 
-română (RO) (702.57 KB - PDF)
+română (RO) (730.56 KB - PDF)
 
-**First published:**
-
-09/10/2025
-
-**Last updated:**
-
-24/11/2025
+**First published:** 09/10/2025 **Last updated:** 11/05/2026
 
 [View](/ro/documents/product-information/denbrayce-epar-product-information_ro.pdf)
 
-slovenčina (SK) (667.99 KB - PDF)
+slovenčina (SK) (713.9 KB - PDF)
 
-**First published:**
-
-09/10/2025
-
-**Last updated:**
-
-24/11/2025
+**First published:** 09/10/2025 **Last updated:** 11/05/2026
 
 [View](/sk/documents/product-information/denbrayce-epar-product-information_sk.pdf)
 
-slovenščina (SL) (679.66 KB - PDF)
+slovenščina (SL) (706.24 KB - PDF)
 
-**First published:**
-
-09/10/2025
-
-**Last updated:**
-
-24/11/2025
+**First published:** 09/10/2025 **Last updated:** 11/05/2026
 
 [View](/sl/documents/product-information/denbrayce-epar-product-information_sl.pdf)
 
-Suomi (FI) (555.2 KB - PDF)
+Suomi (FI) (574.19 KB - PDF)
 
-**First published:**
-
-09/10/2025
-
-**Last updated:**
-
-24/11/2025
+**First published:** 09/10/2025 **Last updated:** 11/05/2026
 
 [View](/fi/documents/product-information/denbrayce-epar-product-information_fi.pdf)
 
-svenska (SV) (639.47 KB - PDF)
+svenska (SV) (686.04 KB - PDF)
 
-**First published:**
-
-09/10/2025
-
-**Last updated:**
-
-24/11/2025
+**First published:** 09/10/2025 **Last updated:** 11/05/2026
 
 [View](/sv/documents/product-information/denbrayce-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** N/0000287990 29/07/2025
+**Latest procedure affecting product information:** VR/0000343113
+
+08/05/2026
 
 icon globe
 
@@ -624,214 +436,180 @@ Product information documents contain:
 
 Denbrayce : EPAR - All authorised presentations
 
-English (EN) (47 KB - PDF)
+English (EN) (42.49 KB - PDF)
 
-**First published:** 09/10/2025
+**First published:** 09/10/2025 **Last updated:** 11/05/2026
 
 [View](/en/documents/all-authorised-presentations/denbrayce-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-549)
+[Other languages (24)](#file-language-dropdown-813)
 
-български (BG) (63.53 KB - PDF)
+български (BG) (59.92 KB - PDF)
 
-**First published:**
-
-09/10/2025
+**First published:** 09/10/2025 **Last updated:** 11/05/2026
 
 [View](/bg/documents/all-authorised-presentations/denbrayce-epar-all-authorised-presentations_bg.pdf)
 
-español (ES) (47.34 KB - PDF)
+español (ES) (42.5 KB - PDF)
 
-**First published:**
-
-09/10/2025
+**First published:** 09/10/2025 **Last updated:** 11/05/2026
 
 [View](/es/documents/all-authorised-presentations/denbrayce-epar-all-authorised-presentations_es.pdf)
 
-čeština (CS) (60.14 KB - PDF)
+čeština (CS) (60.36 KB - PDF)
 
-**First published:**
-
-09/10/2025
+**First published:** 09/10/2025 **Last updated:** 11/05/2026
 
 [View](/cs/documents/all-authorised-presentations/denbrayce-epar-all-authorised-presentations_cs.pdf)
 
-dansk (DA) (49.18 KB - PDF)
+dansk (DA) (44.57 KB - PDF)
 
-**First published:**
-
-09/10/2025
+**First published:** 09/10/2025 **Last updated:** 11/05/2026
 
 [View](/da/documents/all-authorised-presentations/denbrayce-epar-all-authorised-presentations_da.pdf)
 
-Deutsch (DE) (45.6 KB - PDF)
+Deutsch (DE) (45.62 KB - PDF)
 
-**First published:**
-
-09/10/2025
+**First published:** 09/10/2025 **Last updated:** 11/05/2026
 
 [View](/de/documents/all-authorised-presentations/denbrayce-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (43.41 KB - PDF)
+eesti keel (ET) (41.56 KB - PDF)
 
-**First published:**
-
-09/10/2025
+**First published:** 09/10/2025 **Last updated:** 11/05/2026
 
 [View](/et/documents/all-authorised-presentations/denbrayce-epar-all-authorised-presentations_et.pdf)
 
-ελληνικά (EL) (59.87 KB - PDF)
+ελληνικά (EL) (59.67 KB - PDF)
 
-**First published:**
-
-09/10/2025
+**First published:** 09/10/2025 **Last updated:** 11/05/2026
 
 [View](/el/documents/all-authorised-presentations/denbrayce-epar-all-authorised-presentations_el.pdf)
 
-français (FR) (50.08 KB - PDF)
+français (FR) (42.46 KB - PDF)
 
-**First published:**
-
-09/10/2025
+**First published:** 09/10/2025 **Last updated:** 11/05/2026
 
 [View](/fr/documents/all-authorised-presentations/denbrayce-epar-all-authorised-presentations_fr.pdf)
 
-hrvatski (HR) (49.86 KB - PDF)
+hrvatski (HR) (58.82 KB - PDF)
 
-**First published:**
-
-09/10/2025
+**First published:** 09/10/2025 **Last updated:** 11/05/2026
 
 [View](/hr/documents/all-authorised-presentations/denbrayce-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (46.96 KB - PDF)
+íslenska (IS) (45.78 KB - PDF)
 
-**First published:**
-
-09/10/2025
+**First published:** 09/10/2025 **Last updated:** 11/05/2026
 
 [View](/is/documents/all-authorised-presentations/denbrayce-epar-all-authorised-presentations_is.pdf)
 
-italiano (IT) (46.4 KB - PDF)
+italiano (IT) (48.33 KB - PDF)
 
-**First published:**
-
-09/10/2025
+**First published:** 09/10/2025 **Last updated:** 11/05/2026
 
 [View](/it/documents/all-authorised-presentations/denbrayce-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (47.82 KB - PDF)
+latviešu valoda (LV) (64.09 KB - PDF)
 
-**First published:**
-
-09/10/2025
+**First published:** 09/10/2025 **Last updated:** 11/05/2026
 
 [View](/lv/documents/all-authorised-presentations/denbrayce-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (47.02 KB - PDF)
+lietuvių kalba (LT) (54.18 KB - PDF)
 
-**First published:**
-
-09/10/2025
+**First published:** 09/10/2025 **Last updated:** 11/05/2026
 
 [View](/lt/documents/all-authorised-presentations/denbrayce-epar-all-authorised-presentations_lt.pdf)
 
-magyar (HU) (50.55 KB - PDF)
+magyar (HU) (57.16 KB - PDF)
 
-**First published:**
-
-09/10/2025
+**First published:** 09/10/2025 **Last updated:** 11/05/2026
 
 [View](/hu/documents/all-authorised-presentations/denbrayce-epar-all-authorised-presentations_hu.pdf)
 
-Malti (MT) (51.55 KB - PDF)
+Malti (MT) (66.88 KB - PDF)
 
-**First published:**
-
-09/10/2025
+**First published:** 09/10/2025 **Last updated:** 11/05/2026
 
 [View](/mt/documents/all-authorised-presentations/denbrayce-epar-all-authorised-presentations_mt.pdf)
 
-Nederlands (NL) (45.76 KB - PDF)
+Nederlands (NL) (45.48 KB - PDF)
 
-**First published:**
-
-09/10/2025
+**First published:** 09/10/2025 **Last updated:** 11/05/2026
 
 [View](/nl/documents/all-authorised-presentations/denbrayce-epar-all-authorised-presentations_nl.pdf)
 
-norsk (NO) (47.04 KB - PDF)
+norsk (NO) (46.29 KB - PDF)
 
-**First published:**
-
-09/10/2025
+**First published:** 09/10/2025 **Last updated:** 11/05/2026
 
 [View](/no/documents/all-authorised-presentations/denbrayce-epar-all-authorised-presentations_no.pdf)
 
-polski (PL) (51.26 KB - PDF)
+polski (PL) (66.05 KB - PDF)
 
-**First published:**
-
-09/10/2025
+**First published:** 09/10/2025 **Last updated:** 11/05/2026
 
 [View](/pl/documents/all-authorised-presentations/denbrayce-epar-all-authorised-presentations_pl.pdf)
 
-português (PT) (48.57 KB - PDF)
+português (PT) (46.46 KB - PDF)
 
-**First published:**
-
-09/10/2025
+**First published:** 09/10/2025 **Last updated:** 11/05/2026
 
 [View](/pt/documents/all-authorised-presentations/denbrayce-epar-all-authorised-presentations_pt.pdf)
 
-română (RO) (46.46 KB - PDF)
+română (RO) (56.66 KB - PDF)
 
-**First published:**
-
-09/10/2025
+**First published:** 09/10/2025 **Last updated:** 11/05/2026
 
 [View](/ro/documents/all-authorised-presentations/denbrayce-epar-all-authorised-presentations_ro.pdf)
 
-slovenčina (SK) (52.04 KB - PDF)
+slovenčina (SK) (62.52 KB - PDF)
 
-**First published:**
-
-09/10/2025
+**First published:** 09/10/2025 **Last updated:** 11/05/2026
 
 [View](/sk/documents/all-authorised-presentations/denbrayce-epar-all-authorised-presentations_sk.pdf)
 
-slovenščina (SL) (44.11 KB - PDF)
+slovenščina (SL) (55.28 KB - PDF)
 
-**First published:**
-
-09/10/2025
+**First published:** 09/10/2025 **Last updated:** 11/05/2026
 
 [View](/sl/documents/all-authorised-presentations/denbrayce-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (43.38 KB - PDF)
+Suomi (FI) (41.31 KB - PDF)
 
-**First published:**
-
-09/10/2025
+**First published:** 09/10/2025 **Last updated:** 11/05/2026
 
 [View](/fi/documents/all-authorised-presentations/denbrayce-epar-all-authorised-presentations_fi.pdf)
 
-svenska (SV) (45.45 KB - PDF)
+svenska (SV) (45.85 KB - PDF)
 
-**First published:**
-
-09/10/2025
+**First published:** 09/10/2025 **Last updated:** 11/05/2026
 
 [View](/sv/documents/all-authorised-presentations/denbrayce-epar-all-authorised-presentations_sv.pdf)
 
 ## Product details
 
-Name of medicine Denbrayce Active substance denosumab International non-proprietary name (INN) or common name denosumab Therapeutic area (MeSH)
+Name of medicine
+
+Denbrayce
+
+Active substance
+
+denosumab
+
+International non-proprietary name (INN) or common name
+
+denosumab
+
+Therapeutic area (MeSH)
 
 - Neoplasms, Bone Tissue
 - Giant Cell Tumor of Bone
 
-Anatomical therapeutic chemical (ATC) code M05BX04
+Anatomical therapeutic chemical (ATC) code
+
+M05BX04
 
 ### Pharmacotherapeutic group
 
@@ -843,7 +621,9 @@ Prevention of skeletal related events (pathological fracture, radiation to bone,
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/006199
+EMA product number
+
+EMEA/H/C/006199
 
 Additional monitoring
 
@@ -859,7 +639,17 @@ Mabxience Research SL
 
 C/ Manuel Pombo Angulo 28
 
-Opinion adopted 25/04/2025 Marketing authorisation issued 26/06/2025 Revision 1
+Opinion adopted
+
+25/04/2025
+
+Marketing authorisation issued
+
+26/06/2025
+
+Revision
+
+2
 
 ## Assessment history
 
@@ -871,9 +661,9 @@ Collapse section
 
 Denbrayce : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (173.76 KB - PDF)
+English (EN) (144.11 KB - PDF)
 
-**First published:** 24/11/2025
+**First published:** 24/11/2025 **Last updated:** 11/05/2026
 
 [View](/en/documents/procedural-steps-after/denbrayce-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -881,9 +671,7 @@ English (EN) (173.76 KB - PDF)
 
 Denbrayce : EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/CHMP/165386/2025
+Adopted Reference Number: EMA/CHMP/165386/2025
 
 English (EN) (6.17 MB - PDF)
 
@@ -893,9 +681,7 @@ English (EN) (6.17 MB - PDF)
 
 CHMP summary of positive opinion for Denbrayce
 
-Adopted
-
-Reference Number: EMA/123568/2025
+Adopted Reference Number: EMA/123568/2025
 
 English (EN) (144.79 KB - PDF)
 
@@ -903,11 +689,13 @@ English (EN) (144.79 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-denbrayce_en.pdf)
 
-#### News on Denbrayce
+## News on Denbrayce
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 22-25 April 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-22-25-april-2025) 25/04/2025
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 22-25 April 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-22-25-april-2025)
 
-#### Product information - with tracked changes
+25/04/2025
+
+## Product information - with tracked changes
 
 The approved product information for this medicine is available below showing the changes since the previous procedure affecting the product information. The same document without tracked changes is above under 'Product information'.
 
@@ -919,202 +707,154 @@ English (EN) (200.8 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/denbrayce-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-260)
+[Other languages (24)](#file-language-dropdown-88)
 
 български (BG) (271.84 KB - DOCX)
 
-**First published:**
-
-24/11/2025
+**First published:** 24/11/2025
 
 [View](/bg/documents/product-information-tracked-changes/denbrayce-epar-product-information-tracked-changes_bg.docx)
 
 español (ES) (208.71 KB - DOCX)
 
-**First published:**
-
-24/11/2025
+**First published:** 24/11/2025
 
 [View](/es/documents/product-information-tracked-changes/denbrayce-epar-product-information-tracked-changes_es.docx)
 
 čeština (CS) (260.16 KB - DOCX)
 
-**First published:**
-
-24/11/2025
+**First published:** 24/11/2025
 
 [View](/cs/documents/product-information-tracked-changes/denbrayce-epar-product-information-tracked-changes_cs.docx)
 
 dansk (DA) (259.69 KB - DOCX)
 
-**First published:**
-
-24/11/2025
+**First published:** 24/11/2025
 
 [View](/da/documents/product-information-tracked-changes/denbrayce-epar-product-information-tracked-changes_da.docx)
 
 Deutsch (DE) (257.23 KB - DOCX)
 
-**First published:**
-
-24/11/2025
+**First published:** 24/11/2025
 
 [View](/de/documents/product-information-tracked-changes/denbrayce-epar-product-information-tracked-changes_de.docx)
 
 eesti keel (ET) (250.26 KB - DOCX)
 
-**First published:**
-
-24/11/2025
+**First published:** 24/11/2025
 
 [View](/et/documents/product-information-tracked-changes/denbrayce-epar-product-information-tracked-changes_et.docx)
 
 ελληνικά (EL) (270.14 KB - DOCX)
 
-**First published:**
-
-24/11/2025
+**First published:** 24/11/2025
 
 [View](/el/documents/product-information-tracked-changes/denbrayce-epar-product-information-tracked-changes_el.docx)
 
 français (FR) (263.52 KB - DOCX)
 
-**First published:**
-
-24/11/2025
+**First published:** 24/11/2025
 
 [View](/fr/documents/product-information-tracked-changes/denbrayce-epar-product-information-tracked-changes_fr.docx)
 
 hrvatski (HR) (254.48 KB - DOCX)
 
-**First published:**
-
-24/11/2025
+**First published:** 24/11/2025
 
 [View](/hr/documents/product-information-tracked-changes/denbrayce-epar-product-information-tracked-changes_hr.docx)
 
 íslenska (IS) (259.12 KB - DOCX)
 
-**First published:**
-
-24/11/2025
+**First published:** 24/11/2025
 
 [View](/is/documents/product-information-tracked-changes/denbrayce-epar-product-information-tracked-changes_is.docx)
 
 italiano (IT) (266.65 KB - DOCX)
 
-**First published:**
-
-24/11/2025
+**First published:** 24/11/2025
 
 [View](/it/documents/product-information-tracked-changes/denbrayce-epar-product-information-tracked-changes_it.docx)
 
 latviešu valoda (LV) (262.45 KB - DOCX)
 
-**First published:**
-
-24/11/2025
+**First published:** 24/11/2025
 
 [View](/lv/documents/product-information-tracked-changes/denbrayce-epar-product-information-tracked-changes_lv.docx)
 
 lietuvių kalba (LT) (262.27 KB - DOCX)
 
-**First published:**
-
-24/11/2025
+**First published:** 24/11/2025
 
 [View](/lt/documents/product-information-tracked-changes/denbrayce-epar-product-information-tracked-changes_lt.docx)
 
 magyar (HU) (259.61 KB - DOCX)
 
-**First published:**
-
-24/11/2025
+**First published:** 24/11/2025
 
 [View](/hu/documents/product-information-tracked-changes/denbrayce-epar-product-information-tracked-changes_hu.docx)
 
 Malti (MT) (275.49 KB - DOCX)
 
-**First published:**
-
-24/11/2025
+**First published:** 24/11/2025
 
 [View](/mt/documents/product-information-tracked-changes/denbrayce-epar-product-information-tracked-changes_mt.docx)
 
 Nederlands (NL) (323.97 KB - DOCX)
 
-**First published:**
-
-24/11/2025
+**First published:** 24/11/2025
 
 [View](/nl/documents/product-information-tracked-changes/denbrayce-epar-product-information-tracked-changes_nl.docx)
 
 norsk (NO) (321.62 KB - DOCX)
 
-**First published:**
-
-24/11/2025
+**First published:** 24/11/2025
 
 [View](/no/documents/product-information-tracked-changes/denbrayce-epar-product-information-tracked-changes_no.docx)
 
 polski (PL) (314.72 KB - DOCX)
 
-**First published:**
-
-24/11/2025
+**First published:** 24/11/2025
 
 [View](/pl/documents/product-information-tracked-changes/denbrayce-epar-product-information-tracked-changes_pl.docx)
 
 português (PT) (318.13 KB - DOCX)
 
-**First published:**
-
-24/11/2025
+**First published:** 24/11/2025
 
 [View](/pt/documents/product-information-tracked-changes/denbrayce-epar-product-information-tracked-changes_pt.docx)
 
 română (RO) (318.99 KB - DOCX)
 
-**First published:**
-
-24/11/2025
+**First published:** 24/11/2025
 
 [View](/ro/documents/product-information-tracked-changes/denbrayce-epar-product-information-tracked-changes_ro.docx)
 
 slovenčina (SK) (319.98 KB - DOCX)
 
-**First published:**
-
-24/11/2025
+**First published:** 24/11/2025
 
 [View](/sk/documents/product-information-tracked-changes/denbrayce-epar-product-information-tracked-changes_sk.docx)
 
 slovenščina (SL) (313.89 KB - DOCX)
 
-**First published:**
-
-24/11/2025
+**First published:** 24/11/2025
 
 [View](/sl/documents/product-information-tracked-changes/denbrayce-epar-product-information-tracked-changes_sl.docx)
 
 Suomi (FI) (270.77 KB - DOCX)
 
-**First published:**
-
-24/11/2025
+**First published:** 24/11/2025
 
 [View](/fi/documents/product-information-tracked-changes/denbrayce-epar-product-information-tracked-changes_fi.docx)
 
 svenska (SV) (315.97 KB - DOCX)
 
-**First published:**
-
-24/11/2025
+**First published:** 24/11/2025
 
 [View](/sv/documents/product-information-tracked-changes/denbrayce-epar-product-information-tracked-changes_sv.docx)
 
-**This page was last updated on** 24/11/2025
+**This page was last updated on**
+
+11/05/2026
 
 ## Share this page
-
-[Back to top](#main-content)

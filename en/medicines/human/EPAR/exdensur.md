@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-03-12 16:45:00
+document_datetime: 2026-05-11 16:00:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/exdensur.html
 document_name: exdensur.html
 version: success
-processing_time: 0.0846868
-conversion_datetime: 2026-03-13 18:38:46.122078
+processing_time: 0.2436605
+conversion_datetime: 2026-05-13 13:18:07.892552
 docling_version:
-  docling-serve: 1.14.3
-  docling-jobkit: 1.13.0
-  docling: 2.79.0
-  docling-core: 2.69.0
-  docling-ibm-models: 3.12.0
-  docling-parse: 5.5.0
+  docling-serve: 1.17.0
+  docling-jobkit: 1.18.0
+  docling: 2.92.0
+  docling-core: 2.74.1
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.10.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
 ---
 # Exdensur
 
@@ -24,7 +24,9 @@ Authorised
 
 This medicine is authorised for use in the European Union
 
-depemokimab Medicine Human Authorised
+depemokimab
+
+Medicine Human Authorised
 
 Page contents
 
@@ -112,181 +114,137 @@ English (EN) (138.56 KB - PDF)
 
 [View](/en/documents/overview/exdensur-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-920)
+[Other languages (22)](#file-language-dropdown-585)
 
 български (BG) (163.91 KB - PDF)
 
-**First published:**
-
-12/03/2026
+**First published:** 12/03/2026
 
 [View](/bg/documents/overview/exdensur-epar-medicine-overview_bg.pdf)
 
 español (ES) (136.83 KB - PDF)
 
-**First published:**
-
-12/03/2026
+**First published:** 12/03/2026
 
 [View](/es/documents/overview/exdensur-epar-medicine-overview_es.pdf)
 
 čeština (CS) (162.4 KB - PDF)
 
-**First published:**
-
-12/03/2026
+**First published:** 12/03/2026
 
 [View](/cs/documents/overview/exdensur-epar-medicine-overview_cs.pdf)
 
 dansk (DA) (137.38 KB - PDF)
 
-**First published:**
-
-12/03/2026
+**First published:** 12/03/2026
 
 [View](/da/documents/overview/exdensur-epar-medicine-overview_da.pdf)
 
 Deutsch (DE) (142.82 KB - PDF)
 
-**First published:**
-
-12/03/2026
+**First published:** 12/03/2026
 
 [View](/de/documents/overview/exdensur-epar-medicine-overview_de.pdf)
 
 eesti keel (ET) (134.28 KB - PDF)
 
-**First published:**
-
-12/03/2026
+**First published:** 12/03/2026
 
 [View](/et/documents/overview/exdensur-epar-medicine-overview_et.pdf)
 
 ελληνικά (EL) (162.46 KB - PDF)
 
-**First published:**
-
-12/03/2026
+**First published:** 12/03/2026
 
 [View](/el/documents/overview/exdensur-epar-medicine-overview_el.pdf)
 
 français (FR) (139.49 KB - PDF)
 
-**First published:**
-
-12/03/2026
+**First published:** 12/03/2026
 
 [View](/fr/documents/overview/exdensur-epar-medicine-overview_fr.pdf)
 
 hrvatski (HR) (159.78 KB - PDF)
 
-**First published:**
-
-12/03/2026
+**First published:** 12/03/2026
 
 [View](/hr/documents/overview/exdensur-epar-medicine-overview_hr.pdf)
 
 italiano (IT) (135.53 KB - PDF)
 
-**First published:**
-
-12/03/2026
+**First published:** 12/03/2026
 
 [View](/it/documents/overview/exdensur-epar-medicine-overview_it.pdf)
 
 latviešu valoda (LV) (167.2 KB - PDF)
 
-**First published:**
-
-12/03/2026
+**First published:** 12/03/2026
 
 [View](/lv/documents/overview/exdensur-epar-medicine-overview_lv.pdf)
 
 lietuvių kalba (LT) (159.71 KB - PDF)
 
-**First published:**
-
-12/03/2026
+**First published:** 12/03/2026
 
 [View](/lt/documents/overview/exdensur-epar-medicine-overview_lt.pdf)
 
 magyar (HU) (160.49 KB - PDF)
 
-**First published:**
-
-12/03/2026
+**First published:** 12/03/2026
 
 [View](/hu/documents/overview/exdensur-epar-medicine-overview_hu.pdf)
 
 Malti (MT) (163.17 KB - PDF)
 
-**First published:**
-
-12/03/2026
+**First published:** 12/03/2026
 
 [View](/mt/documents/overview/exdensur-epar-medicine-overview_mt.pdf)
 
 Nederlands (NL) (138.78 KB - PDF)
 
-**First published:**
-
-12/03/2026
+**First published:** 12/03/2026
 
 [View](/nl/documents/overview/exdensur-epar-medicine-overview_nl.pdf)
 
 polski (PL) (163.99 KB - PDF)
 
-**First published:**
-
-12/03/2026
+**First published:** 12/03/2026
 
 [View](/pl/documents/overview/exdensur-epar-medicine-overview_pl.pdf)
 
 português (PT) (138.06 KB - PDF)
 
-**First published:**
-
-12/03/2026
+**First published:** 12/03/2026
 
 [View](/pt/documents/overview/exdensur-epar-medicine-overview_pt.pdf)
 
 română (RO) (157.72 KB - PDF)
 
-**First published:**
-
-12/03/2026
+**First published:** 12/03/2026
 
 [View](/ro/documents/overview/exdensur-epar-medicine-overview_ro.pdf)
 
 slovenčina (SK) (160.27 KB - PDF)
 
-**First published:**
-
-12/03/2026
+**First published:** 12/03/2026
 
 [View](/sk/documents/overview/exdensur-epar-medicine-overview_sk.pdf)
 
 slovenščina (SL) (157.68 KB - PDF)
 
-**First published:**
-
-12/03/2026
+**First published:** 12/03/2026
 
 [View](/sl/documents/overview/exdensur-epar-medicine-overview_sl.pdf)
 
 Suomi (FI) (134.08 KB - PDF)
 
-**First published:**
-
-12/03/2026
+**First published:** 12/03/2026
 
 [View](/fi/documents/overview/exdensur-epar-medicine-overview_fi.pdf)
 
 svenska (SV) (135.69 KB - PDF)
 
-**First published:**
-
-12/03/2026
+**First published:** 12/03/2026
 
 [View](/sv/documents/overview/exdensur-epar-medicine-overview_sv.pdf)
 
@@ -302,205 +260,161 @@ English (EN) (1.81 MB - PDF)
 
 Exdensur : EPAR - Product information
 
-English (EN) (1.17 MB - PDF)
+English (EN) (1.07 MB - PDF)
 
-**First published:** 12/03/2026
+**First published:** 12/03/2026 **Last updated:** 11/05/2026
 
 [View](/en/documents/product-information/exdensur-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-95)
+[Other languages (24)](#file-language-dropdown-673)
 
-български (BG) (1.38 MB - PDF)
+български (BG) (1.19 MB - PDF)
 
-**First published:**
-
-12/03/2026
+**First published:** 12/03/2026 **Last updated:** 11/05/2026
 
 [View](/bg/documents/product-information/exdensur-epar-product-information_bg.pdf)
 
-español (ES) (1.28 MB - PDF)
+español (ES) (1.1 MB - PDF)
 
-**First published:**
-
-12/03/2026
+**First published:** 12/03/2026 **Last updated:** 11/05/2026
 
 [View](/es/documents/product-information/exdensur-epar-product-information_es.pdf)
 
-čeština (CS) (1.32 MB - PDF)
+čeština (CS) (1.15 MB - PDF)
 
-**First published:**
-
-12/03/2026
+**First published:** 12/03/2026 **Last updated:** 11/05/2026
 
 [View](/cs/documents/product-information/exdensur-epar-product-information_cs.pdf)
 
-dansk (DA) (1.24 MB - PDF)
+dansk (DA) (1.09 MB - PDF)
 
-**First published:**
-
-12/03/2026
+**First published:** 12/03/2026 **Last updated:** 11/05/2026
 
 [View](/da/documents/product-information/exdensur-epar-product-information_da.pdf)
 
-Deutsch (DE) (1.32 MB - PDF)
+Deutsch (DE) (1.31 MB - PDF)
 
-**First published:**
-
-12/03/2026
+**First published:** 12/03/2026 **Last updated:** 11/05/2026
 
 [View](/de/documents/product-information/exdensur-epar-product-information_de.pdf)
 
-eesti keel (ET) (1.28 MB - PDF)
+eesti keel (ET) (1.11 MB - PDF)
 
-**First published:**
-
-12/03/2026
+**First published:** 12/03/2026 **Last updated:** 11/05/2026
 
 [View](/et/documents/product-information/exdensur-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.32 MB - PDF)
+ελληνικά (EL) (1.15 MB - PDF)
 
-**First published:**
-
-12/03/2026
+**First published:** 12/03/2026 **Last updated:** 11/05/2026
 
 [View](/el/documents/product-information/exdensur-epar-product-information_el.pdf)
 
-français (FR) (1.3 MB - PDF)
+français (FR) (1.14 MB - PDF)
 
-**First published:**
-
-12/03/2026
+**First published:** 12/03/2026 **Last updated:** 11/05/2026
 
 [View](/fr/documents/product-information/exdensur-epar-product-information_fr.pdf)
 
-hrvatski (HR) (1.26 MB - PDF)
+hrvatski (HR) (1.05 MB - PDF)
 
-**First published:**
-
-12/03/2026
+**First published:** 12/03/2026 **Last updated:** 11/05/2026
 
 [View](/hr/documents/product-information/exdensur-epar-product-information_hr.pdf)
 
-íslenska (IS) (1.26 MB - PDF)
+íslenska (IS) (1.09 MB - PDF)
 
-**First published:**
-
-12/03/2026
+**First published:** 12/03/2026 **Last updated:** 11/05/2026
 
 [View](/is/documents/product-information/exdensur-epar-product-information_is.pdf)
 
-italiano (IT) (1.22 MB - PDF)
+italiano (IT) (1.07 MB - PDF)
 
-**First published:**
-
-12/03/2026
+**First published:** 12/03/2026 **Last updated:** 11/05/2026
 
 [View](/it/documents/product-information/exdensur-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (1.29 MB - PDF)
+latviešu valoda (LV) (1.06 MB - PDF)
 
-**First published:**
-
-12/03/2026
+**First published:** 12/03/2026 **Last updated:** 11/05/2026
 
 [View](/lv/documents/product-information/exdensur-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (1.34 MB - PDF)
+lietuvių kalba (LT) (1.11 MB - PDF)
 
-**First published:**
-
-12/03/2026
+**First published:** 12/03/2026 **Last updated:** 11/05/2026
 
 [View](/lt/documents/product-information/exdensur-epar-product-information_lt.pdf)
 
-magyar (HU) (1.27 MB - PDF)
+magyar (HU) (1.18 MB - PDF)
 
-**First published:**
-
-12/03/2026
+**First published:** 12/03/2026 **Last updated:** 11/05/2026
 
 [View](/hu/documents/product-information/exdensur-epar-product-information_hu.pdf)
 
-Malti (MT) (1.81 MB - PDF)
+Malti (MT) (1.75 MB - PDF)
 
-**First published:**
-
-12/03/2026
+**First published:** 12/03/2026 **Last updated:** 11/05/2026
 
 [View](/mt/documents/product-information/exdensur-epar-product-information_mt.pdf)
 
-Nederlands (NL) (1.27 MB - PDF)
+Nederlands (NL) (1.1 MB - PDF)
 
-**First published:**
-
-12/03/2026
+**First published:** 12/03/2026 **Last updated:** 11/05/2026
 
 [View](/nl/documents/product-information/exdensur-epar-product-information_nl.pdf)
 
-norsk (NO) (1.23 MB - PDF)
+norsk (NO) (1.02 MB - PDF)
 
-**First published:**
-
-12/03/2026
+**First published:** 12/03/2026 **Last updated:** 11/05/2026
 
 [View](/no/documents/product-information/exdensur-epar-product-information_no.pdf)
 
-polski (PL) (1.24 MB - PDF)
+polski (PL) (1.07 MB - PDF)
 
-**First published:**
-
-12/03/2026
+**First published:** 12/03/2026 **Last updated:** 11/05/2026
 
 [View](/pl/documents/product-information/exdensur-epar-product-information_pl.pdf)
 
-português (PT) (1.26 MB - PDF)
+português (PT) (1.1 MB - PDF)
 
-**First published:**
-
-12/03/2026
+**First published:** 12/03/2026 **Last updated:** 11/05/2026
 
 [View](/pt/documents/product-information/exdensur-epar-product-information_pt.pdf)
 
-română (RO) (1.3 MB - PDF)
+română (RO) (1.12 MB - PDF)
 
-**First published:**
-
-12/03/2026
+**First published:** 12/03/2026 **Last updated:** 11/05/2026
 
 [View](/ro/documents/product-information/exdensur-epar-product-information_ro.pdf)
 
-slovenčina (SK) (1.36 MB - PDF)
+slovenčina (SK) (1.17 MB - PDF)
 
-**First published:**
-
-12/03/2026
+**First published:** 12/03/2026 **Last updated:** 11/05/2026
 
 [View](/sk/documents/product-information/exdensur-epar-product-information_sk.pdf)
 
-slovenščina (SL) (1.29 MB - PDF)
+slovenščina (SL) (1.12 MB - PDF)
 
-**First published:**
-
-12/03/2026
+**First published:** 12/03/2026 **Last updated:** 11/05/2026
 
 [View](/sl/documents/product-information/exdensur-epar-product-information_sl.pdf)
 
-Suomi (FI) (1.24 MB - PDF)
+Suomi (FI) (1.07 MB - PDF)
 
-**First published:**
-
-12/03/2026
+**First published:** 12/03/2026 **Last updated:** 11/05/2026
 
 [View](/fi/documents/product-information/exdensur-epar-product-information_fi.pdf)
 
-svenska (SV) (1.25 MB - PDF)
+svenska (SV) (1.08 MB - PDF)
 
-**First published:**
-
-12/03/2026
+**First published:** 12/03/2026 **Last updated:** 11/05/2026
 
 [View](/sv/documents/product-information/exdensur-epar-product-information_sv.pdf)
+
+**Latest procedure affecting product information:** VR/0000340523
+
+08/05/2026
 
 icon globe
 
@@ -524,208 +438,174 @@ English (EN) (45.66 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/exdensur-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-769)
+[Other languages (24)](#file-language-dropdown-247)
 
 български (BG) (58.99 KB - PDF)
 
-**First published:**
-
-12/03/2026
+**First published:** 12/03/2026
 
 [View](/bg/documents/all-authorised-presentations/exdensur-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (46.78 KB - PDF)
 
-**First published:**
-
-12/03/2026
+**First published:** 12/03/2026
 
 [View](/es/documents/all-authorised-presentations/exdensur-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (54.54 KB - PDF)
 
-**First published:**
-
-12/03/2026
+**First published:** 12/03/2026
 
 [View](/cs/documents/all-authorised-presentations/exdensur-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (55.06 KB - PDF)
 
-**First published:**
-
-12/03/2026
+**First published:** 12/03/2026
 
 [View](/da/documents/all-authorised-presentations/exdensur-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (54.67 KB - PDF)
 
-**First published:**
-
-12/03/2026
+**First published:** 12/03/2026
 
 [View](/de/documents/all-authorised-presentations/exdensur-epar-all-authorised-presentations_de.pdf)
 
 eesti keel (ET) (74.84 KB - PDF)
 
-**First published:**
-
-12/03/2026
+**First published:** 12/03/2026
 
 [View](/et/documents/all-authorised-presentations/exdensur-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (49.15 KB - PDF)
 
-**First published:**
-
-12/03/2026
+**First published:** 12/03/2026
 
 [View](/el/documents/all-authorised-presentations/exdensur-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (71.63 KB - PDF)
 
-**First published:**
-
-12/03/2026
+**First published:** 12/03/2026
 
 [View](/fr/documents/all-authorised-presentations/exdensur-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (79.32 KB - PDF)
 
-**First published:**
-
-12/03/2026
+**First published:** 12/03/2026
 
 [View](/hr/documents/all-authorised-presentations/exdensur-epar-all-authorised-presentations_hr.pdf)
 
 íslenska (IS) (66.64 KB - PDF)
 
-**First published:**
-
-12/03/2026
+**First published:** 12/03/2026
 
 [View](/is/documents/all-authorised-presentations/exdensur-epar-all-authorised-presentations_is.pdf)
 
 italiano (IT) (44.55 KB - PDF)
 
-**First published:**
-
-12/03/2026
+**First published:** 12/03/2026
 
 [View](/it/documents/all-authorised-presentations/exdensur-epar-all-authorised-presentations_it.pdf)
 
 latviešu valoda (LV) (87.88 KB - PDF)
 
-**First published:**
-
-12/03/2026
+**First published:** 12/03/2026
 
 [View](/lv/documents/all-authorised-presentations/exdensur-epar-all-authorised-presentations_lv.pdf)
 
 lietuvių kalba (LT) (54.67 KB - PDF)
 
-**First published:**
-
-12/03/2026
+**First published:** 12/03/2026
 
 [View](/lt/documents/all-authorised-presentations/exdensur-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (54.51 KB - PDF)
 
-**First published:**
-
-12/03/2026
+**First published:** 12/03/2026
 
 [View](/hu/documents/all-authorised-presentations/exdensur-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (85.94 KB - PDF)
 
-**First published:**
-
-12/03/2026
+**First published:** 12/03/2026
 
 [View](/mt/documents/all-authorised-presentations/exdensur-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (44.49 KB - PDF)
 
-**First published:**
-
-12/03/2026
+**First published:** 12/03/2026
 
 [View](/nl/documents/all-authorised-presentations/exdensur-epar-all-authorised-presentations_nl.pdf)
 
 norsk (NO) (73.06 KB - PDF)
 
-**First published:**
-
-12/03/2026
+**First published:** 12/03/2026
 
 [View](/no/documents/all-authorised-presentations/exdensur-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (91.98 KB - PDF)
 
-**First published:**
-
-12/03/2026
+**First published:** 12/03/2026
 
 [View](/pl/documents/all-authorised-presentations/exdensur-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (51.06 KB - PDF)
 
-**First published:**
-
-12/03/2026
+**First published:** 12/03/2026
 
 [View](/pt/documents/all-authorised-presentations/exdensur-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (112.7 KB - PDF)
 
-**First published:**
-
-12/03/2026
+**First published:** 12/03/2026
 
 [View](/ro/documents/all-authorised-presentations/exdensur-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (82.58 KB - PDF)
 
-**First published:**
-
-12/03/2026
+**First published:** 12/03/2026
 
 [View](/sk/documents/all-authorised-presentations/exdensur-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (49.88 KB - PDF)
 
-**First published:**
-
-12/03/2026
+**First published:** 12/03/2026
 
 [View](/sl/documents/all-authorised-presentations/exdensur-epar-all-authorised-presentations_sl.pdf)
 
 Suomi (FI) (70.08 KB - PDF)
 
-**First published:**
-
-12/03/2026
+**First published:** 12/03/2026
 
 [View](/fi/documents/all-authorised-presentations/exdensur-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (51.87 KB - PDF)
 
-**First published:**
-
-12/03/2026
+**First published:** 12/03/2026
 
 [View](/sv/documents/all-authorised-presentations/exdensur-epar-all-authorised-presentations_sv.pdf)
 
 ## Product details
 
-Name of medicine Exdensur Active substance depemokimab International non-proprietary name (INN) or common name depemokimab Therapeutic area (MeSH)
+Name of medicine
+
+Exdensur
+
+Active substance
+
+depemokimab
+
+International non-proprietary name (INN) or common name
+
+depemokimab
+
+Therapeutic area (MeSH)
 
 - Asthma
 - Nasal Polyps
 
-Anatomical therapeutic chemical (ATC) code R03DX12
+Anatomical therapeutic chemical (ATC) code
+
+R03DX12
 
 ### Pharmacotherapeutic group
 
@@ -733,13 +613,19 @@ Drugs for obstructive airway diseases
 
 ### Therapeutic indication
 
-Asthma Exdensur is indicated as add-on maintenance treatment for severe asthma with type 2 inflammation characterised by blood eosinophil count in adults and adolescents 12 years and older who are inadequately controlled despite high dose inhaled corticosteroids (ICS) plus another asthma controller (see section 5.1).
+Asthma
 
-Chronic rhinosinusitis with nasal polyps (CRSwNP) Exdensur is indicated as an add-on therapy with intranasal corticosteroids for the treatment of adult patients with severe CRSwNP for whom therapy with systemic corticosteroids and/or surgery do not provide adequate disease control.
+Exdensur is indicated as add-on maintenance treatment for severe asthma with type 2 inflammation characterised by blood eosinophil count in adults and adolescents 12 years and older who are inadequately controlled despite high dose inhaled corticosteroids (ICS) plus another asthma controller (see section 5.1).
+
+Chronic rhinosinusitis with nasal polyps (CRSwNP)
+
+Exdensur is indicated as an add-on therapy with intranasal corticosteroids for the treatment of adult patients with severe CRSwNP for whom therapy with systemic corticosteroids and/or surgery do not provide adequate disease control.
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/006446
+EMA product number
+
+EMEA/H/C/006446
 
 Additional monitoring
 
@@ -749,19 +635,41 @@ Marketing authorisation holder
 
 GlaxoSmithKline Trading Services Limited
 
-12 River Walk Citywest Business Campus Dublin 24 D24 YK11 Ireland
+12 Riverwalk Citywest Business Campus Dublin 24 D24 YK11 Ireland
 
-Opinion adopted 11/12/2025 Marketing authorisation issued 12/02/2026
+Opinion adopted
+
+11/12/2025
+
+Marketing authorisation issued
+
+12/02/2026
+
+Revision
+
+1
 
 ## Assessment history
+
+Expand section
+
+Collapse section
+
+## Changes since initial authorisation of medicine
+
+Exdensur : EPAR - Procedural steps taken and scientific information after authorisation
+
+English (EN) (140.94 KB - PDF)
+
+**First published:** 11/05/2026
+
+[View](/en/documents/procedural-steps-after/exdensur-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
 ## Initial marketing authorisation documents
 
 Exdensur : EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMADOC-1829012207-16378
+Adopted Reference Number: EMADOC-1829012207-16378
 
 English (EN) (6.62 MB - PDF)
 
@@ -771,9 +679,7 @@ English (EN) (6.62 MB - PDF)
 
 CHMP summary of positive opinion for Exdensur
 
-Adopted
-
-Reference Number: EMADOC-1829012207-35814
+Adopted Reference Number: EMADOC-1829012207-35814
 
 English (EN) (149.11 KB - PDF)
 
@@ -783,10 +689,12 @@ English (EN) (149.11 KB - PDF)
 
 ## News on Exdensur
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 8-11 December 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-8-11-december-2025) 12/12/2025
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 8-11 December 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-8-11-december-2025)
 
-**This page was last updated on** 12/03/2026
+12/12/2025
+
+**This page was last updated on**
+
+11/05/2026
 
 ## Share this page
-
-[Back to top](#main-content)

@@ -1,32 +1,32 @@
 ---
-document_datetime: 2025-12-17 16:40:00
+document_datetime: 2026-05-13 17:18:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/lucentis.html
 document_name: lucentis.html
 version: success
-processing_time: 0.1710277
-conversion_datetime: 2026-01-03 13:20:15.459851
+processing_time: 0.1688307
+conversion_datetime: 2026-05-16 12:15:47.912778
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.17.0
+  docling-jobkit: 1.18.0
+  docling: 2.92.0
+  docling-core: 2.74.1
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.10.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
 ---
 # Lucentis
 
 [RSS](/en/individual-human-medicine.xml/65486)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-ranibizumab Medicine Human Authorised
+ranibizumab
 
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
+Medicine Human Authorised
 
 Page contents
 
@@ -149,275 +149,141 @@ Reference Number: EMA/554038/2018
 
 English (EN) (90.1 KB - PDF)
 
-**First published:** 12/12/2008
-
-**Last updated:** 06/11/2018
+**First published:** 12/12/2008 **Last updated:** 06/11/2018
 
 [View](/en/documents/overview/lucentis-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-143)
+[Other languages (22)](#file-language-dropdown-198)
 
 български (BG) (121.39 KB - PDF)
 
-**First published:**
-
-12/12/2008
-
-**Last updated:**
-
-06/11/2018
+**First published:** 12/12/2008 **Last updated:** 06/11/2018
 
 [View](/bg/documents/overview/lucentis-epar-medicine-overview_bg.pdf)
 
 español (ES) (90.13 KB - PDF)
 
-**First published:**
-
-12/12/2008
-
-**Last updated:**
-
-06/11/2018
+**First published:** 12/12/2008 **Last updated:** 06/11/2018
 
 [View](/es/documents/overview/lucentis-epar-medicine-overview_es.pdf)
 
 čeština (CS) (117.37 KB - PDF)
 
-**First published:**
-
-12/12/2008
-
-**Last updated:**
-
-06/11/2018
+**First published:** 12/12/2008 **Last updated:** 06/11/2018
 
 [View](/cs/documents/overview/lucentis-epar-medicine-overview_cs.pdf)
 
 dansk (DA) (87.1 KB - PDF)
 
-**First published:**
-
-12/12/2008
-
-**Last updated:**
-
-06/11/2018
+**First published:** 12/12/2008 **Last updated:** 06/11/2018
 
 [View](/da/documents/overview/lucentis-epar-medicine-overview_da.pdf)
 
 Deutsch (DE) (90.77 KB - PDF)
 
-**First published:**
-
-12/12/2008
-
-**Last updated:**
-
-06/11/2018
+**First published:** 12/12/2008 **Last updated:** 06/11/2018
 
 [View](/de/documents/overview/lucentis-epar-medicine-overview_de.pdf)
 
 eesti keel (ET) (87.67 KB - PDF)
 
-**First published:**
-
-12/12/2008
-
-**Last updated:**
-
-06/11/2018
+**First published:** 12/12/2008 **Last updated:** 06/11/2018
 
 [View](/et/documents/overview/lucentis-epar-medicine-overview_et.pdf)
 
 ελληνικά (EL) (129.92 KB - PDF)
 
-**First published:**
-
-12/12/2008
-
-**Last updated:**
-
-06/11/2018
+**First published:** 12/12/2008 **Last updated:** 06/11/2018
 
 [View](/el/documents/overview/lucentis-epar-medicine-overview_el.pdf)
 
 français (FR) (91.21 KB - PDF)
 
-**First published:**
-
-12/12/2008
-
-**Last updated:**
-
-06/11/2018
+**First published:** 12/12/2008 **Last updated:** 06/11/2018
 
 [View](/fr/documents/overview/lucentis-epar-medicine-overview_fr.pdf)
 
 hrvatski (HR) (112.05 KB - PDF)
 
-**First published:**
-
-12/12/2008
-
-**Last updated:**
-
-06/11/2018
+**First published:** 12/12/2008 **Last updated:** 06/11/2018
 
 [View](/hr/documents/overview/lucentis-epar-medicine-overview_hr.pdf)
 
 italiano (IT) (88.38 KB - PDF)
 
-**First published:**
-
-12/12/2008
-
-**Last updated:**
-
-06/11/2018
+**First published:** 12/12/2008 **Last updated:** 06/11/2018
 
 [View](/it/documents/overview/lucentis-epar-medicine-overview_it.pdf)
 
 latviešu valoda (LV) (116.54 KB - PDF)
 
-**First published:**
-
-12/12/2008
-
-**Last updated:**
-
-06/11/2018
+**First published:** 12/12/2008 **Last updated:** 06/11/2018
 
 [View](/lv/documents/overview/lucentis-epar-medicine-overview_lv.pdf)
 
 lietuvių kalba (LT) (116.92 KB - PDF)
 
-**First published:**
-
-12/12/2008
-
-**Last updated:**
-
-06/11/2018
+**First published:** 12/12/2008 **Last updated:** 06/11/2018
 
 [View](/lt/documents/overview/lucentis-epar-medicine-overview_lt.pdf)
 
 magyar (HU) (113.73 KB - PDF)
 
-**First published:**
-
-12/12/2008
-
-**Last updated:**
-
-06/11/2018
+**First published:** 12/12/2008 **Last updated:** 06/11/2018
 
 [View](/hu/documents/overview/lucentis-epar-medicine-overview_hu.pdf)
 
 Malti (MT) (119.26 KB - PDF)
 
-**First published:**
-
-12/12/2008
-
-**Last updated:**
-
-06/11/2018
+**First published:** 12/12/2008 **Last updated:** 06/11/2018
 
 [View](/mt/documents/overview/lucentis-epar-medicine-overview_mt.pdf)
 
 Nederlands (NL) (88.41 KB - PDF)
 
-**First published:**
-
-12/12/2008
-
-**Last updated:**
-
-06/11/2018
+**First published:** 12/12/2008 **Last updated:** 06/11/2018
 
 [View](/nl/documents/overview/lucentis-epar-medicine-overview_nl.pdf)
 
 polski (PL) (116.19 KB - PDF)
 
-**First published:**
-
-12/12/2008
-
-**Last updated:**
-
-06/11/2018
+**First published:** 12/12/2008 **Last updated:** 06/11/2018
 
 [View](/pl/documents/overview/lucentis-epar-medicine-overview_pl.pdf)
 
 português (PT) (88.81 KB - PDF)
 
-**First published:**
-
-12/12/2008
-
-**Last updated:**
-
-06/11/2018
+**First published:** 12/12/2008 **Last updated:** 06/11/2018
 
 [View](/pt/documents/overview/lucentis-epar-medicine-overview_pt.pdf)
 
 română (RO) (114.66 KB - PDF)
 
-**First published:**
-
-12/12/2008
-
-**Last updated:**
-
-06/11/2018
+**First published:** 12/12/2008 **Last updated:** 06/11/2018
 
 [View](/ro/documents/overview/lucentis-epar-medicine-overview_ro.pdf)
 
 slovenčina (SK) (115.58 KB - PDF)
 
-**First published:**
-
-12/12/2008
-
-**Last updated:**
-
-06/11/2018
+**First published:** 12/12/2008 **Last updated:** 06/11/2018
 
 [View](/sk/documents/overview/lucentis-epar-medicine-overview_sk.pdf)
 
 slovenščina (SL) (111.14 KB - PDF)
 
-**First published:**
-
-12/12/2008
-
-**Last updated:**
-
-06/11/2018
+**First published:** 12/12/2008 **Last updated:** 06/11/2018
 
 [View](/sl/documents/overview/lucentis-epar-medicine-overview_sl.pdf)
 
 Suomi (FI) (88.33 KB - PDF)
 
-**First published:**
-
-12/12/2008
-
-**Last updated:**
-
-06/11/2018
+**First published:** 12/12/2008 **Last updated:** 06/11/2018
 
 [View](/fi/documents/overview/lucentis-epar-medicine-overview_fi.pdf)
 
 svenska (SV) (88.75 KB - PDF)
 
-**First published:**
-
-12/12/2008
-
-**Last updated:**
-
-06/11/2018
+**First published:** 12/12/2008 **Last updated:** 06/11/2018
 
 [View](/sv/documents/overview/lucentis-epar-medicine-overview_sv.pdf)
 
@@ -425,9 +291,7 @@ Lucentis : EPAR - Risk Management Plan
 
 English (EN) (13.81 MB - PDF)
 
-**First published:** 31/08/2018
-
-**Last updated:** 17/05/2023
+**First published:** 31/08/2018 **Last updated:** 17/05/2023
 
 [View](/en/documents/rmp/lucentis-epar-risk-management-plan_en.pdf)
 
@@ -435,305 +299,161 @@ English (EN) (13.81 MB - PDF)
 
 Lucentis : EPAR - Product Information
 
-English (EN) (1.08 MB - PDF)
+English (EN) (1.16 MB - PDF)
 
-**First published:** 20/08/2009
-
-**Last updated:** 17/12/2025
+**First published:** 20/08/2009 **Last updated:** 13/05/2026
 
 [View](/en/documents/product-information/lucentis-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-900)
+[Other languages (24)](#file-language-dropdown-853)
 
-български (BG) (1.21 MB - PDF)
+български (BG) (1.33 MB - PDF)
 
-**First published:**
-
-20/08/2009
-
-**Last updated:**
-
-17/12/2025
+**First published:** 20/08/2009 **Last updated:** 13/05/2026
 
 [View](/bg/documents/product-information/lucentis-epar-product-information_bg.pdf)
 
-español (ES) (1.06 MB - PDF)
+español (ES) (1.14 MB - PDF)
 
-**First published:**
-
-20/08/2009
-
-**Last updated:**
-
-17/12/2025
+**First published:** 20/08/2009 **Last updated:** 13/05/2026
 
 [View](/es/documents/product-information/lucentis-epar-product-information_es.pdf)
 
-čeština (CS) (1.12 MB - PDF)
+čeština (CS) (1.21 MB - PDF)
 
-**First published:**
-
-20/08/2009
-
-**Last updated:**
-
-17/12/2025
+**First published:** 20/08/2009 **Last updated:** 13/05/2026
 
 [View](/cs/documents/product-information/lucentis-epar-product-information_cs.pdf)
 
-dansk (DA) (983.27 KB - PDF)
+dansk (DA) (1.19 MB - PDF)
 
-**First published:**
-
-20/08/2009
-
-**Last updated:**
-
-17/12/2025
+**First published:** 20/08/2009 **Last updated:** 13/05/2026
 
 [View](/da/documents/product-information/lucentis-epar-product-information_da.pdf)
 
-Deutsch (DE) (963.91 KB - PDF)
+Deutsch (DE) (1.03 MB - PDF)
 
-**First published:**
-
-20/08/2009
-
-**Last updated:**
-
-17/12/2025
+**First published:** 20/08/2009 **Last updated:** 13/05/2026
 
 [View](/de/documents/product-information/lucentis-epar-product-information_de.pdf)
 
-eesti keel (ET) (1.03 MB - PDF)
+eesti keel (ET) (1.12 MB - PDF)
 
-**First published:**
-
-20/08/2009
-
-**Last updated:**
-
-17/12/2025
+**First published:** 20/08/2009 **Last updated:** 13/05/2026
 
 [View](/et/documents/product-information/lucentis-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.2 MB - PDF)
+ελληνικά (EL) (1.37 MB - PDF)
 
-**First published:**
-
-20/08/2009
-
-**Last updated:**
-
-17/12/2025
+**First published:** 20/08/2009 **Last updated:** 13/05/2026
 
 [View](/el/documents/product-information/lucentis-epar-product-information_el.pdf)
 
-français (FR) (1.16 MB - PDF)
+français (FR) (1.25 MB - PDF)
 
-**First published:**
-
-20/08/2009
-
-**Last updated:**
-
-17/12/2025
+**First published:** 20/08/2009 **Last updated:** 13/05/2026
 
 [View](/fr/documents/product-information/lucentis-epar-product-information_fr.pdf)
 
-hrvatski (HR) (1.01 MB - PDF)
+hrvatski (HR) (1.09 MB - PDF)
 
-**First published:**
-
-20/08/2009
-
-**Last updated:**
-
-17/12/2025
+**First published:** 20/08/2009 **Last updated:** 13/05/2026
 
 [View](/hr/documents/product-information/lucentis-epar-product-information_hr.pdf)
 
-íslenska (IS) (1.27 MB - PDF)
+íslenska (IS) (1.38 MB - PDF)
 
-**First published:**
-
-20/08/2009
-
-**Last updated:**
-
-17/12/2025
+**First published:** 20/08/2009 **Last updated:** 13/05/2026
 
 [View](/is/documents/product-information/lucentis-epar-product-information_is.pdf)
 
-italiano (IT) (1.11 MB - PDF)
+italiano (IT) (1.19 MB - PDF)
 
-**First published:**
-
-20/08/2009
-
-**Last updated:**
-
-17/12/2025
+**First published:** 20/08/2009 **Last updated:** 13/05/2026
 
 [View](/it/documents/product-information/lucentis-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (1006.78 KB - PDF)
+latviešu valoda (LV) (1.06 MB - PDF)
 
-**First published:**
-
-20/08/2009
-
-**Last updated:**
-
-17/12/2025
+**First published:** 20/08/2009 **Last updated:** 13/05/2026
 
 [View](/lv/documents/product-information/lucentis-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (1 MB - PDF)
+lietuvių kalba (LT) (1.09 MB - PDF)
 
-**First published:**
-
-20/08/2009
-
-**Last updated:**
-
-17/12/2025
+**First published:** 20/08/2009 **Last updated:** 13/05/2026
 
 [View](/lt/documents/product-information/lucentis-epar-product-information_lt.pdf)
 
-magyar (HU) (1.05 MB - PDF)
+magyar (HU) (1.12 MB - PDF)
 
-**First published:**
-
-20/08/2009
-
-**Last updated:**
-
-17/12/2025
+**First published:** 20/08/2009 **Last updated:** 13/05/2026
 
 [View](/hu/documents/product-information/lucentis-epar-product-information_hu.pdf)
 
-Malti (MT) (1.21 MB - PDF)
+Malti (MT) (1.37 MB - PDF)
 
-**First published:**
-
-20/08/2009
-
-**Last updated:**
-
-17/12/2025
+**First published:** 20/08/2009 **Last updated:** 13/05/2026
 
 [View](/mt/documents/product-information/lucentis-epar-product-information_mt.pdf)
 
-Nederlands (NL) (920.75 KB - PDF)
+Nederlands (NL) (1000.11 KB - PDF)
 
-**First published:**
-
-20/08/2009
-
-**Last updated:**
-
-17/12/2025
+**First published:** 20/08/2009 **Last updated:** 13/05/2026
 
 [View](/nl/documents/product-information/lucentis-epar-product-information_nl.pdf)
 
-norsk (NO) (917.29 KB - PDF)
+norsk (NO) (990.43 KB - PDF)
 
-**First published:**
-
-20/08/2009
-
-**Last updated:**
-
-17/12/2025
+**First published:** 20/08/2009 **Last updated:** 13/05/2026
 
 [View](/no/documents/product-information/lucentis-epar-product-information_no.pdf)
 
-polski (PL) (1.23 MB - PDF)
+polski (PL) (1.3 MB - PDF)
 
-**First published:**
-
-20/08/2009
-
-**Last updated:**
-
-17/12/2025
+**First published:** 20/08/2009 **Last updated:** 13/05/2026
 
 [View](/pl/documents/product-information/lucentis-epar-product-information_pl.pdf)
 
-português (PT) (964.17 KB - PDF)
+português (PT) (1.02 MB - PDF)
 
-**First published:**
-
-20/08/2009
-
-**Last updated:**
-
-17/12/2025
+**First published:** 20/08/2009 **Last updated:** 13/05/2026
 
 [View](/pt/documents/product-information/lucentis-epar-product-information_pt.pdf)
 
-română (RO) (1.06 MB - PDF)
+română (RO) (1.15 MB - PDF)
 
-**First published:**
-
-20/08/2009
-
-**Last updated:**
-
-17/12/2025
+**First published:** 20/08/2009 **Last updated:** 13/05/2026
 
 [View](/ro/documents/product-information/lucentis-epar-product-information_ro.pdf)
 
-slovenčina (SK) (986.95 KB - PDF)
+slovenčina (SK) (1.05 MB - PDF)
 
-**First published:**
-
-20/08/2009
-
-**Last updated:**
-
-17/12/2025
+**First published:** 20/08/2009 **Last updated:** 13/05/2026
 
 [View](/sk/documents/product-information/lucentis-epar-product-information_sk.pdf)
 
-slovenščina (SL) (1017.85 KB - PDF)
+slovenščina (SL) (1.07 MB - PDF)
 
-**First published:**
-
-20/08/2009
-
-**Last updated:**
-
-17/12/2025
+**First published:** 20/08/2009 **Last updated:** 13/05/2026
 
 [View](/sl/documents/product-information/lucentis-epar-product-information_sl.pdf)
 
-Suomi (FI) (941.94 KB - PDF)
+Suomi (FI) (1.01 MB - PDF)
 
-**First published:**
-
-20/08/2009
-
-**Last updated:**
-
-17/12/2025
+**First published:** 20/08/2009 **Last updated:** 13/05/2026
 
 [View](/fi/documents/product-information/lucentis-epar-product-information_fi.pdf)
 
-svenska (SV) (982.52 KB - PDF)
+svenska (SV) (1.07 MB - PDF)
 
-**First published:**
-
-20/08/2009
-
-**Last updated:**
-
-17/12/2025
+**First published:** 20/08/2009 **Last updated:** 13/05/2026
 
 [View](/sv/documents/product-information/lucentis-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000316069 16/12/2025
+**Latest procedure affecting product information:** VR/0000344293
+
+13/05/2026
 
 icon globe
 
@@ -753,299 +473,153 @@ Lucentis : EPAR - All Authorised presentations
 
 English (EN) (81.14 KB - PDF)
 
-**First published:** 14/03/2007
-
-**Last updated:** 17/12/2025
+**First published:** 14/03/2007 **Last updated:** 17/12/2025
 
 [View](/en/documents/all-authorised-presentations/lucentis-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-172)
+[Other languages (24)](#file-language-dropdown-18)
 
 български (BG) (90.3 KB - PDF)
 
-**First published:**
-
-14/03/2007
-
-**Last updated:**
-
-17/12/2025
+**First published:** 14/03/2007 **Last updated:** 17/12/2025
 
 [View](/bg/documents/all-authorised-presentations/lucentis-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (82.31 KB - PDF)
 
-**First published:**
-
-14/03/2007
-
-**Last updated:**
-
-17/12/2025
+**First published:** 14/03/2007 **Last updated:** 17/12/2025
 
 [View](/es/documents/all-authorised-presentations/lucentis-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (67.56 KB - PDF)
 
-**First published:**
-
-14/03/2007
-
-**Last updated:**
-
-17/12/2025
+**First published:** 14/03/2007 **Last updated:** 17/12/2025
 
 [View](/cs/documents/all-authorised-presentations/lucentis-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (83.83 KB - PDF)
 
-**First published:**
-
-14/03/2007
-
-**Last updated:**
-
-17/12/2025
+**First published:** 14/03/2007 **Last updated:** 17/12/2025
 
 [View](/da/documents/all-authorised-presentations/lucentis-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (83.78 KB - PDF)
 
-**First published:**
-
-14/03/2007
-
-**Last updated:**
-
-17/12/2025
+**First published:** 14/03/2007 **Last updated:** 17/12/2025
 
 [View](/de/documents/all-authorised-presentations/lucentis-epar-all-authorised-presentations_de.pdf)
 
 eesti keel (ET) (80.11 KB - PDF)
 
-**First published:**
-
-14/03/2007
-
-**Last updated:**
-
-17/12/2025
+**First published:** 14/03/2007 **Last updated:** 17/12/2025
 
 [View](/et/documents/all-authorised-presentations/lucentis-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (87.7 KB - PDF)
 
-**First published:**
-
-14/03/2007
-
-**Last updated:**
-
-17/12/2025
+**First published:** 14/03/2007 **Last updated:** 17/12/2025
 
 [View](/el/documents/all-authorised-presentations/lucentis-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (82.68 KB - PDF)
 
-**First published:**
-
-14/03/2007
-
-**Last updated:**
-
-17/12/2025
+**First published:** 14/03/2007 **Last updated:** 17/12/2025
 
 [View](/fr/documents/all-authorised-presentations/lucentis-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (65.24 KB - PDF)
 
-**First published:**
-
-14/03/2007
-
-**Last updated:**
-
-17/12/2025
+**First published:** 14/03/2007 **Last updated:** 17/12/2025
 
 [View](/hr/documents/all-authorised-presentations/lucentis-epar-all-authorised-presentations_hr.pdf)
 
 íslenska (IS) (64.37 KB - PDF)
 
-**First published:**
-
-14/03/2007
-
-**Last updated:**
-
-17/12/2025
+**First published:** 14/03/2007 **Last updated:** 17/12/2025
 
 [View](/is/documents/all-authorised-presentations/lucentis-epar-all-authorised-presentations_is.pdf)
 
 italiano (IT) (61.96 KB - PDF)
 
-**First published:**
-
-14/03/2007
-
-**Last updated:**
-
-17/12/2025
+**First published:** 14/03/2007 **Last updated:** 17/12/2025
 
 [View](/it/documents/all-authorised-presentations/lucentis-epar-all-authorised-presentations_it.pdf)
 
 latviešu valoda (LV) (85.89 KB - PDF)
 
-**First published:**
-
-14/03/2007
-
-**Last updated:**
-
-17/12/2025
+**First published:** 14/03/2007 **Last updated:** 17/12/2025
 
 [View](/lv/documents/all-authorised-presentations/lucentis-epar-all-authorised-presentations_lv.pdf)
 
 lietuvių kalba (LT) (86.34 KB - PDF)
 
-**First published:**
-
-14/03/2007
-
-**Last updated:**
-
-17/12/2025
+**First published:** 14/03/2007 **Last updated:** 17/12/2025
 
 [View](/lt/documents/all-authorised-presentations/lucentis-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (66.63 KB - PDF)
 
-**First published:**
-
-14/03/2007
-
-**Last updated:**
-
-17/12/2025
+**First published:** 14/03/2007 **Last updated:** 17/12/2025
 
 [View](/hu/documents/all-authorised-presentations/lucentis-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (68.43 KB - PDF)
 
-**First published:**
-
-14/03/2007
-
-**Last updated:**
-
-17/12/2025
+**First published:** 14/03/2007 **Last updated:** 17/12/2025
 
 [View](/mt/documents/all-authorised-presentations/lucentis-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (61.86 KB - PDF)
 
-**First published:**
-
-14/03/2007
-
-**Last updated:**
-
-17/12/2025
+**First published:** 14/03/2007 **Last updated:** 17/12/2025
 
 [View](/nl/documents/all-authorised-presentations/lucentis-epar-all-authorised-presentations_nl.pdf)
 
 norsk (NO) (65.24 KB - PDF)
 
-**First published:**
-
-14/03/2007
-
-**Last updated:**
-
-17/12/2025
+**First published:** 14/03/2007 **Last updated:** 17/12/2025
 
 [View](/no/documents/all-authorised-presentations/lucentis-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (67.44 KB - PDF)
 
-**First published:**
-
-14/03/2007
-
-**Last updated:**
-
-17/12/2025
+**First published:** 14/03/2007 **Last updated:** 17/12/2025
 
 [View](/pl/documents/all-authorised-presentations/lucentis-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (82.75 KB - PDF)
 
-**First published:**
-
-14/03/2007
-
-**Last updated:**
-
-17/12/2025
+**First published:** 14/03/2007 **Last updated:** 17/12/2025
 
 [View](/pt/documents/all-authorised-presentations/lucentis-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (66.22 KB - PDF)
 
-**First published:**
-
-14/03/2007
-
-**Last updated:**
-
-17/12/2025
+**First published:** 14/03/2007 **Last updated:** 17/12/2025
 
 [View](/ro/documents/all-authorised-presentations/lucentis-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (86.92 KB - PDF)
 
-**First published:**
-
-14/03/2007
-
-**Last updated:**
-
-17/12/2025
+**First published:** 14/03/2007 **Last updated:** 17/12/2025
 
 [View](/sk/documents/all-authorised-presentations/lucentis-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (63.22 KB - PDF)
 
-**First published:**
-
-14/03/2007
-
-**Last updated:**
-
-17/12/2025
+**First published:** 14/03/2007 **Last updated:** 17/12/2025
 
 [View](/sl/documents/all-authorised-presentations/lucentis-epar-all-authorised-presentations_sl.pdf)
 
 Suomi (FI) (79.01 KB - PDF)
 
-**First published:**
-
-14/03/2007
-
-**Last updated:**
-
-17/12/2025
+**First published:** 14/03/2007 **Last updated:** 17/12/2025
 
 [View](/fi/documents/all-authorised-presentations/lucentis-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (81.81 KB - PDF)
 
-**First published:**
-
-14/03/2007
-
-**Last updated:**
-
-17/12/2025
+**First published:** 14/03/2007 **Last updated:** 17/12/2025
 
 [View](/sv/documents/all-authorised-presentations/lucentis-epar-all-authorised-presentations_sv.pdf)
 
@@ -1053,293 +627,165 @@ Lucentis : EPAR - Conditions imposed on member states for safe and effective use
 
 English (EN) (119 KB - PDF)
 
-**First published:** 14/03/2007
-
-**Last updated:** 21/06/2011
+**First published:** 14/03/2007 **Last updated:** 21/06/2011
 
 [View](/en/documents/conditions-member-states/lucentis-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-317)
+[Other languages (23)](#file-language-dropdown-556)
 
 български (BG) (164.95 KB - PDF)
 
-**First published:**
-
-14/03/2007
-
-**Last updated:**
-
-21/06/2011
+**First published:** 14/03/2007 **Last updated:** 21/06/2011
 
 [View](/bg/documents/conditions-member-states/lucentis-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_bg.pdf)
 
 español (ES) (123.7 KB - PDF)
 
-**First published:**
-
-14/03/2007
-
-**Last updated:**
-
-21/06/2011
+**First published:** 14/03/2007 **Last updated:** 21/06/2011
 
 [View](/es/documents/conditions-member-states/lucentis-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_es.pdf)
 
 čeština (CS) (177.9 KB - PDF)
 
-**First published:**
-
-14/03/2007
-
-**Last updated:**
-
-21/06/2011
+**First published:** 14/03/2007 **Last updated:** 21/06/2011
 
 [View](/cs/documents/conditions-member-states/lucentis-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_cs.pdf)
 
 dansk (DA) (116.79 KB - PDF)
 
-**First published:**
-
-14/03/2007
-
-**Last updated:**
-
-21/06/2011
+**First published:** 14/03/2007 **Last updated:** 21/06/2011
 
 [View](/da/documents/conditions-member-states/lucentis-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_da.pdf)
 
 Deutsch (DE) (122.25 KB - PDF)
 
-**First published:**
-
-14/03/2007
-
-**Last updated:**
-
-21/06/2011
+**First published:** 14/03/2007 **Last updated:** 21/06/2011
 
 [View](/de/documents/conditions-member-states/lucentis-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_de.pdf)
 
 eesti keel (ET) (143.79 KB - PDF)
 
-**First published:**
-
-14/03/2007
-
-**Last updated:**
-
-21/06/2011
+**First published:** 14/03/2007 **Last updated:** 21/06/2011
 
 [View](/et/documents/conditions-member-states/lucentis-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_et.pdf)
 
 ελληνικά (EL) (160.53 KB - PDF)
 
-**First published:**
-
-14/03/2007
-
-**Last updated:**
-
-21/06/2011
+**First published:** 14/03/2007 **Last updated:** 21/06/2011
 
 [View](/el/documents/conditions-member-states/lucentis-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_el.pdf)
 
 français (FR) (177.93 KB - PDF)
 
-**First published:**
-
-14/03/2007
-
-**Last updated:**
-
-21/06/2011
+**First published:** 14/03/2007 **Last updated:** 21/06/2011
 
 [View](/fr/documents/conditions-member-states/lucentis-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_fr.pdf)
 
 íslenska (IS) (127.52 KB - PDF)
 
-**First published:**
-
-14/03/2007
-
-**Last updated:**
-
-21/06/2011
+**First published:** 14/03/2007 **Last updated:** 21/06/2011
 
 [View](/is/documents/conditions-member-states/lucentis-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_is.pdf)
 
 italiano (IT) (173.59 KB - PDF)
 
-**First published:**
-
-14/03/2007
-
-**Last updated:**
-
-21/06/2011
+**First published:** 14/03/2007 **Last updated:** 21/06/2011
 
 [View](/it/documents/conditions-member-states/lucentis-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_it.pdf)
 
 latviešu valoda (LV) (175.12 KB - PDF)
 
-**First published:**
-
-14/03/2007
-
-**Last updated:**
-
-21/06/2011
+**First published:** 14/03/2007 **Last updated:** 21/06/2011
 
 [View](/lv/documents/conditions-member-states/lucentis-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_lv.pdf)
 
 lietuvių kalba (LT) (195.28 KB - PDF)
 
-**First published:**
-
-14/03/2007
-
-**Last updated:**
-
-21/06/2011
+**First published:** 14/03/2007 **Last updated:** 21/06/2011
 
 [View](/lt/documents/conditions-member-states/lucentis-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_lt.pdf)
 
 magyar (HU) (199.13 KB - PDF)
 
-**First published:**
-
-14/03/2007
-
-**Last updated:**
-
-21/06/2011
+**First published:** 14/03/2007 **Last updated:** 21/06/2011
 
 [View](/hu/documents/conditions-member-states/lucentis-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_hu.pdf)
 
 Malti (MT) (190.56 KB - PDF)
 
-**First published:**
-
-14/03/2007
-
-**Last updated:**
-
-21/06/2011
+**First published:** 14/03/2007 **Last updated:** 21/06/2011
 
 [View](/mt/documents/conditions-member-states/lucentis-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_mt.pdf)
 
 Nederlands (NL) (117.7 KB - PDF)
 
-**First published:**
-
-14/03/2007
-
-**Last updated:**
-
-21/06/2011
+**First published:** 14/03/2007 **Last updated:** 21/06/2011
 
 [View](/nl/documents/conditions-member-states/lucentis-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_nl.pdf)
 
 norsk (NO) (116.29 KB - PDF)
 
-**First published:**
-
-14/03/2007
-
-**Last updated:**
-
-21/06/2011
+**First published:** 14/03/2007 **Last updated:** 21/06/2011
 
 [View](/no/documents/conditions-member-states/lucentis-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_no.pdf)
 
 polski (PL) (178.95 KB - PDF)
 
-**First published:**
-
-14/03/2007
-
-**Last updated:**
-
-21/06/2011
+**First published:** 14/03/2007 **Last updated:** 21/06/2011
 
 [View](/pl/documents/conditions-member-states/lucentis-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_pl.pdf)
 
 português (PT) (119.88 KB - PDF)
 
-**First published:**
-
-14/03/2007
-
-**Last updated:**
-
-21/06/2011
+**First published:** 14/03/2007 **Last updated:** 21/06/2011
 
 [View](/pt/documents/conditions-member-states/lucentis-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_pt.pdf)
 
 română (RO) (195.71 KB - PDF)
 
-**First published:**
-
-14/03/2007
-
-**Last updated:**
-
-21/06/2011
+**First published:** 14/03/2007 **Last updated:** 21/06/2011
 
 [View](/ro/documents/conditions-member-states/lucentis-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_ro.pdf)
 
 slovenčina (SK) (193.58 KB - PDF)
 
-**First published:**
-
-14/03/2007
-
-**Last updated:**
-
-21/06/2011
+**First published:** 14/03/2007 **Last updated:** 21/06/2011
 
 [View](/sk/documents/conditions-member-states/lucentis-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_sk.pdf)
 
 slovenščina (SL) (190.96 KB - PDF)
 
-**First published:**
-
-14/03/2007
-
-**Last updated:**
-
-21/06/2011
+**First published:** 14/03/2007 **Last updated:** 21/06/2011
 
 [View](/sl/documents/conditions-member-states/lucentis-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_sl.pdf)
 
 Suomi (FI) (134.7 KB - PDF)
 
-**First published:**
-
-14/03/2007
-
-**Last updated:**
-
-21/06/2011
+**First published:** 14/03/2007 **Last updated:** 21/06/2011
 
 [View](/fi/documents/conditions-member-states/lucentis-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_fi.pdf)
 
 svenska (SV) (116.04 KB - PDF)
 
-**First published:**
-
-14/03/2007
-
-**Last updated:**
-
-21/06/2011
+**First published:** 14/03/2007 **Last updated:** 21/06/2011
 
 [View](/sv/documents/conditions-member-states/lucentis-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_sv.pdf)
 
 ## Product details
 
-Name of medicine Lucentis Active substance ranibizumab International non-proprietary name (INN) or common name ranibizumab Therapeutic area (MeSH)
+Name of medicine
+
+Lucentis
+
+Active substance
+
+ranibizumab
+
+International non-proprietary name (INN) or common name
+
+ranibizumab
+
+Therapeutic area (MeSH)
 
 - Wet Macular Degeneration
 - Macular Edema
@@ -1347,7 +793,9 @@ Name of medicine Lucentis Active substance ranibizumab International non-proprie
 - Myopia, Degenerative
 - Choroidal Neovascularization
 
-Anatomical therapeutic chemical (ATC) code S01LA04
+Anatomical therapeutic chemical (ATC) code
+
+S01LA04
 
 ### Pharmacotherapeutic group
 
@@ -1364,13 +812,27 @@ Lucentis is indicated in adults for:
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/000715 Marketing authorisation holder
+EMA product number
+
+EMEA/H/C/000715
+
+Marketing authorisation holder
 
 Novartis Europharm Limited
 
 Vista Building
 
-Opinion adopted 16/11/2006 Marketing authorisation issued 22/01/2007 Revision 47
+Opinion adopted
+
+16/11/2006
+
+Marketing authorisation issued
+
+22/01/2007
+
+Revision
+
+48
 
 ## Assessment history
 
@@ -1382,9 +844,9 @@ Collapse section
 
 Lucentis : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (144.94 KB - PDF)
+English (EN) (138.8 KB - PDF)
 
-**First published:** 17/12/2025
+**First published:** 17/12/2025 **Last updated:** 13/05/2026
 
 [View](/en/documents/procedural-steps-after/lucentis-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1392,17 +854,13 @@ Lucentis : EPAR - Procedural steps taken and scientific information after author
 
 English (EN) (280.77 KB - PDF)
 
-**First published:** 20/08/2009
-
-**Last updated:** 17/12/2025
+**First published:** 20/08/2009 **Last updated:** 17/12/2025
 
 [View](/en/documents/procedural-steps-after/lucentis-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 Lucentis-PAM-0000245278 : EPAR - Assessment report
 
-Adopted
-
-Reference Number: EMADOC-1700519818-1849584
+Adopted Reference Number: EMADOC-1700519818-1849584
 
 English (EN) (309.74 KB - PDF)
 
@@ -1422,9 +880,7 @@ English (EN) (1.29 MB - PDF)
 
 Lucentis-H-C-000715-P46-073.1 : EPAR - Assessment Report
 
-Adopted
-
-Reference Number: EMA/CHMP/956289/2022
+Adopted Reference Number: EMA/CHMP/956289/2022
 
 English (EN) (347.75 KB - PDF)
 
@@ -1434,9 +890,7 @@ English (EN) (347.75 KB - PDF)
 
 Lucentis-H-C-715-II-0076 : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/CHMP/499486/2019
+Adopted Reference Number: EMA/CHMP/499486/2019
 
 English (EN) (1.9 MB - PDF)
 
@@ -1446,9 +900,7 @@ English (EN) (1.9 MB - PDF)
 
 Lucentis-H-C-715-II-0074-G : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/CHMP/406682/2019
+Adopted Reference Number: EMA/CHMP/406682/2019
 
 English (EN) (2.84 MB - PDF)
 
@@ -1468,9 +920,7 @@ English (EN) (69.29 KB - PDF)
 
 CHMP post-authorisation summary of positive opinion for Lucentis (II-76)
 
-Adopted
-
-Reference Number: EMA/CHMP/503493/2019
+Adopted Reference Number: EMA/CHMP/503493/2019
 
 English (EN) (74.5 KB - PDF)
 
@@ -1480,9 +930,7 @@ English (EN) (74.5 KB - PDF)
 
 CHMP post-authorisation summary of positive opinion for Lucentis - II/0074/G
 
-Adopted
-
-Reference Number: EMA/CHMP/422841/2019
+Adopted Reference Number: EMA/CHMP/422841/2019
 
 English (EN) (72.96 KB - PDF)
 
@@ -1492,29 +940,21 @@ English (EN) (72.96 KB - PDF)
 
 Lucentis-H-C-000715-P46-073 : EPAR - Assessment Report
 
-Adopted
-
-Reference Number: EMA/599953/2018
+Adopted Reference Number: EMA/599953/2018
 
 English (EN) (198.91 KB - PDF)
 
-**First published:** 07/09/2018
-
-**Last updated:** 07/09/2018
+**First published:** 07/09/2018 **Last updated:** 07/09/2018
 
 [View](/en/documents/variation-report/lucentis-h-c-000715-p46-073-epar-assessment-report_en.pdf)
 
 Lucentis-H-C-715-P46-070 : EPAR - Assessment Report
 
-Adopted
-
-Reference Number: EMA/408120/2016
+Adopted Reference Number: EMA/408120/2016
 
 English (EN) (231.51 KB - PDF)
 
-**First published:** 10/01/2017
-
-**Last updated:** 10/01/2017
+**First published:** 10/01/2017 **Last updated:** 10/01/2017
 
 [View](/en/documents/variation-report/lucentis-h-c-715-p46-070-epar-assessment-report_en.pdf)
 
@@ -1524,37 +964,27 @@ Adopted
 
 English (EN) (943.02 KB - PDF)
 
-**First published:** 12/12/2016
-
-**Last updated:** 12/12/2016
+**First published:** 12/12/2016 **Last updated:** 12/12/2016
 
 [View](/en/documents/variation-report/lucentis-epar-assessment-report-variation_en.pdf)
 
 CHMP post-authorisation summary of positive opinion for Lucentis
 
-Adopted
-
-Reference Number: EMA/CHMP/647568/2016
+Adopted Reference Number: EMA/CHMP/647568/2016
 
 English (EN) (72.02 KB - PDF)
 
-**First published:** 13/10/2016
-
-**Last updated:** 13/10/2016
+**First published:** 13/10/2016 **Last updated:** 13/10/2016
 
 [View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-lucentis_en.pdf-0)
 
 Lucentis-H-C-715-II-0034 : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/716504/2012
+Adopted Reference Number: EMA/716504/2012
 
 English (EN) (668.46 KB - PDF)
 
-**First published:** 02/10/2013
-
-**Last updated:** 02/10/2013
+**First published:** 02/10/2013 **Last updated:** 02/10/2013
 
 [View](/en/documents/variation-report/lucentis-h-c-715-ii-0034-epar-assessment-report-variation_en.pdf)
 
@@ -1564,65 +994,47 @@ Reference Number: EMA/CHMP/320328/2013
 
 English (EN) (72.52 KB - PDF)
 
-**First published:** 31/05/2013
-
-**Last updated:** 31/05/2013
+**First published:** 31/05/2013 **Last updated:** 31/05/2013
 
 [View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-lucentis_en.pdf-1)
 
 Lucentis-H-C-715-II-0022 : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/392690/2011
+Adopted Reference Number: EMA/392690/2011
 
 English (EN) (708.5 KB - PDF)
 
-**First published:** 21/06/2011
-
-**Last updated:** 21/06/2011
+**First published:** 21/06/2011 **Last updated:** 21/06/2011
 
 [View](/en/documents/variation-report/lucentis-h-c-715-ii-0022-epar-assessment-report-variation_en.pdf)
 
 CHMP post-authorisation summary of positive opinion for Lucentis
 
-Adopted
-
-Reference Number: EMA/CHMP/221398/2011
+Adopted Reference Number: EMA/CHMP/221398/2011
 
 English (EN) (128.12 KB - PDF)
 
-**First published:** 18/03/2011
-
-**Last updated:** 18/03/2011
+**First published:** 18/03/2011 **Last updated:** 18/03/2011
 
 [View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-lucentis_en.pdf)
 
 Lucentis-H-C-715-II-0020 : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/13901/2011
+Adopted Reference Number: EMA/13901/2011
 
 English (EN) (417.89 KB - PDF)
 
-**First published:** 20/01/2011
-
-**Last updated:** 20/01/2011
+**First published:** 20/01/2011 **Last updated:** 20/01/2011
 
 [View](/en/documents/variation-report/lucentis-h-c-715-ii-0020-epar-assessment-report-variation_en.pdf)
 
 CHMP post-authorisation summary of positive opinion for Lucentis
 
-Adopted
-
-Reference Number: EMA/CHMP/640157/2010
+Adopted Reference Number: EMA/CHMP/640157/2010
 
 English (EN) (127.01 KB - PDF)
 
-**First published:** 21/10/2010
-
-**Last updated:** 21/10/2010
+**First published:** 21/10/2010 **Last updated:** 21/10/2010
 
 [View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-lucentis_en.pdf-2)
 
@@ -1632,9 +1044,7 @@ Lucentis : EPAR - Scientific Discussion
 
 English (EN) (436.24 KB - PDF)
 
-**First published:** 14/03/2007
-
-**Last updated:** 14/03/2007
+**First published:** 14/03/2007 **Last updated:** 14/03/2007
 
 [View](/en/documents/scientific-discussion/lucentis-epar-scientific-discussion_en.pdf)
 
@@ -1642,25 +1052,33 @@ Lucentis : EPAR - Procedural steps taken before authorisation
 
 English (EN) (23.43 KB - PDF)
 
-**First published:** 14/03/2007
-
-**Last updated:** 14/03/2007
+**First published:** 14/03/2007 **Last updated:** 14/03/2007
 
 [View](/en/documents/procedural-steps/lucentis-epar-procedural-steps-taken-authorisation_en.pdf)
 
-#### News on Lucentis
+## News on Lucentis
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 16-19 September 2019](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-16-19-september-2019) 20/09/2019
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 16-19 September 2019](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-16-19-september-2019)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 16-19 September 2019](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-16-19-september-2019) 20/09/2019
+20/09/2019
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 22-25 July 2019](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-22-25-july-2019) 26/07/2019
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 16-19 September 2019](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-16-19-september-2019)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 10-13 October 2016](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-10-13-october-2016) 14/10/2016
+20/09/2019
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 27-30 May 2013](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-27-30-may-2013) 31/05/2013
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 22-25 July 2019](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-22-25-july-2019)
 
-#### Product information - with tracked changes
+26/07/2019
+
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 10-13 October 2016](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-10-13-october-2016)
+
+14/10/2016
+
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 27-30 May 2013](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-27-30-may-2013)
+
+31/05/2013
+
+## Product information - with tracked changes
 
 The approved product information for this medicine is available below showing the changes since the previous procedure affecting the product information. The same document without tracked changes is above under 'Product information'.
 
@@ -1672,201 +1090,153 @@ English (EN) (1.13 MB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/lucentis-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-972)
+[Other languages (24)](#file-language-dropdown-479)
 
 български (BG) (1.15 MB - DOCX)
 
-**First published:**
-
-17/12/2025
+**First published:** 17/12/2025
 
 [View](/bg/documents/product-information-tracked-changes/lucentis-epar-product-information-tracked-changes_bg.docx)
 
 español (ES) (959 KB - DOCX)
 
-**First published:**
-
-17/12/2025
+**First published:** 17/12/2025
 
 [View](/es/documents/product-information-tracked-changes/lucentis-epar-product-information-tracked-changes_es.docx)
 
 čeština (CS) (935.98 KB - DOCX)
 
-**First published:**
-
-17/12/2025
+**First published:** 17/12/2025
 
 [View](/cs/documents/product-information-tracked-changes/lucentis-epar-product-information-tracked-changes_cs.docx)
 
 dansk (DA) (988.16 KB - DOCX)
 
-**First published:**
-
-17/12/2025
+**First published:** 17/12/2025
 
 [View](/da/documents/product-information-tracked-changes/lucentis-epar-product-information-tracked-changes_da.docx)
 
 Deutsch (DE) (1.07 MB - DOCX)
 
-**First published:**
-
-17/12/2025
+**First published:** 17/12/2025
 
 [View](/de/documents/product-information-tracked-changes/lucentis-epar-product-information-tracked-changes_de.docx)
 
 eesti keel (ET) (896.85 KB - DOCX)
 
-**First published:**
-
-17/12/2025
+**First published:** 17/12/2025
 
 [View](/et/documents/product-information-tracked-changes/lucentis-epar-product-information-tracked-changes_et.docx)
 
 ελληνικά (EL) (1.2 MB - DOCX)
 
-**First published:**
-
-17/12/2025
+**First published:** 17/12/2025
 
 [View](/el/documents/product-information-tracked-changes/lucentis-epar-product-information-tracked-changes_el.docx)
 
 français (FR) (1002.99 KB - DOCX)
 
-**First published:**
-
-17/12/2025
+**First published:** 17/12/2025
 
 [View](/fr/documents/product-information-tracked-changes/lucentis-epar-product-information-tracked-changes_fr.docx)
 
 hrvatski (HR) (915.48 KB - DOCX)
 
-**First published:**
-
-17/12/2025
+**First published:** 17/12/2025
 
 [View](/hr/documents/product-information-tracked-changes/lucentis-epar-product-information-tracked-changes_hr.docx)
 
 íslenska (IS) (1.35 MB - DOCX)
 
-**First published:**
-
-17/12/2025
+**First published:** 17/12/2025
 
 [View](/is/documents/product-information-tracked-changes/lucentis-epar-product-information-tracked-changes_is.docx)
 
 italiano (IT) (986.08 KB - DOCX)
 
-**First published:**
-
-17/12/2025
+**First published:** 17/12/2025
 
 [View](/it/documents/product-information-tracked-changes/lucentis-epar-product-information-tracked-changes_it.docx)
 
 latviešu valoda (LV) (881.05 KB - DOCX)
 
-**First published:**
-
-17/12/2025
+**First published:** 17/12/2025
 
 [View](/lv/documents/product-information-tracked-changes/lucentis-epar-product-information-tracked-changes_lv.docx)
 
 lietuvių kalba (LT) (835.85 KB - DOCX)
 
-**First published:**
-
-17/12/2025
+**First published:** 17/12/2025
 
 [View](/lt/documents/product-information-tracked-changes/lucentis-epar-product-information-tracked-changes_lt.docx)
 
 magyar (HU) (948.57 KB - DOCX)
 
-**First published:**
-
-17/12/2025
+**First published:** 17/12/2025
 
 [View](/hu/documents/product-information-tracked-changes/lucentis-epar-product-information-tracked-changes_hu.docx)
 
 Malti (MT) (1.08 MB - DOCX)
 
-**First published:**
-
-17/12/2025
+**First published:** 17/12/2025
 
 [View](/mt/documents/product-information-tracked-changes/lucentis-epar-product-information-tracked-changes_mt.docx)
 
 Nederlands (NL) (808.61 KB - DOCX)
 
-**First published:**
-
-17/12/2025
+**First published:** 17/12/2025
 
 [View](/nl/documents/product-information-tracked-changes/lucentis-epar-product-information-tracked-changes_nl.docx)
 
 norsk (NO) (881.41 KB - DOCX)
 
-**First published:**
-
-17/12/2025
+**First published:** 17/12/2025
 
 [View](/no/documents/product-information-tracked-changes/lucentis-epar-product-information-tracked-changes_no.docx)
 
 polski (PL) (991.03 KB - DOCX)
 
-**First published:**
-
-17/12/2025
+**First published:** 17/12/2025
 
 [View](/pl/documents/product-information-tracked-changes/lucentis-epar-product-information-tracked-changes_pl.docx)
 
 português (PT) (875.96 KB - DOCX)
 
-**First published:**
-
-17/12/2025
+**First published:** 17/12/2025
 
 [View](/pt/documents/product-information-tracked-changes/lucentis-epar-product-information-tracked-changes_pt.docx)
 
 română (RO) (919.68 KB - DOCX)
 
-**First published:**
-
-17/12/2025
+**First published:** 17/12/2025
 
 [View](/ro/documents/product-information-tracked-changes/lucentis-epar-product-information-tracked-changes_ro.docx)
 
 slovenčina (SK) (802.18 KB - DOCX)
 
-**First published:**
-
-17/12/2025
+**First published:** 17/12/2025
 
 [View](/sk/documents/product-information-tracked-changes/lucentis-epar-product-information-tracked-changes_sk.docx)
 
 slovenščina (SL) (848.55 KB - DOCX)
 
-**First published:**
-
-17/12/2025
+**First published:** 17/12/2025
 
 [View](/sl/documents/product-information-tracked-changes/lucentis-epar-product-information-tracked-changes_sl.docx)
 
 Suomi (FI) (820.41 KB - DOCX)
 
-**First published:**
-
-17/12/2025
+**First published:** 17/12/2025
 
 [View](/fi/documents/product-information-tracked-changes/lucentis-epar-product-information-tracked-changes_fi.docx)
 
 svenska (SV) (1.05 MB - DOCX)
 
-**First published:**
-
-17/12/2025
+**First published:** 17/12/2025
 
 [View](/sv/documents/product-information-tracked-changes/lucentis-epar-product-information-tracked-changes_sv.docx)
 
-#### More information on Lucentis
+## More information on Lucentis
 
 - [EMEA-000527-PIP01-08 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-000527-pip01-08)
 - [EMEA-000527-PIP02-10 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-000527-pip02-10)
@@ -1875,12 +1245,12 @@ svenska (SV) (1.05 MB - DOCX)
 - [EMEA-000527-PIP05-17 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-000527-pip05-17)
 - [Incidence of Retinal Vasculitis With or Without Retinal Vascular Occlusion Among Eyes Treated With Approved Anti-Vascular Endothelial Growth Factor Agents in Neovascular Age-Related Macular Degeneration or Diabetic Macular Edema - post-authorisation study](https://catalogues.ema.europa.eu/study/107731)
 
-#### Topics
+## Topics
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 17/12/2025
+**This page was last updated on**
+
+13/05/2026
 
 ## Share this page
-
-[Back to top](#main-content)

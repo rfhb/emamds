@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-03-25 08:46:49
-document_pages: 56
+document_datetime: 2026-05-13 13:39:48
+document_pages: 57
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/iclusig-epar-product-information_en.pdf
 document_name: iclusig-epar-product-information_en.pdf
 version: success
-processing_time: 20.1454154
-conversion_datetime: 2026-03-29 12:46:58.378997
+processing_time: 19.5198783
+conversion_datetime: 2026-05-16 12:21:47.611592
 docling_version:
-  docling-serve: 1.15.1
-  docling-jobkit: 1.14.0
-  docling: 2.82.0
-  docling-core: 2.70.2
-  docling-ibm-models: 3.13.0
-  docling-parse: 5.6.1
+  docling-serve: 1.17.0
+  docling-jobkit: 1.18.0
+  docling: 2.92.0
+  docling-core: 2.74.1
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.10.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -128,11 +128,11 @@ Dose modifications for neutropenia (ANC* &lt; 1.0 x 10 9 /L) and thrombocytopeni
 
 ## Table 1 Dose modifications for myelosuppression
 
-| ANC* < 1.0 x or platelet < 50 x   | First occurrence: • Iclusig should be withheld and resumed at the same dose after recovery to ANC ≥ 1.5 x 10 9 /L and platelet ≥ 75 x 10 9 /L   |
-|-----------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
-| 10 9 /L 10 9 /L                   | Recurrence at 45 mg: • Iclusig should be withheld and resumed at 30 mg after recovery to ANC ≥ 1.5 x 10 9 /L and platelet ≥ 75 x 10 9 /L        |
-| 10 9 /L 10 9 /L                   | Recurrence at 30 mg: • Iclusig should be withheld and resumed at 15 mg after recovery to ANC ≥ 1.5 x 10 9 /L and platelet ≥ 75 x 10 9 /L        |
-| *ANC = absolute neutrophil count  | *ANC = absolute neutrophil count                                                                                                                |
+| ANC* < 1.0 x 10 9 /L or platelet < 50 x 10 9 /L   | First occurrence: • Iclusig should be withheld and resumed at the same dose after recovery to ANC ≥ 1.5 x 10 9 /L and platelet ≥ 75 x 10 9 /L   |
+|---------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
+|                                                   | Recurrence at 45 mg: • Iclusig should be withheld and resumed at 30 mg after recovery to ANC ≥ 1.5 x 10 9 /L and platelet ≥ 75 x 10 9 /L        |
+|                                                   | Recurrence at 30 mg: • Iclusig should be withheld and resumed at 15 mg after recovery to ANC ≥ 1.5 x 10 9 /L and platelet ≥ 75 x 10 9 /L        |
+| *ANC = absolute neutrophil count                  | *ANC = absolute neutrophil count                                                                                                                |
 
 ## Arterial occlusion and venous thromboembolism
 
@@ -161,10 +161,10 @@ Dose interruption or discontinuation may be required as described in Table 3.
 
 Table 3 Recommended dose modifications for hepatic toxicity
 
-| Elevation of liver transaminase > 3 × ULN* Persistent grade 2 (longer than 7 days) Grade 3 or higher   | Occurrence at 45 mg: • Iclusig should be interrupted and hepatic function should be monitored • Iclusig should be resumed at 30 mg after recovery to ≤ Grade 1 (< 3 × ULN), or recovery to pre-treatment grade Occurrence at 30 mg: • Iclusig should be interrupted and resumed at 15 mg after recovery to ≤ Grade 1, or recovery to pre-treatment grade Occurrence at 15 mg: • Iclusig should be discontinued   |
-|--------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Elevation of AST or ALT ≥ 3 × ULN concurrent with an elevation of                                      | Iclusig should be discontinued                                                                                                                                                                                                                                                                                                                                                                                   |
-| bilirubin > 2 × ULN and alkaline phosphatase < 2 × ULN                                                 |                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| Elevation of liver transaminase > 3 × ULN* Persistent grade 2 (longer than 7 days) Grade 3 or higher   | Occurrence at 45 mg: • Iclusig should be interrupted and hepatic function should be monitored • Iclusig should be resumed at 30 mg after recovery to ≤ Grade 1 (< 3 × ULN), or recovery to pre-treatment grade Occurrence at 30 mg: • Iclusig should be interrupted and resumed at 15 mg after recovery to ≤ Grade 1, or recovery to pre-treatment grade Occurrence at 15 mg:   |
+|--------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Elevation of AST or ALT ≥ 3 × ULN concurrent with an elevation of bilirubin > 2 × ULN and alkaline     |                                                                                                                                                                                                                                                                                                                                                                                 |
+| phosphatase < 2 × ULN                                                                                  | • Iclusig should be discontinued Iclusig should be discontinued                                                                                                                                                                                                                                                                                                                 |
 
 *ULN = Upper Limit of Normal for the lab
 
@@ -248,11 +248,9 @@ Fatal and serious heart failure or left ventricular dysfunction occurred in Iclu
 
 ## Pancreatitis and serum lipase
 
-Iclusig is associated with pancreatitis. The frequency of pancreatitis is greater in the first 2 months of use. Check serum lipase every 2 weeks for the first 2 months and then periodically thereafter. Dose interruption or reduction may be required. If lipase elevations are accompanied by abdominal symptoms, Iclusig should be withheld and patients evaluated for evidence of pancreatitis (see section 4.2). Caution is recommended in patients with a history of pancreatitis or alcohol abuse. Patients with
+Iclusig is associated with pancreatitis. The frequency of pancreatitis is greater in the first 2 months of use. Check serum lipase every 2 weeks for the first 2 months and then periodically thereafter. Dose interruption or reduction may be required. If lipase elevations are accompanied by abdominal symptoms, Iclusig should be withheld and patients evaluated for evidence of pancreatitis (see section 4.2). Caution is recommended in patients with a history of pancreatitis or alcohol abuse. Patients with severe or very severe hypertriglyceridemia should be appropriately managed to reduce the risk of pancreatitis.
 
 <div style=\"page-break-after: always\"></div>
-
-severe or very severe hypertriglyceridemia should be appropriately managed to reduce the risk of pancreatitis.
 
 ## Hepatotoxicity
 
@@ -306,7 +304,7 @@ This medicinal product contains lactose monohydrate. Patients with rare heredita
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
-## Substances that may increase ponatinib serum concentrations
+Substances that may increase ponatinib serum concentrations
 
 ## CYP3A inhibitors
 
@@ -344,7 +342,7 @@ Women of childbearing age being treated with Iclusig should be advised not to be
 
 ## Pregnancy
 
-There are no adequate data from the use of Iclusig in pregnant women. Studies in animals have shown reproductive toxicity (see section 5.3). The potential risk for humans is unknown. Iclusig should be used during pregnancy only when clearly necessary. If it is used during pregnancy, the patient must be informed of the potential risk to the foetus.
+Based on limited human data (less than 50 known pregnancy outcomes), cases of congenital megacolon (Hirschsprung's disease) have been reported in children born to women exposed to ponatinib during the first trimester. Studies in animals have shown reproductive toxicity (see section 5.3). Iclusig should not be used during pregnancy unless the clinical condition of the woman requires treatment with ponatinib. If it is used during pregnancy, the patient must be informed of the potential risk to the foetus.
 
 ## Breast-feeding
 
@@ -368,9 +366,9 @@ Serious arterial cardiovascular, cerebrovascular, and peripheral vascular occlus
 
 Arterial cardiovascular, cerebrovascular, and peripheral vascular occlusive adverse reactions (treatmentemergent frequencies) occurred in 13%, 9%, and 11% of Iclusig -treated patients, respectively. Overall arterial occlusive adverse reactions have occurre d in 25% of Iclusig -treated patients from the PACE phase 2 trial with a minimum 64 months follow-up, with serious adverse reactions occurring in 20% of patients. Some patients experienced more than one type of event.
 
-Venous thromboembolic reactions (treatmentemergent frequencies) occurred in 6% of patients. The incidence of thromboembolic events is higher in patients with Ph+ ALL or BP-CML than those with AP-CML or CP-CML. No venous occlusive events were fatal.
-
 <div style=\"page-break-after: always\"></div>
+
+Venous thromboembolic reactions (treatmentemergent frequencies) occurred in 6% of patients. The incidence of thromboembolic events is higher in patients with Ph+ ALL or BP-CML than those with AP-CML or CP-CML. No venous occlusive events were fatal.
 
 After a minimum follow-up of 64 months, the rates of adverse reactions resulting in discontinuation were 20% in CP -CML, 11% in AP -CML, 15% in BP -CML and 9% in Ph+ ALL.
 
@@ -392,26 +390,26 @@ Frequency categories are very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10)
 
 Table 4 Adverse reactions observed in previously treated CML and Ph+ ALL patients or who have the T315I mutation  - frequency reported by incidence of treatment emergent events
 
-| System organ class                   | Frequency   | Adverse reactions                                             |
-|--------------------------------------|-------------|---------------------------------------------------------------|
-| Infections and infestations          | Very common | upper respiratory tract infection pneumonia, sepsis,          |
-| Blood and lymphatic system disorders | Very common | anaemia, platelet count decreased, neutrophil count decreased |
+| System organ class                   | Frequency          | Adverse reactions                                                              |
+|--------------------------------------|--------------------|--------------------------------------------------------------------------------|
+| Infections and infestations          | Very common Common | upper respiratory tract infection pneumonia, sepsis, folliculitis, cellulitis, |
+| Blood and lymphatic system disorders | Very common        | anaemia, platelet count decreased, neutrophil count decreased                  |
 
 <div style=\"page-break-after: always\"></div>
 
-| System organ class                 | Frequency   | Adverse reactions                                                                                                                                                                                                                                                                         |
-|------------------------------------|-------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|                                    | Common      | pancytopenia, febrile neutropenia, white blood cell count decreased, lymphocyte count decreased, myelosuppression                                                                                                                                                                         |
-| Endocrine disorders                | Common      | hypothyroidism a                                                                                                                                                                                                                                                                          |
-| Metabolism and nutrition disorders | Very common | decreased appetite, hypertriglyceridaemia,                                                                                                                                                                                                                                                |
-| Metabolism and nutrition disorders | Common      | hypercholesterolaemia dehydration, fluid retention, hypocalcaemia, hyperglycaemia, hyperuricaemia, hypophosphataemia, hypokalaemia, weight decreased, hyponatraemia, dyslipidaemia, glucose tolerance impaired, low density lipoprotein increased, weight increase, tumour lysis syndrome |
-| Psychiatric disorders              | Very common | insomnia                                                                                                                                                                                                                                                                                  |
-| Psychiatric disorders              | Common      | anxiety                                                                                                                                                                                                                                                                                   |
-| Nervous system disorders           | Very common | headache, dizziness                                                                                                                                                                                                                                                                       |
-| Nervous system disorders           | Common      | cerebrovascular accident, cerebral infarction, neuropathy peripheral, lethargy, migraine, hyperaesthesia, hypoaesthesia, paraesthesia, transient ischaemic attack, facial nerve disorder, carotid artery stenosis                                                                         |
-| Nervous system disorders           | Uncommon    | cerebral artery stenosis, cerebral haemorrhage, haemorrhage intracranial, posterior reversible encephalopathy syndrome *                                                                                                                                                                  |
-| Eye disorders                      | Common      | vision blurred, dry eye, periorbital oedema, eyelid oedema, conjunctivitis, visual impairment, eye pain, retinal vein occlusion                                                                                                                                                           |
-| Eye disorders                      | Uncommon    | retinal vein thrombosis, retinal artery occlusion                                                                                                                                                                                                                                         |
+| System organ class                 | Frequency   | Adverse reactions                                                                                                                                                                                                                                                   |
+|------------------------------------|-------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                                    | Common      | pancytopenia, febrile neutropenia, white blood cell count decreased, lymphocyte count decreased, myelosuppression                                                                                                                                                   |
+| Endocrine disorders                | Common      | hypothyroidism a                                                                                                                                                                                                                                                    |
+| Metabolism and nutrition disorders | Very common | decreased appetite, hypertriglyceridaemia,                                                                                                                                                                                                                          |
+| Metabolism and nutrition disorders | Common      | hypercholesterolaemia dehydration, fluid retention, hypocalcaemia, hyperglycaemia, hyperuricaemia, hypophosphataemia, hypokalaemia, weight decreased, hyponatraemia, dyslipidaemia, glucose tolerance impaired, low density lipoprotein increased, weight increase, |
+| Psychiatric disorders              | Very common | insomnia                                                                                                                                                                                                                                                            |
+| Psychiatric disorders              | Common      | anxiety                                                                                                                                                                                                                                                             |
+| Nervous system disorders           | Very common | headache, dizziness                                                                                                                                                                                                                                                 |
+| Nervous system disorders           | Common      | cerebrovascular accident, cerebral infarction, neuropathy peripheral, lethargy, migraine, hyperaesthesia, hypoaesthesia, paraesthesia, transient ischaemic attack, facial nerve disorder, carotid artery stenosis                                                   |
+| Nervous system disorders           | Uncommon    | cerebral artery stenosis, cerebral haemorrhage, haemorrhage intracranial, posterior reversible encephalopathy syndrome *                                                                                                                                            |
+| Eye disorders                      | Common      | vision blurred, dry eye, periorbital oedema, eyelid oedema, conjunctivitis, visual impairment, eye pain, retinal vein occlusion                                                                                                                                     |
+| Eye disorders                      | Uncommon    | retinal vein thrombosis, retinal artery occlusion                                                                                                                                                                                                                   |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -424,7 +422,7 @@ Table 4 Adverse reactions observed in previously treated CML and Ph+ ALL patient
 | Vascular disorders                              | Uncommon    | poor peripheral circulation, splenic infarction, embolism venous, venous thrombosis, renal artery stenosis                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 | Vascular disorders                              | Not known   | aneurysms and artery dissections                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 | Respiratory, thoracic and mediastinal disorders | Very common | dyspnoea, cough                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| Respiratory, thoracic and mediastinal disorders | Common      | pulmonary embolism, pleural effusion, epistaxis, dysphonia, pulmonary hypertension, oropharyngeal pain, productive cough                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+|                                                 | Common      | pulmonary embolism, pleural effusion, epistaxis, dysphonia, pulmonary hypertension, oropharyngeal pain, productive cough                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 | Gastrointestinal disorders                      | Very common | abdominal pain, diarrhoea, vomiting, constipation, nausea, lipase increased                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 
 <div style=\"page-break-after: always\"></div>
@@ -476,7 +474,7 @@ Table 5 Adverse Reactions observed in newly diagnosed Ph+ ALL patients in PhALLC
 | Respiratory, thoracic and mediastinal disorders      | Common      | dyspnoea, oropharyngeal pain, pleural effusion, dysphonia, pulmonary embolism                                                                                                                                                                                        |
 | Gastrointestinal disorders                           | Very common | constipation, nausea, vomiting, stomatitis, diarrhoea, abdominal pain, abdominal pain upper                                                                                                                                                                          |
 | Gastrointestinal disorders                           | Common      | dyspepsia, abdominal distension, abdominal discomfort, pancreatitis, gastritis, pancreatitis acute                                                                                                                                                                   |
-|                                                      | Uncommon    | mouth haemorrhage                                                                                                                                                                                                                                                    |
+| Gastrointestinal disorders                           | Uncommon    | mouth haemorrhage                                                                                                                                                                                                                                                    |
 | Hepatobiliary disorders                              | Common      | hepatotoxicity, hyperbilirubinaemia, hypertransaminasaemia, hepatitis toxic                                                                                                                                                                                          |
 | Hepatobiliary disorders                              | Uncommon    | drug-induced liver injury, hepatobilliary disease, liver injury                                                                                                                                                                                                      |
 | Skin and subcutaneous tissue disorders               | Very common | rash, dry skin                                                                                                                                                                                                                                                       |
@@ -487,7 +485,7 @@ Table 5 Adverse Reactions observed in newly diagnosed Ph+ ALL patients in PhALLC
 | General disorders and administration site conditions | Common      | chest pain, pain                                                                                                                                                                                                                                                     |
 | Investigations                                       | Very common | alanine aminotransferase increased, lipase increased, aspartate aminotransferase increased, gamma-glutamyltransferase increased, blood lactate dehydrogenase increased, amylase increased                                                                            |
 | Investigations                                       | Common      | blood alkaline phosphatase increased, blood creatinine increased, blood fibrinogen decreased, C-reactive protein increased, neutrophil count increased, protein total decreased, platelet count increased, brain natriuretic peptide increased, troponin I increased |
-|                                                      | Uncommon    | ejection fraction decreased                                                                                                                                                                                                                                          |
+| Investigations                                       | Uncommon    | ejection fraction decreased                                                                                                                                                                                                                                          |
 | Injury, poisoning and procedural complications       | Uncommon    | subdural hematoma                                                                                                                                                                                                                                                    |
 
 <div style=\"page-break-after: always\"></div>
@@ -584,11 +582,9 @@ Intolerance was defined as the discontinuation of dasatinib or nilotinib due to 
 
 The primary efficacy endpoint in CP-CML was major cytogenetic response (MCyR), which included complete and partial cytogenetic responses (CCyR and PCyR) by 12 months. The secondary efficacy endpoints in CP-CML were complete haematological response (CHR) and major molecular response (MMR).
 
-The primary efficacy endpoint in AP-CML and BP-CML/Ph+ ALL was major haematological response (MaHR), defined as either a complete haematological response (CHR) or no evidence of
+The primary efficacy endpoint in AP-CML and BP-CML/Ph+ ALL was major haematological response (MaHR), defined as either a complete haematological response (CHR) or no evidence of leukaemia (NEL). The secondary efficacy endpoints in AP-CML and BP-CML/Ph+ ALL were MCyR and MMR.
 
 <div style=\"page-break-after: always\"></div>
-
-leukaemia (NEL). The secondary efficacy endpoints in AP-CML and BP-CML/Ph+ ALL were MCyR and MMR.
 
 For all patients, additional secondary efficacy endpoints included: confirmed MCyR, time to response, duration of response, progression free survival, and overall survival. Also, post-hoc analyses to assess the relationship of shorter-term cytogenetic (MCyR) and molecular (MMR) response outcomes with longer-term outcomes of PFS and OS, maintenance of response (MCyR and MMR) after dose reductions, and PFS and OS by Arterial Occlusive Event status were conducted.
 
@@ -723,17 +719,15 @@ In the PACE phase 2 trial, 86 CP-CML patients achieved MCyR at a dose of 45 mg, 
 
 Table 11 Vascular occlusive first adverse events in CP-CML patients who achieved MCyR at 45 mg or 30 mg (data extraction 7 April 2014)
 
-|                                 | Most recent dose at onset of first vascular occlusive Event   | Most recent dose at onset of first vascular occlusive Event   | Most recent dose at onset of first vascular occlusive Event   |
-|---------------------------------|---------------------------------------------------------------|---------------------------------------------------------------|---------------------------------------------------------------|
-|                                 | 45 mg                                                         | 30 mg                                                         | 15 mg                                                         |
-| Achieved MCyR at 45 mg (N = 86) | 19                                                            | 6                                                             | 0                                                             |
-| Achieved MCyR at 30 mg (N = 45) | 1                                                             | 13                                                            | 5                                                             |
+|                                | Most recent dose at onset of first vascular occlusive Event   | Most recent dose at onset of first vascular occlusive Event   | Most recent dose at onset of first vascular occlusive Event   |
+|--------------------------------|---------------------------------------------------------------|---------------------------------------------------------------|---------------------------------------------------------------|
+|                                | 45 mg                                                         | 30 mg                                                         | 15 mg                                                         |
+| AchievedMCyR at 45 mg (N = 86) | 19                                                            | 6                                                             | 0                                                             |
+| AchievedMCyR at 30 mg (N = 45) | 1                                                             | 13                                                            | 5                                                             |
 
-The median time to onset of the first cardiovascular, cerebrovascular, and peripheral vascular arterial occlusive events was 351, 611, and 605 days, respectively. When adjusted for exposure, the incidence of first arterial occlusive events was greatest in the first two years of follow-up and declined with
+The median time to onset of the first cardiovascular, cerebrovascular, and peripheral vascular arterial occlusive events was 351, 611, and 605 days, respectively. When adjusted for exposure, the incidence of first arterial occlusive events was greatest in the first two years of follow-up and declined with decreasing daily dose intensity (following recommendation for prospective dose reduction). Factors other than dose may also contribute to this risk of arterial occlusion.
 
 <div style=\"page-break-after: always\"></div>
-
-decreasing daily dose intensity (following recommendation for prospective dose reduction). Factors other than dose may also contribute to this risk of arterial occlusion.
 
 ## Efficacy
 
@@ -743,24 +737,24 @@ The majority of patients who underwent dose reduction maintained response (MCyR 
 
 Table 12 Maintenance of response in CP-CML patients who achieved MCyR or MMR at 45 mg dose (data extraction 6 February 2017)
 
-|                                   | Achieved MCyR at 45 mg (N = 86)   | Achieved MCyR at 45 mg (N = 86)   | AchievedMMR at 45 mg (N = 63)   | AchievedMMR at 45 mg (N = 63)   |
-|-----------------------------------|-----------------------------------|-----------------------------------|---------------------------------|---------------------------------|
-|                                   | Number of patients                | Maintained MCyR                   | Number of patients              | Maintained MMR                  |
-| No dose reduction                 | 19                                | 13 (68%)                          | 18                              | 11 (61%)                        |
-| Dose reduction to 30 mg only      | 15                                | 13 (87%)                          | 5                               | 3 (60%)                         |
-| ≥ 3 month reduction at 30 mg      | 12                                | 10 (83%)                          | 3                               | 2 (67%)                         |
-| ≥ 6 month reduction at 30 mg      | 11                                | 9 (82%)                           | 3                               | 2 (67%)                         |
-| ≥ 12 month reduction at 30 mg     | 8                                 | 7 (88%)                           | 3                               | 2 (67%)                         |
-| ≥ 18 month reduction at 30 mg     | 7                                 | 6 (86%)                           | 2                               | 2 (100%)                        |
-| ≥ 24 month reduction at 30 mg     | 6                                 | 6 (100%)                          | 2                               | 2 (100%)                        |
-| ≥ 36 month reduction at 30 mg     | 1                                 | 1 (100%)                          | --                              | --                              |
-| Any dose reduction to 15 mg       | 52                                | 51 (98%)                          | 40                              | 36 (90%)                        |
-| ≥ 3 month reduction at 15 mg      | 49                                | 49 (100%)                         | 39                              | 36 (92%)                        |
-| ≥ 6 month reduction at 15 mg      | 47                                | 47 (100%)                         | 37                              | 35 (95%)                        |
-| ≥ 12 month reduction at 15 mg     | 44                                | 44 (100%)                         | 34                              | 33 (97%)                        |
-| ≥ 18 month day reduction at 15 mg | 38                                | 38 (100%)                         | 29                              | 29 (100%)                       |
-| ≥ 24 month reduction at 15 mg     | 32                                | 32 (100%)                         | 23                              | 23 (100%)                       |
-| ≥ 36 month reduction at 15 mg     | 8                                 | 8 (100%)                          | 4                               | 4 (100%)                        |
+|                                   | AchievedMCyR at 45 mg (N = 86)   | AchievedMCyR at 45 mg (N = 86)   | AchievedMMR at 45 mg (N = 63)   | AchievedMMR at 45 mg (N = 63)   |
+|-----------------------------------|----------------------------------|----------------------------------|---------------------------------|---------------------------------|
+|                                   | Number of patients               | Maintained MCyR                  | Number of patients              | Maintained MMR                  |
+| No dose reduction                 | 19                               | 13 (68%)                         | 18                              | 11 (61%)                        |
+| Dose reduction to 30 mg only      | 15                               | 13 (87%)                         | 5                               | 3 (60%)                         |
+| ≥ 3 month reduction at 30 mg      | 12                               | 10 (83%)                         | 3                               | 2 (67%)                         |
+| ≥ 6 month reduction at 30 mg      | 11                               | 9 (82%)                          | 3                               | 2 (67%)                         |
+| ≥ 12 month reduction at 30 mg     | 8                                | 7 (88%)                          | 3                               | 2 (67%)                         |
+| ≥ 18 month reduction at 30 mg     | 7                                | 6 (86%)                          | 2                               | 2 (100%)                        |
+| ≥ 24 month reduction at 30 mg     | 6                                | 6 (100%)                         | 2                               | 2 (100%)                        |
+| ≥ 36 month reduction at 30 mg     | 1                                | 1 (100%)                         | --                              | --                              |
+| Any dose reduction to 15 mg       | 52                               | 51 (98%)                         | 40                              | 36 (90%)                        |
+| ≥ 3 month reduction at 15 mg      | 49                               | 49 (100%)                        | 39                              | 36 (92%)                        |
+| ≥ 6 month reduction at 15 mg      | 47                               | 47 (100%)                        | 37                              | 35 (95%)                        |
+| ≥ 12 month reduction at 15 mg     | 44                               | 44 (100%)                        | 34                              | 33 (97%)                        |
+| ≥ 18 month day reduction at 15 mg | 38                               | 38 (100%)                        | 29                              | 29 (100%)                       |
+| ≥ 24 month reduction at 15 mg     | 32                               | 32 (100%)                        | 23                              | 23 (100%)                       |
+| ≥ 36 month reduction at 15 mg     | 8                                | 8 (100%)                         | 4                               | 4 (100%)                        |
 
 The anti-leukaemic activity of Iclusig was also evaluated in a phase 1 dose escalation study that included 65 CML and Ph+ ALL patients; the study is completed. Of 43 CP-CML patients, 31 CP-CML patients achieved a MCyR with a median duration of follow-up of 55.5 months (range: 1.7 to 91.4 months). At the time of reporting, 25 CP-CML patients were in MCyR (median duration of MCyR had not been reached).
 
@@ -861,7 +855,9 @@ The secondary efficacy endpoints included complete cytogenetic response (CCyR) a
 
 <div style=\"page-break-after: always\"></div>
 
-## Patients with newly diagnosed Ph+ ALL PhALLCON Trial
+## Patients with newly diagnosed Ph+ ALL
+
+## PhALLCON Trial
 
 The efficacy of Iclusig in combination with reduced-intensity chemotherapy followed by continued treatment with Iclusig as a single agent was evaluated in PhALLCON, a randomized, active controlled, multicenter, open label trial.
 
@@ -949,10 +945,13 @@ Table 16 Efficacy Results in Patients with Ph+ ALL in PhALLCON(a)
 MRD: minimal residual disease; CR: complete response; MR: molecular response; BCR-ABL1: breakpoint cluster region-Abelson.
 
 - (a) Based on 232 randomized patients who had a BCR-ABL1 dominant variant of p190 or p210 as determined by central laboratory tests at baseline.
-- (b) MRD-negative CR rate is defined as the proportion of patients who achieved MRDnegative CR (≤0.01%
-- BCR-ABL1/ABL1 or undetectable BCRABL1 transcripts in cDNA with ≥10,000 ABL1 transcripts, and meeting criteria for CR).
+- (b) MRD-negative CR rate is defined as the proportion of patients who achieved MRDnegative CR (≤0.01% BCR-ABL1/ABL1 or undetectable BCRABL1 transcripts in cDNA with ≥10,000 ABL1 transcripts, and meeting criteria for CR).
 - (c) Difference and 95% CI: adjusted risk ICLUSIG -adjusted risk imatinib, and its 95% CI.
-- (d) p-value is based on Cochran-Mantel-Haenszel (CMH) chi-square test, with stratification according to randomization strata (age): 18 through &lt;45 years, ≥45 through &lt;60 years, and ≥60 years
+
+(d) p-value is based on Cochran-Mantel-Haenszel (CMH) chi-square test, with stratification according to
+
+randomization strata (age): 18 through &lt;45 years, ≥45 through &lt;60 years, and ≥60 years
+
 - (e) Adjusted Relative Risk and its 95% CI based on CMH method as defined in Footnote [d].
 
 ## Cardiac electrophysiology
@@ -1091,9 +1090,7 @@ No special requirements for disposal.
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Incyte Biosciences Distribution B.V.
-
-Paasheuvelweg 25 1105 BP Amsterdam
+Incyte Biosciences Distribution B.V. Paasheuvelweg 25 1105 BP Amsterdam
 
 Netherlands
 
@@ -1299,7 +1296,9 @@ OUTER CARTON AND BOTTLE LABEL
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Iclusig 30 mg film-coated tablets ponatinib
+Iclusig 30 mg film-coated tablets
+
+ponatinib
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -1479,9 +1478,9 @@ NN
 
 ## B. PACKAGE LEAFLET
 
-## Package leaflet: Information for the patient
-
 <div style=\"page-break-after: always\"></div>
+
+## Package leaflet: Information for the patient
 
 Iclusig 15 mg film-coated tablets Iclusig 30 mg film-coated tablets Iclusig 45 mg film-coated tablets ponatinib
 
@@ -1587,6 +1586,8 @@ Avoid grapefruit products such as grapefruit juice.
 
 If you are pregnant or breast-feeding, think you may be pregnant or are planning to have a baby, ask your doctor or pharmacist for advice before taking this medicine.
 
+Cases of congenital megacolon, also known as Hirschsprung's disease (a birth defect where nerve cells are missing from part of the baby's large intestine, resulting in bowel blockage) have been reported in children born to women treated with Iclusig in early pregnancy.
+
 ## · Contraceptive advice for men and women
 
 Women of childbearing age being treated with Iclusig should avoid becoming pregnant. Men receiving treatment with Iclusig are advised not to father a child during treatment. Effective contraception must be used during treatment.
@@ -1631,9 +1632,9 @@ Your doctor may reduce your dose or tell you to temporarily stop taking Iclusig 
 - you develop heart or blood vessel problems.
 - you have a liver disorder.
 
-Iclusig use may be resumed at the same, or a reduced dose, after the event is resolved or controlled. Your doctor may evaluate your response to the treatment at regular intervals.
-
 <div style=\"page-break-after: always\"></div>
+
+Iclusig use may be resumed at the same, or a reduced dose, after the event is resolved or controlled. Your doctor may evaluate your response to the treatment at regular intervals.
 
 ## Method of use
 
@@ -1683,12 +1684,12 @@ Serious side effects (may affect up to 1 in 10 people):
 - a heart rhythm disorder, abnormal pulse
 - heart failure (symptoms include: weakness, fatigue, swollen legs)
 - uncomfortable pressure, fullness, squeezing or pain in the centre of the chest (Angina pectoris) and chest pain not in connection with the heart
-- high blood pressure
-- narrowing of the arteries in the brain, stroke caused by low blood flow to part of the brain
-- problems of the blood vessels in the heart muscle
 
 <div style=\"page-break-after: always\"></div>
 
+- high blood pressure
+- narrowing of the arteries in the brain, stroke caused by low blood flow to part of the brain
+- problems of the blood vessels in the heart muscle
 - blood infection
 - swollen, or red area of skin that feels hot and tender (cellulitis)
 - dehydration
@@ -1737,12 +1738,12 @@ Other possible side effects that may occur with the following frequencies are:
 - mini stroke
 - nerve disorder in the face (often causes numbness or weakness on one or both sides of your face)
 - lethargy, migraine
-- muscle weakness, musculoskeletal stiffness
-- blurred vision, dry eye, infection in the eye, visual disturbance, eye pain
-- tissue swelling in eyelid or around the eyes, caused by excess fluid
 
 <div style=\"page-break-after: always\"></div>
 
+- muscle weakness, musculoskeletal stiffness
+- blurred vision, dry eye, infection in the eye, visual disturbance, eye pain
+- tissue swelling in eyelid or around the eyes, caused by excess fluid
 - palpitation
 - pain in one or both legs when walking or exercising, which disappears after some minutes of rest
 - hot flush, flushing

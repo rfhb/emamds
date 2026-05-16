@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-12-17 16:34:28
-document_pages: 99
+document_datetime: 2026-05-13 17:00:28
+document_pages: 97
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/lucentis-epar-product-information_en.pdf
 document_name: lucentis-epar-product-information_en.pdf
 version: success
-processing_time: 31.93006
-conversion_datetime: 2026-01-03 12:47:54.674693
+processing_time: 31.8028126
+conversion_datetime: 2026-05-16 12:18:14.97732
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.17.0
+  docling-jobkit: 1.18.0
+  docling: 2.92.0
+  docling-core: 2.74.1
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.10.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -226,7 +226,7 @@ No interaction studies have been performed.
 
 ## 4.6 Fertility, pregnancy and lactation
 
-## Women of childbearing potential/contraception in females
+Women of childbearing potential/contraception in females
 
 Women of childbearing potential should use effective contraception during treatment.
 
@@ -266,9 +266,15 @@ The adverse reactions experienced following administration of Lucentis in clinic
 
 The adverse reactions are listed by system organ class and frequency using the following convention: very common (≥1/10), common (≥1/100 to &lt;1/10), uncommon (≥1/1,000 to &lt;1/100), rare (≥1/10,000 to &lt;1/1,000), very rare (&lt;1/10,000), not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
-Infections and infestations Very common Common
+Infections and infestations
 
-Nasopharyngitis Urinary tract infection*
+Very common
+
+Nasopharyngitis
+
+Common
+
+Urinary tract infection*
 
 Blood and lymphatic system disorders
 
@@ -326,25 +332,19 @@ Common
 
 Allergic reactions (rash, urticaria, pruritus, erythema)
 
+<div style=\"page-break-after: always\"></div>
+
 Musculoskeletal and connective tissue disorders
 
 Very common
 
-Arthralgia
-
 Investigations
 
-Very common
-
-Intraocular pressure increased
+Very common Arthralgia Intraocular pressure increased
 
 # Adverse reactions were defined as adverse events (in at least 0.5 percentage points of patients) which occurred at a higher rate (at least 2 percentage points) in patients receiving treatment with Lucentis 0.5 mg than in those receiving control treatment (sham or verteporfin PDT).
 
-<div style=\"page-break-after: always\"></div>
-
 * observed only in DME population
-
-<div style=\"page-break-after: always\"></div>
 
 ## Product-class-related adverse reactions
 
@@ -364,6 +364,8 @@ Reporting suspected adverse reactions after authorisation of the medicinal produ
 
 Cases of accidental overdose have been reported from the clinical studies in wet AMD and postmarketing data. Adverse reactions associated with these reported cases were intraocular pressure increased, transient blindness, reduced visual acuity, corneal oedema, corneal pain, and eye pain. If an overdose occurs, intraocular pressure should be monitored and treated, if deemed necessary by the attending physician.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 5. PHARMACOLOGICAL PROPERTIES
 
 ## 5.1 Pharmacodynamic properties
@@ -373,8 +375,6 @@ Pharmacotherapeutic group: Ophthalmologicals, antineovascularisation agents, ATC
 ## Mechanism of action
 
 Ranibizumab is a humanised recombinant monoclonal antibody fragment targeted against human vascular endothelial growth factor A (VEGF-A). It binds with high affinity to the VEGF-A isoforms (e.g. VEGF110, VEGF121 and VEGF165), thereby preventing binding of VEGF-A to its receptors VEGFR-1 and VEGFR-2. Binding of VEGF-A to its receptors leads to endothelial cell proliferation and neovascularisation, as well as vascular leakage, all of which are thought to contribute to the progression of the neovascular form of age-related macular degeneration, pathologic myopia and CNV or to visual impairment caused by either diabetic macular oedema or macular oedema secondary to RVO in adults and retinopathy of prematurity in preterm infants.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Clinical efficacy and safety
 
@@ -412,11 +412,9 @@ Statistically significant patient-reported visual functioning benefits were obse
 
 In study FVF3192g (PIER), 184 patients with all forms of neovascular AMD were randomised in a 1:1:1 ratio to receive Lucentis 0.3 mg, Lucentis 0.5 mg or sham injections once a month for 3 consecutive doses, followed by a dose administered once every 3 months. From Month 14 of the study, sham-treated patients were allowed to receive ranibizumab and from Month 19, more frequent treatments were possible. Patients treated with Lucentis in PIER received a mean of 10 total treatments.
 
-After an initial increase in visual acuity (following monthly dosing), on average, patients' visual acuity declined with quarterly dosing, returning to baseline at Month 12 and this effect was maintained in
-
 <div style=\"page-break-after: always\"></div>
 
-most ranibizumab-treated patients (82%) at Month 24. Limited data from sham subjects who later received ranibizumab suggested that early initiation of treatment may be associated with better preservation of visual acuity.
+After an initial increase in visual acuity (following monthly dosing), on average, patients' visual acuity declined with quarterly dosing, returning to baseline at Month 12 and this effect was maintained in most ranibizumab-treated patients (82%) at Month 24. Limited data from sham subjects who later received ranibizumab suggested that early initiation of treatment may be associated with better preservation of visual acuity.
 
 Data from two studies (MONT BLANC, BPD952A2308 and DENALI, BPD952A2309) conducted post approval confirmed the efficacy of Lucentis but did not demonstrate additional effect of the combined administration of verteporfin (Visudyne PDT) and Lucentis compared to Lucentis monotherapy.
 
@@ -438,13 +436,12 @@ Table 2 Outcomes at Month 3 and 12 (RADIANCE)
 | Mean average BCVA change from Month 1 to Month 3 compared to baseline a (letters) | +10.5                                                   | +10.6                                                    | +2.2                      |
 | Proportion of patients who gained: ≥15 letters, or reached ≥84 letters in BCVA    | 38.1%                                                   | 43.1%                                                    | 14.5%                     |
 | Month 12                                                                          |                                                         |                                                          |                           |
-| Number of injections up to Month 12:                                              |                                                         |                                                          |                           |
 | Mean                                                                              | 4.6                                                     | 3.5                                                      | N/A                       |
 | Median                                                                            | 4.0                                                     | 2.5                                                      | N/A                       |
 | Mean average BCVA change from Month 1 to Month 12 compared to baseline (letters)  | +12.8                                                   | +12.5                                                    | N/A                       |
 | Proportion of patients who gained: ≥15 letters, or reached ≥84 letters in BCVA    | 53.3%                                                   | 51.7%                                                    | N/A                       |
 
-a p&lt;0.00001 comparison with vPDT control
+a  p&lt;0.00001 comparison with vPDT control
 
 b Comparative control up to Month 3. Patients randomised to vPDT were allowed to receive ranibizumab treatment as of Month 3 (in Group III, 38 patients received ranibizumab as of Month 3)
 
@@ -469,11 +466,9 @@ At Month 2, all patients received open-label treatment with ranibizumab as neede
 
 Key outcome measures from MINERVA are summarised in Table 3 and Figure 3. An improvement of vision was observed and was accompanied by a reduction in central subfield thickness over the 12-month period.
 
-The mean number of injections given over 12 months was 5.8 in the ranibizumab arm versus 5.4 in those patients in the sham arm who were eligible to receive ranibizumab from Month 2 onwards. In
-
 <div style=\"page-break-after: always\"></div>
 
-the sham arm 7 out of 59 patients did not receive any treatment with ranibizumab in the study eye during the 12-month period.
+The mean number of injections given over 12 months was 5.8 in the ranibizumab arm versus 5.4 in those patients in the sham arm who were eligible to receive ranibizumab from Month 2 onwards. In the sham arm 7 out of 59 patients did not receive any treatment with ranibizumab in the study eye during the 12-month period.
 
 Table 3 Outcomes at Month 2 (MINERVA)
 
@@ -488,11 +483,13 @@ Figure 3 Mean change from baseline BCVA over time to Month 12 (MINERVA)
 
 <!-- image -->
 
-Treatment:—ORanibizumab 0.5mg (N=119)
+Treatment:—0Ranibizumab 0.5mg(N=119)
 
 Sham (N=59)
 
 * Observed mean BCVA may differ from the Least Squares Mean BCVA (applicable only at Month 2)
+
+<div style=\"page-break-after: always\"></div>
 
 When comparing ranibizumab versus sham control at Month 2, a consistent treatment effect both overall and across baseline aetiology subgroups was observed:
 
@@ -503,11 +500,9 @@ Table 4 Treatment effect overall and across baseline aetiology subgroups
 | Overall                               |                                    9.9 |                                     178 |
 | Angioid streaks                       |                                   14.6 |                                      27 |
 | Post-inflammatory retinochoroidopathy |                                    6.5 |                                      28 |
-| Central serous chorioretinopathy      |                                    5   |                                      23 |
+| Central serous chorioretinopathy      |                                    5.0 |                                      23 |
 | Idiopathic chorioretinopathy          |                                   11.4 |                                      63 |
 | Miscellaneous aetiologies a           |                                   10.6 |                                      37 |
-
-<div style=\"page-break-after: always\"></div>
 
 In the pivotal study G2301 (MINERVA), five adolescent patients aged 12 to 17 years with visual impairment secondary to CNV received open-label treatment with ranibizumab 0.5 mg at baseline followed by an individualised treatment regimen as for the adult population. BCVA improved from baseline to Month 12 in all five patients, ranging from 5 to 38 letters (mean of 16.6 letters). The improvement of vision was accompanied by a stabilisation or reduction in central subfield thickness over the 12-month period. The mean number of ranibizumab injections given in the study eye over 12 months was 3 (ranged from 2 to 5). Overall, ranibizumab treatment was well tolerated.
 
@@ -549,9 +544,7 @@ Table 5 Outcomes at Month 12 in study D2301 (RESTORE) and at Month 36 in study D
 | Gain of ≥15 letters or BCVA ≥84 letters at Month 36 (%)                                                | 27.7                          | 30.1                                  | 21.6             |
 | Mean number of injections (Months 12-35)*                                                              | 6.8                           | 6.0                                   | 6.5              |
 
-a
-
-p&lt;0.0001 for comparisons of ranibizumab arms vs. laser arm. n in D2301-E1 (RESTORE Extension) is the number of patients with a value at both D2301 (RESTORE) baseline (Month 0) and at the Month 36 visit.
+a p&lt;0.0001 for comparisons of ranibizumab arms vs. laser arm. n in D2301-E1 (RESTORE Extension) is the number of patients with a value at both D2301 (RESTORE) baseline (Month 0) and at the Month 36 visit.
 
 * The proportion of patients who did not require any ranibizumab treatment during the extension phase was 19%, 25% and 20% in the prior ranibizumab, prior ranibizumab + laser and prior laser groups, respectively.
 
@@ -667,17 +660,16 @@ Key outcome measures from BRIGHTER and CRYSTAL are shown in Table 9.
 
 Table 9 Outcomes at Months 6 and 24 (BRIGHTER and CRYSTAL)
 
-|                                                  | BRIGHTER              | BRIGHTER                      | BRIGHTER      | CRYSTAL               |
-|--------------------------------------------------|-----------------------|-------------------------------|---------------|-----------------------|
-|                                                  | Lucentis 0.5 mg N=180 | Lucentis 0.5 mg + Laser N=178 | Laser* N=90   | Lucentis 0.5 mg N=356 |
-| Mean change in BCVA at Month 6 a (letters) (SD)  | +14.8 (10.7)          | +14.8 (11.13)                 | +6.0 (14.27)  | +12.0 (13.95)         |
-| Mean change in BCVA at Month 24 b (letters) (SD) | +15.5 (13.91)         | +17.3 (12.61)                 | +11.6 (16.09) | +12.1 (18.60)         |
-| Gain of ≥15 letters in BCVA at Month 24 (%)      | 52.8                  | 59.6                          |               | 49.2                  |
-| Mean number of injections (SD) (Months 0-23)     | (5.81)                | 11.3 (6.02)                   | 43.3          | 13.1 (6.39)           |
-|                                                  | 11.4                  |                               | NA            |                       |
+|                                                                 | BRIGHTER              | BRIGHTER                      | BRIGHTER     | CRYSTAL               |
+|-----------------------------------------------------------------|-----------------------|-------------------------------|--------------|-----------------------|
+|                                                                 | Lucentis 0.5 mg N=180 | Lucentis 0.5 mg + Laser N=178 | Laser* N=90  | Lucentis 0.5 mg N=356 |
+| Mean change in BCVA at Month 6 a (letters) (SD)                 | +14.8 (10.7)          | +14.8 (11.13)                 | +6.0 (14.27) | +12.0 (13.95)         |
+| Mean change in BCVA at Month 24 b                               | +15.5 (13.91)         | +17.3 (12.61)                 | +11.6        |                       |
+| (letters) (SD)                                                  |                       |                               | (16.09)      | +12.1 (18.60)         |
+| ≥15 letters in BCVA at Month 24 (%) Mean number injections (SD) | 52.8                  | 59.6                          | 43.3         | 49.2                  |
+| of (Months 0-23)                                                | 11.4 (5.81)           | 11.3 (6.02)                   | NA           | 13.1 (6.39)           |
 
-a p&lt;0.0001for both comparisons in BRIGHTER at Month 6: Lucentis 0.5 mg vs Laser and Lucentis 0.5 mg + Laser vs Laser.
-
+- a p&lt;0.0001for both comparisons in BRIGHTER at Month 6: Lucentis 0.5 mg vs Laser and Lucentis 0.5 mg + Laser vs Laser.
 - b p&lt;0.0001for null hypothesis in CRYSTAL that the mean change at Month 24 from baseline is zero.
 * Starting at Month 6 ranibizumab 0.5 mg treatment was allowed (24 patients were treated with laser only).
 
@@ -722,26 +714,27 @@ If a patient died or switched study treatment before or at week 24, then the pat
 - a Odds ratio is calculated by using Cochran-Mantel-Haenszel test with ROP zone at baseline (zone I and II; per CRF) as stratum factor.
 - b p-value for pairwise comparison is one-sided. For the primary endpoint the pre-specified significance level for the one-sided p-value was 0.025.
 
-During the 24 weeks of the study, fewer patients in the ranibizumab 0.2 mg group switched to another treatment modality due to lack of response compared with the laser group (14.9% vs. 24.3%). Unfavourable structural outcomes were less frequently reported for ranibizumab 0.2 mg (1 patient, 1.4%) compared with laser therapy (7 patients, 10.1%).
+During the 24 weeks of the study, fewer patients in the ranibizumab 0.2 mg group switched to another
+
+treatment modality due to lack of response compared with the laser group (14.9% vs. 24.3%). Unfavourable structural outcomes were less frequently reported for ranibizumab 0.2 mg (1 patient, 1.4%) compared with laser therapy (7 patients, 10.1%).
 
 The long-term efficacy and safety of ranibizumab 0.2 mg for the treatment of ROP in preterm infants have been assessed in study H2301E1 (RAINBOW extension), an extension study of study H2301 (RAINBOW), following patients to their 5 th birthday.
 
 The primary objective was to evaluate visual function at the patient's 5 th birthday visit by assessing visual acuity using Early Treatment Diabetic Retinopathy Study (ETDRS) with Lea symbols optotypes in the better-seeing eye (the eye with the higher ETDRS score).
 
-An ETDRS score in patients who completed the 5 th birthday visit was recorded for 83.3% (45/54) and 76.6% (36/47) of patients in the ranibizumab 0.2 mg arm and the laser arm, respectively. The
-
 <div style=\"page-break-after: always\"></div>
 
-least-squares (LS) mean (SE) was numerically higher in the ranibizumab 0.2 mg arm (66.8 [1.95]) compared to the laser arm (62.1 [2.18]) with a difference in LS mean ETDRS score of 4.7 (95% CI: -1.1, 10.5). The categorised visual acuity outcomes in the better-seeing eye at the patients ' 5 th birthday is presented in Table 11.
+An ETDRS score in patients who completed the 5 th birthday visit was recorded for 83.3% (45/54) and 76.6% (36/47) of patients in the ranibizumab 0.2 mg arm and the laser arm, respectively. The least-squares (LS) mean (SE) was numerically higher in the ranibizumab 0.2 mg arm (66.8 [1.95]) compared to the laser arm (62.1 [2.18]) with a difference in LS mean ETDRS score of 4.7 (95% CI: -1.1, 10.5). The categorised visual acuity outcomes in the better-seeing eye at the patients ' 5 th birthday is presented in Table 11.
 
 Table 11 Visual acuity outcomes in the better-seeing eye 1 at the patients ' 5 th birthday visit
 
-| Visual acuity category   | Ranibizumab 0.2 mg N=61 n (%)                                                                                                                                                                        | Laser N=54 n (%)                                                                                                                                                                                     |
-|--------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ≥1 to ≤34 letters        | 1 (1.6)                                                                                                                                                                                              | 2 (3.7)                                                                                                                                                                                              |
-| ≥35 to ≤70 letters       | 24 (39.3)                                                                                                                                                                                            | 23 (42.6)                                                                                                                                                                                            |
-| ≥71 letters              | 20 (32.8)                                                                                                                                                                                            | 11 (20.4)                                                                                                                                                                                            |
-| 1                        | The better-seeing eye is the eye with a higher ETDRS letter score at the 5th birthday visit. If both eyes have the same ETDRS letter score, then the right eye is assigned as the better-seeing eye. | The better-seeing eye is the eye with a higher ETDRS letter score at the 5th birthday visit. If both eyes have the same ETDRS letter score, then the right eye is assigned as the better-seeing eye. |
+| Visual acuity category   | Ranibizumab 0.2 mg N=61 n (%)   | Laser N=54 n (%)   |
+|--------------------------|---------------------------------|--------------------|
+| ≥1 to ≤34 letters        | 1 (1.6)                         | 2 (3.7)            |
+| ≥35 to ≤70 letters       | 24 (39.3)                       | 23 (42.6)          |
+| ≥71 letters              | 20 (32.8)                       | 11 (20.4)          |
+
+1 The better-seeing eye is the eye with a higher ETDRS letter score at the 5th birthday visit. If both eyes have the same ETDRS letter score, then the right eye is assigned as the better-seeing eye.
 
 The European Medicines Agency has waived the obligation to submit the results of studies with Lucentis in all subsets of the paediatric population in neovascular AMD, visual impairment due to DME, visual impairment due to macular oedema secondary to RVO, visual impairment due to CNV and diabetic retinopathy (see section 4.2 for information on paediatric use). In addition the European Medicines Agency has waived the obligation to submit the results of studies with Lucentis in the following subsets of the paediatric population for ROP: term newborn infants, infants, children and adolescents.
 
@@ -933,7 +926,9 @@ If patients are being treated according to a treat-and-extend regimen, once maxi
 
 The treatment of visual impairment due to CNV should be determined individually per patient based on disease activity. Some patients may only need one injection during the first 12 months; others may need more frequent treatment, including a monthly injection. For CNV secondary to pathologic myopia (PM), many patients may only need one or two injections during the first year (see section 5.1).
 
-Lucentis and laser photocoagulation in DME and in macular oedema secondary to BRVO There is some experience of Lucentis administered concomitantly with laser photocoagulation (see section 5.1). When given on the same day, Lucentis should be administered at least 30 minutes after laser photocoagulation. Lucentis can be administered in patients who have received previous laser photocoagulation.
+## Lucentis and laser photocoagulation in DME and in macular oedema secondary to BRVO
+
+There is some experience of Lucentis administered concomitantly with laser photocoagulation (see section 5.1). When given on the same day, Lucentis should be administered at least 30 minutes after laser photocoagulation. Lucentis can be administered in patients who have received previous laser photocoagulation.
 
 ## Lucentis and verteporfin photodynamic therapy in CNV secondary to PM
 
@@ -963,11 +958,9 @@ Single-use pre-filled syringe for intravitreal use only. The pre-filled syringe 
 
 Lucentis should be inspected visually for particulate matter and discoloration prior to administration.
 
-The injection procedure should be carried out under aseptic conditions, which includes the use of surgical hand disinfection, sterile gloves, a sterile drape and a sterile eyelid speculum (or equivalent)
-
 <div style=\"page-break-after: always\"></div>
 
-and the availability of sterile paracentesis (if required). The patient's medical history for hypersensitivity reactions should be carefully evaluated prior to performing the intravitreal procedure (see section 4.4). Adequate anaesthesia and a broad-spectrum topical microbicide to disinfect the periocular skin, eyelid and ocular surface should be administered prior to the injection, in accordance with local practice.
+The injection procedure should be carried out under aseptic conditions, which includes the use of surgical hand disinfection, sterile gloves, a sterile drape and a sterile eyelid speculum (or equivalent) and the availability of sterile paracentesis (if req uired). The patient's medical history for hypersensitivity reactions should be carefully evaluated prior to performing the intravitreal procedure (see section 4.4). Adequate anaesthesia and a broad-spectrum topical microbicide to disinfect the periocular skin, eyelid and ocular surface should be administered prior to the injection, in accordance with local practice.
 
 For information on preparation of Lucentis, see section 6.6.
 
@@ -1001,13 +994,11 @@ Patients should be informed of the symptoms of these potential adverse reactions
 
 Limited data on bilateral use of Lucentis (including same-day administration) do not suggest an increased risk of systemic adverse events compared with unilateral treatment.
 
-## Immunogenicity
-
-There is a potential for immunogenicity with Lucentis. Since there is a potential for an increased systemic exposure in subjects with DME, an increased risk for developing hypersensitivity in this
-
 <div style=\"page-break-after: always\"></div>
 
-patient population cannot be excluded. Patients should also be instructed to report if an intraocular inflammation increases in severity, which may be a clinical sign attributable to intraocular antibody formation.
+## Immunogenicity
+
+There is a potential for immunogenicity with Lucentis. Since there is a potential for an increased systemic exposure in subjects with DME, an increased risk for developing hypersensitivity in this patient population cannot be excluded. Patients should also be instructed to report if an intraocular inflammation increases in severity, which may be a clinical sign attributable to intraocular antibody formation.
 
 ## Concomitant use of other anti-VEGF (vascular endothelial growth factor)
 
@@ -1039,11 +1030,11 @@ There are insufficient data to conclude on the effect of Lucentis in patients wi
 
 In patients with PM, there are limited data on the effect of Lucentis in patients who have previously undergone unsuccessful verteporfin photodynamic therapy (vPDT) treatment. Also, while a consistent effect was observed in subjects with subfoveal and juxtafoveal lesions, there are insufficient data to conclude on the effect of Lucentis in PM subjects with extrafoveal lesions.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Systemic effects following intravitreal use
 
 Systemic adverse events including non-ocular haemorrhages and arterial thromboembolic events have been reported following intravitreal injection of VEGF inhibitors.
-
-<div style=\"page-break-after: always\"></div>
 
 There are limited data on safety in the treatment of DME, macular oedema due to RVO and CNV secondary to PM patients with prior history of stroke or transient ischaemic attacks. Caution should be exercised when treating such patients (see section 4.8) .
 
@@ -1059,7 +1050,7 @@ In clinical studies for the treatment of visual impairment due to DME, the outco
 
 ## 4.6 Fertility, pregnancy and lactation
 
-## Women of childbearing potential/contraception in females
+Women of childbearing potential/contraception in females
 
 Women of childbearing potential should use effective contraception during treatment.
 
@@ -1079,13 +1070,13 @@ There are no data available on fertility.
 
 The treatment procedure may induce temporary visual disturbances, which may affect the ability to drive or use machines (see section 4.8). Patients who experience these signs must not drive or use machines until these temporary visual disturbances subside.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 4.8 Undesirable effects
 
 ## Summary of the safety profile
 
 The majority of adverse reactions reported following administration of Lucentis are related to the intravitreal injection procedure.
-
-<div style=\"page-break-after: always\"></div>
 
 The most frequently reported ocular adverse reactions following injection of Lucentis are: eye pain, ocular hyperaemia, increased intraocular pressure, vitritis, vitreous detachment, retinal haemorrhage, visual disturbance, vitreous floaters, conjunctival haemorrhage, eye irritation, foreign body sensation in eyes, increased lacrimation, blepharitis, dry eye and eye pruritus.
 
@@ -1099,39 +1090,20 @@ The adverse reactions experienced following administration of Lucentis in clinic
 
 The adverse reactions are listed by system organ class and frequency using the following convention: very common (≥1/10), common (≥1/100 to &lt;1/10), uncommon (≥1/1,000 to &lt;1/100), rare (≥1/10,000 to &lt;1/1,000), very rare (&lt;1/10,000), not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
-Infections and infestations Very common Common
-
-Nasopharyngitis Urinary tract infection*
-
-Blood and lymphatic system disorders
-
-Common
-
-Anaemia
-
-Immune system disorders
-
-Common
-
-Hypersensitivity
-
-Psychiatric disorders
-
-Common
-
-Anxiety
-
-Nervous system disorders
-
-Very common
-
-Headache
-
-Eye disorders
-
-Very common
-
-Vitritis, vitreous detachment, retinal haemorrhage, visual disturbance, eye pain, vitreous floaters, conjunctival haemorrhage, eye irritation, foreign body sensation in eyes, lacrimation increased, blepharitis, dry eye, ocular hyperaemia, eye pruritus.
+| Infections and infestations          |                                                                                                                                                                                                                                                              |
+|--------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Very common                          | Nasopharyngitis                                                                                                                                                                                                                                              |
+| Common                               | Urinary tract infection*                                                                                                                                                                                                                                     |
+| Blood and lymphatic system disorders | Blood and lymphatic system disorders                                                                                                                                                                                                                         |
+| Common                               | Anaemia                                                                                                                                                                                                                                                      |
+| Immune system disorders              |                                                                                                                                                                                                                                                              |
+| Common                               | Hypersensitivity                                                                                                                                                                                                                                             |
+| Psychiatric disorders                |                                                                                                                                                                                                                                                              |
+| Common                               | Anxiety                                                                                                                                                                                                                                                      |
+| Nervous system disorders             |                                                                                                                                                                                                                                                              |
+| Very common                          | Headache                                                                                                                                                                                                                                                     |
+| Eye disorders                        |                                                                                                                                                                                                                                                              |
+| Very common                          | Vitritis, vitreous detachment, retinal haemorrhage, visual disturbance, eye pain, vitreous floaters, conjunctival haemorrhage, eye irritation, foreign body sensation in eyes, lacrimation increased, blepharitis, dry eye, ocular hyperaemia, eye pruritus. |
 
 Common
 
@@ -1173,8 +1145,6 @@ Intraocular pressure increased
 
 # Adverse reactions were defined as adverse events (in at least 0.5 percentage points of patients) which occurred at a higher rate (at least 2 percentage points) in patients receiving treatment with Lucentis 0.5 mg than in those receiving control treatment (sham or verteporfin PDT).
 
-<div style=\"page-break-after: always\"></div>
-
 * observed only in DME population
 
 <div style=\"page-break-after: always\"></div>
@@ -1190,6 +1160,8 @@ Reporting suspected adverse reactions after authorisation of the medicinal produ
 ## 4.9 Overdose
 
 Cases of accidental overdose have been reported from the clinical studies in wet AMD and postmarketing data. Adverse reactions associated with these reported cases were intraocular pressure increased, transient blindness, reduced visual acuity, corneal oedema, corneal pain, and eye pain. If an overdose occurs, intraocular pressure should be monitored and treated, if deemed necessary by the attending physician.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 5. PHARMACOLOGICAL PROPERTIES
 
@@ -1209,11 +1181,7 @@ In wet AMD, the clinical safety and efficacy of Lucentis have been assessed in t
 
 In study FVF2598g (MARINA), 716 patients with minimally classic or occult with no classic lesions were randomised in a 1:1:1 ratio to receive monthly injections of Lucentis 0.3 mg, Lucentis 0.5 mg or sham.
 
-In study FVF2587g (ANCHOR), 423 patients with predominantly classic CNV lesions were randomised in a 1:1:1 ratio to receive Lucentis 0.3 mg monthly, Lucentis 0.5 mg monthly or
-
-<div style=\"page-break-after: always\"></div>
-
-verteporfin PDT (at baseline and every 3 months thereafter if fluorescein angiography showed persistence or recurrence of vascular leakage).
+In study FVF2587g (ANCHOR), 423 patients with predominantly classic CNV lesions were randomised in a 1:1:1 ratio to receive Lucentis 0.3 mg monthly, Lucentis 0.5 mg monthly or verteporfin PDT (at baseline and every 3 months thereafter if fluorescein angiography showed persistence or recurrence of vascular leakage).
 
 Key outcome measures are summarised in Table 1 and Figure 1.
 
@@ -1241,11 +1209,9 @@ Statistically significant patient-reported visual functioning benefits were obse
 
 In study FVF3192g (PIER), 184 patients with all forms of neovascular AMD were randomised in a 1:1:1 ratio to receive Lucentis 0.3 mg, Lucentis 0.5 mg or sham injections once a month for 3 consecutive doses, followed by a dose administered once every 3 months. From Month 14 of the study, sham-treated patients were allowed to receive ranibizumab and from Month 19, more frequent treatments were possible. Patients treated with Lucentis in PIER received a mean of 10 total treatments.
 
-After an initial increase in visual acuity (following monthly dosing), on average, patients' visual acuity declined with quarterly dosing, returning to baseline at Month 12 and this effect was maintained in
-
 <div style=\"page-break-after: always\"></div>
 
-most ranibizumab-treated patients (82%) at Month 24. Limited data from sham subjects who later received ranibizumab suggested that early initiation of treatment may be associated with better preservation of visual acuity.
+After an initial increase in visual acuity (following monthly dosing), on average, patients' visual acuity declined with quarterly dosing, returning to baseline at Month 12 and this effect was maintained in most ranibizumab-treated patients (82%) at Month 24. Limited data from sham subjects who later received ranibizumab suggested that early initiation of treatment may be associated with better preservation of visual acuity.
 
 Data from two studies (MONT BLANC, BPD952A2308 and DENALI, BPD952A2309) conducted post approval confirmed the efficacy of Lucentis but did not demonstrate additional effect of the combined administration of verteporfin (Visudyne PDT) and Lucentis compared to Lucentis monotherapy.
 
@@ -1267,13 +1233,12 @@ Table 2 Outcomes at Month 3 and 12 (RADIANCE)
 | Mean average BCVA change from Month 1 to Month 3 compared to baseline a (letters) | +10.5                                                   | +10.6                                                    | +2.2                      |
 | Proportion of patients who gained: ≥15 letters, or reached ≥84 letters in BCVA    | 38.1%                                                   | 43.1%                                                    | 14.5%                     |
 | Month 12                                                                          |                                                         |                                                          |                           |
-| Number of injections up to Month 12:                                              |                                                         |                                                          |                           |
 | Mean                                                                              | 4.6                                                     | 3.5                                                      | N/A                       |
 | Median                                                                            | 4.0                                                     | 2.5                                                      | N/A                       |
 | Mean average BCVA change from Month 1 to Month 12 compared to baseline (letters)  | +12.8                                                   | +12.5                                                    | N/A                       |
 | Proportion of patients who gained: ≥15 letters, or reached ≥84 letters in BCVA    | 53.3%                                                   | 51.7%                                                    | N/A                       |
 
-a p&lt;0.00001 comparison with vPDT control
+a  p&lt;0.00001 comparison with vPDT control
 
 b Comparative control up to Month 3. Patients randomised to vPDT were allowed to receive ranibizumab treatment as of Month 3 (in Group III, 38 patients received ranibizumab as of Month 3)
 
@@ -1296,11 +1261,9 @@ At Month 2, all patients received open-label treatment with ranibizumab as neede
 
 Key outcome measures from MINERVA are summarised in Table 3 and Figure 3. An improvement of vision was observed and was accompanied by a reduction in central subfield thickness over the 12-month period.
 
-The mean number of injections given over 12 months was 5.8 in the ranibizumab arm versus 5.4 in those patients in the sham arm who were eligible to receive ranibizumab from Month 2 onwards. In
-
 <div style=\"page-break-after: always\"></div>
 
-the sham arm 7 out of 59 patients did not receive any treatment with ranibizumab in the study eye during the 12-month period.
+The mean number of injections given over 12 months was 5.8 in the ranibizumab arm versus 5.4 in those patients in the sham arm who were eligible to receive ranibizumab from Month 2 onwards. In the sham arm 7 out of 59 patients did not receive any treatment with ranibizumab in the study eye during the 12-month period.
 
 Table 3 Outcomes at Month 2 (MINERVA)
 
@@ -1315,11 +1278,13 @@ Figure 3 Mean change from baseline BCVA over time to Month 12 (MINERVA)
 
 <!-- image -->
 
-Treatment:—ORanibizumab 0.5mg (N=119)
+Treatment:—0Ranibizumab 0.5mg (N=119)
 
 Sham (N=59)
 
-* Observed mean BCVA may differ from the Least Squares Mean BCVA (applicable only at Month 2)
+*Observed mean BCVA may differ from the Least Squares Mean BCVA (applicable only at Month 2)
+
+<div style=\"page-break-after: always\"></div>
 
 When comparing ranibizumab versus sham control at Month 2, a consistent treatment effect both overall and across baseline aetiology subgroups was observed:
 
@@ -1330,11 +1295,9 @@ Table 4 Treatment effect overall and across baseline aetiology subgroups
 | Overall                               |                                    9.9 |                                     178 |
 | Angioid streaks                       |                                   14.6 |                                      27 |
 | Post-inflammatory retinochoroidopathy |                                    6.5 |                                      28 |
-| Central serous chorioretinopathy      |                                    5   |                                      23 |
+| Central serous chorioretinopathy      |                                    5.0 |                                      23 |
 | Idiopathic chorioretinopathy          |                                   11.4 |                                      63 |
 | Miscellaneous aetiologies a           |                                   10.6 |                                      37 |
-
-<div style=\"page-break-after: always\"></div>
 
 In the pivotal study G2301 (MINERVA), five adolescent patients aged 12 to 17 years with visual impairment secondary to CNV received open-label treatment with ranibizumab 0.5 mg at baseline followed by an individualised treatment regimen as for the adult population. BCVA improved from baseline to Month 12 in all five patients, ranging from 5 to 38 letters (mean of 16.6 letters). The improvement of vision was accompanied by a stabilisation or reduction in central subfield thickness over the 12-month period. The mean number of ranibizumab injections given in the study eye over 12 months was 3 (ranged from 2 to 5). Overall, ranibizumab treatment was well tolerated.
 
@@ -1362,7 +1325,7 @@ The effect at 12 months was consistent in most subgroups. However, subjects with
 
 <div style=\"page-break-after: always\"></div>
 
-## Table 5 Outcomes at Month 12 in study D2301 (RESTORE) and at Month 36 in study D2301-E1 (RESTORE Extension)
+Table 5 Outcomes at Month 12 in study D2301 (RESTORE) and at Month 36 in study D2301-E1 (RESTORE Extension)
 
 | Outcome measures at Month 12 compared to baseline in study D2301 (RESTORE)                             | Ranibizumab 0.5 mg n=115      | Ranibizumab 0.5 mg + Laser n=118      | Laser n=110      |
 |--------------------------------------------------------------------------------------------------------|-------------------------------|---------------------------------------|------------------|
@@ -1376,9 +1339,9 @@ The effect at 12 months was consistent in most subgroups. However, subjects with
 | Gain of ≥15 letters or BCVA ≥84 letters at Month 36 (%)                                                | 27.7                          | 30.1                                  | 21.6             |
 | Mean number of injections (Months 12-35)*                                                              | 6.8                           | 6.0                                   | 6.5              |
 
-a
+a p&lt;0.0001 for comparisons of ranibizumab arms vs. laser arm.
 
-p&lt;0.0001 for comparisons of ranibizumab arms vs. laser arm. n in D2301-E1 (RESTORE Extension) is the number of patients with a value at both D2301 (RESTORE) baseline (Month 0) and at the Month 36 visit.
+n in D2301-E1 (RESTORE Extension) is the number of patients with a value at both D2301 (RESTORE) baseline (Month 0) and at the Month 36 visit.
 
 * The proportion of patients who did not require any ranibizumab treatment during the extension phase was 19%, 25% and 20% in the prior ranibizumab, prior ranibizumab + laser and prior laser groups, respectively.
 
@@ -1428,18 +1391,18 @@ At year 1, 41.8% of eyes experienced a ≥2 -step improvement in the DRSS when t
 
 Table 7 DRSS improvement or worsening of ≥ 2 or ≥ 3 steps at year 1 in Protocol S (LOCF Method)
 
-| Categorised change from baseline                                                                                                             | Protocol S                                                                                                                                   | Protocol S                                                                                                                                   | Protocol S                                                                                                                                   |
-|----------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|
-| Categorised change from baseline                                                                                                             | Ranibizumab 0.5 mg (N=189)                                                                                                                   | PRP (N=199)                                                                                                                                  | Difference in proportion (%), CI                                                                                                             |
-| ≥2 -step improvement                                                                                                                         | ≥2 -step improvement                                                                                                                         | ≥2 -step improvement                                                                                                                         | ≥2 -step improvement                                                                                                                         |
-| n (%)                                                                                                                                        | 79 (41.8%)                                                                                                                                   | 29 (14.6%)                                                                                                                                   | 27.4 (18.9, 35.9)                                                                                                                            |
-| ≥3 -step improvement                                                                                                                         | ≥3 -step improvement                                                                                                                         | ≥3 -step improvement                                                                                                                         | ≥3 -step improvement                                                                                                                         |
-| n (%)                                                                                                                                        | 54 (28.6%)                                                                                                                                   | 6 (3.0%)                                                                                                                                     | 25.7 (18.9, 32.6)                                                                                                                            |
-| ≥2 -step worsening                                                                                                                           | ≥2 -step worsening                                                                                                                           | ≥2 -step worsening                                                                                                                           | ≥2 -step worsening                                                                                                                           |
-| n (%)                                                                                                                                        | 3 (1.6%)                                                                                                                                     | 23 (11.6%)                                                                                                                                   | -9.9 (-14.7, -5.2)                                                                                                                           |
-| ≥3 -step worsening                                                                                                                           | ≥3 -step worsening                                                                                                                           | ≥3 -step worsening                                                                                                                           | ≥3 -step worsening                                                                                                                           |
-| n (%)                                                                                                                                        | 1 (0.5%)                                                                                                                                     | 8 (4.0%)                                                                                                                                     | -3.4 (-6.3, -0.5)                                                                                                                            |
-| DRSS = diabetic retinopathy severity score, n = number of patients who satisfied the condition at the visit, N = total number of study eyes. | DRSS = diabetic retinopathy severity score, n = number of patients who satisfied the condition at the visit, N = total number of study eyes. | DRSS = diabetic retinopathy severity score, n = number of patients who satisfied the condition at the visit, N = total number of study eyes. | DRSS = diabetic retinopathy severity score, n = number of patients who satisfied the condition at the visit, N = total number of study eyes. |
+| Categorised change from baseline                                                                                                           | Protocol S                                                                                                                                 | Protocol S                                                                                                                                 | Protocol S                                                                                                                                 |
+|--------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
+| Categorised change from baseline                                                                                                           | Ranibizumab 0.5 mg (N=189)                                                                                                                 | PRP (N=199)                                                                                                                                | Difference in proportion (%), CI                                                                                                           |
+| ≥2 -step improvement                                                                                                                       | ≥2 -step improvement                                                                                                                       | ≥2 -step improvement                                                                                                                       | ≥2 -step improvement                                                                                                                       |
+| n (%)                                                                                                                                      | 79 (41.8%)                                                                                                                                 | 29 (14.6%)                                                                                                                                 | 27.4 (18.9, 35.9)                                                                                                                          |
+| ≥3 -step improvement                                                                                                                       | ≥3 -step improvement                                                                                                                       | ≥3 -step improvement                                                                                                                       | ≥3 -step improvement                                                                                                                       |
+| n (%)                                                                                                                                      | 54 (28.6%)                                                                                                                                 | 6 (3.0%)                                                                                                                                   | 25.7 (18.9, 32.6)                                                                                                                          |
+| ≥2 -step worsening                                                                                                                         | ≥2 -step worsening                                                                                                                         | ≥2 -step worsening                                                                                                                         | ≥2 -step worsening                                                                                                                         |
+| n (%)                                                                                                                                      | 3 (1.6%)                                                                                                                                   | 23 (11.6%)                                                                                                                                 | -9.9 (-14.7, -5.2)                                                                                                                         |
+| ≥3 -step worsening                                                                                                                         | ≥3 -step worsening                                                                                                                         | ≥3 -step worsening                                                                                                                         | ≥3 -step worsening                                                                                                                         |
+| n (%)                                                                                                                                      | 1 (0.5%)                                                                                                                                   | 8 (4.0%)                                                                                                                                   | -3.4 (-6.3, -0.5)                                                                                                                          |
+| DRSS = diabetic retinopathy severity score, n = number of patients who satisfied the condition at the visit, N=total number of study eyes. | DRSS = diabetic retinopathy severity score, n = number of patients who satisfied the condition at the visit, N=total number of study eyes. | DRSS = diabetic retinopathy severity score, n = number of patients who satisfied the condition at the visit, N=total number of study eyes. | DRSS = diabetic retinopathy severity score, n = number of patients who satisfied the condition at the visit, N=total number of study eyes. |
 
 At year 1 in the ranibizumab-treated group in Protocol S, ≥2 -step improvement in DRSS was consistent in eyes without DME (39.9%) and with baseline DME (48.8%).
 
@@ -1494,18 +1457,19 @@ Key outcome measures from BRIGHTER and CRYSTAL are shown in Table 9.
 
 Table 9 Outcomes at Months 6 and 24 (BRIGHTER and CRYSTAL)
 
-|                                                            | BRIGHTER              | BRIGHTER                      | BRIGHTER      | CRYSTAL               |
-|------------------------------------------------------------|-----------------------|-------------------------------|---------------|-----------------------|
-|                                                            | Lucentis 0.5 mg N=180 | Lucentis 0.5 mg + Laser N=178 | Laser* N=90   | Lucentis 0.5 mg N=356 |
-| Mean change in BCVA at Month 6 a (letters) (SD)            | +14.8 (10.7)          | +14.8 (11.13)                 | +6.0 (14.27)  | +12.0 (13.95)         |
-| Mean change in BCVA at Month 24 b                          | +15.5 (13.91)         | +17.3 (12.61)                 | +11.6 (16.09) | +12.1 (18.60)         |
-| (letters) (SD) Gain of ≥15 letters in BCVA at Month 24 (%) | 52.8                  | 59.6                          |               | 49.2                  |
-| Mean number of injections (SD) (months 0-23)               | 11.4                  | 11.3 (6.02)                   | 43.3          | 13.1 (6.39)           |
-|                                                            | (5.81)                |                               | NA            |                       |
+|                                                                    | BRIGHTER              | BRIGHTER                      | BRIGHTER      | CRYSTAL               |
+|--------------------------------------------------------------------|-----------------------|-------------------------------|---------------|-----------------------|
+|                                                                    | Lucentis 0.5 mg N=180 | Lucentis 0.5 mg + Laser N=178 | Laser* N=90   | Lucentis 0.5 mg N=356 |
+| Mean change in BCVA at Month 6 a (letters) (SD)                    | +14.8 (10.7)          | +14.8 (11.13)                 | +6.0 (14.27)  | +12.0 (13.95)         |
+| Mean change in BCVA at Month 24 b                                  | +15.5 (13.91)         | +17.3 (12.61)                 | +11.6 (16.09) |                       |
+| (letters) (SD)                                                     |                       |                               |               | +12.1 (18.60)         |
+| ≥15 letters in BCVA at Month 24 (%) Mean number of injections (SD) | 52.8                  | 59.6                          | 43.3          | 49.2                  |
+| (months 0-23)                                                      | 11.4 (5.81)           | 11.3 (6.02)                   | NA            | 13.1 (6.39)           |
 
 a p&lt;0.0001for both comparisons in BRIGHTER at Month 6: Lucentis 0.5 mg vs Laser and Lucentis 0.5 mg + Laser vs Laser.
 
-- b p&lt;0.0001for null hypothesis in CRYSTAL that the mean change at Month 24 from baseline is zero.
+b p&lt;0.0001for null hypothesis in CRYSTAL that the mean change at Month 24 from baseline is zero.
+
 * Starting at Month 6 ranibizumab 0.5 mg treatment was allowed (24 patients were treated with laser only).
 
 In BRIGHTER, ranibizumab 0.5 mg with adjunctive laser therapy demonstrated non-inferiority versus ranibizumab monotherapy from baseline to Month 24 (95% CI -2.8, 1.4).
@@ -1518,11 +1482,11 @@ The effect in terms of visual improvement was observed in all patients treated w
 
 The long-term safety profile of ranibizumab observed in the 24-month studies is consistent with the known Lucentis safety profile.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Paediatric population
 
 The safety and efficacy of ranibizumab 0.5 mg in pre-filled syringe have not been studied in paediatric patients.
-
-<div style=\"page-break-after: always\"></div>
 
 The European Medicines Agency has waived the obligation to submit the results of studies with Lucentis in all subsets of the paediatric population in neovascular AMD, visual impairment due to DME, visual impairment due to macular oedema secondary to RVO and visual impairment due to CNV and diabetic retinopathy (see section 4.2 for information on paediatric use).
 
@@ -1542,9 +1506,9 @@ Bilateral intravitreal administration of ranibizumab to cynomolgus monkeys at do
 
 Intraocularly, there were dose-dependent increases in anterior chamber flare and cells with a peak 2 days after injection. The severity of the inflammatory response generally diminished with subsequent injections or during recovery. In the posterior segment, there were vitreal cell infiltration and floaters, which also tended to be dose-dependent and generally persisted to the end of the treatment period. In the 26-week study, the severity of the vitreous inflammation increased with the number of injections. However, evidence of reversibility was observed after recovery. The nature and timing of the posterior segment inflammation is suggestive of an immune-mediated antibody response, which may be clinically irrelevant. Cataract formation was observed in some animals after a relatively long period of intense inflammation, suggesting that the lens changes were secondary to severe inflammation. A transient increase in post-dose intraocular pressure was observed following intravitreal injections, irrespective of dose.
 
-Microscopic ocular changes were related to inflammation and did not indicate degenerative processes. Granulomatous inflammatory changes were noted in the optic disc of some eyes. These posterior segment changes diminished, and in some instances resolved, during the recovery period.
-
 <div style=\"page-break-after: always\"></div>
+
+Microscopic ocular changes were related to inflammation and did not indicate degenerative processes. Granulomatous inflammatory changes were noted in the optic disc of some eyes. These posterior segment changes diminished, and in some instances resolved, during the recovery period.
 
 Following intravitreal administration, no signs of systemic toxicity were detected. Serum and vitreous antibodies to ranibizumab were found in a subset of treated animals.
 
@@ -1572,13 +1536,13 @@ In the absence of compatibility studies, this medicinal product must not be mixe
 
 Store in a refrigerator (2  C - 8  C). Do not freeze. Keep the pre-filled syringe in its sealed tray in the carton in order to protect from light. Prior to use, the unopened tray may be kept at room temperature (25°C) for up to 24 hours.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 6.5 Nature and contents of container
 
 0.165 ml sterile solution in a pre-filled syringe (type I glass) with a bromobutyl rubber plunger stopper and a syringe cap consisting of a white, tamper-evident rigid seal with a grey bromobutyl rubber tip cap including a Luer lock adapter. The pre-filled syringe has a plunger rod and a finger grip, and is packed in a sealed tray.
 
 Pack size of one pre-filled syringe.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 6.6 Special precautions for disposal and other handling
 
@@ -1595,25 +1559,29 @@ To prepare Lucentis for intravitreal administration, please adhere to the instru
 | Introduction                   | Read all the instructions carefully before using the pre-filled syringe. The pre-filled syringe is for single use only. The pre-filled syringe is sterile. Do not use the product if the packaging is damaged. The opening of the sealed tray and all subsequent steps should be done under aseptic conditions. Note: The dose must be set to 0.05 ml.   |
 |--------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Pre-filled syringe description | Syringe cap 0.05 ml dose mark Finger grip Plunger rod Rubber stopper Luer lock Figure 1                                                                                                                                                                                                                                                                  |
-| Prepare                        | 1. Make sure that the pack contains: • a sterile pre-filled syringe in a sealed tray. 2. Peel the lid off the syringe tray and, using aseptic technique, carefully remove the syringe.                                                                                                                                                                   |
-| Check syringe                  | 3. Check that: • the syringe cap is not detached from the Luer lock. • the syringe is not damaged. • the solution looks clear, colourless to pale brownish-yellow and does not contain any particles. 4. If any of the above is not true, discard the pre-filled syringe and use a new one.                                                              |
 
 <div style=\"page-break-after: always\"></div>
 
 <!-- image -->
 
-| Remove syringe cap   | 5. Snap off (do not turn or twist) the syringe cap (see Figure 2). 6. Dispose of the syringe cap (see Figure 3).                                                                                                                                        | Figure 2   |
-|----------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|
-| Attach needle        | 7. Attach a 30G x ½″ sterile injection needle firmly onto the syringe by screwing it tightly onto the Luer lock (see Figure 4). 8. Carefully remove the needle cap by pulling it straight off (see Figure 5). Note: Do not wipe the needle at any time. |            |
-| Dislodge air bubbles | 9. Hold the syringe upright. 10. If there are any air bubbles, gently tap the syringe with your finger until the bubbles rise to the top (see Figure 6).                                                                                                | Figure 6   |
+| Prepare            | 1. Make sure that the pack contains: • a sterile pre-filled syringe in a sealed tray. 2. Peel the lid off the syringe tray and, using aseptic technique, carefully                                                                                                                          | 1. Make sure that the pack contains: • a sterile pre-filled syringe in a sealed tray. 2. Peel the lid off the syringe tray and, using aseptic technique, carefully   |
+|--------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Check syringe      | 3. Check that: • the syringe cap is not detached from the Luer lock. • the syringe is not damaged. • the solution looks clear, colourless to pale brownish-yellow and does not contain any particles. 4. If any of the above is not true, discard the pre-filled syringe and use a new one. |                                                                                                                                                                      |
+| Remove syringe cap | 5. Snap off (do not turn or twist) the syringe cap (see Figure 2). 6. Dispose of the syringe cap (see Figure 3).                                                                                                                                                                            |                                                                                                                                                                      |
+| Attach needle      | 7. Attach a 30G x ½″ sterile injection needle firmly onto the syringe by screwing it tightly onto the Luer lock (see Figure 4). 8. Carefully remove the needle cap by pulling it straight off (see Figure 5). Note: Do not wipe the needle at any time.                                     |                                                                                                                                                                      |
 
 <div style=\"page-break-after: always\"></div>
 
 <!-- image -->
 
-| Set dose   | 11. Hold the syringe at eye level and carefully push the plunger until the edge below the dome of the rubber stopper is aligned with the dose mark (see Figure 7). This will expel the air and the excess solution and set the dose to 0.05 ml. Note: The plunger rod is not attached to the rubber stopper - this is to prevent air being drawn into the syringe.                                                                                                                                                                                                                                                    | Figure 7                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-|------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Inject     | The injection procedure should be carried out under aseptic conditions. 12. The injection needle should be inserted 3.5-4.0 mmposterior to the limbus into the vitreous cavity, avoiding the horizontal meridian and aiming towards the centre of the globe. 13. Inject slowly until the rubber stopper reaches the bottom of the syringe to deliver the volume of 0.05 ml. 14. A different scleral site should be used for subsequent injections. 15. After injection, do not recap the needle or detach it from the syringe. Dispose of the used syringe together with the needle in a sharps disposal container or | The injection procedure should be carried out under aseptic conditions. 12. The injection needle should be inserted 3.5-4.0 mmposterior to the limbus into the vitreous cavity, avoiding the horizontal meridian and aiming towards the centre of the globe. 13. Inject slowly until the rubber stopper reaches the bottom of the syringe to deliver the volume of 0.05 ml. 14. A different scleral site should be used for subsequent injections. 15. After injection, do not recap the needle or detach it from the syringe. Dispose of the used syringe together with the needle in a sharps disposal container or |
+<!-- image -->
+
+| Dislodge air bubbles   | 9. Hold the syringe upright. 10. If there are any air bubbles, gently tap the syringe with your finger until the bubbles rise to the top (see Figure 6).                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | Figure 6                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+|------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Set dose               | 11. Hold the syringe at eye level and carefully push the plunger until the edge below the dome of the rubber stopper is aligned with the dose mark (see Figure 7). This will expel the air and the excess solution and set the dose to 0.05 ml. Note: The plunger rod is not attached to the rubber stopper - this is to prevent air being drawn into the syringe.                                                                                                                                                                                                                                                             |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| Inject                 | Figure 7 The injection procedure should be carried out under aseptic conditions. 12. The injection needle should be inserted 3.5-4.0 mmposterior to the limbus into the vitreous cavity, avoiding the horizontal meridian and aiming towards the centre of the globe. 13. Inject slowly until the rubber stopper reaches the bottom of the syringe to deliver the volume of 0.05 ml. 14. A different scleral site should be used for subsequent injections. 15. After injection, do not recap the needle or detach it from the syringe. Dispose of the used syringe together with the needle in a sharps disposal container or | Figure 7 The injection procedure should be carried out under aseptic conditions. 12. The injection needle should be inserted 3.5-4.0 mmposterior to the limbus into the vitreous cavity, avoiding the horizontal meridian and aiming towards the centre of the globe. 13. Inject slowly until the rubber stopper reaches the bottom of the syringe to deliver the volume of 0.05 ml. 14. A different scleral site should be used for subsequent injections. 15. After injection, do not recap the needle or detach it from the syringe. Dispose of the used syringe together with the needle in a sharps disposal container or |
+
+<div style=\"page-break-after: always\"></div>
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
@@ -1628,8 +1596,6 @@ EU/1/06/374/003
 Date of first authorisation: 22 January 2007
 
 Date of latest renewal: 11 November 2016
-
-<div style=\"page-break-after: always\"></div>
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -1658,6 +1624,8 @@ Name and address of the manufacturers responsible for batch release
 
 Novartis Farmacéutica, S.A. Gran Via de les Corts Catalanes, 764 08013 Barcelona Spain
 
+Novartis Pharmaceutical Manufacturing LLC Verovškova ulica 57 1000 Ljubljana Slovenia
+
 Lek Pharmaceuticals d.d. Verovškova ulica 57 Ljubljana, 1526 Slovenia
 
 Novartis Pharma GmbH Sophie-Germain-Strasse 10 90443 Nuremberg Germany
@@ -1674,13 +1642,13 @@ The printed package leaflet of the medicinal product must state the name and add
 
 Medicinal product subject to restricted medical prescription (see Annex I: Summary of Product Characteristics, section 4.2).
 
+<div style=\"page-break-after: always\"></div>
+
 ## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
 ## · Periodic safety update reports (PSURs)
 
 The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
-
-<div style=\"page-break-after: always\"></div>
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
@@ -1819,18 +1787,18 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
-|--------------------------------------------------------------------|
-| LABEL                                                              |
-| VIAL                                                               |
+| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
+|------------------------------------------------------------------|
+| LABEL                                                            |
+| VIAL                                                             |
 
-| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|----------------------------------------------------------------|
+| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|-------------------------------------------------------------|
 
 Lucentis 10 mg/ml solution for injection ranibizumab Intravitreal use
 
-| 2.   | METHOD OF ADMINISTRATION   |
-|------|----------------------------|
+| 2.   | METHODOFADMINISTRATION   |
+|------|--------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -1842,8 +1810,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
-|------|--------------------------------------------|
+| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
+|------|---------------------------------------|
 
 2.3 mg/0.23 ml
 
@@ -1882,9 +1850,7 @@ Excess volume should be expelled prior to injection.
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-For single use only. Upon opening of the sealed tray, proceed under aseptic conditions.
-
-Set dose to 0.05 ml dose mark.
+For single use only. Upon opening of the sealed tray, proceed under aseptic conditions. Set dose to 0.05 ml dose mark.
 
 Read the package leaflet before use.
 
@@ -1910,19 +1876,11 @@ Do not freeze.
 
 Keep the pre-filled syringe in its sealed tray in the carton to protect from light.
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Novartis Europharm Limited
-
-Vista Building
-
-Elm Park, Merrion Road
-
-Dublin 4
-
-Ireland
+Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1935,8 +1893,7 @@ Lot
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
-
-## 16. INFORMATION IN BRAILLE
+16. INFORMATION IN BRAILLE
 
 Justification for not including Braille accepted.
 
@@ -1964,8 +1921,7 @@ BLISTER FOIL
 
 Lucentis 10 mg/ml solution for injection in pre-filled syringe ranibizumab Intravitreal use
 
-| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
-|------|----------------------------------------------|
+## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
 
 Novartis Europharm Limited
 
@@ -1973,42 +1929,37 @@ Novartis Europharm Limited
 
 EXP
 
-| 4.   | BATCH NUMBER   |
-|------|----------------|
+## 4. BATCH NUMBER
 
 Lot
 
-| 5.   | OTHER   |
-|------|---------|
+## 5. OTHER
 
-0.165 ml
+0.165 ml Lucentis 10 mg/ml solution for injection ranibizumab Intravitreal use EXP
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
-|--------------------------------------------------------------------|
-| LABEL                                                              |
-| PRE-FILLED SYRINGE                                                 |
+| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
+|------------------------------------------------------------------|
+| LABEL                                                            |
+| PRE-FILLED SYRINGE                                               |
 
-## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
+| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|-------------------------------------------------------------|
 
-Lucentis 10 mg/ml solution for injection ranibizumab Intravitreal use
-
-| 2.   | METHOD OF ADMINISTRATION   |
-|------|----------------------------|
+| 2.   | METHODOFADMINISTRATION   |
+|------|--------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
 
-EXP
-
 | 4.   | BATCH NUMBER   |
 |------|----------------|
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
-|------|--------------------------------------------|
+| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
+|------|---------------------------------------|
 
 0.165 ml
 
@@ -2075,7 +2026,7 @@ Do not freeze.
 
 Keep the vial in the outer carton in order to protect from light.
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -2100,8 +2051,7 @@ Lot
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
-
-## 16. INFORMATION IN BRAILLE
+16. INFORMATION IN BRAILLE
 
 Justification for not including Braille accepted.
 
@@ -2119,18 +2069,18 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
-|--------------------------------------------------------------------|
-| LABEL                                                              |
-| VIAL                                                               |
+| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
+|------------------------------------------------------------------|
+| LABEL                                                            |
+| VIAL                                                             |
 
-| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|----------------------------------------------------------------|
+| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|-------------------------------------------------------------|
 
 Lucentis 10 mg/ml solution for injection ranibizumab Intravitreal use
 
-| 2.   | METHOD OF ADMINISTRATION   |
-|------|----------------------------|
+| 2.   | METHODOFADMINISTRATION   |
+|------|--------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -2142,8 +2092,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
-|------|--------------------------------------------|
+| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
+|------|---------------------------------------|
 
 2.3 mg/0.23 ml
 
@@ -2278,7 +2228,7 @@ The symptoms you might experience are pain or increased discomfort in your eye, 
 
 The most frequently reported side effects are described below:
 
-## Very common side effects (may affect more than 1 in 10 people)
+Very common side effects (may affect more than 1 in 10 people)
 
 Visual side effects include: Inflammation of the eye, bleeding in the back of the eye (retinal bleeding), visual disturbances, eye pain, small particles or spots in your vision (floaters), bloodshot eye, eye irritation, a feeling of having something in the eye, increased tear production, inflammation or infection of the eyelid margins, dry eye, redness or itching of the eye and increased eye pressure. Non-visual side effects include: Sore throat, nasal congestion, runny nose, headache and joint pain.
 
@@ -2339,6 +2289,8 @@ Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Irelan
 ## Manufacturer
 
 Novartis Farmacéutica, S.A. Gran Via de les Corts Catalanes, 764 08013 Barcelona Spain
+
+Novartis Pharmaceutical Manufacturing LLC Verovškova ulica 57 1000 Ljubljana Slovenia
 
 Lek Pharmaceuticals d.d. Verovškova ulica 57 Ljubljana, 1526 Slovenia
 
@@ -2410,29 +2362,31 @@ Tel: +372 66 30 810
 
 ## Norge
 
-Novartis Norge AS Tlf: +47 23 05 20 00
+Novartis Norge AS
+
+Tlf: +47 23 05 20 00
+
+<div style=\"page-break-after: always\"></div>
 
 ## Ελλάδα
+
+## Österreich
 
 Novartis (Hellas) A.E.B.E.
 
 Τηλ: +30 210 281 17 12
 
-## Österreich
-
 Novartis Pharma GmbH
 
 Tel: +43 1 86 6570
 
-<div style=\"page-break-after: always\"></div>
-
 ## España
-
-## Polska
 
 Novartis Farmacéutica, S.A.
 
 Tel: +34 93 306 42 00
+
+## Polska
 
 Novartis Poland Sp. z o.o.
 
@@ -2446,9 +2400,7 @@ Tél: +33 1 55 47 66 00
 
 ## Portugal
 
-Novartis Farma - Produtos Farmacêuticos, S.A.
-
-Tel: +351 21 000 8600
+Novartis Farma - Produtos Farmacêuticos, S.A. Tel: +351 21 000 8600
 
 ## Hrvatska
 
@@ -2554,11 +2506,9 @@ Lucentis and verteporfin photodynamic therapy in CNV secondary to PM There is no
 
 Lucentis should be inspected visually for particulate matter and discoloration prior to administration.
 
-The injection procedure should be carried out under aseptic conditions, which includes the use of surgical hand disinfection, sterile gloves, a sterile drape and a sterile eyelid speculum (or equivalent) and the availability of sterile paracentesis (if req uired). The patient's medical history for
-
 <div style=\"page-break-after: always\"></div>
 
-hypersensitivity reactions should be carefully evaluated prior to performing the intravitreal procedure. Adequate anaesthesia and a broad-spectrum topical microbicide to disinfect the periocular skin, eyelid and ocular surface should be administered prior to the injection, in accordance with local practice.
+The injection procedure should be carried out under aseptic conditions, which includes the use of surgical hand disinfection, sterile gloves, a sterile drape and a sterile eyelid speculum (or equivalent) and the availability of sterile paracentesis (if req uired). The patient's medical history for hypersensitivity reactions should be carefully evaluated prior to performing the intravitreal procedure. Adequate anaesthesia and a broad-spectrum topical microbicide to disinfect the periocular skin, eyelid and ocular surface should be administered prior to the injection, in accordance with local practice.
 
 ## Vial-only pack
 
@@ -2589,10 +2539,9 @@ To prepare Lucentis for intravitreal administration to adult patients, please ad
 <!-- image -->
 
 1. Before withdrawal, remove the vial cap and clean the vial septum (e.g. with 70% alcohol swab).
-2. Assemble a 5 µm filter needle (18G x 1½″,
-
-1.2 mm x 40 mm, 5 µm) onto a 1 ml syringe using aseptic technique. Push the blunt filter needle into the centre of the vial stopper until the needle touches the bottom edge of the vial.
-
+2. Assemble a 5 µm filter needle (18G x
+3. 1½″,
+4. 1.2 mm x 40 mm, 5 µm) onto a 1 ml syringe using aseptic technique. Push the blunt filter needle into the centre of the vial stopper until the needle touches the bottom edge of the vial.
 3. Withdraw all the liquid from the vial, keeping the vial in an upright position, slightly inclined to ease complete withdrawal.
 4. Ensure that the plunger rod is drawn sufficiently back when emptying the vial in order to completely empty the filter needle.
 5. Leave the blunt filter needle in the vial and disconnect the syringe from the blunt filter needle. The filter needle should be discarded after withdrawal of the vial contents and should not be used for the intravitreal injection.
@@ -2789,17 +2738,15 @@ Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Irelan
 
 ## Manufacturer
 
-Novartis Manufacturing NV Rijksweg 14 2870 Puurs-Sint-Amands Belgium
-
-<div style=\"page-break-after: always\"></div>
-
-Novartis Pharma GmbH Sophie-Germain-Strasse 10 90443 Nuremberg Germany
-
-For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
+Novartis Manufacturing NV Rijksweg 14 2870 Puurs-Sint-Amands Belgium Novartis Pharma GmbH Sophie-Germain-Strasse 10 90443 Nuremberg Germany For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 ## België/Belgique/Belgien
 
 Novartis Pharma N.V. Tél/Tel: +32 2 246 16 11
+
+## Lietuva
+
+SIA Novartis Baltics Lietuvos filialas Tel: +370 5 269 16 50
 
 ## България
 
@@ -2809,71 +2756,17 @@ Novartis Bulgaria EOOD
 
 .: +359 2 489 98 28
 
-## Česká republika
-
-Novartis s.r.o.
-
-Tel: +420 225 775 111
-
-## Danmark
-
-Novartis Healthcare A/S
-
-Tlf: +45 39 16 84 00
-
-## Deutschland
-
-Novartis Pharma GmbH
-
-Tel: +49 911 273 0
-
-## Eesti
-
-SIA Novartis Baltics Eesti filiaal
-
-Tel: +372 66 30 810
-
-## Ελλάδα
-
-Novartis (Hellas) A.E.B.E. Τηλ: +30 210 281 17 12
-
-## España
-
-Novartis Farmacéutica, S.A.
-
-Tel: +34 93 306 42 00
-
-## France
-
-Novartis Pharma S.A.S.
-
-Tél: +33 1 55 47 66 00
-
-## Hrvatska
-
-Novartis Hrvatska d.o.o. Tel. +385 1 6274 220
-
-## Ireland
-
-Novartis Ireland Limited
-
-Tel: +353 1 260 12 55
-
-## Ísland
-
-Vistor hf.
-
-Sími: +354 535 7000
-
-## Lietuva
-
-SIA Novartis Baltics Lietuvos filialas Tel: +370 5 269 16 50
-
 ## Luxembourg/Luxemburg
 
 Novartis Pharma N.V.
 
 Tél/Tel: +32 2 246 16 11
+
+## Česká republika
+
+Novartis s.r.o.
+
+Tel: +420 225 775 111
 
 ## Magyarország
 
@@ -2881,11 +2774,23 @@ Novartis Hungária Kft.
 
 Tel.: +36 1 457 65 00
 
+## Danmark
+
+Novartis Healthcare A/S
+
+Tlf: +45 39 16 84 00
+
 ## Malta
 
 Novartis Pharma Services Inc.
 
 Tel: +356 2122 2872
+
+## Deutschland
+
+Novartis Pharma GmbH
+
+Tel: +49 911 273 0
 
 ## Nederland
 
@@ -2893,17 +2798,31 @@ Novartis Pharma B.V.
 
 Tel: +31 88 04 52 111
 
+## Eesti
+
+SIA Novartis Baltics Eesti filiaal
+
+Tel: +372 66 30 810
+
 ## Norge
 
 Novartis Norge AS
 
 Tlf: +47 23 05 20 00
 
+## Ελλάδα
+
+Novartis (Hellas) A.E.B.E. Τηλ: +30 210 281 17 12
+
 ## Österreich
 
-Novartis Pharma GmbH
+Novartis Pharma GmbH Tel: +43 1 86 6570
 
-Tel: +43 1 86 6570
+## España
+
+Novartis Farmacéutica, S.A.
+
+Tel: +34 93 306 42 00
 
 ## Polska
 
@@ -2911,13 +2830,27 @@ Novartis Poland Sp. z o.o.
 
 Tel.: +48 22 375 4888
 
+## France
+
+Novartis Pharma S.A.S.
+
+Tél: +33 1 55 47 66 00
+
 ## Portugal
 
 Novartis Farma - Produtos Farmacêuticos, S.A. Tel: +351 21 000 8600
 
+## Hrvatska
+
+Novartis Hrvatska d.o.o. Tel. +385 1 6274 220
+
 ## România
 
 Novartis Pharma Services Romania SRL Tel: +40 21 31299 01
+
+## Ireland
+
+Novartis Ireland Limited Tel: +353 1 260 12 55
 
 ## Slovenija
 
@@ -2925,11 +2858,19 @@ Novartis Pharma Services Inc.
 
 Tel: +386 1 300 75 50
 
+## Ísland
+
+Vistor hf.
+
+Sími: +354 535 7000
+
 ## Slovenská republika
 
 Novartis Slovakia s.r.o.
 
 Tel: +421 2 5542 5439
+
+<div style=\"page-break-after: always\"></div>
 
 ## Italia
 
@@ -2967,11 +2908,9 @@ Tel: +371 67 887 070
 
 ## Other sources of information
 
-Detailed information on this medicine is available on the European Medicines Agency website: http://www.ema.europa.eu
+Detailed information on this medicine is available on the European Medicines Agency website: http://www.ema.europa.eu The following information is intended for healthcare professionals only:
 
 <div style=\"page-break-after: always\"></div>
-
-The following information is intended for healthcare professionals only:
 
 Please also refer to section 3 'How Lucentis is given'.
 
@@ -2999,17 +2938,15 @@ The treatment of visual impairment due to CNV should be determined individually 
 
 There is some experience of Lucentis administered concomitantly with laser photocoagulation. When given on the same day, Lucentis should be administered at least 30 minutes after laser photocoagulation. Lucentis can be administered in patients who have received previous laser photocoagulation.
 
-## Lucentis and verteporfin photodynamic therapy in CNV secondary to PM
+Lucentis and verteporfin photodynamic therapy in CNV secondary to PM
 
 There is no experience of concomitant administration of Lucentis and verteporfin.
 
 Lucentis should be inspected visually for particulate matter and discoloration prior to administration.
 
-The injection procedure should be carried out under aseptic conditions, which includes the use of surgical hand disinfection, sterile gloves, a sterile drape and a sterile eyelid speculum (or equivalent) and the availability of sterile paracentesis (if req uired). The patient's medical history for hypersensitivity reactions should be carefully evaluated prior to performing the intravitreal procedure.
-
 <div style=\"page-break-after: always\"></div>
 
-Adequate anaesthesia and a broad-spectrum topical microbicide to disinfect the periocular skin, eyelid and ocular surface should be administered prior to the injection, in accordance with local practice.
+The injection procedure should be carried out under aseptic conditions, which includes the use of surgical hand disinfection, sterile gloves, a sterile drape and a sterile eyelid speculum (or equivalent) and the availability of sterile paracentesis (if req uired). The patient's medical history for hypersensitivity reactions should be carefully evaluated prior to performing the intravitreal procedure. Adequate anaesthesia and a broad-spectrum topical microbicide to disinfect the periocular skin, eyelid and ocular surface should be administered prior to the injection, in accordance with local practice.
 
 The pre-filled syringe is for single use only. The pre-filled syringe is sterile. Do not use the product if the packaging is damaged. The sterility of the pre-filled syringe cannot be guaranteed unless the tray remains sealed. Do not use the pre-filled syringe if the solution is discoloured, cloudy or contains particles.
 
@@ -3036,6 +2973,8 @@ To prepare Lucentis for intravitreal administration, please adhere to the instru
 | Attach needle        | 7. Attach a 30G x ½″ sterile injection needle firmly onto the syringe by screwing it tightly onto the Luer lock (see Figure 4). 8. Carefully remove the needle cap by pulling it straight off (see Figure 5). Note: Do not wipe the needle at any time. | Figure 4 Figure 5 |
 
 <div style=\"page-break-after: always\"></div>
+
+<!-- image -->
 
 <!-- image -->
 
@@ -3103,9 +3042,7 @@ Talk to your baby's doctor before your baby is given Lucentis.
 
 treat such an infection or retinal detachment as soon as possible. Please tell the doctor immediately if your baby develops signs such as eye pain or worsening eye redness.
 
-In some patients the eye pressure may increase for a short period directly after the injection.
-
-- -Your baby's doctor may monitor this after each injection.
+- -In some patients the eye pressure may increase for a short period directly after the injection. Your baby's doctor may monitor this after each injection.
 
 Please see section 4 ('Possible side effects') for more detailed information on side effects that could occur during Lucentis therapy.
 
@@ -3143,9 +3080,9 @@ Non-visual side effects include: Sore throat, nasal congestion and runny nose, l
 
 <div style=\"page-break-after: always\"></div>
 
-## Additional side effects that have been observed with Lucentis in adults are listed below. These side effects may also occur in babies born prematurely .
+Additional side effects that have been observed with Lucentis in adults are listed below. These side effects may also occur in babies born prematurely .
 
-The most serious side effects in adults are described below:
+## The most serious side effects in adults are described below:
 
 Common serious side effects (may affect up to 1 in 10 people): Detachment or tear of the layer in the back of the eye (retinal detachment or tear) progressing to a temporary loss of sight, or a clouding of the lens (cataract).
 
@@ -3217,13 +3154,13 @@ Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Irelan
 
 Novartis Farmacéutica, S.A. Gran Via de les Corts Catalanes, 764 08013 Barcelona Spain
 
+Novartis Pharmaceutical Manufacturing LLC Verovškova ulica 57 1000 Ljubljana Slovenia
+
 Lek Pharmaceuticals d.d. Verovškova ulica 57 Ljubljana, 1526 Slovenia
 
-Novartis Pharma GmbH Sophie-Germain-Strasse 10 90443 Nuremberg Germany
+Novartis Pharma GmbH Sophie-Germain-Strasse 10 90443 Nuremberg Germany For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 <div style=\"page-break-after: always\"></div>
-
-For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 ## België/Belgique/Belgien
 
@@ -3231,11 +3168,7 @@ Novartis Pharma N.V. Tél/Tel: +32 2 246 16 11
 
 ## България
 
-Novartis Bulgaria EOOD
-
-Тел
-
-.: +359 2 489 98 28
+Novartis Bulgaria EOOD Тел .: +359 2 489 98 28
 
 ## Česká republika
 
@@ -3297,9 +3230,7 @@ Tel: +39 02 96 54 1
 
 ## Lietuva
 
-SIA Novartis Baltics Lietuvos filialas
-
-Tel: +370 5 269 16 50
+SIA Novartis Baltics Lietuvos filialas Tel: +370 5 269 16 50
 
 ## Luxembourg/Luxemburg
 
@@ -3315,9 +3246,7 @@ Tel.: +36 1 457 65 00
 
 ## Malta
 
-Novartis Pharma Services Inc.
-
-Tel: +356 2122 2872
+Novartis Pharma Services Inc. Tel: +356 2122 2872
 
 ## Nederland
 
@@ -3347,7 +3276,9 @@ Novartis Pharma Services Romania SRL Tel: +40 21 31299 01
 
 ## Slovenija
 
-Novartis Pharma Services Inc. Tel: +386 1 300 75 50
+Novartis Pharma Services Inc.
+
+Tel: +386 1 300 75 50
 
 ## Slovenská republika
 
@@ -3427,8 +3358,8 @@ For preparation and intravitreal injection the following medical devices for sin
 - -a low volume high accuracy sterile syringe (supplied separately inside the VISISURE kit)
 - -an injection needle (30G x ½″) (supplied separately inside the VISISURE kit)
 
-To prepare Lucentis for intravitreal administration to preterm infants please adhere to the instructions for use in the VISISURE kit.
-
 <div style=\"page-break-after: always\"></div>
+
+To prepare Lucentis for intravitreal administration to preterm infants please adhere to the instructions for use in the VISISURE kit.
 
 The injection needle should be inserted into the eye 1.0 to 2.0 mm posterior to the limbus, with the needle pointing towards the optic nerve. The injection volume of 0.02 ml is then delivered.

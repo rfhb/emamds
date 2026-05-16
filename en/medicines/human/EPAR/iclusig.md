@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-04-09 17:05:00
+document_datetime: 2026-05-13 16:15:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/iclusig.html
 document_name: iclusig.html
 version: success
-processing_time: 0.1504244
-conversion_datetime: 2026-04-13 14:18:37.904181
+processing_time: 0.1151292
+conversion_datetime: 2026-05-16 12:15:11.281901
 docling_version:
-  docling-serve: 1.16.1
-  docling-jobkit: 1.16.0
-  docling: 2.87.0
-  docling-core: 2.73.0
-  docling-ibm-models: 3.13.0
-  docling-parse: 5.8.0
+  docling-serve: 1.17.0
+  docling-jobkit: 1.18.0
+  docling: 2.92.0
+  docling-core: 2.74.1
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.10.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
 ---
 # Iclusig
 
@@ -125,7 +125,7 @@ English (EN) (143.85 KB - PDF)
 
 [View](/en/documents/overview/iclusig-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-698)
+[Other languages (22)](#file-language-dropdown-987)
 
 български (BG) (163.3 KB - PDF)
 
@@ -271,161 +271,161 @@ English (EN) (645.85 KB - PDF)
 
 Iclusig : EPAR - Product Information
 
-English (EN) (440.61 KB - PDF)
+English (EN) (365.74 KB - PDF)
 
-**First published:** 11/07/2013 **Last updated:** 25/03/2026
+**First published:** 11/07/2013 **Last updated:** 13/05/2026
 
 [View](/en/documents/product-information/iclusig-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-218)
+[Other languages (24)](#file-language-dropdown-135)
 
-български (BG) (815.89 KB - PDF)
+български (BG) (580.42 KB - PDF)
 
-**First published:** 11/07/2013 **Last updated:** 25/03/2026
+**First published:** 11/07/2013 **Last updated:** 13/05/2026
 
 [View](/bg/documents/product-information/iclusig-epar-product-information_bg.pdf)
 
-español (ES) (730.87 KB - PDF)
+español (ES) (430.24 KB - PDF)
 
-**First published:** 11/07/2013 **Last updated:** 25/03/2026
+**First published:** 11/07/2013 **Last updated:** 13/05/2026
 
 [View](/es/documents/product-information/iclusig-epar-product-information_es.pdf)
 
-čeština (CS) (859.24 KB - PDF)
+čeština (CS) (551.33 KB - PDF)
 
-**First published:** 11/07/2013 **Last updated:** 25/03/2026
+**First published:** 11/07/2013 **Last updated:** 13/05/2026
 
 [View](/cs/documents/product-information/iclusig-epar-product-information_cs.pdf)
 
-dansk (DA) (716.72 KB - PDF)
+dansk (DA) (415.27 KB - PDF)
 
-**First published:** 11/07/2013 **Last updated:** 25/03/2026
+**First published:** 11/07/2013 **Last updated:** 13/05/2026
 
 [View](/da/documents/product-information/iclusig-epar-product-information_da.pdf)
 
-Deutsch (DE) (966.99 KB - PDF)
+Deutsch (DE) (427.14 KB - PDF)
 
-**First published:** 11/07/2013 **Last updated:** 25/03/2026
+**First published:** 11/07/2013 **Last updated:** 13/05/2026
 
 [View](/de/documents/product-information/iclusig-epar-product-information_de.pdf)
 
-eesti keel (ET) (703.09 KB - PDF)
+eesti keel (ET) (403.5 KB - PDF)
 
-**First published:** 11/07/2013 **Last updated:** 25/03/2026
+**First published:** 11/07/2013 **Last updated:** 13/05/2026
 
 [View](/et/documents/product-information/iclusig-epar-product-information_et.pdf)
 
-ελληνικά (EL) (828.74 KB - PDF)
+ελληνικά (EL) (625.55 KB - PDF)
 
-**First published:** 11/07/2013 **Last updated:** 25/03/2026
+**First published:** 11/07/2013 **Last updated:** 13/05/2026
 
 [View](/el/documents/product-information/iclusig-epar-product-information_el.pdf)
 
-français (FR) (762.55 KB - PDF)
+français (FR) (444.39 KB - PDF)
 
-**First published:** 11/07/2013 **Last updated:** 25/03/2026
+**First published:** 11/07/2013 **Last updated:** 13/05/2026
 
 [View](/fr/documents/product-information/iclusig-epar-product-information_fr.pdf)
 
-hrvatski (HR) (749.17 KB - PDF)
+hrvatski (HR) (507.25 KB - PDF)
 
-**First published:** 11/07/2013 **Last updated:** 25/03/2026
+**First published:** 11/07/2013 **Last updated:** 13/05/2026
 
 [View](/hr/documents/product-information/iclusig-epar-product-information_hr.pdf)
 
-íslenska (IS) (474.96 KB - PDF)
+íslenska (IS) (393.35 KB - PDF)
 
-**First published:** 11/07/2013 **Last updated:** 25/03/2026
+**First published:** 11/07/2013 **Last updated:** 13/05/2026
 
 [View](/is/documents/product-information/iclusig-epar-product-information_is.pdf)
 
-italiano (IT) (717.32 KB - PDF)
+italiano (IT) (433.41 KB - PDF)
 
-**First published:** 11/07/2013 **Last updated:** 25/03/2026
+**First published:** 11/07/2013 **Last updated:** 13/05/2026
 
 [View](/it/documents/product-information/iclusig-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (813.51 KB - PDF)
+latviešu valoda (LV) (544.13 KB - PDF)
 
-**First published:** 11/07/2013 **Last updated:** 25/03/2026
+**First published:** 11/07/2013 **Last updated:** 13/05/2026
 
 [View](/lv/documents/product-information/iclusig-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (615.3 KB - PDF)
+lietuvių kalba (LT) (533.64 KB - PDF)
 
-**First published:** 11/07/2013 **Last updated:** 25/03/2026
+**First published:** 11/07/2013 **Last updated:** 13/05/2026
 
 [View](/lt/documents/product-information/iclusig-epar-product-information_lt.pdf)
 
-magyar (HU) (788.51 KB - PDF)
+magyar (HU) (538.06 KB - PDF)
 
-**First published:** 11/07/2013 **Last updated:** 25/03/2026
+**First published:** 11/07/2013 **Last updated:** 13/05/2026
 
 [View](/hu/documents/product-information/iclusig-epar-product-information_hu.pdf)
 
-Malti (MT) (797.68 KB - PDF)
+Malti (MT) (571.43 KB - PDF)
 
-**First published:** 11/07/2013 **Last updated:** 25/03/2026
+**First published:** 11/07/2013 **Last updated:** 13/05/2026
 
 [View](/mt/documents/product-information/iclusig-epar-product-information_mt.pdf)
 
-Nederlands (NL) (761.45 KB - PDF)
+Nederlands (NL) (458.53 KB - PDF)
 
-**First published:** 11/07/2013 **Last updated:** 25/03/2026
+**First published:** 11/07/2013 **Last updated:** 13/05/2026
 
 [View](/nl/documents/product-information/iclusig-epar-product-information_nl.pdf)
 
-norsk (NO) (718.87 KB - PDF)
+norsk (NO) (423.35 KB - PDF)
 
-**First published:** 11/07/2013 **Last updated:** 25/03/2026
+**First published:** 11/07/2013 **Last updated:** 13/05/2026
 
 [View](/no/documents/product-information/iclusig-epar-product-information_no.pdf)
 
-polski (PL) (743.56 KB - PDF)
+polski (PL) (496.96 KB - PDF)
 
-**First published:** 11/07/2013 **Last updated:** 25/03/2026
+**First published:** 11/07/2013 **Last updated:** 13/05/2026
 
 [View](/pl/documents/product-information/iclusig-epar-product-information_pl.pdf)
 
-português (PT) (735.89 KB - PDF)
+português (PT) (422.65 KB - PDF)
 
-**First published:** 11/07/2013 **Last updated:** 25/03/2026
+**First published:** 11/07/2013 **Last updated:** 13/05/2026
 
 [View](/pt/documents/product-information/iclusig-epar-product-information_pt.pdf)
 
-română (RO) (791.99 KB - PDF)
+română (RO) (579.81 KB - PDF)
 
-**First published:** 11/07/2013 **Last updated:** 25/03/2026
+**First published:** 11/07/2013 **Last updated:** 13/05/2026
 
 [View](/ro/documents/product-information/iclusig-epar-product-information_ro.pdf)
 
-slovenčina (SK) (789.65 KB - PDF)
+slovenčina (SK) (516.17 KB - PDF)
 
-**First published:** 11/07/2013 **Last updated:** 25/03/2026
+**First published:** 11/07/2013 **Last updated:** 13/05/2026
 
 [View](/sk/documents/product-information/iclusig-epar-product-information_sk.pdf)
 
-slovenščina (SL) (769.59 KB - PDF)
+slovenščina (SL) (515.75 KB - PDF)
 
-**First published:** 11/07/2013 **Last updated:** 25/03/2026
+**First published:** 11/07/2013 **Last updated:** 13/05/2026
 
 [View](/sl/documents/product-information/iclusig-epar-product-information_sl.pdf)
 
-Suomi (FI) (722.88 KB - PDF)
+Suomi (FI) (426.12 KB - PDF)
 
-**First published:** 11/07/2013 **Last updated:** 25/03/2026
+**First published:** 11/07/2013 **Last updated:** 13/05/2026
 
 [View](/fi/documents/product-information/iclusig-epar-product-information_fi.pdf)
 
-svenska (SV) (715.26 KB - PDF)
+svenska (SV) (416.5 KB - PDF)
 
-**First published:** 11/07/2013 **Last updated:** 25/03/2026
+**First published:** 11/07/2013 **Last updated:** 13/05/2026
 
 [View](/sv/documents/product-information/iclusig-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000263550
+**Latest procedure affecting product information:** VR/0000347793
 
-05/03/2026
+13/05/2026
 
 icon globe
 
@@ -449,7 +449,7 @@ English (EN) (22.1 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/iclusig-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-992)
+[Other languages (24)](#file-language-dropdown-825)
 
 български (BG) (50.48 KB - PDF)
 
@@ -656,7 +656,7 @@ Marketing authorisation issued
 
 Revision
 
-28
+29
 
 ## Assessment history
 
@@ -668,9 +668,9 @@ Collapse section
 
 Iclusig : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (131.1 KB - PDF)
+English (EN) (147.97 KB - PDF)
 
-**First published:** 12/11/2025 **Last updated:** 25/03/2026
+**First published:** 12/11/2025 **Last updated:** 13/05/2026
 
 [View](/en/documents/procedural-steps-after/iclusig-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -830,155 +830,155 @@ The approved product information for this medicine is available below showing th
 
 Iclusig : EPAR - Product information - tracked changes
 
-English (EN) (191.82 KB - DOCX)
+English (EN) (188.01 KB - DOCX)
 
-**First published:** 09/04/2026
+**First published:** 09/04/2026 **Last updated:** 13/05/2026
 
 [View](/en/documents/product-information-tracked-changes/iclusig-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-537)
+[Other languages (24)](#file-language-dropdown-959)
 
-български (BG) (293.18 KB - DOCX)
+български (BG) (292.23 KB - DOCX)
 
-**First published:** 09/04/2026
+**First published:** 09/04/2026 **Last updated:** 13/05/2026
 
 [View](/bg/documents/product-information-tracked-changes/iclusig-epar-product-information-tracked-changes_bg.docx)
 
-español (ES) (249.46 KB - DOCX)
+español (ES) (244.9 KB - DOCX)
 
-**First published:** 09/04/2026
+**First published:** 09/04/2026 **Last updated:** 13/05/2026
 
 [View](/es/documents/product-information-tracked-changes/iclusig-epar-product-information-tracked-changes_es.docx)
 
-čeština (CS) (250.11 KB - DOCX)
+čeština (CS) (248.08 KB - DOCX)
 
-**First published:** 09/04/2026
+**First published:** 09/04/2026 **Last updated:** 13/05/2026
 
 [View](/cs/documents/product-information-tracked-changes/iclusig-epar-product-information-tracked-changes_cs.docx)
 
-dansk (DA) (245.38 KB - DOCX)
+dansk (DA) (239.05 KB - DOCX)
 
-**First published:** 09/04/2026
+**First published:** 09/04/2026 **Last updated:** 13/05/2026
 
 [View](/da/documents/product-information-tracked-changes/iclusig-epar-product-information-tracked-changes_da.docx)
 
-Deutsch (DE) (398.67 KB - DOCX)
+Deutsch (DE) (396.47 KB - DOCX)
 
-**First published:** 09/04/2026
+**First published:** 09/04/2026 **Last updated:** 13/05/2026
 
 [View](/de/documents/product-information-tracked-changes/iclusig-epar-product-information-tracked-changes_de.docx)
 
-eesti keel (ET) (251.41 KB - DOCX)
+eesti keel (ET) (240.8 KB - DOCX)
 
-**First published:** 09/04/2026
+**First published:** 09/04/2026 **Last updated:** 13/05/2026
 
 [View](/et/documents/product-information-tracked-changes/iclusig-epar-product-information-tracked-changes_et.docx)
 
-ελληνικά (EL) (274.75 KB - DOCX)
+ελληνικά (EL) (259.9 KB - DOCX)
 
-**First published:** 09/04/2026
+**First published:** 09/04/2026 **Last updated:** 13/05/2026
 
 [View](/el/documents/product-information-tracked-changes/iclusig-epar-product-information-tracked-changes_el.docx)
 
-français (FR) (277.16 KB - DOCX)
+français (FR) (271.97 KB - DOCX)
 
-**First published:** 09/04/2026
+**First published:** 09/04/2026 **Last updated:** 13/05/2026
 
 [View](/fr/documents/product-information-tracked-changes/iclusig-epar-product-information-tracked-changes_fr.docx)
 
-hrvatski (HR) (263.84 KB - DOCX)
+hrvatski (HR) (253.28 KB - DOCX)
 
-**First published:** 09/04/2026
+**First published:** 09/04/2026 **Last updated:** 13/05/2026
 
 [View](/hr/documents/product-information-tracked-changes/iclusig-epar-product-information-tracked-changes_hr.docx)
 
-íslenska (IS) (227.48 KB - DOCX)
+íslenska (IS) (216.45 KB - DOCX)
 
-**First published:** 09/04/2026
+**First published:** 09/04/2026 **Last updated:** 13/05/2026
 
 [View](/is/documents/product-information-tracked-changes/iclusig-epar-product-information-tracked-changes_is.docx)
 
-italiano (IT) (223.54 KB - DOCX)
+italiano (IT) (224.01 KB - DOCX)
 
-**First published:** 09/04/2026
+**First published:** 09/04/2026 **Last updated:** 13/05/2026
 
 [View](/it/documents/product-information-tracked-changes/iclusig-epar-product-information-tracked-changes_it.docx)
 
-latviešu valoda (LV) (264.53 KB - DOCX)
+latviešu valoda (LV) (262.28 KB - DOCX)
 
-**First published:** 09/04/2026
+**First published:** 09/04/2026 **Last updated:** 13/05/2026
 
 [View](/lv/documents/product-information-tracked-changes/iclusig-epar-product-information-tracked-changes_lv.docx)
 
-lietuvių kalba (LT) (266.99 KB - DOCX)
+lietuvių kalba (LT) (262.31 KB - DOCX)
 
-**First published:** 09/04/2026
+**First published:** 09/04/2026 **Last updated:** 13/05/2026
 
 [View](/lt/documents/product-information-tracked-changes/iclusig-epar-product-information-tracked-changes_lt.docx)
 
-magyar (HU) (255.25 KB - DOCX)
+magyar (HU) (251.77 KB - DOCX)
 
-**First published:** 09/04/2026
+**First published:** 09/04/2026 **Last updated:** 13/05/2026
 
 [View](/hu/documents/product-information-tracked-changes/iclusig-epar-product-information-tracked-changes_hu.docx)
 
-Malti (MT) (241.47 KB - DOCX)
+Malti (MT) (241.64 KB - DOCX)
 
-**First published:** 09/04/2026
+**First published:** 09/04/2026 **Last updated:** 13/05/2026
 
 [View](/mt/documents/product-information-tracked-changes/iclusig-epar-product-information-tracked-changes_mt.docx)
 
-Nederlands (NL) (254.25 KB - DOCX)
+Nederlands (NL) (245.84 KB - DOCX)
 
-**First published:** 09/04/2026
+**First published:** 09/04/2026 **Last updated:** 13/05/2026
 
 [View](/nl/documents/product-information-tracked-changes/iclusig-epar-product-information-tracked-changes_nl.docx)
 
-norsk (NO) (293.53 KB - DOCX)
+norsk (NO) (265.64 KB - DOCX)
 
-**First published:** 09/04/2026
+**First published:** 09/04/2026 **Last updated:** 13/05/2026
 
 [View](/no/documents/product-information-tracked-changes/iclusig-epar-product-information-tracked-changes_no.docx)
 
-polski (PL) (241.35 KB - DOCX)
+polski (PL) (241.22 KB - DOCX)
 
-**First published:** 09/04/2026
+**First published:** 09/04/2026 **Last updated:** 13/05/2026
 
 [View](/pl/documents/product-information-tracked-changes/iclusig-epar-product-information-tracked-changes_pl.docx)
 
-português (PT) (287.58 KB - DOCX)
+português (PT) (278.2 KB - DOCX)
 
-**First published:** 09/04/2026
+**First published:** 09/04/2026 **Last updated:** 13/05/2026
 
 [View](/pt/documents/product-information-tracked-changes/iclusig-epar-product-information-tracked-changes_pt.docx)
 
-română (RO) (249.68 KB - DOCX)
+română (RO) (246.82 KB - DOCX)
 
-**First published:** 09/04/2026
+**First published:** 09/04/2026 **Last updated:** 13/05/2026
 
 [View](/ro/documents/product-information-tracked-changes/iclusig-epar-product-information-tracked-changes_ro.docx)
 
-slovenčina (SK) (280.9 KB - DOCX)
+slovenčina (SK) (263.17 KB - DOCX)
 
-**First published:** 09/04/2026
+**First published:** 09/04/2026 **Last updated:** 13/05/2026
 
 [View](/sk/documents/product-information-tracked-changes/iclusig-epar-product-information-tracked-changes_sk.docx)
 
-slovenščina (SL) (238.53 KB - DOCX)
+slovenščina (SL) (238.11 KB - DOCX)
 
-**First published:** 09/04/2026
+**First published:** 09/04/2026 **Last updated:** 13/05/2026
 
 [View](/sl/documents/product-information-tracked-changes/iclusig-epar-product-information-tracked-changes_sl.docx)
 
-Suomi (FI) (254.28 KB - DOCX)
+Suomi (FI) (244.88 KB - DOCX)
 
-**First published:** 09/04/2026
+**First published:** 09/04/2026 **Last updated:** 13/05/2026
 
 [View](/fi/documents/product-information-tracked-changes/iclusig-epar-product-information-tracked-changes_fi.docx)
 
-svenska (SV) (290.96 KB - DOCX)
+svenska (SV) (264.49 KB - DOCX)
 
-**First published:** 09/04/2026
+**First published:** 09/04/2026 **Last updated:** 13/05/2026
 
 [View](/sv/documents/product-information-tracked-changes/iclusig-epar-product-information-tracked-changes_sv.docx)
 
@@ -1004,6 +1004,6 @@ Iclusig was withdrawn from the Community register of orphan medicinal products i
 
 **This page was last updated on**
 
-09/04/2026
+13/05/2026
 
 ## Share this page

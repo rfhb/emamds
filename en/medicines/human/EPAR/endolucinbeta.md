@@ -1,32 +1,32 @@
 ---
-document_datetime: 2025-12-29 14:18:43
+document_datetime: 2026-05-13 16:06:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/endolucinbeta.html
 document_name: endolucinbeta.html
 version: success
-processing_time: 0.1108533
-conversion_datetime: 2025-12-30 12:29:04.641747
+processing_time: 0.2313125
+conversion_datetime: 2026-05-16 12:15:32.724003
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.17.0
+  docling-jobkit: 1.18.0
+  docling: 2.92.0
+  docling-core: 2.74.1
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.10.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
 ---
 # EndolucinBeta
 
 [RSS](/en/individual-human-medicine.xml/67046)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-lutetium (177Lu) chloride Medicine Human Authorised
+lutetium (177Lu) chloride
 
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
+Medicine Human Authorised
 
 Page contents
 
@@ -97,275 +97,141 @@ EndolucinBeta : EPAR - Medicine overview
 
 English (EN) (74.94 KB - PDF)
 
-**First published:** 14/07/2016
-
-**Last updated:** 08/01/2019
+**First published:** 14/07/2016 **Last updated:** 08/01/2019
 
 [View](/en/documents/overview/endolucinbeta-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-118)
+[Other languages (22)](#file-language-dropdown-596)
 
 български (BG) (100.05 KB - PDF)
 
-**First published:**
-
-14/07/2016
-
-**Last updated:**
-
-08/01/2019
+**First published:** 14/07/2016 **Last updated:** 08/01/2019
 
 [View](/bg/documents/overview/endolucinbeta-epar-medicine-overview_bg.pdf)
 
 español (ES) (69.9 KB - PDF)
 
-**First published:**
-
-14/07/2016
-
-**Last updated:**
-
-08/01/2019
+**First published:** 14/07/2016 **Last updated:** 08/01/2019
 
 [View](/es/documents/overview/endolucinbeta-epar-medicine-overview_es.pdf)
 
 čeština (CS) (92.51 KB - PDF)
 
-**First published:**
-
-14/07/2016
-
-**Last updated:**
-
-08/01/2019
+**First published:** 14/07/2016 **Last updated:** 08/01/2019
 
 [View](/cs/documents/overview/endolucinbeta-epar-medicine-overview_cs.pdf)
 
 dansk (DA) (68.48 KB - PDF)
 
-**First published:**
-
-14/07/2016
-
-**Last updated:**
-
-08/01/2019
+**First published:** 14/07/2016 **Last updated:** 08/01/2019
 
 [View](/da/documents/overview/endolucinbeta-epar-medicine-overview_da.pdf)
 
 Deutsch (DE) (76.44 KB - PDF)
 
-**First published:**
-
-14/07/2016
-
-**Last updated:**
-
-08/01/2019
+**First published:** 14/07/2016 **Last updated:** 08/01/2019
 
 [View](/de/documents/overview/endolucinbeta-epar-medicine-overview_de.pdf)
 
 eesti keel (ET) (67.73 KB - PDF)
 
-**First published:**
-
-14/07/2016
-
-**Last updated:**
-
-08/01/2019
+**First published:** 14/07/2016 **Last updated:** 08/01/2019
 
 [View](/et/documents/overview/endolucinbeta-epar-medicine-overview_et.pdf)
 
 ελληνικά (EL) (101.54 KB - PDF)
 
-**First published:**
-
-14/07/2016
-
-**Last updated:**
-
-08/01/2019
+**First published:** 14/07/2016 **Last updated:** 08/01/2019
 
 [View](/el/documents/overview/endolucinbeta-epar-medicine-overview_el.pdf)
 
 français (FR) (76.13 KB - PDF)
 
-**First published:**
-
-14/07/2016
-
-**Last updated:**
-
-08/01/2019
+**First published:** 14/07/2016 **Last updated:** 08/01/2019
 
 [View](/fr/documents/overview/endolucinbeta-epar-medicine-overview_fr.pdf)
 
 hrvatski (HR) (92.31 KB - PDF)
 
-**First published:**
-
-14/07/2016
-
-**Last updated:**
-
-08/01/2019
+**First published:** 14/07/2016 **Last updated:** 08/01/2019
 
 [View](/hr/documents/overview/endolucinbeta-epar-medicine-overview_hr.pdf)
 
 italiano (IT) (73.7 KB - PDF)
 
-**First published:**
-
-14/07/2016
-
-**Last updated:**
-
-08/01/2019
+**First published:** 14/07/2016 **Last updated:** 08/01/2019
 
 [View](/it/documents/overview/endolucinbeta-epar-medicine-overview_it.pdf)
 
 latviešu valoda (LV) (101.46 KB - PDF)
 
-**First published:**
-
-14/07/2016
-
-**Last updated:**
-
-08/01/2019
+**First published:** 14/07/2016 **Last updated:** 08/01/2019
 
 [View](/lv/documents/overview/endolucinbeta-epar-medicine-overview_lv.pdf)
 
 lietuvių kalba (LT) (90.84 KB - PDF)
 
-**First published:**
-
-14/07/2016
-
-**Last updated:**
-
-08/01/2019
+**First published:** 14/07/2016 **Last updated:** 08/01/2019
 
 [View](/lt/documents/overview/endolucinbeta-epar-medicine-overview_lt.pdf)
 
 magyar (HU) (88.26 KB - PDF)
 
-**First published:**
-
-14/07/2016
-
-**Last updated:**
-
-08/01/2019
+**First published:** 14/07/2016 **Last updated:** 08/01/2019
 
 [View](/hu/documents/overview/endolucinbeta-epar-medicine-overview_hu.pdf)
 
 Malti (MT) (92.12 KB - PDF)
 
-**First published:**
-
-14/07/2016
-
-**Last updated:**
-
-08/01/2019
+**First published:** 14/07/2016 **Last updated:** 08/01/2019
 
 [View](/mt/documents/overview/endolucinbeta-epar-medicine-overview_mt.pdf)
 
 Nederlands (NL) (68.47 KB - PDF)
 
-**First published:**
-
-14/07/2016
-
-**Last updated:**
-
-08/01/2019
+**First published:** 14/07/2016 **Last updated:** 08/01/2019
 
 [View](/nl/documents/overview/endolucinbeta-epar-medicine-overview_nl.pdf)
 
 polski (PL) (97.47 KB - PDF)
 
-**First published:**
-
-14/07/2016
-
-**Last updated:**
-
-08/01/2019
+**First published:** 14/07/2016 **Last updated:** 08/01/2019
 
 [View](/pl/documents/overview/endolucinbeta-epar-medicine-overview_pl.pdf)
 
 português (PT) (75.61 KB - PDF)
 
-**First published:**
-
-14/07/2016
-
-**Last updated:**
-
-08/01/2019
+**First published:** 14/07/2016 **Last updated:** 08/01/2019
 
 [View](/pt/documents/overview/endolucinbeta-epar-medicine-overview_pt.pdf)
 
 română (RO) (95.52 KB - PDF)
 
-**First published:**
-
-14/07/2016
-
-**Last updated:**
-
-08/01/2019
+**First published:** 14/07/2016 **Last updated:** 08/01/2019
 
 [View](/ro/documents/overview/endolucinbeta-epar-medicine-overview_ro.pdf)
 
 slovenčina (SK) (91.56 KB - PDF)
 
-**First published:**
-
-14/07/2016
-
-**Last updated:**
-
-08/01/2019
+**First published:** 14/07/2016 **Last updated:** 08/01/2019
 
 [View](/sk/documents/overview/endolucinbeta-epar-medicine-overview_sk.pdf)
 
 slovenščina (SL) (85.02 KB - PDF)
 
-**First published:**
-
-14/07/2016
-
-**Last updated:**
-
-08/01/2019
+**First published:** 14/07/2016 **Last updated:** 08/01/2019
 
 [View](/sl/documents/overview/endolucinbeta-epar-medicine-overview_sl.pdf)
 
 Suomi (FI) (67.52 KB - PDF)
 
-**First published:**
-
-14/07/2016
-
-**Last updated:**
-
-08/01/2019
+**First published:** 14/07/2016 **Last updated:** 08/01/2019
 
 [View](/fi/documents/overview/endolucinbeta-epar-medicine-overview_fi.pdf)
 
 svenska (SV) (74.07 KB - PDF)
 
-**First published:**
-
-14/07/2016
-
-**Last updated:**
-
-08/01/2019
+**First published:** 14/07/2016 **Last updated:** 08/01/2019
 
 [View](/sv/documents/overview/endolucinbeta-epar-medicine-overview_sv.pdf)
 
@@ -381,305 +247,161 @@ English (EN) (1021.46 KB - PDF)
 
 EndolucinBeta : EPAR - Product Information
 
-English (EN) (230.72 KB - PDF)
+English (EN) (336.78 KB - PDF)
 
-**First published:** 14/07/2016
-
-**Last updated:** 03/03/2025
+**First published:** 14/07/2016 **Last updated:** 13/05/2026
 
 [View](/en/documents/product-information/endolucinbeta-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-729)
+[Other languages (24)](#file-language-dropdown-720)
 
-български (BG) (363.86 KB - PDF)
+български (BG) (431.67 KB - PDF)
 
-**First published:**
-
-14/07/2016
-
-**Last updated:**
-
-03/03/2025
+**First published:** 14/07/2016 **Last updated:** 13/05/2026
 
 [View](/bg/documents/product-information/endolucinbeta-epar-product-information_bg.pdf)
 
-español (ES) (245.57 KB - PDF)
+español (ES) (350.79 KB - PDF)
 
-**First published:**
-
-14/07/2016
-
-**Last updated:**
-
-03/03/2025
+**First published:** 14/07/2016 **Last updated:** 13/05/2026
 
 [View](/es/documents/product-information/endolucinbeta-epar-product-information_es.pdf)
 
-čeština (CS) (329.44 KB - PDF)
+čeština (CS) (401.8 KB - PDF)
 
-**First published:**
-
-14/07/2016
-
-**Last updated:**
-
-03/03/2025
+**First published:** 14/07/2016 **Last updated:** 13/05/2026
 
 [View](/cs/documents/product-information/endolucinbeta-epar-product-information_cs.pdf)
 
-dansk (DA) (233.71 KB - PDF)
+dansk (DA) (340.29 KB - PDF)
 
-**First published:**
-
-14/07/2016
-
-**Last updated:**
-
-03/03/2025
+**First published:** 14/07/2016 **Last updated:** 13/05/2026
 
 [View](/da/documents/product-information/endolucinbeta-epar-product-information_da.pdf)
 
-Deutsch (DE) (246.73 KB - PDF)
+Deutsch (DE) (358.43 KB - PDF)
 
-**First published:**
-
-14/07/2016
-
-**Last updated:**
-
-03/03/2025
+**First published:** 14/07/2016 **Last updated:** 13/05/2026
 
 [View](/de/documents/product-information/endolucinbeta-epar-product-information_de.pdf)
 
-eesti keel (ET) (232.1 KB - PDF)
+eesti keel (ET) (333.83 KB - PDF)
 
-**First published:**
-
-14/07/2016
-
-**Last updated:**
-
-03/03/2025
+**First published:** 14/07/2016 **Last updated:** 13/05/2026
 
 [View](/et/documents/product-information/endolucinbeta-epar-product-information_et.pdf)
 
-ελληνικά (EL) (366.97 KB - PDF)
+ελληνικά (EL) (431.95 KB - PDF)
 
-**First published:**
-
-14/07/2016
-
-**Last updated:**
-
-03/03/2025
+**First published:** 14/07/2016 **Last updated:** 13/05/2026
 
 [View](/el/documents/product-information/endolucinbeta-epar-product-information_el.pdf)
 
-français (FR) (244.22 KB - PDF)
+français (FR) (353.22 KB - PDF)
 
-**First published:**
-
-14/07/2016
-
-**Last updated:**
-
-03/03/2025
+**First published:** 14/07/2016 **Last updated:** 13/05/2026
 
 [View](/fr/documents/product-information/endolucinbeta-epar-product-information_fr.pdf)
 
-hrvatski (HR) (331.21 KB - PDF)
+hrvatski (HR) (416.86 KB - PDF)
 
-**First published:**
-
-14/07/2016
-
-**Last updated:**
-
-03/03/2025
+**First published:** 14/07/2016 **Last updated:** 13/05/2026
 
 [View](/hr/documents/product-information/endolucinbeta-epar-product-information_hr.pdf)
 
-íslenska (IS) (232.49 KB - PDF)
+íslenska (IS) (344 KB - PDF)
 
-**First published:**
-
-14/07/2016
-
-**Last updated:**
-
-03/03/2025
+**First published:** 14/07/2016 **Last updated:** 13/05/2026
 
 [View](/is/documents/product-information/endolucinbeta-epar-product-information_is.pdf)
 
-italiano (IT) (233.12 KB - PDF)
+italiano (IT) (314.54 KB - PDF)
 
-**First published:**
-
-14/07/2016
-
-**Last updated:**
-
-03/03/2025
+**First published:** 14/07/2016 **Last updated:** 13/05/2026
 
 [View](/it/documents/product-information/endolucinbeta-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (337.38 KB - PDF)
+latviešu valoda (LV) (437.68 KB - PDF)
 
-**First published:**
-
-14/07/2016
-
-**Last updated:**
-
-03/03/2025
+**First published:** 14/07/2016 **Last updated:** 13/05/2026
 
 [View](/lv/documents/product-information/endolucinbeta-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (335.28 KB - PDF)
+lietuvių kalba (LT) (411.75 KB - PDF)
 
-**First published:**
-
-14/07/2016
-
-**Last updated:**
-
-03/03/2025
+**First published:** 14/07/2016 **Last updated:** 13/05/2026
 
 [View](/lt/documents/product-information/endolucinbeta-epar-product-information_lt.pdf)
 
-magyar (HU) (345.43 KB - PDF)
+magyar (HU) (428.46 KB - PDF)
 
-**First published:**
-
-14/07/2016
-
-**Last updated:**
-
-03/03/2025
+**First published:** 14/07/2016 **Last updated:** 13/05/2026
 
 [View](/hu/documents/product-information/endolucinbeta-epar-product-information_hu.pdf)
 
-Malti (MT) (355.93 KB - PDF)
+Malti (MT) (444.23 KB - PDF)
 
-**First published:**
-
-14/07/2016
-
-**Last updated:**
-
-03/03/2025
+**First published:** 14/07/2016 **Last updated:** 13/05/2026
 
 [View](/mt/documents/product-information/endolucinbeta-epar-product-information_mt.pdf)
 
-Nederlands (NL) (308.19 KB - PDF)
+Nederlands (NL) (417.54 KB - PDF)
 
-**First published:**
-
-14/07/2016
-
-**Last updated:**
-
-03/03/2025
+**First published:** 14/07/2016 **Last updated:** 13/05/2026
 
 [View](/nl/documents/product-information/endolucinbeta-epar-product-information_nl.pdf)
 
-norsk (NO) (225.66 KB - PDF)
+norsk (NO) (330.58 KB - PDF)
 
-**First published:**
-
-14/07/2016
-
-**Last updated:**
-
-03/03/2025
+**First published:** 14/07/2016 **Last updated:** 13/05/2026
 
 [View](/no/documents/product-information/endolucinbeta-epar-product-information_no.pdf)
 
-polski (PL) (342.49 KB - PDF)
+polski (PL) (421.74 KB - PDF)
 
-**First published:**
-
-14/07/2016
-
-**Last updated:**
-
-03/03/2025
+**First published:** 14/07/2016 **Last updated:** 13/05/2026
 
 [View](/pl/documents/product-information/endolucinbeta-epar-product-information_pl.pdf)
 
-português (PT) (237.43 KB - PDF)
+português (PT) (343.82 KB - PDF)
 
-**First published:**
-
-14/07/2016
-
-**Last updated:**
-
-03/03/2025
+**First published:** 14/07/2016 **Last updated:** 13/05/2026
 
 [View](/pt/documents/product-information/endolucinbeta-epar-product-information_pt.pdf)
 
-română (RO) (341.51 KB - PDF)
+română (RO) (421.32 KB - PDF)
 
-**First published:**
-
-14/07/2016
-
-**Last updated:**
-
-03/03/2025
+**First published:** 14/07/2016 **Last updated:** 13/05/2026
 
 [View](/ro/documents/product-information/endolucinbeta-epar-product-information_ro.pdf)
 
-slovenčina (SK) (337.36 KB - PDF)
+slovenčina (SK) (429.07 KB - PDF)
 
-**First published:**
-
-14/07/2016
-
-**Last updated:**
-
-03/03/2025
+**First published:** 14/07/2016 **Last updated:** 13/05/2026
 
 [View](/sk/documents/product-information/endolucinbeta-epar-product-information_sk.pdf)
 
-slovenščina (SL) (332.61 KB - PDF)
+slovenščina (SL) (418.19 KB - PDF)
 
-**First published:**
-
-14/07/2016
-
-**Last updated:**
-
-03/03/2025
+**First published:** 14/07/2016 **Last updated:** 13/05/2026
 
 [View](/sl/documents/product-information/endolucinbeta-epar-product-information_sl.pdf)
 
-Suomi (FI) (240.2 KB - PDF)
+Suomi (FI) (338.76 KB - PDF)
 
-**First published:**
-
-14/07/2016
-
-**Last updated:**
-
-03/03/2025
+**First published:** 14/07/2016 **Last updated:** 13/05/2026
 
 [View](/fi/documents/product-information/endolucinbeta-epar-product-information_fi.pdf)
 
-svenska (SV) (230.1 KB - PDF)
+svenska (SV) (333.45 KB - PDF)
 
-**First published:**
-
-14/07/2016
-
-**Last updated:**
-
-03/03/2025
+**First published:** 14/07/2016 **Last updated:** 13/05/2026
 
 [View](/sv/documents/product-information/endolucinbeta-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** IB/0039 26/02/2025
+**Latest procedure affecting product information:** VR/0000341316
+
+13/05/2026
 
 icon globe
 
@@ -697,307 +419,179 @@ Product information documents contain:
 
 EndolucinBeta : EPAR - All Authorised presentations
 
-English (EN) (80.87 KB - PDF)
+English (EN) (59.51 KB - PDF)
 
-**First published:** 14/07/2016
-
-**Last updated:** 14/07/2016
+**First published:** 14/07/2016 **Last updated:** 13/05/2026
 
 [View](/en/documents/all-authorised-presentations/endolucinbeta-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-987)
+[Other languages (24)](#file-language-dropdown-585)
 
-български (BG) (40.15 KB - PDF)
+български (BG) (78.57 KB - PDF)
 
-**First published:**
-
-14/07/2016
-
-**Last updated:**
-
-14/07/2016
+**First published:** 14/07/2016 **Last updated:** 13/05/2026
 
 [View](/bg/documents/all-authorised-presentations/endolucinbeta-epar-all-authorised-presentations_bg.pdf)
 
-español (ES) (20.14 KB - PDF)
+español (ES) (59.16 KB - PDF)
 
-**First published:**
-
-14/07/2016
-
-**Last updated:**
-
-14/07/2016
+**First published:** 14/07/2016 **Last updated:** 13/05/2026
 
 [View](/es/documents/all-authorised-presentations/endolucinbeta-epar-all-authorised-presentations_es.pdf)
 
-čeština (CS) (35.21 KB - PDF)
+čeština (CS) (75.75 KB - PDF)
 
-**First published:**
-
-14/07/2016
-
-**Last updated:**
-
-14/07/2016
+**First published:** 14/07/2016 **Last updated:** 13/05/2026
 
 [View](/cs/documents/all-authorised-presentations/endolucinbeta-epar-all-authorised-presentations_cs.pdf)
 
-dansk (DA) (19.88 KB - PDF)
+dansk (DA) (61 KB - PDF)
 
-**First published:**
-
-14/07/2016
-
-**Last updated:**
-
-14/07/2016
+**First published:** 14/07/2016 **Last updated:** 13/05/2026
 
 [View](/da/documents/all-authorised-presentations/endolucinbeta-epar-all-authorised-presentations_da.pdf)
 
-Deutsch (DE) (20.24 KB - PDF)
+Deutsch (DE) (60.29 KB - PDF)
 
-**First published:**
-
-14/07/2016
-
-**Last updated:**
-
-14/07/2016
+**First published:** 14/07/2016 **Last updated:** 13/05/2026
 
 [View](/de/documents/all-authorised-presentations/endolucinbeta-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (20 KB - PDF)
+eesti keel (ET) (59.09 KB - PDF)
 
-**First published:**
-
-14/07/2016
-
-**Last updated:**
-
-14/07/2016
+**First published:** 14/07/2016 **Last updated:** 13/05/2026
 
 [View](/et/documents/all-authorised-presentations/endolucinbeta-epar-all-authorised-presentations_et.pdf)
 
-ελληνικά (EL) (37.62 KB - PDF)
+ελληνικά (EL) (74.63 KB - PDF)
 
-**First published:**
-
-14/07/2016
-
-**Last updated:**
-
-14/07/2016
+**First published:** 14/07/2016 **Last updated:** 13/05/2026
 
 [View](/el/documents/all-authorised-presentations/endolucinbeta-epar-all-authorised-presentations_el.pdf)
 
-français (FR) (19.96 KB - PDF)
+français (FR) (59.24 KB - PDF)
 
-**First published:**
-
-14/07/2016
-
-**Last updated:**
-
-14/07/2016
+**First published:** 14/07/2016 **Last updated:** 13/05/2026
 
 [View](/fr/documents/all-authorised-presentations/endolucinbeta-epar-all-authorised-presentations_fr.pdf)
 
-hrvatski (HR) (33.94 KB - PDF)
+hrvatski (HR) (95.14 KB - PDF)
 
-**First published:**
-
-14/07/2016
-
-**Last updated:**
-
-14/07/2016
+**First published:** 14/07/2016 **Last updated:** 13/05/2026
 
 [View](/hr/documents/all-authorised-presentations/endolucinbeta-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (89.44 KB - PDF)
+íslenska (IS) (59.76 KB - PDF)
 
-**First published:**
-
-14/07/2016
-
-**Last updated:**
-
-14/07/2016
+**First published:** 14/07/2016 **Last updated:** 13/05/2026
 
 [View](/is/documents/all-authorised-presentations/endolucinbeta-epar-all-authorised-presentations_is.pdf)
 
-italiano (IT) (19.95 KB - PDF)
+italiano (IT) (58.67 KB - PDF)
 
-**First published:**
-
-14/07/2016
-
-**Last updated:**
-
-14/07/2016
+**First published:** 14/07/2016 **Last updated:** 13/05/2026
 
 [View](/it/documents/all-authorised-presentations/endolucinbeta-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (36.54 KB - PDF)
+latviešu valoda (LV) (74.16 KB - PDF)
 
-**First published:**
-
-14/07/2016
-
-**Last updated:**
-
-14/07/2016
+**First published:** 14/07/2016 **Last updated:** 13/05/2026
 
 [View](/lv/documents/all-authorised-presentations/endolucinbeta-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (27.72 KB - PDF)
+lietuvių kalba (LT) (67.83 KB - PDF)
 
-**First published:**
-
-14/07/2016
-
-**Last updated:**
-
-14/07/2016
+**First published:** 14/07/2016 **Last updated:** 13/05/2026
 
 [View](/lt/documents/all-authorised-presentations/endolucinbeta-epar-all-authorised-presentations_lt.pdf)
 
-magyar (HU) (26.35 KB - PDF)
+magyar (HU) (77.06 KB - PDF)
 
-**First published:**
-
-14/07/2016
-
-**Last updated:**
-
-14/07/2016
+**First published:** 14/07/2016 **Last updated:** 13/05/2026
 
 [View](/hu/documents/all-authorised-presentations/endolucinbeta-epar-all-authorised-presentations_hu.pdf)
 
-Malti (MT) (43.85 KB - PDF)
+Malti (MT) (78.52 KB - PDF)
 
-**First published:**
-
-14/07/2016
-
-**Last updated:**
-
-14/07/2016
+**First published:** 14/07/2016 **Last updated:** 13/05/2026
 
 [View](/mt/documents/all-authorised-presentations/endolucinbeta-epar-all-authorised-presentations_mt.pdf)
 
-Nederlands (NL) (20.07 KB - PDF)
+Nederlands (NL) (59.35 KB - PDF)
 
-**First published:**
-
-14/07/2016
-
-**Last updated:**
-
-14/07/2016
+**First published:** 14/07/2016 **Last updated:** 13/05/2026
 
 [View](/nl/documents/all-authorised-presentations/endolucinbeta-epar-all-authorised-presentations_nl.pdf)
 
-norsk (NO) (89.8 KB - PDF)
+norsk (NO) (59.85 KB - PDF)
 
-**First published:**
-
-14/07/2016
-
-**Last updated:**
-
-14/07/2016
+**First published:** 14/07/2016 **Last updated:** 13/05/2026
 
 [View](/no/documents/all-authorised-presentations/endolucinbeta-epar-all-authorised-presentations_no.pdf)
 
-polski (PL) (35.63 KB - PDF)
+polski (PL) (76.45 KB - PDF)
 
-**First published:**
-
-14/07/2016
-
-**Last updated:**
-
-14/07/2016
+**First published:** 14/07/2016 **Last updated:** 13/05/2026
 
 [View](/pl/documents/all-authorised-presentations/endolucinbeta-epar-all-authorised-presentations_pl.pdf)
 
-português (PT) (20.23 KB - PDF)
+português (PT) (61.46 KB - PDF)
 
-**First published:**
-
-14/07/2016
-
-**Last updated:**
-
-14/07/2016
+**First published:** 14/07/2016 **Last updated:** 13/05/2026
 
 [View](/pt/documents/all-authorised-presentations/endolucinbeta-epar-all-authorised-presentations_pt.pdf)
 
-română (RO) (36.36 KB - PDF)
+română (RO) (74.28 KB - PDF)
 
-**First published:**
-
-14/07/2016
-
-**Last updated:**
-
-14/07/2016
+**First published:** 14/07/2016 **Last updated:** 13/05/2026
 
 [View](/ro/documents/all-authorised-presentations/endolucinbeta-epar-all-authorised-presentations_ro.pdf)
 
-slovenčina (SK) (34.94 KB - PDF)
+slovenčina (SK) (75.13 KB - PDF)
 
-**First published:**
-
-14/07/2016
-
-**Last updated:**
-
-14/07/2016
+**First published:** 14/07/2016 **Last updated:** 13/05/2026
 
 [View](/sk/documents/all-authorised-presentations/endolucinbeta-epar-all-authorised-presentations_sk.pdf)
 
-slovenščina (SL) (26.1 KB - PDF)
+slovenščina (SL) (66.27 KB - PDF)
 
-**First published:**
-
-14/07/2016
-
-**Last updated:**
-
-14/07/2016
+**First published:** 14/07/2016 **Last updated:** 13/05/2026
 
 [View](/sl/documents/all-authorised-presentations/endolucinbeta-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (19.82 KB - PDF)
+Suomi (FI) (58.5 KB - PDF)
 
-**First published:**
-
-14/07/2016
-
-**Last updated:**
-
-14/07/2016
+**First published:** 14/07/2016 **Last updated:** 13/05/2026
 
 [View](/fi/documents/all-authorised-presentations/endolucinbeta-epar-all-authorised-presentations_fi.pdf)
 
-svenska (SV) (20.12 KB - PDF)
+svenska (SV) (59.44 KB - PDF)
 
-**First published:**
-
-14/07/2016
-
-**Last updated:**
-
-14/07/2016
+**First published:** 14/07/2016 **Last updated:** 13/05/2026
 
 [View](/sv/documents/all-authorised-presentations/endolucinbeta-epar-all-authorised-presentations_sv.pdf)
 
 ## Product details
 
-Name of medicine EndolucinBeta Active substance lutetium (177Lu) chloride International non-proprietary name (INN) or common name lutetium (177Lu) chloride Therapeutic area (MeSH) Radionuclide Imaging Anatomical therapeutic chemical (ATC) code V10X
+Name of medicine
+
+EndolucinBeta
+
+Active substance
+
+lutetium (177Lu) chloride
+
+International non-proprietary name (INN) or common name
+
+lutetium (177Lu) chloride
+
+Therapeutic area (MeSH)
+
+Radionuclide Imaging
+
+Anatomical therapeutic chemical (ATC) code
+
+V10X
 
 ### Pharmacotherapeutic group
 
@@ -1009,13 +603,23 @@ EndolucinBeta is a radiopharmaceutical precursor, and it is not intended for dir
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/003999 Marketing authorisation holder
+EMA product number
+
+EMEA/H/C/003999
+
+Marketing authorisation holder
 
 ITM Medical Isotopes GmbH
 
 Lichtenbergstrasse 1, Garching b.
 
-Marketing authorisation issued 06/07/2016 Revision 10
+Marketing authorisation issued
+
+06/07/2016
+
+Revision
+
+11
 
 ## Assessment history
 
@@ -1027,9 +631,9 @@ Collapse section
 
 EndolucinBeta : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (133.04 KB - PDF)
+English (EN) (153.88 KB - PDF)
 
-**First published:** 25/03/2025
+**First published:** 25/03/2025 **Last updated:** 13/05/2026
 
 [View](/en/documents/procedural-steps-after/endolucinbeta-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1037,9 +641,7 @@ EndolucinBeta : EPAR - Procedural steps taken and scientific information after a
 
 English (EN) (208.69 KB - PDF)
 
-**First published:** 17/10/2017
-
-**Last updated:** 25/03/2025
+**First published:** 17/10/2017 **Last updated:** 25/03/2025
 
 [View](/en/documents/procedural-steps-after/endolucinbeta-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
@@ -1089,9 +691,7 @@ Reference Number: EMA/207692/2018
 
 English (EN) (67.43 KB - PDF)
 
-**First published:** 05/04/2018
-
-**Last updated:** 05/04/2018
+**First published:** 05/04/2018 **Last updated:** 05/04/2018
 
 [View](/en/documents/scientific-conclusion/endolucinbeta-psusa-00010391-201706-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf)
 
@@ -1101,9 +701,7 @@ Reference Number: EMA/686253/2017
 
 English (EN) (76.77 KB - PDF)
 
-**First published:** 17/10/2017
-
-**Last updated:** 17/10/2017
+**First published:** 17/10/2017 **Last updated:** 17/10/2017
 
 [View](/en/documents/scientific-conclusion/endolucinbeta-psusa-00010391-201612-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf)
 
@@ -1111,46 +709,40 @@ English (EN) (76.77 KB - PDF)
 
 EndolucinBeta : EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/CHMP/404078/2016
+Adopted Reference Number: EMA/CHMP/404078/2016
 
 English (EN) (668.65 KB - PDF)
 
-**First published:** 14/07/2016
-
-**Last updated:** 14/07/2016
+**First published:** 14/07/2016 **Last updated:** 14/07/2016
 
 [View](/en/documents/assessment-report/endolucinbeta-epar-public-assessment-report_en.pdf)
 
 CHMP summary of opinion for EndolucinBeta
 
-Adopted
-
-Reference Number: EMA/CHMP/230649/2016
+Adopted Reference Number: EMA/CHMP/230649/2016
 
 English (EN) (71.72 KB - PDF)
 
-**First published:** 29/04/2016
-
-**Last updated:** 29/04/2016
+**First published:** 29/04/2016 **Last updated:** 29/04/2016
 
 [View](/en/documents/smop-initial/chmp-summary-opinion-endolucinbeta_en.pdf)
 
-#### News on EndolucinBeta
+## News on EndolucinBeta
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 25-28 April 2016](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-25-28-april-2016) 29/04/2016
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 25-28 April 2016](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-25-28-april-2016)
 
-#### Related information
+29/04/2016
+
+## Related information
 
 - [Clinical data](https://clinicaldata.ema.europa.eu/web/cdp/search?p_p_id=cdpdossierviewportlet_WAR_cdpdossierviewportlet=0=maximized=view=column-1=1=EMEAHC0039990000) (initial marketing authorisation)
 
-#### Topics
+## Topics
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 25/03/2025
+**This page was last updated on**
+
+13/05/2026
 
 ## Share this page
-
-[Back to top](#main-content)

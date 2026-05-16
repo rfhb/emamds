@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-03-03 14:08:20
-document_pages: 28
+document_datetime: 2026-05-13 12:08:01
+document_pages: 27
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/endolucinbeta-epar-product-information_en.pdf
 document_name: endolucinbeta-epar-product-information_en.pdf
 version: success
-processing_time: 7.156334
-conversion_datetime: 2025-12-26 11:09:40.010207
+processing_time: 6.1638497
+conversion_datetime: 2026-05-16 12:17:14.196587
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.17.0
+  docling-jobkit: 1.18.0
+  docling: 2.92.0
+  docling-core: 2.74.1
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.10.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -111,11 +111,9 @@ EndolucinBeta is not to be administered directly to the patient, but must be use
 
 ## Renal impairment and haematological disorders
 
-Careful consideration of the benefit risk ratio in these patients is required since an increased radiation
+Careful consideration of the benefit risk ratio in these patients is required since an increased radiation exposure is possible. It is recommended to perform individual radiation dosimetry assessments of specific organs, which may not be the target organ of therapy.
 
 <div style=\"page-break-after: always\"></div>
-
-exposure is possible. It is recommended to perform individual radiation dosimetry assessments of specific organs, which may not be the target organ of therapy.
 
 ## Myelodysplastic syndrome and acute myeloid leukaemia
 
@@ -149,7 +147,7 @@ There have been reports of extravasation of Lutetium ( 177 Lu)-labelled ligands 
 
 ## Radiation protection
 
-Point-source approximation shows that the average dose rate experienced 20 hours after administration of a dose of 7.3 GBq EndolucinBeta labelled radiopharmaceutical (residual radioactivity 1.5 GBq) by a person at 1 meter distance from the patient's body centre with an abdominal radius of 15 cm is 3.5 µSv/h. Doubling the distance to the patient to 2 meters reduces the dose rate by a factor of 4 to 0.9 µSv/h. The same dose in a patient with an abdominal radius of 25 cm yields a dose rate at 1 meter of 2.6 µSv/h. The generally accepted threshold for discharge of the treated patient from the hospital is 20 µSv/h. In most countries, the exposure limit for hospital staff is set the same as for the general public at 1 mSv/year. When taking the 3.5 µSv/h dose rate as an average, this would allow hospital staff to work approx. 300 hours/year in close vicinity of patients treated with EndolucinBeta labeled radiopharmaceuticals without wearing radiation protection. Of course, the nuclear medicine staff is expected to wear standard radiation protection.
+Point-source approximation shows that the average dose rate experienced 20 hours after administration of a dose of 7.3 GBq EndolucinBeta labelled radiopharmaceutical (residual radioactivity 1.5 GBq) by a person at 1 meter distance from the patient's body centre with an abdominal radius of 15 cm is 3.5 µSv/h. Doubling the distance to the patient to 2 meters reduces the dose rate by a factor of 4 to 0.9 µSv/h. The same dose in a patient with an abdominal radius of 25 cm yields a dose rate at 1 meter of 2.6 µSv/h. The generally accepted threshold for discharge of the treated patient from the hospital is 20 µSv/h. In most countries, the exposure limit for hospital staff is set the same as for the general public at 1 mSv/year. When taking the 3.5 µSv/h dose rate as an average, this would allow hospital staff to work approx. 300 hours/year in close vicinity of patients treated with EndolucinBeta labelled radiopharmaceuticals without wearing radiation protection. Of course, the nuclear medicine staff is expected to wear standard radiation protection.
 
 Any other person in close vicinity of the treated patient should be informed about possibilities to reduce his/her exposure due to radiation emitted from the patient.
 
@@ -169,7 +167,9 @@ For information concerning interactions associated with the use of Lutetium ( 17
 
 ## Women of childbearing potential
 
-Female patients of reproductive potential should be advised to use contraception during the treatment with medicines labelled with EndolucinBeta and for 7 months after the last dose.
+Female patients of reproductive potential should be advised to use contraception during the treatment
+
+with medicines labelled with EndolucinBeta and for 7 months after the last dose.
 
 When an administration of radiopharmaceuticals to a woman of childbearing potential is intended, it is important to determine whether or not she is pregnant. Any woman who has missed a period should be assumed to be pregnant until proven otherwise. If in doubt about her potential pregnancy (if the woman has missed a period, if the period is very irregular, etc.), alternative techniques not using ionising radiation (if there are any) should be offered to the patient. Before the use of 177 Lu-labelled medicinal products, pregnancy should be excluded using an adequate/validated test.
 
@@ -179,11 +179,9 @@ Male patients with female partners of reproductive potential should be advised t
 
 ## Pregnancy
 
-The use of Lutetium ( 177 Lu)-labelled medicinal products is contraindicated during established or suspected pregnancy or when pregnancy has not been excluded due to the risk of ionizing radiation to
+The use of Lutetium ( 177 Lu)-labelled medicinal products is contraindicated during established or suspected pregnancy or when pregnancy has not been excluded due to the risk of ionizing radiation to the foetus (see section 4.3).
 
 <div style=\"page-break-after: always\"></div>
-
-the foetus (see section 4.3).
 
 ## Breast-feeding
 
@@ -191,7 +189,7 @@ Before administering radiopharmaceuticals to a mother who is breastfeeding, cons
 
 ## Fertility
 
-According to literature reports and taking a conservative approach (maximum patient dose of 10 GBq, average labeling yield and no additional measures), it may be considered that 177 Lu-labelled medicinal products do not lead to reproductive toxicity including spermatogenetic damage in male testes or genetic damage in male testes or female ovaries.
+According to literature reports and taking a conservative approach (maximum patient dose of 10 GBq, average labelling yield and no additional measures), it may be considered that 177 Lu-labelled medicinal products do not lead to reproductive toxicity including spermatogenetic damage in male testes or genetic damage in male testes or female ovaries.
 
 Further information concerning the use of Lutetium ( 177 Lu)-labelled medicinal products concerning fertility is specified in the Summary of Product Characteristics/Package Leaflet of the medicinal product to be radiolabelled.
 
@@ -316,13 +314,13 @@ Storage of radiopharmaceuticals should be in accordance with national regulation
 
 This medicinal product does not require any special temperature storage conditions.
 
-## 6.5 Nature and contents of container
-
 <div style=\"page-break-after: always\"></div>
+
+## 6.5 Nature and contents of container
 
 Colourless type I glass 2 mL or 10 mL vial with a V-shaped and flat bottom, respectively, with a bromobutyl stopper, closed with an aluminium seal.
 
-The vials are placed into a lead container for protective shielding and packed in a metallic can and an outer carton.
+The vials are placed into a lead container for protective shielding.
 
 Pack size: 1 vial
 
@@ -350,7 +348,7 @@ Any unused medicinal product or waste material must be disposed of in accordance
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-ITM Medical Isotopes GmbH Lichtenbergstrasse 1 D-85748 Garching/Munich Germany
+ITM Medical Isotopes GmbH Lichtenbergstrasse 1 85748 Garching/Munich Germany
 
 <div style=\"page-break-after: always\"></div>
 
@@ -400,21 +398,23 @@ Table 2: Estimated organ absorbed radiation doses and effective doses (mSv/MBq) 
 
 <div style=\"page-break-after: always\"></div>
 
-| Muscle                   |   0.0143 |   0.0180 |   0.0260 |   0.0386 |   0.0697 |
-|--------------------------|----------|----------|----------|----------|----------|
-| Ovaries                  |   0.0106 |   0.0129 |   0.0224 |   0.0379 |   0.0709 |
-| Pancreas                 |   0.0663 |   0.0818 |   0.125  |   0.19   |   0.305  |
-| Red marrow               |   0.591  |   0.667  |   1.23   |   2.62   |   6.6    |
-| Osteogenic cells         |   2.15   |   2.81   |   4.59   |   7.8    |  18.8    |
-| Skin                     |   0.0073 |   0.0091 |   0.014  |   0.0217 |   0.0412 |
-| Spleen                   |   5.73   |   8.5    |  13.5    |  21.6    |  40.7    |
-| Testes                   |   0.0022 |   0.0029 |   0.0049 |   0.0088 |   0.0188 |
-| Thymus                   |   0.0102 |   0.0128 |   0.0179 |   0.0276 |   0.0469 |
-| Thyroid                  |   0.0058 |   0.0075 |   0.0113 |   0.0206 |   0.0377 |
-| Urinary bladder wall     |   0.0043 |   0.0056 |   0.0116 |   0.0247 |   0.0435 |
-| Uterus                   |   0.0085 |   0.0102 |   0.0184 |   0.0331 |   0.0635 |
-| Rest of body             |   0.233  |   0.299  |   0.506  |   0.838  |   1.69   |
-| Effective dose (mSv/MBq) |   0.534  |   0.721  |   1.16   |   1.88   |   3.88   |
+|                          | Absorbed dose per unit radioactivity administered (mSv/MBq)   | Absorbed dose per unit radioactivity administered (mSv/MBq)   | Absorbed dose per unit radioactivity administered (mSv/MBq)   | Absorbed dose per unit radioactivity administered (mSv/MBq)   | Absorbed dose per unit radioactivity administered (mSv/MBq)   |
+|--------------------------|---------------------------------------------------------------|---------------------------------------------------------------|---------------------------------------------------------------|---------------------------------------------------------------|---------------------------------------------------------------|
+| Organ                    | Adult (73.7 kg)                                               | 15 years old (56.8 kg)                                        | 10 years old (33.2 kg)                                        | 5 years old (19.8 kg)                                         | 1 year old (9.7 kg)                                           |
+| Muscle                   | 0.0143                                                        | 0.0180                                                        | 0.0260                                                        | 0.0386                                                        | 0.0697                                                        |
+| Ovaries                  | 0.0106                                                        | 0.0129                                                        | 0.0224                                                        | 0.0379                                                        | 0.0709                                                        |
+| Pancreas                 | 0.0663                                                        | 0.0818                                                        | 0.1250                                                        | 0.1900                                                        | 0.3050                                                        |
+| Red marrow               | 0.5910                                                        | 0.6670                                                        | 1.2300                                                        | 2.6200                                                        | 6.6000                                                        |
+| Osteogenic cells         | 2.1500                                                        | 2.8100                                                        | 4.5900                                                        | 7.8000                                                        | 18.800                                                        |
+| Skin                     | 0.0073                                                        | 0.0091                                                        | 0.0140                                                        | 0.0217                                                        | 0.0412                                                        |
+| Spleen                   | 5.7300                                                        | 8.5000                                                        | 13.500                                                        | 21.600                                                        | 40.700                                                        |
+| Testes                   | 0.0022                                                        | 0.0029                                                        | 0.0049                                                        | 0.0088                                                        | 0.0188                                                        |
+| Thymus                   | 0.0102                                                        | 0.0128                                                        | 0.0179                                                        | 0.0276                                                        | 0.0469                                                        |
+| Thyroid                  | 0.0058                                                        | 0.0075                                                        | 0.0113                                                        | 0.0206                                                        | 0.0377                                                        |
+| Urinary bladder wall     | 0.0043                                                        | 0.0056                                                        | 0.0116                                                        | 0.0247                                                        | 0.0435                                                        |
+| Uterus                   | 0.0085                                                        | 0.0102                                                        | 0.0184                                                        | 0.0331                                                        | 0.0635                                                        |
+| Rest of body             | 0.2330                                                        | 0.2990                                                        | 0.5060                                                        | 0.8380                                                        | 1.6900                                                        |
+| Effective dose (mSv/MBq) | 0.534                                                         | 0.721                                                         | 1.160                                                         | 1.88                                                          | 3.88                                                          |
 
 The effective dose to a 73.7 kg adult resulting from an inadvertently injected intravenous activity of 1 GBq would be 534 mSv.
 
@@ -488,7 +488,7 @@ An updated RMP should be submitted:
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-## METALLIC CAN AND OUTER CARTON
+OUTER CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -516,9 +516,7 @@ ACTIVITY:
 
 ART: {DD/MM/YYYY 12:00 CET }
 
-Specific
-
-activity:
+Specific activity:
 
 …GBq/mg at ART
 
@@ -554,7 +552,7 @@ Any unused medicinal product or waste material must be disposed of in accordance
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-ITM Medical Isotopes GmbH D-85748 Garching/Munich, Germany
+ITM Medical Isotopes GmbH 85748 Garching/Munich, Germany
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -648,7 +646,7 @@ Any unused medicinal product or waste material must be disposed of in accordance
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-ITM Medical Isotopes GmbH D-85748 Garching/Munich, Germany
+ITM Medical Isotopes GmbH 85748 Garching/Munich, Germany
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -712,7 +710,7 @@ ART: {DD/MM/YYYY 12:00 CET}
 
 <!-- image -->
 
-ITM Medical Isotopes GmbH D-85748 Garching/Munich Germany
+ITM Medical Isotopes GmbH 85748 Garching/Munich Germany
 
 <div style=\"page-break-after: always\"></div>
 
@@ -796,7 +794,7 @@ Please refer to the Package Leaflet of the medicine that is to be radiolabelled 
 
 ## Children and adolescents
 
-EndolucinBeta is not to be used directly in childrens and adolescent patients under 18 years old.
+EndolucinBeta is not to be used directly in children and adolescent patients under 18 years old.
 
 ## Other medicines and medicines radiolabelled with EndolucinBeta
 
@@ -808,11 +806,9 @@ It is not known whether Lutetium ( 177 Lu) chloride may interact with other medi
 
 You must inform the nuclear medicine doctor before the administration of medicines radiolabelled with EndolucinBeta if there is a possibility you might be pregnant, if you have missed your period or if you are breast-feeding.
 
-When in doubt, it is important to consult your nuclear medicine doctor who will supervise the
-
 <div style=\"page-break-after: always\"></div>
 
-procedure.
+When in doubt, it is important to consult your nuclear medicine doctor who will supervise the procedure.
 
 ## If you are a female patient who can get pregnant
 
@@ -842,7 +838,9 @@ There are strict laws on the use, handling and disposal of radiopharmaceuticals.
 
 The nuclear medicine doctor supervising the procedure will decide on the quantity of a medicine radiolabelled with EndolucinBeta to be used in your case. It will be the smallest quantity necessary to achieve the appropriate outcome, depending on the medicine you take with EndolucinBeta and what it is used for.
 
-Administration of the medicine radiolabelled with EndolucinBeta and conduct of the procedure EndolucinBeta must be used only in combination with another medicine (carrier medicine) which has been specifically developed and authorised for being combined with Lutetium ( 177 Lu) chloride. The administration will depend on the type of the carrier medicine. Please read the Package Leaflet of that medicine.
+## Administration of the medicine radiolabelled with EndolucinBeta and conduct of the procedure
+
+EndolucinBeta must be used only in combination with another medicine (carrier medicine) which has been specifically developed and authorised for being combined with Lutetium ( 177 Lu) chloride. The administration will depend on the type of the carrier medicine. Please read the Package Leaflet of that medicine.
 
 ## Duration of the procedure
 
@@ -856,11 +854,9 @@ The nuclear medicine doctor will inform you if you need to take any special prec
 
 Since the medicine radiolabelled with EndolucinBeta is handled by a nuclear medicine doctor under strictly controlled conditions, there is only a very small chance of possible overdose. However, in the case of an overdose or an inadvertent intravenous injection of the unlabelled product, you will receive appropriate treatment that will remove the radionuclide from the body.
 
-Should you have any further questions on the use of the medicine radiolabelled with EndolucinBeta,
+Should you have any further questions on the use of the medicine radiolabelled with EndolucinBeta, ask your nuclear medicine doctor who supervises the procedure.
 
 <div style=\"page-break-after: always\"></div>
-
-ask your nuclear medicine doctor who supervises the procedure.
 
 ## 4. Possible side effects
 
@@ -900,7 +896,7 @@ Bone marrow cancer (myelodysplastic syndrome and acute myeloid leukaemia) has be
 
 After the medicine radiolablelled with EndolucinBeta is administered, it will deliver certain amounts of ionising radiation (radioactivity) which can induce a certain risk of cancer and development of hereditary defects. In all cases, the risk of the radiation is outweighed by the potential benefit of receiving the radiolabelled medicine.
 
-For more information, refer to the Package Peaflet of the particular medicinal product to be radiolabelled.
+For more information, refer to the Package Leaflet of the particular medicinal product to be radiolabelled.
 
 ## Reporting of side effects
 
@@ -926,33 +922,25 @@ This medicine does not require any special temperature storage conditions.
 
 ## What EndolucinBeta contains
 
-- -The active substance is Lutetium ( Lu) chloride. Lu) chloride on the activity reference time
+- -The active substance is Lutetium ( Lu) chloride. 1 mL sterile solution contains 40 GBq Lutetium ( 177 Lu) chloride on the activity reference time (ART), corresponding to 10 micrograms of Lutetium ( 177 Lu) (as chloride). (GBq: GigaBecquerel is the unit in which radioactivity is measured).
 - 177
-- 1 mL sterile solution contains 40 GBq Lutetium ( 177 (ART), corresponding to 10 micrograms of Lutetium ( 177 Lu) (as chloride).
-
-(GBq: GigaBecquerel is the unit in which radioactivity is measured).
-
 - -The other ingredient is hydrochloric acid, diluted.
 
 ## What EndolucinBeta looks like and contents of the pack
 
-EndolucinBeta is a radiopharmaceutical precursor, solution. It is presented as a clear and colourless solution in a colourless type I glass 2 mL or 10 mL vial with a V-shaped and flat bottom, respectively, with a bromobutyl stopper, closed with an aluminium seal.
-
-Each pack contains 1 vial placed into a lead container for protective shielding and packed in a metallic can and an outer carton.
+EndolucinBeta is a radiopharmaceutical precursor, solution. It is presented as a clear and colourless solution in a colourless type I glass 2 mL or 10 mL vial with a V-shaped and flat bottom, respectively, with a bromobutyl stopper, closed with an aluminium seal. Each pack contains 1 vial placed into a lead container for protective shielding.
 
 The volume of one vial ranges from 0.075 - 3.75 mL solution (corresponding to 3 - 150 GBq at activity reference time). The volume depends on the quantity of medicine combined with EndolucinBeta required for administration by the nuclear medicine doctor.
 
 ## Marketing Authorisation Holder and Manufacturer
 
-ITM Medical Isotopes GmbH Lichtenbergstrasse 1 D-85748 Garching/Munich Germany info@itm-radiopharma.com
+ITM Medical Isotopes GmbH Lichtenbergstrasse 1 85748 Garching/Munich Germany info@itm-radiopharma.com
 
 ## This leaflet was last revised in MM/YYYY
 
 ## Other sources of information
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
-
-<div style=\"page-break-after: always\"></div>
 
 ------------------------------------------------------------------------------------------------------------------------
 

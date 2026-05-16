@@ -1,32 +1,32 @@
 ---
-document_datetime: 2025-12-29 14:34:47
+document_datetime: 2026-05-11 17:15:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/olazax.html
 document_name: olazax.html
 version: success
-processing_time: 0.1260936
-conversion_datetime: 2025-12-30 21:11:31.520828
+processing_time: 0.1427173
+conversion_datetime: 2026-05-16 12:19:13.922203
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.17.0
+  docling-jobkit: 1.18.0
+  docling: 2.92.0
+  docling-core: 2.74.1
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.10.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
 ---
 # Olazax
 
 [RSS](/en/individual-human-medicine.xml/65921)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-olanzapine Medicine Human Authorised
+olanzapine
 
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
+Medicine Human Authorised
 
 Page contents
 
@@ -37,6 +37,7 @@ Page contents
 - [Product details](#product-details)
 - [Authorisation details](#authorisation-details)
 - [Assessment history](#assessment-history)
+- [Product information - with tracked changes](#product-information-with-tracked-changes-85947)
 - [More information on Olazax](#more-information-on-olazax-1145)
 - [Topics](#topics)
 
@@ -96,275 +97,141 @@ Olazax : EPAR - Summary for the public
 
 English (EN) (72.12 KB - PDF)
 
-**First published:** 29/01/2010
-
-**Last updated:** 15/09/2014
+**First published:** 29/01/2010 **Last updated:** 15/09/2014
 
 [View](/en/documents/overview/olazax-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-861)
+[Other languages (22)](#file-language-dropdown-937)
 
 български (BG) (133.57 KB - PDF)
 
-**First published:**
-
-29/01/2010
-
-**Last updated:**
-
-15/09/2014
+**First published:** 29/01/2010 **Last updated:** 15/09/2014
 
 [View](/bg/documents/overview/olazax-epar-summary-public_bg.pdf)
 
 español (ES) (120.58 KB - PDF)
 
-**First published:**
-
-29/01/2010
-
-**Last updated:**
-
-15/09/2014
+**First published:** 29/01/2010 **Last updated:** 15/09/2014
 
 [View](/es/documents/overview/olazax-epar-summary-public_es.pdf)
 
 čeština (CS) (122.06 KB - PDF)
 
-**First published:**
-
-29/01/2010
-
-**Last updated:**
-
-15/09/2014
+**First published:** 29/01/2010 **Last updated:** 15/09/2014
 
 [View](/cs/documents/overview/olazax-epar-summary-public_cs.pdf)
 
 dansk (DA) (130.4 KB - PDF)
 
-**First published:**
-
-29/01/2010
-
-**Last updated:**
-
-15/09/2014
+**First published:** 29/01/2010 **Last updated:** 15/09/2014
 
 [View](/da/documents/overview/olazax-epar-summary-public_da.pdf)
 
 Deutsch (DE) (121.73 KB - PDF)
 
-**First published:**
-
-29/01/2010
-
-**Last updated:**
-
-15/09/2014
+**First published:** 29/01/2010 **Last updated:** 15/09/2014
 
 [View](/de/documents/overview/olazax-epar-summary-public_de.pdf)
 
 eesti keel (ET) (117.61 KB - PDF)
 
-**First published:**
-
-29/01/2010
-
-**Last updated:**
-
-15/09/2014
+**First published:** 29/01/2010 **Last updated:** 15/09/2014
 
 [View](/et/documents/overview/olazax-epar-summary-public_et.pdf)
 
 ελληνικά (EL) (130.53 KB - PDF)
 
-**First published:**
-
-29/01/2010
-
-**Last updated:**
-
-15/09/2014
+**First published:** 29/01/2010 **Last updated:** 15/09/2014
 
 [View](/el/documents/overview/olazax-epar-summary-public_el.pdf)
 
 français (FR) (132.64 KB - PDF)
 
-**First published:**
-
-29/01/2010
-
-**Last updated:**
-
-15/09/2014
+**First published:** 29/01/2010 **Last updated:** 15/09/2014
 
 [View](/fr/documents/overview/olazax-epar-summary-public_fr.pdf)
 
 hrvatski (HR) (121.05 KB - PDF)
 
-**First published:**
-
-29/01/2010
-
-**Last updated:**
-
-15/09/2014
+**First published:** 29/01/2010 **Last updated:** 15/09/2014
 
 [View](/hr/documents/overview/olazax-epar-summary-public_hr.pdf)
 
 italiano (IT) (118.95 KB - PDF)
 
-**First published:**
-
-29/01/2010
-
-**Last updated:**
-
-15/09/2014
+**First published:** 29/01/2010 **Last updated:** 15/09/2014
 
 [View](/it/documents/overview/olazax-epar-summary-public_it.pdf)
 
 latviešu valoda (LV) (132.5 KB - PDF)
 
-**First published:**
-
-29/01/2010
-
-**Last updated:**
-
-15/09/2014
+**First published:** 29/01/2010 **Last updated:** 15/09/2014
 
 [View](/lv/documents/overview/olazax-epar-summary-public_lv.pdf)
 
 lietuvių kalba (LT) (130.42 KB - PDF)
 
-**First published:**
-
-29/01/2010
-
-**Last updated:**
-
-15/09/2014
+**First published:** 29/01/2010 **Last updated:** 15/09/2014
 
 [View](/lt/documents/overview/olazax-epar-summary-public_lt.pdf)
 
 magyar (HU) (125.46 KB - PDF)
 
-**First published:**
-
-29/01/2010
-
-**Last updated:**
-
-15/09/2014
+**First published:** 29/01/2010 **Last updated:** 15/09/2014
 
 [View](/hu/documents/overview/olazax-epar-summary-public_hu.pdf)
 
 Malti (MT) (136.78 KB - PDF)
 
-**First published:**
-
-29/01/2010
-
-**Last updated:**
-
-15/09/2014
+**First published:** 29/01/2010 **Last updated:** 15/09/2014
 
 [View](/mt/documents/overview/olazax-epar-summary-public_mt.pdf)
 
 Nederlands (NL) (120.07 KB - PDF)
 
-**First published:**
-
-29/01/2010
-
-**Last updated:**
-
-15/09/2014
+**First published:** 29/01/2010 **Last updated:** 15/09/2014
 
 [View](/nl/documents/overview/olazax-epar-summary-public_nl.pdf)
 
 polski (PL) (130.01 KB - PDF)
 
-**First published:**
-
-29/01/2010
-
-**Last updated:**
-
-15/09/2014
+**First published:** 29/01/2010 **Last updated:** 15/09/2014
 
 [View](/pl/documents/overview/olazax-epar-summary-public_pl.pdf)
 
 português (PT) (120.01 KB - PDF)
 
-**First published:**
-
-29/01/2010
-
-**Last updated:**
-
-15/09/2014
+**First published:** 29/01/2010 **Last updated:** 15/09/2014
 
 [View](/pt/documents/overview/olazax-epar-summary-public_pt.pdf)
 
 română (RO) (94.05 KB - PDF)
 
-**First published:**
-
-29/01/2010
-
-**Last updated:**
-
-15/09/2014
+**First published:** 29/01/2010 **Last updated:** 15/09/2014
 
 [View](/ro/documents/overview/olazax-epar-summary-public_ro.pdf)
 
 slovenčina (SK) (122.65 KB - PDF)
 
-**First published:**
-
-29/01/2010
-
-**Last updated:**
-
-15/09/2014
+**First published:** 29/01/2010 **Last updated:** 15/09/2014
 
 [View](/sk/documents/overview/olazax-epar-summary-public_sk.pdf)
 
 slovenščina (SL) (119.67 KB - PDF)
 
-**First published:**
-
-29/01/2010
-
-**Last updated:**
-
-15/09/2014
+**First published:** 29/01/2010 **Last updated:** 15/09/2014
 
 [View](/sl/documents/overview/olazax-epar-summary-public_sl.pdf)
 
 Suomi (FI) (118.86 KB - PDF)
 
-**First published:**
-
-29/01/2010
-
-**Last updated:**
-
-15/09/2014
+**First published:** 29/01/2010 **Last updated:** 15/09/2014
 
 [View](/fi/documents/overview/olazax-epar-summary-public_fi.pdf)
 
 svenska (SV) (122.63 KB - PDF)
 
-**First published:**
-
-29/01/2010
-
-**Last updated:**
-
-15/09/2014
+**First published:** 29/01/2010 **Last updated:** 15/09/2014
 
 [View](/sv/documents/overview/olazax-epar-summary-public_sv.pdf)
 
@@ -372,305 +239,161 @@ svenska (SV) (122.63 KB - PDF)
 
 Olazax : EPAR - Product Information
 
-English (EN) (887.9 KB - PDF)
+English (EN) (906.55 KB - PDF)
 
-**First published:** 29/01/2010
-
-**Last updated:** 31/07/2020
+**First published:** 29/01/2010 **Last updated:** 11/05/2026
 
 [View](/en/documents/product-information/olazax-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-845)
+[Other languages (24)](#file-language-dropdown-582)
 
-български (BG) (1.4 MB - PDF)
+български (BG) (1.12 MB - PDF)
 
-**First published:**
-
-29/01/2010
-
-**Last updated:**
-
-31/07/2020
+**First published:** 29/01/2010 **Last updated:** 11/05/2026
 
 [View](/bg/documents/product-information/olazax-epar-product-information_bg.pdf)
 
-español (ES) (1.05 MB - PDF)
+español (ES) (931.56 KB - PDF)
 
-**First published:**
-
-29/01/2010
-
-**Last updated:**
-
-31/07/2020
+**First published:** 29/01/2010 **Last updated:** 11/05/2026
 
 [View](/es/documents/product-information/olazax-epar-product-information_es.pdf)
 
-čeština (CS) (1.02 MB - PDF)
+čeština (CS) (945.73 KB - PDF)
 
-**First published:**
-
-29/01/2010
-
-**Last updated:**
-
-31/07/2020
+**First published:** 29/01/2010 **Last updated:** 11/05/2026
 
 [View](/cs/documents/product-information/olazax-epar-product-information_cs.pdf)
 
-dansk (DA) (869.88 KB - PDF)
+dansk (DA) (928.09 KB - PDF)
 
-**First published:**
-
-29/01/2010
-
-**Last updated:**
-
-31/07/2020
+**First published:** 29/01/2010 **Last updated:** 11/05/2026
 
 [View](/da/documents/product-information/olazax-epar-product-information_da.pdf)
 
-Deutsch (DE) (1.19 MB - PDF)
+Deutsch (DE) (973.86 KB - PDF)
 
-**First published:**
-
-29/01/2010
-
-**Last updated:**
-
-31/07/2020
+**First published:** 29/01/2010 **Last updated:** 11/05/2026
 
 [View](/de/documents/product-information/olazax-epar-product-information_de.pdf)
 
-eesti keel (ET) (921.38 KB - PDF)
+eesti keel (ET) (825.4 KB - PDF)
 
-**First published:**
-
-29/01/2010
-
-**Last updated:**
-
-31/07/2020
+**First published:** 29/01/2010 **Last updated:** 11/05/2026
 
 [View](/et/documents/product-information/olazax-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.05 MB - PDF)
+ελληνικά (EL) (1.11 MB - PDF)
 
-**First published:**
-
-29/01/2010
-
-**Last updated:**
-
-31/07/2020
+**First published:** 29/01/2010 **Last updated:** 11/05/2026
 
 [View](/el/documents/product-information/olazax-epar-product-information_el.pdf)
 
-français (FR) (1.14 MB - PDF)
+français (FR) (972.65 KB - PDF)
 
-**First published:**
-
-29/01/2010
-
-**Last updated:**
-
-31/07/2020
+**First published:** 29/01/2010 **Last updated:** 11/05/2026
 
 [View](/fr/documents/product-information/olazax-epar-product-information_fr.pdf)
 
-hrvatski (HR) (1021.3 KB - PDF)
+hrvatski (HR) (963.98 KB - PDF)
 
-**First published:**
-
-29/01/2010
-
-**Last updated:**
-
-31/07/2020
+**First published:** 29/01/2010 **Last updated:** 11/05/2026
 
 [View](/hr/documents/product-information/olazax-epar-product-information_hr.pdf)
 
-íslenska (IS) (820.83 KB - PDF)
+íslenska (IS) (877.57 KB - PDF)
 
-**First published:**
-
-29/01/2010
-
-**Last updated:**
-
-31/07/2020
+**First published:** 29/01/2010 **Last updated:** 11/05/2026
 
 [View](/is/documents/product-information/olazax-epar-product-information_is.pdf)
 
-italiano (IT) (1.27 MB - PDF)
+italiano (IT) (962.68 KB - PDF)
 
-**First published:**
-
-29/01/2010
-
-**Last updated:**
-
-31/07/2020
+**First published:** 29/01/2010 **Last updated:** 11/05/2026
 
 [View](/it/documents/product-information/olazax-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (1 MB - PDF)
+latviešu valoda (LV) (1003.41 KB - PDF)
 
-**First published:**
-
-29/01/2010
-
-**Last updated:**
-
-31/07/2020
+**First published:** 29/01/2010 **Last updated:** 11/05/2026
 
 [View](/lv/documents/product-information/olazax-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (1007.55 KB - PDF)
+lietuvių kalba (LT) (971.71 KB - PDF)
 
-**First published:**
-
-29/01/2010
-
-**Last updated:**
-
-31/07/2020
+**First published:** 29/01/2010 **Last updated:** 11/05/2026
 
 [View](/lt/documents/product-information/olazax-epar-product-information_lt.pdf)
 
-magyar (HU) (1.28 MB - PDF)
+magyar (HU) (1.03 MB - PDF)
 
-**First published:**
-
-29/01/2010
-
-**Last updated:**
-
-31/07/2020
+**First published:** 29/01/2010 **Last updated:** 11/05/2026
 
 [View](/hu/documents/product-information/olazax-epar-product-information_hu.pdf)
 
-Malti (MT) (1.17 MB - PDF)
+Malti (MT) (1.13 MB - PDF)
 
-**First published:**
-
-29/01/2010
-
-**Last updated:**
-
-31/07/2020
+**First published:** 29/01/2010 **Last updated:** 11/05/2026
 
 [View](/mt/documents/product-information/olazax-epar-product-information_mt.pdf)
 
-Nederlands (NL) (1.01 MB - PDF)
+Nederlands (NL) (999.26 KB - PDF)
 
-**First published:**
-
-29/01/2010
-
-**Last updated:**
-
-31/07/2020
+**First published:** 29/01/2010 **Last updated:** 11/05/2026
 
 [View](/nl/documents/product-information/olazax-epar-product-information_nl.pdf)
 
-norsk (NO) (1022.01 KB - PDF)
+norsk (NO) (918.65 KB - PDF)
 
-**First published:**
-
-29/01/2010
-
-**Last updated:**
-
-31/07/2020
+**First published:** 29/01/2010 **Last updated:** 11/05/2026
 
 [View](/no/documents/product-information/olazax-epar-product-information_no.pdf)
 
-polski (PL) (1.41 MB - PDF)
+polski (PL) (1.06 MB - PDF)
 
-**First published:**
-
-29/01/2010
-
-**Last updated:**
-
-31/07/2020
+**First published:** 29/01/2010 **Last updated:** 11/05/2026
 
 [View](/pl/documents/product-information/olazax-epar-product-information_pl.pdf)
 
-português (PT) (1.08 MB - PDF)
+português (PT) (959.45 KB - PDF)
 
-**First published:**
-
-29/01/2010
-
-**Last updated:**
-
-31/07/2020
+**First published:** 29/01/2010 **Last updated:** 11/05/2026
 
 [View](/pt/documents/product-information/olazax-epar-product-information_pt.pdf)
 
-română (RO) (1.2 MB - PDF)
+română (RO) (1.24 MB - PDF)
 
-**First published:**
-
-29/01/2010
-
-**Last updated:**
-
-31/07/2020
+**First published:** 29/01/2010 **Last updated:** 11/05/2026
 
 [View](/ro/documents/product-information/olazax-epar-product-information_ro.pdf)
 
-slovenčina (SK) (1.62 MB - PDF)
+slovenčina (SK) (1.27 MB - PDF)
 
-**First published:**
-
-29/01/2010
-
-**Last updated:**
-
-31/07/2020
+**First published:** 29/01/2010 **Last updated:** 11/05/2026
 
 [View](/sk/documents/product-information/olazax-epar-product-information_sk.pdf)
 
-slovenščina (SL) (1.04 MB - PDF)
+slovenščina (SL) (966.97 KB - PDF)
 
-**First published:**
-
-29/01/2010
-
-**Last updated:**
-
-31/07/2020
+**First published:** 29/01/2010 **Last updated:** 11/05/2026
 
 [View](/sl/documents/product-information/olazax-epar-product-information_sl.pdf)
 
-Suomi (FI) (1.04 MB - PDF)
+Suomi (FI) (928.67 KB - PDF)
 
-**First published:**
-
-29/01/2010
-
-**Last updated:**
-
-31/07/2020
+**First published:** 29/01/2010 **Last updated:** 11/05/2026
 
 [View](/fi/documents/product-information/olazax-epar-product-information_fi.pdf)
 
-svenska (SV) (770.34 KB - PDF)
+svenska (SV) (876.54 KB - PDF)
 
-**First published:**
-
-29/01/2010
-
-**Last updated:**
-
-31/07/2020
+**First published:** 29/01/2010 **Last updated:** 11/05/2026
 
 [View](/sv/documents/product-information/olazax-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** WS/1831 25/06/2020
+**Latest procedure affecting product information:** N/0000343977
+
+11/05/2026
 
 icon globe
 
@@ -690,310 +413,178 @@ Olazax : EPAR - All Authorised presentations
 
 English (EN) (21.28 KB - PDF)
 
-**First published:** 29/01/2010
-
-**Last updated:** 19/04/2017
+**First published:** 29/01/2010 **Last updated:** 19/04/2017
 
 [View](/en/documents/all-authorised-presentations/olazax-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-224)
+[Other languages (24)](#file-language-dropdown-304)
 
 български (BG) (76.33 KB - PDF)
 
-**First published:**
-
-29/01/2010
-
-**Last updated:**
-
-19/04/2017
+**First published:** 29/01/2010 **Last updated:** 19/04/2017
 
 [View](/bg/documents/all-authorised-presentations/olazax-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (36.08 KB - PDF)
 
-**First published:**
-
-29/01/2010
-
-**Last updated:**
-
-19/04/2017
+**First published:** 29/01/2010 **Last updated:** 19/04/2017
 
 [View](/es/documents/all-authorised-presentations/olazax-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (48.27 KB - PDF)
 
-**First published:**
-
-29/01/2010
-
-**Last updated:**
-
-19/04/2017
+**First published:** 29/01/2010 **Last updated:** 19/04/2017
 
 [View](/cs/documents/all-authorised-presentations/olazax-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (36.69 KB - PDF)
 
-**First published:**
-
-29/01/2010
-
-**Last updated:**
-
-19/04/2017
+**First published:** 29/01/2010 **Last updated:** 19/04/2017
 
 [View](/da/documents/all-authorised-presentations/olazax-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (37.68 KB - PDF)
 
-**First published:**
-
-29/01/2010
-
-**Last updated:**
-
-19/04/2017
+**First published:** 29/01/2010 **Last updated:** 19/04/2017
 
 [View](/de/documents/all-authorised-presentations/olazax-epar-all-authorised-presentations_de.pdf)
 
 eesti keel (ET) (35.22 KB - PDF)
 
-**First published:**
-
-29/01/2010
-
-**Last updated:**
-
-19/04/2017
+**First published:** 29/01/2010 **Last updated:** 19/04/2017
 
 [View](/et/documents/all-authorised-presentations/olazax-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (73.26 KB - PDF)
 
-**First published:**
-
-29/01/2010
-
-**Last updated:**
-
-19/04/2017
+**First published:** 29/01/2010 **Last updated:** 19/04/2017
 
 [View](/el/documents/all-authorised-presentations/olazax-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (35.96 KB - PDF)
 
-**First published:**
-
-29/01/2010
-
-**Last updated:**
-
-19/04/2017
+**First published:** 29/01/2010 **Last updated:** 19/04/2017
 
 [View](/fr/documents/all-authorised-presentations/olazax-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (29.36 KB - PDF)
 
-**First published:**
-
-29/01/2010
-
-**Last updated:**
-
-19/04/2017
+**First published:** 29/01/2010 **Last updated:** 19/04/2017
 
 [View](/hr/documents/all-authorised-presentations/olazax-epar-all-authorised-presentations_hr.pdf)
 
 íslenska (IS) (22.73 KB - PDF)
 
-**First published:**
-
-29/01/2010
-
-**Last updated:**
-
-19/04/2017
+**First published:** 29/01/2010 **Last updated:** 19/04/2017
 
 [View](/is/documents/all-authorised-presentations/olazax-epar-all-authorised-presentations_is.pdf)
 
 italiano (IT) (36.74 KB - PDF)
 
-**First published:**
-
-29/01/2010
-
-**Last updated:**
-
-19/04/2017
+**First published:** 29/01/2010 **Last updated:** 19/04/2017
 
 [View](/it/documents/all-authorised-presentations/olazax-epar-all-authorised-presentations_it.pdf)
 
 latviešu valoda (LV) (63.5 KB - PDF)
 
-**First published:**
-
-29/01/2010
-
-**Last updated:**
-
-19/04/2017
+**First published:** 29/01/2010 **Last updated:** 19/04/2017
 
 [View](/lv/documents/all-authorised-presentations/olazax-epar-all-authorised-presentations_lv.pdf)
 
 lietuvių kalba (LT) (65.86 KB - PDF)
 
-**First published:**
-
-29/01/2010
-
-**Last updated:**
-
-19/04/2017
+**First published:** 29/01/2010 **Last updated:** 19/04/2017
 
 [View](/lt/documents/all-authorised-presentations/olazax-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (48.76 KB - PDF)
 
-**First published:**
-
-29/01/2010
-
-**Last updated:**
-
-19/04/2017
+**First published:** 29/01/2010 **Last updated:** 19/04/2017
 
 [View](/hu/documents/all-authorised-presentations/olazax-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (65.03 KB - PDF)
 
-**First published:**
-
-29/01/2010
-
-**Last updated:**
-
-19/04/2017
+**First published:** 29/01/2010 **Last updated:** 19/04/2017
 
 [View](/mt/documents/all-authorised-presentations/olazax-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (37.36 KB - PDF)
 
-**First published:**
-
-29/01/2010
-
-**Last updated:**
-
-19/04/2017
+**First published:** 29/01/2010 **Last updated:** 19/04/2017
 
 [View](/nl/documents/all-authorised-presentations/olazax-epar-all-authorised-presentations_nl.pdf)
 
 norsk (NO) (22.07 KB - PDF)
 
-**First published:**
-
-29/01/2010
-
-**Last updated:**
-
-19/04/2017
+**First published:** 29/01/2010 **Last updated:** 19/04/2017
 
 [View](/no/documents/all-authorised-presentations/olazax-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (49.62 KB - PDF)
 
-**First published:**
-
-29/01/2010
-
-**Last updated:**
-
-19/04/2017
+**First published:** 29/01/2010 **Last updated:** 19/04/2017
 
 [View](/pl/documents/all-authorised-presentations/olazax-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (36.55 KB - PDF)
 
-**First published:**
-
-29/01/2010
-
-**Last updated:**
-
-19/04/2017
+**First published:** 29/01/2010 **Last updated:** 19/04/2017
 
 [View](/pt/documents/all-authorised-presentations/olazax-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (64.96 KB - PDF)
 
-**First published:**
-
-29/01/2010
-
-**Last updated:**
-
-19/04/2017
+**First published:** 29/01/2010 **Last updated:** 19/04/2017
 
 [View](/ro/documents/all-authorised-presentations/olazax-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (48.86 KB - PDF)
 
-**First published:**
-
-29/01/2010
-
-**Last updated:**
-
-19/04/2017
+**First published:** 29/01/2010 **Last updated:** 19/04/2017
 
 [View](/sk/documents/all-authorised-presentations/olazax-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (35.94 KB - PDF)
 
-**First published:**
-
-29/01/2010
-
-**Last updated:**
-
-19/04/2017
+**First published:** 29/01/2010 **Last updated:** 19/04/2017
 
 [View](/sl/documents/all-authorised-presentations/olazax-epar-all-authorised-presentations_sl.pdf)
 
 Suomi (FI) (36.87 KB - PDF)
 
-**First published:**
-
-29/01/2010
-
-**Last updated:**
-
-19/04/2017
+**First published:** 29/01/2010 **Last updated:** 19/04/2017
 
 [View](/fi/documents/all-authorised-presentations/olazax-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (36.86 KB - PDF)
 
-**First published:**
-
-29/01/2010
-
-**Last updated:**
-
-19/04/2017
+**First published:** 29/01/2010 **Last updated:** 19/04/2017
 
 [View](/sv/documents/all-authorised-presentations/olazax-epar-all-authorised-presentations_sv.pdf)
 
 ## Product details
 
-Name of medicine Olazax Active substance olanzapine International non-proprietary name (INN) or common name olanzapine Therapeutic area (MeSH)
+Name of medicine
+
+Olazax
+
+Active substance
+
+olanzapine
+
+International non-proprietary name (INN) or common name
+
+olanzapine
+
+Therapeutic area (MeSH)
 
 - Schizophrenia
 - Bipolar Disorder
 
-Anatomical therapeutic chemical (ATC) code N05AH03
+Anatomical therapeutic chemical (ATC) code
+
+N05AH03
 
 ### Pharmacotherapeutic group
 
@@ -1011,7 +602,9 @@ Olanzapine is indicated for the treatment of moderate to severe manic episode. I
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/001087
+EMA product number
+
+EMEA/H/C/001087
 
 Generic
 
@@ -1023,7 +616,13 @@ Glenmark Pharmaceuticals s.r.o.
 
 Glenmark Pharmaceuticals s.r.o.
 
-Marketing authorisation issued 11/12/2009 Revision 12
+Marketing authorisation issued
+
+11/12/2009
+
+Revision
+
+13
 
 ## Assessment history
 
@@ -1035,13 +634,19 @@ Collapse section
 
 Olazax : EPAR - Procedural steps taken and scientific information after authorisation
 
+English (EN) (153.54 KB - PDF)
+
+**First published:** 11/05/2026
+
+[View](/en/documents/procedural-steps-after/olazax-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+
+Olazax : EPAR - Procedural steps taken and scientific information after authorisation (archive)
+
 English (EN) (166.6 KB - PDF)
 
-**First published:** 27/05/2010
+**First published:** 27/05/2010 **Last updated:** 11/05/2026
 
-**Last updated:** 31/07/2020
-
-[View](/en/documents/procedural-steps-after/olazax-epar-procedural-steps-taken-and-scientific-information-after-authorisation_en.pdf)
+[View](/en/documents/procedural-steps-after/olazax-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 ## Initial marketing authorisation documents
 
@@ -1049,13 +654,169 @@ Olazax : EPAR - Public assessment report
 
 English (EN) (200.23 KB - PDF)
 
-**First published:** 29/01/2010
-
-**Last updated:** 29/01/2010
+**First published:** 29/01/2010 **Last updated:** 29/01/2010
 
 [View](/en/documents/assessment-report/olazax-epar-public-assessment-report_en.pdf)
 
-#### More information on Olazax
+## Product information - with tracked changes
+
+The approved product information for this medicine is available below showing the changes since the previous procedure affecting the product information. The same document without tracked changes is above under 'Product information'.
+
+Olazax : EPAR - Product information - tracked changes
+
+English (EN) (738 KB - DOC)
+
+**First published:** 11/05/2026
+
+[View](/en/documents/product-information-tracked-changes/olazax-epar-product-information-tracked-changes_en.doc)
+
+[Other languages (24)](#file-language-dropdown-234)
+
+български (BG) (1.01 MB - DOC)
+
+**First published:** 11/05/2026
+
+[View](/bg/documents/product-information-tracked-changes/olazax-epar-product-information-tracked-changes_bg.doc)
+
+español (ES) (767 KB - DOC)
+
+**First published:** 11/05/2026
+
+[View](/es/documents/product-information-tracked-changes/olazax-epar-product-information-tracked-changes_es.doc)
+
+čeština (CS) (916.5 KB - DOC)
+
+**First published:** 11/05/2026
+
+[View](/cs/documents/product-information-tracked-changes/olazax-epar-product-information-tracked-changes_cs.doc)
+
+dansk (DA) (840.5 KB - DOC)
+
+**First published:** 11/05/2026
+
+[View](/da/documents/product-information-tracked-changes/olazax-epar-product-information-tracked-changes_da.doc)
+
+Deutsch (DE) (780.5 KB - DOC)
+
+**First published:** 11/05/2026
+
+[View](/de/documents/product-information-tracked-changes/olazax-epar-product-information-tracked-changes_de.doc)
+
+eesti keel (ET) (679 KB - DOC)
+
+**First published:** 11/05/2026
+
+[View](/et/documents/product-information-tracked-changes/olazax-epar-product-information-tracked-changes_et.doc)
+
+ελληνικά (EL) (1.07 MB - DOC)
+
+**First published:** 11/05/2026
+
+[View](/el/documents/product-information-tracked-changes/olazax-epar-product-information-tracked-changes_el.doc)
+
+français (FR) (800.5 KB - DOC)
+
+**First published:** 11/05/2026
+
+[View](/fr/documents/product-information-tracked-changes/olazax-epar-product-information-tracked-changes_fr.doc)
+
+hrvatski (HR) (1 MB - DOC)
+
+**First published:** 11/05/2026
+
+[View](/hr/documents/product-information-tracked-changes/olazax-epar-product-information-tracked-changes_hr.doc)
+
+íslenska (IS) (678.5 KB - DOC)
+
+**First published:** 11/05/2026
+
+[View](/is/documents/product-information-tracked-changes/olazax-epar-product-information-tracked-changes_is.doc)
+
+italiano (IT) (779 KB - DOC)
+
+**First published:** 11/05/2026
+
+[View](/it/documents/product-information-tracked-changes/olazax-epar-product-information-tracked-changes_it.doc)
+
+latviešu valoda (LV) (982.5 KB - DOC)
+
+**First published:** 11/05/2026
+
+[View](/lv/documents/product-information-tracked-changes/olazax-epar-product-information-tracked-changes_lv.doc)
+
+lietuvių kalba (LT) (963.5 KB - DOC)
+
+**First published:** 11/05/2026
+
+[View](/lt/documents/product-information-tracked-changes/olazax-epar-product-information-tracked-changes_lt.doc)
+
+magyar (HU) (981 KB - DOC)
+
+**First published:** 11/05/2026
+
+[View](/hu/documents/product-information-tracked-changes/olazax-epar-product-information-tracked-changes_hu.doc)
+
+Malti (MT) (1.06 MB - DOC)
+
+**First published:** 11/05/2026
+
+[View](/mt/documents/product-information-tracked-changes/olazax-epar-product-information-tracked-changes_mt.doc)
+
+Nederlands (NL) (753.5 KB - DOC)
+
+**First published:** 11/05/2026
+
+[View](/nl/documents/product-information-tracked-changes/olazax-epar-product-information-tracked-changes_nl.doc)
+
+norsk (NO) (837.5 KB - DOC)
+
+**First published:** 11/05/2026
+
+[View](/no/documents/product-information-tracked-changes/olazax-epar-product-information-tracked-changes_no.doc)
+
+polski (PL) (279.21 KB - DOCX)
+
+**First published:** 11/05/2026
+
+[View](/pl/documents/product-information-tracked-changes/olazax-epar-product-information-tracked-changes_pl.docx)
+
+português (PT) (862 KB - DOC)
+
+**First published:** 11/05/2026
+
+[View](/pt/documents/product-information-tracked-changes/olazax-epar-product-information-tracked-changes_pt.doc)
+
+română (RO) (1.21 MB - DOC)
+
+**First published:** 11/05/2026
+
+[View](/ro/documents/product-information-tracked-changes/olazax-epar-product-information-tracked-changes_ro.doc)
+
+slovenčina (SK) (2.07 MB - DOC)
+
+**First published:** 11/05/2026
+
+[View](/sk/documents/product-information-tracked-changes/olazax-epar-product-information-tracked-changes_sk.doc)
+
+slovenščina (SL) (986.5 KB - DOC)
+
+**First published:** 11/05/2026
+
+[View](/sl/documents/product-information-tracked-changes/olazax-epar-product-information-tracked-changes_sl.doc)
+
+Suomi (FI) (818 KB - DOC)
+
+**First published:** 11/05/2026
+
+[View](/fi/documents/product-information-tracked-changes/olazax-epar-product-information-tracked-changes_fi.doc)
+
+svenska (SV) (695.5 KB - DOC)
+
+**First published:** 11/05/2026
+
+[View](/sv/documents/product-information-tracked-changes/olazax-epar-product-information-tracked-changes_sv.doc)
+
+## More information on Olazax
 
 Questions and answers on generic medicines
 
@@ -1063,285 +824,151 @@ Reference Number: EMA/393905/2006 Rev. 2
 
 English (EN) (66.45 KB - PDF)
 
-**First published:** 09/07/2007
-
-**Last updated:** 07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-573)
+[Other languages (22)](#file-language-dropdown-691)
 
 български (BG) (93.16 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/bg/documents/other/questions-and-answers-generic-medicines_bg.pdf)
 
 español (ES) (68.3 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/es/documents/other/questions-and-answers-generic-medicines_es.pdf)
 
 čeština (CS) (87.71 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/cs/documents/other/questions-and-answers-generic-medicines_cs.pdf)
 
 dansk (DA) (66.79 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/da/documents/other/questions-and-answers-generic-medicines_da.pdf)
 
 Deutsch (DE) (67.55 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/de/documents/other/questions-and-answers-generic-medicines_de.pdf)
 
 eesti keel (ET) (65.21 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/et/documents/other/questions-and-answers-generic-medicines_et.pdf)
 
 ελληνικά (EL) (91.29 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/el/documents/other/questions-and-answers-generic-medicines_el.pdf)
 
 français (FR) (68.35 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/fr/documents/other/questions-and-answers-generic-medicines_fr.pdf)
 
 hrvatski (HR) (87.8 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/hr/documents/other/questions-and-answers-generic-medicines_hr.pdf)
 
 italiano (IT) (67.62 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/it/documents/other/questions-and-answers-generic-medicines_it.pdf)
 
 latviešu valoda (LV) (111.81 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/lv/documents/other/questions-and-answers-generic-medicines_lv.pdf)
 
 lietuvių kalba (LT) (86.76 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/lt/documents/other/questions-and-answers-generic-medicines_lt.pdf)
 
 magyar (HU) (85.76 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/hu/documents/other/questions-and-answers-generic-medicines_hu.pdf)
 
 Malti (MT) (89.35 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/mt/documents/other/questions-and-answers-generic-medicines_mt.pdf)
 
 Nederlands (NL) (66.81 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/nl/documents/other/questions-and-answers-generic-medicines_nl.pdf)
 
 polski (PL) (88.51 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/pl/documents/other/questions-and-answers-generic-medicines_pl.pdf)
 
 português (PT) (68.32 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/pt/documents/other/questions-and-answers-generic-medicines_pt.pdf)
 
 română (RO) (86.9 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/ro/documents/other/questions-and-answers-generic-medicines_ro.pdf)
 
 slovenčina (SK) (87.73 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/sk/documents/other/questions-and-answers-generic-medicines_sk.pdf)
 
 slovenščina (SL) (84.8 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/sl/documents/other/questions-and-answers-generic-medicines_sl.pdf)
 
 Suomi (FI) (66.21 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/fi/documents/other/questions-and-answers-generic-medicines_fi.pdf)
 
 svenska (SV) (67.11 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/sv/documents/other/questions-and-answers-generic-medicines_sv.pdf)
 
-#### Topics
+## Topics
 
 - [Generic and hybrid medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A54)
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 31/07/2020
+**This page was last updated on**
+
+11/05/2026
 
 ## Share this page
-
-[Back to top](#main-content)

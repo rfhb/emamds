@@ -1,21 +1,97 @@
 ---
-document_datetime: 2026-03-19 14:08:00
+document_datetime: 2026-05-18 16:05:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/imfinzi.html
 document_name: imfinzi.html
 version: success
-processing_time: 0.103984
-conversion_datetime: 2026-03-21 11:38:11.264535
+processing_time: 0.175217
+conversion_datetime: 2026-05-20 21:00:50.131575
 docling_version:
-  docling-serve: 1.14.3
-  docling-jobkit: 1.13.0
-  docling: 2.81.0
-  docling-core: 2.70.2
-  docling-ibm-models: 3.12.0
-  docling-parse: 5.6.0
+  docling-serve: 1.19.0
+  docling-jobkit: 1.19.1
+  docling: 2.94.0
+  docling-core: 2.77.0
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.11.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
 ---
+# Search
+
+- [Medicines](/en/medicines)
+    - [Find medicine](/en/medicines)
+    - [Therapeutic areas: latest updates](/en/medicines/therapeutic-areas-latest-updates)
+    - [Download medicine data](/en/medicines/download-medicine-data)
+    - [What we publish on medicines and when](/en/medicines/what-we-publish-medicines-when)
+    - [Medicines under evaluation](/en/medicines/medicines-human-use-under-evaluation)
+    - [National registers](/en/medicines/national-registers-authorised-medicines)
+- [Human regulatory](/en/human-regulatory-overview)
+    - [Overview](/en/human-regulatory-overview)
+    - [Research and development](/en/human-regulatory-overview/research-development)
+    - [Marketing authorisation](/en/human-regulatory-overview/marketing-authorisation)
+    - [Post-authorisation](/en/human-regulatory-overview/post-authorisation)
+    - [Medical devices](/en/human-regulatory-overview/medical-devices)
+    - [Herbal products](/en/human-regulatory-overview/herbal-medicinal-products)
+- [Veterinary regulatory](/en/veterinary-regulatory-overview)
+    - [Overview](/en/veterinary-regulatory-overview)
+    - [Research and development](/en/veterinary-regulatory-overview/research-development-veterinary-medicines)
+    - [Marketing authorisation](/en/veterinary-regulatory-overview/marketing-authorisation-veterinary-medicines)
+    - [Post-authorisation](/en/veterinary-regulatory-overview/post-authorisation-veterinary-medicines)
+- [Committees](/en/committees)
+    - [Overview](/en/committees)
+    - [How the committees work](/en/committees/how-committees-work)
+    - [CHMP](/en/committees/committee-medicinal-products-human-use-chmp)
+    - [CVMP](/en/committees/committee-veterinary-medicinal-products-cvmp)
+    - [PRAC](/en/committees/pharmacovigilance-risk-assessment-committee-prac)
+    - [COMP](/en/committees/committee-orphan-medicinal-products-comp)
+    - [HMPC](/en/committees/committee-herbal-medicinal-products-hmpc)
+    - [CAT](/en/committees/committee-advanced-therapies-cat)
+    - [PDCO](/en/committees/paediatric-committee-pdco)
+    - [Working parties and other groups](/en/committees/working-parties-other-groups)
+- [News &amp; events](/en/news-events)
+    - [Overview](/en/news-events)
+    - [News](/en/news)
+    - [Events](/en/events/upcoming-events)
+    - [What's new](/en/news-events/whats-new)
+    - [Committee highlights](/en/news-events/committee-highlights)
+    - [Publications](/en/news-and-events/publications)
+    - [Press and social media](/en/news-events/press-social-media)
+    - [Podcast: Inside EMA](/en/news-events/podcast-inside-ema)
+    - [EMA Campaigns](/en/news-events/ema-campaigns)
+    - [Open consultations](/en/news-events/open-consultations)
+    - [RSS feeds](/en/news-events/rss-feeds)
+- [Partners &amp; networks](/en/partners-networks)
+    - [Overview](/en/partners-networks)
+    - [EU partners](/en/partners-networks/eu-partners)
+    - [International activities](/en/partners-networks/international-activities)
+    - [Patients and consumers](/en/partners-networks/patients-consumers)
+    - [Healthcare professionals](/en/partners-networks/healthcare-professionals)
+    - [Academia](/en/partners-networks/academia)
+    - [Pharmaceutical industry](/en/partners-networks/pharmaceutical-industry)
+    - [Networks](/en/partners-networks/networks)
+    - [Health technology assessment bodies](/en/partners-networks/health-technology-assessment-bodies)
+    - [One Health approach](/en/partners-networks/one-health-approach)
+    - [Animal health practitioners](/en/partners-networks/animal-health-practitioners)
+    - [One substance - one assessment](/en/partners-networks/one-substance-one-assessment-osoa-eu-collaboration-chemicals-related-data)
+- [About us](/en/about-us)
+    - [Overview](/en/about-us)
+    - [What we do](/en/about-us/what-we-do)
+    - [Who we are](/en/about-us/who-we-are)
+    - [How we work](/en/about-us/how-we-work)
+    - [Fees](/en/about-us/fees-payable-european-medicines-agency)
+    - [Support to SMEs](/en/about-us/support-smes)
+    - [Annual reports and work programmes](/en/about-us/annual-reports-work-programmes)
+    - [History of EMA](/en/about-us/history-ema)
+    - [Careers](/en/about-us/careers)
+    - [Procurement](/en/about-us/procurement-grants)
+    - [About this website](/en/about-us/about-website)
+    - [Data protection and privacy](/en/about-us/data-protection-privacy-ema)
+    - [Contacts](/en/about-us/contacts-european-medicines-agency)
+
+1. [Home](/en/homepage)
+2. [Medicines](https://www.ema.europa.eu/en/medicines)
+3. Imfinzi
+
 # Imfinzi
 
 [RSS](/en/individual-human-medicine.xml/66166)
@@ -24,7 +100,9 @@ Authorised
 
 This medicine is authorised for use in the European Union
 
-durvalumab Medicine Human Authorised
+durvalumab
+
+Medicine Human Authorised
 
 Page contents
 
@@ -52,24 +130,27 @@ Imfinzi is a cancer medicine used in adults to treat:
 
 Imfinzi is used to treat adults with NSCLC, a type of lung cancer, whose cancer:
 
-- is locally advanced (meaning it has spread into tissues around the lungs, but not to other parts of the body) and cannot be removed by surgery and is not getting worse after radiation treatment and platinum-based chemotherapy (medicines to treat cancer). Imfinzi is used on its own and only when the cancer produces a protein known as PD-L1;
-- has metastasised (spread) outside the lungs. Imfinzi is given together with tremelimumab (another cancer medicine) and platinum-based chemotherapy, and is used when the cancer has no mutations (changes) in the so-called *EGFR* and *ALK* genes;
-- can be removed by surgery and is at high risk of coming back, when the cancer has no mutations in the *EGFR* gene or other changes, called rearrangements, in the ALK gene. Imfinzi is then used with platinum-based chemotherapy before surgery, and on its own after surgery.
+- is locally advanced (meaning it has spread into tissues around the lungs, but not to other parts of the body), cannot be removed by surgery and is not getting worse after radiation treatment and platinum-based chemotherapy (medicines to treat cancer). Imfinzi is used when the cancer produces a protein known as PD-L1;
+
+- has metastasised (spread) outside the lungs and has no mutations (changes) in the so-called EGFR and ALK genes;
+
+- can be removed by surgery and is at high risk of coming back, and has no mutations in the EGFR gene or other changes, called rearrangements, in the ALK gene.
 
 **Small cell lung cancer (SCLC)**
 
 Imfinzi is used to treat adults with SCLC (a type of lung cancer) whose cancer:
 
-- has spread within the lungs or to other parts of the body (extensive-stage SCLC) and has not been treated previously. Imfinzi is given together with etoposide and either carboplatin or cisplatin (chemotherapy medicines);
-- affects one lung, tissues between the lungs and nearby lymph nodes (limited-stage SCLC) and has not worsened after platinum-based chemoradiation therapy (therapy that combines chemotherapy with radiation therapy). Imfinzi is used on its own.
+- has spread within the lungs or to other parts of the body (extensive-stage SCLC) and has not been treated previously;
+
+- affects one lung, tissues between the lungs and nearby lymph nodes (limited-stage SCLC) and has not worsened after platinum-based chemoradiation therapy (therapy that combines chemotherapy with radiation therapy).
 
 **Biliary tract cancer (BTC)**
 
-Imfinzi is used to treat adults with BTC, a cancer of the bile ducts (tubes that carry bile from the liver and gallbladder to the gut). It is used in combination with gemcitabine and cisplatin (other cancer medicines) in patients whose cancer has not been treated previously and cannot be removed by surgery or has metastasised.
+Imfinzi is used to treat adults with BTC, a cancer of the bile ducts (tubes that carry bile from the liver and gallbladder to the gut). It is used in patients whose cancer has not been treated previously and cannot be removed by surgery or has metastasised.
 
 **Hepatocellular carcinoma (HCC)**
 
-Imfinzi is used to treat adults with HCC, a type of liver cancer, on its own or in combination with tremelimumab, in patients who have not been treated before and whose disease is advanced or cannot be removed by surgery.
+Imfinzi is used to treat HCC, a type of liver cancer, in adults who have not been treated before and whose disease is advanced or cannot be removed by surgery.
 
 **Endometrial cancer**
 
@@ -77,7 +158,13 @@ Imfinzi is used to treat adults with endometrial cancer, a cancer of the lining 
 
 **Muscle invasive bladder cancer (MIBC)**
 
-Imfinzi is used to treat adults with MIBC that can be removed by surgery. MIBC is a type of cancer affecting the bladder (an organ that holds urine) in which the cancer has spread beyond the inner lining of the bladder and into the muscle layer of the bladder wall. Imfinzi is used in combination with gemcitabine and cisplatin (chemotherapy medicines) as preliminary treatment to shrink the cancer (neoadjuvant treatment) before surgery to remove the bladder. Imfinzi is then given on its own after surgery (adjuvant treatment).
+Imfinzi is used to treat adults with MIBC that can be removed by surgery. MIBC is a type of cancer affecting the bladder (an organ that holds urine) in which the cancer has spread beyond the inner lining of the bladder and into the muscle layer of the bladder wall.
+
+**Gastric or gastro-oesophageal junction adenocarcinoma**
+
+Imfinzi is used to treat adults with gastric or gastro-oesophageal junction adenocarcinoma (a type of cancer of the stomach or the transition between the stomach and oesophagus) that can be removed by surgery.
+
+Depending on the condition it is used to treat, Imfinzi may be given on its own, or with chemotherapy.
 
 Imfinzi contains the active substance durvalumab.
 
@@ -97,7 +184,7 @@ For more information about using Imfinzi, see the package leaflet or contact you
 
 ## How does Imfinzi work?
 
-The active substance in Imfinzi, durvalumab, is a monoclonal antibody, a type of protein designed to attach to a protein called PD-L1, which is present on the surface of many cancer cells.
+The active substance in Imfinzi, durvalumab, is a monoclonal antibody (a type of protein) designed to attach to a protein called PD-L1, which is present on the surface of many cancer cells.
 
 PD-L1 acts to switch off immune cells that would otherwise attack the cancer cells. By attaching to PD-L1 and blocking its effects, Imfinzi increases the ability of the immune system to attack the cancer cells, slowing down the progression of the disease.
 
@@ -105,9 +192,9 @@ PD-L1 acts to switch off immune cells that would otherwise attack the cancer cel
 
 **Non-small cell lung cancer**
 
-In one main study involving 713 patients with locally advanced NSCLC, patients given Imfinzi lived on average for around 17 months without their disease getting worse, compared with 6 months for those given placebo (a dummy treatment). Preliminary results also indicated that patients given Imfinzi lived longer overall compared with patients on placebo.
+In one main study involving 713 patients with locally advanced NSCLC, patients given Imfinzi lived on average for around 17 months without their disease getting worse, compared with 6 months for those given placebo (a dummy treatment). Preliminary results also indicated that patients given Imfinzi lived longer overall than patients on placebo.
 
-In a second main study involving patients with metastatic NSCLC, 338 patients given Imfinzi in combination with tremelimumab and chemotherapy lived on average for 14 months, compared with 12 months for 337 patients given only chemotherapy. They also lived longer without their disease getting worse: around 6 months on average, compared with 5 months for patients who only received chemotherapy.
+In a second main study involving patients with metastatic NSCLC, 338 patients given Imfinzi in combination with tremelimumab (another cancer medicine) and chemotherapy lived on average for 14 months, compared with 12 months on average for 337 patients given only chemotherapy. They also lived longer without their disease getting worse: around 6 months on average, compared with 5 months for patients who only received chemotherapy.
 
 In a third main study involving 802 patients with NSCLC that can be removed by surgery, patients received either Imfinzi plus chemotherapy or placebo with chemotherapy before surgery. After surgery, patients continued with either Imfinzi or placebo for up to 12 cycles of 4 weeks.
 
@@ -141,7 +228,13 @@ Patients given standard treatment plus Imfinzi in the first part and Imfinzi and
 
 **Muscle invasive bladder cancer**
 
-In a main study involving 1,083 adults with MIBC that could be removed by surgery, patients were divided into two groups. The first group received Imfinzi in combination with gemcitabine and cisplatin before surgery to remove the bladder and continued with Imfinzi alone after surgery. The second group received gemcitabine and cisplatin before surgery and did not receive any further treatment afterwards. Around 35% of patients given Imfinzi (187 out of 533) had their cancer return, worsen or experienced serious complications including death, 35 months after starting treatment compared to around 47% of those not given Imfinzi, 28 months after starting treatment.
+In a main study involving 1,083 adults with MIBC that could be removed by surgery, patients were divided into two groups. The first group received Imfinzi in combination with gemcitabine and cisplatin before surgery to remove the bladder and continued with Imfinzi alone after surgery. The second group received gemcitabine and cisplatin before surgery and did not receive any further treatment afterwards. Around 35% of patients given Imfinzi (187 out of 533) had their cancer return or worsen, or experienced serious complications including death, 35 months after starting treatment compared to around 47% of those not given Imfinzi, 28 months after starting treatment.
+
+**Gastric or gastro-oesophageal junction adenocarcinoma**
+
+In a main study involving 949 adults with gastric or gastro-oesophageal junction adenocarcinoma that could be removed by surgery, patients were divided into two groups. The first group received Imfinzi in combination with chemotherapy before surgery to remove the cancer and continued with Imfinzi plus chemotherapy followed by Imfinzi alone after surgery. The second group received placebo in place of Imfinzi.
+
+Around 35% of patients given Imfinzi (167 out of 474) had their cancer return or worsen, or experienced serious complications including death 27 months after starting treatment. In comparison, around 46% (218 out of 474) of patients who did not receive Imfinzi experienced these outcomes 26 months after starting treatment. Although information about how long patients lived overall was not yet available, around 34% (160 out of 474) of patients receiving Imfinzi died during the study compared with around 41% (192 out of 474) of those not receiving Imfinzi.
 
 ## What are the risks associated with Imfinzi?
 
@@ -149,7 +242,7 @@ For the full list of side effects and restrictions with Imfinzi, see the package
 
 When Imfinzi is given alone, the most common side effects (which may affect more than 1 in 10 people) include cough, diarrhoea, rash, joint pain, fever, abdominal (belly) pain, nose and throat infections, itching and hypothyroidism (an underactive thyroid gland).
 
-When Imfinzi is given together with chemotherapy, the most common side effects (which may affect more than 1 in 10 people) include neutropenia (low levels of neutrophils, which fight infections), anaemia (low levels of red blood cells), tiredness, nausea (feeling sick), thrombocytopenia (low levels of platelets in the blood), hair loss, constipation, decreased appetite, peripheral neuropathy (nerve damage in arms and legs), abdominal (belly) pain, diarrhoea, rash, vomiting, leucopenia (low levels of white blood cells), fever, joint pain, cough, itching, hypothyroidism and increased level of liver enzymes.
+When Imfinzi is given together with chemotherapy, the most common side effects (which may affect more than 1 in 10 people) include neutropenia (low levels of neutrophils, which fight infections), anaemia (low levels of red blood cells), tiredness, nausea (feeling sick), thrombocytopenia (low levels of platelets in the blood), hair loss, constipation, decreased appetite, peripheral neuropathy (nerve damage in arms and legs), abdominal pain, diarrhoea, rash, vomiting, leucopenia (low levels of white blood cells), fever, joint pain, cough, itching, hypothyroidism and increased level of liver enzymes.
 
 When Imfinzi is given with tremelimumab and chemotherapy for non-small cell lung cancer, the most common side effects (which may affect more than 1 in 5 people) include anaemia, nausea, neutropenia, tiredness, rash, thrombocytopenia and diarrhoea.
 
@@ -159,9 +252,11 @@ When Imfinzi is given together with chemotherapy and followed by Imfinzi with ol
 
 ## Why is Imfinzi authorised in the EU?
 
-Imfinzi was shown to increase the time patients with locally advanced NSCLC and endometrial cancer lived without their disease getting worse and the time patients with small cell lung cancer, advanced hepatocellular carcinoma or advanced biliary tract cancer lived overall. However, in patients with endometrial cancer, there are uncertainties around the long-term benefits of treatment and these will be addressed in ongoing studies. In combination with tremelimumab, Imfinzi had beneficial effects in patients with NSCLC and in those with hepatocellular carcinoma. The use of Imfinzi in patients with locally advanced NSCLC is restricted to those whose cancer produces PD-L1, since a clear benefit was only shown in this group of patients. Imfinzi also showed benefits in patients with NSCLC that can be removed by surgery and is at high risk of coming back; however, long-term data are needed to confirm the effect of treatment on how long patients live overall.
+Imfinzi was shown to increase the time patients with locally advanced NSCLC and endometrial cancer lived without their disease getting worse and the time patients with SCLC, advanced hepatocellular carcinoma or advanced biliary tract cancer lived overall. However, in patients with endometrial cancer, there are uncertainties around the long-term benefits of treatment and these will be addressed in ongoing studies. In combination with tremelimumab, Imfinzi had beneficial effects in patients with NSCLC and in those with hepatocellular carcinoma. The use of Imfinzi in patients with locally advanced NSCLC is restricted to those whose cancer produces PD-L1, since a clear benefit was only shown in this group of patients. Imfinzi also showed benefits in patients with NSCLC that can be removed by surgery and is at high risk of coming back; however, long-term data are needed to confirm the effect of treatment on how long patients live overall.
 
-A main study found that for patients with muscle-invasive bladder cancer that could be removed by surgery, adding Imfinzi to standard chemotherapy before and after surgery helped prevent the return or delay the progression of the disease, as well as reduce the risk of death or other cancer-related complications.
+A main study found that for patients with muscle-invasive bladder cancer that could be removed by surgery, adding Imfinzi to standard chemotherapy before and after surgery helped prevent the return of cancer or delay the progression of the disease, as well as reduce the risk of death or other cancer-related complications.
+
+In patients with gastric or gastro-oesophageal adenocarcinoma that could be removed by surgery, adding Imfinzi to chemotherapy before and after surgery followed by Imfinzi on its own was more effective than chemotherapy plus placebo followed by placebo on its own at preventing the return or delaying the progression of the disease, as well as reducing the risk of death or other cancer-related complications.
 
 Side effects with Imfinzi were considered manageable, and its safety profile acceptable and in line with that of similar medicines.
 
@@ -169,7 +264,7 @@ The European Medicines Agency therefore decided that Imfinzi's benefits are grea
 
 ## What measures are being taken to ensure the safe and effective use of Imfinzi?
 
-The company that markets Imfinzi will provide both the interim and final results of the main study in patients with endometrial cancer to confirm the long-term benefit of the medicine in combination with olaparib in patients whose cancer is MMR proficient, and maintenance therapy with Imfinzi on its own in patients whose cancer is MMR deficient. The company will also provide data on the effect of Imfinzi on how long patients with NSCLC that can be removed by surgery live overall.
+The company that markets Imfinzi will provide both the interim and final results of the main study in patients with endometrial cancer to confirm the long-term benefit of the medicine in combination with olaparib in patients whose cancer is MMR proficient, and of maintenance therapy with Imfinzi on its own in patients whose cancer is MMR deficient. The company will also provide data on the effect of Imfinzi on how long patients with NSCLC that can be removed by surgery live overall.
 
 Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Imfinzi have also been included in the summary of product characteristics and the package leaflet.
 
@@ -181,585 +276,315 @@ Imfinzi received a marketing authorisation valid throughout the EU on 21 Septemb
 
 Imfinzi : EPAR - Medicine overview
 
-Reference Number: EMA/196154/2025
+Reference Number: EMADOC-1829012207-42312
 
-English (EN) (169.04 KB - PDF)
+English (EN) (168.45 KB - PDF)
 
-**First published:** 30/10/2018
-
-**Last updated:** 11/07/2025
+**First published:** 30/10/2018 **Last updated:** 18/05/2026
 
 [View](/en/documents/overview/imfinzi-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-478)
+[Other languages (22)](#file-language-dropdown-997)
 
-български (BG) (199.38 KB - PDF)
+български (BG) (203.85 KB - PDF)
 
-**First published:**
-
-30/10/2018
-
-**Last updated:**
-
-11/07/2025
+**First published:** 30/10/2018 **Last updated:** 18/05/2026
 
 [View](/bg/documents/overview/imfinzi-epar-medicine-overview_bg.pdf)
 
-español (ES) (167.63 KB - PDF)
+español (ES) (167.86 KB - PDF)
 
-**First published:**
-
-30/10/2018
-
-**Last updated:**
-
-11/07/2025
+**First published:** 30/10/2018 **Last updated:** 18/05/2026
 
 [View](/es/documents/overview/imfinzi-epar-medicine-overview_es.pdf)
 
-čeština (CS) (199.94 KB - PDF)
+čeština (CS) (200.21 KB - PDF)
 
-**First published:**
-
-30/10/2018
-
-**Last updated:**
-
-11/07/2025
+**First published:** 30/10/2018 **Last updated:** 18/05/2026
 
 [View](/cs/documents/overview/imfinzi-epar-medicine-overview_cs.pdf)
 
-dansk (DA) (165.85 KB - PDF)
+dansk (DA) (166.84 KB - PDF)
 
-**First published:**
-
-30/10/2018
-
-**Last updated:**
-
-11/07/2025
+**First published:** 30/10/2018 **Last updated:** 18/05/2026
 
 [View](/da/documents/overview/imfinzi-epar-medicine-overview_da.pdf)
 
-Deutsch (DE) (172.86 KB - PDF)
+Deutsch (DE) (174.37 KB - PDF)
 
-**First published:**
-
-30/10/2018
-
-**Last updated:**
-
-11/07/2025
+**First published:** 30/10/2018 **Last updated:** 18/05/2026
 
 [View](/de/documents/overview/imfinzi-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (163.15 KB - PDF)
+eesti keel (ET) (160.87 KB - PDF)
 
-**First published:**
-
-30/10/2018
-
-**Last updated:**
-
-11/07/2025
+**First published:** 30/10/2018 **Last updated:** 18/05/2026
 
 [View](/et/documents/overview/imfinzi-epar-medicine-overview_et.pdf)
 
-ελληνικά (EL) (206.25 KB - PDF)
+ελληνικά (EL) (202.06 KB - PDF)
 
-**First published:**
-
-30/10/2018
-
-**Last updated:**
-
-11/07/2025
+**First published:** 30/10/2018 **Last updated:** 18/05/2026
 
 [View](/el/documents/overview/imfinzi-epar-medicine-overview_el.pdf)
 
-français (FR) (173.23 KB - PDF)
+français (FR) (172.16 KB - PDF)
 
-**First published:**
-
-30/10/2018
-
-**Last updated:**
-
-11/07/2025
+**First published:** 30/10/2018 **Last updated:** 18/05/2026
 
 [View](/fr/documents/overview/imfinzi-epar-medicine-overview_fr.pdf)
 
-hrvatski (HR) (196.18 KB - PDF)
+hrvatski (HR) (198.43 KB - PDF)
 
-**First published:**
-
-30/10/2018
-
-**Last updated:**
-
-11/07/2025
+**First published:** 30/10/2018 **Last updated:** 18/05/2026
 
 [View](/hr/documents/overview/imfinzi-epar-medicine-overview_hr.pdf)
 
-italiano (IT) (165.33 KB - PDF)
+italiano (IT) (165.5 KB - PDF)
 
-**First published:**
-
-30/10/2018
-
-**Last updated:**
-
-11/07/2025
+**First published:** 30/10/2018 **Last updated:** 18/05/2026
 
 [View](/it/documents/overview/imfinzi-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (205.75 KB - PDF)
+latviešu valoda (LV) (199.54 KB - PDF)
 
-**First published:**
-
-30/10/2018
-
-**Last updated:**
-
-11/07/2025
+**First published:** 30/10/2018 **Last updated:** 18/05/2026
 
 [View](/lv/documents/overview/imfinzi-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (195.24 KB - PDF)
+lietuvių kalba (LT) (193.99 KB - PDF)
 
-**First published:**
-
-30/10/2018
-
-**Last updated:**
-
-11/07/2025
+**First published:** 30/10/2018 **Last updated:** 18/05/2026
 
 [View](/lt/documents/overview/imfinzi-epar-medicine-overview_lt.pdf)
 
-magyar (HU) (199.47 KB - PDF)
+magyar (HU) (198.59 KB - PDF)
 
-**First published:**
-
-30/10/2018
-
-**Last updated:**
-
-11/07/2025
+**First published:** 30/10/2018 **Last updated:** 18/05/2026
 
 [View](/hu/documents/overview/imfinzi-epar-medicine-overview_hu.pdf)
 
-Malti (MT) (208.88 KB - PDF)
+Malti (MT) (199.48 KB - PDF)
 
-**First published:**
-
-30/10/2018
-
-**Last updated:**
-
-11/07/2025
+**First published:** 30/10/2018 **Last updated:** 18/05/2026
 
 [View](/mt/documents/overview/imfinzi-epar-medicine-overview_mt.pdf)
 
-Nederlands (NL) (166.37 KB - PDF)
+Nederlands (NL) (171.55 KB - PDF)
 
-**First published:**
-
-30/10/2018
-
-**Last updated:**
-
-11/07/2025
+**First published:** 30/10/2018 **Last updated:** 18/05/2026
 
 [View](/nl/documents/overview/imfinzi-epar-medicine-overview_nl.pdf)
 
-polski (PL) (197.76 KB - PDF)
+polski (PL) (214.22 KB - PDF)
 
-**First published:**
-
-30/10/2018
-
-**Last updated:**
-
-11/07/2025
+**First published:** 30/10/2018 **Last updated:** 18/05/2026
 
 [View](/pl/documents/overview/imfinzi-epar-medicine-overview_pl.pdf)
 
-português (PT) (168.59 KB - PDF)
+português (PT) (168.99 KB - PDF)
 
-**First published:**
-
-30/10/2018
-
-**Last updated:**
-
-11/07/2025
+**First published:** 30/10/2018 **Last updated:** 18/05/2026
 
 [View](/pt/documents/overview/imfinzi-epar-medicine-overview_pt.pdf)
 
-română (RO) (196.29 KB - PDF)
+română (RO) (191.64 KB - PDF)
 
-**First published:**
-
-30/10/2018
-
-**Last updated:**
-
-11/07/2025
+**First published:** 30/10/2018 **Last updated:** 18/05/2026
 
 [View](/ro/documents/overview/imfinzi-epar-medicine-overview_ro.pdf)
 
-slovenčina (SK) (197.76 KB - PDF)
+slovenčina (SK) (195.71 KB - PDF)
 
-**First published:**
-
-30/10/2018
-
-**Last updated:**
-
-11/07/2025
+**First published:** 30/10/2018 **Last updated:** 18/05/2026
 
 [View](/sk/documents/overview/imfinzi-epar-medicine-overview_sk.pdf)
 
-slovenščina (SL) (194.36 KB - PDF)
+slovenščina (SL) (193.67 KB - PDF)
 
-**First published:**
-
-30/10/2018
-
-**Last updated:**
-
-11/07/2025
+**First published:** 30/10/2018 **Last updated:** 18/05/2026
 
 [View](/sl/documents/overview/imfinzi-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (164.79 KB - PDF)
+Suomi (FI) (162.4 KB - PDF)
 
-**First published:**
-
-30/10/2018
-
-**Last updated:**
-
-11/07/2025
+**First published:** 30/10/2018 **Last updated:** 18/05/2026
 
 [View](/fi/documents/overview/imfinzi-epar-medicine-overview_fi.pdf)
 
-svenska (SV) (165.71 KB - PDF)
+svenska (SV) (162.75 KB - PDF)
 
-**First published:**
-
-30/10/2018
-
-**Last updated:**
-
-11/07/2025
+**First published:** 30/10/2018 **Last updated:** 18/05/2026
 
 [View](/sv/documents/overview/imfinzi-epar-medicine-overview_sv.pdf)
+
+Imfinzi : EPAR - Risk management plan
+
+English (EN) (807.99 KB - PDF)
+
+**First published:** 18/05/2026
+
+[View](/en/documents/rmp/imfinzi-epar-risk-management-plan_en.pdf)
 
 ## Product information
 
 Imfinzi : EPAR - Product information
 
-English (EN) (1.51 MB - PDF)
+English (EN) (5.56 MB - PDF)
 
-**First published:** 30/10/2018
-
-**Last updated:** 19/02/2026
+**First published:** 30/10/2018 **Last updated:** 18/05/2026
 
 [View](/en/documents/product-information/imfinzi-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-952)
+[Other languages (24)](#file-language-dropdown-441)
 
-български (BG) (1.65 MB - PDF)
+български (BG) (1.76 MB - PDF)
 
-**First published:**
-
-30/10/2018
-
-**Last updated:**
-
-19/02/2026
+**First published:** 30/10/2018 **Last updated:** 18/05/2026
 
 [View](/bg/documents/product-information/imfinzi-epar-product-information_bg.pdf)
 
-español (ES) (1.66 MB - PDF)
+español (ES) (1.76 MB - PDF)
 
-**First published:**
-
-30/10/2018
-
-**Last updated:**
-
-19/02/2026
+**First published:** 30/10/2018 **Last updated:** 18/05/2026
 
 [View](/es/documents/product-information/imfinzi-epar-product-information_es.pdf)
 
-čeština (CS) (7.88 MB - PDF)
+čeština (CS) (8.75 MB - PDF)
 
-**First published:**
-
-30/10/2018
-
-**Last updated:**
-
-19/02/2026
+**First published:** 30/10/2018 **Last updated:** 18/05/2026
 
 [View](/cs/documents/product-information/imfinzi-epar-product-information_cs.pdf)
 
-dansk (DA) (7.22 MB - PDF)
+dansk (DA) (8.08 MB - PDF)
 
-**First published:**
-
-30/10/2018
-
-**Last updated:**
-
-19/02/2026
+**First published:** 30/10/2018 **Last updated:** 18/05/2026
 
 [View](/da/documents/product-information/imfinzi-epar-product-information_da.pdf)
 
-Deutsch (DE) (7.49 MB - PDF)
+Deutsch (DE) (8.45 MB - PDF)
 
-**First published:**
-
-30/10/2018
-
-**Last updated:**
-
-19/02/2026
+**First published:** 30/10/2018 **Last updated:** 18/05/2026
 
 [View](/de/documents/product-information/imfinzi-epar-product-information_de.pdf)
 
-eesti keel (ET) (1.55 MB - PDF)
+eesti keel (ET) (1.65 MB - PDF)
 
-**First published:**
-
-30/10/2018
-
-**Last updated:**
-
-19/02/2026
+**First published:** 30/10/2018 **Last updated:** 18/05/2026
 
 [View](/et/documents/product-information/imfinzi-epar-product-information_et.pdf)
 
-ελληνικά (EL) (7.11 MB - PDF)
+ελληνικά (EL) (8.02 MB - PDF)
 
-**First published:**
-
-30/10/2018
-
-**Last updated:**
-
-19/02/2026
+**First published:** 30/10/2018 **Last updated:** 18/05/2026
 
 [View](/el/documents/product-information/imfinzi-epar-product-information_el.pdf)
 
-français (FR) (1.9 MB - PDF)
+français (FR) (2.02 MB - PDF)
 
-**First published:**
-
-30/10/2018
-
-**Last updated:**
-
-19/02/2026
+**First published:** 30/10/2018 **Last updated:** 18/05/2026
 
 [View](/fr/documents/product-information/imfinzi-epar-product-information_fr.pdf)
 
-hrvatski (HR) (1.61 MB - PDF)
+hrvatski (HR) (1.72 MB - PDF)
 
-**First published:**
-
-30/10/2018
-
-**Last updated:**
-
-19/02/2026
+**First published:** 30/10/2018 **Last updated:** 18/05/2026
 
 [View](/hr/documents/product-information/imfinzi-epar-product-information_hr.pdf)
 
-íslenska (IS) (1.58 MB - PDF)
+íslenska (IS) (1.66 MB - PDF)
 
-**First published:**
-
-30/10/2018
-
-**Last updated:**
-
-19/02/2026
+**First published:** 30/10/2018 **Last updated:** 18/05/2026
 
 [View](/is/documents/product-information/imfinzi-epar-product-information_is.pdf)
 
-italiano (IT) (1.61 MB - PDF)
+italiano (IT) (1.71 MB - PDF)
 
-**First published:**
-
-30/10/2018
-
-**Last updated:**
-
-19/02/2026
+**First published:** 30/10/2018 **Last updated:** 18/05/2026
 
 [View](/it/documents/product-information/imfinzi-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (1.6 MB - PDF)
+latviešu valoda (LV) (1.71 MB - PDF)
 
-**First published:**
-
-30/10/2018
-
-**Last updated:**
-
-19/02/2026
+**First published:** 30/10/2018 **Last updated:** 18/05/2026
 
 [View](/lv/documents/product-information/imfinzi-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (1.71 MB - PDF)
+lietuvių kalba (LT) (1.79 MB - PDF)
 
-**First published:**
-
-30/10/2018
-
-**Last updated:**
-
-19/02/2026
+**First published:** 30/10/2018 **Last updated:** 18/05/2026
 
 [View](/lt/documents/product-information/imfinzi-epar-product-information_lt.pdf)
 
-magyar (HU) (1.68 MB - PDF)
+magyar (HU) (1.79 MB - PDF)
 
-**First published:**
-
-30/10/2018
-
-**Last updated:**
-
-19/02/2026
+**First published:** 30/10/2018 **Last updated:** 18/05/2026
 
 [View](/hu/documents/product-information/imfinzi-epar-product-information_hu.pdf)
 
-Malti (MT) (1.71 MB - PDF)
+Malti (MT) (1.81 MB - PDF)
 
-**First published:**
-
-30/10/2018
-
-**Last updated:**
-
-19/02/2026
+**First published:** 30/10/2018 **Last updated:** 18/05/2026
 
 [View](/mt/documents/product-information/imfinzi-epar-product-information_mt.pdf)
 
-Nederlands (NL) (1.81 MB - PDF)
+Nederlands (NL) (1.93 MB - PDF)
 
-**First published:**
-
-30/10/2018
-
-**Last updated:**
-
-19/02/2026
+**First published:** 30/10/2018 **Last updated:** 18/05/2026
 
 [View](/nl/documents/product-information/imfinzi-epar-product-information_nl.pdf)
 
-norsk (NO) (1.57 MB - PDF)
+norsk (NO) (1.68 MB - PDF)
 
-**First published:**
-
-30/10/2018
-
-**Last updated:**
-
-19/02/2026
+**First published:** 30/10/2018 **Last updated:** 18/05/2026
 
 [View](/no/documents/product-information/imfinzi-epar-product-information_no.pdf)
 
-polski (PL) (6.73 MB - PDF)
+polski (PL) (7.64 MB - PDF)
 
-**First published:**
-
-30/10/2018
-
-**Last updated:**
-
-19/02/2026
+**First published:** 30/10/2018 **Last updated:** 18/05/2026
 
 [View](/pl/documents/product-information/imfinzi-epar-product-information_pl.pdf)
 
-português (PT) (1.55 MB - PDF)
+português (PT) (1.66 MB - PDF)
 
-**First published:**
-
-30/10/2018
-
-**Last updated:**
-
-19/02/2026
+**First published:** 30/10/2018 **Last updated:** 18/05/2026
 
 [View](/pt/documents/product-information/imfinzi-epar-product-information_pt.pdf)
 
-română (RO) (1.61 MB - PDF)
+română (RO) (1.69 MB - PDF)
 
-**First published:**
-
-30/10/2018
-
-**Last updated:**
-
-19/02/2026
+**First published:** 30/10/2018 **Last updated:** 18/05/2026
 
 [View](/ro/documents/product-information/imfinzi-epar-product-information_ro.pdf)
 
-slovenčina (SK) (1.65 MB - PDF)
+slovenčina (SK) (1.76 MB - PDF)
 
-**First published:**
-
-30/10/2018
-
-**Last updated:**
-
-19/02/2026
+**First published:** 30/10/2018 **Last updated:** 18/05/2026
 
 [View](/sk/documents/product-information/imfinzi-epar-product-information_sk.pdf)
 
-slovenščina (SL) (1.65 MB - PDF)
+slovenščina (SL) (1.76 MB - PDF)
 
-**First published:**
-
-30/10/2018
-
-**Last updated:**
-
-19/02/2026
+**First published:** 30/10/2018 **Last updated:** 18/05/2026
 
 [View](/sl/documents/product-information/imfinzi-epar-product-information_sl.pdf)
 
-Suomi (FI) (1.55 MB - PDF)
+Suomi (FI) (1.66 MB - PDF)
 
-**First published:**
-
-30/10/2018
-
-**Last updated:**
-
-19/02/2026
+**First published:** 30/10/2018 **Last updated:** 18/05/2026
 
 [View](/fi/documents/product-information/imfinzi-epar-product-information_fi.pdf)
 
-svenska (SV) (1.57 MB - PDF)
+svenska (SV) (1.66 MB - PDF)
 
-**First published:**
-
-30/10/2018
-
-**Last updated:**
-
-19/02/2026
+**First published:** 30/10/2018 **Last updated:** 18/05/2026
 
 [View](/sv/documents/product-information/imfinzi-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000296305 12/02/2026
+**Latest procedure affecting product information:** VR/0000282058
+
+12/03/2026
 
 icon globe
 
@@ -783,203 +608,173 @@ English (EN) (27.17 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/imfinzi-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-676)
+[Other languages (24)](#file-language-dropdown-507)
 
 български (BG) (30.76 KB - PDF)
 
-**First published:**
-
-30/10/2018
+**First published:** 30/10/2018
 
 [View](/bg/documents/all-authorised-presentations/imfinzi-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (27.67 KB - PDF)
 
-**First published:**
-
-30/10/2018
+**First published:** 30/10/2018
 
 [View](/es/documents/all-authorised-presentations/imfinzi-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (24.23 KB - PDF)
 
-**First published:**
-
-30/10/2018
+**First published:** 30/10/2018
 
 [View](/cs/documents/all-authorised-presentations/imfinzi-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (24.62 KB - PDF)
 
-**First published:**
-
-30/10/2018
+**First published:** 30/10/2018
 
 [View](/da/documents/all-authorised-presentations/imfinzi-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (29.24 KB - PDF)
 
-**First published:**
-
-30/10/2018
+**First published:** 30/10/2018
 
 [View](/de/documents/all-authorised-presentations/imfinzi-epar-all-authorised-presentations_de.pdf)
 
 eesti keel (ET) (26.83 KB - PDF)
 
-**First published:**
-
-30/10/2018
+**First published:** 30/10/2018
 
 [View](/et/documents/all-authorised-presentations/imfinzi-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (29.82 KB - PDF)
 
-**First published:**
-
-30/10/2018
+**First published:** 30/10/2018
 
 [View](/el/documents/all-authorised-presentations/imfinzi-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (23.1 KB - PDF)
 
-**First published:**
-
-30/10/2018
+**First published:** 30/10/2018
 
 [View](/fr/documents/all-authorised-presentations/imfinzi-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (53.8 KB - PDF)
 
-**First published:**
-
-30/10/2018
+**First published:** 30/10/2018
 
 [View](/hr/documents/all-authorised-presentations/imfinzi-epar-all-authorised-presentations_hr.pdf)
 
 íslenska (IS) (28.5 KB - PDF)
 
-**First published:**
-
-30/10/2018
+**First published:** 30/10/2018
 
 [View](/is/documents/all-authorised-presentations/imfinzi-epar-all-authorised-presentations_is.pdf)
 
 italiano (IT) (27.12 KB - PDF)
 
-**First published:**
-
-30/10/2018
+**First published:** 30/10/2018
 
 [View](/it/documents/all-authorised-presentations/imfinzi-epar-all-authorised-presentations_it.pdf)
 
 latviešu valoda (LV) (28.75 KB - PDF)
 
-**First published:**
-
-30/10/2018
+**First published:** 30/10/2018
 
 [View](/lv/documents/all-authorised-presentations/imfinzi-epar-all-authorised-presentations_lv.pdf)
 
 lietuvių kalba (LT) (28.47 KB - PDF)
 
-**First published:**
-
-30/10/2018
+**First published:** 30/10/2018
 
 [View](/lt/documents/all-authorised-presentations/imfinzi-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (23.16 KB - PDF)
 
-**First published:**
-
-30/10/2018
+**First published:** 30/10/2018
 
 [View](/hu/documents/all-authorised-presentations/imfinzi-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (29 KB - PDF)
 
-**First published:**
-
-30/10/2018
+**First published:** 30/10/2018
 
 [View](/mt/documents/all-authorised-presentations/imfinzi-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (27.22 KB - PDF)
 
-**First published:**
-
-30/10/2018
+**First published:** 30/10/2018
 
 [View](/nl/documents/all-authorised-presentations/imfinzi-epar-all-authorised-presentations_nl.pdf)
 
 norsk (NO) (28.63 KB - PDF)
 
-**First published:**
-
-30/10/2018
+**First published:** 30/10/2018
 
 [View](/no/documents/all-authorised-presentations/imfinzi-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (29.86 KB - PDF)
 
-**First published:**
-
-30/10/2018
+**First published:** 30/10/2018
 
 [View](/pl/documents/all-authorised-presentations/imfinzi-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (23.73 KB - PDF)
 
-**First published:**
-
-30/10/2018
+**First published:** 30/10/2018
 
 [View](/pt/documents/all-authorised-presentations/imfinzi-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (28.05 KB - PDF)
 
-**First published:**
-
-30/10/2018
+**First published:** 30/10/2018
 
 [View](/ro/documents/all-authorised-presentations/imfinzi-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (23.61 KB - PDF)
 
-**First published:**
-
-30/10/2018
+**First published:** 30/10/2018
 
 [View](/sk/documents/all-authorised-presentations/imfinzi-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (27.38 KB - PDF)
 
-**First published:**
-
-30/10/2018
+**First published:** 30/10/2018
 
 [View](/sl/documents/all-authorised-presentations/imfinzi-epar-all-authorised-presentations_sl.pdf)
 
 Suomi (FI) (22.48 KB - PDF)
 
-**First published:**
-
-30/10/2018
+**First published:** 30/10/2018
 
 [View](/fi/documents/all-authorised-presentations/imfinzi-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (27.99 KB - PDF)
 
-**First published:**
-
-30/10/2018
+**First published:** 30/10/2018
 
 [View](/sv/documents/all-authorised-presentations/imfinzi-epar-all-authorised-presentations_sv.pdf)
 
 ## Product details
 
-Name of medicine Imfinzi Active substance durvalumab International non-proprietary name (INN) or common name durvalumab Therapeutic area (MeSH) Carcinoma, Non-Small-Cell Lung Anatomical therapeutic chemical (ATC) code L01XC28
+Name of medicine
+
+Imfinzi
+
+Active substance
+
+durvalumab
+
+International non-proprietary name (INN) or common name
+
+durvalumab
+
+Therapeutic area (MeSH)
+
+Carcinoma, Non-Small-Cell Lung
+
+Anatomical therapeutic chemical (ATC) code
+
+L01XC28
 
 ### Pharmacotherapeutic group
 
@@ -987,31 +782,47 @@ Antineoplastic agents
 
 ### Therapeutic indication
 
-**Non-Small Cell Lung Cancer (NSCLC)** IMFINZI in combination with platinum-based chemotherapy as neoadjuvant treatment, followed by IMFINZI as monotherapy as adjuvant treatment, is indicated for the treatment of adults with resectable NSCLC at high risk of recurrence and no EGFR mutations or ALK rearrangements (for selection criteria, see section 5.1).
+**Non-Small Cell Lung Cancer (NSCLC)** Imfinzi in combination with platinum-based chemotherapy as neoadjuvant treatment, followed by Imfinzi as monotherapy as adjuvant treatment, is indicated for the treatment of adults with resectable NSCLC at high risk of recurrence and no EGFR mutations or ALK rearrangements (for selection criteria, see section 5.1).
 
-IMFINZI as monotherapy is indicated for the treatment of locally advanced, unresectable non small cell lung cancer (NSCLC) in adults whose tumours express PD-L1 on ≥ 1% of tumour cells and whose disease has not progressed following platinum based chemoradiation therapy (see section 5.1). IMFINZI in combination with tremelimumab and platinum-based chemotherapy is indicated for the first-line treatment of adults with metastatic NSCLC with no sensitising EGFR mutations or ALK positive mutations.
+Imfinzi as monotherapy is indicated for the treatment of locally advanced, unresectable non small cell lung cancer (NSCLC) in adults whose tumours express PD-L1 on ≥ 1% of tumour cells and whose disease has not progressed following platinum based chemoradiation therapy (see section 5.1). Imfinzi in combination with tremelimumab and platinum-based chemotherapy is indicated for the first-line treatment of adults with metastatic NSCLC with no sensitising EGFR mutations or ALK positive mutations.
 
-**Small Cell Lung Cancer (SCLC)** IMFINZI in combination with etoposide and either carboplatin or cisplatin is indicated for the first-line treatment of adults with extensive-stage small cell lung cancer (ES-SCLC).
+**Small Cell Lung Cancer (SCLC)** Imfinzi in combination with etoposide and either carboplatin or cisplatin is indicated for the first-line treatment of adults with extensive-stage small cell lung cancer (ES-SCLC).
 
-**Biliary Tract Cancer (BTC)** IMFINZI in combination with gemcitabine and cisplatin is indicated for the first line treatment of adults with unresectable or metastatic biliary tract cancer (BTC).
+**Biliary Tract Cancer (BTC)** Imfinzi in combination with gemcitabine and cisplatin is indicated for the first line treatment of adults with unresectable or metastatic biliary tract cancer (BTC).
 
-**Hepatocellular Carcinoma (HCC)** IMFINZI as monotherapy is indicated for the first line treatment of adults with advanced or unresectable hepatocellular carcinoma (HCC).
+**Hepatocellular Carcinoma (HCC)** Imfinzi as monotherapy is indicated for the first line treatment of adults with advanced or unresectable hepatocellular carcinoma (HCC).
 
-IMFINZI in combination with tremelimumab is indicated for the first line treatment of adults with advanced or unresectable hepatocellular carcinoma (HCC).
+Imfinzi in combination with tremelimumab is indicated for the first line treatment of adults with advanced or unresectable hepatocellular carcinoma (HCC).
 
-**Endometrial Cancer** IMFINZI in combination with carboplatin and paclitaxel is indicated for the first-line treatment of adults with primary advanced or recurrent endometrial cancer who are candidates for systemic therapy, followed by maintenance treatment with: - IMFINZI as monotherapy in endometrial cancer that is mismatch repair deficient (dMMR) - IMFINZI in combination with olaparib in endometrial cancer that is mismatch repair proficient (pMMR).
+**Endometrial Cancer** Imfinzi in combination with carboplatin and paclitaxel is indicated for the first-line treatment of adults with primary advanced or recurrent endometrial cancer who are candidates for systemic therapy, followed by maintenance treatment with: - Imfinzi as monotherapy in endometrial cancer that is mismatch repair deficient (dMMR) - Imfinzi in combination with olaparib in endometrial cancer that is mismatch repair proficient (pMMR).
 
-**Muscle Invasive Bladder Cancer (MIBC)** IMFINZI in combination with gemcitabine and cisplatin as neoadjuvant treatment, followed by IMFINZI as monotherapy adjuvant treatment after radical cystectomy, is indicated for the treatment of adults with resectable muscle invasive bladder cancer (MIBC).
+**Muscle Invasive Bladder Cancer (MIBC)** Imfinzi in combination with gemcitabine and cisplatin as neoadjuvant treatment, followed by Imfinzi as monotherapy adjuvant treatment after radical cystectomy, is indicated for the treatment of adults with resectable muscle invasive bladder cancer (MIBC).
+
+**Gastric or Gastro-oesophageal Junction Adenocarcinoma (GC/GEJC)** Imfinzi in combination with FLOT chemotherapy as neoadjuvant and adjuvant treatment, followed by adjuvant Imfinzi monotherapy, is indicated for the treatment of adults with resectable gastric or gastro-oesophageal junction adenocarcinoma.
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/004771 Marketing authorisation holder
+EMA product number
+
+EMEA/H/C/004771
+
+Marketing authorisation holder
 
 AstraZeneca AB
 
 151 85 Sodertalje
 
-Opinion adopted 26/07/2018 Marketing authorisation issued 21/09/2018 Revision 27
+Opinion adopted
+
+26/07/2018
+
+Marketing authorisation issued
+
+21/09/2018
+
+Revision
+
+28
 
 ## Assessment history
 
@@ -1023,9 +834,9 @@ Collapse section
 
 Imfinzi : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (148.47 KB - PDF)
+English (EN) (132.36 KB - PDF)
 
-**First published:** 19/02/2026
+**First published:** 19/02/2026 **Last updated:** 18/05/2026
 
 [View](/en/documents/procedural-steps-after/imfinzi-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1033,17 +844,23 @@ Imfinzi : EPAR - Procedural steps taken and scientific information after authori
 
 English (EN) (296.76 KB - PDF)
 
-**First published:** 22/08/2019
-
-**Last updated:** 11/07/2025
+**First published:** 22/08/2019 **Last updated:** 11/07/2025
 
 [View](/en/documents/procedural-steps-after/imfinzi-epar-procedural-steps-taken-scientific-information-after-authorisation-archived_en.pdf)
 
+Imfinzi-VR-0000282058 : EPAR - Assessment report - Variation
+
+Reference Number: EMADOC-1700519818-2830778
+
+English (EN) (15.02 MB - PDF)
+
+**First published:** 18/05/2026
+
+[View](/en/documents/variation-report/imfinzi-vr-0000282058-epar-assessment-report-variation_en.pdf)
+
 Imfinzi-H-C-WS2543 : EPAR - Assessment report - Variation
 
-Adopted
-
-Reference Number: EMA/20881/2026
+Adopted Reference Number: EMA/20881/2026
 
 English (EN) (5.62 MB - PDF)
 
@@ -1051,11 +868,19 @@ English (EN) (5.62 MB - PDF)
 
 [View](/en/documents/variation-report/imfinzi-h-c-ws2543-epar-assessment-report-variation_en.pdf)
 
+CHMP post-authorisation summary of positive opinion for Imfinzi (EMA/VR/0000282058)
+
+Adopted Reference Number: EMADOC-1700519818-2861543
+
+English (EN) (146.75 KB - PDF)
+
+**First published:** 30/01/2026
+
+[View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-imfinzi-ema-vr-0000282058_en.pdf)
+
 Imfinzi-H-C-004771-II-0073 : EPAR - Assessment report - Variation
 
-Adopted
-
-Reference Number: EMA/196723/2025
+Adopted Reference Number: EMA/196723/2025
 
 English (EN) (8.52 MB - PDF)
 
@@ -1065,9 +890,7 @@ English (EN) (8.52 MB - PDF)
 
 Imfinzi-H-C-004771-II-0064 : EPAR - Assessment report - Variation
 
-Adopted
-
-Reference Number: EMA/100461/2025
+Adopted Reference Number: EMA/100461/2025
 
 English (EN) (4.49 MB - PDF)
 
@@ -1077,9 +900,7 @@ English (EN) (4.49 MB - PDF)
 
 CHMP post-authorisation summary of positive opinion for Imfinzi (II-73)
 
-Adopted
-
-Reference Number: EMA/162386/2025
+Adopted Reference Number: EMA/162386/2025
 
 English (EN) (169.16 KB - PDF)
 
@@ -1089,9 +910,7 @@ English (EN) (169.16 KB - PDF)
 
 Imfinzi-H-C-004771-II-0069 : EPAR - Assessment report - Variation
 
-Adopted
-
-Reference Number: EMA/57978/2025
+Adopted Reference Number: EMA/57978/2025
 
 English (EN) (3.83 MB - PDF)
 
@@ -1101,9 +920,7 @@ English (EN) (3.83 MB - PDF)
 
 CHMP post-authorisation summary of positive opinion for Imfinzi (II-64)
 
-Adopted
-
-Reference Number: EMA/CHMP/63977/2025
+Adopted Reference Number: EMA/CHMP/63977/2025
 
 English (EN) (117.69 KB - PDF)
 
@@ -1121,9 +938,7 @@ English (EN) (95.98 KB - PDF)
 
 CHMP post-authorisation summary of positive opinion for Imfinzi (II-69)
 
-Adopted
-
-Reference Number: EMA/CHMP/27692/2025
+Adopted Reference Number: EMA/CHMP/27692/2025
 
 English (EN) (98.92 KB - PDF)
 
@@ -1137,17 +952,13 @@ Reference Number: EMA/346655/2024
 
 English (EN) (13.46 MB - PDF)
 
-**First published:** 19/08/2024
-
-**Last updated:** 19/03/2026
+**First published:** 19/08/2024 **Last updated:** 19/03/2026
 
 [View](/en/documents/variation-report/imfinzi-h-c-1049-ws-2463-epar-assessment-report-variation_en.pdf)
 
 CHMP post-authorisation summary of positive opinion for Imfinzi
 
-Adopted
-
-Reference Number: EMA/CHMP/291945/2024
+Adopted Reference Number: EMA/CHMP/291945/2024
 
 English (EN) (147.61 KB - PDF)
 
@@ -1157,9 +968,7 @@ English (EN) (147.61 KB - PDF)
 
 Imfinzi-H-C-004771-II-0057 : EPAR - Assessment report - Variation
 
-Adopted
-
-Reference Number: EMA/146357/2024
+Adopted Reference Number: EMA/146357/2024
 
 English (EN) (7.06 MB - PDF)
 
@@ -1177,9 +986,7 @@ English (EN) (88.4 KB - PDF)
 
 CHMP post-authorisation summary of positive opinion for Imfinzi (II-57)
 
-Adopted
-
-Reference Number: EMA/272025/2023
+Adopted Reference Number: EMA/272025/2023
 
 English (EN) (159.32 KB - PDF)
 
@@ -1189,9 +996,7 @@ English (EN) (159.32 KB - PDF)
 
 Imfinzi-H-C-4771-II-0045 : EPAR - Assessment report - Variation
 
-Adopted
-
-Reference Number: EMA/42902/2023
+Adopted Reference Number: EMA/42902/2023
 
 English (EN) (9.51 MB - PDF)
 
@@ -1201,9 +1006,7 @@ English (EN) (9.51 MB - PDF)
 
 Imfinzi-H-C-4771-II-0041 : EPAR - Assessment report - Variation
 
-Adopted
-
-Reference Number: EMA/42901/2023
+Adopted Reference Number: EMA/42901/2023
 
 English (EN) (5.35 MB - PDF)
 
@@ -1213,9 +1016,7 @@ English (EN) (5.35 MB - PDF)
 
 CHMP post-authorisation summary of positive opinion for Imfinzi (II-45)
 
-Adopted
-
-Reference Number: EMA/CHMP/925960/2022
+Adopted Reference Number: EMA/CHMP/925960/2022
 
 English (EN) (101.57 KB - PDF)
 
@@ -1225,9 +1026,7 @@ English (EN) (101.57 KB - PDF)
 
 CHMP post-authorisation summary of positive opinion for Imfinzi (II-41)
 
-Adopted
-
-Reference Number: EMA/CHMP/925959/2022
+Adopted Reference Number: EMA/CHMP/925959/2022
 
 English (EN) (101.55 KB - PDF)
 
@@ -1257,9 +1056,7 @@ English (EN) (118.87 KB - PDF)
 
 Imfinzi-H-C-4771-II-0014-G : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/CHMP/210563/2020
+Adopted Reference Number: EMA/CHMP/210563/2020
 
 English (EN) (6.81 MB - PDF)
 
@@ -1269,9 +1066,7 @@ English (EN) (6.81 MB - PDF)
 
 Imfinzi-H-C-PSUSA-00010723-201910 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
 
-Adopted
-
-Reference Number: EMA/345734/2020
+Adopted Reference Number: EMA/345734/2020
 
 English (EN) (101.15 KB - PDF)
 
@@ -1281,9 +1076,7 @@ English (EN) (101.15 KB - PDF)
 
 CHMP post-authorisation summary of positive opinion for Imfinzi (II-14-G)
 
-Adopted
-
-Reference Number: EMA/CHMP/393807/2020
+Adopted Reference Number: EMA/CHMP/393807/2020
 
 English (EN) (109.83 KB - PDF)
 
@@ -1295,53 +1088,65 @@ English (EN) (109.83 KB - PDF)
 
 Imfinzi : EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/CHMP/548232/2018
+Adopted Reference Number: EMA/CHMP/548232/2018
 
 English (EN) (8.15 MB - PDF)
 
-**First published:** 30/10/2018
-
-**Last updated:** 11/02/2020
+**First published:** 30/10/2018 **Last updated:** 11/02/2020
 
 [View](/en/documents/assessment-report/imfinzi-epar-public-assessment-report_en.pdf)
 
 CHMP summary of positive opinion for Imfinzi
 
-Adopted
-
-Reference Number: EMA/CHMP/458931/2018
+Adopted Reference Number: EMA/CHMP/458931/2018
 
 English (EN) (73.86 KB - PDF)
 
-**First published:** 27/07/2018
-
-**Last updated:** 27/07/2018
+**First published:** 27/07/2018 **Last updated:** 27/07/2018
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-imfinzi_en.pdf)
 
 ## News on Imfinzi
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 26-29 January 2026](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-26-29-january-2026) 30/01/2026
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 26-29 January 2026](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-26-29-january-2026)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 19-22 May 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-19-22-may-2025) 23/05/2025
+30/01/2026
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 24-27 February 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-24-27-february-2025) 28/02/2025
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 19-22 May 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-19-22-may-2025)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 27-30 January 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-27-30-january-2025) 31/01/2025
+23/05/2025
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 24-27 June 2024](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-24-27-june-2024) 28/06/2024
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 24-27 February 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-24-27-february-2025)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 9-12 October 2023](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-9-12-october-2023) 13/10/2023
+28/02/2025
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 12-15 December 2022](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-12-15-december-2022) 16/12/2022
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 27-30 January 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-27-30-january-2025)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 7-10 November 2022](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-7-10-november-2022) 11/11/2022
+31/01/2025
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 20-23 July 2020](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-20-23-july-2020) 24/07/2020
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 24-27 June 2024](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-24-27-june-2024)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 23-26 July 2018](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-23-26-july-2018) 27/07/2018
+28/06/2024
+
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 9-12 October 2023](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-9-12-october-2023)
+
+13/10/2023
+
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 12-15 December 2022](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-12-15-december-2022)
+
+16/12/2022
+
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 7-10 November 2022](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-7-10-november-2022)
+
+11/11/2022
+
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 20-23 July 2020](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-20-23-july-2020)
+
+24/07/2020
+
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 23-26 July 2018](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-23-26-july-2018)
+
+27/07/2018
 
 ## Product information - with tracked changes
 
@@ -1351,294 +1156,153 @@ Imfinzi : EPAR - Product information - tracked changes
 
 English (EN) (4.69 MB - DOCX)
 
-**First published:** 16/05/2025
-
-**Last updated:** 19/02/2026
+**First published:** 16/05/2025 **Last updated:** 19/02/2026
 
 [View](/en/documents/product-information-tracked-changes/imfinzi-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (23)](#file-language-dropdown-806)
+[Other languages (23)](#file-language-dropdown-992)
 
 български (BG) (4.65 MB - DOCX)
 
-**First published:**
-
-16/05/2025
-
-**Last updated:**
-
-19/02/2026
+**First published:** 16/05/2025 **Last updated:** 19/02/2026
 
 [View](/bg/documents/product-information-tracked-changes/imfinzi-epar-product-information-tracked-changes_bg.docx)
 
 español (ES) (4.47 MB - DOCX)
 
-**First published:**
-
-16/05/2025
-
-**Last updated:**
-
-19/02/2026
+**First published:** 16/05/2025 **Last updated:** 19/02/2026
 
 [View](/es/documents/product-information-tracked-changes/imfinzi-epar-product-information-tracked-changes_es.docx)
 
 dansk (DA) (4.81 MB - DOCX)
 
-**First published:**
-
-16/05/2025
-
-**Last updated:**
-
-19/02/2026
+**First published:** 16/05/2025 **Last updated:** 19/02/2026
 
 [View](/da/documents/product-information-tracked-changes/imfinzi-epar-product-information-tracked-changes_da.docx)
 
 Deutsch (DE) (4.7 MB - DOCX)
 
-**First published:**
-
-16/05/2025
-
-**Last updated:**
-
-19/02/2026
+**First published:** 16/05/2025 **Last updated:** 19/02/2026
 
 [View](/de/documents/product-information-tracked-changes/imfinzi-epar-product-information-tracked-changes_de.docx)
 
 eesti keel (ET) (4.36 MB - DOCX)
 
-**First published:**
-
-16/05/2025
-
-**Last updated:**
-
-19/02/2026
+**First published:** 16/05/2025 **Last updated:** 19/02/2026
 
 [View](/et/documents/product-information-tracked-changes/imfinzi-epar-product-information-tracked-changes_et.docx)
 
 ελληνικά (EL) (4.53 MB - DOCX)
 
-**First published:**
-
-16/05/2025
-
-**Last updated:**
-
-19/02/2026
+**First published:** 16/05/2025 **Last updated:** 19/02/2026
 
 [View](/el/documents/product-information-tracked-changes/imfinzi-epar-product-information-tracked-changes_el.docx)
 
 français (FR) (2.69 MB - DOCX)
 
-**First published:**
-
-16/05/2025
-
-**Last updated:**
-
-19/02/2026
+**First published:** 16/05/2025 **Last updated:** 19/02/2026
 
 [View](/fr/documents/product-information-tracked-changes/imfinzi-epar-product-information-tracked-changes_fr.docx)
 
 hrvatski (HR) (4.64 MB - DOCX)
 
-**First published:**
-
-16/05/2025
-
-**Last updated:**
-
-19/02/2026
+**First published:** 16/05/2025 **Last updated:** 19/02/2026
 
 [View](/hr/documents/product-information-tracked-changes/imfinzi-epar-product-information-tracked-changes_hr.docx)
 
 íslenska (IS) (4.67 MB - DOCX)
 
-**First published:**
-
-16/05/2025
-
-**Last updated:**
-
-19/02/2026
+**First published:** 16/05/2025 **Last updated:** 19/02/2026
 
 [View](/is/documents/product-information-tracked-changes/imfinzi-epar-product-information-tracked-changes_is.docx)
 
 italiano (IT) (4.72 MB - DOCX)
 
-**First published:**
-
-16/05/2025
-
-**Last updated:**
-
-19/02/2026
+**First published:** 16/05/2025 **Last updated:** 19/02/2026
 
 [View](/it/documents/product-information-tracked-changes/imfinzi-epar-product-information-tracked-changes_it.docx)
 
 latviešu valoda (LV) (2.3 MB - DOCX)
 
-**First published:**
-
-16/05/2025
-
-**Last updated:**
-
-19/02/2026
+**First published:** 16/05/2025 **Last updated:** 19/02/2026
 
 [View](/lv/documents/product-information-tracked-changes/imfinzi-epar-product-information-tracked-changes_lv.docx)
 
 lietuvių kalba (LT) (4.46 MB - DOCX)
 
-**First published:**
-
-16/05/2025
-
-**Last updated:**
-
-19/02/2026
+**First published:** 16/05/2025 **Last updated:** 19/02/2026
 
 [View](/lt/documents/product-information-tracked-changes/imfinzi-epar-product-information-tracked-changes_lt.docx)
 
 magyar (HU) (4.7 MB - DOCX)
 
-**First published:**
-
-16/05/2025
-
-**Last updated:**
-
-19/02/2026
+**First published:** 16/05/2025 **Last updated:** 19/02/2026
 
 [View](/hu/documents/product-information-tracked-changes/imfinzi-epar-product-information-tracked-changes_hu.docx)
 
 Malti (MT) (4.65 MB - DOCX)
 
-**First published:**
-
-16/05/2025
-
-**Last updated:**
-
-19/02/2026
+**First published:** 16/05/2025 **Last updated:** 19/02/2026
 
 [View](/mt/documents/product-information-tracked-changes/imfinzi-epar-product-information-tracked-changes_mt.docx)
 
 Nederlands (NL) (4.5 MB - DOCX)
 
-**First published:**
-
-16/05/2025
-
-**Last updated:**
-
-19/02/2026
+**First published:** 16/05/2025 **Last updated:** 19/02/2026
 
 [View](/nl/documents/product-information-tracked-changes/imfinzi-epar-product-information-tracked-changes_nl.docx)
 
 norsk (NO) (4.7 MB - DOCX)
 
-**First published:**
-
-16/05/2025
-
-**Last updated:**
-
-19/02/2026
+**First published:** 16/05/2025 **Last updated:** 19/02/2026
 
 [View](/no/documents/product-information-tracked-changes/imfinzi-epar-product-information-tracked-changes_no.docx)
 
 polski (PL) (4.66 MB - DOCX)
 
-**First published:**
-
-16/05/2025
-
-**Last updated:**
-
-19/02/2026
+**First published:** 16/05/2025 **Last updated:** 19/02/2026
 
 [View](/pl/documents/product-information-tracked-changes/imfinzi-epar-product-information-tracked-changes_pl.docx)
 
 português (PT) (4.62 MB - DOCX)
 
-**First published:**
-
-16/05/2025
-
-**Last updated:**
-
-19/02/2026
+**First published:** 16/05/2025 **Last updated:** 19/02/2026
 
 [View](/pt/documents/product-information-tracked-changes/imfinzi-epar-product-information-tracked-changes_pt.docx)
 
 română (RO) (4.68 MB - DOCX)
 
-**First published:**
-
-16/05/2025
-
-**Last updated:**
-
-19/02/2026
+**First published:** 16/05/2025 **Last updated:** 19/02/2026
 
 [View](/ro/documents/product-information-tracked-changes/imfinzi-epar-product-information-tracked-changes_ro.docx)
 
 slovenčina (SK) (4.7 MB - DOCX)
 
-**First published:**
-
-16/05/2025
-
-**Last updated:**
-
-19/02/2026
+**First published:** 16/05/2025 **Last updated:** 19/02/2026
 
 [View](/sk/documents/product-information-tracked-changes/imfinzi-epar-product-information-tracked-changes_sk.docx)
 
 slovenščina (SL) (1.84 MB - DOCX)
 
-**First published:**
-
-16/05/2025
-
-**Last updated:**
-
-19/02/2026
+**First published:** 16/05/2025 **Last updated:** 19/02/2026
 
 [View](/sl/documents/product-information-tracked-changes/imfinzi-epar-product-information-tracked-changes_sl.docx)
 
 Suomi (FI) (4.6 MB - DOCX)
 
-**First published:**
-
-16/05/2025
-
-**Last updated:**
-
-19/02/2026
+**First published:** 16/05/2025 **Last updated:** 19/02/2026
 
 [View](/fi/documents/product-information-tracked-changes/imfinzi-epar-product-information-tracked-changes_fi.docx)
 
 svenska (SV) (4.64 MB - DOCX)
 
-**First published:**
-
-16/05/2025
-
-**Last updated:**
-
-19/02/2026
+**First published:** 16/05/2025 **Last updated:** 19/02/2026
 
 [View](/sv/documents/product-information-tracked-changes/imfinzi-epar-product-information-tracked-changes_sv.docx)
 
 ## More information on Imfinzi
 
 - [EMEA-002028-PIP01-16-M04 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-002028-pip01-16-m04)
-- [Imfinzi - opinion on variation to marketing authorisation](/en/medicines/human/variation/imfinzi)
 - [DARWIN EU® Overall survival in patients with locally advanced or metastatic non-small cell lung cancer treated with selected immunotherapies as first line of treatment - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000112)
 - [Spanish Real World Data on unresectable stage III NSCLC patients treated with durvalumab after chemoradiotherapy (S-REAL Study) - post-authorisation study](https://catalogues.ema.europa.eu/study/38962)
 
@@ -1646,8 +1310,8 @@ svenska (SV) (4.64 MB - DOCX)
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 19/03/2026
+**This page was last updated on**
+
+18/05/2026
 
 ## Share this page
-
-[Back to top](#main-content)

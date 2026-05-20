@@ -1,21 +1,97 @@
 ---
-document_datetime: 2026-04-09 17:10:00
+document_datetime: 2026-05-19 14:30:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/tafinlar.html
 document_name: tafinlar.html
 version: success
-processing_time: 0.1355513
-conversion_datetime: 2026-04-13 14:06:07.097503
+processing_time: 0.1637961
+conversion_datetime: 2026-05-20 21:00:19.911992
 docling_version:
-  docling-serve: 1.16.1
-  docling-jobkit: 1.16.0
-  docling: 2.87.0
-  docling-core: 2.73.0
-  docling-ibm-models: 3.13.0
-  docling-parse: 5.8.0
+  docling-serve: 1.19.0
+  docling-jobkit: 1.19.1
+  docling: 2.94.0
+  docling-core: 2.77.0
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.11.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
 ---
+# Search
+
+- [Medicines](/en/medicines)
+    - [Find medicine](/en/medicines)
+    - [Therapeutic areas: latest updates](/en/medicines/therapeutic-areas-latest-updates)
+    - [Download medicine data](/en/medicines/download-medicine-data)
+    - [What we publish on medicines and when](/en/medicines/what-we-publish-medicines-when)
+    - [Medicines under evaluation](/en/medicines/medicines-human-use-under-evaluation)
+    - [National registers](/en/medicines/national-registers-authorised-medicines)
+- [Human regulatory](/en/human-regulatory-overview)
+    - [Overview](/en/human-regulatory-overview)
+    - [Research and development](/en/human-regulatory-overview/research-development)
+    - [Marketing authorisation](/en/human-regulatory-overview/marketing-authorisation)
+    - [Post-authorisation](/en/human-regulatory-overview/post-authorisation)
+    - [Medical devices](/en/human-regulatory-overview/medical-devices)
+    - [Herbal products](/en/human-regulatory-overview/herbal-medicinal-products)
+- [Veterinary regulatory](/en/veterinary-regulatory-overview)
+    - [Overview](/en/veterinary-regulatory-overview)
+    - [Research and development](/en/veterinary-regulatory-overview/research-development-veterinary-medicines)
+    - [Marketing authorisation](/en/veterinary-regulatory-overview/marketing-authorisation-veterinary-medicines)
+    - [Post-authorisation](/en/veterinary-regulatory-overview/post-authorisation-veterinary-medicines)
+- [Committees](/en/committees)
+    - [Overview](/en/committees)
+    - [How the committees work](/en/committees/how-committees-work)
+    - [CHMP](/en/committees/committee-medicinal-products-human-use-chmp)
+    - [CVMP](/en/committees/committee-veterinary-medicinal-products-cvmp)
+    - [PRAC](/en/committees/pharmacovigilance-risk-assessment-committee-prac)
+    - [COMP](/en/committees/committee-orphan-medicinal-products-comp)
+    - [HMPC](/en/committees/committee-herbal-medicinal-products-hmpc)
+    - [CAT](/en/committees/committee-advanced-therapies-cat)
+    - [PDCO](/en/committees/paediatric-committee-pdco)
+    - [Working parties and other groups](/en/committees/working-parties-other-groups)
+- [News &amp; events](/en/news-events)
+    - [Overview](/en/news-events)
+    - [News](/en/news)
+    - [Events](/en/events/upcoming-events)
+    - [What's new](/en/news-events/whats-new)
+    - [Committee highlights](/en/news-events/committee-highlights)
+    - [Publications](/en/news-and-events/publications)
+    - [Press and social media](/en/news-events/press-social-media)
+    - [Podcast: Inside EMA](/en/news-events/podcast-inside-ema)
+    - [EMA Campaigns](/en/news-events/ema-campaigns)
+    - [Open consultations](/en/news-events/open-consultations)
+    - [RSS feeds](/en/news-events/rss-feeds)
+- [Partners &amp; networks](/en/partners-networks)
+    - [Overview](/en/partners-networks)
+    - [EU partners](/en/partners-networks/eu-partners)
+    - [International activities](/en/partners-networks/international-activities)
+    - [Patients and consumers](/en/partners-networks/patients-consumers)
+    - [Healthcare professionals](/en/partners-networks/healthcare-professionals)
+    - [Academia](/en/partners-networks/academia)
+    - [Pharmaceutical industry](/en/partners-networks/pharmaceutical-industry)
+    - [Networks](/en/partners-networks/networks)
+    - [Health technology assessment bodies](/en/partners-networks/health-technology-assessment-bodies)
+    - [One Health approach](/en/partners-networks/one-health-approach)
+    - [Animal health practitioners](/en/partners-networks/animal-health-practitioners)
+    - [One substance - one assessment](/en/partners-networks/one-substance-one-assessment-osoa-eu-collaboration-chemicals-related-data)
+- [About us](/en/about-us)
+    - [Overview](/en/about-us)
+    - [What we do](/en/about-us/what-we-do)
+    - [Who we are](/en/about-us/who-we-are)
+    - [How we work](/en/about-us/how-we-work)
+    - [Fees](/en/about-us/fees-payable-european-medicines-agency)
+    - [Support to SMEs](/en/about-us/support-smes)
+    - [Annual reports and work programmes](/en/about-us/annual-reports-work-programmes)
+    - [History of EMA](/en/about-us/history-ema)
+    - [Careers](/en/about-us/careers)
+    - [Procurement](/en/about-us/procurement-grants)
+    - [About this website](/en/about-us/about-website)
+    - [Data protection and privacy](/en/about-us/data-protection-privacy-ema)
+    - [Contacts](/en/about-us/contacts-european-medicines-agency)
+
+1. [Home](/en/homepage)
+2. [Medicines](https://www.ema.europa.eu/en/medicines)
+3. Tafinlar
+
 # Tafinlar
 
 [RSS](/en/individual-human-medicine.xml/66193)
@@ -48,11 +124,12 @@ Page contents
 
 ## Overview
 
-Tafinlar is a cancer medicine used to treat adults whose cancer cells have a specific genetic mutation (change) called 'BRAF V600'. It is used for the treatment of:
+Tafinlar is a cancer medicine used to treat people whose cancer cells have a specific genetic mutation (change) called 'BRAF V600'. It is used:
 
-- melanoma (a skin cancer) that has spread or cannot be removed surgically. Tafinlar is used on its own or in combination with another cancer medicine, trametinib;
-- advanced (stage III) melanoma after surgery for it. Tafinlar is used in combination with trametinib;
-- advanced non-small cell lung cancer. It is used in combination with trametinib.
+- in adults and adolescents aged 12 years and older for the treatment of melanoma (a skin cancer) that has spread or cannot be removed surgically. Tafinlar is used on its own or in combination with another cancer medicine, trametinib;
+- in adults and adolescents aged 12 years and older for the treatment of advanced (stage III) melanoma after surgery for it. Tafinlar is used in combination with trametinib;
+- in adults for the treatment of advanced non-small cell lung cancer. It is used in combination with trametinib;
+- in adults for the treatment of differentiated thyroid carcinoma, a type of cancer originating from the follicular cells of the thyroid gland. Tafinlar is used in combination with trametinib when the cancer has progressed or spread locally or to other parts of the body during or after previous treatment with systemic therapy (treatment affecting the whole body), and does not respond to or is not suitable for treatment with radioactive iodine.
 
 Tafinlar contains the active substance dabrafenib.
 
@@ -62,17 +139,17 @@ Collapse section
 
 ## How is Tafinlar used?
 
-Treatment with Tafinlar must be started and supervised by a doctor experienced in the use of cancer medicines. The medicine can only be obtained with a prescription.
+Tafinlar can only be obtained with a prescription and treatment must be started and supervised by a doctor experienced in the use of cancer medicines.
 
-Tafinlar is available as capsules (50 and 75 mg). The dose of Tafinlar either used alone or in combination with trametinib is 150 mg twice a day taken on an empty stomach (at least 1 hour before or 2 hours after a meal).
+Tafinlar is available as capsules that are taken twice a day on an empty stomach (at least 1 hour before or 2 hours after a meal). In adults a standard dose is used, while in adolescents aged 12 to less than 18 years, the dose depends on the patient's body weight.
 
-Tafinlar can be continued for as long as the patient benefits from it. After surgery for advanced melanoma, treatment is normally continued for 12 months unless the disease comes back. Treatment may need to be interrupted or stopped, or the dose reduced, if certain side effects occur.
+Tafinlar treatment can be continued for as long as the patient benefits from it. After surgery for advanced melanoma, treatment is normally continued for 12 months unless the disease comes back. Treatment may need to be interrupted or stopped, or the dose reduced, if certain side effects occur.
 
 For more information about using Tafinlar, see the package leaflet or contact your doctor or pharmacist.
 
 ## How does Tafinlar work?
 
-The active substance in Tafinlar, dabrafenib, works by blocking BRAF, a protein involved in stimulating cell division. In melanoma and non-small cell lung cancer with the BRAF V600 mutation, the abnormal form of BRAF plays a role in the development of the cancer by allowing uncontrolled division of the tumour cells. By blocking the action of the abnormal BRAF, Tafinlar helps to slow down the growth and spread of the cancer.
+The active substance in Tafinlar, dabrafenib, works by blocking BRAF, a protein involved in stimulating cell division. In melanoma, non-small cell lung cancer and differentiated thyroid cancer with the BRAF V600 mutation, an abnormal form of the protein BRAF is present. This abnormal protein plays a role in the development of cancer by allowing uncontrolled division of cells. By blocking the action of the abnormal BRAF, Tafinlar helps to slow down the growth and spread of the cancer.
 
 ## What benefits of Tafinlar have been shown in studies?
 
@@ -80,27 +157,37 @@ Tafinlar has been studied in patients whose cancer had the BRAF V600 mutation.
 
 **Melanoma**
 
-Tafinlar was more effective than the cancer medicine dacarbazine at controlling melanoma that had spread to other parts of the body or could not be removed surgically. This was based on one main study involving 250 patients, which measured how long patients lived until their disease got worse. Patients taking Tafinlar lived on average 6.9 months before the disease got worse, compared with 2.7 months in patients given dacarbazine.
+Tafinlar was more effective than the cancer medicine dacarbazine at controlling melanoma that had spread to other parts of the body or could not be removed surgically. This was based on one main study involving 250 patients, which measured how long patients lived until their disease got worse. Patients taking Tafinlar lived on average 6.9 months before the disease got worse, compared with 2.7 months for patients given dacarbazine.
 
-Two additional studies on melanoma that had spread to other parts of the body or could not be removed surgically looked at using the combination of Tafinlar with trametinib. In one study 423 patients were given either the combination or Tafinlar alone. Patients given the combination lived for 11 months without their disease worsening, compared with 8.8 months for those given Tafinlar alone. In a second study involving 704 patients, Tafinlar with trametinib was compared with another medicine for melanoma, vemurafenib. Patients given the combination lived 25.6 months on average, versus 18 months with vemurafenib.
+Two additional studies on melanoma that had spread to other parts of the body or could not be removed surgically looked at using the combination of Tafinlar with trametinib. In one study, 423 patients were given either the combination or Tafinlar alone. Patients given the combination lived for 11 months without their disease worsening, compared with 8.8 months for those given Tafinlar alone. In a second study involving 704 patients, Tafinlar with trametinib was compared with another medicine for melanoma, vemurafenib. Patients given the combination lived 25.6 months on average, versus 18 months with vemurafenib.
 
-In a study involving 870 patients with stage III melanoma that had been removed surgically, the combination of Tafinlar and trametinib given for 1 year was compared with placebo (a dummy treatment). Some 40% of patients treated with the combination either died or had their disease come back after an average of about 3.5 years compared with 59% of patients receiving placebo.
+In a study involving 870 patients with stage III melanoma that had been removed surgically, the combination of Tafinlar and trametinib given for 1 year was compared with placebo (a dummy treatment). Around 40% of patients treated with the combination either died or had their disease come back after an average of about 3.5 years compared with 59% of patients receiving placebo.
+
+Data showed that Tafinlar behaves in a similar way in adolescents, aged 12 years and older, as it does in adults. A study in the scientific literature also provided data supporting the effectiveness of Tafinlar given with trametinib for the treatment of melanoma that has a BRAF V600 mutation in adolescents aged 6 years and older. The study included 6 children and adolescents who were 15 years old at the time of diagnosis and who received treatment through a compassionate use programme. These findings, together with information on how Tafinlar behaves in the body, suggest that similar effects would be expected in adolescents receiving the recommended doses.
 
 **Non-small cell lung cancer**
 
 In one main study, 171 patients with non-small cell lung cancer received either Tafinlar combined with trametinib or Tafinlar alone. The main measure of effectiveness was the percentage of patients who responded completely or partially to treatment. Response to treatment was assessed using body scans and patients' clinical data. The use of Tafinlar and trametinib led to a response in over 60% of the patients, compared with 23% of patients using Tafinlar alone.
 
+**Differentiated thyroid cancer**
+
+Tafinlar given in combination with trametinib was shown to be more effective than placebo at slowing down the progression of the cancer in one main study. The study involved 153 adults with differentiated thyroid cancer that had progressed or spread locally or to other parts of the body, despite previous treatment, and that did not respond to or was not suitable for treatment with radioactive iodine. Patients treated with Tafinlar together with trametinib lived on average for around 13 months without their cancer getting worse compared with around 4 months for those given placebo.
+
+Studies carried out with Tafinlar are described in more detail in the medicine's assessment reports.
+
 ## What are the risks associated with Tafinlar?
-
-The most common side effects with Tafinlar (which may affect more than 1 in 10 people) are papilloma (warts), headache, nausea, vomiting, hyperkeratosis (thickening and toughening of the skin), hair loss, rash, joint pain, fever and tiredness.
-
-When Tafinlar is taken in combination with trametinib, the most common side effects (which may affect more than 1 in 5 people) are fever, tiredness, nausea, chills, headache, diarrhoea, vomiting, joint pain and rash.
 
 For the full list of side effects and restrictions with Tafinlar, see the package leaflet.
 
+The most common side effects with Tafinlar (which may affect more than 1 in 10 people) include papilloma (warts), headache, nausea, vomiting, hyperkeratosis (thickening and toughening of the skin), hair loss, rash, joint pain, fever and tiredness.
+
+When Tafinlar is taken in combination with trametinib, the most common side effects (which may affect more than 1 in 5 people) include fever, tiredness, nausea, chills, headache, diarrhoea, vomiting, cough, bleeding, peripheral oedema (swelling especially of the ankles and feet due to fluid retention), joint pain and rash.
+
 ## Why is Tafinlar authorised in the EU?
 
-The European Medicines Agency decided that Tafinlar's benefits in cancers that carry the BRAF V600 mutation are greater than its risks and it can be authorised for use in the EU. The Agency considered that Tafinlar when used alone or in combination with trametinib had shown clinically relevant benefit in patients with advanced non-small cell lung cancer or with melanoma that had spread or could not be removed surgically. The Agency also found it to be of benefit in patients with advanced melanoma that had been removed surgically. Tafinlar's side effects were considered acceptable and manageable with appropriate measures.
+Tafinlar when used alone or in combination with trametinib has been shown to provide clinically relevant benefit in patients with advanced non-small cell lung cancer or with melanoma that had spread or could not be removed surgically. It is also of benefit in patients with advanced melanoma that has been removed surgically. At the time of approval of Tafinlar for the treatment of differentiated thyroid cancer, there were no therapies that targeted this type of cancer when it has mutations in the 'BRAF V600' gene. Tafinlar given together with trametinib prolonged the time patients with differentiated thyroid cancer lived without their disease getting worse. Tafinlar's side effects were considered acceptable and manageable with appropriate measures.
+
+The European Medicines Agency therefore decided that Tafinlar's benefits in the aforementioned types of cancers that carry the BRAF V600 mutation are greater than its risks and it can be authorised for use in the EU.
 
 ## What measures are being taken to ensure the safe and effective use of Tafinlar?
 
@@ -114,153 +201,153 @@ Tafinlar received a marketing authorisation valid throughout the EU on 26 August
 
 Tafinlar : EPAR - Medicine overview
 
-Reference Number: EMA/538918/2013
+Reference Number: EMADOC-1829012207-48585
 
-English (EN) (82.66 KB - PDF)
+English (EN) (157.61 KB - PDF)
 
-**First published:** 18/09/2013 **Last updated:** 11/09/2018
+**First published:** 18/09/2013 **Last updated:** 19/05/2026
 
 [View](/en/documents/overview/tafinlar-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-319)
+[Other languages (22)](#file-language-dropdown-445)
 
-български (BG) (131.01 KB - PDF)
+български (BG) (173.49 KB - PDF)
 
-**First published:** 18/09/2013 **Last updated:** 11/09/2018
+**First published:** 18/09/2013 **Last updated:** 19/05/2026
 
 [View](/bg/documents/overview/tafinlar-epar-medicine-overview_bg.pdf)
 
-español (ES) (107.48 KB - PDF)
+español (ES) (148.08 KB - PDF)
 
-**First published:** 18/09/2013 **Last updated:** 11/09/2018
+**First published:** 18/09/2013 **Last updated:** 19/05/2026
 
 [View](/es/documents/overview/tafinlar-epar-medicine-overview_es.pdf)
 
-čeština (CS) (126.62 KB - PDF)
+čeština (CS) (174.41 KB - PDF)
 
-**First published:** 18/09/2013 **Last updated:** 11/09/2018
+**First published:** 18/09/2013 **Last updated:** 19/05/2026
 
 [View](/cs/documents/overview/tafinlar-epar-medicine-overview_cs.pdf)
 
-dansk (DA) (107.22 KB - PDF)
+dansk (DA) (146.65 KB - PDF)
 
-**First published:** 18/09/2013 **Last updated:** 11/09/2018
+**First published:** 18/09/2013 **Last updated:** 19/05/2026
 
 [View](/da/documents/overview/tafinlar-epar-medicine-overview_da.pdf)
 
-Deutsch (DE) (108.18 KB - PDF)
+Deutsch (DE) (150.92 KB - PDF)
 
-**First published:** 18/09/2013 **Last updated:** 11/09/2018
+**First published:** 18/09/2013 **Last updated:** 19/05/2026
 
 [View](/de/documents/overview/tafinlar-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (105.58 KB - PDF)
+eesti keel (ET) (145.02 KB - PDF)
 
-**First published:** 18/09/2013 **Last updated:** 11/09/2018
+**First published:** 18/09/2013 **Last updated:** 19/05/2026
 
 [View](/et/documents/overview/tafinlar-epar-medicine-overview_et.pdf)
 
-ελληνικά (EL) (137.15 KB - PDF)
+ελληνικά (EL) (175.48 KB - PDF)
 
-**First published:** 18/09/2013 **Last updated:** 11/09/2018
+**First published:** 18/09/2013 **Last updated:** 19/05/2026
 
 [View](/el/documents/overview/tafinlar-epar-medicine-overview_el.pdf)
 
-français (FR) (108.45 KB - PDF)
+français (FR) (150.83 KB - PDF)
 
-**First published:** 18/09/2013 **Last updated:** 11/09/2018
+**First published:** 18/09/2013 **Last updated:** 19/05/2026
 
 [View](/fr/documents/overview/tafinlar-epar-medicine-overview_fr.pdf)
 
-hrvatski (HR) (122.01 KB - PDF)
+hrvatski (HR) (172.05 KB - PDF)
 
-**First published:** 18/09/2013 **Last updated:** 11/09/2018
+**First published:** 18/09/2013 **Last updated:** 19/05/2026
 
 [View](/hr/documents/overview/tafinlar-epar-medicine-overview_hr.pdf)
 
-italiano (IT) (107.43 KB - PDF)
+italiano (IT) (146.57 KB - PDF)
 
-**First published:** 18/09/2013 **Last updated:** 11/09/2018
+**First published:** 18/09/2013 **Last updated:** 19/05/2026
 
 [View](/it/documents/overview/tafinlar-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (128.55 KB - PDF)
+latviešu valoda (LV) (182.34 KB - PDF)
 
-**First published:** 18/09/2013 **Last updated:** 11/09/2018
+**First published:** 18/09/2013 **Last updated:** 19/05/2026
 
 [View](/lv/documents/overview/tafinlar-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (126.42 KB - PDF)
+lietuvių kalba (LT) (171.99 KB - PDF)
 
-**First published:** 18/09/2013 **Last updated:** 11/09/2018
+**First published:** 18/09/2013 **Last updated:** 19/05/2026
 
 [View](/lt/documents/overview/tafinlar-epar-medicine-overview_lt.pdf)
 
-magyar (HU) (122.03 KB - PDF)
+magyar (HU) (173.32 KB - PDF)
 
-**First published:** 18/09/2013 **Last updated:** 11/09/2018
+**First published:** 18/09/2013 **Last updated:** 19/05/2026
 
 [View](/hu/documents/overview/tafinlar-epar-medicine-overview_hu.pdf)
 
-Malti (MT) (127.71 KB - PDF)
+Malti (MT) (174.85 KB - PDF)
 
-**First published:** 18/09/2013 **Last updated:** 11/09/2018
+**First published:** 18/09/2013 **Last updated:** 19/05/2026
 
 [View](/mt/documents/overview/tafinlar-epar-medicine-overview_mt.pdf)
 
-Nederlands (NL) (107.6 KB - PDF)
+Nederlands (NL) (147.47 KB - PDF)
 
-**First published:** 18/09/2013 **Last updated:** 11/09/2018
+**First published:** 18/09/2013 **Last updated:** 19/05/2026
 
 [View](/nl/documents/overview/tafinlar-epar-medicine-overview_nl.pdf)
 
-polski (PL) (127.25 KB - PDF)
+polski (PL) (172.46 KB - PDF)
 
-**First published:** 18/09/2013 **Last updated:** 11/09/2018
+**First published:** 18/09/2013 **Last updated:** 19/05/2026
 
 [View](/pl/documents/overview/tafinlar-epar-medicine-overview_pl.pdf)
 
-português (PT) (107.49 KB - PDF)
+português (PT) (149 KB - PDF)
 
-**First published:** 18/09/2013 **Last updated:** 11/09/2018
+**First published:** 18/09/2013 **Last updated:** 19/05/2026
 
 [View](/pt/documents/overview/tafinlar-epar-medicine-overview_pt.pdf)
 
-română (RO) (125.1 KB - PDF)
+română (RO) (171.74 KB - PDF)
 
-**First published:** 18/09/2013 **Last updated:** 11/09/2018
+**First published:** 18/09/2013 **Last updated:** 19/05/2026
 
 [View](/ro/documents/overview/tafinlar-epar-medicine-overview_ro.pdf)
 
-slovenčina (SK) (125.41 KB - PDF)
+slovenčina (SK) (173.98 KB - PDF)
 
-**First published:** 18/09/2013 **Last updated:** 11/09/2018
+**First published:** 18/09/2013 **Last updated:** 19/05/2026
 
 [View](/sk/documents/overview/tafinlar-epar-medicine-overview_sk.pdf)
 
-slovenščina (SL) (122.26 KB - PDF)
+slovenščina (SL) (172.29 KB - PDF)
 
-**First published:** 18/09/2013 **Last updated:** 11/09/2018
+**First published:** 18/09/2013 **Last updated:** 19/05/2026
 
 [View](/sl/documents/overview/tafinlar-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (107.09 KB - PDF)
+Suomi (FI) (144.61 KB - PDF)
 
-**First published:** 18/09/2013 **Last updated:** 11/09/2018
+**First published:** 18/09/2013 **Last updated:** 19/05/2026
 
 [View](/fi/documents/overview/tafinlar-epar-medicine-overview_fi.pdf)
 
-svenska (SV) (106.93 KB - PDF)
+svenska (SV) (146.31 KB - PDF)
 
-**First published:** 18/09/2013 **Last updated:** 11/09/2018
+**First published:** 18/09/2013 **Last updated:** 19/05/2026
 
 [View](/sv/documents/overview/tafinlar-epar-medicine-overview_sv.pdf)
 
 Tafinlar : EPAR - Risk management plan
 
-English (EN) (1.39 MB - PDF)
+English (EN) (806.08 KB - PDF)
 
-**First published:** 11/09/2018 **Last updated:** 17/06/2025
+**First published:** 11/09/2018 **Last updated:** 19/05/2026
 
 [View](/en/documents/rmp/tafinlar-epar-risk-management-plan_en.pdf)
 
@@ -268,161 +355,161 @@ English (EN) (1.39 MB - PDF)
 
 Tafinlar : EPAR - Product Information
 
-English (EN) (750.67 KB - PDF)
+English (EN) (1 MB - PDF)
 
-**First published:** 18/09/2013 **Last updated:** 09/04/2026
+**First published:** 18/09/2013 **Last updated:** 19/05/2026
 
 [View](/en/documents/product-information/tafinlar-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-909)
+[Other languages (24)](#file-language-dropdown-543)
 
-български (BG) (886.38 KB - PDF)
+български (BG) (880.39 KB - PDF)
 
-**First published:** 18/09/2013 **Last updated:** 09/04/2026
+**First published:** 18/09/2013 **Last updated:** 19/05/2026
 
 [View](/bg/documents/product-information/tafinlar-epar-product-information_bg.pdf)
 
-español (ES) (873.3 KB - PDF)
+español (ES) (785.86 KB - PDF)
 
-**First published:** 18/09/2013 **Last updated:** 09/04/2026
+**First published:** 18/09/2013 **Last updated:** 19/05/2026
 
 [View](/es/documents/product-information/tafinlar-epar-product-information_es.pdf)
 
-čeština (CS) (842.64 KB - PDF)
+čeština (CS) (820.48 KB - PDF)
 
-**First published:** 18/09/2013 **Last updated:** 09/04/2026
+**First published:** 18/09/2013 **Last updated:** 19/05/2026
 
 [View](/cs/documents/product-information/tafinlar-epar-product-information_cs.pdf)
 
-dansk (DA) (808.76 KB - PDF)
+dansk (DA) (1.22 MB - PDF)
 
-**First published:** 18/09/2013 **Last updated:** 09/04/2026
+**First published:** 18/09/2013 **Last updated:** 19/05/2026
 
 [View](/da/documents/product-information/tafinlar-epar-product-information_da.pdf)
 
-Deutsch (DE) (824.22 KB - PDF)
+Deutsch (DE) (1.23 MB - PDF)
 
-**First published:** 18/09/2013 **Last updated:** 09/04/2026
+**First published:** 18/09/2013 **Last updated:** 19/05/2026
 
 [View](/de/documents/product-information/tafinlar-epar-product-information_de.pdf)
 
-eesti keel (ET) (781.36 KB - PDF)
+eesti keel (ET) (1.22 MB - PDF)
 
-**First published:** 18/09/2013 **Last updated:** 09/04/2026
+**First published:** 18/09/2013 **Last updated:** 19/05/2026
 
 [View](/et/documents/product-information/tafinlar-epar-product-information_et.pdf)
 
-ελληνικά (EL) (877.38 KB - PDF)
+ελληνικά (EL) (854.97 KB - PDF)
 
-**First published:** 18/09/2013 **Last updated:** 09/04/2026
+**First published:** 18/09/2013 **Last updated:** 19/05/2026
 
 [View](/el/documents/product-information/tafinlar-epar-product-information_el.pdf)
 
-français (FR) (902.04 KB - PDF)
+français (FR) (1.27 MB - PDF)
 
-**First published:** 18/09/2013 **Last updated:** 09/04/2026
+**First published:** 18/09/2013 **Last updated:** 19/05/2026
 
 [View](/fr/documents/product-information/tafinlar-epar-product-information_fr.pdf)
 
-hrvatski (HR) (852.03 KB - PDF)
+hrvatski (HR) (1.23 MB - PDF)
 
-**First published:** 18/09/2013 **Last updated:** 09/04/2026
+**First published:** 18/09/2013 **Last updated:** 19/05/2026
 
 [View](/hr/documents/product-information/tafinlar-epar-product-information_hr.pdf)
 
-íslenska (IS) (774.36 KB - PDF)
+íslenska (IS) (1.17 MB - PDF)
 
-**First published:** 18/09/2013 **Last updated:** 09/04/2026
+**First published:** 18/09/2013 **Last updated:** 19/05/2026
 
 [View](/is/documents/product-information/tafinlar-epar-product-information_is.pdf)
 
-italiano (IT) (853.97 KB - PDF)
+italiano (IT) (1.24 MB - PDF)
 
-**First published:** 18/09/2013 **Last updated:** 09/04/2026
+**First published:** 18/09/2013 **Last updated:** 19/05/2026
 
 [View](/it/documents/product-information/tafinlar-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (855.44 KB - PDF)
+latviešu valoda (LV) (1.3 MB - PDF)
 
-**First published:** 18/09/2013 **Last updated:** 09/04/2026
+**First published:** 18/09/2013 **Last updated:** 19/05/2026
 
 [View](/lv/documents/product-information/tafinlar-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (832.26 KB - PDF)
+lietuvių kalba (LT) (1.23 MB - PDF)
 
-**First published:** 18/09/2013 **Last updated:** 09/04/2026
+**First published:** 18/09/2013 **Last updated:** 19/05/2026
 
 [View](/lt/documents/product-information/tafinlar-epar-product-information_lt.pdf)
 
-magyar (HU) (847.42 KB - PDF)
+magyar (HU) (1.26 MB - PDF)
 
-**First published:** 18/09/2013 **Last updated:** 09/04/2026
+**First published:** 18/09/2013 **Last updated:** 19/05/2026
 
 [View](/hu/documents/product-information/tafinlar-epar-product-information_hu.pdf)
 
-Malti (MT) (949.77 KB - PDF)
+Malti (MT) (1.33 MB - PDF)
 
-**First published:** 18/09/2013 **Last updated:** 09/04/2026
+**First published:** 18/09/2013 **Last updated:** 19/05/2026
 
 [View](/mt/documents/product-information/tafinlar-epar-product-information_mt.pdf)
 
-Nederlands (NL) (839.11 KB - PDF)
+Nederlands (NL) (1.3 MB - PDF)
 
-**First published:** 18/09/2013 **Last updated:** 09/04/2026
+**First published:** 18/09/2013 **Last updated:** 19/05/2026
 
 [View](/nl/documents/product-information/tafinlar-epar-product-information_nl.pdf)
 
-norsk (NO) (817.67 KB - PDF)
+norsk (NO) (1.24 MB - PDF)
 
-**First published:** 18/09/2013 **Last updated:** 09/04/2026
+**First published:** 18/09/2013 **Last updated:** 19/05/2026
 
 [View](/no/documents/product-information/tafinlar-epar-product-information_no.pdf)
 
-polski (PL) (888.24 KB - PDF)
+polski (PL) (1.27 MB - PDF)
 
-**First published:** 18/09/2013 **Last updated:** 09/04/2026
+**First published:** 18/09/2013 **Last updated:** 19/05/2026
 
 [View](/pl/documents/product-information/tafinlar-epar-product-information_pl.pdf)
 
-português (PT) (799.55 KB - PDF)
+português (PT) (1.21 MB - PDF)
 
-**First published:** 18/09/2013 **Last updated:** 09/04/2026
+**First published:** 18/09/2013 **Last updated:** 19/05/2026
 
 [View](/pt/documents/product-information/tafinlar-epar-product-information_pt.pdf)
 
-română (RO) (867.76 KB - PDF)
+română (RO) (1.29 MB - PDF)
 
-**First published:** 18/09/2013 **Last updated:** 09/04/2026
+**First published:** 18/09/2013 **Last updated:** 19/05/2026
 
 [View](/ro/documents/product-information/tafinlar-epar-product-information_ro.pdf)
 
-slovenčina (SK) (885.03 KB - PDF)
+slovenčina (SK) (1.31 MB - PDF)
 
-**First published:** 18/09/2013 **Last updated:** 09/04/2026
+**First published:** 18/09/2013 **Last updated:** 19/05/2026
 
 [View](/sk/documents/product-information/tafinlar-epar-product-information_sk.pdf)
 
-slovenščina (SL) (903.88 KB - PDF)
+slovenščina (SL) (1.38 MB - PDF)
 
-**First published:** 18/09/2013 **Last updated:** 09/04/2026
+**First published:** 18/09/2013 **Last updated:** 19/05/2026
 
 [View](/sl/documents/product-information/tafinlar-epar-product-information_sl.pdf)
 
-Suomi (FI) (778.8 KB - PDF)
+Suomi (FI) (1.16 MB - PDF)
 
-**First published:** 18/09/2013 **Last updated:** 09/04/2026
+**First published:** 18/09/2013 **Last updated:** 19/05/2026
 
 [View](/fi/documents/product-information/tafinlar-epar-product-information_fi.pdf)
 
-svenska (SV) (764.14 KB - PDF)
+svenska (SV) (1.15 MB - PDF)
 
-**First published:** 18/09/2013 **Last updated:** 09/04/2026
+**First published:** 18/09/2013 **Last updated:** 19/05/2026
 
 [View](/sv/documents/product-information/tafinlar-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** PSUR/0000296502
+**Latest procedure affecting product information:** VR/0000278305
 
-26/03/2026
+30/04/2026
 
 icon globe
 
@@ -446,7 +533,7 @@ English (EN) (41.53 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/tafinlar-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-212)
+[Other languages (24)](#file-language-dropdown-249)
 
 български (BG) (46.69 KB - PDF)
 
@@ -622,15 +709,19 @@ Antineoplastic agents
 
 **Melanoma**
 
-Dabrafenib as monotherapy or in combination with trametinib is indicated for the treatment of adult patients with unresectable or metastatic melanoma with a BRAF V600 mutation (see sections 4.4 and 5.1).
+Dabrafenib as monotherapy or in combination with trametinib is indicated for the treatment of adults and adolescents aged 12 years and older with unresectable or metastatic melanoma with a BRAF V600 mutation (see sections 4.4 and 5.1).
 
 **Adjuvant treatment of melanoma**
 
-Dabrafenib in combination with trametinib is indicated for the adjuvant treatment of adult patients with Stage III melanoma with a BRAF V600 mutation, following complete resection.
+Dabrafenib in combination with trametinib is indicated for the adjuvant treatment of adults and adolescents aged 12 years and older with Stage III melanoma with a BRAF V600 mutation, following complete resection.
 
 **Non-small cell lung cancer (NSCLC)**
 
-Dabrafenib in combination with trametinib is indicated for the treatment of adult patients with advanced non-small cell lung cancer with a BRAF V600 mutation.
+Dabrafenib in combination with trametinib is indicated for the treatment of adults with advanced non-small cell lung cancer with a BRAF V600 mutation.
+
+**Differentiated thyroid cancer (DTC)**
+
+Dabrafenib in combination with trametinib is indicated for the treatment of adult patients with locally advanced or metastatic differentiated thyroid cancer with a BRAF V600E mutation, refractory to or not eligible for radioactive iodine (RAI) who have progressed during or after prior systemic therapy (for biomarker-based patient selection, see section 4.2).
 
 ## Authorisation details
 
@@ -654,7 +745,7 @@ Marketing authorisation issued
 
 Revision
 
-39
+40
 
 ## Assessment history
 
@@ -666,9 +757,9 @@ Collapse section
 
 Tafinlar : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (154.4 KB - PDF)
+English (EN) (164.56 KB - PDF)
 
-**First published:** 23/07/2025 **Last updated:** 09/04/2026
+**First published:** 23/07/2025 **Last updated:** 19/05/2026
 
 [View](/en/documents/procedural-steps-after/tafinlar-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -680,6 +771,36 @@ English (EN) (268.36 KB - PDF)
 
 [View](/en/documents/procedural-steps-after/tafinlar-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
+Tafinlar-VR-0000278305 : EPAR - Assessment report - Variation
+
+Adopted Reference Number: EMADOC-1700519818-2934719
+
+English (EN) (1.63 MB - PDF)
+
+**First published:** 19/05/2026
+
+[View](/en/documents/variation-report/tafinlar-vr-0000278305-epar-assessment-report-variation_en.pdf)
+
+Tafinlar-VR-0000271728 : EPAR - Assessment report - Variation
+
+Adopted Reference Number: EMADOC-1700519818-2637645
+
+English (EN) (1.75 MB - PDF)
+
+**First published:** 19/05/2026
+
+[View](/en/documents/variation-report/tafinlar-vr-0000271728-epar-assessment-report-variation_en.pdf)
+
+Tafinlar : EPAR - Statement indicating compliance with the agreed completed paediatric investigation plan
+
+Reference Number: EMADOC-1700519818-3039069
+
+English (EN) (142.04 KB - PDF)
+
+**First published:** 19/05/2026
+
+[View](/en/documents/pip-compliance/tafinlar-epar-statement-indicating-compliance-agreed-completed-paediatric-investigation-plan_en.pdf)
+
 Tafinlar-H-C-PSUSA-00010084-202505 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
 
 English (EN) (189.4 KB - PDF)
@@ -687,6 +808,26 @@ English (EN) (189.4 KB - PDF)
 **First published:** 09/04/2026
 
 [View](/en/documents/scientific-conclusion/tafinlar-h-c-psusa-00010084-202505-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
+
+CHMP post-authorisation summary of positive opinion for Tafinlar (VR0000278305)
+
+Adopted Reference Number: EMADOC-1700519818-2971643
+
+English (EN) (158.91 KB - PDF)
+
+**First published:** 27/03/2026
+
+[View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-tafinlar-vr0000278305_en.pdf)
+
+CHMP post-authorisation summary of positive opinion for Tafinlar (VR0000271728)
+
+Adopted Reference Number: EMADOC-1700519818-3002663
+
+English (EN) (153.7 KB - PDF)
+
+**First published:** 27/03/2026
+
+[View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-tafinlar-vr0000271728_en.pdf)
 
 Tafinlar-H-C-PSUSA-00010084-202405 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
 
@@ -840,7 +981,7 @@ English (EN) (774.92 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/tafinlar-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-890)
+[Other languages (24)](#file-language-dropdown-3)
 
 български (BG) (813.69 KB - DOCX)
 
@@ -989,8 +1130,6 @@ svenska (SV) (757.63 KB - DOCX)
 ## More information on Tafinlar
 
 - [EMEA-001147-PIP01-11-M07 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001147-pip01-11-m07)
-- [Tafinlar - opinion on variation to marketing authorisation](/en/medicines/human/variation/tafinlar-0)
-- [Tafinlar - opinion on variation to marketing authorisation](/en/medicines/human/variation/tafinlar)
 - [Real-world effectiveness of dabrafenib and trametinib in patients with BRAF-positive melanoma treated in routine Bulgarian clinical practice - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000567)
 
 ## Topics
@@ -999,6 +1138,6 @@ svenska (SV) (757.63 KB - DOCX)
 
 **This page was last updated on**
 
-09/04/2026
+19/05/2026
 
 ## Share this page

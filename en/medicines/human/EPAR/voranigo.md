@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-03-18 16:55:00
+document_datetime: 2026-05-19 12:25:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/voranigo.html
 document_name: voranigo.html
 version: success
-processing_time: 0.0930615
-conversion_datetime: 2026-03-21 13:23:58.346339
+processing_time: 0.118162
+conversion_datetime: 2026-05-22 22:32:08.054731
 docling_version:
-  docling-serve: 1.14.3
-  docling-jobkit: 1.13.0
-  docling: 2.81.0
-  docling-core: 2.70.2
-  docling-ibm-models: 3.12.0
-  docling-parse: 5.6.0
+  docling-serve: 1.20.0
+  docling-jobkit: 1.20.0
+  docling: 2.95.0
+  docling-core: 2.77.0
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.11.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
 ---
 # Voranigo
 
@@ -24,7 +24,9 @@ Authorised
 
 This medicine is authorised for use in the European Union
 
-vorasidenib Medicine Human Authorised
+vorasidenib
+
+Medicine Human Authorised
 
 Page contents
 
@@ -108,181 +110,137 @@ English (EN) (95.21 KB - PDF)
 
 [View](/en/documents/overview/voranigo-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-525)
+[Other languages (22)](#file-language-dropdown-374)
 
 български (BG) (117.77 KB - PDF)
 
-**First published:**
-
-26/09/2025
+**First published:** 26/09/2025
 
 [View](/bg/documents/overview/voranigo-epar-medicine-overview_bg.pdf)
 
 español (ES) (92.94 KB - PDF)
 
-**First published:**
-
-26/09/2025
+**First published:** 26/09/2025
 
 [View](/es/documents/overview/voranigo-epar-medicine-overview_es.pdf)
 
 čeština (CS) (114.44 KB - PDF)
 
-**First published:**
-
-26/09/2025
+**First published:** 26/09/2025
 
 [View](/cs/documents/overview/voranigo-epar-medicine-overview_cs.pdf)
 
 dansk (DA) (93.58 KB - PDF)
 
-**First published:**
-
-26/09/2025
+**First published:** 26/09/2025
 
 [View](/da/documents/overview/voranigo-epar-medicine-overview_da.pdf)
 
 Deutsch (DE) (97.4 KB - PDF)
 
-**First published:**
-
-26/09/2025
+**First published:** 26/09/2025
 
 [View](/de/documents/overview/voranigo-epar-medicine-overview_de.pdf)
 
 eesti keel (ET) (90.8 KB - PDF)
 
-**First published:**
-
-26/09/2025
+**First published:** 26/09/2025
 
 [View](/et/documents/overview/voranigo-epar-medicine-overview_et.pdf)
 
 ελληνικά (EL) (117.13 KB - PDF)
 
-**First published:**
-
-26/09/2025
+**First published:** 26/09/2025
 
 [View](/el/documents/overview/voranigo-epar-medicine-overview_el.pdf)
 
 français (FR) (93.61 KB - PDF)
 
-**First published:**
-
-26/09/2025
+**First published:** 26/09/2025
 
 [View](/fr/documents/overview/voranigo-epar-medicine-overview_fr.pdf)
 
 hrvatski (HR) (113.21 KB - PDF)
 
-**First published:**
-
-26/09/2025
+**First published:** 26/09/2025
 
 [View](/hr/documents/overview/voranigo-epar-medicine-overview_hr.pdf)
 
 italiano (IT) (91.98 KB - PDF)
 
-**First published:**
-
-26/09/2025
+**First published:** 26/09/2025
 
 [View](/it/documents/overview/voranigo-epar-medicine-overview_it.pdf)
 
 latviešu valoda (LV) (131.97 KB - PDF)
 
-**First published:**
-
-26/09/2025
+**First published:** 26/09/2025
 
 [View](/lv/documents/overview/voranigo-epar-medicine-overview_lv.pdf)
 
 lietuvių kalba (LT) (114.02 KB - PDF)
 
-**First published:**
-
-26/09/2025
+**First published:** 26/09/2025
 
 [View](/lt/documents/overview/voranigo-epar-medicine-overview_lt.pdf)
 
 magyar (HU) (114.41 KB - PDF)
 
-**First published:**
-
-26/09/2025
+**First published:** 26/09/2025
 
 [View](/hu/documents/overview/voranigo-epar-medicine-overview_hu.pdf)
 
 Malti (MT) (125.58 KB - PDF)
 
-**First published:**
-
-26/09/2025
+**First published:** 26/09/2025
 
 [View](/mt/documents/overview/voranigo-epar-medicine-overview_mt.pdf)
 
 Nederlands (NL) (93.75 KB - PDF)
 
-**First published:**
-
-26/09/2025
+**First published:** 26/09/2025
 
 [View](/nl/documents/overview/voranigo-epar-medicine-overview_nl.pdf)
 
 polski (PL) (117.09 KB - PDF)
 
-**First published:**
-
-26/09/2025
+**First published:** 26/09/2025
 
 [View](/pl/documents/overview/voranigo-epar-medicine-overview_pl.pdf)
 
 português (PT) (93.82 KB - PDF)
 
-**First published:**
-
-26/09/2025
+**First published:** 26/09/2025
 
 [View](/pt/documents/overview/voranigo-epar-medicine-overview_pt.pdf)
 
 română (RO) (112.47 KB - PDF)
 
-**First published:**
-
-26/09/2025
+**First published:** 26/09/2025
 
 [View](/ro/documents/overview/voranigo-epar-medicine-overview_ro.pdf)
 
 slovenčina (SK) (114.37 KB - PDF)
 
-**First published:**
-
-26/09/2025
+**First published:** 26/09/2025
 
 [View](/sk/documents/overview/voranigo-epar-medicine-overview_sk.pdf)
 
 slovenščina (SL) (111.84 KB - PDF)
 
-**First published:**
-
-26/09/2025
+**First published:** 26/09/2025
 
 [View](/sl/documents/overview/voranigo-epar-medicine-overview_sl.pdf)
 
 Suomi (FI) (91.15 KB - PDF)
 
-**First published:**
-
-26/09/2025
+**First published:** 26/09/2025
 
 [View](/fi/documents/overview/voranigo-epar-medicine-overview_fi.pdf)
 
 svenska (SV) (91.52 KB - PDF)
 
-**First published:**
-
-26/09/2025
+**First published:** 26/09/2025
 
 [View](/sv/documents/overview/voranigo-epar-medicine-overview_sv.pdf)
 
@@ -290,9 +248,7 @@ Voranigo : EPAR - Risk management plan
 
 English (EN) (2.04 MB - PDF)
 
-**First published:** 26/09/2025
-
-**Last updated:** 12/11/2025
+**First published:** 26/09/2025 **Last updated:** 12/11/2025
 
 [View](/en/documents/rmp/voranigo-epar-risk-management-plan_en.pdf)
 
@@ -300,305 +256,161 @@ English (EN) (2.04 MB - PDF)
 
 Voranigo : EPAR - Product information
 
-English (EN) (538.11 KB - PDF)
+English (EN) (482.55 KB - PDF)
 
-**First published:** 26/09/2025
-
-**Last updated:** 18/03/2026
+**First published:** 26/09/2025 **Last updated:** 19/05/2026
 
 [View](/en/documents/product-information/voranigo-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-892)
+[Other languages (24)](#file-language-dropdown-142)
 
-български (BG) (524.28 KB - PDF)
+български (BG) (499.39 KB - PDF)
 
-**First published:**
-
-26/09/2025
-
-**Last updated:**
-
-18/03/2026
+**First published:** 26/09/2025 **Last updated:** 19/05/2026
 
 [View](/bg/documents/product-information/voranigo-epar-product-information_bg.pdf)
 
-español (ES) (352.68 KB - PDF)
+español (ES) (468.2 KB - PDF)
 
-**First published:**
-
-26/09/2025
-
-**Last updated:**
-
-18/03/2026
+**First published:** 26/09/2025 **Last updated:** 19/05/2026
 
 [View](/es/documents/product-information/voranigo-epar-product-information_es.pdf)
 
-čeština (CS) (511.1 KB - PDF)
+čeština (CS) (532.45 KB - PDF)
 
-**First published:**
-
-26/09/2025
-
-**Last updated:**
-
-18/03/2026
+**First published:** 26/09/2025 **Last updated:** 19/05/2026
 
 [View](/cs/documents/product-information/voranigo-epar-product-information_cs.pdf)
 
-dansk (DA) (286.29 KB - PDF)
+dansk (DA) (293.46 KB - PDF)
 
-**First published:**
-
-26/09/2025
-
-**Last updated:**
-
-18/03/2026
+**First published:** 26/09/2025 **Last updated:** 19/05/2026
 
 [View](/da/documents/product-information/voranigo-epar-product-information_da.pdf)
 
-Deutsch (DE) (505.32 KB - PDF)
+Deutsch (DE) (482.75 KB - PDF)
 
-**First published:**
-
-26/09/2025
-
-**Last updated:**
-
-18/03/2026
+**First published:** 26/09/2025 **Last updated:** 19/05/2026
 
 [View](/de/documents/product-information/voranigo-epar-product-information_de.pdf)
 
-eesti keel (ET) (357.99 KB - PDF)
+eesti keel (ET) (473.16 KB - PDF)
 
-**First published:**
-
-26/09/2025
-
-**Last updated:**
-
-18/03/2026
+**First published:** 26/09/2025 **Last updated:** 19/05/2026
 
 [View](/et/documents/product-information/voranigo-epar-product-information_et.pdf)
 
-ελληνικά (EL) (470.73 KB - PDF)
+ελληνικά (EL) (654.89 KB - PDF)
 
-**First published:**
-
-26/09/2025
-
-**Last updated:**
-
-18/03/2026
+**First published:** 26/09/2025 **Last updated:** 19/05/2026
 
 [View](/el/documents/product-information/voranigo-epar-product-information_el.pdf)
 
-français (FR) (542.24 KB - PDF)
+français (FR) (496.84 KB - PDF)
 
-**First published:**
-
-26/09/2025
-
-**Last updated:**
-
-18/03/2026
+**First published:** 26/09/2025 **Last updated:** 19/05/2026
 
 [View](/fr/documents/product-information/voranigo-epar-product-information_fr.pdf)
 
-hrvatski (HR) (400.01 KB - PDF)
+hrvatski (HR) (669.8 KB - PDF)
 
-**First published:**
-
-26/09/2025
-
-**Last updated:**
-
-18/03/2026
+**First published:** 26/09/2025 **Last updated:** 19/05/2026
 
 [View](/hr/documents/product-information/voranigo-epar-product-information_hr.pdf)
 
-íslenska (IS) (464.73 KB - PDF)
+íslenska (IS) (494.99 KB - PDF)
 
-**First published:**
-
-26/09/2025
-
-**Last updated:**
-
-18/03/2026
+**First published:** 26/09/2025 **Last updated:** 19/05/2026
 
 [View](/is/documents/product-information/voranigo-epar-product-information_is.pdf)
 
-italiano (IT) (471.04 KB - PDF)
+italiano (IT) (537.49 KB - PDF)
 
-**First published:**
-
-26/09/2025
-
-**Last updated:**
-
-18/03/2026
+**First published:** 26/09/2025 **Last updated:** 19/05/2026
 
 [View](/it/documents/product-information/voranigo-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (491.41 KB - PDF)
+latviešu valoda (LV) (501.25 KB - PDF)
 
-**First published:**
-
-26/09/2025
-
-**Last updated:**
-
-18/03/2026
+**First published:** 26/09/2025 **Last updated:** 19/05/2026
 
 [View](/lv/documents/product-information/voranigo-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (526.82 KB - PDF)
+lietuvių kalba (LT) (550.6 KB - PDF)
 
-**First published:**
-
-26/09/2025
-
-**Last updated:**
-
-18/03/2026
+**First published:** 26/09/2025 **Last updated:** 19/05/2026
 
 [View](/lt/documents/product-information/voranigo-epar-product-information_lt.pdf)
 
-magyar (HU) (395.81 KB - PDF)
+magyar (HU) (563.94 KB - PDF)
 
-**First published:**
-
-26/09/2025
-
-**Last updated:**
-
-18/03/2026
+**First published:** 26/09/2025 **Last updated:** 19/05/2026
 
 [View](/hu/documents/product-information/voranigo-epar-product-information_hu.pdf)
 
-Malti (MT) (374.15 KB - PDF)
+Malti (MT) (381.55 KB - PDF)
 
-**First published:**
-
-26/09/2025
-
-**Last updated:**
-
-18/03/2026
+**First published:** 26/09/2025 **Last updated:** 19/05/2026
 
 [View](/mt/documents/product-information/voranigo-epar-product-information_mt.pdf)
 
-Nederlands (NL) (300.39 KB - PDF)
+Nederlands (NL) (298.36 KB - PDF)
 
-**First published:**
-
-26/09/2025
-
-**Last updated:**
-
-18/03/2026
+**First published:** 26/09/2025 **Last updated:** 19/05/2026
 
 [View](/nl/documents/product-information/voranigo-epar-product-information_nl.pdf)
 
-norsk (NO) (278.78 KB - PDF)
+norsk (NO) (275.11 KB - PDF)
 
-**First published:**
-
-26/09/2025
-
-**Last updated:**
-
-18/03/2026
+**First published:** 26/09/2025 **Last updated:** 19/05/2026
 
 [View](/no/documents/product-information/voranigo-epar-product-information_no.pdf)
 
-polski (PL) (364.8 KB - PDF)
+polski (PL) (563.52 KB - PDF)
 
-**First published:**
-
-26/09/2025
-
-**Last updated:**
-
-18/03/2026
+**First published:** 26/09/2025 **Last updated:** 19/05/2026
 
 [View](/pl/documents/product-information/voranigo-epar-product-information_pl.pdf)
 
-português (PT) (338.79 KB - PDF)
+português (PT) (533.47 KB - PDF)
 
-**First published:**
-
-26/09/2025
-
-**Last updated:**
-
-18/03/2026
+**First published:** 26/09/2025 **Last updated:** 19/05/2026
 
 [View](/pt/documents/product-information/voranigo-epar-product-information_pt.pdf)
 
-română (RO) (404.38 KB - PDF)
+română (RO) (538.48 KB - PDF)
 
-**First published:**
-
-26/09/2025
-
-**Last updated:**
-
-18/03/2026
+**First published:** 26/09/2025 **Last updated:** 19/05/2026
 
 [View](/ro/documents/product-information/voranigo-epar-product-information_ro.pdf)
 
-slovenčina (SK) (614.11 KB - PDF)
+slovenčina (SK) (582.4 KB - PDF)
 
-**First published:**
-
-26/09/2025
-
-**Last updated:**
-
-18/03/2026
+**First published:** 26/09/2025 **Last updated:** 19/05/2026
 
 [View](/sk/documents/product-information/voranigo-epar-product-information_sk.pdf)
 
-slovenščina (SL) (553.81 KB - PDF)
+slovenščina (SL) (565 KB - PDF)
 
-**First published:**
-
-26/09/2025
-
-**Last updated:**
-
-18/03/2026
+**First published:** 26/09/2025 **Last updated:** 19/05/2026
 
 [View](/sl/documents/product-information/voranigo-epar-product-information_sl.pdf)
 
-Suomi (FI) (298.02 KB - PDF)
+Suomi (FI) (295.04 KB - PDF)
 
-**First published:**
-
-26/09/2025
-
-**Last updated:**
-
-18/03/2026
+**First published:** 26/09/2025 **Last updated:** 19/05/2026
 
 [View](/fi/documents/product-information/voranigo-epar-product-information_fi.pdf)
 
-svenska (SV) (275.64 KB - PDF)
+svenska (SV) (283.22 KB - PDF)
 
-**First published:**
-
-26/09/2025
-
-**Last updated:**
-
-18/03/2026
+**First published:** 26/09/2025 **Last updated:** 19/05/2026
 
 [View](/sv/documents/product-information/voranigo-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000323236 27/02/2026
+**Latest procedure affecting product information:** VR/0000316249
+
+10/04/2026
 
 icon globe
 
@@ -622,208 +434,174 @@ English (EN) (49.23 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/voranigo-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-494)
+[Other languages (24)](#file-language-dropdown-964)
 
 български (BG) (66.96 KB - PDF)
 
-**First published:**
-
-26/09/2025
+**First published:** 26/09/2025
 
 [View](/bg/documents/all-authorised-presentations/voranigo-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (43.28 KB - PDF)
 
-**First published:**
-
-26/09/2025
+**First published:** 26/09/2025
 
 [View](/es/documents/all-authorised-presentations/voranigo-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (90.5 KB - PDF)
 
-**First published:**
-
-26/09/2025
+**First published:** 26/09/2025
 
 [View](/cs/documents/all-authorised-presentations/voranigo-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (41.11 KB - PDF)
 
-**First published:**
-
-26/09/2025
+**First published:** 26/09/2025
 
 [View](/da/documents/all-authorised-presentations/voranigo-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (75.42 KB - PDF)
 
-**First published:**
-
-26/09/2025
+**First published:** 26/09/2025
 
 [View](/de/documents/all-authorised-presentations/voranigo-epar-all-authorised-presentations_de.pdf)
 
 eesti keel (ET) (52.41 KB - PDF)
 
-**First published:**
-
-26/09/2025
+**First published:** 26/09/2025
 
 [View](/et/documents/all-authorised-presentations/voranigo-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (60.95 KB - PDF)
 
-**First published:**
-
-26/09/2025
+**First published:** 26/09/2025
 
 [View](/el/documents/all-authorised-presentations/voranigo-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (45.98 KB - PDF)
 
-**First published:**
-
-26/09/2025
+**First published:** 26/09/2025
 
 [View](/fr/documents/all-authorised-presentations/voranigo-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (63.17 KB - PDF)
 
-**First published:**
-
-26/09/2025
+**First published:** 26/09/2025
 
 [View](/hr/documents/all-authorised-presentations/voranigo-epar-all-authorised-presentations_hr.pdf)
 
 íslenska (IS) (42.96 KB - PDF)
 
-**First published:**
-
-26/09/2025
+**First published:** 26/09/2025
 
 [View](/is/documents/all-authorised-presentations/voranigo-epar-all-authorised-presentations_is.pdf)
 
 italiano (IT) (74.26 KB - PDF)
 
-**First published:**
-
-26/09/2025
+**First published:** 26/09/2025
 
 [View](/it/documents/all-authorised-presentations/voranigo-epar-all-authorised-presentations_it.pdf)
 
 latviešu valoda (LV) (58.94 KB - PDF)
 
-**First published:**
-
-26/09/2025
+**First published:** 26/09/2025
 
 [View](/lv/documents/all-authorised-presentations/voranigo-epar-all-authorised-presentations_lv.pdf)
 
 lietuvių kalba (LT) (60.63 KB - PDF)
 
-**First published:**
-
-26/09/2025
+**First published:** 26/09/2025
 
 [View](/lt/documents/all-authorised-presentations/voranigo-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (51.14 KB - PDF)
 
-**First published:**
-
-26/09/2025
+**First published:** 26/09/2025
 
 [View](/hu/documents/all-authorised-presentations/voranigo-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (68.29 KB - PDF)
 
-**First published:**
-
-26/09/2025
+**First published:** 26/09/2025
 
 [View](/mt/documents/all-authorised-presentations/voranigo-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (51.12 KB - PDF)
 
-**First published:**
-
-26/09/2025
+**First published:** 26/09/2025
 
 [View](/nl/documents/all-authorised-presentations/voranigo-epar-all-authorised-presentations_nl.pdf)
 
 norsk (NO) (52.48 KB - PDF)
 
-**First published:**
-
-26/09/2025
+**First published:** 26/09/2025
 
 [View](/no/documents/all-authorised-presentations/voranigo-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (52.63 KB - PDF)
 
-**First published:**
-
-26/09/2025
+**First published:** 26/09/2025
 
 [View](/pl/documents/all-authorised-presentations/voranigo-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (46.58 KB - PDF)
 
-**First published:**
-
-26/09/2025
+**First published:** 26/09/2025
 
 [View](/pt/documents/all-authorised-presentations/voranigo-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (89.56 KB - PDF)
 
-**First published:**
-
-26/09/2025
+**First published:** 26/09/2025
 
 [View](/ro/documents/all-authorised-presentations/voranigo-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (58.92 KB - PDF)
 
-**First published:**
-
-26/09/2025
+**First published:** 26/09/2025
 
 [View](/sk/documents/all-authorised-presentations/voranigo-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (68.23 KB - PDF)
 
-**First published:**
-
-26/09/2025
+**First published:** 26/09/2025
 
 [View](/sl/documents/all-authorised-presentations/voranigo-epar-all-authorised-presentations_sl.pdf)
 
 Suomi (FI) (51.36 KB - PDF)
 
-**First published:**
-
-26/09/2025
+**First published:** 26/09/2025
 
 [View](/fi/documents/all-authorised-presentations/voranigo-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (50.76 KB - PDF)
 
-**First published:**
-
-26/09/2025
+**First published:** 26/09/2025
 
 [View](/sv/documents/all-authorised-presentations/voranigo-epar-all-authorised-presentations_sv.pdf)
 
 ## Product details
 
-Name of medicine Voranigo Active substance vorasidenib International non-proprietary name (INN) or common name vorasidenib Therapeutic area (MeSH)
+Name of medicine
+
+Voranigo
+
+Active substance
+
+vorasidenib
+
+International non-proprietary name (INN) or common name
+
+vorasidenib
+
+Therapeutic area (MeSH)
 
 - Oligodendroglioma
 - Astrocytoma
 
-Anatomical therapeutic chemical (ATC) code L01XM04
+Anatomical therapeutic chemical (ATC) code
+
+L01XM04
 
 ### Pharmacotherapeutic group
 
@@ -835,7 +613,9 @@ Voranigo as monotherapy is indicated for the treatment of predominantly non-enha
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/006284
+EMA product number
+
+EMEA/H/C/006284
 
 Additional monitoring
 
@@ -851,7 +631,17 @@ Les Laboratoires Servier
 
 50 rue Carnot
 
-Opinion adopted 24/07/2025 Marketing authorisation issued 17/09/2025 Revision 1
+Opinion adopted
+
+24/07/2025
+
+Marketing authorisation issued
+
+17/09/2025
+
+Revision
+
+2
 
 ## Assessment history
 
@@ -863,9 +653,9 @@ Collapse section
 
 Voranigo : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (135 KB - PDF)
+English (EN) (129.78 KB - PDF)
 
-**First published:** 18/03/2026
+**First published:** 18/03/2026 **Last updated:** 19/05/2026
 
 [View](/en/documents/procedural-steps-after/voranigo-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -881,9 +671,7 @@ English (EN) (119.74 KB - PDF)
 
 Voranigo : Orphan maintenance assessment report (initial authorisation)
 
-Adopted
-
-Reference Number: EMA/OD/0000159477
+Adopted Reference Number: EMA/OD/0000159477
 
 English (EN) (279.59 KB - PDF)
 
@@ -893,9 +681,7 @@ English (EN) (279.59 KB - PDF)
 
 Voranigo : EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/271829/2025
+Adopted Reference Number: EMA/271829/2025
 
 English (EN) (3.38 MB - PDF)
 
@@ -905,9 +691,7 @@ English (EN) (3.38 MB - PDF)
 
 CHMP summary of positive opinion for Voranigo
 
-Adopted
-
-Reference Number: EMA/CHMP/227935/2025
+Adopted Reference Number: EMA/CHMP/227935/2025
 
 English (EN) (162.11 KB - PDF)
 
@@ -917,14 +701,16 @@ English (EN) (162.11 KB - PDF)
 
 ## News on Voranigo
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 21-24 July 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-21-24-july-2025) 25/07/2025
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 21-24 July 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-21-24-july-2025)
+
+25/07/2025
 
 ## More information on Voranigo
 
 - [EU/3/22/2737 - orphan designation for treatment of glioma](/en/medicines/human/orphan-designations/eu-3-22-2737)
 
-**This page was last updated on** 18/03/2026
+**This page was last updated on**
+
+19/05/2026
 
 ## Share this page
-
-[Back to top](#main-content)

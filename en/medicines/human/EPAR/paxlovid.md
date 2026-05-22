@@ -1,32 +1,32 @@
 ---
-document_datetime: 2025-12-29 11:42:33
+document_datetime: 2026-05-18 16:40:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/paxlovid.html
 document_name: paxlovid.html
 version: success
-processing_time: 0.1255312
-conversion_datetime: 2025-12-31 04:43:15.534962
+processing_time: 0.1372579
+conversion_datetime: 2026-05-22 22:35:14.734177
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.20.0
+  docling-jobkit: 1.20.0
+  docling: 2.95.0
+  docling-core: 2.77.0
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.11.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
 ---
 # Paxlovid
 
 [RSS](/en/individual-human-medicine.xml/67535)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-nirmatrelvir / ritonavir Medicine Human Authorised
+nirmatrelvir / ritonavir
 
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
+Medicine Human Authorised
 
 Page contents
 
@@ -103,275 +103,141 @@ Reference Number: EMA/342276/2025
 
 English (EN) (126.09 KB - PDF)
 
-**First published:** 28/01/2022
-
-**Last updated:** 04/12/2025
+**First published:** 28/01/2022 **Last updated:** 04/12/2025
 
 [View](/en/documents/overview/paxlovid-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-285)
+[Other languages (22)](#file-language-dropdown-70)
 
 български (BG) (153.54 KB - PDF)
 
-**First published:**
-
-28/01/2022
-
-**Last updated:**
-
-04/12/2025
+**First published:** 28/01/2022 **Last updated:** 04/12/2025
 
 [View](/bg/documents/overview/paxlovid-epar-medicine-overview_bg.pdf)
 
 español (ES) (125.33 KB - PDF)
 
-**First published:**
-
-28/01/2022
-
-**Last updated:**
-
-04/12/2025
+**First published:** 28/01/2022 **Last updated:** 04/12/2025
 
 [View](/es/documents/overview/paxlovid-epar-medicine-overview_es.pdf)
 
 čeština (CS) (149.66 KB - PDF)
 
-**First published:**
-
-28/01/2022
-
-**Last updated:**
-
-04/12/2025
+**First published:** 28/01/2022 **Last updated:** 04/12/2025
 
 [View](/cs/documents/overview/paxlovid-epar-medicine-overview_cs.pdf)
 
 dansk (DA) (125.79 KB - PDF)
 
-**First published:**
-
-28/01/2022
-
-**Last updated:**
-
-04/12/2025
+**First published:** 28/01/2022 **Last updated:** 04/12/2025
 
 [View](/da/documents/overview/paxlovid-epar-medicine-overview_da.pdf)
 
 Deutsch (DE) (129.85 KB - PDF)
 
-**First published:**
-
-28/01/2022
-
-**Last updated:**
-
-04/12/2025
+**First published:** 28/01/2022 **Last updated:** 04/12/2025
 
 [View](/de/documents/overview/paxlovid-epar-medicine-overview_de.pdf)
 
 eesti keel (ET) (121.77 KB - PDF)
 
-**First published:**
-
-28/01/2022
-
-**Last updated:**
-
-04/12/2025
+**First published:** 28/01/2022 **Last updated:** 04/12/2025
 
 [View](/et/documents/overview/paxlovid-epar-medicine-overview_et.pdf)
 
 ελληνικά (EL) (152.98 KB - PDF)
 
-**First published:**
-
-28/01/2022
-
-**Last updated:**
-
-04/12/2025
+**First published:** 28/01/2022 **Last updated:** 04/12/2025
 
 [View](/el/documents/overview/paxlovid-epar-medicine-overview_el.pdf)
 
 français (FR) (126.5 KB - PDF)
 
-**First published:**
-
-28/01/2022
-
-**Last updated:**
-
-04/12/2025
+**First published:** 28/01/2022 **Last updated:** 04/12/2025
 
 [View](/fr/documents/overview/paxlovid-epar-medicine-overview_fr.pdf)
 
 hrvatski (HR) (148.56 KB - PDF)
 
-**First published:**
-
-28/01/2022
-
-**Last updated:**
-
-04/12/2025
+**First published:** 28/01/2022 **Last updated:** 04/12/2025
 
 [View](/hr/documents/overview/paxlovid-epar-medicine-overview_hr.pdf)
 
 italiano (IT) (124.6 KB - PDF)
 
-**First published:**
-
-28/01/2022
-
-**Last updated:**
-
-04/12/2025
+**First published:** 28/01/2022 **Last updated:** 04/12/2025
 
 [View](/it/documents/overview/paxlovid-epar-medicine-overview_it.pdf)
 
 latviešu valoda (LV) (155.15 KB - PDF)
 
-**First published:**
-
-28/01/2022
-
-**Last updated:**
-
-04/12/2025
+**First published:** 28/01/2022 **Last updated:** 04/12/2025
 
 [View](/lv/documents/overview/paxlovid-epar-medicine-overview_lv.pdf)
 
 lietuvių kalba (LT) (148.3 KB - PDF)
 
-**First published:**
-
-28/01/2022
-
-**Last updated:**
-
-04/12/2025
+**First published:** 28/01/2022 **Last updated:** 04/12/2025
 
 [View](/lt/documents/overview/paxlovid-epar-medicine-overview_lt.pdf)
 
 magyar (HU) (147.64 KB - PDF)
 
-**First published:**
-
-28/01/2022
-
-**Last updated:**
-
-04/12/2025
+**First published:** 28/01/2022 **Last updated:** 04/12/2025
 
 [View](/hu/documents/overview/paxlovid-epar-medicine-overview_hu.pdf)
 
 Malti (MT) (150.65 KB - PDF)
 
-**First published:**
-
-28/01/2022
-
-**Last updated:**
-
-04/12/2025
+**First published:** 28/01/2022 **Last updated:** 04/12/2025
 
 [View](/mt/documents/overview/paxlovid-epar-medicine-overview_mt.pdf)
 
 Nederlands (NL) (126.81 KB - PDF)
 
-**First published:**
-
-28/01/2022
-
-**Last updated:**
-
-04/12/2025
+**First published:** 28/01/2022 **Last updated:** 04/12/2025
 
 [View](/nl/documents/overview/paxlovid-epar-medicine-overview_nl.pdf)
 
 polski (PL) (152.6 KB - PDF)
 
-**First published:**
-
-28/01/2022
-
-**Last updated:**
-
-04/12/2025
+**First published:** 28/01/2022 **Last updated:** 04/12/2025
 
 [View](/pl/documents/overview/paxlovid-epar-medicine-overview_pl.pdf)
 
 português (PT) (126.31 KB - PDF)
 
-**First published:**
-
-28/01/2022
-
-**Last updated:**
-
-04/12/2025
+**First published:** 28/01/2022 **Last updated:** 04/12/2025
 
 [View](/pt/documents/overview/paxlovid-epar-medicine-overview_pt.pdf)
 
 română (RO) (147.09 KB - PDF)
 
-**First published:**
-
-28/01/2022
-
-**Last updated:**
-
-04/12/2025
+**First published:** 28/01/2022 **Last updated:** 04/12/2025
 
 [View](/ro/documents/overview/paxlovid-epar-medicine-overview_ro.pdf)
 
 slovenčina (SK) (149.78 KB - PDF)
 
-**First published:**
-
-28/01/2022
-
-**Last updated:**
-
-04/12/2025
+**First published:** 28/01/2022 **Last updated:** 04/12/2025
 
 [View](/sk/documents/overview/paxlovid-epar-medicine-overview_sk.pdf)
 
 slovenščina (SL) (146.12 KB - PDF)
 
-**First published:**
-
-28/01/2022
-
-**Last updated:**
-
-04/12/2025
+**First published:** 28/01/2022 **Last updated:** 04/12/2025
 
 [View](/sl/documents/overview/paxlovid-epar-medicine-overview_sl.pdf)
 
 Suomi (FI) (122.25 KB - PDF)
 
-**First published:**
-
-28/01/2022
-
-**Last updated:**
-
-04/12/2025
+**First published:** 28/01/2022 **Last updated:** 04/12/2025
 
 [View](/fi/documents/overview/paxlovid-epar-medicine-overview_fi.pdf)
 
 svenska (SV) (123.67 KB - PDF)
 
-**First published:**
-
-28/01/2022
-
-**Last updated:**
-
-04/12/2025
+**First published:** 28/01/2022 **Last updated:** 04/12/2025
 
 [View](/sv/documents/overview/paxlovid-epar-medicine-overview_sv.pdf)
 
@@ -379,9 +245,7 @@ Paxlovid : EPAR - Risk-management-plan
 
 English (EN) (2.92 MB - PDF)
 
-**First published:** 27/01/2022
-
-**Last updated:** 04/12/2025
+**First published:** 27/01/2022 **Last updated:** 04/12/2025
 
 [View](/en/documents/rmp/paxlovid-epar-risk-management-plan_en.pdf)
 
@@ -389,305 +253,161 @@ English (EN) (2.92 MB - PDF)
 
 Paxlovid : EPAR - Product Information
 
-English (EN) (713.59 KB - PDF)
+English (EN) (470.65 KB - PDF)
 
-**First published:** 28/01/2022
-
-**Last updated:** 04/12/2025
+**First published:** 28/01/2022 **Last updated:** 18/05/2026
 
 [View](/en/documents/product-information/paxlovid-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-348)
+[Other languages (24)](#file-language-dropdown-537)
 
-български (BG) (389.18 KB - PDF)
+български (BG) (625.93 KB - PDF)
 
-**First published:**
-
-28/01/2022
-
-**Last updated:**
-
-04/12/2025
+**First published:** 28/01/2022 **Last updated:** 18/05/2026
 
 [View](/bg/documents/product-information/paxlovid-epar-product-information_bg.pdf)
 
-español (ES) (366.25 KB - PDF)
+español (ES) (449.34 KB - PDF)
 
-**First published:**
-
-28/01/2022
-
-**Last updated:**
-
-04/12/2025
+**First published:** 28/01/2022 **Last updated:** 18/05/2026
 
 [View](/es/documents/product-information/paxlovid-epar-product-information_es.pdf)
 
-čeština (CS) (357.02 KB - PDF)
+čeština (CS) (540.53 KB - PDF)
 
-**First published:**
-
-28/01/2022
-
-**Last updated:**
-
-04/12/2025
+**First published:** 28/01/2022 **Last updated:** 18/05/2026
 
 [View](/cs/documents/product-information/paxlovid-epar-product-information_cs.pdf)
 
-dansk (DA) (366.37 KB - PDF)
+dansk (DA) (498.95 KB - PDF)
 
-**First published:**
-
-28/01/2022
-
-**Last updated:**
-
-04/12/2025
+**First published:** 28/01/2022 **Last updated:** 18/05/2026
 
 [View](/da/documents/product-information/paxlovid-epar-product-information_da.pdf)
 
-Deutsch (DE) (386.21 KB - PDF)
+Deutsch (DE) (530.9 KB - PDF)
 
-**First published:**
-
-28/01/2022
-
-**Last updated:**
-
-04/12/2025
+**First published:** 28/01/2022 **Last updated:** 18/05/2026
 
 [View](/de/documents/product-information/paxlovid-epar-product-information_de.pdf)
 
-eesti keel (ET) (344.83 KB - PDF)
+eesti keel (ET) (438.37 KB - PDF)
 
-**First published:**
-
-28/01/2022
-
-**Last updated:**
-
-04/12/2025
+**First published:** 28/01/2022 **Last updated:** 18/05/2026
 
 [View](/et/documents/product-information/paxlovid-epar-product-information_et.pdf)
 
-ελληνικά (EL) (411.02 KB - PDF)
+ελληνικά (EL) (638.1 KB - PDF)
 
-**First published:**
-
-28/01/2022
-
-**Last updated:**
-
-04/12/2025
+**First published:** 28/01/2022 **Last updated:** 18/05/2026
 
 [View](/el/documents/product-information/paxlovid-epar-product-information_el.pdf)
 
-français (FR) (368.37 KB - PDF)
+français (FR) (601.03 KB - PDF)
 
-**First published:**
-
-28/01/2022
-
-**Last updated:**
-
-04/12/2025
+**First published:** 28/01/2022 **Last updated:** 18/05/2026
 
 [View](/fr/documents/product-information/paxlovid-epar-product-information_fr.pdf)
 
-hrvatski (HR) (366.15 KB - PDF)
+hrvatski (HR) (599.55 KB - PDF)
 
-**First published:**
-
-28/01/2022
-
-**Last updated:**
-
-04/12/2025
+**First published:** 28/01/2022 **Last updated:** 18/05/2026
 
 [View](/hr/documents/product-information/paxlovid-epar-product-information_hr.pdf)
 
-íslenska (IS) (352.96 KB - PDF)
+íslenska (IS) (504.24 KB - PDF)
 
-**First published:**
-
-28/01/2022
-
-**Last updated:**
-
-04/12/2025
+**First published:** 28/01/2022 **Last updated:** 18/05/2026
 
 [View](/is/documents/product-information/paxlovid-epar-product-information_is.pdf)
 
-italiano (IT) (353.65 KB - PDF)
+italiano (IT) (572.06 KB - PDF)
 
-**First published:**
-
-28/01/2022
-
-**Last updated:**
-
-04/12/2025
+**First published:** 28/01/2022 **Last updated:** 18/05/2026
 
 [View](/it/documents/product-information/paxlovid-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (352.74 KB - PDF)
+latviešu valoda (LV) (573.61 KB - PDF)
 
-**First published:**
-
-28/01/2022
-
-**Last updated:**
-
-04/12/2025
+**First published:** 28/01/2022 **Last updated:** 18/05/2026
 
 [View](/lv/documents/product-information/paxlovid-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (355.71 KB - PDF)
+lietuvių kalba (LT) (570.87 KB - PDF)
 
-**First published:**
-
-28/01/2022
-
-**Last updated:**
-
-04/12/2025
+**First published:** 28/01/2022 **Last updated:** 18/05/2026
 
 [View](/lt/documents/product-information/paxlovid-epar-product-information_lt.pdf)
 
-magyar (HU) (375.54 KB - PDF)
+magyar (HU) (583.64 KB - PDF)
 
-**First published:**
-
-28/01/2022
-
-**Last updated:**
-
-04/12/2025
+**First published:** 28/01/2022 **Last updated:** 18/05/2026
 
 [View](/hu/documents/product-information/paxlovid-epar-product-information_hu.pdf)
 
-Malti (MT) (419.43 KB - PDF)
+Malti (MT) (661.9 KB - PDF)
 
-**First published:**
-
-28/01/2022
-
-**Last updated:**
-
-04/12/2025
+**First published:** 28/01/2022 **Last updated:** 18/05/2026
 
 [View](/mt/documents/product-information/paxlovid-epar-product-information_mt.pdf)
 
-Nederlands (NL) (364.93 KB - PDF)
+Nederlands (NL) (495.55 KB - PDF)
 
-**First published:**
-
-28/01/2022
-
-**Last updated:**
-
-04/12/2025
+**First published:** 28/01/2022 **Last updated:** 18/05/2026
 
 [View](/nl/documents/product-information/paxlovid-epar-product-information_nl.pdf)
 
-norsk (NO) (347.71 KB - PDF)
+norsk (NO) (474.78 KB - PDF)
 
-**First published:**
-
-28/01/2022
-
-**Last updated:**
-
-04/12/2025
+**First published:** 28/01/2022 **Last updated:** 18/05/2026
 
 [View](/no/documents/product-information/paxlovid-epar-product-information_no.pdf)
 
-polski (PL) (391.4 KB - PDF)
+polski (PL) (581.15 KB - PDF)
 
-**First published:**
-
-28/01/2022
-
-**Last updated:**
-
-04/12/2025
+**First published:** 28/01/2022 **Last updated:** 18/05/2026
 
 [View](/pl/documents/product-information/paxlovid-epar-product-information_pl.pdf)
 
-português (PT) (372.55 KB - PDF)
+português (PT) (518.12 KB - PDF)
 
-**First published:**
-
-28/01/2022
-
-**Last updated:**
-
-04/12/2025
+**First published:** 28/01/2022 **Last updated:** 18/05/2026
 
 [View](/pt/documents/product-information/paxlovid-epar-product-information_pt.pdf)
 
-română (RO) (374.52 KB - PDF)
+română (RO) (590.33 KB - PDF)
 
-**First published:**
-
-28/01/2022
-
-**Last updated:**
-
-04/12/2025
+**First published:** 28/01/2022 **Last updated:** 18/05/2026
 
 [View](/ro/documents/product-information/paxlovid-epar-product-information_ro.pdf)
 
-slovenčina (SK) (379.25 KB - PDF)
+slovenčina (SK) (623.29 KB - PDF)
 
-**First published:**
-
-28/01/2022
-
-**Last updated:**
-
-04/12/2025
+**First published:** 28/01/2022 **Last updated:** 18/05/2026
 
 [View](/sk/documents/product-information/paxlovid-epar-product-information_sk.pdf)
 
-slovenščina (SL) (352.98 KB - PDF)
+slovenščina (SL) (557.29 KB - PDF)
 
-**First published:**
-
-28/01/2022
-
-**Last updated:**
-
-04/12/2025
+**First published:** 28/01/2022 **Last updated:** 18/05/2026
 
 [View](/sl/documents/product-information/paxlovid-epar-product-information_sl.pdf)
 
-Suomi (FI) (356.26 KB - PDF)
+Suomi (FI) (480.46 KB - PDF)
 
-**First published:**
-
-28/01/2022
-
-**Last updated:**
-
-04/12/2025
+**First published:** 28/01/2022 **Last updated:** 18/05/2026
 
 [View](/fi/documents/product-information/paxlovid-epar-product-information_fi.pdf)
 
-svenska (SV) (347.86 KB - PDF)
+svenska (SV) (496.99 KB - PDF)
 
-**First published:**
-
-28/01/2022
-
-**Last updated:**
-
-04/12/2025
+**First published:** 28/01/2022 **Last updated:** 18/05/2026
 
 [View](/sv/documents/product-information/paxlovid-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** II/0061/G 26/11/2025
+**Latest procedure affecting product information:** VR/0000310898
+
+16/04/2026
 
 icon globe
 
@@ -707,305 +427,163 @@ Paxlovid : EPAR - All Authorised presentations
 
 English (EN) (36.74 KB - PDF)
 
-**First published:** 28/01/2022
-
-**Last updated:** 04/12/2025
+**First published:** 28/01/2022 **Last updated:** 04/12/2025
 
 [View](/en/documents/all-authorised-presentations/paxlovid-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-293)
+[Other languages (24)](#file-language-dropdown-279)
 
 български (BG) (38.83 KB - PDF)
 
-**First published:**
-
-28/01/2022
-
-**Last updated:**
-
-04/12/2025
+**First published:** 28/01/2022 **Last updated:** 04/12/2025
 
 [View](/bg/documents/all-authorised-presentations/paxlovid-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (36.68 KB - PDF)
 
-**First published:**
-
-28/01/2022
-
-**Last updated:**
-
-04/12/2025
+**First published:** 28/01/2022 **Last updated:** 04/12/2025
 
 [View](/es/documents/all-authorised-presentations/paxlovid-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (36.84 KB - PDF)
 
-**First published:**
-
-28/01/2022
-
-**Last updated:**
-
-04/12/2025
+**First published:** 28/01/2022 **Last updated:** 04/12/2025
 
 [View](/cs/documents/all-authorised-presentations/paxlovid-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (37.18 KB - PDF)
 
-**First published:**
-
-28/01/2022
-
-**Last updated:**
-
-04/12/2025
+**First published:** 28/01/2022 **Last updated:** 04/12/2025
 
 [View](/da/documents/all-authorised-presentations/paxlovid-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (38.41 KB - PDF)
 
-**First published:**
-
-28/01/2022
-
-**Last updated:**
-
-04/12/2025
+**First published:** 28/01/2022 **Last updated:** 04/12/2025
 
 [View](/de/documents/all-authorised-presentations/paxlovid-epar-all-authorised-presentations_de.pdf)
 
 eesti keel (ET) (37.29 KB - PDF)
 
-**First published:**
-
-28/01/2022
-
-**Last updated:**
-
-04/12/2025
+**First published:** 28/01/2022 **Last updated:** 04/12/2025
 
 [View](/et/documents/all-authorised-presentations/paxlovid-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (38.22 KB - PDF)
 
-**First published:**
-
-28/01/2022
-
-**Last updated:**
-
-04/12/2025
+**First published:** 28/01/2022 **Last updated:** 04/12/2025
 
 [View](/el/documents/all-authorised-presentations/paxlovid-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (36.57 KB - PDF)
 
-**First published:**
-
-28/01/2022
-
-**Last updated:**
-
-04/12/2025
+**First published:** 28/01/2022 **Last updated:** 04/12/2025
 
 [View](/fr/documents/all-authorised-presentations/paxlovid-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (36.47 KB - PDF)
 
-**First published:**
-
-28/01/2022
-
-**Last updated:**
-
-04/12/2025
+**First published:** 28/01/2022 **Last updated:** 04/12/2025
 
 [View](/hr/documents/all-authorised-presentations/paxlovid-epar-all-authorised-presentations_hr.pdf)
 
 íslenska (IS) (37.21 KB - PDF)
 
-**First published:**
-
-28/01/2022
-
-**Last updated:**
-
-04/12/2025
+**First published:** 28/01/2022 **Last updated:** 04/12/2025
 
 [View](/is/documents/all-authorised-presentations/paxlovid-epar-all-authorised-presentations_is.pdf)
 
 italiano (IT) (36.59 KB - PDF)
 
-**First published:**
-
-28/01/2022
-
-**Last updated:**
-
-04/12/2025
+**First published:** 28/01/2022 **Last updated:** 04/12/2025
 
 [View](/it/documents/all-authorised-presentations/paxlovid-epar-all-authorised-presentations_it.pdf)
 
 latviešu valoda (LV) (36.79 KB - PDF)
 
-**First published:**
-
-28/01/2022
-
-**Last updated:**
-
-04/12/2025
+**First published:** 28/01/2022 **Last updated:** 04/12/2025
 
 [View](/lv/documents/all-authorised-presentations/paxlovid-epar-all-authorised-presentations_lv.pdf)
 
 lietuvių kalba (LT) (37.84 KB - PDF)
 
-**First published:**
-
-28/01/2022
-
-**Last updated:**
-
-04/12/2025
+**First published:** 28/01/2022 **Last updated:** 04/12/2025
 
 [View](/lt/documents/all-authorised-presentations/paxlovid-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (38.33 KB - PDF)
 
-**First published:**
-
-28/01/2022
-
-**Last updated:**
-
-04/12/2025
+**First published:** 28/01/2022 **Last updated:** 04/12/2025
 
 [View](/hu/documents/all-authorised-presentations/paxlovid-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (37.57 KB - PDF)
 
-**First published:**
-
-28/01/2022
-
-**Last updated:**
-
-04/12/2025
+**First published:** 28/01/2022 **Last updated:** 04/12/2025
 
 [View](/mt/documents/all-authorised-presentations/paxlovid-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (36.69 KB - PDF)
 
-**First published:**
-
-28/01/2022
-
-**Last updated:**
-
-04/12/2025
+**First published:** 28/01/2022 **Last updated:** 04/12/2025
 
 [View](/nl/documents/all-authorised-presentations/paxlovid-epar-all-authorised-presentations_nl.pdf)
 
 norsk (NO) (37.85 KB - PDF)
 
-**First published:**
-
-28/01/2022
-
-**Last updated:**
-
-04/12/2025
+**First published:** 28/01/2022 **Last updated:** 04/12/2025
 
 [View](/no/documents/all-authorised-presentations/paxlovid-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (37.74 KB - PDF)
 
-**First published:**
-
-28/01/2022
-
-**Last updated:**
-
-04/12/2025
+**First published:** 28/01/2022 **Last updated:** 04/12/2025
 
 [View](/pl/documents/all-authorised-presentations/paxlovid-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (36.83 KB - PDF)
 
-**First published:**
-
-28/01/2022
-
-**Last updated:**
-
-04/12/2025
+**First published:** 28/01/2022 **Last updated:** 04/12/2025
 
 [View](/pt/documents/all-authorised-presentations/paxlovid-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (36.86 KB - PDF)
 
-**First published:**
-
-28/01/2022
-
-**Last updated:**
-
-04/12/2025
+**First published:** 28/01/2022 **Last updated:** 04/12/2025
 
 [View](/ro/documents/all-authorised-presentations/paxlovid-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (37.72 KB - PDF)
 
-**First published:**
-
-28/01/2022
-
-**Last updated:**
-
-04/12/2025
+**First published:** 28/01/2022 **Last updated:** 04/12/2025
 
 [View](/sk/documents/all-authorised-presentations/paxlovid-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (37.12 KB - PDF)
 
-**First published:**
-
-28/01/2022
-
-**Last updated:**
-
-04/12/2025
+**First published:** 28/01/2022 **Last updated:** 04/12/2025
 
 [View](/sl/documents/all-authorised-presentations/paxlovid-epar-all-authorised-presentations_sl.pdf)
 
 Suomi (FI) (36.82 KB - PDF)
 
-**First published:**
-
-28/01/2022
-
-**Last updated:**
-
-04/12/2025
+**First published:** 28/01/2022 **Last updated:** 04/12/2025
 
 [View](/fi/documents/all-authorised-presentations/paxlovid-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (36.04 KB - PDF)
 
-**First published:**
-
-28/01/2022
-
-**Last updated:**
-
-04/12/2025
+**First published:** 28/01/2022 **Last updated:** 04/12/2025
 
 [View](/sv/documents/all-authorised-presentations/paxlovid-epar-all-authorised-presentations_sv.pdf)
 
 ## Product details
 
-Name of medicine Paxlovid Active substance
+Name of medicine
+
+Paxlovid
+
+Active substance
 
 - nirmatrelvir
 - ritonavir
@@ -1015,7 +593,13 @@ International non-proprietary name (INN) or common name
 - nirmatrelvir
 - ritonavir
 
-Therapeutic area (MeSH) COVID-19 virus infection Anatomical therapeutic chemical (ATC) code J05AE30
+Therapeutic area (MeSH)
+
+COVID-19 virus infection
+
+Anatomical therapeutic chemical (ATC) code
+
+J05AE30
 
 ### Therapeutic indication
 
@@ -1023,13 +607,27 @@ Paxlovid is indicated for the treatment of coronavirus disease 2019 (COVID-19) i
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/005973 Marketing authorisation holder
+EMA product number
+
+EMEA/H/C/005973
+
+Marketing authorisation holder
 
 Pfizer Europe MA EEIG
 
 Boulevard de la Plaine 17
 
-Opinion adopted 27/01/2022 Marketing authorisation issued 28/01/2022 Revision 29
+Opinion adopted
+
+27/01/2022
+
+Marketing authorisation issued
+
+28/01/2022
+
+Revision
+
+30
 
 ## Assessment history
 
@@ -1041,11 +639,9 @@ Collapse section
 
 Paxlovid : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (148.62 KB - PDF)
+English (EN) (174.68 KB - PDF)
 
-**First published:** 14/02/2025
-
-**Last updated:** 04/12/2025
+**First published:** 14/02/2025 **Last updated:** 18/05/2026
 
 [View](/en/documents/procedural-steps-after/paxlovid-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1053,17 +649,13 @@ Paxlovid : EPAR - Procedural steps taken and scientific information after author
 
 English (EN) (307.38 KB - PDF)
 
-**First published:** 29/04/2022
-
-**Last updated:** 04/12/2025
+**First published:** 29/04/2022 **Last updated:** 04/12/2025
 
 [View](/en/documents/procedural-steps-after/paxlovid-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 Paxlovid-VR-0000262540 : EPAR - Assessment report - Variation
 
-Adopted
-
-Reference Number: EMADOC-1700519818-2050861
+Adopted Reference Number: EMADOC-1700519818-2050861
 
 English (EN) (1.82 MB - PDF)
 
@@ -1081,9 +673,7 @@ English (EN) (132.66 KB - PDF)
 
 Paxlovid-H-C-005973-II-0061-G : EPAR - Assessment report - Variation
 
-Adopted
-
-Reference Number: EMA/CHMP/308349/2025
+Adopted Reference Number: EMA/CHMP/308349/2025
 
 English (EN) (3.84 MB - PDF)
 
@@ -1093,9 +683,7 @@ English (EN) (3.84 MB - PDF)
 
 CHMP post-authorisation summary of positive opinion for Paxlovid (II-61-G)
 
-Adopted
-
-Reference Number: EMA/CHMP/308348/2025
+Adopted Reference Number: EMA/CHMP/308348/2025
 
 English (EN) (129.03 KB - PDF)
 
@@ -1105,9 +693,7 @@ English (EN) (129.03 KB - PDF)
 
 Paxlovid-H-C-005973-P46-024 : EPAR - Assessment report
 
-Adopted
-
-Reference Number: EMA/53726/2025
+Adopted Reference Number: EMA/53726/2025
 
 English (EN) (627.83 KB - PDF)
 
@@ -1117,9 +703,7 @@ English (EN) (627.83 KB - PDF)
 
 Paxlovid-H-C-005973-P46-023 : EPAR - Assessment report
 
-Adopted
-
-Reference Number: EMA/24837/2025
+Adopted Reference Number: EMA/24837/2025
 
 English (EN) (348.92 KB - PDF)
 
@@ -1129,9 +713,7 @@ English (EN) (348.92 KB - PDF)
 
 Paxlovid-H-C-005973-P46-022 : EPAR - Assessment report
 
-Adopted
-
-Reference Number: EMA/447042/2024
+Adopted Reference Number: EMA/447042/2024
 
 English (EN) (1.22 MB - PDF)
 
@@ -1141,9 +723,7 @@ English (EN) (1.22 MB - PDF)
 
 Paxlovid-H-C-005973-P46-021 : EPAR - Assessment report
 
-Adopted
-
-Reference Number: EMA/303746/2024
+Adopted Reference Number: EMA/303746/2024
 
 English (EN) (1.02 MB - PDF)
 
@@ -1153,9 +733,7 @@ English (EN) (1.02 MB - PDF)
 
 Paxlovid-H-C-005973-II-0042 : EPAR - Assessment report - variation
 
-Adopted
-
-Reference Number: EMA/CHMP/214389/2023
+Adopted Reference Number: EMA/CHMP/214389/2023
 
 English (EN) (1.29 MB - PDF)
 
@@ -1177,23 +755,17 @@ English (EN) (140.35 KB - PDF)
 
 Paxlovid : EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/95110/2022 Rev. 1
+Adopted Reference Number: EMA/95110/2022 Rev. 1
 
 English (EN) (5.44 MB - PDF)
 
-**First published:** 18/02/2022
-
-**Last updated:** 24/02/2022
+**First published:** 18/02/2022 **Last updated:** 24/02/2022
 
 [View](/en/documents/assessment-report/paxlovid-epar-public-assessment-report_en.pdf)
 
 CHMP summary of positive opinion for Paxlovid
 
-Adopted
-
-Reference Number: EMA/CHMP/18383/2022
+Adopted Reference Number: EMA/CHMP/18383/2022
 
 English (EN) (129.01 KB - PDF)
 
@@ -1201,35 +773,47 @@ English (EN) (129.01 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-paxlovid_en.pdf)
 
-#### News on Paxlovid
+## News on Paxlovid
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 13-16 October 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-13-16-october-2025) 17/10/2025
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 13-16 October 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-13-16-october-2025)
 
-[Meeting highlights from the Pharmacovigilance Risk Assessment Committee (PRAC) 5-8 February 2024](/en/news/meeting-highlights-pharmacovigilance-risk-assessment-committee-prac-5-8-february-2024) 09/02/2024
+17/10/2025
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 23-26 January 2023](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-23-26-january-2023) 27/01/2023
+[Meeting highlights from the Pharmacovigilance Risk Assessment Committee (PRAC) 5-8 February 2024](/en/news/meeting-highlights-pharmacovigilance-risk-assessment-committee-prac-5-8-february-2024)
 
-[ETF warns that monoclonal antibodies may not be effective against emerging strains of SARS-CoV-2](/en/news/etf-warns-monoclonal-antibodies-may-not-be-effective-against-emerging-strains-sars-cov-2) 09/12/2022
+09/02/2024
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 24-27 January 2022](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-24-27-january-2022) 28/01/2022
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 23-26 January 2023](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-23-26-january-2023)
 
-[COVID-19: EMA recommends conditional marketing authorisation for Paxlovid](/en/news/covid-19-ema-recommends-conditional-marketing-authorisation-paxlovid) 27/01/2022
+27/01/2023
 
-#### More information on Paxlovid
+[ETF warns that monoclonal antibodies may not be effective against emerging strains of SARS-CoV-2](/en/news/etf-warns-monoclonal-antibodies-may-not-be-effective-against-emerging-strains-sars-cov-2)
+
+09/12/2022
+
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 24-27 January 2022](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-24-27-january-2022)
+
+28/01/2022
+
+[COVID-19: EMA recommends conditional marketing authorisation for Paxlovid](/en/news/covid-19-ema-recommends-conditional-marketing-authorisation-paxlovid)
+
+27/01/2022
+
+## More information on Paxlovid
 
 - [EMA/PE/0000225184 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/ema-pe-0000225184)
 - [Paxlovid - direct healthcare professional communication (DHPC)](/en/medicines/dhpc/paxlovid)
+- [A standing cohort to understand the characteristics of patients with COVID-19 and contextualize the COVID-19 complication and safety events of interests using US OPTUM EHR data - post-authorisation study](https://catalogues.ema.europa.eu/study/48655)
 - [Pregnancy and Infant Outcomes Following Exposure to PAXLOVID: A Post-Authorization Safety Study - post-authorisation study](https://catalogues.ema.europa.eu/study/106322)
 - [Post-marketing Surveillance Study of the Effectiveness and Safety of new Oral Antivirals for outpatients with mild-moderate COVID-19. (ESOA-19) - post-authorisation study](https://catalogues.ema.europa.eu/study/49575)
-- [A standing cohort to understand the characteristics of patients with COVID-19 and contextualize the COVID-19 complication and safety events of interests using US OPTUM EHR data - post-authorisation study](https://catalogues.ema.europa.eu/study/48655)
 - [A Multicenter, Retrospective, Observational Study Using Real-world Data to Describe the Safety, Treatment Pattern and Effectiveness of Nirmatrelvir/Ritonavir among Patients treated with Nirmatrelvir/Ritonavir in China - post-authorisation study](https://catalogues.ema.europa.eu/study/103410)
 - [Viral SARS-CoV-2 rebounds in commercial pharmacy-based SARS-CoV-2 PCR testing - post-authorisation study](https://catalogues.ema.europa.eu/study/105624)
 - [Safety of Paxlovid During Pregnancy - post-authorisation study](https://catalogues.ema.europa.eu/study/50118)
 - [Safety of Paxlovid Among Patients with Moderate or Severe Hepatic or Renal Impairment - post-authorisation study](https://catalogues.ema.europa.eu/study/50124)
 - [A Cohort Study to Evaluate the Real-World Utilization and Effectiveness of Bebtelovimab Compared to Paxlovid among Patients with Mild-to-Moderate COVID-19 Who Are at High Risk for Progressing to Severe Illness (J2X-MC-B003) - post-authorisation study](https://catalogues.ema.europa.eu/study/50701)
 
-**This page was last updated on** 04/12/2025
+**This page was last updated on**
+
+18/05/2026
 
 ## Share this page
-
-[Back to top](#main-content)

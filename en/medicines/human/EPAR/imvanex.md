@@ -1,32 +1,108 @@
 ---
-document_datetime: 2025-12-29 13:27:59
+document_datetime: 2026-05-18 11:02:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/imvanex.html
 document_name: imvanex.html
 version: success
-processing_time: 0.1218745
-conversion_datetime: 2025-12-30 01:36:26.928208
+processing_time: 0.1156071
+conversion_datetime: 2026-05-22 07:05:47.861307
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.20.0
+  docling-jobkit: 1.20.0
+  docling: 2.95.0
+  docling-core: 2.77.0
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.11.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
 ---
+# Search
+
+- [Medicines](/en/medicines)
+    - [Find medicine](/en/medicines)
+    - [Therapeutic areas: latest updates](/en/medicines/therapeutic-areas-latest-updates)
+    - [Download medicine data](/en/medicines/download-medicine-data)
+    - [What we publish on medicines and when](/en/medicines/what-we-publish-medicines-when)
+    - [Medicines under evaluation](/en/medicines/medicines-human-use-under-evaluation)
+    - [National registers](/en/medicines/national-registers-authorised-medicines)
+- [Human regulatory](/en/human-regulatory-overview)
+    - [Overview](/en/human-regulatory-overview)
+    - [Research and development](/en/human-regulatory-overview/research-development)
+    - [Marketing authorisation](/en/human-regulatory-overview/marketing-authorisation)
+    - [Post-authorisation](/en/human-regulatory-overview/post-authorisation)
+    - [Medical devices](/en/human-regulatory-overview/medical-devices)
+    - [Herbal products](/en/human-regulatory-overview/herbal-medicinal-products)
+- [Veterinary regulatory](/en/veterinary-regulatory-overview)
+    - [Overview](/en/veterinary-regulatory-overview)
+    - [Research and development](/en/veterinary-regulatory-overview/research-development-veterinary-medicines)
+    - [Marketing authorisation](/en/veterinary-regulatory-overview/marketing-authorisation-veterinary-medicines)
+    - [Post-authorisation](/en/veterinary-regulatory-overview/post-authorisation-veterinary-medicines)
+- [Committees](/en/committees)
+    - [Overview](/en/committees)
+    - [How the committees work](/en/committees/how-committees-work)
+    - [CHMP](/en/committees/committee-medicinal-products-human-use-chmp)
+    - [CVMP](/en/committees/committee-veterinary-medicinal-products-cvmp)
+    - [PRAC](/en/committees/pharmacovigilance-risk-assessment-committee-prac)
+    - [COMP](/en/committees/committee-orphan-medicinal-products-comp)
+    - [HMPC](/en/committees/committee-herbal-medicinal-products-hmpc)
+    - [CAT](/en/committees/committee-advanced-therapies-cat)
+    - [PDCO](/en/committees/paediatric-committee-pdco)
+    - [Working parties and other groups](/en/committees/working-parties-other-groups)
+- [News &amp; events](/en/news-events)
+    - [Overview](/en/news-events)
+    - [News](/en/news)
+    - [Events](/en/events/upcoming-events)
+    - [What's new](/en/news-events/whats-new)
+    - [Committee highlights](/en/news-events/committee-highlights)
+    - [Publications](/en/news-and-events/publications)
+    - [Press and social media](/en/news-events/press-social-media)
+    - [Podcast: Inside EMA](/en/news-events/podcast-inside-ema)
+    - [EMA Campaigns](/en/news-events/ema-campaigns)
+    - [Open consultations](/en/news-events/open-consultations)
+    - [RSS feeds](/en/news-events/rss-feeds)
+- [Partners &amp; networks](/en/partners-networks)
+    - [Overview](/en/partners-networks)
+    - [EU partners](/en/partners-networks/eu-partners)
+    - [International activities](/en/partners-networks/international-activities)
+    - [Patients and consumers](/en/partners-networks/patients-consumers)
+    - [Healthcare professionals](/en/partners-networks/healthcare-professionals)
+    - [Academia](/en/partners-networks/academia)
+    - [Pharmaceutical industry](/en/partners-networks/pharmaceutical-industry)
+    - [Networks](/en/partners-networks/networks)
+    - [Health technology assessment bodies](/en/partners-networks/health-technology-assessment-bodies)
+    - [One Health approach](/en/partners-networks/one-health-approach)
+    - [Animal health practitioners](/en/partners-networks/animal-health-practitioners)
+    - [One substance - one assessment](/en/partners-networks/one-substance-one-assessment-osoa-eu-collaboration-chemicals-related-data)
+- [About us](/en/about-us)
+    - [Overview](/en/about-us)
+    - [What we do](/en/about-us/what-we-do)
+    - [Who we are](/en/about-us/who-we-are)
+    - [How we work](/en/about-us/how-we-work)
+    - [Fees](/en/about-us/fees-payable-european-medicines-agency)
+    - [Support to SMEs](/en/about-us/support-smes)
+    - [Annual reports and work programmes](/en/about-us/annual-reports-work-programmes)
+    - [History of EMA](/en/about-us/history-ema)
+    - [Careers](/en/about-us/careers)
+    - [Procurement](/en/about-us/procurement-grants)
+    - [About this website](/en/about-us/about-website)
+    - [Data protection and privacy](/en/about-us/data-protection-privacy-ema)
+    - [Contacts](/en/about-us/contacts-european-medicines-agency)
+
+1. [Home](/en/homepage)
+2. [Medicines](https://www.ema.europa.eu/en/medicines)
+3. Imvanex
+
 # Imvanex
 
 [RSS](/en/individual-human-medicine.xml/65501)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-smallpox and monkeypox vaccine (Live Modified Vaccinia Virus Ankara) Medicine Human Authorised
+smallpox and monkeypox vaccine (Live Modified Vaccinia Virus Ankara)
 
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
+Medicine Human Authorised
 
 Page contents
 
@@ -121,285 +197,149 @@ Imvanex : EPAR - Medicine overview
 
 English (EN) (126.18 KB - PDF)
 
-**First published:** 16/08/2013
-
-**Last updated:** 20/09/2024
+**First published:** 16/08/2013 **Last updated:** 20/09/2024
 
 [View](/en/documents/overview/imvanex-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-307)
+[Other languages (22)](#file-language-dropdown-736)
 
 български (BG) (141.3 KB - PDF)
 
-**First published:**
-
-16/08/2013
-
-**Last updated:**
-
-16/10/2024
+**First published:** 16/08/2013 **Last updated:** 16/10/2024
 
 [View](/bg/documents/overview/imvanex-epar-medicine-overview_bg.pdf)
 
 español (ES) (115.5 KB - PDF)
 
-**First published:**
-
-16/08/2013
-
-**Last updated:**
-
-16/10/2024
+**First published:** 16/08/2013 **Last updated:** 16/10/2024
 
 [View](/es/documents/overview/imvanex-epar-medicine-overview_es.pdf)
 
 čeština (CS) (138.64 KB - PDF)
 
-**First published:**
-
-16/08/2013
-
-**Last updated:**
-
-16/10/2024
+**First published:** 16/08/2013 **Last updated:** 16/10/2024
 
 [View](/cs/documents/overview/imvanex-epar-medicine-overview_cs.pdf)
 
 dansk (DA) (115.49 KB - PDF)
 
-**First published:**
-
-16/08/2013
-
-**Last updated:**
-
-16/10/2024
+**First published:** 16/08/2013 **Last updated:** 16/10/2024
 
 [View](/da/documents/overview/imvanex-epar-medicine-overview_da.pdf)
 
 Deutsch (DE) (119.7 KB - PDF)
 
-**First published:**
-
-16/08/2013
-
-**Last updated:**
-
-16/10/2024
+**First published:** 16/08/2013 **Last updated:** 16/10/2024
 
 [View](/de/documents/overview/imvanex-epar-medicine-overview_de.pdf)
 
 eesti keel (ET) (113.71 KB - PDF)
 
-**First published:**
-
-16/08/2013
-
-**Last updated:**
-
-16/10/2024
+**First published:** 16/08/2013 **Last updated:** 16/10/2024
 
 [View](/et/documents/overview/imvanex-epar-medicine-overview_et.pdf)
 
 ελληνικά (EL) (148.87 KB - PDF)
 
-**First published:**
-
-16/08/2013
-
-**Last updated:**
-
-16/10/2024
+**First published:** 16/08/2013 **Last updated:** 16/10/2024
 
 [View](/el/documents/overview/imvanex-epar-medicine-overview_el.pdf)
 
 français (FR) (117.06 KB - PDF)
 
-**First published:**
-
-16/08/2013
-
-**Last updated:**
-
-16/10/2024
+**First published:** 16/08/2013 **Last updated:** 16/10/2024
 
 [View](/fr/documents/overview/imvanex-epar-medicine-overview_fr.pdf)
 
 hrvatski (HR) (137.96 KB - PDF)
 
-**First published:**
-
-16/08/2013
-
-**Last updated:**
-
-16/10/2024
+**First published:** 16/08/2013 **Last updated:** 16/10/2024
 
 [View](/hr/documents/overview/imvanex-epar-medicine-overview_hr.pdf)
 
 italiano (IT) (114.9 KB - PDF)
 
-**First published:**
-
-16/08/2013
-
-**Last updated:**
-
-16/10/2024
+**First published:** 16/08/2013 **Last updated:** 16/10/2024
 
 [View](/it/documents/overview/imvanex-epar-medicine-overview_it.pdf)
 
 latviešu valoda (LV) (146.69 KB - PDF)
 
-**First published:**
-
-16/08/2013
-
-**Last updated:**
-
-16/10/2024
+**First published:** 16/08/2013 **Last updated:** 16/10/2024
 
 [View](/lv/documents/overview/imvanex-epar-medicine-overview_lv.pdf)
 
 lietuvių kalba (LT) (147.92 KB - PDF)
 
-**First published:**
-
-16/08/2013
-
-**Last updated:**
-
-16/10/2024
+**First published:** 16/08/2013 **Last updated:** 16/10/2024
 
 [View](/lt/documents/overview/imvanex-epar-medicine-overview_lt.pdf)
 
 magyar (HU) (138.71 KB - PDF)
 
-**First published:**
-
-16/08/2013
-
-**Last updated:**
-
-16/10/2024
+**First published:** 16/08/2013 **Last updated:** 16/10/2024
 
 [View](/hu/documents/overview/imvanex-epar-medicine-overview_hu.pdf)
 
 Malti (MT) (149.58 KB - PDF)
 
-**First published:**
-
-16/08/2013
-
-**Last updated:**
-
-16/10/2024
+**First published:** 16/08/2013 **Last updated:** 16/10/2024
 
 [View](/mt/documents/overview/imvanex-epar-medicine-overview_mt.pdf)
 
 Nederlands (NL) (115.51 KB - PDF)
 
-**First published:**
-
-16/08/2013
-
-**Last updated:**
-
-16/10/2024
+**First published:** 16/08/2013 **Last updated:** 16/10/2024
 
 [View](/nl/documents/overview/imvanex-epar-medicine-overview_nl.pdf)
 
 polski (PL) (142.31 KB - PDF)
 
-**First published:**
-
-16/08/2013
-
-**Last updated:**
-
-16/10/2024
+**First published:** 16/08/2013 **Last updated:** 16/10/2024
 
 [View](/pl/documents/overview/imvanex-epar-medicine-overview_pl.pdf)
 
 português (PT) (116.68 KB - PDF)
 
-**First published:**
-
-16/08/2013
-
-**Last updated:**
-
-16/10/2024
+**First published:** 16/08/2013 **Last updated:** 16/10/2024
 
 [View](/pt/documents/overview/imvanex-epar-medicine-overview_pt.pdf)
 
 română (RO) (137.1 KB - PDF)
 
-**First published:**
-
-16/08/2013
-
-**Last updated:**
-
-16/10/2024
+**First published:** 16/08/2013 **Last updated:** 16/10/2024
 
 [View](/ro/documents/overview/imvanex-epar-medicine-overview_ro.pdf)
 
 slovenčina (SK) (139.08 KB - PDF)
 
-**First published:**
-
-16/08/2013
-
-**Last updated:**
-
-16/10/2024
+**First published:** 16/08/2013 **Last updated:** 16/10/2024
 
 [View](/sk/documents/overview/imvanex-epar-medicine-overview_sk.pdf)
 
 slovenščina (SL) (135.47 KB - PDF)
 
-**First published:**
-
-16/08/2013
-
-**Last updated:**
-
-16/10/2024
+**First published:** 16/08/2013 **Last updated:** 16/10/2024
 
 [View](/sl/documents/overview/imvanex-epar-medicine-overview_sl.pdf)
 
 Suomi (FI) (113.5 KB - PDF)
 
-**First published:**
-
-16/08/2013
-
-**Last updated:**
-
-16/10/2024
+**First published:** 16/08/2013 **Last updated:** 16/10/2024
 
 [View](/fi/documents/overview/imvanex-epar-medicine-overview_fi.pdf)
 
 svenska (SV) (114.64 KB - PDF)
 
-**First published:**
-
-16/08/2013
-
-**Last updated:**
-
-16/10/2024
+**First published:** 16/08/2013 **Last updated:** 16/10/2024
 
 [View](/sv/documents/overview/imvanex-epar-medicine-overview_sv.pdf)
 
 Imvanex : EPAR - Risk management plan
 
-English (EN) (2.07 MB - PDF)
+English (EN) (1.01 MB - PDF)
 
-**First published:** 16/10/2024
-
-**Last updated:** 24/01/2025
+**First published:** 16/10/2024 **Last updated:** 18/05/2026
 
 [View](/en/documents/rmp/imvanex-epar-risk-management-plan_en.pdf)
 
@@ -407,293 +347,161 @@ English (EN) (2.07 MB - PDF)
 
 Imvanex : EPAR - Product information
 
-English (EN) (514.07 KB - PDF)
+English (EN) (434.08 KB - PDF)
 
-**First published:** 16/08/2013
-
-**Last updated:** 20/10/2025
+**First published:** 16/08/2013 **Last updated:** 18/05/2026
 
 [View](/en/documents/product-information/imvanex-epar-product-information_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-777)
+[Other languages (24)](#file-language-dropdown-150)
 
-български (BG) (601.08 KB - PDF)
+български (BG) (590.28 KB - PDF)
 
-**First published:**
-
-16/08/2013
-
-**Last updated:**
-
-20/10/2025
+**First published:** 16/08/2013 **Last updated:** 18/05/2026
 
 [View](/bg/documents/product-information/imvanex-epar-product-information_bg.pdf)
 
-español (ES) (474.96 KB - PDF)
+español (ES) (461.72 KB - PDF)
 
-**First published:**
-
-16/08/2013
-
-**Last updated:**
-
-20/10/2025
+**First published:** 16/08/2013 **Last updated:** 18/05/2026
 
 [View](/es/documents/product-information/imvanex-epar-product-information_es.pdf)
 
-čeština (CS) (533.52 KB - PDF)
+čeština (CS) (536.21 KB - PDF)
 
-**First published:**
-
-16/08/2013
-
-**Last updated:**
-
-20/10/2025
+**First published:** 16/08/2013 **Last updated:** 18/05/2026
 
 [View](/cs/documents/product-information/imvanex-epar-product-information_cs.pdf)
 
-dansk (DA) (485.95 KB - PDF)
+dansk (DA) (469.81 KB - PDF)
 
-**First published:**
-
-16/08/2013
-
-**Last updated:**
-
-20/10/2025
+**First published:** 16/08/2013 **Last updated:** 18/05/2026
 
 [View](/da/documents/product-information/imvanex-epar-product-information_da.pdf)
 
-Deutsch (DE) (483.39 KB - PDF)
+Deutsch (DE) (487.98 KB - PDF)
 
-**First published:**
-
-16/08/2013
-
-**Last updated:**
-
-20/10/2025
+**First published:** 16/08/2013 **Last updated:** 18/05/2026
 
 [View](/de/documents/product-information/imvanex-epar-product-information_de.pdf)
 
-eesti keel (ET) (458.8 KB - PDF)
+eesti keel (ET) (443.07 KB - PDF)
 
-**First published:**
-
-16/08/2013
-
-**Last updated:**
-
-20/10/2025
+**First published:** 16/08/2013 **Last updated:** 18/05/2026
 
 [View](/et/documents/product-information/imvanex-epar-product-information_et.pdf)
 
-ελληνικά (EL) (568.92 KB - PDF)
+ελληνικά (EL) (558.77 KB - PDF)
 
-**First published:**
-
-16/08/2013
-
-**Last updated:**
-
-20/10/2025
+**First published:** 16/08/2013 **Last updated:** 18/05/2026
 
 [View](/el/documents/product-information/imvanex-epar-product-information_el.pdf)
 
-français (FR) (577.68 KB - PDF)
+français (FR) (466.25 KB - PDF)
 
-**First published:**
-
-16/08/2013
-
-**Last updated:**
-
-20/10/2025
+**First published:** 16/08/2013 **Last updated:** 18/05/2026
 
 [View](/fr/documents/product-information/imvanex-epar-product-information_fr.pdf)
 
-hrvatski (HR) (530.55 KB - PDF)
+hrvatski (HR) (523.05 KB - PDF)
 
-**First published:**
-
-16/08/2013
-
-**Last updated:**
-
-20/10/2025
+**First published:** 16/08/2013 **Last updated:** 18/05/2026
 
 [View](/hr/documents/product-information/imvanex-epar-product-information_hr.pdf)
 
-íslenska (IS) (503.55 KB - PDF)
+íslenska (IS) (454.78 KB - PDF)
 
-**First published:**
-
-16/08/2013
-
-**Last updated:**
-
-20/10/2025
+**First published:** 16/08/2013 **Last updated:** 18/05/2026
 
 [View](/is/documents/product-information/imvanex-epar-product-information_is.pdf)
 
-italiano (IT) (544.11 KB - PDF)
+italiano (IT) (532.51 KB - PDF)
 
-**First published:**
-
-16/08/2013
-
-**Last updated:**
-
-20/10/2025
+**First published:** 16/08/2013 **Last updated:** 18/05/2026
 
 [View](/it/documents/product-information/imvanex-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (591.53 KB - PDF)
+latviešu valoda (LV) (550.12 KB - PDF)
 
-**First published:**
-
-16/08/2013
-
-**Last updated:**
-
-20/10/2025
+**First published:** 16/08/2013 **Last updated:** 18/05/2026
 
 [View](/lv/documents/product-information/imvanex-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (575.4 KB - PDF)
+lietuvių kalba (LT) (540.38 KB - PDF)
 
-**First published:**
-
-16/08/2013
-
-**Last updated:**
-
-20/10/2025
+**First published:** 16/08/2013 **Last updated:** 18/05/2026
 
 [View](/lt/documents/product-information/imvanex-epar-product-information_lt.pdf)
 
-magyar (HU) (616.07 KB - PDF)
+magyar (HU) (590.42 KB - PDF)
 
-**First published:**
-
-16/08/2013
-
-**Last updated:**
-
-20/10/2025
+**First published:** 16/08/2013 **Last updated:** 18/05/2026
 
 [View](/hu/documents/product-information/imvanex-epar-product-information_hu.pdf)
 
-Malti (MT) (578.47 KB - PDF)
+Malti (MT) (554.34 KB - PDF)
 
-**First published:**
-
-16/08/2013
-
-**Last updated:**
-
-20/10/2025
+**First published:** 16/08/2013 **Last updated:** 18/05/2026
 
 [View](/mt/documents/product-information/imvanex-epar-product-information_mt.pdf)
 
-Nederlands (NL) (473.86 KB - PDF)
+Nederlands (NL) (460.34 KB - PDF)
 
-**First published:**
-
-16/08/2013
-
-**Last updated:**
-
-20/10/2025
+**First published:** 16/08/2013 **Last updated:** 18/05/2026
 
 [View](/nl/documents/product-information/imvanex-epar-product-information_nl.pdf)
 
-norsk (NO) (508.39 KB - PDF)
+norsk (NO) (503.41 KB - PDF)
 
-**First published:**
-
-16/08/2013
-
-**Last updated:**
-
-20/10/2025
+**First published:** 16/08/2013 **Last updated:** 18/05/2026
 
 [View](/no/documents/product-information/imvanex-epar-product-information_no.pdf)
 
-polski (PL) (618.45 KB - PDF)
+polski (PL) (638.38 KB - PDF)
 
-**First published:**
-
-16/08/2013
-
-**Last updated:**
-
-20/10/2025
+**First published:** 16/08/2013 **Last updated:** 18/05/2026
 
 [View](/pl/documents/product-information/imvanex-epar-product-information_pl.pdf)
 
-português (PT) (509.56 KB - PDF)
+português (PT) (458.02 KB - PDF)
 
-**First published:**
-
-16/08/2013
-
-**Last updated:**
-
-20/10/2025
+**First published:** 16/08/2013 **Last updated:** 18/05/2026
 
 [View](/pt/documents/product-information/imvanex-epar-product-information_pt.pdf)
 
-română (RO) (592.4 KB - PDF)
+română (RO) (539.75 KB - PDF)
 
-**First published:**
-
-16/08/2013
-
-**Last updated:**
-
-20/10/2025
+**First published:** 16/08/2013 **Last updated:** 18/05/2026
 
 [View](/ro/documents/product-information/imvanex-epar-product-information_ro.pdf)
 
-slovenčina (SK) (547.61 KB - PDF)
+slovenčina (SK) (537.51 KB - PDF)
 
-**First published:**
-
-16/08/2013
-
-**Last updated:**
-
-20/10/2025
+**First published:** 16/08/2013 **Last updated:** 18/05/2026
 
 [View](/sk/documents/product-information/imvanex-epar-product-information_sk.pdf)
 
-slovenščina (SL) (564.32 KB - PDF)
+slovenščina (SL) (534.04 KB - PDF)
 
-**First published:**
-
-16/08/2013
-
-**Last updated:**
-
-20/10/2025
+**First published:** 16/08/2013 **Last updated:** 18/05/2026
 
 [View](/sl/documents/product-information/imvanex-epar-product-information_sl.pdf)
 
-Suomi (FI) (541.43 KB - PDF)
+Suomi (FI) (450.72 KB - PDF)
 
-**First published:**
-
-16/08/2013
-
-**Last updated:**
-
-20/10/2025
+**First published:** 16/08/2013 **Last updated:** 18/05/2026
 
 [View](/fi/documents/product-information/imvanex-epar-product-information_fi.pdf)
 
-**Latest procedure affecting product information:** VR/0000291496 16/10/2025
+svenska (SV) (451.76 KB - PDF)
+
+**First published:** 16/08/2013 **Last updated:** 18/05/2026
+
+[View](/sv/documents/product-information/imvanex-epar-product-information_sv.pdf)
+
+**Latest procedure affecting product information:** VR/0000316261
+
+26/02/2026
 
 icon globe
 
@@ -713,310 +521,178 @@ Imvanex : EPAR - All Authorised presentations
 
 English (EN) (27.82 KB - PDF)
 
-**First published:** 16/08/2013
-
-**Last updated:** 10/09/2024
+**First published:** 16/08/2013 **Last updated:** 10/09/2024
 
 [View](/en/documents/all-authorised-presentations/imvanex-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-801)
+[Other languages (24)](#file-language-dropdown-484)
 
 български (BG) (42.2 KB - PDF)
 
-**First published:**
-
-16/08/2013
-
-**Last updated:**
-
-10/09/2024
+**First published:** 16/08/2013 **Last updated:** 10/09/2024
 
 [View](/bg/documents/all-authorised-presentations/imvanex-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (39.01 KB - PDF)
 
-**First published:**
-
-16/08/2013
-
-**Last updated:**
-
-10/09/2024
+**First published:** 16/08/2013 **Last updated:** 10/09/2024
 
 [View](/es/documents/all-authorised-presentations/imvanex-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (37.57 KB - PDF)
 
-**First published:**
-
-16/08/2013
-
-**Last updated:**
-
-10/09/2024
+**First published:** 16/08/2013 **Last updated:** 10/09/2024
 
 [View](/cs/documents/all-authorised-presentations/imvanex-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (17.83 KB - PDF)
 
-**First published:**
-
-16/08/2013
-
-**Last updated:**
-
-10/09/2024
+**First published:** 16/08/2013 **Last updated:** 10/09/2024
 
 [View](/da/documents/all-authorised-presentations/imvanex-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (15.17 KB - PDF)
 
-**First published:**
-
-16/08/2013
-
-**Last updated:**
-
-10/09/2024
+**First published:** 16/08/2013 **Last updated:** 10/09/2024
 
 [View](/de/documents/all-authorised-presentations/imvanex-epar-all-authorised-presentations_de.pdf)
 
 eesti keel (ET) (15.37 KB - PDF)
 
-**First published:**
-
-16/08/2013
-
-**Last updated:**
-
-10/09/2024
+**First published:** 16/08/2013 **Last updated:** 10/09/2024
 
 [View](/et/documents/all-authorised-presentations/imvanex-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (42.39 KB - PDF)
 
-**First published:**
-
-16/08/2013
-
-**Last updated:**
-
-10/09/2024
+**First published:** 16/08/2013 **Last updated:** 10/09/2024
 
 [View](/el/documents/all-authorised-presentations/imvanex-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (15.34 KB - PDF)
 
-**First published:**
-
-16/08/2013
-
-**Last updated:**
-
-10/09/2024
+**First published:** 16/08/2013 **Last updated:** 10/09/2024
 
 [View](/fr/documents/all-authorised-presentations/imvanex-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (38.27 KB - PDF)
 
-**First published:**
-
-16/08/2013
-
-**Last updated:**
-
-10/09/2024
+**First published:** 16/08/2013 **Last updated:** 10/09/2024
 
 [View](/hr/documents/all-authorised-presentations/imvanex-epar-all-authorised-presentations_hr.pdf)
 
 íslenska (IS) (15.15 KB - PDF)
 
-**First published:**
-
-16/08/2013
-
-**Last updated:**
-
-10/09/2024
+**First published:** 16/08/2013 **Last updated:** 10/09/2024
 
 [View](/is/documents/all-authorised-presentations/imvanex-epar-all-authorised-presentations_is.pdf)
 
 italiano (IT) (14.99 KB - PDF)
 
-**First published:**
-
-16/08/2013
-
-**Last updated:**
-
-10/09/2024
+**First published:** 16/08/2013 **Last updated:** 10/09/2024
 
 [View](/it/documents/all-authorised-presentations/imvanex-epar-all-authorised-presentations_it.pdf)
 
 latviešu valoda (LV) (41.9 KB - PDF)
 
-**First published:**
-
-16/08/2013
-
-**Last updated:**
-
-10/09/2024
+**First published:** 16/08/2013 **Last updated:** 10/09/2024
 
 [View](/lv/documents/all-authorised-presentations/imvanex-epar-all-authorised-presentations_lv.pdf)
 
 lietuvių kalba (LT) (37.51 KB - PDF)
 
-**First published:**
-
-16/08/2013
-
-**Last updated:**
-
-10/09/2024
+**First published:** 16/08/2013 **Last updated:** 10/09/2024
 
 [View](/lt/documents/all-authorised-presentations/imvanex-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (36.56 KB - PDF)
 
-**First published:**
-
-16/08/2013
-
-**Last updated:**
-
-10/09/2024
+**First published:** 16/08/2013 **Last updated:** 10/09/2024
 
 [View](/hu/documents/all-authorised-presentations/imvanex-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (43.3 KB - PDF)
 
-**First published:**
-
-16/08/2013
-
-**Last updated:**
-
-10/09/2024
+**First published:** 16/08/2013 **Last updated:** 10/09/2024
 
 [View](/mt/documents/all-authorised-presentations/imvanex-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (18.17 KB - PDF)
 
-**First published:**
-
-16/08/2013
-
-**Last updated:**
-
-10/09/2024
+**First published:** 16/08/2013 **Last updated:** 10/09/2024
 
 [View](/nl/documents/all-authorised-presentations/imvanex-epar-all-authorised-presentations_nl.pdf)
 
 norsk (NO) (22.07 KB - PDF)
 
-**First published:**
-
-16/08/2013
-
-**Last updated:**
-
-10/09/2024
+**First published:** 16/08/2013 **Last updated:** 10/09/2024
 
 [View](/no/documents/all-authorised-presentations/imvanex-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (38.19 KB - PDF)
 
-**First published:**
-
-16/08/2013
-
-**Last updated:**
-
-10/09/2024
+**First published:** 16/08/2013 **Last updated:** 10/09/2024
 
 [View](/pl/documents/all-authorised-presentations/imvanex-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (18.12 KB - PDF)
 
-**First published:**
-
-16/08/2013
-
-**Last updated:**
-
-10/09/2024
+**First published:** 16/08/2013 **Last updated:** 10/09/2024
 
 [View](/pt/documents/all-authorised-presentations/imvanex-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (36.57 KB - PDF)
 
-**First published:**
-
-16/08/2013
-
-**Last updated:**
-
-10/09/2024
+**First published:** 16/08/2013 **Last updated:** 10/09/2024
 
 [View](/ro/documents/all-authorised-presentations/imvanex-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (36.8 KB - PDF)
 
-**First published:**
-
-16/08/2013
-
-**Last updated:**
-
-10/09/2024
+**First published:** 16/08/2013 **Last updated:** 10/09/2024
 
 [View](/sk/documents/all-authorised-presentations/imvanex-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (34.61 KB - PDF)
 
-**First published:**
-
-16/08/2013
-
-**Last updated:**
-
-10/09/2024
+**First published:** 16/08/2013 **Last updated:** 10/09/2024
 
 [View](/sl/documents/all-authorised-presentations/imvanex-epar-all-authorised-presentations_sl.pdf)
 
 Suomi (FI) (18.42 KB - PDF)
 
-**First published:**
-
-16/08/2013
-
-**Last updated:**
-
-10/09/2024
+**First published:** 16/08/2013 **Last updated:** 10/09/2024
 
 [View](/fi/documents/all-authorised-presentations/imvanex-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (15.47 KB - PDF)
 
-**First published:**
-
-16/08/2013
-
-**Last updated:**
-
-10/09/2024
+**First published:** 16/08/2013 **Last updated:** 10/09/2024
 
 [View](/sv/documents/all-authorised-presentations/imvanex-epar-all-authorised-presentations_sv.pdf)
 
 ## Product details
 
-Name of medicine Imvanex Active substance modified vaccinia Ankara - Bavarian Nordic (MVA-BN) virus International non-proprietary name (INN) or common name smallpox and monkeypox vaccine (Live Modified Vaccinia Virus Ankara) Therapeutic area (MeSH)
+Name of medicine
+
+Imvanex
+
+Active substance
+
+modified vaccinia Ankara - Bavarian Nordic (MVA-BN) virus
+
+International non-proprietary name (INN) or common name
+
+smallpox and monkeypox vaccine (Live Modified Vaccinia Virus Ankara)
+
+Therapeutic area (MeSH)
 
 - Smallpox Vaccine
 - Monkeypox virus
 
-Anatomical therapeutic chemical (ATC) code J07BX
+Anatomical therapeutic chemical (ATC) code
+
+J07BX
 
 ### Pharmacotherapeutic group
 
@@ -1028,7 +704,9 @@ Active immunisation against smallpox, monkeypox and disease caused by vaccinia v
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/002596
+EMA product number
+
+EMEA/H/C/002596
 
 Additional monitoring
 
@@ -1044,7 +722,17 @@ Bavarian Nordic A/S
 
 Hejreskovvej 10 A
 
-Opinion adopted 30/05/2013 Marketing authorisation issued 31/07/2013 Revision 31
+Opinion adopted
+
+30/05/2013
+
+Marketing authorisation issued
+
+31/07/2013
+
+Revision
+
+32
 
 ## Assessment history
 
@@ -1056,11 +744,9 @@ Collapse section
 
 Imvanex : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (153.15 KB - PDF)
+English (EN) (188.29 KB - PDF)
 
-**First published:** 16/06/2025
-
-**Last updated:** 20/10/2025
+**First published:** 16/06/2025 **Last updated:** 18/05/2026
 
 [View](/en/documents/procedural-steps-after/imvanex-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1068,11 +754,19 @@ Imvanex : EPAR - Procedural steps taken and scientific information after authori
 
 English (EN) (361.89 KB - PDF)
 
-**First published:** 14/08/2014
-
-**Last updated:** 16/06/2025
+**First published:** 14/08/2014 **Last updated:** 16/06/2025
 
 [View](/en/documents/procedural-steps-after/imvanex-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
+
+Imvanex-H-C-002596-VR-0000316261 : EPAR - Assessment report - Variation
+
+Adopted Reference Number: EMADOC-1700519818-2751582
+
+English (EN) (1.52 MB - PDF)
+
+**First published:** 18/05/2026
+
+[View](/en/documents/variation-report/imvanex-h-c-002596-vr-0000316261-epar-assessment-report-variation_en.pdf)
 
 Imvanex-H-C-002596-II-0108 : EPAR - Assessment report - Variation
 
@@ -1086,9 +780,7 @@ English (EN) (1.04 MB - PDF)
 
 CHMP post-authorisation summary of positive opinion for Imvanex (II-108)
 
-Adopted
-
-Reference Number: EMA/418293/2024
+Adopted Reference Number: EMA/418293/2024
 
 English (EN) (129.53 KB - PDF)
 
@@ -1118,9 +810,7 @@ English (EN) (1.89 MB - PDF)
 
 CHMP post-authorisation summary of positive opinion for Imvanex (II-76)
 
-Adopted
-
-Reference Number: EMA/CHMP/642836/2022
+Adopted Reference Number: EMA/CHMP/642836/2022
 
 English (EN) (107.72 KB - PDF)
 
@@ -1134,9 +824,7 @@ Reference Number: EMA/521678/2014
 
 English (EN) (101.49 KB - PDF)
 
-**First published:** 27/08/2014
-
-**Last updated:** 27/08/2014
+**First published:** 27/08/2014 **Last updated:** 27/08/2014
 
 [View](/en/documents/scientific-conclusion/imvanex-h-c-2596-psuv-0007-epar-scientific-conclusions-and-grounds-recommending-variation-terms-marketing-authorisation_en.pdf)
 
@@ -1144,15 +832,11 @@ English (EN) (101.49 KB - PDF)
 
 Imvanex : EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/369203/2013
+Adopted Reference Number: EMA/369203/2013
 
 English (EN) (3.43 MB - PDF)
 
-**First published:** 16/08/2013
-
-**Last updated:** 16/08/2013
+**First published:** 16/08/2013 **Last updated:** 16/08/2013
 
 [View](/en/documents/assessment-report/imvanex-epar-public-assessment-report_en.pdf)
 
@@ -1162,44 +846,58 @@ Reference Number: EMA/CHMP/256704/2013
 
 English (EN) (70.35 KB - PDF)
 
-**First published:** 31/05/2013
-
-**Last updated:** 31/05/2013
+**First published:** 31/05/2013 **Last updated:** 31/05/2013
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-imvanex_en.pdf)
 
-#### News on Imvanex
+## News on Imvanex
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 16-19 September 2024](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-16-19-september-2024) 20/09/2024
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 16-19 September 2024](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-16-19-september-2024)
 
-[EMA recommends extending indication of mpox vaccine to adolescents](/en/news/ema-recommends-extending-indication-mpox-vaccine-adolescents) 19/09/2024
+20/09/2024
 
-[EMA's Emergency Task Force advises on intradermal use of Imvanex / Jynneos against monkeypox](/en/news/emas-emergency-task-force-advises-intradermal-use-imvanex-jynneos-against-monkeypox) 19/08/2022
+[EMA recommends extending indication of mpox vaccine to adolescents](/en/news/ema-recommends-extending-indication-mpox-vaccine-adolescents)
 
-[EMA response to the monkeypox public health emergency](/en/news/ema-response-monkeypox-public-health-emergency) 27/07/2022
+19/09/2024
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 18-21 July 2022](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-18-21-july-2022) 22/07/2022
+[EMA's Emergency Task Force advises on intradermal use of Imvanex / Jynneos against monkeypox](/en/news/emas-emergency-task-force-advises-intradermal-use-imvanex-jynneos-against-monkeypox)
 
-[EMA recommends approval of Imvanex for the prevention of monkeypox disease](/en/news/ema-recommends-approval-imvanex-prevention-monkeypox-disease) 22/07/2022
+19/08/2022
 
-[Monkeypox: EMA starts review for Imvanex](/en/news/monkeypox-ema-starts-review-imvanex) 28/06/2022
+[EMA response to the monkeypox public health emergency](/en/news/ema-response-monkeypox-public-health-emergency)
 
-[European Medicines Agency recommends approval of 44 medicines for human use and six medicines for veterinary use in first half 2013](/en/news/european-medicines-agency-recommends-approval-44-medicines-human-use-six-medicines-veterinary-use-first-half-2013) 31/07/2013
+27/07/2022
 
-#### More information on Imvanex
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 18-21 July 2022](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-18-21-july-2022)
+
+22/07/2022
+
+[EMA recommends approval of Imvanex for the prevention of monkeypox disease](/en/news/ema-recommends-approval-imvanex-prevention-monkeypox-disease)
+
+22/07/2022
+
+[Monkeypox: EMA starts review for Imvanex](/en/news/monkeypox-ema-starts-review-imvanex)
+
+28/06/2022
+
+[European Medicines Agency recommends approval of 44 medicines for human use and six medicines for veterinary use in first half 2013](/en/news/european-medicines-agency-recommends-approval-44-medicines-human-use-six-medicines-veterinary-use-first-half-2013)
+
+31/07/2013
+
+## More information on Imvanex
 
 - [EMEA-001161-PIP02-11-M03 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001161-pip02-11-m03)
 - [Prospective Cohort Study and Emulated Target Trial to Estimate the Safety and Effectiveness of MVA-BN vaccination against MPXV infection in at-risk individuals in Germany (SEMVAc/TEMVAc) - post-authorisation study](https://catalogues.ema.europa.eu/study/50282)
 - [Effectiveness and safety of MVA-BN vaccination against Mpox in at-risk individuals in the United States (USMVAc) (USMVAC study) - post-authorisation study](https://catalogues.ema.europa.eu/study/105127)
 
-#### Topics
+## Topics
 
 - [Mpox](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A67812)
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 - [Vaccines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A76)
 
-**This page was last updated on** 20/10/2025
+**This page was last updated on**
+
+18/05/2026
 
 ## Share this page
-
-[Back to top](#main-content)

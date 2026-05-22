@@ -1,32 +1,32 @@
 ---
-document_datetime: 2025-12-29 12:15:48
+document_datetime: 2026-05-18 17:08:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/ixchiq.html
 document_name: ixchiq.html
 version: success
-processing_time: 0.1230599
-conversion_datetime: 2025-12-30 12:55:54.02313
+processing_time: 0.1360172
+conversion_datetime: 2026-05-22 22:36:33.005013
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.20.0
+  docling-jobkit: 1.20.0
+  docling: 2.95.0
+  docling-core: 2.77.0
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.11.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
 ---
 # Ixchiq
 
 [RSS](/en/individual-human-medicine.xml/243391)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-Chikungunya vaccine (live) Medicine Human Authorised
+Chikungunya vaccine (live)
 
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
+Medicine Human Authorised
 
 Page contents
 
@@ -122,275 +122,141 @@ Reference Number: EMADOC-1829012207-27263
 
 English (EN) (119.78 KB - PDF)
 
-**First published:** 18/07/2024
-
-**Last updated:** 24/09/2025
+**First published:** 18/07/2024 **Last updated:** 24/09/2025
 
 [View](/en/documents/overview/ixchiq-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-503)
+[Other languages (22)](#file-language-dropdown-245)
 
 български (BG) (141.04 KB - PDF)
 
-**First published:**
-
-18/07/2024
-
-**Last updated:**
-
-24/09/2025
+**First published:** 18/07/2024 **Last updated:** 24/09/2025
 
 [View](/bg/documents/overview/ixchiq-epar-medicine-overview_bg.pdf)
 
 español (ES) (118.06 KB - PDF)
 
-**First published:**
-
-18/07/2024
-
-**Last updated:**
-
-24/09/2025
+**First published:** 18/07/2024 **Last updated:** 24/09/2025
 
 [View](/es/documents/overview/ixchiq-epar-medicine-overview_es.pdf)
 
 čeština (CS) (142.77 KB - PDF)
 
-**First published:**
-
-18/07/2024
-
-**Last updated:**
-
-24/09/2025
+**First published:** 18/07/2024 **Last updated:** 24/09/2025
 
 [View](/cs/documents/overview/ixchiq-epar-medicine-overview_cs.pdf)
 
 dansk (DA) (116.79 KB - PDF)
 
-**First published:**
-
-18/07/2024
-
-**Last updated:**
-
-24/09/2025
+**First published:** 18/07/2024 **Last updated:** 24/09/2025
 
 [View](/da/documents/overview/ixchiq-epar-medicine-overview_da.pdf)
 
 Deutsch (DE) (121.92 KB - PDF)
 
-**First published:**
-
-18/07/2024
-
-**Last updated:**
-
-24/09/2025
+**First published:** 18/07/2024 **Last updated:** 24/09/2025
 
 [View](/de/documents/overview/ixchiq-epar-medicine-overview_de.pdf)
 
 eesti keel (ET) (115.76 KB - PDF)
 
-**First published:**
-
-18/07/2024
-
-**Last updated:**
-
-24/09/2025
+**First published:** 18/07/2024 **Last updated:** 24/09/2025
 
 [View](/et/documents/overview/ixchiq-epar-medicine-overview_et.pdf)
 
 ελληνικά (EL) (144.03 KB - PDF)
 
-**First published:**
-
-18/07/2024
-
-**Last updated:**
-
-24/09/2025
+**First published:** 18/07/2024 **Last updated:** 24/09/2025
 
 [View](/el/documents/overview/ixchiq-epar-medicine-overview_el.pdf)
 
 français (FR) (118.75 KB - PDF)
 
-**First published:**
-
-18/07/2024
-
-**Last updated:**
-
-24/09/2025
+**First published:** 18/07/2024 **Last updated:** 24/09/2025
 
 [View](/fr/documents/overview/ixchiq-epar-medicine-overview_fr.pdf)
 
 hrvatski (HR) (139.59 KB - PDF)
 
-**First published:**
-
-18/07/2024
-
-**Last updated:**
-
-24/09/2025
+**First published:** 18/07/2024 **Last updated:** 24/09/2025
 
 [View](/hr/documents/overview/ixchiq-epar-medicine-overview_hr.pdf)
 
 italiano (IT) (116.47 KB - PDF)
 
-**First published:**
-
-18/07/2024
-
-**Last updated:**
-
-24/09/2025
+**First published:** 18/07/2024 **Last updated:** 24/09/2025
 
 [View](/it/documents/overview/ixchiq-epar-medicine-overview_it.pdf)
 
 latviešu valoda (LV) (147.96 KB - PDF)
 
-**First published:**
-
-18/07/2024
-
-**Last updated:**
-
-24/09/2025
+**First published:** 18/07/2024 **Last updated:** 24/09/2025
 
 [View](/lv/documents/overview/ixchiq-epar-medicine-overview_lv.pdf)
 
 lietuvių kalba (LT) (140.18 KB - PDF)
 
-**First published:**
-
-18/07/2024
-
-**Last updated:**
-
-24/09/2025
+**First published:** 18/07/2024 **Last updated:** 24/09/2025
 
 [View](/lt/documents/overview/ixchiq-epar-medicine-overview_lt.pdf)
 
 magyar (HU) (140.23 KB - PDF)
 
-**First published:**
-
-18/07/2024
-
-**Last updated:**
-
-24/09/2025
+**First published:** 18/07/2024 **Last updated:** 24/09/2025
 
 [View](/hu/documents/overview/ixchiq-epar-medicine-overview_hu.pdf)
 
 Malti (MT) (142.63 KB - PDF)
 
-**First published:**
-
-18/07/2024
-
-**Last updated:**
-
-24/09/2025
+**First published:** 18/07/2024 **Last updated:** 24/09/2025
 
 [View](/mt/documents/overview/ixchiq-epar-medicine-overview_mt.pdf)
 
 Nederlands (NL) (117.16 KB - PDF)
 
-**First published:**
-
-18/07/2024
-
-**Last updated:**
-
-24/09/2025
+**First published:** 18/07/2024 **Last updated:** 24/09/2025
 
 [View](/nl/documents/overview/ixchiq-epar-medicine-overview_nl.pdf)
 
 polski (PL) (156.21 KB - PDF)
 
-**First published:**
-
-18/07/2024
-
-**Last updated:**
-
-24/09/2025
+**First published:** 18/07/2024 **Last updated:** 24/09/2025
 
 [View](/pl/documents/overview/ixchiq-epar-medicine-overview_pl.pdf)
 
 português (PT) (117.97 KB - PDF)
 
-**First published:**
-
-18/07/2024
-
-**Last updated:**
-
-24/09/2025
+**First published:** 18/07/2024 **Last updated:** 24/09/2025
 
 [View](/pt/documents/overview/ixchiq-epar-medicine-overview_pt.pdf)
 
 română (RO) (140.84 KB - PDF)
 
-**First published:**
-
-18/07/2024
-
-**Last updated:**
-
-24/09/2025
+**First published:** 18/07/2024 **Last updated:** 24/09/2025
 
 [View](/ro/documents/overview/ixchiq-epar-medicine-overview_ro.pdf)
 
 slovenčina (SK) (141.92 KB - PDF)
 
-**First published:**
-
-18/07/2024
-
-**Last updated:**
-
-24/09/2025
+**First published:** 18/07/2024 **Last updated:** 24/09/2025
 
 [View](/sk/documents/overview/ixchiq-epar-medicine-overview_sk.pdf)
 
 slovenščina (SL) (139.14 KB - PDF)
 
-**First published:**
-
-18/07/2024
-
-**Last updated:**
-
-24/09/2025
+**First published:** 18/07/2024 **Last updated:** 24/09/2025
 
 [View](/sl/documents/overview/ixchiq-epar-medicine-overview_sl.pdf)
 
 Suomi (FI) (115.63 KB - PDF)
 
-**First published:**
-
-18/07/2024
-
-**Last updated:**
-
-24/09/2025
+**First published:** 18/07/2024 **Last updated:** 24/09/2025
 
 [View](/fi/documents/overview/ixchiq-epar-medicine-overview_fi.pdf)
 
 svenska (SV) (116.03 KB - PDF)
 
-**First published:**
-
-18/07/2024
-
-**Last updated:**
-
-24/09/2025
+**First published:** 18/07/2024 **Last updated:** 24/09/2025
 
 [View](/sv/documents/overview/ixchiq-epar-medicine-overview_sv.pdf)
 
@@ -398,9 +264,7 @@ Ixchiq : EPAR - Risk management plan
 
 English (EN) (1.79 MB - PDF)
 
-**First published:** 18/07/2024
-
-**Last updated:** 24/09/2025
+**First published:** 18/07/2024 **Last updated:** 24/09/2025
 
 [View](/en/documents/rmp/ixchiq-epar-risk-management-plan_en.pdf)
 
@@ -408,211 +272,161 @@ English (EN) (1.79 MB - PDF)
 
 Ixchiq : EPAR - Product information
 
-English (EN) (241.76 KB - PDF)
+English (EN) (434.36 KB - PDF)
 
-**First published:** 24/09/2025
+**First published:** 24/09/2025 **Last updated:** 18/05/2026
 
 [View](/en/documents/product-information/ixchiq-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-418)
+[Other languages (24)](#file-language-dropdown-779)
 
-български (BG) (297.54 KB - PDF)
+български (BG) (464.48 KB - PDF)
 
-**First published:**
-
-24/09/2025
+**First published:** 24/09/2025 **Last updated:** 18/05/2026
 
 [View](/bg/documents/product-information/ixchiq-epar-product-information_bg.pdf)
 
-español (ES) (413.08 KB - PDF)
+español (ES) (423.93 KB - PDF)
 
-**First published:**
-
-24/09/2025
+**First published:** 24/09/2025 **Last updated:** 18/05/2026
 
 [View](/es/documents/product-information/ixchiq-epar-product-information_es.pdf)
 
-čeština (CS) (280.29 KB - PDF)
+čeština (CS) (466.89 KB - PDF)
 
-**First published:**
-
-24/09/2025
+**First published:** 24/09/2025 **Last updated:** 18/05/2026
 
 [View](/cs/documents/product-information/ixchiq-epar-product-information_cs.pdf)
 
-dansk (DA) (426.55 KB - PDF)
+dansk (DA) (431.23 KB - PDF)
 
-**First published:**
-
-24/09/2025
+**First published:** 24/09/2025 **Last updated:** 18/05/2026
 
 [View](/da/documents/product-information/ixchiq-epar-product-information_da.pdf)
 
-Deutsch (DE) (424.45 KB - PDF)
+Deutsch (DE) (420.74 KB - PDF)
 
-**First published:**
-
-24/09/2025
-
-**Last updated:**
-
-06/11/2025
+**First published:** 24/09/2025 **Last updated:** 18/05/2026
 
 [View](/de/documents/product-information/ixchiq-epar-product-information_de.pdf)
 
-eesti keel (ET) (410.26 KB - PDF)
+eesti keel (ET) (416.77 KB - PDF)
 
-**First published:**
-
-24/09/2025
+**First published:** 24/09/2025 **Last updated:** 18/05/2026
 
 [View](/et/documents/product-information/ixchiq-epar-product-information_et.pdf)
 
-ελληνικά (EL) (454.94 KB - PDF)
+ελληνικά (EL) (464.48 KB - PDF)
 
-**First published:**
-
-24/09/2025
+**First published:** 24/09/2025 **Last updated:** 18/05/2026
 
 [View](/el/documents/product-information/ixchiq-epar-product-information_el.pdf)
 
-français (FR) (423.28 KB - PDF)
+français (FR) (431.38 KB - PDF)
 
-**First published:**
-
-24/09/2025
+**First published:** 24/09/2025 **Last updated:** 18/05/2026
 
 [View](/fr/documents/product-information/ixchiq-epar-product-information_fr.pdf)
 
-hrvatski (HR) (443.9 KB - PDF)
+hrvatski (HR) (452.32 KB - PDF)
 
-**First published:**
-
-24/09/2025
+**First published:** 24/09/2025 **Last updated:** 18/05/2026
 
 [View](/hr/documents/product-information/ixchiq-epar-product-information_hr.pdf)
 
-íslenska (IS) (426.51 KB - PDF)
+íslenska (IS) (433.46 KB - PDF)
 
-**First published:**
-
-24/09/2025
+**First published:** 24/09/2025 **Last updated:** 18/05/2026
 
 [View](/is/documents/product-information/ixchiq-epar-product-information_is.pdf)
 
-italiano (IT) (432.83 KB - PDF)
+italiano (IT) (437.95 KB - PDF)
 
-**First published:**
-
-24/09/2025
+**First published:** 24/09/2025 **Last updated:** 18/05/2026
 
 [View](/it/documents/product-information/ixchiq-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (433.77 KB - PDF)
+latviešu valoda (LV) (441.92 KB - PDF)
 
-**First published:**
-
-24/09/2025
+**First published:** 24/09/2025 **Last updated:** 18/05/2026
 
 [View](/lv/documents/product-information/ixchiq-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (292.89 KB - PDF)
+lietuvių kalba (LT) (462.52 KB - PDF)
 
-**First published:**
-
-24/09/2025
+**First published:** 24/09/2025 **Last updated:** 18/05/2026
 
 [View](/lt/documents/product-information/ixchiq-epar-product-information_lt.pdf)
 
-magyar (HU) (486.81 KB - PDF)
+magyar (HU) (492.81 KB - PDF)
 
-**First published:**
-
-24/09/2025
+**First published:** 24/09/2025 **Last updated:** 18/05/2026
 
 [View](/hu/documents/product-information/ixchiq-epar-product-information_hu.pdf)
 
-Malti (MT) (470.72 KB - PDF)
+Malti (MT) (487.18 KB - PDF)
 
-**First published:**
-
-24/09/2025
+**First published:** 24/09/2025 **Last updated:** 18/05/2026
 
 [View](/mt/documents/product-information/ixchiq-epar-product-information_mt.pdf)
 
-Nederlands (NL) (432.93 KB - PDF)
+Nederlands (NL) (444.58 KB - PDF)
 
-**First published:**
-
-24/09/2025
+**First published:** 24/09/2025 **Last updated:** 18/05/2026
 
 [View](/nl/documents/product-information/ixchiq-epar-product-information_nl.pdf)
 
-norsk (NO) (422.39 KB - PDF)
+norsk (NO) (431.56 KB - PDF)
 
-**First published:**
-
-24/09/2025
+**First published:** 24/09/2025 **Last updated:** 18/05/2026
 
 [View](/no/documents/product-information/ixchiq-epar-product-information_no.pdf)
 
-polski (PL) (460.68 KB - PDF)
+polski (PL) (468.6 KB - PDF)
 
-**First published:**
-
-24/09/2025
+**First published:** 24/09/2025 **Last updated:** 18/05/2026
 
 [View](/pl/documents/product-information/ixchiq-epar-product-information_pl.pdf)
 
-português (PT) (426.96 KB - PDF)
+português (PT) (428.04 KB - PDF)
 
-**First published:**
-
-24/09/2025
+**First published:** 24/09/2025 **Last updated:** 18/05/2026
 
 [View](/pt/documents/product-information/ixchiq-epar-product-information_pt.pdf)
 
-română (RO) (445.8 KB - PDF)
+română (RO) (460.04 KB - PDF)
 
-**First published:**
-
-24/09/2025
+**First published:** 24/09/2025 **Last updated:** 18/05/2026
 
 [View](/ro/documents/product-information/ixchiq-epar-product-information_ro.pdf)
 
-slovenčina (SK) (477.27 KB - PDF)
+slovenčina (SK) (494.7 KB - PDF)
 
-**First published:**
-
-24/09/2025
+**First published:** 24/09/2025 **Last updated:** 18/05/2026
 
 [View](/sk/documents/product-information/ixchiq-epar-product-information_sk.pdf)
 
-slovenščina (SL) (455.31 KB - PDF)
+slovenščina (SL) (464.42 KB - PDF)
 
-**First published:**
-
-24/09/2025
+**First published:** 24/09/2025 **Last updated:** 18/05/2026
 
 [View](/sl/documents/product-information/ixchiq-epar-product-information_sl.pdf)
 
-Suomi (FI) (404.5 KB - PDF)
+Suomi (FI) (474.33 KB - PDF)
 
-**First published:**
-
-24/09/2025
+**First published:** 24/09/2025 **Last updated:** 18/05/2026
 
 [View](/fi/documents/product-information/ixchiq-epar-product-information_fi.pdf)
 
-svenska (SV) (421.37 KB - PDF)
+svenska (SV) (437.62 KB - PDF)
 
-**First published:**
-
-24/09/2025
+**First published:** 24/09/2025 **Last updated:** 18/05/2026
 
 [View](/sv/documents/product-information/ixchiq-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** EMA/REF/0000269473 12/09/2025
+**Latest procedure affecting product information:** VR/0000315586
+
+10/04/2026
 
 icon globe
 
@@ -636,203 +450,173 @@ English (EN) (47.43 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/ixchiq-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-344)
+[Other languages (24)](#file-language-dropdown-514)
 
 български (BG) (63.07 KB - PDF)
 
-**First published:**
-
-18/07/2024
+**First published:** 18/07/2024
 
 [View](/bg/documents/all-authorised-presentations/ixchiq-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (80.89 KB - PDF)
 
-**First published:**
-
-18/07/2024
+**First published:** 18/07/2024
 
 [View](/es/documents/all-authorised-presentations/ixchiq-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (64.97 KB - PDF)
 
-**First published:**
-
-18/07/2024
+**First published:** 18/07/2024
 
 [View](/cs/documents/all-authorised-presentations/ixchiq-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (63.94 KB - PDF)
 
-**First published:**
-
-18/07/2024
+**First published:** 18/07/2024
 
 [View](/da/documents/all-authorised-presentations/ixchiq-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (64.55 KB - PDF)
 
-**First published:**
-
-18/07/2024
+**First published:** 18/07/2024
 
 [View](/de/documents/all-authorised-presentations/ixchiq-epar-all-authorised-presentations_de.pdf)
 
 eesti keel (ET) (105.21 KB - PDF)
 
-**First published:**
-
-18/07/2024
+**First published:** 18/07/2024
 
 [View](/et/documents/all-authorised-presentations/ixchiq-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (79.7 KB - PDF)
 
-**First published:**
-
-18/07/2024
+**First published:** 18/07/2024
 
 [View](/el/documents/all-authorised-presentations/ixchiq-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (55.08 KB - PDF)
 
-**First published:**
-
-18/07/2024
+**First published:** 18/07/2024
 
 [View](/fr/documents/all-authorised-presentations/ixchiq-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (88.87 KB - PDF)
 
-**First published:**
-
-18/07/2024
+**First published:** 18/07/2024
 
 [View](/hr/documents/all-authorised-presentations/ixchiq-epar-all-authorised-presentations_hr.pdf)
 
 íslenska (IS) (77.85 KB - PDF)
 
-**First published:**
-
-18/07/2024
+**First published:** 18/07/2024
 
 [View](/is/documents/all-authorised-presentations/ixchiq-epar-all-authorised-presentations_is.pdf)
 
 italiano (IT) (61.14 KB - PDF)
 
-**First published:**
-
-18/07/2024
+**First published:** 18/07/2024
 
 [View](/it/documents/all-authorised-presentations/ixchiq-epar-all-authorised-presentations_it.pdf)
 
 latviešu valoda (LV) (56.69 KB - PDF)
 
-**First published:**
-
-18/07/2024
+**First published:** 18/07/2024
 
 [View](/lv/documents/all-authorised-presentations/ixchiq-epar-all-authorised-presentations_lv.pdf)
 
 lietuvių kalba (LT) (67.77 KB - PDF)
 
-**First published:**
-
-18/07/2024
+**First published:** 18/07/2024
 
 [View](/lt/documents/all-authorised-presentations/ixchiq-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (77.5 KB - PDF)
 
-**First published:**
-
-18/07/2024
+**First published:** 18/07/2024
 
 [View](/hu/documents/all-authorised-presentations/ixchiq-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (57.98 KB - PDF)
 
-**First published:**
-
-18/07/2024
+**First published:** 18/07/2024
 
 [View](/mt/documents/all-authorised-presentations/ixchiq-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (54.98 KB - PDF)
 
-**First published:**
-
-18/07/2024
+**First published:** 18/07/2024
 
 [View](/nl/documents/all-authorised-presentations/ixchiq-epar-all-authorised-presentations_nl.pdf)
 
 norsk (NO) (55.83 KB - PDF)
 
-**First published:**
-
-18/07/2024
+**First published:** 18/07/2024
 
 [View](/no/documents/all-authorised-presentations/ixchiq-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (59.77 KB - PDF)
 
-**First published:**
-
-18/07/2024
+**First published:** 18/07/2024
 
 [View](/pl/documents/all-authorised-presentations/ixchiq-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (54.75 KB - PDF)
 
-**First published:**
-
-18/07/2024
+**First published:** 18/07/2024
 
 [View](/pt/documents/all-authorised-presentations/ixchiq-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (54.5 KB - PDF)
 
-**First published:**
-
-18/07/2024
+**First published:** 18/07/2024
 
 [View](/ro/documents/all-authorised-presentations/ixchiq-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (58.57 KB - PDF)
 
-**First published:**
-
-18/07/2024
+**First published:** 18/07/2024
 
 [View](/sk/documents/all-authorised-presentations/ixchiq-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (55.34 KB - PDF)
 
-**First published:**
-
-18/07/2024
+**First published:** 18/07/2024
 
 [View](/sl/documents/all-authorised-presentations/ixchiq-epar-all-authorised-presentations_sl.pdf)
 
 Suomi (FI) (72.92 KB - PDF)
 
-**First published:**
-
-18/07/2024
+**First published:** 18/07/2024
 
 [View](/fi/documents/all-authorised-presentations/ixchiq-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (55.38 KB - PDF)
 
-**First published:**
-
-18/07/2024
+**First published:** 18/07/2024
 
 [View](/sv/documents/all-authorised-presentations/ixchiq-epar-all-authorised-presentations_sv.pdf)
 
 ## Product details
 
-Name of medicine Ixchiq Active substance Chikungunya virus, strain CHIKV LR2006-OPY1, live attenuated International non-proprietary name (INN) or common name Chikungunya vaccine (live) Therapeutic area (MeSH) Chikungunya virus
+Name of medicine
+
+Ixchiq
+
+Active substance
+
+Chikungunya virus, strain CHIKV LR2006-OPY1, live attenuated
+
+International non-proprietary name (INN) or common name
+
+Chikungunya vaccine (live)
+
+Therapeutic area (MeSH)
+
+Chikungunya virus
+
+Anatomical therapeutic chemical (ATC) code
+
+J07BP01
 
 ### Pharmacotherapeutic group
 
@@ -844,7 +628,9 @@ Ixchiq is indicated for active immunisation for the prevention of disease caused
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/005797
+EMA product number
+
+EMEA/H/C/005797
 
 Additional monitoring
 
@@ -860,7 +646,17 @@ Valneva Austria GmbH
 
 Campus Vienna Biocenter 3 Landstrasse A-1030 Vienna Austria
 
-Opinion adopted 30/05/2024 Marketing authorisation issued 28/06/2024 Revision 3
+Opinion adopted
+
+30/05/2024
+
+Marketing authorisation issued
+
+28/06/2024
+
+Revision
+
+4
 
 ## Assessment history
 
@@ -872,11 +668,9 @@ Collapse section
 
 Ixchiq : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (138.48 KB - PDF)
+English (EN) (163.13 KB - PDF)
 
-**First published:** 09/04/2025
-
-**Last updated:** 24/09/2025
+**First published:** 09/04/2025 **Last updated:** 18/05/2026
 
 [View](/en/documents/procedural-steps-after/ixchiq-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -890,9 +684,7 @@ English (EN) (155.3 KB - PDF)
 
 Ixchiq-H-C-005797-REF-0000269473 : EPAR - Assessment report - Variation
 
-Adopted
-
-Reference Number: EMADOC-1700519818-2369308
+Adopted Reference Number: EMADOC-1700519818-2369308
 
 English (EN) (414.31 KB - PDF)
 
@@ -908,205 +700,155 @@ English (EN) (219.69 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/ixchiq-epar-scientific-conclusion_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-356)
+[Other languages (24)](#file-language-dropdown-248)
 
 български (BG) (154.15 KB - PDF)
 
-**First published:**
-
-24/09/2025
+**First published:** 24/09/2025
 
 [View](/bg/documents/scientific-conclusion/ixchiq-epar-scientific-conclusion_bg.pdf)
 
 español (ES) (150.77 KB - PDF)
 
-**First published:**
-
-24/09/2025
+**First published:** 24/09/2025
 
 [View](/es/documents/scientific-conclusion/ixchiq-epar-scientific-conclusion_es.pdf)
 
 čeština (CS) (144.53 KB - PDF)
 
-**First published:**
-
-24/09/2025
+**First published:** 24/09/2025
 
 [View](/cs/documents/scientific-conclusion/ixchiq-epar-scientific-conclusion_cs.pdf)
 
 dansk (DA) (153.39 KB - PDF)
 
-**First published:**
-
-24/09/2025
+**First published:** 24/09/2025
 
 [View](/da/documents/scientific-conclusion/ixchiq-epar-scientific-conclusion_da.pdf)
 
 Deutsch (DE) (168.47 KB - PDF)
 
-**First published:**
-
-24/09/2025
+**First published:** 24/09/2025
 
 [View](/de/documents/scientific-conclusion/ixchiq-epar-scientific-conclusion_de.pdf)
 
 eesti keel (ET) (147.39 KB - PDF)
 
-**First published:**
-
-24/09/2025
+**First published:** 24/09/2025
 
 [View](/et/documents/scientific-conclusion/ixchiq-epar-scientific-conclusion_et.pdf)
 
 ελληνικά (EL) (157.96 KB - PDF)
 
-**First published:**
-
-24/09/2025
+**First published:** 24/09/2025
 
 [View](/el/documents/scientific-conclusion/ixchiq-epar-scientific-conclusion_el.pdf)
 
 français (FR) (142.03 KB - PDF)
 
-**First published:**
-
-24/09/2025
+**First published:** 24/09/2025
 
 [View](/fr/documents/scientific-conclusion/ixchiq-epar-scientific-conclusion_fr.pdf)
 
 hrvatski (HR) (149.97 KB - PDF)
 
-**First published:**
-
-24/09/2025
+**First published:** 24/09/2025
 
 [View](/hr/documents/scientific-conclusion/ixchiq-epar-scientific-conclusion_hr.pdf)
 
 íslenska (IS) (148.41 KB - PDF)
 
-**First published:**
-
-24/09/2025
+**First published:** 24/09/2025
 
 [View](/is/documents/scientific-conclusion/ixchiq-epar-scientific-conclusion_is.pdf)
 
 italiano (IT) (149.35 KB - PDF)
 
-**First published:**
-
-24/09/2025
+**First published:** 24/09/2025
 
 [View](/it/documents/scientific-conclusion/ixchiq-epar-scientific-conclusion_it.pdf)
 
 latviešu valoda (LV) (172.98 KB - PDF)
 
-**First published:**
-
-24/09/2025
+**First published:** 24/09/2025
 
 [View](/lv/documents/scientific-conclusion/ixchiq-epar-scientific-conclusion_lv.pdf)
 
 lietuvių kalba (LT) (159.12 KB - PDF)
 
-**First published:**
-
-24/09/2025
+**First published:** 24/09/2025
 
 [View](/lt/documents/scientific-conclusion/ixchiq-epar-scientific-conclusion_lt.pdf)
 
 magyar (HU) (147.65 KB - PDF)
 
-**First published:**
-
-24/09/2025
+**First published:** 24/09/2025
 
 [View](/hu/documents/scientific-conclusion/ixchiq-epar-scientific-conclusion_hu.pdf)
 
 Malti (MT) (160.87 KB - PDF)
 
-**First published:**
-
-24/09/2025
+**First published:** 24/09/2025
 
 [View](/mt/documents/scientific-conclusion/ixchiq-epar-scientific-conclusion_mt.pdf)
 
 Nederlands (NL) (156.36 KB - PDF)
 
-**First published:**
-
-24/09/2025
+**First published:** 24/09/2025
 
 [View](/nl/documents/scientific-conclusion/ixchiq-epar-scientific-conclusion_nl.pdf)
 
 norsk (NO) (153.4 KB - PDF)
 
-**First published:**
-
-24/09/2025
+**First published:** 24/09/2025
 
 [View](/no/documents/scientific-conclusion/ixchiq-epar-scientific-conclusion_no.pdf)
 
 polski (PL) (142.5 KB - PDF)
 
-**First published:**
-
-24/09/2025
+**First published:** 24/09/2025
 
 [View](/pl/documents/scientific-conclusion/ixchiq-epar-scientific-conclusion_pl.pdf)
 
 português (PT) (157.21 KB - PDF)
 
-**First published:**
-
-24/09/2025
+**First published:** 24/09/2025
 
 [View](/pt/documents/scientific-conclusion/ixchiq-epar-scientific-conclusion_pt.pdf)
 
 română (RO) (156.42 KB - PDF)
 
-**First published:**
-
-24/09/2025
+**First published:** 24/09/2025
 
 [View](/ro/documents/scientific-conclusion/ixchiq-epar-scientific-conclusion_ro.pdf)
 
 slovenčina (SK) (155 KB - PDF)
 
-**First published:**
-
-24/09/2025
+**First published:** 24/09/2025
 
 [View](/sk/documents/scientific-conclusion/ixchiq-epar-scientific-conclusion_sk.pdf)
 
 slovenščina (SL) (153.55 KB - PDF)
 
-**First published:**
-
-24/09/2025
+**First published:** 24/09/2025
 
 [View](/sl/documents/scientific-conclusion/ixchiq-epar-scientific-conclusion_sl.pdf)
 
 Suomi (FI) (148.69 KB - PDF)
 
-**First published:**
-
-24/09/2025
+**First published:** 24/09/2025
 
 [View](/fi/documents/scientific-conclusion/ixchiq-epar-scientific-conclusion_fi.pdf)
 
 svenska (SV) (153.06 KB - PDF)
 
-**First published:**
-
-24/09/2025
+**First published:** 24/09/2025
 
 [View](/sv/documents/scientific-conclusion/ixchiq-epar-scientific-conclusion_sv.pdf)
 
 Ixchiq-H-C-005797-II-0001 : EPAR - Assessment report - Variation
 
-Adopted
-
-Reference Number: EMA/116559/2025
+Adopted Reference Number: EMA/116559/2025
 
 English (EN) (4.42 MB - PDF)
 
@@ -1116,9 +858,7 @@ English (EN) (4.42 MB - PDF)
 
 CHMP post-authorisation summary of positive opinion for Ixchiq (II-01)
 
-Adopted
-
-Reference Number: EMA/CHMP/62534/2025
+Adopted Reference Number: EMA/CHMP/62534/2025
 
 English (EN) (129.95 KB - PDF)
 
@@ -1130,9 +870,7 @@ English (EN) (129.95 KB - PDF)
 
 Ixchiq : EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/292025/2024
+Adopted Reference Number: EMA/292025/2024
 
 English (EN) (6.9 MB - PDF)
 
@@ -1142,9 +880,7 @@ English (EN) (6.9 MB - PDF)
 
 CHMP summary of positive opinion for Ixchiq
 
-Adopted
-
-Reference Number: EMA/CHMP/40091/2024
+Adopted Reference Number: EMA/CHMP/40091/2024
 
 English (EN) (137.49 KB - PDF)
 
@@ -1152,39 +888,55 @@ English (EN) (137.49 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-ixchiq_en.pdf)
 
-#### Patient safety information
+## Patient safety information
 
-[Ixchiq: temporary restriction on vaccinating people 65 years and older to be lifted](/en/news/ixchiq-temporary-restriction-vaccinating-people-65-years-older-be-lifted) 11/07/2025
+[Ixchiq: temporary restriction on vaccinating people 65 years and older to be lifted](/en/news/ixchiq-temporary-restriction-vaccinating-people-65-years-older-be-lifted)
 
-[EMA starts review of Ixchiq (live attenuated chikungunya vaccine)](/en/news/ema-starts-review-ixchiq-live-attenuated-chikungunya-vaccine) 07/05/2025
+11/07/2025
 
-#### News on Ixchiq
+[EMA starts review of Ixchiq (live attenuated chikungunya vaccine)](/en/news/ema-starts-review-ixchiq-live-attenuated-chikungunya-vaccine)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 21-24 July 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-21-24-july-2025) 25/07/2025
+07/05/2025
 
-[Meeting highlights from the Pharmacovigilance Risk Assessment Committee (PRAC) 7 - 10 July 2025](/en/news/meeting-highlights-pharmacovigilance-risk-assessment-committee-prac-7-10-july-2025) 11/07/2025
+## News on Ixchiq
 
-[Meeting highlights from the Pharmacovigilance Risk Assessment Committee (PRAC) 5-8 May 2025](/en/news/meeting-highlights-pharmacovigilance-risk-assessment-committee-prac-5-8-may-2025) 08/05/2025
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 21-24 July 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-21-24-july-2025)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 24-27 February 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-24-27-february-2025) 28/02/2025
+25/07/2025
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 27-30 May 2024](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-27-30-may-2024) 31/05/2024
+[Meeting highlights from the Pharmacovigilance Risk Assessment Committee (PRAC) 7 - 10 July 2025](/en/news/meeting-highlights-pharmacovigilance-risk-assessment-committee-prac-7-10-july-2025)
 
-[First vaccine to protect adults from Chikungunya](/en/news/first-vaccine-protect-adults-chikungunya) 31/05/2024
+11/07/2025
 
-#### Related content
+[Meeting highlights from the Pharmacovigilance Risk Assessment Committee (PRAC) 5-8 May 2025](/en/news/meeting-highlights-pharmacovigilance-risk-assessment-committee-prac-5-8-may-2025)
+
+08/05/2025
+
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 24-27 February 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-24-27-february-2025)
+
+28/02/2025
+
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 27-30 May 2024](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-27-30-may-2024)
+
+31/05/2024
+
+[First vaccine to protect adults from Chikungunya](/en/news/first-vaccine-protect-adults-chikungunya)
+
+31/05/2024
+
+### Related content
 
 - [Emergency Task Force (ETF) documents: Vector-borne diseases](https://www.ema.europa.eu/en/committees/working-parties-other-groups/emergency-task-force-etf/emergency-task-force-etf-documents#vector-borne-diseases-76491)
 - [Ixchiq Article-20 procedure - PRAC assessment report on temporary measures](https://www.ema.europa.eu/en/documents/referral/ixchiq-article-20-procedure-prac-assessment-report-temporary-measures_en.pdf)
 
-#### More information on Ixchiq
+## More information on Ixchiq
 
 - [Ixchiq - referral](/en/medicines/human/referrals/ixchiq)
 - [Ixchiq - direct healthcare professional communication (DHPC)](/en/medicines/dhpc/ixchiq)
 - [Ixchiq - direct healthcare professional communication (DHPC)](/en/medicines/dhpc/ixchiq-0)
 
-**This page was last updated on** 24/09/2025
+**This page was last updated on**
+
+18/05/2026
 
 ## Share this page
-
-[Back to top](#main-content)

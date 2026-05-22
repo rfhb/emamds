@@ -1,30 +1,32 @@
 ---
-document_datetime: 2026-03-10 16:25:00
+document_datetime: 2026-05-20 14:23:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/iloperidone-vanda-pharmaceuticals.html
 document_name: iloperidone-vanda-pharmaceuticals.html
 version: success
-processing_time: 0.0418398
-conversion_datetime: 2026-03-17 19:24:53.769567
+processing_time: 0.0549476
+conversion_datetime: 2026-05-22 22:36:48.243477
 docling_version:
-  docling-serve: 1.14.3
-  docling-jobkit: 1.13.0
-  docling: 2.80.0
-  docling-core: 2.70.1
-  docling-ibm-models: 3.12.0
-  docling-parse: 5.5.0
+  docling-serve: 1.20.0
+  docling-jobkit: 1.20.0
+  docling: 2.95.0
+  docling-core: 2.77.0
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.11.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
 ---
 # Iloperidone Vanda Pharmaceuticals
 
 [RSS](/en/individual-human-medicine.xml/274656)
 
-Opinion under re-examination
+Opinion
 
-EMA is re-examining this opinion on request of the applicant
+EMA has issued an opinion on this medicine
 
-iloperidone Medicine Human Opinion under re-examination
+iloperidone
+
+Medicine Human Opinion
 
 Page contents
 
@@ -40,7 +42,7 @@ Page contents
 
 ## Overview
 
-**Update as of 10 March 2026:** The company for Iloperidone Vanda Pharmaceuticals has requested a re-examination of EMA's opinion issued on 26 February 2026. Upon receipt of the grounds of this request, the Agency will re-examine its opinion and issue a final recommendation.
+**Update as of 2 May 2026:** The company for Iloperidone Vanda Pharmaceuticals has withdrawn its previously submitted notice of intent to request a re-examination of EMA's opinion of 26 February 2026.
 
 The European Medicines Agency has recommended the refusal of the marketing authorisation for Iloperidone Vanda Pharmaceuticals, a medicine intended for the treatment of schizophrenia and manic or mixed episodes associated with bipolar I disorder.
 
@@ -88,33 +90,61 @@ If you are in a clinical trial or compassionate use programme and need more info
 
 Questions and answers on the refusal of the marketing authorisation for Iloperidone Vanda Pharmaceuticals (iloperidone)
 
-Adopted
+Adopted Reference Number: EMA/41634/2026
 
-Reference Number: EMA/41634/2026
+English (EN) (104.14 KB - PDF)
 
-English (EN) (104.36 KB - PDF)
-
-**First published:** 27/02/2026
-
-**Last updated:** 10/03/2026
+**First published:** 27/02/2026 **Last updated:** 20/05/2026
 
 [View](/en/documents/smop-initial/questions-answers-refusal-marketing-authorisation-iloperidone-vanda-pharmaceuticals-iloperidone_en.pdf)
 
 ## Product details
 
-Name of medicine Iloperidone Vanda Pharmaceuticals Active substance iloperidone International non-proprietary name (INN) or common name iloperidone Therapeutic area (MeSH)
+Name of medicine
+
+Iloperidone Vanda Pharmaceuticals
+
+Active substance
+
+iloperidone
+
+International non-proprietary name (INN) or common name
+
+iloperidone
+
+Therapeutic area (MeSH)
 
 - Schizophrenia
 - Bipolar Disorder
 
-Anatomical therapeutic chemical (ATC) code N05AX14 EMA product number EMEA/H/C/006561 Marketing authorisation applicant Vanda Pharmaceuticals Netherlands B.V. Opinion adopted 26/02/2026 Opinion status Negative
+Anatomical therapeutic chemical (ATC) code
+
+N05AX14
+
+EMA product number
+
+EMEA/H/C/006561
+
+Marketing authorisation applicant
+
+Vanda Pharmaceuticals Netherlands B.V.
+
+Opinion adopted
+
+26/02/2026
+
+Opinion status
+
+Negative
 
 ## News on Iloperidone Vanda Pharmaceuticals
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 23-26 February 2026](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-23-26-february-2026) 27/02/2026
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 23-26 February 2026](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-23-26-february-2026)
 
-**This page was last updated on** 10/03/2026
+27/02/2026
+
+**This page was last updated on**
+
+20/05/2026
 
 ## Share this page
-
-[Back to top](#main-content)

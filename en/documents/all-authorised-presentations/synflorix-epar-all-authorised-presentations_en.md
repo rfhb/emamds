@@ -1,53 +1,150 @@
 ---
-document_datetime: 2023-09-21 18:28:48
+document_datetime: 2026-05-19 12:41:50
 document_pages: 2
 document_pathfilename: www.ema.europa.eu/en/documents/all-authorised-presentations/synflorix-epar-all-authorised-presentations_en.pdf
 document_name: synflorix-epar-all-authorised-presentations_en.pdf
 version: success
-processing_time: 1.6582723
-conversion_datetime: 2025-12-25 02:35:03.956374
+processing_time: 0.7185099
+conversion_datetime: 2026-05-22 23:56:51.921157
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.20.0
+  docling-jobkit: 1.20.0
+  docling: 2.95.0
+  docling-core: 2.77.0
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.11.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
 ---
-| MA (EU) number   | (Invented) name   | Strength   | Pharmaceutical form      | Route of administration   | Immediate Packaging        | Content   | Pack size                           |
-|------------------|-------------------|------------|--------------------------|---------------------------|----------------------------|-----------|-------------------------------------|
-| EU/1/09/508/001  | Synflorix         | -- 1       | Suspension for injection | Intramuscular use         | pre-filled syringe (glass) | 0.5 ml    | 1 pre-filled syringe                |
-| EU/1/09/508/002  | Synflorix         | -- 1       | Suspension for injection | Intramuscular use         | pre-filled syringe (glass) | 0.5 ml    | 10 pre-filled syringes              |
-| EU/1/09/508/003  | Synflorix         | -- 1       | Suspension for injection | Intramuscular use         | pre-filled syringe (glass) | 0.5 ml    | 1 pre-filled syringe + 1 needle     |
-| EU/1/09/508/004  | Synflorix         | -- 1       | Suspension for injection | Intramuscular use         | pre-filled syringe (glass) | 0.5 ml    | 10 pre-filled syringes + 10 needles |
-| EU/1/09/508/005  | Synflorix         | -- 1       | Suspension for injection | Intramuscular use         | pre-filled syringe (glass) | 0.5 ml    | 1 pre-filled syringe + 2 needles    |
-| EU/1/09/508/006  | Synflorix         | -- 1       | Suspension for injection | Intramuscular use         | vial (glass)               | 0.5 ml    | 1 vial                              |
-| EU/1/09/508/007  | Synflorix         | -- 1       | Suspension for injection | Intramuscular use         | vial (glass)               | 0.5 ml    | 10 vials                            |
-| EU/1/09/508/008  | Synflorix         | -- 1       | Suspension for injection | Intramuscular use         | vial (glass)               | 0.5 ml    | 100 vials                           |
-| EU/1/09/508/009  | Synflorix         | -- 1       | Suspension for injection | Intramuscular use         | vial (glass)               | 1.0 ml    | 100 vials (multidose)               |
-| EU/1/09/508/010  | Synflorix         | -- 1       | Suspension for injection | Intramuscular use         | pre-filled syringe (glass) | 0.5 ml    | 50 pre-filled syringes              |
-| EU/1/09/508/012  | Synflorix         | -- 1       | Suspension for injection | Intramuscular use         | vial (glass)               | 2.0 ml    | 10 vials (multidose)                |
-| EU/1/09/508/013  | Synflorix         | -- 1       | Suspension for injection | Intramuscular use         | vial (glass)               | 2.0 ml    | 100 vials (multidose)               |
+## MA (EU) number (Invented) name Strength Pharmaceutical form Route of administration Immediate Packaging Content Pack size
 
---1 1 dose (0.5 ml) contains: Pneumococcal polysaccharide serotype 1*  1 Pneumococcal polysaccharide serotype 4*  1 Pneumococcal polysaccharide serotype 5*  1 Pneumococcal polysaccharide serotype 6B*  1 Pneumococcal polysaccharide serotype 7F*  1 Pneumococcal polysaccharide serotype 9V*  1 Pneumococcal polysaccharide serotype 14*  1 Pneumococcal polysaccharide serotype 18C*  2
+## EU/1/09/508/001 Synflorix -- 1 EU/1/09/508/002 Synflorix -- 1 EU/1/09/508/003 Synflorix -- 1 EU/1/09/508/004 Synflorix -- 1 EU/1/09/508/005 Synflorix -- 1 EU/1/09/508/006 Synflorix -- 1 EU/1/09/508/007 Synflorix -- 1 EU/1/09/508/008 Synflorix -- 1 EU/1/09/508/010 EU/1/09/508/012 EU/1/09/508/013 Synflorix Synflorix Synflorix -- 1 -- 1 -- 1
 
-1 microgram
+Suspension for
 
-3 micrograms
+injection
 
-1 microgram
+Suspension for
 
-1 microgram
+injection
 
-1 microgram
+Suspension for
 
-1 microgram
+injection
 
-1 microgram
+Suspension for
 
-3 micrograms
+injection
+
+Suspension for
+
+injection
+
+Suspension for
+
+injection
+
+Suspension for
+
+injection
+
+Suspension for
+
+injection
+
+Suspension for
+
+injection
+
+Suspension for
+
+injection
+
+Suspension for
+
+injection Intramuscular use Intramuscular use Intramuscular use Intramuscular use Intramuscular use Intramuscular use Intramuscular use Intramuscular use Intramuscular use Intramuscular use Intramuscular use
+
+## -- 1 1 dose (0.5 ml) contains: Pneumococcal polysaccharide serotype 1*  1 1 microgram Pneumococcal polysaccharide serotype 4*  1 3 micrograms Pneumococcal polysaccharide serotype 5*  1 1 microgram Pneumococcal polysaccharide serotype 6B*  1 1 microgram Pneumococcal polysaccharide serotype 7F*  1 1 microgram Pneumococcal polysaccharide serotype 9V*  1 1 microgram Pneumococcal polysaccharide serotype 14*  1 1 microgram Pneumococcal polysaccharide serotype 18C*  2 3 micrograms
+
+pre-filled syringe
+
+(glass)
+
+pre-filled syringe
+
+(glass)
+
+pre-filled syringe
+
+(glass)
+
+pre-filled syringe
+
+(glass)
+
+pre-filled syringe
+
+(glass)
+
+vial (glass)
+
+vial (glass)
+
+vial (glass)
+
+pre-filled syringe
+
+(glass)
+
+vial (glass)
+
+vial (glass)
+
+0.5 ml
+
+0.5 ml
+
+0.5 ml
+
+0.5 ml
+
+0.5 ml
+
+0.5 ml
+
+0.5 ml
+
+0.5 ml
+
+0.5 ml
+
+2.0 ml
+
+2.0 ml
+
+1 pre-filled syringe
+
+10 pre-filled syringes
+
+1 pre-filled syringe + 1 needle
+
+10 pre-filled syringes + 10
+
+needles
+
+1 pre-filled syringe + 2 needles
+
+1 vial
+
+10 vials
+
+100 vials
+
+50 pre-filled syringes
+
+10 vials (multidose)
+
+100 vials (multidose)
 
 Pneumococcal polysaccharide serotype 19F*  3
 
@@ -59,7 +156,7 @@ Pneumococcal polysaccharide serotype 23F*  1
 
 <div style=\"page-break-after: always\"></div>
 
-*   adsorbed on aluminium phosphate
+* adsorbed on aluminium phosphate
 
 0.5 milligram Al 3+
 

@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-03-23 16:33:56
-document_pages: 33
+document_datetime: 2026-05-19 10:50:02
+document_pages: 44
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/arexvy-epar-product-information_en.pdf
 document_name: arexvy-epar-product-information_en.pdf
 version: success
-processing_time: 11.0783902
-conversion_datetime: 2026-03-25 12:44:13.133489
+processing_time: 19.825797
+conversion_datetime: 2026-05-22 23:33:46.482409
 docling_version:
-  docling-serve: 1.15.0
-  docling-jobkit: 1.14.0
-  docling: 2.82.0
-  docling-core: 2.70.2
-  docling-ibm-models: 3.12.0
-  docling-parse: 5.6.1
+  docling-serve: 1.20.0
+  docling-jobkit: 1.20.0
+  docling: 2.95.0
+  docling-core: 2.77.0
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.11.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -28,21 +28,37 @@ This medicinal product is subject to additional monitoring. This will allow quic
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Arexvy powder and suspension for suspension for injection Respiratory Syncytial Virus (RSV) vaccine (recombinant, adjuvanted)
+Arexvy powder and suspension for suspension for injection Arexvy powder and suspension for suspension for injection in pre-filled syringe
+
+Respiratory Syncytial Virus (RSV) vaccine (recombinant, adjuvanted)
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
-After reconstitution, one dose (0.5 mL) contains: RSVPreF3 1  antigen 2,3
+After reconstitution, one dose (0.5 mL) contains:
+
+RSVPreF3 1  antigen 2,3
 
 120 micrograms
 
 1 Respiratory Syncytial Virus recombinant glycoprotein F stabilised in the pre-fusion conformation = RSVPreF3
 
-2  RSVPreF3 produced in Chinese Hamster Ovary (CHO) cells by recombinant DNA technology
+- 2  RSVPreF3 produced in Chinese Hamster Ovary (CHO) cells by recombinant DNA technology 3
 
-3 adjuvanted with AS01E containing:
+adjuvanted with AS01E containing:
 
-plant extract Quillaja saponaria Molina, fraction 21 (QS-21) 25 micrograms 3-O-desacyl-4'-monophosphoryl lipid A (MPL) from Salmonella minnesota 25 micrograms
+plant extract Quillaja saponaria Molina, fraction 21 (QS-21)
+
+25 micrograms
+
+3-O-desacyl-4'-monophosphoryl lipid A (MPL) from Salmonella minnesota
+
+25 micrograms
+
+## Excipients with known effect
+
+Each dose of Arexvy powder and suspension for suspension for injection contains 0.18 milligrams of polysorbate 80 (E 433) (see section 4.4).
+
+Each dose of Arexvy powder and suspension for suspension for injection in pre-filled syringe contains 0.20 milligrams of polysorbate 80 (E 433) (see section 4.4).
 
 For the full list of excipients, see section 6.1.
 
@@ -62,19 +78,19 @@ Arexvy is indicated for active immunisation for the prevention of lower respirat
 
 The use of this vaccine should be in accordance with official recommendations.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 4.2 Posology and method of administration
 
-Posology
+## Posology
 
 Arexvy is administered as a single dose of 0.5 mL.
 
 The need for revaccination with a subsequent dose has not been established (see section 5.1).
 
-Paediatric population
+## Paediatric population
 
 The safety and efficacy of Arexvy in children have not been established. No data are available.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Method of administration
 
@@ -112,13 +128,19 @@ As with other intramuscular injections, Arexvy should be given with caution to i
 
 Patients receiving immunosuppressive treatment or patients with immunodeficiency may have a reduced immune response to Arexvy (see section 5.1).
 
-## Excipients
+<div style=\"page-break-after: always\"></div>
+
+## Excipients with known effect
+
+Each dose of Arexvy powder and suspension for suspension for injection contains 0.18 milligrams of polysorbate 80.
+
+Each dose of Arexvy powder and suspension for suspension for injection in pre-filled syringe contains 0.20 milligrams of polysorbate 80.
+
+Polysorbates may cause allergic reactions.
 
 This medicinal product contains potassium, less than 1 mmol (39 mg) per dose, i.e. essentially 'potassium-free'.
 
 This medicinal product contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium-free'.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
@@ -148,6 +170,8 @@ There are no data on the effects of Arexvy on human fertility. Animal studies wi
 
 No studies on the effects of Arexvy on the ability to drive and use machines have been performed.
 
+<div style=\"page-break-after: always\"></div>
+
 Arexvy has a minor influence on the ability to drive and use machines. Some of the effects mentioned under section 4.8 'Undesirable effects' (e.g. fatigue) may temporarily affect the ability to drive or use machines.
 
 ## 4.8 Undesirable effects
@@ -157,8 +181,6 @@ Arexvy has a minor influence on the ability to drive and use machines. Some of t
 In a phase 3 placebo-controlled study (RSV OA=ADJ-006), participants 60 years of age and older received either one dose of Arexvy (N = 12 469) or placebo (N = 12 503), with a follow-up period of approximately 12 months. The most commonly reported adverse reactions were injection site pain (61%), fatigue (34%), myalgia (29%), headache (28%), and arthralgia (18%).
 
 In a phase 3 placebo-controlled study (RSV OA=ADJ-018) that included participants 50 through 59 years of age (N = 769), the most commonly reported adverse reactions were injection site pain (76%), fatigue (40%), myalgia (36%), headache (32%), and arthralgia (23%).
-
-<div style=\"page-break-after: always\"></div>
 
 In a phase 3 open-label study (RSV OA=ADJ-025) that included participants 18 through 49 years of age (N = 1 029), the most commonly reported adverse reactions were injection site pain (76%), fatigue (60%), myalgia (60%), headache (44%), and arthralgia (28%).
 
@@ -170,31 +192,17 @@ The safety profile presented in Table 1 is based on data from phase 3 clinical s
 
 Adverse reactions are listed below by MedDRA system organ class and frequency.
 
-Very common
+| Very common   | (≥ 1/10)                                      |
+|---------------|-----------------------------------------------|
+| Common        | (≥ 1/100 to < 1/10)                           |
+| Uncommon      | (≥ 1/1 000 to < 1/100)                        |
+| Rare          | (≥ 1/10 000 to < 1/1 000)                     |
+| Very rare     | (< 1/10 000)                                  |
+| Not known     | (Cannot be estimated from the available data) |
 
-(≥ 1/10)
+<div style=\"page-break-after: always\"></div>
 
-Common
-
-(≥ 1/100 to &lt; 1/10)
-
-Uncommon
-
-(≥ 1/1 000 to &lt; 1/100)
-
-Rare
-
-(≥ 1/10 000 to &lt; 1/1 000)
-
-Very rare
-
-(&lt; 1/10 000)
-
-Not known
-
-(Cannot be estimated from the available data)
-
-## Table 1. Adverse reactions
+Table 1. Adverse reactions
 
 | System Organ Class                                   | Frequency   | Adverse reactions                                               |
 |------------------------------------------------------|-------------|-----------------------------------------------------------------|
@@ -209,8 +217,6 @@ Not known
 | General disorders and administration site conditions | Uncommon    | injection site pruritus                                         |
 | General disorders and administration site conditions | Uncommon    | pain, malaise                                                   |
 | General disorders and administration site conditions | Not known   | injection site necrosis 1                                       |
-
-<div style=\"page-break-after: always\"></div>
 
 ## Description of selected adverse reactions
 
@@ -230,6 +236,8 @@ Reporting suspected adverse reactions after authorisation of the medicinal produ
 
 No case of overdose has been reported in the clinical studies.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 5. PHARMACOLOGICAL PROPERTIES
 
 ## 5.1 Pharmacodynamic properties
@@ -248,8 +256,6 @@ The primary population for efficacy analysis (referred to as the modified Expose
 
 Overall, 24 960 participants were randomised equally to receive 1 dose of Arexvy (N = 12 466) or placebo (N = 12 494) during the first season. Pre-Season 2, participants who received Arexvy during the first season were re-randomised to receive placebo (N = 4 991) or a second dose of Arexvy (N = 4 966). Participants who received placebo before Season 1 received a second dose of placebo before Season 2. The participants were followed up to the end of the third RSV season (median follow-up time 30.6 months).
 
-<div style=\"page-break-after: always\"></div>
-
 The median age of participants was 69 years (range: 59 to 102 years), with approximately 74% over 65 years of age, approximately 44% over 70 years of age and approximately 8% over 80 years of age. Approximately 52% were female.
 
 At baseline, 39.3% of participants had at least one comorbidity of interest; 19.7% of participants had an underlying cardiorespiratory condition (COPD, asthma, any chronic respiratory/pulmonary disease, or chronic heart failure) and 25.8% of participants had endocrinometabolic conditions (diabetes, advanced liver or renal disease).
@@ -258,7 +264,9 @@ Confirmed RSV cases were determined by quantitative Reverse Transcription Polyme
 
 LRTD was defined based on the following criteria: the participant must have experienced at least 2 lower respiratory symptoms/signs including at least 1 lower respiratory sign for at least 24 hours, or experienced at least 3 lower respiratory symptoms for at least 24 hours. Lower respiratory symptoms included: new or increased sputum, new or increased cough, new or increased dyspnoea (shortness of breath). Lower respiratory signs included: new or increased wheezing, crackles/rhonchi, respiratory rate ≥ 20 respirations/min, low or decreased oxygen saturation (O2 saturation &lt; 95% or ≤ 90% if baseline is &lt; 95%) or need for oxygen supplementation.
 
-## Efficacy against RSV-associated LRTD during the first RSV season (confirmatory analysis)
+Efficacy against RSV-associated LRTD during the first RSV season (confirmatory analysis)
+
+<div style=\"page-break-after: always\"></div>
 
 The primary objective was to demonstrate efficacy in the prevention of a first episode of confirmed RSV-A and/or B associated LRTD during the first RSV season.
 
@@ -266,13 +274,11 @@ Vaccine efficacy overall and by subgroups is presented in Table 2.
 
 Efficacy in preventing first RSV-associated LRTD with an onset from 15 days after vaccination compared to placebo was 82.6% (96.95% confidence interval of 57.9% to 94.1%) in participants 60 years of age and older. Vaccine efficacy against RSV-LRTD was observed through the median follow-up period of 6.7 months. Vaccine efficacy against RSV A-associated LRTD and RSV Bassociated LRTD was 84.6% (95% CI [32.1, 98.3]) and 80.9% (95% CI [49.4, 94.3]), respectively.
 
-<div style=\"page-break-after: always\"></div>
-
 Table 2. Efficacy analysis during the first RSV season (confirmatory analysis): First RSVassociated LRTD overall, by age and co-morbidity subgroups (modified Exposed Set)
 
-|                                                      | Arexvy   | Arexvy   | Arexvy                                 | Placebo   | Placebo   | Placebo                                | %Efficacy         |
+|                                                      | Arexvy   | Arexvy   | Arexvy                                 | Placebo   | Placebo   | Placebo                                |                   |
 |------------------------------------------------------|----------|----------|----------------------------------------|-----------|-----------|----------------------------------------|-------------------|
-| Subgroup                                             | N        | n        | Incidence rate per 1 000 person- years | N         | n         | Incidence rate per 1 000 person- years | (CI) a            |
+| Subgroup                                             | N        | n        | Incidence rate per 1 000 person- years | N         | n         | Incidence rate per 1 000 person- years | %Efficacy (CI) a  |
 | Overall (≥ 60 years) b                               | 12 466   | 7        | 1.0                                    | 12 494    | 40        | 5.8                                    | 82.6 (57.9, 94.1) |
 | 60-69 years                                          | 6 963    | 4        | 1.0                                    | 6 979     | 21        | 5.5                                    | 81.0 (43.6, 95.3) |
 | 70-79 years                                          | 4 487    | 1        | 0.4                                    | 4 487     | 16        | 6.5                                    | 93.8 (60.2, 99.9) |
@@ -284,23 +290,25 @@ Two-sided exact CI for vaccine efficacy is derived based on Poisson model adjust
 
 b Confirmatory objective with pre-specified success criterion of lower limit of the 2-sided CI for vaccine efficacy above 20%
 
-N = Number of participants included in each group n = Number of participants having first occurrence of RSV-confirmed LRTD occurring from Day 15 post vaccination
+N = Number of participants included in each group
+
+n = Number of participants having first occurrence of RSV-confirmed LRTD occurring from Day 15 post vaccination
 
 Vaccine efficacy in the subgroup of participants 80 years of age and older (1 016 participants in Arexvy vs 1 028 participants in placebo) cannot be reliably estimated due to the low number of total cases accrued (5 cases).
 
 Amongst 18 RSV-LRTD cases with at least 2 lower respiratory signs or preventing everyday activities, 4 cases of severe RSV-LRTD requiring oxygen supplementation occurred in the placebo group compared to none in the Arexvy group.
 
-## Efficacy against RSV-associated LRTD over 2 RSV seasons and over 3 RSV seasons
+Efficacy against RSV-associated LRTD over 2 RSV seasons and over 3 RSV seasons
 
 Participants 60 years of age and older who received 1 dose of Arexvy or placebo (RSV OA=ADJ-006) were followed over 3 RSV seasons (up to the end of the second and third seasons in the Northern Hemisphere), with a median follow-up time of 17.8 months over 2 RSV seasons and 30.6 months over 3 RSV seasons. Vaccine efficacy against RSV-associated LRTD over 2 RSV seasons was 67.2% (97.5% CI [48.2, 80.0]) and over 3 RSV seasons was 62.9% (97.5% CI [46.7, 74.8]).
+
+<div style=\"page-break-after: always\"></div>
 
 Vaccine efficacy against RSV A-associated LRTD and RSV B-associated LRTD over 3 RSV seasons was 69.8% (97.5% CI [42.2, 85.7]) and 58.6% (97.5% CI [35.9, 74.1]), respectively.
 
 Vaccine efficacy against RSV-associated LRTD was similar in the subgroup of participants with at least one comorbidity of interest.
 
 A second dose of vaccine administered 12 months after the first dose did not confer additional efficacy benefit.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Immunogenicity in adults 18 through 59 years of age
 
@@ -316,7 +324,7 @@ The non-inferiority criteria of the immune responses for the RSV-A and RSV-B neu
 
 <div style=\"page-break-after: always\"></div>
 
-Table 3. Summary  of  adjusted  GMT  and  SRR  values,  and  adjusted  GMT  ratios  and  SRR differences in terms of RSV-A and RSV-B neutralising titres (ED60) in adults 60 years of age and older (OA) relative to adults 50 through 59 years of age with (Adults-AIR) or without (Adultsnon-AIR) pre-defined, stable, chronic medical conditions a leading to an increased risk for RSV disease - Per Protocol Set
+Table 3. Summary  of  adjusted  GMT  and  SRR  values,  and  adjusted  GMT  ratios  and  SRR differences in terms of RSV-A and RSV-B neutralising titres (ED60) in adults 60 years of age and older (OA) relative to adults 50 through 59 years of age with (Adults-AIR) or without (Adultsnon-AIR) pre-defined, stable, chronic medical conditions a leading to an increased risk for RSV disease - Per Protocol Set a Pre-defined, stable, chronic medical conditions such as chronic pulmonary disease, chronic cardiovascular disease, diabetes, chronic kidney or liver disease.
 
 | RSV-A neutralising titres (ED60)   | RSV-A neutralising titres (ED60)   | RSV-A neutralising titres (ED60)   | RSV-A neutralising titres (ED60)   | RSV-A neutralising titres (ED60)   |
 |------------------------------------|------------------------------------|------------------------------------|------------------------------------|------------------------------------|
@@ -333,8 +341,6 @@ Table 3. Summary  of  adjusted  GMT  and  SRR  values,  and  adjusted  GMT  rati
 | Adults-non-AIR (50-59 years)       | 9 009.5 (8 226.8, 9 866.6)         | 0.89 (97.5% CI [0.77, 1.03])       | 78.2 (73.3, 82.6)                  | -3.7 (97.5% CI [-11.1, 3.7])       |
 
 <div style=\"page-break-after: always\"></div>
-
-a Pre-defined, stable, chronic medical conditions such as chronic pulmonary disease, chronic cardiovascular disease, diabetes, chronic kidney or liver disease.
 
 b,c The prespecified criteria for non-inferiority of the immune responses were defined as the 2-sided 95% or 97.5% CI upper limits (UL) on the adjusted GMT ratios (OA over Adults-AIR or Adults-nonAIR) ≤ 1.5 and the UL of the 2-sided 95% or 97.5% CI on the SRR difference (OA minus Adults-AIR or Adults-nonAIR) ≤ 10% in participants 60 years of age and older (OA) relative to participants 50 through 59 years of age with (Adults-AIR) or without (Adults-non-AIR) pre-defined, stable, chronic medical conditions leading to an increased risk for RSV disease
 
@@ -416,11 +422,9 @@ NA = Not Applicable
 
 ## Paediatric population
 
-The European Medicines Agency has deferred the obligation to submit the results of studies with
+The European Medicines Agency has deferred the obligation to submit the results of studies with Arexvy in one or more subsets of the paediatric population in prevention of lower respiratory tract disease caused by respiratory syncytial virus (see section 4.2 for information on paediatric use).
 
 <div style=\"page-break-after: always\"></div>
-
-Arexvy in one or more subsets of the paediatric population in prevention of lower respiratory tract disease caused by respiratory syncytial virus (see section 4.2 for information on paediatric use).
 
 ## 5.2 Pharmacokinetic properties
 
@@ -442,7 +446,7 @@ Trehalose dihydrate Polysorbate 80 (E 433) Potassium dihydrogen phosphate (E 340
 
 ## Suspension (AS01E Adjuvant System)
 
-Dioleoyl phosphatidylcholine (E 322) Cholesterol Sodium chloride Disodium phosphate, anhydrous (E 339) Potassium dihydrogen phosphate (E 340) Water for injections
+Dioleoyl phosphatidylcholine (E 322) Cholesterol Sodium chloride Disodium phosphate anhydrous (E 339) Potassium dihydrogen phosphate (E 340) Water for injections
 
 For adjuvant see also section 2.
 
@@ -458,28 +462,35 @@ In the absence of compatibility studies, this medicinal product must not be mixe
 
 Chemical and physical in-use stability has been demonstrated for 4 hours at 2 °C - 8 °C or at room temperature up to 25 °C.
 
-From a microbiological point of view, the product should be used immediately. If not used immediately, in-use storage times and conditions prior to use are the responsibility of the user and should not be longer than 4 hours.
+From a microbiological point of view, the product is to be used immediately. If not used immediately, in-use storage times and conditions prior to use are the responsibility of the user and should not be longer than 4 hours.
 
 ## 6.4 Special precautions for storage
 
 <div style=\"page-break-after: always\"></div>
 
-Store in a refrigerator (2 °C - 8 °C).
-
-Do not freeze.
-
-Store in the original package in order to protect from light.
-
-For storage conditions after reconstitution of the medicinal product, see section 6.3
+Store in a refrigerator (2 °C - 8 °C). Do not freeze. Store in the original package in order to protect from light. For storage conditions after reconstitution of the medicinal product, see section 6.3
 
 ## 6.5 Nature and contents of container
 
-Arexvy is presented as:
+Arexvy is available as two presentations, as described below.
+
+## Arexvy powder and suspension for suspension for injection (vial/vial) :
 
 - Powder for 1 dose in a vial (type I glass) with a stopper (butyl rubber) and a mustard green flip-off cap (antigen).
 - Suspension for 1 dose in a vial (type I glass) with a stopper (butyl rubber) and a brown flipoff cap (adjuvant).
 
 Arexvy is available in a pack size of 1 vial of powder plus 1 vial of suspension or in a pack size of 10 vials of powder plus 10 vials of suspension.
+
+The stopper of the vial is made with synthetic rubber.
+
+## Arexvy powder and suspension for suspension for injection in pre-filled syringe (vial/pre-filled syringe):
+
+- Powder for 1 dose in a vial (type I glass) with a stopper (butyl rubber) and a grey flip-off cap (antigen).
+- Suspension for 1 dose in a pre-filled syringe (type I glass) with a plunger stopper (butyl rubber) and a rubber tip cap (adjuvant).
+
+Arexvy is available in a pack size of 1 vial of powder plus 1 pre-filled syringe of suspension without needle or in a pack size of 10 vials of powder plus 10 pre-filled syringes of suspension without needles.
+
+The tip cap and plunger stopper of the pre-filled syringe and the stopper of the vial are made with synthetic rubber.
 
 Not all pack sizes may be marketed.
 
@@ -487,23 +498,40 @@ Not all pack sizes may be marketed.
 
 The powder and the suspension must be reconstituted prior to administration.
 
+The powder and suspension should be inspected visually for any foreign particulate matter and/or variation of appearance. If either is observed, do not reconstitute the vaccine.
+
+<div style=\"page-break-after: always\"></div>
+
+## How to prepare Arexvy
+
+## Vial/vial
+
 1 dose (0.5 mL)
 
 <!-- image -->
 
-| Antigen Powder   | Adjuvant   |
-|------------------|------------|
-|                  | Suspension |
-
-The powder and suspension should be inspected visually for any foreign particulate matter and/or variation of appearance. If either is observed, do not reconstitute the vaccine.
-
-## How to prepare Arexvy
-
-Arexvy must be reconstituted prior to administration.
-
-1. Withdraw the entire contents of the vial containing the suspension into a syringe.
+1. Withdraw the entire contents of the vial containing the suspension into a syringe with a suitable needle (21G to 25G).
 2. Add the entire contents of the syringe into the vial containing the powder.
 3. Gently swirl until the powder is completely dissolved.
+4. Withdraw 0.5 mL of the reconstituted vaccine into the syringe and administer the vaccine intramuscularly using a new needle.
+
+## Vial/pre-filled syringe
+
+1. After attaching a suitable needle (21G to 25G) to the pre-filled syringe as illustrated below, add its entire contents into the vial containing the powder.
+2. Gently swirl until the powder is completely dissolved.
+3. Withdraw the entire contents of the reconstituted vaccine into the syringe and administer the vaccine intramuscularly using a new needle.
+
+## Instructions for the pre-filled syringe
+
+<!-- image -->
+
+Hold the syringe by the barrel, not by the plunger.
+
+Unscrew the syringe cap by twisting it anticlockwise.
+
+<div style=\"page-break-after: always\"></div>
+
+<!-- image -->
 
 The reconstituted vaccine is an opalescent, colourless to pale brownish liquid.
 
@@ -511,17 +539,9 @@ The reconstituted vaccine should be inspected visually for any foreign particula
 
 Chemical and physical in-use stability has been demonstrated for 4 hours at 2 °C - 8 °C or at room temperature up to 25 °C.
 
-From a microbiological point of view, the product should be used immediately. If not used immediately, in-use storage times and conditions prior to use are the responsibility of the user and should not be longer than 4 hours.
+From a microbiological point of view, the product is to be used immediately. If not used immediately, in-use storage times and conditions prior to use are the responsibility of the user and should not be longer than 4 hours.
 
-<div style=\"page-break-after: always\"></div>
-
-## Before administration
-
-1. Withdraw 0.5 mL of the reconstituted vaccine into the syringe.
-
-2. Change the needle so that you are using a new needle.
-
-Administer the vaccine intramuscularly.
+## Disposal
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
@@ -531,9 +551,7 @@ GlaxoSmithKline Biologicals SA Rue de l'Institut 89 1330 Rixensart Belgium
 
 ## 8. MARKETING AUTHORISATION NUMBERS
 
-EU/1/23/1740/001
-
-EU/1/23/1740/002
+EU/1/23/1740/001 EU/1/23/1740/002 EU/1/23/1740/003 EU/1/23/1740/004
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -605,9 +623,13 @@ An updated RMP should be submitted:
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING OUTER CARTON
 
+POWDER IN VIAL + SUSPENSION IN VIAL
+
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Arexvy powder and suspension for suspension for injection Respiratory Syncytial Virus (RSV) vaccine (recombinant, adjuvanted)
+Arexvy powder and suspension for suspension for injection
+
+Respiratory Syncytial Virus (RSV) vaccine (recombinant, adjuvanted)
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE
 
@@ -617,11 +639,11 @@ After reconstitution, 1 dose (0.5 mL) contains 120 micrograms of Respiratory Syn
 
 Powder:
 
-Trehalose dihydrate, Polysorbate 80, Potassium dihydrogen phosphate, Dipotassium phosphate.
+Trehalose dihydrate, Polysorbate 80, Potassium dihydrogen phosphate, Dipotassium phosphate
 
 Suspension:
 
-Dioleoyl phosphatidylcholine, Cholesterol, Sodium chloride, Disodium phosphate, anhydrous, Potassium dihydrogen phosphate, Water for injections.
+Dioleoyl phosphatidylcholine, Cholesterol, Sodium chloride, Disodium phosphate anhydrous, Potassium dihydrogen phosphate, Water for injections
 
 See leaflet for further information
 
@@ -633,9 +655,9 @@ Powder and suspension for suspension for injection
 
 1 vial: suspension (adjuvant)
 
-- 10 vials: powder (antigen)
+10 vials: powder (antigen)
 
-- 10 vials: suspension (adjuvant)
+10 vials: suspension (adjuvant)
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -649,9 +671,11 @@ Keep out of the sight and reach of children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-Powder and suspension to be reconstituted before administration
+Powder and suspension to be reconstituted before administration.
 
 <div style=\"page-break-after: always\"></div>
+
+Antigen Adjuvant
 
 1 dose (0.5 mL)
 
@@ -681,7 +705,9 @@ Rue de l'Institut 89
 
 ## 12. MARKETING AUTHORISATION NUMBERS
 
-EU/1/23/1740/001 1 vial and 1 vial EU/1/23/1740/002 10 vials and 10 vials
+EU/1/23/1740/001 1 vial and 1 vial
+
+EU/1/23/1740/002 10 vials and 10 vials
 
 ## 13. BATCH NUMBER
 
@@ -710,9 +736,109 @@ PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING OUTER CARTON
+
+POWDER IN VIAL + SUSPENSION IN PRE-FILLED SYRINGE
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Arexvy powder and suspension for suspension for injection in pre-filled syringe Respiratory Syncytial Virus (RSV) vaccine (recombinant, adjuvanted)
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE
+
+After reconstitution, 1 dose (0.5 mL) contains 120 micrograms of Respiratory Syncytial Virus recombinant glycoprotein F stabilised in the pre-fusion conformation adjuvanted with AS01E
+
+## 3. LIST OF EXCIPIENTS
+
+Powder:
+
+Trehalose dihydrate, Polysorbate 80, Potassium dihydrogen phosphate, Dipotassium phosphate
+
+Suspension:
+
+Dioleoyl phosphatidylcholine, Cholesterol, Sodium chloride, Disodium phosphate anhydrous, Potassium dihydrogen phosphate, Water for injections
+
+See leaflet for further information
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+Powder and suspension for suspension for injection in pre-filled syringe
+
+1 vial: powder (antigen)
+
+1 pre-filled syringe: suspension (adjuvant)
+
+10 vials: powder (antigen)
+
+10 pre-filled syringes: suspension (adjuvant)
+
+## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+
+Read the package leaflet before use.
+
+Intramuscular use
+
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
+Keep out of the sight and reach of children.
+
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+Powder and suspension to be reconstituted before administration.
+
+<div style=\"page-break-after: always\"></div>
+
+## 8. EXPIRY DATE
+
+EXP
+
+## 9. SPECIAL STORAGE CONDITIONS
+
+Store in a refrigerator.
+
+Do not freeze.
+
+Store in the original package in order to protect from light.
+
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+
+GlaxoSmithKline Biologicals SA Rue de l'Institut 89 1330 Rixensart, Belgium
+
+## 12. MARKETING AUTHORISATION NUMBERS
+
+EU/1/23/1740/003 1 vial and 1 pre-filled syringe without needle EU/1/23/1740/004 10 vials and 10 pre-filled syringes without needles
+
+## 13. BATCH NUMBER
+
+Lot
+
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
+
+15. INSTRUCTIONS ON USE
+
+## 16. INFORMATION IN BRAILLE
+
+Justification for not including Braille accepted.
+
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
+
+2D barcode carrying the unique identifier included.
+
+18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+
+PC
+
+<div style=\"page-break-after: always\"></div>
+
+SN NN
+
+<div style=\"page-break-after: always\"></div>
+
 | MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
 |------------------------------------------------------------------|
-| VIAL WITH POWDER                                                 |
+| VIAL WITH POWDERLABEL                                            |
 
 | 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION   |
 |------|----------------------------------------------------------|
@@ -737,33 +863,25 @@ Lot
 | 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
 |------|---------------------------------------|
 
-1 dose
+1 dose Adjuvant for Arexvy Mix with antigen EXP
 
 | 6.   | OTHER   |
 |------|---------|
 
-24
-
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| VIAL WITH SUSPENSION                                             |
+| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS      |
+|---------------------------------------------------------------------|
+| VIAL WITH SUSPENSION LABEL PRE-FILLED SYRINGE WITH SUSPENSION LABEL |
 
 | 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION   |
 |------|----------------------------------------------------------|
 
-Adjuvant for Arexvy
-
 | 2.   | METHODOFADMINISTRATION   |
 |------|--------------------------|
 
-Mix with antigen
-
 | 3.   | EXPIRY DATE   |
 |------|---------------|
-
-EXP
 
 | 4.   | BATCH NUMBER   |
 |------|----------------|
@@ -773,7 +891,7 @@ Lot
 | 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
 |------|---------------------------------------|
 
-1 dose (0.5 mL)
+0.5 mL
 
 | 6.   | OTHER   |
 |------|---------|
@@ -874,17 +992,19 @@ If you are pregnant or breast-feeding, think you may be pregnant or are planning
 
 Some of the effects mentioned below in section 4 'Possible side effects' (e.g. feeling tired) may temporarily affect the ability to drive or use machines. Do not drive or use machines or tools if you are feeling unwell.
 
-## Arexvy contains sodium and potassium
+## Arexvy contains polysorbate 80, sodium and potassium
+
+This medicine contains 0.18 mg of polysorbate 80 per dose. Polysorbates may cause allergic reactions. Tell your doctor if you have any known allergies.
 
 This medicine contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodiumfree'.
 
 This medicine contains less than 1 mmol (39 mg) potassium per dose, i.e. essentially 'potassium-free'.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 3. How Arexvy is given
 
 Arexvy is given as a single dose injection of 0.5 mL into a muscle. It is usually given into the upper arm.
-
-<div style=\"page-break-after: always\"></div>
 
 If you have any further questions on the use of this medicine, ask your doctor or pharmacist.
 
@@ -936,13 +1056,11 @@ Tell your doctor or pharmacist if you get any of the side effects listed above. 
 
 If any of the side effects gets serious, or if you notice any side effects not listed in this leaflet, please tell your doctor or pharmacist.
 
-## Reporting of side effects
-
-If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system
-
 <div style=\"page-break-after: always\"></div>
 
-listed in Appendix V. By reporting side effects, you can help provide more information on the safety of this medicine.
+## Reporting of side effects
+
+If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects, you can help provide more information on the safety of this medicine.
 
 ## 5. How to store Arexvy
 
@@ -961,7 +1079,9 @@ listed in Appendix V. By reporting side effects, you can help provide more infor
 
 After reconstitution, one dose (0.5 mL) contains:
 
-RSVPreF3 1  antigen 2,3 120 micrograms
+RSVPreF3 1  antigen 2,3
+
+120 micrograms
 
 1 Respiratory Syncytial Virus recombinant glycoprotein F stabilised in the pre-fusion conformation = RSVPreF3
 
@@ -979,17 +1099,18 @@ The adjuvant is used to improve the body's response to the vaccine.
 - o Powder (RSVPreF3 antigen): Trehalose dihydrate, polysorbate 80 (E 433), potassium dihydrogen phosphate (E 340), dipotassium phosphate (E 340).
 - o Suspension : Dioleoyl phosphatidylcholine (E 322), cholesterol, sodium chloride, disodium phosphate anhydrous (E 339), potassium dihydrogen phosphate (E 340) and water for injections.
 
-See Section 2 'Arexvy contains sodium and potassium'.
+See section 2 'Arexvy contains polysorbate 80, sodium and potassium'.
 
 ## What Arexvy looks like and contents of the pack
 
 - Powder and suspension for suspension for injection.
 - The powder is white.
-- The suspension is an opalescent, colourless to pale brownish liquid.
-
-One pack of Arexvy consists of:
 
 <div style=\"page-break-after: always\"></div>
+
+- The suspension is an opalescent, colourless to pale brownish liquid.
+
+## One pack of Arexvy consists of:
 
 - Powder (antigen) for 1 dose in a vial
 - Suspension (adjuvant) for 1 dose in a vial
@@ -1010,9 +1131,7 @@ GlaxoSmithKline Pharmaceuticals s.a./n.v Tél/Tel : + 32 (0) 10 85 52 00
 
 ## Lietuva
 
-GlaxoSmithKline Biologicals SA
-
-Tel: +370 80000334
+GlaxoSmithKline Biologicals SA Tel: +370 80000334
 
 ## България
 
@@ -1024,25 +1143,15 @@ GlaxoSmithKline Pharmaceuticals s.a./n.v Belgique/Belgien Tél/Tel: + 32 (0) 10 
 
 ## Česká republika
 
-GlaxoSmithKline s.r.o.
-
-Tel: + 420 222 001 111
-
-cz.info@gsk.com
+GlaxoSmithKline s.r.o. Tel: + 420 222 001 111 cz.info@gsk.com
 
 ## Magyarország
 
-GlaxoSmithKline Biologicals SA
-
-Tel.: +36 80088309
+GlaxoSmithKline Biologicals SA Tel.: +36 80088309
 
 ## Danmark
 
-GlaxoSmithKline Pharma A/S
-
-Tlf.: + 45 36 35 91 00
-
-dk-info@gsk.com
+GlaxoSmithKline Pharma A/S Tlf.: + 45 36 35 91 00 dk-info@gsk.com
 
 ## Malta
 
@@ -1052,11 +1161,7 @@ Tel: +356 80065004
 
 ## Deutschland
 
-GlaxoSmithKline GmbH &amp; Co. KG
-
-Tel: + 49 (0)89 360448701
-
-produkt.info@gsk.com
+GlaxoSmithKline GmbH &amp; Co. KG Tel: + 49 (0)89 360448701 produkt.info@gsk.com
 
 ## Nederland
 
@@ -1090,15 +1195,13 @@ GlaxoSmithKline, S.A.
 
 Tel: + 34 900 202 700
 
+es-ci@gsk.com
+
 ## Polska
 
 GSK Services Sp. z o.o.
 
 Tel.: + 48 (22) 576 9000
-
-<div style=\"page-break-after: always\"></div>
-
-GlaxoSmithKline - Produtos Farmacêuticos, Lda. Tel : + 351 21 412 95 00 FI.PT@gsk.com
 
 ## France
 
@@ -1115,6 +1218,12 @@ GlaxoSmithKline Biologicals SA
 Tel.: +385 800787089
 
 ## Portugal
+
+GlaxoSmithKline - Produtos Farmacêuticos, Lda.
+
+Tel : + 351 21 412 95 00
+
+FI.PT@gsk.com
 
 ## România
 
@@ -1136,7 +1245,449 @@ Tel: +386 80688869
 
 ## Ísland
 
-Vistor hf.
+Vistor ehf.
+
+Sími: +354 535 7000
+
+## Slovenská republika
+
+GlaxoSmithKline Biologicals SA
+
+Tel.: +421 800500589
+
+## Italia
+
+GlaxoSmithKline S.p.A.
+
+Tel: + 39 (0)45 7741 111
+
+## Suomi/Finland
+
+GlaxoSmithKline Oy
+
+Puh/Tel: + 358 10 30 30 30
+
+## Κύπρος
+
+GlaxoSmithKline Biologicals SA
+
+Τηλ:
+
++357 80070017
+
+## Sverige
+
+GlaxoSmithKline AB Tel: + 46 (0)8 638 93 00 info.produkt@gsk.com
+
+## Latvija
+
+GlaxoSmithKline Biologicals SA
+
+Tel: +371 80205045
+
+<div style=\"page-break-after: always\"></div>
+
+## This leaflet was last revised in
+
+## Other sources of information
+
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
+
+&lt;------------------------------------------------------------------------------------------------------------------------&gt;
+
+The following information is intended for healthcare professionals only:
+
+Arexvy is presented as a vial with a mustard green flip-off cap containing the powder (antigen) and a vial with a brown flip-off cap containing the suspension (adjuvant).
+
+The powder and the suspension must be reconstituted prior to administration.
+
+<div style=\"page-break-after: always\"></div>
+
+1 dose (0.5 mL)
+
+<!-- image -->
+
+The powder and suspension should be inspected visually for any foreign particulate matter and/or variation of appearance. If either is observed, do not reconstitute the vaccine.
+
+## How to prepare   Arexvy
+
+1. Withdraw the entire contents of the vial containing the suspension into the syringe with a suitable needle (21G to 25G).
+2. Add the entire contents of the syringe into the vial containing the powder.
+3. Gently swirl until the powder is completely dissolved.
+4. Withdraw 0.5 mL of the reconstituted vaccine into the syringe and administer the vaccine intramuscularly using a new needle.
+
+The reconstituted vaccine is an opalescent, colourless to pale brownish liquid.
+
+The reconstituted vaccine should be inspected visually for any foreign particulate matter and/or variation of appearance. If either is observed, do not administer the vaccine.
+
+Chemical and physical in-use stability has been demonstrated for 4 hours at 2 °C - 8 °C or at room temperature up to 25 °C.
+
+From a microbiological point of view, the product is to be used immediately. If not used immediately, in-use storage times and conditions prior to use are the responsibility of the user and should not be longer than 4 hours.
+
+## Disposal
+
+Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
+
+## Package leaflet: Information for the user
+
+<div style=\"page-break-after: always\"></div>
+
+## Arexvy powder and suspension for suspension for injection in pre-filled syringe
+
+Respiratory Syncytial Virus (RSV) vaccine (recombinant, adjuvanted)
+
+This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
+
+## Read all of this leaflet carefully before you receive this vaccine because it contains important information for you.
+
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor or pharmacist.
+- This medicine has been prescribed for you only. Do not pass it on to others.
+- If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
+
+## What is in this leaflet
+
+1. What Arexvy is and what it is used for
+2. What you need to know before you receive Arexvy
+3. How Arexvy is given
+4. Possible side effects
+5. How to store Arexvy
+6. Contents of the pack and other information
+
+## 1. What Arexvy is and what it is used for
+
+Arexvy is a vaccine that helps to protect adults aged 18 years and older against a virus called 'respiratory syncytial virus' (RSV).
+
+RSV is a respiratory virus that spreads very easily.
+
+- RSV can cause lower respiratory tract disease - infections of the lungs and other parts of the body that help you breathe.
+
+RSV infection usually causes mild, cold-like signs in healthy adults. But it can also:
+
+- cause more serious respiratory illnesses and complications, such as infections of the lungs (pneumonia), in older adults and adults with underlying medical conditions
+- make some illnesses worse, such as long-term respiratory or heart diseases.
+
+## How Arexvy works
+
+Arexvy helps your body's natural defences make antibodies and special white blood cells. These protect you against RSV.
+
+Arexvy does not contain the virus. This means it cannot cause an infection.
+
+## 2. What you need to know before you receive Arexvy
+
+## Do not use Arexvy
+
+- if you are allergic to the active substances or any of the other ingredients of this vaccine
+
+<div style=\"page-break-after: always\"></div>
+
+(listed in section 6).
+
+Do not use Arexvy if any of the above apply to you. If you are not sure, talk to your doctor or pharmacist.
+
+## Warnings and precautions
+
+Talk to your doctor, pharmacist or nurse before you receive Arexvy if:
+
+- you have ever had a severe allergic reaction after the injection of any other vaccine.
+- you have a severe infection with a high temperature (fever). If this happens, the vaccination may be delayed until you feel better. A minor infection such as a cold should not be a problem but talk to your doctor first.
+- you have a bleeding problem or bruise easily.
+- you have fainted with a previous injection - fainting can happen before or after any needle injection
+- you have a weakened immune system, which may prevent you from getting the full benefit from Arexvy.
+
+If any of the above apply to you, or you are not sure, talk to your doctor or pharmacist before you have Arexvy.
+
+As with all vaccines, Arexvy may not fully protect all people who are vaccinated.
+
+## Other medicines/vaccines and Arexvy
+
+Tell your doctor or pharmacist if:
+
+- you are taking, have recently taken or might take any other medicines. This includes medicines obtained without a prescription.
+- you have recently received any other vaccine.
+
+Arexvy may be given at the same time as a flu vaccine, pneumococcal conjugate vaccine, shingles (herpes zoster) vaccine or COVID-19 mRNA vaccine.
+
+If Arexvy is given at the same time as another injectable vaccine, a different injection site will be used for each vaccine, which means a different arm for each injection.
+
+## Pregnancy and breast-feeding
+
+If you are pregnant or breast-feeding, think you may be pregnant or are planning to have a baby, ask your doctor or pharmacist for advice before you are given this vaccine. Arexvy is not recommended during pregnancy or breast-feeding.
+
+## Driving and using machines
+
+Some of the effects mentioned below in section 4 'Possible side effects' (e.g. feeling tired) may temporarily affect the ability to drive or use machines. Do not drive or use machines or tools if you are feeling unwell.
+
+## Arexvy contains polysorbate 80, sodium and potassium
+
+This medicine contains 0.20 mg of polysorbate 80 per dose. Polysorbates may cause allergic reactions. Tell your doctor if you have any known allergies.
+
+This medicine contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodiumfree'.
+
+This medicine contains less than 1 mmol (39 mg) potassium per dose, i.e. essentially 'potassium-free'.
+
+<div style=\"page-break-after: always\"></div>
+
+## 3. How Arexvy is given
+
+Arexvy is given as a single dose injection of 0.5 mL into a muscle. It is usually given into the upper arm.
+
+If you have any further questions on the use of this medicine, ask your doctor or pharmacist.
+
+## 4. Possible side effects
+
+Like all medicines, this medicine can cause side effects, although not everybody gets them.
+
+## Serious side effects
+
+Very rare (these may occur with up to 1 in 10 000 doses of the vaccine):
+
+- a neurological disorder that usually starts with pins and needles and weakness of the limbs and may progress to paralysis of part or all of the body (Guillain-Barré syndrome)
+
+Tell your doctor immediately if you notice signs of this serious side effect.
+
+## The following side effects may happen after receiving Arexvy:
+
+Very common (these may occur with more than 1 in 10 doses of the vaccine):
+
+- pain at the injection site
+- feeling tired (fatigue)
+- headache
+- muscle pain (myalgia)
+- joint pain (arthralgia)
+
+Common (these may occur with up to 1 in 10 doses of the vaccine):
+
+- swelling where the injection is given
+- redness where the injection is given
+- fever
+- chills
+
+Uncommon (these may occur with up to 1 in 100 doses of vaccine)
+
+- itching at the injection site
+- pain
+- generally feeling unwell (malaise)
+- enlarged lymph nodes, or swollen glands in the neck, armpit or groin (lymphadenopathy)
+- allergic reactions such as rash
+- feeling sick (nausea)
+- vomiting
+- stomach pain
+
+Not known (cannot be estimated from the available data):
+
+- death of skin tissue in the injection site (injection site necrosis)
+
+Tell your doctor or pharmacist if you get any of the side effects listed above. Most of these side effects are mild to moderate in intensity and do not last long.
+
+If any of the side effects gets serious, or if you notice any side effects not listed in this leaflet, please tell your doctor or pharmacist.
+
+<div style=\"page-break-after: always\"></div>
+
+## Reporting of side effects
+
+If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects, you can help provide more information on the safety of this medicine.
+
+## 5. How to store Arexvy
+
+- Keep this medicine out of the sight and reach of children.
+- Do not use this medicine after the expiry date which is stated on the label and carton after EXP. The expiry date refers to the last day of that month.
+- Store in a refrigerator (2 °C - 8 °C).
+- Do not freeze.
+- Store in the original package in order to protect from light.
+- Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
+
+## 6. Contents of the pack and other information
+
+## What Arexvy contains
+
+- The active substances are:
+
+After reconstitution, one dose (0.5 mL) contains:
+
+RSVPreF3 1  antigen 2,3
+
+120 micrograms
+
+1 Respiratory Syncytial Virus recombinant glycoprotein F stabilised in the pre-fusion conformation = RSVPreF3
+
+2  RSVPreF3 produced in Chinese Hamster Ovary (CHO) cells by recombinant DNA technology
+
+3 adjuvanted with AS01E containing:
+
+plant extract Quillaja saponaria Molina, fraction 21 (QS-21) 25 micrograms 3-O-desacyl-4'-monophosphoryl lipid A (MPL) from Salmonella minnesota 25 micrograms
+
+The RSVPreF3 is a protein present in the Respiratory Syncytial Virus. This protein is not infectious.
+
+The adjuvant is used to improve the body's response to the vaccine.
+
+- The other ingredients are:
+- o Powder (RSVPreF3 antigen): Trehalose dihydrate, polysorbate 80 (E 433), potassium dihydrogen phosphate (E 340), dipotassium phosphate (E 340).
+- o Suspension : Dioleoyl phosphatidylcholine (E 322), cholesterol, sodium chloride, disodium phosphate anhydrous (E 339), potassium dihydrogen phosphate (E 340) and water for injections.
+
+See section 2 'Arexvy contains polysorbate 80, sodium and potassium'.
+
+## What Arexvy looks like and contents of the pack
+
+- Powder and suspension for suspension for injection in pre-filled syringe.
+- The powder is white.
+
+<div style=\"page-break-after: always\"></div>
+
+- The suspension is an opalescent, colourless to pale brownish liquid.
+
+## One pack of Arexvy consists of:
+
+- Powder (antigen) for 1 dose in a vial
+- Suspension (adjuvant) for 1 dose in a pre-filled syringe
+
+Arexvy is available in a pack size of 1 vial of powder plus 1 pre-filled syringe of suspension without needle or in a pack size of 10 vials of powder plus 10 pre-filled syringes of suspension without needles.
+
+Not all pack sizes may be marketed.
+
+## Marketing Authorisation Holder and Manufacturer
+
+GlaxoSmithKline Biologicals SA Rue de l'Institut 89 1330 Rixensart Belgium
+
+For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
+
+## België/Belgique/Belgien
+
+GlaxoSmithKline Pharmaceuticals s.a./n.v Tél/Tel : + 32 (0) 10 85 52 00
+
+## България
+
+GlaxoSmithKline Biologicals SA Тел. +359 80018205
+
+## Česká republika
+
+GlaxoSmithKline s.r.o.
+
+Tel: + 420 222 001 111
+
+cz.info@gsk.com
+
+## Danmark
+
+GlaxoSmithKline Pharma A/S
+
+Tlf.: + 45 36 35 91 00
+
+dk-info@gsk.com
+
+## Deutschland
+
+GlaxoSmithKline GmbH &amp; Co. KG
+
+Tel: + 49 (0)89 360448701
+
+produkt.info@gsk.com
+
+## Eesti
+
+GlaxoSmithKline Biologicals SA
+
+Tel: +372 8002640
+
+## Ελλάδα
+
+GlaxoSmithKline Μονοπρόσωπη A.E.B.E. Tηλ: + 30 210 68 82 100
+
+## Lietuva
+
+GlaxoSmithKline Biologicals SA Tel: +370 80000334
+
+## Luxembourg/Luxemburg
+
+GlaxoSmithKline Pharmaceuticals s.a./n.v Belgique/Belgien Tél/Tel: + 32 (0) 10 85 52 00
+
+## Magyarország
+
+GlaxoSmithKline Biologicals SA
+
+Tel.: +36 80088309
+
+## Malta
+
+GlaxoSmithKline Biologicals SA
+
+Tel: +356 80065004
+
+## Nederland
+
+GlaxoSmithKline BV
+
+Tel: + 31 (0)33 2081100
+
+## Norge
+
+GlaxoSmithKline AS
+
+Tlf: + 47 22 70 20 00
+
+## Österreich
+
+GlaxoSmithKline Pharma GmbH Tel: + 43 (0)1 97075 0 at.info@gsk.com
+
+<div style=\"page-break-after: always\"></div>
+
+## España
+
+## Polska
+
+GlaxoSmithKline, S.A.
+
+Tel: + 34 900 202 700
+
+es-ci@gsk.com
+
+GSK Services Sp. z o.o.
+
+Tel.: + 48 (22) 576 9000
+
+## France
+
+Laboratoire GlaxoSmithKline
+
+Tél : + 33 (0) 1 39 17 84 44
+
+diam@gsk.com
+
+## Hrvatska
+
+GlaxoSmithKline Biologicals SA
+
+Tel.: +385 800787089
+
+## Portugal
+
+GlaxoSmithKline - Produtos Farmacêuticos, Lda.
+
+Tel : + 351 21 412 95 00
+
+FI.PT@gsk.com
+
+## România
+
+GlaxoSmithKline Biologicals SA
+
+Tel: +40 800672524
+
+## Ireland
+
+GlaxoSmithKline (Ireland) Ltd
+
+Tel: + 353 (0)1 495 5000
+
+## Slovenija
+
+GlaxoSmithKline Biologicals SA
+
+Tel: +386 80688869
+
+## Ísland
+
+Vistor ehf.
 
 Sími: +354 535 7000
 
@@ -1186,25 +1737,35 @@ Detailed information on this medicine is available on the European Medicines Age
 
 The following information is intended for healthcare professionals only:
 
-Arexvy is presented as a vial with a mustard green flip-off cap containing the powder (antigen) and a vial with a brown flip-off cap containing the suspension (adjuvant).
-
-The powder and the suspension must be reconstituted prior to administration.
+Arexvy is presented as a vial with a grey flip-off cap containing the powder (antigen) and a pre-filled syringe (type I glass) with a plunger stopper (butyl rubber) and a rubber tip cap (adjuvant).
 
 <div style=\"page-break-after: always\"></div>
 
-1 dose (0.5 mL)
-
-<!-- image -->
+The powder and the suspension must be reconstituted prior to administration.
 
 The powder and suspension should be inspected visually for any foreign particulate matter and/or variation of appearance. If either is observed, do not reconstitute the vaccine.
 
 ## How to prepare   Arexvy
 
-Arexvy must be reconstituted prior to administration.
+1. After attaching a suitable needle (21G to 25G) to the pre-filled syringe as illustrated below, add its entire contents into the vial containing the powder.
+2. Gently swirl until the powder is completely dissolved.
+3. Withdraw the entire contents of the reconstituted vaccine into the syringe and administer the vaccine intramuscularly using a new needle.
 
-1. Withdraw the entire contents of the vial containing the suspension into the syringe.
-2. Add the entire contents of the syringe into the vial containing the powder.
-3. Gently swirl until the powder is completely dissolved.
+## Instructions for the pre-filled syringe
+
+<!-- image -->
+
+<!-- image -->
+
+Hold the syringe by the barrel, not by the plunger.
+
+Unscrew the syringe cap by twisting it anticlockwise.
+
+To attach the needle, connect the hub to the Luer Lock Adaptor and rotate a quarter turn clockwise until you feel it lock.
+
+Reconstitute the vaccine as described above.
+
+Do not pull the syringe plunger out of the barrel. If it happens, do not administer the vaccine.
 
 The reconstituted vaccine is an opalescent, colourless to pale brownish liquid.
 
@@ -1212,13 +1773,8 @@ The reconstituted vaccine should be inspected visually for any foreign particula
 
 Chemical and physical in-use stability has been demonstrated for 4 hours at 2 °C - 8 °C or at room temperature up to 25 °C.
 
-From a microbiological point of view, the product should be used immediately. If not used immediately, in-use storage times and conditions prior to use are the responsibility of the user and should not be longer than 4 hours.
+From a microbiological point of view, the product is to be used immediately. If not used immediately, in-use storage times and conditions prior to use are the responsibility of the user and should not be longer than 4 hours.
 
-## Before administration
-
-1. Withdraw 0.5 mL of the reconstituted vaccine into the syringe.
-2. Change the needle so that you are using a new needle.
-
-Administer the vaccine intramuscularly.
+## Disposal
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.

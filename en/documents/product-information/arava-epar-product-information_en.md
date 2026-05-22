@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-05-08 12:50:57
+document_datetime: 2026-05-19 17:06:29
 document_pages: 99
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/arava-epar-product-information_en.pdf
 document_name: arava-epar-product-information_en.pdf
 version: success
-processing_time: 22.8127863
-conversion_datetime: 2026-05-10 12:17:32.414796
+processing_time: 37.858495
+conversion_datetime: 2026-05-22 23:34:38.345321
 docling_version:
-  docling-serve: 1.17.0
-  docling-jobkit: 1.18.0
-  docling: 2.92.0
-  docling-core: 2.74.1
+  docling-serve: 1.20.0
+  docling-jobkit: 1.20.0
+  docling: 2.95.0
+  docling-core: 2.77.0
   docling-ibm-models: 3.13.2
-  docling-parse: 5.10.1
+  docling-parse: 5.11.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -153,11 +153,25 @@ In case of ulcerative stomatitis, leflunomide administration should be discontin
 
 Very rare cases of Stevens Johnson syndrome or toxic epidermal necrolysis and Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) have been reported in patients treated with leflunomide. As soon as skin and/or mucosal reactions are observed which raise the suspicion of such severe reactions, Arava and any other possibly associated treatment must be discontinued, and a leflunomide washout procedure initiated immediately. A complete washout is essential in such cases. In such cases re-exposure to leflunomide is contraindicated (see section 4.3).
 
+## Haemophagocytic lymphohistiocytosis (HLH) / Macrophage activation syndrome (MAS):
+
+Haemophagocytic lymphohistiocytosis (HLH), including macrophage activation syndrome (MAS), has been reported in patients treated with leflunomide.
+
+Although rare, Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) associated with leflunomide may be complicated by HLH or MAS. Cases of HLH/MAS have also been reported independently of DRESS.
+
+HLH/MAS is a serious and potentially life-threatening hyperinflammatory condition. Clinical features may include persistent fever, rash, neurological symptoms, hepatosplenomegaly, lymphadenopathy, cytopenias, markedly elevated serum ferritin, hypertriglyceridaemia, and abnormalities of liver function and coagulation.
+
+Patients should be informed about the signs and symptoms associated with HLH/MAS and advised to seek medical attention immediately if such symptoms occur during leflunomide treatment.
+
+If patients develop any of these conditions, stop leflunomide treatment and perform an accelerated drug elimination procedure (see section 4.4). Early recognition and prompt management are important to improve outcomes.
+
 Pustular psoriasis and worsening of psoriasis have been reported after the use of leflunomide. Treatment withdrawal may be considered taking into account patient's disease and past history.
 
 Skin ulcers can occur in patients during therapy with leflunomide. If leflunomide-associated skin ulcer is  suspected  or  if  skin  ulcers  persist  despite  appropriate  therapy,  leflunomide  discontinuation  and  a complete washout procedure should be considered. The decision to resume leflunomide following skin ulcers should be based on clinical judgment of adequate wound healing.
 
 Impaired wound-healing after surgery can occur in patients during therapy with leflunomide. Based on an individual assessment, it may be considered to interrupt leflunomide treatment in the peri-surgical period and administer a washout procedure as described below. In case of interruption, the decision to resume leflunomide should be based on clinical judgment of adequate wound healing.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Infections
 
@@ -165,11 +179,7 @@ It is known that medicinal products with immunosuppressive properties - like lef
 
 Rare cases of Progressive Multifocal Leukoencephalopathy (PML) have been reported in patients receiving leflunomide among other immunosuppressants.
 
-Before starting treatment, all patients should be evaluated for active and inactive ('latent') tuberculosis, as per local recommendations. This can include medical history, possible previous contact with tuberculosis, and/or appropriate screening such as lung x-ray, tuberculin test and/or interferon-gamma release assay, as applicable. Prescribers are reminded of the risk of false negative tuberculin skin test results, especially in patients who are severely ill or immunocompromised.
-
-<div style=\"page-break-after: always\"></div>
-
-Patients with a history of tuberculosis should be carefully monitored because of the possibility of reactivation of the infection.
+Before starting treatment, all patients should be evaluated for active and inactive ('latent') tuberculosis, as per local recommendations. This can include medical history, possible previous contact with tuberculosis, and/or appropriate screening such as lung x-ray, tuberculin test and/or interferon-gamma release assay, as applicable. Prescribers are reminded of the risk of false negative tuberculin skin test results, especially in patients who are severely ill or immunocompromised. Patients with a history of tuberculosis should be carefully monitored because of the possibility of reactivation of the infection.
 
 ## Respiratory reactions
 
@@ -191,6 +201,8 @@ Blood pressure must be checked before the start of leflunomide treatment and per
 
 Male patients should be aware of the possible male-mediated foetal toxicity. Reliable contraception during treatment with leflunomide should also be guaranteed.
 
+<div style=\"page-break-after: always\"></div>
+
 There are no specific data on the risk of male-mediated foetal toxicity. However, animal studies to evaluate this specific risk have not been conducted. To minimise any possible risk, men wishing to father a child should consider discontinuing use of leflunomide and taking colestyramine 8 g 3 times daily for 11 days or 50 g of activated powdered charcoal 4 times daily for 11 days.
 
 In either case the A771726 plasma concentration is then measured for the first time. Thereafter, the A771726 plasma concentration must be determined again after an interval of at least 14 days. If both plasma concentrations are below 0.02 mg/L, and after a waiting period of at least 3 months, the risk of foetal toxicity is very low.
@@ -198,8 +210,6 @@ In either case the A771726 plasma concentration is then measured for the first t
 ## Washout procedure
 
 Colestyramine 8 g is administered 3 times daily. Alternatively, 50 g of activated powdered charcoal is administered 4 times daily. Duration of a complete washout is usually 11 days. The duration may be modified depending on clinical or laboratory variables.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Lactose
 
@@ -223,6 +233,8 @@ In patients with rheumatoid arthritis, no pharmacokinetic interaction between th
 
 ## Vaccinations
 
+<div style=\"page-break-after: always\"></div>
+
 No clinical data are available on the efficacy and safety of vaccinations under leflunomide treatment. Vaccination with live attenuated vaccines is, however, not recommended. The long half-life of leflunomide should be considered when contemplating administration of a live attenuated vaccine after stopping Arava.
 
 ## Warfarin and other coumarin anticoagulants
@@ -231,11 +243,7 @@ There have been case reports of increased prothrombin time, when leflunomide and
 
 ## NSAIDS/Corticosteroids
 
-If the patient is already receiving nonsteroidal anti-inflammatory drugs (NSAIDs) and/or corticosteroids, these may be continued after starting leflunomide.
-
-<div style=\"page-break-after: always\"></div>
-
-## Effect of other medicinal products on leflunomide:
+If the patient is already receiving nonsteroidal anti-inflammatory drugs (NSAIDs) and/or corticosteroids, these may be continued after starting leflunomide. Effect of other medicinal products on leflunomide:
 
 ## Cholestyramine or activated charcoal
 
@@ -257,6 +265,8 @@ The following pharmacokinetic and pharmacodynamic interaction studies were condu
 
 There was an increase in mean repaglinide Cmax and AUC (1.7- and 2.4-fold, respectively), following repeated doses of A771726, suggesting that A771726 is an inhibitor of CYP2C8 in vivo . Therefore, monitoring patients with concomitant use of medicinal products metabolised by CYP2C8, such as repaglinide, paclitaxel, pioglitazone or rosiglitazone, is recommended as they may have higher exposure.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Effect on caffeine (CYP1A2 substrate)
 
 Repeated doses of A771726 decreased mean Cmax and AUC of caffeine (CYP1A2 substrate) by 18% and 55%, respectively, suggesting that A771726 may be a weak inducer of CYP1A2 in vivo . Therefore, medicinal products metabolised by CYP1A2 (such as duloxetine, alosetron, theophylline and tizanidine) should be used with caution during treatment, as it could lead to the reduction of the efficacy of these products.
@@ -265,9 +275,9 @@ Repeated doses of A771726 decreased mean Cmax and AUC of caffeine (CYP1A2 substr
 
 There was an increase in mean cefaclor Cmax and AUC (1.43- and 1.54-fold, respectively), following repeated doses of A771726, suggesting that A771726 is an inhibitor of OAT3 in vivo . Therefore, when co-administered with substrates of OAT3, such as cefaclor, benzylpenicillin, ciprofloxacin, indomethacin, ketoprofen, furosemide, cimetidine, methotrexate, zidovudine, caution is recommended.
 
-Effect on BCRP (Breast Cancer Resistance Protein) and /or organic anion transporting polypeptide B1 and B3 (OATP1B1/B3) substrates There was an increase in mean rosuvastatin Cmax and AUC (2.65- and 2.51-fold, respectively), following repeated doses of A771726. However, there was no apparent impact of this increase in plasma rosuvastatin exposure on the HMG-CoA reductase activity. If used together, the dose of rosuvastatin should not exceed 10 mg once daily. For other substrates of BCRP (e.g., methotrexate, topotecan, sulfasalazine, daunorubicin, doxorubicin) and the OATP family especially HMG-CoA reductase inhibitors (e.g., simvastatin, atorvastatin, pravastatin, methotrexate, nateglinide, repaglinide, rifampicin) concomitant administration should also be undertaken with caution. Patients should be closely monitored for signs and symptoms of excessive exposure to the medicinal products and reduction of the dose of these medicinal products should be considered.
+## Effect on BCRP (Breast Cancer Resistance Protein) and /or organic anion transporting polypeptide B1 and B3 (OATP1B1/B3) substrates
 
-<div style=\"page-break-after: always\"></div>
+There was an increase in mean rosuvastatin Cmax and AUC (2.65- and 2.51-fold, respectively), following repeated doses of A771726. However, there was no apparent impact of this increase in plasma rosuvastatin exposure on the HMG-CoA reductase activity. If used together, the dose of rosuvastatin should not exceed 10 mg once daily. For other substrates of BCRP (e.g., methotrexate, topotecan, sulfasalazine, daunorubicin, doxorubicin) and the OATP family especially HMG-CoA reductase inhibitors (e.g., simvastatin, atorvastatin, pravastatin, methotrexate, nateglinide, repaglinide, rifampicin) concomitant administration should also be undertaken with caution. Patients should be closely monitored for signs and symptoms of excessive exposure to the medicinal products and reduction of the dose of these medicinal products should be considered.
 
 Effect on oral contraceptive (0.03 mg ethinylestradiol and 0.15 mg levonorgestrel) There was an increase in mean ethinylestradiol Cmax and AUC0-24 (1.58- and 1.54-fold, respectively) and levonorgestrel Cmax and AUC0-24 (1.33- and 1.41-fold, respectively) following repeated doses of A771726. While this interaction is not expected to adversely impact the efficacy of oral contraceptives, consideration should be given to the type of oral contraceptive treatment.
 
@@ -285,6 +295,8 @@ Women of childbearing potential have to use effective contraception during and u
 
 The patient must be advised that if there is any delay in onset of menses or any other reason to suspect pregnancy, they must notify the physician immediately for pregnancy testing, and if positive, the physician and patient must discuss the risk to the pregnancy. It is possible that rapidly lowering the blood level of the active metabolite, by instituting the drug elimination procedure described below, at the first delay of menses may decrease the risk to the foetus from leflunomide.
 
+<div style=\"page-break-after: always\"></div>
+
 In a small prospective study in women (n=64) who became inadvertently pregnant while taking leflunomide for no more than three weeks after conception and followed by a drug elimination procedure, no significant differences (p=0.13) were observed in the overall rate of major structural defects (5.4%) compared to either of the comparison groups (4.2% in the disease matched group [n=108] and 4.2% in healthy pregnant women [n=78]).
 
 For women receiving leflunomide treatment and who wish to become pregnant, one of the following procedures is recommended in order to ascertain that the foetus is not exposed to toxic concentrations of A771726 (target concentration below 0.02 mg/L):
@@ -292,8 +304,6 @@ For women receiving leflunomide treatment and who wish to become pregnant, one o
 ## Waiting period
 
 A771726 plasma levels can be expected to be above 0.02 mg/L for a prolonged period. The concentration may be expected to decrease below 0.02 mg/L about 2 years after stopping the treatment with leflunomide.
-
-<div style=\"page-break-after: always\"></div>
 
 After a 2-year waiting period, the A771726 plasma concentration is measured for the first time. Thereafter, the A771726 plasma concentration must be determined again after an interval of at least 14 days. If both plasma concentrations are below 0.02 mg/L no teratogenic risk is to be expected.
 
@@ -320,6 +330,8 @@ Animal studies indicate that leflunomide or its metabolites pass into breast mil
 
 Results of animal fertility studies have shown no effect on male and female fertility, but adverse effects on male reproductive organs were observed in repeated dose toxicity studies (see section 5.3).
 
+<div style=\"page-break-after: always\"></div>
+
 ## 4.7 Effects on ability to drive and use machines
 
 In the case of side effects such as dizziness the patient's ability to concentrate and to react properly may be impaired. In such cases patients should refrain from driving cars and using machines.
@@ -330,9 +342,7 @@ In the case of side effects such as dizziness the patient's ability to concentra
 
 The most frequently reported adverse effects with leflunomide are: mild increase in blood pressure, leucopenia, paraesthesia, headache, dizziness, diarrhoea, nausea, vomiting, oral mucosal disorders (e.g. aphthous stomatitis, mouth ulceration), abdominal pain, increased hair loss, eczema, rash (including maculo-papular rash), pruritus, dry skin, tenosynovitis, CPK increased, anorexia, weight loss (usually insignificant), asthenia, mild allergic reactions and elevation of liver parameters (transaminases (especially ALT), less often gamma-GT, alkaline phosphatise, bilirubin)).
 
-<div style=\"page-break-after: always\"></div>
-
-Classification of expected frequencies:
+## Classification of expected frequencies:
 
 Very common ( ≥ 1/10); common ( ≥ 1/100 to &lt;1/10); uncommon ( ≥ 1/1,000 to &lt;1/100); rare ( ≥ 1/10,000 to &lt;1/1,000); very rare (&lt;1/10,000), not known (cannot be estimated from the available data).
 
@@ -374,11 +384,9 @@ Recent, concomitant or consecutive use of potentially myelotoxic agents may be a
 
 Common:
 
-mild allergic reactions
-
 Very rare:
 
-severe anaphylactic/anaphylactoid reactions, vasculitis, including cutaneous
+mild allergic reactions severe anaphylactic/anaphylactoid reactions, vasculitis, including cutaneous
 
 necrotizing vasculitis
 
@@ -406,13 +414,15 @@ Uncommon:
 
 anxiety
 
-Nervous system disorders
+<div style=\"page-break-after: always\"></div>
+
+## Nervous system disorders
 
 Common:
 
 paraesthesia, headache, dizziness, peripheral neuropathy
 
-Cardiac disorders
+## Cardiac disorders
 
 Common:
 
@@ -426,13 +436,9 @@ Respiratory, thoracic and mediastinal disorders
 
 Rare:
 
-interstitial lung disease (including interstitial pneumonitis), which may be fatal
-
 Not known:
 
-pulmonary hypertension, pulmonary nodule
-
-<div style=\"page-break-after: always\"></div>
+interstitial lung disease (including interstitial pneumonitis), which may be fatal pulmonary hypertension, pulmonary nodule
 
 ## Gastrointestinal disorders
 
@@ -466,17 +472,21 @@ severe liver injury such as hepatic failure and acute hepatic necrosis that may 
 
 Common:
 
-Uncommon:
+increased hair loss, eczema, rash (including maculopapular rash), pruritus, dry skin
 
-increased hair loss, eczema, rash (including maculopapular rash), pruritus, dry skin urticaria
+Uncommon:
 
 Very rare:
 
 Not known:
 
-toxic epidermal necrolysis, Stevens-Johnson syndrome, erythema multiforme cutaneous lupus erythematosus, pustular psoriasis or worsening psoriasis, Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), skin ulcer
+urticaria
 
-## Musculoskeletal and connective tissue disorders
+toxic epidermal necrolysis, Stevens-Johnson syndrome, erythema multiforme cutaneous lupus erythematosus, pustular psoriasis or worsening psoriasis, Drug
+
+Reaction with Eosinophilia and Systemic Symptoms (DRESS), skin ulcer
+
+Musculoskeletal and connective tissue disorders
 
 Common:
 
@@ -486,7 +496,7 @@ Uncommon:
 
 tendon rupture
 
-## Renal and urinary disorders
+Renal and urinary disorders
 
 Not known:
 
@@ -510,9 +520,7 @@ Reporting suspected adverse reactions after authorisation of the medicinal produ
 
 ## 4.9 Overdose
 
-## Symptoms
-
-There have been reports of chronic overdose in patients taking Arava at daily doses up to five times the recommended daily dose, and reports of acute overdose in adults and children. There were no adverse events reported in the majority of case reports of overdose. Adverse events consistent with the safety profile for leflunomide were: abdominal pain, nausea, diarrhoea, elevated liver enzymes, anaemia, leucopenia, pruritus and rash.
+Symptoms There have been reports of chronic overdose in patients taking Arava at daily doses up to five times the recommended daily dose, and reports of acute overdose in adults and children. There were no adverse events reported in the majority of case reports of overdose. Adverse events consistent with the safety profile for leflunomide were: abdominal pain, nausea, diarrhoea, elevated liver enzymes, anaemia, leucopenia, pruritus and rash.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -550,13 +558,13 @@ A771726, the active metabolite of leflunomide, inhibits the human enzyme dihydro
 
 The efficacy of Arava in the treatment of rheumatoid arthritis was demonstrated in 4 controlled trials (1 in phase II and 3 in phase III). The phase II trial, study YU203, randomised 402 subjects with active rheumatoid arthritis to placebo (n=102), leflunomide 5 mg (n=95), 10 mg (n=101) or 25 mg/day (n=104). The treatment duration was 6 months.
 
-All leflunomide patients in the phase III trials used an initial dose of 100 mg for 3 days. Study MN301 randomised 358 subjects with active rheumatoid arthritis to leflunomide 20 mg/day (n=133), sulphasalazine 2 g/day (n=133), or placebo (n=92). Treatment duration was 6 months. Study MN303 was an optional 6-month blinded continuation of MN301 without the placebo arm, resulting in a 12-month comparison of leflunomide and sulphasalazine.
-
-Study MN302 randomised 999 subjects with active rheumatoid arthritis to leflunomide 20 mg/day (n=501) or methotrexate at 7.5 mg/week increasing to 15 mg/week (n=498). Folate supplementation was optional and only used in 10% of patients. Treatment duration was 12-months.
+All leflunomide patients in the phase III trials used an initial dose of 100 mg for 3 days.
 
 <div style=\"page-break-after: always\"></div>
 
-Study US301 randomised 482 subjects with active rheumatoid arthritis to leflunomide 20 mg/day (n=182), methotrexate 7.5 mg/week increasing to 15 mg/week (n=182), or placebo (n=118). All patients received folate 1 mg bid. Treatment duration was 12 months.
+Study MN301 randomised 358 subjects with active rheumatoid arthritis to leflunomide 20 mg/day (n=133), sulphasalazine 2 g/day (n=133), or placebo (n=92). Treatment duration was 6 months. Study MN303 was an optional 6-month blinded continuation of MN301 without the placebo arm, resulting in a 12-month comparison of leflunomide and sulphasalazine.
+
+Study MN302 randomised 999 subjects with active rheumatoid arthritis to leflunomide 20 mg/day (n=501) or methotrexate at 7.5 mg/week increasing to 15 mg/week (n=498). Folate supplementation was optional and only used in 10% of patients. Treatment duration was 12-months. Study US301 randomised 482 subjects with active rheumatoid arthritis to leflunomide 20 mg/day (n=182), methotrexate 7.5 mg/week increasing to 15 mg/week (n=182), or placebo (n=118). All patients received folate 1 mg bid. Treatment duration was 12 months.
 
 Leflunomide at a daily dose of at least 10 mg (10 to 25 mg in study YU203, 20 mg in studies MN301 and US301) was statistically significantly superior to placebo in reducing the signs and symptoms of rheumatoid arthritis in all 3 placebo-controlled trials. The ACR (American College of Rheumatology) response rates in study YU203 were 27.7% for placebo, 31.9% for 5 mg, 50.5% for 10 mg and 54.5% for 25 mg/day. In the phase III trials, the ACR response rates for leflunomide 20 mg/day versus placebo were 54.6% versus 28.6% (study MN301), and 49.4% versus 26.3% (study US301).After 12 months with active treatment, the ACR response rates in leflunomide patients were 52.3% (studies MN301/303), 50.5% (study MN302) and 49.4% (study US301), compared to 53.8% (studies MN301/303) in sulphasalazine patients, 64.8% (study MN302), and 43.9% (study US301) in methotrexate patients. In study MN302 leflunomide was significantly less effective than methotrexate. However, in study US301 no significant differences were observed between leflunomide and methotrexate in the primary efficacy parameters. No difference was observed between leflunomide and sulphasalazine (study MN301). The leflunomide treatment effect was evident by 1 month, stabilised by 3 to 6 months and continued throughout the course of treatment.
 
@@ -576,9 +584,9 @@ Leflunomide 20 mg/day was significantly superior to placebo in reducing the symp
 
 ## Postmarketing studies
 
-A randomised study assessed the clinical efficacy response rate in DMARD-naïve patients (n=121) with early RA, who received either 20 mg or 100 mg of leflunomide in two parallel groups during the initial three day double blind period. The initial period was followed by an open label maintenance period of three months, during which both groups received leflunomide 20 mg daily. No incremental overall benefit was observed in the studied population with the use of a loading dose regimen. The safety data obtained from both treatment groups were consistent with the known safety profile of leflunomide, however, the incidence of gastrointestinal adverse events and of elevated liver enzymes tended to be higher in the patients receiving the loading dose of 100 mg leflunomide.
-
 <div style=\"page-break-after: always\"></div>
+
+A randomised study assessed the clinical efficacy response rate in DMARD-naïve patients (n=121) with early RA, who received either 20 mg or 100 mg of leflunomide in two parallel groups during the initial three day double blind period. The initial period was followed by an open label maintenance period of three months, during which both groups received leflunomide 20 mg daily. No incremental overall benefit was observed in the studied population with the use of a loading dose regimen. The safety data obtained from both treatment groups were consistent with the known safety profile of leflunomide, however, the incidence of gastrointestinal adverse events and of elevated liver enzymes tended to be higher in the patients receiving the loading dose of 100 mg leflunomide.
 
 ## 5.2 Pharmacokinetic properties
 
@@ -596,13 +604,11 @@ In human plasma, A771726 is extensively bound to protein (albumin). The unbound 
 
 Leflunomide is metabolised to one primary (A771726) and many minor metabolites including TFMA (4-trifluoromethylaniline). The metabolic biotransformation of leflunomide to A771726 and subsequent metabolism of A771726 is not controlled by a single enzyme and has been shown to occur in microsomal and cytosolic cellular fractions. Interaction studies with cimetidine (non-specific cytochrome P450 inhibitor) and rifampicin (non-specific cytochrome P450 inducer), indicate that in vivo CYP enzymes are involved in the metabolism of leflunomide only to a small extent.
 
-## Elimination
-
-Elimination of A771726 is slow and characterised by an apparent clearance of about 31 ml/hr. The elimination half-life in patients is approximately 2 weeks. After administration of a radiolabelled dose of leflunomide, radioactivity was equally excreted in faeces, probably by biliary elimination, and in urine. A771726 was still detectable in urine and faeces 36 days after a single administration. The principal urinary metabolites were glucuronide products derived from leflunomide (mainly in 0 to
-
 <div style=\"page-break-after: always\"></div>
 
-24 hour samples) and an oxanilic acid derivative of A771726. The principal faecal component was A771726.
+## Elimination
+
+Elimination of A771726 is slow and characterised by an apparent clearance of about 31 ml/hr. The elimination half-life in patients is approximately 2 weeks. After administration of a radiolabelled dose of leflunomide, radioactivity was equally excreted in faeces, probably by biliary elimination, and in urine. A771726 was still detectable in urine and faeces 36 days after a single administration. The principal urinary metabolites were glucuronide products derived from leflunomide (mainly in 0 to 24 hour samples) and an oxanilic acid derivative of A771726. The principal faecal component was A771726.
 
 It has been shown in man that administration of an oral suspension of activated powdered charcoal or colestyramine leads to a rapid and significant increase in A771726 elimination rate and decline in plasma concentrations (see section 4.9). This is thought to be achieved by a gastrointestinal dialysis mechanism and/or by interrupting enterohepatic recycling.
 
@@ -626,11 +632,11 @@ Pharmacokinetic data in elderly (&gt;65 years) are limited but consistent with p
 
 Leflunomide, administered orally and intraperitoneally, has been studied in acute toxicity studies in mice and rats. Repeated oral administration of leflunomide to mice for up to 3 months, to rats and dogs for up to 6 months and to monkeys for up to 1 month's duration revealed that the major target organs for toxicity were bone marrow, blood, gastrointestinal tract, skin, spleen, thymus and lymph nodes. The main effects were anaemia, leucopenia, decreased platelet counts and panmyelopathy and reflect the basic mode of action of the compound (inhibition of DNA synthesis). In rats and dogs, Heinz bodies and/or Howell-Jolly bodies were found. Other effects found on heart, liver, cornea and respiratory tract could be explained as infections due to immunosuppression. Toxicity in animals was found at doses equivalent to human therapeutic doses.
 
+<div style=\"page-break-after: always\"></div>
+
 Leflunomide was not mutagenic. However, the minor metabolite TFMA (4-trifluoromethylaniline) caused clastogenicity and point mutations in vitro , whilst insufficient information was available on its potential to exert this effect in vivo .
 
 In a carcinogenicity study in rats, leflunomide did not show carcinogenic potential. In a carcinogenicity study in mice an increased incidence of malignant lymphoma occurred in males of the highest dose group, considered to be due to the immunosuppressive activity of leflunomide. In female mice an increased incidence, dose-dependent, of bronchiolo-alveolar adenomas and carcinomas of the lung was noted. The relevance of the findings in mice relative to the clinical use of leflunomide is uncertain.
-
-<div style=\"page-break-after: always\"></div>
 
 Leflunomide was not antigenic in animal models.
 
@@ -674,39 +680,33 @@ Bottle:
 
 Not all pack sizes may be marketed.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 6.6 Special precautions for disposal
 
 No special requirements for disposal.
 
-## 7. MARKETING AUTHORISATION HOLDER
+7.
+
+MARKETING AUTHORISATION HOLDER
 
 Sanofi-Aventis Deutschland GmbH D-65926 Frankfurt am Main Germany
 
-<div style=\"page-break-after: always\"></div>
-
-8.
-
-MARKETING AUTHORISATION
+## 8. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/99/118/001-004
 
-9.
-
-DATE OF FIRST AUTHORISATION / RENEWAL OF THE AUTHORISATION
+## 9. DATE OF FIRST AUTHORISATION / RENEWAL OF THE AUTHORISATION
 
 Date of first authorisation: 02 September 1999
 
 Date of latest renewal: 01 July 2009
 
-10.
-
-DATE OF REVISION OF THE TEXT
+## 10. DATE OF REVISION OF THE TEXT
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu/.
 
 18
-
-NUMBER(S)
 
 <div style=\"page-break-after: always\"></div>
 
@@ -839,11 +839,25 @@ In case of ulcerative stomatitis, leflunomide administration should be discontin
 
 Very rare cases of Stevens Johnson syndrome or toxic epidermal necrolysis and Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) have been reported in patients treated with leflunomide. As soon as skin and/or mucosal reactions are observed which raise the suspicion of such severe reactions, Arava and any other possibly associated treatment must be discontinued, and a leflunomide washout procedure initiated immediately. A complete washout is essential in such cases. In such cases re-exposure to leflunomide is contraindicated (see section 4.3).
 
+## Haemophagocytic lymphohistiocytosis (HLH) / Macrophage activation syndrome (MAS):
+
+Haemophagocytic lymphohistiocytosis (HLH), including macrophage activation syndrome (MAS), has been reported in patients treated with leflunomide.
+
+Although rare, Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) associated with leflunomide may be complicated by HLH or MAS. Cases of HLH/MAS have also been reported independently of DRESS.
+
+HLH/MAS is a serious and potentially life-threatening hyperinflammatory condition. Clinical features may include persistent fever, rash, neurological symptoms, hepatosplenomegaly, lymphadenopathy, cytopenias, markedly elevated serum ferritin, hypertriglyceridaemia, and abnormalities of liver function and coagulation.
+
+Patients should be informed about the signs and symptoms associated with HLH/MAS and advised to seek medical attention immediately if such symptoms occur during leflunomide treatment.
+
+If patients develop any of these conditions, stop leflunomide treatment and perform an accelerated drug elimination procedure (see section 4.4). Early recognition and prompt management are important to improve outcomes.
+
 Pustular psoriasis and worsening of psoriasis have been reported after the use of leflunomide. Treatment withdrawal may be considered taking into account patient's disease and past history.
 
 Skin ulcers can occur in patients during therapy with leflunomide. If leflunomide-associated skin ulcer is  suspected  or  if  skin  ulcers  persist  despite  appropriate  therapy,  leflunomide  discontinuation  and  a complete washout procedure should be considered. The decision to resume leflunomide following skin ulcers should be based on clinical judgment of adequate wound healing.
 
 Impaired wound-healing after surgery can occur in patients during therapy with leflunomide. Based on an individual assessment, it may be considered to interrupt leflunomide treatment in the peri-surgical period and administer a washout procedure as described below. In case of interruption, the decision to resume leflunomide should be based on clinical judgment of adequate wound healing.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Infections
 
@@ -852,8 +866,6 @@ It is known that medicinal products with immunosuppressive properties - like lef
 Rare cases of Progressive Multifocal Leukoencephalopathy (PML) have been reported in patients receiving leflunomide among other immunosuppressants.
 
 Before starting treatment, all patients should be evaluated for active and inactive ('latent') tuberculosis, as per local recommendations. This can include medical history, possible previous contact with tuberculosis, and/or appropriate screening such as lung x-ray, tuberculin test and/or interferon-gamma release assay, as applicable. Prescribers are reminded of the risk of false negative tuberculin skin test results, especially in patients who are severely ill or immunocompromised. Patients with a history of tuberculosis should be carefully monitored because of the possibility of reactivation of the infection.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Respiratory reactions
 
@@ -875,6 +887,8 @@ Blood pressure must be checked before the start of leflunomide treatment and per
 
 Male patients should be aware of the possible male-mediated foetal toxicity. Reliable contraception during treatment with leflunomide should also be guaranteed.
 
+<div style=\"page-break-after: always\"></div>
+
 There are no specific data on the risk of male-mediated foetal toxicity. However, animal studies to evaluate this specific risk have not been conducted. To minimise any possible risk, men wishing to father a child should consider discontinuing use of leflunomide and taking colestyramine 8 g 3 times daily for 11 days or 50 g of activated powdered charcoal 4 times daily for 11 days.
 
 In either case the A771726 plasma concentration is then measured for the first time. Thereafter, the A771726 plasma concentration must be determined again after an interval of at least 14 days. If both plasma concentrations are below 0.02 mg/L, and after a waiting period of at least 3 months, the risk of foetal toxicity is very low.
@@ -886,8 +900,6 @@ Colestyramine 8 g is administered 3 times daily. Alternatively, 50 g of activate
 ## Lactose
 
 Arava contains lactose. Patients with rare hereditary problems of galactose intolerance, the Lapp lactase deficiency or glucose-galactose malabsorption should not take this medicinal product.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Interference with determination of ionised calcium levels
 
@@ -909,6 +921,8 @@ In patients with rheumatoid arthritis, no pharmacokinetic interaction between th
 
 No clinical data are available on the efficacy and safety of vaccinations under leflunomide treatment. Vaccination with live attenuated vaccines is, however, not recommended. The long half-life of leflunomide should be considered when contemplating administration of a live attenuated vaccine after stopping Arava.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Warfarin and other coumarin anticoagulants
 
 There have been case reports of increased prothrombin time, when leflunomide and warfarin were co-administered. A pharmacodynamics interaction with warfarin was observed with A771726 in a clinical pharmacology study (see below). Therefore, when warfarin or another coumarin anticoagulant is co-administered, close international normalised ratio (INR) follow-up and monitoring is recommended.
@@ -916,8 +930,6 @@ There have been case reports of increased prothrombin time, when leflunomide and
 ## NSAIDS/Corticosteroids
 
 If the patient is already receiving nonsteroidal anti-inflammatory drugs (NSAIDs) and/or corticosteroids, these may be continued after starting leflunomide.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Effect of other medicinal products on leflunomide:
 
@@ -941,6 +953,8 @@ The following pharmacokinetic and pharmacodynamic interaction studies were condu
 
 There was an increase in mean repaglinide Cmax and AUC (1.7- and 2.4-fold, respectively), following repeated doses of A771726, suggesting that A771726 is an inhibitor of CYP2C8 in vivo . Therefore, monitoring patients with concomitant use of medicinal products metabolised by CYP2C8, such as repaglinide, paclitaxel, pioglitazone or rosiglitazone, is recommended as they may have higher exposure.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Effect on caffeine (CYP1A2 substrate)
 
 Repeated doses of A771726 decreased mean Cmax and AUC of caffeine (CYP1A2 substrate) by 18% and 55%, respectively, suggesting that A771726 may be a weak inducer of CYP1A2 in vivo . Therefore, medicinal products metabolised by CYP1A2 (such as duloxetine, alosetron, theophylline and tizanidine) should be used with caution during treatment, as it could lead to the reduction of the efficacy of these products.
@@ -949,9 +963,9 @@ Repeated doses of A771726 decreased mean Cmax and AUC of caffeine (CYP1A2 substr
 
 There was an increase in mean cefaclor Cmax and AUC (1.43- and 1.54-fold, respectively), following repeated doses of A771726, suggesting that A771726 is an inhibitor of OAT3 in vivo . Therefore, when co-administered with substrates of OAT3, such as cefaclor, benzylpenicillin, ciprofloxacin, indomethacin, ketoprofen, furosemide, cimetidine, methotrexate, zidovudine, caution is recommended.
 
-Effect on BCRP (Breast Cancer Resistance Protein) and /or organic anion transporting polypeptide B1 and B3 (OATP1B1/B3) substrates There was an increase in mean rosuvastatin Cmax and AUC (2.65- and 2.51-fold, respectively), following repeated doses of A771726. However, there was no apparent impact of this increase in plasma rosuvastatin exposure on the HMG-CoA reductase activity. If used together, the dose of rosuvastatin should not exceed 10 mg once daily. For other substrates of BCRP (e.g., methotrexate, topotecan, sulfasalazine, daunorubicin, doxorubicin) and the OATP family especially HMG-CoA reductase inhibitors (e.g., simvastatin, atorvastatin, pravastatin, methotrexate, nateglinide, repaglinide, rifampicin) concomitant administration should also be undertaken with caution. Patients should be closely monitored for signs and symptoms of excessive exposure to the medicinal products and reduction of the dose of these medicinal products should be considered.
+## Effect on BCRP (Breast Cancer Resistance Protein) and /or organic anion transporting polypeptide B1 and B3 (OATP1B1/B3) substrates
 
-<div style=\"page-break-after: always\"></div>
+There was an increase in mean rosuvastatin Cmax and AUC (2.65- and 2.51-fold, respectively), following repeated doses of A771726. However, there was no apparent impact of this increase in plasma rosuvastatin exposure on the HMG-CoA reductase activity. If used together, the dose of rosuvastatin should not exceed 10 mg once daily. For other substrates of BCRP (e.g., methotrexate, topotecan, sulfasalazine, daunorubicin, doxorubicin) and the OATP family especially HMG-CoA reductase inhibitors (e.g., simvastatin, atorvastatin, pravastatin, methotrexate, nateglinide, repaglinide, rifampicin) concomitant administration should also be undertaken with caution. Patients should be closely monitored for signs and symptoms of excessive exposure to the medicinal products and reduction of the dose of these medicinal products should be considered.
 
 Effect on oral contraceptive (0.03 mg ethinylestradiol and 0.15 mg levonorgestrel) There was an increase in mean ethinylestradiol Cmax and AUC0-24 (1.58- and 1.54-fold, respectively) and levonorgestrel Cmax and AUC0-24 (1.33- and 1.41-fold, respectively) following repeated doses of A771726. While this interaction is not expected to adversely impact the efficacy of oral contraceptives, consideration should be given to the type of oral contraceptive treatment.
 
@@ -969,6 +983,8 @@ Women of childbearing potential have to use effective contraception during and u
 
 The patient must be advised that if there is any delay in onset of menses or any other reason to suspect pregnancy, they must notify the physician immediately for pregnancy testing, and if positive, the physician and patient must discuss the risk to the pregnancy. It is possible that rapidly lowering the blood level of the active metabolite, by instituting the drug elimination procedure described below, at the first delay of menses may decrease the risk to the foetus from leflunomide.
 
+<div style=\"page-break-after: always\"></div>
+
 In a small prospective study in women (n=64) who became inadvertently pregnant while taking leflunomide for no more than three weeks after conception and followed by a drug elimination procedure, no significant differences (p=0.13) were observed in the overall rate of major structural defects (5.4%) compared to either of the comparison groups (4.2% in the disease matched group [n=108] and 4.2% in healthy pregnant women [n=78]).
 
 For women receiving leflunomide treatment and who wish to become pregnant, one of the following procedures is recommended in order to ascertain that the foetus is not exposed to toxic concentrations of A771726 (target concentration below 0.02 mg/L):
@@ -976,8 +992,6 @@ For women receiving leflunomide treatment and who wish to become pregnant, one o
 ## Waiting period
 
 A771726 plasma levels can be expected to be above 0.02 mg/L for a prolonged period. The concentration may be expected to decrease below 0.02 mg/L about 2 years after stopping the treatment with leflunomide.
-
-<div style=\"page-break-after: always\"></div>
 
 After a 2-year waiting period, the A771726 plasma concentration is measured for the first time. Thereafter, the A771726 plasma concentration must be determined again after an interval of at least 14 days. If both plasma concentrations are below 0.02 mg/L no teratogenic risk is to be expected.
 
@@ -1004,6 +1018,8 @@ Animal studies indicate that leflunomide or its metabolites pass into breast mil
 
 Results of animal fertility studies have shown no effect on male and female fertility, but adverse effects on male reproductive organs were observed in repeated dose toxicity studies (see section 5.3).
 
+<div style=\"page-break-after: always\"></div>
+
 ## 4.7 Effects on ability to drive and use machines
 
 In the case of side effects such as dizziness the patient's ability to concentrate and to react properly may be impaired. In such cases patients should refrain from driving cars and using machines.
@@ -1014,15 +1030,13 @@ In the case of side effects such as dizziness the patient's ability to concentra
 
 The most frequently reported adverse effects with leflunomide are: mild increase in blood pressure, leucopenia, paraesthesia, headache, dizziness, diarrhoea, nausea, vomiting, oral mucosal disorders (e.g. aphthous stomatitis, mouth ulceration), abdominal pain, increased hair loss, eczema, rash (including maculo-papular rash), pruritus, dry skin, tenosynovitis, CPK increased, anorexia, weight loss (usually insignificant), asthenia, mild allergic reactions and elevation of liver parameters (transaminases (especially ALT), less often gamma-GT, alkaline phosphatise, bilirubin)).
 
-<div style=\"page-break-after: always\"></div>
-
-Classification of expected frequencies:
+## Classification of expected frequencies:
 
 Very common ( ≥ 1/10); common ( ≥ 1/100 to &lt;1/10); uncommon ( ≥ 1/1,000 to &lt;1/100); rare ( ≥ 1/10,000 to &lt;1/1,000); very rare (&lt;1/10,000), not known (cannot be estimated from the available data).
 
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 
-Infections and infestations
+## Infections and infestations
 
 Rare:
 
@@ -1054,7 +1068,7 @@ agranulocytosis
 
 Recent, concomitant or consecutive use of potentially myelotoxic agents may be associated with a higher risk of haematological effects.
 
-Immune system disorders
+## Immune system disorders
 
 Common:
 
@@ -1064,7 +1078,7 @@ Very rare:
 
 severe anaphylactic/anaphylactoid reactions, vasculitis, including cutaneous necrotizing vasculitis
 
-Metabolism and nutrition disorders
+## Metabolism and nutrition disorders
 
 Common:
 
@@ -1082,9 +1096,9 @@ Not known:
 
 hypouricemia
 
-Psychiatric disorders
+Psychiatric disorders Uncommon:
 
-Uncommon:
+<div style=\"page-break-after: always\"></div>
 
 anxiety
 
@@ -1098,21 +1112,17 @@ Cardiac disorders
 
 Common:
 
-mild increase in blood pressure
-
 Rare:
 
-severe increase in blood pressure
+mild increase in blood pressure severe increase in blood pressure
 
 Respiratory, thoracic and mediastinal disorders
 
 Rare:
 
-interstitial lung disease (including interstitial pneumonitis), which may be fatal pulmonary hypertension, pulmonary nodule
-
 Not known:
 
-<div style=\"page-break-after: always\"></div>
+interstitial lung disease (including interstitial pneumonitis), which may be fatal pulmonary hypertension, pulmonary nodule
 
 ## Gastrointestinal disorders
 
@@ -1136,9 +1146,9 @@ elevation of liver parameters (transaminases [especially ALT], less often gamma-
 
 Rare:
 
-hepatitis, jaundice/cholestasis
-
 Very rare:
+
+hepatitis, jaundice/cholestasis
 
 severe liver injury such as hepatic failure and acute hepatic necrosis that may be fatal
 
@@ -1146,15 +1156,15 @@ severe liver injury such as hepatic failure and acute hepatic necrosis that may 
 
 Common:
 
-increased hair loss, eczema, rash (including maculopapular rash), pruritus, dry skin urticaria
-
 Uncommon:
+
+increased hair loss, eczema, rash (including maculopapular rash), pruritus, dry skin urticaria
 
 Very rare:
 
-toxic epidermal necrolysis, Stevens-Johnson syndrome, erythema multiforme cutaneous lupus erythematosus, pustular psoriasis or worsening psoriasis, Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), skin ulcer
-
 Not known:
+
+toxic epidermal necrolysis, Stevens-Johnson syndrome, erythema multiforme cutaneous lupus erythematosus, pustular psoriasis or worsening psoriasis, Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), skin ulcer
 
 ## Musculoskeletal and connective tissue disorders
 
@@ -1166,13 +1176,13 @@ Uncommon:
 
 tendon rupture
 
-## Renal and urinary disorders
+Renal and urinary disorders
 
 Not known:
 
 renal failure
 
-## Reproductive system and breast disorders
+Reproductive system and breast disorders
 
 Not known:
 
@@ -1190,15 +1200,13 @@ Reporting suspected adverse reactions after authorisation of the medicinal produ
 
 ## 4.9 Overdose
 
-## Symptoms
+Symptoms There have been reports of chronic overdose in patients taking Arava at daily doses up to five times the recommended daily dose, and reports of acute overdose in adults and children. There were no adverse events reported in the majority of case reports of overdose. Adverse events consistent with the safety profile for leflunomide were: abdominal pain, nausea, diarrhoea, elevated liver enzymes, anaemia, leucopenia, pruritus and rash.
 
-There have been reports of chronic overdose in patients taking Arava at daily doses up to five times the recommended daily dose, and reports of acute overdose in adults and children. There were no adverse events reported in the majority of case reports of overdose. Adverse events consistent with the safety profile for leflunomide were: abdominal pain, nausea, diarrhoea, elevated liver enzymes, anaemia, leucopenia, pruritus and rash.
+<div style=\"page-break-after: always\"></div>
 
 ## Management
 
 In the event of an overdose or toxicity, colestyramine or charcoal is recommended to accelerate elimination. Colestyramine given orally at a dose of 8 g three times a day for 24 hours to three healthy volunteers decreased plasma levels of A771726 by approximately 40% in 24 hours and by 49% to 65% in 48 hours.
-
-<div style=\"page-break-after: always\"></div>
 
 Administration of activated charcoal (powder made into a suspension) orally or via nasogastric tube (50 g every 6 hours for 24 hours) has been shown to reduce plasma concentrations of the active metabolite A771726 by 37% in 24 hours and by 48% in 48 hours. These washout procedures may be repeated if clinically necessary.
 
@@ -1230,17 +1238,15 @@ A771726, the active metabolite of leflunomide, inhibits the human enzyme dihydro
 
 The efficacy of Arava in the treatment of rheumatoid arthritis was demonstrated in 4 controlled trials (1 in phase II and 3 in phase III). The phase II trial, study YU203, randomised 402 subjects with active rheumatoid arthritis to placebo (n=102), leflunomide 5 mg (n=95), 10 mg (n=101) or 25 mg/day (n=104). The treatment duration was 6 months.
 
-All leflunomide patients in the phase III trials used an initial dose of 100 mg for 3 days. Study MN301 randomised 358 subjects with active rheumatoid arthritis to leflunomide 20 mg/day (n=133), sulphasalazine 2 g/day (n=133), or placebo (n=92). Treatment duration was 6 months.
-
-Study MN303 was an optional 6-month blinded continuation of MN301 without the placebo arm, resulting in a 12-month comparison of leflunomide and sulphasalazine.
-
-Study MN302 randomised 999 subjects with active rheumatoid arthritis to leflunomide 20 mg/day (n=501) or methotrexate at 7.5 mg/week increasing to 15 mg/week (n=498). Folate supplementation was optional and only used in 10% of patients. Treatment duration was 12-months.
-
-Study US301 randomised 482 subjects with active rheumatoid arthritis to leflunomide 20 mg/day (n=182), methotrexate 7.5 mg/week increasing to 15 mg/week (n=182), or placebo (n=118). All patients received folate 1 mg bid. Treatment duration was 12 months.
-
-Leflunomide at a daily dose of at least 10 mg (10 to 25 mg in study YU203, 20 mg in studies MN301 and US301) was statistically significantly superior to placebo in reducing the signs and symptoms of rheumatoid arthritis in all 3 placebo-controlled trials. The ACR (American College of Rheumatology) response rates in study YU203 were 27.7% for placebo, 31.9% for 5 mg, 50.5% for 10 mg and 54.5% for 25 mg/day. In the phase III trials, the ACR response rates for leflunomide 20 mg/day versus placebo were 54.6% versus 28.6% (study MN301), and 49.4% versus 26.3% (study US301).After 12 months with active treatment, the ACR response rates in leflunomide patients were 52.3% (studies MN301/303), 50.5% (study MN302) and 49.4% (study US301), compared to 53.8% (studies MN301/303) in sulphasalazine patients, 64.8% (study MN302), and 43.9% (study US301) in methotrexate patients. In study MN302 leflunomide was significantly less effective than methotrexate. However, in study US301 no significant differences were observed between leflunomide and methotrexate in the primary efficacy parameters. No difference was observed between leflunomide and sulphasalazine (study MN301). The leflunomide treatment effect was evident by 1 month, stabilised by 3 to 6 months and continued throughout the course of treatment.
+All leflunomide patients in the phase III trials used an initial dose of 100 mg for 3 days.
 
 <div style=\"page-break-after: always\"></div>
+
+Study MN301 randomised 358 subjects with active rheumatoid arthritis to leflunomide 20 mg/day (n=133), sulphasalazine 2 g/day (n=133), or placebo (n=92). Treatment duration was 6 months. Study MN303 was an optional 6-month blinded continuation of MN301 without the placebo arm, resulting in a 12-month comparison of leflunomide and sulphasalazine.
+
+Study MN302 randomised 999 subjects with active rheumatoid arthritis to leflunomide 20 mg/day (n=501) or methotrexate at 7.5 mg/week increasing to 15 mg/week (n=498). Folate supplementation was optional and only used in 10% of patients. Treatment duration was 12-months. Study US301 randomised 482 subjects with active rheumatoid arthritis to leflunomide 20 mg/day (n=182), methotrexate 7.5 mg/week increasing to 15 mg/week (n=182), or placebo (n=118). All patients received folate 1 mg bid. Treatment duration was 12 months.
+
+Leflunomide at a daily dose of at least 10 mg (10 to 25 mg in study YU203, 20 mg in studies MN301 and US301) was statistically significantly superior to placebo in reducing the signs and symptoms of rheumatoid arthritis in all 3 placebo-controlled trials. The ACR (American College of Rheumatology) response rates in study YU203 were 27.7% for placebo, 31.9% for 5 mg, 50.5% for 10 mg and 54.5% for 25 mg/day. In the phase III trials, the ACR response rates for leflunomide 20 mg/day versus placebo were 54.6% versus 28.6% (study MN301), and 49.4% versus 26.3% (study US301).After 12 months with active treatment, the ACR response rates in leflunomide patients were 52.3% (studies MN301/303), 50.5% (study MN302) and 49.4% (study US301), compared to 53.8% (studies MN301/303) in sulphasalazine patients, 64.8% (study MN302), and 43.9% (study US301) in methotrexate patients. In study MN302 leflunomide was significantly less effective than methotrexate. However, in study US301 no significant differences were observed between leflunomide and methotrexate in the primary efficacy parameters. No difference was observed between leflunomide and sulphasalazine (study MN301). The leflunomide treatment effect was evident by 1 month, stabilised by 3 to 6 months and continued throughout the course of treatment.
 
 A randomised, double-blind, parallel-group non-inferiority study compared the relative efficacy of two different daily maintenance doses of leflunomide, 10 mg and 20 mg. From the results it can be concluded that efficacy results of the 20 mg maintenance dose were more favourable, on the other hand, the safety results favoured the 10 mg daily maintenance dose.
 
@@ -1258,13 +1264,13 @@ Leflunomide 20 mg/day was significantly superior to placebo in reducing the symp
 
 ## Postmarketing studies
 
+<div style=\"page-break-after: always\"></div>
+
 A randomised study assessed the clinical efficacy response rate in DMARD-naïve patients (n=121) with early RA, who received either 20 mg or 100 mg of leflunomide in two parallel groups during the initial three day double blind period. The initial period was followed by an open label maintenance period of three months, during which both groups received leflunomide 20 mg daily. No incremental overall benefit was observed in the studied population with the use of a loading dose regimen. The safety data obtained from both treatment groups were consistent with the known safety profile of leflunomide, however, the incidence of gastrointestinal adverse events and of elevated liver enzymes tended to be higher in the patients receiving the loading dose of 100 mg leflunomide.
 
 ## 5.2 Pharmacokinetic properties
 
 Leflunomide is rapidly converted to the active metabolite, A771726, by first-pass metabolism (ring opening) in gut wall and liver. In a study with radiolabelled 14 C-leflunomide in three healthy volunteers, no unchanged leflunomide was detected in plasma, urine or faeces. In other studies, unchanged leflunomide levels in plasma have rarely been detected, however, at ng/ml plasma levels. The only plasma-radiolabelled metabolite detected was A771726. This metabolite is responsible for essentially all the in vivo activity of Arava.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Absorption
 
@@ -1278,13 +1284,13 @@ In human plasma, A771726 is extensively bound to protein (albumin). The unbound 
 
 Leflunomide is metabolised to one primary (A771726) and many minor metabolites including TFMA (4-trifluoromethylaniline). The metabolic biotransformation of leflunomide to A771726 and subsequent metabolism of A771726 is not controlled by a single enzyme and has been shown to occur in microsomal and cytosolic cellular fractions. Interaction studies with cimetidine (non-specific cytochrome P450 inhibitor) and rifampicin (non-specific cytochrome P450 inducer), indicate that in vivo CYP enzymes are involved in the metabolism of leflunomide only to a small extent.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Elimination
 
 Elimination of A771726 is slow and characterised by an apparent clearance of about 31 ml/hr. The elimination half-life in patients is approximately 2 weeks. After administration of a radiolabelled dose of leflunomide, radioactivity was equally excreted in faeces, probably by biliary elimination, and in urine. A771726 was still detectable in urine and faeces 36 days after a single administration. The principal urinary metabolites were glucuronide products derived from leflunomide (mainly in 0 to 24 hour samples) and an oxanilic acid derivative of A771726. The principal faecal component was A771726.
 
 It has been shown in man that administration of an oral suspension of activated powdered charcoal or colestyramine leads to a rapid and significant increase in A771726 elimination rate and decline in plasma concentrations (see section 4.9). This is thought to be achieved by a gastrointestinal dialysis mechanism and/or by interrupting enterohepatic recycling.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Renal impairment
 
@@ -1306,6 +1312,8 @@ Pharmacokinetic data in elderly (&gt;65 years) are limited but consistent with p
 
 Leflunomide, administered orally and intraperitoneally, has been studied in acute toxicity studies in mice and rats. Repeated oral administration of leflunomide to mice for up to 3 months, to rats and dogs for up to 6 months and to monkeys for up to 1 month's duration revealed that the major target organs for toxicity were bone marrow, blood, gastrointestinal tract, skin, spleen, thymus and lymph nodes. The main effects were anaemia, leucopenia, decreased platelet counts and panmyelopathy and reflect the basic mode of action of the compound (inhibition of DNA synthesis). In rats and dogs, Heinz bodies and/or Howell-Jolly bodies were found. Other effects found on heart, liver, cornea and respiratory tract could be explained as infections due to immunosuppression. Toxicity in animals was found at doses equivalent to human therapeutic doses.
 
+<div style=\"page-break-after: always\"></div>
+
 Leflunomide was not mutagenic. However, the minor metabolite TFMA (4-trifluoromethylaniline) caused clastogenicity and point mutations in vitro , whilst insufficient information was available on its potential to exert this effect in vivo .
 
 In a carcinogenicity study in rats, leflunomide did not show carcinogenic potential. In a carcinogenicity study in mice an increased incidence of malignant lymphoma occurred in males of the highest dose group, considered to be due to the immunosuppressive activity of leflunomide. In female mice an increased incidence, dose-dependent, of bronchiolo-alveolar adenomas and carcinomas of the lung was noted. The relevance of the findings in mice relative to the clinical use of leflunomide is uncertain.
@@ -1313,8 +1321,6 @@ In a carcinogenicity study in rats, leflunomide did not show carcinogenic potent
 Leflunomide was not antigenic in animal models.
 
 Leflunomide was embryotoxic and teratogenic in rats and rabbits at doses in the human therapeutic range and exerted adverse effects on male reproductive organs in repeated dose toxicity studies. Fertility was not reduced.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
@@ -1352,17 +1358,19 @@ Bottle:
 
 100 ml HDPE-wide-necked bottle, with screw cap with integrated desiccant container, containing either 30, 50 or 100 film-coated tablets.
 
+<div style=\"page-break-after: always\"></div>
+
 Not all pack sizes may be marketed.
 
 ## 6.6 Special precautions for disposal
 
 No special requirements for disposal.
 
-## 7. MARKETING AUTHORISATION HOLDER
+7.
+
+MARKETING AUTHORISATION HOLDER
 
 Sanofi-Aventis Deutschland GmbH D-65926 Frankfurt am Main Germany
-
-<div style=\"page-break-after: always\"></div>
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1513,11 +1521,25 @@ In case of ulcerative stomatitis, leflunomide administration should be discontin
 
 Very rare cases of Stevens Johnson syndrome or toxic epidermal necrolysis and Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) have been reported in patients treated with leflunomide. As soon as skin and/or mucosal reactions are observed which raise the suspicion of such severe reactions, Arava and any other possibly associated treatment must be discontinued, and a leflunomide washout procedure initiated immediately. A complete washout is essential in such cases. In such cases re-exposure to leflunomide is contraindicated (see section 4.3).
 
+## Haemophagocytic lymphohistiocytosis (HLH) / Macrophage activation syndrome (MAS):
+
+Haemophagocytic lymphohistiocytosis (HLH), including macrophage activation syndrome (MAS), has been reported in patients treated with leflunomide.
+
+Although rare, Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) associated with leflunomide may be complicated by HLH or MAS. Cases of HLH/MAS have also been reported independently of DRESS.
+
+HLH/MAS is a serious and potentially life-threatening hyperinflammatory condition. Clinical features may include persistent fever, rash, neurological symptoms, hepatosplenomegaly, lymphadenopathy, cytopenias, markedly elevated serum ferritin, hypertriglyceridaemia, and abnormalities of liver function and coagulation.
+
+Patients should be informed about the signs and symptoms associated with HLH/MAS and advised to seek medical attention immediately if such symptoms occur during leflunomide treatment.
+
+If patients develop any of these conditions, stop leflunomide treatment and perform an accelerated drug elimination procedure (see section 4.4). Early recognition and prompt management are important to improve outcomes.
+
 Pustular psoriasis and worsening of psoriasis have been reported after the use of leflunomide. Treatment withdrawal may be considered taking into account patient's disease and past history.
 
 Skin ulcers can occur in patients during therapy with leflunomide. If leflunomide-associated skin ulcer is  suspected  or  if  skin  ulcers  persist  despite  appropriate  therapy,  leflunomide  discontinuation  and  a complete washout procedure should be considered. The decision to resume leflunomide following skin ulcers should be based on clinical judgment of adequate wound healing.
 
 Impaired wound-healing after surgery can occur in patients during therapy with leflunomide. Based on an individual assessment, it may be considered to interrupt leflunomide treatment in the peri-surgical period and administer a washout procedure as described below. In case of interruption, the decision to resume leflunomide should be based on clinical judgment of adequate wound healing.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Infections
 
@@ -1526,8 +1548,6 @@ It is known that medicinal products with immunosuppressive properties - like lef
 Rare cases of Progressive Multifocal Leukoencephalopathy (PML) have been reported in patients receiving leflunomide among other immunosuppressants.
 
 Before starting treatment, all patients should be evaluated for active and inactive ('latent') tuberculosis, as per local recommendations. This can include medical history, possible previous contact with tuberculosis, and/or appropriate screening such as lung x-ray, tuberculin test and/or interferon-gamma release assay, as applicable. Prescribers are reminded of the risk of false negative tuberculin skin test results, especially in patients who are severely ill or immunocompromised. Patients with a history of tuberculosis should be carefully monitored because of the possibility of reactivation of the infection.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Respiratory reactions
 
@@ -1549,6 +1569,8 @@ Blood pressure must be checked before the start of leflunomide treatment and per
 
 Male patients should be aware of the possible male-mediated foetal toxicity. Reliable contraception during treatment with leflunomide should also be guaranteed.
 
+<div style=\"page-break-after: always\"></div>
+
 There are no specific data on the risk of male-mediated foetal toxicity. However, animal studies to evaluate this specific risk have not been conducted. To minimise any possible risk, men wishing to father a child should consider discontinuing use of leflunomide and taking colestyramine 8 g 3 times daily for 11 days or 50 g of activated powdered charcoal 4 times daily for 11 days.
 
 In either case the A771726 plasma concentration is then measured for the first time. Thereafter, the A771726 plasma concentration must be determined again after an interval of at least 14 days. If both plasma concentrations are below 0.02 mg/L, and after a waiting period of at least 3 months, the risk of foetal toxicity is very low.
@@ -1560,8 +1582,6 @@ Colestyramine 8 g is administered 3 times daily. Alternatively, 50 g of activate
 ## Lactose
 
 Arava contains lactose. Patients with rare hereditary problems of galactose intolerance, the Lapp lactase deficiency or glucose-galactose malabsorption should not take this medicinal product.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Interference with determination of ionised calcium levels
 
@@ -1583,6 +1603,8 @@ In patients with rheumatoid arthritis, no pharmacokinetic interaction between th
 
 No clinical data are available on the efficacy and safety of vaccinations under leflunomide treatment. Vaccination with live attenuated vaccines is, however, not recommended. The long half-life of leflunomide should be considered when contemplating administration of a live attenuated vaccine after stopping Arava.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Warfarin and other coumarin anticoagulants
 
 There have been case reports of increased prothrombin time, when leflunomide and warfarin were co-administered. A pharmacodynamics interaction with warfarin was observed with A771726 in a clinical pharmacology study (see below). Therefore, when warfarin or another coumarin anticoagulant is co-administered, close international normalised ratio (INR) follow-up and monitoring is recommended.
@@ -1590,8 +1612,6 @@ There have been case reports of increased prothrombin time, when leflunomide and
 ## NSAIDS/Corticosteroids
 
 If the patient is already receiving nonsteroidal anti-inflammatory drugs (NSAIDs) and/or corticosteroids, these may be continued after starting leflunomide.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Effect of other medicinal products on leflunomide:
 
@@ -1615,6 +1635,8 @@ The following pharmacokinetic and pharmacodynamic interaction studies were condu
 
 There was an increase in mean repaglinide Cmax and AUC (1.7- and 2.4-fold, respectively), following repeated doses of A771726, suggesting that A771726 is an inhibitor of CYP2C8 in vivo . Therefore, monitoring patients with concomitant use of medicinal products metabolised by CYP2C8, such as repaglinide, paclitaxel, pioglitazone or rosiglitazone, is recommended as they may have higher exposure.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Effect on caffeine (CYP1A2 substrate)
 
 Repeated doses of A771726 decreased mean Cmax and AUC of caffeine (CYP1A2 substrate) by 18% and 55%, respectively, suggesting that A771726 may be a weak inducer of CYP1A2 in vivo . Therefore, medicinal products metabolised by CYP1A2 (such as duloxetine, alosetron, theophylline and tizanidine) should be used with caution during treatment, as it could lead to the reduction of the efficacy of these products.
@@ -1623,9 +1645,9 @@ Repeated doses of A771726 decreased mean Cmax and AUC of caffeine (CYP1A2 substr
 
 There was an increase in mean cefaclor Cmax and AUC (1.43- and 1.54-fold, respectively), following repeated doses of A771726, suggesting that A771726 is an inhibitor of OAT3 in vivo . Therefore, when co-administered with substrates of OAT3, such as cefaclor, benzylpenicillin, ciprofloxacin, indomethacin, ketoprofen, furosemide, cimetidine, methotrexate, zidovudine, caution is recommended.
 
-Effect on BCRP (Breast Cancer Resistance Protein) and /or organic anion transporting polypeptide B1 and B3 (OATP1B1/B3) substrates There was an increase in mean rosuvastatin Cmax and AUC (2.65- and 2.51-fold, respectively), following repeated doses of A771726. However, there was no apparent impact of this increase in plasma rosuvastatin exposure on the HMG-CoA reductase activity. If used together, the dose of rosuvastatin should not exceed 10 mg once daily. For other substrates of BCRP (e.g., methotrexate, topotecan, sulfasalazine, daunorubicin, doxorubicin) and the OATP family especially HMG-CoA reductase inhibitors (e.g., simvastatin, atorvastatin, pravastatin, methotrexate, nateglinide, repaglinide, rifampicin) concomitant administration should also be undertaken with caution. Patients should be closely monitored for signs and symptoms of excessive exposure to the medicinal products and reduction of the dose of these medicinal products should be considered.
+## Effect on BCRP (Breast Cancer Resistance Protein) and /or organic anion transporting polypeptide B1 and B3 (OATP1B1/B3) substrates
 
-<div style=\"page-break-after: always\"></div>
+There was an increase in mean rosuvastatin Cmax and AUC (2.65- and 2.51-fold, respectively), following repeated doses of A771726. However, there was no apparent impact of this increase in plasma rosuvastatin exposure on the HMG-CoA reductase activity. If used together, the dose of rosuvastatin should not exceed 10 mg once daily. For other substrates of BCRP (e.g., methotrexate, topotecan, sulfasalazine, daunorubicin, doxorubicin) and the OATP family especially HMG-CoA reductase inhibitors (e.g., simvastatin, atorvastatin, pravastatin, methotrexate, nateglinide, repaglinide, rifampicin) concomitant administration should also be undertaken with caution. Patients should be closely monitored for signs and symptoms of excessive exposure to the medicinal products and reduction of the dose of these medicinal products should be considered.
 
 Effect on oral contraceptive (0.03 mg ethinylestradiol and 0.15 mg levonorgestrel) There was an increase in mean ethinylestradiol Cmax and AUC0-24 (1.58- and 1.54-fold, respectively) and levonorgestrel Cmax and AUC0-24 (1.33- and 1.41-fold, respectively) following repeated doses of A771726. While this interaction is not expected to adversely impact the efficacy of oral contraceptives, consideration should be given to the type of oral contraceptive treatment.
 
@@ -1643,6 +1665,8 @@ Women of childbearing potential have to use effective contraception during and u
 
 The patient must be advised that if there is any delay in onset of menses or any other reason to suspect pregnancy, they must notify the physician immediately for pregnancy testing, and if positive, the physician and patient must discuss the risk to the pregnancy. It is possible that rapidly lowering the blood level of the active metabolite, by instituting the drug elimination procedure described below, at the first delay of menses may decrease the risk to the foetus from leflunomide.
 
+<div style=\"page-break-after: always\"></div>
+
 In a small prospective study in women (n=64) who became inadvertently pregnant while taking leflunomide for no more than three weeks after conception and followed by a drug elimination procedure, no significant differences (p=0.13) were observed in the overall rate of major structural defects (5.4%) compared to either of the comparison groups (4.2% in the disease matched group [n=108] and 4.2% in healthy pregnant women [n=78]).
 
 For women receiving leflunomide treatment and who wish to become pregnant, one of the following procedures is recommended in order to ascertain that the foetus is not exposed to toxic concentrations of A771726 (target concentration below 0.02 mg/L):
@@ -1650,8 +1674,6 @@ For women receiving leflunomide treatment and who wish to become pregnant, one o
 ## Waiting period
 
 A771726 plasma levels can be expected to be above 0.02 mg/L for a prolonged period. The concentration may be expected to decrease below 0.02 mg/L about 2 years after stopping the treatment with leflunomide.
-
-<div style=\"page-break-after: always\"></div>
 
 After a 2-year waiting period, the A771726 plasma concentration is measured for the first time. Thereafter, the A771726 plasma concentration must be determined again after an interval of at least 14 days. If both plasma concentrations are below 0.02 mg/L no teratogenic risk is to be expected.
 
@@ -1678,6 +1700,8 @@ Animal studies indicate that leflunomide or its metabolites pass into breast mil
 
 Results of animal fertility studies have shown no effect on male and female fertility, but adverse effects on male reproductive organs were observed in repeated dose toxicity studies (see section 5.3).
 
+<div style=\"page-break-after: always\"></div>
+
 ## 4.7 Effects on ability to drive and use machines
 
 In the case of side effects such as dizziness the patient's ability to concentrate and to react properly may be impaired. In such cases patients should refrain from driving cars and using machines.
@@ -1688,9 +1712,7 @@ In the case of side effects such as dizziness the patient's ability to concentra
 
 The most frequently reported adverse effects with leflunomide are: mild increase in blood pressure, leucopenia, paraesthesia, headache, dizziness, diarrhoea, nausea, vomiting, oral mucosal disorders (e.g. aphthous stomatitis, mouth ulceration), abdominal pain, increased hair loss, eczema, rash (including maculo-papular rash), pruritus, dry skin, tenosynovitis, CPK increased, anorexia, weight loss (usually insignificant), asthenia, mild allergic reactions and elevation of liver parameters (transaminases (especially ALT), less often gamma-GT, alkaline phosphatise, bilirubin)).
 
-<div style=\"page-break-after: always\"></div>
-
-Classification of expected frequencies:
+## Classification of expected frequencies:
 
 Very common ( ≥ 1/10); common ( ≥ 1/100 to &lt;1/10); uncommon ( ≥ 1/1,000 to &lt;1/100); rare ( ≥ 1/10,000 to &lt;1/1,000); very rare (&lt;1/10,000), not known (cannot be estimated from the available data).
 
@@ -1772,11 +1794,9 @@ Cardiac disorders
 
 Common:
 
-mild increase in blood pressure
+mild increase in blood pressure severe increase in blood pressure
 
 Rare:
-
-severe increase in blood pressure
 
 Respiratory, thoracic and mediastinal disorders
 
@@ -1840,13 +1860,13 @@ Uncommon:
 
 tendon rupture
 
-## Renal and urinary disorders
+Renal and urinary disorders
 
 Not known:
 
 renal failure
 
-## Reproductive system and breast disorders
+Reproductive system and breast disorders
 
 Not known:
 
@@ -1864,15 +1884,13 @@ Reporting suspected adverse reactions after authorisation of the medicinal produ
 
 ## 4.9 Overdose
 
-## Symptoms
+Symptoms There have been reports of chronic overdose in patients taking Arava at daily doses up to five times the recommended daily dose, and reports of acute overdose in adults and children. There were no adverse events reported in the majority of case reports of overdose. Adverse events consistent with the safety profile for leflunomide were: abdominal pain, nausea, diarrhoea, elevated liver enzymes, anaemia, leucopenia, pruritus and rash.
 
-There have been reports of chronic overdose in patients taking Arava at daily doses up to five times the recommended daily dose, and reports of acute overdose in adults and children. There were no adverse events reported in the majority of case reports of overdose. Adverse events consistent with the safety profile for leflunomide were: abdominal pain, nausea, diarrhoea, elevated liver enzymes, anaemia, leucopenia, pruritus and rash.
+<div style=\"page-break-after: always\"></div>
 
 ## Management
 
 In the event of an overdose or toxicity, colestyramine or charcoal is recommended to accelerate elimination. Colestyramine given orally at a dose of 8 g three times a day for 24 hours to three healthy volunteers decreased plasma levels of A771726 by approximately 40% in 24 hours and by 49% to 65% in 48 hours.
-
-<div style=\"page-break-after: always\"></div>
 
 Administration of activated charcoal (powder made into a suspension) orally or via nasogastric tube (50 g every 6 hours for 24 hours) has been shown to reduce plasma concentrations of the active metabolite A771726 by 37% in 24 hours and by 48% in 48 hours. These washout procedures may be repeated if clinically necessary.
 
@@ -1904,17 +1922,15 @@ A771726, the active metabolite of leflunomide, inhibits the human enzyme dihydro
 
 The efficacy of Arava in the treatment of rheumatoid arthritis was demonstrated in 4 controlled trials (1 in phase II and 3 in phase III). The phase II trial, study YU203, randomised 402 subjects with active rheumatoid arthritis to placebo (n=102), leflunomide 5 mg (n=95), 10 mg (n=101) or 25 mg/day (n=104). The treatment duration was 6 months.
 
-All leflunomide patients in the phase III trials used an initial dose of 100 mg for 3 days. Study MN301 randomised 358 subjects with active rheumatoid arthritis to leflunomide 20 mg/day (n=133), sulphasalazine 2 g/day (n=133), or placebo (n=92). Treatment duration was 6 months.
-
-Study MN303 was an optional 6-month blinded continuation of MN301 without the placebo arm, resulting in a 12-month comparison of leflunomide and sulphasalazine.
-
-Study MN302 randomised 999 subjects with active rheumatoid arthritis to leflunomide 20 mg/day (n=501) or methotrexate at 7.5 mg/week increasing to 15 mg/week (n=498). Folate supplementation was optional and only used in 10% of patients. Treatment duration was 12-months.
-
-Study US301 randomised 482 subjects with active rheumatoid arthritis to leflunomide 20 mg/day (n=182), methotrexate 7.5 mg/week increasing to 15 mg/week (n=182), or placebo (n=118). All patients received folate 1 mg bid. Treatment duration was 12 months.
-
-Leflunomide at a daily dose of at least 10 mg (10 to 25 mg in study YU203, 20 mg in studies MN301 and US301) was statistically significantly superior to placebo in reducing the signs and symptoms of rheumatoid arthritis in all 3 placebo-controlled trials. The ACR (American College of Rheumatology) response rates in study YU203 were 27.7% for placebo, 31.9% for 5 mg, 50.5% for 10 mg and 54.5% for 25 mg/day. In the phase III trials, the ACR response rates for leflunomide 20 mg/day versus placebo were 54.6% versus 28.6% (study MN301), and 49.4% versus 26.3% (study US301).After 12 months with active treatment, the ACR response rates in leflunomide patients were 52.3% (studies MN301/303), 50.5% (study MN302) and 49.4% (study US301), compared to 53.8% (studies MN301/303) in sulphasalazine patients, 64.8% (study MN302), and 43.9% (study US301) in methotrexate patients. In study MN302 leflunomide was significantly less effective than methotrexate. However, in study US301 no significant differences were observed between leflunomide and methotrexate in the primary efficacy parameters. No difference was observed between leflunomide and sulphasalazine (study MN301). The leflunomide treatment effect was evident by 1 month, stabilised by 3 to 6 months and continued throughout the course of treatment.
+All leflunomide patients in the phase III trials used an initial dose of 100 mg for 3 days.
 
 <div style=\"page-break-after: always\"></div>
+
+Study MN301 randomised 358 subjects with active rheumatoid arthritis to leflunomide 20 mg/day (n=133), sulphasalazine 2 g/day (n=133), or placebo (n=92). Treatment duration was 6 months. Study MN303 was an optional 6-month blinded continuation of MN301 without the placebo arm, resulting in a 12-month comparison of leflunomide and sulphasalazine.
+
+Study MN302 randomised 999 subjects with active rheumatoid arthritis to leflunomide 20 mg/day (n=501) or methotrexate at 7.5 mg/week increasing to 15 mg/week (n=498). Folate supplementation was optional and only used in 10% of patients. Treatment duration was 12-months. Study US301 randomised 482 subjects with active rheumatoid arthritis to leflunomide 20 mg/day (n=182), methotrexate 7.5 mg/week increasing to 15 mg/week (n=182), or placebo (n=118). All patients received folate 1 mg bid. Treatment duration was 12 months.
+
+Leflunomide at a daily dose of at least 10 mg (10 to 25 mg in study YU203, 20 mg in studies MN301 and US301) was statistically significantly superior to placebo in reducing the signs and symptoms of rheumatoid arthritis in all 3 placebo-controlled trials. The ACR (American College of Rheumatology) response rates in study YU203 were 27.7% for placebo, 31.9% for 5 mg, 50.5% for 10 mg and 54.5% for 25 mg/day. In the phase III trials, the ACR response rates for leflunomide 20 mg/day versus placebo were 54.6% versus 28.6% (study MN301), and 49.4% versus 26.3% (study US301).After 12 months with active treatment, the ACR response rates in leflunomide patients were 52.3% (studies MN301/303), 50.5% (study MN302) and 49.4% (study US301), compared to 53.8% (studies MN301/303) in sulphasalazine patients, 64.8% (study MN302), and 43.9% (study US301) in methotrexate patients. In study MN302 leflunomide was significantly less effective than methotrexate. However, in study US301 no significant differences were observed between leflunomide and methotrexate in the primary efficacy parameters. No difference was observed between leflunomide and sulphasalazine (study MN301). The leflunomide treatment effect was evident by 1 month, stabilised by 3 to 6 months and continued throughout the course of treatment.
 
 A randomised, double-blind, parallel-group non-inferiority study compared the relative efficacy of two different daily maintenance doses of leflunomide, 10 mg and 20 mg. From the results it can be concluded that efficacy results of the 20 mg maintenance dose were more favourable, on the other hand, the safety results favoured the 10 mg daily maintenance dose.
 
@@ -1932,13 +1948,13 @@ Leflunomide 20 mg/day was significantly superior to placebo in reducing the symp
 
 ## Postmarketing studies
 
+<div style=\"page-break-after: always\"></div>
+
 A randomised study assessed the clinical efficacy response rate in DMARD-naïve patients (n=121) with early RA, who received either 20 mg or 100 mg of leflunomide in two parallel groups during the initial three day double blind period. The initial period was followed by an open label maintenance period of three months, during which both groups received leflunomide 20 mg daily. No incremental overall benefit was observed in the studied population with the use of a loading dose regimen. The safety data obtained from both treatment groups were consistent with the known safety profile of leflunomide, however, the incidence of gastrointestinal adverse events and of elevated liver enzymes tended to be higher in the patients receiving the loading dose of 100 mg leflunomide.
 
 ## 5.2 Pharmacokinetic properties
 
 Leflunomide is rapidly converted to the active metabolite, A771726, by first-pass metabolism (ring opening) in gut wall and liver. In a study with radiolabelled 14 C-leflunomide in three healthy volunteers, no unchanged leflunomide was detected in plasma, urine or faeces. In other studies, unchanged leflunomide levels in plasma have rarely been detected, however, at ng/ml plasma levels. The only plasma-radiolabelled metabolite detected was A771726. This metabolite is responsible for essentially all the in vivo activity of Arava.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Absorption
 
@@ -1952,13 +1968,13 @@ In human plasma, A771726 is extensively bound to protein (albumin). The unbound 
 
 Leflunomide is metabolised to one primary (A771726) and many minor metabolites including TFMA (4-trifluoromethylaniline). The metabolic biotransformation of leflunomide to A771726 and subsequent metabolism of A771726 is not controlled by a single enzyme and has been shown to occur in microsomal and cytosolic cellular fractions. Interaction studies with cimetidine (non-specific cytochrome P450 inhibitor) and rifampicin (non-specific cytochrome P450 inducer), indicate that in vivo CYP enzymes are involved in the metabolism of leflunomide only to a small extent.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Elimination
 
 Elimination of A771726 is slow and characterised by an apparent clearance of about 31 ml/hr. The elimination half-life in patients is approximately 2 weeks. After administration of a radiolabelled dose of leflunomide, radioactivity was equally excreted in faeces, probably by biliary elimination, and in urine. A771726 was still detectable in urine and faeces 36 days after a single administration. The principal urinary metabolites were glucuronide products derived from leflunomide (mainly in 0 to 24 hour samples) and an oxanilic acid derivative of A771726. The principal faecal component was A771726.
 
 It has been shown in man that administration of an oral suspension of activated powdered charcoal or colestyramine leads to a rapid and significant increase in A771726 elimination rate and decline in plasma concentrations (see section 4.9). This is thought to be achieved by a gastrointestinal dialysis mechanism and/or by interrupting enterohepatic recycling.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Renal impairment
 
@@ -1980,6 +1996,8 @@ Pharmacokinetic data in elderly (&gt;65 years) are limited but consistent with p
 
 Leflunomide, administered orally and intraperitoneally, has been studied in acute toxicity studies in mice and rats. Repeated oral administration of leflunomide to mice for up to 3 months, to rats and dogs for up to 6 months and to monkeys for up to 1 month's duration revealed that the major target organs for toxicity were bone marrow, blood, gastrointestinal tract, skin, spleen, thymus and lymph nodes. The main effects were anaemia, leucopenia, decreased platelet counts and panmyelopathy and reflect the basic mode of action of the compound (inhibition of DNA synthesis). In rats and dogs, Heinz bodies and/or Howell-Jolly bodies were found. Other effects found on heart, liver, cornea and respiratory tract could be explained as infections due to immunosuppression. Toxicity in animals was found at doses equivalent to human therapeutic doses.
 
+<div style=\"page-break-after: always\"></div>
+
 Leflunomide was not mutagenic. However, the minor metabolite TFMA (4-trifluoromethylaniline) caused clastogenicity and point mutations in vitro , whilst insufficient information was available on its potential to exert this effect in vivo .
 
 In a carcinogenicity study in rats, leflunomide did not show carcinogenic potential. In a carcinogenicity study in mice an increased incidence of malignant lymphoma occurred in males of the highest dose group, considered to be due to the immunosuppressive activity of leflunomide. In female mice an increased incidence, dose-dependent, of bronchiolo-alveolar adenomas and carcinomas of the lung was noted. The relevance of the findings in mice relative to the clinical use of leflunomide is uncertain.
@@ -1987,8 +2005,6 @@ In a carcinogenicity study in rats, leflunomide did not show carcinogenic potent
 Leflunomide was not antigenic in animal models.
 
 Leflunomide was embryotoxic and teratogenic in rats and rabbits at doses in the human therapeutic range and exerted adverse effects on male reproductive organs in repeated dose toxicity studies. Fertility was not reduced.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
@@ -2018,15 +2034,17 @@ Aluminium / Aluminium blister. Pack size: 3 film-coated tablets.
 
 No special requirements for disposal.
 
-## 7. MARKETING AUTHORISATION HOLDER
+<div style=\"page-break-after: always\"></div>
+
+7.
+
+MARKETING AUTHORISATION HOLDER
 
 Sanofi-Aventis Deutschland GmbH D-65926 Frankfurt am Main Germany
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/99/118/009
-
-<div style=\"page-break-after: always\"></div>
 
 ## 9. DATE OF FIRST AUTHORISATION / RENEWAL OF THE AUTHORISATION
 
@@ -2037,6 +2055,8 @@ Date of latest renewal: 01 July 2009
 ## 10. DATE OF REVISION OF THE TEXT
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu/.
+
+52
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2622,7 +2642,7 @@ Keep the bottle tightly closed.
 
 <div style=\"page-break-after: always\"></div>
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -2774,7 +2794,7 @@ Batch
 
 ## Arava 10 mg film-coated tablets
 
-leflunomide
+## leflunomide
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
@@ -2831,6 +2851,12 @@ Arava can occasionally cause some problems with your blood, liver, lungs, or ner
 
 DRESS appears initially as flu-like symptoms and a rash on the face then an extended rash with a high temperature, increased levels of liver enzymes seen in blood tests and an increase in a type of white blood cell (eosinophilia) and enlarged lymph nodes.
 
+## Haemophagocytic lymphohistiocytosis (HLH)
+
+There have been reports of a rare but very serious immune system reaction, in patients taking ARAVA.
+
+- -Contact your doctor or pharmacist immediately if you experience any of the following symptoms while taking ARAVA: fever, rash, neurological symptoms (e.g. shaking or tremor, confusional state, disturbances of brain function).
+
 Your doctor will carry out blood tests at regular intervals, before and during treatment with Arava, to monitor your blood cells and liver. Your doctor will also check your blood pressure regularly as Arava can cause an increase in blood pressure.
 
 Tell your doctor if you have unexplained chronic diarrhoea. Your doctor may perform additional tests for differential diagnosis.
@@ -2850,6 +2876,9 @@ This is especially important if you are taking:
 - -other medicines for rheumatoid arthritis such as antimalarials (e.g. chloroquine and hydroxychloroquine), intramuscular or oral gold, D-penicillamine, azathioprine and other immunosuppressive medicines (e.g. methotrexate) as these combinations are not advisable,
 - -warfarin and other oral medicines used to thin the blood, as monitoring is necessary to reduce the risk of side effects of this medicine
 - -teriflunomide for multiple sclerosis
+
+<div style=\"page-break-after: always\"></div>
+
 - -repaglinide, pioglitazone, nateglinide, or rosiglitazone for diabetes
 - -daunorubicin, doxorubicin, paclitaxel, or topotecan for cancer
 - -duloxetine for depression, urinary incontinence or in kidney disease in diabetics
@@ -2858,9 +2887,6 @@ This is especially important if you are taking:
 - -tizanidine, a muscle relaxant
 - -oral contraceptives (containing ethinylestradiol and levonorgestrel)
 - -cefaclor, benzylpenicillin (penicillin G), ciprofloxacin for infections
-
-<div style=\"page-break-after: always\"></div>
-
 - -indomethacin, ketoprofen for pain or inflammation
 - -furosemide for heart disease (diuretic, water pill)
 - -zidovudine for HIV infection
@@ -2902,11 +2928,11 @@ Arava can make you feel dizzy which may impair your ability to concentrate and r
 
 If you have been told by your doctor that you have an intolerance to some sugars, contact your doctor before taking this medicine.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 3. How to take Arava
 
 Always take this medicine exactly as your doctor or pharmacist has told you. Check with your doctor or pharmacist if you are not sure.
-
-<div style=\"page-break-after: always\"></div>
 
 The usual starting dose of Arava is 100 mg leflunomide once daily for the first three days. After this, most patients need a dose of:
 
@@ -2948,6 +2974,9 @@ Tell your doctor immediately if you experience:
 
 - -a slight decrease in the number of white blood cells (leucopenia),
 - -mild allergic reactions,
+
+<div style=\"page-break-after: always\"></div>
+
 - -loss of appetite, weight loss (usually insignificant),
 - -tiredness (asthenia),
 - -headache, dizziness,
@@ -2955,9 +2984,6 @@ Tell your doctor immediately if you experience:
 - -mild increase in blood pressure,
 - -colitis,
 - -diarrhoea,
-
-<div style=\"page-break-after: always\"></div>
-
 - -nausea, vomiting,
 - -inflammation of the mouth or mouth ulcers,
 - -abdominal pain,
@@ -2999,11 +3025,11 @@ Tell your doctor immediately if you experience:
 
 Other side effects such as kidney failure, a decrease in the levels of uric acid in your blood, pulmonary hypertension, male infertility (which is reversible once treatment with this medicine is stopped), cutaneous lupus (characterized by rash/erythema on skin areas that are exposed to light), psoriasis (new or worsening), DRESS and Skin ulcer (Round, open sore in the skin through which the underlying tissues can be seen), may also occur with an unknown frequency.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Reporting of side effects
 
 If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 5. How to store Arava
 
@@ -3251,6 +3277,12 @@ Arava can occasionally cause some problems with your blood, liver, lungs, or ner
 
 DRESS appears initially as flu-like symptoms and a rash on the face then an extended rash with a high temperature, increased levels of liver enzymes seen in blood tests and an increase in a type of white blood cell (eosinophilia) and enlarged lymph nodes.
 
+## Haemophagocytic lymphohistiocytosis (HLH)
+
+There have been reports of a rare but very serious immune system reaction, in patients taking ARAVA.
+
+- -Contact your doctor or pharmacist immediately if you experience any of the following symptoms while taking ARAVA: fever, rash, neurological symptoms (e.g. shaking or tremor, confusional state, disturbances of brain function).
+
 Your doctor will carry out blood tests at regular intervals, before and during treatment with Arava, to monitor your blood cells and liver. Your doctor will also check your blood pressure regularly as Arava can cause an increase in blood pressure.
 
 Tell your doctor if you have unexplained chronic diarrhoea. Your doctor may perform additional tests for differential diagnosis.
@@ -3268,6 +3300,9 @@ Please tell your doctor or pharmacist if you are taking, have recently taken or 
 This is especially important if you are taking:
 
 - -other medicines for rheumatoid arthritis such as antimalarials (e.g. chloroquine and hydroxychloroquine), intramuscular or oral gold, D-penicillamine, azathioprine and other immunosuppressive medicines (e.g. methotrexate) as these combinations are not advisable,
+
+<div style=\"page-break-after: always\"></div>
+
 - -warfarin and other oral medicines used to thin the blood, as monitoring is necessary to reduce the risk of side effects of this medicine
 - -teriflunomide for multiple sclerosis
 - -repaglinide, pioglitazone, nateglinide, or rosiglitazone for diabetes
@@ -3276,9 +3311,6 @@ This is especially important if you are taking:
 - -alosetron for the management of severe diarrhoea
 - -theophylline for asthma
 - -tizanidine, a muscle relaxant
-
-<div style=\"page-break-after: always\"></div>
-
 - -oral contraceptives (containing ethinylestradiol and levonorgestrel)
 - -cefaclor, benzylpenicillin (penicillin G), ciprofloxacin for infections
 - -indomethacin, ketoprofen for pain or inflammation
@@ -3318,6 +3350,8 @@ Do not take Arava when you are breast-feeding , as leflunomide passes into the b
 
 Arava can make you feel dizzy which may impair your ability to concentrate and react. If you are affected, do not drive, or use machines.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Arava contains lactose
 
 If you have been told by your doctor that you have an intolerance to some sugars, contact your doctor before taking this medicine.
@@ -3325,8 +3359,6 @@ If you have been told by your doctor that you have an intolerance to some sugars
 ## 3. How to take Arava
 
 Always take this medicine exactly as your doctor or pharmacist has told you. Check with your doctor or pharmacist if you are not sure.
-
-<div style=\"page-break-after: always\"></div>
 
 The usual starting dose of Arava is 100 mg leflunomide once daily for the first three days. After this, most patients need a dose of:
 
@@ -3364,6 +3396,8 @@ Tell your doctor immediately if you experience:
 - -cough or breathing problems as these may indicate problems of the lung (interstitial lung disease or pulmonary hypertension or pulmonary nodule),
 - -unusual tingling, weakness or pain in your hands or feet as these may indicate problems with your nerves (peripheral neuropathy).
 
+<div style=\"page-break-after: always\"></div>
+
 ## Common side effects (may affect up to 1 in 10 people)
 
 - -a slight decrease in the number of white blood cells (leucopenia),
@@ -3374,9 +3408,6 @@ Tell your doctor immediately if you experience:
 - -abnormal skin sensations like tingling (paraesthesia),
 - -mild increase in blood pressure,
 - -colitis,
-
-<div style=\"page-break-after: always\"></div>
-
 - -diarrhoea,
 - -nausea, vomiting,
 - -inflammation of the mouth or mouth ulcers,
@@ -3417,13 +3448,15 @@ Tell your doctor immediately if you experience:
 - -severe liver injury such as liver failure or necrosis which may be fatal,
 - -severe sometimes life-threatening reactions (Stevens-Johnson syndrome, toxic epidermal necrolysis, erythema multiforme).
 
-Other side effects such as kidney failure, a decrease in the levels of uric acid in your blood, pulmonary hypertension, male infertility (which is reversible once treatment with this medicine is stopped), cutaneous lupus (characterized by rash/erythema on skin areas that are exposed to light), psoriasis (new or worsening), DRESS and Skin ulcer (Round, open sore in the skin through which the underlying tissues can be seen), may also occur with an unknown frequency.
+Other side effects such as kidney failure, a decrease in the levels of uric acid in your blood, pulmonary hypertension, male infertility (which is reversible once treatment with this medicine is stopped), cutaneous lupus (characterized by rash/erythema on skin areas that are exposed to light), psoriasis
+
+<div style=\"page-break-after: always\"></div>
+
+(new or worsening), DRESS and Skin ulcer (Round, open sore in the skin through which the underlying tissues can be seen), may also occur with an unknown frequency.
 
 ## Reporting of side effects
 
 If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 5. How to store Arava
 
@@ -3445,7 +3478,9 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What Arava contains
 
--The active substance is leflunomide. One film-coated tablet contains 20 mg of leflunomide -The other ingredients are: maize starch, povidone (E1201), crospovidone (E1202), silica colloidal anhydrous, magnesium stearate (E470b), and lactose monohydrate in the tablet core, as well as talc (E553b), hypromellose (E464), titanium dioxide (E171), macrogol 8000 and yellow ferric oxide (E172) in the film-coating.
+- -
+- -The other ingredients are: maize starch, povidone (E1201), crospovidone (E1202), silica well as talc (E553b), hypromellose (E464), titanium dioxide (E171), macrogol 8000 and yellow ferric oxide (E172) in the film-coating.
+- The active substance is leflunomide. One film-coated tablet contains 20 mg of leflunomide colloidal anhydrous, magnesium stearate (E470b), and lactose monohydrate in the tablet core, as
 
 ## What Arava looks like and contents of the pack
 
@@ -3668,6 +3703,12 @@ Arava can occasionally cause some problems with your blood, liver, lungs, or ner
 
 DRESS appears initially as flu-like symptoms and a rash on the face then an extended rash with a high temperature, increased levels of liver enzymes seen in blood tests and an increase in a type of white blood cell (eosinophilia) and enlarged lymph nodes.
 
+## Haemophagocytic lymphohistiocytosis (HLH)
+
+There have been reports of a rare but very serious immune system reaction, in patients taking ARAVA.
+
+- -Contact your doctor or pharmacist immediately if you experience any of the following symptoms while taking ARAVA: fever, rash, neurological symptoms (e.g. shaking or tremor, confusional state, disturbances of brain function).
+
 Your doctor will carry out blood tests at regular intervals, before and during treatment with Arava, to monitor your blood cells and liver. Your doctor will also check your blood pressure regularly as Arava can cause an increase in blood pressure.
 
 Tell your doctor if you have unexplained chronic diarrhoea. Your doctor may perform additional tests for differential diagnosis.
@@ -3687,6 +3728,9 @@ This is especially important if you are taking:
 - -other medicines for rheumatoid arthritis such as antimalarials (e.g. chloroquine and hydroxychloroquine), intramuscular or oral gold, D-penicillamine, azathioprine and other immunosuppressive medicines (e.g. methotrexate) as these combinations are not advisable,
 - -warfarin and other oral medicines used to thin the blood, as monitoring is necessary to reduce the risk of side effects of this medicine
 - -teriflunomide for multiple sclerosis
+
+<div style=\"page-break-after: always\"></div>
+
 - -repaglinide, pioglitazone, nateglinide, or rosiglitazone for diabetes
 - -daunorubicin, doxorubicin, paclitaxel, or topotecan for cancer
 - -duloxetine for depression, urinary incontinence or in kidney disease in diabetics
@@ -3695,9 +3739,6 @@ This is especially important if you are taking:
 - -tizanidine, a muscle relaxant
 - -oral contraceptives (containing ethinylestradiol and levonorgestrel)
 - -cefaclor, benzylpenicillin (penicillin G), ciprofloxacin for infections
-
-<div style=\"page-break-after: always\"></div>
-
 - -indomethacin, ketoprofen for pain or inflammation
 - -furosemide for heart disease (diuretic, water pill)
 - -zidovudine for HIV infection
@@ -3739,11 +3780,11 @@ Arava can make you feel dizzy which may impair your ability to concentrate and r
 
 If you have been told by your doctor that you have an intolerance to some sugars, contact your doctor before taking this medicine.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 3. How to take Arava
 
 Always take this medicine exactly as your doctor or pharmacist has told you. Check with your doctor or pharmacist if you are not sure.
-
-<div style=\"page-break-after: always\"></div>
 
 The usual starting dose of Arava is 100 mg leflunomide once daily for the first three days. After this, most patients need a dose of:
 
@@ -3785,6 +3826,9 @@ Tell your doctor immediately if you experience:
 
 - -a slight decrease in the number of white blood cells (leucopenia),
 - -mild allergic reactions,
+
+<div style=\"page-break-after: always\"></div>
+
 - -loss of appetite, weight loss (usually insignificant),
 - -tiredness (asthenia),
 - -headache, dizziness,
@@ -3792,9 +3836,6 @@ Tell your doctor immediately if you experience:
 - -mild increase in blood pressure,
 - -colitis,
 - -diarrhoea,
-
-<div style=\"page-break-after: always\"></div>
-
 - -nausea, vomiting,
 - -inflammation of the mouth or mouth ulcers,
 - -abdominal pain,
@@ -3836,11 +3877,11 @@ Tell your doctor immediately if you experience:
 
 Other side effects such as kidney failure, a decrease in the levels of uric acid in your blood, pulmonary hypertension, male infertility (which is reversible once treatment with this medicine is stopped), cutaneous lupus (characterized by rash/erythema on skin areas that are exposed to light), psoriasis (new or worsening), DRESS and Skin ulcer (Round, open sore in the skin through which the underlying tissues can be seen), may also occur with an unknown frequency.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Reporting of side effects
 
 If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 5. How to store Arava
 
@@ -3939,9 +3980,7 @@ SANOFI-AVENTIS Zrt. Tel.: +36 1 505 0050
 
 ## Malta
 
-Sanofi S.r.l.
-
-Tel: +39 02 39394275
+Sanofi S.r.l. Tel: +39 02 39394275
 
 ## Nederland
 

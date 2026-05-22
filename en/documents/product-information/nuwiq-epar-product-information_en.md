@@ -1,20 +1,20 @@
 ---
-document_datetime: 2023-09-21 21:24:19
-document_pages: 56
+document_datetime: 2026-05-21 14:01:41
+document_pages: 93
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/nuwiq-epar-product-information_en.pdf
 document_name: nuwiq-epar-product-information_en.pdf
 version: success
-processing_time: 19.265076
-conversion_datetime: 2025-12-28 19:56:33.296847
+processing_time: 46.8213008
+conversion_datetime: 2026-05-22 23:23:26.70396
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.20.0
+  docling-jobkit: 1.20.0
+  docling: 2.95.0
+  docling-core: 2.77.0
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.11.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -230,7 +230,7 @@ Development of neutralising antibodies (inhibitors) may occur in patients with h
 
 Table 1 presented below is according to the MedDRA system organ classification (SOC and Preferred Term Level). Frequencies are based on reports from clinical trials with a total of 355 unique subjects with severe haemophilia A, of which 247 were previously treated patients (PTPs) and 108 were previously untreated patients (PUPs).
 
-Frequencies have been evaluated according to the following convention: very common (≥1/10); common (≥1/100 to &lt;1/10); uncommon (≥1/1,000 to &lt;1/100); rare (≥1/10,000 to &lt;1/1,000); very rare (&lt;1/10,000), not known (cannot be estimated from the available data).
+Frequencies have been evaluated according to the following convention: very common (≥1/10); common (≥1/100 to &lt;1/10); uncommon (≥1/1,000 to &lt;1/100); rare (≥1/10,000 to &lt;1/1,000); very rare (&lt;1/10,000), not known (cannot be estimated from the available data ).
 
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
@@ -326,7 +326,7 @@ Table 3. PK parameters for Nuwiq (Dose: 50 IU/kg) in previously treated children
 | IVR (%/IU/kg)  | 1.9 ± 0.4           | 1.9 (1.2 - 2.6)     |
 | CL (mL/hr/kg)  | 4.3 ± 1.2           | 4.2 (2.8 - 6.9)     |
 
-IVR = Incremental in vivo recovery, CL = Clearance, SD = Standard deviation
+IVR = Incremental in vivo recovery, CL = Clearance, SD = Standard deviation AUC = Area under the curve (FVIII:C), T1/2 = Terminal half-life, IVR = Incremental in vivo recovery, CL = Clearance, SD = Standard deviation
 
 Table 4. PK parameters for Nuwiq (Dose: 50 IU/kg) in previously treated children aged 2 to 5 years with severe haemophilia A (n = 13)
 
@@ -343,10 +343,6 @@ Table 4. PK parameters for Nuwiq (Dose: 50 IU/kg) in previously treated children
 |----------------|---------------------|---------------------|
 |                | Mean ± SD           | Median (range)      |
 | CL (mL/hr/kg)  | 5.4 ± 2.4           | 5.1 ( 2.3 - 10.9)   |
-
-AUC = Area under the curve (FVIII:C), T1/2 = Terminal half-life,
-
-IVR = Incremental in vivo recovery, CL = Clearance, SD = Standard deviation
 
 ## Paediatric population
 
@@ -387,11 +383,9 @@ Ex vivo evaluations using a commercial assay kit to quantify T cell response to 
 
 Powder
 
-Sucrose Sodium chloride Calcium chloride dihydrate Arginine hydrochloride
+Sucrose Sodium chloride Calcium chloride dihydrate Arginine hydrochloride Sodium citrate dihydrate Poloxamer 188
 
 <div style=\"page-break-after: always\"></div>
-
-## Sodium citrate dihydrate Poloxamer 188
 
 ## Solvent
 
@@ -431,29 +425,38 @@ For storage at room temperature and storage conditions after reconstitution of t
 
 ## 6.5 Nature and contents of container
 
+Nuwiq with solvent supplied in a pre-filled syringe
+
 Each pack contains:
 
 - -1 powder vial with 250, 500, 1000, 1500, 2000, 2500, 3000 or 4000 IU simoctocog alfa in a type 1 glass vial, closed with coated bromobutyl stopper and sealed with aluminium flip-off cap
 - -Solvent: 1 borosilicate pre-filled glass syringe containing 2.5 mL water for injections
 - -1 sterile vial adapter for reconstitution with 1 butterfly needle and 2 alcohol swabs
 
-## 6.6 Special precautions for disposal and other handling
+## Nuwiq with solvent supplied in a vial
 
 <div style=\"page-break-after: always\"></div>
+
+Each pack contains:
+
+- -1 powder vial with 250, 500, 1000, 1500, 2000, 2500, 3000 or 4000 IU simoctocog alfa in a type 1 glass vial, closed with coated bromobutyl stopper and sealed with aluminium flip-off cap
+- -Solvent: 1 type 1 glass vial containing 2.5 mL water for injections
+- -1 transfer device for reconstitution, 1 disposable syringe, 1 butterfly needle (infusion set) and 2 alcohol swabs
+
+## 6.6 Special precautions for disposal and other handling
+
+## Nuwiq with solvent supplied in a pre-filled syringe
 
 The powder should only be reconstituted with the supplied solvent (2.5 mL water for injections) using the supplied injection set. The vial should be gently rotated until all powder is dissolved. After reconstitution, the solution should be drawn back into the syringe.
 
 The reconstituted medicinal product should be inspected visually for particulate matter and discoloration prior to administration. The reconstituted medicinal product is a clear, colourless solution, free from foreign particles and has a pH of 6.5 to 7.5.  Do not use solutions that are cloudy or have deposits.
 
-## Instructions for preparation and administration
+Instructions for preparation and administration
 
 1. Allow the solvent syringe (water for injections) and the powder in the closed vial to reach room temperature. You can do this by holding them in your hands until they feel as warm as your hands. Do not use any other way to heat the vial and pre-filled syringe. This temperature should be maintained during reconstitution.
 2. Remove the plastic flip-off cap from the powder vial to expose the central portions of the rubber stopper. Do not remove the gray stopper or metal ring around the top of the vial.
 3. Wipe the top of the vial with an alcohol swab. Allow the alcohol to dry.
 4. Peel back the paper cover from the vial adapter package. Do not remove the adapter from the package.
-5. Place the powder vial on an even surface and hold it. Take the adapter package and place the vial adapter over the centre of the rubber stopper of the powder vial. Press down firmly the adapter package until the adapter spike penetrates the rubber stopper. The adapter snaps to the vial when done.
-
-<!-- image -->
 
 <!-- image -->
 
@@ -461,12 +464,18 @@ The reconstituted medicinal product should be inspected visually for particulate
 
 <!-- image -->
 
+5. Place the powder vial on an even surface and hold it. Take the adapter package and place the vial adapter over the centre of the rubber stopper of the powder vial. Press down firmly the adapter package until the adapter spike penetrates the rubber stopper. The adapter snaps to the vial when done.
 6. Peel back the paper cover from the pre-filled syringe package. Hold the plunger rod at the end and do not touch the shaft. Attach the threaded end of the plunger rod to the solvent syringe plunger. Turn the plunger rod clockwise until a slight resistance is felt.
+
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
+
+<!-- image -->
+
 7. Break off the tamper-proof plastic tip from the solvent syringe by snapping the perforation of the cap. Do not touch the inside of the cap or the syringe tip. In case the solution is not used immediately close the filled syringe with the tamper-proof plastic tip for storage.
 8. Remove the adapter packaging and discard.
 9. Firmly connect the solvent syringe to the vial adapter by turning clockwise until resistance is felt.
-
-<!-- image -->
 
 <!-- image -->
 
@@ -478,7 +487,38 @@ The reconstituted medicinal product should be inspected visually for particulate
 11. Without removing the syringe, gently move or swirl the vial in circles a few times to dissolve the powder. Do not shake. Wait until all the powder dissolves completely.
 12. Visually inspect the final solution for particles before administration. The solution should be clear and colourless, practically free from visible particles. Do not use solutions that are cloudy or have deposits.
 13. Turn the vial attached to the syringe upside down, and slowly draw the final solution into the syringe. Make sure that the entire content of the vial is transferred to the syringe.
+
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
+
+<!-- image -->
+
 14. Detach the filled syringe from the vial adapter by turning counter clockwise and discard the empty vial.
+15. The solution is now prepared for immediate use. Do not refrigerate.
+16. Clean the chosen injection site with one of the provided alcohol swabs.
+4. 17.
+5. Attach the provided infusion set to the syringe. Insert the needle of the infusion set into the chosen vein. If you have used a tourniquet to make the vein easier to see, this tourniquet should be released before you start injecting the solution. No blood must flow into the syringe due to the risk of formation of fibrin clots.
+18. Inject the solution into the vein at a slow speed, not faster than 4 mL per minute.
+
+If you use more than one vial of powder for one treatment, you may use the same injection needle again. The vial adapter and the syringe are for single use only.
+
+## Nuwiq with solvent supplied in a vial
+
+The powder should only be reconstituted with the supplied solvent (2.5 mL water for injections) using the supplied transfer device. The transfer device must be attached first to the solvent vial and then to the powder vial. Otherwise a loss of vacuum occurs and the transfer of the solvent into the powder vial does not take place. If solvent is not completely transferred to the powder vial during this process, please contact the marketing authorisation holder.
+
+The vial should be gently rotated until all powder is dissolved. After reconstitution, the solution should be drawn into the supplied disposable syringe. The reconstituted medicinal product should be inspected visually for particulate matter and discoloration prior to administration. The reconstituted medicinal product is a clear, colourless solution, free from foreign particles and has a pH of 6.5 to 7.5. Do not use solutions that are cloudy or have deposits.
+
+## Instructions for preparation and administration
+
+1. Allow the solvent (water for injections) in the closed vial and the powder in the closed vial to reach room temperature. You can do this by holding them in your hands until they feel as warm as your hands. Do not use any other way to heat the two vials. This temperature should be maintained during reconstitution.
+
+<div style=\"page-break-after: always\"></div>
+
+2. Remove the plastic flip-off caps from the powder vial and the solvent vial to expose the central portions of the rubber stopper. Do not remove the gray stopper or metal ring around the top of the vial.
+3. Wipe the top of both vials with an alcohol swab. Allow the alcohol to dry. Do not touch the rubber stoppers after you wipped them with the alcohol swab.
+4. Peel back the lid from the transfer device blister package. Do not remove the transfer device from its package.
+5. Place the solvent vial on an even surface and hold it firmly. Without removing the blister package, place the blue part of the transfer device on top of the solvent vial and press straight and firmly down until it snaps into place. Do not twist while attaching.
 
 <!-- image -->
 
@@ -486,25 +526,69 @@ The reconstituted medicinal product should be inspected visually for particulate
 
 <div style=\"page-break-after: always\"></div>
 
-15. The solution is now prepared for immediate use. Do not refrigerate.
-16. Clean the chosen injection site with one of the provided alcohol swabs.
-3. 17.
-4. Attach the provided infusion set to the syringe. Insert the needle of the infusion set into the chosen vein. If you have used a tourniquet to make the vein easier to see, this tourniquet should be released before you start injecting the solution. No blood must flow into the syringe due to the risk of formation of fibrin clots.
-18. Inject the solution into the vein at a slow speed, not faster than 4 mL per minute.
+<!-- image -->
 
-If you use more than one vial of powder for one treatment, you may use the same injection needle again. The vial adapter and the syringe are for single use only.
+6. Hold the solvent vial, remove the outer package from the transfer device, while leaving the transfer device firmly attached to the solvent vial.
+7. Place the powder vial on an even surface and hold it. Quickly invert the solvent vial with the attached transfer device. Place the white part of the transfer device on top of the powder vial and press firmly down until it snaps into place . Do not twist while attaching. The solvent will flow automatically into the powder vial.
+
+<!-- image -->
+
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
+
+8. Without removing the transfer device with the solvent vial attached, gently move or swirl the vial in circles a few times to dissolve the powder. Do not shake. Wait until all the powder dissolves completely.
+9. Unscrew the transfer device into two parts and discard the empty solvent vial with the blue part of the transfer device.
+10. Visually inspect the final solution for particles before administration. The solution should be clear and colourless, practically free from visible particles. Do not use solutions that are cloudy or have deposits.
+11. Attach the disposable syringe to the white plastic part of the transfer device by turning clockwise.
+
+<!-- image -->
+
+<!-- image -->
+
+Turn the vial attached to the syringe upside down, and slowly draw the final solution into the syringe. Make sure that the entire content of the vial is transferred to the syringe.
+
+- 12.
+
+<div style=\"page-break-after: always\"></div>
+
+<!-- image -->
+
+13. Detach the filled syringe from the white part of the transfer device by turning clockwise and discard the empty vial with the white part of the transfer device.
+14. The solution is now prepared for immediate use. Do not refrigerate.
+15. Clean the chosen injection site with one of the provided alcohol swabs.
+16. Attachthe provided infusion set (butterfly needle) to the syringe. Insert the needle of the infusion set into the chosen vein. If you have used a tourniquet to make the vein easier to see, this tourniquet should be released before you start injecting the solution. No blood must flow into the syringe due to the risk of formation of fibrin clots.
+17. Inject the solution into the vein at a slow speed, not faster than 4 mL per minute.
+
+<!-- image -->
+
+If you use more than one vial of powder for one treatment, you may use the same injection needle again. The transfer device and the syringe are for single use only.
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Octapharma AB Lars Forssells gata 23 112 75 Stockholm Sweden
+Octapharma AB Lars Forssells gata 23
+
+<div style=\"page-break-after: always\"></div>
+
+112 75 Stockholm
+
+Sweden
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/14/936/001 EU/1/14/936/002 EU/1/14/936/003 EU/1/14/936/004 EU/1/14/936/005 EU/1/14/936/006 EU/1/14/936/007 EU/1/14/936/008
+Nuwiq with solvent supplied in a pre-filled syringe
 
-## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
+EU/1/14/936/001-008
+
+Nuwiq with solvent supplied in a vial
+
+EU/1/14/936/009-016
+
+9.
+
+DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
 Date of first authorisation: 22 July 2014
 
@@ -514,12 +598,16 @@ Date of latest renewal: 26 April 2019
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu.
 
+21
+
 <div style=\"page-break-after: always\"></div>
 
 ## ANNEX II
 
 - A. MANUFACTURER(S) OF THE BIOLOGICAL ACTIVE SUBSTANCE AND MANUFACTURER(S) RESPONSIBLE FOR BATCH RELEASE
-- B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
+
+## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
+
 - C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 - D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
@@ -574,7 +662,9 @@ OUTER CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Nuwiq 250 IU powder and solvent for solution for injection simoctocog alfa (recombinant human coagulation factor VIII)
+Nuwiq 250 IU powder and solvent for solution for injection
+
+simoctocog alfa (recombinant human coagulation factor VIII)
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -659,7 +749,9 @@ PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS POWDER VIAL
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
+
+POWDER VIAL
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
@@ -667,7 +759,7 @@ Nuwiq 250 IU powder for solution for injection simoctocog alfa (recombinant huma
 
 ## 2. METHOD OF ADMINISTRATION
 
-3. EXPIRY DATE
+## 3. EXPIRY DATE
 
 EXP
 
@@ -689,7 +781,9 @@ OUTER CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Nuwiq 500 IU powder and solvent for solution for injection simoctocog alfa (recombinant human coagulation factor VIII)
+Nuwiq 500 IU powder and solvent for solution for injection
+
+simoctocog alfa (recombinant human coagulation factor VIII)
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -804,7 +898,9 @@ OUTER CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Nuwiq 1000 IU powder and solvent for solution for injection simoctocog alfa (recombinant human coagulation factor VIII)
+Nuwiq 1000 IU powder and solvent for solution for injection
+
+simoctocog alfa (recombinant human coagulation factor VIII)
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -973,7 +1069,7 @@ EU/1/14/936/008
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
@@ -1027,7 +1123,9 @@ OUTER CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Nuwiq 2000 IU powder and solvent for solution for injection simoctocog alfa (recombinant human coagulation factor VIII)
+Nuwiq 2000 IU powder and solvent for solution for injection
+
+simoctocog alfa (recombinant human coagulation factor VIII)
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -1097,9 +1195,9 @@ Nuwiq 2000
 
 PC SN
 
-NN
-
 <div style=\"page-break-after: always\"></div>
+
+NN
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1135,7 +1233,9 @@ OUTER CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Nuwiq 2500 IU powder and solvent for solution for injection simoctocog alfa (recombinant human coagulation factor VIII)
+Nuwiq 2500 IU powder and solvent for solution for injection
+
+simoctocog alfa (recombinant human coagulation factor VIII)
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -1250,7 +1350,9 @@ OUTER CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Nuwiq 3000 IU powder and solvent for solution for injection simoctocog alfa (recombinant human coagulation factor VIII)
+Nuwiq 3000 IU powder and solvent for solution for injection
+
+simoctocog alfa (recombinant human coagulation factor VIII)
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -1295,7 +1397,8 @@ Taken out of refrigerator: \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_
 | 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF   |
 |-------|-------------------------------------------------------------------------------------------------------------------------|
 
-11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|--------------------------------------------------------|
 
 Octapharma AB Lars Forssells gata 23 112 75 Stockholm Sweden
 
@@ -1364,7 +1467,9 @@ OUTER CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Nuwiq 4000 IU powder and solvent for solution for injection simoctocog alfa (recombinant human coagulation factor VIII)
+Nuwiq 4000 IU powder and solvent for solution for injection
+
+simoctocog alfa (recombinant human coagulation factor VIII)
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -1469,13 +1574,959 @@ Lot
 
 ## 6. OTHER
 
-Octapharma-Logo
+Octapharma-Logo Solvent for Nuwiq Water for injections EXP
 
 <div style=\"page-break-after: always\"></div>
 
 | MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
 |------------------------------------------------------------------|
 | PRE-FILLED SYRINGE WITH 2.5 MLWATERFORINJECTIONS                 |
+
+| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|-------------------------------------------------------------|
+
+| 2.   | METHODOFADMINISTRATION   |
+|------|--------------------------|
+
+| 3.   | EXPIRY DATE   |
+|------|---------------|
+
+| 4.   | BATCH NUMBER   |
+|------|----------------|
+
+Lot
+
+| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
+|------|---------------------------------------|
+
+2.5 mL
+
+| 6.   | OTHER   |
+|------|---------|
+
+<div style=\"page-break-after: always\"></div>
+
+## A. LABELLING
+
+<div style=\"page-break-after: always\"></div>
+
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
+
+OUTER CARTON
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Nuwiq 250 IU powder and solvent for solution for injection
+
+simoctocog alfa (recombinant human coagulation factor VIII)
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+
+1 powder vial contains 250 IU simoctocog alfa (100 IU/mL after reconstitution).
+
+## 3. LIST OF EXCIPIENTS
+
+Excipients: Sucrose, sodium chloride, calcium chloride dihydrate, arginine hydrochloride, sodium citrate dihydrate, poloxamer 188
+
+See package leaflet for further information.
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+Powder and solvent for solution for injection
+
+1 powder vial, 1 glass vial with 2.5 mL water for injections, 1 transfer device, 1 butterfly needle, 1 disposable syringe, 2 alcohol swabs
+
+## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+
+Read the package leaflet before use.
+
+For intravenous use after reconstitution.
+
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
+Keep out of the sight and reach of children.
+
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+## 8. EXPIRY DATE
+
+EXP
+
+## 9. SPECIAL STORAGE CONDITIONS
+
+Store in a refrigerator. Do not freeze. Store vial in the original package in order to protect from light. Can be stored at room temperature (up to 25°C) for a single period of up to 1 month.
+
+<div style=\"page-break-after: always\"></div>
+
+Taken out of refrigerator: \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_
+
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF   |
+|-------|-------------------------------------------------------------------------------------------------------------------------|
+
+| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|--------------------------------------------------------|
+
+Octapharma AB Lars Forssells gata 23 112 75 Stockholm Sweden
+
+| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
+|-------|-------------------------------------|
+
+EU/1/14/936/009
+
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
+
+Lot
+
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
+
+| 15.   | INSTRUCTIONS ONUSE   |
+|-------|----------------------|
+
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
+
+Nuwiq 250
+
+| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
+|-------|----------------------------------|
+
+2D barcode carrying the unique identifier included.
+
+| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|-------|------------------------------------------|
+
+PC SN NN
+
+<div style=\"page-break-after: always\"></div>
+
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
+
+POWDER VIAL
+
+## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
+
+Nuwiq 250 IU powder for solution for injection simoctocog alfa (recombinant human coagulation factor VIII) For intravenous use after reconstitution.
+
+## 2. METHOD OF ADMINISTRATION
+
+## 3. EXPIRY DATE
+
+EXP
+
+## 4. BATCH NUMBER
+
+Lot
+
+## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
+
+## 6. OTHER
+
+Octapharma-Logo
+
+<div style=\"page-break-after: always\"></div>
+
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
+
+OUTER CARTON
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Nuwiq 500 IU powder and solvent for solution for injection
+
+simoctocog alfa (recombinant human coagulation factor VIII)
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+
+1 Powder vial contains 500 IU simoctocog alfa (200 IU/mL after reconstitution).
+
+## 3. LIST OF EXCIPIENTS
+
+Excipients: Sucrose, sodium chloride, calcium chloride dihydrate, arginine hydrochloride, sodium citrate dihydrate, poloxamer 188
+
+See package leaflet for further information.
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+Powder and solvent for solution for injection
+
+1 Powder vial, 1 glass vial with 2.5 mL water for injections, 1 transfer device, 1 butterfly needle, 1 disposable syringe, 2 alcohol swabs
+
+## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+
+Read the package leaflet before use.
+
+For intravenous use after reconstitution.
+
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
+Keep out of the sight and reach of children.
+
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+## 8. EXPIRY DATE
+
+EXP
+
+## 9. SPECIAL STORAGE CONDITIONS
+
+Store in a refrigerator. Do not freeze. Store vial in the original package in order to protect from light. Can be stored at room temperature (up to 25°C) for a single period of up to 1 month.
+
+<div style=\"page-break-after: always\"></div>
+
+Taken out of refrigerator: \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_
+
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF   |
+|-------|-------------------------------------------------------------------------------------------------------------------------|
+
+| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|--------------------------------------------------------|
+
+Octapharma AB Lars Forssells gata 23 112 75 Stockholm Sweden
+
+| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
+|-------|-------------------------------------|
+
+EU/1/14/936/010
+
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
+
+Lot
+
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
+
+| 15.   | INSTRUCTIONS ONUSE   |
+|-------|----------------------|
+
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
+
+Nuwiq 500
+
+| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
+|-------|----------------------------------|
+
+2D barcode carrying the unique identifier included.
+
+| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|-------|------------------------------------------|
+
+PC SN NN
+
+<div style=\"page-break-after: always\"></div>
+
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
+
+POWDER VIAL
+
+## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
+
+Nuwiq 500 IU powder for solution for injection simoctocog alfa (recombinant human coagulation factor VIII) For intravenous use after reconstitution.
+
+## 2. METHOD OF ADMINISTRATION
+
+## 3. EXPIRY DATE
+
+EXP
+
+## 4. BATCH NUMBER
+
+Lot
+
+## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
+
+## 6. OTHER
+
+Octapharma-Logo
+
+<div style=\"page-break-after: always\"></div>
+
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
+
+OUTER CARTON
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Nuwiq 1000 IU powder and solvent for solution for injection
+
+simoctocog alfa (recombinant human coagulation factor VIII)
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+
+1 Powder vial contains 1000 IU simoctocog alfa (400 IU/mL after reconstitution).
+
+## 3. LIST OF EXCIPIENTS
+
+Excipients: Sucrose, sodium chloride, calcium chloride dihydrate, arginine hydrochloride, sodium citrate dihydrate, poloxamer 188
+
+See package leaflet for further information.
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+Powder and solvent for solution for injection
+
+1 Powder vial, 1 glass vial with 2.5 mL water for injections, 1 transfer device, 1 butterfly needle, 1 disposable syringe, 2 alcohol swabs
+
+## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+
+Read the package leaflet before use.
+
+For intravenous use after reconstitution.
+
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
+Keep out of the sight and reach of children.
+
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+## 8. EXPIRY DATE
+
+EXP
+
+## 9. SPECIAL STORAGE CONDITIONS
+
+Store in a refrigerator. Do not freeze. Store vial in the original package in order to protect from light. Can be stored at room temperature (up to 25°C) for a single period of up to 1 month.
+
+<div style=\"page-break-after: always\"></div>
+
+Taken out of refrigerator: \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_
+
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF   |
+|-------|-------------------------------------------------------------------------------------------------------------------------|
+
+| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|--------------------------------------------------------|
+
+Octapharma AB Lars Forssells gata 23 112 75 Stockholm
+
+Sweden
+
+| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
+|-------|-------------------------------------|
+
+EU/1/14/936/011
+
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
+
+Lot
+
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
+
+| 15.   | INSTRUCTIONS ONUSE   |
+|-------|----------------------|
+
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
+
+Nuwiq 1000
+
+| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
+|-------|----------------------------------|
+
+2D barcode carrying the unique identifier included.
+
+| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|-------|------------------------------------------|
+
+PC SN NN
+
+<div style=\"page-break-after: always\"></div>
+
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
+
+POWDER VIAL
+
+## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
+
+Nuwiq 1000 IU powder for solution for injection simoctocog alfa (recombinant human coagulation factor VIII) For intravenous use after reconstitution.
+
+## 2. METHOD OF ADMINISTRATION
+
+## 3. EXPIRY DATE
+
+EXP
+
+## 4. BATCH NUMBER
+
+Lot
+
+## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
+
+## 6. OTHER
+
+Octapharma-Logo
+
+<div style=\"page-break-after: always\"></div>
+
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
+
+OUTER CARTON
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Nuwiq 1500 IU powder and solvent for solution for injection simoctocog alfa (recombinant human coagulation factor VIII)
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+
+1 Powder vial contains 1500 IU simoctocog alfa (600 IU/mL after reconstitution).
+
+## 3. LIST OF EXCIPIENTS
+
+Excipients: Sucrose, sodium chloride, calcium chloride dihydrate, arginine hydrochloride, sodium citrate dihydrate, poloxamer 188
+
+See package leaflet for further information.
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+Powder and solvent for solution for injection
+
+1 Powder vial, 1 glass vial with 2.5 mL water for injections, 1 transfer device, 1 butterfly needle, 1 disposable syringe, 2 alcohol swabs
+
+## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+
+Read the package leaflet before use.
+
+For intravenous use after reconstitution.
+
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
+Keep out of the sight and reach of children.
+
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+## 8. EXPIRY DATE
+
+EXP
+
+## 9. SPECIAL STORAGE CONDITIONS
+
+Store in a refrigerator. Do not freeze. Store vial in the original package in order to protect from light. Can be stored at room temperature (up to 25°C) for a single period of up to 1 month.
+
+Taken out of refrigerator: \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_
+
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+
+Octapharma AB Lars Forssells gata 23 112 75 Stockholm Sweden
+
+## 12. MARKETING AUTHORISATION NUMBER(S)
+
+EU/1/14/936/012
+
+## 13. BATCH NUMBER
+
+Lot
+
+14. GENERAL CLASSIFICATION FOR SUPPLY
+
+15. INSTRUCTIONS ON USE
+
+## 16. INFORMATION IN BRAILLE
+
+Nuwiq 1500
+
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
+
+2D barcode carrying the unique identifier included.
+
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+
+PC SN
+
+<div style=\"page-break-after: always\"></div>
+
+NN
+
+<div style=\"page-break-after: always\"></div>
+
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
+
+POWDER VIAL
+
+## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
+
+Nuwiq 1500 IU powder for solution for injection simoctocog alfa (recombinant human coagulation factor VIII) For intravenous use after reconstitution.
+
+## 2. METHOD OF ADMINISTRATION
+
+## 3. EXPIRY DATE
+
+EXP
+
+## 4. BATCH NUMBER
+
+Lot
+
+## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
+
+## 6. OTHER
+
+Octapharma-Logo
+
+<div style=\"page-break-after: always\"></div>
+
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
+
+## OUTER CARTON
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Nuwiq 2000 IU powder and solvent for solution for injection
+
+simoctocog alfa (recombinant human coagulation factor VIII)
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+
+1 Powder vial contains 2000 IU simoctocog alfa (800 IU/mL after reconstitution).
+
+## 3. LIST OF EXCIPIENTS
+
+Excipients: Sucrose, sodium chloride, calcium chloride dihydrate, arginine hydrochloride, sodium citrate dihydrate, poloxamer 188
+
+See package leaflet for further information.
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+Powder and solvent for solution for injection
+
+1 Powder vial, 1 glass vial with 2.5 mL water for injections, 1 transfer device, 1 butterfly needle, 1 disposable syringe, 2 alcohol swabs
+
+## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+
+Read the package leaflet before use.
+
+For intravenous use after reconstitution.
+
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
+Keep out of the sight and reach of children.
+
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+## 8. EXPIRY DATE
+
+EXP
+
+## 9. SPECIAL STORAGE CONDITIONS
+
+Store in a refrigerator. Do not freeze. Store vial in the original package in order to protect from light.
+
+<div style=\"page-break-after: always\"></div>
+
+Can be stored at room temperature (up to 25°C) for a single period of up to 1 month. Taken out of refrigerator: \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_
+
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+
+Octapharma AB Lars Forssells gata 23 112 75 Stockholm Sweden
+
+## 12. MARKETING AUTHORISATION NUMBER(S)
+
+EU/1/14/936/013
+
+13. BATCH NUMBER
+
+Lot
+
+14. GENERAL CLASSIFICATION FOR SUPPLY
+
+15. INSTRUCTIONS ON USE
+
+16. INFORMATION IN BRAILLE
+
+Nuwiq 2000
+
+17. UNIQUE IDENTIFIER - 2D BARCODE
+
+2D barcode carrying the unique identifier included.
+
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+
+PC
+
+SN
+
+NN
+
+<div style=\"page-break-after: always\"></div>
+
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
+
+POWDER VIAL
+
+## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
+
+Nuwiq 2000 IU powder for solution for injection simoctocog alfa (recombinant human coagulation factor VIII) For intravenous use after reconstitution.
+
+## 2. METHOD OF ADMINISTRATION
+
+## 3. EXPIRY DATE
+
+EXP
+
+## 4. BATCH NUMBER
+
+Lot
+
+## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
+
+## 6. OTHER
+
+Octapharma-Logo
+
+<div style=\"page-break-after: always\"></div>
+
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
+
+OUTER CARTON
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Nuwiq 2500 IU powder and solvent for solution for injection
+
+simoctocog alfa (recombinant human coagulation factor VIII)
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+
+1 Powder vial contains 2500 IU simoctocog alfa (1000 IU/mL after reconstitution).
+
+## 3. LIST OF EXCIPIENTS
+
+Excipients: Sucrose, sodium chloride, calcium chloride dihydrate, arginine hydrochloride, sodium citrate dihydrate, poloxamer 188
+
+See package leaflet for further information.
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+Powder and solvent for solution for injection
+
+1 Powder vial, 1 glass vial with 2.5 mL water for injections, 1 transfer device, 1 butterfly needle, 1 disposable syringe, 2 alcohol swabs
+
+## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+
+Read the package leaflet before use.
+
+For intravenous use after reconstitution.
+
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
+Keep out of the sight and reach of children.
+
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+## 8. EXPIRY DATE
+
+EXP
+
+## 9. SPECIAL STORAGE CONDITIONS
+
+Store in a refrigerator. Do not freeze. Store vial in the original package in order to protect from light. Can be stored at room temperature (up to 25°C) for a single period of up to 1 month.
+
+Taken out of refrigerator: \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_
+
+<div style=\"page-break-after: always\"></div>
+
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF   |
+|-------|-------------------------------------------------------------------------------------------------------------------------|
+
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+
+Octapharma AB Lars Forssells gata 23 112 75 Stockholm
+
+Sweden
+
+12. MARKETING AUTHORISATION NUMBER(S)
+
+EU/1/14/936/014
+
+13. BATCH NUMBER
+
+Lot
+
+14. GENERAL CLASSIFICATION FOR SUPPLY
+15. INSTRUCTIONS ON USE
+16. INFORMATION IN BRAILLE
+
+Nuwiq 2500
+
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
+
+2D barcode carrying the unique identifier included.
+
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+
+PC SN
+
+NN
+
+<div style=\"page-break-after: always\"></div>
+
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
+
+POWDER VIAL
+
+## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
+
+Nuwiq 2500 IU powder for solution for injection simoctocog alfa (recombinant human coagulation factor VIII) For intravenous use after reconstitution.
+
+## 2. METHOD OF ADMINISTRATION
+
+## 3. EXPIRY DATE
+
+EXP
+
+## 4. BATCH NUMBER
+
+Lot
+
+## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
+
+## 6. OTHER
+
+Octapharma-Logo
+
+<div style=\"page-break-after: always\"></div>
+
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
+
+OUTER CARTON
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Nuwiq 3000 IU powder and solvent for solution for injection
+
+simoctocog alfa (recombinant human coagulation factor VIII)
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+
+1 Powder vial contains 3000 IU simoctocog alfa (1200 IU/mL after reconstitution).
+
+## 3. LIST OF EXCIPIENTS
+
+Excipients: Sucrose, sodium chloride, calcium chloride dihydrate, arginine hydrochloride, sodium citrate dihydrate, poloxamer 188
+
+See package leaflet for further information.
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+Powder and solvent for solution for injection
+
+1 Powder vial, 1 glass vial with 2.5 mL water for injections, 1 transfer device, 1 butterfly needle, 1 disposable syringe, 2 alcohol swabs
+
+## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+
+Read the package leaflet before use.
+
+For intravenous use after reconstitution.
+
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
+Keep out of the sight and reach of children.
+
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+## 8. EXPIRY DATE
+
+EXP
+
+## 9. SPECIAL STORAGE CONDITIONS
+
+Store in a refrigerator. Do not freeze. Store vial in the original package in order to protect from light. Can be stored at room temperature (up to 25°C) for a single period of up to 1 month.
+
+<div style=\"page-break-after: always\"></div>
+
+Taken out of refrigerator: \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_
+
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF   |
+|-------|-------------------------------------------------------------------------------------------------------------------------|
+
+| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|--------------------------------------------------------|
+
+Octapharma AB Lars Forssells gata 23 112 75 Stockholm Sweden
+
+| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
+|-------|-------------------------------------|
+
+EU/1/14/936/015
+
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
+
+Lot
+
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
+
+| 15.   | INSTRUCTIONS ONUSE   |
+|-------|----------------------|
+
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
+
+Nuwiq 3000
+
+| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
+|-------|----------------------------------|
+
+2D barcode carrying the unique identifier included.
+
+| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|-------|------------------------------------------|
+
+PC SN NN
+
+<div style=\"page-break-after: always\"></div>
+
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS POWDER VIAL
+
+## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
+
+Nuwiq 3000 IU powder for solution for injection simoctocog alfa (recombinant human coagulation factor VIII) For intravenous use after reconstitution.
+
+## 2. METHOD OF ADMINISTRATION
+
+## 3. EXPIRY DATE
+
+EXP
+
+## 4. BATCH NUMBER
+
+Lot
+
+## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
+
+## 6. OTHER
+
+Octapharma-Logo
+
+<div style=\"page-break-after: always\"></div>
+
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
+
+OUTER CARTON
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Nuwiq 4000 IU powder and solvent for solution for injection
+
+simoctocog alfa (recombinant human coagulation factor VIII)
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+
+1 Powder vial contains 4000 IU simoctocog alfa (1600 IU/mL after reconstitution).
+
+## 3. LIST OF EXCIPIENTS
+
+Excipients: Sucrose, sodium chloride, calcium chloride dihydrate, arginine hydrochloride, sodium citrate dihydrate, poloxamer 188
+
+See package leaflet for further information.
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+Powder and solvent for solution for injection
+
+1 Powder vial, 1 glass vial with 2.5 mL water for injections, 1 transfer device, 1 butterfly needle, 1 disposable syringe, 2 alcohol swabs
+
+## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+
+Read the package leaflet before use.
+
+For intravenous use after reconstitution.
+
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
+Keep out of the sight and reach of children.
+
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+## 8. EXPIRY DATE
+
+EXP
+
+## 9. SPECIAL STORAGE CONDITIONS
+
+Store in a refrigerator. Do not freeze. Store vial in the original package in order to protect from light. Can be stored at room temperature (up to 25°C) for a single period of up to 1 month.
+
+<div style=\"page-break-after: always\"></div>
+
+Taken out of refrigerator: \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_
+
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF   |
+|-------|-------------------------------------------------------------------------------------------------------------------------|
+
+| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|--------------------------------------------------------|
+
+Octapharma AB Lars Forssells gata 23 112 75 Stockholm Sweden
+
+| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
+|-------|-------------------------------------|
+
+EU/1/14/936/016
+
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
+
+Lot
+
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
+
+| 15.   | INSTRUCTIONS ONUSE   |
+|-------|----------------------|
+
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
+
+Nuwiq 4000
+
+| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
+|-------|----------------------------------|
+
+2D barcode carrying the unique identifier included.
+
+| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|-------|------------------------------------------|
+
+PC SN NN
+
+<div style=\"page-break-after: always\"></div>
+
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS POWDER VIAL
+
+## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
+
+Nuwiq 4000 IU powder for solution for injection simoctocog alfa (recombinant human coagulation factor VIII) For intravenous use after reconstitution.
+
+## 2. METHOD OF ADMINISTRATION
+
+## 3. EXPIRY DATE
+
+EXP
+
+## 4. BATCH NUMBER
+
+Lot
+
+## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
+
+## 6. OTHER
+
+Octapharma-Logo
+
+<div style=\"page-break-after: always\"></div>
+
+| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
+|------------------------------------------------------------------|
+| GLASS VIAL WITH 2.5 MLWATERFORINJECTIONS                         |
 
 | 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
 |------|-------------------------------------------------------------|
@@ -1687,7 +2738,7 @@ Each reconstituted solution contains approximately 100, 200, 400, 600, 800, 1000
 
 Water for injections
 
-## What Nuwiq looks like and contents of the pack
+## What Nuwiq looks like and contents of the pack (solvent in a pre-filled syringe)
 
 Nuwiq is provided as powder and solvent for solution for injection. The powder is a white to off-white powder in a glass vial. The solvent is water for injections in a glass pre-filled syringe. After reconstitution, the solution is clear, colourless and free from foreign particles.
 
@@ -1701,6 +2752,20 @@ Each pack of Nuwiq contains:
 
 <div style=\"page-break-after: always\"></div>
 
+## What Nuwiq looks like and contents of the pack (solvent in a vial)
+
+Nuwiq is provided as powder and solvent for solution for injection. The powder is a white to off-white powder in a glass vial. The solvent is water for injections in a glass vial.
+
+After reconstitution, the solution is clear, colourless and free from foreign particles.
+
+## Each pack of Nuwiq contains:
+
+- -1 powder vial with 250, 500, 1000, 1500, 2000, 2500, 3000 or 4000 IU simoctocog alfa
+- -1 solvent vial with 2.5 mL water for injections
+- -1 transfer device for reconstitution
+- -1 disposable syringe
+- -1 butterfly needle (infusion set)
+
 ## Marketing Authorisation Holder and Manufacturer
 
 Octapharma AB, Lars Forssells gata 23, 112 75 Stockholm, Sweden
@@ -1709,7 +2774,9 @@ For any information about this medicine, please contact the local representative
 
 ## België/Belgique/Belgien
 
-Octapharma Benelux (Belgium) Tél/Tel: +32 2 3730890
+Octapharma Benelux (Belgium)
+
+Tél/Tel: +32 2 3730890
 
 ## Lietuva
 
@@ -1719,11 +2786,15 @@ Tel: +46 8 56643000
 
 ## България
 
-Octapharma Nordic AB (Sweden) Teл.: +46 8 56643000
+Octapharma Nordic AB (Sweden)
+
+Teл.: +46 8 56643000
 
 ## Luxembourg/Luxemburg
 
-Octapharma Benelux (Belgium) Tél/Tel: +32 2 3730890
+Octapharma Benelux (Belgium)
+
+Tél/Tel: +32 2 3730890
 
 ## Česká republika
 
@@ -1733,11 +2804,15 @@ Tel: +420 266 793 510
 
 ## Magyarország
 
-Octapharma Nordic AB (Sweden) Tel: +46 8 56643000
+Octapharma Nordic AB (Sweden)
+
+Tel: +46 8 56643000
 
 ## Danmark
 
-Octapharma Nordic AB (Sweden) Tlf: +46 8 56643000
+Octapharma Nordic AB (Sweden)
+
+Tlf: +46 8 56643000
 
 ## Malta
 
@@ -1773,9 +2848,7 @@ Tlf: +47 63988860
 
 Octapharma Hellas SA
 
-Τηλ
-
-: +30 210 8986500
+Τηλ : +30 210 8986500
 
 ## Österreich
 
@@ -1873,7 +2946,7 @@ Octapharma Nordic AB (Sweden)
 
 Tel: +46 8 56643000
 
-United Kingdom (Northern Ireland)
+## United Kingdom (Northern Ireland)
 
 Octapharma Limited
 
@@ -1915,7 +2988,7 @@ In the case of the following haemorrhagic events, factor VIII activity should no
 2. Remove the plastic flip-off cap from the powder vial to expose the central portions of the rubber stopper. Do not remove the gray stopper or metal ring around the top of the vial.
 3. Wipe the top of the vial with an alcohol swab. Allow the alcohol to dry.
 4. Peel back the paper cover from the vial adapter package. Do not remove the adapter from the package.
-5. Place the powder vial on an even surface and hold it. Take the adapter package and place the vial adapter over the centre of the rubber stopper of the powder vial. Press down firmly the adapter package until the adapter spike penetrates the rubber stopper. The adapter snaps to the vial when done.
+5. Place the powder vial on an even surface and hold it. Take the adapter package and place the vial adapter over the centre of the rubber stopper of the powder vial. Press down firmly the adapter package until the adapter spike penetrates the rubber stopper. The adapter snaps to the vial when done
 
 <!-- image -->
 
@@ -1927,8 +3000,6 @@ In the case of the following haemorrhagic events, factor VIII activity should no
 
 6. Peel back the paper cover from the pre-filled syringe package. Hold the plunger rod at the end and do not touch the shaft. Attach the threaded end of the plunger rod to the solvent syringe plunger. Turn the plunger rod clockwise until a slight resistance is felt.
 7. Break off the tamper-proof plastic tip from the solvent syringe by snapping the perforation of the cap. Do not touch the inside of the cap or the syringe tip. In case the solution is not used immediately close the filled syringe with the tamper-proof plastic tip for storage.
-8. Remove the adapter packaging and discard.
-9. Firmly connect the solvent syringe to the vial adapter by turning clockwise until resistance is felt.
 
 <!-- image -->
 
@@ -1936,13 +3007,12 @@ In the case of the following haemorrhagic events, factor VIII activity should no
 
 <div style=\"page-break-after: always\"></div>
 
-<!-- image -->
-
+8. Remove the adapter packaging and discard.
+9. Firmly connect the solvent syringe to the vial adapter by turning clockwise until resistance is felt.
 10. Slowly inject all solvent into the powder vial by pressing down the plunger rod.
 11. Without removing the syringe, gently move or swirl the vial in circles a few times to dissolve the powder. Do not shake. Wait until all the powder dissolves completely.
 12. Visually inspect the final solution for particles before administration. The solution should be clear and colourless, practically free from visible particles. Do not use solutions that are cloudy or have deposits.
 13. Turn the vial attached to the syringe upside down, and slowly draw the final solution into the syringe. Make sure that the entire content of the vial is transferred to the syringe.
-14. Detach the filled syringe from the vial adapter by turning counter clockwise and discard the empty vial.
 
 <!-- image -->
 
@@ -1950,13 +3020,70 @@ In the case of the following haemorrhagic events, factor VIII activity should no
 
 <div style=\"page-break-after: always\"></div>
 
+<!-- image -->
+
+14. Detach the filled syringe from the vial adapter by turning counter clockwise and discard the empty vial.
 15. The solution is now prepared for immediate use. Do not refrigerate.
 16. Clean the chosen injection site with one of the provided alcohol swabs.
-3. 17.
-4. Attach the provided infusion set to the syringe. Insert the needle of the infusion set into the chosen vein. If you have used a tourniquet to make the vein easier to see, this tourniquet should be released before you start injecting the solution.
-
-No blood must flow into the syringe due to the risk of formation of fibrin clots.
-
+4. 17.
+5. Attach the provided infusion set to the syringe. Insert the needle of the infusion set into the chosen vein. If you have used a tourniquet to make the vein easier to see, this tourniquet should be released before you start injecting the solution. No blood must flow into the syringe due to the risk of formation of fibrin clots.
 18. Inject the solution into the vein at a slow speed, not faster than 4 mL per minute.
 
 If you use more than one vial of powder for one treatment, you may use the same injection needle again. The vial adapter and the syringe are for single use only.
+
+<div style=\"page-break-after: always\"></div>
+
+## INSTRUCTIONS FOR PREPARATION AND ADMINISTRATION
+
+1. Allow the solvent (water for injections) in the closed vial and the powder in the closed vial to reach room temperature. You can do this by holding them in your hands until they feel as warm as your hands. Do not use any other way to heat the two vials. This temperature should be maintained during reconstitution.
+2. Remove the plastic flip-off caps from the powder vial and the solvent vial to expose the central portions of the rubber stopper. Do not remove the gray stopper or metal ring around the top of the vial.
+3. Wipe the top of the vial with an alcohol swab. Allow the alcohol to dry. Do not touch the rubber stoppers after you wipped them with the alcohol swab.
+4. Peel back the lid from the transfer device blister package. Do not remove the transfer device from its package. The transfer device must be attached first to the solvent vial and then to the powder vial. Otherwise a loss of vacuum occurs and the transfer of the solvent into the powder vial does not take place. If solvent is not completely transferred to the powder vial during this process, please contact the marketing authorisation holder.
+5. Place the solvent vial on an even surface and hold it firmly. Without removing the blister package, place the blue part of the transfer device on top of the solvent vial and press straight and firmly down until it snaps into place. Do not twist while attaching.
+
+<!-- image -->
+
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
+
+<!-- image -->
+
+6. Hold the solvent vial, remove the outer package from the transfer device, while leaving the transfer device firmly attached to the solvent vial.
+7. Place the powder vial on an even surface and hold it. Quickly invert the solvent vial with the attached transfer device. Place the white part of the transfer device on top of the powder vial and press firmly down until it snaps into place . Do not twist while attaching. The solvent will flow automatically into the powder vial.
+
+<!-- image -->
+
+.
+
+<div style=\"page-break-after: always\"></div>
+
+<!-- image -->
+
+8. Without removing the transfer device with the solvent vial attached, gently move or swirl the vial in circles a few times to dissolve the powder. Do not shake. Wait until all the powder dissolves completely.
+9. Unscrew the transfer device into two parts and discard the empty solvent vial with the blue part of the transfer device.
+10. Visually inspect the final solution for particles before administration. The solution should be clear and colourless, practically free from visible particles. Do not use solutions that are cloudy or have deposits.
+11. Attach the disposable syringe to the white plastic part of the transfer device by turning clockwise.
+
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
+
+<!-- image -->
+
+12. Turn the vial attached to the syringe upside down, and slowly draw the final solution into the syringe. Make sure that the entire content of the vial is transferred to the syringe.
+13. Detach the filled syringe from the white part of the transfer device by turning clockwise and discard the empty vial with the white part of the transfer device.
+14. The solution is now prepared for immediate use. Do not refrigerate.
+
+<!-- image -->
+
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
+
+## 15. Clean the chosen injection site with one of the provided alcohol swabs.
+
+16. Attach the provided infusion set (butterfly needle) to the syringe. Insert the needle of the infusion set into the chosen vein. If you have used a tourniquet to make the vein easier to see, this tourniquet should be released before you start injecting the solution. No blood must flow into the syringe due to the risk of formation of fibrin clots.
+17. Inject the solution into the vein at a slow speed, not faster than 4 mL per minute.
+
+If you use more than one vial of powder for one treatment, you may use the same injection needle again. The transfer device and the syringe are for single use only.

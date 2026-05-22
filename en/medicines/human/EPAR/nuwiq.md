@@ -1,32 +1,32 @@
 ---
-document_datetime: 2025-12-29 12:39:23
+document_datetime: 2026-05-21 15:40:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/nuwiq.html
 document_name: nuwiq.html
 version: success
-processing_time: 0.1150048
-conversion_datetime: 2025-12-30 02:18:41.817927
+processing_time: 0.1319696
+conversion_datetime: 2026-05-22 22:35:30.271336
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.20.0
+  docling-jobkit: 1.20.0
+  docling: 2.95.0
+  docling-core: 2.77.0
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.11.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
 ---
 # Nuwiq
 
 [RSS](/en/individual-human-medicine.xml/66943)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-simoctocog alfa Medicine Human Authorised
+simoctocog alfa
 
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
+Medicine Human Authorised
 
 Page contents
 
@@ -109,275 +109,141 @@ Nuwiq : EPAR - Summary for the public
 
 English (EN) (76.54 KB - PDF)
 
-**First published:** 19/12/2014
-
-**Last updated:** 17/01/2018
+**First published:** 19/12/2014 **Last updated:** 17/01/2018
 
 [View](/en/documents/overview/nuwiq-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-387)
+[Other languages (22)](#file-language-dropdown-898)
 
 български (BG) (106.2 KB - PDF)
 
-**First published:**
-
-19/12/2014
-
-**Last updated:**
-
-17/01/2018
+**First published:** 19/12/2014 **Last updated:** 17/01/2018
 
 [View](/bg/documents/overview/nuwiq-epar-summary-public_bg.pdf)
 
 español (ES) (76.58 KB - PDF)
 
-**First published:**
-
-19/12/2014
-
-**Last updated:**
-
-17/01/2018
+**First published:** 19/12/2014 **Last updated:** 17/01/2018
 
 [View](/es/documents/overview/nuwiq-epar-summary-public_es.pdf)
 
 čeština (CS) (103.11 KB - PDF)
 
-**First published:**
-
-19/12/2014
-
-**Last updated:**
-
-17/01/2018
+**First published:** 19/12/2014 **Last updated:** 17/01/2018
 
 [View](/cs/documents/overview/nuwiq-epar-summary-public_cs.pdf)
 
 dansk (DA) (75.84 KB - PDF)
 
-**First published:**
-
-19/12/2014
-
-**Last updated:**
-
-17/01/2018
+**First published:** 19/12/2014 **Last updated:** 17/01/2018
 
 [View](/da/documents/overview/nuwiq-epar-summary-public_da.pdf)
 
 Deutsch (DE) (77.95 KB - PDF)
 
-**First published:**
-
-19/12/2014
-
-**Last updated:**
-
-17/01/2018
+**First published:** 19/12/2014 **Last updated:** 17/01/2018
 
 [View](/de/documents/overview/nuwiq-epar-summary-public_de.pdf)
 
 eesti keel (ET) (74.87 KB - PDF)
 
-**First published:**
-
-19/12/2014
-
-**Last updated:**
-
-17/01/2018
+**First published:** 19/12/2014 **Last updated:** 17/01/2018
 
 [View](/et/documents/overview/nuwiq-epar-summary-public_et.pdf)
 
 ελληνικά (EL) (105.71 KB - PDF)
 
-**First published:**
-
-19/12/2014
-
-**Last updated:**
-
-17/01/2018
+**First published:** 19/12/2014 **Last updated:** 17/01/2018
 
 [View](/el/documents/overview/nuwiq-epar-summary-public_el.pdf)
 
 français (FR) (77.31 KB - PDF)
 
-**First published:**
-
-19/12/2014
-
-**Last updated:**
-
-17/01/2018
+**First published:** 19/12/2014 **Last updated:** 17/01/2018
 
 [View](/fr/documents/overview/nuwiq-epar-summary-public_fr.pdf)
 
 hrvatski (HR) (99.47 KB - PDF)
 
-**First published:**
-
-19/12/2014
-
-**Last updated:**
-
-17/01/2018
+**First published:** 19/12/2014 **Last updated:** 17/01/2018
 
 [View](/hr/documents/overview/nuwiq-epar-summary-public_hr.pdf)
 
 italiano (IT) (75.7 KB - PDF)
 
-**First published:**
-
-19/12/2014
-
-**Last updated:**
-
-17/01/2018
+**First published:** 19/12/2014 **Last updated:** 17/01/2018
 
 [View](/it/documents/overview/nuwiq-epar-summary-public_it.pdf)
 
 latviešu valoda (LV) (99.99 KB - PDF)
 
-**First published:**
-
-19/12/2014
-
-**Last updated:**
-
-17/01/2018
+**First published:** 19/12/2014 **Last updated:** 17/01/2018
 
 [View](/lv/documents/overview/nuwiq-epar-summary-public_lv.pdf)
 
 lietuvių kalba (LT) (100.58 KB - PDF)
 
-**First published:**
-
-19/12/2014
-
-**Last updated:**
-
-17/01/2018
+**First published:** 19/12/2014 **Last updated:** 17/01/2018
 
 [View](/lt/documents/overview/nuwiq-epar-summary-public_lt.pdf)
 
 magyar (HU) (98.8 KB - PDF)
 
-**First published:**
-
-19/12/2014
-
-**Last updated:**
-
-17/01/2018
+**First published:** 19/12/2014 **Last updated:** 17/01/2018
 
 [View](/hu/documents/overview/nuwiq-epar-summary-public_hu.pdf)
 
 Malti (MT) (103.43 KB - PDF)
 
-**First published:**
-
-19/12/2014
-
-**Last updated:**
-
-17/01/2018
+**First published:** 19/12/2014 **Last updated:** 17/01/2018
 
 [View](/mt/documents/overview/nuwiq-epar-summary-public_mt.pdf)
 
 Nederlands (NL) (76.2 KB - PDF)
 
-**First published:**
-
-19/12/2014
-
-**Last updated:**
-
-17/01/2018
+**First published:** 19/12/2014 **Last updated:** 17/01/2018
 
 [View](/nl/documents/overview/nuwiq-epar-summary-public_nl.pdf)
 
 polski (PL) (102.99 KB - PDF)
 
-**First published:**
-
-19/12/2014
-
-**Last updated:**
-
-17/01/2018
+**First published:** 19/12/2014 **Last updated:** 17/01/2018
 
 [View](/pl/documents/overview/nuwiq-epar-summary-public_pl.pdf)
 
 português (PT) (78.03 KB - PDF)
 
-**First published:**
-
-19/12/2014
-
-**Last updated:**
-
-17/01/2018
+**First published:** 19/12/2014 **Last updated:** 17/01/2018
 
 [View](/pt/documents/overview/nuwiq-epar-summary-public_pt.pdf)
 
 română (RO) (99.04 KB - PDF)
 
-**First published:**
-
-19/12/2014
-
-**Last updated:**
-
-17/01/2018
+**First published:** 19/12/2014 **Last updated:** 17/01/2018
 
 [View](/ro/documents/overview/nuwiq-epar-summary-public_ro.pdf)
 
 slovenčina (SK) (102.56 KB - PDF)
 
-**First published:**
-
-19/12/2014
-
-**Last updated:**
-
-17/01/2018
+**First published:** 19/12/2014 **Last updated:** 17/01/2018
 
 [View](/sk/documents/overview/nuwiq-epar-summary-public_sk.pdf)
 
 slovenščina (SL) (97.27 KB - PDF)
 
-**First published:**
-
-19/12/2014
-
-**Last updated:**
-
-17/01/2018
+**First published:** 19/12/2014 **Last updated:** 17/01/2018
 
 [View](/sl/documents/overview/nuwiq-epar-summary-public_sl.pdf)
 
 Suomi (FI) (75.69 KB - PDF)
 
-**First published:**
-
-19/12/2014
-
-**Last updated:**
-
-17/01/2018
+**First published:** 19/12/2014 **Last updated:** 17/01/2018
 
 [View](/fi/documents/overview/nuwiq-epar-summary-public_fi.pdf)
 
 svenska (SV) (75.92 KB - PDF)
 
-**First published:**
-
-19/12/2014
-
-**Last updated:**
-
-17/01/2018
+**First published:** 19/12/2014 **Last updated:** 17/01/2018
 
 [View](/sv/documents/overview/nuwiq-epar-summary-public_sv.pdf)
 
@@ -385,9 +251,7 @@ Nuwiq : EPAR - Risk-management-plan summary
 
 English (EN) (256.28 KB - PDF)
 
-**First published:** 19/12/2014
-
-**Last updated:** 05/01/2022
+**First published:** 19/12/2014 **Last updated:** 05/01/2022
 
 [View](/en/documents/rmp-summary/nuwiq-epar-risk-management-plan-summary_en.pdf)
 
@@ -395,305 +259,161 @@ English (EN) (256.28 KB - PDF)
 
 Nuwiq : EPAR - Product Information
 
-English (EN) (831.31 KB - PDF)
+English (EN) (1.51 MB - PDF)
 
-**First published:** 19/12/2014
-
-**Last updated:** 07/11/2022
+**First published:** 19/12/2014 **Last updated:** 21/05/2026
 
 [View](/en/documents/product-information/nuwiq-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-544)
+[Other languages (24)](#file-language-dropdown-415)
 
-български (BG) (839.51 KB - PDF)
+български (BG) (1.56 MB - PDF)
 
-**First published:**
-
-19/12/2014
-
-**Last updated:**
-
-07/11/2022
+**First published:** 19/12/2014 **Last updated:** 21/05/2026
 
 [View](/bg/documents/product-information/nuwiq-epar-product-information_bg.pdf)
 
-español (ES) (724.49 KB - PDF)
+español (ES) (1.47 MB - PDF)
 
-**First published:**
-
-19/12/2014
-
-**Last updated:**
-
-07/11/2022
+**First published:** 19/12/2014 **Last updated:** 21/05/2026
 
 [View](/es/documents/product-information/nuwiq-epar-product-information_es.pdf)
 
-čeština (CS) (758.44 KB - PDF)
+čeština (CS) (1.53 MB - PDF)
 
-**First published:**
-
-19/12/2014
-
-**Last updated:**
-
-07/11/2022
+**First published:** 19/12/2014 **Last updated:** 21/05/2026
 
 [View](/cs/documents/product-information/nuwiq-epar-product-information_cs.pdf)
 
-dansk (DA) (723.74 KB - PDF)
+dansk (DA) (1.33 MB - PDF)
 
-**First published:**
-
-19/12/2014
-
-**Last updated:**
-
-07/11/2022
+**First published:** 19/12/2014 **Last updated:** 21/05/2026
 
 [View](/da/documents/product-information/nuwiq-epar-product-information_da.pdf)
 
-Deutsch (DE) (806.54 KB - PDF)
+Deutsch (DE) (1.31 MB - PDF)
 
-**First published:**
-
-19/12/2014
-
-**Last updated:**
-
-07/11/2022
+**First published:** 19/12/2014 **Last updated:** 21/05/2026
 
 [View](/de/documents/product-information/nuwiq-epar-product-information_de.pdf)
 
-eesti keel (ET) (726.92 KB - PDF)
+eesti keel (ET) (1.22 MB - PDF)
 
-**First published:**
-
-19/12/2014
-
-**Last updated:**
-
-07/11/2022
+**First published:** 19/12/2014 **Last updated:** 21/05/2026
 
 [View](/et/documents/product-information/nuwiq-epar-product-information_et.pdf)
 
-ελληνικά (EL) (860.98 KB - PDF)
+ελληνικά (EL) (1.26 MB - PDF)
 
-**First published:**
-
-19/12/2014
-
-**Last updated:**
-
-07/11/2022
+**First published:** 19/12/2014 **Last updated:** 21/05/2026
 
 [View](/el/documents/product-information/nuwiq-epar-product-information_el.pdf)
 
-français (FR) (741.54 KB - PDF)
+français (FR) (1.49 MB - PDF)
 
-**First published:**
-
-19/12/2014
-
-**Last updated:**
-
-07/11/2022
+**First published:** 19/12/2014 **Last updated:** 21/05/2026
 
 [View](/fr/documents/product-information/nuwiq-epar-product-information_fr.pdf)
 
-hrvatski (HR) (762.77 KB - PDF)
+hrvatski (HR) (1.33 MB - PDF)
 
-**First published:**
-
-19/12/2014
-
-**Last updated:**
-
-07/11/2022
+**First published:** 19/12/2014 **Last updated:** 21/05/2026
 
 [View](/hr/documents/product-information/nuwiq-epar-product-information_hr.pdf)
 
-íslenska (IS) (727.91 KB - PDF)
+íslenska (IS) (1.4 MB - PDF)
 
-**First published:**
-
-19/12/2014
-
-**Last updated:**
-
-07/11/2022
+**First published:** 19/12/2014 **Last updated:** 21/05/2026
 
 [View](/is/documents/product-information/nuwiq-epar-product-information_is.pdf)
 
-italiano (IT) (756.15 KB - PDF)
+italiano (IT) (1.48 MB - PDF)
 
-**First published:**
-
-19/12/2014
-
-**Last updated:**
-
-07/11/2022
+**First published:** 19/12/2014 **Last updated:** 21/05/2026
 
 [View](/it/documents/product-information/nuwiq-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (771.59 KB - PDF)
+latviešu valoda (LV) (1.48 MB - PDF)
 
-**First published:**
-
-19/12/2014
-
-**Last updated:**
-
-07/11/2022
+**First published:** 19/12/2014 **Last updated:** 21/05/2026
 
 [View](/lv/documents/product-information/nuwiq-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (757.48 KB - PDF)
+lietuvių kalba (LT) (1.45 MB - PDF)
 
-**First published:**
-
-19/12/2014
-
-**Last updated:**
-
-07/11/2022
+**First published:** 19/12/2014 **Last updated:** 21/05/2026
 
 [View](/lt/documents/product-information/nuwiq-epar-product-information_lt.pdf)
 
-magyar (HU) (819.34 KB - PDF)
+magyar (HU) (1.58 MB - PDF)
 
-**First published:**
-
-19/12/2014
-
-**Last updated:**
-
-07/11/2022
+**First published:** 19/12/2014 **Last updated:** 21/05/2026
 
 [View](/hu/documents/product-information/nuwiq-epar-product-information_hu.pdf)
 
-Malti (MT) (849 KB - PDF)
+Malti (MT) (1.52 MB - PDF)
 
-**First published:**
-
-19/12/2014
-
-**Last updated:**
-
-07/11/2022
+**First published:** 19/12/2014 **Last updated:** 21/05/2026
 
 [View](/mt/documents/product-information/nuwiq-epar-product-information_mt.pdf)
 
-Nederlands (NL) (734.46 KB - PDF)
+Nederlands (NL) (1.3 MB - PDF)
 
-**First published:**
-
-19/12/2014
-
-**Last updated:**
-
-07/11/2022
+**First published:** 19/12/2014 **Last updated:** 21/05/2026
 
 [View](/nl/documents/product-information/nuwiq-epar-product-information_nl.pdf)
 
-norsk (NO) (737.87 KB - PDF)
+norsk (NO) (1.5 MB - PDF)
 
-**First published:**
-
-19/12/2014
-
-**Last updated:**
-
-07/11/2022
+**First published:** 19/12/2014 **Last updated:** 21/05/2026
 
 [View](/no/documents/product-information/nuwiq-epar-product-information_no.pdf)
 
-polski (PL) (781.14 KB - PDF)
+polski (PL) (1.3 MB - PDF)
 
-**First published:**
-
-19/12/2014
-
-**Last updated:**
-
-07/11/2022
+**First published:** 19/12/2014 **Last updated:** 21/05/2026
 
 [View](/pl/documents/product-information/nuwiq-epar-product-information_pl.pdf)
 
-português (PT) (729.96 KB - PDF)
+português (PT) (1.49 MB - PDF)
 
-**First published:**
-
-19/12/2014
-
-**Last updated:**
-
-07/11/2022
+**First published:** 19/12/2014 **Last updated:** 21/05/2026
 
 [View](/pt/documents/product-information/nuwiq-epar-product-information_pt.pdf)
 
-română (RO) (773.07 KB - PDF)
+română (RO) (1.54 MB - PDF)
 
-**First published:**
-
-19/12/2014
-
-**Last updated:**
-
-07/11/2022
+**First published:** 19/12/2014 **Last updated:** 21/05/2026
 
 [View](/ro/documents/product-information/nuwiq-epar-product-information_ro.pdf)
 
-slovenčina (SK) (757.42 KB - PDF)
+slovenčina (SK) (1.42 MB - PDF)
 
-**First published:**
-
-19/12/2014
-
-**Last updated:**
-
-07/11/2022
+**First published:** 19/12/2014 **Last updated:** 21/05/2026
 
 [View](/sk/documents/product-information/nuwiq-epar-product-information_sk.pdf)
 
-slovenščina (SL) (768.46 KB - PDF)
+slovenščina (SL) (1.49 MB - PDF)
 
-**First published:**
-
-19/12/2014
-
-**Last updated:**
-
-07/11/2022
+**First published:** 19/12/2014 **Last updated:** 21/05/2026
 
 [View](/sl/documents/product-information/nuwiq-epar-product-information_sl.pdf)
 
-Suomi (FI) (752.68 KB - PDF)
+Suomi (FI) (1.51 MB - PDF)
 
-**First published:**
-
-19/12/2014
-
-**Last updated:**
-
-07/11/2022
+**First published:** 19/12/2014 **Last updated:** 21/05/2026
 
 [View](/fi/documents/product-information/nuwiq-epar-product-information_fi.pdf)
 
-svenska (SV) (729.21 KB - PDF)
+svenska (SV) (1.49 MB - PDF)
 
-**First published:**
-
-19/12/2014
-
-**Last updated:**
-
-07/11/2022
+**First published:** 19/12/2014 **Last updated:** 21/05/2026
 
 [View](/sv/documents/product-information/nuwiq-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** WS2244 13/10/2022
+**Latest procedure affecting product information:** VR/0000282297
+
+23/10/2025
 
 icon globe
 
@@ -711,307 +431,175 @@ Product information documents contain:
 
 Nuwiq : EPAR - All Authorised presentations
 
-English (EN) (61.8 KB - PDF)
+English (EN) (94.61 KB - PDF)
 
-**First published:** 19/12/2014
-
-**Last updated:** 26/01/2022
+**First published:** 19/12/2014 **Last updated:** 21/05/2026
 
 [View](/en/documents/all-authorised-presentations/nuwiq-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-431)
+[Other languages (24)](#file-language-dropdown-917)
 
-български (BG) (76.79 KB - PDF)
+български (BG) (104.83 KB - PDF)
 
-**First published:**
-
-19/12/2014
-
-**Last updated:**
-
-26/01/2022
+**First published:** 19/12/2014 **Last updated:** 21/05/2026
 
 [View](/bg/documents/all-authorised-presentations/nuwiq-epar-all-authorised-presentations_bg.pdf)
 
-español (ES) (77.54 KB - PDF)
+español (ES) (84.69 KB - PDF)
 
-**First published:**
-
-19/12/2014
-
-**Last updated:**
-
-26/01/2022
+**First published:** 19/12/2014 **Last updated:** 21/05/2026
 
 [View](/es/documents/all-authorised-presentations/nuwiq-epar-all-authorised-presentations_es.pdf)
 
-čeština (CS) (76.79 KB - PDF)
+čeština (CS) (103.51 KB - PDF)
 
-**First published:**
-
-19/12/2014
-
-**Last updated:**
-
-26/01/2022
+**First published:** 19/12/2014 **Last updated:** 21/05/2026
 
 [View](/cs/documents/all-authorised-presentations/nuwiq-epar-all-authorised-presentations_cs.pdf)
 
-dansk (DA) (58.06 KB - PDF)
+dansk (DA) (64.87 KB - PDF)
 
-**First published:**
-
-19/12/2014
-
-**Last updated:**
-
-26/01/2022
+**First published:** 19/12/2014 **Last updated:** 21/05/2026
 
 [View](/da/documents/all-authorised-presentations/nuwiq-epar-all-authorised-presentations_da.pdf)
 
-Deutsch (DE) (58.29 KB - PDF)
+Deutsch (DE) (64.98 KB - PDF)
 
-**First published:**
-
-19/12/2014
-
-**Last updated:**
-
-26/01/2022
+**First published:** 19/12/2014 **Last updated:** 21/05/2026
 
 [View](/de/documents/all-authorised-presentations/nuwiq-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (74 KB - PDF)
+eesti keel (ET) (94.1 KB - PDF)
 
-**First published:**
-
-19/12/2014
-
-**Last updated:**
-
-26/01/2022
+**First published:** 19/12/2014 **Last updated:** 21/05/2026
 
 [View](/et/documents/all-authorised-presentations/nuwiq-epar-all-authorised-presentations_et.pdf)
 
-ελληνικά (EL) (94.84 KB - PDF)
+ελληνικά (EL) (100.44 KB - PDF)
 
-**First published:**
-
-19/12/2014
-
-**Last updated:**
-
-26/01/2022
+**First published:** 19/12/2014 **Last updated:** 21/05/2026
 
 [View](/el/documents/all-authorised-presentations/nuwiq-epar-all-authorised-presentations_el.pdf)
 
-français (FR) (56.35 KB - PDF)
+français (FR) (63.51 KB - PDF)
 
-**First published:**
-
-19/12/2014
-
-**Last updated:**
-
-26/01/2022
+**First published:** 19/12/2014 **Last updated:** 21/05/2026
 
 [View](/fr/documents/all-authorised-presentations/nuwiq-epar-all-authorised-presentations_fr.pdf)
 
-hrvatski (HR) (138.5 KB - PDF)
+hrvatski (HR) (146.17 KB - PDF)
 
-**First published:**
-
-19/12/2014
-
-**Last updated:**
-
-26/01/2022
+**First published:** 19/12/2014 **Last updated:** 21/05/2026
 
 [View](/hr/documents/all-authorised-presentations/nuwiq-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (77.5 KB - PDF)
+íslenska (IS) (102.72 KB - PDF)
 
-**First published:**
-
-19/12/2014
-
-**Last updated:**
-
-26/01/2022
+**First published:** 19/12/2014 **Last updated:** 21/05/2026
 
 [View](/is/documents/all-authorised-presentations/nuwiq-epar-all-authorised-presentations_is.pdf)
 
-italiano (IT) (76.42 KB - PDF)
+italiano (IT) (81.92 KB - PDF)
 
-**First published:**
-
-19/12/2014
-
-**Last updated:**
-
-26/01/2022
+**First published:** 19/12/2014 **Last updated:** 21/05/2026
 
 [View](/it/documents/all-authorised-presentations/nuwiq-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (76.4 KB - PDF)
+latviešu valoda (LV) (81.66 KB - PDF)
 
-**First published:**
-
-19/12/2014
-
-**Last updated:**
-
-26/01/2022
+**First published:** 19/12/2014 **Last updated:** 21/05/2026
 
 [View](/lv/documents/all-authorised-presentations/nuwiq-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (77.36 KB - PDF)
+lietuvių kalba (LT) (103.09 KB - PDF)
 
-**First published:**
-
-19/12/2014
-
-**Last updated:**
-
-26/01/2022
+**First published:** 19/12/2014 **Last updated:** 21/05/2026
 
 [View](/lt/documents/all-authorised-presentations/nuwiq-epar-all-authorised-presentations_lt.pdf)
 
-magyar (HU) (97.76 KB - PDF)
+magyar (HU) (105.14 KB - PDF)
 
-**First published:**
-
-19/12/2014
-
-**Last updated:**
-
-26/01/2022
+**First published:** 19/12/2014 **Last updated:** 21/05/2026
 
 [View](/hu/documents/all-authorised-presentations/nuwiq-epar-all-authorised-presentations_hu.pdf)
 
-Malti (MT) (99.32 KB - PDF)
+Malti (MT) (108.76 KB - PDF)
 
-**First published:**
-
-19/12/2014
-
-**Last updated:**
-
-26/01/2022
+**First published:** 19/12/2014 **Last updated:** 21/05/2026
 
 [View](/mt/documents/all-authorised-presentations/nuwiq-epar-all-authorised-presentations_mt.pdf)
 
-Nederlands (NL) (77.22 KB - PDF)
+Nederlands (NL) (86.16 KB - PDF)
 
-**First published:**
-
-19/12/2014
-
-**Last updated:**
-
-26/01/2022
+**First published:** 19/12/2014 **Last updated:** 21/05/2026
 
 [View](/nl/documents/all-authorised-presentations/nuwiq-epar-all-authorised-presentations_nl.pdf)
 
-norsk (NO) (58.08 KB - PDF)
+norsk (NO) (83.56 KB - PDF)
 
-**First published:**
-
-19/12/2014
-
-**Last updated:**
-
-26/01/2022
+**First published:** 19/12/2014 **Last updated:** 21/05/2026
 
 [View](/no/documents/all-authorised-presentations/nuwiq-epar-all-authorised-presentations_no.pdf)
 
-polski (PL) (79.65 KB - PDF)
+polski (PL) (85.97 KB - PDF)
 
-**First published:**
-
-19/12/2014
-
-**Last updated:**
-
-26/01/2022
+**First published:** 19/12/2014 **Last updated:** 21/05/2026
 
 [View](/pl/documents/all-authorised-presentations/nuwiq-epar-all-authorised-presentations_pl.pdf)
 
-português (PT) (56.68 KB - PDF)
+português (PT) (58.79 KB - PDF)
 
-**First published:**
-
-19/12/2014
-
-**Last updated:**
-
-26/01/2022
+**First published:** 19/12/2014 **Last updated:** 21/05/2026
 
 [View](/pt/documents/all-authorised-presentations/nuwiq-epar-all-authorised-presentations_pt.pdf)
 
-română (RO) (98.37 KB - PDF)
+română (RO) (96.99 KB - PDF)
 
-**First published:**
-
-19/12/2014
-
-**Last updated:**
-
-26/01/2022
+**First published:** 19/12/2014 **Last updated:** 21/05/2026
 
 [View](/ro/documents/all-authorised-presentations/nuwiq-epar-all-authorised-presentations_ro.pdf)
 
-slovenčina (SK) (78.67 KB - PDF)
+slovenčina (SK) (106.19 KB - PDF)
 
-**First published:**
-
-19/12/2014
-
-**Last updated:**
-
-26/01/2022
+**First published:** 19/12/2014 **Last updated:** 21/05/2026
 
 [View](/sk/documents/all-authorised-presentations/nuwiq-epar-all-authorised-presentations_sk.pdf)
 
-slovenščina (SL) (72.14 KB - PDF)
+slovenščina (SL) (79.67 KB - PDF)
 
-**First published:**
-
-19/12/2014
-
-**Last updated:**
-
-26/01/2022
+**First published:** 19/12/2014 **Last updated:** 21/05/2026
 
 [View](/sl/documents/all-authorised-presentations/nuwiq-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (56.17 KB - PDF)
+Suomi (FI) (61.88 KB - PDF)
 
-**First published:**
-
-19/12/2014
-
-**Last updated:**
-
-26/01/2022
+**First published:** 19/12/2014 **Last updated:** 21/05/2026
 
 [View](/fi/documents/all-authorised-presentations/nuwiq-epar-all-authorised-presentations_fi.pdf)
 
-svenska (SV) (56.38 KB - PDF)
+svenska (SV) (81.77 KB - PDF)
 
-**First published:**
-
-19/12/2014
-
-**Last updated:**
-
-26/01/2022
+**First published:** 19/12/2014 **Last updated:** 21/05/2026
 
 [View](/sv/documents/all-authorised-presentations/nuwiq-epar-all-authorised-presentations_sv.pdf)
 
 ## Product details
 
-Name of medicine Nuwiq Active substance simoctocog alfa International non-proprietary name (INN) or common name simoctocog alfa Therapeutic area (MeSH) Hemophilia A Anatomical therapeutic chemical (ATC) code B02BD02
+Name of medicine
+
+Nuwiq
+
+International non-proprietary name (INN) or common name
+
+simoctocog alfa
+
+Therapeutic area (MeSH)
+
+Hemophilia A
+
+Anatomical therapeutic chemical (ATC) code
+
+B02BD02
 
 ### Pharmacotherapeutic group
 
@@ -1025,13 +613,27 @@ Nuwiq can be used for all age groups.
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/002813 Marketing authorisation holder
+EMA product number
+
+EMEA/H/C/002813
+
+Marketing authorisation holder
 
 Octapharma AB
 
 Lars Forssells gata
 
-Opinion adopted 22/05/2014 Marketing authorisation issued 22/07/2014 Revision 13
+Opinion adopted
+
+22/05/2014
+
+Marketing authorisation issued
+
+22/07/2014
+
+Revision
+
+14
 
 ## Assessment history
 
@@ -1043,19 +645,23 @@ Collapse section
 
 Nuwiq : EPAR - Procedural steps taken and scientific information after authorisation
 
+English (EN) (160.39 KB - PDF)
+
+**First published:** 21/05/2026
+
+[View](/en/documents/procedural-steps-after/nuwiq-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+
+Nuwiq : EPAR - Procedural steps taken and scientific information after authorisation (archive)
+
 English (EN) (209.58 KB - PDF)
 
-**First published:** 26/11/2015
+**First published:** 26/11/2015 **Last updated:** 21/05/2026
 
-**Last updated:** 07/11/2022
-
-[View](/en/documents/procedural-steps-after/nuwiq-epar-procedural-steps-taken-and-scientific-information-after-authorisation_en.pdf)
+[View](/en/documents/procedural-steps-after/nuwiq-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 Nuwiq-H-C-2813-P46-013 : EPAR - Assessment report
 
-Adopted
-
-Reference Number: EMA/CHMP/692798/2023
+Adopted Reference Number: EMA/CHMP/692798/2023
 
 English (EN) (788.6 KB - PDF)
 
@@ -1065,9 +671,7 @@ English (EN) (788.6 KB - PDF)
 
 Nuwiq-H-C-2813-P46-014 : EPAR - Assessment report
 
-Adopted
-
-Reference Number: EMA/128538/2021
+Adopted Reference Number: EMA/128538/2021
 
 English (EN) (924.06 KB - PDF)
 
@@ -1087,9 +691,7 @@ English (EN) (115.37 KB - PDF)
 
 Nuwiq-H-C-xxxx-WS-2156 : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/CHMP/120573/2022
+Adopted Reference Number: EMA/CHMP/120573/2022
 
 English (EN) (1.86 MB - PDF)
 
@@ -1099,9 +701,7 @@ English (EN) (1.86 MB - PDF)
 
 Nuwiq-H-C-2813-P46-011.1 : EPAR - Assessment Report
 
-Adopted
-
-Reference Number: EMA/371410/2020
+Adopted Reference Number: EMA/371410/2020
 
 English (EN) (739.29 KB - PDF)
 
@@ -1111,43 +711,31 @@ English (EN) (739.29 KB - PDF)
 
 Nuwiq-H-C-2813-0000 : EPAR - Assessment Report
 
-Adopted
-
-Reference Number: EMA/CHMP/114079/2018
+Adopted Reference Number: EMA/CHMP/114079/2018
 
 English (EN) (158.1 KB - PDF)
 
-**First published:** 06/04/2018
-
-**Last updated:** 06/04/2018
+**First published:** 06/04/2018 **Last updated:** 06/04/2018
 
 [View](/en/documents/variation-report/nuwiq-h-c-2813-0000-epar-assessment-report_en.pdf)
 
 Nuwiq-H-C-2813-A31-0015 : EPAR - Assessment Report - Article 31
 
-Adopted
-
-Reference Number: EMA/763977/2017
+Adopted Reference Number: EMA/763977/2017
 
 English (EN) (219.95 KB - PDF)
 
-**First published:** 05/12/2017
-
-**Last updated:** 05/12/2017
+**First published:** 05/12/2017 **Last updated:** 05/12/2017
 
 [View](/en/documents/variation-report/nuwiq-h-c-2813-a31-0015-epar-assessment-report-article-31_en.pdf)
 
 Nuwiq-H-C-2813-P46-0005 : EPAR - Assessment Report
 
-Adopted
-
-Reference Number: EMA/331905/2017
+Adopted Reference Number: EMA/331905/2017
 
 English (EN) (706.32 KB - PDF)
 
-**First published:** 06/06/2017
-
-**Last updated:** 06/06/2017
+**First published:** 06/06/2017 **Last updated:** 06/06/2017
 
 [View](/en/documents/variation-report/nuwiq-h-c-2813-p46-0005-epar-assessment-report_en.pdf)
 
@@ -1155,48 +743,44 @@ English (EN) (706.32 KB - PDF)
 
 Nuwiq : EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/CHMP/279301/2014
+Adopted Reference Number: EMA/CHMP/279301/2014
 
 English (EN) (3.22 MB - PDF)
 
-**First published:** 19/12/2014
-
-**Last updated:** 19/12/2014
+**First published:** 19/12/2014 **Last updated:** 19/12/2014
 
 [View](/en/documents/assessment-report/nuwiq-epar-public-assessment-report_en.pdf)
 
 CHMP summary of positive opinion for Nuwiq
 
-Adopted
-
-Reference Number: EMA/CHMP/279317/2014
+Adopted Reference Number: EMA/CHMP/279317/2014
 
 English (EN) (70.34 KB - PDF)
 
-**First published:** 23/05/2014
-
-**Last updated:** 23/05/2014
+**First published:** 23/05/2014 **Last updated:** 23/05/2014
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-nuwiq_en.pdf)
 
-#### News on Nuwiq
+## News on Nuwiq
 
-[Factor VIII medicines: no clear and consistent evidence of difference in risk of inhibitor development between classes](/en/news/factor-viii-medicines-no-clear-consistent-evidence-difference-risk-inhibitor-development-between-classes) 15/09/2017
+[Factor VIII medicines: no clear and consistent evidence of difference in risk of inhibitor development between classes](/en/news/factor-viii-medicines-no-clear-consistent-evidence-difference-risk-inhibitor-development-between-classes)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 19-22 May 2014](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-19-22-may-2014) 23/05/2014
+15/09/2017
 
-#### More information on Nuwiq
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 19-22 May 2014](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-19-22-may-2014)
+
+23/05/2014
+
+## More information on Nuwiq
 
 - [Factor VIII - referral](/en/medicines/human/referrals/factor-viii)
 
-#### Topics
+## Topics
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 21/03/2023
+**This page was last updated on**
+
+21/05/2026
 
 ## Share this page
-
-[Back to top](#main-content)

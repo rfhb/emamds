@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-11-03 16:15:50
+document_datetime: 2026-05-19 13:29:42
 document_pages: 48
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/spexotras-epar-product-information_en.pdf
 document_name: spexotras-epar-product-information_en.pdf
 version: success
-processing_time: 10.034368
-conversion_datetime: 2025-12-19 06:53:25.917746
+processing_time: 20.5586055
+conversion_datetime: 2026-05-22 23:20:19.803417
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.20.0
+  docling-jobkit: 1.20.0
+  docling: 2.95.0
+  docling-core: 2.77.0
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.11.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -90,9 +90,7 @@ Table 1 Dosing regimen by body weight
 | 46 to 50 kg     | 32 ml                                   | 1.60 mg                        |
 | ≥51 kg          | 40 ml                                   | 2 mg                           |
 
-*Round body weight to the nearest kg, if necessary.
-
-The recommended dose for patients with a body weight less than 8 kg has not been established. Please refer to the dabrafenib dispersible tablets SmPC, 'Posology' and 'Method of administration', for dosing instructions for treatment with dabrafenib when used in combination with Spexotras.
+The recommended dose for patients with a body weight less than 8 kg has not been established. Please refer to the dabrafenib dispersible tablets SmPC, ' Posology ' and 'M ethod of administration ' , for dosing instructions for treatment with dabrafenib when used in combination with Spexotras.
 
 ## Duration of treatment
 
@@ -143,7 +141,7 @@ Table 3 Recommended dose reduction levels for adverse reactions
 | 46 to 50 kg | 32 ml (1.60 mg)                          | 24 ml                                       | 16 ml                                        |
 | ≥51 kg      | 40 ml (2 mg)                             | 30 ml                                       | 20 ml                                        |
 
-When an individual's adverse reactions are under effective management, dose re-escalation following the same dosing steps as de-escalation may be considered. The trametinib dose should not exceed the recommended dose indicated in Table 1.
+When an individual's adverse reactions are under effective management, dose re -escalation following the same dosing steps as de-escalation may be considered. The trametinib dose should not exceed the recommended dose indicated in Table 1.
 
 ## Dose modifications for selected adverse reactions
 
@@ -253,9 +251,9 @@ Trametinib in combination with dabrafenib has been reported to decrease LVEF in 
 
 Trametinib should be used with caution in patients with impaired left ventricular function. Patients with left ventricular dysfunction, New York Heart Association Class II, III, or IV heart failure, acute coronary syndrome within the past 6 months, clinically significant uncontrolled arrhythmias, and uncontrolled hypertension were excluded from clinical studies; safety of use in this population is therefore unknown. LVEF should be evaluated in all patients prior to initiation of treatment with trametinib, one month after initiation of therapy, and then at approximately 3-monthly intervals while on treatment (see section 4.2 regarding dose modification).
 
-<div style=\"page-break-after: always\"></div>
-
 In patients receiving trametinib in combination with dabrafenib, there have been occasional reports of acute, severe left ventricular dysfunction due to myocarditis. Full recovery was observed when stopping treatment. Physicians should be alert to the possibility of myocarditis in patients who develop new or worsening cardiac signs or symptoms.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Pyrexia
 
@@ -279,9 +277,11 @@ Disorders associated with visual disturbance, including RPED and RVO, may occur 
 
 Trametinib is not recommended in patients with a history of RVO. The safety of trametinib in patients with predisposing factors for RVO, including uncontrolled glaucoma or ocular hypertension, uncontrolled hypertension, uncontrolled diabetes mellitus, or a history of hyperviscosity or hypercoagulability syndromes, has not been established.
 
+If patients report new visual disturbances, such as diminished central vision, blurred vision or loss of vision at any time while on trametinib therapy, a prompt ophthalmological assessment is recommended. If RPED is diagnosed, the dose modification schedule in Table 4 should be followed
+
 <div style=\"page-break-after: always\"></div>
 
-If patients report new visual disturbances, such as diminished central vision, blurred vision or loss of vision at any time while on trametinib therapy, a prompt ophthalmological assessment is recommended. If RPED is diagnosed, the dose modification schedule in Table 4 should be followed (see section 4.2); if uveitis is diagnosed, please refer to the dabrafenib dispersible tablets SmPC (section 4.4). In patients who are diagnosed with RVO, treatment with trametinib should be permanently discontinued.
+(see section 4.2); if uveitis is diagnosed, please refer to the dabrafenib dispersible tablets SmPC (section 4.4). In patients who are diagnosed with RVO, treatment with trametinib should be permanently discontinued.
 
 No dose modification of dabrafenib is required when taken in combination with trametinib following diagnosis of RVO or RPED. No dose modification of trametinib is required when taken in combination with dabrafenib following diagnosis of uveitis.
 
@@ -339,13 +339,13 @@ In post-marketing experience, haemophagocytic lymphohistiocytosis (HLH) has been
 
 The occurrence of TLS, which may be fatal, has been associated with the use of trametinib in combination with dabrafenib (see section 4.8). Risk factors for TLS include high tumour burden, pre-existing chronic renal insufficiency, oliguria, dehydration, hypotension and acidic urine. Patients with risk factors for TLS should be closely monitored and prophylactic hydration should be considered. TLS should be treated promptly, as clinically indicated.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Excipients
 
 ## Sulfobutylbetadex sodium
 
 Spexotras oral solution contains the cyclodextrin sulfobutylbetadex sodium (100 mg/ml). Cyclodextrins (CDs) are excipients which can influence the properties of the active substance and other medicines. In preclinical studies in animals that were administered CDs intravenously, there were observations of renal toxicity and ototoxicity. Safety aspects of CDs have been considered during the development and safety assessment of the medicinal product. There are limited safety data on the effects of CDs in children &lt;2 years of age.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Methyl parahydroxybenzoate
 
@@ -357,7 +357,7 @@ This medicinal product contains 1.98 mg sodium per ml of Spexotras oral solution
 
 ## Potassium
 
-This medicinal product contains potassium, less than 1 mmol (39 mg) per maximum daily dose, i.e. essentially 'potassium-free'.
+This medicinal product contains potassium, less than 1 mmol (39 mg) per maximum daily dose, i.e. essentially ' potassium-free ' .
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
@@ -375,13 +375,13 @@ Based on in vitro and in vivo data, trametinib is unlikely to significantly affe
 
 Based on clinical data, no loss of efficacy of hormonal contraceptives is expected when coadministered with trametinib (see section 5.2). However, use with dabrafenib may render hormonal contraceptives less effective.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Effect of the excipient sulfobutylbetadex sodium on other oral medicinal products with low bioavailability and narrow therapeutic index
 
 The trametinib oral solution contains 100 mg/ml of sulfobutylbetadex sodium which may have the potential to affect the solubility and bioavailability of other oral medicinal products. Caution should be taken when the trametinib oral solution is administered with oral medicinal products that have low bioavailability and a narrow therapeutic index (e.g. imipramine, desipramine).
 
 Also refer to the guidance for medicinal product interactions for dabrafenib found in sections 4.4 and 4.5 of the dabrafenib dispersible tablets SmPC.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 4.6 Fertility, pregnancy, and lactation
 
@@ -411,75 +411,75 @@ Effects on spermatogenesis have been observed in animals given dabrafenib. Male 
 
 Trametinib has minor influence on the ability to drive and use machines. The clinical status of the patient and the adverse reaction profile of trametinib should be borne in mind when considering the patient's ability to perform tasks that require judgement, motor and cognitive skills. Patients should be made aware of the potential for fatigue, dizziness or eye problems to affect these activities.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 4.8 Undesirable effects
 
 ## Summary of the safety profile
 
-In clinical studies of paediatric patients treated with trametinib in combination with dabrafenib, the most common adverse reactions (reported at a frequency ≥20%) were : pyrexia (70%), rash (49%), headache (47%), vomiting (40%), fatigue (36%), dry skin (35%), diarrhoea (34%), haemorrhage (34%), nausea (29%), dermatitis acneiform (29%), abdominal pain (28%), neutropenia (26%), cough (24%) and transaminases increased (22%). The most frequently reported severe (Grade 3/4) adverse reactions were: neutropenia (15%), pyrexia (11%), transaminases increased (6%) and weight increased (5%). Long-term data on growth and skeletal maturation in paediatric patients are currently limited (see section 5.3).
+In clinical studies of paediatric patients treated with trametinib in combination with dabrafenib, the most common adverse reactions (reported at a frequency ≥20%) were : pyrexia (70%), rash (49%), headache (47%), vomiting (40%), fatigue (36%), dry skin (35%), diarrhoea (34%), haemorrhage (34%), nausea (29%), dermatitis acneiform (29%), abdominal pain (28%), neutropenia (26%), cough (24%) and transaminases increased (22%). The most frequently reported severe (Grade 3/4) adverse reactions were: neutropenia (15%), pyrexia (11%), transaminases increased (6%) and weight increased
 
-The safety profile in paediatric patients was largely consistent with the safety profile previously established in adult patients. The following additional adverse reactions have so far only been reported in adult patients treated with trametinib tablets and dabrafenib capsules: cutaneous squamous cell carcinoma, seborrhoeic keratosis, peripheral neuropathy (including sensory and motor neuropathy), lymphoedema, dry mouth, actinic keratosis, renal failure (common), melanoma, acrochordon, sarcoidosis, chorioretinopathy, pneumonitis, acute renal failure, nephritis, cardiac failure, left ventricular dysfunction, interstitial lung disease, rhabdomyolysis (uncommon), gastrointestinal perforation, haemophagocytic lymphohistiocytosis (rare), tumour lysis syndrome, myocarditis, Stevens-Johnson syndrome, drug reaction with eosinophilia and systemic symptoms, tattoo-associated skin reactions (frequency not known).
+<div style=\"page-break-after: always\"></div>
+
+(5%). Long-term data on growth and skeletal maturation in paediatric patients are currently limited (see section 5.3).
+
+The safety profile in paediatric patients was largely consistent with the safety profile previously established in adult patients. The following additional adverse reactions have so far only been reported in adult patients treated with trametinib tablets and dabrafenib capsules: cutaneous squamous cell carcinoma, seborrhoeic keratosis, peripheral neuropathy (including sensory and motor neuropathy), lymphoedema, dry mouth, actinic keratosis, renal failure, potentiation of radiation toxicity (common), melanoma, acrochordon, sarcoidosis, chorioretinopathy, pneumonitis, acute renal failure, nephritis, cardiac failure, left ventricular dysfunction, interstitial lung disease, rhabdomyolysis (uncommon), gastrointestinal perforation, haemophagocytic lymphohistiocytosis (rare), tumour lysis syndrome, myocarditis, Stevens-Johnson syndrome, drug reaction with eosinophilia and systemic symptoms, tattoo-associated skin reactions (frequency not known).
 
 ## Tabulated list of adverse reactions
 
 The safety of trametinib in combination with dabrafenib has been evaluated in a pooled safety set of 171 paediatric patients across two studies in patients with BRAF V600 mutation-positive advanced solid tumours. Four (2.3%) patients were 1 to &lt;2 years of age, 39 (22.8%) patients were 2 to &lt;6 years of age, 54 (31.6%) patients were 6 to &lt;12 years of age and 74 (43.3%) patients were 12 to &lt;18 years of age at enrolment. The mean treatment duration was 2.3 years.
 
-Adverse reactions (Table 5) are listed below by MedDRA system organ class ranked by frequency using the following convention: very common (≥1/10), common (≥1/100 to &lt;1/10), uncommon ( ≥ 1/1 000 to &lt;1/100), rare ( ≥ 1/10 000 to &lt;1/1 000), very rare (&lt;1/10 000) and not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
-
-<div style=\"page-break-after: always\"></div>
+Adverse reactions (Table 5) are listed below by MedDRA system organ class ranked by frequency using the following convention: very common (≥1/10), common (≥1/100 to &lt;1/10), uncommon (  1/1 000 to &lt;1/100), rare (  1/10 000 to &lt;1/1 000), very rare (&lt;1/10 000) and not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
 Table 5 Adverse reactions with trametinib in combination with dabrafenib
 
-| Infections and infestations                                         | Infections and infestations                                                                                                                                                   |
-|---------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Very common                                                         | Paronychia, nasopharyngitis* 1                                                                                                                                                |
-| Common                                                              | Urinary tract infection, cellulitis                                                                                                                                           |
-| Neoplasms benign, malignant and unspecified (incl cysts and polyps) | Neoplasms benign, malignant and unspecified (incl cysts and polyps)                                                                                                           |
-| Very common                                                         | Skin papilloma                                                                                                                                                                |
-| Blood and lymphatic system disorders                                | Blood and lymphatic system disorders                                                                                                                                          |
-| Very common                                                         | Neutropenia* 2 , anaemia, leukopenia*                                                                                                                                         |
-| Common                                                              | Thrombocytopenia*                                                                                                                                                             |
-| Immune system disorders                                             | Immune system disorders                                                                                                                                                       |
-| Common                                                              | Hypersensitivity                                                                                                                                                              |
-| Metabolism and nutrition disorders                                  | Metabolism and nutrition disorders                                                                                                                                            |
-| Common                                                              | Dehydration, decreased appetite                                                                                                                                               |
-| Nervous system disorders                                            | Nervous system disorders                                                                                                                                                      |
-| Very common                                                         | Headache, dizziness* 3                                                                                                                                                        |
-| Eye disorders                                                       | Eye disorders                                                                                                                                                                 |
-| Common                                                              | Vision blurred, visual impairment, uveitis* 4                                                                                                                                 |
-| Uncommon                                                            | Retinal detachment, periorbital oedema                                                                                                                                        |
-| Cardiac disorders                                                   | Cardiac disorders                                                                                                                                                             |
-| Common                                                              | Ejection fraction decreased, bradycardia*                                                                                                                                     |
-| Uncommon                                                            | Atrioventricular block 5                                                                                                                                                      |
-| Vascular disorders                                                  | Vascular disorders                                                                                                                                                            |
-| Very common                                                         | Haemorrhage* 6                                                                                                                                                                |
-| Common                                                              | Hypertension, hypotension                                                                                                                                                     |
-| Respiratory, thoracic and mediastinal disorders                     | Respiratory, thoracic and mediastinal disorders                                                                                                                               |
-| Very common                                                         | Cough*                                                                                                                                                                        |
-| Common                                                              | Dyspnoea                                                                                                                                                                      |
-| Gastrointestinal disorders                                          | Gastrointestinal disorders                                                                                                                                                    |
-| Very common                                                         | Abdominal pain*, constipation, diarrhoea, nausea, vomiting                                                                                                                    |
-| Common                                                              | Pancreatitis, stomatitis                                                                                                                                                      |
-| Uncommon                                                            | Colitis*                                                                                                                                                                      |
-| Skin and subcutaneous tissue disorders                              | Skin and subcutaneous tissue disorders                                                                                                                                        |
-| Very common                                                         | Dermatitis acneiform* 7 , dry skin* 8 , pruritus, rash* 9 , erythema                                                                                                          |
-| Common                                                              | Dermatitis exfoliative generalised* 10 , alopecia, palmar-plantar erythrodysaesthesia syndrome, folliculitis, skin lesion, panniculitis, hyperkeratosis, photosensitivity* 11 |
-| Uncommon                                                            | Acute febrile neutrophilic dermatosis, skin fissures, night sweats, hyperhidrosis                                                                                             |
-| Musculoskeletal and connective tissue disorders                     | Musculoskeletal and connective tissue disorders                                                                                                                               |
-| Very common                                                         | Arthralgia, pain in extremity                                                                                                                                                 |
-| Common                                                              | Myalgia*, muscle spasms* 12                                                                                                                                                   |
-| General disorders and administration site conditions                | General disorders and administration site conditions                                                                                                                          |
-| Very common                                                         | Pyrexia*, fatigue* 13 , weight increased                                                                                                                                      |
-| Common                                                              | Mucosal inflammation, face oedema*, chills, oedema peripheral, influenza-like illness                                                                                         |
+| Infections and infestations                                         | Infections and infestations                                         |
+|---------------------------------------------------------------------|---------------------------------------------------------------------|
+| Very common                                                         | Paronychia, nasopharyngitis* 1                                      |
+| Common                                                              | Urinary tract infection, cellulitis                                 |
+| Neoplasms benign, malignant and unspecified (incl cysts and polyps) | Neoplasms benign, malignant and unspecified (incl cysts and polyps) |
+| Very common                                                         | Skin papilloma                                                      |
+| Blood and lymphatic system disorders                                | Blood and lymphatic system disorders                                |
+| Very common                                                         | Neutropenia* 2 , anaemia, leukopenia*                               |
+| Common                                                              | Thrombocytopenia*                                                   |
+| Immune system disorders                                             | Immune system disorders                                             |
+| Common                                                              | Hypersensitivity                                                    |
+| Metabolism and nutrition disorders                                  | Metabolism and nutrition disorders                                  |
+| Common                                                              | Dehydration, decreased appetite                                     |
+| Nervous system disorders                                            | Nervous system disorders                                            |
+| Very common                                                         | Headache, dizziness* 3                                              |
+| Eye disorders                                                       | Eye disorders                                                       |
+| Common                                                              | Vision blurred, visual impairment, uveitis* 4                       |
+| Uncommon                                                            | Retinal detachment, periorbital oedema                              |
+| Cardiac disorders                                                   | Cardiac disorders                                                   |
+| Common                                                              | Ejection fraction decreased, bradycardia*                           |
+| Uncommon                                                            | Atrioventricular block 5                                            |
+| Vascular disorders                                                  | Vascular disorders                                                  |
+| Very common                                                         | Haemorrhage* 6                                                      |
+| Common                                                              | Hypertension, hypotension                                           |
+| Respiratory, thoracic and mediastinal disorders                     | Respiratory, thoracic and mediastinal disorders                     |
+| Very common                                                         | Cough*                                                              |
+| Common                                                              | Dyspnoea                                                            |
 
 <div style=\"page-break-after: always\"></div>
 
-| Investigations                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Very common                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Transaminases increased* 14                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| Common                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | Hyponatraemia, hypophosphataemia, hyperglycaemia, blood alkaline phosphatase increased, gamma-glutamyltransferase increased, blood creatine phosphokinase                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| increased *Denotes grouped term of two or more MedDRA preferred terms that were considered clinically similar. 1 nasopharyngitis includes pharyngitis 2 neutropenia includes neutrophil count decreased and febrile neutropenia 3 dizziness includes vertigo 4 uveitis includes iridocyclitis 5 atrioventricular block includes atrioventricular block first degree 6 haemorrhage includes epistaxis, haematuria, contusion, haematoma, international normalised ratio increased, anal haemorrhage, catheter site haemorrhage, cerebral haemorrhage, ecchymosis, extradural haematoma, gastrointestinal haemorrhage, haematochezia, petechiae, post-procedural haemorrhage, rectal haemorrhage, red blood cell count decreased, upper gastrointestinal haemorrhage, uterine haemorrhage, heavy menstrual bleeding and purpura 7 dermatitis acneiform includes acne and acne pustular 8 dry skin includes xerosis and xeroderma 9 rash includes rash maculo-papular, rash pustular, rash erythematous, rash papular, rash macular 10 dermatitis exfoliative generalised includes skin exfoliation and dermatitis exfoliative 11 photosensitivity includes photosensitivity reaction and sunburn | increased *Denotes grouped term of two or more MedDRA preferred terms that were considered clinically similar. 1 nasopharyngitis includes pharyngitis 2 neutropenia includes neutrophil count decreased and febrile neutropenia 3 dizziness includes vertigo 4 uveitis includes iridocyclitis 5 atrioventricular block includes atrioventricular block first degree 6 haemorrhage includes epistaxis, haematuria, contusion, haematoma, international normalised ratio increased, anal haemorrhage, catheter site haemorrhage, cerebral haemorrhage, ecchymosis, extradural haematoma, gastrointestinal haemorrhage, haematochezia, petechiae, post-procedural haemorrhage, rectal haemorrhage, red blood cell count decreased, upper gastrointestinal haemorrhage, uterine haemorrhage, heavy menstrual bleeding and purpura 7 dermatitis acneiform includes acne and acne pustular 8 dry skin includes xerosis and xeroderma 9 rash includes rash maculo-papular, rash pustular, rash erythematous, rash papular, rash macular 10 dermatitis exfoliative generalised includes skin exfoliation and dermatitis exfoliative 11 photosensitivity includes photosensitivity reaction and sunburn |
+| Gastrointestinal disorders                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | Gastrointestinal disorders                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Very common                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | Abdominal pain*, constipation, diarrhoea, nausea, vomiting                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| Common                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Pancreatitis, stomatitis                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| Uncommon                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | Colitis*                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| Skin and subcutaneous tissue disorders                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Skin and subcutaneous tissue disorders                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| Very common                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | Dermatitis acneiform* 7 , dry skin* 8 , pruritus, rash* 9 , erythema                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Common                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Dermatitis exfoliative generalised* 10 , alopecia, palmar-plantar erythrodysaesthesia syndrome, folliculitis, skin lesion, panniculitis, hyperkeratosis, photosensitivity* 11                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| Uncommon                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | Acute febrile neutrophilic dermatosis, skin fissures, night sweats, hyperhidrosis                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| Musculoskeletal and connective tissue disorders                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | Musculoskeletal and connective tissue disorders                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| Very common                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | Arthralgia, pain in extremity                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| Common                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Myalgia*, muscle spasms* 12                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| General disorders and administration site conditions                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | General disorders and administration site conditions                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Very common                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | Pyrexia*, fatigue* 13 , weight increased                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| Common                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Mucosal inflammation, face oedema*, chills, oedema peripheral, influenza-like illness                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| Investigations                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | Investigations                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| Very common                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | Transaminases increased* 14                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| Common                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Hyponatraemia, hypophosphataemia, hyperglycaemia, blood alkaline phosphatase increased, gamma-glutamyltransferase increased, blood creatine phosphokinase increased                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| *Denotes grouped term of two or more MedDRA preferred terms that were considered clinically similar. 1 nasopharyngitis includes pharyngitis 2 neutropenia includes neutrophil count decreased and febrile neutropenia 3 dizziness includes vertigo 4 uveitis includes iridocyclitis 5 atrioventricular block includes atrioventricular block first degree 6 haemorrhage includes epistaxis, haematuria, contusion, haematoma, international normalised ratio increased, anal haemorrhage, catheter site haemorrhage, cerebral haemorrhage, ecchymosis, extradural haematoma, gastrointestinal haemorrhage, haematochezia, petechiae, post-procedural haemorrhage, rectal haemorrhage, red blood cell count decreased, upper gastrointestinal haemorrhage, uterine haemorrhage, heavy menstrual bleeding and purpura 7 dermatitis acneiform includes acne and acne pustular 8 dry skin includes xerosis and xeroderma 9 rash includes rash maculo-papular, rash pustular, rash erythematous, rash papular, rash macular | *Denotes grouped term of two or more MedDRA preferred terms that were considered clinically similar. 1 nasopharyngitis includes pharyngitis 2 neutropenia includes neutrophil count decreased and febrile neutropenia 3 dizziness includes vertigo 4 uveitis includes iridocyclitis 5 atrioventricular block includes atrioventricular block first degree 6 haemorrhage includes epistaxis, haematuria, contusion, haematoma, international normalised ratio increased, anal haemorrhage, catheter site haemorrhage, cerebral haemorrhage, ecchymosis, extradural haematoma, gastrointestinal haemorrhage, haematochezia, petechiae, post-procedural haemorrhage, rectal haemorrhage, red blood cell count decreased, upper gastrointestinal haemorrhage, uterine haemorrhage, heavy menstrual bleeding and purpura 7 dermatitis acneiform includes acne and acne pustular 8 dry skin includes xerosis and xeroderma 9 rash includes rash maculo-papular, rash pustular, rash erythematous, rash papular, rash macular |
 
 ## Description of selected adverse reactions
 
@@ -491,6 +491,8 @@ Weight increase has only been reported in the paediatric population. It was repo
 
 Haemorrhagic events were observed in 34% of paediatric patients, with Grade 3 events occurring in 1.2% of patients. The most frequent haemorrhagic event (epistaxis) was reported in 18% of paediatric patients. The median time to onset of the first occurrence of haemorrhagic events in paediatric patients was 2.6 months. Haemorrhagic events, including major haemorrhagic events and fatal haemorrhages, occurred in adult patients taking trametinib in combination with dabrafenib.
 
+<div style=\"page-break-after: always\"></div>
+
 The risk of haemorrhage may be increased with concomitant use of antiplatelet or anticoagulant therapy. If haemorrhage occurs, patents should be treated as clinically indicated (see section 4.4).
 
 ## Left ventricular ejection fraction (LVEF) reduction/Left ventricular dysfunction
@@ -498,8 +500,6 @@ The risk of haemorrhage may be increased with concomitant use of antiplatelet or
 Decreased LVEF has been reported in 5.3% of paediatric patients, with Grade 3 events occurring in &lt;1% of patients. The median time to onset of the first occurrence of LVEF decrease was around one month. In clinical studies in adult patients, the median time to onset of the first occurrence of left ventricular dysfunction, cardiac failure and LVEF decrease was between 2 to 5 months.
 
 Patients with LVEF lower than the institutional lower limit of normal were not included in clinical studies with trametinib. Trametinib in combination with dabrafenib should be used with caution in patients with conditions that could impair left ventricular function (see sections 4.2 and 4.4).
-
-<div style=\"page-break-after: always\"></div>
 
 ## Pyrexia
 
@@ -525,6 +525,8 @@ Patients treated with trametinib may develop ILD or pneumonitis. Trametinib shou
 
 In paediatric patients treated with trametinib in combination with dabrafenib, ophthalmological reactions, including uveitis 3.5% and iridocyclitis 1.8%, have been reported. Grade 3 uveitis occured in 1.8% of paediatric patients. Retinal pigment epithelial detachment (RPED) occurred in &lt;1% of paediatric patients. Disorders associated with visual disturbances, including RPED and RVO, have also been observed with trametinib in adult patients. Symptoms such as blurred vision, decreased acuity and other visual disturbances have been reported in adult clinical studies with trametinib (see sections 4.2 and 4.4).
 
+<div style=\"page-break-after: always\"></div>
+
 ## Rash
 
 Rash has been observed in 49% of paediatric patients in trametinib and dabrafenib combination studies in the integrated safety population. The majority of these cases were Grade 1 or 2 and did not require any dose interruptions or dose reductions (see sections 4.2 and 4.4).
@@ -532,8 +534,6 @@ Rash has been observed in 49% of paediatric patients in trametinib and dabrafeni
 ## Rhabdomyolysis
 
 Rhabdomyolysis has been reported in adult patients taking trametinib. Signs or symptoms of rhabdomyolysis should warrant an appropriate clinical evaluation and treatment as indicated (see section 4.4).
-
-<div style=\"page-break-after: always\"></div>
 
 ## Pancreatitis
 
@@ -561,13 +561,13 @@ Pharmacotherapeutic group: Antineoplastic agents, protein kinase inhibitors, mit
 
 Trametinib is a reversible, highly selective, allosteric inhibitor of mitogen-activated extracellular signal regulated kinase 1 (MEK1) and MEK2 activation and kinase activity. MEK proteins are components of the extracellular signal-related kinase (ERK) pathway. In human cancers, this pathway is often activated by mutated forms of BRAF which activates MEK. Trametinib inhibits activation of MEK by BRAF and inhibits MEK kinase activity.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Combination with dabrafenib
 
 Dabrafenib is an inhibitor of RAF kinases. Oncogenic mutations in BRAF lead to constitutive activation of the RAS/RAF/MEK/ERK pathway.
 
 Thus, trametinib and dabrafenib inhibit two kinases in this pathway, MEK and RAF, and therefore the combination provides concomitant inhibition of the pathway. The combination of trametinib with dabrafenib has shown anti-tumour activity in BRAF V600 mutation-positive cancer cell lines in vitro and delays the emergence of resistance in vivo in BRAF V600 mutation-positive xenografts.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Clinical efficacy and safety
 
@@ -587,9 +587,9 @@ In the low-grade glioma cohort, 110 patients were randomised to dabrafenib plus 
 
 At the time of the primary analysis, the ORR in the dabrafenib plus trametinib arm showed a statistically significant improvement over carboplatin plus vincristine. The subsequent hierarchical testing also demonstrated a statistically significant improvement in progression-free survival (PFS) over chemotherapy (Table 6).
 
-At the time of the primary analysis, conducted after all patients had completed at least 32 weeks of treatment or had discontinued earlier, the overall survival (OS) data were still immature (one death was reported in the carboplatin plus vincristine (C+V) arm).
-
 <div style=\"page-break-after: always\"></div>
+
+At the time of the primary analysis, conducted after all patients had completed at least 32 weeks of treatment or had discontinued earlier, the overall survival (OS) data were still immature (one death was reported in the carboplatin plus vincristine (C+V) arm).
 
 Table 6 Response and progression-free survival based on independent review in the pivotal study G2201 (LGG cohort, primary analysis)
 
@@ -617,13 +617,13 @@ NE=not estimable
 
 At the time of the final analysis (median duration of follow-up: 39.0 months), the ORR based on independent review was 54.8% in the D+T arm and 16.2% in the C+V arm with an odds ratio of 6.26. The analysis also confirmed improved PFS over chemotherapy based on independent review with an estimated 64% risk reduction in progression/death (hazard ratio 0.36). The median PFS was 24.9 months in the D+T arm and 7.2 months in the C+V arm. No additional deaths were reported in either arm at the time of the final analysis.
 
-Figure 1 Kaplan-Meier curves for progression-free survival based on independent review in the pivotal study G2201 (LGG cohort, final analysis)
-
-<!-- image -->
-
 <div style=\"page-break-after: always\"></div>
 
-## BRAF mutation-positive paediatric high-grade glioma (WHO Grades 3 and 4)
+Figure 1 Kaplan-Meier curves for progression-free survival based on independent review in the pivotal study G2201 (LGG cohort, final analysis)
+
+BRAF mutation-positive paediatric high-grade glioma (WHO Grades 3 and 4)
+
+<!-- image -->
 
 In the single-arm high-grade glioma cohort, 41 patients with relapsed or refractory HGG were enrolled and treated with dabrafenib plus trametinib. Median age was 13.0 years, with 5 patients (12.2%) aged 12 months to &lt;6 years, 10 patients (24.4%) aged 6 to &lt;12 years and 26 patients (63.4%) aged 12 to &lt;18 years; 56% were female. The histological grade at initial diagnosis was Grade 4 in 20 patients (48.8%), Grade 3 in 13 patients (31.7%), Grade 2 in 4 patients (9.8%), Grade 1 in 3 patients (7.3%) and missing in 1 patient (2.4%). The most common pathologies were glioblastoma multiforme (31.7%), anaplastic pleomorphic xanthoastrocytoma (14.6%), HGG NOS (9.8%) and pleomorphic xanthoastrocytoma (9.8%). Prior surgery was reported in 40 patients (97.6%), among those patients the procedure at last surgery was resection in 24 patients (58.5%). Prior antineoplastic chemotherapy was reported for 33 patients (80.5%). Prior radiotherapy was reported for 37 patients (90.2%). Systemic corticosteroid use while on study treatment was reported in 24 patients (58.5%).
 
@@ -637,6 +637,8 @@ The pharmacokinetic properties of trametinib have mostly been determined in adul
 
 The trametinib oral solution was rapidly absorbed with a median time to achieve peak plasma concentration (Tmax) of 1 hour post-dose. The mean absolute oral bioavailability of the trametinib tablets was 72%. In a relative bioavailability study comparing the oral solution formulation and the tablet formulation after single-dose administration in the fasted state in adults, administration of the oral solution formulation resulted in a 12%, 10% and 71% higher AUC(0-inf), AUC(0-last) and Cmax respectively as compared to the tablet formulation.
 
+<div style=\"page-break-after: always\"></div>
+
 Trametinib exposure increased in a dose-proportional manner between 0.125 mg and 4 mg following repeat once-daily dosing.
 
 In the pivotal paediatric study, steady-state geometric mean (%CV) Cmax and AUCtau were 22.7 ng/ml (41.1%) and 339 ng*hr/ml (22.2%) in the LGG cohort and 21.3 ng/ml (36.3%) and 307 ng*hr/ml (22.8%) in the HGG cohort.
@@ -649,9 +651,7 @@ Administration of a single 2 mg dose of the trametinib oral solution with a low-
 
 ## Distribution
 
-Binding of trametinib to human plasma proteins is 97.4%. Trametinib has a volume of distribution of approximately 1200 L determined following administration of a 5 µ g intravenous microdose.
-
-<div style=\"page-break-after: always\"></div>
+Binding of trametinib to human plasma proteins is 97.4%. Trametinib has a volume of distribution of approximately 1200 L determined following administration of a 5  g intravenous microdose.
 
 ## Biotransformation
 
@@ -671,6 +671,8 @@ Total dose recovery was low after a 10-day collection period (&lt;50%) following
 
 In vitro and in vivo data suggest that trametinib is unlikely to affect the pharmacokinetics of other medicinal products. Based on in vitro studies, trametinib is not an inhibitor of CYP1A2, CYP2A6, CYP2B6, CYP2D6 and CYP3A4. Based on in vitro studies, trametinib is an inhibitor of CYP2C8, CYP2C9 and CYP2C19, an inducer of CYP3A4 and an inhibitor of the transporters OAT1, OAT3, OCT2, MATE1, OATP1B1, OATP1B3, P-gp and BCRP. However, based on the low dose and low clinical systemic exposure relative to the in vitro potency of inhibition or induction values, trametinib is not considered to be an in vivo inhibitor or inducer of these enzymes or transporters, although transient inhibition of BCRP substrates in the gut may occur (see section 4.5).
 
+<div style=\"page-break-after: always\"></div>
+
 ## Effects of other medicinal products on trametinib
 
 In vivo and in vitro data suggest that the pharmacokinetics of trametinib are unlikely to be affected by other medicinal products. Trametinib is not a substrate of CYP enzymes or of the transporters BCRP, OATP1B1, OATP1B3, OATP2B1, OCT1, MRP2 and MATE1. Trametinib is an in vitro substrate of BSEP and the efflux transporter P-gp. Although trametinib exposure is unlikely to be affected by inhibition of BSEP, increased levels of trametinib upon strong inhibition of hepatic P-gp cannot be excluded (see section 4.5).
@@ -684,8 +686,6 @@ The effect of repeat-dose trametinib on the steady-state pharmacokinetics of com
 ## Hepatic impairment
 
 Population pharmacokinetic analyses and data from a clinical pharmacology study in adult patients with normal hepatic function or with mild, moderate or severe bilirubin and/or AST elevations (based on National Cancer Institute [NCI] classification) indicate that hepatic function does not significantly affect trametinib oral clearance.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Renal impairment
 
@@ -707,11 +707,11 @@ Trametinib may impair female fertility in humans, as in repeat-dose studies, inc
 
 Additionally, in juvenile rats given trametinib, decreased ovarian weights, slight delays in hallmarks of female sexual maturation (vaginal opening and increased incidence of prominent terminal end buds within the mammary gland) and slight hypertrophy of the surface epithelium of the uterus were observed. All of these effects were reversible following an off-treatment period and attributable to pharmacology. However, in rat and dog toxicity studies up to 13 weeks in duration, there were no treatment effects observed in male reproductive tissues.
 
+<div style=\"page-break-after: always\"></div>
+
 In embryo-foetal developmental toxicity studies in rats and rabbits, trametinib induced maternal and developmental toxicity. In rats, decreased foetal weights and increased post-implantation loss were seen at exposures below or slightly above the human clinical exposure based on AUC. In an embryofoetal developmental toxicity study with rabbits, decreased foetal body weight, increased abortions, increased incidence of incomplete ossification and skeletal malformations were seen at sub-clinical exposures based on AUC.
 
 In repeat-dose studies the effects seen after trametinib exposure are found mainly in the skin, gastrointestinal tract, haematological system, bone and liver. Most of the findings are reversible after drug-free recovery. In rats, hepatocellular necrosis and transaminase elevations were seen after 8 weeks at ≥0.062 mg/kg/day (approximately 0.8 times human clinical exposure based on AUC).
-
-<div style=\"page-break-after: always\"></div>
 
 In mice, lower heart rate, heart weight and left ventricular function were observed without cardiac histopathology after 3 weeks at ≥0.25 mg/kg/day trametinib (approximately 3 times human clinical exposure based on AUC) for up to 3 weeks. In adult rats, mineralisation of multiple organs was associated with increased serum phosphorus and was closely associated with necrosis in heart, liver and kidney and haemorrhage in the lung at exposures comparable to the human clinical exposure. In rats, hypertrophy of the physis and increased bone turnover were observed. In rats and dogs given trametinib at or below human clinical exposures, bone marrow necrosis, lymphoid atrophy in thymus and GALT and lymphoid necrosis in lymph nodes, spleen and thymus were observed, which have the potential to impair immune function. In juvenile rats, increased heart weight with no histopathology was observed at 0.35 mg/kg/day (approximately 2 times the human clinical exposure based on AUC).
 
@@ -725,11 +725,13 @@ In a study in dogs in which trametinib and dabrafenib were given in combination 
 
 ## 6.1 List of excipients
 
-Sulfobutylbetadex sodium Sucralose (E 955) Citric acid monohydrate (E 330) Disodium phosphate (E 339) Potassium sorbate (E 202) Methyl parahydroxybenzoate (E 218) Strawberry flavour
+Sulfobutylbetadex sodium Sucralose (E 955) Citric acid monohydrate (E 330) Disodium phosphate (E 339) Potassium sorbate (E 202) Methyl parahydroxybenzoate (E 218) Strawberry flavour (acacia gum, triacetin, artificial flavours)
 
 ## 6.2 Incompatibilities
 
 Not applicable.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 6.3 Shelf life
 
@@ -737,17 +739,19 @@ Not applicable.
 
 3 years.
 
-## Reconstituted oral solution
+Reconstituted oral solution
 
-Store below 25ºC. Do not freeze. Discard any unused solution 35 days after reconstitution.
+Store below 25ºC.
+
+Do not freeze.
+
+Discard any unused solution 35 days after reconstitution.
 
 ## 6.4 Special precautions for storage
 
-Store in a refrigerator (2 ° C - 8 ° C). Store in the original package in order to protect from light and moisture.
+Store in a refrigerator (2  C -8  C). Store in the original package in order to protect from light and moisture.
 
 For storage conditions after reconstitution of the medicinal product, see section 6.3.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 6.5 Nature and contents of container
 
@@ -776,6 +780,8 @@ Any unused medicinal product or waste material should be disposed of in accordan
 ## 7. MARKETING AUTHORISATION HOLDER
 
 Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Ireland
+
+<div style=\"page-break-after: always\"></div>
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
@@ -929,7 +935,7 @@ Lot
 
 Spexotras 0.05 mg/ml
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -1010,7 +1016,7 @@ Lot
 14. GENERAL CLASSIFICATION FOR SUPPLY
 15. INSTRUCTIONS ON USE
 16. INFORMATION IN BRAILLE
-17. UNIQUE IDENTIFIER - 2D BARCODE
+17. UNIQUE IDENTIFIER -2D BARCODE
 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 <div style=\"page-break-after: always\"></div>
@@ -1029,9 +1035,9 @@ Lot
 
 - -Keep this leaflet. You may need to read it again.
 - -If you have any further questions, ask the doctor, pharmacist or nurse.
-- -This medicine has been prescribed for your child only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as your child's.
+- -This medicine has been prescribed for your child only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as your child' s.
 - -If your child gets any side effects, talk to the doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
-- -The information in this leaflet is for you or your child - but in the leaflet it will just say 'your child'.
+- -The information in this leaflet is for you or your child -but in the leaflet it will just say 'your child '.
 
 ## What is in this leaflet
 
@@ -1148,7 +1154,7 @@ This medicine contains 1.98 mg sodium (main component of cooking/table salt) in 
 
 ## Spexotras contains potassium
 
-This medicine contains potassium, less than 1 mmol (39 mg) per maximum daily dose, i.e. essentially 'potassium-free'.
+This medicine contains potassium, less than 1 mmol (39 mg) per maximum daily dose, i.e. essentially ' potassium-free ' .
 
 ## 3. How to give Spexotras
 
@@ -1178,7 +1184,9 @@ If you give too much Spexotras, contact the doctor, pharmacist or nurse for advi
 
 ## If you forget to give Spexotras
 
-If the missed dose is less than 12 hours late, give it as soon as you remember. If the missed dose is 12 hours or more than 12 hours late, skip that dose. Give the next dose at the usual time and carry on giving Spexotras at regular times as usual. Do not give a double dose to make up for a forgotten dose.
+If the missed dose is 12 hours or more than 12 hours late, skip that dose. Give the next dose at the
+
+If the missed dose is less than 12 hours late, give it as soon as you remember. usual time and carry on giving Spexotras at regular times as usual. Do not give a double dose to make up for a forgotten dose.
 
 ## If your child vomits after taking Spexotras
 
@@ -1196,7 +1204,7 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 ## Stop giving this medicine and seek urgent medical attention if your child has any of the following symptoms:
 
-- coughing up of blood, passing blood in urine, vomit containing blood or that looks like 'coffee grounds', red or black stools that look like tar. These may be signs of bleeding.
+- coughing up of blood, passing blood in urine, vomit containing blood or that looks like 'coffee grounds' , red or black stools that look like tar. These may be signs of bleeding.
 - fever (temperature 38°C or above).
 - chest pain or shortness of breath, sometimes with fever or cough. These may be signs of pneumonitis or inflamed lungs (interstitial lung disease).
 - blurred vision, loss of vision or other vision changes. These may be signs of retinal detachment.
@@ -1279,6 +1287,7 @@ In addition to the side effects described above, the following side effects have
 - a hole (perforation) in the stomach or intestines
 - inflammation of the heart muscle which can result in breathlessness, fever, palpitations and chest pain
 - skin reactions localised in tattoos
+- worsening of radiation treatment side effects
 
 ## Reporting of side effects
 
@@ -1292,7 +1301,7 @@ Do not use this medicine after the expiry date which is stated on the bottle lab
 
 Store in the original package in order to protect from light and moisture.
 
-Before reconstitution: Store in a refrigerator (2 ° C - 8 ° C).
+Before reconstitution: Store in a refrigerator (2  C -8  C).
 
 After reconstitution: Store below 25ºC. Do not freeze. Discard any unused solution 35 days after reconstitution.
 
@@ -1305,7 +1314,7 @@ Do not throw away any medicines via wastewater or household waste. Ask the pharm
 ## What Spexotras contains
 
 - -The active substance is trametinib. One bottle contains trametinib dimethyl sulfoxide equivalent to 4.7 mg of trametinib. Each ml of the reconstituted solution contains 0.05 mg of trametinib.
-- -The other ingredients are: sulfobutylbetadex sodium (see section 2), sucralose (E 955), citric acid monohydrate (E 330), disodium phosphate (E 339) (see section 2), potassium sorbate (E 202) (see section 2), methyl parahydroxybenzoate (E 218) (see section 2), and strawberry flavour.
+- -The other ingredients are: sulfobutylbetadex sodium (see section 2), sucralose (E 955), citric acid monohydrate (E 330), disodium phosphate (E 339) (see section 2), potassium sorbate (E 202) (see section 2), methyl parahydroxybenzoate (E 218) (see section 2), and strawberry flavour (acacia gum, triacetin, artificial flavours).
 
 ## What Spexotras looks like and contents of the pack
 
@@ -1533,36 +1542,6 @@ If you have any questions about how to use Spexotras, contact your healthcare pr
 
 <div style=\"page-break-after: always\"></div>
 
-2
-
-Gently swirl the bottle for 30 seconds to mix the solution.
-
-If foam appears, allow the bottle to stand until the foam disappears.
-
-3
-
-Remove the child-resistant cap by pushing down on the cap and turning it anti-clockwise.
-
-4
-
-Check if there is a bottle adapter already inserted in the bottle neck.
-
-If not inserted, contact your pharmacist.
-
-5
-
-Push the plunger down into the oral syringe as far as it will go to remove all the air inside.
-
-6
-
-Place the bottle on a flat surface and hold it upright.
-
-Insert the tip of the oral syringe into the opening of the bottle adapter.
-
-Make sure the oral syringe is securely attached.
-
-IMPORTANT: Due to air pressure, the plunger may move by itself when you measure your dose during Step 7. Hold the plunger to prevent it moving.
-
 <!-- image -->
 
 <!-- image -->
@@ -1570,6 +1549,13 @@ IMPORTANT: Due to air pressure, the plunger may move by itself when you measure 
 <!-- image -->
 
 <!-- image -->
+
+| 2 Gently swirl the bottle for 30 seconds to mix the solution. If foam appears, allow the bottle to stand until the foam disappears.                                                                                                                                                                                                   |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 3 Remove the child-resistant cap by pushing down on the cap and turning it anti-clockwise.                                                                                                                                                                                                                                            |
+| 4 Check if there is a bottle adapter already inserted in the bottle neck. If not inserted, contact your pharmacist.                                                                                                                                                                                                                   |
+| 5 Push the plunger down into the oral syringe as far as it will go to remove all the air inside.                                                                                                                                                                                                                                      |
+| 6 Place the bottle on a flat surface and hold it upright. Insert the tip of the oral syringe into the opening of the bottle adapter. Make sure the oral syringe is securely attached. IMPORTANT: Due to air pressure, the plunger may move by itself when you measure your dose during Step 7. Hold the plunger to prevent it moving. |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1599,13 +1585,11 @@ Slowly push the plunger all the way down to give the full dose.
 
 WARNING: Administering Spexotras to the throat or pushing the plunger too fast may cause choking.
 
-Large air bubble
-
 <!-- image -->
 
 <!-- image -->
 
-Small air bubbles
+Large air bubble Small air bubbles
 
 <!-- image -->
 
@@ -1688,9 +1672,6 @@ Follow these steps if you spill any Spexotras solution:
 
 <div style=\"page-break-after: always\"></div>
 
-| STORAGE                                                                               |
-|---------------------------------------------------------------------------------------|
-| Keep your Spexotras solution and oral syringe out of the sight and reach of children. |
-| Store the solution upright, in the carton provided with the cap tightly closed.       |
-| Store below 25°C. Do not freeze.                                                      |
-| Store your oral syringe in the carton provided alongside your Spexotras solution.     |
+| STORAGE                                                                                                                                                                                                                                                                                  |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Keep your Spexotras solution and oral syringe out of the sight and reach of children. Store the solution upright, in the carton provided with the cap tightly closed. Store below 25°C. Do not freeze. Store your oral syringe in the carton provided alongside your Spexotras solution. |

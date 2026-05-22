@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-02-03 15:04:02
+document_datetime: 2026-05-18 11:57:29
 document_pages: 53
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/sapropterin-dipharma-epar-product-information_en.pdf
 document_name: sapropterin-dipharma-epar-product-information_en.pdf
 version: success
-processing_time: 16.8721707
-conversion_datetime: 2026-02-04 15:13:43.497741
+processing_time: 28.4008122
+conversion_datetime: 2026-05-22 23:21:03.832025
 docling_version:
-  docling-serve: 1.11.0
-  docling-jobkit: 1.9.1
-  docling: 2.72.0
-  docling-core: 2.63.0
-  docling-ibm-models: 3.11.0
-  docling-parse: 4.7.3
-  python: cpython-313 (3.13.12)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  docling-serve: 1.20.0
+  docling-jobkit: 1.20.0
+  docling: 2.95.0
+  docling-core: 2.77.0
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.11.0
+  python: cpython-313 (3.13.11)
+  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -96,11 +96,9 @@ It is recommended that blood phenylalanine and tyrosine levels be tested one or 
 
 Safety and efficacy of sapropterin dihydrochloride in patients above 65 years of age have not been established. Caution must be exercised when prescribing to elderly patients.
 
-Renal or hepatic impairment
+Renal or hepatic impairment Safety and efficacy of sapropterin dihydrochloride in patients with renal or hepatic insufficiency have not been established. Caution must be exercised when prescribing to such patients.
 
 <div style=\"page-break-after: always\"></div>
-
-Safety and efficacy of sapropterin dihydrochloride in patients with renal or hepatic insufficiency have not been established. Caution must be exercised when prescribing to such patients.
 
 ## Paediatric population
 
@@ -460,11 +458,9 @@ Non-clinical data reveal no special hazard for humans based on conventional stud
 
 An increased incidence of altered renal microscopic morphology (collecting tubule basophilia) was observed in rats following chronic oral administration of sapropterin dihydrochloride at exposures at or slightly above the maximal recommended human dose.
 
-Sapropterin was found to be weakly mutagenic in bacterial cells and an increase in chromosome aberrations was detected in Chinese hamster lung and ovary cells. However, sapropterin has not been
+Sapropterin was found to be weakly mutagenic in bacterial cells and an increase in chromosome aberrations was detected in Chinese hamster lung and ovary cells. However, sapropterin has not been shown to be genotoxic in the in vitro test with human lymphocytes as well as in in vivo micronucleus mouse tests.
 
 <div style=\"page-break-after: always\"></div>
-
-shown to be genotoxic in the in vitro test with human lymphocytes as well as in in vivo micronucleus mouse tests.
 
 No tumorigenic activity was observed in an oral carcinogenicity study in mice at doses of up to 250 mg/kg/day (12.5 to 50 times the human therapeutic dose range).
 
@@ -504,11 +500,9 @@ Not all pack sizes may be marketed.
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
-Preparation and handling
+Preparation and handling Sapropterin Dipharma soluble tablets should be placed in water or apple juice and stirred until dissolved. The soluble tablets may also be mixed in a small amount of soft foods (such as apple sauce or pudding). The preparation should be administered within 15 to 20 minutes. For instructions for use, see section 4.2.
 
 <div style=\"page-break-after: always\"></div>
-
-Sapropterin Dipharma soluble tablets should be placed in water or apple juice and stirred until dissolved. The soluble tablets may also be mixed in a small amount of soft foods (such as apple sauce or pudding). The preparation should be administered within 15 to 20 minutes. For instructions for use, see section 4.2.
 
 ## Administration via an enteral feeding tube
 
@@ -695,6 +689,8 @@ If only a portion of this solution needs to be administered, an oral syringe sho
 |            19 |                    38 |                                                          1 |                           80 |                                             30 |
 |            20 |                    40 |                                                          1 |                           80 |                                             32 |
 
+*Reflects volume for total daily dose.
+
 Discard unused solution within 30 minutes for powder solution.
 
 Table 2: 5 mg/kg per day dosing table for children weighing up to 20 kg
@@ -859,11 +855,9 @@ Sapropterin Dipharma has no or negligible influence on the ability to drive and 
 
 Approximately 35% of the 579 patients aged 4 years and over who received treatment with sapropterin dihydrochloride (5 to 20 mg/kg/day) in the clinical trials for sapropterin experienced adverse reactions. The most commonly reported adverse reactions are headache and rhinorrhoea.
 
-In a further clinical trial, approximately 30% of the 27 children aged below 4 years who received treatment with sapropterin dihydrochloride (10 or 20 mg/kg/day) experienced adverse reactions. The
+In a further clinical trial, approximately 30% of the 27 children aged below 4 years who received treatment with sapropterin dihydrochloride (10 or 20 mg/kg/day) experienced adverse reactions. The most commonly reported adverse reactions are 'amino acid level decreased' (hypophenylalaninaemia), vomiting and rhinitis.
 
 <div style=\"page-break-after: always\"></div>
-
-most commonly reported adverse reactions are 'amino acid level decreased' (hypophenylalaninaemia), vomiting and rhinitis.
 
 ## Tabulated list of adverse reactions
 
@@ -967,11 +961,9 @@ Limited studies have been conducted in patients under 4 years of age with BH4 de
 
 ## Absorption
 
-Sapropterin is absorbed after oral administration of the dissolved tablet, and the maximum blood concentration (Cmax) is achieved 3 to 4 hours after dosing in the fasted state. The rate and extent of absorption of sapropterin is influenced by food. The absorption of sapropterin is higher after a high-
+Sapropterin is absorbed after oral administration of the dissolved tablet, and the maximum blood concentration (Cmax) is achieved 3 to 4 hours after dosing in the fasted state. The rate and extent of absorption of sapropterin is influenced by food. The absorption of sapropterin is higher after a high- fat, high-calorie meal as compared to fasting, resulting, in average, in 40-85% higher maximum blood concentrations achieved 4 to 5 hours after administration.
 
 <div style=\"page-break-after: always\"></div>
-
-fat, high-calorie meal as compared to fasting, resulting, in average, in 40-85% higher maximum blood concentrations achieved 4 to 5 hours after administration.
 
 Absolute bioavailability or bioavailability for humans after oral administration is not known.
 
@@ -1101,7 +1093,7 @@ Detailed information on this medicinal product is available on the website of th
 
 Name and address of the manufacturer responsible for batch release
 
-Depo-Pack S.r.l. Via Giovanni Morandi 28 21047 Saronno (VA) Italy
+Depo-Pack S.r.l. Via Libertà 121 20824 Lazzate (MB) Italy
 
 Pharmadox Healthcare Ltd. KW20A Kordin Industrial Park Paola PLA3000 Malta
 
@@ -1148,7 +1140,9 @@ CARTON and BOTTLE LABEL
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Sapropterin Dipharma 100 mg soluble tablets sapropterin dihydrochloride
+Sapropterin Dipharma 100 mg soluble tablets
+
+sapropterin dihydrochloride
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -1309,6 +1303,8 @@ PC SN
 
 NN
 
+<div style=\"page-break-after: always\"></div>
+
 ## PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
 
 SACHET 100 mg powder for oral solution
@@ -1332,8 +1328,6 @@ Lot
 ## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
 
 ## 6. OTHER
-
-<div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
@@ -1423,7 +1417,9 @@ SACHET 500 mg
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Sapropterin Dipharma 500 mg powder for oral solution sapropterin dihydrochloride
+Sapropterin Dipharma 500 mg powder for oral solution
+
+sapropterin dihydrochloride
 
 ## 2. METHOD OF ADMINISTRATION
 
@@ -1538,11 +1534,9 @@ The recommended starting dose of Sapropterin Dipharma in patients with PKU is 10
 
 ## Dosing for BH4 deficiency
 
-The recommended starting dose of Sapropterin Dipharma in patients with BH4 deficiency is 2 to 5 mg for each kg of body weight. Take Sapropterin Dipharma with a meal to increase the absorption. Divide
+The recommended starting dose of Sapropterin Dipharma in patients with BH4 deficiency is 2 to 5 mg for each kg of body weight. Take Sapropterin Dipharma with a meal to increase the absorption. Divide the total daily dose into 2 or 3 doses, taken over the day. Your doctor may adjust your dose up to 20 mg for each kg of body weight per day, depending on your condition.
 
 <div style=\"page-break-after: always\"></div>
-
-the total daily dose into 2 or 3 doses, taken over the day. Your doctor may adjust your dose up to 20 mg for each kg of body weight per day, depending on your condition.
 
 ## The table below is an example of how an appropriate dose is calculated
 
@@ -1678,9 +1672,13 @@ Dipharma Arzneimittel GmbH Offheimer Weg 33 65549 Limburg a. d. Lahn Germany
 
 ## Manufacturer
 
-Depo-Pack S.r.l. Via Giovanni Morandi 28 21047 Saronno (VA) Italy or
+Depo-Pack S.r.l. Via Libertà 121 20824 Lazzate (MB) Italy
 
-Pharmadox Healthcare Ltd. KW20A Kordin Industrial Park Paola PLA3000 Malta or
+or
+
+Pharmadox Healthcare Ltd. KW20A Kordin Industrial Park Paola PLA3000 Malta
+
+or
 
 Patheon France 40 Boulevard De Champaret 38300 Bourgoin Jallieu France
 
@@ -1943,18 +1941,20 @@ Dipharma Arzneimittel GmbH Offheimer Weg 33 65549 Limburg a. d. Lahn Germany
 
 ## Manufacturer
 
-Depo-Pack S.r.l. Via Giovanni Morandi 28 21047 Saronno (VA) Italy or
+Depo-Pack S.r.l. Via Libertà 121 20824 Lazzate (MB) Italy
 
-Pharmadox Healthcare Ltd. KW20A Kordin Industrial Park Paola PLA3000 Malta or
+or
+
+Pharmadox Healthcare Ltd. KW20A Kordin Industrial Park Paola PLA3000 Malta
+
+or
 
 Patheon France 40 Boulevard De Champaret 38300 Bourgoin Jallieu France
 
 This leaflet was last revised in
 
-Other sources of information
+Other sources of information Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
 
 <div style=\"page-break-after: always\"></div>
-
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
 
 Latest approved information 'Preparing the sachet(s)', on this medicine is available by scanning the QR code included in the outer carton with a smartphone. The same information is also available on the following URL: https://leafletsapropterin.ch/

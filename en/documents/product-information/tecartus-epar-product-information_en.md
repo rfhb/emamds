@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-03-12 16:50:34
-document_pages: 43
+document_datetime: 2026-05-19 12:32:48
+document_pages: 44
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/tecartus-epar-product-information_en.pdf
 document_name: tecartus-epar-product-information_en.pdf
 version: success
-processing_time: 12.0313584
-conversion_datetime: 2026-03-13 18:25:44.149957
+processing_time: 19.7124719
+conversion_datetime: 2026-05-22 23:18:03.802093
 docling_version:
-  docling-serve: 1.14.3
-  docling-jobkit: 1.13.0
-  docling: 2.79.0
-  docling-core: 2.69.0
-  docling-ibm-models: 3.12.0
-  docling-parse: 5.5.0
+  docling-serve: 1.20.0
+  docling-jobkit: 1.20.0
+  docling: 2.95.0
+  docling-core: 2.77.0
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.11.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -113,7 +113,7 @@ A lymphodepleting chemotherapy regimen consisting of cyclophosphamide 900 mg/m 2
 ## Pre-medication
 
 - To minimise potential acute infusion reactions, it is recommended that patients be pre-medicated with paracetamol 500 to 1,000 mg given orally and diphenhydramine 12.5 to 25 mg intravenously or orally (or equivalent medicinal products) approximately 1 hour before the infusion of Tecartus.
-- Prophylactic use of systemic corticosteroids is not recommended (see section 4.5).
+- Prophylactic use of systemic corticosteroids is not routinely recommended (see section 4.5). Prophylactic use of systemic corticosteroids may be considered in patients at increased risk of severe immune-mediated adverse reactions, only if the potential benefit outweighs the risk and as guided by local institutional and/or national or European/international guidelines.
 
 ## Monitoring prior to infusion
 
@@ -122,8 +122,8 @@ A lymphodepleting chemotherapy regimen consisting of cyclophosphamide 900 mg/m 2
 ## Monitoring after infusion
 
 - Patients must be monitored daily for the first 7 days following infusion for signs and symptoms of potential CRS, neurologic events and other toxicities. Physicians can consider hospitalisation for the first 7 days or at the first signs or symptoms of CRS and/or neurologic events.
-- After the first 7 days following the infusion, the patient is to be monitored at the physician's discretion.
-- Patients must remain within proximity of a qualified treatment centre for at least 4 weeks following infusion.
+- After the first 7 days following the infusion, the patient is to be monitored at the physician's discretion for at least an additional 7 days.
+- Patients must remain within proximity of a qualified treatment centre or appropriately trained clinical facility for at least 2 weeks following infusion.
 
 ## Special populations
 
@@ -143,19 +143,16 @@ The safety and efficacy of Tecartus in children and adolescents aged less than 1
 
 ## Tecartus is for intravenous use only.
 
-Tecartus must not be irradiated. Do NOT use a leukodepleting filter.
+## Tecartus must not be irradiated. Do NOT use a leukodepleting filter.
 
 Before administration, it must be confirmed that the patient's identity matches the unique patient information on the Tecartus infusion bag and cassette.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Administration
 
 - A leukodepleting filter must not be used.
-- Tocilizumab and emergency equipment must be available prior to infusion and during the monitoring period. In the exceptional case where tocilizumab is not available due to a shortage
-
-<div style=\"page-break-after: always\"></div>
-
-that is listed in the European Medicines Agency shortage catalogue, suitable alternative measures to treat CRS instead of tocilizumab must be available prior to infusion.
-
+- Tocilizumab and emergency equipment must be available prior to infusion and during the monitoring period. In the exceptional case where tocilizumab is not available due to a shortage that is listed in the European Medicines Agency shortage catalogue, suitable alternative measures to treat CRS instead of tocilizumab must be available prior to infusion.
 - For autologous use only, verify the patient ID to match the patient identifiers on the Tecartus infusion bag.
 - Once tubing has been primed, infuse the entire content of the Tecartus infusion bag within 30 minutes by either gravity or a peristaltic pump.
 
@@ -193,11 +190,11 @@ In some cases, the treatment may be delayed after administration of the lymphode
 
 ## Monitoring after infusion
 
-Patients must be monitored daily for the first 7 days following infusion for signs and symptoms of potential CRS, neurologic events and other toxicities. Physicians can consider hospitalisation for the first 7 days or at the first signs or symptoms of CRS and/or neurologic events. After the first 7 days following infusion, the patient is to be monitored at the physician's discretion.
+Patients must be monitored daily for the first 7 days following infusion for signs and symptoms of potential CRS, neurologic events and other toxicities. Physicians can consider hospitalisation for the first 7 days or at the first signs or symptoms of CRS and/or neurologic events. After the first 7 days following infusion, the patient is to be monitored at the physician's discretion for at least an additional 7 days. Patients and caregivers should be informed about the potential late onset of CRS or neurologic events and instructed to seek immediate medical attention if patients experience any signs or symptoms of CRS or neurologic events.
 
 <div style=\"page-break-after: always\"></div>
 
-Patients must remain within proximity of a qualified treatment centre for at least 4 weeks following infusion and seek immediate medical attention should signs or symptoms of CRS or neurological adverse reactions occur. Monitoring of vital signs and organ functions must be considered depending on the severity of the reaction.
+Patients must remain within proximity of a qualified treatment centre or appropriately trained clinical facility for at least 2 weeks following infusion and seek immediate medical attention should signs or symptoms of CRS or neurological adverse reactions occur. If the post-infusion monitoring of patients takes place in an appropriately trained clinical facility that is not the treatment center, it must meet the same requirements as the qualified treatment centre regarding the availability of emergency equipment and tocilizumab. Monitoring of vital signs and organ functions must be considered depending on the severity of the reaction.
 
 ## Serological testing
 
@@ -221,15 +218,15 @@ Nearly all patients experienced some degree of CRS. Severe CRS, which can be fat
 
 ## Management of cytokine release syndrome associated with Tecartus
 
-At least 1 dose per patient of tocilizumab, an interleukin-6 (IL-6) receptor inhibitor, must be on site and available for administration prior to Tecartus infusion. The qualified treatment centre must have access to an additional dose of tocilizumab within 8 hours of each previous dose. In the exceptional case where tocilizumab is not available due to a shortage that is listed in the European Medicines Agency shortage catalogue, the treatment centre must have access to suitable alternative measures instead of tocilizumab to treat CRS.
+At least 1 dose per patient of tocilizumab, an interleukin-6 (IL-6) receptor inhibitor, must be on site and available for administration prior to Tecartus infusion. The qualified treatment centre must have access to an additional dose of tocilizumab within 8 hours of each previous dose. If the post-infusion monitoring of patients takes place in an appropriately trained clinical facility, it must also adhere to the same requirements regarding the availability of tocilizumab. In the exceptional case where tocilizumab is not available due to a shortage that is listed in the European Medicines Agency shortage catalogue, the treatment centre /clinical facility must have access to suitable alternative measures instead of tocilizumab to treat CRS.
+
+<div style=\"page-break-after: always\"></div>
 
 The management of patients should be conducted based on the patient's clinical presentation and in accordance with applicable local institutional and/or national or European/international clinical guidelines. Physicians are advised to exercise clinical judgment consistent with these standards.
 
 CRS has been known to be associated with end organ dysfunction (e.g., hepatic, renal, cardiac, and pulmonary). In addition, worsening of underlying organ pathologies can occur in the setting of CRS. Patients with medically significant cardiac dysfunction must be managed by standards of critical care and measures such as echocardiography is to be considered. In some cases, macrophage activation syndrome (MAS) and haemophagocytic lymphohistiocytosis (HLH) may occur in the setting of CRS.
 
 Evaluation for haemophagocytic lymphohistiocytosis/macrophage activation syndrome (HLH/MAS) is to be considered in patients with severe or unresponsive CRS. HLH/MAS should be managed per local institutional and/or national or European/international clinical guidelines.
-
-<div style=\"page-break-after: always\"></div>
 
 Tecartus continues to expand and persist following administration of tocilizumab and corticosteroids. Tumour necrosis factor (TNF) antagonists are not recommended for management of Tecartus-associated CRS.
 
@@ -257,19 +254,23 @@ Viral reactivation, e.g. Hepatitis B virus (HBV) reactivation, can occur in pati
 
 Patients may exhibit cytopenias for several weeks following lymphodepleting chemotherapy and Tecartus infusion and must be managed according to standard guidelines. Grade 3 or higher prolonged cytopenias following Tecartus infusion occurred very commonly and included thrombocytopenia, neutropenia, and anaemia (see section 4.8). Patient blood counts must be monitored after Tecartus infusion.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Hypogammaglobulinaemia
 
 B-cell aplasia leading to hypogammaglobulinaemia can occur in patients receiving treatment with Tecartus. Hypogammaglobulinaemia was very commonly observed in patients treated with Tecartus (see section 4.8). Hypogammaglobulinaemia predisposes patients to have infections. Immunoglobulin levels should be monitored after treatment with Tecartus and managed using infection precautions, antibiotic prophylaxis, and immunoglobulin replacement in case of recurrent infections and must be taken according to standard guidelines.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Hypersensitivity reactions
 
 Serious hypersensitivity reactions including anaphylaxis, may occur due to DMSO or residual gentamicin in Tecartus.
 
-## Secondary malignancies including of T cell origin
+## Secondary malignancies including of T-cell and myeloid origin
 
-Patients treated with Tecartus may develop secondary malignancies. T-cell malignancies have been reported following treatment of haematological malignancies with a BCMA- or CD19-directed CAR T-cell therapy. T-cell malignancies, including CAR-positive malignancies, have been reported within weeks and up to several years following administration of a CD19- or BCMA-directed CAR T-cell therapy. There have been fatal outcomes. Patients must be monitored life-long for secondary malignancies. In the event that a secondary malignancy occurs, contact the company to obtain instructions on patient samples to collect for testing.
+Patients treated with Tecartus may develop secondary malignancies. T-cell malignancies have been reported following treatment of haematological malignancies with a BCMA- or CD19-directed CAR T-cell therapy. T-cell malignancies, including CAR-positive malignancies, have been reported within weeks and up to several years following administration of a CD19- or BCMA-directed CAR T-cell therapy. There have been fatal outcomes. In the event that a secondary malignancy occurs, contact the company to obtain instructions on patient samples to collect for testing.
+
+Myelodysplastic syndrome and acute myeloid leukaemia, including cases with fatal outcomes, have occurred in patients following treatment with Tecartus.
+
+Patients must be monitored life-long for secondary malignancies.
 
 ## Tumour lysis syndrome (TLS)
 
@@ -287,6 +288,8 @@ Tecartus is not recommended if the patient has relapsed with CD19-negative disea
 
 Tecartus is not recommended for patients who have CD19-negative disease or an unconfirmed CD19 status.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Sodium content
 
 This medicinal product contains 300 mg sodium per infusion, equivalent to 15% of the WHO recommended maximum daily intake of 2 g sodium for an adult.
@@ -299,11 +302,7 @@ Patients are expected to enrol in a registry in order to better understand the l
 
 No interaction studies have been performed with Tecartus.
 
-Prophylactic use of systemic corticosteroids may interfere with the activity of Tecartus. Prophylactic use of systemic corticosteroids is therefore not recommended before infusion (see section 4.2).
-
-Administration of corticosteroids as per the toxicity management guidelines does not impact the expansion and persistence of CAR T cells.
-
-<div style=\"page-break-after: always\"></div>
+Prophylactic use of systemic corticosteroids may interfere with the activity of Tecartus and is therefore not routinely recommended before infusion (see section 4.2).
 
 ## Live vaccines
 
@@ -331,6 +330,8 @@ Assessment of immunoglobulin levels and B-cells in newborn infants of mothers tr
 
 It is unknown whether Tecartus is excreted in human milk or transferred to the breast-feeding child. Breast-feeding women must be advised of the potential risk to the breast-fed child.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Fertility
 
 No clinical data on the effect of Tecartus on fertility are available. Effects on male and female fertility have not been evaluated in animal studies.
@@ -339,9 +340,7 @@ No clinical data on the effect of Tecartus on fertility are available. Effects o
 
 Tecartus has major influence on the ability to drive and use machines.
 
-Due to the potential for neurologic events, including altered mental status or seizures, patients must not drive or operate heavy or potentially dangerous machines until at least 8 weeks after infusion or until resolution of neurologic adverse reactions.
-
-<div style=\"page-break-after: always\"></div>
+Due to the potential for neurologic events, including altered mental status or seizures, patients must not drive or operate heavy or potentially dangerous machines for a minimum of 4 weeks after infusion or until complete resolution of neurologic adverse reactions.
 
 ## 4.8 Undesirable effects
 
@@ -371,59 +370,69 @@ Grade 3 or higher adverse reactions were reported in 76% of patients. The most c
 
 Adverse reactions described in this section were identified in a total of 182 patients exposed to Tecartus in two multi-centre pivotal clinical studies, ZUMA-2 (n=82) and ZUMA-3 (n=100). These reactions are presented by system organ class and by frequency. Frequencies are defined as: very common ( ≥1 /10); common ( ≥1 /100 to &lt;1/10). Within each frequency grouping, adverse reactions are presented in the order of decreasing seriousness.
 
+<div style=\"page-break-after: always\"></div>
+
 Table 1 Adverse drug reactions identified with Tecartus
 
-| System Organ Class (SOC)             | Frequency                            | Adverse reactions                                                                       |
-|--------------------------------------|--------------------------------------|-----------------------------------------------------------------------------------------|
-| Infections and infestations          | Infections and infestations          | Infections and infestations                                                             |
-|                                      | Very common                          | Unspecified pathogen infections Bacterial infections Fungal infections Viral Infections |
-| Blood and lymphatic system disorders | Blood and lymphatic system disorders | Blood and lymphatic system disorders                                                    |
-|                                      | Very common                          | Leukopenia a Neutropenia a Lymphopenia a Thrombocytopenia a                             |
+| System Organ Class (SOC)                        | Frequency                                       | Adverse reactions                                                                                                     |
+|-------------------------------------------------|-------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
+| Infections and infestations                     | Infections and infestations                     | Infections and infestations                                                                                           |
+|                                                 | Very common                                     | Unspecified pathogen infections Bacterial infections Fungal infections Viral Infections                               |
+| Blood and lymphatic system disorders            | Blood and lymphatic system disorders            | Blood and lymphatic system disorders                                                                                  |
+|                                                 | Very common                                     | Leukopenia a Neutropenia a Lymphopenia a Thrombocytopenia a Anaemia a Febrile neutropenia                             |
+|                                                 | Common                                          | Coagulopathy                                                                                                          |
+| Immune system disorders                         | Immune system disorders                         | Immune system disorders                                                                                               |
+|                                                 | Very common                                     | Cytokine Release Syndrome b Hypogammaglobulinaemia                                                                    |
+|                                                 | Common                                          | Hypersensitivity Haemophagocytic lymphohistiocytosis                                                                  |
+| Metabolism and nutrition disorders              | Metabolism and nutrition disorders              | Metabolism and nutrition disorders                                                                                    |
+|                                                 | Very common                                     | Hypophosphataemia a Decreased appetite Hypomagnesaemia Hyperglycaemia a                                               |
+|                                                 | Common                                          | Hypoalbuminemia a Dehydration                                                                                         |
+| Psychiatric disorders                           | Psychiatric disorders                           | Psychiatric disorders                                                                                                 |
+|                                                 | Very common                                     | Delirium Anxiety Insomnia                                                                                             |
+| Nervous system disorders                        | Nervous system disorders                        | Nervous system disorders                                                                                              |
+|                                                 | Very common                                     | Encephalopathy Tremor Headache Immune effector cell-associated neurotoxicity syndrome (ICANS b, c ) Aphasia Dizziness |
+|                                                 | Common                                          | Neuropathy Seizures, including status epilepticus Ataxia Increased intracranial pressure                              |
+| Eye Disorders                                   | Eye Disorders                                   | Eye Disorders                                                                                                         |
+|                                                 |                                                 | Visual impairment                                                                                                     |
+| Common Cardiac disorders                        | Common Cardiac disorders                        | Common Cardiac disorders                                                                                              |
+|                                                 | Very common                                     | Tachycardias Bradycardias                                                                                             |
+|                                                 | Common                                          | Non-ventricular arrhythmias                                                                                           |
+| Vascular disorders                              | Vascular disorders                              | Vascular disorders                                                                                                    |
+|                                                 | Very common                                     | Hypotension Hypertension Haemorrhage                                                                                  |
+|                                                 | Common                                          | Thrombosis                                                                                                            |
+| Respiratory, thoracic and mediastinal disorders | Respiratory, thoracic and mediastinal disorders | Respiratory, thoracic and mediastinal disorders                                                                       |
+|                                                 | Very common                                     | Cough Dyspnoea Pleural effusion                                                                                       |
 
 <div style=\"page-break-after: always\"></div>
 
-| System Organ Class (SOC)                         | Frequency                                        | Adverse reactions                                                                                                                |
-|--------------------------------------------------|--------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|
-| Immune system disorders                          | Immune system disorders                          | Immune system disorders                                                                                                          |
-|                                                  | Very common                                      | Cytokine Release Syndrome b Hypogammaglobulinaemia                                                                               |
-|                                                  | Common                                           | Hypersensitivity Haemophagocytic lymphohistiocytosis                                                                             |
-| Metabolism and nutrition disorders               | Metabolism and nutrition disorders               | Metabolism and nutrition disorders                                                                                               |
-|                                                  | Very common                                      | Hypophosphataemia a Decreased appetite Hypomagnesaemia Hyperglycaemia a                                                          |
-|                                                  | Common                                           | Hypoalbuminemia a                                                                                                                |
-| Dehydration Psychiatric disorders                | Dehydration Psychiatric disorders                | Dehydration Psychiatric disorders                                                                                                |
-|                                                  | Very common                                      | Delirium Anxiety Insomnia                                                                                                        |
-| Nervous system disorders                         | Nervous system disorders                         | Nervous system disorders                                                                                                         |
-|                                                  | Very common                                      | Encephalopathy Tremor Headache Immune effector cell-associated neurotoxicity syndrome (ICANS b, c ) Aphasia Dizziness Neuropathy |
-|                                                  | Common                                           | Seizures, including status epilepticus Ataxia Increased intracranial pressure                                                    |
-| Cardiac disorders                                | Cardiac disorders                                | Cardiac disorders                                                                                                                |
-|                                                  | Very common                                      | Tachycardias Bradycardias                                                                                                        |
-|                                                  | Common                                           | Non-ventricular arrhythmias                                                                                                      |
-| Vascular disorders                               | Vascular disorders                               | Vascular disorders                                                                                                               |
-|                                                  | Very common Common                               | Hypotension Hypertension Haemorrhage Thrombosis                                                                                  |
-|                                                  | Common                                           | Respiratory failure                                                                                                              |
-| Pulmonary oedema Gastrointestinal disorders      | Pulmonary oedema Gastrointestinal disorders      | Pulmonary oedema Gastrointestinal disorders                                                                                      |
-|                                                  | Very common                                      | Nausea Diarrhoea Constipation Abdominal pain Vomiting Oral pain                                                                  |
-|                                                  | Common                                           | Dry mouth                                                                                                                        |
-| Dysphagia Skin and subcutaneous tissue disorders | Dysphagia Skin and subcutaneous tissue disorders | Dysphagia Skin and subcutaneous tissue disorders                                                                                 |
-|                                                  | Very common                                      | Rash Skin disorder                                                                                                               |
+| System Organ Class (SOC)                                                                                                                             | Frequency                                                                                                                                            | Adverse reactions                                                                                                                                                                   |
+|------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                                                                                                                                                      |                                                                                                                                                      | Hypoxia                                                                                                                                                                             |
+|                                                                                                                                                      | Common                                                                                                                                               | Respiratory failure Pulmonary oedema                                                                                                                                                |
+| Gastrointestinal disorders                                                                                                                           | Gastrointestinal disorders                                                                                                                           | Gastrointestinal disorders                                                                                                                                                          |
+|                                                                                                                                                      | Very common                                                                                                                                          | Nausea Diarrhoea Constipation Abdominal pain Vomiting Oral pain                                                                                                                     |
+|                                                                                                                                                      | Common                                                                                                                                               | Dry mouth Dysphagia                                                                                                                                                                 |
+| Skin and subcutaneous tissue disorders                                                                                                               | Skin and subcutaneous tissue disorders                                                                                                               | Skin and subcutaneous tissue disorders                                                                                                                                              |
+|                                                                                                                                                      | Very common                                                                                                                                          | Rash Skin disorder                                                                                                                                                                  |
+| Musculoskeletal and connective tissue disorders                                                                                                      | Musculoskeletal and connective tissue disorders                                                                                                      | Musculoskeletal and connective tissue disorders                                                                                                                                     |
+|                                                                                                                                                      | Very common                                                                                                                                          | Musculoskeletal pain Motor dysfunction                                                                                                                                              |
+| Renal and urinary disorders                                                                                                                          | Renal and urinary disorders                                                                                                                          | Renal and urinary disorders                                                                                                                                                         |
+|                                                                                                                                                      | Very common                                                                                                                                          | Renal insufficiency                                                                                                                                                                 |
+|                                                                                                                                                      | Common                                                                                                                                               | Urine output decreased                                                                                                                                                              |
+| General disorders and administration site conditions                                                                                                 | General disorders and administration site conditions                                                                                                 | General disorders and administration site conditions                                                                                                                                |
+|                                                                                                                                                      | Very common                                                                                                                                          | Oedema Fatigue Pyrexia Pain Chills                                                                                                                                                  |
+|                                                                                                                                                      | Common                                                                                                                                               | Infusion related reaction                                                                                                                                                           |
+| Investigations                                                                                                                                       | Investigations                                                                                                                                       | Investigations                                                                                                                                                                      |
+|                                                                                                                                                      | Very common                                                                                                                                          | Alanine aminotransferase increased a Blood uric acid increased a Aspartate aminotransferase increased a Hypocalcaemia a Hyponatraemia a Direct bilirubin increased a Hypokalaemia a |
+| Common Bilirubin increased Only cytopenias that resulted in (i) new or worsening clinical sequelae or (ii) that required therapy or (iii) adjustment | Common Bilirubin increased Only cytopenias that resulted in (i) new or worsening clinical sequelae or (ii) that required therapy or (iii) adjustment | Common Bilirubin increased Only cytopenias that resulted in (i) new or worsening clinical sequelae or (ii) that required therapy or (iii) adjustment                                |
 
-<div style=\"page-break-after: always\"></div>
+Only cytopenias that resulted in (i) new or worsening clinical sequelae or (ii) that required therapy or (iii) adjustment in current therapy are included in Table 1 .
 
-| System Organ Class (SOC)                             | Frequency                                            | Adverse reactions                                                                                                                                                                   |
-|------------------------------------------------------|------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Musculoskeletal and connective tissue disorders      | Musculoskeletal and connective tissue disorders      | Musculoskeletal and connective tissue disorders                                                                                                                                     |
-|                                                      | Very common                                          | Musculoskeletal pain Motor dysfunction                                                                                                                                              |
-| Renal and urinary disorders                          | Renal and urinary disorders                          | Renal and urinary disorders                                                                                                                                                         |
-|                                                      | Very common                                          | Renal insufficiency                                                                                                                                                                 |
-|                                                      | Common                                               | Urine output decreased                                                                                                                                                              |
-| General disorders and administration site conditions | General disorders and administration site conditions | General disorders and administration site conditions                                                                                                                                |
-|                                                      | Very common                                          | Oedema Fatigue Pyrexia Pain Chills                                                                                                                                                  |
-|                                                      | Common                                               | Infusion related reaction                                                                                                                                                           |
-| Eye Disorders                                        | Eye Disorders                                        | Eye Disorders                                                                                                                                                                       |
-|                                                      | Common                                               | Visual impairment                                                                                                                                                                   |
-| Investigations                                       | Investigations                                       | Investigations                                                                                                                                                                      |
-|                                                      | Very common                                          | Alanine aminotransferase increased a Blood uric acid increased a Aspartate aminotransferase increased a Hypocalcaemia a Hyponatraemia a Direct bilirubin increased a Hypokalaemia a |
-|                                                      | Common                                               | Bilirubin increased a                                                                                                                                                               |
+a  Frequency based on Grade 3 or higher laboratory parameter.
+
+b  See section Description of selected adverse reactions .
+
+c  The frequency of ICANS has been estimated from events reported in the post-marketing setting. ZUMA-2 data cutoff: 24 July 2021; ZUMA-3 data cutoff: 23 July 2021
 
 ## Description of selected adverse reactions from ZUMA-2 and ZUMA-3 (n=182), and from post marketing reporting
 
@@ -433,15 +442,13 @@ CRS occurred in 91% of patients. Twenty percent (20%) of patients experienced Gr
 
 The most common signs or symptoms associated with CRS among the patients who experienced CRS included pyrexia (94%), hypotension (64%), hypoxia (32%), chills (31%), tachycardia (27%), sinus tachycardia (23%), headache (22%), fatigue (16%), and nausea (13%). Serious adverse reactions that may be associated with CRS included hypotension (22%), pyrexia (15%), hypoxia (9%), tachycardia (3%), dyspnoea (2%) and sinus tachycardia (2%). See section 4.4 for monitoring and management guidance.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Neurologic events and adverse reactions
 
 Neurologic adverse reactions occurred in 69% of patients. Thirty-two percent (32%) of patients experienced Grade 3 or higher (severe or life-threatening) adverse reactions. The median time to onset was 7 days (range: 1 to 262 days). Neurologic events resolved for 113 out of 125 patients (90.4%) with a median duration of 12 days (range: 1 to 708 days). Three patients had ongoing neurologic events at the time of death, including one patient with the reported event of serious encephalopathy and another patient with the reported event of serious confusional state. The remaining unresolved neurologic events were Grade 2. Ninety-three percent of all treated patients experienced the first CRS or neurological event within the first 7 days after Tecartus infusion.
 
-The most common neurologic adverse reactions including ICANS represented tremor (32%), confusional state (27%), encephalopathy (27%), aphasia (21%), and agitation (11%). Serious adverse
-
-<div style=\"page-break-after: always\"></div>
-
-reactions including encephalopathy (15%), aphasia (6%), confusional state (5%) and serious cases of cerebral oedema which may become fatal have occurred in patients treated with Tecartus. See section 4.4 for monitoring and management guidance.
+The most common neurologic adverse reactions including ICANS represented tremor (32%), confusional state (27%), encephalopathy (27%), aphasia (21%), and agitation (11%). Serious adverse reactions including encephalopathy (15%), aphasia (6%), confusional state (5%) and serious cases of cerebral oedema which may become fatal have occurred in patients treated with Tecartus. See section 4.4 for monitoring and management guidance.
 
 ## Febrile neutropenia and infections
 
@@ -465,6 +472,8 @@ The immunogenicity of Tecartus has been evaluated using an enzyme-linked immunos
 
 There have been cases of the following adverse effect(s) reported after treatment with other CAR Tcell products, which might also occur after treatment with Tecartus: secondary malignancy of T-cell origin.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Reporting of suspected adverse reactions
 
 Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
@@ -472,8 +481,6 @@ Reporting suspected adverse reactions after authorisation of the medicinal produ
 ## 4.9 Overdose
 
 There are no data regarding the signs of overdose with Tecartus.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 5. PHARMACOLOGICAL PROPERTIES
 
@@ -499,38 +506,36 @@ Translational analyses performed to identify associations between cytokine level
 
 The efficacy and safety of Tecartus in adult patients with relapsed or refractory MCL who had previously received anthracycline or bendamustine-containing chemotherapy, an anti CD20 antibody, and a Bruton's tyrosine kinase inhibitor (BTKi) (ibrutinib or acalabrutinib), was evaluated in a phase 2 single-arm, open-label, multi-centre trial. Eligible patients also had disease progression after last regimen or refractory disease to the most recent therapy. Patients with active or serious infections, prior allogeneic haematopoietic stem cell transplantation (HSCT), detectable cerebrospinal fluid malignant cells or brain metastases, and any history of CNS lymphoma or CNS disorders were ineligible. In ZUMA-2, a total of 74 patients were enrolled ( i.e. leukapheresed) and 68 of these patients were treated with Tecartus. Three patients did not receive Tecartus due to manufacturing failure. Two other patients were not treated due to progressive disease (death) following leukapheresis. One patient was not treated with Tecartus after receiving lymphodepleting chemotherapy due to ongoing active atrial fibrillation. The full analysis set (FAS) was defined as all patients who underwent leukapheresis. A summary of the patient baseline characteristics is provided in Table 2.
 
-## Table 2 Summary of baseline characteristics for ZUMA-2
-
-| Category          | All leukapheresed (FAS) (N=74)   |
-|-------------------|----------------------------------|
-| Age (years)       |                                  |
-| Median (min, max) | 65 (38, 79)                      |
-| ≥ 65              | 58%                              |
-
 <div style=\"page-break-after: always\"></div>
 
-| Category                                                                                                                     | All leukapheresed (FAS) (N=74)                                                                                               |
-|------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|
-| Male gender                                                                                                                  | 84%                                                                                                                          |
-| Median number of prior therapies (min, max)                                                                                  | 3 (1; 5)                                                                                                                     |
-| Relapsed/refractory subgroup                                                                                                 |                                                                                                                              |
-| Relapsed after auto-SCT                                                                                                      | 42%                                                                                                                          |
-| Refractory to last MCL therapy                                                                                               | 39%                                                                                                                          |
-| Relapsed after last MCL therapy                                                                                              | 19%                                                                                                                          |
-| Patients with disease stage IV                                                                                               | 86%                                                                                                                          |
-| Patients with bone marrow involvement                                                                                        | 51%                                                                                                                          |
-| Morphological characteristic                                                                                                 |                                                                                                                              |
-| Classical MCL                                                                                                                | 54%                                                                                                                          |
-| Blastoid MCL                                                                                                                 | 26%                                                                                                                          |
-| Other                                                                                                                        | 1%                                                                                                                           |
-| Unknown                                                                                                                      | 19%                                                                                                                          |
-| Received bridging therapy                                                                                                    |                                                                                                                              |
-| Yes                                                                                                                          | 38%                                                                                                                          |
-| No                                                                                                                           | 62%                                                                                                                          |
-| Ki-67 IHC by central laboratory                                                                                              |                                                                                                                              |
-| N                                                                                                                            | 49                                                                                                                           |
-| Median                                                                                                                       | 65%                                                                                                                          |
-| Auto-SCT, autologous stem cell transplant; IHC, immunohistochemistry; Max, maximum; MCL, mantle cell lymphoma; Min, minimum. | Auto-SCT, autologous stem cell transplant; IHC, immunohistochemistry; Max, maximum; MCL, mantle cell lymphoma; Min, minimum. |
+Table 2 Summary of baseline characteristics for ZUMA-2
+
+| Category                                    | All leukapheresed (FAS) (N=74)   |
+|---------------------------------------------|----------------------------------|
+| Age (years)                                 |                                  |
+| Median (min, max)                           | 65 (38, 79)                      |
+| ≥ 65                                        | 58%                              |
+| Male gender                                 | 84%                              |
+| Median number of prior therapies (min, max) | 3 (1; 5)                         |
+| Relapsed/refractory subgroup                |                                  |
+| Relapsed after auto-SCT                     | 42%                              |
+| Refractory to last MCL therapy              | 39%                              |
+| Relapsed after last MCL therapy             | 19%                              |
+| Patients with disease stage IV              | 86%                              |
+| Patients with bone marrow involvement       | 51%                              |
+| Morphological characteristic                |                                  |
+| Classical MCL                               | 54%                              |
+| Blastoid MCL                                | 26%                              |
+| Other                                       | 1%                               |
+| Unknown                                     | 19%                              |
+| Received bridging therapy                   |                                  |
+| Yes                                         | 38%                              |
+| No                                          | 62%                              |
+| Ki-67 IHC by central laboratory             |                                  |
+| N                                           | 49                               |
+| Median                                      | 65%                              |
+
+Auto-SCT, autologous stem cell transplant; IHC, immunohistochemistry; Max, maximum; MCL, mantle cell lymphoma; Min, minimum.
 
 Tecartus was administered to patients as a single intravenous infusion at a target dose of 2 × 10 6 anti-CD19 CAR T cells/kg (maximum permitted dose: 2 × 10 8 cells) after lymphodepleting chemotherapy regimen of cyclophosphamide 500 mg/m² intravenously and fludarabine 30 mg/m² intravenously, both given on the 5 th , 4 th , and 3 rd day before treatment. Bridging therapy between leukapheresis and lymphodepleting chemotherapy was permitted to control disease burden.
 
@@ -538,13 +543,13 @@ For patients treated with Tecartus, the median time from leukapheresis to produc
 
 The primary endpoint was objective response rate (ORR) as determined by Lugano 2014 criteria by an independent review committee. Secondary endpoints included duration of response (DOR), overall survival (OS), progression free survival (PFS) and severity of adverse events.
 
-For the primary analysis,  the analysis set was defined a priori which consisted of the first 60 patients treated with Tecartus who were evaluated for response 6 months after the Week 4 disease assessment after Tecartus infusion. In this analysis set of 60 patients the ORR was 93% with a CR rate of 67%. The ORR was significantly higher than the prespecified historical control rate of 25% at a 1-sided significance level of 0.025 (p &lt; 0.0001).
+For the primary analysis, the analysis set was defined a priori which consisted of the first 60 patients treated with Tecartus who were evaluated for response 6 months after the Week 4 disease assessment after Tecartus infusion. In this analysis set of 60 patients the ORR was 93% with a CR rate of 67%. The ORR was significantly higher than the prespecified historical control rate of 25% at a 1-sided significance level of 0.025 (p &lt; 0.0001).
+
+<div style=\"page-break-after: always\"></div>
 
 The updated 24-month follow-up analyses of efficacy were conducted using the modified intent to treat (mITT) analysis set, which consisted of 68 patients treated with Tecartus. In the 24-month follow up analysis, the ORR and CR rates in the 68 patients in the mITT analysis set were 91% and 68% respectively.
 
 Results in the FAS from both the primary analysis and 24-month follow-up analysis are shown in Table 3.
-
-<div style=\"page-break-after: always\"></div>
 
 Table 3 Summary of efficacy results for ZUMA-2
 
@@ -561,13 +566,17 @@ Table 3 Summary of efficacy results for ZUMA-2
 | Progression free survival                      |                                      |                                      |
 | Median, months [95% CI]                        | 16.2 [9.9, NE]                       | 24.0 (10.1, 48.2)                    |
 
-- a Of the 74 patients that were enrolled ( i.e. leukapheresed), 69 patients received lymphodepleting chemotherapy, and 68 patients received Tecartus.
-- b Among all responders. DOR is measured from the date of first objective response to the date of progression or death. c A + sign indicates a censored value.
-- d At the data cutoff date. Percentages are calculated using the total number of patients in the analysis set as the denominator.
+b Among all responders. DOR is measured from the date of first objective response to the date of progression or death.
+
+c A + sign indicates a censored value.
+
+d At the data cutoff date. Percentages are calculated using the total number of patients in the analysis set as the denominator.
 
 Figure 1 Kaplan Meier DOR in the FAS
 
 <!-- image -->
+
+<div style=\"page-break-after: always\"></div>
 
 ## Paediatric population
 
@@ -575,39 +584,36 @@ The European Medicines Agency has waived the obligation to submit the results of
 
 ## Relapsed or refractory B-cell precursor ALL: ZUMA-3
 
-A Phase 2, open-label, multicenter trial evaluated the efficacy and safety of Tecartus in adult patients with relapsed or refractory B-precursor ALL. Relapsed or refractory was defined as one of the following: primary refractory; first relapse following a remission lasting ≤ 12 months; relapsed or refractory after second-line or higher therapy; relapsed or refractory after allogeneic stem cell transplant (allo-SCT) (provided the transplant occurred ≥ 100 days prior to enrollment and that no immunosuppressive medications were taken ≤ 4 weeks prior to enrollment). The study excluded patients with active or serious infections, active graft-vs-host disease, and any history of CNS
-
-<div style=\"page-break-after: always\"></div>
-
-disorders. Patients with CNS-2 disease without clinically evident neurologic changes were eligible. In ZUMA-3 Phase 2, a total of 71 patients were enrolled (i.e. leukapheresed) and 55 patients were treated with Tecartus. Six patients did not receive Tecartus due to manufacturing failure. Eight other patients were not treated, primarily due to AEs following leukapheresis. Two patients who underwent leukapheresis and received lymphodepleting chemotherapy were not treated with Tecartus; one patient experienced bacteremia and neutropenic fever and the other patient did not meet eligibility criteria after lymphodepleting chemotherapy. The FAS included all patients who underwent leukapheresis and the modified intent to treat (mITT) analysis set includes all patients leukapheresed and treated with Tecartus in Phase 2. A summary of patient baseline characteristics is provided in Table 4.
+A Phase 2, open-label, multicenter trial evaluated the efficacy and safety of Tecartus in adult patients with relapsed or refractory B-precursor ALL. Relapsed or refractory was defined as one of the following: primary refractory; first relapse following a remission lasting ≤ 12 months; relapsed or refractory after second-line or higher therapy; relapsed or refractory after allogeneic stem cell transplant (allo-SCT) (provided the transplant occurred ≥ 100 days prior to enrollment and that no immunosuppressive medications were taken ≤ 4 weeks prior to enrollment). The study excluded patients with active or serious infections, active graft-vs-host disease, and any history of CNS disorders. Patients with CNS-2 disease without clinically evident neurologic changes were eligible. In ZUMA-3 Phase 2, a total of 71 patients were enrolled (i.e. leukapheresed) and 55 patients were treated with Tecartus. Six patients did not receive Tecartus due to manufacturing failure. Eight other patients were not treated, primarily due to AEs following leukapheresis. Two patients who underwent leukapheresis and received lymphodepleting chemotherapy were not treated with Tecartus; one patient experienced bacteremia and neutropenic fever and the other patient did not meet eligibility criteria after lymphodepleting chemotherapy. The FAS included all patients who underwent leukapheresis and the modified intent to treat (mITT) analysis set includes all patients leukapheresed and treated with Tecartus in Phase 2. A summary of patient baseline characteristics is provided in Table 4.
 
 Table 4 Summary of baseline characteristics for ZUMA-3 Phase 2
 
-| Category                                               | All leukapheresed (FAS) (N=71)   | All treated (mITT) (N=55)   |
-|--------------------------------------------------------|----------------------------------|-----------------------------|
-| Age (years)                                            |                                  |                             |
-| Median (min, max)                                      | 44 (19 to 84)                    | 40 (19 to 84)               |
-| Male gender                                            | 58%                              | 60%                         |
-| White ethnicity                                        | 72%                              | 67%                         |
-| Primary refractory disease                             | 30%                              | 33%                         |
-| Relapsed/refractory disease after ≥ 2 lines of therapy | 76%                              | 78%                         |
-| First relapse if first remission ≤ 12 months           | 28%                              | 29%                         |
-| Number of Lines of Prior Therapy                       |                                  |                             |
-| Median (min, max)                                      | 2 (1 to 8)                       | 2 (1 to 8)                  |
-| ≥ 3                                                    | 48%                              | 47%                         |
-| Prior Therapies                                        |                                  |                             |
-| Allo-SCT                                               | 39%                              | 42%                         |
-| Blinatumomab                                           | 46%                              | 45%                         |
-| Inotuzumab                                             | 23%                              | 22%                         |
-| Philadelphia chromosome (Ph + )                        | 27%                              | 27%                         |
+| Category                                                             | All leukapheresed (FAS) (N=71)                                       | All treated (mITT) (N=55)                                            |
+|----------------------------------------------------------------------|----------------------------------------------------------------------|----------------------------------------------------------------------|
+| Age (years)                                                          |                                                                      |                                                                      |
+| Median (min, max)                                                    | 44 (19 to 84)                                                        | 40 (19 to 84)                                                        |
+| Male gender                                                          | 58%                                                                  | 60%                                                                  |
+| White ethnicity                                                      | 72%                                                                  | 67%                                                                  |
+| Primary refractory disease                                           | 30%                                                                  | 33%                                                                  |
+| Relapsed/refractory disease after ≥ 2 lines of therapy               | 76%                                                                  | 78%                                                                  |
+| First relapse if first remission ≤ 12 months                         | 28%                                                                  | 29%                                                                  |
+| Number of Lines of Prior Therapy                                     |                                                                      |                                                                      |
+| Median (min, max)                                                    | 2 (1 to 8)                                                           | 2 (1 to 8)                                                           |
+| ≥ 3                                                                  | 48%                                                                  | 47%                                                                  |
+| Prior Therapies                                                      |                                                                      |                                                                      |
+| Allo-SCT                                                             | 39%                                                                  | 42%                                                                  |
+| Blinatumomab                                                         | 46%                                                                  | 45%                                                                  |
+| Inotuzumab                                                           | 23%                                                                  | 22%                                                                  |
+| Philadelphia chromosome (Ph + )                                      | 27%                                                                  | 27%                                                                  |
+| Allo-SCT, allogenic stem cell transplant; Max, maximum; Min, minimum | Allo-SCT, allogenic stem cell transplant; Max, maximum; Min, minimum | Allo-SCT, allogenic stem cell transplant; Max, maximum; Min, minimum |
 
 Following lymphodepleting chemotherapy, Tecartus was administered to patients as a single intravenous infusion at a target dose of 1 × 10 6 anti-CD19 CAR T cells/kg (maximum permitted dose: 1 × 10 8 cells). The lymphodepleting regimen consisted of cyclophosphamide 900 mg/m 2 intravenously over 60 mins on the 2 nd day before Tecartus infusion and fludarabine 25 mg/m 2 intravenously over 30 mins on the 4 th , 3 rd , and 2 nd day before Tecartus infusion. Of the 55 patients who received Tecartus, 51 patients received bridging therapy between leukapheresis and lymphodepleting chemotherapy to control disease burden.
+
+<div style=\"page-break-after: always\"></div>
 
 The median time from leukapheresis to product delivery was 16 days (range: 11 to 42 days) and the median time from leukapheresis to Tecartus infusion was 29 days (range: 20 to 60 days). The median dose was 1.0 × 10 6 anti-CD19 CAR T cells/kg. All patients received Tecartus infusion on day 0 and were hospitalized until day 7 at the minimum.
 
 The primary endpoint was overall complete remission rate (OCR) (complete remission [CR] + complete remission with incomplete hematologic recovery [CRi]) in patients treated with Tecartus as determined by an independent review. In the 55 patients treated with Tecartus (mITT), the OCR rate was 70.9% with a CR rate of 56.4% (Table 5), which was significantly greater than the prespecified control rate of 40%. Among the 39 patients who achieved a CR or CRi, the median time to response was 1.1 months (range: 0.85 to 2.99 months).
-
-<div style=\"page-break-after: always\"></div>
 
 All treated patients had potential follow-up for ≥ 18 months with a median follow-up time of 20.5 months (95% CI: 0.3, 32.6 months) and a median follow-up time for OS of 24.0 months (95% CI: 23.3, 24.6).
 
@@ -620,20 +626,25 @@ Table 5 Summary of efficacy results for ZUMA3 Phase 2
 | Minimal Residual Disease (MRD) negative rate among OCR (CR or CRi) patients, n (%) | n = 39 38 (97%)                  | n = 39 38 (97%)                  |
 | Duration of Remission, median in months [95% CI] b Median range in months          | 14.6 [9.4, NE] c (0.03+, 24.08+) | 14.6 [9.4, NE] c (0.03+, 24.08+) |
 
-- a. Of the 71 patients that were enrolled (and leukapheresed), 57 patients received conditioning chemotherapy, and 55 patients received Tecartus.
-- b. Subjects were censored at their last evaluable disease assessment before initiation of a new anticancer therapy (excluding resumption of a tyrosine kinase inhibitor) or allo-SCT to exclude any contribution that the new therapy might have on DOR that could confound the contribution of KTE-X19. The results of the analyses that did not censor for subsequent allo-SCT or the initiation of new anti-cancer therapy were consistent with the analyses that did censor the events.
-- c. The duration of remission was defined only for subjects achieving an OCR, therefore the results of the analysis in the FAS and mITT were identical.
-- a. The DOR was defined only for subjects achieving an OCR, therefore the results of the analysis in the FAS and mITT were identical.
+CI, confidence interval; CR, complete remission; NE, not estimable
+
+a. Of the 71 patients that were enrolled (and leukapheresed), 57 patients received conditioning chemotherapy, and 55 patients received Tecartus.
+
+b. Subjects were censored at their last evaluable disease assessment before initiation of a new anticancer therapy (excluding resumption of a tyrosine kinase inhibitor) or allo-SCT to exclude any contribution that the new therapy might have on DOR that could confound the contribution of KTE-X19. The results of the analyses that did not censor for subsequent allo-SCT or the initiation of new anti-cancer therapy were consistent with the analyses that did censor the events.
+
+c. The duration of remission was defined only for subjects achieving an OCR, therefore the results of the analysis in the FAS and mITT were identical.
+
+<div style=\"page-break-after: always\"></div>
 
 Figure 2 Kaplan Meier DOR in the mITT Analysis Set a
 
 <!-- image -->
 
+- a. The DOR was defined only for subjects achieving an OCR, therefore the results of the analysis in the FAS and mITT were identical.
+
 ## Paediatric population
 
 The European Medicines Agency has deferred the obligation to submit the results of studies with Tecartus in one or more subsets of the B-cell ALL paediatric population and waived the obligation to submit the results of studies with Tecartus for the treatment of ALL in the paediatric population weighing less than 6kg. See section 4.2 for information on paediatric use.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Conditional Approval
 
@@ -651,11 +662,13 @@ Following infusion of 2 × 10 6 anti-CD19 CAR T cells/kg of Tecartus in ZUMA-2, 
 
 Among patients with MCL, the number of anti-CD19 CAR T cells in blood was associated with objective response (CR or PR) (Table 6).
 
+<div style=\"page-break-after: always\"></div>
+
 Table 6 Summary of brexucabtagene autoleucel pharmacokinetics in ZUMA-2
 
 | Number of anti-CD19 CAR T cell               | Responding patients (CR or PR) (N=63)   | Non-responding patients (N=5)   |   P-Value |
 |----------------------------------------------|-----------------------------------------|---------------------------------|-----------|
-| Peak (cells/μL) Median [min; max], n         | 97.52 [0.24, 2 589.47], 62              | 0.39 [0.16, 22.02], 5           |    0.002  |
+| Peak (cells/μL) Median [min; max], n         | 97.52 [0.24, 2 589.47], 62              | 0.39 [0.16, 22.02], 5           |    0.0020 |
 | AUC 0-28 (cells/μL·day) Median [min; max], n | 1 386.28 [3.83 to 2.77 × 10 4 ], 62     | 5.51 [1.81, 293.86], 5          |    0.0013 |
 
 P-value is calculated by Wilcoxon test
@@ -668,14 +681,14 @@ Following infusion of a target dose of 1 × 10 6 anti-CD19 CAR T cells/kg of Tec
 
 A summary of the Tecartus pharmacokinetics over time, based on central assessment by overall response, is provided in Table 7.
 
-Table 7 Summary of brexucabtagene autoleucel pharmacokinetics in  ZUMA-3 Phase 2
+Table 7 Summary of brexucabtagene autoleucel pharmacokinetics in ZUMA-3 Phase 2
 
 | Number of anti-CD19 CAR T cell               | Patients with overall complete remission (CR/CRi) (N=39)   | Patients with non- complete remission a (N=16)   | P-Value   |
 |----------------------------------------------|------------------------------------------------------------|--------------------------------------------------|-----------|
 | Peak (cells/μL) Median [min; max], n         | 38.35 [1.31, 1 533.4], 36 b                                | 0.49 [0.00, 183.50], 14 b                        | 0.0001 c  |
 | AUC 0-28 (cells/μL·day) Median [min; max], n | 424.03 [14.12 to 19 390.42], 36 b                          | 4.12 [0.00, 642.25], 14 b                        | 0.0001 c  |
 
-<div style=\"page-break-after: always\"></div>
+- c. .Pvalue is calculated by Wilcoxon test
 
 Median peak anti-CD19 CAR T-cell values were 34.8 cells/μL in ALL patients ≥65 years of age (n=8) and 17.4 cells/μL in ALL patients &lt;65 years of age (n=47). Median anti-CD19 CAR T-cell AUC values were 425.0 cells/μL∙day in ALL patients ≥65 years of age and 137.7 cells/μL∙day in ALL patients &lt;65 years of age.
 
@@ -688,6 +701,8 @@ Studies of Tecartus in patients with hepatic and renal impairment were not condu
 Tecartus comprises engineered human T cells; therefore, there are no representative in vitro assays, ex vivo models, or in vivo models that can accurately address the toxicological characteristics of the human product. Hence, traditional toxicology studies used for medicinal product development were not performed.
 
 No carcinogenicity or genotoxicity studies have been conducted.
+
+<div style=\"page-break-after: always\"></div>
 
 No studies have been conducted to evaluate the effects of this treatment on fertility, reproduction, and development.
 
@@ -713,11 +728,9 @@ Tecartus must be stored at ≤ -120 °C and must remain frozen until the patient
 
 Tecartus may be stored a single time at -80 °C (± 10 °C), for up to 90 days. After storage at -80 °C (± 10 °C), the product must be used within the 90-day period or the labelled expiration date, whichever comes first. After these dates, the product must not be used and must be discarded.
 
-Thawed product must not be refrozen.
+Thawed medicinal product must not be refrozen.
 
 For storage conditions after thawing of the medicinal product, see section 6.3.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 6.5 Nature and contents of container and special equipment for use, administration or implantation
 
@@ -729,11 +742,13 @@ One cryostorage bag is individually packed in a shipping metal cassette.
 
 Irradiation could lead to inactivation of the product.
 
-## Precautions to be taken before handling or administering the medicinal product
+Precautions to be taken before handling or administering the medicinal product
 
 Tecartus must be transported within the facility in closed, break-proof, leak-proof containers.
 
 This medicinal product contains human blood cells. Healthcare professionals handling Tecartus must take appropriate precautions (wearing gloves and eye protection) to avoid potential transmission of infectious diseases.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Preparation prior to administration
 
@@ -756,9 +771,6 @@ This medicinal product contains human blood cells. Healthcare professionals hand
 - A leukodepleting filter must not be used.
 - Central venous access is recommended for the administration of Tecartus.
 - Verify the patient ID again to match the patient identifiers on the Tecartus infusion bag.
-
-<div style=\"page-break-after: always\"></div>
-
 - Prime the tubing with sodium chloride 9 mg/mL (0.9%) solution for injection (0.154 mmol sodium per mL) prior to infusion.
 - Infuse the entire content of the Tecartus infusion bag within 30 minutes by either gravity or a peristaltic pump.
 - Gently agitate the infusion bag during infusion to prevent cell clumping.
@@ -771,6 +783,8 @@ Unused medicinal product and all material that has been in contact with Tecartus
 ## Accidental exposure
 
 In case of accidental exposure to Tecartus local guidelines on handling of human-derived material must be followed. Work surfaces and materials which have potentially been in contact with Tecartus must be decontaminated with appropriate disinfectant.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
@@ -788,7 +802,7 @@ Date of latest renewal: 17 November 2025
 
 ## 10. DATE OF REVISION OF THE TEXT
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu.
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -864,14 +878,13 @@ The MAH shall ensure that in each Member State where Tecartus is marketed, all H
 - -before treating a patient, ensure that at least 1 dose of tocilizumab for each patient is available on site. The qualified treatment centre must have access to additional doses of tocilizumab within 8 hours; in the exceptional case where tocilizumab is not available due to a shortage that is listed in the European Medicines Agency shortage catalogue, ensure that suitable alternative measures to treat CRS are available on site
 - -inform on the risk of secondary malignancy of T-cell origin
 
-## Patient Educational program
+## Patient Card
 
 To inform and explain to patients:
 
 - -the risks of CRS and serious neurologic adverse reactions, associated with Tecartus
 - -the need to report the symptoms to their treating doctor immediately
-- -the need to remain in the proximity of the location where Tecartus was received for at least 4 weeks following Tecartus infusion
-- -the need to carry the patient alert card at all times
+- -the need to carry the patient card at all times
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1015,8 +1028,6 @@ Not applicable.
 
 Not applicable.
 
-31
-
 <div style=\"page-break-after: always\"></div>
 
 ## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
@@ -1109,7 +1120,7 @@ The white blood cells are taken from your blood and are genetically modified so 
 
 Tecartus is made from your own white blood cells and must only be given to you ( autologous use ).
 
-Patients treated with Tecartus may develop new types of cancers. There have been reports of patients developing cancer, beginning in a type of white blood cells called T-cells, after treatment with other similar medicines. Talk to your doctor if you experience any new swelling of your glands (lymph nodes) or changes in your skin such as new rashes or lumps.
+Patients treated with Tecartus may develop new types of cancers. There have been reports of patients developing cancer, beginning in blood cells, after treatment with Tecartus and similar medicines. Talk to your doctor if you experience any new swelling of your glands (lymph nodes) or changes in your skin such as new rashes or lumps.
 
 ## Tests and checks
 
@@ -1175,9 +1186,9 @@ Discuss pregnancy with your doctor if you have received Tecartus.
 
 ## Driving and using machines
 
-Tecartus can cause problems such as altered or decreased consciousness, confusion and seizures (fits) in the 8 weeks after it is given.
+Tecartus can cause problems such as altered or decreased consciousness, confusion and seizures (fits) in the first few weeks after it is given.
 
-Do not drive, use machines, or take part in activities that need you to be alert for at least 8 weeks after your Tecartus treatment or until your doctor tells you that you have completely recovered.
+Do not drive, use machines, or take part in activities that need you to be alert for at least 4 weeks after your Tecartus treatment or until your doctor tells you that you have completely recovered.
 
 ## Tecartus contains sodium, dimethylsulfoxide (DMSO) and gentamicin
 
@@ -1211,13 +1222,15 @@ Tecartus will always be given to you by a doctor in a qualified treatment centre
 
 ## After you are given Tecartus
 
-- You must stay within proximity of a hospital as discussed with your doctor for at least 4 weeks after you have been given Tecartus. Your doctor will recommend that you return to the hospital daily for at least 7 days or that you stay at the hospital as an in-patient for the first 7 days after Tecartus treatment. This is so your doctor can check if your treatment is working and help you if you have any side effects.
+- Your doctor will recommend that you return to the hospital daily for at least 7 days or that you stay at the hospital as an in-patient for the first 7 days after Tecartus treatment. This is so your doctor can help you if you have any side effects. You must stay within proximity of a hospital as discussed with your doctor for at least 2 weeks after you have been given Tecartus.
 
 If you miss any appointments, call your doctor or your treatment centre as soon as possible to reschedule your appointment.
 
 ## 4. Possible side effects
 
 Like all medicines, this medicine can cause side effects, although not everybody gets them. Do not try to treat your side effects on your own.
+
+## Serious side effects
 
 Tecartus can cause side effects that may be serious or life-threatening. Get urgent medical attention if you get any of the following side effects after the Tecartus infusion.
 
@@ -1299,7 +1312,7 @@ Do not use this medicine after the expiry date which is stated on the container 
 
 Store frozen at ≤ -120 °C until thawed for use.
 
-Tecartus may be stored a single time at -80°C (± 10 °C), for up to 90 days. After storage at  -80 °C (± 10 °C), use the product within the 90-day period or the expiry date, whichever comes first. After these dates the product must be discarded.
+Tecartus may be stored a single time at -80 °C (± 10 °C), for up to 90 days. After storage at -80 °C (± 10 °C), use the product within the 90-day period or the expiry date, whichever comes first. After these dates the product must be discarded.
 
 Do not refreeze.
 
@@ -1339,7 +1352,9 @@ Gilead Sciences Ireland UC Тел .: + 353 (0) 1 686 1888
 
 ## Česká republika
 
-Gilead Sciences s.r.o. Tel: + 420 910 871 986
+Gilead Sciences s.r.o.
+
+Tel: + 420 910 871 986
 
 ## Danmark
 
@@ -1395,15 +1410,13 @@ Gilead Sciences GesmbH Tel: + 43 1 260 830
 
 Gilead Sciences Poland Sp. z o.o. Tel: + 48 22 262 8702
 
-<div style=\"page-break-after: always\"></div>
-
 ## France
-
-## Portugal
 
 Gilead Sciences
 
 Tél : + 33 (0) 1 46 09 41 00
+
+## Portugal
 
 Gilead Sciences, Lda.
 
@@ -1463,9 +1476,7 @@ Gilead Sciences Sweden AB Tel: + 46 (0) 8 5057 1849
 
 Gilead Sciences Poland Sp. z o.o. Tel: + 48 22 262 8702
 
-## United Kingdom (Northern Ireland)
-
-Gilead Sciences Ireland UC Tel: + 44 (0) 8000 113700
+<div style=\"page-break-after: always\"></div>
 
 ## This leaflet was last revised in
 
@@ -1477,7 +1488,7 @@ The European Medicines Agency will review new information on this medicine at le
 
 ## Other sources of information
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu. There are also links to other websites about rare diseases and treatments.
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu. There are also links to other websites about rare diseases and treatments.
 
 &lt;------------------------------------------------------------------------------------------------------------------------&gt;
 
@@ -1524,10 +1535,10 @@ Do NOT use a leukodepleting filter.
 
 - Sterile sodium chloride 9 mg/mL (0.9%) (0.154 mmol sodium per mL) solution for injection must be used to prime the tubing prior to infusion as well as rinse it afterwards. When the full volume of Tecartus has been infused, the infusion bag must be rinsed with 10 to 30 mL sodium chloride 9 mg/mL (0.9%) solution for injection by back priming to ensure as many cells as possible are infused into the patient.
 
+## Measures to take in case of accidental exposure
+
+In case of accidental exposure, local guidelines on handling of human-derived material must be followed. Work surfaces and material which have potentially been in contact with Tecartus must be decontaminated with appropriate disinfectant.
+
 ## Precautions to be taken for the disposal of the medicinal product
 
 Unused medicinal product and any waste material that has been in contact with Tecartus (solid and liquid waste) must be handled and disposed of as potentially infectious waste in accordance with local guidelines on handling of waste of human-derived material.
-
-## Accidental exposure
-
-In case of accidental exposure, local guidelines on handling of human-derived material must be followed which may include washing of the contaminated skin, removal of contaminated clothes. Work surfaces and material which have potentially been in contact with Tecartus must be decontaminated with appropriate disinfectant.

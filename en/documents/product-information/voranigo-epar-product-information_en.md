@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-03-18 16:33:55
-document_pages: 36
+document_datetime: 2026-05-19 10:55:01
+document_pages: 37
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/voranigo-epar-product-information_en.pdf
 document_name: voranigo-epar-product-information_en.pdf
 version: success
-processing_time: 24.7833817
-conversion_datetime: 2026-03-21 13:22:46.773472
+processing_time: 15.6357252
+conversion_datetime: 2026-05-22 23:13:59.342865
 docling_version:
-  docling-serve: 1.14.3
-  docling-jobkit: 1.13.0
-  docling: 2.81.0
-  docling-core: 2.70.2
-  docling-ibm-models: 3.12.0
-  docling-parse: 5.6.0
+  docling-serve: 1.20.0
+  docling-jobkit: 1.20.0
+  docling: 2.95.0
+  docling-core: 2.77.0
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.11.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -56,11 +56,11 @@ Film-coated tablet
 
 Voranigo 10 mg film-coated tablets
 
-White to off-white, round tablets with a 6 mm diameter, imprinted with ' 10 ' on one side.
+White to off-white, round tablets with a 6 mm diameter, imprinted with '10' on one side.
 
-## Voranigo 40 mg film-coated tablets
+Voranigo 40 mg film-coated tablets
 
-White to off-white, oblong tablets with a length of 14.8 mm and width of 6.3 mm, imprinted with ' 4 0' on one side.
+White to off-white, oblong tablets with a length of 14.8 mm and width of 6.3 mm, imprinted with '40' on one side.
 
 ## 4. CLINICAL PARTICULARS
 
@@ -122,9 +122,11 @@ Table 2: Recommended Voranigo dose modifications and management for adverse reac
 | Other adverse reactions                                    | Grade 3                                                                                                                            | First occurrence: Withhold Voranigo until recovery to ≤Grade 1 or baseline. • Resume Voranigo at reduced dose (see Table 1). Recurrence: Permanently discontinue Voranigo.                                                                                                                                                                                                                                              |
 | Other adverse reactions                                    | Grade 4                                                                                                                            | Permanently discontinue Voranigo.                                                                                                                                                                                                                                                                                                                                                                                       |
 
-Abbreviations: ALT = Alanine aminotransferase; AST = Aspartate aminotransferase; ULN = Upper limit of normal a  Adverse reactions graded by the National Cancer Institute Common Terminology Criteria for Adverse Events (NCI-CTCAE) version 5.0.
+Abbreviations: ALT = Alanine aminotransferase; AST = Aspartate aminotransferase; ULN = Upper limit of normal
 
-b  If an alternative aetiology is identified, consider resuming Voranigo at reduced dose (see Table 1) following resolution to Grade 1 or baseline.
+a  Adverse reactions graded by the National Cancer Institute Common Terminology Criteria for Adverse Events (NCI-CTCAE) version 5.0.
+
+b If an alternative aetiology is identified, consider resuming Voranigo at reduced dose (see Table 1) following resolution to Grade 1 or baseline.
 
 ## Special populations
 
@@ -136,7 +138,7 @@ No dose adjustment is recommended for patients ≥ 65 years of age (see section 
 
 ## Renal impairment
 
-No starting dose adjustment is recommended for patients with renal impairment (estimated glomerular filtration rate [eGFR] &gt; 40 mL/min/1.73 m 2 ). The pharmacokinetics of vorasidenib and metabolite AGI-69460 have not been studied in patients with eGFR ≤ 40 mL/min/1.73 m 2  or renal impairment requiring dialysis. Vorasidenib should not be used in patients with eGFR ≤ 40 mL/min/1.73 m 2  or who require dialysis (see sections 4.4 and 5.2).
+No starting dose adjustment is recommended for patients with renal impairment (estimated glomerular filtration rate [eGFR] &gt; 40 mL/min/1.73 m 2 ). The pharmacokinetics of vorasidenib and metabolite AGI-69460 have not been studied in patients with eGFR ≤ 40 mL/min/1.73 m 2 or renal impairment requiring dialysis. Vorasidenib should not be used in patients with eGFR ≤ 40 mL/min/1.73 m 2 or who require dialysis (see sections 4.4 and 5.2).
 
 ## Hepatic impairment
 
@@ -160,7 +162,7 @@ Hypersensitivity to the active substance or to any of the excipients listed in s
 
 ## Hepatotoxicity
 
-Elevations in liver enzymes, including alanine aminotransferase (ALT) and aspartate aminotransferase (AST) &gt; 3 times the upper limit of normal (ULN), with elevation in total bilirubin &gt; 2 times the ULN have been reported in patients treated with vorasidenib (see section 4.8). Hepatic failure and hepatic necrosis were observed in one patient treated with vorasidenib and autoimmune hepatitis was observed in one patient treated with vorasidenib.
+Drug-induced hepatotoxicity, including serious cases of hepatic failure, hepatic necrosis and hepatitis acute have been reported in patients treated with vorasidenib in the pivotal clinical study or in postmarketing experience (see section 4.8).
 
 Liver enzymes (including ALT, AST and gamma-glutamyl transferase (GGT)) and total bilirubin must be monitored prior to starting treatment, every 2 weeks during the first 2 months of treatment and then once monthly for the first 2 years of treatment, and as clinically indicated thereafter. Consider weekly monitoring for ALT or AST elevations ≤ 3 times the ULN. Withhold, reduce dose or permanently discontinue treatment based on the severity of the liver enzyme abnormalities (see section 4.2).
 
@@ -182,7 +184,7 @@ Males with female partners of childbearing potential should use effective contra
 
 ## Hepatic impairment
 
-The safety and efficacy of vorasidenib have not been established in patients with severe hepatic impairment (Child-Pugh classes C) . Vorasidenib should be used with caution in patients with pre-existing severe hepatic impairment (Child-Pugh class C) and and this patient population should be closely monitored (see sections 4.2 and 5.2).
+The safety and efficacy of vorasidenib have not been established in patients with severe hepatic impairment (Child-Pugh class C). Vorasidenib should be used with caution in patients with pre-existing severe hepatic impairment (Child-Pugh class C) and this patient population should be closely monitored (see sections 4.2 and 5.2).
 
 ## Renal impairment
 
@@ -194,7 +196,7 @@ Voranigo contains lactose. Patients with rare hereditary problems of galactose i
 
 ## Sodium
 
-This medicinal product contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially 'sodium -free'.
+This medicinal product contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially 'sodium-free'.
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
@@ -242,11 +244,9 @@ Vorasidenib may decrease concentrations of hormonal contraceptives and, therefor
 
 Pregnancy testing is recommended in women of childbearing potential prior to starting treatment with vorasidenib (see section 4.4).
 
-Women of childbearing potential and males with female partners of childbearing potential should use effective contraception during treatment and for at least 2 months after the last dose. Since the effect
+Women of childbearing potential and males with female partners of childbearing potential should use effective contraception during treatment and for at least 2 months after the last dose. Since the effect of vorasidenib on the metabolism and efficacy of systemically acting hormonal contraceptives has not been investigated, barrier methods should be applied as a second form of contraception to avoid pregnancy (see sections 4.4 and 4.5).
 
 <div style=\"page-break-after: always\"></div>
-
-of vorasidenib on the metabolism and efficacy of systemically acting hormonal contraceptives has not been investigated, barrier methods should be applied as a second form of contraception to avoid pregnancy (see sections 4.4 and 4.5).
 
 ## Pregnancy
 
@@ -274,23 +274,25 @@ The most common adverse reactions, including laboratory abnormalities, were ALT 
 
 The most common grade ≥ 3 adverse reactions were ALT increased (9.6%), AST increased (4.2%) and GGT increased (3.0%).
 
-Serious adverse reactions of ALT increased occurred in 0.6% of patients who received Voranigo.
+Serious adverse reactions of hepatic failure, autoimmune hepatitis and ALT increased each occurred in 0.6% of patients who received Voranigo.
 
-Permanent discontinuation of vorasidenib due to grade ≥ 3 ALT increased was reported in 3.0% of patients.
+Permanent discontinuation of vorasidenib due to grade ≥ 3 ALT increased or autoimmune hepatitis was reported in 3.0% and 0.6% of patients, respectively.
 
 Dose interruptions due to an adverse reaction occurred in 18.6% of patients treated with vorasidenib. The most common adverse reactions requiring dose interruption were ALT increased (14.4%) and AST increased (6.0%).
 
 Dose reductions of vorasidenib due to an adverse reaction occurred in 9.6% of patients. The most common adverse reaction requiring dose reduction was ALT increased (7.8%).
 
-<div style=\"page-break-after: always\"></div>
-
 ## Tabulated list of adverse reactions
 
-Adverse reactions reported in patients treated with vorasidenib are listed below in Table 3 by MedDRA system organ class and by frequency.
+The adverse reactions described in this section are derived from study data (INDIGO study [N=167]) and post-marketing experience with Voranigo.
+
+<div style=\"page-break-after: always\"></div>
+
+The adverse reactions reported in patients treated with vorasidenib are listed below in Table 3 by MedDRA system organ class and by frequency.
 
 Frequencies are defined as very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), uncommon (≥ 1/1 000 to &lt; 1/100), rare (≥ 1/10 000 to &lt; 1/1 000), very rare (&lt; 1/10 000), not known (cannot be estimated from available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
-Table 3: Adverse drug reactions reported in patients treated with vorasidenib in the INDIGO trial (Study AG881-C-004) (N=167)
+Table 3: Adverse drug reactions reported in patients treated with vorasidenib
 
 | System organ class                                   | Frequency   | Adverse reactions                      |
 |------------------------------------------------------|-------------|----------------------------------------|
@@ -307,19 +309,25 @@ Table 3: Adverse drug reactions reported in patients treated with vorasidenib in
 | Hepatobiliary disorders                              | Very common | Aspartate aminotransferase increased a |
 | Hepatobiliary disorders                              | Very common | Gamma-glutamyl transferase increased a |
 | Hepatobiliary disorders                              | Common      | Alkaline phosphatase increased a       |
+| Hepatobiliary disorders                              | Common      | Blood bilirubin increased a            |
+| Hepatobiliary disorders                              | Uncommon    | Hepatic failure                        |
+| Hepatobiliary disorders                              | Uncommon    | Autoimmune hepatitis                   |
+| Hepatobiliary disorders                              | Uncommon    | Hepatic necrosis                       |
+| Hepatobiliary disorders                              | Not known   | Drug-induced liver injury*             |
+| Hepatobiliary disorders                              | Not known   | Hepatitis acute*                       |
 | General disorders and administration site conditions | Very common | Fatigue                                |
 
 ## Description of selected adverse reactions
 
-## Hepatobiliary disorders
+## Hepatotoxicity
 
-In Study AG881-C-004, of the 167 patients treated with vorasidenib, 18.6% experienced elevations in ALT &gt; 3 times the ULN and 8.4% experienced elevations in AST &gt; 3 times the ULN. Among these patients, 1.2% had concurrent elevations in ALT or AST &gt; 3 times the ULN and total bilirubin &gt; 2 times the  ULN. Liver enzyme and bilirubin increases were transient and improved or resolved with dose modification or permanent discontinuation of treatment (see sections 4.2 and 4.4). Hepatic failure and hepatic necrosis were observed in one patient treated with vorasidenib and autoimmune hepatitis was observed in one patient treated with vorasidenib (see section 4.4).
+In the INDIGO study, of the 167 patients treated with vorasidenib, 18.6% experienced elevations in ALT &gt; 3 times the ULN and 8.4% experienced elevations in AST &gt; 3 times the ULN. Among these patients, 1.2% had concurrent elevations in ALT or AST &gt; 3 times the ULN and total bilirubin &gt; 2 times the  ULN. Liver enzyme and bilirubin increases were transient and improved or resolved with dose modification or permanent discontinuation of treatment (see sections 4.2 and 4.4). The median time to first event onset for AST and ALT increased (any grade) was 85.0 days (range: 14 - 451 days) and 57.0 days (range: 1 - 506 days). Each of the following adverse reactions, hepatic failure, hepatic necrosis and autoimmune hepatitis, was reported once with vorasidenib in the INDIGO study (see section 4.4).
+
+<div style=\"page-break-after: always\"></div>
 
 ## Reporting of suspected adverse reactions
 
 Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 4.9 Overdose
 
@@ -345,9 +353,9 @@ The efficacy and safety of vorasidenib were evaluated in the INDIGO trial, a pha
 
 Patients were randomised to receive either vorasidenib 40 mg orally once daily or matched placebo until radiographic disease progression or unacceptable toxicity. Randomisation was stratified by local 1p19q status (co-deleted or not co-deleted) and baseline tumour size (diameter ≥ 2 cm or &lt; 2 cm). Patients who were randomised to placebo were allowed to cross over to receive vorasidenib after documented radiographic disease progression provided that they were not in need of immediate chemotherapy or radiotherapy in the opinion of the investigator.
 
-The primary efficacy outcome measure was radiographic progression-free survival (PFS) as evaluated by a BIRC according to modified response assessment in neuro-oncology for low grade glioma (RANO-LGG) criteria (radiographic progression only).
-
 <div style=\"page-break-after: always\"></div>
+
+The primary efficacy outcome measure was radiographic progression-free survival (PFS) as evaluated by a BIRC according to modified response assessment in neuro-oncology for low grade glioma (RANO-LGG) criteria (radiographic progression only).
 
 Patient demographics and disease characteristics were balanced between the treatment arms. Among the 168 patients randomised to vorasidenib, the median age was 41 years (range: 21 to 71 years), with 98.8% aged 18-64 years. A single paediatric patient aged 16 years was randomised to placebo, and no patient under the age of 18 was randomised to vorasidenib. A majority of patients were male (60.1%), 74.4% were White, 3.0% Asian, 1.2% Black, 1.2% other, 19.6% not reported and 53.6% had a Karnofsky Performance Status (KPS) score of 100, 45.8% had a KPS score of 90-80, and 0.6% had a KPS score of 70-60. Most patients had at least 1 prior surgery for glioma (75%) and 25% had ≥ 2 prior surgeries. Across both arms, 95% of patients had an IDH1 R132 mutation and 5% had an IDH2 R172 mutation.
 
@@ -369,19 +377,17 @@ The full analysis set included all patients who had undergone randomisation.
 
 a  The 95% confidence interval for the median was calculated using the Brookmeyer and Crowley method.
 
-b  Estimated with Cox proportional hazard model adjusted by the following stratification factors: 1p19q status and baseline tumour size.
+b Estimated with Cox proportional hazard model adjusted by the following stratification factors: 1p19q status and baseline tumour size.
 
 c Estimated from one-sided stratified log-rank test. PFS was tested at a onesided efficacy α -level of 0.000359, based on an updated efficacy boundary corresponding to the 82% information fraction.
 
 Figure 1 : Kaplan-Meier curve for progression-free survival per BIRC review in INDIGO trial
 
-<!-- image -->
-
-An updated PFS by BIRC analysis, carried out at 96% (N = 158) of events, confirmed the benefit of vorasidenib compared to placebo (hazard ratio: 0.35 [95% CI: 0.25, 0.49]). At 24 months, the progression-free survival rate was 59% (95% CI: 48.4, 67.8) in the vorasidenib arm and 26%
-
 <div style=\"page-break-after: always\"></div>
 
-(95% CI: 17.9, 35.3) in the placebo arm. The median PFS was not estimable (95% CI: 22.1, NE) for the vorasidenib arm and was 11.4 (95% CI: 11.1, 13.9) months for the placebo arm.
+<!-- image -->
+
+An updated PFS by BIRC analysis, carried out at 96% (N = 158) of events, confirmed the benefit of vorasidenib compared to placebo (hazard ratio: 0.35 [95% CI: 0.25, 0.49]). At 24 months, the progression-free survival rate was 59% (95% CI: 48.4, 67.8) in the vorasidenib arm and 26% (95% CI: 17.9, 35.3) in the placebo arm. The median PFS was not estimable (95% CI: 22.1, NE) for the vorasidenib arm and was 11.4 (95% CI: 11.1, 13.9) months for the placebo arm.
 
 ## Paediatric population
 
@@ -403,6 +409,8 @@ The mean Cmax and AUC of vorasidenib increased by 3.1-fold and 1.4-fold, respect
 
 ## Distribution
 
+<div style=\"page-break-after: always\"></div>
+
 Vorasidenib has a mean apparent volume of distribution of 3,930 L (CV%: 40). The vorasidenib volume of distribution following a single 0.1 mg IV microdose is 1,110 L. The bound plasma protein fraction for vorasidenib and AGI-69460 was 97% and 87%, respectively. Both vorasidenib and AGI-69460 exhibit preferential binding to serum albumin over alpha-1 acid glycoprotein. Vorasidenib blood to plasma ratio is 0.87, AGI-69460 blood to plasma ratio is 1.38, and vorasidenib brain tumour to plasma concentration ratio is 1.6.
 
 ## Biotransformation
@@ -412,8 +420,6 @@ Vorasidenib is primarily metabolised by CYP1A2 with negligible to minor contribu
 AGI-69460 is a downstream active metabolite of vorasidenib. After a single 40 mg vorasidenib oral dose, the observed Tmax for metabolite AGI-69460 was 336 hours, the observed geometric mean Cmax was 3.32 ng/mL (CV%: 55.6), and the geometric mean AUC0-t was 1,172 hr*ng/mL (CV%: 61). At steady-state, geometric mean AGI-69460 Cmin,ss was 111 ng/mL (CV%: 58) and geometric mean AUC0-4 at cycle 2 day 1 was 190 hr*ng/mL (CV%: 90).
 
 ## Interactions
-
-<div style=\"page-break-after: always\"></div>
 
 In vitro , vorasidenib has a strong induction effect on sensitive CYP3A4 substrates and a moderate induction effect on sensitive CYP2B6 and CYP2C19 substrates (see section 4.5).
 
@@ -437,9 +443,11 @@ Following administration of Voranigo, vorasidenib Cmax and AUC increases in a pr
 
 No clinically meaningful effects on the pharmacokinetics of vorasidenib were observed in older patients up to 75 years (see section 4.2).
 
+<div style=\"page-break-after: always\"></div>
+
 ## Renal impairment
 
-Renal impairment (eGFR &gt; 40 mL/min/1.73 m 2 ) had no clinically significant effect on the pharmacokinetics of vorasidenib. The pharmacokinetics of vorasidenib in patients with eGFR ≤ 40 mL/min/1.73 m 2  or renal impairment requiring dialysis are unknown.
+Renal impairment (eGFR &gt; 40 mL/min/1.73 m 2 ) had no clinically significant effect on the pharmacokinetics of vorasidenib. The pharmacokinetics of vorasidenib in patients with eGFR ≤ 40 mL/min/1.73 m 2 or renal impairment requiring dialysis are unknown.
 
 ## Hepatic impairment
 
@@ -450,8 +458,6 @@ Moderate hepatic impairment (Child-Pugh class B) had no clinically significant e
 No clinically significant effects on the pharmacokinetics of vorasidenib were observed based on age (16 to 75 years), race, ethnicity and body weight (43.5 to 168 kg). Female patients were observed to have a 1.6-fold higher vorasidenib exposure as compared to male patients.
 
 ## Paediatric population
-
-<div style=\"page-break-after: always\"></div>
 
 Pharmacokinetic data demonstrated that age had no clinically meaningful effect on the pharmacokinetics of vorasidenib. The exposure of vorasidenib is expected to be similar between adults and adolescent patients aged 12 years and older.
 
@@ -467,21 +473,23 @@ Fertility studies in animals have not been conducted with vorasidenib. Effects o
 
 Vorasidenib caused embryo-foetal toxicity in pregnant rats and rabbits (higher incidence of resorptions, delayed ossification, visceral malformations for kidney and testes in rats). These effects occurred at doses that were higher compared to patients receiving the therapeutic daily dose. The exposure ratios at the NOAEL for embryo-foetal development in rats and rabbits were 8.0 to 28.5 and 1.1 to 4.9, respectively, on gestation days 6 and 17 for rat and 6 and 19 for rabbit.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 6. PHARMACEUTICAL PARTICULARS
 
 ## 6.1 List of excipients
 
 ## Tablet core
 
-Microcrystalline cellulose (E460) Croscarmellose sodium Silicified microcrystalline cellulose (contains microcrystalline cellulose and silica colloidal anhydrous) Magnesium stearate (E470b) Sodium lauryl sulfate (E487)
+Silicified microcrystalline cellulose (contains microcrystalline cellulose and silica colloidal anhydrous)
+
+Microcrystalline cellulose (E460) Croscarmellose sodium Magnesium stearate (E470b) Sodium lauryl sulfate (E487)
 
 ## Tablet film-coating
 
 Hypromellose Titanium dioxide (E171) Lactose monohydrate Macrogol (E1521)
 
 ## Printing ink
-
-<div style=\"page-break-after: always\"></div>
 
 Black iron oxide (E172) Propylene glycol (E1520) Hypromellose (E464)
 
@@ -509,7 +517,11 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Les Laboratoires Servier 50, rue Carnot 92284 Suresnes cedex France
+Les Laboratoires Servier
+
+<div style=\"page-break-after: always\"></div>
+
+50, rue Carnot 92284 Suresnes cedex France
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
@@ -583,7 +595,9 @@ OUTER CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Voranigo 10 mg film-coated tablets vorasidenib
+Voranigo 10 mg film-coated tablets
+
+vorasidenib
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -639,7 +653,7 @@ Lot
 
 15. INSTRUCTIONS ON USE
 
-## 16. INFORMATION IN BRAILLE
+16. INFORMATION IN BRAILLE
 
 Voranigo 10 mg
 
@@ -649,7 +663,9 @@ Voranigo 10 mg
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC SN
+PC
+
+SN
 
 NN
 
@@ -661,7 +677,9 @@ BOTTLE LABEL
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Voranigo 10 mg film-coated tablets vorasidenib
+Voranigo 10 mg film-coated tablets
+
+vorasidenib
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -720,8 +738,8 @@ Lot
 | 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
 |-------|-------------------------------------|
 
-| 15.   | INSTRUCTIONS ON USE   |
-|-------|-----------------------|
+| 15.   | INSTRUCTIONS ONUSE   |
+|-------|----------------------|
 
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
@@ -729,8 +747,10 @@ Lot
 | 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
 |-------|----------------------------------|
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|-------|------------------------------------------|
+
+<div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
@@ -776,8 +796,6 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-<div style=\"page-break-after: always\"></div>
-
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 Discard unused contents appropriately.
@@ -808,7 +826,9 @@ Voranigo 40 mg
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC SN
+PC
+
+SN
 
 NN
 
@@ -820,7 +840,9 @@ BOTTLE LABEL
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Voranigo 40 mg film-coated tablets vorasidenib
+Voranigo 40 mg film-coated tablets
+
+vorasidenib
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -879,8 +901,8 @@ Lot
 | 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
 |-------|-------------------------------------|
 
-| 15.   | INSTRUCTIONS ON USE   |
-|-------|-----------------------|
+| 15.   | INSTRUCTIONS ONUSE   |
+|-------|----------------------|
 
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
@@ -888,8 +910,8 @@ Lot
 | 17. UNIQUE IDENTIFIER - 2D BARCODE   |
 |--------------------------------------|
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|-------|------------------------------------------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -955,7 +977,7 @@ Voranigo may affect how well your liver functions. Your doctor will carry out bl
 Tell your doctor, pharmacist or nurse right away if you develop any of the following, which may be signs and symptoms of liver problems:
 
 - yellowing of your skin or the white part of your eyes (jaundice)
-- dark 'tea -coloured' urine
+- dark 'tea-coloured' urine
 - loss of appetite
 - pain on the upper right side of your stomach area
 - feeling weak or very tired
@@ -1044,7 +1066,7 @@ This medicine contains lactose (found in milk or dairy products). If you have be
 
 ## Voranigo contains sodium
 
-This medicine contains less than 1 mmol of sodium (23 mg) per tablet, that is to say essentially 'sodium -free'.
+This medicine contains less than 1 mmol of sodium (23 mg) per tablet, that is to say essentially 'sodium-free'.
 
 ## 3. How to take Voranigo
 
@@ -1092,7 +1114,18 @@ If you experience any serious side effects, stop taking this medicine and tell y
 
 Very common (may affect more than 1 in 10 people):
 
-- Increased amount of liver enzymes, as measured in blood tests (see section 2, ' Monitoring of liver function ' )
+- Increased amount of liver enzymes, as measured in blood tests (see section 2, 'Monitoring of liver function')
+
+Uncommon (may affect up to 1 in 100 people)
+
+- A condition where your body's immune system attacks the liver by mistake (autoimmune hepatitis); this can lead to liver damage
+- Death of liver cells (hepatic necrosis)
+- Inability of the liver to work properly (hepatic failure)
+
+Not known (frequency cannot be estimated from the available data):
+
+- Signs and symptoms of liver injury from the medicine (see section 2, 'Monitoring of liver function')
+- Sudden liver inflammation (acute hepatitis)
 
 ## Other side effects
 
@@ -1106,6 +1139,7 @@ Very common (may affect more than 1 in 10 people):
 
 Common (may affect up to 1 in 10 people):
 
+- Increased blood level of bilirubin, a yellow breakdown substance of the blood pigment (see section 2, 'Monitoring of liver function')
 - Increased blood sugar levels (hyperglycaemia)
 - Decreased appetite
 - Low blood phosphate levels as measured in blood tests (hypophosphataemia); this can cause confusion or muscle weakness
@@ -1115,6 +1149,8 @@ Common (may affect up to 1 in 10 people):
 ## Reporting of side effects
 
 If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 5. How to store Voranigo
 
@@ -1126,8 +1162,6 @@ This medicine does not require any special storage conditions.
 
 Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 6. Contents of the pack and other information
 
 ## What Voranigo contains
@@ -1137,7 +1171,7 @@ The active substance is vorasidenib.
 - Voranigo 10 mg: Each film-coated tablet contains 10 mg of vorasidenib (as hemicitric acid, hemihydrate).
 - Voranigo 40 mg: Each film-coated tablet contains 40 mg of vorasidenib (as hemicitric acid, hemihydrate).
 
-## The other ingredients are:
+The other ingredients are:
 
 - Tablet core: microcrystalline cellulose (E460), croscarmellose sodium, silicified microcrystalline cellulose, magnesium stearate (E470b) and sodium lauryl sulfate (E487)
 - Film-coating: hypromellose, titanium dioxide (E171), lactose monohydrate and macrogol (E1521)
@@ -1147,11 +1181,11 @@ The active substance is vorasidenib.
 
 ## 10 mg film-coated tablets
 
-- White to offwhite, round tablets, imprinted with '10' on one side.
+- White to off-white, round tablets, imprinted with '10' on one side.
 
 ## 40 mg film-coated tablets
 
-- White to offwhite, oblong tablets, imprinted with '40' on one side.
+- White to off-white, oblong tablets, imprinted with '40' on one side.
 
 Voranigo is available in a plastic bottle with child-resistant closure containing 30 film-coated tablets and 3 desiccant canisters. The bottles are packaged in a cardboard box. Each box contains 1 bottle.
 
@@ -1161,9 +1195,13 @@ Les Laboratoires Servier 50, rue Carnot 92284 Suresnes cedex France
 
 ## Manufacturer
 
-Servier (Ireland) Industries Ltd. Gorey Road Arklow Co. Wicklow Y14 E284 Ireland
+Servier (Ireland) Industries Ltd. Gorey Road Arklow Co. Wicklow
 
 <div style=\"page-break-after: always\"></div>
+
+## Y14 E284
+
+Ireland
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
@@ -1173,11 +1211,17 @@ S.A. Servier Benelux N.V. Tél/Tel: +32 (0)2 529 43 11
 
 ## България
 
-Сервие Медикал ЕООД Тел .: +359 2 921 57 00
+Сервие Медикал ЕООД
+
+Тел
+
+.: +359 2 921 57 00
 
 ## Česká republika
 
-Servier s.r.o. Tel: +420 222 118 111
+Servier s.r.o.
+
+Tel: +420 222 118 111
 
 ## Danmark
 
@@ -1215,25 +1259,21 @@ Servier Laboratories (Ireland) Ltd. Tel: +353 (0)1 663 8110
 
 Servier Laboratories c/o Icepharma hf Sími: +354 540 8000
 
-## Italia
-
-Servier Italia S.p.A.
-
-Tel: +39 06 669081
-
 ## Lietuva
 
-UAB Servier Pharma
-
-Tel: +370 (5) 2 63 86 28
+UAB Servier Pharma Tel: +370 (5) 2 63 86 28
 
 ## Luxembourg/Luxemburg
 
-S.A. Servier Benelux N.V. Tél/Tel: +32 (0)2 529 43 11
+S.A. Servier Benelux N.V.
+
+Tél/Tel: +32 (0)2 529 43 11
 
 ## Magyarország
 
-Servier Hungaria Kft. Tel.: +36 1 238 7799
+Servier Hungaria Kft.
+
+Tel.: +36 1 238 7799
 
 ## Malta
 
@@ -1253,7 +1293,9 @@ Servier Austria GmbH Tel: +43 (1) 524 39 99
 
 ## Polska
 
-Servier Polska Sp. z o.o. Tel.: +48 (0) 22 594 90 00
+Servier Polska Sp. z o.o.
+
+Tel.: +48 (0) 22 594 90 00
 
 ## Portugal
 
@@ -1265,25 +1307,25 @@ Servier Pharma SRL Tel: +4 021 528 52 80
 
 ## Slovenija
 
-Servier Pharma d. o. o.
-
-Tel: +386 (0)1 563 48 11
+Servier Pharma d. o. o. Tel: +386 (0)1 563 48 11
 
 ## Slovenská republika
 
 Servier Slovensko spol. s r.o. Tel:+421 (0) 2 5920 41 11
 
-## Suomi/Finland
+<div style=\"page-break-after: always\"></div>
 
-Servier Finland Oy Puh /Tel: +358 (0)9 279 80 80
+## Italia
+
+Servier Italia S.p.A.
+
+Tel: +39 06 669081
 
 ## Κύπρος
 
 C.A. Papaellinas Ltd.
 
 Τηλ: +357 22741741
-
-<div style=\"page-break-after: always\"></div>
 
 ## Latvija
 
@@ -1298,6 +1340,12 @@ Tel: +371 67502039
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
 This leaflet is available in all EU/EEA languages on the European Medicines Agency website.
+
+## Suomi/Finland
+
+Servier Finland Oy
+
+Puh /Tel: +358 (0)40 901 2978
 
 ## Sverige
 

@@ -1,32 +1,32 @@
 ---
-document_datetime: 2025-12-29 12:28:26
+document_datetime: 2026-05-19 17:30:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/synflorix.html
 document_name: synflorix.html
 version: success
-processing_time: 0.1430005
-conversion_datetime: 2025-12-31 04:00:54.242127
+processing_time: 0.1182912
+conversion_datetime: 2026-05-22 22:33:10.148756
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.20.0
+  docling-jobkit: 1.20.0
+  docling: 2.95.0
+  docling-core: 2.77.0
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.11.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
 ---
 # Synflorix
 
 [RSS](/en/individual-human-medicine.xml/66348)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-pneumococcal polysaccharide conjugate vaccine (adsorbed) Medicine Human Authorised
+pneumococcal polysaccharide conjugate vaccine (adsorbed)
 
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
+Medicine Human Authorised
 
 Page contents
 
@@ -117,275 +117,141 @@ Synflorix : EPAR - Summary for the public
 
 English (EN) (91.65 KB - PDF)
 
-**First published:** 12/05/2009
-
-**Last updated:** 09/01/2018
+**First published:** 12/05/2009 **Last updated:** 09/01/2018
 
 [View](/en/documents/overview/synflorix-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-822)
+[Other languages (22)](#file-language-dropdown-764)
 
 български (BG) (125.01 KB - PDF)
 
-**First published:**
-
-12/05/2009
-
-**Last updated:**
-
-09/01/2018
+**First published:** 12/05/2009 **Last updated:** 09/01/2018
 
 [View](/bg/documents/overview/synflorix-epar-summary-public_bg.pdf)
 
 español (ES) (160.39 KB - PDF)
 
-**First published:**
-
-12/05/2009
-
-**Last updated:**
-
-09/01/2018
+**First published:** 12/05/2009 **Last updated:** 09/01/2018
 
 [View](/es/documents/overview/synflorix-epar-summary-public_es.pdf)
 
 čeština (CS) (117.47 KB - PDF)
 
-**First published:**
-
-12/05/2009
-
-**Last updated:**
-
-09/01/2018
+**First published:** 12/05/2009 **Last updated:** 09/01/2018
 
 [View](/cs/documents/overview/synflorix-epar-summary-public_cs.pdf)
 
 dansk (DA) (88.46 KB - PDF)
 
-**First published:**
-
-12/05/2009
-
-**Last updated:**
-
-09/01/2018
+**First published:** 12/05/2009 **Last updated:** 09/01/2018
 
 [View](/da/documents/overview/synflorix-epar-summary-public_da.pdf)
 
 Deutsch (DE) (91.54 KB - PDF)
 
-**First published:**
-
-12/05/2009
-
-**Last updated:**
-
-09/01/2018
+**First published:** 12/05/2009 **Last updated:** 09/01/2018
 
 [View](/de/documents/overview/synflorix-epar-summary-public_de.pdf)
 
 eesti keel (ET) (87.88 KB - PDF)
 
-**First published:**
-
-12/05/2009
-
-**Last updated:**
-
-09/01/2018
+**First published:** 12/05/2009 **Last updated:** 09/01/2018
 
 [View](/et/documents/overview/synflorix-epar-summary-public_et.pdf)
 
 ελληνικά (EL) (120.43 KB - PDF)
 
-**First published:**
-
-12/05/2009
-
-**Last updated:**
-
-09/01/2018
+**First published:** 12/05/2009 **Last updated:** 09/01/2018
 
 [View](/el/documents/overview/synflorix-epar-summary-public_el.pdf)
 
 français (FR) (91.14 KB - PDF)
 
-**First published:**
-
-12/05/2009
-
-**Last updated:**
-
-09/01/2018
+**First published:** 12/05/2009 **Last updated:** 09/01/2018
 
 [View](/fr/documents/overview/synflorix-epar-summary-public_fr.pdf)
 
 hrvatski (HR) (113.47 KB - PDF)
 
-**First published:**
-
-12/05/2009
-
-**Last updated:**
-
-09/01/2018
+**First published:** 12/05/2009 **Last updated:** 09/01/2018
 
 [View](/hr/documents/overview/synflorix-epar-summary-public_hr.pdf)
 
 italiano (IT) (88.61 KB - PDF)
 
-**First published:**
-
-12/05/2009
-
-**Last updated:**
-
-09/01/2018
+**First published:** 12/05/2009 **Last updated:** 09/01/2018
 
 [View](/it/documents/overview/synflorix-epar-summary-public_it.pdf)
 
 latviešu valoda (LV) (115.79 KB - PDF)
 
-**First published:**
-
-12/05/2009
-
-**Last updated:**
-
-09/01/2018
+**First published:** 12/05/2009 **Last updated:** 09/01/2018
 
 [View](/lv/documents/overview/synflorix-epar-summary-public_lv.pdf)
 
 lietuvių kalba (LT) (118.36 KB - PDF)
 
-**First published:**
-
-12/05/2009
-
-**Last updated:**
-
-09/01/2018
+**First published:** 12/05/2009 **Last updated:** 09/01/2018
 
 [View](/lt/documents/overview/synflorix-epar-summary-public_lt.pdf)
 
 magyar (HU) (114.57 KB - PDF)
 
-**First published:**
-
-12/05/2009
-
-**Last updated:**
-
-09/01/2018
+**First published:** 12/05/2009 **Last updated:** 09/01/2018
 
 [View](/hu/documents/overview/synflorix-epar-summary-public_hu.pdf)
 
 Malti (MT) (121.85 KB - PDF)
 
-**First published:**
-
-12/05/2009
-
-**Last updated:**
-
-09/01/2018
+**First published:** 12/05/2009 **Last updated:** 09/01/2018
 
 [View](/mt/documents/overview/synflorix-epar-summary-public_mt.pdf)
 
 Nederlands (NL) (89.26 KB - PDF)
 
-**First published:**
-
-12/05/2009
-
-**Last updated:**
-
-09/01/2018
+**First published:** 12/05/2009 **Last updated:** 09/01/2018
 
 [View](/nl/documents/overview/synflorix-epar-summary-public_nl.pdf)
 
 polski (PL) (119.21 KB - PDF)
 
-**First published:**
-
-12/05/2009
-
-**Last updated:**
-
-09/01/2018
+**First published:** 12/05/2009 **Last updated:** 09/01/2018
 
 [View](/pl/documents/overview/synflorix-epar-summary-public_pl.pdf)
 
 português (PT) (89.92 KB - PDF)
 
-**First published:**
-
-12/05/2009
-
-**Last updated:**
-
-09/01/2018
+**First published:** 12/05/2009 **Last updated:** 09/01/2018
 
 [View](/pt/documents/overview/synflorix-epar-summary-public_pt.pdf)
 
 română (RO) (116.42 KB - PDF)
 
-**First published:**
-
-12/05/2009
-
-**Last updated:**
-
-09/01/2018
+**First published:** 12/05/2009 **Last updated:** 09/01/2018
 
 [View](/ro/documents/overview/synflorix-epar-summary-public_ro.pdf)
 
 slovenčina (SK) (118.95 KB - PDF)
 
-**First published:**
-
-12/05/2009
-
-**Last updated:**
-
-09/01/2018
+**First published:** 12/05/2009 **Last updated:** 09/01/2018
 
 [View](/sk/documents/overview/synflorix-epar-summary-public_sk.pdf)
 
 slovenščina (SL) (111.45 KB - PDF)
 
-**First published:**
-
-12/05/2009
-
-**Last updated:**
-
-09/01/2018
+**First published:** 12/05/2009 **Last updated:** 09/01/2018
 
 [View](/sl/documents/overview/synflorix-epar-summary-public_sl.pdf)
 
 Suomi (FI) (88.91 KB - PDF)
 
-**First published:**
-
-12/05/2009
-
-**Last updated:**
-
-09/01/2018
+**First published:** 12/05/2009 **Last updated:** 09/01/2018
 
 [View](/fi/documents/overview/synflorix-epar-summary-public_fi.pdf)
 
 svenska (SV) (88.9 KB - PDF)
 
-**First published:**
-
-12/05/2009
-
-**Last updated:**
-
-09/01/2018
+**First published:** 12/05/2009 **Last updated:** 09/01/2018
 
 [View](/sv/documents/overview/synflorix-epar-summary-public_sv.pdf)
 
@@ -401,305 +267,161 @@ English (EN) (112.52 KB - PDF)
 
 Synflorix : EPAR - Product Information
 
-English (EN) (720.9 KB - PDF)
+English (EN) (682.25 KB - PDF)
 
-**First published:** 08/07/2009
-
-**Last updated:** 24/05/2023
+**First published:** 08/07/2009 **Last updated:** 19/05/2026
 
 [View](/en/documents/product-information/synflorix-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-200)
+[Other languages (24)](#file-language-dropdown-404)
 
-български (BG) (955.8 KB - PDF)
+български (BG) (892.32 KB - PDF)
 
-**First published:**
-
-08/07/2009
-
-**Last updated:**
-
-24/05/2023
+**First published:** 08/07/2009 **Last updated:** 19/05/2026
 
 [View](/bg/documents/product-information/synflorix-epar-product-information_bg.pdf)
 
-español (ES) (755.02 KB - PDF)
+español (ES) (698.56 KB - PDF)
 
-**First published:**
-
-08/07/2009
-
-**Last updated:**
-
-24/05/2023
+**First published:** 08/07/2009 **Last updated:** 19/05/2026
 
 [View](/es/documents/product-information/synflorix-epar-product-information_es.pdf)
 
-čeština (CS) (789.14 KB - PDF)
+čeština (CS) (729.66 KB - PDF)
 
-**First published:**
-
-08/07/2009
-
-**Last updated:**
-
-24/05/2023
+**First published:** 08/07/2009 **Last updated:** 19/05/2026
 
 [View](/cs/documents/product-information/synflorix-epar-product-information_cs.pdf)
 
-dansk (DA) (777.25 KB - PDF)
+dansk (DA) (746.14 KB - PDF)
 
-**First published:**
-
-08/07/2009
-
-**Last updated:**
-
-24/05/2023
+**First published:** 08/07/2009 **Last updated:** 19/05/2026
 
 [View](/da/documents/product-information/synflorix-epar-product-information_da.pdf)
 
-Deutsch (DE) (778.41 KB - PDF)
+Deutsch (DE) (790.17 KB - PDF)
 
-**First published:**
-
-08/07/2009
-
-**Last updated:**
-
-24/05/2023
+**First published:** 08/07/2009 **Last updated:** 19/05/2026
 
 [View](/de/documents/product-information/synflorix-epar-product-information_de.pdf)
 
-eesti keel (ET) (702.45 KB - PDF)
+eesti keel (ET) (652.02 KB - PDF)
 
-**First published:**
-
-08/07/2009
-
-**Last updated:**
-
-24/05/2023
+**First published:** 08/07/2009 **Last updated:** 19/05/2026
 
 [View](/et/documents/product-information/synflorix-epar-product-information_et.pdf)
 
-ελληνικά (EL) (891.56 KB - PDF)
+ελληνικά (EL) (831.88 KB - PDF)
 
-**First published:**
-
-08/07/2009
-
-**Last updated:**
-
-24/05/2023
+**First published:** 08/07/2009 **Last updated:** 19/05/2026
 
 [View](/el/documents/product-information/synflorix-epar-product-information_el.pdf)
 
-français (FR) (790.91 KB - PDF)
+français (FR) (747.51 KB - PDF)
 
-**First published:**
-
-08/07/2009
-
-**Last updated:**
-
-24/05/2023
+**First published:** 08/07/2009 **Last updated:** 19/05/2026
 
 [View](/fr/documents/product-information/synflorix-epar-product-information_fr.pdf)
 
-hrvatski (HR) (803.07 KB - PDF)
+hrvatski (HR) (747.36 KB - PDF)
 
-**First published:**
-
-08/07/2009
-
-**Last updated:**
-
-24/05/2023
+**First published:** 08/07/2009 **Last updated:** 19/05/2026
 
 [View](/hr/documents/product-information/synflorix-epar-product-information_hr.pdf)
 
-íslenska (IS) (715.71 KB - PDF)
+íslenska (IS) (644.22 KB - PDF)
 
-**First published:**
-
-08/07/2009
-
-**Last updated:**
-
-24/05/2023
+**First published:** 08/07/2009 **Last updated:** 19/05/2026
 
 [View](/is/documents/product-information/synflorix-epar-product-information_is.pdf)
 
-italiano (IT) (732.99 KB - PDF)
+italiano (IT) (687.86 KB - PDF)
 
-**First published:**
-
-08/07/2009
-
-**Last updated:**
-
-24/05/2023
+**First published:** 08/07/2009 **Last updated:** 19/05/2026
 
 [View](/it/documents/product-information/synflorix-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (793.83 KB - PDF)
+latviešu valoda (LV) (739.18 KB - PDF)
 
-**First published:**
-
-08/07/2009
-
-**Last updated:**
-
-24/05/2023
+**First published:** 08/07/2009 **Last updated:** 19/05/2026
 
 [View](/lv/documents/product-information/synflorix-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (768.35 KB - PDF)
+lietuvių kalba (LT) (728.48 KB - PDF)
 
-**First published:**
-
-08/07/2009
-
-**Last updated:**
-
-24/05/2023
+**First published:** 08/07/2009 **Last updated:** 19/05/2026
 
 [View](/lt/documents/product-information/synflorix-epar-product-information_lt.pdf)
 
-magyar (HU) (812.04 KB - PDF)
+magyar (HU) (757.28 KB - PDF)
 
-**First published:**
-
-08/07/2009
-
-**Last updated:**
-
-24/05/2023
+**First published:** 08/07/2009 **Last updated:** 19/05/2026
 
 [View](/hu/documents/product-information/synflorix-epar-product-information_hu.pdf)
 
-Malti (MT) (1.04 MB - PDF)
+Malti (MT) (1.01 MB - PDF)
 
-**First published:**
-
-08/07/2009
-
-**Last updated:**
-
-24/05/2023
+**First published:** 08/07/2009 **Last updated:** 19/05/2026
 
 [View](/mt/documents/product-information/synflorix-epar-product-information_mt.pdf)
 
-Nederlands (NL) (735.25 KB - PDF)
+Nederlands (NL) (690.05 KB - PDF)
 
-**First published:**
-
-08/07/2009
-
-**Last updated:**
-
-24/05/2023
+**First published:** 08/07/2009 **Last updated:** 19/05/2026
 
 [View](/nl/documents/product-information/synflorix-epar-product-information_nl.pdf)
 
-norsk (NO) (752.68 KB - PDF)
+norsk (NO) (704.64 KB - PDF)
 
-**First published:**
-
-08/07/2009
-
-**Last updated:**
-
-24/05/2023
+**First published:** 08/07/2009 **Last updated:** 19/05/2026
 
 [View](/no/documents/product-information/synflorix-epar-product-information_no.pdf)
 
-polski (PL) (835.01 KB - PDF)
+polski (PL) (774.88 KB - PDF)
 
-**First published:**
-
-08/07/2009
-
-**Last updated:**
-
-24/05/2023
+**First published:** 08/07/2009 **Last updated:** 19/05/2026
 
 [View](/pl/documents/product-information/synflorix-epar-product-information_pl.pdf)
 
-português (PT) (772.02 KB - PDF)
+português (PT) (709.17 KB - PDF)
 
-**First published:**
-
-08/07/2009
-
-**Last updated:**
-
-24/05/2023
+**First published:** 08/07/2009 **Last updated:** 19/05/2026
 
 [View](/pt/documents/product-information/synflorix-epar-product-information_pt.pdf)
 
-română (RO) (1015.71 KB - PDF)
+română (RO) (986.76 KB - PDF)
 
-**First published:**
-
-08/07/2009
-
-**Last updated:**
-
-24/05/2023
+**First published:** 08/07/2009 **Last updated:** 19/05/2026
 
 [View](/ro/documents/product-information/synflorix-epar-product-information_ro.pdf)
 
-slovenčina (SK) (770.82 KB - PDF)
+slovenčina (SK) (720.27 KB - PDF)
 
-**First published:**
-
-08/07/2009
-
-**Last updated:**
-
-24/05/2023
+**First published:** 08/07/2009 **Last updated:** 19/05/2026
 
 [View](/sk/documents/product-information/synflorix-epar-product-information_sk.pdf)
 
-slovenščina (SL) (787.62 KB - PDF)
+slovenščina (SL) (730.84 KB - PDF)
 
-**First published:**
-
-08/07/2009
-
-**Last updated:**
-
-24/05/2023
+**First published:** 08/07/2009 **Last updated:** 19/05/2026
 
 [View](/sl/documents/product-information/synflorix-epar-product-information_sl.pdf)
 
-Suomi (FI) (768.32 KB - PDF)
+Suomi (FI) (722.31 KB - PDF)
 
-**First published:**
-
-08/07/2009
-
-**Last updated:**
-
-24/05/2023
+**First published:** 08/07/2009 **Last updated:** 19/05/2026
 
 [View](/fi/documents/product-information/synflorix-epar-product-information_fi.pdf)
 
-svenska (SV) (762.35 KB - PDF)
+svenska (SV) (708.48 KB - PDF)
 
-**First published:**
-
-08/07/2009
-
-**Last updated:**
-
-24/05/2023
+**First published:** 08/07/2009 **Last updated:** 19/05/2026
 
 [View](/sv/documents/product-information/synflorix-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** WS2365 26/04/2023
+**Latest procedure affecting product information:** VR/0000341456
+
+19/05/2026
 
 icon globe
 
@@ -717,307 +439,165 @@ Product information documents contain:
 
 Synflorix : EPAR - All Authorised presentations
 
-English (EN) (41.14 KB - PDF)
+English (EN) (96.7 KB - PDF)
 
-**First published:** 08/07/2009
-
-**Last updated:** 20/07/2017
+**First published:** 08/07/2009 **Last updated:** 19/05/2026
 
 [View](/en/documents/all-authorised-presentations/synflorix-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-975)
+[Other languages (24)](#file-language-dropdown-221)
 
-български (BG) (63.36 KB - PDF)
+български (BG) (108.79 KB - PDF)
 
-**First published:**
-
-08/07/2009
-
-**Last updated:**
-
-20/07/2017
+**First published:** 08/07/2009 **Last updated:** 19/05/2026
 
 [View](/bg/documents/all-authorised-presentations/synflorix-epar-all-authorised-presentations_bg.pdf)
 
-español (ES) (41.13 KB - PDF)
+español (ES) (96.74 KB - PDF)
 
-**First published:**
-
-08/07/2009
-
-**Last updated:**
-
-20/07/2017
+**First published:** 08/07/2009 **Last updated:** 19/05/2026
 
 [View](/es/documents/all-authorised-presentations/synflorix-epar-all-authorised-presentations_es.pdf)
 
-čeština (CS) (53.01 KB - PDF)
+čeština (CS) (100.11 KB - PDF)
 
-**First published:**
-
-08/07/2009
-
-**Last updated:**
-
-20/07/2017
+**First published:** 08/07/2009 **Last updated:** 19/05/2026
 
 [View](/cs/documents/all-authorised-presentations/synflorix-epar-all-authorised-presentations_cs.pdf)
 
-dansk (DA) (33.34 KB - PDF)
+dansk (DA) (98.88 KB - PDF)
 
-**First published:**
-
-08/07/2009
-
-**Last updated:**
-
-20/07/2017
+**First published:** 08/07/2009 **Last updated:** 19/05/2026
 
 [View](/da/documents/all-authorised-presentations/synflorix-epar-all-authorised-presentations_da.pdf)
 
-Deutsch (DE) (37.9 KB - PDF)
+Deutsch (DE) (98.08 KB - PDF)
 
-**First published:**
-
-08/07/2009
-
-**Last updated:**
-
-20/07/2017
+**First published:** 08/07/2009 **Last updated:** 19/05/2026
 
 [View](/de/documents/all-authorised-presentations/synflorix-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (39.24 KB - PDF)
+eesti keel (ET) (102.49 KB - PDF)
 
-**First published:**
-
-08/07/2009
-
-**Last updated:**
-
-20/07/2017
+**First published:** 08/07/2009 **Last updated:** 19/05/2026
 
 [View](/et/documents/all-authorised-presentations/synflorix-epar-all-authorised-presentations_et.pdf)
 
-ελληνικά (EL) (55.71 KB - PDF)
+ελληνικά (EL) (107.79 KB - PDF)
 
-**First published:**
-
-08/07/2009
-
-**Last updated:**
-
-20/07/2017
+**First published:** 08/07/2009 **Last updated:** 19/05/2026
 
 [View](/el/documents/all-authorised-presentations/synflorix-epar-all-authorised-presentations_el.pdf)
 
-français (FR) (37.7 KB - PDF)
+français (FR) (97.04 KB - PDF)
 
-**First published:**
-
-08/07/2009
-
-**Last updated:**
-
-20/07/2017
+**First published:** 08/07/2009 **Last updated:** 19/05/2026
 
 [View](/fr/documents/all-authorised-presentations/synflorix-epar-all-authorised-presentations_fr.pdf)
 
-hrvatski (HR) (58.68 KB - PDF)
+hrvatski (HR) (117.98 KB - PDF)
 
-**First published:**
-
-08/07/2009
-
-**Last updated:**
-
-20/07/2017
+**First published:** 08/07/2009 **Last updated:** 19/05/2026
 
 [View](/hr/documents/all-authorised-presentations/synflorix-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (38.28 KB - PDF)
+íslenska (IS) (96.68 KB - PDF)
 
-**First published:**
-
-08/07/2009
-
-**Last updated:**
-
-20/07/2017
+**First published:** 08/07/2009 **Last updated:** 19/05/2026
 
 [View](/is/documents/all-authorised-presentations/synflorix-epar-all-authorised-presentations_is.pdf)
 
-italiano (IT) (40.67 KB - PDF)
+italiano (IT) (96.5 KB - PDF)
 
-**First published:**
-
-08/07/2009
-
-**Last updated:**
-
-20/07/2017
+**First published:** 08/07/2009 **Last updated:** 19/05/2026
 
 [View](/it/documents/all-authorised-presentations/synflorix-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (61.84 KB - PDF)
+latviešu valoda (LV) (128.38 KB - PDF)
 
-**First published:**
-
-08/07/2009
-
-**Last updated:**
-
-20/07/2017
+**First published:** 08/07/2009 **Last updated:** 19/05/2026
 
 [View](/lv/documents/all-authorised-presentations/synflorix-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (58.67 KB - PDF)
+lietuvių kalba (LT) (118.89 KB - PDF)
 
-**First published:**
-
-08/07/2009
-
-**Last updated:**
-
-20/07/2017
+**First published:** 08/07/2009 **Last updated:** 19/05/2026
 
 [View](/lt/documents/all-authorised-presentations/synflorix-epar-all-authorised-presentations_lt.pdf)
 
-magyar (HU) (55.51 KB - PDF)
+magyar (HU) (118.85 KB - PDF)
 
-**First published:**
-
-08/07/2009
-
-**Last updated:**
-
-20/07/2017
+**First published:** 08/07/2009 **Last updated:** 19/05/2026
 
 [View](/hu/documents/all-authorised-presentations/synflorix-epar-all-authorised-presentations_hu.pdf)
 
-Malti (MT) (47.2 KB - PDF)
+Malti (MT) (122.08 KB - PDF)
 
-**First published:**
-
-08/07/2009
-
-**Last updated:**
-
-20/07/2017
+**First published:** 08/07/2009 **Last updated:** 19/05/2026
 
 [View](/mt/documents/all-authorised-presentations/synflorix-epar-all-authorised-presentations_mt.pdf)
 
-Nederlands (NL) (43.94 KB - PDF)
+Nederlands (NL) (97.38 KB - PDF)
 
-**First published:**
-
-08/07/2009
-
-**Last updated:**
-
-20/07/2017
+**First published:** 08/07/2009 **Last updated:** 19/05/2026
 
 [View](/nl/documents/all-authorised-presentations/synflorix-epar-all-authorised-presentations_nl.pdf)
 
-norsk (NO) (40.8 KB - PDF)
+norsk (NO) (97.76 KB - PDF)
 
-**First published:**
-
-08/07/2009
-
-**Last updated:**
-
-20/07/2017
+**First published:** 08/07/2009 **Last updated:** 19/05/2026
 
 [View](/no/documents/all-authorised-presentations/synflorix-epar-all-authorised-presentations_no.pdf)
 
-polski (PL) (60.95 KB - PDF)
+polski (PL) (121.22 KB - PDF)
 
-**First published:**
-
-08/07/2009
-
-**Last updated:**
-
-20/07/2017
+**First published:** 08/07/2009 **Last updated:** 19/05/2026
 
 [View](/pl/documents/all-authorised-presentations/synflorix-epar-all-authorised-presentations_pl.pdf)
 
-português (PT) (42.09 KB - PDF)
+português (PT) (97.8 KB - PDF)
 
-**First published:**
-
-08/07/2009
-
-**Last updated:**
-
-20/07/2017
+**First published:** 08/07/2009 **Last updated:** 19/05/2026
 
 [View](/pt/documents/all-authorised-presentations/synflorix-epar-all-authorised-presentations_pt.pdf)
 
-română (RO) (61.82 KB - PDF)
+română (RO) (109.29 KB - PDF)
 
-**First published:**
-
-08/07/2009
-
-**Last updated:**
-
-20/07/2017
+**First published:** 08/07/2009 **Last updated:** 19/05/2026
 
 [View](/ro/documents/all-authorised-presentations/synflorix-epar-all-authorised-presentations_ro.pdf)
 
-slovenčina (SK) (59.54 KB - PDF)
+slovenčina (SK) (118.5 KB - PDF)
 
-**First published:**
-
-08/07/2009
-
-**Last updated:**
-
-20/07/2017
+**First published:** 08/07/2009 **Last updated:** 19/05/2026
 
 [View](/sk/documents/all-authorised-presentations/synflorix-epar-all-authorised-presentations_sk.pdf)
 
-slovenščina (SL) (50.13 KB - PDF)
+slovenščina (SL) (109.54 KB - PDF)
 
-**First published:**
-
-08/07/2009
-
-**Last updated:**
-
-20/07/2017
+**First published:** 08/07/2009 **Last updated:** 19/05/2026
 
 [View](/sl/documents/all-authorised-presentations/synflorix-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (42.05 KB - PDF)
+Suomi (FI) (96.05 KB - PDF)
 
-**First published:**
-
-08/07/2009
-
-**Last updated:**
-
-20/07/2017
+**First published:** 08/07/2009 **Last updated:** 19/05/2026
 
 [View](/fi/documents/all-authorised-presentations/synflorix-epar-all-authorised-presentations_fi.pdf)
 
-svenska (SV) (41.71 KB - PDF)
+svenska (SV) (97.78 KB - PDF)
 
-**First published:**
-
-08/07/2009
-
-**Last updated:**
-
-20/07/2017
+**First published:** 08/07/2009 **Last updated:** 19/05/2026
 
 [View](/sv/documents/all-authorised-presentations/synflorix-epar-all-authorised-presentations_sv.pdf)
 
 ## Product details
 
-Name of medicine Synflorix Active substance
+Name of medicine
+
+Synflorix
+
+Active substance
 
 - Pneumococcal polysaccharide serotype 23F
 - Pneumococcal polysaccharide serotype 4
@@ -1030,12 +610,18 @@ Name of medicine Synflorix Active substance
 - Pneumococcal polysaccharide serotype 18C
 - Pneumococcal polysaccharide serotype 19F
 
-International non-proprietary name (INN) or common name pneumococcal polysaccharide conjugate vaccine (adsorbed) Therapeutic area (MeSH)
+International non-proprietary name (INN) or common name
+
+pneumococcal polysaccharide conjugate vaccine (adsorbed)
+
+Therapeutic area (MeSH)
 
 - Pneumococcal Infections
 - Immunization
 
-Anatomical therapeutic chemical (ATC) code J07AL52
+Anatomical therapeutic chemical (ATC) code
+
+J07AL52
 
 ### Pharmacotherapeutic group
 
@@ -1049,13 +635,23 @@ The use of Synflorix should be determined on the basis of official recommendatio
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/000973 Marketing authorisation holder
+EMA product number
+
+EMEA/H/C/000973
+
+Marketing authorisation holder
 
 GlaxoSmithKline Biologicals S.A.
 
 Rue de l'Institut, 89
 
-Marketing authorisation issued 29/03/2009 Revision 36
+Marketing authorisation issued
+
+29/03/2009
+
+Revision
+
+37
 
 ## Assessment history
 
@@ -1067,19 +663,23 @@ Collapse section
 
 Synflorix : EPAR - Procedural steps taken and scientific information after authorisation
 
+English (EN) (142.92 KB - PDF)
+
+**First published:** 19/05/2026
+
+[View](/en/documents/procedural-steps-after/synflorix-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+
+Synflorix : EPAR - Procedural steps taken and scientific information after authorisation (archive)
+
 English (EN) (453.51 KB - PDF)
 
-**First published:** 08/07/2009
+**First published:** 08/07/2009 **Last updated:** 19/05/2026
 
-**Last updated:** 24/05/2023
-
-[View](/en/documents/procedural-steps-after/synflorix-epar-procedural-steps-taken-and-scientific-information-after-authorisation_en.pdf)
+[View](/en/documents/procedural-steps-after/synflorix-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 Synflorix-H-C-973-P46-0072 : EPAR - Assessment Report
 
-Adopted
-
-Reference Number: EMA/32444/2023
+Adopted Reference Number: EMA/32444/2023
 
 English (EN) (953.37 KB - PDF)
 
@@ -1089,281 +689,201 @@ English (EN) (953.37 KB - PDF)
 
 Synflorix-H-C-973-P46-0062 : EPAR - Assessment Report
 
-Adopted
-
-Reference Number: EMA/713031/2016
+Adopted Reference Number: EMA/713031/2016
 
 English (EN) (823.03 KB - PDF)
 
-**First published:** 15/11/2016
-
-**Last updated:** 15/11/2016
+**First published:** 15/11/2016 **Last updated:** 15/11/2016
 
 [View](/en/documents/variation-report/synflorix-h-c-973-p46-0062-epar-assessment-report_en.pdf)
 
 Synflorix-H-C-973-P46-059 : EPAR - Assessment Report
 
-Adopted
-
-Reference Number: EMA/657652/2016
+Adopted Reference Number: EMA/657652/2016
 
 English (EN) (353.2 KB - PDF)
 
-**First published:** 20/10/2016
-
-**Last updated:** 20/10/2016
+**First published:** 20/10/2016 **Last updated:** 20/10/2016
 
 [View](/en/documents/variation-report/synflorix-h-c-973-p46-059-epar-assessment-report_en.pdf)
 
 Synflorix-H-C-973-P46-0061 : EPAR - Assessment Report
 
-Adopted
-
-Reference Number: EMA/190189/2016
+Adopted Reference Number: EMA/190189/2016
 
 English (EN) (1.82 MB - PDF)
 
-**First published:** 11/03/2016
-
-**Last updated:** 11/03/2016
+**First published:** 11/03/2016 **Last updated:** 11/03/2016
 
 [View](/en/documents/variation-report/synflorix-h-c-973-p46-0061-epar-assessment-report_en.pdf)
 
 Synflorix-H-C-973-P46-0057 : EPAR - Assessment Report
 
-Adopted
-
-Reference Number: EMA/579957/2015
+Adopted Reference Number: EMA/579957/2015
 
 English (EN) (3.31 MB - PDF)
 
-**First published:** 29/01/2016
-
-**Last updated:** 29/01/2016
+**First published:** 29/01/2016 **Last updated:** 29/01/2016
 
 [View](/en/documents/variation-report/synflorix-h-c-973-p46-0057-epar-assessment-report_en.pdf)
 
 Synflorix-H-C-973-II-0092 : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/CHMP/253767/2015
+Adopted Reference Number: EMA/CHMP/253767/2015
 
 English (EN) (6.27 MB - PDF)
 
-**First published:** 15/06/2015
-
-**Last updated:** 15/06/2015
+**First published:** 15/06/2015 **Last updated:** 15/06/2015
 
 [View](/en/documents/variation-report/synflorix-h-c-973-ii-0092-epar-assessment-report-variation_en.pdf)
 
 Synflorix-H-C-973-P46-0040 : EPAR - Assessment Report
 
-Adopted
-
-Reference Number: EMA/233920/2015
+Adopted Reference Number: EMA/233920/2015
 
 English (EN) (2.31 MB - PDF)
 
-**First published:** 10/04/2015
-
-**Last updated:** 10/04/2015
+**First published:** 10/04/2015 **Last updated:** 10/04/2015
 
 [View](/en/documents/variation-report/synflorix-h-c-973-p46-0040-epar-assessment-report_en.pdf)
 
 Synflorix-H-C-973-P46-0056 : EPAR - Assessment Report
 
-Adopted
-
-Reference Number: EMA/190018/2015
+Adopted Reference Number: EMA/190018/2015
 
 English (EN) (3.04 MB - PDF)
 
-**First published:** 20/03/2015
-
-**Last updated:** 20/03/2015
+**First published:** 20/03/2015 **Last updated:** 20/03/2015
 
 [View](/en/documents/variation-report/synflorix-h-c-973-p46-0056-epar-assessment-report_en.pdf)
 
 Synflorix-H-C-973-P46-0053 : EPAR - Assessment Report
 
-Adopted
-
-Reference Number: EMA/99784/2015 Rev. 1
+Adopted Reference Number: EMA/99784/2015 Rev. 1
 
 English (EN) (1.66 MB - PDF)
 
-**First published:** 11/02/2015
-
-**Last updated:** 20/02/2015
+**First published:** 11/02/2015 **Last updated:** 20/02/2015
 
 [View](/en/documents/variation-report/synflorix-h-c-973-p46-0053-epar-assessment-report_en.pdf)
 
 Synflorix-H-C-973-P46-0050 : EPAR - Assessment Report
 
-Adopted
-
-Reference Number: EMA/99712/2015 Rev. 1
+Adopted Reference Number: EMA/99712/2015 Rev. 1
 
 English (EN) (1.04 MB - PDF)
 
-**First published:** 11/02/2015
-
-**Last updated:** 20/02/2015
+**First published:** 11/02/2015 **Last updated:** 20/02/2015
 
 [View](/en/documents/variation-report/synflorix-h-c-973-p46-0050-epar-assessment-report_en.pdf)
 
 Synflorix-H-C-973-P46-0044 : EPAR - Assessment Report
 
-Adopted
-
-Reference Number: EMA/96594/2015 Rev. 1
+Adopted Reference Number: EMA/96594/2015 Rev. 1
 
 English (EN) (715.05 KB - PDF)
 
-**First published:** 11/02/2015
-
-**Last updated:** 20/02/2015
+**First published:** 11/02/2015 **Last updated:** 20/02/2015
 
 [View](/en/documents/variation-report/synflorix-h-c-973-p46-0044-epar-assessment-report_en.pdf)
 
 Synflorix-H-C-973-P46-0017 : EPAR - Assessment Report
 
-Adopted
-
-Reference Number: EMA/96321/2015 Rev. 1
+Adopted Reference Number: EMA/96321/2015 Rev. 1
 
 English (EN) (9.42 MB - PDF)
 
-**First published:** 11/02/2015
-
-**Last updated:** 20/02/2015
+**First published:** 11/02/2015 **Last updated:** 20/02/2015
 
 [View](/en/documents/variation-report/synflorix-h-c-973-p46-0017-epar-assessment-report_en.pdf)
 
 Synflorix-H-C-973-P46-0012-1 : EPAR - Assessment Report
 
-Adopted
-
-Reference Number: EMA/98246/2015 Rev. 1
+Adopted Reference Number: EMA/98246/2015 Rev. 1
 
 English (EN) (1.42 MB - PDF)
 
-**First published:** 11/02/2015
-
-**Last updated:** 20/02/2015
+**First published:** 11/02/2015 **Last updated:** 20/02/2015
 
 [View](/en/documents/variation-report/synflorix-h-c-973-p46-0012-1-epar-assessment-report_en.pdf)
 
 Synflorix-H-C-973-P46-0042-43 : EPAR - Assessment Report
 
-Adopted
-
-Reference Number: EMA/85312/2015 Rev. 1
+Adopted Reference Number: EMA/85312/2015 Rev. 1
 
 English (EN) (13.23 MB - PDF)
 
-**First published:** 11/02/2015
-
-**Last updated:** 20/02/2015
+**First published:** 11/02/2015 **Last updated:** 20/02/2015
 
 [View](/en/documents/variation-report/synflorix-h-c-973-p46-0042-43-epar-assessment-report_en.pdf)
 
 Synflorix-H-C-973-P46-0048 : EPAR - Assessment Report
 
-Adopted
-
-Reference Number: EMA/97288/2015 Rev. 1
+Adopted Reference Number: EMA/97288/2015 Rev. 1
 
 English (EN) (2.33 MB - PDF)
 
-**First published:** 11/02/2015
-
-**Last updated:** 20/02/2015
+**First published:** 11/02/2015 **Last updated:** 20/02/2015
 
 [View](/en/documents/variation-report/synflorix-h-c-973-p46-0048-epar-assessment-report_en.pdf)
 
 Synflorix-H-C-973-P46-0049 : EPAR - Assessment Report
 
-Adopted
-
-Reference Number: EMA/97616/2015 Rev. 1
+Adopted Reference Number: EMA/97616/2015 Rev. 1
 
 English (EN) (2.47 MB - PDF)
 
-**First published:** 11/02/2015
-
-**Last updated:** 20/02/2015
+**First published:** 11/02/2015 **Last updated:** 20/02/2015
 
 [View](/en/documents/variation-report/synflorix-h-c-973-p46-0049-epar-assessment-report_en.pdf)
 
 Synflorix-H-C-973-II-0052 : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/73592/2014
+Adopted Reference Number: EMA/73592/2014
 
 English (EN) (1.19 MB - PDF)
 
-**First published:** 18/02/2014
-
-**Last updated:** 18/02/2014
+**First published:** 18/02/2014 **Last updated:** 18/02/2014
 
 [View](/en/documents/variation-report/synflorix-h-c-973-ii-0052-epar-assessment-report-variation_en.pdf)
 
 CHMP post-authorisation summary of positive opinion for Synflorix
 
-Adopted
-
-Reference Number: EMA/CHMP/389824/2013
+Adopted Reference Number: EMA/CHMP/389824/2013
 
 English (EN) (61.92 KB - PDF)
 
-**First published:** 25/10/2013
-
-**Last updated:** 25/10/2013
+**First published:** 25/10/2013 **Last updated:** 25/10/2013
 
 [View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-synflorix_en.pdf-0)
 
 Synflorix-H-C-973-II-0020 : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/736592/2011
+Adopted Reference Number: EMA/736592/2011
 
 English (EN) (1.02 MB - PDF)
 
-**First published:** 25/10/2011
-
-**Last updated:** 25/10/2011
+**First published:** 25/10/2011 **Last updated:** 25/10/2011
 
 [View](/en/documents/variation-report/synflorix-h-c-973-ii-0020-epar-assessment-report-variation_en.pdf)
 
 Synflorix-H-C-973-II-0014 : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/795221/2011
+Adopted Reference Number: EMA/795221/2011
 
 English (EN) (643.29 KB - PDF)
 
-**First published:** 25/10/2011
-
-**Last updated:** 25/10/2011
+**First published:** 25/10/2011 **Last updated:** 25/10/2011
 
 [View](/en/documents/variation-report/synflorix-h-c-973-ii-0014-epar-assessment-report-variation_en.pdf)
 
 Synflorix-H-C-973-II-0016 : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/830044/2011
+Adopted Reference Number: EMA/830044/2011
 
 English (EN) (231.32 KB - PDF)
 
-**First published:** 25/10/2011
-
-**Last updated:** 25/10/2011
+**First published:** 25/10/2011 **Last updated:** 25/10/2011
 
 [View](/en/documents/variation-report/synflorix-h-c-973-ii-0016-epar-assessment-report-variation_en.pdf)
 
@@ -1373,9 +893,7 @@ Synflorix : EPAR - Public assessment report
 
 English (EN) (404.32 KB - PDF)
 
-**First published:** 12/05/2009
-
-**Last updated:** 12/05/2009
+**First published:** 12/05/2009 **Last updated:** 12/05/2009
 
 [View](/en/documents/assessment-report/synflorix-epar-public-assessment-report_en.pdf)
 
@@ -1385,28 +903,28 @@ Reference Number: EMEA/CHMP/13120/2009
 
 English (EN) (32.12 KB - PDF)
 
-**First published:** 22/01/2009
-
-**Last updated:** 22/01/2009
+**First published:** 22/01/2009 **Last updated:** 22/01/2009
 
 [View](/en/documents/smop-initial/committee-medicinal-products-human-use-summary-positive-opinion-synflorix_en.pdf)
 
-#### News on Synflorix
+## News on Synflorix
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 21-24 October 2013](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-21-24-october-2013) 25/10/2013
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 21-24 October 2013](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-21-24-october-2013)
 
-#### More information on Synflorix
+25/10/2013
+
+## More information on Synflorix
 
 - [EMEA-000673-PIP01-09-M09 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-000673-pip01-09-m09)
 - [Synflorix - direct healthcare professional communication (DHPC)](/en/medicines/dhpc/synflorix)
 
-#### Topics
+## Topics
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 - [Vaccines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A76)
 
-**This page was last updated on** 24/05/2023
+**This page was last updated on**
+
+19/05/2026
 
 ## Share this page
-
-[Back to top](#main-content)

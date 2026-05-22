@@ -1,30 +1,32 @@
 ---
-document_datetime: 2026-01-27 15:45:00
+document_datetime: 2026-05-19 16:30:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/cimzia.html
 document_name: cimzia.html
 version: success
-processing_time: 0.153555
-conversion_datetime: 2026-01-29 12:14:22.252073
+processing_time: 0.1529507
+conversion_datetime: 2026-05-22 22:38:06.919003
 docling_version:
-  docling-serve: 1.11.0
-  docling-jobkit: 1.9.0
-  docling: 2.70.0
-  docling-core: 2.61.0
-  docling-ibm-models: 3.11.0
-  docling-parse: 4.7.3
+  docling-serve: 1.20.0
+  docling-jobkit: 1.20.0
+  docling: 2.95.0
+  docling-core: 2.77.0
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.11.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
 ---
 # Cimzia
 
 [RSS](/en/individual-human-medicine.xml/66042)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-certolizumab pegol Medicine Human Authorised
+certolizumab pegol
+
+Medicine Human Authorised
 
 Page contents
 
@@ -118,275 +120,141 @@ Reference Number: EMA/409425/2019
 
 English (EN) (110.12 KB - PDF)
 
-**First published:** 22/10/2009
-
-**Last updated:** 24/07/2019
+**First published:** 22/10/2009 **Last updated:** 24/07/2019
 
 [View](/en/documents/overview/cimzia-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-802)
+[Other languages (22)](#file-language-dropdown-68)
 
 български (BG) (134.03 KB - PDF)
 
-**First published:**
-
-22/10/2009
-
-**Last updated:**
-
-24/07/2019
+**First published:** 22/10/2009 **Last updated:** 24/07/2019
 
 [View](/bg/documents/overview/cimzia-epar-medicine-overview_bg.pdf)
 
 español (ES) (116.16 KB - PDF)
 
-**First published:**
-
-22/10/2009
-
-**Last updated:**
-
-24/07/2019
+**First published:** 22/10/2009 **Last updated:** 24/07/2019
 
 [View](/es/documents/overview/cimzia-epar-medicine-overview_es.pdf)
 
 čeština (CS) (129.31 KB - PDF)
 
-**First published:**
-
-22/10/2009
-
-**Last updated:**
-
-24/07/2019
+**First published:** 22/10/2009 **Last updated:** 24/07/2019
 
 [View](/cs/documents/overview/cimzia-epar-medicine-overview_cs.pdf)
 
 dansk (DA) (109.24 KB - PDF)
 
-**First published:**
-
-22/10/2009
-
-**Last updated:**
-
-24/07/2019
+**First published:** 22/10/2009 **Last updated:** 24/07/2019
 
 [View](/da/documents/overview/cimzia-epar-medicine-overview_da.pdf)
 
 Deutsch (DE) (110.48 KB - PDF)
 
-**First published:**
-
-22/10/2009
-
-**Last updated:**
-
-24/07/2019
+**First published:** 22/10/2009 **Last updated:** 24/07/2019
 
 [View](/de/documents/overview/cimzia-epar-medicine-overview_de.pdf)
 
 eesti keel (ET) (111.31 KB - PDF)
 
-**First published:**
-
-22/10/2009
-
-**Last updated:**
-
-24/07/2019
+**First published:** 22/10/2009 **Last updated:** 24/07/2019
 
 [View](/et/documents/overview/cimzia-epar-medicine-overview_et.pdf)
 
 ελληνικά (EL) (143.22 KB - PDF)
 
-**First published:**
-
-22/10/2009
-
-**Last updated:**
-
-24/07/2019
+**First published:** 22/10/2009 **Last updated:** 24/07/2019
 
 [View](/el/documents/overview/cimzia-epar-medicine-overview_el.pdf)
 
 français (FR) (110.86 KB - PDF)
 
-**First published:**
-
-22/10/2009
-
-**Last updated:**
-
-24/07/2019
+**First published:** 22/10/2009 **Last updated:** 24/07/2019
 
 [View](/fr/documents/overview/cimzia-epar-medicine-overview_fr.pdf)
 
 hrvatski (HR) (124.31 KB - PDF)
 
-**First published:**
-
-22/10/2009
-
-**Last updated:**
-
-24/07/2019
+**First published:** 22/10/2009 **Last updated:** 24/07/2019
 
 [View](/hr/documents/overview/cimzia-epar-medicine-overview_hr.pdf)
 
 italiano (IT) (109.58 KB - PDF)
 
-**First published:**
-
-22/10/2009
-
-**Last updated:**
-
-24/07/2019
+**First published:** 22/10/2009 **Last updated:** 24/07/2019
 
 [View](/it/documents/overview/cimzia-epar-medicine-overview_it.pdf)
 
 latviešu valoda (LV) (130.45 KB - PDF)
 
-**First published:**
-
-22/10/2009
-
-**Last updated:**
-
-24/07/2019
+**First published:** 22/10/2009 **Last updated:** 24/07/2019
 
 [View](/lv/documents/overview/cimzia-epar-medicine-overview_lv.pdf)
 
 lietuvių kalba (LT) (127.47 KB - PDF)
 
-**First published:**
-
-22/10/2009
-
-**Last updated:**
-
-24/07/2019
+**First published:** 22/10/2009 **Last updated:** 24/07/2019
 
 [View](/lt/documents/overview/cimzia-epar-medicine-overview_lt.pdf)
 
 magyar (HU) (125.53 KB - PDF)
 
-**First published:**
-
-22/10/2009
-
-**Last updated:**
-
-24/07/2019
+**First published:** 22/10/2009 **Last updated:** 24/07/2019
 
 [View](/hu/documents/overview/cimzia-epar-medicine-overview_hu.pdf)
 
 Malti (MT) (128.43 KB - PDF)
 
-**First published:**
-
-22/10/2009
-
-**Last updated:**
-
-24/07/2019
+**First published:** 22/10/2009 **Last updated:** 24/07/2019
 
 [View](/mt/documents/overview/cimzia-epar-medicine-overview_mt.pdf)
 
 Nederlands (NL) (110.17 KB - PDF)
 
-**First published:**
-
-22/10/2009
-
-**Last updated:**
-
-24/07/2019
+**First published:** 22/10/2009 **Last updated:** 24/07/2019
 
 [View](/nl/documents/overview/cimzia-epar-medicine-overview_nl.pdf)
 
 polski (PL) (129.52 KB - PDF)
 
-**First published:**
-
-22/10/2009
-
-**Last updated:**
-
-24/07/2019
+**First published:** 22/10/2009 **Last updated:** 24/07/2019
 
 [View](/pl/documents/overview/cimzia-epar-medicine-overview_pl.pdf)
 
 português (PT) (109.9 KB - PDF)
 
-**First published:**
-
-22/10/2009
-
-**Last updated:**
-
-24/07/2019
+**First published:** 22/10/2009 **Last updated:** 24/07/2019
 
 [View](/pt/documents/overview/cimzia-epar-medicine-overview_pt.pdf)
 
 română (RO) (128.22 KB - PDF)
 
-**First published:**
-
-22/10/2009
-
-**Last updated:**
-
-24/07/2019
+**First published:** 22/10/2009 **Last updated:** 24/07/2019
 
 [View](/ro/documents/overview/cimzia-epar-medicine-overview_ro.pdf)
 
 slovenčina (SK) (126.52 KB - PDF)
 
-**First published:**
-
-22/10/2009
-
-**Last updated:**
-
-24/07/2019
+**First published:** 22/10/2009 **Last updated:** 24/07/2019
 
 [View](/sk/documents/overview/cimzia-epar-medicine-overview_sk.pdf)
 
 slovenščina (SL) (123.39 KB - PDF)
 
-**First published:**
-
-22/10/2009
-
-**Last updated:**
-
-24/07/2019
+**First published:** 22/10/2009 **Last updated:** 24/07/2019
 
 [View](/sl/documents/overview/cimzia-epar-medicine-overview_sl.pdf)
 
 Suomi (FI) (109.15 KB - PDF)
 
-**First published:**
-
-22/10/2009
-
-**Last updated:**
-
-24/07/2019
+**First published:** 22/10/2009 **Last updated:** 24/07/2019
 
 [View](/fi/documents/overview/cimzia-epar-medicine-overview_fi.pdf)
 
 svenska (SV) (108.98 KB - PDF)
 
-**First published:**
-
-22/10/2009
-
-**Last updated:**
-
-24/07/2019
+**First published:** 22/10/2009 **Last updated:** 24/07/2019
 
 [View](/sv/documents/overview/cimzia-epar-medicine-overview_sv.pdf)
 
@@ -394,9 +262,7 @@ Cimzia : EPAR - Risk-management-plan summary
 
 English (EN) (1.04 MB - PDF)
 
-**First published:** 11/02/2019
-
-**Last updated:** 08/07/2021
+**First published:** 11/02/2019 **Last updated:** 08/07/2021
 
 [View](/en/documents/rmp-summary/cimzia-epar-risk-management-plan-summary_en.pdf)
 
@@ -404,305 +270,161 @@ English (EN) (1.04 MB - PDF)
 
 Cimzia : EPAR - Product Information
 
-English (EN) (1.4 MB - PDF)
+English (EN) (1.51 MB - PDF)
 
-**First published:** 21/01/2010
-
-**Last updated:** 27/01/2026
+**First published:** 21/01/2010 **Last updated:** 19/05/2026
 
 [View](/en/documents/product-information/cimzia-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-693)
+[Other languages (24)](#file-language-dropdown-578)
 
-български (BG) (1.49 MB - PDF)
+български (BG) (1.68 MB - PDF)
 
-**First published:**
-
-21/01/2010
-
-**Last updated:**
-
-27/01/2026
+**First published:** 21/01/2010 **Last updated:** 19/05/2026
 
 [View](/bg/documents/product-information/cimzia-epar-product-information_bg.pdf)
 
-español (ES) (1.5 MB - PDF)
+español (ES) (1.64 MB - PDF)
 
-**First published:**
-
-21/01/2010
-
-**Last updated:**
-
-27/01/2026
+**First published:** 21/01/2010 **Last updated:** 19/05/2026
 
 [View](/es/documents/product-information/cimzia-epar-product-information_es.pdf)
 
-čeština (CS) (1.47 MB - PDF)
+čeština (CS) (1.6 MB - PDF)
 
-**First published:**
-
-21/01/2010
-
-**Last updated:**
-
-27/01/2026
+**First published:** 21/01/2010 **Last updated:** 19/05/2026
 
 [View](/cs/documents/product-information/cimzia-epar-product-information_cs.pdf)
 
-dansk (DA) (1.28 MB - PDF)
+dansk (DA) (1.54 MB - PDF)
 
-**First published:**
-
-21/01/2010
-
-**Last updated:**
-
-27/01/2026
+**First published:** 21/01/2010 **Last updated:** 19/05/2026
 
 [View](/da/documents/product-information/cimzia-epar-product-information_da.pdf)
 
-Deutsch (DE) (1.45 MB - PDF)
+Deutsch (DE) (1.74 MB - PDF)
 
-**First published:**
-
-21/01/2010
-
-**Last updated:**
-
-27/01/2026
+**First published:** 21/01/2010 **Last updated:** 19/05/2026
 
 [View](/de/documents/product-information/cimzia-epar-product-information_de.pdf)
 
-eesti keel (ET) (1.16 MB - PDF)
+eesti keel (ET) (1.57 MB - PDF)
 
-**First published:**
-
-21/01/2010
-
-**Last updated:**
-
-27/01/2026
+**First published:** 21/01/2010 **Last updated:** 19/05/2026
 
 [View](/et/documents/product-information/cimzia-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.41 MB - PDF)
+ελληνικά (EL) (1.74 MB - PDF)
 
-**First published:**
-
-21/01/2010
-
-**Last updated:**
-
-27/01/2026
+**First published:** 21/01/2010 **Last updated:** 19/05/2026
 
 [View](/el/documents/product-information/cimzia-epar-product-information_el.pdf)
 
-français (FR) (1.41 MB - PDF)
+français (FR) (1.62 MB - PDF)
 
-**First published:**
-
-21/01/2010
-
-**Last updated:**
-
-27/01/2026
+**First published:** 21/01/2010 **Last updated:** 19/05/2026
 
 [View](/fr/documents/product-information/cimzia-epar-product-information_fr.pdf)
 
-hrvatski (HR) (1.29 MB - PDF)
+hrvatski (HR) (1.59 MB - PDF)
 
-**First published:**
-
-21/01/2010
-
-**Last updated:**
-
-27/01/2026
+**First published:** 21/01/2010 **Last updated:** 19/05/2026
 
 [View](/hr/documents/product-information/cimzia-epar-product-information_hr.pdf)
 
-íslenska (IS) (1.31 MB - PDF)
+íslenska (IS) (1.58 MB - PDF)
 
-**First published:**
-
-21/01/2010
-
-**Last updated:**
-
-27/01/2026
+**First published:** 21/01/2010 **Last updated:** 19/05/2026
 
 [View](/is/documents/product-information/cimzia-epar-product-information_is.pdf)
 
-italiano (IT) (1.9 MB - PDF)
+italiano (IT) (1.58 MB - PDF)
 
-**First published:**
-
-21/01/2010
-
-**Last updated:**
-
-27/01/2026
+**First published:** 21/01/2010 **Last updated:** 19/05/2026
 
 [View](/it/documents/product-information/cimzia-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (1.65 MB - PDF)
+latviešu valoda (LV) (1.58 MB - PDF)
 
-**First published:**
-
-21/01/2010
-
-**Last updated:**
-
-27/01/2026
+**First published:** 21/01/2010 **Last updated:** 19/05/2026
 
 [View](/lv/documents/product-information/cimzia-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (1.34 MB - PDF)
+lietuvių kalba (LT) (1.72 MB - PDF)
 
-**First published:**
-
-21/01/2010
-
-**Last updated:**
-
-27/01/2026
+**First published:** 21/01/2010 **Last updated:** 19/05/2026
 
 [View](/lt/documents/product-information/cimzia-epar-product-information_lt.pdf)
 
-magyar (HU) (1.52 MB - PDF)
+magyar (HU) (1.68 MB - PDF)
 
-**First published:**
-
-21/01/2010
-
-**Last updated:**
-
-27/01/2026
+**First published:** 21/01/2010 **Last updated:** 19/05/2026
 
 [View](/hu/documents/product-information/cimzia-epar-product-information_hu.pdf)
 
-Malti (MT) (1.64 MB - PDF)
+Malti (MT) (1.6 MB - PDF)
 
-**First published:**
-
-21/01/2010
-
-**Last updated:**
-
-27/01/2026
+**First published:** 21/01/2010 **Last updated:** 19/05/2026
 
 [View](/mt/documents/product-information/cimzia-epar-product-information_mt.pdf)
 
-Nederlands (NL) (1.51 MB - PDF)
+Nederlands (NL) (1.65 MB - PDF)
 
-**First published:**
-
-21/01/2010
-
-**Last updated:**
-
-27/01/2026
+**First published:** 21/01/2010 **Last updated:** 19/05/2026
 
 [View](/nl/documents/product-information/cimzia-epar-product-information_nl.pdf)
 
-norsk (NO) (1.25 MB - PDF)
+norsk (NO) (1.44 MB - PDF)
 
-**First published:**
-
-21/01/2010
-
-**Last updated:**
-
-27/01/2026
+**First published:** 21/01/2010 **Last updated:** 19/05/2026
 
 [View](/no/documents/product-information/cimzia-epar-product-information_no.pdf)
 
-polski (PL) (1.63 MB - PDF)
+polski (PL) (1.74 MB - PDF)
 
-**First published:**
-
-21/01/2010
-
-**Last updated:**
-
-27/01/2026
+**First published:** 21/01/2010 **Last updated:** 19/05/2026
 
 [View](/pl/documents/product-information/cimzia-epar-product-information_pl.pdf)
 
-português (PT) (1.31 MB - PDF)
+português (PT) (1.57 MB - PDF)
 
-**First published:**
-
-21/01/2010
-
-**Last updated:**
-
-27/01/2026
+**First published:** 21/01/2010 **Last updated:** 19/05/2026
 
 [View](/pt/documents/product-information/cimzia-epar-product-information_pt.pdf)
 
-română (RO) (1.54 MB - PDF)
+română (RO) (1.64 MB - PDF)
 
-**First published:**
-
-21/01/2010
-
-**Last updated:**
-
-27/01/2026
+**First published:** 21/01/2010 **Last updated:** 19/05/2026
 
 [View](/ro/documents/product-information/cimzia-epar-product-information_ro.pdf)
 
-slovenčina (SK) (1.52 MB - PDF)
+slovenčina (SK) (1.64 MB - PDF)
 
-**First published:**
-
-21/01/2010
-
-**Last updated:**
-
-27/01/2026
+**First published:** 21/01/2010 **Last updated:** 19/05/2026
 
 [View](/sk/documents/product-information/cimzia-epar-product-information_sk.pdf)
 
-slovenščina (SL) (1.27 MB - PDF)
+slovenščina (SL) (1.57 MB - PDF)
 
-**First published:**
-
-21/01/2010
-
-**Last updated:**
-
-27/01/2026
+**First published:** 21/01/2010 **Last updated:** 19/05/2026
 
 [View](/sl/documents/product-information/cimzia-epar-product-information_sl.pdf)
 
-Suomi (FI) (1.27 MB - PDF)
+Suomi (FI) (1.6 MB - PDF)
 
-**First published:**
-
-21/01/2010
-
-**Last updated:**
-
-27/01/2026
+**First published:** 21/01/2010 **Last updated:** 19/05/2026
 
 [View](/fi/documents/product-information/cimzia-epar-product-information_fi.pdf)
 
-svenska (SV) (1.24 MB - PDF)
+svenska (SV) (1.54 MB - PDF)
 
-**First published:**
-
-21/01/2010
-
-**Last updated:**
-
-27/01/2026
+**First published:** 21/01/2010 **Last updated:** 19/05/2026
 
 [View](/sv/documents/product-information/cimzia-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000317201 26/01/2026
+**Latest procedure affecting product information:** VR/0000310696
+
+16/04/2026
 
 icon globe
 
@@ -722,299 +444,153 @@ Cimzia : EPAR - All Authorised presentations
 
 English (EN) (50.89 KB - PDF)
 
-**First published:** 22/10/2009
-
-**Last updated:** 27/01/2026
+**First published:** 22/10/2009 **Last updated:** 27/01/2026
 
 [View](/en/documents/all-authorised-presentations/cimzia-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-593)
+[Other languages (24)](#file-language-dropdown-705)
 
 български (BG) (48.86 KB - PDF)
 
-**First published:**
-
-22/10/2009
-
-**Last updated:**
-
-27/01/2026
+**First published:** 22/10/2009 **Last updated:** 27/01/2026
 
 [View](/bg/documents/all-authorised-presentations/cimzia-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (9.59 KB - PDF)
 
-**First published:**
-
-22/10/2009
-
-**Last updated:**
-
-27/01/2026
+**First published:** 22/10/2009 **Last updated:** 27/01/2026
 
 [View](/es/documents/all-authorised-presentations/cimzia-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (42.48 KB - PDF)
 
-**First published:**
-
-22/10/2009
-
-**Last updated:**
-
-27/01/2026
+**First published:** 22/10/2009 **Last updated:** 27/01/2026
 
 [View](/cs/documents/all-authorised-presentations/cimzia-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (9.59 KB - PDF)
 
-**First published:**
-
-22/10/2009
-
-**Last updated:**
-
-27/01/2026
+**First published:** 22/10/2009 **Last updated:** 27/01/2026
 
 [View](/da/documents/all-authorised-presentations/cimzia-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (8.82 KB - PDF)
 
-**First published:**
-
-22/10/2009
-
-**Last updated:**
-
-27/01/2026
+**First published:** 22/10/2009 **Last updated:** 27/01/2026
 
 [View](/de/documents/all-authorised-presentations/cimzia-epar-all-authorised-presentations_de.pdf)
 
 eesti keel (ET) (8.84 KB - PDF)
 
-**First published:**
-
-22/10/2009
-
-**Last updated:**
-
-27/01/2026
+**First published:** 22/10/2009 **Last updated:** 27/01/2026
 
 [View](/et/documents/all-authorised-presentations/cimzia-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (36.96 KB - PDF)
 
-**First published:**
-
-22/10/2009
-
-**Last updated:**
-
-27/01/2026
+**First published:** 22/10/2009 **Last updated:** 27/01/2026
 
 [View](/el/documents/all-authorised-presentations/cimzia-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (11.71 KB - PDF)
 
-**First published:**
-
-22/10/2009
-
-**Last updated:**
-
-27/01/2026
+**First published:** 22/10/2009 **Last updated:** 27/01/2026
 
 [View](/fr/documents/all-authorised-presentations/cimzia-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (42.49 KB - PDF)
 
-**First published:**
-
-22/10/2009
-
-**Last updated:**
-
-27/01/2026
+**First published:** 22/10/2009 **Last updated:** 27/01/2026
 
 [View](/hr/documents/all-authorised-presentations/cimzia-epar-all-authorised-presentations_hr.pdf)
 
 íslenska (IS) (8.98 KB - PDF)
 
-**First published:**
-
-22/10/2009
-
-**Last updated:**
-
-27/01/2026
+**First published:** 22/10/2009 **Last updated:** 27/01/2026
 
 [View](/is/documents/all-authorised-presentations/cimzia-epar-all-authorised-presentations_is.pdf)
 
 italiano (IT) (81.9 KB - PDF)
 
-**First published:**
-
-22/10/2009
-
-**Last updated:**
-
-27/01/2026
+**First published:** 22/10/2009 **Last updated:** 27/01/2026
 
 [View](/it/documents/all-authorised-presentations/cimzia-epar-all-authorised-presentations_it.pdf)
 
 latviešu valoda (LV) (44.03 KB - PDF)
 
-**First published:**
-
-22/10/2009
-
-**Last updated:**
-
-27/01/2026
+**First published:** 22/10/2009 **Last updated:** 27/01/2026
 
 [View](/lv/documents/all-authorised-presentations/cimzia-epar-all-authorised-presentations_lv.pdf)
 
 lietuvių kalba (LT) (45.01 KB - PDF)
 
-**First published:**
-
-22/10/2009
-
-**Last updated:**
-
-27/01/2026
+**First published:** 22/10/2009 **Last updated:** 27/01/2026
 
 [View](/lt/documents/all-authorised-presentations/cimzia-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (44.56 KB - PDF)
 
-**First published:**
-
-22/10/2009
-
-**Last updated:**
-
-27/01/2026
+**First published:** 22/10/2009 **Last updated:** 27/01/2026
 
 [View](/hu/documents/all-authorised-presentations/cimzia-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (36.66 KB - PDF)
 
-**First published:**
-
-22/10/2009
-
-**Last updated:**
-
-27/01/2026
+**First published:** 22/10/2009 **Last updated:** 27/01/2026
 
 [View](/mt/documents/all-authorised-presentations/cimzia-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (10.24 KB - PDF)
 
-**First published:**
-
-22/10/2009
-
-**Last updated:**
-
-27/01/2026
+**First published:** 22/10/2009 **Last updated:** 27/01/2026
 
 [View](/nl/documents/all-authorised-presentations/cimzia-epar-all-authorised-presentations_nl.pdf)
 
 norsk (NO) (11.66 KB - PDF)
 
-**First published:**
-
-22/10/2009
-
-**Last updated:**
-
-27/01/2026
+**First published:** 22/10/2009 **Last updated:** 27/01/2026
 
 [View](/no/documents/all-authorised-presentations/cimzia-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (9.49 KB - PDF)
 
-**First published:**
-
-22/10/2009
-
-**Last updated:**
-
-27/01/2026
+**First published:** 22/10/2009 **Last updated:** 27/01/2026
 
 [View](/pl/documents/all-authorised-presentations/cimzia-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (9.13 KB - PDF)
 
-**First published:**
-
-22/10/2009
-
-**Last updated:**
-
-27/01/2026
+**First published:** 22/10/2009 **Last updated:** 27/01/2026
 
 [View](/pt/documents/all-authorised-presentations/cimzia-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (42.5 KB - PDF)
 
-**First published:**
-
-22/10/2009
-
-**Last updated:**
-
-27/01/2026
+**First published:** 22/10/2009 **Last updated:** 27/01/2026
 
 [View](/ro/documents/all-authorised-presentations/cimzia-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (33.87 KB - PDF)
 
-**First published:**
-
-22/10/2009
-
-**Last updated:**
-
-27/01/2026
+**First published:** 22/10/2009 **Last updated:** 27/01/2026
 
 [View](/sk/documents/all-authorised-presentations/cimzia-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (28.28 KB - PDF)
 
-**First published:**
-
-22/10/2009
-
-**Last updated:**
-
-27/01/2026
+**First published:** 22/10/2009 **Last updated:** 27/01/2026
 
 [View](/sl/documents/all-authorised-presentations/cimzia-epar-all-authorised-presentations_sl.pdf)
 
 Suomi (FI) (8.81 KB - PDF)
 
-**First published:**
-
-22/10/2009
-
-**Last updated:**
-
-27/01/2026
+**First published:** 22/10/2009 **Last updated:** 27/01/2026
 
 [View](/fi/documents/all-authorised-presentations/cimzia-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (11.45 KB - PDF)
 
-**First published:**
-
-22/10/2009
-
-**Last updated:**
-
-27/01/2026
+**First published:** 22/10/2009 **Last updated:** 27/01/2026
 
 [View](/sv/documents/all-authorised-presentations/cimzia-epar-all-authorised-presentations_sv.pdf)
 
@@ -1022,269 +598,159 @@ Cimzia : EPAR - Conditions imposed on member states for safe and effective use -
 
 English (EN) (18.56 KB - PDF)
 
-**First published:** 01/10/2009
-
-**Last updated:** 01/10/2009
+**First published:** 01/10/2009 **Last updated:** 01/10/2009
 
 [View](/en/documents/conditions-member-states/cimzia-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-71)
+[Other languages (21)](#file-language-dropdown-607)
 
 български (BG) (85.07 KB - PDF)
 
-**First published:**
-
-01/10/2009
-
-**Last updated:**
-
-01/10/2009
+**First published:** 01/10/2009 **Last updated:** 01/10/2009
 
 [View](/bg/documents/conditions-member-states/cimzia-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_bg.pdf)
 
 español (ES) (17.94 KB - PDF)
 
-**First published:**
-
-01/10/2009
-
-**Last updated:**
-
-01/10/2009
+**First published:** 01/10/2009 **Last updated:** 01/10/2009
 
 [View](/es/documents/conditions-member-states/cimzia-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_es.pdf)
 
 čeština (CS) (85.61 KB - PDF)
 
-**First published:**
-
-01/10/2009
-
-**Last updated:**
-
-01/10/2009
+**First published:** 01/10/2009 **Last updated:** 01/10/2009
 
 [View](/cs/documents/conditions-member-states/cimzia-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_cs.pdf)
 
 dansk (DA) (17.77 KB - PDF)
 
-**First published:**
-
-01/10/2009
-
-**Last updated:**
-
-01/10/2009
+**First published:** 01/10/2009 **Last updated:** 01/10/2009
 
 [View](/da/documents/conditions-member-states/cimzia-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_da.pdf)
 
 Deutsch (DE) (18.02 KB - PDF)
 
-**First published:**
-
-01/10/2009
-
-**Last updated:**
-
-01/10/2009
+**First published:** 01/10/2009 **Last updated:** 01/10/2009
 
 [View](/de/documents/conditions-member-states/cimzia-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_de.pdf)
 
 eesti keel (ET) (17.81 KB - PDF)
 
-**First published:**
-
-01/10/2009
-
-**Last updated:**
-
-01/10/2009
+**First published:** 01/10/2009 **Last updated:** 01/10/2009
 
 [View](/et/documents/conditions-member-states/cimzia-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_et.pdf)
 
 ελληνικά (EL) (80.73 KB - PDF)
 
-**First published:**
-
-01/10/2009
-
-**Last updated:**
-
-01/10/2009
+**First published:** 01/10/2009 **Last updated:** 01/10/2009
 
 [View](/el/documents/conditions-member-states/cimzia-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_el.pdf)
 
 français (FR) (16.84 KB - PDF)
 
-**First published:**
-
-01/10/2009
-
-**Last updated:**
-
-01/10/2009
+**First published:** 01/10/2009 **Last updated:** 01/10/2009
 
 [View](/fr/documents/conditions-member-states/cimzia-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_fr.pdf)
 
 italiano (IT) (17.63 KB - PDF)
 
-**First published:**
-
-01/10/2009
-
-**Last updated:**
-
-01/10/2009
+**First published:** 01/10/2009 **Last updated:** 01/10/2009
 
 [View](/it/documents/conditions-member-states/cimzia-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_it.pdf)
 
 latviešu valoda (LV) (83.54 KB - PDF)
 
-**First published:**
-
-01/10/2009
-
-**Last updated:**
-
-01/10/2009
+**First published:** 01/10/2009 **Last updated:** 01/10/2009
 
 [View](/lv/documents/conditions-member-states/cimzia-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_lv.pdf)
 
 lietuvių kalba (LT) (82.76 KB - PDF)
 
-**First published:**
-
-01/10/2009
-
-**Last updated:**
-
-01/10/2009
+**First published:** 01/10/2009 **Last updated:** 01/10/2009
 
 [View](/lt/documents/conditions-member-states/cimzia-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_lt.pdf)
 
 magyar (HU) (82.12 KB - PDF)
 
-**First published:**
-
-01/10/2009
-
-**Last updated:**
-
-01/10/2009
+**First published:** 01/10/2009 **Last updated:** 01/10/2009
 
 [View](/hu/documents/conditions-member-states/cimzia-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_hu.pdf)
 
 Malti (MT) (86.09 KB - PDF)
 
-**First published:**
-
-01/10/2009
-
-**Last updated:**
-
-01/10/2009
+**First published:** 01/10/2009 **Last updated:** 01/10/2009
 
 [View](/mt/documents/conditions-member-states/cimzia-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_mt.pdf)
 
 Nederlands (NL) (17.79 KB - PDF)
 
-**First published:**
-
-01/10/2009
-
-**Last updated:**
-
-01/10/2009
+**First published:** 01/10/2009 **Last updated:** 01/10/2009
 
 [View](/nl/documents/conditions-member-states/cimzia-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_nl.pdf)
 
 polski (PL) (81.48 KB - PDF)
 
-**First published:**
-
-01/10/2009
-
-**Last updated:**
-
-01/10/2009
+**First published:** 01/10/2009 **Last updated:** 01/10/2009
 
 [View](/pl/documents/conditions-member-states/cimzia-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_pl.pdf)
 
 português (PT) (19.1 KB - PDF)
 
-**First published:**
-
-01/10/2009
-
-**Last updated:**
-
-01/10/2009
+**First published:** 01/10/2009 **Last updated:** 01/10/2009
 
 [View](/pt/documents/conditions-member-states/cimzia-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_pt.pdf)
 
 română (RO) (83.02 KB - PDF)
 
-**First published:**
-
-01/10/2009
-
-**Last updated:**
-
-01/10/2009
+**First published:** 01/10/2009 **Last updated:** 01/10/2009
 
 [View](/ro/documents/conditions-member-states/cimzia-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_ro.pdf)
 
 slovenčina (SK) (84.5 KB - PDF)
 
-**First published:**
-
-01/10/2009
-
-**Last updated:**
-
-01/10/2009
+**First published:** 01/10/2009 **Last updated:** 01/10/2009
 
 [View](/sk/documents/conditions-member-states/cimzia-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_sk.pdf)
 
 slovenščina (SL) (79.85 KB - PDF)
 
-**First published:**
-
-01/10/2009
-
-**Last updated:**
-
-01/10/2009
+**First published:** 01/10/2009 **Last updated:** 01/10/2009
 
 [View](/sl/documents/conditions-member-states/cimzia-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_sl.pdf)
 
 Suomi (FI) (18.27 KB - PDF)
 
-**First published:**
-
-01/10/2009
-
-**Last updated:**
-
-01/10/2009
+**First published:** 01/10/2009 **Last updated:** 01/10/2009
 
 [View](/fi/documents/conditions-member-states/cimzia-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_fi.pdf)
 
 svenska (SV) (18.12 KB - PDF)
 
-**First published:**
-
-01/10/2009
-
-**Last updated:**
-
-01/10/2009
+**First published:** 01/10/2009 **Last updated:** 01/10/2009
 
 [View](/sv/documents/conditions-member-states/cimzia-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_sv.pdf)
 
 ## Product details
 
-Name of medicine Cimzia Active substance certolizumab pegol International non-proprietary name (INN) or common name certolizumab pegol Therapeutic area (MeSH) Arthritis, Rheumatoid Anatomical therapeutic chemical (ATC) code L04AB05
+Name of medicine
+
+Cimzia
+
+Active substance
+
+certolizumab pegol
+
+International non-proprietary name (INN) or common name
+
+certolizumab pegol
+
+Therapeutic area (MeSH)
+
+Arthritis, Rheumatoid
+
+Anatomical therapeutic chemical (ATC) code
+
+L04AB05
 
 ### Pharmacotherapeutic group
 
@@ -1321,13 +787,27 @@ Cimzia can be given as monotherapy in case of intolerance to methotrexate or whe
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/001037 Marketing authorisation holder
+EMA product number
+
+EMEA/H/C/001037
+
+Marketing authorisation holder
 
 UCB Pharma
 
 Allée de la Recherche 60
 
-Opinion adopted 25/06/2009 Marketing authorisation issued 01/10/2009 Revision 40
+Opinion adopted
+
+25/06/2009
+
+Marketing authorisation issued
+
+01/10/2009
+
+Revision
+
+41
 
 ## Assessment history
 
@@ -1339,11 +819,9 @@ Collapse section
 
 Cimzia : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (139.52 KB - PDF)
+English (EN) (133.31 KB - PDF)
 
-**First published:** 29/04/2025
-
-**Last updated:** 27/01/2026
+**First published:** 29/04/2025 **Last updated:** 19/05/2026
 
 [View](/en/documents/procedural-steps-after/cimzia-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1351,17 +829,13 @@ Cimzia : EPAR - Procedural steps taken and scientific information after authoris
 
 English (EN) (220.86 KB - PDF)
 
-**First published:** 21/01/2010
-
-**Last updated:** 29/04/2025
+**First published:** 21/01/2010 **Last updated:** 29/04/2025
 
 [View](/en/documents/procedural-steps-after/cimzia-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 Cimzia-PAM-0000263734 : EPAR - Assessment report
 
-Adopted
-
-Reference Number: EMADOC-1700519818-2036370
+Adopted Reference Number: EMADOC-1700519818-2036370
 
 English (EN) (229.22 KB - PDF)
 
@@ -1371,9 +845,7 @@ English (EN) (229.22 KB - PDF)
 
 Cimzia-H-C-1037-P46-041 : EPAR - Assessment report
 
-Adopted
-
-Reference Number: EMA/54239/2025
+Adopted Reference Number: EMA/54239/2025
 
 English (EN) (694.19 KB - PDF)
 
@@ -1383,9 +855,7 @@ English (EN) (694.19 KB - PDF)
 
 Cimzia-H-C-1037-P46-040 : EPAR - Assessment Report
 
-Adopted
-
-Reference Number: EMA/CHMP/330518/2024
+Adopted Reference Number: EMA/CHMP/330518/2024
 
 English (EN) (619.13 KB - PDF)
 
@@ -1399,23 +869,17 @@ Reference Number: EMA/502221/2018
 
 English (EN) (5.96 MB - PDF)
 
-**First published:** 20/09/2018
-
-**Last updated:** 20/09/2018
+**First published:** 20/09/2018 **Last updated:** 20/09/2018
 
 [View](/en/documents/variation-report/cimzia-h-c-1037-ii-0065-epar-assessment-report-variation_en.pdf)
 
 CHMP post-authorisation summary of positive opinion for Cimzia (II-65)
 
-Adopted
-
-Reference Number: EMA/CHMP/153785/2018
+Adopted Reference Number: EMA/CHMP/153785/2018
 
 English (EN) (77.73 KB - PDF)
 
-**First published:** 27/04/2018
-
-**Last updated:** 27/04/2018
+**First published:** 27/04/2018 **Last updated:** 27/04/2018
 
 [View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-cimzia-ii-65_en.pdf)
 
@@ -1425,37 +889,27 @@ Reference Number: EMA/18703/2018
 
 English (EN) (83.18 KB - PDF)
 
-**First published:** 06/02/2018
-
-**Last updated:** 06/02/2018
+**First published:** 06/02/2018 **Last updated:** 06/02/2018
 
 [View](/en/documents/scientific-conclusion/cimzia-h-c-1037-psusa-00000624-201703-epar-scientific-conclusions-and-grounds-recommending-variation-terms-marketing-authorisation_en.pdf)
 
 Cimzia-H-C-1037-II-0045 : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/CHMP/825080/2015
+Adopted Reference Number: EMA/CHMP/825080/2015
 
 English (EN) (7.22 MB - PDF)
 
-**First published:** 11/02/2016
-
-**Last updated:** 11/02/2016
+**First published:** 11/02/2016 **Last updated:** 11/02/2016
 
 [View](/en/documents/variation-report/cimzia-h-c-1037-ii-0045-epar-assessment-report-variation_en.pdf)
 
 CHMP post-authorisation summary of positive opinion for Cimzia
 
-Adopted
-
-Reference Number: EMA/CHMP/752205/2015
+Adopted Reference Number: EMA/CHMP/752205/2015
 
 English (EN) (75.88 KB - PDF)
 
-**First published:** 20/11/2015
-
-**Last updated:** 20/11/2015
+**First published:** 20/11/2015 **Last updated:** 20/11/2015
 
 [View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-cimzia_en.pdf)
 
@@ -1465,65 +919,47 @@ Reference Number: EMA/CHMP/33893/2015
 
 English (EN) (70.62 KB - PDF)
 
-**First published:** 19/01/2015
-
-**Last updated:** 19/01/2015
+**First published:** 19/01/2015 **Last updated:** 19/01/2015
 
 [View](/en/documents/scientific-conclusion/cimzia-h-c-1037-psuv-0041-epar-scientific-conclusions-and-grounds-recommending-variation-terms-marketing-authorisation_en.pdf)
 
 Cimzia-H-C-1037-II-0027 : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/CHMP/601513/2013
+Adopted Reference Number: EMA/CHMP/601513/2013
 
 English (EN) (1.14 MB - PDF)
 
-**First published:** 03/01/2014
-
-**Last updated:** 03/01/2014
+**First published:** 03/01/2014 **Last updated:** 03/01/2014
 
 [View](/en/documents/variation-report/cimzia-h-c-1037-ii-0027-epar-assessment-report-variation_en.pdf)
 
 Cimzia-H-C-1037-II-0029 : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/CHMP/458168/2013
+Adopted Reference Number: EMA/CHMP/458168/2013
 
 English (EN) (3.56 MB - PDF)
 
-**First published:** 07/11/2013
-
-**Last updated:** 07/11/2013
+**First published:** 07/11/2013 **Last updated:** 07/11/2013
 
 [View](/en/documents/variation-report/cimzia-h-c-1037-ii-0029-epar-assessment-report-variation_en.pdf)
 
 CHMP post-authorisation summary of positive opinion for Cimzia
 
-Adopted
-
-Reference Number: EMA/CHMP/617166/2013
+Adopted Reference Number: EMA/CHMP/617166/2013
 
 English (EN) (70.88 KB - PDF)
 
-**First published:** 25/10/2013
-
-**Last updated:** 25/10/2013
+**First published:** 25/10/2013 **Last updated:** 25/10/2013
 
 [View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-cimzia_en.pdf-1)
 
 CHMP post-authorisation summary of positive opinion for Cimzia
 
-Adopted
-
-Reference Number: EMEA/CHMP/569182/2013
+Adopted Reference Number: EMEA/CHMP/569182/2013
 
 English (EN) (71.19 KB - PDF)
 
-**First published:** 20/09/2013
-
-**Last updated:** 20/09/2013
+**First published:** 20/09/2013 **Last updated:** 20/09/2013
 
 [View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-cimzia_en.pdf-0)
 
@@ -1533,34 +969,40 @@ Cimzia : EPAR - Public assessment report
 
 English (EN) (476.05 KB - PDF)
 
-**First published:** 22/10/2009
-
-**Last updated:** 22/10/2009
+**First published:** 22/10/2009 **Last updated:** 22/10/2009
 
 [View](/en/documents/assessment-report/cimzia-epar-public-assessment-report_en.pdf)
 
-#### News on Cimzia
+## News on Cimzia
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 23-26 April 2018](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-23-26-april-2018) 27/04/2018
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 23-26 April 2018](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-23-26-april-2018)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 16-19 November 2015](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-16-19-november-2015) 20/11/2015
+27/04/2018
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 21-24 October 2013](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-21-24-october-2013) 25/10/2013
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 16-19 November 2015](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-16-19-november-2015)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 16-19 September 2013](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-16-19-september-2013) 20/09/2013
+20/11/2015
 
-#### More information on Cimzia
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 21-24 October 2013](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-21-24-october-2013)
+
+25/10/2013
+
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 16-19 September 2013](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-16-19-september-2013)
+
+20/09/2013
+
+## More information on Cimzia
 
 - [EMEA-001071-PIP03-14-M01 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001071-pip03-14-m01)
 - [EMEA-001071-PIP02-12-M02 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001071-pip02-12-m02)
 - [Shortening the time to confirm or to rebut Adverse events of interest related to innovative Therapies for immune-mediated inflammATory dIseases: cross-talking between different data sOURces. SATURATIOn study. - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000207)
 
-#### Topics
+## Topics
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 27/01/2026
+**This page was last updated on**
+
+19/05/2026
 
 ## Share this page
-
-[Back to top](#main-content)

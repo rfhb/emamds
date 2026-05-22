@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-03-12 16:40:57
+document_datetime: 2026-05-19 12:19:19
 document_pages: 50
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/yescarta-epar-product-information_en.pdf
 document_name: yescarta-epar-product-information_en.pdf
 version: success
-processing_time: 16.843028
-conversion_datetime: 2026-03-13 19:19:28.259222
+processing_time: 24.8597286
+conversion_datetime: 2026-05-22 23:12:19.59648
 docling_version:
-  docling-serve: 1.14.3
-  docling-jobkit: 1.13.0
-  docling: 2.79.0
-  docling-core: 2.69.0
-  docling-ibm-models: 3.12.0
-  docling-parse: 5.5.0
+  docling-serve: 1.20.0
+  docling-jobkit: 1.20.0
+  docling: 2.95.0
+  docling-core: 2.77.0
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.11.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -87,21 +87,21 @@ The availability of Yescarta must be confirmed prior to starting the lymphodeple
 ## Pre-medication
 
 - It is recommended that pre-medication with paracetamol 500-1 000 mg given orally and diphenhydramine 12.5 to 25 mg intravenously or orally, or equivalent medicinal products, be administered approximately 1 hour before the infusion of Yescarta to reduce the possibility of an infusion reaction.
-- Prophylactic use of systemic corticosteroids is not recommended (see section 4.5).
+- Prophylactic use of systemic corticosteroids is not routinely recommended (see section 4.5). Prophylactic use of systemic corticosteroids may be considered in patients at increased risk of severe immune-mediated adverse reactions, if the potential benefit outweighs the risk and as guided by local institutional and/or national or European/international guidelines.
 
 ## Monitoring
 
 - Patients must be monitored daily for the first 7 days following infusion for signs and symptoms of potential CRS, neurologic events and other toxicities. Physicians can consider hospitalisation for the first 7 days or at the first signs or symptoms of CRS and/or neurologic events.
-- After the first 7 days following the infusion, the patient is to be monitored at the physician's discretion.
-- Patients must remain within proximity of a qualified clinical facility for at least 4 weeks following infusion.
+- After the first 7 days following the infusion, the patient is to be monitored at the physician's discretion for at least an additional 7 days.
+- Patients must remain within proximity of a qualified treatment centre or appropriately trained clinical facility for at least 2 weeks following infusion.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Special populations
 
 Patients with human immunodeficiency virus (HIV), hepatitis B virus (HBV) and hepatitis C virus (HCV) infection
 
 There is limited clinical experience in patients with active HIV, HBV or HCV infection.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Elderly
 
@@ -162,9 +162,9 @@ In some cases, the treatment may be delayed after administration of the lymphode
 
 ## Monitoring after infusion
 
-Patients must be monitored daily for the first 7 days following infusion for signs and symptoms of potential CRS, neurologic events and other toxicities. Physicians can consider hospitalisation for the first 7 days or at the first signs or symptoms of CRS and/or neurologic events. After the first 7 days following infusion, the patient is to be monitored at the physician's discretion.
+Patients must be monitored daily for the first 7 days following infusion for signs and symptoms of potential CRS, neurologic events and other toxicities. Physicians can consider hospitalisation for the first 7 days or at the first signs or symptoms of CRS and/or neurologic events. After the first 7 days following infusion, the patient is to be monitored at the physician's discretion for at least an additional 7 days. Patients and caregivers should be informed about the potential late onset of CRS or neurologic events and instructed to seek immediate medical attention if patients experience any signs or symptoms of CRS or neurologic events.
 
-Patients must remain within proximity of a qualified treatment centre for at least 4 weeks following infusion and seek immediate medical attention should signs or symptoms of CRS or neurological adverse reactions occur. Vital signs and organ function must be monitored depending on the severity of the reaction.
+Patients must remain within proximity of a qualified treatment centre or appropriately trained clinical facility for at least 2 weeks following infusion and seek immediate medical attention should signs or symptoms of CRS or neurological adverse reactions occur. If the post-infusion monitoring of patients takes place in an appropriately trained clinical facility that is not the treatment center, it must meet the same requirements as the qualified treatment centre regarding the availability of emergency equipment and tocilizumab. Vital signs and organ function must be monitored depending on the severity of the reaction.
 
 ## Transmission of an infectious agent
 
@@ -174,13 +174,13 @@ Although Yescarta is tested for sterility and mycoplasma, a risk of transmission
 
 Screening for HBV, HCV, and HIV must be performed before collection of cells for manufacturing of Yescarta (see section 4.2).
 
+<div style=\"page-break-after: always\"></div>
+
 ## Blood, organ, tissue and cell donation
 
 Patients treated with Yescarta must not donate blood, organs, tissues, or cells for transplantation.
 
 ## Concomitant disease
-
-<div style=\"page-break-after: always\"></div>
 
 Patients with active central nervous system (CNS) disorder or inadequate renal, hepatic, pulmonary, or cardiac function are likely to be more vulnerable to the consequences of the adverse reactions described below and require special attention.
 
@@ -190,11 +190,13 @@ There is no experience of use of Yescarta in patients with primary CNS lymphoma.
 
 ## Cytokine release syndrome
 
-Nearly all patients experienced some degree of CRS. Severe CRS, including life-threatening and fatal reactions, was very commonly observed with Yescarta with a time to onset of 1 to 12 days in ZUMA-1 and ZUMA-7, and 1 to 11 days in ZUMA-5 (see section 4.8). Diagnosis of CRS requires excluding alternate causes of systemic inflammatory response, including infection.
+Nearly all patients experienced some degree of CRS. Severe CRS, including life-threatening and fatal reactions, was very commonly observed with Yescarta with a time to onset of 1 to 12 days in ZUMA-1 and ZUMA-7, and 1 to 11 days in ZUMA-5 (see section 4.8).
+
+Diagnosis of CRS requires excluding alternate causes of systemic inflammatory response, including infection.
 
 ## Management of cytokine release syndrome associated with Yescarta
 
-At least 1 dose per patient of tocilizumab, an interleukin 6 (IL 6) receptor inhibitor, must be on site and available for administration prior to Yescarta infusion. The qualified treatment centre must have access to an additional dose of tocilizumab within 8 hours of each previous dose. In the exceptional case where tocilizumab is not available due to a shortage that is listed in the European Medicine Agency shortage catalogue, the treatment centre must have access to suitable alternative measures instead of tocilizumab to treat CRS.
+At least 1 dose per patient of tocilizumab, an interleukin 6 (IL 6) receptor inhibitor, must be on site and available for administration prior to Yescarta infusion. The qualified treatment centre must have access to an additional dose of tocilizumab within 8 hours of each previous dose. If the post-infusion monitoring of patients takes place in an appropriately trained clinical facility, it must also adhere to the same requirements regarding the availability of tocilizumab. In the exceptional case where tocilizumab is not available due to a shortage that is listed in the European Medicine Agency shortage catalogue, the treatment centre /clinical facility must have access to suitable alternative measures instead of tocilizumab to treat CRS.
 
 The management of patients should be conducted based on the patient's clinical presentation and in accordance with applicable local institutional and/or national or European/international clinical guidelines. Physicians are advised to exercise clinical judgment consistent with these standards.
 
@@ -206,13 +208,13 @@ Evaluation for haemophagocytic lymphohistiocytosis/macrophage activation syndrom
 
 Yescarta continues to expand and persist following administration of tocilizumab and corticosteroids. Tumour necrosis factor (TNF) antagonists are not recommended for management of Yescarta-associated CRS.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Neurologic adverse reactions
 
 Severe neurologic adverse reactions, also known as immune effector cell-associated neurotoxicity syndrome (ICANS), have been very commonly observed in patients treated with Yescarta, which could be life-threatening or fatal. The median time to onset was 6 days (range: 1 to 133 days) in ZUMA-1 and ZUMA-7, and 7 days (range: 1 to 177 days) in ZUMA-5 following Yescarta infusion (see section 4.8). Patients with a history of CNS disorders such as seizures or cerebrovascular ischaemia may be at increased risk. Fatal and serious cases of cerebral oedema have been reported in patients treated with Yescarta.
 
 The management of patients should be conducted based on the patient's clinical presentation and in accordance with applicable local institutional and/or national or European/international clinical guidelines. Physicians are advised to exercise clinical judgment consistent with these standards.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Infections and febrile neutropenia
 
@@ -238,17 +240,15 @@ Patients may exhibit cytopenias for several weeks following lymphodepleting chem
 
 B-cell aplasia leading to hypogammaglobulinaemia can occur in patients receiving treatment with Yescarta. Hypogammaglobulinaemia has been very commonly observed in patients treated with Yescarta (see section 4.8). Hypogammaglobulinaemia predisposes patients to have infections. Immunoglobulin levels should be monitored after treatment with Yescarta and managed using infection precautions, antibiotic prophylaxis, and immunoglobulin replacement in case of recurrent infections and must be taken according to standard guidelines.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Hypersensitivity reactions
 
 Allergic reactions may occur with the infusion of Yescarta. Serious hypersensitivity reactions including anaphylaxis, may be due to DMSO or residual gentamicin in Yescarta.
 
 ## Secondary malignancies including of T-cell and myeloid origin
 
-Patients treated with Yescarta may develop secondary malignancies. T-cell malignancies have been reported following treatment of haematological malignancies with a BCMA- or CD19-directed CAR T-cell therapy, including Yescarta. T-cell malignancies, including CAR-positive malignancies, have been reported within weeks and up to several years following administration of a CD19- or BCMAdirected CAR T-cell therapy. There have been fatal outcomes. In the event that a secondary
-
-<div style=\"page-break-after: always\"></div>
-
-malignancy of T-cell origin occurs, the company is to be contacted to obtain instructions on patient samples to collect for testing.
+Patients treated with Yescarta may develop secondary malignancies. T-cell malignancies have been reported following treatment of haematological malignancies with a BCMA- or CD19-directed CAR T-cell therapy, including Yescarta. T-cell malignancies, including CAR-positive malignancies, have been reported within weeks and up to several years following administration of a CD19- or BCMAdirected CAR T-cell therapy. There have been fatal outcomes. In the event that a secondary malignancy of T-cell origin occurs, the company is to be contacted to obtain instructions on patient samples to collect for testing.
 
 Myelodysplastic syndrome and acute myeloid leukaemia, including cases with fatal outcomes, have occurred in patients following treatment with Yescarta.
 
@@ -276,9 +276,9 @@ This medicinal product contains 300 mg sodium per infusion bag, equivalent to 15
 
 No interaction studies have been performed with Yescarta.
 
-Prophylactic use of systemic corticosteroids may interfere with the activity of Yescarta. Prophylactic use of systemic corticosteroids is therefore not recommended before infusion (see section 4.2).
+Prophylactic use of systemic corticosteroids may interfere with the activity of Yescarta and is therefore not routinely recommended before infusion (see section 4.2).
 
-Administration of corticosteroids as per the toxicity management guidelines does not impact the expansion and persistence of CAR T cells.
+<div style=\"page-break-after: always\"></div>
 
 ## Live vaccines
 
@@ -286,9 +286,7 @@ The safety of immunisation with live viral vaccines during or following treatmen
 
 ## 4.6 Fertility, pregnancy and lactation
 
-Women of childbearing potential/Contraception in males and females
-
-<div style=\"page-break-after: always\"></div>
+## Women of childbearing potential/Contraception in males and females
 
 The pregnancy status of women of child bearing potential must be verified before starting Yescarta treatment.
 
@@ -316,11 +314,11 @@ No clinical data on the effect of Yescarta on fertility are available. Effects o
 
 Yescarta has major influence on the ability to drive and use machines.
 
-Due to the potential for neurologic events, including altered mental status or seizures, patients must refrain from driving or operating heavy or potentially dangerous machines until at least 8 weeks after infusion or until resolution of neurologic adverse reactions.
-
-## 4.8 Undesirable effects
+Due to the potential for neurologic events, including altered mental status or seizures, patients must refrain from driving or operating heavy or potentially dangerous machines for a minimum of 4 weeks after infusion or until complete resolution of neurologic adverse reactions.
 
 <div style=\"page-break-after: always\"></div>
+
+## 4.8 Undesirable effects
 
 ## Summary of the safety profile
 
@@ -384,55 +382,49 @@ Table 1: Adverse drug reactions identified with Yescarta
 | Psychiatric disorders                                                    | Psychiatric disorders                                                    | Psychiatric disorders                                                                       |
 |                                                                          | Very common                                                              | Delirium e Insomnia                                                                         |
 |                                                                          | Common                                                                   | Anxiety Affective disorder f                                                                |
-| Nervous system disorders                                                 | Nervous system disorders                                                 | Nervous system disorders                                                                    |
 
 <div style=\"page-break-after: always\"></div>
 
-| System Organ Class (SOC)                        | Frequency        | Adverse reactions                                                                                                |
-|-------------------------------------------------|------------------|------------------------------------------------------------------------------------------------------------------|
-| System Organ Class (SOC)                        | Very common      | Encephalopathy g Tremor h Headache i Dizziness j                                                                 |
-| System Organ Class (SOC)                        | Common           | Ataxia k Seizures, including status epilepticus Hemiparesis Facial paralysis l Neuropathy peripheral m Myoclonus |
-| System Organ Class (SOC)                        | Uncommon         | Quadriplegia Spinal cord oedema Myelitis Dyscalculia                                                             |
-| Eye disorders                                   |                  |                                                                                                                  |
-| Cardiac disorders                               | Common           | Visual impairment n                                                                                              |
-|                                                 | Very common      | Tachycardia o Arrhythmia p                                                                                       |
-|                                                 | Common           | Cardiac arrest Cardiac failure q                                                                                 |
-| Vascular disorders                              |                  |                                                                                                                  |
-|                                                 | Very common      | Hypotension r Hypertension                                                                                       |
-|                                                 | Common           | Thrombosis s Haemorrhage t                                                                                       |
-| Respiratory, thoracic and mediastinal disorders |                  |                                                                                                                  |
-|                                                 | Very common      | Cough u                                                                                                          |
-|                                                 | Common           | Respiratory failure v Hypoxia w Pleural effusion Pulmonary oedema Dyspnoea x Nasal inflammation y                |
-| Gastrointestinal disorders                      |                  |                                                                                                                  |
-|                                                 | Very common      | Vomiting Diarrhoea z Constipation Abdominal pain aa Nausea                                                       |
-|                                                 | Common           | Dysphagia*** bb                                                                                                  |
-| Hepatobiliary disorders                         |                  | Dry mouth                                                                                                        |
-|                                                 | Very common      | Transaminases increased cc dd                                                                                    |
-|                                                 | Common           | Hyperbilirubinaemia                                                                                              |
-| Skin and subcutaneous tissue                    |                  |                                                                                                                  |
-|                                                 | disorders        |                                                                                                                  |
-|                                                 | Very common      | Rash ee                                                                                                          |
-| Musculoskeletal and connective                  | tissue disorders |                                                                                                                  |
-|                                                 | Very common      | Motor dysfunction ff Musculoskeletal pain gg                                                                     |
-|                                                 | Uncommon         | Rhabdomyolysis                                                                                                   |
-| Renal and urinary disorders                     |                  |                                                                                                                  |
-|                                                 | Common           | Renal impairment hh                                                                                              |
-| General disorders and administration site       | conditions       |                                                                                                                  |
-|                                                 | Very common      | Fever ii Oedema jj Fatigue kk Chills                                                                             |
-|                                                 | Common           | Infusion related reaction Pain                                                                                   |
+| System Organ Class (SOC)                            | Frequency                                           | Adverse reactions                                                                                                |
+|-----------------------------------------------------|-----------------------------------------------------|------------------------------------------------------------------------------------------------------------------|
+| Nervous system disorders                            |                                                     |                                                                                                                  |
+|                                                     | Very common                                         | Encephalopathy g Tremor h Headache i Dizziness j                                                                 |
+|                                                     | Common                                              | Ataxia k Seizures, including status epilepticus Hemiparesis Facial paralysis l Neuropathy peripheral m Myoclonus |
+|                                                     | Uncommon                                            | Quadriplegia Spinal cord oedema Myelitis Dyscalculia                                                             |
+| Eye disorders                                       |                                                     |                                                                                                                  |
+| Cardiac disorders                                   | Common                                              | Visual impairment n                                                                                              |
+|                                                     | Very common                                         | Tachycardia o Arrhythmia p                                                                                       |
+|                                                     | Common                                              | Cardiac arrest Cardiac failure q                                                                                 |
+| Vascular disorders                                  |                                                     |                                                                                                                  |
+|                                                     | Very common                                         | Hypotension r Hypertension                                                                                       |
+|                                                     | Common                                              | Thrombosis s Haemorrhage t                                                                                       |
+| Respiratory, thoracic and mediastinal disorders     |                                                     |                                                                                                                  |
+|                                                     | Very common                                         | Cough u                                                                                                          |
+|                                                     | Common                                              | Respiratory failure v Hypoxia w Pleural effusion Pulmonary oedema Dyspnoea x Nasal inflammation y                |
+| Gastrointestinal disorders                          |                                                     |                                                                                                                  |
+|                                                     | Very common                                         | Vomiting Diarrhoea z Constipation Abdominal pain aa Nausea                                                       |
+|                                                     | Common                                              | Dysphagia*** bb                                                                                                  |
+| Hepatobiliary disorders                             |                                                     | Dry mouth                                                                                                        |
+|                                                     | Very common                                         | Transaminases increased cc                                                                                       |
+|                                                     | Common                                              | Hyperbilirubinaemia dd                                                                                           |
+| Skin and subcutaneous tissue disorders              |                                                     |                                                                                                                  |
+|                                                     | Very common                                         | Rash ee                                                                                                          |
+| Musculoskeletal and connective tissue disorders     | Musculoskeletal and connective tissue disorders     | Musculoskeletal and connective tissue disorders                                                                  |
+|                                                     | Very common                                         | Motor dysfunction ff Musculoskeletal pain gg                                                                     |
+| Uncommon Rhabdomyolysis Renal and urinary disorders | Uncommon Rhabdomyolysis Renal and urinary disorders | Uncommon Rhabdomyolysis Renal and urinary disorders                                                              |
+| General disorders and administration                | Very common                                         | Fever ii Oedema jj Fatigue kk Chills                                                                             |
 
 <div style=\"page-break-after: always\"></div>
 
 | System Organ Class (SOC)   | Frequency   | Adverse reactions                   |
 |----------------------------|-------------|-------------------------------------|
+|                            | Common      | Infusion related reaction Pain      |
 |                            | Uncommon    | Multiple organ dysfunction syndrome |
-
-* Haemophagocytic lymphohistiocytosis has been reported in the setting of CRS
-- ** Hyperuricemia was identified from a pooled analysis of 227 adult patients treated with Yescarta in ZUMA-1 and ZUMA-
 
 5
 
-- *** Dysphagia has been reported in the setting of neurologic toxicity and encephalopathy
+*** Dysphagia has been reported in the setting of neurologic toxicity and encephalopathy
+
 - #   Frequency based on Grade 3 or higher laboratory parameter
 - a. Coagulopathy includes coagulopathy, blood fibrinogen decreased, blood fibrinogen increased, disseminated intravascular coagulation, hypofibrinogenaemia, international normalized ratio increased, prothrombin level decreased, prothrombin time prolonged
 - b. Immunoglobulins decreased includes blood immunoglobulin G decreased, hypogammaglobulinaemia
@@ -467,10 +459,12 @@ Table 1: Adverse drug reactions identified with Yescarta
 - ee. Rash includes rash, application site rash, dermatitis, dermatitis allergic, dermatitis bullous, erythema, pruritus, rash erythematous, rash macular, rash maculo-papular, rash pruritic, rash pustular, urticaria
 - ff. Motor dysfunction includes motor dysfunction, muscle contractions involuntary, muscle rigidity, muscle spasms, muscle spasticity, muscle strain, muscle tightness, muscle twitching, muscular weakness
 - gg. Musculoskeletal pain includes musculoskeletal pain, arthralgia, arthritis, back pain, bone pain, flank pain, groin pain, musculoskeletal chest pain, myalgia, neck pain, osteoarthritis, pain in extremity
-- hh. Renal impairment includes acute kidney injury, blood creatinine increased, renal failure
+
+hh. Renal impairment includes acute kidney injury, blood creatinine increased, renal failure
+
 - ii. Fever includes hyperthermia, pyrexia
-- jj. Oedema includes oedema, face oedema, generalized oedema, localized oedema, oedema genital, oedema peripheral, peripheral swelling, swelling
-- kk. Fatigue includes fatigue, asthenia, decreased activity, malaise
+2. jj. Oedema includes oedema, face oedema, generalized oedema, localized oedema, oedema genital, oedema peripheral, peripheral swelling, swelling
+3. kk. Fatigue includes fatigue, asthenia, decreased activity, malaise
 
 <div style=\"page-break-after: always\"></div>
 
@@ -552,11 +546,9 @@ Among 73 patients in ZUMA-1 with evaluable samples at baseline, 40% had detectab
 
 ## Relapsed or refractory DLBCL, PMBCL and DLBCL arising from follicular lymphoma after two or more lines of systemic therapy (ZUMA-1)
 
-A total of 108 patients were treated with Yescarta in a phase 1/2 open-label, multicentre, single-arm study in patients with r/r aggressive B-cell non-Hodgkin lymphoma (NHL). Efficacy was based on 101 patients in phase 2, including histologically confirmed DLBCL (N = 77), PMBCL (N = 8), or
+A total of 108 patients were treated with Yescarta in a phase 1/2 open-label, multicentre, single-arm study in patients with r/r aggressive B-cell non-Hodgkin lymphoma (NHL). Efficacy was based on 101 patients in phase 2, including histologically confirmed DLBCL (N = 77), PMBCL (N = 8), or DLBCL arising from follicular lymphoma, (N = 16) based on the 2008 WHO-classification. DLBCL in ZUMA-1 included patients with DLBCL not otherwise specified (NOS), other DLBCL subtypes, and HGBL based on the 2016 WHO-classification. Forty-seven patients were evaluable for MYC, BCL-2, and BCL-6 status. Thirty were found to have double expressor DLBCL (overexpression of both MYC and BCL-2 protein); 5 were found to have HGBL with MYC , BCL-2 or BCL-6 gene rearrangement (double- and triple-hit); and 2 were found to have HGBL not otherwise specified. Sixty-six patients were evaluable for cell-of-origin classifications (germinal center B-cell type [GCB] or activated B-cell type [ABC]). Of these, 49 patients had GCB-type and 17 patients had ABC-type.
 
 <div style=\"page-break-after: always\"></div>
-
-DLBCL arising from follicular lymphoma, (N = 16) based on the 2008 WHO-classification. DLBCL in ZUMA-1 included patients with DLBCL not otherwise specified (NOS), other DLBCL subtypes, and HGBL based on the 2016 WHO-classification. Forty-seven patients were evaluable for MYC, BCL-2, and BCL-6 status. Thirty were found to have double expressor DLBCL (overexpression of both MYC and BCL-2 protein); 5 were found to have HGBL with MYC , BCL-2 or BCL-6 gene rearrangement (double- and triple-hit); and 2 were found to have HGBL not otherwise specified. Sixty-six patients were evaluable for cell-of-origin classifications (germinal center B-cell type [GCB] or activated B-cell type [ABC]). Of these, 49 patients had GCB-type and 17 patients had ABC-type.
 
 Eligible patients were ≥ 18 years of age with refractory disease defined as progressive disease (PD) or stable disease (SD) as best response to last line of therapy, or disease progression within 12 months after autologous stem cell transplant (ASCT). Patients who were refractory to chemotherapy or who relapsed after two or more lines of systemic therapy were generally ineligible for haematopoietic stem cell transplantation. Patients must have received at least prior anti-CD20 antibody therapy and an anthracycline containing regimen. Patients with CNS lymphoma, a history of allogeneic stem cell transplantation (SCT) or prior anti-CD19 CAR or other genetically modified T-cell therapy were excluded. Patients with a history of CNS disorders (such as seizures or cerebrovascular ischemia), cardiac ejection fraction of less than 50% or room air oxygen saturation of less than 92%, or autoimmune disease requiring systemic immunosuppression were ineligible. The median duration of follow-up was 63.1 months (still ongoing). A summary of the patient demographics is provided in Table 2.
 
@@ -636,11 +628,9 @@ In the overall study population, the median age was 59 years (range: 21 to 81 ye
 
 Patients in the Yescarta and SOCT arms were categorized as DLBCL NOS/without further classification possible (126 patients and 120 patients, respectively); DLBCL arising from follicular lymphoma (19 patients and 27 patients, respectively); HGBL with MYC , BCL2 , and/or BCL6 (doubleand triple-hit) rearrangements (31 patients and 25 patients, respectively) or HGBL NOS, (1 patient in the SOCT arm); the remaining subjects were categorized under not confirmed, missing, or other.
 
-Of the 180 patients randomised to receive Yescarta, 178 underwent leukapheresis and 170 were treated with Yescarta. Of the patients treated, 60 (33%) received bridging corticosteroid therapy. There were no manufacturing failures. Eight patients (4%) were not treated following leukapheresis, primarily due to progressive disease, serious adverse events, or death. The median time from leukapheresis to product release was 13 days (range: 10 to 24 days), and leukapheresis to Yescarta infusion was 26 days (range: 16 to 52 days). The median dose was 2.0 × 10 6 anti-CD19 CAR T cells/kg. All 170 patients who received Yescarta were monitored at a healthcare facility for a
+Of the 180 patients randomised to receive Yescarta, 178 underwent leukapheresis and 170 were treated with Yescarta. Of the patients treated, 60 (33%) received bridging corticosteroid therapy. There were no manufacturing failures. Eight patients (4%) were not treated following leukapheresis, primarily due to progressive disease, serious adverse events, or death. The median time from leukapheresis to product release was 13 days (range: 10 to 24 days), and leukapheresis to Yescarta infusion was 26 days (range: 16 to 52 days). The median dose was 2.0 × 10 6 anti-CD19 CAR T cells/kg. All 170 patients who received Yescarta were monitored at a healthcare facility for a minimum of 7 days. Of the 179 patients randomised to receive SOCT, 64 patients (36%) received HDT-ASCT.
 
 <div style=\"page-break-after: always\"></div>
-
-minimum of 7 days. Of the 179 patients randomised to receive SOCT, 64 patients (36%) received HDT-ASCT.
 
 The primary endpoint was event-free survival (EFS) as determined by blinded central review. Key secondary endpoints were ORR and OS. The summary of efficacy results in the overall population is shown in Table 4 and the Kaplan-Meier curves for EFS and OS are shown in Figure 1 and Figure 2, respectively. The 24-month EFS was 40.5% [95% CI: 33.2, 47.7] in the Yescarta arm and 16.3% [95% CI: 11.1, 22.2] in the SOCT arm. At the time of the primary EFS analysis, the median progression free survival (PFS) per central assessment in the Yescarta arm was 14.7 months (95% CI: 5.4, NE) compared with 3.7 months (95% CI: 2.9, 5.3) in the SOCT arm (HR: 0.490 [95% CI: 0.368, 0.652]). The median study duration was 24.9 months at the time of the primary EFS analysis and 47.2 months at the time of the primary OS analysis. The primary analysis of OS was performed at the protocolspecified timepoint of 5 years from the first subject enrolled. A statistically significant improvement in OS in favour of Yescarta was demonstrated (see Table 4). The estimated 48-month OS rates were 54.6% in the Yescarta arm and 46.0% in the SOCT arm. Fifty-seven percent of patients received cellular immunotherapy after no response to or relapse after randomisation to SOCT.
 
@@ -677,6 +667,11 @@ a. Per central assessment performed at the time of primary EFS analysis
 
 <div style=\"page-break-after: always\"></div>
 
+|                    | Median [95 %Cl]   | Stratified HR [95 %Cl]   | Stratified P-value   |
+|--------------------|-------------------|--------------------------|----------------------|
+| Axi-Cel (N = 180): | 8.3 (4.5, 15.8)   | 0.398 (0.308, 0.514)     | < 0.0001             |
+| SOCT (N = 179):    | 2.0 (1.6, 2.8)    |                          |                      |
+
 Figure 1. Kaplan-Meier Plot of Event-Free Survival in ZUMA-7
 
 <!-- image -->
@@ -687,7 +682,9 @@ Figure 2. Kaplan-Meier Plot of Overall Survival in ZUMA-7
 
 <!-- image -->
 
-CI, confidence interval; HR, hazard ratio; NE, not estimable; SOCT, standard of care treatment. Note: Subjects who did not respond to SOCT could receive subsequent treatment for lymphoma including anti-CD19 CAR T-cell therapy outside the requirement of the protocol.
+CI, confidence interval; HR, hazard ratio; NE, not estimable; SOCT, standard of care treatment.
+
+Note: Subjects who did not respond to SOCT could receive subsequent treatment for lymphoma including anti-CD19 CAR T-cell therapy outside the requirement of the protocol.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -695,11 +692,34 @@ Figure 3. Forest Plot of Event-Free Survival in Selected Subgroups in ZUMA-7
 
 <!-- image -->
 
+| Subgroup                                                                                         | Axicabtagene Ciloleucel Event/N (%)   | Standard of Care Event/N (%)   | HR (95 %CI)                               |             |
+|--------------------------------------------------------------------------------------------------|---------------------------------------|--------------------------------|-------------------------------------------|-------------|
+| Overall                                                                                          | 108/180 (60)                          | 144/179 (80)                   | 0.398 (0.308, 0.514)                      |             |
+| Age                                                                                              |                                       |                                |                                           |             |
+| < 65                                                                                             | 81/129 (63)                           | 96/121 (79)                    | 0.490 (0.361, 0.666)                      |             |
+| ≥ 65                                                                                             | 27/51 (53)                            | 48/58 (83)                     | 0.276 (0.164, 0.465)                      |             |
+| ECOG performance status                                                                          |                                       |                                |                                           |             |
+| 0                                                                                                | 59/95 (62)                            | 76/100 (76)                    | 0.504 (0.356, 0.713)                      |             |
+| 1                                                                                                | 49/85 (58)                            | 68/79 (86)                     | 0.292 (0.195, 0.436)                      |             |
+| Second-line age-adjusted IPI score per IXRS                                                      |                                       |                                |                                           |             |
+| 0-1                                                                                              | 54/98 (55)                            | 73/100 (73)                    | 0.407 (0.285, 0.582)                      |             |
+| 2-3                                                                                              | 54/82 (66)                            | 71/79 (90)                     | 0.388 (0.269, 0.561)                      |             |
+| Response to first-line therapy per IXRS                                                          |                                       |                                |                                           |             |
+| Primary refractory                                                                               | 85/133 (64)                           | 106/131 (81)                   | 0.426 (0.319, 0.570)                      |             |
+| Relapse ≤ 12 months of first line therapy                                                        | 23/47 (49)                            | 38/48 (79)                     | 0.342 (0.202, 0.579)                      |             |
+| Central Laboratory Double Expressor Status                                                       |                                       |                                |                                           |             |
+| Double expressor lymphoma                                                                        | 35/57 (61)                            | 50/62 (81)                     | 0.424 (0.268, 0.671)                      |             |
+| Central Laboratory Disease Type                                                                  |                                       |                                |                                           |             |
+| DLBCL NOS/without further classification possible HGBL with or without MYC and BCL2 and/or BLCL6 | 79/126 (63) 15/31 (48)                | 95/120 (79) 21/26 (81)         | 0.443 (0.325, 0.603) 0.285 (0.137, 0.594) |             |
+|                                                                                                  |                                       |                                |                                           | Better SOCT |
+
 CI, confidence interval; HR, hazard ratio; IxRS, interactive voice/web response system; SOCT, standard of care. Note: At the time of the primary EFS analysis, disease type by central laboratory was confirmed in 303 of 359 patients, the remaining patients were categorised by the central laboratory as not confirmed, missing or other.
 
 The OS benefit with Yescarta is consistent across clinically relevant subgroups.
 
-Relapsed or refractory FL after three or more lines of systemic therapy (ZUMA-5) The efficacy and safety of Yescarta in adult patients with FL, were evaluated in a phase 2 single-arm, open-label, multicentre study in patients with r/r FL based on 2016 WHO-classification.
+## Relapsed or refractory FL after three or more lines of systemic therapy (ZUMA-5)
+
+The efficacy and safety of Yescarta in adult patients with FL, were evaluated in a phase 2 single-arm, open-label, multicentre study in patients with r/r FL based on 2016 WHO-classification.
 
 Eligible patients were ≥ 18 years of age with refractory disease after 2 or more prior lines of therapy. Prior therapy must have included an anti-CD20 monoclonal antibody combined with an alkylating agent (single-agent anti-CD20 antibody did not count as line of therapy for eligibility). Patients with SD (without relapse) &gt; 1 year from completion of last therapy were not considered eligible. Patients with CNS lymphoma, a history of allogeneic SCT or prior anti-CD19 CAR or other genetically modified T-cell therapy were excluded. Patients with a history of CNS disorders (such as seizures or cerebrovascular ischemia), left ventricular ejection fraction of less than 50% or room air oxygen saturation of less than 92%, or autoimmune disease requiring systemic immunosuppression were ineligible. The study excluded patients with active or serious infections and patients with FL Grade 3b. The actual duration of follow-up was 25.9 months (range: 0.3 to 44.3 months, still ongoing). A summary of the patient demographics is provided in Table 5.
 
@@ -753,22 +773,20 @@ The 24-month follow-up analysis was performed on the 122 enrolled FL patients, a
 
 Table 6. Summary of Efficacy Results for all enrolled ZUMA-5 FL patients with 3 or more prior lines of therapy (24-month analysis)
 
-| Category                                                  | All leukapheresed (ITT) N = 75*   |
-|-----------------------------------------------------------|-----------------------------------|
-| ORR a , (%) [95% CI]                                      | 91% (82, 96)                      |
-| CR, (%)                                                   | 77%                               |
-| PR, (%)                                                   | 13%                               |
-| DOR b , median in months [95% CI] (range)                 | 38.6 (24.7, NE) (0.0, 38.6)       |
-| Ongoing Response (n)                                      | 42                                |
-| Rate of Continued Remission b %[95% CI] 12 Month 18 Month | 79.5(67.2, 87.6)                  |
-|                                                           | 75.5 (62.5, 84.6)                 |
-| 24 Month                                                  | 67.6 (52.7,                       |
-|                                                           | 78.7)                             |
+| Category                                                           | All leukapheresed (ITT) N = 75*                      |
+|--------------------------------------------------------------------|------------------------------------------------------|
+| ORR a , (%) [95% CI]                                               | 91% (82, 96)                                         |
+| CR, (%)                                                            | 77%                                                  |
+| PR, (%)                                                            | 13%                                                  |
+| DOR b , median in months [95% CI] (range)                          | 38.6 (24.7, NE) (0.0, 38.6)                          |
+| Ongoing Response (n)                                               | 42                                                   |
+| Rate of Continued Remission b %[95% CI] 12 Month 18 Month 24 Month | 79.5(67.2, 87.6) 75.5 (62.5, 84.6) 67.6 (52.7, 78.7) |
 
 CI, confidence interval; CR, complete response; DOR, duration of response; ITT, intention-to-treat; NE, not estimable; ORR, objective response; PR, partial response
 
 - a. Per the International Working Group Lugano Classification (Cheson 2014), as assessed by the Independent Radiology Review Committee
 - b. Measured from the date of first objective response to the date of progression or death
+
 * All patients with locally confirmed diagnosis, including 60 patients with centralized confirmed diagnosis. Number of leukapheresed (n=75) and treated (n=73) patients.
 
 Figure 4. Kaplan Meier DOR in the all leukapheresed set, patients with objective response (FL patients with 3 or more lines of prior therapy, 24-month analysis, independent review committee)
@@ -791,10 +809,6 @@ FL
 
 CI, confidence interval; NE, not estimable.
 
-## Paediatric population
-
-The European Medicines Agency has waived the obligation to submit the results of studies with Yescarta in all subsets of the paediatric population in the treatment of mature B-cell neoplasms (see section 4.2 for information on paediatric use).
-
 8
 
 8   8    8    6
@@ -802,6 +816,10 @@ The European Medicines Agency has waived the obligation to submit the results of
 1  1  1  0
 
 <div style=\"page-break-after: always\"></div>
+
+## Paediatric population
+
+The European Medicines Agency has waived the obligation to submit the results of studies with Yescarta in all subsets of the paediatric population in the treatment of mature B-cell neoplasms (see section 4.2 for information on paediatric use).
 
 ## 5.2 Pharmacokinetic properties
 
@@ -815,9 +833,9 @@ Among patients in ZUMA-1, the median peak level of anti-CD19 CAR T cells in the 
 
 Among patients in ZUMA-5 with FL, the median peak level of anti-CD19 CAR T cells in the blood was 37.6 cells/µL (range: 0.5 to 1415.4 cells/μL) . The median time to peak of anti-CD19 CAR T cells in the blood was 8 days after infusion (range: 8 to 371 days). By 3 months, anti-CD19 CAR T cell levels decreased to near baseline levels to a median of 0.3 cells/µL (range: 0 to 15.8 cells/μL) .
 
-Among patients in ZUMA-1, the number of anti-CD19 CAR T cells in the blood was positively associated with objective response (CR or PR). The median anti-CD19 CAR T cell peak level in responders (N = 71) was 216% higher compared to the corresponding level in nonresponders (N = 25) (43.6 cells/μL versus 20.2 cells/μL). Median AUC0-28 in responding patients (N = 71) was 253% of the corresponding level in nonresponders (N = 25) (562 days × cells/μL versus 222 days × cells/μL).
+Among patients in ZUMA-1, the number of anti-CD19 CAR T cells in the blood was positively associated with objective response (CR or PR). The median anti-CD19 CAR T-cell peak level in responders (N = 71) was 216% higher compared to the corresponding level in nonresponders (N = 25) (43.6 cells/μL versus 20.2 cells/μL). Median AUC0-28 in responding patients (N = 71) was 253% of the corresponding level in nonresponders (N = 25) (562 days × cells/μL versus 222 days × cells/μL).
 
-Among patients in ZUMA-7 the number of anti-CD19 CAR T cells in the blood was positively associated with objective response (CR or PR). The median anti-CD19 CAR T cell peak levels in responders (n=142) were about 275% higher compared to the corresponding level in nonresponders (n=20) (28.9 cells/μL versus 10.5 cells/μL). Median AUC 0 - 28 in responding patients (n=142) was about 417% higher compared to the corresponding level in nonresponders (n=20) (292.9 days × cells/μL versus 70.1 days × cells/μL).
+Among patients in ZUMA-7 the number of anti-CD19 CAR T cells in the blood was positively associated with objective response (CR or PR). The median anti-CD19 CAR T-cell peak levels in responders (n=142) were about 275% higher compared to the corresponding level in nonresponders (n=20) (28.9 cells/μL versus 10.5 cells/μL). Median AUC 0 - 28 in responding patients (n=142) was about 417% higher compared to the corresponding level in nonresponders (n=20) (292.9 days × cells/μL versus 70.1 days × cells/μL).
 
 Among patients with FL in ZUMA-5, the median peak anti-CD19 CAR T-cell levels in responders (n=112) versus nonresponders (n=5) were 38.0 cells/μ L and 31.3 cells/μL, respectively. The median AUC0-28 in responders versus nonresponders were 454.8 cells/μL·days and 247.1 cells/μL·days, respectively.
 
@@ -827,9 +845,9 @@ Studies of Yescarta in patients with hepatic and renal impairment were not condu
 
 Yescarta comprises engineered human T cells, therefore there are no representative in vitro assays, ex vivo models, or in vivo models that can accurately address the toxicological characteristics of the human product. Hence, traditional toxicology studies used for drug development were not performed.
 
-No carcinogenicity or genotoxicity studies have been conducted with Yescarta.
-
 <div style=\"page-break-after: always\"></div>
+
+No carcinogenicity or genotoxicity studies have been conducted with Yescarta.
 
 No studies have been conducted to evaluate the effects of Yescarta on fertility, reproduction, and development.
 
@@ -855,7 +873,7 @@ Yescarta must be stored at ≤ -120 ˚ C and must remain frozen until the patien
 
 Yescarta may be stored a single time at -80 °C (± 10 °C), for up to 90 days. After storage at -80 °C (± 10 °C), the product must be used within the 90-day period or the labelled expiration date, whichever comes first. After these dates, the product must not be used and must be discarded.
 
-Thawed medicinal product should not be refrozen.
+Thawed medicinal product must not be refrozen.
 
 For storage conditions after thawing of the medicinal product, see section 6.3.
 
@@ -873,9 +891,9 @@ Precautions to be taken before handling or administering the medicinal product
 
 Yescarta must be transported within the facility in closed, break-proof, leak-proof containers.
 
-This medicinal product contains human blood cells. Healthcare professionals handling Yescarta must take appropriate precautions (wearing gloves and eye protection) to avoid potential transmission of infectious diseases.
-
 <div style=\"page-break-after: always\"></div>
+
+This medicinal product contains human blood cells. Healthcare professionals handling Yescarta must take appropriate precautions (wearing gloves and eye protection) to avoid potential transmission of infectious diseases.
 
 ## Preparation prior to administration
 
@@ -907,11 +925,11 @@ This medicinal product contains human blood cells. Healthcare professionals hand
 
 In case of accidental exposure local guidelines on handling of human-derived materials must be followed. Work surfaces and materials which have potentially been in contact with Yescarta must be decontaminated with appropriate disinfectant.
 
-## Precautions to be taken for the disposal of the medicinal product
+<div style=\"page-break-after: always\"></div>
+
+Precautions to be taken for the disposal of the medicinal product
 
 Unused medicinal product and all material that has been in contact with Yescarta (solid and liquid waste) must be handled and disposed of as potentially infectious waste in accordance with local guidelines on the handling of waste of human-derived material.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
@@ -930,6 +948,8 @@ Date of latest renewal: 24 July 2023
 ## 10. DATE OF REVISION OF THE TEXT
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu.
+
+28
 
 <div style=\"page-break-after: always\"></div>
 
@@ -981,7 +1001,7 @@ An updated RMP should be submitted:
 
 ## · Additional risk minimisation measures
 
-## Key elements:
+Key elements:
 
 ## Availability of tocilizumab and site qualification
 
@@ -989,7 +1009,7 @@ The MAH will ensure that hospitals and their associated centres that dispense Ye
 
 - ensuring immediate, on-site access to one dose of tocilizumab per patient prior to Yescarta infusion. The treatment centre must have access to an additional dose of tocilizumab within 8 hours of each previous dose. In the exceptional case where tocilizumab is not available due to a shortage that is listed in the European Medicines Agency shortage catalogue, ensuring that suitable alternative measures to treat CRS instead of tocilizumab are available on-site.
 - ensuring healthcare professionals (HCP) involved in the treatment of a patient have completed the educational programme.
-- As part of site qualification training, ensuring HCPs are made aware of the need to contact the MAH to obtain recommendations for tumour sample collection and testing following the development of a secondary malignancy of T cell origin.
+- As part of site qualification training, ensuring HCPs are made aware of the need to contact the MAH to obtain recommendations for tumour sample collection and testing following the development of a secondary malignancy of T-cell origin.
 
 Educational program - Prior to the launch of Yescarta in each Member State the MAH must agree the content and format of the educational materials with the National Competent Authority.
 
@@ -1005,14 +1025,13 @@ The MAH shall ensure that in each Member State where Yescarta is marketed, all H
 - -before treating a patient, ensure that at least 1 dose of tocilizumab for each patient is available on site; in the exceptional case where tocilizumab is not available due to a shortage that is listed in the European Medicine Agency shortage catalogue, ensure that suitable alternative measures to treat CRS are available on site
 - -inform on the risk of secondary malignancy of T-cell origin
 
-## Patient Educational program
+## Patient card
 
-To inform and explain to patients
+To inform and explain to patients:
 
 - -the risks of CRS and serious neurologic adverse reactions, associated with Yescarta
 - -the need to report the symptoms to their treating doctor immediately
-- -the need to remain in the proximity of the location where Yescarta was received for at least 4 weeks following Yescarta infusion
-- -the need to carry the patient alert card at all times
+- -the need to carry the patient card at all times
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1326,7 +1345,7 @@ Discuss pregnancy with your doctor if you have received Yescarta.
 
 ## Driving and using machines
 
-Some people may feel tired, dizzy or have some shaking after being given Yescarta. Therefore, do not drive or use heavy machines until at least 8 weeks after infusion or until your doctor tells you that you have completely recovered.
+Some people may feel tired, dizzy or have some shaking after being given Yescarta. Therefore, do not drive or use heavy machines until at least 4 weeks after infusion or until your doctor tells you that you have completely recovered.
 
 ## Yescarta contains sodium, dimethyl sulphoxide (DMSO), and residual gentamicin
 
@@ -1366,11 +1385,11 @@ Your doctor may do blood tests to check for side effects.
 
 ## After Yescarta is given
 
-- You must stay within proximity of a hospital as discussed with your doctor for at least 4 weeks after you have been given Yescarta. Your doctor will recommend that you return to the hospital
+- Your doctor will recommend that you return to the hospital daily for at least 7 days and will consider whether you need to stay at the hospital as an in-patient for the first 7 days after
 
 <div style=\"page-break-after: always\"></div>
 
-daily for at least 7 days and will consider whether you need to stay at the hospital as an in-patient for the first 7 days after infusion. This is so your doctor can check if your treatment is working and help you if you have any side effects.
+infusion. This is so your doctor can help you if you have any side effects. You must stay within proximity of a hospital as discussed with your doctor for at least 2 weeks after you have been given Yescarta.
 
 ## If you miss an appointment
 
@@ -1487,7 +1506,7 @@ Do not use this medicine after the expiry date which is stated on the container 
 
 Store frozen at ≤ -120 °C until thawed for use.
 
-Yescarta may be stored a single time at -80°C (± 10 °C), for up to 90 days. After storage at  -80 °C (± 10 °C), use the product within the 90-day period or the expiry date, whichever comes first. After these dates the product must be discarded.
+Yescarta may be stored a single time at -80 °C (± 10 °C), for up to 90 days. After storage at -80 °C (± 10 °C), use the product within the 90-day period or the expiry date, whichever comes first. After these dates the product must be discarded.
 
 Do not refreeze.
 
@@ -1506,11 +1525,9 @@ Yescarta is a clear to opaque, white to red dispersion for infusion, supplied in
 
 ## Marketing Authorisation Holder and Manufacturer
 
-Kite Pharma EU B.V. Tufsteen 1 2132 NT Hoofddorp The Netherlands
+Kite Pharma EU B.V. Tufsteen 1 2132 NT Hoofddorp The Netherlands For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 <div style=\"page-break-after: always\"></div>
-
-For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 ## België/Belgique/Belgien
 
@@ -1644,12 +1661,6 @@ Gilead Sciences Sweden AB
 
 Tel: + 46 (0) 8 5057 1849
 
-## United Kingdom (Northern Ireland)
-
-Gilead Sciences Ireland UC
-
-Tel: + 44 (0) 8000 113700
-
 <div style=\"page-break-after: always\"></div>
 
 ## The following information is intended for healthcare professionals only:
@@ -1695,7 +1706,7 @@ volume of Yescarta has been infused, the infusion bag must be rinsed with 10 to 
 
 ## Measures to take in case of accidental exposure
 
-In case of accidental exposure local guidelines on handling of human-derived material must be followed which may include washing of the contaminated skin, removal of contaminated clothes. Work surfaces and materials which have potentially been in contact with Yescarta must be decontaminated with appropriate disinfectant.
+In case of accidental exposure local guidelines on handling of human-derived material must be followed. Work surfaces and materials which have potentially been in contact with Yescarta must be decontaminated with appropriate disinfectant.
 
 ## Precautions to be taken for the disposal of the medicinal product
 

@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-01-27 11:42:20
+document_datetime: 2026-05-19 16:24:47
 document_pages: 136
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/cimzia-epar-product-information_en.pdf
 document_name: cimzia-epar-product-information_en.pdf
 version: success
-processing_time: 37.069829
-conversion_datetime: 2026-01-29 12:01:14.651951
+processing_time: 69.0138917
+conversion_datetime: 2026-05-22 23:31:09.728805
 docling_version:
-  docling-serve: 1.11.0
-  docling-jobkit: 1.9.0
-  docling: 2.70.0
-  docling-core: 2.61.0
-  docling-ibm-models: 3.11.0
-  docling-parse: 4.7.3
+  docling-serve: 1.20.0
+  docling-jobkit: 1.20.0
+  docling: 2.95.0
+  docling-core: 2.77.0
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.11.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -121,7 +121,7 @@ Patients who miss a dose should be advised to inject the next dose of Cimzia as 
 
 ## Paediatric population (&lt; 18 years old)
 
-The safety and efficacy of Cimzia in children and adolescents below age 18 years have not yet been established. No data are available.
+The  safety  and  efficacy  of  Cimzia  in  children  and  adolescents  below  age 18 years  have  not  been established.  Cimzia should not be used in children and adolescents below 18 years of age.
 
 ## Elderly patients (≥ 65 years old)
 
@@ -185,11 +185,9 @@ Reactivation of hepatitis B has occurred in patients receiving a TNF-antagonist 
 
 Patients should be tested for HBV infection before initiating treatment with Cimzia. For patients who test positive for HBV infection, consultation with a physician with expertise in the treatment of hepatitis B is recommended.
 
-Carriers of HBV who require treatment with Cimzia should be closely monitored for signs and symptoms of active HBV infection throughout therapy and for several months following termination of therapy. Adequate data of treating patients who are carriers of HBV with anti -viral therapy in conjunction with TNFantagonist therapy to prevent HBV reactivation are not available. In patients
+Carriers of HBV who require treatment with Cimzia should be closely monitored for signs and symptoms of active HBV infection throughout therapy and for several months following termination of therapy. Adequate data of treating patients who are carriers of HBV with anti -viral therapy in conjunction with TNFantagonist therapy to prevent HBV reactivation are not available. In patients who develop HBV reactivation, Cimzia should be stopped and effective anti -viral therapy with appropriate supportive treatment should be initiated.
 
 <div style=\"page-break-after: always\"></div>
-
-who develop HBV reactivation, Cimzia should be stopped and effective anti -viral therapy with appropriate supportive treatment should be initiated.
 
 ## Malignancies and lymphoproliferative disorders
 
@@ -289,13 +287,11 @@ The use of adequate contraception should be considered for women of childbearing
 
 ## Human data
 
-A large amount of data (more than 1500 pregnancies exposed to Cimzia during the first trimester ) from prospectively reported pregnancies with known pregnancy outcomes, indicate no malformative
+A large amount of data (more than 1500 pregnancies exposed to Cimzia during the first trimester ) from prospectively reported pregnancies with known pregnancy outcomes, indicate no malformative nor feto/neonatal toxicity . Continuous data collection is ongoing with pharmacovigilance cases reporting and a pregnancy registry.
 
 <div style=\"page-break-after: always\"></div>
 
-nor feto/neonatal toxicity . Continuous data collection is ongoing with pharmacovigilance cases reporting and a pregnancy registry.
-
-In a pregnancy register (the OTIS study) the proportion of major birth defects in live-born infants was 15/132 (11.4%) in women treated with Cimzia at least during the first trimester, and 8/126 (6.3%) in women with the same indicated diseases but not treated with Cimzia (relative risk 1.85 ; 95% CI 0.7 4 to 4.60 ). A similar association was seen when women treated with Cimzia were compared with women not having a disease consistent with approved Cimzia indications (proportion 10/126 [7.9%] and relative risk 1 .65; 95% CI 0.75 to 3.64). No pattern of major or minor defects was identified. There were no distinct differences between the Cimzia treated group and both comparison groups for spontaneous abortion, serious or opportunistic infections, hospitalization, adverse vaccine reactions, in the children who were followed up for up to 5 years of age. No stillbirths or termination were reported in the Cimzia arm while 2 stillbirths and 3 pregnancy terminations were reported in the disease un exposed arm. The interpretation of data may be impacted due to methodological limitations of the study, including small sample size and non-randomized design.
+In a pregnancy register (the OTIS study) the proportion of major birth defects in live-born infants was 15/132 (11.4%) in women treated with Cimzia at least during the first trimester, and 8/126 (6.3%) in women with the same indicated diseases but not treated with Cimzia (relative risk 1.85 ; 95% CI 0.7 4 to 4.60 ). A similar association was seen when women treated with Cimzia were compared with women not having a disease consistent with approved Cimzia indications (proportion 10/126 [7.9%] and relative risk 1.65; 95% CI 0.75 to 3.64). No pattern of major or minor defects was identified. There were no distinct differences between the Cimzia treated group and both comparison groups for spontaneous abortion, serious or opportunistic infections, hospitalization, adverse vaccine reactions, in the children who were followed up for up to 5 years of age. No stillbirths or termination were reported in the Cimzia arm while 2 stillbirths and 3 pregnancy terminations were reported in the disease un exposed arm. The interpretation of data may be impacted due to methodological limitations of the study, including small sample size and non-randomized design.
 
 In a clinical study of 21 women receiving Cimzia during pregnancy, certolizumab pegol plasma concentrations were within the range of concentrations observed in non-pregnant adult patients (see section 5.2).
 
@@ -319,11 +315,9 @@ In a clinical study in 17 lactating women treated with Cimzia, minimal transfer 
 
 Effects on sperm motility measures and a trend of reduced sperm count in male rodents have been observed with no apparent effect on fertility (see section 5.3).
 
-In a clinical trial to assess the effect of certolizumab pegol on semen quality parameters, 20 healthy male subjects were randomized to receive a single subcutaneous dose of 400 mg of certolizumab pegol
+In a clinical trial to assess the effect of certolizumab pegol on semen quality parameters, 20 healthy male subjects were randomized to receive a single subcutaneous dose of 400 mg of certolizumab pegol or placebo. During the 14-week follow-up, no treatment effects of certolizumab pegol were seen on semen quality parameters compared to placebo.
 
 <div style=\"page-break-after: always\"></div>
-
-or placebo. During the 14-week follow-up, no treatment effects of certolizumab pegol were seen on semen quality parameters compared to placebo.
 
 ## 4.7 Effects on ability to drive and use machines
 
@@ -450,11 +444,9 @@ Excluding non -melanoma skin cancer, 11 malignancies including 1 case of lymphom
 
 ## Autoimmunity
 
-In the rheumatoid arthritis pivotal studies, for subjects who were ANA negative at baseline, 16.7% of those treated with Cimzia developed positive ANA titers, compared with 12.0% of subjects in the placebo group. For subjects who were anti-dsDNA antibody negative at baseline, 2.2% of those treated with Cimzia developed positive anti-dsDNA antibody titers, compared with 1.0% of subjects in the placebo group. In both placebo-controlled and open-label follow-up clinical trials for rheumatoid arthritis, cases of lupus-like syndrome were reported uncommonly. There have been rare reports of
+In the rheumatoid arthritis pivotal studies, for subjects who were ANA negative at baseline, 16.7% of those treated with Cimzia developed positive ANA titers, compared with 12.0% of subjects in the placebo group. For subjects who were anti-dsDNA antibody negative at baseline, 2.2% of those treated with Cimzia developed positive anti-dsDNA antibody titers, compared with 1.0% of subjects in the placebo group. In both placebo-controlled and open-label follow-up clinical trials for rheumatoid arthritis, cases of lupus-like syndrome were reported uncommonly. There have been rare reports of other immune-mediated conditions; the causal relationship to Cimzia is not known. The impact of long-term treatment with Cimzia on the development of autoimmune diseases is unknown.
 
 <div style=\"page-break-after: always\"></div>
-
-other immune-mediated conditions; the causal relationship to Cimzia is not known. The impact of long-term treatment with Cimzia on the development of autoimmune diseases is unknown.
 
 ## Injection site reactions
 
@@ -484,13 +476,13 @@ Cimzia has a high affinity for human TNFα and binds with a dissociation constan
 
 Cimzia was shown to neutralise membrane associated and soluble human TNFα in a dose -dependent manner. Incubation of monocytes with Cimzia resulted in a dose-dependent inhibition of lipopolysaccharide (LPS) -induced TNFα and IL1β production in human monocyte s.
 
-Cimzia does not contain a fragment crystallisable (Fc) region, which is normally present in a complete antibody, and therefore does not fix complement or cause antibody -dependent cell-mediated cytotoxicity in vitro . It does not induce apoptosis in vitro in human peripheral blood-derived monocytes or lymphocytes, or neutrophil degranulation.
+Cimzia does not contain a fragment crystallisable (Fc) region, which is normally present in a complete antibody, and therefore does not fix complement or cause antibody -dependent cell-mediated cytotoxicity in vitro . It does not induce apoptosis in vitro in human peripheral blood-derived monocytes or lymphocytes, or neutrophil degranulation. Cimzia is not bound by rheumatoid factor (RF, an autoantibody that interacts with the Fc region of IgGs), does not form immune complexes with RF and is not subject to RF-dependent clearance by macrophages in vitro .
 
 ## Clinical efficacy
 
-## Rheumatoid arthritis
-
 <div style=\"page-break-after: always\"></div>
+
+## Rheumatoid arthritis
 
 The efficacy and safety of Cimzia have been assessed in 2 randomised, placebo-controlled, doubleblind clinical trials in patients ≥ 18 years of age with active rheumatoid arthritis diagnosed according to American College of Rheumatology (ACR) criteria, RA -I (RAPID 1) and RA -II (RAPID 2). Patients had ≥ 9 swollen and tender joints each and had active RA for at least 6 months prior to baseline. Cimzia was administered subcutaneously in combination with oral MTX for a minimum of 6 months with stable doses of at least 10 mg weekly for 2 months in both trials. There is no experience with Cimzia in combination with DMARDs other than MTX.
 
@@ -551,11 +543,9 @@ Patients in the Cimzia+MTX group had a greater reduction from baseline in DAS 28
 
 ## Radiographic response
 
-In RAI, structural joint damage was assessed radiographically and expressed as change in mTSS and its components, the erosion score and joint space narrowing (JSN) score, at Week 52, compared to baseline. Cimzia patients demonstrated significantly less radiographic progression than patients
+In RAI, structural joint damage was assessed radiographically and expressed as change in mTSS and its components, the erosion score and joint space narrowing (JSN) score, at Week 52, compared to baseline. Cimzia patients demonstrated significantly less radiographic progression than patients receiving placebo at Week 24 and Week 52 (see Table 5). In the placebo group, 52% of patients experienced no radiographic progression (mTSS ≤ 0.0) at Week 52 compared to 69% in the Cimzia 200 mg treatment group.
 
 <div style=\"page-break-after: always\"></div>
-
-receiving placebo at Week 24 and Week 52 (see Table 5). In the placebo group, 52% of patients experienced no radiographic progression (mTSS ≤ 0.0) at Week 52 compared to 69% in the Cimzia 200 mg treatment group.
 
 Table 5 Changes over 12 months in RA-I
 
@@ -563,7 +553,7 @@ Table 5 Changes over 12 months in RA-I
 |-----------------------|-------------------------------|------------------------------------|-------------------------------------------------|
 | mTSS Week 52          | 2.8 (7.8)                     | 0.4 (5.7)                          |                                            -2.4 |
 | Erosion Score Week 52 | 1.5 (4.3)                     | 0.1 (2.5)                          |                                            -1.4 |
-| JSN Score Week 52     | 1.4 (5.0)                     | 0.4 (4.2)                          |                                            -1   |
+| JSN Score Week 52     | 1.4 (5.0)                     | 0.4 (4.2)                          |                                            -1.0 |
 
 p-values were &lt; 0.001 for both mTSS and erosion score and ≤ 0.01 for JSN score. An ANCOVA was fitted to the ranked change from baseline for each measure with region and treatment as factors and rank baseline as a covariate.
 
@@ -713,13 +703,16 @@ The Kaplan -Meier plot was truncated to 97 weeks when &lt;5% of participants wer
 
 Results for Part B are presented in Table 9.
 
-<div style=\"page-break-after: always\"></div>
-
 Table 9 Maintenance of clinical response in Part B at Week 96
+
+| Endpoints         | Placebo (treatment withdrawal) N=104   | CIMZIA 200 mg every 2 weeks N=104   | CIMZIA 200 mg every 4 weeks N=105   |
+|-------------------|----------------------------------------|-------------------------------------|-------------------------------------|
+| ASDAS-MI, n (%) 1 |                                        |                                     |                                     |
+
+<div style=\"page-break-after: always\"></div>
 
 | Endpoints                                                    | Placebo (treatment withdrawal) N=104   | CIMZIA 200 mg every 2 weeks N=104   | CIMZIA 200 mg every 4 weeks N=105   |
 |--------------------------------------------------------------|----------------------------------------|-------------------------------------|-------------------------------------|
-| ASDAS-MI, n (%) 1                                            |                                        |                                     |                                     |
 | Part B Baseline (Week 48)                                    | 84 (80.8)                              | 90 (86.5)                           | 89 (84.8)                           |
 | Week 96                                                      | 11 (10.6)                              | 70 (67.3)*                          | 61 (58.1)*                          |
 | ASAS40, n (%) 1                                              |                                        |                                     |                                     |
@@ -742,7 +735,7 @@ Note: Part A Baseline was used as a reference to define ASDAS clinical improveme
 
 * Nominal p&lt;0.001, CIMZIA vs. placebo
 
-Inhibition of inflammation in Magnetic Resonance imaging (MRI)
+## Inhibition of inflammation in Magnetic Resonance imaging (MRI)
 
 In Part B, signs of inflammation were assessed by MRI at Week 48 and at Week 96 and expressed as change from baseline in SIJ SPARCC and ASspiMRI -a score in the Berlin modifications. Patients who were in sustained remission at Week 48 had no or very low inflammation, and no meaningful increase in inflammation was observed at Week 96 irrespective of their treatment group.
 
@@ -857,11 +850,9 @@ The CIMPACT study evaluated 559 patients. Patients were randomized to receive pl
 
 In all three studies, the blinded 48-week maintenance period was followed by a 96-week open-label treatment period for the patients who were PASI 50 responders at Week 48. All these patients, including those receiving Cimzia 400 mg every 2 weeks, started the open-label period at Cimzia 200 mg every 2 weeks.
 
-Patients were predominantly men (64%) and Caucasian (94%), with a mean age of 45.7 years (18 to 80 years); of these, 7.2% were ≥ 65 years of age. Of the 850 patients randomized to receive placebo or Cimzia in these placebo-controlled studies, 29% of patients were naïve to prior systemic
+Patients were predominantly men (64%) and Caucasian (94%), with a mean age of 45.7 years (18 to 80 years); of these, 7.2% were ≥ 65 years of age. Of the 850 patients randomized to receive placebo or Cimzia in these placebo-controlled studies, 29% of patients were naïve to prior systemic therapy for the treatment of psoriasis. 47% had received prior phototherapy or chemophototherapy, and 30% had received prior biologic therapy for the treatment of psoriasis. Of the 850 patients, 14% had received at least one TNFantagonist, 13% had receive d an anti-IL-17, and 5% had received an anti-IL 12/ 23. Eighteen percent of patients reported a history of psoriatic arthritis at baseline. The mean PASI score at baseline was 20 and ranged from 12 to 69. The baseline PGA score ranged from moderate (70%) to severe (30%). Mean baseline BSA was 25% and ranged from 10% to 96%.
 
 <div style=\"page-break-after: always\"></div>
-
-therapy for the treatment of psoriasis. 47% had received prior phototherapy or chemophototherapy, and 30% had received prior biologic therapy for the treatment of psoriasis. Of the 850 patients, 14% had received at least one TNFantagonist, 13% had receive d an anti-IL-17, and 5% had received an anti-IL 12/ 23. Eighteen percent of patients reported a history of psoriatic arthritis at baseline. The mean PASI score at baseline was 20 and ranged from 12 to 69. The baseline PGA score ranged from moderate (70%) to severe (30%). Mean baseline BSA was 25% and ranged from 10% to 96%.
 
 ## Clinical response at Week 16 and 48
 
@@ -951,11 +942,9 @@ The data below reflect the percentage of patients whose test results were consid
 
 The overall percentage of patients with antibodies to Cimzia detectable on at least 1 occasion was 9.6% in RA placebo -controlled trials. Approximately one -third of antibody-positive patients had antibodies with neutralising activity in vitro . Patients treated with concomitant immunosuppressants (MTX) had a lower rate of antibody development than patients not taking immunosuppressants at baseline. Antibody formation was associated with lowered drug plasma concentration and in some patients, reduced efficacy.
 
-In 2 long-term (up to 5 years of exposure) open -label studies, the overall percentage of patients with antibodies to Cimzia detectable on at least one occasion was 13% (8.4% of the overall patients had transient formation of antibodies and an additional 4. 7% had persistent formation of antibodies to Cimzia). The overall percentage of patients that were antibody positive with a persistent reduction of
+In 2 long-term (up to 5 years of exposure) open -label studies, the overall percentage of patients with antibodies to Cimzia detectable on at least one occasion was 13% (8.4% of the overall patients had transient formation of antibodies and an additional 4. 7% had persistent formation of antibodies to Cimzia). The overall percentage of patients that were antibody positive with a persistent reduction of drug plasma concentration was estimated to be 9.1%. Similar to the placebo -controlled studies, antibody positivity was associated with reduced efficacy in some patients.
 
 <div style=\"page-break-after: always\"></div>
-
-drug plasma concentration was estimated to be 9.1%. Similar to the placebo -controlled studies, antibody positivity was associated with reduced efficacy in some patients.
 
 A pharmacodynamic model based on the Phase III trial data predicts that around 15% of the patients develop antibodies in 6 months at the recommended dose regimen (200 mg every 2 weeks following a loading dose) without MTX co -treatment. This number decreases with increasing doses of concomitant MTX treatment. These data are reasonably in agreement with observed data.
 
@@ -1216,7 +1205,7 @@ Patients who miss a dose should be advised to inject the next dose of Cimzia as 
 
 ## Paediatric population (&lt; 18 years old)
 
-The safety and efficacy of Cimzia in children and adolescents below age 18 years have not yet been established. No data are available.
+The  safety  and  efficacy  of  Cimzia  in  children  and  adolescents  below  age 18 years  have  not  been established.  Cimzia should not be used in children and adolescents below 18 years of age.
 
 ## Elderly patients (≥ 65 years old)
 
@@ -1254,11 +1243,9 @@ Treatment with Cimzia must not be initiated in patients with a clinically import
 
 Patients who develop a new infection while undergoing treatment with Cimzia should be monitored closely. Administration of Cimzia should be discontinued if a patient develops a new serious infection until the infection is controlled. Physicians should exer cise caution when considering the use of Cimzia in patients with a history of recurring or opportunistic infection or with underlying conditions which may predispose patients to infections, including the use of concomitant immunosuppressive medications.
 
-Patients with rheumatoid arthritis may not manifest typical symptoms of infection, including fever, due to their disease and concomitant medicinal products. Therefore, early detection of any infection,
+Patients with rheumatoid arthritis may not manifest typical symptoms of infection, including fever, due to their disease and concomitant medicinal products. Therefore, early detection of any infection, particularly atypical clinical presentations of a serious infection, is critical to minimise delays in diagnosis and initiation of treatment.
 
 <div style=\"page-break-after: always\"></div>
-
-particularly atypical clinical presentations of a serious infection, is critical to minimise delays in diagnosis and initiation of treatment.
 
 Serious infections, including sepsis and tuberculosis (including miliary, disseminated and extrapulmonary disease), and opportunistic infections (e.g. histoplasmosis, nocardia, candidiasis) have been reported in patients receiving Cimzia. Some of these events have been fatal.
 
@@ -1384,11 +1371,9 @@ The use of adequate contraception should be considered for women of childbearing
 
 ## Human data
 
-A large amount of data (more than 1500 pregnancies exposed to Cimzia during the first trimester) from prospectively reported pregnancies with known pregnancy outcomes, indicate no malformative
+A large amount of data (more than 1500 pregnancies exposed to Cimzia during the first trimester) from prospectively reported pregnancies with known pregnancy outcomes, indicate no malformative nor feto/neonatal toxicity. Continuous data collection is ongoing with pharmacovigilance cases reporting and a pregnancy registry.
 
 <div style=\"page-break-after: always\"></div>
-
-nor feto/neonatal toxicity. Continuous data collection is ongoing with pharmacovigilance cases reporting and a pregnancy registry.
 
 In a pregnancy register (the OTIS study) the proportion of major birth defects in live-born infants was 15/132 (11.4%) in women treated with Cimzia at least during the first trimester, and 8/126 (6.3%) in women with the same indicated diseases but not treated with Cimzia (relative risk 1.85 ; 95% CI 0.7 4 to 4.60 ). A similar association was seen when women treated with Cimzia were compared with women not having a disease consistent with approved Cimzia indications (proportion 10/126 [7.9%] and relative risk 1 .65; 95% CI 0.75 to 3.64). No pattern of major or minor defects was identified. There were no distinct differences between the Cimzia treated group and both comparison groups for spontaneous abortion, serious or opportunistic infections, hospitalization, adverse vaccine reactions, in the children who were followed up for up to 5 years of age. No stillbirths or termination were reported in the Cimzia arm while 2 stillbirths and 3 pregnancy terminations were reported in the disease un exposed arm. The interpretation of data may be impacted due to methodological limitations of the study, including small sample size and non-randomized design.
 
@@ -1414,11 +1399,9 @@ In a clinical study in 17 lactating women treated with Cimzia, minimal transfer 
 
 Effects on sperm motility measures and a trend of reduced sperm count in male rodents have been observed with no apparent effect on fertility (see section 5.3).
 
-In a clinical trial to assess the effect of certolizumab pegol on semen quality parameters, 20 healthy male subjects were randomized to receive a single subcutaneous dose of 400 mg of certolizumab pegol
+In a clinical trial to assess the effect of certolizumab pegol on semen quality parameters, 20 healthy male subjects were randomized to receive a single subcutaneous dose of 400 mg of certolizumab pegol or placebo. During the 14-week follow-up, no treatment effects of certolizumab pegol were seen on semen quality parameters compared to placebo.
 
 <div style=\"page-break-after: always\"></div>
-
-or placebo. During the 14-week follow-up, no treatment effects of certolizumab pegol were seen on semen quality parameters compared to placebo.
 
 ## 4.7 Effects on ability to drive and use machines
 
@@ -1482,12 +1465,12 @@ Table 1 Adverse reactions in clinical trials and postmarketing
 | Psychiatric disorders                                                    | Uncommon    | anxiety and mood disorders (including associated symptoms)                                                                                                                                                                                               |
 | Psychiatric disorders                                                    | Rare        | suicide attempt, delirium, mental impairment                                                                                                                                                                                                             |
 | Nervous system disorders                                                 | Common      | headaches (including migraine), sensory abnormalities                                                                                                                                                                                                    |
+| Nervous system disorders                                                 | Uncommon    | peripheral neuropathies, dizziness, tremor                                                                                                                                                                                                               |
 
 <div style=\"page-break-after: always\"></div>
 
 | System Organ Class                                    | Frequency   | Adverse reactions                                                                                                                                                                                                                                             |
 |-------------------------------------------------------|-------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| System Organ Class                                    | Uncommon    | peripheral neuropathies, dizziness, tremor                                                                                                                                                                                                                    |
 | System Organ Class                                    | Rare        | seizure, cranial nerve inflammation, impaired coordination or balance                                                                                                                                                                                         |
 | System Organ Class                                    | Not known   | multiple sclerosis*, Guillain - Barré syndrome*                                                                                                                                                                                                               |
 | Eye disorders                                         | Uncommon    | visual disorder (including decreased vision), eye and eyelid inflammation, lacrimation disorder                                                                                                                                                               |
@@ -1579,17 +1562,15 @@ Cimzia has a high affinity for human TNFα and binds with a dissociation constan
 
 Cimzia was shown to neutralise membrane associated and soluble human TNFα in a dose -dependent manner. Incubation of monocytes with Cimzia resulted in a dose-dependent inhibition of lipopolysaccharide (LPS) -induced TNFα and IL1β production in human monocyte s.
 
-Cimzia does not contain a fragment crystallisable (Fc) region, which is normally present in a complete antibody, and therefore does not fix complement or cause antibody -dependent cell-mediated cytotoxicity in vitro . It does not induce apoptosis in vitro in human peripheral blood-derived monocytes or lymphocytes, or neutrophil degranulation.
+Cimzia does not contain a fragment crystallisable (Fc) region, which is normally present in a complete antibody, and therefore does not fix complement or cause antibody -dependent cell-mediated cytotoxicity in vitro . It does not induce apoptosis in vitro in human peripheral blood-derived monocytes or lymphocytes, or neutrophil degranulation. Cimzia is not bound by rheumatoid factor (RF, an autoantibody that interacts with the Fc region of IgGs), does not form immune complexes with RF and is not subject to RF-dependent clearance by macrophages in vitro .
 
 ## Clinical efficacy
 
 ## Rheumatoid arthritis
 
-The efficacy and safety of Cimzia have been assessed in 2 randomised, placebo-controlled, doubleblind clinical trials in patients ≥ 18 years of age with active rheumatoid arthritis diagnosed according
-
 <div style=\"page-break-after: always\"></div>
 
-to American College of Rheumatology (ACR) criteria, RA -I (RAPID 1) and RA -II (RAPID 2). Patients had ≥ 9 swollen and tender joints each and had active RA for at least 6 months prior to baseline. Cimzia was administered subcutaneously in combination with or al MTX for a minimum of 6 months with stable doses of at least 10 mg weekly for 2 months in both trials. There is no experience with Cimzia in combination with DMARDs other than MTX.
+The efficacy and safety of Cimzia have been assessed in 2 randomised, placebo-controlled, doubleblind clinical trials in patients ≥ 18 years of age with active rheumatoid arthritis diagnosed according to American College of Rheumatology (ACR) criteria, RA -I (RAPID 1) and RA -II (RAPID 2). Patients had ≥ 9 swollen and tender joints each and had active RA for at least 6 months prior to baseline. Cimzia was administered subcutaneously in combination with oral MTX for a minimum of 6 months with stable doses of at least 10 mg weekly for 2 months in both trials. There is no experience with Cimzia in combination with DMARDs other than MTX.
 
 The efficacy and safety of Cimzia was assessed in DMARD -naïve adult patients with active RA in a randomized, placebo-controlled, double-blind clinical trial (CEARLY). In the C -EARLY trial patients were ≥ 18 years of age and had ≥ 4 swollen and tender joints each and must have been diagnosed with moderate to severe active and progressive RA within 1 year (as defined by the 2010 ACR/European League Against Rheumatism (EULAR) classification criteria). Patients had a mean time since diagnosis at baseline of 2.9 months and were DMARD naïve (including MTX). For both the Cimzia and placebo arms, MTX was initiated as of Week 0 (10 mg/week), titrated up to maximum tolerated dose by Week 8 (min 15 mg/week, max 25 mg/week allowed), and maintained throughout the study (average dose of MTX after Week 8 for placebo and Cimzia was 22.3 mg/week and 21.1 mg/week respectively).
 
@@ -1650,11 +1631,9 @@ Patients in the Cimzia+MTX group had a greater reduction from baseline in DAS 28
 
 ## Radiographic response
 
-In RAI, structural joint damage was assessed radiographically and expressed as change in mTSS and its components, the erosion score and joint space narrowing (JSN) score, at Week 52, compared to baseline. Cimzia patients demonstrated significantly less radiographic progression than patients
+In RAI, structural joint damage was assessed radiographically and expressed as change in mTSS and its components, the erosion score and joint space narrowing (JSN) score, at Week 52, compared to baseline. Cimzia patients demonstrated significantly less radiographic progression than patients receiving placebo at Week 24 and Week 52 (see Table 5). In the placebo group, 52% of patients experienced no radiographic progression (mTSS ≤ 0.0) at Week 52 compared to 69% in the Cimzia 200 mg treatment group.
 
 <div style=\"page-break-after: always\"></div>
-
-receiving placebo at Week 24 and Week 52 (see Table 5). In the placebo group, 52% of patients experienced no radiographic progression (mTSS ≤ 0.0) at Week 52 compared to 69% in the Cimzia 200 mg treatment group.
 
 Table 5 Changes over 12 months in RA-I
 
@@ -1662,7 +1641,7 @@ Table 5 Changes over 12 months in RA-I
 |-----------------------|-------------------------------|------------------------------------|-------------------------------------------------|
 | mTSS Week 52          | 2.8 (7.8)                     | 0.4 (5.7)                          |                                            -2.4 |
 | Erosion Score Week 52 | 1.5 (4.3)                     | 0.1 (2.5)                          |                                            -1.4 |
-| JSN Score Week 52     | 1.4 (5.0)                     | 0.4 (4.2)                          |                                            -1   |
+| JSN Score Week 52     | 1.4 (5.0)                     | 0.4 (4.2)                          |                                            -1.0 |
 
 p-values were &lt; 0.001 for both mTSS and erosion score and ≤ 0.01 for JSN score. An ANCOVA was fitted to the ranked change from baseline for each measure with region and treatment as factors and rank baseline as a covariate.
 
@@ -1943,11 +1922,9 @@ In PsA001 clinical trial, inhibition of progression of structural damage was ass
 
 ## Physical function response and health-related outcomes
 
-In PsA001 clinical trial, Cimzia-treated patients reported significant improvements in physical function as assessed by the Health Assessment Questionnaire Disability Index (HAQ -DI), in pain as
+In PsA001 clinical trial, Cimzia-treated patients reported significant improvements in physical function as assessed by the Health Assessment Questionnaire Disability Index (HAQ -DI), in pain as assessed by the PAAP and in tiredness (fatigue) as reported by the Fatigue Assessment Scale (FAS) as compared to placebo. Cimzia-treated patients reported significant improvements in health-related quality of life as measured by the psoriatic arthritis QoL (PsAQoL) and the SF -36 Physical and Mental Components and in psoriatic arthritis-related productivity at work and within household, as reported by the Work Productivity Survey compared to placebo. Improvements in all afore-mentioned outcomes were maintained through Week 216.
 
 <div style=\"page-break-after: always\"></div>
-
-assessed by the PAAP and in tiredness (fatigue) as reported by the Fatigue Assessment Scale (FAS) as compared to placebo. Cimzia-treated patients reported significant improvements in health-related quality of life as measured by the psoriatic arthritis QoL (PsAQoL) and the SF -36 Physical and Mental Components and in psoriatic arthritis-related productivity at work and within household, as reported by the Work Productivity Survey compared to placebo. Improvements in all afore-mentioned outcomes were maintained through Week 216.
 
 ## Plaque psoriasis
 
@@ -1961,11 +1938,9 @@ The CIMPACT study evaluated 559 patients. Patients were randomized to receive pl
 
 In all three studies, the blinded 48-week maintenance period was followed by a 96-week open-label treatment period for the patients who were PASI 50 responders at Week 48. All these patients, including those receiving Cimzia 400 mg every 2 weeks, started the open-label period at Cimzia 200 mg every 2 weeks.
 
-Patients were predominantly men (64%) and Caucasian (94%), with a mean age of 45.7 years (18 to 80 years); of these, 7.2% were ≥ 65 years of age. Of the 850 patients randomized to receive placebo or Cimzia in these placebo-controlled studies, 29% of patients were naïve to prior systemic therapy for the treatment of psoriasis. 47% had received prior phototherapy or chemophototherapy, and 30% had rece ived prior biologic therapy for the treatment of psoriasis. Of the 850 patients, 14% had received at least one TNF-antagonist, 13% had received an anti -IL-17, and 5% had received an
+Patients were predominantly men (64%) and Caucasian (94%), with a mean age of 45.7 years (18 to 80 years); of these, 7.2% were ≥ 65 years of age. Of the 850 patients randomized to receive placebo or Cimzia in these placebo-controlled studies, 29% of patients were naïve to prior systemic therapy for the treatment of psoriasis. 47% had received prior phototherapy or chemophototherapy, and 30% had rece ived prior biologic therapy for the treatment of psoriasis. Of the 850 patients, 14% had received at least one TNF-antagonist, 13% had received an anti -IL-17, and 5% had received an anti-IL 12/ 23. Eighteen percent of patients reported a history of psoriatic arthritis at baseline. The mean PASI score at baseline was 20 and ranged from 12 to 69. The baseline PGA score ranged from moderate (70%) to severe (30%). Mean baseline BSA was 25% and ranged from 10% to 96%.
 
 <div style=\"page-break-after: always\"></div>
-
-anti-IL 12/ 23. Eighteen percent of patients reported a history of psoriatic arthritis at baseline. The mean PASI score at baseline was 20 and ranged from 12 to 69. The baseline PGA score ranged from moderate (70%) to severe (30%). Mean baseline BSA was 25% and ranged from 10% to 96%.
 
 ## Clinical response at Week 16 and 48
 
@@ -2057,11 +2032,9 @@ The overall percentage of patients with antibodies to Cimzia detectable on at le
 
 In 2 long-term (up to 5 years of exposure) open -label studies, the overall percentage of patients with antibodies to Cimzia detectable on at least one occasion was 13% (8.4% of the overall patients had transient formation of antibodies and an additional 4. 7% had persistent formation of antibodies to Cimzia). The overall percentage of patients that were antibody positive with a persistent reduction of drug plasma concentration was estimated to be 9.1%. Similar to the placebo -controlled studies, antibody positivity was associated with reduced efficacy in some patients.
 
-A pharmacodynamic model based on the Phase III trial data predicts that around 15% of the patients develop antibodies in 6 months at the recommended dose regimen (200 mg every 2 weeks following a
+A pharmacodynamic model based on the Phase III trial data predicts that around 15% of the patients develop antibodies in 6 months at the recommended dose regimen (200 mg every 2 weeks following a loading dose) without MTX co -treatment. This number decreases with increasing doses of concomitant MTX treatment. These data are reasonably in agreement with observed data.
 
 <div style=\"page-break-after: always\"></div>
-
-loading dose) without MTX co -treatment. This number decreases with increasing doses of concomitant MTX treatment. These data are reasonably in agreement with observed data.
 
 ## Psoriatic arthritis
 
@@ -2143,7 +2116,7 @@ On the basis of Phase II and Phase III clinical trial data in patients with rheu
 
 ## 5.3 Preclinical safety data
 
-The pivotal non-clinical safety studies were conducted in the cynomolgus monkey. In rats and monkeys, at doses higher than those given to humans, histopathology revealed cellular vacuolation, present mainly in macrophages, in a number of organs (lymph nodes, injection sites, spleen, adrenal, uterine, cervix, choroid plexus of the brain, and in the epithelial cells of the choroid plexus). It is likely that this finding was caused by cellular uptake of the PEG moiety. In vitro functional studies of human vacuolated macrophages indicated all functions tested were retained. Studies in rats indicated that &gt; 90% of the administered PEG was eliminated in 3 months following a single dose, with the urine being the main route of excretion.
+The pivotal non-clinical safety studies were conducted in the cynomolgus monkey. In rats and monkeys, at doses higher than those given to humans, histopathology revealed cellular vacuolation, present mainly in macrophages, in a number of organs (lymph nodes, injection sites, spleen, adrenal, uterine, cervix, choroid plexus of the brain, and in the epithelial cells of the choroid plexus). It is likely that this finding was caused by cellular uptake of the PEG moiety. In vitro functional studies of human vacuolated macrophages indicated all functions tested were retained. Studies in rats indicated that &gt; 90% of the administered PEG was eliminated in 3 months following a single dose, with the urine being the main route of excret ion.
 
 Certolizumab pegol does not crossreact with rodent TNF. Therefore, reproductive toxicology studies have been performed with a homologous reagent recognising rat TNF. The value of these data to the evaluation of human risk may be limited. No adverse effects were seen on maternal well-being or female fertility, embryo-foetal and peri- and post-natal reproductive indices in rats using a rodent antirat TNFα PEGylated Fab' (cTN3 PF) following sustained TNFα suppression. In male rats, reduced sperm motility and a trend of reduced sperm count were observed.
 
@@ -2973,7 +2946,7 @@ Lot
 
 15. INSTRUCTIONS ON USE
 
-16. INFORMATION IN BRAILLE
+## 16. INFORMATION IN BRAILLE
 
 Cimzia 200 mg
 
@@ -3007,7 +2980,7 @@ Excipients: sodium acetate, sodium chloride and water for injections. See the pa
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-Solution for injection in a prefilled pen (AutoClicks)
+Solution for injection in a pre- filled pen (AutoClicks)
 
 Multipack: 10 (5
 
@@ -3198,8 +3171,6 @@ Keep out of the sight and reach of children.
 
 EXP
 
-<div style=\"page-break-after: always\"></div>
-
 ## 9. SPECIAL STORAGE CONDITIONS
 
 Store in a refrigerator.
@@ -3237,6 +3208,8 @@ Not applicable.
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 Not applicable.
+
+<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3740,9 +3713,7 @@ Tel.: +
 
 UCB Nordic A/S
 
-Tlf. : +
-
-45 / 32 46 24 00
+Tlf. : + 45 / 32 46 24 00
 
 ## Malta
 
@@ -3796,7 +3767,9 @@ Tel: +
 
 UCB Pharma S.A.
 
-Tel: + 34 / 91 570 34 44
+Tel: +
+
+34 / 91 570 34 44
 
 ## Polska
 
@@ -3806,7 +3779,7 @@ Tel.: + 48 22 696 99 20
 
 ## France
 
-UCB Pharma S.A.
+UCB Pharma
 
 Tél: +
 
@@ -3848,11 +3821,11 @@ Tel: +
 
 ## Ísland
 
-UCB Nordic A/S
+Vistor hf.
 
-Sími
+Tel: +
 
-: + 45 / 32 46 24 00
+354 535 7000
 
 ## Slovenská republika
 
@@ -3872,7 +3845,9 @@ Tel: + 39 / 02 300 791
 
 UCB Pharma Oy Finland
 
-Puh/Tel: + 358 9 25144221
+Puh/Tel: +
+
+358 9 25144221
 
 ## Κύπρος
 
@@ -4387,7 +4362,13 @@ Teл.: +
 
 ## Luxembourg/Luxemburg
 
-UCB Pharma S.A./NV Tél/Tel: + 32 / (0)2 559 92 00 (Belgique/Belgien)
+UCB Pharma S.A./NV
+
+Tél/Tel: +
+
+32 / (0)2 559 92 00
+
+(Belgique/Belgien)
 
 ## Česká republika
 
@@ -4411,19 +4392,15 @@ UCB Nordic A/S
 
 Tlf.
 
-: +
-
-45
-
-/
-
-32 46 24 00
+: + 45 / 32 46 24 00
 
 ## Malta
 
 Pharmasud Ltd.
 
-Tel: + 356 / 21 37 64 36
+Tel: +
+
+356 / 21 37 64 36
 
 ## Deutschland
 
@@ -4439,17 +4416,13 @@ UCB Pharma B.V.
 
 Tel.: +
 
-31 / (0)76
-
--573 11 40
+31 / (0)76 -573 11 40
 
 ## Eesti
 
 UCB Pharma Oy Finland
 
-Tel: +
-
-358 9 25144221 (Soome)
+Tel: + 358 9 25144221 (Soome)
 
 ## Norge
 
@@ -4461,7 +4434,9 @@ Tlf: + 47 / 67 16 5880
 
 UCB Α.Ε.
 
-Τηλ: + 30 / 2109974000
+Τηλ: +
+
+30 / 2109974000
 
 ## Österreich
 
@@ -4487,7 +4462,7 @@ Tel.: +
 
 ## France
 
-UCB Pharma S.A.
+UCB Pharma
 
 Tél: + 33 / (0)1 47 29 44 35
 
@@ -4513,7 +4488,9 @@ Tel: + 40 21 300 29 04
 
 UCB (Pharma) Ireland Ltd.
 
-Tel: + 353 / (0)1 -46 37 395
+Tel: +
+
+353 / (0)1 -46 37 395
 
 ## Slovenija
 
@@ -4523,11 +4500,11 @@ Tel: + 386 1 589 69 00
 
 ## Ísland
 
-UCB Nordic A/S
+Vistor hf.
 
-Sími
+Tel: +
 
-: + 45 / 32 46 24 00
+354 535 7000
 
 ## Slovenská republika
 
@@ -4555,7 +4532,9 @@ Puh/Tel: +
 
 Lifepharma (Z.A.M.) Ltd
 
-Τηλ: + 357 22 056300
+Τηλ: +
+
+357 22 056300
 
 ## Sverige
 
@@ -5204,7 +5183,7 @@ Tel.: + 48 22 696 99 20
 
 ## France
 
-UCB Pharma S.A.
+UCB Pharma
 
 Tél: +
 
@@ -5244,11 +5223,11 @@ Tel: +
 
 ## Ísland
 
-UCB Nordic A/S
+Vistor hf.
 
-Sími
+Tel: +
 
-: + 45 / 32 46 24 00
+354 535 7000
 
 ## Slovenská republika
 

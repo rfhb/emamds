@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-11-13 17:03:22
-document_pages: 63
+document_datetime: 2026-05-19 16:35:50
+document_pages: 69
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/mekinist-epar-product-information_en.pdf
 document_name: mekinist-epar-product-information_en.pdf
 version: success
-processing_time: 25.4382671
-conversion_datetime: 2025-12-29 21:54:42.226506
+processing_time: 39.8693974
+conversion_datetime: 2026-05-22 23:25:06.411386
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.20.0
+  docling-jobkit: 1.20.0
+  docling: 2.95.0
+  docling-core: 2.77.0
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.11.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -56,29 +56,45 @@ Pink, round, biconvex, film-coated tablets, approximately 7.6 mm, with the compa
 
 ## Melanoma
 
-Trametinib as monotherapy or in combination with dabrafenib is indicated for the treatment of adult patients with unresectable or metastatic melanoma with a BRAF V600 mutation (see sections 4.4 and 5.1).
+Trametinib as monotherapy or in combination with dabrafenib is indicated for the treatment of adults and adolescents aged 12 years and older with unresectable or metastatic melanoma with a BRAF V600 mutation (see sections 4.4 and 5.1).
 
 Trametinib monotherapy has not demonstrated clinical activity in patients who have progressed on a prior BRAF inhibitor therapy (see section 5.1).
 
 ## Adjuvant treatment of melanoma
 
-Trametinib in combination with dabrafenib is indicated for the adjuvant treatment of adult patients with Stage III melanoma with a BRAF V600 mutation, following complete resection.
+Trametinib in combination with dabrafenib is indicated for the adjuvant treatment of adults and adolescents aged 12 years and older with Stage III melanoma with a BRAF V600 mutation, following complete resection.
 
 ## Non-small cell lung cancer (NSCLC)
 
-Trametinib in combination with dabrafenib is indicated for the treatment of adult patients with advanced non-small cell lung cancer with a BRAF V600 mutation.
+Trametinib in combination with dabrafenib is indicated for the treatment of adults with advanced nonsmall cell lung cancer with a BRAF V600 mutation.
 
 <div style=\"page-break-after: always\"></div>
+
+## Differentiated thyroid cancer (DTC)
+
+Trametinib in combination with dabrafenib is indicated for the treatment of adult patients with locally advanced or metastatic differentiated thyroid cancer with a BRAF V600E mutation, refractory to or not eligible for radioactive iodine (RAI) who have progressed during or after prior systemic therapy (for biomarker-based patient selection, see section 4.2).
 
 ## 4.2 Posology and method of administration
 
 Treatment with trametinib should only be initiated and supervised by a physician experienced in the administration of anti-cancer medicinal products.
 
-Before taking trametinib, patients must have confirmation of BRAF V600 mutation using a validated test.
+## Patient selection
+
+Before taking trametinib, patients must have confirmation of tumour BRAF V600 mutation assessed by a CE-marked in vitro diagnostic (IVD) medical device with the corresponding intended purpose. If no CE-marked IVD is available, an alternative validated test should be used.
 
 ## Posology
 
-The recommended dose of trametinib, either used as monotherapy or in combination with dabrafenib, is 2 mg once daily. The recommended dose of dabrafenib, when used in combination with trametinib, is 150 mg twice daily.
+In adults, the recommended dose of trametinib is 2 mg once daily, regardless of body weight.
+
+In adolescents (aged 12 to &lt;18 years) with melanoma, the recommended dose of trametinib is based on body weight (see also Table 1):
+
+- 1 mg trametinib once daily for a body weight of 26 to 37 kg
+- 1.5 mg trametinib once daily for a body weight of 38 to 50 kg
+- 2 mg trametinib once daily for a body weight of 51 kg or more
+
+The recommended dose of trametinib film-coated tablets for patients with a body weight less than 26 kg has not been established.
+
+Please refer to the dabrafenib summary of product characteristics (SmPC) for information on the recommended dose of dabrafenib, when used in combination with trametinib.
 
 ## Duration of treatment
 
@@ -96,20 +112,20 @@ The management of adverse reactions may require dose reduction, treatment interr
 
 Dose modifications are not recommended for adverse reactions of cutaneous squamous cell carcinoma (cuSCC) or new primary melanoma (see dabrafenib SmPC for further details).
 
+<div style=\"page-break-after: always\"></div>
+
 Table 1 Recommended dose level reductions
 
-| Dose level                            | Trametinib dose Used as monotherapy or in combination with dabrafenib   | Dabrafenib dose* Only when used in combination with trametinib   |
-|---------------------------------------|-------------------------------------------------------------------------|------------------------------------------------------------------|
-| Starting dose                         | 2 mg once daily                                                         | 150 mg twice daily                                               |
-| 1st dose reduction                    | 1.5 mg once daily                                                       | 100 mg twice daily                                               |
-| 2nd dose reduction                    | 1 mg once daily                                                         | 75 mg twice daily                                                |
-| 3rd dose reduction (combination only) | 1 mg once daily                                                         | 50 mg twice daily                                                |
+| Dose level                | Adults            | Adolescents             | Adolescents             | Adolescents        |
+|---------------------------|-------------------|-------------------------|-------------------------|--------------------|
+|                           |                   | Body weight 26 to 37 kg | Body weight 38 to 50 kg | Body weight ≥51 kg |
+| Recommended starting dose | 2 mg once daily   | 1 mg once daily         | 1.5 mg once daily       | 2 mg once daily    |
+| 1 st dose reduction level | 1.5 mg once daily | 0.5 mg once daily       | 1 mg once daily         | 1.5 mg once daily  |
+| 2 nd dose reduction level | 1 mg once daily   | NA                      | 0.5 mg once daily       | 1 mg once daily    |
 
-Dose adjustment for trametinib below 1 mg once daily is not recommended, whether used as monotherapy or in combination with dabrafenib. Dose adjustment for dabrafenib below 50 mg twice daily is not recommended when used in combination with trametinib.
+NA = Not applicable
 
-*Please refer to the dabrafenib SmPC, Posology and method of administration, for dosing instructions for treatment with dabrafenib monotherapy.
-
-<div style=\"page-break-after: always\"></div>
+Dose adjustment for trametinib below 1 mg once daily is not recommended for adults and adolescents with a body weight ≥ 51 kg.
 
 Table 2 Dose modification schedule based on the grade of any adverse reactions (excluding pyrexia)
 
@@ -120,15 +136,17 @@ Table 2 Dose modification schedule based on the grade of any adverse reactions (
 | Grade 4                                                                                                            | Discontinue permanently, or interrupt therapy until Grade 0 to 1 and reduce by one dose level when resuming therapy. |
 | * The intensity of clinical adverse reactions graded by the Common Terminology Criteria for Adverse Events (CTCAE) | * The intensity of clinical adverse reactions graded by the Common Terminology Criteria for Adverse Events (CTCAE)   |
 
-When an individual's adverse reactions are under effective management, dose re -escalation following the same dosing steps as de-escalation may be considered. The trametinib dose should not exceed 2 mg once daily.
+When an individual's adverse reactions are under effective management, dose re -escalation following the same dosing steps as de-escalation may be considered. The trametinib dose should not exceed the recommended starting dose indicated in Table 1.
 
 ## Pyrexia
 
-If a patient's temperature is ≥38 o C, therapy should be interrupted (trametinib when used as monotherapy, and both trametinib and dabrafenib when used in combination). In case of recurrence, therapy can also be interrupted at the first symptom of pyrexia. Treatment with anti-pyretics such as ibuprofen or acetaminophen/paracetamol should be initiated. The use of oral corticosteroids should be considered in those instances in which anti-pyretics are insufficient. Patients should be evaluated for signs and symptoms of infection and, if necessary, treated in line with local practice (see section 4.4). Trametinib, or both trametinib and dabrafenib when used in combination, should be restarted if the patient is symptom-free for at least 24 hours either (1) at the same dose level, or (2) reduced by one dose level if pyrexia is recurrent and/or was accompanied by other severe symptoms including dehydration, hypotension or renal failure.
+If a patient's temperature is ≥38 ºC, therapy should be interrupted (trametinib when used as monotherapy, and both trametinib and dabrafenib when used in combination). In case of recurrence, therapy can also be interrupted at the first symptom of pyrexia. Treatment with anti-pyretics such as ibuprofen or acetaminophen/paracetamol should be initiated. The use of oral corticosteroids should be considered in those instances in which anti-pyretics are insufficient. Patients should be evaluated for signs and symptoms of infection and, if necessary, treated in line with local practice (see section 4.4). Trametinib, or both trametinib and dabrafenib when used in combination, should be restarted if the patient is symptom-free for at least 24 hours either (1) at the same dose level, or (2) reduced by one dose level if pyrexia is recurrent and/or was accompanied by other severe symptoms including dehydration, hypotension or renal failure.
 
 If treatment-related toxicities occur when trametinib is used in combination with dabrafenib, then both treatments should be simultaneously dose reduced, interrupted or discontinued. Exceptions where dose modifications are necessary for only one of the two treatments are detailed below for uveitis, RAS mutation-positive non-cutaneous malignancies (primarily related to dabrafenib), left ventricular ejection fraction (LVEF) reduction, retinal vein occlusion (RVO), retinal pigment epithelial detachment (RPED) and interstitial lung disease (ILD)/pneumonitis (primarily related to trametinib).
 
-## Dose modification exceptions (where only one of the two therapies is dose reduced) for selected adverse reactions
+<div style=\"page-break-after: always\"></div>
+
+Dose modification exceptions (where only one of the two therapies is dose reduced) for selected adverse reactions
 
 ## Uveitis
 
@@ -140,11 +158,7 @@ The benefits and risks must be considered before continuing treatment with dabra
 
 ## Left ventricular ejection fraction (LVEF) reduction/Left ventricular dysfunction
 
-Trametinib should be interrupted in patients who have an asymptomatic, absolute decrease of &gt;10% in LVEF compared to baseline and the ejection fraction is below the institution's lower limit of normal (LLN) (see section 4.4). No dose modification of dabrafenib is required when trametinib is taken in
-
-<div style=\"page-break-after: always\"></div>
-
-combination with dabrafenib. If the LVEF recovers, treatment with trametinib may be restarted, but the dose should be reduced by one dose level with careful monitoring (see section 4.4).
+Trametinib should be interrupted in patients who have an asymptomatic, absolute decrease of &gt;10% in LVEF compared to baseline and the ejection fraction is below the institution's lower limit of normal (LLN) (see section 4.4). No dose modification of dabrafenib is required when trametinib is taken in combination with dabrafenib. If the LVEF recovers, treatment with trametinib may be restarted, but the dose should be reduced by one dose level with careful monitoring (see section 4.4).
 
 Trametinib should be permanently discontinued in patients with Grade 3 or 4 left ventricular cardiac dysfunction or clinically significant LVEF reduction which does not recover within 4 weeks (see section 4.4).
 
@@ -164,6 +178,8 @@ If patients report new visual disturbances such as diminished central vision, bl
 
 Trametinib must be withheld in patients with suspected ILD or pneumonitis, including patients presenting with new or progressive pulmonary symptoms and findings including cough, dyspnoea, hypoxia, pleural effusion, or infiltrates, pending clinical investigations. Trametinib must be permanently discontinued in patients diagnosed with treatment-related ILD or pneumonitis. No dose modification of dabrafenib is required when trametinib is taken in combination with dabrafenib for cases of ILD or pneumonitis.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Special populations
 
 ## Renal impairment
@@ -174,11 +190,9 @@ No dosage adjustment is required in patients with mild or moderate renal impairm
 
 No dosage adjustment is required in patients with mild hepatic impairment. Available data from a clinical pharmacology study indicate a limited impact of moderate to severe hepatic impairment on trametinib exposure (see section 5.2). Trametinib should be used with caution in patients with moderate or severe hepatic impairment when administered as monotherapy or in combination with dabrafenib.
 
-## Non-Caucasian patients
+## Race
 
-The safety and efficacy of trametinib in non-Caucasian patients have not been established. No data are available.
-
-<div style=\"page-break-after: always\"></div>
+Limited safety and efficacy data have been collected on trametinib in non-Caucasian patients. The population pharmacokinetic analysis showed no significant differences in the pharmacokinetics of trametinib between Asian and Caucasian patients. No trametinib dose adjustment is needed in Asian patients.
 
 ## Elderly
 
@@ -186,7 +200,7 @@ No initial dose adjustment is required in patients &gt;65 years of age. More fre
 
 ## Paediatric population
 
-The safety and efficacy of trametinib tablets in children and adolescents (&lt;18 years) have not been established. No data are available. Studies in juvenile animals have shown adverse effects of trametinib which were not observed in adult animals (see section 5.3).
+The safety and efficacy of trametinib film-coated tablets in children and adolescents (&lt;18 years) have not been established, except in adolescents aged 12 years and older with melanoma. No clinical data are available. Studies in juvenile animals have shown adverse effects of trametinib which were not observed in adult animals (see section 5.3).
 
 ## Method of administration
 
@@ -201,6 +215,8 @@ Please refer to dabrafenib SmPC for information on method of administration when
 ## 4.3 Contraindications
 
 Hypersensitivity to the active substance or to any of the excipients listed in section 6.1.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 4.4 Special warnings and precautions for use
 
@@ -217,8 +233,6 @@ Trametinib monotherapy has not been compared with a BRAF inhibitor in a clinical
 ## Trametinib in combination with dabrafenib in patients with melanoma who have progressed on a BRAF inhibitor
 
 There are limited data in patients taking the combination of trametinib with dabrafenib who have progressed on a prior BRAF inhibitor. These data show that the efficacy of the combination will be lower in these patients (see section 5.1). Therefore other treatment options should be considered before treatment with the combination in this prior BRAF inhibitor treated population. The sequencing of treatments following progression on a BRAF inhibitor therapy has not been established.
-
-<div style=\"page-break-after: always\"></div>
 
 ## New malignancies
 
@@ -238,25 +252,23 @@ New primary melanoma was reported in patients receiving trametinib in combinatio
 
 Based on its mechanism of action, dabrafenib may increase the risk of non-cutaneous malignancies when RAS mutations are present. When trametinib is used in combination with dabrafenib please refer to the dabrafenib SmPC (section 4.4). No dose modification of trametinib is required for RAS mutation-positive malignancies when taken in combination with dabrafenib.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Haemorrhage
 
-Haemorrhagic events, including major haemorrhagic events and fatal haemorrhages, have occurred in patients taking trametinib as monotherapy and in combination with dabrafenib (see section 4.8). The potential for these events in patients with low platelet counts (&lt;75 000) has not been established as such patients were excluded from clinical trials. The risk of haemorrhage may be increased with concomitant use of antiplatelet or anticoagulant therapy. If haemorrhage occurs, patients should be treated as clinically indicated.
+Haemorrhagic events, including major haemorrhagic events and fatal haemorrhages, have occurred in patients taking trametinib as monotherapy and in combination with dabrafenib (see section 4.8). The potential for these events in patients with low platelet counts (&lt;75 000) has not been established as such patients were excluded from clinical studies. The risk of haemorrhage may be increased with concomitant use of antiplatelet or anticoagulant therapy. If haemorrhage occurs, patients should be treated as clinically indicated.
 
 ## LVEF reduction/Left ventricular dysfunction
 
-Trametinib has been reported to decrease LVEF, when used as monotherapy or in combination with dabrafenib (see section 4.8). In clinical trials, the median time to onset of the first occurrence of left ventricular dysfunction, cardiac failure and LVEF decrease was between 2 and 5 months.
+Trametinib has been reported to decrease LVEF, when used as monotherapy or in combination with dabrafenib (see section 4.8). In clinical studies, the median time to onset of the first occurrence of left ventricular dysfunction, cardiac failure and LVEF decrease was between 2 and 5 months.
 
-Trametinib should be used with caution in patients with impaired left ventricular function. Patients with left ventricular dysfunction, New York Heart Association Class II, III, or IV heart failure, acute coronary syndrome within the past 6 months, clinically significant uncontrolled arrhythmias, and uncontrolled hypertension were excluded from clinical trials; safety of use in this population is therefore unknown. LVEF should be evaluated in all patients prior to initiation of treatment with trametinib, one month after initiation of therapy, and then at approximately 3-monthly intervals while on treatment (see section 4.2 regarding dose modification).
+Trametinib should be used with caution in patients with impaired left ventricular function. Patients with left ventricular dysfunction, New York Heart Association Class II, III, or IV heart failure, acute coronary syndrome within the past 6 months, clinically significant uncontrolled arrhythmias, and uncontrolled hypertension were excluded from clinical studies; safety of use in this population is therefore unknown. LVEF should be evaluated in all patients prior to initiation of treatment with trametinib, one month after initiation of therapy, and then at approximately 3-monthly intervals while on treatment (see section 4.2 regarding dose modification).
 
 In patients receiving trametinib in combination with dabrafenib, there have been occasional reports of acute, severe left ventricular dysfunction due to myocarditis. Full recovery was observed when stopping treatment. Physicians should be alert to the possibility of myocarditis in patients who develop new or worsening cardiac signs or symptoms.
 
 ## Pyrexia
 
-Fever has been reported in clinical trials with trametinib as monotherapy and in combination with dabrafenib (see section 4.8). The incidence and severity of pyrexia are increased with the combination therapy (see dabrafenib SmPC section 4.4). In patients receiving trametinib in combination with
-
-<div style=\"page-break-after: always\"></div>
-
-dabrafenib, pyrexia may be accompanied by severe rigors, dehydration, and hypotension which in some cases can lead to acute renal insufficiency.
+Fever has been reported in clinical studies with trametinib as monotherapy and in combination with dabrafenib (see section 4.8). The incidence and severity of pyrexia are increased with the combination therapy (see dabrafenib SmPC section 4.4). In patients receiving trametinib in combination with dabrafenib, pyrexia may be accompanied by severe rigors, dehydration, and hypotension which in some cases can lead to acute renal insufficiency.
 
 Therapy (trametinib when used as monotherapy, and both trametinib and dabrafenib when used in combination) should be interrupted if the patient's temperature is ≥38ºC (see section 5.1). In case of recurrence, therapy can also be interrupted at the first symptom of pyrexia. Treatment with antipyretics such as ibuprofen or acetaminophen/paracetamol should be initiated. The use of oral corticosteroids should be considered in those instances in which anti-pyretics are insufficient. Patients should be evaluated for signs and symptoms of infection. Therapy can be restarted once the fever resolves. If fever is associated with other severe signs or symptoms, therapy should be restarted at a reduced dose once fever resolves and as clinically appropriate (see section 4.2).
 
@@ -264,25 +276,25 @@ Therapy (trametinib when used as monotherapy, and both trametinib and dabrafenib
 
 Elevations in blood pressure have been reported in association with trametinib as monotherapy and in combination with dabrafenib, in patients with or without pre-existing hypertension (see section 4.8). Blood pressure should be measured at baseline and monitored during treatment with trametinib, with control of hypertension by standard therapy as appropriate.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Interstitial lung disease (ILD)/Pneumonitis
 
-In a Phase III trial, 2.4% (5/211) of patients treated with trametinib monotherapy developed ILD or pneumonitis; all five patients required hospitalisation. The median time to first presentation of ILD or pneumonitis was 160 days (range: 60 to 172 days). In studies MEK115306 and MEK116513 &lt;1% (2/209) and 1 % (4/350), respectively, of patients treated with trametinib in combination with dabrafenib developed pneumonitis or ILD (see section 4.8).
+In a Phase III study, 2.4% (5/211) of patients treated with trametinib monotherapy developed ILD or pneumonitis; all five patients required hospitalisation. The median time to first presentation of ILD or pneumonitis was 160 days (range: 60 to 172 days). In studies MEK115306 and MEK116513 &lt;1% (2/209) and 1% (4/350), respectively, of patients treated with trametinib in combination with dabrafenib developed pneumonitis or ILD (see section 4.8).
 
 Trametinib should be withheld in patients with suspected ILD or pneumonitis, including patients presenting with new or progressive pulmonary symptoms and findings including cough, dyspnoea, hypoxia, pleural effusion, or infiltrates, pending clinical investigations. Trametinib should be permanently discontinued for patients diagnosed with treatment-related ILD or pneumonitis (see section 4.2). If trametinib is being used in combination with dabrafenib then therapy with dabrafenib may be continued at the same dose.
 
 ## Visual impairment
 
-Disorders associated with visual disturbance, including RPED and RVO, may occur with trametinib as monotherapy and in combination with dabrafenib. Symptoms such as blurred vision, decreased acuity, and other visual phenomena have been reported in the clinical trials with trametinib (see section 4.8). In clinical trials uveitis and iridocyclitis have also been reported in patients treated with trametinib in combination with dabrafenib.
+Disorders associated with visual disturbance, including RPED and RVO, may occur with trametinib as monotherapy and in combination with dabrafenib. Symptoms such as blurred vision, decreased acuity, and other visual phenomena have been reported in the clinical studies with trametinib (see section 4.8). In clinical studies uveitis and iridocyclitis have also been reported in patients treated with trametinib in combination with dabrafenib.
 
 Trametinib is not recommended in patients with a history of RVO. The safety of trametinib in subjects with predisposing factors for RVO, including uncontrolled glaucoma or ocular hypertension, uncontrolled hypertension, uncontrolled diabetes mellitus, or a history of hyperviscosity or hypercoagulability syndromes, has not been established.
 
 If patients report new visual disturbances, such as diminished central vision, blurred vision or loss of vision at any time while on trametinib therapy, a prompt ophthalmological assessment is recommended. If RPED is diagnosed, the dose modification schedule in Table 3 should be followed (see section 4.2); if uveitis is diagnosed, please refer to dabrafenib SmPC section 4.4. In patients who are diagnosed with RVO, treatment with trametinib should be permanently discontinued. No dose modification of dabrafenib is required when taken in combination with trametinib following diagnosis of RVO or RPED. No dose modification of trametinib is required when taken in combination with dabrafenib following diagnosis of uveitis.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Rash
 
-Rash has been observed in about 60% of patients in trametinib monotherapy studies and in about 24% of patients when trametinib is used in combination with dabrafenib (see section 4.8). The majority of these cases were Grade 1 or 2 and did not require any dose interruptions or dose reductions.
+Rash has been observed in about 60% of patients in trametinib monotherapy studies and in about 27% of patients when trametinib is used in combination with dabrafenib (see section 4.8). The majority of these cases were Grade 1 or 2 and did not require any dose interruptions or dose reductions.
 
 ## Rhabdomyolysis
 
@@ -290,15 +302,17 @@ Rhabdomyolysis has been reported in patients taking trametinib as monotherapy or
 
 ## Renal failure
 
-Renal failure has been identified in patients treated with trametinib in combination with dabrafenib in clinical trials. Please refer to the dabrafenib SmPC (section 4.4).
+Renal failure has been identified in patients treated with trametinib in combination with dabrafenib in clinical studies. Please refer to the dabrafenib SmPC (section 4.4).
+
+<div style=\"page-break-after: always\"></div>
 
 ## Pancreatitis
 
-Pancreatitis has been reported in patients treated with trametinib in combination with dabrafenib in clinical trials. Please refer to the dabrafenib SmPC (section 4.4).
+Pancreatitis has been reported in patients treated with trametinib in combination with dabrafenib in clinical studies. Please refer to the dabrafenib SmPC (section 4.4).
 
 ## Hepatic events
 
-Hepatic adverse  reactions have been reported in clinical trials with trametinib as monotherapy and in combination with dabrafenib (see section 4.8). It is recommended that patients receiving treatment with trametinib monotherapy or in combination with dabrafenib have liver function monitored every four weeks for 6 months after treatment initiation with trametinib. Liver monitoring may be continued thereafter as clinically indicated.
+Hepatic adverse reactions have been reported in clinical studies with trametinib as monotherapy and in combination with dabrafenib (see section 4.8). It is recommended that patients receiving treatment with trametinib monotherapy or in combination with dabrafenib have liver function monitored every four weeks for 6 months after treatment initiation with trametinib. Liver monitoring may be continued thereafter as clinically indicated.
 
 ## Hepatic impairment
 
@@ -312,8 +326,6 @@ Pulmonary embolism or deep vein thrombosis can occur when trametinib is used as 
 
 Cases of severe cutaneous adverse reactions (SCARs), including Stevens-Johnson syndrome, and drug reaction with eosinophilia and systemic symptoms (DRESS), which can be life-threatening or fatal, have been reported during treatment with dabrafenib/trametinib combination therapy. Before initiating treatment, patients should be advised of the signs and symptoms and monitored closely for skin reactions. If signs and symptoms suggestive of SCARs appear, dabrafenib and trametinib should be withdrawn.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Gastrointestinal disorders
 
 Colitis and gastrointestinal perforation, including fatal outcome, have been reported in patients taking trametinib as monotherapy and in combination with dabrafenib (see section 4.8). Treatment with trametinib monotherapy or in combination with dabrafenib should be used with caution in patients with risk factors for gastrointestinal perforation, including history of diverticulitis, metastases to the gastrointestinal tract and concomitant use of medicinal products with a recognised risk of gastrointestinal perforation.
@@ -321,6 +333,8 @@ Colitis and gastrointestinal perforation, including fatal outcome, have been rep
 ## Sarcoidosis
 
 Cases of sarcoidosis have been reported in patients treated with trametinib in combination with dabrafenib, mostly involving the skin, lung, eye and lymph nodes. In the majority of the cases, treatment with trametinib and dabrafenib was maintained. In case of a diagnosis of sarcoidosis, relevant treatment should be considered. It is important not to misinterpret sarcoidosis as disease progression.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Haemophagocytic lymphohistiocytosis
 
@@ -346,8 +360,6 @@ Trametinib is an in vitro substrate of the efflux transporter P-gp. As it cannot
 
 Based on in vitro and in vivo data, trametinib is unlikely to significantly affect the pharmacokinetics of other medicinal products via interaction with CYP enzymes or transporters (see section 5.2). Trametinib may result in transient inhibition of BCRP substrates (e.g. pitavastatin) in the gut, which may be minimised with staggered dosing (2 hours apart) of these agents and trametinib.
 
-<div style=\"page-break-after: always\"></div>
-
 Based on clinical data, no loss of efficacy of hormonal contraceptives is expected when coadministered with trametinib monotherapy (see section 5.2).
 
 ## Combination with dabrafenib
@@ -357,6 +369,8 @@ When trametinib is used in combination with dabrafenib see sections 4.4 and 4.5 
 ## Effect of food on trametinib
 
 Patients should take trametinib as monotherapy or in combination with dabrafenib at least one hour prior to or two hours after a meal due to the effect of food on trametinib absorption (see section 4.2 and 5.2).
+
+<div style=\"page-break-after: always\"></div>
 
 ## 4.6 Fertility, pregnancy and lactation
 
@@ -384,11 +398,7 @@ Effects on spermatogenesis have been observed in animals given dabrafenib. Male 
 
 ## 4.7 Effects on ability to drive and use machines
 
-Trametinib has minor influence on the ability to drive and use machines. The clinical status of the patient and the adverse reaction profile should be borne in mind when considering the patient's ability
-
-<div style=\"page-break-after: always\"></div>
-
-to perform tasks that require judgement, motor and cognitive skills. Patients should be made aware of potential for fatigue, dizziness or eye problems that might affect these activities.
+Trametinib has minor influence on the ability to drive and use machines. The clinical status of the patient and the adverse reaction profile should be borne in mind when considering the patient's ability to perform tasks that require judgement, motor and cognitive skills. Patients should be made aware of potential for fatigue, dizziness or eye problems that might affect these activities.
 
 ## 4.8 Undesirable effects
 
@@ -396,15 +406,19 @@ to perform tasks that require judgement, motor and cognitive skills. Patients sh
 
 The safety of trametinib monotherapy has been evaluated in the integrated safety population of 329 patients with BRAF V600 mutant unresectable or metastatic melanoma treated with trametinib 2 mg once daily in studies MEK114267, MEK113583, and MEK111054. Of these patients, 211 were treated with trametinib for BRAF V600 mutant melanoma in the randomised open-label Phase III study MEK114267 (METRIC) (see section 5.1). The most common adverse reactions (incidence ≥20%) for trametinib were rash, diarrhoea, fatigue, oedema peripheral, nausea, and dermatitis acneiform.
 
-The safety of trametinib in combination with dabrafenib has been evaluated in the integrated safety population of 1 076 patients with BRAF V600 mutant unresectable or metastatic melanoma, Stage III BRAF V600 mutant melanoma following complete resection (adjuvant treatment) and advanced NSCLC treated with trametinib 2 mg once daily and dabrafenib 150 mg twice daily. Of these patients, 559 were treated with the combination for BRAF V600 mutant melanoma in two randomised Phase III studies, MEK115306 (COMBI-d) and MEK116513 (COMBI-v), 435 were treated with the combination in the adjuvant treatment of Stage III BRAF V600 mutant melanoma after complete resection in a randomised Phase III study BRF115532 (COMBI-AD) and 82 were treated with the combination for BRAF V600 mutant NSCLC in a multi-cohort, non-randomised Phase II study BRF113928 (see section 5.1).
+<div style=\"page-break-after: always\"></div>
 
-The most common adverse reactions (incidence  20%) for trametinib in combination with dabrafenib were: pyrexia, fatigue, nausea, chills, headache, diarrhoea, vomiting, arthralgia and rash.
+The safety of trametinib in combination with dabrafenib has been evaluated in the integrated safety population of 1 188 adult patients with BRAF V600 mutant unresectable or metastatic melanoma, Stage III BRAF V600 mutant melanoma following complete resection (adjuvant treatment), advanced NSCLC and advanced DTC treated with trametinib 2 mg once daily and dabrafenib 150 mg twice daily. The mean treatment duration was 16 months (see section 5.1).
+
+The most common adverse reactions (incidence ≥ 20%) for trametinib in combination with dabrafenib were: pyrexia, fatigue, nausea, rash, chills, diarrhoea, headache, arthralgia, vomiting, cough, haemorrhage and peripheral oedema.
 
 ## Tabulated list of adverse reactions
 
 Adverse reactions associated with trametinib obtained from clinical studies and post-marketing surveillance are tabulated below for trametinib monotherapy (Table 4) and trametinib in combination with dabrafenib (Table 5).
 
-Adverse reactions are listed below by MedDRA system organ class. The following convention has been utilised for the classification of frequency:
+Adverse reactions are listed below by MedDRA system organ class.
+
+The following convention has been utilised for the classification of frequency:
 
 Very common
 
@@ -420,7 +434,7 @@ Uncommon
 
 Rare
 
- 1/10 000 to &lt;1/1 000
+≥ 1/10 000 to &lt;1/1 000
 
 Very rare
 
@@ -430,186 +444,191 @@ Not known
 
 (cannot be estimated from the available data)
 
-Categories have been assigned based on absolute frequencies in the clinical trial data. Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
-
-<div style=\"page-break-after: always\"></div>
+Categories have been assigned based on absolute frequencies in the clinical study data. Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
 Table 4 Adverse reactions with trametinib monotherapy
 
-| System Organ Class                              | Frequency (all grades)   | Adverse Reactions                                              |
-|-------------------------------------------------|--------------------------|----------------------------------------------------------------|
-| Infections and infestations                     | Common                   | Folliculitis                                                   |
-| Infections and infestations                     | Common                   | Paronychia                                                     |
-| Infections and infestations                     | Common                   | Cellulitis                                                     |
-| Infections and infestations                     | Common                   | Rash pustular                                                  |
-| Blood and lymphatic system disorders            | Common                   | Anaemia                                                        |
-| Immune system disorders                         | Common                   | Hypersensitivity a                                             |
-| Metabolism and nutrition disorders              | Common                   | Dehydration                                                    |
-| Nervous system disorders                        | Common                   | Peripheral neuropathy (including sensory and motor neuropathy) |
-| Eye disorders                                   | Common                   | Vision blurred                                                 |
-| Eye disorders                                   | Common                   | Periorbital oedema                                             |
-| Eye disorders                                   | Common                   | Visual impairment                                              |
-| Eye disorders                                   | Uncommon                 | Chorioretinopathy                                              |
-| Eye disorders                                   | Uncommon                 | Papilloedema                                                   |
-| Eye disorders                                   | Uncommon                 | Retinal detachment                                             |
-| Cardiac disorders                               | Common                   | Left ventricular dysfunction                                   |
-| Cardiac disorders                               | Common                   | Ejection fraction decreased                                    |
-| Cardiac disorders                               | Common                   | Bradycardia                                                    |
-| Cardiac disorders                               | Common                   | Cardiac failure                                                |
-|                                                 | Uncommon Not known       | Atrioventricular block b                                       |
-|                                                 | Very common              | Hypertension c                                                 |
-| Vascular disorders                              | Common                   | Haemorrhage                                                    |
-| Respiratory, thoracic and mediastinal disorders |                          | Lymphoedema                                                    |
-|                                                 | Very common              | Cough                                                          |
-|                                                 | Common                   | Dyspnoea Pneumonitis                                           |
-|                                                 | Uncommon                 | Interstitial lung disease                                      |
-| Gastrointestinal disorders                      |                          | Diarrhoea                                                      |
-|                                                 |                          | Nausea                                                         |
-|                                                 | Very common              | Vomiting                                                       |
-|                                                 |                          | Constipation                                                   |
-|                                                 |                          | Abdominal pain                                                 |
-|                                                 |                          | Dry mouth                                                      |
-|                                                 | Common                   | Stomatitis                                                     |
-|                                                 | Uncommon                 | Gastrointestinal perforation                                   |
-|                                                 |                          | Colitis Rash                                                   |
-| Skin and subcutaneous tissue disorders          | Very common              | Dermatitis acneiform                                           |
-| Skin and subcutaneous tissue disorders          | Very common              | Dry skin                                                       |
-| Skin and subcutaneous tissue disorders          | Very common              | Pruritus                                                       |
-| Skin and subcutaneous tissue disorders          | Very common              | Alopecia                                                       |
-| Skin and subcutaneous tissue disorders          | Very common              | Erythema                                                       |
-| Skin and subcutaneous tissue disorders          | Common                   | syndrome                                                       |
-| Skin and subcutaneous tissue disorders          | Very common              | Skin fissures                                                  |
+| System organ class                   | Frequency (all grades)   | Adverse reactions                                              |
+|--------------------------------------|--------------------------|----------------------------------------------------------------|
+| Infections and infestations          | Common                   | Folliculitis                                                   |
+| Infections and infestations          | Common                   | Paronychia                                                     |
+| Infections and infestations          | Common                   | Cellulitis                                                     |
+| Infections and infestations          | Common                   | Rash pustular                                                  |
+| Blood and lymphatic system disorders | Common                   | Anaemia                                                        |
+| Immune system disorders              | Common                   | Hypersensitivity a                                             |
+| Metabolism and nutrition disorders   | Common                   | Dehydration                                                    |
+| Nervous system disorders             | Common                   | Peripheral neuropathy (including sensory and motor neuropathy) |
+| Eye disorders                        | Common                   | Vision blurred                                                 |
+| Eye disorders                        | Common                   | Periorbital oedema                                             |
+| Eye disorders                        | Common                   | Visual impairment                                              |
+| Eye disorders                        | Uncommon                 | Chorioretinopathy                                              |
+| Eye disorders                        | Uncommon                 | Papilloedema                                                   |
+| Eye disorders                        | Uncommon                 | Retinal detachment                                             |
+| Eye disorders                        | Uncommon                 | Retinal vein occlusion                                         |
+| Cardiac disorders                    | Common                   | Left ventricular dysfunction                                   |
+| Cardiac disorders                    | Common                   | Ejection fraction decreased                                    |
+| Cardiac disorders                    | Common                   | Bradycardia                                                    |
+| Cardiac disorders                    | Uncommon                 | Cardiac failure                                                |
+| Cardiac disorders                    | Not known                | Atrioventricular block b                                       |
 
 <div style=\"page-break-after: always\"></div>
 
-| Musculoskeletal and connective tissue disorders      | Uncommon    | Rhabdomyolysis                         |
-|------------------------------------------------------|-------------|----------------------------------------|
-| General disorders and administration site conditions | Very common | Fatigue                                |
-| General disorders and administration site conditions | Very common | Oedema peripheral                      |
-| General disorders and administration site conditions | Very common | Pyrexia                                |
-| General disorders and administration site conditions | Common      | Face oedema                            |
-| General disorders and administration site conditions | Common      | Mucosal inflammation                   |
-| General disorders and administration site conditions | Common      | Asthenia                               |
-| Investigations                                       | Very common | Aspartate aminotransferase increased   |
-| Investigations                                       | Common      | Alanine aminotransferase increased     |
-| Investigations                                       | Common      | Blood alkaline phosphatase increased   |
-| Investigations                                       | Common      | Blood creatine phosphokinase increased |
+| Vascular disorders                                   | Very common   | Hypertension                                |
+|------------------------------------------------------|---------------|---------------------------------------------|
+| Vascular disorders                                   | Very common   | Haemorrhage c                               |
+| Vascular disorders                                   | Common        | Lymphoedema                                 |
+| Respiratory, thoracic and mediastinal disorders      | Very common   | Cough                                       |
+| Respiratory, thoracic and mediastinal disorders      |               | Dyspnoea                                    |
+| Respiratory, thoracic and mediastinal disorders      | Common        | Pneumonitis                                 |
+| Respiratory, thoracic and mediastinal disorders      | Uncommon      | Interstitial lung disease                   |
+| Gastrointestinal disorders                           | Very common   | Diarrhoea                                   |
+| Gastrointestinal disorders                           | Very common   | Nausea                                      |
+| Gastrointestinal disorders                           | Very common   | Vomiting                                    |
+| Gastrointestinal disorders                           | Very common   | Constipation                                |
+| Gastrointestinal disorders                           | Very common   | Abdominal pain                              |
+| Gastrointestinal disorders                           | Very common   | Dry mouth                                   |
+| Gastrointestinal disorders                           | Common        | Stomatitis                                  |
+| Gastrointestinal disorders                           | Uncommon      | Gastrointestinal perforation                |
+|                                                      |               | Colitis                                     |
+| Skin and subcutaneous tissue disorders               | Very common   | Rash                                        |
+| Skin and subcutaneous tissue disorders               | Very common   | Dermatitis acneiform                        |
+| Skin and subcutaneous tissue disorders               | Very common   | Dry skin                                    |
+| Skin and subcutaneous tissue disorders               | Very common   | Pruritus                                    |
+| Skin and subcutaneous tissue disorders               |               | Alopecia Erythema                           |
+| Skin and subcutaneous tissue disorders               | Common        | Palmar-plantar erythrodysaesthesia syndrome |
+| Skin and subcutaneous tissue disorders               | Common        | Skin fissures                               |
+| Musculoskeletal and connective tissue disorders      | Uncommon      | Rhabdomyolysis                              |
+| General disorders and administration site conditions | Very common   | Fatigue                                     |
+|                                                      |               | Oedema peripheral                           |
+|                                                      |               | Pyrexia                                     |
+|                                                      | Common        | Face oedema                                 |
+|                                                      | Common        | Mucosal inflammation                        |
+|                                                      | Common        | Asthenia                                    |
+| Investigations                                       | Very common   | Aspartate aminotransferase increased        |
+|                                                      | Common        | Alanine aminotransferase increased          |
+|                                                      | Common        | Blood alkaline phosphatase increased        |
+|                                                      | Common        | Blood creatine phosphokinase increased      |
+
+<div style=\"page-break-after: always\"></div>
 
 Table 5 Adverse reactions with trametinib in combination with dabrafenib
 
-| System Organ Class                                                  | Frequency (all grades)   | Adverse Reactions                                              |
+| System organ class                                                  | Frequency (all grades)   | Adverse reactions                                              |
 |---------------------------------------------------------------------|--------------------------|----------------------------------------------------------------|
 | Infections and infestations                                         | Very common              | Nasopharyngitis                                                |
-| Infections and infestations                                         |                          | Urinary tract infection                                        |
-| Infections and infestations                                         |                          | Cellulitis                                                     |
+| Infections and infestations                                         | Very common              | Urinary tract infection                                        |
+| Infections and infestations                                         | Common                   | Cellulitis                                                     |
 | Infections and infestations                                         | Common                   | Folliculitis                                                   |
-| Infections and infestations                                         |                          | Paronychia                                                     |
-| Infections and infestations                                         |                          | Rash pustular                                                  |
+| Infections and infestations                                         | Common                   | Paronychia                                                     |
+| Infections and infestations                                         | Common                   | Rash pustular                                                  |
 | Neoplasms benign, malignant and unspecified (incl cysts and polyps) |                          | Cutaneous squamous cell carcinoma a                            |
 | Neoplasms benign, malignant and unspecified (incl cysts and polyps) | Common                   | Papilloma b                                                    |
 | Neoplasms benign, malignant and unspecified (incl cysts and polyps) |                          | Seborrhoeic keratosis                                          |
-| Neoplasms benign, malignant and unspecified (incl cysts and polyps) |                          | New primary melanoma c                                         |
-| Neoplasms benign, malignant and unspecified (incl cysts and polyps) | Uncommon                 | Acrochordon (skin tags)                                        |
-| Blood and lymphatic system disorders                                |                          | Neutropenia                                                    |
-| Blood and lymphatic system disorders                                |                          | Anaemia                                                        |
+| Neoplasms benign, malignant and unspecified (incl cysts and polyps) | Uncommon                 | New primary melanoma c                                         |
+| Blood and lymphatic system disorders                                | Very common              | Acrochordon (skin tags) Neutropenia                            |
+| Blood and lymphatic system disorders                                | Very common              | Anaemia                                                        |
 | Blood and lymphatic system disorders                                | Common                   | Thrombocytopenia                                               |
-| Blood and lymphatic system disorders                                |                          | Leukopenia                                                     |
-| Immune system disorders                                             |                          | Hypersensitivity d                                             |
-| Immune system disorders                                             | Uncommon                 | Sarcoidosis                                                    |
-|                                                                     | Rare                     | Haemophagocytic lymphohistiocytosis Decreased appetite         |
-| Metabolism and nutrition disorders                                  | Very common              |                                                                |
-| Metabolism and nutrition disorders                                  |                          | Dehydration                                                    |
-| Metabolism and nutrition disorders                                  |                          | Hyponatraemia                                                  |
-| Metabolism and nutrition disorders                                  | Common                   | Hypophosphataemia                                              |
-| Metabolism and nutrition disorders                                  |                          | Hyperglycaemia                                                 |
-|                                                                     | Not known                | Tumour lysis syndrome                                          |
+| Blood and lymphatic system disorders                                | Common                   | Leukopenia                                                     |
+| Immune system disorders                                             | Uncommon                 | Hypersensitivity d                                             |
+| Immune system disorders                                             |                          | Sarcoidosis                                                    |
+| Immune system disorders                                             |                          | Haemophagocytic lymphohistiocytosis                            |
+| Metabolism and nutrition disorders                                  | Rare Very common         | Decreased appetite                                             |
+| Metabolism and nutrition disorders                                  | Rare Very common         | Dehydration                                                    |
+| Metabolism and nutrition disorders                                  | Common                   | Hyponatraemia                                                  |
+| Metabolism and nutrition disorders                                  | Rare Very common         | Hypophosphataemia                                              |
+| Metabolism and nutrition disorders                                  | Rare Very common         | Hyperglycaemia                                                 |
+| Nervous system disorders                                            | Not known                | Tumour lysis syndrome                                          |
 |                                                                     | Very common              | Headache                                                       |
-|                                                                     |                          | Dizziness                                                      |
-| Nervous system disorders                                            | Common                   | Peripheral neuropathy (including sensory and motor neuropathy) |
-| Eye disorders                                                       |                          | Vision blurred                                                 |
+|                                                                     | Very common              | Dizziness                                                      |
+|                                                                     | Common                   | Peripheral neuropathy (including sensory and motor neuropathy) |
+| Eye disorders                                                       | Common                   | Vision blurred                                                 |
 | Eye disorders                                                       | Common                   | Visual impairment                                              |
-| Eye disorders                                                       |                          | Uveitis                                                        |
-| Eye disorders                                                       |                          | Chorioretinopathy                                              |
-| Eye disorders                                                       | Uncommon                 | Retinal detachment                                             |
-| Eye disorders                                                       |                          | Periorbital oedema                                             |
+| Eye disorders                                                       | Common                   | Uveitis                                                        |
+| Cardiac disorders                                                   |                          | Chorioretinopathy                                              |
+| Cardiac disorders                                                   | Uncommon                 | Retinal detachment                                             |
+| Cardiac disorders                                                   |                          | Periorbital oedema                                             |
+|                                                                     | Common                   | Ejection fraction decreased                                    |
+|                                                                     | Common                   | Bradycardia                                                    |
+|                                                                     | Uncommon                 | Cardiac failure Left ventricular dysfunction                   |
+|                                                                     | Common                   | Atrioventricular block e                                       |
+|                                                                     | Not known                | Myocarditis                                                    |
+|                                                                     | Not known                | Hypertension                                                   |
+|                                                                     | Very common              | Haemorrhage f                                                  |
+| Vascular disorders                                                  | Common                   | Hypotension                                                    |
+| Vascular disorders                                                  | Common                   | Lymphoedema                                                    |
+| Respiratory, thoracic and mediastinal disorders                     | Very common              | Cough                                                          |
+| Respiratory, thoracic and mediastinal disorders                     | Common                   | Pneumonitis                                                    |
+| Respiratory, thoracic and mediastinal disorders                     |                          | Dyspnoea                                                       |
+| Respiratory, thoracic and mediastinal disorders                     | Rare                     | Interstitial lung disease                                      |
 
 <div style=\"page-break-after: always\"></div>
 
-|                                    | Common      | Ejection fraction decreased                           |
-|------------------------------------|-------------|-------------------------------------------------------|
-|                                    |             | Atrioventricular block e                              |
-|                                    | Uncommon    | Bradycardia                                           |
-|                                    | Not known   | Myocarditis                                           |
-| Vascular disorders                 | Very common | Hypertension                                          |
-| Vascular disorders                 |             | Haemorrhage f                                         |
-| Vascular disorders                 | Common      | Hypotension Lymphoedema                               |
-| Respiratory, mediastinal disorders | Very common | Cough                                                 |
-| Respiratory, mediastinal disorders | Common      | Dyspnoea                                              |
-| Respiratory, mediastinal disorders | Uncommon    | Pneumonitis                                           |
-| Gastrointestinal                   |             | Abdominal pain g                                      |
-| Gastrointestinal                   |             | Constipation                                          |
-| Gastrointestinal                   | Very common | Diarrhoea                                             |
-| Gastrointestinal                   |             | Nausea                                                |
-| Gastrointestinal                   |             | Vomiting                                              |
-| Gastrointestinal                   |             | Dry mouth                                             |
-| Gastrointestinal                   | Common      | Stomatitis                                            |
-| Gastrointestinal                   |             | Pancreatitis                                          |
-| Gastrointestinal                   | Uncommon    | Colitis                                               |
-| Gastrointestinal                   | Rare        | Gastrointestinal perforation                          |
-| Skin and subcutaneous disorders    | Very common | Dry skin                                              |
-| Skin and subcutaneous disorders    |             | Pruritus                                              |
-| Skin and subcutaneous disorders    |             | Rash                                                  |
-| Skin and subcutaneous disorders    |             | Erythema h                                            |
-| Skin and subcutaneous disorders    |             | Dermatitis acneiform                                  |
-| Skin and subcutaneous disorders    |             | Actinic keratosis                                     |
-| Skin and subcutaneous disorders    |             | Night sweats                                          |
-| Skin and subcutaneous disorders    |             | Hyperkeratosis                                        |
-| Skin and subcutaneous disorders    |             | Alopecia                                              |
-| Skin and subcutaneous disorders    | Common      | Palmar-plantar erythrodysaesthesia syndrome           |
-| Skin and subcutaneous disorders    |             | Skin lesion                                           |
-| Skin and subcutaneous disorders    |             | Hyperhidrosis                                         |
-| Skin and subcutaneous disorders    |             | Panniculitis                                          |
-| Skin and subcutaneous disorders    |             | Skin fissures                                         |
-| Skin and subcutaneous disorders    |             | Photosensitivity                                      |
-|                                    | Uncommon    | Acute febrile neutrophilic dermatosis                 |
-|                                    | Not known   | Stevens-Johnson syndrome                              |
-|                                    |             | Drug reaction with eosinophilia and systemic symptoms |
-|                                    |             | Dermatitis exfoliative generalised                    |
-|                                    |             | Tattoo-associated skin reactions                      |
-| Musculoskeletal connective tissue  |             | Arthralgia                                            |
-| Musculoskeletal connective tissue  |             | Myalgia                                               |
-| Musculoskeletal connective tissue  | Very common | Pain in extremity                                     |
-| Musculoskeletal connective tissue  |             | Muscle spasms i                                       |
-| Renal and urinary                  | Uncommon    | Renal failure Nephritis                               |
+|                                             |             | Abdominal pain g                                      |
+|---------------------------------------------|-------------|-------------------------------------------------------|
+|                                             |             | Constipation                                          |
+|                                             | Very common | Diarrhoea                                             |
+|                                             |             | Nausea                                                |
+|                                             |             | Vomiting                                              |
+|                                             | Common      | Dry mouth                                             |
+|                                             |             | Stomatitis                                            |
+|                                             | Uncommon    | Gastrointestinal perforation                          |
+|                                             |             | Pancreatitis                                          |
+|                                             |             | Colitis                                               |
+|                                             | Very common | Dry skin                                              |
+|                                             | Very common | Pruritus                                              |
+|                                             | Very common | Rash                                                  |
+|                                             | Very common | Erythema                                              |
+|                                             | Very common | Dermatitis acneiform                                  |
+|                                             | Common      | Dermatitis exfoliative generalised h                  |
+|                                             | Common      | Actinic keratosis                                     |
+|                                             | Common      | Night sweats                                          |
+|                                             | Common      | Hyperkeratosis                                        |
+|                                             | Common      | Alopecia                                              |
+|                                             | Common      | Palmar-plantar erythrodysaesthesia syndrome           |
+|                                             | Common      | Skin lesion                                           |
+|                                             | Common      | Hyperhidrosis                                         |
+|                                             | Common      | Panniculitis                                          |
+|                                             | Common      | Skin fissures                                         |
+|                                             | Common      | Photosensitivity                                      |
+|                                             | Uncommon    | Acute febrile neutrophilic dermatosis                 |
+|                                             | Not known   | Stevens-Johnson syndrome                              |
+|                                             | Not known   | Drug reaction with eosinophilia and systemic symptoms |
+|                                             | Not known   | Tattoo-associated skin reactions                      |
+| Musculoskeletal connective tissue           | Very common | Arthralgia                                            |
+| Musculoskeletal connective tissue           | Very common | Myalgia                                               |
+| Musculoskeletal connective tissue           | Very common | Pain in extremity                                     |
+| Musculoskeletal connective tissue           | Very common | Muscle spasms i                                       |
+| Musculoskeletal connective tissue           | Uncommon    | Rhabdomyolysis                                        |
+| Renal and                                   | Common      | Renal failure, acute kidney injury                    |
+| urinary                                     | Rare        | Nephritis                                             |
+| General disorders administration conditions | Very common | Fatigue                                               |
+| General disorders administration conditions | Very common | Chills                                                |
+| General disorders administration conditions | Very common | Asthenia                                              |
+| General disorders administration conditions | Very common | Oedema peripheral                                     |
+| General disorders administration conditions | Very common | Pyrexia                                               |
+| General disorders administration conditions | Very common | Weight increase (abnormal weight gain)                |
+| General disorders administration conditions | Very common | Influenza-like illness                                |
+| General disorders administration conditions |             | Mucosal inflammation                                  |
+| General disorders administration conditions | Common      | Face oedema                                           |
 
 <div style=\"page-break-after: always\"></div>
 
-|                       | Fatigue                                |
-|-----------------------|----------------------------------------|
-|                       | Chills                                 |
-|                       | Asthenia                               |
-| General disorders and | Oedema peripheral                      |
-| administration site   | Pyrexia                                |
-| conditions            | Influenza-like illness                 |
-|                       | Mucosal inflammation                   |
-|                       | Face oedema                            |
-|                       | Alanine aminotransferase increased     |
-|                       | Aspartate aminotransferase increased   |
-| Investigations        | Blood alkaline phosphatase increased   |
-|                       | Gamma-glutamyltransferase increased    |
-|                       | Blood creatine phosphokinase increased |
-
-The safety profile from MEK116513 is generally similar to that of MEK115306 with the following exceptions: 1) The following adverse reactions have a higher frequency category as compared to MEK115306: muscle spasm (very common); renal failure and lymphoedema (common); acute renal failure (uncommon); 2) The following adverse reactions have occurred in MEK116513 but not in MEK115306: cardiac failure, left ventricular dysfunction, interstitial lung disease (uncommon); 3) The following adverse reaction has occurred in MEK116513 and BRF115532 but not in MEK115306 and BRF113928: rhabdomyolysis (uncommon).
+| Investigations   | Very common   | Alanine aminotransferase increased Aspartate aminotransferase increased   |
+|------------------|---------------|---------------------------------------------------------------------------|
+| Investigations   | Common        | Blood alkaline phosphatase increased                                      |
+| Investigations   | Common        | Gamma-glutamyltransferase increased                                       |
+| Investigations   | Common        | Blood creatine phosphokinase increased                                    |
 
 - a  Cutaneous squamous cell carcinoma (cuSCC): SCC, SCC of the skin, SCC in situ (Bowen's disease) and keratoacanthoma
 - b Papilloma, skin papilloma
-- c  Malignant melanoma, metastatic malignant melanoma, and superficial spreading melanoma Stage III
+- c  Malignant melanoma, and superficial spreading melanoma Stage unspecified
 - d Includes drug hypersensitivity
 - e Including atrioventricular block complete
 - f Bleeding from various sites, including intracranial bleeding and fatal bleeding
-- g  Abdominal pain upper and abdominal pain lower
-- h Erythema, generalised erythema
+- g  Includes abdominal pain upper and abdominal pain lower
+- h Includes skin exfoliation
 - i Muscle spasms, musculoskeletal stiffness
+- j Weight increase (abnormal weight gain) has only been reported in the paediatric population.
 
 ## Description of selected adverse reactions
 
@@ -619,25 +638,23 @@ New malignancies, cutaneous and non-cutaneous, can occur when trametinib is used
 
 ## Haemorrhage
 
-Haemorrhagic events, including major haemorrhagic events and fatal haemorrhages, occurred in patients taking trametinib as monotherapy and in combination with dabrafenib. The majority of bleeding events were mild. Fatal intracranial haemorrhages occurred in the integrated safety population of trametinib in combination with dabrafenib in &lt;1% (8/1 076) of patients. The median time to onset of the first occurrence of haemorrhagic events for the combination of trametinib and dabrafenib was 94 days in the melanoma Phase III studies and 75 days in the NSCLC study for the patients who had received prior anti-cancer therapy.
+Haemorrhagic events, including major haemorrhagic events and fatal haemorrhages, occurred in patients taking trametinib as monotherapy and in combination with dabrafenib. The majority of bleeding events were mild. Fatal intracranial haemorrhages occurred in the integrated safety population of trametinib in combination with dabrafenib in &lt;1% of patients. The median time to onset of the first occurrence of haemorrhagic events for the combination of trametinib and dabrafenib was 94 days in the melanoma Phase III studies and 75 days in the NSCLC study for the patients who had received prior anti-cancer therapy.
 
 The risk of haemorrhage may be increased with concomitant use of antiplatelet or anticoagulant therapy. If haemorrhage occurs, treat as clinically indicated (see section 4.4).
 
 ## LVEF reduction/Left ventricular dysfunction
 
-Trametinib has been reported to decrease LVEF when used as monotherapy or in combination with dabrafenib. In clinical trials, the median time to first occurrence of left ventricular dysfunction, cardiac failure and LVEF decrease was between 2 to 5 months. In the integrated safety population of trametinib in combination with dabrafenib, decreased LVEF has been reported in 6% (65/1 076) of patients, with most cases being asymptomatic and reversible. Patients with LVEF lower than the
-
-<div style=\"page-break-after: always\"></div>
-
-institutional lower limit of normal were not included in clinical trials with trametinib. Trametinib should be used with caution in patients with conditions that could impair left ventricular function (see sections 4.2 and 4.4).
+Trametinib has been reported to decrease LVEF when used as monotherapy or in combination with dabrafenib. In clinical studies, the median time to first occurrence of left ventricular dysfunction, cardiac failure and LVEF decrease was between 2 to 5 months. In the integrated safety population of trametinib in combination with dabrafenib, decreased LVEF has been reported in 8% of patients, with most cases being asymptomatic and reversible. Patients with LVEF lower than the institutional lower limit of normal were not included in clinical studies with trametinib. Trametinib should be used with caution in patients with conditions that could impair left ventricular function (see sections 4.2 and 4.4).
 
 ## Pyrexia
 
-Pyrexia has been reported in clinical trials with trametinib as monotherapy and in combination with dabrafenib; however, the incidence and severity of pyrexia are increased with the combination therapy. Please refer to sections 4.4 and 4.8 of the dabrafenib SmPC.
+Pyrexia has been reported in clinical studies with trametinib as monotherapy and in combination with dabrafenib; however, the incidence and severity of pyrexia are increased with the combination therapy. Please refer to sections 4.4 and 4.8 of the dabrafenib SmPC.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Hepatic events
 
-Hepatic adverse reactions have been reported in clinical trials with trametinib as monotherapy and in combination with dabrafenib. Of the hepatic adverse reactions, increased ALT and AST were the most common events and the majority were either Grade 1 or 2. For trametinib monotherapy, more than 90% of these liver events occurred within the first 6 months of treatment. Liver events were detected in clinical trials with monitoring every four weeks. It is recommended that patients receiving treatment with trametinib monotherapy or in combination with dabrafenib have liver function monitored every four weeks for 6 months. Liver monitoring may be continued thereafter as clinically indicated (see section 4.4).
+Hepatic adverse reactions have been reported in clinical studies with trametinib as monotherapy and in combination with dabrafenib. Of the hepatic adverse reactions, increased ALT and AST were the most common events and the majority were either Grade 1 or 2. For trametinib monotherapy, more than 90% of these liver events occurred within the first 6 months of treatment. Liver events were detected in clinical studies with monitoring every four weeks. It is recommended that patients receiving treatment with trametinib monotherapy or in combination with dabrafenib have liver function monitored every four weeks for 6 months. Liver monitoring may be continued thereafter as clinically indicated (see section 4.4).
 
 ## Hypertension
 
@@ -649,17 +666,15 @@ Patients treated with trametinib or combination with dabrafenib may develop ILD 
 
 ## Visual impairment
 
-Disorders associated with visual disturbances, including RPED and RVO, have been observed with trametinib. Symptoms such as blurred vision, decreased acuity, and other visual disturbances have been reported in the clinical trials with trametinib (see sections 4.2 and 4.4).
+Disorders associated with visual disturbances, including RPED and RVO, have been observed with trametinib. Symptoms such as blurred vision, decreased acuity, and other visual disturbances have been reported in the clinical studies with trametinib (see sections 4.2 and 4.4).
 
 ## Rash
 
-Rash has been observed in about 60% of patients when given as monotherapy and in about 24% of patients in trametinib and dabrafenib combination studies in the integrated safety population. The majority of these cases were Grade 1 or 2 and did not require any dose interruptions or dose reductions (see sections 4.2 and 4.4).
+Rash has been observed in about 60% of patients when given as monotherapy and in about 27% of patients in trametinib and dabrafenib combination studies in the integrated safety population. The majority of these cases were Grade 1 or 2 and did not require any dose interruptions or dose reductions (see sections 4.2 and 4.4).
 
 ## Rhabdomyolysis
 
 Rhabdomyolysis has been reported in patients taking trametinib alone or in combination with dabrafenib. Signs or symptoms of rhabdomyolysis should warrant an appropriate clinical evaluation and treatment as indicated (see section 4.4).
-
-<div style=\"page-break-after: always\"></div>
 
 ## Pancreatitis
 
@@ -669,13 +684,21 @@ Pancreatitis has been reported with dabrafenib in combination with trametinib. P
 
 Renal failure has been reported with dabrafenib in combination with trametinib. Please see the dabrafenib SmPC.
 
-## Special populations
+<div style=\"page-break-after: always\"></div>
+
+## Paediatric population
+
+The safety of trametinib film-coated tablets has not been evaluated in prospective clinical studies of adolescent patients with melanoma. In a published retrospective Italian study of 6 paediatric participants with advanced BRAF V600 mutation-positive melanoma treated with trametinib in combination with dabrafenib (see section 5.1), the most frequently reported adverse events were fever and increased creatine phosphokinase. Two adolescent patients experienced an asymptomatic decrease of more than 10% in LVEF, which resolved after temporary trametinib interruption, and both patients resumed trametinib at a reduced dose without further cardiac toxicity.
+
+In clinical studies in other indications, the safety profile of trametinib in combination with dabrafenib in paediatric patients was largely consistent with the safety profile previously established in adult patients. Weight increase (abnormal weight gain) has only been reported in the paediatric population. It was reported as an adverse reaction in 15% of adolescent patients including Grade 3 cases in 4% of patients.
+
+## Other special populations
 
 ## Elderly
 
 In the Phase III study with trametinib in patients with unresectable or metastatic melanoma (n=211), 49 patients (23%) were ≥ 65 years of age, and 9 patients (4%) were ≥ 75 years of age. The proportion of subjects experiencing adverse reactions (AR) and serious adverse reactions (SAR) was similar in the subjects aged &lt;65 years and those aged ≥ 65 years. Patients ≥ 65 years were more likely to experience ARs leading to permanent discontinuation of medicinal product, dose reduction and dose interruption than those &lt;65 years.
 
-In the integrated safety population of trametinib in combination with dabrafenib (n=1 076) 265 patients (25%) were ≥65 years of age; 62 patients (6%) were ≥75 years of age. The proportion of patients experiencing ARs was similar in those aged &lt;65 years and those aged ≥65 years in all studies. Patients ≥65 years were more likely to experience SARs and ARs leading to permanent discontinuation of medicinal product, dose reduction and dose interruption than those &lt;65 years.
+In the integrated safety population of trametinib in combination with dabrafenib (n=1 188) 27% of patients were ≥65 years of age, and 6% were ≥75 years of age. The proportion of patients experiencing ARs was similar in those aged &lt;65 years and those aged ≥65 years in all studies. Patients ≥65 years were more likely to experience SARs and ARs leading to permanent discontinuation of medicinal product, dose reduction and dose interruption than those &lt;65 years.
 
 ## Renal impairment
 
@@ -689,17 +712,15 @@ No dosage adjustment is required in patients with mild hepatic impairment (see s
 
 The safety and efficacy of the combination of trametinib and dabrafenib have been evaluated in a multi-cohort, open-label, Phase II study in patients with BRAF V600 mutant melanoma with brain metastases. The safety profile observed in these patients appears to be consistent with the integrated safety profile of the combination.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Reporting of suspected adverse reactions
 
 Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
 ## 4.9 Overdose
 
-In clinical trials with trametinib monotherapy one case of accidental overdose was reported; a single dose of 4 mg. No AEs were reported following this event of trametinib overdose. In clinical trials with
-
-<div style=\"page-break-after: always\"></div>
-
-the combination of trametinib and dabrafenib 11 patients reported trametinib overdose (4 mg); no SAEs were reported. There is no specific treatment for overdose. If overdose occurs, the patient should be treated supportively with appropriate monitoring as necessary.
+In clinical studies with trametinib monotherapy one case of accidental overdose was reported; a single dose of 4 mg. No AEs were reported following this event of trametinib overdose. In clinical studies with the combination of trametinib and dabrafenib 11 patients reported trametinib overdose (4 mg); no SAEs were reported. There is no specific treatment for overdose. If overdose occurs, the patient should be treated supportively with appropriate monitoring as necessary.
 
 ## 5. PHARMACOLOGICAL PROPERTIES
 
@@ -719,11 +740,11 @@ Dabrafenib is an inhibitor of RAF kinases. Oncogenic mutations in BRAF lead to c
 
 Before taking trametinib or the combination with dabrafenib, patients must have BRAF V600 mutation-positive tumour status confirmed by a validated test.
 
-In clinical trials, central testing for BRAF V600 mutation using a BRAF mutation assay was conducted on the most recent tumour sample available. Primary tumour or tumour from a metastatic site was tested with a validated polymerase chain reaction (PCR) assay developed by Response Genetics Inc. The assay was specifically designed to differentiate between the V600E and V600K mutations. Only patients with BRAF V600E or V600K mutation-positive tumours were eligible for study participation.
-
-Subsequently, all patient samples were re-tested using the CE-marked bioMerieux (bMx) THxID BRAF validated assay. The bMx THxID BRAF assay is an allele-specific PCR performed on DNA extracted from FFPE tumour tissue. The assay was designed to detect the BRAF V600E and V600K mutations with high sensitivity (down to 5% V600E and V600K sequence in a background of wildtype sequence using DNA extracted from FFPE tissue). Non-clinical and clinical trials with retrospective bi-directional Sanger sequencing analyses have shown that the test also detects the less common BRAF V600D mutation and V600E/K601E mutation with lower sensitivity. Of the specimens from the non-clinical and clinical trials (n=876) that were mutation-positive by the THxID BRAF assay and subsequently were sequenced using the reference method, the specificity of the assay was 94%.
+In melanoma clinical studies, central testing for BRAF V600 mutation using a BRAF mutation assay was conducted on the most recent tumour sample available. Primary tumour or tumour from a metastatic site was tested with a validated polymerase chain reaction (PCR) assay developed by Response Genetics Inc. The assay was specifically designed to differentiate between the V600E and V600K mutations. Only patients with BRAF V600E or V600K mutation-positive tumours were eligible for study participation.
 
 <div style=\"page-break-after: always\"></div>
+
+Subsequently, all patient samples were re-tested using the CE-marked bioMerieux (bMx) THxID BRAF validated assay. The bMx THxID BRAF assay is an allele-specific PCR performed on DNA extracted from FFPE tumour tissue. The assay was designed to detect the BRAF V600E and V600K mutations with high sensitivity (down to 5% V600E and V600K sequence in a background of wildtype sequence using DNA extracted from FFPE tissue). Non-clinical and clinical studies with retrospective bi-directional Sanger sequencing analyses have shown that the test also detects the less common BRAF V600D mutation and V600E/K601E mutation with lower sensitivity. Of the specimens from the non-clinical and clinical studies (n=876) that were mutation-positive by the THxID BRAF assay and subsequently were sequenced using the reference method, the specificity of the assay was 94%.
 
 ## Pharmacodynamic effects
 
@@ -735,7 +756,7 @@ In patients with BRAF and NRAS mutation-positive melanoma, administration of tra
 
 ## Unresectable or metastatic melanoma
 
-In the clinical trials only patients with cutaneous melanoma were studied. Efficacy in patients with ocular or mucosal melanoma has not been assessed.
+In the clinical studies only patients with cutaneous melanoma were studied. Efficacy in patients with ocular or mucosal melanoma has not been assessed.
 
 ## · Trametinib in combination with dabrafenib
 
@@ -747,34 +768,33 @@ The efficacy and safety of the recommended dose of trametinib (2 mg once daily) 
 
 MEK115306 was a Phase III, randomised, double-blinded study comparing the combination of dabrafenib and trametinib to dabrafenib and placebo in first-line therapy for subjects with unresectable (Stage IIIC) or metastatic (Stage IV) BRAF V600E/K mutation-positive cutaneous melanoma. The primary endpoint of the study was progression-free survival (PFS), with a key secondary endpoint of overall survival (OS). Subjects were stratified by lactate dehydrogenase (LDH) level (&gt; the upper limit of normal (ULN) versus  ULN) and BRAF mutation (V600E versus V600K).
 
-A total of 423 subjects were randomised 1:1 to either combination (N=211) or dabrafenib (N=212). Most subjects were Caucasian (&gt;99%) and male (53%), with a median age of 56 years (28% were ≥ 65 years). The majority of subjects had Stage IVM1c disease (67%). Most subjects had LDH ≤ULN (65%), Eastern Cooperative Oncology Group (ECOG) performance status of 0 (72%), and visceral disease (73%) at baseline. The majority of subjects had a BRAF V600E mutation (85%). Subjects with brain metastases were not included in the trial.
-
-Median OS and estimated 1-year, 2-year, 3-year, 4-year and 5-year survival rates are presented in Table 6. From an OS analysis at 5 years, the median OS for the combination arm was approximately 7 months longer than for dabrafenib monotherapy (25.8 months versus 18.7 months) with 5-year survival rates of 32% for the combination versus 27% for dabrafenib monotherapy (Table 6, Figure 1). The Kaplan-Meier OS curve appears to stabilise from 3 to 5 years (see Figure 1). The 5-year overall survival rate was 40% (95% CI: 31.2, 48.4) in the combination arm versus 33% (95% CI: 25.0, 41.0) in the dabrafenib monotherapy arm for patients who had a normal lactate dehydrogenase level at baseline, and 16% (95% CI: 8.4, 26.0) in the combination arm versus 14% (95% CI: 6.8, 23.1) in the dabrafenib monotherapy arm for patients with an elevated lactate dehydrogenase level at baseline.
+A total of 423 subjects were randomised 1:1 to either combination (N=211) or dabrafenib (N=212). Most subjects were Caucasian (&gt;99%) and male (53%), with a median age of 56 years (28% were ≥ 65 years). The majority of subjects had Stage IVM1c disease (67%). Most subjects had LDH ≤ULN (65%), Eastern Cooperative Oncology Group (ECOG) performance status of 0 (72%), and visceral disease (73%) at baseline. The majority of subjects had a BRAF V600E mutation (85%). Subjects with brain metastases were not included in the study.
 
 <div style=\"page-break-after: always\"></div>
 
+Median OS and estimated 1-year, 2-year, 3-year, 4-year and 5-year survival rates are presented in Table 6. From an OS analysis at 5 years, the median OS for the combination arm was approximately 7 months longer than for dabrafenib monotherapy (25.8 months versus 18.7 months) with 5-year survival rates of 32% for the combination versus 27% for dabrafenib monotherapy (Table 6, Figure 1). The Kaplan-Meier OS curve appears to stabilise from 3 to 5 years (see Figure 1). The 5-year overall survival rate was 40% (95% CI: 31.2, 48.4) in the combination arm versus 33% (95% CI: 25.0, 41.0) in the dabrafenib monotherapy arm for patients who had a normal lactate dehydrogenase level at baseline, and 16% (95% CI: 8.4, 26.0) in the combination arm versus 14% (95% CI: 6.8, 23.1) in the dabrafenib monotherapy arm for patients with an elevated lactate dehydrogenase level at baseline.
+
 Table 6 Overall Survival results for Study MEK115306 (COMBI-d)
 
-|                                       | OS analysis (data cut-off: 12-Jan-2015)   | OS analysis (data cut-off: 12-Jan-2015)   | 5-year OSanalysis (data cut-off: 10-Dec-2018)   | 5-year OSanalysis (data cut-off: 10-Dec-2018)   |
-|---------------------------------------|-------------------------------------------|-------------------------------------------|-------------------------------------------------|-------------------------------------------------|
-|                                       | Dabrafenib + Trametinib (n=211)           | Dabrafenib + Placebo (n=212)              | Dabrafenib + Trametinib (n=211)                 | Dabrafenib+ Placebo (n=212)                     |
-| Number of patients                    |                                           |                                           |                                                 |                                                 |
-| Died (event), n (%)                   | 99 (47)                                   | 123 (58)                                  | 135 (64)                                        | 151 (71)                                        |
-| Estimates of OS(months)               | Estimates of OS(months)                   |                                           |                                                 |                                                 |
-| Median (95% CI)                       | 25.1 (19.2, NR)                           | 18.7 (15.2, 23.7)                         | 25.8 (19.2, 38.2)                               | 18.7 (15.2, 23.1)                               |
-| Hazard ratio (95% CI) p-value         | 0.71 (0.55, 0.92)                         | 0.71 (0.55, 0.92)                         | 0.80 (0.63, 1.01)                               | 0.80 (0.63, 1.01)                               |
-| Overall survival estimate,%(95%       | 0.011 Dabrafenib (n=211)                  | Trametinib                                | Dabrafenib + Placebo (n=212)                    | Dabrafenib + Placebo (n=212)                    |
-| At 1 year                             | 74 (66.8, 79.0)                           | 74 (66.8, 79.0)                           |                                                 |                                                 |
-| At 2 years                            |                                           |                                           | 68 (60.8, 73.5)                                 | 68 (60.8, 73.5)                                 |
-| At 3 years                            | 52 (44.7, 58.6)                           | 52 (44.7, 58.6)                           | 42 (35.4, 48.9)                                 | 42 (35.4, 48.9)                                 |
-|                                       | 43 (36.2, 50.1)                           | 43 (36.2, 50.1)                           | 31 (25.1, 37.9)                                 | 31 (25.1, 37.9)                                 |
-| At 4 years                            | 35 (28.2, 41.8)                           | 35 (28.2, 41.8)                           | 29 (22.7, 35.2)                                 | 29 (22.7, 35.2)                                 |
-| At 5 years                            | 32 (25.1, 38.3)                           | 32 (25.1, 38.3)                           | 27 (20.7, 33.0)                                 | 27 (20.7, 33.0)                                 |
-| NR = Not reached, NA = Not applicable |                                           |                                           |                                                 |                                                 |
+|                               | OS analysis (data cut-off: 12-Jan-2015)   | OS analysis (data cut-off: 12-Jan-2015)   | 5-year OS analysis (data cut-off: 10-Dec-2018)   | 5-year OS analysis (data cut-off: 10-Dec-2018)   |
+|-------------------------------|-------------------------------------------|-------------------------------------------|--------------------------------------------------|--------------------------------------------------|
+|                               | Dabrafenib + Trametinib (n=211)           | Dabrafenib + Placebo (n=212)              | Dabrafenib + Trametinib (n=211)                  | Dabrafenib + Placebo (n=212)                     |
+| Number of patients            |                                           |                                           |                                                  |                                                  |
+| Died (event), n (%)           | 99 (47)                                   | 123 (58)                                  | 135 (64)                                         | 151 (71)                                         |
+| Estimates of OS (months)      | Estimates of OS (months)                  |                                           |                                                  |                                                  |
+| Median (95% CI)               | 25.1 (19.2, NR)                           | 18.7 (15.2, 23.7)                         | 25.8 (19.2, 38.2)                                | 18.7 (15.2, 23.1)                                |
+| Hazard ratio (95% CI) p-value | 0.71 (0.55, 0.92)                         | 0.71 (0.55, 0.92)                         | 0.80 (0.63, 1.01)                                | 0.80 (0.63, 1.01)                                |
+| Overall                       | Dabrafenib                                | Trametinib                                | Dabrafenib                                       | Placebo                                          |
+| survival estimate, %(95% CI)  | (n=211)                                   |                                           | (n=212)                                          | (n=212)                                          |
+| At 1 year                     | 74 (66.8, 79.0)                           | 74 (66.8, 79.0)                           | 68 (60.8, 73.5)                                  | 68 (60.8, 73.5)                                  |
+| At 2 years                    | 52 (44.7, 58.6)                           | 52 (44.7, 58.6)                           | 42 (35.4, 48.9)                                  | 42 (35.4, 48.9)                                  |
+| At 3 years                    | 43 (36.2, 50.1)                           | 43 (36.2, 50.1)                           | 31 (25.1, 37.9)                                  | 31 (25.1, 37.9)                                  |
+| At 4 years                    | 35 (28.2, 41.8)                           | 35 (28.2, 41.8)                           | 29 (22.7, 35.2)                                  | 29 (22.7, 35.2)                                  |
+| At 5 years                    | 32 (25.1, 38.3)                           | 32 (25.1, 38.3)                           | 27 (20.7, 33.0)                                  | 27 (20.7, 33.0)                                  |
+
+<div style=\"page-break-after: always\"></div>
 
 Figure 1 Kaplan-Meier overall survival curves for Study MEK115306 (ITT population)
-
-78
 
 <!-- image -->
 
@@ -799,11 +819,15 @@ Table 7 Efficacy results for Study MEK115306 (COMBI-d)
 
 a -Progression-free survival (investigator assessed)
 
-b -Overall Response Rate = Complete Response + Partial Response c -Duration of response
+b -Overall Response Rate = Complete Response + Partial Response
+
+c -Duration of response
 
 d -At the time of the reporting the majority (≥59%) of investigator -assessed responses were still ongoing.
 
-e -ORR difference calculated based on the ORR result not rounded f -Updated analysis was not pre-planned and the p-value was not adjusted for multiple testing
+e -ORR difference calculated based on the ORR result not rounded
+
+f -Updated analysis was not pre-planned and the p-value was not adjusted for multiple testing
 
 NR = Not reached
 
@@ -813,7 +837,7 @@ NA = Not applicable
 
 Study MEK116513 was a 2-arm, randomised, open-label, Phase III study comparing dabrafenib and trametinib combination therapy with vemurafenib monotherapy in BRAF V600 mutation-positive unresectable or metastatic melanoma. The primary endpoint of the study was OS with a key secondary endpoint of PFS. Subjects were stratified by lactate dehydrogenase (LDH) level (&gt; the upper limit of normal (ULN) versus  ULN) and BRAF mutation (V600E versus V600K).
 
-A total of 704 subjects were randomised 1:1 to either combination or vemurafenib. Most subjects were Caucasian (&gt;96%) and male (55%), with a median age of 55 years (24% were ≥65 years). The majority of subjects had Stage IV M1c disease (61% overall). Most subjects had LDH ≤ULN (67%), ECOG performance status of 0 (70%), and visceral disease (78%) at baseline. Overall, 54% of subjects had &lt;3 disease sites at baseline. The majority of subjects had BRAF V600E mutation-positive melanoma (89%). Subjects with brain metastases were not included in the trial.
+A total of 704 subjects were randomised 1:1 to either combination or vemurafenib. Most subjects were Caucasian (&gt;96%) and male (55%), with a median age of 55 years (24% were ≥65 years). The majority of subjects had Stage IV M1c disease (61% overall). Most subjects had LDH ≤ULN (67%), ECOG performance status of 0 (70%), and visceral disease (78%) at baseline. Overall, 54% of subjects had &lt;3 disease sites at baseline. The majority of subjects had BRAF V600E mutation-positive melanoma (89%). Subjects with brain metastases were not included in the study.
 
 Median OS and estimated 1-year, 2-year, 3-year, 4-year and 5-year survival rates are presented in Table 8. From an OS analysis at 5 years, the median OS for the combination arm was approximately 8 months longer than the median OS for vemurafenib monotherapy (26.0 months versus 17.8 months) with 5-year survival rates of 36% for the combination versus 23% for vemurafenib monotherapy (Table 8, Figure 2). The Kaplan-Meier OS curve appears to stabilise from 3 to 5 years (see Figure 2). The 5-year overall survival rate was 46% (95% CI: 38.8, 52.0) in the combination arm versus 28% (95% CI: 22.5, 34.6) in the vemurafenib monotherapy arm for patients who had a normal lactate dehydrogenase level at baseline, and 16% (95% CI: 9.3, 23.3) in the combination arm versus 10% (95% CI: 5.1, 17.4) in the vemurafenib monotherapy arm for patients with an elevated lactate dehydrogenase level at baseline.
 
@@ -821,23 +845,23 @@ Median OS and estimated 1-year, 2-year, 3-year, 4-year and 5-year survival rates
 
 Table 8 Overall Survival results for Study MEK116513 (COMBI-v)
 
-|                                       | OS analysis data cut-off: 13-Mar-2015)   | OS analysis data cut-off: 13-Mar-2015)   | 5-year OSanalysis (data cut-off: 08-Oct-2018)   | 5-year OSanalysis (data cut-off: 08-Oct-2018)   |
-|---------------------------------------|------------------------------------------|------------------------------------------|-------------------------------------------------|-------------------------------------------------|
-|                                       | Dabrafenib + Trametinib (n=352)          | Vemurafenib (n=352)                      | Dabrafenib + Trametinib (n=352)                 | Vemurafenib (n=352)                             |
-| Number of patients                    |                                          |                                          |                                                 |                                                 |
-| Died (event), n (%)                   | 155 (44)                                 | 194 (55)                                 | 216 (61)                                        | 246 (70)                                        |
-| Estimates of OS(months)               | Estimates of OS(months)                  |                                          |                                                 |                                                 |
-| Median (95% CI)                       | 25.6 (22.6, NR)                          | 18.0 (15.6, 20.7)                        | 26.0 (22.1, 33.8)                               | 17.8 (15.6, 20.7)                               |
-| Adjusted hazard ratio (95% CI)        | 0.66 (0.53, 0.81)                        | 0.66 (0.53, 0.81)                        | 0.70 (0.58, 0.84)                               | 0.70 (0.58, 0.84)                               |
-| p-value                               | <0.001                                   | <0.001                                   | NA                                              | NA                                              |
-| Overall survival estimate,%(95%       | Dabrafenib + Trametinib (n=352)          | Dabrafenib + Trametinib (n=352)          | Vemurafenib (n=352)                             | Vemurafenib (n=352)                             |
-| CI)                                   |                                          |                                          |                                                 |                                                 |
-| At 1 year                             | 72 (67, 77)                              | 72 (67, 77)                              | 65 (59, 70)                                     | 65 (59, 70)                                     |
-| At 2 years                            | 53 (47.1, 57.8)                          | 53 (47.1, 57.8)                          | 39 (33.8, 44.5)                                 | 39 (33.8, 44.5)                                 |
-| At 3 years                            | 44 (38.8, 49.4)                          | 44 (38.8, 49.4)                          | 31 (25.9, 36.2)                                 | 31 (25.9, 36.2)                                 |
-| At 4 years                            | 39 (33.4, 44.0)                          | 39 (33.4, 44.0)                          | 26 (21.3, 31.0)                                 | 26 (21.3, 31.0)                                 |
-| At 5 years                            | 36 (30.5, 40.9)                          | 36 (30.5, 40.9)                          | 23 (18.1, 27.4)                                 | 23 (18.1, 27.4)                                 |
-| NR = Not reached, NA = Not applicable | NR = Not reached, NA = Not applicable    | NR = Not reached, NA = Not applicable    |                                                 |                                                 |
+|                                       | OS analysis (data cut-off: 13-Mar-2015)   | OS analysis (data cut-off: 13-Mar-2015)   | 5-year OS analysis (data cut-off: 08-Oct-2018)   | 5-year OS analysis (data cut-off: 08-Oct-2018)   |
+|---------------------------------------|-------------------------------------------|-------------------------------------------|--------------------------------------------------|--------------------------------------------------|
+|                                       | Dabrafenib + Trametinib (n=352)           | Vemurafenib (n=352)                       | Dabrafenib + Trametinib (n=352)                  | Vemurafenib (n=352)                              |
+| Number of patients                    |                                           |                                           |                                                  |                                                  |
+| Died (event), n (%)                   | 155 (44)                                  | 194 (55)                                  | 216 (61)                                         | 246 (70)                                         |
+| Estimates of OS (months)              | Estimates of OS (months)                  |                                           |                                                  |                                                  |
+| Median (95% CI)                       | 25.6 (22.6, NR)                           | 18.0 (15.6, 20.7)                         | 26.0 (22.1, 33.8)                                | 17.8 (15.6, 20.7)                                |
+| Adjusted hazard ratio (95% CI)        | 0.66 (0.53, 0.81)                         | 0.66 (0.53, 0.81)                         | 0.70 (0.58,                                      | 0.84)                                            |
+| p-value                               | <0.001                                    | <0.001                                    | NA                                               | NA                                               |
+| Overall survival estimate, %(95%      | Dabrafenib + Trametinib (n=352)           | Dabrafenib + Trametinib (n=352)           | Vemurafenib (n=352)                              | Vemurafenib (n=352)                              |
+| CI)                                   |                                           |                                           |                                                  |                                                  |
+| At 1 year                             | 72 (67, 77)                               | 72 (67, 77)                               | 65 (59, 70)                                      | 65 (59, 70)                                      |
+| At 2 years                            | 53 (47.1, 57.8)                           | 53 (47.1, 57.8)                           | 39 (33.8, 44.5)                                  | 39 (33.8, 44.5)                                  |
+| At 3 years                            | 44 (38.8, 49.4)                           | 44 (38.8, 49.4)                           | 31 (25.9, 36.2)                                  | 31 (25.9, 36.2)                                  |
+| At 4 years                            | 39 (33.4, 44.0)                           | 39 (33.4, 44.0)                           | 26 (21.3, 31.0)                                  | 26 (21.3, 31.0)                                  |
+| At 5 years                            | 36 (30.5, 40.9)                           | 36 (30.5, 40.9)                           | 23 (18.1, 27.4)                                  | 23 (18.1, 27.4)                                  |
+| NR = Not reached, NA = Not applicable | NR = Not reached, NA = Not applicable     | NR = Not reached, NA = Not applicable     |                                                  |                                                  |
 
 Figure 2 Kaplan-Meier curves Updated OS analysis for Study MEK116513
 
@@ -892,7 +916,7 @@ The efficacy and safety of trametinib in combination with dabrafenib in patients
 <div style=\"page-break-after: always\"></div>
 
 - Cohort C: patients with BRAF V600D/K/R mutant melanoma with asymptomatic brain metastases, with or without prior local brain-directed therapy and ECOG performance status of 0 or 1.
-- Cohort D:  patients with BRAF V600D/E/K/R mutant melanoma with symptomatic brain metastases, with or without prior local brain-directed therapy and ECOG performance status of 0 or 1 or 2.
+- Cohort D: patients with BRAF V600D/E/K/R mutant melanoma with symptomatic brain metastases, with or without prior local brain-directed therapy and ECOG performance status of 0 or 1 or 2.
 
 The primary endpoint of the study was intracranial response in Cohort A, defined as the percentage of patients with a confirmed intracranial response assessed by the investigator using modified Response Evaluation Criteria in Solid Tumors (RECIST) version 1.1. Intracranial response assessed by the investigator in Cohorts B, C and D were secondary endpoints of the study. Due to small sample size reflected by wide 95% CIs, the results in Cohorts B, C, and D should be interpreted with caution. Efficacy results are summarised in Table 10.
 
@@ -900,12 +924,12 @@ Table 10 Efficacy data by investigator assessment from COMBI-MB study
 
 |                                                            | All treated patients population                            | All treated patients population                            | All treated patients population                            | All treated patients population                            |
 |------------------------------------------------------------|------------------------------------------------------------|------------------------------------------------------------|------------------------------------------------------------|------------------------------------------------------------|
-| Endpoints/ assessment                                      | Cohort A N=76                                              | CohortB N=16                                               | Cohort C N=16                                              | Cohort D N=17                                              |
-| Intracranial response rate, %(95 %CI)                      | Intracranial response rate, %(95 %CI)                      | Intracranial response rate, %(95 %CI)                      | Intracranial response rate, %(95 %CI)                      | Intracranial response rate, %(95 %CI)                      |
+| Endpoints/ assessment                                      | Cohort A N=76                                              | Cohort B N=16                                              | Cohort C N=16                                              | Cohort D N=17                                              |
+| Intracranial response rate, %(95% CI)                      | Intracranial response rate, %(95% CI)                      | Intracranial response rate, %(95% CI)                      | Intracranial response rate, %(95% CI)                      | Intracranial response rate, %(95% CI)                      |
 |                                                            | 59% (47.3, 70.4)                                           | 56% (29.9, 80.2)                                           | 44% (19.8, 70.1)                                           | 59% (32.9, 81.6)                                           |
 | Duration of intracranial response, median, months (95% CI) | Duration of intracranial response, median, months (95% CI) | Duration of intracranial response, median, months (95% CI) | Duration of intracranial response, median, months (95% CI) | Duration of intracranial response, median, months (95% CI) |
 |                                                            | 6.5 (4.9, 8.6)                                             | 7.3 (3.6, 12.6)                                            | 8.3 (1.3, 15.0)                                            | 4.5 (2.8, 5.9)                                             |
-| Overall response rate, %(95%CI)                            | Overall response rate, %(95%CI)                            | Overall response rate, %(95%CI)                            | Overall response rate, %(95%CI)                            | Overall response rate, %(95%CI)                            |
+| Overall response rate, %(95% CI)                           | Overall response rate, %(95% CI)                           | Overall response rate, %(95% CI)                           | Overall response rate, %(95% CI)                           | Overall response rate, %(95% CI)                           |
 |                                                            | 59% (47.3, 70.4)                                           | 56% (29.9, 80.2)                                           | 44% (19.8, 70.1)                                           | 65% (38.3, 85.8)                                           |
 | Progression-free survival, median, months (95% CI)         | Progression-free survival, median, months (95% CI)         | Progression-free survival, median, months (95% CI)         | Progression-free survival, median, months (95% CI)         | Progression-free survival, median, months (95% CI)         |
 |                                                            | 5.7 (5.3, 7.3)                                             | 7.2 (4.7, 14.6)                                            | 3.7 (1.7, 6.5)                                             | 5.5 (3.7, 11.6)                                            |
@@ -921,24 +945,23 @@ The efficacy and safety of trametinib in patients with BRAF unresectable or meta
 
 Patients (N=322) who were treatment naïve or may have received one prior chemotherapy treatment in the metastatic setting [Intent to Treat (ITT) population] were randomised 2:1 to receive trametinib 2 mg once daily or chemotherapy (dacarbazine 1 000 mg/m 2 every 3 weeks or paclitaxel 175 mg/m 2 every 3 weeks). Treatment for all patients continued until disease progression, death or withdrawal.
 
-The primary endpoint of the study was to evaluate the efficacy of trametinib compared to chemotherapy with respect to PFS in patients with advanced/metastatic BRAF V600E/K mutationpositive melanoma without a prior history of brain metastases (N=273) which is considered the primary efficacy population. The secondary endpoints were PFS in the ITT population and OS, ORR, and DoR in the primary efficacy population and ITT population. Patients in the chemotherapy arm were allowed to cross over to the trametinib arm after independent confirmation of progression. Of the
-
 <div style=\"page-break-after: always\"></div>
 
-patients with confirmed disease progression in the chemotherapy arm, a total of 51 (47%) crossed over to receive trametinib.
+The primary endpoint of the study was to evaluate the efficacy of trametinib compared to chemotherapy with respect to PFS in patients with advanced/metastatic BRAF V600E/K mutationpositive melanoma without a prior history of brain metastases (N=273) which is considered the primary efficacy population. The secondary endpoints were PFS in the ITT population and OS, ORR, and DoR in the primary efficacy population and ITT population. Patients in the chemotherapy arm were allowed to cross over to the trametinib arm after independent confirmation of progression. Of the patients with confirmed disease progression in the chemotherapy arm, a total of 51 (47%) crossed over to receive trametinib.
 
-Baseline characteristics were balanced between treatment groups in the primary efficacy population and the ITT population. In the ITT population, 54% of patients were male and all were Caucasian. The median age was 54 years (22% were  65 years); all patients had an ECOG performance score of 0 or 1; and 3 % had history of brain metastases. Most patients (87%) in the ITT population had BRAF V600E mutation and 12% of patients had BRAF V600K. Most patients (66%) received no prior chemotherapy for advanced or metastatic disease.
+Baseline characteristics were balanced between treatment groups in the primary efficacy population and the ITT population. In the ITT population, 54% of patients were male and all were Caucasian. The median age was 54 years (22% were ≥ 65 years); all patients had an ECOG performance score of 0 or 1; and 3% had history of brain metastases. Most patients (87%) in the ITT population had BRAF V600E mutation and 12% of patients had BRAF V600K. Most patients (66%) received no prior chemotherapy for advanced or metastatic disease.
 
 The efficacy results in the primary efficacy population were consistent with those in the ITT population; therefore, only the efficacy data for the ITT population are presented in Table 11. KaplanMeier curves of investigator-assessed OS (post-hoc analysis 20 May 2013) is presented in Figure 3.
 
 Table 11 Investigator-assessed efficacy results (ITT population)
 
-| Endpoint                      | Trametinib        | Chemotherapy a    |
-|-------------------------------|-------------------|-------------------|
-| Progression-Free Survival     | (N=214)           | (N=108)           |
-| Median PFS (months) (95% CI)  | 4.8 (4.3, 4.9)    | 1.5 (1.4, 2.7)    |
-| Hazard Ratio (95% CI) P value | 0.45 (0.33, 0.63) | 0.45 (0.33, 0.63) |
-| Overall Response Rate (%)     | 22                | 8                 |
+| Endpoint                                                                                                                                                                                                    | Trametinib                                                                                                                                                                                                  | Chemotherapy a                                                                                                                                                                                              |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Progression-Free Survival                                                                                                                                                                                   | (N=214)                                                                                                                                                                                                     | (N=108)                                                                                                                                                                                                     |
+| Median PFS (months) (95% CI)                                                                                                                                                                                | 4.8 (4.3, 4.9)                                                                                                                                                                                              | 1.5 (1.4, 2.7)                                                                                                                                                                                              |
+| Hazard Ratio (95% CI) P value                                                                                                                                                                               | 0.45 (0.33, 0.63) <0.0001                                                                                                                                                                                   | 0.45 (0.33, 0.63) <0.0001                                                                                                                                                                                   |
+| Overall Response Rate (%)                                                                                                                                                                                   | 22                                                                                                                                                                                                          | 8                                                                                                                                                                                                           |
+| ITT = Intent to Treat; PFS = Progression-free survival; CI = confidence interval. a Chemotherapy included patients on dacarbazine (DTIC) 1 000 mg/m 2 every 3 weeks or paclitaxel 175 mg/m 2 every 3 weeks. | ITT = Intent to Treat; PFS = Progression-free survival; CI = confidence interval. a Chemotherapy included patients on dacarbazine (DTIC) 1 000 mg/m 2 every 3 weeks or paclitaxel 175 mg/m 2 every 3 weeks. | ITT = Intent to Treat; PFS = Progression-free survival; CI = confidence interval. a Chemotherapy included patients on dacarbazine (DTIC) 1 000 mg/m 2 every 3 weeks or paclitaxel 175 mg/m 2 every 3 weeks. |
 
 The PFS result was consistent in the subgroup of patients with V600K mutation-positive melanoma (HR=0.50; [95% CI: 0.18, 1.35], p=0.0788).
 
@@ -946,19 +969,18 @@ An additional OS analysis was undertaken based upon the 20 May 2013 data cut, se
 
 For October 2011, 47% of subjects had crossed over, while for May 2013, 65% of subjects had crossed over.
 
+<div style=\"page-break-after: always\"></div>
+
 Table 12 Survival data from the primary and post-hoc analyses
 
 | Cut-off dates    | Treatment            | Number of deaths (%)   | Median months OS (95% CI)   | Hazard ratio (95% CI)   | Percent survival at 12 months (95% CI)   |
 |------------------|----------------------|------------------------|-----------------------------|-------------------------|------------------------------------------|
 | October 26, 2011 | Chemotherapy (n=108) | 29 (27)                | NR                          | 0.54 (0.32, 0.92)       | NR                                       |
 | October 26, 2011 | Trametinib (n=214)   | 35 (16)                | NR                          | 0.54 (0.32, 0.92)       | NR                                       |
-| May 20, 2013     | Chemotherapy (n=108) | 67 (62)                | 11.3 (7.2, 14.8)            | 0.78 (0.57, 1.06)       | 50 (39,59)                               |
-| May 20, 2013     | Trametinib (n=214)   | 137 (64)               | 15.6 (14.0, 17.4)           | 0.78 (0.57, 1.06)       | 61(54, 67)                               |
-| NR=not reached   | NR=not reached       | NR=not reached         | NR=not reached              | NR=not reached          | NR=not reached                           |
+| May 20, 2013     | Chemotherapy (n=108) | 67 (62)                | 11.3 (7.2, 14.8)            | 0.78 (0.57, 1.06)       | 50 (39, 59)                              |
+| May 20, 2013     | Trametinib (n=214)   | 137 (64)               | 15.6 (14.0, 17.4)           | 0.78 (0.57, 1.06)       | 61 (54, 67)                              |
 
-<div style=\"page-break-after: always\"></div>
-
-## Figure 3 Kaplan-Meier curves of overall survival (OS -ad hoc analysis 20 May 2013)
+Figure 3 Kaplan-Meier curves of overall survival (OS -ad hoc analysis 20 May 2013)
 
 <!-- image -->
 
@@ -968,23 +990,25 @@ In a single-arm Phase II study, designed to evaluate the objective response rate
 
 In Cohort A of this study, trametinib did not demonstrate clinical activity in patients who had progressed on a prior BRAF inhibitor therapy.
 
+Time since randomisation (months)
+
+<div style=\"page-break-after: always\"></div>
+
 ## Adjuvant treatment of Stage III melanoma
 
 ## BRF115532 (COMBI-AD)
 
 The efficacy and safety of trametinib in combination with dabrafenib were studied in a Phase III, multicentre, randomised, double-blind, placebo-controlled study in patients with Stage III (Stage IIIA [lymph node metastasis &gt;1 mm], IIIB, or IIIC) cutaneous melanoma with a BRAF V600 E/K mutation, following complete resection.
 
-Patients were randomised 1:1 to receive either combination therapy (dabrafenib 150 mg twice daily and trametinib 2 mg once daily) or two placebos for a period of 12 months. Enrollment required complete resection of melanoma with complete lymphadenectomy within 12 weeks prior to randomisation. Any prior systemic anti-cancer treatment, including radiotherapy, was not allowed. Patients with a history of prior malignancy, if disease-free for at least 5 years, were eligible. Patients presenting with malignancies with confirmed activating RAS mutations were not eligible. Patients
-
-<div style=\"page-break-after: always\"></div>
-
-were stratified by BRAF mutation status (V600E versus V600K) and stage of disease prior to surgery using the American Joint Committee on Cancer (AJCC) 7th edition Melanoma Staging System (by Stage III sub-stage, indicating different levels of lymph node involvement and primary tumour size and ulceration). The primary endpoint was investigator-assessed relapse-free survival (RFS), defined as the time from randomisation to disease recurrence or death from any cause. Radiological tumour assessment was conducted every 3 months for the first two years and every 6 months thereafter, until first relapse was observed. Secondary endpoints include overall survival (OS; key secondary endpoint), freedom from relapse (FFR) and distant metastasis-free survival (DMFS).
+Patients were randomised 1:1 to receive either combination therapy (dabrafenib 150 mg twice daily and trametinib 2 mg once daily) or two placebos for a period of 12 months. Enrollment required complete resection of melanoma with complete lymphadenectomy within 12 weeks prior to randomisation. Any prior systemic anti-cancer treatment, including radiotherapy, was not allowed. Patients with a history of prior malignancy, if disease-free for at least 5 years, were eligible. Patients presenting with malignancies with confirmed activating RAS mutations were not eligible. Patients were stratified by BRAF mutation status (V600E versus V600K) and stage of disease prior to surgery using the American Joint Committee on Cancer (AJCC) 7th edition Melanoma Staging System (by Stage III sub-stage, indicating different levels of lymph node involvement and primary tumour size and ulceration). The primary endpoint was investigator-assessed relapse-free survival (RFS), defined as the time from randomisation to disease recurrence or death from any cause. Radiological tumour assessment was conducted every 3 months for the first two years and every 6 months thereafter, until first relapse was observed. Secondary endpoints include overall survival (OS; key secondary endpoint), freedom from relapse (FFR) and distant metastasis-free survival (DMFS).
 
 A total of 870 patients were randomised to the combination therapy (n=438) and placebo (n=432) arms. Most patients were Caucasian (99%) and male (55%), with a median age of 51 years (18% were ≥65 years). The study included patients with all sub-stages of Stage III disease prior to resection; 18% of these patients had lymph node involvement only identifiable by microscope and no primary tumour ulceration. The majority of patients had a BRAF V600E mutation (91%).
 
 The median duration of follow-up at the time of the primary analysis was 2.83 years in the dabrafenib and trametinib combination arm and 2.75 years in the placebo arm.
 
 Results for the primary analysis of RFS are presented in Table 13. The study showed a statistically significant difference for the primary outcome of investigator-assessed RFS between treatment arms, with a median RFS of 16.6 months for the placebo arm and not yet reached for the combination arm (HR: 0.47; 95% confidence interval: (0.39, 0.58); p=1.53×10 -14 ). The observed RFS benefit was consistently demonstrated across subgroups of patients including age, sex and race. Results were also consistent across stratification factors for disease stage and BRAF V600 mutation type.
+
+<div style=\"page-break-after: always\"></div>
 
 Table 13 Investigator-assessed RFS results for Study BRF115532 (COMBI-AD primary analysis)
 
@@ -995,7 +1019,8 @@ Table 13 Investigator-assessed RFS results for Study BRF115532 (COMBI-AD primary
 | Relapsed with distant metastasis | 103 (24%)                       | 133 (31%)         |
 | Death                            | 3 (<1%)                         | 1 (<1%)           |
 | Median (months)                  | NE                              | 16.6              |
-| (95% CI) Hazard ratio [1]        | (44.5, NE) 0.47                 | (12.7, 22.1)      |
+| (95% CI)                         | (44.5, NE)                      | (12.7, 22.1)      |
+| Hazard ratio [1]                 | 0.47                            | 0.47              |
 | (95% CI)                         | (0.39, 0.58)                    | (0.39, 0.58)      |
 | p-value [2]                      | 1.53×10 -14                     | 1.53×10 -14       |
 | 1-year rate (95% CI)             | 0.88 (0.85, 0.91)               | 0.56 (0.51, 0.61) |
@@ -1009,90 +1034,6 @@ Based on updated data with an additional 29 months of follow-up compared to the 
 Figure 4 Kaplan-Meier RFS curves for Study BRF115532 (ITT population, updated results)
 
 <!-- image -->
-
-178
-
-175
-
-168
-
-204
-
-199
-
-185
-
-263
-
-243
-
-219
-
-280
-
-432
-
-387
-
-322
-
-137
-
-136
-
-133
-
-143
-
-140
-
-139
-
-151
-
-147
-
-146
-
-157
-
-166
-
-164
-
-158
-
-13
-
-1
-
-1
-
-56
-
-35
-
-26
-
-99
-
-80
-
-69
-
-115
-
-133
-
-132
-
-121
-
-2
-
-0
-
-Placebo
 
 At the time of the final OS analysis, the median duration of follow-up was 8.3 years in the combination arm and 6.9 years in the placebo arm. The observed difference in OS was not statistically significant (HR: 0.80; 95% CI: 0.62, 1.01) with 125 events (29%) in the combination arm and 136 events (31%) in the placebo arm. Estimated 5-year OS rates were 79% in the combination arm and 70% in the placebo arm, and estimated 10-year OS rates were 66% in the combination arm and 63% in the placebo arm.
 
@@ -1108,11 +1049,9 @@ The efficacy and safety of trametinib in combination with dabrafenib was studied
 - Cohort B: Combination therapy (dabrafenib 150 mg twice daily and trametinib 2 mg once daily), 59 patients enrolled. 57 patients had 1-3 lines of previous systemic treatment for their metastatic disease. 2 patients had no previous systemic treatment and were included in the analysis for patients enrolled in Cohort C.
 - Cohort C: Combination therapy (dabrafenib 150 mg twice daily and trametinib 2 mg once daily), 34 patients. All patients received study medicinal product as first-line treatment for metastatic disease.
 
-Among the total of 93 patients who were enrolled in the combination therapy cohorts B and C, most patients were Caucasian (&gt;90%), and similar female versus male (54% versus 46%), with a median age of 64 years in second-line or higher patients and 68 years in the first-line patients. Most patients (94%) enrolled in the combination-therapy-treated cohorts had an ECOG performance status of 0 or 1. 26 (28%) had never smoked. The majority of patients had a non-squamous histology. In the
-
 <div style=\"page-break-after: always\"></div>
 
-previously-treated population, 38 patients (67%) had one line of systemic anti-cancer therapy for metastatic disease.
+Among the total of 93 patients who were enrolled in the combination therapy cohorts B and C, most patients were Caucasian (&gt;90%), and similar female versus male (54% versus 46%), with a median age of 64 years in second-line or higher patients and 68 years in the first-line patients. Most patients (94%) enrolled in the combination-therapy-treated cohorts had an ECOG performance status of 0 or 1. 26 (28%) had never smoked. The majority of patients had a non-squamous histology. In the previously-treated population, 38 patients (67%) had one line of systemic anti-cancer therapy for metastatic disease.
 
 At the time of the primary analysis, the primary endpoint of investigator-assessed ORR in the first-line population was 61.1% (95% CI, 43.5%, 76.9%), and in the previously-treated population was 66.7% (95% CI, 52.9%, 78.6%). These met the statistical significance to reject the null hypothesis that the ORR of dabrafenib in combination with trametinib for this NSCLC population was less than or equal to 30%. The ORR results assessed by IRC were consistent with the investigator assessment. The final analysis of efficacy performed 5 years after last subject first dose is presented in Table 14.
 
@@ -1126,15 +1065,67 @@ Table 14 Summary of efficacy in the combination treatment cohorts based on inves
 | Median OS Months (95% CI)                 | -                              | 17.3 (12.3, 40.2)                               | 18.2 (14.3, 28.6)                               |
 | 1 Data cut-off: 7 January 2021            | 1 Data cut-off: 7 January 2021 | 1 Data cut-off: 7 January 2021                  | 1 Data cut-off: 7 January 2021                  |
 
+## Differentiated thyroid cancer (DTC)
+
+## Study CDRB436J12301 (J12301)
+
+The safety and efficacy of trametinib in combination with dabrafenib (D+T) was evaluated in study J12301, a randomised (2:1), double-blind, placebo-controlled, multicentre phase III study in adult patients with BRAF V600E-mutation positive, locally advanced or metastatic radioactive iodinerefractory differentiated thyroid cancer that had progressed following up to two prior VEGFRtargeting therapies (including, but not limited to, lenvatinib or sorafenib). BRAF V600E mutation status was centrally confirmed using the Cobas ®  4800 assay.
+
+153 patients were randomised to receive trametinib 2 mg orally once daily in combination with dabrafenib 150 mg orally twice daily (N=101) or placebo (N=52). Patients with a RET-fusion positive tumour were excluded. Randomisation was stratified by prior receipt of lenvatinib (yes versus no) and number of prior VEGFR targeted therapies (1 versus 2). Eligible patients randomised to placebo were allowed to cross over to D+T upon confirmation of progressive disease by blinded independent radiology review committee (BIRC). Patients continued blinded study treatment as long as they experienced clinical benefit or until there was unacceptable toxicity. The primary endpoint was progression-free survival (PFS) assessed by BIRC. The key secondary endpoints were overall response rate (ORR) as assessed by BIRC, and overall survival (OS).
+
+<div style=\"page-break-after: always\"></div>
+
+The median age was 64 years (range 36 to 82 years) with 12 (8%) aged ≥75 years. The majority of patients were Asian (86%) and 52% were female. All patients had a confirmed diagnosis of papillary thyroid carcinoma. No patients with follicular thyroid carcinoma were included in the study. Prior lenvatinib use was reported for 31% of patients, and the majority (78%) had received one prior VEGFR-targeted therapy. Baseline ECOG performance status was 0 (50%), 1 (47%) or 2 (3%). The median duration of treatment was 14.5 months in the D+T arm and 5.5 months in the placebo arm.
+
+The results of the primary analysis (with a cut-off date of 22 January 2025 and a median follow-up of 17 months) are presented in Table 15 and Figure 5. The study demonstrated a statistically significant improvement in both PFS and ORR.
+
+Table 15 Efficacy results in DTC (study J12301 primary analysis, ITT)
+
+|                                           | Dabrafenib + trametinib n=101             | Placebo n=52                              |
+|-------------------------------------------|-------------------------------------------|-------------------------------------------|
+| Progression-free survival* (PFS) per BIRC | Progression-free survival* (PFS) per BIRC | Progression-free survival* (PFS) per BIRC |
+| Events (%)                                | 54 (53.5%)                                | 43 (82.7%)                                |
+| Median PFS in months (95% CI) a           | 12.8 (10.2, 21.2)                         | 3.7 (2.3, 7.5)                            |
+| Hazard ratio (95% CI) b                   | 0.38 (0.25, 0.57)                         | 0.38 (0.25, 0.57)                         |
+| p-value (one-sided) c                     | <0.001                                    | <0.001                                    |
+| Confirmed best overall response per BIRC  | Confirmed best overall response per BIRC  | Confirmed best overall response per BIRC  |
+| Confirmed ORR, n (%)                      | 58 (57.4%)                                | 2 (3.8%)                                  |
+| (95% CI) d                                | (47.2, 67.2)                              | (0.5, 13.2)                               |
+| p-value (one-sided) e                     | <0.001                                    | <0.001                                    |
+| Overall survival (OS) f                   | Overall survival (OS) f                   | Overall survival (OS) f                   |
+| Deaths, n (%)                             | 27 (26.7%)                                | 19 (36.5%)                                |
+| Hazard ratio (95% CI) b                   | 0.66 (0.36, 1.19)                         | 0.66 (0.36, 1.19)                         |
+
+* The primary analysis of PFS included censoring for new anti-cancer treatment. Results for PFS with and without censoring for new anti-cancer treatment were consistent.
+
+CI: confidence interval, ORR=overall response rate (CR+PR); PR and CR are confirmed by repeat assessments performed not less than 4 weeks after the criteria for response is first met.
+
+a  Based on Kaplan-Meier estimate.
+
+b Based on Cox regression model stratified by receipt of prior lenvatinib (yes vs. no) and number of prior VEGFRtargeted therapies (1 vs. 2).
+
+- c Based on a log rank test stratified by receipt of prior lenvatinib (yes vs. no) and number of prior VEGFR-targeted therapies (1 vs. 2).
+
+d  Clopper and Pearson exact binomial 95% CI.
+
+- e Based on a Cochran-Mantel-Haenszel test stratified by receipt of prior lenvatinib (yes vs. no) and number of prior VEGFR-targeted therapies (1 vs. 2).
+- f The improvement in OS was not statistically significant (at the time of the primary analysis, 30 patients [57.7%] had already crossed over from the placebo arm to the D+T arm).
+
+<div style=\"page-break-after: always\"></div>
+
+Figure 5 Kaplan-Meier PFS curves for Study J12301 (primary analysis)
+
+<!-- image -->
+
 ## Other studies - pyrexia management analysis
 
 ## Study CPDR001F2301 (COMBI-i) and Study CDRB436F2410 (COMBI-Aplus)
 
-Pyrexia is observed in patients treated with dabrafenib and trametinib combination therapy. The initial registration studies for the combination therapy in the unresectable or metastatic melanoma setting (COMBI-d and COMBI-v; total N=559) and in the adjuvant melanoma setting (COMBI-AD, N=435) recommended to interrupt only dabrafenib in case of pyrexia (fever ≥38.5°C). In two subsequent studies in unresectable or metastatic melanoma (COMBI-i control arm, N=264) and in the adjuvant melanoma setting (COMBI-Aplus, N=552), interruption of both medicinal products when patient's temperature is ≥38 o C (COMBI-Aplus), or at the first symptom of pyrexia (COMBI-i; COMBI-Aplus for recurrent pyrexia) was advised. In COMBI-i and COMBI-Aplus there was a lower incidence of grade 3/4 pyrexia, complicated pyrexia, hospitalisation due to serious pyrexia adverse events of special interest (AESIs), the time spent in pyrexia AESIs, and permanent discontinuations from both medicinal products due to pyrexia AESIs (the latter in the adjuvant setting only) compared to COMBId, COMBI-v and COMBI-AD. The COMBI-Aplus study met its primary endpoint with a composite rate of 8.0% (95% CI: 5.9, 10.6) for grade 3/4 pyrexia, hospitalisation due to pyrexia, or permanent treatment discontinuation due to pyrexia compared to 20.0% (95% CI: 16.3, 24.1) for the historical control (COMBI-AD).
+Pyrexia is observed in patients treated with dabrafenib and trametinib combination therapy. The initial registration studies for the combination therapy in the unresectable or metastatic melanoma setting (COMBI-d and COMBI-v; total N=559) and in the adjuvant melanoma setting (COMBI-AD, N=435) recommended to interrupt only dabrafenib in case of pyrexia (fever ≥38.5 °C). In two subsequent studies in unresectable or metastatic melanoma (COMBI-i control arm, N=264) and in the adjuvant melanoma setting (COMBI-Apl us, N=552), interruption of both medicinal products when patient's temperature is ≥38 ºC (COMBI-Aplus), or at the first symptom of pyrexia (COMBI-i; COMBI-Aplus for recurrent pyrexia) was advised. In COMBI-i and COMBI-Aplus there was a lower incidence of grade 3/4 pyrexia, complicated pyrexia, hospitalisation due to serious pyrexia adverse events of special interest (AESIs), the time spent in pyrexia AESIs, and permanent discontinuations from both medicinal products due to pyrexia AESIs (the latter in the adjuvant setting only) compared to COMBId, COMBI-v and COMBI-AD. The COMBI-Aplus study met its primary endpoint with a composite rate of 8.0% (95% CI: 5.9, 10.6) for grade 3/4 pyrexia, hospitalisation due to pyrexia, or permanent treatment discontinuation due to pyrexia compared to 20.0% (95% CI: 16.3, 24.1) for the historical control (COMBI-AD).
 
 ## Paediatric population
 
-The European Medicines Agency has deferred the obligation to submit the results of studies with trametinib in all subsets of the paediatric population in melanoma and malignant neoplasms (see section 4.2 for information on paediatric use).
+Data from clinical studies in adolescent patients with melanoma is very limited and extrapolation from adult data has been used to establish efficacy. A published retrospective Italian study described 6 paediatric participants with advanced BRAF V600 mutation-positive melanoma treated with trametinib in combination with dabrafenib. The median age at diagnosis was 15 years, and starting doses ranged from 125 mg to 150 mg twice daily for dabrafenib and from 1.5 mg to 2 mg once daily for trametinib. No disease recurrence was noted in 4 patients in the adjuvant setting after a median follow-up of 22 months. In the metastatic setting, one case of complete response and one case of progressive disease were reported.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1170,13 +1161,11 @@ Total dose recovery was low after a 10-day collection period (&lt;50%) following
 
 Population pharmacokinetic analyses and data from a clinical pharmacology study in patients with normal hepatic function or with mild, moderate or severe bilirubin and/or AST elevations (based on National Cancer Institute [NCI] classification) indicate that hepatic function does not significantly affect trametinib oral clearance.
 
-## Renal impairment
-
-Renal impairment is unlikely to have a clinically relevant effect on trametinib pharmacokinetics given the low renal excretion of trametinib. The pharmacokinetics of trametinib were characterised in 223 patients enrolled in clinical trials with trametinib who had mild renal impairment and 35 patients
-
 <div style=\"page-break-after: always\"></div>
 
-with moderate renal impairment using a population pharmacokinetic analysis. Mild and moderate renal impairment had no effect on trametinib exposure (&lt;6% for either group). No data are available in patients with severe renal impairment (see section 4.2).
+## Renal impairment
+
+Renal impairment is unlikely to have a clinically relevant effect on trametinib pharmacokinetics given the low renal excretion of trametinib. The pharmacokinetics of trametinib were characterised in 223 patients enrolled in clinical studies with trametinib who had mild renal impairment and 35 patients with moderate renal impairment using a population pharmacokinetic analysis. Mild and moderate renal impairment had no effect on trametinib exposure (&lt;6% for either group). No data are available in patients with severe renal impairment (see section 4.2).
 
 ## Elderly
 
@@ -1184,7 +1173,7 @@ Based on the population pharmacokinetic analysis (range 19 to 92 years), age had
 
 ## Race
 
-There are insufficient data to evaluate the potential effect of race on trametinib pharmacokinetics as clinical experience is limited to Caucasians.
+The population pharmacokinetic analysis showed no significant differences in the pharmacokinetics of trametinib between Asian and Caucasian patients. There are insufficient data to evaluate the potential effect of other races on trametinib pharmacokinetics.
 
 ## Paediatric population
 
@@ -1200,13 +1189,13 @@ Effects of trametinib on drug-metabolising enzymes and transporters: In vitro an
 
 Effects of other medicinal products on trametinib: In vivo and in vitro data suggest that the pharmacokinetics of trametinib are unlikely to be affected by other medicinal products. Trametinib is not a substrate of CYP enzymes or of the transporters BCRP, OATP1B1, OATP1B3, OATP2B1, OCT1, MRP2, and MATE1. Trametinib is an in vitro substrate of BSEP and the efflux transporter Pgp. Although trametinib exposure is unlikely to be affected by inhibition of BSEP, increased levels of trametinib upon strong inhibition of hepatic P-gp cannot be excluded (see section 4.5).
 
+<div style=\"page-break-after: always\"></div>
+
 Effects of trametinib on other medicinal products: the effect of repeat-dose trametinib on the steady state pharmacokinetics of combination oral contraceptives, norethindrone and ethinyl estradiol, was assessed in a clinical study that consisted of 19 female patients with solid tumours. Norethindrone exposure increased by 20% and ethinyl estradiol exposure was similar when co-administered with trametinib. Based on these results, no loss of efficacy of hormonal contraceptives is expected when coadministered with trametinib monotherapy.
 
 ## 5.3 Preclinical safety data
 
 Carcinogenicity studies with trametinib have not been conducted. Trametinib was not genotoxic in studies evaluating reverse mutations in bacteria, chromosomal aberrations in mammalian cells and micronuclei in the bone marrow of rats.
-
-<div style=\"page-break-after: always\"></div>
 
 Trametinib may impair female fertility in humans, as in repeat-dose studies, increases in cystic follicles and decreases in corpora lutea were observed in female rats at exposures below the human clinical exposure based on AUC.
 
@@ -1220,11 +1209,11 @@ In mice, lower heart rate, heart weight and left ventricular function were obser
 
 Trametinib was phototoxic in an in vitro mouse fibroblast 3T3 Neutral Red Uptake (NRU) assay at significantly higher concentrations than human clinical exposures (IC50 at 2.92 µg/ml, ≥130 times the human clinical exposure based on Cmax), indicating that there is low risk for phototoxicity to patients taking trametinib.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Combination with dabrafenib
 
 In a study in dogs in which trametinib and dabrafenib were given in combination for 4 weeks, signs of gastro-intestinal toxicity and decreased lymphoid cellularity of the thymus were observed at lower exposures than in dogs given trametinib alone. Otherwise, similar toxicities were observed as in comparable monotherapy studies.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
@@ -1234,17 +1223,19 @@ In a study in dogs in which trametinib and dabrafenib were given in combination 
 
 ## Tablet core
 
-Mannitol (E421) Microcrystalline cellulose (E460) Hypromellose (E464) Croscarmellose sodium (E468) Magnesium stearate (E470b) Sodium laurilsulfate Colloidal silicon dioxide(E551)
+Mannitol (E421) Microcrystalline cellulose (E460) Hypromellose (E464) Croscarmellose sodium (E468) Magnesium stearate (E470b) Sodium laurilsulfate Colloidal silicon dioxide (E551)
 
 ## Tablet film coating
 
-Hypromellose (E464) Titanium dioxide (E171) Polyethylene glycol Iron oxide yellow(E172)
+Hypromellose (E464) Titanium dioxide (E171) Polyethylene glycol
+
+Iron oxide yellow (E172)
 
 ## Mekinist 2 mg film-coated tablets
 
 ## Tablet core
 
-Mannitol (E421) Microcrystalline cellulose (E460) Hypromellose (E464) Croscarmellose sodium (E468) Magnesium stearate (E470b) Sodium laurilsulfate Colloidal silicon dioxide(E551)
+Mannitol (E421) Microcrystalline cellulose (E460) Hypromellose (E464) Croscarmellose sodium (E468) Magnesium stearate (E470b) Sodium laurilsulfate Colloidal silicon dioxide (E551)
 
 ## Tablet film coating
 
@@ -1254,29 +1245,25 @@ Hypromellose (E464) Titanium dioxide (E171) Polyethylene glycol Polysorbate 80 (
 
 Not applicable.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 6.3 Shelf life
 
 Unopened bottle
 
 3 years
 
-## Opened bottle
+Opened bottle
 
 After opening, store at not more than 30ºC and use within 30 days.
 
 ## 6.4 Special precautions for storage
 
-This medicinal product does not require any special temperature storage conditions. Store in the original package in order to protect from light and moisture.
-
-<div style=\"page-break-after: always\"></div>
-
-Keep the bottle tightly closed.
+This medicinal product does not require any special temperature storage conditions. Store in the original package in order to protect from light and moisture. Keep the bottle tightly closed.
 
 For storage conditions after first opening of the medicinal product, see section 6.3.
 
-6.5
-
-Nature and contents of container
+## 6.5 Nature and contents of container
 
 High-density polyethylene (HDPE) bottle with child-resistant polypropylene closure. The bottle contains a desiccant.
 
@@ -1284,15 +1271,11 @@ Pack sizes: One bottle contains either 7 or 30 tablets.
 
 Not all pack sizes may be marketed.
 
-6.6
-
-Special precautions for disposal
+## 6.6 Special precautions for disposal
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
-7.
-
-MARKETING AUTHORISATION HOLDER
+## 7. MARKETING AUTHORISATION HOLDER
 
 Novartis Europharm Limited
 
@@ -1300,17 +1283,19 @@ Vista Building Elm Park, Merrion Road Dublin 4 Ireland
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-## Mekinist 0.5 mg film-coated tablets
+Mekinist 0.5 mg film-coated tablets
 
 EU/1/14/931/001
 
 EU/1/14/931/002
 
-## Mekinist 2 mg film-coated tablets
+Mekinist 2 mg film-coated tablets
 
 EU/1/14/931/005
 
 EU/1/14/931/006
+
+<div style=\"page-break-after: always\"></div>
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -1320,24 +1305,22 @@ Date of latest renewal: 14 February 2019
 
 ## 10. DATE OF REVISION OF THE TEXT
 
-Detailed information on this medicinal product is available on the website of the European Medicines
-
-Agency https://www.ema.europa.eu.
-
-35
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
 <div style=\"page-break-after: always\"></div>
 
+- C. AUTHORISATION
+
 ## ANNEX II
 
-- A. MANUFACTURERS RESPONSIBLE FOR BATCH RELEASE B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
+- A. MANUFACTURERS RESPONSIBLE FOR BATCH RELEASE B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING
 - D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
 <div style=\"page-break-after: always\"></div>
 
 ## A. MANUFACTURERS RESPONSIBLE FOR BATCH RELEASE
 
-## Name and address of the manufacturers responsible for batch release
+Name and address of the manufacturers responsible for batch release
 
 Lek Pharmaceuticals d.d. Verovskova ulica 57 1526, Ljubljana Slovenia
 
@@ -1359,13 +1342,13 @@ Medicinal product subject to restricted medical prescription (see Annex I: Summa
 
 The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
 
+<div style=\"page-break-after: always\"></div>
+
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
 ## · Risk management plan (RMP)
 
 The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP.
-
-<div style=\"page-break-after: always\"></div>
 
 An updated RMP should be submitted:
 
@@ -1434,7 +1417,15 @@ Store in the original package to protect from light and moisture. Keep the bottl
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Ireland
+Novartis Europharm Limited
+
+Vista Building
+
+Elm Park, Merrion Road
+
+Dublin 4
+
+Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1451,14 +1442,12 @@ EU/1/14/931/002
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
-
 15. INSTRUCTIONS ON USE
-
 16. INFORMATION IN BRAILLE
 
 mekinist 0.5 mg
 
-17. UNIQUE IDENTIFIER - 2D BARCODE
+17. UNIQUE IDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -1594,7 +1583,15 @@ Store in the original package to protect from light and moisture. Keep the bottl
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Ireland
+Novartis Europharm Limited
+
+Vista Building
+
+Elm Park, Merrion Road
+
+Dublin 4
+
+Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1611,18 +1608,16 @@ EU/1/14/931/006
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
-
 15. INSTRUCTIONS ON USE
-
 16. INFORMATION IN BRAILLE
 
 mekinist 2 mg
 
-17. UNIQUE IDENTIFIER - 2D BARCODE
+17. UNIQUE IDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 PC
 
@@ -1638,7 +1633,9 @@ BOTTLE LABEL
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Mekinist 2 mg tablets trametinib
+Mekinist 2 mg tablets
+
+trametinib
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -1650,7 +1647,9 @@ Each film-coated tablet contains trametinib dimethyl sulfoxide equivalent to 2 m
 
 Film-coated tablet
 
-7 tablets 30 tablets
+7 tablets
+
+30 tablets
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -1664,7 +1663,7 @@ Keep out of the sight and reach of children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-## 8. EXPIRY DATE
+8. EXPIRY DATE
 
 EXP
 
@@ -1695,9 +1694,13 @@ EU/1/14/931/006
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
+
 15. INSTRUCTIONS ON USE
+
 16. INFORMATION IN BRAILLE
-17. UNIQUE IDENTIFIER -2D BARCODE
+
+17. UNIQUE IDENTIFIER - 2D BARCODE
+
 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 <div style=\"page-break-after: always\"></div>
@@ -1708,9 +1711,7 @@ Lot
 
 ## Package leaflet: Information for the patient
 
-## Mekinist 0.5 mg film-coated tablets Mekinist 2 mg film-coated tablets
-
-## trametinib
+## Mekinist 0.5 mg film-coated tablets Mekinist 2 mg film-coated tablets trametinib
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
@@ -1726,34 +1727,35 @@ Lot
 3. How to take Mekinist
 4. Possible side effects
 5. How to store Mekinist
-6. 6.
-7. Contents of the pack and other information
+6. Contents of the pack and other information
 
 ## 1. What Mekinist is and what it is used for
 
-Mekinist is a medicine that contains the active substance trametinib. It is used either on its own or in combination with another medicine containing dabrafenib to treat a type of skin cancer called melanoma that has spread to other parts of the body, or cannot be removed by surgery.
+Mekinist is a medicine that contains the active substance trametinib. It is used either on its own or in combination with another medicine containing dabrafenib in adults and adolescents aged 12 years and older to treat a type of skin cancer called melanoma that has spread to other parts of the body, or cannot be removed by surgery.
 
-Mekinist in combination with dabrafenib is also used to prevent melanoma from coming back after it has been removed by surgery.
+Mekinist in combination with dabrafenib is also used in adults and adolescents aged 12 years and older to prevent melanoma from coming back after it has been removed by surgery.
 
-Mekinist in combination with dabrafenib is also used to treat a type of lung cancer called non-small cell lung cancer (NSCLC).
+Mekinist in combination with dabrafenib is also used in adults to treat a type of lung cancer called non-small cell lung cancer (NSCLC).
 
-Both cancers have a particular change (mutation) in a gene called BRAF at the V600 position. This mutation in the gene may have caused the cancer to develop. Your medicine targets proteins made from this mutated gene and slows down or stops the development of your cancer.
+Mekinist in combination with dabrafenib is also used in adults to treat a type of thyroid cancer called differentiated thyroid cancer (DTC).
+
+These cancers have a particular change (mutation) in a gene called BRAF at the V600 position. This mutation in the gene may have caused the cancer to develop. Your medicine targets proteins made from this mutated gene and slows down or stops the development of your cancer.
 
 ## 2. What you need to know before you take Mekinist
 
-Mekinist should only be used to treat melanomas and NSCLC with the BRAF mutation. Therefore, before starting treatment your doctor will test for this mutation.
+Mekinist should only be used to treat cancers with the BRAF mutation. Therefore, before starting treatment your doctor will test for this mutation.
 
 If your doctor decides that you will receive treatment with the combination of Mekinist and dabrafenib, read the dabrafenib leaflet carefully as well as this leaflet .
 
 If you have any further questions on the use of this medicine, ask your doctor, pharmacist or nurse.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Do not take Mekinist
 
 - if you are allergic to trametinib or any of the other ingredients of this medicine (listed in section 6).
 
 Check with your doctor if you think this applies to you.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Warnings and precautions
 
@@ -1767,7 +1769,7 @@ Talk to your doctor before taking your medicine. Your doctor needs to know if yo
 
 ## Before you take Mekinist in combination with dabrafenib your doctor needs to know if you:
 
-- have had a different type of cancer other than melanoma or NSCLC , as you may be at greater risk of developing non-skin cancers when taking Mekinist.
+- have had a different type of cancer other than melanoma, NSCLC or DTC , as you may be at greater risk of developing non-skin cancers when taking Mekinist.
 
 Check with your doctor if you think any of these may apply to you.
 
@@ -1791,17 +1793,17 @@ Tell your doctor as soon as possible if you get any of these symptoms.
 
 Taking Mekinist or the combination of Mekinist and dabrafenib may cause fever, although it is more likely if you are taking the combination treatment (see also section 4). In some cases, people with fever may develop low blood pressure, dizziness or other symptoms.
 
-Tell your doctor immediately if you get a temperature above 38ºC or if you feel a fever coming on while you are taking this medicine.
+Tell your doctor immediately if you get a temperature above 38°C or if you feel a fever coming on while you are taking this medicine.
 
 ## Heart disorder
 
 Mekinist can cause heart problems, or make existing heart problems worse (see also ' Heart conditions ' in section 4) in people taking Mekinist in combination with dabrafenib. Tell your doctor if you have a heart disorder. Your doctor will run tests to check that your heart is working properly before and during your treatment with this medicine. Tell your doctor immediately if it feels like your heart is pounding, racing, or beating irregularly, or if you experience dizziness, tiredness, light-headedness, shortness of breath or swelling in the legs. If necessary, your doctor may decide to interrupt your treatment or to stop it altogether.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Changes in your skin which may indicate new skin cancer
 
 Your doctor will check your skin before you start taking this medicine and regularly while you are taking it. Tell your doctor immediately if you notice any changes to your skin while taking this medicine or after treatment (see also section 4).
-
-<div style=\"page-break-after: always\"></div>
 
 ## Eye problems
 
@@ -1848,17 +1850,15 @@ Taking Mekinist or the combination of Mekinist and dabrafenib may increase the r
 
 Serious skin reactions have been reported in people taking Mekinist in combination with dabrafenib. Tell your doctor immediately if you notice any changes to your skin (see section 4 for symptoms to be aware of).
 
+<div style=\"page-break-after: always\"></div>
+
 ## Inflammatory disease mainly affecting the skin, lung, eyes and lymph nodes
 
 An inflammatory disease mainly affecting the skin, lung, eyes and lymph nodes (sarcoidosis). Common symptoms of sarcoidosis may include coughing, shortness of breath, swollen lymph nodes, visual disturbances, fever, fatigue, pain and swelling in the joints and tender bumps on your skin. Tell your doctor if you get any of these symptoms.
 
 ## Immune system disorders
 
-Mekinist in combination with dabrafenib may in rare instances cause a condition (haemophagocytic lymphohistiocytosis or HLH) in which the immune system makes too many infection-fighting cells,
-
-<div style=\"page-break-after: always\"></div>
-
-called histiocytes and lymphocytes. Symptoms may include enlarged liver and/or spleen, skin rash, lymph node enlargement, breathing problems, easy bruising, kidney abnormalities, and heart problems. Tell your doctor immediately if you experience multiple symptoms such as fever, swollen lymph glands, bruising or skin rash, at the same time.
+Mekinist in combination with dabrafenib may in rare instances cause a condition (haemophagocytic lymphohistiocytosis or HLH) in which the immune system makes too many infection-fighting cells, called histiocytes and lymphocytes. Symptoms may include enlarged liver and/or spleen, skin rash, lymph node enlargement, breathing problems, easy bruising, kidney abnormalities, and heart problems. Tell your doctor immediately if you experience multiple symptoms such as fever, swollen lymph glands, bruising or skin rash, at the same time.
 
 ## Tumour lysis syndrome
 
@@ -1866,7 +1866,7 @@ If you experience the following symptoms, tell your doctor immediately as this c
 
 ## Children and adolescents
 
-Mekinist is not recommended for children and adolescents since the effects of Mekinist in people younger than 18 years old are not known.
+Mekinist is not recommended for children and adolescents under 18 years of age, except for adolescents aged 12 years and older with melanoma.
 
 ## Other medicines and Mekinist
 
@@ -1889,6 +1889,8 @@ It is not known whether the ingredients of Mekinist can pass into breast milk.
 
 If you are breast-feeding, or planning to breast-feed, you must tell your doctor. It is recommended that you do not breast-feed while you are taking Mekinist. You and your doctor will decide whether you will take Mekinist or breast-feed.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Fertility -both men and women
 
 Mekinist may impair fertility in both men and women.
@@ -1898,8 +1900,6 @@ Taking Mekinist with dabrafenib: Dabrafenib may permanently reduce male fertilit
 Prior to starting treatment with dabrafenib, talk to your doctor about options to improve your chances to have children in the future.
 
 If you have any further questions on the effect of this medicine on fertility, ask your doctor, pharmacist or nurse.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Driving and using machines
 
@@ -1919,7 +1919,13 @@ Always take this medicine exactly as your doctor, pharmacist or nurse has told y
 
 ## How much to take
 
-The usual dose of Mekinist either used alone or in combination with dabrafenib is one 2 mg tablet once a day. The recommended dose of dabrafenib, when used in combination with Mekinist, is 150 mg twice daily.
+## Adults
+
+- The usual dose of Mekinist is one 2 mg tablet once a day regardless of body weight.
+
+Adolescents (12 to less than 18 years of age)
+
+- Your doctor will decide on the correct dose of Mekinist for you based on your body weight.
 
 Your doctor may decide to lower the dose if you get side effects.
 
@@ -1936,6 +1942,8 @@ Take Mekinist once a day, on an empty stomach (at least 1 hour before a meal or 
 
 Take Mekinist at about the same time each day.
 
+<div style=\"page-break-after: always\"></div>
+
 ## If you take more Mekinist than you should
 
 If you take too many tablets of Mekinist, contact your doctor, pharmacist or nurse for advice. If possible, show them the Mekinist pack and this leaflet.
@@ -1944,7 +1952,7 @@ If you take too many tablets of Mekinist, contact your doctor, pharmacist or nur
 
 If the missed dose is less than 12 hours late, take it as soon as you remember.
 
-If the missed dose is more than12 hours late, skip that dose and take your next dose at the usual time.
+If the missed dose is more than 12 hours late, skip that dose and take your next dose at the usual time.
 
 Then carry on taking your tablets at regular times as usual.
 
@@ -1955,8 +1963,6 @@ Do not take a double dose to make up for a forgotten dose.
 Take Mekinist for as long as your doctor recommends. Do not stop unless your doctor advises you to.
 
 If you have any further questions on the use of this medicine, ask your doctor, pharmacist or nurse.
-
-<div style=\"page-break-after: always\"></div>
 
 ## How should you take Mekinist in combination with dabrafenib
 
@@ -1986,13 +1992,13 @@ Mekinist can affect how well your heart pumps blood. It is more likely to affect
 - shortness of breath
 - swelling in the legs
 
+<div style=\"page-break-after: always\"></div>
+
 Tell your doctor as soon as possible if you get any of these symptoms, either for the first time or if they get worse.
 
 ## High blood pressure
 
 Mekinist can cause new or worsening high blood pressure (hypertension). Your doctor or nurse should check your blood pressure during treatment with Mekinist. Call your doctor or nurse right away if you develop high blood pressure, your blood pressure worsens, or you have severe headache, lightheadedness, or dizziness.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Bleeding problems
 
@@ -2027,15 +2033,15 @@ Some people taking Mekinist in combination with dabrafenib may also notice that 
 
 Your doctor will check your skin before you start taking dabrafenib, then check it again every month while you are taking dabrafenib and for 6 months after you stop taking it. This is to look for any new skin cancers.
 
+<div style=\"page-break-after: always\"></div>
+
 Your doctor will also check your head, neck, mouth and lymph glands and you will have scans of your chest and stomach area (called CT scans) regularly. You may also have blood tests. These checks are to detect if any other cancer, including squamous cell carcinoma, develops inside your body. Pelvic examinations (for women) and anal examinations are also recommended before and at the end of your treatment.
 
 Mekinist as monotherapy or in combination with dabrafenib can cause rash or acne-like rash. Follow your doctor's instructions for what to do to help prevent rash. Tell your doctor or nurse as soon as possible if you get any of these symptoms for the first time or if they get worse.
 
 Contact your doctor immediately if you get a severe skin rash with any of the following symptoms: blisters on your skin, blisters or sores in your mouth, peeling of your skin, fever, redness or swelling of your face, or soles of your feet.
 
-<div style=\"page-break-after: always\"></div>
-
-## Tell your doctor or nurse as soon as possible if you get any skin rash, or if you have a rash that gets worse.
+Tell your doctor or nurse as soon as possible if you get any skin rash, or if you have a rash that gets worse.
 
 ## Muscle pain
 
@@ -2075,6 +2081,9 @@ Very common side effects (may affect more than 1 in 10 people):
 - Constipation
 - Stomach ache
 - Dry mouth
+
+<div style=\"page-break-after: always\"></div>
+
 - Skin rash, acnelike rash, redness of the face, dry or itching skin (see also ' Changes in your skin ' earlier in section 4)
 - Unusual hair loss or thinning
 - Lack of energy or feeling weak or tired
@@ -2090,9 +2099,6 @@ Very common side effects (may affect more than 1 in 10 people):
 - Inflammation of hair follicles in the skin
 - Nail disorders such as nail bed changes, nail pain, infection and swelling of the cuticles
 - Infection of the skin (cellulitis)
-
-<div style=\"page-break-after: always\"></div>
-
 - Skin rash with pus-filled blisters (see also ' Changes in your skin ' earlier in section 4)
 - Allergic reaction (hypersensitivity)
 - Dehydration (low levels of water or fluid)
@@ -2126,9 +2132,11 @@ Very common side effects (may affect more than 1 in 10 people):
 - Inflammation of the intestines (colitis)
 - Breakdown of muscle which can cause muscle pain and kidney damage (rhabdomyolysis)
 
-Not known (frequency cannot be estimated from the available data):
+## Not known (frequency cannot be estimated from the available data):
 
 - Irregular heartbeat (atrioventricular block)
+
+<div style=\"page-break-after: always\"></div>
 
 ## Side effects when Mekinist and dabrafenib are taken together
 
@@ -2140,13 +2148,12 @@ Tell your doctor as soon as possible if you get any of these symptoms, either fo
 
 ## Please read the dabrafenib Package Leaflet for details of the side effects you may get when taking this medicine.
 
-<div style=\"page-break-after: always\"></div>
-
 The side effects that you may see when you take Mekinist in combination with dabrafenib are as follows:
 
 Very common side effects (may affect more than 1 in 10 people):
 
 - Nasal and throat inflammation
+- Urinary tract infection
 - Decreased appetite
 - Headache
 - Dizziness
@@ -2158,6 +2165,7 @@ Very common side effects (may affect more than 1 in 10 people):
 - Diarrhoea
 - Feeling sick (nausea), being sick (vomiting)
 - Rash, dry skin, itching, skin reddening
+- Acne-like problems (dermatitis acneiform)
 - Joint pain, muscle pain, or pain in the hands or feet
 - Muscle spasms
 - Lack of energy, feeling weak
@@ -2169,65 +2177,78 @@ Very common side effects (may affect more than 1 in 10 people):
 ## Very common side effects that may show up in your blood tests
 
 - Abnormal blood test results related to the liver
+- Low levels of white blood cells (neutropenia)
+- Decrease in number of red blood cells (anaemia)
 
-Common side effects (may affect up to 1 in 10 people):
+## Common side effects (may affect up to 1 in 10 people):
 
-- Infection of the urinary system
 - Skin effects including infection of the skin (cellulitis), inflammation of hair follicles in the skin, nail disorders such as nail bed changes, nail pain, infection and swelling of the cuticles, skin rash with pus-filled blisters, cutaneous squamous cell carcinoma (a type of skin cancer), papilloma (a type of skin tumour which is usually not harmful), wart-like growths, increased sensitivity of the skin to sun (see also ' Changes in your skin ' earlier in section 4)
 - Dehydration (low levels of water or fluid)
 - Blurred vision, eyesight problems, inflammation of the eye (uveitis)
 - Heart pumping less efficiently
+
+<div style=\"page-break-after: always\"></div>
+
+- Heart rate that is lower than the normal range and/or a decrease in heart rate (bradycardia)
 - Low blood pressure (hypotension)
 - Localised tissue swelling
+- Inflammation of the lung (pneumonitis)
 - Shortness of breath
 - Dry mouth
 - Sore mouth or mouth ulcers, inflammation of mucous membranes
-- Acne-like problems
+- Inflamed, flaky skin (exfoliative dermatitis)
 - Thickening of the outer layer of the skin (hyperkeratosis), patches of thick, scaly, or crusty skin (actinic keratosis), chapping or cracking of the skin
 - Increased sweating, night sweats
 - Unusual hair loss or thinning
 - Red, painful hands and feet
 - Inflammation of the fatty layer under the skin (panniculitis)
+- Kidney failure (renal failure)
+- Severely decreased urine output (acute kidney injury)
 - Inflammation of the mucosa
 - Swelling of the face
 - Problem with the nerves that can produce pain, loss of sensation or tingling in hands and feet and/or muscle weakness (peripheral neuropathy)
 
-<div style=\"page-break-after: always\"></div>
+## Common side effects that may show up in your blood tests
 
-Common side effects that may show up in your blood tests
-
-- Low levels of white blood cells
-- Decrease in number of red blood cells (anaemia), blood platelets (cells that help blood to clot), and a type of white blood cells (leukopenia)
+- Decrease in blood platelets (cells that help blood to clot) and a type of white blood cells (leukopenia)
 - Low levels of sodium (hyponatraemia) or phosphate (hypophosphataemia) in the blood
 - Increase in blood sugar level
 - Increase in creatine phosphokinase, an enzyme found mainly in heart, brain, and skeletal muscle
 - Increase in some substances (enzymes) produced by the liver
 
-Uncommon side effects (may affect up to 1 in 100 people):
+## Uncommon side effects (may affect up to 1 in 100 people):
 
 - Appearance of new skin cancer (melanoma)
 - Skin tags
 - Allergic reactions (hypersensitivity)
 - Eye changes including swelling in the eye caused by fluid leakage (chorioretinopathy), separation of the light-sensitive membrane in the back of the eye (the retina) from its supporting layers (retinal detachment) and swelling around the eyes
-- Heart rate that is lower than the normal range and/or a decrease in heart rate
-- Inflammation of the lung (pneumonitis)
+- Breathlessness, difficulty breathing when lying down, swelling of the feet or legs as signs of heart muscle not pumping blood as well as it should (cardiac failure)
+- Fatigue, feeling full or bloated, heart palpitations, loss of appetite, nausea, reduced ability to exercise, shortness of breath, swelling as signs of changes in the way that the heart pumps (left ventricular dysfunction)
+- Irregular heartbeat (atrioventricular block)
+- A hole (perforation) in the stomach or intestines (gastrointestinal perforation)
 - Inflammation of pancreas
 - Inflammation of the intestines (colitis)
-- Kidney failure
-- Inflammation of the kidneys
 - Inflammatory disease mainly affecting the skin, lung, eyes and lymph nodes (sarcoidosis)
-- Irregular heartbeat (atrioventricular block)
 - Raised, painful, red to dark reddish-purple skin patches or sores that appear mainly on the arms, legs, face and neck, with a fever (signs of acute febrile neutrophilic dermatosis)
+- Abnormal breakdown of muscle causing pain, fever, red-brown urine (rhabdomyolysis)
 
-Rare side effects (may affect up to 1 in 1 000 people)
+## Rare side effects (may affect up to 1 in 1 000 people)
 
-- A hole (perforation) in the stomach or intestines
+- Cough, difficulty breathing, painful breathing (interstitial lung disease)
+- Inflammation of the kidneys (nephritis)
+
+<div style=\"page-break-after: always\"></div>
 
 Not known (frequency cannot be estimated from the available data):
 
 - Inflammation of the heart muscle (myocarditis) which can result in breathlessness, fever, palpitations and chest pain.
-- Inflamed, flaky skin (exfoliative dermatitis)
 - Skin reactions localised in tattoos
+
+## Additional side effects in adolescents
+
+Very common side effects (may affect more than 1 in 10 people)
+
+- Increase in weight (abnormal weight gain)
 
 ## Reporting of side effects
 
@@ -2242,8 +2263,6 @@ Do not use this medicine after the expiry date which is stated on the bottle lab
 Store in the original package in order to protect from light and moisture. Keep the bottle tightly closed with the dessicant inside (small cylinder-shaped container).
 
 Before opening: This medicine does not require any special temperature storage conditions. After opening: Store at not more than 30°C. Use within 30 days of opening.
-
-<div style=\"page-break-after: always\"></div>
 
 Do not throw away medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
 
@@ -2264,6 +2283,8 @@ The Mekinist 2 mg film-coated tablets are pink, round, biconvex, with the compan
 
 The film-coated tablets are supplied in opaque white plastic bottles with threaded plastic closures. One bottle contains either 7 or 30 tablets.
 
+<div style=\"page-break-after: always\"></div>
+
 The bottles also include a silica gel desiccant in a small cylinder-shaped container. The desiccant must be kept inside the bottle and must not be eaten.
 
 ## Marketing Authorisation Holder
@@ -2278,8 +2299,6 @@ Novartis Pharmaceutical Manufacturing LLC Verovskova ulica 57 1000, Ljubljana Sl
 
 Glaxo Wellcome, S.A. Avda. Extremadura, 3 09400, Aranda de Duero Burgos Spain
 
-<div style=\"page-break-after: always\"></div>
-
 Novartis Pharma GmbH Sophie-Germain-Strasse 10 90443 Nuremberg Germany
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
@@ -2288,89 +2307,123 @@ For any information about this medicine, please contact the local representative
 
 Novartis Pharma N.V. Tél/Tel: +32 2 246 16 11
 
-## България
-
-Novartis Bulgaria EOOD Тел: +359 2 489 98 28
-
-## Česká republika
-
-Novartis s.r.o. Tel: +420 225 775 111
-
-## Danmark
-
-Novartis Healthcare A/S Tlf.: +45 39 16 84 00
-
-## Deutschland
-
-Novartis Pharma GmbH Tel: +49 911 273 0
-
-## Eesti
-
-SIA Novartis Baltics Eesti filiaal Tel: +372 66 30 810
-
-## Ελλάδα
-
-Novartis (Hellas) A.E.B.E. Τηλ : +30 210 281 17 12
-
-## España
-
-Novartis Farmacéutica, S.A. Tel: +34 93 306 42 00
-
-## France
-
-Novartis Pharma S.A.S. Tél: +33 1 55 47 66 00
-
-## Hrvatska
-
-Novartis Hrvatska d.o.o. Tel. +385 1 6274 220
-
-## Ireland
-
-Novartis Ireland Limited Tel: +353 1 260 12 55
-
-## Ísland
-
-Vistor hf. Sími: +354 535 7000
-
 ## Lietuva
 
 SIA Novartis Baltics Lietuvos filialas Tel: +370 5 269 16 50
 
+## България
+
+Novartis Bulgaria EOOD
+
+Тел: +359 2 489 98 28
+
 ## Luxembourg/Luxemburg
 
-Novartis Pharma N.V. Tél/Tel: +32 2 246 16 11
+Novartis Pharma N.V.
+
+Tél/Tel: +32 2 246 16 11
+
+## Česká republika
+
+Novartis s.r.o.
+
+Tel: +420 225 775 111
 
 ## Magyarország
 
-Novartis Hungária Kft. Tel.: +36 1 457 65 00
+Novartis Hungária Kft.
+
+Tel.: +36 1 457 65 00
+
+## Danmark
+
+Novartis Healthcare A/S
+
+Tlf.: +45 39 16 84 00
 
 ## Malta
 
 Novartis Pharma Services Inc. Tel: +356 2122 2872
 
+## Deutschland
+
+Novartis Pharma GmbH
+
+Tel: +49 911 273 0
+
 ## Nederland
 
-Novartis Pharma B.V. Tel: +31 88 04 52 555
+Novartis Pharma B.V. Tel: +31 88 04 52 111
+
+<div style=\"page-break-after: always\"></div>
+
+## Eesti
 
 ## Norge
 
-Novartis Norge AS Tlf: +47 23 05 20 00
+SIA Novartis Baltics Eesti filiaal
+
+Tel: +372 66 30 810
+
+Novartis Norge AS
+
+Tlf: +47 23 05 20 00
+
+## Ελλάδα
+
+Novartis (Hellas) A.E.B.E.
+
+Τηλ
+
+: +30 210 281 17 12
 
 ## Österreich
 
-Novartis Pharma GmbH Tel: +43 1 86 6570
+Novartis Pharma GmbH
+
+Tel: +43 1 86 6570
+
+## España
+
+Novartis Farmacéutica, S.A.
+
+Tel: +34 93 306 42 00
 
 ## Polska
 
-Novartis Poland Sp. z o.o. Tel.: +48 22 375 4888
+Novartis Poland Sp. z o.o.
+
+Tel.: +48 22 375 4888
+
+## France
+
+Novartis Pharma S.A.S.
+
+Tél: +33 1 55 47 66 00
 
 ## Portugal
 
-Novartis Farma - Produtos Farmacêuticos, S.A. Tel: +351 21 000 8600
+Novartis Farma - Produtos Farmacêuticos, S.A.
+
+Tel: +351 21 000 8600
+
+## Hrvatska
+
+Novartis Hrvatska d.o.o.
+
+Tel. +385 1 6274 220
 
 ## România
 
-Novartis Pharma Services Romania SRL Tel: +40 21 31299 01
+Novartis Pharma Services Romania SRL
+
+Tel: +40 21 31299 01
+
+## Ireland
+
+Novartis Ireland Limited
+
+Tel: +353 1 260 12 55
 
 ## Slovenija
 
@@ -2378,9 +2431,17 @@ Novartis Pharma Services Inc.
 
 Tel: +386 1 300 75 50
 
+## Ísland
+
+Vistor ehf.
+
+Sími: +354 535 7000
+
 ## Slovenská republika
 
-Novartis Slovakia s.r.o. Tel: +421 2 5542 5439
+Novartis Slovakia s.r.o.
+
+Tel: +421 2 5542 5439
 
 ## Italia
 
@@ -2411,8 +2472,6 @@ Tel: +46 8 732 32 00
 SIA Novartis Baltics
 
 Tel: +371 67 887 070
-
-<div style=\"page-break-after: always\"></div>
 
 ## This leaflet was last revised in
 

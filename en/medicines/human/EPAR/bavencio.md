@@ -1,30 +1,32 @@
 ---
-document_datetime: 2026-01-22 14:12:00
+document_datetime: 2026-05-21 15:25:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/bavencio.html
 document_name: bavencio.html
 version: success
-processing_time: 0.1274969
-conversion_datetime: 2026-01-26 20:22:42.495476
+processing_time: 0.1335168
+conversion_datetime: 2026-05-22 22:39:09.137821
 docling_version:
-  docling-serve: 1.10.0
-  docling-jobkit: 1.8.1
-  docling: 2.70.0
-  docling-core: 2.60.2
-  docling-ibm-models: 3.11.0
-  docling-parse: 4.7.3
+  docling-serve: 1.20.0
+  docling-jobkit: 1.20.0
+  docling: 2.95.0
+  docling-core: 2.77.0
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.11.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
 ---
 # Bavencio
 
 [RSS](/en/individual-human-medicine.xml/65883)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-avelumab Medicine Human Authorised
+avelumab
+
+Medicine Human Authorised
 
 Page contents
 
@@ -128,285 +130,149 @@ Reference Number: EMA/584705/2022
 
 English (EN) (158.66 KB - PDF)
 
-**First published:** 13/10/2017
-
-**Last updated:** 26/07/2022
+**First published:** 13/10/2017 **Last updated:** 26/07/2022
 
 [View](/en/documents/overview/bavencio-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-967)
+[Other languages (22)](#file-language-dropdown-587)
 
 български (BG) (175.23 KB - PDF)
 
-**First published:**
-
-13/10/2017
-
-**Last updated:**
-
-26/07/2022
+**First published:** 13/10/2017 **Last updated:** 26/07/2022
 
 [View](/bg/documents/overview/bavencio-epar-medicine-overview_bg.pdf)
 
 español (ES) (148.3 KB - PDF)
 
-**First published:**
-
-13/10/2017
-
-**Last updated:**
-
-26/07/2022
+**First published:** 13/10/2017 **Last updated:** 26/07/2022
 
 [View](/es/documents/overview/bavencio-epar-medicine-overview_es.pdf)
 
 čeština (CS) (172.6 KB - PDF)
 
-**First published:**
-
-13/10/2017
-
-**Last updated:**
-
-26/07/2022
+**First published:** 13/10/2017 **Last updated:** 26/07/2022
 
 [View](/cs/documents/overview/bavencio-epar-medicine-overview_cs.pdf)
 
 dansk (DA) (146.62 KB - PDF)
 
-**First published:**
-
-13/10/2017
-
-**Last updated:**
-
-26/07/2022
+**First published:** 13/10/2017 **Last updated:** 26/07/2022
 
 [View](/da/documents/overview/bavencio-epar-medicine-overview_da.pdf)
 
 Deutsch (DE) (151.41 KB - PDF)
 
-**First published:**
-
-13/10/2017
-
-**Last updated:**
-
-26/07/2022
+**First published:** 13/10/2017 **Last updated:** 26/07/2022
 
 [View](/de/documents/overview/bavencio-epar-medicine-overview_de.pdf)
 
 eesti keel (ET) (135.15 KB - PDF)
 
-**First published:**
-
-13/10/2017
-
-**Last updated:**
-
-26/07/2022
+**First published:** 13/10/2017 **Last updated:** 26/07/2022
 
 [View](/et/documents/overview/bavencio-epar-medicine-overview_et.pdf)
 
 ελληνικά (EL) (174.32 KB - PDF)
 
-**First published:**
-
-13/10/2017
-
-**Last updated:**
-
-26/07/2022
+**First published:** 13/10/2017 **Last updated:** 26/07/2022
 
 [View](/el/documents/overview/bavencio-epar-medicine-overview_el.pdf)
 
 français (FR) (150.12 KB - PDF)
 
-**First published:**
-
-13/10/2017
-
-**Last updated:**
-
-26/07/2022
+**First published:** 13/10/2017 **Last updated:** 26/07/2022
 
 [View](/fr/documents/overview/bavencio-epar-medicine-overview_fr.pdf)
 
 hrvatski (HR) (172.47 KB - PDF)
 
-**First published:**
-
-13/10/2017
-
-**Last updated:**
-
-26/07/2022
+**First published:** 13/10/2017 **Last updated:** 26/07/2022
 
 [View](/hr/documents/overview/bavencio-epar-medicine-overview_hr.pdf)
 
 italiano (IT) (148.27 KB - PDF)
 
-**First published:**
-
-13/10/2017
-
-**Last updated:**
-
-26/07/2022
+**First published:** 13/10/2017 **Last updated:** 26/07/2022
 
 [View](/it/documents/overview/bavencio-epar-medicine-overview_it.pdf)
 
 latviešu valoda (LV) (179.79 KB - PDF)
 
-**First published:**
-
-13/10/2017
-
-**Last updated:**
-
-26/07/2022
+**First published:** 13/10/2017 **Last updated:** 26/07/2022
 
 [View](/lv/documents/overview/bavencio-epar-medicine-overview_lv.pdf)
 
 lietuvių kalba (LT) (171.55 KB - PDF)
 
-**First published:**
-
-13/10/2017
-
-**Last updated:**
-
-26/07/2022
+**First published:** 13/10/2017 **Last updated:** 26/07/2022
 
 [View](/lt/documents/overview/bavencio-epar-medicine-overview_lt.pdf)
 
 magyar (HU) (173.37 KB - PDF)
 
-**First published:**
-
-13/10/2017
-
-**Last updated:**
-
-26/07/2022
+**First published:** 13/10/2017 **Last updated:** 26/07/2022
 
 [View](/hu/documents/overview/bavencio-epar-medicine-overview_hu.pdf)
 
 Malti (MT) (175.4 KB - PDF)
 
-**First published:**
-
-13/10/2017
-
-**Last updated:**
-
-26/07/2022
+**First published:** 13/10/2017 **Last updated:** 26/07/2022
 
 [View](/mt/documents/overview/bavencio-epar-medicine-overview_mt.pdf)
 
 Nederlands (NL) (147.3 KB - PDF)
 
-**First published:**
-
-13/10/2017
-
-**Last updated:**
-
-26/07/2022
+**First published:** 13/10/2017 **Last updated:** 26/07/2022
 
 [View](/nl/documents/overview/bavencio-epar-medicine-overview_nl.pdf)
 
 polski (PL) (175.89 KB - PDF)
 
-**First published:**
-
-13/10/2017
-
-**Last updated:**
-
-26/07/2022
+**First published:** 13/10/2017 **Last updated:** 26/07/2022
 
 [View](/pl/documents/overview/bavencio-epar-medicine-overview_pl.pdf)
 
 português (PT) (149.14 KB - PDF)
 
-**First published:**
-
-13/10/2017
-
-**Last updated:**
-
-26/07/2022
+**First published:** 13/10/2017 **Last updated:** 26/07/2022
 
 [View](/pt/documents/overview/bavencio-epar-medicine-overview_pt.pdf)
 
 română (RO) (172.25 KB - PDF)
 
-**First published:**
-
-13/10/2017
-
-**Last updated:**
-
-26/07/2022
+**First published:** 13/10/2017 **Last updated:** 26/07/2022
 
 [View](/ro/documents/overview/bavencio-epar-medicine-overview_ro.pdf)
 
 slovenčina (SK) (172.45 KB - PDF)
 
-**First published:**
-
-13/10/2017
-
-**Last updated:**
-
-26/07/2022
+**First published:** 13/10/2017 **Last updated:** 26/07/2022
 
 [View](/sk/documents/overview/bavencio-epar-medicine-overview_sk.pdf)
 
 slovenščina (SL) (170.46 KB - PDF)
 
-**First published:**
-
-13/10/2017
-
-**Last updated:**
-
-26/07/2022
+**First published:** 13/10/2017 **Last updated:** 26/07/2022
 
 [View](/sl/documents/overview/bavencio-epar-medicine-overview_sl.pdf)
 
 Suomi (FI) (144.87 KB - PDF)
 
-**First published:**
-
-13/10/2017
-
-**Last updated:**
-
-26/07/2022
+**First published:** 13/10/2017 **Last updated:** 26/07/2022
 
 [View](/fi/documents/overview/bavencio-epar-medicine-overview_fi.pdf)
 
 svenska (SV) (145.35 KB - PDF)
 
-**First published:**
-
-13/10/2017
-
-**Last updated:**
-
-26/07/2022
+**First published:** 13/10/2017 **Last updated:** 26/07/2022
 
 [View](/sv/documents/overview/bavencio-epar-medicine-overview_sv.pdf)
 
 Bavencio : EPAR - Risk management plan
 
-English (EN) (2.93 MB - PDF)
+English (EN) (2.2 MB - PDF)
 
-**First published:** 04/11/2019
-
-**Last updated:** 22/01/2026
+**First published:** 04/11/2019 **Last updated:** 21/05/2026
 
 [View](/en/documents/rmp/bavencio-epar-risk-management-plan_en.pdf)
 
@@ -414,305 +280,161 @@ English (EN) (2.93 MB - PDF)
 
 Bavencio : EPAR - Product Information
 
-English (EN) (561.3 KB - PDF)
+English (EN) (567.23 KB - PDF)
 
-**First published:** 13/10/2017
-
-**Last updated:** 22/01/2026
+**First published:** 13/10/2017 **Last updated:** 21/05/2026
 
 [View](/en/documents/product-information/bavencio-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-203)
+[Other languages (24)](#file-language-dropdown-465)
 
-български (BG) (741.26 KB - PDF)
+български (BG) (747.15 KB - PDF)
 
-**First published:**
-
-13/10/2017
-
-**Last updated:**
-
-22/01/2026
+**First published:** 13/10/2017 **Last updated:** 21/05/2026
 
 [View](/bg/documents/product-information/bavencio-epar-product-information_bg.pdf)
 
-español (ES) (845.69 KB - PDF)
+español (ES) (667.66 KB - PDF)
 
-**First published:**
-
-13/10/2017
-
-**Last updated:**
-
-22/01/2026
+**First published:** 13/10/2017 **Last updated:** 21/05/2026
 
 [View](/es/documents/product-information/bavencio-epar-product-information_es.pdf)
 
-čeština (CS) (1.97 MB - PDF)
+čeština (CS) (820.17 KB - PDF)
 
-**First published:**
-
-13/10/2017
-
-**Last updated:**
-
-22/01/2026
+**First published:** 13/10/2017 **Last updated:** 21/05/2026
 
 [View](/cs/documents/product-information/bavencio-epar-product-information_cs.pdf)
 
-dansk (DA) (569.79 KB - PDF)
+dansk (DA) (579.25 KB - PDF)
 
-**First published:**
-
-13/10/2017
-
-**Last updated:**
-
-22/01/2026
+**First published:** 13/10/2017 **Last updated:** 21/05/2026
 
 [View](/da/documents/product-information/bavencio-epar-product-information_da.pdf)
 
-Deutsch (DE) (657.23 KB - PDF)
+Deutsch (DE) (667.31 KB - PDF)
 
-**First published:**
-
-13/10/2017
-
-**Last updated:**
-
-22/01/2026
+**First published:** 13/10/2017 **Last updated:** 21/05/2026
 
 [View](/de/documents/product-information/bavencio-epar-product-information_de.pdf)
 
-eesti keel (ET) (594.66 KB - PDF)
+eesti keel (ET) (603.53 KB - PDF)
 
-**First published:**
-
-13/10/2017
-
-**Last updated:**
-
-22/01/2026
+**First published:** 13/10/2017 **Last updated:** 21/05/2026
 
 [View](/et/documents/product-information/bavencio-epar-product-information_et.pdf)
 
-ελληνικά (EL) (736.77 KB - PDF)
+ελληνικά (EL) (746.28 KB - PDF)
 
-**First published:**
-
-13/10/2017
-
-**Last updated:**
-
-22/01/2026
+**First published:** 13/10/2017 **Last updated:** 21/05/2026
 
 [View](/el/documents/product-information/bavencio-epar-product-information_el.pdf)
 
-français (FR) (1004.24 KB - PDF)
+français (FR) (707.25 KB - PDF)
 
-**First published:**
-
-13/10/2017
-
-**Last updated:**
-
-22/01/2026
+**First published:** 13/10/2017 **Last updated:** 21/05/2026
 
 [View](/fr/documents/product-information/bavencio-epar-product-information_fr.pdf)
 
-hrvatski (HR) (861.78 KB - PDF)
+hrvatski (HR) (787.07 KB - PDF)
 
-**First published:**
-
-13/10/2017
-
-**Last updated:**
-
-22/01/2026
+**First published:** 13/10/2017 **Last updated:** 21/05/2026
 
 [View](/hr/documents/product-information/bavencio-epar-product-information_hr.pdf)
 
-íslenska (IS) (592.36 KB - PDF)
+íslenska (IS) (601.21 KB - PDF)
 
-**First published:**
-
-13/10/2017
-
-**Last updated:**
-
-22/01/2026
+**First published:** 13/10/2017 **Last updated:** 21/05/2026
 
 [View](/is/documents/product-information/bavencio-epar-product-information_is.pdf)
 
-italiano (IT) (655.12 KB - PDF)
+italiano (IT) (641.27 KB - PDF)
 
-**First published:**
-
-13/10/2017
-
-**Last updated:**
-
-22/01/2026
+**First published:** 13/10/2017 **Last updated:** 21/05/2026
 
 [View](/it/documents/product-information/bavencio-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (702.7 KB - PDF)
+latviešu valoda (LV) (701.67 KB - PDF)
 
-**First published:**
-
-13/10/2017
-
-**Last updated:**
-
-22/01/2026
+**First published:** 13/10/2017 **Last updated:** 21/05/2026
 
 [View](/lv/documents/product-information/bavencio-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (703.31 KB - PDF)
+lietuvių kalba (LT) (702.08 KB - PDF)
 
-**First published:**
-
-13/10/2017
-
-**Last updated:**
-
-22/01/2026
+**First published:** 13/10/2017 **Last updated:** 21/05/2026
 
 [View](/lt/documents/product-information/bavencio-epar-product-information_lt.pdf)
 
-magyar (HU) (942.1 KB - PDF)
+magyar (HU) (805.68 KB - PDF)
 
-**First published:**
-
-13/10/2017
-
-**Last updated:**
-
-22/01/2026
+**First published:** 13/10/2017 **Last updated:** 21/05/2026
 
 [View](/hu/documents/product-information/bavencio-epar-product-information_hu.pdf)
 
-Malti (MT) (723.85 KB - PDF)
+Malti (MT) (718.07 KB - PDF)
 
-**First published:**
-
-13/10/2017
-
-**Last updated:**
-
-22/01/2026
+**First published:** 13/10/2017 **Last updated:** 21/05/2026
 
 [View](/mt/documents/product-information/bavencio-epar-product-information_mt.pdf)
 
-Nederlands (NL) (591.15 KB - PDF)
+Nederlands (NL) (598.66 KB - PDF)
 
-**First published:**
-
-13/10/2017
-
-**Last updated:**
-
-22/01/2026
+**First published:** 13/10/2017 **Last updated:** 21/05/2026
 
 [View](/nl/documents/product-information/bavencio-epar-product-information_nl.pdf)
 
-norsk (NO) (584.06 KB - PDF)
+norsk (NO) (592.32 KB - PDF)
 
-**First published:**
-
-13/10/2017
-
-**Last updated:**
-
-22/01/2026
+**First published:** 13/10/2017 **Last updated:** 21/05/2026
 
 [View](/no/documents/product-information/bavencio-epar-product-information_no.pdf)
 
-polski (PL) (713.89 KB - PDF)
+polski (PL) (708.13 KB - PDF)
 
-**First published:**
-
-13/10/2017
-
-**Last updated:**
-
-22/01/2026
+**First published:** 13/10/2017 **Last updated:** 21/05/2026
 
 [View](/pl/documents/product-information/bavencio-epar-product-information_pl.pdf)
 
-português (PT) (600.06 KB - PDF)
+português (PT) (609.59 KB - PDF)
 
-**First published:**
-
-13/10/2017
-
-**Last updated:**
-
-22/01/2026
+**First published:** 13/10/2017 **Last updated:** 21/05/2026
 
 [View](/pt/documents/product-information/bavencio-epar-product-information_pt.pdf)
 
-română (RO) (717.39 KB - PDF)
+română (RO) (715.82 KB - PDF)
 
-**First published:**
-
-13/10/2017
-
-**Last updated:**
-
-22/01/2026
+**First published:** 13/10/2017 **Last updated:** 21/05/2026
 
 [View](/ro/documents/product-information/bavencio-epar-product-information_ro.pdf)
 
-slovenčina (SK) (699.64 KB - PDF)
+slovenčina (SK) (723.51 KB - PDF)
 
-**First published:**
-
-13/10/2017
-
-**Last updated:**
-
-22/01/2026
+**First published:** 13/10/2017 **Last updated:** 21/05/2026
 
 [View](/sk/documents/product-information/bavencio-epar-product-information_sk.pdf)
 
-slovenščina (SL) (698.21 KB - PDF)
+slovenščina (SL) (706.16 KB - PDF)
 
-**First published:**
-
-13/10/2017
-
-**Last updated:**
-
-22/01/2026
+**First published:** 13/10/2017 **Last updated:** 21/05/2026
 
 [View](/sl/documents/product-information/bavencio-epar-product-information_sl.pdf)
 
-Suomi (FI) (605.99 KB - PDF)
+Suomi (FI) (615.98 KB - PDF)
 
-**First published:**
-
-13/10/2017
-
-**Last updated:**
-
-22/01/2026
+**First published:** 13/10/2017 **Last updated:** 21/05/2026
 
 [View](/fi/documents/product-information/bavencio-epar-product-information_fi.pdf)
 
-svenska (SV) (823.17 KB - PDF)
+svenska (SV) (653.08 KB - PDF)
 
-**First published:**
-
-13/10/2017
-
-**Last updated:**
-
-22/01/2026
+**First published:** 13/10/2017 **Last updated:** 21/05/2026
 
 [View](/sv/documents/product-information/bavencio-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000279701 27/11/2025
+**Latest procedure affecting product information:** VR/0000314741
+
+10/04/2026
 
 icon globe
 
@@ -732,305 +454,173 @@ Bavencio : EPAR - All Authorised presentations
 
 English (EN) (11.79 KB - PDF)
 
-**First published:** 13/10/2017
-
-**Last updated:** 13/10/2017
+**First published:** 13/10/2017 **Last updated:** 13/10/2017
 
 [View](/en/documents/all-authorised-presentations/bavencio-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-35)
+[Other languages (24)](#file-language-dropdown-805)
 
 български (BG) (33.15 KB - PDF)
 
-**First published:**
-
-13/10/2017
-
-**Last updated:**
-
-13/10/2017
+**First published:** 13/10/2017 **Last updated:** 13/10/2017
 
 [View](/bg/documents/all-authorised-presentations/bavencio-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (11.2 KB - PDF)
 
-**First published:**
-
-13/10/2017
-
-**Last updated:**
-
-13/10/2017
+**First published:** 13/10/2017 **Last updated:** 13/10/2017
 
 [View](/es/documents/all-authorised-presentations/bavencio-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (30.2 KB - PDF)
 
-**First published:**
-
-13/10/2017
-
-**Last updated:**
-
-13/10/2017
+**First published:** 13/10/2017 **Last updated:** 13/10/2017
 
 [View](/cs/documents/all-authorised-presentations/bavencio-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (11 KB - PDF)
 
-**First published:**
-
-13/10/2017
-
-**Last updated:**
-
-13/10/2017
+**First published:** 13/10/2017 **Last updated:** 13/10/2017
 
 [View](/da/documents/all-authorised-presentations/bavencio-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (11.08 KB - PDF)
 
-**First published:**
-
-13/10/2017
-
-**Last updated:**
-
-13/10/2017
+**First published:** 13/10/2017 **Last updated:** 13/10/2017
 
 [View](/de/documents/all-authorised-presentations/bavencio-epar-all-authorised-presentations_de.pdf)
 
 eesti keel (ET) (11.03 KB - PDF)
 
-**First published:**
-
-13/10/2017
-
-**Last updated:**
-
-13/10/2017
+**First published:** 13/10/2017 **Last updated:** 13/10/2017
 
 [View](/et/documents/all-authorised-presentations/bavencio-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (34.58 KB - PDF)
 
-**First published:**
-
-13/10/2017
-
-**Last updated:**
-
-13/10/2017
+**First published:** 13/10/2017 **Last updated:** 13/10/2017
 
 [View](/el/documents/all-authorised-presentations/bavencio-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (11.06 KB - PDF)
 
-**First published:**
-
-13/10/2017
-
-**Last updated:**
-
-13/10/2017
+**First published:** 13/10/2017 **Last updated:** 13/10/2017
 
 [View](/fr/documents/all-authorised-presentations/bavencio-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (28.55 KB - PDF)
 
-**First published:**
-
-13/10/2017
-
-**Last updated:**
-
-13/10/2017
+**First published:** 13/10/2017 **Last updated:** 13/10/2017
 
 [View](/hr/documents/all-authorised-presentations/bavencio-epar-all-authorised-presentations_hr.pdf)
 
 íslenska (IS) (10.99 KB - PDF)
 
-**First published:**
-
-13/10/2017
-
-**Last updated:**
-
-13/10/2017
+**First published:** 13/10/2017 **Last updated:** 13/10/2017
 
 [View](/is/documents/all-authorised-presentations/bavencio-epar-all-authorised-presentations_is.pdf)
 
 italiano (IT) (11.12 KB - PDF)
 
-**First published:**
-
-13/10/2017
-
-**Last updated:**
-
-13/10/2017
+**First published:** 13/10/2017 **Last updated:** 13/10/2017
 
 [View](/it/documents/all-authorised-presentations/bavencio-epar-all-authorised-presentations_it.pdf)
 
 latviešu valoda (LV) (60.9 KB - PDF)
 
-**First published:**
-
-13/10/2017
-
-**Last updated:**
-
-13/10/2017
+**First published:** 13/10/2017 **Last updated:** 13/10/2017
 
 [View](/lv/documents/all-authorised-presentations/bavencio-epar-all-authorised-presentations_lv.pdf)
 
 lietuvių kalba (LT) (28.2 KB - PDF)
 
-**First published:**
-
-13/10/2017
-
-**Last updated:**
-
-13/10/2017
+**First published:** 13/10/2017 **Last updated:** 13/10/2017
 
 [View](/lt/documents/all-authorised-presentations/bavencio-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (18.97 KB - PDF)
 
-**First published:**
-
-13/10/2017
-
-**Last updated:**
-
-13/10/2017
+**First published:** 13/10/2017 **Last updated:** 13/10/2017
 
 [View](/hu/documents/all-authorised-presentations/bavencio-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (32.38 KB - PDF)
 
-**First published:**
-
-13/10/2017
-
-**Last updated:**
-
-13/10/2017
+**First published:** 13/10/2017 **Last updated:** 13/10/2017
 
 [View](/mt/documents/all-authorised-presentations/bavencio-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (11.12 KB - PDF)
 
-**First published:**
-
-13/10/2017
-
-**Last updated:**
-
-13/10/2017
+**First published:** 13/10/2017 **Last updated:** 13/10/2017
 
 [View](/nl/documents/all-authorised-presentations/bavencio-epar-all-authorised-presentations_nl.pdf)
 
 norsk (NO) (11.1 KB - PDF)
 
-**First published:**
-
-13/10/2017
-
-**Last updated:**
-
-13/10/2017
+**First published:** 13/10/2017 **Last updated:** 13/10/2017
 
 [View](/no/documents/all-authorised-presentations/bavencio-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (32.12 KB - PDF)
 
-**First published:**
-
-13/10/2017
-
-**Last updated:**
-
-13/10/2017
+**First published:** 13/10/2017 **Last updated:** 13/10/2017
 
 [View](/pl/documents/all-authorised-presentations/bavencio-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (11.16 KB - PDF)
 
-**First published:**
-
-13/10/2017
-
-**Last updated:**
-
-13/10/2017
+**First published:** 13/10/2017 **Last updated:** 13/10/2017
 
 [View](/pt/documents/all-authorised-presentations/bavencio-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (30.33 KB - PDF)
 
-**First published:**
-
-13/10/2017
-
-**Last updated:**
-
-13/10/2017
+**First published:** 13/10/2017 **Last updated:** 13/10/2017
 
 [View](/ro/documents/all-authorised-presentations/bavencio-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (74 KB - PDF)
 
-**First published:**
-
-13/10/2017
-
-**Last updated:**
-
-13/10/2017
+**First published:** 13/10/2017 **Last updated:** 13/10/2017
 
 [View](/sk/documents/all-authorised-presentations/bavencio-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (18.67 KB - PDF)
 
-**First published:**
-
-13/10/2017
-
-**Last updated:**
-
-13/10/2017
+**First published:** 13/10/2017 **Last updated:** 13/10/2017
 
 [View](/sl/documents/all-authorised-presentations/bavencio-epar-all-authorised-presentations_sl.pdf)
 
 Suomi (FI) (11.24 KB - PDF)
 
-**First published:**
-
-13/10/2017
-
-**Last updated:**
-
-13/10/2017
+**First published:** 13/10/2017 **Last updated:** 13/10/2017
 
 [View](/fi/documents/all-authorised-presentations/bavencio-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (11.08 KB - PDF)
 
-**First published:**
-
-13/10/2017
-
-**Last updated:**
-
-13/10/2017
+**First published:** 13/10/2017 **Last updated:** 13/10/2017
 
 [View](/sv/documents/all-authorised-presentations/bavencio-epar-all-authorised-presentations_sv.pdf)
 
 ## Product details
 
-Name of medicine Bavencio Active substance avelumab International non-proprietary name (INN) or common name avelumab Therapeutic area (MeSH) Neuroendocrine Tumors Anatomical therapeutic chemical (ATC) code L01FF04
+Name of medicine
+
+Bavencio
+
+International non-proprietary name (INN) or common name
+
+avelumab
+
+Therapeutic area (MeSH)
+
+Neuroendocrine Tumors
+
+Anatomical therapeutic chemical (ATC) code
+
+L01FF04
 
 ### Pharmacotherapeutic group
 
@@ -1047,13 +637,27 @@ Bavencio is indicated as monotherapy for the first?line maintenance treatment of
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/004338 Marketing authorisation holder
+EMA product number
+
+EMEA/H/C/004338
+
+Marketing authorisation holder
 
 Merck Europe B.V.
 
 Gustav Mahlerplein 102
 
-Opinion adopted 20/07/2017 Marketing authorisation issued 18/09/2017 Revision 22
+Opinion adopted
+
+20/07/2017
+
+Marketing authorisation issued
+
+18/09/2017
+
+Revision
+
+23
 
 ## Assessment history
 
@@ -1065,9 +669,9 @@ Collapse section
 
 Bavencio : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (164.06 KB - PDF)
+English (EN) (172.67 KB - PDF)
 
-**First published:** 22/01/2026
+**First published:** 22/01/2026 **Last updated:** 21/05/2026
 
 [View](/en/documents/procedural-steps-after/bavencio-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1075,17 +679,13 @@ Bavencio : EPAR - Procedural steps taken and scientific information after author
 
 English (EN) (248.62 KB - PDF)
 
-**First published:** 17/01/2018
-
-**Last updated:** 22/01/2026
+**First published:** 17/01/2018 **Last updated:** 22/01/2026
 
 [View](/en/documents/procedural-steps-after/bavencio-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 Bavencio-H-C-PSUSA-00010635-202303 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
 
-Adopted
-
-Reference Number: EMA/12383/2024
+Adopted Reference Number: EMA/12383/2024
 
 English (EN) (103.94 KB - PDF)
 
@@ -1095,9 +695,7 @@ English (EN) (103.94 KB - PDF)
 
 Bavencio-H-C-004338-P46-009 : EPAR - Assessment report
 
-Adopted
-
-Reference Number: EMA/155892/2022
+Adopted Reference Number: EMA/155892/2022
 
 English (EN) (671.56 KB - PDF)
 
@@ -1117,9 +715,7 @@ English (EN) (124.2 KB - PDF)
 
 Bavencio-H-C-004338-II-0018 : EPAR - Assessment report - Variation
 
-Adopted
-
-Reference Number: EMA/CHMP/3166/2021
+Adopted Reference Number: EMA/CHMP/3166/2021
 
 English (EN) (7.4 MB - PDF)
 
@@ -1129,9 +725,7 @@ English (EN) (7.4 MB - PDF)
 
 CHMP post-authorisation summary of positive opinion for Bavencio (II-18)
 
-Adopted
-
-Reference Number: EMA/CHMP/627792/2020
+Adopted Reference Number: EMA/CHMP/627792/2020
 
 English (EN) (128.1 KB - PDF)
 
@@ -1141,9 +735,7 @@ English (EN) (128.1 KB - PDF)
 
 Bavencio-H-C-004338-II-0013 : EPAR - Assessment report - Variation
 
-Adopted
-
-Reference Number: EMA/CHMP/333708/2020
+Adopted Reference Number: EMA/CHMP/333708/2020
 
 English (EN) (938.01 KB - PDF)
 
@@ -1161,9 +753,7 @@ English (EN) (5.64 MB - PDF)
 
 CHMP post-authorisation summary of positive opinion for Bavencio (II-09)
 
-Adopted
-
-Reference Number: EMA/CHMP/473440/2019
+Adopted Reference Number: EMA/CHMP/473440/2019
 
 English (EN) (114.8 KB - PDF)
 
@@ -1173,9 +763,7 @@ English (EN) (114.8 KB - PDF)
 
 Bavencio-H-C-PSUSA-00010635-201809 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
 
-Adopted
-
-Reference Number: EMA/CHMP/357412/2019
+Adopted Reference Number: EMA/CHMP/357412/2019
 
 English (EN) (112.11 KB - PDF)
 
@@ -1187,15 +775,11 @@ English (EN) (112.11 KB - PDF)
 
 Bavencio : EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/496529/2017
+Adopted Reference Number: EMA/496529/2017
 
 English (EN) (4.54 MB - PDF)
 
-**First published:** 13/10/2017
-
-**Last updated:** 13/10/2017
+**First published:** 13/10/2017 **Last updated:** 13/10/2017
 
 [View](/en/documents/assessment-report/bavencio-epar-public-assessment-report_en.pdf)
 
@@ -1205,34 +789,39 @@ Reference Number: EMA/CHMP/426201/2017
 
 English (EN) (61.97 KB - PDF)
 
-**First published:** 21/07/2017
-
-**Last updated:** 21/07/2017
+**First published:** 21/07/2017 **Last updated:** 21/07/2017
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-bavencio_en.pdf)
 
-#### News on Bavencio
+## News on Bavencio
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 7-10 December 2020](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-7-10-december-2020) 11/12/2020
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 7-10 December 2020](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-7-10-december-2020)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 16-19 September 2019](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-16-19-september-2019) 20/09/2019
+11/12/2020
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 17-20 July 2017](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-17-20-july-2017) 21/07/2017
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 16-19 September 2019](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-16-19-september-2019)
 
-#### Related content
+20/09/2019
+
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 17-20 July 2017](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-17-20-july-2017)
+
+21/07/2017
+
+## Related content
 
 This product is no longer an orphan medicine. It was originally designated an [orphan medicine (EU/3/15/1590)](/en/medicines/human/orphan-designations/eu-3-15-1590) on 14 December 2015. Bavencio was withdrawn from the Community register of orphan medicinal products in October 2019 upon request of the marketing authorisation holder.
 
-#### More information on Bavencio
+## More information on Bavencio
 
 - [EMEA-001849-PIP02-15-M05 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001849-pip02-15-m05)
+- [MS100070\\_0031: Non-interventional cohort registry study to assess characteristics and management of patients with Merkel Cell Carcinoma in Germany (MCC-TRIM) - post-authorisation study](https://catalogues.ema.europa.eu/study/34181)
 
-#### Topics
+## Topics
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 22/01/2026
+**This page was last updated on**
+
+21/05/2026
 
 ## Share this page
-
-[Back to top](#main-content)

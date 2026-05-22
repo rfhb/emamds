@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-03-23 16:35:00
+document_datetime: 2026-05-19 12:10:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/arexvy.html
 document_name: arexvy.html
 version: success
-processing_time: 0.1180031
-conversion_datetime: 2026-03-29 12:49:10.014749
+processing_time: 0.1292385
+conversion_datetime: 2026-05-22 22:39:24.679827
 docling_version:
-  docling-serve: 1.15.1
-  docling-jobkit: 1.14.0
-  docling: 2.82.0
-  docling-core: 2.70.2
-  docling-ibm-models: 3.13.0
-  docling-parse: 5.6.1
+  docling-serve: 1.20.0
+  docling-jobkit: 1.20.0
+  docling: 2.95.0
+  docling-core: 2.77.0
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.11.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
 ---
 # Arexvy
 
@@ -107,7 +107,7 @@ English (EN) (127.15 KB - PDF)
 
 [View](/en/documents/overview/arexvy-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-595)
+[Other languages (22)](#file-language-dropdown-913)
 
 български (BG) (155.11 KB - PDF)
 
@@ -253,161 +253,161 @@ English (EN) (708.22 KB - PDF)
 
 Arexvy : EPAR - Product Information
 
-English (EN) (464.47 KB - PDF)
+English (EN) (554.76 KB - PDF)
 
-**First published:** 16/06/2023 **Last updated:** 23/03/2026
+**First published:** 16/06/2023 **Last updated:** 19/05/2026
 
 [View](/en/documents/product-information/arexvy-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-37)
+[Other languages (24)](#file-language-dropdown-244)
 
-български (BG) (608.26 KB - PDF)
+български (BG) (723.02 KB - PDF)
 
-**First published:** 16/06/2023 **Last updated:** 23/03/2026
+**First published:** 16/06/2023 **Last updated:** 19/05/2026
 
 [View](/bg/documents/product-information/arexvy-epar-product-information_bg.pdf)
 
-español (ES) (572.88 KB - PDF)
+español (ES) (669.92 KB - PDF)
 
-**First published:** 16/06/2023 **Last updated:** 23/03/2026
+**First published:** 16/06/2023 **Last updated:** 19/05/2026
 
 [View](/es/documents/product-information/arexvy-epar-product-information_es.pdf)
 
-čeština (CS) (497.22 KB - PDF)
+čeština (CS) (660.07 KB - PDF)
 
-**First published:** 16/06/2023 **Last updated:** 23/03/2026
+**First published:** 16/06/2023 **Last updated:** 19/05/2026
 
 [View](/cs/documents/product-information/arexvy-epar-product-information_cs.pdf)
 
-dansk (DA) (475.75 KB - PDF)
+dansk (DA) (572.75 KB - PDF)
 
-**First published:** 16/06/2023 **Last updated:** 23/03/2026
+**First published:** 16/06/2023 **Last updated:** 19/05/2026
 
 [View](/da/documents/product-information/arexvy-epar-product-information_da.pdf)
 
-Deutsch (DE) (537.99 KB - PDF)
+Deutsch (DE) (699.09 KB - PDF)
 
-**First published:** 16/06/2023 **Last updated:** 23/03/2026
+**First published:** 16/06/2023 **Last updated:** 19/05/2026
 
 [View](/de/documents/product-information/arexvy-epar-product-information_de.pdf)
 
-eesti keel (ET) (465.63 KB - PDF)
+eesti keel (ET) (567.78 KB - PDF)
 
-**First published:** 16/06/2023 **Last updated:** 23/03/2026
+**First published:** 16/06/2023 **Last updated:** 19/05/2026
 
 [View](/et/documents/product-information/arexvy-epar-product-information_et.pdf)
 
-ελληνικά (EL) (571.94 KB - PDF)
+ελληνικά (EL) (744.84 KB - PDF)
 
-**First published:** 16/06/2023 **Last updated:** 23/03/2026
+**First published:** 16/06/2023 **Last updated:** 19/05/2026
 
 [View](/el/documents/product-information/arexvy-epar-product-information_el.pdf)
 
-français (FR) (461.73 KB - PDF)
+français (FR) (669.87 KB - PDF)
 
-**First published:** 16/06/2023 **Last updated:** 23/03/2026
+**First published:** 16/06/2023 **Last updated:** 19/05/2026
 
 [View](/fr/documents/product-information/arexvy-epar-product-information_fr.pdf)
 
-hrvatski (HR) (450.49 KB - PDF)
+hrvatski (HR) (548.54 KB - PDF)
 
-**First published:** 16/06/2023 **Last updated:** 23/03/2026
+**First published:** 16/06/2023 **Last updated:** 19/05/2026
 
 [View](/hr/documents/product-information/arexvy-epar-product-information_hr.pdf)
 
-íslenska (IS) (518.9 KB - PDF)
+íslenska (IS) (617.67 KB - PDF)
 
-**First published:** 16/06/2023 **Last updated:** 23/03/2026
+**First published:** 16/06/2023 **Last updated:** 19/05/2026
 
 [View](/is/documents/product-information/arexvy-epar-product-information_is.pdf)
 
-italiano (IT) (520.21 KB - PDF)
+italiano (IT) (786.44 KB - PDF)
 
-**First published:** 16/06/2023 **Last updated:** 23/03/2026
+**First published:** 16/06/2023 **Last updated:** 19/05/2026
 
 [View](/it/documents/product-information/arexvy-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (638.22 KB - PDF)
+latviešu valoda (LV) (612.39 KB - PDF)
 
-**First published:** 16/06/2023 **Last updated:** 23/03/2026
+**First published:** 16/06/2023 **Last updated:** 19/05/2026
 
 [View](/lv/documents/product-information/arexvy-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (552.8 KB - PDF)
+lietuvių kalba (LT) (652.29 KB - PDF)
 
-**First published:** 16/06/2023 **Last updated:** 23/03/2026
+**First published:** 16/06/2023 **Last updated:** 19/05/2026
 
 [View](/lt/documents/product-information/arexvy-epar-product-information_lt.pdf)
 
-magyar (HU) (680.77 KB - PDF)
+magyar (HU) (660.01 KB - PDF)
 
-**First published:** 16/06/2023 **Last updated:** 23/03/2026
+**First published:** 16/06/2023 **Last updated:** 19/05/2026
 
 [View](/hu/documents/product-information/arexvy-epar-product-information_hu.pdf)
 
-Malti (MT) (580.18 KB - PDF)
+Malti (MT) (807.3 KB - PDF)
 
-**First published:** 16/06/2023 **Last updated:** 23/03/2026
+**First published:** 16/06/2023 **Last updated:** 19/05/2026
 
 [View](/mt/documents/product-information/arexvy-epar-product-information_mt.pdf)
 
-Nederlands (NL) (533.01 KB - PDF)
+Nederlands (NL) (638.76 KB - PDF)
 
-**First published:** 16/06/2023 **Last updated:** 23/03/2026
+**First published:** 16/06/2023 **Last updated:** 19/05/2026
 
 [View](/nl/documents/product-information/arexvy-epar-product-information_nl.pdf)
 
-norsk (NO) (446.78 KB - PDF)
+norsk (NO) (652.53 KB - PDF)
 
-**First published:** 16/06/2023 **Last updated:** 23/03/2026
+**First published:** 16/06/2023 **Last updated:** 19/05/2026
 
 [View](/no/documents/product-information/arexvy-epar-product-information_no.pdf)
 
-polski (PL) (591.86 KB - PDF)
+polski (PL) (695.16 KB - PDF)
 
-**First published:** 16/06/2023 **Last updated:** 23/03/2026
+**First published:** 16/06/2023 **Last updated:** 19/05/2026
 
 [View](/pl/documents/product-information/arexvy-epar-product-information_pl.pdf)
 
-português (PT) (549.83 KB - PDF)
+português (PT) (600.26 KB - PDF)
 
-**First published:** 16/06/2023 **Last updated:** 23/03/2026
+**First published:** 16/06/2023 **Last updated:** 19/05/2026
 
 [View](/pt/documents/product-information/arexvy-epar-product-information_pt.pdf)
 
-română (RO) (599.2 KB - PDF)
+română (RO) (726.62 KB - PDF)
 
-**First published:** 16/06/2023 **Last updated:** 23/03/2026
+**First published:** 16/06/2023 **Last updated:** 19/05/2026
 
 [View](/ro/documents/product-information/arexvy-epar-product-information_ro.pdf)
 
-slovenčina (SK) (640.31 KB - PDF)
+slovenčina (SK) (665.73 KB - PDF)
 
-**First published:** 16/06/2023 **Last updated:** 23/03/2026
+**First published:** 16/06/2023 **Last updated:** 19/05/2026
 
 [View](/sk/documents/product-information/arexvy-epar-product-information_sk.pdf)
 
-slovenščina (SL) (533.45 KB - PDF)
+slovenščina (SL) (655.21 KB - PDF)
 
-**First published:** 16/06/2023 **Last updated:** 23/03/2026
+**First published:** 16/06/2023 **Last updated:** 19/05/2026
 
 [View](/sl/documents/product-information/arexvy-epar-product-information_sl.pdf)
 
-Suomi (FI) (464.4 KB - PDF)
+Suomi (FI) (586.96 KB - PDF)
 
-**First published:** 16/06/2023 **Last updated:** 23/03/2026
+**First published:** 16/06/2023 **Last updated:** 19/05/2026
 
 [View](/fi/documents/product-information/arexvy-epar-product-information_fi.pdf)
 
-svenska (SV) (451.68 KB - PDF)
+svenska (SV) (667.68 KB - PDF)
 
-**First published:** 16/06/2023 **Last updated:** 23/03/2026
+**First published:** 16/06/2023 **Last updated:** 19/05/2026
 
 [View](/sv/documents/product-information/arexvy-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** EMA/VR/0000301721
+**Latest procedure affecting product information:** VR/0000309343
 
-19/02/2026
+16/04/2026
 
 icon globe
 
@@ -425,155 +425,155 @@ Product information documents contain:
 
 Arexvy : EPAR - All authorised presentations
 
-English (EN) (49.46 KB - PDF)
+English (EN) (66.02 KB - PDF)
 
-**First published:** 16/06/2023
+**First published:** 16/06/2023 **Last updated:** 19/05/2026
 
 [View](/en/documents/all-authorised-presentations/arexvy-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-410)
+[Other languages (24)](#file-language-dropdown-409)
 
-български (BG) (68.36 KB - PDF)
+български (BG) (77.74 KB - PDF)
 
-**First published:** 16/06/2023
+**First published:** 16/06/2023 **Last updated:** 19/05/2026
 
 [View](/bg/documents/all-authorised-presentations/arexvy-epar-all-authorised-presentations_bg.pdf)
 
-español (ES) (50.61 KB - PDF)
+español (ES) (56.86 KB - PDF)
 
-**First published:** 16/06/2023
+**First published:** 16/06/2023 **Last updated:** 19/05/2026
 
 [View](/es/documents/all-authorised-presentations/arexvy-epar-all-authorised-presentations_es.pdf)
 
-čeština (CS) (80.24 KB - PDF)
+čeština (CS) (87.74 KB - PDF)
 
-**First published:** 16/06/2023
+**First published:** 16/06/2023 **Last updated:** 19/05/2026
 
 [View](/cs/documents/all-authorised-presentations/arexvy-epar-all-authorised-presentations_cs.pdf)
 
-dansk (DA) (47.87 KB - PDF)
+dansk (DA) (55.53 KB - PDF)
 
-**First published:** 16/06/2023
+**First published:** 16/06/2023 **Last updated:** 19/05/2026
 
 [View](/da/documents/all-authorised-presentations/arexvy-epar-all-authorised-presentations_da.pdf)
 
-Deutsch (DE) (49.09 KB - PDF)
+Deutsch (DE) (58.67 KB - PDF)
 
-**First published:** 16/06/2023
+**First published:** 16/06/2023 **Last updated:** 19/05/2026
 
 [View](/de/documents/all-authorised-presentations/arexvy-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (59.9 KB - PDF)
+eesti keel (ET) (65.6 KB - PDF)
 
-**First published:** 16/06/2023
+**First published:** 16/06/2023 **Last updated:** 19/05/2026
 
 [View](/et/documents/all-authorised-presentations/arexvy-epar-all-authorised-presentations_et.pdf)
 
-ελληνικά (EL) (81.58 KB - PDF)
+ελληνικά (EL) (92.84 KB - PDF)
 
-**First published:** 16/06/2023
+**First published:** 16/06/2023 **Last updated:** 19/05/2026
 
 [View](/el/documents/all-authorised-presentations/arexvy-epar-all-authorised-presentations_el.pdf)
 
-français (FR) (58.2 KB - PDF)
+français (FR) (64.05 KB - PDF)
 
-**First published:** 16/06/2023
+**First published:** 16/06/2023 **Last updated:** 19/05/2026
 
 [View](/fr/documents/all-authorised-presentations/arexvy-epar-all-authorised-presentations_fr.pdf)
 
-hrvatski (HR) (80.83 KB - PDF)
+hrvatski (HR) (86.73 KB - PDF)
 
-**First published:** 16/06/2023
+**First published:** 16/06/2023 **Last updated:** 19/05/2026
 
 [View](/hr/documents/all-authorised-presentations/arexvy-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (49.64 KB - PDF)
+íslenska (IS) (62.28 KB - PDF)
 
-**First published:** 16/06/2023
+**First published:** 16/06/2023 **Last updated:** 19/05/2026
 
 [View](/is/documents/all-authorised-presentations/arexvy-epar-all-authorised-presentations_is.pdf)
 
-italiano (IT) (48.44 KB - PDF)
+italiano (IT) (58.61 KB - PDF)
 
-**First published:** 16/06/2023
+**First published:** 16/06/2023 **Last updated:** 19/05/2026
 
 [View](/it/documents/all-authorised-presentations/arexvy-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (71.63 KB - PDF)
+latviešu valoda (LV) (88.74 KB - PDF)
 
-**First published:** 16/06/2023
+**First published:** 16/06/2023 **Last updated:** 19/05/2026
 
 [View](/lv/documents/all-authorised-presentations/arexvy-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (82.81 KB - PDF)
+lietuvių kalba (LT) (90.09 KB - PDF)
 
-**First published:** 16/06/2023
+**First published:** 16/06/2023 **Last updated:** 19/05/2026
 
 [View](/lt/documents/all-authorised-presentations/arexvy-epar-all-authorised-presentations_lt.pdf)
 
-magyar (HU) (82.31 KB - PDF)
+magyar (HU) (89.86 KB - PDF)
 
-**First published:** 16/06/2023
+**First published:** 16/06/2023 **Last updated:** 19/05/2026
 
 [View](/hu/documents/all-authorised-presentations/arexvy-epar-all-authorised-presentations_hu.pdf)
 
-Malti (MT) (83.43 KB - PDF)
+Malti (MT) (92.36 KB - PDF)
 
-**First published:** 16/06/2023
+**First published:** 16/06/2023 **Last updated:** 19/05/2026
 
 [View](/mt/documents/all-authorised-presentations/arexvy-epar-all-authorised-presentations_mt.pdf)
 
-Nederlands (NL) (49.08 KB - PDF)
+Nederlands (NL) (55.75 KB - PDF)
 
-**First published:** 16/06/2023
+**First published:** 16/06/2023 **Last updated:** 19/05/2026
 
 [View](/nl/documents/all-authorised-presentations/arexvy-epar-all-authorised-presentations_nl.pdf)
 
-norsk (NO) (67.46 KB - PDF)
+norsk (NO) (63.9 KB - PDF)
 
-**First published:** 16/06/2023
+**First published:** 16/06/2023 **Last updated:** 19/05/2026
 
 [View](/no/documents/all-authorised-presentations/arexvy-epar-all-authorised-presentations_no.pdf)
 
-polski (PL) (75.1 KB - PDF)
+polski (PL) (80.9 KB - PDF)
 
-**First published:** 16/06/2023
+**First published:** 16/06/2023 **Last updated:** 19/05/2026
 
 [View](/pl/documents/all-authorised-presentations/arexvy-epar-all-authorised-presentations_pl.pdf)
 
-português (PT) (61.68 KB - PDF)
+português (PT) (68.55 KB - PDF)
 
-**First published:** 16/06/2023
+**First published:** 16/06/2023 **Last updated:** 19/05/2026
 
 [View](/pt/documents/all-authorised-presentations/arexvy-epar-all-authorised-presentations_pt.pdf)
 
-română (RO) (76.48 KB - PDF)
+română (RO) (93.99 KB - PDF)
 
-**First published:** 16/06/2023
+**First published:** 16/06/2023 **Last updated:** 19/05/2026
 
 [View](/ro/documents/all-authorised-presentations/arexvy-epar-all-authorised-presentations_ro.pdf)
 
-slovenčina (SK) (68.77 KB - PDF)
+slovenčina (SK) (77.24 KB - PDF)
 
-**First published:** 16/06/2023
+**First published:** 16/06/2023 **Last updated:** 19/05/2026
 
 [View](/sk/documents/all-authorised-presentations/arexvy-epar-all-authorised-presentations_sk.pdf)
 
-slovenščina (SL) (67.64 KB - PDF)
+slovenščina (SL) (91.26 KB - PDF)
 
-**First published:** 16/06/2023
+**First published:** 16/06/2023 **Last updated:** 19/05/2026
 
 [View](/sl/documents/all-authorised-presentations/arexvy-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (60.03 KB - PDF)
+Suomi (FI) (65.66 KB - PDF)
 
-**First published:** 16/06/2023
+**First published:** 16/06/2023 **Last updated:** 19/05/2026
 
 [View](/fi/documents/all-authorised-presentations/arexvy-epar-all-authorised-presentations_fi.pdf)
 
-svenska (SV) (58.79 KB - PDF)
+svenska (SV) (65.73 KB - PDF)
 
-**First published:** 16/06/2023
+**First published:** 16/06/2023 **Last updated:** 19/05/2026
 
 [View](/sv/documents/all-authorised-presentations/arexvy-epar-all-authorised-presentations_sv.pdf)
 
@@ -625,7 +625,7 @@ Marketing authorisation issued
 
 Revision
 
-10
+11
 
 ## Assessment history
 
@@ -637,9 +637,9 @@ Collapse section
 
 Arexvy : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (205.24 KB - PDF)
+English (EN) (204.93 KB - PDF)
 
-**First published:** 10/09/2025 **Last updated:** 23/03/2026
+**First published:** 10/09/2025 **Last updated:** 19/05/2026
 
 [View](/en/documents/procedural-steps-after/arexvy-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -761,6 +761,6 @@ The approved product information for this medicine is available below showing th
 
 **This page was last updated on**
 
-23/03/2026
+19/05/2026
 
 ## Share this page

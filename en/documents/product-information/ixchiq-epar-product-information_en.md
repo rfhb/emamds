@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-09-24 14:32:22
+document_datetime: 2026-05-18 16:12:39
 document_pages: 32
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/ixchiq-epar-product-information_en.pdf
 document_name: ixchiq-epar-product-information_en.pdf
 version: success
-processing_time: 6.2123934
-conversion_datetime: 2025-12-31 04:19:31.641261
+processing_time: 12.3083855
+conversion_datetime: 2026-05-22 23:26:32.300939
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.20.0
+  docling-jobkit: 1.20.0
+  docling: 2.95.0
+  docling-core: 2.77.0
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.11.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -147,11 +147,9 @@ This medicine contains 25 mg Sorbitol in each 0.5 mL dose which is equivalent to
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
-## Concomitant administration with other vaccines
+Concomitant administration with other vaccines IXCHIQ is not recommended to be co-administered with other vaccines because there are no data on the safety and immunogenicity following concomitant administration of IXCHIQ with other vaccines.
 
 <div style=\"page-break-after: always\"></div>
-
-IXCHIQ is not recommended to be co-administered with other vaccines because there are no data on the safety and immunogenicity following concomitant administration of IXCHIQ with other vaccines.
 
 Administration of immune globulins, blood or plasma transfusions 3 months before or up to 1 month after IXCHIQ administration may interfere with the expected immune response.
 
@@ -215,7 +213,7 @@ The most common abnormal laboratory parameters were neutropenia (41.8%), leukope
 
 ## Adolescents 12 to &lt;18 years
 
-The most common abnormal laboratory parameters were neutropenia (40.2%), leukopenia (16.8%), and lymphopenia (11.6%) (based on an immunogenicity subset of 328 IXCHIQ recipients).
+The most common abnormal laboratory parameters were neutropenia (41.8%), leukopenia (17.7%), and lymphopenia ( 13 .1%) (based on an immunogenicity subset of 328 IXCHIQ recipients).
 
 ## Vaccine Viraemia and Shedding
 
@@ -225,9 +223,27 @@ Vaccine virus was demonstrated to be present in blood and urine and might be pre
 
 Adverse reactions are listed according to the following frequency categories:
 
-Very common: ( ≥ 1/10 ), Common: ( ≥ 1/100 to &lt; 1/10 ), Uncommon: ( ≥ 1/1 000 to &lt; 1/100), Rare: ( ≥ 1/10 000 to &lt; 1/1 000), Very rare: (&lt;1/10 000), Not known: (cannot be estimated from available data).
+Very common: (
+
+≥ 1/10 ),
+
+Common: (
+
+≥ 1/100 to &lt; 1/10 ),
+
+Uncommon: (
+
+≥ 1/1 000 to &lt; 1/100),
+
+Rare: (
+
+≥ 1/10 000 to &lt; 1/1 000),
+
+Very rare: (&lt;1/10 000),
 
 <div style=\"page-break-after: always\"></div>
+
+Not known: (cannot be estimated from available data).
 
 Within  each  frequency  grouping  the  adverse  reactions  are  presented  in  the  order  of  decreasing seriousness.
 
@@ -242,7 +258,7 @@ Table 1. Adverse reactions in individuals 12 years of age and older
 | Nervous system disorders                             | Common      | Dizziness b                                                                                   |
 | Nervous system disorders                             | Uncommon    | Paraesthesia , syncope                                                                        |
 | Nervous system disorders                             | Rare        | Confusional state                                                                             |
-| Nervous system disorders                             | Not known   | Encephalopathy, encephalitis, aseptic meningitis.                                             |
+| Nervous system disorders                             | Not known   | Encephalopathy, encephalitis, aseptic meningitis                                              |
 | Eye disorders                                        | Common      | Eye pain b                                                                                    |
 | Eye disorders                                        | Uncommon    | Conjunctival hyperaemia c                                                                     |
 | Ear and labyrinth disorders                          | Uncommon    | Tinnitus a                                                                                    |
@@ -262,11 +278,11 @@ Table 1. Adverse reactions in individuals 12 years of age and older
 
 ## Adults
 
-The occurrence of certain adverse event combinations, referred to as chikungunya-like adverse reactions, was retrospectively evaluated in the pooled safety data from phase I and III clinical studies (N=3 610). Chikungunya -like adverse reactions were broadl y defined, i.e. occurrence of fever (≥38°C) and at least one other symptom also reported for acute-stage chikungunya illness, including arthralgia or arthritis, myalgia, headache, back pain, rash, lymphadenopathy, and certain neurological, cardiac or
+The occurrence of certain adverse event combinations, referred to as chikungunya-like adverse reactions, was retrospectively evaluated in the pooled safety data from phase I and III clinical studies
 
 <div style=\"page-break-after: always\"></div>
 
-ocular symptoms; within 30 days after vaccination, regardless of time of onset, severity or duration of the individual symptoms.
+(N=3 610). Chikungunya -like adverse reactions were broadly defined, i.e. occurrence of fever (≥38°C) and at least one other symptom also reported for acute-stage chikungunya illness, including arthralgia or arthritis, myalgia, headache, back pain, rash, lymphadenopathy, and certain neurological, cardiac or ocular symptoms; within 30 days after vaccination, regardless of time of onset, severity or duration of the individual symptoms.
 
 Adverse event combinations qualifying as chikungunya-like adverse reactions were reported in 12.1% of participants. Among those, combinations of fever with headache, fatigue, myalgia or arthralgia were the most common, all other symptoms were reported in fewer than 10% of chikungunya-like adverse reactions. The reported symptoms were mostly mild, 1.8% of participants reported at least one severe symptom, most commonly fever or arthralgia. Median onset of chikungunya-like adverse reactions was 3 days after vaccination, and median time to resolution was 4 days. Longer-lasting symptoms ≥30 days occurred in 0.4% of participants.
 
@@ -276,7 +292,7 @@ The occurrence of chikungunya-like adverse reactions in adolescents (12 to &lt;1
 
 ## Baseline seropositive adolescents
 
-The  proportion  of  participants  that  experienced  chikungunya-like  adverse  reactions  was  higher  in baseline seronegative participants than in baseline seropositive participants vaccinated with IXCHIQ .
+The  proportion  of  participants  that  experienced  chikungunya-like  adverse  reactions  was  higher  in baseline seronegative participants than in baseline seropositive participants vaccinated with IXCHIQ.
 
 ## Reporting of suspected adverse reactions
 
@@ -290,7 +306,7 @@ No case of overdose has been reported in clinical studies.  In the event of over
 
 ## 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: Other viral vaccines, ATC code: Not yet assigned
+Pharmacotherapeutic group: Chikungunya vaccines, ATC code: J07B P01
 
 ## Mechanism of action
 
@@ -308,11 +324,11 @@ VLA1553 -301 was a placebo -controlled study assessing the immunogenicity and sa
 
 Humoral immune response was evaluated in 362 participants (266 in the IXCHIQ arm and 96 in the Placebo arm). All these participants were negative at baseline (pre -vaccination) for CHIKV neutralizing antibodies. The study population included 82 participants 65 years of age or above (59 and 23 in the IXCHIQ and Placebo arm).
 
-VLA1553 -321 was a placebo -controlled study assessing the immunogenicity and safety in generally healthy adolescents 12 to &lt;18 years of age. The study was conducted in Brazil which is an endemic country for chikungunya. Participants in this study were followed up to 6 months after immunization. The primary endpoint was similar as in study VLA1553 -301 .
+VLA1553 -321 was a placebo -controlled study assessing the immunogenicity and safety in generally healthy adolescents 12 to &lt;18 years of age. The study was conducted in Brazil which is an endemic country for chikungunya. Participants in this study were followed up to 6 months, and 12 months in a subset of adolescents after immunization. The primary endpoint was similar as in study VLA1553 -301 .
 
 Humoral immune response was evaluated in 351 participants (303 in the IXCHIQ arm and 48 in the p lacebo arm). 293 participants were negative, and 58 participants were positive at baseline (prevaccination) for CHIKV neutralizing antibodies.
 
-Antibody persistence is evaluated in study VLA1553 -303 (follow up of a subset of participants of study of VLA1553 -301). Data are available up to 2 years post-immunization. In study VLA1553 -321 a subset of adolescents 12 to &lt;18 years of age will be followed for up to 1 year post-immunization.
+Antibody persistence is evaluated in study VLA1553 -303 (follow up of a subset of participants of study of VLA1553 -301). Data are available up to 4 years post-immunization.
 
 ## Seroresponse rate
 
@@ -324,38 +340,40 @@ In the pivotal trial VLA1553 -301, 98.9% of the participants who were administer
 
 Table 2.  Seroresponse rates over time, as determined by µPRNT50 assay, in study VLA1553-301 (PP population)
 
-| Study                     | VLA1553-301   | VLA1553-301             |
-|---------------------------|---------------|-------------------------|
-| Treatment                 | Placebo       | IXCHIQ                  |
-|                           | N=96          | N=266                   |
-|                           | (n [95%CI])   | (n (%) [95%CI])         |
-| Baseline day 1            | 0 (0)         | 0 (0)                   |
-| 28 days post-vaccination  | 0 [0.0, 3.8]  | 263 (98.9) [96.7, 99.8] |
-| 6 months post-vaccination | 0 [0.0, 4.0]  | 233 (96.3) [93.1, 98.3] |
+| Study                     | VLA1553-301         | VLA1553-301                  |
+|---------------------------|---------------------|------------------------------|
+| Treatment                 | Placebo             | IXCHIQ                       |
+|                           | N=96                | N=266                        |
+|                           | n/N* (%) [95% CI]   | n/N* (%) [95% CI]            |
+| Baseline day 1            | 0/96 (0)            | 0/266 (0)                    |
+| 28 days post-vaccination  | 0/96 (0) [0.0, 3.8] | 263 /266 (98.9) [96.7, 99.8] |
+| 6 months post-vaccination | 0/91 (0) [0.0, 4.0] | 233 /242 (96.3) [93.1, 98.3] |
 
-Abbreviations: CI=confidence interval; µPRNT 50=50% micro plaque reduction neutralization test; PP=per -protocol (population)
+Abbreviations: CI=confidence interval; n= number of participants with seroresponse; N*=number of evaluable participants at the specified time point; µPRNT 50=50% micro plaque reduction neutralization test; PP=per -protocol (population)
 
 ## Adolescents 12 to &lt;18 years of age
 
-In the adolescent trial VLA1553 -321, 98.8% (248/251) of the CHIKV seronegative participants who were administered IXCHIQ presented CHIKVspecific neutralizing antibody titers ≥150 µPRNT50 at 28 days post-vaccination. This percentage was sustained up to 6 months post-vaccination (99.1% (232/234 ). 5.7% (n=14/245) of the CHIKV seronegative participants vaccinated with IXCHIQ had CHIKVspecific neutralizing antibody titers ≥150 µPRNT50 at Day 8. The vast majority of CHIKV seropositive participants (50/52) presented CHIKV-specific neutralizing antibody titers ≥150 µPRNT50 before vaccination with IXCHIQ. The percentages remained in the same range 28 days post-vaccination (52/52) and 6 months post-vaccination (45/46).
+In the adolescent trial VLA1553 -321, 98.8% (248/251) of the CHIKV seronegative participants who were administered IXCHIQ presented CHIKVspecific neutralizing antibody titers ≥150 µPRNT50 at 28 days post-vaccination. This percentage was sustained up to 12 months post-vaccination (98. 3 % (232/23 6). 5.7% (n=14/245) of the CHIKV seronegative participants vaccinated with IXCHIQ had CHIKVspecific neutralizing antibody titers ≥150 µPRNT50 at Day 8. The vast majority of CHIKV seropositive participants (50/52) presented CHIKV-specific neutralizing antibody titers ≥150 µPRNT50 before vaccination with IXCHIQ. The percentages remained in the same range 28 days post-vaccination (52/52) and 12 months post-vaccination (46/46).
 
 Table 3.  Seroresponse rates over time, as determined by µPRNT50 assay, in study VLA1553-321 (PP population)
 
-| Study                      | VLA1553-321          | VLA1553-321           | VLA1553-321             | VLA1553-321              |
-|----------------------------|----------------------|-----------------------|-------------------------|--------------------------|
-| Treatment                  | Placebo              |                       | IXCHIQ                  |                          |
-|                            | Seronegative N=42    | Seropositive N= 6     | Seronegative N=251      | Seropositive N=52        |
-| Baseline day 1             | 0 (0)                | 6 (100)               | 0 (0)                   | 50 (96.2)                |
-| 28 days post- vaccination  | 1 (2.4%) [0.1, 12.6] | 6 (100) [54.1, 100.0] | 248 (98.8) [96.5, 99.8] | 52 (100) [ 93.2 , 100.0] |
-| 6 months post- vaccination | 0 (0%) [0.0, 9.0]    | 6 (100) [54.1, 100.0] | 232 (99.1) [96.9, 99.9] | 45 (97.8) [88.5, 99.9]   |
+| Study                       | VLA1553-321            | VLA1553-321             | VLA1553-321                 | VLA1553-321                 |
+|-----------------------------|------------------------|-------------------------|-----------------------------|-----------------------------|
+| Treatment                   | Placebo                |                         | IXCHIQ                      |                             |
+|                             | Seronegative N=42      | Seropositive N= 6       | Seronegative N=251          | Seropositive N=52           |
+|                             | n/N* (%) [95% CI]      | n/N* (%) [95% CI]       | n/N* (%) [95% CI]           | n/N* (%) [95% CI]           |
+| Baseline day 1              | 0/42 (0)               | 6/6 (100)               | 0/250 (0)                   | 50/52 (96.2)                |
+| 28 days post- vaccination   | 1/42 (2.4) [0.1, 12.6] | 6/6 (100) [54.1, 100.0] | 248/251 (98.8) [96.5, 99.8] | 52/52 (100) [ 93.2 , 100.0] |
+| 6 months post- vaccination  | 0/42 (0) [0.0, 8.4]    | 6/6 (100) [54.1, 100.0] | 242/245 (98.8) [96.5, 99.7] | 51/52 (98.1) [89.7, 100.0]  |
+| 12 months post- vaccination | 0/41 (0) [0.0, 8.6]    | 4/4 (100) [39.8, 100.0] | 232/236 (98.3) [95.7, 99.5] | 46/46 (100) [92.3, 100.0]   |
 
-Abbreviations: CI=confidence interval; µPRNT 50=50% micro plaque reduction neutralization test; PP=per -protocol (population)
+Abbreviations: CI=confidence interval; n=number of participants with seroresponse; N*=number of evaluable participants at the specified time point; µPRNT 50=50% micro plaque reduction neutralization test; PP=per -protocol (population)
 
 ## Antibody persistence
 
-Persistence of the immune response was evaluated 12 and 24 months post -vaccination in VLA1553 -303. All the participants were negative at baseline (pre -vaccination) for CHIKV-specific neutralizing antibodies. Proportion of participants with a CHIKV -specific neutralizing antibody response ≥150 µPRNT50 was 99.5% (183/184) and 97.1% (268/276), respectively at 1 and 2 year post -vaccination.
-
 <div style=\"page-break-after: always\"></div>
+
+Persistence of the immune response was evaluated 12 , 24 , 36, and 48 months post-vaccination in VLA1553 -303. All the participants were negative at baseline (pre -vaccination) for CHIKV-specific neutralizing antibodies. Proportion of participants with a CHIKV -specific neutralizing antibody response ≥150 µPRNT50 was 99.5% (183/184) at 1 year, 97.1% (268/276) at 2 years, 96.3% (236/245) at 3 year s , and 95.2% (220/231) at 4 year s post-vaccination.
 
 ## Paediatric population
 
@@ -393,11 +411,11 @@ In the absence of compatibility studies, this medicinal product must not be mixe
 
 2 years.
 
+<div style=\"page-break-after: always\"></div>
+
 Do not freeze.
 
 ## After reconstitution
-
-<div style=\"page-break-after: always\"></div>
 
 In-use stability of the reconstituted vaccine has been demonstrated for 2 hours when stored either refrigerated at (2°C -8°C) or at room temperature (15°C -25°C).  After this time, the reconstituted vaccine must be discarded.
 
@@ -405,11 +423,7 @@ From a microbiological point of view, after first opening the vaccine should be 
 
 ## 6.4 Special precautions for storage
 
-Store in a refrigerator (2 °C 8 °C ).
-
-Do not freeze.
-
-Store in the original package in order to protect from light.
+Store in a refrigerator (2 °C 8 °C ). Do not freeze. Store in the original package in order to protect from light.
 
 Stability data indicate that the vaccine components are stable for 24 hours in unopened vials when stored at temperatures from 23°C to 27 °C. At the end of this period IXCHIQ should be used immediately or discarded. These data are intended to guide healthcare professionals in case of temporary temperature excursion only, it is not a recommended storage or shipping condition.
 
@@ -576,7 +590,7 @@ After reconstitution, 1 dose (0.5 mL) contains Chikungunya virus Δ5nsP3 strain 
 
 ## 3. LIST OF EXCIPIENTS
 
-Powder
+## Powder
 
 Sucrose
 
@@ -590,17 +604,19 @@ Magnesium Chloride
 
 DiPotassium -Hydrogen Phosphate
 
-Potassium -Di- HydrogenPhosphate recombinant Human Albumin (rHA)
+Potassium -Di- HydrogenPhosphate
+
+recombinant Human Albumin (rHA)
 
 Solvent
 
 Sterile water for injections
 
-See leaflet for further information.
+## See leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-Powder and solvent for solution for injection.
+## Powder and solvent for solution for injection.
 
 1 vial of powder
 
@@ -628,7 +644,9 @@ Discard reconstitued vaccine, if not used within 2 hours when kept refrigerated 
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-Store in a refrigerator. Store in the outer carton to protect from light. Do not freeze.
+Store in a refrigerator. Store in the outer carton to protect from light.
+
+Do not freeze.
 
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
@@ -842,7 +860,7 @@ If you have any further questions on the use of this vaccine, ask your doctor, p
 
 Like all medicines, this vaccine can cause side effects, although not everybody gets them.
 
-## Serious side effects
+Serious side effects
 
 Get urgent medical attention if you get symptoms of a severe allergic reaction. Such reactions may include a combination of any of the following symptoms:
 
@@ -955,7 +973,7 @@ The other ingredients are:
 
 Powder: Sucrose, D-Sorbitol, L-Methionine, Trisodium Citrate Di-Hydrate, Magnesium Chloride, DiP otassiumHydrogen Phosphate , Potassium -Di- HydrogenP hosphate and recombinant Human Albumin (rHA produced in yeast (Saccharomyces cerevisiae)).
 
-## Solvent: Sterile water for injections
+Solvent: Sterile water for injections
 
 <div style=\"page-break-after: always\"></div>
 

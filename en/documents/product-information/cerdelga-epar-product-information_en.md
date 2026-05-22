@@ -1,30 +1,26 @@
 ---
-document_datetime: 2025-05-16 15:21:39
-document_pages: 44
+document_datetime: 2026-05-20 10:19:24
+document_pages: 46
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/cerdelga-epar-product-information_en.pdf
 document_name: cerdelga-epar-product-information_en.pdf
 version: success
-processing_time: 14.8325474
-conversion_datetime: 2025-12-29 21:55:05.174821
+processing_time: 22.2338814
+conversion_datetime: 2026-05-22 23:31:47.821287
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.20.0
+  docling-jobkit: 1.20.0
+  docling: 2.95.0
+  docling-core: 2.77.0
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.11.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
 ## SUMMARY OF PRODUCT CHARACTERISTICS
 
 <div style=\"page-break-after: always\"></div>
-
-<!-- image -->
-
-This medicinal product is subject to additional monitoring. This will allow quick identification of new safety information. Healthcare professionals are asked to report any suspected adverse reactions. See section 4.8 for how to report adverse reactions.
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -36,15 +32,15 @@ Cerdelga 21 mg hard capsules Cerdelga 84 mg hard capsules
 
 Each capsule contains 21 mg of eliglustat (as tartrate).
 
-Excipient with known effect Each capsule contains 27 mg of lactose (as monohydrate).
+Excipient with known effect
+
+Each capsule contains 27 mg of lactose (as monohydrate).
 
 ## Cerdelga 84 mg hard capsule
 
 Each capsule contains 84.4 mg of eliglustat (as tartrate).
 
-Excipient with known effect
-
-Each capsule contains 106 mg of lactose (as monohydrate).
+Excipient with known effect Each capsule contains 106 mg of lactose (as monohydrate).
 
 For the full list of excipients, see section 6.1.
 
@@ -52,7 +48,7 @@ For the full list of excipients, see section 6.1.
 
 Hard capsule
 
-Cerdelga 21 mg hard capsule
+## Cerdelga 21 mg hard capsule
 
 Capsule with a pearl white opaque cap and pearl white opaque body with \"GZ04\" printed in black on the capsule. The size of the capsule is 'size 4' (dimensions 14 x 5 mm).
 
@@ -68,11 +64,11 @@ Capsule with pearl blue-green opaque cap and pearl white opaque body with 'GZ02'
 
 Cerdelga is indicated for the long-term treatment of adult patients with Gaucher disease type 1 (GD1), who are CYP2D6 poor metabolisers (PMs), intermediate metabolisers (IMs) or extensive metabolisers (EMs).
 
-Paediatric population (from 6 to &lt; 18 years of age) weighing ≥ 15 kg
-
-<div style=\"page-break-after: always\"></div>
+## Paediatric population (from 6 to &lt; 18 years of age) weighing ≥ 15 kg
 
 Cerdelga is indicated for paediatric patients with GD1 who are 6 years and older with a minimum body weight of 15 kg, who are stable on enzyme replacement therapy (ERT), and who are CYP2D6 PMs, IMs or EMs.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 4.2 Posology and method of administration
 
@@ -114,18 +110,20 @@ Patients with hepatic impairment
 
 Table 2: Patients with hepatic impairment
 
-| CYP2D6 metaboliser type   | Hepatic Impairment            | Inhibitors                                      | Dose adjustment                            |
-|---------------------------|-------------------------------|-------------------------------------------------|--------------------------------------------|
-| EM                        | Mild (Child-Pugh class A)     | Eliglustat alone                                | No dose adjustment required                |
-|                           | Moderate (Child-Pugh class B) | Eliglustat alone                                | Not recommended (see section 5.2)          |
-|                           | Severe (Child-Pugh class C)   | Eliglustat alone Eliglustat + Any CYP inhibitor | Contraindicated (see sections 4.3 and 5.2) |
+| CYP2D6 metaboliser type   | Hepatic Impairment                                         | Inhibitors                                          | Dose adjustment                            |
+|---------------------------|------------------------------------------------------------|-----------------------------------------------------|--------------------------------------------|
+| EM                        | Mild (Child-Pugh class A)                                  | Eliglustat alone                                    | No dose adjustment required                |
+| EM                        | Moderate (Child-Pugh class B)                              | Eliglustat alone                                    | Not recommended (see section 5.2)          |
+| EM                        | Severe (Child-Pugh class C)                                | Eliglustat alone Eliglustat + Any CYP inhibitor     | Contraindicated (see sections 4.3 and 5.2) |
+| EM                        | Mild (Child-Pugh class A) or moderate (Child-Pugh class B) | Eliglustat + strong or moderate inhibitor of CYP2D6 | Contraindicated (see sections 4.3 and 5.2) |
+| EM                        | Mild (Child-Pugh class A)                                  | Eliglustat + weak inhibitor of CYP2D6;              | Once daily dose should be considered       |
 
 <div style=\"page-break-after: always\"></div>
 
-| CYP2D6 metaboliser type   | Hepatic Impairment                                         | Inhibitors                                          | Dose adjustment                            |
-|---------------------------|------------------------------------------------------------|-----------------------------------------------------|--------------------------------------------|
-|                           | Mild (Child-Pugh class A) or moderate (Child-Pugh class B) | Eliglustat + strong or moderate inhibitor of CYP2D6 | Contraindicated (see sections 4.3 and 5.2) |
-| IM or PM                  | Any                                                        | N/A                                                 | Not recommended (see section 5.2)          |
+| CYP2D6 metaboliser type   | Hepatic Impairment   | Inhibitors                                  | Dose adjustment                   |
+|---------------------------|----------------------|---------------------------------------------|-----------------------------------|
+|                           |                      | or strong, moderate or weak inhibitor CYP3A | (see sections 4.4 and 5.2)        |
+| IM or PM                  | Any                  | N/A                                         | Not recommended (see section 5.2) |
 
 Patients with renal impairment
 
@@ -137,7 +135,7 @@ Table 3: Patients with renal impairment
 |                           | End stage renal disease (ESRD)    | Not recommended (see sections 4.4 and 5.2)             |
 | IM or PM                  | Mild, moderate or severe, or ESRD | Not recommended (see sections 4.4 and 5.2)             |
 
-## Paediatric population (&lt;6 years of age) weighing &lt;15 kg
+Paediatric population (&lt;6 years of age) weighing &lt;15 kg
 
 Safety and efficacy data of eliglustat are limited in paediatric patients below the age of 6 years. There are no data to support the use of eliglustat in children weighing less than 15 kg. Currently available data are described in section 5.1.
 
@@ -157,13 +155,13 @@ Cerdelga is contraindicated in patients who are CYP2D6 IMs or EMs taking a stron
 
 Cerdelga is contraindicated in CYP2D6 EMs with severe hepatic impairment and in CYP2D6 EMs with mild or moderate hepatic impairment taking a strong or moderate CYP2D6 inhibitor (see sections 4.2 and 5.2).
 
-<div style=\"page-break-after: always\"></div>
-
 ## 4.4 Special warnings and precautions for use
 
 ## Patients with pre-existing cardiac conditions
 
 Use of eliglustat in patients with pre-existing cardiac conditions has not been studied during clinical trials. Because eliglustat is predicted to cause mild increases in ECG intervals at substantially elevated plasma concentrations, use of eliglustat should be avoided in patients with cardiac disease (congestive heart failure, recent acute myocardial infarction, bradycardia, heart block, ventricular arrhythmia), long QT syndrome, and in combination with Class IA (e.g. quinidine) and Class III (e.g. amiodarone, sotalol) antiarrhythmic medicinal products.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Patients with hepatic impairment and concomitant use with other medicinal products
 
@@ -189,8 +187,6 @@ Eliglustat is metabolised primarily by CYP2D6 and to a lesser extent by CYP3A4. 
 
 The list of substances in section 4.5 is not an inclusive list and the prescriber is advised to consult the SmPC of all other prescribed medicinal products for potential drug-drug interactions with eliglustat.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Agents that may increase eliglustat exposure
 
 Cerdelga is contraindicated in patients who are CYP2D6 IMs or EMs taking a strong or moderate CYP2D6 inhibitor concomitantly with a strong or moderate CYP3A inhibitor, and in patients who are CYP2D6 PMs taking a strong CYP3A inhibitor (see section 4.3). Use of eliglustat under these conditions results in substantially elevated eliglustat plasma concentrations.
@@ -198,6 +194,8 @@ Cerdelga is contraindicated in patients who are CYP2D6 IMs or EMs taking a stron
 ## CYP2D6 inhibitors in IMs and EMs
 
 After repeated 84 mg twice daily doses of eliglustat in non-PMs, concomitant administration with repeated 30 mg once daily doses of paroxetine, a strong inhibitor of CYP2D6, resulted in a 7.3- and 8.9-fold increase in eliglustat Cmax and AUC0-12, respectively. Once a day dosing of eliglustat for EMs and IMs is recommended when a strong CYP2D6 inhibitor (e.g. paroxetine, fluoxetine, quinidine, bupropion) is used concomitantly in IMs and EMs.
+
+<div style=\"page-break-after: always\"></div>
 
 At 84 mg twice daily dosing with eliglustat in non-PMs, it is predicted that concomitant use of moderate CYP2D6 inhibitors (e.g., duloxetine, terbinafine, moclobemide, mirabegron, cinacalcet, dronedarone) would increase eliglustat exposure approximately up to 4-fold. Caution should be used with moderate CYP2D6 inhibitors in IMs and EMs.
 
@@ -211,7 +209,9 @@ After repeated 84 mg twice daily doses of eliglustat in non-PMs, concomitant adm
 
 At 84 mg twice daily dosing with eliglustat in non-PMs, it is predicted that concomitant use of moderate CYP3A inhibitors (e.g., erythromycin, ciprofloxacin, fluconazole, diltiazem, verapamil, aprepitant, atazanavir, darunavir, fosamprenavir, imatinib, cimetidine) would increase eliglustat exposure approximately up to 3-fold. Caution should be used with moderate CYP3A inhibitors in IMs and EMs.
 
-CYP3A inhibitors in EMs with mild hepatic impairment See sections 4.2 and 4.4.
+## CYP3A inhibitors in EMs with mild hepatic impairment
+
+See sections 4.2 and 4.4.
 
 CYP3A inhibitors in EMs with moderate or severe hepatic impairment See sections 4.2 and 4.3.
 
@@ -219,11 +219,7 @@ CYP3A inhibitors in EMs with moderate or severe hepatic impairment See sections 
 
 At 84 mg once daily dosing with eliglustat in PMs, it is predicted that concomitant use of strong CYP3A inhibitors (e.g., ketoconazole, clarithromycin, itraconazole, cobicistat, indinavir, lopinavir, ritonavir, saquinavir, telaprevir, tipranavir, posaconazole, voriconazole, telithromycin, conivaptan, boceprevir) would increase the Cmax and AUC0-24 of eliglustat 4.3- and 6.2-fold. The use of strong CYP3A inhibitors is contraindicated in PMs.
 
-At 84 mg once daily dosing with eliglustat in PMs, it is predicted that concomitant use of moderate CYP3A inhibitors (e.g., erythromycin, ciprofloxacin, fluconazole, diltiazem, verapamil, aprepitant, atazanavir, darunavir, fosamprenavir, imatinib, cimetidine) would increase the Cmax and AUC0-24 of
-
-<div style=\"page-break-after: always\"></div>
-
-eliglustat 2.4- and 3.0-fold, respectively. Use of a moderate CYP3A inhibitor with eliglustat is not recommended in PMs.
+At 84 mg once daily dosing with eliglustat in PMs, it is predicted that concomitant use of moderate CYP3A inhibitors (e.g., erythromycin, ciprofloxacin, fluconazole, diltiazem, verapamil, aprepitant, atazanavir, darunavir, fosamprenavir, imatinib, cimetidine) would increase the Cmax and AUC0-24 of eliglustat 2.4- and 3.0-fold, respectively. Use of a moderate CYP3A inhibitor with eliglustat is not recommended in PMs.
 
 Caution should be used with weak CYP3A inhibitors (e.g., amlodipine, cilostazol, fluvoxamine, goldenseal, isoniazid, ranitidine, ranolazine) in PMs.
 
@@ -232,6 +228,8 @@ Caution should be used with weak CYP3A inhibitors (e.g., amlodipine, cilostazol,
 At 84 mg twice daily dosing with eliglustat in non-PMs, it is predicted that the concomitant use of strong or moderate CYP2D6 inhibitors and strong or moderate CYP3A inhibitors would increase Cmax and AUC0-12 up to 17- and 25-fold, respectively. The use of a strong or moderate CYP2D6 inhibitor concomitantly with a strong or moderate CYP3A inhibitor is contraindicated in IMs and EMs.
 
 Grapefruit products contain one or more components that inhibit CYP3A and can increase plasma concentrations of eliglustat. Consumption of grapefruit or its juice should be avoided.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Agents that may decrease eliglustat exposure
 
@@ -259,8 +257,6 @@ There are no or limited amount of data from the use of eliglustat in pregnant wo
 
 It is unknown whether eliglustat/metabolites are excreted in human milk. Available pharmacodynamic/toxicological data in animals have shown excretion of eliglustat in milk (see section 5.3). A risk to the newborns/infants cannot be excluded. A decision must be made whether to discontinue breast-feeding or to discontinue/abstain from Cerdelga therapy taking into account the benefit of breast-feeding for the child and the benefit of therapy for the woman.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Fertility
 
 Effects on testes and reversible inhibition of spermatogenesis were observed in rats (see section 5.3). The relevance of these findings for humans is not known.
@@ -268,6 +264,8 @@ Effects on testes and reversible inhibition of spermatogenesis were observed in 
 ## 4.7 Effects on ability to drive and use machines
 
 Cerdelga may affect the ability to drive and use machines in patients who experience dizziness after its administration.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 4.8 Undesirable effects
 
@@ -277,7 +275,7 @@ The most frequently reported adverse reaction with eliglustat is dyspepsia, repo
 
 ## Tabulated list of adverse reactions
 
-Adverse reactions are ranked by system organ class and frequency ([very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1 000 to &lt; 1/100); rare (≥ 1/10 000 to &lt; 1/1 000); very rare (&lt; 1/10 000)]). Adverse reactions from long term clinical trial data reported in at least 4 patients are presented in Table 4. Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
+Adverse reactions are ranked by system organ class and frequency ([ very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1 000 to &lt; 1/100); rare (≥ 1/10 000 to &lt; 1/1 000); very rare (&lt; 1/10 000)]). Adverse reactions from long term clinical trial data reported in at least 4 patients are presented in Table 4. Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
 Table 4: Tabulated list of adverse reactions
 
@@ -293,13 +291,11 @@ Table 4: Tabulated list of adverse reactions
 
 ## Paediatric population
 
-In the ELIKIDS paediatric study Cohort 1 (eliglustat monotherapy), the most common adverse reactions were dyspepsia (9.8%) and dry skin (3.6%). In Cohort 2 (eliglustat/imiglucerase combination therapy), the most common adverse reactions were headache, dyspepsia, gastritis, and fatigue (each experienced by 16.7% (1/6) of the patients). Of 57 enrolled patients, 53 (93%, 48/51 in Cohort 1) experienced at least one treatment-emergent adverse event (TEAE) with no meaningful difference by age group, gender, or GD type. No patients permanently discontinued treatment due to TEAE.
-
-<div style=\"page-break-after: always\"></div>
-
-## Reporting of suspected adverse reactions
+In the ELIKIDS paediatric study Cohort 1 (eliglustat monotherapy), the most common adverse reactions were dyspepsia (9.8%) and dry skin (3.6%). In Cohort 2 (eliglustat/imiglucerase combination therapy), the most common adverse reactions were headache, dyspepsia, gastritis, and fatigue (each experienced by 16.7% (1/6) of the patients). Of 57 enrolled patients, 53 (93%, 48/51 in Cohort 1) experienced at least one treatment-emergent adverse event (TEAE) with no meaningful difference by age group, gender, or GD type. No patients permanently discontinued treatment due to TEAE. Reporting of suspected adverse reactions
 
 Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 4.9 Overdose
 
@@ -336,8 +332,8 @@ Table 5: Change from baseline to month 9 (primary analysis period) in treatment-
 | Percentage change in spleen volume MN(%) (primary endpoint)  | Percentage change in spleen volume MN(%) (primary endpoint)  |                2.26 |                -27.77 | -30.0 [-36.8, -23.2]                         | < 0.0001    |
 | Absolute change in haemoglobin level (secondary endpoint)    | (g/dL)                                                       |               -0.54 |                  0.69 | 1.22 [0.57, 1.88]                            | 0.0006      |
 | Absolute change in haemoglobin level (secondary endpoint)    | (mmol/L)                                                     |               -0.34 |                  0.43 | 0.76 [0.35,1.17]                             | 0.0006      |
-| Percentage change in liver volume MN(%) (secondary endpoint) | Percentage change in liver volume MN(%) (secondary endpoint) |                1.44 |                 -5.2  | -6.64 [-11.37, -1.91]                        | 0.0072      |
-| Percentage change in platelet count (%) (secondary endpoint) | Percentage change in platelet count (%) (secondary endpoint) |               -9.06 |                 32    | 41.06 [23.95, 58.17]                         | < 0.0001    |
+| Percentage change in liver volume MN(%) (secondary endpoint) | Percentage change in liver volume MN(%) (secondary endpoint) |                1.44 |                 -5.20 | -6.64 [-11.37, -1.91]                        | 0.0072      |
+| Percentage change in platelet count (%) (secondary endpoint) | Percentage change in platelet count (%) (secondary endpoint) |               -9.06 |                 32.00 | 41.06 [23.95, 58.17]                         | < 0.0001    |
 
 MN = Multiples of Normal, CI = confidence interval
 
@@ -359,10 +355,10 @@ Eliglustat showed sustained improvements in organ volume and haematological para
 
 Table 6: Change from baseline to year 8 in study 304
 
-|                    |                    | N   |   Baseline value (Mean) | Change from baseline (Mean)   |   Standard deviation |
+|                    |                    |   N |   Baseline value (Mean) | Change from baseline (Mean)   |   Standard deviation |
 |--------------------|--------------------|-----|-------------------------|-------------------------------|----------------------|
-| Spleen volume (MN) | Spleen volume (MN) | 15  |                   17.34 | -67.9%                        |                17.11 |
-| Haemoglobin level  | (g/dL)             | 16  |                   11.33 | 2.08                          |                 1.75 |
+| Spleen volume (MN) | Spleen volume (MN) |  15 |                   17.34 | -67.9%                        |                17.11 |
+| Haemoglobin level  | (g/dL)             |  16 |                   11.33 | 2.08                          |                 1.75 |
 | Haemoglobin level  | (mmol/L)           |     |                    7.04 | 1.29                          |                 1.09 |
 
 <div style=\"page-break-after: always\"></div>
@@ -399,6 +395,8 @@ Table 7: Changes from baseline to Month 12 (primary analysis period) in patients
 | Percentage of patients with stable platelet count a    | Percentage of patients with stable platelet count a    | 100%                                  | 92.9%                             |
 | Percentage change in platelet count (%)                | Percentage change in platelet count (%)                | 2.93 [-0.56, 6.42]                    | 3.79 [0.01, 7.57]                 |
 
+All patient number (N)= Per Protocol Population
+
 During the open-label long term treatment period with eliglustat (extension phase) the percentage of patients with complete data meeting the composite stability endpoint was maintained at 84.6% (n=136) after 2 years, 84.4% (n=109) after 3 years and 91.1% (n=45) after 4 years. The majority of extension phase discontinuations were due to transition to commercial product from year 3 onwards. Individual disease parameters of spleen volume, liver volume, haemoglobin levels and platelet count remained stable through 4 years (see Table 8).
 
 Table 8: Changes from month 12 (primary analysis period) to month 48 in patients with GD1 in the long term treatment period on eliglustat in study 02607
@@ -422,7 +420,7 @@ Table 8: Changes from month 12 (primary analysis period) to month 48 in patients
 | baseline in Haemoglo bin Level             | (mmol /L)                                  | 0.021[-0.19, 0.24]           | -0.077[-0.16, 0.025]         | 0.23[-0.006, 0.46]           | -0.064[-0.17, 0.043]         | 0.24 [-1.01, 1.48]           | 0.18 [0.0374, 0.33]          |
 | Liver volume                               | Liver volume                               | Liver volume                 | Liver volume                 | Liver volume                 | Liver volume                 | Liver volume                 | Liver volume                 |
 | Patients with stable liver volume (%)      | Patients with stable liver volume (%)      | 38/39 (97.4) (0.865, 0.999)  | 94/97 (96.9) (0.912, 0.994)  | 15/16 (93.8) [0.698, 0.998]  | 87/93 (93.5) (0.865, 0.976)  | 3/3 (100.0) [0.292, 1.000]   | 40/42 (95.2) [0.838, 0.994]  |
-| Change from baseline in liver volume MN(%) | Change from baseline in liver volume MN(%) | 0.080[-3.02, 3.18]           | 2.486[0.50, 4.47]            | -4.908[-11.53, 1.71]         | 3.018[0.52, 5.52]            | -14.410[-61.25, 32.43]       | -1.503[-5.27, 2.26]          |
+| Change from baseline in liver              | Change from baseline in liver              | 0.080[-3.02, 3.18]           | 2.486[0.50, 4.47]            | -4.908[-11.53, 1.71]         | 3.018[0.52, 5.52]            | -14.410[-61.25, 32.43]       | -1.503[-5.27, 2.26]          |
 | Platelet count                             | Platelet count                             | Platelet count               | Platelet count               | Platelet count               | Platelet count               | Platelet count               | Platelet count               |
 | Patients with stable platelet count (%)    | Patients with stable platelet count (%)    | 33/39 (84.6) [0.695, 0.941]  | 92/97 (94.8) [0.884, 0.983]  | 13/16 (81.3) [0.544, 0.960]  | 87/93 (93.5) [0.865, 0.976]  | 3/3 (100.0) [0.292, 1.000]   | 40/42 (95.2) [0.838, 0.994]  |
 | Change in platelet count (%)               | Change in platelet count (%)               | -0.363[-6.60, 5.88]          | 2.216[-1.31, 5.74]           | 0.719[-8.20, 9.63]           | 5.403[1.28, 9.52]            | -0.163[-35.97, 35.64]        | 7.501[1.01, 13.99]           |
@@ -435,7 +433,7 @@ MN = Multiples of Normal, CI = confidence interval
 
 a Imiglucerase/Eliglustat - Originally randomized to imiglucerase
 
-b Eliglustat - Originally randomized to eliglustat
+- b Eliglustat - Originally randomized to eliglustat
 
 ## Clinical experience in CYP2D6 PMs and URMs
 
@@ -461,7 +459,7 @@ In study 02607, lumbar spine and femur BMD T- and Z-scores were maintained withi
 
 ## Electrocardiographic evaluation
 
-## No clinically significant QTc prolonging effect of eliglustat was observed for single doses up to 675 mg.
+No clinically significant QTc prolonging effect of eliglustat was observed for single doses up to 675 mg.
 
 Heart-rate corrected QT interval using Fridericia's correction (QTcF) was evaluated in a randomized, placebo and active (moxifloxacin 400 mg) controlled cross-over, single-dose study in 47 healthy subjects. In this trial with demonstrated ability to detect small effects, the upper bound of the onesided 95% confidence interval for the largest placebo-adjusted, baseline-corrected QTcF was below 10 msec, the threshold for regulatory concern. While there was no apparent effect on heart rate, concentration-related increases were observed for the placebo corrected change from baseline in the PR, QRS, and QTc intervals. Based on PK/PD modelling, eliglustat plasma concentrations 11-fold the predicted human Cmax are expected to cause mean (upper bound of the 95% confidence interval) increases in the PR, QRS, and QTcF intervals of 18.8 (20.4), 6.2 (7.1), and 12.3 (14.2) msec, respectively.
 
@@ -491,19 +489,19 @@ The main efficacy endpoint for patients in Cohort 2 was the percentage of patien
 
 Table 9: Changes from baseline to 52 weeks (primary analysis period) in patients with GD on eliglustat monotherapy (Cohort 1) in study EFC13738
 
-| Age (years) [n]        | Gaucher-related clinical parameters   | Mean (SD) at baseline    | Mean (SD) at week 52     | Mean change (SD)                      |
-|------------------------|---------------------------------------|--------------------------|--------------------------|---------------------------------------|
-| 2 to < 6 [n = 3]       | Haemoglobin level (g/dL) (mmol/L)     | 12.25 (0.76) 7.61 (0.47) | 11.93 (0.60) 7.41 (0.37) | -0.32 g/dL (0.20) -0.25 mmol/L (0.01) |
-| GD1: n = 2 GD3: n = 1  | Platelet count (x10 9 /L)             | 261.50 (59.33)           | 229.33 (90.97)           | -12.19% (26.05)                       |
-| GD1: n = 2 GD3: n = 1  | Spleen volume (MN)                    | 3.84 (1.37)              | 5.61 (2.56)              | 42.12% (16.64)                        |
-| GD1: n = 2 GD3: n = 1  | Liver volume (MN)                     | 1.22 (0.27)              | 1.43 (0.02)              | 21.23% (26.97)                        |
-| 6 to < 12 [n = 15]     | Haemoglobin level (g/dL)              | 13.70 (1.17)             | 13.21 (1.22)             | -0.49 g/dL (1.17)                     |
-| 6 to < 12 [n = 15]     | (mmol/L)                              | 8.51 (0.73)              | 8.2 (0.76)               | -0.3 mmol/L (0.73)                    |
-| GD1: n = 14 GD3: n = 1 | Platelet count (x10 9 /L)             | 216.40 (51.80)           | 231.73 (71.62)           | 7.25% (20.50)                         |
-| GD1: n = 14 GD3: n = 1 | Spleen volume (MN)                    | 3.01 (0.86)              | 2.93 (0.82)              | 0.11% (19.52)                         |
-| GD1: n = 14 GD3: n = 1 | Liver volume (MN)                     | 1.02 (0.20)              | 1.03 (0.16)              | 2.22% (13.86)                         |
-| 12 to < 18 [n = 33]    | Haemoglobin level (g/dL)              | 13.75 (0.97)             | 13.37 (1.20)             | -0.38 g/dL (1.01)                     |
-| 12 to < 18 [n = 33]    | (mmol/L)                              | 8.54 (0.60)              | 8.3 (0.75)               | -0.24 mmol/L (0.63)                   |
+| Age (years) [n]       | Gaucher-related clinical parameters   | Mean (SD) at baseline    | Mean (SD) at week 52     | Mean change (SD)                      |
+|-----------------------|---------------------------------------|--------------------------|--------------------------|---------------------------------------|
+| 2 to < 6 [n = 3]      | Haemoglobin level (g/dL) (mmol/L)     | 12.25 (0.76) 7.61 (0.47) | 11.93 (0.60) 7.41 (0.37) | -0.32 g/dL (0.20) -0.25 mmol/L (0.01) |
+| GD1: n = 2 GD3: n = 1 | Platelet count (x10 9 /L)             | 261.50 (59.33)           | 229.33 (90.97)           | -12.19% (26.05)                       |
+|                       | Spleen volume (MN)                    | 3.84 (1.37)              | 5.61 (2.56)              | 42.12% (16.64)                        |
+|                       | Liver volume (MN)                     | 1.22 (0.27)              | 1.43 (0.02)              | 21.23% (26.97)                        |
+| 6 to < 12 [n = 15]    | Haemoglobin level (g/dL)              | 13.70 (1.17)             | 13.21 (1.22)             | -0.49 g/dL (1.17)                     |
+|                       | (mmol/L)                              | 8.51 (0.73)              | 8.2 (0.76)               | -0.3 mmol/L (0.73)                    |
+| GD1: n = 14           | Platelet count (x10 9 /L)             | 216.40 (51.80)           | 231.73 (71.62)           | 7.25% (20.50)                         |
+| GD3: n = 1            | Spleen volume (MN)                    | 3.01 (0.86)              | 2.93 (0.82)              | 0.11% (19.52)                         |
+|                       | Liver volume (MN)                     | 1.02 (0.20)              | 1.03 (0.16)              | 2.22% (13.86)                         |
+| 12 to < 18 [n = 33]   | Haemoglobin level (g/dL)              | 13.75 (0.97)             | 13.37 (1.20)             | -0.38 g/dL (1.01)                     |
+|                       | (mmol/L)                              | 8.54 (0.60)              | 8.3 (0.75)               | -0.24 mmol/L (0.63)                   |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -731,7 +729,8 @@ The educational programme is aimed at minimizing specific safety concerns.
 
 The MAH shall ensure that in each Member State where Cerdelga is marketed, all healthcare professionals who are expected to prescribe Cerdelga have access to/are provided with the physician educational material:
 
-1. Physician educational material:
+## 1. Physician educational material:
+
 - The Summary of Product Characteristics
 - Guide for prescriber
 - Patient card
@@ -782,14 +781,6 @@ Information for the patient/caregiver:
 - o Always consult the doctor who prescribed eliglustat before you  start using other medicines.
 - o Do not consume grapefruit products.
 
-## · Obligation to conduct post-authorisation measures
-
-The MAH shall complete, within the stated timeframe, the below measure:
-
-| Description                                                                                                                                                                                                                                                       | Due date   |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|
-| In order to investigate the long-term safety of eliglustat in patients prescribed eliglustat, the MAHis to create a sub-registry to the International Collaborative Gaucher Group (ICGG) Gaucher Registry to collect safety data according to an agreed protocol. | Q3 2025    |
-
 <div style=\"page-break-after: always\"></div>
 
 ## ANNEX III
@@ -800,13 +791,17 @@ The MAH shall complete, within the stated timeframe, the below measure:
 
 ## A. LABELLING
 
+<div style=\"page-break-after: always\"></div>
+
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
 OUTER CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Cerdelga 21 mg hard capsules eliglustat
+Cerdelga 21 mg hard capsules
+
+eliglustat
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE
 
@@ -828,7 +823,7 @@ Read the package leaflet before use.
 
 Oral use
 
-Scan QR code or visit https://cerdelga.info.sanofi
+[Scan QR code or visit https://cerdelga.info.sanofi](https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fcerdelga.info.sanofi%2F&data=05%7C02%7CHarpreet.Phagura%40sanofi.com%7C8632cabf588e49eace6c08dd4b53bde3%7Caca3c8d6aa714e1aa10e03572fc58c0b%7C0%7C0%7C638749545248122737%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=ZGmPl0cNgBTkB8KJ%2F1%2BbJTdRRi0dHo8DYtFKAZsP5Vs%3D&reserved=0)
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -836,13 +831,11 @@ Keep out of the sight and reach of children.
 
 ## 7. OTHER SPECIAL WARNINGS, IF NECESSARY
 
-8. EXPIRY DATE
+## 8. EXPIRY DATE
 
 EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
-
-<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -886,7 +879,9 @@ OUTER CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Cerdelga 84 mg hard capsules eliglustat
+Cerdelga 84 mg hard capsules
+
+eliglustat
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE
 
@@ -912,7 +907,7 @@ Read the package leaflet before use.
 
 Oral use
 
-Scan QR code or visit https://cerdelga.info.sanofi
+[Scan QR code or visit https://cerdelga.info.sanofi](https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fcerdelga.info.sanofi%2F&data=05%7C02%7CHarpreet.Phagura%40sanofi.com%7C8632cabf588e49eace6c08dd4b53bde3%7Caca3c8d6aa714e1aa10e03572fc58c0b%7C0%7C0%7C638749545248122737%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=ZGmPl0cNgBTkB8KJ%2F1%2BbJTdRRi0dHo8DYtFKAZsP5Vs%3D&reserved=0)
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -1018,14 +1013,15 @@ Sanofi B.V. Paasheuvelweg 25 1105 BP Amsterdam The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER
 
-EU/1/14/974/001 56 capsules EU/1/14/974/002 196 capsules EU/1/14/974/003 14 capsules
+EU/1/14/974/001 56 capsules EU/1/14/974/002 196 capsules
+
+EU/1/14/974/003 14 capsules
 
 ## 13. BATCH NUMBER
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
-
+14. GENERAL CLASSIFICATION FOR SUPPLY
 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
@@ -1038,17 +1034,17 @@ Cerdelga 84 mg
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
-|------------------------------------------------------|
-| BLISTER                                              |
+| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
+|-----------------------------------------------------|
+| BLISTER                                             |
 
 | 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
 |------|------------------------------|
 
 Cerdelga 21 mg hard capsules eliglustat
 
-| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
-|------|------------------------------------------|
+| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
+|------|-------------------------------------------|
 
 Sanofi B.V.
 
@@ -1069,17 +1065,17 @@ Lot
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
-|------------------------------------------------------|
-| BLISTER/WALLET                                       |
+| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
+|-----------------------------------------------------|
+| BLISTER/WALLET                                      |
 
 | 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
 |------|------------------------------|
 
 Cerdelga 84 mg hard capsules eliglustat
 
-| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
-|------|------------------------------------------|
+| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
+|------|-------------------------------------------|
 
 Sanofi B.V.
 
@@ -1109,8 +1105,6 @@ Lot
 ## Cerdelga 21 mg hard capsules Cerdelga 84 mg hard capsules
 
 eliglustat
-
-This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
@@ -1196,7 +1190,6 @@ Cerdelga must not be used with certain type of medicines. These medicines can in
 - conivaptan diuretic (used to increase low blood sodium levels)
 - boceprevir, telaprevir antiviral (used to treat Hepatitis C)
 - imatinib anticancer (used to treat cancer)
-- •
 - amlopidine, ranolazine - used to treat angina pectoris
 - cilostazol - used to treat cramp-like pain in your legs when you walk caused by insufficient blood supply in your legs
 - isoniazid - used to treat tuberculosis
@@ -1400,9 +1393,11 @@ Pack sizes of 14 hard capsules in 1 blister wallet, 56 hard capsules in 4 bliste
 
 Not all packs may be marketed.
 
-Marketing Authorisation Holder 1105 BP Amsterdam
+## Marketing Authorisation Holder
 
-Sanofi B.V. Paasheuvelweg 25 The Netherlands
+Sanofi B.V. Paasheuvelweg 25
+
+1105 BP Amsterdam The Netherlands
 
 ## Manufacturer
 
@@ -1420,15 +1415,13 @@ België/Belgique/Belgien/ Luxembourg/Luxemburg
 
 Lietuva Swixx Biopharma UAB
 
-Sanofi Belgium
-
-Tél/Tel: + 32 2 710 54 00
+Sanofi Belgium Tél/Tel: + 32 2 710 54 00
 
 <div style=\"page-break-after: always\"></div>
 
 ## България
 
-Swixx Biopharma EOOD Тел.: +359 (0)2 4942 480
+Swixx Biopharma EOOD Тел .: +359 (0)2 4942 480
 
 ## Česká republika
 
@@ -1448,7 +1441,7 @@ Swixx Biopharma OÜ Tel: +372 640 10 30
 
 ## Ελλάδα
 
-Sanofi-Aventis Μονοπρόσωπη AEBE Τηλ: +30 210 900 1600
+Sanofi-Aventis Μονοπρόσωπη AEBE Τηλ : +30 210 900 1600
 
 ## España
 
@@ -1468,7 +1461,9 @@ sanofi-aventis Ireland Ltd. T/A SANOFI Tel: +353 (0) 1 403 56 00
 
 ## Ísland
 
-Vistor ehf. Sími: +354 535 7000
+Vistor ehf.
+
+Sími: +354 535 7000
 
 ## Italia
 
@@ -1490,7 +1485,9 @@ Sanofi S.r.l. Tel: +39 02 39394275
 
 ## Nederland
 
-Sanofi B.V. Tel: +31 20 245 4000
+Sanofi B.V.
+
+Tel: +31 20 245 4000
 
 ## Norge
 
@@ -1502,7 +1499,9 @@ sanofi-aventis GmbH Tel: + 43 1 80 185 - 0
 
 ## Polska
 
-Sanofi Sp. z o.o. Tel.: +48 22 280 00 00
+Sanofi Sp. z o.o.
+
+Tel.: +48 22 280 00 00
 
 ## Portugal
 
@@ -1522,13 +1521,15 @@ Swixx Biopharma s.r.o. Tel: +421 2 208 33 600
 
 ## Suomi/Finland
 
-Sanofi Oy Puh/Tel: + 358 201 200 300
+Sanofi Oy
+
+Puh/Tel: + 358 201 200 300
 
 ## Sverige
 
 Sanofi AB
 
-Τηλ: +357 22 741741
+<div style=\"page-break-after: always\"></div>
 
 ## Latvija
 
@@ -1536,12 +1537,38 @@ Swixx Biopharma SIA
 
 Tel: +371 6 616 47 50
 
-<div style=\"page-break-after: always\"></div>
-
 ## This leaflet was last revised in
 
 ## Other sources of information
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu. There are also links to other websites about rare diseases and treatments.
 
-Tel: +46 (0)8 634 50 00
+<div style=\"page-break-after: always\"></div>
+
+## Annex IV
+
+## Scientific conclusions and grounds for the variation to the terms of the marketing authorisation(s)
+
+<div style=\"page-break-after: always\"></div>
+
+## Scientific conclusions
+
+Taking into account the PRAC Assessment Report for the non-interventional imposed PASS final study report for the medicinal product(s) mentioned above, the scientific conclusions of CHMP are as follows:
+
+The MAH has fulfilled the commitment to present the final results of a non-interventional postauthorisation safety study:
+
+A prospective multicenter observational post-authorisation safety sub-registry study (PASS) to characterise the long-term safety profile of eliglustat in adult patients with Gaucher disease.
+
+The study has provided data on the long-term use and safety of eliglustat in real-world setting. The final data do not indicate any new and unexpected safety findings with eliglustat.
+
+Consequently, eliglustat is recommended for removal from the list of medicinal products under additional monitoring.
+
+Therefore, in view of available data regarding the PASS final study report, the PRAC considered that changes to the product information and conditions of the marketing authorisation were warranted.
+
+The CHMP agrees with the scientific conclusions made by the PRAC.
+
+## Grounds for the variation to the terms of the marketing authorisation(s)
+
+On the basis of the scientific conclusions for the results of the study for the medicinal product(s) mentioned above, the CHMP is of the opinion that the benefit-risk balance of these medicinal product(s) is unchanged, subject to the proposed changes to the product information.
+
+The CHMP is of the opinion that the terms of the marketing authorisation(s) of the medicinal product(s) mentioned above should be varied.

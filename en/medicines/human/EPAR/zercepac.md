@@ -1,105 +1,32 @@
 ---
-document_datetime: 2026-01-19 16:42:00
+document_datetime: 2026-05-18 16:08:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/zercepac.html
 document_name: zercepac.html
 version: success
-processing_time: 0.1217542
-conversion_datetime: 2026-01-20 20:11:32.810502
+processing_time: 0.1215467
+conversion_datetime: 2026-05-22 22:31:21.564267
 docling_version:
-  docling-serve: 1.10.0
-  docling-jobkit: 1.8.1
-  docling: 2.69.0
-  docling-core: 2.60.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.3
+  docling-serve: 1.20.0
+  docling-jobkit: 1.20.0
+  docling: 2.95.0
+  docling-core: 2.77.0
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.11.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
 ---
-# Search
-
-- [Medicines](/en/medicines)
-    - [Find medicine](/en/medicines)
-    - [Therapeutic areas: latest updates](/en/medicines/therapeutic-areas-latest-updates)
-    - [Download medicine data](/en/medicines/download-medicine-data)
-    - [What we publish on medicines and when](/en/medicines/what-we-publish-medicines-when)
-    - [Medicines under evaluation](/en/medicines/medicines-human-use-under-evaluation)
-    - [National registers](/en/medicines/national-registers-authorised-medicines)
-- [Human regulatory](/en/human-regulatory-overview)
-    - [Overview](/en/human-regulatory-overview)
-    - [Research and development](/en/human-regulatory-overview/research-development)
-    - [Marketing authorisation](/en/human-regulatory-overview/marketing-authorisation)
-    - [Post-authorisation](/en/human-regulatory-overview/post-authorisation)
-    - [Medical devices](/en/human-regulatory-overview/medical-devices)
-    - [Herbal products](/en/human-regulatory-overview/herbal-medicinal-products)
-- [Veterinary regulatory](/en/veterinary-regulatory-overview)
-    - [Overview](/en/veterinary-regulatory-overview)
-    - [Research and development](/en/veterinary-regulatory-overview/research-development-veterinary-medicines)
-    - [Marketing authorisation](/en/veterinary-regulatory-overview/marketing-authorisation-veterinary-medicines)
-    - [Post-authorisation](/en/veterinary-regulatory-overview/post-authorisation-veterinary-medicines)
-- [Committees](/en/committees)
-    - [Overview](/en/committees)
-    - [How the committees work](/en/committees/how-committees-work)
-    - [CHMP](/en/committees/committee-medicinal-products-human-use-chmp)
-    - [CVMP](/en/committees/committee-veterinary-medicinal-products-cvmp)
-    - [PRAC](/en/committees/pharmacovigilance-risk-assessment-committee-prac)
-    - [COMP](/en/committees/committee-orphan-medicinal-products-comp)
-    - [HMPC](/en/committees/committee-herbal-medicinal-products-hmpc)
-    - [CAT](/en/committees/committee-advanced-therapies-cat)
-    - [PDCO](/en/committees/paediatric-committee-pdco)
-    - [Working parties and other groups](/en/committees/working-parties-other-groups)
-- [News &amp; events](/en/news-events)
-    - [Overview](/en/news-events)
-    - [News](/en/news)
-    - [Events](/en/events/upcoming-events)
-    - [What's new](/en/news-events/whats-new)
-    - [Committee highlights](/en/news-events/committee-highlights)
-    - [Publications](/en/news-and-events/publications)
-    - [Press and social media](/en/news-events/press-social-media)
-    - [Podcast: Inside EMA](/en/news-events/podcast-inside-ema)
-    - [Open consultations](/en/news-events/open-consultations)
-    - [RSS feeds](/en/news-events/rss-feeds)
-- [Partners &amp; networks](/en/partners-networks)
-    - [Overview](/en/partners-networks)
-    - [Animal health practitioners](/en/partners-networks/animal-health-practitioners)
-    - [One Health approach](/en/partners-networks/one-health-approach)
-    - [Academia](/en/partners-networks/academia)
-    - [EU partners](/en/partners-networks/eu-partners)
-    - [International activities](/en/partners-networks/international-activities)
-    - [Patients and consumers](/en/partners-networks/patients-consumers)
-    - [Healthcare professionals](/en/partners-networks/healthcare-professionals)
-    - [Pharmaceutical industry](/en/partners-networks/pharmaceutical-industry)
-    - [Networks](/en/partners-networks/networks)
-    - [Health technology assessment bodies](/en/partners-networks/health-technology-assessment-bodies)
-- [About us](/en/about-us)
-    - [Overview](/en/about-us)
-    - [What we do](/en/about-us/what-we-do)
-    - [Who we are](/en/about-us/who-we-are)
-    - [How we work](/en/about-us/how-we-work)
-    - [Fees](/en/about-us/fees-payable-european-medicines-agency)
-    - [Support to SMEs](/en/about-us/support-smes)
-    - [Annual reports and work programmes](/en/about-us/annual-reports-work-programmes)
-    - [History of EMA](/en/about-us/history-ema)
-    - [Careers](/en/about-us/careers)
-    - [Procurement](/en/about-us/procurement-grants)
-    - [Glossaries](/en/about-us/glossaries)
-    - [About this website](/en/about-us/about-website)
-    - [Data protection and privacy](/en/about-us/data-protection-privacy-ema)
-    - [Contacts](/en/about-us/contacts-european-medicines-agency)
-
-1. [Home](/en/homepage)
-2. [Medicines](https://www.ema.europa.eu/en/medicines)
-3. Zercepac
-
 # Zercepac
 
 [RSS](/en/individual-human-medicine.xml/67333)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-trastuzumab Medicine Human Authorised
+trastuzumab
+
+Medicine Human Authorised
 
 Page contents
 
@@ -193,173 +120,131 @@ English (EN) (116.74 KB - PDF)
 
 [View](/en/documents/overview/zercepac-epar-medicine-overview_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-532)
+[Other languages (21)](#file-language-dropdown-147)
 
 български (BG) (173.4 KB - PDF)
 
-**First published:**
-
-28/07/2020
+**First published:** 28/07/2020
 
 [View](/bg/documents/overview/zercepac-epar-medicine-overview_bg.pdf)
 
 español (ES) (147.17 KB - PDF)
 
-**First published:**
-
-28/07/2020
+**First published:** 28/07/2020
 
 [View](/es/documents/overview/zercepac-epar-medicine-overview_es.pdf)
 
 čeština (CS) (171.48 KB - PDF)
 
-**First published:**
-
-28/07/2020
+**First published:** 28/07/2020
 
 [View](/cs/documents/overview/zercepac-epar-medicine-overview_cs.pdf)
 
 dansk (DA) (146.82 KB - PDF)
 
-**First published:**
-
-28/07/2020
+**First published:** 28/07/2020
 
 [View](/da/documents/overview/zercepac-epar-medicine-overview_da.pdf)
 
 eesti keel (ET) (135.76 KB - PDF)
 
-**First published:**
-
-28/07/2020
+**First published:** 28/07/2020
 
 [View](/et/documents/overview/zercepac-epar-medicine-overview_et.pdf)
 
 ελληνικά (EL) (175.52 KB - PDF)
 
-**First published:**
-
-28/07/2020
+**First published:** 28/07/2020
 
 [View](/el/documents/overview/zercepac-epar-medicine-overview_el.pdf)
 
 français (FR) (149.48 KB - PDF)
 
-**First published:**
-
-28/07/2020
+**First published:** 28/07/2020
 
 [View](/fr/documents/overview/zercepac-epar-medicine-overview_fr.pdf)
 
 hrvatski (HR) (169.11 KB - PDF)
 
-**First published:**
-
-28/07/2020
+**First published:** 28/07/2020
 
 [View](/hr/documents/overview/zercepac-epar-medicine-overview_hr.pdf)
 
 italiano (IT) (147.06 KB - PDF)
 
-**First published:**
-
-28/07/2020
+**First published:** 28/07/2020
 
 [View](/it/documents/overview/zercepac-epar-medicine-overview_it.pdf)
 
 latviešu valoda (LV) (177.94 KB - PDF)
 
-**First published:**
-
-28/07/2020
+**First published:** 28/07/2020
 
 [View](/lv/documents/overview/zercepac-epar-medicine-overview_lv.pdf)
 
 lietuvių kalba (LT) (170.5 KB - PDF)
 
-**First published:**
-
-28/07/2020
+**First published:** 28/07/2020
 
 [View](/lt/documents/overview/zercepac-epar-medicine-overview_lt.pdf)
 
 magyar (HU) (171.38 KB - PDF)
 
-**First published:**
-
-28/07/2020
+**First published:** 28/07/2020
 
 [View](/hu/documents/overview/zercepac-epar-medicine-overview_hu.pdf)
 
 Malti (MT) (181.11 KB - PDF)
 
-**First published:**
-
-28/07/2020
+**First published:** 28/07/2020
 
 [View](/mt/documents/overview/zercepac-epar-medicine-overview_mt.pdf)
 
 Nederlands (NL) (147.28 KB - PDF)
 
-**First published:**
-
-28/07/2020
+**First published:** 28/07/2020
 
 [View](/nl/documents/overview/zercepac-epar-medicine-overview_nl.pdf)
 
 polski (PL) (172.06 KB - PDF)
 
-**First published:**
-
-28/07/2020
+**First published:** 28/07/2020
 
 [View](/pl/documents/overview/zercepac-epar-medicine-overview_pl.pdf)
 
 português (PT) (148.04 KB - PDF)
 
-**First published:**
-
-28/07/2020
+**First published:** 28/07/2020
 
 [View](/pt/documents/overview/zercepac-epar-medicine-overview_pt.pdf)
 
 română (RO) (169.58 KB - PDF)
 
-**First published:**
-
-28/07/2020
+**First published:** 28/07/2020
 
 [View](/ro/documents/overview/zercepac-epar-medicine-overview_ro.pdf)
 
 slovenčina (SK) (170.87 KB - PDF)
 
-**First published:**
-
-28/07/2020
+**First published:** 28/07/2020
 
 [View](/sk/documents/overview/zercepac-epar-medicine-overview_sk.pdf)
 
 slovenščina (SL) (167.95 KB - PDF)
 
-**First published:**
-
-28/07/2020
+**First published:** 28/07/2020
 
 [View](/sl/documents/overview/zercepac-epar-medicine-overview_sl.pdf)
 
 Suomi (FI) (145.38 KB - PDF)
 
-**First published:**
-
-28/07/2020
+**First published:** 28/07/2020
 
 [View](/fi/documents/overview/zercepac-epar-medicine-overview_fi.pdf)
 
 svenska (SV) (146.11 KB - PDF)
 
-**First published:**
-
-28/07/2020
+**First published:** 28/07/2020
 
 [View](/sv/documents/overview/zercepac-epar-medicine-overview_sv.pdf)
 
@@ -367,9 +252,7 @@ Zercepac : EPAR - Risk management plan
 
 English (EN) (484.43 KB - PDF)
 
-**First published:** 28/07/2020
-
-**Last updated:** 25/06/2024
+**First published:** 28/07/2020 **Last updated:** 25/06/2024
 
 [View](/en/documents/rmp/zercepac-epar-risk-management-plan_en.pdf)
 
@@ -377,305 +260,161 @@ English (EN) (484.43 KB - PDF)
 
 Zercepac : EPAR - Product information
 
-English (EN) (750.32 KB - PDF)
+English (EN) (717.42 KB - PDF)
 
-**First published:** 28/07/2020
-
-**Last updated:** 19/01/2026
+**First published:** 28/07/2020 **Last updated:** 18/05/2026
 
 [View](/en/documents/product-information/zercepac-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-115)
+[Other languages (24)](#file-language-dropdown-356)
 
-български (BG) (860.66 KB - PDF)
+български (BG) (823.45 KB - PDF)
 
-**First published:**
-
-28/07/2020
-
-**Last updated:**
-
-19/01/2026
+**First published:** 28/07/2020 **Last updated:** 18/05/2026
 
 [View](/bg/documents/product-information/zercepac-epar-product-information_bg.pdf)
 
-español (ES) (654.86 KB - PDF)
+español (ES) (546.13 KB - PDF)
 
-**First published:**
-
-28/07/2020
-
-**Last updated:**
-
-19/01/2026
+**First published:** 28/07/2020 **Last updated:** 18/05/2026
 
 [View](/es/documents/product-information/zercepac-epar-product-information_es.pdf)
 
-čeština (CS) (637.55 KB - PDF)
+čeština (CS) (596.29 KB - PDF)
 
-**First published:**
-
-28/07/2020
-
-**Last updated:**
-
-19/01/2026
+**First published:** 28/07/2020 **Last updated:** 18/05/2026
 
 [View](/cs/documents/product-information/zercepac-epar-product-information_cs.pdf)
 
-dansk (DA) (614.45 KB - PDF)
+dansk (DA) (605.42 KB - PDF)
 
-**First published:**
-
-28/07/2020
-
-**Last updated:**
-
-19/01/2026
+**First published:** 28/07/2020 **Last updated:** 18/05/2026
 
 [View](/da/documents/product-information/zercepac-epar-product-information_da.pdf)
 
-Deutsch (DE) (701.37 KB - PDF)
+Deutsch (DE) (590.09 KB - PDF)
 
-**First published:**
-
-28/07/2020
-
-**Last updated:**
-
-19/01/2026
+**First published:** 28/07/2020 **Last updated:** 18/05/2026
 
 [View](/de/documents/product-information/zercepac-epar-product-information_de.pdf)
 
-eesti keel (ET) (656.64 KB - PDF)
+eesti keel (ET) (624.31 KB - PDF)
 
-**First published:**
-
-28/07/2020
-
-**Last updated:**
-
-19/01/2026
+**First published:** 28/07/2020 **Last updated:** 18/05/2026
 
 [View](/et/documents/product-information/zercepac-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.25 MB - PDF)
+ελληνικά (EL) (1.21 MB - PDF)
 
-**First published:**
-
-28/07/2020
-
-**Last updated:**
-
-19/01/2026
+**First published:** 28/07/2020 **Last updated:** 18/05/2026
 
 [View](/el/documents/product-information/zercepac-epar-product-information_el.pdf)
 
-français (FR) (624.83 KB - PDF)
+français (FR) (699.19 KB - PDF)
 
-**First published:**
-
-28/07/2020
-
-**Last updated:**
-
-19/01/2026
+**First published:** 28/07/2020 **Last updated:** 18/05/2026
 
 [View](/fr/documents/product-information/zercepac-epar-product-information_fr.pdf)
 
-hrvatski (HR) (649.41 KB - PDF)
+hrvatski (HR) (726 KB - PDF)
 
-**First published:**
-
-28/07/2020
-
-**Last updated:**
-
-19/01/2026
+**First published:** 28/07/2020 **Last updated:** 18/05/2026
 
 [View](/hr/documents/product-information/zercepac-epar-product-information_hr.pdf)
 
-íslenska (IS) (578.54 KB - PDF)
+íslenska (IS) (564.37 KB - PDF)
 
-**First published:**
-
-28/07/2020
-
-**Last updated:**
-
-19/01/2026
+**First published:** 28/07/2020 **Last updated:** 18/05/2026
 
 [View](/is/documents/product-information/zercepac-epar-product-information_is.pdf)
 
-italiano (IT) (598.23 KB - PDF)
+italiano (IT) (623.63 KB - PDF)
 
-**First published:**
-
-28/07/2020
-
-**Last updated:**
-
-19/01/2026
+**First published:** 28/07/2020 **Last updated:** 18/05/2026
 
 [View](/it/documents/product-information/zercepac-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (698.24 KB - PDF)
+latviešu valoda (LV) (668.67 KB - PDF)
 
-**First published:**
-
-28/07/2020
-
-**Last updated:**
-
-19/01/2026
+**First published:** 28/07/2020 **Last updated:** 18/05/2026
 
 [View](/lv/documents/product-information/zercepac-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (680.69 KB - PDF)
+lietuvių kalba (LT) (648.34 KB - PDF)
 
-**First published:**
-
-28/07/2020
-
-**Last updated:**
-
-19/01/2026
+**First published:** 28/07/2020 **Last updated:** 18/05/2026
 
 [View](/lt/documents/product-information/zercepac-epar-product-information_lt.pdf)
 
-magyar (HU) (719.94 KB - PDF)
+magyar (HU) (696.44 KB - PDF)
 
-**First published:**
-
-28/07/2020
-
-**Last updated:**
-
-19/01/2026
+**First published:** 28/07/2020 **Last updated:** 18/05/2026
 
 [View](/hu/documents/product-information/zercepac-epar-product-information_hu.pdf)
 
-Malti (MT) (883.11 KB - PDF)
+Malti (MT) (935.21 KB - PDF)
 
-**First published:**
-
-28/07/2020
-
-**Last updated:**
-
-19/01/2026
+**First published:** 28/07/2020 **Last updated:** 18/05/2026
 
 [View](/mt/documents/product-information/zercepac-epar-product-information_mt.pdf)
 
-Nederlands (NL) (436.78 KB - PDF)
+Nederlands (NL) (437.99 KB - PDF)
 
-**First published:**
-
-28/07/2020
-
-**Last updated:**
-
-19/01/2026
+**First published:** 28/07/2020 **Last updated:** 18/05/2026
 
 [View](/nl/documents/product-information/zercepac-epar-product-information_nl.pdf)
 
-norsk (NO) (571.77 KB - PDF)
+norsk (NO) (562.41 KB - PDF)
 
-**First published:**
-
-28/07/2020
-
-**Last updated:**
-
-19/01/2026
+**First published:** 28/07/2020 **Last updated:** 18/05/2026
 
 [View](/no/documents/product-information/zercepac-epar-product-information_no.pdf)
 
-polski (PL) (746.51 KB - PDF)
+polski (PL) (720.61 KB - PDF)
 
-**First published:**
-
-28/07/2020
-
-**Last updated:**
-
-19/01/2026
+**First published:** 28/07/2020 **Last updated:** 18/05/2026
 
 [View](/pl/documents/product-information/zercepac-epar-product-information_pl.pdf)
 
-português (PT) (720.37 KB - PDF)
+português (PT) (594.93 KB - PDF)
 
-**First published:**
-
-28/07/2020
-
-**Last updated:**
-
-19/01/2026
+**First published:** 28/07/2020 **Last updated:** 18/05/2026
 
 [View](/pt/documents/product-information/zercepac-epar-product-information_pt.pdf)
 
-română (RO) (753.58 KB - PDF)
+română (RO) (716.88 KB - PDF)
 
-**First published:**
-
-28/07/2020
-
-**Last updated:**
-
-19/01/2026
+**First published:** 28/07/2020 **Last updated:** 18/05/2026
 
 [View](/ro/documents/product-information/zercepac-epar-product-information_ro.pdf)
 
-slovenčina (SK) (699.7 KB - PDF)
+slovenčina (SK) (690.17 KB - PDF)
 
-**First published:**
-
-28/07/2020
-
-**Last updated:**
-
-19/01/2026
+**First published:** 28/07/2020 **Last updated:** 18/05/2026
 
 [View](/sk/documents/product-information/zercepac-epar-product-information_sk.pdf)
 
-slovenščina (SL) (739.54 KB - PDF)
+slovenščina (SL) (694.93 KB - PDF)
 
-**First published:**
-
-28/07/2020
-
-**Last updated:**
-
-19/01/2026
+**First published:** 28/07/2020 **Last updated:** 18/05/2026
 
 [View](/sl/documents/product-information/zercepac-epar-product-information_sl.pdf)
 
-Suomi (FI) (564.25 KB - PDF)
+Suomi (FI) (559.53 KB - PDF)
 
-**First published:**
-
-28/07/2020
-
-**Last updated:**
-
-19/01/2026
+**First published:** 28/07/2020 **Last updated:** 18/05/2026
 
 [View](/fi/documents/product-information/zercepac-epar-product-information_fi.pdf)
 
-svenska (SV) (569.64 KB - PDF)
+svenska (SV) (562.03 KB - PDF)
 
-**First published:**
-
-28/07/2020
-
-**Last updated:**
-
-19/01/2026
+**First published:** 28/07/2020 **Last updated:** 18/05/2026
 
 [View](/sv/documents/product-information/zercepac-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000320725 19/01/2026
+**Latest procedure affecting product information:** VR/0000316200
+
+10/04/2026
 
 icon globe
 
@@ -695,310 +434,178 @@ Zercepac : EPAR - All authorised presentations
 
 English (EN) (50.98 KB - PDF)
 
-**First published:** 28/07/2020
-
-**Last updated:** 09/07/2021
+**First published:** 28/07/2020 **Last updated:** 09/07/2021
 
 [View](/en/documents/all-authorised-presentations/zercepac-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-950)
+[Other languages (24)](#file-language-dropdown-227)
 
 български (BG) (59.28 KB - PDF)
 
-**First published:**
-
-28/07/2020
-
-**Last updated:**
-
-09/07/2021
+**First published:** 28/07/2020 **Last updated:** 09/07/2021
 
 [View](/bg/documents/all-authorised-presentations/zercepac-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (58.78 KB - PDF)
 
-**First published:**
-
-28/07/2020
-
-**Last updated:**
-
-09/07/2021
+**First published:** 28/07/2020 **Last updated:** 09/07/2021
 
 [View](/es/documents/all-authorised-presentations/zercepac-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (52.08 KB - PDF)
 
-**First published:**
-
-28/07/2020
-
-**Last updated:**
-
-09/07/2021
+**First published:** 28/07/2020 **Last updated:** 09/07/2021
 
 [View](/cs/documents/all-authorised-presentations/zercepac-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (51.72 KB - PDF)
 
-**First published:**
-
-28/07/2020
-
-**Last updated:**
-
-09/07/2021
+**First published:** 28/07/2020 **Last updated:** 09/07/2021
 
 [View](/da/documents/all-authorised-presentations/zercepac-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (53.47 KB - PDF)
 
-**First published:**
-
-28/07/2020
-
-**Last updated:**
-
-09/07/2021
+**First published:** 28/07/2020 **Last updated:** 09/07/2021
 
 [View](/de/documents/all-authorised-presentations/zercepac-epar-all-authorised-presentations_de.pdf)
 
 eesti keel (ET) (50.47 KB - PDF)
 
-**First published:**
-
-28/07/2020
-
-**Last updated:**
-
-09/07/2021
+**First published:** 28/07/2020 **Last updated:** 09/07/2021
 
 [View](/et/documents/all-authorised-presentations/zercepac-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (66.4 KB - PDF)
 
-**First published:**
-
-28/07/2020
-
-**Last updated:**
-
-09/07/2021
+**First published:** 28/07/2020 **Last updated:** 09/07/2021
 
 [View](/el/documents/all-authorised-presentations/zercepac-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (50.56 KB - PDF)
 
-**First published:**
-
-28/07/2020
-
-**Last updated:**
-
-09/07/2021
+**First published:** 28/07/2020 **Last updated:** 09/07/2021
 
 [View](/fr/documents/all-authorised-presentations/zercepac-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (66.65 KB - PDF)
 
-**First published:**
-
-28/07/2020
-
-**Last updated:**
-
-09/07/2021
+**First published:** 28/07/2020 **Last updated:** 09/07/2021
 
 [View](/hr/documents/all-authorised-presentations/zercepac-epar-all-authorised-presentations_hr.pdf)
 
 íslenska (IS) (60.06 KB - PDF)
 
-**First published:**
-
-28/07/2020
-
-**Last updated:**
-
-09/07/2021
+**First published:** 28/07/2020 **Last updated:** 09/07/2021
 
 [View](/is/documents/all-authorised-presentations/zercepac-epar-all-authorised-presentations_is.pdf)
 
 italiano (IT) (58.28 KB - PDF)
 
-**First published:**
-
-28/07/2020
-
-**Last updated:**
-
-09/07/2021
+**First published:** 28/07/2020 **Last updated:** 09/07/2021
 
 [View](/it/documents/all-authorised-presentations/zercepac-epar-all-authorised-presentations_it.pdf)
 
 latviešu valoda (LV) (76.91 KB - PDF)
 
-**First published:**
-
-28/07/2020
-
-**Last updated:**
-
-09/07/2021
+**First published:** 28/07/2020 **Last updated:** 09/07/2021
 
 [View](/lv/documents/all-authorised-presentations/zercepac-epar-all-authorised-presentations_lv.pdf)
 
 lietuvių kalba (LT) (67.5 KB - PDF)
 
-**First published:**
-
-28/07/2020
-
-**Last updated:**
-
-09/07/2021
+**First published:** 28/07/2020 **Last updated:** 09/07/2021
 
 [View](/lt/documents/all-authorised-presentations/zercepac-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (55.2 KB - PDF)
 
-**First published:**
-
-28/07/2020
-
-**Last updated:**
-
-09/07/2021
+**First published:** 28/07/2020 **Last updated:** 09/07/2021
 
 [View](/hu/documents/all-authorised-presentations/zercepac-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (76.43 KB - PDF)
 
-**First published:**
-
-28/07/2020
-
-**Last updated:**
-
-09/07/2021
+**First published:** 28/07/2020 **Last updated:** 09/07/2021
 
 [View](/mt/documents/all-authorised-presentations/zercepac-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (59.32 KB - PDF)
 
-**First published:**
-
-28/07/2020
-
-**Last updated:**
-
-09/07/2021
+**First published:** 28/07/2020 **Last updated:** 09/07/2021
 
 [View](/nl/documents/all-authorised-presentations/zercepac-epar-all-authorised-presentations_nl.pdf)
 
 norsk (NO) (60.37 KB - PDF)
 
-**First published:**
-
-28/07/2020
-
-**Last updated:**
-
-09/07/2021
+**First published:** 28/07/2020 **Last updated:** 09/07/2021
 
 [View](/no/documents/all-authorised-presentations/zercepac-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (78.09 KB - PDF)
 
-**First published:**
-
-28/07/2020
-
-**Last updated:**
-
-09/07/2021
+**First published:** 28/07/2020 **Last updated:** 09/07/2021
 
 [View](/pl/documents/all-authorised-presentations/zercepac-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (60.03 KB - PDF)
 
-**First published:**
-
-28/07/2020
-
-**Last updated:**
-
-09/07/2021
+**First published:** 28/07/2020 **Last updated:** 09/07/2021
 
 [View](/pt/documents/all-authorised-presentations/zercepac-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (75 KB - PDF)
 
-**First published:**
-
-28/07/2020
-
-**Last updated:**
-
-09/07/2021
+**First published:** 28/07/2020 **Last updated:** 09/07/2021
 
 [View](/ro/documents/all-authorised-presentations/zercepac-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (61.64 KB - PDF)
 
-**First published:**
-
-28/07/2020
-
-**Last updated:**
-
-09/07/2021
+**First published:** 28/07/2020 **Last updated:** 09/07/2021
 
 [View](/sk/documents/all-authorised-presentations/zercepac-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (66.49 KB - PDF)
 
-**First published:**
-
-28/07/2020
-
-**Last updated:**
-
-09/07/2021
+**First published:** 28/07/2020 **Last updated:** 09/07/2021
 
 [View](/sl/documents/all-authorised-presentations/zercepac-epar-all-authorised-presentations_sl.pdf)
 
 Suomi (FI) (50.29 KB - PDF)
 
-**First published:**
-
-28/07/2020
-
-**Last updated:**
-
-09/07/2021
+**First published:** 28/07/2020 **Last updated:** 09/07/2021
 
 [View](/fi/documents/all-authorised-presentations/zercepac-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (58.88 KB - PDF)
 
-**First published:**
-
-28/07/2020
-
-**Last updated:**
-
-09/07/2021
+**First published:** 28/07/2020 **Last updated:** 09/07/2021
 
 [View](/sv/documents/all-authorised-presentations/zercepac-epar-all-authorised-presentations_sv.pdf)
 
 ## Product details
 
-Name of medicine Zercepac Active substance trastuzumab International non-proprietary name (INN) or common name trastuzumab Therapeutic area (MeSH)
+Name of medicine
+
+Zercepac
+
+Active substance
+
+trastuzumab
+
+International non-proprietary name (INN) or common name
+
+trastuzumab
+
+Therapeutic area (MeSH)
 
 - Breast Neoplasms
 - Stomach Neoplasms
 
-Anatomical therapeutic chemical (ATC) code L01FD01
+Anatomical therapeutic chemical (ATC) code
+
+L01FD01
 
 ### Pharmacotherapeutic group
 
@@ -1036,7 +643,9 @@ Zercepac should only be used in patients with metastatic gastric cancer (MGC) wh
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/005209
+EMA product number
+
+EMEA/H/C/005209
 
 Additional monitoring
 
@@ -1052,7 +661,17 @@ Accord Healthcare S.L.U.
 
 Edificio Este Planta 6a
 
-Opinion adopted 28/05/2020 Marketing authorisation issued 27/07/2020 Revision 14
+Opinion adopted
+
+28/05/2020
+
+Marketing authorisation issued
+
+27/07/2020
+
+Revision
+
+15
 
 ## Assessment history
 
@@ -1064,9 +683,9 @@ Collapse section
 
 Zercepac : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (144.68 KB - PDF)
+English (EN) (138.63 KB - PDF)
 
-**First published:** 19/01/2026
+**First published:** 19/01/2026 **Last updated:** 18/05/2026
 
 [View](/en/documents/procedural-steps-after/zercepac-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1074,9 +693,7 @@ Zercepac : EPAR - Procedural steps taken and scientific information after author
 
 English (EN) (193.61 KB - PDF)
 
-**First published:** 26/11/2020
-
-**Last updated:** 07/01/2026
+**First published:** 26/11/2020 **Last updated:** 07/01/2026
 
 [View](/en/documents/procedural-steps-after/zercepac-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
@@ -1084,9 +701,7 @@ English (EN) (193.61 KB - PDF)
 
 Zercepac : EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/327248/2020
+Adopted Reference Number: EMA/327248/2020
 
 English (EN) (8.86 MB - PDF)
 
@@ -1096,9 +711,7 @@ English (EN) (8.86 MB - PDF)
 
 CHMP summary of positive opinion for Zercepac
 
-Adopted
-
-Reference Number: EMA/CHMP/251510/2020
+Adopted Reference Number: EMA/CHMP/251510/2020
 
 English (EN) (178.71 KB - PDF)
 
@@ -1106,17 +719,19 @@ English (EN) (178.71 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-zercepac_en.pdf)
 
-#### News on Zercepac
+## News on Zercepac
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 25-28 May 2020](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-25-28-may-2020) 29/05/2020
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 25-28 May 2020](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-25-28-may-2020)
 
-#### Topics
+29/05/2020
+
+## Topics
 
 - [Biosimilars](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A45)
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 19/01/2026
+**This page was last updated on**
+
+18/05/2026
 
 ## Share this page
-
-[Back to top](#main-content)

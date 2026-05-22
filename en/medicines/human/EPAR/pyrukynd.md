@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-04-21 16:31:00
+document_datetime: 2026-05-21 13:34:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/pyrukynd.html
 document_name: pyrukynd.html
 version: success
-processing_time: 0.1138635
-conversion_datetime: 2026-04-25 16:45:33.628694
+processing_time: 0.1168258
+conversion_datetime: 2026-05-22 22:34:43.915956
 docling_version:
-  docling-serve: 1.16.1
-  docling-jobkit: 1.17.1
-  docling: 2.90.0
-  docling-core: 2.74.0
-  docling-ibm-models: 3.13.0
-  docling-parse: 5.9.0
+  docling-serve: 1.20.0
+  docling-jobkit: 1.20.0
+  docling: 2.95.0
+  docling-core: 2.77.0
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.11.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
 ---
 # Pyrukynd
 
@@ -108,7 +108,7 @@ English (EN) (119.47 KB - PDF)
 
 [View](/en/documents/overview/pyrukynd-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-544)
+[Other languages (22)](#file-language-dropdown-888)
 
 български (BG) (146.51 KB - PDF)
 
@@ -246,7 +246,7 @@ Pyrukynd : EPAR - Risk Management Plan
 
 English (EN) (1.54 MB - PDF)
 
-**First published:** 05/12/2022 **Last updated:** 21/04/2026
+**First published:** 05/12/2022 **Last updated:** 21/05/2026
 
 [View](/en/documents/rmp/pyrukynd-epar-risk-management-plan_en.pdf)
 
@@ -260,7 +260,7 @@ English (EN) (827.36 KB - PDF)
 
 [View](/en/documents/product-information/pyrukynd-epar-product-information_en.pdf)
 
-[Other languages (25)](#file-language-dropdown-386)
+[Other languages (25)](#file-language-dropdown-931)
 
 български (BG) (919.19 KB - PDF)
 
@@ -412,7 +412,9 @@ svenska (SV) (801.51 KB - PDF)
 
 [View](/sv/documents/product-information/pyrukynd-epar-product-information_sv.pdf)
 
-09/11/2022
+**Latest procedure affecting product information:** VR/0000344092
+
+20/05/2026
 
 icon globe
 
@@ -436,7 +438,7 @@ English (EN) (39.57 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/pyrukynd-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (25)](#file-language-dropdown-513)
+[Other languages (25)](#file-language-dropdown-609)
 
 български (BG) (50.17 KB - PDF)
 
@@ -649,9 +651,23 @@ Marketing authorisation issued
 
 Revision
 
-1
+2
 
 ## Assessment history
+
+Expand section
+
+Collapse section
+
+## Changes since initial authorisation of medicine
+
+Pyrukynd : EPAR - Procedural steps taken and scientific information after authorisation
+
+English (EN) (142.5 KB - PDF)
+
+**First published:** 21/05/2026
+
+[View](/en/documents/procedural-steps-after/pyrukynd-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
 ## Initial marketing authorisation documents
 
@@ -704,6 +720,6 @@ English (EN) (127.72 KB - PDF)
 
 **This page was last updated on**
 
-21/04/2026
+21/05/2026
 
 ## Share this page

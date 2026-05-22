@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-02-19 16:10:05
-document_pages: 84
+document_datetime: 2026-05-18 10:40:56
+document_pages: 87
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/imfinzi-epar-product-information_en.pdf
 document_name: imfinzi-epar-product-information_en.pdf
 version: success
-processing_time: 56.4769231
-conversion_datetime: 2026-02-21 12:25:24.025796
+processing_time: 77.4435624
+conversion_datetime: 2026-05-22 23:28:34.409948
 docling_version:
-  docling-serve: 1.13.0
-  docling-jobkit: 1.11.0
-  docling: 2.74.0
-  docling-core: 2.65.1
-  docling-ibm-models: 3.11.0
-  docling-parse: 5.3.2
+  docling-serve: 1.20.0
+  docling-jobkit: 1.20.0
+  docling: 2.95.0
+  docling-core: 2.77.0
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.11.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -81,6 +81,10 @@ IMFINZI in combination with carboplatin and paclitaxel is indicated for the firs
 
 IMFINZI in combination with gemcitabine and cisplatin as neoadjuvant treatment, followed by IMFINZI as monotherapy adjuvant treatment after radical cystectomy, is indicated for the treatment of adults with resectable muscle invasive bladder cancer (MIBC).
 
+## Gastric or Gastro-oesophageal Junction Adenocarcinoma (GC/GEJC)
+
+IMFINZI in combination with FLOT chemotherapy as neoadjuvant and adjuvant treatment, followed by adjuvant IMFINZI monotherapy, is indicated for the treatment of adults with resectable gastric or gastro-oesophageal junction adenocarcinoma.
+
 ## 4.2 Posology and method of administration
 
 Treatment must be initiated and supervised by a physician experienced in the treatment of cancer.
@@ -107,29 +111,31 @@ When IMFINZI is administered in combination with other therapeutic agents, refer
 | Locally Advanced NSCLC | 10 mg/kg every 2 weeks or 1 500 mg every 4 weeks a | Until disease progression, unacceptable toxicity, or a maximum of 12 months b |
 | LS-SCLC                | 1 500 mg every 4 weeks a                           | Until disease progression, unacceptable toxicity, or a maximum of 24 months   |
 | HCC                    | 1 500 mg every 4 weeks a                           | Until disease progression or until unacceptable toxicity                      |
-| Combination therapy    | Combination therapy                                | Combination therapy                                                           |
 
 <div style=\"page-break-after: always\"></div>
 
-| Indication         | Recommended IMFINZI dose                                                                                                                                                                                                                                                                                                                                          | Duration of therapy                                                                                                                                                                                        |
-|--------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Resectable NSCLC   | 1 500 mg c in combination with platinum-based chemotherapy every 3 weeks for up to 4 cycles prior to surgery, followed by 1 500 mg monotherapy every 4 weeks for up to 12 cycles after surgery.                                                                                                                                                                   | Neoadjuvant phase: until disease progression that precludes definitive surgery or unacceptable toxicity. Adjuvant phase: until recurrence, unacceptable toxicity, or a maximum of 12 cycles after surgery. |
-| Metastatic NSCLC   | During platinum chemotherapy: 1 500 mg d in combination with tremelimumab 75 mg d and platinum-based chemotherapy every 3 weeks (21 days) for 4 cycles (12 weeks) Post-platinum chemotherapy: 1 500 mg every 4 weeks as monotherapy and histology- based pemetrexed maintenance e therapy every 4 weeks A fifth dose of tremelimumab 75 mg f,g should be given at | Until disease progression or unacceptable toxicity                                                                                                                                                         |
-| ES-SCLC            | week 16 alongside IMFINZI 1 500 mg h in combination with chemotherapy every 3 weeks (21 days) for 4 cycles, followed by 1 500 mg every 4 weeks as monotherapy                                                                                                                                                                                                     | Until disease progression or unacceptable toxicity                                                                                                                                                         |
-| BTC                | 1 500 mg i in combination with chemotherapy every 3 weeks (21 days) up to 8 cycles, followed by 1 500 mg every 4 weeks as monotherapy                                                                                                                                                                                                                             | Until disease progression or until unacceptable toxicity                                                                                                                                                   |
-| HCC                | IMFINZI 1 500 mg j administered in combination with 300 mg j tremelimumab as a single dose at Cycle 1/Day 1, followed by IMFINZI as monotherapy every 4 weeks                                                                                                                                                                                                     | Until disease progression or unacceptable toxicity                                                                                                                                                         |
-| Endometrial Cancer | 1 120 mgin combination with carboplatin and paclitaxel every 3 weeks (21 days) for a minimum of 4 and up to 6 cycles,                                                                                                                                                                                                                                             | Until disease progression or unacceptable toxicity                                                                                                                                                         |
+| Indication          | Recommended IMFINZI dose                                                                                                                                                                                                                                                                                                                                                                   | Duration of therapy                                                                                                                                                                                        |
+|---------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Combination therapy |                                                                                                                                                                                                                                                                                                                                                                                            |                                                                                                                                                                                                            |
+| Resectable NSCLC    | 1 500 mg c in combination with platinum-based chemotherapy every 3 weeks for up to 4 cycles prior to surgery, followed by 1 500 mg monotherapy every 4 weeks for up to 12 cycles after surgery.                                                                                                                                                                                            | Neoadjuvant phase: until disease progression that precludes definitive surgery or unacceptable toxicity. Adjuvant phase: until recurrence, unacceptable toxicity, or a maximum of 12 cycles after surgery. |
+| Metastatic NSCLC    | During platinum chemotherapy: 1 500 mg d in combination with tremelimumab 75 mg d and platinum-based chemotherapy every 3 weeks (21 days) for 4 cycles (12 weeks) Post-platinum chemotherapy: 1 500 mg every 4 weeks as monotherapy and histology-based pemetrexed maintenance e therapy every 4 weeks A fifth dose of tremelimumab 75 mg f,g should be given at week 16 alongside IMFINZI | Until disease progression or unacceptable toxicity                                                                                                                                                         |
+| ES-SCLC             | 1 500 mg h in combination with chemotherapy every 3 weeks (21 days) for 4 cycles, followed by 1 500 mg every                                                                                                                                                                                                                                                                               | Until disease progression or unacceptable toxicity                                                                                                                                                         |
+| BTC                 | 1 500 mg i in combination with chemotherapy every 3 weeks (21 days) up to 8 cycles, followed by 1 500 mg every 4 weeks as monotherapy                                                                                                                                                                                                                                                      | Until disease progression or until unacceptable toxicity                                                                                                                                                   |
+| HCC                 | IMFINZI 1 500 mg j administered in combination with 300 mg j tremelimumab as a single dose at Cycle 1/Day 1, followed by IMFINZI as                                                                                                                                                                                                                                                        | Until disease progression or unacceptable toxicity                                                                                                                                                         |
+| Endometrial Cancer  | 1 120 mgin combination with carboplatin and paclitaxel every 3 weeks (21 days) for a minimum of 4 and up to 6 cycles, followed by IMFINZI 1 500 mg k every 4 weeks as monotherapy (dMMR patients) or in combination with olaparib                                                                                                                                                          | Until disease progression or unacceptable toxicity                                                                                                                                                         |
 
 <div style=\"page-break-after: always\"></div>
 
-| Indication   | Recommended IMFINZI dose                                                                                                                                                      | Duration of therapy                                                                                                                                                                                     |
-|--------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|              | followed by IMFINZI 1 500 mg k every 4 weeks as monotherapy (dMMR patients) or in combination with olaparib 300 mg twice daily (pMMR patients)                                |                                                                                                                                                                                                         |
-| MIBC         | 1 500 mg l in combination with chemotherapy every 3 weeks for 4 cycles prior to surgery, followed by 1 500 mg l every 4 weeks as monotherapy for up to 8 cycles after surgery | Neoadjuvant phase: until disease progression that precludes definitive surgery or unacceptable toxicity Adjuvant phase: until recurrence, unacceptable toxicity, or a maximum of 8 cycles after surgery |
+| Indication   | Recommended IMFINZI dose                                                                                                                                                                                                                                                                               | Duration of therapy                                                                                                                                                                                                     |
+|--------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|              | 300 mg twice daily (pMMR patients)                                                                                                                                                                                                                                                                     |                                                                                                                                                                                                                         |
+| MIBC         | 1 500 mg l in combination with chemotherapy every 3 weeks for 4 cycles prior to surgery, followed by 1 500 mg l every 4 weeks as monotherapy for up to 8 cycles after surgery                                                                                                                          | Neoadjuvant phase: until disease progression that precludes definitive surgery or unacceptable toxicity Adjuvant phase: until recurrence, unacceptable toxicity, or a maximum of 8 cycles after surgery                 |
+| GC/GEJC      | 1 500 mg m in combination with FLOT chemotherapy every 4 weeks for up to 2 cycles prior to surgery, followed by 1 500 mg m , with FLOT chemotherapy, every 4 weeks for up to 2 cycles and then as 1 500 mg monotherapy every 4 weeks for up to 10 cycles, for a total of up to 12 cycles after surgery | Neoadjuvant phase: until disease progression that precludes definitive surgery or unacceptable toxicity Adjuvant phase: until progression or recurrence, unacceptable toxicity, or a maximum of 12 cycles after surgery |
 
 a  Patients with a body weight of 30 kg or less must receive weight-based dosing, equivalent to IMFINZI 10 mg/kg every 2 weeks or 20 mg/kg every 4 weeks as monotherapy until weight increases to greater than 30 kg.
 
-- b It is recommended to continue treatment for clinically stable patients with initial evidence of disease progression until disease progression is confirmed.
+b It is recommended to continue treatment for clinically stable patients with initial evidence of disease progression until disease progression is confirmed.
+
 - c  Resectable NSCLC patients with a body weight of 30 kg or less must receive weight-based dosing of IMFINZI at 20 mg/kg. In combination with platinum-based chemotherapy dose at 20 mg/kg every 3 weeks (21 days) prior to surgery, followed by monotherapy at 20 mg/kg every 4 weeks after surgery until weight increases to greater than 30 kg.
 - d  Metastatic NSCLC patients with a body weight of 30 kg or less must receive weight-based dosing, equivalent to IMFINZI 20 mg/kg until weight increases to greater than 30 kg. Patients with a body weight of 34 kg or less must receive weight-based dosing equivalent to tremelimumab 1 mg/kg until weight increases to greater than 34 kg.
 - e  Consider maintenance administration of pemetrexed for patients with non-squamous tumours who received treatment with pemetrexed and carboplatin/cisplatin during the platinum-based chemotherapy stage.
@@ -141,71 +147,75 @@ a  Patients with a body weight of 30 kg or less must receive weight-based dosing
 - k  Endometrial cancer patients with a body weight of 30 kg or less during maintenance phase must receive weight-based dosing equivalent to IMFINZI at 20 mg/kg, until weight increases to greater than 30 kg.
 - l  MIBC patients with a body weight of 30 kg or less must receive weight-based dosing of IMFINZI at 20 mg/kg.
 
+<div style=\"page-break-after: always\"></div>
+
+m  GC/GEJC patients with a body weight of 30 kg or less must receive weight-based dosing of IMFINZI at 20 mg/kg.
+
 Dose escalation or reduction is not recommended. Treatment withholding or discontinuation may be required based on individual safety and tolerability, see Table 2.
 
 Guidelines for management of immune-mediated and non-immune-mediated adverse reactions are described in Table 2 (refer to section 4.4 for further management recommendations, monitoring and evaluation information).
 
-<div style=\"page-break-after: always\"></div>
-
 Table 2. Treatment modifications for IMFINZI or IMFINZI in combination with other products
 
-| Adverse reactions                                                                                               | Severity a                                                                                                                            | Treatment modification                                                         |
-|-----------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|
-| Immune-mediated adverse reactions                                                                               | Immune-mediated adverse reactions                                                                                                     | Immune-mediated adverse reactions                                              |
-| Immune-mediated pneumonitis/interstitial lung disease                                                           | Grade 2                                                                                                                               | Withhold dose                                                                  |
-| Immune-mediated pneumonitis/interstitial lung disease                                                           | Grade 3 or 4                                                                                                                          | Permanently discontinue                                                        |
-| Immune-mediated hepatitis                                                                                       | ALT or AST > 3 - ≤ 5 x ULN or total bilirubin > 1.5 - ≤ 3 x ULN                                                                       | Withhold dose                                                                  |
-| Immune-mediated hepatitis                                                                                       | ALT or AST > 5 - ≤ 10 x ULN                                                                                                           | Withhold IMFINZI and permanently discontinue tremelimumab (where appropriate)  |
-| Immune-mediated hepatitis                                                                                       | Concurrent ALT or AST > 3 x ULN and total bilirubin > 2 x ULN b                                                                       | Permanently discontinue                                                        |
-| Immune-mediated hepatitis                                                                                       | ALT or AST > 10 x ULN or total bilirubin > 3 x ULN                                                                                    | Permanently discontinue                                                        |
-| Immune-mediated hepatitis in HCC (or secondary tumour involvement of the liver with abnormal baseline values) c | ALT or AST > 2.5 - ≤ 5 x BLV and ≤ 20 x ULN                                                                                           | Withhold dose                                                                  |
-| Immune-mediated hepatitis in HCC (or secondary tumour involvement of the liver with abnormal baseline values) c | ALT or AST > 5 - 7 x BLV and ≤ 20 x ULN or concurrent ALT or AST 2.5 - 5 x BLV and ≤ 20 x ULN and total bilirubin > 1.5 - < 2 x ULN b | Withhold IMFINZI and permanently discontinue tremelimumab (where appropriate). |
-| Immune-mediated hepatitis in HCC (or secondary tumour involvement of the liver with abnormal baseline values) c | ALT or AST > 7 x BLV or > 20 ULN whichever occurs first                                                                               | Permanently discontinue                                                        |
+| Adverse reactions                                                                                               | Severity a                                                      | Treatment modification                                                        |
+|-----------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|-------------------------------------------------------------------------------|
+| Immune-mediated adverse reactions                                                                               | Immune-mediated adverse reactions                               | Immune-mediated adverse reactions                                             |
+| Immune-mediated pneumonitis/interstitial lung disease                                                           | Grade 2                                                         | Withhold dose                                                                 |
+| Immune-mediated pneumonitis/interstitial lung disease                                                           | Grade 3 or 4                                                    | Permanently discontinue                                                       |
+| Immune-mediated hepatitis                                                                                       | ALT or AST > 3 - ≤ 5 x ULN or total bilirubin > 1.5 - ≤ 3 x ULN | Withhold dose                                                                 |
+| Immune-mediated hepatitis                                                                                       | ALT or AST > 5 - ≤ 10 x ULN                                     | Withhold IMFINZI and permanently discontinue tremelimumab (where appropriate) |
+| Immune-mediated hepatitis                                                                                       | Concurrent ALT or AST > 3 x ULN and total bilirubin > 2 x ULN b | Permanently discontinue                                                       |
+| Immune-mediated hepatitis                                                                                       | ALT or AST > 10 x ULN or total bilirubin > 3 x ULN              | Permanently discontinue                                                       |
+| Immune-mediated hepatitis in HCC (or secondary tumour involvement of the liver with abnormal baseline values) c | ALT or AST > 2.5 - ≤ 5 x BLV and ≤ 20 x ULN                     | Withhold dose                                                                 |
+| Immune-mediated hepatitis in HCC (or secondary tumour involvement of the liver with abnormal baseline values) c | ALT or AST > 5 - 7 x BLV and ≤ 20 x ULN                         | Withhold IMFINZI and permanently discontinue                                  |
 
 <div style=\"page-break-after: always\"></div>
 
-| Adverse reactions                                                     | Severity a                                                                                           | Treatment modification                 |
-|-----------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|----------------------------------------|
-|                                                                       | or bilirubin > 3 X ULN                                                                               |                                        |
-| Immune-mediated colitis or diarrhoea                                  | Grade 2                                                                                              | Withhold dose                          |
-| Immune-mediated colitis or diarrhoea                                  | Grade 3 for IMFINZI monotherapy                                                                      | Withhold dose                          |
-| Immune-mediated colitis or diarrhoea                                  | Grade 3 for IMFINZI + tremelimumab                                                                   | Permanently discontinue tremelimumab d |
-| Immune-mediated colitis or diarrhoea                                  | Grade 4                                                                                              | Permanently discontinue                |
-| Intestinal perforation e                                              | Any grade                                                                                            | Permanently discontinue                |
-| Immune-mediated hyperthyroidism, thyroiditis                          | Grade 2-4                                                                                            | Withhold dose until clinically stable  |
-| Immune-mediated hypothyroidism                                        | Grade 2-4                                                                                            | No changes                             |
-| Immune-mediated adrenal insufficiency or hypophysitis/hypopituitarism | Grade 2-4                                                                                            | Withhold dose until clinically stable  |
-| Immune-mediated type 1 diabetes mellitus                              | Grade 2-4                                                                                            | No changes                             |
-| Immune-mediated nephritis                                             | Grade 2 with serum creatinine > 1.5 - 3 x (ULN or baseline)                                          | Withhold dose                          |
-| Immune-mediated nephritis                                             | Grade 3 with serum creatinine > 3 x baseline or > 3-6 x ULN; Grade 4 with serum creatinine > 6 x ULN | Permanently discontinue                |
-| Immune-mediated rash or dermatitis (including pemphigoid)             | Grade 2 for > 1 week                                                                                 | Withhold dose                          |
-| Immune-mediated rash or dermatitis (including pemphigoid)             | Grade 3                                                                                              |                                        |
+| Adverse reactions                                                     | Severity a                                                                                    | Treatment modification                 |
+|-----------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|----------------------------------------|
+|                                                                       | or concurrent ALT or AST 2.5 - 5 x BLV and ≤ 20 x ULN and total bilirubin > 1.5 - < 2 x ULN b | tremelimumab (where appropriate).      |
+|                                                                       | ALT or AST > 7 x BLV or > 20 ULN whichever occurs first or bilirubin > 3 X ULN                | Permanently discontinue                |
+| Immune-mediated colitis or diarrhoea                                  | Grade 2                                                                                       | Withhold dose                          |
+| Immune-mediated colitis or diarrhoea                                  | Grade 3 for IMFINZI monotherapy                                                               | Withhold dose                          |
+| Immune-mediated colitis or diarrhoea                                  | Grade 3 for IMFINZI + tremelimumab                                                            | Permanently discontinue tremelimumab d |
+| Immune-mediated colitis or diarrhoea                                  | Grade 4                                                                                       | Permanently discontinue                |
+| Intestinal perforation e                                              | Any grade                                                                                     | Permanently discontinue                |
+| Immune-mediated hyperthyroidism, thyroiditis                          | Grade 2-4                                                                                     | Withhold dose until clinically stable  |
+| Immune-mediated hypothyroidism                                        | Grade 2-4                                                                                     | No changes                             |
+| Immune-mediated adrenal insufficiency or hypophysitis/hypopituitarism | Grade 2-4                                                                                     | Withhold dose until clinically stable  |
+| Immune-mediated type 1 diabetes mellitus                              | Grade 2-4                                                                                     | No changes                             |
+| Immune-mediated nephritis                                             | Grade 2 with serum creatinine > 1.5 - 3 x (ULN or baseline)                                   | Withhold dose                          |
 
 <div style=\"page-break-after: always\"></div>
 
-| Adverse reactions                                    | Severity a                            | Treatment modification                              |
-|------------------------------------------------------|---------------------------------------|-----------------------------------------------------|
-|                                                      | Grade 4                               | Permanently discontinue                             |
-| Immune-mediated myocarditis                          | Grade 2-4                             | Permanently discontinue                             |
-| Immune-mediated myositis/polymyositis/rhabdomyolysis | Grade 2 or 3                          | Withhold dose f                                     |
-| Immune-mediated myositis/polymyositis/rhabdomyolysis | Grade 4                               | Permanently discontinue                             |
-| Infusion-related reactions                           | Grade 1 or 2                          | Interrupt or slow the rate of infusion              |
-| Infusion-related reactions                           | Grade 3 or 4                          | Permanently discontinue                             |
-| Infection                                            | Grade 3 or 4                          | Withhold dose until clinically stable               |
-| Immune-mediated myasthenia gravis                    | Grade 2-4                             | Permanently discontinue                             |
-| Immune-mediated Myelitis transverse                  | Any grade                             | Permanently discontinue                             |
-| Immune-mediated meningitis                           | Grade 2                               | Withhold dose                                       |
-| Immune-mediated meningitis                           | Grade 3 or 4                          | Permanently discontinue                             |
-| Immune-mediated encephalitis                         | Grade 2-4                             | Permanently discontinue                             |
-| Immune-mediated Guillain-Barré syndrome              | Grade 2-4                             | Permanently discontinue                             |
-| Other immune-mediated adverse reactions g            | Grade 2 or 3                          | Withhold dose                                       |
-| Other immune-mediated adverse reactions g            | Grade 4                               | Permanently discontinue                             |
-| Non-immune-mediated adverse reactions                | Non-immune-mediated adverse reactions | Non-immune-mediated adverse reactions               |
-| Pure red cell aplasia (PRCA) h                       | Any Grade                             | Permanently discontinue                             |
-| Other non-immune-mediated adverse reactions          | Grade 2 and 3                         | Withhold dose until ≤ Grade 1 or return to baseline |
-| Other non-immune-mediated adverse reactions          | Grade 4                               | Permanently discontinue i                           |
+| Adverse reactions                                         | Severity a                                                                                           | Treatment modification                 |
+|-----------------------------------------------------------|------------------------------------------------------------------------------------------------------|----------------------------------------|
+|                                                           | Grade 3 with serum creatinine > 3 x baseline or > 3-6 x ULN; Grade 4 with serum creatinine > 6 x ULN | Permanently discontinue                |
+| Immune-mediated rash or dermatitis (including pemphigoid) | Grade 2 for > 1 week Grade 3                                                                         | Withhold dose                          |
+| Immune-mediated rash or dermatitis (including pemphigoid) | Grade 4                                                                                              | Permanently discontinue                |
+| Immune-mediated myocarditis                               | Grade 2-4                                                                                            | Permanently discontinue                |
+| Immune-mediated myositis/polymyositis/rhabdomyolysis      | Grade 2 or 3                                                                                         | Withhold dose f                        |
+| Immune-mediated myositis/polymyositis/rhabdomyolysis      | Grade 4                                                                                              | Permanently discontinue                |
+| Infusion-related reactions                                | Grade 1 or 2                                                                                         | Interrupt or slow the rate of infusion |
+| Infusion-related reactions                                | Grade 3 or 4                                                                                         | Permanently discontinue                |
+| Infection                                                 | Grade 3 or 4                                                                                         | Withhold dose until clinically stable  |
+| Immune-mediated myasthenia gravis                         | Grade 2-4                                                                                            | Permanently discontinue                |
+| Immune-mediated Myelitis transverse                       | Any grade                                                                                            | Permanently discontinue                |
+| Immune-mediated meningitis                                | Grade 2                                                                                              | Withhold dose                          |
+| Immune-mediated meningitis                                | Grade 3 or 4                                                                                         | Permanently discontinue                |
+| Immune-mediated encephalitis                              | Grade 2-4                                                                                            | Permanently discontinue                |
+| Immune-mediated Guillain-Barré syndrome                   | Grade 2-4                                                                                            | Permanently discontinue                |
+| Other immune-mediated adverse reactions g                 | Grade 2 or 3                                                                                         | Withhold dose                          |
+| Other immune-mediated adverse reactions g                 | Grade 4                                                                                              | Permanently discontinue                |
 
 <div style=\"page-break-after: always\"></div>
+
+| Adverse reactions                           | Severity a                            | Treatment modification                              |
+|---------------------------------------------|---------------------------------------|-----------------------------------------------------|
+| Non-immune-mediated adverse reactions       | Non-immune-mediated adverse reactions | Non-immune-mediated adverse reactions               |
+| Pure red cell aplasia (PRCA) h              | Any Grade                             | Permanently discontinue                             |
+| Other non-immune-mediated adverse reactions | Grade 2 and 3                         | Withhold dose until ≤ Grade 1 or return to baseline |
+| Other non-immune-mediated adverse reactions | Grade 4                               | Permanently discontinue i                           |
 
 - c If AST and ALT are less than or equal to ULN at baseline in patients with liver involvement, withhold or permanently discontinue durvalumab based on recommendations for hepatitis with no liver involvement.
 - d  Permanently discontinue tremelimumab for Grade 3; however, treatment with durvalumab can be resumed once event has resolved.
@@ -231,9 +241,11 @@ No dose adjustment of IMFINZI is recommended in patients with mild or moderate r
 
 No dose adjustment of IMFINZI is recommended for patients with mild or moderate hepatic impairment. Data from patients with severe hepatic impairment are too limited to draw conclusions on this population (see section 5.2).
 
+<div style=\"page-break-after: always\"></div>
+
 ## Paediatric population
 
-The safety and efficacy of IMFINZI in children and adolescents aged below 18 years of age has not been established with regard to NSCLC, SCLC, BTC and HCC. No data are available. Outside its authorised indications, IMFINZI in combination with tremelimumab has been studied in children aged 1 to 17 years with neuroblastoma, solid tumour and sarcoma, however the results of the study did not allow to conclude that the benefits of such use outweigh the risks. Currently available data are described in sections 5.1 and 5.2.
+The safety and efficacy of IMFINZI in children and adolescents aged below 18 years of age has not been established with regard to NSCLC, SCLC, BTC, HCC, endometrial cancer and GC/GEJC. No data are available. Outside its authorised indications, IMFINZI in combination with tremelimumab has been studied in children aged 1 to 17 years with neuroblastoma, solid tumour and sarcoma, however the results of the study did not allow to conclude that the benefits of such use outweigh the risks. Currently available data are described in sections 5.1 and 5.2.
 
 ## Method of administration
 
@@ -245,9 +257,7 @@ For instructions on dilution of the medicinal product before administration, see
 
 When IMFINZI is administered in combination with chemotherapy, administer IMFINZI prior to chemotherapy on the same day.
 
-IMFINZI in combination with tremelimumab and platinum-based chemotherapy
-
-<div style=\"page-break-after: always\"></div>
+## IMFINZI in combination with tremelimumab and platinum-based chemotherapy
 
 When IMFINZI is administered in combination with tremelimumab and platinum-based chemotherapy, tremelimumab is given first, followed by IMFINZI and then platinum-based chemotherapy on the same day of dosing.
 
@@ -259,7 +269,7 @@ During cycle 1, tremelimumab is to be followed by IMFINZI starting approximately
 
 ## IMFINZI in combination with tremelimumab
 
-For uHCC, when IMFINZI is administered in combination with tremelimumab, administer tremelimumab prior to IMFINZI on the same day. IMFINZI and tremelimumab are administered as separate intravenous infusions. Refer to the SmPC for tremelimumab dosing information.
+When IMFINZI is administered in combination with tremelimumab, administer tremelimumab prior to IMFINZI on the same day. IMFINZI and tremelimumab are administered as separate intravenous infusions. Refer to the SmPC for tremelimumab dosing information.
 
 ## 4.3 Contraindications
 
@@ -271,6 +281,8 @@ Refer to section 4.2, Table 2 for recommended treatment modifications.
 
 For suspected immune-mediated adverse reactions, adequate evaluation should be performed to confirm etiology or exclude alternate etiologies. Based on the severity of the adverse reaction, IMFINZI or IMFINZI in combination with tremelimumab should be withheld or permanently discontinued. Treatment with corticosteroids or endocrine therapy should be initiated. For events requiring corticosteroid therapy, and upon improvement to ≤ Grade 1, corticosteroid taper should be initiated and continued over at least 1 month. Consider increasing dose of corticosteroids and/or using additional systemic immunosuppressants if there is worsening or no improvement.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Traceability
 
 In order to improve the traceability of biological medicinal products, the tradename and the batch number of the administered product should be clearly recorded.
@@ -280,8 +292,6 @@ In order to improve the traceability of biological medicinal products, the trade
 Immune-mediated pneumonitis or interstitial lung disease, defined as requiring use of systemic corticosteroids and with no clear alternate aetiology, occurred in patients receiving IMFINZI, IMFINZI in combination with tremelimumab, IMFINZI in combination with platinum-based chemotherapy followed by IMFINZI in combination with olaparib, or in combination with chemotherapy (see section 4.8). For Grade 2 events, an initial dose of 1-2 mg/kg/day prednisone or equivalent should be initiated followed by a taper. For Grade 3 or 4 events, an initial dose of 24 mg/kg/day methylprednisolone or equivalent should be initiated followed by a taper.
 
 ## Pneumonitis and radiation pneumonitis
-
-<div style=\"page-break-after: always\"></div>
 
 Radiation pneumonitis is frequently observed in patients receiving radiation therapy to the lung and the clinical presentation of pneumonitis and radiation pneumonitis is very similar. In the PACIFIC Study, in patients who had completed treatment with at least 2 cycles of concurrent chemoradiation within 1 to 42 days prior to initiation of study treatment, pneumonitis or radiation pneumonitis occurred in 161 (33.9%) patients in the IMFINZI-treated group and 58 (24.8%) in the placebo group, including Grade 3 (3.4% vs. 3.0%) and Grade 5 (1.1% vs. 1.7%). In the AEGEAN study, in patients who have received post-operative radiotherapy (PORT), pneumonitis and radiation pneumonitis occurred in 10 (33.3%) patients in the IMFINZI-treated group and 3 (11.1%) patients in the placebo group, including 2 patients with maximum Grade 3 (6.7%) in the IMFINZI-treated group.
 
@@ -295,7 +305,11 @@ Immune-mediated hepatitis, defined as requiring use of systemic corticosteroids 
 
 ## Immune-mediated colitis
 
-Immune-mediated colitis or diarrhoea, defined as requiring use of systemic corticosteroids and with no clear alternate aetiology, occurred in patients receiving IMFINZI or IMFINZI in combination with tremelimumab, or in combination with chemotherapy (see section 4.8). Adverse drug reactions of intestinal perforation and large intestine perforation were reported in patients receiving IMFINZI in combination with tremelimumab. Patients should be monitored for signs and symptoms of colitis/diarrhoea and intestinal perforation and managed as recommended in section 4.2. Corticosteroids should be administered at an initial dose of 1-2 mg/kg/day prednisone or equivalent followed by a taper for Grades 2-4. Consult a surgeon immediately if intestinal perforation of ANY grade is suspected.
+Immune-mediated colitis or diarrhoea, defined as requiring use of systemic corticosteroids and with no clear alternate aetiology, occurred in patients receiving IMFINZI or IMFINZI in combination with tremelimumab, or in combination with chemotherapy (see section 4.8). Adverse drug reactions of intestinal perforation and large intestine perforation were reported in patients receiving IMFINZI in combination with tremelimumab. Patients should be monitored for signs and symptoms of colitis/diarrhoea and intestinal perforation and managed as recommended in section 4.2.
+
+<div style=\"page-break-after: always\"></div>
+
+Corticosteroids should be administered at an initial dose of 1-2 mg/kg/day prednisone or equivalent followed by a taper for Grades 2-4. Consult a surgeon immediately if intestinal perforation of ANY grade is suspected.
 
 ## Immune-mediated endocrinopathies
 
@@ -305,11 +319,7 @@ Immune-mediated hypothyroidism, hyperthyroidism and thyroiditis occurred in pati
 
 ## Immune-mediated adrenal insufficiency
 
-Immune-mediated adrenal insufficiency occurred in patients receiving IMFINZI or IMFINZI in combination with tremelimumab, or in combination with chemotherapy (see section 4.8). Patients should be monitored for clinical signs and symptoms of adrenal insufficiency. For symptomatic
-
-<div style=\"page-break-after: always\"></div>
-
-adrenal insufficiency, patients should be managed as recommended in section 4.2. Corticosteroids should be administered with an initial dose of 1-2 mg/kg/day prednisone or equivalent followed by a taper and a hormone replacement as clinically indicated for Grades 2-4.
+Immune-mediated adrenal insufficiency occurred in patients receiving IMFINZI or IMFINZI in combination with tremelimumab, or in combination with chemotherapy (see section 4.8). Patients should be monitored for clinical signs and symptoms of adrenal insufficiency. For symptomatic adrenal insufficiency, patients should be managed as recommended in section 4.2. Corticosteroids should be administered with an initial dose of 1-2 mg/kg/day prednisone or equivalent followed by a taper and a hormone replacement as clinically indicated for Grades 2-4.
 
 ## Immune-mediated type 1 diabetes mellitus
 
@@ -327,6 +337,8 @@ Immune-mediated nephritis, defined as requiring use of systemic corticosteroids 
 
 Immune-mediated rash or dermatitis (including pemphigoid), defined as requiring use of systemic corticosteroids and with no clear alternate aetiology, occurred in patients receiving IMFINZI or IMFINZI in combination with tremelimumab, or in combination with chemotherapy (see section 4.8). Events of Stevens-Johnson Syndrome or toxic epidermal necrolysis have been reported in patients treated with PD-1 inhibitors. Patients should be monitored for signs and symptoms of rash or dermatitis and managed as recommended in section 4.2. Corticosteroids should be administered with an initial dose of 1-2 mg/kg/day prednisone or equivalent followed by a taper for Grade 2 &gt; 1 week or Grade 3 and 4.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Immune-mediated myocarditis
 
 Immune-mediated myocarditis, which can be fatal, occurred in patients receiving IMFINZI or IMFINZI in combination with tremelimumab, or in combination with chemotherapy (see section 4.8). Patients should be monitored for signs and symptoms of immune-mediated myocarditis and managed as recommended in section 4.2. Corticosteroids should be administered with an initial dose of 24 mg/kg/day prednisone or equivalent followed by taper for Grades 2-4. If no improvement within 2 to 3 days despite corticosteroids, promptly start additional immunosuppressive therapy. Upon resolution (Grade 0), corticosteroid taper should be initiated and continued over at least 1 month.
@@ -336,8 +348,6 @@ Immune-mediated myocarditis, which can be fatal, occurred in patients receiving 
 Immune-mediated pancreatitis occurred in patients receiving IMFINZI in combination with tremelimumab and chemotherapy, or in combination with chemotherapy (see section 4.8). Patients should be monitored for signs and symptoms of immune-mediated pancreatitis and managed as recommended in section 4.2.
 
 ## Other immune-mediated adverse reactions
-
-<div style=\"page-break-after: always\"></div>
 
 Given the mechanism of action of IMFINZI or IMFINZI in combination with tremelimumab, other potential immune-mediated adverse reactions may occur. The following immune-related adverse reactions have been observed in patients treated with IMFINZI monotherapy or IMFINZI in combination with tremelimumab, or in combination with chemotherapy: myasthenia gravis, myelitis transverse, myositis, polymyositis, rhabdomyolysis, meningitis, encephalitis, Guillain-Barré syndrome, immune thrombocytopenia, immune-mediated arthritis, uveitis, cystitis noninfective and polymyalgia rheumatica (see section 4.8). Patients should be monitored for signs and symptoms and managed as recommended in section 4.2. Corticosteroids should be administered with an initial dose of 12 mg/kg/day prednisone or equivalent followed by taper for Grades 2-4.
 
@@ -349,15 +359,13 @@ Patients should be monitored for signs and symptoms of infusion-related reaction
 
 In patients with pre-existing autoimmune disease (AID), data from observational studies suggest an increased risk of immune-related adverse reactions following immune-checkpoint inhibitor therapy as compared with patients without pre-existing AID. In addition, flares of the underlying AID were frequent, but the majority were mild and manageable.
 
-## Disease-specific precaution (BTC)
-
-## Cholangitis and biliary tract infections
+## Disease-specific precaution (BTC) Cholangitis and biliary tract infections
 
 Cholangitis and biliary tract infections are not uncommon in patients with advanced BTC. Cholangitis events were reported in TOPAZ-1 in both treatment groups (14.5% [IMFINZI + chemotherapy] vs. 8.2% [placebo + chemotherapy]); these were mostly in association with biliary stents and were not immune-mediated in aetiology. Patients with BTC (especially those with biliary stents) should be closely monitored for development of cholangitis or biliary tract infections before initiation of treatment and, regularly, thereafter.
 
-## Treatment-specific precaution (IMFINZI in combination with olaparib in endometrial cancer) Haematological toxicity
+Treatment-specific precaution (IMFINZI in combination with olaparib in endometrial cancer) Haematological toxicity Pure red cell aplasia (PRCA) (see section 4.8) was reported when olaparib maintenance treatment was used in combination with IMFINZI, following treatment with IMFINZI in combination with platinumbased chemotherapy. If PRCA is confirmed, treatment with IMFINZI and olaparib should be discontinued.
 
-Pure red cell aplasia (PRCA) (see section 4.8) was reported when olaparib maintenance treatment was used in combination with IMFINZI, following treatment with IMFINZI in combination with platinumbased chemotherapy. If PRCA is confirmed, treatment with IMFINZI and olaparib should be discontinued.
+<div style=\"page-break-after: always\"></div>
 
 Autoimmune haemolytic anemia (AIHA) was reported when olaparib maintenance treatment was used in combination with IMFINZI, following treatment with IMFINZI in combination with platinum-based chemotherapy. If AIHA is confirmed, treatment with IMFINZI and olaparib should be discontinued.
 
@@ -367,11 +375,7 @@ Limited data are available in elderly patients (≥ 75 years) treated with IMFIN
 
 ## Patients excluded from clinical studies
 
-Patients with the following were excluded from clinical studies: a baseline ECOG performance score ≥ 2; active or prior documented autoimmune disease within 2 years of initiation of the study; a history of immunodeficiency; a history of severe immune-mediated adverse reactions; medical conditions that required systemic immunosuppression, except physiological dose of systemic corticosteroids
-
-<div style=\"page-break-after: always\"></div>
-
-(≤ 10 mg/day prednisone or equivalent); uncontrolled intercurrent illnesses; active tuberculosis or hepatitis B or C or HIV infection or patients receiving live attenuated vaccine within 30 days before or after the start of IMFINZI. In the absence of data, durvalumab should be used with caution in these populations after careful consideration of the potential benefit/risk on an individual basis. The safety of concurrent prophylactic cranial irradiation (PCI) with IMFINZI in patients with ES-SCLC is unknown.
+Patients with the following were excluded from clinical studies: a baseline ECOG performance score ≥ 2; active or prior documented autoimmune disease within 2 years of initiation of the study; a history of immunodeficiency; a history of severe immune-mediated adverse reactions; medical conditions that required systemic immunosuppression, except physiological dose of systemic corticosteroids (≤ 10 mg/day prednisone or equivalent); uncontrolled intercurrent illnesses; active tuberculosis or hepatitis B or C or HIV infection or patients receiving live attenuated vaccine within 30 days before or after the start of IMFINZI. In the absence of data, durvalumab should be used with caution in these populations after careful consideration of the potential benefit/risk on an individual basis. The safety of concurrent prophylactic cranial irradiation (PCI) with IMFINZI in patients with ES-SCLC is unknown.
 
 For more information on exclusion criteria for each specific study see section 5.1.
 
@@ -379,7 +383,7 @@ For more information on exclusion criteria for each specific study see section 5
 
 The use of systemic corticosteroids or immunosuppressants before starting durvalumab, except physiological dose of systemic corticosteroids (≤ 10 mg/day prednisone or equivalent), is not recommended because of their potential interference with the pharmacodynamic activity and efficacy of durvalumab. However, systemic corticosteroids or other immunosuppressants can be used after starting durvalumab to treat immune-related adverse reactions (see section 4.4).
 
-No formal pharmacokinetic (PK) drug-drug interaction studies have been conducted with durvalumab. Since the primary elimination pathways of durvalumab are protein catabolism via reticuloendothelial system or target-mediated disposition, no metabolic drug-drug interactions are expected. PK drug-drug interaction between durvalumab and chemotherapy was assessed in the CASPIAN study and showed concomitant treatment with durvalumab did not impact the PK of etoposide, carboplatin or cisplatin. Additionally, based on population PK analysis, concomitant chemotherapy treatment did not meaningfully impact the PK of durvalumab. PK drug-drug interactions between durvalumab in combination with tremelimumab and platinum-based chemotherapy were assessed in the POSEIDON study and showed no clinically meaningful PK interactions between tremelimumab, durvalumab, nabpaclitaxel, gemcitabine, pemetrexed, carboplatin or cisplatin in the concomitant treatment. Furthermore, in the DUO-E study, the exposure to durvalumab was similar in both treatment arms which indicates that there were no clinically meaningful PK drug-drug interactions between durvalumab and olaparib, although exposure to olaparib was not measured throughout the study.
+No formal pharmacokinetic (PK) drug-drug interaction studies have been conducted with durvalumab. Since the primary elimination pathways of durvalumab are protein catabolism via reticuloendothelial system or target-mediated disposition, no metabolic drug-drug interactions are expected. PK drug-drug interactions of durvalumab in combination with other therapeutic agents were compared with durvalumab in the CASPIAN, POSEIDON, HIMALAYA, and DUO-E studies; no clinically meaningful PK drug-drug interactions were identified.
 
 ## 4.6 Fertility, pregnancy and lactation
 
@@ -391,11 +395,11 @@ Women of childbearing potential should use effective contraception during treatm
 
 There are no data on the use of durvalumab in pregnant women. Based on its mechanism of action, durvalumab has the potential to impact maintenance of pregnancy, and in a mouse allogeneic pregnancy model, disruption of PD-L1 signaling was shown to result in an increase in foetal loss. Animal studies with durvalumab are not indicative of reproductive toxicity (see section 5.3). Human IgG1 is known to cross the placental barrier and placental transfer of durvalumab was confirmed in animal studies. Durvalumab may cause foetal harm when administered to a pregnant woman and is not recommended during pregnancy and in women of childbearing potential not using effective contraception during treatment and for at least 3 months after the last dose.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Breast-feeding
 
 It is unknown whether durvalumab is secreted in human breast milk. Available toxicological data in cynomolgus monkeys have shown low levels of durvalumab in breast milk on day 28 after birth (see section 5.3). In humans, antibodies may be transferred to breast milk, but the potential for absorption and harm to the newborn is unknown. However, a potential risk to the breast-fed child cannot be excluded. A decision must be made whether to discontinue breast-feeding or to discontinue or abstain from durvalumab therapy taking into account the benefit of breast-feeding for the child and the benefit of therapy for the woman.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Fertility
 
@@ -425,13 +429,13 @@ IMFINZI was delayed or interrupted due to adverse reactions in 11.6% of patients
 
 ## IMFINZI in combination with chemotherapy
 
-The safety of IMFINZI in combination with chemotherapy is based on pooled data in 1 769 patients from 5 studies (TOPAZ-1, CASPIAN, DUO-E, AEGEAN and NIAGARA). The most common (&gt; 10%) adverse reactions were neutropenia (41.7%), anaemia (40.8%), nausea (40.1%), fatigue (39.6%), constipation (29.7%), decreased appetite (22.2%), thrombocytopenia (21.5%), alopecia (19.7%), rash (19.7%), diarrhoea (18.2%), vomiting (16.8%), abdominal pain (16.7%), neuropathy peripheral (16.3%), leukopenia (14.8%), pyrexia (14.0%), pruritus (13.0%), hypothyroidism (11.9%), arthralgia (11.5%), cough/productive cough (11.0%), and aspartate aminotransferase increased/alanine aminotransferase increased (10.7%). The most common (&gt; 2%) NCI CTCAE Grade ≥ 3 adverse reactions were neutropenia (25.2%), anaemia (13.7%), thrombocytopenia (6.9%), leukopenia (4.5%), fatigue (2.8%), pneumonia (2.4%) and febrile neutropenia (2.1%).
-
-IMFINZI was discontinued due to adverse reactions in 6.2% of patients. The most common adverse reactions leading to treatment discontinuation were rash (0.7%), pneumonitis (0.7%) and fatigue (0.6%).
-
 <div style=\"page-break-after: always\"></div>
 
-IMFINZI was delayed or interrupted due to adverse reactions in 29.2% of patients. The most common adverse reactions leading to dose delay or interruption were neutropenia (12.6%), thrombocytopenia (4.5%), anaemia (3.9%) and leukopenia (2.1%).
+The safety of IMFINZI in combination with chemotherapy is based on pooled data in 2 244 patients from 6 studies (TOPAZ-1, CASPIAN, DUO-E, AEGEAN, NIAGARA and MATTERHORN). The most common (&gt; 10%) adverse reactions were neutropenia (44.6%), nausea (42.4%), fatigue (41.2%), anaemia (37.4%), diarrhoea (27.5%), constipation (26.7%), decreased appetite (24.0%), alopecia (22.0%), neuropathy peripheral (21.6%), thrombocytopenia (19.7%), rash (19.7%), vomiting (18.8%), abdominal pain (17.9%), pyrexia (15.2%), leukopenia (14.9%), pruritus (12.5%), hypothyroidism (11.1%), arthralgia (10.9%), cough/productive cough (10.8%), and aspartate aminotransferase increased/alanine aminotransferase increased (10.5%). The most common (&gt; 2%) NCI CTCAE Grade ≥ 3 adverse reactions were neutropenia (28.5%), anaemia (11.9%), thrombocytopenia (5.6%), leukopenia (4.9%), fatigue (3.3%), pneumonia (2.5%), febrile neutropenia (2.4%), and diarrhoea (2.3%).
+
+IMFINZI was discontinued due to adverse reactions in 6.2% of patients. The most common adverse reactions leading to treatment discontinuation were pneumonitis (0.8%), rash (0.6%), hepatitis (0.5%), and fatigue (0.5%).
+
+IMFINZI was delayed or interrupted due to adverse reactions in 32.4% of patients. The most common adverse reactions leading to dose delay or interruption were neutropenia (15.5%), thrombocytopenia (4.1%), anaemia (3.3%), leukopenia (2.0%), fatigue (2.0%), and aspartate aminotransferase increased/alanine aminotransferase increased (2.0%).
 
 ## IMFINZI in combination with tremelimumab 75 mg and platinum-based chemotherapy
 
@@ -447,6 +451,8 @@ The safety of IMFINZI given in combination with a single dose of tremelimumab 30
 
 The most common serious adverse reactions were colitis (2.6%), diarrhoea (2.4%), pneumonia (2.2%), and hepatitis (1.7%).
 
+<div style=\"page-break-after: always\"></div>
+
 The frequency of treatment discontinuation due to adverse reactions was 6.5%. The most common adverse reactions leading to treatment discontinuation were hepatitis (1.5%) and aspartate aminotransferase increased/alanine aminotransferase increased (1.3%).
 
 The severity of adverse drug reactions was assessed based on the CTCAE, defining grade 1=mild, grade 2=moderate, grade 3=severe, grade 4=life threatening and grade 5=death.
@@ -455,11 +461,7 @@ The severity of adverse drug reactions was assessed based on the CTCAE, defining
 
 The safety of IMFINZI given in combination with platinum-based chemotherapy followed by IMFINZI in combination with olaparib 300 mg twice daily is based on data in 238 patients with endometrial cancer. The most common (&gt; 20%) adverse reactions were anaemia (61.8%), nausea (54.6%), fatigue (54.2%), neuropathy peripheral (51.7%), alopecia (50.8%), neutropenia (39.5%), constipation (32.8%), thrombocytopenia (29.8%), diarrhoea (28.2%), vomiting (25.6%), arthralgia (24.4%), rash (23.5%), abdominal pain (23.5%), decreased appetite (23.1%) and leukopenia (20.2%).
 
-The most common (&gt; 2%) NCI CTCAE Grade ≥ 3 adverse reactions were neutropenia (25.2%), anaemia (23.5%), leukopenia (6.7%), thrombocytopenia (5.9%), fatigue (5.5%), febrile neutropenia
-
-<div style=\"page-break-after: always\"></div>
-
-(3.4%), nausea (2.9%), aspartate aminotransferase increased / alanine aminotransferase increased (2.9%) and neuropathy peripheral (2.5%).
+The most common (&gt; 2%) NCI CTCAE Grade ≥ 3 adverse reactions were neutropenia (25.2%), anaemia (23.5%), leukopenia (6.7%), thrombocytopenia (5.9%), fatigue (5.5%), febrile neutropenia (3.4%), nausea (2.9%), aspartate aminotransferase increased / alanine aminotransferase increased (2.9%) and neuropathy peripheral (2.5%).
 
 IMFINZI was discontinued in 4.6% of patients. The most common adverse reaction leading to treatment discontinuation was pneumonitis (1.7%).
 
@@ -467,205 +469,236 @@ IMFINZI was interrupted in 38.2% of patients. The most common adverse reactions 
 
 ## Tabulated list of adverse reactions
 
-Table 3 lists the incidence of adverse reactions in the IMFINZI monotherapy pooled safety dataset (N=4 642), in patients treated with IMFINZI in combination with chemotherapy (N=1 769) and in patients treated with IMFINZI in combination with platinum-based chemotherapy followed by IMFINZI in combination with olaparib (platinum-based chemotherapy + IMFINZI + olaparib) (N=238). Unless otherwise stated, Table 4 lists the incidence of adverse reactions in patients treated with IMFINZI in combination with tremelimumab 75 mg and platinum-based chemotherapy in the POSEIDON study (N=330) and in patients treated with IMFINZI in combination with a single dose of tremelimumab 300 mg in the HCC pool (N=462). Adverse reactions are listed according to system organ class in MedDRA. Within each system organ class, the adverse reactions are presented in decreasing frequency. The corresponding frequency category for each ADR is defined as: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1 000 to &lt; 1/100); rare (≥ 1/10 000 to &lt; 1/1 000); very rare (&lt; 1/10 000); not known (cannot be estimated from available data). Within each frequency grouping, adverse drug reactions are presented in order of decreasing seriousness.
+Table 3 lists the incidence of adverse reactions in the IMFINZI monotherapy pooled safety dataset (N=4 642), in patients treated with IMFINZI in combination with chemotherapy (N=2 244) and in patients treated with IMFINZI in combination with platinum-based chemotherapy followed by IMFINZI in combination with olaparib (platinum-based chemotherapy + IMFINZI + olaparib) (N=238). Unless otherwise stated, Table 4 lists the incidence of adverse reactions in patients treated with IMFINZI in combination with tremelimumab 75 mg and platinum-based chemotherapy in the POSEIDON study (N=330) and in patients treated with IMFINZI in combination with a single dose of tremelimumab 300 mg in the HCC pool (N=462). Adverse reactions are listed according to system organ class in MedDRA. Within each system organ class, the adverse reactions are presented in decreasing frequency. The corresponding frequency category for each ADR is defined as: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1 000 to &lt; 1/100); rare (≥ 1/10 000 to &lt; 1/1 000); very rare (&lt; 1/10 000); not known (cannot be estimated from available data). Within each frequency grouping, adverse drug reactions are presented in order of decreasing seriousness.
 
 Table 3. Adverse drug reactions in patients treated with IMFINZI
 
-|                                      | IMFINZI as monotherapy                                                                | IMFINZI in combination with chemotherapy                                                        | Platinum-based chemotherapy + IMFINZI + olaparib *                    |
-|--------------------------------------|---------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|
-| Infections and infestations          | Infections and infestations                                                           | Infections and infestations                                                                     | Infections and infestations                                           |
-| Very common                          | Upper respiratory tract infections a                                                  |                                                                                                 | Upper respiratory tract infection a                                   |
-| Common                               | Pneumonia b,c , Influenza, Oral candidiasis, Dental and oral soft tissue infections d | Pneumonia b,c , Upper respiratory tract infections a , Dental and oral soft tissue infections d | Pneumonia, Oral candidiasis, Dental and oral soft tissue infections d |
-| Uncommon                             |                                                                                       | Oral candidiasis, Influenza                                                                     | Influenza                                                             |
-| Blood and lymphatic system disorders | Blood and lymphatic system disorders                                                  | Blood and lymphatic system disorders                                                            | Blood and lymphatic system disorders                                  |
-| Very Common                          |                                                                                       | Anaemia, Leukopenia e , Neutropenia f , Thrombocytopenia g                                      | Anaemia h , Leukopenia h Neutropenia h , Thrombocytopenia h           |
-| Common                               |                                                                                       | Febrile neutropenia                                                                             | Aplasia pure red cell, Febrile neutropenia h , Lymphopenia i          |
-| Uncommon                             | Immune thrombocytopenia c                                                             | Pancytopenia c                                                                                  | Pancytopenia h                                                        |
-| Rare                                 |                                                                                       | Immune thrombocytopenia                                                                         |                                                                       |
-| Immune system disorders              | Immune system disorders                                                               | Immune system disorders                                                                         | Immune system disorders                                               |
-| Common                               |                                                                                       |                                                                                                 | Hypersensitivity i,j                                                  |
-| Endocrine disorders                  | Endocrine disorders                                                                   | Endocrine disorders                                                                             | Endocrine disorders                                                   |
-| Very common                          | Hypothyroidism k                                                                      | Hypothyroidism k                                                                                | Hypothyroidism                                                        |
+|                             | IMFINZI as monotherapy                                                                | IMFINZI in combination with chemotherapy                                                        | Platinum-based chemotherapy + IMFINZI + olaparib *                    |
+|-----------------------------|---------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|
+| Infections and infestations | Infections and infestations                                                           | Infections and infestations                                                                     | Infections and infestations                                           |
+| Very common                 | Upper respiratory tract infections a                                                  |                                                                                                 | Upper respiratory tract infection a                                   |
+| Common                      | Pneumonia b,c , Influenza, Oral candidiasis, Dental and oral soft tissue infections d | Pneumonia b,c , Upper respiratory tract infections a , Dental and oral soft tissue infections d | Pneumonia, Oral candidiasis, Dental and oral soft tissue infections d |
+| Uncommon                    |                                                                                       | Oral candidiasis, Influenza                                                                     | Influenza                                                             |
 
 <div style=\"page-break-after: always\"></div>
 
-|                                                 | IMFINZI as monotherapy                                                                         | IMFINZI in combination with chemotherapy                                                      | Platinum-based chemotherapy + IMFINZI + olaparib *                                  |
-|-------------------------------------------------|------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|
-| Common                                          | Hyperthyroidism l                                                                              | Hyperthyroidism l                                                                             | Hyperthyroidism, Thyroiditis                                                        |
-| Uncommon                                        | Thyroiditis m , Adrenal insufficiency, Hypophysitis/Hypopituita rism, Type 1 diabetes mellitus | Adrenal insufficiency, Type 1 diabetes mellitus, Hypophysitis/Hypopituita rism, Thyroiditis m |                                                                                     |
-| Rare                                            | Diabetes insipidus                                                                             |                                                                                               |                                                                                     |
-| Eye disorders                                   | Eye disorders                                                                                  | Eye disorders                                                                                 |                                                                                     |
-| Uncommon                                        |                                                                                                | Uveitis                                                                                       | Uveitis                                                                             |
-| Rare                                            | Uveitis                                                                                        |                                                                                               |                                                                                     |
-| Metabolism and nutrition disorders              | Metabolism and nutrition disorders                                                             | Metabolism and nutrition disorders                                                            |                                                                                     |
-| Very common                                     |                                                                                                | Decreased appetite                                                                            | Decreased appetite h                                                                |
-| Nervous System Disorders                        | Nervous System Disorders                                                                       | Nervous System Disorders                                                                      |                                                                                     |
-| Very common                                     |                                                                                                | Neuropathy peripheral n                                                                       | Neuropathy peripheral, Dizziness i , Headache i , Dysgeusia i,o                     |
-| Uncommon                                        | Myasthenia gravis, Encephalitis c,p                                                            | Myasthenia gravis                                                                             |                                                                                     |
-| Rare                                            | Meningitis                                                                                     | Encephalitis p                                                                                |                                                                                     |
-| Not known                                       | Guillain-Barré syndrome, Myelitis transverse q                                                 |                                                                                               |                                                                                     |
-| Vascular disorders                              | Vascular disorders                                                                             | Vascular disorders                                                                            |                                                                                     |
-| Common                                          |                                                                                                |                                                                                               | Venous thromboembolic events i,r                                                    |
-| Cardiac disorders                               | Cardiac disorders                                                                              | Cardiac disorders                                                                             |                                                                                     |
-| Uncommon                                        | Myocarditis                                                                                    | Myocarditis c                                                                                 |                                                                                     |
-| Respiratory, thoracic and mediastinal disorders | Respiratory, thoracic and mediastinal disorders                                                | Respiratory, thoracic and mediastinal disorders                                               | Respiratory, thoracic and mediastinal disorders                                     |
-| Very common                                     | Cough/Productive Cough                                                                         | Cough/Productive Cough                                                                        | Cough/Productive cough, Dyspnoea i,s                                                |
-| Common                                          | Pneumonitis c,t , Dysphonia                                                                    | Pneumonitis c,t , Dysphonia                                                                   | Pneumonitis, Dysphonia                                                              |
-| Uncommon                                        | Interstitial lung disease                                                                      | Interstitial lung disease c                                                                   | Interstitial lung disease                                                           |
-| Gastrointestinal disorders                      | Gastrointestinal disorders                                                                     | Gastrointestinal disorders                                                                    | Gastrointestinal disorders                                                          |
-| Very common                                     | Diarrhoea, Abdominal pain u                                                                    | Diarrhoea, Abdominal pain u , Constipation, Nausea, Vomiting                                  | Diarrhoea, Abdominal pain u , Constipation h , Nausea h , Vomiting h , Stomatitis h |
-| Common                                          |                                                                                                | Stomatitis v , Colitis w                                                                      | Dyspepsia i , Colitis w                                                             |
-| Uncommon                                        | Colitis c,w , Pancreatitis x                                                                   | Pancreatitis x                                                                                |                                                                                     |
-| Rare                                            | Coeliac disease q , Pancreatic exocrine insufficiency                                          | Coeliac disease q , Pancreatic exocrine insufficiency                                         |                                                                                     |
-| Hepatobiliary disorders                         | Hepatobiliary disorders                                                                        | Hepatobiliary disorders                                                                       | Hepatobiliary disorders                                                             |
-| Very common                                     |                                                                                                | Aspartate aminotransferase increased or Alanine aminotransferase increased y                  | Aspartate aminotransferase increased or Alanine aminotransferase increased          |
-| Common                                          | Hepatitis c,z , Aspartate aminotransferase                                                     | Hepatitis c,z                                                                                 |                                                                                     |
+|                                                 | IMFINZI as monotherapy                                                                         | IMFINZI in combination with chemotherapy                                                      | Platinum-based chemotherapy + IMFINZI + olaparib *              |
+|-------------------------------------------------|------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|-----------------------------------------------------------------|
+| Blood and lymphatic system disorders            | Blood and lymphatic system disorders                                                           | Blood and lymphatic system disorders                                                          | Blood and lymphatic system disorders                            |
+| Very Common                                     |                                                                                                | Anaemia, Leukopenia e , Neutropenia f , Thrombocytopenia g                                    | Anaemia h , Leukopenia h Neutropenia h , Thrombocytopenia h     |
+| Common                                          |                                                                                                | Febrile neutropenia                                                                           | Aplasia pure red cell, Febrile neutropenia h , Lymphopenia i    |
+| Uncommon                                        | Immune thrombocytopenia c                                                                      | Pancytopenia c                                                                                | Pancytopenia h                                                  |
+| Rare                                            |                                                                                                | Immune thrombocytopenia                                                                       |                                                                 |
+| Immune system disorders                         | Immune system disorders                                                                        | Immune system disorders                                                                       | Immune system disorders                                         |
+| Common                                          |                                                                                                |                                                                                               | Hypersensitivity i,j                                            |
+| Endocrine disorders                             | Endocrine disorders                                                                            | Endocrine disorders                                                                           | Endocrine disorders                                             |
+| Very common                                     | Hypothyroidism k                                                                               | Hypothyroidism k                                                                              | Hypothyroidism                                                  |
+| Common                                          | Hyperthyroidism l                                                                              | Hyperthyroidism l                                                                             | Hyperthyroidism, Thyroiditis                                    |
+| Uncommon                                        | Thyroiditis m , Adrenal insufficiency, Hypophysitis/Hypopituitaris m, Type 1 diabetes mellitus | Adrenal insufficiency, Type 1 diabetes mellitus, Hypophysitis/Hypopituitaris m, Thyroiditis m |                                                                 |
+| Rare                                            | Diabetes insipidus                                                                             |                                                                                               |                                                                 |
+| Eye disorders                                   | Eye disorders                                                                                  | Eye disorders                                                                                 | Eye disorders                                                   |
+| Uncommon                                        |                                                                                                |                                                                                               | Uveitis                                                         |
+| Rare                                            | Uveitis                                                                                        | Uveitis                                                                                       |                                                                 |
+| Metabolism and nutrition disorders              | Metabolism and nutrition disorders                                                             | Metabolism and nutrition disorders                                                            | Metabolism and nutrition disorders                              |
+| Very common                                     |                                                                                                | Decreased appetite                                                                            | Decreased appetite h                                            |
+| Nervous System Disorders                        | Nervous System Disorders                                                                       | Nervous System Disorders                                                                      | Nervous System Disorders                                        |
+| Very common                                     |                                                                                                | Neuropathy peripheral n                                                                       | Neuropathy peripheral, Dizziness i , Headache i , Dysgeusia i,o |
+| Uncommon                                        | Myasthenia gravis, Encephalitis c,p                                                            | Myasthenia gravis                                                                             |                                                                 |
+| Rare                                            | Meningitis                                                                                     | Encephalitis p , Guillain- Barré syndrome                                                     |                                                                 |
+| Not known                                       | Guillain-Barré syndrome, Myelitis transverse q                                                 |                                                                                               |                                                                 |
+| Vascular disorders                              | Vascular disorders                                                                             | Vascular disorders                                                                            | Vascular disorders                                              |
+| Common                                          |                                                                                                |                                                                                               | Venous thromboembolic events i,r                                |
+| Rare                                            |                                                                                                | Deep vein thrombosis s                                                                        |                                                                 |
+| Cardiac disorders                               | Cardiac disorders                                                                              | Cardiac disorders                                                                             | Cardiac disorders                                               |
+| Uncommon                                        | Myocarditis                                                                                    | Acute myocardial infarction t,u , Myocarditis c                                               |                                                                 |
+| Respiratory, thoracic and mediastinal disorders | Respiratory, thoracic and mediastinal disorders                                                | Respiratory, thoracic and mediastinal disorders                                               | Respiratory, thoracic and mediastinal disorders                 |
+| Very common                                     | Cough/Productive Cough                                                                         | Cough/Productive Cough                                                                        | Cough/Productive cough, Dyspnoea i,v                            |
+| Common                                          | Pneumonitis c,w , Dysphonia                                                                    | Pneumonitis c,w , Dysphonia                                                                   | Pneumonitis, Dysphonia                                          |
+| Uncommon                                        | Interstitial lung disease                                                                      | Interstitial lung disease c , Pulmonary embolism s                                            | Interstitial lung disease                                       |
+| Gastrointestinal disorders                      | Gastrointestinal disorders                                                                     |                                                                                               |                                                                 |
 
 <div style=\"page-break-after: always\"></div>
 
-|                                                      | IMFINZI as monotherapy                               | IMFINZI in combination with chemotherapy             | Platinum-based chemotherapy + IMFINZI + olaparib *   |
-|------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|
-|                                                      | increased or Alanine aminotransferase increased c,y  |                                                      |                                                      |
-| Uncommon                                             |                                                      |                                                      | Hepatitis z                                          |
-| Skin and subcutaneous tissue disorders               | Skin and subcutaneous tissue disorders               | Skin and subcutaneous tissue disorders               | Skin and subcutaneous tissue disorders               |
-| Very common                                          | Rash aa , Pruritus                                   | Rash aa , Alopecia, Pruritus                         | Rash aa , Alopecia h , Pruritus                      |
-| Common                                               | Night sweats                                         | Dermatitis                                           | Dermatitis bb                                        |
-| Uncommon                                             | Dermatitis, Psoriasis, Pemphigoid cc                 | Pemphigoid cc , Night sweats, Psoriasis              | Night sweats                                         |
-| Musculoskeletal and connective tissue disorders      | Musculoskeletal and connective tissue disorders      | Musculoskeletal and connective tissue disorders      | Musculoskeletal and connective tissue disorders      |
-| Very common                                          | Arthralgia                                           | Arthralgia                                           | Arthralgia h , Myalgia                               |
-| Common                                               | Myalgia                                              | Myalgia                                              |                                                      |
-| Uncommon                                             | Myositis dd , Immune- mediated arthritis ee          | Immune-mediated arthritis ee , Myositis dd           | Myositis                                             |
-| Rare                                                 | Polymyositis ff , Polymyalgia rheumatica             | Polymyalgia rheumatica gg                            | Polymyalgia rheumatica gg                            |
-| Renal and urinary disorders                          | Renal and urinary disorders                          | Renal and urinary disorders                          | Renal and urinary disorders                          |
-| Very common                                          |                                                      |                                                      | Blood creatinine increased                           |
-| Common                                               | Blood creatinine increased, Dysuria                  | Blood creatinine increased, Dysuria                  | Dysuria                                              |
-| Uncommon                                             | Nephritis hh , Cystitis noninfective                 | Cystitis noninfective, Nephritis hh                  | Cystitis noninfective h                              |
-| General disorders and administration site conditions | General disorders and administration site conditions | General disorders and administration site conditions | General disorders and administration site conditions |
-| Very common                                          | Pyrexia                                              | Pyrexia, Fatigue ii                                  | Pyrexia, Fatigue h , Peripheral oedema jj            |
-| Common                                               | Peripheral oedema jj                                 | Peripheral oedema jj                                 |                                                      |
-| Injury, poisoning and procedural complications       | Injury, poisoning and procedural complications       | Injury, poisoning and procedural complications       | Injury, poisoning and procedural complications       |
-| Common                                               | Infusion-related reaction kk                         | Infusion-related reaction kk                         | Infusion-related reaction                            |
+,
+
+|                                                      | IMFINZI as monotherapy                                                                           | IMFINZI in combination with chemotherapy                                      | Platinum-based chemotherapy + IMFINZI + olaparib *                                    |
+|------------------------------------------------------|--------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
+| Very common                                          | Diarrhoea, Abdominal pain x                                                                      | Diarrhoea, Abdominal pain x Constipation, Nausea, Vomiting                    | , Diarrhoea, Abdominal pain x , Constipation h , Nausea h , Vomiting h , Stomatitis h |
+| Common                                               |                                                                                                  | Stomatitis y , Colitis z                                                      | Dyspepsia i , Colitis z                                                               |
+| Uncommon                                             | Colitis c,z , Pancreatitis aa                                                                    | Pancreatitis aa , Pancreatic exocrine insufficiency                           |                                                                                       |
+| Rare                                                 | Coeliac disease q , Pancreatic exocrine insufficiency                                            | Coeliac disease q                                                             |                                                                                       |
+| Hepatobiliary disorders                              | Hepatobiliary disorders                                                                          |                                                                               |                                                                                       |
+| Very common                                          |                                                                                                  | Aspartate aminotransferase increased or Alanine aminotransferase increased bb | Aspartate aminotransferase increased or Alanine aminotransferase increased            |
+| Common                                               | Hepatitis c,cc , Aspartate aminotransferase increased or Alanine aminotransferase increased c,bb | Hepatitis c,cc                                                                |                                                                                       |
+| Uncommon                                             |                                                                                                  |                                                                               | Hepatitis cc                                                                          |
+| Skin and subcutaneous tissue disorders               | Skin and subcutaneous tissue disorders                                                           |                                                                               |                                                                                       |
+| Very common                                          | Rash dd , Pruritus                                                                               | Rash dd , Alopecia, Pruritus                                                  | Rash dd , Alopecia h , Pruritus                                                       |
+| Common                                               | Night sweats                                                                                     | Dermatitis                                                                    | Dermatitis ee                                                                         |
+| Uncommon                                             | Dermatitis, Psoriasis, Pemphigoid ff                                                             | Pemphigoid ff , Night sweats, Psoriasis                                       | Night sweats                                                                          |
+| Musculoskeletal and connective tissue disorders      | Musculoskeletal and connective tissue disorders                                                  |                                                                               |                                                                                       |
+| Very common                                          | Arthralgia                                                                                       | Arthralgia                                                                    | Arthralgia h , Myalgia                                                                |
+| Common                                               | Myalgia                                                                                          | Myalgia                                                                       |                                                                                       |
+| Uncommon                                             | Myositis gg , Immune- mediated arthritis hh                                                      | Immune-mediated arthritis hh , Myositis gg                                    | Myositis                                                                              |
+| Rare                                                 | Polymyositis ii , Polymyalgia rheumatica                                                         | Polymyalgia rheumatica jj                                                     | Polymyalgia rheumatica jj                                                             |
+| Renal and urinary disorders                          | Renal and urinary disorders                                                                      |                                                                               |                                                                                       |
+| Very common                                          |                                                                                                  |                                                                               | Blood creatinine increased                                                            |
+| Common                                               | Blood creatinine increased, Dysuria                                                              | Blood creatinine increased, Dysuria                                           | Dysuria                                                                               |
+| Uncommon                                             | Nephritis kk , Cystitis noninfective                                                             | Cystitis noninfective, Nephritis kk                                           | Cystitis noninfective h                                                               |
+| General disorders and administration site conditions | General disorders and administration site conditions                                             | General disorders and administration site conditions                          |                                                                                       |
+| Very common                                          | Pyrexia                                                                                          | Pyrexia, Fatigue ll                                                           | Pyrexia, Fatigue h , Peripheral oedema mm                                             |
+| Common                                               | Peripheral oedema mm                                                                             | Peripheral oedema mm                                                          |                                                                                       |
+| Injury, poisoning and procedural complications       | Injury, poisoning and procedural complications                                                   | Injury, poisoning and procedural complications                                | Injury, poisoning and procedural complications                                        |
+| Common                                               | Infusion-related reaction nn                                                                     | Infusion-related reaction nn                                                  | Infusion-related reaction                                                             |
 
 Adverse reaction frequencies may not be fully attributed to durvalumab alone but may contain contributions from the underlying disease or from other medicinal products used in a combination.
 
 * overall study of treatment with up to six 21-day cycles with platinum-based chemotherapy in combination with IMFINZI, followed by IMFINZI in combination with olaparib.
-- a includes laryngitis, nasopharyngitis, peritonsillar abscess, pharyngitis, rhinitis, sinusitis, tonsillitis, tracheobronchitis and upper respiratory tract infection.
-- b  includes pneumocystis jirovecii pneumonia, pneumonia, pneumonia adenoviral, pneumonia bacterial, pneumonia cytomegaloviral, pneumonia haemophilus, pneumonia pneumococcal, pneumonia streptococcal, candida pneumonia, pneumonia klebsiella, and pneumonia legionella.
+
+a includes laryngitis, nasopharyngitis, peritonsillar abscess, pharyngitis, rhinitis, sinusitis, tonsillitis, tracheobronchitis and upper respiratory tract infection.
+
+b  includes pneumocystis jirovecii pneumonia, pneumonia, pneumonia adenoviral, pneumonia bacterial, pneumonia cytomegaloviral, pneumonia haemophilus, pneumonia pneumococcal, pneumonia streptococcal, candida pneumonia, pneumonia klebsiella, and pneumonia legionella.
+
+<div style=\"page-break-after: always\"></div>
 
 c including fatal outcome.
 
-- d includes gingivitis, oral infection, periodontitis, pulpitis dental, tooth abscess and tooth infection.
-- e includes leukopenia and white blood cell count decreased.
+d includes gingivitis, oral infection, periodontitis, pulpitis dental, tooth abscess and tooth infection.
+
+e includes leukopenia and white blood cell count decreased.
 
 f includes neutropenia and neutrophil count decreased.
 
-- g  includes thrombocytopenia and platelet count decreased.
-- h  adverse reaction only applies to chemotherapy ADRs in the DUO-E study.
-- i  adverse reaction only applies to olaparib ADRs in the DUO-E study.
+g  includes thrombocytopenia and platelet count decreased.
+
+h  adverse reaction only applies to chemotherapy ADRs in the DUO-E study.
+
+i  adverse reaction only applies to olaparib ADRs in the DUO-E study.
 
 j includes drug hypersensitivity and hypersensitivity.
 
-- k  includes autoimmune hypothyroidism, hypothyroidism, immune-mediated hypothyroidism, blood thyroid stimulating hormone increased.
-- l  includes hyperthyroidism, Grave's disease, immune-mediated hyperthyroidism and blood thyroid stimulating hormone decreased.
+k  includes autoimmune hypothyroidism, hypothyroidism, immune-mediated hypothyroidism, blood thyroid stimulating hormone increased.
+
+l  includes hyperthyroidism, Grave's disease, immune-mediated hyperthyroidism and blood thyroid stimulating hormone decreased.
+
+m includes autoimmune thyroiditis, immune-mediated thyroiditis, thyroiditis, and thyroiditis subacute.
+
+n includes neuropathy peripheral, paraesthesia and peripheral sensory neuropathy.
+
+o includes dysgeusia and taste disorder.
+
+p includes encephalitis, encephalitis autoimmune, immune-mediated encephalitis and noninfective encephalitis.
+
+q  events were reported from post-marketing data.
+
+r  includes deep vein thrombosis, embolism, embolism venous, pelvic venous thrombosis, superficial vein thrombosis and thrombosis.
+
+s  adverse reaction only applies to oxaliplatin ADRs in the MATTERHORN study.
+
+t  adverse reaction only applies to 5-FU ADRs in the MATTERHORN study.
+
+u includes acute coronary syndrome, acute myocardial infarction, myocardial infarction, myocardial ischaemia, and coronary artery disease.
+
+v  includes dyspnoea and dyspnoea exertional.
+
+w  includes pneumonitis and immune-mediated lung disease.
+
+x  includes abdominal pain, abdominal pain lower, abdominal pain upper and flank pain.
+
+y  includes stomatitis and mucosal inflammation.
+
+z includes colitis, enteritis, enterocolitis, immune-mediated enterocolitis and proctitis.
+
+aa includes pancreatitis, pancreatitis acute, pancreatitis necrotising and immune-mediated pancreatitis.
+
+- bb includes alanine aminotransferase increased, aspartate aminotransferase increased, hepatic enzyme increased and transaminases increased.
+- cc includes hepatitis, autoimmune hepatitis, hepatitis toxic, hepatitis acute, hepatotoxicity, immune-mediated hepatitis, and hepatic cytolysis.
+- dd includes rash erythematous, rash macular, rash maculopapular, rash papular, rash pruritic, rash pustular, erythema, eczema and rash.
+
+ee  includes dermatitis and immune-mediated dermatitis.
+
+- ff includes pemphigoid, dermatitis bullous and pemphigus. Reported frequency from completed and ongoingstudies is uncommon.
+
+gg  includes myositis and rhabdomyolysis.
+
+hh includes autoimmune arthritis, immune-mediate arthritis, polyarthritis, and rheumatoid arthritis.
+
+- ii polymyositis (fatal) was observed in a patient treated with IMFINZI from an ongoing sponsored clinical study outside of the pooled dataset.
+- jj  not observed in the IMFINZI+Chemotherapy pool or the platinum-based chemotherapy+IMFINZI+olaparib dataset, but observed in other AstraZeneca-sponsored clinical studies.
+- kk includes autoimmune nephritis, tubulointerstitial nephritis, nephritis, glomerulonephritis, glomerulonephritis membranous, and immune-mediated nephritis.
+
+ll includes fatigue and asthenia.
+
+mm  includes oedema peripheral and peripheral swelling.
+
+nn includes infusion-related reaction and urticaria with onset on the day of dosing or 1 day after dosing.
 
 <div style=\"page-break-after: always\"></div>
 
-- m includes autoimmune thyroiditis, immune-mediated thyroiditis, thyroiditis, and thyroiditis subacute.
-- n includes neuropathy peripheral, paraesthesia and peripheral sensory neuropathy.
-- o includes dysgeusia and taste disorder.
-- p includes encephalitis, encephalitis autoimmune, immune-mediated encephalitis and noninfective encephalitis.
-- q  events were reported from post-marketing data.
-- r  includes deep vein thrombosis, embolism, embolism venous, pelvic venous thrombosis, superficial vein thrombosis and thrombosis.
-- s  includes dyspnoea and dyspnoea exertional.
-- t  includes pneumonitis and immune-mediated lung disease.
-- u  includes abdominal pain, abdominal pain lower, abdominal pain upper and flank pain.
-- v  includes stomatitis and mucosal inflammation.
-- w  includes colitis, enteritis, enterocolitis, immune-mediated enterocolitis and proctitis.
-- x includes pancreatitis, pancreatitis acute, and immune-mediated pancreatitis.
-- y includes alanine aminotransferase increased, aspartate aminotransferase increased, hepatic enzyme increased and transaminases increased.
-- z includes hepatitis, autoimmune hepatitis, hepatitis toxic, hepatitis acute, hepatotoxicity, immune-mediated hepatitis, and hepatic cytolysis.
-- aa includes rash erythematous, rash macular, rash maculopapular, rash papular, rash pruritic, rash pustular, erythema, eczema and rash.
-- bb  includes dermatitis and immune-mediated dermatitis.
-- cc includes pemphigoid, dermatitis bullous and pemphigus. Reported frequency from completed and ongoing studies is uncommon.
-- dd  includes myositis and rhabdomyolysis.
-- ee includes autoimmune arthritis, immune-mediate arthritis, polyarthritis, and rheumatoid arthritis.
-- ff polymyositis (fatal) was observed in a patient treated with IMFINZI from an ongoing sponsored clinical study outside of the pooled dataset.
-- gg  not observed in the IMFINZI+Chemotherapy pool or the platinum-based chemotherapy+IMFINZI+olaparib dataset, but observed in other AstraZeneca-sponsored clinical studies.
-- hh includes autoimmune nephritis, tubulointerstitial nephritis, nephritis, glomerulonephritis, glomerulonephritis membranous, and immune-mediated nephritis.
-- ii includes fatigue and asthenia.
-- jj includes oedema peripheral and peripheral swelling.
-- kk includes infusion-related reaction and urticaria with onset on the day of dosing or 1 day after dosing.
+Table 4. Adverse drug reactions in patients treated with IMFINZI in combination with tremelimumab
 
-## Table 4. Adverse drug reactions in patients treated with IMFINZI in combination with tremelimumab
-
-|                                      | IMFINZI in combination with tremelimumab 75 mg and platinum-based chemotherapy   | IMFINZI in combination with tremelimumab 300 mg                                                          |
-|--------------------------------------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
-| Infections and infestations          | Infections and infestations                                                      | Infections and infestations                                                                              |
-| Very common                          | Upper respiratory tract infections a , Pneumonia b                               |                                                                                                          |
-| Common                               | Influenza, Oral candidiasis                                                      | Upper respiratory tract infections a , Pneumonia b , Influenza, Dental and oral soft tissue infections c |
-| Uncommon                             | Dental and oral soft tissue infections c                                         | Oral candidiasis                                                                                         |
-| Blood and lymphatic system disorders | Blood and lymphatic system disorders                                             | Blood and lymphatic system disorders                                                                     |
-| Very Common                          | Anaemia d , Neutropenia d,e , Thrombocytopenia d,f , Leukopenia d,g              |                                                                                                          |
-| Common                               | Febrile neutropenia d , Pancytopenia d                                           |                                                                                                          |
-| Uncommon                             | Immune thrombocytopenia                                                          |                                                                                                          |
-| Not known                            |                                                                                  | Immune thrombocytopenia h                                                                                |
-
-<div style=\"page-break-after: always\"></div>
-
-|                                                  | IMFINZI in combination with tremelimumab 75 mg and platinum-based chemotherapy                      | IMFINZI in combination with tremelimumab 300 mg                                  |
-|--------------------------------------------------|-----------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
-| Very common                                      | Hypothyroidism i                                                                                    | Hypothyroidism i                                                                 |
-| Common                                           | Hyperthyroidism j , Adrenal insufficiency, Hypopituitarism/ Hypophysitis, Thyroiditis k             | Hyperthyroidism j , Thyroiditis k , Adrenal insufficiency                        |
-| Uncommon                                         | Diabetes insipidus, Type 1 diabetes mellitus                                                        | Hypopituitarism/Hypophysitis                                                     |
-| Not known                                        |                                                                                                     | Diabetes insipidus h , Type 1 diabetes mellitus h                                |
-| Eye disorders                                    | Eye disorders                                                                                       | Eye disorders                                                                    |
-| Uncommon                                         | Uveitis                                                                                             |                                                                                  |
-| Rare                                             |                                                                                                     | Uveitis h                                                                        |
-| Metabolism and                                   | nutrition disorders                                                                                 |                                                                                  |
-| Very common                                      | Decreased appetite d                                                                                |                                                                                  |
-| Nervous system disorders                         | Nervous system disorders                                                                            | Nervous system disorders                                                         |
-| Common                                           | Neuropathy peripheral d,l                                                                           |                                                                                  |
-| Uncommon                                         | Encephalitis m ,                                                                                    | Myasthenia gravis, Meningitis                                                    |
-| Not known                                        | Myasthenia gravis n , Guillain-Barre syndrome n , Meningitis n , Transverse myelitis o              | Guillain-Barré syndrome h , Encephalitis h , Transverse myelitis o               |
-| Cardiac disorders                                | Cardiac disorders                                                                                   | Cardiac disorders                                                                |
-| Uncommon                                         | Myocarditis p                                                                                       | Myocarditis                                                                      |
-| Respiratory, thoracic, and mediastinal disorders | Respiratory, thoracic, and mediastinal disorders                                                    | Respiratory, thoracic, and mediastinal disorders                                 |
-| Very common                                      | Cough/Productive Cough                                                                              | Cough/Productive cough                                                           |
-| Common                                           | Pneumonitis q , Dysphonia                                                                           | Pneumonitis q                                                                    |
-| Uncommon                                         | Interstitial lung disease                                                                           | Dysphonia, Intersitial lung disease                                              |
-| Gastrointestinal disorders                       | Gastrointestinal disorders                                                                          | Gastrointestinal disorders                                                       |
-| Very common                                      | Nausea d , Diarrhoea, Constipation d , Vomiting d                                                   | Diarrhoea, Abdominal pain r                                                      |
-| Common                                           | Stomatitis d,s , Amylase increased, Abdominal pain r , Lipase increased, Colitis t , Pancreatitis u | Lipase increased, Amylase increased, Colitis t , Pancreatitis u                  |
-| Rare                                             | Coeliac disease n                                                                                   | Coeliac disease h                                                                |
-| Not known                                        | Intestinal perforation n , Large intestine perforation n                                            | Intestinal perforation h , Large intestinal perforation h                        |
-| Hepatobiliary disorders                          | Hepatobiliary disorders                                                                             | Hepatobiliary disorders                                                          |
-| Very common                                      | Aspartate aminotransferase increased/Alanine aminotransferase increased v                           | Aspartate aminotransferase increased/Alanine aminotransferase increased v        |
-| Common                                           | Hepatitis w                                                                                         | Hepatitis w                                                                      |
-| Skin and subcutaneous tissue disorders           | Skin and subcutaneous tissue disorders                                                              | Skin and subcutaneous tissue disorders                                           |
-| Very common                                      | Alopecia d , Rash x , Pruritus                                                                      | Rash x , Pruritus                                                                |
-| Common                                           |                                                                                                     | Dermatitis y , Night sweats,                                                     |
-| Uncommon                                         | Dermatitis, Night sweats, Pemphigoid                                                                | Pemphigoid                                                                       |
-| Musculoskeletal and connective tissue disorders  | Musculoskeletal and connective tissue disorders                                                     | Musculoskeletal and connective tissue disorders                                  |
-| Very common                                      | Arthralgia                                                                                          |                                                                                  |
-| Common                                           | Myalgia                                                                                             | Myalgia                                                                          |
-| Uncommon                                         | Myositis z , Polymyositis z , Immune- mediated arthritis n                                          | Myositis z , Polymyositis z , Immune- mediated arthritis, Polymyalgia rheumatica |
-| Not known                                        | Polymyalgia rheumatica n                                                                            |                                                                                  |
+|                                                  | IMFINZI in combination with tremelimumab 75 mg and platinum- based chemotherapy                     | IMFINZI in combination with tremelimumab 300 mg                                                          |
+|--------------------------------------------------|-----------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
+| Infections and infestations                      | Infections and infestations                                                                         | Infections and infestations                                                                              |
+| Very common                                      | Upper respiratory tract infections a , Pneumonia b                                                  |                                                                                                          |
+| Common                                           | Influenza, Oral candidiasis                                                                         | Upper respiratory tract infections a , Pneumonia b , Influenza, Dental and oral soft tissue infections c |
+| Uncommon                                         | Dental and oral soft tissue infections c                                                            | Oral candidiasis                                                                                         |
+| Blood and lymphatic system disorders             | Blood and lymphatic system disorders                                                                | Blood and lymphatic system disorders                                                                     |
+| Very Common                                      | Anaemia d , Neutropenia d,e , Thrombocytopenia d,f , Leukopenia d,g                                 |                                                                                                          |
+| Common                                           | Febrile neutropenia d , Pancytopenia d                                                              |                                                                                                          |
+| Uncommon                                         | Immune thrombocytopenia                                                                             |                                                                                                          |
+| Not known                                        |                                                                                                     | Immune thrombocytopenia h                                                                                |
+| Endocrine disorders                              | Endocrine disorders                                                                                 | Endocrine disorders                                                                                      |
+| Very common                                      | Hypothyroidism i                                                                                    | Hypothyroidism i                                                                                         |
+| Common                                           | Hyperthyroidism j , Adrenal insufficiency, Hypopituitarism/ Hypophysitis, Thyroiditis k             | Hyperthyroidism j , Thyroiditis k , Adrenal insufficiency                                                |
+| Uncommon                                         | Diabetes insipidus, Type 1 diabetes mellitus                                                        | Hypopituitarism/Hypophysitis                                                                             |
+| Not known                                        |                                                                                                     | Diabetes insipidus h , Type 1 diabetes mellitus h                                                        |
+| Eye disorders                                    | Eye disorders                                                                                       | Eye disorders                                                                                            |
+| Uncommon                                         | Uveitis                                                                                             |                                                                                                          |
+| Rare                                             |                                                                                                     | Uveitis h                                                                                                |
+| Metabolism and nutrition disorders               | Metabolism and nutrition disorders                                                                  | Metabolism and nutrition disorders                                                                       |
+| Very common                                      | Decreased appetite d                                                                                |                                                                                                          |
+| Nervous system disorders                         | Nervous system disorders                                                                            | Nervous system disorders                                                                                 |
+| Common                                           | Neuropathy peripheral d,l                                                                           |                                                                                                          |
+| Uncommon                                         | Encephalitis m ,                                                                                    | Myasthenia gravis, Meningitis                                                                            |
+| Not known                                        | Myasthenia gravis n , Guillain-Barre syndrome n , Meningitis n , Transverse myelitis o              | Guillain-Barré syndrome h , Encephalitis h , Transverse myelitis o                                       |
+| Cardiac disorders                                | Cardiac disorders                                                                                   | Cardiac disorders                                                                                        |
+| Uncommon                                         | Myocarditis p                                                                                       | Myocarditis                                                                                              |
+| Respiratory, thoracic, and mediastinal disorders | Respiratory, thoracic, and mediastinal disorders                                                    | Respiratory, thoracic, and mediastinal disorders                                                         |
+| Very common                                      | Cough/Productive Cough                                                                              | Cough/Productive cough                                                                                   |
+| Common                                           | Pneumonitis q , Dysphonia                                                                           | Pneumonitis q                                                                                            |
+| Uncommon                                         | Interstitial lung disease                                                                           | Dysphonia, Intersitial lung disease                                                                      |
+| Gastrointestinal disorders                       | Gastrointestinal disorders                                                                          | Gastrointestinal disorders                                                                               |
+| Very common                                      | Nausea d , Diarrhoea, Constipation d , Vomiting d                                                   | Diarrhoea, Abdominal pain r                                                                              |
+| Common                                           | Stomatitis d,s , Amylase increased, Abdominal pain r , Lipase increased, Colitis t , Pancreatitis u | Lipase increased, Amylase increased, Colitis t , Pancreatitis u                                          |
+| Rare                                             | Coeliac disease n                                                                                   | Coeliac disease h                                                                                        |
+| Not known                                        | Intestinal perforation n , Large intestine perforation n Intestinal perforation                     | perforation h , Large intestinal h                                                                       |
 
 <div style=\"page-break-after: always\"></div>
 
-|                                                      | IMFINZI in combination with tremelimumab 75 mg and platinum-based chemotherapy   | IMFINZI in combination with tremelimumab 300 mg   |
-|------------------------------------------------------|----------------------------------------------------------------------------------|---------------------------------------------------|
-| Renal and urinary disorders                          | Renal and urinary disorders                                                      |                                                   |
-| Common                                               | Blood creatinine increased, Dysuria                                              | Blood creatinine increased, Dysuria               |
-| Uncommon                                             | Nephritis, Cystitis noninfective                                                 | Nephritis aa                                      |
-| Not known                                            |                                                                                  | Cystitis noninfective h                           |
-| General disorders and administration site conditions | General disorders and administration site conditions                             |                                                   |
-| Very common                                          | Fatigue d , Pyrexia                                                              | Pyrexia, Oedema peripheral bb                     |
-| Common                                               | Oedema peripheral bb                                                             |                                                   |
-| Injury, poisoning and procedural complications       | Injury, poisoning and procedural complications                                   |                                                   |
-| Common                                               | Infusion-related reaction cc                                                     | Infusion-related reaction cc                      |
+|                                                      | IMFINZI in combination with tremelimumab 75 mg and platinum- based chemotherapy   | IMFINZI in combination with tremelimumab 300 mg                                 |
+|------------------------------------------------------|-----------------------------------------------------------------------------------|---------------------------------------------------------------------------------|
+| Hepatobiliary disorders                              | Hepatobiliary disorders                                                           | Hepatobiliary disorders                                                         |
+| Very common                                          | Aspartate aminotransferase increased/Alanine aminotransferase increased v         | Aspartate aminotransferase increased/Alanine aminotransferase increased v       |
+| Common                                               | Hepatitis w                                                                       | Hepatitis w                                                                     |
+| Skin and subcutaneous tissue disorders               | Skin and subcutaneous tissue disorders                                            | Skin and subcutaneous tissue disorders                                          |
+| Very common                                          | Alopecia d , Rash x , Pruritus                                                    | Rash x , Pruritus                                                               |
+| Common                                               |                                                                                   | Dermatitis y , Night sweats,                                                    |
+| Uncommon                                             | Dermatitis, Night sweats, Pemphigoid Pemphigoid                                   | Dermatitis, Night sweats, Pemphigoid Pemphigoid                                 |
+| Musculoskeletal and connective tissue disorders      | Musculoskeletal and connective tissue disorders                                   | Musculoskeletal and connective tissue disorders                                 |
+| Very common                                          | Arthralgia                                                                        |                                                                                 |
+| Common                                               | Myalgia                                                                           | Myalgia                                                                         |
+| Uncommon                                             | Myositis z , Polymyositis z , Immune- mediated arthritis n                        | Myositis z , Polymyositis z , Immune-mediated arthritis, Polymyalgia rheumatica |
+| Not known                                            | Polymyalgia rheumatica n                                                          |                                                                                 |
+| Renal and urinary disorders                          | Renal and urinary disorders                                                       | Renal and urinary disorders                                                     |
+| Common                                               | Blood creatinine increased, Dysuria                                               | Blood creatinine increased, Dysuria                                             |
+| Uncommon                                             | Nephritis, Cystitis noninfective                                                  | Nephritis aa                                                                    |
+| Not known                                            |                                                                                   | Cystitis noninfective h                                                         |
+| General disorders and administration site conditions | General disorders and administration site conditions                              | General disorders and administration site conditions                            |
+| Very common                                          | Fatigue d , Pyrexia                                                               | Pyrexia, Oedema peripheral bb                                                   |
+| Common                                               | Oedema peripheral bb                                                              |                                                                                 |
+| Injury, poisoning and procedural complications       | Injury, poisoning and procedural complications                                    | Injury, poisoning and procedural complications                                  |
+| Common                                               | Infusion-related reaction cc                                                      | Infusion-related reaction cc                                                    |
 
-- a Includes laryngitis, nasopharyngitis, pharyngitis, rhinitis, sinusitis, tonsillitis, tracheobronchitis and upper respiratory tract infection.
 - b  Includes pneumocystis jirovecii pneumonia, pneumonia and pneumonia bacterial.
 - c Includes periodontitis, pulpitis dental, tooth abscess and tooth infection.
 - d  Adverse reaction only applies to chemotherapy ADRs in the POSEIDON study.
@@ -687,6 +720,9 @@ j includes drug hypersensitivity and hypersensitivity.
 - t Includes colitis, enteritis and enterocolitis.
 - u Includes autoimmune pancreatitis, pancreatitis and pancreatitis acute.
 - v Includes alanine aminotransferase increased, aspartate aminotransferase increased, hepatic enzyme increased and transaminases increased.
+
+<div style=\"page-break-after: always\"></div>
+
 - w  Includes autoimmune hepatitis, hepatitis, hepatocellular injury, hepatotoxicity, hepatitis acute and immunemediated hepatitis.
 - x Includes eczema, erythema, rash, rash macular, rash maculopapular, rash papular, rash pruritic and rash pustular.
 - y  Includes dermatitis and immune-mediated dermatitis.
@@ -697,11 +733,7 @@ j includes drug hypersensitivity and hypersensitivity.
 
 ## Description of selected adverse reactions
 
-IMFINZI is associated with immune-mediated adverse reactions. Most of these, including severe reactions, resolved following initiation of appropriate medical therapy and/or treatment modifications. The data for the following immune-mediated adverse reactions reflect the IMFINZI monotherapy combined safety database of 4 642 patients which includes the PACIFIC, HIMALAYA and ADRIATIC studies and additional studies in patients with various solid tumours, in indications for which durvalumab is not approved. Across all studies, IMFINZI was administered at a dose of
-
-<div style=\"page-break-after: always\"></div>
-
-10 mg/kg every 2 weeks, 20 mg/kg every 4 weeks or 1 500 mg every 3 or 4 weeks. Details for the significant adverse reactions for IMFINZI when given in combination with chemotherapy are presented if clinically relevant differences were noted in comparison to IMFINZI monotherapy.
+IMFINZI is associated with immune-mediated adverse reactions. Most of these, including severe reactions, resolved following initiation of appropriate medical therapy and/or treatment modifications. The data for the following immune-mediated adverse reactions reflect the IMFINZI monotherapy combined safety database of 4 642 patients which includes the PACIFIC, HIMALAYA and ADRIATIC studies and additional studies in patients with various solid tumours, in indications for which durvalumab is not approved. Across all studies, IMFINZI was administered at a dose of 10 mg/kg every 2 weeks, 20 mg/kg every 4 weeks or 1 500 mg every 3 or 4 weeks. Details for the significant adverse reactions for IMFINZI when given in combination with chemotherapy are presented if clinically relevant differences were noted in comparison to IMFINZI monotherapy.
 
 The data for the following immune-mediated adverse reactions are also based on 2 280 patients who received IMFINZI 20 mg/kg every 4 weeks in combination with tremelimumab 1 mg/kg or IMFINZI 1 500 mg in combination with tremelimumab 75 mg every 4 weeks. Details for the significant adverse reactions for IMFINZI when given in combination with tremelimumab and platinum-based chemotherapy are presented if clinically relevant differences were noted in comparison to IMFINZI in combination with tremelimumab.
 
@@ -717,9 +749,9 @@ Immune-mediated pneumonitis occurred more frequently in patients in the PACIFIC 
 
 In the PACIFIC Study, (n=475 in the IMFINZI arm, and n=234 in the placebo arm) immune-mediated pneumonitis occurred in 47 (9.9%) patients in the IMFINZI-treated group and 14 (6.0%) patients in the placebo group, including Grade 3 in 9 (1.9%) patients on IMFINZI vs. 6 (2.6%) patients on placebo and Grade 5 (fatal) in 4 (0.8%) patients on IMFINZI vs. 3 (1.3%) patients on placebo. The median time to onset in the IMFINZI-treated group was 46 days (range: 2-342 days) vs. 57 days (range: 26-253 days) in the placebo group. In the IMFINZI-treated group, all patients received systemic corticosteroids, including 30 patients who received high-dose corticosteroid treatment (at least 40 mg prednisone or equivalent per day) and 2 patients also received infliximab. In the placebo group, all patients received systemic corticosteroids, including 12 patients who received high-dose corticosteroid treatment and 1 patient also received cyclophosphamide and tacrolimus. Resolution occurred for 29 patients in the IMFINZI treated group vs. 6 in placebo.
 
-In the ADRIATIC Study, in patients with LS-SCLC (n=262 in the IMFINZI arm, and n=265 in the placebo arm), immune-mediated pneumonitis occurred in 31 (11.8%) patients in the IMFINZI-treated group and 8 (3.0%) patients in the placebo group, including Grade 3 in 5 (1.9%) patients on IMFINZI vs. 1 (0.4%) patient on placebo and Grade 5 (fatal) in 1 (0.4%) patient on IMFINZI. The median time to onset in the IMFINZI-treated group was 55 days (range: 1-375 days) vs. 65.5 days (range: 24-124 days) in the placebo group. In the IMFINZI-treated group all patients received systemic corticosteroids, including 25 patients who received high-dose corticosteroid treatment (at least 40 mg prednisone or equivalent per day) and 1 patient also received infliximab. In the placebo group all patients received systemic corticosteroids, including 7 patients who received high-dose corticosteroid treatment. Resolution occurred for 18 patients in the IMFINZI treated group vs. 3 in placebo.
-
 <div style=\"page-break-after: always\"></div>
+
+In the ADRIATIC Study, in patients with LS-SCLC (n=262 in the IMFINZI arm, and n=265 in the placebo arm), immune-mediated pneumonitis occurred in 31 (11.8%) patients in the IMFINZI-treated group and 8 (3.0%) patients in the placebo group, including Grade 3 in 5 (1.9%) patients on IMFINZI vs. 1 (0.4%) patient on placebo and Grade 5 (fatal) in 1 (0.4%) patient on IMFINZI. The median time to onset in the IMFINZI-treated group was 55 days (range: 1-375 days) vs. 65.5 days (range: 24-124 days) in the placebo group. In the IMFINZI-treated group all patients received systemic corticosteroids, including 25 patients who received high-dose corticosteroid treatment (at least 40 mg prednisone or equivalent per day) and 1 patient also received infliximab. In the placebo group all patients received systemic corticosteroids, including 7 patients who received high-dose corticosteroid treatment. Resolution occurred for 18 patients in the IMFINZI treated group vs. 3 in placebo.
 
 In the combined safety database with IMFINZI in combination with tremelimumab (n=2 280), immune-mediated pneumonitis occurred in 86  (3.8%) patients, including Grade 3 in 30  (1.3%) patients, Grade 4 in 1 (&lt; 0.1%) patient, and Grade 5 (fatal) in 7 (0.3%) patients. The median time to onset was 57 days (range: 8 - 912 days). All patients received systemic corticosteroids and 79 of the 86 patients received high-dose corticosteroid treatment (at least 40 mg prednisone or equivalent per day). Seven patients also received other immunosuppressants. Treatment was discontinued in 39 patients. Resolution occurred in 51 patients.
 
@@ -733,17 +765,15 @@ In the combined safety database with IMFINZI monotherapy, immune-mediated hepati
 
 In the combined safety database with IMFINZI in combination with tremelimumab (n=2 280), immune-mediated hepatitis occurred in 80 (3.5%) patients, including Grade 3 in 48 (2.1%) patients, Grade 4 in 8 (0.4%) patients and Grade 5 (fatal) in 2 (&lt; 0.1%) patients. The median time to onset was 36 days (range: 1 - 533 days). All patients received systemic corticosteroids and 68 of the 80 patients received high-dose corticosteroid treatment (at least 40 mg prednisone or equivalent per day). Eight patients also received other immunosuppressants. Treatment was discontinued in 27 patients. Resolution occurred in 47 patients.
 
+<div style=\"page-break-after: always\"></div>
+
 In the HCC pool (n=462), immune-mediated hepatitis occurred in 34 (7.4%) patients, including Grade 3 in 20 (4.3%) patients, Grade 4 in 1 (0.2%) patient and Grade 5 (fatal) in 3 (0.6%) patients. The median time to onset was 29 days (range: 13-313 days). All patients received systemic corticosteroids, and 32 of the 34 patients received high-dose corticosteroid treatment (at least 40 mg prednisone or equivalent per day). Nine patients also received other immunosuppressants. Treatment was discontinued in 10 patients. Resolution occurred in 13 patients.
 
 ## Immune-mediated colitis
 
 In the combined safety database with IMFINZI monotherapy, immune-mediated colitis or diarrhoea occurred in 79 (1.7%) patients, including Grade 3 in 15 (0.3%) patients and Grade 4 in 2 (&lt; 0.1%) patients. The median time to onset was 72 days (range: 1-920 days). Fifty-five of the 79 patients received high-dose corticosteroid treatment (at least 40 mg prednisone or equivalent per day). Five patients also received other immunosuppressants including infliximab treatment and mycophenolate. IMFINZI was discontinued in 15 patients. Resolution occurred in 54 patients.
 
-In the combined safety database with IMFINZI in combination with tremelimumab (n=2 280), immune-mediated colitis or diarrhoea occurred in 167 (7.3%) patients, including Grade 3 in 76  (3.3%)
-
-<div style=\"page-break-after: always\"></div>
-
-patients and Grade 4 in 3 (0.1%) patients. The median time to onset was 57 days range: 3-906 days). All patients received systemic corticosteroids and 151 of the 167 patients received high-dose corticosteroid treatment (at least 40 mg prednisone or equivalent per day). Twenty-two patients also received other immunosuppressants. Treatment was discontinued in 54 patients. Resolution occurred in 141 patients.
+In the combined safety database with IMFINZI in combination with tremelimumab (n=2 280), immune-mediated colitis or diarrhoea occurred in 167 (7.3%) patients, including Grade 3 in 76  (3.3%) patients and Grade 4 in 3 (0.1%) patients. The median time to onset was 57 days range: 3-906 days). All patients received systemic corticosteroids and 151 of the 167 patients received high-dose corticosteroid treatment (at least 40 mg prednisone or equivalent per day). Twenty-two patients also received other immunosuppressants. Treatment was discontinued in 54 patients. Resolution occurred in 141 patients.
 
 Intestinal perforation and large intestine perforation were uncommonly reported in patients receiving IMFINZI in combination with tremelimumab.
 
@@ -759,15 +789,13 @@ In the combined safety database with IMFINZI in combination with tremelimumab (n
 
 In the HCC pool (n=462), immune-mediated hypothyroidism occurred in 46 (10.0%) patients. The median time to onset was 85 days (range: 26-763 days). One patient received high-dose corticosteroid treatment (at least 40 mg prednisone or equivalent per day). All patients required other therapy including hormone replacement therapy. Resolution occurred in 6 patients. Immune-mediated hypothyroidism was preceded by immune-mediated hyperthyroidism in 4 patients.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Immune-mediated hyperthyroidism
 
 In the combined safety database with IMFINZI monotherapy, immune-mediated hyperthyroidism occurred in 76 (1.6%) patients. The median time to onset was 43 days (range: 1-253 days). Seventyone of the 76 patients received medical therapy (thiamazole, carbimazole, propylthiouracil, perchlorate, calcium channel blocker or beta-blocker), 15 patients received systemic corticosteroids and 8 of the 15 patients received high-dose systemic corticosteroid treatment (at least 40 mg prednisone or equivalent per day). One patient discontinued IMFINZI due to immune-mediated hyperthyroidism. Resolution occurred in 62 patients. Thirty-one patients experienced hypothyroidism following hyperthyroidism.
 
-In the combined safety database with IMFINZI in combination with tremelimumab (n=2 280), immune-mediated hyperthyroidism occurred in 62 (2.7%) patients, including Grade 3 in 5 (0.2%) patients. The median time to onset was 33 days (range: 4-176 days). Eighteen patients received
-
-<div style=\"page-break-after: always\"></div>
-
-systemic corticosteroids, and 11 of the 18 patients received high-dose corticosteroid treatment (at least 40 mg prednisone or equivalent per day). Fifty-three patients required other therapy (thiamazole, carbimazole, propylthiouracil, perchlorate, calcium channel blocker or beta-blocker), One patient discontinued treatment due to hyperthyroidism. Resolution occurred in 47 patients.
+In the combined safety database with IMFINZI in combination with tremelimumab (n=2 280), immune-mediated hyperthyroidism occurred in 62 (2.7%) patients, including Grade 3 in 5 (0.2%) patients. The median time to onset was 33 days (range: 4-176 days). Eighteen patients received systemic corticosteroids, and 11 of the 18 patients received high-dose corticosteroid treatment (at least 40 mg prednisone or equivalent per day). Fifty-three patients required other therapy (thiamazole, carbimazole, propylthiouracil, perchlorate, calcium channel blocker or beta-blocker), One patient discontinued treatment due to hyperthyroidism. Resolution occurred in 47 patients.
 
 In the HCC pool (n=462), immune-mediated hyperthyroidism occurred in 21 (4.5%) patients, including Grade 3 in 1 (0.2%) patient. The median time to onset was 30 days (range: 13-60 days). Four patients received systemic corticosteroids, and all of the four patients received high-dose corticosteroid treatment (at least 40 mg prednisone or equivalent per day). Twenty patients required other therapy (thiamazole, carbimazole, propylthiouracil, perchlorate, calcium channel blocker, or beta-blocker). One patient discontinued treatment due to hyperthyroidism. Resolution occurred in 17 patients.
 
@@ -781,13 +809,15 @@ In the HCC pool (n=462), immune-mediated thyroiditis occurred in 6 (1.3%) patien
 
 ## Immune-mediated adrenal insufficiency
 
-In the combined safety database with IMFINZI monotherapy, immune-mediated adrenal insufficiency occurred in 24 (0.5%) patients, including Grade 3 in 8 (0.2%) patients. The median time to onset was 157.5 days (range: 20-547 days). All 24 patients received systemic corticosteroids; 8 of the 24 patients received high-dose corticosteroid treatment (at least 40 mg prednisone or equivalent per day). One patient discontinued IMFINZI due to immune-mediated adrenal insufficiency. Resolution occurred in 6 patients.
+In the combined safety database with IMFINZI monotherapy, immune-mediated adrenal insufficiency occurred in 24 (0.5%) patients, including Grade 3 in 8 (0.2%) patients. The median time to onset was
+
+<div style=\"page-break-after: always\"></div>
+
+157.5 days (range: 20-547 days). All 24 patients received systemic corticosteroids; 8 of the 24 patients received high-dose corticosteroid treatment (at least 40 mg prednisone or equivalent per day). One patient discontinued IMFINZI due to immune-mediated adrenal insufficiency. Resolution occurred in 6 patients.
 
 In the combined safety database with IMFINZI in combination with tremelimumab (n=2 280), immune-mediated adrenal insufficiency occurred in 33 (1.4%) patients, including Grade 3 in 16 (0.7%) patients and Grade 4 in 1 (&lt; 0.1%) patient. The median time to onset was 105 days (range: 20-428 days). Thirty-two patients received systemic corticosteroids, and 10 of the 32 patients received high-dose corticosteroid treatment (at least 40 mg prednisone or equivalent per day). Treatment was discontinued in one patient. Resolution occurred in 11 patients.
 
 In the HCC pool (n=462), immune-mediated adrenal insufficiency occurred in 6 (1.3%) patients, including Grade 3 in 1 (0.2%) patient. The median time to onset was 64 days (range: 43-504 days). All patients received systemic corticosteroids, and 1 of the 6 patients received high-dose corticosteroid treatment (at least 40 mg prednisone or equivalent per day). Resolution occurred in 2 patients.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Immune-mediated type 1 diabetes mellitus
 
@@ -807,17 +837,15 @@ In the HCC pool (n=462), immune-mediated hypophysitis/hypopituitarism occurred i
 
 In the combined safety database with IMFINZI monotherapy, immune-mediated nephritis occurred in 17 (0.4%) patients, including Grade 3 in 4 (0.1%) patients and Grade 4 in 1 (&lt; 0.1%) patient. The median time to onset was 84 days (range: 4-393 days). Twelve patients received high-dose corticosteroid treatment (at least 40 mg prednisone or equivalent per day) and 1 patient also received mycophenolate. IMFINZI was discontinued in 7 patients. Resolution occurred in 8 patients.
 
+<div style=\"page-break-after: always\"></div>
+
 In the combined safety database with IMFINZI in combination with tremelimumab (n=2 280), immune-mediated nephritis occurred in 9 (0.4%) patients, including Grade 3 in 1 (&lt; 0.1%) patient. The median time to onset was 79 days (range: 39-183 days). All patients received systemic corticosteroids and 7 patients received high-dose corticosteroid treatment (at least 40 mg prednisone or equivalent per day). Treatment was discontinued in 3 patients. Resolution occurred in 5 patients.
 
 In the HCC pool (n=462), immune-mediated nephritis occurred in 4 (0.9%) patients, including Grade 3 in 2 (0.4%) patients. The median time to onset was 53 days (range: 26-242 days). All patients received systemic corticosteroids, and 3 of the 4 received high-dose corticosteroid treatment (at least 40 mg prednisone or equivalent per day). Treatment was discontinued in 2 patients. Resolution occurred in 3 patients.
 
 ## Immune-mediated rash
 
-In the combined safety database with IMFINZI monotherapy, immune-mediated rash or dermatitis (including pemphigoid) occurred in 74 (1.6%) patients, including Grade 3 in 20 (0.4%) patients. The
-
-<div style=\"page-break-after: always\"></div>
-
-median time to onset was 56 days (range: 4-600 days). Thirty-seven of the 74 patients received high-dose corticosteroid treatment (at least 40 mg prednisone or equivalent per day). IMFINZI was discontinued in 5 patients. Resolution occurred in 46 patients.
+In the combined safety database with IMFINZI monotherapy, immune-mediated rash or dermatitis (including pemphigoid) occurred in 74 (1.6%) patients, including Grade 3 in 20 (0.4%) patients. The median time to onset was 56 days (range: 4-600 days). Thirty-seven of the 74 patients received high-dose corticosteroid treatment (at least 40 mg prednisone or equivalent per day). IMFINZI was discontinued in 5 patients. Resolution occurred in 46 patients.
 
 In the combined safety database with IMFINZI in combination with tremelimumab (n=2 280), immune-mediated rash or dermatitis (including pemphigoid) occurred in 112 (4.9%) patients, including Grade 3 in 17 (0.7%) patients. The median time to onset was 35 days (range: 1-778 days). All patients received systemic corticosteroids, and 57 of the 112 patients received high-dose corticosteroid treatment (at least 40 mg prednisone or equivalent per day). Treatment was discontinued in 10 patients. Resolution occurred in 65 patients.
 
@@ -833,6 +861,8 @@ In the combined safety database with IMFINZI in combination with tremelimumab (n
 
 In the DUO-E Study, out of 238 patients treated with platinum-based chemotherapy in combination with IMFINZI, followed by IMFINZI in combination with olaparib (platinum-based chemotherapy + IMFINZI + olaparib arm), infusion-related reactions occurred in 13 (5.5%) patients, including Grade 3 in 1 (0.4%) patient. There were no Grade 4 or 5 events.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Pure Red Cell Aplasia
 
 Pure Red Cell Aplasia (PRCA) has been reported when IMFINZI has been used in combination with olaparib. In a clinical study of patients with endometrial cancer treated with IMFINZI in combination with olaparib, the incidence of PRCA was 1.6%. All events were CTCAE Grade 3 or 4. Events were manageable following discontinuation of both IMFINZI and olaparib. The majority of events were managed with blood transfusion and immunosuppression and recovered; there were no fatal events. For management see section 4.4.
@@ -841,9 +871,7 @@ Pure Red Cell Aplasia (PRCA) has been reported when IMFINZI has been used in com
 
 In patients treated with IMFINZI monotherapy, the proportion of patients who experienced a shift from baseline to a Grade 3 or 4 laboratory abnormality was as follows: 3.7% for alanine aminotransferase increased, 5.7% for aspartate aminotransferase increased, 0.9% for blood creatinine increased, 4.8% for amylase increased and 8.2% for lipase increased. The proportion of patients who experienced a TSH shift from baseline that was ≤ ULN to any grade &gt; ULN was 20% and a TSH shift from baseline that was ≥ LLN to any grade &lt; LLN was 18.2%.
 
-<div style=\"page-break-after: always\"></div>
-
-In patients treated with IMFINZI in combination with chemotherapy, the proportion of patients who experienced a shift from baseline to a Grade 3 or 4 laboratory abnormality was as follows: 4.6% for alanine aminotransferase increased, 3.9% for aspartate aminotransferase increased, 4.6% for blood creatinine increased, 5.7% for amylase increased, 10.2% for lipase increased, and 3.0% for bilirubin increased. The proportion of patients who experienced a TSH shift from baseline that was ≤ ULN to any grade &gt; ULN was 23.1% and a TSH shift from baseline that was ≥ LLN to any grade &lt; LLN was 21.6%.
+In patients treated with IMFINZI in combination with chemotherapy, the proportion of patients who experienced a shift from baseline to a Grade 3 or 4 laboratory abnormality was as follows: 4.2% for alanine aminotransferase increased, 3.4% for aspartate aminotransferase increased, 4.0% for blood creatinine increased, 6.0% for amylase increased, 12.1% for lipase increased, and 2.3% for bilirubin increased. The proportion of patients who experienced a TSH shift from baseline that was ≤ ULN to any grade &gt; ULN was 22.8% and a TSH shift from baseline that was ≥ LLN to any grade &lt; LLN was 22.6%.
 
 In patients treated with IMFINZI in combination with tremelimumab and platinum-based chemotherapy, the proportion of patients who experienced a shift from baseline to a Grade 3 or 4 laboratory abnormality was as follows: 6.2% for alanine aminotransferase increased, 5.2% for aspartate aminotransferase increased, 4.0% for blood creatinine increased, 9.4% for amylase increased and 13.6% for lipase increased. The proportion of patients who experienced a TSH shift from baseline that was ≤ ULN to &gt; ULN was 24.8% and a TSH shift from baseline that was ≥ LLN to &lt; LLN was 32.9%.
 
@@ -855,19 +883,17 @@ In patients treated with platinum-based chemotherapy in combination with IMFINZI
 
 Immunogenicity of IMFINZI as monotherapy is based on pooled data in 3 069 patients who were treated with IMFINZI 10 mg/kg every 2 weeks, or 20 mg/kg every 4 weeks as a single-agent and evaluable for the presence of anti-drug antibodies (ADAs). Eighty-four patients (2.7%) tested positive for treatment emergent ADAs. Neutralising antibodies (nAb) against durvalumab were detected in 0.5% (16/3 069) of patients. The presence of ADAs did not have a clinically relevant effect on pharmacokinetics or safety. There are insufficient number of patients to determine ADA impact on efficacy.
 
+<div style=\"page-break-after: always\"></div>
+
 Across multiple phase III studies, in patients treated with IMFINZI in combination with other therapeutic agents, 0% to 10.1% of patients developed treatment-emergent ADAs. Neutralizing antibodies against durvalumab were detected in 0% to 1.7% of patients treated with IMFINZI in combination with other therapeutic agents. The presence of ADAs did not have an apparent effect on pharmacokinetics or safety.
 
 ## Elderly
 
 No overall differences in safety were reported between elderly (≥ 65 years) and younger patients.
 
-In studies PACIFIC, ADRIATIC, CASPIAN, TOPAZ-1, HIMALAYA and NIAGARA data on safety for patients 75 years and older are too limited to draw a conclusion on this population.
+In studies PACIFIC, ADRIATIC, CASPIAN, TOPAZ-1, HIMALAYA, NIAGARA, and MATTERHORN data on safety for patients 75 years and older are too limited to draw a conclusion on this population.
 
-In first line metastatic NSCLC patients in the POSEIDON study, some differences in safety were reported between elderly (≥ 65 years) and younger patients. The safety data from patients 75 years of age or older are limited to a total of 74 patients. There was a higher frequency of serious adverse reactions and discontinuation rate of any study treatment due to adverse reactions in 35 patients aged
-
-<div style=\"page-break-after: always\"></div>
-
-75 years of age or older treated with IMFINZI in combination with tremelimumab and platinum-based chemotherapy (45.7% and 28.6%, respectively) relative to 39 patients aged 75 years of age or older who received platinum-based chemotherapy only (35.9% and 20.5%, respectively).
+In first line metastatic NSCLC patients in the POSEIDON study, some differences in safety were reported between elderly (≥ 65 years) and younger patients. The safety data from patients 75 years of age or older are limited to a total of 74 patients. There was a higher frequency of serious adverse reactions and discontinuation rate of any study treatment due to adverse reactions in 35 patients aged 75 years of age or older treated with IMFINZI in combination with tremelimumab and platinum-based chemotherapy (45.7% and 28.6%, respectively) relative to 39 patients aged 75 years of age or older who received platinum-based chemotherapy only (35.9% and 20.5%, respectively).
 
 In resectable NSCLC patients in the AEGEAN study, some differences in safety were reported between elderly (≥ 65 years) and younger patients. The safety data from patients 75 years of age or older are limited to 86 patients in both treatment arms. There was a higher frequency of serious adverse reactions in patients aged 75 years or older who received IMFINZI in combination with chemotherapy relative to patients who received chemotherapy only (26.5% vs. 10.8%, respectively). There was a higher frequency of discontinuation of any study treatment due to adverse reactions in patients aged 75 years or older who received IMFINZI in combination with chemotherapy relative to patients who received chemotherapy only (16.3% vs. 8.1%, respectively).
 
@@ -889,17 +915,15 @@ Pharmacotherapeutic group: Antineoplastic agents, monoclonal antibodies and anti
 
 Expression of programmed cell death ligand-1 (PD-L1) protein is an adaptive immune response that helps tumours evade detection and elimination by the immune system. PD-L1 can be induced by inflammatory signals (e.g., IFN-gamma) and can be expressed on both tumour cells and tumour-associated immune cells in tumour microenvironment. PD-L1 blocks T-cell function and activation through interaction with PD-1 and CD80 (B7.1). By binding to its receptors, PD-L1 reduces cytotoxic T-cell activity, proliferation and cytokine production.
 
+<div style=\"page-break-after: always\"></div>
+
 Durvalumab is a fully human, immunoglobulin G1 kappa (IgG1κ) monoclonal antibody that selectively blocks the interaction of PD-L1 with PD-1 and CD80 (B7.1). Durvalumab does not induce antibody dependent cell-mediated cytotoxicity (ADCC). Selective blockade of PD-L1/PD-1 and PD-L1/CD80 interactions enhances antitumour immune responses and increases T-cell activation.
 
 The combination of tremelimumab, a CTLA-4 inhibitor and durvalumab, a PD-L1 inhibitor functions to enhance anti-tumour T-cell activation and function at multiple stages of the immune response resulting in improved anti-tumour responses. In murine syngeneic tumour models, dual blockade of PD-L1 and CTLA-4 resulted in enhanced anti-tumour activity.
 
 ## Clinical efficacy and safety
 
-Durvalumab doses of 10 mg/kg every 2 weeks, 1 120 mg every 3 weeks or 1 500 mg every 4 weeks were evaluated in NSCLC, ES-SCLC and endometrial cancer clinical studies. Based on the modeling and simulation of exposure, exposure-safety relationships and exposure-efficacy data comparisons,
-
-<div style=\"page-break-after: always\"></div>
-
-there are no anticipated clinically significant differences in efficacy and safety between durvalumab doses of 10 mg/kg every 2 weeks, 1 120 mg every 3 weeks or 1 500 mg every 4 weeks.
+Durvalumab doses of 10 mg/kg every 2 weeks, 1 120 mg every 3 weeks or 1 500 mg every 4 weeks were evaluated in NSCLC, ES-SCLC and endometrial cancer clinical studies. Based on the modeling and simulation of exposure, exposure-safety relationships and exposure-efficacy data comparisons, there are no anticipated clinically significant differences in efficacy and safety between durvalumab doses of 10 mg/kg every 2 weeks, 1 120 mg every 3 weeks or 1 500 mg every 4 weeks.
 
 ## Resectable NSCLC - AEGEAN Study
 
@@ -917,6 +941,8 @@ The study excluded patients with active or prior documented autoimmune disease, 
 
 Randomisation was stratified by disease stage (Stage II vs. Stage III) and by PD-L1 expression (TC &lt; 1% vs. TC ≥ 1%) status.
 
+<div style=\"page-break-after: always\"></div>
+
 Post-operative radiotherapy (PORT) was permitted for patients for whom it was indicated according to local guidance. PORT was to be started within 8 weeks of surgery and adjuvant durvalumab/placebo must then have been started within 3 weeks of the completion of PORT.
 
 The AEGEAN study randomised 802 patients in a 1:1 ratio to receive perioperative IMFINZI (Arm 1) or placebo (Arm 2) in combination with neoadjuvant chemotherapy. Crossover between the study arms was not permitted.
@@ -929,9 +955,6 @@ In the 2 treatment arms, patients received one of the following histology-based 
 - Squamous NSCLC
 - o Carboplatin + paclitaxel: carboplatin AUC 6 and paclitaxel 200 mg/m 2 via IV infusion on Day 1 of each 3-week cycle, for 4 cycles.
 - Squamous NSCLC
-
-<div style=\"page-break-after: always\"></div>
-
 - o Cisplatin + gemcitabine: cisplatin 75 mg/m 2 via IV infusion on Day 1 of each 3-week cycle, for 4 cycles, and gemcitabine 1250 mg/m2 via IV infusion on Day 1 and Day 8 of each 3-week cycle, for 4 cycles.
 - Non-squamous NSCLC
 - o Pemetrexed + cisplatin: pemetrexed 500 mg/m 2  and cisplatin 75 mg/m 2 via IV infusion on Day 1 of each 3-week cycle, for 4 cycles.
@@ -946,6 +969,8 @@ The primary endpoints of the study were pathological complete response (pCR) by 
 
 Efficacy analysis was conducted based on 740 patients in the mITT population: 366 patients in Arm 1 and 374 patients in Arm 2. Baseline demographics and disease characteristics of the population were as follows: male (71.6%), female (28.4%), age ≥ 65 years (51.6%), median age 65 years (range: 30 to 88), WHO/ECOG PS 0 (68.4%), WHO/ECOG PS 1 (31.6), White (53.6%), Asian (41.5%), Black or African American (0.9%), American Indian or Alaska Native (1.4%), Other Race (2.6%), Hispanic or Latino (16.1%), Not Hispanic or Latino (83.9%), current or past smokers (85.5%), never smoker (14.5%), squamous histology (48.6%) and non-squamous histology (50.7%), Stage II (28.4%), Stage III (71.6%), PD-L1 expression status TC ≥ 1% (66.6%), PD-L1 expression status TC &lt; 1% (33.4%).
 
+<div style=\"page-break-after: always\"></div>
+
 In the mITT population, there were 295 (80.6%) patients in Arm 1 who underwent curative intent surgery compared to 302 (80.7%) patients in Arm 2. The number of patients who underwent PORT were 26 (7.1%) in Arm 1 and 24 (6.4%) in Arm 2.
 
 At the primary (pre-specified) EFS analysis (DCO: 10 November 2022), with a maturity of 31.9% and a median EFS follow-up in censored patients of 11.7 months, the study showed a statistically significant improvement in the IMFINZI arm compared to the placebo arm [HR=0.68 (95% CI: 0.53, 0.88), p=0.003902].
@@ -954,14 +979,9 @@ At the updated (pre-specified) EFS analysis (DCO: 10 May 2024), the median EFS f
 
 Table 5. Efficacy Results for the AEGEAN Study (mITT)
 
-|         | IMFINZI + chemotherapy (N=366)   | Placebo + chemotherapy (N=374)   |
-|---------|----------------------------------|----------------------------------|
-| EFS a,c | EFS a,c                          | EFS a,c                          |
-
-<div style=\"page-break-after: always\"></div>
-
 |                                      | IMFINZI + chemotherapy (N=366)   | Placebo + chemotherapy (N=374)   |
 |--------------------------------------|----------------------------------|----------------------------------|
+| EFS a,c                              |                                  |                                  |
 | Number of events, n (%)              | 124 (33.9)                       | 165 (44.1)                       |
 | Median EFS (95% CI) (months)         | NR (42.3, NR)                    | 30 (20.6, NR)                    |
 | Hazard ratio (95% CI)                | 0.69 (0.55, 0.88)                | 0.69 (0.55, 0.88)                |
@@ -976,6 +996,8 @@ b  Based on a pre-specified pCR interim analysis (DCO: 14 January 2022) in n=402
 
 c  The 2-sided p-value for pCR was calculated based on a stratified CMH test. The 2-sided p-value for EFS was calculated based on a stratified log-rank test. Stratification factors included baseline PD-L1 and disease stage. The boundary for declaring statistical significance for each of the efficacy endpoints were determined by a LanDeMets alpha spending function that approximates an O'Brien Fleming approach (EFS=0.9899%, pCR=0.0082%, 2-sided).
 
+<div style=\"page-break-after: always\"></div>
+
 Figure 1. Kaplan-Meier Curve of updated EFS analysis (DCO: 10 May 2024)
 
 <!-- image -->
@@ -984,21 +1006,21 @@ Time from randomisation (months)
 
 Number of patients at risk
 
-| IMFINZI + SoC   |   366 |   337 |   276 |   240 |   219 |   201 |   194 |   179 |   172 |   128 |   121 |   76 |   67 |   48 |   36 | 29   |   6 |   4 |   4 |   4 |   0 0 |   0 |
-|-----------------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|------|------|------|------|------|-----|-----|-----|-----|-------|-----|
-| Placebo + SoC   |   374 |   338 |   261 |   225 |   201 |   176 |   172 |   151 |   142 |    93 |    83 |   57 |   53 |   36 |   32 | 25 8 |   3 |   2 |   2 |   0 |     0 |   0 |
+| IMFINZI + SoC   |   366 |   337 |   276 |   240 |   219 |   201 |   194 |   179 |   172 |   128 |   121 |   76 |   67 |   48 |   36 |   29 |   6 |   4 | 4   |   4 | 0   |   0 |   0 |
+|-----------------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|------|------|------|------|------|-----|-----|-----|-----|-----|-----|-----|
+| Placebo + SoC   |   374 |   338 |   261 |   225 |   201 |   176 |   172 |   151 |   142 |    93 |    83 |   57 |   53 |   36 |   32 |   25 |   8 |   3 | 2 2 |   0 |     |   0 |   0 |
 
 ## NSCLC - PACIFIC Study
 
-The efficacy of IMFINZI was evaluated in the PACIFIC Study, a randomised, double-blind, placebo-controlled, multicentre study in 713 patients with locally advanced, unresectable NSCLC. Patients had completed at least 2 cycles of definitive platinum-based chemotherapy with radiation therapy within 1 to 42 days prior to initiation of the study and had a ECOG performance status of 0 or 1. Ninety-two percent of patients had received a total dose of 54 to 66 Gy of radiation. The study excluded patients who had progressed following chemoradiation therapy, patients with prior exposure to any anti-PD-1 or anti-PD-L1 antibody, patients with active or prior documented autoimmune disease within 2 years of initiation of the study; a history of immunodeficiency; a history of severe immune-mediated adverse reactions; medical conditions that required systemic immunosuppression,
-
-<div style=\"page-break-after: always\"></div>
-
-except physiological dose of systemic corticosteroids; active tuberculosis or hepatitis B or C or HIV infection or patients receiving live attenuated vaccine within 30 days before or after the start of IMFINZI. Patients were randomised 2:1 to receive 10 mg/kg IMFINZI (n=476) or 10 mg/kg placebo (n=237) via intravenous infusion every 2 weeks for up to 12 months or until unacceptable toxicity or confirmed disease progression. Randomisation was stratified by gender, age (&lt; 65 years vs. ≥ 65 years) and smoking status (smoker vs. non-smoker). Patients with disease control at 12 months were given the option to be re-treated upon disease progression. Tumour assessments were conducted every 8 weeks for the first 12 months and then every 12 weeks thereafter.
+The efficacy of IMFINZI was evaluated in the PACIFIC Study, a randomised, double-blind, placebo-controlled, multicentre study in 713 patients with locally advanced, unresectable NSCLC. Patients had completed at least 2 cycles of definitive platinum-based chemotherapy with radiation therapy within 1 to 42 days prior to initiation of the study and had a ECOG performance status of 0 or 1. Ninety-two percent of patients had received a total dose of 54 to 66 Gy of radiation. The study excluded patients who had progressed following chemoradiation therapy, patients with prior exposure to any anti-PD-1 or anti-PD-L1 antibody, patients with active or prior documented autoimmune disease within 2 years of initiation of the study; a history of immunodeficiency; a history of severe immune-mediated adverse reactions; medical conditions that required systemic immunosuppression, except physiological dose of systemic corticosteroids; active tuberculosis or hepatitis B or C or HIV infection or patients receiving live attenuated vaccine within 30 days before or after the start of IMFINZI. Patients were randomised 2:1 to receive 10 mg/kg IMFINZI (n=476) or 10 mg/kg placebo (n=237) via intravenous infusion every 2 weeks for up to 12 months or until unacceptable toxicity or confirmed disease progression. Randomisation was stratified by gender, age (&lt; 65 years vs. ≥ 65 years) and smoking status (smoker vs. non-smoker). Patients with disease control at 12 months were given the option to be re-treated upon disease progression. Tumour assessments were conducted every 8 weeks for the first 12 months and then every 12 weeks thereafter.
 
 Patients were enrolled regardless of their tumour PD-L1 expression level. Where available, archival tumour tissue specimens taken prior to chemoradiation therapy were retrospectively tested for PD-L1 expression on tumour cells (TC) using the VENTANA PD-L1 (SP263) IHC assay. Of the 713 patients randomised, 63% of patients provided a tissue sample of sufficient quality and quantity to determine PD-L1 expression and 37% were unknown.
 
-The demographics and baseline disease characteristics were well balanced between study arms. Baseline demographics of the overall study population were as follows: male (70%), age ≥ 65 years (45%), age ≥ 75 years (8%), White (69%), Asian (27%), other (4%), current smoker (16%), past-smoker (75%), never smoker (9%), ECOG Performance Status 0 (49%), ECOG Performance Status 1 (51%). Disease characteristics were as follows: Stage IIIA (53%), Stage IIIB (45%), histological sub-groups of squamous (46%), non-squamous (54%). Of 451 patients with PD-L1 expression available, 67% were TC ≥ 1% [PD-L1 TC 1-24% (32%), PD-L1 TC ≥ 25% (35%)] and 33% were TC &lt; 1%.
+The demographics and baseline disease characteristics were well balanced between study arms. Baseline demographics of the overall study population were as follows: male (70%), age ≥ 65 years (45%), age ≥ 75 years (8%), White (69%), Asian (27%), other (4%), current smoker (16%), past-smoker (75%), never smoker (9%), ECOG Performance Status 0 (49%), ECOG Performance Status 1 (51%). Disease characteristics were as follows: Stage IIIA (53%), Stage IIIB (45%), histological sub-groups of squamous (46%), non-squamous (54%). Of 451 patients with PD-L1
+
+<div style=\"page-break-after: always\"></div>
+
+expression available, 67% were TC ≥ 1% [PD-L1 TC 1-24% (32%), PD-L1 TC ≥ 25% (35%)] and 33% were TC &lt; 1%.
 
 The two primary endpoints of the study were progression-free survival (PFS) and overall survival (OS) of IMFINZI vs. placebo. Secondary efficacy endpoints included PFS at 12 months (PFS 12) and 18 months (PFS 18) from randomisation and Time from Randomisation to Second Progression (PFS2). PFS was assessed by Blinded Independent Central Review (BICR) according to RECIST v1.1.
 
@@ -1008,24 +1030,18 @@ In the 5-year follow-up analysis, with a median follow-up of 34.2 months, IMFINZ
 
 Table 6. Efficacy results for the PACIFIC Study
 
-|                              | Primary analysis a   | Primary analysis a   | 5-year follow-up analysis b   | 5-year follow-up analysis b   |
-|------------------------------|----------------------|----------------------|-------------------------------|-------------------------------|
-|                              | IMFINZI (n=476)      | Placebo (n=237)      | IMFINZI (n=476)               | Placebo (n=237)               |
-| OS                           |                      |                      |                               |                               |
-| Number of deaths (%)         | 183 (38.4%)          | 116 (48.9%)          | 264 (55.5%)                   | 155 (65.4%)                   |
-| Median (months) (95% CI)     | NR (34.7, NR)        | 28.7 (22.9, NR)      | 47.5 (38.1, 52.9)             | 29.1 (22.1, 35.1)             |
-| HR (95% CI)                  | 0.68 (0.53, 0.87)    | 0.68 (0.53, 0.87)    | 0.72 (0.59, 0.89)             | 0.72 (0.59, 0.89)             |
-| 2- sided p-value             | 0.00251              | 0.00251              |                               |                               |
-| OS at 24 months (%) (95% CI) | 66.3% (61.7%, 70.4%) | 55.6% (48.9%, 61.3%) | 66.3% (61.8%, 70.4%)          | 55.3% (48.6%, 61.4%)          |
-| p-value                      | 0.005                | 0.005                |                               |                               |
-| OS at 48 months (%) (95% CI) |                      |                      | 49.7% (45.0%, 54.2%)          | 36.3% (30.1%, 42.6%)          |
-| OS at 60 months (%) (95% CI) |                      |                      | 42.9% (38.2%, 47.4%)          | 33.4% (27.3%, 39.6%)          |
-
-<div style=\"page-break-after: always\"></div>
-
 |                               | Primary analysis a   | Primary analysis a   | 5-year follow-up analysis b   | 5-year follow-up analysis b   |
 |-------------------------------|----------------------|----------------------|-------------------------------|-------------------------------|
 |                               | IMFINZI (n=476)      | Placebo (n=237)      | IMFINZI (n=476)               | Placebo (n=237)               |
+| OS                            |                      |                      |                               |                               |
+| Number of deaths (%)          | 183 (38.4%)          | 116 (48.9%)          | 264 (55.5%)                   | 155 (65.4%)                   |
+| Median (months) (95% CI)      | NR (34.7, NR)        | 28.7 (22.9, NR)      | 47.5 (38.1, 52.9)             | 29.1 (22.1, 35.1)             |
+| HR (95% CI)                   | 0.68 (0.53, 0.87)    | 0.68 (0.53, 0.87)    | 0.72 (0.59, 0.89)             | 0.72 (0.59, 0.89)             |
+| 2- sided p-value              | 0.00251              | 0.00251              |                               |                               |
+| OS at 24 months (%) (95% CI)  | 66.3% (61.7%, 70.4%) | 55.6% (48.9%, 61.3%) | 66.3% (61.8%, 70.4%)          | 55.3% (48.6%, 61.4%)          |
+| p-value                       | 0.005                | 0.005                |                               |                               |
+| OS at 48 months (%) (95% CI)  |                      |                      | 49.7% (45.0%, 54.2%)          | 36.3% (30.1%, 42.6%)          |
+| OS at 60 months (%) (95% CI)  |                      |                      | 42.9% (38.2%, 47.4%)          | 33.4% (27.3%, 39.6%)          |
 | PFS                           |                      |                      |                               |                               |
 | Number of events (%)          | 214 (45.0%)          | 157 (66.2%)          | 268 (56.3%)                   | 175 (73.8%)                   |
 | Median PFS (months) (95% CI)  | 16.8 (13.0, 18.1)    | 5.6 (4.6, 7.8)       | 16.9 (13.0, 23.9)             | 5.6 (4.8, 7.7)                |
@@ -1038,50 +1054,49 @@ Table 6. Efficacy results for the PACIFIC Study
 | PFS2 c                        |                      |                      |                               |                               |
 | Median PFS2 (months) (95% CI) | 28.3 (25.1, 34.7)    | 17.1 (14.5, 20.7)    |                               |                               |
 | HR (95% CI)                   | 0.58 (0.46, 0.73)    | 0.58 (0.46, 0.73)    |                               |                               |
-| p-value                       | p < 0.0001           | p < 0.0001           |                               |                               |
-
-Kaplan-Meier curves for OS and PFS from the 5-year follow-up analysis are presented in Figures 2 and 3.
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 2. Kaplan-Meier curve of OS
+|         | Primary analysis a   | Primary analysis a   | 5-year follow-up analysis b   | 5-year follow-up analysis b   |
+|---------|----------------------|----------------------|-------------------------------|-------------------------------|
+|         | IMFINZI (n=476)      | Placebo (n=237)      | IMFINZI (n=476)               | Placebo (n=237)               |
+| p-value | p < 0.0001           | p < 0.0001           |                               |                               |
 
-<!-- image -->
+NR: Not Reached
+
+Kaplan-Meier curves for OS and PFS from the 5-year follow-up analysis are presented in Figures 2 and 3.
+
+Figure 2. Kaplan-Meier curve of OS
 
 Time from randomisation (months)
 
-Number of patients at risk
-
 <!-- image -->
 
-| Month   |   0 |   3 |   6 |   9 |   12 |   15 |   18 |   21 |   24 |   27 |   30 |   33 |   36 | 39    | 42   | 45      | 48   |   51 | 54   | 57      |   60 | 63    |   66 69 |   72 75 |
-|---------|-----|-----|-----|-----|------|------|------|------|------|------|------|------|------|-------|------|---------|------|------|------|---------|------|-------|---------|---------|
-| IMFINZI | 476 | 464 | 431 | 414 |  385 |  364 |  343 |  319 |  298 |  289 |  273 |  264 |  252 | 241   | 236  | 227 218 |      |  207 | 196  | 183 134 |   91 | 40 18 |       2 |       0 |
-| Placebo | 237 | 220 | 199 | 179 |  171 |  156 |  143 |  133 |  123 |  116 |  107 |   99 |   97 | 93 91 |      | 83 78   | 77   |   74 |      | 72 56   |   33 | 16 7  |       2 |       0 |
+Number of patients at risk Number of patients at risk The improvements in PFS and OS in favour of patients receiving IMFINZI compared to those receiving placebo were consistently observed in all predefined subgroups analysed, including ethnicity, age, gender, smoking history, EGFR mutation status and histology.
+
+| Month   |   0 |   3 |   6 |   9 |   12 |   15 |   18 |   21 |   24 |   27 |   30 |   33 |   36 |   39 |   42 | 45    |   48 |   51 |   54 |   57 | 60 63     |   66 |   69 |   72 75 |
+|---------|-----|-----|-----|-----|------|------|------|------|------|------|------|------|------|------|------|-------|------|------|------|------|-----------|------|------|---------|
+| IMFINZI | 476 | 464 | 431 | 414 |  385 |  364 |  343 |  319 |  298 |  289 |  273 |  264 |  252 |  241 |  236 | 227   |  218 |  207 |  196 |  183 | 134 91 18 |   40 |    2 |       0 |
+| Placebo | 237 | 220 | 199 | 179 |  171 |  156 |  143 |  133 |  123 |  116 |  107 |   99 |   97 |   93 |   91 | 83 78 |   77 |      |   74 |   72 | 56 33 16  |    7 |    2 |       0 |
+
+<div style=\"page-break-after: always\"></div>
 
 Figure 3. Kaplan-Meier curve of PFS
 
 <!-- image -->
 
-Time from randomisation (months)
-
-<!-- image -->
-
-| Number of patients at risk   |     |     |     |     |     |     |     |     |     |     |       |     |     |    |    |    |    |    |    |       |       |    |     |    |
-|------------------------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-------|-----|-----|----|----|----|----|----|----|-------|-------|----|-----|----|
-| Month                        |   0 |   3 |   6 |   9 |  12 |  15 |  18 |  21 |  24 |  27 | 30 33 |  36 |     | 39 | 42 | 45 | 48 | 51 | 54 | 57 60 | 63 66 |    | 69  | 72 |
-| IMFINZI                      | 476 | 377 | 301 | 267 | 215 | 190 | 165 | 147 | 137 | 128 | 119   | 110 | 103 | 97 | 92 | 85 | 81 | 78 | 67 | 57 34 | 22    | 11 | 5   |  0 |
-| Placebo                      | 237 | 164 | 105 |  87 |  68 |  56 |  48 |  41 |  37 |  36 | 30    |  27 | 26  | 25 | 24 | 24 | 22 | 21 | 19 | 19    | 14 6  |    | 4 1 |  0 |
-
-The improvements in PFS and OS in favour of patients receiving IMFINZI compared to those receiving placebo were consistently observed in all predefined subgroups analysed, including ethnicity, age, gender, smoking history, EGFR mutation status and histology.
+| Month   |   0 |   3 |   6 |   9 |   12 |   15 |   18 |   21 |   24 |   27 |   30 |   33 |   36 |   39 |   42 | 45    |   48 |   51 |   54 | 60    | 57   |   63 | 66 69 72   |
+|---------|-----|-----|-----|-----|------|------|------|------|------|------|------|------|------|------|------|-------|------|------|------|-------|------|------|------------|
+| IMFINZI | 476 | 377 | 301 | 267 |  215 |  190 |  165 |  147 |  137 |  128 |  119 |  110 |  103 |   97 |   92 | 85 81 |   78 |   67 |   57 | 34 22 | 11   |      | 5 0        |
+| Placebo | 237 | 164 | 105 |  87 |   68 |   56 |   48 |   41 |   37 |   36 |   30 |   27 |   26 |   25 |   24 | 24 22 |   21 |   19 |   19 | 14    | 6 4  |    1 | 0          |
 
 ## Post-hoc subgroup analysis by PD-L1 expression
 
-Additional subgroup analyses were conducted to evaluate the efficacy by tumour PD-L1 expression (≥ 25%, 1-24%, ≥ 1%, &lt; 1%) and for patients whose PD-L1 status cannot be established (PD-L1
+Additional subgroup analyses were conducted to evaluate the efficacy by tumour PD-L1 expression (≥ 25%, 1-24%, ≥ 1%, &lt; 1%) and for patients whose PD-L1 status cannot be established (PD-L1 unknown). PFS and OS results from the 5-year follow-up analysis are summarised in Figures 4, 5, 6 and 7.
 
-<div style=\"page-break-after: always\"></div>
-
-unknown). PFS and OS results from the 5-year follow-up analysis are summarised in Figures 4, 5, 6 and 7.
+| Month   |   0 |   3 |   6 9 |   12 |     |   15 |   18 21 |   24 |     |   27 |   30 |   33 |   36 |   39 42 |   45 |   48 | 51      |   54 57 | 60 63   |   66 |   69 | 72 75   |    |
+|---------|-----|-----|-------|------|-----|------|---------|------|-----|------|------|------|------|---------|------|------|---------|---------|---------|------|------|---------|----|
+| IMFINZI | 212 | 208 |   193 |  186 | 178 |  171 |     165 |  156 | 146 |  141 |  132 |  129 |  124 |     118 |  117 |  114 | 109 105 |     103 | 98 74   |   52 |   29 | 14 1    |  0 |
 
 Figure 4. Kaplan-Meier curve of OS for PD-L1 TC ≥ 1%
 
@@ -1089,14 +1104,35 @@ Figure 4. Kaplan-Meier curve of OS for PD-L1 TC ≥ 1%
 
 Time from randomisation (months)
 
-Number of patients at risk
+<div style=\"page-break-after: always\"></div>
 
-<!-- image -->
+91
 
-| Month   |   0 |   3 |   6 |   9 |   12 |   15 |   18 |   21 |   24 |   27 |   30 |     |   33 |   36 |   39 |   42 |   45 |   48 |   51 | 54    | 57    |   60 63 |   66 | 69 72 75   |
-|---------|-----|-----|-----|-----|------|------|------|------|------|------|------|-----|------|------|------|------|------|------|------|-------|-------|---------|------|------------|
-| IMFINZI | 212 | 208 | 193 | 186 |  178 |  171 |  165 |  156 |  146 |  141 |  132 | 129 |  124 |  118 |  117 |  114 |  109 |  105 |  103 | 98 74 | 52    |      29 |   14 | 1 0        |
-| Placebo |  91 |  81 |  75 |  67 |   64 |   58 |   52 |   47 |   45 |   44 |   41 |  38 |   38 |   37 |   36 |   33 |   31 |   31 |   30 | 29    | 24 14 |       8 |    5 | 2 0        |
+81
+
+75
+
+67
+
+64
+
+58
+
+52
+
+47
+
+45
+
+44
+
+41
+
+38
+
+38
+
+37
 
 Figure 5. Kaplan-Meier curve of PFS for PD-L1 TC ≥ 1%
 
@@ -1106,24 +1142,56 @@ Time from randomisation (months)
 
 Number of patients at risk
 
-| Month   |   0 |   3 |   6 |   9 |   12 |   15 |   18 |   21 |   24 |   27 |   30 |   33 |   36 |   39 |   42 | 45   | 48   |   51 | 54    | 57    |   60 | 63 69   | 66   |   72 |
-|---------|-----|-----|-----|-----|------|------|------|------|------|------|------|------|------|------|------|------|------|------|-------|-------|------|---------|------|------|
-| IMFINZI | 212 | 175 | 142 | 127 |  107 |   95 |   82 |   70 |   67 |   63 |   57 |   55 |   50 |   47 |   45 | 42   | 39   |   38 | 34 31 | 22 15 |    8 | 4       |      |    0 |
-| Placebo |  91 |  59 |  38 |  34 |   26 |   22 |   19 |   16 |   15 |   15 |   12 |   11 |   10 |   10 |    9 | 9 9  |      |    9 | 8 8   | 7     |    2 | 1 1     |      |    0 |
-
-<div style=\"page-break-after: always\"></div>
+| Month   |   0 |   3 |   6 |   9 |   12 |   15 |   18 |   21 |   24 | 27    | 30 33   |   36 |   39 |   42 |       |   45 |   48 51 |   54 |   57 |    |   60 | 63   |   66 69 |   72 |
+|---------|-----|-----|-----|-----|------|------|------|------|------|-------|---------|------|------|------|-------|------|---------|------|------|----|------|------|---------|------|
+| IMFINZI | 212 | 175 | 142 | 127 |  107 |   95 |   82 |   70 |   67 | 63 57 | 55      |   50 |   47 |   45 | 42 39 |   38 |         |   34 |   31 | 22 |   15 | 8    |       4 |    0 |
+| Placebo |  91 |  59 |  38 |  34 |   26 |   22 |   19 |   16 |   15 | 15    | 12 11   |   10 |   10 |    9 | 9 9   |    9 |       8 |    8 |    7 |    |    2 | 1 1  |         |    0 |
 
 Figure 6. Forest plot of OS by PD-L1 expression
 
 <!-- image -->
+
+36
+
+33
+
+31
+
+31
+
+30
+
+29
+
+24
+
+14
+
+8
+
+| Events/N (%)    | Events/N (%)    |
+|-----------------|-----------------|
+| IMFINZI         | Placebo         |
+| 264/476 (55.5%) | 155/237 (65.4%) |
+| 103/212 (48.6%) | 56/91 (61.5%)   |
+| 51/115 (44.3%)  | 27/44 (61.4%)   |
+| 52/97 (53.6%)   | 29/47 (61.7%)   |
+| 59/90 (65.6%)   | 35/58 (60.3%)   |
+| 102/174 (58.6%) | 64/88 (72.7%)   |
+
+5
+
+2
+
+0
+
+<div style=\"page-break-after: always\"></div>
 
 Figure 7. Forest plot of PFS by PD-L1 expression
 
 <!-- image -->
 
 Overall the safety profile of durvalumab in PD-L1 TC ≥ 1% subgroup was consistent with the intent to treat population, as was the PD-L1 TC &lt; 1% subgroup.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Patient-reported outcomes (PRO)
 
@@ -1135,11 +1203,13 @@ At baseline, no differences in patient-reported symptoms, function and HRQoL wer
 
 POSEIDON was a study designed to evaluate the efficacy of IMFINZI with or without tremelimumab in combination with platinum-based chemotherapy. POSEIDON was a randomised, open-label, multi-centre study in 1013 metastatic NSCLC patients with no sensitising epidermal growth factor receptor (EGFR) mutation or anaplastic lymphoma kinase (ALK) genomic tumour aberrations. Patients with histologically or cytologically documented metastatic NSCLC were eligible for enrolment. Patients had no prior chemotherapy or any other systemic therapy for metastatic NSCLC. Prior to randomisation, patients had tumour PD-L1 status confirmed by using the Ventana PD-L1 (SP263) assay. Patients had a World Health Organization (WHO)/Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1 at enrolment.
 
+<div style=\"page-break-after: always\"></div>
+
 The study excluded patients with active or prior documented autoimmune disease; active and/or untreated brain metastases; a history of immunodeficiency; administration of systemic immunosuppression within 14 days before the start of IMFINZI or tremelimumab, except physiological dose of systemic corticosteroids; active tuberculosis or hepatitis B or C or HIV infection; or patients receiving live attenuated vaccine within 30 days before or after the start of IMFINZI and/or tremelimumab (see section 4.4).
 
 Randomisation was stratified by tumour cells (TC) PD-L1 expression (TC ≥ 50% vs. TC &lt; 50%), disease stage (Stage IVA vs. Stage IVB, per the 8th edition of American Joint Committee on Cancer), and histology (non-squamous vs. squamous).
 
-## Patients were randomised 1:1:1 to receive:
+Patients were randomised 1:1:1 to receive:
 
 - Arm 1: IMFINZI 1 500 mg with tremelimumab 75 mg and platinum-based chemotherapy every 3 weeks for 4 cycles followed by, IMFINZI 1 500 mg every 4 weeks as monotherapy. A fifth dose of tremelimumab 75 mg was given at Week 16 alongside IMFINZI dose 6.
 - Arm 2: IMFINZI 1 500 mg and platinum-based chemotherapy every 3 weeks for 4 cycles, followed by IMFINZI 1 500 mg every 4 weeks as monotherapy.
@@ -1151,9 +1221,6 @@ In the 3 treatment arms, patients received one of the following histology-based 
 - Pemetrexed 500 mg/m 2  with carboplatin AUC 5-6 or cisplatin 75 mg/m 2  every 3 weeks. Unless contraindicated by the investigator, pemetrexed maintenance could be given.
 - Squamous NSCLC
 - Gemcitabine 1 000 or 1 250 mg/m 2  on Days 1 and 8 with cisplatin 75 mg/m 2  or carboplatin AUC 5-6 on Day 1 every 3 weeks.
-
-<div style=\"page-break-after: always\"></div>
-
 - Non-squamous or squamous NSCLC
 - Nab-paclitaxel 100 mg/m 2  on Days 1, 8, and 15 with carboplatin AUC 5-6 on Day 1 every 3 weeks.
 
@@ -1164,6 +1231,8 @@ Tumour assessments were conducted at Week 6 and Week 12 from the date of randomi
 The dual primary endpoints of the study were PFS and OS for IMFINZI + platinum-based chemotherapy vs. platinum-based chemotherapy alone. The key secondary endpoints of the study were PFS and OS for IMFINZI + tremelimumab + platinum-based chemotherapy and platinum-based chemotherapy alone. The secondary endpoints included objective response rate (ORR) and Duration of Response (DoR). PFS, ORR, and DoR, were assessed using BICR according to RECIST v1.1.
 
 The demographics and baseline disease characteristics were well-balanced between study arms. Baseline demographics of the overall study population were as follows: male (76.0%), age ≥ 65 years (47.1%), age ≥ 75 years (11.3%) median age 64 years (range: 27 to 87 years), White (55.9%), Asian (34.6%), Black or African American (2.0%), Other (7.6%), non-Hispanic or Latino (84.2%), current smoker or past-smoker (78.0%), WHO/ECOG PS 0 (33.4%), WHO/ECOG PS 1 (66.5%). Disease characteristics were as follows: Stage IVA (50.0%), Stage IVB (49.6%), histological sub-groups of squamous (36.9%), non-squamous (62.9%), brain metastases (10.5%), PD-L1 expression TC ≥ 50% (28.8%), PD-L1 expression TC &lt; 50% (71.1%).
+
+<div style=\"page-break-after: always\"></div>
 
 The study showed a statistically significant improvement in OS with IMFINZI + tremelimumab + platinum-based chemotherapy vs. platinum-based chemotherapy. IMFINZI + tremelimumab + platinum-based chemotherapy showed a statistically significant improvement in PFS vs. platinum-based chemotherapy alone. The results are summarised below.
 
@@ -1186,41 +1255,23 @@ Table 7. Efficacy results for the POSEIDON study
 | Partial Response n (%)           | 128 (38.2)                                                         | 81 (24.4)                                    |
 | Median DoR (months) (95% CI) d,e | 9.5 (7.2, NR)                                                      | 5.1 (4.4, 6.0)                               |
 
-a Analysis of PFS at data cut off 24 July 2019 (median follow-up 10.15 months). Analysis of OS at data cut off 12 March 2021 (median follow-up 34.86 months). The boundaries for declaring efficacy (Arm 1 vs. Arm 3:
-
-<div style=\"page-break-after: always\"></div>
-
-PFS 0.00735, OS 0.00797; 2-sided) were determined by a Lan-DeMets alpha spending function that approximates an O'Brien Fleming approach. PFS was assessed by BICR according to RECIST v1.1.
-
-- b HR are derived using a Cox pH model stratified by PD-L1, histology and disease stage.
-- c 2-sided p-value based on a log-rank test stratified by PD-L1, histology and disease stage.
-
-d  Confirmed Objective Response.
-
-- e Post-hoc analysis.
-
-NR=Not Reached, CI=Confidence Interval
+NR=Not Reached, CI=Confidence Interval Number of patients at risk Time from randomisation (months)
 
 Figure 8. Kaplan-Meier curve of OS
 
 <!-- image -->
 
-Time from randomisation (months)
+<div style=\"page-break-after: always\"></div>
 
-| Number of patients at risk                           | Number of patients at risk                           | Number of patients at risk                           | Number of patients at risk                           | Number of patients at risk                           | Number of patients at risk                           | Number of patients at risk                           | Number of patients at risk                           | Number of patients at risk                           | Number of patients at risk                           | Number of patients at risk                           | Number of patients at risk                           | Number of patients at risk                           | Number of patients at risk                           | Number of patients at risk                           | Number of patients at risk                           |
-|------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|
-| Month                                                | Month                                                | Month                                                | Month                                                | Month                                                | Month                                                | Month                                                | Month                                                | Month                                                | Month                                                | Month                                                | Month                                                | Month                                                | Month                                                | Month                                                | Month                                                |
-|                                                      | 0                                                    | 3                                                    | 6                                                    | 9                                                    | 12                                                   | 15                                                   | 18                                                   | 21                                                   | 24                                                   | 27                                                   | 30                                                   | 33 36                                                | 39                                                   | 42                                                   | 45                                                   |
-| IMFINZI + tremelimumab + platinum-based chemotherapy | IMFINZI + tremelimumab + platinum-based chemotherapy | IMFINZI + tremelimumab + platinum-based chemotherapy | IMFINZI + tremelimumab + platinum-based chemotherapy | IMFINZI + tremelimumab + platinum-based chemotherapy | IMFINZI + tremelimumab + platinum-based chemotherapy | IMFINZI + tremelimumab + platinum-based chemotherapy | IMFINZI + tremelimumab + platinum-based chemotherapy | IMFINZI + tremelimumab + platinum-based chemotherapy | IMFINZI + tremelimumab + platinum-based chemotherapy | IMFINZI + tremelimumab + platinum-based chemotherapy | IMFINZI + tremelimumab + platinum-based chemotherapy | IMFINZI + tremelimumab + platinum-based chemotherapy | IMFINZI + tremelimumab + platinum-based chemotherapy | IMFINZI + tremelimumab + platinum-based chemotherapy | IMFINZI + tremelimumab + platinum-based chemotherapy |
-|                                                      | 338                                                  | 298                                                  | 256                                                  | 217                                                  | 183                                                  | 159                                                  | 137                                                  | 120                                                  | 109                                                  | 95                                                   | 88                                                   | 64 41                                                | 20                                                   | 9                                                    | 0                                                    |
-| Platinum-based chemotherapy                          | Platinum-based chemotherapy                          | Platinum-based chemotherapy                          | Platinum-based chemotherapy                          | Platinum-based chemotherapy                          | Platinum-based chemotherapy                          | Platinum-based chemotherapy                          | Platinum-based chemotherapy                          | Platinum-based chemotherapy                          | Platinum-based chemotherapy                          | Platinum-based chemotherapy                          | Platinum-based chemotherapy                          | Platinum-based chemotherapy                          | Platinum-based chemotherapy                          | Platinum-based chemotherapy                          | Platinum-based chemotherapy                          |
-|                                                      | 337                                                  | 284                                                  | 236                                                  | 204                                                  | 160                                                  | 132                                                  | 111                                                  | 91                                                   | 72                                                   | 62                                                   | 52                                                   | 38 21                                                | 13                                                   | 6                                                    | 0                                                    |
+| IMFINZI + tremelimumab + platinum-based chemotherapy   | IMFINZI + tremelimumab + platinum-based chemotherapy   | IMFINZI + tremelimumab + platinum-based chemotherapy   | IMFINZI + tremelimumab + platinum-based chemotherapy   | IMFINZI + tremelimumab + platinum-based chemotherapy   | IMFINZI + tremelimumab + platinum-based chemotherapy   | IMFINZI + tremelimumab + platinum-based chemotherapy   | IMFINZI + tremelimumab + platinum-based chemotherapy   | IMFINZI + tremelimumab + platinum-based chemotherapy   | IMFINZI + tremelimumab + platinum-based chemotherapy   | IMFINZI + tremelimumab + platinum-based chemotherapy   | IMFINZI + tremelimumab + platinum-based chemotherapy   | IMFINZI + tremelimumab + platinum-based chemotherapy   | IMFINZI + tremelimumab + platinum-based chemotherapy   | IMFINZI + tremelimumab + platinum-based chemotherapy   |
+|--------------------------------------------------------|--------------------------------------------------------|--------------------------------------------------------|--------------------------------------------------------|--------------------------------------------------------|--------------------------------------------------------|--------------------------------------------------------|--------------------------------------------------------|--------------------------------------------------------|--------------------------------------------------------|--------------------------------------------------------|--------------------------------------------------------|--------------------------------------------------------|--------------------------------------------------------|--------------------------------------------------------|
+| 338                                                    | 298                                                    | 256                                                    | 217                                                    | 183                                                    | 159                                                    | 137                                                    | 120                                                    | 109                                                    | 95                                                     | 88                                                     | 64                                                     | 41                                                     | 20                                                     | 9 0                                                    |
+| Platinum-based chemotherapy                            | Platinum-based chemotherapy                            | Platinum-based chemotherapy                            | Platinum-based chemotherapy                            | Platinum-based chemotherapy                            | Platinum-based chemotherapy                            | Platinum-based chemotherapy                            | Platinum-based chemotherapy                            | Platinum-based chemotherapy                            | Platinum-based chemotherapy                            | Platinum-based chemotherapy                            | Platinum-based chemotherapy                            | Platinum-based chemotherapy                            | Platinum-based chemotherapy                            | Platinum-based chemotherapy                            |
+| 337                                                    | 284                                                    | 236                                                    | 204                                                    | 160                                                    | 132                                                    | 111                                                    | 91                                                     | 72                                                     | 62                                                     | 52                                                     | 38                                                     | 21                                                     | 13                                                     | 6 0                                                    |
 
 Figure 9. Kaplan-Meier curve of PFS
 
 <!-- image -->
-
-Time from randomisation (months)
 
 | Month                                                  | 3                                                      | 6                                                      | 9                                                      | 12                                                     | 15                                                     | 18                                                     | 21                                                     | 24                                                     |
 |--------------------------------------------------------|--------------------------------------------------------|--------------------------------------------------------|--------------------------------------------------------|--------------------------------------------------------|--------------------------------------------------------|--------------------------------------------------------|--------------------------------------------------------|--------------------------------------------------------|
@@ -1229,11 +1280,7 @@ Time from randomisation (months)
 | Platinum-based chemotherapy                            | Platinum-based chemotherapy                            | Platinum-based chemotherapy                            | Platinum-based chemotherapy                            | Platinum-based chemotherapy                            | Platinum-based chemotherapy                            | Platinum-based chemotherapy                            | Platinum-based chemotherapy                            | Platinum-based chemotherapy                            |
 | 337                                                    | 219                                                    | 121                                                    | 43                                                     | 23                                                     | 12                                                     | 3                                                      | 2                                                      | 0                                                      |
 
-Number of patients at risk
-
 Figure 10 summarises efficacy results of OS by tumour PD-L1 expression in prespecified subgroup analyses.
-
-<div style=\"page-break-after: always\"></div>
 
 Figure 10. Forest plot of OS by PD-L1 expression for IMFINZI+tremelimumab+platinum-based chemotherapy vs. platinum-based chemotherapy
 
@@ -1241,16 +1288,24 @@ Figure 10. Forest plot of OS by PD-L1 expression for IMFINZI+tremelimumab+platin
 
 |              | No of events/patients (%)                         | No of events/patients (%)   |                   |
 |--------------|---------------------------------------------------|-----------------------------|-------------------|
-|              | IMFINZI+tremelimum ab+platinum-based chemotherapy | Platinum-based chemotherapy | HR (95% CI)       |
+|              | IMFINZI+tremelimumab +platinum-based chemotherapy | Platinum-based chemotherapy | HR (95% CI)       |
 | All Patients | 251 /338 (74.3%)                                  | 285 /337 (84.6%)            | 0.77 (0.65, 0.92) |
 | PD-L1 ≥ 50%  | 69 /101 (68.3%)                                   | 80 / 97 (82.5%)             | 0.65 (0.47, 0.89) |
 | PD-L1 < 50%  | 182 /237 (76.8%)                                  | 205 /240 (85.4%)            | 0.82 (0.67, 1.00) |
 | PD-L1 ≥ 1%   | 151 /213 (70.9%)                                  | 170 /207 (82.1%)            | 0.76 (0.61, 0.95) |
 | PD-L1 < 1%   | 100 /125 (80.0%)                                  | 115 /130 (88.5%)            | 0.77 (0.58, 1.00) |
 
+Hazard Ratio (95% CI)
+
+0
+
+0
+
 ## Elderly population
 
 A total of 75 patients aged ≥ 75 years were enrolled in the IMFINZI in combination with tremelimumab and chemotherapy (n=35) and platinum-based chemotherapy only (n=40) arms of the POSEIDON study. An exploratory HR of 1.05 (95% CI: 0.64, 1.71) for OS was observed for the IMFINZI in combination with tremelimumab and platinum-based chemotherapy vs. platinum-based chemotherapy within this study subgroup. Due to the exploratory nature of this subgroup analysis no definitive conclusions can be drawn, but caution is suggested when considering this regimen for elderly patients.
+
+<div style=\"page-break-after: always\"></div>
 
 ## SCLC - ADRIATIC Study
 
@@ -1262,9 +1317,6 @@ Randomisation was stratified by stage (I/II vs. III) and receipt of PCI (yes vs.
 
 - Arm 1: IMFINZI 1 500 mg + placebo every 4 weeks for 4 cycles, followed by IMFINZI 1 500 mg every 4 weeks.
 - Arm 2: Placebo + a second placebo every 4 weeks for 4 cycles, followed by a single placebo every 4 weeks.
-
-<div style=\"page-break-after: always\"></div>
-
 - Arm 3: IMFINZI 1 500 mg + tremelimumab 75 mg every 4 weeks for 4 cycles, followed by IMFINZI 1 500 mg every 4 weeks.
 
 Once 600 patients had been randomised across all three arms, randomisation to arm 3 was complete and the subsequent 130 patients were randomised 1:1 to either arm 1 or 2, and received either IMFINZI 1 500 mg every 4 weeks or placebo every 4 weeks.
@@ -1276,6 +1328,8 @@ The demographics and baseline disease characteristics were well balanced between
 Prior to randomisation, all patients received platinum-based chemotherapy (66.2% cisplatin-etoposide, 33.8% carboplatin-etoposide); 72.1% of patients received RT QD (of which 92.4% received ≥ 60-≤ 66 Gy QD); 27.9% received RT BID (of which 96.6% received 45 Gy BID) and 53.8% of patients received PCI. Response to CRT was as follows: complete response (12.3%), partial response (73.8%), stable disease (14.0%).
 
 The dual primary endpoints of the study were OS and PFS of IMFINZI vs. placebo. Secondary efficacy endpoints included ORR of IMFINZI vs. placebo. PFS and ORR were assessed by BICR according to RECIST v1.1.
+
+<div style=\"page-break-after: always\"></div>
 
 At a planned interim analysis, the study demonstrated a statistically significant improvement in OS and PFS for IMFINZI compared with placebo. See Table 8 and Figures 11 and 12.
 
@@ -1294,27 +1348,19 @@ Table 8. Efficacy results for the ADRIATIC study
 | HR (95% CI) f                  | 0.76 (0.606, 0.950)      | 0.76 (0.606, 0.950)      |
 | p-value d                      | 0.01608                  | 0.01608                  |
 
-<div style=\"page-break-after: always\"></div>
-
-statistical significance for OS was 0.01679 for a 4.5% overall alpha and for PFS was 0.02805 for a 5% overall alpha (Lan◦and◦DeMets 1983).
-
-- e  Assessed by BICR according to RECIST v1.1.
-
-f The analysis for HR was performed using a stratified Cox proportional hazards model and the 2-sided p-value is based on a stratified log-rank test, both are adjusted for TNM stage and receipt of PCI.
-
 Figure 11: Kaplan-Meier Curve of OS
 
 <!-- image -->
 
 Time from randomisation (months)
 
-| Number of patients at risk   |     |     |     |     |     |     |     |     |     |     |     |     |    |    |    |    |    |    |    |    |    |    |
-|------------------------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|----|----|----|----|----|----|----|----|----|----|
-|                              |   0 |   3 |   6 |   9 |  12 |  15 |  18 |  21 |  24 |  27 |  30 |  33 | 36 | 39 | 42 | 45 | 48 | 51 | 54 | 57 | 60 | 63 |
-| IMFINZI                      | 264 | 261 | 248 | 236 | 223 | 207 | 189 | 183 | 172 | 162 | 141 | 110 | 90 | 68 | 51 | 39 | 27 | 19 | 11 |  5 |  1 |  0 |
-| Placebo                      | 266 | 260 | 247 | 231 | 214 | 195 | 175 | 164 | 151 | 143 | 123 |  97 | 80 | 62 | 44 | 31 | 23 | 19 |  8 |  5 |  1 |  0 |
-
 <div style=\"page-break-after: always\"></div>
+
+| Number of patients at risk   |     |     |     |     |     |     |     |     |     |     |     |     |    |    |    |    |    |    |    |    |    |
+|------------------------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|----|----|----|----|----|----|----|----|----|
+|                              |   0 |   3 |   6 |   9 |  12 |  15 |  18 |  21 |  24 |  27 |  30 |  33 | 36 | 39 | 42 | 45 | 48 | 54 | 57 | 60 | 63 |
+| IMFINZI                      | 264 | 261 | 248 | 236 | 223 | 207 | 189 | 183 | 172 | 162 | 141 | 110 | 90 | 68 | 51 | 39 | 27 | 11 |  5 |  1 |  0 |
+| Placebo                      | 266 | 260 | 247 | 231 | 214 | 195 | 175 | 164 | 151 | 143 | 123 |  97 | 80 | 62 | 44 | 31 | 23 |  8 |  5 |  1 |  0 |
 
 Figure 12: Kaplan-Meier Curve of PFS
 
@@ -1338,13 +1384,12 @@ Patients were randomised 1:1:1 to receive:
 
 - Arm 1: IMFINZI 1 500 mg + tremelimumab 75 mg + etoposide and either carboplatin or cisplatin.
 - Arm 2: IMFINZI 1 500 mg + etoposide and either carboplatin or cisplatin.
-- Arm 3: Either carboplatin (AUC 5 or 6 mg/ml/min) or cisplatin (75-80 mg/m 2 ) on Day 1 and etoposide (80-100 mg/m 2 ) intravenously on Days 1, 2, and 3 of each 21-day cycle for between 4 - 6 cycles.
-
-For patients randomised to Arm 1 and 2, etoposide and either carboplatin or cisplatin was limited to 4 cycles on an every 3-week schedule subsequent to randomisation. IMFINZI monotherapy continued every 4 weeks until disease progression or unacceptable toxicity. Administration of IMFINZI
 
 <div style=\"page-break-after: always\"></div>
 
-monotherapy was permitted beyond disease progression if the patient was clinically stable and deriving clinical benefit as determined by the investigator.
+- Arm 3: Either carboplatin (AUC 5 or 6 mg/ml/min) or cisplatin (75-80 mg/m 2 ) on Day 1 and etoposide (80-100 mg/m 2 ) intravenously on Days 1, 2, and 3 of each 21-day cycle for between 4 - 6 cycles.
+
+For patients randomised to Arm 1 and 2, etoposide and either carboplatin or cisplatin was limited to 4 cycles on an every 3-week schedule subsequent to randomisation. IMFINZI monotherapy continued every 4 weeks until disease progression or unacceptable toxicity. Administration of IMFINZI monotherapy was permitted beyond disease progression if the patient was clinically stable and deriving clinical benefit as determined by the investigator.
 
 Patients randomised to Arm 3 were permitted to receive a total of up to 6 cycles of etoposide and either carboplatin or cisplatin. After completion of etoposide + platinum, PCI was permitted only in Arm 3 per investigator discretion.
 
@@ -1360,22 +1405,18 @@ The PFS, ORR and DoR results from the planned final analysis (DCO: 27 Jan 2020) 
 
 The OS results with the planned long-term OS follow-up analysis (DCO: 22 March 2021) (median follow-up: 39.3 months) are presented in Table 9. IMFINZI + etoposide + platinum (Arm 2) vs. etoposide + platinum (Arm 3) continued to demonstrate sustained improvement in OS. Kaplan-Meier curve for OS is presented in Figure 13.
 
-Table 9. Efficacy Results for the CASPIAN Study
-
-|                             | Final analysis a                                                       | Final analysis a                                               | Long-term follow-up analysis b                                         | Long-term follow-up analysis b                                 |
-|-----------------------------|------------------------------------------------------------------------|----------------------------------------------------------------|------------------------------------------------------------------------|----------------------------------------------------------------|
-|                             | Arm 2: IMFINZI + etoposide and either carboplatin or cisplatin (n=268) | Arm 3: etoposide + and either carboplatin or cisplatin (n=269) | Arm 2: IMFINZI + etoposide and either carboplatin or cisplatin (n=268) | Arm 3: etoposide + and either carboplatin or cisplatin (n=269) |
-| OS                          |                                                                        |                                                                |                                                                        |                                                                |
-| Number of deaths (%)        | 210 (78.4)                                                             | 231 (85.9)                                                     | 221 (82.5)                                                             | 248 (92.2)                                                     |
-| Median OS (months) (95% CI) | 12.9 (11.3, 14.7)                                                      | 10.5 (9.3, 11.2)                                               | 12.9 (11.3, 14.7)                                                      | 10.5 (9.3, 11.2)                                               |
-| HR (95% CI) b,c             | 0.75 (0.625, 0.910)                                                    | 0.75 (0.625, 0.910)                                            | 0.71 (0.595, 0.858)                                                    | 0.71 (0.595, 0.858)                                            |
-| p-value d                   | 0.0032                                                                 | 0.0032                                                         | 0.0003                                                                 | 0.0003                                                         |
-
 <div style=\"page-break-after: always\"></div>
+
+Table 9. Efficacy Results for the CASPIAN Study
 
 |                                  | Final analysis a                                                       | Final analysis a                                               | Long-term follow-up analysis b                                         | Long-term follow-up analysis b                                 |
 |----------------------------------|------------------------------------------------------------------------|----------------------------------------------------------------|------------------------------------------------------------------------|----------------------------------------------------------------|
 |                                  | Arm 2: IMFINZI + etoposide and either carboplatin or cisplatin (n=268) | Arm 3: etoposide + and either carboplatin or cisplatin (n=269) | Arm 2: IMFINZI + etoposide and either carboplatin or cisplatin (n=268) | Arm 3: etoposide + and either carboplatin or cisplatin (n=269) |
+| OS                               |                                                                        |                                                                |                                                                        |                                                                |
+| Number of deaths (%)             | 210 (78.4)                                                             | 231 (85.9)                                                     | 221 (82.5)                                                             | 248 (92.2)                                                     |
+| Median OS (months) (95% CI)      | 12.9 (11.3, 14.7)                                                      | 10.5 (9.3, 11.2)                                               | 12.9 (11.3, 14.7)                                                      | 10.5 (9.3, 11.2)                                               |
+| HR (95% CI) b,c                  | 0.75 (0.625, 0.910)                                                    | 0.75 (0.625, 0.910)                                            | 0.71 (0.595, 0.858)                                                    | 0.71 (0.595, 0.858)                                            |
+| p-value d                        | 0.0032                                                                 | 0.0032                                                         | 0.0003                                                                 | 0.0003                                                         |
 | OS at 18 months (%) (95% CI)     | 32.0 (26.5, 37.7)                                                      | 24.8 (19.7, 30.1)                                              | 32.0 (26.5, 37.7)                                                      | 24.8 (19.7, 30.1)                                              |
 | OS at 36 months (%) (95% CI)     |                                                                        |                                                                | 17.6 (13.3, 22.4)                                                      | 5.8 (3.4, 9.1)                                                 |
 | PFS                              |                                                                        |                                                                |                                                                        |                                                                |
@@ -1403,17 +1444,14 @@ f Post-hoc analysis.
 
 <div style=\"page-break-after: always\"></div>
 
+| Number of patients at risk     |   0 |   3 |   6 |   9 |   12 |   15 |   18 |   21 |   24 |   27 |   30 |   33 |   36 |   39 |   42 |   45 |   48 |   51 |
+|--------------------------------|-----|-----|-----|-----|------|------|------|------|------|------|------|------|------|------|------|------|------|------|
+| IMFINZI + etoposide + platinum | 268 | 244 | 214 | 177 |  140 |  109 |   85 |   70 |   60 |   54 |   50 |   46 |   39 |   25 |   13 |    3 |    0 |    0 |
+| etoposide + platinum           | 269 | 243 | 212 | 156 |  104 |   82 |   64 |   51 |   36 |   24 |   19 |   17 |   13 |   10 |    3 |    0 |    0 |    0 |
+
 Figure 13. Kaplan-Meier curve of OS
 
 <!-- image -->
-
-Time from randomisation (months)
-
-| Number of patients at risk   | 0   | 3   | 6   | 9   | 12   | 15   | 18   | 21   | 24   | 27   | 30   | 33   | 36   | 39   | 42   | 45   | 48   | 51   |
-|------------------------------|-----|-----|-----|-----|------|------|------|------|------|------|------|------|------|------|------|------|------|------|
-| IMFINZI + etoposide +        | 268 | 244 | 214 | 177 | 140  | 109  | 85   | 70   | 60   | 54   | 50   | 46   | 39   | 25   | 13   | 3    | 0    | 0    |
-| platinum                     |     |     |     |     |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
-| etoposide + platinum         | 269 | 243 | 212 | 156 | 104  | 82   | 64   | 51   | 36   | 24   | 19   | 17   | 13   | 10   | 3    | 0    | 0    | 0    |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1484,8 +1522,7 @@ Table 10. Efficacy Results for the TOPAZ-1 Study a
 - c  The analysis for HR was performed using a stratified Cox proportional hazards model and 2-sided p-value is based on a stratified log-rank test, both are adjusted for disease status and primary tumour location.
 - d  At the interim analysis (data cut-off 11 August 2021) the OS p-value was 0.021, which met the boundary for declaring statistical significance of 0.03 for a 4.9% overall 2-sided alpha, based on a Lan-DeMets alpha spending function with O'Brien Fleming type boundary with the actual number of events observed.
 - e  At the interim analysis (data cut-off 11 August 2021) the PFS p-value was 0.001, which met the boundary for declaring statistical significance of 0.0481 for a 4.9% overall 2-sided alpha, based on a Lan-DeMets alpha spending function with Pocock-type boundary with the actual number of events observed.
-
-f  Confirmed objective response.
+- f  Confirmed objective response.
 
 An additional planned follow-up analysis of OS (data cut-off 25 Feb 2022) was performed 6.5 months after the interim analysis with an OS maturity of 77%. IMFINZI + chemotherapy continued to demonstrate improved OS vs. chemotherapy alone [HR=0.76, (95% CI: 0.64, 0.91)] and the median follow-up increased to 12 months.
 
@@ -1499,6 +1536,10 @@ IMFINZI + Chemotherapy:
 
 Chemotherapy:
 
+36
+
+14
+
 Figure 16: Kaplan-Meier curve of PFS, inferential (primary) analysis at data cut-off 11 August 2021
 
 <!-- image -->
@@ -1506,8 +1547,6 @@ Figure 16: Kaplan-Meier curve of PFS, inferential (primary) analysis at data cut
 47
 
 44
-
-36
 
 33
 
@@ -1576,15 +1615,13 @@ e  Non-inferiority margin for HR (IMFINZI vs. Sorafenib) is 1.08 using a 95.67% 
 
 f  Confirmed complete response.
 
-CI=Confidence Interval
+CI=Confidence Interval Time from randomisation (months)
 
 <div style=\"page-break-after: always\"></div>
 
 Figure 17. Kaplan-Meier curve of OS of IMFINZI given in combination with a single dose of tremelimumab 300 mg
 
 <!-- image -->
-
-Time from randomisation (months)
 
 Figure 18. Kaplan-Meier curve of OS of IMFINZI given as monotherapy
 
@@ -1683,7 +1720,7 @@ c  Calculated using the Kaplan-Meier technique.
 
 d  Response: Best objective response as confirmed complete response or partial response. Based on number of patients in treatment group with measurable disease at baseline (N=147 in platinum-based chemotherapy + IMFINZI + olaparib arm, N=156 in platinum-based chemotherapy arm).
 
-CI=Confidence Interval, HR=Hazard Ratio, NR=Not Reached
+CI=Confidence Interval, HR=Hazard Ratio, NR=Not Reached Among patients with pMMR tumour status, the PFS HRs were 0.44 (95% CI: 0.31, 0.61) in patients with PD-L1 expression positive status (236/383; 62%) and 0.87 (95% CI: 0.59, 1.28) in patients with PD-L1 expression negative status (140/383; 37%), for the platinum-based chemotherapy + IMFINZI + olaparib arm compared to the platinum-based chemotherapy arm. PD-L1 expression positive was defined as tumour area positive (TAP) ≥ 1%.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1691,12 +1728,9 @@ Figure 20. Kaplan-Meier curve of PFS in DUO-E (Patients with pMMR tumour status)
 
 <!-- image -->
 
-| Number of patients at risk:                      | Number of patients at risk:                      | Number of patients at risk:                      | Number of patients at risk:                      | Number of patients at risk:                      | Number of patients at risk:                      | Number of patients at risk:                      | Number of patients at risk:                      | Number of patients at risk:                      | Number of patients at risk:                      | Number of patients at risk:                      | Number of patients at risk:                      |
-|--------------------------------------------------|--------------------------------------------------|--------------------------------------------------|--------------------------------------------------|--------------------------------------------------|--------------------------------------------------|--------------------------------------------------|--------------------------------------------------|--------------------------------------------------|--------------------------------------------------|--------------------------------------------------|--------------------------------------------------|
-| Platinum-based chemotherapy + IMFINZI + olaparib | Platinum-based chemotherapy + IMFINZI + olaparib | Platinum-based chemotherapy + IMFINZI + olaparib | Platinum-based chemotherapy + IMFINZI + olaparib | Platinum-based chemotherapy + IMFINZI + olaparib | Platinum-based chemotherapy + IMFINZI + olaparib | Platinum-based chemotherapy + IMFINZI + olaparib | Platinum-based chemotherapy + IMFINZI + olaparib | Platinum-based chemotherapy + IMFINZI + olaparib | Platinum-based chemotherapy + IMFINZI + olaparib | Platinum-based chemotherapy + IMFINZI + olaparib | Platinum-based chemotherapy + IMFINZI + olaparib |
-| Platinum-based chemotherapy                      | Platinum-based chemotherapy                      | Platinum-based chemotherapy                      | Platinum-based chemotherapy                      | Platinum-based chemotherapy                      | Platinum-based chemotherapy                      | Platinum-based chemotherapy                      | Platinum-based chemotherapy                      | Platinum-based chemotherapy                      | Platinum-based chemotherapy                      | Platinum-based chemotherapy                      | Platinum-based chemotherapy                      |
-
-Among patients with pMMR tumour status, the PFS HRs were 0.44 (95% CI: 0.31, 0.61) in patients with PD-L1 expression positive status (236/383; 62%) and 0.87 (95% CI: 0.59, 1.28) in patients with PD-L1 expression negative status (140/383; 37%), for the platinum-based chemotherapy + IMFINZI + olaparib arm compared to the platinum-based chemotherapy arm. PD-L1 expression positive was defined as tumour area positive (TAP) ≥ 1%.
+| Number of patients at risk:   | Number of patients at risk:   | Number of patients at risk:   | Number of patients at risk:   | Number of patients at risk:   | Number of patients at risk:   | Number of patients at risk:   | Number of patients at risk:   | Number of patients at risk:   | Number of patients at risk:   | Number of patients at risk:   | Number of patients at risk:   |
+|-------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|
+| Platinum-based chemotherapy   | Platinum-based chemotherapy   | Platinum-based chemotherapy   | Platinum-based chemotherapy   | Platinum-based chemotherapy   | Platinum-based chemotherapy   | Platinum-based chemotherapy   | Platinum-based chemotherapy   | Platinum-based chemotherapy   | Platinum-based chemotherapy   | Platinum-based chemotherapy   | Platinum-based chemotherapy   |
 
 ## Muscle invasive bladder cancer (MIBC) - NIAGARA Study
 
@@ -1753,7 +1787,7 @@ g  CI was calculated using the Clopper Pearson method.
 
 h Obtained using logistic regression adjusted for the stratification factors (renal function [adequate vs. borderline], tumour stage [T2N0 vs. &gt; T2N0] and PD-L1 status [high vs. low/negative] per IVRS).
 
-CI=Confidence Interval, HR=Hazard Ratio, NR=Not Reached
+CI=Confidence Interval, HR=Hazard Ratio, NR=Not Reached Time from randomisation (months)
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1761,9 +1795,7 @@ Figure 21. Kaplan-Meier Curve of EFS
 
 <!-- image -->
 
-Time from randomisation (months)
-
-159
+172
 
 ## Number of patients at risk:
 
@@ -1787,13 +1819,13 @@ In an exploratory analysis by tumour stage, the EFS HR was 0.61 (95% CI: 0.48, 0
 
 Time from randomisation (months)
 
-438425413402392383378373368363
-
 358334311
 
 259
 
 239215
+
+194
 
 132
 
@@ -1801,19 +1833,33 @@ Time from randomisation (months)
 
 129
 
+174
+
 115
+
+152
 
 86
 
+69
+
 125
 
+3
+
 81
+
+b2
 
 68
 
 32
 
 34
+
+38
+
+20
 
 21
 
@@ -1823,9 +1869,66 @@ Time from randomisation (months)
 
 of patients with clinical stage &gt; T2N0 and 0.89 (95% CI: 0.62, 1.29) in patients with clinical stage T2N0.
 
+## Resectable GC/GEJC - MATTERHORN Study
+
+MATTERHORN was a randomised, double-blind, placebo-controlled, multicentre, Phase III study to evaluate the efficacy of IMFINZI in combination with FLOT (5-FU, leucovorin, oxaliplatin, docetaxel) chemotherapy as neoadjuvant and adjuvant treatment, followed by adjuvant IMFINZI monotherapy, in patients with resectable gastric or gastro-oesophageal junction adenocarcinoma (Stage IIA to Stage IVA [AJCC, 8 th edition]). The study enrolled previously untreated patients with documented GC/GEJC, with no prior exposure to immune-mediated therapy, and WHO/ECOG performance status of 0 or 1. Patients were enrolled regardless of PD-L1 expression level. Prior to randomisation, patients had tumour PD-L1 expression level confirmed using the TAP scoring method, which is defined as the total percentage of the tumour area (tumour and any desmoplastic stroma) covered by tumour cells with PD-L1 membrane staining at any intensity and tumour-associated immune cells with PD-L1 staining at any intensity as visually estimated, by the Ventana PD-L1 (SP263) Assay. The study excluded patients with active or prior documented autoimmune or inflammatory disorders, or use of immunosuppressive medication within 14 days of the first dose of durvalumab.
+
+Randomisation was stratified by geographic region (Asia vs. non-Asia), clinical lymph node status (positive vs. negative), and PD-L1 expression level (TAP &lt; 1% vs. TAP ≥ 1%).
+
+Patients were randomised in a 1:1 ratio to one of the following treatment arms. Crossover between the study arms was not permitted.
+
+- Arm 1: IMFINZI 1 500 mg on Day 1 + FLOT (5-FU 2 600 mg/m2, Leucovorin 200 mg/m2, Oxaliplatin 85 mg/m2, Docetaxel 50 mg/m2) chemotherapy on Days 1 and 15 every 4 weeks for 4 cycles (1 dose of IMFINZI and 2 doses of FLOT per cycle; 2 cycles in the neoadjuvant phase + 2 cycles in the adjuvant phase) followed by IMFINZI 1 500 mg on Day 1 every 4 weeks for up to 10 additional cycles post-surgery for a total of 12 cycles (1 dose per cycle)
+- Arm 2: Placebo on Day 1 + FLOT (5-FU 2 600 mg/m2, Leucovorin 200 mg/m2, Oxaliplatin 85 mg/m2, Docetaxel 50 mg/m2) chemotherapy on Days 1 and 15 every 4 weeks for 4 cycles (1 dose of placebo and 2 doses of FLOT per cycle; 2 cycles in the neoadjuvant phase + 2 cycles in the adjuvant phase) followed by placebo on Day 1 every 4 weeks for up to 10 additional cycles post-surgery for a total of 12 cycles (1 dose per cycle)
+
+Patients in either the neoadjuvant or adjuvant phase who discontinued FLOT chemotherapy due to reasons other than disease progression or recurrence could, based on investigator discretion, continue treatment with IMFINZI monotherapy as described above.
+
+A baseline RECIST 1.1 tumour assessment was performed prior to the start of neoadjuvant therapy, with a follow-up scan prior to surgery within 4 weeks after the final chemotherapy dose. An adjuvant baseline scan was performed no sooner than 4 weeks after surgery and before starting the adjuvant treatment. Tumour assessments were conducted every 12 weeks (relative to the adjuvant baseline scan) for 2 years, then every 24 weeks until RECIST 1.1 defined radiological progression, consent withdrawal, or death.
+
+The primary endpoint of the study was EFS by BICR assessment, defined as the time from randomisation until the date of one of the following events (whichever occurred first): disease progression according to RECIST, version 1.1, as assessed by blinded independent central review (BICR), that precluded surgery or that required non-protocol therapy during the neoadjuvant treatment period; progression or recurrence according to RECIST, version 1.1, during the adjuvant treatment period; non-RECIST progression (according to investigator assessment or confirmed by biopsy) that precluded surgery or that required non-protocol therapy during the neoadjuvant treatment period or that was discovered during surgery; progression or recurrence confirmed by biopsy after surgery; or death from any cause. The key secondary endpoints were OS and pCR rate by blinded central pathology review.
+
+<div style=\"page-break-after: always\"></div>
+
+The demographics and baseline disease characteristics were generally well balanced between the two study arms (474 patients in Arm 1 and 474 patients in Arm 2). The baseline demographics of the population were as follows: male (71.9%), age ≥ 65 years (41.4%), median age 62 years (range: 26 to 84), White (67.8%), Asian (20.4%), Black or African American (1.1%), American Indian or Alaska Native (4.0%), Other Race (1.7%), Not Hispanic or Latino (80.0%), WHO/ECOG PS 0 (74.2%) versus PS 1 (25.8%). Disease characteristics were as follows: Stage II (29.4%), Stage III (61.7%), Stage IVA (8.8%), Gastric (67.5%), Gastro-oesophageal junction (32.5%), Siewert type 1 (10.4%), Siewert type 2 (14.8%), Siewert type 3 (7.3%), Intestinal type (50.9%), Diffuse type (26.3%), Indeterminate type (22.8%), Clinical lymph node status Positive (70.4%), Clinical lymph node status Negative (29.2%), PD-L1 expression status TAP ≥ 1% (90.0%), PD-L1 expression status TAP &lt; 1% (10.0%).
+
+There were 431 (90.9%) patients in Arm 1 who attempted curative intent surgery compared to 428 (90.3%) patients in Arm 2. There were 412 (86.9%) patients in Arm 1 who completed curative intent surgery compared to 400 (84.4%) patients in Arm 2.
+
+Table 15: Efficacy Results for the MATTERHORN Study
+
+|                                | IMFINZI + FLOT chemotherapy (N=474)   | Placebo + FLOT chemotherapy (N=474)   |
+|--------------------------------|---------------------------------------|---------------------------------------|
+| EFS a                          |                                       |                                       |
+| Number of events, n (%)        | 167 (35.2%)                           | 218 (46%)                             |
+| Median EFS (months) (95% CI) b | NR (40.7, NR)                         | 32.8 (27.9, NR)                       |
+| HR (95% CI) c                  | 0.71 (0.58, 0.86)                     | 0.71 (0.58, 0.86)                     |
+| 2-sided p-value d,e            | < 0.001                               | < 0.001                               |
+| EFS at 24 months, %(95% CI) b  | 67.4 (62.9, 71.6)                     | 58.5 (53.8, 63.0)                     |
+| OS f                           |                                       |                                       |
+| Number of deaths (%)           | 160 (33.8%)                           | 192 (40.5%)                           |
+| Median OS (95% CI) (months) b  | NR (NR, NR)                           | NR (NR, NR)                           |
+| HR (95% CI) c                  | 0.78 (0.63, 0.96)                     | 0.78 (0.63, 0.96)                     |
+| 2-sided p-value d,g            | 0.021                                 | 0.021                                 |
+| OS at 24 months, %(95% CI) b   | 75.5 (71.4, 79.1)                     | 70.4 (66.0, 74.3)                     |
+| OS at 36 months, %(95% CI) b   | 68.6 (64.2, 72.6)                     | 61.9 (57.3, 66.2)                     |
+
+<div style=\"page-break-after: always\"></div>
+
+Figure 23: Kaplan-Meier Curve of EFS
+
+<!-- image -->
+
+Figure 24: Kaplan-Meier Curve of OS
+
+<!-- image -->
+
+## Subgroup analysis
+
+In a predefined exploratory analysis by clinical lymph node status, the EFS HR was 0.67 (95% CI: 0.53, 0.84) in the clinical lymph node positive subgroup (N=667) and 0.85 (95% CI: 0.57, 1.27) in the clinical lymph node negative subgroup (N=277). The OS HR was 0.73 (95% CI: 0.57, 0.94) in the clinical lymph node positive subgroup and 1.01 (95% CI: 0.67, 1.51) in the clinical lymph node negative subgroup.
+
 ## Paediatric population
 
 The safety and efficacy of IMFINZI in combination with tremelimumab in children and adolescents aged less than 18 years has not been established. Study D419EC00001 was a multi-centre, open-label dose finding and dose expansion study to evaluate the safety, preliminary efficacy and pharmacokinetics of IMFINZI in combination with tremelimumab followed by IMFINZI monotherapy, in paediatric patients with advanced malignant solid tumours (except primary central nervous system tumours) who had disease progression and for whom no standard of care treatment exists. The study enrolled 50 paediatric patients with an age range from 1 to 17 years with primary tumour categories: neuroblastoma, solid tumour and sarcoma. Patients received either IMFINZI 20 mg/kg in combination with tremelimumab 1 mg/kg or IMFINZI 30 mg/kg in combination with tremelimumab 1 mg/kg intravenously every 4 weeks for 4 cycles, followed by IMFINZI as monotherapy every 4 weeks. In the dose finding phase, IMFINZI and tremelimumab combination therapy was preceded by a single cycle of IMFINZI monotherapy; 8 patients in this phase however discontinued treatment prior to receiving tremelimumab. Thus, of the 50 patients enrolled in the study, 42 received IMFINZI in combination with tremelimumab and 8 received IMFINZI only. In the dose-expansion phase, an ORR of 5.0% (1/20 patients) was reported in the evaluable for response analysis set. No new safety signals were observed relative to the known safety profiles of IMFINZI and tremelimumab in adults. See section 4.2 for information on paediatric use.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 5.2 Pharmacokinetic properties
 
@@ -1841,19 +1944,21 @@ Age (19-96 years), body weight (31-149 kg), gender, positive anti-drug antibody 
 
 Mild (creatinine clearance (CrCL) 60 to 89 ml/min) and moderate renal impairment (creatinine clearance (CrCL) 30 to 59 ml/min) had no clinically significant effect on the PK of durvalumab. The effect of severe renal impairment (CrCL 15 to 29 ml/min) on the PK of durvalumab is unknown; however, as IgG monoclonal antibodies are not primarily cleared via renal pathways, a change in renal function is not expected to influence durvalumab exposure.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Hepatic impairment
 
 Mild hepatic impairment (bilirubin ≤ ULN and AST &gt; ULN or bilirubin &gt; 1.0 to 1.5 x ULN and any AST) or moderate hepatic impairment (bilirubin &gt; 1.5 to 3 x ULN and any AST) had no clinically significant effect on the PK of durvalumab. The effect of severe hepatic impairment (bilirubin &gt; 3.0 x ULN and any AST) on the pharmacokinetics of durvalumab is unknown; however, as IgG monoclonal antibodies are not primarily cleared via hepatic pathways, a change in hepatic function is not expected to influence durvalumab exposure.
 
 ## Paediatric population
 
+<div style=\"page-break-after: always\"></div>
+
 The PK of durvalumab in combination with tremelimumab was evaluated in a study of 50 paediatric patients with an age range from 1 to 17 years in study D419EC00001. Patients received either durvalumab 20 mg/kg in combination with tremelimumab 1 mg/kg or durvalumab 30 mg/kg in combination with tremelimumab 1 mg/kg intravenously every 4 weeks for 4 cycles, followed by durvalumab as monotherapy every 4 weeks. Based on population PK analysis, durvalumab systemic exposure in paediatric patients ≥ 35kg receiving durvalumab 20 mg/kg every 4 weeks was similar to exposure in adults receiving durvalumab 20 mg/kg every 4 weeks, whereas in paediatric patients (≥ 35kg) receiving durvalumab 30mg/kg every 4 weeks, exposure was approximately 1.5-fold higher compared to exposure in adults receiving durvalumab 20 mg/kg every 4 weeks. In paediatric patients &lt; 35kg receiving durvalumab 30 mg/kg every 4 weeks, the systemic exposure was similar to exposure in adults receiving durvalumab 20 mg/kg every 4 weeks.
 
 ## 5.3 Preclinical safety data
 
-Carcinogenicity and mutagenicity The carcinogenic and genotoxic potential of durvalumab has not been evaluated.
+Carcinogenicity and mutagenicity
+
+The carcinogenic and genotoxic potential of durvalumab has not been evaluated.
 
 ## Reproductive toxicology
 
@@ -1871,17 +1976,15 @@ In the absence of compatibility studies, this medicinal product must not be mixe
 
 ## 6.3 Shelf life
 
-## Unopened vial
-
-<div style=\"page-break-after: always\"></div>
-
-3 years.
+Unopened vial 3 years.
 
 ## Diluted solution
 
 Chemical and physical in-use stability has been demonstrated for up to 30 days at 2 °C to 8 °C and for up to 24 hours at room temperature (up to 25 °C) from the time of preparation.
 
 From a microbiological point of view, the prepared solution for infusion should be used immediately. If not used immediately, in-use storage times and conditions prior to use are the responsibility of the user and would normally not be longer than 24 hours at 2 °C to 8 °C or 12 hours at room temperature (up to 25 °C), unless dilution has taken place in controlled and validated aseptic conditions.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 6.4 Special precautions for storage
 
@@ -1916,50 +2019,31 @@ IMFINZI is supplied as a single-dose vial and does not contain any preservatives
 ## Administration
 
 - Administer the infusion solution intravenously over 1 hour through an intravenous line containing a sterile, low-protein binding 0.2 or 0.22 micron in-line filter.
-
-<div style=\"page-break-after: always\"></div>
-
-•
-
-Do not co-administer other medicinal products through the same infusion line.
+- Do not co-administer other medicinal products through the same infusion line.
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
-7.
+<div style=\"page-break-after: always\"></div>
 
-MARKETING AUTHORISATION HOLDER
-
-AstraZeneca AB
+## 7. MARKETING AUTHORISATION HOLDER
 
 SE-151 85 Södertälje
 
-Sweden
+AstraZeneca AB Sweden
 
-8.
+## 8. MARKETING AUTHORISATION NUMBER(S)
 
-MARKETING AUTHORISATION NUMBER(S)
+EU/1/18/1322/002 120 mg vial EU/1/18/1322/001 500 mg vial
 
-EU/1/18/1322/002 120 mg vial
-
-EU/1/18/1322/001 500 mg vial
-
-9.
-
-DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
+## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
 Date of first authorisation: 21 September 2018
 
 Date of latest renewal: 24 April 2023
 
-10.
+## 10. DATE OF REVISION OF THE TEXT
 
-DATE OF REVISION OF THE TEXT
-
-Detailed information on this medicinal product is available on the website of the European Medicines
-
-Agency https://www.ema.europa.eu.
-
-65
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2227,6 +2311,8 @@ A test is used to find out the MMR status of your endometrial cancer.
 
 IMFINZI is used to treat a type of bladder cancer called muscle invasive bladder cancer (MIBC) which is when your bladder cancer has spread into the muscle layer of the bladder but not to other parts of the body. It is used in combination with chemotherapy (neoadjuvant treatment) prior to the surgical removal of your bladder followed by IMFINZI alone after surgery (adjuvant treatment).
 
+IMFINZI is used to treat a type of stomach cancer called gastric cancer (GC) or gastro-oesophageal junction adenocarcinoma (GEJC) that can be removed by surgery. It is used in combination with chemotherapy prior to and after surgery, followed by IMFINZI alone.
+
 If you have any questions about how IMFINZI works or why this medicine has been prescribed for you, ask your doctor or pharmacist.
 
 When IMFINZI is given in combination with other anti-cancer medicines, it is important that you also read the package leaflet for these other medicines. If you have any questions about these medicines, ask your doctor.
@@ -2253,10 +2339,10 @@ When you are given IMFINZI, you can have some serious side effects.
 If you have any of the following, call or see your doctor straight away. Your doctor may give you other medicines that prevent more severe complications and to help reduce your symptoms. Your doctor may delay the next dose of IMFINZI or stop your treatment with IMFINZI, if you have:
 
 - inflammation of the lungs : symptoms may include new or worsening cough, shortness of breath or chest pain;
-- inflammation of the liver : symptoms may include nausea or vomiting, feeling less hungry, pain on the right side of your stomach, yellowing of skin or whites of eyes, drowsiness, dark urine or bleeding or bruising more easily than normal;
 
 <div style=\"page-break-after: always\"></div>
 
+- inflammation of the liver : symptoms may include nausea or vomiting, feeling less hungry, pain on the right side of your stomach, yellowing of skin or whites of eyes, drowsiness, dark urine or bleeding or bruising more easily than normal;
 - inflammation of the intestines : symptoms may include diarrhoea or more bowel movements than usual, or stools that are black, tarry or sticky with blood or mucus, severe stomach pain or tenderness, hole in the bowel;
 - inflammation of glands (especially the thyroid, adrenal, pituitary and pancreas): symptoms may include fast heart rate, extreme tiredness, weight gain or weight loss, dizziness or fainting, hair loss, feeling cold, constipation, headaches that will not go away or unusual headaches, abdominal pain, nausea and vomiting;
 - type 1 diabetes : symptoms may include high blood sugar, feeling more hungry or thirsty than usual, passing urine more often than usual, fast and deep breathing, confusion, or a sweet smell to your breath, a sweet or metallic taste in your mouth or a different odour to your urine or sweat;
@@ -2283,11 +2369,11 @@ IMFINZI should not be used in children and adolescents below 18 years of age as 
 
 ## Other medicines and IMFINZI
 
+<div style=\"page-break-after: always\"></div>
+
 Tell your doctor if you are taking, have recently taken or might take any other medicines. This includes herbal medicines and medicines obtained without a prescription.
 
 ## Pregnancy
-
-<div style=\"page-break-after: always\"></div>
 
 - This medicine is not recommended during pregnancy.
 - Tell your doctor if you are pregnant, think you may be pregnant or are planning to have a baby.
@@ -2318,13 +2404,14 @@ IMFINZI will be given to you in a hospital or clinic under the supervision of an
 - Your doctor will decide how many treatments you need.
 - Depending on your type of cancer, IMFINZI may be given in combination with other anti-cancer medicines.
 - When IMFINZI is given in combination with tremelimumab and chemotherapy for your lung cancer, you will first be given tremelimumab followed by IMFINZI and then chemotherapy.
-- When IMFINZI is given in combination with chemotherapy for your lung cancer or endometrial cancer, you will first be given IMFINZI followed by chemotherapy.
+- When IMFINZI is given in combination with chemotherapy for your lung cancer, endometrial cancer, or stomach cancer (GC/GEJC), you will first be given IMFINZI followed by chemotherapy.
 - When IMFINZI is given in combination with tremelimumab for your liver cancer, you will first be given tremelimumab followed by IMFINZI.
 - Please refer to the package leaflet of the other anti-cancer medicines in order to understand the use of these other medicines. If you have questions about these medicines, ask your doctor.
 
 ## If you miss an appointment to get IMFINZI
 
 - Call your doctor straight away to reschedule your appointment.
+- ·
 - It is very important that you do not miss a dose of this medicine.
 
 If you have any further questions about your treatment, ask your doctor.
@@ -2335,14 +2422,13 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 When you get IMFINZI, you can have some serious side effects (see section 2).
 
+<div style=\"page-break-after: always\"></div>
+
 Talk to your doctor straight away if you get any of the following side effects, that have been reported in clinical studies with patients receiving IMFINZI alone:
 
 ## Very common (may affect more than 1 in 10 people)
 
 - infections of the upper respiratory tract
-
-<div style=\"page-break-after: always\"></div>
-
 - underactive thyroid gland that can cause tiredness or weight gain
 - cough
 - diarrhoea
@@ -2393,13 +2479,13 @@ Talk to your doctor straight away if you get any of the following side effects, 
 ## Rare (may affect up to 1 in 1 000 people)
 
 - diabetes insipidus
+
+<div style=\"page-break-after: always\"></div>
+
 - inflammation of the eye (uveitis)
 - inflammation of the membrane around the spinal cord and brain (meningitis)
 - coeliac disease (characterized by symptoms such as stomach pain, diarrhoea, and bloating after consuming gluten-containing foods)
 - Inflammation of the muscles causing pain or stiffness (polymyalgia rheumatica)
-
-<div style=\"page-break-after: always\"></div>
-
 - inflammation of the muscles and vessels (polymyositis)
 - lack or reduction of digestive enzymes made by the pancreas (pancreatic exocrine insufficiency)
 
@@ -2429,6 +2515,12 @@ The following additional side effects to receiving IMFINZI alone have been repor
 ## Uncommon (may affect up to 1 in 100 people)
 
 - low number of red blood cells, white blood cells, and platelets (pancytopenia)
+- heart attack (acute myocardial infarction) that can cause chest pain or discomfort (that may spread to arms, jaw, neck, back), shortness of breath, cold sweat, nausea/vomiting, feeling light-headed or faint
+- clot in the lungs (pulmonary embolism) that may cause symptoms such as shortness of breath, chest pain, breathing that is more rapid than normal, or heart beats faster than normal (when used in combination with chemotherapy in patients with Gastric Cancer/Gastroesophageal Junction Cancer)
+
+## Rare (may affect up to 1 in 1 000 people)
+
+- blood clot in a deep vein (deep vein thrombosis), usually in the leg that may cause symptoms such as redness/warmth, pain or swelling of the legs
 
 The following additional side effects to receiving IMFINZI alone have been reported in clinical studies in patients taking IMFINZI in combination with tremelimumab and platinum-based chemotherapy (the frequency and severity of side effects may vary depending on chemotherapeutic agents received):
 
@@ -2438,6 +2530,9 @@ The following additional side effects to receiving IMFINZI alone have been repor
 - low number of white blood cells
 - low number of blood platelets
 - feeling less hungry
+
+<div style=\"page-break-after: always\"></div>
+
 - nausea; vomiting; constipation
 - hair loss
 - feeling tired or weak
@@ -2453,8 +2548,6 @@ The following additional side effects to receiving IMFINZI alone have been repor
 ## Other side effects that have been reported with frequency not known (cannot be estimated from the available data)
 
 - hole in the bowel (intestinal perforation)
-
-<div style=\"page-break-after: always\"></div>
 
 The following additional side effects to receiving IMFINZI alone have been reported in clinical studies in patients taking IMFINZI in combination with tremelimumab:
 
@@ -2493,6 +2586,8 @@ The following additional side effects to receiving IMFINZI alone have been repor
 - blood clot in a deep vein, usually in the leg (venous thrombosis) that may cause symptoms such as pain or swelling of the legs
 - failure to produce red blood cells (pure red cell aplasia) that may cause symptoms such as shortness of breath, fatigue, pale skin or fast heart beat
 
+<div style=\"page-break-after: always\"></div>
+
 ## Uncommon (may affect up to 1 in 100 people)
 
 - low number of red blood cells, white blood cells, and platelets (pancytopenia)
@@ -2506,8 +2601,6 @@ If you get any side effects, talk to your doctor. This includes any possible sid
 ## 5. How to store IMFINZI
 
 IMFINZI will be given to you in a hospital or clinic and the healthcare professional will be responsible for its storage. The storage details are as follows:
-
-<div style=\"page-break-after: always\"></div>
 
 Keep this medicine out of the sight and reach of children.
 
@@ -2547,19 +2640,19 @@ AstraZeneca AB SE-151 85 Södertälje Sweden
 
 ## Manufacturer
 
-AstraZeneca AB Gärtunavägen SE-152 57 Södertälje Sweden
+AstraZeneca AB
+
+<div style=\"page-break-after: always\"></div>
+
+SE-152 57 Södertälje
+
+Gärtunavägen Sweden
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 ## België/Belgique/Belgien
 
-AstraZeneca S.A./N.V.
-
-Tel: +32 2 370 48 11
-
-Lietuva UAB AstraZeneca Lietuva Tel: +370 5 2660550
-
-<div style=\"page-break-after: always\"></div>
+AstraZeneca S.A./N.V. Tel: +32 2 370 48 11
 
 ## България
 
@@ -2583,7 +2676,9 @@ AstraZeneca Tel: +372 6549 600
 
 ## Ελλάδα
 
-AstraZeneca A.E. Τηλ: +30 210 6871500
+AstraZeneca A.E.
+
+Τηλ: +30 210 6871500
 
 ## España
 
@@ -2603,19 +2698,19 @@ AstraZeneca Pharmaceuticals (Ireland) DAC Tel: +353 1609 7100
 
 ## Ísland
 
-Vistor Sími: +354 535 7000
+Vistor
+
+Sími: +354 535 7000
 
 ## Italia
 
-AstraZeneca S.p.A. Tel: +39 02 00704500
+AstraZeneca S.p.A.
 
-## Κύπρος
+## Lietuva
 
-Αλέκτωρ Φαρµακευτική Λτδ Τηλ: +357 22490305
+Lietuva
 
-## Latvija
-
-SIA AstraZeneca Latvija Tel: +371 67377100
+UAB AstraZeneca Tel: +370 5 2660550
 
 ## Luxembourg/Luxemburg
 
@@ -2663,15 +2758,25 @@ AstraZeneca AB, o.z. Tel: +421 2 5737 7777
 
 ## Suomi/Finland
 
-AstraZeneca Oy Puh/Tel: +358 10 23 010
+AstraZeneca Oy
 
-## Sverige
+Tel: +39 02 00704500
 
-AstraZeneca AB Tel: +46 8 553 26 000
+## Κύπρος
+
+Αλέκτωρ Φαρµακευτική Λτδ Τηλ: +357 22490305
+
+## Latvija
+
+SIA AstraZeneca Latvija
+
+Tel: +371 67377100
 
 <div style=\"page-break-after: always\"></div>
 
-## This leaflet was last revised in Other sources of information
+## This leaflet was last revised in
+
+## Other sources of information
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu
 
@@ -2691,3 +2796,11 @@ The following information is intended for healthcare professionals only:
 - IMFINZI is single-dose. Discard any unused portion left in the vial.
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
+
+Puh/Tel: +358 10 23 010
+
+## Sverige
+
+AstraZeneca AB
+
+Tel: +46 8 553 26 000

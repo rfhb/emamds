@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-03-20 14:45:17
-document_pages: 113
+document_datetime: 2026-05-20 11:05:23
+document_pages: 112
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/xofluza-epar-product-information_en.pdf
 document_name: xofluza-epar-product-information_en.pdf
 version: success
-processing_time: 41.2980587
-conversion_datetime: 2026-03-21 11:46:05.526269
+processing_time: 54.9752052
+conversion_datetime: 2026-05-22 23:13:29.583078
 docling_version:
-  docling-serve: 1.14.3
-  docling-jobkit: 1.13.0
-  docling: 2.81.0
-  docling-core: 2.70.2
-  docling-ibm-models: 3.12.0
-  docling-parse: 5.6.0
+  docling-serve: 1.20.0
+  docling-jobkit: 1.20.0
+  docling: 2.95.0
+  docling-core: 2.77.0
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.11.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -24,7 +24,11 @@ docling_version:
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Xofluza 20 mg film-coated tablets Xofluza 40 mg film-coated tablets Xofluza 80 mg film-coated tablets
+Xofluza 20 mg film-coated tablets
+
+Xofluza 40 mg film-coated tablets
+
+Xofluza 80 mg film-coated tablets
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
@@ -74,11 +78,9 @@ White to light yellow, oblong shaped film-coated tablets approximately 11.1 mm i
 
 ## Xofluza 80 mg
 
-Tablet
+Tablet White to light yellow, oblong shaped film-coated tablets approximately 16.1 mm in length, debossed on one side with 'BXM80'.
 
 <div style=\"page-break-after: always\"></div>
-
-White to light yellow, oblong shaped film-coated tablets approximately 16.1 mm in length, debossed on one side with 'BXM80'.
 
 ## 4. CLINICAL PARTICULARS
 
@@ -106,13 +108,13 @@ A single dose of baloxavir marboxil should be taken as soon as possible within 4
 
 A single dose of baloxavir marboxil should be taken as soon as possible within 48 hours following close contact with an individual known or suspected to have influenza (see section 5.1).
 
-## Adults, adolescents, children and infants (≥ 3 weeks of age)
+## Adults, adolescents, children and infants ( ≥ 3 weeks of age)
 
 The recommended single oral dose of baloxavir marboxil is determined by body weight (see Table 1).
 
 Adults, adolescents and children who are unable to, or experience difficulty swallowing tablets, or those who require enteral administration may instead receive treatment with Xofluza granules for oral suspension. Refer to the Xofluza granules for oral suspension prescribing information.
 
-Table 1. Baloxavir marboxil dosing by patient body weight (≥ 3 weeks of age)
+Table 1. Baloxavir marboxil dosing by patient body weight ( ≥ 3 weeks of age)
 
 | Patient body weight   | Recommended oral dose                                                      |
 |-----------------------|----------------------------------------------------------------------------|
@@ -214,11 +216,9 @@ Hypersensitivity reactions have been observed in the post-marketing setting, whi
 
 ## Tabulated list of adverse reactions
 
-The following adverse drug reactions have been identified from post-marketing experience with baloxavir marboxil (Table 2) based on spontaneous case reports and cases from non-interventional study programmes. Adverse drug reactions are listed according to system organ classes in MedDRA and the corresponding frequency category estimation for each adverse drug reaction is based on the following convention: very common (≥ 1/10); co mmon (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1 000 to &lt; 1/100); rare (≥ 1/10 000 to &lt; 1/1 000); very rare (&lt; 1/10 000) and not known (cannot
+The following adverse drug reactions have been identified from post-marketing experience with baloxavir marboxil (Table 2) based on spontaneous case reports and cases from non-interventional study programmes. Adverse drug reactions are listed according to system organ classes in MedDRA and the corresponding frequency category estimation for each adverse drug reaction is based on the following convention: very common ( ≥ 1/10); common ( ≥ 1/100 to &lt; 1/10); uncommon ( ≥ 1/1 000 to &lt; 1/100); rare ( ≥ 1/10 000 to &lt; 1/1 000); very rare (&lt; 1/10 000) and not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in the order of decreasing seriousness.
 
 <div style=\"page-break-after: always\"></div>
-
-be estimated from the available data). Within each frequency grouping, adverse reactions are presented in the order of decreasing seriousness.
 
 Table 2. Adverse drug reactions from post-marketing experience in adults, adolescents and paediatric patients
 
@@ -229,8 +229,9 @@ Table 2. Adverse drug reactions from post-marketing experience in adults, adoles
 | Immune system disorders         | Hypersensitivity a                               | Not known   |
 | Gastrointestinal disorders      | Diarrhoea b                                      | Common      |
 | Gastrointestinal disorders      | Vomiting b                                       | Common      |
+| Gastrointestinal disorders      | Ischaemic colitis a                              | Not known   |
 | Skin and subcutaneous disorders | Urticaria b                                      | Uncommon    |
-|                                 | Angioedema a                                     | Not known   |
+| Skin and subcutaneous disorders | Angioedema a                                     | Not known   |
 
 ## Paediatric population
 
@@ -243,7 +244,7 @@ Table 3. Adverse drug reactions in children from clinical trial experience
 | System organ class (SOC)        | Adverse reaction (preferred term (PT), MedDRA)   | Frequency   |
 |---------------------------------|--------------------------------------------------|-------------|
 | Gastrointestinal disorders      | Diarrhoea                                        | Common      |
-| Gastrointestinal disorders      | Vomiting                                         | Common      |
+|                                 | Vomiting                                         | Common      |
 | Skin and subcutaneous disorders | Rash                                             | Common      |
 
 ## Reporting of suspected adverse reactions
@@ -254,11 +255,11 @@ Reporting suspected adverse reactions after authorisation of the medicinal produ
 
 Reports of overdoses with baloxavir marboxil have been received from clinical trials and during post-marketing experience. In the majority of cases reporting overdose, no adverse reactions were reported. Data are insufficient to determine what symptoms may be anticipated as a result of an overdose.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Management
 
 No known specific antidote exists for Xofluza. In the event of overdose, standard supportive medical care should be initiated based on the patient's signs and symptoms.
-
-<div style=\"page-break-after: always\"></div>
 
 Baloxavir is unlikely to be significantly removed by dialysis due to high serum protein binding.
 
@@ -290,9 +291,9 @@ In the phase 3 study in paediatric patients aged 1 to &lt; 12 years (Ministone-2
 
 In the phase 3 study in paediatric patients aged &lt; 1 year (Ministone-1 (CP40559)), PA/I38T and PA/T20K were detected in 2 of 13 (15.4 %) influenza-infected subjects treated with baloxavir marboxil.
 
-In the phase 3 study of post-exposure prophylaxis (Blockstone (1719T0834)), PA/I38T/M were found in 10 of 374 (2.7 %) baloxavir marboxil-treated subjects. PA/I38 substitutions were not detected in placebo-treated subjects, with the exception of 2 subjects who received baloxavir marboxil as rescue medication.
-
 <div style=\"page-break-after: always\"></div>
+
+In the phase 3 study of post-exposure prophylaxis (Blockstone (1719T0834)), PA/I38T/M were found in 10 of 374 (2.7 %) baloxavir marboxil-treated subjects. PA/I38 substitutions were not detected in placebo-treated subjects, with the exception of 2 subjects who received baloxavir marboxil as rescue medication.
 
 In a phase 3b study of household influenza transmission, treatment-emergent mutations, PA/I38M/N/T were detected in 15 of 208 influenza-infected index patients (7.2 %) in the baloxavir marboxil group.
 
@@ -314,7 +315,11 @@ Table 4. Capstone 1: Time to alleviation of symptoms (baloxavir marboxil vs plac
 |----------------------------------------------------|----------------------------------------------------|--------------------------------------------------------------------------|----------------------------------------------------|
 | Baloxavir marboxil 40/80 mg (95 %CI) N=455         | Placebo (95 %CI) N=230                             | Difference between Baloxavir marboxil and placebo (95 %CIfor difference) | P-value                                            |
 | 53.7                                               | 80.2                                               | -26.5                                                                    | < 0.0001                                           |
-| (49.5, 58.5)                                       | (72.6, 87.1)                                       | (-35.8, -17.8)                                                           |                                                    |
+| (49.5, 58.5)                                       | (72.6, 87.1)                                       | ( - 35.8, - 17.8)                                                        |                                                    |
+
+CI: Confidence interval
+
+* ITTI: The Intention-to-treat Infected population consisted of patients who received the study medicine with a confirmed diagnosis of influenza. Confirmation of influenza was based on the results of RT-PCR on Day 1.
 
 When the baloxavir marboxil group was compared to the oseltamivir group, there was no statistically significant difference in TTAS (53.5 h vs 53.8 h, respectively).
 
@@ -322,22 +327,18 @@ The median (95 % CI) TTAS was 49.3 (44.0, 53.1) and 82.1 (69.5, 92.9) hours for 
 
 The median time to resolution of fever in patients treated with baloxavir marboxil was 24.5 hours (95 % CI: 22.6, 26.6) compared with 42.0 hours (95 % CI: 37.4, 44.6) in those receiving placebo. No difference was noted in duration of fever in the baloxavir marboxil group compared with the oseltamivir group.
 
-Capstone 2 (1602T0832) was a phase 3 randomised, double-blind, multicentre study to evaluate the efficacy and safety of a single oral tablet dose of baloxavir marboxil compared with placebo and with
-
 <div style=\"page-break-after: always\"></div>
 
-oseltamivir in adult and adolescent patients (aged ≥ 12 years) with uncomplicated influenza who had at least one host factor predisposing to the development of complications. Patients were randomised to receive a single oral dose of baloxavir marboxil (according to weight as in Capstone 1), oseltamivir 75 mg twice daily for 5 days, or placebo. Dosing occurred within 48 hours of first onset of symptoms.
+Capstone 2 (1602T0832) was a phase 3 randomised, double-blind, multicentre study to evaluate the efficacy and safety of a single oral tablet dose of baloxavir marboxil compared with placebo and with oseltamivir in adult and adolescent patients (aged ≥ 12 years) with uncomplicated influenza who had at least one host factor predisposing to the development of complications. Patients were randomised to receive a single oral dose of baloxavir marboxil (according to weight as in Capstone 1), oseltamivir 75 mg twice daily for 5 days, or placebo. Dosing occurred within 48 hours of first onset of symptoms.
 
-Of the total 2184 patients 59 were aged ≥ 12 to ≤ 17 years, 446 were aged ≥ 65 to ≤ 74 years, 142 were aged ≥ 75 to ≤ 84 years and 14 were aged ≥ 85 years. The predominant influenza viruses in this study were the A/H3 subtype (46.9 % to 48.8 %) and influenza B (38.3 % to 43.5 %). The primary efficacy endpoint was time to improvement of influenza symptoms (cough, sore throat, headache, nasal congestion, feverishness or chills, muscle or joint pain, and fatigue) (TTIS).
-
-Baloxavir marboxil elicited a statistically significant reduction in TTIS when compared with placebo (Table 5).
+Of the total 2184 patients 59 were aged ≥ 12 to ≤ 17 years, 446 were aged ≥ 65 to ≤ 74 years, 142 were aged ≥ 75 to ≤ 84 years and 14 were aged ≥ 85 years. The predominant influenza viruses in this study were the A/H3 subtype (46.9 % to 48.8 %) and influenza B (38.3 % to 43.5 %). The primary efficacy endpoint was time to improvement of influenza symptoms (cough, sore throat, headache, nasal congestion, feverishness or chills, muscle or joint pain, and fatigue) (TTIS). Baloxavir marboxil elicited a statistically significant reduction in TTIS when compared with placebo (Table 5).
 
 Table 5.  Capstone  2:  Time  to  improvement  of  influenza  symptoms  (baloxavir  marboxil  vs placebo), ITTI population
 
 | Time to improvement of influenza symptoms (Median [hours])   | Time to improvement of influenza symptoms (Median [hours])   | Time to improvement of influenza symptoms (Median [hours])               | Time to improvement of influenza symptoms (Median [hours])   |
 |--------------------------------------------------------------|--------------------------------------------------------------|--------------------------------------------------------------------------|--------------------------------------------------------------|
 | Baloxavir marboxil 40/80 mg (95 %CI) N=385                   | Placebo (95 %CI) N=385                                       | Difference between Baloxavir marboxil and placebo (95 %CIfor difference) | P-value                                                      |
-| 73.2 (67.2, 85.1)                                            | 102.3 (92.7, 113.1)                                          | -29.1 (-42.8, -14.6)                                                     | < 0.0001                                                     |
+| 73.2 (67.2, 85.1)                                            | 102.3 (92.7, 113.1)                                          | -29.1 ( - 42.8, - 14.6)                                                  | < 0.0001                                                     |
 
 When the baloxavir marboxil group was compared to the oseltamivir group, there was no statistically significant difference in TTIS (73.2 h vs 81.0 h, respectively).
 
@@ -355,11 +356,9 @@ Table 6. Time to improvement of symptoms by influenza virus subtype, ITTI popula
 
 The median time to resolution of fever was 30.8 hours (95 % CI: 28.2, 35.4) in the baloxavir marboxil group compared with 50.7 hours (95 % CI: 44.6, 58.8) in the placebo group. No clear differences between the baloxavir marboxil group and the oseltamivir group were observed.
 
-The overall incidence of influenza-related complications (death, hospitalisation, sinusitis, otitis media, bronchitis, and/or pneumonia) was 2.8 % (11/388 patients) in the baloxavir marboxil group compared with 10.4 % (40/386 patients) in the placebo group. The lower overall incidence of influenza-related complications in the baloxavir marboxil group compared with the placebo group was mainly driven by
-
 <div style=\"page-break-after: always\"></div>
 
-lower incidences of bronchitis (1.8 % vs. 6.0 %, respectively) and sinusitis (0.3 % vs. 2.1 %, respectively).
+The overall incidence of influenza-related complications (death, hospitalisation, sinusitis, otitis media, bronchitis, and/or pneumonia) was 2.8 % (11/388 patients) in the baloxavir marboxil group compared with 10.4 % (40/386 patients) in the placebo group. The lower overall incidence of influenza-related complications in the baloxavir marboxil group compared with the placebo group was mainly driven by lower incidences of bronchitis (1.8 % vs. 6.0 %, respectively) and sinusitis (0.3 % vs. 2.1 %, respectively).
 
 ## Paediatric patients (aged 1 - &lt; 12 years )
 
@@ -375,7 +374,8 @@ Table 7. Time to alleviation of influenza signs and symptoms, ITTI population
 |----------------------------------------------------|----------------------------------------------------|
 | Baloxavir marboxil (95 %CI) N=80                   | Oseltamivir (95 %CI) N=43                          |
 | 138.1                                              | 150.0                                              |
-| (116.6, 163.2)                                     | (115.0, 165.7)                                     |
+|                                                    | (115.0,                                            |
+| (116.6, 163.2)                                     | 165.7)                                             |
 
 The median duration of fever was comparable between the baloxavir marboxil group (41.2 hours [95 % CI: 24.5, 45.7]) and the oseltamivir group (46.8 hours [95 % CI: 30.0, 53.5]).
 
@@ -385,11 +385,11 @@ The overall incidence of influenza-related complications (death, hospitalisation
 
 Ministone-1 (CP40559) was a multicenter, single-arm, open label study to evaluate the safety, pharmacokinetics and efficacy of a single oral dose of baloxavir marboxil in paediatric patients (aged &lt; 1 year) with influenza-like symptoms. The youngest patient recruited was 3 weeks of age. Extrapolation of efficacy to &lt; 1 year was based on exposure matching from adults and older children.
 
-A total of 48 patients received a single oral dose of baloxavir marboxil based on body weight and age (2 mg/kg for patients ≥ 3 months (N=39), 1 mg/kg for patients ≥ 4 weeks to &lt; 3 months (N=8) and 1 mg/kg for patients &lt;4 weeks (N=1)). The predominant influenza virus strain in this study was the A/H3 subtype. The primary objective was to evaluate the safety and PK of a single oral dose of baloxavir marboxil. A secondary objective was to evaluate the efficacy of baloxavir marboxil based on
+A total of 48 patients received a single oral dose of baloxavir marboxil based on body weight and age
 
 <div style=\"page-break-after: always\"></div>
 
-the efficacy endpoints including time to alleviation of influenza signs and symptoms (cough and nasal symptoms, time to return to normal health and activity and duration of fever). No new safety concerns were identified.
+(2 mg/kg for patients ≥ 3 months (N=39), 1 mg/kg for patients ≥ 4 weeks to &lt; 3 months (N=8) and 1 mg/kg for patients &lt;4 weeks (N=1)). The predominant influenza virus strain in this study was the A/H3 subtype. The primary objective was to evaluate the safety and PK of a single oral dose of baloxavir marboxil. A secondary objective was to evaluate the efficacy of baloxavir marboxil based on the efficacy endpoints including time to alleviation of influenza signs and symptoms (cough and nasal symptoms, time to return to normal health and activity and duration of fever). No new safety concerns were identified.
 
 ## Post-exposure prophylaxis of influenza
 
@@ -407,7 +407,7 @@ Table 8. Proportion of subjects with influenza virus, fever, and at least one re
 |------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|
 | Baloxavir marboxil (95 %CI)                                                                                      | Placebo (95 %CI)                                                                                                 | Adjusted risk ratio (95 %CI)                                                                                     | P-value                                                                                                          |
 | N=374 1.9 (0.8, 3.8)                                                                                             | N=375 13.6 (10.3, 17.5)                                                                                          | 0.14 (0.06, 0.30)                                                                                                | < 0.0001                                                                                                         |
-| Proportion of s ubjects ≥ 12 years with influenza virus, fever, and at least one respiratory symptom (%)         | Proportion of s ubjects ≥ 12 years with influenza virus, fever, and at least one respiratory symptom (%)         | Proportion of s ubjects ≥ 12 years with influenza virus, fever, and at least one respiratory symptom (%)         | Proportion of s ubjects ≥ 12 years with influenza virus, fever, and at least one respiratory symptom (%)         |
+| Proportion of subjects ≥ 12 years with influenza virus, fever, and at least one respiratory symptom (%)          | Proportion of subjects ≥ 12 years with influenza virus, fever, and at least one respiratory symptom (%)          | Proportion of subjects ≥ 12 years with influenza virus, fever, and at least one respiratory symptom (%)          | Proportion of subjects ≥ 12 years with influenza virus, fever, and at least one respiratory symptom (%)          |
 | N=303 1.3 (0.4, 3.3)                                                                                             | N=304 13.2 (9.6, 17.5)                                                                                           | 0.10 (0.04, 0.28)                                                                                                | < 0.0001                                                                                                         |
 | Proportion of subjects 1 to < 12 years with influenza virus, fever, and at least one respiratory symptom (%)     | Proportion of subjects 1 to < 12 years with influenza virus, fever, and at least one respiratory symptom (%)     | Proportion of subjects 1 to < 12 years with influenza virus, fever, and at least one respiratory symptom (%)     | Proportion of subjects 1 to < 12 years with influenza virus, fever, and at least one respiratory symptom (%)     |
 | N=71 4.2 (0.9, 11.9)                                                                                             | N=71 15.5 (8, 26)                                                                                                | 0.27 (0.08, 0.90)                                                                                                | 0.0339                                                                                                           |
@@ -460,7 +460,7 @@ The apparent terminal elimination half-life (t1/2,z) of baloxavir after a single
 
 Table 9. Baloxavir half-life per age and race
 
-|                      | < 12 years of age   | < 12 years of age   | ≥ 12 years of age   | ≥ 12 years of age   |
+|                      | < 12 years of age   | < 12 years of age   |  12 years of age   |  12 years of age   |
 |----------------------|---------------------|---------------------|---------------------|---------------------|
 |                      | Non-Asians          | Asians              | Non-Asians          | Asians              |
 | t 1/2 (h) Mean (SD ) | 29.4 (9.9)          | 35.6 (8.17)         | 50.3 (12.6)         | 59.6 (13.5)         |
@@ -493,7 +493,7 @@ A population pharmacokinetic analysis using plasma baloxavir concentrations from
 
 Pharmacokinetic data of baloxavir were collected in patients aged 3 weeks to &lt; 12 years. The body weight-adjusted dosing regimen (2 mg/kg up to 20 kg and 40 mg for ≥ 20 kg) provides similar baloxavir exposures to the therapeutic doses of baloxavir marboxil in adults (40 mg for adult patients &lt; 80 kg and 80 mg for adult patients ≥ 80 kg) in both Asian and non-Asian populations (see Table 10).
 
-Table 10. Mean (5 th - 95 th percentile) pharmacokinetic parameters of baloxavir in non-Asian patients aged 3 weeks and above receiving a single oral baloxavir marboxil administration
+Table 10. Mean (5 th  - 95 th  percentile) pharmacokinetic parameters of baloxavir in non-Asian patients aged 3 weeks and above receiving a single oral baloxavir marboxil administration
 
 | Age group           | Dose group*   |   N | AUC 0-inf (ng.hr/mL)   | C max (ng/mL)    | C 72 (ng/mL)     | T max (hr)      | T 1/2 (hr)       |
 |---------------------|---------------|-----|------------------------|------------------|------------------|-----------------|------------------|
@@ -559,8 +559,7 @@ Lactose monohydrate Croscarmellose sodium (E468) Povidone (K25) (E1201) Microcry
 | Sodium stearyl fumarate                                                                                                                              | Sodium stearyl fumarate                                                                                                                              |
 |------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Film-coating                                                                                                                                         | Film-coating                                                                                                                                         |
-| Hypromellose (E464) Talc (E553b)                                                                                                                     | Hypromellose (E464) Talc (E553b)                                                                                                                     |
-| Titanium dioxide (E171)                                                                                                                              | Titanium dioxide (E171)                                                                                                                              |
+| Hypromellose (E464) Talc (E553b) Titanium dioxide (E171)                                                                                             | Hypromellose (E464) Talc (E553b) Titanium dioxide (E171)                                                                                             |
 | 6.2                                                                                                                                                  | Incompatibilities                                                                                                                                    |
 | Not applicable.                                                                                                                                      | Not applicable.                                                                                                                                      |
 | 6.3                                                                                                                                                  | Shelf life                                                                                                                                           |
@@ -588,7 +587,13 @@ Lactose monohydrate Croscarmellose sodium (E468) Povidone (K25) (E1201) Microcry
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/20/1500/001 EU/1/20/1500/002 EU/1/20/1500/003 EU/1/20/1500/004
+EU/1/20/1500/001
+
+EU/1/20/1500/002
+
+EU/1/20/1500/003
+
+EU/1/20/1500/004
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -644,7 +649,7 @@ A single dose of baloxavir marboxil should be taken as soon as possible within 4
 
 A single dose of baloxavir marboxil should be taken as soon as possible within 48 hours following close contact with an individual known or suspected to have influenza (see section 5.1).
 
-## Adults, adolescents, children and infants (≥ 3 weeks of age)
+## Adults, adolescents, children and infants ( ≥ 3 weeks of age)
 
 The recommended single oral dose of baloxavir marboxil is determined by body weight (see Table 1).
 
@@ -652,7 +657,7 @@ Adults, adolescents and children weighing ≥ 20 kg who are able to swallow tabl
 
 <div style=\"page-break-after: always\"></div>
 
-Table 1. Baloxavir marboxil dosing by patient body weight (≥ 3 weeks of age)
+Table 1. Baloxavir marboxil dosing by patient body weight ( ≥ 3 weeks of age)
 
 | Patient body weight (kg)   | Recommended single dose of oral suspension   | Volume of oral suspension *   |
 |----------------------------|----------------------------------------------|-------------------------------|
@@ -762,7 +767,7 @@ Hypersensitivity reactions have been observed in the post-marketing setting, whi
 
 ## Tabulated list of adverse reactions
 
-The following adverse drug reactions have been identified from post-marketing experience with baloxavir marboxil (Table 2) based on spontaneous case reports and cases from non-interventional study programmes. Adverse drug reactions are listed according to system organ classes in MedDRA and the corresponding frequency category estimation for each adverse drug reaction is based on the following convention: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1 000 to &lt; 1/100); rare (≥ 1/10 000 to &lt; 1/1 000); very rare (&lt; 1/10 000) and not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in the order of decreasing seriousness.
+The following adverse drug reactions have been identified from post-marketing experience with baloxavir marboxil (Table 2) based on spontaneous case reports and cases from non-interventional study programmes. Adverse drug reactions are listed according to system organ classes in MedDRA and the corresponding frequency category estimation for each adverse drug reaction is based on the following convention: very common ( ≥ 1/10); common ( ≥ 1/100 to &lt; 1/10); uncommon ( ≥ 1/1 000 to &lt; 1/100); rare ( ≥ 1/10 000 to &lt; 1/1 000); very rare (&lt; 1/10 000) and not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in the order of decreasing seriousness.
 
 Table 2.  Adverse  drug  reactions  from  post-marketing  experience  in  adults,  adolescents  and paediatric patients
 
@@ -773,6 +778,7 @@ Table 2.  Adverse  drug  reactions  from  post-marketing  experience  in  adults
 | Immune system disorders         | Hypersensitivity a                               | Not known   |
 | Gastrointestinal disorders      | Diarrhoea b                                      | Common      |
 | Gastrointestinal disorders      | Vomiting b                                       | Common      |
+| Gastrointestinal disorders      | Ischaemic colitis a                              | Not known   |
 | Skin and subcutaneous disorders | Urticaria b                                      | Uncommon    |
 | Skin and subcutaneous disorders | Angioedema a                                     | Not known   |
 
@@ -848,11 +854,9 @@ Baloxavir is active in vitro against influenza viruses that are considered resis
 
 Capstone 1 (1601T0831) was a phase 3 randomised, double-blind, multicentre study conducted in Japan and the US to evaluate the efficacy and safety of a single oral tablet dose of baloxavir marboxil compared with placebo and with oseltamivir in healthy adult and adolescent patients (aged ≥ 12 years to ≤ 64 years) with uncomplicated influenza. Patients were randomised to receive baloxavir marboxil (patients who weighed 40 to &lt; 80 kg received 40 mg and patients who weighed ≥ 80 kg received 80 mg), oseltamivir 75 mg twice daily for 5 days (only if aged ≥ 20 years) or placebo. Dosing occurred within 48 hours of first onset of symptoms.
 
-A total of 1436 patients (of which 118 were aged ≥ 12 years to ≤ 17 years) were enrolled in the 2016-2017 Northern Hemisphere influenza season. The predominant influenza virus strain in this study was the A/H3 subtype (84.8 % to 88.1 %) followed by the B type (8.3 % to 9.0 %) and the A/H1N1pdm subtype (0.5 % to 3.0 %). The primary efficacy endpoint was time to alleviation of symptoms (cough, sore throat, headache, nasal congestion, feverishness or chills, muscle or joint pain,
+A total of 1436 patients (of which 118 were aged ≥ 12 years to ≤ 17 years) were enrolled in the 2016-2017 Northern Hemisphere influenza season. The predominant influenza virus strain in this study was the A/H3 subtype (84.8 % to 88.1 %) followed by the B type (8.3 % to 9.0 %) and the A/H1N1pdm subtype (0.5 % to 3.0 %). The primary efficacy endpoint was time to alleviation of symptoms (cough, sore throat, headache, nasal congestion, feverishness or chills, muscle or joint pain, and fatigue) (TTAS). Baloxavir marboxil elicited a statistically significant reduction in TTAS when compared with placebo (Table 4).
 
 <div style=\"page-break-after: always\"></div>
-
-and fatigue) (TTAS). Baloxavir marboxil elicited a statistically significant reduction in TTAS when compared with placebo (Table 4).
 
 Table 4.  Capstone  1:  Time  to  alleviation  of  symptoms  (baloxavir  marboxil  vs  placebo),  ITTI population *
 
@@ -860,7 +864,7 @@ Table 4.  Capstone  1:  Time  to  alleviation  of  symptoms  (baloxavir  marboxi
 |----------------------------------------------------|----------------------------------------------------|--------------------------------------------------------------------------|----------------------------------------------------|
 | Baloxavir marboxil 40/80 mg (95 %CI) N=455         | Placebo (95 %CI) N=230                             | Difference between Baloxavir marboxil and placebo (95 %CIfor difference) | P-value                                            |
 | 53.7                                               | 80.2                                               | -26.5                                                                    | < 0.0001                                           |
-| (49.5, 58.5)                                       | (72.6, 87.1)                                       | (-35.8, -17.8)                                                           |                                                    |
+| (49.5, 58.5)                                       | (72.6, 87.1)                                       | ( - 35.8, - 17.8)                                                        |                                                    |
 
 CI: Confidence interval
 
@@ -881,7 +885,7 @@ Table 5.  Capstone  2:  Time  to  improvement  of  influenza  symptoms  (baloxav
 | Time to improvement of influenza symptoms (Median [hours])   | Time to improvement of influenza symptoms (Median [hours])   | Time to improvement of influenza symptoms (Median [hours])               | Time to improvement of influenza symptoms (Median [hours])   |
 |--------------------------------------------------------------|--------------------------------------------------------------|--------------------------------------------------------------------------|--------------------------------------------------------------|
 | Baloxavir marboxil 40/80 mg (95 %CI) N=385                   | Placebo (95 %CI) N=385                                       | Difference between Baloxavir marboxil and placebo (95 %CIfor difference) | P-value                                                      |
-| 73.2 (67.2, 85.1)                                            | 102.3 (92.7, 113.1)                                          | -29.1 (-42.8, -14.6)                                                     | < 0.0001                                                     |
+| 73.2 (67.2, 85.1)                                            | 102.3 (92.7, 113.1)                                          | -29.1 ( - 42.8, - 14.6)                                                  | < 0.0001                                                     |
 
 When the baloxavir marboxil group was compared to the oseltamivir group, there was no statistically significant difference in TTIS (73.2 h vs 81.0 h, respectively).
 
@@ -924,8 +928,7 @@ Table 7. Time to alleviation of influenza signs and symptoms, ITTI population
 | Baloxavir marboxil (95 %CI) N=80                   | Oseltamivir (95 %CI) N=43                          |
 |                                                    | 150.0                                              |
 | 138.1                                              |                                                    |
-|                                                    | (115.0,                                            |
-| (116.6, 163.2)                                     | 165.7)                                             |
+| (116.6, 163.2)                                     | (115.0, 165.7)                                     |
 
 The median duration of fever was comparable between the baloxavir marboxil group (41.2 hours [95 % CI: 24.5, 45.7]) and the oseltamivir group (46.8 hours [95 % CI: 30.0, 53.5]).
 
@@ -955,7 +958,7 @@ Table 8. Proportion of subjects with influenza virus, fever, and at least one re
 |------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|
 | Baloxavir marboxil (95 %CI)                                                                                      | Placebo (95 %CI)                                                                                                 | Adjusted risk ratio (95 %CI)                                                                                     | P-value                                                                                                          |
 | N=374 1.9 (0.8, 3.8)                                                                                             | N=375 13.6 (10.3, 17.5)                                                                                          | 0.14 (0.06, 0.30)                                                                                                | < 0.0001                                                                                                         |
-| Proportion of s ubjects ≥ 12 years with influenza virus, fever, and at least one respiratory symptom (%)         | Proportion of s ubjects ≥ 12 years with influenza virus, fever, and at least one respiratory symptom (%)         | Proportion of s ubjects ≥ 12 years with influenza virus, fever, and at least one respiratory symptom (%)         | Proportion of s ubjects ≥ 12 years with influenza virus, fever, and at least one respiratory symptom (%)         |
+| Proportion of subjects ≥ 12 years with influenza virus, fever, and at least one respiratory symptom (%)          | Proportion of subjects ≥ 12 years with influenza virus, fever, and at least one respiratory symptom (%)          | Proportion of subjects ≥ 12 years with influenza virus, fever, and at least one respiratory symptom (%)          | Proportion of subjects ≥ 12 years with influenza virus, fever, and at least one respiratory symptom (%)          |
 | N=303 1.3 (0.4, 3.3)                                                                                             | N=304 13.2 (9.6, 17.5)                                                                                           | 0.10 (0.04, 0.28)                                                                                                | < 0.0001                                                                                                         |
 | Proportion of subjects 1 to < 12 years with influenza virus, fever, and at least one respiratory symptom (%)     | Proportion of subjects 1 to < 12 years with influenza virus, fever, and at least one respiratory symptom (%)     | Proportion of subjects 1 to < 12 years with influenza virus, fever, and at least one respiratory symptom (%)     | Proportion of subjects 1 to < 12 years with influenza virus, fever, and at least one respiratory symptom (%)     |
 | N=71 4.2 (0.9, 11.9)                                                                                             | N=71 15.5 (8, 26)                                                                                                | 0.27 (0.08, 0.90)                                                                                                | 0.0339                                                                                                           |
@@ -1006,7 +1009,7 @@ The apparent terminal elimination half-life (t1/2,z) of baloxavir after a single
 
 Table 9. Baloxavir half-life per age and race
 
-|                      | < 12 years of age   | < 12 years of age   | ≥ 12 years of age   | ≥ 12 years of age   |
+|                      | < 12 years of age   | < 12 years of age   |  12 years of age   |  12 years of age   |
 |----------------------|---------------------|---------------------|---------------------|---------------------|
 |                      | Non-Asians          | Asians              | Non-Asians          | Asians              |
 | t 1/2 (h) Mean (SD ) | 29.4 (9.9)          | 35.6 (8.17)         | 50.3 (12.6)         | 59.6 (13.5)         |
@@ -1041,7 +1044,7 @@ Pharmacokinetic data of baloxavir were collected in patients aged 3 weeks to &lt
 
 <div style=\"page-break-after: always\"></div>
 
-Table 10. Mean (5 th - 95 th percentile) pharmacokinetic parameters of baloxavir in non-Asian patients aged 3 weeks and above receiving a single oral baloxavir marboxil administration
+Table 10. Mean (5 th  - 95 th  percentile) pharmacokinetic parameters of baloxavir in non-Asian patients aged 3 weeks and above receiving a single oral baloxavir marboxil administration
 
 | Age group           | Dose group*   |   N | AUC 0-inf (ng.hr/mL)   | C max (ng/mL)    | C 72 (ng/mL)     | T max (hr)      | T 1/2 (hr)       |
 |---------------------|---------------|-----|------------------------|------------------|------------------|-----------------|------------------|
@@ -1116,7 +1119,7 @@ After reconstitution, use within 10 hours.
 
 Before reconstitution: This medicinal product does not require any special temperature storage conditions. Keep the bottle tightly closed in order to protect from moisture.
 
-After reconstitution: Do not store above 30 ° C.
+After reconstitution: Do not store above 30  C.
 
 ## 6.5 Nature and contents of container
 
@@ -1126,7 +1129,9 @@ Each carton contains: 1 bottle, 1 press-in bottle adapter, 1 measuring cup, a 3 
 
 ## 6.6 Special precautions for disposal and other handling
 
-Do not shake the bottle. Avoid skin contact.
+Do not shake the bottle.
+
+Avoid skin contact.
 
 It is recommended that Xofluza granules for oral suspension should be reconstituted by a healthcare professional prior to dispensing. If necessary, the patient or caregiver may also reconstitute the oral suspension. The healthcare professional must counsel the individual or caregiver on how to reconstitute the suspension and must advise them to read the instructions for use before preparing and administering.
 
@@ -1175,31 +1180,57 @@ Detailed information on this medicinal product is available on the website of th
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-| Xofluza 10 mg granules in sachet Xofluza 30 mg granules in sachet Xofluza 40 mg granules in sachet     |
-|--------------------------------------------------------------------------------------------------------|
-| 2. QUALITATIVE AND QUANTITATIVE COMPOSITION                                                            |
-| Xofluza 10 mg granules in sachet                                                                       |
-| Each sachet contains 500 mg of granules, equivalent to 10 mg of baloxavir marboxil.                    |
-| Excipient(s) with known effect                                                                         |
-| Each 10 mg sachet contains less than 1 mmol (23.0 mg) sodium and 175 mg of maltitol.                   |
-| Xofluza 30 mg granules in sachet                                                                       |
-| Each sachet contains 1500 mg of granules, equivalent to 30 mg of baloxavir marboxil.                   |
-| Excipient(s) with known effect                                                                         |
-| Each 30 mg sachet contains less than 1 mmol (23.0 mg) sodium and 525 mg of maltitol.                   |
-| Xofluza 40 mg granules in sachet                                                                       |
-| Each sachet contains 2000 mg of granules, equivalent to 40 mg of baloxavir marboxil.                   |
-| Excipient(s) with known effect                                                                         |
-| Each 40 mg sachet contains 1.03 mmol (or 23.6 mg) sodium and 700 mg of maltitol.                       |
-| For the full list of excipients, see section 6.1.                                                      |
-| 3. PHARMACEUTICALFORM                                                                                  |
-| Granules in sachet. White to light yellow granules.                                                    |
-| 4. CLINICAL PARTICULARS                                                                                |
-| 4.1 Therapeutic indications                                                                            |
-| Treatment of influenza                                                                                 |
-| Xofluza is indicated for the treatment of uncomplicated influenza in patients aged 3 weeks and above.  |
-| Post-exposure prophylaxis of influenza                                                                 |
-| Xofluza is indicated for post-exposure prophylaxis of influenza in individuals aged 3 weeks and above. |
-| Xofluza should be used in accordance with official recommendations.                                    |
+Xofluza 10 mg granules in sachet
+
+Xofluza 30 mg granules in sachet
+
+Xofluza 40 mg granules in sachet
+
+## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
+
+## Xofluza 10 mg granules in sachet
+
+Each sachet contains 500 mg of granules, equivalent to 10 mg of baloxavir marboxil.
+
+Excipient(s) with known effect
+
+Each 10 mg sachet contains less than 1 mmol (23.0 mg) sodium and 175 mg of maltitol.
+
+Xofluza 30 mg granules in sachet
+
+Each sachet contains 1500 mg of granules, equivalent to 30 mg of baloxavir marboxil.
+
+Excipient(s) with known effect
+
+Each 30 mg sachet contains less than 1 mmol (23.0 mg) sodium and 525 mg of maltitol.
+
+Xofluza 40 mg granules in sachet
+
+Each sachet contains 2000 mg of granules, equivalent to 40 mg of baloxavir marboxil.
+
+Excipient(s) with known effect
+
+Each 40 mg sachet contains 1.03 mmol (or 23.6 mg) sodium and 700 mg of maltitol.
+
+For the full list of excipients, see section 6.1.
+
+## 3. PHARMACEUTICAL FORM
+
+Granules in sachet. White to light yellow granules.
+
+## 4. CLINICAL PARTICULARS
+
+## 4.1 Therapeutic indications
+
+## Treatment of influenza
+
+Xofluza is indicated for the treatment of uncomplicated influenza in patients aged 3 weeks and above.
+
+## Post-exposure prophylaxis of influenza
+
+Xofluza is indicated for post-exposure prophylaxis of influenza in individuals aged 3 weeks and above.
+
+Xofluza should be used in accordance with official recommendations.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1215,19 +1246,19 @@ A single dose of baloxavir marboxil should be taken as soon as possible within 4
 
 A single dose of baloxavir marboxil should be taken as soon as possible within 48 hours following close contact with an individual known or suspected to have influenza (see section 5.1).
 
-Adults, adolescents , children and infants (≥ 3 weeks of age)
+## Adults, adolescents, children and infants ( ≥ 3 weeks of age)
 
 The recommended single oral dose of baloxavir marboxil is determined by body weight (see Table 1).
 
-Adults, adolescents and children weighi ng ≥ 20 kg who are able to swallow tablets may instead receive treatment with Xofluza tablets at a dose of 40 mg or 80 mg depending on the patient's body weight. Refer to the Xofluza tablet SmPC for dose information.
+Adults, adolescents and children weighing ≥ 20 kg who are able to swallow tablets may instead receive treatment with Xofluza tablets at a dose of 40 mg or 80 mg depending on the patient's body weight. Refer to the Xofluza tablet SmPC for dose information.
 
-Table 1. Baloxavir marboxil dosing by patient body weight (≥ 3 weeks of age)
+Table 1. Baloxavir marboxil dosing by patient body weight ( ≥ 3 weeks of age)
 
 | Patient body weight (kg)   | Recommended single weight-based bracket a dose of baloxavir marboxil   |
 |----------------------------|------------------------------------------------------------------------|
 | < 9 kg                     | 2 mg/kg b                                                              |
-| ≥ 9 kg to < 15 kg          | 20 mg c                                                                |
-| ≥ 15 kg to < 20 kg         | 30 mg                                                                  |
+|  9 kg to  15 kg          | 20 mg c                                                                |
+|  15 kg to  20 kg         | 30 mg                                                                  |
 | ≥ 20 kg to < 80 kg         | 40 mg                                                                  |
 | ≥ 80 kg                    | 80 mg d                                                                |
 
@@ -1331,11 +1362,9 @@ Hypersensitivity reactions have been observed in the post-marketing setting, whi
 
 ## Tabulated list of adverse reactions
 
-The following adverse drug reactions have been identified from post-marketing experience with baloxavir marboxil (Table 2) based on spontaneous case reports and cases from non-interventional study programmes. Adverse drug reactions are listed according to system organ classes in MedDRA and the corresponding frequency category estimation for each adverse drug reaction is based on the following convention: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1 000 to &lt; 1/100); rare (≥ 1/10 000 to &lt; 1/1 000); very rare (&lt; 1/10 000) and not known (cannot
+The following adverse drug reactions have been identified from post-marketing experience with baloxavir marboxil (Table 2) based on spontaneous case reports and cases from non-interventional study programmes. Adverse drug reactions are listed according to system organ classes in MedDRA and the corresponding frequency category estimation for each adverse drug reaction is based on the following convention: very common ( ≥ 1/10); common ( ≥ 1/100 to &lt; 1/10); uncommon ( ≥ 1/1 000 to &lt; 1/100); rare ( ≥ 1/10 000 to &lt; 1/1 000); very rare (&lt; 1/10 000) and not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in the order of decreasing seriousness.
 
 <div style=\"page-break-after: always\"></div>
-
-be estimated from the available data). Within each frequency grouping, adverse reactions are presented in the order of decreasing seriousness.
 
 Table 2.  Adverse  drug  reactions  from  post-marketing  experience  in  adults,  adolescents  and paediatric patients
 
@@ -1346,6 +1375,7 @@ Table 2.  Adverse  drug  reactions  from  post-marketing  experience  in  adults
 | Immune system disorders         | Hypersensitivity a                               | Not known   |
 | Gastrointestinal disorders      | Diarrhoea b                                      | Common      |
 | Gastrointestinal disorders      | Vomiting b                                       | Common      |
+| Gastrointestinal disorders      | Ischaemic colitis a                              | Not known   |
 | Skin and subcutaneous disorders | Urticaria b                                      | Uncommon    |
 | Skin and subcutaneous disorders | Angioedema a                                     | Not known   |
 
@@ -1360,7 +1390,7 @@ Table 3. Adverse drug reactions in children from clinical trial experience
 | System organ class (SOC)        | Adverse reaction (preferred term (PT), MedDRA)   | Frequency   |
 |---------------------------------|--------------------------------------------------|-------------|
 | Gastrointestinal disorders      | Diarrhoea                                        | Common      |
-| Gastrointestinal disorders      | Vomiting                                         | Common      |
+|                                 | Vomiting                                         | Common      |
 | Skin and subcutaneous disorders | Rash                                             | Common      |
 
 ## Reporting of suspected adverse reactions
@@ -1431,7 +1461,7 @@ Table 4. Capstone 1: Time to alleviation of symptoms (baloxavir marboxil vs plac
 |----------------------------------------------------|----------------------------------------------------|--------------------------------------------------------------------------|----------------------------------------------------|
 | Baloxavir marboxil 40/80 mg (95 %CI) N=455         | Placebo (95 %CI) N=230                             | Difference between Baloxavir marboxil and placebo (95 %CIfor difference) | P-value                                            |
 | 53.7                                               | 80.2                                               | -26.5                                                                    | < 0.0001                                           |
-| (49.5, 58.5)                                       | (72.6, 87.1)                                       | (-35.8, -17.8)                                                           |                                                    |
+| (49.5, 58.5)                                       | (72.6, 87.1)                                       | ( - 35.8, - 17.8)                                                        |                                                    |
 
 CI: Confidence interval
 
@@ -1441,11 +1471,9 @@ When the baloxavir marboxil group was compared to the oseltamivir group, there w
 
 The median (95 % CI) TTAS was 49.3 (44.0, 53.1) and 82.1 (69.5, 92.9) hours for patients who were symptomatic for &gt; 0 to ≤ 24 hours, and 66.2 (54.4, 74.7) and 79.4 (69.0, 91.1) hours for patients who were symptomatic for &gt; 24 to ≤ 48 hours for baloxavir marboxil and placebo, respectively.
 
-The median time to resolution of fever in patients treated with baloxavir marboxil was 24.5 hours (95 % CI: 22.6, 26.6) compared with 42.0 hours (95 % CI: 37.4, 44.6) in those receiving placebo. No
+The median time to resolution of fever in patients treated with baloxavir marboxil was 24.5 hours (95 % CI: 22.6, 26.6) compared with 42.0 hours (95 % CI: 37.4, 44.6) in those receiving placebo. No difference was noted in duration of fever in the baloxavir marboxil group compared with the oseltamivir group.
 
 <div style=\"page-break-after: always\"></div>
-
-difference was noted in duration of fever in the baloxavir marboxil group compared with the oseltamivir group.
 
 Capstone 2 (1602T0832) was a phase 3 randomised, double-blind, multicentre study to evaluate the efficacy and safety of a single oral tablet dose of baloxavir marboxil compared with placebo and with oseltamivir in adult and adolescent patients (aged ≥ 12 years) with uncomplicated influenza who had at least one host factor predisposing to the development of complications. Patients were randomised to receive a single oral dose of baloxavir marboxil (according to weight as in Capstone 1), oseltamivir 75 mg twice daily for 5 days, or placebo. Dosing occurred within 48 hours of first onset of symptoms.
 
@@ -1457,7 +1485,7 @@ Table 5. Capstone 2: Time to improvement of influenza symptoms (baloxavir marbox
 |--------------------------------------------------------------|--------------------------------------------------------------|--------------------------------------------------------------------------|--------------------------------------------------------------|
 | Baloxavir marboxil 40/80 mg (95 %CI) N=385                   | Placebo (95 %CI) N=385                                       | Difference between Baloxavir marboxil and placebo (95 %CIfor difference) | P-value                                                      |
 | 73.2                                                         | 102.3                                                        | -29.1                                                                    | < 0.0001                                                     |
-| (67.2, 85.1)                                                 | (92.7, 113.1)                                                | (-42.8, -14.6)                                                           |                                                              |
+| (67.2, 85.1)                                                 | (92.7, 113.1)                                                | ( - 42.8, - 14.6)                                                        |                                                              |
 
 When the baloxavir marboxil group was compared to the oseltamivir group, there was no statistically significant difference in TTIS (73.2 h vs 81.0 h, respectively).
 
@@ -1479,11 +1507,9 @@ Table 6. Time to improvement of symptoms by influenza virus subtype, ITTI popula
 
 The median time to resolution of fever was 30.8 hours (95 % CI: 28.2, 35.4) in the baloxavir marboxil group compared with 50.7 hours (95 % CI: 44.6, 58.8) in the placebo group. No clear differences between the baloxavir marboxil group and the oseltamivir group were observed.
 
-The overall incidence of influenza-related complications (death, hospitalisation, sinusitis, otitis media, bronchitis, and/or pneumonia) was 2.8 % (11/388 patients) in the baloxavir marboxil group compared
+The overall incidence of influenza-related complications (death, hospitalisation, sinusitis, otitis media, bronchitis, and/or pneumonia) was 2.8 % (11/388 patients) in the baloxavir marboxil group compared with 10.4 % (40/386 patients) in the placebo group. The lower overall incidence of influenza-related complications in the baloxavir marboxil group compared with the placebo group was mainly driven by lower incidences of bronchitis (1.8 % vs. 6.0 %, respectively) and sinusitis (0.3 % vs. 2.1 %, respectively).
 
 <div style=\"page-break-after: always\"></div>
-
-with 10.4 % (40/386 patients) in the placebo group. The lower overall incidence of influenza-related complications in the baloxavir marboxil group compared with the placebo group was mainly driven by lower incidences of bronchitis (1.8 % vs. 6.0 %, respectively) and sinusitis (0.3 % vs. 2.1 %, respectively).
 
 ## Paediatric patients (aged 1 - &lt; 12 years )
 
@@ -1508,11 +1534,9 @@ The overall incidence of influenza-related complications (death, hospitalisation
 
 Ministone-1 (CP40559) was a multicenter, single-arm, open label study to evaluate the safety, pharmacokinetics and efficacy of a single oral dose of baloxavir marboxil in paediatric patients (aged &lt; 1 year) with influenza-like symptoms. The youngest patient recruited was 3 weeks of age. Extrapolation of efficacy to &lt; 1 year was based on exposure matching from adults and older children.
 
-A total of 48 patients received a single oral dose of baloxavir marboxil based on body weight and age (2 mg/kg for patients ≥ 3 months (N=39), 1 mg/kg for patients ≥ 4 weeks to &lt; 3 months (N=8) and 1 mg/kg for patients &lt;4 weeks (N=1)). The predominant influenza virus strain in this study was the
+A total of 48 patients received a single oral dose of baloxavir marboxil based on body weight and age (2 mg/kg for patients ≥ 3 months (N=39), 1 mg/kg for patients ≥ 4 weeks to &lt; 3 months (N=8) and 1 mg/kg for patients &lt;4 weeks (N=1)). The predominant influenza virus strain in this study was the A/H3 subtype. The primary objective was to evaluate the safety and PK of a single oral dose of baloxavir marboxil. A secondary objective was to evaluate the efficacy of baloxavir marboxil based on the efficacy endpoints including time to alleviation of influenza signs and symptoms (cough and nasal symptoms, time to return to normal health and activity and duration of fever). No new safety concerns were identified.
 
 <div style=\"page-break-after: always\"></div>
-
-A/H3 subtype. The primary objective was to evaluate the safety and PK of a single oral dose of baloxavir marboxil. A secondary objective was to evaluate the efficacy of baloxavir marboxil based on the efficacy endpoints including time to alleviation of influenza signs and symptoms (cough and nasal symptoms, time to return to normal health and activity and duration of fever). No new safety concerns were identified.
 
 ## Post-exposure prophylaxis of influenza
 
@@ -1530,7 +1554,7 @@ Table 8. Proportion of subjects with influenza virus, fever, and at least one re
 |------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|
 | Baloxavir marboxil (95 %CI)                                                                                      | Placebo (95 %CI)                                                                                                 | Adjusted risk ratio (95 %CI)                                                                                     | P-value                                                                                                          |
 | N=374 1.9 (0.8, 3.8)                                                                                             | N=375 13.6 (10.3, 17.5)                                                                                          | 0.14 (0.06, 0.30)                                                                                                | < 0.0001                                                                                                         |
-| Proportion of s ubjects ≥ 12 years with influenza virus, fever, and at least one respiratory symptom (%)         | Proportion of s ubjects ≥ 12 years with influenza virus, fever, and at least one respiratory symptom (%)         | Proportion of s ubjects ≥ 12 years with influenza virus, fever, and at least one respiratory symptom (%)         | Proportion of s ubjects ≥ 12 years with influenza virus, fever, and at least one respiratory symptom (%)         |
+| Proportion of subjects ≥ 12 years with influenza virus, fever, and at least one respiratory symptom (%)          | Proportion of subjects ≥ 12 years with influenza virus, fever, and at least one respiratory symptom (%)          | Proportion of subjects ≥ 12 years with influenza virus, fever, and at least one respiratory symptom (%)          | Proportion of subjects ≥ 12 years with influenza virus, fever, and at least one respiratory symptom (%)          |
 | N=303 1.3 (0.4, 3.3)                                                                                             | N=304 13.2 (9.6, 17.5)                                                                                           | 0.10 (0.04, 0.28)                                                                                                | < 0.0001                                                                                                         |
 | Proportion of subjects 1 to < 12 years with influenza virus, fever, and at least one respiratory symptom (%)     | Proportion of subjects 1 to < 12 years with influenza virus, fever, and at least one respiratory symptom (%)     | Proportion of subjects 1 to < 12 years with influenza virus, fever, and at least one respiratory symptom (%)     | Proportion of subjects 1 to < 12 years with influenza virus, fever, and at least one respiratory symptom (%)     |
 | N=71 4.2 (0.9, 11.9)                                                                                             | N=71 15.5 (8, 26)                                                                                                | 0.27 (0.08, 0.90)                                                                                                | 0.0339                                                                                                           |
@@ -1583,7 +1607,7 @@ The apparent terminal elimination half-life (t1/2,z) of baloxavir after a single
 
 Table 9. Baloxavir half-life per age and race
 
-|                      | < 12 years of age   | < 12 years of age   | ≥ 12 years of age   | ≥ 12 years of age   |
+|                      | < 12 years of age   | < 12 years of age   |  12 years of age   |  12 years of age   |
 |----------------------|---------------------|---------------------|---------------------|---------------------|
 |                      | Non-Asians          | Asians              | Non-Asians          | Asians              |
 | t 1/2 (h) Mean (SD ) | 29.4 (9.9)          | 35.6 (8.17)         | 50.3 (12.6)         | 59.6 (13.5)         |
@@ -1616,7 +1640,7 @@ A population pharmacokinetic analysis using plasma baloxavir concentrations from
 
 Pharmacokinetic data of baloxavir were collected in patients aged 3 weeks to &lt; 12 years. The body weight-adjusted dosing regimen (2 mg/kg up to 20 kg and 40 mg for ≥ 20 kg) provides similar baloxavir exposures to the therapeutic doses of baloxavir marboxil in adults (40 mg for adult patients &lt; 80 kg and 80 mg for adult patients ≥ 80 kg) in both Asian and non-Asian populations (see Table 10).
 
-Table 10. Mean (5 th - 95 th percentile) pharmacokinetic parameters of baloxavir in non-Asian patients aged 3 weeks and above receiving a single oral baloxavir marboxil administration
+Table 10. Mean (5 th  - 95 th  percentile) pharmacokinetic parameters of baloxavir in non-Asian patients aged 3 weeks and above receiving a single oral baloxavir marboxil administration
 
 | Age group           | Dose group*   |   N | AUC 0-inf (ng.hr/mL)   | C max (ng/mL)    | C 72 (ng/mL)     | T max (hr)      | T 1/2 (hr)       |
 |---------------------|---------------|-----|------------------------|------------------|------------------|-----------------|------------------|
@@ -1691,9 +1715,7 @@ This medicinal product does not require any special storage conditions.
 
 ## 6.5 Nature and contents of container
 
-Xofluza 10 mg, 30 mg and 40 mg granules are supplied in laminated foil (polyethylene terephthalate/ aluminium/polyethylene) sachets in cartons.
-
-Each carton contains 1 (30 mg or 40 mg) or 2 (10 mg) sachets.
+Xofluza 10 mg, 30 mg and 40 mg granules are supplied in laminated foil (polyethylene terephthalate/ aluminium/polyethylene) sachets in cartons. Each carton contains 1 (30 mg or 40 mg) or 2 (10 mg) sachets.
 
 ## 6.6 Special precautions for disposal and other handling
 
@@ -1749,13 +1771,13 @@ Roche Registration GmbH Emil-Barell-Strasse 1 79639 Grenzach-Wyhlen Germany
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/20/1500/006 EU/1/20/1500/007 EU/1/20/1500/008
+EU/1/20/1500/006 EU/1/20/1500/007
+
+EU/1/20/1500/008
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-Date of first authorisation: 07 January 2021
-
-Date of latest renewal: 17 November 2025
+Date of first authorisation: 07 January 2021 Date of latest renewal: 17 November 2025
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -1784,20 +1806,20 @@ Medicinal product subject to medical prescription.
 
 ## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
-## · Periodic Safety Update Reports (PSURs)
+##  Periodic Safety Update Reports (PSURs)
 
 The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
-## · Risk management plan (RMP)
+##  Risk management plan (RMP)
 
 The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the Marketing Authorisation and any agreed subsequent updates of the RMP.
 
 An updated RMP should be submitted:
 
-- At the request of the European Medicines Agency;
-- Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
+-  At the request of the European Medicines Agency;
+-  Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1817,7 +1839,9 @@ CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Xofluza 20 mg film-coated tablets baloxavir marboxil
+Xofluza 20 mg film-coated tablets
+
+baloxavir marboxil
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -1835,9 +1859,7 @@ Contains lactose. See leaflet for further information.
 
 Read the package leaflet before use
 
-Oral use
-
-Take both tablets as a single dose
+Oral use Take both tablets as a single dose
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -1871,7 +1893,7 @@ Lot
 
 15. INSTRUCTIONS ON USE
 
-## 16. INFORMATION IN BRAILLE
+16. INFORMATION IN BRAILLE
 
 xofluza 20 mg
 
@@ -1889,17 +1911,17 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
-|-----------------------------------------------------|
-| BLISTERS                                            |
+| MINIMUM PARTICULARSTO APPEAR ON BLISTERS OR STRIPS   |
+|------------------------------------------------------|
+| BLISTERS                                             |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| 1.   | NAMEOF THE MEDICINAL PRODUCT   |
+|------|--------------------------------|
 
 Xofluza 20 mg film-coated tablets baloxavir marboxil
 
-| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
-|------|-------------------------------------------|
+| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
+|------|------------------------------------------|
 
 Roche Registration GmbH
 
@@ -1908,8 +1930,8 @@ Roche Registration GmbH
 
 EXP
 
-| 4.   | BATCH NUMBER   |
-|------|----------------|
+| 4.   | BATCHNUMBER   |
+|------|---------------|
 
 Lot
 
@@ -1924,7 +1946,9 @@ CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Xofluza 40 mg film-coated tablets baloxavir marboxil
+Xofluza 40 mg film-coated tablets
+
+baloxavir marboxil
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -2014,7 +2038,9 @@ Contains lactose. See leaflet for further information.
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-Read the package leaflet before use Oral use
+Read the package leaflet before use
+
+Oral use
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -2032,7 +2058,7 @@ Store in the original package in order to protect from moisture
 
 <div style=\"page-break-after: always\"></div>
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -2068,17 +2094,17 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
-|-----------------------------------------------------|
-| BLISTERS                                            |
+| MINIMUM PARTICULARSTO APPEAR ON BLISTERS OR STRIPS   |
+|------------------------------------------------------|
+| BLISTERS                                             |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| 1.   | NAMEOF THE MEDICINAL PRODUCT   |
+|------|--------------------------------|
 
 Xofluza 40 mg film-coated tablets baloxavir marboxil
 
-| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
-|------|-------------------------------------------|
+| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
+|------|------------------------------------------|
 
 Roche Registration GmbH
 
@@ -2087,8 +2113,8 @@ Roche Registration GmbH
 
 EXP
 
-| 4.   | BATCH NUMBER   |
-|------|----------------|
+| 4.   | BATCHNUMBER   |
+|------|---------------|
 
 Lot
 
@@ -2119,9 +2145,11 @@ Contains lactose. See leaflet for further information.
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-Read the package leaflet before use Oral use
+Read the package leaflet before use
 
-## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+Oral use
+
+6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
 Keep out of the sight and reach of children
 
@@ -2136,6 +2164,8 @@ EXP
 Store in the original package in order to protect from moisture
 
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+
+<div style=\"page-break-after: always\"></div>
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -2161,7 +2191,8 @@ xofluza 80 mg
 
 2D barcode carrying the unique identifier included
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|-------|------------------------------------------|
 
 PC SN
 
@@ -2169,27 +2200,27 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-<div style=\"page-break-after: always\"></div>
+| MINIMUM PARTICULARSTO APPEAR ON BLISTERS OR STRIPS   |
+|------------------------------------------------------|
+| BLISTERS                                             |
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
-|-----------------------------------------------------|
-| BLISTERS                                            |
-
-## 1. NAME OF THE MEDICINAL PRODUCT
+| 1.   | NAMEOF THE MEDICINAL PRODUCT   |
+|------|--------------------------------|
 
 Xofluza 80 mg film-coated tablets baloxavir marboxil
 
-| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
-|------|-------------------------------------------|
+| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
+|------|------------------------------------------|
 
 Roche Registration GmbH
 
-## 3. EXPIRY DATE
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-| 4.   | BATCH NUMBER   |
-|------|----------------|
+| 4.   | BATCHNUMBER   |
+|------|---------------|
 
 Lot
 
@@ -2204,7 +2235,9 @@ CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Xofluza 2 mg/mL granules for oral suspension baloxavir marboxil
+Xofluza 2 mg/mL granules for oral suspension
+
+baloxavir marboxil
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -2250,7 +2283,9 @@ EXP
 
 Keep the bottle tightly closed in order to protect from moisture.
 
-After reconstitution: Do not shake. Do not store above 30 ° C and use within 10 hours.
+After reconstitution: Do not shake. Do not store above 30 
+
+C and use within 10 hours.
 
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
@@ -2320,7 +2355,7 @@ Contains 40 mg of baloxavir marboxil
 
 Keep the bottle tightly closed in order to protect from moisture
 
-After reconstitution: Do not shake. Do not store above 30 ° C and use within 10 hours
+After reconstitution: Do not shake. Do not store above 30  C and use within 10 hours
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2330,7 +2365,9 @@ CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Xofluza 10 mg granules in sachet baloxavir marboxil
+Xofluza 10 mg granules in sachet
+
+baloxavir marboxil
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -2404,25 +2441,23 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| SACHET                                                           |
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS SACHET
 
-1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
+## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
 Xofluza 10 mg granules in sachet baloxavir marboxil Oral use
 
-2. METHOD OF ADMINISTRATION
-3. EXPIRY DATE
+## 2. METHOD OF ADMINISTRATION
+
+## 3. EXPIRY DATE
 
 EXP
 
-| 4.   | BATCH NUMBER<, DONATION AND PRODUCT CODES>   |
-|------|----------------------------------------------|
+## 4. BATCH NUMBER&lt;, DONATION AND PRODUCT CODES&gt;
 
 Lot
 
-5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
+## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
 
 | 6.   | OTHER   |
 |------|---------|
@@ -2435,7 +2470,9 @@ CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Xofluza 30 mg granules in sachet baloxavir marboxil
+Xofluza 30 mg granules in sachet
+
+baloxavir marboxil
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -2509,17 +2546,16 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| SACHET                                                           |
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS SACHET
 
-## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
+1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
 Xofluza 30 mg granules in sachet baloxavir marboxil Oral use
 
 ## 2. METHOD OF ADMINISTRATION
 
-3. EXPIRY DATE
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
@@ -2528,8 +2564,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BYVOLUMEORBYUNIT   |
+|------|----------------------------------------|
 
 | 6.   | OTHER   |
 |------|---------|
@@ -2542,7 +2578,9 @@ CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Xofluza 40 mg granules in sachet baloxavir marboxil
+Xofluza 40 mg granules in sachet
+
+baloxavir marboxil
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -2550,9 +2588,7 @@ Xofluza 40 mg granules in sachet baloxavir marboxil
 
 ## 3. LIST OF EXCIPIENTS
 
-Also contains sodium and maltitol.
-
-See leaflet for further information.
+Also contains sodium and maltitol. See leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -2616,9 +2652,7 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| SACHET                                                           |
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS SACHET
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
@@ -2626,7 +2660,7 @@ Xofluza 40 mg granules in sachet baloxavir marboxil Oral use
 
 ## 2. METHOD OF ADMINISTRATION
 
-3. EXPIRY DATE
+## 3. EXPIRY DATE
 
 EXP
 
@@ -2653,10 +2687,10 @@ baloxavir marboxil
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
-- Keep this leaflet. You may need to read it again.
-- If you have any further questions, ask your doctor or pharmacist.
-- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
+-  Keep this leaflet. You may need to read it again.
+-  If you have any further questions, ask your doctor or pharmacist.
+-  This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+-  If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -2677,14 +2711,14 @@ Xofluza is used for treating and preventing influenza. This medicine stops the i
 
 ## What Xofluza is used for
 
-- Xofluza is used to treat influenza in patients aged 3 weeks and above who have had influenza symptoms for less than 48 hours.
-- Xofluza is used to prevent influenza in individuals aged 3 weeks and above who have been in close contact with someone who is known or suspected to have influenza.
+-  Xofluza is used to treat influenza in patients aged 3 weeks and above who have had influenza symptoms for less than 48 hours.
+-  Xofluza is used to prevent influenza in individuals aged 3 weeks and above who have been in close contact with someone who is known or suspected to have influenza.
 
 ## 2. What you need to know before you take Xofluza
 
 ## Do not take Xofluza if:
 
-- you are allergic to baloxavir marboxil or any of the other ingredients of this medicine (listed in section 6).
+-  you are allergic to baloxavir marboxil or any of the other ingredients of this medicine (listed in section 6).
 
 ## Warnings and precautions
 
@@ -2702,7 +2736,7 @@ Tell your doctor or pharmacist if you are taking, have recently taken or might t
 
 Do not take Xofluza with:
 
-- laxatives, antacids or oral supplements containing iron, zinc, selenium, calcium, or magnesium
+-  laxatives, antacids or oral supplements containing iron, zinc, selenium, calcium, or magnesium
 
 The medicines listed above may decrease the effect of Xofluza.
 
@@ -2720,7 +2754,7 @@ Xofluza contains lactose (a type of sugar). If you have been told by your doctor
 
 ## Xofluza contains sodium
 
-This medicine contains less than 1 mmol (23 mg) of sodium per tablet, that is to say essentially ꞌsodium -free'.
+This medicine contains less than 1 mmol (23 mg) of sodium per tablet, that is to say essentially ꞌ sodium-free'.
 
 ## 3. How to take Xofluza
 
@@ -2766,7 +2800,7 @@ Like all medicines, it is possible for this medicine to cause side effects, alth
 
 ## Get medical help immediately if you get any of the following serious side effects:
 
-- Severe allergic reaction (anaphylaxis), with signs such as swelling of the face or skin, itchy rashes, low blood pressure and difficulty breathing
+-  Severe allergic reaction (anaphylaxis), with signs such as swelling of the face or skin, itchy rashes, low blood pressure and difficulty breathing
 
 The frequency of these side effects cannot be estimated from the available data.
 
@@ -2774,19 +2808,23 @@ The frequency of these side effects cannot be estimated from the available data.
 
 The following side effects are common (can affect up to 1 in every 10 patients):
 
-- Diarrhoea and vomiting
+-  Diarrhoea and vomiting
 
 The following side effect is uncommon (can affect up to 1 in every 100 patients):
 
-- Itchy rash
+-  Itchy rash
 
 <div style=\"page-break-after: always\"></div>
+
+The following side effect has frequency not known (frequency cannot be estimated from the available data):
+
+-  Ischaemic colitis (inflammation of the colon due to reduced blood flow)
 
 ## Children (3 weeks to &lt; 12 years)
 
 The following side effects are common (can affect up to 1 in every 10 patients)
 
-- Diarrhoea, rash and vomiting
+-  Diarrhoea, rash and vomiting
 
 ## Reporting of side effects
 
@@ -2808,9 +2846,9 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What Xofluza contains
 
-- The active substance is baloxavir marboxil.
-- Each 20 mg film-coated tablet contains 20 mg baloxavir marboxil. Each 40 mg film-coated tablet contains 40 mg baloxavir marboxil.
-- The other ingredients are lactose monohydrate (see Section 2 'Xofluza contains lactose'), croscarmellose sodium ((E468) (see Section 2 'Xofluza contains sodium')), povidone (K25) (E1201), microcrystalline cellulose (E460), sodium stearyl fumarate in the tablet core, and hypromellose (E464), talc (E553b) and titanium dioxide (E171) in the film-coating.
+-  The active substance is baloxavir marboxil.
+-  Each 20 mg film-coated tablet contains 20 mg baloxavir marboxil. Each 40 mg film-coated tablet contains 40 mg baloxavir marboxil.
+-  The other ingredients are lactose monohydrate (see Section 2 'Xofluza contains lactose'), croscarmellose sodium ((E468) (see Section 2 'Xofluza contains sodium')), povidone (K25) (E1201), microcrystalline cellulose (E460), sodium stearyl fumarate in the tablet core, and hypromellose (E464), talc (E553b) and titanium dioxide (E171) in the film-coating.
 
 ## What Xofluza looks like and contents of the pack
 
@@ -2822,9 +2860,11 @@ Xofluza 40 mg tablets are white to light yellow, oblong shaped film-coated table
 
 Xofluza 40 mg film-coated tablets are available in blister packs of 2.
 
-Marketing Authorisation Holder Roche Registration GmbH Emil-Barell-Strasse 1 79639 Grenzach-Wyhlen Germany
+## Marketing Authorisation Holder Roche Registration GmbH
 
 <div style=\"page-break-after: always\"></div>
+
+Emil-Barell-Strasse 1 79639 Grenzach-Wyhlen Germany
 
 ## Manufacturer
 
@@ -2834,11 +2874,7 @@ For any information about this medicine, please contact the local representative
 
 ## België/Belgique/Belgien Luxembourg/Luxemburg
 
-N.V. Roche S.A.
-
-België/Belgique/Belgien
-
-Tél/Tel: +32 (0) 2 525 82 11
+N.V. Roche S.A. België/Belgique/Belgien Tél/Tel: +32 (0) 2 525 82 11
 
 ## България
 
@@ -2848,7 +2884,7 @@ Tél/Tel: +32 (0) 2 525 82 11
 
 : +359 2 474 5444
 
-## Česká republika
+## Č eská republika
 
 Roche s. r. o.
 
@@ -2856,9 +2892,7 @@ Tel: +420 - 2 20382111
 
 ## Danmark
 
-Roche Pharmaceuticals A/S
-
-Tlf.: +45 - 36 39 99 99
+Roche Pharmaceuticals A/S Tlf.: +45 - 36 39 99 99
 
 ## Deutschland
 
@@ -2874,11 +2908,11 @@ Tel: + 372 - 6 177 380
 
 ## Ελλάδα , Κύπρος
 
-Roche (Hellas) A.E.
+Roche (Hellas) A.E. Ελλάδα
 
-Ελλάδα
+Τηλ
 
-Τηλ: +30 210 61 66 100
+: +30 210 61 66 100
 
 ## España
 
@@ -2898,14 +2932,6 @@ Roche d.o.o.
 
 Tel: + 385 1 47 22 333
 
-## Ireland, Malta
-
-Roche Products (Ireland) Ltd.
-
-Ireland/L-Irlanda
-
-Tel: +353 (0) 1 469 0700
-
 ## Latvija
 
 Roche Latvija SIA
@@ -2920,9 +2946,7 @@ Tel: +370 5 2546799
 
 ## Magyarország
 
-Roche (Magyarország) Kft.
-
-Tel: +36 - 1 279 4500
+Roche (Magyarország) Kft. Tel: +36 - 1 279 4500
 
 ## Nederland
 
@@ -2932,9 +2956,7 @@ Tel: +31 (0) 348 438050
 
 ## Norge
 
-Roche Norge AS
-
-Tlf: +47 - 22 78 90 00
+Roche Norge AS Tlf: +47 - 22 78 90 00
 
 ## Österreich
 
@@ -2950,15 +2972,11 @@ Tel: +48 - 22 345 18 88
 
 ## Portugal
 
-Roche Farmacêutica Química, Lda
-
-Tel: +351 - 21 425 70 00
+Roche Farmacêutica Química, Lda Tel: +351 - 21 425 70 00
 
 ## România
 
-Roche România S.R.L.
-
-Tel: +40 21 206 47 01
+Roche România S.R.L. Tel: +40 21 206 47 01
 
 ## Slovenija
 
@@ -2966,13 +2984,13 @@ Roche farmacevtska družba d.o.o.
 
 Tel: +386 - 1 360 26 00
 
-## Slovenská republika
-
-Roche Slovensko, s.r.o.
-
-Tel: +421 - 2 52638201
-
 <div style=\"page-break-after: always\"></div>
+
+## Ireland, Malta
+
+Roche Products (Ireland) Ltd. Ireland/L-Irlanda
+
+Tel: +353 (0) 1 469 0700
 
 ## Ísland
 
@@ -2992,13 +3010,19 @@ Tel: +39 - 039 2471
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
+## Slovenská republika
+
+Roche Slovensko, s.r.o.
+
+Tel: +421 - 2 52638201
+
 ## Suomi/Finland
 
 Roche Oy
 
 Puh/Tel: +358 (0) 10 554 500
 
-Sverige
+## Sverige
 
 Roche AB
 
@@ -3014,10 +3038,10 @@ baloxavir marboxil
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
-- Keep this leaflet. You may need to read it again.
-- If you have any further questions, ask your doctor or pharmacist.
-- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
+-  Keep this leaflet. You may need to read it again.
+-  If you have any further questions, ask your doctor or pharmacist.
+-  This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+-  If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -3038,14 +3062,14 @@ Xofluza is used for treating and preventing influenza. This medicine stops the i
 
 ## What Xofluza is used for
 
-- Xofluza is used to treat influenza in patients aged 3 weeks and above who have had influenza symptoms for less than 48 hours.
-- Xofluza is used to prevent influenza in individuals aged 3 weeks and above who have been in close contact with someone who is known or suspected to have influenza.
+-  Xofluza is used to treat influenza in patients aged 3 weeks and above who have had influenza symptoms for less than 48 hours.
+-  Xofluza is used to prevent influenza in individuals aged 3 weeks and above who have been in close contact with someone who is known or suspected to have influenza.
 
 ## 2. What you need to know before you take Xofluza
 
 ## Do not take Xofluza if:
 
-- you are allergic to baloxavir marboxil or any of the other ingredients of this medicine (listed in section 6).
+-  you are allergic to baloxavir marboxil or any of the other ingredients of this medicine (listed in section 6).
 
 ## Warnings and precautions
 
@@ -3063,7 +3087,7 @@ Tell your doctor or pharmacist if you are taking, have recently taken or might t
 
 Do not take Xofluza with:
 
-- laxatives, antacids or oral supplements containing iron, zinc, selenium, calcium, or magnesium
+-  laxatives, antacids or oral supplements containing iron, zinc, selenium, calcium, or magnesium
 
 The medicines listed above may decrease the effect of Xofluza.
 
@@ -3081,7 +3105,7 @@ Xofluza contains lactose (a type of sugar). If you have been told by your doctor
 
 ## Xofluza contains sodium
 
-This medicine contains less than 1 mmol (23 mg) of sodium per tablet, that is to say essentially ꞌsodium -free'.
+This medicine contains less than 1 mmol (23 mg) of sodium per tablet, that is to say essentially ꞌ sodium-free'.
 
 ## 3. How to take Xofluza
 
@@ -3127,7 +3151,7 @@ Like all medicines, it is possible for this medicine to cause side effects, alth
 
 ## Get medical help immediately if you get any of the following serious side effects:
 
-- Severe allergic reaction (anaphylaxis), with signs such as swelling of the face or skin, itchy rashes, low blood pressure and difficulty breathing
+-  Severe allergic reaction (anaphylaxis), with signs such as swelling of the face or skin, itchy rashes, low blood pressure and difficulty breathing
 
 The frequency of these side effects cannot be estimated from the available data.
 
@@ -3135,19 +3159,23 @@ The frequency of these side effects cannot be estimated from the available data.
 
 The following side effects are common (can affect up to 1 in every 10 patients):
 
-- Diarrhoea and vomiting
+-  Diarrhoea and vomiting
 
 The following side effect is uncommon (can affect up to 1 in every 100 patients):
 
-- Itchy rash
+-  Itchy rash
 
 <div style=\"page-break-after: always\"></div>
+
+The following side effect has frequency not known (frequency cannot be estimated from the available data):
+
+-  Ischaemic colitis (inflammation of the colon due to reduced blood flow)
 
 ## Children (3 weeks to &lt; 12 years)
 
 The following side effects are common (can affect up to 1 in every 10 patients)
 
-- Diarrhoea, rash and vomiting
+-  Diarrhoea, rash and vomiting
 
 ## Reporting of side effects
 
@@ -3169,9 +3197,9 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What Xofluza contains
 
-- The active substance is baloxavir marboxil.
-- Each 40 mg film-coated tablet contains 40 mg baloxavir marboxil. Each 80 mg film-coated tablet contains 80 mg baloxavir marboxil.
-- The other ingredients are lactose monohydrate (see Section 2 'Xofluza contains lactose'), croscarmellose sodium ((E468) (see Section 2 'Xofluza contains sodium')), povidone (K25) (E1201), microcrystalline cellulose (E460), sodium stearyl fumarate in the tablet core, and hypromellose (E464), talc (E553b) and titanium dioxide (E171) in the film-coating.
+-  The active substance is baloxavir marboxil.
+-  Each 40 mg film-coated tablet contains 40 mg baloxavir marboxil. Each 80 mg film-coated tablet contains 80 mg baloxavir marboxil.
+-  The other ingredients are lactose monohydrate (see Section 2 'Xofluza contains lactose'), croscarmellose sodium ((E468) (see Section 2 'Xofluza contains sodium')), povidone (K25) (E1201), microcrystalline cellulose (E460), sodium stearyl fumarate in the tablet core, and hypromellose (E464), talc (E553b) and titanium dioxide (E171) in the film-coating.
 
 ## What Xofluza looks like and contents of the pack
 
@@ -3183,7 +3211,9 @@ Xofluza 80 mg tablets are white to light yellow, oblong shaped film-coated table
 
 Xofluza 80 mg film-coated tablets are available in blister packs of 1.
 
-Marketing Authorisation Holder Roche Registration GmbH Emil-Barell-Strasse 1 79639 Grenzach-Wyhlen Germany
+## Marketing Authorisation Holder Roche Registration GmbH
+
+Emil-Barell-Strasse 1 79639 Grenzach-Wyhlen Germany
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3205,7 +3235,7 @@ N.V. Roche S.A. België/Belgique/Belgien Tél/Tel: +32 (0) 2 525 82 11
 
 : +359 2 474 5444
 
-## Česká republika
+## Č eská republika
 
 Roche s. r. o.
 
@@ -3231,9 +3261,13 @@ Tel: + 372 - 6 177 380
 
 ## Ελλάδα , Κύπρος
 
-Roche (Hellas) A.E. Ελλάδα
+Roche (Hellas) A.E.
 
-Τηλ: +30 210 61 66 100
+Ελλάδα
+
+Τηλ
+
+: +30 210 61 66 100
 
 ## España
 
@@ -3252,14 +3286,6 @@ Tél: +33 (0)1 47 61 40 00
 Roche d.o.o.
 
 Tel: + 385 1 47 22 333
-
-## Ireland, Malta
-
-Roche Products (Ireland) Ltd.
-
-Ireland/L-Irlanda
-
-Tel: +353 (0) 1 469 0700
 
 ## Latvija
 
@@ -3321,31 +3347,21 @@ Roche farmacevtska družba d.o.o.
 
 Tel: +386 - 1 360 26 00
 
+## Ireland, Malta
+
+Roche Products (Ireland) Ltd. Ireland/L-Irlanda
+
+Tel: +353 (0) 1 469 0700
+
 ## Slovenská republika
 
 Roche Slovensko, s.r.o.
 
 Tel: +421 - 2 52638201
 
-<div style=\"page-break-after: always\"></div>
-
 ## Ísland
 
-Roche Pharmaceuticals A/S c/o Icepharma hf
-
-Sími: +354 540 8000
-
-## Italia
-
-Roche S.p.A.
-
-Tel: +39 - 039 2471
-
-## This leaflet was last revised in
-
-## Other sources of information
-
-Detailed information on this medicine is available on the European Medicines Agency web site https://www.ema.europa.eu.
+Roche Pharmaceuticals A/S c/o Icepharma hf Sími: +354 540 8000
 
 ## Suomi/Finland
 
@@ -3353,9 +3369,25 @@ Roche Oy
 
 Puh/Tel: +358 (0) 10 554 500
 
-Sverige Roche AB
+## Italia
+
+Roche S.p.A.
+
+Tel: +39 - 039 2471
+
+## Sverige
+
+Roche AB
 
 Tel: +46 (0) 8 726 1200
+
+<div style=\"page-break-after: always\"></div>
+
+## This leaflet was last revised in
+
+## Other sources of information
+
+Detailed information on this medicine is available on the European Medicines Agency web site https://www.ema.europa.eu.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3367,11 +3399,11 @@ Tel: +46 (0) 8 726 1200
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
-- Keep this leaflet. You may need to read it again.
-- The information in this leaflet is for you or someone you are caring for - but in the leaflet we just say 'you'.
-- If you have any further questions, ask your doctor or pharmacist.
-- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
+-  Keep this leaflet. You may need to read it again.
+-  The information in this leaflet is for you or someone you are caring for - but in the leaflet we just say 'you'.
+-  If you have any further questions, ask your doctor or pharmacist.
+-  This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+-  If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -3392,14 +3424,14 @@ Xofluza is used for treating and preventing influenza. This medicine stops the i
 
 ## What Xofluza is used for
 
-- Xofluza is used to treat influenza in patients aged 3 weeks and above who have had influenza symptoms for less than 48 hours.
-- Xofluza is used to prevent influenza in individuals aged 3 weeks and above who have been in close contact with someone who is known or suspected to have influenza.
+-  Xofluza is used to treat influenza in patients aged 3 weeks and above who have had influenza symptoms for less than 48 hours.
+-  Xofluza is used to prevent influenza in individuals aged 3 weeks and above who have been in close contact with someone who is known or suspected to have influenza.
 
 ## 2. What you need to know before you take Xofluza
 
 ## Do not take Xofluza if:
 
-- you are allergic to baloxavir marboxil or any of the other ingredients of this medicine (listed in section 6).
+-  you are allergic to baloxavir marboxil or any of the other ingredients of this medicine (listed in section 6).
 
 ## Warnings and precautions
 
@@ -3417,7 +3449,7 @@ Tell your doctor or pharmacist if you are taking, have recently taken or might t
 
 Do not take Xofluza with:
 
-- laxatives, antacids or oral supplements containing iron, zinc, selenium, calcium, or magnesium. The medicines listed above may decrease the effect of Xofluza.
+-  laxatives, antacids or oral supplements containing iron, zinc, selenium, calcium, or magnesium. The medicines listed above may decrease the effect of Xofluza.
 
 ## Pregnancy and breast-feeding
 
@@ -3481,7 +3513,7 @@ Like all medicines, it is possible for this medicine to cause side effects, alth
 
 ## Get medical help immediately if you get any of the following serious side effects:
 
-- Severe allergic reaction (anaphylaxis), with signs such as swelling of the face or skin, itchy rashes, low blood pressure and difficulty breathing.
+-  Severe allergic reaction (anaphylaxis), with signs such as swelling of the face or skin, itchy rashes, low blood pressure and difficulty breathing.
 
 The frequency of these side effects cannot be estimated from the available data.
 
@@ -3489,11 +3521,15 @@ The frequency of these side effects cannot be estimated from the available data.
 
 The following side effects are common (can affect up to 1 in every 10 patients):
 
-- Diarrhoea and vomiting
+-  Diarrhoea and vomiting
 
 The following side effect is uncommon (can affect up to 1 in every 100 patients):
 
-- Itchy rash
+-  Itchy rash
+
+The following side effect has frequency not known (frequency cannot be estimated from the available data):
+
+-  Ischaemic colitis (inflammation of the colon due to reduced blood flow)
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3501,7 +3537,7 @@ The following side effect is uncommon (can affect up to 1 in every 100 patients)
 
 The following side effects are common (can affect up to 1 in every 10 patients):
 
-- Diarrhoea, rash and vomiting
+-  Diarrhoea, rash and vomiting
 
 ## Reporting of side effects
 
@@ -3515,7 +3551,7 @@ Do not use this medicine after the expiry date which is stated on the carton and
 
 Before reconstitution: Keep the bottle tightly closed in order to protect from moisture.
 
-After reconstitution: Do not store above 30 ° C and use within 10 hours.
+After reconstitution: Do not store above 30  C and use within 10 hours.
 
 Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
 
@@ -3523,15 +3559,15 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What Xofluza contains
 
-- The active substance is baloxavir marboxil.
-- Each bottle of granules for oral suspension contains 40 mg baloxavir marboxil.
-- The other ingredients are silica, colloidal anhydrous (E551), hypromellose (E464), maltitol ((E965) (see Section 2 'Xofluza contains maltitol')), mannitol (E421), povidone (K25) (E1201), sodium chloride (see Section 2 'Xofluza contains sodium'), strawberry flavour (including propylene glycol), sucralose (E955) and talc (E553b).
+-  The active substance is baloxavir marboxil.
+-  Each bottle of granules for oral suspension contains 40 mg baloxavir marboxil.
+-  The other ingredients are silica, colloidal anhydrous (E551), hypromellose (E464), maltitol ((E965) (see Section 2 'Xofluza contains maltitol')), mannitol (E421), povidone (K25) (E1201), sodium chloride (see Section 2 'Xofluza contains sodium'), strawberry flavour (including propylene glycol), sucralose (E955) and talc (E553b).
 
 ## What Xofluza looks like and contents of the pack
 
-- Xofluza granules are white to light yellow.
-- Xofluza 2 mg/mL granules for oral suspension are provided in an amber bottle with tamper-evident white child-resistant screw cap containing 40 mg granules for mixing with 20 mL drinking water.
-- Each carton contains 1 bottle, 1 press-in bottle adapter (to help get the reconstituted Xofluza oral suspension into the syringe), 1 measuring cup (to measure 20 mL drinking water), 1 oral syringe 3 mL and 1 oral syringe 10 mL (to give the correct amount of medicine via the mouth). Shown on each oral syringe are millilitre (mL) markings (see pictures in Instructions for use) .
+-  Xofluza granules are white to light yellow.
+-  Xofluza 2 mg/mL granules for oral suspension are provided in an amber bottle with tamper-evident white child-resistant screw cap containing 40 mg granules for mixing with 20 mL drinking water.
+-  Each carton contains 1 bottle, 1 press-in bottle adapter (to help get the reconstituted Xofluza oral suspension into the syringe), 1 measuring cup (to measure 20 mL drinking water), 1 oral syringe 3 mL and 1 oral syringe 10 mL (to give the correct amount of medicine via the mouth). Shown on each oral syringe are millilitre (mL) markings (see pictures in Instructions for use) .
 
 For details on how to prepare the oral suspension and how to measure and take or give the medicine, read the Instructions for use.
 
@@ -3563,7 +3599,7 @@ Tél/Tel: +32 (0) 2 525 82 11
 
 : +359 2 474 5444
 
-## Česká republika
+## Č eská republika
 
 Roche s. r. o.
 
@@ -3593,7 +3629,9 @@ Roche (Hellas) A.E.
 
 Ελλάδα
 
-Τηλ: +30 210 61 66 100
+Τηλ
+
+: +30 210 61 66 100
 
 ## España
 
@@ -3647,9 +3685,7 @@ Tel: +48 - 22 345 18 88
 
 ## Portugal
 
-Roche Farmacêutica Química, Lda
-
-Tel: +351 - 21 425 70 00
+Roche Farmacêutica Química, Lda Tel: +351 - 21 425 70 00
 
 ## România
 
@@ -3725,29 +3761,29 @@ baloxavir marboxil
 
 ## Storage
 
-- Before reconstitution: Keep the bottle tightly closed in order to protect from moisture.
-- After reconstitution: Do not store above 30 °C and use within 10 hours.
-- If Xofluza has been exposed to temperatures higher than recommended, it must be thrown away (see Step 15).
-- Always keep Xofluza out of sight and reach of children.
+-  Before reconstitution: Keep the bottle tightly closed in order to protect from moisture.
+-  After reconstitution: Do not store above 30 °C and use within 10 hours.
+-  If Xofluza has been exposed to temperatures higher than recommended, it must be thrown away (see Step 15).
+-  Always keep Xofluza out of sight and reach of children.
 
 ## Important Information
 
-- Wash your hands before and after using Xofluza.
-- If you get Xofluza suspension on your skin, or any surfaces, wash with soap and water.
-- Check the expiry date and whether the product is damaged before use.
-- If you have received Xofluza as a suspension, check the mixing time and use immediately or within 10 hours of mixing.
-- Xofluza may be given through a feeding tube. Follow your doctor or pharmacist's instructions for giving Xofluza through a feeding tube.
+-  Wash your hands before and after using Xofluza.
+-  If you get Xofluza suspension on your skin, or any surfaces, wash with soap and water.
+-  Check the expiry date and whether the product is damaged before use.
+-  If you have received Xofluza as a suspension, check the mixing time and use immediately or within 10 hours of mixing.
+-  Xofluza may be given through a feeding tube. Follow your doctor or pharmacist's instructions for giving Xofluza through a feeding tube.
 - × Do not shake Xofluza.
 
 ## Xofluza Dosing
 
-- Administration of Xofluza differs depending on the weight of the patient.
-- Refer to the table in Step 17 for the correct dose.
+-  Administration of Xofluza differs depending on the weight of the patient.
+-  Refer to the table in Step 17 for the correct dose.
 - o If you are still not sure, ask your doctor or pharmacist.
-- Xofluza oral suspension is taken as a single one-time dose.
-- Give Xofluza immediately after mixing.
+-  Xofluza oral suspension is taken as a single one-time dose.
+-  Give Xofluza immediately after mixing.
 - o If immediate use is not possible, use within 10 hours of mixing.
-- Any unused portion must be thrown away after administration.
+-  Any unused portion must be thrown away after administration.
 - × Do not re-use Xofluza oral suspension for another person.
 
 ## STAGE 1: BEFORE YOU START
@@ -3759,9 +3795,9 @@ baloxavir marboxil
 
 ## Storage conditions
 
-- Granules for Oral Suspension (before reconstitution with water):
+-  Granules for Oral Suspension (before reconstitution with water):
 - × . Keep the bottle tightly closed in order to protect from moisture.
-- Reconstituted Oral Suspension:
+-  Reconstituted Oral Suspension:
 
 Use immediately after reconstitution with drinking water. If immediate use is not possible, the
 
@@ -3774,7 +3810,7 @@ The information in this IFU is for you or someone you care for but in the IFU we
 <div style=\"page-break-after: always\"></div>
 
 - reconstituted product may be stored up to 10 hours (not above 30 °C).
-- Always keep Xofluza out of sight and reach of children.
+-  Always keep Xofluza out of sight and reach of children.
 
 ## Check contents of box
 
@@ -3824,14 +3860,16 @@ The information in this IFU is for you or someone you care for but in the IFU we
 11. Insert the bottle adapter into the opening and push it down.
 - The bottle adapter must be completely pressed against the bottle lip.
 12. Screw the cap tightly back onto the bottle.
-5. Do not shake the bottle.
-
-Shaking creates foam and may cause the wrong dose to be given.
+5. Do not shake the bottle. the wrong dose to be given.
 
 <!-- image -->
 
+Shaking creates foam and may cause
+
 13. Grip the bottle by the cap and slowly swirl with a rotating movement for 1 minute.
 14. Keep Xofluza at room temperature (not above 30 °C) and use it immediately after mixing. If immediate use is not possible, use within 10 hours of mixing.
+
+<!-- image -->
 
 <!-- image -->
 
@@ -3853,6 +3891,9 @@ Shaking creates foam and may cause the wrong dose to be given.
 ## Select the oral syringe
 
 17. Use the dose volume given by your doctor or pharmacist or select the dose volume based on the body weight (see table below). If you are not sure which volume to use, contact your doctor or pharmacist.
+18. Select the oral syringe according to the dose volume.
+- If the dose is higher than 10 mL, you will have to take the medicine from the bottle twice - using the large syringe.
+- If the second withdrawal is less than 3 mL, use the small syringe to withdraw from the bottle.
 
 | Patient's body weight   | Volume of oral suspension   |
 |-------------------------|-----------------------------|
@@ -3861,10 +3902,6 @@ Shaking creates foam and may cause the wrong dose to be given.
 | 80 kg and above         | 40 mL (from two bottles)    |
 
 For example : For a child weighing 12 kg, the dose is 12 mL of Xofluza oral suspension.
-
-18. Select the oral syringe according to the dose volume.
-- If the dose is higher than 10 mL, you will have to take the medicine from the bottle twice - using the large syringe.
-- If the second withdrawal is less than 3 mL, use the small syringe to withdraw from the bottle.
 
 If you feel unsure which oral syringe to select, contact your doctor or pharmacist.
 
@@ -3914,7 +3951,7 @@ For example : For a 12 mL full dose, withdraw 10 mL with the large syringe and t
 
 <div style=\"page-break-after: always\"></div>
 
-26. With the tip of the syringe pointing up, check that:
+26.  With the tip of the syringe pointing up, check that:
 - You have withdrawn the correct volume.
 - There are no large bubbles.
 
@@ -3957,15 +3994,17 @@ Dispose of oral syringe(s) in accordance with local requirements.
 
 <div style=\"page-break-after: always\"></div>
 
-Xofluza 10 mg granules in sachet Xofluza 30 mg granules in sachet Xofluza 40 mg granules in sachet baloxavir marboxil
+Xofluza 10 mg granules in sachet Xofluza 30 mg granules in sachet Xofluza 40 mg granules in sachet
+
+baloxavir marboxil
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
-- Keep this leaflet. You may need to read it again.
-- The information in this leaflet is for you or someone you are caring for - but in the leaflet we just say 'you'.
-- If you have any further questions, ask your doctor or pharmacist.
-- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
+-  Keep this leaflet. You may need to read it again.
+-  The information in this leaflet is for you or someone you are caring for - but in the leaflet we just say 'you'.
+-  If you have any further questions, ask your doctor or pharmacist.
+-  This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+-  If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -3988,14 +4027,14 @@ Xofluza is used for treating and preventing flu (influenza). This medicine stops
 
 Xofluza is used in patients aged 3 weeks and above. It is used to:
 
-- treat flu in patients who have had flu symptoms for less than 48 hours.
-- prevent flu in individuals who have been in close contact with someone who has flu or is likely to have flu.
+-  treat flu in patients who have had flu symptoms for less than 48 hours.
+-  prevent flu in individuals who have been in close contact with someone who has flu or is likely to have flu.
 
 ## 2. What you need to know before you take Xofluza
 
 ## Do not take Xofluza if:
 
-- you are allergic to baloxavir marboxil or any of the other ingredients of this medicine (listed in section 6).
+-  you are allergic to baloxavir marboxil or any of the other ingredients of this medicine (listed in section 6).
 
 ## Warnings and precautions
 
@@ -4013,9 +4052,9 @@ Tell your doctor or pharmacist if you are taking, have recently taken or might t
 
 Do not take Xofluza with:
 
-- laxatives
-- antacids
-- oral supplements containing iron, zinc, selenium, calcium, or magnesium.
+-  laxatives
+-  antacids
+-  oral supplements containing iron, zinc, selenium, calcium, or magnesium.
 
 The medicines listed above may decrease the effect of Xofluza.
 
@@ -4031,17 +4070,17 @@ Xofluza is not likely to change your ability to drive and to use machines.
 
 This medicine contains sodium (salt)
 
-- 10 mg and 30 mg Xofluza granules in sachets each contain less than 23 mg of sodium (main component of cooking/table salt), making it essentially ´sodium-free´.
-- ·
+-  10 mg and 30 mg Xofluza granules in sachets each contain less than 23 mg of sodium (main component of cooking/table salt), making it essentially ´sodium-free´.
+- 
 - 40 mg Xofluza granules in sachet contain 23.6 mg of sodium (main component of cooking/table salt). This is equivalent to 1.2 % of the recommended maximum daily dietary intake of sodium .
 
 ## Xofluza contains maltitol
 
 This medicine contains maltitol:
 
-- 10 mg Xofluza granules in sachet contain 175 mg of maltitol
-- 30 mg Xofluza granules in sachet contain 525 mg of maltitol
-- 40 mg Xofluza granules in sachet contain 700 mg of maltitol
+-  10 mg Xofluza granules in sachet contain 175 mg of maltitol
+-  30 mg Xofluza granules in sachet contain 525 mg of maltitol
+-  40 mg Xofluza granules in sachet contain 700 mg of maltitol
 
 If you have been told by your doctor that you have an intolerance to some sugars, contact your doctor before taking this medicine.
 
@@ -4067,7 +4106,7 @@ The dose of Xofluza depends on how much you weigh. Your doctor or pharmacist wil
 
 | Patient's body weight     | Xofluza dose              |
 |---------------------------|---------------------------|
-| Under 9 kg                | 2 mg/kg a                 |
+| Under 9 kg               | 2 mg/kg a                 |
 | From 9 kg to under 15 kg  | 20 mg (two 10 mg sachets) |
 | From 15 kg to under 20 kg | 30 mg                     |
 | From 20 kg to under 80 kg | 40 mg                     |
@@ -4085,8 +4124,8 @@ If you accidentally take more of this medicine than you should, talk to your doc
 
 If you forget to take some or all of the dose, take it as soon as possible.
 
-- To treat flu - take within 48 hours of your flu symptoms starting.
-- To prevent flu - take within 48 hours of close contact with a possibly infected person.
+-  To treat flu - take within 48 hours of your flu symptoms starting.
+-  To prevent flu - take within 48 hours of close contact with a possibly infected person.
 
 ## 4. Possible side effects
 
@@ -4098,13 +4137,13 @@ Like all medicines, it is possible for this medicine to cause side effects, alth
 
 Get medical help immediately if you get any of the following serious side effects -you may need urgent medical treatment as they could be signs of a severe allergic reaction (anaphylaxis):
 
-- swelling of the face or skin
+-  swelling of the face or skin
 
 <div style=\"page-break-after: always\"></div>
 
-- itchy rashes
-- low blood pressure
-- difficulty breathing.
+-  itchy rashes
+-  low blood pressure
+-  difficulty breathing.
 
 The frequency of these side effects cannot be estimated from the available data.
 
@@ -4112,20 +4151,24 @@ The frequency of these side effects cannot be estimated from the available data.
 
 Common may affect up to 1 in 10 people:
 
-- diarrhoea
-- vomiting
+-  diarrhoea
+-  vomiting
 
 Uncommon may affect up to 1 in 100 people:
 
-- itchy rash
+-  itchy rash
+
+Not known (frequency cannot be estimated from the available data):
+
+-  ischaemic colitis (inflammation of the colon due to reduced blood flow)
 
 ## Side effects in children from 3 weeks to under 12 years old
 
 Common may affect up to 1 in 10 people:
 
-- diarrhoea
-- rash
-- vomiting
+-  diarrhoea
+-  rash
+-  vomiting
 
 ## Reporting of side effects
 
@@ -4145,17 +4188,17 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What Xofluza contains
 
-- The active substance is baloxavir marboxil.
-- Each sachet contains 10 mg, 30 mg or 40 mg baloxavir marboxil.
-- The other ingredients are silica, colloidal anhydrous (E551), hypromellose (E464), maltitol ((E965) (see Section 2 'Xofluza contains maltitol')), mannitol (E421), povidone (K25) (E1201), sodium chloride (see Section 2 'Xofluza contains sodium'), strawberry flavour (including propylene glycol), sucralose (E955) and talc (E553b).
+-  The active substance is baloxavir marboxil.
+-  Each sachet contains 10 mg, 30 mg or 40 mg baloxavir marboxil.
+-  The other ingredients are silica, colloidal anhydrous (E551), hypromellose (E464), maltitol ((E965) (see Section 2 'Xofluza contains maltitol')), mannitol (E421), povidone (K25) (E1201), sodium chloride (see Section 2 'Xofluza contains sodium'), strawberry flavour (including propylene glycol), sucralose (E955) and talc (E553b).
 
 <div style=\"page-break-after: always\"></div>
 
 ## What Xofluza looks like and contents of the pack
 
-- Xofluza granules are white to light yellow.
-- Xofluza 10 mg, 30 mg or 40 mg granules are provided in laminated foil (polyethylene terephthalate/aluminium/polyethylene) sachets.
-- Each carton contains 1 (30 mg or 40 mg) or 2 (10 mg) sachets.
+-  Xofluza granules are white to light yellow.
+-  Xofluza 10 mg, 30 mg or 40 mg granules are provided in laminated foil (polyethylene terephthalate/aluminium/polyethylene) sachets.
+-  Each carton contains 1 (30 mg or 40 mg) or 2 (10 mg) sachets.
 
 For details on how to prepare the granules for administration and take or give the medicine, read the 'Instructions for Use' section below.
 
@@ -4171,11 +4214,7 @@ For any information about this medicine, please contact the local representative
 
 ## België/Belgique/Belgien, Luxembourg/Luxemburg
 
-N.V. Roche S.A.
-
-België/Belgique/Belgien
-
-Tél/Tel: +32 (0) 2 525 82 11
+N.V. Roche S.A. België/Belgique/Belgien Tél/Tel: +32 (0) 2 525 82 11
 
 ## Latvija
 
@@ -4187,7 +4226,9 @@ Tel: +371 - 6 7039831
 
 Рош България ЕООД
 
-Тел: +359 2 474 54 44
+Тел
+
+: +359 2 474 54 44
 
 ## Lietuva
 
@@ -4195,7 +4236,7 @@ UAB 'Roche Lietuva'
 
 Tel: +370 5 2546799
 
-## Česká republika
+## Č eská republika
 
 Roche s. r. o.
 
@@ -4241,13 +4282,15 @@ Roche Austria GmbH
 
 Tel: +43 (0) 1 27739
 
-## Ελλάδα, Κύπρος
+## Ελλάδα , Κύπρος
 
 Roche (Hellas) A.E.
 
 Ελλάδα
 
-Τηλ: +30 210 61 66 100
+Τηλ
+
+: +30 210 61 66 100
 
 ## Polska
 
@@ -4343,32 +4386,34 @@ Detailed information on this medicine is available on the Euro.pean Medicines Ag
 
 ## Instructions for Use (IFU)
 
-Xofluza 10 mg granules in sachet Xofluza 30 mg granules in sachet Xofluza 40 mg granules in sachet baloxavir marboxil
+Xofluza 10 mg granules in sachet Xofluza 30 mg granules in sachet Xofluza 40 mg granules in sachet
+
+baloxavir marboxil
 
 <!-- image -->
 
 ## Storage
 
-- This medicine does not require any special storage conditions.
-- Always keep Xofluza out of sight and reach of children.
+-   This medicine does not require any special storage conditions.
+-   Always keep Xofluza out of sight and reach of children.
 
 ## Important Information you need to know before preparing and taking / giving Xofluza
 
-- Keep the granules (and the liquid after mixing) away from your skin.
-- Wash your hands before and after using Xofluza.
-- Check the expiry date and the product for damage before use. Do not use if expired or damaged.
+-   Keep the granules (and the liquid after mixing) away from your skin.
+-  Wash your hands before and after using Xofluza.
+-  Check the expiry date and the product for damage before use. Do not use if expired or damaged.
 
 ## Taking or giving Xofluza
 
-- The dose of Xofluza differs depending on the weight of the patient. Refer to the table below. If you are still not sure, ask your doctor or pharmacist.
-- Xofluza is taken as a single one-time dose.
-- You must mix Xofluza with about 1 tablespoon (approximately 15-20 mL) of drinking water.
-- Take Xofluza immediately after mixing.
-- You can give Xofluza through a feeding tube. Follow your doctor or pharmacist's instructions for giving Xofluza through a feeding tube.
+-  The dose of Xofluza differs depending on the weight of the patient. Refer to the table below. If you are still not sure, ask your doctor or pharmacist.
+-  Xofluza is taken as a single one-time dose.
+-  You must mix Xofluza with about 1 tablespoon (approximately 15-20 mL) of drinking water.
+-  Take Xofluza immediately after mixing.
+-  You can give Xofluza through a feeding tube. Follow your doctor or pharmacist's instructions for giving Xofluza through a feeding tube.
 
 | Patient's body weight     | Xofluza dose              |
 |---------------------------|---------------------------|
-| Under 9 kg                | 2 mg/kg a                 |
+| Under 9 kg               | 2 mg/kg a                 |
 | From 9 kg to under 15 kg  | 20 mg (two 10 mg sachets) |
 | From 15 kg to under 20 kg | 30 mg                     |
 | From 20 kg to under 80 kg | 40 mg                     |
@@ -4376,8 +4421,8 @@ Xofluza 10 mg granules in sachet Xofluza 30 mg granules in sachet Xofluza 40 mg 
 
 ## Read these entire Instructions for Use and the leaflet information above before preparing and taking or giving Xofluza.
 
-- Ask your doctor or pharmacist to show you how to use Xofluza.
-- The information in this IFU is for you or someone you care for, but in the IFU we just say 'you'.
+-  Ask your doctor or pharmacist to show you how to use Xofluza.
+-  The information in this IFU is for you or someone you care for, but in the IFU we just say 'you'.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -4391,11 +4436,13 @@ Preparation and administration for patients who weigh &lt;9 kg must be done by t
 
 <!-- image -->
 
+<!-- image -->
+
 | Step 1: Wash your hands.                                                                                                                                                                                                                                                                                                                                                              |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Step 2: Check your dose (refer to Table above). • Count the number of sachets you need for your dose. • For a 20 mg dose, use 2 of the 10 mg sachets. Take both sachets together as instructed below • For an 80 mg dose, use 2 of the 40 mg sachets. Take the sachets separately . Follow steps 3 to 9 to take the first sachet, then repeat steps 3 to 9 to take the second sachet. |
-| Step 3. Get your materials together. You will need: • The number of sachets for your dose • A tablespoon • A small clean cup containing a tablespoon (15-20 mL) of drinking water.                                                                                                                                                                                                    |
-| Step 4. Tap the sachet(s) to ensure the granules are on one side of the sachet(s). • Open the sachet(s) by hand or with scissors. • Take care not to cut the granules with the scissors.                                                                                                                                                                                              |
+| Step 2: Check your dose (refer to Table above).  Count the number of sachets you need for your dose.  For a 20 mg dose, use 2 of the 10 mg sachets. Take both sachets together as instructed below  For an 80 mg dose, use 2 of the 40 mg sachets. Take the sachets separately . Follow steps 3 to 9 to take the first sachet, then repeat steps 3 to 9 to take the second sachet. |
+| Step 3. Get your materials together. You will need:  The number of sachets for your dose  A tablespoon  A small clean cup containing a tablespoon (15-20 mL) of drinking water.                                                                                                                                                                                                    |
+| Step 4. Tap the sachet(s) to ensure the granules are on one side of the sachet(s).  Open the sachet(s) by hand or with scissors.  Take care not to cut the granules with the scissors.                                                                                                                                                                                              |
 | Step 5. Add the granules to the cup containing about 15-20 mL of drinking water. Tap the sachet to ensure all the granules have been removed.                                                                                                                                                                                                                                         |
 
 <div style=\"page-break-after: always\"></div>
@@ -4405,7 +4452,7 @@ Preparation and administration for patients who weigh &lt;9 kg must be done by t
 | Step 6. Gently swirl the cup for 1 minute, or until the granules have fully dispersed.                                    |
 |---------------------------------------------------------------------------------------------------------------------------|
 | Step 7. Drink immediately.                                                                                                |
-| Step 8. Refill the cup with about 15-20 mL of drinking water. • Swirl to get any remaining granules. • Drink immediately. |
+| Step 8. Refill the cup with about 15-20 mL of drinking water.  Swirl to get any remaining granules.  Drink immediately. |
 | Step 9. Repeat Step 8 one more time if there are still remaining granules in the cup.                                     |
 | Step 10. Wash your hands and all items used to give Xofluza.                                                              |
 | Step 11. Throw away the empty sachet(s) in accordance with local requirements.                                            |

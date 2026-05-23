@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-02-05 14:03:14
+document_datetime: 2026-05-22 13:07:36
 document_pages: 42
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/yuvanci-epar-product-information_en.pdf
 document_name: yuvanci-epar-product-information_en.pdf
 version: success
-processing_time: 8.8691375
-conversion_datetime: 2026-02-09 22:12:53.138143
+processing_time: 17.1762587
+conversion_datetime: 2026-05-23 08:22:33.287874
 docling_version:
-  docling-serve: 1.12.0
-  docling-jobkit: 1.10.1
-  docling: 2.72.0
-  docling-core: 2.63.0
-  docling-ibm-models: 3.11.0
-  docling-parse: 4.7.3
+  docling-serve: 1.20.0
+  docling-jobkit: 1.20.0
+  docling: 2.95.0
+  docling-core: 2.77.0
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.11.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -66,11 +66,9 @@ Yuvanci is indicated as substitution therapy for the long-term treatment of pulm
 
 Treatment should only be initiated and monitored by a physician experienced in the treatment of PAH.
 
-Posology
+Posology The recommended dose of Yuvanci is one 10 mg/40 mg tablet taken orally once daily.
 
 <div style=\"page-break-after: always\"></div>
-
-The recommended dose of Yuvanci is one 10 mg/40 mg tablet taken orally once daily.
 
 -  For patients who are currently treated with 10 mg macitentan and 40 mg tadalafil as separate tablets use Yuvanci 10 mg/40 mg tablet
 -  For patients who are currently treated with 10 mg macitentan and 20 mg tadalafil as separate tablets use Yuvanci 10 mg/20 mg tablet. The dose may be increased to 10 mg/40 mg once per day, based on tolerability.
@@ -299,11 +297,9 @@ The safety and efficacy of combinations of tadalafil and other PDE5 inhibitors o
 
 ## Women of childbearing potential / Contraception in males and females
 
-Yuvanci treatment should only be initiated in women of childbearing potential when the absence of pregnancy has been verified, appropriate advice on contraception provided, and reliable contraception is practised (see sections 4.3 and 4.4). Women should not become pregnant for 1 month after
+Yuvanci treatment should only be initiated in women of childbearing potential when the absence of pregnancy has been verified, appropriate advice on contraception provided, and reliable contraception is practised (see sections 4.3 and 4.4). Women should not become pregnant for 1 month after discontinuation of Yuvanci. Monthly pregnancy tests during treatment with Yuvanci are recommended to allow the early detection of pregnancy.
 
 <div style=\"page-break-after: always\"></div>
-
-discontinuation of Yuvanci. Monthly pregnancy tests during treatment with Yuvanci are recommended to allow the early detection of pregnancy.
 
 Yuvanci is contraindicated in women of childbearing potential who are not using reliable contraception (see section 4.3).
 
@@ -466,11 +462,9 @@ In SERAPHIN, macitentan 10 mg monotherapy was associated with a decrease in mean
 
 ## Platelets
 
-In the double-blind period of the A DUE study with Yuvanci in patients with PAH, the mean decrease from baseline in platelets at week 16 was in the Yuvanci arm was 16.2 × 10 9 /L compared with 19.3 × 10 9 /L and 5.6 × 10 9 /L in macitentan and tadalafil arms, respectively. In the combined double-
+In the double-blind period of the A DUE study with Yuvanci in patients with PAH, the mean decrease from baseline in platelets at week 16 was in the Yuvanci arm was 16.2 × 10 9 /L compared with 19.3 × 10 9 /L and 5.6 × 10 9 /L in macitentan and tadalafil arms, respectively. In the combined double- blind / open-label phase of the study, treatment with Yuvanci was associated with a decrease in mean platelet count of 23.3 × 10 9 /L from baseline to week 120 (78 patients).
 
 <div style=\"page-break-after: always\"></div>
-
-blind / open-label phase of the study, treatment with Yuvanci was associated with a decrease in mean platelet count of 23.3 × 10 9 /L from baseline to week 120 (78 patients).
 
 In SERAPHIN, macitentan 10 mg monotherapy was associated with a decrease in mean platelet count from baseline of 17 × 10 9 /L, versus a mean decrease of 11 × 10 9 /L in placebo-treated patients, respectively.
 
@@ -498,11 +492,9 @@ Tadalafil is a potent and selective inhibitor of PDE5, the enzyme responsible fo
 
 ## Clinical efficacy and safety
 
-The efficacy of Yuvanci was demonstrated in a multi-national, multi-centre, double-blind, adaptive, randomised, active-controlled, parallel-group study (A DUE) in 187 patients with PAH (WHO FC IIIII). The study was designed to compare the efficacy and safety of Yuvanci to each monotherapy,
+The efficacy of Yuvanci was demonstrated in a multi-national, multi-centre, double-blind, adaptive, randomised, active-controlled, parallel-group study (A DUE) in 187 patients with PAH (WHO FC IIIII). The study was designed to compare the efficacy and safety of Yuvanci to each monotherapy, macitentan or tadalafil. Patients with pulmonary vascular resistance (PVR) of at least 240 dyn×s/cm 5 were randomised to receive Yuvanci (macitentan 10 mg and tadalafil 40 mg) (n=108), 10 mg macitentan monotherapy (n=35) or 40 mg tadalafil monotherapy (n=44), once daily.
 
 <div style=\"page-break-after: always\"></div>
-
-macitentan or tadalafil. Patients with pulmonary vascular resistance (PVR) of at least 240 dyn×s/cm 5 were randomised to receive Yuvanci (macitentan 10 mg and tadalafil 40 mg) (n=108), 10 mg macitentan monotherapy (n=35) or 40 mg tadalafil monotherapy (n=44), once daily.
 
 Patients who were not on a therapeutic PDE-5i dose at baseline, received a 1-week titration period of macitentan 10 mg and tadalafil 20 mg.
 
@@ -655,7 +647,9 @@ Exposure to tadalafil in patients with PAH was 1.3-fold greater than in healthy 
 
 No clinically relevant effects on the pharmacokinetics of macitentan and tadalafil are observed in elderly or due to race or gender.
 
-No clinically relevant effects on the pharmacokinetics of tadalafil are observed in patients with diabetes.
+No clinically relevant effects on the pharmacokinetics of tadalafil are observed in patients with
+
+diabetes.
 
 ## 5.3 Preclinical safety data
 
@@ -703,7 +697,7 @@ Not applicable.
 
 ## 6.3 Shelf life
 
-2 years.
+3 years.
 
 ## 6.4 Special precautions for storage
 
@@ -727,9 +721,13 @@ No special requirements.
 
 <div style=\"page-break-after: always\"></div>
 
-Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
+Any unused medicinal product or waste material should be disposed of in accordance with local
 
-## 7. MARKETING AUTHORISATION HOLDER
+requirements.
+
+7.
+
+MARKETING AUTHORISATION HOLDER
 
 Janssen-Cilag International NV Turnhoutseweg 30 B-2340 Beerse Belgium
 
@@ -741,7 +739,7 @@ EU/1/24/1859/002
 
 ## 9. DATE OF FIRST AUTHORISATION / RENEWAL OF THE AUTHORISATION
 
-Date of first authorisation: XXXX
+Date of first authorisation: 27 September 2024
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -1403,11 +1401,7 @@ For any information about this medicine, please contact the local representative
 
 ## België/Belgique/Belgien
 
-Janssen-Cilag NV Tel/Tél: +32 14 64 94 11 janssen@jacbe.jnj.com
-
-Lietuva Tel: +370 5 278 68 88 lt@its.jnj.com
-
-UAB \"JOHNSON &amp; JOHNSON\"
+Janssen-Cilag NV Tel/Tél: 0800 93 377 info\\_belux@its.jnj.com Lietuva Tel: +370 5 278 68 88 lt@its.jnj.com UAB \"JOHNSON &amp; JOHNSON\"
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1427,7 +1421,7 @@ Janssen-Cilag A/S Tlf.: +45 4594 8282 jacdk@its.jnj.com
 
 ## Deutschland
 
-Janssen-Cilag GmbH Tel: 0800 086 9247 / +49 2137 955 6955 jancil@its.jnj.com
+Janssen-Cilag GmbH Tel: 0800 086 9247 / +49 2137 955 6955 medinfo-de@its.jnj.com
 
 ## Eesti
 
@@ -1459,7 +1453,7 @@ Janssen-Cilag AB c/o Vistor ehf. Sími: +354 535 7000 janssen@vistor.is
 
 ## Luxembourg/Luxemburg
 
-Janssen-Cilag NV Tél/Tel: +32 14 64 94 11 janssen@jacbe.jnj.com
+Janssen-Cilag NV Tél/Tel: 800 29 504 info\\_belux@its.jnj.com
 
 ## Magyarország
 
@@ -1473,9 +1467,7 @@ Tel: +356 2397 6000
 
 ## Nederland
 
-Janssen-Cilag B.V. Tel: +31 76 711 1111
-
-janssen@jacnl.jnj.com
+Janssen-Cilag B.V. Tel: 0800 242 42 42 info\\_nl@its.jnj.com
 
 ## Norge
 

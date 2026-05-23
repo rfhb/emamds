@@ -1,20 +1,20 @@
 ---
-document_datetime: 2023-09-21 20:19:18
-document_pages: 26
+document_datetime: 2026-05-22 13:12:42
+document_pages: 24
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/yttriga-epar-product-information_en.pdf
 document_name: yttriga-epar-product-information_en.pdf
 version: success
-processing_time: 8.6589022
-conversion_datetime: 2025-12-24 01:27:53.17311
+processing_time: 11.0658147
+conversion_datetime: 2026-05-23 08:23:04.394793
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.20.0
+  docling-jobkit: 1.20.0
+  docling: 2.95.0
+  docling-core: 2.77.0
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.11.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -30,13 +30,7 @@ Yttriga radiopharmaceutical precursor, solution.
 
 1 ml sterile solution contains 0.1-300 GBq Yttrium ( 90 Y) on the reference date and time (corresponding to 0.005-15 micrograms of Yttrium [ 90 Y]) (as Yttrium [ 90 Y] chloride).
 
-Each 3ml vial contains 0.1-300 GBq, corresponding to 0.005-15 micrograms of Yttrium ( 90 reference date and time. The volume is 0.02-3 ml.
-
-Each 10ml vial contains 0.1-300 GBq, corresponding to 0.005-15 micrograms of Yttrium ( 90 reference date and time. The volume is 0.02-5 ml.
-
-The theoretical specific activity is 20 GBq/microgram of Yttrium ( 90
-
-Y), at Y), at Y) (see section 6.5).
+Each 3ml vial contains 0.1-300 GBq, corresponding to 0.005-15 micrograms of Yttrium ( 90 Y), at reference date and time. The volume is 0.02-3 ml. Each 10ml vial contains 0.1-300 GBq, corresponding to 0.005-15 micrograms of Yttrium ( 90 Y), at reference date and time. The volume is 0.02-5 ml. The theoretical specific activity is 20 GBq/microgram of Yttrium ( 90 Y) (see section 6.5).
 
 Yttrium ( 90 Y) chloride is produced by decay of its radioactive precursor Strontium ( 90 Sr). It decays by emission of beta radiation of 2.281 MeV (99.98 %) of maximal energy to stable Zirconium ( 90 Zr). Yttrium ( 90 Y) has a half-life of 2.67 days (64.1 hours).
 
@@ -144,7 +138,7 @@ Reporting suspected adverse reactions after authorisation of the medicinal produ
 
 The presence of free Yttrium ( 90 Y) chloride in the body after an inadvertent administration of Yttriga will lead to increased bone marrow toxicity and haematopoietic stern cell damage.
 
-Therefore, in case of an inadvertent administration of Yttriga, the radiotoxicity for the patient must be reduced by immediate (i. e. within 1 hour) administration of preparations containing chelators like CaDTPA or Ca-EDTA in order to increase the elimination of the radionuclide from the body.
+Therefore, in case of an inadvertent administration of Yttriga, the radiotoxicity for the patient must be reduced by immediate (i. e. within 1 hour) administration of preparations containing chelators like Ca- DTPA or Ca-EDTA in order to increase the elimination of the radionuclide from the body.
 
 The following preparations must be available in medical institutions, which use Yttriga for labelling of carrier molecules for therapeutic purposes:
 
@@ -187,9 +181,9 @@ There are no data available on the toxicity of Yttrium ( 90 Y) chloride nor on i
 
 Hydrochloric acid (0.04 M)
 
-<div style=\"page-break-after: always\"></div>
-
 ## 6.2 Incompatibilities
+
+<div style=\"page-break-after: always\"></div>
 
 Radiolabelling of medicinal products, such as monoclonal antibodies, peptides or other substrates, with Yttrium ( 90 Y) chloride is very sensitive to the presence of trace metal impurities. It is important that all glassware, syringe needles etc, used for the preparation of the radiolabelled medicinal product are thoroughly cleaned to ensure freedom from such trace metal impurities. Only syringe needles (for example, non-metallic) with proven resistance to dilute acid should be used to minimise trace metal impurity levels.
 
@@ -205,7 +199,9 @@ Storage should be in accordance with national regulation on radioactive material
 
 Colourless type I glass vial of 3 ml with a V-shapped bottom or a colourless type I glass vial of 10 ml with a flat bottom with a silicon stopper, closed with an aluminium seal.
 
-Pack size: 1 vial Not all presentations may be marketed.
+Pack size: 1 vial
+
+Not all presentations may be marketed.
 
 ## 6.6 Special precautions for disposal
 
@@ -229,11 +225,9 @@ Date of renewal: 06/01/2011
 
 ## 11. DOSIMETRY
 
-The radiation dose received by the various organs following intravenous administration of an Yttrium ( 90 Y)-labelled medicinal product is dependent on the specific medicinal product being
+The radiation dose received by the various organs following intravenous administration of an Yttrium ( 90 Y)-labelled medicinal product is dependent on the specific medicinal product being radiolabelled. Information on radiation dosimetry of each different medicinal product following administration of the radiolabelled preparation will be available in the Summary of Product Characteristics/package leaflet of the particular medicinal product to be radiolabelled.
 
 <div style=\"page-break-after: always\"></div>
-
-radiolabelled. Information on radiation dosimetry of each different medicinal product following administration of the radiolabelled preparation will be available in the Summary of Product Characteristics/package leaflet of the particular medicinal product to be radiolabelled.
 
 The dosimetry table below is presented in order to evaluate the contribution of non-conjugated Yttrium ( 90 Y) to the radiation dose following the administration of Yttrium ( 90 Y)-labelled medicinal product or resulting from an accidental intravenous injection of Yttriga.
 
@@ -291,8 +285,9 @@ Detailed information on this product is available on the website of the European
 
 ## ANNEX II
 
-- A. MANUFACTURING AUTHORISATION HOLDER RESPONSIBLE FOR BATCH RELEASE
-- B. CONDITIONS OF THE MARKETING AUTHORISATION
+## A. MANUFACTURING AUTHORISATION HOLDER RESPONSIBLE FOR BATCH RELEASE
+
+## B. CONDITIONS OF THE MARKETING AUTHORISATION
 
 <div style=\"page-break-after: always\"></div>
 
@@ -300,7 +295,7 @@ Detailed information on this product is available on the website of the European
 
 Name and address of the manufacturer responsible for batch release
 
-Eckert &amp; Ziegler Radiopharma GmbH Branch Braunschweig Gieselweg 1 D-38110 Braunschweig Germany
+Eckert &amp; Ziegler Therapeutics GmbH Gieselweg 1 D-38110 Braunschweig Germany
 
 ## B CONDITIONS OF THE MARKETING AUTHORISATION
 
@@ -358,9 +353,7 @@ Vol.: {Z} ml
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-For in vitro radiolabelling. Read the package leaflet before use.
-
-NOT INTENDED FOR DIRECT ADMINISTRATION TO PATIENTS
+For in vitro radiolabelling. Read the package leaflet before use. NOT INTENDED FOR DIRECT ADMINISTRATION TO PATIENTS
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE REACH AND SIGHT OF CHILDREN
 
@@ -372,11 +365,11 @@ Keep out of the reach and sight of children.
 
 The vial may contain high pressure due to radiolysis.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 8. EXPIRY DATE
 
-EXP {MM/YYYY} (12h CET)
+<div style=\"page-break-after: always\"></div>
+
+## EXP {MM/YYYY} (12h CET)
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
@@ -384,7 +377,7 @@ Store in the original package.
 
 Storage should be in accordance with local regulations for radioactive substances.
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 Any unused product or waste material should be disposed of in accordance with local requirements.
 
@@ -418,19 +411,15 @@ Justification for not including Braille accepted
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS VIAL LABEL ON PERSPEX SHIELD
 
-VIAL LABEL ON PERSPEX SHIELD
-
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|-------------------------------------------------------------|
+## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
 Yttriga radiopharmaceutical precursor, solution.
 
 Yttrium ( 90 Y) chloride
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+## 2. METHOD OF ADMINISTRATION
 
 For in vitro radiolabelling.
 
@@ -438,18 +427,15 @@ Read the package leaflet before use.
 
 NOT INTENDED FOR DIRECT APPLICATION TO PATIENTS
 
-| 3.   | EXPIRY DATE   |
-|------|---------------|
+## 3. EXPIRY DATE
 
 EXP  (12h CET)
 
-| 4.   | BATCH NUMBER   |
-|------|----------------|
+## 4. BATCH NUMBER
 
 BN
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
 
 Vol.: {Z} ml
 
@@ -457,14 +443,13 @@ Act.: {Y}\\_\\_\\_\\_\\_\\_\\_\\_GBq/vial
 
 Cal.: {DD/MM/AAAA} (12h CET)
 
-| 6.   | OTHER   |
-|------|---------|
+## 6. OTHER
 
 <!-- image -->
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEARONSMALL IMMEDIATE PACKAGING UNITS   |
+| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
 |------------------------------------------------------------------|
 | VIAL                                                             |
 
@@ -534,9 +519,7 @@ Vol.: {Z} ml
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-For in vitro radiolabelling. Read the package leaflet before use.
-
-NOT INTENDED FOR DIRECT ADMINISTRATION TO PATIENTS
+For in vitro radiolabelling. Read the package leaflet before use. NOT INTENDED FOR DIRECT ADMINISTRATION TO PATIENTS
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE REACH AND SIGHT OF CHILDREN
 
@@ -548,11 +531,11 @@ Keep out of the reach and sight of children.
 
 The vial may contain high pressure due to radiolysis.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 8. EXPIRY DATE
 
-EXP {MM/YYYY} (12h CET)
+<div style=\"page-break-after: always\"></div>
+
+## EXP {MM/YYYY} (12h CET)
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
@@ -594,19 +577,15 @@ Justification for not including Braille accepted
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS VIAL LABEL ON PERSPEX SHIELD
 
-VIAL LABEL ON PERSPEX SHIELD
-
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|-------------------------------------------------------------|
+## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
 Yttriga radiopharmaceutical precursor, solution.
 
 Yttrium ( 90 Y) chloride
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+## 2. METHOD OF ADMINISTRATION
 
 For in vitro radiolabelling.
 
@@ -614,18 +593,15 @@ Read the package leaflet before use.
 
 NOT INTENDED FOR DIRECT APPLICATION TO PATIENTS
 
-| 3.   | EXPIRY DATE   |
-|------|---------------|
+## 3. EXPIRY DATE
 
 EXP  (12h CET)
 
-| 4.   | BATCH NUMBER   |
-|------|----------------|
+## 4. BATCH NUMBER
 
 BN
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
 
 Vol.: {Z} ml
 
@@ -633,8 +609,7 @@ Act.: {Y}\\_\\_\\_\\_\\_\\_\\_\\_GBq/vial
 
 Cal.: {DD/MM/AAAA} (12h CET)
 
-| 6.   | OTHER   |
-|------|---------|
+## 6. OTHER
 
 <!-- image -->
 
@@ -729,9 +704,9 @@ Please tell your doctor or pharmacist, if you are taking or have recently taken 
 
 No interactions of Yttrium ( 90 Y) chloride with other medicines are known as no clinical studies are available.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Pregnancy
+
+<div style=\"page-break-after: always\"></div>
 
 Yttriga is contraindicated in Pregnancy.
 
@@ -773,7 +748,7 @@ If any of the side effects gets serious, or if you notice any side effects not l
 
 ## Reporting of side effects
 
-If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
+If you get any side effects, talk to your doctor or pharmacist . This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
 
 ## 5. HOW TO STORE YTTRIGA
 
@@ -807,111 +782,11 @@ Eckert &amp; Ziegler Radiopharma GmbH Robert-Rössle-Str. 10 D-13125 Berlin Germ
 
 Tel +49-30-941084-280
 
-Fax +49- 30-941084-470
-
-e-mail: radiopharma@ezag.de
+e-mail: cs-radiopharma@ezag. com
 
 ## Manufacturer
 
-Eckert &amp; Ziegler Radiopharma GmbH Branch Braunschweig Gieselweg 1 D-38110 Braunschweig Germany
-
-For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
-
-## België/Belgique/Belgien
-
-Eckert &amp; Ziegler Radiopharma GmbH Robert-Rössle-Straße 10 D-13125 Berlin Tél/Tel: +49-30-941084-280 radiopharma@ezag.de
-
-## България
-
-Eckert &amp; Ziegler Radiopharma GmbH
-
-Robert-Rössle-Straße 10 D-13125 Berlin Te л .: +49-30-941084-280 radiopharma@ezag.de
-
-## Lietuva
-
-Eckert &amp; Ziegler Radiopharma GmbH Robert-Rössle-Straße 10 D-13125 Berlin Tel: +49-30-941084-280 radiopharma@ezag.de
-
-## Luxembourg/Luxemburg
-
-Eckert &amp; Ziegler Radiopharma GmbH Robert-Rössle-Straße 10 D-13125 Berlin Tél/Tel: +49-30-941084-280 radiopharma@ezag.de
-
-<div style=\"page-break-after: always\"></div>
-
-## Česká republika
-
-Eckert &amp; Ziegler Radiopharma GmbH Robert-Rössle-Straße 10 D-13125 Berlin Tel: +49-30-941084-280 radiopharma@ezag.de
-
-## Danmark
-
-Eckert &amp; Ziegler Radiopharma GmbH Robert-Rössle-Straße 10 D-13125 Berlin Tlf: +49-30-941084-280 radiopharma@ezag.de
-
-## Deutschland
-
-Eckert &amp; Ziegler Radiopharma GmbH Robert-Rössle-Straße 10 D-13125 Berlin Tel: +49-30-941084-280 radiopharma@ezag.de
-
-## Eesti
-
-Eckert &amp; Ziegler Radiopharma GmbH Robert-Rössle-Straße 10 D-13125 Berlin Tel: +49-30-941084-280 radiopharma@ezag.de
-
-## Ελλάδα
-
-Eckert &amp; Ziegler Radiopharma GmbH Robert-Rössle-Straße 10 D-13125 Berlin Τηλ : +49-30-941084-280 radiopharma@ezag.de
-
-España NUCLIBER, S.A. C/ Hierro, 33 E-28045 Madrid Tel: +34 915 062 940 info@nucliber.com
-
-## France
-
-Eckert &amp; Ziegler Radiopharma GmbH Robert-Rössle-Straße 10 D-13125 Berlin Tél: +49-30-941084-280 radiopharma@ezag.de
-
-Hrvatska Eckert &amp; Ziegler Radiopharma GmbH Robert-Rössle-Straße 10 D-13125 Berlin Tel: +49-30-941084-280 radiopharma@ezag.de
-
-Magyarország Eckert &amp; Ziegler Radiopharma GmbH Robert-Rössle-Straße 10 D-13125 Berlin Tel: +49-30-941084-280 radiopharma@ezag.de
-
-## Malta
-
-Eckert &amp; Ziegler Radiopharma GmbH Robert-Rössle-Straße 10 D-13125 Berlin Tel: +49-30-941084-280 radiopharma@ezag.de
-
-## Nederland
-
-Eckert &amp; Ziegler Radiopharma GmbH Robert-Rössle-Straße 10 D-13125 Berlin Tel: +49-30-941084-280 radiopharma@ezag.de
-
-## Norge
-
-Eckert &amp; Ziegler Radiopharma GmbH Robert-Rössle-Straße 10 D-13125 Berlin Tlf: +49-30-941084-280 radiopharma@ezag.de
-
-Österreich Eckert &amp; Ziegler Radiopharma GmbH Robert-Rössle-Straße 10 D-13125 Berlin Tel: +49-30-941084-280 radiopharma@ezag.de
-
-## Polska
-
-Eckert &amp; Ziegler Radiopharma GmbH Robert-Rössle-Straße 10 D-13125 Berlin Tel: +49-30-941084-280 radiopharma@ezag.de
-
-Portugal Eckert &amp; Ziegler Radiopharma GmbH Robert-Rössle-Straße 10 D-13125 Berlin Tel: +49-30-941084-280 radiopharma@ezag.de
-
-## România
-
-Eckert &amp; Ziegler Radiopharma GmbH Robert-Rössle-Straße 10 D-13125 Berlin Tel: +49-30-941084-280 radiopharma@ezag.de
-
-<div style=\"page-break-after: always\"></div>
-
-## Ireland
-
-Advanced Accelerator Applications (UK &amp; Ireland) Ltd. Edison House, 223-231 Old Marylebone Road, London, NW1 5QT - UK Tel: +44 (0)2072585252 customerservices.UK@adacap.com
-
-## Ísland
-
-Eckert &amp; Ziegler Radiopharma GmbH Robert-Rössle-Straße 10 D-13125 Berlin Sími: +49-30-941084-280 radiopharma@ezag.de
-
-## Italia
-
-Campoverde srl Via Quintiliano, 30 I-20138 Milano Tel: +39-02-58039045 vendite@campoverde-group.com
-
-## Κύπρος
-
-Eckert &amp; Ziegler Radiopharma GmbH Robert-Rössle-Straße 10 D-13125 Berlin Τηλ : +49-30-941084-280 radiopharma@ezag.de
-
-## Latvija
-
-Eckert &amp; Ziegler Radiopharma GmbH Robert-Rössle-Straße 10 D-13125 Berlin Tel: +49-30-941084-280 radiopharma@ezag.de
+Eckert &amp; Ziegler Therapeutics GmbH Gieselweg 1 D-38110 Braunschweig Germany
 
 ## This leaflet was last revised in { MM/YYYY } .
 
@@ -920,23 +795,3 @@ Eckert &amp; Ziegler Radiopharma GmbH Robert-Rössle-Straße 10 D-13125 Berlin T
 Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
 
 This leaflet is available in all EU/EEA languages on the European Medicines Agency website.
-
-## Slovenija
-
-Eckert &amp; Ziegler Radiopharma GmbH Robert-Rössle-Straße 10 D-13125 Berlin Tel: +49-30-941084-280 radiopharma@ezag.de
-
-## Slovenská republika
-
-Eckert &amp; Ziegler Radiopharma GmbH Robert-Rössle-Straße 10 D-13125 Berlin Tel: +49-30-941084-280 radiopharma@ezag.de
-
-## Suomi/Finland
-
-Eckert &amp; Ziegler Radiopharma GmbH Robert-Rössle-Straße 10 D-13125 Berlin Puh/Tel: +49-30-941084-280 radiopharma@ezag.de
-
-## Sverige
-
-Eckert &amp; Ziegler Radiopharma GmbH Robert-Rössle-Straße 10 D-13125 Berlin Tel: +49-30-941084-280 radiopharma@ezag.de
-
-## United Kingdom
-
-Advanced Accelerator Applications (UK &amp; Ireland) Ltd. Edison House, 223-231 Old Marylebone Road, London, NW1 5QT - UK Tel: +44 (0)2072585252 customerservices.UK@adacap.com

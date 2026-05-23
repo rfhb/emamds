@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-02-20 11:42:47
-document_pages: 33
+document_datetime: 2026-05-22 11:51:16
+document_pages: 34
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/sephience-epar-product-information_en.pdf
 document_name: sephience-epar-product-information_en.pdf
 version: success
-processing_time: 15.334531
-conversion_datetime: 2026-02-21 12:31:09.000206
+processing_time: 22.9922117
+conversion_datetime: 2026-05-23 08:24:17.749772
 docling_version:
-  docling-serve: 1.13.0
-  docling-jobkit: 1.11.0
-  docling: 2.74.0
-  docling-core: 2.65.1
-  docling-ibm-models: 3.11.0
-  docling-parse: 5.3.2
+  docling-serve: 1.20.0
+  docling-jobkit: 1.20.0
+  docling: 2.95.0
+  docling-core: 2.77.0
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.11.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -70,7 +70,7 @@ The recommended dose (mg/kg/day) of Sephience to be administered orally once dai
 
 <div style=\"page-break-after: always\"></div>
 
-## Table 1: Recommended d ose based on patient's age and body weight
+## Table 1: Recommended dose based on patient's age and body weight
 
 | Age                    | Recommended dose (mg/kg) of Sephience per day   |
 |------------------------|-------------------------------------------------|
@@ -83,107 +83,107 @@ Tables 2 to 5 below provide dosing information by age group for patients weighin
 
 ## Table 2: Recommended dose of Sephience oral powder in sachet by body weight in paediatric patients aged less than 6 months
 
-| Dose        | 7.5 mg/kg/day   | 7.5 mg/kg/day              | 7.5 mg/kg/day                            |
-|-------------|-----------------|----------------------------|------------------------------------------|
-| Age         | 0 to < 6 months | 0 to < 6 months            | 0 to < 6 months                          |
-| Weight (kg) | Total dose (mg) | Number of sachets (250 mg) | Administered dose volume (mL) (25 mg/mL) |
-| 2           | 15              | 1                          | 0.6                                      |
-| 3           | 22.5            | 1                          | 0.9                                      |
-| 4           | 30              | 1                          | 1.2                                      |
-| 5           | 37.5            | 1                          | 1.5                                      |
-| 6           | 45              | 1                          | 1.8                                      |
-| 7           | 52.5            | 1                          | 2.1                                      |
-| 8           | 60              | 1                          | 2.4                                      |
-| 9           | 67.5            | 1                          | 2.7                                      |
-| 10          | 75              | 1                          | 3                                        |
-| 11          | 82.5            | 1                          | 3.3                                      |
-| 12          | 90              | 1                          | 3.6                                      |
-| 13          | 97.5            | 1                          | 3.9                                      |
-| 14          | 105             | 1                          | 4.2                                      |
-| 15          | 112.5           | 1                          | 4.5                                      |
-| 16          | 120             | 1                          | 4.8                                      |
+| Dose        | 7.5 mg/kg/day   | 7.5 mg/kg/day              | 7.5 mg/kg/day                             |
+|-------------|-----------------|----------------------------|-------------------------------------------|
+| Age         | 0 to < 6 months | 0 to < 6 months            | 0 to < 6 months                           |
+| Weight (kg) | Total dose (mg) | Number of sachets (250 mg) | Volume to be administered (mL) (25 mg/mL) |
+| 2           | 15              | 1                          | 0.6                                       |
+| 3           | 22.5            | 1                          | 0.9                                       |
+| 4           | 30              | 1                          | 1.2                                       |
+| 5           | 37.5            | 1                          | 1.5                                       |
+| 6           | 45              | 1                          | 1.8                                       |
+| 7           | 52.5            | 1                          | 2.1                                       |
+| 8           | 60              | 1                          | 2.4                                       |
+| 9           | 67.5            | 1                          | 2.7                                       |
+| 10          | 75              | 1                          | 3                                         |
+| 11          | 82.5            | 1                          | 3.3                                       |
+| 12          | 90              | 1                          | 3.6                                       |
+| 13          | 97.5            | 1                          | 3.9                                       |
+| 14          | 105             | 1                          | 4.2                                       |
+| 15          | 112.5           | 1                          | 4.5                                       |
+| 16          | 120             | 1                          | 4.8                                       |
 
 ## Table 3: Recommended dose of Sephience oral powder in sachet by body weight in paediatric patients aged 6 months to less than 12 months
 
-| Dose        | 15 mg/kg/day            | 15 mg/kg/day               | 15 mg/kg/day                             |
-|-------------|-------------------------|----------------------------|------------------------------------------|
-| Age         | 6 months to < 12 months | 6 months to < 12 months    | 6 months to < 12 months                  |
-| Weight (kg) | Total dose (mg)         | Number of sachets (250 mg) | Administered dose volume (mL) (25 mg/mL) |
-| 2           | 30                      | 1                          | 1.2                                      |
-| 3           | 45                      | 1                          | 1.8                                      |
-| 4           | 60                      | 1                          | 2.4                                      |
-| 5           | 75                      | 1                          | 3                                        |
-| 6           | 90                      | 1                          | 3.6                                      |
-| 7           | 105                     | 1                          | 4.2                                      |
-| 8           | 120                     | 1                          | 4.8                                      |
-| 9           | 135                     | 1                          | 5.4                                      |
-| 10          | 150                     | 1                          | 6                                        |
-| 11          | 165                     | 1                          | 6.6                                      |
-| 12          | 180                     | 1                          | 7.2                                      |
+| Dose        | 15 mg/kg/day            | 15 mg/kg/day               | 15 mg/kg/day                              |
+|-------------|-------------------------|----------------------------|-------------------------------------------|
+| Age         | 6 months to < 12 months | 6 months to < 12 months    | 6 months to < 12 months                   |
+| Weight (kg) | Total dose (mg)         | Number of sachets (250 mg) | Volume to be administered (mL) (25 mg/mL) |
+| 2           | 30                      | 1                          | 1.2                                       |
+| 3           | 45                      | 1                          | 1.8                                       |
+| 4           | 60                      | 1                          | 2.4                                       |
+| 5           | 75                      | 1                          | 3                                         |
+| 6           | 90                      | 1                          | 3.6                                       |
+| 7           | 105                     | 1                          | 4.2                                       |
+| 8           | 120                     | 1                          | 4.8                                       |
+| 9           | 135                     | 1                          | 5.4                                       |
+| 10          | 150                     | 1                          | 6                                         |
+| 11          | 165                     | 1                          | 6.6                                       |
+| 12          | 180                     | 1                          | 7.2                                       |
 
 <div style=\"page-break-after: always\"></div>
 
-| Dose        | 15 mg/kg/day            | 15 mg/kg/day               | 15 mg/kg/day                             |
-|-------------|-------------------------|----------------------------|------------------------------------------|
-| Age         | 6 months to < 12 months | 6 months to < 12 months    | 6 months to < 12 months                  |
-| Weight (kg) | Total dose (mg)         | Number of sachets (250 mg) | Administered dose volume (mL) (25 mg/mL) |
-| 13          | 195                     | 1                          | 7.8                                      |
-| 14          | 210                     | 1                          | 8.4                                      |
-| 15          | 225                     | 1                          | 9                                        |
-| 16          | 240                     | 1                          | 9.6                                      |
+| Dose        | 15 mg/kg/day            | 15 mg/kg/day               | 15 mg/kg/day                              |
+|-------------|-------------------------|----------------------------|-------------------------------------------|
+| Age         | 6 months to < 12 months | 6 months to < 12 months    | 6 months to < 12 months                   |
+| Weight (kg) | Total dose (mg)         | Number of sachets (250 mg) | Volume to be administered (mL) (25 mg/mL) |
+| 13          | 195                     | 1                          | 7.8                                       |
+| 14          | 210                     | 1                          | 8.4                                       |
+| 15          | 225                     | 1                          | 9                                         |
+| 16          | 240                     | 1                          | 9.6                                       |
 
 ## Table 4: Recommended dose of Sephience oral powder in sachet by body weight in paediatric patients aged 12 months to less than 2 years
 
-| Dose        | 30 mg/kg/day           | 30 mg/kg/day               | 30 mg/kg/day                             |
-|-------------|------------------------|----------------------------|------------------------------------------|
-| Age         | 12 months to < 2 years | 12 months to < 2 years     | 12 months to < 2 years                   |
-| Weight (kg) | Total dose (mg)        | Number of sachets (250 mg) | Administered dose volume (mL) (25 mg/mL) |
-| 2           | 60                     | 1                          | 2.4                                      |
-| 3           | 90                     | 1                          | 3.6                                      |
-| 4           | 120                    | 1                          | 4.8                                      |
-| 5           | 150                    | 1                          | 6                                        |
-| 6           | 180                    | 1                          | 7.2                                      |
-| 7           | 210                    | 1                          | 8.4                                      |
-| 8           | 240                    | 1                          | 9.6                                      |
-| 9           | 270                    | 2                          | 10.8                                     |
-| 10          | 300                    | 2                          | 12                                       |
-| 11          | 330                    | 2                          | 13.2                                     |
-| 12          | 360                    | 2                          | 14.4                                     |
-| 13          | 390                    | 2                          | 15.6                                     |
-| 14          | 420                    | 2                          | 16.8                                     |
-| 15          | 450                    | 2                          | 18                                       |
-| 16          | 480                    | 2                          | 19.2                                     |
+| Dose        | 30 mg/kg/day           | 30 mg/kg/day               | 30 mg/kg/day                              |
+|-------------|------------------------|----------------------------|-------------------------------------------|
+| Age         | 12 months to < 2 years | 12 months to < 2 years     | 12 months to < 2 years                    |
+| Weight (kg) | Total dose (mg)        | Number of sachets (250 mg) | Volume to be administered (mL) (25 mg/mL) |
+| 2           | 60                     | 1                          | 2.4                                       |
+| 3           | 90                     | 1                          | 3.6                                       |
+| 4           | 120                    | 1                          | 4.8                                       |
+| 5           | 150                    | 1                          | 6                                         |
+| 6           | 180                    | 1                          | 7.2                                       |
+| 7           | 210                    | 1                          | 8.4                                       |
+| 8           | 240                    | 1                          | 9.6                                       |
+| 9           | 270                    | 2                          | 10.8                                      |
+| 10          | 300                    | 2                          | 12                                        |
+| 11          | 330                    | 2                          | 13.2                                      |
+| 12          | 360                    | 2                          | 14.4                                      |
+| 13          | 390                    | 2                          | 15.6                                      |
+| 14          | 420                    | 2                          | 16.8                                      |
+| 15          | 450                    | 2                          | 18                                        |
+| 16          | 480                    | 2                          | 19.2                                      |
 
 ## Table 5: Recommended dose of Sephience oral powder in sachet by body weight in paediatric patients aged 2 years and older
 
-| Dose        | 60 mg/kg/day    | 60 mg/kg/day               | 60 mg/kg/day                             |
-|-------------|-----------------|----------------------------|------------------------------------------|
-| Age         | ≥ 2 years       | ≥ 2 years                  | ≥ 2 years                                |
-| Weight (kg) | Total dose (mg) | Number of sachets (250 mg) | Administered dose volume (mL) (25 mg/mL) |
-| 5           | 300             | 2                          | 12                                       |
-| 6           | 360             | 2                          | 14.4                                     |
-| 7           | 420             | 2                          | 16.8                                     |
-| 8           | 480             | 2                          | 19.2                                     |
-| 9           | 540             | 3                          | 21.6                                     |
-| 10          | 600             | 3                          | 24                                       |
-| 11          | 660             | 3                          | 26.4                                     |
-| 12          | 720             | 3                          | 28.8                                     |
-| 13          | 780             | 4*                         | 31.2                                     |
-| 14          | 840             | 4*                         | 33.6                                     |
-| 15          | 900             | 4*                         | 36                                       |
-| 16          | 960             | 4*                         | 38.4                                     |
+| Dose        | 60 mg/kg/day    | 60 mg/kg/day               | 60 mg/kg/day                              |
+|-------------|-----------------|----------------------------|-------------------------------------------|
+| Age         | ≥ 2 years       | ≥ 2 years                  | ≥ 2 years                                 |
+| Weight (kg) | Total dose (mg) | Number of sachets (250 mg) | Volume to be administered (mL) (25 mg/mL) |
+| 5           | 300             | 2                          | 12                                        |
+| 6           | 360             | 2                          | 14.4                                      |
+| 7           | 420             | 2                          | 16.8                                      |
+| 8           | 480             | 2                          | 19.2                                      |
+| 9           | 540             | 3                          | 21.6                                      |
+| 10          | 600             | 3                          | 24                                        |
+| 11          | 660             | 3                          | 26.4                                      |
+| 12          | 720             | 3                          | 28.8                                      |
+| 13          | 780             | 4*                         | 31.2                                      |
+| 14          | 840             | 4*                         | 33.6                                      |
+| 15          | 900             | 4*                         | 36                                        |
+| 16          | 960             | 4*                         | 38.4                                      |
 
 4
 
 <div style=\"page-break-after: always\"></div>
 
-* Instead of four 250 mg sachets, one full 1 000 mg sachet can be mixed with 36 mL of water or apple juice. This mixture should be administered with a syringe, according to the administered dose volume detailed in Table 5.
+* Instead of four 250 mg sachets, one full 1 000 mg sachet can be mixed with 36 mL of water or apple juice. This mixture should be administered with a syringe, according to the volume to be administered detailed in Table 5.
 
-Recommended dose of Sephience oral powder in sachet by body weight for patients 2 years and older and weighing 16 kg or more
+Recommended dose of Sephience oral powder in sachet by body weight for patients 2 years and older and weighing more than 16 kg
 
 ## The recommended dose is 60 mg/kg/day.
 
-For maintenance doses greater than or equal to 1 000 mg, the calculated daily dose should be rounded to the nearest multiple of 250 mg or 1 000 mg, as appropriate. For instance, a calculated dose of 1 251 to 1 374 mg should be rounded down to 1 250 mg corresponding to 1×250 mg sachet and 1×1 000 mg sachet. A calculated dose of 1 375 to 1 499 mg should be rounded up to 1 500 mg corresponding to 2×250 mg sachets and 1×1000 mg.
+The calculated daily dose should be rounded to the nearest multiple of 250 mg or 1 000 mg, as appropriate. For instance, a calculated dose of 1 251 to 1 374 mg should be rounded down to 1 250 mg corresponding to 1×250 mg sachet and 1×1 000 mg sachet. A calculated dose of 1 375 to 1 499 mg should be rounded up to 1 500 mg corresponding to 2×250 mg sachets and 1×1000 mg.
 
 ## Missed dose
 
@@ -227,11 +227,11 @@ Sephience is intended for long-term use.
 
 <div style=\"page-break-after: always\"></div>
 
-## Patients weighing less than 16 kg
+## Patients weighing 16 kg or less
 
 Sephience should be mixed with water or apple juice (9 mL for each 250 mg sachet; 36 mL for each 1 000 mg sachet), and a portion of this mixture corresponding to a required dose should be administered orally via an oral dosing syringe. The preparation should be mixed well for at least 30 seconds until uniform and free of lumps, before drawing into the dosing syringe. Once mixed, the dose should be administered immediately. If not administered immediately, the liquid mixture can be administered within 6 hours or 24 hours, when stored at room temperature (below 25 °C) or in a refrigerator (2 °C - 8 °C), respectively. The preparation should be mixed once again for at least 30 seconds, before administration. The syringe should be rinsed with additional water or juice (at least 15 mL) to remove any residual and swallowed immediately.
 
-## Patients weighing 16 kg or more
+## Patients weighing more than 16 kg
 
 Sephience should be mixed with water or apple juice (9 mL for each 250 mg sachet; 20 mL for each 1 000 mg sachet) or soft foods (2 tablespoons total). The preparation should be mixed well for at least 30 seconds with water or apple juice and for at least 60 seconds with soft foods until uniform and free of lumps. Once mixed,  administer the dose immediately. If not administered immediately, the liquid and soft food mixtures can be administered within 6 hours or 24 hours when stored at room temperature (below 25 °C) or in a refrigerator (2 °C - 8 °C), respectively. The liquid mixture and soft food mixtures should be mixed once again for at least 30 seconds and 60 seconds, respectively, before administration. The container should be rinsed with additional water or juice (at least 15 mL) to remove any residual and swallowed immediately.
 
@@ -261,7 +261,7 @@ Long-term safety data in patients with PKU are limited (see section 4.8 for adve
 
 ## Sodium content
 
-This medicinal product contains less than 1 mmol sodium (23 mg) per sachet, that is to say essentially ' sodium-free ' .
+This medicinal product contains less than 1 mmol sodium (23 mg) per sachet, that is to say essentially 'sodium-free'.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -273,7 +273,7 @@ Patients with rare hereditary problems of fructose intolerance should not take t
 
 ## Sepiapterin reductase (SR) inhibitors
 
-Orally administered sepiapterin is quickly absorbed and rapidly and extensively converted by SR and carbonyl reductase to 7,8-dihydrobiopterin (BH2), which is then unidirectionally converted to BH4 by DHFR. Co-administration of a SR inhibitor is expected to have minimal effect on biotransformation of sepiapterin due to the compensatory effect of carbonyl reductase. Normal blood Phe levels were reported in patients with SR deficiency. Neverthless, caution and more frequent monitoring of blood Phe are recommended when Sephience is co-administered with SR inhibitors, such as sulphasalazine or sulphamethoxazole.
+Orally administered sepiapterin is quickly absorbed and rapidly and extensively converted by SR and carbonyl reductase to 7,8-dihydrobiopterin (BH2), which is then unidirectionally converted to BH4 by DHFR. Co-administration of a SR inhibitor is expected to have minimal effect on biotransformation of sepiapterin due to the compensatory effect of carbonyl reductase. Normal blood Phe levels were reported in patients with SR deficiency. Nevertheless, caution and more frequent monitoring of blood Phe are recommended when Sephience is co-administered with SR inhibitors, such as sulphasalazine or sulphamethoxazole.
 
 ## DHFR inhibitors
 
@@ -291,7 +291,7 @@ Caution should be exercised when prescribing Sephience to patients receiving tre
 
 ## Pregnancy
 
-There are is a limited amount of data from the use of sepiapterin in pregnant women. Animal studies do not indicate direct or indirect harmful effects with respect to reproductive toxicity (see section 5.3). There are no adequate and well-controlled studies with sepiapterin in pregnant women .
+There is a limited amount of data from the use of sepiapterin in pregnant women. Animal studies do not indicate direct or indirect harmful effects with respect to reproductive toxicity (see section 5.3). There are no adequate and well-controlled studies with sepiapterin in pregnant women .
 
 As a precautionary measure, it is preferable to avoid the use of Sephience during pregnancy.
 
@@ -319,7 +319,7 @@ As presented in the table below, the most frequent adverse reactions were: upper
 
 The selection of adverse reactions to sepiapterin was based on evidence from clinical trials. The frequency of adverse reactions, as presented below in the tabulated list, was calculated based on pooled data from the 2 pivotal clinical studies in patients with PKU (study PTC923-MD-003-PKU and study PTC923-MD-004-PKU). These data included 222 patients who were exposed to sepiapterin up to 60 mg/kg/day of which: 15 (6.8%) were &lt; 2 years old, 25 (11.3%) were 2 to &lt; 6 years old, 46 (20.7%) were 6 to &lt; 12 years old, 55 (24.8%) were 12 to &lt; 18 years old, and 81 (36.5%) were ≥ 18 years old, and the median duration of treatment (in weeks) was 34.286.
 
-Adverse reactions are listed below (Table 6) by MedDRA System Organ Class (SOC). Within each SOC adverse reactions are presented in order of decreasing frequency. Frequencies are defined as follows: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1 000 to &lt; 1/100); rare (≥ 1/10 000 to &lt; 1/1 000); very rare (&lt; 1/10 000); and not known (cannot be estimated from available data).
+Adverse reactions are listed below (Table 6) by MedDRA System Organ Class (SOC). Within each SOC adverse reactions are presented in order of decreasing frequency. Frequencies are defined as follows: very common (≥ 1/10); commo n (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1 000 to &lt; 1/100); rare (≥ 1/10 000 to &lt; 1/1 000); very rare (&lt; 1/10 000); and not known (cannot be estimated from available data).
 
 Table 6: Adverse reactions
 
@@ -337,11 +337,9 @@ Overall, in PKU clinical studies, sepiapterin was well tolerated in paediatric p
 
 ## Reporting of suspected adverse reactions
 
-Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare
+Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
 <div style=\"page-break-after: always\"></div>
-
-professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
 ## 4.9 Overdose
 
@@ -359,7 +357,7 @@ Sepiapterin is a natural precursor of the enzymatic co-factor BH4, a critical co
 
 ## Clinical efficacy and safety
 
-The efficacy of sepiapterin was evaluated in three clinical studies in patients with PKU.
+The efficacy of sepiapterin was evaluated in four clinical studies in patients with PKU.
 
 Study 1 (PTC923-MD-003-PKU) was a 2-part, global, double-blind, randomised, placebo-controlled clinical study of 157 patients of all ages with PKU.
 
@@ -367,7 +365,7 @@ Part 1 of the study tested for responsiveness to sepiapterin, with 14 days of op
 
 Subjects were instructed to continue their usual diet without modification.
 
-Patients ≥ 2 years of age who experienced a ≥ 15% reduction in blood Phe levels were classified as responsive and continued into Part 2 (n=110). After the washout period from Part 1, patients were randomised equally to either sepiapterin 20 mg/kg/day for Weeks 1 and 2, 40 mg/kg/day for Weeks 3 and 4, 60 mg/kg/day for Weeks 5 and 6 (n=56), or placebo (n=54) for 6 weeks. The primary efficacy was assessed by the mean change in blood Phe levels from baseline to Weeks 5 and 6 in the sepiapterin-treated group as compared to the mean change in the placebo group in patients who demonstrated a ≥ 30% reduction in blood Phe levels during Part 1. In Part 2, demographics were well balanced between the 2 treatment arms (Table 7). The median age at the time of informed consent was 14 years (range: 2-54), and participants, in terms of race, were predominantly white (91.8%). More than half (65.5%) of the 110 participants had PKU diagnosed at birth, and the majority (82.7%) had ' biochemically defined ' non-classical PKU.
+Patients ≥ 2 years of age who experienced a ≥ 15% reduction in blood Phe levels were classified as responsive and continued into Part 2 (n=110). After the washout period from Part 1, patients were randomised equally to either sepiapterin 20 mg/kg/day for Weeks 1 and 2, 40 mg/kg/day for Weeks 3 and 4, 60 mg/kg/day for Weeks 5 and 6 (n=56), or placebo (n=54) for 6 weeks. The primary efficacy was assessed by the mean change in blood Phe levels from baseline to Weeks 5 and 6 in the sepiapterin-treated group as compared to the mean change in the placebo group in patients who demonstrated a ≥ 30% reduction in blood Phe levels during Part 1. In Part 2, demographics were well balanced between the 2 treatment arms (Table 7). The median age at the time of informed consent was 14 years (range: 2-54), and participants, in terms of race, were predominantly white (91.8%). More than half (65.5%) of the 110 participants had PKU diagnosed at birth, and the majority (82.7%) had 'biochemically defined' non-classical PKU.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -391,7 +389,7 @@ SD, standard deviation
 
 The difference between the 2 treatment groups was statistically significant (p &lt; 0.0001) (Table 8).
 
-Table 8: Mean change in blood Phe levels from baseline to Week 5 and Week 6 in Part 2 (primary analysis set with Phe reduction from b aseline ≥ 30% during Part 1)
+Table 8: Mean change in blood Phe levels from baseline to Week 5 and Week 6 in Part 2 (primary analysis set with Phe reduction from baseline ≥ 30% during Part 1)
 
 |                                                    | Sepiapterin (n=49)                                 | Placebo (n=49)                                     | Difference sepiapterin vs placebo                  | p value                                            |
 |----------------------------------------------------|----------------------------------------------------|----------------------------------------------------|----------------------------------------------------|----------------------------------------------------|
@@ -411,9 +409,9 @@ Similar responses were observed in the population of patients with classical PKU
 
 Study 2 (PKU-002) was a Phase 2, randomised, double-crossover, open-label, active-controlled, proof-of-concept clinical study of sepiapterin in patients with PKU.
 
-The study consisted of 6 sequence groups of 4 patients per group for a total of 24 patients. Each sequence group was randomised to receive 7-day treatments of sepiapterin 60 mg/kg/day, sepiapterin 20 mg/kg/day, and sapropterin dihydrochloride 20 mg/kg/day, in random order followed by a 7-day washout after each treatment. Preliminary efficacy was assessed by the reduction in blood Phe concentrations. Results of the primary efficacy weekly mean analysis demonstrated that treatment with sepiapterin resulted in a decrease in blood Phe concentrations relative to baseline that was statistically significant for all treatments (n=24). A greater proportion of patients receiving sepiapterin treatment, regardless of dose, experienced plasma Phe reductions of at least 10%, 20%, and 30% compared with patients receiving sapropterin 20 mg/kg/day. More patients receiving sepiapterin 60 mg/kg/day achieved normalised plasma Phe concentrations (&lt; 120 μmol/L) and blood Phe within the target range (≤ 360 μmol/L) compared with sap ropterin 20 mg/kg/day. In subjects with cPKU, treatment with sepiapterin (60 mg/kg/day) resulted in a significant decrease in blood Phe concentration relative to baseline.
+The study consisted of 6 sequence groups of 4 patients per group for a total of 24 patients. Each sequence group was randomised to receive 7-day treatments of sepiapterin 60 mg/kg/day, sepiapterin 20 mg/kg/day, and sapropterin dihydrochloride 20 mg/kg/day, in random order followed by a 7-day washout after each treatment. Preliminary efficacy was assessed by the reduction in blood Phe concentrations. Results of the primary efficacy weekly mean analysis demonstrated that treatment with sepiapterin resulted in a decrease in blood Phe concentrations relative to baseline that was statistically significant for all treatments (n=24). A greater proportion of patients receiving sepiapterin treatment, regardless of dose, experienced plasma Phe reductions of at least 10%, 20%, and 30% compared with patients receiving sapropterin 20 mg/kg/day. More patients receiving sepiapterin 60 mg/kg/day achieved normalised plasma Phe concentrations (&lt; 120 μmol/L) and blood Phe within the target range (≤ 360 μmol/L) compared with sapropterin 20 mg/kg/day. In subjects with cPKU, treatment with sepiapterin (60 mg/kg/day) resulted in a significant decrease in blood Phe concentration relative to baseline.
 
-Study 3 (PTC923-MD-004-PKU) is an ongoing, Phase 3, multicentre, open-label clinical study to assess the safety and dietary Phe tolerance during long-term treatment with sepiapterin in patients with PKU. One hundred sixty-nine (169) patients received treatment with sepiapterin 7.5 mg/kg/day in participants 0 to &lt; 6 months of age, 15 mg/kg/day in participants 6 to &lt; 12 months of age, 30 mg/kg/day in participants 12 months to &lt; 2 years of age, or 60 mg/kg/day in participants ≥ 2 years of age. Interim data indicate that daily sepiapterin administration is associated with an approximately 2.3-fold increase in mean daily Phe consumption (27.6 mg/kg/day at baseline versus 62.5 mg/kg/day at Week 26) while maintaining Phe levels &lt; 360 μmol/L . The majority of subjects reached at least a 15% (76.7% of participants) or 30% (67.4% of participants) reduction in blood Phe (Figure 1).
+Study 3 (PTC923-MD-004-PKU) is an ongoing, Phase 3, multicentre, open-label clinical study to assess the safety and dietary Phe tolerance during long-term treatment with sepiapterin in patients with PKU. One hundred sixty-nine (169) patients received treatment with sepiapterin 7.5 mg/kg/day in participants 0 to &lt; 6 months of age, 15 mg/kg/day in participants 6 to &lt; 12 months of age, 30 mg/kg/day in participants 12 months to &lt; 2 years of age, or 60 mg/kg/ day in participants ≥ 2 years of age. Interim data indicate that daily sepiapterin administration is associated with an approximately 2.3-fold increase in mean daily Phe consumption (27.6 mg/kg/day at baseline versus 62.5 mg/kg/day at Week 26) while maintaining Phe levels &lt; 360 μmol/L. The majority of subjects reached at least a 15% (76.7% of participants) or 30% (67.4% of participants) reduction in blood Phe (Figure 1).
 
 Figure 1: Mean (SD) dietary Phe consumption over time during dietary Phe tolerance assessment (dietary Phe tolerance analysis set)
 
@@ -421,11 +419,15 @@ Figure 1: Mean (SD) dietary Phe consumption over time during dietary Phe toleran
 
 Phe, phenylalanine; PKU, phenylketonuria; RDA, recommended daily allowance; SD, standard deviation; W, week
 
-Note: Baseline is defined as the average of daily dietary Phe consumption (mg/kg/day) at Month 1. The RDA is 0.8 g protein/kg, which is equivalent to approximately 40 mg/kg/day of Phe. Blood Phe levels baseline is the mean of the pre-assessment period Week 1 -2. 1 g of protein is equivalent to approximately 50 mg of Phe.
+Note: Baseline is defined as the average of daily dietary Phe consumption (mg/kg/day) at Month 1. The RDA is 0.8 g protein/kg, which is equivalent to approximately 40 mg/kg/day of Phe. Blood Phe levels baseline is the mean of the pre-assessment period Week 1-2. 1 g of protein is equivalent to approximately 50 mg of Phe.
+
+<div style=\"page-break-after: always\"></div>
 
 These data indicate that sepiapterin treatment may allow liberalisation of the highly restrictive diet that patients with PKU must adhere to.
 
-<div style=\"page-break-after: always\"></div>
+Study 4 (PTC923-PKU-301) was a Phase 3, 2-part, open-label, randomised, active-controlled crossover study of sepiapterin versus sapropterin in participants with PKU aged ≥2 years.
+
+In Part 1 of the study, participants underwent a 14-day open-label treatment with sepiapterin 60 mg/kg/day to assess their responsiveness, defined by a ≥20% reduction in blood Phe levels from baseline. Of 82 participants, 67 (81.7%) were responsive, achieving a mean Phe reduction of 415.5 μmol/L (59.1% decrease from baseline). Of these, 62 participants qualified for Part 2, where they were randomised into two sequences: sapropterin-sepiapterin (n=30) or sepiapterin-sapropterin (n=32), each treatment separated by a 14-day washout. The primary efficacy endpoint for Part 2 was the mean change in blood Phe levels from baseline to Weeks 3 and 4. The primary analysis showed a statistically significant treatment difference favouring 60 mg/kg/day sepiapterin over 20 mg/kg/day sapropterin (p&lt;0.0001) in participants who demonstrated a ≥30% Phe reduction in Part 1. Sepiapterin treatment led to a rapid and sustained decrease in Phe levels. By Day 28 of treatment, the LS mean change in blood Phe levels from baseline to Weeks 3 and 4 was 437.0 μmol/L with sepiapterin and -256.6 μmol/L with sapropterin, for an LS mean treatment difference of -180.4 μmol/L (p&lt;0.0001). In BH4-responsive participants, the mean absolute Phe concentration decreased from 775.9 to 323.7 µmol/L with sepiapterin, versus 854.1 to 552 µmol/L with sapropterin dihydrochloride (LS mean difference: -214 µmol/L [95% CI: -274.1, -153.9]; p&lt;0.0001). In patients who were receiving BH4 at study entry, the mean absolute Phe concentration decreased from 842.6 to 370.9 µmol/L with sepiapterin, versus a decrease from 910.8 to 629.0 µmol/L with sapropterin dihydrochloride (LS mean difference: -248.5 µmol/L [95% CI: -320.5, -176.5]; p&lt;0.0001). Sepiapterin demonstrated a statistically significantly greater reduction in the primary endpoint versus sapropterin in the overall population; enabling a greater proportion of patients to achieve target blood Phe levels.
 
 Subjects with history of allergies or adverse reactions to synthetic BH4 were excluded from the clinical studies.
 
@@ -443,23 +445,21 @@ Plasma sepiapterin is metabolised extensively to form the pharmacologically acti
 
 When sepiapterin was administered with a low-fat, low-calorie meal in the dose range of 20 to 60 mg/kg, BH4 exposures were 1.69- to 1.72-fold higher for Cmax and 1.62- to 1.73-fold higher for AUC0-24h compared to administration under fasted conditions. When sepiapterin was administered with a high-fat, high-calorie meal, BH4 exposures were 2.21- to 2.26-fold higher for Cmax and 2.51- to 2.84-fold higher for AUC0-24h compared to administration under fasted conditions.
 
+<div style=\"page-break-after: always\"></div>
+
 Sepiapterin can be taken with any meal at any time of the day at the same time every day.
 
 ## Distribution
 
-Binding of sepiapterin or BH4 to plasma protein is low, and the majority of sepiapterin and BH4 in plasma are free to exert pharmacological effects. In vitro studies show that sepiapterin is bound (mean 15.4%) to plasma protein in the presence of 0.1% dithiothreitol in the concentration range of 0.1 to 10 μM. BH4 was 41.3% (at 2 μM ), 33.0% (at 5 μM ), and 24.1% (at 15 μM ) bound to protein in human plasma in the presence of 0.5% β -mercaptoethanol.
+Binding of sepiapterin or BH4 to plasma protein is low, and the majority of sepiapterin and BH4 in plasma are free to exert pharmacological effects. In vitro studies show that sepiapterin is bound (mean 15.4%) to plasma protein in the presence of 0.1% dithiothreitol in the concentration range of 0.1 to 10 μM. BH4 was 41.3% (at 2 μM), 33.0% (at 5 μM), and 24.1% (at 15 μM) bound to protein in human plasma in the presence of 0.5% β -mercaptoethanol.
 
 In healthy subjects, elevated BH4 concentration was observed in the cerebrospinal fluid following repeated sepiapterin oral administration.
 
 ## Biotransformation
 
-Sepiapterin is metabolised by SR/carbonyl reductase and DHFR in a 2-step unidirectional process to form BH4. The metabolism of BH4 is presumed to follow the same pathway as endogenous BH4, oxidised while acting as coenzymes for aromatic amino acid hydroxylases, such as PAH, tyrosine hydroxylase, tryptophan hydroxylase, and alkylglycerol monooxygenase, and nitric oxide synthase, and some metabolites , like 4α -hydroxy-tetrahydrobiopterin and quinonoid dihydrobiopterin, could be recycled to regenerate BH4 mediated by pterin4α -carbinolamine dehydratase and dihydropteridine reductase.
+Sepiapterin is metabolised by SR/carbonyl reductase and DHFR in a 2-step unidirectional process to form BH4. The metabolism of BH4 is presumed to follow the same pathway as endogenous BH4, oxidised while acting as coenzymes for aromatic amino acid hydroxylases, such as PAH, tyrosine hydroxylase, tryptophan hydroxylase, and alkylglycerol monooxygenase, and nitric oxide synthase, and some metabolites, like 4α -hydroxy-tetrahydrobiopterin and quinonoid dihydrobiopterin, could be recycled to regenerate BH4 mediated by pterin4α -carbinolamine dehydratase and dihydropteridine reductase.
 
-Extensive metabolism of sepiapterin was observed in human following a single oral dose of 14 C-sepiapterin. The major metabolic pathway involved oxidation/dehydrogenation,
-
-<div style=\"page-break-after: always\"></div>
-
-reduction/oxidation, oxidative deamination, dehydration, side chain cleavage, and methylation, etc, alone or in combination.
+Extensive metabolism of sepiapterin was observed in human following a single oral dose of 14 C-sepiapterin. The major metabolic pathway involved oxidation/dehydrogenation, reduction/oxidation, oxidative deamination, dehydration, side chain cleavage, and methylation, etc, alone or in combination.
 
 ## Elimination
 
@@ -481,6 +481,8 @@ Higher exposures to BH4 were observed for Asian subjects. In the Japanese ethno-
 
 The PK and safety of sepiapterin have not been studied in patients with renal impairment.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Hepatic impairment
 
 The PK and safety of sepiapterin have not been studied in patients with hepatic impairment.
@@ -499,8 +501,6 @@ In healthy subjects, co-administration of sepiapterin (20 mg/kg) with a single d
 
 Co-administration of a single dose of sepiapterin at the maximum therapeutic dose of 60 mg/kg with the BCRP substrate rosuvastatin (10 mg) had no effect on the of rosuvastatin. The overall estimated GMRs (90% CI) for rosuvastatin Cmax and AUC0-last when rosuvastatin was co-administered with sepiapterin compared to rosuvastatin alone were 1.13 (1.00-1.28) and 1.02 (0.93-1.13), respectively.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 5.3 Preclinical safety data
 
 Non-clinical data reveal no special hazard for humans based on conventional studies of safety pharmacology, genotoxicity, carcinogenic potential and toxicity to reproduction and development.
@@ -516,6 +516,8 @@ Microcrystalline cellulose (E460) Isomalt (E953) Mannitol (E421) Croscarmellose 
 ## 6.2 Incompatibilities
 
 Not applicable.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 6.3 Shelf life
 
@@ -541,15 +543,13 @@ Polyethylene terephthalate, white extruded polyethylene (polyester/foil bond), a
 
 Each carton contains 30 unit-dose sachets.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 6.6 Special precautions for disposal and other handling
 
 No special requirements for disposal.
 
 Any unused medicinal product or waste material should be disposed in accordance with local requirements.
 
-## Instructions for administration via enteral feeding tube
+Instructions for administration via enteral feeding tube
 
 - 1) Ensure that the enteral feeding tube (size 6 Fr or 8 Fr) is free from obstruction before administration.
 - 2) Flush the enteral feeding tube with 10 mL of water.
@@ -560,17 +560,17 @@ This medicinal product is compatible for use with silicone and polyurethane ente
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-PTC Therapeutics International Limited Unit 1, 52- 55 Sir John Rogerson's Quay Dublin 2, D02 NA07 Ireland
+PTC Therapeutics International Limited Unit 1, 52-55 Sir John Rogerson's Quay Dublin 2, D02 NA07 Ireland
+
+<div style=\"page-break-after: always\"></div>
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/25/1939/001
-
-EU/1/25/1939/002
+EU/1/25/1939/001 EU/1/25/1939/002
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-Date of first authorisation:
+Date of first authorisation: 19 June 2025
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -581,11 +581,8 @@ Detailed information on this medicinal product is available on the website of th
 ## ANNEX II
 
 - A. MANUFACTURER RESPONSIBLE FOR BATCH RELEASE
-
-## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
-
-## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
-
+- B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
+- C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 - D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
 <div style=\"page-break-after: always\"></div>
@@ -594,7 +591,7 @@ Detailed information on this medicinal product is available on the website of th
 
 Name and address of the manufacturer responsible for batch release
 
-PTC Therapeutics International Limited Unit 1, 5255 Sir John Rogerson's Quay Dublin 2, D02 NA07 Ireland
+PTC Therapeutics International Limited Unit 1, 52-55 Sir John Rogerson's Quay Dublin 2, D02 NA07 Ireland
 
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
@@ -681,7 +678,7 @@ Store in the original package in order to protect from light.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-PTC Therapeutics International Limited Unit 1, 52- 55 Sir John Rogerson's Quay , Dublin 2, D02 NA07, Ireland
+PTC Therapeutics International Limited Unit 1, 52-55 Sir John Rogerson's Quay, Dublin 2, D02 NA07, Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -713,18 +710,17 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| ALUMINIUM SACHET                                                 |
+| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATEPACKAGING UNITS   |
+|-----------------------------------------------------------------|
+| ALUMINIUM SACHET                                                |
 
-1.
-
-NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
+| 1.   | NAMEOF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|---------------------------------------------------------------|
 
 Sephience 250 mg oral powder in sachet sepiapterin Oral use
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHODOF ADMINISTRATION   |
+|------|---------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -736,8 +732,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUMEORBYUNIT   |
+|------|-----------------------------------------|
 
 250 mg
 
@@ -794,7 +790,7 @@ Store in the original package in order to protect from light.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-PTC Therapeutics International Limited Unit 1, 52- 55 Sir John Rogerson's Quay , Dublin 2, D02 NA07, Ireland
+PTC Therapeutics International Limited Unit 1, 52-55 Sir John Rogerson's Quay, Dublin 2, D02 NA07, Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -847,8 +843,7 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
 
 1 000 mg
 
@@ -860,8 +855,6 @@ Lot
 ## B. PACKAGE LEAFLET
 
 <div style=\"page-break-after: always\"></div>
-
-<!-- image -->
 
 ## Package leaflet: Information for the patient
 
@@ -913,7 +906,7 @@ Long-term safety data in patients with PKU are limited (see section 4 for side e
 
 ## Other medicines and Sephience
 
-Tell your doctor or pharmacist if you are taking, have recently taken, or might take any other medicines. In particular , you should tell your doctor if you are using some medicines called ' dihydrofolate inhibitors (DHFR) inhibitors ' that include antibiotics, immunosuppressants and medicines used to treat cancer (e.g. trimethoprim, methotrexate, pemetrexed, pralatrexate, and trimetrexate), medicines that cause dilation of blood vessels (such as glyceryl trinitrate (GTN), isosorbide dinitrate (ISDN), sodium nitroprusside (SNP), molsidomin, minoxidil), or levodopa (used to treat Parkinson's disease) . Using these medicines may require more frequent monitoring of your blood.
+Tell your doctor or pharmacist if you are taking, have recently taken, or might take any other medicines. In particular , you should tell your doctor if you are using some medicines called 'dihydrofolate inhibitors (DHFR) inhibitors' that include antibiotics, immunosuppressants and medicines used to treat cancer (e.g. trimethoprim, methotrexate, pemetrexed, pralatrexate, and trimetrexate), medicines that cause dilation of blood vessels (such as glyceryl trinitrate (GTN), isosorbide dinitrate (ISDN), sodium nitroprusside (SNP), molsidomin, minoxidil), or levodopa (used to treat Parkinson's disease). Using these medicines may require more frequent monitoring of your blood.
 
 ## Pregnancy, breast-feeding, and fertility
 
@@ -927,7 +920,7 @@ Sephience is not expected to affect the ability to drive and use machines.
 
 ## Sephience contains sodium
 
-This medicine contains less than 1 mmol sodium (23 mg) per sachet, that is to say essentially 'sodium -free'.
+This medicine contains less than 1 mmol sodium (23 mg) per sachet, that is to say essentially 'sodiumfree'.
 
 ## Sephience contains isomalt (E953)
 
@@ -984,24 +977,24 @@ Sephience can be mixed in water, apple juice, or soft foods such as apple sauce 
 
 Table 1: How to calculate the dose for children under 12 months of age by body weight
 
-| Weight (kg)   | Dose: 7.5 mg/kg/day Age: 0 to less than 6 months   | Dose: 7.5 mg/kg/day Age: 0 to less than 6 months   | Dose: 15 mg/kg/day 6 months to less than 12 months   | Dose: 15 mg/kg/day 6 months to less than 12 months   |
-|---------------|----------------------------------------------------|----------------------------------------------------|------------------------------------------------------|------------------------------------------------------|
-| Weight (kg)   | Number of 250 mg sachets to be used                | Volume to give (mL)                                | Number of 250 mg sachets to be used                  | Volume to give (mL)                                  |
-| 2             | 1                                                  | 0.6                                                | 1                                                    | 1.2                                                  |
-| 3             | 1                                                  | 0.9                                                | 1                                                    | 1.8                                                  |
-| 4             | 1                                                  | 1.2                                                | 1                                                    | 2.4                                                  |
-| 5             | 1                                                  | 1.5                                                | 1                                                    | 3                                                    |
-| 6             | 1                                                  | 1.8                                                | 1                                                    | 3.6                                                  |
-| 7             | 1                                                  | 2.1                                                | 1                                                    | 4.2                                                  |
-| 8             | 1                                                  | 2.4                                                | 1                                                    | 4.8                                                  |
-| 9             | 1                                                  | 2.7                                                | 1                                                    | 5.4                                                  |
-| 10            | 1                                                  | 3                                                  | 1                                                    | 6                                                    |
-| 11            | 1                                                  | 3.3                                                | 1                                                    | 6.6                                                  |
-| 12            | 1                                                  | 3.6                                                | 1                                                    | 7.2                                                  |
-| 13            | 1                                                  | 3.9                                                | 1                                                    | 7.8                                                  |
-| 14            | 1                                                  | 4.2                                                | 1                                                    | 8.4                                                  |
-| 15            | 1                                                  | 4.5                                                | 1                                                    | 9                                                    |
-| 16            | 1                                                  | 4.8                                                | 1                                                    | 9.6                                                  |
+| Weight (kg)   | Dose: 7.5 mg/kg/day Age: 0 to less than 6 months   | Dose: 7.5 mg/kg/day Age: 0 to less than 6 months   | Dose: 15 mg/kg/day                  | Dose: 15 mg/kg/day   |
+|---------------|----------------------------------------------------|----------------------------------------------------|-------------------------------------|----------------------|
+| Weight (kg)   | Number of 250 mg sachets to be used                | Volume to give (mL)                                | Number of 250 mg sachets to be used | Volume to give (mL)  |
+| 2             | 1                                                  | 0.6                                                | 1                                   | 1.2                  |
+| 3             | 1                                                  | 0.9                                                | 1                                   | 1.8                  |
+| 4             | 1                                                  | 1.2                                                | 1                                   | 2.4                  |
+| 5             | 1                                                  | 1.5                                                | 1                                   | 3                    |
+| 6             | 1                                                  | 1.8                                                | 1                                   | 3.6                  |
+| 7             | 1                                                  | 2.1                                                | 1                                   | 4.2                  |
+| 8             | 1                                                  | 2.4                                                | 1                                   | 4.8                  |
+| 9             | 1                                                  | 2.7                                                | 1                                   | 5.4                  |
+| 10            | 1                                                  | 3                                                  | 1                                   | 6                    |
+| 11            | 1                                                  | 3.3                                                | 1                                   | 6.6                  |
+| 12            | 1                                                  | 3.6                                                | 1                                   | 7.2                  |
+| 13            | 1                                                  | 3.9                                                | 1                                   | 7.8                  |
+| 14            | 1                                                  | 4.2                                                | 1                                   | 8.4                  |
+| 15            | 1                                                  | 4.5                                                | 1                                   | 9                    |
+| 16            | 1                                                  | 4.8                                                | 1                                   | 9.6                  |
 
 ## 2. For children aged 12 months to less than 2 years and weighing 16 kg or less (see Table 2)
 
@@ -1020,24 +1013,25 @@ Table 1: How to calculate the dose for children under 12 months of age by body w
 
 Table 2: How to calculate the dose for children aged 12 months to less than 2 years of age by body weight
 
-| Weight (kg)   | Dose: 30 mg/kg/day                         | Dose: 30 mg/kg/day          |
-|---------------|--------------------------------------------|-----------------------------|
-|               | Age: 12 months to less than 250 mg sachets | 2 years Volume to give (mL) |
-| 2             | 1                                          | 2.4                         |
-| 3             | 1                                          | 3.6                         |
-| 4             | 1                                          | 4.8                         |
-| 5             | 1                                          | 6                           |
-| 6             | 1                                          | 7.2                         |
-| 7             | 1                                          | 8.4                         |
-| 8             | 1                                          | 9.6                         |
-| 9             | 2                                          | 10.8                        |
-| 10            | 2                                          | 12                          |
-| 11            | 2                                          | 13.2                        |
-| 12            | 2                                          | 14.4                        |
-| 13            | 2                                          | 15.6                        |
-| 14            | 2                                          | 16.8                        |
-| 15            | 2                                          | 18                          |
-| 16            | 2                                          | 19.2                        |
+|   Weight (kg) | Dose: 30 mg/kg/day                  | Dose: 30 mg/kg/day                  |
+|---------------|-------------------------------------|-------------------------------------|
+|               | Age: 12 months to less than 2 years | Age: 12 months to less than 2 years |
+|               | Number of 250 mg sachets            | Volume to give (mL)                 |
+|             2 | 1                                   | 2.4                                 |
+|             3 | 1                                   | 3.6                                 |
+|             4 | 1                                   | 4.8                                 |
+|             5 | 1                                   | 6                                   |
+|             6 | 1                                   | 7.2                                 |
+|             7 | 1                                   | 8.4                                 |
+|             8 | 1                                   | 9.6                                 |
+|             9 | 2                                   | 10.8                                |
+|            10 | 2                                   | 12                                  |
+|            11 | 2                                   | 13.2                                |
+|            12 | 2                                   | 14.4                                |
+|            13 | 2                                   | 15.6                                |
+|            14 | 2                                   | 16.8                                |
+|            15 | 2                                   | 18                                  |
+|            16 | 2                                   | 19.2                                |
 
 ## 3. For children aged over 2 years and weighing 16 kg or less (see Table 3)
 
@@ -1055,23 +1049,23 @@ Table 2: How to calculate the dose for children aged 12 months to less than 2 ye
 
 Table 3: How to calculate the dose for patients over 2 years of age weighing 16 kg or less
 
-| Weight (kg)   | Dose: 60 mg/kg/day years and older   | Dose: 60 mg/kg/day years and older   |
+|   Weight (kg) | Dose: 60 mg/kg/day years and older   | Dose: 60 mg/kg/day years and older   |
 |---------------|--------------------------------------|--------------------------------------|
 |               | Age: 2 Number of 250 mg sachets      | Volume to give (mL)                  |
-| 5             | 2                                    | 12                                   |
-| 6             | 2                                    | 14.4                                 |
-| 7             | 2                                    | 16.8                                 |
-| 8             | 2                                    | 19.2                                 |
-| 9             | 3                                    | 21.6                                 |
-| 10            | 3                                    | 24                                   |
-| 11            | 3                                    | 26.4                                 |
-| 12            | 3                                    | 28.8                                 |
-| 13            | 4*                                   | 31.2                                 |
-| 14            | 4*                                   | 33.6                                 |
-| 15            | 4*                                   | 36                                   |
-| 16            | 4*                                   | 38.4                                 |
+|             5 | 2                                    | 12                                   |
+|             6 | 2                                    | 14.4                                 |
+|             7 | 2                                    | 16.8                                 |
+|             8 | 2                                    | 19.2                                 |
+|             9 | 3                                    | 21.6                                 |
+|            10 | 3                                    | 24                                   |
+|            11 | 3                                    | 26.4                                 |
+|            12 | 3                                    | 28.8                                 |
+|            13 | 4*                                   | 31.2                                 |
+|            14 | 4*                                   | 33.6                                 |
+|            15 | 4*                                   | 36                                   |
+|            16 | 4*                                   | 38.4                                 |
 
-## 4. For patients 2 years or older and weighing 16 kg or more (see Table 4)
+## 4. For patients 2 years or older and weighing more than 16 kg (see Table 4)
 
 - Take this medicine exactly as your doctor has told you according to your prescribed dose.
 - Before opening the Sephience oral powder sachet(s), shake or tap it on a hard surface to make sure the powder is at the bottom.
@@ -1084,7 +1078,7 @@ Table 3: How to calculate the dose for patients over 2 years of age weighing 16 
 - Drink or give the required dose (see Table 4) into the mouth using a glass or plastic cup, or give the required dose into the enteral feeding tube.
 - Rinse the container with extra water or apple juice (at least 15 mL) and swallow to make sure a full dose is taken.
 
-Table 4: How to calculate the volume needed for the dose for patients 2 years and older and weighing 16 kg or more
+Table 4: How to calculate the volume needed for the dose for patients 2 years and older and weighing more than 16 kg
 
 |   Number of 250 mg sachets |   Number of 1 000 mg sachets |   Volume of water or apple juice to add (mL) |
 |----------------------------|------------------------------|----------------------------------------------|
@@ -1180,13 +1174,15 @@ Sephience is available in cartons containing 30 sachets of 250 mg or 1 000 mg.
 
 ## Marketing Authorisation Holder and Manufacturer
 
-PTC Therapeutics International Limited Unit 1, 5255 Sir John Rogerson's Quay Dublin 2, D02 NA07 Ireland
+PTC Therapeutics International Limited Unit 1, 52-55 Sir John Rogerson's Quay Dublin 2, D02 NA07 Ireland
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 AT, BE, BG, CY, CZ, DK, DE, EE, EL, ES, HR, HU, IE, IS, IT, LT, LU, LV, MT, NL, NO,
 
-PL, PT, RO, SI, SK, FI, SE PTC Therapeutics International Ltd. (Ireland) Tel: +353 (0)1 447 5165 medinfo@ptcbio.com
+PL, PT, RO, SI, SK, FI, SE PTC Therapeutics International Ltd. (Ireland)
+
+Tel: +353 (0)1 447 5165 medinfo@ptcbio.com
 
 FR
 

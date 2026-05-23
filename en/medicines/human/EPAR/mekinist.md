@@ -1,11 +1,11 @@
 ---
-document_datetime: 2026-05-19 17:45:00
+document_datetime: 2026-05-22 14:18:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/mekinist.html
 document_name: mekinist.html
 version: success
-processing_time: 0.2861155
-conversion_datetime: 2026-05-22 22:36:01.352862
+processing_time: 0.1389952
+conversion_datetime: 2026-05-23 08:19:59.824978
 docling_version:
   docling-serve: 1.20.0
   docling-jobkit: 1.20.0
@@ -134,7 +134,7 @@ English (EN) (158.19 KB - PDF)
 
 [View](/en/documents/overview/mekinist-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-978)
+[Other languages (22)](#file-language-dropdown-696)
 
 български (BG) (174.61 KB - PDF)
 
@@ -280,161 +280,161 @@ English (EN) (783.1 KB - PDF)
 
 Mekinist : EPAR - Product Information
 
-English (EN) (782.92 KB - PDF)
+English (EN) (1.07 MB - PDF)
 
-**First published:** 09/07/2014 **Last updated:** 19/05/2026
+**First published:** 09/07/2014 **Last updated:** 22/05/2026
 
 [View](/en/documents/product-information/mekinist-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-60)
+[Other languages (24)](#file-language-dropdown-219)
 
-български (BG) (786.27 KB - PDF)
+български (BG) (1.23 MB - PDF)
 
-**First published:** 09/07/2014 **Last updated:** 19/05/2026
+**First published:** 09/07/2014 **Last updated:** 22/05/2026
 
 [View](/bg/documents/product-information/mekinist-epar-product-information_bg.pdf)
 
-español (ES) (809.06 KB - PDF)
+español (ES) (1.25 MB - PDF)
 
-**First published:** 09/07/2014 **Last updated:** 19/05/2026
+**First published:** 09/07/2014 **Last updated:** 22/05/2026
 
 [View](/es/documents/product-information/mekinist-epar-product-information_es.pdf)
 
-čeština (CS) (812.57 KB - PDF)
+čeština (CS) (1.27 MB - PDF)
 
-**First published:** 09/07/2014 **Last updated:** 19/05/2026
+**First published:** 09/07/2014 **Last updated:** 22/05/2026
 
 [View](/cs/documents/product-information/mekinist-epar-product-information_cs.pdf)
 
-dansk (DA) (778.42 KB - PDF)
+dansk (DA) (1.22 MB - PDF)
 
-**First published:** 09/07/2014 **Last updated:** 19/05/2026
+**First published:** 09/07/2014 **Last updated:** 22/05/2026
 
 [View](/da/documents/product-information/mekinist-epar-product-information_da.pdf)
 
-Deutsch (DE) (774.75 KB - PDF)
+Deutsch (DE) (1.23 MB - PDF)
 
-**First published:** 09/07/2014 **Last updated:** 19/05/2026
+**First published:** 09/07/2014 **Last updated:** 22/05/2026
 
 [View](/de/documents/product-information/mekinist-epar-product-information_de.pdf)
 
-eesti keel (ET) (707.67 KB - PDF)
+eesti keel (ET) (1.13 MB - PDF)
 
-**First published:** 09/07/2014 **Last updated:** 19/05/2026
+**First published:** 09/07/2014 **Last updated:** 22/05/2026
 
 [View](/et/documents/product-information/mekinist-epar-product-information_et.pdf)
 
-ελληνικά (EL) (906.65 KB - PDF)
+ελληνικά (EL) (1.38 MB - PDF)
 
-**First published:** 09/07/2014 **Last updated:** 19/05/2026
+**First published:** 09/07/2014 **Last updated:** 22/05/2026
 
 [View](/el/documents/product-information/mekinist-epar-product-information_el.pdf)
 
-français (FR) (889.57 KB - PDF)
+français (FR) (1.34 MB - PDF)
 
-**First published:** 09/07/2014 **Last updated:** 19/05/2026
+**First published:** 09/07/2014 **Last updated:** 22/05/2026
 
 [View](/fr/documents/product-information/mekinist-epar-product-information_fr.pdf)
 
-hrvatski (HR) (820.55 KB - PDF)
+hrvatski (HR) (1.26 MB - PDF)
 
-**First published:** 09/07/2014 **Last updated:** 19/05/2026
+**First published:** 09/07/2014 **Last updated:** 22/05/2026
 
 [View](/hr/documents/product-information/mekinist-epar-product-information_hr.pdf)
 
-íslenska (IS) (756.76 KB - PDF)
+íslenska (IS) (1.19 MB - PDF)
 
-**First published:** 09/07/2014 **Last updated:** 19/05/2026
+**First published:** 09/07/2014 **Last updated:** 22/05/2026
 
 [View](/is/documents/product-information/mekinist-epar-product-information_is.pdf)
 
-italiano (IT) (772.47 KB - PDF)
+italiano (IT) (1.23 MB - PDF)
 
-**First published:** 09/07/2014 **Last updated:** 19/05/2026
+**First published:** 09/07/2014 **Last updated:** 22/05/2026
 
 [View](/it/documents/product-information/mekinist-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (873.54 KB - PDF)
+latviešu valoda (LV) (1.32 MB - PDF)
 
-**First published:** 09/07/2014 **Last updated:** 19/05/2026
+**First published:** 09/07/2014 **Last updated:** 22/05/2026
 
 [View](/lv/documents/product-information/mekinist-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (802.93 KB - PDF)
+lietuvių kalba (LT) (1.23 MB - PDF)
 
-**First published:** 09/07/2014 **Last updated:** 19/05/2026
+**First published:** 09/07/2014 **Last updated:** 22/05/2026
 
 [View](/lt/documents/product-information/mekinist-epar-product-information_lt.pdf)
 
-magyar (HU) (802.07 KB - PDF)
+magyar (HU) (1.26 MB - PDF)
 
-**First published:** 09/07/2014 **Last updated:** 19/05/2026
+**First published:** 09/07/2014 **Last updated:** 22/05/2026
 
 [View](/hu/documents/product-information/mekinist-epar-product-information_hu.pdf)
 
-Malti (MT) (874.22 KB - PDF)
+Malti (MT) (1.36 MB - PDF)
 
-**First published:** 09/07/2014 **Last updated:** 19/05/2026
+**First published:** 09/07/2014 **Last updated:** 22/05/2026
 
 [View](/mt/documents/product-information/mekinist-epar-product-information_mt.pdf)
 
-Nederlands (NL) (754.17 KB - PDF)
+Nederlands (NL) (1.22 MB - PDF)
 
-**First published:** 09/07/2014 **Last updated:** 19/05/2026
+**First published:** 09/07/2014 **Last updated:** 22/05/2026
 
 [View](/nl/documents/product-information/mekinist-epar-product-information_nl.pdf)
 
-norsk (NO) (737.03 KB - PDF)
+norsk (NO) (1.18 MB - PDF)
 
-**First published:** 09/07/2014 **Last updated:** 19/05/2026
+**First published:** 09/07/2014 **Last updated:** 22/05/2026
 
 [View](/no/documents/product-information/mekinist-epar-product-information_no.pdf)
 
-polski (PL) (809.99 KB - PDF)
+polski (PL) (1.25 MB - PDF)
 
-**First published:** 09/07/2014 **Last updated:** 19/05/2026
+**First published:** 09/07/2014 **Last updated:** 22/05/2026
 
 [View](/pl/documents/product-information/mekinist-epar-product-information_pl.pdf)
 
-português (PT) (746.58 KB - PDF)
+português (PT) (1.19 MB - PDF)
 
-**First published:** 09/07/2014 **Last updated:** 19/05/2026
+**First published:** 09/07/2014 **Last updated:** 22/05/2026
 
 [View](/pt/documents/product-information/mekinist-epar-product-information_pt.pdf)
 
-română (RO) (800.52 KB - PDF)
+română (RO) (1.23 MB - PDF)
 
-**First published:** 09/07/2014 **Last updated:** 19/05/2026
+**First published:** 09/07/2014 **Last updated:** 22/05/2026
 
 [View](/ro/documents/product-information/mekinist-epar-product-information_ro.pdf)
 
-slovenčina (SK) (917.52 KB - PDF)
+slovenčina (SK) (1.36 MB - PDF)
 
-**First published:** 09/07/2014 **Last updated:** 19/05/2026
+**First published:** 09/07/2014 **Last updated:** 22/05/2026
 
 [View](/sk/documents/product-information/mekinist-epar-product-information_sk.pdf)
 
-slovenščina (SL) (833.33 KB - PDF)
+slovenščina (SL) (1.26 MB - PDF)
 
-**First published:** 09/07/2014 **Last updated:** 19/05/2026
+**First published:** 09/07/2014 **Last updated:** 22/05/2026
 
 [View](/sl/documents/product-information/mekinist-epar-product-information_sl.pdf)
 
-Suomi (FI) (731.5 KB - PDF)
+Suomi (FI) (1.17 MB - PDF)
 
-**First published:** 09/07/2014 **Last updated:** 19/05/2026
+**First published:** 09/07/2014 **Last updated:** 22/05/2026
 
 [View](/fi/documents/product-information/mekinist-epar-product-information_fi.pdf)
 
-svenska (SV) (804.64 KB - PDF)
+svenska (SV) (1.24 MB - PDF)
 
-**First published:** 09/07/2014 **Last updated:** 19/05/2026
+**First published:** 09/07/2014 **Last updated:** 22/05/2026
 
 [View](/sv/documents/product-information/mekinist-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000271728
+**Latest procedure affecting product information:** VR/0000340680
 
-30/04/2026
+19/05/2026
 
 icon globe
 
@@ -458,7 +458,7 @@ English (EN) (48.09 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/mekinist-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-212)
+[Other languages (24)](#file-language-dropdown-336)
 
 български (BG) (55.55 KB - PDF)
 
@@ -672,7 +672,7 @@ Marketing authorisation issued
 
 Revision
 
-39
+40
 
 ## Assessment history
 
@@ -684,9 +684,9 @@ Collapse section
 
 Mekinist : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (164.21 KB - PDF)
+English (EN) (176.08 KB - PDF)
 
-**First published:** 03/11/2025 **Last updated:** 19/05/2026
+**First published:** 03/11/2025 **Last updated:** 22/05/2026
 
 [View](/en/documents/procedural-steps-after/mekinist-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -911,6 +911,6 @@ English (EN) (69.2 KB - PDF)
 
 **This page was last updated on**
 
-19/05/2026
+22/05/2026
 
 ## Share this page

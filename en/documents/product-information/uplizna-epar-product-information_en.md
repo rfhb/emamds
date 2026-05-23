@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-02-17 12:50:44
+document_datetime: 2026-05-22 13:32:56
 document_pages: 41
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/uplizna-epar-product-information_en.pdf
 document_name: uplizna-epar-product-information_en.pdf
 version: success
-processing_time: 19.6595811
-conversion_datetime: 2026-02-21 13:16:44.727512
+processing_time: 21.0790345
+conversion_datetime: 2026-05-23 08:23:39.964946
 docling_version:
-  docling-serve: 1.13.0
-  docling-jobkit: 1.11.0
-  docling: 2.74.0
-  docling-core: 2.65.1
-  docling-ibm-models: 3.11.0
-  docling-parse: 5.3.2
+  docling-serve: 1.20.0
+  docling-jobkit: 1.20.0
+  docling: 2.95.0
+  docling-core: 2.77.0
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.11.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -111,11 +111,9 @@ Prior to every infusion of inebilizumab, it should be determined whether there i
 
 ## Required premedication
 
-Premedication with a corticosteroid (e.g., methylprednisolone 80-125 mg intravenous or equivalent) should be administered approximately 30 minutes prior to each inebilizumab infusion; and an antihistamine (e.g., diphenhydramine 25-50 mg orally or equivalent) and an anti-pyretic (e.g.,
+Premedication with a corticosteroid (e.g., methylprednisolone 80-125 mg intravenous or equivalent) should be administered approximately 30 minutes prior to each inebilizumab infusion; and an antihistamine (e.g., diphenhydramine 25-50 mg orally or equivalent) and an anti-pyretic (e.g., paracetamol 500-650 mg orally or equivalent) approximately 30-60 minutes prior to each inebilizumab infusion (see section 4.4).
 
 <div style=\"page-break-after: always\"></div>
-
-paracetamol 500-650 mg orally or equivalent) approximately 30-60 minutes prior to each inebilizumab infusion (see section 4.4).
 
 ## Special populations
 
@@ -351,11 +349,9 @@ Inebilizumab can cause infusion-related reactions, which can include headache, n
 
 ## Infections
 
-In clinical trials, an infection was reported by 74.7% of NMOSD patients, 70.5% of IgG4-RD patients and 42.9% of gMG patients treated with inebilizumab across the RCP and OLP. The most common
+In clinical trials, an infection was reported by 74.7% of NMOSD patients, 70.5% of IgG4-RD patients and 42.9% of gMG patients treated with inebilizumab across the RCP and OLP. The most common infections in NMOSD patients included urinary tract infection (26.2%), nasopharyngitis (20.9%), and upper respiratory tract infection (15.6%), influenza (8.9%), and bronchitis (6.7%). Serious infections reported by more than one inebilizumab-treated NMOSD patient were urinary tract infection (4.0%) and pneumonia (1.8%). The most common infections in IgG4-RD patients included upper respiratory tract infection (10.7%), nasopharyngitis (9.8%), urinary tract infection (8.9%), and influenza (6.3%). Serious infections reported by more than one inebilizumab-treated IgG4-RD patient was pneumonia (1.8%). The most common infections in gMG patients included nasopharyngitis (6.9%) and upper respiratory tract infection (6.9%). Serious infections reported by more than one inebilizumab-treated gMG patient was pneumonia (1.5%). See section 4.4 for action to be taken in case of infection.
 
 <div style=\"page-break-after: always\"></div>
-
-infections in NMOSD patients included urinary tract infection (26.2%), nasopharyngitis (20.9%), and upper respiratory tract infection (15.6%), influenza (8.9%), and bronchitis (6.7%). Serious infections reported by more than one inebilizumab-treated NMOSD patient were urinary tract infection (4.0%) and pneumonia (1.8%). The most common infections in IgG4-RD patients included upper respiratory tract infection (10.7%), nasopharyngitis (9.8%), urinary tract infection (8.9%), and influenza (6.3%). Serious infections reported by more than one inebilizumab-treated IgG4-RD patient was pneumonia (1.8%). The most common infections in gMG patients included nasopharyngitis (6.9%) and upper respiratory tract infection (6.9%). Serious infections reported by more than one inebilizumab-treated gMG patient was pneumonia (1.5%). See section 4.4 for action to be taken in case of infection.
 
 ## Opportunistic and serious infections
 
@@ -395,7 +391,7 @@ Pharmacotherapeutic group: immunosuppressants, monoclonal antibodies, ATC code: 
 
 ## Mechanism of action
 
-Inebilizumab is a monoclonal antibody that specifically binds to CD19, a cell surface antigen present on pre-B and mature B-cell lymphocytes, including plasmablasts and some plasma cells. Following cell surface binding to B lymphocytes, inebilizumab supports antibody-dependent cellular cytolysis (ADCC) and antibody-dependent cellular phagocytosis (ADCP). B cells are believed to play a central role in the pathogenesis of NMOSD, IgG4-RD and gMG. The precise mechanism by which inebilizumab exerts its therapeutic effects in these diseases is presumed to involve B-cell depletion and may include the suppression of antibody secretion, antigen presentation, B-cell -T-cell interaction, and the production of inflammatory mediators.
+Inebilizumab is a monoclonal antibody that specifically binds to CD19, a cell surface antigen present on pre-B and mature B-cell lymphocytes, including plasmablasts and some plasma cells. Following cell surface binding to B lymphocytes, inebilizumab supports antibody-dependent cellular cytolysis (ADCC) and antibody-dependent cellular phagocytosis (ADCP). B cells are believed to play a central role in the pathogenesis of NMOSD, IgG4-RD and gMG. The mechanism by which inebilizumab exerts its therapeutic effects in these diseases is presumed to involve B-cell depletion and may include the suppression of antibody secretion, antigen presentation, B-cell -T-cell interaction, and the production of inflammatory mediators.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -654,7 +650,7 @@ The European Medicines Agency has deferred the obligation to submit the results 
 
 ## Absorption
 
-Inebilizumab is administered as an intravenous infusion. In the NMOSD study, the mean maximum concentration was 108 μg/mL (300 mg, second dose on day 15), and the cumulative area under the curve (AUC) of the 26-week treatment period in which NMOSD patients received two intravenous administrations 2-week apart was 2980 µg×d/mL. In the IgG4-RD study, the mean maximum concentration was 127 μg/mL (300 mg, second dose on day 15), and the cumulative AUC of the 52-week treatment period in which IgG4-RD patients received two intravenous administrations 2 weeks apart, followed by a third dose at week 26 was 4290 µg×d/mL.
+Inebilizumab is administered as an intravenous infusion. In the NMOSD study, the mean maximum concentration was 108 μg /mL (300 mg, second dose on day 15), and the cumulative area under the curve (AUC) of the 26-week treatment period in which NMOSD patients received two intravenous administrations 2-week apart was 2980 µg×d/mL. In the IgG4-RD study, the mean maximum concentration was 127 μg/mL (300 mg, second dose on day 15), and the cumulative AUC of the 52-week treatment period in which IgG4-RD patients received two intravenous administrations 2 weeks apart, followed by a third dose at week 26 was 4290 µg×d/mL.
 
 In the gMG study, the mean maximum concentration (300 mg, second dose on day 15) was 126 μ g/mL for the anti-AChR-Ab+ subpopulation (n = 90) and 159 μg/mL for the anti -MuSK-Ab+ subpopulation (n = 20). The cumulative AUC of the 26-week treatment period in which anti-AChR-Ab+ patients (n = 82) received two intravenous administrations 2 weeks apart was 3120 µg×d/mL. The cumulative AUC of the 26-week treatment period in which anti-MuSK-Ab+ patients (n = 17) received two intravenous administrations 2 weeks apart was 3740 µg×d/mL. Additionally, the cumulative AUC of the 52-week treatment period in which anti-AChR-Ab+ patients (n = 84) received two intravenous administrations 2 weeks apart, followed by a third dose at week 26 was 4240 µg×d/mL.
 
@@ -698,11 +694,9 @@ No formal clinical studies have been conducted to investigate the effect of hepa
 
 Nonclinical data reveal no special hazard for humans based on conventional studies of safety pharmacology, repeated dose toxicity, genotoxicity, and carcinogenic potential.
 
-Inebilizumab was evaluated in a combined fertility and embryo-foetal development study in female and male huCD19 Tg mice at intravenous doses of 3 and 30 mg/kg. There was no effect on
+Inebilizumab was evaluated in a combined fertility and embryo-foetal development study in female and male huCD19 Tg mice at intravenous doses of 3 and 30 mg/kg. There was no effect on embryo-foetal development, however, there was a treatment-related reduction in fertility index at both tested doses. The relevance of this finding to humans is unknown. Additionally, there was a decrease in B-cell populations at the site of B-cell development in foetal mice born to inebilizumab-treated animals as compared to the offspring of control animals, suggesting that inebilizumab crosses the placenta and depletes B cells.
 
 <div style=\"page-break-after: always\"></div>
-
-embryo-foetal development, however, there was a treatment-related reduction in fertility index at both tested doses. The relevance of this finding to humans is unknown. Additionally, there was a decrease in B-cell populations at the site of B-cell development in foetal mice born to inebilizumab-treated animals as compared to the offspring of control animals, suggesting that inebilizumab crosses the placenta and depletes B cells.
 
 Only sparse toxicokinetic samples were collected in the combined fertility and embryo-foetal development study; based on first dose maximum concentration (Cmax), the exposure multiples of 3 and 30 mg/kg in female huCD19 Tg mice were 0.4-fold and 4-fold, respectively for the 300 mg clinical therapeutic dose.
 
@@ -755,6 +749,7 @@ The concentrate should be visually inspected for particulate matter and discolou
 - The vial should not be shaken.
 - The vial should be stored upright.
 - Obtain an intravenous bag containing 250 mL of sodium chloride 9 mg/mL (0.9%) solution for injection. Do not use other diluents to dilute inebilizumab as their use has not been tested.
+- Use only a 21-gauge or smaller bore needle (e.g., 22 or 23-gauge) to puncture the vial stopper. Do not use vial spikes or closed system transfer devices, as these may damage the stopper and compromise vial integrity.
 - Withdraw 10 mL of Uplizna from each of the 3 vials contained in the carton and transfer a total of 30 mL into the 250 mL intravenous bag. Mix diluted solution by gentle inversion. Do not shake the solution.
 
 ## Disposal

@@ -1,32 +1,32 @@
 ---
-document_datetime: 2025-12-29 14:33:50
+document_datetime: 2026-05-22 14:45:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/yttriga.html
 document_name: yttriga.html
 version: success
-processing_time: 0.0945807
-conversion_datetime: 2025-12-30 21:02:34.668038
+processing_time: 0.2794835
+conversion_datetime: 2026-05-23 08:18:39.821311
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.20.0
+  docling-jobkit: 1.20.0
+  docling: 2.95.0
+  docling-core: 2.77.0
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.11.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
 ---
 # Yttriga
 
 [RSS](/en/individual-human-medicine.xml/65430)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-yttrium [90Y] chloride Medicine Human Authorised
+yttrium [90Y] chloride
 
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
+Medicine Human Authorised
 
 Page contents
 
@@ -99,263 +99,135 @@ Yttriga : EPAR - Summary for the public
 
 English (EN) (116.35 KB - PDF)
 
-**First published:** 07/08/2007
-
-**Last updated:** 12/09/2011
+**First published:** 07/08/2007 **Last updated:** 12/09/2011
 
 [View](/en/documents/overview/yttriga-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-842)
+[Other languages (21)](#file-language-dropdown-954)
 
 български (BG) (153.54 KB - PDF)
 
-**First published:**
-
-07/08/2007
-
-**Last updated:**
-
-12/09/2011
+**First published:** 07/08/2007 **Last updated:** 12/09/2011
 
 [View](/bg/documents/overview/yttriga-epar-summary-public_bg.pdf)
 
 español (ES) (115.76 KB - PDF)
 
-**First published:**
-
-07/08/2007
-
-**Last updated:**
-
-12/09/2011
+**First published:** 07/08/2007 **Last updated:** 12/09/2011
 
 [View](/es/documents/overview/yttriga-epar-summary-public_es.pdf)
 
 čeština (CS) (143.69 KB - PDF)
 
-**First published:**
-
-07/08/2007
-
-**Last updated:**
-
-12/09/2011
+**First published:** 07/08/2007 **Last updated:** 12/09/2011
 
 [View](/cs/documents/overview/yttriga-epar-summary-public_cs.pdf)
 
 dansk (DA) (117.23 KB - PDF)
 
-**First published:**
-
-07/08/2007
-
-**Last updated:**
-
-12/09/2011
+**First published:** 07/08/2007 **Last updated:** 12/09/2011
 
 [View](/da/documents/overview/yttriga-epar-summary-public_da.pdf)
 
 Deutsch (DE) (119.55 KB - PDF)
 
-**First published:**
-
-07/08/2007
-
-**Last updated:**
-
-12/09/2011
+**First published:** 07/08/2007 **Last updated:** 12/09/2011
 
 [View](/de/documents/overview/yttriga-epar-summary-public_de.pdf)
 
 eesti keel (ET) (116.86 KB - PDF)
 
-**First published:**
-
-07/08/2007
-
-**Last updated:**
-
-12/09/2011
+**First published:** 07/08/2007 **Last updated:** 12/09/2011
 
 [View](/et/documents/overview/yttriga-epar-summary-public_et.pdf)
 
 ελληνικά (EL) (155.07 KB - PDF)
 
-**First published:**
-
-07/08/2007
-
-**Last updated:**
-
-12/09/2011
+**First published:** 07/08/2007 **Last updated:** 12/09/2011
 
 [View](/el/documents/overview/yttriga-epar-summary-public_el.pdf)
 
 français (FR) (118.51 KB - PDF)
 
-**First published:**
-
-07/08/2007
-
-**Last updated:**
-
-12/09/2011
+**First published:** 07/08/2007 **Last updated:** 12/09/2011
 
 [View](/fr/documents/overview/yttriga-epar-summary-public_fr.pdf)
 
 italiano (IT) (119.73 KB - PDF)
 
-**First published:**
-
-07/08/2007
-
-**Last updated:**
-
-12/09/2011
+**First published:** 07/08/2007 **Last updated:** 12/09/2011
 
 [View](/it/documents/overview/yttriga-epar-summary-public_it.pdf)
 
 latviešu valoda (LV) (142.34 KB - PDF)
 
-**First published:**
-
-07/08/2007
-
-**Last updated:**
-
-12/09/2011
+**First published:** 07/08/2007 **Last updated:** 12/09/2011
 
 [View](/lv/documents/overview/yttriga-epar-summary-public_lv.pdf)
 
 lietuvių kalba (LT) (141.04 KB - PDF)
 
-**First published:**
-
-07/08/2007
-
-**Last updated:**
-
-12/09/2011
+**First published:** 07/08/2007 **Last updated:** 12/09/2011
 
 [View](/lt/documents/overview/yttriga-epar-summary-public_lt.pdf)
 
 magyar (HU) (137.73 KB - PDF)
 
-**First published:**
-
-07/08/2007
-
-**Last updated:**
-
-12/09/2011
+**First published:** 07/08/2007 **Last updated:** 12/09/2011
 
 [View](/hu/documents/overview/yttriga-epar-summary-public_hu.pdf)
 
 Malti (MT) (170.46 KB - PDF)
 
-**First published:**
-
-07/08/2007
-
-**Last updated:**
-
-12/09/2011
+**First published:** 07/08/2007 **Last updated:** 12/09/2011
 
 [View](/mt/documents/overview/yttriga-epar-summary-public_mt.pdf)
 
 Nederlands (NL) (118.26 KB - PDF)
 
-**First published:**
-
-07/08/2007
-
-**Last updated:**
-
-12/09/2011
+**First published:** 07/08/2007 **Last updated:** 12/09/2011
 
 [View](/nl/documents/overview/yttriga-epar-summary-public_nl.pdf)
 
 polski (PL) (144.49 KB - PDF)
 
-**First published:**
-
-07/08/2007
-
-**Last updated:**
-
-12/09/2011
+**First published:** 07/08/2007 **Last updated:** 12/09/2011
 
 [View](/pl/documents/overview/yttriga-epar-summary-public_pl.pdf)
 
 português (PT) (118.72 KB - PDF)
 
-**First published:**
-
-07/08/2007
-
-**Last updated:**
-
-12/09/2011
+**First published:** 07/08/2007 **Last updated:** 12/09/2011
 
 [View](/pt/documents/overview/yttriga-epar-summary-public_pt.pdf)
 
 română (RO) (141.04 KB - PDF)
 
-**First published:**
-
-07/08/2007
-
-**Last updated:**
-
-12/09/2011
+**First published:** 07/08/2007 **Last updated:** 12/09/2011
 
 [View](/ro/documents/overview/yttriga-epar-summary-public_ro.pdf)
 
 slovenčina (SK) (141.14 KB - PDF)
 
-**First published:**
-
-07/08/2007
-
-**Last updated:**
-
-12/09/2011
+**First published:** 07/08/2007 **Last updated:** 12/09/2011
 
 [View](/sk/documents/overview/yttriga-epar-summary-public_sk.pdf)
 
 slovenščina (SL) (137.85 KB - PDF)
 
-**First published:**
-
-07/08/2007
-
-**Last updated:**
-
-12/09/2011
+**First published:** 07/08/2007 **Last updated:** 12/09/2011
 
 [View](/sl/documents/overview/yttriga-epar-summary-public_sl.pdf)
 
 Suomi (FI) (117.69 KB - PDF)
 
-**First published:**
-
-07/08/2007
-
-**Last updated:**
-
-12/09/2011
+**First published:** 07/08/2007 **Last updated:** 12/09/2011
 
 [View](/fi/documents/overview/yttriga-epar-summary-public_fi.pdf)
 
 svenska (SV) (117.4 KB - PDF)
 
-**First published:**
-
-07/08/2007
-
-**Last updated:**
-
-12/09/2011
+**First published:** 07/08/2007 **Last updated:** 12/09/2011
 
 [View](/sv/documents/overview/yttriga-epar-summary-public_sv.pdf)
 
@@ -363,305 +235,161 @@ svenska (SV) (117.4 KB - PDF)
 
 Yttriga : EPAR - Product Information
 
-English (EN) (319.75 KB - PDF)
+English (EN) (309.62 KB - PDF)
 
-**First published:** 19/08/2009
-
-**Last updated:** 29/01/2021
+**First published:** 19/08/2009 **Last updated:** 22/05/2026
 
 [View](/en/documents/product-information/yttriga-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-897)
+[Other languages (24)](#file-language-dropdown-71)
 
-български (BG) (406.28 KB - PDF)
+български (BG) (397.85 KB - PDF)
 
-**First published:**
-
-19/08/2009
-
-**Last updated:**
-
-29/01/2021
+**First published:** 19/08/2009 **Last updated:** 22/05/2026
 
 [View](/bg/documents/product-information/yttriga-epar-product-information_bg.pdf)
 
-español (ES) (433.04 KB - PDF)
+español (ES) (366.97 KB - PDF)
 
-**First published:**
-
-19/08/2009
-
-**Last updated:**
-
-29/01/2021
+**First published:** 19/08/2009 **Last updated:** 22/05/2026
 
 [View](/es/documents/product-information/yttriga-epar-product-information_es.pdf)
 
-čeština (CS) (373.78 KB - PDF)
+čeština (CS) (373.35 KB - PDF)
 
-**First published:**
-
-19/08/2009
-
-**Last updated:**
-
-29/01/2021
+**First published:** 19/08/2009 **Last updated:** 22/05/2026
 
 [View](/cs/documents/product-information/yttriga-epar-product-information_cs.pdf)
 
-dansk (DA) (308.23 KB - PDF)
+dansk (DA) (303.52 KB - PDF)
 
-**First published:**
-
-19/08/2009
-
-**Last updated:**
-
-29/01/2021
+**First published:** 19/08/2009 **Last updated:** 22/05/2026
 
 [View](/da/documents/product-information/yttriga-epar-product-information_da.pdf)
 
-Deutsch (DE) (319.12 KB - PDF)
+Deutsch (DE) (296.09 KB - PDF)
 
-**First published:**
-
-19/08/2009
-
-**Last updated:**
-
-29/01/2021
+**First published:** 19/08/2009 **Last updated:** 22/05/2026
 
 [View](/de/documents/product-information/yttriga-epar-product-information_de.pdf)
 
-eesti keel (ET) (350.33 KB - PDF)
+eesti keel (ET) (344.13 KB - PDF)
 
-**First published:**
-
-19/08/2009
-
-**Last updated:**
-
-29/01/2021
+**First published:** 19/08/2009 **Last updated:** 22/05/2026
 
 [View](/et/documents/product-information/yttriga-epar-product-information_et.pdf)
 
-ελληνικά (EL) (441.73 KB - PDF)
+ελληνικά (EL) (347.81 KB - PDF)
 
-**First published:**
-
-19/08/2009
-
-**Last updated:**
-
-29/01/2021
+**First published:** 19/08/2009 **Last updated:** 22/05/2026
 
 [View](/el/documents/product-information/yttriga-epar-product-information_el.pdf)
 
-français (FR) (329.48 KB - PDF)
+français (FR) (363.83 KB - PDF)
 
-**First published:**
-
-19/08/2009
-
-**Last updated:**
-
-29/01/2021
+**First published:** 19/08/2009 **Last updated:** 22/05/2026
 
 [View](/fr/documents/product-information/yttriga-epar-product-information_fr.pdf)
 
-hrvatski (HR) (370.92 KB - PDF)
+hrvatski (HR) (384.51 KB - PDF)
 
-**First published:**
-
-19/08/2009
-
-**Last updated:**
-
-29/01/2021
+**First published:** 19/08/2009 **Last updated:** 22/05/2026
 
 [View](/hr/documents/product-information/yttriga-epar-product-information_hr.pdf)
 
-íslenska (IS) (349.64 KB - PDF)
+íslenska (IS) (304.37 KB - PDF)
 
-**First published:**
-
-19/08/2009
-
-**Last updated:**
-
-29/01/2021
+**First published:** 19/08/2009 **Last updated:** 22/05/2026
 
 [View](/is/documents/product-information/yttriga-epar-product-information_is.pdf)
 
-italiano (IT) (319.97 KB - PDF)
+italiano (IT) (302.76 KB - PDF)
 
-**First published:**
-
-19/08/2009
-
-**Last updated:**
-
-29/01/2021
+**First published:** 19/08/2009 **Last updated:** 22/05/2026
 
 [View](/it/documents/product-information/yttriga-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (368.49 KB - PDF)
+latviešu valoda (LV) (414.45 KB - PDF)
 
-**First published:**
-
-19/08/2009
-
-**Last updated:**
-
-29/01/2021
+**First published:** 19/08/2009 **Last updated:** 22/05/2026
 
 [View](/lv/documents/product-information/yttriga-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (412.93 KB - PDF)
+lietuvių kalba (LT) (381.47 KB - PDF)
 
-**First published:**
-
-19/08/2009
-
-**Last updated:**
-
-29/01/2021
+**First published:** 19/08/2009 **Last updated:** 22/05/2026
 
 [View](/lt/documents/product-information/yttriga-epar-product-information_lt.pdf)
 
-magyar (HU) (375.28 KB - PDF)
+magyar (HU) (325.26 KB - PDF)
 
-**First published:**
-
-19/08/2009
-
-**Last updated:**
-
-29/01/2021
+**First published:** 19/08/2009 **Last updated:** 22/05/2026
 
 [View](/hu/documents/product-information/yttriga-epar-product-information_hu.pdf)
 
-Malti (MT) (403.73 KB - PDF)
+Malti (MT) (429.31 KB - PDF)
 
-**First published:**
-
-19/08/2009
-
-**Last updated:**
-
-29/01/2021
+**First published:** 19/08/2009 **Last updated:** 22/05/2026
 
 [View](/mt/documents/product-information/yttriga-epar-product-information_mt.pdf)
 
-Nederlands (NL) (354.85 KB - PDF)
+Nederlands (NL) (327.6 KB - PDF)
 
-**First published:**
-
-19/08/2009
-
-**Last updated:**
-
-29/01/2021
+**First published:** 19/08/2009 **Last updated:** 22/05/2026
 
 [View](/nl/documents/product-information/yttriga-epar-product-information_nl.pdf)
 
-norsk (NO) (282.67 KB - PDF)
+norsk (NO) (304.11 KB - PDF)
 
-**First published:**
-
-19/08/2009
-
-**Last updated:**
-
-29/01/2021
+**First published:** 19/08/2009 **Last updated:** 22/05/2026
 
 [View](/no/documents/product-information/yttriga-epar-product-information_no.pdf)
 
-polski (PL) (381.27 KB - PDF)
+polski (PL) (392.21 KB - PDF)
 
-**First published:**
-
-19/08/2009
-
-**Last updated:**
-
-29/01/2021
+**First published:** 19/08/2009 **Last updated:** 22/05/2026
 
 [View](/pl/documents/product-information/yttriga-epar-product-information_pl.pdf)
 
-português (PT) (298.55 KB - PDF)
+português (PT) (338.96 KB - PDF)
 
-**First published:**
-
-19/08/2009
-
-**Last updated:**
-
-29/01/2021
+**First published:** 19/08/2009 **Last updated:** 22/05/2026
 
 [View](/pt/documents/product-information/yttriga-epar-product-information_pt.pdf)
 
-română (RO) (427.99 KB - PDF)
+română (RO) (378.22 KB - PDF)
 
-**First published:**
-
-19/08/2009
-
-**Last updated:**
-
-29/01/2021
+**First published:** 19/08/2009 **Last updated:** 22/05/2026
 
 [View](/ro/documents/product-information/yttriga-epar-product-information_ro.pdf)
 
-slovenčina (SK) (369.33 KB - PDF)
+slovenčina (SK) (390.43 KB - PDF)
 
-**First published:**
-
-19/08/2009
-
-**Last updated:**
-
-29/01/2021
+**First published:** 19/08/2009 **Last updated:** 22/05/2026
 
 [View](/sk/documents/product-information/yttriga-epar-product-information_sk.pdf)
 
-slovenščina (SL) (403.82 KB - PDF)
+slovenščina (SL) (391.91 KB - PDF)
 
-**First published:**
-
-19/08/2009
-
-**Last updated:**
-
-29/01/2021
+**First published:** 19/08/2009 **Last updated:** 22/05/2026
 
 [View](/sl/documents/product-information/yttriga-epar-product-information_sl.pdf)
 
-Suomi (FI) (358.13 KB - PDF)
+Suomi (FI) (342.92 KB - PDF)
 
-**First published:**
-
-19/08/2009
-
-**Last updated:**
-
-29/01/2021
+**First published:** 19/08/2009 **Last updated:** 22/05/2026
 
 [View](/fi/documents/product-information/yttriga-epar-product-information_fi.pdf)
 
-svenska (SV) (309.2 KB - PDF)
+svenska (SV) (301.9 KB - PDF)
 
-**First published:**
-
-19/08/2009
-
-**Last updated:**
-
-29/01/2021
+**First published:** 19/08/2009 **Last updated:** 22/05/2026
 
 [View](/sv/documents/product-information/yttriga-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** N/0018 18/12/2020
+**Latest procedure affecting product information:** VR/0000348646
+
+21/05/2026
 
 icon globe
 
@@ -679,307 +407,179 @@ Product information documents contain:
 
 Yttriga : EPAR - All Authorised presentations
 
-English (EN) (14.86 KB - PDF)
+English (EN) (51.72 KB - PDF)
 
-**First published:** 30/10/2006
-
-**Last updated:** 11/02/2019
+**First published:** 30/10/2006 **Last updated:** 22/05/2026
 
 [View](/en/documents/all-authorised-presentations/yttriga-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-951)
+[Other languages (24)](#file-language-dropdown-45)
 
-български (BG) (79.42 KB - PDF)
+български (BG) (60.98 KB - PDF)
 
-**First published:**
-
-30/10/2006
-
-**Last updated:**
-
-11/02/2019
+**First published:** 30/10/2006 **Last updated:** 22/05/2026
 
 [View](/bg/documents/all-authorised-presentations/yttriga-epar-all-authorised-presentations_bg.pdf)
 
-español (ES) (14.71 KB - PDF)
+español (ES) (51.58 KB - PDF)
 
-**First published:**
-
-30/10/2006
-
-**Last updated:**
-
-11/02/2019
+**First published:** 30/10/2006 **Last updated:** 22/05/2026
 
 [View](/es/documents/all-authorised-presentations/yttriga-epar-all-authorised-presentations_es.pdf)
 
-čeština (CS) (81.17 KB - PDF)
+čeština (CS) (63.04 KB - PDF)
 
-**First published:**
-
-30/10/2006
-
-**Last updated:**
-
-11/02/2019
+**First published:** 30/10/2006 **Last updated:** 22/05/2026
 
 [View](/cs/documents/all-authorised-presentations/yttriga-epar-all-authorised-presentations_cs.pdf)
 
-dansk (DA) (14.81 KB - PDF)
+dansk (DA) (53.32 KB - PDF)
 
-**First published:**
-
-30/10/2006
-
-**Last updated:**
-
-11/02/2019
+**First published:** 30/10/2006 **Last updated:** 22/05/2026
 
 [View](/da/documents/all-authorised-presentations/yttriga-epar-all-authorised-presentations_da.pdf)
 
-Deutsch (DE) (14.76 KB - PDF)
+Deutsch (DE) (53.95 KB - PDF)
 
-**First published:**
-
-30/10/2006
-
-**Last updated:**
-
-11/02/2019
+**First published:** 30/10/2006 **Last updated:** 22/05/2026
 
 [View](/de/documents/all-authorised-presentations/yttriga-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (14.74 KB - PDF)
+eesti keel (ET) (51.77 KB - PDF)
 
-**First published:**
-
-30/10/2006
-
-**Last updated:**
-
-11/02/2019
+**First published:** 30/10/2006 **Last updated:** 22/05/2026
 
 [View](/et/documents/all-authorised-presentations/yttriga-epar-all-authorised-presentations_et.pdf)
 
-ελληνικά (EL) (73.47 KB - PDF)
+ελληνικά (EL) (67.98 KB - PDF)
 
-**First published:**
-
-30/10/2006
-
-**Last updated:**
-
-11/02/2019
+**First published:** 30/10/2006 **Last updated:** 22/05/2026
 
 [View](/el/documents/all-authorised-presentations/yttriga-epar-all-authorised-presentations_el.pdf)
 
-français (FR) (14.83 KB - PDF)
+français (FR) (52.08 KB - PDF)
 
-**First published:**
-
-30/10/2006
-
-**Last updated:**
-
-11/02/2019
+**First published:** 30/10/2006 **Last updated:** 22/05/2026
 
 [View](/fr/documents/all-authorised-presentations/yttriga-epar-all-authorised-presentations_fr.pdf)
 
-hrvatski (HR) (124.98 KB - PDF)
+hrvatski (HR) (71.74 KB - PDF)
 
-**First published:**
-
-30/10/2006
-
-**Last updated:**
-
-11/02/2019
+**First published:** 30/10/2006 **Last updated:** 22/05/2026
 
 [View](/hr/documents/all-authorised-presentations/yttriga-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (14.75 KB - PDF)
+íslenska (IS) (52.72 KB - PDF)
 
-**First published:**
-
-30/10/2006
-
-**Last updated:**
-
-11/02/2019
+**First published:** 30/10/2006 **Last updated:** 22/05/2026
 
 [View](/is/documents/all-authorised-presentations/yttriga-epar-all-authorised-presentations_is.pdf)
 
-italiano (IT) (14.27 KB - PDF)
+italiano (IT) (51.62 KB - PDF)
 
-**First published:**
-
-30/10/2006
-
-**Last updated:**
-
-11/02/2019
+**First published:** 30/10/2006 **Last updated:** 22/05/2026
 
 [View](/it/documents/all-authorised-presentations/yttriga-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (79.72 KB - PDF)
+latviešu valoda (LV) (70.56 KB - PDF)
 
-**First published:**
-
-30/10/2006
-
-**Last updated:**
-
-11/02/2019
+**First published:** 30/10/2006 **Last updated:** 22/05/2026
 
 [View](/lv/documents/all-authorised-presentations/yttriga-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (78.4 KB - PDF)
+lietuvių kalba (LT) (71.16 KB - PDF)
 
-**First published:**
-
-30/10/2006
-
-**Last updated:**
-
-11/02/2019
+**First published:** 30/10/2006 **Last updated:** 22/05/2026
 
 [View](/lt/documents/all-authorised-presentations/yttriga-epar-all-authorised-presentations_lt.pdf)
 
-magyar (HU) (44.45 KB - PDF)
+magyar (HU) (62.19 KB - PDF)
 
-**First published:**
-
-30/10/2006
-
-**Last updated:**
-
-11/02/2019
+**First published:** 30/10/2006 **Last updated:** 22/05/2026
 
 [View](/hu/documents/all-authorised-presentations/yttriga-epar-all-authorised-presentations_hu.pdf)
 
-Malti (MT) (81.23 KB - PDF)
+Malti (MT) (74.6 KB - PDF)
 
-**First published:**
-
-30/10/2006
-
-**Last updated:**
-
-11/02/2019
+**First published:** 30/10/2006 **Last updated:** 22/05/2026
 
 [View](/mt/documents/all-authorised-presentations/yttriga-epar-all-authorised-presentations_mt.pdf)
 
-Nederlands (NL) (14.34 KB - PDF)
+Nederlands (NL) (74.6 KB - PDF)
 
-**First published:**
-
-30/10/2006
-
-**Last updated:**
-
-11/02/2019
+**First published:** 30/10/2006 **Last updated:** 22/05/2026
 
 [View](/nl/documents/all-authorised-presentations/yttriga-epar-all-authorised-presentations_nl.pdf)
 
-norsk (NO) (14.76 KB - PDF)
+norsk (NO) (52.59 KB - PDF)
 
-**First published:**
-
-30/10/2006
-
-**Last updated:**
-
-11/02/2019
+**First published:** 30/10/2006 **Last updated:** 22/05/2026
 
 [View](/no/documents/all-authorised-presentations/yttriga-epar-all-authorised-presentations_no.pdf)
 
-polski (PL) (83.29 KB - PDF)
+polski (PL) (90.55 KB - PDF)
 
-**First published:**
-
-30/10/2006
-
-**Last updated:**
-
-11/02/2019
+**First published:** 30/10/2006 **Last updated:** 22/05/2026
 
 [View](/pl/documents/all-authorised-presentations/yttriga-epar-all-authorised-presentations_pl.pdf)
 
-português (PT) (14.83 KB - PDF)
+português (PT) (52.97 KB - PDF)
 
-**First published:**
-
-30/10/2006
-
-**Last updated:**
-
-11/02/2019
+**First published:** 30/10/2006 **Last updated:** 22/05/2026
 
 [View](/pt/documents/all-authorised-presentations/yttriga-epar-all-authorised-presentations_pt.pdf)
 
-română (RO) (79.14 KB - PDF)
+română (RO) (88.65 KB - PDF)
 
-**First published:**
-
-30/10/2006
-
-**Last updated:**
-
-11/02/2019
+**First published:** 30/10/2006 **Last updated:** 22/05/2026
 
 [View](/ro/documents/all-authorised-presentations/yttriga-epar-all-authorised-presentations_ro.pdf)
 
-slovenčina (SK) (81.37 KB - PDF)
+slovenčina (SK) (70.53 KB - PDF)
 
-**First published:**
-
-30/10/2006
-
-**Last updated:**
-
-11/02/2019
+**First published:** 30/10/2006 **Last updated:** 22/05/2026
 
 [View](/sk/documents/all-authorised-presentations/yttriga-epar-all-authorised-presentations_sk.pdf)
 
-slovenščina (SL) (50.87 KB - PDF)
+slovenščina (SL) (69.2 KB - PDF)
 
-**First published:**
-
-30/10/2006
-
-**Last updated:**
-
-11/02/2019
+**First published:** 30/10/2006 **Last updated:** 22/05/2026
 
 [View](/sl/documents/all-authorised-presentations/yttriga-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (14.74 KB - PDF)
+Suomi (FI) (51.3 KB - PDF)
 
-**First published:**
-
-30/10/2006
-
-**Last updated:**
-
-11/02/2019
+**First published:** 30/10/2006 **Last updated:** 22/05/2026
 
 [View](/fi/documents/all-authorised-presentations/yttriga-epar-all-authorised-presentations_fi.pdf)
 
-svenska (SV) (14.81 KB - PDF)
+svenska (SV) (52.37 KB - PDF)
 
-**First published:**
-
-30/10/2006
-
-**Last updated:**
-
-11/02/2019
+**First published:** 30/10/2006 **Last updated:** 22/05/2026
 
 [View](/sv/documents/all-authorised-presentations/yttriga-epar-all-authorised-presentations_sv.pdf)
 
 ## Product details
 
-Name of medicine Yttriga Active substance yttrium (90Y) chloride International non-proprietary name (INN) or common name yttrium [90Y] chloride Therapeutic area (MeSH) Radionuclide Imaging Anatomical therapeutic chemical (ATC) code V09
+Name of medicine
+
+Yttriga
+
+Active substance
+
+yttrium (90Y) chloride
+
+International non-proprietary name (INN) or common name
+
+yttrium [90Y] chloride
+
+Therapeutic area (MeSH)
+
+Radionuclide Imaging
+
+Anatomical therapeutic chemical (ATC) code
+
+V09
 
 ### Pharmacotherapeutic group
 
@@ -991,13 +591,27 @@ To be used only for the radiolabelling of carrier molecules, which have been spe
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/000596 Marketing authorisation holder
+EMA product number
+
+EMEA/H/C/000596
+
+Marketing authorisation holder
 
 Eckert  Ziegler Radiopharma GmbH
 
 Robert-Rossle-Str. 10 D-13125 Berlin Germany
 
-Opinion adopted 15/09/2005 Marketing authorisation issued 19/01/2006 Revision 10
+Opinion adopted
+
+15/09/2005
+
+Marketing authorisation issued
+
+19/01/2006
+
+Revision
+
+11
 
 ## Assessment history
 
@@ -1009,13 +623,19 @@ Collapse section
 
 Yttriga : EPAR - Procedural steps taken and scientific information after authorisation
 
+English (EN) (146.66 KB - PDF)
+
+**First published:** 22/05/2026
+
+[View](/en/documents/procedural-steps-after/yttriga-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+
+Yttriga : EPAR - Procedural steps taken and scientific information after authorisation (archive)
+
 English (EN) (169.7 KB - PDF)
 
-**First published:** 19/08/2009
+**First published:** 19/08/2009 **Last updated:** 22/05/2026
 
-**Last updated:** 29/01/2021
-
-[View](/en/documents/procedural-steps-after/yttriga-epar-procedural-steps-taken-and-scientific-information-after-authorisation_en.pdf)
+[View](/en/documents/procedural-steps-after/yttriga-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 ## Initial marketing authorisation documents
 
@@ -1023,9 +643,7 @@ Yttriga : EPAR - Scientific Discussion
 
 English (EN) (277.5 KB - PDF)
 
-**First published:** 30/10/2006
-
-**Last updated:** 30/10/2006
+**First published:** 30/10/2006 **Last updated:** 30/10/2006
 
 [View](/en/documents/scientific-discussion/yttriga-epar-scientific-discussion_en.pdf)
 
@@ -1033,18 +651,16 @@ Yttriga : EPAR - Procedural steps taken before authorisation
 
 English (EN) (82.04 KB - PDF)
 
-**First published:** 30/10/2006
-
-**Last updated:** 30/10/2006
+**First published:** 30/10/2006 **Last updated:** 30/10/2006
 
 [View](/en/documents/procedural-steps/yttriga-epar-procedural-steps-taken-authorisation_en.pdf)
 
-#### Topics
+## Topics
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 29/01/2021
+**This page was last updated on**
+
+22/05/2026
 
 ## Share this page
-
-[Back to top](#main-content)

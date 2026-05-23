@@ -1,32 +1,32 @@
 ---
-document_datetime: 2025-12-29 12:46:31
+document_datetime: 2026-05-22 13:25:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/jubereq.html
 document_name: jubereq.html
 version: success
-processing_time: 0.1016868
-conversion_datetime: 2025-12-30 08:53:40.624326
+processing_time: 0.1192996
+conversion_datetime: 2026-05-23 08:20:15.881154
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.20.0
+  docling-jobkit: 1.20.0
+  docling: 2.95.0
+  docling-core: 2.77.0
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.11.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
 ---
 # Jubereq
 
 [RSS](/en/individual-human-medicine.xml/256953)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-denosumab Medicine Human Authorised
+denosumab
 
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
+Medicine Human Authorised
 
 Page contents
 
@@ -117,181 +117,137 @@ English (EN) (113.51 KB - PDF)
 
 [View](/en/documents/overview/jubereq-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-604)
+[Other languages (22)](#file-language-dropdown-53)
 
 български (BG) (139.14 KB - PDF)
 
-**First published:**
-
-28/07/2025
+**First published:** 28/07/2025
 
 [View](/bg/documents/overview/jubereq-epar-medicine-overview_bg.pdf)
 
 español (ES) (113.94 KB - PDF)
 
-**First published:**
-
-28/07/2025
+**First published:** 28/07/2025
 
 [View](/es/documents/overview/jubereq-epar-medicine-overview_es.pdf)
 
 čeština (CS) (136.42 KB - PDF)
 
-**First published:**
-
-28/07/2025
+**First published:** 28/07/2025
 
 [View](/cs/documents/overview/jubereq-epar-medicine-overview_cs.pdf)
 
 dansk (DA) (112.55 KB - PDF)
 
-**First published:**
-
-28/07/2025
+**First published:** 28/07/2025
 
 [View](/da/documents/overview/jubereq-epar-medicine-overview_da.pdf)
 
 Deutsch (DE) (116.29 KB - PDF)
 
-**First published:**
-
-28/07/2025
+**First published:** 28/07/2025
 
 [View](/de/documents/overview/jubereq-epar-medicine-overview_de.pdf)
 
 eesti keel (ET) (111.09 KB - PDF)
 
-**First published:**
-
-28/07/2025
+**First published:** 28/07/2025
 
 [View](/et/documents/overview/jubereq-epar-medicine-overview_et.pdf)
 
 ελληνικά (EL) (136.72 KB - PDF)
 
-**First published:**
-
-28/07/2025
+**First published:** 28/07/2025
 
 [View](/el/documents/overview/jubereq-epar-medicine-overview_el.pdf)
 
 français (FR) (114.27 KB - PDF)
 
-**First published:**
-
-28/07/2025
+**First published:** 28/07/2025
 
 [View](/fr/documents/overview/jubereq-epar-medicine-overview_fr.pdf)
 
 hrvatski (HR) (135.86 KB - PDF)
 
-**First published:**
-
-28/07/2025
+**First published:** 28/07/2025
 
 [View](/hr/documents/overview/jubereq-epar-medicine-overview_hr.pdf)
 
 italiano (IT) (112.64 KB - PDF)
 
-**First published:**
-
-28/07/2025
+**First published:** 28/07/2025
 
 [View](/it/documents/overview/jubereq-epar-medicine-overview_it.pdf)
 
 latviešu valoda (LV) (142.83 KB - PDF)
 
-**First published:**
-
-28/07/2025
+**First published:** 28/07/2025
 
 [View](/lv/documents/overview/jubereq-epar-medicine-overview_lv.pdf)
 
 lietuvių kalba (LT) (136.78 KB - PDF)
 
-**First published:**
-
-28/07/2025
+**First published:** 28/07/2025
 
 [View](/lt/documents/overview/jubereq-epar-medicine-overview_lt.pdf)
 
 magyar (HU) (135.7 KB - PDF)
 
-**First published:**
-
-28/07/2025
+**First published:** 28/07/2025
 
 [View](/hu/documents/overview/jubereq-epar-medicine-overview_hu.pdf)
 
 Malti (MT) (138.27 KB - PDF)
 
-**First published:**
-
-28/07/2025
+**First published:** 28/07/2025
 
 [View](/mt/documents/overview/jubereq-epar-medicine-overview_mt.pdf)
 
 Nederlands (NL) (113.37 KB - PDF)
 
-**First published:**
-
-28/07/2025
+**First published:** 28/07/2025
 
 [View](/nl/documents/overview/jubereq-epar-medicine-overview_nl.pdf)
 
 polski (PL) (138.54 KB - PDF)
 
-**First published:**
-
-28/07/2025
+**First published:** 28/07/2025
 
 [View](/pl/documents/overview/jubereq-epar-medicine-overview_pl.pdf)
 
 português (PT) (114.03 KB - PDF)
 
-**First published:**
-
-28/07/2025
+**First published:** 28/07/2025
 
 [View](/pt/documents/overview/jubereq-epar-medicine-overview_pt.pdf)
 
 română (RO) (133.85 KB - PDF)
 
-**First published:**
-
-28/07/2025
+**First published:** 28/07/2025
 
 [View](/ro/documents/overview/jubereq-epar-medicine-overview_ro.pdf)
 
 slovenčina (SK) (136.27 KB - PDF)
 
-**First published:**
-
-28/07/2025
+**First published:** 28/07/2025
 
 [View](/sk/documents/overview/jubereq-epar-medicine-overview_sk.pdf)
 
 slovenščina (SL) (132.93 KB - PDF)
 
-**First published:**
-
-28/07/2025
+**First published:** 28/07/2025
 
 [View](/sl/documents/overview/jubereq-epar-medicine-overview_sl.pdf)
 
 Suomi (FI) (110.88 KB - PDF)
 
-**First published:**
-
-28/07/2025
+**First published:** 28/07/2025
 
 [View](/fi/documents/overview/jubereq-epar-medicine-overview_fi.pdf)
 
 svenska (SV) (111.95 KB - PDF)
 
-**First published:**
-
-28/07/2025
+**First published:** 28/07/2025
 
 [View](/sv/documents/overview/jubereq-epar-medicine-overview_sv.pdf)
 
@@ -307,207 +263,161 @@ English (EN) (647.55 KB - PDF)
 
 Jubereq : EPAR - Product information
 
-English (EN) (760.83 KB - PDF)
+English (EN) (591.22 KB - PDF)
 
-**First published:** 28/07/2025
+**First published:** 28/07/2025 **Last updated:** 22/05/2026
 
 [View](/en/documents/product-information/jubereq-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-981)
+[Other languages (24)](#file-language-dropdown-24)
 
-български (BG) (780.01 KB - PDF)
+български (BG) (752.6 KB - PDF)
 
-**First published:**
-
-28/07/2025
+**First published:** 28/07/2025 **Last updated:** 22/05/2026
 
 [View](/bg/documents/product-information/jubereq-epar-product-information_bg.pdf)
 
-español (ES) (697.24 KB - PDF)
+español (ES) (654.18 KB - PDF)
 
-**First published:**
-
-28/07/2025
+**First published:** 28/07/2025 **Last updated:** 22/05/2026
 
 [View](/es/documents/product-information/jubereq-epar-product-information_es.pdf)
 
-čeština (CS) (723.11 KB - PDF)
+čeština (CS) (729 KB - PDF)
 
-**First published:**
-
-28/07/2025
+**First published:** 28/07/2025 **Last updated:** 22/05/2026
 
 [View](/cs/documents/product-information/jubereq-epar-product-information_cs.pdf)
 
-dansk (DA) (688.77 KB - PDF)
+dansk (DA) (647.34 KB - PDF)
 
-**First published:**
-
-28/07/2025
+**First published:** 28/07/2025 **Last updated:** 22/05/2026
 
 [View](/da/documents/product-information/jubereq-epar-product-information_da.pdf)
 
-Deutsch (DE) (819.89 KB - PDF)
+Deutsch (DE) (705.29 KB - PDF)
 
-**First published:**
-
-28/07/2025
+**First published:** 28/07/2025 **Last updated:** 22/05/2026
 
 [View](/de/documents/product-information/jubereq-epar-product-information_de.pdf)
 
-eesti keel (ET) (719.47 KB - PDF)
+eesti keel (ET) (559.18 KB - PDF)
 
-**First published:**
-
-28/07/2025
+**First published:** 28/07/2025 **Last updated:** 22/05/2026
 
 [View](/et/documents/product-information/jubereq-epar-product-information_et.pdf)
 
-ελληνικά (EL) (787.4 KB - PDF)
+ελληνικά (EL) (910.24 KB - PDF)
 
-**First published:**
-
-28/07/2025
+**First published:** 28/07/2025 **Last updated:** 22/05/2026
 
 [View](/el/documents/product-information/jubereq-epar-product-information_el.pdf)
 
-français (FR) (726.62 KB - PDF)
+français (FR) (665.13 KB - PDF)
 
-**First published:**
-
-28/07/2025
+**First published:** 28/07/2025 **Last updated:** 22/05/2026
 
 [View](/fr/documents/product-information/jubereq-epar-product-information_fr.pdf)
 
-hrvatski (HR) (691.27 KB - PDF)
+hrvatski (HR) (696.84 KB - PDF)
 
-**First published:**
-
-28/07/2025
+**First published:** 28/07/2025 **Last updated:** 22/05/2026
 
 [View](/hr/documents/product-information/jubereq-epar-product-information_hr.pdf)
 
-íslenska (IS) (1.01 MB - PDF)
+íslenska (IS) (678.79 KB - PDF)
 
-**First published:**
-
-28/07/2025
+**First published:** 28/07/2025 **Last updated:** 22/05/2026
 
 [View](/is/documents/product-information/jubereq-epar-product-information_is.pdf)
 
-italiano (IT) (836.15 KB - PDF)
+italiano (IT) (708.05 KB - PDF)
 
-**First published:**
-
-28/07/2025
+**First published:** 28/07/2025 **Last updated:** 22/05/2026
 
 [View](/it/documents/product-information/jubereq-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (748.55 KB - PDF)
+latviešu valoda (LV) (737.41 KB - PDF)
 
-**First published:**
-
-28/07/2025
+**First published:** 28/07/2025 **Last updated:** 22/05/2026
 
 [View](/lv/documents/product-information/jubereq-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (731.89 KB - PDF)
+lietuvių kalba (LT) (674.56 KB - PDF)
 
-**First published:**
-
-28/07/2025
+**First published:** 28/07/2025 **Last updated:** 22/05/2026
 
 [View](/lt/documents/product-information/jubereq-epar-product-information_lt.pdf)
 
-magyar (HU) (850.5 KB - PDF)
+magyar (HU) (698.41 KB - PDF)
 
-**First published:**
-
-28/07/2025
+**First published:** 28/07/2025 **Last updated:** 22/05/2026
 
 [View](/hu/documents/product-information/jubereq-epar-product-information_hu.pdf)
 
-Malti (MT) (800.65 KB - PDF)
+Malti (MT) (731.13 KB - PDF)
 
-**First published:**
-
-28/07/2025
+**First published:** 28/07/2025 **Last updated:** 22/05/2026
 
 [View](/mt/documents/product-information/jubereq-epar-product-information_mt.pdf)
 
-Nederlands (NL) (591.11 KB - PDF)
+Nederlands (NL) (651.5 KB - PDF)
 
-**First published:**
-
-28/07/2025
+**First published:** 28/07/2025 **Last updated:** 22/05/2026
 
 [View](/nl/documents/product-information/jubereq-epar-product-information_nl.pdf)
 
-norsk (NO) (700.53 KB - PDF)
+norsk (NO) (649.27 KB - PDF)
 
-**First published:**
-
-28/07/2025
+**First published:** 28/07/2025 **Last updated:** 22/05/2026
 
 [View](/no/documents/product-information/jubereq-epar-product-information_no.pdf)
 
-polski (PL) (830.24 KB - PDF)
+polski (PL) (732.82 KB - PDF)
 
-**First published:**
-
-28/07/2025
+**First published:** 28/07/2025 **Last updated:** 22/05/2026
 
 [View](/pl/documents/product-information/jubereq-epar-product-information_pl.pdf)
 
-português (PT) (713.79 KB - PDF)
+português (PT) (654.24 KB - PDF)
 
-**First published:**
-
-28/07/2025
+**First published:** 28/07/2025 **Last updated:** 22/05/2026
 
 [View](/pt/documents/product-information/jubereq-epar-product-information_pt.pdf)
 
-română (RO) (785.14 KB - PDF)
+română (RO) (728.85 KB - PDF)
 
-**First published:**
-
-28/07/2025
+**First published:** 28/07/2025 **Last updated:** 22/05/2026
 
 [View](/ro/documents/product-information/jubereq-epar-product-information_ro.pdf)
 
-slovenčina (SK) (721.05 KB - PDF)
+slovenčina (SK) (727.36 KB - PDF)
 
-**First published:**
-
-28/07/2025
+**First published:** 28/07/2025 **Last updated:** 22/05/2026
 
 [View](/sk/documents/product-information/jubereq-epar-product-information_sk.pdf)
 
-slovenščina (SL) (782.97 KB - PDF)
+slovenščina (SL) (688.57 KB - PDF)
 
-**First published:**
-
-28/07/2025
+**First published:** 28/07/2025 **Last updated:** 22/05/2026
 
 [View](/sl/documents/product-information/jubereq-epar-product-information_sl.pdf)
 
-Suomi (FI) (692.11 KB - PDF)
+Suomi (FI) (568.06 KB - PDF)
 
-**First published:**
-
-28/07/2025
+**First published:** 28/07/2025 **Last updated:** 22/05/2026
 
 [View](/fi/documents/product-information/jubereq-epar-product-information_fi.pdf)
 
-svenska (SV) (693.36 KB - PDF)
+svenska (SV) (657.42 KB - PDF)
 
-**First published:**
-
-28/07/2025
+**First published:** 28/07/2025 **Last updated:** 22/05/2026
 
 [View](/sv/documents/product-information/jubereq-epar-product-information_sv.pdf)
 
-26/05/2025
+**Latest procedure affecting product information:** VR/0000340077
+
+21/05/2026
 
 icon globe
 
@@ -531,208 +441,174 @@ English (EN) (162.28 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/jubereq-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-366)
+[Other languages (24)](#file-language-dropdown-447)
 
 български (BG) (168.7 KB - PDF)
 
-**First published:**
-
-28/07/2025
+**First published:** 28/07/2025
 
 [View](/bg/documents/all-authorised-presentations/jubereq-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (162.13 KB - PDF)
 
-**First published:**
-
-28/07/2025
+**First published:** 28/07/2025
 
 [View](/es/documents/all-authorised-presentations/jubereq-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (167.71 KB - PDF)
 
-**First published:**
-
-28/07/2025
+**First published:** 28/07/2025
 
 [View](/cs/documents/all-authorised-presentations/jubereq-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (162.53 KB - PDF)
 
-**First published:**
-
-28/07/2025
+**First published:** 28/07/2025
 
 [View](/da/documents/all-authorised-presentations/jubereq-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (167.11 KB - PDF)
 
-**First published:**
-
-28/07/2025
+**First published:** 28/07/2025
 
 [View](/de/documents/all-authorised-presentations/jubereq-epar-all-authorised-presentations_de.pdf)
 
 eesti keel (ET) (159.21 KB - PDF)
 
-**First published:**
-
-28/07/2025
+**First published:** 28/07/2025
 
 [View](/et/documents/all-authorised-presentations/jubereq-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (165.17 KB - PDF)
 
-**First published:**
-
-28/07/2025
+**First published:** 28/07/2025
 
 [View](/el/documents/all-authorised-presentations/jubereq-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (162.62 KB - PDF)
 
-**First published:**
-
-28/07/2025
+**First published:** 28/07/2025
 
 [View](/fr/documents/all-authorised-presentations/jubereq-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (161.84 KB - PDF)
 
-**First published:**
-
-28/07/2025
+**First published:** 28/07/2025
 
 [View](/hr/documents/all-authorised-presentations/jubereq-epar-all-authorised-presentations_hr.pdf)
 
 íslenska (IS) (88.74 KB - PDF)
 
-**First published:**
-
-28/07/2025
+**First published:** 28/07/2025
 
 [View](/is/documents/all-authorised-presentations/jubereq-epar-all-authorised-presentations_is.pdf)
 
 italiano (IT) (162.94 KB - PDF)
 
-**First published:**
-
-28/07/2025
+**First published:** 28/07/2025
 
 [View](/it/documents/all-authorised-presentations/jubereq-epar-all-authorised-presentations_it.pdf)
 
 latviešu valoda (LV) (165.08 KB - PDF)
 
-**First published:**
-
-28/07/2025
+**First published:** 28/07/2025
 
 [View](/lv/documents/all-authorised-presentations/jubereq-epar-all-authorised-presentations_lv.pdf)
 
 lietuvių kalba (LT) (163.76 KB - PDF)
 
-**First published:**
-
-28/07/2025
+**First published:** 28/07/2025
 
 [View](/lt/documents/all-authorised-presentations/jubereq-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (164.81 KB - PDF)
 
-**First published:**
-
-28/07/2025
+**First published:** 28/07/2025
 
 [View](/hu/documents/all-authorised-presentations/jubereq-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (91.11 KB - PDF)
 
-**First published:**
-
-28/07/2025
+**First published:** 28/07/2025
 
 [View](/mt/documents/all-authorised-presentations/jubereq-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (161.8 KB - PDF)
 
-**First published:**
-
-28/07/2025
+**First published:** 28/07/2025
 
 [View](/nl/documents/all-authorised-presentations/jubereq-epar-all-authorised-presentations_nl.pdf)
 
 norsk (NO) (165.27 KB - PDF)
 
-**First published:**
-
-28/07/2025
+**First published:** 28/07/2025
 
 [View](/no/documents/all-authorised-presentations/jubereq-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (166.85 KB - PDF)
 
-**First published:**
-
-28/07/2025
+**First published:** 28/07/2025
 
 [View](/pl/documents/all-authorised-presentations/jubereq-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (165.39 KB - PDF)
 
-**First published:**
-
-28/07/2025
+**First published:** 28/07/2025
 
 [View](/pt/documents/all-authorised-presentations/jubereq-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (163.34 KB - PDF)
 
-**First published:**
-
-28/07/2025
+**First published:** 28/07/2025
 
 [View](/ro/documents/all-authorised-presentations/jubereq-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (165.42 KB - PDF)
 
-**First published:**
-
-28/07/2025
+**First published:** 28/07/2025
 
 [View](/sk/documents/all-authorised-presentations/jubereq-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (85.75 KB - PDF)
 
-**First published:**
-
-28/07/2025
+**First published:** 28/07/2025
 
 [View](/sl/documents/all-authorised-presentations/jubereq-epar-all-authorised-presentations_sl.pdf)
 
 Suomi (FI) (159.83 KB - PDF)
 
-**First published:**
-
-28/07/2025
+**First published:** 28/07/2025
 
 [View](/fi/documents/all-authorised-presentations/jubereq-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (162.28 KB - PDF)
 
-**First published:**
-
-28/07/2025
+**First published:** 28/07/2025
 
 [View](/sv/documents/all-authorised-presentations/jubereq-epar-all-authorised-presentations_sv.pdf)
 
 ## Product details
 
-Name of medicine Jubereq Active substance denosumab International non-proprietary name (INN) or common name denosumab Therapeutic area (MeSH)
+Name of medicine
+
+Jubereq
+
+Active substance
+
+denosumab
+
+International non-proprietary name (INN) or common name
+
+denosumab
+
+Therapeutic area (MeSH)
 
 - Neoplasms, Bone Tissue
 - Giant Cell Tumor of Bone
 
-Anatomical therapeutic chemical (ATC) code M05BX04
+Anatomical therapeutic chemical (ATC) code
+
+M05BX04
 
 ### Pharmacotherapeutic group
 
@@ -744,7 +620,9 @@ Prevention of skeletal related events (pathological fracture, radiation to bone,
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/006398
+EMA product number
+
+EMEA/H/C/006398
 
 Additional monitoring
 
@@ -760,17 +638,39 @@ Accord Healthcare S.L.U.
 
 Edificio Este Planta 6a
 
-Opinion adopted 27/03/2025 Marketing authorisation issued 26/05/2025
+Opinion adopted
+
+27/03/2025
+
+Marketing authorisation issued
+
+26/05/2025
+
+Revision
+
+1
 
 ## Assessment history
+
+Expand section
+
+Collapse section
+
+## Changes since initial authorisation of medicine
+
+Jubereq : EPAR - Procedural steps taken and scientific information after authorisation
+
+English (EN) (137.1 KB - PDF)
+
+**First published:** 22/05/2026
+
+[View](/en/documents/procedural-steps-after/jubereq-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
 ## Initial marketing authorisation documents
 
 Jubereq : EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/131555/2025
+Adopted Reference Number: EMA/131555/2025
 
 English (EN) (2.15 MB - PDF)
 
@@ -780,9 +680,7 @@ English (EN) (2.15 MB - PDF)
 
 CHMP summary of positive opinion for Jubereq
 
-Adopted
-
-Reference Number: EMA/75347/2025
+Adopted Reference Number: EMA/75347/2025
 
 English (EN) (144.44 KB - PDF)
 
@@ -790,12 +688,14 @@ English (EN) (144.44 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-jubereq_en.pdf)
 
-#### News on Jubereq
+## News on Jubereq
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 24-27 March 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-24-27-march-2025) 28/03/2025
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 24-27 March 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-24-27-march-2025)
 
-**This page was last updated on** 28/07/2025
+28/03/2025
+
+**This page was last updated on**
+
+22/05/2026
 
 ## Share this page
-
-[Back to top](#main-content)

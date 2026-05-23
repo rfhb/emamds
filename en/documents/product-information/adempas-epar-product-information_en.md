@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-12-03 11:22:24
+document_datetime: 2026-05-22 14:02:29
 document_pages: 89
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/adempas-epar-product-information_en.pdf
 document_name: adempas-epar-product-information_en.pdf
 version: success
-processing_time: 23.4081667
-conversion_datetime: 2025-12-23 03:46:29.595441
+processing_time: 44.6274604
+conversion_datetime: 2026-05-23 08:27:23.094257
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.20.0
+  docling-jobkit: 1.20.0
+  docling: 2.95.0
+  docling-core: 2.77.0
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.11.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -130,11 +130,9 @@ The recommended starting dose is 1 mg 3 times daily for 2 weeks. Tablets should 
 
 Dose should be increased in 2-week intervals by 0.5 mg 3 times daily to a maximum of 2.5 mg 3 times daily, if systolic blood pressure is ≥95 mmHg and the patient has no signs or symptoms of hypotension. In some PAH patients, an adequate response on the 6-minute walk distance (6MWD) may be reached at a dose of 1.5 mg 3 times a day (see section 5.1). If systolic blood pressure falls below 95 mmHg, the dose should be maintained provided the patient does not show any signs or symptoms of hypotension. If at any time during the up-titration phase systolic blood pressure decreases below 95 mmHg and the patient shows signs or symptoms of hypotension the current dose should be decreased by 0.5 mg 3 times daily.
 
-Paediatric PAH patients aged 6 to &lt; 18 years with body weight ≥ 50 kg Adempas is available for paediatric use as a tablet for those with body weight ≥ 50 kg. Titration of riociguat dose is to be performed based on the patient's systolic blood pressure and general tolerability at the discretion of the treating physician/healthcare provider. If the patient has no signs or symptoms of hypotension and systolic blood pressure is ≥ 90 mmHg for the 6 to &lt; 12 year age
+Paediatric PAH patients aged 6 to &lt; 18 years with body weight ≥ 50 kg Adempas is available for paediatric use as a tablet for those with body weight ≥ 50 kg. Titration of riociguat dose is to be performed based on the patient's systolic blood pressure and general tolerability at the discretion of the treating physician/healthcare provider. If the patient has no signs or symptoms of hypotension and systolic blood pressure is ≥ 90 mmHg for the 6 to &lt; 12 year age group or ≥ 95 mmHg for the 12 to &lt; 18 year age group, the dose should be increased in 2-week intervals by 0.5 mg 3 times daily to a maximum daily dose of 3 times 2.5 mg. If systolic blood pressure falls below these specified levels the dosage should be maintained as long as the patient does not show any signs or symptoms of hypotension. If at any time during the up-titration phase systolic blood pressure decreases below the specified levels, and the patient shows signs or symptoms of hypotension the current dose should be decreased by 0.5 mg 3 times daily.
 
 <div style=\"page-break-after: always\"></div>
-
-group or ≥ 95 mmHg for the 12 to &lt; 18 year age group, the dose should be increased in 2-week intervals by 0.5 mg 3 times daily to a maximum daily dose of 3 times 2.5 mg. If systolic blood pressure falls below these specified levels the dosage should be maintained as long as the patient does not show any signs or symptoms of hypotension. If at any time during the up-titration phase systolic blood pressure decreases below the specified levels, and the patient shows signs or symptoms of hypotension the current dose should be decreased by 0.5 mg 3 times daily.
 
 ## Maintenance dose
 
@@ -256,11 +254,9 @@ Serious bleeding occurred in 2.4% (12/490) of patients taking riociguat compared
 
 ## Hypotension
 
-Riociguat has vasodilatory properties which may result in lowering of blood pressure. Before prescribing riociguat, physicians should carefully consider whether patients with certain underlying conditions, could be adversely affected by vasodilatory effects (e.g. patients on antihypertensive
+Riociguat has vasodilatory properties which may result in lowering of blood pressure. Before prescribing riociguat, physicians should carefully consider whether patients with certain underlying conditions, could be adversely affected by vasodilatory effects (e.g. patients on antihypertensive therapy or with resting hypotension, hypovolaemia, severe left ventricular outflow obstruction or autonomic dysfunction).
 
 <div style=\"page-break-after: always\"></div>
-
-therapy or with resting hypotension, hypovolaemia, severe left ventricular outflow obstruction or autonomic dysfunction).
 
 Riociguat must not be used in patients with a systolic blood pressure below 95 mmHg (see section 4.3). Patients older than 65 years are at increased risk of hypotension. Therefore, caution should be exercised when administering riociguat in these patients.
 
@@ -404,11 +400,9 @@ Riociguat has moderate influence on the ability to cycle, drive and use machines
 
 ## Summary of the safety profile
 
-The safety of riociguat in adults has been evaluated in phase III studies of 650  patients with CTEPH and PAH receiving at least one dose of riociguat (see section 5.1). With longer observation in
+The safety of riociguat in adults has been evaluated in phase III studies of 650  patients with CTEPH and PAH receiving at least one dose of riociguat (see section 5.1). With longer observation in uncontrolled long term extension studies the safety profile was similar to that observed in the placebo controlled phase III trials.
 
 <div style=\"page-break-after: always\"></div>
-
-uncontrolled long term extension studies the safety profile was similar to that observed in the placebo controlled phase III trials.
 
 Most of the adverse reactions are caused by relaxation of smooth muscle cells in vasculature or the gastrointestinal tract.
 
@@ -435,15 +429,11 @@ Table 1: Adverse reactions reported with riociguat in adult patients in phase II
 | Gastrointestinal disorders                           | Dyspepsia, Diarrhoea, Nausea, Vomiting | Gastritis, Gastro-oesophageal reflux disease, Dysphagia, Gastrointestinal and abdominal pains, Constipation, Abdominal distension |                        |
 | General disorders and administration site conditions | Oedema peripheral                      |                                                                                                                                   |                        |
 
-* fatal pulmonary haemorrhage was reported in uncontrolled long term extension studies
-
 ## Paediatric patients
 
-The safety of riociguat has been investigated in 24 paediatric patients aged 6 to less than 18 years over 24 weeks in an open-label uncontrolled trial (PATENT-CHILD) consisting of an individual dose titration phase starting with 1 mg (body weight adjusted) for 8 weeks and a maintenance phase for up
+The safety of riociguat has been investigated in 24 paediatric patients aged 6 to less than 18 years over 24 weeks in an open-label uncontrolled trial (PATENT-CHILD) consisting of an individual dose titration phase starting with 1 mg (body weight adjusted) for 8 weeks and a maintenance phase for up to 16 weeks (see section 4.2), followed by an optional long-term extension phase. Most common adverse reactions including the long-term extension phase were hypotension and headache occurring in 4/24, and 2/24 patients, respectively.
 
 <div style=\"page-break-after: always\"></div>
-
-to 16 weeks (see section 4.2), followed by an optional long-term extension phase. Most common adverse reactions including the long-term extension phase were hypotension and headache occurring in 4/24, and 2/24 patients, respectively.
 
 Overall, the safety data is consistent with the safety profile observed in adults.
 
@@ -567,9 +557,11 @@ The probability of survival was 97% after 1 year, 93% after 2 years and 89% afte
 
 ## Efficacy in adult patients with PAH
 
-A randomised, double-blind, multi-national, placebo controlled, phase III study (PATENT-1) was conducted in 443 adult patients with PAH (riociguat individual dose titration up to 2.5 mg 3 times daily: n=254, placebo: n=126, riociguat 'capped' dose titration (CT) up to 1.5 mg (exploratory dose arm, no statistical testing performed; n=63)). Patients were either treatment-naïve (50%) or pre-treated with ERA (43%) or a prostacyclin analogue (inhaled (iloprost), oral (beraprost) or subcutaneous (treprostinil); 7%) and had been diagnosed with idiopathic or heritable PAH (63.4%), PAH associated with connective tissue disease (25.1%) and congenital heart disease (7.9%).
+A randomised, double-blind, multi-national, placebo controlled, phase III study (PATENT-1) was conducted in 443 adult patients with PAH (riociguat individual dose titration up to 2.5 mg 3 times daily: n=254, placebo: n=126, riociguat 'capped' dose titration (CT) up to 1.5 mg (exploratory dose with ERA (43%) or a prostacyclin analogue (inhaled (iloprost), oral (beraprost) or subcutaneous (treprostinil); 7%) and had been diagnosed with idiopathic or heritable PAH (63.4%), PAH associated with connective tissue disease (25.1%) and congenital heart disease (7.9%).
 
-During the first 8 weeks riociguat was titrated every 2-weeks based on the patient's systolic blood pressure and signs or symptoms of hypotension to the optimal individual dose (range 0.5 mg to 2.5 mg 3 times daily), which was then maintained for a further 4 weeks. The primary endpoint of the study was placebo-adjusted change from baseline in 6MWD at the last visit (week 12).
+During the first 8 weeks riociguat was titrated every 2-weeks based on the patient's systolic blood 3 times daily), which was then maintained for a further 4 weeks. The primary endpoint of the study was placebo-adjusted change from baseline in 6MWD at the last visit (week 12).
+
+arm, no statistical testing performed; n=63)). Patients were either treatment-naïve (50%) or pre-treated pressure and signs or symptoms of hypotension to the optimal individual dose (range 0.5 mg to 2.5 mg
 
 At the last visit the increase in 6MWD with riociguat individual dose titration (IDT) was 36 m (95% CI: 20 m to 52 m; p  0.0001) compared to placebo. Treatment-naïve patients (n=189) improved by 38 m, and pre-treated patients (n=191) by 36 m (ITT analysis, see table 5). Further exploratory subgroup analysis revealed a treatment effect of 26 m, (95% CI: 5 m to 46 m) in patients pre-treated with ERAs (n=167) and a treatment effect of 101 m (95% CI: 27 m to 176 m) in patients pre-treated with prostacyclin analogues (n=27).
 
@@ -577,32 +569,32 @@ At the last visit the increase in 6MWD with riociguat individual dose titration 
 
 Table 5: Effects of riociguat on 6MWD in PATENT-1 at last visit
 
-| Entire patient population               | Riociguat IDT (n=254)   | Placebo (n=126)   | Riociguat CT (n=63)   |
-|-----------------------------------------|-------------------------|-------------------|-----------------------|
-| Baseline (m) [SD]                       | 361 [68]                | 368 [75]          | 363 [67]              |
-| Mean change from baseline (m)           | 30                      | -6                | 31                    |
-| [SD]                                    | [66]                    | [86]              | [79]                  |
-| Placebo-adjusted difference (m) 95%     | 36 20 to 52             | [<0.0001]         |                       |
-| CI, [p-value] FC III patients           | Riociguat IDT (n=140)   | Placebo (n=58)    | Riociguat CT (n=39)   |
-| Baseline (m) [SD]                       | 338 [70]                | 347 [78]          | 351 [68]              |
-| Mean change from baseline (m) [SD]      | 31                      | -27               | 29                    |
-| Placebo-adjusted difference (m)         | [64]                    | [98]              | [94]                  |
-| 95% CI                                  | 58 35 to                | 58 35 to          |                       |
-| FC II patients                          | Riociguat IDT (n=108)   | Placebo (n=60)    | Riociguat CT (n=19)   |
-| Baseline (m) [SD]                       | 392 [51]                | 393 [61]          | 378 [64]              |
-| Mean change from baseline (m) [SD]      | 29                      | 19                | 43                    |
-| Placebo-adjusted difference (m) 95% CI  | [69] 10                 | [63]              | [50]                  |
-|                                         | -11 to 31               | -11 to 31         |                       |
-| Treatment-naïve patient population      | Riociguat IDT (n=123)   | Placebo (n=66)    | Riociguat CT (n=32)   |
-| Baseline (m) [SD]                       | 370 [66]                | 360 [80]          | 347 [72]              |
-| Mean change from baseline (m)           | 32                      | -6                | 49                    |
-| [SD]                                    | [74]                    | [88]              | [47]                  |
-| Placebo-adjusted difference (m) 95% CI  | 38 14 to 62             | 38 14 to 62       |                       |
-| Pre-treated patient population          | Riociguat IDT (n=131)   | Placebo (n=60)    | Riociguat CT (n=31)   |
-| Baseline (m) [SD]                       | 353                     | 376 [68]          | 380 [57]              |
-| Mean change from baseline (m)           | [69] 27                 | -5                | 12                    |
-| [SD]                                    | [58]                    |                   |                       |
-| Placebo- adjusted difference (m) 95% CI | 36 15 to                | [83]              | [100]                 |
+| Entire patient population                         | Riociguat IDT (n=254)       | Placebo (n=126)   | Riociguat CT (n=63)   |
+|---------------------------------------------------|-----------------------------|-------------------|-----------------------|
+| Baseline (m) [SD]                                 | 361 [68]                    | 368 [75]          | 363 [67]              |
+| Mean change from baseline (m)                     | 30                          | -6                | 31                    |
+| [SD]                                              | [66]                        | [86]              | [79]                  |
+| Placebo-adjusted difference (m) 95% CI, [p-value] | 36 20 to 52                 | [<0.0001]         |                       |
+| FC III patients                                   | Riociguat IDT (n=140)       | Placebo (n=58)    | Riociguat CT (n=39)   |
+| Baseline (m) [SD]                                 | 338 [70]                    | 347 [78]          | 351 [68]              |
+| Mean change from baseline (m) [SD]                | 31                          | -27               | 29                    |
+| Placebo-adjusted difference (m)                   | [64]                        | [98]              | [94]                  |
+|                                                   | 58                          | 58                |                       |
+| 95% CI FC II patients                             | 35 to Riociguat IDT (n=108) | Placebo (n=60)    | Riociguat CT (n=19)   |
+| Baseline (m) [SD]                                 | 392 [51]                    | 393 [61]          | 378 [64]              |
+| Mean change from baseline (m) [SD]                | 29 [69]                     | 19                | 43                    |
+| Placebo-adjusted difference (m) 95% CI            | 10                          | [63]              | [50]                  |
+|                                                   | -11 to 31                   | -11 to 31         |                       |
+| Treatment-naïve patient population (m)            | Riociguat IDT (n=123)       | Placebo (n=66)    | Riociguat CT (n=32)   |
+| Baseline [SD]                                     | 370 [66]                    | 360 [80]          | 347 [72]              |
+| Mean change from baseline (m)                     | 32                          | -6                | 49                    |
+| [SD]                                              | [74]                        | [88]              | [47]                  |
+| Placebo-adjusted difference (m) 95% CI            | 38 14 to 62                 | 38 14 to 62       |                       |
+| Pre-treated patient population                    | Riociguat IDT (n=131)       | Placebo (n=60)    | Riociguat CT (n=31)   |
+| Baseline (m)                                      | 353                         | 376               | 380 [57]              |
+| [SD] Mean change from baseline                    | [69] 27                     | [68] -5           | 12                    |
+| (m) [SD]                                          | [58]                        |                   |                       |
+| Placebo- adjusted difference (m) 95% CI           | 36 15 to                    | [83]              | [100]                 |
 
 Improvement in exercise capacity was accompanied by consistent improvement in multiple clinically relevant secondary endpoints. These findings were in accordance with improvements in additional haemodynamic parameters (see table 6).
 
@@ -756,7 +748,9 @@ No mass balance study and metabolism data specific to children and adolescents l
 
 ## Linearity
 
-Riociguat pharmacokinetics are linear from 0.5 to 2.5 mg. Inter-individual variability (CV) of riociguat exposure (AUC) across all doses is approximately 60%.
+Riociguat pharmacokinetics are linear from 0.5 to 2.5 mg. Inter-individual variability (CV) of
+
+riociguat exposure (AUC) across all doses is approximately 60%.
 
 The PK profile is similar in children as in adults.
 
@@ -830,7 +824,7 @@ Not applicable.
 
 ## 6.3 Shelf life
 
-3 years
+5 years
 
 ## 6.4 Special precautions for storage
 
@@ -838,11 +832,9 @@ This medicinal product does not require any special storage conditions.
 
 ## 6.5 Nature and contents of container
 
-PP/Aluminium foil blister.
-
-Pack sizes: 42, 84, 90 or 294 film-coated tablets.
-
-Not all pack sizes may be marketed.
+```
+PP/Aluminium foil blister. Pack sizes: 42, 84, 90 or 294 film-coated tablets. Not all pack sizes may be marketed.
+```
 
 ## 6.6 Special precautions for disposal
 
@@ -960,15 +952,13 @@ Patients will start with a body weight-adjusted riociguat dose given as oral sus
 
 Titration of riociguat dose is to be performed based on the patient's systolic blood pressure, at the discretion of the treating healthcare professional.
 
-The dose should be increased by a body-weight adjusted equivalent to 0.5 mg 3 times daily for oral suspension in 2-week intervals to a maximum dose, a body-weight adjusted equivalent to 2.5 mg 3 times daily, if the patient has no signs or symptoms of hypotension and if systolic blood pressure is
+The dose should be increased by a body-weight adjusted equivalent to 0.5 mg 3 times daily for oral suspension in 2-week intervals to a maximum dose, a body-weight adjusted equivalent to 2.5 mg 3 times daily, if the patient has no signs or symptoms of hypotension and if systolic blood pressure is If systolic blood pressure falls below these specified levels, the dosage should be maintained as long as the patient does not show any signs or symptoms of hypotension. If at any time during the uptitration phase systolic blood pressure decreases below the specified levels, and the patient shows signs or symptoms of hypotension, the current dose should be decreased stepwise by a body-weight adjusted equivalent to 0.5 mg 3 times daily.
 
 -≥ 90 mmHg for the 6 to &lt; 12 year age group
 
 -≥ 95 mmHg for the 12 to &lt; 18 year age group.
 
 <div style=\"page-break-after: always\"></div>
-
-If systolic blood pressure falls below these specified levels, the dosage should be maintained as long as the patient does not show any signs or symptoms of hypotension. If at any time during the uptitration phase systolic blood pressure decreases below the specified levels, and the patient shows signs or symptoms of hypotension, the current dose should be decreased stepwise by a body-weight adjusted equivalent to 0.5 mg 3 times daily.
 
 ## Maintenance dose
 
@@ -984,15 +974,13 @@ Table 1: Body weight-adjusted Adempas dosing for paediatric patients with a body
 |--------------------|---------------------------|---------------------------|---------------------------|---------------------------|
 | 12 kg to < 14 kg   |                       1.8 |                       2.6 |                       3.4 |                       4.2 |
 | 14 kg to <16 kg    |                       1.8 |                       2.8 |                       3.8 |                       4.6 |
-| 16 kg to <18 kg    |                       2   |                       3.2 |                       4.2 |                       5   |
+| 16 kg to <18 kg    |                       2.0 |                       3.2 |                       4.2 |                       5.0 |
 | 18 kg to <20 kg    |                       2.2 |                       3.4 |                       4.4 |                       5.5 |
-| 20 kg to <25 kg    |                       2.6 |                       3.8 |                       5   |                       6.5 |
-| 25 kg to <30 kg    |                       3   |                       4.4 |                       6   |                       7.5 |
-| 30 kg to <35 kg    |                       3.4 |                       5   |                       6.5 |                       8.5 |
+| 20 kg to <25 kg    |                       2.6 |                       3.8 |                       5.0 |                       6.5 |
+| 25 kg to <30 kg    |                       3.0 |                       4.4 |                       6.0 |                       7.5 |
+| 30 kg to <35 kg    |                       3.4 |                       5.0 |                       6.5 |                       8.5 |
 | 35 kg to <40 kg    |                       3.8 |                       5.5 |                       7.5 |                       9.5 |
-| 40 kg to <50 kg    |                       4.4 |                       6.5 |                       9   |                      11   |
-
-* single dose (mL) to be given 3 times daily
+| 40 kg to <50 kg    |                       4.4 |                       6.5 |                       9.0 |                      11.0 |
 
 ## Missed dose
 
@@ -1038,7 +1026,7 @@ No clinical data are available in children and adolescents less than 18 years of
 
 ## Patients on stable doses of strong multi pathway CYP / P-glycoprotein (P-gp) and breast cancer resistance protein (BCRP) inhibitors
 
-Coadministration of riociguat with strong multi pathway CYP and P-gp/BCRP inhibitors such as azole antimycotics (e.g. ketoconazole, itraconazole) or HIV protease inhibitors (e.g. ritonavir) increases exposure to riociguat (see section 4.5). When initiating riociguat in patients on stable doses of strong multi pathway CYP and P-gp/BCRP inhibitors, consider a starting dose of a body weight adjusted equivalent to 0.5 mg of the oral suspension 3 times daily (see Table 2) to mitigate the risk of hypotension. Monitor for signs and symptoms of hypotension on initiation and on treatment. Consider a dose reduction for patients on riociguat doses higher than or equal to a body weight adjusted equivalent to 1.0 mg of the oral suspension (see Table 2) if the patient develops signs or symptoms of hypotension (see section 4.5).
+Coadministration of riociguat with strong multi pathway CYP and P-gp/BCRP inhibitors such as azole antimycotics (e.g. ketoconazole, itraconazole) or HIV protease inhibitors (e.g. ritonavir) increases exposure to riociguat (see section 4.5). When initiating riociguat in patients on stable doses of strong multi pathway CYP and P-gp/BCRP inhibitors, consider a starting dose of a body weight adjusted equivalent to 0.5 mg of the oral suspension 3 times daily (see Table 2) to mitigate the risk of hypotension. Monitor for signs and symptoms of hypotension on initiation and on treatment. Consider a dose reduction for patients on riociguat doses higher than or equal to a body weight adjusted equivalent to 1.0 mg of the oral suspension (see Table 1 and Table 2) if the patient develops signs or symptoms of hypotension (see section 4.5).
 
 No clinical data are available in children and adolescents less than 18 years of age receiving concomitant systemic treatment with strong CYP/P-gp and BCRP inhibitors.
 
@@ -1048,7 +1036,7 @@ Table 2: Body weight-adjusted Adempas dose for paediatric patients with a body w
 
 | Body weight             |   12 kg to < 20 kg |   20 kg to < 25 kg |   25 kg to < 30 kg |   30 kg to < 40 kg |   40 kg to < 50 kg |
 |-------------------------|--------------------|--------------------|--------------------|--------------------|--------------------|
-| 0.5 mg equivalent (mL)* |                  1 |                1.2 |                1.4 |                1.8 |                2.2 |
+| 0.5 mg equivalent (mL)* |                1.0 |                1.2 |                1.4 |                1.8 |                2.2 |
 
 * single dose (mL) to be given 3 times daily
 
@@ -1194,11 +1182,9 @@ Riociguat is cleared mainly via cytochrome P450-mediated (CYP1A1, CYP3A4, CYP3A5
 
 ## Concomitant use with strong multi pathway CYP and P-gp/BCRP inhibitors
 
-The concomitant use of riociguat with strong multi pathway CYP and P-gp / BCRP inhibitors such as azole antimycotics (e.g. ketoconazole, posaconazole, itraconazole) or HIV protease inhibitors (e.g. ritonavir) results in a pronounced increase in riociguat exposure: Concomitant administration of HAART combinations led to an increase in riociguat mean AUC of up to about 160% and to an approximate 30% increase in mean Cmax. The safety profile observed in HIV patients taking a single dose of 0.5 mg riociguat together with different combinations of HIV drugs used in HAART was generally comparable to other patient populations. Concomitant administration of 400 mg once daily ketoconazole led to a 150% (range up to 370%) increase in riociguat mean AUC and a 46% increase in
+The concomitant use of riociguat with strong multi pathway CYP and P-gp / BCRP inhibitors such as azole antimycotics (e.g. ketoconazole, posaconazole, itraconazole) or HIV protease inhibitors (e.g. ritonavir) results in a pronounced increase in riociguat exposure: Concomitant administration of HAART combinations led to an increase in riociguat mean AUC of up to about 160% and to an approximate 30% increase in mean Cmax. The safety profile observed in HIV patients taking a single dose of 0.5 mg riociguat together with different combinations of HIV drugs used in HAART was generally comparable to other patient populations. Concomitant administration of 400 mg once daily ketoconazole led to a 150% (range up to 370%) increase in riociguat mean AUC and a 46% increase in mean Cmax. Terminal half-life increased from 7.3 to 9.2 hours and total body clearance decreased from 6.1 to 2.4 L/h.
 
 <div style=\"page-break-after: always\"></div>
-
-mean Cmax. Terminal half-life increased from 7.3 to 9.2 hours and total body clearance decreased from 6.1 to 2.4 L/h.
 
 Assess the benefit-risk for each patient individually before prescribing riociguat in patients on stable doses of strong multi pathway CYP and P-gp/BCRP inhibitors.
 
@@ -1297,8 +1283,6 @@ Table 3: Adverse reactions reported with riociguat in adult patients in phase II
 | Gastrointestinal disorders                           | Dyspepsia, Diarrhoea, Nausea, Vomiting | Gastritis, Gastro-oesophageal reflux disease, Dysphagia, Gastrointestinal and abdominal pains, Constipation, Abdominal distension |                        |
 | General disorders and administration site conditions | Oedema peripheral                      |                                                                                                                                   |                        |
 
-* fatal pulmonary haemorrhage was reported in uncontrolled long term extension studies
-
 ## Paediatric patients
 
 The safety of riociguat has been investigated in 24 paediatric patients aged 6 to less than 18 years over 24 weeks in a open-label uncontrolled trial (PATENT-CHILD) consisting of an individual dose titration phase starting with 1 mg (body weight adjusted) for 8 weeks and a maintenance phase for up to 16 weeks (see section 4.2), followed by an optional long-term extension phase. Most common adverse reactions including the long-term extension phase were hypotension and headache occurring in 4/24, and 2/24 patients, respectively.
@@ -1307,11 +1291,9 @@ Overall, the safety data is consistent with the safety profile observed in adult
 
 ## Reporting of suspected adverse reactions
 
-Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare
+Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
 <div style=\"page-break-after: always\"></div>
-
-professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
 ## 4.9 Overdose
 
@@ -1359,32 +1341,32 @@ At the last visit the increase in 6MWD with riociguat individual dose titration 
 
 Table 4: Effects of riociguat on 6MWD in PATENT-1 at last visit
 
-| Entire patient population               | Riociguat IDT (n=254)   | Placebo (n=126)   | Riociguat CT (n=63)   |
-|-----------------------------------------|-------------------------|-------------------|-----------------------|
-| Baseline (m) [SD]                       | 361 [68]                | 368 [75]          | 363 [67]              |
-| Mean change from baseline (m)           | 30                      | -6                | 31                    |
-| [SD]                                    | [66]                    | [86]              | [79]                  |
-| Placebo-adjusted difference (m) 95%     | 36 20 to 52             | [<0.0001]         |                       |
-| CI, [p-value] FC III patients           | Riociguat IDT (n=140)   | Placebo (n=58)    | Riociguat CT (n=39)   |
-| Baseline (m) [SD]                       | 338 [70]                | 347 [78]          | 351 [68]              |
-| Mean change from baseline (m) [SD]      | 31                      | -27               | 29                    |
-| Placebo-adjusted difference (m)         | [64]                    | [98]              | [94]                  |
-| 95% CI                                  | 58 35 to                | 58 35 to          |                       |
-| FC II patients                          | Riociguat IDT (n=108)   | Placebo (n=60)    | Riociguat CT (n=19)   |
-| Baseline (m) [SD]                       | 392 [51]                | 393 [61]          | 378 [64]              |
-| Mean change from baseline (m) [SD]      | 29                      | 19                | 43                    |
-| Placebo-adjusted difference (m) 95% CI  | [69] 10                 | [63]              | [50]                  |
-|                                         | -11 to 31               | -11 to 31         |                       |
-| Treatment-naïve patient population      | Riociguat IDT (n=123)   | Placebo (n=66)    | Riociguat CT (n=32)   |
-| Baseline (m) [SD]                       | 370 [66]                | 360 [80]          | 347 [72]              |
-| Mean change from baseline (m)           | 32                      | -6                | 49                    |
-| [SD]                                    | [74]                    | [88]              | [47]                  |
-| Placebo-adjusted difference (m) 95% CI  | 38 14 to 62             | 38 14 to 62       |                       |
-| Pre-treated patient population          | Riociguat IDT (n=131)   | Placebo (n=60)    | Riociguat CT (n=31)   |
-| Baseline (m) [SD]                       | 353                     | 376 [68]          | 380 [57]              |
-| Mean change from baseline (m)           | [69] 27                 | -5                | 12                    |
-| [SD]                                    | [58]                    |                   |                       |
-| Placebo- adjusted difference (m) 95% CI | 36 15 to                | [83]              | [100]                 |
+| Entire patient population                         | Riociguat IDT (n=254)       | Placebo (n=126)   | Riociguat CT (n=63)   |
+|---------------------------------------------------|-----------------------------|-------------------|-----------------------|
+| Baseline (m) [SD]                                 | 361 [68]                    | 368 [75]          | 363 [67]              |
+| Mean change from baseline (m)                     | 30                          | -6                | 31                    |
+| [SD]                                              | [66]                        | [86]              | [79]                  |
+| Placebo-adjusted difference (m) 95% CI, [p-value] | 36 20 to 52                 | [<0.0001]         |                       |
+| FC III patients                                   | Riociguat IDT (n=140)       | Placebo (n=58)    | Riociguat CT (n=39)   |
+| Baseline (m) [SD]                                 | 338 [70]                    | 347 [78]          | 351 [68]              |
+| Mean change from baseline (m) [SD]                | 31                          | -27               | 29                    |
+| Placebo-adjusted difference (m)                   | [64]                        | [98]              | [94]                  |
+|                                                   | 58                          | 58                |                       |
+| 95% CI FC II patients                             | 35 to Riociguat IDT (n=108) | Placebo (n=60)    | Riociguat CT (n=19)   |
+| Baseline (m) [SD]                                 | 392 [51]                    | 393 [61]          | 378 [64]              |
+| Mean change from baseline (m) [SD]                | 29 [69]                     | 19                | 43                    |
+| Placebo-adjusted difference (m) 95% CI            | 10                          | [63]              | [50]                  |
+|                                                   | -11 to 31                   | -11 to 31         |                       |
+| Treatment-naïve patient population (m)            | Riociguat IDT (n=123)       | Placebo (n=66)    | Riociguat CT (n=32)   |
+| Baseline [SD]                                     | 370 [66]                    | 360 [80]          | 347 [72]              |
+| Mean change from baseline (m)                     | 32                          | -6                | 49                    |
+| [SD]                                              | [74]                        | [88]              | [47]                  |
+| Placebo-adjusted difference (m) 95% CI            | 38 14 to 62                 | 38 14 to 62       |                       |
+| Pre-treated patient population                    | Riociguat IDT (n=131)       | Placebo (n=60)    | Riociguat CT (n=31)   |
+| Baseline (m)                                      | 353                         | 376               | 380 [57]              |
+| [SD] Mean change from baseline                    | [69] 27                     | [68] -5           | 12                    |
+| (m) [SD]                                          | [58]                        |                   |                       |
+| Placebo- adjusted difference (m) 95% CI           | 36 15 to                    | [83]              | [100]                 |
 
 Improvement in exercise capacity was accompanied by consistent improvement in multiple clinicallyrelevant secondary endpoints. These findings were in accordance with improvements in additional haemodynamic parameters (see table 5).
 
@@ -1468,11 +1450,9 @@ For patients with assessments at baseline and at week 24:
 
 Two patients were hospitalised for right heart failure.
 
-Long-term data were generated from 21 patients who completed the first 24 weeks of treatment in PATENT-CHILD. All patients continued to receive riociguat in combination with either ERA or ERA + PCAs. The mean overall duration of exposure to riociguat treatment was 109.79 ± 80.38 weeks (up
+Long-term data were generated from 21 patients who completed the first 24 weeks of treatment in PATENT-CHILD. All patients continued to receive riociguat in combination with either ERA or ERA + PCAs. The mean overall duration of exposure to riociguat treatment was 109.79 ± 80.38 weeks (up to 311.9 weeks), with 37.5% (n=9) of patients treated for at least 104 weeks and 8.3% (n=2) for at least 208 weeks.
 
 <div style=\"page-break-after: always\"></div>
-
-to 311.9 weeks), with 37.5% (n=9) of patients treated for at least 104 weeks and 8.3% (n=2) for at least 208 weeks.
 
 During the long-term extension (LTE) phase improvements or stabilization in 6MWD were maintained for patients on treatment with observed mean changes from baseline (before start of treatment [PATENT-CHILD]) of +5.86 m at month 6, -3.43 m at month 12; +28.98 m at month 18 and -11.80 m at month 24.
 
@@ -1582,7 +1562,7 @@ In a fertility study in rats, decreased testes weights occurred at systemic expo
 
 ## 6.1 List of excipients
 
-- -anhydrous citric acid(E 330)
+- -anhydrous citric acid (E 330)
 - -flavour strawberry: consist of maltodextrin, propylene glycol (E 1520), triethyl citrate (E 1505),
 - flavoring substances and flavoring preparations.
 - -hypromellose
@@ -1646,19 +1626,27 @@ MARKETING AUTHORISATION HOLDER
 
 Bayer AG 51368 Leverkusen Germany
 
-## 8. MARKETING AUTHORISATION NUMBER(S)
+8.
+
+MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/13/907/021
 
-## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
+9.
+
+DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
 Date of first authorisation: 27 March 2014
 
 Date of latest renewal: 18 January 2019
 
-## 10. DATE OF REVISION OF THE TEXT
+10.
+
+DATE OF REVISION OF THE TEXT
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
+
+44
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1724,7 +1712,9 @@ Adempas 1.5 mg film-coated tablets
 
 Adempas 2 mg film-coated tablets
 
-Adempas 2.5 mg film-coated tablets riociguat
+Adempas 2.5 mg film-coated tablets
+
+riociguat
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE
 
@@ -1764,19 +1754,21 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 | 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
 |-------|--------------------------------------------------------|
 
-Bayer AG 51368 Leverkusen Germany
+Bayer AG Germany
 
-Bayer (logo)
+51368 Leverkusen Bayer (logo)
 
 | 12. MARKETING AUTHORISATION NUMBER   |
 |--------------------------------------|
 
+```
 Adempas 0.5 mg - pack of 42 film-coated tablets - EU/1/13/907/001 Adempas 0.5 mg - pack of 84 film-coated tablets - EU/1/13/907/002 Adempas 0.5 mg - pack of 90 film-coated tablets - EU/1/13/907/003 Adempas 0.5 mg - pack of 294 film-coated tablets - EU/1/13/907/016 Adempas 1 mg - pack of 42 film-coated tablets - EU/1/13/907/004 Adempas 1 mg - pack of 84 film-coated tablets - EU/1/13/907/005 Adempas 1 mg - pack of 90 film-coated tablets - EU/1/13/907/006 Adempas 1 mg - pack of 294 film-coated tablets - EU/1/13/907/017 Adempas 1.5 mg - pack of 42 film-coated tablets - EU/1/13/907/007 Adempas 1.5 mg - pack of 84 film-coated tablets - EU/1/13/907/008 Adempas 1.5 mg - pack of 90 film-coated tablets - EU/1/13/907/009 Adempas 1.5 mg - pack of 294 film-coated tablets - EU/1/13/907/018 Adempas 2 mg - pack of 42 film-coated tablets - EU/1/13/907/010 Adempas 2 mg - pack of 84 film-coated tablets - EU/1/13/907/011 Adempas 2 mg - pack of 90 film-coated tablets - EU/1/13/907/012 Adempas 2 mg - pack of 294 film-coated tablets - EU/1/13/907/019 Adempas 2.5 mg - pack of 42 film-coated tablets - EU/1/13/907/013 Adempas 2.5 mg - pack of 84 film-coated tablets - EU/1/13/907/014 Adempas 2.5 mg - pack of 90 film-coated tablets - EU/1/13/907/015 Adempas 2.5 mg - pack of 294 film-coated tablets - EU/1/13/907/020
+```
 
 | 13.   | BATCH NUMBER   |
 |-------|----------------|
@@ -1863,7 +1855,8 @@ Contains sodium benzoate (E 211). See leaflet for further information.
 
 The bottle contains 10.5 g granules or 208 mL after reconstitution.
 
-- 1 water syringe 100 mL
+1 water syringe 100 mL
+
 - 2 blue syringes 5 mL
 - 2 blue syringes 10 mL
 - 1 bottle adapter
@@ -1990,7 +1983,7 @@ Shake during reconstitution for at least 60 seconds. Shake before each use for a
 
 Keep out of the sight and reach of children.
 
-## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
 ## 8. EXPIRY DATE
 
@@ -2037,7 +2030,9 @@ Batch
 
 <div style=\"page-break-after: always\"></div>
 
-Adempas 0.5 mg film-coated tablets Adempas 1 mg film-coated tablets Adempas 1.5 mg film-coated tablets Adempas 2 mg film-coated tablets Adempas 2.5 mg film-coated tablets riociguat
+Adempas 0.5 mg film-coated tablets Adempas 1 mg film-coated tablets Adempas 1.5 mg film-coated tablets Adempas 2 mg film-coated tablets Adempas 2.5 mg film-coated tablets
+
+riociguat
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
@@ -2078,14 +2073,14 @@ In patients with pulmonary hypertension, the blood vessels that carry blood from
 
 ## Do not take Adempas if you
 
-- -take PDE5 inhibitors such as sildenafil, tadalafil, vardenafil. These are medicines to treat high blood pressure in lung arteries or erectile dysfunction.
+- -take PDE5 inhibitors such as sildenafil, tadalafil, vardenafil . These are medicines to treat high blood pressure in lung arteries or to treat erectile dysfunction.
 - -have severely reduced liver function .
 - -are allergic to riociguat or any of the other ingredients of this medicine (listed in section 6).
 - -are pregnant.
-- -take nitrates or nitric oxide donors such as amyl nitrite. These are medicines often used to treat high blood pressure, chest pain or heart disease. This also includes recreational drugs called poppers.
+- -take nitrates or nitric oxide donors such as amyl nitrite . These are medicines often used to treat high blood pressure, chest pain or heart disease. This also includes recreational drugs called poppers.
 - -take other medicines similar to Adempas called soluble guanylate cyclase stimulators , such as vericiguat . Ask your doctor if you are not sure.
-- -have low blood pressure before you take Adempas the first time. To start with Adempas your systolic blood value should be
-- -90 mmHg or more if your age is between 6 and 12 years,
+- -have low blood pressure before you start treatment with Adempas. To start with Adempas your systolic blood pressure value needs to be
+- -90 mmHg or more if you are 6 to 11 years old,
 - -95 mmHg or more if you are 12 years old or older.
 - -have increased blood pressure in your lungs associated with scarring of the lungs, of unknown cause called idiopathic pulmonary pneumonia.
 
@@ -2095,13 +2090,13 @@ If any of these apply to you, talk to your doctor first and do not take Adempas.
 
 Talk to your doctor or pharmacist before taking Adempas if you
 
-- -have pulmonary veno-occlusive disease , a disease which makes you feel short of breath because fluid builds-up in the lungs. He or she may decide to provide you with an alternative medicine.
+- -have pulmonary veno-occlusive disease , a disease which makes you feel short of breath because fluid builds up in the lungs. He or she may decide to provide you with an alternative medicine.
 - -have recently had serious bleeding from the lungs and airways .
 - -have undergone treatment to stop coughing up blood (bronchial arterial embolisation).
 - -take medicines that prevent the blood from clotting since this may cause bleeding from the lungs. Your doctor will regularly test your blood and measure blood pressure.
 - -The doctor may decide to monitor the blood pressure, if you
-- -have symptoms of low blood pressure like dizziness, lightheadedness or fainting, or
-- -take medicines to lower blood pressure or to increase urination, or
+- -have symptoms of low blood pressure like dizziness, lightheadedness or fainting,
+- -take medicines to lower blood pressure or to increase urination,
 - -have heart or circulation problems
 - -are older than 65 years as low blood pressure is more likely in this age group.
 
@@ -2125,25 +2120,36 @@ Talk to your doctor or pharmacist before taking Adempas if you
 
 <div style=\"page-break-after: always\"></div>
 
+-
+
 - -Children less than 6 years because of safety concerns.
 
 ## Other medicines and Adempas
 
 Tell your doctor or pharmacist if you are taking, have recently taken or might take any other medicines, in particular:
 
-- -Do not take medicines used for
-- -high blood pressure or heart disease such as nitrates and amyl nitrite , or another soluble guanylate cyclase stimulators such as vericiguat . Do not take these medicines together with Adempas.
-- -high blood pressure in lung arteries, as you must not take certain medicines such as sildenafil, tadalafil together with Adempas. Other medicines for high blood pressure in the lung arteries, such as bosentan and iloprost , can be used with Adempas, but you should inform the doctor.
-- -erectile dysfunction such as sildenafil, tadalafil, vardenafil . Do not take these medicines together with Adempas.
-- -The following medicines can increase the level of Adempas in the blood which increases the risk of side effects
-- -fungal infections such as ketoconazole, posaconazole, itraconazole .
-- -HIV infection such as abacavir, atazanavir, cobicistat, darunavir, dolutegravir, efavirenz, elvitegravir, emtricitabine, rilpivirine, ritonavir .
-- -epilepsy such as phenytoin, carbamazepine, phenobarbitone .
-- -depression such as St. John's Wort .
-- -preventing rejection of transplanted organs such as ciclosporin .
-- -cancer such as erlotinib, gefitinib .
-- -nausea, vomiting such as granisetron .
-- -to treat stomach disease or heartburn called antacids such as aluminium hydroxide / magnesium hydroxide used. Take antacids at least 2 hours before or 1 hour after using Adempas.
+- -Do not take the following medicines with Adempas
+- -PDE5 inhibitors such as sildenafil, tadalafil, or vardenafil . These are medicines to treat high blood pressure in lung arteries or to treat erectile dysfunction.
+- -nitrates or nitric oxide donors such as amyl nitrite . These are medicines often used to treat high blood pressure, chest pain or heart disease. This also includes recreational drugs called poppers.
+- -other soluble guanylate cyclase stimulators , such as vericiguat .
+- -Medicines that can change the level of Adempas in the blood , for example
+- -ketoconazole, posaconazole, itraconazole , to treat fungal infections.
+- -abacavir, atazanavir, cobicistat, darunavir, dolutegravir, efavirenz, elvitegravir, emtricitabine, rilpivirine, ritonavir , to treat HIV infections.
+- -phenytoin, carbamazepine, phenobarbitone , to treat epilepsy.
+- -St. John's Wort , to treat depression.
+- -ciclosporin , to prevent rejection of transplanted organs.
+- -erlotinib, gefitinib , to treat cancer.
+- -bosentan , to treat pulmonary arterial hypertension.
+- -antacids such as aluminium hydroxide / magnesium hydroxide , to treat indigestion or heartburn. Take antacids at least 2 hours before or 1 hour after using Adempas.
+
+If you are taking these medicines, you may experience more side effects, or Adempas may not work as expected.
+
+## Medicines whose effect may be influenced by Adempas , for example
+
+- -granisetron, to treat nausea or vomiting.
+- -erlotinib , to treat cancer.
+
+If you are taking these medicines, ask your doctor whether their doses need to be changed.
 
 ## Adempas with food
 
@@ -2211,7 +2217,7 @@ If you smoke, it is recommended that you stop before starting treatment , as smo
 
 ## If you take more Adempas than you should
 
-Please contact the doctor if you took more Adempas than you should and if you notice any side effects (see section 4). If your blood pressure drops (which can make you feel dizzy) then you may need immediate medical attention.
+Please contact the doctor if you took more Adempas than you should and if you notice any side effects (see section 4). If your blood pressure drops (which can make you feel dizzy) you may need immediate medical attention.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2221,16 +2227,17 @@ Do not take a double dose to make up for a forgotten dose. If you miss a dose, c
 
 ## If you stop taking Adempas
 
-Do not stop taking this medicine without talking to your doctor first. If you stop to taking this medicine, your disease may worsen. If you have not taken this medicine for 3 days or more, please tell your doctor before you start taking it again.
+Do not stop taking this medicine without talking to your doctor first. If you stop taking this medicine, your disease may worsen. If you have not taken this medicine for 3 days or more, please tell your doctor before you start taking it again.
 
 ## If you are switching between Adempas and sildenafil or tadalafil
 
 To avoid interactions, Adempas and PDE5 inhibitors (sildenafil, tadalafil) must not be taken at the same time.
 
 - -If you switch to Adempas
-- -do not start Adempas for at least 24 hours after your last dose of sildenafil and at least 48 hours after your last dose of tadalafil.
+- -do not start Adempas for at least 24 hours after your last dose of sildenafil and at least 48 hours after your last dose of tadalafil, if you are adult .
+- -do not start Adempas for at least 24 hours after your last dose of sildenafil and at least 72 hours after your last dose of tadalafil, if you are child .
 - -If you switch from Adempas
-- -stop using Adempas at least 24 hours before you start using sildenafil or tadalafil.
+- -stop using Adempas at least 24 hours before you start using sildenafil or tadalafil, if you are adult or child.
 
 If you have any further questions on the use of this medicine, ask your doctor or pharmacist.
 
@@ -2247,9 +2254,9 @@ If this happens, contact your doctor immediately as you may need urgent medical 
 
 ## Overall list of possible side effects (in adult patients)
 
-may affect more than 1 in 10 people
+## Very common:
 
-Very common:
+may affect more than 1 in 10 people
 
 - -dizziness
 - -headache
@@ -2280,8 +2287,8 @@ Very common:
 
 In general, side effects observed in children aged 6 to less than 18 years treated with Adempas were similar to those observed in adults. The most frequent side effects in children were:
 
-- -low blood pressure (hypotension) ( Very common : may affect more than 1 in 10 people)
-- -headache ( Common : may affect up to 1 in 10 people)
+- -low blood pressure (hypotension) (very common: may affect more than 1 in 10 people)
+- -headache (common: may affect up to 1 in 10 people)
 
 ## Reporting of side effects
 
@@ -2380,103 +2387,77 @@ For any information about this medicine, please contact the local representative
 
 België / Belgique / Belgien
 
-MSD Belgium Tél/Tel: +32(0)27766211 dpoc\\_belux@msd.com
-
-Lietuva UAB Merck Sharp &amp; Dohme Tel: + 370 5 2780 247 dpoc\\_lithuania@msd.com
+MSD Belgium Tél/Tel: +32(0)27766211 dpoc\\_belux@msd.com Lietuva UAB Merck Sharp &amp; Dohme Tel. +370 5 2780 247 dpoc\\_lithuania@msd.com
 
 <div style=\"page-break-after: always\"></div>
 
-## България
-
-Мерк Шарп и Доум България ЕООД Teл.: + 359 2 819 37 37 info-msdbg@merck.com
+България Мерк Шарп и Доум България ЕООД Teл.: +359 2 819 37 37 info-msdbg@msd.com
 
 ## Česká republika
 
-Merck Sharp &amp; Dohme s.r.o. Tel: +420 233 010 111 dpoc\\_czechslovak@merck.com
+Merck Sharp &amp; Dohme s.r.o. Tel.: +420 277 050 000 dpoc\\_czechslovak@msd.com
 
-## Danmark
+Danmark MSD Danmark ApS Tlf.: +45 4482 4000 dkmail@msd.com
 
-MSD Danmark ApS Tlf.: +45 4482 4000 dkmail@msd.com
+Deutschland MSD Sharp &amp; Dohme GmbH Tel.: +49 (0) 89 20 300 4500 medinfo@msd.de
 
-## Deutschland
-
-MSD Sharp &amp; Dohme GmbH Tel: +49 (0) 89 20 300 4500
-
-medinfo@msd.de
-
-Eesti Merck Sharp &amp; Dohme OÜ Tel: + 372 614 4200
+Eesti Merck Sharp &amp; Dohme OÜ Tel: +372 614 4200
 
 dpoc.estonia@msd.com
 
-## Ελλάδα
-
-MSD Α.Φ.Ε.Ε Τηλ: + 30 210 98 97 300 dpoc\\_greece@merck.com
+Ελλάδα MSD Α.Φ.Ε.Ε Τηλ: +30 210 98 97 300 dpoc.greece@msd.com
 
 ## España
 
 Merck Sharp &amp; Dohme de España, S.A. Tel: +34 91 321 06 00 msd\\_info@msd.com
 
-## France
-
-MSD France
-
-Tél : + 33 (0) 1 80 46 40 40
+France MSD France Tél: +33 (0)1 80 46 40 40
 
 ## Hrvatska
 
-Merck Sharp &amp; Dohme d.o.o. Tel: + 385 1 6611 333 croatia\\_info@merck.com
+Merck Sharp &amp; Dohme d.o.o. Tel: +385 1 6611 333 dpoc.croatia@msd.com
 
 ## Ireland
 
 Merck Sharp &amp; Dohme Ireland (Human Health) Limited Tel: +353 (0)1 2998700 medinfo\\_ireland@msd.com
 
+## Ísland
+
+Vistor ehf. Sími: +354 535 7000
+
 Luxembourg / Luxemburg MSD Belgium Tél/Tel: +32(0)27766211 dpoc\\_belux@msd.com
 
-Magyarország MSD Pharma Hungary Kft. Tel.: + 36 1 888 5300 hungary\\_msd@merck.com
+Magyarország MSD Pharma Hungary Kft. Tel.: +36 1 888 5300 hungary\\_msd@msd.com
 
-## Malta
-
-Merck Sharp &amp; Dohme Cyprus Limited Tel: 8007 4433 (+356 99917558) malta \\_ info@merck.com
+Malta Merck Sharp &amp; Dohme Cyprus Limited Tel: 8007 4433 (+356 99917558) dpoccyprus@msd.com
 
 ## Nederland
 
-Merck Sharp &amp; Dohme B.V. Tel: 0800 9999 000 (+ 31 23 5153153) medicalinfo.nl@merck.com
+Merck Sharp &amp; Dohme B.V. Tel: 0800 9999 000 (+31 23 5153153) medicalinfo.nl@msd.com
 
-Norge MSD (Norge) AS Tlf: + 47 32 20 73 00
+Norge MSD (Norge) AS Tlf: +47 32 20 73 00
 
 medinfo.norway@msd.com
 
-## Österreich
-
-Merck Sharp &amp; Dohme Ges.m.b.H. Tel: +43 (0) 1 26 044 dpoc\\_austria@merck.com
+Österreich Merck Sharp &amp; Dohme Ges.m.b.H. Tel: +43 (0) 1 26 044 dpoc\\_austria@msd.com
 
 ## Polska
 
-MSD Polska Sp. z o.o. Tel: +48 22 549 51 00 msdpolska@merck.com
+MSD Polska Sp. z o.o. Tel.: +48 22 549 51 00 msdpolska@msd.com
 
-## Portugal
+Portugal Merck Sharp &amp; Dohme, Lda
 
-Merck Sharp &amp; Dohme, Lda Tel: + 351 214465700
-
-inform\\_pt@merck.com
+Tel.: +351 214465700 inform\\_pt@msd.com
 
 ## România
 
-Merck Sharp &amp; Dohme Romania S.R.L. Tel: + 40 21 529 29 00 msdromania@merck.com
+Merck Sharp &amp; Dohme Romania S.R.L. Tel.: +40 21 529 29 00 msdromania@msd.com
 
-## Slovenija
+Slovenija Merck Sharp &amp; Dohme, inovativna zdravila d.o.o. Tel: +386 1 520 4201 msd.slovenia@msd.com
 
-Merck Sharp &amp; Dohme, inovativna zdravila d.o.o. Tel: + 386 1 5204201
-
-msd.slovenia@merck.com
+Slovenská republika Merck Sharp &amp; Dohme, s. r. o. Tel.: +421 2 58282010 dpoc\\_czechslovak@msd.com
 
 <div style=\"page-break-after: always\"></div>
-
-## Ísland
-
-Vistor ehf.
-
-Sími: + 354 535 7000
 
 ## Italia
 
@@ -2488,29 +2469,27 @@ dpoc.italy@msd.com
 
 ## Κύπρος
 
-Merck Sharp &amp; Dohme Cyprus Limited Τηλ.: 800 00 673 (+357 22866700) cyprus\\_info@merck.com
+Merck Sharp &amp; Dohme Cyprus Limited Τηλ.: 800 00 673 (+357 22866700) dpoccyprus@msd.com
 
 ## Latvija
 
-SIA Merck Sharp &amp; Dohme Latvija Tel.: + 371 67025300 dpoc.latvia@msd.com
+SIA Merck Sharp &amp; Dohme Latvija
+
+Tel.: +371 67025300 dpoc.latvia@msd.com
 
 ## This leaflet was last revised in
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu
 
-## Slovenská republika
-
-Merck Sharp &amp; Dohme, s. r. o. Tel: + 421 2 58282010
-
-dpoc\\_czechslovak@merck.com
-
 ## Suomi/Finland
 
-MSD Finland Oy Puh/Tel: + 358 (0)9 804650 info@msd.fi
+MSD Finland Oy Puh/Tel: +358 (0)9 804 650 info@msd.fi
 
 ## Sverige
 
-Merck Sharp &amp; Dohme (Sweden) AB Tel: + 46 77 5700488 medicinskinfo@msd.com
+Merck Sharp &amp; Dohme (Sweden) AB
+
+Tel: +46 77 5700488 medicinskinfo@msd.com
 
 ## Package leaflet: Information for the user
 
@@ -2541,7 +2520,9 @@ riociguat
 
 Adempas contains the active substance riociguat, a guanylate cyclase (sGC)-stimulator.
 
-## Pulmonary arterial hypertension (PAH) .
+## Pulmonary arterial hypertension (PAH)
+
+.
 
 Adempas is used to treat children from 6 years of age with pulmonary arterial hypertension. In these patients, the wall of the blood vessels of the lungs are thickened and therefore the vessels become narrowed. Adempas is taken together with certain other medicines (so-called endothelin receptor antagonists).
 
@@ -2551,20 +2532,20 @@ In patients with pulmonary hypertension, the blood vessels that carry blood from
 
 ## Do not use Adempas if you
 
-- -use PDE5 inhibitors such as sildenafil, tadalafil, vardenafil. These are medicines to treat high blood pressure in lung arteries or erectile dysfunction.
+- -use PDE5 inhibitors such as sildenafil, tadalafil, vardenafil . These are medicines to treat high blood pressure in lung arteries or to treat erectile dysfunction.
 - -have severely reduced liver function .
 - -are allergic to riociguat or any of the other ingredients of this medicine (listed in section 6).
 - -are pregnant.
-- -use nitrates or nitric oxide donors such as amyl nitrite. These are medicines often used to treat high blood pressure, chest pain or heart disease. This also includes recreational drugs called poppers.
+- -use nitrates or nitric oxide donors such as amyl nitrite . These are medicines often used to treat high blood pressure, chest pain or heart disease. This also includes recreational drugs called poppers.
 - -use other medicines similar to Adempas called soluble guanylate cyclases stimulators , such as
 
 <div style=\"page-break-after: always\"></div>
 
 vericiguat . Ask your doctor if you are not sure.
 
-- -have low blood pressure before you take Adempas the first time. To start with Adempas your systolic blood value should be
-- -90 mmHg or more if your age is between 6 and 12 years,
-- -95 mmHg or more if you are older than 12 and younger than 18 years.
+- -have low blood pressure before you start treatment with Adempas. To start with Adempas your systolic blood pressure value needs to be
+- -90 mmHg or more if you are 6 to 11 years old,
+- -95 mmHg or more if you are12 to 17 years old.
 - -have increased blood pressure in your lungs associated with scarring of the lungs, of unknown cause called idiopathic pulmonary pneumonia.
 
 If any of these apply to you, talk to your doctor first and do not use Adempas.
@@ -2573,15 +2554,14 @@ If any of these apply to you, talk to your doctor first and do not use Adempas.
 
 Talk to your doctor or pharmacist before using Adempas if you
 
-- -have pulmonary veno-occlusive disease , a disease which makes you feel short of breath because fluid builds-up in the lungs. He or she may decide to provide you with an alternative medicine.
+- -have pulmonary veno-occlusive disease , a disease which makes you feel short of breath because fluid builds up in the lungs. He or she may decide to provide you with an alternative medicine.
 - -have recently had serious bleeding from the lungs and airways .
 - -have undergone treatment to stop coughing up blood (bronchial arterial embolisation).
 - -take medicines that prevent the blood from clotting since this may cause bleeding from the lungs. Your doctor will regularly test your blood and measure blood pressure.
 - -The doctor may decide to monitor the blood pressure, if you
-- -have symptoms of low blood pressure like dizziness, lightheadedness or fainting, or
-- -take medicines to lower blood pressure or to increase urination, or
+- -have symptoms of low blood pressure like dizziness, lightheadedness or fainting,
+- -take medicines to lower blood pressure or to increase urination,
 - -have heart or circulation problems
-- -are older than 65 years as low blood pressure is more likely in this age group.
 
 ## Inform your doctor if
 
@@ -2595,7 +2575,7 @@ Talk to your doctor or pharmacist before using Adempas if you
 
 ## Children and adolescents
 
-Your have been prescribed Adempas granules for oral suspension. For PAH patients of 6 years and older that weigh 50 kg and more, Adempas is also available as tablets. Patients may be switched between granules for oral suspension and tablets during therapy due to body weight changes. Efficacy and safety have not been shown in the following paediatric populations:
+You have been prescribed Adempas granules for oral suspension. For PAH patients of 6 years and older that weigh 50 kg and more, Adempas is also available as tablets. Patients may be switched between granules for oral suspension and tablets during therapy due to body weight changes. Efficacy and safety have not been shown in the following paediatric populations:
 
 - -Children less than 6 years because of safety concerns.
 
@@ -2603,22 +2583,30 @@ Your have been prescribed Adempas granules for oral suspension. For PAH patients
 
 Tell your doctor or pharmacist if you are using, have recently used or might use any other medicines, in particular:
 
-- -Do not take medicines used for
-- -high blood pressure or heart disease such as nitrates and amyl nitrite , or another soluble guanylate cyclase stimulators such as vericiguat . Do not take these medicines together with Adempas.
-- -high blood pressure in lung arteries, as you must not take certain medicines such as sildenafil, tadalafil together with Adempas. Other medicines for high blood pressure in the lung arteries, such as bosentan and iloprost , can be used with Adempas, but you should inform the doctor.
-- -erectile dysfunction such as sildenafil, tadalafil, vardenafil . Do not take these medicines together with Adempas.
+- -Do not take the following medicines with Adempas
+- -PDE5 inhibitors such as sildenafil, tadalafil , or vardenafil . These are medicines to treat high blood pressure in lung arteries or to treat erectile dysfunction.
+- -nitrates or nitric oxide donors such as amyl nitrite . These are medicines often used to treat high blood pressure, chest pain or heart disease. This also includes recreational drugs called poppers.
+- -other soluble guanylate cyclase stimulators , such as vericiguat .
+- -Medicines that can change the level of Adempas in the blood , for example
+- -ketoconazole, posaconazole, itraconazole , to treat fungal infections.
+- -abacavir, atazanavir, cobicistat, darunavir, dolutegravir, efavirenz, elvitegravir, emtricitabine, rilpivirine, ritonavir , to treat HIV infections.
+- -phenytoin, carbamazepine, phenobarbitone , to treat epilepsy.
 
 <div style=\"page-break-after: always\"></div>
 
-- -The following medicines can increase the level of Adempas in the blood which increases the risk of side effects. Medicines to treat
-- -fungal infections such as ketoconazole, posaconazole, itraconazole.
-- -HIV infection such as abacavir, atazanavir, cobicistat, darunavir, dolutegravir, efavirenz, elvitegravir, emtricitabine, rilpivirine, ritonavir .
-- -epilepsy such as phenytoin, carbamazepine, phenobarbitone .
-- -depression such as St. John's Wort .
-- -preventing rejection of transplanted organs such as ciclosporin .
-- -cancer such as erlotinib, gefitinib .
-- -nausea, vomiting such as granisetron .
-- -stomach disease or heartburn called antacids such as aluminium hydroxide / magnesium hydroxide . Take antacids at least 2 hours before or 1 hour after using Adempas.
+- -St. John's Wort , to treat depression.
+- -ciclosporin , to prevent rejection of transplanted organs.
+- -erlotinib, gefitinib , to treat cancer.
+- -bosentan , to treat pulmonary arterial hypertension.
+- -antacids such as aluminium hydroxide / magnesium hydroxide , to treat indigestion or heartburn. Take antacids at least 2 hours before or 1 hour after using Adempas.
+
+If you are taking these medicines, you may experience more side effects, or Adempas may not work as expected.
+
+- -Medicines whose effect may be influenced by Adempas , for example
+- -granisetron, to treat nausea or vomiting.
+- -erlotinib , to treat cancer.
+
+If you are taking these medicines, ask your doctor whether their doses need to be changed.
 
 ## Adempas with food
 
@@ -2634,7 +2622,7 @@ However, if your blood pressure tends to be low, take Adempas either always with
 
 ## Driving and using machines
 
-Adempas moderately influences the ability to cycle, drive and use machines. It may cause side effects such as dizziness. You should be aware of the side effects of this medicine before cycling, driving or using any tools or machines (see section 4).
+Adempas moderately influences the ability to cycle, drive and use machines. It may cause side effects such as dizziness. You should be aware of the side effects of this medicine before cycling, driving or using machines (see section 4).
 
 ## Adempas contains sodium benzoate
 
@@ -2657,10 +2645,10 @@ Tablets are available for use by adults and children weighing at least 50 kg. Gr
 Your doctor will tell you what dose of Adempas to take.
 
 - -Treatment usually starts with a low dose.
+- -Your doctor will slowly increase your dose depending on how you respond to the treatment.
 
 <div style=\"page-break-after: always\"></div>
 
-- -Your doctor will slowly increase your dose depending on how you respond to the treatment.
 - -During the first weeks of treatment the doctor will need to measure your blood pressure at least every two weeks. This is required to decide on the correct dose of your medicine.
 
 Your doctor will calculate and tell you the amount of oral suspension in millilitres (mL) you need to take. Do not adjust the dose yourself. The amount in mL needs to be measured with one of the blue syringes included in the Adempas carton. Your doctor or pharmacist will tell you which blue syringe to use (5 mL or 10 mL).
@@ -2670,12 +2658,11 @@ Your doctor will calculate and tell you the amount of oral suspension in millili
 - -Make sure the correct dose is written on the carton. If not, ask your pharmacist or doctor to provide it. Keep the carton until the granules for oral suspension are used up.
 - -Follow the 'Instructions for Use' included in the carton on how to prepare and use Adempas oral suspension carefully to avoid any handling problems e.g., clumps or sediment in the suspension.
 - -All materials to prepare and take the oral suspension are provided with the medicine. Only use non-sparkling water to avoid bubbles.
-
-Use only the syringes provided to administer Adempas to ensure correct dosing. Do not use any other method to take the suspension, such as alternative syringe, spoon etc.
+- Use only the syringes provided to administer Adempas to ensure correct dosing. Do not use any other method to take the suspension, such as alternative syringe, spoon etc.
 
 ## How to take the medicine
 
-Adempas is for oral use. Each Adempas dose has to be swallowed. The patient must swallow the full dose of medicine. Use Adempas 3 times daily, approximately every 6 to 8 hours.
+Adempas is for oral use. Take your Adempas dose 3 times a day, every 6 to 8 hours.
 
 ## How much you have to use
 
@@ -2685,9 +2672,9 @@ During the starting phase your doctor decides the dose of oral suspension every 
 
 If you smoke, it is recommended that you stop before starting treatment , as smoking may reduce the effectiveness of this medicine. Please tell your doctor if you smoke or stop smoke during treatment. Your doctor may need to adjust your dose.
 
-## If you use more Adempas than you should
+## If you take more Adempas than you should
 
-Please contact the doctor if you used more Adempas than you should and if you notice any side effects (see section 4). If the blood pressure drops (which can cause dizziness) then immediate medical attention may be needed.
+Please contact the doctor if you used more Adempas than you should and if you notice any side effects (see section 4). If the blood pressure drops (which can make you feel dizzy) immediate medical attention may be needed.
 
 ## If you forget to use Adempas
 
@@ -2695,19 +2682,18 @@ Do not use a double dose to make up for a forgotten dose. If you miss a dose, co
 
 ## If you stop using Adempas
 
-Do not stop using this medicine without talking to your doctor first. If you stop to taking this medicine, your disease may worsen. If you have not taken this medicine for 3 days or more, please tell your doctor before you start taking it again.
+Do not stop using this medicine without talking to your doctor first. If you stop taking this medicine, your disease may worsen. If you have not taken this medicine for 3 days or more, please tell your doctor before you start taking it again.
 
 ## If you are switching between Adempas and sildenafil or tadalafil
 
 To avoid interactions, Adempas and PDE5 inhibitors (sildenafil, tadalafil) must not be taken at the same time.
 
 - -If you switch to Adempas
-- -do not start Adempas for at least 24 hours after your last dose of sildenafil and at least 48 hours after your last dose of tadalafil.
-
-<div style=\"page-break-after: always\"></div>
-
+- -do not start Adempas for at least 24 hours after your last dose of sildenafil and at least 72 hours after your last dose of tadalafil.
 - -If you switch from Adempas
 - -stop using Adempas at least 24 hours before you start using sildenafil or tadalafil.
+
+<div style=\"page-break-after: always\"></div>
 
 If you have any further questions on the use of this medicine, ask your doctor or pharmacist.
 
@@ -2719,8 +2705,8 @@ Like all medicines, this medicine can cause side effects although not everybody 
 
 In general, side effects observed in children less than 18 years treated with Adempas were similar to those observed in adults. The most frequent side effects in children were:
 
-- -low blood pressure (hypotension) ( Very common : may affect more than 1 in 10 people)
-- -headache ( Common : may affect up to 1 in 10 people)
+- -low blood pressure (hypotension) (very common: may affect more than 1 in 10 people)
+- -headache (common: may affect up to 1 in 10 people)
 
 ## Overall list of possible side effects (in adult patients)
 
@@ -2759,9 +2745,9 @@ Keep this medicine out of the sight and reach of children.
 
 Do not use this medicine after the expiry date which is stated on the bottle label after 'EXP'. The expiry date refers to the last day of that month.
 
-<div style=\"page-break-after: always\"></div>
-
 Do not store above 30 °C. Do not freeze.
+
+<div style=\"page-break-after: always\"></div>
 
 After reconstitution the shelf life of the suspension is 14 days at room temperature.
 
@@ -2775,7 +2761,7 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 - -The active substance is riociguat.
 - After preparation, the oral suspension contains 10.5 g granules plus 200 mL water, which results in 208 mL suspension with 0.15 mg riociguat per mL.
-- -The other ingredients are anhydrous citric acid (E 330); flavour strawberry; hypromellose; mannitol (E 421); microcrystalline cellulose and carmellose sodium; sodium benzoate (E 211) (see end of section 2 for further information on sodium benzoate and sodium); sucralose (E 955); xanthan gum (E 415).
+- -The other ingredients are anhydrous citric acid (E 330), flavour strawberry, hypromellose, mannitol (E 421); microcrystalline cellulose and carmellose sodium; sodium benzoate (E 211) (see end of section 2 for further information on sodium benzoate and sodium), sucralose (E 955), xanthan gum (E 415).
 
 ## What Adempas looks like and contents of the pack
 
@@ -2799,103 +2785,87 @@ Bayer AG Kaiser-Wilhelm-Allee 51368 Leverkusen Germany
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder.
 
-België / Belgique / Belgien MSD Belgium Tél/Tel: +32(0)27766211 dpoc\\_belux@msd.com
-
-Lietuva UAB Merck Sharp &amp; Dohme Tel: + 370 5 2780 247 dpoc\\_lithuania@msd.com
+België / Belgique / Belgien MSD Belgium Tél/Tel: +32(0)27766211 dpoc\\_belux@msd.com Lietuva UAB Merck Sharp &amp; Dohme Tel. +370 5 2780 247 dpoc\\_lithuania@msd.com
 
 <div style=\"page-break-after: always\"></div>
 
-## България
-
-Мерк Шарп и Доум България ЕООД Teл.: + 359 2 819 37 37 info-msdbg@merck.com
+България Мерк Шарп и Доум България ЕООД Teл.: +359 2 819 37 37 info-msdbg@msd.com
 
 ## Česká republika
 
-Merck Sharp &amp; Dohme s.r.o. Tel: +420 233 010 111 dpoc\\_czechslovak@merck.com
+Merck Sharp &amp; Dohme s.r.o. Tel.: +420 277 050 000 dpoc\\_czechslovak@msd.com
 
-## Danmark
+Danmark MSD Danmark ApS Tlf.: +45 4482 4000 dkmail@msd.com
 
-MSD Danmark ApS Tlf.: +45 4482 4000 dkmail@msd.com
+Deutschland MSD Sharp &amp; Dohme GmbH Tel.: +49 (0) 89 20 300 4500 medinfo@msd.de
 
-## Deutschland
-
-MSD Sharp &amp; Dohme GmbH Tel: +49 (0) 89 20 300 4500
-
-medinfo@msd.de
-
-Eesti Merck Sharp &amp; Dohme OÜ Tel: + 372 614 4200
+Eesti Merck Sharp &amp; Dohme OÜ Tel: +372 614 4200
 
 dpoc.estonia@msd.com
 
-## Ελλάδα
-
-MSD Α.Φ.Ε.Ε Τηλ: + 30 210 98 97 300 dpoc\\_greece@merck.com
+Ελλάδα MSD Α.Φ.Ε.Ε. Τηλ: +30 210 98 97 300 dpoc.greece@msd.com
 
 ## España
 
 Merck Sharp &amp; Dohme de España, S.A. Tel: +34 91 321 06 00 msd\\_info@msd.com
 
-## France
+France
 
-MSD France
-
-Tél : + 33 (0) 1 80 46 40 40
+MSD France Tél: +33 (0)1 80 46 40 40
 
 ## Hrvatska
 
-Merck Sharp &amp; Dohme d.o.o. Tel: + 385 1 6611 333 croatia\\_info@merck.com
+Merck Sharp &amp; Dohme d.o.o. Tel: +385 1 6611 333 dpoc.croatia@msd.com
 
 ## Ireland
 
 Merck Sharp &amp; Dohme Ireland (Human Health) Limited Tel: +353 (0)1 2998700 medinfo\\_ireland@msd.com
 
-Luxembourg / Luxemburg MSD Belgium Tél/Tel: +32(0)27766211
+## Ísland
 
-dpoc\\_belux@msd.com
+Vistor ehf. Sími: +354 535 7000
 
-Magyarország MSD Pharma Hungary Kft. Tel.: + 36 1 888 5300 hungary\\_msd@merck.com
+Luxembourg / Luxemburg MSD Belgium Tél/Tel: +32(0)27766211 dpoc\\_belux@msd.com
 
-## Malta
+Magyarország MSD Pharma Hungary Kft. Tel.: +36 1 888 5300 hungary\\_msd@msd.com
 
-Merck Sharp &amp; Dohme Cyprus Limited Tel: 8007 4433 (+356 99917558) malta \\_ info@merck.com
+Malta Merck Sharp &amp; Dohme Cyprus Limited Tel: 8007 4433 (+356 99917558)
+
+dpoccyprus@msd.com
 
 ## Nederland
 
-Merck Sharp &amp; Dohme B.V. Tel: 0800 9999 000 (+ 31 23 5153153) medicalinfo.nl@merck.com
+Merck Sharp &amp; Dohme B.V. Tel: 0800 9999 000 (+31 23 5153153) medicalinfo.nl@msd.com
 
-Norge MSD (Norge) AS Tlf: + 47 32 20 73 00
+Norge MSD (Norge) AS Tlf: +47 32 20 73 00
 
 medinfo.norway@msd.com
 
 ## Österreich
 
-Merck Sharp &amp; Dohme Ges.m.b.H. Tel: +43 (0) 1 26 044 dpoc\\_austria@merck.com
+Merck Sharp &amp; Dohme Ges.m.b.H. Tel: +43 (0) 1 26 044
+
+dpoc\\_austria@msd.com
 
 ## Polska
 
-MSD Polska Sp. z o.o. Tel: +48 22 549 51 00 msdpolska@merck.com
+MSD Polska Sp. z o.o. Tel.: +48 22 549 51 00 msdpolska@msd.com
 
 ## Portugal
 
-Merck Sharp &amp; Dohme, Lda Tel: + 351 214465700
-
-inform\\_pt@merck.com
+Merck Sharp &amp; Dohme, Lda Tel.: +351 21 4465700 inform\\_pt@msd.com
 
 ## România
 
-Merck Sharp &amp; Dohme Romania S.R.L. Tel: + 40 21 529 29 00 msdromania@merck.com
+Merck Sharp &amp; Dohme Romania S.R.L. Tel.: +40 21 529 29 00 msdromania@msd.com
 
 ## Slovenija
 
-Merck Sharp &amp; Dohme, inovativna zdravila d.o.o. Tel: + 386 1 5204201 msd.slovenia@merck.com
+Merck Sharp &amp; Dohme, inovativna zdravila d.o.o. Tel: +386 1 520 4201 msd.slovenia@msd.com
+
+Slovenská republika Merck Sharp &amp; Dohme, s. r. o. Tel.: +421 2 58282010 dpoc\\_czechslovak@msd.com
 
 <div style=\"page-break-after: always\"></div>
-
-## Ísland
-
-Vistor ehf.
-
-Sími: + 354 535 7000
 
 ## Italia
 
@@ -2907,29 +2877,25 @@ dpoc.italy@msd.com
 
 ## Κύπρος
 
-Merck Sharp &amp; Dohme Cyprus Limited Τηλ.: 800 00 673 (+357 22866700) cyprus\\_info@merck.com
+Merck Sharp &amp; Dohme Cyprus Limited Τηλ.: 800 00 673 (+357 22866700) dpoccyprus@msd.com
 
 ## Latvija
 
-SIA Merck Sharp &amp; Dohme Latvija Tel.: + 371 67025300 dpoc.latvia@msd.com
+SIA Merck Sharp &amp; Dohme Latvija
+
+Tel.: +371 67025300 dpoc.latvia@msd.com
 
 ## This leaflet was last revised in
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu
 
-## Slovenská republika
-
-Merck Sharp &amp; Dohme, s. r. o. Tel: + 421 2 58282010
-
-dpoc\\_czechslovak@merck.com
-
 ## Suomi/Finland
 
-MSD Finland Oy Puh/Tel: + 358 (0)9 804650 info@msd.fi
+MSD Finland Oy Puh/Tel: +358 (0)9 804 650 info@msd.fi
 
 ## Sverige
 
-Merck Sharp &amp; Dohme (Sweden) AB Tel: + 46 77 5700488 medicinskinfo@msd.com
+Merck Sharp &amp; Dohme (Sweden) AB Tel: +46 77 5700488 medicinskinfo@msd.com
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3146,7 +3112,7 @@ The shown pictogram is only an example.
 
 ## Setting the prescribed dose with every new blue syringe
 
-Cautionary information:
+## Cautionary information:
 
 <!-- image -->
 
@@ -3234,7 +3200,7 @@ Adjust it accordingly.
 
 - i. Push the plunger upwards in the blue syringe as far as it goes. The blue syringe can now be used.
 
-Administering the oral suspension
+## Administering the oral suspension
 
 ## Shaking the oral suspension
 
@@ -3291,9 +3257,7 @@ Allow the suspension to adjust to room temperature if it has been stored in the 
 - Insert the tip of the blue syringe again fully into the large opening of the adapter.
 - Return the suspension to the bottle by pushing back the plunger rod into the blue syringe as far as it goes.
 - Repeat steps 'b' to 'h' until no large air bubbles are visible.
-- j. Close the bottle with the screw cap. Administer the suspension immediately after filling the
-
-blue syringe.
+- j. Close the bottle with the screw cap. Administer the suspension immediately after filling the blue syringe.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3344,7 +3308,8 @@ Follow the steps listed below to clean the device. Altogether, three cycles of c
 - c. Empty the blue syringe into the prepared empty container.
 - d. Repeat steps 'a' to 'c' two more times .
 - e. After cleaning, push the plunger rod back in until it stops.
-- f. Dry the outer surface of the syringe with a clean tissue.
+
+f. Dry the outer surface of the syringe with a clean tissue.
 
 Store the blue syringe in a clean and dry place until next use. Keep away from sunlight.
 

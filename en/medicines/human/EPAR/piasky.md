@@ -1,106 +1,32 @@
 ---
-document_datetime: 2026-02-10 10:30:00
+document_datetime: 2026-05-22 14:55:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/piasky.html
 document_name: piasky.html
 version: success
-processing_time: 0.1008614
-conversion_datetime: 2026-02-13 18:41:52.557637
+processing_time: 0.0881204
+conversion_datetime: 2026-05-23 08:19:28.424239
 docling_version:
-  docling-serve: 1.12.0
-  docling-jobkit: 1.10.2
-  docling: 2.73.1
-  docling-core: 2.65.1
-  docling-ibm-models: 3.11.0
-  docling-parse: 4.7.3
+  docling-serve: 1.20.0
+  docling-jobkit: 1.20.0
+  docling: 2.95.0
+  docling-core: 2.77.0
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.11.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
 ---
-# Search
-
-- [Medicines](/en/medicines)
-    - [Find medicine](/en/medicines)
-    - [Therapeutic areas: latest updates](/en/medicines/therapeutic-areas-latest-updates)
-    - [Download medicine data](/en/medicines/download-medicine-data)
-    - [What we publish on medicines and when](/en/medicines/what-we-publish-medicines-when)
-    - [Medicines under evaluation](/en/medicines/medicines-human-use-under-evaluation)
-    - [National registers](/en/medicines/national-registers-authorised-medicines)
-- [Human regulatory](/en/human-regulatory-overview)
-    - [Overview](/en/human-regulatory-overview)
-    - [Research and development](/en/human-regulatory-overview/research-development)
-    - [Marketing authorisation](/en/human-regulatory-overview/marketing-authorisation)
-    - [Post-authorisation](/en/human-regulatory-overview/post-authorisation)
-    - [Medical devices](/en/human-regulatory-overview/medical-devices)
-    - [Herbal products](/en/human-regulatory-overview/herbal-medicinal-products)
-- [Veterinary regulatory](/en/veterinary-regulatory-overview)
-    - [Overview](/en/veterinary-regulatory-overview)
-    - [Research and development](/en/veterinary-regulatory-overview/research-development-veterinary-medicines)
-    - [Marketing authorisation](/en/veterinary-regulatory-overview/marketing-authorisation-veterinary-medicines)
-    - [Post-authorisation](/en/veterinary-regulatory-overview/post-authorisation-veterinary-medicines)
-- [Committees](/en/committees)
-    - [Overview](/en/committees)
-    - [How the committees work](/en/committees/how-committees-work)
-    - [CHMP](/en/committees/committee-medicinal-products-human-use-chmp)
-    - [CVMP](/en/committees/committee-veterinary-medicinal-products-cvmp)
-    - [PRAC](/en/committees/pharmacovigilance-risk-assessment-committee-prac)
-    - [COMP](/en/committees/committee-orphan-medicinal-products-comp)
-    - [HMPC](/en/committees/committee-herbal-medicinal-products-hmpc)
-    - [CAT](/en/committees/committee-advanced-therapies-cat)
-    - [PDCO](/en/committees/paediatric-committee-pdco)
-    - [Working parties and other groups](/en/committees/working-parties-other-groups)
-- [News &amp; events](/en/news-events)
-    - [Overview](/en/news-events)
-    - [News](/en/news)
-    - [Events](/en/events/upcoming-events)
-    - [What's new](/en/news-events/whats-new)
-    - [Committee highlights](/en/news-events/committee-highlights)
-    - [Publications](/en/news-and-events/publications)
-    - [Press and social media](/en/news-events/press-social-media)
-    - [Podcast: Inside EMA](/en/news-events/podcast-inside-ema)
-    - [Open consultations](/en/news-events/open-consultations)
-    - [RSS feeds](/en/news-events/rss-feeds)
-- [Partners &amp; networks](/en/partners-networks)
-    - [Overview](/en/partners-networks)
-    - [EU partners](/en/partners-networks/eu-partners)
-    - [International activities](/en/partners-networks/international-activities)
-    - [Patients and consumers](/en/partners-networks/patients-consumers)
-    - [Healthcare professionals](/en/partners-networks/healthcare-professionals)
-    - [Academia](/en/partners-networks/academia)
-    - [Pharmaceutical industry](/en/partners-networks/pharmaceutical-industry)
-    - [Networks](/en/partners-networks/networks)
-    - [Health technology assessment bodies](/en/partners-networks/health-technology-assessment-bodies)
-    - [One Health approach](/en/partners-networks/one-health-approach)
-    - [Animal health practitioners](/en/partners-networks/animal-health-practitioners)
-    - [One substance - one assessment](/en/partners-networks/one-substance-one-assessment-osoa-eu-collaboration-chemicals-related-data)
-- [About us](/en/about-us)
-    - [Overview](/en/about-us)
-    - [What we do](/en/about-us/what-we-do)
-    - [Who we are](/en/about-us/who-we-are)
-    - [How we work](/en/about-us/how-we-work)
-    - [Fees](/en/about-us/fees-payable-european-medicines-agency)
-    - [Support to SMEs](/en/about-us/support-smes)
-    - [Annual reports and work programmes](/en/about-us/annual-reports-work-programmes)
-    - [History of EMA](/en/about-us/history-ema)
-    - [Careers](/en/about-us/careers)
-    - [Procurement](/en/about-us/procurement-grants)
-    - [Glossaries](/en/about-us/glossaries)
-    - [About this website](/en/about-us/about-website)
-    - [Data protection and privacy](/en/about-us/data-protection-privacy-ema)
-    - [Contacts](/en/about-us/contacts-european-medicines-agency)
-
-1. [Home](/en/homepage)
-2. [Medicines](https://www.ema.europa.eu/en/medicines)
-3. Piasky
-
 # Piasky
 
 [RSS](/en/individual-human-medicine.xml/244583)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-crovalimab Medicine Human Authorised
+crovalimab
+
+Medicine Human Authorised
 
 Page contents
 
@@ -112,6 +38,7 @@ Page contents
 - [Authorisation details](#authorisation-details)
 - [Assessment history](#assessment-history)
 - [News on Piasky](#news-on)
+- [More information on Piasky](#related-medicines)
 
 - Application under evaluation
 - CHMP opinion
@@ -191,181 +118,137 @@ English (EN) (118.89 KB - PDF)
 
 [View](/en/documents/overview/piasky-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-689)
+[Other languages (22)](#file-language-dropdown-493)
 
 български (BG) (132.61 KB - PDF)
 
-**First published:**
-
-30/08/2024
+**First published:** 30/08/2024
 
 [View](/bg/documents/overview/piasky-epar-medicine-overview_bg.pdf)
 
 español (ES) (107.72 KB - PDF)
 
-**First published:**
-
-30/08/2024
+**First published:** 30/08/2024
 
 [View](/es/documents/overview/piasky-epar-medicine-overview_es.pdf)
 
 čeština (CS) (130.96 KB - PDF)
 
-**First published:**
-
-30/08/2024
+**First published:** 30/08/2024
 
 [View](/cs/documents/overview/piasky-epar-medicine-overview_cs.pdf)
 
 dansk (DA) (106.6 KB - PDF)
 
-**First published:**
-
-30/08/2024
+**First published:** 30/08/2024
 
 [View](/da/documents/overview/piasky-epar-medicine-overview_da.pdf)
 
 Deutsch (DE) (111.41 KB - PDF)
 
-**First published:**
-
-30/08/2024
+**First published:** 30/08/2024
 
 [View](/de/documents/overview/piasky-epar-medicine-overview_de.pdf)
 
 eesti keel (ET) (105.73 KB - PDF)
 
-**First published:**
-
-30/08/2024
+**First published:** 30/08/2024
 
 [View](/et/documents/overview/piasky-epar-medicine-overview_et.pdf)
 
 ελληνικά (EL) (140.35 KB - PDF)
 
-**First published:**
-
-30/08/2024
+**First published:** 30/08/2024
 
 [View](/el/documents/overview/piasky-epar-medicine-overview_el.pdf)
 
 français (FR) (109.7 KB - PDF)
 
-**First published:**
-
-30/08/2024
+**First published:** 30/08/2024
 
 [View](/fr/documents/overview/piasky-epar-medicine-overview_fr.pdf)
 
 hrvatski (HR) (130.48 KB - PDF)
 
-**First published:**
-
-30/08/2024
+**First published:** 30/08/2024
 
 [View](/hr/documents/overview/piasky-epar-medicine-overview_hr.pdf)
 
 italiano (IT) (107.32 KB - PDF)
 
-**First published:**
-
-30/08/2024
+**First published:** 30/08/2024
 
 [View](/it/documents/overview/piasky-epar-medicine-overview_it.pdf)
 
 latviešu valoda (LV) (137.51 KB - PDF)
 
-**First published:**
-
-30/08/2024
+**First published:** 30/08/2024
 
 [View](/lv/documents/overview/piasky-epar-medicine-overview_lv.pdf)
 
 lietuvių kalba (LT) (130.1 KB - PDF)
 
-**First published:**
-
-30/08/2024
+**First published:** 30/08/2024
 
 [View](/lt/documents/overview/piasky-epar-medicine-overview_lt.pdf)
 
 magyar (HU) (131.55 KB - PDF)
 
-**First published:**
-
-30/08/2024
+**First published:** 30/08/2024
 
 [View](/hu/documents/overview/piasky-epar-medicine-overview_hu.pdf)
 
 Malti (MT) (132.94 KB - PDF)
 
-**First published:**
-
-30/08/2024
+**First published:** 30/08/2024
 
 [View](/mt/documents/overview/piasky-epar-medicine-overview_mt.pdf)
 
 Nederlands (NL) (107.74 KB - PDF)
 
-**First published:**
-
-30/08/2024
+**First published:** 30/08/2024
 
 [View](/nl/documents/overview/piasky-epar-medicine-overview_nl.pdf)
 
 polski (PL) (132.85 KB - PDF)
 
-**First published:**
-
-30/08/2024
+**First published:** 30/08/2024
 
 [View](/pl/documents/overview/piasky-epar-medicine-overview_pl.pdf)
 
 português (PT) (108.88 KB - PDF)
 
-**First published:**
-
-30/08/2024
+**First published:** 30/08/2024
 
 [View](/pt/documents/overview/piasky-epar-medicine-overview_pt.pdf)
 
 română (RO) (130.56 KB - PDF)
 
-**First published:**
-
-30/08/2024
+**First published:** 30/08/2024
 
 [View](/ro/documents/overview/piasky-epar-medicine-overview_ro.pdf)
 
 slovenčina (SK) (131.09 KB - PDF)
 
-**First published:**
-
-30/08/2024
+**First published:** 30/08/2024
 
 [View](/sk/documents/overview/piasky-epar-medicine-overview_sk.pdf)
 
 slovenščina (SL) (128.89 KB - PDF)
 
-**First published:**
-
-30/08/2024
+**First published:** 30/08/2024
 
 [View](/sl/documents/overview/piasky-epar-medicine-overview_sl.pdf)
 
 Suomi (FI) (105.68 KB - PDF)
 
-**First published:**
-
-30/08/2024
+**First published:** 30/08/2024
 
 [View](/fi/documents/overview/piasky-epar-medicine-overview_fi.pdf)
 
 svenska (SV) (106.37 KB - PDF)
 
-**First published:**
-
-30/08/2024
+**First published:** 30/08/2024
 
 [View](/sv/documents/overview/piasky-epar-medicine-overview_sv.pdf)
 
@@ -373,9 +256,7 @@ Piasky : EPAR - Risk management plan
 
 English (EN) (1.79 MB - PDF)
 
-**First published:** 30/08/2024
-
-**Last updated:** 10/02/2026
+**First published:** 30/08/2024 **Last updated:** 10/02/2026
 
 [View](/en/documents/rmp/piasky-epar-risk-management-plan_en.pdf)
 
@@ -385,303 +266,159 @@ Piasky : EPAR - Product information
 
 English (EN) (526.65 KB - PDF)
 
-**First published:** 30/08/2024
-
-**Last updated:** 21/10/2025
+**First published:** 30/08/2024 **Last updated:** 21/10/2025
 
 [View](/en/documents/product-information/piasky-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-496)
+[Other languages (24)](#file-language-dropdown-104)
 
 български (BG) (784.66 KB - PDF)
 
-**First published:**
-
-30/08/2024
-
-**Last updated:**
-
-21/10/2025
+**First published:** 30/08/2024 **Last updated:** 21/10/2025
 
 [View](/bg/documents/product-information/piasky-epar-product-information_bg.pdf)
 
 español (ES) (653 KB - PDF)
 
-**First published:**
-
-30/08/2024
-
-**Last updated:**
-
-21/10/2025
+**First published:** 30/08/2024 **Last updated:** 21/10/2025
 
 [View](/es/documents/product-information/piasky-epar-product-information_es.pdf)
 
 čeština (CS) (732.7 KB - PDF)
 
-**First published:**
-
-30/08/2024
-
-**Last updated:**
-
-21/10/2025
+**First published:** 30/08/2024 **Last updated:** 21/10/2025
 
 [View](/cs/documents/product-information/piasky-epar-product-information_cs.pdf)
 
 dansk (DA) (681.77 KB - PDF)
 
-**First published:**
-
-30/08/2024
-
-**Last updated:**
-
-21/10/2025
+**First published:** 30/08/2024 **Last updated:** 21/10/2025
 
 [View](/da/documents/product-information/piasky-epar-product-information_da.pdf)
 
 Deutsch (DE) (856.49 KB - PDF)
 
-**First published:**
-
-30/08/2024
-
-**Last updated:**
-
-21/10/2025
+**First published:** 30/08/2024 **Last updated:** 21/10/2025
 
 [View](/de/documents/product-information/piasky-epar-product-information_de.pdf)
 
 eesti keel (ET) (689.3 KB - PDF)
 
-**First published:**
-
-30/08/2024
-
-**Last updated:**
-
-21/10/2025
+**First published:** 30/08/2024 **Last updated:** 21/10/2025
 
 [View](/et/documents/product-information/piasky-epar-product-information_et.pdf)
 
 ελληνικά (EL) (823.92 KB - PDF)
 
-**First published:**
-
-30/08/2024
-
-**Last updated:**
-
-21/10/2025
+**First published:** 30/08/2024 **Last updated:** 21/10/2025
 
 [View](/el/documents/product-information/piasky-epar-product-information_el.pdf)
 
 français (FR) (837.27 KB - PDF)
 
-**First published:**
-
-30/08/2024
-
-**Last updated:**
-
-21/10/2025
+**First published:** 30/08/2024 **Last updated:** 21/10/2025
 
 [View](/fr/documents/product-information/piasky-epar-product-information_fr.pdf)
 
 hrvatski (HR) (698.86 KB - PDF)
 
-**First published:**
-
-30/08/2024
-
-**Last updated:**
-
-21/10/2025
+**First published:** 30/08/2024 **Last updated:** 21/10/2025
 
 [View](/hr/documents/product-information/piasky-epar-product-information_hr.pdf)
 
 íslenska (IS) (689.99 KB - PDF)
 
-**First published:**
-
-30/08/2024
-
-**Last updated:**
-
-21/10/2025
+**First published:** 30/08/2024 **Last updated:** 21/10/2025
 
 [View](/is/documents/product-information/piasky-epar-product-information_is.pdf)
 
 italiano (IT) (662.06 KB - PDF)
 
-**First published:**
-
-30/08/2024
-
-**Last updated:**
-
-21/10/2025
+**First published:** 30/08/2024 **Last updated:** 21/10/2025
 
 [View](/it/documents/product-information/piasky-epar-product-information_it.pdf)
 
 latviešu valoda (LV) (858.02 KB - PDF)
 
-**First published:**
-
-30/08/2024
-
-**Last updated:**
-
-21/10/2025
+**First published:** 30/08/2024 **Last updated:** 21/10/2025
 
 [View](/lv/documents/product-information/piasky-epar-product-information_lv.pdf)
 
 lietuvių kalba (LT) (683.39 KB - PDF)
 
-**First published:**
-
-30/08/2024
-
-**Last updated:**
-
-21/10/2025
+**First published:** 30/08/2024 **Last updated:** 21/10/2025
 
 [View](/lt/documents/product-information/piasky-epar-product-information_lt.pdf)
 
 magyar (HU) (794.17 KB - PDF)
 
-**First published:**
-
-30/08/2024
-
-**Last updated:**
-
-21/10/2025
+**First published:** 30/08/2024 **Last updated:** 21/10/2025
 
 [View](/hu/documents/product-information/piasky-epar-product-information_hu.pdf)
 
 Malti (MT) (766.46 KB - PDF)
 
-**First published:**
-
-30/08/2024
-
-**Last updated:**
-
-21/10/2025
+**First published:** 30/08/2024 **Last updated:** 21/10/2025
 
 [View](/mt/documents/product-information/piasky-epar-product-information_mt.pdf)
 
 Nederlands (NL) (635.05 KB - PDF)
 
-**First published:**
-
-30/08/2024
-
-**Last updated:**
-
-21/10/2025
+**First published:** 30/08/2024 **Last updated:** 21/10/2025
 
 [View](/nl/documents/product-information/piasky-epar-product-information_nl.pdf)
 
 norsk (NO) (740.89 KB - PDF)
 
-**First published:**
-
-30/08/2024
-
-**Last updated:**
-
-21/10/2025
+**First published:** 30/08/2024 **Last updated:** 21/10/2025
 
 [View](/no/documents/product-information/piasky-epar-product-information_no.pdf)
 
 polski (PL) (729.35 KB - PDF)
 
-**First published:**
-
-30/08/2024
-
-**Last updated:**
-
-21/10/2025
+**First published:** 30/08/2024 **Last updated:** 21/10/2025
 
 [View](/pl/documents/product-information/piasky-epar-product-information_pl.pdf)
 
 português (PT) (590.19 KB - PDF)
 
-**First published:**
-
-30/08/2024
-
-**Last updated:**
-
-21/10/2025
+**First published:** 30/08/2024 **Last updated:** 21/10/2025
 
 [View](/pt/documents/product-information/piasky-epar-product-information_pt.pdf)
 
 română (RO) (837.88 KB - PDF)
 
-**First published:**
-
-30/08/2024
-
-**Last updated:**
-
-21/10/2025
+**First published:** 30/08/2024 **Last updated:** 21/10/2025
 
 [View](/ro/documents/product-information/piasky-epar-product-information_ro.pdf)
 
 slovenčina (SK) (723.59 KB - PDF)
 
-**First published:**
-
-30/08/2024
-
-**Last updated:**
-
-21/10/2025
+**First published:** 30/08/2024 **Last updated:** 21/10/2025
 
 [View](/sk/documents/product-information/piasky-epar-product-information_sk.pdf)
 
 slovenščina (SL) (699.18 KB - PDF)
 
-**First published:**
-
-30/08/2024
-
-**Last updated:**
-
-21/10/2025
+**First published:** 30/08/2024 **Last updated:** 21/10/2025
 
 [View](/sl/documents/product-information/piasky-epar-product-information_sl.pdf)
 
 Suomi (FI) (628.9 KB - PDF)
 
-**First published:**
-
-30/08/2024
-
-**Last updated:**
-
-21/10/2025
+**First published:** 30/08/2024 **Last updated:** 21/10/2025
 
 [View](/fi/documents/product-information/piasky-epar-product-information_fi.pdf)
 
 svenska (SV) (595.17 KB - PDF)
 
-**First published:**
-
-30/08/2024
-
-**Last updated:**
-
-21/10/2025
+**First published:** 30/08/2024 **Last updated:** 21/10/2025
 
 [View](/sv/documents/product-information/piasky-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000296137 17/10/2025
+**Latest procedure affecting product information:** VR/0000296137
+
+17/10/2025
 
 icon globe
 
@@ -705,203 +442,173 @@ English (EN) (12.08 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/piasky-epar-all-authorised-presenations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-591)
+[Other languages (24)](#file-language-dropdown-172)
 
 български (BG) (37.42 KB - PDF)
 
-**First published:**
-
-30/08/2024
+**First published:** 30/08/2024
 
 [View](/bg/documents/all-authorised-presentations/piasky-epar-all-authorised-presenations_bg.pdf)
 
 español (ES) (16.88 KB - PDF)
 
-**First published:**
-
-30/08/2024
+**First published:** 30/08/2024
 
 [View](/es/documents/all-authorised-presentations/piasky-epar-all-authorised-presenations_es.pdf)
 
 čeština (CS) (56.43 KB - PDF)
 
-**First published:**
-
-30/08/2024
+**First published:** 30/08/2024
 
 [View](/cs/documents/all-authorised-presentations/piasky-epar-all-authorised-presenations_cs.pdf)
 
 dansk (DA) (16.81 KB - PDF)
 
-**First published:**
-
-30/08/2024
+**First published:** 30/08/2024
 
 [View](/da/documents/all-authorised-presentations/piasky-epar-all-authorised-presenations_da.pdf)
 
 Deutsch (DE) (18.29 KB - PDF)
 
-**First published:**
-
-30/08/2024
+**First published:** 30/08/2024
 
 [View](/de/documents/all-authorised-presentations/piasky-epar-all-authorised-presenations_de.pdf)
 
 eesti keel (ET) (11.42 KB - PDF)
 
-**First published:**
-
-30/08/2024
+**First published:** 30/08/2024
 
 [View](/et/documents/all-authorised-presentations/piasky-epar-all-authorised-presenations_et.pdf)
 
 ελληνικά (EL) (36.75 KB - PDF)
 
-**First published:**
-
-30/08/2024
+**First published:** 30/08/2024
 
 [View](/el/documents/all-authorised-presentations/piasky-epar-all-authorised-presenations_el.pdf)
 
 français (FR) (14.01 KB - PDF)
 
-**First published:**
-
-30/08/2024
+**First published:** 30/08/2024
 
 [View](/fr/documents/all-authorised-presentations/piasky-epar-all-authorised-presenations_fr.pdf)
 
 hrvatski (HR) (32.19 KB - PDF)
 
-**First published:**
-
-30/08/2024
+**First published:** 30/08/2024
 
 [View](/hr/documents/all-authorised-presentations/piasky-epar-all-authorised-presenations_hr.pdf)
 
 íslenska (IS) (11.72 KB - PDF)
 
-**First published:**
-
-30/08/2024
+**First published:** 30/08/2024
 
 [View](/is/documents/all-authorised-presentations/piasky-epar-all-authorised-presenations_is.pdf)
 
 italiano (IT) (17.81 KB - PDF)
 
-**First published:**
-
-30/08/2024
+**First published:** 30/08/2024
 
 [View](/it/documents/all-authorised-presentations/piasky-epar-all-authorised-presenations_it.pdf)
 
 latviešu valoda (LV) (32.64 KB - PDF)
 
-**First published:**
-
-30/08/2024
+**First published:** 30/08/2024
 
 [View](/lv/documents/all-authorised-presentations/piasky-epar-all-authorised-presenations_lv.pdf)
 
 lietuvių kalba (LT) (31.61 KB - PDF)
 
-**First published:**
-
-30/08/2024
+**First published:** 30/08/2024
 
 [View](/lt/documents/all-authorised-presentations/piasky-epar-all-authorised-presenations_lt.pdf)
 
 magyar (HU) (23.22 KB - PDF)
 
-**First published:**
-
-30/08/2024
+**First published:** 30/08/2024
 
 [View](/hu/documents/all-authorised-presentations/piasky-epar-all-authorised-presenations_hu.pdf)
 
 Malti (MT) (32.06 KB - PDF)
 
-**First published:**
-
-30/08/2024
+**First published:** 30/08/2024
 
 [View](/mt/documents/all-authorised-presentations/piasky-epar-all-authorised-presenations_mt.pdf)
 
 Nederlands (NL) (11.39 KB - PDF)
 
-**First published:**
-
-30/08/2024
+**First published:** 30/08/2024
 
 [View](/nl/documents/all-authorised-presentations/piasky-epar-all-authorised-presenations_nl.pdf)
 
 norsk (NO) (11.53 KB - PDF)
 
-**First published:**
-
-30/08/2024
+**First published:** 30/08/2024
 
 [View](/no/documents/all-authorised-presentations/piasky-epar-all-authorised-presenations_no.pdf)
 
 polski (PL) (35.74 KB - PDF)
 
-**First published:**
-
-30/08/2024
+**First published:** 30/08/2024
 
 [View](/pl/documents/all-authorised-presentations/piasky-epar-all-authorised-presenations_pl.pdf)
 
 português (PT) (14.32 KB - PDF)
 
-**First published:**
-
-30/08/2024
+**First published:** 30/08/2024
 
 [View](/pt/documents/all-authorised-presentations/piasky-epar-all-authorised-presenations_pt.pdf)
 
 română (RO) (31.93 KB - PDF)
 
-**First published:**
-
-30/08/2024
+**First published:** 30/08/2024
 
 [View](/ro/documents/all-authorised-presentations/piasky-epar-all-authorised-presenations_ro.pdf)
 
 slovenčina (SK) (35.28 KB - PDF)
 
-**First published:**
-
-30/08/2024
+**First published:** 30/08/2024
 
 [View](/sk/documents/all-authorised-presentations/piasky-epar-all-authorised-presenations_sk.pdf)
 
 slovenščina (SL) (20.3 KB - PDF)
 
-**First published:**
-
-30/08/2024
+**First published:** 30/08/2024
 
 [View](/sl/documents/all-authorised-presentations/piasky-epar-all-authorised-presenations_sl.pdf)
 
 Suomi (FI) (15.7 KB - PDF)
 
-**First published:**
-
-30/08/2024
+**First published:** 30/08/2024
 
 [View](/fi/documents/all-authorised-presentations/piasky-epar-all-authorised-presenations_fi.pdf)
 
 svenska (SV) (12.13 KB - PDF)
 
-**First published:**
-
-30/08/2024
+**First published:** 30/08/2024
 
 [View](/sv/documents/all-authorised-presentations/piasky-epar-all-authorised-presenations_sv.pdf)
 
 ## Product details
 
-Name of medicine Piasky International non-proprietary name (INN) or common name crovalimab Therapeutic area (MeSH) Hemoglobinuria, Paroxysmal Anatomical therapeutic chemical (ATC) code L04AJ07
+Name of medicine
+
+Piasky
+
+Active substance
+
+Crovalimab
+
+International non-proprietary name (INN) or common name
+
+crovalimab
+
+Therapeutic area (MeSH)
+
+Hemoglobinuria, Paroxysmal
+
+Anatomical therapeutic chemical (ATC) code
+
+L04AJ07
 
 ### Pharmacotherapeutic group
 
@@ -916,7 +623,9 @@ Piasky as monotherapy is indicated for the treatment of adult and paediatric pat
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/006061
+EMA product number
+
+EMEA/H/C/006061
 
 Additional monitoring
 
@@ -928,7 +637,17 @@ Roche Registration GmbH
 
 Emil-Barell-Strasse 1
 
-Opinion adopted 27/06/2024 Marketing authorisation issued 22/08/2024 Revision 3
+Opinion adopted
+
+27/06/2024
+
+Marketing authorisation issued
+
+22/08/2024
+
+Revision
+
+4
 
 ## Assessment history
 
@@ -942,9 +661,7 @@ Piasky : EPAR - Procedural steps taken and scientific information after the auth
 
 English (EN) (142.8 KB - PDF)
 
-**First published:** 25/04/2025
-
-**Last updated:** 21/10/2025
+**First published:** 25/04/2025 **Last updated:** 21/10/2025
 
 [View](/en/documents/procedural-steps-after/piasky-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -952,19 +669,25 @@ Piasky : EPAR - Procedural steps taken and scientific information after the auth
 
 English (EN) (99.15 KB - PDF)
 
-**First published:** 18/12/2024
-
-**Last updated:** 25/04/2025
+**First published:** 18/12/2024 **Last updated:** 25/04/2025
 
 [View](/en/documents/procedural-steps-after/piasky-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
+
+Piasky-PAM-0000327351 : EPAR - Assessment report
+
+Adopted Reference Number: EMADOC-1700519818-2894427
+
+English (EN) (1.77 MB - PDF)
+
+**First published:** 22/05/2026
+
+[View](/en/documents/variation-report/piasky-pam-0000327351-epar-assessment-report_en.pdf)
 
 ## Initial marketing authorisation documents
 
 Piasky : EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/332145/2024
+Adopted Reference Number: EMA/332145/2024
 
 English (EN) (7.57 MB - PDF)
 
@@ -974,9 +697,7 @@ English (EN) (7.57 MB - PDF)
 
 CHMP summary of positive opinion for Piasky
 
-Adopted
-
-Reference Number: EMA/290325/2024
+Adopted Reference Number: EMA/290325/2024
 
 English (EN) (136.4 KB - PDF)
 
@@ -984,12 +705,18 @@ English (EN) (136.4 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-piasky_en.pdf)
 
-#### News on Piasky
+## News on Piasky
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 24-27 June 2024](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-24-27-june-2024) 28/06/2024
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 24-27 June 2024](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-24-27-june-2024)
 
-**This page was last updated on** 10/02/2026
+28/06/2024
+
+## More information on Piasky
+
+- [A Post-Authorization Safety Study (PASS) to Characterize Safety Events and Special Conditions, Such as Pregnancy and Infant Outcomes, in Paroxysmal Nocturnal Hemoglobinuria (PNH) Patients Treated With Crovalimab Within the IPIG Registry - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000702)
+
+**This page was last updated on**
+
+22/05/2026
 
 ## Share this page
-
-[Back to top](#main-content)

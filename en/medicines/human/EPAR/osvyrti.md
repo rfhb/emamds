@@ -1,30 +1,32 @@
 ---
-document_datetime: 2026-01-30 17:07:00
+document_datetime: 2026-05-22 13:18:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/osvyrti.html
 document_name: osvyrti.html
 version: success
-processing_time: 0.1124531
-conversion_datetime: 2026-02-01 20:41:42.226687
+processing_time: 0.0852676
+conversion_datetime: 2026-05-23 08:19:44.090709
 docling_version:
-  docling-serve: 1.11.0
-  docling-jobkit: 1.9.1
-  docling: 2.71.0
-  docling-core: 2.62.0
-  docling-ibm-models: 3.11.0
-  docling-parse: 4.7.3
+  docling-serve: 1.20.0
+  docling-jobkit: 1.20.0
+  docling: 2.95.0
+  docling-core: 2.77.0
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.11.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
 ---
 # Osvyrti
 
 [RSS](/en/individual-human-medicine.xml/256951)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-denosumab Medicine Human Authorised
+denosumab
+
+Medicine Human Authorised
 
 Page contents
 
@@ -113,181 +115,137 @@ English (EN) (135.76 KB - PDF)
 
 [View](/en/documents/overview/osvyrti-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-487)
+[Other languages (22)](#file-language-dropdown-139)
 
 български (BG) (160.4 KB - PDF)
 
-**First published:**
-
-28/07/2025
+**First published:** 28/07/2025
 
 [View](/bg/documents/overview/osvyrti-epar-medicine-overview_bg.pdf)
 
 español (ES) (136 KB - PDF)
 
-**First published:**
-
-28/07/2025
+**First published:** 28/07/2025
 
 [View](/es/documents/overview/osvyrti-epar-medicine-overview_es.pdf)
 
 čeština (CS) (158.64 KB - PDF)
 
-**First published:**
-
-28/07/2025
+**First published:** 28/07/2025
 
 [View](/cs/documents/overview/osvyrti-epar-medicine-overview_cs.pdf)
 
 dansk (DA) (135.29 KB - PDF)
 
-**First published:**
-
-28/07/2025
+**First published:** 28/07/2025
 
 [View](/da/documents/overview/osvyrti-epar-medicine-overview_da.pdf)
 
 Deutsch (DE) (138.7 KB - PDF)
 
-**First published:**
-
-28/07/2025
+**First published:** 28/07/2025
 
 [View](/de/documents/overview/osvyrti-epar-medicine-overview_de.pdf)
 
 eesti keel (ET) (132.71 KB - PDF)
 
-**First published:**
-
-28/07/2025
+**First published:** 28/07/2025
 
 [View](/et/documents/overview/osvyrti-epar-medicine-overview_et.pdf)
 
 ελληνικά (EL) (159.66 KB - PDF)
 
-**First published:**
-
-28/07/2025
+**First published:** 28/07/2025
 
 [View](/el/documents/overview/osvyrti-epar-medicine-overview_el.pdf)
 
 français (FR) (137.49 KB - PDF)
 
-**First published:**
-
-28/07/2025
+**First published:** 28/07/2025
 
 [View](/fr/documents/overview/osvyrti-epar-medicine-overview_fr.pdf)
 
 hrvatski (HR) (156.59 KB - PDF)
 
-**First published:**
-
-28/07/2025
+**First published:** 28/07/2025
 
 [View](/hr/documents/overview/osvyrti-epar-medicine-overview_hr.pdf)
 
 italiano (IT) (134.58 KB - PDF)
 
-**First published:**
-
-28/07/2025
+**First published:** 28/07/2025
 
 [View](/it/documents/overview/osvyrti-epar-medicine-overview_it.pdf)
 
 latviešu valoda (LV) (165.91 KB - PDF)
 
-**First published:**
-
-28/07/2025
+**First published:** 28/07/2025
 
 [View](/lv/documents/overview/osvyrti-epar-medicine-overview_lv.pdf)
 
 lietuvių kalba (LT) (157.46 KB - PDF)
 
-**First published:**
-
-28/07/2025
+**First published:** 28/07/2025
 
 [View](/lt/documents/overview/osvyrti-epar-medicine-overview_lt.pdf)
 
 magyar (HU) (157.44 KB - PDF)
 
-**First published:**
-
-28/07/2025
+**First published:** 28/07/2025
 
 [View](/hu/documents/overview/osvyrti-epar-medicine-overview_hu.pdf)
 
 Malti (MT) (161.13 KB - PDF)
 
-**First published:**
-
-28/07/2025
+**First published:** 28/07/2025
 
 [View](/mt/documents/overview/osvyrti-epar-medicine-overview_mt.pdf)
 
 Nederlands (NL) (136.1 KB - PDF)
 
-**First published:**
-
-28/07/2025
+**First published:** 28/07/2025
 
 [View](/nl/documents/overview/osvyrti-epar-medicine-overview_nl.pdf)
 
 polski (PL) (161.83 KB - PDF)
 
-**First published:**
-
-28/07/2025
+**First published:** 28/07/2025
 
 [View](/pl/documents/overview/osvyrti-epar-medicine-overview_pl.pdf)
 
 português (PT) (136.59 KB - PDF)
 
-**First published:**
-
-28/07/2025
+**First published:** 28/07/2025
 
 [View](/pt/documents/overview/osvyrti-epar-medicine-overview_pt.pdf)
 
 română (RO) (156.9 KB - PDF)
 
-**First published:**
-
-28/07/2025
+**First published:** 28/07/2025
 
 [View](/ro/documents/overview/osvyrti-epar-medicine-overview_ro.pdf)
 
 slovenčina (SK) (157.58 KB - PDF)
 
-**First published:**
-
-28/07/2025
+**First published:** 28/07/2025
 
 [View](/sk/documents/overview/osvyrti-epar-medicine-overview_sk.pdf)
 
 slovenščina (SL) (156.02 KB - PDF)
 
-**First published:**
-
-28/07/2025
+**First published:** 28/07/2025
 
 [View](/sl/documents/overview/osvyrti-epar-medicine-overview_sl.pdf)
 
 Suomi (FI) (133.5 KB - PDF)
 
-**First published:**
-
-28/07/2025
+**First published:** 28/07/2025
 
 [View](/fi/documents/overview/osvyrti-epar-medicine-overview_fi.pdf)
 
 svenska (SV) (134.56 KB - PDF)
 
-**First published:**
-
-28/07/2025
+**First published:** 28/07/2025
 
 [View](/sv/documents/overview/osvyrti-epar-medicine-overview_sv.pdf)
 
@@ -303,305 +261,161 @@ English (EN) (1.61 MB - PDF)
 
 Osvyrti : EPAR - Product information
 
-English (EN) (820.97 KB - PDF)
+English (EN) (1.04 MB - PDF)
 
-**First published:** 28/07/2025
-
-**Last updated:** 30/01/2026
+**First published:** 28/07/2025 **Last updated:** 22/05/2026
 
 [View](/en/documents/product-information/osvyrti-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-886)
+[Other languages (24)](#file-language-dropdown-796)
 
-български (BG) (973.64 KB - PDF)
+български (BG) (1.08 MB - PDF)
 
-**First published:**
-
-28/07/2025
-
-**Last updated:**
-
-30/01/2026
+**First published:** 28/07/2025 **Last updated:** 22/05/2026
 
 [View](/bg/documents/product-information/osvyrti-epar-product-information_bg.pdf)
 
-español (ES) (853.21 KB - PDF)
+español (ES) (1.01 MB - PDF)
 
-**First published:**
-
-28/07/2025
-
-**Last updated:**
-
-30/01/2026
+**First published:** 28/07/2025 **Last updated:** 22/05/2026
 
 [View](/es/documents/product-information/osvyrti-epar-product-information_es.pdf)
 
-čeština (CS) (904.4 KB - PDF)
+čeština (CS) (1.04 MB - PDF)
 
-**First published:**
-
-28/07/2025
-
-**Last updated:**
-
-30/01/2026
+**First published:** 28/07/2025 **Last updated:** 22/05/2026
 
 [View](/cs/documents/product-information/osvyrti-epar-product-information_cs.pdf)
 
-dansk (DA) (933.33 KB - PDF)
+dansk (DA) (946.52 KB - PDF)
 
-**First published:**
-
-28/07/2025
-
-**Last updated:**
-
-30/01/2026
+**First published:** 28/07/2025 **Last updated:** 22/05/2026
 
 [View](/da/documents/product-information/osvyrti-epar-product-information_da.pdf)
 
-Deutsch (DE) (788.91 KB - PDF)
+Deutsch (DE) (910.12 KB - PDF)
 
-**First published:**
-
-28/07/2025
-
-**Last updated:**
-
-30/01/2026
+**First published:** 28/07/2025 **Last updated:** 22/05/2026
 
 [View](/de/documents/product-information/osvyrti-epar-product-information_de.pdf)
 
-eesti keel (ET) (843.23 KB - PDF)
+eesti keel (ET) (994.57 KB - PDF)
 
-**First published:**
-
-28/07/2025
-
-**Last updated:**
-
-30/01/2026
+**First published:** 28/07/2025 **Last updated:** 22/05/2026
 
 [View](/et/documents/product-information/osvyrti-epar-product-information_et.pdf)
 
-ελληνικά (EL) (968.77 KB - PDF)
+ελληνικά (EL) (1.02 MB - PDF)
 
-**First published:**
-
-28/07/2025
-
-**Last updated:**
-
-30/01/2026
+**First published:** 28/07/2025 **Last updated:** 22/05/2026
 
 [View](/el/documents/product-information/osvyrti-epar-product-information_el.pdf)
 
 français (FR) (1.04 MB - PDF)
 
-**First published:**
-
-28/07/2025
-
-**Last updated:**
-
-30/01/2026
+**First published:** 28/07/2025 **Last updated:** 22/05/2026
 
 [View](/fr/documents/product-information/osvyrti-epar-product-information_fr.pdf)
 
 hrvatski (HR) (1.08 MB - PDF)
 
-**First published:**
-
-28/07/2025
-
-**Last updated:**
-
-30/01/2026
+**First published:** 28/07/2025 **Last updated:** 22/05/2026
 
 [View](/hr/documents/product-information/osvyrti-epar-product-information_hr.pdf)
 
-íslenska (IS) (985.65 KB - PDF)
+íslenska (IS) (995.73 KB - PDF)
 
-**First published:**
-
-28/07/2025
-
-**Last updated:**
-
-30/01/2026
+**First published:** 28/07/2025 **Last updated:** 22/05/2026
 
 [View](/is/documents/product-information/osvyrti-epar-product-information_is.pdf)
 
-italiano (IT) (982.45 KB - PDF)
+italiano (IT) (995.45 KB - PDF)
 
-**First published:**
-
-28/07/2025
-
-**Last updated:**
-
-30/01/2026
+**First published:** 28/07/2025 **Last updated:** 22/05/2026
 
 [View](/it/documents/product-information/osvyrti-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (976.63 KB - PDF)
+latviešu valoda (LV) (986.63 KB - PDF)
 
-**First published:**
-
-28/07/2025
-
-**Last updated:**
-
-30/01/2026
+**First published:** 28/07/2025 **Last updated:** 22/05/2026
 
 [View](/lv/documents/product-information/osvyrti-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (1.07 MB - PDF)
+lietuvių kalba (LT) (995.45 KB - PDF)
 
-**First published:**
-
-28/07/2025
-
-**Last updated:**
-
-30/01/2026
+**First published:** 28/07/2025 **Last updated:** 22/05/2026
 
 [View](/lt/documents/product-information/osvyrti-epar-product-information_lt.pdf)
 
 magyar (HU) (1.09 MB - PDF)
 
-**First published:**
-
-28/07/2025
-
-**Last updated:**
-
-30/01/2026
+**First published:** 28/07/2025 **Last updated:** 22/05/2026
 
 [View](/hu/documents/product-information/osvyrti-epar-product-information_hu.pdf)
 
 Malti (MT) (1.1 MB - PDF)
 
-**First published:**
-
-28/07/2025
-
-**Last updated:**
-
-30/01/2026
+**First published:** 28/07/2025 **Last updated:** 22/05/2026
 
 [View](/mt/documents/product-information/osvyrti-epar-product-information_mt.pdf)
 
-Nederlands (NL) (1.03 MB - PDF)
+Nederlands (NL) (1.04 MB - PDF)
 
-**First published:**
-
-28/07/2025
-
-**Last updated:**
-
-30/01/2026
+**First published:** 28/07/2025 **Last updated:** 22/05/2026
 
 [View](/nl/documents/product-information/osvyrti-epar-product-information_nl.pdf)
 
-norsk (NO) (993.5 KB - PDF)
+norsk (NO) (1007.81 KB - PDF)
 
-**First published:**
-
-28/07/2025
-
-**Last updated:**
-
-30/01/2026
+**First published:** 28/07/2025 **Last updated:** 22/05/2026
 
 [View](/no/documents/product-information/osvyrti-epar-product-information_no.pdf)
 
-polski (PL) (1.11 MB - PDF)
+polski (PL) (1.12 MB - PDF)
 
-**First published:**
-
-28/07/2025
-
-**Last updated:**
-
-30/01/2026
+**First published:** 28/07/2025 **Last updated:** 22/05/2026
 
 [View](/pl/documents/product-information/osvyrti-epar-product-information_pl.pdf)
 
-português (PT) (1 MB - PDF)
+português (PT) (1.01 MB - PDF)
 
-**First published:**
-
-28/07/2025
-
-**Last updated:**
-
-30/01/2026
+**First published:** 28/07/2025 **Last updated:** 22/05/2026
 
 [View](/pt/documents/product-information/osvyrti-epar-product-information_pt.pdf)
 
 română (RO) (1.08 MB - PDF)
 
-**First published:**
-
-28/07/2025
-
-**Last updated:**
-
-30/01/2026
+**First published:** 28/07/2025 **Last updated:** 22/05/2026
 
 [View](/ro/documents/product-information/osvyrti-epar-product-information_ro.pdf)
 
-slovenčina (SK) (1.06 MB - PDF)
+slovenčina (SK) (1.07 MB - PDF)
 
-**First published:**
-
-28/07/2025
-
-**Last updated:**
-
-30/01/2026
+**First published:** 28/07/2025 **Last updated:** 22/05/2026
 
 [View](/sk/documents/product-information/osvyrti-epar-product-information_sk.pdf)
 
-slovenščina (SL) (1.1 MB - PDF)
+slovenščina (SL) (1.11 MB - PDF)
 
-**First published:**
-
-28/07/2025
-
-**Last updated:**
-
-30/01/2026
+**First published:** 28/07/2025 **Last updated:** 22/05/2026
 
 [View](/sl/documents/product-information/osvyrti-epar-product-information_sl.pdf)
 
-Suomi (FI) (968.88 KB - PDF)
+Suomi (FI) (981.66 KB - PDF)
 
-**First published:**
-
-28/07/2025
-
-**Last updated:**
-
-30/01/2026
+**First published:** 28/07/2025 **Last updated:** 22/05/2026
 
 [View](/fi/documents/product-information/osvyrti-epar-product-information_fi.pdf)
 
-svenska (SV) (1002.01 KB - PDF)
+svenska (SV) (1013.17 KB - PDF)
 
-**First published:**
-
-28/07/2025
-
-**Last updated:**
-
-30/01/2026
+**First published:** 28/07/2025 **Last updated:** 22/05/2026
 
 [View](/sv/documents/product-information/osvyrti-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000302844 17/12/2025
+**Latest procedure affecting product information:** VR/0000340077
+
+21/05/2026
 
 icon globe
 
@@ -625,209 +439,171 @@ English (EN) (158.54 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/osvyrti-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-846)
+[Other languages (24)](#file-language-dropdown-31)
 
 български (BG) (164.3 KB - PDF)
 
-**First published:**
-
-28/07/2025
+**First published:** 28/07/2025
 
 [View](/bg/documents/all-authorised-presentations/osvyrti-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (157.03 KB - PDF)
 
-**First published:**
-
-28/07/2025
+**First published:** 28/07/2025
 
 [View](/es/documents/all-authorised-presentations/osvyrti-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (159.59 KB - PDF)
 
-**First published:**
-
-28/07/2025
+**First published:** 28/07/2025
 
 [View](/cs/documents/all-authorised-presentations/osvyrti-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (158.52 KB - PDF)
 
-**First published:**
-
-28/07/2025
+**First published:** 28/07/2025
 
 [View](/da/documents/all-authorised-presentations/osvyrti-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (160.19 KB - PDF)
 
-**First published:**
-
-28/07/2025
+**First published:** 28/07/2025
 
 [View](/de/documents/all-authorised-presentations/osvyrti-epar-all-authorised-presentations_de.pdf)
 
 eesti keel (ET) (155.3 KB - PDF)
 
-**First published:**
-
-28/07/2025
+**First published:** 28/07/2025
 
 [View](/et/documents/all-authorised-presentations/osvyrti-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (157.44 KB - PDF)
 
-**First published:**
-
-28/07/2025
+**First published:** 28/07/2025
 
 [View](/el/documents/all-authorised-presentations/osvyrti-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (157.64 KB - PDF)
 
-**First published:**
-
-28/07/2025
+**First published:** 28/07/2025
 
 [View](/fr/documents/all-authorised-presentations/osvyrti-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (155.25 KB - PDF)
 
-**First published:**
-
-28/07/2025
+**First published:** 28/07/2025
 
 [View](/hr/documents/all-authorised-presentations/osvyrti-epar-all-authorised-presentations_hr.pdf)
 
 íslenska (IS) (85.15 KB - PDF)
 
-**First published:**
-
-28/07/2025
+**First published:** 28/07/2025
 
 [View](/is/documents/all-authorised-presentations/osvyrti-epar-all-authorised-presentations_is.pdf)
 
 italiano (IT) (155.56 KB - PDF)
 
-**First published:**
-
-28/07/2025
+**First published:** 28/07/2025
 
 [View](/it/documents/all-authorised-presentations/osvyrti-epar-all-authorised-presentations_it.pdf)
 
 latviešu valoda (LV) (158.02 KB - PDF)
 
-**First published:**
-
-28/07/2025
+**First published:** 28/07/2025
 
 [View](/lv/documents/all-authorised-presentations/osvyrti-epar-all-authorised-presentations_lv.pdf)
 
 lietuvių kalba (LT) (157.1 KB - PDF)
 
-**First published:**
-
-28/07/2025
+**First published:** 28/07/2025
 
 [View](/lt/documents/all-authorised-presentations/osvyrti-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (90.57 KB - PDF)
 
-**First published:**
-
-28/07/2025
+**First published:** 28/07/2025
 
 [View](/hu/documents/all-authorised-presentations/osvyrti-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (87.01 KB - PDF)
 
-**First published:**
-
-28/07/2025
+**First published:** 28/07/2025
 
 [View](/mt/documents/all-authorised-presentations/osvyrti-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (154.72 KB - PDF)
 
-**First published:**
-
-28/07/2025
+**First published:** 28/07/2025
 
 [View](/nl/documents/all-authorised-presentations/osvyrti-epar-all-authorised-presentations_nl.pdf)
 
 norsk (NO) (159.5 KB - PDF)
 
-**First published:**
-
-28/07/2025
+**First published:** 28/07/2025
 
 [View](/no/documents/all-authorised-presentations/osvyrti-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (159.28 KB - PDF)
 
-**First published:**
-
-28/07/2025
+**First published:** 28/07/2025
 
 [View](/pl/documents/all-authorised-presentations/osvyrti-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (157.82 KB - PDF)
 
-**First published:**
-
-28/07/2025
+**First published:** 28/07/2025
 
 [View](/pt/documents/all-authorised-presentations/osvyrti-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (156.85 KB - PDF)
 
-**First published:**
-
-28/07/2025
+**First published:** 28/07/2025
 
 [View](/ro/documents/all-authorised-presentations/osvyrti-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (159.46 KB - PDF)
 
-**First published:**
-
-28/07/2025
+**First published:** 28/07/2025
 
 [View](/sk/documents/all-authorised-presentations/osvyrti-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (82.97 KB - PDF)
 
-**First published:**
-
-28/07/2025
+**First published:** 28/07/2025
 
 [View](/sl/documents/all-authorised-presentations/osvyrti-epar-all-authorised-presentations_sl.pdf)
 
 Suomi (FI) (153.76 KB - PDF)
 
-**First published:**
-
-28/07/2025
+**First published:** 28/07/2025
 
 [View](/fi/documents/all-authorised-presentations/osvyrti-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (157.01 KB - PDF)
 
-**First published:**
-
-28/07/2025
+**First published:** 28/07/2025
 
 [View](/sv/documents/all-authorised-presentations/osvyrti-epar-all-authorised-presentations_sv.pdf)
 
 ## Product details
 
-Name of medicine Osvyrti Active substance denosumab International non-proprietary name (INN) or common name denosumab Therapeutic area (MeSH)
+Name of medicine
+
+Osvyrti
+
+International non-proprietary name (INN) or common name
+
+denosumab
+
+Therapeutic area (MeSH)
 
 - Bone Resorption
 - Osteoporosis
 - Osteoporosis, Postmenopausal
 
-Anatomical therapeutic chemical (ATC) code M05BX04
+Anatomical therapeutic chemical (ATC) code
+
+M05BX04
 
 ### Pharmacotherapeutic group
 
@@ -839,7 +615,9 @@ Treatment of osteoporosis in postmenopausal women and in men at increased risk o
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/006399
+EMA product number
+
+EMEA/H/C/006399
 
 Additional monitoring
 
@@ -855,7 +633,17 @@ Accord Healthcare S.L.U.
 
 Edificio Este Planta 6a
 
-Opinion adopted 27/03/2025 Marketing authorisation issued 26/05/2025 Revision 1
+Opinion adopted
+
+27/03/2025
+
+Marketing authorisation issued
+
+26/05/2025
+
+Revision
+
+2
 
 ## Assessment history
 
@@ -867,9 +655,9 @@ Collapse section
 
 Osvyrti : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (146.67 KB - PDF)
+English (EN) (145.12 KB - PDF)
 
-**First published:** 22/12/2025
+**First published:** 22/12/2025 **Last updated:** 22/05/2026
 
 [View](/en/documents/procedural-steps-after/osvyrti-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -887,9 +675,7 @@ English (EN) (2.15 MB - PDF)
 
 CHMP summary of positive opinion for Osvyrti
 
-Adopted
-
-Reference Number: EMA/75348/2025
+Adopted Reference Number: EMA/75348/2025
 
 English (EN) (144.63 KB - PDF)
 
@@ -897,12 +683,14 @@ English (EN) (144.63 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-osvyrti_en.pdf)
 
-#### News on Osvyrti
+## News on Osvyrti
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 24-27 March 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-24-27-march-2025) 28/03/2025
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 24-27 March 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-24-27-march-2025)
 
-**This page was last updated on** 30/01/2026
+28/03/2025
+
+**This page was last updated on**
+
+22/05/2026
 
 ## Share this page
-
-[Back to top](#main-content)

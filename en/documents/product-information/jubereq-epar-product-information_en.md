@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-07-28 13:02:32
-document_pages: 33
+document_datetime: 2026-05-22 09:50:34
+document_pages: 34
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/jubereq-epar-product-information_en.pdf
 document_name: jubereq-epar-product-information_en.pdf
 version: success
-processing_time: 9.1563659
-conversion_datetime: 2025-12-26 21:09:34.529619
+processing_time: 19.3357428
+conversion_datetime: 2026-05-23 08:26:22.23391
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.20.0
+  docling-jobkit: 1.20.0
+  docling: 2.95.0
+  docling-core: 2.77.0
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.11.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -22,7 +22,7 @@ docling_version:
 
 <div style=\"page-break-after: always\"></div>
 
-▼This medicinal product is subject to additional monitoring. This will allow quick identification of new safety information. Healthcare professionals are asked to report any suspected adverse reactions. See section 4.8 for how to report adverse reactions.
+▼ This medicinal product is subject to additional monitoring. This will allow quick identification of new safety information. Healthcare professionals are asked to report any suspected adverse reactions. See section 4.8 for how to report adverse reactions.
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -64,11 +64,9 @@ Patients treated with Jubereq should be given the package leaflet and the patien
 
 Prevention of skeletal related events in adults with advanced malignancies involving bone The recommended dose is 120 mg administered as a single subcutaneous injection once every 4 weeks into the thigh, abdomen or upper arm.
 
-Giant cell tumour of bone
+Giant cell tumour of bone The recommended dose of Jubereq is 120 mg administered as a single subcutaneous injection once every 4 weeks into the thigh, abdomen or upper arm with additional 120 mg doses on days 8 and 15 of treatment of the first month of therapy.
 
 <div style=\"page-break-after: always\"></div>
-
-The recommended dose of Jubereq is 120 mg administered as a single subcutaneous injection once every 4 weeks into the thigh, abdomen or upper arm with additional 120 mg doses on days 8 and 15 of treatment of the first month of therapy.
 
 Patients in the phase II study who underwent complete resection of giant cell tumour of bone did receive an additional 6 months of treatment following the surgery as per study protocol.
 
@@ -144,10 +142,10 @@ The start of treatment/new treatment course should be delayed in patients with u
 
 The following risk factors should be considered when evaluating a patient's risk of developing ONJ:
 
--  potency of the medicinal product that inhibits bone resorption (higher risk for highly potent compounds), route of administration (higher risk for parenteral administration) and cumulative dose of bone resorption therapy.
--  cancer, co-morbid conditions (e.g. anaemia, coagulopathies, infection), smoking.
--  concomitant therapies: corticosteroids, chemotherapy, angiogenesis inhibitors, radiotherapy to head and neck.
--  poor oral hygiene, periodontal disease, poorly fitting dentures, pre-existing dental disease, invasive dental procedures (e.g. tooth extractions).
+- potency of the medicinal product that inhibits bone resorption (higher risk for highly potent compounds), route of administration (higher risk for parenteral administration) and cumulative dose of bone resorption therapy.
+- cancer, co-morbid conditions (e.g. anaemia, coagulopathies, infection), smoking.
+- concomitant therapies: corticosteroids, chemotherapy, angiogenesis inhibitors, radiotherapy to head and neck.
+- poor oral hygiene, periodontal disease, poorly fitting dentures, pre-existing dental disease, invasive dental procedures (e.g. tooth extractions).
 
 All patients should be encouraged to maintain good oral hygiene, receive routine dental check-ups, and immediately report any oral symptoms such as dental mobility, pain or swelling, or non-healing of sores or discharge during treatment with denosumab. While on treatment, invasive dental procedures should be performed only after careful consideration and be avoided in close proximity to Jubereq administration.
 
@@ -402,7 +400,7 @@ Table 2. Efficacy results in patients with advanced malignancies involving bone
 | HR (95% CI) / RRR (%)         | 0.74 (0.59, 0.94) / 26    | 0.74 (0.59, 0.94) / 26    | 0.78 (0.63, 0.97) / 22                              | 0.78 (0.63, 0.97) / 22                              | 0.78 (0.66, 0.94) / 22    | 0.78 (0.66, 0.94) / 22    | 0.77 (0.69, 0.87) / 23     | 0.77 (0.69, 0.87) / 23     |
 | Superiorit y p-value          | 0.0121                    | 0.0121                    | 0.0256                                              | 0.0256                                              | 0.0071                    | 0.0071                    | < 0.0001                   | < 0.0001                   |
 
-NR = not reached; NA = not available; HCM = hypercalcaemia of malignancy; SMR = skeletal morbidity rate; HR = Hazard Ratio; RRR = Relative Risk Reduction  † Adjusted p-values are presented for studies 1, 2 and 3 (first SRE and first and subsequent SRE endpoints); *Accounts for all skeletal events over time; only events occurring ≥ 21 days after the previous event are counted.
+NR = not reached; NA = not available; HCM = hypercalcaemia of malignancy; SMR = skeletal morbidity rate; HR = Hazard Ratio; RRR = Relative Risk Reduction  † Adjusted p-values are presented for studies 1, 2 and 3 (first SRE and first and subsequent SRE endpoints); *Accounts for all skeletal events over time; only ev ents occurring ≥ 21 days after the previous event are counted.
 
 ** Including NSCLC, renal cell cancer, colorectal cancer, small cell lung cancer, bladder cancer, head and neck cancer, GI/genitourinary cancer and others, excluding breast and prostate cancer.
 
@@ -410,11 +408,13 @@ Figure 1. Kaplan-Meier plots of time to first on-study SRE
 
 <!-- image -->
 
-Dmab =Denosumab 120 mg Q4W
+Dmab = Denosumab 120 mg Q4W
 
 ZA = Zoledronic Acid 4 mg Q4W
 
 N = Number of subjects randomised
+
+* = Statistically significant for superiority; ** = Statistically significant for non-inferiority
 
 <div style=\"page-break-after: always\"></div>
 
@@ -426,7 +426,7 @@ In studies 1, 2 and 3, overall survival was balanced between denosumab and zoled
 
 ## Effect on pain
 
-The time to pain improvement (i.e. ≥ 2-point decrease from baseline in BPI-SF worst pain score) was similar for denosumab and zoledronic acid in each study and the integrated analyses. In a post-hoc analysis of the combined dataset, the median time to worsening pain (&gt; 4-point worst pain score) in patients with mild or no pain at baseline was delayed for denosumab compared to zoledronic acid (198 versus 143 days) (p = 0.0002).
+The time to pain improvement (i.e. ≥ 2 -point decrease from baseline in BPI-SF worst pain score) was similar for denosumab and zoledronic acid in each study and the integrated analyses. In a post-hoc analysis of the combined dataset, the median time to worsening pain (&gt; 4-point worst pain score) in patients with mild or no pain at baseline was delayed for denosumab compared to zoledronic acid (198 versus 143 days) (p = 0.0002).
 
 ## Clinical efficacy in patients with multiple myeloma
 
@@ -486,7 +486,7 @@ In cohort 1 at the final analysis, 28 of the 260 treated patients (10.8%) had di
 
 ## Effect on pain
 
-In the final analysis cohorts 1 and 2 combined, a clinically meaningful reduction in worst pain (i.e. ≥ 2-point decrease from baseline) was reported for 30.8% of patients at risk (i.e. those who had a worst pain score of ≥ 2 at baseline) within 1 week of treatment, and ≥ 50% at week 5. These pain improvements were maintained at all subsequent evaluations.
+In the final analysis cohorts 1 and 2 combined, a clinically meaningful reduction in worst pain (i.e. ≥ 2-point decrease from baseline) was reported for 30.8% of patients at risk (i.e. those who had a worst pa in score of ≥ 2 at baseline) within 1 week of treatment, and ≥ 50% at week 5. These pain improvements were maintained at all subsequent evaluations.
 
 ## Paediatric population
 
@@ -554,11 +554,9 @@ In preclinical bone quality studies in monkeys on long-term denosumab treatment,
 
 In male mice genetically engineered to express huRANKL (knock-in mice), which were subjected to a transcortical fracture, denosumab delayed the removal of cartilage and remodelling of the fracture callus compared to control, but biomechanical strength was not adversely affected.
 
-In preclinical studies knockout mice lacking RANK or RANKL had an absence of lactation due to inhibition of mammary gland maturation (lobulo-alveolar gland development during pregnancy) and exhibited impairment of lymph node formation. Neonatal RANK/RANKL knockout mice exhibited
+In preclinical studies knockout mice lacking RANK or RANKL had an absence of lactation due to inhibition of mammary gland maturation (lobulo-alveolar gland development during pregnancy) and exhibited impairment of lymph node formation. Neonatal RANK/RANKL knockout mice exhibited decreased body weight, reduced bone growth, altered growth plates and lack of tooth eruption. Reduced bone growth, altered growth plates and impaired tooth eruption were also seen in studies of neonatal rats administered RANKL inhibitors, and these changes were partially reversible when dosing of RANKL inhibitor was discontinued. Adolescent primates dosed with denosumab at 2.7 and 15 times (10 and 50 mg/kg dose) the clinical exposure had abnormal growth plates. Therefore, treatment with denosumab may impair bone growth in children with open growth plates and may inhibit eruption of dentition.
 
 <div style=\"page-break-after: always\"></div>
-
-decreased body weight, reduced bone growth, altered growth plates and lack of tooth eruption. Reduced bone growth, altered growth plates and impaired tooth eruption were also seen in studies of neonatal rats administered RANKL inhibitors, and these changes were partially reversible when dosing of RANKL inhibitor was discontinued. Adolescent primates dosed with denosumab at 2.7 and 15 times (10 and 50 mg/kg dose) the clinical exposure had abnormal growth plates. Therefore, treatment with denosumab may impair bone growth in children with open growth plates and may inhibit eruption of dentition.
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
@@ -580,7 +578,11 @@ Once removed from the refrigerator, Jubereq may be stored at room temperature (u
 
 ## 6.4 Special precautions for storage
 
-Store in a refrigerator (2°C - 8°C). Do not freeze. Keep the container in the outer carton in order to protect from light.
+Store in a refrigerator (2°C - 8°C).
+
+Do not freeze.
+
+Keep the container in the outer carton in order to protect from light.
 
 ## 6.5 Nature and contents of container
 
@@ -590,20 +592,22 @@ Pack sizes of one, three or four vials. Not all pack sizes may be marketed.
 
 ## 6.6 Special precautions for disposal and other handling
 
--  The carton contains a package leaflet with the full instructions for use and handling.
--  Before administration, the Jubereq solution should be inspected visually. The solution may contain trace amounts of translucent to white proteinaceous particles. Do not inject the solution if it is cloudy or discoloured.
--  Do not shake.
--  To avoid discomfort at the site of injection, allow the vial to reach room temperature (up to 25ºC) before injecting and inject slowly.
--  The entire contents of the vial should be injected.
+- The carton contains a package leaflet with the full instructions for use and handling.
+- Before administration, the Jubereq solution should be inspected visually. The solution may contain trace amounts of translucent to white proteinaceous particles. Do not inject the solution if it is cloudy or discoloured.
+- Do not shake.
+- To avoid discomfort at the site of injection, allow the vial to reach room temperature (up to 25ºC) before injecting and inject slowly.
+- The entire contents of the vial should be injected.
 
 <div style=\"page-break-after: always\"></div>
 
--  A 27 gauge needle is recommended for the administration of denosumab.
--  The vial should not be re-entered.
+- A 27 gauge needle is recommended for the administration of denosumab.
+- The vial should not be re-entered.
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
-## 7. MARKETING AUTHORISATION HOLDER
+7.
+
+MARKETING AUTHORISATION HOLDER
 
 Accord Healthcare S.L.U. World Trade Center, Moll de Barcelona, s/n Edifici Est, 6a Planta 08039 Barcelona Spain
 
@@ -615,11 +619,13 @@ EU/1/25/1921/003 - 1 vial
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-Date of first authorisation:
+Date of first authorisation: 26 May 2025
 
 ## 10. DATE OF REVISION OF THE TEXT
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
+
+19
 
 <div style=\"page-break-after: always\"></div>
 
@@ -644,28 +650,34 @@ Name and address of the manufacturer(s) responsible for batch release
 
 Accord Healthcare Polska Sp. z.o.o. Ul. Lutomierska 50, 95-200, Pabianice, Poland
 
+Accord Healthcare Single Member S.A., 64th Km National Road Athens Lamia, Schimatari, 32009, Greece
+
+The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.
+
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
 Medicinal product subject to restricted medical prescription (see Annex I: Summary of Product Characteristics, section 4.2).
 
 ## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
-##  Periodic safety update reports (PSURs)
+## · Periodic safety update reports (PSURs)
 
 The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
-##  Risk management plan (RMP)
+## · Risk management plan (RMP)
 
 The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP.
 
 An updated RMP should be submitted:
 
--  At the request of the European Medicines Agency;
--  Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
+- At the request of the European Medicines Agency;
+- Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 
-##  Additional risk minimisation measures
+## · Additional risk minimisation measures
+
+<div style=\"page-break-after: always\"></div>
 
 The MAH shall ensure that a patient reminder card regarding osteonecrosis of the jaw is implemented.
 
@@ -687,7 +699,9 @@ CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Jubereq 120 mg solution for injection denosumab
+Jubereq 120 mg solution for injection
+
+denosumab
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -699,7 +713,7 @@ Acetic acid, glacial, sodium hydroxide, sorbitol (E420), polysorbate 20, water f
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-Solution for injection.
+## Solution for injection.
 
 - 1 single use vial
 - 3 single use vials
@@ -737,15 +751,7 @@ Keep the vial in the outer carton in order to protect from light.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Accord Healthcare S.L.U.
-
-World Trade Center, Moll de Barcelona, s/n
-
-Edifici Est, 6a Planta
-
-08039 Barcelona
-
-Spain
+Accord Healthcare S.L.U. World Trade Center, Moll de Barcelona, s/n Edifici Est, 6a Planta 08039 Barcelona Spain
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -761,7 +767,8 @@ Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
 15. INSTRUCTIONS ON USE
-16. INFORMATION IN BRAILLE
+
+## 16. INFORMATION IN BRAILLE
 
 Jubereq
 
@@ -779,17 +786,17 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATEPACKAGING UNITS   |
-|-----------------------------------------------------------------|
-| VIAL LABEL                                                      |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| VIAL LABEL                                                         |
 
-| 1.   | NAMEOF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|---------------------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
 Jubereq 120 mg injection denosumab SC
 
-| 2.   | METHODOF ADMINISTRATION   |
-|------|---------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -801,8 +808,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT, BY VOLUMEORBYUNIT   |
-|------|-----------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 1.7 mL
 
@@ -884,10 +891,10 @@ A side effect called osteonecrosis of the jaw (bone damage in the jaw) has been 
 
 It is important to try to prevent osteonecrosis of the jaw developing as it may be a painful condition that can be difficult to treat. In order to reduce the risk of developing osteonecrosis of the jaw, there are some precautions you should take:
 
--  Before receiving treatment, tell your doctor/nurse (healthcare professional) if you have any problems with your mouth or teeth. Your doctor should delay the start of your treatment if you have unhealed wounds in your mouth from dental procedures or oral surgery. Your doctor may recommend a dental examination before you start treatment with Jubereq.
--  While being treated, you should maintain good oral hygiene and receive routine dental checkups. If you wear dentures you should make sure these fit properly.
--  If you are under dental treatment or will undergo dental surgery (e.g. tooth extractions), inform your doctor about your dental treatment and tell your dentist that you are being treated with Jubereq.
--  Contact your doctor and dentist immediately if you experience any problems with your mouth or teeth such as loose teeth, pain or swelling, non-healing of sores or discharge, as these could be signs of osteonecrosis of the jaw.
+- Before receiving treatment, tell your doctor/nurse (healthcare professional) if you have any problems with your mouth or teeth. Your doctor should delay the start of your treatment if you have unhealed wounds in your mouth from dental procedures or oral surgery. Your doctor may recommend a dental examination before you start treatment with Jubereq.
+- While being treated, you should maintain good oral hygiene and receive routine dental checkups. If you wear dentures you should make sure these fit properly.
+- If you are under dental treatment or will undergo dental surgery (e.g. tooth extractions), inform your doctor about your dental treatment and tell your dentist that you are being treated with Jubereq.
+- Contact your doctor and dentist immediately if you experience any problems with your mouth or teeth such as loose teeth, pain or swelling, non-healing of sores or discharge, as these could be signs of osteonecrosis of the jaw.
 
 Patients undergoing chemotherapy and/or radiotherapy, taking steroids or anti-angiogenic medicines (used to treat cancer), undergoing dental surgery, who do not receive routine dental care, have gum disease or who are smokers, may have a higher risk of developing osteonecrosis of the jaw.
 
@@ -909,8 +916,8 @@ Jubereq is not recommended for children and adolescents under 18 years of age ex
 
 Tell your doctor or pharmacist if you are taking, have recently taken or might take any other medicines. This includes medicines obtained without a prescription. It is especially important that you tell your doctor if you are being treated with
 
--  another medicine containing denosumab
--  a bisphosphonate
+- another medicine containing denosumab
+- a bisphosphonate
 
 You should not take Jubereq together with other medicines containing denosumab or bisphosphonates.
 
@@ -962,40 +969,40 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 Please tell your doctor immediately if you develop any of these symptoms while being treated with Jubereq (may affect more than 1 in 10 people):
 
--  spasms, twitches, cramps in your muscles, numbness or tingling in your fingers, toes or around your mouth and/or seizures, confusion or loss of consciousness. These could be signs that you have low calcium levels in the blood. Low calcium in the blood may also lead to a change in heart rhythm called QT prolongation, which is seen by electrocardiogram (ECG).
+- spasms, twitches, cramps in your muscles, numbness or tingling in your fingers, toes or around your mouth and/or seizures, confusion or loss of consciousness. These could be signs that you have low calcium levels in the blood. Low calcium in the blood may also lead to a change in heart rhythm called QT prolongation, which is seen by electrocardiogram (ECG).
 
 Please tell your doctor and dentist immediately if you experience any of these symptoms while being treated with Jubereq or after stopping treatment (may affect up to 1 in 10 people):
 
--  persistent pain in the mouth and/or jaw, and/or swelling or non-healing of sores in the mouth or jaw, discharge, numbness or feeling of heaviness in the jaw, or loosening of a tooth could be signs of bone damage in the jaw (osteonecrosis).
+- persistent pain in the mouth and/or jaw, and/or swelling or non-healing of sores in the mouth or jaw, discharge, numbness or feeling of heaviness in the jaw, or loosening of a tooth could be signs of bone damage in the jaw (osteonecrosis).
 
 Very common side effects (may affect more than 1 in 10 people):
 
--  bone, joint, and/or muscle pain which is sometimes severe,
--  shortness of breath,
--  diarrhoea.
+- bone, joint, and/or muscle pain which is sometimes severe,
+- shortness of breath,
+- diarrhoea.
 
 Common side effects (may affect up to 1 in 10 people):
 
--  low phosphate levels in the blood (hypophosphataemia),
--  removal of a tooth,
--  excessive sweating,
--  in patients with advanced cancer: development of another form of cancer.
+- low phosphate levels in the blood (hypophosphataemia),
+- removal of a tooth,
+- excessive sweating,
+- in patients with advanced cancer: development of another form of cancer.
 
 Uncommon side effects (may affect up to 1 in 100 people):
 
--  high calcium levels in the blood (hypercalcaemia) after stopping treatment in patients with giant cell tumour of the bone,
--  new or unusual pain in your hip, groin or thigh (this may be an early indication of a possible fracture of the thigh bone),
--  rash that may occur on the skin or sores in the mouth (lichenoid drug eruptions).
+- high calcium levels in the blood (hypercalcaemia) after stopping treatment in patients with giant cell tumour of the bone,
+- new or unusual pain in your hip, groin or thigh (this may be an early indication of a possible fracture of the thigh bone),
+- rash that may occur on the skin or sores in the mouth (lichenoid drug eruptions).
 
 Rare side effects (may affect up to 1 in 1,000 people):
 
--  allergic reactions (e.g. wheezing or difficulty breathing; swelling of the face, lips, tongue, throat or other parts of the body; rash, itching or hives on the skin). In rare cases allergic reactions may be severe.
+- allergic reactions (e.g. wheezing or difficulty breathing; swelling of the face, lips, tongue, throat or other parts of the body; rash, itching or hives on the skin). In rare cases allergic reactions may be severe.
 
 Not known (frequency cannot be estimated from the available data):
 
 <div style=\"page-break-after: always\"></div>
 
--  Talk to your doctor if you have ear pain, discharge from the ear, and/or an ear infection. These could be signs of bone damage in the ear.
+- Talk to your doctor if you have ear pain, discharge from the ear, and/or an ear infection. These could be signs of bone damage in the ear.
 
 ## Reporting of side effects
 
@@ -1040,6 +1047,8 @@ Accord Healthcare Polska Sp. z.o.o.
 
 Ul. Lutomierska 50, 95-200, Pabianice, Poland
 
+Accord Healthcare Single Member S.A., 64th Km National Road Athens Lamia, Schimatari, 32009, Greece
+
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 AT / BE / BG / CY / CZ / DE / DK / EE / ES / FI / FR / HR / HU / IE / IS / IT / LT / LV / LU / MT / NL / NO / PL / PT / RO / SE / SI / SK
@@ -1048,7 +1057,7 @@ Accord Healthcare S.L.U. Tel: +34 93 301 00 64
 
 EL
 
-Win Medica Α.Ε.
+Win Medica Α . Ε .
 
 Τηλ: +30 210 74 88 821
 
@@ -1060,11 +1069,11 @@ Detailed information on this medicine is available on the European Medicines Age
 
 ## The following information is intended for healthcare professionals only:
 
--  Before administration, the Jubereq solution should be inspected visually. The solution may contain trace amounts of translucent to white proteinaceous particles. Do not inject the solution if it is cloudy or discoloured.
--  Do not shake.
--  To avoid discomfort at the site of injection, allow the vial to reach room temperature (up to 25ºC) before injecting and inject slowly.
--  The entire contents of the vial should be injected.
--  A 27 gauge needle is recommended for the administration of denosumab.
--  The vial should not be re-entered.
+- Before administration, the Jubereq solution should be inspected visually. The solution may contain trace amounts of translucent to white proteinaceous particles. Do not inject the solution if it is cloudy or discoloured.
+- Do not shake.
+- To avoid discomfort at the site of injection, allow the vial to reach room temperature (up to 25ºC) before injecting and inject slowly.
+- The entire contents of the vial should be injected.
+- A 27 gauge needle is recommended for the administration of denosumab.
+- The vial should not be re-entered.
 
 Any unused product or waste material should be disposed of in accordance with local requirements.

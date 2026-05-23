@@ -1,32 +1,32 @@
 ---
-document_datetime: 2025-12-29 11:31:19
+document_datetime: 2026-05-22 15:25:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/adempas.html
 document_name: adempas.html
 version: success
-processing_time: 0.1378792
-conversion_datetime: 2025-12-31 01:27:46.238706
+processing_time: 0.1597462
+conversion_datetime: 2026-05-23 08:20:31.806276
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.20.0
+  docling-jobkit: 1.20.0
+  docling: 2.95.0
+  docling-core: 2.77.0
+  docling-ibm-models: 3.13.2
+  docling-parse: 5.11.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
 ---
 # Adempas
 
 [RSS](/en/individual-human-medicine.xml/65425)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-riociguat Medicine Human Authorised
+riociguat
 
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
+Medicine Human Authorised
 
 Page contents
 
@@ -114,275 +114,141 @@ Reference Number: EMA/174531/2025
 
 English (EN) (128.47 KB - PDF)
 
-**First published:** 10/04/2014
-
-**Last updated:** 05/08/2025
+**First published:** 10/04/2014 **Last updated:** 05/08/2025
 
 [View](/en/documents/overview/adempas-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-126)
+[Other languages (22)](#file-language-dropdown-369)
 
 български (BG) (167.67 KB - PDF)
 
-**First published:**
-
-10/04/2014
-
-**Last updated:**
-
-05/08/2025
+**First published:** 10/04/2014 **Last updated:** 05/08/2025
 
 [View](/bg/documents/overview/adempas-epar-medicine-overview_bg.pdf)
 
 español (ES) (141.8 KB - PDF)
 
-**First published:**
-
-10/04/2014
-
-**Last updated:**
-
-05/08/2025
+**First published:** 10/04/2014 **Last updated:** 05/08/2025
 
 [View](/es/documents/overview/adempas-epar-medicine-overview_es.pdf)
 
 čeština (CS) (166.37 KB - PDF)
 
-**First published:**
-
-10/04/2014
-
-**Last updated:**
-
-05/08/2025
+**First published:** 10/04/2014 **Last updated:** 05/08/2025
 
 [View](/cs/documents/overview/adempas-epar-medicine-overview_cs.pdf)
 
 dansk (DA) (140.43 KB - PDF)
 
-**First published:**
-
-10/04/2014
-
-**Last updated:**
-
-05/08/2025
+**First published:** 10/04/2014 **Last updated:** 05/08/2025
 
 [View](/da/documents/overview/adempas-epar-medicine-overview_da.pdf)
 
 Deutsch (DE) (144.71 KB - PDF)
 
-**First published:**
-
-10/04/2014
-
-**Last updated:**
-
-05/08/2025
+**First published:** 10/04/2014 **Last updated:** 05/08/2025
 
 [View](/de/documents/overview/adempas-epar-medicine-overview_de.pdf)
 
 eesti keel (ET) (140.83 KB - PDF)
 
-**First published:**
-
-10/04/2014
-
-**Last updated:**
-
-05/08/2025
+**First published:** 10/04/2014 **Last updated:** 05/08/2025
 
 [View](/et/documents/overview/adempas-epar-medicine-overview_et.pdf)
 
 ελληνικά (EL) (165.64 KB - PDF)
 
-**First published:**
-
-10/04/2014
-
-**Last updated:**
-
-05/08/2025
+**First published:** 10/04/2014 **Last updated:** 05/08/2025
 
 [View](/el/documents/overview/adempas-epar-medicine-overview_el.pdf)
 
 français (FR) (143.6 KB - PDF)
 
-**First published:**
-
-10/04/2014
-
-**Last updated:**
-
-05/08/2025
+**First published:** 10/04/2014 **Last updated:** 05/08/2025
 
 [View](/fr/documents/overview/adempas-epar-medicine-overview_fr.pdf)
 
 hrvatski (HR) (163.81 KB - PDF)
 
-**First published:**
-
-10/04/2014
-
-**Last updated:**
-
-05/08/2025
+**First published:** 10/04/2014 **Last updated:** 05/08/2025
 
 [View](/hr/documents/overview/adempas-epar-medicine-overview_hr.pdf)
 
 italiano (IT) (140.73 KB - PDF)
 
-**First published:**
-
-10/04/2014
-
-**Last updated:**
-
-05/08/2025
+**First published:** 10/04/2014 **Last updated:** 05/08/2025
 
 [View](/it/documents/overview/adempas-epar-medicine-overview_it.pdf)
 
 latviešu valoda (LV) (162.83 KB - PDF)
 
-**First published:**
-
-10/04/2014
-
-**Last updated:**
-
-05/08/2025
+**First published:** 10/04/2014 **Last updated:** 05/08/2025
 
 [View](/lv/documents/overview/adempas-epar-medicine-overview_lv.pdf)
 
 lietuvių kalba (LT) (164.78 KB - PDF)
 
-**First published:**
-
-10/04/2014
-
-**Last updated:**
-
-05/08/2025
+**First published:** 10/04/2014 **Last updated:** 05/08/2025
 
 [View](/lt/documents/overview/adempas-epar-medicine-overview_lt.pdf)
 
 magyar (HU) (163.77 KB - PDF)
 
-**First published:**
-
-10/04/2014
-
-**Last updated:**
-
-05/08/2025
+**First published:** 10/04/2014 **Last updated:** 05/08/2025
 
 [View](/hu/documents/overview/adempas-epar-medicine-overview_hu.pdf)
 
 Malti (MT) (168.43 KB - PDF)
 
-**First published:**
-
-10/04/2014
-
-**Last updated:**
-
-05/08/2025
+**First published:** 10/04/2014 **Last updated:** 05/08/2025
 
 [View](/mt/documents/overview/adempas-epar-medicine-overview_mt.pdf)
 
 Nederlands (NL) (140.61 KB - PDF)
 
-**First published:**
-
-10/04/2014
-
-**Last updated:**
-
-05/08/2025
+**First published:** 10/04/2014 **Last updated:** 05/08/2025
 
 [View](/nl/documents/overview/adempas-epar-medicine-overview_nl.pdf)
 
 polski (PL) (170.84 KB - PDF)
 
-**First published:**
-
-10/04/2014
-
-**Last updated:**
-
-05/08/2025
+**First published:** 10/04/2014 **Last updated:** 05/08/2025
 
 [View](/pl/documents/overview/adempas-epar-medicine-overview_pl.pdf)
 
 português (PT) (142.38 KB - PDF)
 
-**First published:**
-
-10/04/2014
-
-**Last updated:**
-
-05/08/2025
+**First published:** 10/04/2014 **Last updated:** 05/08/2025
 
 [View](/pt/documents/overview/adempas-epar-medicine-overview_pt.pdf)
 
 română (RO) (162.59 KB - PDF)
 
-**First published:**
-
-10/04/2014
-
-**Last updated:**
-
-05/08/2025
+**First published:** 10/04/2014 **Last updated:** 05/08/2025
 
 [View](/ro/documents/overview/adempas-epar-medicine-overview_ro.pdf)
 
 slovenčina (SK) (164.3 KB - PDF)
 
-**First published:**
-
-10/04/2014
-
-**Last updated:**
-
-05/08/2025
+**First published:** 10/04/2014 **Last updated:** 05/08/2025
 
 [View](/sk/documents/overview/adempas-epar-medicine-overview_sk.pdf)
 
 slovenščina (SL) (162.6 KB - PDF)
 
-**First published:**
-
-10/04/2014
-
-**Last updated:**
-
-05/08/2025
+**First published:** 10/04/2014 **Last updated:** 05/08/2025
 
 [View](/sl/documents/overview/adempas-epar-medicine-overview_sl.pdf)
 
 Suomi (FI) (139.84 KB - PDF)
 
-**First published:**
-
-10/04/2014
-
-**Last updated:**
-
-05/08/2025
+**First published:** 10/04/2014 **Last updated:** 05/08/2025
 
 [View](/fi/documents/overview/adempas-epar-medicine-overview_fi.pdf)
 
 svenska (SV) (140.93 KB - PDF)
 
-**First published:**
-
-10/04/2014
-
-**Last updated:**
-
-05/08/2025
+**First published:** 10/04/2014 **Last updated:** 05/08/2025
 
 [View](/sv/documents/overview/adempas-epar-medicine-overview_sv.pdf)
 
@@ -390,9 +256,7 @@ Adempas : EPAR - Risk management plan
 
 English (EN) (2.05 MB - PDF)
 
-**First published:** 13/05/2014
-
-**Last updated:** 05/08/2025
+**First published:** 13/05/2014 **Last updated:** 05/08/2025
 
 [View](/en/documents/rmp/adempas-epar-risk-management-plan_en.pdf)
 
@@ -400,305 +264,161 @@ English (EN) (2.05 MB - PDF)
 
 Adempas : EPAR - Product Information
 
-English (EN) (1.12 MB - PDF)
+English (EN) (2.29 MB - PDF)
 
-**First published:** 10/04/2014
-
-**Last updated:** 03/12/2025
+**First published:** 10/04/2014 **Last updated:** 22/05/2026
 
 [View](/en/documents/product-information/adempas-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-327)
+[Other languages (24)](#file-language-dropdown-348)
 
-български (BG) (1.48 MB - PDF)
+български (BG) (2.6 MB - PDF)
 
-**First published:**
-
-10/04/2014
-
-**Last updated:**
-
-03/12/2025
+**First published:** 10/04/2014 **Last updated:** 22/05/2026
 
 [View](/bg/documents/product-information/adempas-epar-product-information_bg.pdf)
 
-español (ES) (1.35 MB - PDF)
+español (ES) (2.01 MB - PDF)
 
-**First published:**
-
-10/04/2014
-
-**Last updated:**
-
-03/12/2025
+**First published:** 10/04/2014 **Last updated:** 22/05/2026
 
 [View](/es/documents/product-information/adempas-epar-product-information_es.pdf)
 
-čeština (CS) (1.56 MB - PDF)
+čeština (CS) (2.32 MB - PDF)
 
-**First published:**
-
-10/04/2014
-
-**Last updated:**
-
-03/12/2025
+**First published:** 10/04/2014 **Last updated:** 22/05/2026
 
 [View](/cs/documents/product-information/adempas-epar-product-information_cs.pdf)
 
-dansk (DA) (1.4 MB - PDF)
+dansk (DA) (2.13 MB - PDF)
 
-**First published:**
-
-10/04/2014
-
-**Last updated:**
-
-03/12/2025
+**First published:** 10/04/2014 **Last updated:** 22/05/2026
 
 [View](/da/documents/product-information/adempas-epar-product-information_da.pdf)
 
-Deutsch (DE) (1.52 MB - PDF)
+Deutsch (DE) (2.27 MB - PDF)
 
-**First published:**
-
-10/04/2014
-
-**Last updated:**
-
-03/12/2025
+**First published:** 10/04/2014 **Last updated:** 22/05/2026
 
 [View](/de/documents/product-information/adempas-epar-product-information_de.pdf)
 
-eesti keel (ET) (1.4 MB - PDF)
+eesti keel (ET) (2.17 MB - PDF)
 
-**First published:**
-
-10/04/2014
-
-**Last updated:**
-
-03/12/2025
+**First published:** 10/04/2014 **Last updated:** 22/05/2026
 
 [View](/et/documents/product-information/adempas-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.42 MB - PDF)
+ελληνικά (EL) (2.5 MB - PDF)
 
-**First published:**
-
-10/04/2014
-
-**Last updated:**
-
-03/12/2025
+**First published:** 10/04/2014 **Last updated:** 22/05/2026
 
 [View](/el/documents/product-information/adempas-epar-product-information_el.pdf)
 
-français (FR) (1.56 MB - PDF)
+français (FR) (2.37 MB - PDF)
 
-**First published:**
-
-10/04/2014
-
-**Last updated:**
-
-03/12/2025
+**First published:** 10/04/2014 **Last updated:** 22/05/2026
 
 [View](/fr/documents/product-information/adempas-epar-product-information_fr.pdf)
 
-hrvatski (HR) (1.37 MB - PDF)
+hrvatski (HR) (2.07 MB - PDF)
 
-**First published:**
-
-10/04/2014
-
-**Last updated:**
-
-03/12/2025
+**First published:** 10/04/2014 **Last updated:** 22/05/2026
 
 [View](/hr/documents/product-information/adempas-epar-product-information_hr.pdf)
 
-íslenska (IS) (1.45 MB - PDF)
+íslenska (IS) (2.1 MB - PDF)
 
-**First published:**
-
-10/04/2014
-
-**Last updated:**
-
-03/12/2025
+**First published:** 10/04/2014 **Last updated:** 22/05/2026
 
 [View](/is/documents/product-information/adempas-epar-product-information_is.pdf)
 
-italiano (IT) (1.38 MB - PDF)
+italiano (IT) (2.1 MB - PDF)
 
-**First published:**
-
-10/04/2014
-
-**Last updated:**
-
-03/12/2025
+**First published:** 10/04/2014 **Last updated:** 22/05/2026
 
 [View](/it/documents/product-information/adempas-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (1.47 MB - PDF)
+latviešu valoda (LV) (2.19 MB - PDF)
 
-**First published:**
-
-10/04/2014
-
-**Last updated:**
-
-03/12/2025
+**First published:** 10/04/2014 **Last updated:** 22/05/2026
 
 [View](/lv/documents/product-information/adempas-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (1.47 MB - PDF)
+lietuvių kalba (LT) (2.21 MB - PDF)
 
-**First published:**
-
-10/04/2014
-
-**Last updated:**
-
-03/12/2025
+**First published:** 10/04/2014 **Last updated:** 22/05/2026
 
 [View](/lt/documents/product-information/adempas-epar-product-information_lt.pdf)
 
-magyar (HU) (1.56 MB - PDF)
+magyar (HU) (2.31 MB - PDF)
 
-**First published:**
-
-10/04/2014
-
-**Last updated:**
-
-03/12/2025
+**First published:** 10/04/2014 **Last updated:** 22/05/2026
 
 [View](/hu/documents/product-information/adempas-epar-product-information_hu.pdf)
 
-Malti (MT) (1.53 MB - PDF)
+Malti (MT) (2.29 MB - PDF)
 
-**First published:**
-
-10/04/2014
-
-**Last updated:**
-
-03/12/2025
+**First published:** 10/04/2014 **Last updated:** 22/05/2026
 
 [View](/mt/documents/product-information/adempas-epar-product-information_mt.pdf)
 
-Nederlands (NL) (1.34 MB - PDF)
+Nederlands (NL) (2.03 MB - PDF)
 
-**First published:**
-
-10/04/2014
-
-**Last updated:**
-
-03/12/2025
+**First published:** 10/04/2014 **Last updated:** 22/05/2026
 
 [View](/nl/documents/product-information/adempas-epar-product-information_nl.pdf)
 
-norsk (NO) (1.33 MB - PDF)
+norsk (NO) (2.04 MB - PDF)
 
-**First published:**
-
-10/04/2014
-
-**Last updated:**
-
-03/12/2025
+**First published:** 10/04/2014 **Last updated:** 22/05/2026
 
 [View](/no/documents/product-information/adempas-epar-product-information_no.pdf)
 
-polski (PL) (1.51 MB - PDF)
+polski (PL) (2.33 MB - PDF)
 
-**First published:**
-
-10/04/2014
-
-**Last updated:**
-
-03/12/2025
+**First published:** 10/04/2014 **Last updated:** 22/05/2026
 
 [View](/pl/documents/product-information/adempas-epar-product-information_pl.pdf)
 
-português (PT) (1.42 MB - PDF)
+português (PT) (2.47 MB - PDF)
 
-**First published:**
-
-10/04/2014
-
-**Last updated:**
-
-03/12/2025
+**First published:** 10/04/2014 **Last updated:** 22/05/2026
 
 [View](/pt/documents/product-information/adempas-epar-product-information_pt.pdf)
 
-română (RO) (1.41 MB - PDF)
+română (RO) (2.17 MB - PDF)
 
-**First published:**
-
-10/04/2014
-
-**Last updated:**
-
-03/12/2025
+**First published:** 10/04/2014 **Last updated:** 22/05/2026
 
 [View](/ro/documents/product-information/adempas-epar-product-information_ro.pdf)
 
-slovenčina (SK) (1.55 MB - PDF)
+slovenčina (SK) (2.37 MB - PDF)
 
-**First published:**
-
-10/04/2014
-
-**Last updated:**
-
-03/12/2025
+**First published:** 10/04/2014 **Last updated:** 22/05/2026
 
 [View](/sk/documents/product-information/adempas-epar-product-information_sk.pdf)
 
-slovenščina (SL) (1.51 MB - PDF)
+slovenščina (SL) (2.28 MB - PDF)
 
-**First published:**
-
-10/04/2014
-
-**Last updated:**
-
-03/12/2025
+**First published:** 10/04/2014 **Last updated:** 22/05/2026
 
 [View](/sl/documents/product-information/adempas-epar-product-information_sl.pdf)
 
-Suomi (FI) (1.43 MB - PDF)
+Suomi (FI) (2.16 MB - PDF)
 
-**First published:**
-
-10/04/2014
-
-**Last updated:**
-
-03/12/2025
+**First published:** 10/04/2014 **Last updated:** 22/05/2026
 
 [View](/fi/documents/product-information/adempas-epar-product-information_fi.pdf)
 
-svenska (SV) (1.41 MB - PDF)
+svenska (SV) (2.07 MB - PDF)
 
-**First published:**
-
-10/04/2014
-
-**Last updated:**
-
-03/12/2025
+**First published:** 10/04/2014 **Last updated:** 22/05/2026
 
 [View](/sv/documents/product-information/adempas-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000285850 06/08/2025
+**Latest procedure affecting product information:** N/0000333716
+
+22/05/2026
 
 icon globe
 
@@ -718,305 +438,177 @@ Adempas : EPAR - All Authorised presentations
 
 English (EN) (75.68 KB - PDF)
 
-**First published:** 10/04/2014
-
-**Last updated:** 05/08/2025
+**First published:** 10/04/2014 **Last updated:** 05/08/2025
 
 [View](/en/documents/all-authorised-presentations/adempas-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-475)
+[Other languages (24)](#file-language-dropdown-215)
 
 български (BG) (88.04 KB - PDF)
 
-**First published:**
-
-10/04/2014
-
-**Last updated:**
-
-05/08/2025
+**First published:** 10/04/2014 **Last updated:** 05/08/2025
 
 [View](/bg/documents/all-authorised-presentations/adempas-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (79.1 KB - PDF)
 
-**First published:**
-
-10/04/2014
-
-**Last updated:**
-
-05/08/2025
+**First published:** 10/04/2014 **Last updated:** 05/08/2025
 
 [View](/es/documents/all-authorised-presentations/adempas-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (81.26 KB - PDF)
 
-**First published:**
-
-10/04/2014
-
-**Last updated:**
-
-05/08/2025
+**First published:** 10/04/2014 **Last updated:** 05/08/2025
 
 [View](/cs/documents/all-authorised-presentations/adempas-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (80.52 KB - PDF)
 
-**First published:**
-
-10/04/2014
-
-**Last updated:**
-
-05/08/2025
+**First published:** 10/04/2014 **Last updated:** 05/08/2025
 
 [View](/da/documents/all-authorised-presentations/adempas-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (79.96 KB - PDF)
 
-**First published:**
-
-10/04/2014
-
-**Last updated:**
-
-05/08/2025
+**First published:** 10/04/2014 **Last updated:** 05/08/2025
 
 [View](/de/documents/all-authorised-presentations/adempas-epar-all-authorised-presentations_de.pdf)
 
 eesti keel (ET) (76.5 KB - PDF)
 
-**First published:**
-
-10/04/2014
-
-**Last updated:**
-
-05/08/2025
+**First published:** 10/04/2014 **Last updated:** 05/08/2025
 
 [View](/et/documents/all-authorised-presentations/adempas-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (85.77 KB - PDF)
 
-**First published:**
-
-10/04/2014
-
-**Last updated:**
-
-05/08/2025
+**First published:** 10/04/2014 **Last updated:** 05/08/2025
 
 [View](/el/documents/all-authorised-presentations/adempas-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (79.9 KB - PDF)
 
-**First published:**
-
-10/04/2014
-
-**Last updated:**
-
-05/08/2025
+**First published:** 10/04/2014 **Last updated:** 05/08/2025
 
 [View](/fr/documents/all-authorised-presentations/adempas-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (79.38 KB - PDF)
 
-**First published:**
-
-10/04/2014
-
-**Last updated:**
-
-05/08/2025
+**First published:** 10/04/2014 **Last updated:** 05/08/2025
 
 [View](/hr/documents/all-authorised-presentations/adempas-epar-all-authorised-presentations_hr.pdf)
 
 íslenska (IS) (79.46 KB - PDF)
 
-**First published:**
-
-10/04/2014
-
-**Last updated:**
-
-05/08/2025
+**First published:** 10/04/2014 **Last updated:** 05/08/2025
 
 [View](/is/documents/all-authorised-presentations/adempas-epar-all-authorised-presentations_is.pdf)
 
 italiano (IT) (79.28 KB - PDF)
 
-**First published:**
-
-10/04/2014
-
-**Last updated:**
-
-05/08/2025
+**First published:** 10/04/2014 **Last updated:** 05/08/2025
 
 [View](/it/documents/all-authorised-presentations/adempas-epar-all-authorised-presentations_it.pdf)
 
 latviešu valoda (LV) (81.72 KB - PDF)
 
-**First published:**
-
-10/04/2014
-
-**Last updated:**
-
-05/08/2025
+**First published:** 10/04/2014 **Last updated:** 05/08/2025
 
 [View](/lv/documents/all-authorised-presentations/adempas-epar-all-authorised-presentations_lv.pdf)
 
 lietuvių kalba (LT) (82.74 KB - PDF)
 
-**First published:**
-
-10/04/2014
-
-**Last updated:**
-
-05/08/2025
+**First published:** 10/04/2014 **Last updated:** 05/08/2025
 
 [View](/lt/documents/all-authorised-presentations/adempas-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (84.87 KB - PDF)
 
-**First published:**
-
-10/04/2014
-
-**Last updated:**
-
-05/08/2025
+**First published:** 10/04/2014 **Last updated:** 05/08/2025
 
 [View](/hu/documents/all-authorised-presentations/adempas-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (81.65 KB - PDF)
 
-**First published:**
-
-10/04/2014
-
-**Last updated:**
-
-05/08/2025
+**First published:** 10/04/2014 **Last updated:** 05/08/2025
 
 [View](/mt/documents/all-authorised-presentations/adempas-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (76.73 KB - PDF)
 
-**First published:**
-
-10/04/2014
-
-**Last updated:**
-
-05/08/2025
+**First published:** 10/04/2014 **Last updated:** 05/08/2025
 
 [View](/nl/documents/all-authorised-presentations/adempas-epar-all-authorised-presentations_nl.pdf)
 
 norsk (NO) (78.5 KB - PDF)
 
-**First published:**
-
-10/04/2014
-
-**Last updated:**
-
-05/08/2025
+**First published:** 10/04/2014 **Last updated:** 05/08/2025
 
 [View](/no/documents/all-authorised-presentations/adempas-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (83.41 KB - PDF)
 
-**First published:**
-
-10/04/2014
-
-**Last updated:**
-
-05/08/2025
+**First published:** 10/04/2014 **Last updated:** 05/08/2025
 
 [View](/pl/documents/all-authorised-presentations/adempas-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (77.65 KB - PDF)
 
-**First published:**
-
-10/04/2014
-
-**Last updated:**
-
-05/08/2025
+**First published:** 10/04/2014 **Last updated:** 05/08/2025
 
 [View](/pt/documents/all-authorised-presentations/adempas-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (79.21 KB - PDF)
 
-**First published:**
-
-10/04/2014
-
-**Last updated:**
-
-05/08/2025
+**First published:** 10/04/2014 **Last updated:** 05/08/2025
 
 [View](/ro/documents/all-authorised-presentations/adempas-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (83.56 KB - PDF)
 
-**First published:**
-
-10/04/2014
-
-**Last updated:**
-
-05/08/2025
+**First published:** 10/04/2014 **Last updated:** 05/08/2025
 
 [View](/sk/documents/all-authorised-presentations/adempas-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (80.26 KB - PDF)
 
-**First published:**
-
-10/04/2014
-
-**Last updated:**
-
-05/08/2025
+**First published:** 10/04/2014 **Last updated:** 05/08/2025
 
 [View](/sl/documents/all-authorised-presentations/adempas-epar-all-authorised-presentations_sl.pdf)
 
 Suomi (FI) (74.48 KB - PDF)
 
-**First published:**
-
-10/04/2014
-
-**Last updated:**
-
-05/08/2025
+**First published:** 10/04/2014 **Last updated:** 05/08/2025
 
 [View](/fi/documents/all-authorised-presentations/adempas-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (76.37 KB - PDF)
 
-**First published:**
-
-10/04/2014
-
-**Last updated:**
-
-05/08/2025
+**First published:** 10/04/2014 **Last updated:** 05/08/2025
 
 [View](/sv/documents/all-authorised-presentations/adempas-epar-all-authorised-presentations_sv.pdf)
 
 ## Product details
 
-Name of medicine Adempas Active substance riociguat International non-proprietary name (INN) or common name riociguat Therapeutic area (MeSH) Hypertension, Pulmonary Anatomical therapeutic chemical (ATC) code C02KX05
+Name of medicine
+
+Adempas
+
+Active substance
+
+riociguat
+
+International non-proprietary name (INN) or common name
+
+riociguat
+
+Therapeutic area (MeSH)
+
+Hypertension, Pulmonary
+
+Anatomical therapeutic chemical (ATC) code
+
+C02KX05
 
 ### Pharmacotherapeutic group
 
@@ -1042,13 +634,27 @@ Efficacy has been shown in a PAH population including aetiologies of idiopathic 
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/002737 Marketing authorisation holder
+EMA product number
+
+EMEA/H/C/002737
+
+Marketing authorisation holder
 
 Bayer AG
 
 51368 Leverkusen Germany
 
-Opinion adopted 23/01/2014 Marketing authorisation issued 27/03/2014 Revision 17
+Opinion adopted
+
+23/01/2014
+
+Marketing authorisation issued
+
+27/03/2014
+
+Revision
+
+18
 
 ## Assessment history
 
@@ -1060,9 +666,9 @@ Collapse section
 
 Adempas : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (138.54 KB - PDF)
+English (EN) (148.13 KB - PDF)
 
-**First published:** 06/08/2025
+**First published:** 06/08/2025 **Last updated:** 22/05/2026
 
 [View](/en/documents/procedural-steps-after/adempas-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1070,17 +676,13 @@ Adempas : EPAR - Procedural steps taken and scientific information after authori
 
 English (EN) (228.27 KB - PDF)
 
-**First published:** 07/11/2014
-
-**Last updated:** 06/08/2025
+**First published:** 07/11/2014 **Last updated:** 06/08/2025
 
 [View](/en/documents/procedural-steps-after/adempas-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 Adempas-H-C-002737-X-0041 : EPAR - Assessment report - Extension
 
-Adopted
-
-Reference Number: EMA/167451/2025
+Adopted Reference Number: EMA/167451/2025
 
 English (EN) (1.53 MB - PDF)
 
@@ -1090,9 +692,7 @@ English (EN) (1.53 MB - PDF)
 
 CHMP post-authorisation summary of positive opinion for Adempas (X-41)
 
-Adopted
-
-Reference Number: EMA/CHMP/131389/2025
+Adopted Reference Number: EMA/CHMP/131389/2025
 
 English (EN) (157.72 KB - PDF)
 
@@ -1102,9 +702,7 @@ English (EN) (157.72 KB - PDF)
 
 Adempas-H-C-002737-II-0037 : EPAR - Assessment report - Variation
 
-Adopted
-
-Reference Number: EMA/229554/2023
+Adopted Reference Number: EMA/229554/2023
 
 English (EN) (2.84 MB - PDF)
 
@@ -1114,9 +712,7 @@ English (EN) (2.84 MB - PDF)
 
 CHMP post-authorisation summary of positive opinion for Adempas (II-37)
 
-Adopted
-
-Reference Number: EMA/CHMP/169143/2023
+Adopted Reference Number: EMA/CHMP/169143/2023
 
 English (EN) (180.58 KB - PDF)
 
@@ -1126,9 +722,7 @@ English (EN) (180.58 KB - PDF)
 
 Adempas-H-C-002737-II-0032-G : EPAR - Assessment report - Variation
 
-Adopted
-
-Reference Number: EMA/621814/2021
+Adopted Reference Number: EMA/621814/2021
 
 English (EN) (355.57 KB - PDF)
 
@@ -1138,9 +732,7 @@ English (EN) (355.57 KB - PDF)
 
 CHMP post-authorisation summary of positive opinion for Adempas (II-32-G)
 
-Adopted
-
-Reference Number: EMA/CHMP/508328/2021
+Adopted Reference Number: EMA/CHMP/508328/2021
 
 English (EN) (125.68 KB - PDF)
 
@@ -1152,269 +744,225 @@ English (EN) (125.68 KB - PDF)
 
 Adempas : EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/CHMP/734750/2013
+Adopted Reference Number: EMA/CHMP/734750/2013
 
 English (EN) (2.19 MB - PDF)
 
-**First published:** 10/04/2014
-
-**Last updated:** 10/04/2014
+**First published:** 10/04/2014 **Last updated:** 10/04/2014
 
 [View](/en/documents/assessment-report/adempas-epar-public-assessment-report_en.pdf)
 
 CHMP summary of positive opinion for Adempas
 
-Adopted
-
-Reference Number: EMA/CHMP/807324/2013
+Adopted Reference Number: EMA/CHMP/807324/2013
 
 English (EN) (69.29 KB - PDF)
 
-**First published:** 24/01/2014
-
-**Last updated:** 24/01/2014
+**First published:** 24/01/2014 **Last updated:** 24/01/2014
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-adempas_en.pdf)
 
-#### News on Adempas
+## News on Adempas
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 22-25 April 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-22-25-april-2025) 25/04/2025
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 22-25 April 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-22-25-april-2025)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 24 - 26 April 2023](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-24-26-april-2023) 26/04/2023
+25/04/2025
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 13-16 September 2021](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-13-16-september-2021) 17/09/2021
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 24 - 26 April 2023](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-24-26-april-2023)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 12-15 September 2016 (corrected)](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-12-15-september-2016-corrected) 21/09/2016
+26/04/2023
 
-[Adempas not for use in patients with pulmonary hypertension caused by idiopathic interstitial pneumonia](/en/news/adempas-not-use-patients-pulmonary-hypertension-caused-idiopathic-interstitial-pneumonia) 24/06/2016
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 13-16 September 2021](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-13-16-september-2021)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 20-23 January 2014](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-20-23-january-2014) 24/01/2014
+17/09/2021
 
-#### Product information - with tracked changes
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 12-15 September 2016 (corrected)](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-12-15-september-2016-corrected)
+
+21/09/2016
+
+[Adempas not for use in patients with pulmonary hypertension caused by idiopathic interstitial pneumonia](/en/news/adempas-not-use-patients-pulmonary-hypertension-caused-idiopathic-interstitial-pneumonia)
+
+24/06/2016
+
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 20-23 January 2014](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-20-23-january-2014)
+
+24/01/2014
+
+## Product information - with tracked changes
 
 The approved product information for this medicine is available below showing the changes since the previous procedure affecting the product information. The same document without tracked changes is above under 'Product information'.
 
 Adempas : EPAR - Product information - tracked changes
 
-English (EN) (909.81 KB - DOCX)
+English (EN) (912.28 KB - DOCX)
 
-**First published:** 06/08/2025
+**First published:** 06/08/2025 **Last updated:** 22/05/2026
 
 [View](/en/documents/product-information-tracked-changes/adempas-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-126)
+[Other languages (24)](#file-language-dropdown-82)
 
-български (BG) (941.17 KB - DOCX)
+български (BG) (942.57 KB - DOCX)
 
-**First published:**
-
-06/08/2025
+**First published:** 06/08/2025 **Last updated:** 22/05/2026
 
 [View](/bg/documents/product-information-tracked-changes/adempas-epar-product-information-tracked-changes_bg.docx)
 
-español (ES) (864.1 KB - DOCX)
+español (ES) (865.46 KB - DOCX)
 
-**First published:**
-
-06/08/2025
+**First published:** 06/08/2025 **Last updated:** 22/05/2026
 
 [View](/es/documents/product-information-tracked-changes/adempas-epar-product-information-tracked-changes_es.docx)
 
-čeština (CS) (941.46 KB - DOCX)
+čeština (CS) (944.18 KB - DOCX)
 
-**First published:**
-
-06/08/2025
+**First published:** 06/08/2025 **Last updated:** 22/05/2026
 
 [View](/cs/documents/product-information-tracked-changes/adempas-epar-product-information-tracked-changes_cs.docx)
 
-dansk (DA) (883.75 KB - DOCX)
+dansk (DA) (891.52 KB - DOCX)
 
-**First published:**
-
-06/08/2025
+**First published:** 06/08/2025 **Last updated:** 22/05/2026
 
 [View](/da/documents/product-information-tracked-changes/adempas-epar-product-information-tracked-changes_da.docx)
 
-Deutsch (DE) (923.85 KB - DOCX)
+Deutsch (DE) (931.43 KB - DOCX)
 
-**First published:**
-
-06/08/2025
+**First published:** 06/08/2025 **Last updated:** 22/05/2026
 
 [View](/de/documents/product-information-tracked-changes/adempas-epar-product-information-tracked-changes_de.docx)
 
-eesti keel (ET) (899.92 KB - DOCX)
+eesti keel (ET) (908.02 KB - DOCX)
 
-**First published:**
-
-06/08/2025
+**First published:** 06/08/2025 **Last updated:** 22/05/2026
 
 [View](/et/documents/product-information-tracked-changes/adempas-epar-product-information-tracked-changes_et.docx)
 
-ελληνικά (EL) (806.29 KB - DOCX)
+ελληνικά (EL) (830.87 KB - DOCX)
 
-**First published:**
-
-06/08/2025
+**First published:** 06/08/2025 **Last updated:** 22/05/2026
 
 [View](/el/documents/product-information-tracked-changes/adempas-epar-product-information-tracked-changes_el.docx)
 
-français (FR) (970.55 KB - DOCX)
+français (FR) (965.76 KB - DOCX)
 
-**First published:**
-
-06/08/2025
+**First published:** 06/08/2025 **Last updated:** 22/05/2026
 
 [View](/fr/documents/product-information-tracked-changes/adempas-epar-product-information-tracked-changes_fr.docx)
 
-hrvatski (HR) (862.1 KB - DOCX)
+hrvatski (HR) (886.57 KB - DOCX)
 
-**First published:**
-
-06/08/2025
+**First published:** 06/08/2025 **Last updated:** 22/05/2026
 
 [View](/hr/documents/product-information-tracked-changes/adempas-epar-product-information-tracked-changes_hr.docx)
 
-íslenska (IS) (935.38 KB - DOCX)
+íslenska (IS) (946.65 KB - DOCX)
 
-**First published:**
-
-06/08/2025
+**First published:** 06/08/2025 **Last updated:** 22/05/2026
 
 [View](/is/documents/product-information-tracked-changes/adempas-epar-product-information-tracked-changes_is.docx)
 
-italiano (IT) (877.21 KB - DOCX)
+italiano (IT) (901.54 KB - DOCX)
 
-**First published:**
-
-06/08/2025
+**First published:** 06/08/2025 **Last updated:** 22/05/2026
 
 [View](/it/documents/product-information-tracked-changes/adempas-epar-product-information-tracked-changes_it.docx)
 
-latviešu valoda (LV) (930.9 KB - DOCX)
+latviešu valoda (LV) (929.4 KB - DOCX)
 
-**First published:**
-
-06/08/2025
+**First published:** 06/08/2025 **Last updated:** 22/05/2026
 
 [View](/lv/documents/product-information-tracked-changes/adempas-epar-product-information-tracked-changes_lv.docx)
 
-lietuvių kalba (LT) (909.32 KB - DOCX)
+lietuvių kalba (LT) (912.21 KB - DOCX)
 
-**First published:**
-
-06/08/2025
+**First published:** 06/08/2025 **Last updated:** 22/05/2026
 
 [View](/lt/documents/product-information-tracked-changes/adempas-epar-product-information-tracked-changes_lt.docx)
 
-magyar (HU) (925.2 KB - DOCX)
+magyar (HU) (927.22 KB - DOCX)
 
-**First published:**
-
-06/08/2025
+**First published:** 06/08/2025 **Last updated:** 22/05/2026
 
 [View](/hu/documents/product-information-tracked-changes/adempas-epar-product-information-tracked-changes_hu.docx)
 
-Malti (MT) (887.64 KB - DOCX)
+Malti (MT) (897.25 KB - DOCX)
 
-**First published:**
-
-06/08/2025
+**First published:** 06/08/2025 **Last updated:** 22/05/2026
 
 [View](/mt/documents/product-information-tracked-changes/adempas-epar-product-information-tracked-changes_mt.docx)
 
-Nederlands (NL) (856.34 KB - DOCX)
+Nederlands (NL) (881.23 KB - DOCX)
 
-**First published:**
-
-06/08/2025
+**First published:** 06/08/2025 **Last updated:** 22/05/2026
 
 [View](/nl/documents/product-information-tracked-changes/adempas-epar-product-information-tracked-changes_nl.docx)
 
-norsk (NO) (852.67 KB - DOCX)
+norsk (NO) (880.3 KB - DOCX)
 
-**First published:**
-
-06/08/2025
+**First published:** 06/08/2025 **Last updated:** 22/05/2026
 
 [View](/no/documents/product-information-tracked-changes/adempas-epar-product-information-tracked-changes_no.docx)
 
-polski (PL) (950.16 KB - DOCX)
+polski (PL) (956.67 KB - DOCX)
 
-**First published:**
-
-06/08/2025
+**First published:** 06/08/2025 **Last updated:** 22/05/2026
 
 [View](/pl/documents/product-information-tracked-changes/adempas-epar-product-information-tracked-changes_pl.docx)
 
-português (PT) (803.25 KB - DOCX)
+português (PT) (810.78 KB - DOCX)
 
-**First published:**
-
-06/08/2025
+**First published:** 06/08/2025 **Last updated:** 22/05/2026
 
 [View](/pt/documents/product-information-tracked-changes/adempas-epar-product-information-tracked-changes_pt.docx)
 
-română (RO) (875.72 KB - DOCX)
+română (RO) (908.68 KB - DOCX)
 
-**First published:**
-
-06/08/2025
+**First published:** 06/08/2025 **Last updated:** 22/05/2026
 
 [View](/ro/documents/product-information-tracked-changes/adempas-epar-product-information-tracked-changes_ro.docx)
 
-slovenčina (SK) (936.44 KB - DOCX)
+slovenčina (SK) (938.33 KB - DOCX)
 
-**First published:**
-
-06/08/2025
+**First published:** 06/08/2025 **Last updated:** 22/05/2026
 
 [View](/sk/documents/product-information-tracked-changes/adempas-epar-product-information-tracked-changes_sk.docx)
 
-slovenščina (SL) (904.86 KB - DOCX)
+slovenščina (SL) (919.55 KB - DOCX)
 
-**First published:**
-
-06/08/2025
+**First published:** 06/08/2025 **Last updated:** 22/05/2026
 
 [View](/sl/documents/product-information-tracked-changes/adempas-epar-product-information-tracked-changes_sl.docx)
 
-Suomi (FI) (896.8 KB - DOCX)
+Suomi (FI) (904.76 KB - DOCX)
 
-**First published:**
-
-06/08/2025
+**First published:** 06/08/2025 **Last updated:** 22/05/2026
 
 [View](/fi/documents/product-information-tracked-changes/adempas-epar-product-information-tracked-changes_fi.docx)
 
-svenska (SV) (888.59 KB - DOCX)
+svenska (SV) (895.87 KB - DOCX)
 
-**First published:**
-
-06/08/2025
+**First published:** 06/08/2025 **Last updated:** 22/05/2026
 
 [View](/sv/documents/product-information-tracked-changes/adempas-epar-product-information-tracked-changes_sv.docx)
 
-#### More information on Adempas
+## More information on Adempas
 
 This product is no longer an orphan medicine. It was [originally designated an orphan medicine on 20 December 2007](/en/medicines/human/orphan-designations/eu-3-07-518) . Adempas was withdrawn from the Community register of orphan medicinal products in June 2022 upon request of the marketing authorisation holder.
 
-#### More information on Adempas
+## More information on Adempas
 
 - [EMEA-000718-PIP01-09-M06 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-000718-pip01-09-m06)
 - [Adempas - withdrawal of application for variation to marketing authorisation](/en/medicines/human/variation/adempas)
 - [A national, multicenter, prospective, single-arm registry PASS of pulmonary hypertension patients treated with Riociguat (Adempas®) in China (MK-4836-001) (EXPERT China) - post-authorisation study](https://catalogues.ema.europa.eu/study/47274)
 - [EXPERT, EXPosurE Registry RiociguaT in patients with pulmonary hypertension - post-authorisation study](https://catalogues.ema.europa.eu/study/43970)
 
-#### Topics
+## Topics
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 03/12/2025
+**This page was last updated on**
+
+22/05/2026
 
 ## Share this page
-
-[Back to top](#main-content)

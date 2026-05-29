@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-02-25 14:20:00
+document_datetime: 2026-05-27 16:00:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/verzenios.html
 document_name: verzenios.html
 version: success
-processing_time: 0.103728
-conversion_datetime: 2026-03-01 19:27:31.527718
+processing_time: 0.0989255
+conversion_datetime: 2026-05-29 20:13:53.038341
 docling_version:
-  docling-serve: 1.13.1
-  docling-jobkit: 1.11.0
-  docling: 2.74.0
-  docling-core: 2.65.2
-  docling-ibm-models: 3.11.0
-  docling-parse: 5.3.4
+  docling-serve: 1.20.0
+  docling-jobkit: 1.20.0
+  docling: 2.96.0
+  docling-core: 2.78.0
+  docling-ibm-models: 3.13.2
+  docling-parse: 6.2.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
 ---
 # Verzenios
 
@@ -24,7 +24,9 @@ Authorised
 
 This medicine is authorised for use in the European Union
 
-abemaciclib Medicine Human Authorised
+abemaciclib
+
+Medicine Human Authorised
 
 Page contents
 
@@ -113,275 +115,141 @@ Reference Number: EMA/521639/2018
 
 English (EN) (109.63 KB - PDF)
 
-**First published:** 29/10/2018
-
-**Last updated:** 21/04/2022
+**First published:** 29/10/2018 **Last updated:** 21/04/2022
 
 [View](/en/documents/overview/verzenios-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-763)
+[Other languages (22)](#file-language-dropdown-226)
 
 български (BG) (135.2 KB - PDF)
 
-**First published:**
-
-29/10/2018
-
-**Last updated:**
-
-21/04/2022
+**First published:** 29/10/2018 **Last updated:** 21/04/2022
 
 [View](/bg/documents/overview/verzenios-epar-medicine-overview_bg.pdf)
 
 español (ES) (109 KB - PDF)
 
-**First published:**
-
-29/10/2018
-
-**Last updated:**
-
-21/04/2022
+**First published:** 29/10/2018 **Last updated:** 21/04/2022
 
 [View](/es/documents/overview/verzenios-epar-medicine-overview_es.pdf)
 
 čeština (CS) (132.85 KB - PDF)
 
-**First published:**
-
-29/10/2018
-
-**Last updated:**
-
-21/04/2022
+**First published:** 29/10/2018 **Last updated:** 21/04/2022
 
 [View](/cs/documents/overview/verzenios-epar-medicine-overview_cs.pdf)
 
 dansk (DA) (107.57 KB - PDF)
 
-**First published:**
-
-29/10/2018
-
-**Last updated:**
-
-21/04/2022
+**First published:** 29/10/2018 **Last updated:** 21/04/2022
 
 [View](/da/documents/overview/verzenios-epar-medicine-overview_da.pdf)
 
 Deutsch (DE) (112.29 KB - PDF)
 
-**First published:**
-
-29/10/2018
-
-**Last updated:**
-
-21/04/2022
+**First published:** 29/10/2018 **Last updated:** 21/04/2022
 
 [View](/de/documents/overview/verzenios-epar-medicine-overview_de.pdf)
 
 eesti keel (ET) (96.96 KB - PDF)
 
-**First published:**
-
-29/10/2018
-
-**Last updated:**
-
-21/04/2022
+**First published:** 29/10/2018 **Last updated:** 21/04/2022
 
 [View](/et/documents/overview/verzenios-epar-medicine-overview_et.pdf)
 
 ελληνικά (EL) (133.56 KB - PDF)
 
-**First published:**
-
-29/10/2018
-
-**Last updated:**
-
-21/04/2022
+**First published:** 29/10/2018 **Last updated:** 21/04/2022
 
 [View](/el/documents/overview/verzenios-epar-medicine-overview_el.pdf)
 
 français (FR) (109.99 KB - PDF)
 
-**First published:**
-
-29/10/2018
-
-**Last updated:**
-
-21/04/2022
+**First published:** 29/10/2018 **Last updated:** 21/04/2022
 
 [View](/fr/documents/overview/verzenios-epar-medicine-overview_fr.pdf)
 
 hrvatski (HR) (130.73 KB - PDF)
 
-**First published:**
-
-29/10/2018
-
-**Last updated:**
-
-21/04/2022
+**First published:** 29/10/2018 **Last updated:** 21/04/2022
 
 [View](/hr/documents/overview/verzenios-epar-medicine-overview_hr.pdf)
 
 italiano (IT) (108.3 KB - PDF)
 
-**First published:**
-
-29/10/2018
-
-**Last updated:**
-
-21/04/2022
+**First published:** 29/10/2018 **Last updated:** 21/04/2022
 
 [View](/it/documents/overview/verzenios-epar-medicine-overview_it.pdf)
 
 latviešu valoda (LV) (141.29 KB - PDF)
 
-**First published:**
-
-29/10/2018
-
-**Last updated:**
-
-21/04/2022
+**First published:** 29/10/2018 **Last updated:** 21/04/2022
 
 [View](/lv/documents/overview/verzenios-epar-medicine-overview_lv.pdf)
 
 lietuvių kalba (LT) (132.23 KB - PDF)
 
-**First published:**
-
-29/10/2018
-
-**Last updated:**
-
-21/04/2022
+**First published:** 29/10/2018 **Last updated:** 21/04/2022
 
 [View](/lt/documents/overview/verzenios-epar-medicine-overview_lt.pdf)
 
 magyar (HU) (132.98 KB - PDF)
 
-**First published:**
-
-29/10/2018
-
-**Last updated:**
-
-21/04/2022
+**First published:** 29/10/2018 **Last updated:** 21/04/2022
 
 [View](/hu/documents/overview/verzenios-epar-medicine-overview_hu.pdf)
 
 Malti (MT) (135.98 KB - PDF)
 
-**First published:**
-
-29/10/2018
-
-**Last updated:**
-
-21/04/2022
+**First published:** 29/10/2018 **Last updated:** 21/04/2022
 
 [View](/mt/documents/overview/verzenios-epar-medicine-overview_mt.pdf)
 
 Nederlands (NL) (108.87 KB - PDF)
 
-**First published:**
-
-29/10/2018
-
-**Last updated:**
-
-21/04/2022
+**First published:** 29/10/2018 **Last updated:** 21/04/2022
 
 [View](/nl/documents/overview/verzenios-epar-medicine-overview_nl.pdf)
 
 polski (PL) (134.13 KB - PDF)
 
-**First published:**
-
-29/10/2018
-
-**Last updated:**
-
-21/04/2022
+**First published:** 29/10/2018 **Last updated:** 21/04/2022
 
 [View](/pl/documents/overview/verzenios-epar-medicine-overview_pl.pdf)
 
 português (PT) (109.43 KB - PDF)
 
-**First published:**
-
-29/10/2018
-
-**Last updated:**
-
-21/04/2022
+**First published:** 29/10/2018 **Last updated:** 21/04/2022
 
 [View](/pt/documents/overview/verzenios-epar-medicine-overview_pt.pdf)
 
 română (RO) (130.16 KB - PDF)
 
-**First published:**
-
-29/10/2018
-
-**Last updated:**
-
-21/04/2022
+**First published:** 29/10/2018 **Last updated:** 21/04/2022
 
 [View](/ro/documents/overview/verzenios-epar-medicine-overview_ro.pdf)
 
 slovenčina (SK) (132.75 KB - PDF)
 
-**First published:**
-
-29/10/2018
-
-**Last updated:**
-
-21/04/2022
+**First published:** 29/10/2018 **Last updated:** 21/04/2022
 
 [View](/sk/documents/overview/verzenios-epar-medicine-overview_sk.pdf)
 
 slovenščina (SL) (129.37 KB - PDF)
 
-**First published:**
-
-29/10/2018
-
-**Last updated:**
-
-21/04/2022
+**First published:** 29/10/2018 **Last updated:** 21/04/2022
 
 [View](/sl/documents/overview/verzenios-epar-medicine-overview_sl.pdf)
 
 Suomi (FI) (106.81 KB - PDF)
 
-**First published:**
-
-29/10/2018
-
-**Last updated:**
-
-21/04/2022
+**First published:** 29/10/2018 **Last updated:** 21/04/2022
 
 [View](/fi/documents/overview/verzenios-epar-medicine-overview_fi.pdf)
 
 svenska (SV) (108.17 KB - PDF)
 
-**First published:**
-
-29/10/2018
-
-**Last updated:**
-
-21/04/2022
+**First published:** 29/10/2018 **Last updated:** 21/04/2022
 
 [View](/sv/documents/overview/verzenios-epar-medicine-overview_sv.pdf)
 
@@ -389,9 +257,7 @@ Verzenios : EPAR - Risk management plan
 
 English (EN) (811.54 KB - PDF)
 
-**First published:** 29/10/2018
-
-**Last updated:** 25/02/2026
+**First published:** 29/10/2018 **Last updated:** 25/02/2026
 
 [View](/en/documents/rmp/verzenios-epar-risk-management-plan_en.pdf)
 
@@ -401,303 +267,159 @@ Verzenios : EPAR - Product information
 
 English (EN) (1.58 MB - PDF)
 
-**First published:** 29/10/2018
-
-**Last updated:** 25/02/2026
+**First published:** 29/10/2018 **Last updated:** 25/02/2026
 
 [View](/en/documents/product-information/verzenios-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-873)
+[Other languages (24)](#file-language-dropdown-695)
 
 български (BG) (1.44 MB - PDF)
 
-**First published:**
-
-29/10/2018
-
-**Last updated:**
-
-25/02/2026
+**First published:** 29/10/2018 **Last updated:** 25/02/2026
 
 [View](/bg/documents/product-information/verzenios-epar-product-information_bg.pdf)
 
 español (ES) (1.49 MB - PDF)
 
-**First published:**
-
-29/10/2018
-
-**Last updated:**
-
-25/02/2026
+**First published:** 29/10/2018 **Last updated:** 25/02/2026
 
 [View](/es/documents/product-information/verzenios-epar-product-information_es.pdf)
 
 čeština (CS) (1.58 MB - PDF)
 
-**First published:**
-
-29/10/2018
-
-**Last updated:**
-
-25/02/2026
+**First published:** 29/10/2018 **Last updated:** 25/02/2026
 
 [View](/cs/documents/product-information/verzenios-epar-product-information_cs.pdf)
 
 dansk (DA) (2 MB - PDF)
 
-**First published:**
-
-29/10/2018
-
-**Last updated:**
-
-25/02/2026
+**First published:** 29/10/2018 **Last updated:** 25/02/2026
 
 [View](/da/documents/product-information/verzenios-epar-product-information_da.pdf)
 
 Deutsch (DE) (1.65 MB - PDF)
 
-**First published:**
-
-29/10/2018
-
-**Last updated:**
-
-25/02/2026
+**First published:** 29/10/2018 **Last updated:** 25/02/2026
 
 [View](/de/documents/product-information/verzenios-epar-product-information_de.pdf)
 
 eesti keel (ET) (1.04 MB - PDF)
 
-**First published:**
-
-29/10/2018
-
-**Last updated:**
-
-25/02/2026
+**First published:** 29/10/2018 **Last updated:** 25/02/2026
 
 [View](/et/documents/product-information/verzenios-epar-product-information_et.pdf)
 
 ελληνικά (EL) (2.13 MB - PDF)
 
-**First published:**
-
-29/10/2018
-
-**Last updated:**
-
-25/02/2026
+**First published:** 29/10/2018 **Last updated:** 25/02/2026
 
 [View](/el/documents/product-information/verzenios-epar-product-information_el.pdf)
 
 français (FR) (1.45 MB - PDF)
 
-**First published:**
-
-29/10/2018
-
-**Last updated:**
-
-25/02/2026
+**First published:** 29/10/2018 **Last updated:** 25/02/2026
 
 [View](/fr/documents/product-information/verzenios-epar-product-information_fr.pdf)
 
 hrvatski (HR) (1.99 MB - PDF)
 
-**First published:**
-
-29/10/2018
-
-**Last updated:**
-
-25/02/2026
+**First published:** 29/10/2018 **Last updated:** 25/02/2026
 
 [View](/hr/documents/product-information/verzenios-epar-product-information_hr.pdf)
 
 íslenska (IS) (1.09 MB - PDF)
 
-**First published:**
-
-29/10/2018
-
-**Last updated:**
-
-25/02/2026
+**First published:** 29/10/2018 **Last updated:** 25/02/2026
 
 [View](/is/documents/product-information/verzenios-epar-product-information_is.pdf)
 
 italiano (IT) (1.22 MB - PDF)
 
-**First published:**
-
-29/10/2018
-
-**Last updated:**
-
-25/02/2026
+**First published:** 29/10/2018 **Last updated:** 25/02/2026
 
 [View](/it/documents/product-information/verzenios-epar-product-information_it.pdf)
 
 latviešu valoda (LV) (2.12 MB - PDF)
 
-**First published:**
-
-29/10/2018
-
-**Last updated:**
-
-25/02/2026
+**First published:** 29/10/2018 **Last updated:** 25/02/2026
 
 [View](/lv/documents/product-information/verzenios-epar-product-information_lv.pdf)
 
 lietuvių kalba (LT) (1.54 MB - PDF)
 
-**First published:**
-
-29/10/2018
-
-**Last updated:**
-
-25/02/2026
+**First published:** 29/10/2018 **Last updated:** 25/02/2026
 
 [View](/lt/documents/product-information/verzenios-epar-product-information_lt.pdf)
 
 magyar (HU) (1.27 MB - PDF)
 
-**First published:**
-
-29/10/2018
-
-**Last updated:**
-
-25/02/2026
+**First published:** 29/10/2018 **Last updated:** 25/02/2026
 
 [View](/hu/documents/product-information/verzenios-epar-product-information_hu.pdf)
 
 Malti (MT) (1.37 MB - PDF)
 
-**First published:**
-
-29/10/2018
-
-**Last updated:**
-
-25/02/2026
+**First published:** 29/10/2018 **Last updated:** 25/02/2026
 
 [View](/mt/documents/product-information/verzenios-epar-product-information_mt.pdf)
 
 Nederlands (NL) (1.81 MB - PDF)
 
-**First published:**
-
-29/10/2018
-
-**Last updated:**
-
-25/02/2026
+**First published:** 29/10/2018 **Last updated:** 25/02/2026
 
 [View](/nl/documents/product-information/verzenios-epar-product-information_nl.pdf)
 
 norsk (NO) (1.61 MB - PDF)
 
-**First published:**
-
-29/10/2018
-
-**Last updated:**
-
-25/02/2026
+**First published:** 29/10/2018 **Last updated:** 25/02/2026
 
 [View](/no/documents/product-information/verzenios-epar-product-information_no.pdf)
 
 polski (PL) (1.64 MB - PDF)
 
-**First published:**
-
-29/10/2018
-
-**Last updated:**
-
-25/02/2026
+**First published:** 29/10/2018 **Last updated:** 25/02/2026
 
 [View](/pl/documents/product-information/verzenios-epar-product-information_pl.pdf)
 
 português (PT) (1.26 MB - PDF)
 
-**First published:**
-
-29/10/2018
-
-**Last updated:**
-
-25/02/2026
+**First published:** 29/10/2018 **Last updated:** 25/02/2026
 
 [View](/pt/documents/product-information/verzenios-epar-product-information_pt.pdf)
 
 română (RO) (1.27 MB - PDF)
 
-**First published:**
-
-29/10/2018
-
-**Last updated:**
-
-25/02/2026
+**First published:** 29/10/2018 **Last updated:** 25/02/2026
 
 [View](/ro/documents/product-information/verzenios-epar-product-information_ro.pdf)
 
 slovenčina (SK) (1.38 MB - PDF)
 
-**First published:**
-
-29/10/2018
-
-**Last updated:**
-
-25/02/2026
+**First published:** 29/10/2018 **Last updated:** 25/02/2026
 
 [View](/sk/documents/product-information/verzenios-epar-product-information_sk.pdf)
 
 slovenščina (SL) (1.77 MB - PDF)
 
-**First published:**
-
-29/10/2018
-
-**Last updated:**
-
-25/02/2026
+**First published:** 29/10/2018 **Last updated:** 25/02/2026
 
 [View](/sl/documents/product-information/verzenios-epar-product-information_sl.pdf)
 
 Suomi (FI) (1.76 MB - PDF)
 
-**First published:**
-
-29/10/2018
-
-**Last updated:**
-
-25/02/2026
+**First published:** 29/10/2018 **Last updated:** 25/02/2026
 
 [View](/fi/documents/product-information/verzenios-epar-product-information_fi.pdf)
 
 svenska (SV) (850.36 KB - PDF)
 
-**First published:**
-
-29/10/2018
-
-**Last updated:**
-
-25/02/2026
+**First published:** 29/10/2018 **Last updated:** 25/02/2026
 
 [View](/sv/documents/product-information/verzenios-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000307389 29/01/2026
+**Latest procedure affecting product information:** VR/0000307389
+
+29/01/2026
 
 icon globe
 
@@ -717,305 +439,177 @@ Verzenios : EPAR - All Authorised presentations
 
 English (EN) (26.18 KB - PDF)
 
-**First published:** 29/10/2018
-
-**Last updated:** 21/01/2019
+**First published:** 29/10/2018 **Last updated:** 21/01/2019
 
 [View](/en/documents/all-authorised-presentations/verzenios-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-307)
+[Other languages (24)](#file-language-dropdown-788)
 
 български (BG) (67.38 KB - PDF)
 
-**First published:**
-
-29/10/2018
-
-**Last updated:**
-
-21/01/2019
+**First published:** 29/10/2018 **Last updated:** 21/01/2019
 
 [View](/bg/documents/all-authorised-presentations/verzenios-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (59.94 KB - PDF)
 
-**First published:**
-
-29/10/2018
-
-**Last updated:**
-
-21/01/2019
+**First published:** 29/10/2018 **Last updated:** 21/01/2019
 
 [View](/es/documents/all-authorised-presentations/verzenios-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (33.9 KB - PDF)
 
-**First published:**
-
-29/10/2018
-
-**Last updated:**
-
-21/01/2019
+**First published:** 29/10/2018 **Last updated:** 21/01/2019
 
 [View](/cs/documents/all-authorised-presentations/verzenios-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (21.75 KB - PDF)
 
-**First published:**
-
-29/10/2018
-
-**Last updated:**
-
-21/01/2019
+**First published:** 29/10/2018 **Last updated:** 21/01/2019
 
 [View](/da/documents/all-authorised-presentations/verzenios-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (26.55 KB - PDF)
 
-**First published:**
-
-29/10/2018
-
-**Last updated:**
-
-21/01/2019
+**First published:** 29/10/2018 **Last updated:** 21/01/2019
 
 [View](/de/documents/all-authorised-presentations/verzenios-epar-all-authorised-presentations_de.pdf)
 
 eesti keel (ET) (15.93 KB - PDF)
 
-**First published:**
-
-29/10/2018
-
-**Last updated:**
-
-21/01/2019
+**First published:** 29/10/2018 **Last updated:** 21/01/2019
 
 [View](/et/documents/all-authorised-presentations/verzenios-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (47.9 KB - PDF)
 
-**First published:**
-
-29/10/2018
-
-**Last updated:**
-
-21/01/2019
+**First published:** 29/10/2018 **Last updated:** 21/01/2019
 
 [View](/el/documents/all-authorised-presentations/verzenios-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (26.67 KB - PDF)
 
-**First published:**
-
-29/10/2018
-
-**Last updated:**
-
-21/01/2019
+**First published:** 29/10/2018 **Last updated:** 21/01/2019
 
 [View](/fr/documents/all-authorised-presentations/verzenios-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (43.13 KB - PDF)
 
-**First published:**
-
-29/10/2018
-
-**Last updated:**
-
-21/01/2019
+**First published:** 29/10/2018 **Last updated:** 21/01/2019
 
 [View](/hr/documents/all-authorised-presentations/verzenios-epar-all-authorised-presentations_hr.pdf)
 
 íslenska (IS) (21.59 KB - PDF)
 
-**First published:**
-
-29/10/2018
-
-**Last updated:**
-
-21/01/2019
+**First published:** 29/10/2018 **Last updated:** 21/01/2019
 
 [View](/is/documents/all-authorised-presentations/verzenios-epar-all-authorised-presentations_is.pdf)
 
 italiano (IT) (22.3 KB - PDF)
 
-**First published:**
-
-29/10/2018
-
-**Last updated:**
-
-21/01/2019
+**First published:** 29/10/2018 **Last updated:** 21/01/2019
 
 [View](/it/documents/all-authorised-presentations/verzenios-epar-all-authorised-presentations_it.pdf)
 
 latviešu valoda (LV) (47.36 KB - PDF)
 
-**First published:**
-
-29/10/2018
-
-**Last updated:**
-
-21/01/2019
+**First published:** 29/10/2018 **Last updated:** 21/01/2019
 
 [View](/lv/documents/all-authorised-presentations/verzenios-epar-all-authorised-presentations_lv.pdf)
 
 lietuvių kalba (LT) (48.3 KB - PDF)
 
-**First published:**
-
-29/10/2018
-
-**Last updated:**
-
-21/01/2019
+**First published:** 29/10/2018 **Last updated:** 21/01/2019
 
 [View](/lt/documents/all-authorised-presentations/verzenios-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (43.68 KB - PDF)
 
-**First published:**
-
-29/10/2018
-
-**Last updated:**
-
-21/01/2019
+**First published:** 29/10/2018 **Last updated:** 21/01/2019
 
 [View](/hu/documents/all-authorised-presentations/verzenios-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (38 KB - PDF)
 
-**First published:**
-
-29/10/2018
-
-**Last updated:**
-
-21/01/2019
+**First published:** 29/10/2018 **Last updated:** 21/01/2019
 
 [View](/mt/documents/all-authorised-presentations/verzenios-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (27.27 KB - PDF)
 
-**First published:**
-
-29/10/2018
-
-**Last updated:**
-
-21/01/2019
+**First published:** 29/10/2018 **Last updated:** 21/01/2019
 
 [View](/nl/documents/all-authorised-presentations/verzenios-epar-all-authorised-presentations_nl.pdf)
 
 norsk (NO) (25.98 KB - PDF)
 
-**First published:**
-
-29/10/2018
-
-**Last updated:**
-
-21/01/2019
+**First published:** 29/10/2018 **Last updated:** 21/01/2019
 
 [View](/no/documents/all-authorised-presentations/verzenios-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (35.42 KB - PDF)
 
-**First published:**
-
-29/10/2018
-
-**Last updated:**
-
-21/01/2019
+**First published:** 29/10/2018 **Last updated:** 21/01/2019
 
 [View](/pl/documents/all-authorised-presentations/verzenios-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (26.24 KB - PDF)
 
-**First published:**
-
-29/10/2018
-
-**Last updated:**
-
-21/01/2019
+**First published:** 29/10/2018 **Last updated:** 21/01/2019
 
 [View](/pt/documents/all-authorised-presentations/verzenios-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (62.36 KB - PDF)
 
-**First published:**
-
-29/10/2018
-
-**Last updated:**
-
-21/01/2019
+**First published:** 29/10/2018 **Last updated:** 21/01/2019
 
 [View](/ro/documents/all-authorised-presentations/verzenios-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (34.82 KB - PDF)
 
-**First published:**
-
-29/10/2018
-
-**Last updated:**
-
-21/01/2019
+**First published:** 29/10/2018 **Last updated:** 21/01/2019
 
 [View](/sk/documents/all-authorised-presentations/verzenios-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (33.12 KB - PDF)
 
-**First published:**
-
-29/10/2018
-
-**Last updated:**
-
-21/01/2019
+**First published:** 29/10/2018 **Last updated:** 21/01/2019
 
 [View](/sl/documents/all-authorised-presentations/verzenios-epar-all-authorised-presentations_sl.pdf)
 
 Suomi (FI) (26.5 KB - PDF)
 
-**First published:**
-
-29/10/2018
-
-**Last updated:**
-
-21/01/2019
+**First published:** 29/10/2018 **Last updated:** 21/01/2019
 
 [View](/fi/documents/all-authorised-presentations/verzenios-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (55.46 KB - PDF)
 
-**First published:**
-
-29/10/2018
-
-**Last updated:**
-
-21/01/2019
+**First published:** 29/10/2018 **Last updated:** 21/01/2019
 
 [View](/sv/documents/all-authorised-presentations/verzenios-epar-all-authorised-presentations_sv.pdf)
 
 ## Product details
 
-Name of medicine Verzenios Active substance abemaciclib International non-proprietary name (INN) or common name abemaciclib Therapeutic area (MeSH) Breast Neoplasms Anatomical therapeutic chemical (ATC) code L01EF03
+Name of medicine
+
+Verzenios
+
+Active substance
+
+abemaciclib
+
+International non-proprietary name (INN) or common name
+
+abemaciclib
+
+Therapeutic area (MeSH)
+
+Breast Neoplasms
+
+Anatomical therapeutic chemical (ATC) code
+
+L01EF03
 
 ### Pharmacotherapeutic group
 
@@ -1037,13 +631,27 @@ In pre- or perimenopausal women, the endocrine therapy should be combined with a
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/004302 Marketing authorisation holder
+EMA product number
+
+EMEA/H/C/004302
+
+Marketing authorisation holder
 
 Eli Lilly Nederland B.V.
 
 Orteliuslaan 1000 3528 BD Utrecht Netherlands
 
-Opinion adopted 25/07/2018 Marketing authorisation issued 26/09/2018 Revision 18
+Opinion adopted
+
+25/07/2018
+
+Marketing authorisation issued
+
+26/09/2018
+
+Revision
+
+19
 
 ## Assessment history
 
@@ -1055,11 +663,9 @@ Collapse section
 
 Verzenios : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (163.72 KB - PDF)
+English (EN) (155.9 KB - PDF)
 
-**First published:** 07/03/2025
-
-**Last updated:** 25/02/2026
+**First published:** 07/03/2025 **Last updated:** 27/05/2026
 
 [View](/en/documents/procedural-steps-after/verzenios-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1067,11 +673,19 @@ Verzenios : EPAR - Procedural steps taken and scientific information after autho
 
 English (EN) (199.9 KB - PDF)
 
-**First published:** 21/01/2019
-
-**Last updated:** 23/08/2024
+**First published:** 21/01/2019 **Last updated:** 23/08/2024
 
 [View](/en/documents/procedural-steps-after/verzenios-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
+
+Verzenios : EPAR - Statement indicating compliance with the agreed completed paediatric investigation plan
+
+Reference Number: EMADOC-1700519818-3051385
+
+English (EN) (116.98 KB - PDF)
+
+**First published:** 27/05/2026
+
+[View](/en/documents/pip-compliance/verzenios-epar-statement-indicating-compliance-agreed-completed-paediatric-investigation-plan_en.pdf)
 
 Verzenios-VR-0000282650 : EPAR - Assessment report - Variation
 
@@ -1085,9 +699,7 @@ English (EN) (643.93 KB - PDF)
 
 Verzenios-PAM-0000253564 : EPAR - Assessment report
 
-Adopted
-
-Reference Number: EMADOC-1700519818-1913499
+Adopted Reference Number: EMADOC-1700519818-1913499
 
 English (EN) (1.86 MB - PDF)
 
@@ -1107,9 +719,7 @@ English (EN) (95 KB - PDF)
 
 Verzenios-H-C-004302-II-0013: EPAR - Assessment report - Variation
 
-Adopted
-
-Reference Number: EMA/156033/2022
+Adopted Reference Number: EMA/156033/2022
 
 English (EN) (5.61 MB - PDF)
 
@@ -1119,9 +729,7 @@ English (EN) (5.61 MB - PDF)
 
 CHMP post-authorisation summary of opinion for Verzenios (II-13)
 
-Adopted
-
-Reference Number: EMA/CHMP/116347/2022
+Adopted Reference Number: EMA/CHMP/116347/2022
 
 English (EN) (186.14 KB - PDF)
 
@@ -1133,9 +741,7 @@ English (EN) (186.14 KB - PDF)
 
 Verzenios : EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/551438/2018
+Adopted Reference Number: EMA/551438/2018
 
 English (EN) (4.82 MB - PDF)
 
@@ -1145,37 +751,37 @@ English (EN) (4.82 MB - PDF)
 
 CHMP summary of positive opinion for Verzenios
 
-Adopted
-
-Reference Number: EMA/CHMP/420258/2018
+Adopted Reference Number: EMA/CHMP/420258/2018
 
 English (EN) (62.49 KB - PDF)
 
-**First published:** 27/07/2018
-
-**Last updated:** 27/07/2018
+**First published:** 27/07/2018 **Last updated:** 27/07/2018
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-verzenios_en.pdf)
 
 ## News on Verzenios
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 21-24 February 2022](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-21-24-february-2022) 25/02/2022
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 21-24 February 2022](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-21-24-february-2022)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 23-26 July 2018](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-23-26-july-2018) 27/07/2018
+25/02/2022
+
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 23-26 July 2018](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-23-26-july-2018)
+
+27/07/2018
 
 ## More information on Verzenios
 
 - [EMEA-002342-PIP01-18-M04 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-002342-pip01-18-m04)
 - [EMEA-002342-PIP03-18 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-002342-pip03-18)
-- [EMEA-002342-PIP02-18-M03 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-002342-pip02-18-m03)
+- [EMA/PE/0000228776 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/ema-pe-0000228776)
 - [EMEA-002342-PIP05-23 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-002342-pip05-23)
 
 ## Topics
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 25/02/2026
+**This page was last updated on**
+
+27/05/2026
 
 ## Share this page
-
-[Back to top](#main-content)

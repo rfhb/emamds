@@ -1,32 +1,32 @@
 ---
-document_datetime: 2025-12-29 10:16:59
+document_datetime: 2026-05-26 09:19:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/ucedane.html
 document_name: ucedane.html
 version: success
-processing_time: 0.1306064
-conversion_datetime: 2025-12-31 05:07:16.390655
+processing_time: 0.135377
+conversion_datetime: 2026-05-29 20:14:08.248943
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.20.0
+  docling-jobkit: 1.20.0
+  docling: 2.96.0
+  docling-core: 2.78.0
+  docling-ibm-models: 3.13.2
+  docling-parse: 6.2.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
 ---
 # Ucedane
 
 [RSS](/en/individual-human-medicine.xml/66791)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-carglumic acid Medicine Human Authorised
+carglumic acid
 
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
+Medicine Human Authorised
 
 Page contents
 
@@ -46,13 +46,6 @@ Page contents
 - European Commission decision
 
 ## Overview
-
-Ucedane is a medicine used for the treatment of hyperammonaemia (high blood levels of ammonia) in patients with the following metabolic diseases:
-
-- N acetylglutamate synthase (NAGS) deficiency. Patients with this lifelong disease lack a liver enzyme called NAGS, which normally helps to break down ammonia. If the enzyme is not present, ammonia cannot be broken down and it builds up in the blood;
-- some organic acidaemias (isovaleric acidaemia, methylmalonic acidaemia and propionic acidaemia) where patients lack certain enzymes involved in protein metabolism.
-
-Ucedane contains the active substance carglumic acid and is a 'generic medicine'. This means that Ucedane contains the same active substance and works in the same way as a 'reference medicine' already authorised in the European Union (EU) called Carbaglu.
 
 Expand section
 
@@ -100,275 +93,141 @@ Reference Number: EMA/450563/2021
 
 English (EN) (120.67 KB - PDF)
 
-**First published:** 30/06/2017
-
-**Last updated:** 22/03/2022
+**First published:** 30/06/2017 **Last updated:** 22/03/2022
 
 [View](/en/documents/overview/ucedane-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-305)
+[Other languages (22)](#file-language-dropdown-177)
 
 български (BG) (184.57 KB - PDF)
 
-**First published:**
-
-30/06/2017
-
-**Last updated:**
-
-22/03/2022
+**First published:** 30/06/2017 **Last updated:** 22/03/2022
 
 [View](/bg/documents/overview/ucedane-epar-summary-public_bg.pdf)
 
 español (ES) (161.33 KB - PDF)
 
-**First published:**
-
-30/06/2017
-
-**Last updated:**
-
-22/03/2022
+**First published:** 30/06/2017 **Last updated:** 22/03/2022
 
 [View](/es/documents/overview/ucedane-epar-summary-public_es.pdf)
 
 čeština (CS) (180.5 KB - PDF)
 
-**First published:**
-
-30/06/2017
-
-**Last updated:**
-
-22/03/2022
+**First published:** 30/06/2017 **Last updated:** 22/03/2022
 
 [View](/cs/documents/overview/ucedane-epar-summary-public_cs.pdf)
 
 dansk (DA) (160.47 KB - PDF)
 
-**First published:**
-
-30/06/2017
-
-**Last updated:**
-
-22/03/2022
+**First published:** 30/06/2017 **Last updated:** 22/03/2022
 
 [View](/da/documents/overview/ucedane-epar-summary-public_da.pdf)
 
 Deutsch (DE) (164.4 KB - PDF)
 
-**First published:**
-
-30/06/2017
-
-**Last updated:**
-
-22/03/2022
+**First published:** 30/06/2017 **Last updated:** 22/03/2022
 
 [View](/de/documents/overview/ucedane-epar-summary-public_de.pdf)
 
 eesti keel (ET) (148.02 KB - PDF)
 
-**First published:**
-
-30/06/2017
-
-**Last updated:**
-
-22/03/2022
+**First published:** 30/06/2017 **Last updated:** 22/03/2022
 
 [View](/et/documents/overview/ucedane-epar-summary-public_et.pdf)
 
 ελληνικά (EL) (184.83 KB - PDF)
 
-**First published:**
-
-30/06/2017
-
-**Last updated:**
-
-22/03/2022
+**First published:** 30/06/2017 **Last updated:** 22/03/2022
 
 [View](/el/documents/overview/ucedane-epar-summary-public_el.pdf)
 
 français (FR) (161.72 KB - PDF)
 
-**First published:**
-
-30/06/2017
-
-**Last updated:**
-
-22/03/2022
+**First published:** 30/06/2017 **Last updated:** 22/03/2022
 
 [View](/fr/documents/overview/ucedane-epar-summary-public_fr.pdf)
 
 hrvatski (HR) (179.71 KB - PDF)
 
-**First published:**
-
-30/06/2017
-
-**Last updated:**
-
-22/03/2022
+**First published:** 30/06/2017 **Last updated:** 22/03/2022
 
 [View](/hr/documents/overview/ucedane-epar-summary-public_hr.pdf)
 
 italiano (IT) (158.97 KB - PDF)
 
-**First published:**
-
-30/06/2017
-
-**Last updated:**
-
-22/03/2022
+**First published:** 30/06/2017 **Last updated:** 22/03/2022
 
 [View](/it/documents/overview/ucedane-epar-summary-public_it.pdf)
 
 latviešu valoda (LV) (187.14 KB - PDF)
 
-**First published:**
-
-30/06/2017
-
-**Last updated:**
-
-22/03/2022
+**First published:** 30/06/2017 **Last updated:** 22/03/2022
 
 [View](/lv/documents/overview/ucedane-epar-summary-public_lv.pdf)
 
 lietuvių kalba (LT) (179.57 KB - PDF)
 
-**First published:**
-
-30/06/2017
-
-**Last updated:**
-
-22/03/2022
+**First published:** 30/06/2017 **Last updated:** 22/03/2022
 
 [View](/lt/documents/overview/ucedane-epar-summary-public_lt.pdf)
 
 magyar (HU) (182.83 KB - PDF)
 
-**First published:**
-
-30/06/2017
-
-**Last updated:**
-
-22/03/2022
+**First published:** 30/06/2017 **Last updated:** 22/03/2022
 
 [View](/hu/documents/overview/ucedane-epar-summary-public_hu.pdf)
 
 Malti (MT) (181.33 KB - PDF)
 
-**First published:**
-
-30/06/2017
-
-**Last updated:**
-
-22/03/2022
+**First published:** 30/06/2017 **Last updated:** 22/03/2022
 
 [View](/mt/documents/overview/ucedane-epar-summary-public_mt.pdf)
 
 Nederlands (NL) (161.66 KB - PDF)
 
-**First published:**
-
-30/06/2017
-
-**Last updated:**
-
-22/03/2022
+**First published:** 30/06/2017 **Last updated:** 22/03/2022
 
 [View](/nl/documents/overview/ucedane-epar-summary-public_nl.pdf)
 
 polski (PL) (185.73 KB - PDF)
 
-**First published:**
-
-30/06/2017
-
-**Last updated:**
-
-22/03/2022
+**First published:** 30/06/2017 **Last updated:** 22/03/2022
 
 [View](/pl/documents/overview/ucedane-epar-summary-public_pl.pdf)
 
 português (PT) (160.75 KB - PDF)
 
-**First published:**
-
-30/06/2017
-
-**Last updated:**
-
-22/03/2022
+**First published:** 30/06/2017 **Last updated:** 22/03/2022
 
 [View](/pt/documents/overview/ucedane-epar-summary-public_pt.pdf)
 
 română (RO) (178.3 KB - PDF)
 
-**First published:**
-
-30/06/2017
-
-**Last updated:**
-
-22/03/2022
+**First published:** 30/06/2017 **Last updated:** 22/03/2022
 
 [View](/ro/documents/overview/ucedane-epar-summary-public_ro.pdf)
 
 slovenčina (SK) (182.22 KB - PDF)
 
-**First published:**
-
-30/06/2017
-
-**Last updated:**
-
-22/03/2022
+**First published:** 30/06/2017 **Last updated:** 22/03/2022
 
 [View](/sk/documents/overview/ucedane-epar-summary-public_sk.pdf)
 
 slovenščina (SL) (178.58 KB - PDF)
 
-**First published:**
-
-30/06/2017
-
-**Last updated:**
-
-22/03/2022
+**First published:** 30/06/2017 **Last updated:** 22/03/2022
 
 [View](/sl/documents/overview/ucedane-epar-summary-public_sl.pdf)
 
 Suomi (FI) (158.08 KB - PDF)
 
-**First published:**
-
-30/06/2017
-
-**Last updated:**
-
-22/03/2022
+**First published:** 30/06/2017 **Last updated:** 22/03/2022
 
 [View](/fi/documents/overview/ucedane-epar-summary-public_fi.pdf)
 
 svenska (SV) (158.86 KB - PDF)
 
-**First published:**
-
-30/06/2017
-
-**Last updated:**
-
-22/03/2022
+**First published:** 30/06/2017 **Last updated:** 22/03/2022
 
 [View](/sv/documents/overview/ucedane-epar-summary-public_sv.pdf)
 
@@ -376,305 +235,161 @@ svenska (SV) (158.86 KB - PDF)
 
 Ucedane : EPAR - Product Information
 
-English (EN) (265.09 KB - PDF)
+English (EN) (444.26 KB - PDF)
 
-**First published:** 30/06/2017
-
-**Last updated:** 25/09/2024
+**First published:** 30/06/2017 **Last updated:** 26/05/2026
 
 [View](/en/documents/product-information/ucedane-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-207)
+[Other languages (24)](#file-language-dropdown-680)
 
-български (BG) (348.03 KB - PDF)
+български (BG) (480.86 KB - PDF)
 
-**First published:**
-
-30/06/2017
-
-**Last updated:**
-
-25/09/2024
+**First published:** 30/06/2017 **Last updated:** 26/05/2026
 
 [View](/bg/documents/product-information/ucedane-epar-product-information_bg.pdf)
 
-español (ES) (271.25 KB - PDF)
+español (ES) (489.6 KB - PDF)
 
-**First published:**
-
-30/06/2017
-
-**Last updated:**
-
-25/09/2024
+**First published:** 30/06/2017 **Last updated:** 26/05/2026
 
 [View](/es/documents/product-information/ucedane-epar-product-information_es.pdf)
 
-čeština (CS) (323.36 KB - PDF)
+čeština (CS) (566.61 KB - PDF)
 
-**First published:**
-
-30/06/2017
-
-**Last updated:**
-
-25/09/2024
+**First published:** 30/06/2017 **Last updated:** 26/05/2026
 
 [View](/cs/documents/product-information/ucedane-epar-product-information_cs.pdf)
 
-dansk (DA) (242.56 KB - PDF)
+dansk (DA) (425.36 KB - PDF)
 
-**First published:**
-
-30/06/2017
-
-**Last updated:**
-
-25/09/2024
+**First published:** 30/06/2017 **Last updated:** 26/05/2026
 
 [View](/da/documents/product-information/ucedane-epar-product-information_da.pdf)
 
-Deutsch (DE) (259.37 KB - PDF)
+Deutsch (DE) (444.67 KB - PDF)
 
-**First published:**
-
-30/06/2017
-
-**Last updated:**
-
-25/09/2024
+**First published:** 30/06/2017 **Last updated:** 26/05/2026
 
 [View](/de/documents/product-information/ucedane-epar-product-information_de.pdf)
 
-eesti keel (ET) (235.17 KB - PDF)
+eesti keel (ET) (410.29 KB - PDF)
 
-**First published:**
-
-30/06/2017
-
-**Last updated:**
-
-25/09/2024
+**First published:** 30/06/2017 **Last updated:** 26/05/2026
 
 [View](/et/documents/product-information/ucedane-epar-product-information_et.pdf)
 
-ελληνικά (EL) (323.91 KB - PDF)
+ελληνικά (EL) (491.45 KB - PDF)
 
-**First published:**
-
-30/06/2017
-
-**Last updated:**
-
-25/09/2024
+**First published:** 30/06/2017 **Last updated:** 26/05/2026
 
 [View](/el/documents/product-information/ucedane-epar-product-information_el.pdf)
 
-français (FR) (296.58 KB - PDF)
+français (FR) (434.44 KB - PDF)
 
-**First published:**
-
-30/06/2017
-
-**Last updated:**
-
-25/09/2024
+**First published:** 30/06/2017 **Last updated:** 26/05/2026
 
 [View](/fr/documents/product-information/ucedane-epar-product-information_fr.pdf)
 
-hrvatski (HR) (298.36 KB - PDF)
+hrvatski (HR) (435.58 KB - PDF)
 
-**First published:**
-
-30/06/2017
-
-**Last updated:**
-
-25/09/2024
+**First published:** 30/06/2017 **Last updated:** 26/05/2026
 
 [View](/hr/documents/product-information/ucedane-epar-product-information_hr.pdf)
 
-íslenska (IS) (261.75 KB - PDF)
+íslenska (IS) (489.41 KB - PDF)
 
-**First published:**
-
-30/06/2017
-
-**Last updated:**
-
-25/09/2024
+**First published:** 30/06/2017 **Last updated:** 26/05/2026
 
 [View](/is/documents/product-information/ucedane-epar-product-information_is.pdf)
 
-italiano (IT) (305.77 KB - PDF)
+italiano (IT) (511.82 KB - PDF)
 
-**First published:**
-
-30/06/2017
-
-**Last updated:**
-
-25/09/2024
+**First published:** 30/06/2017 **Last updated:** 26/05/2026
 
 [View](/it/documents/product-information/ucedane-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (297.88 KB - PDF)
+latviešu valoda (LV) (436.46 KB - PDF)
 
-**First published:**
-
-30/06/2017
-
-**Last updated:**
-
-25/09/2024
+**First published:** 30/06/2017 **Last updated:** 26/05/2026
 
 [View](/lv/documents/product-information/ucedane-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (290.8 KB - PDF)
+lietuvių kalba (LT) (426.09 KB - PDF)
 
-**First published:**
-
-30/06/2017
-
-**Last updated:**
-
-25/09/2024
+**First published:** 30/06/2017 **Last updated:** 26/05/2026
 
 [View](/lt/documents/product-information/ucedane-epar-product-information_lt.pdf)
 
-magyar (HU) (300.4 KB - PDF)
+magyar (HU) (437.88 KB - PDF)
 
-**First published:**
-
-30/06/2017
-
-**Last updated:**
-
-25/09/2024
+**First published:** 30/06/2017 **Last updated:** 26/05/2026
 
 [View](/hu/documents/product-information/ucedane-epar-product-information_hu.pdf)
 
-Malti (MT) (324.94 KB - PDF)
+Malti (MT) (488.59 KB - PDF)
 
-**First published:**
-
-30/06/2017
-
-**Last updated:**
-
-25/09/2024
+**First published:** 30/06/2017 **Last updated:** 26/05/2026
 
 [View](/mt/documents/product-information/ucedane-epar-product-information_mt.pdf)
 
-Nederlands (NL) (241.9 KB - PDF)
+Nederlands (NL) (388.17 KB - PDF)
 
-**First published:**
-
-30/06/2017
-
-**Last updated:**
-
-25/09/2024
+**First published:** 30/06/2017 **Last updated:** 26/05/2026
 
 [View](/nl/documents/product-information/ucedane-epar-product-information_nl.pdf)
 
-norsk (NO) (253.78 KB - PDF)
+norsk (NO) (481.31 KB - PDF)
 
-**First published:**
-
-30/06/2017
-
-**Last updated:**
-
-25/09/2024
+**First published:** 30/06/2017 **Last updated:** 26/05/2026
 
 [View](/no/documents/product-information/ucedane-epar-product-information_no.pdf)
 
-polski (PL) (309.04 KB - PDF)
+polski (PL) (448.37 KB - PDF)
 
-**First published:**
-
-30/06/2017
-
-**Last updated:**
-
-25/09/2024
+**First published:** 30/06/2017 **Last updated:** 26/05/2026
 
 [View](/pl/documents/product-information/ucedane-epar-product-information_pl.pdf)
 
-português (PT) (241.18 KB - PDF)
+português (PT) (417.39 KB - PDF)
 
-**First published:**
-
-30/06/2017
-
-**Last updated:**
-
-25/09/2024
+**First published:** 30/06/2017 **Last updated:** 26/05/2026
 
 [View](/pt/documents/product-information/ucedane-epar-product-information_pt.pdf)
 
-română (RO) (298.3 KB - PDF)
+română (RO) (439.72 KB - PDF)
 
-**First published:**
-
-30/06/2017
-
-**Last updated:**
-
-25/09/2024
+**First published:** 30/06/2017 **Last updated:** 26/05/2026
 
 [View](/ro/documents/product-information/ucedane-epar-product-information_ro.pdf)
 
-slovenčina (SK) (298.93 KB - PDF)
+slovenčina (SK) (435.42 KB - PDF)
 
-**First published:**
-
-30/06/2017
-
-**Last updated:**
-
-25/09/2024
+**First published:** 30/06/2017 **Last updated:** 26/05/2026
 
 [View](/sk/documents/product-information/ucedane-epar-product-information_sk.pdf)
 
-slovenščina (SL) (289.15 KB - PDF)
+slovenščina (SL) (425.67 KB - PDF)
 
-**First published:**
-
-30/06/2017
-
-**Last updated:**
-
-25/09/2024
+**First published:** 30/06/2017 **Last updated:** 26/05/2026
 
 [View](/sl/documents/product-information/ucedane-epar-product-information_sl.pdf)
 
-Suomi (FI) (214.53 KB - PDF)
+Suomi (FI) (389.05 KB - PDF)
 
-**First published:**
-
-30/06/2017
-
-**Last updated:**
-
-25/09/2024
+**First published:** 30/06/2017 **Last updated:** 26/05/2026
 
 [View](/fi/documents/product-information/ucedane-epar-product-information_fi.pdf)
 
-svenska (SV) (237.39 KB - PDF)
+svenska (SV) (416.55 KB - PDF)
 
-**First published:**
-
-30/06/2017
-
-**Last updated:**
-
-25/09/2024
+**First published:** 30/06/2017 **Last updated:** 26/05/2026
 
 [View](/sv/documents/product-information/ucedane-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** N/0017 24/09/2024
+**Latest procedure affecting product information:** VR/0000341449
+
+20/05/2026
 
 icon globe
 
@@ -694,310 +409,178 @@ Ucedane : EPAR - All Authorised presentations
 
 English (EN) (17.59 KB - PDF)
 
-**First published:** 30/06/2017
-
-**Last updated:** 28/09/2017
+**First published:** 30/06/2017 **Last updated:** 28/09/2017
 
 [View](/en/documents/all-authorised-presentations/ucedane-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-672)
+[Other languages (24)](#file-language-dropdown-697)
 
 български (BG) (42.1 KB - PDF)
 
-**First published:**
-
-30/06/2017
-
-**Last updated:**
-
-28/09/2017
+**First published:** 30/06/2017 **Last updated:** 28/09/2017
 
 [View](/bg/documents/all-authorised-presentations/ucedane-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (17.41 KB - PDF)
 
-**First published:**
-
-30/06/2017
-
-**Last updated:**
-
-28/09/2017
+**First published:** 30/06/2017 **Last updated:** 28/09/2017
 
 [View](/es/documents/all-authorised-presentations/ucedane-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (26.92 KB - PDF)
 
-**First published:**
-
-30/06/2017
-
-**Last updated:**
-
-28/09/2017
+**First published:** 30/06/2017 **Last updated:** 28/09/2017
 
 [View](/cs/documents/all-authorised-presentations/ucedane-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (28.95 KB - PDF)
 
-**First published:**
-
-30/06/2017
-
-**Last updated:**
-
-28/09/2017
+**First published:** 30/06/2017 **Last updated:** 28/09/2017
 
 [View](/da/documents/all-authorised-presentations/ucedane-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (17.63 KB - PDF)
 
-**First published:**
-
-30/06/2017
-
-**Last updated:**
-
-28/09/2017
+**First published:** 30/06/2017 **Last updated:** 28/09/2017
 
 [View](/de/documents/all-authorised-presentations/ucedane-epar-all-authorised-presentations_de.pdf)
 
 eesti keel (ET) (17.15 KB - PDF)
 
-**First published:**
-
-30/06/2017
-
-**Last updated:**
-
-28/09/2017
+**First published:** 30/06/2017 **Last updated:** 28/09/2017
 
 [View](/et/documents/all-authorised-presentations/ucedane-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (45.7 KB - PDF)
 
-**First published:**
-
-30/06/2017
-
-**Last updated:**
-
-28/09/2017
+**First published:** 30/06/2017 **Last updated:** 28/09/2017
 
 [View](/el/documents/all-authorised-presentations/ucedane-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (17.37 KB - PDF)
 
-**First published:**
-
-30/06/2017
-
-**Last updated:**
-
-28/09/2017
+**First published:** 30/06/2017 **Last updated:** 28/09/2017
 
 [View](/fr/documents/all-authorised-presentations/ucedane-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (28.49 KB - PDF)
 
-**First published:**
-
-30/06/2017
-
-**Last updated:**
-
-28/09/2017
+**First published:** 30/06/2017 **Last updated:** 28/09/2017
 
 [View](/hr/documents/all-authorised-presentations/ucedane-epar-all-authorised-presentations_hr.pdf)
 
 íslenska (IS) (16.98 KB - PDF)
 
-**First published:**
-
-30/06/2017
-
-**Last updated:**
-
-28/09/2017
+**First published:** 30/06/2017 **Last updated:** 28/09/2017
 
 [View](/is/documents/all-authorised-presentations/ucedane-epar-all-authorised-presentations_is.pdf)
 
 italiano (IT) (17.26 KB - PDF)
 
-**First published:**
-
-30/06/2017
-
-**Last updated:**
-
-28/09/2017
+**First published:** 30/06/2017 **Last updated:** 28/09/2017
 
 [View](/it/documents/all-authorised-presentations/ucedane-epar-all-authorised-presentations_it.pdf)
 
 latviešu valoda (LV) (44.11 KB - PDF)
 
-**First published:**
-
-30/06/2017
-
-**Last updated:**
-
-28/09/2017
+**First published:** 30/06/2017 **Last updated:** 28/09/2017
 
 [View](/lv/documents/all-authorised-presentations/ucedane-epar-all-authorised-presentations_lv.pdf)
 
 lietuvių kalba (LT) (43.43 KB - PDF)
 
-**First published:**
-
-30/06/2017
-
-**Last updated:**
-
-28/09/2017
+**First published:** 30/06/2017 **Last updated:** 28/09/2017
 
 [View](/lt/documents/all-authorised-presentations/ucedane-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (43.2 KB - PDF)
 
-**First published:**
-
-30/06/2017
-
-**Last updated:**
-
-28/09/2017
+**First published:** 30/06/2017 **Last updated:** 28/09/2017
 
 [View](/hu/documents/all-authorised-presentations/ucedane-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (42.55 KB - PDF)
 
-**First published:**
-
-30/06/2017
-
-**Last updated:**
-
-28/09/2017
+**First published:** 30/06/2017 **Last updated:** 28/09/2017
 
 [View](/mt/documents/all-authorised-presentations/ucedane-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (17.23 KB - PDF)
 
-**First published:**
-
-30/06/2017
-
-**Last updated:**
-
-28/09/2017
+**First published:** 30/06/2017 **Last updated:** 28/09/2017
 
 [View](/nl/documents/all-authorised-presentations/ucedane-epar-all-authorised-presentations_nl.pdf)
 
 norsk (NO) (19.16 KB - PDF)
 
-**First published:**
-
-30/06/2017
-
-**Last updated:**
-
-28/09/2017
+**First published:** 30/06/2017 **Last updated:** 28/09/2017
 
 [View](/no/documents/all-authorised-presentations/ucedane-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (29.44 KB - PDF)
 
-**First published:**
-
-30/06/2017
-
-**Last updated:**
-
-28/09/2017
+**First published:** 30/06/2017 **Last updated:** 28/09/2017
 
 [View](/pl/documents/all-authorised-presentations/ucedane-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (17.35 KB - PDF)
 
-**First published:**
-
-30/06/2017
-
-**Last updated:**
-
-28/09/2017
+**First published:** 30/06/2017 **Last updated:** 28/09/2017
 
 [View](/pt/documents/all-authorised-presentations/ucedane-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (41.95 KB - PDF)
 
-**First published:**
-
-30/06/2017
-
-**Last updated:**
-
-28/09/2017
+**First published:** 30/06/2017 **Last updated:** 28/09/2017
 
 [View](/ro/documents/all-authorised-presentations/ucedane-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (42.89 KB - PDF)
 
-**First published:**
-
-30/06/2017
-
-**Last updated:**
-
-28/09/2017
+**First published:** 30/06/2017 **Last updated:** 28/09/2017
 
 [View](/sk/documents/all-authorised-presentations/ucedane-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (28.7 KB - PDF)
 
-**First published:**
-
-30/06/2017
-
-**Last updated:**
-
-28/09/2017
+**First published:** 30/06/2017 **Last updated:** 28/09/2017
 
 [View](/sl/documents/all-authorised-presentations/ucedane-epar-all-authorised-presentations_sl.pdf)
 
 Suomi (FI) (17.05 KB - PDF)
 
-**First published:**
-
-30/06/2017
-
-**Last updated:**
-
-28/09/2017
+**First published:** 30/06/2017 **Last updated:** 28/09/2017
 
 [View](/fi/documents/all-authorised-presentations/ucedane-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (10 KB - PDF)
 
-**First published:**
-
-30/06/2017
-
-**Last updated:**
-
-28/09/2017
+**First published:** 30/06/2017 **Last updated:** 28/09/2017
 
 [View](/sv/documents/all-authorised-presentations/ucedane-epar-all-authorised-presentations_sv.pdf)
 
 ## Product details
 
-Name of medicine Ucedane Active substance carglumic acid International non-proprietary name (INN) or common name carglumic acid Therapeutic area (MeSH)
+Name of medicine
+
+Ucedane
+
+Active substance
+
+carglumic acid
+
+International non-proprietary name (INN) or common name
+
+carglumic acid
+
+Therapeutic area (MeSH)
 
 - Hyperammonemia
 - Amino Acid Metabolism, Inborn Errors
 
-Anatomical therapeutic chemical (ATC) code A16AA05
+Anatomical therapeutic chemical (ATC) code
+
+A16AA05
 
 ### Pharmacotherapeutic group
 
@@ -1014,7 +597,9 @@ Ucedane is indicated in treatment of:
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/004019
+EMA product number
+
+EMEA/H/C/004019
 
 Generic
 
@@ -1026,7 +611,17 @@ Eurocept International BV
 
 Trapgans 5
 
-Opinion adopted 21/04/2017 Marketing authorisation issued 23/06/2017 Revision 13
+Opinion adopted
+
+21/04/2017
+
+Marketing authorisation issued
+
+23/06/2017
+
+Revision
+
+14
 
 ## Assessment history
 
@@ -1038,49 +633,49 @@ Collapse section
 
 Ucedane : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (124.4 KB - PDF)
+English (EN) (137.03 KB - PDF)
 
-**First published:** 28/09/2017
-
-**Last updated:** 25/09/2024
+**First published:** 26/05/2026
 
 [View](/en/documents/procedural-steps-after/ucedane-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+
+Ucedane : EPAR - Procedural steps taken and scientific information after authorisation (archive)
+
+English (EN) (124.4 KB - PDF)
+
+**First published:** 28/09/2017 **Last updated:** 25/09/2024
+
+[View](/en/documents/procedural-steps-after/ucedane-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 ## Initial marketing authorisation documents
 
 Ucedane : EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/CHMP/404487/2017
+Adopted Reference Number: EMA/CHMP/404487/2017
 
 English (EN) (337.55 KB - PDF)
 
-**First published:** 30/06/2017
-
-**Last updated:** 30/06/2017
+**First published:** 30/06/2017 **Last updated:** 30/06/2017
 
 [View](/en/documents/assessment-report/ucedane-epar-public-assessment-report_en.pdf)
 
 CHMP summary of positive opinion for Ucedane
 
-Adopted
-
-Reference Number: EMA/CHMP/253159/2017
+Adopted Reference Number: EMA/CHMP/253159/2017
 
 English (EN) (65.86 KB - PDF)
 
-**First published:** 21/04/2017
-
-**Last updated:** 21/04/2017
+**First published:** 21/04/2017 **Last updated:** 21/04/2017
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-ucedane_en.pdf)
 
-#### News on Ucedane
+## News on Ucedane
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 18-21 April 2017](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-18-21-april-2017) 21/04/2017
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 18-21 April 2017](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-18-21-april-2017)
 
-#### More information on Ucedane
+21/04/2017
+
+## More information on Ucedane
 
 Questions and answers on generic medicines
 
@@ -1088,285 +683,151 @@ Reference Number: EMA/393905/2006 Rev. 2
 
 English (EN) (66.45 KB - PDF)
 
-**First published:** 09/07/2007
-
-**Last updated:** 07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-573)
+[Other languages (22)](#file-language-dropdown-479)
 
 български (BG) (93.16 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/bg/documents/other/questions-and-answers-generic-medicines_bg.pdf)
 
 español (ES) (68.3 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/es/documents/other/questions-and-answers-generic-medicines_es.pdf)
 
 čeština (CS) (87.71 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/cs/documents/other/questions-and-answers-generic-medicines_cs.pdf)
 
 dansk (DA) (66.79 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/da/documents/other/questions-and-answers-generic-medicines_da.pdf)
 
 Deutsch (DE) (67.55 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/de/documents/other/questions-and-answers-generic-medicines_de.pdf)
 
 eesti keel (ET) (65.21 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/et/documents/other/questions-and-answers-generic-medicines_et.pdf)
 
 ελληνικά (EL) (91.29 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/el/documents/other/questions-and-answers-generic-medicines_el.pdf)
 
 français (FR) (68.35 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/fr/documents/other/questions-and-answers-generic-medicines_fr.pdf)
 
 hrvatski (HR) (87.8 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/hr/documents/other/questions-and-answers-generic-medicines_hr.pdf)
 
 italiano (IT) (67.62 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/it/documents/other/questions-and-answers-generic-medicines_it.pdf)
 
 latviešu valoda (LV) (111.81 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/lv/documents/other/questions-and-answers-generic-medicines_lv.pdf)
 
 lietuvių kalba (LT) (86.76 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/lt/documents/other/questions-and-answers-generic-medicines_lt.pdf)
 
 magyar (HU) (85.76 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/hu/documents/other/questions-and-answers-generic-medicines_hu.pdf)
 
 Malti (MT) (89.35 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/mt/documents/other/questions-and-answers-generic-medicines_mt.pdf)
 
 Nederlands (NL) (66.81 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/nl/documents/other/questions-and-answers-generic-medicines_nl.pdf)
 
 polski (PL) (88.51 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/pl/documents/other/questions-and-answers-generic-medicines_pl.pdf)
 
 português (PT) (68.32 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/pt/documents/other/questions-and-answers-generic-medicines_pt.pdf)
 
 română (RO) (86.9 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/ro/documents/other/questions-and-answers-generic-medicines_ro.pdf)
 
 slovenčina (SK) (87.73 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/sk/documents/other/questions-and-answers-generic-medicines_sk.pdf)
 
 slovenščina (SL) (84.8 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/sl/documents/other/questions-and-answers-generic-medicines_sl.pdf)
 
 Suomi (FI) (66.21 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/fi/documents/other/questions-and-answers-generic-medicines_fi.pdf)
 
 svenska (SV) (67.11 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/sv/documents/other/questions-and-answers-generic-medicines_sv.pdf)
 
-#### Topics
+## Topics
 
 - [Generic and hybrid medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A54)
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 25/09/2024
+**This page was last updated on**
+
+26/05/2026
 
 ## Share this page
-
-[Back to top](#main-content)

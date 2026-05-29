@@ -1,32 +1,32 @@
 ---
-document_datetime: 2025-12-29 12:23:10
+document_datetime: 2026-05-26 16:55:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/pomalidomide-zentiva.html
 document_name: pomalidomide-zentiva.html
 version: success
-processing_time: 0.1426071
-conversion_datetime: 2025-12-31 05:06:02.433345
+processing_time: 0.1426295
+conversion_datetime: 2026-05-29 20:15:09.209169
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.20.0
+  docling-jobkit: 1.20.0
+  docling: 2.96.0
+  docling-core: 2.78.0
+  docling-ibm-models: 3.13.2
+  docling-parse: 6.2.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
 ---
 # Pomalidomide Zentiva
 
 [RSS](/en/individual-human-medicine.xml/243397)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-pomalidomide Medicine Human Authorised
+pomalidomide
 
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
+Medicine Human Authorised
 
 Page contents
 
@@ -98,283 +98,149 @@ Reference Number: EMA/351964/2024
 
 English (EN) (135.49 KB - PDF)
 
-**First published:** 01/08/2024
-
-**Last updated:** 25/09/2024
+**First published:** 01/08/2024 **Last updated:** 25/09/2024
 
 [View](/en/documents/overview/pomalidomide-zentiva-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-722)
+[Other languages (22)](#file-language-dropdown-529)
 
 български (BG) (160.95 KB - PDF)
 
-**First published:**
-
-01/08/2024
-
-**Last updated:**
-
-25/09/2024
+**First published:** 01/08/2024 **Last updated:** 25/09/2024
 
 [View](/bg/documents/overview/pomalidomide-zentiva-epar-medicine-overview_bg.pdf)
 
 español (ES) (140.94 KB - PDF)
 
-**First published:**
-
-01/08/2024
-
-**Last updated:**
-
-25/09/2024
+**First published:** 01/08/2024 **Last updated:** 25/09/2024
 
 [View](/es/documents/overview/pomalidomide-zentiva-epar-medicine-overview_es.pdf)
 
 čeština (CS) (160.98 KB - PDF)
 
-**First published:**
-
-01/08/2024
-
-**Last updated:**
-
-25/09/2024
+**First published:** 01/08/2024 **Last updated:** 25/09/2024
 
 [View](/cs/documents/overview/pomalidomide-zentiva-epar-medicine-overview_cs.pdf)
 
 dansk (DA) (139.7 KB - PDF)
 
-**First published:**
-
-01/08/2024
-
-**Last updated:**
-
-25/09/2024
+**First published:** 01/08/2024 **Last updated:** 25/09/2024
 
 [View](/da/documents/overview/pomalidomide-zentiva-epar-medicine-overview_da.pdf)
 
 Deutsch (DE) (143.13 KB - PDF)
 
-**First published:**
-
-01/08/2024
-
-**Last updated:**
-
-25/09/2024
+**First published:** 01/08/2024 **Last updated:** 25/09/2024
 
 [View](/de/documents/overview/pomalidomide-zentiva-epar-medicine-overview_de.pdf)
 
 eesti keel (ET) (137.98 KB - PDF)
 
-**First published:**
-
-01/08/2024
-
-**Last updated:**
-
-25/09/2024
+**First published:** 01/08/2024 **Last updated:** 25/09/2024
 
 [View](/et/documents/overview/pomalidomide-zentiva-epar-medicine-overview_et.pdf)
 
 ελληνικά (EL) (162.82 KB - PDF)
 
-**First published:**
-
-01/08/2024
-
-**Last updated:**
-
-25/09/2024
+**First published:** 01/08/2024 **Last updated:** 25/09/2024
 
 [View](/el/documents/overview/pomalidomide-zentiva-epar-medicine-overview_el.pdf)
 
 français (FR) (142.58 KB - PDF)
 
-**First published:**
-
-01/08/2024
-
-**Last updated:**
-
-25/09/2024
+**First published:** 01/08/2024 **Last updated:** 25/09/2024
 
 [View](/fr/documents/overview/pomalidomide-zentiva-epar-medicine-overview_fr.pdf)
 
 hrvatski (HR) (158.55 KB - PDF)
 
-**First published:**
-
-01/08/2024
-
-**Last updated:**
-
-25/09/2024
+**First published:** 01/08/2024 **Last updated:** 25/09/2024
 
 [View](/hr/documents/overview/pomalidomide-zentiva-epar-medicine-overview_hr.pdf)
 
 italiano (IT) (138.97 KB - PDF)
 
-**First published:**
-
-01/08/2024
-
-**Last updated:**
-
-25/09/2024
+**First published:** 01/08/2024 **Last updated:** 25/09/2024
 
 [View](/it/documents/overview/pomalidomide-zentiva-epar-medicine-overview_it.pdf)
 
 latviešu valoda (LV) (176.07 KB - PDF)
 
-**First published:**
-
-01/08/2024
-
-**Last updated:**
-
-25/09/2024
+**First published:** 01/08/2024 **Last updated:** 25/09/2024
 
 [View](/lv/documents/overview/pomalidomide-zentiva-epar-medicine-overview_lv.pdf)
 
 lietuvių kalba (LT) (160 KB - PDF)
 
-**First published:**
-
-01/08/2024
-
-**Last updated:**
-
-25/09/2024
+**First published:** 01/08/2024 **Last updated:** 25/09/2024
 
 [View](/lt/documents/overview/pomalidomide-zentiva-epar-medicine-overview_lt.pdf)
 
 magyar (HU) (162.9 KB - PDF)
 
-**First published:**
-
-01/08/2024
-
-**Last updated:**
-
-25/09/2024
+**First published:** 01/08/2024 **Last updated:** 25/09/2024
 
 [View](/hu/documents/overview/pomalidomide-zentiva-epar-medicine-overview_hu.pdf)
 
 Malti (MT) (162.91 KB - PDF)
 
-**First published:**
-
-01/08/2024
-
-**Last updated:**
-
-25/09/2024
+**First published:** 01/08/2024 **Last updated:** 25/09/2024
 
 [View](/mt/documents/overview/pomalidomide-zentiva-epar-medicine-overview_mt.pdf)
 
 Nederlands (NL) (141.12 KB - PDF)
 
-**First published:**
-
-01/08/2024
-
-**Last updated:**
-
-25/09/2024
+**First published:** 01/08/2024 **Last updated:** 25/09/2024
 
 [View](/nl/documents/overview/pomalidomide-zentiva-epar-medicine-overview_nl.pdf)
 
 polski (PL) (162.92 KB - PDF)
 
-**First published:**
-
-01/08/2024
-
-**Last updated:**
-
-25/09/2024
+**First published:** 01/08/2024 **Last updated:** 25/09/2024
 
 [View](/pl/documents/overview/pomalidomide-zentiva-epar-medicine-overview_pl.pdf)
 
 português (PT) (141.53 KB - PDF)
 
-**First published:**
-
-01/08/2024
-
-**Last updated:**
-
-25/09/2024
+**First published:** 01/08/2024 **Last updated:** 25/09/2024
 
 [View](/pt/documents/overview/pomalidomide-zentiva-epar-medicine-overview_pt.pdf)
 
 română (RO) (156.64 KB - PDF)
 
-**First published:**
-
-01/08/2024
-
-**Last updated:**
-
-25/09/2024
+**First published:** 01/08/2024 **Last updated:** 25/09/2024
 
 [View](/ro/documents/overview/pomalidomide-zentiva-epar-medicine-overview_ro.pdf)
 
 slovenčina (SK) (160.88 KB - PDF)
 
-**First published:**
-
-01/08/2024
-
-**Last updated:**
-
-25/09/2024
+**First published:** 01/08/2024 **Last updated:** 25/09/2024
 
 [View](/sk/documents/overview/pomalidomide-zentiva-epar-medicine-overview_sk.pdf)
 
 slovenščina (SL) (158.04 KB - PDF)
 
-**First published:**
-
-01/08/2024
-
-**Last updated:**
-
-25/09/2024
+**First published:** 01/08/2024 **Last updated:** 25/09/2024
 
 [View](/sl/documents/overview/pomalidomide-zentiva-epar-medicine-overview_sl.pdf)
 
 Suomi (FI) (137.99 KB - PDF)
 
-**First published:**
-
-01/08/2024
-
-**Last updated:**
-
-25/09/2024
+**First published:** 01/08/2024 **Last updated:** 25/09/2024
 
 [View](/fi/documents/overview/pomalidomide-zentiva-epar-medicine-overview_fi.pdf)
 
 svenska (SV) (138.83 KB - PDF)
 
-**First published:**
-
-01/08/2024
-
-**Last updated:**
-
-25/09/2024
+**First published:** 01/08/2024 **Last updated:** 25/09/2024
 
 [View](/sv/documents/overview/pomalidomide-zentiva-epar-medicine-overview_sv.pdf)
 
 Pomalidomide Zentiva : EPAR - Risk management plan
 
-English (EN) (711.75 KB - PDF)
+English (EN) (797.84 KB - PDF)
 
-**First published:** 01/08/2024
+**First published:** 01/08/2024 **Last updated:** 26/05/2026
 
 [View](/en/documents/rmp/pomalidomide-zentiva-epar-risk-management-plan_en.pdf)
 
@@ -382,305 +248,161 @@ English (EN) (711.75 KB - PDF)
 
 Pomalidomide Zentiva : EPAR - Product information
 
-English (EN) (491.13 KB - PDF)
+English (EN) (996.61 KB - PDF)
 
-**First published:** 01/08/2024
-
-**Last updated:** 12/05/2025
+**First published:** 01/08/2024 **Last updated:** 26/05/2026
 
 [View](/en/documents/product-information/pomalidomide-zentiva-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-42)
+[Other languages (24)](#file-language-dropdown-554)
 
-български (BG) (1.02 MB - PDF)
+български (BG) (845.9 KB - PDF)
 
-**First published:**
-
-01/08/2024
-
-**Last updated:**
-
-12/05/2025
+**First published:** 01/08/2024 **Last updated:** 26/05/2026
 
 [View](/bg/documents/product-information/pomalidomide-zentiva-epar-product-information_bg.pdf)
 
-español (ES) (885.68 KB - PDF)
+español (ES) (900.03 KB - PDF)
 
-**First published:**
-
-01/08/2024
-
-**Last updated:**
-
-12/05/2025
+**First published:** 01/08/2024 **Last updated:** 26/05/2026
 
 [View](/es/documents/product-information/pomalidomide-zentiva-epar-product-information_es.pdf)
 
-čeština (CS) (979.93 KB - PDF)
+čeština (CS) (987.44 KB - PDF)
 
-**First published:**
-
-01/08/2024
-
-**Last updated:**
-
-12/05/2025
+**First published:** 01/08/2024 **Last updated:** 26/05/2026
 
 [View](/cs/documents/product-information/pomalidomide-zentiva-epar-product-information_cs.pdf)
 
-dansk (DA) (614.37 KB - PDF)
+dansk (DA) (1015.75 KB - PDF)
 
-**First published:**
-
-01/08/2024
-
-**Last updated:**
-
-12/05/2025
+**First published:** 01/08/2024 **Last updated:** 26/05/2026
 
 [View](/da/documents/product-information/pomalidomide-zentiva-epar-product-information_da.pdf)
 
-Deutsch (DE) (906.43 KB - PDF)
+Deutsch (DE) (744 KB - PDF)
 
-**First published:**
-
-01/08/2024
-
-**Last updated:**
-
-12/05/2025
+**First published:** 01/08/2024 **Last updated:** 26/05/2026
 
 [View](/de/documents/product-information/pomalidomide-zentiva-epar-product-information_de.pdf)
 
-eesti keel (ET) (817.78 KB - PDF)
+eesti keel (ET) (782.96 KB - PDF)
 
-**First published:**
-
-01/08/2024
-
-**Last updated:**
-
-12/05/2025
+**First published:** 01/08/2024 **Last updated:** 26/05/2026
 
 [View](/et/documents/product-information/pomalidomide-zentiva-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.02 MB - PDF)
+ελληνικά (EL) (1.16 MB - PDF)
 
-**First published:**
-
-01/08/2024
-
-**Last updated:**
-
-12/05/2025
+**First published:** 01/08/2024 **Last updated:** 26/05/2026
 
 [View](/el/documents/product-information/pomalidomide-zentiva-epar-product-information_el.pdf)
 
-français (FR) (778.44 KB - PDF)
+français (FR) (505.23 KB - PDF)
 
-**First published:**
-
-01/08/2024
-
-**Last updated:**
-
-12/05/2025
+**First published:** 01/08/2024 **Last updated:** 26/05/2026
 
 [View](/fr/documents/product-information/pomalidomide-zentiva-epar-product-information_fr.pdf)
 
-hrvatski (HR) (975.49 KB - PDF)
+hrvatski (HR) (980.91 KB - PDF)
 
-**First published:**
-
-01/08/2024
-
-**Last updated:**
-
-12/05/2025
+**First published:** 01/08/2024 **Last updated:** 26/05/2026
 
 [View](/hr/documents/product-information/pomalidomide-zentiva-epar-product-information_hr.pdf)
 
-íslenska (IS) (728.44 KB - PDF)
+íslenska (IS) (810.9 KB - PDF)
 
-**First published:**
-
-01/08/2024
-
-**Last updated:**
-
-12/05/2025
+**First published:** 01/08/2024 **Last updated:** 26/05/2026
 
 [View](/is/documents/product-information/pomalidomide-zentiva-epar-product-information_is.pdf)
 
-italiano (IT) (872.77 KB - PDF)
+italiano (IT) (882.17 KB - PDF)
 
-**First published:**
-
-01/08/2024
-
-**Last updated:**
-
-12/05/2025
+**First published:** 01/08/2024 **Last updated:** 26/05/2026
 
 [View](/it/documents/product-information/pomalidomide-zentiva-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (1.02 MB - PDF)
+latviešu valoda (LV) (985.63 KB - PDF)
 
-**First published:**
-
-01/08/2024
-
-**Last updated:**
-
-12/05/2025
+**First published:** 01/08/2024 **Last updated:** 26/05/2026
 
 [View](/lv/documents/product-information/pomalidomide-zentiva-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (897.3 KB - PDF)
+lietuvių kalba (LT) (633.79 KB - PDF)
 
-**First published:**
-
-01/08/2024
-
-**Last updated:**
-
-12/05/2025
+**First published:** 01/08/2024 **Last updated:** 26/05/2026
 
 [View](/lt/documents/product-information/pomalidomide-zentiva-epar-product-information_lt.pdf)
 
-magyar (HU) (918.04 KB - PDF)
+magyar (HU) (911.81 KB - PDF)
 
-**First published:**
-
-01/08/2024
-
-**Last updated:**
-
-12/05/2025
+**First published:** 01/08/2024 **Last updated:** 26/05/2026
 
 [View](/hu/documents/product-information/pomalidomide-zentiva-epar-product-information_hu.pdf)
 
-Malti (MT) (1013.09 KB - PDF)
+Malti (MT) (1.19 MB - PDF)
 
-**First published:**
-
-01/08/2024
-
-**Last updated:**
-
-12/05/2025
+**First published:** 01/08/2024 **Last updated:** 26/05/2026
 
 [View](/mt/documents/product-information/pomalidomide-zentiva-epar-product-information_mt.pdf)
 
-Nederlands (NL) (659.43 KB - PDF)
+Nederlands (NL) (1.9 MB - PDF)
 
-**First published:**
-
-01/08/2024
-
-**Last updated:**
-
-12/05/2025
+**First published:** 01/08/2024 **Last updated:** 26/05/2026
 
 [View](/nl/documents/product-information/pomalidomide-zentiva-epar-product-information_nl.pdf)
 
-norsk (NO) (831.85 KB - PDF)
+norsk (NO) (897.49 KB - PDF)
 
-**First published:**
-
-01/08/2024
-
-**Last updated:**
-
-12/05/2025
+**First published:** 01/08/2024 **Last updated:** 26/05/2026
 
 [View](/no/documents/product-information/pomalidomide-zentiva-epar-product-information_no.pdf)
 
-polski (PL) (1010.53 KB - PDF)
+polski (PL) (1017.53 KB - PDF)
 
-**First published:**
-
-01/08/2024
-
-**Last updated:**
-
-12/05/2025
+**First published:** 01/08/2024 **Last updated:** 26/05/2026
 
 [View](/pl/documents/product-information/pomalidomide-zentiva-epar-product-information_pl.pdf)
 
-português (PT) (820.42 KB - PDF)
+português (PT) (614.34 KB - PDF)
 
-**First published:**
-
-01/08/2024
-
-**Last updated:**
-
-12/05/2025
+**First published:** 01/08/2024 **Last updated:** 26/05/2026
 
 [View](/pt/documents/product-information/pomalidomide-zentiva-epar-product-information_pt.pdf)
 
-română (RO) (1 MB - PDF)
+română (RO) (817.87 KB - PDF)
 
-**First published:**
-
-01/08/2024
-
-**Last updated:**
-
-12/05/2025
+**First published:** 01/08/2024 **Last updated:** 26/05/2026
 
 [View](/ro/documents/product-information/pomalidomide-zentiva-epar-product-information_ro.pdf)
 
-slovenčina (SK) (956.6 KB - PDF)
+slovenčina (SK) (1.09 MB - PDF)
 
-**First published:**
-
-01/08/2024
-
-**Last updated:**
-
-12/05/2025
+**First published:** 01/08/2024 **Last updated:** 26/05/2026
 
 [View](/sk/documents/product-information/pomalidomide-zentiva-epar-product-information_sk.pdf)
 
-slovenščina (SL) (1.19 MB - PDF)
+slovenščina (SL) (987.15 KB - PDF)
 
-**First published:**
-
-01/08/2024
-
-**Last updated:**
-
-12/05/2025
+**First published:** 01/08/2024 **Last updated:** 26/05/2026
 
 [View](/sl/documents/product-information/pomalidomide-zentiva-epar-product-information_sl.pdf)
 
-Suomi (FI) (772.53 KB - PDF)
+Suomi (FI) (834.89 KB - PDF)
 
-**First published:**
-
-01/08/2024
-
-**Last updated:**
-
-12/05/2025
+**First published:** 01/08/2024 **Last updated:** 26/05/2026
 
 [View](/fi/documents/product-information/pomalidomide-zentiva-epar-product-information_fi.pdf)
 
-svenska (SV) (784.2 KB - PDF)
+svenska (SV) (851.99 KB - PDF)
 
-**First published:**
-
-01/08/2024
-
-**Last updated:**
-
-12/05/2025
+**First published:** 01/08/2024 **Last updated:** 26/05/2026
 
 [View](/sv/documents/product-information/pomalidomide-zentiva-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** N/0000268710 12/05/2025
+**Latest procedure affecting product information:** VR/0000341639
+
+26/05/2026
 
 icon globe
 
@@ -704,197 +426,149 @@ English (EN) (36.1 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/pomalidomide-zentiva-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-855)
+[Other languages (24)](#file-language-dropdown-907)
 
 български (BG) (65.86 KB - PDF)
 
-**First published:**
-
-01/08/2024
+**First published:** 01/08/2024
 
 [View](/bg/documents/all-authorised-presentations/pomalidomide-zentiva-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (23.39 KB - PDF)
 
-**First published:**
-
-01/08/2024
+**First published:** 01/08/2024
 
 [View](/es/documents/all-authorised-presentations/pomalidomide-zentiva-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (50.03 KB - PDF)
 
-**First published:**
-
-01/08/2024
+**First published:** 01/08/2024
 
 [View](/cs/documents/all-authorised-presentations/pomalidomide-zentiva-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (35.36 KB - PDF)
 
-**First published:**
-
-01/08/2024
+**First published:** 01/08/2024
 
 [View](/da/documents/all-authorised-presentations/pomalidomide-zentiva-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (50.24 KB - PDF)
 
-**First published:**
-
-01/08/2024
+**First published:** 01/08/2024
 
 [View](/de/documents/all-authorised-presentations/pomalidomide-zentiva-epar-all-authorised-presentations_de.pdf)
 
 eesti keel (ET) (50.85 KB - PDF)
 
-**First published:**
-
-01/08/2024
+**First published:** 01/08/2024
 
 [View](/et/documents/all-authorised-presentations/pomalidomide-zentiva-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (73.64 KB - PDF)
 
-**First published:**
-
-01/08/2024
+**First published:** 01/08/2024
 
 [View](/el/documents/all-authorised-presentations/pomalidomide-zentiva-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (48.32 KB - PDF)
 
-**First published:**
-
-01/08/2024
+**First published:** 01/08/2024
 
 [View](/fr/documents/all-authorised-presentations/pomalidomide-zentiva-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (70.75 KB - PDF)
 
-**First published:**
-
-01/08/2024
+**First published:** 01/08/2024
 
 [View](/hr/documents/all-authorised-presentations/pomalidomide-zentiva-epar-all-authorised-presentations_hr.pdf)
 
 íslenska (IS) (31.17 KB - PDF)
 
-**First published:**
-
-01/08/2024
+**First published:** 01/08/2024
 
 [View](/is/documents/all-authorised-presentations/pomalidomide-zentiva-epar-all-authorised-presentations_is.pdf)
 
 italiano (IT) (22.16 KB - PDF)
 
-**First published:**
-
-01/08/2024
+**First published:** 01/08/2024
 
 [View](/it/documents/all-authorised-presentations/pomalidomide-zentiva-epar-all-authorised-presentations_it.pdf)
 
 latviešu valoda (LV) (61.89 KB - PDF)
 
-**First published:**
-
-01/08/2024
+**First published:** 01/08/2024
 
 [View](/lv/documents/all-authorised-presentations/pomalidomide-zentiva-epar-all-authorised-presentations_lv.pdf)
 
 lietuvių kalba (LT) (66.51 KB - PDF)
 
-**First published:**
-
-01/08/2024
+**First published:** 01/08/2024
 
 [View](/lt/documents/all-authorised-presentations/pomalidomide-zentiva-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (67.93 KB - PDF)
 
-**First published:**
-
-01/08/2024
+**First published:** 01/08/2024
 
 [View](/hu/documents/all-authorised-presentations/pomalidomide-zentiva-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (69.85 KB - PDF)
 
-**First published:**
-
-01/08/2024
+**First published:** 01/08/2024
 
 [View](/mt/documents/all-authorised-presentations/pomalidomide-zentiva-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (35.69 KB - PDF)
 
-**First published:**
-
-01/08/2024
+**First published:** 01/08/2024
 
 [View](/nl/documents/all-authorised-presentations/pomalidomide-zentiva-epar-all-authorised-presentations_nl.pdf)
 
 norsk (NO) (34.99 KB - PDF)
 
-**First published:**
-
-01/08/2024
+**First published:** 01/08/2024
 
 [View](/no/documents/all-authorised-presentations/pomalidomide-zentiva-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (98.19 KB - PDF)
 
-**First published:**
-
-01/08/2024
+**First published:** 01/08/2024
 
 [View](/pl/documents/all-authorised-presentations/pomalidomide-zentiva-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (40.88 KB - PDF)
 
-**First published:**
-
-01/08/2024
+**First published:** 01/08/2024
 
 [View](/pt/documents/all-authorised-presentations/pomalidomide-zentiva-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (69.61 KB - PDF)
 
-**First published:**
-
-01/08/2024
+**First published:** 01/08/2024
 
 [View](/ro/documents/all-authorised-presentations/pomalidomide-zentiva-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (68.46 KB - PDF)
 
-**First published:**
-
-01/08/2024
+**First published:** 01/08/2024
 
 [View](/sk/documents/all-authorised-presentations/pomalidomide-zentiva-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (50.73 KB - PDF)
 
-**First published:**
-
-01/08/2024
+**First published:** 01/08/2024
 
 [View](/sl/documents/all-authorised-presentations/pomalidomide-zentiva-epar-all-authorised-presentations_sl.pdf)
 
 Suomi (FI) (29.92 KB - PDF)
 
-**First published:**
-
-01/08/2024
+**First published:** 01/08/2024
 
 [View](/fi/documents/all-authorised-presentations/pomalidomide-zentiva-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (35.21 KB - PDF)
 
-**First published:**
-
-01/08/2024
+**First published:** 01/08/2024
 
 [View](/sv/documents/all-authorised-presentations/pomalidomide-zentiva-epar-all-authorised-presentations_sv.pdf)
 
@@ -906,211 +580,179 @@ English (EN) (81.87 KB - PDF)
 
 [View](/en/documents/conditions-member-states/pomalidomide-zentiva-epar-conditions-imposed-member-states-safe-effective-use-annex-related-art-127a_en.pdf)
 
-[Other languages (25)](#file-language-dropdown-452)
+[Other languages (25)](#file-language-dropdown-703)
 
 български (BG) (118.02 KB - PDF)
 
-**First published:**
-
-01/08/2024
+**First published:** 01/08/2024
 
 [View](/bg/documents/conditions-member-states/pomalidomide-zentiva-epar-conditions-imposed-member-states-safe-effective-use-annex-related-art-127a_bg.pdf)
 
 español (ES) (144.49 KB - PDF)
 
-**First published:**
-
-01/08/2024
+**First published:** 01/08/2024
 
 [View](/es/documents/conditions-member-states/pomalidomide-zentiva-epar-conditions-imposed-member-states-safe-effective-use-annex-related-art-127a_es.pdf)
 
 čeština (CS) (126.29 KB - PDF)
 
-**First published:**
-
-01/08/2024
+**First published:** 01/08/2024
 
 [View](/cs/documents/conditions-member-states/pomalidomide-zentiva-epar-conditions-imposed-member-states-safe-effective-use-annex-related-art-127a_cs.pdf)
 
 dansk (DA) (65.71 KB - PDF)
 
-**First published:**
-
-01/08/2024
+**First published:** 01/08/2024
 
 [View](/da/documents/conditions-member-states/pomalidomide-zentiva-epar-conditions-imposed-member-states-safe-effective-use-annex-related-art-127a_da.pdf)
 
 Deutsch (DE) (80.45 KB - PDF)
 
-**First published:**
-
-01/08/2024
+**First published:** 01/08/2024
 
 [View](/de/documents/conditions-member-states/pomalidomide-zentiva-epar-conditions-imposed-member-states-safe-effective-use-annex-related-art-127a_de.pdf)
 
 eesti keel (ET) (63.65 KB - PDF)
 
-**First published:**
-
-01/08/2024
+**First published:** 01/08/2024
 
 [View](/et/documents/conditions-member-states/pomalidomide-zentiva-epar-conditions-imposed-member-states-safe-effective-use-annex-related-art-127a_et.pdf)
 
 ελληνικά (EL) (115.23 KB - PDF)
 
-**First published:**
-
-01/08/2024
+**First published:** 01/08/2024
 
 [View](/el/documents/conditions-member-states/pomalidomide-zentiva-epar-conditions-imposed-member-states-safe-effective-use-annex-related-art-127a_el.pdf)
 
 français (FR) (120.2 KB - PDF)
 
-**First published:**
-
-01/08/2024
+**First published:** 01/08/2024
 
 [View](/fr/documents/conditions-member-states/pomalidomide-zentiva-epar-conditions-imposed-member-states-safe-effective-use-annex-related-art-127a_fr.pdf)
 
 hrvatski (HR) (113.57 KB - PDF)
 
-**First published:**
-
-01/08/2024
+**First published:** 01/08/2024
 
 [View](/hr/documents/conditions-member-states/pomalidomide-zentiva-epar-conditions-imposed-member-states-safe-effective-use-annex-related-art-127a_hr.pdf)
 
 íslenska (IS) (61.88 KB - PDF)
 
-**First published:**
-
-01/08/2024
+**First published:** 01/08/2024
 
 [View](/is/documents/conditions-member-states/pomalidomide-zentiva-epar-conditions-imposed-member-states-safe-effective-use-annex-related-art-127a_is.pdf)
 
 Gaeilge (GA) (126.1 KB - PDF)
 
-**First published:**
-
-01/08/2024
+**First published:** 01/08/2024
 
 [View](/ga/documents/conditions-member-states/pomalidomide-zentiva-epar-conditions-imposed-member-states-safe-effective-use-annex-related-art-127a_ga.pdf)
 
 italiano (IT) (62.51 KB - PDF)
 
-**First published:**
-
-01/08/2024
+**First published:** 01/08/2024
 
 [View](/it/documents/conditions-member-states/pomalidomide-zentiva-epar-conditions-imposed-member-states-safe-effective-use-annex-related-art-127a_it.pdf)
 
 latviešu valoda (LV) (111.51 KB - PDF)
 
-**First published:**
-
-01/08/2024
+**First published:** 01/08/2024
 
 [View](/lv/documents/conditions-member-states/pomalidomide-zentiva-epar-conditions-imposed-member-states-safe-effective-use-annex-related-art-127a_lv.pdf)
 
 lietuvių kalba (LT) (122.05 KB - PDF)
 
-**First published:**
-
-01/08/2024
+**First published:** 01/08/2024
 
 [View](/lt/documents/conditions-member-states/pomalidomide-zentiva-epar-conditions-imposed-member-states-safe-effective-use-annex-related-art-127a_lt.pdf)
 
 magyar (HU) (107.71 KB - PDF)
 
-**First published:**
-
-01/08/2024
+**First published:** 01/08/2024
 
 [View](/hu/documents/conditions-member-states/pomalidomide-zentiva-epar-conditions-imposed-member-states-safe-effective-use-annex-related-art-127a_hu.pdf)
 
 Malti (MT) (155.88 KB - PDF)
 
-**First published:**
-
-01/08/2024
+**First published:** 01/08/2024
 
 [View](/mt/documents/conditions-member-states/pomalidomide-zentiva-epar-conditions-imposed-member-states-safe-effective-use-annex-related-art-127a_mt.pdf)
 
 Nederlands (NL) (139.5 KB - PDF)
 
-**First published:**
-
-01/08/2024
+**First published:** 01/08/2024
 
 [View](/nl/documents/conditions-member-states/pomalidomide-zentiva-epar-conditions-imposed-member-states-safe-effective-use-annex-related-art-127a_nl.pdf)
 
 norsk (NO) (67.64 KB - PDF)
 
-**First published:**
-
-01/08/2024
+**First published:** 01/08/2024
 
 [View](/no/documents/conditions-member-states/pomalidomide-zentiva-epar-conditions-imposed-member-states-safe-effective-use-annex-related-art-127a_no.pdf)
 
 polski (PL) (98.59 KB - PDF)
 
-**First published:**
-
-01/08/2024
+**First published:** 01/08/2024
 
 [View](/pl/documents/conditions-member-states/pomalidomide-zentiva-epar-conditions-imposed-member-states-safe-effective-use-annex-related-art-127a_pl.pdf)
 
 português (PT) (67.79 KB - PDF)
 
-**First published:**
-
-01/08/2024
+**First published:** 01/08/2024
 
 [View](/pt/documents/conditions-member-states/pomalidomide-zentiva-epar-conditions-imposed-member-states-safe-effective-use-annex-related-art-127a_pt.pdf)
 
 română (RO) (120.44 KB - PDF)
 
-**First published:**
-
-01/08/2024
+**First published:** 01/08/2024
 
 [View](/ro/documents/conditions-member-states/pomalidomide-zentiva-epar-conditions-imposed-member-states-safe-effective-use-annex-related-art-127a_ro.pdf)
 
 slovenčina (SK) (115.53 KB - PDF)
 
-**First published:**
-
-01/08/2024
+**First published:** 01/08/2024
 
 [View](/sk/documents/conditions-member-states/pomalidomide-zentiva-epar-conditions-imposed-member-states-safe-effective-use-annex-related-art-127a_sk.pdf)
 
 slovenščina (SL) (167.58 KB - PDF)
 
-**First published:**
-
-01/08/2024
+**First published:** 01/08/2024
 
 [View](/sl/documents/conditions-member-states/pomalidomide-zentiva-epar-conditions-imposed-member-states-safe-effective-use-annex-related-art-127a_sl.pdf)
 
 Suomi (FI) (65.8 KB - PDF)
 
-**First published:**
-
-01/08/2024
+**First published:** 01/08/2024
 
 [View](/fi/documents/conditions-member-states/pomalidomide-zentiva-epar-conditions-imposed-member-states-safe-effective-use-annex-related-art-127a_fi.pdf)
 
 svenska (SV) (75.75 KB - PDF)
 
-**First published:**
-
-01/08/2024
+**First published:** 01/08/2024
 
 [View](/sv/documents/conditions-member-states/pomalidomide-zentiva-epar-conditions-imposed-member-states-safe-effective-use-annex-related-art-127a_sv.pdf)
 
 ## Product details
 
-Name of medicine Pomalidomide Zentiva Active substance Pomalidomide International non-proprietary name (INN) or common name pomalidomide Therapeutic area (MeSH) Multiple Myeloma Anatomical therapeutic chemical (ATC) code L04AX06
+Name of medicine
+
+Pomalidomide Zentiva
+
+Active substance
+
+Pomalidomide
+
+International non-proprietary name (INN) or common name
+
+pomalidomide
+
+Therapeutic area (MeSH)
+
+Multiple Myeloma
+
+Anatomical therapeutic chemical (ATC) code
+
+L04AX06
 
 ### Pharmacotherapeutic group
 
@@ -1124,7 +766,9 @@ Pomalidomide Zentiva in combination with dexamethasone is indicated in the treat
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/006294
+EMA product number
+
+EMEA/H/C/006294
 
 Generic
 
@@ -1136,7 +780,17 @@ Zentiva, k.s.
 
 U kabelovny 130
 
-Opinion adopted 30/05/2024 Marketing authorisation issued 24/07/2024 Revision 1
+Opinion adopted
+
+30/05/2024
+
+Marketing authorisation issued
+
+24/07/2024
+
+Revision
+
+2
 
 ## Assessment history
 
@@ -1148,9 +802,9 @@ Collapse section
 
 Pomalidomide Zentiva : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (140.38 KB - PDF)
+English (EN) (153.76 KB - PDF)
 
-**First published:** 12/05/2025
+**First published:** 12/05/2025 **Last updated:** 26/05/2026
 
 [View](/en/documents/procedural-steps-after/pomalidomide-zentiva-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1158,9 +812,7 @@ English (EN) (140.38 KB - PDF)
 
 Pomalidomide Zentiva : EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/290725/2024
+Adopted Reference Number: EMA/290725/2024
 
 English (EN) (908.21 KB - PDF)
 
@@ -1170,9 +822,7 @@ English (EN) (908.21 KB - PDF)
 
 CHMP summary of positive opinion for Pomalidomide Zentiva
 
-Adopted
-
-Reference Number: EMA/CHMP/227782/2024
+Adopted Reference Number: EMA/CHMP/227782/2024
 
 English (EN) (153.11 KB - PDF)
 
@@ -1180,11 +830,13 @@ English (EN) (153.11 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-pomalidomide-zentiva_en.pdf)
 
-#### News on Pomalidomide Zentiva
+## News on Pomalidomide Zentiva
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 27-30 May 2024](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-27-30-may-2024) 31/05/2024
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 27-30 May 2024](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-27-30-may-2024)
 
-#### Product information - with tracked changes
+31/05/2024
+
+## Product information - with tracked changes
 
 The approved product information for this medicine is available below showing the changes since the previous procedure affecting the product information. The same document without tracked changes is above under 'Product information'.
 
@@ -1196,202 +848,154 @@ English (EN) (351.02 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/pomalidomide-zentiva-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-305)
+[Other languages (24)](#file-language-dropdown-33)
 
 български (BG) (1017.31 KB - DOCX)
 
-**First published:**
-
-12/05/2025
+**First published:** 12/05/2025
 
 [View](/bg/documents/product-information-tracked-changes/pomalidomide-zentiva-epar-product-information-tracked-changes_bg.docx)
 
 español (ES) (1.19 MB - DOCX)
 
-**First published:**
-
-12/05/2025
+**First published:** 12/05/2025
 
 [View](/es/documents/product-information-tracked-changes/pomalidomide-zentiva-epar-product-information-tracked-changes_es.docx)
 
 čeština (CS) (576.47 KB - DOCX)
 
-**First published:**
-
-12/05/2025
+**First published:** 12/05/2025
 
 [View](/cs/documents/product-information-tracked-changes/pomalidomide-zentiva-epar-product-information-tracked-changes_cs.docx)
 
 dansk (DA) (870.4 KB - DOCX)
 
-**First published:**
-
-12/05/2025
+**First published:** 12/05/2025
 
 [View](/da/documents/product-information-tracked-changes/pomalidomide-zentiva-epar-product-information-tracked-changes_da.docx)
 
 Deutsch (DE) (404.25 KB - DOCX)
 
-**First published:**
-
-12/05/2025
+**First published:** 12/05/2025
 
 [View](/de/documents/product-information-tracked-changes/pomalidomide-zentiva-epar-product-information-tracked-changes_de.docx)
 
 eesti keel (ET) (587.65 KB - DOCX)
 
-**First published:**
-
-12/05/2025
+**First published:** 12/05/2025
 
 [View](/et/documents/product-information-tracked-changes/pomalidomide-zentiva-epar-product-information-tracked-changes_et.docx)
 
 ελληνικά (EL) (557.25 KB - DOCX)
 
-**First published:**
-
-12/05/2025
+**First published:** 12/05/2025
 
 [View](/el/documents/product-information-tracked-changes/pomalidomide-zentiva-epar-product-information-tracked-changes_el.docx)
 
 français (FR) (460.52 KB - DOCX)
 
-**First published:**
-
-12/05/2025
+**First published:** 12/05/2025
 
 [View](/fr/documents/product-information-tracked-changes/pomalidomide-zentiva-epar-product-information-tracked-changes_fr.docx)
 
 hrvatski (HR) (589.09 KB - DOCX)
 
-**First published:**
-
-12/05/2025
+**First published:** 12/05/2025
 
 [View](/hr/documents/product-information-tracked-changes/pomalidomide-zentiva-epar-product-information-tracked-changes_hr.docx)
 
 íslenska (IS) (512.36 KB - DOCX)
 
-**First published:**
-
-12/05/2025
+**First published:** 12/05/2025
 
 [View](/is/documents/product-information-tracked-changes/pomalidomide-zentiva-epar-product-information-tracked-changes_is.docx)
 
 italiano (IT) (929.19 KB - DOCX)
 
-**First published:**
-
-12/05/2025
+**First published:** 12/05/2025
 
 [View](/it/documents/product-information-tracked-changes/pomalidomide-zentiva-epar-product-information-tracked-changes_it.docx)
 
 latviešu valoda (LV) (531.64 KB - DOCX)
 
-**First published:**
-
-12/05/2025
+**First published:** 12/05/2025
 
 [View](/lv/documents/product-information-tracked-changes/pomalidomide-zentiva-epar-product-information-tracked-changes_lv.docx)
 
 lietuvių kalba (LT) (523.26 KB - DOCX)
 
-**First published:**
-
-12/05/2025
+**First published:** 12/05/2025
 
 [View](/lt/documents/product-information-tracked-changes/pomalidomide-zentiva-epar-product-information-tracked-changes_lt.docx)
 
 magyar (HU) (567.2 KB - DOCX)
 
-**First published:**
-
-12/05/2025
+**First published:** 12/05/2025
 
 [View](/hu/documents/product-information-tracked-changes/pomalidomide-zentiva-epar-product-information-tracked-changes_hu.docx)
 
 Malti (MT) (446.79 KB - DOCX)
 
-**First published:**
-
-12/05/2025
+**First published:** 12/05/2025
 
 [View](/mt/documents/product-information-tracked-changes/pomalidomide-zentiva-epar-product-information-tracked-changes_mt.docx)
 
 Nederlands (NL) (496.74 KB - DOCX)
 
-**First published:**
-
-12/05/2025
+**First published:** 12/05/2025
 
 [View](/nl/documents/product-information-tracked-changes/pomalidomide-zentiva-epar-product-information-tracked-changes_nl.docx)
 
 norsk (NO) (795 KB - DOCX)
 
-**First published:**
-
-12/05/2025
+**First published:** 12/05/2025
 
 [View](/no/documents/product-information-tracked-changes/pomalidomide-zentiva-epar-product-information-tracked-changes_no.docx)
 
 polski (PL) (616.92 KB - DOCX)
 
-**First published:**
-
-12/05/2025
+**First published:** 12/05/2025
 
 [View](/pl/documents/product-information-tracked-changes/pomalidomide-zentiva-epar-product-information-tracked-changes_pl.docx)
 
 português (PT) (573.6 KB - DOCX)
 
-**First published:**
-
-12/05/2025
+**First published:** 12/05/2025
 
 [View](/pt/documents/product-information-tracked-changes/pomalidomide-zentiva-epar-product-information-tracked-changes_pt.docx)
 
 română (RO) (1.18 MB - DOCX)
 
-**First published:**
-
-12/05/2025
+**First published:** 12/05/2025
 
 [View](/ro/documents/product-information-tracked-changes/pomalidomide-zentiva-epar-product-information-tracked-changes_ro.docx)
 
 slovenčina (SK) (614.11 KB - DOCX)
 
-**First published:**
-
-12/05/2025
+**First published:** 12/05/2025
 
 [View](/sk/documents/product-information-tracked-changes/pomalidomide-zentiva-epar-product-information-tracked-changes_sk.docx)
 
 slovenščina (SL) (627.94 KB - DOCX)
 
-**First published:**
-
-12/05/2025
+**First published:** 12/05/2025
 
 [View](/sl/documents/product-information-tracked-changes/pomalidomide-zentiva-epar-product-information-tracked-changes_sl.docx)
 
 Suomi (FI) (523.22 KB - DOCX)
 
-**First published:**
-
-12/05/2025
+**First published:** 12/05/2025
 
 [View](/fi/documents/product-information-tracked-changes/pomalidomide-zentiva-epar-product-information-tracked-changes_fi.docx)
 
 svenska (SV) (743.22 KB - DOCX)
 
-**First published:**
-
-12/05/2025
+**First published:** 12/05/2025
 
 [View](/sv/documents/product-information-tracked-changes/pomalidomide-zentiva-epar-product-information-tracked-changes_sv.docx)
 
-**This page was last updated on** 12/05/2025
+**This page was last updated on**
+
+26/05/2026
 
 ## Share this page
-
-[Back to top](#main-content)

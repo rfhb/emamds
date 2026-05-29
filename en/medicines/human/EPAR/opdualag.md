@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-04-07 13:50:00
+document_datetime: 2026-05-27 15:22:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/opdualag.html
 document_name: opdualag.html
 version: success
-processing_time: 0.1164023
-conversion_datetime: 2026-04-09 12:42:30.199781
+processing_time: 0.1311029
+conversion_datetime: 2026-05-29 20:15:55.192929
 docling_version:
-  docling-serve: 1.15.1
-  docling-jobkit: 1.14.0
-  docling: 2.82.0
-  docling-core: 2.70.2
-  docling-ibm-models: 3.13.0
-  docling-parse: 5.6.1
+  docling-serve: 1.20.0
+  docling-jobkit: 1.20.0
+  docling: 2.96.0
+  docling-core: 2.78.0
+  docling-ibm-models: 3.13.2
+  docling-parse: 6.2.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
 ---
 # Opdualag
 
@@ -39,6 +39,7 @@ Page contents
 - [Assessment history](#assessment-history)
 - [News on Opdualag](#news-on)
 - [Product information - with tracked changes](#product-information-with-tracked-changes-78234)
+- [Related documents](#related-documents-85612)
 - [More information on Opdualag](#related-medicines)
 
 - Application under evaluation
@@ -113,7 +114,7 @@ English (EN) (116.34 KB - PDF)
 
 [View](/en/documents/overview/opdualag-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-77)
+[Other languages (22)](#file-language-dropdown-81)
 
 български (BG) (132.27 KB - PDF)
 
@@ -259,161 +260,161 @@ English (EN) (5.01 MB - PDF)
 
 Opdualag : EPAR - Product Information
 
-English (EN) (380.6 KB - PDF)
+English (EN) (477.02 KB - PDF)
 
-**First published:** 20/09/2022 **Last updated:** 07/04/2026
+**First published:** 20/09/2022 **Last updated:** 27/05/2026
 
 [View](/en/documents/product-information/opdualag-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-616)
+[Other languages (24)](#file-language-dropdown-924)
 
-български (BG) (622.82 KB - PDF)
+български (BG) (598.5 KB - PDF)
 
-**First published:** 20/09/2022 **Last updated:** 07/04/2026
+**First published:** 20/09/2022 **Last updated:** 27/05/2026
 
 [View](/bg/documents/product-information/opdualag-epar-product-information_bg.pdf)
 
-español (ES) (603.25 KB - PDF)
+español (ES) (481.42 KB - PDF)
 
-**First published:** 20/09/2022 **Last updated:** 07/04/2026
+**First published:** 20/09/2022 **Last updated:** 27/05/2026
 
 [View](/es/documents/product-information/opdualag-epar-product-information_es.pdf)
 
-čeština (CS) (574.07 KB - PDF)
+čeština (CS) (563.18 KB - PDF)
 
-**First published:** 20/09/2022 **Last updated:** 07/04/2026
+**First published:** 20/09/2022 **Last updated:** 27/05/2026
 
 [View](/cs/documents/product-information/opdualag-epar-product-information_cs.pdf)
 
-dansk (DA) (594.67 KB - PDF)
+dansk (DA) (462.94 KB - PDF)
 
-**First published:** 20/09/2022 **Last updated:** 07/04/2026
+**First published:** 20/09/2022 **Last updated:** 27/05/2026
 
 [View](/da/documents/product-information/opdualag-epar-product-information_da.pdf)
 
-Deutsch (DE) (404.47 KB - PDF)
+Deutsch (DE) (503.33 KB - PDF)
 
-**First published:** 20/09/2022 **Last updated:** 07/04/2026
+**First published:** 20/09/2022 **Last updated:** 27/05/2026
 
 [View](/de/documents/product-information/opdualag-epar-product-information_de.pdf)
 
-eesti keel (ET) (545.77 KB - PDF)
+eesti keel (ET) (471.65 KB - PDF)
 
-**First published:** 20/09/2022 **Last updated:** 07/04/2026
+**First published:** 20/09/2022 **Last updated:** 27/05/2026
 
 [View](/et/documents/product-information/opdualag-epar-product-information_et.pdf)
 
-ελληνικά (EL) (679.62 KB - PDF)
+ελληνικά (EL) (602.69 KB - PDF)
 
-**First published:** 20/09/2022 **Last updated:** 07/04/2026
+**First published:** 20/09/2022 **Last updated:** 27/05/2026
 
 [View](/el/documents/product-information/opdualag-epar-product-information_el.pdf)
 
-français (FR) (568.12 KB - PDF)
+français (FR) (500.34 KB - PDF)
 
-**First published:** 20/09/2022 **Last updated:** 07/04/2026
+**First published:** 20/09/2022 **Last updated:** 27/05/2026
 
 [View](/fr/documents/product-information/opdualag-epar-product-information_fr.pdf)
 
-hrvatski (HR) (645.88 KB - PDF)
+hrvatski (HR) (553.71 KB - PDF)
 
-**First published:** 20/09/2022 **Last updated:** 07/04/2026
+**First published:** 20/09/2022 **Last updated:** 27/05/2026
 
 [View](/hr/documents/product-information/opdualag-epar-product-information_hr.pdf)
 
-íslenska (IS) (371.81 KB - PDF)
+íslenska (IS) (470.68 KB - PDF)
 
-**First published:** 20/09/2022 **Last updated:** 07/04/2026
+**First published:** 20/09/2022 **Last updated:** 27/05/2026
 
 [View](/is/documents/product-information/opdualag-epar-product-information_is.pdf)
 
-italiano (IT) (604.84 KB - PDF)
+italiano (IT) (483.86 KB - PDF)
 
-**First published:** 20/09/2022 **Last updated:** 07/04/2026
+**First published:** 20/09/2022 **Last updated:** 27/05/2026
 
 [View](/it/documents/product-information/opdualag-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (574.57 KB - PDF)
+latviešu valoda (LV) (560.09 KB - PDF)
 
-**First published:** 20/09/2022 **Last updated:** 07/04/2026
+**First published:** 20/09/2022 **Last updated:** 27/05/2026
 
 [View](/lv/documents/product-information/opdualag-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (462.9 KB - PDF)
+lietuvių kalba (LT) (561.26 KB - PDF)
 
-**First published:** 20/09/2022 **Last updated:** 07/04/2026
+**First published:** 20/09/2022 **Last updated:** 27/05/2026
 
 [View](/lt/documents/product-information/opdualag-epar-product-information_lt.pdf)
 
-magyar (HU) (482.36 KB - PDF)
+magyar (HU) (581.57 KB - PDF)
 
-**First published:** 20/09/2022 **Last updated:** 07/04/2026
+**First published:** 20/09/2022 **Last updated:** 27/05/2026
 
 [View](/hu/documents/product-information/opdualag-epar-product-information_hu.pdf)
 
-Malti (MT) (675.73 KB - PDF)
+Malti (MT) (590.92 KB - PDF)
 
-**First published:** 20/09/2022 **Last updated:** 07/04/2026
+**First published:** 20/09/2022 **Last updated:** 27/05/2026
 
 [View](/mt/documents/product-information/opdualag-epar-product-information_mt.pdf)
 
-Nederlands (NL) (486.8 KB - PDF)
+Nederlands (NL) (478.33 KB - PDF)
 
-**First published:** 20/09/2022 **Last updated:** 07/04/2026
+**First published:** 20/09/2022 **Last updated:** 27/05/2026
 
 [View](/nl/documents/product-information/opdualag-epar-product-information_nl.pdf)
 
-norsk (NO) (584.71 KB - PDF)
+norsk (NO) (460.75 KB - PDF)
 
-**First published:** 20/09/2022 **Last updated:** 07/04/2026
+**First published:** 20/09/2022 **Last updated:** 27/05/2026
 
 [View](/no/documents/product-information/opdualag-epar-product-information_no.pdf)
 
-polski (PL) (593.88 KB - PDF)
+polski (PL) (583.49 KB - PDF)
 
-**First published:** 20/09/2022 **Last updated:** 07/04/2026
+**First published:** 20/09/2022 **Last updated:** 27/05/2026
 
 [View](/pl/documents/product-information/opdualag-epar-product-information_pl.pdf)
 
-português (PT) (544.85 KB - PDF)
+português (PT) (470.21 KB - PDF)
 
-**First published:** 20/09/2022 **Last updated:** 07/04/2026
+**First published:** 20/09/2022 **Last updated:** 27/05/2026
 
 [View](/pt/documents/product-information/opdualag-epar-product-information_pt.pdf)
 
-română (RO) (578.09 KB - PDF)
+română (RO) (568.04 KB - PDF)
 
-**First published:** 20/09/2022 **Last updated:** 07/04/2026
+**First published:** 20/09/2022 **Last updated:** 27/05/2026
 
 [View](/ro/documents/product-information/opdualag-epar-product-information_ro.pdf)
 
-slovenčina (SK) (619.24 KB - PDF)
+slovenčina (SK) (576.3 KB - PDF)
 
-**First published:** 20/09/2022 **Last updated:** 07/04/2026
+**First published:** 20/09/2022 **Last updated:** 27/05/2026
 
 [View](/sk/documents/product-information/opdualag-epar-product-information_sk.pdf)
 
-slovenščina (SL) (575.35 KB - PDF)
+slovenščina (SL) (562.34 KB - PDF)
 
-**First published:** 20/09/2022 **Last updated:** 07/04/2026
+**First published:** 20/09/2022 **Last updated:** 27/05/2026
 
 [View](/sl/documents/product-information/opdualag-epar-product-information_sl.pdf)
 
-Suomi (FI) (542.06 KB - PDF)
+Suomi (FI) (470.47 KB - PDF)
 
-**First published:** 20/09/2022 **Last updated:** 07/04/2026
+**First published:** 20/09/2022 **Last updated:** 27/05/2026
 
 [View](/fi/documents/product-information/opdualag-epar-product-information_fi.pdf)
 
-svenska (SV) (588.02 KB - PDF)
+svenska (SV) (463.51 KB - PDF)
 
-**First published:** 20/09/2022 **Last updated:** 07/04/2026
+**First published:** 20/09/2022 **Last updated:** 27/05/2026
 
 [View](/sv/documents/product-information/opdualag-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000314728
+**Latest procedure affecting product information:** VR/0000303785
 
-12/02/2026
+23/04/2026
 
 icon globe
 
@@ -437,7 +438,7 @@ English (EN) (44.95 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/opdualag-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (25)](#file-language-dropdown-137)
+[Other languages (25)](#file-language-dropdown-758)
 
 български (BG) (55.12 KB - PDF)
 
@@ -647,7 +648,7 @@ Marketing authorisation issued
 
 Revision
 
-7
+8
 
 ## Assessment history
 
@@ -659,9 +660,9 @@ Collapse section
 
 Opdualag : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (161.23 KB - PDF)
+English (EN) (154.47 KB - PDF)
 
-**First published:** 11/07/2025 **Last updated:** 07/04/2026
+**First published:** 11/07/2025 **Last updated:** 27/05/2026
 
 [View](/en/documents/procedural-steps-after/opdualag-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -674,6 +675,16 @@ English (EN) (137.13 KB - PDF)
 **First published:** 21/02/2024 **Last updated:** 11/07/2025
 
 [View](/en/documents/procedural-steps-after/opdualag-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
+
+Odualag-VR-0000303785 : EPAR - Assessment report - Variation
+
+Adopted Reference Number: EMADOC-1700519818-3070473
+
+English (EN) (3.96 MB - PDF)
+
+**First published:** 27/05/2026
+
+[View](/en/documents/variation-report/odualag-vr-0000303785-epar-assessment-report-variation_en.pdf)
 
 Odualag : EPAR - Scientific conclusions - Annex IV
 
@@ -717,6 +728,10 @@ English (EN) (163.32 KB - PDF)
 
 ## News on Opdualag
 
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 20-23 April 2026](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-20-23-april-2026)
+
+24/04/2026
+
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 18-21 July 2022](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-18-21-july-2022)
 
 22/07/2022
@@ -733,7 +748,7 @@ English (EN) (302.26 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/opdualag-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-370)
+[Other languages (24)](#file-language-dropdown-124)
 
 български (BG) (295.4 KB - DOCX)
 
@@ -879,6 +894,18 @@ svenska (SV) (297.46 KB - DOCX)
 
 [View](/sv/documents/product-information-tracked-changes/opdualag-epar-product-information-tracked-changes_sv.docx)
 
+## Related documents
+
+Questions and answers on the outcome of assessment on use of Opdualag in the treatment of advanced melanoma
+
+Adopted Reference Number: EMA/89906/2026
+
+English (EN) (141.78 KB - PDF)
+
+**First published:** 24/04/2026
+
+[View](/en/documents/chmp-annex/questions-answers-outcome-assessment-use-opdualag-treatment-advanced-melanoma_en.pdf)
+
 ## More information on Opdualag
 
 - [EMEA-002727-PIP02-23 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-002727-pip02-23)
@@ -887,6 +914,6 @@ svenska (SV) (297.46 KB - DOCX)
 
 **This page was last updated on**
 
-07/04/2026
+27/05/2026
 
 ## Share this page

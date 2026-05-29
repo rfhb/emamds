@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-04-07 11:04:20
-document_pages: 42
+document_datetime: 2026-05-27 12:26:15
+document_pages: 41
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/opdualag-epar-product-information_en.pdf
 document_name: opdualag-epar-product-information_en.pdf
 version: success
-processing_time: 9.8627472
-conversion_datetime: 2026-04-09 12:25:40.73878
+processing_time: 17.580311
+conversion_datetime: 2026-05-29 20:30:07.959937
 docling_version:
-  docling-serve: 1.15.1
-  docling-jobkit: 1.14.0
-  docling: 2.82.0
-  docling-core: 2.70.2
-  docling-ibm-models: 3.13.0
-  docling-parse: 5.6.1
+  docling-serve: 1.20.0
+  docling-jobkit: 1.20.0
+  docling: 2.96.0
+  docling-core: 2.78.0
+  docling-ibm-models: 3.13.2
+  docling-parse: 6.2.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -167,11 +167,9 @@ Severe pneumonitis or interstitial lung disease, including a fatal case, has bee
 
 For Grade 3 or 4 pneumonitis, Opdualag must be permanently discontinued, and corticosteroids should be initiated at a dose of 2 to 4 mg/kg/day methylprednisolone equivalents.
 
-For Grade 2 (symptomatic) pneumonitis, Opdualag should be withheld and corticosteroids initiated at a dose of 1 mg/kg/day methylprednisolone equivalents. Upon improvement, Opdualag may be resumed after corticosteroid taper. If worsening or no improvement occurs despite initiation of
+For Grade 2 (symptomatic) pneumonitis, Opdualag should be withheld and corticosteroids initiated at a dose of 1 mg/kg/day methylprednisolone equivalents. Upon improvement, Opdualag may be resumed after corticosteroid taper. If worsening or no improvement occurs despite initiation of corticosteroids, corticosteroid dose should be increased to 2 to 4 mg/kg/day methylprednisolone equivalents, and Opdualag must be permanently discontinued.
 
 <div style=\"page-break-after: always\"></div>
-
-corticosteroids, corticosteroid dose should be increased to 2 to 4 mg/kg/day methylprednisolone equivalents, and Opdualag must be permanently discontinued.
 
 ## Immune-related colitis
 
@@ -197,11 +195,9 @@ Severe nephritis and renal dysfunction have been observed with nivolumab in comb
 
 For Grade 4 serum creatinine elevation, Opdualag must be permanently discontinued, and corticosteroids should be initiated at a dose of 1 to 2 mg/kg/day methylprednisolone equivalents.
 
-For Grade 2 or 3 serum creatinine elevation, Opdualag should be withheld, and corticosteroids should be initiated at a dose of 0.5 to 1 mg/kg/day methylprednisolone equivalents. Upon improvement, Opdualag may be resumed after corticosteroid taper. If worsening or no improvement occurs despite
+For Grade 2 or 3 serum creatinine elevation, Opdualag should be withheld, and corticosteroids should be initiated at a dose of 0.5 to 1 mg/kg/day methylprednisolone equivalents. Upon improvement, Opdualag may be resumed after corticosteroid taper. If worsening or no improvement occurs despite initiation of corticosteroids, corticosteroid dose should be increased to 1 to 2 mg/kg/day methylprednisolone equivalents, and Opdualag must be permanently discontinued.
 
 <div style=\"page-break-after: always\"></div>
-
-initiation of corticosteroids, corticosteroid dose should be increased to 1 to 2 mg/kg/day methylprednisolone equivalents, and Opdualag must be permanently discontinued.
 
 ## Immune-related endocrinopathies
 
@@ -229,11 +225,9 @@ For symptomatic diabetes, Opdualag should be withheld, and insulin replacement s
 
 Severe rash has been observed with nivolumab in combination with relatlimab (see section 4.8). Opdualag should be withheld for Grade 3 rash and discontinued for Grade 4 rash. Severe rash should be managed with high-dose corticosteroid at a dose of 1 to 2 mg/kg/day methylprednisolone equivalents.
 
-Rare cases of SJS and TEN, some of them with fatal outcome, have been observed with nivolumab monotherapy and could potentially occur with nivolumab in combination with relatlimab. If symptoms or signs of SJS or TEN are suspected, Opdualag should be withheld and the patient referred to a
+Rare cases of SJS and TEN, some of them with fatal outcome, have been observed with nivolumab monotherapy and could potentially occur with nivolumab in combination with relatlimab. If symptoms or signs of SJS or TEN are suspected, Opdualag should be withheld and the patient referred to a specialised unit for assessment and treatment. If the patient has confirmed SJS or TEN with the use of Opdualag, permanent discontinuation of treatment is recommended (see section 4.2).
 
 <div style=\"page-break-after: always\"></div>
-
-specialised unit for assessment and treatment. If the patient has confirmed SJS or TEN with the use of Opdualag, permanent discontinuation of treatment is recommended (see section 4.2).
 
 Caution should be used when considering the use of Opdualag in a patient who has previously experienced a severe or life-threatening skin adverse reaction on prior treatment with other immune-stimulatory anticancer agents.
 
@@ -321,9 +315,9 @@ Opdualag has a minor influence on the ability to drive and use machines. Because
 
 Nivolumab in combination with relatlimab is associated with immune-related adverse reactions (see 'Description of selected adverse reactions' below). The management guidelines for these adverse reactions are described in section 4.4.
 
-The most common adverse reactions are fatigue (41%), musculoskeletal pain (32%), rash (29%), arthralgia (26%), diarrhoea (26%), pruritus (26%), headache (20%), nausea (19%), cough (16%), decreased appetite (16%), hypothyroidism (16%), abdominal pain (14%), vitiligo (13%), pyrexia (12%), constipation (11%), urinary tract infection (11%), dyspnoea (10%), and vomiting (10%).
+The most common adverse reactions are fatigue (44%), musculoskeletal pain (34%), rash (30%), diarrhoea (30%), arthralgia (29%), pruritus (28%), headache (21%), nausea (21%), cough (18%), hypothyroidism (18%), decreased appetite (16%), abdominal pain (16%), vitiligo (14%), urinary tract infection (14%), pyrexia (13%), constipation (13%), upper respiratory tract infection (12%), dyspnoea (12%), vomiting (12%), dizziness (10%), and oedema (10%).
 
-The most common serious adverse reactions are adrenal insufficiency (1.4%), anaemia (1.4%), back pain (1.1%), colitis (1.1%), diarrhoea (1.1%), myocarditis (1.1%), pneumonia (1.1%), and urinary tract infection (1.1%). Incidences of Grade 3-5 adverse reactions in patients with advanced (unresectable or metastatic) melanoma were 43% for nivolumab in combination with relatlimab and 35% for nivolumab treated patients.
+The most common serious adverse reactions are adrenal insufficiency (1.4%), anaemia (1.4%), diarrhoea (1.4%), colitis (1.1%), myocarditis (1.1%), and urinary tract infection (1.1%). Incidences of Grade 3-5 adverse reactions in patients with advanced (unresectable or metastatic) melanoma were 47% for nivolumab in combination with relatlimab and 38% for nivolumab treated patients.
 
 ## Tabulated summary of adverse reactions
 
@@ -337,11 +331,10 @@ Table 2: Adverse reactions in clinical studies
 
 | Infections and infestations                     | Infections and infestations                                                                                                          |
 |-------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|
-| Very common                                     | urinary tract infection                                                                                                              |
-| Common                                          | upper respiratory tract infection                                                                                                    |
-| Uncommon                                        | folliculitis                                                                                                                         |
+| Very common                                     | urinary tract infection, upper respiratory tract infection                                                                           |
+| Common                                          | folliculitis                                                                                                                         |
 | Blood and lymphatic system disorders            | Blood and lymphatic system disorders                                                                                                 |
-| Very common                                     | anaemia a , lymphopaenia a , neutropaenia a , leucopaenia a                                                                          |
+| Very common                                     | anaemia a , lymphopaenia a , leucopaenia a , neutropaenia a                                                                          |
 | Common                                          | thrombocytopaenia a , eosinophilia                                                                                                   |
 | Uncommon                                        | haemolytic anaemia                                                                                                                   |
 | Endocrine disorders                             | Endocrine disorders                                                                                                                  |
@@ -354,8 +347,8 @@ Table 2: Adverse reactions in clinical studies
 | Psychiatric disorders                           | Psychiatric disorders                                                                                                                |
 | Common                                          | confusional state                                                                                                                    |
 | Nervous system disorders                        | Nervous system disorders                                                                                                             |
-| Very common                                     | headache                                                                                                                             |
-| Common                                          | peripheral neuropathy, dizziness, dysgeusia                                                                                          |
+| Very common                                     | dizziness, headache                                                                                                                  |
+| Common                                          | peripheral neuropathy, dysgeusia                                                                                                     |
 | Uncommon                                        | encephalitis, Guillain-Barré syndrome, optic neuritis, myasthenia gravis, Myocarditis- Myositis-Myasthenia Gravis Overlap Syndrome c |
 | Eye disorders                                   | Eye disorders                                                                                                                        |
 | Common                                          | uveitis, visual impairment, dry eye, increased lacrimation                                                                           |
@@ -367,8 +360,8 @@ Table 2: Adverse reactions in clinical studies
 | Common                                          | phlebitis                                                                                                                            |
 | Respiratory, thoracic and mediastinal disorders | Respiratory, thoracic and mediastinal disorders                                                                                      |
 | Very common                                     | dyspnoea, cough                                                                                                                      |
-| Common                                          | pneumonitis b , nasal congestion                                                                                                     |
-| Uncommon                                        | asthma, pleural effusion                                                                                                             |
+| Common                                          | pneumonitis b , pleural effusion, nasal congestion                                                                                   |
+| Uncommon                                        | asthma                                                                                                                               |
 | Gastrointestinal disorders                      | Gastrointestinal disorders                                                                                                           |
 | Very common                                     | diarrhoea, vomiting, nausea, abdominal pain, constipation                                                                            |
 | Common                                          | colitis, pancreatitis, gastritis, dysphagia, stomatitis, dry mouth                                                                   |
@@ -381,30 +374,30 @@ Table 2: Adverse reactions in clinical studies
 
 <div style=\"page-break-after: always\"></div>
 
-| Skin and subcutaneous tissue disorders               | Skin and subcutaneous tissue disorders                                                                                                                                                                      |
-|------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Very common                                          | rash, vitiligo, pruritus                                                                                                                                                                                    |
-| Common                                               | alopecia, lichenoid keratosis, photosensitivity reaction, dry skin                                                                                                                                          |
-| Uncommon                                             | pemphigoid, psoriasis, urticaria                                                                                                                                                                            |
-| Musculoskeletal and connective tissue disorders      | Musculoskeletal and connective tissue disorders                                                                                                                                                             |
-| Very common                                          | musculoskeletal pain, arthralgia                                                                                                                                                                            |
-| Common                                               | arthritis, muscle spasms, muscular weakness                                                                                                                                                                 |
-| Uncommon                                             | myositis, Sjogren's Syndrome, polymyalgia rheumatica, rheumatoid arthritis, systemic lupus erythematosus                                                                                                    |
-| Renal and urinary disorders                          | Renal and urinary disorders                                                                                                                                                                                 |
-| Common                                               | renal failure, proteinuria                                                                                                                                                                                  |
-| Uncommon                                             | nephritis                                                                                                                                                                                                   |
-| Reproductive system and breast disorders             | Reproductive system and breast disorders                                                                                                                                                                    |
-| Uncommon                                             | azoospermia                                                                                                                                                                                                 |
-| General disorders and administration site conditions | General disorders and administration site conditions                                                                                                                                                        |
-| Very common                                          | fatigue, pyrexia                                                                                                                                                                                            |
-| Common                                               | oedema, influenza-like illness, chills                                                                                                                                                                      |
-| Rare                                                 | serositis                                                                                                                                                                                                   |
-| Investigations                                       | Investigations                                                                                                                                                                                              |
-| Very common                                          | increased AST a , increased ALT a , hyponatraemia a , increased creatinine a , increased alkaline phosphatase a , hyperkalaemia a , hypocalcaemia a , hypomagnesaemia a , hypercalcaemia a , hypokalaemia a |
-| Common                                               | increased bilirubin a , hypernatraemia a , hypermagnesaemia a , troponin increased, gamma- glutamyl transferase increased, blood lactate dehydrogenase increased, lipase increased, amylase increased       |
-| Uncommon                                             | c-reactive protein increased, red blood cell sedimentation rate increased                                                                                                                                   |
-| Injury, poisoning and procedural complications       | Injury, poisoning and procedural complications                                                                                                                                                              |
-| Common                                               | infusion-related reaction                                                                                                                                                                                   |
+| Skin and subcutaneous tissue disorders               | Skin and subcutaneous tissue disorders                                                                                                                                                                                                                 |
+|------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Very common                                          | rash, vitiligo, pruritus                                                                                                                                                                                                                               |
+| Common                                               | alopecia, lichenoid keratosis, psoriasis, urticaria, photosensitivity reaction, dry skin                                                                                                                                                               |
+| Uncommon                                             | pemphigoid                                                                                                                                                                                                                                             |
+| Musculoskeletal and connective tissue disorders      | Musculoskeletal and connective tissue disorders                                                                                                                                                                                                        |
+| Very common                                          | musculoskeletal pain, arthralgia                                                                                                                                                                                                                       |
+| Common                                               | arthritis, muscle spasms, muscular weakness                                                                                                                                                                                                            |
+| Uncommon                                             | myositis, Sjogren's Syndrome, polymyalgia rheumatica, rheumatoid arthritis, systemic lupus erythematosus                                                                                                                                               |
+| Renal and urinary disorders                          | Renal and urinary disorders                                                                                                                                                                                                                            |
+| Common                                               | renal failure, proteinuria                                                                                                                                                                                                                             |
+| Uncommon                                             | nephritis                                                                                                                                                                                                                                              |
+| Reproductive system and breast disorders             | Reproductive system and breast disorders                                                                                                                                                                                                               |
+| Uncommon                                             | azoospermia                                                                                                                                                                                                                                            |
+| General disorders and administration site conditions | General disorders and administration site conditions                                                                                                                                                                                                   |
+| Very common                                          | oedema, fatigue, pyrexia                                                                                                                                                                                                                               |
+| Common                                               | influenza-like illness, chills                                                                                                                                                                                                                         |
+| Rare                                                 | serositis                                                                                                                                                                                                                                              |
+| Investigations                                       | Investigations                                                                                                                                                                                                                                         |
+| Very common                                          | increased AST a , increased ALT a , hyponatraemia a , increased creatinine a , increased alkaline phosphatase a , hypocalcaemia a , hypomagnesaemia a , hyperkalaemia a , hypercalcaemia a , hypokalaemia a , hypernatraemia a , increased bilirubin a |
+| Common                                               | hypermagnesaemia a , troponin increased, gamma-glutamyl transferase increased, blood lactate dehydrogenase increased, lipase increased, amylase increased, c-reactive protein increased                                                                |
+| Uncommon                                             | red blood cell sedimentation rate increased                                                                                                                                                                                                            |
+| Injury, poisoning and procedural complications       | Injury, poisoning and procedural complications                                                                                                                                                                                                         |
+| Common                                               | infusion-related reaction                                                                                                                                                                                                                              |
 
 - a Frequencies of laboratory terms reflect the proportion of patients who experienced a worsening from baseline in laboratory measurements.
 - b Fatal case has been reported in the clinical study.
@@ -414,49 +407,47 @@ Table 2: Adverse reactions in clinical studies
 
 ## Immune-related pneumonitis
 
-In patients treated with nivolumab in combination with relatlimab, pneumonitis, including interstitial lung disease and lung infiltration occurred in 5.1% of patients. Incidences of Grade 3/4 events were 0.8%. Fatal events occurred in 0.28% of patients. Median time to onset was 28 weeks (range: 3.6-94.4). Resolution occurred in 83.3% patients with a median time to resolution of 12.0 weeks (range: 2.1-29.7 + ). Immune-related pneumonitis led to permanent discontinuation of nivolumab in combination with relatlimab in 1.7% of patients and required high dose corticosteroids (prednisone ≥ 40 mg per day or equivalent) in 55.6% of patients with immune-related pneumonitis.
+In patients treated with nivolumab in combination with relatlimab, pneumonitis, including interstitial lung disease and lung infiltration occurred in 5.1% of patients. Incidences of Grade 3/4 events were 0.8%. Fatal events occurred in 0.28% of patients. Median time to onset was 28 weeks (range: 3.6-94.4). Resolution occurred in 88.9% patients with a median time to resolution of 12.0 weeks (range: 2.1-133.0 + ). Immune-related pneumonitis led to permanent discontinuation of nivolumab in combination with relatlimab in 1.7% of patients and required high dose corticosteroids (prednisone ≥ 40 mg per day or equivalent) in 55.6% of patients with immune-related pneumonitis.
 
 ## Immune-related colitis
 
-In patients treated with nivolumab in combination with relatlimab, diarrhoea, colitis, or frequent bowel movements occurred in 15.8% of patients. Incidences of Grade 3/4 events were 2.0%. Median time to onset was 14 weeks (range: 0.1-95.6). Resolution occurred in 92.7% patients with a median time to resolution of 3.9 weeks (range: 0.1-136.9 + ). Immune-related colitis led to permanent discontinuation of nivolumab in combination with relatlimab in 2.0% of patients and required high dose corticosteroids (prednisone ≥ 40 mg per day or equivalent) in 33.9% of patients with immune-related colitis.
+In patients treated with nivolumab in combination with relatlimab, diarrhoea, colitis, or frequent bowel movements occurred in 18.3% of patients. Incidences of Grade 3/4 events were 2.3%. Median time to onset was 16 weeks (range: 0.1-195.4). Resolution occurred in 89.1% patients with a median time to resolution of 7.3 weeks (range: 0.1-289.1 + ). Immune-related colitis led to permanent discontinuation of nivolumab in combination with relatlimab in 2.5% of patients and required high dose corticosteroids (prednisone ≥ 40 mg per day or equivalent) in 35.4% of patients with immune-related colitis.
 
 <div style=\"page-break-after: always\"></div>
 
 ## Immune-related hepatitis
 
-In patients treated with nivolumab in combination with relatlimab, liver function test abnormalities occurred in 13.2% of patients. Incidences of Grade 3/4 events were 3.9%. Median time to onset was 11 weeks (range: 2.0-144.9). Resolution occurred in 78.7% patients with a median time to resolution of 6.1 weeks (range: 1.0-88.1 + ). Immune-related hepatitis led to permanent discontinuation of nivolumab in combination with relatlimab in 2.0% of patients and required high dose corticosteroids in 38.3% of patients with immune-related hepatitis.
+In patients treated with nivolumab in combination with relatlimab, liver function test abnormalities occurred in 14.1% of patients. Incidences of Grade 3/4 events were 4.2%. Median time to onset was 11 weeks (range: 2.0-191.9). Resolution occurred in 86.0% patients with a median time to resolution of 6.0 weeks (range: 1.0-240.1 + ). Permanent discontinuation of nivolumab in combination with relatlimab occurred in 2.3% of patients and required high dose corticosteroids in 40.0% of patients.
 
 ## Immune-related nephritis and renal dysfunction
 
-In patients treated with nivolumab in combination with relatlimab, nephritis or renal dysfunction occurred in 4.5% of patients. Incidences of Grade 3/4 events were 1.4%. Median time to onset was 21 weeks (range: 1.9-127.9). Resolution occurred in 81.3% patients with a median time to resolution of 8.1 weeks (range: 0.9-91.6 + ). Immune-related nephritis and renal dysfunction led to permanent discontinuation of nivolumab in combination with relatlimab in 1.1% of patients and required high dose corticosteroids (prednisone ≥ 40 mg per day or equivalent) in 25.0% of patients with immune-related nephritis and renal dysfunction.
+In patients treated with nivolumab in combination with relatlimab, nephritis or renal dysfunction occurred in 5.6% of patients. Incidences of Grade 3/4 events were 1.4%. Median time to onset was 24 weeks (range: 1.9-210.4). Resolution occurred in 85.0% patients with a median time to resolution of 12.4 weeks (range: 0.9-235.0 + ). Immune-related nephritis and renal dysfunction led to permanent discontinuation of nivolumab in combination with relatlimab in 1.1% of patients and required high dose corticosteroids (prednisone ≥ 40 mg per day or equivalent) in 20.0% of patients with immune-related nephritis and renal dysfunction.
 
 ## Immune-related endocrinopathies
 
-In patients treated with nivolumab in combination with relatlimab, endocrinopathies occurred in 26% of patients.
+In patients treated with nivolumab in combination with relatlimab, endocrinopathies occurred in 29.0% of patients.
 
-Thyroid disorders, including hypothyroidism or hyperthyroidism, occurred in 20.8% of patients. There were no incidences of Grade 3/4 thyroid disorder. Adrenal insufficiency (including adrenocortical insufficiency acute) occurred in 4.8% of patients. Incidences of Grade 3/4 events adrenal insufficiency occurred in 1.4%. There were no incidences of Grade 3/4 hypopituitarism. Hypophysitis occurred in 1.1% of patients. Incidence of Grade 3/4 hypophysitis were 0.3%. Diabetes mellitus (including Type 1 diabetes mellitus) occurred in 0.3% of patients. Incidences of Grade 3/4 diabetes mellitus were in 0.3%.
+Thyroid disorders, including hypothyroidism or hyperthyroidism, occurred in 22.8% of patients. There were no incidences of Grade 3/4 thyroid disorder. Adrenal insufficiency (including adrenocortical insufficiency acute) occurred in 5.1% of patients. Incidences of Grade 3/4 events adrenal insufficiency occurred in 1.4%. Hypopituitarism occurred in 0.8% of patients. There were no incidences of Grade 3/4 hypopituitarism. Hypophysitis occurred in 1.1% of patients. Incidence of Grade 3/4 hypophysitis were 0.3%. Diabetes mellitus (including Type 1 diabetes mellitus) occurred in 0.3% of patients. Incidences of Grade 3/4 diabetes mellitus were in 0.3%.
 
-Median time to onset of these endocrinopathies was 13 weeks (range: 1.0-73.0). Resolution occurred in 27.7% patients. Time to resolution ranged from 0.4 to 176.0 + weeks. Immune-related endocrinopathies led to permanent discontinuation of nivolumab in combination with relatlimab in 1.1% of patients and required high dose corticosteroids (prednisone ≥ 40 mg per day or equivalent) in 7.4% of patients with immune-related endocrinopathies.
+Median time to onset of these endocrinopathies was 15 weeks (range: 1.0-230.4). Resolution occurred in 28.2% patients. Time to resolution ranged from 0.4 to 328.0 + weeks. Immune-related endocrinopathies led to permanent discontinuation of nivolumab in combination with relatlimab in 1.1% of patients and required high dose corticosteroids (prednisone ≥ 40 mg per day or equivalent) in 6.8% of patients with immune-related endocrinopathies.
 
 ## Immune-related skin adverse reactions
 
-In patients treated with nivolumab in combination with relatlimab, rash, including pruritis and vitiligo occurred in 45.1% of patients. Incidences of Grade 3/4 events were 1.4%. Median time to onset was 8 weeks (range: 0.1-116.4). Resolution occurred in 47.5% patients. Time to resolution ranged from 0.1-166.9 + weeks. Immune-related skin adverse reactions led to permanent discontinuation of nivolumab in combination with relatlimab in 0.3% of patients and required high dose corticosteroids (prednisone ≥ 40 mg per day or equivalent) in 3.8% of patients with immune-related skin adverse reactions.
+In patients treated with nivolumab in combination with relatlimab, rash, including pruritus and vitiligo occurred in 46.8% of patients. Incidences of Grade 3/4 events were 1.4%. Median time to onset was 8 weeks (range: 0.1-142.1). Resolution occurred in 47.0% patients. Time to resolution ranged from 0.1-318.0 + weeks. Immune-related skin adverse reactions led to permanent discontinuation of nivolumab in combination with relatlimab in 0.3% of patients and required high dose corticosteroids (prednisone ≥ 40 mg per day or equivalent) in 4.2% of patients with immune-related skin adverse reactions.
 
 ## Immune-related myocarditis
 
-In patients treated with nivolumab in combination with relatlimab, myocarditis occurred in 1.4% of patients. Incidences of Grade 3/4 events were 0.6%. Median time to onset was 4.14 weeks (range: 2.1-6.3). Resolution occurred in 100% of patients with a median time to resolution of 3 weeks (1.9-14.0). Myocarditis led to permanent discontinuation of nivolumab in combination with relatlimab in 1.4% of patients and required high dose corticosteroids (prednisone ≥ 40 mg per day or equivalent) in 100% of patients with immune-related myocarditis.
+In patients treated with nivolumab in combination with relatlimab, myocarditis occurred in 1.4% of patients. Incidences of Grade 3/4 events were 0.6%. Median time to onset was 4.1 weeks (range: 2.1-6.3). Resolution occurred in 100% of patients with a median time to resolution of 3 weeks (1.9-14.0). Myocarditis led to permanent discontinuation of nivolumab in combination with relatlimab in 1.4% of patients and required high dose corticosteroids (prednisone ≥ 40 mg per day or equivalent) in 100% of patients with immune-related myocarditis.
 
 ## Infusion-related reactions
 
-In patients treated with nivolumab in combination with relatlimab, hypersensitivity/infusion reactions occurred in 6.8% of patients. All incidents were Grade 1/2.
+In patients treated with nivolumab in combination with relatlimab, hypersensitivity/infusion reactions occurred in 7.3% of patients. Grade 3/4 events occurred in 0.3% of patients.
 
 ## Laboratory abnormalities
 
-In patients treated with nivolumab in combination with relatlimab, the proportion of patients who experienced a shift from baseline to a Grade 3 or 4 laboratory abnormality was as follows: 3.6% for
+In patients treated with nivolumab in combination with relatlimab, the proportion of patients who experienced a shift from baseline to a Grade 3 or 4 laboratory abnormality was as follows: 3.8% for anaemia, 5.3% for lymphopaenia, 0.6% for increased alkaline phosphatase, 2.9% for increased AST, 3.5% for increased ALT, 0.6% for increased total bilirubin, 1.5% for increased creatinine, 1.5% for hyponatraemia, 2.0% for hyperkalaemia, 0.6% for hypokalaemia, 0.9% for hypercalcaemia, 0.9% for hypocalcaemia, 1.8% for hypermagnesaemia, and 1.2% for hypomagnesaemia.
 
 <div style=\"page-break-after: always\"></div>
-
-anaemia, 5.2% for lymphopaenia, 0.3% for neutropaenia, 0.6% for increased alkaline phosphatase, 2.9% for increased AST, 3.5% for increased ALT, 0.3% for increased total bilirubin, 0.9% for increased creatinine, 1.5% for hyponatraemia, 1.8% for hyperkalaemia, 0.3% for hypokalaemia, 0.9% for hypercalcaemia, 0.6% for hypocalcaemia, 0.9% for hypermagnesaemia, and 0.6% for hypomagnesaemia.
 
 ## Immunogenicity
 
@@ -490,9 +481,9 @@ Binding of the PD-1 ligands, PD-L1 and PD-L2, to the PD-1 receptor found on T ce
 
 Relatlimab is a human IgG4 monoclonal antibody that binds to the LAG-3 receptor, blocks its interaction with ligands, including MHC II, and reduces LAG-3 pathway-mediated inhibition of the immune response. Antagonism of this pathway promotes T cell proliferation and cytokine secretion.
 
-<div style=\"page-break-after: always\"></div>
-
 The combination of nivolumab (anti-PD-1) and relatlimab (anti-LAG-3) results in increased T-cell activation compared to the activity of either antibody alone. In murine syngeneic tumour models, LAG-3 blockade potentiates the anti-tumour activity of PD-1 blockage, inhibiting tumour growth and promoting tumour regression.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Clinical efficacy and safety
 
@@ -506,42 +497,26 @@ Baseline characteristics in the ITT population were balanced between the two gro
 
 At primary analysis in the ITT population, with median follow-up of 13.21 months (range: 0-33.1 months), a statistically significant improvement in PFS was observed with a median PFS of 10.12 months in the nivolumab in combination with relatlimab group as compared with 4.63 months in the nivolumab group (HR = 0.75, 95% CI: 0.62, 0.92; p = 0.0055). At the time of the pre-specified final OS analysis in the ITT population, with median follow up of 19.3 months, OS was not statistically significant (HR = 0.80, 95% CI: 0.64, 1.01).
 
+The key efficacy results for the subgroup of patients with tumour PD-L1 expression &lt; 1% are summarised in Table 3.
+
 <div style=\"page-break-after: always\"></div>
-
-## Pre-specified subgroup analysis by PD-L1 expression &lt; 1%
-
-The key efficacy results for the subgroup of patients with tumour PD-L1 expression &lt; 1% from an exploratory analysis with median follow-up of 17.78 months (range: 0.26-40.64 months) are summarised in Table 3.
 
 Table 3: Efficacy results in patients with PD-L1 &lt; 1% tumour cell expression (CA224047)
 
-a Hazard ratio based on unstratified Cox proportional hazards model.
+|                             | nivolumab + relatlimab (n = 209)   | nivolumab (n = 212)   |
+|-----------------------------|------------------------------------|-----------------------|
+| Progression-free survival a |                                    |                       |
+| Hazard ratio (95% CI)       | 0.68 (0.53, 0.86)                  | 0.68 (0.53, 0.86)     |
+| Median in months (95% CI)   | 6.7 (4.7, 12.0)                    | 3.0 (2.8, 4.5)        |
+| Overall survival b          |                                    |                       |
+| Hazard ratio (95% CI)       | 0.76 (0.60, 0.98)                  | 0.76 (0.60, 0.98)     |
+| Median in months (95% CI)   | 38.3 (24.3, 64.5)                  | 25.4 (18.7, 42.4)     |
+| Overall response rate (%)   | 36.4                               | 24.1                  |
+| (95% CI)                    | (29.8, 43.3)                       | (18.5, 30.4)          |
 
-|                                                      | nivolumab + relatlimab (n = 209)   | nivolumab (n = 212)   |
-|------------------------------------------------------|------------------------------------|-----------------------|
-| Progression-free survival                            |                                    |                       |
-| Hazard ratio (95% CI) a                              | 0.68 (0.53, 0.86)                  | 0.68 (0.53, 0.86)     |
-| Median in months (95% CI) Rate (95% CI) at 12 months | 6.7 (4.7, 12.0) 42.3               | 3.0 (2.8, 4.5) 26.9   |
-| Overall survival b                                   |                                    |                       |
-| Hazard ratio (95% CI) a                              | 0.78 (0.59, 1.04)                  | 0.78 (0.59, 1.04)     |
-| Median in months (95% CI) Rate (95% CI) at 12 months | NR (27.4, NR) 73.9                 | 27.0 (17.1, NR) 67.4  |
-| Rate (95% CI) at 24 months                           | (67.4, 79.4) 59.6                  | (60.6, 73.3) 53.1     |
-| Overall response rate (%)                            | (52.2, 66.2) 36.4                  | (45.8, 59.9) 24.1     |
-| (95% CI)                                             | (29.8, 43.3)                       | (18.5, 30.4)          |
-| Complete response rate (%)                           | 25 (12.0)                          | (9.4)                 |
-|                                                      |                                    | 20                    |
-| Partial response rate (%)                            | 51 (24.4)                          | 31 (14.6)             |
-| Stable disease rate (%)                              | 41 (19.6)                          | 31                    |
-|                                                      |                                    | (14.6)                |
+The Kaplan-Meier curves for PFS with a median follow-up of 17.78 months and OS from a median follow-up of 29.5 months in PD-L1 expression &lt;1% are shown in Figures 1 and 2, respectively.
 
-Median extent of follow-up: 17.78 months.
-
-NR = not reached.
-
-The Kaplan-Meier curves for PFS and OS in patients with tumour cell PD-L1 expression &lt; 1% are presented in Figures 1 and 2, respectively.
-
-<div style=\"page-break-after: always\"></div>
-
-Figure 1: Kaplan-Meier curves of PFS in patients with PD-L1 &lt; 1% tumour cell expression (CA224047)
+Figure 1: Kaplan-Meier curves of PFS in patients with PD-L1 &lt; 1% tumour cell expression (CA224047) - median follow-up 17.78 months
 
 <!-- image -->
 
@@ -549,63 +524,21 @@ Progression-free survival per BICR (months)
 
 Number of subjects at risk
 
-Nivolumab/relatlimab
+| Nivolumab/relatlimab   | Nivolumab/relatlimab   | Nivolumab/relatlimab   | Nivolumab/relatlimab   | Nivolumab/relatlimab   | Nivolumab/relatlimab   | Nivolumab/relatlimab   | Nivolumab/relatlimab   | Nivolumab/relatlimab   | Nivolumab/relatlimab   | Nivolumab/relatlimab   | Nivolumab/relatlimab   | Nivolumab/relatlimab   | Nivolumab/relatlimab   |
+|------------------------|------------------------|------------------------|------------------------|------------------------|------------------------|------------------------|------------------------|------------------------|------------------------|------------------------|------------------------|------------------------|------------------------|
+| 209                    | 122                    | 99                     | 80                     | 65                     | 53                     | 44                     | 36                     | 33                     | 30                     | 27                     | 9                      | 2                      | 0                      |
+| Nivolumab              | Nivolumab              | Nivolumab              | Nivolumab              | Nivolumab              | Nivolumab              | Nivolumab              | Nivolumab              | Nivolumab              | Nivolumab              | Nivolumab              | Nivolumab              | Nivolumab              | Nivolumab              |
+| 212                    | 98                     | 71                     | 57                     | 41                     | 34                     | 27                     | 24                     | 22                     | 20                     | 14                     | 8                      | 2                      | 0                      |
 
-209
+----  ---- Nivolumab/relatlimab (events: 124/209)
 
-122
+- - -
 
-99
+
 
-80
+- - -
 
-Nivolumab
-
-212
-
-98
-
-71
-
-57
-
-65
-
-41
-
-53
-
-34
-
-44
-
-27
-
-36
-
-24
-
-33
-
-22
-
-30
-
-20
-
-27
-
-14
-
-9
-
-8
-
-2
-
-2
-
----- ----Nivolumab/relatlimab (events: 124/209), median (95% CI): 6.67 months (4.67, 11.99) - - - - - -Nivolumab (events: 155/212), median (95% CI): 2.96 months (2.79, 4.50)
+Nivolumab (events: 155/212)
 
 0
 
@@ -613,71 +546,9 @@ Nivolumab
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 2: Kaplan-Meier curves of OS in patients with PD-L1 &lt; 1% tumour cell expression (CA224047)
+Figure 2: Kaplan-Meier curves of OS in patients with PD-L1 &lt; 1% tumour cell expression (CA224047) - median follow up 29.5 months
 
 <!-- image -->
-
-Overall survival (months)
-
-128
-
-114
-
-98
-
-85
-
-106
-
-Number of subjects at risk
-
-Nivolumab/relatlimab
-
-209
-
-195  177
-
-164
-
-Nivolumab
-
-212
-
-189  168
-
-155
-
-147
-
-132
-
-94
-
-82
-
-72
-
-83
-
-68
-
-80
-
-63
-
-68
-
-56
-
-29
-
-27
-
-6
-
-6
-
----- ----Nivolumab/relatlimab (events: 89/209), median (95% CI): N.A. (27.43, N.A.) - - - - - -Nivolumab (events: 104/212), median (95% CI): 27.04 months (17.12, N.A.)
 
 ## 5.2 Pharmacokinetic properties
 
@@ -695,10 +566,6 @@ Table 4: Geometric mean (CV%) of nivolumab and relatlimab steady-state exposures
 Based on population PK analyses, the nivolumab and relatlimab FDC infusion duration of 30 min and 60 min were predicted to produce similar (&lt; 1% different) exposures of nivolumab and relatlimab.
 
 In CA224047, the nivolumab geometric mean Cmin at steady state in the nivolumab in combination with relatlimab arm was similar to the nivolumab arm with a geometric mean ratio of 0.931 (95% CI: 0.855-1.013).
-
-0
-
-0
 
 <div style=\"page-break-after: always\"></div>
 
@@ -768,7 +635,9 @@ In the absence of compatibility studies, this medicinal product must not be mixe
 
 ## 6.3 Shelf life
 
-Unopened vial 3 years
+## Unopened vial
+
+3 years
 
 <div style=\"page-break-after: always\"></div>
 
@@ -900,11 +769,11 @@ An updated RMP should be submitted:
 -  At the request of the European Medicines Agency;
 -  Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 
-<div style=\"page-break-after: always\"></div>
-
 ## · Additional risk minimisation measures
 
 The MAH shall ensure that in each Member State where Opdualag is marketed, all healthcare professionals and patients/caregivers who are expected to prescribe and use Opdualag have access to/are provided with the patient card.
+
+<div style=\"page-break-after: always\"></div>
 
 The Patient Card shall contain the following key messages:
 
@@ -954,7 +823,7 @@ Excipients: histidine, histidine hydrochloride monohydrate, sucrose, pentetic ac
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-## Concentrate for solution for infusion
+Concentrate for solution for infusion
 
 1 vial
 
@@ -1036,7 +905,9 @@ VIAL LABEL
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Opdualag 240 mg/80 mg sterile concentrate nivolumab/relatlimab
+Opdualag 240 mg/80 mg sterile concentrate
+
+nivolumab/relatlimab
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCES
 
@@ -1266,55 +1137,60 @@ The following side effects have been reported with Opdualag:
 ## Very common (may affect more than 1 in 10 people)
 
 -  infection of the urinary tract (the parts of the body that collect and pass out urine)
--  decreased number of red blood cells (which carry oxygen) and white blood cells (lymphocytes, neutrophils, leucocytes; which are important in fighting infection)
+-  infections of the upper respiratory tract (nose and upper airways)
+-  decreased number of red blood cells (which carry oxygen) and white blood cells (lymphocytes, leucocytes, neutrophils; which are important in fighting infection)
 -  underactive thyroid gland (which can cause tiredness or weight gain)
 -  decreased appetite
+-  dizziness
 -  headache
 -  difficulty breathing, cough
 -  diarrhoea (watery, loose or soft stools), vomiting; nausea; stomach pain; constipation
 -  skin rash (sometimes with blisters), skin colour change in patches (vitiligo), itching
 -  pain in the muscles, bones and joints
+-  oedema (swelling)
 -  feeling tired or weak, fever.
 
 Changes in the results of tests carried out by your doctor may show:
 
--  abnormal liver function (increased amounts of the liver enzymes alkaline phosphatase, aspartate aminotransferase, alanine aminotransferase in your blood)
+-  abnormal liver function (increased amounts of the liver enzymes alkaline phosphatase, aspartate aminotransferase, alanine aminotransferase in your blood, higher blood levels of the waste product bilirubin)
 -  abnormal kidney function (increased amounts of creatinine in your blood)
--  decrease of sodium and magnesium, and decrease or increase of calcium and potassium.
+-  decrease of magnesium, and decrease or increase of calcium, potassium and sodium.
 
 ## Common (may affect up to 1 in 10 people)
 
--  infections of the upper respiratory tract (nose and upper airways)
+-  inflammation and infection in the hair follicles
 -  decreased number of platelets (cells which help the blood to clot), increase in some white blood cells
 -  decreased secretion of hormones produced by adrenal glands (glands situated above the kidneys), inflammation of the pituitary gland situated at the base of the brain, overactive thyroid gland, inflammation of the thyroid gland
 -  diabetes, low sugar levels in the blood; weight loss, high levels of the waste product uric acid in the blood, decreased levels of the protein albumin in the blood, dehydration
 -  state of confusion
--  inflammation of the nerves (causing numbness, weakness, tingling or burning pain of the arms and legs), dizziness, changes in the sense of taste
--  inflammation of the eye (which causes pain and redness, vision problems or blurry vision), vision problems, dry eyes, excessive tear production
--  inflammation of the heart muscle
--  inflammation of a vein, which can cause redness, tenderness and swelling
+-  inflammation of the nerves (causing numbness, weakness, tingling or burning pain of the arms and legs), changes in the sense of taste
 
 <div style=\"page-break-after: always\"></div>
 
--  inflammation of the lungs (pneumonitis), characterised by coughing and difficulty breathing; nasal congestion (blocked nose)
+-  inflammation of the eye (which causes pain and redness, vision problems or blurry vision), vision problems, dry eyes, excessive tear production
+-  inflammation of the heart muscle
+-  inflammation of a vein, which can cause redness, tenderness and swelling
+-  inflammation of the lungs (pneumonitis), characterised by coughing and difficulty breathing
+-  fluid around the lungs
+-  nasal congestion (blocked nose)
 -  inflammation of the intestines (colitis), inflammation of the pancreas, inflammation of the stomach (gastritis), difficulty swallowing, mouth ulcers and cold sores; dry mouth
 -  inflammation of the liver (hepatitis)
--  unusual hair loss or thinning (alopecia), isolated area of skin growth that becomes red and itchy (lichenoid keratosis), sensitivity to light, dry skin
+-  unusual hair loss or thinning (alopecia), isolated area of skin growth that becomes red and itchy (lichenoid keratosis), skin disease with thickened patches of red skin, often with silvery scales (psoriasis), hives (itchy, bumpy rash), sensitivity to light, dry skin
 -  painful joints (arthritis), muscle spasms, muscle weakness
 -  kidney failure (changes in amount or colour of urine, blood in urine, swelling ankles, loss of appetite), high levels of proteins in the urine
--  oedema (swelling), flu-like symptoms, chills
+-  flu-like symptoms, chills
 -  reactions related to the administration of the medicine.
 
 Changes in the results of tests carried out by your doctor may show:
 
--  abnormal liver function (higher blood levels of the waste product bilirubin, higher blood levels of the liver enzyme gamma-glutamyl transferase)
--  increase in sodium and magnesium
+-  abnormal liver function (higher blood levels of the liver enzyme gamma-glutamyl transferase)
+-  increase in magnesium
 -  increased level of troponin (a protein released into the blood when the heart is damaged)
 -  increased level of the enzyme that breaks down glucose (sugar) (lactate dehydrogenase), the enzyme that breaks down fats (lipase), the enzyme that breaks down starch (amylase)
+-  increase in level of c-reactive protein.
 
 ## Uncommon (may affect up to 1 in 100 people)
 
--  inflammation and infection in the hair follicles
 -  disorder in which red blood cells are destroyed faster than they can be made (haemolytic anaemia)
 -  underactive function of the pituitary gland situated at the base of the brain; underactive function of the glands producing sex hormones
 -  inflammation of the brain, which may include confusion, fever, memory problems or seizures (encephalitis), a temporary inflammation of the nerves that causes pain, weakness, and paralysis in the extremities (Guillain-Barré syndrome), inflammation of the optic nerve that may cause a complete or partial loss of vision
@@ -1325,15 +1201,13 @@ Changes in the results of tests carried out by your doctor may show:
 -  asthma
 -  inflammation of the oesophagus (passage between throat and stomach)
 -  inflammation of the bile duct
--  skin rashes and blistering on the legs, arms, and abdomen (pemphigoid), skin disease with thickened patches of red skin, often with silvery scales (psoriasis), hives (itchy, bumpy rash)
+-  skin rashes and blistering on the legs, arms, and abdomen (pemphigoid)
 -  inflammation of the muscles causing weakness, swelling, and pain, disease in which the immune system attacks the glands that make moisture for the body, such as tears and saliva (Sjogren's syndrome), inflammation of muscles causing pain or stiffness, inflammation of the joints (painful joint disease), disease in which the immune system attacks its own tissues, causing widespread inflammation and tissue damage in the affected organs, such as joints, skin, brain, lungs, kidneys, and blood vessels (systemic lupus erythematosus)
 -  inflammation of the kidney
 -  absence of sperm in the semen
--  fluid around the lungs.
 
 Changes in the results of tests carried out by your doctor may show:
 
--  increase in level of c-reactive protein
 -  red blood cell sedimentation rate increased.
 
 <div style=\"page-break-after: always\"></div>
@@ -1435,13 +1309,13 @@ Swixx Biopharma UAB Tel: + 370 52 369140 medinfo.lithuania@swixxbiopharma.com
 
 ## Luxembourg/Luxemburg
 
-N.V. Bristol-Myers Squibb Belgium S.A. Tél/Tel: + 32 2 352 76 11 medicalinfo.belgium@bms.com
+N.V. Bristol-Myers Squibb Belgium S.A.
+
+Tél/Tel: + 32 2 352 76 11 medicalinfo.belgium@bms.com
 
 ## Magyarország
 
-Bristol-Myers Squibb Kft. Tel.: + 36 1 301 9797
-
-Medinfo.hungary@bms.com
+Bristol-Myers Squibb Kft. Tel.: + 36 1 301 9797 Medinfo.hungary@bms.com
 
 ## Malta
 
@@ -1543,11 +1417,7 @@ Bristol-Myers Squibb Marketing Services S.R.L. Tel: + 40 (0)21 272 16 19 medinfo
 
 ## Slovenija
 
-Swixx Biopharma d.o.o.
-
-Tel: + 386 1 2355 100
-
-medinfo.slovenia@swixxbiopharma.com
+Swixx Biopharma d.o.o. Tel: + 386 1 2355 100 medinfo.slovenia@swixxbiopharma.com
 
 ## Slovenská republika
 
@@ -1563,11 +1433,9 @@ Oy Bristol-Myers Squibb (Finland) Ab Puh/Tel: + 358 9 251 21 230 medinfo.finland
 
 ## Sverige
 
-Bristol-Myers Squibb Aktiebolag Tel: + 46 8 704 71 00 medinfo.sweden@bms.com
+Bristol-Myers Squibb Aktiebolag Tel: + 46 8 704 71 00 medinfo.sweden@bms.com Opdualag can be used for intravenous administration either:
 
 <div style=\"page-break-after: always\"></div>
-
-Opdualag can be used for intravenous administration either:
 
 -  without dilution, after transfer to an infusion container using an appropriate sterile syringe; or
 -  after diluting according to the following instructions:
@@ -1590,9 +1458,7 @@ Opdualag can be used for intravenous administration either:
 
 Opdualag infusion must not be administered as an intravenous push or bolus injection.
 
-Administer the Opdualag infusion intravenously over a period of 30 minutes. Use of an infusion set and an in-line or add-on filter, sterile, non-pyrogenic, low protein binding filter
-
-(pore size of 0.2 μm to 1.2 μm) is recommended.
+Administer the Opdualag infusion intravenously over a period of 30 minutes. Use of an infusion set and an in-line or add-on filter, sterile, non-pyrogenic, low protein binding filter (pore size of 0.2 μm to 1.2 μm) is recommended.
 
 Opdualag infusion is compatible with EVA, PVC and polyolefin containers, PVC infusion sets and in-line filters with polyethersulfone (PES), nylon, and polyvinylidene fluoride (PVDF) membranes with pore sizes of 0.2 μ m to 1.2 μ m.
 

@@ -1,20 +1,20 @@
 ---
-document_datetime: 2024-09-25 09:39:27
+document_datetime: 2026-05-26 09:17:34
 document_pages: 23
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/ucedane-epar-product-information_en.pdf
 document_name: ucedane-epar-product-information_en.pdf
 version: success
-processing_time: 5.1416073
-conversion_datetime: 2025-12-30 21:46:23.462675
+processing_time: 10.6639054
+conversion_datetime: 2026-05-29 20:24:25.034588
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.20.0
+  docling-jobkit: 1.20.0
+  docling: 2.96.0
+  docling-core: 2.78.0
+  docling-ibm-models: 3.13.2
+  docling-parse: 6.2.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -61,15 +61,15 @@ Ucedane treatment should be initiated under the supervision of a physician exper
 
 Based on clinical experience, the treatment may be started as early as the first day of life.  The initial daily dose should be 100 mg/kg, up to 250 mg/kg if necessary.
 
-It  should  then  be  adjusted  individually in  order  to  maintain  normal  ammonia plasma levels  (see section 4.4).
+It  should  then  be  adjusted  individually in  order  to  maintain  normal  ammonia  plasma  levels  (see section 4.4).
 
-In  the long term, it may not be necessary to increase the dose according to body weight as  long as  adequate  metabolic  control  is  achieved;  daily  doses  range  from  10  mg/kg  to  100 mg/kg.
+In  the  long term,  it  may not be necessary to increase the dose according to body weight as  long as  adequate  metabolic  control  is  achieved;  daily  doses  range  from  10  mg/kg  to  100 mg/kg.
 
 ## Carglumic acid responsiveness test
 
-It  is  recommended  to  test  individual  responsiveness  to  carglumic  acid  before  initiating any long term treatment. As examples
+It  is  recommended  to  test  individual  responsiveness  to  carglumic  acid  before  initiating  any long term treatment. As examples
 
-- -In a comatose child, start with a dose of 100 to 250 mg/kg/day and measure ammonia plasma concentration at least before each administration. It should normalise within a  few hours after starting Ucedane.
+- -In a comatose child, start with a dose of 100 to 250 mg/kg/day and measure ammonia plasma concentration at least before each administration. It should normalise within a few hours after starting Ucedane.
 - -In  a  patient  with  moderate  hyperammonaemia, administer  a  test  dose  of  100  to 200 mg/kg/day  for  3  days with  a  constant  protein  intake  and  perform  repeated determinations  of  ammonia  plasma  concentration  (before  and  1  hour  after  a  meal); adjust the dose in order to maintain normal ammonia plasma levels.
 
 <div style=\"page-break-after: always\"></div>
@@ -127,7 +127,7 @@ The dose of Ucedane must be reduced in patients with renal impairment (see secti
 
 ## Ucedane contains sodium
 
-This medicinal product contains less than 1 mmol sodium (23 mg) per maximum daily dose that is to say essentially 'sodium-free'.
+This medicinal product contains less than 1 mmol sodium (23 mg) per maximum daily dose that is to say essentially 'sodium -free'.
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
@@ -143,7 +143,7 @@ Animal  studies  have revealed  minimal  developmental  toxicity  (see section 5
 
 ## Breast-feeding
 
-Although it  is  not  known  whether  carglumic  acid  is  secreted  into  human  milk,  it  has  been shown to be present in the milk of lactating rats (see section 5.3). Therefore, breast-feeding during the use of carglumic acid is contraindicated (see section 4.3).
+Although  it  is  not  known  whether  carglumic  acid  is  secreted  into  human  milk,  it  has  been shown to be present in the milk of lactating rats (see section 5.3). Therefore, breast-feeding during the use of carglumic acid is contraindicated (see section 4.3).
 
 ## 4.7 Effects on ability to drive and use machines
 
@@ -151,16 +151,17 @@ No studies on the effects on the ability to drive and use machines have been per
 
 ## 4.8 Undesirable effects
 
-Reported adverse reactions are listed below, by system organ class and by frequency. Frequencies are  defined  as:  very common (≥1/10),  common  (≥1/100 to &lt;1/10),  uncommon (≥1/1 000 to &lt;1/100), rare (≥ 1/10 000 to &lt; 1/1 000), very rare (&lt; 1/10 000), not known (cannot be estimated from the available data).
+Reported adverse reactions are listed below, by system organ class and by frequency. Frequencies are  defined  as:  very  common (≥ 1/10),  common (≥1/100 to  &lt;1/10),  uncommon (≥1/1 000 to &lt;1/100) , rare (≥ 1/10 000 to &lt; 1/1 000), very rare (&lt; 1/10 000), not known (cannot be estimated from the available data).
 
 Within  each  frequency  grouping,  undesirable  effects  are  presented  in  order  of  decreasing seriousness.
 
 - -Undesirable effects in N-acetylglutamate synthase deficiency
-- -Undesirable effects in organic acidaemia
 
 | Investigations                         | Uncommon : increased transaminases          |
 |----------------------------------------|---------------------------------------------|
 | Skin and subcutaneous tissue disorders | Common : increased sweating Not known: rash |
+
+## -Undesirable effects in organic acidaemia
 
 | Cardiac disorders                                    | Uncommon : bradycardia        |
 |------------------------------------------------------|-------------------------------|
@@ -193,11 +194,13 @@ Carglumic acid is a structural analogue of N-acetylglutamate, which is the natur
 
 Carglumic  acid  has  been  shown in  vitro to  activate  liver  carbamoyl  phosphate synthetase. Despite a  lower  affinity  of  carbamoyl  phosphate  synthetase  for  carglumic  acid  than  for N-acetylglutamate,  carglumic  acid  has  been  shown in  vivo to  stimulate  carbamoyl  phosphate synthetase and to be much more effective than N-acetylglutamate in protecting against ammonia intoxication in rats. This could be explained by the following observations:
 
-i) The  mitochondrial  membrane  is  more  readily  permeable  for  carglumic  acid  than  for N-acetylglutamate ii) Carglumic  acid  is  more  resistant  than N-acetylglutamate  to  hydrolysis  by  aminoacylase present in the cytosol.
+i) The  mitochondrial  membrane  is  more  readily  permeable  for  carglumic  acid  than  for N-acetylglutamate
+
+ii) Carglumic  acid  is  more  resistant  than N-acetylglutamate  to  hydrolysis  by  aminoacylase present in the cytosol.
 
 ## Pharmacodynamic effects
 
-Other studies have been conducted in rats under different experimental conditions leading to increased ammonia availability (starvation, protein-free or high-protein diet). Carglumic acid  was shown to  decrease  blood  ammonia levels  and  increase  urea  levels  in  blood  and  urine,  whereas the  liver  content  of  carbamoyl  phosphate  synthetase  activators  was  significantly  increased.
+Other studies have been conducted in rats under different experimental conditions leading to increased ammonia availability (starvation, protein-free or high-protein diet). Carglumic acid was shown to  decrease  blood  ammonia  levels  and  increase  urea  levels  in  blood  and  urine,  whereas the  liver  content  of  carbamoyl  phosphate  synthetase  activators  was  significantly  increased.
 
 ## Clinical efficacy and safety
 
@@ -209,11 +212,9 @@ The pharmacokinetics of carglumic acid has been studied in healthy male voluntee
 
 ## Absorption
 
-After a single oral dose of 100 mg/kg body weight, approximately 30% of carglumic acid is estimated to be absorbed. At that dose-level, in 12 volunteers given carglumic acid tablets, plasma
+After a single oral dose of 100 mg/kg body weight, approximately 30% of carglumic acid is estimated to be absorbed. At that dose-level, in 12 volunteers given carglumic acid tablets, plasma concentration peaked at 2.6 μg/mL (median; range 1.8-4.8) after 3 hours (median; range 2-4).
 
 <div style=\"page-break-after: always\"></div>
-
-concentration peaked at 2.6 μg/mL (median; range 1.8-4.8) after 3 hours (median;  range 2-4).
 
 ## Distribution
 
@@ -229,13 +230,13 @@ The end product of carglumic acid metabolism is carbon dioxide, which is elimina
 
 After a single oral dose of 100 mg/kg body weight, 9% of the dose is excreted unchanged in the urine and up to 60% in the faeces.
 
-Plasma levels of carglumic acid were measured in patients of all age categories, from  newborn infants to adolescents, treated with various daily doses (7-122 mg/kg/day). Their  range was consistent with those measured in healthy adults, even in newborn infants. Whatever  the  daily dose,  they  were  slowly  declining  over  15  hours  to  levels  around  100 ng/mL.
+Plasma levels of carglumic acid were measured in patients of all age categories, from  newborn infants to adolescents, treated with various daily doses (7 -122 mg/kg/day). Their  range was consistent with those measured in healthy adults, even in newborn infants. Whatever  the  daily dose,  they  were  slowly  declining  over  15  hours  to  levels  around  100 ng/mL.
 
 ## Special Populations
 
 ## Patients with Renal Impairment
 
-The pharmacokinetics of carglumic acid in subjects with renal impairment were compared with subjects with normal renal function following oral administration of a single dose of carglumic acid 40 mg/kg or 80 mg/kg. The Cmax and AUC0-T of carglumic acid are summarized in the table below. The geometric mean ratio (90% CI) of AUC0-T in subjects with mild, moderate, and severe renal impairment relative to those in their matched control subjects with normal renal function were approximately 1.8 (1.34, 2.47), 2.8 (2.17, 3.65), and 6.9 (4.79, 9.96), respectively. Renal clearance (CLr) decreased by 0.79-, 0.53-, and 0.15-fold in mild, moderate and severe renal impaired subjects, respectively, when compared to subjects with normal renal function. It is considered that the PK changes of carglumic acid accompanied with impaired renal function are clinically relevant, and dosage adjustment on the dose would be warranted in moderate and severe renal impaired subjects [see Posology and method of administration (4.2)].
+The pharmacokinetics of carglumic acid in subjects with renal impairment were compared with subjects with normal renal function following oral administration of a single dose of carglumic acid 40 mg/kg or 80 mg/kg. The Cmax and AUC0-T of carglumic acid are summarized in the table below. The geometric mean ratio (90% CI) of AUC0-T in subjects with mild, moderate, and severe renal impairment relative to those in their matched control subjects with normal renal function were approximately 1.8 (1.34, 2.47), 2.8 (2.17, 3.65), and 6.9 (4.79, 9.96), respectively Renal clearance in mild, moderate and severe renal impaired subjects is 79%, 53% and 15% (decreases are 21%, 47% and 85%), respectively, when compared to subjects with normal renal function. It is considered that the PK changes of carglumic acid accompanied with impaired renal function are clinically relevant, and dosage adjustment on the dose would be warranted in moderate and severe renal impaired subjects [see Posology and method of administration (4.2)].
 
 Mean (± SD) Cmax and AUC0-T of Carglumic Acid Following Single Oral Dose Administration of carglumic acid 80 mg/kg or 40 mg/kg in Subjects with Renal Impairmentand Matched Control Subjects with Normal Renal Function
 
@@ -301,23 +302,20 @@ EU/1/17/1202/001 (60 tablets) EU/1/17/1202/002 (12 tablets)
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-Date of first authorisation: 23 June 2017 Date of latest renewal: 28 March 2022
+Date of first authorisation: 23 June 2017
+
+Date of latest renewal: 28 March 2022
 
 ## 10. DATE OF REVISION OF THE TEXT
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency (EMA) http://www.ema.europa.eu.
+Detailed  information on  this  medicinal  product  is  available  on  the  website  of  the  European Medicines Agency (EMA) http://www.ema.europa.eu.
 
 <div style=\"page-break-after: always\"></div>
 
 ## ANNEX II
 
-- A. MANUFACTURER(S) RESPONSIBLE FOR BATCH RELEASE
-
-## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
-
-## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
-
-## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
+- A. MANUFACTURER(S) RESPONSIBLE FOR BATCH RELEASE B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
+- D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
 <div style=\"page-break-after: always\"></div>
 
@@ -362,7 +360,7 @@ An updated RMP should be submitted:
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-OUTER CARTON 12 TABLETS
+## OUTER CARTON 12 TABLETS
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -388,8 +386,7 @@ Oral use only.
 
 Keep out of the sight and reach of children.
 
-## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
-
+7. OTHER SPECIAL WARNING(S), IF NECESSARY
 8. EXPIRY DATE
 
 EXP
@@ -398,61 +395,63 @@ EXP
 
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+<div style=\"page-break-after: always\"></div>
 
-Eurocept International BV (Lucane Pharma)
+| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|--------------------------------------------------------|
 
-Trapgans 5
-
-1244 RL Ankeveen
+Eurocept International BV Trapgans 5 1244 RL Ankeveen
 
 The Netherlands
 
-## 12. MARKETING AUTHORISATION NUMBER(S)
+| 12. MARKETING AUTHORISATION NUMBER(S)   |
+|-----------------------------------------|
 
 EU/1/17/1202/002
 
-## 13. BATCH NUMBER
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
 
 Batch
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
 
-15. INSTRUCTIONS ON USE
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
-## 16. INFORMATION IN BRAILLE
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
 
 Ucedane 200 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
+|-------|----------------------------------|
 
 2D barcode carrying the unique identifier included.
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|-------|------------------------------------------|
 
-PC
-
-SN
+PC SN
 
 NN
 
 <div style=\"page-break-after: always\"></div>
 
-<div style=\"page-break-after: always\"></div>
-
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-OUTER CARTON  60 TABLETS
+## OUTER CARTON  60 TABLETS
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
 Ucedane 200 mg dispersible tablets carglumic acid
 
-## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+## 2.       STATEMENT OF ACTIVE SUBSTANCE(S)
 
 Each tablet contains 200 mg of carglumic acid.
 
-3. LIST OF EXCIPIENTS
+3. LI ST OF EXCIPIENTS
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -464,12 +463,13 @@ Read the package leaflet before use.
 
 Oral use only.
 
-6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
 Keep out of the sight and reach of children.
 
-7. OTHER SPECIAL WARNING(S), IF NECESSARY
-8. EXPIRY DATE
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+## 8. EXPIRY DATE
 
 EXP
 
@@ -479,31 +479,38 @@ EXP
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
+Eurocept International BV
+
+Trapgans 5 1244 RL Ankeveen The Netherlands EU/1/17/1202/001
+
 <div style=\"page-break-after: always\"></div>
 
-Eurocept International BV (Lucane Pharma) Trapgans 5 1244 RL Ankeveen The Netherlands
+| 12. MARKETING AUTHORISATION NUMBER(S)   |
+|-----------------------------------------|
 
-## 12. MARKETING AUTHORISATION NUMBER(S)
-
-EU/1/17/1202/001
-
-## 13. BATCH NUMBER
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
 
 Batch
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+| 14. GENERAL CLASSIFICATION FOR SUPPLY   |
+|-----------------------------------------|
 
-15. INSTRUCTIONS ON USE
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
-## 16. INFORMATION IN BRAILLE
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
 
 Ucedane 200 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
+|-------|----------------------------------|
 
 2D barcode carrying the unique identifier included.
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|-------|------------------------------------------|
 
 PC SN
 
@@ -511,35 +518,40 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| BLISTER                                               |
 
-BLISTER
-
-## 1. NAME OF THE MEDICINAL PRODUCT
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 Ucedane 200 mg dispersible tablets carglumic acid
 
-## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
-Eurocept International BV (Lucane Pharma)
+Eurocept International BV
 
-## 3. EXPIRY DATE
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-## 4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Batch
 
-## 5. OTHER
+| 5.   | OTHER   |
+|------|---------|
 
 <div style=\"page-break-after: always\"></div>
 
 ## B. PACKAGE LEAFLET
 
-## Package leaflet: Information for the user
-
 <div style=\"page-break-after: always\"></div>
+
+## Package leaflet: Information for the user
 
 ## Ucedane 200 mg dispersible tablets carglumic acid
 
@@ -563,7 +575,7 @@ Batch
 
 Ucedane can help eliminating excessive ammonia plasma levels (elevated ammonia level in the  blood). Ammonia is especially toxic for the brain and leads, in severe cases, to reduced levels of  consciousness and to coma.
 
-Hyperammonaemia may be  due to
+## Hyperammonaemia may be  due to
 
 - the lack of a specific liver enzyme N-acetylglutamate synthase. Patients with this rare disorder are not able to eliminate nitrogen waste, which builds up after eating protein. This disorder persists during the entire life of the affected patient and therefore the need for this  treatment is lifelong.
 - isovaleric acidaemia, methylmalonic acidaemia or propionic acidaemia. Patients suffering from one of these disorders need treatment during the hyperammonaemia crisis.
@@ -614,7 +626,7 @@ Effects on the ability to drive and use machines are not known.
 
 ## Ucedane contains sodium
 
-This medicine contains less than 1 mmol sodium (23 mg) per maximum daily dose that is to say essentially 'sodium-free'.
+This medicine contains less than 1 mmol sodium (23 mg) per maximum daily dose that is to say essentially 'sodium -free'.
 
 ## 3. How to take Ucedane
 
@@ -655,8 +667,11 @@ Like all medicines, this medicine can cause side effects, although not everybody
 The following side effects were reported as follows: very common (may affect more than 1 in 10 people), common (may affect up to 1 in 10 people), uncommon (may affect up to 1 in 100 people), rare (may affect up to 1 in 1,000 people), very rare (may affect up to 1 in 10,000 people) and not known (frequency cannot be estimated from the available data).
 
 - Common: increased sweating
+
 - Uncommon : bradycardia (decreased frequency of the heart), diarrhoea, fever, increased transaminases, vomiting
-- Not known : rash
+
+- Not known
+- : rash
 
 If any of the side effects gets serious, or if you notice any side effects not listed in this leaflet, please tell your doctor or pharmacist.
 
@@ -679,7 +694,7 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 ## What Ucedane contains
 
 - -The active substance is carglumic acid. Each tablet contains 200 mg of carglumic acid.
-- -The other ingredients are microcrystalline cellulose, colloidal anhydrous silica, sodium stearyl fumarate (see section 2 'Ucedane contains sodium'), mannitol, copovidone K28, crospovidone type B.
+- -The other ingredients are microcrystalline cellulose, colloidal anhydrous silica, sodium stearyl fumarate (see section 2 'Ucedane contains sodium') , mannitol, copovidone K28, crospovidone type B.
 
 ## What Ucedane looks like and contents of the pack
 
@@ -687,11 +702,9 @@ Ucedane dispersible tablets are rod-shaped, white, and biconvex with three score
 
 Approximate tablet dimensions are 17 mm in length and 6 mm in width.
 
-The tablet can be divided into four equal doses.
-
 <div style=\"page-break-after: always\"></div>
 
-The tablets are presented in aluminium/aluminium blister packed in a carton. Pack size of 12 or 60 dispersible tablets. Not all pack sizes may be marketed.
+The tablet can be divided into four equal doses. The tablets are presented in aluminium/aluminium blister packed in a carton. Pack size of 12 or 60 dispersible tablets. Not all pack sizes may be marketed.
 
 ## Marketing Authorisation Holder
 
@@ -703,87 +716,87 @@ Eurocept International BV Trapgans 5 1244 RL Ankeveen The Netherlands
 
 For any information about this medicine, please contact the local representative of the  Marketing Authorisation Holder:
 
-België/Belgique/Belgien Lucane Pharma Tél/Tel: + 33 153 868 750 info@lucanepharma.com
+België/Belgique/Belgien Eurocept International BV Tél/Tel: +31 35 528 39 57 info@euroceptpharma.com
 
-България Lucane Pharma
+България Eurocept International BV Te л .: +31 35 528 39 57
 
-Teл.: + 33 153 868 750 info@lucanepharma.com
+info@euroceptpharma.com
 
-Česká republika Lucane Pharma Tél/Tel: + 33 153 868 750
+Česká republika
 
-info@lucanepharma.com
+Eurocept International BV Tél/Tel: +31 35 528 39 57
+
+info@euroceptpharma.com
 
 Danmark FrostPharma AB Tlf: +46 824 36 60
 
 info@frostpharma.com
 
-Deutschland Lucane Pharma Tel: + 33 153 868 750
+Deutschland Eurocept International BV Tel: +31 35 528 39 57
 
-info@lucanepharma.com
+info@euroceptpharma.com
 
-Eesti FrostPharma AB Tel: +46 824 36 60
+Eesti FrostPharma AB
 
-info@frostpharma.com
+Tel: +46 824 36 60 info@frostpharma.com
 
-Ελλάδα Lucane Pharma Τηλ: + 33 153 868 750
-
-info@lucanepharma.com
+Ελλάδα Eurocept International BV Τηλ : +31 35 528 39 57
 
 Lietuva FrostPharma AB Tel: +46 824 36 60 info@frostpharma.com
 
-## Luxembourg/Luxemburg
+Luxembourg/Luxemburg Eurocept International BV Tél/Tel: +31 35 528 39 57 info@euroceptpharma.com
 
-Lucane Pharma Tél/Tel: + 33 153 868 750 info@lucanepharma.com
+Magyarország Eurocept International BV Tel: +31 35 528 39 57
 
-Magyarország Lucane Pharma
+info@euroceptpharma.com
 
-Tel: + 33 153 868 750 info@lucanepharma.com
+Malta Tel: +31 35 528 39 57
 
-Malta Lucane Pharma Tel: + 33 153 868 750
+Eurocept International BV info@euroceptpharma.com
 
-info@lucanepharma.com
+Nederland Eurocept International BV Tel: +31 35 528 39 57
 
-## Nederland
+info@euroceptpharma.com
 
-Eurocept International BV Tel: +31 35 528 39 57 info@euroceptpharma.com
+Norge FrostPharma AB
 
-Norge FrostPharma AB Tlf: ++46 824 36 60
+Tlf: +46 824 36 60 info@frostpharma.com
 
-info@frostpharma.com
-
-Österreich Lucane Pharma Tel: + 33 153 868 750
-
-info@lucanepharma.com
+Österreich Eurocept International BV Tel: +31 35 528 39 57
 
 <div style=\"page-break-after: always\"></div>
 
-España Lucane Pharma Tel: + 33 153 868 750
+info@euroceptpharma.com
 
-info@lucanepharma.com
+España Eurocept International BV Tel: +31 35 528 39 57
+
+info@euroceptpharma.com
 
 France Lucane Pharma Tél: + 33 153 868 750
 
 info@lucanepharma.com
 
-Hrvatska Lucane Pharma Tel: + 33 153 868 750
+Hrvatska
 
-info@lucanepharma.com
+Eurocept International BV Tel: +31 35 528 39 57
 
-Ireland Lucane Pharma Tel: + 33 153 868 750
+info@euroceptpharma.com
 
-info@lucanepharma.com
+Ireland Eurocept International BV Tel: +31 35 528 39 57
+
+info@euroceptpharma.com
 
 Ísland FrostPharma AB Sími: +46 824 36 60
 
 info@frostpharma.com
 
-Italia Lucane Pharma Tel: + 33 153 868 750
+Italia Eurocept International BV Tel: +31 35 528 39 57
 
-info@lucanepharma.com
+info@euroceptpharma.com
 
-Κύπρος Lucane Pharma Τηλ: + 33 153 868 750
+Κύπρος Eurocept International BV Τηλ : +31 35 528 39 57
 
-info@lucanepharma.com
+info@euroceptpharma.com
 
 Latvija FrostPharma AB Tel: +46 824 36 60
 
@@ -795,25 +808,27 @@ info@frostpharma.com
 
 Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
 
-Polska Lucane Pharma Tel: + 33 153 868 750
+info@euroceptpharma.com
 
-info@lucanepharma.com
+Polska
 
-Portugal Lucane Pharma Tel: + 33 153 868 750
+IMED Poland Sp. z o.o. Tel: + 48 22 663 43 03 imed@imed.com.pl
 
-info@lucanepharma.com
+Portugal Duxpharma Tel: +351 21 824 98 76
 
-România Lucane Pharma Tel: + 33 153 868 750
+customerservice@duxpharma.com
 
-info@lucanepharma.com
+România Eurocept International BV Tel: +31 35 528 39 57
 
-Slovenija Lucane Pharma Tel: + 33 153 868 750
+info@euroceptpharma.com
 
-info@lucanepharma.com
+Slovenija Eurocept International BV Tel: +31 35 528 39 57
 
-Slovenská republika Lucane Pharma Tel: + 33 153 868 750
+info@euroceptpharma.com
 
-info@lucanepharma.com
+Slovenská republika Eurocept International BV Tel: +31 35 528 39 57
+
+info@euroceptpharma.com
 
 Suomi/Finland FrostPharma AB Puh/Tel: +46 824 36 60
 

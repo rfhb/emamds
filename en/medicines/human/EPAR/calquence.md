@@ -1,32 +1,32 @@
 ---
-document_datetime: 2025-12-29 11:22:36
+document_datetime: 2026-05-27 16:02:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/calquence.html
 document_name: calquence.html
 version: success
-processing_time: 0.1225669
-conversion_datetime: 2025-12-30 01:10:45.694141
+processing_time: 0.3084807
+conversion_datetime: 2026-05-29 20:16:25.620567
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.20.0
+  docling-jobkit: 1.20.0
+  docling: 2.96.0
+  docling-core: 2.78.0
+  docling-ibm-models: 3.13.2
+  docling-parse: 6.2.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
 ---
 # Calquence
 
 [RSS](/en/individual-human-medicine.xml/67352)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-acalabrutinib Medicine Human Authorised
+acalabrutinib
 
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
+Medicine Human Authorised
 
 Page contents
 
@@ -127,275 +127,141 @@ Reference Number: EMA/161301/2025
 
 English (EN) (151.7 KB - PDF)
 
-**First published:** 11/11/2020
-
-**Last updated:** 15/07/2025
+**First published:** 11/11/2020 **Last updated:** 15/07/2025
 
 [View](/en/documents/overview/calquence-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-523)
+[Other languages (22)](#file-language-dropdown-630)
 
 български (BG) (178.45 KB - PDF)
 
-**First published:**
-
-11/11/2020
-
-**Last updated:**
-
-15/07/2025
+**First published:** 11/11/2020 **Last updated:** 15/07/2025
 
 [View](/bg/documents/overview/calquence-epar-medicine-overview_bg.pdf)
 
 español (ES) (151.46 KB - PDF)
 
-**First published:**
-
-11/11/2020
-
-**Last updated:**
-
-15/07/2025
+**First published:** 11/11/2020 **Last updated:** 15/07/2025
 
 [View](/es/documents/overview/calquence-epar-medicine-overview_es.pdf)
 
 čeština (CS) (177.98 KB - PDF)
 
-**First published:**
-
-11/11/2020
-
-**Last updated:**
-
-15/07/2025
+**First published:** 11/11/2020 **Last updated:** 15/07/2025
 
 [View](/cs/documents/overview/calquence-epar-medicine-overview_cs.pdf)
 
 dansk (DA) (149.41 KB - PDF)
 
-**First published:**
-
-11/11/2020
-
-**Last updated:**
-
-15/07/2025
+**First published:** 11/11/2020 **Last updated:** 15/07/2025
 
 [View](/da/documents/overview/calquence-epar-medicine-overview_da.pdf)
 
 Deutsch (DE) (155.38 KB - PDF)
 
-**First published:**
-
-11/11/2020
-
-**Last updated:**
-
-15/07/2025
+**First published:** 11/11/2020 **Last updated:** 15/07/2025
 
 [View](/de/documents/overview/calquence-epar-medicine-overview_de.pdf)
 
 eesti keel (ET) (148.83 KB - PDF)
 
-**First published:**
-
-11/11/2020
-
-**Last updated:**
-
-15/07/2025
+**First published:** 11/11/2020 **Last updated:** 15/07/2025
 
 [View](/et/documents/overview/calquence-epar-medicine-overview_et.pdf)
 
 ελληνικά (EL) (179.19 KB - PDF)
 
-**First published:**
-
-11/11/2020
-
-**Last updated:**
-
-15/07/2025
+**First published:** 11/11/2020 **Last updated:** 15/07/2025
 
 [View](/el/documents/overview/calquence-epar-medicine-overview_el.pdf)
 
 français (FR) (152.94 KB - PDF)
 
-**First published:**
-
-11/11/2020
-
-**Last updated:**
-
-15/07/2025
+**First published:** 11/11/2020 **Last updated:** 15/07/2025
 
 [View](/fr/documents/overview/calquence-epar-medicine-overview_fr.pdf)
 
 hrvatski (HR) (174.92 KB - PDF)
 
-**First published:**
-
-11/11/2020
-
-**Last updated:**
-
-15/07/2025
+**First published:** 11/11/2020 **Last updated:** 15/07/2025
 
 [View](/hr/documents/overview/calquence-epar-medicine-overview_hr.pdf)
 
 italiano (IT) (150.36 KB - PDF)
 
-**First published:**
-
-11/11/2020
-
-**Last updated:**
-
-15/07/2025
+**First published:** 11/11/2020 **Last updated:** 15/07/2025
 
 [View](/it/documents/overview/calquence-epar-medicine-overview_it.pdf)
 
 latviešu valoda (LV) (183.75 KB - PDF)
 
-**First published:**
-
-11/11/2020
-
-**Last updated:**
-
-15/07/2025
+**First published:** 11/11/2020 **Last updated:** 15/07/2025
 
 [View](/lv/documents/overview/calquence-epar-medicine-overview_lv.pdf)
 
 lietuvių kalba (LT) (177.13 KB - PDF)
 
-**First published:**
-
-11/11/2020
-
-**Last updated:**
-
-15/07/2025
+**First published:** 11/11/2020 **Last updated:** 15/07/2025
 
 [View](/lt/documents/overview/calquence-epar-medicine-overview_lt.pdf)
 
 magyar (HU) (177.44 KB - PDF)
 
-**First published:**
-
-11/11/2020
-
-**Last updated:**
-
-15/07/2025
+**First published:** 11/11/2020 **Last updated:** 15/07/2025
 
 [View](/hu/documents/overview/calquence-epar-medicine-overview_hu.pdf)
 
 Malti (MT) (176.77 KB - PDF)
 
-**First published:**
-
-11/11/2020
-
-**Last updated:**
-
-15/07/2025
+**First published:** 11/11/2020 **Last updated:** 15/07/2025
 
 [View](/mt/documents/overview/calquence-epar-medicine-overview_mt.pdf)
 
 Nederlands (NL) (150.97 KB - PDF)
 
-**First published:**
-
-11/11/2020
-
-**Last updated:**
-
-15/07/2025
+**First published:** 11/11/2020 **Last updated:** 15/07/2025
 
 [View](/nl/documents/overview/calquence-epar-medicine-overview_nl.pdf)
 
 polski (PL) (183.8 KB - PDF)
 
-**First published:**
-
-11/11/2020
-
-**Last updated:**
-
-15/07/2025
+**First published:** 11/11/2020 **Last updated:** 15/07/2025
 
 [View](/pl/documents/overview/calquence-epar-medicine-overview_pl.pdf)
 
 português (PT) (159.95 KB - PDF)
 
-**First published:**
-
-11/11/2020
-
-**Last updated:**
-
-15/07/2025
+**First published:** 11/11/2020 **Last updated:** 15/07/2025
 
 [View](/pt/documents/overview/calquence-epar-medicine-overview_pt.pdf)
 
 română (RO) (173.64 KB - PDF)
 
-**First published:**
-
-11/11/2020
-
-**Last updated:**
-
-15/07/2025
+**First published:** 11/11/2020 **Last updated:** 15/07/2025
 
 [View](/ro/documents/overview/calquence-epar-medicine-overview_ro.pdf)
 
 slovenčina (SK) (175.91 KB - PDF)
 
-**First published:**
-
-11/11/2020
-
-**Last updated:**
-
-15/07/2025
+**First published:** 11/11/2020 **Last updated:** 15/07/2025
 
 [View](/sk/documents/overview/calquence-epar-medicine-overview_sk.pdf)
 
 slovenščina (SL) (175.2 KB - PDF)
 
-**First published:**
-
-11/11/2020
-
-**Last updated:**
-
-15/07/2025
+**First published:** 11/11/2020 **Last updated:** 15/07/2025
 
 [View](/sl/documents/overview/calquence-epar-medicine-overview_sl.pdf)
 
 Suomi (FI) (149.42 KB - PDF)
 
-**First published:**
-
-11/11/2020
-
-**Last updated:**
-
-15/07/2025
+**First published:** 11/11/2020 **Last updated:** 15/07/2025
 
 [View](/fi/documents/overview/calquence-epar-medicine-overview_fi.pdf)
 
 svenska (SV) (149.77 KB - PDF)
 
-**First published:**
-
-11/11/2020
-
-**Last updated:**
-
-15/07/2025
+**First published:** 11/11/2020 **Last updated:** 15/07/2025
 
 [View](/sv/documents/overview/calquence-epar-medicine-overview_sv.pdf)
 
@@ -403,9 +269,7 @@ Calquence : EPAR - Risk management plan
 
 English (EN) (1.08 MB - PDF)
 
-**First published:** 11/11/2020
-
-**Last updated:** 15/07/2025
+**First published:** 11/11/2020 **Last updated:** 15/07/2025
 
 [View](/en/documents/rmp/calquence-epar-risk-management-plan_en.pdf)
 
@@ -413,305 +277,161 @@ English (EN) (1.08 MB - PDF)
 
 Calquence : EPAR - Product information
 
-English (EN) (1.91 MB - PDF)
+English (EN) (993.02 KB - PDF)
 
-**First published:** 11/11/2020
-
-**Last updated:** 19/09/2025
+**First published:** 11/11/2020 **Last updated:** 27/05/2026
 
 [View](/en/documents/product-information/calquence-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-694)
+[Other languages (24)](#file-language-dropdown-451)
 
-български (BG) (2.08 MB - PDF)
+български (BG) (1.06 MB - PDF)
 
-**First published:**
-
-11/11/2020
-
-**Last updated:**
-
-19/09/2025
+**First published:** 11/11/2020 **Last updated:** 27/05/2026
 
 [View](/bg/documents/product-information/calquence-epar-product-information_bg.pdf)
 
-español (ES) (2.02 MB - PDF)
+español (ES) (1.03 MB - PDF)
 
-**First published:**
-
-11/11/2020
-
-**Last updated:**
-
-19/09/2025
+**First published:** 11/11/2020 **Last updated:** 27/05/2026
 
 [View](/es/documents/product-information/calquence-epar-product-information_es.pdf)
 
-čeština (CS) (2.07 MB - PDF)
+čeština (CS) (1.06 MB - PDF)
 
-**First published:**
-
-11/11/2020
-
-**Last updated:**
-
-19/09/2025
+**First published:** 11/11/2020 **Last updated:** 27/05/2026
 
 [View](/cs/documents/product-information/calquence-epar-product-information_cs.pdf)
 
-dansk (DA) (1.99 MB - PDF)
+dansk (DA) (1004.59 KB - PDF)
 
-**First published:**
-
-11/11/2020
-
-**Last updated:**
-
-19/09/2025
+**First published:** 11/11/2020 **Last updated:** 27/05/2026
 
 [View](/da/documents/product-information/calquence-epar-product-information_da.pdf)
 
-Deutsch (DE) (2.04 MB - PDF)
+Deutsch (DE) (1.05 MB - PDF)
 
-**First published:**
-
-11/11/2020
-
-**Last updated:**
-
-19/09/2025
+**First published:** 11/11/2020 **Last updated:** 27/05/2026
 
 [View](/de/documents/product-information/calquence-epar-product-information_de.pdf)
 
-eesti keel (ET) (1.98 MB - PDF)
+eesti keel (ET) (1008.32 KB - PDF)
 
-**First published:**
-
-11/11/2020
-
-**Last updated:**
-
-19/09/2025
+**First published:** 11/11/2020 **Last updated:** 27/05/2026
 
 [View](/et/documents/product-information/calquence-epar-product-information_et.pdf)
 
-ελληνικά (EL) (2.14 MB - PDF)
+ελληνικά (EL) (1.12 MB - PDF)
 
-**First published:**
-
-11/11/2020
-
-**Last updated:**
-
-19/09/2025
+**First published:** 11/11/2020 **Last updated:** 27/05/2026
 
 [View](/el/documents/product-information/calquence-epar-product-information_el.pdf)
 
-français (FR) (2.1 MB - PDF)
+français (FR) (1.08 MB - PDF)
 
-**First published:**
-
-11/11/2020
-
-**Last updated:**
-
-19/09/2025
+**First published:** 11/11/2020 **Last updated:** 27/05/2026
 
 [View](/fr/documents/product-information/calquence-epar-product-information_fr.pdf)
 
 hrvatski (HR) (1.06 MB - PDF)
 
-**First published:**
-
-11/11/2020
-
-**Last updated:**
-
-19/09/2025
+**First published:** 11/11/2020 **Last updated:** 27/05/2026
 
 [View](/hr/documents/product-information/calquence-epar-product-information_hr.pdf)
 
-íslenska (IS) (2.06 MB - PDF)
+íslenska (IS) (1.05 MB - PDF)
 
-**First published:**
-
-11/11/2020
-
-**Last updated:**
-
-19/09/2025
+**First published:** 11/11/2020 **Last updated:** 27/05/2026
 
 [View](/is/documents/product-information/calquence-epar-product-information_is.pdf)
 
-italiano (IT) (2.02 MB - PDF)
+italiano (IT) (1.05 MB - PDF)
 
-**First published:**
-
-11/11/2020
-
-**Last updated:**
-
-19/09/2025
+**First published:** 11/11/2020 **Last updated:** 27/05/2026
 
 [View](/it/documents/product-information/calquence-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (2.08 MB - PDF)
+latviešu valoda (LV) (1.07 MB - PDF)
 
-**First published:**
-
-11/11/2020
-
-**Last updated:**
-
-19/09/2025
+**First published:** 11/11/2020 **Last updated:** 27/05/2026
 
 [View](/lv/documents/product-information/calquence-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (2.12 MB - PDF)
+lietuvių kalba (LT) (1.09 MB - PDF)
 
-**First published:**
-
-11/11/2020
-
-**Last updated:**
-
-19/09/2025
+**First published:** 11/11/2020 **Last updated:** 27/05/2026
 
 [View](/lt/documents/product-information/calquence-epar-product-information_lt.pdf)
 
-magyar (HU) (2.09 MB - PDF)
+magyar (HU) (1.1 MB - PDF)
 
-**First published:**
-
-11/11/2020
-
-**Last updated:**
-
-19/09/2025
+**First published:** 11/11/2020 **Last updated:** 27/05/2026
 
 [View](/hu/documents/product-information/calquence-epar-product-information_hu.pdf)
 
-Malti (MT) (2.12 MB - PDF)
+Malti (MT) (1.13 MB - PDF)
 
-**First published:**
-
-11/11/2020
-
-**Last updated:**
-
-19/09/2025
+**First published:** 11/11/2020 **Last updated:** 27/05/2026
 
 [View](/mt/documents/product-information/calquence-epar-product-information_mt.pdf)
 
-Nederlands (NL) (1.97 MB - PDF)
+Nederlands (NL) (1016 KB - PDF)
 
-**First published:**
-
-11/11/2020
-
-**Last updated:**
-
-19/09/2025
+**First published:** 11/11/2020 **Last updated:** 27/05/2026
 
 [View](/nl/documents/product-information/calquence-epar-product-information_nl.pdf)
 
-norsk (NO) (1.96 MB - PDF)
+norsk (NO) (1006.89 KB - PDF)
 
-**First published:**
-
-11/11/2020
-
-**Last updated:**
-
-19/09/2025
+**First published:** 11/11/2020 **Last updated:** 27/05/2026
 
 [View](/no/documents/product-information/calquence-epar-product-information_no.pdf)
 
-polski (PL) (2.11 MB - PDF)
+polski (PL) (1.11 MB - PDF)
 
-**First published:**
-
-11/11/2020
-
-**Last updated:**
-
-19/09/2025
+**First published:** 11/11/2020 **Last updated:** 27/05/2026
 
 [View](/pl/documents/product-information/calquence-epar-product-information_pl.pdf)
 
-português (PT) (1.98 MB - PDF)
+português (PT) (1.04 MB - PDF)
 
-**First published:**
-
-11/11/2020
-
-**Last updated:**
-
-19/09/2025
+**First published:** 11/11/2020 **Last updated:** 27/05/2026
 
 [View](/pt/documents/product-information/calquence-epar-product-information_pt.pdf)
 
-română (RO) (2.04 MB - PDF)
+română (RO) (1.05 MB - PDF)
 
-**First published:**
-
-11/11/2020
-
-**Last updated:**
-
-19/09/2025
+**First published:** 11/11/2020 **Last updated:** 27/05/2026
 
 [View](/ro/documents/product-information/calquence-epar-product-information_ro.pdf)
 
-slovenčina (SK) (2.08 MB - PDF)
+slovenčina (SK) (1.08 MB - PDF)
 
-**First published:**
-
-11/11/2020
-
-**Last updated:**
-
-19/09/2025
+**First published:** 11/11/2020 **Last updated:** 27/05/2026
 
 [View](/sk/documents/product-information/calquence-epar-product-information_sk.pdf)
 
-slovenščina (SL) (2 MB - PDF)
+slovenščina (SL) (1.01 MB - PDF)
 
-**First published:**
-
-11/11/2020
-
-**Last updated:**
-
-19/09/2025
+**First published:** 11/11/2020 **Last updated:** 27/05/2026
 
 [View](/sl/documents/product-information/calquence-epar-product-information_sl.pdf)
 
-Suomi (FI) (2.01 MB - PDF)
+Suomi (FI) (1.03 MB - PDF)
 
-**First published:**
-
-11/11/2020
-
-**Last updated:**
-
-19/09/2025
+**First published:** 11/11/2020 **Last updated:** 27/05/2026
 
 [View](/fi/documents/product-information/calquence-epar-product-information_fi.pdf)
 
-svenska (SV) (1.94 MB - PDF)
+svenska (SV) (957.2 KB - PDF)
 
-**First published:**
-
-11/11/2020
-
-**Last updated:**
-
-19/09/2025
+**First published:** 11/11/2020 **Last updated:** 27/05/2026
 
 [View](/sv/documents/product-information/calquence-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** R/0000247050 28/08/2025
+**Latest procedure affecting product information:** VR/0000332092
+
+26/05/2026
 
 icon globe
 
@@ -731,310 +451,178 @@ Calquence : EPAR - All authorised presentations
 
 English (EN) (23.98 KB - PDF)
 
-**First published:** 11/11/2020
-
-**Last updated:** 06/03/2023
+**First published:** 11/11/2020 **Last updated:** 06/03/2023
 
 [View](/en/documents/all-authorised-presentations/calquence-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-151)
+[Other languages (24)](#file-language-dropdown-378)
 
 български (BG) (28.52 KB - PDF)
 
-**First published:**
-
-11/11/2020
-
-**Last updated:**
-
-06/03/2023
+**First published:** 11/11/2020 **Last updated:** 06/03/2023
 
 [View](/bg/documents/all-authorised-presentations/calquence-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (23.26 KB - PDF)
 
-**First published:**
-
-11/11/2020
-
-**Last updated:**
-
-06/03/2023
+**First published:** 11/11/2020 **Last updated:** 06/03/2023
 
 [View](/es/documents/all-authorised-presentations/calquence-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (25.04 KB - PDF)
 
-**First published:**
-
-11/11/2020
-
-**Last updated:**
-
-06/03/2023
+**First published:** 11/11/2020 **Last updated:** 06/03/2023
 
 [View](/cs/documents/all-authorised-presentations/calquence-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (25.26 KB - PDF)
 
-**First published:**
-
-11/11/2020
-
-**Last updated:**
-
-06/03/2023
+**First published:** 11/11/2020 **Last updated:** 06/03/2023
 
 [View](/da/documents/all-authorised-presentations/calquence-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (24.32 KB - PDF)
 
-**First published:**
-
-11/11/2020
-
-**Last updated:**
-
-06/03/2023
+**First published:** 11/11/2020 **Last updated:** 06/03/2023
 
 [View](/de/documents/all-authorised-presentations/calquence-epar-all-authorised-presentations_de.pdf)
 
 eesti keel (ET) (24.55 KB - PDF)
 
-**First published:**
-
-11/11/2020
-
-**Last updated:**
-
-06/03/2023
+**First published:** 11/11/2020 **Last updated:** 06/03/2023
 
 [View](/et/documents/all-authorised-presentations/calquence-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (26.64 KB - PDF)
 
-**First published:**
-
-11/11/2020
-
-**Last updated:**
-
-06/03/2023
+**First published:** 11/11/2020 **Last updated:** 06/03/2023
 
 [View](/el/documents/all-authorised-presentations/calquence-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (22.77 KB - PDF)
 
-**First published:**
-
-11/11/2020
-
-**Last updated:**
-
-06/03/2023
+**First published:** 11/11/2020 **Last updated:** 06/03/2023
 
 [View](/fr/documents/all-authorised-presentations/calquence-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (23.85 KB - PDF)
 
-**First published:**
-
-11/11/2020
-
-**Last updated:**
-
-06/03/2023
+**First published:** 11/11/2020 **Last updated:** 06/03/2023
 
 [View](/hr/documents/all-authorised-presentations/calquence-epar-all-authorised-presentations_hr.pdf)
 
 íslenska (IS) (23.25 KB - PDF)
 
-**First published:**
-
-11/11/2020
-
-**Last updated:**
-
-06/03/2023
+**First published:** 11/11/2020 **Last updated:** 06/03/2023
 
 [View](/is/documents/all-authorised-presentations/calquence-epar-all-authorised-presentations_is.pdf)
 
 italiano (IT) (23.02 KB - PDF)
 
-**First published:**
-
-11/11/2020
-
-**Last updated:**
-
-06/03/2023
+**First published:** 11/11/2020 **Last updated:** 06/03/2023
 
 [View](/it/documents/all-authorised-presentations/calquence-epar-all-authorised-presentations_it.pdf)
 
 latviešu valoda (LV) (24 KB - PDF)
 
-**First published:**
-
-11/11/2020
-
-**Last updated:**
-
-06/03/2023
+**First published:** 11/11/2020 **Last updated:** 06/03/2023
 
 [View](/lv/documents/all-authorised-presentations/calquence-epar-all-authorised-presentations_lv.pdf)
 
 lietuvių kalba (LT) (25.62 KB - PDF)
 
-**First published:**
-
-11/11/2020
-
-**Last updated:**
-
-06/03/2023
+**First published:** 11/11/2020 **Last updated:** 06/03/2023
 
 [View](/lt/documents/all-authorised-presentations/calquence-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (26.29 KB - PDF)
 
-**First published:**
-
-11/11/2020
-
-**Last updated:**
-
-06/03/2023
+**First published:** 11/11/2020 **Last updated:** 06/03/2023
 
 [View](/hu/documents/all-authorised-presentations/calquence-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (33.11 KB - PDF)
 
-**First published:**
-
-11/11/2020
-
-**Last updated:**
-
-06/03/2023
+**First published:** 11/11/2020 **Last updated:** 06/03/2023
 
 [View](/mt/documents/all-authorised-presentations/calquence-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (23.15 KB - PDF)
 
-**First published:**
-
-11/11/2020
-
-**Last updated:**
-
-06/03/2023
+**First published:** 11/11/2020 **Last updated:** 06/03/2023
 
 [View](/nl/documents/all-authorised-presentations/calquence-epar-all-authorised-presentations_nl.pdf)
 
 norsk (NO) (24.19 KB - PDF)
 
-**First published:**
-
-11/11/2020
-
-**Last updated:**
-
-06/03/2023
+**First published:** 11/11/2020 **Last updated:** 06/03/2023
 
 [View](/no/documents/all-authorised-presentations/calquence-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (27.46 KB - PDF)
 
-**First published:**
-
-11/11/2020
-
-**Last updated:**
-
-06/03/2023
+**First published:** 11/11/2020 **Last updated:** 06/03/2023
 
 [View](/pl/documents/all-authorised-presentations/calquence-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (23.2 KB - PDF)
 
-**First published:**
-
-11/11/2020
-
-**Last updated:**
-
-06/03/2023
+**First published:** 11/11/2020 **Last updated:** 06/03/2023
 
 [View](/pt/documents/all-authorised-presentations/calquence-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (25.99 KB - PDF)
 
-**First published:**
-
-11/11/2020
-
-**Last updated:**
-
-06/03/2023
+**First published:** 11/11/2020 **Last updated:** 06/03/2023
 
 [View](/ro/documents/all-authorised-presentations/calquence-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (24.86 KB - PDF)
 
-**First published:**
-
-11/11/2020
-
-**Last updated:**
-
-06/03/2023
+**First published:** 11/11/2020 **Last updated:** 06/03/2023
 
 [View](/sk/documents/all-authorised-presentations/calquence-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (23.22 KB - PDF)
 
-**First published:**
-
-11/11/2020
-
-**Last updated:**
-
-06/03/2023
+**First published:** 11/11/2020 **Last updated:** 06/03/2023
 
 [View](/sl/documents/all-authorised-presentations/calquence-epar-all-authorised-presentations_sl.pdf)
 
 Suomi (FI) (22.41 KB - PDF)
 
-**First published:**
-
-11/11/2020
-
-**Last updated:**
-
-06/03/2023
+**First published:** 11/11/2020 **Last updated:** 06/03/2023
 
 [View](/fi/documents/all-authorised-presentations/calquence-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (23.75 KB - PDF)
 
-**First published:**
-
-11/11/2020
-
-**Last updated:**
-
-06/03/2023
+**First published:** 11/11/2020 **Last updated:** 06/03/2023
 
 [View](/sv/documents/all-authorised-presentations/calquence-epar-all-authorised-presentations_sv.pdf)
 
 ## Product details
 
-Name of medicine Calquence Active substance
+Name of medicine
+
+Calquence
+
+Active substance
 
 - acalabrutinib
 - acalabrutinib maleate
 
-International non-proprietary name (INN) or common name acalabrutinib Therapeutic area (MeSH) Leukemia, Lymphocytic, Chronic, B-Cell Anatomical therapeutic chemical (ATC) code L01EL02
+International non-proprietary name (INN) or common name
+
+acalabrutinib
+
+Therapeutic area (MeSH)
+
+Leukemia, Lymphocytic, Chronic, B-Cell
+
+Anatomical therapeutic chemical (ATC) code
+
+L01EL02
 
 ### Pharmacotherapeutic group
 
@@ -1046,13 +634,27 @@ Calquence as monotherapy or in combination with obinutuzumab is indicated for th
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/005299 Marketing authorisation holder
+EMA product number
+
+EMEA/H/C/005299
+
+Marketing authorisation holder
 
 AstraZeneca AB
 
 151 85 Sodertalje
 
-Opinion adopted 05/11/2020 Marketing authorisation issued 05/11/2020 Revision 11
+Opinion adopted
+
+05/11/2020
+
+Marketing authorisation issued
+
+05/11/2020
+
+Revision
+
+12
 
 ## Assessment history
 
@@ -1062,13 +664,19 @@ Collapse section
 
 ## Changes since initial authorisation of medicine
 
+Calquence : EPAR - Procedural steps taken and scientific information after authorisation
+
+English (EN) (157.11 KB - PDF)
+
+**First published:** 27/05/2026
+
+[View](/en/documents/procedural-steps-after/calquence-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf-0)
+
 Calquence : EPAR - Procedural steps taken and scientific information after authorisation (archive)
 
 English (EN) (200.59 KB - PDF)
 
-**First published:** 02/08/2021
-
-**Last updated:** 19/09/2025
+**First published:** 02/08/2021 **Last updated:** 19/09/2025
 
 [View](/en/documents/procedural-steps-after/calquence-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
@@ -1084,9 +692,7 @@ English (EN) (3.8 MB - PDF)
 
 Calquence-H-C-005299-II-0026 : EPAR - Assessment report extension of indication
 
-Adopted
-
-Reference Number: EMA/CHMP/50170/2025
+Adopted Reference Number: EMA/CHMP/50170/2025
 
 English (EN) (1.29 MB - PDF)
 
@@ -1096,23 +702,17 @@ English (EN) (1.29 MB - PDF)
 
 Calquence-H-C-005299-II-0025 : EPAR - Assessment report
 
-Adopted
-
-Reference Number: EMA/176133/2025
+Adopted Reference Number: EMA/176133/2025
 
 English (EN) (5.4 MB - PDF)
 
-**First published:** 27/05/2025
-
-**Last updated:** 28/11/2025
+**First published:** 27/05/2025 **Last updated:** 28/11/2025
 
 [View](/en/documents/variation-report/calquence-h-c-005299-ii-0025-epar-assessment-report_en.pdf)
 
 CHMP post-authorisation summary of positive opinion for Calquence (II-28)
 
-Adopted
-
-Reference Number: EMA/CHMP/125193/2025
+Adopted Reference Number: EMA/CHMP/125193/2025
 
 English (EN) (133 KB - PDF)
 
@@ -1132,9 +732,7 @@ English (EN) (133.65 KB - PDF)
 
 CHMP post-authorisation summary of positive opinion for Calquence (II-26)
 
-Adopted
-
-Reference Number: EMA/CHMP/50186/2025
+Adopted Reference Number: EMA/CHMP/50186/2025
 
 English (EN) (137.43 KB - PDF)
 
@@ -1144,9 +742,7 @@ English (EN) (137.43 KB - PDF)
 
 Calquence-H-C-005299-X-0009-G : EPAR - Assessment report
 
-Adopted
-
-Reference Number: EMA/38803/2023
+Adopted Reference Number: EMA/38803/2023
 
 English (EN) (520.03 KB - PDF)
 
@@ -1158,9 +754,7 @@ English (EN) (520.03 KB - PDF)
 
 Calquence : EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/CHMP/458179/2020
+Adopted Reference Number: EMA/CHMP/458179/2020
 
 English (EN) (6.7 MB - PDF)
 
@@ -1170,9 +764,7 @@ English (EN) (6.7 MB - PDF)
 
 Calquence : Orphan designation withdrawal assessment report (initial authorisation)
 
-Adopted
-
-Reference Number: EMA/OD/0000021547
+Adopted Reference Number: EMA/OD/0000021547
 
 English (EN) (815.73 KB - PDF)
 
@@ -1182,9 +774,7 @@ English (EN) (815.73 KB - PDF)
 
 CHMP summary of positive opinion for Calquence
 
-Adopted
-
-Reference Number: EMA/CHMP/374568/2020
+Adopted Reference Number: EMA/CHMP/374568/2020
 
 English (EN) (159.55 KB - PDF)
 
@@ -1192,31 +782,39 @@ English (EN) (159.55 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-calquence_en.pdf)
 
-#### News on Calquence
+## News on Calquence
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 22-25 April 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-22-25-april-2025) 25/04/2025
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 22-25 April 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-22-25-april-2025)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 24-27 March 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-24-27-march-2025) 28/03/2025
+25/04/2025
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 24-27 February 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-24-27-february-2025) 28/02/2025
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 24-27 March 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-24-27-march-2025)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 20-23 July 2020](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-20-23-july-2020) 24/07/2020
+28/03/2025
 
-#### More information on Calquence
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 24-27 February 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-24-27-february-2025)
+
+28/02/2025
+
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 20-23 July 2020](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-20-23-july-2020)
+
+24/07/2020
+
+## More information on Calquence
 
 This product is no longer an orphan medicine. It was originally [designated an orphan medicine](/en/medicines/human/orphan-designations/eu-3-16-1624) on 21 March 2016. Calquence was withdrawn from the Union Register of orphan medicinal products by the European Commission in September 2020 upon request of the marketing authorisation holder at the time of the granting of a marketing authorisation.
 
-#### More information on Calquence
+## More information on Calquence
 
 - [EMEA-001796-PIP03-16-M03 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001796-pip03-16-m03)
 
-#### Topics
+## Topics
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 - [Rare diseases](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A64)
 
-**This page was last updated on** 19/09/2025
+**This page was last updated on**
+
+27/05/2026
 
 ## Share this page
-
-[Back to top](#main-content)

@@ -1,32 +1,32 @@
 ---
-document_datetime: 2025-12-17 16:45:00
+document_datetime: 2026-05-27 12:08:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/trumenba.html
 document_name: trumenba.html
 version: success
-processing_time: 0.1239101
-conversion_datetime: 2026-01-03 13:14:34.036516
+processing_time: 0.135614
+conversion_datetime: 2026-05-29 20:14:23.54666
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.20.0
+  docling-jobkit: 1.20.0
+  docling: 2.96.0
+  docling-core: 2.78.0
+  docling-ibm-models: 3.13.2
+  docling-parse: 6.2.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
 ---
 # Trumenba
 
 [RSS](/en/individual-human-medicine.xml/65421)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-meningococcal group b vaccine (recombinant, adsorbed) Medicine Human Authorised
+meningococcal group b vaccine (recombinant, adsorbed)
 
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
+Medicine Human Authorised
 
 Page contents
 
@@ -107,275 +107,141 @@ Reference Number: EMA/208531/2017
 
 English (EN) (77.17 KB - PDF)
 
-**First published:** 06/06/2017
-
-**Last updated:** 06/06/2017
+**First published:** 06/06/2017 **Last updated:** 06/06/2017
 
 [View](/en/documents/overview/trumenba-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-455)
+[Other languages (22)](#file-language-dropdown-432)
 
 български (BG) (104 KB - PDF)
 
-**First published:**
-
-06/06/2017
-
-**Last updated:**
-
-06/06/2017
+**First published:** 06/06/2017 **Last updated:** 06/06/2017
 
 [View](/bg/documents/overview/trumenba-epar-summary-public_bg.pdf)
 
 español (ES) (76.73 KB - PDF)
 
-**First published:**
-
-06/06/2017
-
-**Last updated:**
-
-06/06/2017
+**First published:** 06/06/2017 **Last updated:** 06/06/2017
 
 [View](/es/documents/overview/trumenba-epar-summary-public_es.pdf)
 
 čeština (CS) (102.82 KB - PDF)
 
-**First published:**
-
-06/06/2017
-
-**Last updated:**
-
-06/06/2017
+**First published:** 06/06/2017 **Last updated:** 06/06/2017
 
 [View](/cs/documents/overview/trumenba-epar-summary-public_cs.pdf)
 
 dansk (DA) (75.87 KB - PDF)
 
-**First published:**
-
-06/06/2017
-
-**Last updated:**
-
-06/06/2017
+**First published:** 06/06/2017 **Last updated:** 06/06/2017
 
 [View](/da/documents/overview/trumenba-epar-summary-public_da.pdf)
 
 Deutsch (DE) (77.47 KB - PDF)
 
-**First published:**
-
-06/06/2017
-
-**Last updated:**
-
-06/06/2017
+**First published:** 06/06/2017 **Last updated:** 06/06/2017
 
 [View](/de/documents/overview/trumenba-epar-summary-public_de.pdf)
 
 eesti keel (ET) (75.48 KB - PDF)
 
-**First published:**
-
-06/06/2017
-
-**Last updated:**
-
-06/06/2017
+**First published:** 06/06/2017 **Last updated:** 06/06/2017
 
 [View](/et/documents/overview/trumenba-epar-summary-public_et.pdf)
 
 ελληνικά (EL) (105.71 KB - PDF)
 
-**First published:**
-
-06/06/2017
-
-**Last updated:**
-
-06/06/2017
+**First published:** 06/06/2017 **Last updated:** 06/06/2017
 
 [View](/el/documents/overview/trumenba-epar-summary-public_el.pdf)
 
 français (FR) (77.96 KB - PDF)
 
-**First published:**
-
-06/06/2017
-
-**Last updated:**
-
-06/06/2017
+**First published:** 06/06/2017 **Last updated:** 06/06/2017
 
 [View](/fr/documents/overview/trumenba-epar-summary-public_fr.pdf)
 
 hrvatski (HR) (95.68 KB - PDF)
 
-**First published:**
-
-06/06/2017
-
-**Last updated:**
-
-06/06/2017
+**First published:** 06/06/2017 **Last updated:** 06/06/2017
 
 [View](/hr/documents/overview/trumenba-epar-summary-public_hr.pdf)
 
 italiano (IT) (76.16 KB - PDF)
 
-**First published:**
-
-06/06/2017
-
-**Last updated:**
-
-06/06/2017
+**First published:** 06/06/2017 **Last updated:** 06/06/2017
 
 [View](/it/documents/overview/trumenba-epar-summary-public_it.pdf)
 
 latviešu valoda (LV) (100.59 KB - PDF)
 
-**First published:**
-
-06/06/2017
-
-**Last updated:**
-
-06/06/2017
+**First published:** 06/06/2017 **Last updated:** 06/06/2017
 
 [View](/lv/documents/overview/trumenba-epar-summary-public_lv.pdf)
 
 lietuvių kalba (LT) (101.94 KB - PDF)
 
-**First published:**
-
-06/06/2017
-
-**Last updated:**
-
-06/06/2017
+**First published:** 06/06/2017 **Last updated:** 06/06/2017
 
 [View](/lt/documents/overview/trumenba-epar-summary-public_lt.pdf)
 
 magyar (HU) (98.08 KB - PDF)
 
-**First published:**
-
-06/06/2017
-
-**Last updated:**
-
-06/06/2017
+**First published:** 06/06/2017 **Last updated:** 06/06/2017
 
 [View](/hu/documents/overview/trumenba-epar-summary-public_hu.pdf)
 
 Malti (MT) (126.6 KB - PDF)
 
-**First published:**
-
-06/06/2017
-
-**Last updated:**
-
-06/06/2017
+**First published:** 06/06/2017 **Last updated:** 06/06/2017
 
 [View](/mt/documents/overview/trumenba-epar-summary-public_mt.pdf)
 
 Nederlands (NL) (76.2 KB - PDF)
 
-**First published:**
-
-06/06/2017
-
-**Last updated:**
-
-06/06/2017
+**First published:** 06/06/2017 **Last updated:** 06/06/2017
 
 [View](/nl/documents/overview/trumenba-epar-summary-public_nl.pdf)
 
 polski (PL) (103.63 KB - PDF)
 
-**First published:**
-
-06/06/2017
-
-**Last updated:**
-
-06/06/2017
+**First published:** 06/06/2017 **Last updated:** 06/06/2017
 
 [View](/pl/documents/overview/trumenba-epar-summary-public_pl.pdf)
 
 português (PT) (76.93 KB - PDF)
 
-**First published:**
-
-06/06/2017
-
-**Last updated:**
-
-06/06/2017
+**First published:** 06/06/2017 **Last updated:** 06/06/2017
 
 [View](/pt/documents/overview/trumenba-epar-summary-public_pt.pdf)
 
 română (RO) (99.96 KB - PDF)
 
-**First published:**
-
-06/06/2017
-
-**Last updated:**
-
-06/06/2017
+**First published:** 06/06/2017 **Last updated:** 06/06/2017
 
 [View](/ro/documents/overview/trumenba-epar-summary-public_ro.pdf)
 
 slovenčina (SK) (103.28 KB - PDF)
 
-**First published:**
-
-06/06/2017
-
-**Last updated:**
-
-06/06/2017
+**First published:** 06/06/2017 **Last updated:** 06/06/2017
 
 [View](/sk/documents/overview/trumenba-epar-summary-public_sk.pdf)
 
 slovenščina (SL) (94.91 KB - PDF)
 
-**First published:**
-
-06/06/2017
-
-**Last updated:**
-
-06/06/2017
+**First published:** 06/06/2017 **Last updated:** 06/06/2017
 
 [View](/sl/documents/overview/trumenba-epar-summary-public_sl.pdf)
 
 Suomi (FI) (76.2 KB - PDF)
 
-**First published:**
-
-06/06/2017
-
-**Last updated:**
-
-06/06/2017
+**First published:** 06/06/2017 **Last updated:** 06/06/2017
 
 [View](/fi/documents/overview/trumenba-epar-summary-public_fi.pdf)
 
 svenska (SV) (76.58 KB - PDF)
 
-**First published:**
-
-06/06/2017
-
-**Last updated:**
-
-06/06/2017
+**First published:** 06/06/2017 **Last updated:** 06/06/2017
 
 [View](/sv/documents/overview/trumenba-epar-summary-public_sv.pdf)
 
@@ -383,9 +249,7 @@ Trumenba : EPAR Risk management plan
 
 English (EN) (1.43 MB - PDF)
 
-**First published:** 22/01/2019
-
-**Last updated:** 02/06/2025
+**First published:** 22/01/2019 **Last updated:** 02/06/2025
 
 [View](/en/documents/rmp/trumenba-epar-risk-management-plan_en.pdf)
 
@@ -393,305 +257,161 @@ English (EN) (1.43 MB - PDF)
 
 Trumenba : EPAR - Product Information
 
-English (EN) (385.12 KB - PDF)
+English (EN) (214.16 KB - PDF)
 
-**First published:** 06/06/2017
-
-**Last updated:** 17/12/2025
+**First published:** 06/06/2017 **Last updated:** 27/05/2026
 
 [View](/en/documents/product-information/trumenba-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-973)
+[Other languages (24)](#file-language-dropdown-819)
 
-български (BG) (249.25 KB - PDF)
+български (BG) (396.28 KB - PDF)
 
-**First published:**
-
-06/06/2017
-
-**Last updated:**
-
-17/12/2025
+**First published:** 06/06/2017 **Last updated:** 27/05/2026
 
 [View](/bg/documents/product-information/trumenba-epar-product-information_bg.pdf)
 
-español (ES) (234.14 KB - PDF)
+español (ES) (337.34 KB - PDF)
 
-**First published:**
-
-06/06/2017
-
-**Last updated:**
-
-17/12/2025
+**First published:** 06/06/2017 **Last updated:** 27/05/2026
 
 [View](/es/documents/product-information/trumenba-epar-product-information_es.pdf)
 
-čeština (CS) (240.5 KB - PDF)
+čeština (CS) (373.99 KB - PDF)
 
-**First published:**
-
-06/06/2017
-
-**Last updated:**
-
-17/12/2025
+**First published:** 06/06/2017 **Last updated:** 27/05/2026
 
 [View](/cs/documents/product-information/trumenba-epar-product-information_cs.pdf)
 
-dansk (DA) (232.52 KB - PDF)
+dansk (DA) (298.76 KB - PDF)
 
-**First published:**
-
-06/06/2017
-
-**Last updated:**
-
-17/12/2025
+**First published:** 06/06/2017 **Last updated:** 27/05/2026
 
 [View](/da/documents/product-information/trumenba-epar-product-information_da.pdf)
 
-Deutsch (DE) (234.84 KB - PDF)
+Deutsch (DE) (315.99 KB - PDF)
 
-**First published:**
-
-06/06/2017
-
-**Last updated:**
-
-17/12/2025
+**First published:** 06/06/2017 **Last updated:** 27/05/2026
 
 [View](/de/documents/product-information/trumenba-epar-product-information_de.pdf)
 
-eesti keel (ET) (222.26 KB - PDF)
+eesti keel (ET) (320.75 KB - PDF)
 
-**First published:**
-
-06/06/2017
-
-**Last updated:**
-
-17/12/2025
+**First published:** 06/06/2017 **Last updated:** 27/05/2026
 
 [View](/et/documents/product-information/trumenba-epar-product-information_et.pdf)
 
-ελληνικά (EL) (254.48 KB - PDF)
+ελληνικά (EL) (405.37 KB - PDF)
 
-**First published:**
-
-06/06/2017
-
-**Last updated:**
-
-17/12/2025
+**First published:** 06/06/2017 **Last updated:** 27/05/2026
 
 [View](/el/documents/product-information/trumenba-epar-product-information_el.pdf)
 
-français (FR) (241.59 KB - PDF)
+français (FR) (419.43 KB - PDF)
 
-**First published:**
-
-06/06/2017
-
-**Last updated:**
-
-17/12/2025
+**First published:** 06/06/2017 **Last updated:** 27/05/2026
 
 [View](/fr/documents/product-information/trumenba-epar-product-information_fr.pdf)
 
-hrvatski (HR) (250.25 KB - PDF)
+hrvatski (HR) (421.34 KB - PDF)
 
-**First published:**
-
-06/06/2017
-
-**Last updated:**
-
-17/12/2025
+**First published:** 06/06/2017 **Last updated:** 27/05/2026
 
 [View](/hr/documents/product-information/trumenba-epar-product-information_hr.pdf)
 
-íslenska (IS) (244.25 KB - PDF)
+íslenska (IS) (352.72 KB - PDF)
 
-**First published:**
-
-06/06/2017
-
-**Last updated:**
-
-17/12/2025
+**First published:** 06/06/2017 **Last updated:** 27/05/2026
 
 [View](/is/documents/product-information/trumenba-epar-product-information_is.pdf)
 
-italiano (IT) (223.61 KB - PDF)
+italiano (IT) (326.85 KB - PDF)
 
-**First published:**
-
-06/06/2017
-
-**Last updated:**
-
-17/12/2025
+**First published:** 06/06/2017 **Last updated:** 27/05/2026
 
 [View](/it/documents/product-information/trumenba-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (236.08 KB - PDF)
+latviešu valoda (LV) (371.21 KB - PDF)
 
-**First published:**
-
-06/06/2017
-
-**Last updated:**
-
-17/12/2025
+**First published:** 06/06/2017 **Last updated:** 27/05/2026
 
 [View](/lv/documents/product-information/trumenba-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (233.2 KB - PDF)
+lietuvių kalba (LT) (396.65 KB - PDF)
 
-**First published:**
-
-06/06/2017
-
-**Last updated:**
-
-17/12/2025
+**First published:** 06/06/2017 **Last updated:** 27/05/2026
 
 [View](/lt/documents/product-information/trumenba-epar-product-information_lt.pdf)
 
-magyar (HU) (245.75 KB - PDF)
+magyar (HU) (374.56 KB - PDF)
 
-**First published:**
-
-06/06/2017
-
-**Last updated:**
-
-17/12/2025
+**First published:** 06/06/2017 **Last updated:** 27/05/2026
 
 [View](/hu/documents/product-information/trumenba-epar-product-information_hu.pdf)
 
-Malti (MT) (261.31 KB - PDF)
+Malti (MT) (428.95 KB - PDF)
 
-**First published:**
-
-06/06/2017
-
-**Last updated:**
-
-17/12/2025
+**First published:** 06/06/2017 **Last updated:** 27/05/2026
 
 [View](/mt/documents/product-information/trumenba-epar-product-information_mt.pdf)
 
-Nederlands (NL) (230.03 KB - PDF)
+Nederlands (NL) (346.22 KB - PDF)
 
-**First published:**
-
-06/06/2017
-
-**Last updated:**
-
-17/12/2025
+**First published:** 06/06/2017 **Last updated:** 27/05/2026
 
 [View](/nl/documents/product-information/trumenba-epar-product-information_nl.pdf)
 
-norsk (NO) (230.81 KB - PDF)
+norsk (NO) (330.22 KB - PDF)
 
-**First published:**
-
-06/06/2017
-
-**Last updated:**
-
-17/12/2025
+**First published:** 06/06/2017 **Last updated:** 27/05/2026
 
 [View](/no/documents/product-information/trumenba-epar-product-information_no.pdf)
 
-polski (PL) (246.85 KB - PDF)
+polski (PL) (403.88 KB - PDF)
 
-**First published:**
-
-06/06/2017
-
-**Last updated:**
-
-17/12/2025
+**First published:** 06/06/2017 **Last updated:** 27/05/2026
 
 [View](/pl/documents/product-information/trumenba-epar-product-information_pl.pdf)
 
-português (PT) (244.3 KB - PDF)
+português (PT) (348.03 KB - PDF)
 
-**First published:**
-
-06/06/2017
-
-**Last updated:**
-
-17/12/2025
+**First published:** 06/06/2017 **Last updated:** 27/05/2026
 
 [View](/pt/documents/product-information/trumenba-epar-product-information_pt.pdf)
 
-română (RO) (238.36 KB - PDF)
+română (RO) (392.29 KB - PDF)
 
-**First published:**
-
-06/06/2017
-
-**Last updated:**
-
-17/12/2025
+**First published:** 06/06/2017 **Last updated:** 27/05/2026
 
 [View](/ro/documents/product-information/trumenba-epar-product-information_ro.pdf)
 
-slovenčina (SK) (242.47 KB - PDF)
+slovenčina (SK) (402.11 KB - PDF)
 
-**First published:**
-
-06/06/2017
-
-**Last updated:**
-
-17/12/2025
+**First published:** 06/06/2017 **Last updated:** 27/05/2026
 
 [View](/sk/documents/product-information/trumenba-epar-product-information_sk.pdf)
 
-slovenščina (SL) (231.28 KB - PDF)
+slovenščina (SL) (352.06 KB - PDF)
 
-**First published:**
-
-06/06/2017
-
-**Last updated:**
-
-17/12/2025
+**First published:** 06/06/2017 **Last updated:** 27/05/2026
 
 [View](/sl/documents/product-information/trumenba-epar-product-information_sl.pdf)
 
-Suomi (FI) (239.24 KB - PDF)
+Suomi (FI) (349.53 KB - PDF)
 
-**First published:**
-
-06/06/2017
-
-**Last updated:**
-
-17/12/2025
+**First published:** 06/06/2017 **Last updated:** 27/05/2026
 
 [View](/fi/documents/product-information/trumenba-epar-product-information_fi.pdf)
 
-svenska (SV) (234.93 KB - PDF)
+svenska (SV) (359.54 KB - PDF)
 
-**First published:**
-
-06/06/2017
-
-**Last updated:**
-
-17/12/2025
+**First published:** 06/06/2017 **Last updated:** 27/05/2026
 
 [View](/sv/documents/product-information/trumenba-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000309515 17/12/2025
+**Latest procedure affecting product information:** VR/0000320718
+
+21/05/2026
 
 icon globe
 
@@ -711,305 +431,177 @@ Trumenba : EPAR - All Authorised presentations
 
 English (EN) (41.37 KB - PDF)
 
-**First published:** 06/06/2017
-
-**Last updated:** 06/06/2017
+**First published:** 06/06/2017 **Last updated:** 06/06/2017
 
 [View](/en/documents/all-authorised-presentations/trumenba-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-988)
+[Other languages (24)](#file-language-dropdown-87)
 
 български (BG) (43.9 KB - PDF)
 
-**First published:**
-
-06/06/2017
-
-**Last updated:**
-
-06/06/2017
+**First published:** 06/06/2017 **Last updated:** 06/06/2017
 
 [View](/bg/documents/all-authorised-presentations/trumenba-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (40.2 KB - PDF)
 
-**First published:**
-
-06/06/2017
-
-**Last updated:**
-
-06/06/2017
+**First published:** 06/06/2017 **Last updated:** 06/06/2017
 
 [View](/es/documents/all-authorised-presentations/trumenba-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (41.98 KB - PDF)
 
-**First published:**
-
-06/06/2017
-
-**Last updated:**
-
-06/06/2017
+**First published:** 06/06/2017 **Last updated:** 06/06/2017
 
 [View](/cs/documents/all-authorised-presentations/trumenba-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (42.4 KB - PDF)
 
-**First published:**
-
-06/06/2017
-
-**Last updated:**
-
-06/06/2017
+**First published:** 06/06/2017 **Last updated:** 06/06/2017
 
 [View](/da/documents/all-authorised-presentations/trumenba-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (42 KB - PDF)
 
-**First published:**
-
-06/06/2017
-
-**Last updated:**
-
-06/06/2017
+**First published:** 06/06/2017 **Last updated:** 06/06/2017
 
 [View](/de/documents/all-authorised-presentations/trumenba-epar-all-authorised-presentations_de.pdf)
 
 eesti keel (ET) (68.51 KB - PDF)
 
-**First published:**
-
-06/06/2017
-
-**Last updated:**
-
-06/06/2017
+**First published:** 06/06/2017 **Last updated:** 06/06/2017
 
 [View](/et/documents/all-authorised-presentations/trumenba-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (42.87 KB - PDF)
 
-**First published:**
-
-06/06/2017
-
-**Last updated:**
-
-06/06/2017
+**First published:** 06/06/2017 **Last updated:** 06/06/2017
 
 [View](/el/documents/all-authorised-presentations/trumenba-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (40.31 KB - PDF)
 
-**First published:**
-
-06/06/2017
-
-**Last updated:**
-
-06/06/2017
+**First published:** 06/06/2017 **Last updated:** 06/06/2017
 
 [View](/fr/documents/all-authorised-presentations/trumenba-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (38.07 KB - PDF)
 
-**First published:**
-
-06/06/2017
-
-**Last updated:**
-
-06/06/2017
+**First published:** 06/06/2017 **Last updated:** 06/06/2017
 
 [View](/hr/documents/all-authorised-presentations/trumenba-epar-all-authorised-presentations_hr.pdf)
 
 íslenska (IS) (41.06 KB - PDF)
 
-**First published:**
-
-06/06/2017
-
-**Last updated:**
-
-06/06/2017
+**First published:** 06/06/2017 **Last updated:** 06/06/2017
 
 [View](/is/documents/all-authorised-presentations/trumenba-epar-all-authorised-presentations_is.pdf)
 
 italiano (IT) (39.43 KB - PDF)
 
-**First published:**
-
-06/06/2017
-
-**Last updated:**
-
-06/06/2017
+**First published:** 06/06/2017 **Last updated:** 06/06/2017
 
 [View](/it/documents/all-authorised-presentations/trumenba-epar-all-authorised-presentations_it.pdf)
 
 latviešu valoda (LV) (41.2 KB - PDF)
 
-**First published:**
-
-06/06/2017
-
-**Last updated:**
-
-06/06/2017
+**First published:** 06/06/2017 **Last updated:** 06/06/2017
 
 [View](/lv/documents/all-authorised-presentations/trumenba-epar-all-authorised-presentations_lv.pdf)
 
 lietuvių kalba (LT) (42.98 KB - PDF)
 
-**First published:**
-
-06/06/2017
-
-**Last updated:**
-
-06/06/2017
+**First published:** 06/06/2017 **Last updated:** 06/06/2017
 
 [View](/lt/documents/all-authorised-presentations/trumenba-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (41.11 KB - PDF)
 
-**First published:**
-
-06/06/2017
-
-**Last updated:**
-
-06/06/2017
+**First published:** 06/06/2017 **Last updated:** 06/06/2017
 
 [View](/hu/documents/all-authorised-presentations/trumenba-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (42.35 KB - PDF)
 
-**First published:**
-
-06/06/2017
-
-**Last updated:**
-
-06/06/2017
+**First published:** 06/06/2017 **Last updated:** 06/06/2017
 
 [View](/mt/documents/all-authorised-presentations/trumenba-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (40.96 KB - PDF)
 
-**First published:**
-
-06/06/2017
-
-**Last updated:**
-
-06/06/2017
+**First published:** 06/06/2017 **Last updated:** 06/06/2017
 
 [View](/nl/documents/all-authorised-presentations/trumenba-epar-all-authorised-presentations_nl.pdf)
 
 norsk (NO) (41.95 KB - PDF)
 
-**First published:**
-
-06/06/2017
-
-**Last updated:**
-
-06/06/2017
+**First published:** 06/06/2017 **Last updated:** 06/06/2017
 
 [View](/no/documents/all-authorised-presentations/trumenba-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (43.22 KB - PDF)
 
-**First published:**
-
-06/06/2017
-
-**Last updated:**
-
-06/06/2017
+**First published:** 06/06/2017 **Last updated:** 06/06/2017
 
 [View](/pl/documents/all-authorised-presentations/trumenba-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (41.29 KB - PDF)
 
-**First published:**
-
-06/06/2017
-
-**Last updated:**
-
-06/06/2017
+**First published:** 06/06/2017 **Last updated:** 06/06/2017
 
 [View](/pt/documents/all-authorised-presentations/trumenba-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (40.54 KB - PDF)
 
-**First published:**
-
-06/06/2017
-
-**Last updated:**
-
-06/06/2017
+**First published:** 06/06/2017 **Last updated:** 06/06/2017
 
 [View](/ro/documents/all-authorised-presentations/trumenba-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (41.85 KB - PDF)
 
-**First published:**
-
-06/06/2017
-
-**Last updated:**
-
-06/06/2017
+**First published:** 06/06/2017 **Last updated:** 06/06/2017
 
 [View](/sk/documents/all-authorised-presentations/trumenba-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (40 KB - PDF)
 
-**First published:**
-
-06/06/2017
-
-**Last updated:**
-
-06/06/2017
+**First published:** 06/06/2017 **Last updated:** 06/06/2017
 
 [View](/sl/documents/all-authorised-presentations/trumenba-epar-all-authorised-presentations_sl.pdf)
 
 Suomi (FI) (55.18 KB - PDF)
 
-**First published:**
-
-06/06/2017
-
-**Last updated:**
-
-06/06/2017
+**First published:** 06/06/2017 **Last updated:** 06/06/2017
 
 [View](/fi/documents/all-authorised-presentations/trumenba-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (40.73 KB - PDF)
 
-**First published:**
-
-06/06/2017
-
-**Last updated:**
-
-06/06/2017
+**First published:** 06/06/2017 **Last updated:** 06/06/2017
 
 [View](/sv/documents/all-authorised-presentations/trumenba-epar-all-authorised-presentations_sv.pdf)
 
 ## Product details
 
-Name of medicine Trumenba Active substance Neisseria meningitidis serogroup B fHbp (recombinant lipidated fHbp (factor H binding protein)) subfamily A; Neisseria meningitidis serogroup B fHbp (recombinant lipidated fHbp (factor H binding protein)) subfamily B International non-proprietary name (INN) or common name meningococcal group b vaccine (recombinant, adsorbed) Therapeutic area (MeSH) Meningitis, Meningococcal Anatomical therapeutic chemical (ATC) code J07AH09
+Name of medicine
+
+Trumenba
+
+Active substance
+
+Neisseria meningitidis serogroup B fHbp (recombinant lipidated fHbp (factor H binding protein)) subfamily A; Neisseria meningitidis serogroup B fHbp (recombinant lipidated fHbp (factor H binding protein)) subfamily B
+
+International non-proprietary name (INN) or common name
+
+meningococcal group b vaccine (recombinant, adsorbed)
+
+Therapeutic area (MeSH)
+
+Meningitis, Meningococcal
+
+Anatomical therapeutic chemical (ATC) code
+
+J07AH09
 
 ### Pharmacotherapeutic group
 
@@ -1024,13 +616,27 @@ The use of this vaccine should be in accordance with official recommendations.
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/004051 Marketing authorisation holder
+EMA product number
+
+EMEA/H/C/004051
+
+Marketing authorisation holder
 
 Pfizer Europe MA EEIG
 
 Boulevard de la Plaine 17
 
-Opinion adopted 23/02/2017 Marketing authorisation issued 24/05/2017 Revision 22
+Opinion adopted
+
+23/02/2017
+
+Marketing authorisation issued
+
+24/05/2017
+
+Revision
+
+23
 
 ## Assessment history
 
@@ -1042,11 +648,9 @@ Collapse section
 
 Trumenba : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (161.02 KB - PDF)
+English (EN) (155.55 KB - PDF)
 
-**First published:** 14/04/2025
-
-**Last updated:** 17/12/2025
+**First published:** 14/04/2025 **Last updated:** 27/05/2026
 
 [View](/en/documents/procedural-steps-after/trumenba-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1054,17 +658,13 @@ Trumenba : EPAR - Procedural steps taken and scientific information after author
 
 English (EN) (255.4 KB - PDF)
 
-**First published:** 17/01/2018
-
-**Last updated:** 25/02/2025
+**First published:** 17/01/2018 **Last updated:** 25/02/2025
 
 [View](/en/documents/procedural-steps-after/trumenba-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 Trumenba-PAM-0000258141 : EPAR - Assessment report
 
-Adopted
-
-Reference Number: EMADOC-1700519818-1974850
+Adopted Reference Number: EMADOC-1700519818-1974850
 
 English (EN) (438.27 KB - PDF)
 
@@ -1074,9 +674,7 @@ English (EN) (438.27 KB - PDF)
 
 Trumenba-H-C-004051-II-0053 : EPAR - Assessment report - Variation
 
-Adopted
-
-Reference Number: EMA/CHMP/374900/2024
+Adopted Reference Number: EMA/CHMP/374900/2024
 
 English (EN) (1.28 MB - PDF)
 
@@ -1096,9 +694,7 @@ English (EN) (1.21 MB - PDF)
 
 Trumenba-H-C-004051-II-0052 : EPAR - Assessment report - Variation
 
-Adopted
-
-Reference Number: EMA/370848/2024
+Adopted Reference Number: EMA/370848/2024
 
 English (EN) (445.19 KB - PDF)
 
@@ -1108,9 +704,7 @@ English (EN) (445.19 KB - PDF)
 
 Trumenba-H-C-004051-II-0037 : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/491873/2023
+Adopted Reference Number: EMA/491873/2023
 
 English (EN) (3.45 MB - PDF)
 
@@ -1120,9 +714,7 @@ English (EN) (3.45 MB - PDF)
 
 Trumenba-H-C-4051-P46-018.1 : EPAR - Assessment Report
 
-Adopted
-
-Reference Number: EMA/533132/2023
+Adopted Reference Number: EMA/533132/2023
 
 English (EN) (1.72 MB - PDF)
 
@@ -1132,9 +724,7 @@ English (EN) (1.72 MB - PDF)
 
 Trumenba-H-C-4051-II-0013 : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/331550/2020
+Adopted Reference Number: EMA/331550/2020
 
 English (EN) (1.82 MB - PDF)
 
@@ -1144,15 +734,11 @@ English (EN) (1.82 MB - PDF)
 
 Trumenba-H-C-4051-P46-009 : EPAR - Assessment Report
 
-Adopted
-
-Reference Number: EMA/CHMP/752098/2017
+Adopted Reference Number: EMA/CHMP/752098/2017
 
 English (EN) (986.64 KB - PDF)
 
-**First published:** 04/04/2018
-
-**Last updated:** 04/04/2018
+**First published:** 04/04/2018 **Last updated:** 04/04/2018
 
 [View](/en/documents/variation-report/trumenba-h-c-4051-p46-009-epar-assessment-report_en.pdf)
 
@@ -1160,15 +746,11 @@ English (EN) (986.64 KB - PDF)
 
 Trumenba : EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/CHMP/232746/2017
+Adopted Reference Number: EMA/CHMP/232746/2017
 
 English (EN) (2.58 MB - PDF)
 
-**First published:** 06/06/2017
-
-**Last updated:** 06/06/2017
+**First published:** 06/06/2017 **Last updated:** 06/06/2017
 
 [View](/en/documents/assessment-report/trumenba-epar-public-assessment-report_en.pdf)
 
@@ -1178,25 +760,25 @@ Reference Number: EMA/152667/2017
 
 English (EN) (62.24 KB - PDF)
 
-**First published:** 24/03/2017
-
-**Last updated:** 24/03/2017
+**First published:** 24/03/2017 **Last updated:** 24/03/2017
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-trumenba_en.pdf)
 
-#### News on Trumenba
+## News on Trumenba
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 25-28 May 2020](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-25-28-may-2020) 29/05/2020
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 25-28 May 2020](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-25-28-may-2020)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 20-23 March 2017](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-20-23-march-2017) 24/03/2017
+29/05/2020
 
-#### More information on Trumenba
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 20-23 March 2017](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-20-23-march-2017)
+
+24/03/2017
+
+## More information on Trumenba
 
 Questions and answers on the use of Trumenba in children between 1 and 9 years of age
 
-Adopted
-
-Reference Number: EMA/147694/2020
+Adopted Reference Number: EMA/147694/2020
 
 English (EN) (138.7 KB - PDF)
 
@@ -1204,13 +786,13 @@ English (EN) (138.7 KB - PDF)
 
 [View](/en/documents/medicine-qa/questions-and-answers-use-trumenba-children-between-1-and-9-years-age_en.pdf)
 
-#### Topics
+## Topics
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 - [Vaccines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A76)
 
-**This page was last updated on** 17/12/2025
+**This page was last updated on**
+
+27/05/2026
 
 ## Share this page
-
-[Back to top](#main-content)

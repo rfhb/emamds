@@ -1,22 +1,24 @@
 ---
-document_datetime: 2025-05-12 14:21:30
+document_datetime: 2026-05-26 15:28:14
 document_pages: 64
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/pomalidomide-zentiva-epar-product-information_en.pdf
 document_name: pomalidomide-zentiva-epar-product-information_en.pdf
 version: success
-processing_time: 25.1946934
-conversion_datetime: 2025-12-24 14:49:29.174162
+processing_time: 39.8594277
+conversion_datetime: 2026-05-29 20:27:18.678471
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.20.0
+  docling-jobkit: 1.20.0
+  docling: 2.96.0
+  docling-core: 2.78.0
+  docling-ibm-models: 3.13.2
+  docling-parse: 6.2.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
 ---
-## ANNEX I SUMMARY OF PRODUCT CHARACTERISTICS
+## ANNEX I
+
+## SUMMARY OF PRODUCT CHARACTERISTICS
 
 <div style=\"page-break-after: always\"></div>
 
@@ -62,7 +64,7 @@ Red cap and turquoise body, with 'PLM 3' printed axial rectified in white in the
 
 ## Pomalidomide Zentiva 4 mg hard capsules
 
-Red cap and dark blue body, with 'PLM 4' printed axial rectified in white in the body, size 2 gelatin hard capsule (approximately 18 mm in length).
+Red cap and dark blue body, with 'PLM 4 ' printed axial rectified in white in the body, size 2 gelatin hard capsule (approximately 18 mm in length).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -138,7 +140,7 @@ Table 2. Pomalidomide dose modification instructions ∞
 
 ∞ Dose modification instructions  in  this  table  are  applicable  to  pomalidomide  in  combination  with bortezomib and dexamethasone and to pomalidomide in combination with dexamethasone.
 
-*In case of neutropenia, the physician should consider the use of growth factors. **ANC - Absolute Neutrophil Count; ***CBC - Complete Blood Count.
+*In case of neutropenia, the physician should consider the use of growth factors. **ANC -Absolute Neutrophil Count; ***CBC -Complete Blood Count.
 
 Table 3. Pomalidomide dose reduction∞
 
@@ -169,16 +171,16 @@ Instructions on dose interruptions or reductions for low-dose dexamethasone rela
 
 Table 4. Dexamethasone dose modification instructions
 
-| Toxicity                                             | Dose Modification                                                                                                                  |
-|------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|
-| Dyspepsia = Grade 1-2                                | Maintain dose and treat with histamine (H 2 ) blockers or equivalent. Decrease by one dose level if symptoms persist.              |
-| Dyspepsia ≥ Grade 3                                  | Interrupt dose until symptoms are controlled. Add H 2 blocker or equivalent and resume at one dose level lower than previous dose. |
-| Oedema ≥ Grade 3                                     | Use diuretics as needed and decrease dose by one dose level.                                                                       |
-| Confusion or mood alteration ≥ Grade 2               | Interrupt dose until symptoms resolve. Resume at one dose level lower than previous dose.                                          |
-| Muscle weakness ≥ Grade 2                            | Interrupt dose until muscle weakness ≤ Grade 1. Resume at one dose level lower than previous dose.                                 |
-| Hyperglycaemia ≥ Grade 3                             | Decrease dose by one dose level. Treat with insulin or oral hypoglycaemic agents as needed.                                        |
-| Acute pancreatitis                                   | Discontinue dexamethasone from treatment regimen.                                                                                  |
-| Other ≥ Grade 3 dexamethasone-related adverse events | Stop dexamethasone dosing until the adverse event resolves to ≤ Grade 2. Resume at one dose level lower than previous dose.        |
+| Toxicity                                              | Dose Modification                                                                                                                  |
+|-------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|
+| Dyspepsia = Grade 1-2                                 | Maintain dose and treat with histamine (H 2 ) blockers or equivalent. Decrease by one dose level if symptoms persist.              |
+| Dyspepsia ≥ Grade 3                                   | Interrupt dose until symptoms are controlled. Add H 2 blocker or equivalent and resume at one dose level lower than previous dose. |
+| Oedema ≥ Grade 3                                      | Use diuretics as needed and decrease dose by one dose level.                                                                       |
+| Confusion or mood alteration ≥ Grade 2                | Interrupt dose until symptoms resolve. Resume at one dose level lower than previous dose.                                          |
+| Muscle weakness ≥ Grade 2                             | Interrupt dose until muscle weakness ≤ Grade 1. Resume at one dose level lower than previous dose.                                 |
+| Hyperglycaemia ≥ Grade 3                              | Decrease dose by one dose level. Treat with insulin or oral hypoglycaemic agents as needed.                                        |
+| Acute pancreatitis                                    | Discontinue dexamethasone from treatment regimen.                                                                                  |
+| Other ≥ Grade 3 dexamethasone -related adverse events | Stop dexamethasone dosing until the adverse event resolves to ≤ Grade 2. Resume at one dose level lower than previous dose.        |
 
 If recovery from toxicities is prolonged beyond 14 days, then the dose of dexamethasone will be resumed at one dose level lower than the previous dose.
 
@@ -230,10 +232,9 @@ No dose adjustment is required for pomalidomide.
 
 ## Pomalidomide in combination with bortezomib and dexamethasone
 
-- For Cycles 1 to 8: 10 mg once daily on Days 1, 2, 4, 5, 8, 9, 11 and 12 of each 21-day cycle
-
 For patients &gt;75 years of age, the starting dose of dexamethasone is:
 
+- For Cycles 1 to 8: 10 mg once daily on Days 1, 2, 4, 5, 8, 9, 11 and 12 of each 21-day cycle
 - For Cycles 9 and onwards: 10 mg once daily on Days 1, 2, 8 and 9 of each 21-day cycle.
 
 ## Pomalidomide in combination with dexamethasone
@@ -244,11 +245,9 @@ For patients &gt; 75 years of age, the starting dose of dexamethasone is:
 
 ## Hepatic impairment
 
-Patients with serum total bilirubin &gt; 1.5 x ULN (upper limit of normal range) were excluded from clinical studies. Hepatic impairment has a modest effect on the pharmacokinetics of pomalidomide (see section 5.2). No adjustment of the starting dose of pomalidomide is required for patients with hepatic impairment as defined by the Child-Pugh criteria. However, patients with hepatic impairment
+Patients with serum total bilirubin &gt; 1.5 x ULN (upper limit of normal range) were excluded from clinical studies. Hepatic impairment has a modest effect on the pharmacokinetics of pomalidomide (see section 5.2). No adjustment of the starting dose of pomalidomide is required for patients with hepatic impairment as defined by the Child-Pugh criteria. However, patients with hepatic impairment should be carefully monitored for adverse reactions and dose reduction or interruption of pomalidomide should be used as needed.
 
 <div style=\"page-break-after: always\"></div>
-
-should be carefully monitored for adverse reactions and dose reduction or interruption of pomalidomide should be used as needed.
 
 ## Renal impairment
 
@@ -256,9 +255,9 @@ No dose adjustment of pomalidomide is required for patients with renal impairmen
 
 ## Paediatric population
 
-Outside its authorised indications, pomalidomide has been studied in children aged 4 to 18 years with recurrent or progressive brain tumours, however the results of studies did not allow to conclude that the benefits of such use outweigh the risks. Currently available data are described in sections 4.8, 5.1 and 5.2.
-
 There is no relevant use of pomalidomide in children aged 0-17 years for the indication of multiple myeloma.
+
+Outside its authorised indications, pomalidomide has been studied in children aged 4 to 18 years with recurrent or progressive brain tumours, however the results of studies did not allow to conclude that the benefits of such use outweigh the risks. Currently available data are described in sections 4.8, 5.1 and 5.2.
 
 ## Method of administration
 
@@ -271,8 +270,8 @@ It is recommended to press only on one end of the capsule to remove it from the 
 ## 4.3 Contraindications
 
 - Pregnancy.
-- Male patients unable to follow or comply with the required contraceptive measures (see section 4.4).
 - Women of childbearing potential, unless all the conditions of the pregnancy prevention programme are met (see sections 4.4 and 4.6).
+- Male patients unable to follow or comply with the required contraceptive measures (see section 4.4).
 - Hypersensitivity to the active substance or to any of the excipients listed in section 6.1.
 
 ## 4.4 Special warnings and precautions for use
@@ -299,14 +298,14 @@ A female patient or a female partner of a male patient is considered of non-chil
 
 For women of childbearing potential, pomalidomide is contraindicated unless all of the following are met:
 
-- She understands the need for effective contraception, without interruption, at least 4 weeks before starting treatment, throughout the entire duration of treatment, and at least 4 weeks after the end of treatment
 - She understands the expected teratogenic risk to the unborn child
 - Even if a woman of childbearing potential has amenorrhoea she must follow all the advice on effective contraception
-- She is informed and understands the potential consequences of pregnancy and the need to rapidly consult if there is a risk of pregnancy
+- She understands the need for effective contraception, without interruption, at least 4 weeks before starting treatment, throughout the entire duration of treatment, and at least 4 weeks after the end of treatment
 - She should be capable of complying with effective contraceptive measures
+- She is informed and understands the potential consequences of pregnancy and the need to rapidly consult if there is a risk of pregnancy
 - She understands the need to commence the treatment as soon as pomalidomide is dispensed following a negative pregnancy test
-- She acknowledges that she understands the hazards and necessary precautions associated with the use of pomalidomide.
 - She understands the need and accepts to undergo pregnancy testing at least every 4 weeks except in case of confirmed tubal sterilisation
+- She acknowledges that she understands the hazards and necessary precautions associated with the use of pomalidomide.
 
 The prescriber must ensure that for women of childbearing potential:
 
@@ -315,9 +314,9 @@ The prescriber must ensure that for women of childbearing potential:
 
 For male patients taking pomalidomide, pharmacokinetic data has demonstrated that pomalidomide is present in human semen during treatment. As a precaution, and taking into account special populations with potentially prolonged elimination time such as hepatic impairment, all male patients taking pomalidomide must meet the following conditions:
 
-- He understands the need for the use of a condom if engaged in sexual activity with a pregnant woman or a woman of childbearing potential not using effective contraception, throughout treatment duration, during dose interruption and for 7 days after dose interruptions and/or cessation of treatment. This includes vasectomised males who should wear a condom if engaged in sexual activity with a pregnant woman or a woman of childbearing potential as seminal fluid may still contain pomalidomide in the absence of spermatozoa.
 - He understands the expected teratogenic risk if engaged in sexual activity with a pregnant woman or a woman of childbearing potential
 - He understands that if his female partner becomes pregnant whilst he is taking pomalidomide or 7 days after he has stopped taking pomalidomide, he should inform his treating physician immediately and that it is recommended to refer the female partner to a physician specialised or experienced in teratology for evaluation and advice.
+- He understands the need for the use of a condom if engaged in sexual activity with a pregnant woman or a woman of childbearing potential not using effective contraception, throughout treatment duration, during dose interruption and for 7 days after dose interruptions and/or cessation of treatment. This includes vasectomised males who should wear a condom if engaged in sexual activity with a pregnant woman or a woman of childbearing potential as seminal fluid may still contain pomalidomide in the absence of spermatozoa.
 
 ## Contraception
 
@@ -325,8 +324,8 @@ Women of childbearing potential must use at least one effective method of contra
 
 The following can be considered to be examples of suitable methods of contraception:
 
-- Levonorgestrel-releasing intrauterine system
 - Implant
+- Levonorgestrel-releasing intrauterine system
 
 <div style=\"page-break-after: always\"></div>
 
@@ -373,7 +372,7 @@ Neutropenia was the most frequently reported Grade 3 or 4 haematological adverse
 
 ## Thromboembolic events
 
-Patients receiving pomalidomide either in combination with bortezomib and dexamethasone or in combination with dexamethasone have developed venous thromboembolic events (predominantly deep vein thrombosis and pulmonary embolism) and arterial thrombotic events (myocardial infarction and cerebrovascular accident) (see section 4.8). Patients with known risk factors for thromboembolism - including prior thrombosis - should be closely monitored. Action should be taken to try to minimise all modifiable risk factors (e.g. smoking, hypertension, and hyperlipidaemia). Patients and physicians are advised to be observant for the signs and symptoms of thromboembolism. Patients should be instructed to seek medical care if they develop symptoms such as shortness of breath, chest pain, arm or leg swelling. Anti-coagulation therapy (unless contraindicated) is recommended, (such as acetylsalicylic acid, warfarin, heparin or clopidogrel), especially in patients with additional thrombotic risk factors. A decision to take prophylactic measures should be made after a careful assessment of the individual patient's underlying risk factors. In clinical studies, patients received prophylactic acetylsalicylic acid or alternative anti-thrombotic therapy. The use of erythropoietic agents carries a risk of thrombotic events including thromboembolism. Therefore, erythropoietic agents, as well as other agents that may increase the risk of thromboembolic events, should be used with caution.
+Patients receiving pomalidomide either in combination with bortezomib and dexamethasone or in combination with dexamethasone have developed venous thromboembolic events (predominantly deep vein thrombosis and pulmonary embolism) and arterial thrombotic events (myocardial infarction and cerebrovascular accident) (see section 4.8). Patients with known risk factors for thromboembolism -including prior thrombosis -should be closely monitored. Action should be taken to try to minimise all modifiable risk factors (e.g. smoking, hypertension, and hyperlipidaemia). Patients and physicians are advised to be observant for the signs and symptoms of thromboembolism. Patients should be instructed to seek medical care if they develop symptoms such as shortness of breath, chest pain, arm or leg swelling. Anti-coagulation therapy (unless contraindicated) is recommended, (such as acetylsalicylic acid, warfarin, heparin or clopidogrel), especially in patients with additional thrombotic risk factors. A decision to take prophylactic measures should be made after a careful assessment of the individual patient's underlying risk factors. In clinical studies, patients received prophylactic acetylsalicylic acid or alternative anti-thrombotic therapy. The use of erythropoietic agents carries a risk of thrombotic events including thromboembolism. Therefore, erythropoietic agents, as well as other agents that may increase the risk of thromboembolic events, should be used with caution.
 
 ## Thyroid disorders
 
@@ -427,7 +426,7 @@ The evaluation for PML should be based on neurological examination, magnetic res
 
 If PML is suspected, further dosing must be suspended until PML has been excluded. If PML is confirmed, pomalidomide must be permanently discontinued.
 
-This medicinal product contains less than 1 mmol sodium (23 mg) per capsule, that is to say essentially 'sodium-free'.
+This medicinal product contains less than 1 mmol sodium (23 mg) per capsule, that is to say essentially 'sodium -free'.
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
@@ -437,11 +436,9 @@ Pomalidomide is not anticipated to cause clinically relevant pharmacokinetic int
 
 ## Effect of other medicinal products on pomalidomide
 
-Pomalidomide is partly metabolised by CYP1A2 and CYP3A4/5. It is also a substrate for Pglycoprotein. Co-administration of pomalidomide with the strong CYP3A4/5 and P-gp inhibitor ketoconazole, or the strong CYP3A4/5 inducer carbamazepine, had no clinically relevant effect on exposure to pomalidomide. Co-administration of the strong CYP1A2 inhibitor fluvoxamine with
+Pomalidomide is partly metabolised by CYP1A2 and CYP3A4/5. It is also a substrate for Pglycoprotein. Co-administration of pomalidomide with the strong CYP3A4/5 and P-gp inhibitor ketoconazole, or the strong CYP3A4/5 inducer carbamazepine, had no clinically relevant effect on exposure to pomalidomide. Co-administration of the strong CYP1A2 inhibitor fluvoxamine with pomalidomide in the presence of ketoconazole, increased mean exposure to pomalidomide by 107% with a 90% confidence interval [91% to 124%] compared to pomalidomide plus ketoconazole. In a second study to evaluate the contribution of a CYP1A2 inhibitor alone to metabolism changes, coadministration of fluvoxamine alone with pomalidomide increased mean exposure to pomalidomide by 125% with a 90% confidence interval [98% to 157%] compared to pomalidomide alone. If strong inhibitors of CYP1A2 (e.g. ciprofloxacin, enoxacin and fluvoxamine) are co-administered with pomalidomide, reduce the dose of pomalidomide by 50%.
 
 <div style=\"page-break-after: always\"></div>
-
-pomalidomide in the presence of ketoconazole, increased mean exposure to pomalidomide by 107% with a 90% confidence interval [91% to 124%] compared to pomalidomide plus ketoconazole. In a second study to evaluate the contribution of a CYP1A2 inhibitor alone to metabolism changes, coadministration of fluvoxamine alone with pomalidomide increased mean exposure to pomalidomide by 125% with a 90% confidence interval [98% to 157%] compared to pomalidomide alone. If strong inhibitors of CYP1A2 (e.g. ciprofloxacin, enoxacin and fluvoxamine) are co-administered with pomalidomide, reduce the dose of pomalidomide by 50%.
 
 ## Dexamethasone
 
@@ -469,11 +466,9 @@ Pomalidomide was found to impact negatively on fertility and be teratogenic in a
 
 ## 4.7 Effects on ability to drive and use machines
 
-Pomalidomide has minor or moderate influence on the ability to drive and use machines. Fatigue, depressed level of consciousness, confusion, and dizziness have been reported with the use of
+Pomalidomide has minor or moderate influence on the ability to drive and use machines. Fatigue, depressed level of consciousness, confusion, and dizziness have been reported with the use of pomalidomide. If affected, patients should be instructed not to drive cars, use machines or perform hazardous tasks while being treated with pomalidomide.
 
 <div style=\"page-break-after: always\"></div>
-
-pomalidomide. If affected, patients should be instructed not to drive cars, use machines or perform hazardous tasks while being treated with pomalidomide.
 
 ## 4.8 Undesirable effects
 
@@ -506,9 +501,9 @@ Table 7. Adverse reactions (ADRs) reported in clinical trials and post-market se
 
 <div style=\"page-break-after: always\"></div>
 
-| Combination of treatment                                            | Pomalidomide/ bortezomib/dexamethasone                              | Pomalidomide/ bortezomib/dexamethasone                              | Pomalidomide/ dexamethasone                                         | Pomalidomide/ dexamethasone                                         |
+| Combination of treatment                                            | Pomalidomide/ bortezomib/dexamethasone                              | Pomalidomide/ bortezomib/dexamethasone                              | Pomalidomide/                                                       | Pomalidomide/                                                       |
 |---------------------------------------------------------------------|---------------------------------------------------------------------|---------------------------------------------------------------------|---------------------------------------------------------------------|---------------------------------------------------------------------|
-| System Organ Class /Preferred term                                  | All ADRs                                                            | Grade 3-4 ADRs                                                      | All ADRs                                                            | Grade 3-4 ADRs                                                      |
+| System Organ Class /Preferred term                                  | All ADRs                                                            | Grade 3-4 ADRs                                                      | All ADRs                                                            | dexamethasone Grade 3-4 ADRs                                        |
 | including opportunistic infections)                                 |                                                                     |                                                                     |                                                                     |                                                                     |
 | Bronchitis                                                          | Very common                                                         | Common                                                              | Common                                                              | Uncommon                                                            |
 | Upper respiratory tract infection                                   | Very common                                                         | Common                                                              | Common                                                              | Common                                                              |
@@ -594,48 +589,48 @@ Table 7. Adverse reactions (ADRs) reported in clinical trials and post-market se
 
 <div style=\"page-break-after: always\"></div>
 
-| Combination of treatment                              | Pomalidomide/ bortezomib/dexamethasone               | Pomalidomide/ bortezomib/dexamethasone               | Pomalidomide/ dexamethasone                     | Pomalidomide/ dexamethasone                     |
-|-------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|-------------------------------------------------|-------------------------------------------------|
-| System Organ Class /Preferred term                    | All ADRs                                             | Grade 3-4 ADRs                                       | All ADRs                                        | Grade 3-4 ADRs                                  |
-| Respiratory, thoracic and mediastinal disorders       | Respiratory, thoracic and mediastinal disorders      | Respiratory, thoracic and mediastinal disorders      | Respiratory, thoracic and mediastinal disorders | Respiratory, thoracic and mediastinal disorders |
-| Dyspnoea                                              | Very common                                          | Common                                               | Very common                                     | Common                                          |
-| Cough                                                 | Very common                                          |                                                      | Very common                                     | Uncommon                                        |
-| Pulmonary embolism                                    | Common                                               | Common                                               | Common                                          | Uncommon                                        |
-| Epistaxis                                             |                                                      |                                                      | Common*                                         | Uncommon*                                       |
-| Interstitial lung disease                             |                                                      |                                                      | Common*                                         | Uncommon*                                       |
-| Gastrointestinal disorders                            | Gastrointestinal disorders                           | Gastrointestinal disorders                           | Gastrointestinal disorders                      | Gastrointestinal disorders                      |
-| Diarrhoea                                             | Very common                                          | Common                                               | Very common                                     | Common                                          |
-| Vomiting                                              | Very common                                          | Common                                               | Common                                          | Common                                          |
-| Nausea                                                | Very common                                          | Uncommon                                             | Very common                                     | Uncommon                                        |
-| Constipation                                          | Very common                                          | Common                                               | Very common                                     | Common                                          |
-| Abdominal pain                                        | Very common                                          | Common                                               |                                                 |                                                 |
-| Abdominal pain upper                                  | Common                                               | Uncommon                                             |                                                 |                                                 |
-| Stomatitis                                            | Common                                               | Uncommon                                             |                                                 |                                                 |
-| Dry mouth                                             | Common                                               |                                                      |                                                 |                                                 |
-| Abdominal distension                                  | Common                                               | Uncommon                                             |                                                 |                                                 |
-| Gastrointestinal haemorrhage                          |                                                      |                                                      | Common                                          | Uncommon                                        |
-| Hepatobiliary disorders                               | Hepatobiliary disorders                              | Hepatobiliary disorders                              | Hepatobiliary disorders                         | Hepatobiliary disorders                         |
-| Hyperbilirubinaemia                                   |                                                      |                                                      | Uncommon                                        | Uncommon                                        |
-| Hepatitis                                             |                                                      |                                                      | Uncommon*                                       |                                                 |
-| Skin and subcutaneous tissue disorders                | Skin and subcutaneous tissue disorders               | Skin and subcutaneous tissue disorders               | Skin and subcutaneous tissue disorders          | Skin and subcutaneous tissue disorders          |
-| Rash                                                  | Very common                                          | Common                                               | Common                                          | Common                                          |
-| Pruritus                                              |                                                      |                                                      | Common                                          |                                                 |
-| Drug Reaction with Eosinophilia and Systemic Symptoms |                                                      |                                                      | Not known*                                      | Not known*                                      |
-| Toxic Epidermal Necrolysis                            |                                                      |                                                      | Not known*                                      | Not known*                                      |
-| Stevens-Johnson Syndrome                              |                                                      |                                                      | Not known*                                      | Not known*                                      |
-| Musculoskeletal and connective tissue disorders       | Musculoskeletal and connective tissue disorders      | Musculoskeletal and connective tissue disorders      | Musculoskeletal and connective tissue disorders | Musculoskeletal and connective tissue disorders |
-| Muscular weakness                                     | Very common                                          | Common                                               |                                                 |                                                 |
-| Back pain                                             | Very common                                          | Common                                               |                                                 |                                                 |
-| Bone pain                                             | Common                                               | Uncommon                                             | Very common                                     | Common                                          |
-| Muscle spasms                                         | Very common                                          |                                                      | Very common                                     | Uncommon                                        |
-| Renal and urinary disorders                           | Renal and urinary disorders                          | Renal and urinary disorders                          | Renal and urinary disorders                     | Renal and urinary disorders                     |
-| Acute kidney injury                                   | Common                                               | Common                                               |                                                 |                                                 |
-| Chronic kidney injury                                 | Common                                               | Common                                               |                                                 |                                                 |
-| Urinary retention                                     | Common                                               | Common                                               | Common                                          | Uncommon                                        |
-| Renal failure                                         |                                                      |                                                      | Common                                          | Common                                          |
-| Reproductive system and breast disorders              | Reproductive system and breast disorders             | Reproductive system and breast disorders             | Reproductive system and breast disorders        | Reproductive system and breast disorders        |
-| Pelvic pain                                           | Pelvic pain                                          | Pelvic pain                                          | Common                                          | Common                                          |
-| General disorders and administration site conditions  | General disorders and administration site conditions | General disorders and administration site conditions |                                                 |                                                 |
+| Combination of treatment                              | Pomalidomide/ bortezomib/dexamethasone          | Pomalidomide/ bortezomib/dexamethasone          | Pomalidomide/                                   | Pomalidomide/                                   |
+|-------------------------------------------------------|-------------------------------------------------|-------------------------------------------------|-------------------------------------------------|-------------------------------------------------|
+| System Organ Class /Preferred term                    | All ADRs                                        | Grade 3-4 ADRs                                  | All ADRs                                        | dexamethasone Grade 3-4 ADRs                    |
+| Respiratory, thoracic and mediastinal disorders       | Respiratory, thoracic and mediastinal disorders | Respiratory, thoracic and mediastinal disorders | Respiratory, thoracic and mediastinal disorders | Respiratory, thoracic and mediastinal disorders |
+| Dyspnoea                                              | Very common                                     | Common                                          | Very common                                     | Common                                          |
+| Cough                                                 | Very common                                     |                                                 | Very common                                     | Uncommon                                        |
+| Pulmonary embolism                                    | Common                                          | Common                                          | Common                                          | Uncommon                                        |
+| Epistaxis                                             |                                                 |                                                 | Common*                                         | Uncommon*                                       |
+| Interstitial lung disease                             |                                                 |                                                 | Common*                                         | Uncommon*                                       |
+| Gastrointestinal disorders                            | Gastrointestinal disorders                      | Gastrointestinal disorders                      | Gastrointestinal disorders                      | Gastrointestinal disorders                      |
+| Diarrhoea                                             | Very common                                     | Common                                          | Very common                                     | Common                                          |
+| Vomiting                                              | Very common                                     | Common                                          | Common                                          | Common                                          |
+| Nausea                                                | Very common                                     | Uncommon                                        | Very common                                     | Uncommon                                        |
+| Constipation                                          | Very common                                     | Common                                          | Very common                                     | Common                                          |
+| Abdominal pain                                        | Very common                                     | Common                                          |                                                 |                                                 |
+| Abdominal pain upper                                  | Common                                          | Uncommon                                        |                                                 |                                                 |
+| Stomatitis                                            | Common                                          | Uncommon                                        |                                                 |                                                 |
+| Dry mouth                                             | Common                                          |                                                 |                                                 |                                                 |
+| Abdominal distension                                  | Common                                          | Uncommon                                        |                                                 |                                                 |
+| Gastrointestinal haemorrhage                          |                                                 |                                                 | Common                                          | Uncommon                                        |
+| Hepatobiliary disorders                               | Hepatobiliary disorders                         | Hepatobiliary disorders                         | Hepatobiliary disorders                         | Hepatobiliary disorders                         |
+| Hyperbilirubinaemia                                   |                                                 |                                                 | Uncommon                                        | Uncommon                                        |
+| Hepatitis                                             |                                                 |                                                 | Uncommon*                                       |                                                 |
+| Skin and subcutaneous tissue disorders                | Skin and subcutaneous tissue disorders          | Skin and subcutaneous tissue disorders          | Skin and subcutaneous tissue disorders          | Skin and subcutaneous tissue disorders          |
+| Rash                                                  | Very common                                     | Common                                          | Common                                          | Common                                          |
+| Pruritus                                              |                                                 |                                                 | Common                                          |                                                 |
+| Drug Reaction with Eosinophilia and Systemic Symptoms |                                                 |                                                 | Not known*                                      | Not known*                                      |
+| Toxic Epidermal Necrolysis                            |                                                 |                                                 | Not known*                                      | Not known*                                      |
+| Stevens-Johnson Syndrome                              |                                                 |                                                 | Not known*                                      | Not known*                                      |
+| Musculoskeletal and connective tissue disorders       | Musculoskeletal and connective tissue disorders | Musculoskeletal and connective tissue disorders | Musculoskeletal and connective tissue disorders | Musculoskeletal and connective tissue disorders |
+| Muscular weakness                                     | Very common                                     | Common                                          |                                                 |                                                 |
+| Back pain                                             | Very common                                     | Common                                          |                                                 |                                                 |
+| Bone pain                                             | Common                                          | Uncommon                                        | Very common                                     | Common                                          |
+| Muscle spasms                                         | Very common                                     |                                                 | Very common                                     | Uncommon                                        |
+| Renal and urinary disorders                           | Renal and urinary disorders                     | Renal and urinary disorders                     | Renal and urinary disorders                     | Renal and urinary disorders                     |
+| Acute kidney injury                                   | Common                                          | Common                                          |                                                 |                                                 |
+| Chronic kidney injury                                 | Common                                          | Common                                          |                                                 |                                                 |
+| Urinary retention                                     | Common                                          | Common                                          | Common                                          | Uncommon                                        |
+| Renal failure                                         |                                                 |                                                 | Common                                          | Common                                          |
+| Reproductive system and breast disorders              | Reproductive system and breast disorders        | Reproductive system and breast disorders        | Reproductive system and breast disorders        | Reproductive system and breast disorders        |
+| Pelvic pain                                           | Pelvic pain                                     | Pelvic pain                                     | Common                                          | Common                                          |
+| disorders and administration site conditions          | disorders and administration site conditions    | disorders and administration site conditions    |                                                 |                                                 |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -729,7 +724,7 @@ Pharmacotherapeutic group: Immunosuppressants, Other immunosuppressants, ATC cod
 
 ## Mechanism of action
 
-Pomalidomide has direct anti-myeloma tumoricidal activity, immunomodulatory activities and inhibits stromal cell support for multiple myeloma tumour cell growth. Specifically, pomalidomide inhibits proliferation and induces apoptosis of haematopoietic tumour cells. Additionally, pomalidomide inhibits the proliferation of lenalidomide-resistant multiple myeloma cell lines and synergises with dexamethasone in both lenalidomide-sensitive and lenalidomide-resistant cell lines to induce tumour cell apoptosis. Pomalidomide enhances T cell- and natural killer (NK) cell-mediated immunity and inhibits production of pro-inflammatory cytokines (e.g., TNF-α and IL-6) by monocytes. Pomalidomide also inhibits angiogenesis by blocking the migration and adhesion of endothelial cells.
+Pomalidomide has direct anti-myeloma tumoricidal activity, immunomodulatory activities and inhibits stromal cell support for multiple myeloma tumour cell growth. Specifically, pomalidomide inhibits proliferation and induces apoptosis of haematopoietic tumour cells. Additionally, pomalidomide inhibits the proliferation of lenalidomide-resistant multiple myeloma cell lines and synergises with dexamethasone in both lenalidomide-sensitive and lenalidomide-resistant cell lines to induce tumour cell apoptosis. Pomalidomide enhances T cell- and natural killer (NK) cell-mediated immunity and inhibits production of pro-inflammatory cytokines (e.g., TNFα and IL -6) by monocytes. Pomalidomide also inhibits angiogenesis by blocking the migration and adhesion of endothelial cells.
 
 Pomalidomide binds directly to the protein cereblon (CRBN), which is part of an E3 ligase complex that includes deoxyribonucleic acid (DNA) damage-binding protein 1(DDB1), cullin 4 (CUL4), and regulator of cullins-1 (Roc1), and can inhibit the auto-ubiquitination of CRBN within the complex. E3 ubiquitin ligases are responsible for the poly-ubiquitination of a variety of substrate proteins, and may partially explain the pleiotropic cellular effects observed with pomalidomide treatment.
 
@@ -741,19 +736,15 @@ In the presence of pomalidomide in vitro , substrate proteins Aiolos and Ikaros 
 
 The efficacy and safety of pomalidomide in combination with bortezomib and low-dose dexamethasone (Pom+Btz+LD-Dex) was compared with bortezomib and low-dose dexamethasone (Btz+LD-Dex) in a Phase III multi-centre, randomised, open-label study (CC-4047-MM-007), in previously treated adult patients with multiple myeloma, who had received at least one prior regimen, including lenalidomide and have demonstrated disease progression on or after the last therapy. A total of 559 patients were enrolled and randomised in the study: 281 in the Pom+Btz+LD-Dex arm and 278 in the Btz+LD-Dex arm. 54% of patients were male with median age for the overall population of 68 years (min, max: 27, 89 years). Approximately 70% of patients were refractory to lenalidomide (71.2% in Pom+Btz+LD-Dex, 68.7 % in Btz+LD-Dex). Approximately 40% of patients were in 1st relapse and approximately 73% of patients received bortezomib as prior treatment.
 
-Patients in the Pom+Btz+LD-Dex arm were administered 4 mg pomalidomide orally on Days 1 to 14 of each 21-day cycle. Bortezomib (1.3 mg/m 2 /dose) was administered to patients in both study arms on Days 1, 4, 8 and 11 of a 21-day cycle for Cycles 1 to 8; and on Days 1 and 8 of a 21-day cycle for
+Patients in the Pom+Btz+LD-Dex arm were administered 4 mg pomalidomide orally on Days 1 to 14 of each 21-day cycle. Bortezomib (1.3 mg/m 2 /dose) was administered to patients in both study arms on Days 1, 4, 8 and 11 of a 21-day cycle for Cycles 1 to 8; and on Days 1 and 8 of a 21-day cycle for Cycles 9 and onwards. Low-dose dexamethasone (20 mg/day [≤ 75 years old] or 10 mg/day [&gt; 75 years old]) was administered to patients in both study arms on Days 1, 2, 4, 5, 8, 9, 11 and 12 of a 21day cycle for Cycles 1 to 8; and on Days 1, 2, 8 and 9 of each subsequent 21-day cycle from Cycles 9 onwards. Doses were reduced and treatment was temporarily interrupted or stopped as needed to manage toxicity (see section 4.2).
 
 <div style=\"page-break-after: always\"></div>
-
-Cycles 9 and onwards. Low-dose dexamethasone (20 mg/day [≤ 75 years old] or 10 mg/day [&gt; 75 years old]) was administered to patients in both study arms on Days 1, 2, 4, 5, 8, 9, 11 and 12 of a 21day cycle for Cycles 1 to 8; and on Days 1, 2, 8 and 9 of each subsequent 21-day cycle from Cycles 9 onwards. Doses were reduced and treatment was temporarily interrupted or stopped as needed to manage toxicity (see section 4.2).
 
 The primary efficacy endpoint was Progression Free Survival (PFS) assessed by an Independent Response Adjudication Committee (IRAC) according to the IMWG criteria using the intent to treat population (ITT). After a median follow-up of 15.9 months, median PFS time was 11.20 months (95% CI: 9.66, 13.73) in the Pom+Btz+LD-Dex arm. In the Btz+LD-Dex arm, median PFS time was 7.1 months (95% CI: 5.88, 8.48).
 
 Summary of overall efficacy data are presented in table 8 using a cut-off date of 26 Oct 2017. KaplanMeier curve for PFS for the ITT population is provided in Figure 1.
 
 Table 8. Summary of overall efficacy data
-
-Btz = bortezomib; CI = Confidence interval; CR = Complete response; DoR = Duration of response; HR = Hazard Ratio;
 
 |                           | Pom+Btz+LD-Dex (N = 281)   | Btz+LD-Dex (N = 278)       |
 |---------------------------|----------------------------|----------------------------|
@@ -770,21 +761,23 @@ Btz = bortezomib; CI = Confidence interval; CR = Complete response; DoR = Durati
 | Median a time (95% CI) b  | 13.7 (10.94, 18.10)        | 10.94 (8.11, 14.78)        |
 | HR c (95% CI)             | 0.76 (0.56, 1.02)          | 0.76 (0.56, 1.02)          |
 
-LD-Dex = low-dose dexamethasone; OR = Odds ratio; ORR = Overall response rate; PFS = Progression free survival; POM = pomalidomide; PR = Partial Response; sCR = Stringent complete
+Btz = bortezomib; CI = Confidence interval; CR = Complete response; DoR = Duration of response; HR = Hazard Ratio;
 
-a The median is based on the Kaplan-Meier estimate.
+LD-Dex = low-dose dexamethasone; OR = Odds ratio; ORR = Overall response rate; PFS = Progression free survival; POM = pomalidomide; PR = Partial Response; sCR = Stringent complete
 
 response VGPR = Very good partial response.
 
-b 95% CI about the median.
+a The median is based on the Kaplan-Meier estimate.
 
-d The p-value is based on a stratified log-rank test.
+b 95% CI about the median.
 
 c Based on Cox proportional hazards model.
 
-e Odds ratio is for Pom+Btz+LD-Dex:Btz+LD-Dex.
+d The p-value is based on a stratified log-rank test.
 
-f The p-value is based on a CMH test, stratified by age (&lt;=75 vs &gt;75), Prior number of antimyeloma regimens (1 vs &gt;1), and Beta-2 microglobulin at screening (&lt; 3.5 mg/L versus ≥ 3.5 mg/L ≤ 5.5 mg/L versus &gt; 5.5 mg/L).
+e  Odds ratio is for Pom+Btz+LD-Dex:Btz+LD-Dex.
+
+f The p-value is based on a CMH test, stratified by age (&lt;=75 vs &gt;75), Prior number of antimyeloma regimens (1 vs &gt;1), and Beta-2 microglobulin at screening (&lt; 3.5 mg/L versus ≥ 3.5 mg/L -≤ 5.5 mg/L versus &gt; 5.5 mg/L).
 
 The median duration of treatment was 8.8 months (12 treatment cycles) in the Pom+Btz+LD-Dex arm and 4.9 months (7 treament cycles) in the Btz+LD-Dex arm.
 
@@ -798,7 +791,7 @@ Figure 1. Progression Free Survival Based on IRAC Review of Response by IMWG Cri
 
 <!-- image -->
 
-Data cuoff:26 Oct 2017
+Data cutoff:26Oct 2017
 
 Final analysis for Overall Survival (OS), using a cut-off of 13 May 2022 (median follow-up period of 64.5 months), median OS time from Kaplan-Meier estimates was 35.6 months for the Pom + Btz + LD-Dex arm and 31.6 months for the Btz + LD-Dex arm; HR = 0.94, 95% CI: -0.77, 1.15, with an overall event rate of 70.0%. The OS analysis was not adjusted to account for subsequent therapies received.
 
@@ -808,7 +801,7 @@ The efficacy and safety of pomalidomide in combination with dexamethasone were e
 
 Patients in the Pom+LD-Dex arm were administered 4 mg pomalidomide orally on days 1 to 21 of each 28-day cycle. LD-Dex (40 mg) was administered once per day on days 1, 8, 15 and 22 of a 28day cycle. For the HD-Dex arm, dexamethasone (40 mg) was administered once per day on days 1 through 4, 9 through 12, and 17 through 20 of a 28-day cycle. Patients &gt; 75 years of age started treatment with 20 mg dexamethasone. Treatment continued until patients had disease progression.
 
-The primary efficacy endpoint was progression free survival by International Myeloma Working Group (IMWG criteria). For the intention to treat (ITT) population, median PFS time by Independent Review Adjudication Committee (IRAC) review based on IMWG criteria was 15.7 weeks (95% CI: 13.0, 20.1) in the Pom + LD-Dex arm; the estimated 26-week event-free survival rate was 35.99% (±3.46%). In the HD-Dex arm, median PFS time was 8.0 weeks (95% CI: 7.0, 9.0); the estimated 26week event-free survival rate was 12.15% (±3.63%).
+The primary efficacy endpoint was progression free survival by International Myeloma Working Group (IMWG criteria). For the intention to treat (ITT) population, median PFS time by Independent Review Adjudication Committee (IRAC) review based on IMWG criteria was 15.7 weeks (95% CI: 13.0, 20.1) in the Pom + LD-Dex arm; the estimated 26-week event-free survival rate was 35.99% (±3.46%). In the HD -Dex arm, median PFS time was 8.0 weeks (95% CI: 7.0, 9.0); the estimated 26week event-free survival rate was 12. 15% (±3.63%).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -817,8 +810,6 @@ PFS was evaluated in several relevant subgroups: gender, race, ECOG performance 
 PFS is summarised in table 9 for the ITT population. Kaplan-Meier curve for PFS for the ITT population is provided in Figure 2.
 
 Table 9. Progression Free Survival Time by IRAC Review Based on IMWG Criteria (Stratified Log Rank Test) (ITT Population)
-
-Note: CI=Confidence interval; IRAC=Independent Review Adjudication Committee; NE = Not Estimable.
 
 |                                                    | Pom+LD - Dex (N=302)                   | HD - Dex (N=153)                       |
 |----------------------------------------------------|----------------------------------------|----------------------------------------|
@@ -831,11 +822,13 @@ Note: CI=Confidence interval; IRAC=Independent Review Adjudication Committee; NE
 | Hazard Ratio (Pom+LD-Dex:HD- Dex) 2-Sided 95% CI c | 0.45 [0.35,0.59]                       | 0.45 [0.35,0.59]                       |
 | Log-Rank Test Two sided P-Value d                  | <0.001                                 | <0.001                                 |
 
+Note: CI=Confidence interval; IRAC=Independent Review Adjudication Committee; NE = Not Estimable.
+
 a The median is based on Kaplan-Meier estimate.
 
-c Based on Cox proportional hazards model comparing the hazard functions associated with treatment groups, stratified by age
-
 b 95% confidence interval about the median progression free survival time.
+
+c Based on Cox proportional hazards model comparing the hazard functions associated with treatment groups, stratified by age
 
 (≤75 vs &gt;75),diseases population (refractory to both lenalidomide and bortezomib vs not refractory to both active substances), and prior number of anti myeloma therapy (=2 vs &gt;2).
 
@@ -849,7 +842,7 @@ Figure 2. Progression Free Survival Based on IRAC Review of Response by IMWG Cri
 
 Data cutoff:07 Sep 2012
 
-Overall Survival was the key secondary study endpoint. A total of 226 (74.8%) of the Pom + LD-Dex patients and 95 (62.1%) of the HD-Dex patients were alive as of the cutoff date (07 Sep 2012). Median OS time from Kaplan-Meier estimates has not been reached for the Pom + LD-Dex, but would be expected to be at least 48 weeks, which is the lower boundary of the 95% CI. Median OS time for the HD-Dex arm was 34 weeks (95% CI: 23.4, 39.9). The 1-year event free rate was 52.6% (± 5.72%) for the Pom + LD-Dex arm and 28.4% (± 7.51%) for the HD-Dex arm. The difference in OS between the two treatment arms was statistically significant (p &lt; 0.001).
+Overall Survival was the key secondary study endpoint. A total of 226 (74.8%) of the Pom + LD-Dex patients and 95 (62.1%) of the HD-Dex patients were alive as of the cutoff date (07 Sep 2012). Median OS time from Kaplan-Meier estimates has not been reached for the Pom + LD-Dex, but would be expected to be at least 48 weeks, which is the lower boundary of the 95% CI. Median OS time for the HD-Dex arm was 34 weeks (95% CI: 23.4, 39.9). The 1year event free rate was 52.6% (± 5.72%) for the Pom + LD-Dex arm an d 28.4% (± 7.51%) for the HD -Dex arm. The difference in OS between the two treatment arms was statistically significant (p &lt; 0.001).
 
 Overall survival is summarised in table 10 for the ITT population. Kaplan-Meier curve for OS for the ITT population is provided in Figure 3.
 
@@ -871,9 +864,9 @@ Table 10. Overall Survival: ITT Population
 
 Note: CI=Confidence interval. NE = Not Estimable.
 
-b 95% confidence interval about the median overall survival time.
-
 - a The median is based on Kaplan-Meier estimate.
+
+b 95% confidence interval about the median overall survival time.
 
 c Based on Cox proportional hazards model comparing the hazard functions associated with treatment groups.
 
@@ -889,9 +882,9 @@ cutof:07 Sep 2012
 
 ## Paediatric population
 
-Efficacy was not demonstrated in a Phase 2 multi-centre, open-label, parallel-group study conducted in 52 pomalidomide-treated paediatric patients, aged 4 to 18 years with recurrent or progressive highgrade glioma, medulloblastoma, ependymoma or diffuse intrinsic pontine glioma (DIPG) with primary location in the central nervous system (CNS).
-
 In a Phase 1 single-arm, open-label, dose escalation study, the maximum tolerated dose (MTD) and/or recommended Phase2 dose (RP2D) of pomalidomide in paediatric patients was determined to be 2.6 mg/m2/day administered orally on Day 1 to Day 21 of a repeated 28-day cycle.
+
+Efficacy was not demonstrated in a Phase 2 multi-centre, open-label, parallel-group study conducted in 52 pomalidomide-treated paediatric patients, aged 4 to 18 years with recurrent or progressive highgrade glioma, medulloblastoma, ependymoma or diffuse intrinsic pontine glioma (DIPG) with primary location in the central nervous system (CNS).
 
 In the Phase 2 study, two patients in the high-grade glioma group (N=19) achieved a response as defined by protocol; one of these patients achieved a partial response (PR) and the other patient achieved a long term stable disease (SD), which resulted in an objective response (OR) and long-term SD rate of 10.5% (95% CI: 1.3, 33.1). One patient in the ependymoma group (N=9) achieved a longterm SD which resulted in an OR and long-term SD rate of 11.1% (95% CI: 0.3, 48.2). No confirmed OR or long-term SD was observed in any of the evaluable patients in either the diffuse intrinsic pontine glioma (DIPG) group (N=9) or medulloblastoma group (N=9). None of the 4 parallel groups assessed in this Phase 2 study met the primary endpoint of objective response or long-term stable disease rate.
 
@@ -903,13 +896,13 @@ The overall safety profile of pomalidomide in paediatric patients was consistent
 
 ## Absorption
 
-Pomalidomide is absorbed with a maximum plasma concentration (C max ) occurring between 2 and 3 hours and is at least 73% absorbed following administration of single oral dose. The systemic exposure (AUC) of pomalidomide increases in an approximately linear and dose proportional manner. Following multiple doses, pomalidomide has an accumulation ratio of 27 to 31% on AUC.
+Pomalidomide is absorbed with a maximum plasma concentration (Cmax) occurring between 2 and 3 hours and is at least 73% absorbed following administration of single oral dose. The systemic exposure (AUC) of pomalidomide increases in an approximately linear and dose proportional manner. Following multiple doses, pomalidomide has an accumulation ratio of 27 to 31% on AUC.
 
-Coadministration with a high-fat and high-calorie meal slows the rate of absorption, decreasing mean plasma C max by approximately 27%, but has minimal effect on the overall extent of absorption with an 8% decrease in mean AUC. Therefore, pomalidomide can be administered without regard to food intake.
+Coadministration with a high-fat and high-calorie meal slows the rate of absorption, decreasing mean plasma Cmax by approximately 27%, but has minimal effect on the overall extent of absorption with an 8% decrease in mean AUC. Therefore, pomalidomide can be administered without regard to food intake.
 
 ## Distribution
 
-Pomalidomide has a mean apparent volume of distribution (Vd/F) between 62 and 138 L at steady state. Pomalidomide is distributed in semen of healthy subjects at a concentration of approximately 67% of plasma level at 4 hours post-dose (approximately T max ) after 4 days of once daily dosing at 2 mg. In vitro binding of pomalidomide enantiomers to proteins in human plasma ranges from 12% to 44% and is not concentration dependent.
+Pomalidomide has a mean apparent volume of distribution (Vd/F) between 62 and 138 L at steady state. Pomalidomide is distributed in semen of healthy subjects at a concentration of approximately 67% of plasma level at 4 hours post-dose (approximately Tmax) after 4 days of once daily dosing at 2 mg. In vitro binding of pomalidomide enantiomers to proteins in human plasma ranges from 12% to 44% and is not concentration dependent.
 
 ## Biotransformation
 
@@ -923,11 +916,9 @@ Based on in vitro data, pomalidomide is not an inhibitor or inducer of cytochrom
 
 Pomalidomide is eliminated with a median plasma half-life of approximately 9.5 hours in healthy subjects and approximately 7.5 hours in patients with multiple myeloma. Pomalidomide has a mean total body clearance (CL/F) of approximately 7-10 L/hr.
 
-Following a single oral administration of [ 14 C] -pomalidomide (2 mg) to healthy subjects, approximately 73% and 15% of the radioactive dose was eliminated in urine and faeces, respectively,
+Following a single oral administration of [ 14 C] -pomalidomide (2 mg) to healthy subjects, approximately 73% and 15% of the radioactive dose was eliminated in urine and faeces, respectively, with approximately 2% and 8% of the dosed radiocarbon eliminated as pomalidomide in urine and faeces.
 
 <div style=\"page-break-after: always\"></div>
-
-with approximately 2% and 8% of the dosed radiocarbon eliminated as pomalidomide in urine and faeces.
 
 Pomalidomide is extensively metabolised prior to excretion, with the resulting metabolites eliminated primarily in the urine. The 3 predominant metabolites in urine (formed via hydrolysis or hydroxylation with subsequent glucuronidation) account for approximately 23%, 17%, and 12%, respectively, of the dose in the urine. CYP dependent metabolites account for approximately 43% of the total excreted radioactivity, while non-CYP dependent hydrolytic metabolites account for 25%, and excretion of unchanged pomalidomide accounted for 10% (2% in urine and 8% in faeces).
 
@@ -937,7 +928,7 @@ Based on population PK analysis using a two-compartment model, healthy subjects 
 
 ## Paediatric population
 
-Following a single oral dose of pomalidomide in children and young adults with recurrent or progressive primary brain tumour, the median Tmax was 2 to 4 hours post-dose and corresponded to geometric mean C max (CV%) values of 74.8 (59.4%), 79.2 (51.7%), and 104 (18.3%) ng/mL at the 1.9, 2.6, and 3.4 mg/m 2 dose levels, respectively. AUC 0-24 and AUC0-inf followed similar trends, with total exposure in the range of approximately 700 to 800 h·ng/mL at the lower 2 doses, and approximately 1200 h·ng/mL at the high dose. Estimates of half-life were in the range of approximately 5 to 7 hours. There were no clear trends attributable to stratification by age and steroid use at the MTD. Overall, data suggest that AUC increased nearly proportional to the increase in pomalidomide dose, while the increase in C max was generally less than proportional.
+Following a single oral dose of pomalidomide in children and young adults with recurrent or progressive primary brain tumour, the median Tmax was 2 to 4 hours post-dose and corresponded to geometric mean Cmax (CV%) values of 74.8 (59.4%), 79.2 (51.7%), and 104 (18.3%) ng/mL at the 1.9, 2.6, and 3.4 mg/m 2 dose levels, respectively. AUC0-24 and AUC0-inf followed similar trends, with total exposure in the range of approximately 700 to 800 h·ng/mL at the lower 2 doses, and approximately 1200 h·ng /mL at the high dose. Estimates of half-life were in the range of approximately 5 to 7 hours. There were no clear trends attributable to stratification by age and steroid use at the MTD. Overall, data suggest that AUC increased nearly proportional to the increase in pomalidomide dose, while the increase in Cmax was generally less than proportional.
 
 The pharmacokinetics of pomalidomide following oral administration dose levels of 1.9 mg/m 2 /day to 3.4 mg/m 2 /day were determined in 70 patients with ages from 4 to 20 years in an integrated analysis of a Phase 1 and Phase 2 study in recurrent or progressive paediatric brain tumours. Pomalidomide concentration-time profiles were adequately described with a one compartment PK model with firstorder absorption and elimination. Pomalidomide exhibited linear and time-invariant PK with moderate variability. The typical values of CL/F, Vc/F, Ka, lag time of pomalidomide were 3.94 L/h, 43.0 L, 1.45 h -1 and 0.454 h respectively. The terminal elimination half-life of pomalidomide was 7.33 hours. Except for body surface area (BSA), none of the tested covariates including age and sex had effect on pomalidomide PK. Although BSA was identified as a statistically significant covariate of pomalidomide CL/F and Vc/F, the impact of BSA on exposure parameters was not deemed clinically relevant.
 
@@ -975,13 +966,13 @@ Pomalidomide was not mutagenic in bacterial and mammalian mutation assays, and d
 
 ## Fertility and early embryonic development
 
-In a fertility and early embryonic development study in rats, pomalidomide was administered to males and females at doses of 25, 250, and 1000 mg/kg/day. Uterine examination on Gestation Day 13 showed a decrease in mean number of viable embryos and an increase in postimplantation loss at all dose levels. Therefore, the NOAEL for these observed effects was &lt; 25 mg/kg/day (AUC 24h was 39960 ng·h/mL (nanogram·hour/millilitres) at this lowest dose tested, and the exposure ratio was 99fold relative to a 4 mg clinical dose). When treated males on this study were mated with untreated females, all uterine parameters were comparable to the controls. Based on these results, the observed effects were attributed to the treatment of females.
+In a fertility and early embryonic development study in rats, pomalidomide was administered to males and females at doses of 25, 250, and 1000 mg/kg/day. Uterine examination on Gestation Day 13 showed a decrease in mean number of viable embryos and an increase in postimplantation loss at all dose levels. Therefore, the NOAEL for these observed effects was &lt; 25 mg/kg/day (AUC24h was 39960 ng·h/mL (nanogram·hour/millilitres) at this lowest dose tested, and the exposure ratio was 99 -fold relative to a 4 mg clinical dose). When treated males on this study were mated with untreated females, all uterine parameters were comparable to the controls. Based on these results, the observed effects were attributed to the treatment of females.
 
 ## Embryo-foetal development
 
 Pomalidomide was found to be teratogenic in both rats and rabbits when administered during the period of major organogenesis. In the rat embryofoetal developmental toxicity study, malformations of absence of urinary bladder, absence of thyroid gland, and fusion and misalignment of lumbar and thoracic vertebral elements (central and/or neural arches) were observed at all dose levels (25, 250, and 1000 mg/kg/day).
 
-There was no maternal toxicity observed in this study. Therefore, the maternal NOAEL was 1000 mg/kg/day, and the NOAEL for developmental toxicity was &lt; 25 mg/kg/day (AUC 24h was 34340 ng·h/mL on Gestation Day 17 at this lowest dose tested, and the exposure ratio was 85-fold relative to a 4 mg clinical dose). In rabbits, pomalidomide at doses ranging from 10 to 250 mg/kg produced embryo-foetal developmental malformations. Increased cardiac anomalies were seen at all doses with significant increases at 250 mg/kg/day. At 100 and 250 mg/kg/day, there were slight increases in postimplantation loss and slight decreases in fetal body weights. At 250 mg/kg/day, fetal malformations included limb anomalies (flexed and/or rotated fore- and/or hindlimbs, unattached or absent digit) and associated skeletal malformations (not ossified metacarpal, misaligned phalanx and metacarpal, absent digit, not ossified phalanx, and short not ossified or bent tibia); moderate dilation of the lateral ventricle in the brain; abnormal placement of the right subclavian artery; absent intermediate lobe in the lungs; low-set kidney; altered liver morphology; incompletely or not ossified pelvis; an increased average for supernumerary thoracic ribs and a reduced average for ossified tarsals. Slight reduction in maternal body weight gain, significant reduction in triglycerides, and significant decrease in absolute and relative spleen weights were observed at 100 and 250 mg/kg/day. The maternal NOAEL was 10 mg/kg/day, and the developmental NOAEL was &lt;10 mg/kg/day (AUC 24h was 418 ng·h/mL on Gestation Day 19 at this lowest dose tested, which was similar to that obtained from a 4 mg clinical dose).
+There was no maternal toxicity observed in this study. Therefore, the maternal NOAEL was 1000 mg/kg/day, and the NOAEL for developmental toxicity was &lt; 25 mg/kg/day (AUC24h was 34340 ng·h/mL on Gestation Day 17 at this lowest dose tested, and the exposure ratio was 85 -fold relative to a 4 mg clinical dose). In rabbits, pomalidomide at doses ranging from 10 to 250 mg/kg produced embryo-foetal developmental malformations. Increased cardiac anomalies were seen at all doses with significant increases at 250 mg/kg/day. At 100 and 250 mg/kg/day, there were slight increases in postimplantation loss and slight decreases in fetal body weights. At 250 mg/kg/day, fetal malformations included limb anomalies (flexed and/or rotated fore- and/or hindlimbs, unattached or absent digit) and associated skeletal malformations (not ossified metacarpal, misaligned phalanx and metacarpal, absent digit, not ossified phalanx, and short not ossified or bent tibia); moderate dilation of the lateral ventricle in the brain; abnormal placement of the right subclavian artery; absent intermediate lobe in the lungs; low-set kidney; altered liver morphology; incompletely or not ossified pelvis; an increased average for supernumerary thoracic ribs and a reduced average for ossified tarsals. Slight reduction in maternal body weight gain, significant reduction in triglycerides, and significant decrease in absolute and relative spleen weights were observed at 100 and 250 mg/kg/day. The maternal NOAEL was 10 mg/kg/day, and the developmental NOAEL was &lt;10 mg/kg/day (AUC24h was 418 ng·h/mL on Gestation Day 19 at this lowest dose tested, which was similar to that obtained from a 4 mg clinical dose).
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
@@ -997,15 +988,11 @@ Pomalidomide Zentiva 1 mg and 2 mg hard capsules Gelatin Titanium dioxide (E171)
 
 <div style=\"page-break-after: always\"></div>
 
-Pomalidomide Zentiva 3 mg hard capsules Gelatin Titanium dioxide (E171) Iron oxide yellow (E172) Iron oxid red (E172)
+Pomalidomide Zentiva 3 mg hard capsules Gelatin Titanium dioxide (E171) Iron oxide yellow (E172) Iron oxid red (E172) Indigo carmine (E132)
 
-Indigo carmine (E132)
+Pomalidomide Zentiva 4 mg hard capsules Gelatin Titanium dioxide (E171) Iron oxide yellow (E172)
 
-## Pomalidomide Zentiva 4 mg hard capsules
-
-Titanium dioxide (E171) Iron oxide yellow (E172) Iron oxide red (E172) Indigo carmine (E132) Erythrosine (E127)
-
-Gelatin
+Iron oxide red (E172) Indigo carmine (E132) Erythrosine (E127)
 
 ## Printing ink
 
@@ -1051,37 +1038,41 @@ Zentiva, k.s. U Kabelovny 130 102 37 Prague 10 Czech Republic
 
 EU/1/24/1830/001
 
-EU/1/24/1830/004
-
 EU/1/24/1830/002
 
 EU/1/24/1830/003
+
+EU/1/24/1830/004
 
 ## Pomalidomide Zentiva 2 mg hard capsules
 
 EU/1/24/1830/005
 
-EU/1/24/1830/008
-
 EU/1/24/1830/006
 
 EU/1/24/1830/007
 
+EU/1/24/1830/008
+
 ## Pomalidomide Zentiva 3 mg hard capsules
 
-```
-EU/1/24/1830/009 EU/1/24/1830/010 EU/1/24/1830/011 EU/1/24/1830/012
-```
+EU/1/24/1830/009
+
+EU/1/24/1830/010
+
+EU/1/24/1830/011
+
+EU/1/24/1830/012
 
 ## Pomalidomide Zentiva 4 mg hard capsules
 
 EU/1/24/1830/013
 
-EU/1/24/1830/016
-
 EU/1/24/1830/014
 
 EU/1/24/1830/015
+
+EU/1/24/1830/016
 
 ## 9. DATE OF FIRST AUTHORISATION / RENEWAL OF THE AUTHORISATION
 
@@ -1095,9 +1086,7 @@ Detailed information on this medicinal product is available on the website of th
 
 ## ANNEX II
 
-- A. MANUFACTURER(S) RESPONSIBLE FOR BATCH RELEASE
-- B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
-- C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
+- A. MANUFACTURER(S) RESPONSIBLE FOR BATCH RELEASE B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 - D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
 <div style=\"page-break-after: always\"></div>
@@ -1130,8 +1119,8 @@ The marketing authorisation holder (MAH) shall perform the required pharmacovigi
 
 An updated RMP should be submitted:
 
-- Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 - At the request of the European Medicines Agency;
+- Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 
 ## · Additional risk minimisation measures
 
@@ -1142,73 +1131,71 @@ An updated RMP should be submitted:
 
 pomalidomide are provided with an Educational Healthcare Professional's Kit containing the following:
 
-- o Educational brochures for patients
 - o Educational Healthcare Professional brochure
+- o Educational brochures for patients
 - o Patient card
-- o Information on where to find latest Summary of Product Characteristics (SmPC)
 - o Risk awareness forms
+- o Information on where to find latest Summary of Product Characteristics (SmPC)
 2. The MAH shall implement a pregnancy prevention programme (PPP) in each Member State. Details of the PPP should be agreed with the National Competent Authorities in each Member State and put in place prior to the launch of the medicinal product.
-4. The MAH should agree on the implementation of the controlled access programme in each Member State.
 3. The MAH should agree the contents of the Educational Healthcare Professional's Kit with the National Competent Authority in each Member State prior to launch of the medicinal product and ensure that the materials contain the key elements as described below.
+4. The MAH should agree on the implementation of the controlled access programme in each Member State.
 
 ## Key elements to be included
 
 ## The Educational Healthcare Professional's Kit
 
-The Educational Health Care Professional's Kit shall contain the following elements:
+The Educational Healthcare Professional's Kit shall contain the following elements:
 
 ## Educational Healthcare Professional brochure
 
 - Brief background on pomalidomide
-- o 4 weeks for women with childbearing potential
 - Maximum duration of treatment prescribed
+- o 4 weeks for women with childbearing potential
 - o 12 weeks for men and women without childbearing potential
-- Guidance on handling the blister or capsule of Pomalidomide Zentiva for healthcare professionals and caregivers
 - The need to avoid foetal exposure due to teratogenicity of pomalidomide in animals and the expected teratogenic effect of pomalidomide in humans
-- Obligations of the health care professionals who intend to prescribe or
+- Guidance on handling the blister or capsule of Pomalidomide Zentiva for healthcare professionals and caregivers
+- Obligations of the healthcare professionals who intend to prescribe or dispense pomalidomide
 - o Need to provide comprehensive advice and counselling to patients
-- dispensepomalidomide
 - o That patients should be capable of complying with the requirements for the safe use of pomalidomide
+- o Need to provide patients with appropriate patient educational brochure, patient card and/or equivalent tool
 - Safety advice relevant to all patients
-- o Need to provide patients with appropriate patient educational brochure and patient card and/or equivalent tool
 - o Description and management of thrombocytopenia including incidence rates from clinical studies
-- o Local country specific arrangements for a prescription for pomalidomide to be dispensed
 - o Description and management of cardiac failure
+- o Local country specific arrangements for a prescription for pomalidomide to be dispensed
 - o That any unused capsules should be returned to the pharmacist at the end of the treatment
-- Description of the PPP and categorisation of patients based on sex and childbearing potential
 - o That the patient should not donate blood during treatment (including during dose interruptions) and for at least 7 days following discontinuation of pomalidomide
+- Description of the PPP and categorisation of patients based on sex and childbearing potential
 - o Algorithm for implementation of PPP
-- Safety advice for women of childbearing potential
 - o Definition of women of childbearing potential (WCBP) and actions the prescriber should take if unsure
+- Safety advice for women of childbearing potential
 - o The need to avoid foetal exposure
 - o Description of the PPP
 
 <div style=\"page-break-after: always\"></div>
 
 - o Need for effective contraception (even if the woman has amenorrhoea) and definition of effective contraception
-- The physician prescribing her contraception that she is on pomalidomide
 - o That if she needs to change or stop using her method of contraception she should inform:
 - The physician prescribing pomalidomide that she has stopped or changed her method of contraception
-- Advice on suitable tests
+- The physician prescribing her contraception that she is on pomalidomide
 - o Pregnancy test regime
 - Before commencing treatment
-- After finishing treatment
+- Advice on suitable tests
 - During treatment based on method of contraception
+- After finishing treatment
 - o Need to stop pomalidomide immediately upon suspicion of pregnancy
-- Safety advice for men
 - o Need to tell treating doctor immediately upon suspicion of pregnancy
+- Safety advice for men
 - o The need to avoid foetal exposure
-- During pomalidomide treatment
-- o The need to use condoms if sexual partner is pregnant or a WCBP not using effectivecontraception (even if the man has had a vasectomy)
+- o The need to use condoms if sexual partner is pregnant or a WCBP not using effective contraception (even if the man has had a vasectomy)
 - For at least 7 days following final dose
-- o That if his partner becomes pregnant whilst he is taking pomalidomide or shortly after he has stopped taking pomalidomide he should inform his treating doctor immediately
+- During pomalidomide treatment
 - o That he should not donate semen or sperm during treatment (including during dose interruptions) and for at least 7 days following discontinuation of pomalidomide treatment
+- o That if his partner becomes pregnant whilst he is taking pomalidomide or shortly after he has stopped taking pomalidomide he should inform his treating doctor immediately
 - Requirements in the event of pregnancy
-- o Need to refer patient to physician specialised or experienced in dealing with teratology and its diagnosis for evaluation and advice
 - o Instructions to stop pomalidomide immediately upon suspicion of pregnancy, if female patient
+- o Need to refer patient to physician specialised or experienced in dealing with teratology and its diagnosis for evaluation and advice
 - o Local contact details for reporting of any suspected pregnancy immediately
 - Local contact details for reporting adverse reactions
-- o Pregnancy reporting form
 
 ## Educational Brochures for patients
 
@@ -1226,8 +1213,8 @@ All educational brochures for patients should contain the following elements:
 - National or other applicable specific arrangements for a prescription for pomalidomide to be dispensed
 - Guidance on handling pomalidomide for patients, caregivers and family members
 - That the patient must not give pomalidomide to any other person
-- That the patient should tell their doctor about any adverse events
 - That the patient should not donate blood during treatment (including during dose interruptions) and for at least 7 days after discontinuation of pomalidomide treatment
+- That the patient should tell their doctor about any adverse events
 - That any unused capsules should be returned to the pharmacist at the end of the treatment
 
 The following information should also be provided in the appropriate brochure:
@@ -1236,17 +1223,17 @@ The following information should also be provided in the appropriate brochure:
 
 ## Brochure for women patients with childbearing potential
 
-- Description of the PPP
 - The need to avoid foetal exposure
 - The need for effective contraception and definition of effective contraception
-- o The physician prescribing her contraception that she is on pomalidomide
+- Description of the PPP
 - That if she needs to change or stop using her method of contraception she should inform:
+- o The physician prescribing her contraception that she is on pomalidomide
 - o The physician prescribing pomalidomide that she has stopped or changed her method of contraception
-- o Before commencing treatment
 - Pregnancy test regime
+- o Before commencing treatment
 - o During treatment (including dose interruptions), at least every 4 weeks except in case of confirmed tubal sterilisation
-- The need to stop pomalidomide immediately upon suspicion of pregnancy
 - o After finishing treatment
+- The need to stop pomalidomide immediately upon suspicion of pregnancy
 - The need to contact their doctor immediately upon suspicion of pregnancy
 
 ## Brochure for male patients
@@ -1254,8 +1241,8 @@ The following information should also be provided in the appropriate brochure:
 - The need to use condoms if sexual partner is pregnant or a WCBP and not using effective contraception (even if the man has had vasectomy)
 - The need to avoid foetal exposure
 - o During pomalidomide treatment (including dose interruptions)
-- That if his partner becomes pregnant, he should inform his treating doctor immediately
 - o For at least 7 days following final dose
+- That if his partner becomes pregnant, he should inform his treating doctor immediately
 - That he should not donate semen or sperm during treatment (including during dose interruptions) and for at least 7 days following discontinuation of pomalidomide treatment
 
 ## Patient Card or equivalent tool
@@ -1277,26 +1264,26 @@ There should be 3 types of risk awareness forms:
 
 All risk awareness forms should contain the following elements:
 
-- patients receive the appropriate counselling prior to treatment initiation
 - teratogenicity warning
+- patients receive the appropriate counselling prior to treatment initiation
 - affirmation of patient understanding regarding the risk of pomalidomide and the PPP measures
-- patient details, signature and date
 - date of counselling
+- patient details, signature and date
 - prescriber name, signature and date
-- aim of this document i.e. as stated in the PPP: 'The aim of the risk awareness form is to protect patients and any possible foetuses by ensuring that patients are fully informed of and understand the risk of teratogenicity and other adverse reactions associated with the use of pomalidomide. It is not a contract and does not absolve anybody from his/her responsibilities with regard to the safe use of the product and prevention of foetal exposure.'
+- -aim of this document i.e. as stated in the PPP: 'The aim of the risk awareness form is to protect patients and any possible foetuses by ensuring that patients are fully informed of and understand the risk of teratogenicity and other adverse reactions associated with the use of pomalidomide. It is not a contract and does not absolve anybody from his/her responsibilities with regard to the safe use of the product and prevention of foetal exposure.'
 
 <div style=\"page-break-after: always\"></div>
 
 Risk awareness forms for women of childbearing potential should also include:
 
-- the need to avoid foetal exposure
 - Confirmation that the physician has discussed the following:
+- the need to avoid foetal exposure
+- that she understands the need to avoid pomalidomide during pregnancy and to apply effective contraceptive measures without interruption, at least 4 weeks before starting treatment, throughout the entire duration of treatment, and at least 4 weeks after the end of treatment
 - that if she is pregnant or plans to be, she must not take pomalidomide
 - that if she needs to change or stop using her method of contraception she should inform:
-- that she understands the need to avoid pomalidomide during pregnancy and to apply effective contraceptive measures without interruption, at least 4 weeks before starting treatment, throughout the entire duration of treatment, and at least 4 weeks after the end of treatment
 - the physician prescribing her contraception that she is taking pomalidomide
-- of the need for pregnancy tests i.e. before treatment, at least every 4 weeks during treatment and after treatment
 - the physician prescribing pomalidomide that she has stopped or changed her method of contraception
+- of the need for pregnancy tests i.e. before treatment, at least every 4 weeks during treatment and after treatment
 - of the need to stop pomalidomide immediately upon suspicion of pregnancy
 - that she should not share the medicinal product with any other person
 - of the need to contact their doctor immediately upon suspicion of pregnancy
@@ -1305,18 +1292,18 @@ Risk awareness forms for women of childbearing potential should also include:
 
 Risk awareness forms for women with no childbearing potential should also include:
 
-- that she should not share the medicinal product with any other person
 - Confirmation that the physician has discussed the following:
 - that she should not donate blood during treatment (including during dose interruptions) and for at least 7 days following discontinuation of pomalidomide
+- that she should not share the medicinal product with any other person
 - that she should return the unused capsules to the pharmacist at the end of treatment.
 
 Risk awareness forms for male patients should also include:
 
-- the need to avoid foetal exposure
 - Confirmation that the physician has discussed the following:
+- the need to avoid foetal exposure
+- that if his partner becomes pregnant, he should inform his treating doctor immediately and always use a condom
 - that pomalidomide is found in semen and the need to use condoms if sexual partner is pregnant or is a WCBP not on effective contraception (even if the man has had a vasectomy)
 - that he should not share the medicinal product with any other person
-- that if his partner becomes pregnant, he should inform his treating doctor immediately and always use a condom
 - that he should not donate blood or semen during treatment (including during dose interruptions) and for at least 7 days following discontinuation of pomalidomide
 - that he should return the unused capsules to the pharmacist at the end of treatment.
 
@@ -1352,8 +1339,10 @@ Each hard capsule contains 1 mg of pomalidomide.
 
 14x1 hard capsules
 
-- 14 hard capsules
-- 21x1 hard capsules
+21x1 hard capsules
+
+14 hard capsules
+
 - 21 hard capsules
 
 ## 5. METHOD AND ROUTE OF ADMINISTRATION
@@ -1388,9 +1377,9 @@ Unused medicinal product should be returned to the pharmacist.
 
 Zentiva, k.s.
 
-102 37 Prague 10
-
 U Kabelovny 130
+
+102 37 Prague 10
 
 Czech Republic
 
@@ -1398,9 +1387,9 @@ Czech Republic
 
 EU/1/24/1830/001 14 hard capsules
 
-EU/1/24/1830/003 21 hard capsules
-
 EU/1/24/1830/002 14x1 hard capsules
+
+EU/1/24/1830/003 21 hard capsules
 
 EU/1/24/1830/004 21x1 hard capsules
 
@@ -1416,21 +1405,24 @@ Batch
 
 Pomalidomide Zentiva 1 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+## 18. UNIQUE IDENTIFIER -HUMAN READABLE DATA
 
 PC
 
-NN
-
 SN
+
+NN
 
 <div style=\"page-break-after: always\"></div>
 
 <!-- image -->
+
+| 5.   | OTHER   |
+|------|---------|
 
 ## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
 
@@ -1446,7 +1438,7 @@ pomalidomide
 
 Zentiva logo
 
-## 3. EXPIRY DATE
+3. EXPIRY DATE
 
 EXP
 
@@ -1478,9 +1470,11 @@ Each hard capsule contains 2 mg of pomalidomide.
 
 14x1 hard capsules
 
-- 14 hard capsules
-- 21x1 hard capsules
-- 21 hard capsules
+21x1 hard capsules
+
+14 hard capsules
+
+21 hard capsules
 
 ## 5. METHOD AND ROUTE OF ADMINISTRATION
 
@@ -1512,9 +1506,9 @@ Unused medicinal product should be returned to the pharmacist.
 
 Zentiva, k.s..
 
-102 37 Prague 10
-
 U Kabelovny 130
+
+102 37 Prague 10
 
 Czech Republic
 
@@ -1522,9 +1516,9 @@ Czech Republic
 
 EU/1/24/1830/005 14 hard capsules
 
-EU/1/24/1830/007 21 hard capsules
-
 EU/1/24/1830/006 14x1 hard capsules
+
+EU/1/24/1830/007 21 hard capsules
 
 EU/1/24/1830/008 21x1 hard capsules
 
@@ -1540,17 +1534,17 @@ Batch
 
 Pomalidomide Zentiva 2 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+## 18. UNIQUE IDENTIFIER -HUMAN READABLE DATA
 
 PC
 
-NN
-
 SN
+
+NN
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1602,9 +1596,11 @@ Each hard capsule contains 3 mg of pomalidomide.
 
 14x1 hard capsules
 
-- 14 hard capsules
-- 21x1 hard capsules
-- 21 hard capsules
+21x1 hard capsules
+
+14 hard capsules
+
+21 hard capsules
 
 ## 5. METHOD AND ROUTE OF ADMINISTRATION
 
@@ -1636,9 +1632,9 @@ Unused medicinal product should be returned to the pharmacist.
 
 Zentiva, k.s.
 
-102 37 Prague 10
-
 U Kabelovny 130
+
+102 37 Prague 10
 
 Czech Republic
 
@@ -1646,9 +1642,9 @@ Czech Republic
 
 EU/1/24/1830/009 14 hard capsules
 
-EU/1/24/1830/011 21 hard capsules
-
 EU/1/24/1830/010 14x1 hard capsules
+
+EU/1/24/1830/011 21 hard capsules
 
 EU/1/24/1830/012 21x1 hard capsules
 
@@ -1664,17 +1660,17 @@ Batch
 
 Pomalidomide Zentiva 3 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+## 18. UNIQUE IDENTIFIER -HUMAN READABLE DATA
 
 PC
 
-NN
-
 SN
+
+NN
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1726,9 +1722,11 @@ Each hard capsule contains 4 mg of pomalidomide.
 
 14x1 hard capsules
 
-- 14 hard capsules
-- 21x1 hard capsules
-- 21 hard capsules
+21x1 hard capsules
+
+14 hard capsules
+
+21 hard capsules
 
 ## 5. METHOD AND ROUTE OF ADMINISTRATION
 
@@ -1760,9 +1758,9 @@ Unused medicinal product should be returned to the pharmacist.
 
 Zentiva, k.s.
 
-102 37 Prague 10
-
 U Kabelovny 130
+
+102 37 Prague 10
 
 Czech Republic
 
@@ -1770,9 +1768,9 @@ Czech Republic
 
 EU/1/24/1830/013 14 hard capsules
 
-EU/1/24/1830/015 21 hard capsules
-
 EU/1/24/1830/014 14x1 hard capsules
+
+EU/1/24/1830/015 21 hard capsules
 
 EU/1/24/1830/016 21x1 hard capsules
 
@@ -1788,17 +1786,17 @@ Batch
 
 Pomalidomide Zentiva 4 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+## 18. UNIQUE IDENTIFIER -HUMAN READABLE DATA
 
 PC
 
-NN
-
 SN
+
+NN
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1832,9 +1830,9 @@ Batch
 
 ## B. PACKAGE LEAFLET
 
-<div style=\"page-break-after: always\"></div>
-
 ## Package leaflet: Information for the patient
+
+<div style=\"page-break-after: always\"></div>
 
 Pomalidomide Zentiva 1 mg hard capsules
 
@@ -1853,19 +1851,19 @@ pomalidomide
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
-- -If you have any further questions, ask your doctor, pharmacist or nurse.
 - -Keep this leaflet. You may need to read it again.
+- -If you have any further questions, ask your doctor, pharmacist or nurse.
 - -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
 - -If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
 1. What Pomalidomide Zentiva is and what it is used for
-3. How to take Pomalidomide Zentiva
 2. What you need to know before you take Pomalidomide Zentiva
+3. How to take Pomalidomide Zentiva
 4. Possible side effects
-6. Contents of the pack and other information
 5. How to store Pomalidomide Zentiva
+6. Contents of the pack and other information
 
 ## 1. What Pomalidomide Zentiva is and what it is used for
 
@@ -1879,11 +1877,11 @@ Pomalidomide Zentiva is used to treat adults with a type of cancer called 'multi
 
 ## Pomalidomide Zentiva is either used with:
 
-- two other medicines - called 'bortezomib' (a type of chemotherapy medicine) and 'dexamethasone' (an anti-inflammatory medicine) in people who have had at least one other treatment - including lenalidomide.
+- two other medicines -called 'bortezomib' (a type of chemotherapy medicine) and 'dexamethasone' (an anti -inflammatory medicine) in people who have had at least one other treatment - including lenalidomide.
 
 ## Or
 
-- one other medicine - called 'dexamethasone' in people whose myeloma has become worse, despite having at least two other treatments - including lenalidomide and bortezomib.
+- one other medicine -called 'dexamethasone' in people whose myeloma has become worse, despite having at least two other treatments - including lenalidomide and bortezomib.
 
 ## What is multiple myeloma
 
@@ -1895,50 +1893,48 @@ Multiple myeloma generally cannot be cured. However, treatment can reduce the si
 
 ## How Pomalidomide Zentiva works
 
-- by stopping the myeloma cells developing
-
 Pomalidomide Zentiva works in a number of different ways:
 
 - by stimulating the immune system to attack the cancer cells
+- by stopping the myeloma cells developing
 - by stopping the formation of blood vessels supplying the cancer cells.
 
 ## The benefit of using Pomalidomide Zentiva with bortezomib and dexamethasone
 
-- On average, Pomalidomide Zentiva when used with bortezomib and dexamethasone stopped multiple myeloma from coming back for up to 11 months - compared with 7 months for those patients who only used bortezomib and dexamethasone.
-
 When Pomalidomide Zentiva is used with bortezomib and dexamethasone, in people who have had at least one other treatment, it can stop multiple myeloma getting worse:
+
+- On average, Pomalidomide Zentiva when used with bortezomib and dexamethasone stopped multiple myeloma from coming back for up to 11 months - compared with 7 months for those patients who only used bortezomib and dexamethasone.
 
 ## The benefit of using Pomalidomide Zentiva with dexamethasone
 
-- On average, Pomalidomide Zentiva when used with dexamethasone stopped multiple myeloma from coming back for up to 4 months - compared with 2 months for those patients who used only dexamethasone.
-
 When Pomalidomide Zentiva is used with dexamethasone, in people who have had at least two other treatments, it can stop multiple myeloma getting worse:
+
+- On average, Pomalidomide Zentiva when used with dexamethasone stopped multiple myeloma from coming back for up to 4 months - compared with 2 months for those patients who used only dexamethasone.
 
 ## 2. What you need to know before you take Pomalidomide Zentiva
 
 ## Do not take Pomalidomide Zentiva
 
-- if you are able to become pregnant, unless you follow all the necessary measures to prevent you from becoming pregnant (see 'Pregnancy, contraception and breast-feeding - information for women and men'). If you are able to become pregnant, your doctor will record with each prescription that the necessary measures have been taken and will provide you with this confirmation.
-- if you are pregnant or think you may be pregnant or are planning to become pregnant - this is because Pomalidomide is expected to be harmful to an unborn child . (Men and women taking this medicine must read the section 'Pregnancy, contraception and breast-feeding information for women and men' below).
+- if you are able to become pregnant, unless you follow all the necessary measures to prevent you from becoming pregnant (see 'Pregnancy, contraception and breast -feeding -information for women and men'). If you are able to become pregnant, your doctor will record with each prescription that the necessary measures have been taken and will provide you with this confirmation.
+- if you are pregnant or think you may be pregnant or are planning to become pregnant -this is because Pomalidomide is expected to be harmful to an unborn child . (Men and women taking this medicine must read the section 'Pregnancy, contraception and breast -feeding -information for women and men' below).
 - if you are allergic to pomalidomide or any of the other ingredients of this medicine (listed in section 6). If you think you may be allergic, ask your doctor for advice.
 
 If you are uncertain whether any of the conditions above apply to you, talk to your doctor, pharmacist or nurse before taking Pomalidomide Zentiva.
 
 ## Warnings and precautions
 
-- you have ever had blood clots in the past. During the treatment with Pomalidomide Zentiva you have an increased risk of getting blood clots in your veins and arteries. Your doctor may recommend you take additional treatments (e.g. warfarin) or lower the dose of Pomalidomide Zentiva to reduce the chance that you get blood clots.
-
 ## Talk to your doctor, pharmacist or nurse before taking Pomalidomide Zentiva if:
 
+- you have ever had blood clots in the past. During the treatment with Pomalidomide Zentiva you have an increased risk of getting blood clots in your veins and arteries. Your doctor may recommend you take additional treatments (e.g. warfarin) or lower the dose of Pomalidomide Zentiva to reduce the chance that you get blood clots.
+- you have had a heart attack, have heart failure, have difficulty breathing, or if you smoke, have high blood pressure or high cholesterol levels.
 - you have ever had an allergic reaction such as rash, itching, swelling, feeling dizzy or trouble breathing while taking related medicines called 'thalidomide' or 'lenalidomide'.
 - you have a high total amount of tumour throughout the body, including your bone marrow. This could lead to a condition where the tumours break down and cause unusual levels of chemicals in the blood which can lead to kidney failure. You may also experience an uneven heartbeat. This condition is called tumour lysis syndrome.
-- you have had a heart attack, have heart failure, have difficulty breathing, or if you smoke, have high blood pressure or high cholesterol levels.
 
 <div style=\"page-break-after: always\"></div>
 
 - you have or have had neuropathy (nerve damage causing tingling or pain in your hands or feet).
-- you experience or have experienced in the past a combination of any of the following symptoms: rash on face or extended rash, red skin, high fever, flu-like symptoms, enlarged lymph nodes (signs of severe skin reaction called Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) or drug hypersensitivity syndrome, Toxic Epidermal Necrolysis (TEN) or Stevens-Johnson Syndrome (SJS). See also section 4 'Possible side effects').
 - you have or have ever had hepatitis B infection. Treatment with Pomalidomide Zentiva may cause the hepatitis B virus to become active again in patients who carry the virus, resulting in a recurrence of the infection. Your doctor should check whether you have ever had hepatitis B infection.
+- you experience or have experienced in the past a combination of any of the following symptoms: rash on face or extended rash, red skin, high fever, flu-like symptoms, enlarged lymph nodes (signs of severe skin reaction called Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) or drug hypersensitivity syndrome, Toxic Epidermal Necrolysis (TEN) or StevensJohnson Syndrome (SJS). See also section 4 'Possible side effects').
 
 It is important to note that patients with multiple myeloma treated with pomalidomide may develop additional types of cancer, therefore your doctor should carefully evaluate the benefit and risk when you are prescribed this medicine.
 
@@ -1946,7 +1942,7 @@ At any time during or after your treatment, tell your doctor or nurse immediatel
 
 At the end of the treatment you should return all unused capsules to the pharmacist.
 
-## Pregnancy, contraception and breast-feeding - information for women and men
+## Pregnancy, contraception and breast-feeding -information for women and men
 
 The following must be followed as stated in the Pomalidomide Zentiva Pregnancy Prevention Programme. Women and men taking Pomalidomide Zentiva must not become pregnant or father a child. This is because pomalidomide is expected to harm the unborn baby. You and your partner should use effective methods of contraception while taking this medicine.
 
@@ -1985,9 +1981,9 @@ You should not donate blood during treatment and for 7 days after the end of tre
 
 Your doctor should ask you to have a blood test:
 
-- every week for the first 8 weeks of treatment
 - before treatment
 - at least every month after that for as long as you are taking Pomalidomide Zentiva.
+- every week for the first 8 weeks of treatment
 
 As a result of these tests, your doctor may change your dose of Pomalidomide Zentiva or stop your treatment. The doctor may also change the dose or stop the medicine because of your general health.
 
@@ -2011,7 +2007,7 @@ Some people feel tired, dizzy, faint, confused or less alert when taking Pomalid
 
 ## Pomalidomide Zentiva contains sodium
 
-This medicine contains less than 1 mmol sodium (23 mg) per capsule, that is to say essentially 'sodium-free'.
+This medicine contains less than 1 mmol sodium (23 mg) per capsule, that is to say essentially 'sodium -free'.
 
 ## 3. How to take Pomalidomide Zentiva
 
@@ -2025,11 +2021,12 @@ Always take your medicines exactly as your doctor has told you. Check with your 
 
 ## Pomalidomide Zentiva with bortezomib and dexamethasone
 
-- Pomalidomide Zentiva, bortezomib and dexamethasone are taken in 'treatment cycles'. Each cycle lasts 21 days (3 weeks).
 - See the leaflets that come with bortezomib and dexamethasone for further information on their use and effects.
+- Pomalidomide Zentiva, bortezomib and dexamethasone are taken in 'treatment cycles'. Each cycle lasts 21 days (3 weeks).
 - Look at the chart below to see what to take on each day of the 3-week cycle:
-- o Some days, you take all 3 medicines, some days just 2 or 1 medicines, and some days none at all.
 - o Each day, look down the chart and find the correct day to see which medicines to take.
+- o Some days, you take all 3 medicines, some days just 2 or 1 medicines, and some days none at all.
+- After completing each 3-week cycle, start a new one.
 
 PML: Pomalidomide Zentiva; BOR : Bortezomib; DEX : Dexamethasone
 
@@ -2085,19 +2082,15 @@ Cycle 1 to 8
 | 20              |                 |                 |                 |
 | 21              |                 |                 |                 |
 
-- After completing each 3-week cycle, start a new one.
-
 ## Pomalidomide Zentiva with dexamethasone only
 
 - See the leaflet that comes with dexamethasone for further information on its use and effects.
 - Pomalidomide Zentiva and dexamethasone are taken in 'treatment cycles'. Each cycle lasts 28 days (4 weeks).
-- o Each day, look down the chart and find the correct day to see which medicines to take.
 - Look at the chart below to see what to take on each day of the 4-week cycle:
+- o Each day, look down the chart and find the correct day to see which medicines to take.
 - o Some days, you take both medicines, some days just 1 medicine, and some days none at all.
 
-PML:
-
-## Pomalidomide Zentiva; DEX : Dexamethasone
+## PML: Pomalidomide Zentiva; DEX : Dexamethasone
 
 ## Medicine name
 
@@ -2148,8 +2141,8 @@ Cycle 9 and onwards
 
 ## Pomalidomide Zentiva with dexamethasone only
 
-- The recommended starting dose of dexamethasone is 40 mg per day. However, if you are over 75, the recommended starting dose is 20 mg per day.
 - The recommended dose of Pomalidomide Zentiva is 4 mg per day.
+- The recommended starting dose of dexamethasone is 40 mg per day. However, if you are over 75, the recommended starting dose is 20 mg per day.
 
 Your doctor may need to reduce the dose of Pomalidomide Zentiva, bortezomib or dexamethasone or stop one or more of these medicines based on the results of your blood tests, your general condition, other medicines you may be taking (e.g. ciprofloxacin, enoxacin and fluvoxamine) and if you experience side effects (especially rash or swelling) from treatment.
 
@@ -2159,11 +2152,11 @@ If you suffer from liver or kidney problems your doctor will check your conditio
 
 ## How to take Pomalidomide Zentiva
 
-- Healthcare professionals, caregivers and family members should wear disposable gloves when handling the blister or capsule. Gloves should then be removed carefully to prevent skin exposure, placed in a sealable plastic polyethylene bag and disposed of in accordance with local requirements. Hands should then be washed thoroughly with soap and water. Women who are pregnant or suspect they may be pregnant should not handle the blister or capsule.
 - Do not break, open or chew the capsules. If powder from a broken Pomalidomide Zentiva capsule makes contact with the skin, wash the skin immediately and thoroughly with soap and water.
+- Healthcare professionals, caregivers and family members should wear disposable gloves when handling the blister or capsule. Gloves should then be removed carefully to prevent skin exposure, placed in a sealable plastic polyethylene bag and disposed of in accordance with local requirements. Hands should then be washed thoroughly with soap and water. Women who are pregnant or suspect they may be pregnant should not handle the blister or capsule.
+- You can take the capsules either with or without food.
 - Swallow the capsules whole, preferably with water.
 - Take your capsules at about the same time each day.
-- You can take the capsules either with or without food.
 
 To remove the capsule from the blister, press only one end of the capsule out to push it through the foil. Do not apply pressure on the centre of the capsule as this can cause it to break.
 
@@ -2191,7 +2184,7 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 ## Serious side effects
 
-Stop taking Pomalidomide Zentiva and see a doctor straight away if you notice any of the following serious side effects - you may need urgent medical treatment:
+Stop taking Pomalidomide Zentiva and see a doctor straight away if you notice any of the following serious side effects -you may need urgent medical treatment:
 
 - Fever, chills, sore throat, cough, mouth ulcers or any other signs of infection (due to less white blood cells, which fight infection).
 
@@ -2204,56 +2197,55 @@ Stop taking Pomalidomide Zentiva and see a doctor straight away if you notice an
 - Swelling of face, lips, tongue and throat, which may cause difficulty breathing (due to serious types of allergic reaction called angioedema and anaphylactic reaction).
 - Shortness of breath (from serious chest infection, inflammation of the lung, heart failure or blood clot).
 - Certain types of skin cancer (squamous cell carcinoma and basal cell carcinoma), which can cause changes in the appearance of your skin or growths on your skin. If you notice any changes to your skin whilst taking Pomalidomide Zentiva, tell your doctor as soon as possible.
-- Widespread rash, high body temperature, enlarged lymph nodes and other body organs involvement (Drug Reaction with Eosinophilia and Systemic Symptoms which is also known as DRESS or drug hypersensitivity syndrome, Toxic Epidermal Necrolysis or Stevens-Johnson Syndrome). Stop using pomalidomide if you develop these symptoms and contact your doctor or seek medical attention immediately. See also section 2.
 - Recurrence of hepatitis B infection, which can cause yellowing of the skin and eyes, dark brown-coloured urine, right-sided abdominal pain, fever and feeling nauseous or being sick. Tell your doctor straightaway if you notice any of these symptoms.
+- Widespread rash, high body temperature, enlarged lymph nodes and other body organs involvement (Drug Reaction with Eosinophilia and Systemic Symptoms which is also known as DRESS or drug hypersensitivity syndrome, Toxic Epidermal Necrolysis or Stevens-Johnson Syndrome). Stop using pomalidomide if you develop these symptoms and contact your doctor or seek medical attention immediately. See also section 2.
 
-Stop taking Pomalidomide Zentiva and see a doctor straight away if you notice any of the serious side effects listed above - you may need urgent medical treatment.
+Stop taking Pomalidomide Zentiva and see a doctor straight away if you notice any of the serious side effects listed above -you may need urgent medical treatment.
 
 ## Other side effects
 
-- Shortness of breath (dyspnoea).
-
 Very common (may affect more than 1 in 10 people):
 
+- Shortness of breath (dyspnoea).
+- Infections of the nose, sinuses and throat, caused by bacteria or viruses.
 - Infections of the lungs (pneumonia and bronchitis).
 - Flu-like symptoms (influenza).
-- Infections of the nose, sinuses and throat, caused by bacteria or viruses.
+- Low blood levels of potassium (hypokalaemia), which may cause weakness, muscle cramps, muscle aches, palpitations, tingling or numbness, dyspnoea, mood changes.
 - Low red blood cells, which may cause anaemia leading to tiredness and weakness.
 - High blood levels of sugar.
-- Low blood levels of potassium (hypokalaemia), which may cause weakness, muscle cramps, muscle aches, palpitations, tingling or numbness, dyspnoea, mood changes.
+- Loss of appetite.
 - A fast and irregular heartbeat (atrial fibrillation).
 - Constipation, diarrhoea or nausea.
-- Loss of appetite.
+- Abdominal pain.
 - Being sick (vomiting).
 - Lack of energy.
-- Abdominal pain.
+- Dizziness, tremor.
 - Difficulty in falling asleep or staying asleep.
 - Muscle spasm, muscle weakness.
-- Dizziness, tremor.
+- Numbness, tingling or burning sensation to the skin, pains in hands or feet (peripheral sensory neuropathy).
 - Bone pain, back pain.
 - Swelling of the body, including swelling of the arms or legs.
-- Numbness, tingling or burning sensation to the skin, pains in hands or feet (peripheral sensory neuropathy).
-- Rashes.
 - Urinary tract infection, which may cause a burning sensation when passing urine, or a need to pass urine more often.
+- Rashes.
 
 <div style=\"page-break-after: always\"></div>
 
 Common (may affect up to 1 in 10 people):
 
-- Bleeding within the skull.
 - Fall.
 - Decreased ability to move or feel (sensation) in your hands, arms, feet and legs because of nerve damage (peripheral sensorimotor neuropathy).
-- A spinning feeling in your head, making it difficult to stand up and move normally.
+- Bleeding within the skull.
 - Numbness, itching, and a feeling of pins and needles on your skin (paraesthesia).
 - Swelling caused by fluid.
-- Itchy skin.
+- A spinning feeling in your head, making it difficult to stand up and move normally.
 - Hives (urticaria).
 - Shingles.
-- Chest pain, chest infection.
+- Itchy skin.
 - Heart attack (chest pain spreading to the arms, neck, jaw, feeling sweaty and breathless, feeling sick or vomiting).
+- Chest pain, chest infection.
+- A fall in the number of red and white blood cells and platelets at the same time (pancytopenia), which will make you more prone to bleeding and bruising. You may feel tired and weak, and short of breath and you are also more likely to get infections.
 - Increased blood pressure.
 - Decreased number of lymphocytes (one type of white blood cells) often caused by infection (lymphopenia).
-- A fall in the number of red and white blood cells and platelets at the same time (pancytopenia), which will make you more prone to bleeding and bruising. You may feel tired and weak, and short of breath and you are also more likely to get infections.
 - Low blood levels of magnesium (hypomagnesaemia), which may cause tiredness, generalised weakness, muscle cramps, irritability and may result in low blood levels of calcium (hypocalcaemia), which may cause numbness and, or tingling of hands, feet, or lips, muscle cramps, muscle weakness, light-headedness, confusion.
 - High blood level of calcium (hypercalcaemia), which may cause slowing reflexes and skeletal muscle weaknesses.
 - Low blood level of phosphate (hypophosphataemia), which may cause muscle weakness and irritability or confusion.
@@ -2276,8 +2268,8 @@ Common (may affect up to 1 in 10 people):
 
 ## Uncommon (may affect up to 1 in 100 people):
 
-- Inflammation of the liver (hepatitis) which can cause itchy skin, yellowing of the skin and the whites of the eyes (jaundice), pale coloured stools, dark coloured urine and abdominal pain.
 - Stroke.
+- Inflammation of the liver (hepatitis) which can cause itchy skin, yellowing of the skin and the whites of the eyes (jaundice), pale coloured stools, dark coloured urine and abdominal pain.
 - The breakdown of cancer cells resulting in the release of toxic compounds into the bloodstream (tumour lysis syndrome). This can result in kidney problems.
 - Underactive thyroid gland, which may cause symptoms such as tiredness, lethargy,
 
@@ -2309,8 +2301,8 @@ Do not throw away any medicines via wastewater or household waste. Any unused me
 
 ## What Pomalidomide Zentiva contains
 
-- The other ingredients are cellulose, microcrystalline; maltodextrin; sodium stearyl fumarate as capsule content.
 - The active substance is pomalidomide.
+- The other ingredients are cellulose, microcrystalline; maltodextrin; sodium stearyl fumarate as capsule content.
 
 Pomalidomide Zentiva 1 mg hard capsule:
 
@@ -2338,9 +2330,9 @@ The printing ink contains shellac (E904), titanium dioxide (E171) and propylene 
 
 ## What Pomalidomide Zentiva looks like and contents of the pack
 
-Pomalidomide Zentiva 4 mg hard capsules: Red cap and dark blue body, with 'PLM 4' written on them.
+Pomalidomide Zentiva 4 mg hard capsules: Red cap and dark blue body, with 'P LM 4' written on them.
 
-Pomalidomide Zentiva 1 mg hard capsules: Red cap and yellow body, with 'PLM 1' written on them. Pomalidomide Zentiva 2 mg hard capsules: Red cap and orange body, with 'PLM 2' written on them. Pomalidomide Zentiva 3 mg hard capsules: Red cap and turquoise body, with 'PLM 3' written on them.
+Pomalidomide Zentiva 1 mg hard capsules: Red cap and yellow body, with 'P LM 1' written on them. Pomalidomide Zentiva 2 mg hard capsules: Red cap and orange body, with 'P LM 2' written on them. Pomalidomide Zentiva 3 mg hard capsules: Red cap and turquoise body, with 'P LM 3' written on them.
 
 OPA/Alu/PVC//Alu blisters or perforated unit dose blisters.
 
@@ -2352,7 +2344,11 @@ Zentiva, k.s. U Kabelovny 130 102 37 Prague 10 Czech Republic
 
 ## Manufacturer
 
-Synthon Hispania S.L. Calle De Castello 1 08830 Sant Boi de Llobregat Spain or
+08830 Sant Boi de Llobregat
+
+Synthon Hispania S.L. Calle De Castello 1 Spain
+
+or
 
 Synthon B.V. Microweg 22 6545 CM Nijmegen The Netherlands
 
@@ -2360,35 +2356,29 @@ For any information about this medicine, please contact the local representative
 
 ## België/Belgique/Belgien
 
-Tél/Tel: +32 (78) 700 112
-
-PV-Belgium@zentiva.com
-
-Zentiva, k.s.
+Zentiva, k.s. Tél/Tel: +32 (78) 700 112 PV-Belgium@zentiva.com
 
 ## България
 
-Тел: +359 244 17 136
+Zentiva, k.s.
+
+Тел:
+
++359 244 17 136
 
 PV-Bulgaria@zentiva.com
 
-Zentiva, k.s.
-
 ## Česká republika
+
+Zentiva, k.s.
 
 Tel: +420 267 241 111
 
 PV-Czech-Republic@zentiva.com
 
-Zentiva, k.s.
-
 ## Danmark
 
-Tlf: +45 787 68 400
-
-PV-Denmark@zentiva.com
-
-Zentiva Denmark ApS
+Zentiva Denmark ApS Tlf: +45 787 68 400 PV-Denmark@zentiva.com
 
 ## Deutschland
 
@@ -2400,37 +2390,37 @@ PV-Germany@zentiva.com
 
 ## Lietuva
 
-Tel: +370 52152025
-
-Zentiva, k.s.
-
-PV-Lithuania@zentiva.com
+Zentiva, k.s. Tel: +370 52152025 PV-Lithuania@zentiva.com
 
 ## Luxembourg/Luxemburg
 
-Tél/Tel: +352 208 82330
+Zentiva, k.s.
+
+Tél/Tel: +
+
+352 208 82330
 
 PV-Luxembourg@zentiva.com
 
-Zentiva, k.s.
-
 ## Magyarország
 
-Zentiva Pharma Kft. Tel.: +36 1 299 1058 PV-Hungary@zentiva.com
+Zentiva Pharma Kft. Tel.: +36 1 299 1058
+
+PV-Hungary@zentiva.com
 
 ## Malta
 
-Tel: +356 2034 1796
-
 Zentiva, k.s.
+
+Tel: +356 2034 1796
 
 PV-Malta@zentiva.com
 
 ## Nederland
 
-Tel: +31 202 253 638
-
 Zentiva, k.s.
+
+Tel: +31 202 253 638
 
 PV-Netherlands@zentiva.com
 
@@ -2446,27 +2436,17 @@ PV-Estonia@zentiva.com
 
 ## Ελλάδα
 
-Τηλ: +30 211 198 7510
-
-PV-Greece@zentiva.com
-
-Zentiva, k.s.
+Zentiva, k.s. Τηλ: +30 211 198 7510 PV-Greece@zentiva.com
 
 ## España
 
-Tel: +34 671 365 828
+Zentiva Spain S.L.U. Tel: +34 671 365 828
 
 PV-Spain@zentiva.com
 
-Zentiva Spain S.L.U.
-
 ## France
 
-Tél: +33 (0) 800 089 219
-
-PV-France@zentiva.com
-
-Zentiva France
+Zentiva France Tél: +33 (0) 800 089 219 PV-France@zentiva.com
 
 ## Hrvatska
 
@@ -2474,19 +2454,11 @@ Zentiva d.o.o. Tel: +385 1 6641 830 PV-Croatia@zentiva.com
 
 ## Ireland
 
-Tel: +353 818 882 243
-
-PV-Ireland@zentiva.com
-
-Zentiva, k.s.
+Zentiva, k.s. Tel: +353 818 882 243 PV-Ireland@zentiva.com
 
 ## Ísland
 
-Zentiva Denmark ApS
-
-Sími: +354 539 5025
-
-PV-Iceland@zentiva.com
+Zentiva Denmark ApS Sími : +354 539 5025 PV-Iceland@zentiva.com
 
 ## Italia
 
@@ -2498,19 +2470,11 @@ PV-Italy@zentiva.com
 
 ## Κύπρος
 
-Zentiva, k.s.
-
-Τηλ: +30 211 198 7510
-
-PV-Cyprus@zentiva.com
+Zentiva, k.s. Τηλ: + 30 211 198 7510 PV-Cyprus@zentiva.com
 
 ## Latvija
 
-Tel: +371 67893939
-
-PV-Latvia@zentiva.com
-
-Zentiva, k.s.
+Zentiva, k.s. Tel: +371 67893939 PV-Latvia@zentiva.com
 
 ## This leaflet was last revised in
 
@@ -2520,68 +2484,48 @@ Detailed information on this medicine is available on the European Medicines Age
 
 ## Norge
 
-Zentiva Denmark ApS
-
-Tlf: +45 787 68 400
-
-PV-Norway@zentiva.com
+Zentiva Denmark ApS Tlf: +45 787 68 400 PV-Norway@zentiva.com
 
 ## Österreich
 
-Zentiva, k.s.
-
-Tel: +43 720 778 877
-
-PV-Austria@zentiva.com
+Zentiva, k.s. Tel: +43 720 778 877 PV-Austria@zentiva.com
 
 ## Polska
 
-Zentiva Polska Sp. z o.o.
-
-Tel: + 48 22 375 92 00
+Zentiva Polska Sp. z o.o. Tel: + 48 22 375 92 00
 
 PV-Poland@zentiva.com
 
 ## Portugal
 
-Tel: +351210601360
-
-PV-Portugal@zentiva.com
-
-Zentiva Portugal, Lda
+Zentiva Portugal, Lda Tel: +351210601360 PV-Portugal@zentiva.com
 
 ## România
+
+ZENTIVA S.A.
 
 Tel: +4 021.304.7597
 
 PV-Romania@zentiva.com
 
-ZENTIVA S.A.
-
 ## Slovenija
 
-Tel: +386 360 00 408
-
-PV-Slovenia@zentiva.com
-
-Zentiva, k.s.
+Zentiva, k.s. Tel: +386 360 00 408 PV-Slovenia@zentiva.com
 
 ## Slovenská republika
+
+Zentiva, a.s.
 
 Tel: +421 2 3918 3010
 
 PV-Slovakia@zentiva.com
 
-Zentiva, a.s.
-
 ## Suomi/Finland
 
-Zentiva Denmark ApS
-
-Puh/Tel: +358 942 598 648
-
-PV-Finland@zentiva.com
+Zentiva Denmark ApS Puh/Tel: +358 942 598 648 PV-Finland@zentiva.com
 
 ## Sverige
 
-Zentiva Denmark ApS Tel: +46 840 838 822 PV-Sweden@zentiva.com
+Zentiva Denmark ApS Tel: +46 840 838 822
+
+PV-Sweden@zentiva.com

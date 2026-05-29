@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-10-16 14:43:55
+document_datetime: 2026-05-26 16:06:57
 document_pages: 69
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/avonex-epar-product-information_en.pdf
 document_name: avonex-epar-product-information_en.pdf
 version: success
-processing_time: 14.0422657
-conversion_datetime: 2025-12-19 23:37:48.418866
+processing_time: 40.9475969
+conversion_datetime: 2026-05-29 20:34:22.292343
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.20.0
+  docling-jobkit: 1.20.0
+  docling: 2.96.0
+  docling-core: 2.78.0
+  docling-ibm-models: 3.13.2
+  docling-parse: 6.2.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -34,7 +34,7 @@ The concentration is 30 micrograms per 0.5 ml.
 
 Using the World Health Organisation (WHO) International Standard for Interferon, 30 micrograms of AVONEX contain 6 million IU of antiviral activity. The activity against other standards is not known.
 
-Excipient(s) with known effect
+## Excipient(s) with known effect
 
 For the full list of excipients, see section 6.1.
 
@@ -63,11 +63,9 @@ Posology
 
 Adults: The recommended dosage for the treatment of relapsing MS is 30 micrograms (0.5 ml solution), administered by intramuscular (IM) injection once a week (see section 6.6). No additional benefit has been shown by administering a higher dose (60 micrograms) once a week.
 
-Titration: To help patients reduce the incidence and severity of flu-like symptoms (see section 4.8), titration can be performed at the initiation of treatment. Titration using the pre-filled syringe can be
+Titration: To help patients reduce the incidence and severity of flu-like symptoms (see section 4.8), titration can be performed at the initiation of treatment. Titration using the pre-filled syringe can be achieved by initiating therapy on ¼ dose increments per week reaching the full dose (30 micrograms/week) by the fourth week.
 
 <div style=\"page-break-after: always\"></div>
-
-achieved by initiating therapy on ¼ dose increments per week reaching the full dose (30 micrograms/week) by the fourth week.
 
 An alternative titration schedule can be achieved by initiating therapy on approximately a ½ dose of AVONEX once a week before increasing to the full dose. In order to obtain adequate efficacy, a dose of 30 micrograms once a week should be reached and maintained after the initial titration period.
 
@@ -102,11 +100,9 @@ At the present time, it is not known for how long patients should be treated. Pa
 
 In order to improve the traceability of biological medicinal products, the name and the batch number of the administered product should be clearly recorded.
 
-AVONEX should be administered with caution to patients with previous or current depressive disorders, in particular to those with antecedents of suicidal ideation (see section 4.3). Depression and suicidal ideation are known to occur in increased frequency in the multiple sclerosis population and in
+AVONEX should be administered with caution to patients with previous or current depressive disorders, in particular to those with antecedents of suicidal ideation (see section 4.3). Depression and suicidal ideation are known to occur in increased frequency in the multiple sclerosis population and in association with interferon use. Patients should be advised to immediately report any symptoms of depression and/or suicidal ideation to their prescribing physician.
 
 <div style=\"page-break-after: always\"></div>
-
-association with interferon use. Patients should be advised to immediately report any symptoms of depression and/or suicidal ideation to their prescribing physician.
 
 Patients exhibiting depression should be monitored closely during therapy and treated appropriately. Cessation of therapy with AVONEX should be considered (see also sections 4.3 and 4.8).
 
@@ -124,11 +120,9 @@ Patients with cardiac disease, such as angina, congestive heart failure or arrhy
 
 Laboratory abnormalities are associated with the use of interferons. Therefore, in addition to those laboratory tests normally required for monitoring patients with MS, complete and differential white blood cell counts, platelet counts, and blood chemistry, including liver function tests, are recommended during AVONEX therapy. Patients with myelosuppression may require more intensive monitoring of complete blood cell counts, with differential and platelet counts.
 
-Patients may develop antibodies to AVONEX. The antibodies of some of those patients reduce the activity of interferon beta-1a in vitro (neutralising antibodies). Neutralising antibodies are associated with a reduction in the in vivo biological effects of AVONEX and may potentially be associated with a
+Patients may develop antibodies to AVONEX. The antibodies of some of those patients reduce the activity of interferon beta-1a in vitro (neutralising antibodies). Neutralising antibodies are associated with a reduction in the in vivo biological effects of AVONEX and may potentially be associated with a reduction of clinical efficacy. It is estimated that the plateau for the incidence of neutralising antibody formation is reached after 12 months of treatment. Recent clinical studies with patients treated up to three years with AVONEX suggest that approximately 5% to 8% develop neutralising antibodies.
 
 <div style=\"page-break-after: always\"></div>
-
-reduction of clinical efficacy. It is estimated that the plateau for the incidence of neutralising antibody formation is reached after 12 months of treatment. Recent clinical studies with patients treated up to three years with AVONEX suggest that approximately 5% to 8% develop neutralising antibodies.
 
 The use of various assays to detect serum antibodies to interferons limits the ability to compare antigenicity among different products.
 
@@ -156,11 +150,9 @@ If clinically needed, the use of Avonex may be considered during pregnancy.
 
 ## Breast-feeding
 
-Limited information available on the transfer of interferon beta-1a into breast milk, together with the chemical / physiological characteristics of interferon beta, suggests that levels of interferon beta-1a
+Limited information available on the transfer of interferon beta-1a into breast milk, together with the chemical / physiological characteristics of interferon beta, suggests that levels of interferon beta-1a excreted in human milk are negligible. No harmful effects on the breastfed newborn/infant are anticipated.
 
 <div style=\"page-break-after: always\"></div>
-
-excreted in human milk are negligible. No harmful effects on the breastfed newborn/infant are anticipated.
 
 Avonex can be used during breast-feeding.
 
@@ -182,7 +174,9 @@ Transient neurological symptoms that may mimic MS exacerbations may occur follow
 
 The frequencies of adverse reactions are expressed in patient-years, according to the following categories:
 
-Very common (≥1/10 patient -years); Common (≥1/100 to &lt;1/10 patient -years); Uncommon (≥1/1, 000 to &lt;1/100 patient -years); Rare (≥1/10, 000 to &lt;1/1,000 patient -years); Very rare (&lt;1/10,000 patient-years); Not known (cannot be estimated from the available data).
+Very common (≥1/10 patient -years); Common (≥1/100 to &lt;1/10 patient -years); Uncommon (≥1/1, 000 to &lt;1/100 patient -years); Rare (≥1/10, 000 to &lt;1/1,000 patient -years); Very rare (&lt;1/10,000 patient -years);
+
+Not known (cannot be estimated from the available data).
 
 Patient-time is the sum of individual units of time that the patient in the study has been exposed to AVONEX before experiencing the adverse reaction. For example, 100 person-years could be observed in 100 patients who were on treatment for one year or in 200 patients who were on treatment for half a year.
 
@@ -218,22 +212,11 @@ Within each frequency grouping, undesirable effects are presented in order of de
 | Immune system disorders not known                                                            | anaphylactic reaction, anaphylactic shock, hypersensitivity reactions (angioedema, dyspnoea, urticaria, rash, pruritic rash)                                                                                                                                                                                                                               |
 | Hepatobiliary disorders not known                                                            | hepatic failure (see section 4.4), hepatitis, autoimmune hepatitis                                                                                                                                                                                                                                                                                         |
 | Reproductive system and breast disorders uncommon                                            | metrorrhagia, menorrhagia                                                                                                                                                                                                                                                                                                                                  |
-
-*Class label for interferon beta products (see section 4.4).
-
-┼ Class label for interferon products, see below Pulmonary arterial hypertension .
-
-1 Injection site reactions including pain, inflammation and very rare cases of abscess or cellulitis that may require surgical intervention have been reported.
-
-2 The frequency of occurrence is higher at the beginning of treatment.
-
-3 A syncope episode may occur after AVONEX injection, it is normally a single episode that usually appears at the beginning of the treatment and does not recur with subsequent injections.
+| Psychiatric disorders common not known                                                       | depression (see section 4.4), insomnia suicide, psychosis, anxiety, confusion, emotional lability                                                                                                                                                                                                                                                          |
 
 ## Pulmonary arterial hypertension
 
 Cases of pulmonary arterial hypertension (PAH) have been reported with interferon beta products. Events were reported at various time points including up to several years after starting treatment with interferon beta.
-
-## Paediatric population
 
 <div style=\"page-break-after: always\"></div>
 
@@ -261,7 +244,7 @@ Interferon beta is produced by various cell types including fibroblasts and macr
 
 ## Mechanism of action
 
-AVONEX exerts its biological effects by binding to specific receptors on the surface of human cells. This binding initiates a complex cascade of intracellular events that leads to the expression of numerous interferon-induced gene products and markers. These include MHC Class I, Mx protein, 2' / 5' -oligoadenylate synthetase,  2-microglobulin, and neopterin. Some of these products have been measured in the serum and cellular fractions of blood collected from patients treated with AVONEX. After a single intramuscular dose of AVONEX, serum levels of these products remain elevated for at least four days and up to one week.
+AVONEX exerts its biological effects by binding to specific receptors on the surface of human cells. This binding initiates a complex cascade of intracellular events that leads to the expression of numerous interferon-induced gene products and markers. These include MHC Class I, Mx protein, 2' / 5'-oligoadenylate synthetase, β 2-microglobulin, and neopterin. Some of these products have been measured in the serum and cellular fractions of blood collected from patients treated with AVONEX. After a single intramuscular dose of AVONEX, serum levels of these products remain elevated for at least four days and up to one week.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -279,7 +262,7 @@ The effects of AVONEX in the treatment of MS were also demonstrated in a randomi
 
 Limited data of the efficacy/safety of AVONEX 15 micrograms IM once per week (n=8) as compared to no treatment (n=8) with follow up for 4 years showed results in line to those seen in adults, although the EDSS scores increased in the treated group over the 4 year follow-up thus indicating disease progression. No direct comparison with the dose currently recommended in adults is available.
 
-AVONEX 30 micrograms/0.5 ml solution for injection was studied as an active comparator in 2 controlled clinical trials in paediatric patients aged 10 to less than 18 years with relapsing remitting multiple sclerosis (see section 4.2).
+AVONEX 30 micrograms/0.5 ml solution for injection was studied as an active comparator in 3 controlled clinical trials in paediatric patients aged 10 to less than 18 years with relapsing remitting multiple sclerosis (see section 4.2).
 
 In an open-label randomised active controlled trial, 150 participants were randomly assigned in a 1:1 ratio to treatment with dimethyl fumarate, administered orally at a dose of 240 mg twice a day, or AVONEX , administered at a dose of 30 μg once weekly by intramuscular (IM) injection , for 96 weeks.
 
@@ -291,7 +274,13 @@ In a double-blind, double-dummy, active-controlled study, 215 participants were 
 
 The primary endpoint, the adjusted annualized relapse rate (ARR) at week 96, was significantly lower in patients treated with fingolimod (0.122) compared to patients who received AVONEX (0.675), translating into an 81.9% relative reduction in ARR (p &lt;0.001).
 
-Overall, the safety profile in patients receiving AVONEX in the two clinical trials was qualitatively consistent with that previously observed in adult patients.
+In an open-label randomised active controlled trial, 152 participants were randomly assigned in a 1:1 ratio to treatment with peginterferon beta1a, administered subcutaneously at a dose of 125 μg every 2 weeks, or AVONEX, administered at a dose of 30 μg o nce weekly by intramuscular (IM) injection, for 96 weeks.
+
+The primary endpoint, the adjusted ARR at week 48 (95% CI), was 0.521 (0.322, 0.843) in the Avonex group and 0.386 (0.231, 0.646) in the peginterferon beta-1a group. The mean (SD) participant relapse rate was 0.81 (1.994) in the Avonex group compared to 0.40 (0.907) in the peginterferon beta1a group.
+
+At Week 96, the adjusted ARR (95% CI) was 0.527 (0.340, 0.816) in the Avonex group and 0.285 (0.172, 0.471) in the peginterferon beta-1a group. The mean (SD) participant relapse rate was 0.82 (1.953) in the Avonex group and 0.34 (0.798) in the peginterferon beta-1a group.
+
+Overall, the safety profile in patients receiving AVONEX in the three clinical trials was qualitatively consistent with that previously observed in adult patients.
 
 ## 5.2 Pharmacokinetic properties
 
@@ -309,11 +298,11 @@ Local Tolerance: Intramuscular irritation has not been evaluated in animals foll
 
 Mutagenesis: Limited but relevant mutagenesis tests have been carried out. The results have been negative.
 
+<div style=\"page-break-after: always\"></div>
+
 Impairment of Fertility: Fertility and developmental studies in rhesus monkeys have been carried out with a related form of interferon beta-1a. At very high doses, anovulatory and abortifacient effects in test animals were observed. Similar reproductive dose-related effects have also been observed with other forms of alpha and beta interferons. No teratogenic effects or effects on foetal development have been observed, but the available information on the effects of interferon beta-1a in the peri- and postnatal periods is limited.
 
 No information is available on the effects of interferon beta-1a on male fertility.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
@@ -333,7 +322,7 @@ Not applicable.
 
 Store in a refrigerator (2°C - 8°C).
 
-DO NOT FREEZE.
+## DO NOT FREEZE.
 
 AVONEX can be stored at room temperature (between 15°C and 30°C) for up to one week.
 
@@ -353,25 +342,23 @@ AVONEX is provided as ready to use solution for injection in a pre-filled syring
 
 Once removed from the refrigerator, AVONEX in a pre-filled syringe should be allowed to warm to room temperature (15°C - 30°C) for about 30 minutes.
 
+<div style=\"page-break-after: always\"></div>
+
 Do not use external heat sources such as hot water to warm AVONEX 30 micrograms solution for injection.
 
 If the solution for injection contains particulate matter or if it is any colour other than clear colourless, the pre-filled syringe must not be used. The injection needle for intramuscular injection is provided. The formulation does not contain a preservative. Each pre-filled syringe of AVONEX contains a single dose only. Discard the unused portion of any pre-filled syringe.
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Biogen Netherlands B.V.
+Biogen Netherlands B.V. Prins Mauritslaan 13 1171 LP Badhoevedorp
 
-Prins Mauritslaan 13 1171 LP Badhoevedorp The Netherlands
+The Netherlands
 
 ## 8. MARKETING AUTHORISATION NUMBERS
 
-EU/1/97/033/003
-
-EU/1/97/033/004
+EU/1/97/033/003 EU/1/97/033/004
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -535,7 +522,7 @@ Transient neurological symptoms that may mimic MS exacerbations may occur follow
 
 The frequencies of adverse reactions are expressed in patient-years, according to the following categories:
 
-Very common (≥1/10 patient -years); Common (≥1/100 to &lt;1/10 patient -years); Uncommon (≥1/1, 000 to &lt;1/100 patient -years); Rare (≥1/10, 000 to &lt;1/1,000 patient -years); Very rare (&lt;1/10,000 patient-years); Not known (cannot be estimated from the available data).
+Very common (≥1/10 patient -years); Common (≥1/100 to &lt;1/10 patient -years); Uncommon (≥1/1, 000 to &lt;1/100 patient -years); Rare (≥1/10, 000 to &lt;1/1,000 patient -years); Very rare (&lt;1/10,000 patient -years); Not known (cannot be estimated from the available data).
 
 Patient-time is the sum of individual units of time that the patient in the study has been exposed to AVONEX before experiencing the adverse reaction. For example, 100 person-years could be observed in 100 patients who were on treatment for one year or in 200 patients who were on treatment for half a year.
 
@@ -545,13 +532,16 @@ Adverse reactions identified from studies (clinical trials and observational stu
 
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 
-| Investigations common uncommon not known                              | lymphocyte count decreased, white blood cell count decreased, neutrophil count decreased, hematocrit decreased, blood potassium increased, blood urea nitrogen increased platelet count decreased weight decreased, weight increased,   |
-|-----------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Cardiac disorders not known                                           | cardiomyopathy, congestive heart failure (see section 4.4), palpitations, arrhythmia, tachycardia                                                                                                                                       |
-| Blood and lymphatic system disorders not known rare                   | pancytopenia, thrombocytopenia thrombotic microangiopathy including thrombotic thrombocytopenic purpura/haemolytic uraemic syndrome*                                                                                                    |
-| Nervous system disorders very common common not known                 | headache 2 muscle spasticity, hypoesthesia neurological symptoms, syncope 3 , hypertonia, dizziness, paraesthesia, seizures, migraine                                                                                                   |
-| Respiratory, thoracic and mediastinal disorders common rare not known | rhinorrhoea dyspnoea pulmonary arterial hypertension ┼                                                                                                                                                                                  |
-| Gastrointestinal disorders common                                     | vomiting, diarrhoea, nausea 2                                                                                                                                                                                                           |
+| Investigations common uncommon not known   | lymphocyte count decreased, white blood cell count decreased, neutrophil count decreased, hematocrit decreased, blood potassium increased, blood urea nitrogen increased platelet count decreased weight decreased, weight increased,   |
+|--------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Cardiac disorders                          |                                                                                                                                                                                                                                         |
+| not known                                  | cardiomyopathy, congestive heart failure (see section 4.4), palpitations, arrhythmia, tachycardia                                                                                                                                       |
+| Blood and lymphatic system disorders       |                                                                                                                                                                                                                                         |
+| very common common not known               | headache 2 muscle spasticity, hypoesthesia neurological symptoms, syncope 3 , hypertonia, dizziness, paraesthesia, seizures, migraine                                                                                                   |
+| Respiratory, thoracic and mediastinal      |                                                                                                                                                                                                                                         |
+| common rare                                | rhinorrhoea dyspnoea                                                                                                                                                                                                                    |
+| not known                                  | pulmonary arterial hypertension ┼                                                                                                                                                                                                       |
+| Gastrointestinal disorders common          | vomiting, diarrhoea, nausea 2                                                                                                                                                                                                           |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -570,18 +560,9 @@ Within each frequency grouping, undesirable effects are presented in order of de
 |----------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Immune system disorders not known                                                            | anaphylactic reaction, anaphylactic shock, hypersensitivity reactions (angioedema, dyspnoea, urticaria, rash, pruritic rash)                                                                                                                                                                                                                               |
 | Hepatobiliary disorders not known                                                            | hepatic failure (see section 4.4), hepatitis, autoimmune hepatitis                                                                                                                                                                                                                                                                                         |
-| Reproductive system and breast disorders uncommon                                            | metrorrhagia, menorrhagia                                                                                                                                                                                                                                                                                                                                  |
+| Reproductive system and breast disorders uncommon                                            |                                                                                                                                                                                                                                                                                                                                                            |
+|                                                                                              | metrorrhagia, menorrhagia                                                                                                                                                                                                                                                                                                                                  |
 | Psychiatric disorders common not known                                                       | depression (see section 4.4), insomnia suicide, psychosis, anxiety, confusion, emotional lability                                                                                                                                                                                                                                                          |
-
-*Class label for interferon beta products (see section 4.4).
-
-┼ Class label for interferon products, see below Pulmonary arterial hypertension .
-
-1 Injection site reactions including pain, inflammation and very rare cases of abscess or cellulitis that may require surgical intervention have been reported.
-
-2 The frequency of occurrence is higher at the beginning of treatment.
-
-3 A syncope episode may occur after AVONEX injection, it is normally a single episode that usually appears at the beginning of the treatment and does not recur with subsequent injections.
 
 ## Pulmonary arterial hypertension
 
@@ -615,7 +596,7 @@ Interferon beta is produced by various cell types including fibroblasts and macr
 
 ## Mechanism of action
 
-AVONEX exerts its biological effects by binding to specific receptors on the surface of human cells. This binding initiates a complex cascade of intracellular events that leads to the expression of numerous interferon-induced gene products and markers. These include MHC Class I, Mx protein, 2' / 5' -oligoadenylate synthetase,  2-microglobulin, and neopterin. Some of these products have been measured in the serum and cellular fractions of blood collected from patients treated with AVONEX. After a single intramuscular dose of AVONEX, serum levels of these products remain elevated for at least four days and up to one week.
+AVONEX exerts its biological effects by binding to specific receptors on the surface of human cells. This binding initiates a complex cascade of intracellular events that leads to the expression of numerous interferon-induced gene products and markers. These include MHC Class I, Mx protein, 2' / 5'-oligoadenylate synthetase, β 2-microglobulin, and neopterin. Some of these products have been measured in the serum and cellular fractions of blood collected from patients treated with AVONEX. After a single intramuscular dose of AVONEX, serum levels of these products remain elevated for at least four days and up to one week.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -633,7 +614,7 @@ The effects of AVONEX in the treatment of MS were also demonstrated in a randomi
 
 Limited data of the efficacy/safety of AVONEX 15 micrograms IM once per week (n=8) as compared to no treatment (n=8) with follow up for 4 years showed results in line to those seen in adults, although the EDSS scores increased in the treated group over the 4 year follow-up thus indicating disease progression. No direct comparison with the dose currently recommended in adults is available.
 
-AVONEX 30 micrograms/0.5 ml solution for injection was studied as an active comparator in 2 controlled clinical trials in paediatric patients aged 10 to less than 18 years with relapsing remitting multiple sclerosis (see section 4.2).
+AVONEX 30 micrograms/0.5 ml solution for injection was studied as an active comparator in 3 controlled clinical trials in paediatric patients aged 10 to less than 18 years with relapsing remitting multiple sclerosis (see section 4.2).
 
 In an open-label randomised active controlled trial, 150 participants were randomly assigned in a 1:1 ratio to treatment with dimethyl fumarate, administered orally at a dose of 240 mg twice a day, or AVONEX , administered at a dose of 30 μg once weekly by intramuscular (IM) injection for 96 weeks.
 
@@ -645,7 +626,13 @@ In a double-blind, double-dummy, active-controlled study, 215 participants were 
 
 The primary endpoint, the adjusted annualized relapse rate (ARR) at week 96, was significantly lower in patients treated with fingolimod (0.122) compared to patients who received AVONEX (0.675), translating into an 81.9% relative reduction in ARR (p &lt;0.001).
 
-Overall, the safety profile in patients receiving AVONEX in the two clinical trials was qualitatively consistent with that previously observed in adult patients.
+In an open-label randomised active controlled trial, 152 participants were randomly assigned in a 1:1 ratio to treatment with peginterferon beta1a, administered subcutaneously at a dose of 125 μg every 2 weeks, or AVONEX, administered at a dose of 30 μg o nce weekly by intramuscular (IM) injection, for 96 weeks.
+
+The primary endpoint, the adjusted ARR at week 48 (95% CI), was 0.521 (0.322, 0.843) in the Avonex group and 0.386 (0.231, 0.646) in the peginterferon beta-1a group. The mean (SD) participant relapse rate was 0.81 (1.994) in the Avonex group compared to 0.40 (0.907) in the peginterferon beta1a group.
+
+At Week 96, the adjusted ARR (95% CI) was 0.527 (0.340, 0.816) in the Avonex group and 0.285 (0.172, 0.471) in the peginterferon beta-1a group. The mean (SD) participant relapse rate was 0.82 (1.953) in the Avonex group and 0.34 (0.798) in the peginterferon beta-1a group.
+
+Overall, the safety profile in patients receiving AVONEX in the three clinical trials was qualitatively consistent with that previously observed in adult patients.
 
 ## 5.2 Pharmacokinetic properties
 
@@ -663,11 +650,11 @@ Local Tolerance: Intramuscular irritation has not been evaluated in animals foll
 
 Mutagenesis: Limited but relevant mutagenesis tests have been carried out. The results have been negative.
 
+<div style=\"page-break-after: always\"></div>
+
 Impairment of Fertility: Fertility and developmental studies in rhesus monkeys have been carried out with a related form of interferon beta-1a. At very high doses, anovulatory and abortifacient effects in test animals were observed. Similar reproductive dose-related effects have also been observed with other forms of alpha and beta interferons. No teratogenic effects or effects on foetal development have been observed, but the available information on the effects of interferon beta-1a in the peri- and postnatal periods is limited.
 
 No information is available on the effects of interferon beta-1a on male fertility.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
@@ -705,57 +692,39 @@ Not all pack sizes may be marketed.
 
 ## 6.6 Special precautions for disposal and other handling
 
+<div style=\"page-break-after: always\"></div>
+
 For single-use only: The solution for injection in a pre-filled syringe is contained within the AVONEX PEN.
 
 Once removed from the refrigerator, the AVONEX PEN should be allowed to warm to room temperature (15°C to 30°C) for about 30 minutes.
 
 Do not use external heat sources such as hot water to warm AVONEX 30 micrograms solution for injection.
 
-Each single-use, disposable, pre-filled pen contains a single dose of AVONEX. The solution for injection can be observed through an oval medication display window on the AVONEX PEN. If the
-
-<div style=\"page-break-after: always\"></div>
-
-solution for injection contains particulate matter or if it is any colour other than clear colourless, the pre-filled pen must not be used. The injection needle is provided. The formulation does not contain a
-
-preservative.
+Each single-use, disposable, pre-filled pen contains a single dose of AVONEX. The solution for injection can be observed through an oval medication display window on the AVONEX PEN. If the solution for injection contains particulate matter or if it is any colour other than clear colourless, the pre-filled pen must not be used. The injection needle is provided. The formulation does not contain a preservative.
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
-7.
-
-MARKETING AUTHORISATION HOLDER
+## 7. MARKETING AUTHORISATION HOLDER
 
 Biogen Netherlands B.V.
 
-Prins Mauritslaan 13
+Prins Mauritslaan 13 1171 LP Badhoevedorp The Netherlands
 
-1171 LP Badhoevedorp
+## 8. MARKETING AUTHORISATION NUMBERS
 
-The Netherlands
+EU/1/97/033/005
 
-8.
+EU/1/97/033/006
 
-MARKETING AUTHORISATION NUMBERS
-
-EU/1/97/033/005 EU/1/97/033/006
-
-9.
-
-DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
+## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
 Date of first authorisation: 13 March 1997
 
 Date of latest renewal: 13 March 2007
 
-10.
+## 10. DATE OF REVISION OF THE TEXT
 
-DATE OF REVISION OF THE TEXT
-
-Detailed information on this medicinal product is available on the website of the European Medicines
-
-Agency https://www.ema.europa.eu
-
-27
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu
 
 <div style=\"page-break-after: always\"></div>
 
@@ -873,21 +842,15 @@ Prins Mauritslaan 13 1171 LP Badhoevedorp The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER (S)
 
-EU/1/97/033/003 4 pack
-
-EU/1/97/033/004 12 pack
+EU/1/97/033/003 4 pack EU/1/97/033/004 12 pack Lot Medicinal product subject to medical prescription.
 
 <div style=\"page-break-after: always\"></div>
 
 | 13.   | BATCH NUMBER   |
 |-------|----------------|
 
-Lot
-
 | 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
 |-------|-------------------------------------|
-
-Medicinal product subject to medical prescription.
 
 | 15.   | INSTRUCTIONS ON USE   |
 |-------|-----------------------|
@@ -902,8 +865,8 @@ avonex
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|-------|------------------------------------------|
 
 PC SN NN
 
@@ -977,7 +940,7 @@ Lot
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-## OUTER CARTON
+OUTER CARTON
 
 <!-- image -->
 
@@ -1072,8 +1035,8 @@ avonex pen
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|-------|------------------------------------------|
 
 PC SN NN
 
@@ -1163,7 +1126,7 @@ Medicinal product subject to medical prescription.
 
 avonex pen
 
-17. UNIQUE IDENTIFIER -2D BARCODE
+17. UNIQUE IDENTIFIER - 2D BARCODE
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
@@ -1195,8 +1158,7 @@ Lot
 
 0.5 ml
 
-| 6.   | OTHER   |
-|------|---------|
+## 6. OTHER
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1261,7 +1223,7 @@ MS also tends to flare up from time to time: this is called a relapse.
 
 ## (Notes information)
 
-Avonex works best when you use it:
+## Avonex works best when you use it:
 
 - -at the same time
 - -once a week
@@ -1273,7 +1235,7 @@ Avonex can help to reduce the number of relapses that you have and slow down the
 
 ## How AVONEX works
 
-Multiple sclerosis is linked to nerve (brain or spinal cord) damage. In MS, your body's defence system reacts against its own myelin -the 'insulation' that surrounds nerve fibres. When myelin is damaged, the messages between the brain and other parts of the body are disrupted. This is what causes the symptoms of MS. Avonex seems to work by stopping your body's defence system from attacking the myelin.
+Multiple sclerosis is linked to nerve (brain or spinal cord) damage. In MS, your body's defence system reacts against its own myelin - the 'insulation' that surrounds nerve fibres. When myelin is damaged, the messages between the brain and other parts of the body are disrupted. This is what causes the symptoms of MS. Avonex seems to work by stopping your body's defence system from attacking the myelin.
 
 ## 2. What you need to know before you use AVONEX
 
@@ -1346,7 +1308,7 @@ If you feel dizzy, do not drive. Avonex makes some people feel dizzy. If this ha
 
 ## Important information about some of the ingredients of AVONEX
 
-This medicine is essentially 'sodium -free'. It contains less than 23 mg (1 mmol) sodium in each weekly dose.
+This medicine is essentially 'sodium-free'. It contains less than 23 mg (1 mmol) sodium in each weekly dose.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1437,7 +1399,7 @@ Call a doctor immediately as they may be signs of a possible liver problem.
 
 ## Side effects seen in clinical trials
 
-## (Notes information)
+(Notes information)
 
 Side effects seen in clinical trials. These are the side effects that people reported when Avonex was being tested. The figures are based on how many people said they'd had them. It gives you an idea how likely you are to get similar side effects.
 
@@ -1445,7 +1407,7 @@ Side effects seen in clinical trials. These are the side effects that people rep
 
 (may affect more than 1 in 10 people)
 
-- -Flu-like symptoms -headache, muscle aches, chills or a fever: see Flu-like symptoms , below
+- -Flu-like symptoms - headache, muscle aches, chills or a fever: see Flu-like symptoms , below
 - -Headache.
 
 <div style=\"page-break-after: always\"></div>
@@ -1483,17 +1445,14 @@ Side effects seen in clinical trials. These are the side effects that people rep
 (may affect up to 1 in 1,000 people)
 
 - -Difficulty breathing
-- -Kidney problems including scarring that may reduce your kidney function
-- If you get some or all of these symptoms:
+- -Kidney problems including scarring that may reduce your kidney function If you get some or all of these symptoms:
 - -Foamy urine
 - -Fatigue
 - -Swelling, particularly in the ankles and eyelids, and weight gain.
 
 ## Tell your doctor as they may be signs of a possible kidney problem.
 
-- -Blood clots in the small blood vessels that can affect your kidneys (thrombotic thrombocytopenic purpura or haemolytic uremic syndrome).  Symptoms may include increased
-
-bruising, bleeding, fever, extreme weakness, headache, dizziness or light-headedness.  Your doctor may find changes in your blood and the function of your kidneys.
+- -Blood clots in the small blood vessels that can affect your kidneys (thrombotic thrombocytopenic purpura or haemolytic uremic syndrome).  Symptoms may include increased bruising, bleeding, fever, extreme weakness, headache, dizziness or light-headedness.  Your doctor may find changes in your blood and the function of your kidneys.
 
 ## If any of the effects trouble you, talk to your doctor.
 
@@ -1524,7 +1483,7 @@ These effects have been seen in people using Avonex, but we do not know how like
 ## Effects of the injection
 
 - -Feeling faint: Your first injection of Avonex may be given by your doctor. It may make you feel faint. You may even actually faint. This is unlikely to happen again.
-- -Just after an injection, your muscles may feel tense or very weak -as though you are having a relapse. This is rare. It only happens when you inject and the effects soon pass. They may happen any time after starting on Avonex.
+- -Just after an injection, your muscles may feel tense or very weak - as though you are having a relapse. This is rare. It only happens when you inject and the effects soon pass. They may happen any time after starting on Avonex.
 - -If you notice any irritation or skin problems after an injection, talk to your doctor.
 
 ## Flu-like symptoms
@@ -1666,9 +1625,9 @@ Tel: +372 618 9551
 
 Genesis Pharma SA
 
-Τηλ:
+Τηλ
 
-+30 210 8771500
+: +30 210 8771500
 
 ## España
 
@@ -1684,7 +1643,7 @@ Tél: +33 (0)1 41 37 9595
 
 ## Malta
 
-Pharma. MT Ltd..
+Pharma. MT Ltd.
 
 Tel: +356 21337008
 
@@ -1696,7 +1655,9 @@ Tel: +31 20 542 2000
 
 ## Norge
 
-Biogen Norway AS Tlf: +47 23 40 01 00
+Biogen Norway AS
+
+Tlf: +47 23 40 01 00
 
 ## Österreich
 
@@ -1832,6 +1793,8 @@ Find a clean, hard surface to lay out the items needed for your injection. Lay t
 
 <!-- image -->
 
+2
+
 <!-- image -->
 
 ## Check the liquid in the syringe
@@ -1842,7 +1805,11 @@ It should be clear and colourless. If the solution is cloudy, coloured or contai
 
 The syringe has a white tamper-evident cap.
 
-Make sure the cap is intact and has not been opened. If it looks like it has been opened, do not use that syringe. Hold the syringe so that the white cap is facing up.
+Make sure the cap is intact and has not been opened.
+
+If it looks like it has been opened, do not use that syringe.
+
+Hold the syringe so that the white cap is facing up.
 
 Bend the cap at a right angle until it snaps off.
 
@@ -1900,9 +1867,9 @@ With one hand, stretch the skin around the injection site. Relax your muscle.
 
 ## Make the injection
 
-## Insert the injection needle with a quick dart-like thrust
+## Insert the injection needle with a quick dart-like thrust at right
 
-angles to the skin, into the muscle at right .
+angles to the skin, into the muscle .
 
 The needle must go all the way in.
 
@@ -1916,9 +1883,7 @@ The syringe will not empty.
 
 Keep the skin stretched tightly or squeeze the skin around the injection site, and pull out the needle.
 
-If you use alcohol wipes, hold one on the injection site.
-
-Put a plaster over the site of injection if you need to.
+If you use alcohol wipes, hold one on the injection site. Put a plaster over the site of injection if you need to.
 
 ## Dispose of the rubbish properly
 
@@ -1997,7 +1962,7 @@ Avonex can help to reduce the number of relapses that you have and slow down the
 
 ## How AVONEX works
 
-Multiple sclerosis is linked to nerve (brain or spinal cord) damage. In MS, your body's defence system reacts against its own myelin -the 'insulation' that surrounds nerve fibres. When myelin is damaged, the messages between the brain and other parts of the body are disrupted. This is what causes the symptoms of MS. Avonex seems to work by stopping your body's defence system from attacking the myelin.
+Multiple sclerosis is linked to nerve (brain or spinal cord) damage. In MS, your body's defence system reacts against its own myelin - the 'insulation' that surrounds nerve fibres. When myelin is damaged, the messages between the brain and other parts of the body are disrupted. This is what causes the symptoms of MS. Avonex seems to work by stopping your body's defence system from attacking the myelin.
 
 ## 2. What you need to know before you use AVONEX
 
@@ -2009,7 +1974,9 @@ Because Avonex is based on a protein, there is a small chance of an allergic rea
 
 ## More about depression
 
-If you have severe depression or thoughts about suicide, you must not use Avonex. If you have depression, your doctor may still prescribe Avonex for you, but it's important to let your doctor know if you have had depression or any similar problems affecting your moods.
+If you have severe depression or thoughts about suicide, you must not use Avonex. If you have depression, your doctor may still prescribe Avonex for you, but it's important to let your
+
+doctor know if you have had depression or any similar problems affecting your moods.
 
 ## Do not use AVONEX:
 
@@ -2034,7 +2001,7 @@ Changes to your mood, thoughts about suicide, feeling unusually sad, anxious or 
 <div style=\"page-break-after: always\"></div>
 
 - -Heart problems, which can cause symptoms such as chest pain (angina) , particularly after any activity; swollen ankles, shortness of breath (congestive heart failure) ; or an irregular heartbeat (arrhythmias).
-- -Irritation at an injection site, which can lead to skin and tissue damage (injection site necrosis). When you are ready to inject, carefully follow the instructions in section 7 'How to inject AVONEX PEN ', at the end of this leaflet. This is to reduce the risk of injection site reactions .
+- -Irritation at an injection site, which can lead to skin and tissue damage (injection site necrosis). When you are ready to inject, carefully follow the instructions in section 7 'How to inject AVONEX PEN', at the end of this leaflet. This is to reduce the risk of injection site reactions.
 
 ## Talk to your doctor if you have any of these conditions, or if they worsen whilst taking Avonex.
 
@@ -2072,7 +2039,7 @@ If you feel dizzy, do not drive. Avonex makes some people feel dizzy. If this ha
 
 ## Important information about some of the ingredients of Avonex
 
-This medicine is essentially 'sodium -free'. It contains less than 23 mg (1 mmol) sodium in each weekly dose.
+This medicine is essentially 'sodium-free'. It contains less than 23 mg (1 mmol) sodium in each weekly dose.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2082,9 +2049,7 @@ This medicine is essentially 'sodium -free'. It contains less than 23 mg (1 mmol
 
 ## There are more details on how to inject using the Avonex Pen on the back of this leaflet.
 
-## The recommended weekly dose
-
-## One injection using Avonex Pen, once a week.
+## The recommended weekly dose One injection using Avonex Pen, once a week.
 
 Try to use Avonex at the same time on the same day each week.
 
@@ -2157,7 +2122,7 @@ These are the side effects that people reported when Avonex was being tested. Th
 
 ## Very common side effects (may affect more than 1 in 10 people)
 
-- -Flu-like symptoms -headache, muscle aches, chills or a fever: see
+- -Flu-like symptoms - headache, muscle aches, chills or a fever: see
 - -Headache.
 
 ## Common side effects (may affect up to 1 in 10 people)
@@ -2187,8 +2152,7 @@ These are the side effects that people reported when Avonex was being tested. Th
 ## Rare side effects (may affect up to 1 in 1,000 people)
 
 - -Difficulty breathing
-- Kidney problems including scarring that may reduce your kidney function
-- -If you get some or all of these symptoms:
+- -Kidney problems including scarring that may reduce your kidney function If you get some or all of these symptoms:
 - -Foamy urine
 - Flu-like symptoms
 
@@ -2227,7 +2191,7 @@ These effects have been seen in people using Avonex, but we do not know how like
 ## Effects of the injection
 
 - -Feeling faint: Your first injection of Avonex may be given by your doctor. It may make you feel faint. You may even actually faint. This is unlikely to happen again.
-- -Just after an injection, your muscles may feel tense or very weak -as though you are having a relapse. This is rare. It only happens when you inject and the effects soon pass. They may happen any time after starting on Avonex.
+- -Just after an injection, your muscles may feel tense or very weak - as though you are having a relapse. This is rare. It only happens when you inject and the effects soon pass. They may happen any time after starting on Avonex.
 - -If you notice any irritation or skin problems after an injection, talk to your doctor.
 
 ## Flu-like symptoms
@@ -2307,7 +2271,9 @@ Biogen Netherlands B.V. Prins Mauritslaan 13 1171 LP Badhoevedorp The Netherland
 
 FUJIFILM Diosynth Biotechnologies Denmark ApS, Biotek Allé 1, DK-3400 Hillerød, Denmark
 
-Biogen Netherlands B.V. Prins Mauritslaan 13 1171 LP Badhoevedorp
+Biogen Netherlands B.V.
+
+Prins Mauritslaan 13 1171 LP Badhoevedorp
 
 The Netherlands
 
@@ -2321,6 +2287,10 @@ Biogen Belgium NV/SA
 
 Tél: +32 2 2191218
 
+## Lietuva
+
+Biogen Lithuania UAB Tel: +370 5 259 6176
+
 ## България
 
 ЕВОФАРМА ЕООД
@@ -2329,33 +2299,17 @@ Teл.:
 
 +359 2 962 12 00
 
-## Česká republika
-
-Biogen (Czech Republic) s.r.o.
-
-Tel: +420 255 706 200
-
-## Danmark
-
-Biogen Denmark A/S
-
-Tlf.: +45 77 41 57 57
-
-## Deutschland
-
-Biogen GmbH
-
-Tel: +49 (0) 89 99 6170
-
-## Lietuva
-
-Biogen Lithuania UAB Tel: +370 5 259 6176
-
 ## Luxembourg/Luxemburg
 
 Biogen Belgium NV/SA
 
 Tél: +32 2 2191218
+
+## Česká republika
+
+Biogen (Czech Republic) s.r.o.
+
+Tel: +420 255 706 200
 
 ## Magyarország
 
@@ -2363,11 +2317,23 @@ Biogen Hungary Kft.
 
 Tel.: +36 1 899 9880
 
+## Danmark
+
+Biogen Denmark A/S
+
+Tlf.: +45 77 41 57 57
+
 ## Malta
 
-Pharma. MT Ltd..
+Pharma. MT Ltd.
 
 Tel: +356 21337008
+
+## Deutschland
+
+Biogen GmbH
+
+Tel: +49 (0) 89 99 6170
 
 ## Nederland
 
@@ -2391,9 +2357,9 @@ Tlf: +47 23 40 01 00
 
 Genesis Pharma SA
 
-Τηλ:
+Τηλ
 
-+30 210 8771500
+: +30 210 8771500
 
 ## Österreich
 
@@ -2479,7 +2445,9 @@ Puh/Tel: +358 207 401 200
 
 Genesis Pharma Cyprus Ltd
 
-Τηλ: +357 22 76 57 15
+Τηλ:
+
++357 22 76 57 15
 
 ## Sverige
 
@@ -2488,8 +2456,6 @@ Biogen Sweden AB
 Tel: +46 8 594 113 60
 
 ## Latvija
-
-Biogen Latvia SIA
 
 Biogen Latvia SIA
 
@@ -2507,7 +2473,7 @@ This leaflet is available in all EU/EEA languages on the European Medicines Agen
 
 ## Avonex Pen (single use)
 
-## Pack contents -Avonex Pen, needle and Avonex Pen cover
+## Pack contents - Avonex Pen, needle and Avonex Pen cover
 
 <!-- image -->
 
@@ -2607,7 +2573,9 @@ Tip: Do not press the blue activation button at the same time.
 
 - Look through the oval display window. The liquid should be clear and colourless.
 
-If the solution is cloudy, coloured or contains any floating particles, do not use this pen .
+If the solution is cloudy, coloured or contains any floating
+
+particles, do not use this pen .
 
 Air bubble(s) are normal.
 

@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-05-06 10:24:00
+document_datetime: 2026-05-27 11:32:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/imcivree.html
 document_name: imcivree.html
 version: success
-processing_time: 0.1274938
-conversion_datetime: 2026-05-07 20:09:07.350688
+processing_time: 0.1286326
+conversion_datetime: 2026-05-29 20:16:10.350401
 docling_version:
-  docling-serve: 1.17.0
-  docling-jobkit: 1.18.0
-  docling: 2.92.0
-  docling-core: 2.74.1
+  docling-serve: 1.20.0
+  docling-jobkit: 1.20.0
+  docling: 2.96.0
+  docling-core: 2.78.0
   docling-ibm-models: 3.13.2
-  docling-parse: 5.10.1
+  docling-parse: 6.2.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
 ---
 # Imcivree
 
@@ -46,9 +46,13 @@ Page contents
 
 ## Overview
 
-Imcivree is a medicine used to treat obesity and help control hunger caused by certain genetic conditions that affect how the brain controls feelings of hunger. It is used in adults and children aged 6 years and older with Bardet Biedl syndrome (BBS), and in those who have pro-opiomelanocortin (POMC) deficiency or leptin receptor (LEPR) deficiency resulting from changes (mutations) in both copies of the genes responsible for making POMC or LEPR.
+Imcivree is a medicine used to treat obesity and help control hunger caused by certain conditions that affect how the brain controls feelings of hunger. It is used:
 
-Bardet Biedl syndrome, pro-opiomelanocortin deficiency and leptin receptor deficiency are rare, and Imcivree was designated an 'orphan medicine' (a medicine used in rare diseases). Further information on the orphan designations can be found on the European Medicines Agency's website ( [pro-opiomelanocortin deficiency](/en/medicines/human/orphan-designations/eu-3-16-1703) : 14 July 2016; [leptin receptor deficiency](/en/medicines/human/orphan-designations/eu-3-18-2101) : 19 November 2018; [Bardet Biedl syndrome](/en/medicines/human/orphan-designations/eu-3-19-2192) : 21 August 2019).
+- in adults and children aged 4 years and older with acquired hypothalamic obesity (aHO), a condition that occurs when the hypothalamus (a part of the brain) does not work properly, either following an injury or because of an underlying disease;
+- in adults and children aged 2 years and older who have pro-opiomelanocortin (POMC) deficiency, proprotein convertase subtilisin/kexin type 1 (PCSK1) deficiency, or leptin receptor (LEPR) deficiency; these genetic conditions result from changes (mutations) in both copies of the genes responsible for making POMC, PCSK1 or LEPR;
+- in adults and children aged 2 years and older with a genetic condition called Bardet Biedl syndrome (BBS).
+
+These conditions are rare, and Imcivree was designated an 'orphan medicine' (a medicine used in rare diseases). Further information on the orphan designations can be found on the European Medicines Agency's website ( [acquired hypothalamic obesity](https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-23-2833) : 13 October 2023; [pro-opiomelanocortin deficiency](https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu3161703) : 14 July 2016; [leptin receptor deficiency](https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu3182101) : 19 November 2018; [Bardet Biedl syndrome](https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-19-2192) : 21 August 2019).
 
 Imcivree contains the active substance setmelanotide.
 
@@ -58,41 +62,53 @@ Collapse section
 
 ## How is Imcivree used?
 
-Imcivree can only be obtained with a prescription and treatment should be prescribed and supervised by a doctor with expertise in treating obesity caused by genetic conditions.
+Imcivree can only be obtained with a prescription. Treatment should be prescribed and supervised by a doctor with expertise in treating obesity caused by genetic conditions or problems affecting the hypothalamus.
 
-Imcivree is given once a day as an injection under the skin. The dose depends on the condition being treated, the effect of the treatment and how well it is tolerated. After being trained, patients or carers can inject the medicine themselves.
+Imcivree is given once a day as an injection under the skin of the abdomen (belly). After being trained, patients or carers can inject the medicine themselves.
 
-For more information about using Imcivree, see the package leaflet or contact your healthcare provider.
+For more information about using Imcivree, see the package leaflet or contact your doctor or pharmacist.
 
 ## How does Imcivree work?
 
-People with POMC deficiency have low levels of pro-opiomelanocortin, a substance that is converted into several hormones, including melanocyte-stimulating hormone (MSH). Low levels of MSH lead to loss of feeling of fullness after eating. In people with LEPR deficiency, the receptor (target) for the hormone leptin does not work properly so signals to the nerves that make the body feel full and control feelings of hunger cannot be sent. People with POMC, LEPR deficiency and BBS feel continuously hungry and quickly put on weight.
+The balance between how much energy a person takes in and how much they burn is regulated by the hypothalamus. In people with acquired hypothalamic obesity, this balance is disrupted.
+
+People with POMC or PCSK1 deficiency have low levels of the hormone melanocyte-stimulating hormone (MSH). When levels of MSH are low, it can cause a person to not feel full after eating.
+
+In people with LEPR deficiency and BBS, the receptor (target) for the hormone leptin does not work properly so signals to the nerves that make the body feel full and control feelings of hunger cannot be sent.
+
+People with these conditions feel hungry continuously and quickly gain weight.
 
 The active substance in Imcivree, setmelanotide, attaches to and activates a receptor called melanocortin receptor 4, which is normally activated through leptin and MSH, promoting a feeling of fullness after eating. By attaching to this receptor directly, Imcivree is expected to reduce excessive food intake and obesity.
 
 ## What benefits of Imcivree have been shown in studies?
 
-In 2 main studies, Imcivree was shown to be effective at reducing body weight by at least 10% in people with POMC and LEPR deficiency.
+Imcivree was found to reduce the body mass index (BMI; a measure of the patient's weight in relation to their height) of people with acquired hypothalamic obesity in a main study.
 
-The first study was carried out in 10 patients with obesity due to POMC deficiency resulting from mutations in both copies of the genes for either POMC or PCSK1. After one year of treatment, 8 out of 10 people achieved at least a 10% reduction in body weight.
+The study involved 120 adults, adolescents and children from 4 years of age with acquired hypothalamic obesity. After one year of treatment, people who received Imcivree had an average reduction of their BMI of approximately 16.5% compared with a BMI increase of approximately 3.3% for people who received placebo (a dummy treatment). In addition, about 83% of people treated with Imcivree had BMI decreases that are expected to provide meaningful health benefits compared with 21% of those who received placebo.
+
+In 3 other main studies, Imcivree was shown to be effective at reducing body weight by at least 10% in people with POMC, LEPR deficiency and BBS. Imcivree was not compared to another medicine or placebo in these studies.
+
+The first study was carried out in 10 patients with obesity due to POMC or PCSK1 deficiency resulting from mutations in both copies of the genes for either POMC or PCSK1. After one year of treatment, 8 out of 10 people achieved at least a 10% reduction in body weight.
 
 In the second study carried out in 11 patients with obesity due to LEPR deficiency caused by mutations in both copies of the gene for LEPR, 5 people out of 11 achieved at least a 10% reduction in body weight after one year.
 
-The studies also looked at the effects of Imcivree on the feeling of hunger as measured using a questionnaire: the percentage of patients who achieved at least a 25% reduction in hunger scores was 50% in the first study, and 73% in the second study.
+The studies also looked at the effects of Imcivree on the feeling of hunger as measured using a questionnaire: the percentage of patients who achieved at least a 25% reduction in hunger scores was 50% in the first study and 73% in the second study.
 
-In a study that included 28 patients aged 12 years or older with BBS, around 36% of the patients achieved at least a 10% reduction in body weight after one year of treatment.
+In a third study that included 28 patients aged 12 years or older with BBS, around 36% of patients achieved at least a 10% reduction in body weight after one year of treatment.
 
-Imcivree was not compared to another medicine in these studies.
+Another study involved 12 children aged 2 to 5 years with obesity due to BBS or POMC, PCSK1 or LEPR deficiency. The study looked at the effect of Imcivree on their BMI, using the BMI Z-score which also takes age into account. After one year of treatment, 10 children achieved a decrease in their BMI Z-score of at least 0.2, meaning that they had a treatment effect. In addition, after a year of treatment, BMI scores decreased by an average of 18%; there was a 26% decrease on average in children with POMC, PCSK1 or LEPR deficiency and a 10% decrease on average for patients with BBS.
 
-## What are the risks associated with Imcivree?
+Studies carried out with Imcivree are described in more detail in the medicine's assessment reports.
 
-The most common side effects with Imcivree (which may affect more than 1 in 10 people) are hyperpigmentation (coloration of the skin), injection site reaction, nausea (feeling sick), and headache.
+## What are the side effects and restrictions with Imcivree?
 
 For the full list of side effects and restrictions of Imcivree, see the package leaflet.
 
+The most common side effects with Imcivree (which may affect more than 1 in 10 people) include hyperpigmentation (coloration of the skin), injection site reactions, nausea (feeling sick) and headache.
+
 ## Why is Imcivree authorised in the EU?
 
-The number of people with BBS, POMC or LEPR deficiency is extremely small, so the number of people included in the studies was very limited. However, the studies showed that Imcivree helps to reduce bodyweight and feelings of hunger in these patients. These benefits are considered significant considering that there are no other medicines for these patients. Imcivree's side effects are manageable and long-term safety is monitored in a dedicated study after authorisation.
+The number of people with BBS, POMC, PCSK1 or LEPR deficiency is extremely small, so the number of people included in the studies was very limited. However, the studies showed that Imcivree helps to reduce bodyweight and feelings of hunger in these patients, although the effect of the medicine seems less pronounced in people with BBS. In people with acquired hypothalamic obesity, treatment with Imcivree led to reductions in BMI that are expected to provide meaningful health benefits in most patients. Imcivree's side effects are manageable.
 
 The European Medicines Agency therefore decided that Imcivree's benefits are greater than its risks and it can be authorised for use in the EU.
 
@@ -108,307 +124,309 @@ Imcivree received a marketing authorisation valid throughout the EU on 16 July 2
 
 Imcivree : EPAR - Medicine overview
 
-Reference Number: EMA/697512/2022
+Reference Number: EMADOC-1829012207-48183
 
-English (EN) (115.56 KB - PDF)
+English (EN) (153.72 KB - PDF)
 
-**First published:** 22/07/2021 **Last updated:** 07/04/2026
+**First published:** 22/07/2021 **Last updated:** 27/05/2026
 
 [View](/en/documents/overview/imcivree-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-76)
+[Other languages (21)](#file-language-dropdown-933)
 
-български (BG) (140.11 KB - PDF)
+български (BG) (168.44 KB - PDF)
 
-**First published:** 22/07/2021 **Last updated:** 07/04/2026
+**First published:** 22/07/2021 **Last updated:** 27/05/2026
 
 [View](/bg/documents/overview/imcivree-epar-medicine-overview_bg.pdf)
 
-español (ES) (114.99 KB - PDF)
+español (ES) (142.31 KB - PDF)
 
-**First published:** 22/07/2021 **Last updated:** 07/04/2026
+**First published:** 22/07/2021 **Last updated:** 27/05/2026
 
 [View](/es/documents/overview/imcivree-epar-medicine-overview_es.pdf)
 
-čeština (CS) (139.25 KB - PDF)
+čeština (CS) (120.63 KB - PDF)
 
-**First published:** 22/07/2021 **Last updated:** 07/04/2026
+**First published:** 22/07/2021 **Last updated:** 27/05/2026
 
 [View](/cs/documents/overview/imcivree-epar-medicine-overview_cs.pdf)
 
-dansk (DA) (113.62 KB - PDF)
+dansk (DA) (140 KB - PDF)
 
-**First published:** 22/07/2021 **Last updated:** 07/04/2026
+**First published:** 22/07/2021 **Last updated:** 27/05/2026
 
 [View](/da/documents/overview/imcivree-epar-medicine-overview_da.pdf)
 
-Deutsch (DE) (117.61 KB - PDF)
+Deutsch (DE) (145.36 KB - PDF)
 
-**First published:** 22/07/2021 **Last updated:** 07/04/2026
+**First published:** 22/07/2021 **Last updated:** 27/05/2026
 
 [View](/de/documents/overview/imcivree-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (112.49 KB - PDF)
+eesti keel (ET) (138.65 KB - PDF)
 
-**First published:** 22/07/2021 **Last updated:** 07/04/2026
+**First published:** 22/07/2021 **Last updated:** 27/05/2026
 
 [View](/et/documents/overview/imcivree-epar-medicine-overview_et.pdf)
 
-ελληνικά (EL) (139.91 KB - PDF)
+ελληνικά (EL) (168.06 KB - PDF)
 
-**First published:** 22/07/2021 **Last updated:** 07/04/2026
+**First published:** 22/07/2021 **Last updated:** 27/05/2026
 
 [View](/el/documents/overview/imcivree-epar-medicine-overview_el.pdf)
 
-français (FR) (115.98 KB - PDF)
+français (FR) (143.53 KB - PDF)
 
-**First published:** 22/07/2021 **Last updated:** 07/04/2026
+**First published:** 22/07/2021 **Last updated:** 27/05/2026
 
 [View](/fr/documents/overview/imcivree-epar-medicine-overview_fr.pdf)
 
-hrvatski (HR) (138.15 KB - PDF)
+hrvatski (HR) (165.18 KB - PDF)
 
-**First published:** 22/07/2021 **Last updated:** 07/04/2026
+**First published:** 22/07/2021 **Last updated:** 27/05/2026
 
 [View](/hr/documents/overview/imcivree-epar-medicine-overview_hr.pdf)
 
-italiano (IT) (114.34 KB - PDF)
+italiano (IT) (141.14 KB - PDF)
 
-**First published:** 22/07/2021 **Last updated:** 07/04/2026
+**First published:** 22/07/2021 **Last updated:** 27/05/2026
 
 [View](/it/documents/overview/imcivree-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (152.71 KB - PDF)
+latviešu valoda (LV) (180.22 KB - PDF)
 
-**First published:** 22/07/2021 **Last updated:** 07/04/2026
+**First published:** 22/07/2021 **Last updated:** 27/05/2026
 
 [View](/lv/documents/overview/imcivree-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (137.12 KB - PDF)
+lietuvių kalba (LT) (165.66 KB - PDF)
 
-**First published:** 22/07/2021 **Last updated:** 07/04/2026
+**First published:** 22/07/2021 **Last updated:** 27/05/2026
 
 [View](/lt/documents/overview/imcivree-epar-medicine-overview_lt.pdf)
 
-magyar (HU) (139.99 KB - PDF)
+magyar (HU) (166.97 KB - PDF)
 
-**First published:** 22/07/2021 **Last updated:** 07/04/2026
+**First published:** 22/07/2021 **Last updated:** 27/05/2026
 
 [View](/hu/documents/overview/imcivree-epar-medicine-overview_hu.pdf)
 
-Malti (MT) (140.2 KB - PDF)
+Malti (MT) (168.49 KB - PDF)
 
-**First published:** 22/07/2021 **Last updated:** 07/04/2026
+**First published:** 22/07/2021 **Last updated:** 27/05/2026
 
 [View](/mt/documents/overview/imcivree-epar-medicine-overview_mt.pdf)
 
-Nederlands (NL) (115.28 KB - PDF)
+Nederlands (NL) (141.98 KB - PDF)
 
-**First published:** 22/07/2021 **Last updated:** 07/04/2026
+**First published:** 22/07/2021 **Last updated:** 27/05/2026
 
 [View](/nl/documents/overview/imcivree-epar-medicine-overview_nl.pdf)
 
-polski (PL) (139.27 KB - PDF)
+polski (PL) (167.56 KB - PDF)
 
-**First published:** 22/07/2021 **Last updated:** 07/04/2026
+**First published:** 22/07/2021 **Last updated:** 27/05/2026
 
 [View](/pl/documents/overview/imcivree-epar-medicine-overview_pl.pdf)
 
-português (PT) (115.98 KB - PDF)
+português (PT) (143.17 KB - PDF)
 
-**First published:** 22/07/2021 **Last updated:** 07/04/2026
+**First published:** 22/07/2021 **Last updated:** 27/05/2026
 
 [View](/pt/documents/overview/imcivree-epar-medicine-overview_pt.pdf)
 
-română (RO) (135.64 KB - PDF)
+română (RO) (163.42 KB - PDF)
 
-**First published:** 22/07/2021 **Last updated:** 07/04/2026
+**First published:** 22/07/2021 **Last updated:** 27/05/2026
 
 [View](/ro/documents/overview/imcivree-epar-medicine-overview_ro.pdf)
 
-slovenčina (SK) (139.14 KB - PDF)
+slovenčina (SK) (166.59 KB - PDF)
 
-**First published:** 22/07/2021 **Last updated:** 07/04/2026
+**First published:** 22/07/2021 **Last updated:** 27/05/2026
 
 [View](/sk/documents/overview/imcivree-epar-medicine-overview_sk.pdf)
 
-slovenščina (SL) (136.72 KB - PDF)
+slovenščina (SL) (165.78 KB - PDF)
 
-**First published:** 22/07/2021 **Last updated:** 07/04/2026
+**First published:** 22/07/2021 **Last updated:** 27/05/2026
 
 [View](/sl/documents/overview/imcivree-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (112.77 KB - PDF)
+Suomi (FI) (138.79 KB - PDF)
 
-**First published:** 22/07/2021 **Last updated:** 07/04/2026
+**First published:** 22/07/2021 **Last updated:** 27/05/2026
 
 [View](/fi/documents/overview/imcivree-epar-medicine-overview_fi.pdf)
 
-svenska (SV) (113 KB - PDF)
+Imcivree : EPAR - Risk management plan
 
-**First published:** 22/07/2021 **Last updated:** 07/04/2026
+English (EN) (701.9 KB - PDF)
 
-[View](/sv/documents/overview/imcivree-epar-medicine-overview_sv.pdf)
+**First published:** 22/07/2021 **Last updated:** 27/05/2026
+
+[View](/en/documents/rmp/imcivree-epar-risk-management-plan_en.pdf)
 
 ## Product information
 
 Imcivree : EPAR - Product information
 
-English (EN) (1.23 MB - PDF)
+English (EN) (1.28 MB - PDF)
 
-**First published:** 22/07/2021 **Last updated:** 06/05/2026
+**First published:** 22/07/2021 **Last updated:** 27/05/2026
 
 [View](/en/documents/product-information/imcivree-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-370)
+[Other languages (24)](#file-language-dropdown-691)
 
-български (BG) (1.42 MB - PDF)
+български (BG) (1.45 MB - PDF)
 
-**First published:** 22/07/2021 **Last updated:** 06/05/2026
+**First published:** 22/07/2021 **Last updated:** 27/05/2026
 
 [View](/bg/documents/product-information/imcivree-epar-product-information_bg.pdf)
 
-español (ES) (1.34 MB - PDF)
+español (ES) (1.39 MB - PDF)
 
-**First published:** 22/07/2021 **Last updated:** 06/05/2026
+**First published:** 22/07/2021 **Last updated:** 27/05/2026
 
 [View](/es/documents/product-information/imcivree-epar-product-information_es.pdf)
 
-čeština (CS) (1.51 MB - PDF)
+čeština (CS) (1.53 MB - PDF)
 
-**First published:** 22/07/2021 **Last updated:** 06/05/2026
+**First published:** 22/07/2021 **Last updated:** 27/05/2026
 
 [View](/cs/documents/product-information/imcivree-epar-product-information_cs.pdf)
 
-dansk (DA) (1.34 MB - PDF)
+dansk (DA) (1.39 MB - PDF)
 
-**First published:** 22/07/2021 **Last updated:** 06/05/2026
+**First published:** 22/07/2021 **Last updated:** 27/05/2026
 
 [View](/da/documents/product-information/imcivree-epar-product-information_da.pdf)
 
-Deutsch (DE) (1.37 MB - PDF)
+Deutsch (DE) (1.42 MB - PDF)
 
-**First published:** 22/07/2021 **Last updated:** 06/05/2026
+**First published:** 22/07/2021 **Last updated:** 27/05/2026
 
 [View](/de/documents/product-information/imcivree-epar-product-information_de.pdf)
 
-eesti keel (ET) (1.29 MB - PDF)
+eesti keel (ET) (1.36 MB - PDF)
 
-**First published:** 22/07/2021 **Last updated:** 06/05/2026
+**First published:** 22/07/2021 **Last updated:** 27/05/2026
 
 [View](/et/documents/product-information/imcivree-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.44 MB - PDF)
+ελληνικά (EL) (1.5 MB - PDF)
 
-**First published:** 22/07/2021 **Last updated:** 06/05/2026
+**First published:** 22/07/2021 **Last updated:** 27/05/2026
 
 [View](/el/documents/product-information/imcivree-epar-product-information_el.pdf)
 
-français (FR) (1.4 MB - PDF)
+français (FR) (1.45 MB - PDF)
 
-**First published:** 22/07/2021 **Last updated:** 06/05/2026
+**First published:** 22/07/2021 **Last updated:** 27/05/2026
 
 [View](/fr/documents/product-information/imcivree-epar-product-information_fr.pdf)
 
-hrvatski (HR) (1.39 MB - PDF)
+hrvatski (HR) (1.44 MB - PDF)
 
-**First published:** 22/07/2021 **Last updated:** 06/05/2026
+**First published:** 22/07/2021 **Last updated:** 27/05/2026
 
 [View](/hr/documents/product-information/imcivree-epar-product-information_hr.pdf)
 
-íslenska (IS) (1.38 MB - PDF)
+íslenska (IS) (1.42 MB - PDF)
 
-**First published:** 22/07/2021 **Last updated:** 06/05/2026
+**First published:** 22/07/2021 **Last updated:** 27/05/2026
 
 [View](/is/documents/product-information/imcivree-epar-product-information_is.pdf)
 
-italiano (IT) (1.27 MB - PDF)
+italiano (IT) (1.32 MB - PDF)
 
-**First published:** 22/07/2021 **Last updated:** 06/05/2026
+**First published:** 22/07/2021 **Last updated:** 27/05/2026
 
 [View](/it/documents/product-information/imcivree-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (1.35 MB - PDF)
+latviešu valoda (LV) (1.39 MB - PDF)
 
-**First published:** 22/07/2021 **Last updated:** 06/05/2026
+**First published:** 22/07/2021 **Last updated:** 27/05/2026
 
 [View](/lv/documents/product-information/imcivree-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (1.33 MB - PDF)
+lietuvių kalba (LT) (1.42 MB - PDF)
 
-**First published:** 22/07/2021 **Last updated:** 06/05/2026
+**First published:** 22/07/2021 **Last updated:** 27/05/2026
 
 [View](/lt/documents/product-information/imcivree-epar-product-information_lt.pdf)
 
-magyar (HU) (1.35 MB - PDF)
+magyar (HU) (1.38 MB - PDF)
 
-**First published:** 22/07/2021 **Last updated:** 06/05/2026
+**First published:** 22/07/2021 **Last updated:** 27/05/2026
 
 [View](/hu/documents/product-information/imcivree-epar-product-information_hu.pdf)
 
-Malti (MT) (1.44 MB - PDF)
+Malti (MT) (1.49 MB - PDF)
 
-**First published:** 22/07/2021 **Last updated:** 06/05/2026
+**First published:** 22/07/2021 **Last updated:** 27/05/2026
 
 [View](/mt/documents/product-information/imcivree-epar-product-information_mt.pdf)
 
-Nederlands (NL) (1.32 MB - PDF)
+Nederlands (NL) (1.38 MB - PDF)
 
-**First published:** 22/07/2021 **Last updated:** 06/05/2026
+**First published:** 22/07/2021 **Last updated:** 27/05/2026
 
 [View](/nl/documents/product-information/imcivree-epar-product-information_nl.pdf)
 
-norsk (NO) (1.46 MB - PDF)
+norsk (NO) (1.51 MB - PDF)
 
-**First published:** 22/07/2021 **Last updated:** 06/05/2026
+**First published:** 22/07/2021 **Last updated:** 27/05/2026
 
 [View](/no/documents/product-information/imcivree-epar-product-information_no.pdf)
 
-polski (PL) (1.39 MB - PDF)
+polski (PL) (1.45 MB - PDF)
 
-**First published:** 22/07/2021 **Last updated:** 06/05/2026
+**First published:** 22/07/2021 **Last updated:** 27/05/2026
 
 [View](/pl/documents/product-information/imcivree-epar-product-information_pl.pdf)
 
-português (PT) (1.35 MB - PDF)
+português (PT) (1.4 MB - PDF)
 
-**First published:** 22/07/2021 **Last updated:** 06/05/2026
+**First published:** 22/07/2021 **Last updated:** 27/05/2026
 
 [View](/pt/documents/product-information/imcivree-epar-product-information_pt.pdf)
 
-română (RO) (1.39 MB - PDF)
+română (RO) (1.44 MB - PDF)
 
-**First published:** 22/07/2021 **Last updated:** 06/05/2026
+**First published:** 22/07/2021 **Last updated:** 27/05/2026
 
 [View](/ro/documents/product-information/imcivree-epar-product-information_ro.pdf)
 
-slovenčina (SK) (1.4 MB - PDF)
+slovenčina (SK) (1.45 MB - PDF)
 
-**First published:** 22/07/2021 **Last updated:** 06/05/2026
+**First published:** 22/07/2021 **Last updated:** 27/05/2026
 
 [View](/sk/documents/product-information/imcivree-epar-product-information_sk.pdf)
 
-slovenščina (SL) (1.36 MB - PDF)
+slovenščina (SL) (1.42 MB - PDF)
 
-**First published:** 22/07/2021 **Last updated:** 06/05/2026
+**First published:** 22/07/2021 **Last updated:** 27/05/2026
 
 [View](/sl/documents/product-information/imcivree-epar-product-information_sl.pdf)
 
-Suomi (FI) (1.25 MB - PDF)
+Suomi (FI) (1.3 MB - PDF)
 
-**First published:** 22/07/2021 **Last updated:** 06/05/2026
+**First published:** 22/07/2021 **Last updated:** 27/05/2026
 
 [View](/fi/documents/product-information/imcivree-epar-product-information_fi.pdf)
 
-svenska (SV) (1.36 MB - PDF)
+svenska (SV) (1.41 MB - PDF)
 
-**First published:** 22/07/2021 **Last updated:** 06/05/2026
+**First published:** 22/07/2021 **Last updated:** 27/05/2026
 
 [View](/sv/documents/product-information/imcivree-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** R/0000302063
+**Latest procedure affecting product information:** VR/0000288021
 
-23/04/2026
+30/04/2026
 
 icon globe
 
@@ -432,7 +450,7 @@ English (EN) (14.13 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/imcivree-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-933)
+[Other languages (24)](#file-language-dropdown-336)
 
 български (BG) (42.03 KB - PDF)
 
@@ -614,10 +632,6 @@ EMA product number
 
 EMEA/H/C/005089
 
-Additional monitoring
-
-This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
-
 Orphan
 
 This medicine was designated an orphan medicine. This means that it was developed for use against a rare, life-threatening or chronically debilitating condition or, for economic reasons, it would be unlikely to have been developed without incentives. For more information, see [Orphan designation](/node/69983) .
@@ -642,7 +656,7 @@ Marketing authorisation issued
 
 Revision
 
-14
+15
 
 ## Assessment history
 
@@ -654,9 +668,9 @@ Collapse section
 
 Imcivree : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (140.8 KB - PDF)
+English (EN) (148.72 KB - PDF)
 
-**First published:** 27/01/2026 **Last updated:** 06/05/2026
+**First published:** 27/01/2026 **Last updated:** 27/05/2026
 
 [View](/en/documents/procedural-steps-after/imcivree-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -667,6 +681,36 @@ English (EN) (174.9 KB - PDF)
 **First published:** 04/11/2021 **Last updated:** 27/01/2026
 
 [View](/en/documents/procedural-steps-after/imcivree-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
+
+Imcivree : Orphan maintenance assessment report (post authorisation)
+
+Adopted Reference Number: EMADOC-1700519818-3040248
+
+English (EN) (324.93 KB - PDF)
+
+**First published:** 27/05/2026
+
+[View](/en/documents/orphan-maintenance-report-post/imcivree-orphan-maintenance-assessment-report-post-authorisation_en.pdf)
+
+Imcivree-VR-0000288021 : EPAR - Assessment report - Variation
+
+Adopted Reference Number: EMADOC-1700519818-3004862
+
+English (EN) (3.31 MB - PDF)
+
+**First published:** 27/05/2026
+
+[View](/en/documents/variation-report/imcivree-vr-0000288021-epar-assessment-report-variation_en.pdf)
+
+CHMP post-authorisation summary of positive opinion for Imcivree (VR/0000288021)
+
+Adopted Reference Number: EMADOC-1700519818-3024392
+
+English (EN) (133.23 KB - PDF)
+
+**First published:** 27/03/2026
+
+[View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-imcivree-vr-0000288021_en.pdf)
 
 Imcivree-H-C-005089-P46-009 : EPAR - Assessment report
 
@@ -793,10 +837,9 @@ English (EN) (155.71 KB - PDF)
 - [EU/3/18/2101 - orphan designation for treatment of leptin receptor deficiency](/en/medicines/human/orphan-designations/eu-3-18-2101)
 - [EU/3/19/2192 - orphan designation for treatment of Bardet-Biedl syndrome](/en/medicines/human/orphan-designations/eu-3-19-2192)
 - [Imcivree - withdrawal of application for variation to marketing authorisation](/en/medicines/human/variation/imcivree)
-- [Imcivree - opinion on variation to marketing authorisation](/en/medicines/human/variation/imcivree-0)
 
 **This page was last updated on**
 
-06/05/2026
+27/05/2026
 
 ## Share this page

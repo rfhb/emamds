@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-04-09 16:53:35
+document_datetime: 2026-05-27 12:04:37
 document_pages: 39
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/cablivi-epar-product-information_en.pdf
 document_name: cablivi-epar-product-information_en.pdf
 version: success
-processing_time: 10.3702301
-conversion_datetime: 2026-04-13 14:14:44.959763
+processing_time: 18.6228224
+conversion_datetime: 2026-05-29 20:33:26.802209
 docling_version:
-  docling-serve: 1.16.1
-  docling-jobkit: 1.16.0
-  docling: 2.87.0
-  docling-core: 2.73.0
-  docling-ibm-models: 3.13.0
-  docling-parse: 5.8.0
+  docling-serve: 1.20.0
+  docling-jobkit: 1.20.0
+  docling: 2.96.0
+  docling-core: 2.78.0
+  docling-ibm-models: 3.13.2
+  docling-parse: 6.2.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -238,11 +238,9 @@ The efficacy and safety of caplacizumab in adults experiencing an episode of aTT
 
 ## Study ALX0681-C301 (HERCULES)
 
-In this double-blind, placebo-controlled study, patients with an episode of aTTP were randomised 1:1 to receive either caplacizumab or placebo in addition to daily plasma exchange and immunosuppression. Patients received a single intravenous bolus injection of 10 mg caplacizumab or placebo prior to the first plasma exchange on study. This was followed by daily subcutaneous injections of 10 mg caplacizumab or placebo after completion of each plasma exchange for the duration of the daily plasma exchange period and for 30 days thereafter. If at the end of this treatment period there was evidence of persistent underlying disease activity (indicative of an imminent risk for recurrence), treatment could be extended weekly for a maximum of 4 weeks, together with optimisation of immunosuppression. If a recurrence occurred while on study drug treatment, patients
+In this double-blind, placebo-controlled study, patients with an episode of aTTP were randomised 1:1 to receive either caplacizumab or placebo in addition to daily plasma exchange and immunosuppression. Patients received a single intravenous bolus injection of 10 mg caplacizumab or placebo prior to the first plasma exchange on study. This was followed by daily subcutaneous injections of 10 mg caplacizumab or placebo after completion of each plasma exchange for the duration of the daily plasma exchange period and for 30 days thereafter. If at the end of this treatment period there was evidence of persistent underlying disease activity (indicative of an imminent risk for recurrence), treatment could be extended weekly for a maximum of 4 weeks, together with optimisation of immunosuppression. If a recurrence occurred while on study drug treatment, patients were switched to open-label caplacizumab. They were again treated for the duration of daily plasma exchange and for 30 days thereafter. If at the end of this treatment period there was evidence of ongoing underlying disease, open-label treatment with caplacizumab could be extended weekly for a maximum of 4 weeks, together with optimisation of immunosuppression. Patients were followed for 1 month after discontinuation of treatment. In case of recurrence during the follow up period (i.e. after all study drug treatment had been stopped), there was no re-initiation of study drug and the recurrence was to be treated according to the standard of care.
 
 <div style=\"page-break-after: always\"></div>
-
-were switched to open-label caplacizumab. They were again treated for the duration of daily plasma exchange and for 30 days thereafter. If at the end of this treatment period there was evidence of ongoing underlying disease, open-label treatment with caplacizumab could be extended weekly for a maximum of 4 weeks, together with optimisation of immunosuppression. Patients were followed for 1 month after discontinuation of treatment. In case of recurrence during the follow up period (i.e. after all study drug treatment had been stopped), there was no re-initiation of study drug and the recurrence was to be treated according to the standard of care.
 
 In this study, 145 patients experiencing an episode of aTTP were randomised (72 to caplacizumab and 73 to placebo). Patient age ranged from 18 to 79 years, with a mean of 46 years. Half of the patients were experiencing their first episode of aTTP. Baseline disease characteristics were typical of aTTP.
 
@@ -271,11 +269,9 @@ N: number of patients evaluated; SE: Standard Error; ICU: Intensive Care Unit
 
 ## Study ALX0681-C302 (Post-HERCULES)
 
-The Post-HERCULES study was a Phase III, 36-month follow-up study from HERCULES (parent study) to evaluate the long-term outcomes as well as the safety and efficacy of repeat use of caplacizumab in patients who experienced a recurrence of aTTP. Overall, 104 out of 108 patients who completed the parent study (75 who received caplacizumab in HERCULES, of whom 49 did not have aTTP recurrences prior to the enrollment in Post-HERCULES, and 29 who had received only standard of care (SoC) in HERCULES) entered the Post-HERCULES study in which patients attended twice
+The Post-HERCULES study was a Phase III, 36-month follow-up study from HERCULES (parent study) to evaluate the long-term outcomes as well as the safety and efficacy of repeat use of caplacizumab in patients who experienced a recurrence of aTTP. Overall, 104 out of 108 patients who completed the parent study (75 who received caplacizumab in HERCULES, of whom 49 did not have aTTP recurrences prior to the enrollment in Post-HERCULES, and 29 who had received only standard of care (SoC) in HERCULES) entered the Post-HERCULES study in which patients attended twice yearly visits. Patients could receive open-label (OL) caplacizumab for the treatment of an aTTP recurrence along with SoC.
 
 <div style=\"page-break-after: always\"></div>
-
-yearly visits. Patients could receive open-label (OL) caplacizumab for the treatment of an aTTP recurrence along with SoC.
 
 Overall, 19 patients had at least 1 recurrence of aTTP and six patients had a 2 nd recurrence. For patients treated with caplacizumab for a recurrence, all events of aTTP from the first recurrence episode were resolved or were resolving at the end of the study.
 
@@ -309,11 +305,9 @@ The pharmacokinetics of caplacizumab depend on the expression of the target von 
 
 ## Characteristics in specific groups
 
-The pharmacokinetics of caplacizumab were determined using a population pharmacokinetic analysis. Body weight affected the pharmacokinetics of caplacizumab (see below, Paediatric population). Differences in the different subpopulations were investigated. In studied populations; gender, age,
+The pharmacokinetics of caplacizumab were determined using a population pharmacokinetic analysis. Body weight affected the pharmacokinetics of caplacizumab (see below, Paediatric population). Differences in the different subpopulations were investigated. In studied populations; gender, age, blood group and race did not affect the pharmacokinetics of caplacizumab to a clinically significant extent.
 
 <div style=\"page-break-after: always\"></div>
-
-blood group and race did not affect the pharmacokinetics of caplacizumab to a clinically significant extent.
 
 ## Renal or hepatic impairment
 
@@ -444,11 +438,13 @@ Detailed information on this medicinal product is available on the website of th
 
 ## A. MANUFACTURER OF THE BIOLOGICAL ACTIVE SUBSTANCE AND MANUFACTURER RESPONSIBLE FOR BATCH RELEASE
 
-Name and address of the manufacturer of the biological active substance Richter-Helm BioLogics GmbH &amp; Co. KG Dengelsberg 24796 Bovenau Germany
+Name and address of the manufacturer of the biological active substance Richter BioLogics GmbH (RB) Dengelsberg 24796 Bovenau Germany
 
 Name and address of the manufacturer responsible for batch release
 
-Sanofi B.V. Paasheuvelweg 25 1105 BP Amsterdam The Netherlands
+Sanofi B.V. Paasheuvelweg 25 1105 BP Amsterdam
+
+The Netherlands
 
 Ablynx NV Technologiepark 21 9052 Zwijnaarde Belgium
 
@@ -965,8 +961,6 @@ For each injection, use a fresh kit package to prepare the injection solution. D
 
 <div style=\"page-break-after: always\"></div>
 
-plastic packagıng. Do not touch the
-
 ## Step 1 - Cleaning
 
 - Wash your hands thoroughly with soap and water.
@@ -1001,8 +995,6 @@ plastic packagıng. Do not touch the
 
 <div style=\"page-break-after: always\"></div>
 
-ATTH T
-
 <!-- image -->
 
 ## Step 5 - Prepare the syringe
@@ -1026,10 +1018,6 @@ ATTH T
 <!-- image -->
 
 <div style=\"page-break-after: always\"></div>
-
-not shake 1t.
-
-› &gt; - rrepare te syringe tor damin.
 
 ## Step 7 - Prepare the solution
 
@@ -1061,8 +1049,6 @@ Step 9 - Prepare the syringe for administration
 - Do not touch the syringe tip or allow it to touch the surface. Place the syringe on the clean flat surface.
 
 <div style=\"page-break-after: always\"></div>
-
-Gently pinch the cleaned skin between your thumb and foretinger to m
 
 - Go to step 10 to inject caplacizumab under the skin of the belly. Instructions for healthcare professionals on how to inject Cablivi into your vein are at the end of the leaflet.
 
@@ -1199,9 +1185,7 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 - -
 - The active substance is caplacizumab.
-
-Each vial contains 10 mg caplacizumab.
-
+- Each vial contains 10 mg caplacizumab.
 - -The other ingredients are sucrose, citric acid anhydrous, trisodium citrate dihydrate (see section 2 'Cablivi contains sodium') and polysorbate 80.
 
 ## · pre-filled syringe
@@ -1226,19 +1210,9 @@ After dissolving the powder in the solvent, the solution is clear, colourless or
 
 Not all pack sizes may be marketed.
 
-## Marketing Authorisation Holder
+## Marketing Authorisation Holder and Manufacturer
 
-Ablynx NV Technologiepark 21 9052 Zwijnaarde Belgium
-
-## Manufacturer
-
-Ablynx NV Technologiepark 21 9052 Zwijnaarde Belgium
-
-Sanofi B.V. Paasheuvelweg 25 1105 BP Amsterdam The Netherlands
-
-<div style=\"page-break-after: always\"></div>
-
-For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder.
+Ablynx NV Technologiepark 21 9052 Zwijnaarde Belgium For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder.
 
 ## België/Belgique/Belgien
 
@@ -1381,6 +1355,8 @@ Tel: 800 536389
 Sanofi Oy
 
 Puh/Tel: +358 (0) 201 200 300
+
+<div style=\"page-break-after: always\"></div>
 
 ## Κύπρος
 

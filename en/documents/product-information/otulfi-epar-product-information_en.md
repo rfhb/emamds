@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-03-25 15:15:33
-document_pages: 171
+document_datetime: 2026-05-27 11:56:27
+document_pages: 164
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/otulfi-epar-product-information_en.pdf
 document_name: otulfi-epar-product-information_en.pdf
 version: success
-processing_time: 51.6571019
-conversion_datetime: 2026-03-29 12:31:30.596443
+processing_time: 86.8101986
+conversion_datetime: 2026-05-29 20:29:36.474479
 docling_version:
-  docling-serve: 1.15.1
-  docling-jobkit: 1.14.0
-  docling: 2.82.0
-  docling-core: 2.70.2
-  docling-ibm-models: 3.13.0
-  docling-parse: 5.6.1
+  docling-serve: 1.20.0
+  docling-jobkit: 1.20.0
+  docling: 2.96.0
+  docling-core: 2.78.0
+  docling-ibm-models: 3.13.2
+  docling-parse: 6.2.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I SUMMARY OF PRODUCT CHARACTERISTICS
 
@@ -66,11 +66,9 @@ Otulfi concentrate for solution for infusion should only be used for the intrave
 
 ## Posology
 
-Adults Crohn's Disease
+Adults Crohn's Disease Otulfi treatment is to be initiated with a single intravenous dose based on  body weight. The infusion solution is to be composed of the number of vials of Otulfi 130 mg as specified in Table 1 (see section 6.6 for preparation).
 
 <div style=\"page-break-after: always\"></div>
-
-Otulfi treatment is to be initiated with a single intravenous dose based on  body weight. The infusion solution is to be composed of the number of vials of Otulfi 130 mg as specified in Table 1 (see section 6.6 for preparation).
 
 Table 1 Initial intravenous dosing of Otulfi
 
@@ -104,7 +102,7 @@ Table 2 Initial intravenous dosing of Otulfi
 | > 55 kg to ≤ 85 kg                             | 390 mg               |                               3 |
 | > 85 kg                                        | 520 mg               |                               4 |
 
-The first subcutaneous dose should be given at week 8 following the intravenous dose. For the posology of the subsequent subcutaneous dosing regimen, see section 4.2 of the Otulfi solution for injection (vial) and solution for injection in prefilled syringe SmPC or pre-filled pen SmPC.
+The first subcutaneous dose should be given at week 8 following the intravenous dose. For the posology of the subsequent subcutaneous dosing regimen, see section 4.2 of the Otulfi solution for injection (vial) and solution for injection in prefilled syringe SmPC
 
 The safety and efficacy of ustekinumab for the treatment of Crohn's disease in paediatric patients weighing less than 40 kg have not yet been established. No data are available.
 
@@ -170,7 +168,9 @@ Cardiovascular events including myocardial infarction and cerebrovascular accide
 
 It is recommended that live viral or live bacterial vaccines (such as Bacillus of Calmette and Guérin (BCG)) should not be given concurrently with Otulfi. Specific studies have not been conducted in patients who had recently received live viral or live bacterial vaccines. No data are available on the secondary transmission of infection by live vaccines in patients receiving ustekinumab. Before live viral or live bacterial vaccination, treatment with Otulfi should be withheld for at least 15 weeks after the last dose and can be resumed at least 2 weeks after vaccination. Prescribers should consult the Summary of Product Characteristics for the specific vaccine for additional information and guidance on concomitant use of immunosuppressive agents post-vaccination.
 
-Administration of live vaccines (such as the BCG vaccine) to infants exposed in utero to ustekinumab is not recommended for twelve months following birth or until ustekinumab infant serum levels are undetectable (see sections 4.5 and 4.6). If there is a clear clinical benefit for the individual infant, administration of a live vaccine might be considered at an earlier timepoint, if infant ustekinumab serum levels are undetectable. Patients receiving Otulfi may receive concurrent inactivated or non-live vaccinations.
+Administration of live vaccines (such as the BCG vaccine) to infants exposed in utero to ustekinumab is not recommended for twelve months following birth or until ustekinumab infant serum levels are undetectable (see sections 4.5 and 4.6). If there is a clear clinical benefit for the individual infant, administration of a live vaccine might be considered at an earlier timepoint, if infant ustekinumab serum levels are undetectable.
+
+Patients receiving Otulfi may receive concurrent inactivated or non-live vaccinations.
 
 Long term treatment with Otulfi does not suppress the humoral immune response to pneumococcal polysaccharide or tetanus vaccines (see section 5.1).
 
@@ -186,13 +186,11 @@ Ustekinumab has not been evaluated in patients who have undergone allergy immuno
 
 In patients with psoriasis, exfoliative dermatitis has been reported following ustekinumab treatment (see section 4.8). Patients with plaque psoriasis may develop erythrodermic psoriasis, with symptoms that may be clinically indistinguishable from exfoliative dermatitis, as part of the natural course of their disease. As part of the monitoring of the patient's psoriasis, physicians should be alert for symptoms of erythrodermic psoriasis or exfoliative dermatitis. If these symptoms occur, appropriate therapy should be instituted. Otulfi should be discontinued if a drug reaction is suspected.
 
-## Lupus-related conditions
-
-Cases of lupus-related conditions have been reported in patients treated with ustekinumab, including
-
 <div style=\"page-break-after: always\"></div>
 
-cutaneous lupus erythematosus and lupus-like syndrome. If lesions occur, especially in sun exposed areas of the skin or if accompanied by arthralgia, the patient should seek medical attention promptly. If the diagnosis of a lupus-related condition is confirmed, ustekinumab should be discontinued and appropriate treatment initiated.
+## Lupus-related conditions
+
+Cases of lupus-related conditions have been reported in patients treated with ustekinumab, including cutaneous lupus erythematosus and lupus-like syndrome. If lesions occur, especially in sun exposed areas of the skin or if accompanied by arthralgia, the patient should seek medical attention promptly. If the diagnosis of a lupus-related condition is confirmed, ustekinumab should be discontinued and appropriate treatment initiated.
 
 ## Special populations Elderly (≥ 65 years)
 
@@ -220,11 +218,11 @@ In psoriasis studies, the safety and efficacy of ustekinumab in combination with
 
 ## 4.6 Fertility, pregnancy and lactation
 
+<div style=\"page-break-after: always\"></div>
+
 ## Women of childbearing potential
 
 Women of childbearing potential should use effective methods of contraception during treatment and for at least 15 weeks after treatment.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Pregnancy
 
@@ -258,11 +256,9 @@ The most common adverse reactions (&gt; 5%) in controlled periods of the adult p
 
 The safety data described below reflect exposure in adults to ustekinumab in 14 phase 2 and phase 3 studies in 6,710 patients (4,135 with psoriasis and/or psoriatic arthritis, 1,749 with Crohn's disease and 826 patients with ulcerative colitis). This includes exposure to ustekinumab in the controlled and non-controlled periods of the clinical studies in patients with psoriasis, psoriatic arthritis, Crohn's disease or ulcerative colitis for at least 6 months (4,577 patients) or at least 1 year (3,648 patients). 2,194 patients with psoriasis, Crohn's disease or ulcerative colitis were exposed for at least 4 years while 1,148 patients with psoriasis or Crohn's disease were exposed for at least 5 years.
 
-Table 3 provides a list of adverse reactions from adult psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis clinical studies as well as adverse reactions reported from post-marketing experience.
-
 <div style=\"page-break-after: always\"></div>
 
-The adverse reactions are classified by System Organ Class and frequency, using the following convention: Very common (≥ 1/10), Common (≥ 1/100 to &lt; 1/10), Uncommon (≥ 1/1,000 to &lt; 1/100), Rare (≥ 1/10,000 to &lt; 1/1,000), Very rare (&lt; 1/10,000), not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
+Table 3 provides a list of adverse reactions from adult psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis clinical studies as well as adverse reactions reported from post-marketing experience. The adverse reactions are classified by System Organ Class and frequency, using the following convention: Very common (≥ 1/10), Common (≥ 1/100 to &lt; 1/10), Uncommon (≥ 1/1,000 to &lt; 1/100), Rare (≥ 1/10,000 to &lt; 1/1,000), Very rare (&lt; 1/10,000), not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
 Table 3 List of adverse reactions
 
@@ -284,11 +280,9 @@ Table 3 List of adverse reactions
 
 In the placebocontrolled studies of patients with psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis, the rates of infection or serious infection were similar between ustekinumab-treated patients and those treated with placebo. In the placebo-controlled period of these clinical studies, the rate of infection was 1.36 per patient-year of follow-up in ustekinumab-treated patients, and 1.34 in placebo-treated patients. Serious infections occurred at the rate of 0.03 per patient-year of follow-up in ustekinumab-treated patients (30 serious infections in 930 patient-years of follow-up) and 0.03 in placebo-treated patients (15 serious infections in 434 patient-years of follow-up) (see section 4.4).
 
-In the controlled and noncontrolled periods of psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis clinical studies, representing 15,227 patient-years of ustekinumab exposure in 6,710 patients, the median follow-up was 1.2 years; 1.7 years for psoriatic disease studies, 0.6 year for
-
 <div style=\"page-break-after: always\"></div>
 
-Crohn's disease studies and 2.3 years for ulcerative colitis studies. The rate of infection was 0.85 per patient-year of follow-up in ustekinumab-treated patients, and the rate of serious infections was 0.02 per patient-year of follow-up in ustekinumab-treated patients (289 serious infections in 15,227 patientyears of follow-up) and serious infections reported included pneumonia, anal abscess, cellulitis, diverticulitis, gastroenteritis and viral infections.
+In the controlled and noncontrolled periods of psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis clinical studies, representing 15,227 patient-years of ustekinumab exposure in 6,710 patients, the median follow-up was 1.2 years; 1.7 years for psoriatic disease studies, 0.6 year for Crohn's disease studies and 2.3 years for ulcerative colitis studies. The rate of infection was 0.85 per patient-year of follow-up in ustekinumab-treated patients, and the rate of serious infections was 0.02 per patient-year of follow-up in ustekinumab-treated patients (289 serious infections in 15,227 patientyears of follow-up) and serious infections reported included pneumonia, anal abscess, cellulitis, diverticulitis, gastroenteritis and viral infections.
 
 In clinical studies, patients with latent tuberculosis who were concurrently treated with isoniazid did not develop tuberculosis.
 
@@ -312,9 +306,9 @@ The safety of ustekinumab has been studied in two phase 3 studies of paediatric 
 
 The safety of ustekinumab has been studied in one phase 1 and one phase 3 study of paediatric patients with moderately to severely active Crohn's disease up to week 240 and week 52, respectively. In general, the safety profile in this cohort (n = 71) was similar to that seen in previous studies in adults with Crohn's disease.
 
-## Reporting of suspected adverse reactions
-
 <div style=\"page-break-after: always\"></div>
+
+## Reporting of suspected adverse reactions
 
 Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
@@ -346,11 +340,9 @@ During the long term extension of Psoriasis Study 2 (PHOENIX 2), adult patients 
 
 ## Crohn's Disease
 
-The safety and efficacy of ustekinumab was assessed in three randomised, double-blind, placebocontrolled, multicentre studies in adult patients with moderately to severely active Crohn's disease (Crohn's Disease Activity Index [CDAI] score of ≥ 220 and ≤ 450). The clinical development program
-
 <div style=\"page-break-after: always\"></div>
 
-consisted of two 8-week intravenous induction studies (UNITI-1 and UNITI-2) followed by a 44 week subcutaneous randomised withdrawal maintenance study (IM-UNITI) representing 52 weeks of therapy.
+The safety and efficacy of ustekinumab was assessed in three randomised, double-blind, placebocontrolled, multicentre studies in adult patients with moderately to severely active Crohn's disease (Crohn's Disease Activity Index [CDAI] score of ≥ 220 and ≤ 450). The clinical development program consisted of two 8-week intravenous induction studies (UNITI-1 and UNITI-2) followed by a 44 week subcutaneous randomised withdrawal maintenance study (IM-UNITI) representing 52 weeks of therapy.
 
 The induction studies included 1409 (UNITI-1, n = 769; UNITI-2 n = 640) patients. The primary endpoint for both induction studies was the proportion of subjects in clinical response (defined as a reduction in CDAI score of ≥ 100 points) at week 6. Efficacy data were collected and analysed through week 8 for both studies. Concomitant doses of oral corticosteroids, immunomodulators, aminosalicylates and antibiotics were permitted and 75% of patients continued to receive at least one of these medications. In both studies, patients were randomised to receive a single intravenous administration of either the recommended tiered dose of approximately 6 mg/kg (see Table 1, section 4.2), a fixed dose of 130 mg ustekinumab, or placebo at week 0.
 
@@ -411,20 +403,19 @@ Clinical remission is defined as CDAI score &lt; 150; Clinical response is defin
 
 - a p &lt; 0.01
 - b p &lt; 0.05
-
-c
-
-nominally significant (p &lt; 0.05)
+- c nominally significant (p &lt; 0.05)
 
 In IM-UNITI, 29 of 129 patients did not maintain response to ustekinumab when treated every 12 weeks and were allowed to dose adjust to receive ustekinumab every 8 weeks. Loss of response was defined as a CDAI score ≥ 220 points and a ≥ 100 point increase from the CDAI score at baseline. In these patients, clinical remission was achieved in 41.4% of patients 16 weeks after dose adjustment.
 
-Patients who were not in clinical response to ustekinumab induction at week 8 of the UNITI-1 and UNITI-2 induction studies (476 patients) entered into the non-randomised portion of the maintenance study (IM-UNITI) and received a 90 mg subcutaneous injection of ustekinumab at that time. Eight weeks later, 50.5% of the patients achieved clinical response and continued to receive maintenance dosing every 8 weeks; among these patients with continued maintenance dosing, a majority maintained response (68.1%) and achieved remission (50.2%) at week 44, at proportions that were similar to the patients who initially responded to ustekinumab induction. Of 131 patients who responded to ustekinumab induction, and were randomised to the placebo group at the start of the maintenance study, 51 subsequently lost response and received 90 mg ustekinumab subcutaneously every 8 weeks. The majority of patients who lost response and resumed ustekinumab did so within 24 weeks of the induction infusion. Of these 51 patients, 70.6% achieved clinical response and 39.2% percent achieved clinical remission 16 weeks after receiving the first subcutaneous dose of ustekinumab.
+Patients who were not in clinical response to ustekinumab induction at week 8 of the UNITI-1 and UNITI-2 induction studies (476 patients) entered into the non-randomised portion of the maintenance study (IM-UNITI) and received a 90 mg subcutaneous injection of ustekinumab at that time. Eight weeks later, 50.5% of the patients achieved clinical response and continued to receive maintenance dosing every 8 weeks; among these patients with continued maintenance dosing, a majority maintained response (68.1%) and achieved remission (50.2%) at week 44, at proportions that were similar to the patients who initially responded to ustekinumab induction.
+
+Of 131 patients who responded to ustekinumab induction, and were randomised to the placebo group at the start of the maintenance study, 51 subsequently lost response and received 90 mg ustekinumab subcutaneously every 8 weeks. The majority of patients who lost response and resumed ustekinumab did so within 24 weeks of the induction infusion. Of these 51 patients, 70.6% achieved clinical response and 39.2% percent achieved clinical remission 16 weeks after receiving the first subcutaneous dose of ustekinumab.
 
 In IM-UNITI, patients who completed the study through week 44 were eligible to continue treatment in a study extension. Among the 567 patients who entered on and were treated with ustekinumab in the study extension, clinical remission and response were generally maintained through week 252 for both patients who failed TNF-therapies and those who failed conventional therapies.
 
-No new safety concerns were identified in this study extension with up to 5 years of treatment in patients with Crohn's Disease.
-
 <div style=\"page-break-after: always\"></div>
+
+No new safety concerns were identified in this study extension with up to 5 years of treatment in patients with Crohn's Disease.
 
 ## Endoscopy
 
@@ -454,9 +445,9 @@ The safety and efficacy of ustekinumab was evaluated in 48 paediatric patients w
 
 The primary endpoint of the study was clinical remission at induction week 8 (defined as PCDAI score ≤ 10). The proportion of patients who achieved clinical remission was 52.1% (25/48) and is comparable to that observed in the adult ustekinumab phase 3 studies.
 
-Clinical response was observed as early as week 3. The proportion of patients in clinical response at week 8 (defined as a reduction from baseline in the PCDAI score of &gt;12.5 points with a total PCDAI score not more than 30) was 93.8% (45/48).
-
 <div style=\"page-break-after: always\"></div>
+
+Clinical response was observed as early as week 3. The proportion of patients in clinical response at week 8 (defined as a reduction from baseline in the PCDAI score of &gt;12.5 points with a total PCDAI score not more than 30) was 93.8% (45/48).
 
 Table 6 presents the analyses for the secondary endpoints through maintenance week 44.
 
@@ -504,15 +495,13 @@ Median volume of distribution during the terminal phase (Vz) following a single 
 
 ## Biotransformation
 
+<div style=\"page-break-after: always\"></div>
+
 The exact metabolic pathway for ustekinumab is unknown.
 
 ## Elimination
 
-Median systemic clearance (CL) following a single intravenous administration to patients with psoriasis ranged from 1.99 to 2.34 mL/day/kg. Median half-life (t1/2) of ustekinumab was
-
-<div style=\"page-break-after: always\"></div>
-
-approximately 3 weeks in patients with Crohn's disease, psoriasis and/or psoriatic arthritis, ranging from 15 to 32 days across all psoriasis and psoriatic arthritis studies.
+Median systemic clearance (CL) following a single intravenous administration to patients with psoriasis ranged from 1.99 to 2.34 mL/day/kg. Median half-life (t1/2) of ustekinumab was approximately 3 weeks in patients with Crohn's disease, psoriasis and/or psoriatic arthritis, ranging from 15 to 32 days across all psoriasis and psoriatic arthritis studies.
 
 ## Dose linearity
 
@@ -540,11 +529,11 @@ Non-clinical data reveal no special hazard (e.g. organ toxicity) for humans base
 
 Dose levels in animal studies were up to approximately 45-fold higher than the highest equivalent dose intended to be administered to psoriasis patients and resulted in peak serum concentrations in monkeys that were more than 100-fold higher than observed in humans.
 
+<div style=\"page-break-after: always\"></div>
+
 Carcinogenicity studies were not performed with ustekinumab due to the lack of appropriate models for an antibody with no cross-reactivity to rodent IL-12/23 p40.
 
 ## 6. PHARMACEUTICAL PARTICULARS
-
-<div style=\"page-break-after: always\"></div>
 
 ## 6.1 List of excipients
 
@@ -578,13 +567,10 @@ The solution in the Otulfi vial should not be shaken. The solution should be vis
 
 Otulfi concentrate for solution for infusion must be diluted and prepared by a healthcare professional using aseptic technique.
 
-1. Calculate the dose and the number of Otulfi vials needed based on patient weight (see section 4.2, Table 1). Each 26 mL vial of Otulfi contains 130 mg of ustekinumab. Only use complete vials of Otulfi.
-2. Withdraw and discard a volume of the sodium chloride 9 mg/mL (0.9%) solution from the 250 mL infusion bag equal to the volume of Otulfi to be added. (discard 26 mL sodium chloride for each vial of Otulfi needed, for 2 vials-discard 52 mL, for 3 vials- discard 78 mL, for 4 vials-
-
 <div style=\"page-break-after: always\"></div>
 
-discard 104 mL)
-
+1. Calculate the dose and the number of Otulfi vials needed based on patient weight (see section 4.2, Table 1). Each 26 mL vial of Otulfi contains 130 mg of ustekinumab. Only use complete vials of Otulfi.
+2. Withdraw and discard a volume of the sodium chloride 9 mg/mL (0.9%) solution from the 250 mL infusion bag equal to the volume of Otulfi to be added. (discard 26 mL sodium chloride for each vial of Otulfi needed, for 2 vials-discard 52 mL, for 3 vials- discard 78 mL, for 4 vialsdiscard 104 mL)
 3. Withdraw 26 mL of Otulfi from each vial needed and add it to the 250 mL infusion bag. The final volume in the infusion bag should be 250 mL. Gently mix.
 4. Visually inspect the diluted solution before administration. Do not use if visibly opaque particles, discolouration or foreign particles are observed.
 5. Administer the diluted solution over a period of at least one hour. Once diluted, the infusion should be completed within 24 hours of the dilution in the infusion bag.
@@ -605,13 +591,11 @@ Date of first authorisation: 25 September 2024
 
 ## 10. DATE OF REVISION OF THE TEXT
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu This medicinal product is subject to additional monitoring. This will allow quick identification of new safety information. Healthcare professionals are asked to report any suspected adverse reactions. See section 4.8 for how to report adverse reactions.
 
 <div style=\"page-break-after: always\"></div>
 
 <!-- image -->
-
-This medicinal product is subject to additional monitoring. This will allow quick identification of new safety information. Healthcare professionals are asked to report any suspected adverse reactions. See section 4.8 for how to report adverse reactions.
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -697,11 +681,9 @@ For patients with a body weight &gt; 100 kg the initial dose is 90 mg administer
 
 The recommended posology of Otulfi is an initial dose of 45 mg administered subcutaneously, followed by a 45 mg dose 4 weeks later, and then every 12 weeks thereafter. Alternatively, 90 mg may be used in patients with a body weight &gt; 100 kg.
 
-Consideration should be given to discontinuing treatment in patients who have shown no response up
+Consideration should be given to discontinuing treatment in patients who have shown no response up to 28 weeks of treatment.
 
 <div style=\"page-break-after: always\"></div>
-
-to 28 weeks of treatment.
 
 ## Elderly (≥ 65 years)
 
@@ -734,27 +716,27 @@ Table 2 Injection volumes of Otulfi for paediatric psoriasis patients &lt; 60 kg
 |   Body weight at time of dosing (kg) |   Dose (mg) |   Volume of injection (mL) |
 |--------------------------------------|-------------|----------------------------|
 |                                   15 |        11.3 |                       0.12 |
-|                                   16 |        12   |                       0.13 |
+|                                   16 |        12.0 |                       0.13 |
 |                                   17 |        12.8 |                       0.14 |
 |                                   18 |        13.5 |                       0.15 |
 |                                   19 |        14.3 |                       0.16 |
-|                                   20 |        15   |                       0.17 |
+|                                   20 |        15.0 |                       0.17 |
 |                                   21 |        15.8 |                       0.17 |
 |                                   22 |        16.5 |                       0.18 |
 |                                   23 |        17.3 |                       0.19 |
-|                                   24 |        18   |                       0.2  |
+|                                   24 |        18.0 |                       0.20 |
 |                                   25 |        18.8 |                       0.21 |
 |                                   26 |        19.5 |                       0.22 |
 |                                   27 |        20.3 |                       0.22 |
-|                                   28 |        21   |                       0.23 |
+|                                   28 |        21.0 |                       0.23 |
 |                                   29 |        21.8 |                       0.24 |
 |                                   30 |        22.5 |                       0.25 |
 |                                   31 |        23.3 |                       0.26 |
-|                                   32 |        24   |                       0.27 |
+|                                   32 |        24.0 |                       0.27 |
 |                                   33 |        24.8 |                       0.27 |
 |                                   34 |        25.5 |                       0.28 |
 |                                   35 |        26.3 |                       0.29 |
-|                                   36 |        27   |                       0.3  |
+|                                   36 |        27.0 |                       0.30 |
 |                                   37 |        27.8 |                       0.31 |
 |                                   38 |        28.5 |                       0.32 |
 |                                   39 |        29.3 |                       0.32 |
@@ -766,19 +748,19 @@ Table 2 Injection volumes of Otulfi for paediatric psoriasis patients &lt; 60 kg
 |   41 |   30.8 |   0.34 |
 |   42 |   31.5 |   0.35 |
 |   43 |   32.3 |   0.36 |
-|   44 |   33   |   0.37 |
+|   44 |   33.0 |   0.37 |
 |   45 |   33.8 |   0.37 |
 |   46 |   34.5 |   0.38 |
 |   47 |   35.3 |   0.39 |
-|   48 |   36   |   0.4  |
+|   48 |   36.0 |   0.40 |
 |   49 |   36.8 |   0.41 |
 |   50 |   37.5 |   0.42 |
 |   51 |   38.3 |   0.42 |
-|   52 |   39   |   0.43 |
+|   52 |   39.0 |   0.43 |
 |   53 |   39.8 |   0.44 |
 |   54 |   40.5 |   0.45 |
 |   55 |   41.3 |   0.46 |
-|   56 |   42   |   0.46 |
+|   56 |   42.0 |   0.46 |
 |   57 |   42.8 |   0.47 |
 |   58 |   43.5 |   0.48 |
 |   59 |   44.3 |   0.49 |
@@ -853,11 +835,9 @@ In order to improve the traceability of biological medicinal products, the trade
 
 ## Infections
 
-Ustekinumab may have the potential to increase the risk of infections and reactivate latent infections. In clinical studies and a post-marketing observational study in patients with psoriasis, serious bacterial, fungal, and viral infections have been observed in patients receiving ustekinumab (see
+Ustekinumab may have the potential to increase the risk of infections and reactivate latent infections. In clinical studies and a post-marketing observational study in patients with psoriasis, serious bacterial, fungal, and viral infections have been observed in patients receiving ustekinumab (see section 4.8).
 
 <div style=\"page-break-after: always\"></div>
-
-section 4.8).
 
 Opportunistic infections including reactivation of tuberculosis, other opportunistic bacterial infections (including atypical mycobacterial infection, listeria meningitis, pneumonia legionella, and nocardiosis), opportunistic fungal infections, opportunistic viral infections (including encephalitis caused by herpes simplex 2), and parasitic infections (including ocular toxoplasmosis) have been reported in patients treated with ustekinumab.
 
@@ -1163,11 +1143,9 @@ In Psoriasis Study 1, at week 2 and week 12, significantly greater improvements 
 
 Ustekinumab has been shown to improve signs and symptoms, physical function and health-related quality of life, and reduce the rate of progression of peripheral joint damage in adult patients with active PsA.
 
-The safety and efficacy of ustekinumab was assessed in 927 patients in two randomised, double-blind, placebo-controlled studies in patients with active PsA (≥ 5 swollen joints and ≥ 5 tender joints) despite
+The safety and efficacy of ustekinumab was assessed in 927 patients in two randomised, double-blind, placebo-controlled studies in patients with active PsA (≥ 5 swollen joints and ≥ 5 tender joints) despite non-steroidal anti-inflammatory (NSAID) or disease modifying antirheumatic (DMARD) therapy. Patients in these studies had a diagnosis of PsA for at least 6 months. Patients with each subtype of PsA were enrolled, including polyarticular arthritis with no evidence of rheumatoid nodules (39%), spondylitis with peripheral arthritis (28%), asymmetric peripheral arthritis (21%), distal interphalangeal involvement (12%) and arthritis mutilans (0.5%). Over 70% and 40% of the patients in both studies had enthesitis and dactylitis at baseline, respectively. Patients were randomised to receive treatment with ustekinumab 45 mg, 90 mg, or placebo subcutaneously at Weeks 0 and 4 followed by every 12 weeks (q12w) dosing. Approximately 50% of patients continued on stable doses of MTX (≤ 25 mg/week).
 
 <div style=\"page-break-after: always\"></div>
-
-non-steroidal anti-inflammatory (NSAID) or disease modifying antirheumatic (DMARD) therapy. Patients in these studies had a diagnosis of PsA for at least 6 months. Patients with each subtype of PsA were enrolled, including polyarticular arthritis with no evidence of rheumatoid nodules (39%), spondylitis with peripheral arthritis (28%), asymmetric peripheral arthritis (21%), distal interphalangeal involvement (12%) and arthritis mutilans (0.5%). Over 70% and 40% of the patients in both studies had enthesitis and dactylitis at baseline, respectively. Patients were randomised to receive treatment with ustekinumab 45 mg, 90 mg, or placebo subcutaneously at Weeks 0 and 4 followed by every 12 weeks (q12w) dosing. Approximately 50% of patients continued on stable doses of MTX (≤ 25 mg/week).
 
 In PsA Study 1 (PSUMMIT I) and PsA Study 2 (PSUMMIT II), 80% and 86% of the patients, respectively, had been previously treated with DMARDs. In Study 1 previous treatment with antitumour necrosis factor (TNF)α agent was not allowed. In Study 2, the majority of patients (58%, n = 180) had been previously treated with one or more antiTNFα agent(s), of whom over 70% had discontinued their antiTNFα treatment for lack of efficacy or intolerance at any time.
 
@@ -1221,11 +1199,9 @@ Structural damage in both hands and feet was expressed as change in total van de
 
 ## Physical function and health-related quality of life
 
-Ustekinumab-treated patients showed significant improvement in physical function as assessed by the Disability Index of the Health Assessment Questionnaire (HAQ-DI) at week 24. The proportion of patients achieving a clinically meaningful ≥ 0.3 improvement in HAQ-DI score from baseline was also significantly greater in the ustekinumab groups when compared with placebo. Improvement in HAQ-
+Ustekinumab-treated patients showed significant improvement in physical function as assessed by the Disability Index of the Health Assessment Questionnaire (HAQ-DI) at week 24. The proportion of patients achieving a clinically meaningful ≥ 0.3 improvement in HAQ-DI score from baseline was also significantly greater in the ustekinumab groups when compared with placebo. Improvement in HAQ- DI score from baseline was maintained through Weeks 52 and 100.
 
 <div style=\"page-break-after: always\"></div>
-
-DI score from baseline was maintained through Weeks 52 and 100.
 
 There was significant improvement in DLQI scores in the ustekinumab groups as compared with placebo at week 24, which was maintained through weeks 52 and 100. In PsA Study 2 there was a significant improvement in Functional Assessment of Chronic Illness Therapy-Fatigue (FACIT-F) scores in the ustekinumab groups when compared with placebo at week 24. The proportion of patients achieving a clinically significant improvement in fatigue (4 points in FACIT-F) was also significantly greater in the ustekinumab groups compared with placebo. Improvements in FACIT scores were maintained through week 52.
 
@@ -1480,11 +1456,9 @@ The systemic exposure of ustekinumab (Cmax and AUC) increased in an approximatel
 
 ## Single dose versus multiple doses
 
-Serum concentration-time profiles of ustekinumab were generally predictable after single or multiple subcutaneous dose administrations. In patients with psoriasis, steady-state serum concentrations of
+Serum concentration-time profiles of ustekinumab were generally predictable after single or multiple subcutaneous dose administrations. In patients with psoriasis, steady-state serum concentrations of ustekinumab were achieved by week 28 after initial subcutaneous doses at Weeks 0 and 4 followed by doses every 12 weeks. The median steady-state trough concentration ranged from 0.21 μg/mL to 0.26 μg/mL (45 mg) and from 0.47 μg/mL to 0.49 μg/mL (90 mg). There was no apparent accumulation in serum ustekinumab concentration over time when given subcutaneously every 12 weeks.
 
 <div style=\"page-break-after: always\"></div>
-
-ustekinumab were achieved by week 28 after initial subcutaneous doses at Weeks 0 and 4 followed by doses every 12 weeks. The median steady-state trough concentration ranged from 0.21 μg/mL to 0.26 μg/mL (45 mg) and from 0.47 μg/mL to 0.49 μg/mL (90 mg). There was no apparent accumulation in serum ustekinumab concentration over time when given subcutaneously every 12 weeks.
 
 In patients with Crohn's disease, following an intravenous dose of ~6 mg/kg, starting at week 8, subcutaneous maintenance dosing of 90 mg ustekinumab was administered every 8 or 12 weeks. Steady state ustekinumab concentration was achieved by the start of the second maintenance dose. In patients with Crohn's disease, median steady-state trough concentrations ranged from 1.97 μg/mL to 2.24 μg/mL and from 0.61 μg/mL to 0.76 μg/mL for 90 mg ustekinumab every 8 weeks or every 12 weeks respectively.. The steady-state trough ustekinumab levels resulting from 90 mg ustekinumab every 8 weeks were associated with higher clinical remission rates as compared to the steady-state trough levels following 90 mg every 12 weeks.
 
@@ -1508,11 +1482,9 @@ In the population pharmacokinetic analysis, there were no indications of an effe
 
 The bioavailability of ustekinumab following administration by syringe or pre-filled pen was comparable.
 
-Serum ustekinumab concentrations in paediatric psoriasis patients 6 to 17 years of age, treated with the recommended weight-based dose were generally comparable to those in the adult psoriasis population treated with the adult dose. Serum ustekinumab concentrations in paediatric psoriasis patients 1217 years of age (CADMUS) treated with half of the recommended weight-based dose were generally
+Serum ustekinumab concentrations in paediatric psoriasis patients 6 to 17 years of age, treated with the recommended weight-based dose were generally comparable to those in the adult psoriasis population treated with the adult dose. Serum ustekinumab concentrations in paediatric psoriasis patients 1217 years of age (CADMUS) treated with half of the recommended weight-based dose were generally lower than those in adults.
 
 <div style=\"page-break-after: always\"></div>
-
-lower than those in adults.
 
 The steadystate serum concentrations in paediatric patients with Crohn's disease weighing at least 40 kg were comparable to those in the adult Crohn's disease population.
 
@@ -1544,13 +1516,9 @@ In the absence of compatibility studies, this medicinal product must not be mixe
 
 Otulfi 45 mg solution for injection 3 years
 
-Otulfi 45 mg solution for injection in pre-filled syringe 3 years
+Otulfi 45 mg solution for injection in pre-filled syringe 3 years Otulfi 90 mg solution for injection in pre-filled syringe 3 years Individual pre-filled syringes may be stored at room temperature up to 30 °C for a maximum single period of up to 30 days in the original carton in order to protect from light. Record the date when the pre-filled syringe is first removed from the refrigerator and the discard date in the space provided on the outer carton. The discard date must not exceed the original expiry date printed on the carton. Once a syringe has been stored at room temperature (up to 30 °C), it should not be returned to the refrigerator. Discard the syringe if not used within 30 days at room temperature storage or by the original expiry date, whichever is earlier.
 
 <div style=\"page-break-after: always\"></div>
-
-Otulfi 90 mg solution for injection in pre-filled syringe 3 years
-
-Individual pre-filled syringes may be stored at room temperature up to 30 °C for a maximum single period of up to 30 days in the original carton in order to protect from light. Record the date when the pre-filled syringe is first removed from the refrigerator and the discard date in the space provided on the outer carton. The discard date must not exceed the original expiry date printed on the carton. Once a syringe has been stored at room temperature (up to 30 °C), it should not be returned to the refrigerator. Discard the syringe if not used within 30 days at room temperature storage or by the original expiry date, whichever is earlier.
 
 ## 6.4 Special precautions for storage
 
@@ -1604,13 +1572,11 @@ Date of first authorisation: 25 September 2024
 
 ## 10. DATE OF REVISION OF THE TEXT
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu This medicinal product is subject to additional monitoring. This will allow quick identification of new safety information. Healthcare professionals are asked to report any suspected adverse reactions. See section 4.8 for how to report adverse reactions.
 
 <div style=\"page-break-after: always\"></div>
 
 <!-- image -->
-
-This medicinal product is subject to additional monitoring. This will allow quick identification of new safety information. Healthcare professionals are asked to report any suspected adverse reactions. See section 4.8 for how to report adverse reactions.
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -1646,25 +1612,15 @@ The solution is clear and colourless to slightly brown-yellow.
 
 Otulfi is indicated for the treatment of moderate to severe plaque psoriasis in adults who failed to respond to, or who have a contraindication to, or are intolerant to other systemic therapies including ciclosporin, methotrexate (MTX) or PUVA (psoralen and ultraviolet A) (see section 5.1).
 
-## Paediatric plaque psoriasis
-
-Otulfi pre-filled pen is indicated for the treatment of moderate to severe plaque psoriasis in children and adolescent patients from the age of 6 years and older, who weigh 60 kg or more and who are
-
-<div style=\"page-break-after: always\"></div>
-
-inadequately controlled by, or are intolerant to, other systemic therapies or phototherapies (see section 5.1).
-
 ## Psoriatic arthritis (PsA)
 
 Otulfi, alone or in combination with MTX, is indicated for the treatment of active psoriatic arthritis in adult patients when the response to previous non-biological disease- modifying anti-rheumatic drug (DMARD) therapy has been inadequate (see section 5.1).
 
-## Adult Crohn's Disease
+<div style=\"page-break-after: always\"></div>
+
+## Crohn's Disease
 
 Otulfi is indicated for the treatment of adult patients with moderately to severely active Crohn's disease who have had an inadequate response with, lost response to, or were intolerant to either conventional therapy or a TNFα antagonist.
-
-## Paediatric Crohn's Disease
-
-Otulfi is indicated for the treatment of moderately to severely active Crohn's disease in paediatric patients weighing at least 40 kg, who have had an inadequate response to, or were intolerant to either conventional or biologic therapy.
 
 ## 4.2 Posology and method of administration
 
@@ -1698,35 +1654,15 @@ Ustekinumab has not been studied in these patient populations. No dose recommend
 
 ## Paediatric population
 
-The safety and efficacy of ustekinumab in children with psoriasis less than 6 years of age or in children
-
-<div style=\"page-break-after: always\"></div>
-
-with psoriatic arthritis less than 18 years of age have not yet been established.
-
-## Paediatric plaque psoriasis (6 years and older who weigh 60 kg and more)
-
-The recommended posology of Otulfi is based on body weight shown below (Table 1). Otulfi should be administered at Weeks 0 and 4, then every 12 weeks thereafter.
-
-Table 1 Recommended dose of Otulfi for paediatric psoriasis
-
-| Body weight at the time of dosing   | Recommended Dose   |
-|-------------------------------------|--------------------|
-| ˂ 60 kg*                            | -                  |
-| ≥ 60 - ≤ 100 kg                     | 45 mg              |
-| > 100 kg                            | 90 mg              |
-
-* A 45 mg vial is available for paediatric patients who need to receive less than the full 45 mg dose. For dosing pediatric patients below 60 kg body weight the Otulfi solution for injection in vial must be used. See dosing in section 4.2 of the Otulfi solution for injection in pre-filled syringe and vial SmPC, Table 2.
-
-Consideration should be given to discontinuing treatment in patients who have shown no response up to 28 weeks of treatment.
-
-## Adults
+The safety and efficacy of ustekinumab in children with psoriasis less than 6 years of age or in children with psoriatic arthritis less than 18 years of age have not yet been established. The pre-filled pen has not been studied in the paediatric population and is not recommended for use in paediatric patients. See section 4.2 of the pre-filled syringe SmPC for posology and method of administration in paediatric patients 6 years and older with psoriasis.
 
 ## Crohn's Disease
 
 In the treatment regimen, the first dose of Otulfi is administered intravenously. For the posology of the intravenous dosing regimen, see section 4.2 of the Otulfi 130 mg Concentrate for solution for infusion SmPC.
 
 The first subcutaneous administration of 90 mg Otulfi should take place at week 8 after the intravenous dose. After this, dosing every 12 weeks is recommended.
+
+<div style=\"page-break-after: always\"></div>
 
 Patients who have not shown adequate response at 8 weeks after the first subcutaneous dose, may receive a second subcutaneous dose at this time (see section 5.1).
 
@@ -1750,35 +1686,21 @@ Ustekinumab has not been studied in these patient populations. No dose recommend
 
 ## Paediatric population
 
-<div style=\"page-break-after: always\"></div>
-
-## Paediatric Crohn's disease (patients weighing at least 40 kg)
-
-In the treatment regimen, the first dose of Otulfi is administered intravenously. For the posology of the intravenous dosing regimen, see section 4.2 of the Otulfi 130 mg Concentrate for solution for infusion SmPC.
-
-The first subcutaneous administration of 90 mg Otulfi should take place at week 8 after the intravenous dose. After this, dosing every 12 weeks is recommended.
-
-Patients who lose response on dosing every 12 weeks may benefit from an increase in dosing frequency to every 8 weeks (see section 5.1, section 5.2).
-
-Patients may subsequently be dosed every 8 weeks or every 12 weeks according to clinical judgment (see section 5.1).
-
-Consideration should be given to discontinuing treatment in patients who show no evidence of therapeutic benefit 16 weeks after the IV induction dose or 16 weeks after dose adjustment.
-
-Immunomodulators, 5-aminosalicylate (5-ASA) compounds, antibiotics, and/or corticosteroids may be continued during treatment with Otulfi In patients who have responded to treatment with Otulfi, these medications maybe reduced or discontinued in accordance with standard of care.
-
-The safety and efficacy of ustekinumab in treatment of Crohn's disease for paediatric patients weighing less than 40 kg have not yet been established. No data are available.
+The safety and efficacy of ustekinumab  for the treatment of Crohn's disease in paediatric patients weighing less than 40 kg have not yet been established. No data are available. The pre-filled pen has not been studied in the paediatric population and is not recommended for use in paediatric patients. See section 4.2 of the Concentrate for solution for infusion and pre-filled syringe SmPC for posology and method of administration in paediatric patients weighing at least 40 kg with Crohn's disease.
 
 ## Method of administration
 
 Otulfi 45 mg and 90 mg pre-filled pens are for subcutaneous injection only. If possible, areas of the skin that show psoriasis should be avoided as injection sites.
 
-After proper training in subcutaneous injection technique, patients or their caregivers may inject Otulfi if a physician determines that it is appropriate. However, the physician should ensure appropriate follow-up of patients. Children 12 years of age and older with psoriasis, who weigh 60 kg, or more and children 12 years of age and older with Crohn`s disease, who weigh 40 kg or more, may use the Otulfi pre-filled pen under the supervision of a parent or caregiver. Patients or caregivers should be instructed to inject the prescribed amount of Otulfi according to the directions provided in the package leaflet. Comprehensive instructions for administration are given in the package leaflet.
+After proper training in subcutaneous injection technique, patients or their caregivers may inject Otulfi if a physician determines that it is appropriate. However, the physician should ensure appropriate follow-up of patients.. Patients or caregivers should be instructed to inject the prescribed amount of Otulfi according to the directions provided in the package leaflet. Comprehensive instructions for administration are given in the package leaflet.
 
 For further instructions on preparation and special precautions for handling, see section 6.6.
 
 ## 4.3 Contraindications
 
-Hypersensitivity to the active substance or to any of the excipients listed in section 6.1. Clinically important, active infection (e.g. active tuberculosis; see section 4.4).
+Hypersensitivity to the active substance or to any of the excipients listed in section 6.1.
+
+Clinically important, active infection (e.g. active tuberculosis; see section 4.4).
 
 ## 4.4 Special warnings and precautions for use
 
@@ -1786,15 +1708,13 @@ Hypersensitivity to the active substance or to any of the excipients listed in s
 
 In order to improve the traceability of biological medicinal products, the tradename and the batch number of the administered product should be clearly recorded.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Infections
 
 Ustekinumab may have the potential to increase the risk of infections and reactivate latent infections. In clinical studies and a post-marketing observational study in patients with psoriasis, serious bacterial, fungal, and viral infections have been observed in patients receiving ustekinumab (see section 4.8).
 
-Opportunistic infections including reactivation of tuberculosis, other opportunistic bacterial infections (including atypical mycobacterial infection, listeria meningitis, pneumonia legionella, and
-
-<div style=\"page-break-after: always\"></div>
-
-nocardiosis), opportunistic fungal infections, opportunistic viral infections (including encephalitis caused by herpes simplex 2), and parasitic infections (including ocular toxoplasmosis) have been reported in patients treated with ustekinumab.
+Opportunistic infections including reactivation of tuberculosis, other opportunistic bacterial infections (including atypical mycobacterial infection, listeria meningitis, pneumonia legionella, and nocardiosis), opportunistic fungal infections, opportunistic viral infections (including encephalitis caused by herpes simplex 2), and parasitic infections (including ocular toxoplasmosis) have been reported in patients treated with ustekinumab.
 
 Caution should be exercised when considering the use of Otulfi in patients with a chronic infection or a history of recurrent infection (see section 4.3).
 
@@ -1820,17 +1740,15 @@ Serious hypersensitivity reactions have been reported in the postmarketing setti
 
 Cases of allergic alveolitis, eosinophilic pneumonia, and non-infectious organising pneumonia have been reported during post-approval use of ustekinumab. Clinical presentations included cough, dyspnoea, and interstitial infiltrates following one to three doses. Serious outcomes have included respiratory failure and prolonged hospitalisation. Improvement has been reported after discontinuation of ustekinumab and also, in some cases, administration of corticosteroids. If infection has been excluded and diagnosis is confirmed, discontinue ustekinumab and institute appropriate treatment (see section 4.8).
 
+<div style=\"page-break-after: always\"></div>
+
 ## Cardiovascular events
 
 Cardiovascular events including myocardial infarction and cerebrovascular accident have been observed in patients with psoriasis exposed to ustekinumab in a post-marketing observational study. Risk factors for cardiovascular disease should be regularly assessed during treatment with Otulfi.
 
 ## Vaccinations
 
-It is recommended that live viral or live bacterial vaccines (such as Bacillus of Calmette and Guérin (BCG)) should not be given concurrently with Otulfi. Specific studies have not been conducted in
-
-<div style=\"page-break-after: always\"></div>
-
-patients who had recently received live viral or live bacterial vaccines. No data are available on the secondary transmission of infection by live vaccines in patients receiving ustekinumab. Before live viral or live bacterial vaccination, treatment with Otulfi should be withheld for at least 15 weeks after the last dose and can be resumed at least 2 weeks after vaccination. Prescribers should consult the Summary of Product Characteristics for the specific vaccine for additional information and guidance on concomitant use of immunosuppressive agents post-vaccination.
+It is recommended that live viral or live bacterial vaccines (such as Bacillus of Calmette and Guérin (BCG)) should not be given concurrently with Otulfi. Specific studies have not been conducted in patients who had recently received live viral or live bacterial vaccines. No data are available on the secondary transmission of infection by live vaccines in patients receiving ustekinumab. Before live viral or live bacterial vaccination, treatment with Otulfi should be withheld for at least 15 weeks after the last dose and can be resumed at least 2 weeks after vaccination. Prescribers should consult the Summary of Product Characteristics for the specific vaccine for additional information and guidance on concomitant use of immunosuppressive agents post-vaccination.
 
 Administration of live vaccines (such as the BCG vaccine) to infants exposed in utero to ustekinumab is not recommended for twelve months following birth or until ustekinumab infant serum levels are undetectable (see sections 4.5 and 4.6). If there is a clear clinical benefit for the individual infant, administration of a live vaccine might be considered at an earlier timepoint, if infant ustekinumab serum levels are undetectable.
 
@@ -1854,17 +1772,15 @@ In patients with psoriasis, exfoliative dermatitis has been reported following u
 
 Cases of lupus-related conditions have been reported in patients treated with ustekinumab, including cutaneous lupus erythematosus and lupus-like syndrome. If lesions occur, especially  in sun exposed areas of the skin or if accompanied by arthralgia, the patient should seek medical attention promptly. If the diagnosis of a lupus-related condition is confirmed, ustekinumab should be discontinued and appropriate treatment initiated.
 
-## Special populations
+Special populations Elderly (≥ 65 years)
 
-## Elderly (≥ 65 years)
+<div style=\"page-break-after: always\"></div>
 
 No overall differences in efficacy or safety in patients aged 65 and older who received ustekinumab were observed compared to younger patients in clinical studies in approved indications, however the number of patients aged 65 and older is not sufficient to determine whether they respond differently from younger patients. Because there is a higher incidence of infections in the elderly population in general, caution should be used in treating the elderly.
 
 ## Otulfi contains polysorbate 80 (E 433)
 
 This medicine contains 0.02 mg of polysorbate 80 in each pre-filled pen of 0.5 mL which is equivalent to 0.04 mg/ml.
-
-<div style=\"page-break-after: always\"></div>
 
 This medicine contains 0.04 mg of polysorbate 80 in each pre-filled pen of 1 mL which is equivalent to 0.04 mg/ml.
 
@@ -1894,13 +1810,11 @@ Data from a moderate number of prospectively collected pregnancies following exp
 
 Animal studies do not indicate direct or indirect harmful effects with respect to pregnancy, embryonic/foetal development, parturition or postnatal development (see section 5.3).
 
-However, the available clinical experience is limited. As a precautionary measure, it is preferable to avoid the use of Otulfi in pregnancy.
-
-Ustekinumab crosses the placenta and has been detected in the serum of infants born to female patients treated with ustekinumab during pregnancy. The clinical impact of this is unknown, however, the risk of infection in infants exposed in utero to ustekinumab may be increased after birth. Administration of live vaccines (such as the BCG vaccine) to infants exposed in utero to ustekinumab is not recommended for twelve months following birth or until ustekinumab infant serum levels are
-
 <div style=\"page-break-after: always\"></div>
 
-undetectable (see sections 4.4 and 4.5). If there is a clear clinical benefit for the individual infant, administration of  a live vaccine might be considered at an earlier timepoint, if infant ustekinumab serum levels are undetectable.
+However, the available clinical experience is limited. As a precautionary measure, it is preferable to avoid the use of Otulfi in pregnancy.
+
+Ustekinumab crosses the placenta and has been detected in the serum of infants born to female patients treated with ustekinumab during pregnancy. The clinical impact of this is unknown, however, the risk of infection in infants exposed in utero to ustekinumab may be increased after birth. Administration of live vaccines (such as the BCG vaccine) to infants exposed in utero to ustekinumab is not recommended for twelve months following birth or until ustekinumab infant serum levels are undetectable (see sections 4.4 and 4.5). If there is a clear clinical benefit for the individual infant, administration of  a live vaccine might be considered at an earlier timepoint, if infant ustekinumab serum levels are undetectable.
 
 ## Breast-feeding
 
@@ -1924,25 +1838,23 @@ The most common adverse reactions (&gt; 5%) in controlled periods of the adult p
 
 The safety data described below reflect exposure in adults to ustekinumab in 14 phase 2 and phase 3 studies in 6,710 patients (4,135 with psoriasis and/or psoriatic arthritis, 1,749 with Crohn's disease and 826 patients with ulcerative colitis). This includes exposure to ustekinumab in the controlled and noncontrolled periods of the clinical studies in patients with psoriasis, psoriatic arthritis, Crohn's disease or ulcerative colitis for at least 6 months (4,577 patients) or at least 1 year (3,648 patients). 2,194 patients with psoriasis, Crohn's disease or ulcerative colitis for at least 4 years while 1,148 patients with psoriasis or Crohn's disease were exposed for at least 5 years.
 
-Table 2 provides a list of adverse reactions from adult psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis clinical studies as well as adverse reactions reported from post-marketing experience. The adverse reactions are classified by System Organ Class and frequency, using the following convention: Very common (≥ 1/10), Common (≥ 1/100 to &lt; 1/10), Uncommon (≥ 1/1,000 to &lt; 1/100), Rare (≥ 1/10,000 to &lt; 1/1,000), Very rare (&lt; 1/10,000), not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
-
-Table 2 List of adverse reactions
-
-| System Organ Class          | Frequency: Adverse reaction                                                                                                                                                                                                              |
-|-----------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Infections and infestations | Common: Upper respiratory tract infection, nasopharyngitis, sinusitis Uncommon: Cellulitis, dental infections, herpes zoster, lower respiratory tract infection, viral upper respiratory tract infection, vulvovaginal mycotic infection |
+Table 1 provides a list of adverse reactions from adult psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis clinical studies as well as adverse reactions reported from post-marketing experience. The adverse reactions are classified by System Organ Class and frequency, using the following convention: Very common (≥ 1/10), Common (≥ 1/100 to &lt; 1/10), Uncommon (≥ 1/1,000 to &lt; 1/100), Rare (≥ 1/10,000 to &lt; 1/1,000), Very rare (&lt; 1/10,000), not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
 <div style=\"page-break-after: always\"></div>
 
-| Immune system disorders                              | Uncommon: Hypersensitivity reactions (including rash, urticaria) Rare: Serious hypersensitivity reactions (including anaphylaxis, angioedema)                                                |
-|------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Psychiatric disorders                                | Uncommon: Depression                                                                                                                                                                         |
-| Nervous system disorders                             | Common: Dizziness, headache Uncommon: Facial palsy                                                                                                                                           |
-| Respiratory, thoracic and mediastinal disorders      | Common: Oropharyngeal pain Uncommon: Nasal congestion Rare: Allergic alveolitis, eosinophilic pneumonia Very rare: Organising pneumonia*                                                     |
-| Gastrointestinal disorders                           | Common: Diarrhoea, nausea, vomiting                                                                                                                                                          |
-| Skin and subcutaneous tissue disorders               | Common: Pruritus Uncommon: Pustular psoriasis, skin exfoliation, acne Rare: Exfoliative dermatitis, hypersensitivity vasculitis Very rare: Bullous pemphigoid, cutaneous lupus erythematosus |
-| Musculoskeletal and connective tissue disorders      | Common: Back pain, myalgia, arthralgia Very rare: Lupus-like syndrome                                                                                                                        |
-| General disorders and administration site conditions | Common: Fatigue, injection site erythema, injection site pain Uncommon: Injection site reactions (including haemorrhage, haematoma, induration, swelling and pruritus), asthenia             |
+Table 1 List of adverse reactions
+
+| System Organ Class                                   | Frequency: Adverse reaction                                                                                                                                                                                                              |
+|------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Infections and infestations                          | Common: Upper respiratory tract infection, nasopharyngitis, sinusitis Uncommon: Cellulitis, dental infections, herpes zoster, lower respiratory tract infection, viral upper respiratory tract infection, vulvovaginal mycotic infection |
+| Immune system disorders                              | Uncommon: Hypersensitivity reactions (including rash, urticaria) Rare: Serious hypersensitivity reactions (including anaphylaxis, angioedema)                                                                                            |
+| Psychiatric disorders                                | Uncommon: Depression                                                                                                                                                                                                                     |
+| Nervous system disorders                             | Common: Dizziness, headache Uncommon: Facial palsy                                                                                                                                                                                       |
+| Respiratory, thoracic and mediastinal disorders      | Common: Oropharyngeal pain Uncommon: Nasal congestion Rare: Allergic alveolitis, eosinophilic pneumonia Very rare: Organising pneumonia*                                                                                                 |
+| Gastrointestinal disorders                           | Common: Diarrhoea, nausea, vomiting                                                                                                                                                                                                      |
+| Skin and subcutaneous tissue disorders               | Common: Pruritus Uncommon: Pustular psoriasis, skin exfoliation, acne Rare: Exfoliative dermatitis, hypersensitivity vasculitis Very rare: Bullous pemphigoid, cutaneous lupus erythematosus                                             |
+| Musculoskeletal and connective tissue disorders      | Common: Back pain, myalgia, arthralgia Very rare: Lupus-like syndrome                                                                                                                                                                    |
+| General disorders and administration site conditions | Common: Fatigue, injection site erythema, injection site pain Uncommon: Injection site reactions (including haemorrhage, haematoma, induration, swelling and pruritus), asthenia                                                         |
 
 *
 
@@ -1956,33 +1868,19 @@ In the placebocontrolled studies of patients with psoriasis, psoriatic arthritis
 
 In the controlled and noncontrolled periods of psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis clinical studies, representing 15,227 patient-years of ustekinumab exposure in 6,710 patients, the median follow-up was 1.2 years; 1.7 years for psoriatic disease studies, 0.6 year for Crohn's disease studies, and 2.3 years for ulcerative colitis studies. The rate of infection was 0.85 per patient-year of follow-up in ustekinumab-treated patients, and the rate of serious infections was 0.02 per patient-year of follow-up in ustekinumab-treated patients (289 serious infections in 15,227 patientyears of follow-up) and serious infections reported included pneumonia, anal abscess, cellulitis, diverticulitis, gastroenteritis and viral infections.
 
+<div style=\"page-break-after: always\"></div>
+
 In clinical studies, patients with latent tuberculosis who were concurrently treated with isoniazid did not develop tuberculosis.
 
 ## Malignancies
 
-In the placebo-controlled period of the psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis clinical studies, the incidence of malignancies excluding non-melanoma skin cancer was 0.11 per 100 patient-years of follow-up for ustekinumab-treated patients (1 patient in 929 patient-years of follow-up) compared with 0.23 for placebo-treated patients (1 patient in 434 patient-years of followup). The incidence of non-melanoma skin cancer was 0.43 per 100 patient-years of follow-up for
+In the placebo-controlled period of the psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis clinical studies, the incidence of malignancies excluding non-melanoma skin cancer was 0.11 per 100 patient-years of follow-up for ustekinumab-treated patients (1 patient in 929 patient-years of follow-up) compared with 0.23 for placebo-treated patients (1 patient in 434 patient-years of followup). The incidence of non-melanoma skin cancer was 0.43 per 100 patient-years of follow-up for ustekinumab-treated patients (4 patients in 929 patient-years of follow-up) compared to 0.46 for placebo-treated patients (2 patients in 433 patient-years of follow-up).
 
-<div style=\"page-break-after: always\"></div>
-
-ustekinumab-treated patients (4 patients in 929 patient-years of follow-up) compared to 0.46 for placebo-treated patients (2 patients in 433 patient-years of follow-up).
-
-In the controlled and noncontrolled periods of psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis clinical studies, representing 15,205 patient-years of ustekinumab exposure in 6,710 patients, the median follow-up was 1.2 years; 1.7 years for psoriatic disease studies, 0.6 year for Crohn's disease studies and 2.3 years for ulcerative colitis studies. Malignancies excluding nonmelanoma skin cancers were reported in 76 patients in 15,205 patient-years of follow-up (incidence of 0.50 per 100 patient- years of follow-up for ustekinumab-treated patients). The incidence of malignancies reported in ustekinumab-treated patients was comparable to the incidence expected in the general population (standardised incidence ratio = 0.94 [95% confidence interval: 0.73, 1.18], adjusted for age, gender  and race).
-
-The most frequently observed malignancies, other than non-melanoma skin cancer, were prostate, melanoma, colorectal, and breast cancers. The incidence of non-melanoma skin cancer was 0.46 per 100 patient-years of follow-up for ustekinumab-treated patients (69 patients in 15,165 patient-years of follow-up). The ratio of patients with basal versus squamous cell skin cancers (3:1) is comparable with the ratio expected in the general population (see section 4.4).
+In the controlled and noncontrolled periods of psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis clinical studies, representing 15,205 patient-years of ustekinumab exposure in 6,710 patients, the median follow-up was 1.2 years; 1.7 years for psoriatic disease studies, 0.6 year for Crohn's disease studies and 2.3 years for ulcerative colitis studies. Malignancies excluding nonmelanoma skin cancers were reported in 76 patients in 15,205 patient-years of follow-up (incidence of 0.50 per 100 patient- years of follow-up for ustekinumab-treated patients). The incidence of malignancies reported in ustekinumab-treated patients was comparable to the incidence expected in the general population (standardised incidence ratio = 0.94 [95% confidence interval: 0.73, 1.18], adjusted for age, gender  and race).The most frequently observed malignancies, other than nonmelanoma skin cancer, were prostate, melanoma, colorectal, and breast cancers. The incidence of nonmelanoma skin cancer was 0.46 per 100 patient-years of follow-up for ustekinumab-treated patients (69 patients in 15,165 patient-years of follow-up). The ratio of patients with basal versus squamous cell skin cancers (3:1) is comparable with the ratio expected in the general population (see section 4.4).
 
 ## Hypersensitivity reactions
 
 During the controlled periods of the psoriasis and psoriatic arthritis clinical studies of ustekinumab, rash and urticaria have each been observed in &lt; 1% of patients (see section 4.4).
-
-## Paediatric population
-
-## Paediatric patients 6 years and older with plaque psoriasis
-
-The safety of ustekinumab has been studied in two phase 3 studies of paediatric patients with moderate to severe plaque psoriasis. The first study was in 110 patients from 12 to 17 years of age treated for up to 60 weeks and the second study was in 44 patients from 6 to 11 years of age treated for up to 56 weeks. In general, the adverse events reported in these two studies with safety data up to 1 year were similar to those seen in previous studies in adults with plaque psoriasis.
-
-## Paediatric patients weighing at least 40 kg with Crohn's disease
-
-The safety of ustekinumab has been studied in one phase 1 and one phase 3 study of paediatric patients with moderately to severely active Crohn's disease up to week 240 and week 52, respectively. In general, the safety profile in this cohort (n = 71) was similar to that seen in previous studies in adults with Crohn's disease .
 
 ## Reporting of suspected adverse reactions
 
@@ -1998,13 +1896,13 @@ Single doses up to 6 mg/kg have been administered intravenously in clinical stud
 
 Pharmacotherapeutic group: Immunosuppressants, interleukin inhibitors, ATC code: L04AC05.
 
-<div style=\"page-break-after: always\"></div>
-
 Otulfi is a biosimilar medicinal product. Detailed information is available on the website of the European Medicines Agency; https://www.ema.europa.eu.
 
 ## Mechanism of action
 
-Ustekinumab is a fully human IgG1κ monoclonal antibody that binds with specificity to the shared p40 protein subunit of human cytokines interleukin (IL)-12 and IL-23. Ustekinumab inhibits the bioactivity of human IL-12 and IL-23 by preventing p40 from binding to the IL12Rβ1 receptor protein expressed on the surface of immune cells. Ustekinumab cannot bind to IL-12 or IL-23 that is already bound to IL12Rβ1 cell surface receptors. Thus, ustekinumab is not likely to contribute to complement- or antibody-mediated cytotoxicity of cells with IL-12 and/or IL-23 receptors. IL-12 and IL-23 are heterodimeric cytokines secreted by activated antigen presenting cells, such as macrophages and dendritic cells, and both cytokines participate in immune functions; IL-12 stimulates natural killer (NK) cells and drives the differentiation of CD4+ T cells toward the T helper 1 (Th1) phenotype, IL23 induces the T helper 17 (Th17) pathway. However, abnormal regulation of IL 12 and IL 23 has been associated with immune mediated diseases, such a s psoriasis, psoriatic arthritis and Crohn's disease.
+Ustekinumab is a fully human IgG1κ monoclonal antibody that binds with specificity to the shared p40 protein subunit of human cytokines interleukin (IL)-12 and IL-23. Ustekinumab inhibits the bioactivity of human IL-12 and IL-23 by preventing p40 from binding to the IL12Rβ1 receptor protein expressed on the surface of immune cells. Ustekinumab cannot bind to IL-12 or IL-23 that is already bound to IL12Rβ1 cell surface receptors. Thus, ustekinumab is not likely to contribute to complement- or antibody-mediated cytotoxicity of cells with IL-12 and/or IL-23 receptors. IL-12 and IL-23 are heterodimeric cytokines secreted by activated antigen presenting cells, such as macrophages and dendritic cells, and both cytokines participate in immune functions; IL-12 stimulates natural killer (NK) cells and drives the differentiation of CD4+ T cells toward the T helper 1 (Th1) phenotype, IL23 induces the T helper 17 (Th17) pathway. However, abnormal regulation of IL 12 and IL 23 has been associated with immune mediated diseases, such as psoriasis, psoriatic arthritis and Crohn's disease.
+
+<div style=\"page-break-after: always\"></div>
 
 By binding the shared p40 subunit of IL-12 and IL-23, ustekinumab may exert its clinical effects in psoriasis, psoriatic arthritis, Crohn's disease through interruption of the Th1 and Th17 cytokine pathways, which are central to the pathology of these diseases.
 
@@ -2020,23 +1918,21 @@ During the long term extension of Psoriasis Study 2 (PHOENIX 2), adult patients 
 
 The safety and efficacy of ustekinumab was assessed in 1,996 patients in two randomised, doubleblind, placebo-controlled studies in patients with moderate to severe plaque psoriasis and who were candidates for phototherapy or systemic therapy. In addition, a randomised, blinded assessor, activecontrolled study compared ustekinumab and etanercept in patients with moderate to severe plaque psoriasis who had had an inadequate response to, intolerance to, or contraindication to ciclosporin, MTX, or PUVA.
 
-Psoriasis Study 1 (PHOENIX 1) evaluated 766 patients. 53% of these patients were either non- responsive, intolerant, or had a contraindication to other systemic therapy. Patients randomised to ustekinumab received 45 mg or 90 mg doses at Weeks 0 and 4 and followed by the same dose every  12 weeks. Patients randomised to receive placebo at Weeks 0 and 4 crossed over to receive ustekinumab (either 45 mg or 90 mg) at Weeks 12 and 16 followed by dosing every 12 weeks. Patients originally randomised to ustekinumab who achieved Psoriasis Area and Severity Index 75 response (PASI improvement of at least 75% relative to baseline) at both Weeks 28 and 40 were re-randomised to receive ustekinumab every 12 weeks or to placebo (i.e., withdrawal of therapy). Patients who were re-randomised to placebo at week 40 reinitiated ustekinumab at their original dosing regimen when they experienced at least a 50% loss of their PASI improvement obtained at week 40. All patients were followed for up to 76 weeks following first administration of study treatment.
+## Psoriasis Study 1 (PHOENIX 1) evaluated 766 patients. 53% of these patients were either non-
 
-Psoriasis Study 2 (PHOENIX 2) evaluated 1,230 patients. 61% of these patients were either non-
+responsive, intolerant, or had a contraindication to other systemic therapy. Patients randomised to ustekinumab received 45 mg or 90 mg doses at Weeks 0 and 4 and followed by the same dose every  12 weeks. Patients randomised to receive placebo at Weeks 0 and 4 crossed over to receive ustekinumab (either 45 mg or 90 mg) at Weeks 12 and 16 followed by dosing every 12 weeks. Patients originally randomised to ustekinumab who achieved Psoriasis Area and Severity Index 75 response (PASI improvement of at least 75% relative to baseline) at both Weeks 28 and 40 were re-randomised to receive ustekinumab every 12 weeks or to placebo (i.e., withdrawal of therapy). Patients who were re-randomised to placebo at week 40 reinitiated ustekinumab at their original dosing regimen when they experienced at least a 50% loss of their PASI improvement obtained at week 40. All patients were followed for up to 76 weeks following first administration of study treatment.
 
-<div style=\"page-break-after: always\"></div>
-
-responsive, intolerant, or had a contraindication to other systemic therapy. Patients randomised to ustekinumab received 45 mg or 90 mg doses at Weeks 0 and 4 followed by an additional dose at 16 weeks.
-
-Patients randomised to receive placebo at Weeks 0 and 4 crossed over to receive ustekinumab (either 45 mg or 90 mg) at Weeks 12 and 16. All patients were followed for up to 52 weeks following first administration of study treatment.
+Psoriasis Study 2 (PHOENIX 2) evaluated 1,230 patients. 61% of these patients were either nonresponsive, intolerant, or had a contraindication to other systemic therapy. Patients randomised to ustekinumab received 45 mg or 90 mg doses at Weeks 0 and 4 followed by an additional dose at 16 weeks.Patients randomised to receive placebo at Weeks 0 and 4 crossed over to receive ustekinumab (either 45 mg or 90 mg) at Weeks 12 and 16. All patients were followed for up to 52 weeks following first administration of study treatment.
 
 Psoriasis Study 3 (ACCEPT) evaluated 903 patients with moderate to severe psoriasis who inadequately responded to, were intolerant to, or had a contraindication to other systemic therapy and compared the efficacy of ustekinumab to etanercept and evaluated the safety of ustekinumab and etanercept. During the 12-week active-controlled portion of the study, patients were randomised to receive etanercept (50 mg twice a week), ustekinumab 45 mg at Weeks 0 and 4, or ustekinumab 90 mg at Weeks 0 and 4.
 
+<div style=\"page-break-after: always\"></div>
+
 Baseline disease characteristics were generally consistent across all treatment groups in Psoriasis Studies 1 and 2 with a median baseline PASI score from 17 to 18, median baseline Body Surface Area (BSA) ≥ 20, and median Dermatology Life Quality Index (DLQI) range from 10 to 12. Approximately one third (Psoriasis Study 1) and one quarter (Psoriasis Study 2) of subjects had Psoriatic Arthritis (PsA). Similar disease severity was also seen in Psoriasis Study 3.
 
-The primary endpoint in these studies was the proportion of patients who achieved PASI 75 response from baseline at week 12 (see Tables 3 and 4).
+The primary endpoint in these studies was the proportion of patients who achieved PASI 75 response from baseline at week 12 (see Tables 2 and 3).
 
-Table 3 Summary of clinical response in Psoriasis Study 1 (PHOENIX 1) and Psoriasis Study 2 (PHOENIX 2)
+Table 2 Summary of clinical response in Psoriasis Study 1 (PHOENIX 1) and Psoriasis Study 2 (PHOENIX 2)
 
 |                                  | Week 12 2 doses (week 0 and week 4)   | Week 12 2 doses (week 0 and week 4)   | Week 12 2 doses (week 0 and week 4)   | Week 28 3 doses (week 0, week 4and week 16)   | Week 28 3 doses (week 0, week 4and week 16)   |
 |----------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|-----------------------------------------------|-----------------------------------------------|
@@ -2062,23 +1958,25 @@ Table 3 Summary of clinical response in Psoriasis Study 1 (PHOENIX 1) and Psoria
 | Number of patients > 100 kg      | 120                                   | 112                                   | 121                                   | 110                                           | 119                                           |
 | PASI 75 response N(%)            | 3 (3%)                                | 55 (49%)                              | 86 (71%)                              | 59 (54%)                                      | 88 (74%)                                      |
 
+Table 3 Summary of clinical response at week 12 in Psoriasis Study 3 (ACCEPT)
+
+|                               | Psoriasis Study 3              | Psoriasis Study 3                       | Psoriasis Study 3                       |
+|-------------------------------|--------------------------------|-----------------------------------------|-----------------------------------------|
+|                               | Etanercept 24 doses mg twice a | Ustekinumab 2 doses (week 0 and week 4) | Ustekinumab 2 doses (week 0 and week 4) |
+|                               | (50 week)                      | 45 mg                                   | 90 mg                                   |
+| Number of patients randomised | 347                            | 209                                     | 347                                     |
+
 <div style=\"page-break-after: always\"></div>
 
-Table 4 Summary of clinical response at week 12 in Psoriasis Study 3 (ACCEPT)
-
-|                               | Psoriasis Study 3    | Psoriasis Study 3                       | Psoriasis Study 3                       |
-|-------------------------------|----------------------|-----------------------------------------|-----------------------------------------|
-|                               | Etanercept 24 doses  | Ustekinumab 2 doses (week 0 and week 4) | Ustekinumab 2 doses (week 0 and week 4) |
-|                               | (50 mg twice a week) | 45 mg                                   | 90 mg                                   |
-| Number of patients randomised | 347                  | 209                                     | 347                                     |
-| PASI 50 response N(%)         | 286 (82%)            | 181 (87%)                               | 320 (92%) a                             |
-| PASI 75 response N(%)         | 197 (57%)            | 141 (67%) b                             | 256 (74%) a                             |
-| PASI 90 response N(%)         | 80 (23%)             | 76 (36%) a                              | 155 (45%) a                             |
-| PGAof cleared or minimal N(%) | 170 (49%)            | 136 (65%) a                             | 245 (71%) a                             |
-| Number of patients ≤ 100 kg   | 251                  | 151                                     | 244                                     |
-| PASI 75 response N(%)         | 154 (61%)            | 109 (72%)                               | 189 (77%)                               |
-| Number of patients > 100 kg   | 96                   | 58                                      | 103                                     |
-| PASI 75 response N(%)         | 43 (45%)             | 32 (55%)                                | 67 (65%)                                |
+| PASI 50 response N(%)         | 286 (82%)   | 181 (87%)   | 320 (92%) a   |
+|-------------------------------|-------------|-------------|---------------|
+| PASI 75 response N(%)         | 197 (57%)   | 141 (67%) b | 256 (74%) a   |
+| PASI 90 response N(%)         | 80 (23%)    | 76 (36%) a  | 155 (45%) a   |
+| PGAof cleared or minimal N(%) | 170 (49%)   | 136 (65%) a | 245 (71%) a   |
+| Number of patients ≤ 100 kg   | 251         | 151         | 244           |
+| PASI 75 response N(%)         | 154 (61%)   | 109 (72%)   | 189 (77%)     |
+| Number of patients > 100 kg   | 96          | 58          | 103           |
+| PASI 75 response N(%)         | 43 (45%)    | 32 (55%)    | 67 (65%)      |
 
 - a p &lt; 0.001 for ustekinumab 45 mg or 90 mg in comparison with etanercept.
 
@@ -2094,19 +1992,17 @@ In Psoriasis Study 1, at week 2 and week 12, significantly greater improvements 
 
 Ustekinumab has been shown to improve signs and symptoms, physical function and health-related quality of life, and reduce the rate of progression of peripheral joint damage in adult patients with active PsA.
 
-The safety and efficacy of ustekinumab was assessed in 927 patients in two randomised, double-blind, placebo-controlled studies in patients with active PsA (≥ 5 swollen joints and ≥ 5 tender joints) despite non-steroidal anti-inflammatory (NSAID) or disease modifying antirheumatic (DMARD) therapy. Patients in these studies had a diagnosis of PsA for at least 6 months. Patients with each subtype of PsA were enrolled, including polyarticular arthritis with no evidence of rheumatoid nodules (39%), spondylitis with peripheral arthritis (28%), asymmetric peripheral arthritis (21%), distal interphalangeal involvement (12%) and arthritis mutilans (0.5%). Over 70% and 40% of the patients in both studies had enthesitis and dactylitis at baseline, respectively. Patients were randomised to receive treatment with ustekinumab 45 mg, 90 mg, or placebo subcutaneously at Weeks 0 and 4 followed by
-
-<div style=\"page-break-after: always\"></div>
-
-every 12 weeks (q12w) dosing. Approximately 50% of patients continued on stable doses of MTX (≤ 25 mg/week).
+The safety and efficacy of ustekinumab was assessed in 927 patients in two randomised, double-blind, placebo-controlled studies in patients with active PsA (≥ 5 swollen joints and ≥ 5 tender joints) despite non-steroidal anti-inflammatory (NSAID) or disease modifying antirheumatic (DMARD) therapy. Patients in these studies had a diagnosis of PsA for at least 6 months. Patients with each subtype of PsA were enrolled, including polyarticular arthritis with no evidence of rheumatoid nodules (39%), spondylitis with peripheral arthritis (28%), asymmetric peripheral arthritis (21%), distal interphalangeal involvement (12%) and arthritis mutilans (0.5%). Over 70% and 40% of the patients in both studies had enthesitis and dactylitis at baseline, respectively. Patients were randomised to receive treatment with ustekinumab 45 mg, 90 mg, or placebo subcutaneously at Weeks 0 and 4 followed by every 12 weeks (q12w) dosing. Approximately 50% of patients continued on stable doses of MTX (≤ 25 mg/week).
 
 In PsA Study 1 (PSUMMIT I) and PsA Study 2 (PSUMMIT II), 80% and 86% of the patients, respectively, had been previously treated with DMARDs. In Study 1 previous treatment with antitumour necrosis factor (TNF)α agent was not allowed. In Study 2, the majority of patients (58%, n = 180) had been previously treated with one or more antiTNFα agent(s), of whom over 70% had discontinued their antiTNFα treatment for lack of efficacy or intolerance at any time.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Signs and symptoms
 
-Treatment with ustekinumab resulted in significant improvements in the measures of disease activity compared to placebo at week 24. The primary endpoint was the percentage of patients who achieved American College of Rheumatology (ACR) 20 response at week 24. The key efficacy results are shown in Table 5 below.
+Treatment with ustekinumab resulted in significant improvements in the measures of disease activity compared to placebo at week 24. The primary endpoint was the percentage of patients who achieved American College of Rheumatology (ACR) 20 response at week 24. The key efficacy results are shown in Table 4 below.
 
-Table 5 Number of patients who achieved clinical response in Psoriatic arthritis Study 1 (PSUMMIT I) and Study 2 (PSUMMIT II) at week 24
+Table 4 Number of patients who achieved clinical response in Psoriatic arthritis Study 1 (PSUMMIT I) and Study 2 (PSUMMIT II) at week 24
 
 |                                           | Psoriatic arthritis Study 1   | Psoriatic arthritis Study 1   | Psoriatic arthritis Study 1   | Psoriatic arthritis Study 2   | Psoriatic arthritis Study 2   | Psoriatic arthritis Study 2   |
 |-------------------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|
@@ -2126,19 +2022,13 @@ Table 5 Number of patients who achieved clinical response in Psoriatic arthritis
 | Number of patients > 100 kg               | 52                            | 52                            | 50                            | 30                            | 29                            | 31                            |
 | ACR20response, N(%)                       | 8 (15%)                       | 20 (38%)                      | 23 (46%)                      | 4 (13%)                       | 13 (45%)                      | 12 (39%)                      |
 | Number of patients with ≥ 3% BSA d        | 41                            | 40                            | 38                            | 26                            | 22                            | 24                            |
+| PASI 75 response, N(%)                    | 2 (5%)                        | 19 (48%)                      | 20 (53%)                      | 0                             | 10 (45%)                      | 13 (54%)                      |
+
+ACR 20, 50 and 70 responses continued to improve or were maintained through week 52 (PsA Study 1
 
 <div style=\"page-break-after: always\"></div>
 
-| PASI 75 response, N(%)   | 2 (5%)   | 19 (48%)   | 20 (53%)   | 0   | 10 (45%)   | 13 (54%)   |
-|--------------------------|----------|------------|------------|-----|------------|------------|
-
-- a p &lt; 0.001
-- b p &lt; 0.05
-- c p = NS
-
-d Number of patients with ≥ 3% BSA psoriasis skin involvement at baseline
-
-ACR 20, 50 and 70 responses continued to improve or were maintained through week 52 (PsA Study 1 and 2) and week 100 (PsA Study 1). In PsA Study 1, ACR 20 responses at week 100 were achieved by 57% and 64%, for 45 mg and 90 mg, respectively. In PsA Study 2, ACR 20 responses at week 52 were achieved by 47% and 48%, for 45 mg and 90 mg, respectively.
+and 2) and week 100 (PsA Study 1). In PsA Study 1, ACR 20 responses at week 100 were achieved by 57% and 64%, for 45 mg and 90 mg, respectively. In PsA Study 2, ACR 20 responses at week 52 were achieved by 47% and 48%, for 45 mg and 90 mg, respectively.
 
 The proportion of patients achieving a modified PsA response criteria (PsARC) response was also significantly greater in the ustekinumab groups compared to placebo at week 24. PsARC responses were maintained through weeks 52 and 100. A higher proportion of patients treated with ustekinumab who had spondylitis with peripheral arthritis as their primary presentation, demonstrated 50 and 70 percent improvement in Bath Ankylosing Spondylitis Disease Activity Index (BASDAI) scores compared with placebo at week 24.
 
@@ -2154,96 +2044,13 @@ Structural damage in both hands and feet was expressed as change in total van de
 
 Ustekinumab-treated patients showed significant improvement in physical function as assessed by the Disability Index of the Health Assessment Questionnaire (HAQ-DI) at week 24. The proportion of patients achieving a clinically meaningful ≥ 0.3 improvement in HAQ-DI score from baseline was also significantly greater in the ustekinumab groups when compared with placebo. Improvement in HAQDI score from baseline was maintained through Weeks 52 and 100.
 
-There was significant improvement in DLQI scores in the ustekinumab groups as compared with placebo at week 24, which was maintained through weeks 52 and 100. In PsA Study 2 there was a significant improvement in Functional Assessment of Chronic Illness Therapy-Fatigue (FACIT-F) scores in the ustekinumab groups when compared with placebo at week 24. The proportion of patients achieving a clinically significant improvement in fatigue (4 points in FACIT-F) was also significantly greater in the ustekinumab groups compared with placebo. Improvements in FACIT scores were
-
-<div style=\"page-break-after: always\"></div>
-
-maintained through week 52.
+There was significant improvement in DLQI scores in the ustekinumab groups as compared with placebo at week 24, which was maintained through weeks 52 and 100. In PsA Study 2 there was a significant improvement in Functional Assessment of Chronic Illness Therapy-Fatigue (FACIT-F) scores in the ustekinumab groups when compared with placebo at week 24. The proportion of patients achieving a clinically significant improvement in fatigue (4 points in FACIT-F) was also significantly greater in the ustekinumab groups compared with placebo. Improvements in FACIT scores were maintained through week 52.
 
 ## Paediatric population
 
-The European Medicines Agency has deferred the obligation to submit the results of studies with the reference medicinal product containing ustekinumab in one or more subsets of the paediatric population with juvenile idiopathic arthritis (see section 4.2 for information on paediatric use).
-
-## Paediatric plaque psoriasis
-
-Ustekinumab has been shown to improve signs and symptoms, and health-related quality of life in paediatric patients 6 years and older with plaque psoriasis.
-
-## Adolescent patients (12-17 years)
-
-The efficacy of ustekinumab was studied in 110 paediatric patients aged 12 to 17 years with moderate to severe plaque psoriasis in a multicentre, phase 3, randomised, double-blind, placebo-controlled study (CADMUS). Patients were randomised to receive either placebo (n = 37), or the recommended dose of ustekinumab (see section 4.2; n = 36) or half of the recommended dose of ustekinumab (n = 37) by subcutaneous injection at Weeks 0 and 4 followed by every 12 week (q12w) dosing. At week 12, placebo-treated patients crossed over to receive ustekinumab.
-
-Patients with PASI ≥ 12, PGA ≥ 3 and BSA involvement of at least 10%, who were candidates for systemic therapy or phototherapy, were eligible for the study. Approximately 60% of the patients had prior exposure to conventional systemic therapy or phototherapy. Approximately 11% of the patients had prior exposure to biologics.
-
-The primary endpoint was the proportion of patients who achieved a PGA score of cleared (0) or minimal (1) at week 12. Secondary endpoints included PASI 75, PASI 90, change from baseline in Children's Dermatology Life Quality Index (CDLQI), change from baseline in the total scale score of PedsQL (Paediatric Quality of Life Inventory) at week 12. At week 12, subjects treated with ustekinumab showed significantly greater improvement in their psoriasis and health-related quality of life compared with placebo (Table 7).
-
-All patients were followed for efficacy for up to 52 weeks following first administration of study agent. The proportion of patients with a PGA score of cleared (0) or minimal (1) and the proportion achieving PASI 75 showed separation between the ustekinumab treated group and placebo at the first post-baseline visit at week 4, reaching a maximum by week 12. Improvements in PGA, PASI, CDLQI and PedsQL were maintained through week 52 (Table 6).
-
-Table 6 Summary of primary and secondary endpoints at week 12 and week 52
-
-| Paediatric psoriasis study(CADMUS) (Age 12-17)   | Paediatric psoriasis study(CADMUS) (Age 12-17)   | Paediatric psoriasis study(CADMUS) (Age 12-17)   | Paediatric psoriasis study(CADMUS) (Age 12-17)   |
-|--------------------------------------------------|--------------------------------------------------|--------------------------------------------------|--------------------------------------------------|
-|                                                  | Week 12                                          | Week 12                                          | Week 52                                          |
-|                                                  | Placebo                                          | Recommended dose of Ustekinumab                  | Recommended dose of Ustekinumab                  |
-|                                                  | N (%)                                            | N (%)                                            | N (%)                                            |
-| Patients randomised                              | 37                                               | 36                                               | 35                                               |
-| PGA                                              |                                                  |                                                  |                                                  |
-| PGAof cleared (0) or minimal (1)                 | 2 (5.4%)                                         | 25 (69.4%) a                                     | 20 (57.1%)                                       |
-| PGA of Cleared (0)                               | 1 (2.7%)                                         | 17 (47.2%) a                                     | 13 (37.1%)                                       |
-| PASI                                             |                                                  |                                                  |                                                  |
-| PASI 75 responders                               | 4 (10.8%)                                        | 29 (80.6%) a                                     | 28 (80.0%)                                       |
-| PASI 90 responders                               | 2 (5.4%)                                         | 22 (61.1%) a                                     | 23 (65.7%)                                       |
-| PASI 100 responders                              | 1 (2.7%)                                         | 14 (38.9%) a                                     | 13 (37.1%)                                       |
-| CDLQI                                            |                                                  |                                                  |                                                  |
-| CDLQI of 0 or 1 b                                | 6 (16.2%)                                        | 18 (50.0%) c                                     | 20 (57.1%)                                       |
+The European Medicines Agency has deferred the obligation to submit the results of studies with the reference medicinal product containing ustekinumab in one or more subsets of the paediatric population with juvenile idiopathic arthritis (see section 4.2 for information on paediatric use). The pre-filled pen has not been studied in the paediatric population and is not recommended for use by paediatric patients.
 
 <div style=\"page-break-after: always\"></div>
-
-| PedsQL                           | PedsQL       | PedsQL         | PedsQL       |
-|----------------------------------|--------------|----------------|--------------|
-| Change from baseline Mean (SD) d | 3.35 (10.04) | 8.03 (10.44) e | 7.26 (10.92) |
-
-- a p &lt; 0.001
-- b CDLQI: The CDLQI is a dermatology instrument to assess the effect of a skin problem on the health-related quality of life in the paediatric population. CDLQI of 0 or 1 indicates no effect on child's quality of life.
-- c p = 0.002
-- d PedsQL: The PedsQL Total Scale Score is a general health-related quality of life measure developed for use in children and adolescent populations. For the placebo group at week 12, N = 36
-- e p = 0.028
-
-During the placebo-controlled period through week 12, the efficacy of both the recommended and half of the recommended dose groups were generally comparable at the primary endpoint (69.4% and 67.6% respectively) although there was evidence of a dose response for higher level efficacy criteria (e.g. PGA of cleared (0), PASI 90). Beyond week 12, efficacy was generally higher and better sustained in the recommended dose group compared with half of the recommended dosage group in which a modest loss of efficacy was more frequently observed toward the end of each 12 week dosing interval. The safety profiles of the recommended dose and half of the recommended dose were comparable.
-
-## Children (6-11 years)
-
-The efficacy of ustekinumab was studied in 44 paediatric patients aged 6 to 11 years with moderate to severe plaque psoriasis in an open label, single-arm, multicentre, phase 3, study (CADMUS Jr.). Patients were treated with the recommended dose of ustekinumab (see section 4.2; n = 44) by subcutaneous injection at weeks 0 and 4 followed by every 12 week (q12w) dosing.
-
-Patients with PASI ≥ 12, PGA ≥ 3 and BSA involvement of at least 10%, who were candidates for systemic therapy or phototherapy, were eligible for the study. Approximately 43% of the patients had prior exposure to conventional systemic therapy or phototherapy. Approximately 5% of the patients had prior exposure to biologics.
-
-The primary endpoint was the proportion of patients who achieved a PGA score of cleared (0) or minimal (1) at week 12. Secondary endpoints included PASI 75, PASI 90, and change from baseline in Children's Dermatology Life Quality Index (CDLQI) at week 12. At week 12, subjects treated with ustekinumab showed clinically meaningful improvements in their psoriasis and health-related quality of life (Table 8).
-
-All patients were followed for efficacy for up to 52 weeks following first administration of study agent. The proportion of patients with a PGA score of cleared (0) or minimal (1) at week 12 was 77.3%. Efficacy (defined as PGA 0 or 1) was observed as early as the first post-baseline visit at week 4 and the proportion of subjects who achieved a PGA score of 0 or 1 increased through week 16 and then remained relatively stable through week 52. Improvements in PGA, PASI, and CDLQI were maintained through week 52 (Table 7).
-
-Table 7 Summary of primary and secondary endpoints at week 12 and week 52
-
-| Paediatric psoriasis study (CADMUSJr.) (Age 6-11)   | Paediatric psoriasis study (CADMUSJr.) (Age 6-11)   | Paediatric psoriasis study (CADMUSJr.) (Age 6-11)   |
-|-----------------------------------------------------|-----------------------------------------------------|-----------------------------------------------------|
-|                                                     | Week 12                                             | Week 52                                             |
-|                                                     | Recommended dose of Ustekinumab                     | Recommended dose of Ustekinumab                     |
-|                                                     | N (%)                                               | N (%)                                               |
-| Patients enrolled                                   | 44                                                  | 41                                                  |
-| PGA                                                 |                                                     |                                                     |
-| PGAof cleared (0) or minimal (1)                    | 34 (77.3%)                                          | 31 (75.6%)                                          |
-| PGA of cleared (0)                                  | 17 (38.6%)                                          | 23 (56.1%)                                          |
-| PASI                                                |                                                     |                                                     |
-
-<div style=\"page-break-after: always\"></div>
-
-| PASI 75 responders                   | 37 (84.1%)   | 36 (87.8%)   |
-|--------------------------------------|--------------|--------------|
-| PASI 90 responders                   | 28 (63.6%)   | 29 (70.7%)   |
-| PASI 100 responders                  | 15 (34.1%)   | 22 (53.7%)   |
-| CDLQI a                              |              |              |
-| Patients with a CDLQI> 1 at baseline | (N= 39)      | (N= 36)      |
-| CDLQI of 0 or 1                      | 24 (61.5%)   | 21 (58.3%)   |
-
-a CDLQI: The CDLQI is a dermatology instrument to assess the effect of a skin problem on the health-related quality of life in the paediatric population. CDLQI of 0 or 1 indicates no effect on child's quality of life .
 
 ## Crohn's Disease
 
@@ -2255,11 +2062,9 @@ Patients in UNITI-1 had failed or were intolerant to prior antiTNFα therapy. Ap
 
 Patients in UNITI-2 had failed at least one conventional therapy, including corticosteroids or immunomodulators, and were either anti-TNFα naïve (68.6%) or had previously received but not failed antiTNFα therapy (31.4%).
 
-In both UNITI-1 and UNITI-2, a significantly greater proportion of patients were in clinical response and remission in the ustekinumab treated group compared to placebo (Table 8). Clinical response and remission were significant as early as week 3 in ustekinumab treated patients and continued to improve through week 8. In these induction studies, efficacy was higher and better sustained in the tiered dose group compared to the 130 mg dose group, and tiered dosing is therefore the recommended intravenous induction dose.
+In both UNITI-1 and UNITI-2, a significantly greater proportion of patients were in clinical response and remission in the ustekinumab treated group compared to placebo (Table 5). Clinical response and remission were significant as early as week 3 in ustekinumab treated patients and continued to improve through week 8. In these induction studies, efficacy was higher and better sustained in the tiered dose group compared to the 130 mg dose group, and tiered dosing is therefore the recommended intravenous induction dose.
 
-<div style=\"page-break-after: always\"></div>
-
-Table 8: Induction of Clinical Response and Remission in UNITI-1 and UNITI 2
+Table 5: Induction of Clinical Response and Remission in UNITI-1 and UNITI 2
 
 |                                       | UNITI-1 *       | UNITI-1 *                               | UNITI-2 **      | UNITI-2 **                              |
 |---------------------------------------|-----------------|-----------------------------------------|-----------------|-----------------------------------------|
@@ -2275,15 +2080,18 @@ Clinical remission is defined as CDAI score &lt; 150; Clinical response is defin
 70 point response is defined as reduction in CDAI score by at least 70 points
 
 * AntiTNFα failures
+
+<div style=\"page-break-after: always\"></div>
+
 - ** Conventional therapy failures
 - a p &lt; 0.001
 - b p &lt; 0.01
 
 The maintenance study (IM-UNITI) evaluated 388 patients who achieved 100 point clinical response at week 8 of induction with ustekinumab in studies UNITI-1 and UNITI-2. Patients were randomised to receive a subcutaneous maintenance regimen of either 90 mg ustekinumab every 8 weeks, 90 mg ustekinumab every 12 weeks or placebo for 44 weeks (for recommended maintenance posology, see section 4.2).
 
-Significantly higher proportions of patients maintained clinical remission and response in the ustekinumab treated groups compared to the placebo group at week 44 (see Table 9).
+Significantly higher proportions of patients maintained clinical remission and response in the ustekinumab treated groups compared to the placebo group at week 44 (see Table 6).
 
-Table 9: Maintenance of Clinical Response and Remission in IM-UNITI (week 44; 52 weeks from initiation of the induction dose)
+Table 6: Maintenance of Clinical Response and Remission in IM-UNITI (week 44; 52 weeks from initiation of the induction dose)
 
 |                                                  | Placebo* N = 131 †   | 90 mg ustekinumab every 8 weeks N = 128 †   | 90 mg ustekinumab every 12 weeks N = 129 †   |
 |--------------------------------------------------|----------------------|---------------------------------------------|----------------------------------------------|
@@ -2306,8 +2114,6 @@ Clinical remission is defined as CDAI score &lt; 150; Clinical response is defin
 
 § Patients who are antiTNFα refractory/intolerant
 
-<div style=\"page-break-after: always\"></div>
-
 - a p &lt; 0.01
 - b p &lt; 0.05
 - c nominally significant (p &lt; 0.05)
@@ -2317,6 +2123,8 @@ In IM-UNITI, 29 of 129 patients did not maintain response to ustekinumab when tr
 Patients who were not in clinical response to ustekinumab induction at week 8 of the UNITI-1 and UNITI-2 induction studies (476 patients) entered into the non-randomised portion of the maintenance study (IM-UNITI) and received a 90 mg subcutaneous injection of ustekinumab at that time. Eight weeks later, 50.5% of the patients achieved clinical response and continued to receive maintenance dosing every 8 weeks; among these patients with continued maintenance dosing, a majority maintained response (68.1%) and achieved remission (50.2%) at week 44, at proportions that were similar to the patients who initially responded to ustekinumab induction.
 
 Of 131 patients who responded to ustekinumab induction, and were randomised to the placebo group at the start of the maintenance study, 51 subsequently lost response and received 90 mg ustekinumab subcutaneously every 8 weeks. The majority of patients who lost response and resumed ustekinumab did so within 24 weeks of the induction infusion. Of these 51 patients, 70.6% achieved clinical response and 39.2% percent achieved clinical remission 16 weeks after receiving the first subcutaneous dose of ustekinumab.
+
+<div style=\"page-break-after: always\"></div>
 
 In IM-UNITI, patients who completed the study through week 44 were eligible to continue treatment in a study extension. Among the 567 patients who entered on and were treated with ustekinumab in the study extension, clinical remission and response were generally maintained through week 252 for both patients who failed TNF-therapies and those who failed conventional therapies.
 
@@ -2334,67 +2142,21 @@ In a subgroup of patients with draining fistulas at baseline (8.8%; n = 26), 12/
 
 Health-related quality of life was assessed by Inflammatory Bowel Disease Questionnaire (IBDQ) and SF-36 questionnaires. At week 8, patients receiving ustekinumab showed statistically significantly greater and clinically meaningful improvements on IBDQ total score and SF-36 Mental Component Summary Score in both UNITI-1 and UNITI-2, and SF-36 Physical Component Summary Score in UNITI-2, when compared to placebo. These improvements were generally better maintained in ustekinumab-treated patients in the IM-UNITI study through week 44 when compared to placebo. Improvement in health-related quality of life was generally maintained during the extension through week 252.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Immunogenicity
 
 Antibodies to ustekinumab may develop during ustekinumab treatment and most are neutralising. The formation of anti-ustekinumab antibodies is associated with both increased clearance and reduced efficacy of ustekinumab, except in patients with Crohn's disease where no reduced efficacy was observed. There is no apparent correlation between the presence of anti-ustekinumab antibodies and the occurrence of injection site reactions.
 
 ## Paediatric population
 
-The European Medicines Agency has deferred the obligation to submit the results of studies with the reference medicinal product containing ustekinumab in one or more subsets of the paediatric population in Crohn's Disease (see section 4.2 for information on paediatric use).
-
-## Paediatric Crohn's disease
-
-The safety and efficacy of ustekinumab was evaluated in 48 paediatric patients weighing at least 40 kg, in an interim analysis of a multicentre phase 3 study (UNITI-Jr) for paediatric patients with moderately to severely active Crohn's disease (defined by a Paediatric Crohn's Disease Activity Index [PCDAI] score &gt;30) through 52 weeks of treatment (8 weeks of induction and 44 weeks of maintenance treatment). Patients included in the study either had not adequately responded to or had not tolerated prior biol ogic therapy or conventional therapy for Crohn's disease. The study included an open-label induction treatment with a single ustekinumab intravenous dose, of approximately 6 mg/kg (see section 4.2), followed by a randomised double-blind subcutaneous maintenance regimen of 90 mg ustekinumab administered either every 8 weeks or every 12 weeks.
-
-## Efficacy results
-
-The primary endpoint of the study was clinical remission at induction week 8 (defined as PCDAI score ≤ 10). The proportion of patients who achieved clinical remission was 52.1% (25/48) and is comparable to that observed in the adult ustekinumab phase 3 studies.
-
-Clinical response was observed as early as week 3. The proportion of patients in clinical response at week 8 (defined as a reduction from baseline in the PCDAI score of &gt;12.5 points with a total PCDAI score not more than 30) was 93.8% (45/48).
-
-Table 10 presents the analyses for the secondary endpoints through maintenance week 44.
-
-Table 10: Summary of Secondary endpoints through Maintenance week 44
-
-|                                                                                      | 90 mg ustekinumab every 8 weeks N = 23   | 90 mg ustekinumab every 12 weeks N = 25   | Total number of patients N = 48   |
-|--------------------------------------------------------------------------------------|------------------------------------------|-------------------------------------------|-----------------------------------|
-| Clinical Remission *                                                                 | 43.5% (10/23)                            | 60.0% (15/25)                             | 52.1% (25/48)                     |
-| Corticosteroid-free Clinical Remission §                                             | 43.5% (10/23)                            | 60.0% (15/25)                             | 52.1% (25/48)                     |
-| Clinical remission for patients who were in clinical remission at induction week 8 * | 64.3% (9/14)                             | 54.5% (6/11)                              | 60.0% (15/25)                     |
-| Clinical Response †                                                                  | 52.2% (12/23)                            | 60.0% (15/25)                             | 56.3% (27/48)                     |
-| Endoscopic response £                                                                | 22.7% (5/22)                             | 28.0% (7/25)                              | 25.5% (12/47)                     |
-
-* Clinical remission is defined as PCDAI score ≤10 points.
-
-§ Corticosteroidfree remission is defined as PCDAI score of ≤10 points and not receiving corticosteroids for at least 90 days prior to Week M-44.
-
-† Clinical response is defined as a reduction from baseline in the PCDAI score of ≥12.5 points with a total PCDAI score not more than 30.
-
-£ Endoscopic response is defined as a reduction in the SESCD score of ≥50% or SES -CD score ≤2, in patients with a baseline SESCD score of ≥3.
-
-<div style=\"page-break-after: always\"></div>
-
-## Dosing frequency adjustment
-
-Patients who entered the maintenance regimen and experienced loss of response (LOR) based on PCDAI score were eligible for dose adjustment. Patients were either switched from treatment every 12 weeks to every 8 weeks or stayed on treatment every 8 weeks (sham adjustment). 2 patients were dose adjusted to the shorter dosing interval. In these patients, clinical remission was achieved in 100% (2/2) of patients 8 weeks after dose adjustment.
-
-The safety profile of the induction dose regimen and both maintenance dose regimens in the paediatric population weighing at least 40 kg is comparable with that established in the adult Crohn's disease population (see Section 4.8).
-
-## Serum and faecal inflammatory biomarkers
-
-The mean change from baseline at maintenance week 44 in C-Reactive protein (CRP) and faecal calprotectin concentrations were -11.17 mg/L (24.159) and -538.2 mg/kg (1271.33), respectively.
-
-## Health-related quality of life
-
-The total IMPACT-III scores and all subdomains (bowel symptoms, fatigue-related systemic symptoms, and well-being) demonstrated clinically meaningful improvements after 52 weeks.
+The European Medicines Agency has deferred the obligation to submit the results of studies with the reference medicinal product containing ustekinumab in one or more subsets of the paediatric population in Crohn's Disease (see section 4.2 for information on paediatric use). The pre-filled pen has not been studied in the paediatric population and is not recommended for use by paediatric patients.
 
 ## 5.2 Pharmacokinetic properties
 
 ## Absorption
 
 The median time to reach the maximum serum concentration (tmax) was 8.5 days after a single 90 mg subcutaneous administration in healthy subjects. The median tmax values of ustekinumab following a single subcutaneous administration of either 45 mg or 90 mg in patients with psoriasis were comparable to those observed in healthy subjects.
+
+<div style=\"page-break-after: always\"></div>
 
 The absolute bioavailability of ustekinumab following a single subcutaneous administration was estimated to be 57.2% in patients with psoriasis.
 
@@ -2416,11 +2178,7 @@ The systemic exposure of ustekinumab (Cmax and AUC) increased in an approximatel
 
 ## Single dose versus multiple doses
 
-Serum concentration-time profiles of ustekinumab were generally predictable after single or multiple subcutaneous dose administrations. In patients with psoriasis, steady-state serum concentrations of
-
-<div style=\"page-break-after: always\"></div>
-
-ustekinumab were achieved by week 28 after initial subcutaneous doses at Weeks 0 and 4 followed by doses every 12 weeks. The median steady-state trough concentration ranged from 0.21 μg/mL to 0.26 μg/mL (45 mg) and from 0.47 μg/mL to 0.49 μg/mL (90 mg). There was no apparent accumulation in serum ustekinumab concentration over time when given subcutaneously every 12 weeks.
+Serum concentration-time profiles of ustekinumab were generally predictable after single or multiple subcutaneous dose administrations. In patients with psoriasis, steady-state serum concentrations of ustekinumab were achieved by week 28 after initial subcutaneous doses at Weeks 0 and 4 followed by doses every 12 weeks. The median steady-state trough concentration ranged from 0.21 μg/mL to 0.26 μg/mL (45 mg) and from 0.47 μg/mL to 0.49 μg/mL (90 mg). There was no apparent accumulation in serum ustekinumab concentration over time when given subcutaneously every 12 weeks.
 
 In patients with Crohn's disease, following an intravenous dose of ~6 mg/kg, starting at week 8, subcutaneous maintenance dosing of 90 mg ustekinumab was administered every 8 or 12 weeks. Steady state ustekinumab concentration was achieved by the start of the second maintenance dose. In patients with Crohn's disease, median steady-state trough concentrations ranged from 1.97 μg/mL to 2.24 μg/mL and from 0.61 μg/mL to 0.76 μg/mL for 90 mg ustekinumab every 8 weeks or every 12 weeks respectively. The steady-state trough ustekinumab levels resulting from 90 mg ustekinumab every 8 weeks were associated with higher clinical remission rates as compared to the steady-state trough levels following 90 mg every 12 weeks.
 
@@ -2429,6 +2187,8 @@ In patients with Crohn's disease, following an intravenous dose of ~6 mg/kg, sta
 In a population pharmacokinetic analysis using data from patients with psoriasis, body weight was found to be the most significant covariate affecting the clearance of ustekinumab. The median CL/F in patients with weight &gt; 100 kg was approximately 55% higher compared to patients with weight ≤ 100 kg. The median V/F in patients with weight &gt; 100 kg was approximately 37% higher as compared to patients with weight ≤ 100 kg. The median trough serum concentrations of ustekinumab in patients with higher weight (&gt; 100 kg) in the 90 mg group were comparable to those in patients with lower weight (≤ 100 kg) in the 45 mg group. Similar results were obtained from a confirmatory population pharmacokinetic analysis using data from patients with psoriatic arthritis.
 
 ## Dosing frequency adjustment
+
+<div style=\"page-break-after: always\"></div>
 
 In patients with Crohn's disease, based on observed data and population PK analyses, randomised subjects who lost response to treatment had lower serum ustekinumab concentrations over time compared with subjects who did not lose response. In Crohn's disease, dose adjustment from 90 mg every 12 weeks to 90 mg every 8 weeks was associated with an increase in trough serum ustekinumab concentrations and an accompanying increase in efficacy.
 
@@ -2444,13 +2204,7 @@ In the population pharmacokinetic analysis, there were no indications of an effe
 
 The bioavailability of ustekinumab following administration by syringe or pre-filled pen was comparable.
 
-Serum ustekinumab concentrations in paediatric psoriasis patients 6 to 17 years of age, treated with the recommended weight-based dose were generally comparable to those in the adult psoriasis population treated with the adult dose. Serum ustekinumab concentrations in paediatric psoriasis patients 1217 years of age (CADMUS) treated with half of the recommended weight-based dose were generally
-
-<div style=\"page-break-after: always\"></div>
-
-lower than those in adults.
-
-The steadystate serum concentrations in paediatric patients with Crohn's disease weighing at least 40 kg were comparable to those in the adult Crohn's disease population.
+The pre-filled pen has not been studied in the paediatric population and is not recommended for use by paediatric patients.
 
 ## Regulation of CYP450 enzymes
 
@@ -2466,6 +2220,8 @@ Dose levels in animal studies were up to approximately 45-fold higher than the h
 
 Carcinogenicity studies were not performed with ustekinumab due to the lack of appropriate models for an antibody with no cross-reactivity to rodent IL-12/23 p40.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 6. PHARMACEUTICAL PARTICULARS
 
 ## 6.1 List of excipients
@@ -2478,13 +2234,9 @@ In the absence of compatibility studies, this medicinal product must not be mixe
 
 ## 6.3 Shelf life
 
-Otulfi 45 mg solution for injection in pre-filled pen 18 months
+Otulfi 45 mg solution for injection in pre-filled pen 2 years
 
-Otulfi 90 mg solution for injection in pre-filled pen
-
-<div style=\"page-break-after: always\"></div>
-
-## 18 months
+Otulfi 90 mg solution for injection in pre-filled pen 2 years
 
 Individual pre-filled pens may be stored at room temperature up to 30 °C for a maximum single period of up to 30 days in the original carton in order to protect from light. Record the date when the prefilled pen is first removed from the refrigerator in the space provided on the outer carton. At any time before the end of this period the product can be put back in the refrigerator once and kept there until the expiry date. Discard the pre-filled pen if not used after the maximum period of 30 days at room temperature storage or by the original expiry date, whichever is earlier.
 
@@ -2496,9 +2248,7 @@ Store in a refrigerator (2 °C -8 °C). Do not freeze. Keep the pre-filled pen i
 
 ## Otulfi 45 mg solution for injection in pre-filled pen
 
-0.5 mL solution in a type I glass 1 mL pre-filled syringe with a fixed stainless steel 29G Thin-Wall, ½ inch needle, a latex-free needle cover and a bromobutyl rubber plunger assembled into a pre-filled pen.
-
-stopper
+0.5 mL solution in a type I glass 1 mL pre-filled syringe with a fixed stainless steel 29G Thin-Wall, ½ inch needle, a latex-free needle cover and a bromobutyl rubber plunger stopper assembled into a prefilled pen.
 
 ## Otulfi 90 mg solution for injection in pre-filled pen
 
@@ -2510,7 +2260,9 @@ Otulfi is available in a pack of 1 pre-filled pen.
 
 The solution in the Otulfi  pre-filled pen should not be shaken. The solution should be visually inspected for particulate matter or discolouration prior to subcutaneous administration. The solution is clear to slightly opalescent, colourless to light brown-yellow and may contain a few small translucent or white particles of protein. This appearance is not unusual for proteinaceous solutions. The medicinal product should not be used if the solution is discoloured or cloudy, or if foreign particulate matter is present. Before administration, Otulfi should be allowed to reach room temperature (approximately 45 minutes. Detailed instructions for use are provided in the package leaflet.
 
-Otulfi does not contain preservatives; therefore any unused medicinal product remaining in the prefilled pen should not be used. Otulfi is supplied as a sterile solution in a single-use pre-filled pen. Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
+<div style=\"page-break-after: always\"></div>
+
+Otulfi does not contain preservatives; therefore any unused medicinal product remaining in the prefilled pen should not be used. Otulfi is supplied as a sterile solution in a single-use pre-filled pen. The pre-filled pen must never be re-used. Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
@@ -2518,11 +2270,7 @@ Fresenius Kabi Deutschland GmbH Else-Kroener-Strasse 1 61352 Bad Homburg v.d.Hoe
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-<div style=\"page-break-after: always\"></div>
-
-Otulfi 45 mg solution for injection in pre-filled pen EU/1/24/1863/005
-
-Otulfi 90 mg solution for injection in pre-filled pen EU/1/24/1863/006
+Otulfi 45 mg solution for injection in pre-filled pen EU/1/24/1863/005 Otulfi 90 mg solution for injection in pre-filled pen EU/1/24/1863/006
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -2660,7 +2408,7 @@ Lot
 
 Justification for not including in Braille accepted.
 
-## 17. UNIQUE IDENTIFIER -2D BARCODE
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -2707,7 +2455,9 @@ VIAL CARTON TEXT (45 mg)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Otulfi 45 mg solution for injection ustekinumab
+Otulfi 45 mg solution for injection
+
+ustekinumab
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -2787,25 +2537,30 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
+| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
+|------------------------------------------------------------------|
+| VIAL LABEL TEXT (45 mg)                                          |
 
-## VIAL LABEL TEXT (45 mg)
-
-## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
+| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|-------------------------------------------------------------|
 
 Otulfi 45 mg solution for injection ustekinumab SC
 
-## 2. METHOD OF ADMINISTRATION
+| 2.   | METHODOFADMINISTRATION   |
+|------|--------------------------|
 
-## 3. EXPIRY DATE
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-## 4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
-## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
+| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
+|------|---------------------------------------|
 
 45 mg/0.5 mL
 
@@ -2880,7 +2635,7 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -2984,7 +2739,7 @@ Can be stored at room temperature (up to 30 °C) for a single period up to 30 da
 
 <div style=\"page-break-after: always\"></div>
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -2999,20 +2754,21 @@ EU/1/24/1863/002
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
-
 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
 Otulfi 90 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+## 18. UNIQUE IDENTIFIER -HUMAN READABLE DATA
 
-PC SN
+PC
+
+SN
 
 NN
 
@@ -3128,19 +2884,18 @@ Otulfi 45 mg
 
 ## 18. UNIQUE IDENTIFIER -HUMAN READABLE DATA
 
-PC
-
-SN
+PC SN
 
 NN
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
+| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
+|------------------------------------------------------------------|
+| PRE-FILLED PEN LABEL TEXT (45 mg)                                |
 
-## PRE-FILLED PEN LABEL TEXT (45 mg)
-
-## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
+| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|-------------------------------------------------------------|
 
 Otulfi 45 mg injection ustekinumab SC
 
@@ -3249,7 +3004,9 @@ Otulfi 90 mg
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC SN
+PC
+
+SN
 
 NN
 
@@ -3295,9 +3052,7 @@ Lot
 
 ## Package leaflet: Information for the user
 
-## Otulfi 130 mg concentrate for solution for infusion
-
-## ustekinumab
+## Otulfi 130 mg concentrate for solution for infusion ustekinumab
 
 This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
 
@@ -3594,13 +3349,11 @@ Fresenius Kabi Austria GmbH Hafnerstraße 36 8055 Graz
 
 Austria
 
-This leaflet was last revised in
+## This leaflet was last revised in
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu
 
 <div style=\"page-break-after: always\"></div>
-
-The following information is intended for healthcare professionals only:
 
 ## Traceability:
 
@@ -3621,6 +3374,8 @@ Otulfi concentrate for solution for infusion must be diluted, prepared and infus
 ## Storage
 
 If necessary, the diluted infusion solution should be stored at room temperature. The infusion should be completed within 24 hours of the dilution in the infusion bag. Do not freeze.
+
+The following information is intended for healthcare professionals only:
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3804,11 +3559,9 @@ Talk to your doctor if you have any questions about giving yourself an injection
 
 ## If you use more Otulfi than you should
 
-If you have used or been given too much Otulfi, talk to a doctor or pharmacist straight away. Always
+If you have used or been given too much Otulfi, talk to a doctor or pharmacist straight away. Always have the outer carton of the medicine with you, even if it is empty.
 
 <div style=\"page-break-after: always\"></div>
-
-have the outer carton of the medicine with you, even if it is empty.
 
 ## If you forget to use Otulfi
 
@@ -4193,11 +3946,9 @@ Otulfi has no or negligible influence on the ability to drive and use machines.
 
 ## Otulfi contains polysorbate 80 (E 433)
 
-This medicine contains 0.02 mg of polysorbate 80 in each pre-filled syringe of 0.5 ml which is
+This medicine contains 0.02 mg of polysorbate 80 in each pre-filled syringe of 0.5 ml which is equivalent to 0.04 mg/ml. Polysorbates may cause allergic reactions. Tell your doctor if you have any known allergies.
 
 <div style=\"page-break-after: always\"></div>
-
-equivalent to 0.04 mg/ml. Polysorbates may cause allergic reactions. Tell your doctor if you have any known allergies.
 
 ## 3. How to use Otulfi
 
@@ -4647,11 +4398,9 @@ Otulfi has no or negligible influence on the ability to drive and use machines.
 
 ## Otulfi contains polysorbate 80 (E 433)
 
-This medicine contains 0.04 mg of polysorbate 80 in each pre-filled syringe of 1 ml which is equivalent to 0.04 mg/ml. Polysorbates may cause allergic reactions. Tell your doctor if you have
+This medicine contains 0.04 mg of polysorbate 80 in each pre-filled syringe of 1 ml which is equivalent to 0.04 mg/ml. Polysorbates may cause allergic reactions. Tell your doctor if you have any known allergies.
 
 <div style=\"page-break-after: always\"></div>
-
-any known allergies.
 
 ## 3. How to use Otulfi
 
@@ -4882,11 +4631,9 @@ Figure 1
 - the solution in the pre-filled syringe is not discoloured or cloudy and does not contain any foreign particles
 - the solution in the pre-filled syringe is not frozen.
 
-Get everything together that you need and lay out on a clean surface. This includes antiseptic wipes, a
+Get everything together that you need and lay out on a clean surface. This includes antiseptic wipes, a cotton ball or gauze, and a sharps container.
 
 <div style=\"page-break-after: always\"></div>
-
-cotton ball or gauze, and a sharps container.
 
 ## 2. Choose and prepare the injection site:
 
@@ -4979,7 +4726,7 @@ This medicine is subject to additional monitoring. This will allow quick identif
 
 Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
-This leaflet has been written for the person taking the medicine. If you are the parent or caregiver who will give Otulfi to a child, please read this information carefully.
+## This leaflet has been written for the person taking the medicine.
 
 - -Keep this leaflet. You may need to read it again.
 - -If you have any further questions, ask your doctor or pharmacist.
@@ -5005,27 +4752,26 @@ Otulfi belongs to a group of medicines called 'immunosuppressants'. These medici
 
 ## What Otulfi is used for
 
-Otulfi is used to treat the following inflammatory diseases:
+Otulfi administered using pre-filled pen is used to treat the following inflammatory diseases:
 
-- Plaque psoriasis - in adults and children aged 6 years and older who weigh 60 kg or more
+- Plaque psoriasis - in adults
 - Psoriatic arthritis - in adults
-- Moderate to severe Crohn's disease - in adults and children who weigh at least 40 kg
+- Moderate to severe Crohn's disease - in adults
 
 ## Plaque psoriasis
 
 Plaque psoriasis is a skin condition that causes inflammation affecting the skin and nails. Otulfi will reduce the inflammation and other signs of the disease.
 
-Otulfi is used in adults with moderate to severe plaque psoriasis, who cannot use ciclosporin, methotrexate or phototherapy, or where these treatments did not work.
-
-Otulfi is used in children and adolescents aged 6 years and older and weighing 60 kg or more with moderate to severe plaque psoriasis who are unable to tolerate phototherapy or other systemic therapies or where these treatments did not work.
-
-<div style=\"page-break-after: always\"></div>
+Otulfi administered using pre-filled pen is used in adults with moderate to severe plaque psoriasis, who cannot use ciclosporin, methotrexate or phototherapy, or where these treatments did not work.
 
 ## Psoriatic arthritis
 
 Psoriatic arthritis is an inflammatory disease of the joints, usually accompanied by psoriasis. If you have active psoriatic arthritis you will first be given other medicines. If you do not respond well enough to these medicines, you may be given Otulfi to:
 
 - Reduce the signs and symptoms of your disease.
+
+<div style=\"page-break-after: always\"></div>
+
 - Improve your physical function.
 - Slow down the damage to your joints.
 
@@ -5062,11 +4808,11 @@ Otulfi can cause serious side effects, including allergic reactions and infectio
 - If you are having or have ever had injections to treat allergies -it is not known if Otulfi may affect these.
 - If you are 65 years of age or over -you may be more likely to get infections.
 
-<div style=\"page-break-after: always\"></div>
-
 If you are not sure if any of the above applies to you, talk to your doctor or pharmacist before using Otulfi.
 
 Some patients have experienced lupus-like reactions including skin lupus or lupus-like syndrome during treatment with ustekinumab. Talk to your doctor right away if you experience a red, raised, scaly rash sometimes with a darker border, in areas of the skin that are exposed to the sun or with joint pains.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Heart attack and strokes
 
@@ -5074,9 +4820,9 @@ Heart attack and strokes have been observed in a study in patients with psoriasi
 
 ## Children and adolescents
 
-Otulfi is not recommended for use in children and adolescents with psoriasis who weigh less than 60 kg.
+The Otulfi pre-filled pen is not recommended for use in children and adolescents under 18 years of age with psoriasis or Crohn's disease because it has not been studied in this age group. The pre-filled syringe or vial should be used instead for children 6 years of age and older and adolescents with psoriasis. The solution for infusion, pre-filled vial or syringe should be used instead for children weighing at least 40 kg with Crohn's disease.
 
-Otulfi is not recommended for use in children with psoriasis under 6 years of age, children with Crohn's disease who weigh less than 40 kg or for use in children under 18 years of age with psoriatic arthritis because it has not been studied in this age group.
+Otulfi is not recommended for use in children and adolescents under 18 years of age with psoriatic arthritis or children with Crohn's disease who weigh less than 40 kg because it has not been studied in this age group.
 
 ## Other medicines, vaccines and Otulfi
 
@@ -5099,11 +4845,11 @@ Tell your doctor or pharmacist:
 
 Otulfi has no or negligible influence on the ability to drive and use machines.
 
-Otulfi contains polysorbate 80 (E 433)
-
-<div style=\"page-break-after: always\"></div>
+## Otulfi contains polysorbate 80 (E 433)
 
 This medicine contains 0.02 mg of polysorbate 80 in each pre-filled pen of 0.5 ml which is equivalent to 0.04 mg/ml. Polysorbates may cause allergic reactions. Tell your doctor if you have any known allergies.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 3. How to use Otulfi
 
@@ -5115,9 +4861,7 @@ Always use this medicine exactly as your doctor has told you. Check with your do
 
 Your doctor will decide how much Otulfi you need to use and for how long.
 
-## Adults aged 18 years or older
-
-## Psoriasis or Psoriatic Arthritis
+## Adults aged 18 years or older Psoriasis or Psoriatic Arthritis
 
 - The recommended starting dose is 45 mg Otulfi. Patients who weigh more than 100 kilograms (kg) may start on a dose of 90 mg instead of 45 mg.
 - After the starting dose, you will have the next dose 4 weeks later, and then every 12 weeks. The following doses are usually the same as the starting dose.
@@ -5127,30 +4871,10 @@ Your doctor will decide how much Otulfi you need to use and for how long.
 - During treatment, the first dose of approximately 6 mg/kg Otulfi will be given by your doctor through a drip in a vein in your arm (intravenous infusion). After the starting dose, you will receive the next dose of 90 mg Otulfi after 8 weeks, then every 12 weeks thereafter by an injection under the skin ('subcutaneously').
 - In some patients, after the first injection under the skin, 90 mg Otulfi may be given every 8 weeks. Your doctor will decide when you should receive your next dose.
 
-## Children and adolescents aged 6 years or older who weigh 60 kg or more Psoriasis
-
-- The doctor will work out the right dose for you, including the amount (volume) of Otulfi to be injected to give the right dose. The right dose for you will depend on your body weight at the time each dose is given.
-- If you weigh less than 60 kg, there are other dosage forms for Otulfi for children below 60 kg body weight, therefore other ustekinumab products should be used
-- If you weigh 60 kg to 100 kg, the recommended dose is 45 mg Otulfi.
-- If you weigh more than 100 kg, the recommended dose is 90 mg Otulfi.
-- After the starting dose, you will have the next dose 4 weeks later, and then every 12  weeks.
-
-## Children who weigh at least 40 kg
-
-## Crohn's disease
-
-- During treatment, the first dose of approximately 6 mg/kg Otulfi will be given by your doctor through a drip in a vein in your arm (intravenous infusion). After the starting dose, you will receive the next dose of 90 mg Otulfi after 8 weeks, then every 12 weeks thereafter by an injection under the skin ('subcutaneously').
-- In some patients, after the first injection under the skin, 90 mg Otulfi may be given every 8 weeks. Your doctor will decide when you should receive your next dose.
-
 ## How Otulfi is given
 
 - Otulfi is given as an injection under the skin ('subcutaneously'). At the start of your treatment, medical or nursing staff may inject Otulfi.
-- However, you and your doctor may decide that you may inject Otulfi yourself. In this case you will get training on how to inject Otulfi yourself. In children 6 years and older, it is recommended that Otulfi be administered by a healthcare provider or a caregiver after proper training. Children 12 years and older may use the Otulfi pre-filled pen under the supervision of
-
-<div style=\"page-break-after: always\"></div>
-
-an adult.
-
+- However, you and your doctor may decide that you may inject Otulfi yourself. In this case you will get training on how to inject Otulfi yourself
 - For instructions on how to inject Otulfi, see 'Instructions for administration' at the end of this leaflet.
 
 Talk to your doctor if you have any questions about giving yourself an injection.
@@ -5172,6 +4896,8 @@ It is not dangerous to stop using Otulfi. However, if you stop, your symptoms ma
 Like all medicines, this medicine can cause side effects, although not everybody gets them.
 
 ## Serious side effects
+
+<div style=\"page-break-after: always\"></div>
 
 Some patients may have serious side effects that may need urgent treatment.
 
@@ -5199,9 +4925,6 @@ Otulfi may make you less able to fight infections. Some infections could become 
 You must look out for signs of infection while you are using Otulfi. These include:
 
 - fever, flu-like symptoms, night sweats, weight loss
-
-<div style=\"page-break-after: always\"></div>
-
 - feeling tired or short of breath; cough which will not go away
 - warm, red and painful skin, or a painful skin rash with blisters
 - burning when passing water
@@ -5219,6 +4942,9 @@ Shedding of skin -increase in redness and shedding of skin over a larger area of
 
 - Diarrhoea
 - Nausea
+
+<div style=\"page-break-after: always\"></div>
+
 - Vomiting
 - Feeling tired
 - Feeling dizzy
@@ -5250,9 +4976,6 @@ Shedding of skin -increase in redness and shedding of skin over a larger area of
 ## Very rare side effects (may affect up to 1 in 10,000 people)
 
 - Blistering of the skin that may be red, itchy, and painful (Bullous pemphigoid).
-
-<div style=\"page-break-after: always\"></div>
-
 - Skin lupus or lupus-like syndrome (red, raised scaly rash on areas of the skin exposed to the sun possibly with joint pains).
 
 ## Reporting of side effects
@@ -5265,6 +4988,9 @@ If you get any side effects, talk to your doctor or pharmacist. This includes an
 - Store in a refrigerator (2 °C -8 °C). Do not freeze.
 - Keep the pre-filled pen in the outer carton in order to protect from light.
 - If needed, individual Otulfi pre-filled pens may also be stored at room temperature up to 30 °C for a maximum single period of up to 30 days in the original carton in order to protect from light. Record the date when the pre-filled pen is first removed from the refrigerator in the space provided on the outer carton. At any time before the end of this period, the product can be put back in the refrigerator once and kept there until the expiry date. Discard the pre-filled pen if not used within 30 days at room temperature storage or by the original expiry date, whichever is earlier.
+
+<div style=\"page-break-after: always\"></div>
+
 - Do not shake Otulfi pre-filled pens. Prolonged vigorous shaking may damage the medicine.
 
 ## Do not use this medicine:
@@ -5285,15 +5011,15 @@ Otulfi is for single use only. Any unused product remaining in the pen should be
 
 ## What Otulfi looks like and contents of the pack
 
-Otulfi is a clear, colourless to slightly brown-yellow solution for injection. It is supplied as a carton pack containing 1 single-dose, glass 1 mL pre-filled pen Each pre-filled pen contains 45 mg ustekinumab in 0.5 mL of solution for injection.
+Otulfi is a clear, colourless to slightly brown-yellow solution for injection. It is supplied as a carton pack containing 1 single-dose, glass 1 mL pre-filled pen. Each pre-filled pen contains 45 mg ustekinumab in 0.5 mL of solution for injection.
 
 ## Marketing Authorisation Holder
 
 Fresenius Kabi Deutschland GmbH Else-Kroener-Strasse 1 61352 Bad Homburg v.d.Hoehe Germany
 
-<div style=\"page-break-after: always\"></div>
+## Manufacturer
 
-Manufacturer Fresenius Kabi Austria GmbH Hafnerstraße 36 8055 Graz Austria
+Fresenius Kabi Austria GmbH Hafnerstraße 36 8055 Graz Austria
 
 ## This leaflet was last revised in
 
@@ -5307,18 +5033,17 @@ Detailed information on this medicine is available on the European Medicines Age
 
 45 mg solution for injection in pre-filled pen
 
-This lnstructions for Use contains information on how to inject OTULFI using the 45 mg/0.5 mL single dose pre-filled pen (OTULFI pre-filled pen).
+This 'Instructions for Use' contains information on how to inject OTULFI using the 45 mg/0.5 mL single dose pre-filled pen (OTULFI pre-filled pen).
 
 Read and follow the Instructions for Use that come with your OTULFI pre-filled pen before you start using it and each time you get a refill. There may be new information. This information does not replace talking to your doctor or pharmacist about your medical condition or treatment.
 
 If you have any questions about using your OTULFI pre-filled pen, please call your doctor or pharmacist.
 
-## Important information you need to know before injecting OTULFI
+## IMPORTANT INFORMATION YOU NEED TO KNOW BEFORE INJECTING OTULFI
 
 - Read the package leaflet that comes with your OTULFI pre-filled pen for important information you need to know before using it.
 - For subcutaneous injection only (inject directly under the skin).
 - If your doctor decides that you or a caregiver can give your OTULFI injection at home, you should receive training on the right way to prepare and inject OTULFI. Do not try  to  inject  OTULFI yourself until you have been shown the right way to give the injections by your doctor or nurse.
-- Children 12 years of age and older with psoriasis who weigh 60 kg or more and children 12 years of age and older with Crohn ' s disease who weigh 40 kg or more may use the OTULFI pre-filled pen under supervision of a parent or caregiver.
 - Do not reuse the OTULFI pre-filled pen. The OTULFI pre-filled pen is for single-dose (one-time) use only.
 - Do not share your OTULFI pre-filled pen with another person. You may give another person an infection or get an infection from them.
 - Do not remove the clear cap from the OTULFI pre-filled pen until you are ready to inject OTULFI.
@@ -5336,11 +5061,10 @@ If you have any questions about using your OTULFI pre-filled pen, please call yo
 - -Do not use the OTULFI pre-filled pen if it has been shaken.
 - OTULFI pre-filled pen may be stored at room temperature up to 30°C in the original carton for up to 30 days.
 - o Do not use OTULFI pre-filled pen if it has been out of the refrigerator for more than 30 days.
-- -At any time before the end of this period, OTULFI pre-filled pen can be put back in the refrigerator once and kept there until the expiry date. Discard the pre-filled pen if not used after the maximum period of 30 days at room temperature storage or by the original expiry date, whichever is earlier
+- -At any time before the end of this period, OTULFI pre-filled pen can be put back in the refrigerator once and kept there until the expiry date. Discard the pre-filled pen if not used after the maximum period of 30 days at room temperature storage or by the original expiry date, whichever is earlier.
+- When traveling on an airplane,  always  store  OTULFI  pre-filled  pen  in  your  carry-on  luggage because the airplane luggage area can be very cold and OTULFI could freeze.
 
 <div style=\"page-break-after: always\"></div>
-
-- When traveling on an airplane,  always  store  OTULFI  pre-filled  pen  in  your  carry-on  luggage because the airplane luggage area can be very cold and OTULFI could freeze.
 
 ## Your OTULFI pre-filled pen
 
@@ -5409,7 +5133,7 @@ Note: It is normal to see the purple indicator partially visible in the viewing 
 Do not use if the OTULFI pre-filled pen shows signs of damage or if it has been dropped.
 
 - Check the OTULFI pre-filled pen label to make sure that:
-- -The name on the pre-filled pen says OTULFI
+- -The name on the pre-filled pen says OTULFI.
 - -The dose on the OTULFI pre-filled pen is what you are prescribed.
 - -The  expiration  date  (EXP)  on  the  OTULFI  prefilled pen has not passed (see Figure E ).
 
@@ -5475,7 +5199,9 @@ Figure I
 
 ## Step 6 Give your injection
 
-When you are ready to inject, position the OTULFI pre-filled pen in your hand so you can clearly see the viewing window Using  your  other  hand,  firmly  pull  the  clear  cap  straight  off without twisting (see Figure J ).
+When you are ready to inject, position the OTULFI pre-filled pen in your hand so you can clearly see the viewing window
+
+Using  your  other  hand,  firmly  pull  the  clear  cap  straight  off without twisting (see Figure J ).
 
 Note: A few drops of medicine may come out of the needle, this is normal.
 
@@ -5485,9 +5211,9 @@ Do not try to put the clear cap back on the OTULFI pre-filled pen at any time, e
 
 Do not touch the needle cover (the purple-coloured part located at the tip of the OTULFI pre-filled pen) because this might cause an accidental needle stick.
 
-- Throw away the clear cap in a sharps disposal container (see Step 9).
+- Throw away the clear cap in a sharps disposal container (see Step 9 ).
 
-Read all of the remaining instructions in Step 6 before you start injecting to make sure you give the full dose.
+## Read all of the remaining instructions in Step 6 before you start injecting to make sure you give the full dose.
 
 - Place the purple needle cover of the OTULFI pre-filled pen straight against your skin at a 90-degree angle. Make sure that you can see the viewing window (see Figure K ).
 
@@ -5556,12 +5282,12 @@ Figure Q
 
 ## If you receive two 45 mg OTULFI pre-filled pens for a 90 mg dose, give the second injection right after the first.
 
-- Repeat Steps 1 through 7 with the second OTULFI pre- filled pen.
+- Repeat Steps 1 through 7 with the second OTULFI pre-filled pen.
 - Choose two different sites for these injections (for example one injection in the right thigh and the other injection in the left thigh) and give the injections one right after the other.
 
 ## Step 9 Throwing away (disposing of) your OTULFI prefilled pen
 
-Used OTULFI pen and clear cap should be placed in a punctureresistant container, like a sharps container right away after use (see Figure R ).
+Used OTULFI pre-filled pen and clear cap should be placed in a  puncture-resistant  container,  like  a  sharps  container  right away after use (see Figure R ).
 
 Do not put the clear cap back on the OTULFI pre-filled pen.
 
@@ -5579,9 +5305,9 @@ Figure R
 
 <!-- image -->
 
-## Package leaflet: Information for the user
-
 <div style=\"page-break-after: always\"></div>
+
+## Package leaflet: Information for the user
 
 ## Otulfi 90 mg solution for injection in pre-filled pen
 
@@ -5591,7 +5317,7 @@ This medicine is subject to additional monitoring. This will allow quick identif
 
 Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
-This leaflet has been written for the person taking the medicine. If you are the parent or caregiver who will give Otulfi to a child, please read this information carefully.
+## This leaflet has been written for the person taking the medicine.
 
 - -Keep this leaflet. You may need to read it again.
 - -If you have any further questions, ask your doctor or pharmacist.
@@ -5617,27 +5343,26 @@ Otulfi belongs to a group of medicines called 'immunosuppressants'. These medici
 
 ## What Otulfi is used for
 
-Otulfi is used to treat the following inflammatory diseases:
+Otulfi administered using pre-filled pen is used to treat the following inflammatory diseases:
 
-- Plaque psoriasis - in adults and children aged 6 years and older who weigh 60 kg or more
+- Plaque psoriasis - in adults
 - Psoriatic arthritis - in adults
-- Moderate to severe Crohn's disease - in adults and children who weigh at least 40 kg
+- Moderate to severe Crohn's disease - in adults
 
 ## Plaque psoriasis
 
 Plaque psoriasis is a skin condition that causes inflammation affecting the skin and nails. Otulfi will reduce the inflammation and other signs of the disease.
 
-Otulfi is used in adults with moderate to severe plaque psoriasis, who cannot use ciclosporin, methotrexate or phototherapy, or where these treatments did not work.
-
-Otulfi is used in children and adolescents aged 6 years and older who weigh 60 kg or more with moderate to severe plaque psoriasis who are unable to tolerate phototherapy or other systemic therapies or where these treatments did not work.
-
-<div style=\"page-break-after: always\"></div>
+Otulfi administered using pre-filled pen is used in adults with moderate to severe plaque psoriasis, who cannot use ciclosporin, methotrexate or phototherapy, or where these treatments did not work.
 
 ## Psoriatic arthritis
 
 Psoriatic arthritis is an inflammatory disease of the joints, usually accompanied by psoriasis. If you have active psoriatic arthritis you will first be given other medicines. If you do not respond well enough to these medicines, you may be given Otulfi to:
 
 - Reduce the signs and symptoms of your disease.
+
+<div style=\"page-break-after: always\"></div>
+
 - Improve your physical function.
 - Slow down the damage to your joints.
 
@@ -5674,11 +5399,11 @@ Otulfi can cause serious side effects, including allergic reactions and infectio
 - If you are having or have ever had injections to treat allergies -it is not known if Otulfi may affect these.
 - If you are 65 years of age or over -you may be more likely to get infections .
 
-<div style=\"page-break-after: always\"></div>
-
 If you are not sure if any of the above applies to you, talk to your doctor or pharmacist before using Otulfi.
 
 Some patients have experienced lupus-like reactions including skin lupus or lupus-like syndrome during treatment with ustekinumab. Talk to your doctor right away if you experience a red, raised, scaly rash sometimes with a darker border, in areas of the skin that are exposed to the sun or with joint pains.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Heart attack and strokes
 
@@ -5686,7 +5411,9 @@ Heart attack and strokes have been observed in a study in patients with psoriasi
 
 ## Children and adolescents
 
-Otulfi is not recommended for use in children and adolescents who weigh less than 60 kg. Otulfi is not recommended for use in children with psoriasis under 6 years of age, children with Crohn's disease who weigh less than 40 kg or for use in children under 18 years of age with psoriatic arthritis because it has not been studied in this age group.
+The Otulfi pre-filled pen is not recommended for use in children and adolescents under 18 years of age with psoriasis or Crohn's disease because it has not been studied in this age group. The pre-filled syringe or vial should be used instead for children 6 years of age and older and adolescents with psoriasis. The solution for infusion, pre-filled vial or syringe should be used instead for children weighing at least 40 kg with Crohn's disease.
+
+Otulfi is not recommended for use in children and adolescents under 18 years of age with psoriatic arthritis, or children with Crohn's disease who weigh less than 40 kg because it has not been studied in this age group.
 
 ## Other medicines, vaccines and Otulfi
 
@@ -5711,11 +5438,9 @@ Otulfi has no or negligible influence on the ability to drive and use machines.
 
 ## Otulfi contains polysorbate 80 (E 433)
 
-This medicine contains 0.04 mg of polysorbate 80 in each pre-filled pen of 1 ml which is
+This medicine contains 0.04 mg of polysorbate 80 in each pre-filled pen of 1 ml which is equivalent to 0.04 mg/ml. Polysorbates may cause allergic reactions. Tell your doctor if you have any known allergies.
 
 <div style=\"page-break-after: always\"></div>
-
-equivalent to 0.04 mg/ml. Polysorbates may cause allergic reactions. Tell your doctor if you have any known allergies.
 
 ## 3. How to use Otulfi
 
@@ -5739,27 +5464,10 @@ Your doctor will decide how much Otulfi you need to use and for how long.
 - During treatment, the first dose of approximately 6 mg/kg Otulfi will be given by your doctor through a drip in a vein in your arm (intravenous infusion). After the starting dose, you will receive the next dose of 90 mg Otulfi after 8 weeks, then every 12 weeks thereafter by an injection under the skin ('subcutaneously').
 - In some patients, after the first injection under the skin, 90 mg Otulfi may be given every 8 weeks. Your doctor will decide when you should receive your next dose.
 
-## Children and adolescents aged 6 years or older who weigh 60 kg or more Psoriasis
-
-- The doctor will work out the right dose for you, including the amount (volume) of Otulfi to be injected to give the right dose. The right dose for you will depend on your body weight at the time each dose is given.
-- If you weigh less than 60 kg, there are other dosage forms for Otulfi for children below 60 kg body weight, therefore other ustekinumab products should be usedIf you weigh 60 kg to 100 kg, the recommended dose is 45 mg Otulfi.
-- If you weigh more than 100 kg, the recommended dose is 90 mg Otulfi.
-- After the starting dose, you will have the next dose 4 weeks later, and then every 12  weeks.
-
-## Children who weigh at least 40 kg Crohn's disease
-
-- During treatment, the first dose of approximately 6 mg/kg Otulfi will be given by your doctor through a drip in a vein in your arm (intravenous infusion). After the starting dose, you will receive the next dose of 90 mg Otulfi after 8 weeks, then every 12 weeks thereafter by an injection under the skin ('subcutaneously').
-- In some patients, after the first injection under the skin, 90 mg Otulfi may be given every 8 weeks. Your doctor will decide when you should receive your next dose.
-
 ## How Otulfi is given
 
 - Otulfi is given as an injection under the skin ('subcutaneously'). At the start of your treatment, medical or nursing staff may inject Otulfi.
-- However, you and your doctor may decide that you may inject Otulfi yourself. In this case you will get training on how to inject Otulfi yourself. In children 6 years and older, it is recommended that Otulfi be administered by a healthcare provider or a caregiver after proper training. Children 12 years and older may use the Otulfi pre-filled pen under the supervision of
-
-<div style=\"page-break-after: always\"></div>
-
-an adult
-
+- However, you and your doctor may decide that you may inject Otulfi yourself. In this case you will get training on how to inject Otulfi yourself.
 - For instructions on how to inject Otulfi, see 'Instructions for administration' at the end of this leaflet.
 
 Talk to your doctor if you have any questions about giving yourself an injection.
@@ -5781,6 +5489,8 @@ It is not dangerous to stop using Otulfi. However, if you stop, your symptoms ma
 Like all medicines, this medicine can cause side effects, although not everybody gets them.
 
 ## Serious side effects
+
+<div style=\"page-break-after: always\"></div>
 
 Some patients may have serious side effects that may need urgent treatment.
 
@@ -5807,8 +5517,6 @@ Otulfi may make you less able to fight infections. Some infections could become 
 
 You must look out for signs of infection while you are using Otulfi. These include:
 
-<div style=\"page-break-after: always\"></div>
-
 - fever, flu-like symptoms, night sweats, weight loss
 - feeling tired or short of breath; cough which will not go away
 - warm, red and painful skin, or a painful skin rash with blisters
@@ -5827,6 +5535,9 @@ Shedding of skin -increase in redness and shedding of skin over a larger area of
 
 - Diarrhoea
 - Nausea
+
+<div style=\"page-break-after: always\"></div>
+
 - Vomiting
 - Feeling tired
 - Feeling dizzy
@@ -5857,8 +5568,6 @@ Shedding of skin -increase in redness and shedding of skin over a larger area of
 
 ## Very rare side effects (may affect up to 1 in 10,000 people)
 
-<div style=\"page-break-after: always\"></div>
-
 - Blistering of the skin that may be red, itchy, and painful (Bullous pemphigoid).
 - Skin lupus or lupus-like syndrome (red, raised scaly rash on areas of the skin exposed to the sun possibly with joint pains).
 
@@ -5873,6 +5582,8 @@ If you get any side effects, talk to your doctor or pharmacist. This includes an
 - Keep the pre-filled pen in the outer carton in order to protect from light.
 - If needed, individual Otulfi pre-filled pen may also be stored at room temperature up to 30 °C for a maximum single period of up to 30 days in the original carton in order to protect from light. Record the date when the pre-filled pen is first removed from the refrigerator in the space provided on the outer carton. At any time before the end of this period the product can be put back in the refrigerator once and kept there until the expiry date. Discard the pen if not used within 30 days at room temperature storage or by the original expiry date, whichever is earlier.
 - Do not shake Otulfi pre-filled pen. Prolonged vigorous shaking may damage the medicine.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Do not use this medicine:
 
@@ -5898,9 +5609,11 @@ Otulfi is a clear, colourless to slightly brown-yellow solution for injection. I
 
 Fresenius Kabi Deutschland GmbH Else-Kroener-Strasse 1 61352 Bad Homburg v.d.Hoehe Germany
 
-<div style=\"page-break-after: always\"></div>
+## Manufacturer
 
-Manufacturer Fresenius Kabi Austria GmbH Hafnerstraße 36 8055 Graz Austria
+Fresenius Kabi Austria GmbH Hafnerstraße 36 8055 Graz
+
+Austria
 
 ## This leaflet was last revised in
 
@@ -5908,13 +5621,15 @@ Detailed information on this medicine is available on the European Medicines Age
 
 <div style=\"page-break-after: always\"></div>
 
-## Instructions for use OTULFI
+## Instructions for use
+
+## OTULFI
 
 ## (ustekinumab)
 
 ## 90 mg solution for injection in pre-filled pen
 
-This lnstructions for Use contains information on how to inject OTULFI using the 90 mg/1 mL single dose pre-filled pen (OTULFI pre-filled pen).
+This 'Instructions for Use' contains information on how to inject OTULFI using the 90 mg/1 mL single dose pre-filled pen (OTULFI pre-filled pen).
 
 Read and follow the Instructions for Use that come with your OTULFI pre-filled pen before you start using it and each time you get a refill. There may be new information. This information does not replace talking to your doctor or pharmacist about your medical condition or treatment.
 
@@ -5925,7 +5640,6 @@ If you have any questions about using your OTULFI pre-filled pen, please call yo
 - Read the package leaflet that comes with your OTULFI pre-filled pen for important information you need to know before using it.
 - For subcutaneous injection only (inject directly under the skin).
 - If your doctor decides that you or a caregiver can give your OTULFI injection at home, you should receive training on the right way to prepare and inject OTULFI. Do not try  to  inject  OTULFI yourself until you have been shown the right way to give the injections by your doctor or nurse.
-- Children 12 years of age and older with psoriasis who weigh 60 kg or more and children 12 years of age and older with Crohn 's disease who weigh 40 kg or more may use the OTULFI pre-filled pen under supervision of a parent or caregiver.
 - Do not reuse the OTULFI pre-filled pen. The OTULFI pre-filled pen is for single-dose (one-time) use only.
 - Do not share your OTULFI pre-filled pen with another person. You may give another person an infection or get an infection from them.
 - Do not remove the clear cap from the OTULFI pre-filled pen until you are ready to inject OTULFI.
@@ -5943,11 +5657,10 @@ If you have any questions about using your OTULFI pre-filled pen, please call yo
 - -Do not use the OTULFI pre-filled pen if it has been shaken.
 - OTULFI pre-filled pen may be stored at room temperature up to 30°C in the original carton for up to 30 days.
 - -Do not use OTULFI pre-filled pen if it has been out of the refrigerator for more than 30 days.
-
-<div style=\"page-break-after: always\"></div>
-
 - -At any time before the end of this period, OTULFI pre-filled pen can be put back in the refrigerator once and kept there until the expiry date. Discard the pre-filled pen if not used after the maximum period of 30 days at room temperature storage or by the original expiry date, whichever is earlier.
 - When traveling on an airplane,  always  store  OTULFI  pre-filled  pen  in  your  carry-on  luggage because the airplane luggage area can be very cold and OTULFI could freeze.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Your OTULFI pre-filled pen
 
@@ -5963,19 +5676,19 @@ If you have any questions about using your OTULFI pre-filled pen, please call yo
 
 ## Step 1 Preparing for your injection
 
-- Choose a clean, flat surface, such as a table or countertop, in a well-lit area.
-- Gather the following supplies (not included) (see Figure A ):
+- Choose  a  clean,  flat  surface,  such  as  a  table  or countertop, in a well-lit area.
+- Gather  the  following  supplies  (not  included)  (see Figure A ):
 - -a sterile cotton ball or gauze
 - -an alcohol pad
 - -a sharps disposal container (see Step 8)
-- Remove the carton containing the OTULFI pre-filled pen from the refrigerator.
-- Check the carton to make sure that it is the medicine and dose that you are prescribed.
-- Check  the  expiration  date  (EXP)  on  the  carton  to make sure the date has not passed (see Figure B ).
+- Remove  the  carton  containing  the  OTULFI  pre-filled pen from the refrigerator.
+- Check  the  carton  to  make  sure  that  it  is  the medicine and dose that you are prescribed.
+- Check the expiration date (EXP) on the carton to make sure the date has not passed (see Figure B ).
 - Check the carton for any signs of damage.
 
 Do not use the OTULFI pre-filled pen if it looks like the carton has been opened.
 
-- Let the carton sit on the chosen surface for 45 minutes before use to allow the medicine in the OTULFI prefilled pen to reach room temperature (see Figure C ).
+- Let  the  carton  sit  on  the  chosen  surface  for  45 minutes before use to allow the medicine in the OTULFI pre-filled pen to reach room temperature (see Figure C ).
 
 Do not warm OTULFI pre-filled pen in any other way, such as in a microwave, hot water, or direct sunlight.
 
@@ -5983,9 +5696,7 @@ Do not warm OTULFI pre-filled pen in any other way, such as in a microwave, hot 
 
 Do not remove the clear cap from the OTULFI pre-filled pen until you are ready to inject to avoid injury.
 
-## Step 2
-
-Check your OTULFI pre-filled pen
+## Step 2 Check your OTULFI pre-filled pen
 
 <!-- image -->
 
@@ -6001,24 +5712,22 @@ Figure C
 
 <div style=\"page-break-after: always\"></div>
 
-<!-- image -->
-
 - Check the OTULFI pre-filled pen to make sure it is not cracked or damaged (see Figure D ).
 
 Do not use if the OTULFI pre-filled pen shows signs of damage or if it has been dropped.
 
-- Check  the  OTULFI  pre-filled  pen  label  to  make sure that:
+- Check the OTULFI pre-filled pen label to make sure that:
 - -The name on the pre-filled pen says OTULFI
-- -The dose on the OTULFI pre-filled pen is what you are prescribed.
 - -The expiration date (EXP) on the OTULFI prefilled pen has not passed (see Figure E ).
+- -The  dose  on  the  OTULFI  pre-filled  pen  is what you are prescribed.
 
 Do not use the pre-filled pen if the name on the label is not OTULFI, the dose is not what you are prescribed, or the expiration date on the label has passed.
 
-- Look at the medicine in the viewing window. Make sure  it  is  clear  and  colourless  to  slightly  brownyellow  and  does  not  contain  any  particles  (see Figure F ).
+- Look  at  the  medicine  in  the  viewing  window. Make sure it is clear and colourless to slightly brown-yellow and does not contain any particles (see Figure F ).
 
 Note: Air bubbles in the medicine are normal.
 
-Do not inject OTULFI if the medicine is frozen, cloudy, discoloured, or has lumps or particles in it because it may not  be  safe  to  use.  Call  your  doctor  or  pharmacist  for instructions .
+Do not inject OTULFI if the medicine is frozen, cloudy, discoloured, or has lumps or particles in it because it may not be safe to use. Call your doctor or pharmacist for instructions .
 
 <!-- image -->
 
@@ -6043,7 +5752,7 @@ Figure F
 - If you are giving yourself the injection, you can use:
 - -The front of your upper thigh.
 - -The belly (abdomen), except within 5 cm around the belly button (navel).
-- -If a caregiver is giving the injection, they can also use the outer area of the upper arm (see Figure H ).
+- -If  a  caregiver  is  giving  the  injection,  they  can also use the outer area of the upper arm (see Figure H ).
 
 Note: Rotate to a different injection site (such as other leg, other side of the belly, etc.) for every injection.
 
@@ -6053,11 +5762,11 @@ Do not inject through clothing.
 
 ## Step 5 Clean the injection site
 
-- Wipe the skin where you want to inject with an alcohol pad to clean it (see Figure I ). Let the skin dry.
+- Wipe  the  skin  where  you  want  to  inject  with  an alcohol pad to clean it (see Figure I ). Let the skin dry.
 
 Do not blow on or touch the site after cleaning.
 
-## Step 6
+## Step 6 Give your injection
 
 <!-- image -->
 
@@ -6073,23 +5782,23 @@ Figure I
 
 <div style=\"page-break-after: always\"></div>
 
-When you are ready to inject, position the OTULFI prefilled pen in your hand so you can clearly see the viewing window
+When you are ready to inject, position the OTULFI prefilled  pen  in  your  hand  so  you  can  clearly  see  the viewing window.
 
 Using your other hand, firmly pull the clear cap straight off without twisting (see Figure J ).
 
-Note: A  few  drops  of  medicine  may  come  out  of  the needle, this is normal.
+Note: A  few  drops  of  medicine may  come out of the needle, this is normal.
 
 Note: Use the OTULFI pre-filled pen within 3 minutes after removing the clear cap to avoid contamination.
 
 Do not try to put the clear cap back on the OTULFI prefilled pen at any time, even at the end of the injection.
 
-Do not touch the needle cover (the purple-coloured part located at the tip of the OTULFI pre-filled pen) because this might cause an accidental needle stick.
+Do  not touch  the  needle  cover  (the  purple-coloured part  located  at  the  tip  of  the  OTULFI  pre-filled  pen) because this might cause an accidental needle stick.
 
-- Throw  away  the  clear  cap  in  a sharps disposal container (see Step 8 ).
+- Throw  away  the  clear  cap  in  a  sharps  disposal container (see Step 8 ).
 
 ## Read all of the remaining instructions in Step 6 before you start injecting to make sure you give the full dose.
 
-- Place the purple needle cover of the OTULFI pre-filled pen  straight  against  your  skin  at  a  90-degree  angle. Make sure that you can see the viewing window (see Figure K ).
+- Place the purple needle cover of the OTULFI prefilled pen straight against your skin at a 90-degree angle.  Make  sure  that  you  can  see  the  viewing window (see Figure K ).
 
 Note: To make sure you inject under the skin (into the fatty tissue) do not tilt the OTULFI pre- filled pen.
 
@@ -6103,11 +5812,11 @@ Figure J
 
 <div style=\"page-break-after: always\"></div>
 
-- In a single motion, push and hold the OTULFI pre-filled pen firmly against your skin until you hear a first click . This means the injection has started (see Figure L ).
-- Look at the viewing window to make sure that the purple indicator is moving during the injection.
-- Continue pushing the OTULFI pre-filled pen down on the  injection  site  and  listen  for  a second  click which means that the injection is almost complete. This may take between 5 to 30 seconds (see Figure M ).
+- In  a  single  motion,  push and  hold  the  OTULFI  prefilled  pen  firmly  against  your  skin  until  you  hear  a first click . This means the injection has started (see Figure L ).
+- Look at  the  viewing  window  to  make sure  that  the purple indicator is moving during the injection.
+- Continue pushing the OTULFI pre-filled pen down on the injection site and listen for a second click which means that the  injection  is  almost  complete.  This may take between 5 to 30 seconds (see Figure M ).
 
-Do not lift  the  OTULFI  pre-filled  pen  from  the  skin when you hear the second click because the medicine may not be fully injected.
+Do not lift  the  OTULFI pre-filled  pen  from  the  skin when  you  hear  the  second  click  because  the medicine may not be fully injected.
 
 - After you hear the second click, continue holding the OTULFI pre-filled pen in place and slowly count to 5 (see Figure N ).
 
@@ -6127,17 +5836,17 @@ Figure N
 
 - While  holding  the  OTULFI  pre-filled  pen  in  place, check  to  make  sure  the  purple  indicator  has  fully appeared  in  the  viewing  window  and  has  stopped moving (see Figure O ).
 
-Do not try to repeat the injection with a new OTULFI prefilled pen if the purple indicator did not come all the way down during the injection or you believe you did not get a full  injection.  Call  your  doctor  or  pharmacist  if  this happens.
+Do not try  to  repeat  the  injection  with  a  new  OTULFI pre-filled pen if the purple indicator did not come all the way down during the injection or you believe you did not get a full injection. Call your doctor or pharmacist if this happens.
 
 ## Step 7 Remove  the  OTULFI  pre-filled  pen  from your skin
 
 - When the injection is complete, lift the OTULFI prefilled pen straight away from your skin (see Figure P).
 
-Note: The purple needle cover will slide down and cover the needle.
+Note: The  purple  needle  cover  will  slide  down  and cover the needle.
 
 Do not put the clear cap back on the OTULFI pre-filled pen.
 
-- If you see blood on the injection site, press gauze or a cotton ball on the skin until the bleeding stops (see Figure Q ).
+- If you see blood on the injection site, press gauze or a  cotton  ball  on  the  skin  until  the  bleeding  stops (see Figure Q ).
 
 Do not rub the injection site.
 
@@ -6159,11 +5868,11 @@ Figure Q
 
 ## Step 8 Throwing away (disposing of) your OTULFI pre-filled pen
 
-Used OTULFI pen and clear cap should be placed in a puncture-resistant container, like a sharps container, right away after use (see Figure R ).
+Used OTULFI pre-filled pen and clear cap should be placed in a puncture-resistant container, like a sharps container, right away after use (see Figure R ).
 
 Do not put the clear cap back on the OTULFI pre-filled pen.
 
-Do not throw away (dispose of) your OTULFI pre- filled pen in your household trash.
+Do not throw away (dispose of) your OTULFI pre-filled pen in your household trash.
 
 Any unused medicinal product or waste material and the sharps container should be disposed of in accordance with local requirements.
 

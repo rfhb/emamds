@@ -1,32 +1,32 @@
 ---
-document_datetime: 2025-12-29 07:36:44
+document_datetime: 2026-05-26 16:56:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/avonex.html
 document_name: avonex.html
 version: success
-processing_time: 0.113476
-conversion_datetime: 2025-12-30 12:22:51.826628
+processing_time: 0.1210492
+conversion_datetime: 2026-05-29 20:16:56.354628
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.20.0
+  docling-jobkit: 1.20.0
+  docling: 2.96.0
+  docling-core: 2.78.0
+  docling-ibm-models: 3.13.2
+  docling-parse: 6.2.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
 ---
 # Avonex
 
 [RSS](/en/individual-human-medicine.xml/66945)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-interferon beta-1a Medicine Human Authorised
+interferon beta-1a
 
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
+Medicine Human Authorised
 
 Page contents
 
@@ -109,275 +109,141 @@ Reference Number: EMA/685524/2019
 
 English (EN) (146.58 KB - PDF)
 
-**First published:** 19/03/2009
-
-**Last updated:** 19/12/2019
+**First published:** 19/03/2009 **Last updated:** 19/12/2019
 
 [View](/en/documents/overview/avonex-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-966)
+[Other languages (22)](#file-language-dropdown-829)
 
 български (BG) (170.42 KB - PDF)
 
-**First published:**
-
-19/03/2009
-
-**Last updated:**
-
-19/12/2019
+**First published:** 19/03/2009 **Last updated:** 19/12/2019
 
 [View](/bg/documents/overview/avonex-epar-medicine-overview_bg.pdf)
 
 español (ES) (175.27 KB - PDF)
 
-**First published:**
-
-19/03/2009
-
-**Last updated:**
-
-19/12/2019
+**First published:** 19/03/2009 **Last updated:** 19/12/2019
 
 [View](/es/documents/overview/avonex-epar-medicine-overview_es.pdf)
 
 čeština (CS) (170.12 KB - PDF)
 
-**First published:**
-
-19/03/2009
-
-**Last updated:**
-
-19/12/2019
+**First published:** 19/03/2009 **Last updated:** 19/12/2019
 
 [View](/cs/documents/overview/avonex-epar-medicine-overview_cs.pdf)
 
 dansk (DA) (145.43 KB - PDF)
 
-**First published:**
-
-19/03/2009
-
-**Last updated:**
-
-19/12/2019
+**First published:** 19/03/2009 **Last updated:** 19/12/2019
 
 [View](/da/documents/overview/avonex-epar-medicine-overview_da.pdf)
 
 Deutsch (DE) (149.1 KB - PDF)
 
-**First published:**
-
-19/03/2009
-
-**Last updated:**
-
-19/12/2019
+**First published:** 19/03/2009 **Last updated:** 19/12/2019
 
 [View](/de/documents/overview/avonex-epar-medicine-overview_de.pdf)
 
 eesti keel (ET) (142.46 KB - PDF)
 
-**First published:**
-
-19/03/2009
-
-**Last updated:**
-
-19/12/2019
+**First published:** 19/03/2009 **Last updated:** 19/12/2019
 
 [View](/et/documents/overview/avonex-epar-medicine-overview_et.pdf)
 
 ελληνικά (EL) (175.32 KB - PDF)
 
-**First published:**
-
-19/03/2009
-
-**Last updated:**
-
-19/12/2019
+**First published:** 19/03/2009 **Last updated:** 19/12/2019
 
 [View](/el/documents/overview/avonex-epar-medicine-overview_el.pdf)
 
 français (FR) (147.68 KB - PDF)
 
-**First published:**
-
-19/03/2009
-
-**Last updated:**
-
-19/12/2019
+**First published:** 19/03/2009 **Last updated:** 19/12/2019
 
 [View](/fr/documents/overview/avonex-epar-medicine-overview_fr.pdf)
 
 hrvatski (HR) (170 KB - PDF)
 
-**First published:**
-
-19/03/2009
-
-**Last updated:**
-
-19/12/2019
+**First published:** 19/03/2009 **Last updated:** 19/12/2019
 
 [View](/hr/documents/overview/avonex-epar-medicine-overview_hr.pdf)
 
 italiano (IT) (145.22 KB - PDF)
 
-**First published:**
-
-19/03/2009
-
-**Last updated:**
-
-19/12/2019
+**First published:** 19/03/2009 **Last updated:** 19/12/2019
 
 [View](/it/documents/overview/avonex-epar-medicine-overview_it.pdf)
 
 latviešu valoda (LV) (184.95 KB - PDF)
 
-**First published:**
-
-19/03/2009
-
-**Last updated:**
-
-19/12/2019
+**First published:** 19/03/2009 **Last updated:** 19/12/2019
 
 [View](/lv/documents/overview/avonex-epar-medicine-overview_lv.pdf)
 
 lietuvių kalba (LT) (170.01 KB - PDF)
 
-**First published:**
-
-19/03/2009
-
-**Last updated:**
-
-19/12/2019
+**First published:** 19/03/2009 **Last updated:** 19/12/2019
 
 [View](/lt/documents/overview/avonex-epar-medicine-overview_lt.pdf)
 
 magyar (HU) (168.62 KB - PDF)
 
-**First published:**
-
-19/03/2009
-
-**Last updated:**
-
-19/12/2019
+**First published:** 19/03/2009 **Last updated:** 19/12/2019
 
 [View](/hu/documents/overview/avonex-epar-medicine-overview_hu.pdf)
 
 Malti (MT) (171.19 KB - PDF)
 
-**First published:**
-
-19/03/2009
-
-**Last updated:**
-
-19/12/2019
+**First published:** 19/03/2009 **Last updated:** 19/12/2019
 
 [View](/mt/documents/overview/avonex-epar-medicine-overview_mt.pdf)
 
 Nederlands (NL) (145.56 KB - PDF)
 
-**First published:**
-
-19/03/2009
-
-**Last updated:**
-
-19/12/2019
+**First published:** 19/03/2009 **Last updated:** 19/12/2019
 
 [View](/nl/documents/overview/avonex-epar-medicine-overview_nl.pdf)
 
 polski (PL) (171.47 KB - PDF)
 
-**First published:**
-
-19/03/2009
-
-**Last updated:**
-
-19/12/2019
+**First published:** 19/03/2009 **Last updated:** 19/12/2019
 
 [View](/pl/documents/overview/avonex-epar-medicine-overview_pl.pdf)
 
 português (PT) (146.93 KB - PDF)
 
-**First published:**
-
-19/03/2009
-
-**Last updated:**
-
-19/12/2019
+**First published:** 19/03/2009 **Last updated:** 19/12/2019
 
 [View](/pt/documents/overview/avonex-epar-medicine-overview_pt.pdf)
 
 română (RO) (167.18 KB - PDF)
 
-**First published:**
-
-19/03/2009
-
-**Last updated:**
-
-19/12/2019
+**First published:** 19/03/2009 **Last updated:** 19/12/2019
 
 [View](/ro/documents/overview/avonex-epar-medicine-overview_ro.pdf)
 
 slovenčina (SK) (169.6 KB - PDF)
 
-**First published:**
-
-19/03/2009
-
-**Last updated:**
-
-19/12/2019
+**First published:** 19/03/2009 **Last updated:** 19/12/2019
 
 [View](/sk/documents/overview/avonex-epar-medicine-overview_sk.pdf)
 
 slovenščina (SL) (167.75 KB - PDF)
 
-**First published:**
-
-19/03/2009
-
-**Last updated:**
-
-19/12/2019
+**First published:** 19/03/2009 **Last updated:** 19/12/2019
 
 [View](/sl/documents/overview/avonex-epar-medicine-overview_sl.pdf)
 
 Suomi (FI) (144.82 KB - PDF)
 
-**First published:**
-
-19/03/2009
-
-**Last updated:**
-
-19/12/2019
+**First published:** 19/03/2009 **Last updated:** 19/12/2019
 
 [View](/fi/documents/overview/avonex-epar-medicine-overview_fi.pdf)
 
 svenska (SV) (144.89 KB - PDF)
 
-**First published:**
-
-19/03/2009
-
-**Last updated:**
-
-19/12/2019
+**First published:** 19/03/2009 **Last updated:** 19/12/2019
 
 [View](/sv/documents/overview/avonex-epar-medicine-overview_sv.pdf)
 
@@ -385,305 +251,161 @@ svenska (SV) (144.89 KB - PDF)
 
 Avonex : EPAR - Product Information
 
-English (EN) (706.86 KB - PDF)
+English (EN) (901.05 KB - PDF)
 
-**First published:** 19/03/2009
-
-**Last updated:** 16/10/2025
+**First published:** 19/03/2009 **Last updated:** 26/05/2026
 
 [View](/en/documents/product-information/avonex-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-175)
+[Other languages (24)](#file-language-dropdown-602)
 
-български (BG) (870.77 KB - PDF)
+български (BG) (1.08 MB - PDF)
 
-**First published:**
-
-19/03/2009
-
-**Last updated:**
-
-16/10/2025
+**First published:** 19/03/2009 **Last updated:** 26/05/2026
 
 [View](/bg/documents/product-information/avonex-epar-product-information_bg.pdf)
 
-español (ES) (773.07 KB - PDF)
+español (ES) (1.09 MB - PDF)
 
-**First published:**
-
-19/03/2009
-
-**Last updated:**
-
-16/10/2025
+**First published:** 19/03/2009 **Last updated:** 26/05/2026
 
 [View](/es/documents/product-information/avonex-epar-product-information_es.pdf)
 
-čeština (CS) (820.71 KB - PDF)
+čeština (CS) (1.04 MB - PDF)
 
-**First published:**
-
-19/03/2009
-
-**Last updated:**
-
-16/10/2025
+**First published:** 19/03/2009 **Last updated:** 26/05/2026
 
 [View](/cs/documents/product-information/avonex-epar-product-information_cs.pdf)
 
-dansk (DA) (727.83 KB - PDF)
+dansk (DA) (902.92 KB - PDF)
 
-**First published:**
-
-19/03/2009
-
-**Last updated:**
-
-16/10/2025
+**First published:** 19/03/2009 **Last updated:** 26/05/2026
 
 [View](/da/documents/product-information/avonex-epar-product-information_da.pdf)
 
-Deutsch (DE) (790.79 KB - PDF)
+Deutsch (DE) (908.84 KB - PDF)
 
-**First published:**
-
-19/03/2009
-
-**Last updated:**
-
-16/10/2025
+**First published:** 19/03/2009 **Last updated:** 26/05/2026
 
 [View](/de/documents/product-information/avonex-epar-product-information_de.pdf)
 
-eesti keel (ET) (780.75 KB - PDF)
+eesti keel (ET) (984.07 KB - PDF)
 
-**First published:**
-
-19/03/2009
-
-**Last updated:**
-
-16/10/2025
+**First published:** 19/03/2009 **Last updated:** 26/05/2026
 
 [View](/et/documents/product-information/avonex-epar-product-information_et.pdf)
 
-ελληνικά (EL) (839.96 KB - PDF)
+ελληνικά (EL) (1.02 MB - PDF)
 
-**First published:**
-
-19/03/2009
-
-**Last updated:**
-
-16/10/2025
+**First published:** 19/03/2009 **Last updated:** 26/05/2026
 
 [View](/el/documents/product-information/avonex-epar-product-information_el.pdf)
 
-français (FR) (824.18 KB - PDF)
+français (FR) (969.02 KB - PDF)
 
-**First published:**
-
-19/03/2009
-
-**Last updated:**
-
-16/10/2025
+**First published:** 19/03/2009 **Last updated:** 26/05/2026
 
 [View](/fr/documents/product-information/avonex-epar-product-information_fr.pdf)
 
-hrvatski (HR) (812.02 KB - PDF)
+hrvatski (HR) (1.03 MB - PDF)
 
-**First published:**
-
-19/03/2009
-
-**Last updated:**
-
-16/10/2025
+**First published:** 19/03/2009 **Last updated:** 26/05/2026
 
 [View](/hr/documents/product-information/avonex-epar-product-information_hr.pdf)
 
-íslenska (IS) (833.75 KB - PDF)
+íslenska (IS) (888.25 KB - PDF)
 
-**First published:**
-
-19/03/2009
-
-**Last updated:**
-
-16/10/2025
+**First published:** 19/03/2009 **Last updated:** 26/05/2026
 
 [View](/is/documents/product-information/avonex-epar-product-information_is.pdf)
 
-italiano (IT) (762.89 KB - PDF)
+italiano (IT) (989.46 KB - PDF)
 
-**First published:**
-
-19/03/2009
-
-**Last updated:**
-
-16/10/2025
+**First published:** 19/03/2009 **Last updated:** 26/05/2026
 
 [View](/it/documents/product-information/avonex-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (825.34 KB - PDF)
+latviešu valoda (LV) (1.13 MB - PDF)
 
-**First published:**
-
-19/03/2009
-
-**Last updated:**
-
-16/10/2025
+**First published:** 19/03/2009 **Last updated:** 26/05/2026
 
 [View](/lv/documents/product-information/avonex-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (964.18 KB - PDF)
+lietuvių kalba (LT) (1.11 MB - PDF)
 
-**First published:**
-
-19/03/2009
-
-**Last updated:**
-
-16/10/2025
+**First published:** 19/03/2009 **Last updated:** 26/05/2026
 
 [View](/lt/documents/product-information/avonex-epar-product-information_lt.pdf)
 
-magyar (HU) (815.26 KB - PDF)
+magyar (HU) (1019.86 KB - PDF)
 
-**First published:**
-
-19/03/2009
-
-**Last updated:**
-
-16/10/2025
+**First published:** 19/03/2009 **Last updated:** 26/05/2026
 
 [View](/hu/documents/product-information/avonex-epar-product-information_hu.pdf)
 
-Malti (MT) (897.38 KB - PDF)
+Malti (MT) (1.23 MB - PDF)
 
-**First published:**
-
-19/03/2009
-
-**Last updated:**
-
-16/10/2025
+**First published:** 19/03/2009 **Last updated:** 26/05/2026
 
 [View](/mt/documents/product-information/avonex-epar-product-information_mt.pdf)
 
-Nederlands (NL) (792.47 KB - PDF)
+Nederlands (NL) (1 MB - PDF)
 
-**First published:**
-
-19/03/2009
-
-**Last updated:**
-
-16/10/2025
+**First published:** 19/03/2009 **Last updated:** 26/05/2026
 
 [View](/nl/documents/product-information/avonex-epar-product-information_nl.pdf)
 
-norsk (NO) (745.6 KB - PDF)
+norsk (NO) (922.4 KB - PDF)
 
-**First published:**
-
-19/03/2009
-
-**Last updated:**
-
-16/10/2025
+**First published:** 19/03/2009 **Last updated:** 26/05/2026
 
 [View](/no/documents/product-information/avonex-epar-product-information_no.pdf)
 
-polski (PL) (916.17 KB - PDF)
+polski (PL) (1.08 MB - PDF)
 
-**First published:**
-
-19/03/2009
-
-**Last updated:**
-
-16/10/2025
+**First published:** 19/03/2009 **Last updated:** 26/05/2026
 
 [View](/pl/documents/product-information/avonex-epar-product-information_pl.pdf)
 
-português (PT) (750.73 KB - PDF)
+português (PT) (873.21 KB - PDF)
 
-**First published:**
-
-19/03/2009
-
-**Last updated:**
-
-16/10/2025
+**First published:** 19/03/2009 **Last updated:** 26/05/2026
 
 [View](/pt/documents/product-information/avonex-epar-product-information_pt.pdf)
 
-română (RO) (763.29 KB - PDF)
+română (RO) (962.5 KB - PDF)
 
-**First published:**
-
-19/03/2009
-
-**Last updated:**
-
-16/10/2025
+**First published:** 19/03/2009 **Last updated:** 26/05/2026
 
 [View](/ro/documents/product-information/avonex-epar-product-information_ro.pdf)
 
-slovenčina (SK) (832.48 KB - PDF)
+slovenčina (SK) (1.07 MB - PDF)
 
-**First published:**
-
-19/03/2009
-
-**Last updated:**
-
-16/10/2025
+**First published:** 19/03/2009 **Last updated:** 26/05/2026
 
 [View](/sk/documents/product-information/avonex-epar-product-information_sk.pdf)
 
-slovenščina (SL) (792.85 KB - PDF)
+slovenščina (SL) (970.53 KB - PDF)
 
-**First published:**
-
-19/03/2009
-
-**Last updated:**
-
-16/10/2025
+**First published:** 19/03/2009 **Last updated:** 26/05/2026
 
 [View](/sl/documents/product-information/avonex-epar-product-information_sl.pdf)
 
-Suomi (FI) (759.49 KB - PDF)
+Suomi (FI) (975.65 KB - PDF)
 
-**First published:**
-
-19/03/2009
-
-**Last updated:**
-
-16/10/2025
+**First published:** 19/03/2009 **Last updated:** 26/05/2026
 
 [View](/fi/documents/product-information/avonex-epar-product-information_fi.pdf)
 
-svenska (SV) (718.82 KB - PDF)
+svenska (SV) (929.78 KB - PDF)
 
-**First published:**
-
-19/03/2009
-
-**Last updated:**
-
-16/10/2025
+**First published:** 19/03/2009 **Last updated:** 26/05/2026
 
 [View](/sv/documents/product-information/avonex-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000300515 16/10/2025
+**Latest procedure affecting product information:** VR/0000320809
+
+16/04/2026
 
 icon globe
 
@@ -703,305 +425,173 @@ Avonex : EPAR - All Authorised presentations
 
 English (EN) (20.14 KB - PDF)
 
-**First published:** 29/08/2007
-
-**Last updated:** 24/07/2019
+**First published:** 29/08/2007 **Last updated:** 24/07/2019
 
 [View](/en/documents/all-authorised-presentations/avonex-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-192)
+[Other languages (24)](#file-language-dropdown-911)
 
 български (BG) (47.84 KB - PDF)
 
-**First published:**
-
-29/08/2007
-
-**Last updated:**
-
-24/07/2019
+**First published:** 29/08/2007 **Last updated:** 24/07/2019
 
 [View](/bg/documents/all-authorised-presentations/avonex-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (22.52 KB - PDF)
 
-**First published:**
-
-29/08/2007
-
-**Last updated:**
-
-24/07/2019
+**First published:** 29/08/2007 **Last updated:** 24/07/2019
 
 [View](/es/documents/all-authorised-presentations/avonex-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (46.07 KB - PDF)
 
-**First published:**
-
-29/08/2007
-
-**Last updated:**
-
-24/07/2019
+**First published:** 29/08/2007 **Last updated:** 24/07/2019
 
 [View](/cs/documents/all-authorised-presentations/avonex-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (16.94 KB - PDF)
 
-**First published:**
-
-29/08/2007
-
-**Last updated:**
-
-24/07/2019
+**First published:** 29/08/2007 **Last updated:** 24/07/2019
 
 [View](/da/documents/all-authorised-presentations/avonex-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (16.33 KB - PDF)
 
-**First published:**
-
-29/08/2007
-
-**Last updated:**
-
-24/07/2019
+**First published:** 29/08/2007 **Last updated:** 24/07/2019
 
 [View](/de/documents/all-authorised-presentations/avonex-epar-all-authorised-presentations_de.pdf)
 
 eesti keel (ET) (58.86 KB - PDF)
 
-**First published:**
-
-29/08/2007
-
-**Last updated:**
-
-24/07/2019
+**First published:** 29/08/2007 **Last updated:** 24/07/2019
 
 [View](/et/documents/all-authorised-presentations/avonex-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (41.8 KB - PDF)
 
-**First published:**
-
-29/08/2007
-
-**Last updated:**
-
-24/07/2019
+**First published:** 29/08/2007 **Last updated:** 24/07/2019
 
 [View](/el/documents/all-authorised-presentations/avonex-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (16.83 KB - PDF)
 
-**First published:**
-
-29/08/2007
-
-**Last updated:**
-
-24/07/2019
+**First published:** 29/08/2007 **Last updated:** 24/07/2019
 
 [View](/fr/documents/all-authorised-presentations/avonex-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (47.38 KB - PDF)
 
-**First published:**
-
-29/08/2007
-
-**Last updated:**
-
-24/07/2019
+**First published:** 29/08/2007 **Last updated:** 24/07/2019
 
 [View](/hr/documents/all-authorised-presentations/avonex-epar-all-authorised-presentations_hr.pdf)
 
 íslenska (IS) (21.97 KB - PDF)
 
-**First published:**
-
-29/08/2007
-
-**Last updated:**
-
-24/07/2019
+**First published:** 29/08/2007 **Last updated:** 24/07/2019
 
 [View](/is/documents/all-authorised-presentations/avonex-epar-all-authorised-presentations_is.pdf)
 
 italiano (IT) (17.18 KB - PDF)
 
-**First published:**
-
-29/08/2007
-
-**Last updated:**
-
-24/07/2019
+**First published:** 29/08/2007 **Last updated:** 24/07/2019
 
 [View](/it/documents/all-authorised-presentations/avonex-epar-all-authorised-presentations_it.pdf)
 
 latviešu valoda (LV) (41.78 KB - PDF)
 
-**First published:**
-
-29/08/2007
-
-**Last updated:**
-
-24/07/2019
+**First published:** 29/08/2007 **Last updated:** 24/07/2019
 
 [View](/lv/documents/all-authorised-presentations/avonex-epar-all-authorised-presentations_lv.pdf)
 
 lietuvių kalba (LT) (40.96 KB - PDF)
 
-**First published:**
-
-29/08/2007
-
-**Last updated:**
-
-24/07/2019
+**First published:** 29/08/2007 **Last updated:** 24/07/2019
 
 [View](/lt/documents/all-authorised-presentations/avonex-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (41.93 KB - PDF)
 
-**First published:**
-
-29/08/2007
-
-**Last updated:**
-
-24/07/2019
+**First published:** 29/08/2007 **Last updated:** 24/07/2019
 
 [View](/hu/documents/all-authorised-presentations/avonex-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (67.11 KB - PDF)
 
-**First published:**
-
-29/08/2007
-
-**Last updated:**
-
-24/07/2019
+**First published:** 29/08/2007 **Last updated:** 24/07/2019
 
 [View](/mt/documents/all-authorised-presentations/avonex-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (23.45 KB - PDF)
 
-**First published:**
-
-29/08/2007
-
-**Last updated:**
-
-24/07/2019
+**First published:** 29/08/2007 **Last updated:** 24/07/2019
 
 [View](/nl/documents/all-authorised-presentations/avonex-epar-all-authorised-presentations_nl.pdf)
 
 norsk (NO) (24.51 KB - PDF)
 
-**First published:**
-
-29/08/2007
-
-**Last updated:**
-
-24/07/2019
+**First published:** 29/08/2007 **Last updated:** 24/07/2019
 
 [View](/no/documents/all-authorised-presentations/avonex-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (48.76 KB - PDF)
 
-**First published:**
-
-29/08/2007
-
-**Last updated:**
-
-24/07/2019
+**First published:** 29/08/2007 **Last updated:** 24/07/2019
 
 [View](/pl/documents/all-authorised-presentations/avonex-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (23.6 KB - PDF)
 
-**First published:**
-
-29/08/2007
-
-**Last updated:**
-
-24/07/2019
+**First published:** 29/08/2007 **Last updated:** 24/07/2019
 
 [View](/pt/documents/all-authorised-presentations/avonex-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (43.08 KB - PDF)
 
-**First published:**
-
-29/08/2007
-
-**Last updated:**
-
-24/07/2019
+**First published:** 29/08/2007 **Last updated:** 24/07/2019
 
 [View](/ro/documents/all-authorised-presentations/avonex-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (42.15 KB - PDF)
 
-**First published:**
-
-29/08/2007
-
-**Last updated:**
-
-24/07/2019
+**First published:** 29/08/2007 **Last updated:** 24/07/2019
 
 [View](/sk/documents/all-authorised-presentations/avonex-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (32.57 KB - PDF)
 
-**First published:**
-
-29/08/2007
-
-**Last updated:**
-
-24/07/2019
+**First published:** 29/08/2007 **Last updated:** 24/07/2019
 
 [View](/sl/documents/all-authorised-presentations/avonex-epar-all-authorised-presentations_sl.pdf)
 
 Suomi (FI) (22.69 KB - PDF)
 
-**First published:**
-
-29/08/2007
-
-**Last updated:**
-
-24/07/2019
+**First published:** 29/08/2007 **Last updated:** 24/07/2019
 
 [View](/fi/documents/all-authorised-presentations/avonex-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (16.65 KB - PDF)
 
-**First published:**
-
-29/08/2007
-
-**Last updated:**
-
-24/07/2019
+**First published:** 29/08/2007 **Last updated:** 24/07/2019
 
 [View](/sv/documents/all-authorised-presentations/avonex-epar-all-authorised-presentations_sv.pdf)
 
 ## Product details
 
-Name of medicine Avonex Active substance interferon beta-1a International non-proprietary name (INN) or common name interferon beta-1a Therapeutic area (MeSH) Multiple Sclerosis Anatomical therapeutic chemical (ATC) code L03AB07
+Name of medicine
+
+Avonex
+
+International non-proprietary name (INN) or common name
+
+interferon beta-1a
+
+Therapeutic area (MeSH)
+
+Multiple Sclerosis
+
+Anatomical therapeutic chemical (ATC) code
+
+L03AB07
 
 ### Pharmacotherapeutic group
 
@@ -1018,13 +608,23 @@ Avonex should be discontinued in patients who develop progressive MS.
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/000102 Marketing authorisation holder
+EMA product number
+
+EMEA/H/C/000102
+
+Marketing authorisation holder
 
 Biogen Netherlands B.V.
 
 Prins Mauritslaan 13 1171 LP Badhoevedorp The Netherlands
 
-Marketing authorisation issued 13/03/1997 Revision 40
+Marketing authorisation issued
+
+13/03/1997
+
+Revision
+
+41
 
 ## Assessment history
 
@@ -1036,9 +636,9 @@ Collapse section
 
 Avonex : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (244.95 KB - PDF)
+English (EN) (151.01 KB - PDF)
 
-**First published:** 16/10/2025
+**First published:** 16/10/2025 **Last updated:** 26/05/2026
 
 [View](/en/documents/procedural-steps-after/avonex-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1046,17 +646,23 @@ Avonex : EPAR - Procedural steps taken and scientific information after authoris
 
 English (EN) (325.61 KB - PDF)
 
-**First published:** 19/03/2009
-
-**Last updated:** 16/10/2025
+**First published:** 19/03/2009 **Last updated:** 16/10/2025
 
 [View](/en/documents/procedural-steps-after/avonex-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
+Avonex-VR-0000320809 : EPAR - Assessment report
+
+Adopted Reference Number: EMADOC-1700519818-2791881
+
+English (EN) (685.62 KB - PDF)
+
+**First published:** 26/05/2026
+
+[View](/en/documents/variation-report/avonex-vr-0000320809-epar-assessment-report_en.pdf)
+
 Avonex-PAM-0000245472 : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMADOC-1700519818-1850245
+Adopted Reference Number: EMADOC-1700519818-1850245
 
 English (EN) (452.39 KB - PDF)
 
@@ -1066,9 +672,7 @@ English (EN) (452.39 KB - PDF)
 
 Avonex-H-C-102-II-0193 : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/23616/2023
+Adopted Reference Number: EMA/23616/2023
 
 English (EN) (603.39 KB - PDF)
 
@@ -1078,15 +682,11 @@ English (EN) (603.39 KB - PDF)
 
 Avonex-H-C-102-II-0108 : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/374288/2011
+Adopted Reference Number: EMA/374288/2011
 
 English (EN) (117.56 KB - PDF)
 
-**First published:** 07/02/2013
-
-**Last updated:** 07/02/2013
+**First published:** 07/02/2013 **Last updated:** 07/02/2013
 
 [View](/en/documents/variation-report/avonex-h-c-102-ii-0108-epar-assessment-report-variation_en.pdf)
 
@@ -1094,9 +694,7 @@ Avonex : EPAR - Steps taken after authorisation when a cutoff date has been used
 
 English (EN) (103.2 KB - PDF)
 
-**First published:** 16/08/2006
-
-**Last updated:** 16/08/2006
+**First published:** 16/08/2006 **Last updated:** 16/08/2006
 
 [View](/en/documents/steps-after-cutoff/avonex-epar-steps-taken-after-authorisation-when-cutoff-date-has-been-used_en.pdf)
 
@@ -1106,9 +704,7 @@ Avonex : EPAR - Scientific Discussion
 
 English (EN) (316.31 KB - PDF)
 
-**First published:** 16/08/2006
-
-**Last updated:** 16/08/2006
+**First published:** 16/08/2006 **Last updated:** 16/08/2006
 
 [View](/en/documents/scientific-discussion/avonex-epar-scientific-discussion_en.pdf)
 
@@ -1116,22 +712,20 @@ Avonex : EPAR - Procedural steps taken before authorisation
 
 English (EN) (97.55 KB - PDF)
 
-**First published:** 16/08/2006
-
-**Last updated:** 16/08/2006
+**First published:** 16/08/2006 **Last updated:** 16/08/2006
 
 [View](/en/documents/procedural-steps/avonex-epar-procedural-steps-taken-authorisation_en.pdf)
 
-#### More information on Avonex
+## More information on Avonex
 
 - [Non-interventional Safety Study to Investigate Pregnancy Outcomes in Female Patients Exposed to SC Peginterferon Beta-1a and IM Interferon Beta-1a Reported in a German Patient Support Program - post-authorisation study](https://catalogues.ema.europa.eu/study/49260)
 
-#### Topics
+## Topics
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 16/10/2025
+**This page was last updated on**
+
+26/05/2026
 
 ## Share this page
-
-[Back to top](#main-content)

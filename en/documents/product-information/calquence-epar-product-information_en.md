@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-09-19 16:04:07
+document_datetime: 2026-05-27 15:19:18
 document_pages: 102
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/calquence-epar-product-information_en.pdf
 document_name: calquence-epar-product-information_en.pdf
 version: success
-processing_time: 81.202062
-conversion_datetime: 2025-12-26 13:20:26.427788
+processing_time: 100.6549363
+conversion_datetime: 2026-05-29 20:32:53.30432
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.20.0
+  docling-jobkit: 1.20.0
+  docling: 2.96.0
+  docling-core: 2.78.0
+  docling-ibm-models: 3.13.2
+  docling-parse: 6.2.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -86,37 +86,45 @@ Calquence should be administered on Day 1 on Cycle 1 (each cycle is 28 days) unt
 
 ## Adverse reactions
 
-Recommended dose modifications of Calquence for Grade ≥ 3 adverse reactions in patients receiving Calquence monotherapy and Calquence in combination with obinutuzumab are provided in Table 1.
+Recommended dose modifications of Calquence for Grade ≥ 3 adverse reactions in patients receiving Calquence monotherapy, Calquence in combination with obinutuzumab and Calquence in combination with venetoclax with or without obinutuzumab are provided in Table 1.
 
 Recommended dose modifications for Grade ≥ 3 adverse reactions in patients receiving Calquence in combination with bendamustine and rituximab are provided in Table 2.
 
-Table 1. Recommended dose adjustments for adverse reactions*
-
-| Adverse reaction                                                    | Adverse reaction occurrence   | Dose modification (Starting dose = 100mg approximately every 12 hours)                                                                |
-|---------------------------------------------------------------------|-------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|
-| Grade 3 thrombocytopenia with bleeding, Grade 4 thrombocytopenia Or | First and second              | Interrupt Calquence Once toxicity has resolved to Grade 1 or baseline, Calquence may be resumed at 100mg approximately every 12 hours |
-
 <div style=\"page-break-after: always\"></div>
 
-| Grade 4 neutropenia lasting longer than 7 days Grade 3 or greater non-haematological toxicities   | Third Fourth   | Interrupt Calquence Once toxicity has resolved to Grade 1 or baseline, Calquence may be resumed at a reduced frequency of 100mg once daily Discontinue Calquence   |
-|---------------------------------------------------------------------------------------------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+Table 1. Recommended dose adjustments for adverse reactions*
 
-*Adverse reactions graded by the National Cancer Institute Common Terminology Criteria for Adverse Events (NCI CTCAE) version 4.03.
+| Adverse reaction                                                                                                  | Adverse reaction occurrence   | Dose modification (Starting dose = 100 mg approximately every 12 hours)                                                                       |
+|-------------------------------------------------------------------------------------------------------------------|-------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
+| .Grade 3 thrombocytopenia with bleeding .Grade 4 thrombocytopenia .Grade 4 neutropenia lasting longer than 7 days | First and second              | Interrupt Calquence. Once toxicity has resolved to Grade 1 or baseline, Calquence may be resumed at 100 mg approximately every 12 hours.      |
+| .Grade 3 thrombocytopenia with bleeding .Grade 4 thrombocytopenia .Grade 4 neutropenia lasting longer than 7 days | Third                         | Interrupt Calquence. Once toxicity has resolved to Grade 1 or baseline, Calquence may be resumed at a reduced frequency of 100 mg once daily. |
+| .Grade 3 or greater non-haematological toxicities                                                                 | Fourth                        | Discontinue Calquence.                                                                                                                        |
+
+*Adverse reactions graded by the National Cancer Institute Common Terminology Criteria for Adverse Events (NCI CTCAE) version 5.0.
 
 Table 2. Recommended dose adjustments for Grade ≥ 3 adverse reactions *  in patients receiving Calquence in combination with bendamustine and rituximab
 
-| Adverse reaction                                             | Bendamustine dose modification †                                                                                                                                                                                                         | Calquence dose modification                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-|--------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Neutropenia                                                  | If Grade 3 or Grade 4 neutropenia ‡ : Interrupt bendamustine. Once toxicity has resolved to Grade ≤ 2 or baseline level, bendamustine may be resumed at 70 mg/m 2 . Discontinue bendamustine if additional dose reduction is required.   | If Grade 4 neutropenia lasting longer than 7 days then interrupt Calquence. Once toxicity has resolved to Grade ≤ 2 or baseline level, Calquence may be resumed at starting dose (1 st adverse reaction occurrence) or at a reduced frequency of 100 mg once daily (2 nd and 3 rd adverse reaction occurrence). ¶ Discontinue Calquence at 4 th adverse reaction occurrence.                                                                                                         |
-| Thrombocytopenia                                             | If Grade 3 or Grade 4 thrombocytopenia: Interrupt bendamustine. Once toxicity has resolved to Grade ≤ 2 or baseline level, bendamustine may be resumed at 70 mg/m 2 . Discontinue bendamustine if additional dose reduction is required. | If Grade 3 thrombocytopenia with significant bleeding or Grade 4 then interrupt Calquence. Once toxicity has resolved to Grade ≤ 2 or baseline level, Calquence may be resumed at starting dose (1 st adverse reaction occurrence) or at a reduced frequency of 100 mg once daily (2 nd and 3 rd occurrence). ¶ Discontinue Calquence at 3 rd adverse reaction occurrence for thrombocytopenia with significant bleeding. Discontinue Calquence at 4 th adverse reaction occurrence. |
-| Other hematologic Grade 4 § or unmanageable Grade 3 toxicity | Interrupt bendamustine. Once toxicity has resolved to Grade ≤ 2 or baseline level, bendamustine may be resumed at 70 mg/m 2 . Discontinue bendamustine if additional dose reduction is required.                                         | Interrupt Calquence. Once toxicity has resolved to Grade ≤ 2 or baseline level, Calquence may be resumed at starting dose (1 st adverse reaction occurrence) or at a reduced frequency of 100 mg once daily (2 nd and 3 rd adverse reaction occurrence). ¶ Discontinue Calquence at 4 th adverse reaction occurrence.                                                                                                                                                                |
-| Grade 3 or greater non-hematologic toxicities                | Interrupt bendamustine. Once toxicity has resolved to Grade 1 or baseline level, bendamustine may                                                                                                                                        | Interrupt Calquence. Once toxicity has resolved to Grade 2 or baseline, Calquence may be resumed at starting dose (1 st adverse reaction                                                                                                                                                                                                                                                                                                                                             |
+| Adverse reaction   | Bendamustine dose modification †                                                                                                                                                                                                         | Calquence dose modification                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+|--------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Neutropenia        | If Grade 3 or Grade 4 neutropenia ‡ : Interrupt bendamustine. Once toxicity has resolved to Grade ≤ 2 or baseline level, bendamustine may be resumed at 70 mg/m 2 . Discontinue bendamustine if additional dose reduction is required.   | If Grade 4 neutropenia lasting longer than 7 days then interrupt Calquence. Once toxicity has resolved to Grade ≤ 2 or baseline level, Calquence may be resumed at starting dose (1 st adverse reaction occurrence) or at a reduced frequency of 100 mg once daily (2 nd and 3 rd adverse reaction occurrence). ¶ Discontinue Calquence at 4 th adverse reaction occurrence.                                                                                                         |
+| Thrombocytopenia   | If Grade 3 or Grade 4 thrombocytopenia: Interrupt bendamustine. Once toxicity has resolved to Grade ≤ 2 or baseline level, bendamustine may be resumed at 70 mg/m 2 . Discontinue bendamustine if additional dose reduction is required. | If Grade 3 thrombocytopenia with significant bleeding or Grade 4 then interrupt Calquence. Once toxicity has resolved to Grade ≤ 2 or baseline level, Calquence may be resumed at starting dose (1 st adverse reaction occurrence) or at a reduced frequency of 100 mg once daily (2 nd and 3 rd occurrence). ¶ Discontinue Calquence at 3 rd adverse reaction occurrence for thrombocytopenia with significant bleeding. Discontinue Calquence at 4 th adverse reaction occurrence. |
 
 <div style=\"page-break-after: always\"></div>
 
-| Adverse reaction   | Bendamustine dose modification †                                                             | Calquence dose modification                                                                                                                                 |
-|--------------------|----------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|                    | be resumed at 70 mg/m 2 . Discontinue bendamustine if additional dose reduction is required. | occurrence) or at a reduced frequency of 100 mg once daily (2 nd adverse reaction occurrence). ¶ Discontinue Calquence at 3 rd adverse reaction occurrence. |
+| Adverse reaction                                             | Bendamustine dose modification †                                                                                                                                                                 | Calquence dose modification                                                                                                                                                                                                                                                                                           |
+|--------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Other hematologic Grade 4 § or unmanageable Grade 3 toxicity | Interrupt bendamustine. Once toxicity has resolved to Grade ≤ 2 or baseline level, bendamustine may be resumed at 70 mg/m 2 . Discontinue bendamustine if additional dose reduction is required. | Interrupt Calquence. Once toxicity has resolved to Grade ≤ 2 or baseline level, Calquence may be resumed at starting dose (1 st adverse reaction occurrence) or at a reduced frequency of 100 mg once daily (2 nd and 3 rd adverse reaction occurrence). ¶ Discontinue Calquence at 4 th adverse reaction occurrence. |
+| Grade 3 or greater non-hematologic toxicities                | Interrupt bendamustine. Once toxicity has resolved to Grade 1 or baseline level, bendamustine may be resumed at 70 mg/m 2 . Discontinue bendamustine if additional dose reduction is required.   | Interrupt Calquence. Once toxicity has resolved to Grade 2 or baseline, Calquence may be resumed at starting dose (1 st adverse reaction occurrence) or at a reduced frequency of 100 mg once daily (2 nd adverse reaction occurrence). ¶ Discontinue Calquence at 3 rd adverse reaction occurrence.                  |
+
+* Adverse reactions graded by the National Cancer Institute Common Terminology Criteria for Adverse Events (NCI CTCAE) version 4.03.
+
+† For any toxicities not listed in this table refer to the bendamustine local prescribing information.
+
+‡ Consider use of myeloid growth factors before bendamustine dose modifications.
+
+§ Grade 4 lymphopenia is an expected outcome for treatment with bendamustine and rituximab. Dose modification due to lymphopenia is expected only if considered clinically important by investigators e.g. associated recurrent infections.
+
+¶ Dose may be re-escalated at the discretion of the physician if patient tolerates a reduced dose for ≥ 4 weeks.
 
 Refer to the prescribing information of each of the medicinal products used in combination with Calquence for additional information for management of toxicities.
 
@@ -126,25 +134,28 @@ Recommendations regarding use of Calquence with CYP3A inhibitors or inducers and
 
 Table 3. Use with CYP3A inhibitors or inducers and gastric acid reducing agents
 
-|                              | Co-administered medicinal product   | Recommended Calquence use                                                                                                               |
-|------------------------------|-------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|
-| CYP3A inhibitors             | Strong CYP3A inhibitor              | Avoid concomitant use. If these inhibitors will be used short-term (such as anti-infectives for up to seven days), interrupt Calquence. |
-| CYP3A inhibitors             | Moderate CYP3A inhibitor            | No dose adjustment. Monitor patients closely for adverse reactions if taking moderate CYP3A inhibitors.                                 |
-| CYP3A inhibitors             | Mild CYP3A inhibitor                | No dose adjustment.                                                                                                                     |
-| CYP3A inducers               | Strong CYP3A inducer                | Avoid concomitant use.                                                                                                                  |
-| Gastric acid reducing agents | Proton pump inhibitors              | Avoid concomitant use.                                                                                                                  |
-| Gastric acid reducing agents | H2-receptor antagonists             | Take Calquence 2 hours before (or 10 hours after) taking a H2-receptor antagonist.                                                      |
-| Gastric acid reducing agents | Antacids                            | The interval between taking the medicinal products should be at least 2 hours.                                                          |
-
-## Missed dose
+|                  | Co-administered medicinal product   | Recommended Calquence use                                                                                                               |
+|------------------|-------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|
+| CYP3A inhibitors | Strong CYP3A inhibitor              | Avoid concomitant use. If these inhibitors will be used short-term (such as anti-infectives for up to seven days), interrupt Calquence. |
+| CYP3A inhibitors | Moderate CYP3A inhibitor            | No dose adjustment. Monitor patients closely for adverse reactions if taking moderate CYP3A inhibitors.                                 |
+| CYP3A inhibitors | Mild CYP3A inhibitor                | No dose adjustment.                                                                                                                     |
 
 <div style=\"page-break-after: always\"></div>
+
+|                              | Co-administered medicinal product   | Recommended Calquence use                                                          |
+|------------------------------|-------------------------------------|------------------------------------------------------------------------------------|
+| CYP3A inducers               | Strong CYP3A inducer                | Avoid concomitant use.                                                             |
+| Gastric acid reducing agents | Proton pump inhibitors              | Avoid concomitant use.                                                             |
+| Gastric acid reducing agents | H2-receptor antagonists             | Take Calquence 2 hours before (or 10 hours after) taking a H2-receptor antagonist. |
+| Gastric acid reducing agents | Antacids                            | The interval between taking the medicinal products should be at least 2 hours.     |
+
+## Missed dose
 
 If a patient misses a dose of Calquence by more than 3 hours, the patient should be instructed to take the next dose at its regularly scheduled time. Double dose of Calquence should not be taken to make up for a missed dose.
 
 ## Special populations
 
-## Elderly
+Elderly
 
 No dose adjustment is required for elderly patients (aged ≥ 65 years) (see section 5.2).
 
@@ -164,6 +175,8 @@ Patients with severe cardiovascular disease were excluded from Calquence clinica
 
 The safety and efficacy of Calquence in children and adolescents aged 0 to 18 years have not been established. No data are available.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Method of administration
 
 Calquence is for oral use. The capsules should be swallowed whole with water at approximately the same time each day, with or without food (see section 4.5). The capsules should not be chewed, dissolved or opened as this may affect the absorption of the medicinal product into the body.
@@ -173,8 +186,6 @@ Calquence is for oral use. The capsules should be swallowed whole with water at 
 Hypersensitivity to the active substance or to any of the excipients listed in section 6.1.
 
 ## 4.4 Special warnings and precautions for use
-
-<div style=\"page-break-after: always\"></div>
 
 ## Haemorrhage
 
@@ -196,15 +207,13 @@ Cases of hepatitis B reactivation have been reported in patients receiving Calqu
 
 Cases of progressive multifocal leukoencephalopathy (PML) including fatal ones have been reported following the use of Calquence within the context of a prior or concomitant immunosuppressive therapy. Physicians should consider PML in the differential diagnosis in patients with new or worsening neurological, cognitive or behavioural signs or symptoms. If PML is suspected, then appropriate diagnostic evaluations should be undertaken and treatment with Calquence should be suspended until PML is excluded. If any doubt exists, referral to a neurologist and appropriate diagnostic measures for PML including MRI scan preferably with contrast, cerebrospinal fluid (CSF) testing for JC Viral DNA and repeat neurological assessments should be considered.
 
+<div style=\"page-break-after: always\"></div>
+
 Consider prophylaxis according to standard of care in patients who are at increased risk for opportunistic infections. Monitor patients for signs and symptoms of infection and treat as medically appropriate.
 
 ## Cytopenias
 
-Treatment-emergent Grade 3 or 4 cytopenias, including neutropenia, anaemia and thrombocytopenia, occurred in patients with haematologic malignancies treated with Calquence monotherapy and in
-
-<div style=\"page-break-after: always\"></div>
-
-combination with other medicinal products. Monitor complete blood counts as medically indicated (see section 4.8) .
+Treatment-emergent Grade 3 or 4 cytopenias, including neutropenia, anaemia and thrombocytopenia, occurred in patients with haematologic malignancies treated with Calquence monotherapy and in combination with other medicinal products. Monitor complete blood counts as medically indicated (see section 4.8) .
 
 ## Second primary malignancies
 
@@ -224,13 +233,15 @@ Interstitial lung disease (ILD)/pneumonitis has been reported in patients treate
 
 ## Other medicinal products
 
-Co-administration of strong CYP3A inhibitors with Calquence may lead to increased acalabrutinib exposure and consequently a higher risk for toxicity. On the contrary, co-administration of CYP3A inducers may lead to decreased acalabrutinib exposure and consequently a risk for lack of efficacy. Concomitant use with strong CYP3A inhibitors should be avoided. If these inhibitors will be used short-term (such as anti-infectives for up to seven days), treatment with Calquence should be interrupted. Patients should be closely monitored for signs of toxicity if a moderate CYP3A inhibitor is used (see sections 4.2 and 4.5). Concomitant use with strong CYP3A4 inducers should be avoided due to risk for lack of efficacy.
+Co-administration of strong CYP3A inhibitors with Calquence may lead to increased acalabrutinib exposure and consequently a higher risk for toxicity. On the contrary, co-administration of CYP3A inducers may lead to decreased acalabrutinib exposure and consequently a risk for lack of efficacy.
+
+<div style=\"page-break-after: always\"></div>
+
+Concomitant use with strong CYP3A inhibitors should be avoided. If these inhibitors will be used short-term (such as anti-infectives for up to seven days), treatment with Calquence should be interrupted. Patients should be closely monitored for signs of toxicity if a moderate CYP3A inhibitor is used (see sections 4.2 and 4.5). Concomitant use with strong CYP3A4 inducers should be avoided due to risk for lack of efficacy.
 
 ## Calquence contains sodium
 
 This medicinal product contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium-free'.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
@@ -258,9 +269,9 @@ Concomitant use with strong inducers of CYP3A activity (e.g., phenytoin, rifampi
 
 Acalabrutinib solubility decreases with increasing pH. Co-administration of acalabrutinib with an antacid (1 g calcium carbonate) decreased acalabrutinib AUC by 53% in healthy subjects. Co-administration with a proton pump inhibitor (40 mg omeprazole for 5 days) decreased acalabrutinib AUC by 43%.
 
-If treatment with an acid reducing agent is required, consider using an antacid (e.g., calcium carbonate), or an H2-receptor antagonist (e.g., ranitidine or famotidine). For use with antacids, the interval between taking the medicinal products should be at least 2 hours (see section 4.2). For H2-receptor antagonists, Calquence should be taken 2 hours before (or 10 hours after) taking the H2-receptor antagonist. Due to the long-lasting effect of proton pump inhibitors, separation of doses with proton pump inhibitors may not eliminate the interaction with Calquence and therefore concomitant use should be avoided (see section 4.2).
-
 <div style=\"page-break-after: always\"></div>
+
+If treatment with an acid reducing agent is required, consider using an antacid (e.g., calcium carbonate), or an H2-receptor antagonist (e.g., ranitidine or famotidine). For use with antacids, the interval between taking the medicinal products should be at least 2 hours (see section 4.2). For H2-receptor antagonists, Calquence should be taken 2 hours before (or 10 hours after) taking the H2-receptor antagonist. Due to the long-lasting effect of proton pump inhibitors, separation of doses with proton pump inhibitors may not eliminate the interaction with Calquence and therefore concomitant use should be avoided (see section 4.2).
 
 ## Active substances whose plasma concentrations may be altered by Calquence
 
@@ -290,11 +301,11 @@ There are no or limited amount of data from the use of acalabrutinib in pregnant
 
 Calquence should not be used during pregnancy unless the clinical condition of the woman requires treatment with acalabrutinib.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Breast-feeding
 
 It is not known whether acalabrutinib is excreted in human milk. There are no data on the effect of acalabrutinib on the breast-fed child or on milk production. Acalabrutinib and its active metabolite were present in the milk of lactating rats. A risk to the breast-fed child cannot be excluded. Breast-feeding mothers are advised not to breast-feed during treatment with Calquence and for 2 days after receiving the last dose.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Fertility
 
@@ -324,11 +335,11 @@ Of the 291 patients treated with Calquence in combination with venetoclax, the m
 
 Of the 284 patients treated with Calquence in combination with venetoclax and obinutuzumab, the most common (≥ 20%) ADRs of any grade were infections, neutropenia, headache, bruising, diarrhoea, nausea and musculoskeletal pain. The most commonly reported (≥ 5%) Grade ≥ 3 adverse drug reactions were neutropenia and thrombocytopenia.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Calquence in combination with bendamustine and rituximab
 
 Of the 297 patients treated with Calquence in combination with bendamustine and rituximab, the most common (≥ 20%) ADRs of any grade were neutropenia, nausea, rash, diarrhoea, musculoskeletal pain, headache, fatigue, vomiting, constipation, anaemia and thrombocytopenia. The most commonly reported (≥ 5%) Grade ≥ 3 adverse drug reactions were neutropenia, rash, thrombocytopenia, anaemia, pneumonia, second primary malignancies, hypertension and second primary malignancies excluding non-melanoma skin.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Tabulated list of adverse reactions
 
@@ -338,95 +349,97 @@ Adverse drug reactions are listed according to system organ class (SOC) in MedDR
 
 Table 4. Adverse drug reactions* of patients with haematological malignancies treated with acalabrutinib monotherapy (N=1 478)
 
-| MedDRA SOC                                  | MedDRA Term                                                                                        | All Grades (%)                               | Grade ≥ 3 * (%)   |
-|---------------------------------------------|----------------------------------------------------------------------------------------------------|----------------------------------------------|-------------------|
-| Infections and infestations                 | Upper respiratory tract infection                                                                  | Very common (25.8)                           | 1.2               |
-| Infections and infestations                 | Pneumonia                                                                                          | Very common (15.8)                           | 8.7               |
-| Infections and infestations                 | Sinusitis                                                                                          | Very common (11.4)                           | 0.4               |
-| Infections and infestations                 | Urinary tract infection                                                                            | Common (9.9)                                 | 1.8               |
-| Infections and infestations                 | Bronchitis                                                                                         | Common (9.7)                                 | 0.6               |
-| Infections and infestations                 | Herpes viral infections †                                                                          | Common (9.1)                                 | 0.9               |
-| Infections and infestations                 | Nasopharyngitis                                                                                    | Common (8.3)                                 | 0                 |
-| Infections and infestations                 | Aspergillus infections †                                                                           | Uncommon (0.7)                               | 0.6               |
-| Infections and infestations                 | Hepatitis B reactivation                                                                           | Uncommon (0.4)                               | 0.3               |
-| Neoplasms benign, malignant and unspecified | Second Primary Malignancy (SPM) † Non-melanoma skin malignancy † SPM excluding non-melanoma skin † | Very common (17.6) Common (9.9) Common (9.7) | 6.7 1.4 5.5       |
-| Blood and lymphatic system disorders        | Neutropenia †                                                                                      | Very common (19.4)                           | 17.5              |
-| Blood and lymphatic system disorders        | Anaemia †                                                                                          | Very common (17.1)                           | 9.5               |
-| Blood and lymphatic system disorders        | Thrombocytopenia †                                                                                 | Very common (11.5)                           | 6.2               |
-| Blood and lymphatic system disorders        | Lymphocytosis                                                                                      | Uncommon (0.5)                               | 0.3               |
-| Metabolism and nutrition disorders          | Tumour Lysis Syndrome                                                                              | Uncommon (0.5)                               | 0.4               |
+| MedDRA SOC                  | MedDRA Term                       | All Grades (%)     |   Grade ≥ 3 * (%) |
+|-----------------------------|-----------------------------------|--------------------|-------------------|
+| Infections and infestations | Upper respiratory tract infection | Very common (25.8) |               1.2 |
+| Infections and infestations | Pneumonia                         | Very common (15.8) |               8.7 |
+| Infections and infestations | Sinusitis                         | Very common (11.4) |               0.4 |
+| Infections and infestations | Urinary tract infection           | Common (9.9)       |               1.8 |
+| Infections and infestations | Bronchitis                        | Common (9.7)       |               0.6 |
+| Infections and infestations | Herpes viral infections †         | Common (9.1)       |               0.9 |
+| Infections and infestations | Nasopharyngitis                   | Common (8.3)       |                 0 |
+| Infections and infestations | Aspergillus infections †          | Uncommon (0.7)     |               0.6 |
+| Infections and infestations | Hepatitis B reactivation          | Uncommon (0.4)     |               0.3 |
 
 <div style=\"page-break-after: always\"></div>
 
-| MedDRA SOC                                           | MedDRA Term                                                                   | All Grades (%)                                                  | Grade ≥ 3 * (%)   |
-|------------------------------------------------------|-------------------------------------------------------------------------------|-----------------------------------------------------------------|-------------------|
-| Nervous system disorders                             | Headache                                                                      | Very common (36.5)                                              | 1.2               |
-| Nervous system disorders                             | Dizziness                                                                     | Very common (13.9)                                              | 0.1               |
-| Cardiac disorders                                    | Atrial fibrillation/Flutter †                                                 | Common (7.4)                                                    | 2.3               |
-| Vascular disorders                                   | Bruising † Contusion Petechiae Ecchymoses                                     | Very common (30.9) Very common (20.7) Common (8.9) Common (5.7) | 0 0 0 0           |
-| Vascular disorders                                   | Haemorrhage/haematoma † Gastrointestinal haemorrhage Intracranial haemorrhage | Very common (16.3) Uncommon (0.9) Uncommon (0.1)                | 3.2 0.7 0.1       |
-| Vascular disorders                                   | Hypertension †                                                                | Very common (11.9)                                              | 4.9               |
-| Vascular disorders                                   | Epistaxis                                                                     | Common (8.0)                                                    | 0.3               |
-| Gastrointestinal disorders                           | Diarrhoea                                                                     | Very common (36.7)                                              | 2.6               |
-| Gastrointestinal disorders                           | Nausea                                                                        | Very common (21.8)                                              | 0.8               |
-| Gastrointestinal disorders                           | Constipation                                                                  | Very common (15.2)                                              | 0.1               |
-| Gastrointestinal disorders                           | Abdominal pain †                                                              | Very common (14.5)                                              | 1.2               |
-| Gastrointestinal disorders                           | Vomiting                                                                      | Very common (14.0)                                              | 0.7               |
-| Skin and subcutaneous tissue disorders               | Rash †                                                                        | Very common (20.3)                                              | 0.9               |
-| Musculoskeletal and connective tissue disorders      | Musculoskeletal Pain †                                                        | Very common (31.9)                                              | 1.8               |
-| Musculoskeletal and connective tissue disorders      | Arthralgia                                                                    | Very common (24.0)                                              | 0.9               |
-| General disorders and administration site conditions | Fatigue                                                                       | Very common (23.6)                                              | 2.0               |
-| General disorders and administration site conditions | Asthenia                                                                      | Common (7.0)                                                    | 0.9               |
-| Investigations § (Findings based on test results)    | Haemoglobin decreased ±                                                       | Very common (47.4)                                              | 10.8              |
-| Investigations § (Findings based on test results)    | Absolute neutrophil count decreased ±                                         | Very common (43.9)                                              | 24.0              |
-| Investigations § (Findings based on test results)    | Platelets decreased ±                                                         | Very common (36.9)                                              | 9.5               |
+| MedDRA SOC                                         | MedDRA Term                                                                                  | All Grades (%)                                                      | Grade ≥ 3 * (%)   |
+|----------------------------------------------------|----------------------------------------------------------------------------------------------|---------------------------------------------------------------------|-------------------|
+| Neoplasms benign, malignant and unspecified Second | Primary Malignancy (SPM) † Non-melanoma skin malignancy † SPM excluding non-melanoma skin †  | Very common (17.6) Common (9.9) Common (9.7)                        | 6.7 1.4 5.5       |
+| Blood and                                          | Neutropenia †                                                                                | Very common (19.4)                                                  | 17.5              |
+| lymphatic system disorders                         | Anaemia †                                                                                    | Very common (17.1)                                                  | 9.5               |
+| lymphatic system disorders                         | Thrombocytopenia †                                                                           | Very common (11.5)                                                  | 6.2               |
+| lymphatic system disorders                         | Lymphocytosis                                                                                | Uncommon (0.5)                                                      | 0.3               |
+| Metabolism and nutrition disorders                 | Tumour Lysis Syndrome                                                                        | Uncommon (0.5)                                                      | 0.4               |
+| Nervous system disorders                           | Headache                                                                                     | Very common (36.5)                                                  | 1.2               |
+| Nervous system disorders                           | Dizziness                                                                                    | Very common (13.9)                                                  | 0.1               |
+| Cardiac disorders                                  | Atrial fibrillation/Flutter †                                                                | Common (7.4)                                                        | 2.3               |
+| Vascular                                           | Bruising † Contusion Petechiae Ecchymoses                                                    | Very common (30.9) Very common (20.7) Common (8.9) Common (5.7)     | 0 0 0 0           |
+| disorders                                          | Haemorrhage/haematoma † Gastrointestinal haemorrhage Intracranial haemorrhage Hypertension † | Very common (16.3) Uncommon (0.9) Uncommon (0.1) Very common (11.9) | 3.2 0.7 0.1 4.9   |
+|                                                    | Epistaxis                                                                                    | Common (8.0)                                                        | 0.3               |
+| Gastrointestinal disorders                         | Diarrhoea                                                                                    | Very common (36.7)                                                  | 2.6               |
+|                                                    | Nausea                                                                                       | Very common (21.8)                                                  | 0.8               |
+|                                                    | Constipation                                                                                 | Very common (15.2)                                                  | 0.1               |
+|                                                    | Abdominal pain †                                                                             | Very common (14.5)                                                  | 1.2               |
+|                                                    | Vomiting                                                                                     | Very common (14.0)                                                  | 0.7               |
+| Skin and subcutaneous tissue disorders             | Rash †                                                                                       | Very common (20.3)                                                  | 0.9               |
+| Musculoskeletal and connective                     | Musculoskeletal Pain †                                                                       | Very common (31.9)                                                  | 1.8               |
+| tissue disorders                                   | Arthralgia                                                                                   | Very common (24.0)                                                  | 0.9               |
+| General disorders and administration               | Fatigue                                                                                      | Very common (23.6)                                                  | 2.0               |
+| site conditions                                    | Asthenia                                                                                     | Common (7.0)                                                        | 0.9               |
 
 <div style=\"page-break-after: always\"></div>
+
+| MedDRA SOC                                        | MedDRA Term                           | All Grades (%)     |   Grade ≥ 3 * (%) |
+|---------------------------------------------------|---------------------------------------|--------------------|-------------------|
+| Investigations § (Findings based on test results) | Haemoglobin decreased ±               | Very common (47.4) |              10.8 |
+| Investigations § (Findings based on test results) | Absolute neutrophil count decreased ± | Very common (43.9) |              24.0 |
+| Investigations § (Findings based on test results) | Platelets decreased ±                 | Very common (36.9) |               9.5 |
 
 Table 5. Adverse drug reactions* of patients with haematological malignancies treated with acalabrutinib combination therapy (N=1 095)
+
+|                                            | Calquence + Obinutuzumab N=223   | Calquence + Obinutuzumab N=223   | Calquence + BR N=297        | Calquence + BR N=297        | Calquence + venetoclax N=291   | Calquence + venetoclax N=291   | Calquence + venetoclax + obinutuzumab N=284   | Calquence + venetoclax + obinutuzumab N=284   |
+|--------------------------------------------|----------------------------------|----------------------------------|-----------------------------|-----------------------------|--------------------------------|--------------------------------|-----------------------------------------------|-----------------------------------------------|
+| MedDRA SOC and MedDRA Term                 | All Grades (%)                   | Grade ≥ 3* (%)                   | All Grades (%)              | Grade ≥ 3* (%)              | All Grades (%)                 | Grade ≥ 3* (%)                 | All Grades (%)                                | Grade ≥ 3* (%)                                |
+| Infections and infestations                | Infections and infestations      | Infections and infestations      | Infections and infestations | Infections and infestations | Infections and infestations    | Infections and infestations    | Infections and infestations                   | Infections and infestations                   |
+| Upper respiratory tract infection          | Very common (31.4)               | 1.8                              | Very common (18.2)          | 0.3                         | Common (8.2)                   | 0.3                            | Common (6.3)                                  | 0                                             |
+| Sinusitis                                  | Very common (15.2)               | 0.4                              | Common (6.4)                | 0                           | Common (2.7)                   | 0                              | Common (2.5)                                  | 0                                             |
+| Nasopharyngitis                            | Very common (13.5)               | 0.4                              | Common (5.4)                | 0                           | Common (1.4)                   | 0                              | Common (1.1)                                  | 0                                             |
+| Urinary tract infection                    | Very common (13)                 | 0.9                              | Very common (11.1)          | 1.7                         | Common (3.1)                   | 0                              | Common (6.0)                                  | 0.4                                           |
+| Pneumonia                                  | Very common (10.8)               | 5.4                              | Very common (16.2)          | 8.8                         | Common (3.8)                   | 1.4                            | Common (5.3)                                  | 3.9                                           |
+| Bronchitis                                 | Common (9.9)                     | 0                                | Common (6.4)                | 0.3                         | Common (2.1)                   | 0                              | Common (2.5)                                  | 0                                             |
+| Herpes viral infections †                  | Common (6.7)                     | 1.3                              | Very common (12.8)          | 1.0                         | Common (4.8)                   | 0                              | Common (3.5)                                  | 0.4                                           |
+| Progressive multifocal leukoencephalopathy | Uncommon (0.4)                   | 0.4                              | Not known                   | 0                           | Not known                      | 0                              | Not known                                     | 0                                             |
+
+<div style=\"page-break-after: always\"></div>
 
 |                                             | Calquence + Obinutuzumab N=223              | Calquence + Obinutuzumab N=223              | Calquence + BR N=297                        | Calquence + BR N=297                        | Calquence + venetoclax N=291                | Calquence + venetoclax N=291                | Calquence + venetoclax + obinutuzumab N=284   | Calquence + venetoclax + obinutuzumab N=284   |
 |---------------------------------------------|---------------------------------------------|---------------------------------------------|---------------------------------------------|---------------------------------------------|---------------------------------------------|---------------------------------------------|-----------------------------------------------|-----------------------------------------------|
 | MedDRA SOC and MedDRA Term                  | All Grades (%)                              | Grade ≥ 3* (%)                              | All Grades (%)                              | Grade ≥ 3* (%)                              | All Grades (%)                              | Grade ≥ 3* (%)                              | All Grades (%)                                | Grade ≥ 3* (%)                                |
-| Infections and infestations                 | Infections and infestations                 | Infections and infestations                 | Infections and infestations                 | Infections and infestations                 | Infections and infestations                 | Infections and infestations                 | Infections and infestations                   | Infections and infestations                   |
-| Upper respiratory tract infection           | Very common (31.4)                          | 1.8                                         | Very common (18.2)                          | 0.3                                         | Common (8.2)                                | 0.3                                         | Common (6.3)                                  | 0                                             |
-| Sinusitis                                   | Very common (15.2)                          | 0.4                                         | Common (6.4)                                | 0                                           | Common (2.7)                                | 0                                           | Common (2.5)                                  | 0                                             |
-| Nasopharyngitis                             | Very common (13.5)                          | 0.4                                         | Common (5.4)                                | 0                                           | Common (1.4)                                | 0                                           | Common (1.1)                                  | 0                                             |
-| Urinary tract infection                     | Very common (13)                            | 0.9                                         | Very common (11.1)                          | 1.7                                         | Common (3.1)                                | 0                                           | Common (6.0)                                  | 0.4                                           |
-| Pneumonia                                   | Very common (10.8)                          | 5.4                                         | Very common (16.2)                          | 8.8                                         | Common (3.8)                                | 1.4                                         | Common (5.3)                                  | 3.9                                           |
-| Bronchitis                                  | Common (9.9)                                | 0                                           | Common (6.4)                                | 0.3                                         | Common (2.1)                                | 0                                           | Common (2.5)                                  | 0                                             |
-| Herpes viral infections †                   | Common (6.7)                                | 1.3                                         | Very common (12.8)                          | 1.0                                         | Common (4.8)                                | 0                                           | Common (3.5)                                  | 0.4                                           |
-| Progressive multifocal leukoencephalopathy  | Uncommon (0.4)                              | 0.4                                         | Not known                                   | 0                                           | Not known                                   | 0                                           | Not known                                     | 0                                             |
 | Hepatitis B reactivation                    | Uncommon (0.9)                              | 0.1                                         | Common (1.3)                                | 0.3                                         | Not known                                   | 0                                           | Not known                                     | 0                                             |
 | Aspergillus infections †                    | Not known                                   | 0                                           | Uncommon (0.3)                              | 0.3                                         | Not known                                   | 0                                           | Uncommon (0.4)                                | 0.4                                           |
 | Neoplasms benign, malignant and unspecified | Neoplasms benign, malignant and unspecified | Neoplasms benign, malignant and unspecified | Neoplasms benign, malignant and unspecified | Neoplasms benign, malignant and unspecified | Neoplasms benign, malignant and unspecified | Neoplasms benign, malignant and unspecified | Neoplasms benign, malignant and unspecified   | Neoplasms benign, malignant and unspecified   |
-
-<div style=\"page-break-after: always\"></div>
-
-|                                      | Calquence + Obinutuzumab N=223       | Calquence + Obinutuzumab N=223       | Calquence + BR N=297                 | Calquence + BR N=297                 | Calquence + venetoclax N=291         | Calquence + venetoclax N=291         | Calquence + venetoclax + obinutuzumab N=284   | Calquence + venetoclax + obinutuzumab N=284   |
-|--------------------------------------|--------------------------------------|--------------------------------------|--------------------------------------|--------------------------------------|--------------------------------------|--------------------------------------|-----------------------------------------------|-----------------------------------------------|
-| MedDRA SOC and MedDRA Term           | All Grades (%)                       | Grade ≥ 3* (%)                       | All Grades (%)                       | Grade ≥ 3* (%)                       | All Grades (%)                       | Grade ≥ 3* (%)                       | All Grades (%)                                | Grade ≥ 3* (%)                                |
-| Second primary malignancy † (SPM)    | Very common (13)                     | 4.0                                  | Very common (17.8)                   | 7.4                                  | Common (5.2)                         | 1.7                                  | Common (4.2)                                  | 1.8                                           |
-| Non-melanoma skin malignancy †       | Common (7.6)                         | 0.4                                  | Very common (11.1)                   | 2.0                                  | Common (3.1)                         | 0                                    | Common (1.8)                                  | 0.4                                           |
-| SPM excluding non-melanoma skin †    | Common (6.3)                         | 3.6                                  | Common (9.8)                         | 5.4                                  | Common (2.7)                         | 1.7                                  | Common (2.5)                                  | 1.4                                           |
-| Blood and lymphatic system disorders | Blood and lymphatic system disorders | Blood and lymphatic system disorders | Blood and lymphatic system disorders | Blood and lymphatic system disorders | Blood and lymphatic system disorders | Blood and lymphatic system disorders | Blood and lymphatic system disorders          | Blood and lymphatic system disorders          |
-| Neutropenia †                        | Very common (31.8)                   | 30                                   | Very common (54.9)                   | 50.2                                 | Very Common (37.1)                   | 32.3                                 | Very Common (50.4)                            | 46.1                                          |
-| Thrombocytopenia †                   | Very common (13.9)                   | 9                                    | Very common (22.9)                   | 9.8                                  | Common (5.8)                         | 2.1                                  | Very Common (12.3)                            | 9.2                                           |
-| Anaemia †                            | Very common (11.7)                   | 5.8                                  | Very common (24.2)                   | 9.4                                  | Common (6.9)                         | 3.8                                  | Common (4.6)                                  | 2.1                                           |
-| Lymphocytosis                        | Uncommon (0.4)                       | 0.4                                  | Uncommon (0.7)                       | 0                                    | Not known                            | 0                                    | Uncommon (0.7)                                | 0.4                                           |
-| Metabolism and nutrition disorders   | Metabolism and nutrition disorders   | Metabolism and nutrition disorders   | Metabolism and nutrition disorders   | Metabolism and nutrition disorders   | Metabolism and nutrition disorders   | Metabolism and nutrition disorders   | Metabolism and nutrition disorders            | Metabolism and nutrition disorders            |
-| Tumour lysis syndrome                | Common (1.8)                         | 1.3                                  | Common (1.3)                         | 1.3                                  | Uncommon (0.3)                       | 0.3                                  | Uncommon (0.4)                                | 0.4                                           |
-| Nervous system disorders             | Nervous system disorders             | Nervous system disorders             | Nervous system disorders             | Nervous system disorders             | Nervous system disorders             | Nervous system disorders             | Nervous system disorders                      | Nervous system disorders                      |
-| Headache                             | Very common (43)                     | 0.9                                  | Very common (30.3)                   | 1.3                                  | Very Common (35.1)                   | 1.4                                  | Very Common (28.2)                            | 0.4                                           |
-| Dizziness                            | Very common (23.8)                   | 0                                    | Very common (14.5)                   | 0.7                                  | Common (5.5)                         | 0                                    | Common (6.7)                                  | 0                                             |
-| Cardiac disorders                    | Cardiac disorders                    | Cardiac disorders                    | Cardiac disorders                    | Cardiac disorders                    | Cardiac disorders                    | Cardiac disorders                    | Cardiac disorders                             | Cardiac disorders                             |
-| Atrial fibrillation/flutter †        | Common (3.1)                         | 0.9                                  | Common (6.7)                         | 4.0                                  | Uncommon (0.7)                       | 0.3                                  | Common (2.1)                                  | 0.7                                           |
+| Second primary malignancy † (SPM)           | Very common (13)                            | 4.0                                         | Very common (17.8)                          | 7.4                                         | Common (5.2)                                | 1.7                                         | Common (4.2)                                  | 1.8                                           |
+| Non-melanoma skin malignancy †              | Common (7.6)                                | 0.4                                         | Very common (11.1)                          | 2.0                                         | Common (3.1)                                | 0                                           | Common (1.8)                                  | 0.4                                           |
+| SPM excluding non-melanoma skin †           | Common (6.3)                                | 3.6                                         | Common (9.8)                                | 5.4                                         | Common (2.7)                                | 1.7                                         | Common (2.5)                                  | 1.4                                           |
+| Blood and lymphatic system disorders        | Blood and lymphatic system disorders        | Blood and lymphatic system disorders        | Blood and lymphatic system disorders        | Blood and lymphatic system disorders        | Blood and lymphatic system disorders        | Blood and lymphatic system disorders        | Blood and lymphatic system disorders          | Blood and lymphatic system disorders          |
+| Neutropenia †                               | Very common (31.8)                          | 30                                          | Very common (54.9)                          | 50.2                                        | Very Common (37.1)                          | 32.3                                        | Very Common (50.4)                            | 46.1                                          |
+| Thrombocytopenia †                          | Very common (13.9)                          | 9                                           | Very common (22.9)                          | 9.8                                         | Common (5.8)                                | 2.1                                         | Very Common (12.3)                            | 9.2                                           |
+| Anaemia †                                   | Very common (11.7)                          | 5.8                                         | Very common (24.2)                          | 9.4                                         | Common (6.9)                                | 3.8                                         | Common (4.6)                                  | 2.1                                           |
+| Lymphocytosis                               | Uncommon (0.4)                              | 0.4                                         | Uncommon (0.7)                              | 0                                           | Not known                                   | 0                                           | Uncommon (0.7)                                | 0.4                                           |
+| Metabolism and nutrition disorders          | Metabolism and nutrition disorders          | Metabolism and nutrition disorders          | Metabolism and nutrition disorders          | Metabolism and nutrition disorders          | Metabolism and nutrition disorders          | Metabolism and nutrition disorders          | Metabolism and nutrition disorders            | Metabolism and nutrition disorders            |
+| Tumour lysis syndrome                       | Common (1.8)                                | 1.3                                         | Common (1.3)                                | 1.3                                         | Uncommon (0.3)                              | 0.3                                         | Uncommon (0.4)                                | 0.4                                           |
+| Nervous system disorders                    | Nervous system disorders                    | Nervous system disorders                    | Nervous system disorders                    | Nervous system disorders                    | Nervous system disorders                    | Nervous system disorders                    | Nervous system disorders                      | Nervous system disorders                      |
+| Headache                                    | Very common (43)                            | 0.9                                         | Very common (30.3)                          | 1.3                                         | Very Common (35.1)                          | 1.4                                         | Very Common (28.2)                            | 0.4                                           |
+| Dizziness                                   | Very common (23.8)                          | 0                                           | Very common (14.5)                          | 0.7                                         | Common (5.5)                                | 0                                           | Common (6.7)                                  | 0                                             |
+| Cardiac disorders                           | Cardiac disorders                           | Cardiac disorders                           | Cardiac disorders                           | Cardiac disorders                           | Cardiac disorders                           | Cardiac disorders                           | Cardiac disorders                             | Cardiac disorders                             |
 
 <div style=\"page-break-after: always\"></div>
 
 |                                                 | Calquence + Obinutuzumab N=223                  | Calquence + Obinutuzumab N=223                  | Calquence + BR N=297                            | Calquence + BR N=297                            | Calquence + venetoclax N=291                    | Calquence + venetoclax N=291                    | Calquence + venetoclax + obinutuzumab N=284     | Calquence + venetoclax + obinutuzumab N=284     |
 |-------------------------------------------------|-------------------------------------------------|-------------------------------------------------|-------------------------------------------------|-------------------------------------------------|-------------------------------------------------|-------------------------------------------------|-------------------------------------------------|-------------------------------------------------|
 | MedDRA SOC and MedDRA Term                      | All Grades (%)                                  | Grade ≥ 3* (%)                                  | All Grades (%)                                  | Grade ≥ 3* (%)                                  | All Grades (%)                                  | Grade ≥ 3* (%)                                  | All Grades (%)                                  | Grade ≥ 3* (%)                                  |
+| Atrial fibrillation/flutter †                   | Common (3.1)                                    | 0.9                                             | Common (6.7)                                    | 4.0                                             | Uncommon (0.7)                                  | 0.3                                             | Common (2.1)                                    | 0.7                                             |
 | Vascular disorders                              | Vascular disorders                              | Vascular disorders                              | Vascular disorders                              | Vascular disorders                              | Vascular disorders                              | Vascular disorders                              | Vascular disorders                              | Vascular disorders                              |
 | Bruising †                                      | Very common (38.6)                              | 0                                               | Very common (14.1)                              | 0.3                                             | Very common (20.6)                              | 0                                               | Very common (21.8)                              | 0                                               |
 | Contusion                                       | Very common (27.4)                              | 0                                               | Very common (11.1)                              | 0                                               | Very common (14.1)                              | 0                                               | Very common (16.2)                              | 0                                               |
@@ -439,15 +452,15 @@ Table 5. Adverse drug reactions* of patients with haematological malignancies tr
 | Epistaxis                                       | Common (8.5)                                    | 0                                               | Common (2.7)                                    | 0                                               | Common (1.7)                                    | 0                                               | Common (4.2)                                    | 0                                               |
 | Respiratory, thoracic and mediastinal disorders | Respiratory, thoracic and mediastinal disorders | Respiratory, thoracic and mediastinal disorders | Respiratory, thoracic and mediastinal disorders | Respiratory, thoracic and mediastinal disorders | Respiratory, thoracic and mediastinal disorders | Respiratory, thoracic and mediastinal disorders | Respiratory, thoracic and mediastinal disorders | Respiratory, thoracic and mediastinal disorders |
 | Pneumonitis ±                                   | -                                               | -                                               | Common (2.4)                                    | 0.3                                             | -                                               | -                                               | -                                               | -                                               |
-| Gastrointestinal disorders                      | Gastrointestinal disorders                      | Gastrointestinal disorders                      | Gastrointestinal disorders                      | Gastrointestinal disorders                      | Gastrointestinal disorders                      | Gastrointestinal disorders                      | Gastrointestinal disorders                      | Gastrointestinal disorders                      |
-| Diarrhoea                                       | Very common (43.9)                              | 4.5                                             | Very common (37.4)                              | 3.0                                             | Very common (32.6)                              | 1.7                                             | Very common (36.3)                              | 1.4                                             |
-| Nausea                                          | Very common (26.9)                              | 0                                               | Very common (42.8)                              | 1.3                                             | Very common (14.8)                              | 0                                               | Very common (21.8)                              | 0.7                                             |
 
 <div style=\"page-break-after: always\"></div>
 
 |                                                      | Calquence + Obinutuzumab N=223                       | Calquence + Obinutuzumab N=223                       | Calquence + BR N=297                                 | Calquence + BR N=297                                 | Calquence + venetoclax N=291                         | Calquence + venetoclax N=291                         | Calquence + venetoclax + obinutuzumab N=284          | Calquence + venetoclax + obinutuzumab N=284          |
 |------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|
 | MedDRA SOC and MedDRA Term                           | All Grades (%)                                       | Grade ≥ 3* (%)                                       | All Grades (%)                                       | Grade ≥ 3* (%)                                       | All Grades (%)                                       | Grade ≥ 3* (%)                                       | All Grades (%)                                       | Grade ≥ 3* (%)                                       |
+| Gastrointestinal disorders                           | Gastrointestinal disorders                           | Gastrointestinal disorders                           | Gastrointestinal disorders                           | Gastrointestinal disorders                           | Gastrointestinal disorders                           | Gastrointestinal disorders                           | Gastrointestinal disorders                           | Gastrointestinal disorders                           |
+| Diarrhoea                                            | Very common (43.9)                                   | 4.5                                                  | Very common (37.4)                                   | 3.0                                                  | Very common (32.6)                                   | 1.7                                                  | Very common (36.3)                                   | 1.4                                                  |
+| Nausea                                               | Very common (26.9)                                   | 0                                                    | Very common (42.8)                                   | 1.3                                                  | Very common (14.8)                                   | 0                                                    | Very common (21.8)                                   | 0.7                                                  |
 | Constipation                                         | Very common (20.2)                                   | 0                                                    | Very common (24.6)                                   | 1.0                                                  | Common (6.5)                                         | 0.3                                                  | Common (8.1)                                         | 0                                                    |
 | Vomiting                                             | Very common (19.3)                                   | 0.9                                                  | Very common (25.6)                                   | 0.7                                                  | Common (5.5)                                         | 0                                                    | Common (6.7)                                         | 0                                                    |
 | Abdominal pain †                                     | Very common (14.8)                                   | 1.3                                                  | Very common (12.1)                                   | 2.0                                                  | Common (7.9)                                         | 1.0                                                  | Common (8.1)                                         | 0.7                                                  |
@@ -461,15 +474,15 @@ Table 5. Adverse drug reactions* of patients with haematological malignancies tr
 | Asthenia                                             | Common (7.6)                                         | 0.4                                                  | Very common (10.4)                                   | 1.0                                                  | Common (4.1)                                         | 0                                                    | Common (3.2)                                         | 0                                                    |
 | Investigations ¶                                     | Investigations ¶                                     | Investigations ¶                                     | Investigations ¶                                     | Investigations ¶                                     | Investigations ¶                                     | Investigations ¶                                     | Investigations ¶                                     | Investigations ¶                                     |
 | Absolute neutrophil count decreased §                | Very common (57.4)                                   | 35                                                   | Very common (76.8)                                   | 56.6                                                 | Very common (78.0)                                   | 38.1                                                 | Very common (81.7)                                   | 53.5                                                 |
-| Platelets decreased §                                | Very common (46.2)                                   | 10.8                                                 | Very common (69.4)                                   | 17.8                                                 | Very common (42.6)                                   | 5.2                                                  | Very common (54.9)                                   | 13.7                                                 |
-| Haemoglobin decreased §                              | Very common (43.9)                                   | 9                                                    | Very common (79.5)                                   | 10.8                                                 | Very common (34.7)                                   | 6.5                                                  | Very common (45.8)                                   | 3.5                                                  |
-| Alanine aminotransferase increased ‡                 | -                                                    | -                                                    | Common (9.1)                                         | 4.4                                                  | -                                                    | -                                                    | -                                                    | -                                                    |
 
 <div style=\"page-break-after: always\"></div>
 
 |                                        | Calquence + Obinutuzumab N=223   | Calquence + Obinutuzumab N=223   | Calquence + BR N=297   | Calquence + BR N=297   | Calquence + venetoclax N=291   | Calquence + venetoclax N=291   | Calquence + venetoclax + obinutuzumab N=284   | Calquence + venetoclax + obinutuzumab N=284   |
 |----------------------------------------|----------------------------------|----------------------------------|------------------------|------------------------|--------------------------------|--------------------------------|-----------------------------------------------|-----------------------------------------------|
 | MedDRA SOC and MedDRA Term             | All Grades (%)                   | Grade ≥ 3* (%)                   | All Grades (%)         | Grade ≥ 3* (%)         | All Grades (%)                 | Grade ≥ 3* (%)                 | All Grades (%)                                | Grade ≥ 3* (%)                                |
+| Platelets decreased §                  | Very common (46.2)               | 10.8                             | Very common (69.4)     | 17.8                   | Very common (42.6)             | 5.2                            | Very common (54.9)                            | 13.7                                          |
+| Haemoglobin decreased §                | Very common (43.9)               | 9                                | Very common (79.5)     | 10.8                   | Very common (34.7)             | 6.5                            | Very common (45.8)                            | 3.5                                           |
+| Alanine aminotransferase increased ‡   | -                                | -                                | Common (9.1)           | 4.4                    | -                              | -                              | -                                             | -                                             |
 | Aspartate aminotransferase increased ‡ | -                                | -                                | Common (8.1)           | 3.0                    | -                              | -                              | -                                             | -                                             |
 
 ## Description of selected adverse reactions
@@ -486,9 +499,9 @@ Of the 1 478 patients treated with Calquence monotherapy, discontinuation due to
 
 Of the 223 patients treated with Calquence in combination with obinutuzumab, discontinuation of Calquence due to adverse reactions were reported in 10.8% of the patients. These main adverse reactions included pneumonia, thrombocytopenia and diarrhoea. Dose reductions due to adverse reactions were reported in 6.7% of patients. These main adverse reactions included neutropenia, diarrhoea and vomiting.
 
-Of the 291 patients treated with Calquence in combination with venetoclax, discontinuation of Calquence due to adverse reactions were reported in 7.6% of the patients and dose reduction of Calquence due to adverse reactions were reported in 5.8% of patients. These main adverse reactions leading to discontinuation included COVID-19 pneumonia and COVID-19 and the adverse reaction leading to dose reduction was neutropenia.
-
 <div style=\"page-break-after: always\"></div>
+
+Of the 291 patients treated with Calquence in combination with venetoclax, discontinuation of Calquence due to adverse reactions were reported in 7.6% of the patients and dose reduction of Calquence due to adverse reactions were reported in 5.8% of patients. These main adverse reactions leading to discontinuation included COVID-19 pneumonia and COVID-19 and the adverse reaction leading to dose reduction was neutropenia.
 
 Of the 284 patients treated with Calquence in combination with venetoclax and obinutuzumab, discontinuation of Calquence due to adverse reactions were reported in 13.7% of the patients and dose reductions of Calquence due to adverse reactions were reported in 6.3% of patients. These main adverse reactions leading to discontinuation included COVID-19 pneumonia and COVID-19 and the adverse reaction leading to dose reduction was neutropenia.
 
@@ -512,6 +525,8 @@ Reporting suspected adverse reactions after authorisation of the medicinal produ
 
 There is no specific treatment for acalabrutinib overdose and symptoms of overdose have not been established. In the event of an overdose, patients must be closely monitored for signs or symptoms of adverse reactions and appropriate symptomatic treatment instituted.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 5. PHARMACOLOGICAL PROPERTIES
 
 ## 5.1 Pharmacodynamic properties
@@ -519,8 +534,6 @@ There is no specific treatment for acalabrutinib overdose and symptoms of overdo
 Pharmacotherapeutic group: Antineoplastic agents, protein kinase inhibitors, ATC code: L01EL02.
 
 ## Mechanism of action
-
-<div style=\"page-break-after: always\"></div>
 
 Acalabrutinib is a selective inhibitor of Bruton tyrosine kinase (BTK). BTK is a signalling molecule of the B-cell antigen receptor (BCR) and cytokine receptor pathways. In B-cells, BTK signalling results in B-cell survival and proliferation, and is required for cellular adhesion, trafficking, and chemotaxis.
 
@@ -545,14 +558,13 @@ The safety and efficacy of Calquence monotherapy or in combination with obinutuz
 Patients were randomised in a 1:1:1 ratio into 3 arms to receive:
 
 - Calquence plus obinutuzumab (Calquence+G): Calquence 100 mg was administered twice daily starting on Cycle 1 Day 1 until disease progression or unacceptable toxicity. Obinutuzumab was administered starting on Cycle 2 Day 1 for a maximum of 6 treatment cycles. Obinutuzumab 1 000 mg was administered on Days 1 and 2 (100 mg on Day 1 and 900 mg on Day 2), 8 and 15 of Cycle 2 followed by 1 000 mg on Day 1 of Cycles 3 up to 7. Each cycle was 28 days.
-- Calquence monotherapy: Calquence 100 mg was administered twice daily until disease progression or unacceptable toxicity.
-- Obinutuzumab plus chlorambucil (GClb): Obinutuzumab and chlorambucil were administered for a maximum of 6 treatment cycles. Obinutuzumab 1,000 mg was administered on Days 1 and 2 (100 mg on Day 1 and 900 mg on Day 2), 8 and 15 of Cycle 1 followed by 1 000 mg on Day 1 of Cycles 2 up to 6. Chlorambucil 0.5 mg/kg was administered on Days 1 and 15 of Cycles 1 up to 6. Each cycle was 28 days.
-
-Patients were stratified by 17p deletion mutation status (presence versus absence), ECOG performance status (0 or 1 versus 2) and geographic region (North America and Western Europe versus Other). After
 
 <div style=\"page-break-after: always\"></div>
 
-confirmed disease progression, 45 patients randomised on the GClb arm crossed over to Calquence monotherapy. Table 6 summarises the baseline demographics and disease characteristics of the study population.
+- Calquence monotherapy: Calquence 100 mg was administered twice daily until disease progression or unacceptable toxicity.
+- Obinutuzumab plus chlorambucil (GClb): Obinutuzumab and chlorambucil were administered for a maximum of 6 treatment cycles. Obinutuzumab 1,000 mg was administered on Days 1 and 2 (100 mg on Day 1 and 900 mg on Day 2), 8 and 15 of Cycle 1 followed by 1 000 mg on Day 1 of Cycles 2 up to 6. Chlorambucil 0.5 mg/kg was administered on Days 1 and 15 of Cycles 1 up to 6. Each cycle was 28 days.
+
+Patients were stratified by 17p deletion mutation status (presence versus absence), ECOG performance status (0 or 1 versus 2) and geographic region (North America and Western Europe versus Other). After confirmed disease progression, 45 patients randomised on the GClb arm crossed over to Calquence monotherapy. Table 6 summarises the baseline demographics and disease characteristics of the study population.
 
 Table 6. Baseline patient characteristics in (ELEVATE-TN) patients with previously untreated CLL
 
@@ -565,33 +577,30 @@ Table 6. Baseline patient characteristics in (ELEVATE-TN) patients with previous
 | Median time from diagnosis (months)                                                                        | 30.5                                | 24.4                          | 30.7                                   |
 | Bulky disease with nodes ≥ 5 cm;%                                                                          | 25.7                                | 38                            | 31.1                                   |
 | Cytogenetics/FISH Category;% 17p deletion 11q deletion TP53 mutation Unmutated IGHV Complex karyotype (≥ 3 | 9.5 17.3 11.7                       | 8.9 17.3 10.6 66.5 17.3 0     | 9 18.6 11.9 65.5 18.1 0.6              |
-| stage;% 0                                                                                                  | 1.7                                 |                               |                                        |
+| stage;%                                                                                                    |                                     |                               |                                        |
 |                                                                                                            | 57.5                                |                               |                                        |
-| abnormalities)                                                                                             |                                     |                               |                                        |
-| Rai                                                                                                        | 16.2                                |                               |                                        |
+| abnormalities)                                                                                             | 16.2                                |                               |                                        |
+| Rai 0                                                                                                      | 1.7                                 |                               |                                        |
 | I II                                                                                                       | 30.2                                | 26.8                          | 28.2                                   |
-|                                                                                                            | 20.1                                | 24.6                          | 27.1                                   |
-| III                                                                                                        | 26.8                                | 27.9                          | 22.6                                   |
+| III                                                                                                        | 20.1                                | 24.6                          | 27.1                                   |
+|                                                                                                            | 26.8                                | 27.9                          | 22.6                                   |
 | IV                                                                                                         | 21.2                                | 20.7                          | 21.5                                   |
 
 The primary endpoint was progression-free survival (PFS) of Calquence+G arm versus GClb arm as assessed by an Independent Review Committee (IRC) per International Workshop on Chronic Lymphocytic Leukaemia (IWCLL) 2008 criteria with incorporation of the clarification for treatment-related lymphocytosis (Cheson 2012). With a median follow-up of 28.3 months, PFS by IRC indicated a 90% statistically significant reduction in the risk of disease progression or death for previously untreated CLL patients in the Calquence+G arm compared to the GClb arm. Efficacy results are presented in Table 7.
 
-Table 7. Efficacy results per IRC Assessments in (ELEVATE-TN) patients with CLL
-
-|                             | Calquence plus obinutuzumab N=179   | Calquence monotherapy N=179   | Obinutuzumab plus chlorambucil N=177   |
-|-----------------------------|-------------------------------------|-------------------------------|----------------------------------------|
-| Progression-free survival * |                                     |                               |                                        |
-| Number of events (%)        | 14 (7.8)                            | 26 (14.5)                     | 93 (52.5)                              |
-| PD, n (%)                   | 9 (5)                               | 20 (11.2)                     | 82 (46.3)                              |
-| Death events (%)            | 5 (2.8)                             | 6 (3.4)                       | 11 (6.2)                               |
-| Median (95% CI), months     | NR                                  | NR (34.2, NR)                 | 22.6 (20.2, 27.6)                      |
-| HR † (95% CI)               | 0.10 (0.06, 0.17)                   | 0.20 (0.13, 0.30)             | -                                      |
-| P-value                     | < 0.0001                            | < 0.0001                      | -                                      |
-
 <div style=\"page-break-after: always\"></div>
+
+Table 7. Efficacy results per IRC Assessments in (ELEVATE-TN) patients with CLL
 
 |                                                    | Calquence plus obinutuzumab N=179                  | Calquence monotherapy N=179   | Obinutuzumab plus chlorambucil N=177   |
 |----------------------------------------------------|----------------------------------------------------|-------------------------------|----------------------------------------|
+| Progression-free survival *                        |                                                    |                               |                                        |
+| Number of events (%)                               | 14 (7.8)                                           | 26 (14.5)                     | 93 (52.5)                              |
+| PD, n (%)                                          | 9 (5)                                              | 20 (11.2)                     | 82 (46.3)                              |
+| Death events (%)                                   | 5 (2.8)                                            | 6 (3.4)                       | 11 (6.2)                               |
+| Median (95% CI), months                            | NR                                                 | NR (34.2, NR)                 | 22.6 (20.2, 27.6)                      |
+| HR † (95% CI)                                      | 0.10 (0.06, 0.17)                                  | 0.20 (0.13, 0.30)             | -                                      |
+| P-value                                            | < 0.0001                                           | < 0.0001                      | -                                      |
 | 24 months estimate,% (95% CI)                      | 92.7 (87.4, 95.8)                                  | 87.3 (80.9, 91.7)             | 46.7 (38.5, 54.6)                      |
 | Overall Survival a                                 |                                                    |                               |                                        |
 | Death events (%)                                   | 9 (5)                                              | 11 (6.1)                      | 17 (9.6)                               |
@@ -604,9 +613,9 @@ Table 7. Efficacy results per IRC Assessments in (ELEVATE-TN) patients with CLL
 | nPR, n (%)                                         | 1 (0.6)                                            | 2 (1.1)                       | 3 (1.7)                                |
 | PR, n (%)                                          | 143 (79.9)                                         | 150 (83.8)                    | 128 (72.3)                             |
 
-CI=confidence interval; HR=hazard ratio; NR=not reached; CR=complete response; CRi=complete response with incomplete blood count recovery; nPR=nodular partial response; PR=partial response.
+CI=confidence interval; HR=hazard ratio; NR=not reached; CR=complete response; CRi=complete response with incomplete blood count recovery; nPR=nodular partial response; PR=partial response. *
 
-* Per IRC assessment.
+Per IRC assessment.
 
 † Based on stratified Cox-Proportional-Hazards model.
 
@@ -616,25 +625,26 @@ PFS results for Calquence with or without obinutuzumab were consistent across su
 
 Table 8. Subgroup analysis of PFS (Study ELEVATE-TN)
 
-|                                  | Calquence monotherapy   | Calquence monotherapy   | Calquence monotherapy     | Calquence+G   | Calquence+G   | Calquence+G               |
-|----------------------------------|-------------------------|-------------------------|---------------------------|---------------|---------------|---------------------------|
-|                                  | N                       | Hazard Ratio            | 95% CI                    | N             | Hazard Ratio  | 95% CI                    |
-| All subjects                     | 179                     | 0.20                    | (0.13, 0.30)              | 179           | 0.10          | (0.06, 0.17)              |
-| Del 17P Yes No                   | 19 160                  | 0.20 0.20               | (0.06, 0.64) (0.12, 0.31) | 21 158        | 0.13 0.09     | (0.04, 0.46) (0.05, 0.17) |
-| TP53 mutation Yes No             | 19 160                  | 0.15 0.20               | (0.05, 0.46) (0.12, 0.32) | 21 158        | 0.04 0.11     | (0.01, 0.22) (0.06, 0.20) |
-| Del 17P or/and TP53 mutation Yes | 23                      | 0.23                    | (0.09, 0.61)              | 25            | 0.10          |                           |
+|                | Calquence monotherapy   | Calquence monotherapy   | Calquence monotherapy     | Calquence+G   | Calquence+G   | Calquence+G               |
+|----------------|-------------------------|-------------------------|---------------------------|---------------|---------------|---------------------------|
+|                | N                       | Hazard Ratio            | 95% CI                    | N             | Hazard Ratio  | 95% CI                    |
+| All subjects   | 179                     | 0.20                    | (0.13, 0.30)              | 179           | 0.10          | (0.06, 0.17)              |
+| Del 17P Yes No | 19 160                  | 0.20 0.20               | (0.06, 0.64) (0.12, 0.31) | 21 158        | 0.13 0.09     | (0.04, 0.46) (0.05, 0.17) |
 
 <div style=\"page-break-after: always\"></div>
 
-|                                 | Calquence monotherapy   | Calquence monotherapy   | Calquence monotherapy     | Calquence+G   | Calquence+G   | Calquence+G               |
-|---------------------------------|-------------------------|-------------------------|---------------------------|---------------|---------------|---------------------------|
-|                                 | N                       | Hazard Ratio            | 95% CI                    | N             | Hazard Ratio  | 95% CI                    |
-| No                              | 156                     | 0.19                    | (0.11, 0.31)              | 154           | 0.10          | (0.03, 0.34) (0.05, 0.18) |
-| IGHV mutation Mutated Unmutated | 58 119                  | 0.69 0.11               | (0.31, 1.56) (0.07, 0.19) | 74 103        | 0.15 0.08     | (0.04, 0.52) (0.04, 0.16) |
-| Del 11q Yes No                  | 31 148                  | 0.07 0.26               | (0.02, 0.22) (0.16, 0.41) | 31 148        | 0.09 0.10     | (0.03, 0.26) (0.05, 0.20) |
-| Complex Karyotype Yes No        | 31 117                  | 0.10 0.27               | (0.03, 0.33) (0.16, 0.46) | 29 126        | 0.09 0.11     | (0.03, 0.29) (0.05, 0.21) |
+|                                     | Calquence monotherapy   | Calquence monotherapy   | Calquence monotherapy     | Calquence+G   | Calquence+G   | Calquence+G               |
+|-------------------------------------|-------------------------|-------------------------|---------------------------|---------------|---------------|---------------------------|
+|                                     | N                       | Hazard Ratio            | 95% CI                    | N             | Hazard Ratio  | 95% CI                    |
+| TP53 mutation Yes No                | 19 160                  | 0.15 0.20               | (0.05, 0.46) (0.12, 0.32) | 21 158        | 0.04 0.11     | (0.01, 0.22) (0.06, 0.20) |
+| Del 17P or/and TP53 mutation Yes No | 23 156                  | 0.23 0.19               | (0.09, 0.61) (0.11, 0.31) | 25 154        | 0.10 0.10     | (0.03, 0.34) (0.05, 0.18) |
+| IGHV mutation Mutated Unmutated     | 58 119                  | 0.69 0.11               | (0.31, 1.56) (0.07, 0.19) | 74 103        | 0.15 0.08     | (0.04, 0.52) (0.04, 0.16) |
+| Del 11q Yes No                      | 31 148                  | 0.07 0.26               | (0.02, 0.22) (0.16, 0.41) | 31 148        | 0.09 0.10     | (0.03, 0.26) (0.05, 0.20) |
+| Complex Karyotype Yes No            | 31 117                  | 0.10 0.27               | (0.03, 0.33) (0.16, 0.46) | 29 126        | 0.09 0.11     | (0.03, 0.29) (0.05, 0.21) |
 
 With long term data, the median follow-up was 58.2 months for Calquence+G arm, 58.1 months for Calquence arm and 58.2 months for the GClb arm. The median investigator assessed PFS for Calquence+G and Calquence monotherapy was not reached; and was 27.8 months in GClb arm. At the time of most recent data cut off, a total of 72 patients (40.7%) originally randomised to the GClb arm crossed over to Calquence monotherapy. The median overall survival had not been reached in any arm with a total of 76 deaths: 18 (10.1%) in the Calquence+G arm, 30 (16.8%) in the Calquence monotherapy arm, and 28 (15.8%) in the GClb arm.
+
+<div style=\"page-break-after: always\"></div>
 
 Table 9. Efficacy Results per INV assessment in (ELEVATE-TN) Patients with CLL
 
@@ -648,12 +658,7 @@ Table 9. Efficacy Results per INV assessment in (ELEVATE-TN) Patients with CLL
 | HR † (95% CI)             | 0.11 (0.07, 0.16)                   | 0.21 (0.15, 0.30)             | -                                      |
 | Overall survival          |                                     |                               |                                        |
 | Death events (%)          | 18 (10.1)                           | 30 (16.8)                     | 28 (15.8)                              |
-
-<div style=\"page-break-after: always\"></div>
-
-|                         | Calquence plus obinutuzumab N=179   | Calquence monotherapy N=179   | Obinutuzumab plus Chlorambucil N=177   |
-|-------------------------|-------------------------------------|-------------------------------|----------------------------------------|
-| Hazard Ratio (95% CI) † | 0.55 (0.30, 0.99)                   | 0.98 (0.58, 1.64)             | -                                      |
+| Hazard Ratio (95% CI) †   | 0.55 (0.30, 0.99)                   | 0.98 (0.58, 1.64)             | -                                      |
 
 CI=confidence interval; HR=hazard ratio; NR=not reached
 
@@ -663,17 +668,15 @@ CI=confidence interval; HR=hazard ratio; NR=not reached
 
 Figure 1. Kaplan-Meier Curve of INV-Assessed PFS in (ELEVATE-TN) Patients with CLL (ITT Population)
 
-70
-
 <!-- image -->
 
-Patients with previously untreated CLL - Fixed duration therapy
+<div style=\"page-break-after: always\"></div>
 
-Calquence in combination with venetoclax with or without obinutuzumab
+## Patients with previously untreated CLL - Fixed duration therapy
+
+## Calquence in combination with venetoclax with or without obinutuzumab
 
 The safety and efficacy of Calquence in combination with venetoclax with or without obinutuzumab in previously untreated CLL was evaluated in a randomised, multi-centre, open-label Phase 3 study (AMPLIFY) of 867 patients. Patients received Calquence plus venetoclax, Calquence plus venetoclax and obinutuzumab, or Investigator's choice of chemoimmunotherapy, either FCR (fludarabine plus cyclophosphamide plus rituximab) or BR (bendamustine plus rituximab). AMPLIFY included patients previously untreated for CLL without del(17p) or TP53 mutation that were 18 years of age and older. The trial allowed patients to receive antithrombotic agents except warfarin and other vitamin K antagonists.
-
-<div style=\"page-break-after: always\"></div>
 
 Patients were randomised in a 1:1:1 ratio into 3 arms to receive:
 
@@ -869,9 +872,9 @@ Figure 4. Kaplan-Meier curve of INV-assessed PFS at final analysis in (ASCEND) p
 
 <!-- image -->
 
-| Month                 |   0 |   3 |   6 |   9 |   12 |   15 |   18 |   21 |   24 |   27 |   30 |   33 |   36 |   39 |   42 |   45 |   48 |   51 | 54   |
+| Month                 |   0 |   3 |   6 |   9 |   12 |   15 |   18 |   21 |   24 |   27 |   30 |   33 |   36 |   39 |   42 |   45 |   48 |   51 |   54 |
 |-----------------------|-----|-----|-----|-----|------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|
-| Calquence             | 155 | 151 | 143 | 139 |  133 |  128 |  121 |  117 |  111 |  110 |  100 |   94 |   85 |   80 |   79 |   52 |   21 |    4 | 0    |
+| Calquence             | 155 | 151 | 143 | 139 |  133 |  128 |  121 |  117 |  111 |  110 |  100 |   94 |   85 |   80 |   79 |   52 |   21 |    4 |    0 |
 | Investigator's Choice | 155 | 147 | 138 | 118 |   95 |   76 |   66 |   62 |   52 |   42 |   35 |   32 |   28 |   26 |   23 |   12 |    5 |    0 |      |
 
 Investigator assessed PFS results at final analysis for Calquence were consistent across subgroups, including high risk features and were consistent with the primary analysis.
@@ -916,10 +919,15 @@ Table 16. Efficacy Results in Patients with previously untreated MCL in ECHO
 
 <div style=\"page-break-after: always\"></div>
 
-| p-value   | 0.2196   | -   |
-|-----------|----------|-----|
+|         |   Calquence + BR N=299 | Placebo + BR N=299   |
+|---------|------------------------|----------------------|
+| p-value |                 0.2196 | -                    |
 
-HR = hazard ratio, CR = complete response, PR = partial response, NE = not evaluable * Stratified by randomisation stratification factors: Geographic Regions (North American, Western Europe, Other) and simplified MIPI Score (Low risk [0 to 3], Intermediate risk [4 to 5], High Risk [6 to 11]) as collected via IXRS. Estimated based on stratified Cox Proportional Hazards model for hazard ratio (95% CI). ‡ Estimated based on stratified log-rank test for p-value.
+HR = hazard ratio, CR = complete response, PR = partial response, NE = not evaluable
+
+* Stratified by randomisation stratification factors: Geographic Regions (North American, Western Europe, Other) and simplified MIPI Score (Low risk [0 to 3], Intermediate risk [4 to 5], High Risk [6 to 11]) as collected via IXRS. Estimated based on stratified Cox Proportional Hazards model for hazard ratio (95% CI).
+
+‡ Estimated based on stratified log-rank test for p-value.
 
 Figure 5. Kaplan-Meier Curve of IRC-Assessed PFS in patients with previously untreated MCL (ECHO)
 
@@ -929,9 +937,11 @@ Figure 5. Kaplan-Meier Curve of IRC-Assessed PFS in patients with previously unt
 
 The safety and efficacy of CALQUENCE in MCL were evaluated in an open-label, multi-centre, single-arm Phase 2 study (ACE-LY-004) of 124 previously treated patients. All patients received CALQUENCE 100 mg orally twice daily until disease progression or unacceptable toxicity. The trial did not include patients who received prior treatment with either BTK or BCL-2 inhibitors. The primary endpoint was investigator-assessed overall response rate (ORR) per the Lugano classification for non-Hodgkin's lymphoma (NHL). Duration of Response (DoR) was an additional outcome measure. Efficacy results at final (54 months) analysis are presented in Table 17.
 
-At final analysis, the median age was 68 (range 42 to 90) years, 79.8% were male and 74.2% were Caucasian. At baseline, 92.8% of patients had an ECOG performance status of 0 or 1. The median time since diagnosis was 46.3 months and the median number of prior treatments was 2 (range 1 to 5), including 17.7% with prior stem cell transplant. The most common prior regimens were CHOP-based (51.6%) and ARA-C (33.9%). At baseline, 37.1% of patients had at least one tumour with a longest diameter ≥ 5 cm, 72.6% had extra nodal involvement including 50.8% with bone marrow involvement. The simplified MIPI score (which includes age, ECOG score, and baseline lactate dehydrogenase and white cell count) was intermediate in 43.5% and high in 16.9% of patients.
+At final analysis, the median age was 68 (range 42 to 90) years, 79.8% were male and 74.2% were Caucasian. At baseline, 92.8% of patients had an ECOG performance status of 0 or 1. The median time since diagnosis was 46.3 months and the median number of prior treatments was 2 (range 1 to 5), including 17.7% with prior stem cell transplant. The most common prior regimens were CHOP-based (51.6%) and ARA-C (33.9%). At baseline, 37.1% of patients had at least one tumour with a longest diameter ≥ 5 cm, 72.6% had extra nodal involvement including 50.8% with bone marrow involvement.
 
 <div style=\"page-break-after: always\"></div>
+
+The simplified MIPI score (which includes age, ECOG score, and baseline lactate dehydrogenase and white cell count) was intermediate in 43.5% and high in 16.9% of patients.
 
 Table 17. ORR and DOR in (ACE-LY-004) Patients with MCL at 54 months final analysis
 
@@ -960,11 +970,9 @@ The time to peak plasma concentrations (Tmax) was 0.5-1.5 hours for acalabrutini
 
 ## Effect of food on acalabrutinib
 
-In healthy subjects, administration of a single 75 mg dose of acalabrutinib with a high fat, high calorie meal (approximately 918 calories, 59 grams carbohydrate, 59 grams fat and 39 grams protein) did not
+In healthy subjects, administration of a single 75 mg dose of acalabrutinib with a high fat, high calorie meal (approximately 918 calories, 59 grams carbohydrate, 59 grams fat and 39 grams protein) did not affect the mean AUC as compared to dosing under fasted conditions. Resulting Cmax decreased by 69% and Tmax was delayed 1-2 hours.
 
 <div style=\"page-break-after: always\"></div>
-
-affect the mean AUC as compared to dosing under fasted conditions. Resulting Cmax decreased by 69% and Tmax was delayed 1-2 hours.
 
 ## Distribution
 
@@ -1172,37 +1180,35 @@ Calquence should be administered on Day 1 on Cycle 1 (each cycle is 28 days) unt
 
 ## Adverse reactions
 
-Recommended dose modifications of Calquence for Grade ≥ 3 adverse reactions in patients receiving Calquence monotherapy and Calquence in combination with obinutuzumab are provided in Table 1.
+Recommended dose modifications of Calquence for Grade ≥ 3 adverse reactions in patients receiving Calquence monotherapy, Calquence in combination with obinutuzumab and Calquence in combination with venetoclax with or without obinutuzumab are provided in Table 1.
 
 Recommended dose modifications for Grade ≥ 3 adverse reactions in patients receiving Calquence in combination with bendamustine and rituximab are provided in Table 2.
 
-Table 1. Recommended dose adjustments for adverse reactions*
-
-| Adverse reaction                                                    | Adverse reaction occurrence   | Dose modification (Starting dose = 100mg approximately every 12 hours)                                                                |
-|---------------------------------------------------------------------|-------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|
-| Grade 3 thrombocytopenia with bleeding, Grade 4 thrombocytopenia Or | First and second              | Interrupt Calquence Once toxicity has resolved to Grade 1 or baseline, Calquence may be resumed at 100mg approximately every 12 hours |
-
 <div style=\"page-break-after: always\"></div>
 
-| Grade 4 neutropenia lasting longer than 7 days Grade 3 or greater non-haematological toxicities   | Third Fourth   | Interrupt Calquence Once toxicity has resolved to Grade 1 or baseline, Calquence may be resumed at a reduced frequency of 100mg once daily Discontinue Calquence   |
-|---------------------------------------------------------------------------------------------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+Table 1. Recommended dose adjustments for adverse reactions*
 
-*Adverse reactions graded by the National Cancer Institute Common Terminology Criteria for Adverse Events (NCI CTCAE) version 4.03.
+| Adverse reaction                                                                                                  | Adverse reaction occurrence   | Dose modification (Starting dose = 100 mg approximately every 12 hours)                                                                       |
+|-------------------------------------------------------------------------------------------------------------------|-------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
+| .Grade 3 thrombocytopenia with bleeding .Grade 4 thrombocytopenia .Grade 4 neutropenia lasting longer than 7 days | First and second              | Interrupt Calquence. Once toxicity has resolved to Grade 1 or baseline, Calquence may be resumed at 100 mg approximately every 12 hours.      |
+| .Grade 3 thrombocytopenia with bleeding .Grade 4 thrombocytopenia .Grade 4 neutropenia lasting longer than 7 days | Third                         | Interrupt Calquence. Once toxicity has resolved to Grade 1 or baseline, Calquence may be resumed at a reduced frequency of 100 mg once daily. |
+| .Grade 3 or greater non-haematological toxicities                                                                 | Fourth                        | Discontinue Calquence.                                                                                                                        |
+
+*Adverse reactions graded by the National Cancer Institute Common Terminology Criteria for Adverse Events (NCI CTCAE) version 5.0.
 
 Table 2. Recommended dose adjustments for Grade ≥ 3 adverse reactions *  in patients receiving Calquence in combination with bendamustine and rituximab
 
-| Adverse reaction                                             | Bendamustine dose modification †                                                                                                                                                                                                         | Calquence dose modification                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-|--------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Neutropenia                                                  | If Grade 3 or Grade 4 neutropenia ‡ : Interrupt bendamustine. Once toxicity has resolved to Grade ≤ 2 or baseline level, bendamustine may be resumed at 70 mg/m 2 . Discontinue bendamustine if additional dose reduction is required.   | If Grade 4 neutropenia lasting longer than 7 days then interrupt Calquence. Once toxicity has resolved to Grade ≤ 2 or baseline level, Calquence may be resumed at starting dose (1 st adverse reaction occurrence) or at a reduced frequency of 100 mg once daily (2 nd and 3 rd adverse reaction occurrence). ¶ Discontinue Calquence at 4 th adverse reaction occurrence.                                                                                                         |
-| Thrombocytopenia                                             | If Grade 3 or Grade 4 thrombocytopenia: Interrupt bendamustine. Once toxicity has resolved to Grade ≤ 2 or baseline level, bendamustine may be resumed at 70 mg/m 2 . Discontinue bendamustine if additional dose reduction is required. | If Grade 3 thrombocytopenia with significant bleeding or Grade 4 then interrupt Calquence. Once toxicity has resolved to Grade ≤ 2 or baseline level, Calquence may be resumed at starting dose (1 st adverse reaction occurrence) or at a reduced frequency of 100 mg once daily (2 nd and 3 rd occurrence). ¶ Discontinue Calquence at 3 rd adverse reaction occurrence for thrombocytopenia with significant bleeding. Discontinue Calquence at 4 th adverse reaction occurrence. |
-| Other hematologic Grade 4 § or unmanageable Grade 3 toxicity | Interrupt bendamustine. Once toxicity has resolved to Grade ≤ 2 or baseline level, bendamustine may be resumed at 70 mg/m 2 . Discontinue bendamustine if additional dose reduction is required.                                         | Interrupt Calquence. Once toxicity has resolved to Grade ≤ 2 or baseline level, Calquence may be resumed at starting dose (1 st adverse reaction occurrence) or at a reduced frequency of 100 mg once daily (2 nd and 3 rd adverse reaction occurrence). ¶ Discontinue Calquence at 4 th adverse reaction occurrence.                                                                                                                                                                |
-| Grade 3 or greater non-hematologic toxicities                | Interrupt bendamustine. Once toxicity has resolved to Grade 1 or baseline level, bendamustine may                                                                                                                                        | Interrupt Calquence. Once toxicity has resolved to Grade 2 or baseline, Calquence may be resumed at starting dose (1 st adverse reaction                                                                                                                                                                                                                                                                                                                                             |
+| Adverse reaction   | Bendamustine dose modification †                                                                                                                                                                                                         | Calquence dose modification                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+|--------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Neutropenia        | If Grade 3 or Grade 4 neutropenia ‡ : Interrupt bendamustine. Once toxicity has resolved to Grade ≤ 2 or baseline level, bendamustine may be resumed at 70 mg/m 2 . Discontinue bendamustine if additional dose reduction is required.   | If Grade 4 neutropenia lasting longer than 7 days then interrupt Calquence. Once toxicity has resolved to Grade ≤ 2 or baseline level, Calquence may be resumed at starting dose (1 st adverse reaction occurrence) or at a reduced frequency of 100 mg once daily (2 nd and 3 rd adverse reaction occurrence). ¶ Discontinue Calquence at 4 th adverse reaction occurrence.                                                                                                         |
+| Thrombocytopenia   | If Grade 3 or Grade 4 thrombocytopenia: Interrupt bendamustine. Once toxicity has resolved to Grade ≤ 2 or baseline level, bendamustine may be resumed at 70 mg/m 2 . Discontinue bendamustine if additional dose reduction is required. | If Grade 3 thrombocytopenia with significant bleeding or Grade 4 then interrupt Calquence. Once toxicity has resolved to Grade ≤ 2 or baseline level, Calquence may be resumed at starting dose (1 st adverse reaction occurrence) or at a reduced frequency of 100 mg once daily (2 nd and 3 rd occurrence). ¶ Discontinue Calquence at 3 rd adverse reaction occurrence for thrombocytopenia with significant bleeding. Discontinue Calquence at 4 th adverse reaction occurrence. |
 
 <div style=\"page-break-after: always\"></div>
 
-| Adverse reaction   | Bendamustine dose modification †                                                             | Calquence dose modification                                                                                                                                 |
-|--------------------|----------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|                    | be resumed at 70 mg/m 2 . Discontinue bendamustine if additional dose reduction is required. | occurrence) or at a reduced frequency of 100 mg once daily (2 nd adverse reaction occurrence). ¶ Discontinue Calquence at 3 rd adverse reaction occurrence. |
+| Adverse reaction                                             | Bendamustine dose modification †                                                                                                                                                                 | Calquence dose modification                                                                                                                                                                                                                                                                                           |
+|--------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Other hematologic Grade 4 § or unmanageable Grade 3 toxicity | Interrupt bendamustine. Once toxicity has resolved to Grade ≤ 2 or baseline level, bendamustine may be resumed at 70 mg/m 2 . Discontinue bendamustine if additional dose reduction is required. | Interrupt Calquence. Once toxicity has resolved to Grade ≤ 2 or baseline level, Calquence may be resumed at starting dose (1 st adverse reaction occurrence) or at a reduced frequency of 100 mg once daily (2 nd and 3 rd adverse reaction occurrence). ¶ Discontinue Calquence at 4 th adverse reaction occurrence. |
+| Grade 3 or greater non-hematologic toxicities                | Interrupt bendamustine. Once toxicity has resolved to Grade 1 or baseline level, bendamustine may be resumed at 70 mg/m 2 . Discontinue bendamustine if additional dose reduction is required.   | Interrupt Calquence. Once toxicity has resolved to Grade 2 or baseline, Calquence may be resumed at starting dose (1 st adverse reaction occurrence) or at a reduced frequency of 100 mg once daily (2 nd adverse reaction occurrence). ¶ Discontinue Calquence at 3 rd adverse reaction occurrence.                  |
 
 * Adverse reactions graded by the National Cancer Institute Common Terminology Criteria for Adverse Events (NCI CTCAE) version 4.03.
 
@@ -1227,7 +1233,11 @@ Table 3. Use with CYP3A inhibitors or inducers
 | CYP3A inhibitors | Strong CYP3A inhibitor              | Avoid concomitant use. If these inhibitors will be used short-term (such as anti-infectives for up to seven days), interrupt Calquence. |
 | CYP3A inhibitors | Moderate CYP3A inhibitor            | No dose adjustment. Monitor patients closely for adverse reactions if taking moderate CYP3A inhibitors.                                 |
 | CYP3A inhibitors | Mild CYP3A inhibitor                | No dose adjustment.                                                                                                                     |
-| CYP3A inducers   | Strong CYP3A inducer                | Avoid concomitant use.                                                                                                                  |
+
+<div style=\"page-break-after: always\"></div>
+
+| CYP3A inducers   | Strong CYP3A inducer   | Avoid concomitant use.   |
+|------------------|------------------------|--------------------------|
 
 Acalabrutinib tablets can be co-administered with gastric acid reducing agents (proton pump inhibitors, H2-receptor antagonists, antacids), unlike acalabrutinib capsules which show impaired uptake when given with acid reducing agents (see section 4.5).
 
@@ -1235,11 +1245,9 @@ Acalabrutinib tablets can be co-administered with gastric acid reducing agents (
 
 If a patient misses a dose of Calquence by more than 3 hours, the patient should be instructed to take the next dose at its regularly scheduled time. Double dose of Calquence should not be taken to make up for a missed dose.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Special populations
 
-## Elderly
+Elderly
 
 No dose adjustment is required for elderly patients (aged ≥ 65 years) (see section 5.2).
 
@@ -1259,6 +1267,8 @@ Patients with severe cardiovascular disease were excluded from Calquence clinica
 
 The safety and efficacy of Calquence in children and adolescents aged 0 to 18 years have not been established. No data are available.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Method of administration
 
 Calquence is for oral use. The tablets should be swallowed whole with water at approximately the same time each day, with or without food (see section 4.5). The tablets should not be chewed, crushed, dissolved or divided.
@@ -1271,11 +1281,7 @@ Hypersensitivity to the active substance or to any of the excipients listed in s
 
 ## Haemorrhage
 
-Major haemorrhagic events including central nervous system and gastrointestinal haemorrhage, some with fatal outcome, have occurred in patients with haematologic malignancies treated with Calquence monotherapy and in combination with other medicinal products. These events have occurred in patients
-
-<div style=\"page-break-after: always\"></div>
-
-both with and without thrombocytopenia. Overall, the bleeding events were less severe events including bruising and petechiae (see section 4.8).
+Major haemorrhagic events including central nervous system and gastrointestinal haemorrhage, some with fatal outcome, have occurred in patients with haematologic malignancies treated with Calquence monotherapy and in combination with other medicinal products. These events have occurred in patients both with and without thrombocytopenia. Overall, the bleeding events were less severe events including bruising and petechiae (see section 4.8).
 
 The mechanism for the bleeding events is not well understood.
 
@@ -1293,13 +1299,13 @@ Cases of hepatitis B reactivation have been reported in patients receiving Calqu
 
 Cases of progressive multifocal leukoencephalopathy (PML) including fatal ones have been reported following the use of Calquence within the context of a prior or concomitant immunosuppressive therapy. Physicians should consider PML in the differential diagnosis in patients with new or worsening neurological, cognitive or behavioural signs or symptoms. If PML is suspected, then appropriate diagnostic evaluations should be undertaken and treatment with Calquence should be suspended until PML is excluded. If any doubt exists, referral to a neurologist and appropriate diagnostic measures for PML including MRI scan preferably with contrast, cerebrospinal fluid (CSF) testing for JC Viral DNA and repeat neurological assessments should be considered.
 
+<div style=\"page-break-after: always\"></div>
+
 Consider prophylaxis according to standard of care in patients who are at increased risk for opportunistic infections. Monitor patients for signs and symptoms of infection and treat as medically appropriate.
 
 ## Cytopenias
 
 Treatment-emergent Grade 3 or 4 cytopenias, including neutropenia, anaemia and thrombocytopenia, occurred in patients with haematologic malignancies treated with Calquence monotherapy and in combination with other medicinal products. Monitor complete blood counts as medically indicated (see section 4.8) .
-
-<div style=\"page-break-after: always\"></div>
 
 ## Second primary malignancies
 
@@ -1321,6 +1327,8 @@ Interstitial lung disease (ILD)/pneumonitis has been reported in patients treate
 
 Co-administration of strong CYP3A inhibitors with Calquence may lead to increased acalabrutinib exposure and consequently a higher risk for toxicity. On the contrary, co-administration of CYP3A inducers may lead to decreased acalabrutinib exposure and consequently a risk for lack of efficacy. Concomitant use with strong CYP3A inhibitors should be avoided. If these inhibitors will be used short-term (such as anti-infectives for up to seven days), treatment with Calquence should be interrupted. Patients should be closely monitored for signs of toxicity if a moderate CYP3A inhibitor is used (see sections 4.2 and 4.5). Concomitant use with strong CYP3A4 inducers should be avoided due to risk for lack of efficacy.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Calquence contains sodium
 
 This medicinal product contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium-free'.
@@ -1328,8 +1336,6 @@ This medicinal product contains less than 1 mmol sodium (23 mg) per dose, that i
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
 Acalabrutinib and its active metabolite are primarily metabolised by cytochrome P450 enzyme 3A4 (CYP3A4), and both substances are substrates for P-gp and breast cancer resistance protein (BCRP).
-
-<div style=\"page-break-after: always\"></div>
 
 ## Active substances that may increase acalabrutinib plasma concentrations
 
@@ -1353,13 +1359,13 @@ Concomitant use with strong inducers of CYP3A activity (e.g., phenytoin, rifampi
 
 No clinically significant differences in acalabrutinib pharmacokinetics were observed when a 100 mg acalabrutinib tablet was used concomitantly with a proton pump inhibitor (rabeprazole 20 mg twice daily for 3 days). Acalabrutinib tablets can be co-administered with gastric acid reducing agents (proton pump inhibitors, H2-receptor antagonists, antacids), unlike acalabrutinib capsules which show impaired uptake when given with acid reducing agents.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Active substances whose plasma concentrations may be altered by Calquence
 
 ## CYP3A substrates
 
 Based on in vitro data, it cannot be excluded that acalabrutinib is an inhibitor of CYP3A4 at the intestinal level and may increase the exposure of CYP3A4 substrates sensitive to gut CYP3A metabolism. Caution should be exercised if co-administering acalabrutinib with CYP3A4 substrates with narrow therapeutic range administered orally (e.g., cyclosporine, ergotamine, pimozide).
-
-<div style=\"page-break-after: always\"></div>
 
 ## Effect of acalabrutinib on CYP1A2 substrates
 
@@ -1387,11 +1393,11 @@ Calquence should not be used during pregnancy unless the clinical condition of t
 
 It is not known whether acalabrutinib is excreted in human milk. There are no data on the effect of acalabrutinib on the breast-fed child or on milk production. Acalabrutinib and its active metabolite were present in the milk of lactating rats. A risk to the breast-fed child cannot be excluded. Breast-feeding mothers are advised not to breast-feed during treatment with Calquence and for 2 days after receiving the last dose.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Fertility
 
 There are no data on the effect of Calquence on human fertility. In a non-clinical study of acalabrutinib in male and female rats, no adverse effects on fertility parameters were observed (see section 5.3).
-
-<div style=\"page-break-after: always\"></div>
 
 ## 4.7 Effects on ability to drive and use machines
 
@@ -1445,36 +1451,44 @@ Table 4. Adverse drug reactions* of patients with haematological malignancies tr
 | Neoplasms benign, malignant and unspecified | Second Primary Malignancy (SPM) † Non-melanoma skin malignancy † SPM excluding non-melanoma skin † | Very common (17.6) Common (9.9) Common (9.7) | 6.7 1.4 5.5       |
 | Blood and lymphatic system disorders        | Neutropenia †                                                                                      | Very common (19.4)                           | 17.5              |
 | Blood and lymphatic system disorders        | Anaemia †                                                                                          | Very common (17.1)                           | 9.5               |
-| Blood and lymphatic system disorders        | Thrombocytopenia †                                                                                 | Very common (11.5)                           | 6.2               |
-| Blood and lymphatic system disorders        | Lymphocytosis                                                                                      | Uncommon (0.5)                               | 0.3               |
-| Metabolism and nutrition disorders          | Tumour Lysis Syndrome                                                                              | Uncommon (0.5)                               | 0.4               |
 
 <div style=\"page-break-after: always\"></div>
 
-| MedDRA SOC                                           | MedDRA Term                                                                   | All Grades (%)                                                  | Grade ≥ 3 * (%)   |
-|------------------------------------------------------|-------------------------------------------------------------------------------|-----------------------------------------------------------------|-------------------|
-| Nervous system disorders                             | Headache                                                                      | Very common (36.5)                                              | 1.2               |
-| Nervous system disorders                             | Dizziness                                                                     | Very common (13.9)                                              | 0.1               |
-| Cardiac disorders                                    | Atrial fibrillation/Flutter †                                                 | Common (7.4)                                                    | 2.3               |
-| Vascular disorders                                   | Bruising † Contusion Petechiae Ecchymoses                                     | Very common (30.9) Very common (20.7) Common (8.9) Common (5.7) | 0 0 0 0           |
-| Vascular disorders                                   | Haemorrhage/haematoma † Gastrointestinal haemorrhage Intracranial haemorrhage | Very common (16.3) Uncommon (0.9) Uncommon (0.1)                | 3.2 0.7 0.1       |
-| Vascular disorders                                   | Hypertension †                                                                | Very common (11.9)                                              | 4.9               |
-| Vascular disorders                                   | Epistaxis                                                                     | Common (8.0)                                                    | 0.3               |
-| Gastrointestinal disorders                           | Diarrhoea                                                                     | Very common (36.7)                                              | 2.6               |
-| Gastrointestinal disorders                           | Nausea                                                                        | Very common (21.8)                                              | 0.8               |
-| Gastrointestinal disorders                           | Constipation                                                                  | Very common (15.2)                                              | 0.1               |
-| Gastrointestinal disorders                           | Abdominal pain †                                                              | Very common (14.5)                                              | 1.2               |
-| Gastrointestinal disorders                           | Vomiting                                                                      | Very common (14.0)                                              | 0.7               |
-| Skin and subcutaneous tissue disorders               | Rash †                                                                        | Very common (20.3)                                              | 0.9               |
-| Musculoskeletal and connective tissue disorders      | Musculoskeletal Pain †                                                        | Very common (31.9)                                              | 1.8               |
-| Musculoskeletal and connective tissue disorders      | Arthralgia                                                                    | Very common (24.0)                                              | 0.9               |
-| General disorders and administration site conditions | Fatigue                                                                       | Very common (23.6)                                              | 2.0               |
-| General disorders and administration site conditions | Asthenia                                                                      | Common (7.0)                                                    | 0.9               |
-| Investigations § (Findings based on test results)    | Haemoglobin decreased ±                                                       | Very common (47.4)                                              | 10.8              |
-| Investigations § (Findings based on test results)    | Absolute neutrophil count decreased ±                                         | Very common (43.9)                                              | 24.0              |
-| Investigations § (Findings based on test results)    | Platelets decreased ±                                                         | Very common (36.9)                                              | 9.5               |
+| MedDRA SOC                                        | MedDRA Term                                                                   | All Grades (%)                                                  | Grade ≥ 3 * (%)   |
+|---------------------------------------------------|-------------------------------------------------------------------------------|-----------------------------------------------------------------|-------------------|
+|                                                   | Thrombocytopenia †                                                            | Very common (11.5)                                              | 6.2               |
+|                                                   | Lymphocytosis                                                                 | Uncommon (0.5)                                                  | 0.3               |
+| Metabolism and nutrition disorders                | Tumour Lysis Syndrome                                                         | Uncommon (0.5)                                                  | 0.4               |
+| Nervous system disorders                          | Headache                                                                      | Very common (36.5)                                              | 1.2               |
+| Nervous system disorders                          | Dizziness                                                                     | Very common (13.9)                                              | 0.1               |
+| Cardiac disorders                                 | Atrial fibrillation/Flutter †                                                 | Common (7.4)                                                    | 2.3               |
+| Vascular disorders                                | Bruising † Contusion Petechiae Ecchymoses                                     | Very common (30.9) Very common (20.7) Common (8.9) Common (5.7) | 0 0 0 0           |
+| Vascular disorders                                | Haemorrhage/haematoma † Gastrointestinal haemorrhage Intracranial haemorrhage | Very common (16.3) Uncommon (0.9) Uncommon (0.1)                | 3.2 0.7 0.1       |
+| Vascular disorders                                | Hypertension †                                                                | Very common (11.9)                                              | 4.9               |
+| Vascular disorders                                | Epistaxis                                                                     | Common (8.0)                                                    | 0.3               |
+| Gastrointestinal disorders                        | Diarrhoea                                                                     | Very common (36.7)                                              | 2.6               |
+| Gastrointestinal disorders                        | Nausea                                                                        | Very common (21.8)                                              | 0.8               |
+| Gastrointestinal disorders                        | Constipation                                                                  | Very common (15.2)                                              | 0.1               |
+| Gastrointestinal disorders                        | Abdominal pain †                                                              | Very common (14.5)                                              | 1.2               |
+| Gastrointestinal disorders                        | Vomiting                                                                      | Very common (14.0)                                              | 0.7               |
+| Skin and subcutaneous tissue disorders            | Rash †                                                                        | Very common (20.3)                                              | 0.9               |
+| Musculoskeletal and connective                    | Musculoskeletal Pain †                                                        | Very common (31.9)                                              | 1.8               |
+| tissue disorders                                  | Arthralgia                                                                    | Very common (24.0)                                              | 0.9               |
+| General disorders and administration              | Fatigue                                                                       | Very common (23.6)                                              | 2.0               |
+| site conditions                                   | Asthenia                                                                      | Common (7.0)                                                    | 0.9               |
+| Investigations § (Findings based on test results) | Haemoglobin decreased ±                                                       | Very common (47.4)                                              | 10.8              |
+| Investigations § (Findings based on test results) | Absolute neutrophil count decreased ±                                         | Very common (43.9)                                              | 24.0              |
+| Investigations § (Findings based on test results) | Platelets decreased ±                                                         | Very common (36.9)                                              | 9.5               |
+
+* Per National Cancer Institute Common Terminology Criteria for Adverse Events (NCI CTCAE) version 4.03.
 
 <div style=\"page-break-after: always\"></div>
+
+† Includes multiple ADR term.
+
+± Represents the incidence of laboratory findings, not of reported adverse events.
+
+§ Presented as CTCAE grade values.
 
 Table 5. Adverse drug reactions* of patients with haematological malignancies treated with acalabrutinib combination therapy (N=1 095)
 
@@ -1900,13 +1914,23 @@ Figure 3. Kaplan-Meier curve of IRC-assessed PFS in (ASCEND) patients with CLL (
 
 <!-- image -->
 
+10
+
+11
+
 12
+
+13
+
+14
 
 15
 
 Time from randomisation (months)
 
 16
+
+17
 
 18
 
@@ -1923,7 +1947,7 @@ Time from randomisation (months)
 | Number of patients at risk   |     |     |     |     |     |     |     |     |     |     |     |     |     |     |    |    |    |       |    |       |    |    |    |    |
 |------------------------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|----|----|----|-------|----|-------|----|----|----|----|
 | Month                        |   0 |   1 |   2 |   3 |   4 |   5 |   6 |   7 |   8 |   9 |  10 |  11 |  12 |  13 | 14 | 15 |    | 16 17 |    | 18    | 20 | 21 | 22 | 23 |
-| Calquence                    | 155 | 153 | 153 | 149 | 147 | 146 | 145 | 143 | 143 | 139 | 139 | 137 | 118 | 116 | 73 | 61 | 60 | 25    | 21 | 19 21 |  1 | 1  | 1  | 0  |
+| Calquence                    | 155 | 153 | 153 | 149 | 147 | 146 | 145 | 143 | 143 | 139 | 139 | 137 | 118 | 116 | 73 | 61 | 60 | 25    | 21 | 19 21 |  1 |  1 |  1 |  0 |
 | Investigator's Choice        | 155 | 150 | 150 | 146 | 144 | 142 | 136 | 130 | 129 | 112 | 105 | 101 |  82 |  77 |    | 56 | 44 | 39 18 | 10 | 8     |  0 |    |    |    |
 
 <div style=\"page-break-after: always\"></div>
@@ -1990,10 +2014,10 @@ Figure 4. Kaplan-Meier curve of INV-assessed PFS at final analysis in (ASCEND) p
 
 Time from randomization (months)
 
-| Month                 |   0 |   3 |   6 |   9 |   12 |   15 |   18 |   21 |   24 |   27 |   30 |   33 |   36 |   39 |   42 |   45 |   48 |   51 | 54   |
-|-----------------------|-----|-----|-----|-----|------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|
-| Calquence             | 155 | 151 | 143 | 139 |  133 |  128 |  121 |  117 |  111 |  110 |  100 |   94 |   85 |   80 |   79 |   52 |   21 |    4 | 0    |
-| Investigator's Choice | 155 | 147 | 138 | 118 |   95 |   76 |   66 |   62 |   52 |   42 |   35 |   32 |   28 |   26 |   23 |   12 |    5 |    0 |      |
+| Month                 |   0 |   3 |   6 |   9 |   12 |   15 |   18 |   21 |   24 |   27 |   30 |   33 |   36 |   39 | 42    |   45 |   48 |   51 54 |
+|-----------------------|-----|-----|-----|-----|------|------|------|------|------|------|------|------|------|------|-------|------|------|---------|
+| Calquence             | 155 | 151 | 143 | 139 |  133 |  128 |  121 |  117 |  111 |  110 |  100 |   94 |   85 |   80 | 79 52 |   21 |    4 |       0 |
+| Investigator's Choice | 155 | 147 | 138 | 118 |   95 |   76 |   66 |   62 |   52 |   42 |   35 |   32 |   28 |   26 | 23 12 |    5 |    0 |         |
 
 Investigator assessed PFS results at final analysis for Calquence were consistent across subgroups, including high risk features and were consistent with the primary analysis.
 
@@ -2171,41 +2195,31 @@ Mannitol (E421) Microcrystalline cellulose (E460) Low-substituted hydroxypropyl 
 
 <div style=\"page-break-after: always\"></div>
 
-## Tablet coating
-
-Hypromellose (E464) Copovidone Titanium dioxide (E171) Macrogol Medium-chain triglycerides Iron oxide yellow (E172) Iron oxide red (E172)
-
-## 6.2 Incompatibilities
-
-Not applicable.
-
-## 6.3 Shelf life
-
-3 years.
-
-## 6.4 Special precautions for storage
-
-This medicinal product does not require any special storage conditions.
-
-## 6.5 Nature and contents of container
-
-Aluminium/Aluminium blister packs, with sun/moon symbols, containing 8 or 10 film-coated tablets. Cartons of 56 or 60 tablets.
-
-Not all pack sizes may be marketed.
-
-## 6.6 Special precautions for disposal
-
-Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
-
-## 7. MARKETING AUTHORISATION HOLDER
-
-SE-151 85 Södertälje
-
-AstraZeneca AB Sweden
-
-## 8. MARKETING AUTHORISATION NUMBER(S)
-
-EU/1/20/1479/003
+| Tablet coating                                                                                                                 | Tablet coating                                                                                                                 |
+|--------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|
+| Hypromellose (E464)                                                                                                            | Hypromellose (E464)                                                                                                            |
+| Copovidone                                                                                                                     | Copovidone                                                                                                                     |
+| Titanium dioxide (E171)                                                                                                        | Titanium dioxide (E171)                                                                                                        |
+| Macrogol                                                                                                                       | Macrogol                                                                                                                       |
+| Medium-chain triglycerides                                                                                                     | Medium-chain triglycerides                                                                                                     |
+| Iron oxide yellow (E172)                                                                                                       | Iron oxide yellow (E172)                                                                                                       |
+| Iron oxide red (E172)                                                                                                          | Iron oxide red (E172)                                                                                                          |
+| 6.2                                                                                                                            | Incompatibilities                                                                                                              |
+| Not applicable.                                                                                                                | Not applicable.                                                                                                                |
+| 6.3                                                                                                                            | Shelf life                                                                                                                     |
+| 3 years.                                                                                                                       | 3 years.                                                                                                                       |
+| 6.4                                                                                                                            | Special precautions for storage                                                                                                |
+| This medicinal product does not require any special storage conditions.                                                        | This medicinal product does not require any special storage conditions.                                                        |
+| 6.5                                                                                                                            | Nature and contents of container                                                                                               |
+| Aluminium/Aluminium blister packs, with sun/moon symbols, containing 8 or 10 film-coated tablets. Cartons of 56 or 60 tablets. | Aluminium/Aluminium blister packs, with sun/moon symbols, containing 8 or 10 film-coated tablets. Cartons of 56 or 60 tablets. |
+| Not all pack sizes may be marketed.                                                                                            | Not all pack sizes may be marketed.                                                                                            |
+| 6.6                                                                                                                            | Special precautions for disposal                                                                                               |
+| Any unused medicinal product or waste material should be disposed of in accordance with local requirements.                    | Any unused medicinal product or waste material should be disposed of in accordance with local requirements.                    |
+| 7.                                                                                                                             | MARKETING AUTHORISATIONHOLDER                                                                                                  |
+| AstraZeneca AB SE-151 85 Södertälje                                                                                            | AstraZeneca AB SE-151 85 Södertälje                                                                                            |
+| Sweden                                                                                                                         | Sweden                                                                                                                         |
+| 8.                                                                                                                             | MARKETING AUTHORISATION NUMBER(S)                                                                                              |
+| EU/1/20/1479/003                                                                                                               | EU/1/20/1479/003                                                                                                               |
 
 EU/1/20/1479/004
 

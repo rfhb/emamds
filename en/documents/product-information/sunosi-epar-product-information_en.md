@@ -1,24 +1,22 @@
 ---
-document_datetime: 2025-08-25 15:07:30
+document_datetime: 2026-05-27 14:20:27
 document_pages: 40
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/sunosi-epar-product-information_en.pdf
 document_name: sunosi-epar-product-information_en.pdf
 version: success
-processing_time: 10.0158756
-conversion_datetime: 2025-12-14 21:44:56.310142
+processing_time: 18.4039265
+conversion_datetime: 2026-05-29 20:25:43.669137
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.20.0
+  docling-jobkit: 1.20.0
+  docling: 2.96.0
+  docling-core: 2.78.0
+  docling-ibm-models: 3.13.2
+  docling-parse: 6.2.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
 ---
-## ANNEX I
-
-## SUMMARY OF PRODUCT CHARACTERISTICS
+## ANNEX I SUMMARY OF PRODUCT CHARACTERISTICS
 
 <div style=\"page-break-after: always\"></div>
 
@@ -66,11 +64,9 @@ Treatment should be initiated by a healthcare professional experienced in the tr
 
 Sunosi is not a therapy for the underlying airway obstruction in patients with OSA. Primary OSA therapy should be maintained in these patients.
 
-Blood pressure and heart rate should be assessed before initiating treatment with solriamfetol and
+Blood pressure and heart rate should be assessed before initiating treatment with solriamfetol and should be monitored periodically during treatment, especially after increasing the dose. Pre-existing hypertension should be controlled before initiating treatment with solriamfetol and caution should be exercised in treating patients at higher risk of major adverse cardiac events (MACE), particularly patients with pre-existing hypertension, patients with known cardiovascular or cerebrovascular disease and elderly patients.
 
 <div style=\"page-break-after: always\"></div>
-
-should be monitored periodically during treatment, especially after increasing the dose. Pre-existing hypertension should be controlled before initiating treatment with solriamfetol and caution should be exercised in treating patients at higher risk of  major adverse cardiac events (MACE), particularly patients with pre-existing hypertension, patients with known cardiovascular or cerebrovascular disease and elderly patients.
 
 The  need  for  continued  treatment  with  solriamfetol  should  be  periodically  assessed.  If  a  patient experiences increases in blood pressure or heart rate that cannot be managed with dose reduction of solriamfetol  or  other  appropriate  medical  intervention,  discontinuation  of  solriamfetol  should  be considered.    Caution  should  be  exercised  when  using  other  medicinal  products  that  increase  blood pressure and heart rate (see section 4.5).
 
@@ -110,11 +106,11 @@ End stage renal disease (creatinine clearance &lt;15 mL/min): Solriamfetol is no
 
 The safety and efficacy of Sunosi in children and adolescents (&lt;18 years old) have not yet been established. No data are available.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Method of administration
 
 Sunosi is for oral use.
+
+<div style=\"page-break-after: always\"></div>
 
 Sunosi can be taken with or without food.
 
@@ -122,9 +118,9 @@ Administration of a 37.5 mg dose can be achieved by halving a 75 mg tablet using
 
 ## 4.3 Contraindications
 
-- Hypersensitivity to the active substance or to any of the excipients listed in section 6.1.
-- Myocardial infarction within the past year, unstable angina pectoris, uncontrolled hypertension, serious cardiac arrhythmias and other serious heart problems.
-- Concomitant use of monoamine oxidase inhibitors (MAOI) or within 14 days after MAOI treatment has been discontinued (see section 4.5).
+-  Hypersensitivity to the active substance or to any of the excipients listed in section 6.1.
+-  Myocardial infarction within the past year, unstable angina pectoris, uncontrolled hypertension, serious cardiac arrhythmias and other serious heart problems.
+-  Concomitant use of monoamine oxidase inhibitors (MAOI) or within 14 days after MAOI treatment has been discontinued (see section 4.5).
 
 ## 4.4 Special warnings and precautions for use
 
@@ -150,13 +146,11 @@ Sunosi was assessed in a human abuse potential study and demonstrated low abuse 
 
 ## Angle closure glaucoma
 
-Mydriasis may occur in patients taking solriamfetol. Caution is advised in patients with increased
-
-<div style=\"page-break-after: always\"></div>
-
-ocular pressure or at risk of angle closure glaucoma.
+Mydriasis may occur in patients taking solriamfetol. Caution is advised in patients with increased ocular pressure or at risk of angle closure glaucoma.
 
 ## Women of childbearing potential or their partners
+
+<div style=\"page-break-after: always\"></div>
 
 Women of childbearing potential or their male partners must use effective method of contraception while taking solriamfetol (see section 4.6).
 
@@ -192,9 +186,9 @@ Minor influence on the ability to drive is expected in patients receiving stable
 
 Patients with abnormal levels of sleepiness who take solriamfetol should be advised that their level of wakefulness may not return to normal. Patients with excessive daytime sleepiness, including those taking solriamfetol should be frequently reassessed for their degree of sleepiness and, if appropriate, advised to avoid driving or any other potentially dangerous activity, especially at the start of the treatment or when the dose is changed.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 4.8 Undesirable effects
+
+<div style=\"page-break-after: always\"></div>
 
 ## Summary of the safety profile
 
@@ -202,7 +196,7 @@ The most frequently reported adverse reactions were headache (11.1%), nausea (6.
 
 ## Tabulated list of adverse reactions
 
-The frequency of adverse reactions is defined using the following MedDRA frequency convention: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1,000 to &lt; 1/100); rare (≥ 1/10,000 to &lt; 1/1,000); very rare (&lt; 1/10,000); not known (cannot be estimated from the available data).
+The frequency of adverse reactions is defined using the following MedDRA frequency convention: very common ( ≥ 1/10); common ( ≥ 1/100 to &lt; 1/10); uncommon ( ≥ 1/1,000 to &lt; 1/100); rare ( ≥ 1/10,000 to &lt; 1/1,000); very rare (&lt; 1/10,000); not known (cannot be estimated from the available data).
 
 | System Organ Class                                   | Adverse reactions        | Frequency   |
 |------------------------------------------------------|--------------------------|-------------|
@@ -223,11 +217,11 @@ The frequency of adverse reactions is defined using the following MedDRA frequen
 | Respiratory, thoracic and mediastinal disorders      | Cough                    | Common      |
 | Respiratory, thoracic and mediastinal disorders      | Dyspnoea                 | Uncommon    |
 | Gastrointestinal disorders                           | Nausea                   | Common      |
-|                                                      | Diarrhoea                | Common      |
-|                                                      | Dry mouth                | Common      |
-|                                                      | Abdominal pain           | Common      |
-|                                                      | Constipation             | Common      |
-|                                                      | Vomiting                 | Common      |
+| Gastrointestinal disorders                           | Diarrhoea                | Common      |
+| Gastrointestinal disorders                           | Dry mouth                | Common      |
+| Gastrointestinal disorders                           | Abdominal pain           | Common      |
+| Gastrointestinal disorders                           | Constipation             | Common      |
+| Gastrointestinal disorders                           | Vomiting                 | Common      |
 | Skin and subcutaneous tissue disorders               | Hyperhidrosis            | Common      |
 | General disorders and administration site conditions | Feeling jittery          | Common      |
 | General disorders and administration site conditions | Chest discomfort         | Common      |
@@ -283,11 +277,9 @@ The mechanism(s) of solriamfetol to improve wakefulness in patients with excessi
 
 ## In vitro data
 
-In radioligand-binding experiments with cells expressing cloned human receptors/transporters, solriamfetol showed affinity for the dopamine (replicate Ki=6.3 and 14.2 µM) and norepinephrine transporter (replicate Ki= 3.7 and &gt;10 µM) but no appreciable affinity to the serotonin transporter. Solriamfetol inhibited the reuptake of dopamine (replicate IC50=2.9 and 6.4 µM) and norepinephrine
+In radioligand-binding experiments with cells expressing cloned human receptors/transporters, solriamfetol showed affinity for the dopamine (replicate Ki=6.3 and 14.2 µM) and norepinephrine transporter (replicate Ki= 3.7 and &gt;10 µM) but no appreciable affinity to the serotonin transporter. Solriamfetol inhibited the reuptake of dopamine (replicate IC50=2.9 and 6.4 µM) and norepinephrine (IC50 = 4.4 µM) but not of serotonin by these cells.
 
 <div style=\"page-break-after: always\"></div>
-
-(IC50= 4.4 µM) but not of serotonin by these cells.
 
 ## In vivo animal data
 
@@ -313,14 +305,14 @@ Night-time sleep as measured with polysomnography was not affected by the use of
 
 Table 1. Overview of Efficacy Results at Week 12 in Patients with Narcolepsy in Study 1
 
+SD = Standard Deviation; SE = Standard Error; LS Mean = Least Square Mean; Difference From Placebo = LS Mean Difference between change from baseline between active drug and placebo. MWT results are derived from the first 4 trials of the MWT and a positive change from baseline represents  improvement in the sleep latency time. On the ESS, a negative change from baseline represents improvement in excessive daytime sleepiness. *The percentage of patients improved on the PGIc includes those who reported very much, much and minimal improvements; †Nominal p-value.
+
 |           | Treatment Groups (N)                                      | Mean Baseline Score (SD)            | Mean Change from Baseline                        | Difference from Placebo (95% CI)      | P - Value        |
 |-----------|-----------------------------------------------------------|-------------------------------------|--------------------------------------------------|---------------------------------------|------------------|
 | MWT (min) | Study 1 Placebo (58) Sunosi 75 mg (59) Sunosi 150 mg (55) | 6.15 (5.68) 7.50 (5.39) 7.85 (5.74) | LS Mean (SE) 2.12 (1.29) 4.74 (1.34) 9.77 (1.33) | 2.62 (-1.04, 6.28) 7.65 (3.99, 11.31) | 0.1595 <0.0001   |
-|           | Study 1 Placebo (58) Sunosi 75 mg (59)                    | 17.3 (2.86) 17.3 (3.53)             | LS Mean (SE) -1.6 (0.65) -3.8 (0.67) -5.4 (0.66) | -2.2 (-4.0, -0.3) -3.8 (-5.6, -2.0)   | 0.0211 <0.0001   |
-|           | Sunosi 150 mg (55)                                        | 17.0 (3.55)                         |                                                  |                                       |                  |
+|           | Study 1 Placebo (58) Sunosi 75 mg (59)                    | 17.3 (2.86) 17.3 (3.53)             | LS Mean (SE) -1.6 (0.65) -3.8 (0.67)             | -2.2 (-4.0, -0.3) -3.8 (-5.6, -2.0)   | 0.0211 <0.0001   |
+|           | Sunosi 150 mg (55)                                        | 17.0 (3.55) Percentage              | -5.4 (0.66) of                                   | Percentage                            | P -              |
 | PGIc      | Study 1 Placebo (58) Sunosi 75 mg (59) Sunosi 150 mg (55) | 39.7% 67.8% 78.2%                   |                                                  | 28.1 (10.8, 45.5) 38.5 (21.9, 55.2)   | 0.0023 † <0.0001 |
-
-SD = Standard Deviation; SE = Standard Error; LS Mean = Least Square Mean; Difference From Placebo = LS Mean Difference between change from baseline between active drug and placebo. MWT results are derived from the first 4 trials of the MWT and a positive change from baseline represents  improvement in the sleep latency time. On the ESS, a negative change from baseline represents improvement in excessive daytime sleepiness. *The percentage of patients improved on the PGIc includes those who reported very much, much and minimal improvements; †Nominal p-value.
 
 Figure 1: Co-Primary Efficacy Endpoints in Patients with Narcolepsy in Study 1
 
@@ -332,9 +324,9 @@ Figure 1: Co-Primary Efficacy Endpoints in Patients with Narcolepsy in Study 1
 
 Study 2, a 12-week, randomised, double blind, placebo-controlled parallel-group study, evaluated the efficacy of solriamfetol in adult patients with OSA. The co-primary and key secondary endpoints in this study were identical to Study 1. Study 3 was a 6-week, randomised-withdrawal,  double-blind, placebo-controlled study of the efficacy of solriamfetol in adult patients with OSA. The  measures of efficacy in the randomised withdrawal period were change from the beginning to the end  of the randomised-withdrawal period on the MWT, the ESS, and worsening in overall clinical  condition as assessed by the PGIc.
 
-For entry into both studies, patients had to have excessive daytime sleepiness (ESS score ≥10) and trouble maintaining wakefulness (mean sleep latency &lt;30 minutes as documented by the mean of the first 4 trials of the MWT) at baseline. Patients were eligible if they: 1) were currently using a primary OSA therapy (at any level of adherence); 2) had previously used a primary therapy for at least one month with at least one documented adjustment to the therapy; or 3) had undergone a surgical intervention in an attempt to treat the underlying obstruction. Patients were encouraged to stay on their  current primary OSA therapy at the same level of use throughout the study. Patients were excluded  only on the basis of their primary therapy use if they had refused to try a primary therapy such as  CPAP, an oral appliance, or a surgical intervention to treat their  underlying obstruction.
+For entry into both studies, patients had to have excessive daytime sleepiness (ESS score ≥ 10) and trouble maintaining wakefulness (mean sleep latency &lt;30 minutes as documented by the mean of the first 4 trials of the MWT) at baseline. Patients were eligible if they: 1) were currently using a primary OSA therapy (at any level of adherence); 2) had previously used a primary therapy for at least one month with at least one documented adjustment to the therapy; or 3) had undergone a surgical intervention in an attempt to treat the underlying obstruction. Patients were encouraged to stay on their  current primary OSA therapy at the same level of use throughout the study. Patients were excluded  only on the basis of their primary therapy use if they had refused to try a primary therapy such as  CPAP, an oral appliance, or a surgical intervention to treat their  underlying obstruction.
 
-In Study 2, patients with OSA were characterised by impaired wakefulness and excessive daytime sleepiness (EDS), as indicated by baseline MWT mean sleep latency and ESS scores, respectively (Table 2). Approximately 71% of patients were adherent (e.g. ≥4 hours per night on ≥ 70% of nights); demographic and baseline characteristics were similar between patients regardless of adherence to primary OSA therapy. At baseline, primary OSA therapy was used by approximately 73% of patients; of these patients, 92% of patients were using positive airway pressure (PAP).
+In Study 2, patients with OSA were characterised by impaired wakefulness and excessive daytime sleepiness (EDS), as indicated by baseline MWT mean sleep latency and ESS scores, respectively (Table 2). Approximately 71% of patients were adherent (e.g. ≥ 4 hours per night on ≥ 70% of nights); demographic and baseline characteristics were similar between patients regardless of adherence to primary OSA therapy. At baseline, primary OSA therapy was used by approximately 73% of patients; of these patients, 92% of patients were using positive airway pressure (PAP).
 
 Patients were randomised to receive solriamfetol 37.5 mg, 75 mg, 150 mg, 300 mg (two times the maximum recommended daily dose), or placebo once daily. At Week 12, patients randomised to the 75 mg and150 mg dose arms showed statistically significant improvements on the MWT and ESS (coprimary endpoints), as well as on the PGIc (key secondary endpoint), compared with placebo (Table 2). Patients randomised to 37.5 mg solriamfetol showed statistically significant improvements based on the MWT and ESS. These effects were observed at Week 1, maintained over the study duration and were dose-dependent (Figure 2). At Week 12, patients who were randomised to receive 75 mg and 150 mg of Sunosi demonstrated sustained improvements in wakefulness throughout the day that were statistically significant compared to placebo for each of the 5 MWT trials, spanning approximately 9 hours after dosing.  Dose- dependent improvements in the ability to conduct daily activities were observed, as measured by the FOSQ-10. Dosages above 150 mg daily do not confer increased effectiveness sufficient to outweigh dose-related adverse reactions.
 
@@ -353,8 +345,6 @@ Table 2. Overview of Efficacy Results at Week 12 in Patients with OSA in Study 2
 |                                                                         | Percentage of Patients Improved*                   | Percentage of Patients Improved*                             | Percentage of Patients Improved*                           | Percentage Difference from Placebo (95% CI)                 | P - Value                                      |
 | Placebo (114) Sunosi 37.5 mg (56) Sunosi 75 mg (58) Sunosi 150 mg (116) | 49.1%                                              | 49.1%                                                        | 49.1%                                                      | - 6.2 (-9.69, 22.16) 23.3 (8.58, 38.01) 40.5 (29.81, 51.25) | PGIc 55.4% 72.4% 89.7% - 0.4447 0.0035 <0.0001 |
 
-SD = Standard Deviation; SE = Standard Error; LS Mean = Least Square Mean; Difference From Placebo = LS Mean Difference on change from baseline between active drug and placebo. MWT results are derived from the first 4 trials of the MWT and a positive change from baseline represents improvement in the sleep latency time. On the ESS, a negative change from baseline represents improvement in excessive daytime sleepiness. *The percentage of patients improved on the PGIc includes those who reported very much, much and minimal improvements.
-
 Figure 2: Co-Primary Efficacy Endpoints in Patients with OSA in Study 2
 
 <!-- image -->
@@ -367,7 +357,7 @@ Study 4 was a long-term safety and maintenance of efficacy study for up to a yea
 
 The measures of efficacy in the randomised withdrawal period were change from the beginning to the  end of the randomised-withdrawal period on the ESS and worsening in overall clinical condition as  assessed by the PGIc. Dose initiation and titration was identical to Study 3.
 
-Patients treated with solriamfetol remained improved, whereas placebo-treated patients worsened (LS mean difference of -3.7 on ESS; p&lt;0.0001) during the randomised-withdrawal period after at least 6 months of open-label treatment. Fewer patients treated with solriamfetol reported worsening on the PGIc (percentage difference of 36.2%; p&lt;0.0001). These results demonstrate long-term maintenance of efficacy with continued solriamfetol treatment, and a reversal of treatment benefit  upon discontinuation of that treatment.
+Patients treated with solriamfetol remained improved, whereas placebo-treated patients worsened (LS mean difference of -3.7 on ESS; p&lt;0.0001) during the randomised-withdrawal period after at least 6 months of open-label treatment. Fewer patients treated with solriamfetol reported worsening on the PGIc (percentage difference of -36.2%; p&lt;0.0001). These results demonstrate long-term maintenance of efficacy with continued solriamfetol treatment, and a reversal of treatment benefit  upon discontinuation of that treatment.
 
 For patients who were using a primary OSA therapy at the beginning of the study, primary OSA therapy use did not change over the course of the long-term study.
 
@@ -381,7 +371,7 @@ The European Medicines Agency has deferred the obligation to submit the results 
 
 The oral bioavailability of solriamfetol is approximately 95% with peak plasma concentrations occurring at a median Tmax of 2 hours (range 1.25 to 3 hours) under fasted conditions.
 
-Ingestion of solriamfetol with a high-fat meal resulted in minimal changes in Cmax and AUC; however, a delay of approximately 1 hour was observed in Tmax. The results show that solriamfetol can be taken without regard to food.
+Ingestion of solriamfetol with a high-fat meal resulted in minimal changes in Cmax and AUC; however, a delay of approximately 1 hour was observed in Tmax . The results show that solriamfetol can be taken without regard to food.
 
 ## Distribution
 
@@ -393,11 +383,9 @@ Solriamfetol is minimally metabolised in humans.
 
 ## Interactions
 
-With the exception of weak inhibition of CYP2D6 (IC50 of 360 µM), solriamfetol is not a substrate or inhibitor of any of the major CYP enzymes and does not induce CYP1A2, 2B6, 3A4 or UGT1A1 enzymes at clinically relevant concentrations. Solriamfetol does not appear to be a substrate or inhibitor of membrane transporters P-gp, BCRP, OATP1B1, OATP1B3, OAT1 or OAT3. Solriamfetol is primarily excreted unchanged in the urine and is a low-affinity substrate of multiple renal cationic
+With the exception of weak inhibition of CYP2D6 (IC50 of 360 µM), solriamfetol is not a substrate or inhibitor of any of the major CYP enzymes and does not induce CYP1A2, 2B6, 3A4 or UGT1A1 enzymes at clinically relevant concentrations. Solriamfetol does not appear to be a substrate or inhibitor of membrane transporters P-gp, BCRP, OATP1B1, OATP1B3, OAT1 or OAT3. Solriamfetol is primarily excreted unchanged in the urine and is a low-affinity substrate of multiple renal cationic active substance transporters, without strong affinity for any individual transporter tested (OCT2, MATE1, OCTN1 and OCTN2). Solriamfetol is not an inhibitor of renal transporters OCT1, MATE2K, OCTN1 or OCTN2 but is a weak inhibitor of OCT2 (IC50 of 146 µM) and MATE1 (IC50 of 211 µM). Taken together, these results show that clinically relevant PK drug interactions are unlikely to occur in patients taking solriamfetol.
 
 <div style=\"page-break-after: always\"></div>
-
-active substance transporters, without strong affinity for any individual transporter tested (OCT2, MATE1, OCTN1 and OCTN2). Solriamfetol is not an inhibitor of renal transporters OCT1, MATE2K, OCTN1 or OCTN2 but is a weak inhibitor of OCT2 (IC50 of 146 µM) and MATE1 (IC50 of 211 µM). Taken together, these results show that clinically relevant PK drug interactions are unlikely to occur in patients taking solriamfetol.
 
 ## Elimination
 
@@ -413,9 +401,9 @@ Solriamfetol exhibits linear pharmacokinetics over the clinical dose range. Stea
 
 ## Renal impairment
 
-Compared to subjects with normal renal function (eGFR≥90 mL/min/1.73 m 2 ), AUC of solriamfetol was higher by approximately 1.5-, 2.3-, and 4.4-fold, and t1/2 increased approximately 1.2-, 1.9-, and 3.9- fold in patients with mild (eGFR 60-89 mL/min/1.73 m 2 ), moderate (eGFR 30-59 mL/min/1.73 m 2 ), or severe (eGFR&lt;30 mL/min/1.73 m 2 ) renal impairment, respectively. In general, mean Cmax and median Tmax values were not affected by renal impairment.
+Compared to subjects with normal renal function (eGFR ≥ 90 mL/min/1.73 m 2 ), AUC of solriamfetol was higher by approximately 1.5-, 2.3-, and 4.4-fold, and t 1/2 increased approximately 1.2-, 1.9-, and 3.9- fold in patients with mild (eGFR 60-89 mL/min/1.73 m 2 ), moderate (eGFR 30-59 mL/min/1.73 m 2 ), or severe (eGFR&lt;30 mL/min/1.73 m 2 ) renal impairment, respectively. In general, mean Cmax and median Tmax values were not affected by renal impairment.
 
-Compared to subjects with normal renal function (eGFR≥90 mL/min/1.73 m 2 ), AUC of solriamfetol was higher by approximately 6.2- and 4.6-fold, respectively, in patients with ESRD without hemodialysis and in patients with ESRD undergoing hemodialysis, and t1/2 increased at least 13-fold. Solriamfetol is not recommended for use in patients with ESRD. In patients with ESRD, an average of 21% of solriamfetol was removed by hemodialysis.
+Compared to subjects with normal renal function (eGFR ≥ 90 mL/min/1.73 m 2 ), AUC of solriamfetol was higher by approximately 6.2- and 4.6-fold, respectively, in patients with ESRD without hemodialysis and in patients with ESRD undergoing hemodialysis, and t1/2 increased at least 13-fold. Solriamfetol is not recommended for use in patients with ESRD. In patients with ESRD, an average of 21% of solriamfetol was removed by hemodialysis.
 
 ## Lactation and Breast-feeding
 
@@ -429,11 +417,9 @@ Population PK analysis indicated that the intrinsic covariates of age, gender, a
 
 Non-clinical data reveal no special hazard for humans based on conventional studies of genotoxicity, and male and female fertility.
 
-Repeated dose toxicity studies with daily oral application were conducted in mice (duration 3 months,
-
 <div style=\"page-break-after: always\"></div>
 
-NOAEL 17 mg/kg/day), rats (duration 6 months with a 3-month recovery period, NOAEL not established, LOAEL 29 mg/kg/day) and dogs (duration 12 months with a 3-month recovery period, NOAEL not established, LOAEL 8 mg/kg/day). AUC-based safety factors for solriamfetol derived from these studies (based on comparison with clinical AUC at the maximum recommended human dose of 150 mg/day) were &lt;1 for mice (based on NOAEL) and &lt;2 for rats and dogs (based on LOAEL), mainly due to exaggerated pharmacological effects of solriamfetol on CNS activity.
+Repeated dose toxicity studies with daily oral application were conducted in mice (duration 3 months, NOAEL 17 mg/kg/day), rats (duration 6 months with a 3-month recovery period, NOAEL not established, LOAEL 29 mg/kg/day) and dogs (duration 12 months with a 3-month recovery period, NOAEL not established, LOAEL 8 mg/kg/day). AUC-based safety factors for solriamfetol derived from these studies (based on comparison with clinical AUC at the maximum recommended human dose of 150 mg/day) were &lt;1 for mice (based on NOAEL) and &lt;2 for rats and dogs (based on LOAEL), mainly due to exaggerated pharmacological effects of solriamfetol on CNS activity.
 
 Long-term carcinogenicity studies have been performed in mice, treated with oral solriamfetol doses of 20, 65 and 200 mg/kg/day for up to 104 weeks, and in rats, treated with oral solriamfetol doses of 35, 80 and 200 mg/kg/day for up to 101 weeks. Solriamfetol did not increase the incidence of neoplastic findings in these lifetime carcinogenicity assays. AUC-based safety margins at the high dose to the maximal recommended human dose (MRHD, 150 mg/day) were about 7.8 in mice and about 20.7 in rats. In the light of negative genotoxicity and no increase of tumour incidence in both carcinogenicity studies, it can be concluded that solriamfetol does not pose a carcinogenic risk to humans. Compared to controls, survival rate was decreased in solriamfetol-treated (male) mice, maximal at a dose of 65 mg/kg/day (AUC-based safety margin to MRHD about 2.9), but not in solriamfetol-treated rats.
 
@@ -465,9 +451,7 @@ Not applicable.
 
 ## 6.3 Shelf life
 
-5 years
-
-Bottles after first opening: 120 days
+5 years Bottles after first opening: 120 days
 
 ## 6.4 Special precautions for storage
 
@@ -479,9 +463,9 @@ Bottles: Once opened, use within 4 months. Keep the container tightly closed in 
 
 7 x 1 film coated tablets in PVC/PCTFE/Aluminium perforated unit dose blisters.
 
-PVC/PCTFE/Aluminium blister.
-
-Packs containing 7, 28 or 56 film-coated tablets.
+```
+PVC/PCTFE/Aluminium blister. Packs containing 7, 28 or 56 film-coated tablets.
+```
 
 High density polyethylene (HDPE) bottle with polypropylene (PP) child-resistant cap with integrated silica gel desiccant.  Each bottle contains 30 or 100 film-coated tablets.
 
@@ -511,9 +495,11 @@ Date of latest renewal: 13 January 2025
 
 ## 10. DATE OF REVISION OF THE TEXT
 
-## MM/YYYY
+MM/YYYY
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu.
+
+16
 
 <div style=\"page-break-after: always\"></div>
 
@@ -530,7 +516,7 @@ Detailed information on this medicinal product is available on the website of th
 
 Name and address of the manufacturer(s) responsible for batch release
 
-Cilatus Manufacturing Services Limited Pembroke House 28-32 Pembroke Street Upper Dublin 2 Co. Dublin D02 EK84 Ireland
+Atnahs Pharma Denmark ApS Copenhagen Towers Ørestads Boulevard 108, 5.tv DK-2300 København S Denmark
 
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
@@ -538,20 +524,20 @@ Medicinal product subject to restricted medical prescription (see Annex I: Summa
 
 ## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
-## · Periodic safety update reports (PSURs)
+##  Periodic safety update reports (PSURs)
 
 The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
-## · Risk management plan (RMP)
+##  Risk management plan (RMP)
 
 The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP.
 
 An updated RMP should be submitted:
 
-- At the request of the European Medicines Agency;
-- Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
+-  At the request of the European Medicines Agency;
+-  Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -563,11 +549,9 @@ An updated RMP should be submitted:
 
 ## A. LABELLING
 
-<div style=\"page-break-after: always\"></div>
-
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-## CARTON - PACK OF 7, 28 and 56 TABLETS 75 mg STRENGTH
+CARTON - PACK OF 7, 28 and 56 TABLETS 75 mg STRENGTH
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -582,14 +566,14 @@ Each tablet contains solriamfetol hydrochloride equivalent to 75 mg of solriamfe
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
 - 7 x 1 film-coated tablets
+
 - 28 film-coated tablets
+
 - 56 film-coated tablets
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-Read the package leaflet before use.
-
-Oral use
+Read the package leaflet before use. Oral use
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -605,19 +589,13 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
+<div style=\"page-break-after: always\"></div>
+
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Atnahs Pharma Netherlands B. V.
-
-Copenhagen Towers
-
-Ørestads Boulevard 108, 5.tv
-
-DK-2300 København S
-
-Denmark
+Atnahs Pharma Netherlands B. V. Copenhagen Towers Ørestads Boulevard 108, 5.tv DK-2300 København S Denmark
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -632,7 +610,9 @@ EU/1/19/1408/003
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
+
 15. INSTRUCTIONS ON USE
+
 16. INFORMATION IN BRAILLE
 
 Sunosi 75 mg
@@ -655,13 +635,13 @@ NN
 |-----------------------------------------------------|
 | BLISTERS - 75 mg STRENGTH                           |
 
-| 1.   | NAMEOFTHEMEDICINALPRODUCT   |
-|------|-----------------------------|
+| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
+|------|------------------------------|
 
 Sunosi 75 mg tablets solriamfetol
 
-| 2.   | NAMEOFTHEMARKETINGAUTHORISATIONHOLDER   |
-|------|-----------------------------------------|
+| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
+|------|------------------------------------------|
 
 Atnahs
 
@@ -678,9 +658,11 @@ Lot
 | 5.   | OTHER   |
 |------|---------|
 
+<div style=\"page-break-after: always\"></div>
+
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-## CARTON - PACK OF 7, 28 and 56 TABLETS 150 mg STRENGTH
+CARTON - PACK OF 7, 28 and 56 TABLETS 150 mg STRENGTH
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -695,9 +677,7 @@ Each tablet contains solriamfetol hydrochloride equivalent to 150 mg of solriamf
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
 - 7 x 1 film-coated tablets
-
 - 28 film-coated tablets
-
 - 56 film-coated tablets
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
@@ -720,13 +700,17 @@ EXP
 
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
-<div style=\"page-break-after: always\"></div>
-
-<div style=\"page-break-after: always\"></div>
-
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Atnahs Pharma Netherlands B. V. Copenhagen Towers Ørestads Boulevard 108, 5.tv DK-2300 København S Denmark
+Atnahs Pharma Netherlands B. V.
+
+Copenhagen Towers
+
+Ørestads Boulevard 108, 5.tv
+
+DK-2300 København S
+
+Denmark
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -742,7 +726,7 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -762,17 +746,19 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
-|-----------------------------------------------------|
-| BLISTERS - 150 mg STRENGTH                          |
+<div style=\"page-break-after: always\"></div>
 
-| 1.   | NAMEOFTHEMEDICINALPRODUCT   |
-|------|-----------------------------|
+| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
+|------------------------------------------------------|
+| BLISTERS - 150 mg STRENGTH                           |
+
+| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
+|------|------------------------------|
 
 Sunosi 150 mg tablets solriamfetol
 
-| 2.   | NAMEOFTHEMARKETINGAUTHORISATIONHOLDER   |
-|------|-----------------------------------------|
+| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
+|------|------------------------------------------|
 
 Atnahs
 
@@ -790,6 +776,8 @@ Lot
 |------|---------|
 
 26
+
+<div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
@@ -831,23 +819,15 @@ After first opening of the bottle use within 120 days.
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-<div style=\"page-break-after: always\"></div>
-
 Keep the container tightly closed in order to protect from moisture.
+
+<div style=\"page-break-after: always\"></div>
 
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Atnahs Pharma Netherlands B. V.
-
-Copenhagen Towers
-
-Ørestads Boulevard 108, 5.tv
-
-DK-2300 København S
-
-Denmark
+Atnahs Pharma Netherlands B. V. Copenhagen Towers Ørestads Boulevard 108, 5.tv DK-2300 København S Denmark
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -871,7 +851,7 @@ Sunosi 75 mg
 
 2D barcode carrying the unique identifier included.
 
-18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 PC
 
@@ -921,17 +901,20 @@ After first opening of the bottle use within 120 days.
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-<div style=\"page-break-after: always\"></div>
-
 Keep the container tightly closed in order to protect from moisture.
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+<div style=\"page-break-after: always\"></div>
 
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVED FROMSUCHMEDICINALPRODUCTS, IF APPROPRIATE   |
+|-------|------------------------------------------------------------------------------------------------------------------------------------|
+
+| 11.   | NAMEANDADDRESS OF THEMARKETINGAUTHORISATION HOLDER   |
+|-------|------------------------------------------------------|
 
 Atnahs
 
-## 12. MARKETING AUTHORISATION NUMBER(S)
+| 12.   | MARKETINGAUTHORISATION NUMBER(S)   |
+|-------|------------------------------------|
 
 EU/1/19/1408/004 EU/1/19/1408/005
 
@@ -939,15 +922,17 @@ EU/1/19/1408/004 EU/1/19/1408/005
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+| 14.   | GENERAL CLASSIFICATIONFOR SUPPLY   |
+|-------|------------------------------------|
 
-15. INSTRUCTIONS ON USE
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
 16. INFORMATION IN BRAILLE
-
 17. UNIQUE IDENTIFIER - 2D BARCODE
 
-18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+| 18.   | UNIQUE IDENTIFIER-HUMANREADABLEDATA   |
+|-------|---------------------------------------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -991,27 +976,34 @@ After first opening of the bottle use within 120 days.
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-<div style=\"page-break-after: always\"></div>
-
 Keep the container tightly closed in order to protect from moisture.
-
-<div style=\"page-break-after: always\"></div>
 
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Atnahs Pharma Netherlands B. V. Copenhagen Towers Ørestads Boulevard 108, 5.tv DK-2300 København S Denmark
+Atnahs Pharma Netherlands B. V.
+
+Copenhagen Towers
+
+Ørestads Boulevard 108, 5.tv
+
+DK-2300 København S
+
+Denmark
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/19/1408/009 EU/1/19/1408/010
+EU/1/19/1408/009
+
+EU/1/19/1408/010
 
 ## 13. BATCH NUMBER
 
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
+
 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
@@ -1029,6 +1021,10 @@ PC
 SN
 
 NN
+
+<div style=\"page-break-after: always\"></div>
+
+<div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE IMMEDIATE PACKAGING
 
@@ -1074,9 +1070,7 @@ Keep the container tightly closed in order to protect from moisture.
 
 <div style=\"page-break-after: always\"></div>
 
-<div style=\"page-break-after: always\"></div>
-
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSALOF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVED FROMSUCHMEDICINAL PRODUCTS, IF APPROPRIATE   |
 |-------|-------------------------------------------------------------------------------------------------------------------------------------|
 
 | 11.   | NAMEANDADDRESS OF THEMARKETINGAUTHORISATION HOLDER   |
@@ -1084,8 +1078,8 @@ Keep the container tightly closed in order to protect from moisture.
 
 Atnahs
 
-| 12. MARKETING AUTHORISATION NUMBER(S)   |
-|-----------------------------------------|
+| 12.   | MARKETINGAUTHORISATION NUMBER(S)   |
+|-------|------------------------------------|
 
 EU/1/19/1408/009 EU/1/19/1408/010
 
@@ -1097,17 +1091,17 @@ Lot
 | 14.   | GENERAL CLASSIFICATIONFOR SUPPLY   |
 |-------|------------------------------------|
 
-| 15.   | INSTRUCTIONSONUSE   |
-|-------|---------------------|
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
 
-| 17. UNIQUE IDENTIFIER - 2D BARCODE   |
-|--------------------------------------|
+| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
+|-------|----------------------------------|
 
-| 18. UNIQUE IDENTIFIER-HUMANREADABLEDATA   |
-|-------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER-HUMANREADABLEDATA   |
+|-------|---------------------------------------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1143,17 +1137,17 @@ Sunosi contains the active substance solriamfetol. Solriamfetol increases the am
 
 ## It is used
 
-- in adults with narcolepsy, a condition that causes you to suddenly and unexpectedly feel very sleepy at any time. Some patients with narcolepsy also have symptoms of cataplexy (when muscles become weak in response to emotions such as anger, fear, laughter or surprise, sometimes leading to collapse).
-- to improve wakefulness and reduce excessive daytime sleepiness (EDS) in adult patients  with obstructive sleep apnoea (OSA) whose EDS has not been satisfactorily treated by primary OSA therapy, such  as continuous positive airway pressure (CPAP).
+-  in adults with narcolepsy, a condition that causes you to suddenly and unexpectedly feel very sleepy at any time. Some patients with narcolepsy also have symptoms of cataplexy (when muscles become weak in response to emotions such as anger, fear, laughter or surprise, sometimes leading to collapse).
+-  to improve wakefulness and reduce excessive daytime sleepiness (EDS) in adult patients  with obstructive sleep apnoea (OSA) whose EDS has not been satisfactorily treated by primary OSA therapy, such  as continuous positive airway pressure (CPAP).
 
 ## 2. What you need to know before you take Sunosi
 
 ## Do not take Sunosi if you:
 
-- are allergic to solriamfetol or any of the other ingredients of this medicine (listed in section  6)
-- had a heart attack in the past 1 year
-- have serious heart problems, such as chest pain of recent onset, or chest pain that is lasting longer or is more severe than usual, high blood pressure not properly controlled with medicines, serious irregular heart beat or other serious heart problems
-- are taking a type of medicine called a 'monoamine oxidase inhibitor' (MAOI) for depression or Parkinson's disease, or have taken an  MAOI in the last 14 days.
+-  had a heart attack in the past 1 year
+-  are allergic to solriamfetol or any of the other ingredients of this medicine (listed in section  6)
+-  have serious heart problems, such as chest pain of recent onset, or chest pain that is lasting longer or is more severe than usual, high blood pressure not properly controlled with medicines, serious irregular heart beat or other serious heart problems
+-  are taking a type of medicine called a 'monoamine oxidase inhibitor' (MAOI) for depression or Parkinson's disease, or have taken an  MAOI in the last 14 days.
 
 ## Warnings and precautions
 
@@ -1161,11 +1155,11 @@ Talk to your doctor or pharmacist before taking Sunosi if you have or have had:
 
 <div style=\"page-break-after: always\"></div>
 
-- mental health problems, including psychosis (altered sense of what is real) and extreme changes in mood (bipolar disorder)
-- heart problems, heart attack or stroke
-- high blood pressure
-- alcoholism or any drug abuse or dependence
-- an eye condition called angle closure glaucoma.
+-  mental health problems, including psychosis (altered sense of what is real) and extreme changes in mood (bipolar disorder)
+-  heart problems, heart attack or stroke
+-  high blood pressure
+-  alcoholism or any drug abuse or dependence
+-  an eye condition called angle closure glaucoma.
 
 Tell your doctor or pharmacist if any of the above applies to you before starting treatment. This is because Sunosi may make some of these problems worse. Your doctor will want to monitor how the medicine affects you.
 
@@ -1181,7 +1175,7 @@ Tell your doctor or pharmacist if you are taking, have recently taken or might t
 
 ## Do not take Sunosi if:
 
-- you are taking a medicine called a 'monoamine oxidase inhibitor' (MAOI) for depression or Parkinson's disease, or have taken an  MAOI in the last 14 days because taking an MAOI with Sunosi may increase your  blood pressure.
+-  you are taking a medicine called a 'monoamine oxidase inhibitor' (MAOI) for depression or Parkinson's disease, or have taken an  MAOI in the last 14 days because taking an MAOI with Sunosi may increase your  blood pressure.
 
 Check with your doctor or pharmacist if you are taking medicines that can increase your blood pressure or heart rate, or if you are taking dopaminergic agents (e.g. pramipexole, levodopa, methylphenidate) which are used to treat Parkinson's disease, depression, restless leg syndrome and Attention-deficit hyperactivity disorder (ADHD)
 
@@ -1195,12 +1189,12 @@ Solriamfetol is excreted in breast milk. You should not use Sunosi during breast
 
 ## Driving and using machines
 
-You may feel dizzy or your ability to concentrate may be impaired ; take special care when driving or using machines.
+You may feel dizzy or your ability to concentrate may be impaired; take special care when driving or using machines.
 
 Talk to your doctor or pharmacist if you are not sure how your underlying condition or this medicine affects you with activities that  require attention, such as driving and handling machinery:
 
-- at the beginning of treatment
-- if your dose is changed
+-  at the beginning of treatment
+-  if your dose is changed
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1212,9 +1206,9 @@ Always take this medicine exactly as your doctor or pharmacist has told you. Che
 
 Your doctor will advise you on the dose of Sunosi to take.
 
-- For narcolepsy, treatment is normally started with a dose of 75 mg once per day, in the morning when you  wake up. Some patients may need a 150-mg starting dose. Your doctor will advise you if this applies to you. Your doctor may prescribe you a lower dose of 37.5 mg. You can get this dose by taking half of one 75 mg tablet. The tablet should be broken using the score line.
-- For OSA, treatment is normally started with a dose of 37.5 mg once per day, in the morning when you  wake up. You can get this dose by taking half of one 75 mg tablet. The tablet should be broken using the score line.
-- After at least 3 days' treatment, your doctor may increase your daily dose to the most appropriate dose.
+-  For narcolepsy, treatment is normally started with a dose of 75 mg once per day, in the morning when you  wake up. Some patients may need a 150-mg starting dose. Your doctor will advise you if this applies to you. Your doctor may prescribe you a lower dose of 37.5 mg. You can get this dose by taking half of one 75 mg tablet. The tablet should be broken using the score line.
+-  For OSA, treatment is normally started with a dose of 37.5 mg once per day, in the morning when you  wake up. You can get this dose by taking half of one 75 mg tablet. The tablet should be broken using the score line.
+-  After at least 3 days' treatment, your doctor may increase your daily dose to the most appropriate dose.
 
 The recommended maximum dose of Sunosi is 150 mg daily.
 
@@ -1228,9 +1222,9 @@ If you have kidney problems your doctor may need to adjust the dose.
 
 ## Taking Sunosi
 
-- Sunosi is for oral use
-- Take Sunosi by mouth in the morning when you wake up.
-- You can take Sunosi with food or between meals.
+-  Sunosi is for oral use
+-  Take Sunosi by mouth in the morning when you wake up.
+-  You can take Sunosi with food or between meals.
 
 ## How long to take Sunosi
 
@@ -1260,25 +1254,25 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 ## Very common side effects (may affect more than 1 in 10 people)
 
-- Headache
+-  Headache
 
 ## Common side effects (may affect up to 1 in 10 people)
 
-- Anxiety, difficulty sleeping, irritability, dizziness, feeling jittery, excessive sweating
-- Fast or irregular heart beats, also called palpitations, chest discomfort
-- High blood pressure
-- Feeling sick, diarrhoea, stomach pain, constipation, vomiting
-- Cough, clenching or grinding your teeth, dry mouth
-- Loss of appetite
+-  Fast or irregular heart beats, also called palpitations, chest discomfort
+-  Anxiety, difficulty sleeping, irritability, dizziness, feeling jittery, excessive sweating
+-  High blood pressure
+-  Cough, clenching or grinding your teeth, dry mouth
+-  Feeling sick, diarrhoea, stomach pain, constipation, vomiting
+-  Loss of appetite
 
 ## Uncommon side effects (may affect up to 1 in 100 people)
 
-- Feeling agitated, restlessness, inability to concentrate, shaking (tremors)
-- Increase in heart rate much higher than normal
-- Shortness of breath
-- Chest pain
-- Thirst
-- Weight loss
+-  Increase in heart rate much higher than normal
+-  Feeling agitated, restlessness, inability to concentrate, shaking (tremors)
+-  Shortness of breath
+-  Thirst
+-  Chest pain
+-  Weight loss
 
 Skin rash, hives and itching have also been reported.
 
@@ -1328,7 +1322,7 @@ Sunosi 75 mg film-coated tablets
 
 Yellow to dark yellow/orange  oblong tablet with '75' debossed on one side and a score line on the opposite side. The tablet can be divided into equal doses.
 
-Sunosi 150 mg film-coated tablets
+## Sunosi 150 mg film-coated tablets
 
 Yellow oblong tablet with '150' debossed on one side.
 
@@ -1342,11 +1336,9 @@ Atnahs Pharma Netherlands B. V. Copenhagen Towers Ørestads Boulevard 108, 5.tv 
 
 ## Manufacturer
 
-Cilatus Manufacturing Services Limited Pembroke House 28-32 Pembroke Street Upper Dublin 2 Co. Dublin D02 EK84
+Atnahs Pharma Denmark ApS Copenhagen Towers Ørestads Boulevard 108, 5.tv DK-2300 København S Denmark
 
-Ireland
-
-This leaflet was last revised in MM/YYYY .
+## This leaflet was last revised in MM/YYYY.
 
 ## Other sources of information
 

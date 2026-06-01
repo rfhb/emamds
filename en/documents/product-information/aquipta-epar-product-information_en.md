@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-06-19 11:27:29
-document_pages: 34
+document_datetime: 2026-05-28 14:10:18
+document_pages: 35
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/aquipta-epar-product-information_en.pdf
 document_name: aquipta-epar-product-information_en.pdf
 version: success
-processing_time: 13.274223
-conversion_datetime: 2025-12-22 16:14:22.332826
+processing_time: 17.6364552
+conversion_datetime: 2026-06-01 17:17:20.656657
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.20.0
+  docling-jobkit: 1.20.1
+  docling: 2.96.1
+  docling-core: 2.78.0
+  docling-ibm-models: 3.13.2
+  docling-parse: 6.2.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -24,7 +24,7 @@ docling_version:
 
 <!-- image -->
 
-V This medicinal product is subject to additional monitoring. This will allow quick identification of new safety information. Healthcare professionals are asked to report any suspected adverse reactions. See section 4.8 for how to report adverse reactions.
+This medicinal product is subject to additional monitoring. This will allow quick identification of new safety information. Healthcare professionals are asked to report any suspected adverse reactions. See section 4.8 for how to report adverse reactions.
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -121,11 +121,9 @@ Hypersensitivity to the active substance or to any of the excipients listed in s
 
 ## Serious hypersensitivity reactions
 
-Serious hypersensitivity reactions, including anaphylaxis, dyspnoea, rash, pruritus, urticaria, and facial oedema, have been reported with use of AQUIPTA (see section 4.8). Most serious reactions have
+Serious hypersensitivity reactions, including anaphylaxis, dyspnoea, rash, pruritus, urticaria, and facial oedema, have been reported with use of AQUIPTA (see section 4.8). Most serious reactions have occurred within 24 hours of first use, however, some hypersensitivity reactions can occur days after administration. Patients should be warned about the symptoms associated with hypersensitivity. If a hypersensitivity reaction occurs, discontinue AQUIPTA and institute appropriate therapy.
 
 <div style=\"page-break-after: always\"></div>
-
-occurred within 24 hours of first use, however, some hypersensitivity reactions can occur days after administration. Patients should be warned about the symptoms associated with hypersensitivity. If a hypersensitivity reaction occurs, discontinue AQUIPTA and institute appropriate therapy.
 
 ## Hepatic impairment
 
@@ -200,10 +198,6 @@ Table 2. Adverse reactions identified with atogepant
 | Investigations                                       | Common      | Weight decreased*                                                                        |
 | Investigations                                       | Uncommon    | ALT/AST increased**                                                                      |
 
-* Defined in clinical trials as weight decrease of at least 7% at any point.
-
-** Cases of ALT/AST elevations (defined as ≥ 3× upper limit of normal) temporally associated with atogepant were observed in clinical trials, including cases with a potential positive dechallenge history that resolved within 8 weeks of discontinuation. However, the overall frequency of liver enzyme elevations was similar in the atogepant and placebo groups.
-
 <div style=\"page-break-after: always\"></div>
 
 ## Reporting of suspected adverse reactions
@@ -222,7 +216,7 @@ Pharmacotherapeutic group: Analgesics, calcitonin gene-related peptide (CGRP) an
 
 ## Mechanism of action
 
-Non-clinical receptor binding studies and in vitro functional studies point to an involvement of more than one receptor type in the pharmacological effects of atogepant. Atogepant shows affinity to several receptors  of  the  calcitonin/CGRP-receptor  family.  In  view  of  the  clinically  relevant  free  plasma concentrations  of atogepant (Cmax &gt; 20 nM for a 60 mg  dose) and the fact that CGRP and amylin-1 receptors  are  considered  to  be  involved  in  the  pathophysiology  of  migraine,  inhibitory  effects  of atogepant at these receptors (Ki-value 26 pM and 2.4 nM, respectively) could be of clinical relevance. However, the precise mechanism of action of atogepant in the prophylaxis of migraine remains to be established.
+Non-clinical receptor binding studies and in vitro functional studies point to an involvement of more than one receptor type in the pharmacological effects of atogepant. Atogepant shows affinity to several receptors  of  the  calcitonin/CGRP-receptor  family.  In  view  of  the  clinically  relevant  free  plasma concentrations of atogepant (Cmax &gt; 20 nM for a 60 mg dose) and the fact that CGRP and amylin-1 receptors  are  considered  to  be  involved  in  the  pathophysiology  of  migraine,  inhibitory  effects  of atogepant at these receptors (Ki-value 26 pM and 2.4 nM, respectively) could be of clinical relevance. However, the precise mechanism of action of atogepant in the prophylaxis of migraine remains to be established.
 
 ## Clinical efficacy and safety
 
@@ -240,25 +234,25 @@ The primary efficacy endpoint was the change from baseline in mean monthly migra
 
 Table 3: Efficacy endpoints in ADVANCE
 
-|                                                   | AQUIPTA 60 mg N=226   | Placebo N=216   |
+|                                                   | AQUIPTA 60 mg N=226   |   Placebo N=216 |
 |---------------------------------------------------|-----------------------|-----------------|
 | Monthly migraine days (MMD) across 12 weeks       |                       |                 |
-| Baseline                                          | 7.8                   | 7.5             |
-| Mean change from baseline                         | -4.1                  | -2.5            |
+| Baseline                                          | 7.8                   |             7.5 |
+| Mean change from baseline                         | -4.1                  |            -2.5 |
 | Difference from placebo                           | -1.7                  |                 |
 | p -value                                          | <0.001                |                 |
 | Monthly headache days across 12 weeks             |                       |                 |
-| Baseline                                          | 9.0                   | 8.5             |
-| Mean change from baseline                         | -4.2                  | -2.5            |
+| Baseline                                          | 9.0                   |             8.5 |
+| Mean change from baseline                         | -4.2                  |            -2.5 |
 | Difference from placebo                           | -1.7                  |                 |
 | p -value                                          | <0.001                |                 |
 | Monthly acute medication use days across 12 weeks |                       |                 |
-| Baseline                                          | 6.9                   | 6.5             |
-| Mean change from baseline                         | -3.8                  | -2.3            |
+| Baseline                                          | 6.9                   |             6.5 |
+| Mean change from baseline                         | -3.8                  |            -2.3 |
 | Difference from placebo                           | -1.4                  |                 |
 | p -value                                          | <0.001                |                 |
 | ≥ 50% MMDresponders across 12 weeks               |                       |                 |
-| %Responders                                       | 59                    | 29              |
+| %Responders                                       | 59                    |              29 |
 | Odds ratio (95% CI)                               | 3.55 (2.39, 5.28)     |                 |
 | p -value                                          | <0.001                |                 |
 
@@ -272,7 +266,7 @@ Figure 1: Change from baseline in monthly migraine days in ADVANCE
 
 ## Long-term efficacy
 
-Efficacy was sustained for up to one year in an open-label study in which 546 patients with episodic migraine were randomised to receive AQUIPTA 60 mg once daily. 68% (373/546) of patients completed the treatment period. The reduction in the least-squares mean number of monthly migraine days in the first month (weeks 1-4) was -3.8 days and improved to a least-squares mean reduction of 5.2 days in the last month (weeks 49-52). Approximately 84%, 70%, and 48% of patients reported ≥ 50%, ≥ 75%, and 100% reduction in monthly migraine days at weeks 49-52, respectively.
+Efficacy was sustained for up to one year in an open-label study in which 546 patients with episodic migraine were randomised to receive AQUIPTA 60 mg once daily. 68% (373/546) of patients completed the treatment period. The reduction in the least-squares mean number of monthly migraine days in the first month (weeks 1-4) was -3.8 days and improved to a least-squares mean reduction of -5.2 days in the last month (weeks 49-52). Approximately 84%, 70%, and 48% of patients reported ≥ 50%, ≥ 75%, and 100% reduction in monthly migraine days at weeks 49-52, respectively.
 
 ## Patients with previous failure to 2 to 4 classes of oral prophylactic treatments
 
@@ -290,25 +284,25 @@ The primary efficacy endpoint was the change from baseline in mean MMD across th
 
 Table 4: Efficacy endpoints in PROGRESS
 
-|                                                   | AQUIPTA 60 mg N=257   | Placebo N=249   |
+|                                                   | AQUIPTA 60 mg N=257   |   Placebo N=249 |
 |---------------------------------------------------|-----------------------|-----------------|
 | Monthly migraine days (MMD) across 12 weeks       |                       |                 |
-| Baseline                                          | 19.2                  | 19.0            |
-| Mean change from baseline                         | -6.8                  | -5.1            |
+| Baseline                                          | 19.2                  |            19.0 |
+| Mean change from baseline                         | -6.8                  |            -5.1 |
 | Difference from placebo                           | -1.7                  |                 |
 | p -value                                          | 0.002                 |                 |
 | Monthly headache days across 12 weeks             |                       |                 |
-| Baseline                                          | 21.5                  | 21.4            |
-| Mean change from baseline                         | -6.9                  | -5.2            |
+| Baseline                                          | 21.5                  |            21.4 |
+| Mean change from baseline                         | -6.9                  |            -5.2 |
 | Difference from placebo                           | -1.7                  |                 |
 | p -value                                          | 0.002                 |                 |
 | Monthly acute medication use days across 12 weeks |                       |                 |
-| Baseline                                          | 15.5                  | 15.3            |
-| Mean change from baseline                         | -6.2                  | -4.1            |
+| Baseline                                          | 15.5                  |            15.3 |
+| Mean change from baseline                         | -6.2                  |            -4.1 |
 | Difference from placebo                           | -2.1                  |                 |
 | p -value                                          | 0.002                 |                 |
 | ≥ 50% MMDresponders across 12 weeks               |                       |                 |
-| %Responders                                       | 40                    | 27              |
+| %Responders                                       | 40                    |              27 |
 | Odds ratio (95% CI)                               | 1.90 (1.29, 2.79)     |                 |
 | p -value                                          | 0.002                 |                 |
 
@@ -321,6 +315,10 @@ Figure 2: Change from baseline in monthly migraine days in PROGRESS
 h
 
 <!-- image -->
+
+Tolerability and efficacy compared to topiramate
+
+In the TEMPLE study, 540 adult patients with episodic or chronic migraine were randomised and received either atogepant 60 mg once daily (N = 273) or topiramate 50 mg to 100 mg per day (N = 267) for 24 weeks during the double-blind phase to assess tolerability, safety, and efficacy. Atogepant demonstrated superior tolerability versus topiramate based on the rate of treatment discontinuation due to adverse events (atogepant: 12.1%, topiramate: 29.6%; p&lt;0.0001; primary endpoint). 64.1% of patients in the atogepant group achieved at least a 50% reduction in MMD during Months 4 to 6 of the study compared to 39.3% in the topiramate group (p&lt;0.0001).
 
 ## Paediatric population
 
@@ -338,13 +336,13 @@ When atogepant was administered with a high-fat meal, AUC and Cmax were reduced 
 
 ## Distribution
 
+<div style=\"page-break-after: always\"></div>
+
 Plasma protein binding of atogepant was not concentration-dependent in the range of 0.1 to 10 µM; the unbound fraction of atogepant was approximately 4.7% in human plasma. The mean apparent volume of distribution of atogepant (Vz/F) after oral administration is approximately 292 L.
 
 ## Biotransformation
 
 Atogepant is eliminated mainly through metabolism, primarily by CYP3A4. The parent compound (atogepant), and a glucuronide conjugate metabolite (M23) were the most prevalent circulating components in human plasma.
-
-<div style=\"page-break-after: always\"></div>
 
 ## CYP3A4 inducers
 
@@ -374,11 +372,11 @@ The renal route of elimination plays a minor role in the clearance of atogepant.
 
 In patients with pre-existing mild (Child-Pugh Class A), moderate (Child-Pugh Class B), or severe hepatic impairment (Child-Pugh Class C), total atogepant exposure was increased by 24%, 15% and 38%, respectively. However, unbound atogepant exposure was approximately 3-fold higher in patients with severe hepatic impairment. The use of AQUIPTA in patients with severe hepatic impairment should be avoided.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Transfer into breast milk
 
 In a study of 12 healthy lactating women administered a single oral dose of atogepant 60 mg between 1 to 6 months postpartum, peak levels of atogepant in breast milk occurred between 1 to 3 hours after administration. The Cmax and AUC of atogepant in breast milk were significantly lower by approximately 93% compared to women's plasma. The mean relative infant dose was approximately 0.19% (range 0.06 to 0.33%) of the maternal weight-adjusted dose with a mean milk-to-plasma ratio of 0.08 (0.02 to 0.10). The cumulative amount of atogepant excreted in breast milk over 24 hours was minimal, at less than 0.01 mg.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Other special populations
 
@@ -404,6 +402,8 @@ Oral administration of atogepant to rats throughout gestation and lactation resu
 
 Polyvinylpyrrolidone/Vinyl acetate copolymer Vitamin E polyethylene glycol succinate Mannitol Microcrystalline cellulose Sodium chloride Croscarmellose sodium Colloidal silicon dioxide Sodium stearyl fumarate
 
+<div style=\"page-break-after: always\"></div>
+
 ## 6.2 Incompatibilities
 
 Not applicable.
@@ -413,8 +413,6 @@ Not applicable.
 3 years
 
 ## 6.4 Special precautions for storage
-
-<div style=\"page-break-after: always\"></div>
 
 This medicinal product does not require any special storage conditions.
 
@@ -440,7 +438,11 @@ AbbVie Deutschland GmbH &amp; Co. KG Knollstrasse 67061 Ludwigshafen Germany
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/23/1750/001 EU/1/23/1750/002 EU/1/23/1750/003
+EU/1/23/1750/001
+
+EU/1/23/1750/002
+
+EU/1/23/1750/003
 
 EU/1/23/1750/004
 
@@ -448,11 +450,11 @@ EU/1/23/1750/004
 
 Date of first authorisation: 11 August 2023
 
+<div style=\"page-break-after: always\"></div>
+
 ## 10. DATE OF REVISION OF THE TEXT
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
-
-13
 
 <div style=\"page-break-after: always\"></div>
 
@@ -506,11 +508,13 @@ An updated RMP should be submitted:
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-OUTER CARTON
+## OUTER CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-AQUIPTA 10 mg tablets atogepant
+AQUIPTA 10 mg tablets
+
+atogepant
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -532,7 +536,7 @@ Oral use
 
 Read the package leaflet before use.
 
-6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
 Keep out of the sight and reach of children.
 
@@ -542,7 +546,7 @@ Keep out of the sight and reach of children.
 
 EXP
 
-## 9. SPECIAL STORAGE CONDITIONS
+9. SPECIAL STORAGE CONDITIONS
 
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
@@ -550,34 +554,36 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATIONHOLDER   |
-|-------|---------------------------------------------------------|
+| 11.   | NAMEANDADDRESS OF THE MARKETINGAUTHORISATION HOLDER   |
+|-------|-------------------------------------------------------|
 
 AbbVie Deutschland GmbH &amp; Co. KG Knollstrasse 67061 Ludwigshafen Germany
 
-| 12. MARKETING AUTHORISATION NUMBER(S)   |
-|-----------------------------------------|
+| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
+|-------|-------------------------------------|
 
-EU/1/23/1750/001 EU/1/23/1750/002
+EU/1/23/1750/001
 
-| 13. BATCHNUMBER   |
-|-------------------|
+EU/1/23/1750/002
+
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
 
 Lot
 
 | 14. GENERAL CLASSIFICATION FOR SUPPLY   |
 |-----------------------------------------|
 
-| 15.   | INSTRUCTIONSON USE   |
-|-------|----------------------|
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
 
 aquipta 10 mg
 
-| 17.   | UNIQUE IDENTIFIER - 2DBARCODE   |
-|-------|---------------------------------|
+| 17. UNIQUE IDENTIFIER - 2D BARCODE   |
+|--------------------------------------|
 
 2D barcode carrying the unique identifier included.
 
@@ -626,14 +632,14 @@ EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 <div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
-| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATIONHOLDER   |
-|-------|---------------------------------------------------------|
+| 11.   | NAMEANDADDRESS OF THE MARKETINGAUTHORISATION HOLDER   |
+|-------|-------------------------------------------------------|
 
 AbbVie Deutschland GmbH &amp; Co. KG Knollstrasse 67061 Ludwigshafen Germany
 
@@ -642,62 +648,54 @@ AbbVie Deutschland GmbH &amp; Co. KG Knollstrasse 67061 Ludwigshafen Germany
 
 EU/1/23/1750/002
 
-| 13. BATCH NUMBER   |
-|--------------------|
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
 
 Lot
 
-| 14. GENERAL CLASSIFICATION FOR SUPPLY   |
-|-----------------------------------------|
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
 
-| 15.   | INSTRUCTIONSON USE   |
-|-------|----------------------|
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
 
-aquipta 10 mg
+aquipta 10 mg AQUIPTA 10 mg tablets atogepant AbbVie (as logo)
 
-| 17.   | UNIQUE IDENTIFIER - 2DBARCODE   |
-|-------|---------------------------------|
+| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
+|-------|----------------------------------|
 
 | 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
 |-------|-----------------------------------------|
 
-21
-
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON BLISTERS ORSTRIPS   |
-|------------------------------------------------------|
-| BLISTER                                              |
+| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
+|-----------------------------------------------------|
+| BLISTER                                             |
 
-| 1.   | NAME OF THE MEDICINAL PRODUCT   |
-|------|---------------------------------|
+| 1.   | NAMEOF THE MEDICINAL PRODUCT   |
+|------|--------------------------------|
 
-AQUIPTA 10 mg tablets atogepant
-
-| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
-|------|----------------------------------------------|
-
-AbbVie (as logo)
+| 2.   | NAMEOF THE MARKETING AUTHORISATION HOLDER   |
+|------|---------------------------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
 
 EXP
 
-| 4.   | BATCHNUMBER   |
-|------|---------------|
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
 | 5.   | OTHER   |
 |------|---------|
 
-22
-
-<div style=\"page-break-after: always\"></div>
+23
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
@@ -705,10 +703,11 @@ OUTER CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-AQUIPTA 60 mg tablets atogepant
+AQUIPTA 60 mg tablets
 
-| 2. STATEMENT OF ACTIVE SUBSTANCE(S)   |
-|---------------------------------------|
+atogepant
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
 Each tablet contains 60 mg of atogepant.
 
@@ -718,15 +717,13 @@ Contains sodium.
 
 See leaflet for further information.
 
-| 4.   | PHARMACEUTICAL FORM AND CONTENTS   |
-|------|------------------------------------|
+## 4. PHARMACEUTICAL FORM AND CONTENTS
 
 Tablet 28 tablets
 
 98 tablets
 
-| 5.   | METHODANDROUTE(S)OFADMINISTRATION   |
-|------|-------------------------------------|
+## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
 Oral use
 
@@ -736,56 +733,49 @@ Read the package leaflet before use.
 
 Keep out of the sight and reach of children.
 
-| 7.   | OTHERSPECIAL WARNING(S), IF NECESSARY   |
-|------|-----------------------------------------|
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-| 8.   | EXPIRY DATE   |
-|------|---------------|
+8. EXPIRY DATE
 
 EXP
 
-| 9.   | SPECIAL STORAGE CONDITIONS   |
-|------|------------------------------|
+## 9. SPECIAL STORAGE CONDITIONS
 
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 <div style=\"page-break-after: always\"></div>
 
-| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATIONHOLDER   |
-|-------|---------------------------------------------------------|
+<div style=\"page-break-after: always\"></div>
+
+| 11.   | NAMEANDADDRESS OF THE MARKETINGAUTHORISATION HOLDER   |
+|-------|-------------------------------------------------------|
 
 AbbVie Deutschland GmbH &amp; Co. KG Knollstrasse 67061 Ludwigshafen Germany
 
-| 12. MARKETING AUTHORISATION NUMBER(S)   |
-|-----------------------------------------|
+12. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/23/1750/003 EU/1/23/1750/004
 
-| 13. BATCHNUMBER   |
-|-------------------|
+13. BATCH NUMBER
 
 Lot
 
-| 14. GENERAL CLASSIFICATION FOR SUPPLY   |
-|-----------------------------------------|
-
-| 15. INSTRUCTIONSON USE   |
-|--------------------------|
-
-| 16.   | INFORMATION IN BRAILLE   |
-|-------|--------------------------|
+14. GENERAL CLASSIFICATION FOR SUPPLY
+15. INSTRUCTIONS ON USE
+16. INFORMATION IN BRAILLE
 
 aquipta 60 mg
 
-| 17.   | UNIQUE IDENTIFIER - 2DBARCODE   |
-|-------|---------------------------------|
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
 | 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
 |-------|-----------------------------------------|
 
-PC SN NN
+PC SN
+
+NN
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
@@ -825,20 +815,20 @@ Keep out of the sight and reach of children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-8. EXPIRY DATE
+## 8. EXPIRY DATE
 
 EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 <div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
-| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATIONHOLDER   |
-|-------|---------------------------------------------------------|
+| 11.   | NAMEANDADDRESS OF THE MARKETINGAUTHORISATION HOLDER   |
+|-------|-------------------------------------------------------|
 
 AbbVie Deutschland GmbH &amp; Co. KG Knollstrasse 67061 Ludwigshafen Germany
 
@@ -847,58 +837,54 @@ AbbVie Deutschland GmbH &amp; Co. KG Knollstrasse 67061 Ludwigshafen Germany
 
 EU/1/23/1750/004
 
-| 13. BATCHNUMBER   |
-|-------------------|
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
 
 Lot
 
 | 14. GENERAL CLASSIFICATION FOR SUPPLY   |
 |-----------------------------------------|
 
-| 15.   | INSTRUCTIONSON USE   |
-|-------|----------------------|
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
 
-aquipta 60 mg
+aquipta 60 mg AQUIPTA 60 mg tablets atogepant AbbVie (as logo)
 
-| 17.   | UNIQUE IDENTIFIER - 2DBARCODE   |
-|-------|---------------------------------|
+| 17. UNIQUE IDENTIFIER - 2D BARCODE   |
+|--------------------------------------|
 
 | 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
 |-------|-----------------------------------------|
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON BLISTERS ORSTRIPS   |
+| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
 |------------------------------------------------------|
 | BLISTER                                              |
 
-| 1.   | NAME OF THE MEDICINAL PRODUCT   |
-|------|---------------------------------|
+| 1.   | NAMEOF THE MEDICINAL PRODUCT   |
+|------|--------------------------------|
 
-AQUIPTA 60 mg tablets atogepant
-
-| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
-|------|----------------------------------------------|
-
-AbbVie (as logo)
+| 2.   | NAMEOF THE MARKETING AUTHORISATION HOLDER   |
+|------|---------------------------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
 
 EXP
 
-| 4.   | BATCHNUMBER   |
-|------|---------------|
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
 | 5.   | OTHER   |
 |------|---------|
 
-27
+28
 
 <div style=\"page-break-after: always\"></div>
 
@@ -914,7 +900,7 @@ Lot
 
 atogepant
 
-V This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
+This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
@@ -1126,13 +1112,7 @@ Tel: +370 5 205 3023
 
 Тел.:+359 2 90 30 430
 
-## Luxembourg/Luxemburg
-
-AbbVie SA
-
-Belgique/Belgien
-
-Tél/Tel: +32 10 477811
+Luxembourg/Luxemburg AbbVie SA Belgique/Belgien Tél/Tel: +32 10 477811
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1142,7 +1122,9 @@ AbbVie s.r.o. Tel: +420 233 098 111
 
 ## Danmark
 
-AbbVie A/S Tlf: +45 72 30-20-28
+AbbVie A/S
+
+Tlf: +45 72 30-20-28
 
 ## Deutschland
 
@@ -1162,9 +1144,7 @@ AbbVie Spain, S.L.U. Tel:  +34 91 384 09 10
 
 ## France
 
-AbbVie
-
-Tél: +33 (0) 1 45 60 13 00
+AbbVie Tél: +33 (0) 1 45 60 13 00
 
 ## Hrvatska
 
@@ -1176,21 +1156,15 @@ AbbVie Limited Tel: +353 (0)1 4287900
 
 ## Ísland
 
-Vistor
-
-Sími: +354 535 7000
+Vistor Sími: +354 535 7000
 
 ## Italia
 
-AbbVie S.r.l.
-
-Tel: +39 06 928921
+AbbVie S.r.l. Tel: +39 06 928921
 
 ## Κύπρος
 
-Lifepharma (Z.A.M.) Ltd
-
-Τηλ.: +357 22 34 74 40
+Lifepharma (Z.A.M.) Ltd Τηλ.: +357 22 34 74 40
 
 ## Latvija
 
@@ -1224,9 +1198,7 @@ AbbVie GmbH Tel: +43 1 20589-0
 
 ## Polska
 
-AbbVie Sp. z o.o.
-
-Tel.: +48 22 372 78 00
+AbbVie Sp. z o.o. Tel.: +48 22 372 78 00
 
 ## Portugal
 
@@ -1234,7 +1206,9 @@ AbbVie, Lda. Tel: +351 (0)21 1908400
 
 ## România
 
-AbbVie S.R.L. Tel: +40 21 529 30 35
+AbbVie S.R.L.
+
+Tel: +40 21 529 30 35
 
 ## Slovenija
 
@@ -1248,9 +1222,7 @@ Tel: +421 2 5050 0777
 
 ## Suomi/Finland
 
-AbbVie Oy
-
-Puh/Tel:  +358 (0)10 2411 200
+AbbVie Oy Puh/Tel:  +358 (0)10 2411 200
 
 ## Sverige
 

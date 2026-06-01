@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-04-07 10:51:50
+document_datetime: 2026-05-28 17:19:12
 document_pages: 70
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/adtralza-epar-product-information_en.pdf
 document_name: adtralza-epar-product-information_en.pdf
 version: success
-processing_time: 18.9732061
-conversion_datetime: 2026-04-09 12:39:02.095905
+processing_time: 31.8382558
+conversion_datetime: 2026-06-01 17:18:06.546451
 docling_version:
-  docling-serve: 1.15.1
-  docling-jobkit: 1.14.0
-  docling: 2.82.0
-  docling-core: 2.70.2
-  docling-ibm-models: 3.13.0
-  docling-parse: 5.6.1
+  docling-serve: 1.20.0
+  docling-jobkit: 1.20.1
+  docling: 2.96.1
+  docling-core: 2.78.0
+  docling-ibm-models: 3.13.2
+  docling-parse: 6.2.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -66,10 +66,7 @@ Treatment should be initiated by healthcare professionals experienced in the dia
 
 The recommended dose of tralokinumab for adult and adolescent patients 12 years and older is an initial dose of 600 mg administered either as:
 
-- -four 150 mg injections given by pre-filled syringes
-
-or
-
+- -four 150 mg injections given by pre-filled syringes or
 - -two 300 mg injections given by pre-filled pens
 
 <div style=\"page-break-after: always\"></div>
@@ -116,7 +113,7 @@ The safety and efficacy of tralokinumab in children below the age of 12 years ha
 
 ## Method of administration
 
-## For subcutaneous use.
+For subcutaneous use.
 
 The pre-filled syringe or pre-filled pen should not be shaken. After removing the pre-filled syringes or pre-filled pen from the refrigerator, they should be allowed to reach room temperature by waiting for:
 
@@ -191,7 +188,9 @@ The effects of tralokinumab on the pharmacokinetics (PK) of CYP substrates, caff
 
 ## Pregnancy
 
-There is limited amount of data from the use of tralokinumab in pregnant women. Animal studies do not indicate direct or indirect harmful effects with respect to reproductive toxicity (see section 5.3).
+There is limited amount of data from the use of tralokinumab in pregnant women.
+
+Animal studies do not indicate direct or indirect harmful effects with respect to reproductive toxicity (see section 5.3).
 
 As a precautionary measure, it is preferable to avoid the use of tralokinumab during pregnancy.
 
@@ -240,9 +239,11 @@ Conjunctivitis occurred more frequently in atopic dermatitis patients who receiv
 
 The rate of conjunctivitis in the initial 16 weeks treatment period was 22.0 events/100 patient years of exposure. The rate of conjunctivitis in the treatment period of the long-term open-label extension study (ECZTEND) was 2.93 events/100 patient years of exposure.
 
-Keratitis was reported in 0.5% of subjects treated with tralokinumab during the initial treatment period. Of these, half were classified as keratoconjunctivitis, all were non-serious and mild or moderate in severity, and none led to treatment discontinuation.
+Keratitis was reported in 0.5% of subjects treated with tralokinumab during the initial treatment period. Of these, half were classified as keratoconjunctivitis, all were non-serious and mild or
 
-The rate of keratitis in the initial 16 weeks treatment period was 1.7 events/100 patient years of exposure. The rate of keratitis in the treatment period of the long-term open-label extension study (ECZTEND) was 0.11 events/100 patient years of exposure.
+moderate in severity, and none led to treatment discontinuation. exposure. The rate of keratitis in the treatment period of the long-term open-label extension study
+
+The rate of keratitis in the initial 16 weeks treatment period was 1.7 events/100 patient years of (ECZTEND) was 0.11 events/100 patient years of exposure.
 
 ## Eosinophilia
 
@@ -324,11 +325,9 @@ In ECZTRA 3, 380 patients were enrolled (127 to placebo + TCS, 253 to tralokinum
 
 ## Endpoints
 
-In all three pivotal studies, the primary endpoints were achievement of IGA 0 or 1 ('clear' or 'almost clear') and a reduction of at least 75% in EASI (EASI-75) from baseline to week 16. Secondary endpoints included the reduction of itch as defined by at least a 4-point improvement in the Worst Daily Pruritus Numeric Rating Scale (NRS) from baseline to week 16, reduction in the SCORing Atopic Dermatitis (SCORAD) scale from baseline to week 16, and change from baseline to week 16 in the Dermatology Life Quality Index (DLQI). Additional secondary endpoints included reduction of at least 50% and 90% in EASI (EASI-50 and EASI-90, respectively) and reduction in Worst Daily Pruritus NRS (weekly average) from baseline to week 16. Other endpoints included change from
+In all three pivotal studies, the primary endpoints were achievement of IGA 0 or 1 ('clear' or 'almost clear') and a reduction of at least 75% in EASI (EASI-75) from baseline to week 16. Secondary endpoints included the reduction of itch as defined by at least a 4-point improvement in the Worst Daily Pruritus Numeric Rating Scale (NRS) from baseline to week 16, reduction in the SCORing Atopic Dermatitis (SCORAD) scale from baseline to week 16, and change from baseline to week 16 in the Dermatology Life Quality Index (DLQI). Additional secondary endpoints included reduction of at least 50% and 90% in EASI (EASI-50 and EASI-90, respectively) and reduction in Worst Daily Pruritus NRS (weekly average) from baseline to week 16. Other endpoints included change from baseline to week 16 in the Patient Oriented Eczema Measure (POEM), at least 4-point improvement in POEM, and Eczema-related Sleep NRS.
 
 <div style=\"page-break-after: always\"></div>
-
-baseline to week 16 in the Patient Oriented Eczema Measure (POEM), at least 4-point improvement in POEM, and Eczema-related Sleep NRS.
 
 ## Baseline characteristics
 
@@ -346,18 +345,18 @@ In ECZTRA 1 and ECZTRA 2, from baseline to week 16, a significantly greater prop
 
 Table 2: Efficacy results of tralokinumab monotherapy at week 16 in ECZTRA 1 and ECZTRA 2 (FAS)
 
-| Monotherapy                                             | Monotherapy    | Monotherapy             | Monotherapy    | Monotherapy             |
-|---------------------------------------------------------|----------------|-------------------------|----------------|-------------------------|
-|                                                         | ECZTRA 1       | ECZTRA 1                | ECZTRA 2       | ECZTRA 2                |
-|                                                         | Week 16        | Week 16                 | Week 16        | Week 16                 |
-|                                                         | Placebo        | Tralokinumab 300 mg Q2W | Placebo        | Tralokinumab 300 mg Q2W |
-| Number of patients randomised and dosed (FAS)           | 197            | 601                     | 201            | 591                     |
-| IGA 0 or 1, %responders a,b)                            | 7.1            | 15.8 #                  | 10.9           | 22.2 §                  |
-| EASI-50, %responders a)                                 | 21.3           | 41.6 §,e)               | 20.4           | 49.9 §,e)               |
-| EASI-75, %responders a)                                 | 12.7           | 25.0 §                  | 11.4           | 33.2 §                  |
-| SCORAD, LS mean change from baseline (± SE) c)          | -17.2 (± 1.98) | -24.9 § (± 1.23)        | -13.8 (± 2.00) | -26.9 § (± 1.06)        |
-| Pruritus NRS ( ≥ 4-point improvement, %responders) a,d) | 10.3 (20/194)  | 20.0 # (119/594)        | 9.5 (19/200)   | 25.0 § (144/575)        |
-| DLQI, LS mean change from baseline (± SE) c)            | -5.7 (± 0.63)  | -7.5 # (± 0.41)         | -5.2 (± 0.68)  | -8.6 § (± 0.36)         |
+| Monotherapy                                             | Monotherapy    | Monotherapy           | Monotherapy    | Monotherapy           |
+|---------------------------------------------------------|----------------|-----------------------|----------------|-----------------------|
+|                                                         | ECZTRA 1       | ECZTRA 1              | ECZTRA 2       | ECZTRA 2              |
+|                                                         | Week 16        | Week 16               | Week 16        | Week 16               |
+|                                                         | Placebo        | Tralokinumab 300mgQ2W | Placebo        | Tralokinumab 300mgQ2W |
+| Number of patients randomised and dosed (FAS)           | 197            | 601                   | 201            | 591                   |
+| IGA 0 or 1, %responders a,b)                            | 7.1            | 15.8 #                | 10.9           | 22.2 §                |
+| EASI-50, %responders a)                                 | 21.3           | 41.6 §,e)             | 20.4           | 49.9 §,e)             |
+| EASI-75, %responders a)                                 | 12.7           | 25.0 §                | 11.4           | 33.2 §                |
+| SCORAD, LS mean change from baseline (± SE) c)          | -17.2 (± 1.98) | -24.9 § (± 1.23)      | -13.8 (± 2.00) | -26.9 § (± 1.06)      |
+| Pruritus NRS ( ≥ 4-point improvement, %responders) a,d) | 10.3 (20/194)  | 20.0 # (119/594)      | 9.5 (19/200)   | 25.0 § (144/575)      |
+| DLQI, LS mean change from baseline (± SE) c)            | -5.7 (± 0.63)  | -7.5 # (± 0.41)       | -5.2 (± 0.68)  | -8.6 § (± 0.36)       |
 
 LS=least squares; SE=standard error, FAS: Full Analysis Set - includes all patients randomised and dosed If needed to control intolerable symptoms of atopic dermatitis, patients were permitted to receive rescue treatment at the discretion of the investigator.
 
@@ -366,7 +365,8 @@ LS=least squares; SE=standard error, FAS: Full Analysis Set - includes all patie
 - c) Data after initiation of rescue medication or permanent discontinuation of treatment were considered missing. Placebo based multiple imputation of missing data.
 - d) The percentage is calculated relative to the number of subjects with a baseline value ≥ 4.
 - e) Not adjusted for multiplicity.
-6. *p&lt;0.05,  # p&lt;0.01, § p&lt;0.001
+
+*p&lt;0.05,  # p&lt;0.01, § p&lt;0.001
 
 In both monotherapy studies (ECZTRA 1 and ECZTRA 2), tralokinumab reduced itch, as measured by the percent change from baseline in Worst Daily Pruritus NRS, already at Week 1 compared to placebo. The reduction in itch was observed in parallel with improvements in objective signs and symptoms of atopic dermatitis and quality of life.
 
@@ -382,8 +382,8 @@ Table 3: Efficacy results (IGA 0 or 1 or EASI-75) at week 52 of subjects respond
 
 |                           | ECZTRA 1                        | ECZTRA 1                        | ECZTRA 1                        | ECZTRA 2                        | ECZTRA 2                        | ECZTRA 2                        |
 |---------------------------|---------------------------------|---------------------------------|---------------------------------|---------------------------------|---------------------------------|---------------------------------|
-|                           | Treatment regimen Week 16-52 e) | Treatment regimen Week 16-52 e) | Treatment regimen Week 16-52 e) | Treatment regimen Week 16-52 e) | Treatment regimen Week 16-52 e) | Treatment regimen Week 16-52 e) |
-| Assessment at Week 52     | Tralokinumab 300 mg Q2W         | Tralokinumab 300 mg Q4W         | Placebo                         | Tralokinumab 300 mg Q2W         | Tralokinumab 300 mg Q4W         | Placebo                         |
+| Assessment                | Treatment regimen Week 16-52 e) | Treatment regimen Week 16-52 e) | Treatment regimen Week 16-52 e) | Treatment regimen Week 16-52 e) | Treatment regimen Week 16-52 e) | Treatment regimen Week 16-52 e) |
+| at Week 52                | Tralokinumab 300 mg Q2W         | Tralokinumab 300 mg Q4W         | Placebo                         | Tralokinumab 300 mg Q2W         | Tralokinumab 300 mg Q4W         | Placebo                         |
 | IGA 0/1 a) %responders f) | 51.3 d) (20/39)                 | 38.9 d) (14/36)                 | 47.4 (9/19)                     | 59.3 c) (32/54)                 | 44.9 d) (22/49)                 | 25.0 (7/28)                     |
 | EASI-75 a) %responders g) | 59.6 d)                         | 49.1 d)                         | 33.3                            | 55.8 b)                         | 51.4 c)                         | 21.4                            |
 |                           | (28/47)                         | (28/57)                         | (10/30)                         | (43/77)                         | (38/74)                         | (9/42)                          |
@@ -408,18 +408,18 @@ In ECZTRA 3 from baseline to week 16, a significantly greater proportion of pati
 
 Table 4: Efficacy results of tralokinumab combination therapy with TCS at week 16 in ECZTRA 3 (FAS)
 
-| Combination therapy                                     | Combination therapy   | Combination therapy     |
-|---------------------------------------------------------|-----------------------|-------------------------|
-|                                                         | ECZTRA 3              | ECZTRA 3                |
-|                                                         | Week 16               | Tralokinumab 300 mg Q2W |
-|                                                         | + TCS                 | + TCS                   |
-| Number of patients randomised and dosed (FAS)           | 126                   | 252                     |
-| IGA 0 or 1, %responders a,b)                            | 26.2                  | 38.9 *                  |
-| EASI-50, %responders a)                                 | 57.9                  | 79.4 §, e)              |
-| EASI-75, %responders a)                                 | 35.7                  | 56.0 §                  |
-| SCORAD, LS mean change from baseline (± SE) c)          | -26.7 (± 1.83)        | -37.5 § (± 1.27)        |
-| Pruritus NRS ( ≥ 4-point improvement, %responders) a,d) | 34.1 (43/126)         | 45.4 * (113/249)        |
-| DLQI, LS mean change from baseline (± SE) c)            | -8.8 (± 0.57)         | -11.6 § (± 0.40)        |
+| Combination therapy                                     | Combination therapy   | Combination therapy         |
+|---------------------------------------------------------|-----------------------|-----------------------------|
+|                                                         | ECZTRA 3              | ECZTRA 3                    |
+|                                                         | Week 16               | Tralokinumab 300 mg Q2W+TCS |
+|                                                         | + TCS                 |                             |
+| Number of patients randomised and dosed (FAS)           | 126                   | 252                         |
+| IGA 0 or 1, %responders a,b)                            | 26.2                  | 38.9 *                      |
+| EASI-50, %responders a)                                 | 57.9                  | 79.4 §, e)                  |
+| EASI-75, %responders a)                                 | 35.7                  | 56.0 §                      |
+| SCORAD, LS mean change from baseline (± SE) c)          | -26.7 (± 1.83)        | -37.5 § (± 1.27)            |
+| Pruritus NRS ( ≥ 4-point improvement, %responders) a,d) | 34.1 (43/126)         | 45.4 * (113/249)            |
+| DLQI, LS mean change from baseline (± SE) c)            | -8.8 (± 0.57)         | -11.6 § (± 0.40)            |
 
 LS=least squares; SE=standard error, FAS: Full Analysis Set - includes all patients randomised and dosed If needed to control intolerable symptoms of atopic dermatitis, patients were permitted to receive rescue treatment at the discretion of the investigator. The supplied TCS did not constitute rescue medication.
 
@@ -428,7 +428,8 @@ LS=least squares; SE=standard error, FAS: Full Analysis Set - includes all patie
 - c)  Data after initiation of rescue medication or permanent discontinuation of treatment were considered missing. Placebo based multiple imputation of missing data.
 - d)  The percentage is calculated relative to the number of subjects with a baseline value ≥ 4.
 - e) Not adjusted for multiplicity.
-6. *p&lt;0.05,  # p&lt;0.01, § p&lt;0.001.
+
+*p&lt;0.05,  # p&lt;0.01, § p&lt;0.001.
 
 In ECZTRA 3, subjects who received tralokinumab 300 mg Q2W from Week 0 to 16 used 50% less of the supplied topical corticosteroids at Week 16 as compared to subjects who received placebo.
 
@@ -442,12 +443,12 @@ To evaluate maintenance of response, subjects treated with tralokinumab 300 mg +
 
 Table 5: Efficacy results at week 32 of subjects achieving clinical response to tralokinumab 300 mg + TCS Q2W at week 16
 
-|                       | Tralokinumab 300 mg Q2W + TCS   | Tralokinumab 300 mg Q4W + TCS   |
-|-----------------------|---------------------------------|---------------------------------|
-| IGA 0/1 at week 32 a) | 89.6                            | 77.6                            |
-| %responders b)        | (43/48)                         | (38/49)                         |
-| EASI-75 at week 32 a) | 92.5                            | 90.8                            |
-| %responders c)        | (62/67)                         | (59/65)                         |
+|                       | Tralokinumab 300 mg Q2W+TCS   | Tralokinumab 300 mg Q4W+TCS   |
+|-----------------------|-------------------------------|-------------------------------|
+| IGA 0/1 at week 32 a) | 89.6                          | 77.6                          |
+| %responders b)        | (43/48)                       | (38/49)                       |
+| EASI-75 at week 32 a) | 92.5                          | 90.8                          |
+| %responders c)        | (62/67)                       | (59/65)                       |
 
 If needed to control intolerable symptoms of atopic dermatitis, patients were permitted to receive rescue treatment at the discretion of the investigator.
 
@@ -466,7 +467,7 @@ Table 6: Efficacy results of tralokinumab with concomitant TCS at weeks 16 and 3
 |                                                         | Treatment regimen Week 16-32 d)   | Treatment regimen Week 16-32 d)   | Treatment regimen Week 16-32 d)   | Treatment regimen Week 16-32 d)   | Treatment regimen Week 16-32 d)   | Treatment regimen Week 16-32 d)   |
 |---------------------------------------------------------|-----------------------------------|-----------------------------------|-----------------------------------|-----------------------------------|-----------------------------------|-----------------------------------|
 |                                                         | Responders at Week 16 e)          | Responders at Week 16 e)          | Responders at Week 16 e)          | Responders at Week 16 e)          | Non-responders at Week 16         | Non-responders at Week 16         |
-| Patients randomised                                     | Q2W + TCS                         | Q2W + TCS                         | Q4W + TCS                         | Q4W + TCS                         | Q2W + TCS                         | Q2W + TCS                         |
+| Patients randomised                                     | Q2W+TCS                           | Q2W+TCS                           | Q4W+TCS                           | Q4W+TCS                           | Q2W+TCS                           | Q2W+TCS                           |
 |                                                         | N=69                              | N=69                              | N=69                              | N=69                              | N=95                              | N=95                              |
 | Week number                                             | W16                               | W32                               | W16                               | W32                               | W16                               | W32                               |
 | EASI-50, %responders a)                                 | 100.0                             | 98.6                              | 97.1                              | 91.3                              | 63.2                              | 76.8                              |
@@ -480,7 +481,7 @@ If needed to control intolerable symptoms of atopic dermatitis, patients were pe
 
 - a)  Patients who received rescue treatment or had missing data were considered non-responders in the analyses.
 - b)  Data after initiation of rescue medication or permanent discontinuation of treatment was excluded from the analyses.
-- c) The percentage is calculated relative to the number of subjects with a baseline value ≥ 4.
+- c)  The percentage is calculated relative to the number of subjects with a baseline value ≥ 4.
 - d)  All patients were initially treated with tralokinumab 300 mg Q2W + TCS from week 0 to week 16. They were subsequently treated with tralokinumab 300 mg Q2W + TCS or Q4W + TCS.
 - e)  Responders at week 16 are identified as patients achieving either IGA 0/1 and/or EASI-75.
 
@@ -525,7 +526,7 @@ Table 7: Efficacy results of tralokinumab monotherapy in the adolescent patients
 
 e) Not adjusted for multiplicity.
 
-*p&lt;0.05,  # p&lt;0.01, § p&lt;0.001
+- *p&lt;0.05,  # p&lt;0.01, § p&lt;0.001
 
 A greater proportion of patients achieved EASI-90 at week 16 in the tralokinumab 150 mg group (19.4%) and tralokinumab 300 mg group (17.5%) compared with the placebo group (4.3%).
 
@@ -601,10 +602,10 @@ Tralokinumab exposure (AUC) was lower in subjects with higher body weight (see s
 
 Table 8: Area under the curve (AUC) by weight
 
-| Weight (kg)      | 75    | 100   | 120   |    140 |
-|------------------|-------|-------|-------|--------|
-| AUC (mcg*day/mL) | 1 532 | 1 192 | 1 017 | 889    |
-| Ratio AUC 75 kg  | 1     | 0.78  | 0.66  |   0.57 |
+| Weight (kg)      | 75    | 100   | 120   |   140 |
+|------------------|-------|-------|-------|-------|
+| AUC (mcg*day/mL) | 1 532 | 1 192 | 1 017 |   889 |
+| Ratio AUC 75 kg  | 1     | 0.78  | 0.66  |  0.57 |
 
 Calculated AUC at steady-state for the dosing interval for 300 mg Q2W for a subject of a certain weight based on the relation between Clearance and weight. Clearance = 0.149 × (W/75) ˄ 0.873. AUC = F × Dose Clearance, where F = 0.761.
 
@@ -638,23 +639,13 @@ In the absence of compatibility studies, this medicinal product must not be mixe
 
 ## 6.3 Shelf life
 
-Adtralza 150 mg solution for injection in pre-filled syringe
-
 5 years.
-
-Adtralza 300 mg solution for injection in pre-filled pen
-
-3 years.
 
 If necessary, pre-filled syringes or pre-filled pens may be kept at room temperature in the original carton up to 30 °C for a maximum of 14 days, within its shelf-life, without being refrigerated again during this period. Do not store above 30 °C. If the carton needs to be removed permanently from refrigerator, the date of removal may be recorded on the carton. After removal from the refrigerator, Adtralza must be used within 14 days or discarded.
 
 ## 6.4 Special precautions for storage
 
-Store in a refrigerator (2 °C-8 °C).
-
-Do not freeze.
-
-Store in the original package in order to protect from light.
+Store in a refrigerator (2 °C-8 °C). Do not freeze. Store in the original package in order to protect from light.
 
 ## 6.5 Nature and contents of container
 
@@ -672,14 +663,14 @@ Pack size:
 
 2 ml solution in a siliconised type-1 clear glass syringe in a pre-filled pen, with a 27 gauge ½ inch, thin wall stainless steel staked needle.
 
-<div style=\"page-break-after: always\"></div>
-
 Pack size:
 
 - -2 pre-filled pens
 - -Multipack containing 6 (3 packs of 2) pre-filled pens
 
 Not all pack sizes may be marketed.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 6.6 Special precautions for disposal and other handling
 
@@ -698,13 +689,7 @@ LEO Pharma A/S Industriparken 55 DK-2750 Ballerup Denmark
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/21/1554/001
-
-EU/1/21/1554/002
-
-EU/1/21/1554/003
-
-EU/1/21/1554/004
+EU/1/21/1554/001 EU/1/21/1554/002 EU/1/21/1554/003 EU/1/21/1554/004
 
 EU/1/21/1554/005
 
@@ -712,7 +697,7 @@ EU/1/21/1554/005
 
 Date of first authorisation: 17 June 2021
 
-Date of latest renewal:
+Date of latest renewal: 26 March 2026
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -810,7 +795,7 @@ Open here
 
 <div style=\"page-break-after: always\"></div>
 
-Read the entire Instructions for Use prior to injecting Adtralza
+## Read the entire Instructions for Use prior to injecting Adtralza
 
 Please wait 30 minutes
 
@@ -850,8 +835,6 @@ LEO Pharma A/S Industriparken 55 DK-2750 Ballerup Denmark
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/21/1554/001
-
 2 pre-filled syringes
 
 <div style=\"page-break-after: always\"></div>
@@ -864,8 +847,8 @@ Lot
 | 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
 |-------|-------------------------------------|
 
-| 15.   | INSTRUCTIONS ON USE   |
-|-------|-----------------------|
+| 15.   | INSTRUCTIONS ONUSE   |
+|-------|----------------------|
 
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
@@ -922,9 +905,7 @@ For single use only
 
 Do not shake.
 
-Open here
-
-Only on the multipack containing 4 (2 packs of 2) pre-filled syringes.
+Open here Only on the multipack containing 4 (2 packs of 2) pre-filled syringes.
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -946,7 +927,7 @@ Do not freeze.
 
 Store in the original package in order to protect from light.
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -1070,23 +1051,17 @@ LEO Pharma A/S Industriparken 55 DK-2750 Ballerup Denmark
 | 12.   | MARKETING AUTHORISATION NUMBER(S)   |
 |-------|-------------------------------------|
 
-EU/1/21/1554/002 Multipack containing 4 (2 × 2) pre-filled syringes EU/1/21/1554/003 Multipack containing 12 (6 × 2) pre-filled syringes
-
 | 13.   | BATCH NUMBER   |
 |-------|----------------|
-
-Lot
 
 | 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
 |-------|-------------------------------------|
 
-| 15.   | INSTRUCTIONS ON USE   |
-|-------|-----------------------|
+| 15.   | INSTRUCTIONS ONUSE   |
+|-------|----------------------|
 
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
-
-Adtralza 150 mg
 
 | 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
 |-------|----------------------------------|
@@ -1094,18 +1069,38 @@ Adtralza 150 mg
 | 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
 |-------|------------------------------------------|
 
+## 12. MARKETING AUTHORISATION NUMBER(S)
+
+EU/1/21/1554/002 Multipack containing 4 (2 × 2) pre-filled syringes EU/1/21/1554/003 Multipack containing 12 (6 × 2) pre-filled syringes
+
+## 13. BATCH NUMBER
+
+Lot
+
+14. GENERAL CLASSIFICATION FOR SUPPLY
+
+15. INSTRUCTIONS ON USE
+
+16. INFORMATION IN BRAILLE
+
+Adtralza 150 mg
+
+17. UNIQUE IDENTIFIER - 2D BARCODE
+
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS LABEL   |
-|--------------------------------------------------------------------------|
+| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS LABEL   |
+|------------------------------------------------------------------------|
 
-| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|----------------------------------------------------------------|
+| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|-------------------------------------------------------------|
 
 Adtralza 150 mg injection tralokinumab SC
 
-| 2.   | METHOD OF ADMINISTRATION   |
-|------|----------------------------|
+| 2.   | METHODOFADMINISTRATION   |
+|------|--------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -1117,13 +1112,15 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
-|------|--------------------------------------------|
+| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
+|------|---------------------------------------|
 
 | 6.   | OTHER   |
 |------|---------|
 
 <div style=\"page-break-after: always\"></div>
+
+<!-- image -->
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING OUTER CARTON
 
@@ -1143,8 +1140,6 @@ Excipients: sodium acetate trihydrate (E 262), acetic acid (E 260), sodium chlor
 
 Solution for injection
 
-<!-- image -->
-
 2 pre-filled pens
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
@@ -1152,6 +1147,8 @@ Solution for injection
 Read the package leaflet before use.
 
 Subcutaneous use For single use only Do not shake. Open here
+
+2 ×
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1185,30 +1182,24 @@ Store in the original package in order to protect from light.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-LEO Pharma A/S Industriparken 55 DK-2750 Ballerup Denmark
+LEO Pharma A/S Industriparken 55 DK-2750 Ballerup Denmark EU/1/21/1554/004 2 pre-filled pens Lot Adtralza 300 mg
 
 <div style=\"page-break-after: always\"></div>
 
 | 12.   | MARKETING AUTHORISATION NUMBER(S)   |
 |-------|-------------------------------------|
 
-EU/1/21/1554/004 2 pre-filled pens
-
 | 13.   | BATCH NUMBER   |
 |-------|----------------|
-
-Lot
 
 | 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
 |-------|-------------------------------------|
 
-| 15.   | INSTRUCTIONS ON USE   |
-|-------|-----------------------|
+| 15.   | INSTRUCTIONS ONUSE   |
+|-------|----------------------|
 
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
-
-Adtralza 300 mg
 
 | 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
 |-------|----------------------------------|
@@ -1298,7 +1289,7 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-## 15. INSTRUCTIONS ON USE
+15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -1314,9 +1305,9 @@ PC
 
 SN
 
-<div style=\"page-break-after: always\"></div>
-
 NN
+
+<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1352,7 +1343,7 @@ Subcutaneous use For single use only Do not shake. Open here
 
 <div style=\"page-break-after: always\"></div>
 
-Read the entire Instructions for Use prior to injecting Adtralza
+## Read the entire Instructions for Use prior to injecting Adtralza
 
 <!-- image -->
 
@@ -1382,32 +1373,24 @@ Store in the original package in order to protect from light.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-LEO Pharma A/S Industriparken 55 DK-2750 Ballerup Denmark
+LEO Pharma A/S Industriparken 55 DK-2750 Ballerup Denmark EU/1/21/1554/005 Multipack containing 6 (3 × 2) pre-filled pens Lot Adtralza 300 mg Adtralza 300 mg injection tralokinumab SC
 
 <div style=\"page-break-after: always\"></div>
 
 | 12.   | MARKETING AUTHORISATION NUMBER(S)   |
 |-------|-------------------------------------|
 
-EU/1/21/1554/005
-
-Multipack containing 6 (3 × 2) pre-filled pens
-
 | 13.   | BATCH NUMBER   |
 |-------|----------------|
-
-Lot
 
 | 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
 |-------|-------------------------------------|
 
-| 15.   | INSTRUCTIONS ON USE   |
-|-------|-----------------------|
+| 15.   | INSTRUCTIONS ONUSE   |
+|-------|----------------------|
 
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
-
-Adtralza 300 mg
 
 | 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
 |-------|----------------------------------|
@@ -1417,16 +1400,14 @@ Adtralza 300 mg
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS LABEL   |
-|--------------------------------------------------------------------------|
+| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS LABEL   |
+|------------------------------------------------------------------------|
 
-| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|----------------------------------------------------------------|
+| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|-------------------------------------------------------------|
 
-Adtralza 300 mg injection tralokinumab SC
-
-| 2.   | METHOD OF ADMINISTRATION   |
-|------|----------------------------|
+| 2.   | METHODOFADMINISTRATION   |
+|------|--------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -1438,8 +1419,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
-|------|--------------------------------------------|
+| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
+|------|---------------------------------------|
 
 2 ml
 
@@ -1454,7 +1435,9 @@ Lot
 
 ## Package leaflet: Information for the patient
 
-## Adtralza 150 mg solution for injection in pre-filled syringe tralokinumab
+## Adtralza 150 mg solution for injection in pre-filled syringe
+
+## tralokinumab
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
@@ -1779,9 +1762,9 @@ LEO Pharma s.r.o. Tel: +420 734 575 982
 
 LEO Pharma Oy Puh/Tel: +358 20 721 8440
 
-## Sverige
+Sverige LEO Pharma AB
 
-LEO Pharma AB Tel: +46 40 3522 00
+Tel: +46 40 3522 00
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1801,7 +1784,9 @@ Read these instructions before you start using Adtralza pre-filled syringes and 
 
 Keep this Instructions for Use so you can read it again if necessary.
 
-Each pre-filled syringe contains 150 mg of tralokinumab. The Adtralza pre-filled syringes are for single-use only.
+Each pre-filled syringe contains 150 mg of tralokinumab.
+
+The Adtralza pre-filled syringes are for single-use only.
 
 ## IMPORTANT INFORMATION
 
@@ -1890,7 +1875,7 @@ If you cannot use the syringes, dispose of them in a puncture-resistant containe
 
 <div style=\"page-break-after: always\"></div>
 
-Step 2: Choosing and preparing injection area
+## Step 2: Choosing and preparing injection area
 
 <!-- image -->
 
@@ -1953,9 +1938,7 @@ Lift your thumb off the plunger head. The needle will automatically move back in
 - Place a dry cotton ball or gauze pad over the injection area for a few seconds. Do not rub the injection area. If needed, cover the injection area with a small bandage.
 - There may be a small amount of blood or liquid where you injected. This is normal.
 
-Throw away the used Adtralza pre-filled syringe in a puncture-resistant container. See Step 5
-
-- 'Disposing of Adtralza'.
+Throw away the used Adtralza pre-filled syringe in a puncture-resistant container. See Step 5 'Disposing of Adtralza'.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2189,7 +2172,9 @@ For any information about this medicine, please contact the local representative
 
 ## België/Belgique/Belgien
 
-LEO Pharma N.V./S.A Tél/Tel: +32 3 740 7868
+LEO Pharma N.V./S.A
+
+Tél/Tel: +32 3 740 7868
 
 ## България
 
@@ -2241,7 +2226,7 @@ LEO Pharma S.p.A Tel: +39 06 52625500
 
 ## Κύπρος
 
-The Star Medicines Importers Co. Ltd. Τηλ: +357 2537 1056
+The Star Medicines Importers Co. Ltd. Τηλ : +357 2537 1056
 
 ## Lietuva
 
@@ -2263,9 +2248,7 @@ LEO Pharma A/S Tel: +45 44 94 58 88
 
 ## Nederland
 
-LEO Pharma B.V.
-
-Tel: +31 205104141
+LEO Pharma B.V. Tel: +31 205104141
 
 ## Norge
 
@@ -2285,7 +2268,9 @@ LEO Farmacêuticos Lda. Tel: +351 21 711 0760
 
 ## România
 
-LEO Pharma A/S Tel: +45 44 94 58 88
+LEO Pharma A/S
+
+Tel: +45 44 94 58 88
 
 ## Slovenija
 
@@ -2299,13 +2284,15 @@ LEO Pharma s.r.o. Tel: +420 734 575 982
 
 LEO Pharma Oy Puh/Tel: +358 20 721 8440
 
-## Sverige
+Sverige LEO Pharma AB Tel: +46 40 3522 00
 
-LEO Pharma AB Tel: +46 40 3522 00
+## Latvija
 
-Latvija LEO Pharma A/S Tel: +45 44 94 58 88
+LEO Pharma A/S
 
 <div style=\"page-break-after: always\"></div>
+
+Tel: +45 44 94 58 88
 
 ## This leaflet was last revised in
 
@@ -2317,7 +2304,9 @@ The Instructions for Use with information about on how to inject Adtralza is sho
 
 ## Instructions for Use
 
-## Adtralza 300 mg solution for injection in pre-filled pen tralokinumab
+## Adtralza 300 mg solution for injection in pre-filled pen
+
+tralokinumab
 
 Read these instructions before you start using Adtralza pre-filled pens and each time you get a new package. There may be new information. You should also talk to your healthcare professional about your medical condition or your treatment.
 
@@ -2414,8 +2403,6 @@ If you cannot use the pre-filled pen, dispose of it in a puncture-resistant cont
 Step 2: Choosing and preparing injection area
 
 <!-- image -->
-
-- Self-injection or by caregiver
 
 ## 2a: Choose the area for your injection
 

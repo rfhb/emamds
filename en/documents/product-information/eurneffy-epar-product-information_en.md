@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-04-07 10:30:20
+document_datetime: 2026-05-29 13:10:21
 document_pages: 45
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/eurneffy-epar-product-information_en.pdf
 document_name: eurneffy-epar-product-information_en.pdf
 version: success
-processing_time: 10.8309209
-conversion_datetime: 2026-04-09 12:47:17.290726
+processing_time: 17.2823833
+conversion_datetime: 2026-06-01 17:13:19.247618
 docling_version:
-  docling-serve: 1.15.1
-  docling-jobkit: 1.14.0
-  docling: 2.82.0
-  docling-core: 2.70.2
-  docling-ibm-models: 3.13.0
-  docling-parse: 5.6.1
+  docling-serve: 1.20.0
+  docling-jobkit: 1.20.1
+  docling: 2.96.1
+  docling-core: 2.78.0
+  docling-ibm-models: 3.13.2
+  docling-parse: 6.2.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -22,7 +22,7 @@ docling_version:
 
 <div style=\"page-break-after: always\"></div>
 
-## 1 . NAME OF THE MEDICINAL PRODUCT
+## 1. NAME OF THE MEDICINAL PRODUCT
 
 EURneffy 1 mg nasal spray, solution in single-dose container EURneffy 2 mg nasal spray, solution in single-dose container
 
@@ -58,7 +58,7 @@ EURneffy is indicated in the emergency treatment of allergic reactions (anaphyla
 
 ## 4.2 Posology and method of administration
 
-Posology
+## Posology
 
 This medicinal product should be administered at the first sign of a severe Type I allergic reaction.
 
@@ -112,11 +112,9 @@ None.
 
 ## Instructions for patients at the time of prescribing
 
-A physician who prescribes this medicinal product should take appropriate steps to ensure that the patient understands the indication and use of the nasal spray thoroughly. The physician should review the patient information leaflet and operating instructions of the nasal spray with the patient. All patients who are prescribed this medicinal product should be clearly instructed on how and when to
+A physician who prescribes this medicinal product should take appropriate steps to ensure that the patient understands the indication and use of the nasal spray thoroughly. The physician should review the patient information leaflet and operating instructions of the nasal spray with the patient. All patients who are prescribed this medicinal product should be clearly instructed on how and when to use the product (see section 4.2). It is strongly advised to also educate the patient's immediate associates (e.g. parents, caregivers, teachers) on the correct use of this medicinal product in case support is needed in an emergency.
 
 <div style=\"page-break-after: always\"></div>
-
-use the product (see section 4.2). It is strongly advised to also educate the patient's immediate associates (e.g. parents, caregivers, teachers) on the correct use of this medicinal product in case support is needed in an emergency.
 
 For children under 12 years of age, the caregiver should administer EURneffy or determine that the child is properly instructed in the use of EURneffy and is fully capable of administration themselves.
 
@@ -212,7 +210,7 @@ EURneffy may have minor influence on the ability to drive and use machines due t
 
 ## Summary of safety profile
 
-The most frequently occurring adverse reactions  following EURneffy administration are  throat irritation,  , headache, nasal discomfort  and feeling jittery, all categorised as very common and reported  by more than 1  out of per 10 patients.
+The most frequently occurring adverse reactions following EURneffy administration are throat irritation, headache, nasal discomfort and feeling jittery, all categorised as very common and reported by more than 1 out of 10 patients.
 
 ## Tabulated list of adverse reactions
 
@@ -227,16 +225,16 @@ Adverse reactions are summarised based on analysis of pooled safety data from pr
 
 ## Table 1: Adverse reactions identified with EURneffy
 
-| System organ class    | Frequency   | Adverse reaction                                      |
-|-----------------------|-------------|-------------------------------------------------------|
-| Psychiatric disorders | Common      | Anxiety                                               |
-| Psychiatric disorders | Uncommon    | Euphoric mood Nervousness                             |
-| Psychiatric disorders | Not known   | Disorientation 1 Memory impairment 1 Panic reaction 1 |
+| System organ class    | Frequency   | Adverse reaction          |
+|-----------------------|-------------|---------------------------|
+| Psychiatric disorders | Common      | Anxiety                   |
+|                       | Uncommon    | Euphoric mood Nervousness |
 
 <div style=\"page-break-after: always\"></div>
 
 | System organ class                                   | Frequency   | Adverse reaction                                                                                                                                                            |
 |------------------------------------------------------|-------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                                                      | Not known   | Disorientation 1 Memory impairment 1 Panic reaction 1                                                                                                                       |
 | Nervous system disorders                             | Very common | Headache                                                                                                                                                                    |
 | Nervous system disorders                             | Common      | Tremor Paraesthesia                                                                                                                                                         |
 | Nervous system disorders                             | Uncommon    | Dizziness Head discomfort Presyncope                                                                                                                                        |
@@ -257,6 +255,10 @@ Adverse reactions are summarised based on analysis of pooled safety data from pr
 | Investigations                                       | Uncommon    | Body temperature increased                                                                                                                                                  |
 
 <div style=\"page-break-after: always\"></div>
+
+1 Adverse reactions that have not been observed in clinical studies with EURneffy, but are known to occur with other adrenaline formulations including intravenous, intramuscular, and subcutaneous administrations.
+
+2 Cardiac arrhythmias may follow administration of adrenaline (see section 4.4).
 
 ## Paediatric population
 
@@ -288,11 +290,11 @@ Adrenaline overdose can cause transient bradycardia followed by tachycardia, and
 
 Pharmacotherapeutic group: Cardiac therapy, adrenergic and dopaminergic agents ATC code: C01CA24
 
+<div style=\"page-break-after: always\"></div>
+
 ## Mechanism of action
 
 Adrenaline is a nonselective agonist of all adrenergic receptors, including alpha- and beta-adrenergic receptors. Binding to these receptors triggers a number of actions of sympathetic nerve system.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Pharmacodynamic effects
 
@@ -306,7 +308,9 @@ Adrenaline also alleviates pruritus, urticaria, and angioedema and may be effect
 
 Four clinical pharmacology studies of EURneffy in adults and one clinical pharmacology study in paediatric subjects who weigh 30 kg or more are described below.
 
-Systolic blood pressure and pulse rate in healthy adult subjects (Study EPI 15) Study EPI 15 was conducted in healthy adult subjects (N=42) that compared the PK and PD (i.e. pulse rate (PR) and systolic blood pressure (SBP)) of adrenaline following:
+## Systolic blood pressure and pulse rate in healthy adult subjects (Study EPI 15)
+
+Study EPI 15 was conducted in healthy adult subjects (N=42) that compared the PK and PD (i.e. pulse rate (PR) and systolic blood pressure (SBP)) of adrenaline following:
 
 - One nasal dose of EURneffy 2 mg to one intramuscular dose of adrenaline injection 0.3 mg (using a needle-syringe product and an auto-injector product).
 - Two nasal doses of EURneffy 2 mg, administered 10 minutes apart, into either same naris or opposite nares to two intramuscular doses of adrenaline injection 0.3 mg (using an autoinjector) administered 10 minutes apart.
@@ -391,7 +395,7 @@ Table 2: Mean (CV%) and geometric mean plasma PK parameters following one or two
 | Adrenaline autoinjector 0.3 mg         | 77   | 10 (2 - 45)                  | 581 (75.6)      | 447             | 31 600 (39.3)          | 29 200                 |
 | Adrenaline autoinjector 0.3 mg twice   | 78   | 20 (4 - 360)                 | 754 (64.7)      | 630             | 55 000 (47.9)          | 29 200                 |
 
-AUC: area under the curve; Cmax: the maximum observed concentration; CV: coefficient of variation; Geo. mean: geometric mean; HCP: healthcare professional; ;L: left; N: number of subjects; R: right, tmax: the time it takes to reach the Cmax..
+AUC: area under the curve; Cmax: the maximum observed concentration; CV: coefficient of variation; Geo. mean: geometric mean; HCP: healthcare professional; L: left; N: number of subjects; R: right, tmax: the time it takes to reach the Cmax..
 
 Adrenaline has a rapid onset of action after administration. Following nasal administration to healthy volunteers, adrenaline was rapidly absorbed after both single and repeated dosing, with a time to maximum plasma concentration in 20 to 30 minutes. In subjects with rhinitis (congestion and nasal oedema), adrenaline is absorbed more rapidly with the maximum concentration observed in about 10 minutes.
 
@@ -455,7 +459,7 @@ Not all pack sizes may be marketed.
 
 ## 6.6 Special precautions for disposal and other handling
 
-Instructions for use
+## Instructions for use
 
 - A: To administer, the nasal spray should be removed from the packaging, by pulling open the packaging (see Figure 1A).
 
@@ -479,7 +483,7 @@ Instructions for use
 
 <!-- image -->
 
-## D: Press the plunger up firmly until it snaps up and sprays into the nostril (see Figure 1D).
+D: Press the plunger up firmly until it snaps up and sprays into the nostril (see Figure 1D).
 
 <!-- image -->
 
@@ -532,9 +536,13 @@ Detailed information on this medicinal product is available on the website of th
 
 ## A. MANUFACTURER(S) RESPONSIBLE FOR BATCH RELEASE
 
-Name and address of the manufacturer responsible for batch release
+Name and address of the manufacturer(s) responsible for batch release
 
 ALK-Abelló A/S Venlighedsvej 10 2970 Hørsholm Denmark
+
+ALK-Abelló S.A. Miguel Fleta 19 28037 Madrid Spain
+
+The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.
 
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
@@ -563,12 +571,12 @@ Prior to the launch of EURneffy in each Member State the MAH must agree about th
 
 The educational programme is aimed at preventing misuse of the medicinal product in the context of an emergency situation.
 
+<div style=\"page-break-after: always\"></div>
+
 The MAH shall ensure that in each Member State where EURneffy is marketed, all healthcare professionals and patients/carers who are expected to prescribe, dispense, use EURneffy have access to/are provided with the following educational information:
 
 - Physician educational material
 - Patient/caregivers information pack
-
-<div style=\"page-break-after: always\"></div>
 
 ## Physician educational material:
 
@@ -631,7 +639,7 @@ Contains sodium metabisulphite and benzalkonium chloride. See leaflet for furthe
 
 nasal spray, solution
 
-## 2 single-dose nasal sprays
+2 single-dose nasal sprays
 
 1 single-dose nasal spray
 
@@ -643,7 +651,9 @@ Single use
 
 Read package leaflet before use
 
-QR code + eurneffy.eu Scan to Learn More
+QR code + eurneffy.eu
+
+Scan to Learn More
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -690,8 +700,8 @@ EURneffy 1 mg
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
+|-------|-----------------------------------------|
 
 PC SN NN
 
@@ -725,9 +735,7 @@ Single use.
 
 Read the package leaflet before use.
 
-QR code + eurneffy.eu
-
-Learn More
+QR code + eurneffy.eu Learn More
 
 <div style=\"page-break-after: always\"></div>
 
@@ -755,8 +763,7 @@ Lot
 
 1 mg
 
-| 6.   | OTHER   |
-|------|---------|
+## 6. OTHER
 
 ALK-Abelló A/S
 
@@ -843,8 +850,8 @@ EURneffy 2 mg
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
+|-------|-----------------------------------------|
 
 PC SN NN
 
@@ -880,9 +887,7 @@ Single use.
 
 Read the package leaflet before use.
 
-QR code + eurneffy.eu
-
-Learn More
+QR code + eurneffy.eu Learn More
 
 <div style=\"page-break-after: always\"></div>
 
@@ -938,9 +943,11 @@ B
 
 C
 
-Remove EURneffy nasal spray from the packaging. Pull open the packaging to remove the EURneffy nasal spray.
-
 <!-- image -->
+
+## Remove EURneffy nasal spray from the packaging.
+
+Pull open the packaging to remove the EURneffy nasal spray.
 
 ## Hold the nasal spray as shown.
 
@@ -957,7 +964,7 @@ Keep the nozzle straight into the nose pointed toward your forehead. Do not angl
 
 <!-- image -->
 
-## Press plunger up firmly until it snaps up and sprays into the nostril.
+## Press the plunger up firmly until it snaps up and sprays into the nostril.
 
 Do not angle the nasal spray to the inner or outer walls of the nose.
 
@@ -983,9 +990,9 @@ If necessary, you can lie down with feet raised. If this makes you breathless, y
 
 ## B. PACKAGE LEAFLET
 
-<div style=\"page-break-after: always\"></div>
-
 ## Package leaflet: Information for the user
+
+<div style=\"page-break-after: always\"></div>
 
 ## EURneffy 1 mg nasal spray, solution in single-dose container EURneffy 2 mg nasal spray, solution in single-dose container adrenaline
 
@@ -1009,7 +1016,7 @@ If necessary, you can lie down with feet raised. If this makes you breathless, y
 
 EURneffy contains the active substance adrenaline (epinephrine) which is an adrenergic medicine (medicine that has an effect on the sympathetic nervous system, the part of the nervous system that increases heart rate, blood pressure, breathing rate, and pupil size).
 
-EURneffy is used in adult and children aged 4 years and over with a body weight of 15 kg or more for the emergency treatment of allergic reactions, including anaphylaxis (sudden, severe and sometimes life-threatening allergic reactions), to insect stings or bites, foods, medicines and other allergens (substances that cause an allergy) as well as idiopathic anaphylaxis (the cause of anaphylaxis is not known) or anaphylaxis caused by exercise. EURneffy is intended for immediate self-administration by a person (or given to a person by a caregiver or medical professional) with a history or recognised risk of a severe allergic reaction that can lead to anaphylactic shock.
+EURneffy is used in adults and children aged 4 years and over with a body weight of 15 kg or more for the emergency treatment of allergic reactions, including anaphylaxis (sudden, severe and sometimes life-threatening allergic reactions), to insect stings or bites, foods, medicines and other allergens (substances that cause an allergy) as well as idiopathic anaphylaxis (the cause of anaphylaxis is not known) or anaphylaxis caused by exercise. EURneffy is intended for immediate selfadministration by a person (or given to a person by a caregiver or medical professional) with a history or recognised risk of a severe allergic reaction that can lead to anaphylactic shock.
 
 The active substance in EURneffy, adrenaline, is a naturally occurring hormone released by the body in response to stress. It works directly on the cardiovascular (heart and blood circulation) and respiratory (lung) systems to stop the possible fatal effects of a severe allergic reaction that can lead to anaphylactic shock. In acute allergic reactions it improves blood pressure, heart function and breathing, and reduces tissue swelling.
 
@@ -1035,9 +1042,7 @@ Use EURneffy at the first signs or symptoms of a severe allergic reaction. Sympt
 
 You must make sure you understand the reason EURneffy has been prescribed for you. You should be confident that you know exactly how and when to use EURneffy. Explain how to use EURneffy to your family, carers, co-workers or teachers. They will need to know how to use it before you suffer an anaphylactic reaction.
 
-## If you are at risk of a severe allergic reaction, you should always keep EURneffy with you .
-
-Patients with a history or a recognised risk of a severe allergic reaction that can lead to anaphylactic shock should have quick access to EURneffy.
+## If you are at risk of a severe allergic reaction, you should always keep EURneffy with you . Patients with a history or a recognised risk of a severe allergic reaction that can lead to anaphylactic shock should have quick access to EURneffy.
 
 If you have asthma, you may be at increased risk of a severe allergic reaction.
 
@@ -1146,11 +1151,9 @@ The instructions for use must be carefully followed in order to use EURneffy cor
 
 If you notice the signs of an acute allergic reaction (see section 2 Warnings and precautions), use EURneffy immediately. Seek emergency medical assistance immediately to have close monitoring of the anaphylactic episode and in the event further treatment is required. Ideal dosing is to use the dominant hand to hold the sprayer and administer to the same side nostril (e.g. for self-administration, right hand to right nostril; or left hand to left nostril; and for caregiver administration, right hand to left nostril and left hand to right nostril).
 
-Sometimes a single dose of EURneffy may not be sufficient to completely reverse the effects of a serious allergic reaction. If your symptoms have not improved or have deteriorated within
+Sometimes a single dose of EURneffy may not be sufficient to completely reverse the effects of a serious allergic reaction. If your symptoms have not improved or have deteriorated within approximately 10 minutes after using the first nasal spray of EURneffy, either you or the person with you should give a second nasal spray of EURneffy in the same nostril as the first dose.
 
 <div style=\"page-break-after: always\"></div>
-
-approximately 10 minutes after using the first nasal spray of EURneffy, either you or the person with you should give a second nasal spray of EURneffy in the same nostril as the first dose.
 
 The instructions for use given below must be followed.
 
@@ -1163,8 +1166,6 @@ EURneffy nasal spray
 <!-- image -->
 
 Follow these instructions only when ready to use.
-
-A
 
 <!-- image -->
 
@@ -1232,7 +1233,7 @@ Very common (may affect more than 1 in 10 people)
 - -Feeling jittery
 - -Throat irritation
 
-Common (may affect up to 1 in 10 people)
+## Common (may affect up to 1 in 10 people)
 
 - -Increased blood pressure
 - -Palpitations (forceful heartbeats that may be rapid or irregular)
@@ -1266,7 +1267,8 @@ Common (may affect up to 1 in 10 people)
 - -Energy increased
 - -Fatigue (feeling tired)
 - -Feeling hot
-- -Body temperature increased
+- -
+- Body temperature increased
 - -Presyncope (feeling faint)
 - -Euphoric mood
 - -Nervousness
@@ -1313,9 +1315,13 @@ Not all pack sizes may be marketed.
 
 Marketing Authorisation Holder ALK-Abelló A/S Bøge Allé 6-8 2970 Hørsholm Denmark
 
-Manufacturer ALK-Abelló A/S Venlighedsvej 10 2970 Hørsholm Denmark
-
 <div style=\"page-break-after: always\"></div>
+
+## Manufacturer
+
+ALK-Abelló A/S Venlighedsvej 10 2970 Hørsholm Denmark
+
+ALK-Abelló S.A. Miguel Fleta 19 28037 Madrid Spain
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
@@ -1329,19 +1335,15 @@ Tél/Tel: +32 (0)28990835
 
 ALK-Abelló A/S
 
-Te л
-
-.: + 45 45747576
+Teл.: + 45 45747576
 
 ## Česká republika
 
-ALK Slovakia s.r.o. odštěpný závod Tel: +420 233 312 907
+ALK Slovakia s.r.o. - odštěpný závod Tel: +420 233 312 907
 
 ## Danmark
 
-ALK-Abelló Nordic A/S
-
-Tlf.: +45 38 16 70 70
+ALK-Abelló Nordic A/S Tlf.: +45 38 16 70 70
 
 ## Deutschland
 
@@ -1349,23 +1351,19 @@ ALK-Abelló Arzneimittel GmbH Tel: +49 40 703845-0
 
 ## Eesti
 
-ALK-Abelló A/S
-
-Tel: + 45 45747576
+ALK-Abelló A/S Tel: + 45 45747576
 
 ## Ελλάδα
 
-ALK-Abelló A/S Τηλ : + 45 45747576
+ALK-Abelló A/S Τηλ: + 45 45747576
 
 ## España
 
-ALK-Abelló, S.A.
-
-Tel: +34 913276100
+ALK-Abelló, S.A. Tel: +34 913276100
 
 ## France
 
-## ALK
+ALK
 
 Tél: (+33) 03 29 80 71 62
 
@@ -1376,18 +1374,6 @@ ALK-Abelló A/S
 Tel: + 45 45747576
 
 ## Ireland
-
-ALK-Abelló A/S
-
-Tel: + 45 45747576
-
-## Ísland
-
-ALK-Abelló A/S
-
-Sími: +45 45747576
-
-## Italia
 
 ALK-Abelló A/S
 
@@ -1405,17 +1391,19 @@ ALK-Abelló A/S Tél/Tel: + 45 45747576
 
 ## Magyarország
 
-ALK-Abelló A/S Tel: + 45 45747576
-
-## Malta
-
 ALK-Abelló A/S
 
 Tel: + 45 45747576
 
+## Malta
+
+ALK-Abelló A/S Tel: + 45 45747576
+
 ## Nederland
 
-ALK-Abelló B.V. Tel: +31 (0)365397840
+ALK-Abelló B.V.
+
+Tel: +31 (0)365397840
 
 ## Norge
 
@@ -1435,35 +1423,33 @@ ALK-Abelló A/S Tel: + 45 45747576
 
 ## România
 
+ALK-Abelló A/S Tel: + 45 45747576
+
+## Slovenija
+
 ALK-Abelló A/S
 
 Tel: + 45 45747576
 
-## Slovenija
-
-ALK-Abelló A/S Tel: + 45 45747576
-
-## Slovenská republika
-
-ALK Slovakia s.r.o. Tel: +421 2 546 503 71
-
-## Suomi/Finland
-
-ALK-Abelló Nordic A/S, sivuliike
-
-Suomessa/filial i Finland
-
-Puh/Tel: +358 (0)9 5842 2120
-
 <div style=\"page-break-after: always\"></div>
+
+## Ísland
+
+ALK-Abelló A/S
+
+Sími: +45 45747576
+
+## Italia
+
+ALK-Abelló A/S
+
+Tel: + 45 45747576
 
 ## Κύπρος
 
 ALK-Abelló A/S
 
-Τηλ
-
-: + 45 45747576
+Τηλ: + 45 45747576
 
 ## Latvija
 
@@ -1474,6 +1460,16 @@ Tel: + 45 45747576
 ## This leaflet was last revised in
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
+
+## Slovenská republika
+
+ALK Slovakia s.r.o.
+
+Tel: +421 2 546 503 71
+
+## Suomi/Finland
+
+ALK-Abelló Nordic A/S, sivuliike Suomessa/filial i Finland Puh/Tel: +358 9 5842 2120
 
 ## Sverige
 

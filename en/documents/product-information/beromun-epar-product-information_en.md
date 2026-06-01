@@ -1,20 +1,20 @@
 ---
-document_datetime: 2023-09-21 20:51:02
+document_datetime: 2026-05-28 13:45:00
 document_pages: 25
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/beromun-epar-product-information_en.pdf
 document_name: beromun-epar-product-information_en.pdf
 version: success
-processing_time: 5.2511296
-conversion_datetime: 2025-12-20 01:55:28.089271
+processing_time: 8.1130152
+conversion_datetime: 2026-06-01 17:16:49.093396
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.20.0
+  docling-jobkit: 1.20.1
+  docling: 2.96.1
+  docling-core: 2.78.0
+  docling-ibm-models: 3.13.2
+  docling-parse: 6.2.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -34,9 +34,7 @@ Each vial contains 1 mg tasonermin*, corresponding to 3.0-6.0 x 10 7 IU (Interna
 
 ## Excipient(s) with known effect:
 
-Each vial contains 20.12 mg (0.87 mmol) sodium. After reconstitution in 0.9 % physiological sodium chloride solution the amount is 37.82 mg (1.64 mmol) sodium.
-
-For the full list of excipients, see section 6.1.
+Each vial contains 20.12 mg (0.87 mmol) sodium. After reconstitution in 0.9 % physiological sodium chloride solution the amount is 37.82 mg (1.64 mmol) sodium. For the full list of excipients, see section 6.1.
 
 ## 3. PHARMACEUTICAL FORM
 
@@ -64,11 +62,7 @@ Lower limb: 4 mg total dose by ILP
 
 ## Melphalan:
 
-Melphalan dose should be calculated according to the litre-volume method of Wieberdink (Wieberdink J, Benckhuysen C, Braat RP, van Slooten EA, Olthius GAA. Dosimetry in isolation perfusion of the limbs by assessments of perfused tissue volume and grading of toxic tissue reactions. Eur J Cancer Clin Oncol 1982; 18: 905-910.), to a maximum dose of 150 mg.
-
-13 mg/l perfused upper limb volume
-
-10 mg/l perfused lower limb volume
+Melphalan dose should be calculated according to the litre-volume method of Wieberdink (Wieberdink J, Benckhuysen C, Braat RP, van Slooten EA, Olthius GAA. Dosimetry in isolation perfusion of the limbs by assessments of perfused tissue volume and grading of toxic tissue reactions. Eur J Cancer Clin Oncol 1982; 18: 905-910.), to a maximum dose of 150 mg. 13 mg/l perfused upper limb volume 10 mg/l perfused lower limb volume
 
 ## Paediatric population
 
@@ -178,7 +172,7 @@ Surgical resection of the tumour remnant should be undertaken whenever possible.
 
 If a second ILP is indicated, physicians should take into account the leakage rate of the previous ILP.
 
-The maximum tolerated dose (MTD) of tasonermin for ILP is 4 mg, which is 10 times the systemic MTD. Therefore, whenever there is significant systemic leakage of tasonermin, serious undesirable effects are to be expected. Doses of up to 6 mg of other TNF α preparations have been administered via ILP, but this dose was found to be unacceptable in terms of loco-regional toxicity.
+The maximum tolerated dose (MTD) of tasonermin for ILP is 4 mg, which is 10 times the systemic MTD. Therefore, whenever there is significant systemic leakage of tasonermin, serious undesirable effects are to be expected. Doses of up to 6 mg of other TNF  preparations have been administered via ILP, but this dose was found to be unacceptable in terms of loco-regional toxicity.
 
 Combinations with cardiotoxic substances (e.g. anthracyclines) should be avoided because it is possible that tasonermin could enhance cardiotoxicity, as has been observed in preclinical 13-week toxicological investigations. Concurrent administration of agents likely to cause significant hypotension is not recommended (see section 4.5).
 
@@ -265,9 +259,7 @@ Common:
 
 Hypersensitivity reaction
 
-Nervous system disorders
-
-Common:
+Nervous system disorders Common:
 
 Nerve injury, peripheral neurotoxicity, altered state of consciouness, headache
 
@@ -385,13 +377,11 @@ Reporting suspected adverse reactions after authorisation of the medicinal produ
 
 Should accidental overdose occur, ILP should be terminated immediately and the limb washed out using at least 2 litres of dextran 70 intravenous infusion or similar fluid (see also section 4.4).
 
-If signs of systemic toxicity appear, for example fever, cardiac arrhythmias, shock/hypotension, adult respiratory distress syndrome (ARDS), general supportive measures should be employed and the
+If signs of systemic toxicity appear, for example fever, cardiac arrhythmias, shock/hypotension, adult respiratory distress syndrome (ARDS), general supportive measures should be employed and the patient immediately transferred to an Intensive Care Unit for monitoring. Volume expanders and vasopressors are recommended. Artificial respiratory support may be required if ARDS develops. Renal and hepatic function should be closely monitored. Haematological disorders, in particular leukopaenia, thrombocytopaenia and clotting dysfunction, might be expected.
 
 <div style=\"page-break-after: always\"></div>
 
-patient immediately transferred to an Intensive Care Unit for monitoring. Volume expanders and vasopressors are recommended. Artificial respiratory support may be required if ARDS develops. Renal and hepatic function should be closely monitored. Haematological disorders, in particular leukopaenia, thrombocytopaenia and clotting dysfunction, might be expected.
-
-There is no specific antidote for tasonermin currently available. Treatment with anti-TNF α antibodies is not recommended.
+There is no specific antidote for tasonermin currently available. Treatment with anti-TNF  antibodies is not recommended.
 
 Please refer to the Summary of Product Characteristics for melphalan for information on overdose of melphalan.
 
@@ -445,11 +435,9 @@ To cover the intended clinical use of Beromun, ILP experiments were performed in
 
 ## 6.1 List of excipients
 
-Sodium dihydrogen phosphate dihydrate Disodium phosphate dodecahydrate
+Sodium dihydrogen phosphate dihydrate Disodium phosphate dodecahydrate Human serum albumin.
 
 <div style=\"page-break-after: always\"></div>
-
-Human serum albumin.
 
 ## 6.2 Incompatibilities
 
@@ -459,7 +447,7 @@ Please refer to the Summary of Product Characteristics for melphalan for details
 
 ## 6.3 Shelf life
 
-## 3 years
+## 4 years
 
 ## Reconstituted solution
 
@@ -469,7 +457,7 @@ From a microbiological point of view, the reconstituted product should be used i
 
 ## 6.4 Special precautions for storage
 
-Store in a refrigerator (2 ° C - 8 ° C).
+Store in a refrigerator (2  C - 8  C).
 
 For storage conditions after reconstitution of the medicinal product, see section 6.3.
 
@@ -520,7 +508,9 @@ Detailed information on this product is available on the website of the European
 ## ANNEX II
 
 - A. MANUFACTURER OF THE BIOLOGICAL ACTIVE SUBSTANCE AND MANUFACTURER (S) RESPONSIBLE FOR BATCH RELEASE
-- B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
+
+## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
+
 - C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 - D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
@@ -606,11 +596,11 @@ EXP
 
 For single use only. Upon reconstitution the product should be used immediately.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 9. SPECIAL STORAGE CONDITIONS
 
 Store in a refrigerator
+
+<div style=\"page-break-after: always\"></div>
 
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
@@ -620,7 +610,7 @@ Any unused product or waste material should be disposed of in accordance with lo
 
 BELPHARMA s.a.
 
-2, Rue Albert 1er
+- 2, Rue Albert 1er
 
 L-1117 Luxembourg
 
@@ -630,7 +620,7 @@ Grand Duchy of Luxembourg
 
 EU/1/99/097/001
 
-13. BATCH NUMBER
+## 13. BATCH NUMBER
 
 Batch
 
@@ -640,7 +630,7 @@ Batch
 
 Justification for not including Braille accepted
 
-17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -654,17 +644,16 @@ NN: {number} [national reimbursement number or other national number identifying
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATEPACKAGING UNITS   |
-|-----------------------------------------------------------------|
-| VIALLABELFORBEROMUN                                             |
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
 
-| 1.   | NAMEOF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|---------------------------------------------------------------|
+## VIAL LABEL FOR BEROMUN
+
+## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
 Beromun 1 mg powder for infusion Tasonermin Intraarterial use
 
-| 2.   | METHODOF ADMINISTRATION   |
-|------|---------------------------|
+| 2.   | METHODOFADMINISTRATION   |
+|------|--------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -676,8 +665,8 @@ EXP
 
 Batch
 
-| 5.   | CONTENTS BY WEIGHT, BY VOLUMEORBYUNIT   |
-|------|-----------------------------------------|
+| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
+|------|---------------------------------------|
 
 1 mg
 
@@ -735,11 +724,9 @@ Beromun is used, together with melphalan containing medicine, for the treatment 
 
 ## Warnings and precautions
 
-Beromun   will be administered by a doctor who is experienced and skilled in isolated limb perfusion (ILP). This technique ensures that Beromun   is kept within the affected arm or leg. It is important that
+Beromun   will be administered by a doctor who is experienced and skilled in isolated limb perfusion (ILP). This technique ensures that Beromun   is kept within the affected arm or leg. It is important that it does not reach other parts of your body, because this so-called systemic leakage could cause serious side effects on the main organs of the body.
 
 <div style=\"page-break-after: always\"></div>
-
-it does not reach other parts of your body, because this so-called systemic leakage could cause serious side effects on the main organs of the body.
 
 During the IPL and the seven to ten day period afterwards you will need to stay in hospital, your doctor will carefully monitor your blood pressure, circulation and any side effects. You may have to stay in an intensive care unit (ICU) directly after the ILP for a short time.
 
@@ -823,7 +810,8 @@ The following side effects were observed during treatment with this medicine (gr
 - -constipation, diarrhoea
 - -skin necrosis (death of skin cells) in the affected arm or leg
 - -swelling of the ankles, feet or fingers caused by fluid build up in the affected arm or leg
-- -'compartment syndrome', a medical condition characterised by pain, swelling and neurological symptoms, as well as muscle damage in the affected arm or leg
+- -'compartment syndrome', a medical condition characterised by pain, swelling and neurological
+- symptoms, as well as muscle damage in the affected arm or leg
 - -muscle pain
 - -protein in urine
 - -night sweats
@@ -868,17 +856,11 @@ Beromun is a white to off-white powder for solution for infusion (powder for inf
 
 ## Marketing Authorisation Holder
 
-BELPHARMA s.a.
+BELPHARMA s.a. 2, Rue Albert 1er L-1117 Luxembourg Grand Duchy of Luxembourg
 
-2, Rue Albert 1er L-1117 Luxembourg Grand Duchy of Luxembourg
-
-## Manufacturer
-
-Eumedica NV Chemin de Nauwelette 1 B-7170 Manage Belgium
+Manufacturer Eumedica NV Chemin de Nauwelette 1 B-7170 Manage Belgium For any information about this medicine, please contact the Marketing Authorisation Holder:
 
 <div style=\"page-break-after: always\"></div>
-
-For any information about this medicine, please contact the Marketing Authorisation Holder:
 
 BELPHARMA s.a. 2, Rue Albert 1er L-1117 Luxembourg Grand Duchy of Luxembourg
 

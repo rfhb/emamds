@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-05-08 15:00:00
+document_datetime: 2026-05-29 15:00:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/teriflunomide-viatris.html
 document_name: teriflunomide-viatris.html
 version: success
-processing_time: 0.1318117
-conversion_datetime: 2026-05-10 13:11:45.022811
+processing_time: 0.1400271
+conversion_datetime: 2026-06-01 16:56:43.487373
 docling_version:
-  docling-serve: 1.17.0
-  docling-jobkit: 1.18.0
-  docling: 2.92.0
-  docling-core: 2.74.1
+  docling-serve: 1.20.0
+  docling-jobkit: 1.20.1
+  docling: 2.96.1
+  docling-core: 2.78.0
   docling-ibm-models: 3.13.2
-  docling-parse: 5.10.1
+  docling-parse: 6.2.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
 ---
 # Teriflunomide Viatris (previously Teriflunomide Mylan)
 
@@ -104,7 +104,7 @@ English (EN) (146.56 KB - PDF)
 
 [View](/en/documents/overview/teriflunomide-viatris-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-168)
+[Other languages (22)](#file-language-dropdown-75)
 
 български (BG) (154.36 KB - PDF)
 
@@ -250,161 +250,161 @@ English (EN) (146.41 KB - PDF)
 
 Teriflunomide Viatris : EPAR - Product information
 
-English (EN) (357.58 KB - PDF)
+English (EN) (564.87 KB - PDF)
 
-**First published:** 22/11/2022 **Last updated:** 08/05/2026
+**First published:** 22/11/2022 **Last updated:** 29/05/2026
 
 [View](/en/documents/product-information/teriflunomide-viatris-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-624)
+[Other languages (24)](#file-language-dropdown-447)
 
-български (BG) (541.23 KB - PDF)
+български (BG) (697.1 KB - PDF)
 
-**First published:** 22/11/2022 **Last updated:** 08/05/2026
+**First published:** 22/11/2022 **Last updated:** 29/05/2026
 
 [View](/bg/documents/product-information/teriflunomide-viatris-epar-product-information_bg.pdf)
 
-español (ES) (367.3 KB - PDF)
+español (ES) (549.98 KB - PDF)
 
-**First published:** 22/11/2022 **Last updated:** 08/05/2026
+**First published:** 22/11/2022 **Last updated:** 29/05/2026
 
 [View](/es/documents/product-information/teriflunomide-viatris-epar-product-information_es.pdf)
 
-čeština (CS) (450.02 KB - PDF)
+čeština (CS) (557.32 KB - PDF)
 
-**First published:** 22/11/2022 **Last updated:** 08/05/2026
+**First published:** 22/11/2022 **Last updated:** 29/05/2026
 
 [View](/cs/documents/product-information/teriflunomide-viatris-epar-product-information_cs.pdf)
 
-dansk (DA) (350.36 KB - PDF)
+dansk (DA) (575.08 KB - PDF)
 
-**First published:** 22/11/2022 **Last updated:** 08/05/2026
+**First published:** 22/11/2022 **Last updated:** 29/05/2026
 
 [View](/da/documents/product-information/teriflunomide-viatris-epar-product-information_da.pdf)
 
-Deutsch (DE) (396.88 KB - PDF)
+Deutsch (DE) (546.07 KB - PDF)
 
-**First published:** 22/11/2022 **Last updated:** 08/05/2026
+**First published:** 22/11/2022 **Last updated:** 29/05/2026
 
 [View](/de/documents/product-information/teriflunomide-viatris-epar-product-information_de.pdf)
 
-eesti keel (ET) (341.98 KB - PDF)
+eesti keel (ET) (382.01 KB - PDF)
 
-**First published:** 22/11/2022 **Last updated:** 08/05/2026
+**First published:** 22/11/2022 **Last updated:** 29/05/2026
 
 [View](/et/documents/product-information/teriflunomide-viatris-epar-product-information_et.pdf)
 
-ελληνικά (EL) (548.42 KB - PDF)
+ελληνικά (EL) (388.58 KB - PDF)
 
-**First published:** 22/11/2022 **Last updated:** 08/05/2026
+**First published:** 22/11/2022 **Last updated:** 29/05/2026
 
 [View](/el/documents/product-information/teriflunomide-viatris-epar-product-information_el.pdf)
 
-français (FR) (419.96 KB - PDF)
+français (FR) (524.99 KB - PDF)
 
-**First published:** 22/11/2022 **Last updated:** 08/05/2026
+**First published:** 22/11/2022 **Last updated:** 29/05/2026
 
 [View](/fr/documents/product-information/teriflunomide-viatris-epar-product-information_fr.pdf)
 
-hrvatski (HR) (455.92 KB - PDF)
+hrvatski (HR) (617.77 KB - PDF)
 
-**First published:** 22/11/2022 **Last updated:** 08/05/2026
+**First published:** 22/11/2022 **Last updated:** 29/05/2026
 
 [View](/hr/documents/product-information/teriflunomide-viatris-epar-product-information_hr.pdf)
 
-íslenska (IS) (638.52 KB - PDF)
+íslenska (IS) (562.21 KB - PDF)
 
-**First published:** 22/11/2022 **Last updated:** 08/05/2026
+**First published:** 22/11/2022 **Last updated:** 29/05/2026
 
 [View](/is/documents/product-information/teriflunomide-viatris-epar-product-information_is.pdf)
 
-italiano (IT) (835.97 KB - PDF)
+italiano (IT) (596.1 KB - PDF)
 
-**First published:** 22/11/2022 **Last updated:** 08/05/2026
+**First published:** 22/11/2022 **Last updated:** 29/05/2026
 
 [View](/it/documents/product-information/teriflunomide-viatris-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (660.59 KB - PDF)
+latviešu valoda (LV) (456.26 KB - PDF)
 
-**First published:** 22/11/2022 **Last updated:** 08/05/2026
+**First published:** 22/11/2022 **Last updated:** 29/05/2026
 
 [View](/lv/documents/product-information/teriflunomide-viatris-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (620.03 KB - PDF)
+lietuvių kalba (LT) (467.57 KB - PDF)
 
-**First published:** 22/11/2022 **Last updated:** 08/05/2026
+**First published:** 22/11/2022 **Last updated:** 29/05/2026
 
 [View](/lt/documents/product-information/teriflunomide-viatris-epar-product-information_lt.pdf)
 
-magyar (HU) (504.13 KB - PDF)
+magyar (HU) (750.02 KB - PDF)
 
-**First published:** 22/11/2022 **Last updated:** 08/05/2026
+**First published:** 22/11/2022 **Last updated:** 29/05/2026
 
 [View](/hu/documents/product-information/teriflunomide-viatris-epar-product-information_hu.pdf)
 
-Malti (MT) (833.04 KB - PDF)
+Malti (MT) (672.43 KB - PDF)
 
-**First published:** 22/11/2022 **Last updated:** 08/05/2026
+**First published:** 22/11/2022 **Last updated:** 29/05/2026
 
 [View](/mt/documents/product-information/teriflunomide-viatris-epar-product-information_mt.pdf)
 
-Nederlands (NL) (695.07 KB - PDF)
+Nederlands (NL) (661.4 KB - PDF)
 
-**First published:** 22/11/2022 **Last updated:** 08/05/2026
+**First published:** 22/11/2022 **Last updated:** 29/05/2026
 
 [View](/nl/documents/product-information/teriflunomide-viatris-epar-product-information_nl.pdf)
 
-norsk (NO) (654.92 KB - PDF)
+norsk (NO) (395.05 KB - PDF)
 
-**First published:** 22/11/2022 **Last updated:** 08/05/2026
+**First published:** 22/11/2022 **Last updated:** 29/05/2026
 
 [View](/no/documents/product-information/teriflunomide-viatris-epar-product-information_no.pdf)
 
-polski (PL) (767.64 KB - PDF)
+polski (PL) (686.7 KB - PDF)
 
-**First published:** 22/11/2022 **Last updated:** 08/05/2026
+**First published:** 22/11/2022 **Last updated:** 29/05/2026
 
 [View](/pl/documents/product-information/teriflunomide-viatris-epar-product-information_pl.pdf)
 
-português (PT) (414.29 KB - PDF)
+português (PT) (650.28 KB - PDF)
 
-**First published:** 22/11/2022 **Last updated:** 08/05/2026
+**First published:** 22/11/2022 **Last updated:** 29/05/2026
 
 [View](/pt/documents/product-information/teriflunomide-viatris-epar-product-information_pt.pdf)
 
-română (RO) (446.93 KB - PDF)
+română (RO) (759.39 KB - PDF)
 
-**First published:** 22/11/2022 **Last updated:** 08/05/2026
+**First published:** 22/11/2022 **Last updated:** 29/05/2026
 
 [View](/ro/documents/product-information/teriflunomide-viatris-epar-product-information_ro.pdf)
 
-slovenčina (SK) (756.06 KB - PDF)
+slovenčina (SK) (692.72 KB - PDF)
 
-**First published:** 22/11/2022 **Last updated:** 08/05/2026
+**First published:** 22/11/2022 **Last updated:** 29/05/2026
 
 [View](/sk/documents/product-information/teriflunomide-viatris-epar-product-information_sk.pdf)
 
-slovenščina (SL) (677.14 KB - PDF)
+slovenščina (SL) (385.42 KB - PDF)
 
-**First published:** 22/11/2022 **Last updated:** 08/05/2026
+**First published:** 22/11/2022 **Last updated:** 29/05/2026
 
 [View](/sl/documents/product-information/teriflunomide-viatris-epar-product-information_sl.pdf)
 
-Suomi (FI) (339.14 KB - PDF)
+Suomi (FI) (531.44 KB - PDF)
 
-**First published:** 22/11/2022 **Last updated:** 08/05/2026
+**First published:** 22/11/2022 **Last updated:** 29/05/2026
 
 [View](/fi/documents/product-information/teriflunomide-viatris-epar-product-information_fi.pdf)
 
-svenska (SV) (532.55 KB - PDF)
+svenska (SV) (384.87 KB - PDF)
 
-**First published:** 22/11/2022 **Last updated:** 08/05/2026
+**First published:** 22/11/2022 **Last updated:** 29/05/2026
 
 [View](/sv/documents/product-information/teriflunomide-viatris-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000325156
+**Latest procedure affecting product information:** VR/0000325417
 
-05/05/2026
+21/05/2026
 
 icon globe
 
@@ -428,7 +428,7 @@ English (EN) (12.21 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/teriflunomide-viatris-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-739)
+[Other languages (24)](#file-language-dropdown-711)
 
 български (BG) (73.18 KB - PDF)
 
@@ -631,7 +631,7 @@ Marketing authorisation issued
 
 Revision
 
-7
+8
 
 ## Assessment history
 
@@ -643,9 +643,9 @@ Collapse section
 
 Teriflunomide Viatris : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (134.28 KB - PDF)
+English (EN) (149.03 KB - PDF)
 
-**First published:** 11/12/2025 **Last updated:** 08/05/2026
+**First published:** 11/12/2025 **Last updated:** 29/05/2026
 
 [View](/en/documents/procedural-steps-after/teriflunomide-viatris-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -707,7 +707,7 @@ English (EN) (66.45 KB - PDF)
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-111)
+[Other languages (22)](#file-language-dropdown-388)
 
 български (BG) (93.16 KB - PDF)
 
@@ -843,6 +843,6 @@ svenska (SV) (67.11 KB - PDF)
 
 **This page was last updated on**
 
-08/05/2026
+29/05/2026
 
 ## Share this page

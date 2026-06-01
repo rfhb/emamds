@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-04-08 16:01:00
+document_datetime: 2026-05-26 14:08:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/fycompa.html
 document_name: fycompa.html
 version: success
-processing_time: 0.1307447
-conversion_datetime: 2026-04-09 12:21:25.95365
+processing_time: 0.1461236
+conversion_datetime: 2026-06-01 16:58:45.006948
 docling_version:
-  docling-serve: 1.15.1
-  docling-jobkit: 1.14.0
-  docling: 2.82.0
-  docling-core: 2.70.2
-  docling-ibm-models: 3.13.0
-  docling-parse: 5.6.1
+  docling-serve: 1.20.0
+  docling-jobkit: 1.20.1
+  docling: 2.96.1
+  docling-core: 2.78.0
+  docling-ibm-models: 3.13.2
+  docling-parse: 6.2.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
 ---
 # Fycompa
 
@@ -106,7 +106,7 @@ English (EN) (134.75 KB - PDF)
 
 [View](/en/documents/overview/fycompa-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-828)
+[Other languages (22)](#file-language-dropdown-594)
 
 български (BG) (159.72 KB - PDF)
 
@@ -252,161 +252,161 @@ English (EN) (750.94 KB - PDF)
 
 Fycompa : EPAR - Product Information
 
-English (EN) (735.79 KB - PDF)
+English (EN) (735.19 KB - PDF)
 
-**First published:** 07/08/2012 **Last updated:** 10/05/2023
+**First published:** 07/08/2012 **Last updated:** 26/05/2026
 
 [View](/en/documents/product-information/fycompa-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-596)
+[Other languages (24)](#file-language-dropdown-499)
 
-български (BG) (786.29 KB - PDF)
+български (BG) (900.56 KB - PDF)
 
-**First published:** 07/08/2012 **Last updated:** 10/05/2023
+**First published:** 07/08/2012 **Last updated:** 26/05/2026
 
 [View](/bg/documents/product-information/fycompa-epar-product-information_bg.pdf)
 
-español (ES) (675.39 KB - PDF)
+español (ES) (758.34 KB - PDF)
 
-**First published:** 07/08/2012 **Last updated:** 10/05/2023
+**First published:** 07/08/2012 **Last updated:** 26/05/2026
 
 [View](/es/documents/product-information/fycompa-epar-product-information_es.pdf)
 
-čeština (CS) (849.52 KB - PDF)
+čeština (CS) (611.73 KB - PDF)
 
-**First published:** 07/08/2012 **Last updated:** 10/05/2023
+**First published:** 07/08/2012 **Last updated:** 26/05/2026
 
 [View](/cs/documents/product-information/fycompa-epar-product-information_cs.pdf)
 
-dansk (DA) (748.52 KB - PDF)
+dansk (DA) (813.64 KB - PDF)
 
-**First published:** 07/08/2012 **Last updated:** 10/05/2023
+**First published:** 07/08/2012 **Last updated:** 26/05/2026
 
 [View](/da/documents/product-information/fycompa-epar-product-information_da.pdf)
 
-Deutsch (DE) (869.78 KB - PDF)
+Deutsch (DE) (806.94 KB - PDF)
 
-**First published:** 07/08/2012 **Last updated:** 10/05/2023
+**First published:** 07/08/2012 **Last updated:** 26/05/2026
 
 [View](/de/documents/product-information/fycompa-epar-product-information_de.pdf)
 
-eesti keel (ET) (860.36 KB - PDF)
+eesti keel (ET) (813.45 KB - PDF)
 
-**First published:** 07/08/2012 **Last updated:** 10/05/2023
+**First published:** 07/08/2012 **Last updated:** 26/05/2026
 
 [View](/et/documents/product-information/fycompa-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.15 MB - PDF)
+ελληνικά (EL) (884 KB - PDF)
 
-**First published:** 07/08/2012 **Last updated:** 10/05/2023
+**First published:** 07/08/2012 **Last updated:** 26/05/2026
 
 [View](/el/documents/product-information/fycompa-epar-product-information_el.pdf)
 
-français (FR) (865.04 KB - PDF)
+français (FR) (927.65 KB - PDF)
 
-**First published:** 07/08/2012 **Last updated:** 10/05/2023
+**First published:** 07/08/2012 **Last updated:** 26/05/2026
 
 [View](/fr/documents/product-information/fycompa-epar-product-information_fr.pdf)
 
-hrvatski (HR) (777.89 KB - PDF)
+hrvatski (HR) (874.19 KB - PDF)
 
-**First published:** 07/08/2012 **Last updated:** 10/05/2023
+**First published:** 07/08/2012 **Last updated:** 26/05/2026
 
 [View](/hr/documents/product-information/fycompa-epar-product-information_hr.pdf)
 
-íslenska (IS) (683.88 KB - PDF)
+íslenska (IS) (482.66 KB - PDF)
 
-**First published:** 07/08/2012 **Last updated:** 10/05/2023
+**First published:** 07/08/2012 **Last updated:** 26/05/2026
 
 [View](/is/documents/product-information/fycompa-epar-product-information_is.pdf)
 
-italiano (IT) (615.37 KB - PDF)
+italiano (IT) (765.61 KB - PDF)
 
-**First published:** 07/08/2012 **Last updated:** 10/05/2023
+**First published:** 07/08/2012 **Last updated:** 26/05/2026
 
 [View](/it/documents/product-information/fycompa-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (897.37 KB - PDF)
+latviešu valoda (LV) (617.24 KB - PDF)
 
-**First published:** 07/08/2012 **Last updated:** 10/05/2023
+**First published:** 07/08/2012 **Last updated:** 26/05/2026
 
 [View](/lv/documents/product-information/fycompa-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (703.36 KB - PDF)
+lietuvių kalba (LT) (818.32 KB - PDF)
 
-**First published:** 07/08/2012 **Last updated:** 10/05/2023
+**First published:** 07/08/2012 **Last updated:** 26/05/2026
 
 [View](/lt/documents/product-information/fycompa-epar-product-information_lt.pdf)
 
-magyar (HU) (767.09 KB - PDF)
+magyar (HU) (843.9 KB - PDF)
 
-**First published:** 07/08/2012 **Last updated:** 10/05/2023
+**First published:** 07/08/2012 **Last updated:** 26/05/2026
 
 [View](/hu/documents/product-information/fycompa-epar-product-information_hu.pdf)
 
-Malti (MT) (909.32 KB - PDF)
+Malti (MT) (658.36 KB - PDF)
 
-**First published:** 07/08/2012 **Last updated:** 10/05/2023
+**First published:** 07/08/2012 **Last updated:** 26/05/2026
 
 [View](/mt/documents/product-information/fycompa-epar-product-information_mt.pdf)
 
-Nederlands (NL) (836.2 KB - PDF)
+Nederlands (NL) (719.74 KB - PDF)
 
-**First published:** 07/08/2012 **Last updated:** 10/05/2023
+**First published:** 07/08/2012 **Last updated:** 26/05/2026
 
 [View](/nl/documents/product-information/fycompa-epar-product-information_nl.pdf)
 
-norsk (NO) (756.07 KB - PDF)
+norsk (NO) (512.96 KB - PDF)
 
-**First published:** 07/08/2012 **Last updated:** 10/05/2023
+**First published:** 07/08/2012 **Last updated:** 26/05/2026
 
 [View](/no/documents/product-information/fycompa-epar-product-information_no.pdf)
 
-polski (PL) (889.05 KB - PDF)
+polski (PL) (892.74 KB - PDF)
 
-**First published:** 07/08/2012 **Last updated:** 10/05/2023
+**First published:** 07/08/2012 **Last updated:** 26/05/2026
 
 [View](/pl/documents/product-information/fycompa-epar-product-information_pl.pdf)
 
-português (PT) (792.21 KB - PDF)
+português (PT) (759.1 KB - PDF)
 
-**First published:** 07/08/2012 **Last updated:** 10/05/2023
+**First published:** 07/08/2012 **Last updated:** 26/05/2026
 
 [View](/pt/documents/product-information/fycompa-epar-product-information_pt.pdf)
 
-română (RO) (1013.66 KB - PDF)
+română (RO) (915.13 KB - PDF)
 
-**First published:** 07/08/2012 **Last updated:** 10/05/2023
+**First published:** 07/08/2012 **Last updated:** 26/05/2026
 
 [View](/ro/documents/product-information/fycompa-epar-product-information_ro.pdf)
 
-slovenčina (SK) (885.51 KB - PDF)
+slovenčina (SK) (869.19 KB - PDF)
 
-**First published:** 07/08/2012 **Last updated:** 10/05/2023
+**First published:** 07/08/2012 **Last updated:** 26/05/2026
 
 [View](/sk/documents/product-information/fycompa-epar-product-information_sk.pdf)
 
-slovenščina (SL) (832.16 KB - PDF)
+slovenščina (SL) (836 KB - PDF)
 
-**First published:** 07/08/2012 **Last updated:** 10/05/2023
+**First published:** 07/08/2012 **Last updated:** 26/05/2026
 
 [View](/sl/documents/product-information/fycompa-epar-product-information_sl.pdf)
 
-Suomi (FI) (784.99 KB - PDF)
+Suomi (FI) (663.41 KB - PDF)
 
-**First published:** 07/08/2012 **Last updated:** 10/05/2023
+**First published:** 07/08/2012 **Last updated:** 26/05/2026
 
 [View](/fi/documents/product-information/fycompa-epar-product-information_fi.pdf)
 
-svenska (SV) (757.59 KB - PDF)
+svenska (SV) (480.76 KB - PDF)
 
-**First published:** 07/08/2012 **Last updated:** 10/05/2023
+**First published:** 07/08/2012 **Last updated:** 26/05/2026
 
 [View](/sv/documents/product-information/fycompa-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** PSUSA/00009255/202207
+**Latest procedure affecting product information:** PSUR/0000311160
 
-27/04/2023
+21/05/2026
 
 icon globe
 
@@ -430,7 +430,7 @@ English (EN) (27.88 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/fycompa-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-722)
+[Other languages (24)](#file-language-dropdown-651)
 
 български (BG) (49.79 KB - PDF)
 
@@ -631,7 +631,7 @@ Marketing authorisation issued
 
 Revision
 
-35
+36
 
 ## Assessment history
 
@@ -643,11 +643,29 @@ Collapse section
 
 Fycompa : EPAR - Procedural steps taken and scientific information after authorisation
 
+English (EN) (171.75 KB - PDF)
+
+**First published:** 26/05/2026
+
+[View](/en/documents/procedural-steps-after/fycompa-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+
+Fycompa : EPAR - Procedural steps taken and scientific information after authorisation (archive)
+
 English (EN) (227.29 KB - PDF)
 
-**First published:** 17/10/2012 **Last updated:** 10/05/2023
+**First published:** 17/10/2012 **Last updated:** 26/05/2026
 
-[View](/en/documents/procedural-steps-after/fycompa-epar-procedural-steps-taken-and-scientific-information-after-authorisation_en.pdf)
+[View](/en/documents/procedural-steps-after/fycompa-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
+
+Fycompa-PSUSA-00009255-202507 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
+
+Reference Number: EMADOC-1700519818-3024888
+
+English (EN) (200.02 KB - PDF)
+
+**First published:** 26/05/2026
+
+[View](/en/documents/scientific-conclusion/fycompa-psusa-00009255-202507-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
 
 Fycompa-H-C-002434-P46-030 : EPAR - Assessment report
 
@@ -894,6 +912,6 @@ English (EN) (71.89 KB - PDF)
 
 **This page was last updated on**
 
-08/04/2026
+26/05/2026
 
 ## Share this page

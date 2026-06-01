@@ -1,20 +1,20 @@
 ---
-document_datetime: 2024-10-16 11:51:48
+document_datetime: 2026-05-29 12:31:33
 document_pages: 34
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/vyepti-epar-product-information_en.pdf
 document_name: vyepti-epar-product-information_en.pdf
 version: success
-processing_time: 7.3793132
-conversion_datetime: 2025-12-15 19:48:56.052198
+processing_time: 11.3062884
+conversion_datetime: 2026-06-01 17:07:47.849564
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.20.0
+  docling-jobkit: 1.20.1
+  docling: 2.96.1
+  docling-core: 2.78.0
+  docling-ibm-models: 3.13.2
+  docling-parse: 6.2.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -44,7 +44,7 @@ Each vial of concentrate contains 300 mg eptinezumab per 3 mL.
 
 Eptinezumab is a humanized monoclonal antibody produced in Pichia pastoris yeast cells.
 
-Excipient(s) with known effect
+## Excipient(s) with known effect
 
 This medicinal product contains 40.5 mg of sorbitol in each mL and 0.15 mg of polysorbate 80 in each mL.
 
@@ -118,7 +118,7 @@ In order to improve the traceability of biological medicinal products, the name 
 
 ## Patients with cardiovascular, neurological or psychiatric diseases
 
-Patients with a history of cardiovascular disease (e.g. hypertension, ischemic heart disease) were excluded from clinical studies (see section 5.1). No safety data are available in these patients. Limited safety data are available in patients with cardiovascular risk factors such as diabetes, circulatory diseases and hyperlipidaemia.
+Patients with a history of clinical significant cardiovascular disease (e.g. ischemic heart disease, cerebrovascular disease, vascular ischemia or thromboembolic events) were excluded from the clinical studies (see section 5.1). Limited safety data are available in patients with cardiovascular disease and/or cardiovascular risk factors such as diabetes, circulatory diseases and hyperlipidaemia.
 
 Patients with a history of neurological diseases or patients with psychiatric conditions that were uncontrolled and/or untreated were excluded from the clinical studies. Limited safety data are available in these patients.
 
@@ -162,39 +162,30 @@ VYEPTI has no or negligible influence on the ability to drive and use machines.
 
 ## Summary of the safety profile
 
-Over 2 000 patients have been treated with VYEPTI in clinical studies. Of these, approximately 1 000 patients were exposed for 48 weeks (four doses).
-
-The most common adverse reactions were nasopharyngitis and hypersensitivity. Most hypersensitivity reactions occurred during infusion and were not serious. Infusion site related adverse events occurred infrequently and in similar proportions of VYEPTI and placebo patients (&lt; 2%) with no apparent relationship to VYEPTI dose. The most frequently occurring infusion-site related adverse event was infusion site extravasation, which occurred in &lt; 1% of VYEPTI and placebo patients.
+Over 5 900 patients have been treated with VYEPTI in clinical studies. Of these, approximately 3 000 patients have been exposed for at least 6 months and 1 600 exposed for at least 1 year. Common adverse reactions in the placebo-controlled clinical studies for the preventive treatment of migraine were hypersensitivity and infusion-related reactions (see below). Most hypersensitivity reactions occurred during infusion and were not serious. Infusion site related adverse events occurred infrequently and in similar proportions of VYEPTI and placebo patients (&lt; 1%) with no apparent relationship to VYEPTI dose. The most frequently occurring infusion-site related adverse event was infusion site extravasation, which occurred in ≤ 0.5% of VYEPTI and placebo patients.
 
 ## Tabulated list of adverse reactions
 
-Adverse reactions from clinical trials and post-marketing experience (table 1)  are classified by MedDRA system organ classification and frequency. Frequencies have been evaluated according to the following conventi on: very common (≥1/10); common (≥1/100 to &lt;1/10); uncommon (≥1/1 000 to &lt;1/100) ; rare (≥1/10 000 to &lt;1/1 000); very rare (&lt;1/10 000).
+Adverse reactions from clinical trials and post-marketing experience (table 1) are classified by MedDRA system organ classification and frequency. Frequencies have been evaluated according to the following convention: very common (≥1/10); common (≥1/100 to &lt;1/10); uncommon (≥1/1 000 to &lt;1/100); rare (≥1/10 000 to &lt;1/1 000); very rare (&lt;1/10 000).
 
 Table 1: List of Adverse Reactions
 
 | System organ class                                   | Adverse reaction preferred term   | Frequency category   |
 |------------------------------------------------------|-----------------------------------|----------------------|
-| Infections and infestations                          | Nasopharyngitis                   | Common               |
 | Immune system disorders                              | Hypersensitivity reactions        | Common               |
-| Immune system disorders                              | Anaphylactic reaction 1           | Uncommon             |
+| Immune system disorders                              | Anaphylactic reaction             | Uncommon             |
 | General disorders and administration site conditions | Infusion-related reaction         | Common               |
 | General disorders and administration site conditions | Fatigue                           | Common               |
 
-1 Not reported in PROMISE 1 and PROMISE 2, but reported in other studies and in the post-marketing setting.
-
 ## Description of selected adverse reactions
-
-## Nasopharyngitis
-
-Approximately 8% of patients on 300 mg, 6% of patients on 100 mg and 6% of patients on placebo in PROMISE 1 and PROMISE 2 experienced nasopharyngitis. Nasopharyngitis was most frequent after the first dose of VYEPTI at any dose. The incidence decreased notably with subsequent doses and remained fairly steady thereafter.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Hypersensitivity and infusion-related reactions
 
-Serious hypersensitivity reactions, including anaphylactic reactions, have been reported and may develop within minutes of the infusion (see section 4.4). The reported anaphylactic reactions have included symptoms of hypotension and respiratory difficulties, and have led to discontinuation of VYEPTI.  Other hypersensitivity reactions, including angioedema, urticaria, flushing, rash and pruritus, were reported in approximately 4% of patients on 300 mg, 3% of patients on 100 mg and 1% of patients on placebo in PROMISE 1 and PROMISE 2.
+Serious hypersensitivity reactions, including anaphylactic reactions, have been reported and may develop within minutes of the infusion (see section 4.4). The reported anaphylactic reactions have included symptoms of hypotension and respiratory difficulties, and have led to discontinuation of VYEPTI. In clinical studies, other hypersensitivity reactions, including angioedema, urticaria, flushing, rash and pruritus, were reported in approximately 4% and 3% of patients on the 300 mg and 100 mg dose, respectively, and 2% of patients on placebo (saline).
 
 Other symptoms reported in association with eptinezumab infusion include respiratory symptoms (nasal congestion, rhinorrhea, throat irritation, cough, sneezing, dyspnea) and fatigue (see below). Most of these events were non-serious and transient in nature.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Fatigue
 
@@ -202,11 +193,11 @@ Approximately 3% of patients on eptinezumab and 2% of patients on placebo in the
 
 ## Immunogenicity
 
-In the clinical studies, PROMISE 1 (up to 56 weeks) and PROMISE 2 (up to 32 weeks), the incidence of anti-eptinezumab antibodies across both studies was 18% (105/579) and 20% (115/574) in patients receiving 100 mg and 300 mg every 12 weeks, respectively. In both studies, the incidence of antieptinezumab antibodies peaked at week 24 and thereafter showed a steady decline even after subsequent dosing every 12 weeks. The incidence of neutralizing antibodies across both studies was 8.3% (48/579) and 6.1% (35/574) for the 100 mg and 300 mg treatment groups, respectively.
+In the pivotal placebo-controlled  studies with treatment durations ranging from 3 to 12 months, the incidence of ADAs and NAbs across the studies was 15.4% and 6.3% respectively. The ADAs peaked at week 24 and thereafter showed a steady decline even after subsequent dosing every 12 weeks.
 
-In an open-label study, PREVAIL (up to 96 weeks of treatment with 300 mg VYEPTI every 12 weeks), 18% (23/128) of patients developed anti-eptinezumab antibodies with an overall incidence of neutralizing antibodies of 7% (9/128). 5.3% patients were ADA positive at week 48, 4% were ADA positive at week 72, and all patients, except one patient lost to follow up, were ADA negative at week 104 (the last assessment in the study).
+In the long-term, repeat dose studies with treatment durations of at least 1 year, the incidence of ADAs and NAbs ranged from 18% - 21% and 4% - 7%, respectively. In PREVAIL where patients received up to 8 infusions, ADAs developed in 18% of patients and NAbs developed in 7% of patients. 5.3% of patients were ADA positive at week 48, 4% were ADA positive at week 72, and all patients, except one patient lost to follow up, were ADA negative at week 104 (the last assessment in the study).
 
-In the clinical studies, eptinezumab trough plasma concentrations appeared lower in patients who developed anti-eptinezumab antibodies. There was no evidence of impact of anti-eptinezumab antibody development on efficacy or safety in the clinical studies.
+In the clinical studies, eptinezumab trough plasma concentrations appeared lower in patients who developed anti-eptinezumab antibodies. There was no evidence of impact of anti-eptinezumab antibody development on efficacy or safety in clinical studies.
 
 ## Reporting of suspected adverse reactions
 
@@ -218,8 +209,6 @@ Doses up to 1 000 mg have been administered intravenously to humans without tole
 
 In the event of an overdose, the patient should be treated symptomatically, and supportive measures instituted as required.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 5. PHARMACOLOGICAL PROPERTIES
 
 ## 5.1 Pharmacodynamic properties
@@ -228,11 +217,13 @@ Pharmacotherapeutic group: analgesics, calcitonin gene-related peptide (CGRP) an
 
 ## Mechanism of action
 
-Eptinezumab is a recombinant humanized immunoglobulin G1 (IgG1) antibody that binds to α -and β -forms of human calcitonin gene-related peptide (CGRP) ligand with low picomolar affinity (4 and 3 pM Kd, respectively). Eptinezumab prevents the activation of the CGRP receptors and hence the downstream cascade of physiological events linked to initiation of migraine attacks.
+Eptinezumab is a recombinant humanized immunoglobulin G1 (IgG1) antibody that binds to α- and βforms of human calcitonin gene-related peptide (CGRP) ligand with low picomolar affinity (4 and 3 pM Kd, respectively). Eptinezumab prevents the activation of the CGRP receptors and hence the downstream cascade of physiological events linked to initiation of migraine attacks.
 
-Eptinezumab inhibits α and β - CGRP-mediated neurogenic inflammation and vasodilation.
+Eptinezumab inhibits α and β- CGRP-mediated neurogenic inflammation and vasodilation.
 
 Eptinezumab is highly selective (&gt;100 000-fold vs related neuropeptides amylin, calcitonin, adrenomedullin and intermedin).
+
+<div style=\"page-break-after: always\"></div>
 
 ## Clinical efficacy and safety
 
@@ -242,7 +233,7 @@ VYEPTI (eptinezumab) was evaluated for the preventive treatment of migraine in t
 
 PROMISE 1 was a parallel group, double-blind, placebo-controlled study to evaluate the efficacy and safety of VYEPTI for the preventive treatment of episodic migraine in adults. 665 patients were randomized to receive placebo (N=222), 100 mg eptinezumab (N=221), or 300 mg eptinezumab (N=222) every 12 weeks for 48 weeks (4 infusions). Episodic migraine was defined as ≥4 and ≤14 headache days of which at least 4 had to be migraine days in each 28-day period in the 3 months prior to screening and confirmed during baseline period. Patients were allowed concurrent acute migraine or headache medications, including migraine-specific medications (i.e., triptans, ergotamine derivatives), during the study. Regular use (greater than 7 days per month) of other treatments for the prevention of migraine was not allowed.
 
-The primary efficacy endpoint was the change from baseline in mean monthly migraine days (MMD) over weeks 112. The key secondary endpoints included ≥50% and ≥75% migraine responder rates defined as the proportion of patients achieving at least the specified percent reduction in migraine days over weeks 112, ≥75% migraine responder rate over weeks 1-4, and the percentage of patients with a migraine on the day after the first dosing (day 1).
+The primary efficacy endpoint was the change from baseline in mean monthly migraine days (MMD) over weeks 1-12. The key secondary endpoints included ≥50% and ≥75% migraine responder rates defined as the proportion of patients achieving at least the specified percent reduction in migraine days over weeks 1-12, ≥75% migraine responder rate over weeks 1-4, and the percentage of patients with a migraine on the day after the first dosing (day 1).
 
 Patients had a mean age of 40 years (range: 18 to 71 years), 84% were women, and 84% were white. At baseline the mean number of migraine days per month at baseline was 8.6 and the rate of patients with a migraine on a given day was 31%; both were similar across treatment groups.
 
@@ -285,11 +276,11 @@ Table 2: Primary and key secondary efficacy endpoint results in PROMISE 1 (episo
 
 ## PROMISE 2: chronic migraine
 
-PROMISE 2 was a parallel group, double-blind, placebo-controlled global study to evaluate the efficacy and safety of VYEPTI for the preventive treatment of chronic migraine in adults. A total of 1,072 patients were randomized and received placebo (N=366), 100 mg eptinezumab (N=356), or 300 mg eptinezumab (N=350) every 12 weeks for 24 weeks (2 infusions). Chronic migraine was defined as ≥ 1 5 to ≤26 headache days, of which ≥8 were assessed as migraine days in the 3 months prior to screening and confirmed during the 28-day screening period. During the study, patients were allowed acute or preventive medication for migraine or headache on an established stable regimen (except for onabotulinumtoxinA).
+PROMISE 2 was a parallel group, double-blind, placebo-controlled global study to evaluate the efficacy and safety of VYEPTI for the preventive treatment of chronic migraine in adults. A total of 1,072 patients were randomized and received placebo (N=366), 100 mg eptinezumab (N=356), or 300 mg eptinezumab (N=350) every 12 weeks for 24 weeks (2 infusions). Chronic migraine was defined as ≥ 15 to ≤26 headache days, of which ≥8 were assessed as migraine days in the 3 months prior to screening and confirmed during the 28-day screening period. During the study, patients were allowed acute or preventive medication for migraine or headache on an established stable regimen (except for onabotulinumtoxinA).
 
 A total of 431 patients (40%) with a dual diagnosis of chronic migraine and medication overuse headache (associated with the overuse of triptans, ergotamine, or combination analgesics &gt;10 days/month, or acetaminophen, acetylsalicylic acid, or non-steroidal anti-inflammatory drugs ≥15 days/month) confirmed during screening period were included in the study population.
 
-The primary efficacy endpoint was the change from baseline in mean MMD over weeks 1-12. The key secondary endpoints included ≥50% and ≥75% migraine responder rates defined as the proportion of patients achieving the specified percent reduction in migraine days over weeks 112, ≥75% migraine responder rate over weeks 1-4, the percentage of patients with a migraine on the day after dosing, the reduction in migraine prevalence from baseline to week 4, the change from baseline in the total score on the Headache Impact Test (HIT-6) at week 12 (300 mg dose only), and the change from baseline in acute monthly migraine medication days, mean over weeks 1-12 (300 mg dose only). Patients had a mean age of 41 years (range: 18 to 65 years), 88% were women, and 91% were white. Forty-one percent of patients were taking concomitant preventive medication for migraine. At baseline the mean number of migraine days per month at baseline was 16.1 and the rate of patients with a migraine on a given day was 57.6%; both were similar across treatment groups.
+The primary efficacy endpoint was the change from baseline in mean MMD over weeks 1-12. The key secondary endpoints included ≥50% and ≥75% migraine responder rates defined as the proportion of patients achieving the specified percent reduction in migraine days over weeks 1-12, ≥75% migraine responder rate over weeks 1-4, the percentage of patients with a migraine on the day after dosing, the reduction in migraine prevalence from baseline to week 4, the change from baseline in the total score on the Headache Impact Test (HIT-6) at week 12 (300 mg dose only), and the change from baseline in acute monthly migraine medication days, mean over weeks 1-12 (300 mg dose only). Patients had a mean age of 41 years (range: 18 to 65 years), 88% were women, and 91% were white. Forty-one percent of patients were taking concomitant preventive medication for migraine. At baseline the mean number of migraine days per month at baseline was 16.1 and the rate of patients with a migraine on a given day was 57.6%; both were similar across treatment groups.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -342,7 +333,7 @@ Table 3: Primary and key secondary efficacy endpoint results in PROMISE 2 (chron
 
 a The endpoint for the 100 mg dose was not a pre-specified key secondary endpoint.
 
-b A baseline was the average over the 28-day screening period prior to receiving treatment
+b  A baseline was the average over the 28-day screening period prior to receiving treatment
 
 <div style=\"page-break-after: always\"></div>
 
@@ -356,7 +347,7 @@ VYEPTI has been evaluated in an efficacy and safety study (DELIVER) in patients 
 
 The study showed that VYEPTI treatment led to a mean reduction in monthly migraine days (MMD) over Week 1-12: -4.8 in VYEPTI 100 mg group and -5.3 in the VYEPTI 300 mg group, compared to 2.1 in the placebo group, corresponding to a difference from placebo of -2.7 days (95% CI: -3.4 to 2.0) and -3.2 days (95% CI: -3.9 to -2.5), respectively.
 
-The study also showed that ≥50% reduction in MMD over Week 1 -12 was achieved for 42% in the VYEPTI 100 mg group and for 50% in the VYEPTI 300 mg group, compared to 13% in the placebo group. The ≥75% reduction in MMD over Week 1 -12 was achieved in 16% in the VYEPTI 100 mg group and 19% in the VYEPTI 300 mg group, compared to 2% of subjects in the placebo group.
+The study also showed that ≥50% reduction in MMD over Week 1-12 was achieved for 42% in the VYEPTI 100 mg group and for 50% in the VYEPTI 300 mg group, compared to 13% in the placebo group. The ≥75% reduction in MMD over Week 1-12 was achieved in 16% in the VYEPTI 100 mg group and 19% in the VYEPTI 300 mg group, compared to 2% of subjects in the placebo group.
 
 The demonstrated efficacy in the placebo-controlled treatment period was sustained for up to 72 weeks of VYEPTI treatment in the extension period.
 
@@ -384,7 +375,7 @@ The European Medicines Agency has deferred the obligation to submit the results 
 
 ## 5.2 Pharmacokinetic properties
 
-As VYEPTI is administered intravenously, it is 100% bioavailable. Eptinezumab exhibits linear pharmacokinetics and exposure increases proportionally with doses from 10 to 1 000 mg. Steady-state is attained after the first-dose during a once every 12 weeks dosing schedule. Median time to maximum concentration (Cmax) is 30 minutes (end-of-infusion), and the average terminal elimination half-life is 27 days. The mean accumulation ratios based on Cmax and AUC0-tau are 1.08 and 1.15, respectively.
+As VYEPTI is administered intravenously, it is 100% bioavailable. Eptinezumab exhibits linear pharmacokinetics and exposure increases proportionally with doses from 10 to 1 000 mg. Steady-state is attained after the first-dose during a once every 12 weeks dosing schedule. Median time to maximum concentration (Cmax) is 30 minutes (end-of-infusion), and the average terminal elimination half-life is 27 days. The mean accumulation ratios based on C max and AUC 0-tau are 1.08 and 1.15, respectively.
 
 ## Absorption
 
@@ -494,7 +485,7 @@ Infusion administration instructions
 
 Parenteral medicinal products should be inspected visually for particulate matter and discoloration prior to administration. Do not use if the liquid contains visible particulate matter or is cloudy or discoloured.
 
-Infuse VYEPTI 100 mg dose or VYEPTI 300 mg dose as prescribed, following dilution of the vial content in a 100 mL bag of 0.9% sodium chloride for injection, over approximately 30 minutes. Use an intravenous infusion set with a 0.2 or 0.22 μm in -line or add-on filter. After the infusion is complete, flush the line with 20 mL of 0.9% sodium chloride for injection.
+Infuse VYEPTI 100 mg dose or VYEPTI 300 mg dose as prescribed, following dilution of the vial content in a 100 mL bag of 0.9% sodium chloride for injection, over approximately 30 minutes. Use an intravenous infusion set with a 0.2 or 0.22 μm in-line or add-on filter. After the infusion is complete, flush the line with 20 mL of 0.9% sodium chloride for injection.
 
 Do not administer VYEPTI as a bolus injection.
 
@@ -504,15 +495,15 @@ Any unused medicinal product or waste material should be disposed in accordance 
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-H. Lundbeck A/S Ottiliavej 9 2500 Valby
+H. Lundbeck A/S
+
+Ottiliavej 9 2500 Valby
 
 Denmark
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/21/1599/001 EU/1/21/1599/002
-
-EU/1/21/1599/003
+EU/1/21/1599/001 EU/1/21/1599/002 EU/1/21/1599/003
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -528,11 +519,12 @@ Detailed information on this medicinal product is available on the website of th
 
 ## ANNEX II
 
-- A. MANUFACTURER(S) OF THE BIOLOGICAL ACTIVE SUBSTANCE(S)
-
-## AND MANUFACTURER(S) RESPONSIBLE FOR BATCH RELEASE B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE
-
+- A. MANUFACTURER(S) OF THE BIOLOGICAL ACTIVE SUBSTANCE(S) AND MANUFACTURER(S) RESPONSIBLE FOR BATCH RELEASE
+- B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
+- C. AUTHORISATION
 - D. AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
+
+## OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE
 
 <div style=\"page-break-after: always\"></div>
 
@@ -546,7 +538,9 @@ Austria
 
 Name and address of the manufacturer(s) responsible for batch release
 
-H. Lundbeck A/S Ottiliavej 9 2500 Valby Denmark
+H. Lundbeck A/S
+
+Ottiliavej 9 2500 Valby Denmark
 
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
@@ -554,20 +548,20 @@ Medicinal product subject to restricted medical prescription (see Annex I: Summa
 
 ## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
-## · Periodic safety update reports (PSURs)
+##  Periodic safety update reports (PSURs)
 
 The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
-## · Risk management plan (RMP)
+##  Risk management plan (RMP)
 
 The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP.
 
 An updated RMP should be submitted:
 
-- At the request of the European Medicines Agency;
-- Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
+-  At the request of the European Medicines Agency;
+-  Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -639,11 +633,7 @@ Keep the vial in the outer carton in order to protect from light.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-H. Lundbeck A/S
-
-Ottiliavej 9
-
-2500 Valby
+H. Lundbeck A/S Ottiliavej 9 2500 Valby
 
 Denmark
 
@@ -659,7 +649,7 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-## 15. INSTRUCTIONS ON USE
+15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -699,8 +689,7 @@ Lot
 
 1 mL
 
-| 6.   | OTHER   |
-|------|---------|
+## 6. OTHER
 
 <div style=\"page-break-after: always\"></div>
 
@@ -742,8 +731,6 @@ Keep out of the sight and reach of children.
 
 EXP
 
-<div style=\"page-break-after: always\"></div>
-
 ## 9. SPECIAL STORAGE CONDITIONS
 
 Store in a refrigerator.
@@ -782,11 +769,11 @@ Justification for not including Braille accepted.
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC
-
-SN
+PC SN
 
 NN
+
+<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -820,16 +807,18 @@ Lot
 
 ## Package leaflet: Information for the patient
 
-## VYEPTI 100 mg concentrate for solution for infusion VYEPTI 300 mg concentrate for solution for infusion eptinezumab
+## VYEPTI 100 mg concentrate for solution for infusion VYEPTI 300 mg concentrate for solution for infusion
+
+## eptinezumab
 
 This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
 
 ## Read all of this leaflet carefully before you are given this medicine because it contains important information for you.
 
-- Keep this leaflet. You may need to read it again.
-- If you have any further questions, ask your doctor or nurse.
-- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- If you get any side effects, talk to your doctor or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+-  Keep this leaflet. You may need to read it again.
+-  If you have any further questions, ask your doctor or nurse.
+-  This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+-  If you get any side effects, talk to your doctor or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -852,7 +841,7 @@ VYEPTI can reduce the number of days with migraine and improve your quality of l
 
 ## Do not use VYEPTI
 
-- if you are allergic to eptinezumab or any of the other ingredients of this medicine (listed in section 6).
+-  if you are allergic to eptinezumab or any of the other ingredients of this medicine (listed in section 6).
 
 ## Warnings and precautions
 
@@ -860,13 +849,13 @@ Talk to your doctor or nurse before being given VYEPTI if you have disease affec
 
 VYEPTI can cause serious allergic reactions. These reactions can develop quickly even while the medicine is being given. Tell your doctor immediately if you get any symptoms of an allergic reaction, such as:
 
-- breathing difficulty
-- a fast or weak pulse or a sudden drop in blood pressure which makes you feel dizzy or lightheaded
+-  breathing difficulty
+-  a fast or weak pulse or a sudden drop in blood pressure which makes you feel dizzy or lightheaded
 
 <div style=\"page-break-after: always\"></div>
 
-- swelling of the lips or tongue
-- severe itching of the skin or rash while you receive VYEPTI, or afterwards
+-  swelling of the lips or tongue
+-  severe itching of the skin or rash while you receive VYEPTI, or afterwards
 
 ## Children and adolescents
 
@@ -926,7 +915,7 @@ Contact your doctor or nurse immediately if you notice any of the following side
 
 Common: may affect up to 1 in 10 people:
 
-## · allergic reactions and other reactions due to the infusion
+##  allergic reactions and other reactions due to the infusion
 
 Reactions can develop quickly during infusion. Symptoms of allergic reactions are:
 
@@ -944,9 +933,7 @@ Other side effects can occur with following frequency:
 
 Common: may affect up to 1 in 10 people:
 
-- stuffy nose
-- sore throat
-- fatigue
+-  fatigue
 
 ## Reporting of side effects
 
@@ -960,7 +947,7 @@ Do not use this medicine after the expiry date which is stated on the label and 
 
 Store in a refrigerator (2°C - 8°C).
 
-## Do not freeze or shake.
+Do not freeze or shake.
 
 Keep the vial in the outer carton in order to protect from light.
 
@@ -968,9 +955,9 @@ If removed from the refrigerator, VYEPTI must be kept at room temperature (below
 
 After dilution, the solution may be stored at room temperature (below 25°C) or in a refrigerator at 2°C - 8°C. The diluted solution for infusion must be given within 8 hours.
 
-<div style=\"page-break-after: always\"></div>
-
 Do not use this medicine if you notice that the solution contains visible particles or is cloudy or discolored.
+
+<div style=\"page-break-after: always\"></div>
 
 Do not throw away any medicines via wastewater. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
 
@@ -1009,15 +996,15 @@ Tél/Tel: +32 2 535 7979
 
 ## Lietuva
 
-H. Lundbeck A/S
+Swixx Biopharma UAB
 
-Tel: +45 36301311(Danija)
-
-lietuva@lundbeck.com
+Tel: +370 5 236 91 40
 
 ## България
 
-Lundbeck Export A/S Representative Office Tel: +359 2 962 4696
+Swixx Biopharma EOOD
+
+Teл.: +359 (0)2 4942 480
 
 ## Luxembourg/Luxemburg
 
@@ -1027,15 +1014,15 @@ Tél: +32 2 535 7979
 
 ## Česká republika
 
-Lundbeck Česká republika s.r.o.
+Swixx Biopharma s.r.o.
 
-Tel: +420 225 275 600
+Tel: +420 242 434 222
 
 ## Magyarország
 
-Lundbeck Hungaria Kft.
+Swixx Biopharma Kft.
 
-Tel: +36 1 4369980
+Tel.: +36 1 9206 570
 
 ## Danmark
 
@@ -1061,31 +1048,19 @@ Lundbeck B.V.
 
 Tel: +31 20 697 1901
 
+<div style=\"page-break-after: always\"></div>
+
 ## Eesti
 
-Lundbeck Eesti AS
+Swixx Biopharma OÜ
 
-Tel: + 372 605 9350
-
-## Norge
-
-H. Lundbeck AS
-
-Tlf: +47 91 300 800
+Tel: +372 640 1030
 
 ## Ελλάδα
 
-Lundbeck Hellas S.A.
+Swixx Biopharma Μ.Α.Ε
 
-Τηλ: +30
-
-210 610 5036
-
-## Österreich
-
-Lundbeck Austria GmbH
-
-Tel: +43 1 253 621 6033
+Τηλ: +30 214 444 9670
 
 ## España
 
@@ -1093,17 +1068,69 @@ Lundbeck España S.A.
 
 Tel: +34 93 494 9620
 
-## Polska
-
-Lundbeck Poland Sp. z o. o.
-
-Tel.: + 48 22 626 93 00
-
 ## France
 
 Lundbeck SAS
 
 Tél: + 33 1 79 41 29 00
+
+## Hrvatska
+
+Swixx Biopharma d.o.o.
+
+Tel: +385 1 2078 500
+
+## Ireland
+
+Lundbeck (Ireland) Limited Tel: +353 1 468 9800
+
+## Ísland
+
+Vistor hf.
+
+Tel: +354 535 7000
+
+## Italia
+
+Lundbeck Italia S.p.A.
+
+Tel: +39 02 677 4171
+
+## Κύπρος
+
+Swixx Biopharma Μ.Α.Ε
+
+Τηλ: +30 214 444 9670
+
+## Latvija
+
+Swixx Biopharma SIA
+
+Tel: +371 6 616 47 50
+
+## This leaflet was last revised in
+
+## Other sources of information
+
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
+
+## Norge
+
+H. Lundbeck AS
+
+Tlf: +47 91 300 800
+
+## Österreich
+
+Lundbeck Austria GmbH
+
+Tel: +43 1 253 621 6033
+
+## Polska
+
+Swixx Biopharma Sp. z o.o.
+
+Tel.: +48 22 4600 720
 
 ## Portugal
 
@@ -1113,45 +1140,23 @@ Unipessoal Lda
 
 Tel: +351 21 00 45 900
 
-## Hrvatska
-
-Lundbeck Croatia d.o.o.
-
-Tel.: + 385 1 6448263
-
 ## România
 
-Lundbeck Romania SRL
+Swixx Biopharma S.R.L
 
-Tel: +40 21319 88 26
-
-## Ireland
-
-Lundbeck (Ireland) Limited Tel: +353 1 468 9800
+Tel: +40 37 1530 850
 
 ## Slovenija
 
-Lundbeck Pharma d.o.o.
+Swixx Biopharma d.o.o.
 
-Tel.: +386 2 229 4500
-
-## Ísland
-
-Vistor hf.
-
-Tel: +354 535 7000
+Tel: +386 1 2355 100
 
 ## Slovenská republika
 
-Lundbeck Slovensko s.r.o.
+Swixx Biopharma s.r.o.
 
-Tel: +421 2 5341 42 18
-
-## Italia
-
-Lundbeck Italia S.p.A.
-
-Tel: +39 02 677 4171
+Tel: +421 2 20833 600
 
 ## Suomi/Finland
 
@@ -1159,33 +1164,11 @@ Oy H. Lundbeck Ab
 
 Puh/Tel: +358 2 276 5000
 
-## Κύπρος
-
-Lundbeck Hellas A.E
-
-Τηλ.: +357 22490305
-
 ## Sverige
 
 H. Lundbeck AB
 
 Tel: +46 40 699 8200
-
-## Latvija
-
-H. Lundbeck A/S
-
-Tel: +45 36301311(Dānija)
-
-latvia@lundbeck.com
-
-<div style=\"page-break-after: always\"></div>
-
-## This leaflet was last revised in
-
-## Other sources of information
-
-Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1207,11 +1190,11 @@ Gently invert the VYEPTI solution for infusion to mix completely. Do not shake.
 
 Following dilution, VYEPTI solution for infusion must be infused within 8 hours. During this time, VYEPTI solution for infusion may be stored at room temperature (below 25°C) or refrigerated at 2°C - 8°C. If stored at 2°C - 8°C, allow the VYEPTI solution for infusion to warm to room temperature prior to infusion. DO NOT FREEZE.
 
-- VYEPTI 100 mg dose
+-  VYEPTI 100 mg dose
 
 To prepare the VYEPTI solution for infusion, withdraw 1.0 mL of VYEPTI from one single-use 100 mg vial using a sterile needle and syringe. Inject the 1.0 mL (100 mg) content into a 100 mL bag of 0.9% sodium chloride for injection
 
-- VYEPTI 300 mg dose
+-  VYEPTI 300 mg dose
 
 To prepare the VYEPTI solution for infusion, withdraw 1.0 mL of VYEPTI from 3 single-use 100 mg vials or 3.0 mL of VYEPTI from one single-use 300 mg vial using a sterile needle and syringe. Inject the resulting 3.0 mL (300 mg) content into a 100 mL bag of 0.9% sodium chloride for injection.
 
@@ -1219,7 +1202,7 @@ To prepare the VYEPTI solution for infusion, withdraw 1.0 mL of VYEPTI from 3 si
 
 Parenteral medicinal products should be inspected visually for particulate matter and discoloration prior to administration. Do not use if the liquid contains visible particulate matter or is cloudy or discolored.
 
-Infuse VYEPTI 100 mg dose or VYEPTI 300 mg dose as prescribed, following dilution of the vial content in a 100 mL bag of 0.9% sodium chloride for injection, over approximately 30 minutes. Use an intravenous infusion set with a 0.2 or 0.22 μm in -line or add-on filter. After the infusion is complete, flush the line with 20 mL of 0.9% sodium chloride for injection.
+Infuse VYEPTI 100 mg dose or VYEPTI 300 mg dose as prescribed, following dilution of the vial content in a 100 mL bag of 0.9% sodium chloride for injection, over approximately 30 minutes. Use an intravenous infusion set with a 0.2 or 0.22 μm in-line or add-on filter. After the infusion is complete, flush the line with 20 mL of 0.9% sodium chloride for injection.
 
 Do not administer VYEPTI as a bolus injection.
 

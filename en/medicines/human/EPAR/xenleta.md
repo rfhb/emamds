@@ -1,32 +1,32 @@
 ---
-document_datetime: 2025-12-29 09:36:52
+document_datetime: 2026-05-27 15:25:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/xenleta.html
 document_name: xenleta.html
 version: success
-processing_time: 0.1066761
-conversion_datetime: 2025-12-29 23:15:03.200024
+processing_time: 0.082835
+conversion_datetime: 2026-06-01 16:55:50.867219
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.20.0
+  docling-jobkit: 1.20.1
+  docling: 2.96.1
+  docling-core: 2.78.0
+  docling-ibm-models: 3.13.2
+  docling-parse: 6.2.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
 ---
 # Xenleta
 
 [RSS](/en/individual-human-medicine.xml/67331)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-lefamulin Medicine Human Authorised
+lefamulin
 
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
+Medicine Human Authorised
 
 Page contents
 
@@ -115,181 +115,137 @@ English (EN) (110.43 KB - PDF)
 
 [View](/en/documents/overview/xenleta-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-537)
+[Other languages (22)](#file-language-dropdown-102)
 
 български (BG) (127.54 KB - PDF)
 
-**First published:**
-
-06/08/2020
+**First published:** 06/08/2020
 
 [View](/bg/documents/overview/xenleta-epar-medicine-overview_bg.pdf)
 
 español (ES) (101.01 KB - PDF)
 
-**First published:**
-
-06/08/2020
+**First published:** 06/08/2020
 
 [View](/es/documents/overview/xenleta-epar-medicine-overview_es.pdf)
 
 čeština (CS) (125.57 KB - PDF)
 
-**First published:**
-
-06/08/2020
+**First published:** 06/08/2020
 
 [View](/cs/documents/overview/xenleta-epar-medicine-overview_cs.pdf)
 
 dansk (DA) (101.76 KB - PDF)
 
-**First published:**
-
-06/08/2020
+**First published:** 06/08/2020
 
 [View](/da/documents/overview/xenleta-epar-medicine-overview_da.pdf)
 
 Deutsch (DE) (105.67 KB - PDF)
 
-**First published:**
-
-06/08/2020
+**First published:** 06/08/2020
 
 [View](/de/documents/overview/xenleta-epar-medicine-overview_de.pdf)
 
 eesti keel (ET) (98.42 KB - PDF)
 
-**First published:**
-
-06/08/2020
+**First published:** 06/08/2020
 
 [View](/et/documents/overview/xenleta-epar-medicine-overview_et.pdf)
 
 ελληνικά (EL) (126.05 KB - PDF)
 
-**First published:**
-
-06/08/2020
+**First published:** 06/08/2020
 
 [View](/el/documents/overview/xenleta-epar-medicine-overview_el.pdf)
 
 français (FR) (102.73 KB - PDF)
 
-**First published:**
-
-06/08/2020
+**First published:** 06/08/2020
 
 [View](/fr/documents/overview/xenleta-epar-medicine-overview_fr.pdf)
 
 hrvatski (HR) (123.69 KB - PDF)
 
-**First published:**
-
-06/08/2020
+**First published:** 06/08/2020
 
 [View](/hr/documents/overview/xenleta-epar-medicine-overview_hr.pdf)
 
 italiano (IT) (100.67 KB - PDF)
 
-**First published:**
-
-06/08/2020
+**First published:** 06/08/2020
 
 [View](/it/documents/overview/xenleta-epar-medicine-overview_it.pdf)
 
 latviešu valoda (LV) (139.62 KB - PDF)
 
-**First published:**
-
-06/08/2020
+**First published:** 06/08/2020
 
 [View](/lv/documents/overview/xenleta-epar-medicine-overview_lv.pdf)
 
 lietuvių kalba (LT) (123.21 KB - PDF)
 
-**First published:**
-
-06/08/2020
+**First published:** 06/08/2020
 
 [View](/lt/documents/overview/xenleta-epar-medicine-overview_lt.pdf)
 
 magyar (HU) (122.62 KB - PDF)
 
-**First published:**
-
-06/08/2020
+**First published:** 06/08/2020
 
 [View](/hu/documents/overview/xenleta-epar-medicine-overview_hu.pdf)
 
 Malti (MT) (133.59 KB - PDF)
 
-**First published:**
-
-06/08/2020
+**First published:** 06/08/2020
 
 [View](/mt/documents/overview/xenleta-epar-medicine-overview_mt.pdf)
 
 Nederlands (NL) (102.03 KB - PDF)
 
-**First published:**
-
-06/08/2020
+**First published:** 06/08/2020
 
 [View](/nl/documents/overview/xenleta-epar-medicine-overview_nl.pdf)
 
 polski (PL) (126.94 KB - PDF)
 
-**First published:**
-
-06/08/2020
+**First published:** 06/08/2020
 
 [View](/pl/documents/overview/xenleta-epar-medicine-overview_pl.pdf)
 
 português (PT) (102.49 KB - PDF)
 
-**First published:**
-
-06/08/2020
+**First published:** 06/08/2020
 
 [View](/pt/documents/overview/xenleta-epar-medicine-overview_pt.pdf)
 
 română (RO) (122.31 KB - PDF)
 
-**First published:**
-
-06/08/2020
+**First published:** 06/08/2020
 
 [View](/ro/documents/overview/xenleta-epar-medicine-overview_ro.pdf)
 
 slovenčina (SK) (124.68 KB - PDF)
 
-**First published:**
-
-06/08/2020
+**First published:** 06/08/2020
 
 [View](/sk/documents/overview/xenleta-epar-medicine-overview_sk.pdf)
 
 slovenščina (SL) (120.04 KB - PDF)
 
-**First published:**
-
-06/08/2020
+**First published:** 06/08/2020
 
 [View](/sl/documents/overview/xenleta-epar-medicine-overview_sl.pdf)
 
 Suomi (FI) (99.12 KB - PDF)
 
-**First published:**
-
-06/08/2020
+**First published:** 06/08/2020
 
 [View](/fi/documents/overview/xenleta-epar-medicine-overview_fi.pdf)
 
 svenska (SV) (99.05 KB - PDF)
 
-**First published:**
-
-06/08/2020
+**First published:** 06/08/2020
 
 [View](/sv/documents/overview/xenleta-epar-medicine-overview_sv.pdf)
 
@@ -305,305 +261,161 @@ English (EN) (91.34 KB - PDF)
 
 Xenleta : EPAR - Product information
 
-English (EN) (700.66 KB - PDF)
+English (EN) (697.79 KB - PDF)
 
-**First published:** 06/08/2020
-
-**Last updated:** 29/04/2025
+**First published:** 06/08/2020 **Last updated:** 27/05/2026
 
 [View](/en/documents/product-information/xenleta-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-414)
+[Other languages (24)](#file-language-dropdown-392)
 
-български (BG) (952.73 KB - PDF)
+български (BG) (948.77 KB - PDF)
 
-**First published:**
-
-06/08/2020
-
-**Last updated:**
-
-29/04/2025
+**First published:** 06/08/2020 **Last updated:** 27/05/2026
 
 [View](/bg/documents/product-information/xenleta-epar-product-information_bg.pdf)
 
-español (ES) (719.7 KB - PDF)
+español (ES) (749.86 KB - PDF)
 
-**First published:**
-
-06/08/2020
-
-**Last updated:**
-
-29/04/2025
+**First published:** 06/08/2020 **Last updated:** 27/05/2026
 
 [View](/es/documents/product-information/xenleta-epar-product-information_es.pdf)
 
-čeština (CS) (726.66 KB - PDF)
+čeština (CS) (724.09 KB - PDF)
 
-**First published:**
-
-06/08/2020
-
-**Last updated:**
-
-29/04/2025
+**First published:** 06/08/2020 **Last updated:** 27/05/2026
 
 [View](/cs/documents/product-information/xenleta-epar-product-information_cs.pdf)
 
-dansk (DA) (707.73 KB - PDF)
+dansk (DA) (707.77 KB - PDF)
 
-**First published:**
-
-06/08/2020
-
-**Last updated:**
-
-29/04/2025
+**First published:** 06/08/2020 **Last updated:** 27/05/2026
 
 [View](/da/documents/product-information/xenleta-epar-product-information_da.pdf)
 
-Deutsch (DE) (740.13 KB - PDF)
+Deutsch (DE) (752.32 KB - PDF)
 
-**First published:**
-
-06/08/2020
-
-**Last updated:**
-
-29/04/2025
+**First published:** 06/08/2020 **Last updated:** 27/05/2026
 
 [View](/de/documents/product-information/xenleta-epar-product-information_de.pdf)
 
-eesti keel (ET) (707.4 KB - PDF)
+eesti keel (ET) (704.54 KB - PDF)
 
-**First published:**
-
-06/08/2020
-
-**Last updated:**
-
-29/04/2025
+**First published:** 06/08/2020 **Last updated:** 27/05/2026
 
 [View](/et/documents/product-information/xenleta-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1010.33 KB - PDF)
+ελληνικά (EL) (1002.39 KB - PDF)
 
-**First published:**
-
-06/08/2020
-
-**Last updated:**
-
-29/04/2025
+**First published:** 06/08/2020 **Last updated:** 27/05/2026
 
 [View](/el/documents/product-information/xenleta-epar-product-information_el.pdf)
 
-français (FR) (758.09 KB - PDF)
+français (FR) (756.65 KB - PDF)
 
-**First published:**
-
-06/08/2020
-
-**Last updated:**
-
-29/04/2025
+**First published:** 06/08/2020 **Last updated:** 27/05/2026
 
 [View](/fr/documents/product-information/xenleta-epar-product-information_fr.pdf)
 
-hrvatski (HR) (739.96 KB - PDF)
+hrvatski (HR) (740.28 KB - PDF)
 
-**First published:**
-
-06/08/2020
-
-**Last updated:**
-
-29/04/2025
+**First published:** 06/08/2020 **Last updated:** 27/05/2026
 
 [View](/hr/documents/product-information/xenleta-epar-product-information_hr.pdf)
 
-íslenska (IS) (706.26 KB - PDF)
+íslenska (IS) (703.44 KB - PDF)
 
-**First published:**
-
-06/08/2020
-
-**Last updated:**
-
-29/04/2025
+**First published:** 06/08/2020 **Last updated:** 27/05/2026
 
 [View](/is/documents/product-information/xenleta-epar-product-information_is.pdf)
 
-italiano (IT) (715.78 KB - PDF)
+italiano (IT) (720.72 KB - PDF)
 
-**First published:**
-
-06/08/2020
-
-**Last updated:**
-
-29/04/2025
+**First published:** 06/08/2020 **Last updated:** 27/05/2026
 
 [View](/it/documents/product-information/xenleta-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (786.08 KB - PDF)
+latviešu valoda (LV) (781.89 KB - PDF)
 
-**First published:**
-
-06/08/2020
-
-**Last updated:**
-
-29/04/2025
+**First published:** 06/08/2020 **Last updated:** 27/05/2026
 
 [View](/lv/documents/product-information/xenleta-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (730.29 KB - PDF)
+lietuvių kalba (LT) (726.18 KB - PDF)
 
-**First published:**
-
-06/08/2020
-
-**Last updated:**
-
-29/04/2025
+**First published:** 06/08/2020 **Last updated:** 27/05/2026
 
 [View](/lt/documents/product-information/xenleta-epar-product-information_lt.pdf)
 
-magyar (HU) (745.8 KB - PDF)
+magyar (HU) (738.63 KB - PDF)
 
-**First published:**
-
-06/08/2020
-
-**Last updated:**
-
-29/04/2025
+**First published:** 06/08/2020 **Last updated:** 27/05/2026
 
 [View](/hu/documents/product-information/xenleta-epar-product-information_hu.pdf)
 
-Malti (MT) (1.16 MB - PDF)
+Malti (MT) (1.15 MB - PDF)
 
-**First published:**
-
-06/08/2020
-
-**Last updated:**
-
-29/04/2025
+**First published:** 06/08/2020 **Last updated:** 27/05/2026
 
 [View](/mt/documents/product-information/xenleta-epar-product-information_mt.pdf)
 
-Nederlands (NL) (727.08 KB - PDF)
+Nederlands (NL) (724.14 KB - PDF)
 
-**First published:**
-
-06/08/2020
-
-**Last updated:**
-
-29/04/2025
+**First published:** 06/08/2020 **Last updated:** 27/05/2026
 
 [View](/nl/documents/product-information/xenleta-epar-product-information_nl.pdf)
 
-norsk (NO) (722.8 KB - PDF)
+norsk (NO) (719.25 KB - PDF)
 
-**First published:**
-
-06/08/2020
-
-**Last updated:**
-
-29/04/2025
+**First published:** 06/08/2020 **Last updated:** 27/05/2026
 
 [View](/no/documents/product-information/xenleta-epar-product-information_no.pdf)
 
-polski (PL) (930.44 KB - PDF)
+polski (PL) (925.73 KB - PDF)
 
-**First published:**
-
-06/08/2020
-
-**Last updated:**
-
-29/04/2025
+**First published:** 06/08/2020 **Last updated:** 27/05/2026
 
 [View](/pl/documents/product-information/xenleta-epar-product-information_pl.pdf)
 
-português (PT) (1.09 MB - PDF)
+português (PT) (897.05 KB - PDF)
 
-**First published:**
-
-06/08/2020
-
-**Last updated:**
-
-29/04/2025
+**First published:** 06/08/2020 **Last updated:** 27/05/2026
 
 [View](/pt/documents/product-information/xenleta-epar-product-information_pt.pdf)
 
-română (RO) (716.93 KB - PDF)
+română (RO) (716 KB - PDF)
 
-**First published:**
-
-06/08/2020
-
-**Last updated:**
-
-29/04/2025
+**First published:** 06/08/2020 **Last updated:** 27/05/2026
 
 [View](/ro/documents/product-information/xenleta-epar-product-information_ro.pdf)
 
-slovenčina (SK) (723.33 KB - PDF)
+slovenčina (SK) (718.69 KB - PDF)
 
-**First published:**
-
-06/08/2020
-
-**Last updated:**
-
-29/04/2025
+**First published:** 06/08/2020 **Last updated:** 27/05/2026
 
 [View](/sk/documents/product-information/xenleta-epar-product-information_sk.pdf)
 
-slovenščina (SL) (738.61 KB - PDF)
+slovenščina (SL) (735.1 KB - PDF)
 
-**First published:**
-
-06/08/2020
-
-**Last updated:**
-
-29/04/2025
+**First published:** 06/08/2020 **Last updated:** 27/05/2026
 
 [View](/sl/documents/product-information/xenleta-epar-product-information_sl.pdf)
 
-Suomi (FI) (715.27 KB - PDF)
+Suomi (FI) (712.66 KB - PDF)
 
-**First published:**
-
-06/08/2020
-
-**Last updated:**
-
-29/04/2025
+**First published:** 06/08/2020 **Last updated:** 27/05/2026
 
 [View](/fi/documents/product-information/xenleta-epar-product-information_fi.pdf)
 
-svenska (SV) (704.67 KB - PDF)
+svenska (SV) (701.78 KB - PDF)
 
-**First published:**
-
-06/08/2020
-
-**Last updated:**
-
-29/04/2025
+**First published:** 06/08/2020 **Last updated:** 27/05/2026
 
 [View](/sv/documents/product-information/xenleta-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** R/0010 04/04/2025
+**Latest procedure affecting product information:** T/0000247534
+
+14/04/2025
 
 icon globe
 
@@ -627,200 +439,168 @@ English (EN) (45.61 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/xenleta-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-61)
+[Other languages (23)](#file-language-dropdown-80)
 
 български (BG) (65.61 KB - PDF)
 
-**First published:**
-
-06/08/2020
+**First published:** 06/08/2020
 
 [View](/bg/documents/all-authorised-presentations/xenleta-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (45.21 KB - PDF)
 
-**First published:**
-
-06/08/2020
+**First published:** 06/08/2020
 
 [View](/es/documents/all-authorised-presentations/xenleta-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (56.93 KB - PDF)
 
-**First published:**
-
-06/08/2020
+**First published:** 06/08/2020
 
 [View](/cs/documents/all-authorised-presentations/xenleta-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (47.53 KB - PDF)
 
-**First published:**
-
-06/08/2020
+**First published:** 06/08/2020
 
 [View](/da/documents/all-authorised-presentations/xenleta-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (48.44 KB - PDF)
 
-**First published:**
-
-06/08/2020
+**First published:** 06/08/2020
 
 [View](/de/documents/all-authorised-presentations/xenleta-epar-all-authorised-presentations_de.pdf)
 
 eesti keel (ET) (46.22 KB - PDF)
 
-**First published:**
-
-06/08/2020
+**First published:** 06/08/2020
 
 [View](/et/documents/all-authorised-presentations/xenleta-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (55.47 KB - PDF)
 
-**First published:**
-
-06/08/2020
+**First published:** 06/08/2020
 
 [View](/el/documents/all-authorised-presentations/xenleta-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (45.28 KB - PDF)
 
-**First published:**
-
-06/08/2020
+**First published:** 06/08/2020
 
 [View](/fr/documents/all-authorised-presentations/xenleta-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (64.89 KB - PDF)
 
-**First published:**
-
-06/08/2020
+**First published:** 06/08/2020
 
 [View](/hr/documents/all-authorised-presentations/xenleta-epar-all-authorised-presentations_hr.pdf)
 
 íslenska (IS) (46.3 KB - PDF)
 
-**First published:**
-
-06/08/2020
+**First published:** 06/08/2020
 
 [View](/is/documents/all-authorised-presentations/xenleta-epar-all-authorised-presentations_is.pdf)
 
 italiano (IT) (45.29 KB - PDF)
 
-**First published:**
-
-06/08/2020
+**First published:** 06/08/2020
 
 [View](/it/documents/all-authorised-presentations/xenleta-epar-all-authorised-presentations_it.pdf)
 
 latviešu valoda (LV) (63.4 KB - PDF)
 
-**First published:**
-
-06/08/2020
+**First published:** 06/08/2020
 
 [View](/lv/documents/all-authorised-presentations/xenleta-epar-all-authorised-presentations_lv.pdf)
 
 lietuvių kalba (LT) (65.89 KB - PDF)
 
-**First published:**
-
-06/08/2020
+**First published:** 06/08/2020
 
 [View](/lt/documents/all-authorised-presentations/xenleta-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (63.29 KB - PDF)
 
-**First published:**
-
-06/08/2020
+**First published:** 06/08/2020
 
 [View](/hu/documents/all-authorised-presentations/xenleta-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (66.03 KB - PDF)
 
-**First published:**
-
-06/08/2020
+**First published:** 06/08/2020
 
 [View](/mt/documents/all-authorised-presentations/xenleta-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (45.92 KB - PDF)
 
-**First published:**
-
-06/08/2020
+**First published:** 06/08/2020
 
 [View](/nl/documents/all-authorised-presentations/xenleta-epar-all-authorised-presentations_nl.pdf)
 
 norsk (NO) (45.22 KB - PDF)
 
-**First published:**
-
-06/08/2020
+**First published:** 06/08/2020
 
 [View](/no/documents/all-authorised-presentations/xenleta-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (67.66 KB - PDF)
 
-**First published:**
-
-06/08/2020
+**First published:** 06/08/2020
 
 [View](/pl/documents/all-authorised-presentations/xenleta-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (47.36 KB - PDF)
 
-**First published:**
-
-06/08/2020
+**First published:** 06/08/2020
 
 [View](/pt/documents/all-authorised-presentations/xenleta-epar-all-authorised-presentations_pt.pdf)
 
 slovenčina (SK) (55.6 KB - PDF)
 
-**First published:**
-
-06/08/2020
+**First published:** 06/08/2020
 
 [View](/sk/documents/all-authorised-presentations/xenleta-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (64.38 KB - PDF)
 
-**First published:**
-
-06/08/2020
+**First published:** 06/08/2020
 
 [View](/sl/documents/all-authorised-presentations/xenleta-epar-all-authorised-presentations_sl.pdf)
 
 Suomi (FI) (44.79 KB - PDF)
 
-**First published:**
-
-06/08/2020
+**First published:** 06/08/2020
 
 [View](/fi/documents/all-authorised-presentations/xenleta-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (46.12 KB - PDF)
 
-**First published:**
-
-06/08/2020
+**First published:** 06/08/2020
 
 [View](/sv/documents/all-authorised-presentations/xenleta-epar-all-authorised-presentations_sv.pdf)
 
 ## Product details
 
-Name of medicine Xenleta Active substance lefamulin acetate International non-proprietary name (INN) or common name lefamulin Therapeutic area (MeSH)
+Name of medicine
+
+Xenleta
+
+Active substance
+
+lefamulin acetate
+
+International non-proprietary name (INN) or common name
+
+lefamulin
+
+Therapeutic area (MeSH)
 
 - Pneumonia, Bacterial
 - Community-Acquired Infections
 
-Anatomical therapeutic chemical (ATC) code J01XX
+Anatomical therapeutic chemical (ATC) code
+
+J01XX
 
 ### Pharmacotherapeutic group
 
@@ -834,13 +614,23 @@ Consideration should be given to official guidance on the appropriate use of ant
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/005048 Marketing authorisation holder
+EMA product number
 
-Nabriva Therapeutics Ireland DAC
+EMEA/H/C/005048
 
-Alexandra House
+Marketing authorisation holder
 
-Marketing authorisation issued 27/07/2020 Revision 2
+Venipharm
+
+4 Bureaux De La Colline 92210 Saint-Cloud France
+
+Marketing authorisation issued
+
+27/07/2020
+
+Revision
+
+3
 
 ## Assessment history
 
@@ -852,21 +642,25 @@ Collapse section
 
 Xenleta : EPAR - Procedural steps taken and scientific information after the authorisation
 
-English (EN) (150.94 KB - PDF)
+English (EN) (143.21 KB - PDF)
 
-**First published:** 08/07/2021
-
-**Last updated:** 29/04/2025
+**First published:** 27/05/2026
 
 [View](/en/documents/procedural-steps-after/xenleta-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+
+Xenleta : EPAR - Procedural steps taken and scientific information after the authorisation (archive)
+
+English (EN) (150.94 KB - PDF)
+
+**First published:** 08/07/2021 **Last updated:** 27/05/2026
+
+[View](/en/documents/procedural-steps-after/xenleta-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 ## Initial marketing authorisation documents
 
 Xenleta : EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/325848/2020
+Adopted Reference Number: EMA/325848/2020
 
 English (EN) (7.4 MB - PDF)
 
@@ -876,9 +670,7 @@ English (EN) (7.4 MB - PDF)
 
 CHMP summary of positive opinion for Xenleta
 
-Adopted
-
-Reference Number: EMA/CHMP/265461/2020
+Adopted Reference Number: EMA/CHMP/265461/2020
 
 English (EN) (147.03 KB - PDF)
 
@@ -886,20 +678,22 @@ English (EN) (147.03 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-xenleta_en.pdf)
 
-#### News on Xenleta
+## News on Xenleta
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 25-28 May 2020](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-25-28-may-2020) 29/05/2020
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 25-28 May 2020](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-25-28-may-2020)
 
-#### More information on Xenleta
+29/05/2020
+
+## More information on Xenleta
 
 - [EMEA-002075-PIP01-16-M03 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-002075-pip01-16-m03)
 
-#### Topics
+## Topics
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 29/04/2025
+**This page was last updated on**
+
+27/05/2026
 
 ## Share this page
-
-[Back to top](#main-content)

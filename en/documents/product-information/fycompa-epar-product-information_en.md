@@ -1,20 +1,20 @@
 ---
-document_datetime: 2023-09-21 21:56:59
-document_pages: 89
+document_datetime: 2026-05-26 11:18:07
+document_pages: 87
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/fycompa-epar-product-information_en.pdf
 document_name: fycompa-epar-product-information_en.pdf
 version: success
-processing_time: 19.4505521
-conversion_datetime: 2025-12-27 16:01:54.372627
+processing_time: 34.7866606
+conversion_datetime: 2026-06-01 17:11:53.148299
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.20.0
+  docling-jobkit: 1.20.1
+  docling: 2.96.1
+  docling-core: 2.78.0
+  docling-ibm-models: 3.13.2
+  docling-parse: 6.2.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -68,26 +68,37 @@ Excipient with known effect: Each 12 mg tablet contains 145.0 mg of lactose (as 
 
 ## 3. PHARMACEUTICAL FORM
 
-| Film-coated tablet (tablet)                                                          |
-|--------------------------------------------------------------------------------------|
-| Fycompa 2 mg film-coated tablets                                                     |
-| Orange, round, biconvex tablet, engraved with E275 on one side and '2' on other side |
-| Fycompa 4 mg film-coated tablets                                                     |
-| Red, round, biconvex tablet, engraved with E277 on one side and '4' on other side    |
-| Fycompa 6 mg film-coated tablets                                                     |
-| Pink, round, biconvex tablet, engraved with E294 on one side and '6' on other side   |
-| Fycompa 8 mg film-coated tablets                                                     |
-| Purple, round, biconvex tablet, engraved with E295 on one side and '8' on other side |
-| Fycompa 10 mg film-coated tablets                                                    |
-| Green, round, biconvex tablet, engraved with E296 on one side and '10' on other side |
-| Fycompa 12 mg film-coated tablets                                                    |
-| Blue, round, biconvex tablet, engraved with E297 on one side and '12' on other side  |
+Film-coated tablet (tablet).
+
+## Fycompa 2 mg film-coated tablets
+
+Orange, round, biconvex tablet, engraved with E275 on one side and '2' on other side.
+
+## Fycompa 4 mg film-coated tablets
+
+Red, round, biconvex tablet, engraved with E277 on one side and '4' on other side.
+
+## Fycompa 6 mg film-coated tablets
+
+Pink, round, biconvex tablet, engraved with E294 on one side and '6' on other side.
+
+## Fycompa 8 mg film-coated tablets
+
+Purple, round, biconvex tablet, engraved with E295 on one side and '8' on other side.
+
+## Fycompa 10 mg film-coated tablets
+
+Green, round, biconvex tablet, engraved with E296 on one side and '10' on other side.
+
+## Fycompa 12 mg film-coated tablets
+
+Blue, round, biconvex tablet, engraved with E297 on one side and '12' on other side.
 
 ## 4. CLINICAL PARTICULARS
 
 ## 4.1 Therapeutic indications
 
-Fycompa (perampanel) is indicated for the adjunctive treatment of
+Fycompa (perampanel) is indicated for the adjunctive treatment of:
 
 - -partial-onset seizures (POS) with or without secondarily generalised seizures in patients from 4 years of age and older.
 - -primary generalised tonic-clonic (PGTC) seizures in patients from 7 years of age and older with idiopathic generalised epilepsy (IGE).
@@ -100,7 +111,7 @@ Fycompa must be titrated, according to individual patient response, in order to 
 
 Perampanel should be taken orally once daily at bedtime.
 
-The physician should prescribe the most appropriate formulation and strength according to weight and dose. Alternate formulations of perampanel are available, including oral suspension
+The physician should prescribe the most appropriate formulation and strength according to weight and dose. Alternate formulations of perampanel are available, including oral suspension.
 
 ## Partial-Onset Seizures
 
@@ -133,11 +144,9 @@ Treatment with Fycompa should be initiated with a dose of 1 mg/day. The dose may
 
 ## Children (from 4 to 11 years of age) weighing &lt; 20 kg
 
-Treatment with Fycompa should be initiated with a dose of 1 mg/day. The dose may be increased based on clinical response and tolerability by increments of 1 mg (either weekly or every 2 weeks as per half-life considerations described below) to a maintenance dose of 2 mg/day to 4 mg/day. Depending upon individual clinical response and tolerability at a dose of 4 mg/day, the dose may be
+Treatment with Fycompa should be initiated with a dose of 1 mg/day. The dose may be increased based on clinical response and tolerability by increments of 1 mg (either weekly or every 2 weeks as per half-life considerations described below) to a maintenance dose of 2 mg/day to 4 mg/day. Depending upon individual clinical response and tolerability at a dose of 4 mg/day, the dose may be increased by increments of 0.5 mg/day to 6 mg/day. Patients who are taking concomitant medicinal products that do not shorten the half-life of perampanel (see section 4.5) should be titrated no more frequently than at 2-week intervals. Patients who are taking concomitant medicinal products that shorten the half-life of perampanel (see section 4.5) should be titrated no more frequently than at 1-week intervals.
 
 <div style=\"page-break-after: always\"></div>
-
-increased by increments of 0.5 mg/day to 6 mg/day. Patients who are taking concomitant medicinal products that do not shorten the half-life of perampanel (see section 4.5) should be titrated no more frequently than at 2-week intervals. Patients who are taking concomitant medicinal products that shorten the half-life of perampanel (see section 4.5) should be titrated no more frequently than at 1-week intervals.
 
 ## Primary Generalised Tonic-Clonic Seizures
 
@@ -164,11 +173,9 @@ Treatment with Fycompa should be initiated with a dose of 2 mg/day. The dose may
 
 ## Children (from 7 to 11 years of age) weighing 20 kg and &lt; 30 kg
 
-Treatment with Fycompa should be initiated with a dose of 1 mg/day. The dose may be increased based on clinical response and tolerability by increments of 1 mg (either weekly or every 2 weeks as
+Treatment with Fycompa should be initiated with a dose of 1 mg/day. The dose may be increased based on clinical response and tolerability by increments of 1 mg (either weekly or every 2 weeks as per half-life considerations described below) to a maintenance dose of 4 mg/day to 6 mg/day. Depending upon individual clinical response and tolerability at a dose of 6 mg/day, the dose may be increased by increments of 1 mg/day to 8 mg/day. Patients who are taking concomitant medicinal products that do not shorten the half-life of perampanel (see section 4.5) should be titrated no more frequently than at 2-week intervals. Patients who are taking concomitant medicinal products that shorten the half-life of perampanel (see section 4.5) should be titrated no more frequently than at 1-week intervals.
 
 <div style=\"page-break-after: always\"></div>
-
-per half-life considerations described below) to a maintenance dose of 4 mg/day to 6 mg/day. Depending upon individual clinical response and tolerability at a dose of 6 mg/day, the dose may be increased by increments of 1 mg/day to 8 mg/day. Patients who are taking concomitant medicinal products that do not shorten the half-life of perampanel (see section 4.5) should be titrated no more frequently than at 2-week intervals. Patients who are taking concomitant medicinal products that shorten the half-life of perampanel (see section 4.5) should be titrated no more frequently than at 1-week intervals.
 
 ## Children (from 7 to 11 years of age) weighing &lt; 20 kg
 
@@ -344,7 +351,7 @@ The effects of perampanel on tasks involving alertness and vigilance such as dri
 
 ## Interaction studies have only been performed in adults.
 
-In a population pharmacokinetic analysis of  adolescent patients age ≥ 12 years and children age 4 to 11 years, there were no notable differences compared to the adult population.
+In a population pharmacokinetic analysis of adolescent patients age ≥ 12 years and children age 4 to 11 years, there were no notable differences compared to the adult population.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -382,7 +389,7 @@ In the controlled and uncontrolled study in patients with primary generalised to
 
 ## Adverse reactions leading to discontinuation:
 
-In the controlled Phase 3 partial-onset seizures clinical trials, the rate of discontinuation as a result of an adverse reaction was 1.7% (3/172), 4.2% (18/431) and 13.7% (35/255) in patients randomised to receive perampanel at the recommended doses of 4 mg, 8 mg and 12 mg/day, respectively, and 1.4% (6/ 442) in patients randomised to receive placebo. The adverse reactions most commonly (≥ 1%
+In the controlled Phase 3 partial-onset seizures clinical trials, the rate of discontinuation as a result of an adverse reaction was 1.7% (3/172), 4.2% (18/431) and 13.7% (35/255) in patients randomised to receive perampanel at the recommended doses of 4 mg, 8 mg and 12 mg/day, respectively, and 1.4% (6/442) in patients randomised to receive placebo. The adverse reactions most commonly (≥ 1%
 
 <div style=\"page-break-after: always\"></div>
 
@@ -396,30 +403,32 @@ Severe cutaneous adverse reactions (SCARs) including drug reaction with eosinoph
 
 ## Tabulated list of adverse reactions
 
-In the table below, adverse reactions, which were identified based on review of the full Fycompa clinical studies safety database, are listed by System Organ Class and frequency. The following convention has been used for the classification of adverse reactions: very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), uncommon (≥ 1/1,000 to &lt; 1/100), not known (cannot be estimated from the available data).
+In the table below, adverse reactions, which were identified based on review of the full Fycompa clinical studies safety database, are listed by System Organ Class and frequency. The following convention has been used for the classification of adverse reac tions: very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), uncommon (≥ 1/1,000 to &lt; 1/100), not known (cannot be estimated from the available data).
 
 Within each frequency category, adverse reactions are presented in order of decreasing seriousness.
 
-| System Organ Class                     | Very common          | Common                                          | Uncommon                                                            | Not known                                                                                        |
-|----------------------------------------|----------------------|-------------------------------------------------|---------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
-| Metabolism and nutrition disorders     |                      | Decreased appetite Increased appetite           |                                                                     |                                                                                                  |
-| Psychiatric disorders                  |                      | Aggression Anger Anxiety Confusional state      | Suicidal ideation Suicide attempt Hallucinations Psychotic disorder |                                                                                                  |
-| Nervous system disorders               | Dizziness Somnolence | Ataxia Dysarthria Balance disorder Irritability |                                                                     |                                                                                                  |
-| Eye disorders                          |                      | Diplopia Vision blurred                         |                                                                     |                                                                                                  |
-| Ear and labyrinth disorders            |                      | Vertigo                                         |                                                                     |                                                                                                  |
-| Gastrointestinal disorders             |                      | Nausea                                          |                                                                     |                                                                                                  |
-| Skin and subcutaneous tissue disorders |                      |                                                 |                                                                     | Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)* Stevens - Johnson Syndrome (SJS)* |
+| System Organ Class                              | Very common          | Common                                          | Uncommon                                                            | Not known                                                                                        |
+|-------------------------------------------------|----------------------|-------------------------------------------------|---------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
+| Metabolism and nutrition disorders              |                      | Decreased appetite Increased appetite           |                                                                     |                                                                                                  |
+| Psychiatric disorders                           |                      | Aggression Anger Anxiety Confusional state      | Suicidal ideation Suicide attempt Hallucinations Psychotic disorder |                                                                                                  |
+| Nervous system disorders                        | Dizziness Somnolence | Ataxia Dysarthria Balance disorder Irritability |                                                                     |                                                                                                  |
+| Eye disorders                                   |                      | Diplopia Vision blurred                         |                                                                     |                                                                                                  |
+| Ear and labyrinth disorders                     |                      | Vertigo                                         |                                                                     |                                                                                                  |
+| Gastrointestinal disorders                      |                      | Nausea                                          |                                                                     |                                                                                                  |
+| Skin and subcutaneous tissue disorders          |                      |                                                 |                                                                     | Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)* Stevens - Johnson Syndrome (SJS)* |
+| Musculoskeletal and connective tissue disorders |                      | Back pain                                       |                                                                     |                                                                                                  |
+| General disorders                               |                      | Gait disturbance Fatigue                        |                                                                     |                                                                                                  |
+| Investigations                                  |                      | Weight increased                                |                                                                     |                                                                                                  |
 
 <div style=\"page-break-after: always\"></div>
 
-| System Organ Class                              | Very common   | Common                   | Uncommon   | Not known   |
-|-------------------------------------------------|---------------|--------------------------|------------|-------------|
-| Musculoskeletal and connective tissue disorders |               | Back pain                |            |             |
-| General disorders                               |               | Gait disturbance Fatigue |            |             |
-| Investigations                                  |               | Weight increased         |            |             |
-| Injury, poisoning and procedural complications  |               | Fall                     |            |             |
+| System Organ Class                             | Very common   | Common   | Uncommon   | Not known   |
+|------------------------------------------------|---------------|----------|------------|-------------|
+| Injury, poisoning and procedural complications |               | Fall     |            |             |
 
-* See section 4.4
+*
+
+See section 4.4
 
 ## Paediatric population
 
@@ -435,13 +444,11 @@ Reporting suspected adverse reactions after authorisation of the medicinal produ
 
 ## 4.9 Overdose
 
-There have been post-marketing cases of intentional and accidental overdose in paediatric patients with doses of perampanel up to 36 mg and in adult patients with doses up to 300 mg. The adverse reactions observed included altered mental status, agitation, aggressive behaviour, coma and depressed level of consciousness. The patients recovered without sequelae.
+There have been post-marketing cases of intentional and accidental overdose. Reported doses of perampanel were up to approximately 50 mg in paediatric patients and up to 300 mg in adult patients. The adverse reactions observed included altered mental status, agitation, aggressive behaviour, vomiting, coma, and depressed level of consciousness. The patients recovered without sequelae.
 
 There is no available specific antidote to the effects of perampanel.
 
 General supportive care of the patient is indicated including monitoring of vital signs and observation of the clinical status of the patient. In view of its long half-life, the effects caused by perampanel could be prolonged. Because of low renal clearance special interventions such as forced diuresis, dialysis or haemoperfusion are unlikely to be of value.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 5. PHARMACOLOGICAL PROPERTIES
 
@@ -451,7 +458,11 @@ Pharmacotherapeutic group: antiepileptics, other antiepileptics, ATC code: N03AX
 
 ## Mechanism of action
 
-Perampanel is a first-in-class selective, noncompetitive antagonist of the ionotropic α -amino-3hydroxy-5-methyl-4-isoxazolepropionic acid (AMPA) glutamate receptor on post-synaptic neurons. Glutamate is the primary excitatory neurotransmitter in the central nervous system and is implicated in a number of neurological disorders caused by neuronal overexcitation. Activation of AMPA receptors by glutamate is thought to be responsible for most fast excitatory synaptic transmission in the brain. In in vitro studies, perampanel did not compete with AMPA for binding to the AMPA receptor, but perampanel binding was displaced by noncompetitive AMPA receptor antagonists, indicating that perampanel is a noncompetitive AMPA receptor antagonist. In vitro , perampanel inhibited AMPA-induced (but not NMDA-induced) increase in intracellular calcium. In vivo , perampanel significantly prolonged seizure latency in an AMPA-induced seizure model.
+Perampanel is a first-in-class selective, noncompetitive antagonist of the ionotropic α -amino-3hydroxy-5-methyl-4-isoxazolepropionic acid (AMPA) glutamate receptor on post-synaptic neurons.
+
+<div style=\"page-break-after: always\"></div>
+
+Glutamate is the primary excitatory neurotransmitter in the central nervous system and is implicated in a number of neurological disorders caused by neuronal overexcitation. Activation of AMPA receptors by glutamate is thought to be responsible for most fast excitatory synaptic transmission in the brain. In in vitro studies, perampanel did not compete with AMPA for binding to the AMPA receptor, but perampanel binding was displaced by noncompetitive AMPA receptor antagonists, indicating that perampanel is a noncompetitive AMPA receptor antagonist. In vitro , perampanel inhibited AMPA-induced (but not NMDA-induced) increase in intracellular calcium. In vivo , perampanel significantly prolonged seizure latency in an AMPA-induced seizure model.
 
 The precise mechanism by which perampanel exerts its antiepileptic effects in humans remains to be fully elucidated.
 
@@ -475,8 +486,6 @@ In an open-label uncontrolled study conducted in paediatric patients, no clinica
 
 Levels of alertness (arousal) decreased in a dose-related manner in healthy subjects dosed with perampanel from 4 to 12 mg/day. Mood deteriorated following dosing of 12 mg/day only; the changes in mood were small and reflected a general lowering of alertness. Multiple dosing of perampanel 12 mg/day also enhanced the effects of alcohol on vigilance and alertness, and increased levels of anger, confusion and depression as assessed using the Profile of Mood State 5-point rating scale.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Cardiac electrophysiology
 
 Perampanel did not prolong the QTc interval when administered in daily doses up to 12 mg/day, and did not have a dose-related or clinically important effect on QRS duration.
@@ -486,6 +495,8 @@ Perampanel did not prolong the QTc interval when administered in daily doses up 
 ## Partial-Onset Seizures
 
 The efficacy of perampanel in partial-onset seizures was established in three adjunctive therapy 19 week, randomised, double-blind, placebo-controlled, multicentre trials in adult and adolescent patients. Patients had partial-onset seizures with or without secondary generalisation and were not adequately controlled with one to three concomitant AEDs. During a 6-week baseline period, patients were required to have more than five seizures with no seizure-free period exceeding 25 days. In these three trials, patients had a mean duration of epilepsy of approximately 21.06 years. Between 85.3% and 89.1% of patients were taking two to three concomitant AEDs with or without concurrent vagal nerve stimulation.
+
+<div style=\"page-break-after: always\"></div>
 
 Two studies (studies 304 and 305) compared doses of perampanel 8 and 12 mg/day with placebo and the third study (study 306) compared doses of perampanel 2, 4 and 8 mg/day with placebo. In all three trials, following a 6-week Baseline Phase to establish baseline seizure frequency prior to randomisation, patients were randomised and titrated to the randomised dose. During the Titration Phase in all three trials, treatment was initiated at 2 mg/day and increased in weekly increments of 2 mg/day to the target dose. Patients experiencing intolerable adverse events could remain on the same dose or have their dose decreased to the previously tolerated dose. In all three trials, the Titration Phase was followed by a Maintenance Phase that lasted 13 weeks, during which patients were to remain on a stable dose of perampanel.
 
@@ -501,13 +512,13 @@ Ninety-seven percent of the patients who completed the randomised trials in pati
 
 ## Primary Generalised Tonic-Clonic Seizures
 
-Perampanel as adjunctive therapy in patients 12 years of age and older with idiopathic generalised epilepsy experiencing primary generalised tonic-clonic seizures was established in a multicentre,
+Perampanel as adjunctive therapy in patients 12 years of age and older with idiopathic generalised epilepsy experiencing primary generalised tonic-clonic seizures was established in a multicentre, randomised, double-blind, placebo-controlled study (Study 332). Eligible patients on a stable dose of 1 to 3 AEDs experiencing at least 3 primary generalised tonic-clonic seizures during the 8-week baseline period were randomised to either perampanel or placebo. The population included 164 patients (perampanel N = 82, placebo N = 82). Patients were titrated over four weeks to a target dose of 8 mg per day or the highest tolerated dose and treated for an additional 13 weeks on the last dose level achieved at the end of the titration period. The total treatment period was 17 weeks. Study drug was given once per day.
+
+The 50% primary generalised tonic-clonic seizures responder rate during the Maintenance Period was significantly higher in the perampanel group (58.0%) than in the placebo group (35.8%), P = 0.0059.
 
 <div style=\"page-break-after: always\"></div>
 
-randomised, double-blind, placebo-controlled study (Study 332). Eligible patients on a stable dose of 1 to 3 AEDs experiencing at least 3 primary generalised tonic-clonic seizures during the 8-week baseline period were randomised to either perampanel or placebo. The population included 164 patients (perampanel N = 82, placebo N = 82). Patients were titrated over four weeks to a target dose of 8 mg per day or the highest tolerated dose and treated for an additional 13 weeks on the last dose level achieved at the end of the titration period. The total treatment period was 17 weeks. Study drug was given once per day.
-
-The 50% primary generalised tonic-clonic seizures responder rate during the Maintenance Period was significantly higher in the perampanel group (58.0%) than in the placebo group (35.8%), P = 0.0059. The 50% responder rate was 22.2% in combination with enzyme-inducing anti-epileptic medicinal products and was 69.4% when perampanel was given in combination with non-enzyme-inducing anti-epileptic medicinal products. The number of perampanel patients taking enzyme-inducing anti-epileptic medicinal products was small (n = 9). The median percent change in primary generalised tonic-clonic seizure frequency per 28 days during the Titration and Maintenance Periods (combined) relative to Prerandomisation was greater with perampanel (-76.5%) than with placebo (-38.4%), P &lt; 0.0001. During the 3 months maintenance period, 30.9% (25/81) of the patients on perampanel in the clinical studies became free of PGTC seizures compared with 12.3% (10/81) on placebo.
+The 50% responder rate was 22.2% in combination with enzyme-inducing anti-epileptic medicinal products and was 69.4% when perampanel was given in combination with non-enzyme-inducing anti-epileptic medicinal products. The number of perampanel patients taking enzyme-inducing anti-epileptic medicinal products was small (n = 9). The median percent change in primary generalised tonic-clonic seizure frequency per 28 days during the Titration and Maintenance Periods (combined) relative to Prerandomisation was greater with perampanel (-76.5%) than with placebo (-38.4%), P &lt; 0.0001. During the 3 months maintenance period, 30.9% (25/81) of the patients on perampanel in the clinical studies became free of PGTC seizures compared with 12.3% (10/81) on placebo.
 
 ## Other subtypes of idiopathic generalised seizure
 
@@ -527,13 +538,13 @@ In a retrospective study of clinical practice, 51 patients with epilepsy who rec
 
 The European Medicines Agency has deferred the obligation to submit the results of studies with Fycompa in one or more subsets of the paediatric population in treatment-resistant epilepsies (localisation-related and age-related epilepsy syndromes) (see section 4.2 for information on adolescent and paediatric use).
 
-<div style=\"page-break-after: always\"></div>
-
 The three pivotal double-blind placebo-controlled phase 3 studies included 143 adolescents between the ages of 12 and 18. The results in these adolescents were similar to those seen in the adult population.
 
 Study 332 included 22 adolescents between the ages of 12 and 18. The results in these adolescents were similar to those seen in the adult population.
 
 A 19-week, randomised, double-blind, placebo-controlled study with an open-label extension phase (Study 235) was performed to assess the short-term effects on cognition of Fycompa (target dose range of 8 to 12 mg once daily) as adjunctive therapy in 133 (Fycompa n = 85, placebo n = 48) adolescent patients, aged 12 to less than 18 years old, with inadequately controlled partial-onset seizures. Cognitive function was assessed by the Cognitive Drug Research (CDR) System Global Cognition t-Score, which is a composite score derived from 5 domains testing Power of Attention, Continuity of Attention, Quality of Episodic Secondary Memory, Quality of Working Memory, and Speed of Memory. The mean change (SD) from baseline to end of double-blind treatment (19 weeks) in CDR System Global Cognition t-Score was 1.1 (7.14) in the placebo group and (minus) -1.0 (8.86) in the perampanel group, with the difference between the treatment groups in LS means (95% CI) = (minus) -2.2 (-5.2, 0.8). There was no statistically significant difference between the treatment groups (p = 0.145). CDR System Global Cognition t-Scores for placebo and perampanel were 41.2 (10.7) and 40.8 (13.0), respectively at the baseline. For patients with perampanel in the open label extension (n = 112), the mean change (SD) from baseline to end of open-label treatment (52 weeks) in CDR System Global Cognition t-Score was (minus) -1.0 (9.91). This was not statistically significant (p = 0.96). After up to 52 weeks of treatment with perampanel (n = 114), no effect on bone growth was observed. No effects on weight, height and sexual development were seen following up to 104 weeks of treatment (n = 114).
+
+<div style=\"page-break-after: always\"></div>
 
 An open-label, uncontrolled study (Study 311) was performed to assess the exposure-efficacy relationship of perampanel as adjunctive therapy in 180 paediatric patients (aged 4 to 11 years old) with inadequately controlled partial-onset seizures or primary generalised tonic-clonic seizures. Patients were titrated over 11 weeks to a target dose of 8 mg/day or the maximum tolerated dose (not to exceed 12 mg/day) for patients not taking concomitant CYP3A-inducing antiepileptic drugs (carbamazepine, oxcarbazepine, eslicarbazepine and phenytoin) or 12 mg/day or the maximum tolerated dose (not to exceed 16 mg/day) for patients taking a concomitant CYP3A-inducing antiepileptic drug.  Perampanel dose achieved at the end of titration was maintained for 12 weeks (for a total of 23 weeks of exposure) at the completion of the core study. Patients who entered into Extension Phase were treated for an additional 29 weeks for a total exposure duration of 52 weeks.
 
@@ -541,13 +552,11 @@ In patients with partial-onset seizures (n = 148 patients), the median change in
 
 In a subset of partial-onset seizure patients with secondarily generalised seizures (n = 54 patients), the corresponding values were -58.7%, 64.8% (n = 35/54), and 18.5% (n = 10/54), respectively, for secondarily generalised tonic-clonic seizures. The treatment effects on the median reduction in seizure frequency (Weeks 40-52: n = 41 patients, -73.8%), 50% responder rate (Weeks 40-52: 80.5%, n = 33/41), and seizure-free rate (Weeks 40-52: 24.4%, n = 10/41) were sustained following 52 weeks of perampanel treatment.
 
-In patients with primary generalised tonic-clonic seizures (n = 22 patients, with 19 patients aged 7-&lt;12 years and 3 patients aged 4-&lt;7 years), the median change in seizure frequency per 28 days, the 50% or greater responder rate, and seizure-free rate were -69.2%, 63.6% (n = 14/22), and 54.5% (n = 12/22), respectively. The treatment effects on the median reduction in seizure frequency (Weeks 40-52: n = 13 patients, -100.0%), 50% responder rate (Weeks 40-52: 61.5%, n = 8/13), and
-
-<div style=\"page-break-after: always\"></div>
-
-seizure-free rate (Weeks 40-52: 38.5%, n = 5/13) were sustained following 52 weeks of perampanel treatment. These results should be considered cautiously as the number of patients is very small.
+In patients with primary generalised tonic-clonic seizures (n = 22 patients, with 19 patients aged 7-&lt;12 years and 3 patients aged 4-&lt;7 years), the median change in seizure frequency per 28 days, the 50% or greater responder rate, and seizure-free rate were -69.2%, 63.6% (n = 14/22), and 54.5% (n = 12/22), respectively. The treatment effects on the median reduction in seizure frequency (Weeks 40-52: n = 13 patients, -100.0%), 50% responder rate (Weeks 40-52: 61.5%, n = 8/13), and seizure-free rate (Weeks 40-52: 38.5%, n = 5/13) were sustained following 52 weeks of perampanel treatment. These results should be considered cautiously as the number of patients is very small.
 
 Similar results were obtained in a subset of patients with primary generalised tonic-clonic seizures of idiopathic generalised epilepsy (IGE) (n = 19 patients, with 17 patients aged 7-&lt;12 years and 2 patients aged 4-&lt;7 years; the corresponding values were -56.5%, 63.2% (n = 12/19), and 52.6% (n = 10/19), respectively. The treatment effects on the median reduction in seizure frequency (Weeks 40-52: n = 11 patients, -100.0%), 50% responder rate (Weeks 40-52: 54.5%, n = 6/11), and seizure-free rate (Weeks 40-52: 36.4%, n = 4/11) were sustained following 52 weeks of perampanel treatment. These results should be considered cautiously as the number of patients is very small.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 5.2 Pharmacokinetic properties
 
@@ -575,17 +584,15 @@ Following administration of a radiolabelled perampanel dose to either 8 healthy 
 
 ## Linearity/non-linearity
 
-In a population PK analysis on pooled data from twenty Phase 1 studies in healthy subjects receiving perampanel between 0.2 and 36 mg either as single or multiple doses, one Phase 2 and five Phase 3
-
-<div style=\"page-break-after: always\"></div>
-
-studies in patients with partial-onset seizure receiving perampanel between 2 and 16 mg/day and two Phase 3 studies in patients with primary generalised tonic-clonic seizures receiving perampanel between 2 and 14 mg/day a linear relationship was found between dose and perampanel plasma concentrations.
+In a population PK analysis on pooled data from twenty Phase 1 studies in healthy subjects receiving perampanel between 0.2 and 36 mg either as single or multiple doses, one Phase 2 and five Phase 3 studies in patients with partial-onset seizure receiving perampanel between 2 and 16 mg/day and two Phase 3 studies in patients with primary generalised tonic-clonic seizures receiving perampanel between 2 and 14 mg/day a linear relationship was found between dose and perampanel plasma concentrations.
 
 ## Special populations
 
 ## Hepatic impairment
 
 The pharmacokinetics of perampanel following a single 1 mg dose were evaluated in 12 patients with mild and moderate hepatic impairment (Child-Pugh A and B, respectively) compared with 12 healthy, demographically matched subjects. The mean apparent clearance of unbound perampanel in mildly impaired patients was 188 ml/min vs. 338 ml/min in matched controls, and in moderately impaired patients was 120 ml/min vs. 392 ml/min in matched controls. The t½ was longer in mildly impaired (306 h vs. 125 h) and moderately impaired (295 h vs. 139 h) patients compared to matched healthy subjects.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Renal impairment
 
@@ -611,8 +618,6 @@ In a population pharmacokinetic analysis on pooled data from children aged 4 to 
 
 In human liver microsomes, perampanel (30 µmol/l) had a weak inhibitory effect on CYP2C8 and UGT1A9 among major hepatic CYPs and UGTs.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Drug metabolising enzyme induction
 
 Compared with positive controls (including phenobarbital, rifampicin), perampanel was found to weakly induce CYP2B6 (30 µmol/l) and CYP3A4/5 (≥ 3 µmol/l) among major hepatic CYPs and UGTs in cultured human hepatocytes.
@@ -622,6 +627,8 @@ Compared with positive controls (including phenobarbital, rifampicin), perampane
 Adverse reactions not observed in clinical studies, but seen in animals at exposure levels similar to clinical exposure levels and with possible relevance to clinical use were as follows:
 
 In the fertility study in rats, prolonged and irregular oestrous cycles were observed at the maximum tolerated dose (30 mg/kg) in females; however, these changes did not affect fertility and early embryonic development. There were no effects on male fertility.
+
+<div style=\"page-break-after: always\"></div>
 
 The excretion into breast milk was measured in rats at 10 days post-partum. Levels peaked at one hour and were 3.65 times the levels in plasma.
 
@@ -633,25 +640,23 @@ Nonclinical data reveal that perampanel was not genotoxic and had no carcinogeni
 
 ## 6.1 List of excipients
 
-Fycompa 2 mg, 4 mg film-coated tablets
+## Fycompa 2 mg, 4 mg film-coated tablets
 
 Core Lactose monohydrate Low-substituted hydroxypropyl cellulose Povidone K-29/32 Magnesium stearate (E470b)
 
-## Fycompa 6 mg, 8 mg, 10 mg, 12 mg film-coated tablets
+Fycompa 6 mg, 8 mg, 10 mg, 12 mg film-coated tablets
 
 Core Lactose monohydrate Low-substituted hydroxypropyl cellulose Povidone K-29/32 Microcrystalline cellulose Magnesium stearate (E470b)
 
-<div style=\"page-break-after: always\"></div>
-
 ## Fycompa 2 mg film-coated tablets
 
-Film coating Hypromellose 2910 Talc Macrogol 8000 Titanium dioxide (E171) Ferric oxide, yellow (E172)
-
-Ferric oxide, red (E172)
+Film coating Hypromellose 2910 Talc Macrogol 8000 Titanium dioxide (E171) Ferric oxide, yellow (E172) Ferric oxide, red (E172)
 
 ## Fycompa 4 mg film-coated tablets
 
 Film coating Hypromellose 2910 Talc Macrogol 8000 Titanium dioxide (E171) Ferric oxide, red (E172)
+
+<div style=\"page-break-after: always\"></div>
 
 ## Fycompa 6 mg film-coated tablets
 
@@ -659,9 +664,7 @@ Film coating Hypromellose 2910 Talc Macrogol 8000 Titanium dioxide (E171) Ferric
 
 ## Fycompa 8 mg film-coated tablets
 
-Film coating Hypromellose 2910 Talc Macrogol 8000 Titanium dioxide (E171) Ferric oxide, red (E172)
-
-Ferric oxide, black (E172)
+Film coating Hypromellose 2910 Talc Macrogol 8000 Titanium dioxide (E171) Ferric oxide, red (E172) Ferric oxide, black (E172)
 
 ## Fycompa 10 mg film-coated tablets
 
@@ -669,9 +672,17 @@ Film coating Hypromellose 2910 Talc Macrogol 8000 Titanium dioxide (E171) Ferric
 
 ## Fycompa 12 mg film-coated tablets
 
-Film coating Hypromellose 2910 Talc Macrogol 8000 Titanium dioxide (E171) FD&amp;C Blue #2 Indigo carmine aluminium lake (E132)
+Film coating
 
-<div style=\"page-break-after: always\"></div>
+Hypromellose 2910
+
+Talc
+
+Macrogol 8000
+
+Titanium dioxide (E171)
+
+FD&amp;C Blue #2 Indigo carmine aluminium lake (E132)
 
 ## 6.2 Incompatibilities
 
@@ -679,7 +690,7 @@ Not applicable.
 
 ## 6.3 Shelf life
 
-5 years
+5 years.
 
 ## 6.4 Special precautions for storage
 
@@ -687,23 +698,19 @@ This medicinal product does not require any special storage conditions.
 
 ## 6.5 Nature and contents of container
 
-PVC/aluminium blisters
+## PVC/aluminium blisters
 
 Fycompa 2 mg film-coated tablets Pack of 7 only for first week of dosing, 28 and 98
 
+<div style=\"page-break-after: always\"></div>
+
 Fycompa 4 mg film-coated tablets 4 mg - packs of 7, 28, 84 and 98
 
-Fycompa 6 mg film-coated tablets
+Fycompa 6 mg film-coated tablets 6 mg - packs of 7, 28, 84 and 98
 
-6 mg - packs of 7, 28, 84 and 98
+Fycompa 8 mg film-coated tablets 8 mg - packs of 7, 28, 84 and 98
 
-Fycompa 8 mg film-coated tablets
-
-8 mg - packs of 7, 28, 84 and 98
-
-Fycompa 10 mg film-coated tablets
-
-10 mg - packs of 7, 28, 84 and 98
+Fycompa 10 mg film-coated tablets 10 mg - packs of 7, 28, 84 and 98
 
 Fycompa 12 mg film-coated tablets 12 mg - packs of 7, 28, 84 and 98
 
@@ -711,17 +718,17 @@ Not all pack sizes may be marketed.
 
 ## 6.6 Special precautions for disposal
 
-No special requirements.
+No special requirements for disposal.
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Eisai GmbH Edmund-Rumpler-Straße 3 60549 Frankfurt am Main Germany
+Eisai GmbH Edmund-Rumpler-Straße 3 60549 Frankfurt am Main
+
+Germany
 
 e-mail: medinfo\\_de@eisai.net
-
-<div style=\"page-break-after: always\"></div>
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
@@ -737,9 +744,7 @@ Date of latest renewal: 6 April 2017
 
 {MM/YYYY}
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu.
-
-23
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -749,9 +754,9 @@ Fycompa 0.5 mg/ml oral suspension
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
-Each ml of oral suspension contains 0.5 mg perampanel
+Each ml of oral suspension contains 0.5 mg perampanel.
 
-Each bottle of 340 ml contains 170 mg perampanel
+Each bottle of 340 ml contains 170 mg perampanel.
 
 ## Excipient with known effect:
 
@@ -799,7 +804,7 @@ The following table summarises the recommended posology for adults, adolescents 
 | Titration (incremental steps) | 2 mg/day (4 ml/day) (no more frequently than weekly intervals) | 2 mg/day (4 ml/day) (no more frequently than weekly intervals) | 1 mg/day (2 ml/day) (no more frequently than weekly intervals) | 0.5 mg/day (1 ml/day) (no more frequently than weekly intervals) |
 | Recommended maximum dose      | 12 mg/day (24 ml/day)                                          | 12 mg/day (24 ml/day)                                          | 8 mg/day (16 ml/day)                                           | 6 mg/day (12 ml/day)                                             |
 
-## Adults, adoles cents age ≥ 12 years
+## Adults, adolescents age ≥ 12 years
 
 Treatment with Fycompa should be initiated with a dose of 2 mg/day (4 ml/day). The dose may be increased based on clinical response and tolerability by increments of 2 mg (4 ml) (either weekly or every 2 weeks as per half-life considerations described below) to a maintenance dose of 4 mg/day (8 ml/day) to 8 mg/day (16 ml/day). Depending upon individual clinical response and tolerability at a dose of 8 mg/day (16 ml/day), the dose may be increased by increments of 2 mg/day (4 ml/day) to 12 mg/day (24 ml/day). Patients who are taking concomitant medicinal products that do not shorten the half-life of perampanel (see section 4.5) should be titrated no more frequently than at 2-week intervals. Patients who are taking concomitant medicinal products that shorten the half-life of perampanel (see section 4.5) should be titrated no more frequently than at 1-week intervals.
 
@@ -813,11 +818,9 @@ Treatment with Fycompa should be initiated with a dose of 1 mg/day (2 ml/day). T
 
 ## Children (from 4 to 11 years of age) weighing &lt; 20 kg
 
-Treatment with Fycompa should be initiated with a dose of 1 mg/day (2 ml/day). The dose may be increased based on clinical response and tolerability by increments of 1 mg (2 ml/day) (either weekly
+Treatment with Fycompa should be initiated with a dose of 1 mg/day (2 ml/day). The dose may be increased based on clinical response and tolerability by increments of 1 mg (2 ml/day) (either weekly or every 2 weeks as per half-life considerations described below) to a maintenance dose of 2 mg/day (4 ml/day) to 4 mg/day (8 ml/day). Depending upon individual clinical response and tolerability at a dose of 4 mg/day (8 ml/day), the dose may be increased by increments of 0.5 mg/day (1 ml/day) to 6 mg/day (12 ml/day). Patients who are taking concomitant medicinal products that do not shorten the half-life of perampanel (see section 4.5) should be titrated no more frequently than at 2-week intervals. Patients who are taking concomitant medicinal products that shorten the half-life of perampanel (see section 4.5) should be titrated no more frequently than at 1-week intervals.
 
 <div style=\"page-break-after: always\"></div>
-
-or every 2 weeks as per half-life considerations described below) to a maintenance dose of 2 mg/day (4 ml/day) to 4 mg/day (8 ml/day). Depending upon individual clinical response and tolerability at a dose of 4 mg/day (8 ml/day), the dose may be increased by increments of 0.5 mg/day (1 ml/day) to 6 mg/day (12 ml/day). Patients who are taking concomitant medicinal products that do not shorten the half-life of perampanel (see section 4.5) should be titrated no more frequently than at 2-week intervals. Patients who are taking concomitant medicinal products that shorten the half-life of perampanel (see section 4.5) should be titrated no more frequently than at 1-week intervals.
 
 ## Primary Generalised Tonic-Clonic Seizures
 
@@ -840,11 +843,9 @@ Treatment with Fycompa should be initiated at a dose of 2 mg/day (4 ml/day). The
 
 ## Children (from 7 to 11 years) weighing ≥ 30 kg
 
-Treatment with Fycompa should be initiated with a dose of 2 mg/day (4 ml/day). The dose may be increased based on clinical response and tolerability by increments of 2 mg (4 ml) (either weekly or every 2 weeks as per half-life considerations described below) to a maintenance dose of 4 mg/day (8 ml/day) to 8 mg/day (16 ml/day). Depending upon individual clinical response and tolerability at a dose of 8 mg/day (16 ml/day), the dose may be increased by increments of 2 mg/day (4 ml/day) to 12 mg/day (24 ml/day). Patients who are taking concomitant medicinal products that do not shorten the half-life of perampanel (see section 4.5) should be titrated no more frequently than at 2-week
+Treatment with Fycompa should be initiated with a dose of 2 mg/day (4 ml/day). The dose may be increased based on clinical response and tolerability by increments of 2 mg (4 ml) (either weekly or every 2 weeks as per half-life considerations described below) to a maintenance dose of 4 mg/day (8 ml/day) to 8 mg/day (16 ml/day). Depending upon individual clinical response and tolerability at a dose of 8 mg/day (16 ml/day), the dose may be increased by increments of 2 mg/day (4 ml/day) to 12 mg/day (24 ml/day). Patients who are taking concomitant medicinal products that do not shorten the half-life of perampanel (see section 4.5) should be titrated no more frequently than at 2-week intervals. Patients who are taking concomitant medicinal products that shorten the half-life of perampanel (see section 4.5) should be titrated no more frequently than at 1-week intervals.
 
 <div style=\"page-break-after: always\"></div>
-
-intervals. Patients who are taking concomitant medicinal products that shorten the half-life of perampanel (see section 4.5) should be titrated no more frequently than at 1-week intervals.
 
 ## Children (from 7 to 11 years of age) weighing 20 kg and &lt; 30 kg
 
@@ -888,7 +889,7 @@ The safety and efficacy of perampanel have not yet been established in children 
 
 ## Method of administration
 
-## Fycompa is for oral use.
+Fycompa is for oral use.
 
 Preparation: The press-in-bottle adapter (PIBA) which is supplied in the product carton should be inserted firmly into the neck of the bottle before use and remain in place for the duration of the usage of the bottle. The oral syringe should be inserted into the PIBA and the dose withdrawn from the inverted bottle. The cap should be replaced after each use. The cap fits properly when the PIBA is in place.
 
@@ -912,11 +913,9 @@ At the time of prescription patients should be advised of the signs and symptoms
 
 Symptoms of DRESS include typically, although not exclusively, fever, rash associated with other organ system involvement, lymphadenopathy, liver function tests abnormalities and eosinophilia. It is important to note that early manifestations of hypersensitivity, such as fever or lymphadenopathy, may be present even though rash is not evident.
 
-Symptoms of SJS include typically although not exclusively, skin detachment (epidermal necrosis/blister) &lt; 10%, erythematous skin (confluent), rapid progression, painful atypical target-like
+Symptoms of SJS include typically although not exclusively, skin detachment (epidermal necrosis/blister) &lt; 10%, erythematous skin (confluent), rapid progression, painful atypical target-like lesions and/or purpuric macules in wide dissemination or large erythema (confluent), bullous/erosive involvement of more than 2 mucous membranes.
 
 <div style=\"page-break-after: always\"></div>
-
-lesions and/or purpuric macules in wide dissemination or large erythema (confluent), bullous/erosive involvement of more than 2 mucous membranes.
 
 If signs and symptoms suggestive of these reactions appear, perampanel should be withdrawn immediately and an alternative treatment considered (as appropriate).
 
@@ -1004,6 +1003,8 @@ Potential interactions between Fycompa and other anti-epileptic drugs (AEDs) wer
 | Valproic Acid        | No influence                                | <10% decrease                               |
 | Zonisamide           | No influence                                | No influence                                |
 
+- 1) Active metabolite monohydroxycarbazepine was not assessed.
+
 Based on the results from the population pharmacokinetic analysis of patients with partial-onset seizures and patients with primary generalised tonic-clonic seizures the total clearance of Fycompa was increased when co-administered with carbamazepine (3-fold), and phenytoin or oxcarbazepine (2-fold), which are known inducers of enzymes of metabolism (see section 5.2). This effect should be taken into account and managed when adding or withdrawing these anti-epileptic drugs from a patient's treatment regimen. Clonazepam, levetiracetam, phenobarbital, topiramate, zonisamide, clobazam, lamotrigine and valproic acid did not affect to a clinically relevant manner the clearance of Fycompa.
 
 In a population pharmacokinetic analysis of patients with partial-onset seizures, Fycompa did not affect to a clinically relevant manner the clearance of clonazepam, levetiracetam, phenobarbital, phenytoin, topiramate, zonisamide, carbamazepine, clobazam, lamotrigine and valproic acid, at the highest perampanel dose evaluated (12 mg/day).
@@ -1086,7 +1087,7 @@ Severe cutaneous adverse reactions (SCARs) including drug reaction with eosinoph
 
 ## Tabulated list of adverse reactions
 
-In the table below, adverse reactions, which were identified based on review of the full Fycompa clinical studies safety database, are listed by System Organ Class and frequency. The following convention has been used for the classification of adverse reactions: very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), uncommon (≥ 1/1,000 to &lt; 1/100), not known (cannot be estimated from the available data).
+In the table below, adverse reactions, which were identified based on review of the full Fycompa clinical studies safety database, are listed by System Organ Class and frequency. The following convention has been used for the classification of adverse reac tions: very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), uncommon (≥ 1/1,000 to &lt; 1/100), not known (cannot be estimated from the available data).
 
 Within each frequency category, adverse reactions are presented in order of decreasing seriousness.
 
@@ -1125,7 +1126,7 @@ Reporting suspected adverse reactions after authorisation of the medicinal produ
 
 ## 4.9 Overdose
 
-There have been post-marketing cases of intentional and accidental overdose in paediatric patients with doses of perampanel up to 36 mg and in adult patients with doses up to 300 mg. The adverse reactions observed included altered mental status, agitation, aggressive behaviour, coma and depressed level of consciousness. The patients recovered without sequelae.
+There have been post-marketing cases of intentional and accidental overdose. Reported doses of perampanel were up to approximately 50 mg in paediatric patients and up to 300 mg in adult patients. The adverse reactions observed included altered mental status, agitation, aggressive behaviour, vomiting, coma, and depressed level of consciousness. The patients recovered without sequelae.
 
 There is no available specific antidote to the effects of perampanel.
 
@@ -1141,7 +1142,7 @@ Pharmacotherapeutic group: antiepileptics, other antiepileptics, ATC code: N03AX
 
 ## Mechanism of action
 
-Perampanel is a first-in-class selective, non-competitive antagonist of the ion otropic α -amino-3hydroxy-5-methyl-4-isoxazolepropionic acid (AMPA) glutamate receptor on post-synaptic neurons. Glutamate is the primary excitatory neurotransmitter in the central nervous system and is implicated in a number of neurological disorders caused by neuronal overexcitation. Activation of AMPA receptors by glutamate is thought to be responsible for most fast excitatory synaptic transmission in the brain. In in vitro studies, perampanel did not compete with AMPA for binding to the AMPA receptor, but perampanel binding was displaced by noncompetitive AMPA receptor antagonists, indicating that perampanel is a noncompetitive AMPA receptor antagonist. In vitro , perampanel inhibited AMPA-induced (but not NMDA-induced) increase in intracellular calcium. In vivo , perampanel significantly prolonged seizure latency in an AMPA-induced seizure model.
+Perampanel is a first-in-class selective, noncompetitive antagonist of the ionotropic α -amino-3hydroxy-5-methyl-4-isoxazolepropionic acid (AMPA) glutamate receptor on post-synaptic neurons. Glutamate is the primary excitatory neurotransmitter in the central nervous system and is implicated in a number of neurological disorders caused by neuronal overexcitation. Activation of AMPA receptors by glutamate is thought to be responsible for most fast excitatory synaptic transmission in the brain. In in vitro studies, perampanel did not compete with AMPA for binding to the AMPA receptor, but perampanel binding was displaced by noncompetitive AMPA receptor antagonists, indicating that perampanel is a noncompetitive AMPA receptor antagonist. In vitro , perampanel inhibited AMPA-induced (but not NMDA-induced) increase in intracellular calcium. In vivo , perampanel significantly prolonged seizure latency in an AMPA-induced seizure model.
 
 The precise mechanism by which perampanel exerts its antiepileptic effects in humans remains to be fully elucidated.
 
@@ -1209,11 +1210,9 @@ Of the 140 patients who completed the Study 332, 114 patients (81.4%) had entere
 
 ## Conversion to monotherapy
 
-In a retrospective study of clinical practice, 51 patients with epilepsy who received perampanel as adjunctive treatment converted to perampanel monotherapy. The majority of these patients had a history of partial onset seizures. Of these, 14 patients (27%) reverted to adjunctive therapy in the following months. Thirty four (34) patients were followed up for at least 6 months and, of these, 24 patients (71%) remained on perampanel monotherapy for at least 6 months. Ten (10) patients were
+In a retrospective study of clinical practice, 51 patients with epilepsy who received perampanel as adjunctive treatment converted to perampanel monotherapy. The majority of these patients had a history of partial onset seizures. Of these, 14 patients (27%) reverted to adjunctive therapy in the following months. Thirty four (34) patients were followed up for at least 6 months and, of these, 24 patients (71%) remained on perampanel monotherapy for at least 6 months. Ten (10) patients were followed up for at least 18 months and, of these, 3 patients (30%) remained on perampanel monotherapy for at least 18 months.
 
 <div style=\"page-break-after: always\"></div>
-
-followed up for at least 18 months and, of these, 3 patients (30%) remained on perampanel monotherapy for at least 18 months.
 
 ## Paediatric population
 
@@ -1229,11 +1228,9 @@ An open-label, uncontrolled study (Study 311) was performed to assess the exposu
 
 In patients with partial-onset seizures (n = 148 patients), the median change in seizure frequency per 28 days, the 50% or greater responder rate, and seizure-free rate following 23 weeks of perampanel treatment were -40.1%, 46.6% (n = 69/148), and 11.5% (n = 17/148), respectively, for total partial-onset seizures. The treatment effects on the median reduction in seizure frequency (Weeks 40-52: n = 108 patients, -69.4%), 50% responder rate (Weeks 40-52: 62.0%, n = 67/108), and seizure-free rate (Weeks 40-52: 13.0%, n = 14/108) were sustained following 52 weeks of perampanel treatment.
 
-In a subset of partial-onset seizure patients with secondarily generalised seizures, the corresponding values were -58.7%, 64.8% (n = 35/54), and 18.5% (n = 10/54), respectively, for secondarily
+In a subset of partial-onset seizure patients with secondarily generalised seizures, the corresponding values were -58.7%, 64.8% (n = 35/54), and 18.5% (n = 10/54), respectively, for secondarily generalised tonic-clonic seizures. The treatment effects on the median reduction in seizure frequency (Weeks 40-52: n = 41 patients, -73.8%), 50% responder rate (Weeks 40-52: 80.5%, n = 33/41), and seizure-free rate (Weeks 40-52: 24.4%, n = 10/41) were sustained following 52 weeks of perampanel treatment.
 
 <div style=\"page-break-after: always\"></div>
-
-generalised tonic-clonic seizures. The treatment effects on the median reduction in seizure frequency (Weeks 40-52: n = 41 patients, -73.8%), 50% responder rate (Weeks 40-52: 80.5%, n = 33/41), and seizure-free rate (Weeks 40-52: 24.4%, n = 10/41) were sustained following 52 weeks of perampanel treatment.
 
 In patients with primary generalised tonic-clonic seizures (n = 22 patients, with 19 patients aged 7-&lt;12 years and 3 patients aged 4-&lt;7 years), the median change in seizure frequency per 28 days, the 50% or greater responder rate, and seizure-free rate were -69.2%, 63.6% ( n = 14/22), and 54.5% (n = 12/22), respectively. The treatment effects on the median reduction in seizure frequency (Weeks 40-52: n = 13 patients, -100.0%), 50% responder rate (Weeks 40-52: 61.5%, n = 8/13), and seizure-free rate (Weeks 40-52: 38.5%, n = 5/13) were sustained following 52 weeks of perampanel treatment. These results should be considered cautiously as the number of patients is very small.
 
@@ -1257,11 +1254,11 @@ Data from in vitro studies indicate that perampanel is approximately 95% bound t
 
 In vitro studies show that perampanel is not a substrate or significant inhibitor of organic anion transporting polypeptides (OATP) 1B1 and 1B3, organic anion transporters (OAT) 1, 2, 3, and 4, organic cation transporters (OCT) 1, 2, and 3, and the efflux transporters P-glycoprotein and Breast Cancer Resistance Protein (BCRP).
 
-<div style=\"page-break-after: always\"></div>
-
 ## Biotransformation
 
 Perampanel is extensively metabolised via primary oxidation and sequential glucuronidation. The metabolism of perampanel is mediated primarily by CYP3A based on clinical study results in healthy subjects administered radiolabelled perampanel and supported by in vitro studies using recombinant human CYPs and human liver microsomes.
+
+<div style=\"page-break-after: always\"></div>
 
 Following administration of radiolabelled perampanel, only trace amounts of perampanel metabolites were observed in plasma.
 
@@ -1287,11 +1284,11 @@ The pharmacokinetics of perampanel have not been formally evaluated in patients 
 
 In a population pharmacokinetic analysis of patients with partial-onset seizures receiving perampanel up to 12 mg/day and patients with primary generalised tonic-clonic seizures receiving perampanel up to 8 mg/day in placebo-controlled clinical trials, perampanel clearance in females (0.54 l/h) was 18% lower than in males (0.66 l/h).
 
-<div style=\"page-break-after: always\"></div>
-
 ## Elderly (65 years of age and above)
 
 In a population pharmacokinetic analysis of patients with partial-onset seizures (age range 12 to 74 years) and primary generalised tonic-clonic seizures (age range 12 to 58 years), and receiving perampanel up to 8 or 12 mg/day in placebo-controlled clinical trials, no significant effect of age on perampanel clearance was found. A dose adjustment in the elderly is not considered to be necessary (see section 4.2).
+
+<div style=\"page-break-after: always\"></div>
 
 ## Paediatric population
 
@@ -1299,7 +1296,7 @@ In a population pharmacokinetic analysis on pooled data from children aged 4 to 
 
 ## Drug interaction studies
 
-In vitro assessment of drug interactions
+## In vitro assessment of drug interactions
 
 ## Drug metabolising enzyme inhibition
 
@@ -1327,19 +1324,7 @@ Nonclinical data reveal that perampanel was not genotoxic and had no carcinogeni
 
 ## 6.1 List of excipients
 
-Sorbitol (E420) liquid (crystallising)
-
-Microcrystalline cellulose (E460)
-
-Carmellose sodium (E466)
-
-Poloxamer 188
-
-Simethicone emulsion 30%, containing purified water, silicone oil, polysorbate 65, methylcellulose, silica gel, macrogol stearate, sorbic acid, benzoic acid (E210) and sulfuric acid Citric acid, anhydrous (E330)
-
-Sodium benzoate (E211)
-
-Purified water
+Sorbitol (E420) liquid (crystallising) Microcrystalline cellulose (E460) Carmellose sodium (E466) Poloxamer 188 Simethicone emulsion 30%, containing purified water, silicone oil, polysorbate 65, methylcellulose, silica gel, macrogol stearate, sorbic acid, benzoic acid (E210) and sulfuric acid Citric acid, anhydrous (E330) Sodium benzoate (E211) Purified water
 
 ## 6.2 Incompatibilities
 
@@ -1379,19 +1364,25 @@ e-mail: medinfo\\_de@eisai.net
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-## EU/1/12/776/024
+EU/1/12/776/024
 
-## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
+9.
+
+DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
 Date of first authorisation: 23 July 2012
 
 Date of latest renewal: 6 April 2017
 
-## 10. DATE OF REVISION OF THE TEXT
+10.
 
-## {MM/YYYY}
+DATE OF REVISION OF THE TEXT
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu.
+{MM/YYYY}
+
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
+
+42
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1471,7 +1462,7 @@ Contains lactose: see leaflet for further information.
 
 Read the package leaflet before use.
 
-Oral use
+Oral use.
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -1534,9 +1525,7 @@ NN:
 | 1.   | NAME OF THE MEDICINAL PRODUCT   |
 |------|---------------------------------|
 
-Fycompa 2 mg tablets
-
-Perampanel
+Fycompa 2 mg tablets Perampanel
 
 | 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
 |------|----------------------------------------------|
@@ -1578,7 +1567,8 @@ Contains lactose: see leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-- 7 film-coated tablets
+7 film-coated tablets
+
 - 28 film-coated tablets
 - 84 film-coated tablets
 - 98 film-coated tablets
@@ -1587,7 +1577,7 @@ Contains lactose: see leaflet for further information.
 
 Read the package leaflet before use.
 
-Oral use
+Oral use.
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -1651,9 +1641,7 @@ NN:
 | 1.   | NAME OF THE MEDICINAL PRODUCT   |
 |------|---------------------------------|
 
-Fycompa 4 mg tablets
-
-Perampanel
+Fycompa 4 mg tablets Perampanel
 
 | 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
 |------|----------------------------------------------|
@@ -1695,7 +1683,8 @@ Contains lactose: see leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-- 7 film-coated tablets
+7 film-coated tablets
+
 - 28 film-coated tablets
 - 84 film-coated tablets
 - 98 film-coated tablets
@@ -1704,7 +1693,7 @@ Contains lactose: see leaflet for further information.
 
 Read the package leaflet before use.
 
-Oral use
+Oral use.
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -1717,8 +1706,6 @@ Keep out of the sight and reach of children.
 EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
-
-<div style=\"page-break-after: always\"></div>
 
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
@@ -1743,6 +1730,7 @@ Lot
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
+
 16. INFORMATION IN BRAILLE
 
 Fycompa 6 mg
@@ -1758,6 +1746,8 @@ PC:
 SN:
 
 NN:
+
+<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1812,7 +1802,8 @@ Contains lactose: see leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-- 7 film-coated tablets
+7 film-coated tablets
+
 - 28 film-coated tablets
 - 84 film-coated tablets
 - 98 film-coated tablets
@@ -1821,7 +1812,7 @@ Contains lactose: see leaflet for further information.
 
 Read the package leaflet before use.
 
-Oral use
+Oral use.
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -1885,9 +1876,7 @@ NN:
 | 1.   | NAME OF THE MEDICINAL PRODUCT   |
 |------|---------------------------------|
 
-Fycompa 8 mg tablets
-
-Perampanel
+Fycompa 8 mg tablets Perampanel
 
 | 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
 |------|----------------------------------------------|
@@ -1929,7 +1918,8 @@ Contains lactose: see leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-- 7 film-coated tablets
+7 film-coated tablets
+
 - 28 film-coated tablets
 - 84 film-coated tablets
 - 98 film-coated tablets
@@ -1938,7 +1928,7 @@ Contains lactose: see leaflet for further information.
 
 Read the package leaflet before use.
 
-Oral use
+Oral use.
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -2002,7 +1992,9 @@ NN:
 | 1.   | NAME OF THE MEDICINAL PRODUCT   |
 |------|---------------------------------|
 
-Fycompa 10 mg tablets Perampanel
+Fycompa 10 mg tablets
+
+Perampanel
 
 | 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
 |------|----------------------------------------------|
@@ -2044,7 +2036,8 @@ Contains lactose: see leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-- 7 film-coated tablets
+7 film-coated tablets
+
 - 28 film-coated tablets
 - 84 film-coated tablets
 - 98 film-coated tablets
@@ -2053,7 +2046,7 @@ Contains lactose: see leaflet for further information.
 
 Read the package leaflet before use.
 
-Oral use
+Oral use.
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -2092,8 +2085,7 @@ Lot
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
-
-## 16. INFORMATION IN BRAILLE
+16. INFORMATION IN BRAILLE
 
 Fycompa 12 mg
 
@@ -2118,9 +2110,7 @@ NN:
 | 1.   | NAME OF THE MEDICINAL PRODUCT   |
 |------|---------------------------------|
 
-Fycompa 12 mg tablets
-
-Perampanel
+Fycompa 12 mg tablets Perampanel
 
 | 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
 |------|----------------------------------------------|
@@ -2146,7 +2136,9 @@ Lot
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Fycompa 0.5 mg/ml oral suspension perampanel
+Fycompa 0.5 mg/ml oral suspension
+
+perampanel
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -2172,7 +2164,7 @@ Read the package leaflet before use.
 
 Shake for at least 5 seconds before use.
 
-Oral use
+Oral use.
 
 Open date:
 
@@ -2184,16 +2176,14 @@ Keep out of the sight and reach of children.
 
 <div style=\"page-break-after: always\"></div>
 
-| 8.   | EXPIRY DATE   |
-|------|---------------|
-
 ## 8. EXPIRY DATE
 
 EXP
 
 After first opening: use within 90 days.
 
-## 9. SPECIAL STORAGE CONDITIONS
+| 9.   | SPECIAL STORAGE CONDITIONS   |
+|------|------------------------------|
 
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
@@ -2201,32 +2191,32 @@ After first opening: use within 90 days.
 
 Eisai GmbH Edmund-Rumpler-Straße 3 60549 Frankfurt am Main Germany
 
-## 12. MARKETING AUTHORISATION NUMBER(S)
+| 12. MARKETING AUTHORISATION NUMBER(S)   |
+|-----------------------------------------|
 
 EU/1/12/776/024
 
-13. BATCH NUMBER
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
 
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
-
 15. INSTRUCTIONS ON USE
-
 16. INFORMATION IN BRAILLE
 
 Fycompa 0.5 mg/ml
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
-
-<div style=\"page-break-after: always\"></div>
 
 | 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
 |-------|------------------------------------------|
 
-PC: SN: NN:
+PC: SN:
+
+NN:
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2282,9 +2272,9 @@ You should not take Fycompa if you have serious liver problems or moderate or se
 
 Before taking this medicine you should tell your doctor if you have a history of alcoholism or drug dependence.
 
-Cases of increased liver enzymes have been reported in some patients taking Fycompa in combination with other antiepileptic drugs.
-
 <div style=\"page-break-after: always\"></div>
+
+Cases of increased liver enzymes have been reported in some patients taking Fycompa in combination with other antiepileptic drugs.
 
 - -Fycompa may make you feel dizzy or sleepy, particularly at the beginning of treatment.
 - -Fycompa may make you more likely to fall over, particularly if you are an older person; this might be due to your illness.
@@ -2317,11 +2307,11 @@ Tell your doctor or pharmacist if you are taking or have recently taken or might
 
 Tell your doctor if you are taking hormonal contraceptives. Fycompa may make certain hormonal contraceptives such as levonorgestrel less effective. You should use other forms of safe and effective contraception (such as a condom or coil) when taking Fycompa. You should continue doing this for one month after stopping treatment. Discuss with your doctor what may be appropriate contraception for you.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Fycompa with alcohol
 
 Speak to your doctor before drinking alcohol. Be careful about consuming alcohol with epilepsy medicines including Fycompa.
-
-<div style=\"page-break-after: always\"></div>
 
 - -Drinking alcohol while taking Fycompa can make you less alert and affect your ability to drive or use tools or machines.
 - -Drinking alcohol while taking Fycompa can also make any feelings of anger, confusion or sadness worse.
@@ -2431,7 +2421,7 @@ Swallow the tablet whole with a glass of water. You can take Fycompa with or wit
 
 ## If you take more Fycompa than you should
 
-If you have taken more Fycompa than you should contact your doctor straight away. You may experience confusion, agitation, aggressive behaviour and depressed level of consciousness.
+If you have taken more Fycompa than you should, contact your doctor straight away. You may experience confusion, agitation, aggressive behaviour, vomiting, and reduced  level of consciousness.
 
 ## If you forget to take Fycompa
 
@@ -2507,35 +2497,11 @@ The active substance is perampanel. Each film-coated tablet contains 2 mg, 4 mg,
 
 The other ingredients are: Tablet core (2 mg and 4 mg tablets):
 
-Lactose monohydrate, low-substituted hydroxypropyl cellulose, povidone, magnesium stearate (E470b) Tablet core (6 mg, 8 mg, 10 mg and 12 mg tablets) Lactose monohydrate, low-substituted hydroxypropyl cellulose, povidone, microcrystalline cellulose, magnesium stearate (E470b) Film coating (2 mg, 4 mg, 6 mg, 8 mg, 10 mg and 12 mg tablets) Hypromellose 2910, talc, Macrogol 8000, titanium dioxide (E171), colourants* *The colourants are: 2 mg tablet: Ferric Oxide, Yellow (E172), Ferric Oxide, Red (E172) 4 mg tablet: Ferric Oxide, Red (E172) 6 mg tablet: Ferric Oxide, Red (E172) 8 mg tablet: Ferric Oxide, Red (E172), Ferric Oxide, Black (E172) 10 mg tablet: Ferric Oxide, Yellow (E172), FD&amp;C Blue #2 Indigo carmine aluminium lake (E132) 12 mg tablet: FD&amp;C Blue #2 Indigo carmine aluminium lake (E132)
+Lactose monohydrate, low-substituted hydroxypropyl cellulose, povidone, magnesium stearate (E470b) Tablet core (6 mg, 8 mg, 10 mg and 12 mg tablets) Lactose monohydrate, low-substituted hydroxypropyl cellulose, povidone, microcrystalline cellulose, magnesium stearate (E470b) Film coating (2 mg, 4 mg, 6 mg, 8 mg, 10 mg and 12 mg tablets) Hypromellose 2910, talc, Macrogol 8000, titanium dioxide (E171), colourants* *The colourants are: 2 mg tablet: Ferric Oxide, Yellow (E172), Ferric Oxide, Red (E172) 4 mg tablet: Ferric Oxide, Red (E172) 6 mg tablet: Ferric Oxide, Red (E172) 8 mg tablet: Ferric Oxide, Red (E172), Ferric Oxide, Black (E172) 10 mg tablet: Ferric Oxide, Yellow (E172), FD&amp;C Blue #2 Indigo carmine aluminium lake (E132) 12 mg tablet: FD&amp;C Blue #2 Indigo carmine aluminium lake (E132) What Fycompa looks like and contents of the pack All strengths of Fycompa are round, biconvex film-coated tablets 2 mg: orange, marked with E275 on one side and 2 on other side 4 mg: red, marked with E277 on one side and 4 on other side 6 mg: pink, marked with E294 on one side and 6 on other side 8 mg: purple, marked with E295 on one side and 8 on other side 10 mg: green, marked with E296 on one side and 10 on other side 12 mg: blue, marked with E297 on one side and 12 on other side Fycompa is available in packs of: 2 mg tablet - pack of 7, 28 and 98 4 mg, 6 mg, 8 mg, 10 mg, 12 mg tablets - packs of 7, 28, 84 and 98 Not all pack sizes may be marketed Marketing Authorisation Holder Eisai GmbH Edmund-Rumpler-Straße 3 60549 Frankfurt am Main Germany e-mail: medinfo\\_de@eisai.net Manufacturer Eisai GmbH Edmund-Rumpler-Straße 3 60549 Frankfurt am Main Germany For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder: België/Belgique/Belgien Eisai SA/NV Tél/Tel: +32 (0)800 158 58 Tel: + 49 (0) 69 66 58 50
 
-## What Fycompa looks like and contents of the pack
-
-All strengths of Fycompa are round, biconvex film-coated tablets 2 mg: orange, marked with E275 on one side and 2 on other side 4 mg: red, marked with E277 on one side and 4 on other side 6 mg: pink, marked with E294 on one side and 6 on other side 8 mg: purple, marked with E295 on one side and 8 on other side 10 mg: green, marked with E296 on one side and 10 on other side 12 mg: blue, marked with E297 on one side and 12 on other side
-
-```
-Fycompa is available in packs of: 2 mg tablet - pack of 7, 28 and 98 4 mg, 6 mg, 8 mg, 10 mg, 12 mg tablets - packs of 7, 28, 84 and 98
-```
-
-Not all pack sizes may be marketed
-
-## Marketing Authorisation Holder
-
-Eisai GmbH Edmund-Rumpler-Straße 3 60549 Frankfurt am Main Germany e-mail: medinfo\\_de@eisai.net
-
-## Manufacturer
-
-Eisai GmbH Edmund-Rumpler-Straße 3 60549 Frankfurt am Main Germany
+Lietuva Eisai GmbH (Vokietija)
 
 <div style=\"page-break-after: always\"></div>
-
-For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
-
-## België/Belgique/Belgien
-
-Eisai SA/NV
-
-Tél/Tel: +32 (0)800 158 58
 
 ## България
 
@@ -2573,9 +2539,7 @@ Tel: + 49 (0) 69 66 58 50
 
 ## Ελλάδα
 
-Arriani Pharmaceutical S.A.
-
-Τηλ: + 30 210 668 3000
+Arriani Pharmaceutical S.A. Τηλ: + 30 210 668 3000
 
 ## España
 
@@ -2605,13 +2569,13 @@ Tel: + 49 (0) 69 66 58 50
 
 (Germany)
 
-## Lietuva
+## Ísland
 
-Eisai GmbH
+Eisai AB
 
-Tel: + 49 (0) 69 66 58 50
+Sími: + 46 (0)8 501 01 600
 
-(Vokietija)
+(Svíþjóð)
 
 ## Luxembourg/Luxemburg
 
@@ -2677,47 +2641,15 @@ Tel: + 49 (0) 69 66 58 50
 
 ( Nemčija )
 
-<div style=\"page-break-after: always\"></div>
+## Slovenská republika
 
-## Ísland
-
-Eisai AB
-
-Sími: + 46 (0)8 501 01 600
-
-(Svíþjóð)
+Eisai GesmbH organizačni složka Tel.: + 420 242 485 839 (Česká republika)
 
 ## Italia
 
 Eisai S.r.l.
 
 Tel: + 39 02 5181401
-
-## Κύπρος
-
-Arriani Pharmaceuticals S.A.
-
-Τηλ: + 30 210 668 3000
-
-(Ελλάδα)
-
-## Latvija
-
-Eisai GmbH
-
-Tel: + 49 (0) 69 66 58 50
-
-(Vācija)
-
-## This leaflet was last revised in {MM/YYYY}
-
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu
-
-## Slovenská republika
-
-Eisai GesmbH organizačni složka Tel.: + 420 242 485 839
-
-(Česká republika)
 
 ## Suomi/Finland
 
@@ -2727,11 +2659,23 @@ Puh/Tel: + 46 (0) 8 501 01 600
 
 (Ruotsi)
 
+## Κύπρος
+
+Arriani Pharmaceuticals S.A. Τηλ: + 30 210 668 3000 (Ελλάδα)
+
 ## Sverige
 
 Eisai AB
 
 Tel: + 46 (0) 8 501 01 600
+
+## Latvija
+
+Eisai GmbH
+
+Tel: + 49 (0) 69 66 58 50
+
+(Vācija)
 
 ## United Kingdom (Northern Ireland)
 
@@ -2740,6 +2684,12 @@ Eisai GmbH
 Tel: + 49 (0) 69 66 58 50
 
 (Germany)
+
+<div style=\"page-break-after: always\"></div>
+
+## This leaflet was last revised in {MM/YYYY}
+
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2793,9 +2743,9 @@ You should not take Fycompa if you have serious liver problems or moderate or se
 
 Before taking this medicine you should tell your doctor if you have a history of alcoholism or drug dependence.
 
-Cases of increased liver enzymes have been reported in some patients taking Fycompa in combination with other antiepileptic drugs.
-
 <div style=\"page-break-after: always\"></div>
+
+Cases of increased liver enzymes have been reported in some patients taking Fycompa in combination with other antiepileptic drugs.
 
 - -Fycompa may make you feel dizzy or sleepy, particularly at the beginning of treatment.
 - -Fycompa may make you more likely to fall over, particularly if you are an older person; this might be due to your illness.
@@ -2889,8 +2839,7 @@ The following table summarises the recommended doses in treating partial seizure
 |                              | More than 30 kg              | 20 kg to less than 30 kg     | Less than 20 kg             |
 | Recommended starting dose    | 2 mg/day (4 ml/day)          | 1 mg/day (2 ml/day)          | 1 mg/day (2 ml/day)         |
 | Recommended maintenance dose | 4 - 8 mg/day (8 - 16 ml/day) | 4 - 6 mg/day (8 - 12 ml/day) | 2 - 4 mg/day (4 - 8 ml/day) |
-| Recommended                  | 12 mg/day                    | 8 mg/day                     | 6 mg/day                    |
-| maximum dose                 | (24 ml/day)                  | (16 ml/day)                  | (12 ml/day)                 |
+| Recommended maximum dose     | 12 mg/day (24 ml/day)        | 8 mg/day (16 ml/day)         | 6 mg/day (12 ml/day)        |
 
 ## Children (from 4 to 11 years of age) weighing 30 kg or more in treating partial seizures:
 
@@ -2952,13 +2901,14 @@ Instructions on how to use the oral syringe and adaptor are provided below:
 
 <!-- image -->
 
-<div style=\"page-break-after: always\"></div>
-
 1. Shake for at least 5 seconds before use.
 2. Push down (1) and turn cap (2) to open bottle.
 3. Insert adaptor into the neck of the bottle until a tight seal is made.
 4. Push plunger of oral syringe completely down.
 5. Insert the oral syringe into the opening of the adaptor as far as possible.
+
+<div style=\"page-break-after: always\"></div>
+
 6. Turn upside down and withdraw the prescribed amount of Fycompa from the bottle.
 7. Turn upright and remove the oral syringe.
 8. Leave the adaptor in place and replace cap on bottle.
@@ -2968,7 +2918,7 @@ Instructions on how to use the oral syringe and adaptor are provided below:
 
 ## If you take more Fycompa than you should
 
-If you have taken more Fycompa than you should contact your doctor straight away. You may experience confusion, agitation, aggressive behaviour and depressed level of consciousness.
+If you have taken more Fycompa than you should, contact your doctor straight away. You may experience confusion, agitation, aggressive behaviour, vomiting, and reduced level of consciousness.
 
 ## If you forget to take Fycompa
 
@@ -3005,13 +2955,13 @@ A small number of people being treated with anti-epileptics have had thoughts of
 - -feeling very tired (fatigue)
 - -falling down.
 
-<div style=\"page-break-after: always\"></div>
-
-Uncommon (may affect more than 1 user in 1000) are:
+## Uncommon (may affect more than 1 user in 1000) are:
 
 - -thoughts about harming yourself or ending your own life (suicidal thoughts), tried to end your own life (attempted suicide)
 - -hallucinations (seeing, hearing or feeling things that are not there)
 - -Abnormal thinking and/or loss of touch with reality (psychotic disorder)
+
+<div style=\"page-break-after: always\"></div>
 
 Not known (the frequency of this side effect cannot be estimated from the available data) are:
 
@@ -3047,11 +2997,13 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 Fycompa 0.5 mg/ml oral suspension is a white to off-white suspension. It comes in a bottle of 340 ml with 2 graduated oral syringes and an LDPE press-in bottle adapter (PIBA).
 
-<div style=\"page-break-after: always\"></div>
-
 ## Marketing Authorisation Holder
 
-Eisai GmbH Edmund-Rumpler-Straße 3 60549 Frankfurt am Main Germany e-mail: medinfo\\_de@eisai.net
+Eisai GmbH Edmund-Rumpler-Straße 3 60549 Frankfurt am Main Germany
+
+e-mail: medinfo\\_de@eisai.net
+
+<div style=\"page-break-after: always\"></div>
 
 ## Manufacturer
 
@@ -3067,7 +3019,11 @@ Tél/Tel: +32 (0)800 158 58
 
 ## Lietuva
 
-Eisai GmbH Tel: + 49 (0) 69 66 58 50 (Vokietija)
+Eisai GmbH
+
+Tel: + 49 (0) 69 66 58 50
+
+(Vokietija)
 
 ## България
 
@@ -3243,7 +3199,11 @@ Puh/Tel: + 46 (0) 8 501 01 600
 
 ## Κύπρος
 
-Arriani Pharmaceuticals S.A. Τηλ: + 30 210 668 3000 (Ελλάδα)
+Arriani Pharmaceuticals S.A.
+
+Τηλ: + 30 210 668 3000
+
+(Ελλάδα)
 
 ## Sverige
 
@@ -3271,7 +3231,7 @@ Tel: + 49 (0) 69 66 58 50
 
 ## This leaflet was last revised in {MM/YYYY}
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3283,11 +3243,11 @@ Detailed information on this medicine is available on the European Medicines Age
 
 ## Scientific conclusions
 
-Taking into account the PRAC Assessment Report on the PSUR(s) for perampanel, the scientific conclusions of CHMP are as follows:
+Taking into account the PRAC Assessment Report on the PSUR(s) for perampanel, the scientific conclusions of PRAC are as follows:
 
-In view of the 18 cases of psychotic disorders from clinical trials including 10 cases with positive dechallenge, the literature (2 case reports), spontaneous reports including in 10 cases a close temporal relationship, a positive dechallenge in 6 cases and rechallenge in 1 case, the PRAC considers a causal relationship between perampanel and psychotic disorder is at least a reasonable possibility. The PRAC concluded that the product information of products containing perampanel should be amended accordingly.
+In view of spontaneous and literature cases of overdose, a causal relationship between perampanel and vomiting in overdose context is considered at least a reasonable possibility. The product information of products containing perampanel should be amended accordingly.
 
-The CHMP agrees with the scientific conclusions made by the PRAC.
+Having reviewed the PRAC recommendation, the CHMP agrees with the PRAC overall conclusions and grounds for recommendation.
 
 ## Grounds for the variation to the terms of the marketing authorisation(s)
 

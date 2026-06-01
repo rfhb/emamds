@@ -1,21 +1,25 @@
 ---
-document_datetime: 2025-10-17 12:19:52
-document_pages: 46
+document_datetime: 2026-05-27 11:38:29
+document_pages: 48
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/polivy-epar-product-information_en.pdf
 document_name: polivy-epar-product-information_en.pdf
 version: success
-processing_time: 10.0299315
-conversion_datetime: 2025-12-24 23:59:20.955416
+processing_time: 17.756448
+conversion_datetime: 2026-06-01 17:10:06.015129
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.20.0
+  docling-jobkit: 1.20.1
+  docling: 2.96.1
+  docling-core: 2.78.0
+  docling-ibm-models: 3.13.2
+  docling-parse: 6.2.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
 ---
+This document is the approved product information for Polivy, with the changes since the previous procedure affecting the product information (EMA/VR/0000295634) tracked.
+
+For more information, see the European Medicines Agency's website: https://www.ema.europa.eu/en/medicines/human/EPAR/polivy
+
 ## ANNEX I
 
 ## SUMMARY OF PRODUCT CHARACTERISTICS
@@ -198,11 +202,9 @@ PN has been reported in patients treated with Polivy as early as the first cycle
 
 ## Infections
 
-Serious, life threatening or fatal infections, including opportunistic infections, such as pneumonia (including pneumocystis jirovecii and other fungal pneumonia), bacteraemia, sepsis, herpes infection, and cytomegalovirus infection have been reported in patients treated with Polivy (see section 4.8). Reactivation of latent infections has been reported. Patients should be closely monitored during treatment for signs of bacterial, fungal, or viral infections and seek medical advice if signs and
+Serious, life threatening or fatal infections, including opportunistic infections, such as pneumonia (including pneumocystis jirovecii and other fungal pneumonia), bacteraemia, sepsis, herpes infection, and cytomegalovirus infection have been reported in patients treated with Polivy (see section 4.8). Reactivation of latent infections has been reported. Patients should be closely monitored during treatment for signs of bacterial, fungal, or viral infections and seek medical advice if signs and symptoms appear. Anti-infective prophylaxis should be considered throughout treatment with Polivy. Polivy should not be administered in the presence of an active severe infection. Polivy and any concomitant chemotherapy should be discontinued in patients who develop serious infections.
 
 <div style=\"page-break-after: always\"></div>
-
-symptoms appear. Anti-infective prophylaxis should be considered throughout treatment with Polivy. Polivy should not be administered in the presence of an active severe infection. Polivy and any concomitant chemotherapy should be discontinued in patients who develop serious infections.
 
 ## Human Immunodeficiency Virus (HIV)
 
@@ -236,17 +238,21 @@ In non-clinical studies, polatuzumab vedotin has resulted in testicular toxicity
 
 ## Elderly
 
-Among 435 previously untreated DLBCL patients treated with Polivy in combination with R-CHP in Study GO39942, 227 (52.2%) were ≥ 65 years of age. Patients aged ≥ 65 had an incidence of serious
+Among 435 previously untreated DLBCL patients treated with Polivy in combination with R-CHP in Study GO39942, 227 (52.2%) were ≥ 65 years of age. Patients aged ≥ 65 had an incidence of serious adverse reactions of 39.2% and 28.4% in patients aged &lt; 65. A similar incidence of serious adverse reactions was seen in elderly patients in the R-CHOP treatment arm.
 
 <div style=\"page-break-after: always\"></div>
-
-adverse reactions of 39.2% and 28.4% in patients aged &lt; 65. A similar incidence of serious adverse reactions was seen in elderly patients in the R-CHOP treatment arm.
 
 Among 151 previously treated DLBCL patients treated with Polivy in combination with bendamustine and rituximab (BR) in Study GO29365, 103 (68%) were ≥ 65 years of age. Patients aged ≥ 65 had a similar incidence of serious adverse reactions (55%) to patients aged &lt; 65 (56%). Clinical studies of Polivy did not include sufficient numbers of patients aged ≥ 65 to determine whether they respond differently from younger patients.
 
 ## Hepatic toxicity
 
 Serious cases of hepatic toxicity that were consistent with hepatocellular injury, including elevations of transaminases and/or bilirubin, have occurred in patients treated with Polivy (see section 4.8). Pre-existing liver disease, elevated baseline liver enzymes, and concomitant medicinal products may increase the risk. Liver enzymes and bilirubin level should be monitored (see section 4.2).
+
+## Infusion site extravasation injury
+
+Skin and soft tissue injury following polatuzumab vedotin administration has been observed within hours to weeks after occurrence of extravasation (see section 4.8). Ensure good venous access prior to starting Polivy and monitor for possible infusion site extravasation during administration. If extravasation occurs, stop the infusion, monitor for tissue damage, and manage in accordance with local clinical guidelines.
+
+Based on clinical decision the remaining dose may be administered in an alternate limb.
 
 ## Excipients with known effect
 
@@ -266,11 +272,11 @@ Unconjugated MMAE is not predicted to alter the AUC of concomitant medicines tha
 
 Strong CYP3A4 inducers (e.g., rifampicin, carbamazepine, phenobarbital, phenytoin, St John's wort [ Hypericum perforatum ]) may decrease the exposure of unconjugated MMAE.
 
+<div style=\"page-break-after: always\"></div>
+
 Drug interactions of rituximab, bendamustine, cyclophosphamide, and doxorubicin in combination with polatuzumab vedotin
 
 The pharmacokinetics (PK) of rituximab, bendamustine, cyclophosphamide, and doxorubicin are not affected by co-administration with polatuzumab vedotin. Concomitant rituximab is associated with increased antibody conjugated MMAE (acMMAE) plasma AUC by 24% and decreased unconjugated MMAE plasma AUC by 37%, based on population PK analysis. The plasma AUC of acMMAE and unconjugated MMAE for Polivy plus R-CHP are in line with other studies of Polivy. No dose adjustment is required.
-
-<div style=\"page-break-after: always\"></div>
 
 Bendamustine does not affect acMMAE and unconjugated MMAE plasma AUC.
 
@@ -308,13 +314,13 @@ Polivy has minor influence on the ability to drive and use machines. IRRs, PN, f
 
 ## Summary of the safety profile
 
+<div style=\"page-break-after: always\"></div>
+
 The safety of Polivy has been evaluated in 435 patients in Study GO39942 (POLARIX). The ADRs described in section 4.8 were identified:
 
 -  during treatment and follow-up of previously untreated DLBCL patients from the pivotal clinical trial GO39942 (POLARIX), who received Polivy plus R-CHP (n=435) or R-CHOP (n=438). In the Polivy plus R-CHP group, 91.7% received 6 cycles of Polivy versus 88.5% of patients who received 6 cycles of vincristine in the R-CHOP group.
 
-In previously untreated DLBCL patients treated with Polivy plus R-CHP:
-
-<div style=\"page-break-after: always\"></div>
+## In previously untreated DLBCL patients treated with Polivy plus R-CHP:
 
 -  The most frequently-reported ( ≥ 30%) adverse drug reactions (ADRs) in patients treated with Polivy plus R-CHP for previously untreated DLBCL were neuropathy peripheral (52.9%), nausea (41.6%), neutropenia (38.4%), and diarrhoea (30.8%).
 -  Serious adverse reactions were reported in 24.1% of Polivy plus R-CHP treated patients.
@@ -336,7 +342,7 @@ The safety of Polivy has been evaluated in 151 patients in Study GO29365. The AD
 
 The ADRs in 586 patients treated with Polivy are presented in Table 4. The ADRs are listed below by MedDRA system organ class (SOC) and categories of frequency. The corresponding frequency category for each adverse drug reaction is based on the following convention: very common ( ≥ 1/10), common ( ≥ 1/100 to &lt; 1/10), uncommon ( ≥ 1/1,000 to &lt; 1/100), rare ( ≥ 1/10,000 to &lt; 1/1,000), very rare (&lt; 1/10,000). Within each frequency grouping, adverse reactions are presented in the order of decreasing seriousness.
 
-Table 4 Tabulated list of ADRs in patients treated with Polivy in clinical trials
+## Table 4 Tabulated list of ADRs in patients treated with Polivy in clinical trials
 
 | Infections and infestations          | Infections and infestations                                                                |
 |--------------------------------------|--------------------------------------------------------------------------------------------|
@@ -344,16 +350,16 @@ Table 4 Tabulated list of ADRs in patients treated with Polivy in clinical trial
 | Common                               | sepsis a , herpes virus infection a , cytomegalovirus infection, urinary tract infection c |
 | Blood and lymphatic system disorders | Blood and lymphatic system disorders                                                       |
 | Very common                          | febrile neutropenia, neutropenia, thrombocytopenia, anaemia, leukopenia                    |
-| Common                               | lymphopenia, pancytopenia                                                                  |
-| Metabolism and nutrition disorders   | Metabolism and nutrition disorders                                                         |
-| Very common                          | hypokalaemia, decreased appetite                                                           |
-| Common                               | hypocalcaemia, hypoalbuminemia                                                             |
-| Nervous system disorders             | Nervous system disorders                                                                   |
 
 <div style=\"page-break-after: always\"></div>
 
-| Very common                                          | neuropathy peripheral                                                   |
+| Common                                               | lymphopenia, pancytopenia                                               |
 |------------------------------------------------------|-------------------------------------------------------------------------|
+| Metabolism and nutrition disorders                   | Metabolism and nutrition disorders                                      |
+| Very common                                          | hypokalaemia, decreased appetite                                        |
+| Common                                               | hypocalcaemia, hypoalbuminemia                                          |
+| Nervous system disorders                             | Nervous system disorders                                                |
+| Very common                                          | neuropathy peripheral                                                   |
 | Common                                               | dizziness                                                               |
 | Eye disorders                                        | Eye disorders                                                           |
 | Uncommon                                             | vision blurred b                                                        |
@@ -370,13 +376,20 @@ Table 4 Tabulated list of ADRs in patients treated with Polivy in clinical trial
 | General disorders and administration site conditions | General disorders and administration site conditions                    |
 | Very common                                          | pyrexia, fatigue, asthenia                                              |
 | Common                                               | peripheral edema c , chills                                             |
+| Uncommon                                             | infusion site extravasation                                             |
 | Investigations                                       | Investigations                                                          |
 | Very common                                          | weight decreased                                                        |
-| Common                                               | transaminases increased, lipase increase b , hypophosphataemia          |
+| Common                                               | lipase increase b , hypophosphataemia                                   |
+| Hepatobiliary disorders                              | Hepatobiliary disorders                                                 |
+| Common                                               | transaminases increased                                                 |
 | Injury, poisoning and procedural complications       | Injury, poisoning and procedural complications                          |
 | Very Common                                          | infusion related reaction                                               |
 
+The listed ADRs were observed in both previously untreated DLBCL and relapsed or refractory DLBCL except where indicated with footnotes.
+
 Rare and very rare ADRs: none
+
+<div style=\"page-break-after: always\"></div>
 
 ## Description of selected adverse drug reactions
 
@@ -384,11 +397,7 @@ Rare and very rare ADRs: none
 
 In a placebo-controlled study GO39942 (POLARIX), 0.5% of patients in the Polivy plus R-CHP arm discontinued study treatment due to neutropenia. No patients discontinued study treatment in the RCHOP arm due to neutropenia. Thrombocytopenia events led to discontinuation of study treatment in 0.2% of patients in the Polivy plus R-CHP arm compared to no patients in the R-CHOP arm. No patients discontinued treatment due to anaemia in either the Polivy plus R-CHP arm or R-CHOP arm.
 
-In an open-label study GO29365, 4% of patients in the Polivy plus BR arms discontinued Polivy due to neutropenia compared to 2.6% of patients in the BR arm who discontinued treatment due to neutropenia. Thrombocytopenia events led to discontinuation of treatment in 7.9% of patients in the Polivy plus BR arms and 5.1% of patients in the BR arm. No patients discontinued treatment due to anaemia in either the Polivy plus BR arms or BR arm. In the Polivy plus BR arms, Grade 3 or higher
-
-<div style=\"page-break-after: always\"></div>
-
-neutropenia, thrombocytopenia, and anaemia were reported in 40.4%, 25.8%, and 12.6% of patients, respectively.
+In an open-label study GO29365, 4% of patients in the Polivy plus BR arms discontinued Polivy due to neutropenia compared to 2.6% of patients in the BR arm who discontinued treatment due to neutropenia. Thrombocytopenia events led to discontinuation of treatment in 7.9% of patients in the Polivy plus BR arms and 5.1% of patients in the BR arm. No patients discontinued treatment due to anaemia in either the Polivy plus BR arms or BR arm. In the Polivy plus BR arms, Grade 3 or higher neutropenia, thrombocytopenia, and anaemia were reported in 40.4%, 25.8%, and 12.6% of patients, respectively.
 
 ## Peripheral neuropathy (PN)
 
@@ -402,6 +411,8 @@ In a placebo-controlled study GO39942 (POLARIX), infections, including pneumonia
 
 In an open-label study GO29365, infections, including pneumonia and other types of infections, were reported in 48.3% of patients in the Polivy plus BR arms and 51.3% of patients in the BR arm. In the Polivy plus BR arms, serious infections were reported in 27.2% of patients and fatal infections were reported in 6.6% of patients. In the BR arm, serious infections were reported in 30.8% of patients and fatal infections were reported in 10.3% of patients. Four patients (2.6%) in the Polivy plus BR arms discontinued treatment due to infection compared to 2 patients (5.1%) in the BR arm.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Progressive multifocal leukoencephalopathy (PML)
 
 In a placebo-controlled study GO39942 (POLARIX), no cases of PML were reported.
@@ -411,8 +422,6 @@ In an open-label study GO29365, one case of PML, which was fatal, occurred in on
 ## Hepatic toxicity
 
 In a placebo-controlled study GO39942 (POLARIX), hepatic toxicity was reported in 10.6% of patients in the Polivy plus R-CHP arm and 7.3% of patients in the R-CHOP arm. In the Polivy plus RCHP arm, most events were Grade 1  2 (8.7%); Grade 3 events were reported in 1.8% of patients. There were no Grade 4 or 5 events. Serious hepatic toxicity events were reported in 1 patient (0.2%) and were reversible.
-
-<div style=\"page-break-after: always\"></div>
 
 In another study, two cases of serious hepatic toxicity (hepatocellular injury and hepatic steatosis) were reported and were reversible.
 
@@ -440,13 +449,13 @@ Pharmacotherapeutic group: antineoplastic agents; other antineoplastic agents; m
 
 Polatuzumab vedotin is a CD79b-targeted antibody-drug conjugate that preferentially delivers a potent anti-mitotic agent (monomethyl auristatin E, or MMAE) to B-cells, which results in the killing of malignant B-cells. The polatuzumab vedotin molecule consists of MMAE covalently attached to a humanized immunoglobulin G1 monoclonal antibody via a cleavable linker. The monoclonal antibody binds with high affinity and selectivity to CD79b, a cell surface component of the B-cell receptor. CD79b expression is restricted to normal cells within the B-cell lineage (with the exception of plasma cells) and malignant B-cells; it is expressed in  95% of diffuse large B-cell lymphoma. Upon binding CD79b, polatuzumab vedotin is rapidly internalized and the linker is cleaved by lysosomal proteases to enable intracellular delivery of MMAE. MMAE binds to microtubules and kills dividing cells by inhibiting cell division and inducing apoptosis.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Pharmacodynamic effects
 
 ## Cardiac electrophysiology
 
 Polatuzumab vedotin did not prolong the mean QTc interval to any clinically relevant extent based on ECG data from two open-label studies in patients with previously treated B-cell malignancies at the recommended dosage.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Clinical efficacy and safety
 
@@ -545,10 +554,9 @@ Table 6 Summary of efficacy in patients with previously treated DLBCL from study
 | Best Overall Response Rate * (INV-assessed) Responders (%) (CR, PR) Difference in response rate (%) [95% CI] Complete Response (%) (CR) 95% CI Clopper-Pearson                              | 28 (70.0) 37.5 [15.6, 23 (57.5) [40.9, 73.0]   | 13 (32.5) 54.7] 8 (20.0) [9.1, 35.7] |
 | Partial Response (%) (PR)                                                                                                                                                                   |                                                | 5 (12.5)                             |
 |                                                                                                                                                                                             | 5 (12.5)                                       |                                      |
-|                                                                                                                                                                                             | 26.8]                                          |                                      |
-| 95% CI Clopper-Pearson                                                                                                                                                                      | [4.2,                                          | [4.2, 26.8]                          |
+| 95% CI Clopper-Pearson                                                                                                                                                                      | [4.2, 26.8]                                    | [4.2, 26.8]                          |
 
-Response; HR: Hazard Ratio; INV: Investigator; IRC: Independent Review Committee; NE: Not evaluable; PR: Partial Response
+Response; HR: Hazard Ratio; INV: Investigator; IRC: Independent Review Committee; NE: Not evaluable; PR: Partial Response Overall survival (OS) was an exploratory endpoint which was not type 1 error controlled. The median OS in the Polivy plus BR arm was 12.4 months (95% CI: 9.0, NE) vs 4.7 months (95% CI: 3.7, 8.3) in the control arm. The unadjusted estimate for OS HR was 0.42. When accounting for the influence of baseline covariates the OS HR was adjusted to 0.59. Covariates included primary refractory status, number of prior lines of therapy, IPI, and prior stem cell transplant.
 
 *Per modified Lugano 2014 criteria: Bone marrow confirmation of PET-CT CR required. PET-CT PR required meeting both PET-CT criteria and CT criteria.
 
@@ -557,8 +565,6 @@ Response; HR: Hazard Ratio; INV: Investigator; IRC: Independent Review Committee
 *** Stratification by duration of response to prior therapy ( ≤ 12 months vs &gt; 12 months)
 
 <div style=\"page-break-after: always\"></div>
-
-Overall survival (OS) was an exploratory endpoint which was not type 1 error controlled. The median OS in the Polivy plus BR arm was 12.4 months (95% CI: 9.0, NE) vs 4.7 months (95% CI: 3.7, 8.3) in the control arm. The unadjusted estimate for OS HR was 0.42. When accounting for the influence of baseline covariates the OS HR was adjusted to 0.59. Covariates included primary refractory status, number of prior lines of therapy, IPI, and prior stem cell transplant.
 
 Investigator-assessed progression free survival (PFS) was an exploratory endpoint which was not type 1 error controlled. The median PFS in the Polivy plus BR arm was 7.6 months (95% CI: 6.0, 17.0) vs 2.0 months (95% CI: 1.5, 3.7) in the control arm. The unadjusted estimate for PFS HR was 0.34.
 
@@ -793,7 +799,7 @@ Medicinal product subject to restricted medical prescription (see Annex I: Summa
 
 ## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
-##  Periodic safety update reports (PSURs)
+##  Periodic safety update reports (PSURs)
 
 The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
 
@@ -1060,8 +1066,8 @@ Cytotoxic
 
 ## Read all of this leaflet carefully before you are given this medicine because it contains important information for you.
 
--  Keep this leaflet. You may need to read it again.
--  If you have any further questions, ask your doctor or nurse.
+-  Keep this leaflet. You may need to read it again.
+-  If you have any further questions, ask your doctor or nurse.
 -  If you get any side effects, talk to your doctor or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
@@ -1087,8 +1093,8 @@ Polivy is given to treat 'diffuse large B-cell lymphoma' that has never been tre
 
 Polivy is also given to treat 'diffuse large B-cell lymphoma' that has come back or has not got better:
 
--  after at least one previous therapy, and
--  when you cannot receive a stem cell transplant.
+-  after at least one previous therapy, and
+-  when you cannot receive a stem cell transplant.
 
 'Diffuse large B-cell lymphoma' is a cancer that comes from 'B lymphocytes' also called B-cells. These are a type of blood cells.
 
@@ -1096,14 +1102,14 @@ Polivy is also given to treat 'diffuse large B-cell lymphoma' that has come back
 
 Polivy contains something called a 'monoclonal antibody'and a substance that can kill cancer called 'MMAE'.
 
--  The 'monoclonal antibody' part of the medicine attaches to a target on B cells.
--  Once attached to B cells, the medicine releases 'MMAE' into the B cells and kills them.
+-  The 'monoclonal antibody' part of the medicine attaches to a target on B cells.
+-  Once attached to B cells, the medicine releases 'MMAE' into the B cells and kills them.
 
 ## What other medicines Polivy is given with
 
 Polivy is given in combination with other cancer medicines:
 
--  rituximab, cyclophosphamide, doxorubicin and prednisone for 'diffuse large B-cell lymphoma' that has never been treated before.
+-  rituximab, cyclophosphamide, doxorubicin and prednisone for 'diffuse large B-cell lymphoma' that has never been treated before.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1182,7 +1188,7 @@ Signs and symptoms of infections vary between individuals, tell your doctor or n
 
 ## Progressive multifocal leukoencephalopathy (PML)
 
-PML is a very rare and life threatening infection in the brain, that has occured in one patient treated with Polivy together with bendamustine and another medicine called obinutuzumab.
+PML is a very rare and life threatening infection in the brain, that has occurred in one patient treated with Polivy together with bendamustine and another medicine called obinutuzumab.
 
 Tell your doctor or nurse straight away if you have:
 
@@ -1212,6 +1218,10 @@ In most cases you will not have any symptoms but tell your doctor or nurse strai
 -  yellowing of your skin and of the whites of your eyes (jaundice).
 
 Your doctor will check your blood to test your liver function before and regularly during treatment.
+
+## Skin and tissue damage due to extravasation
+
+Extravasation means that Polivy has leaked out of your vein into the tissues around the infusion site. Tell your doctor or nurse immediately if you feel a burning sensation, pain or tenderness at or surrounding the infusion site during the infusion. If Polivy has leaked outside the blood vessel, skin redness, pain, discolouration, swelling, blistering, peeling, or infection of deeper layers of your skin (cellulitis) at or surrounding the infusion site can occur within hours or weeks after the infusion.
 
 ## Children and adolescents
 
@@ -1245,6 +1255,8 @@ Do not breast-feed while receiving Polivy - and for at least 3 months after the 
 
 Men are advised to have sperm samples preserved and stored before treatment with this medicine.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Driving and using machines
 
 Polivy has a minor influence on your ability to drive, cycle or use any tools or machines.
@@ -1254,8 +1266,6 @@ Polivy has a minor influence on your ability to drive, cycle or use any tools or
 See section 4 for more information about side effects.
 
 ## Polivy contains sodium
-
-<div style=\"page-break-after: always\"></div>
 
 This medicine contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium-free'.
 
@@ -1297,13 +1307,13 @@ Do not stop treatment with Polivy unless you have discussed this with your docto
 
 If you have any further questions on the use of this medicine, ask your doctor or nurse.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 4. Possible side effects
 
 Like all medicines, this medicine can cause side effects, although not everybody gets them. The following side effects have been reported with this medicine:
 
 ## Serious side effects
-
-<div style=\"page-break-after: always\"></div>
 
 Tell your doctor or nurse straight away if you notice any of the following serious side effects - you may need urgent medical treatment. These may be new symptoms or a change in your current symptoms.
 
@@ -1321,12 +1331,14 @@ Tell your doctor or nurse straight away if you notice any of the following serio
 -  memory loss, trouble speaking, difficulty walking or problems with your eyesight
 -  yellowing of skin or whites of your eyes
 -  breathlessness and difficulty in breathing
+-  leaking of Polivy out of the vein into surrounding tissues (also called extravasation, see section
+2. Skin and tissue damage due to extravasation) (frequency uncommon).
 
 ## Other side effects
 
 Tell your doctor or nurse if you notice any of the following side effects:
 
-## Very common: may affect more than 1 in 10 people
+Very common: may affect more than 1 in 10 people
 
 -  pneumonia (lung infection)
 -  runny nose, sneezing, sore throat and cough (upper respiratory tract infection)
@@ -1349,6 +1361,9 @@ Tell your doctor or nurse if you notice any of the following side effects:
 - -low levels of neutrophils (a type of white blood cell) with or without fever
 - -low level of platelets (a type of blood cell that helps your blood to clot)
 - -low levels of red blood cells (anaemia)
+
+<div style=\"page-break-after: always\"></div>
+
 - -low level of potassium in the blood (hypokalaemia)
 
 ## Common: may affect up to 1 in 10 people
@@ -1359,9 +1374,6 @@ Tell your doctor or nurse if you notice any of the following side effects:
 -  herpes infection
 -  skin infections
 -  inflammation of the lungs
-
-<div style=\"page-break-after: always\"></div>
-
 -  breathlessness and difficulty in breathing
 -  dizziness
 -  fluid retention causing swelling in the lower legs or hands (oedema peripheral)
@@ -1402,6 +1414,8 @@ Polivy will be stored by the healthcare professionals at the hospital or clinic.
 
 Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 6. Contents of the pack and other information
 
 ## What Polivy contains
@@ -1410,9 +1424,6 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 -  Polivy 30 mg: Each vial contains 30 milligrams (mg) polatuzumab vedotin.
 -  Polivy 140 mg: Each vial contains 140 milligrams (mg) polatuzumab vedotin.
 -  After reconstitution each millilitre (mL) contains 20 mg polatuzumab vedotin.
-
-<div style=\"page-break-after: always\"></div>
-
 -  The other ingredients are: succinic acid, sodium hydroxide, sucrose, polysorbate 20. See section 2 'Polivy contains sodium and polysorbates'.
 
 ## What Polivy looks like and contents of the pack
@@ -1431,9 +1442,13 @@ Roche Pharma AG Emil-Barell-Strasse 1 79639 Grenzach-Wyhlen Germany
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-## België/Belgique/Belgien, Luxembourg/Luxemburg
+België/Belgique/Belgien, Luxembourg/Luxemburg N.V. Roche S.A. België/Belgique/Belgien Tél/Tel: +32 (0) 2 525 82 11
 
-N.V. Roche S.A. België/Belgique/Belgien Tél/Tel: +32 (0) 2 525 82 11
+## Latvija
+
+Roche Latvija SIA
+
+Tel: +371 - 6 7039831
 
 ## България
 
@@ -1443,11 +1458,23 @@ N.V. Roche S.A. België/Belgique/Belgien Tél/Tel: +32 (0) 2 525 82 11
 
 : +359 2 474 5444
 
+## Lietuva
+
+UAB 'Roche Lietuva'
+
+Tel: +370 5 2546799
+
 ## Č eská republika
 
 Roche s. r. o.
 
 Tel: +420 - 2 20382111
+
+## Magyarország
+
+Roche (Magyarország) Kft.
+
+Tel: +36 - 1 279 4500
 
 ## Danmark
 
@@ -1455,17 +1482,37 @@ Roche Pharmaceuticals A/S
 
 Tlf: +45 - 36 39 99 99
 
+## Nederland
+
+Roche Nederland B.V.
+
+Tel: +31 (0) 348 438050
+
 ## Deutschland
 
 Roche Pharma AG
 
 Tel: +49 (0) 7624 140
 
+## Norge
+
+Roche Norge AS
+
+Tlf: +47 - 22 78 90 00
+
+<div style=\"page-break-after: always\"></div>
+
 ## Eesti
+
+## Österreich
 
 Roche Eesti OÜ
 
 Tel: + 372 - 6 177 380
+
+Roche Austria GmbH
+
+Tel: +43 (0) 1 27739
 
 ## Ελλάδα , K ύπρος
 
@@ -1476,42 +1523,6 @@ Roche (Hellas) A.E.
 Τηλ
 
 : +30 210 61 66 100
-
-## Latvija
-
-Roche Latvija SIA
-
-Tel: +371 - 6 7039831
-
-## Lietuva
-
-UAB 'Roche Lietuva'
-
-Tel: +370 5 2546799
-
-## Magyarország
-
-Roche (Magyarország) Kft.
-
-Tel: +36 - 1 279 4500
-
-## Nederland
-
-Roche Nederland B.V.
-
-Tel: +31 (0) 348 438050
-
-## Norge
-
-Roche Norge AS
-
-Tlf: +47 - 22 78 90 00
-
-## Österreich
-
-Roche Austria GmbH
-
-Tel: +43 (0) 1 27739
 
 ## Polska
 
@@ -1533,7 +1544,7 @@ Tel: +351 - 21 425 70 00
 
 ## France
 
-Roche
+## Roche
 
 Tél: +33 (0) 1 47 61 40 00
 
@@ -1557,9 +1568,7 @@ Tel: +386 - 1 360 26 00
 
 ## Ireland, Malta
 
-Roche Products (Ireland) Ltd.
-
-Ireland/L-Irlanda
+Roche Products (Ireland) Ltd. Ireland/L-Irlanda
 
 Tel: +353 (0) 1 469 0700
 
@@ -1592,8 +1601,6 @@ Tel: +39 - 039 2471
 Roche AB
 
 Tel: +46 (0) 8 726 1200
-
-<div style=\"page-break-after: always\"></div>
 
 ## This leaflet was last revised in &lt;{MM/YYYY}&gt; &lt;{month YYYY}&gt;.
 
@@ -1646,3 +1653,25 @@ Table 1 Durations for which chemical and physical stability of the prepared solu
 | Sodium chloride 9 mg/mL (0.9%)                  | Up to 72 hours refrigerated (2 °C  8 °C) or up to 4 hours at room temperature (9 °C  25 °C) |
 | Sodium chloride 4.5 mg/mL (0.45%)               | Up to 72 hours refrigerated (2 °C  8 °C) or up to 8 hours at room temperature (9 °C  25 °C) |
 | 5% glucose                                      | Up to 72 hours refrigerated (2 °C  8 °C) or up to 8 hours at room temperature (9 °C  25 °C) |
+
+<div style=\"page-break-after: always\"></div>
+
+## ANNEX IV
+
+## SCIENTIFIC CONCLUSIONS AND GROUNDS FOR THE VARIATION TO THE TERMS OF THE MARKETING AUTHORISATION(S)
+
+<div style=\"page-break-after: always\"></div>
+
+## Scientific conclusions
+
+Taking into account the PRAC Assessment Report on the PSUR(s) for polatuzumab vedotin, the scientific conclusions of PRAC are as follows:
+
+In view of available data on risks from clinical trials, spontaneous reports, and the literature, including in 4 cases with a close temporal relationship, and in view of a plausible mechanism of action, the PRAC considers a causal relationship between polatuzumab vedotin and adverse reaction `extravasation injury´ is at least a reasonable possibility. The PRAC concluded that the product information of products containing polatuzumab vedotin should be amended accordingly.
+
+Having reviewed the PRAC recommendation, the CHMP agrees with the PRAC overall conclusions and grounds for recommendation.
+
+## Grounds for the variation to the terms of the marketing authorisation(s)
+
+On the basis of the scientific conclusions for polatuzumab vedotin the CHMP is of the opinion that the benefit-risk balance of the medicinal product(s) containing polatuzumab vedotin is unchanged subject to the proposed changes to the product information.
+
+The CHMP recommends that the terms of the marketing authorisation(s) should be varied.

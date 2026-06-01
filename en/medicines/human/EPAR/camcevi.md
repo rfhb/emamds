@@ -1,18 +1,18 @@
 ---
-document_datetime: 2026-05-11 17:02:00
+document_datetime: 2026-05-28 17:14:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/camcevi.html
 document_name: camcevi.html
 version: success
-processing_time: 0.1214553
-conversion_datetime: 2026-05-13 12:50:51.073053
+processing_time: 0.118433
+conversion_datetime: 2026-06-01 17:00:02.083331
 docling_version:
-  docling-serve: 1.17.0
-  docling-jobkit: 1.18.0
-  docling: 2.92.0
-  docling-core: 2.74.1
+  docling-serve: 1.20.0
+  docling-jobkit: 1.20.1
+  docling: 2.96.1
+  docling-core: 2.78.0
   docling-ibm-models: 3.13.2
-  docling-parse: 5.10.1
+  docling-parse: 6.2.0
   python: cpython-313 (3.13.11)
   plaform: macOS-26.5-arm64-arm-64bit-Mach-O
 ---
@@ -105,7 +105,7 @@ English (EN) (137.22 KB - PDF)
 
 [View](/en/documents/overview/camcevi-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-988)
+[Other languages (22)](#file-language-dropdown-4)
 
 български (BG) (141.03 KB - PDF)
 
@@ -257,7 +257,7 @@ English (EN) (1.3 MB - PDF)
 
 [View](/en/documents/product-information/camcevi-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-541)
+[Other languages (24)](#file-language-dropdown-171)
 
 български (BG) (1.67 MB - PDF)
 
@@ -423,155 +423,155 @@ Product information documents contain:
 
 Camcevi : EPAR - All Authorised Presentations
 
-English (EN) (43.38 KB - PDF)
+English (EN) (74.02 KB - PDF)
 
-**First published:** 20/06/2022
+**First published:** 20/06/2022 **Last updated:** 28/05/2026
 
 [View](/en/documents/all-authorised-presentations/camcevi-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-410)
+[Other languages (24)](#file-language-dropdown-120)
 
-български (BG) (51.76 KB - PDF)
+български (BG) (81.15 KB - PDF)
 
-**First published:** 20/06/2022
+**First published:** 20/06/2022 **Last updated:** 28/05/2026
 
 [View](/bg/documents/all-authorised-presentations/camcevi-epar-all-authorised-presentations_bg.pdf)
 
-español (ES) (43.14 KB - PDF)
+español (ES) (74.17 KB - PDF)
 
-**First published:** 20/06/2022
+**First published:** 20/06/2022 **Last updated:** 28/05/2026
 
 [View](/es/documents/all-authorised-presentations/camcevi-epar-all-authorised-presentations_es.pdf)
 
-čeština (CS) (58.39 KB - PDF)
+čeština (CS) (76.72 KB - PDF)
 
-**First published:** 20/06/2022
+**First published:** 20/06/2022 **Last updated:** 28/05/2026
 
 [View](/cs/documents/all-authorised-presentations/camcevi-epar-all-authorised-presentations_cs.pdf)
 
-dansk (DA) (42.19 KB - PDF)
+dansk (DA) (75.04 KB - PDF)
 
-**First published:** 20/06/2022
+**First published:** 20/06/2022 **Last updated:** 28/05/2026
 
 [View](/da/documents/all-authorised-presentations/camcevi-epar-all-authorised-presentations_da.pdf)
 
-Deutsch (DE) (44.97 KB - PDF)
+Deutsch (DE) (73.37 KB - PDF)
 
-**First published:** 20/06/2022
+**First published:** 20/06/2022 **Last updated:** 28/05/2026
 
 [View](/de/documents/all-authorised-presentations/camcevi-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (42.81 KB - PDF)
+eesti keel (ET) (69.69 KB - PDF)
 
-**First published:** 20/06/2022
+**First published:** 20/06/2022 **Last updated:** 28/05/2026
 
 [View](/et/documents/all-authorised-presentations/camcevi-epar-all-authorised-presentations_et.pdf)
 
-ελληνικά (EL) (57.76 KB - PDF)
+ελληνικά (EL) (77.56 KB - PDF)
 
-**First published:** 20/06/2022
+**First published:** 20/06/2022 **Last updated:** 28/05/2026
 
 [View](/el/documents/all-authorised-presentations/camcevi-epar-all-authorised-presentations_el.pdf)
 
-français (FR) (43.17 KB - PDF)
+français (FR) (74.55 KB - PDF)
 
-**First published:** 20/06/2022
+**First published:** 20/06/2022 **Last updated:** 28/05/2026
 
 [View](/fr/documents/all-authorised-presentations/camcevi-epar-all-authorised-presentations_fr.pdf)
 
-hrvatski (HR) (60.32 KB - PDF)
+hrvatski (HR) (75.1 KB - PDF)
 
-**First published:** 20/06/2022
+**First published:** 20/06/2022 **Last updated:** 28/05/2026
 
 [View](/hr/documents/all-authorised-presentations/camcevi-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (43.73 KB - PDF)
+íslenska (IS) (71.34 KB - PDF)
 
-**First published:** 20/06/2022
+**First published:** 20/06/2022 **Last updated:** 28/05/2026
 
 [View](/is/documents/all-authorised-presentations/camcevi-epar-all-authorised-presentations_is.pdf)
 
-italiano (IT) (42.06 KB - PDF)
+italiano (IT) (70.71 KB - PDF)
 
-**First published:** 20/06/2022
+**First published:** 20/06/2022 **Last updated:** 28/05/2026
 
 [View](/it/documents/all-authorised-presentations/camcevi-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (57.55 KB - PDF)
+latviešu valoda (LV) (75.47 KB - PDF)
 
-**First published:** 20/06/2022
+**First published:** 20/06/2022 **Last updated:** 28/05/2026
 
 [View](/lv/documents/all-authorised-presentations/camcevi-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (60.17 KB - PDF)
+lietuvių kalba (LT) (75.13 KB - PDF)
 
-**First published:** 20/06/2022
+**First published:** 20/06/2022 **Last updated:** 28/05/2026
 
 [View](/lt/documents/all-authorised-presentations/camcevi-epar-all-authorised-presentations_lt.pdf)
 
-magyar (HU) (60.92 KB - PDF)
+magyar (HU) (78.39 KB - PDF)
 
-**First published:** 20/06/2022
+**First published:** 20/06/2022 **Last updated:** 28/05/2026
 
 [View](/hu/documents/all-authorised-presentations/camcevi-epar-all-authorised-presentations_hu.pdf)
 
-Malti (MT) (61.95 KB - PDF)
+Malti (MT) (76.93 KB - PDF)
 
-**First published:** 20/06/2022
+**First published:** 20/06/2022 **Last updated:** 28/05/2026
 
 [View](/mt/documents/all-authorised-presentations/camcevi-epar-all-authorised-presentations_mt.pdf)
 
-Nederlands (NL) (43.02 KB - PDF)
+Nederlands (NL) (72.14 KB - PDF)
 
-**First published:** 20/06/2022
+**First published:** 20/06/2022 **Last updated:** 28/05/2026
 
 [View](/nl/documents/all-authorised-presentations/camcevi-epar-all-authorised-presentations_nl.pdf)
 
-norsk (NO) (44.68 KB - PDF)
+norsk (NO) (73.92 KB - PDF)
 
-**First published:** 20/06/2022
+**First published:** 20/06/2022 **Last updated:** 28/05/2026
 
 [View](/no/documents/all-authorised-presentations/camcevi-epar-all-authorised-presentations_no.pdf)
 
-polski (PL) (64.1 KB - PDF)
+polski (PL) (77.49 KB - PDF)
 
-**First published:** 20/06/2022
+**First published:** 20/06/2022 **Last updated:** 28/05/2026
 
 [View](/pl/documents/all-authorised-presentations/camcevi-epar-all-authorised-presentations_pl.pdf)
 
-português (PT) (43.98 KB - PDF)
+português (PT) (72.74 KB - PDF)
 
-**First published:** 20/06/2022
+**First published:** 20/06/2022 **Last updated:** 28/05/2026
 
 [View](/pt/documents/all-authorised-presentations/camcevi-epar-all-authorised-presentations_pt.pdf)
 
-română (RO) (60.56 KB - PDF)
+română (RO) (74.92 KB - PDF)
 
-**First published:** 20/06/2022
+**First published:** 20/06/2022 **Last updated:** 28/05/2026
 
 [View](/ro/documents/all-authorised-presentations/camcevi-epar-all-authorised-presentations_ro.pdf)
 
-slovenčina (SK) (58.97 KB - PDF)
+slovenčina (SK) (76.46 KB - PDF)
 
-**First published:** 20/06/2022
+**First published:** 20/06/2022 **Last updated:** 28/05/2026
 
 [View](/sk/documents/all-authorised-presentations/camcevi-epar-all-authorised-presentations_sk.pdf)
 
-slovenščina (SL) (61.1 KB - PDF)
+slovenščina (SL) (73.42 KB - PDF)
 
-**First published:** 20/06/2022
+**First published:** 20/06/2022 **Last updated:** 28/05/2026
 
 [View](/sl/documents/all-authorised-presentations/camcevi-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (40.08 KB - PDF)
+Suomi (FI) (67.63 KB - PDF)
 
-**First published:** 20/06/2022
+**First published:** 20/06/2022 **Last updated:** 28/05/2026
 
 [View](/fi/documents/all-authorised-presentations/camcevi-epar-all-authorised-presentations_fi.pdf)
 
-svenska (SV) (43.02 KB - PDF)
+svenska (SV) (70.68 KB - PDF)
 
-**First published:** 20/06/2022
+**First published:** 20/06/2022 **Last updated:** 28/05/2026
 
 [View](/sv/documents/all-authorised-presentations/camcevi-epar-all-authorised-presentations_sv.pdf)
 
@@ -699,6 +699,6 @@ English (EN) (165.65 KB - PDF)
 
 **This page was last updated on**
 
-11/05/2026
+28/05/2026
 
 ## Share this page

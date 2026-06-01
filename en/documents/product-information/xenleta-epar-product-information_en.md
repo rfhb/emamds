@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-04-29 11:28:16
+document_datetime: 2026-05-27 12:37:52
 document_pages: 56
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/xenleta-epar-product-information_en.pdf
 document_name: xenleta-epar-product-information_en.pdf
 version: success
-processing_time: 19.3663788
-conversion_datetime: 2025-12-21 20:53:16.608824
+processing_time: 29.0883723
+conversion_datetime: 2026-06-01 17:07:22.039188
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.20.0
+  docling-jobkit: 1.20.1
+  docling: 2.96.1
+  docling-core: 2.78.0
+  docling-ibm-models: 3.13.2
+  docling-parse: 6.2.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -30,11 +30,13 @@ Xenleta 600 mg film-coated tablets
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
-Each film-coated tablet contains lefamulin acetate equivalent to 600 mg lefamulin. For the full list of excipients, see section 6.1.
+Each film-coated tablet contains lefamulin acetate equivalent to 600 mg
+
+lefamulin. For the full list of excipients, see section 6.1.
 
 ## 3. PHARMACEUTICAL FORM
 
-## Film-coated tablet.
+Film-coated tablet.
 
 Blue, oval, film-coated tablet, (19.8 mm in length and 9.7 mm in width), with 'LEF 600' printed in black on one side.
 
@@ -54,7 +56,7 @@ The recommended dosage of lefamulin is described in Table 1.
 
 Patients may be treated throughout with oral lefamulin according to their clinical condition. Patients who commence treatment by the intravenous route (see the Summary of Product Characteristics for Xenleta solution for infusion) may be switched to the oral tablets when clinically indicated.
 
-Table 1: Dosage of Xenleta
+## Table 1: Dosage of Xenleta
 
 | Dosage                                                                                                                                                                                                       | Treatment duration                                                                |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
@@ -115,11 +117,9 @@ Changes in cardiac electrophysiology have been observed in non-clinical and clin
 
 Lefamulin should be used with caution in patients with renal failure who require dialysis because metabolic disturbances associated with renal failure may lead to QT prolongation.
 
-Lefamulin should be used with caution in patients with mild, moderate, or severe cirrhosis because
+Lefamulin should be used with caution in patients with mild, moderate, or severe cirrhosis because metabolic disturbances associated with hepatic insufficiency may lead to QT prolongation.
 
 <div style=\"page-break-after: always\"></div>
-
-metabolic disturbances associated with hepatic insufficiency may lead to QT prolongation.
 
 ## Clostridioides (formerly known as Clostridium ) difficileassociated diarrhoea
 
@@ -216,10 +216,6 @@ Table 2: Interactions and dose recommendations of oral Xenleta with other medici
 | SEDATIVE AGENTS                                                                                         | SEDATIVE AGENTS                       | SEDATIVE AGENTS                       | SEDATIVE AGENTS                       | SEDATIVE AGENTS                                                                                                                            |
 | Midazolam 2 mg oral single dose (Inhibition of CYP3A4)                                                  | -Midazolam                            | 2.03 (1.84-2.23)                      | 3.07 (2.75-3.43)                      | Caution is recommened. when co-administered with oral lefamulin. Consider dosage adjustment of midazolam # .                               |
 
-*Based on in vitro interaction studies, a physiological based pharmacokinetic model was developed and used for prediction.
-
-# Refer to the respective SmPC.
-
 ## 4.6 Fertility, pregnancy and lactation
 
 ## Women of childbearing potential
@@ -296,9 +292,7 @@ The highest single doses of lefamulin administered in clinical trials were 750 m
 
 ## 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: antibacterials for systemic use, other antibacterials, ATC code:
-
-## J01XX12.
+Pharmacotherapeutic group: antibacterials for systemic use, other antibacterials, ATC code: J01XX12.
 
 ## Mechanism of action
 
@@ -358,13 +352,11 @@ Clinical efficacy has not been established against the following pathogens that 
 - -Haemophilus parainfluenzae
 - -Moraxella catarrhalis
 
-## Paediatric population
-
-The European Medicines Agency has deferred the obligation to submit the results of studies with
-
 <div style=\"page-break-after: always\"></div>
 
-Xenleta in one or more subsets of the paediatric population in community-acquired pneumonia (see section 4.2 for information on paediatric use).
+## Paediatric population
+
+The European Medicines Agency has deferred the obligation to submit the results of studies with Xenleta in one or more subsets of the paediatric population in community-acquired pneumonia (see section 4.2 for information on paediatric use).
 
 ## Information from clinical trials
 
@@ -394,13 +386,11 @@ Elimination was multiphasic and the terminal t 1/2 ranged between 9-10 h after
 
 No clinically significant differences in the pharmacokinetics of lefamulin were observed based on gender, race, or weight.
 
-## Elderly
-
-In CAP patients there was a trend of increasing lefamulin exposure with increasing age, with a~50%
-
 <div style=\"page-break-after: always\"></div>
 
-increase in AUC0-24 at steady-state in patients aged ≥85 years compared to patients aged &lt;65 years.
+## Elderly
+
+In CAP patients there was a trend of increasing lefamulin exposure with increasing age, with a~50% increase in AUC0-24 at steady-state in patients aged ≥85 years compared to patients aged &lt;65 years.
 
 ## Renal impairment
 
@@ -424,11 +414,9 @@ In the rabbit embryo-foetal development study of lefamulin during organogenesis 
 
 In a prenatal and postnatal development study in rats the pup live birth index was reduced (87.4%) in the high dose group. In the absence of related findings at the same dose level in the rat embryo-foetal development study, stillbirth was considered to be a late stage pregnancy or delivery effect.
 
-Evidence of dose-dependent regenerative anaemia in both species indicated lefamulin was potentially haemolytic at concentrations that are higher than the concentration of the infusion solution which will
+Evidence of dose-dependent regenerative anaemia in both species indicated lefamulin was potentially haemolytic at concentrations that are higher than the concentration of the infusion solution which will be used clinically. This effect was not apparent from an in vitro evaluation of blood compatibility using human blood at a concentration of 0.6 mg/mL.
 
 <div style=\"page-break-after: always\"></div>
-
-be used clinically. This effect was not apparent from an in vitro evaluation of blood compatibility using human blood at a concentration of 0.6 mg/mL.
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
@@ -438,13 +426,11 @@ be used clinically. This effect was not apparent from an in vitro evaluation of 
 
 Mannitol (E421) Povidone Microcrystalline cellulose (E460) Croscarmellose sodium (E468) Talc Silicon dioxide Magnesium stearate
 
-Film- coating
+## Film- coating
 
-Poly(vinyl alcohol) (partially hydrolysed) (E1203)
+Poly(vinyl alcohol) (partially hydrolysed) (E1203) Titanium dioxide MacrogolTalc Indigo carmine aluminum lake (E132)
 
-Titanium dioxide MacrogolTalc Indigo carmine aluminum lake (E132)
-
-Printing ink
+## Printing ink
 
 Shellac Black iron oxide (E172) Propylene glycol
 
@@ -470,11 +456,9 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Venipharm 4, Bureaux de la Colline 92210 Saint-Cloud
+Venipharm 4, Bureaux de la Colline 92210 Saint-Cloud France
 
 <div style=\"page-break-after: always\"></div>
-
-France
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
@@ -482,7 +466,7 @@ EU/1/20/1457/002
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-Date of first authorisation: 27 July 2020. Date of latest renewal:
+Date of first authorisation: 27 July 2020. Date of latest renewal: 4 April 2025.
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -500,7 +484,7 @@ Each vial of 15 mL concentrate contains lefamulin acetate equivalent to 150 mg l
 
 ## Excipient with known effect
 
-This medicinal product contains 1,055 mg sodium per dose.
+This medicinal product contains 1,055 mg sodium per dose..
 
 For the full list of excipients, see section 6.1.
 
@@ -508,9 +492,7 @@ For the full list of excipients, see section 6.1.
 
 Concentrate and solvent for solution for infusion
 
-The concentrate is a colourless solution.
-
-The solvent is a colourless solution.
+The concentrate is a colourless solution. The solvent is a colourless solution.
 
 ## 4. CLINICAL PARTICULARS
 
@@ -535,11 +517,9 @@ Table 1: Dosage of Xenleta
 | Intravenous lefamulin only: 150 mg of Xenleta every 12 hours by intravenous infusion over 60 minutes by direct infusion or through a Y-type intravenous infusion set which may already be in place. | 7 days                                                                            |
 | Intravenous lefamulin with option to switch to oral lefamulin:                                                                                                                                      | 7 days total treatment by the intravenous or combined intravenous and oral routes |
 | Dosage                                                                                                                                                                                              | Treatment duration                                                                |
+| 150 mg of Xenleta every 12 hours by intravenous infusion over 60 minutes with option to switch to 600 mg Xenleta tablet orally every 12 hours                                                       |                                                                                   |
 
 <div style=\"page-break-after: always\"></div>
-
-| 150 mg of Xenleta every 12 hours by intravenous infusion over 60 minutes with option to switch to 600 mg Xenleta tablet orally every 12 hours   |
-|-------------------------------------------------------------------------------------------------------------------------------------------------|
 
 ## Special populations
 
@@ -591,11 +571,9 @@ Coadministration with sensitive CYP2C8 substrates (e.g. repaglinide) (see sectio
 
 Prolongation of QTc interval and potential QTc-interval prolongation-related clinical conditions
 
-Changes in cardiac electrophysiology have been observed in nonclinical and clinical studies with
+Changes in cardiac electrophysiology have been observed in nonclinical and clinical studies with lefamulin. In clinical trials in patients with community-acquired pneumonia, the mean change in QTcF from baseline to Day 3 to 4 was 11.4 msec. Post-baseline QTcF increases &gt;30 msec and &gt;60msec were seen in 17.9% and in 1.7% of patients, respectively, and were more frequent following intravenous lefamulin dosing compared to oral dosing.
 
 <div style=\"page-break-after: always\"></div>
-
-lefamulin. In clinical trials in patients with community-acquired pneumonia, the mean change in QTcF from baseline to Day 3 to 4 was 11.4 msec. Post-baseline QTcF increases &gt;30 msec and &gt;60msec were seen in 17.9% and in 1.7% of patients, respectively, and were more frequent following intravenous lefamulin dosing compared to oral dosing.
 
 The magnitude of QT prolongation may increase with increasing concentrations of lefamulin or increasing the rate of infusion of the intravenous formulation. Therefore, the recommended dose and infusion rate should not be exceeded.
 
@@ -631,9 +609,9 @@ This medicinal product contains 1,055 mg sodium per dose, equivalent to 52.75% o
 
 Co-administration with other medicinal products known to prolong the QT interval is contraindicated (see section 4.3).
 
-<div style=\"page-break-after: always\"></div>
-
 ## Pharmacokinetic interactions
+
+<div style=\"page-break-after: always\"></div>
 
 ## Effects of other products on lefamulin
 
@@ -647,7 +625,7 @@ Co-administration of lefamulin with sensitive CYP2C8 substrates such as repaglin
 
 In a clinical drug-drug interaction study, no clinically relevant interaction was observed when lefamulin was co-administered with the P-gp substrate digoxin. Clinical drug interaction studies with lefamulin and substrates of other transporters have not been performed. In vitro studies indicated that lefamulin acts as an inhibitor of OATP1B1, OATP1B3, BCRP, OCT2 and MATE1 transporters. Therefore, caution is recommended when co-administering lefamulin with sensitive substrates of these transporters, especially for those substrates with a narrow therapeutic window.
 
-Table 2 summarises effects on plasma concentrations of lefamulin and on co-administered medicinal products expressed as least-square mean ratios (90% confidence interval). The direction of the arrow indicates the direction of the change in exposures (Cmax and AUC), where ↑ indicates an increase more than 25%, ↓ indicates a decrease more than 25%, and ↔ indicates no change (equal to or less than 25% decrease or increase).The table below is not all inclusive.
+Table 2 summarises effects on plasma concentrations of lefamulin and on co-administered medicinal products expressed as least-square mean ratios (90% confidence interval). The direction of the arrow indicates the direction of the change in exposures (Cmax and AUC), where ↑ indicates an increase more than 25%, ↓ indicates a decrease more than 25%, and ↔ indicates no change (equal to or less than 25% decrease or increase). The table below is not all inclusive.
 
 Table 2: Interactions and dose recommendations of intravenous Xenleta with other medicinal products
 
@@ -656,39 +634,36 @@ Table 2: Interactions and dose recommendations of intravenous Xenleta with other
 | ANTIDEPRESSANTS                                                            | ANTIDEPRESSANTS                      | ANTIDEPRESSANTS | ANTIDEPRESSANTS                                                                           | ANTIDEPRESSANTS |
 | Fluvoxamine* 100 mg twice daily (Mild inhibition of CYP3A)                 | Not studied Expected↔ Lefamulin      |                 | No dose adjustment of intravenous lefamulin required.                                     |                 |
 | ANTIDIABETICS                                                              | ANTIDIABETICS                        | ANTIDIABETICS   | ANTIDIABETICS                                                                             | ANTIDIABETICS   |
-| Metformin 1000 mg singe dose (Inhibition of                                | Not studied                          |                 | Caution is recommended. Co- administration with lefamulin may lead to higher exposures of |                 |
+| Metformin 1000 mg single dose (Inhibition of                               | Not studied                          |                 | Caution is recommended. Co- administration with lefamulin may lead to higher exposures of |                 |
+| Medicinal product by therapeutic areas/possible mechanism of interaction   | Effect on medicinal product levels   | C max           | Clinical comments                                                                         |                 |
+| MATE, OCT1, OCT2)                                                          |                                      |                 | metformin. Patients should be monitored.                                                  |                 |
 
 <div style=\"page-break-after: always\"></div>
 
-| Medicinal product by therapeutic areas/possible mechanism of interaction   | Effect on medicinal product levels     | C max                                  | AUC                                    | Clinical comments                                                                                                                            |
-|----------------------------------------------------------------------------|----------------------------------------|----------------------------------------|----------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|
-| MATE, OCT1, OCT2)                                                          |                                        |                                        |                                        | metformin. Patients should be monitored.                                                                                                     |
-| Repaglinide* 0.25 mg single dose (Inhibition of CYP3A4, CYP2C8)            | Not studied Expected ↑Repaglinide      |                                        |                                        | Co-administration with lefamulin may lead to higher exposures of repaglinide and is contraindicated (see section 4.3).                       |
-| ANTIFUNGALS                                                                | ANTIFUNGALS                            | ANTIFUNGALS                            | ANTIFUNGALS                            | ANTIFUNGALS                                                                                                                                  |
-| Ketoconazole 200 mg twice daily (Strong inhibiton of CYP3A4)               | ↑ Lefamulin                            | 1.06 (0.96-1.16)                       | 1.26 (1.14-1.41)                       | No dose adjustment for intravenous lefamulin.                                                                                                |
-| Fluconazole* 400 mg day 1 + 200 mg once daily (Moderate inhibition of      | Not studied Expected↔ Lefamulin        |                                        |                                        | Co-administration of medicinal products known to prolong QT interval is contraindicated (see section 4.3).                                   |
-| ANTIMYCOBACTERIALS                                                         | ANTIMYCOBACTERIALS                     | ANTIMYCOBACTERIALS                     | ANTIMYCOBACTERIALS                     | ANTIMYCOBACTERIALS                                                                                                                           |
-| Rifampicin 600 mg once daily (Strong induction of CYP3A)                   | ↓ Lefamulin                            | 0.92 (0.87-0.97)                       | 0.73 (0.70-0.76)                       | Co-administration of strong CYP3A inducers may result in reduced therapeutic effect of lefamulin and is contraindicated (see section 4.3).   |
-| ETHINYL-OESTRADIOL-CONTAINING PRODUCTS                                     | ETHINYL-OESTRADIOL-CONTAINING PRODUCTS | ETHINYL-OESTRADIOL-CONTAINING PRODUCTS | ETHINYL-OESTRADIOL-CONTAINING PRODUCTS | ETHINYL-OESTRADIOL-CONTAINING PRODUCTS                                                                                                       |
-| Ethinyl oestradiol*(EE) 35 µg once daily (Inhibition of CYP3A4)            | Not studied Expected↔EE                |                                        |                                        | Use with caution. (see Section 4.6).                                                                                                         |
-| HIV-ANTIVIRAL AGENTS                                                       | HIV-ANTIVIRAL AGENTS                   | HIV-ANTIVIRAL AGENTS                   | HIV-ANTIVIRAL AGENTS                   | HIV-ANTIVIRAL AGENTS                                                                                                                         |
-| Efavirenz * 600 mg once daily (Moderate induction of CYP3A4)               | Not studied Expected ↓ Lefamulin       |                                        |                                        | Co-administration of moderate CYP3A inducers may result in reduced therapeutic effect of lefamulin and is contraindicated (see section 4.3). |
-| BENZODIAZEPINE BZ1 RECEPTOR ANTAGONIST                                     | BENZODIAZEPINE BZ1 RECEPTOR ANTAGONIST | BENZODIAZEPINE BZ1 RECEPTOR ANTAGONIST | BENZODIAZEPINE BZ1 RECEPTOR ANTAGONIST | BENZODIAZEPINE BZ1 RECEPTOR ANTAGONIST                                                                                                       |
-| Zolpidem* 10 mg single dose (Inhibition of                                 | Not studied Expected -Zolpidem         |                                        |                                        | No dose adjustment required.                                                                                                                 |
+| Repaglinide* 0.25 mg single dose (Inhibition of CYP3A4, CYP2C8)          | Not studied Expected ↑Repaglinide      |                                        |                                        | Co-administration with lefamulin may lead to higher exposures of repaglinide and is contraindicated (see section 4.3).                       |
+|--------------------------------------------------------------------------|----------------------------------------|----------------------------------------|----------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|
+| ANTIFUNGALS                                                              | ANTIFUNGALS                            | ANTIFUNGALS                            | ANTIFUNGALS                            | ANTIFUNGALS                                                                                                                                  |
+| Ketoconazole 200 mg twice daily (Strong inhibiton of CYP3A4)             | ↑ Lefamulin                            | 1.06 (0.96-1.16)                       | 1.26 (1.14-1.41)                       | No dose adjustment for intravenous lefamulin.                                                                                                |
+| Fluconazole* 400 mg day 1 + 200 mg once daily (Moderate inhibition of    | Not studied Expected↔ Lefamulin        |                                        |                                        | Co-administration of medicinal products known to prolong QT interval is contraindicated (see section 4.3).                                   |
+| ANTIMYCOBACTERIALS                                                       | ANTIMYCOBACTERIALS                     | ANTIMYCOBACTERIALS                     | ANTIMYCOBACTERIALS                     | ANTIMYCOBACTERIALS                                                                                                                           |
+| Rifampicin 600 mg once daily (Strong induction of CYP3A)                 | ↓ Lefamulin                            | 0.92 (0.87-0.97)                       | 0.73 (0.70-0.76)                       | Co-administration of strong CYP3A inducers may result in reduced therapeutic effect of lefamulin and is contraindicated (see section 4.3).   |
+| ETHINYL-OESTRADIOL-CONTAINING PRODUCTS                                   | ETHINYL-OESTRADIOL-CONTAINING PRODUCTS | ETHINYL-OESTRADIOL-CONTAINING PRODUCTS | ETHINYL-OESTRADIOL-CONTAINING PRODUCTS | ETHINYL-OESTRADIOL-CONTAINING PRODUCTS                                                                                                       |
+| Ethinyl oestradiol*(EE) 35 µg once daily (Inhibition of CYP3A4)          | Not studied Expected↔EE                |                                        |                                        | Use with caution. (see Section 4.6).                                                                                                         |
+| HIV-ANTIVIRAL AGENTS                                                     | HIV-ANTIVIRAL AGENTS                   | HIV-ANTIVIRAL AGENTS                   | HIV-ANTIVIRAL AGENTS                   | HIV-ANTIVIRAL AGENTS                                                                                                                         |
+| Efavirenz * 600 mg once daily (Moderate induction of CYP3A4)             | Not studied Expected ↓ Lefamulin       |                                        |                                        | Co-administration of moderate CYP3A inducers may result in reduced therapeutic effect of lefamulin and is contraindicated (see section 4.3). |
+| BENZODIAZEPINE BZ1 RECEPTOR ANTAGONIST                                   | BENZODIAZEPINE BZ1 RECEPTOR ANTAGONIST | BENZODIAZEPINE BZ1 RECEPTOR ANTAGONIST | BENZODIAZEPINE BZ1 RECEPTOR ANTAGONIST | BENZODIAZEPINE BZ1 RECEPTOR ANTAGONIST                                                                                                       |
+| Zolpidem* 10 mg single dose (Inhibition of CYP3A4)                       | Not studied Expected -Zolpidem         |                                        |                                        | No dose adjustment required.                                                                                                                 |
+| HERBAL PRODUCTS                                                          | HERBAL PRODUCTS                        | HERBAL PRODUCTS                        | HERBAL PRODUCTS                        | HERBAL PRODUCTS                                                                                                                              |
+| Medicinal product by therapeutic areas/possible mechanism of interaction | Effect on medicinal product levels     | C max                                  | AUC                                    | Clinical comments                                                                                                                            |
 
 <div style=\"page-break-after: always\"></div>
 
-| Medicinal product by therapeutic areas/possible mechanism of interaction                         | Effect on medicinal product levels   | C max                             | AUC                               | Clinical comments                                                                                                                          |
-|--------------------------------------------------------------------------------------------------|--------------------------------------|-----------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
-| St. John's Wort (Strong induction of CYP3A4)                                                     | Not studied Expected: ↓ Lefamulin    | Not studied Expected: ↓ Lefamulin | Not studied Expected: ↓ Lefamulin | Co-administration of strong CYP3A inducers may result in reduced therapeutic effect of lefamulin and is contraindicated (see section 4.3). |
-| HMG-COA REDUCTASE INHIBITORS                                                                     | HMG-COA REDUCTASE INHIBITORS         | HMG-COA REDUCTASE INHIBITORS      | HMG-COA REDUCTASE INHIBITORS      | HMG-COA REDUCTASE INHIBITORS                                                                                                               |
-| Rosuvastatin 20 mg single dose Atorvastatin, Lovastatin, Provastatin (Inhibition of BCRP, OATP1) | Not studied                          |                                   |                                   | Use with caution.                                                                                                                          |
-| SEDATIVE AGENTS                                                                                  | SEDATIVE AGENTS                      | SEDATIVE AGENTS                   | SEDATIVE AGENTS                   | SEDATIVE AGENTS                                                                                                                            |
-| Midazolam 2 mg oral single dose (Inhibiton of CYP3A4)                                            | -Midazolam                           | 1.03 (0.82-1.3)                   | 1.17 (0.82-1.67)                  | No dose adjustment required when co- administered with intravenous lefamulin.                                                              |
-
-*Based on in vitro interaction studies, a physiological based pharmacokinetic model was developed and used for prediction.
-
-# Refer to the respective SmPC.
+| St. John's Wort (Strong induction of CYP3A4)                                                     | Not studied Expected: ↓ Lefamulin   | Not studied Expected: ↓ Lefamulin   | Not studied Expected: ↓ Lefamulin   | Co-administration of strong CYP3A inducers may result in reduced therapeutic effect of lefamulin and is contraindicated (see section 4.3).   |
+|--------------------------------------------------------------------------------------------------|-------------------------------------|-------------------------------------|-------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|
+| HMG-COA REDUCTASE INHIBITORS                                                                     | HMG-COA REDUCTASE INHIBITORS        | HMG-COA REDUCTASE INHIBITORS        | HMG-COA REDUCTASE INHIBITORS        | HMG-COA REDUCTASE INHIBITORS                                                                                                                 |
+| Rosuvastatin 20 mg single dose Atorvastatin, Lovastatin, Provastatin (Inhibition of BCRP, OATP1) | Not studied                         |                                     |                                     | Use with caution.                                                                                                                            |
+| SEDATIVE AGENTS                                                                                  | SEDATIVE AGENTS                     | SEDATIVE AGENTS                     | SEDATIVE AGENTS                     | SEDATIVE AGENTS                                                                                                                              |
+| Midazolam 2 mg oral single dose (Inhibiton of CYP3A4)                                            | -Midazolam                          | 1.03 (0.82-1.3)                     | 1.17 (0.82-1.67)                    | No dose adjustment required when co- administered with intravenous lefamulin.                                                                |
 
 ## 4.6 Fertility, pregnancy and lactation
 
@@ -714,13 +689,13 @@ Breast-feeding should be discontinued during treatment with Xenleta.
 
 The effects of lefamulin on fertility in humans have not been studied.
 
-<div style=\"page-break-after: always\"></div>
-
 Lefamulin caused no impairment of fertility or reproductive performance in rats (see section 5.3).
 
 ## 4.7 Effects on ability to drive and use machines
 
 Xenleta has no influence on the ability to drive and use machines.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 4.8 Undesirable effects
 
@@ -738,24 +713,22 @@ Based on pooled data from Phase 3 trials for both intravenous and oral formulati
 
 Table 3: Frequency of adverse reactions by system organ class from clinical trials
 
-| System organ class                              | Common                                                                    | Uncommon                                                                                                     |
-|-------------------------------------------------|---------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|
-| Infections and infestations                     |                                                                           | Clostridioides difficile colitis Oropharyngeal candidiasis Vulvovaginal mycotic infection                    |
-| Blood and lymphatic system disorders            |                                                                           | Anaemia Thrombocytopenia                                                                                     |
-| Metabolism and nutrition disorders              | Hypokalaemia                                                              |                                                                                                              |
-| Psychiatric disorders                           | Insomnia                                                                  | Anxiety                                                                                                      |
-| Nervous system disorders                        | Headache                                                                  | Dizziness Somnolence                                                                                         |
-| Cardiac disorders                               | Electrocardiogram QT prolonged                                            | Atrial fibrillation Palpitations                                                                             |
-| Respiratory, thoracic and mediastinal disorders |                                                                           | Oropharyngeal pain                                                                                           |
-| Gastrointestinal disorders                      | Diarrhoea Nausea Vomiting                                                 | Abdominal pain Abdominal pain upper Constipation Dyspepsia Epigastric discomfort Gastritis Gastritis erosive |
-| Hepatobiliary disorders                         | Alanine aminotransferase increased* Aspartate aminotransferase increased* | Alkaline phosphatase increased Gamma-glutamyltransferase increased                                           |
+| System organ class                                   | Common                                                                    | Uncommon                                                                                                     |
+|------------------------------------------------------|---------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|
+| Infections and infestations                          |                                                                           | Clostridioides difficile colitis Oropharyngeal candidiasis Vulvovaginal mycotic infection                    |
+| Blood and lymphatic system disorders                 |                                                                           | Anaemia Thrombocytopenia                                                                                     |
+| Metabolism and nutrition disorders                   | Hypokalaemia                                                              |                                                                                                              |
+| Psychiatric disorders                                | Insomnia                                                                  | Anxiety                                                                                                      |
+| Nervous system disorders                             | Headache                                                                  | Dizziness Somnolence                                                                                         |
+| Cardiac disorders                                    | Electrocardiogram QT prolonged                                            | Atrial fibrillation Palpitations                                                                             |
+| Respiratory, thoracic and mediastinal disorders      |                                                                           | Oropharyngeal pain                                                                                           |
+| Gastrointestinal disorders                           | Diarrhoea Nausea Vomiting                                                 | Abdominal pain Abdominal pain upper Constipation Dyspepsia Epigastric discomfort Gastritis Gastritis erosive |
+| Hepatobiliary disorders                              | Alanine aminotransferase increased* Aspartate aminotransferase increased* | Alkaline phosphatase increased Gamma-glutamyltransferase increased                                           |
+| Renal and urinary disorders                          |                                                                           | Urinary retention                                                                                            |
+| General disorders and administration site conditions | Infusion site pain Infusion site phlebitis Infusion site erythema         | Infusion site bruising Infusion site coldness                                                                |
+| Investigations                                       |                                                                           | Creatinine phosphokinase increased                                                                           |
 
 <div style=\"page-break-after: always\"></div>
-
-| Renal and urinary disorders                          |                                                                   | Urinary retention                             |
-|------------------------------------------------------|-------------------------------------------------------------------|-----------------------------------------------|
-| General disorders and administration site conditions | Infusion site pain Infusion site phlebitis Infusion site erythema | Infusion site bruising Infusion site coldness |
-| Investigations                                       |                                                                   | Creatinine phosphokinase increased            |
 
 *In Phase 3 trials (pooled data for intravenous and oral formulations), post-baseline alanine aminotransferase values &gt;3x and &gt;5x ULN occurred in 5% and 2% of Xenleta patients compared with 5% and 1% of moxifloxacin patients. Post-baseline aspartate aminotransferase values &gt;3x and &gt;5x ULN occurred in 4% and 1% of Xenleta patients compared with 2% and 1% of moxifloxacin patients. Those affected were asymptomatic with reversible clinical laboratory findings that typically peaked within the first week of Xenleta dosing. No Xenleta patient met Hy's Law criteria.
 
@@ -771,9 +744,7 @@ The highest single doses of lefamulin administered in clinical trials were 400 m
 
 ## 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: antibacterials for systemic use, other antibacterials, ATC code:
-
-## J01XX12.
+Pharmacotherapeutic group: antibacterials for systemic use, other antibacterials, ATC code: J01XX12.
 
 ## Mechanism of action
 
@@ -787,15 +758,13 @@ Cfr generally confers cross-resistance with oxazolidinones, lincosamides, phenic
 
 Organisms resistant to other pleuromutilin class antibacterial agents are generally cross-resistant to lefamulin.
 
-<div style=\"page-break-after: always\"></div>
-
-The activity of lefamulin is not affected by mechanisms that confer resistance to beta-lactams, macrolides, quinolones, tetracyclines, folate-pathway inhibitors, mupirocin and glycopeptides.
-
-Inherent resistance to lefamulin occurs in Enterobacterales (e.g. Klebsiella pneumoniae ) and nonfermenting Gram-negative aerobes (e.g. Pseudomonas aeruginosa , Acinetobacter baumannii ).
+The activity of lefamulin is not affected by mechanisms that confer resistance to beta-lactams, macrolides, quinolones, tetracyclines, folate-pathway inhibitors, mupirocin and glycopeptides. Inherent resistance to lefamulin occurs in Enterobacterales (e.g. Klebsiella pneumoniae ) and nonfermenting Gram-negative aerobes (e.g. Pseudomonas aeruginosa , Acinetobacter baumannii ).
 
 ## Antibacterial activity in combination with other antibacterial agents
 
 In vitro studies demonstrated no antagonism between lefamulin and amikacin, azithromycin, aztreonam, ceftriaxone, levofloxacin, linezolid, meropenem, penicillin, tigecycline, trimethoprim/sulfamethoxazole, and vancomycin).
+
+<div style=\"page-break-after: always\"></div>
 
 ## Susceptibility testing interpretive criteria
 
@@ -837,11 +806,13 @@ Clinical efficacy has not been established against the following pathogens that 
 
 The European Medicines Agency has deferred the obligation to submit the results of studies with Xenleta in one or more subsets of the paediatric population in community-acquired pneumonia (see section 4.2 for information on paediatric use).
 
-<div style=\"page-break-after: always\"></div>
-
 ## Information from clinical trials
 
-In a post-hoc, subgroup analysis from two Phase 3 trials in patients with community-acquired pneumonia, the clinical cure rates at a post-treatment visit in patients with any of a positive sputum culture, positive blood culture or positive urinary antigen test for S. pneumoniae were lower for patients treated with lefamulin compared to patients treated with moxifloxacin. When treatment commenced by the intravenous route the cure rates were 28/36 [77.8%; (95% confidence intervals (CIs) 60.8% to 89.9%)] for lefamulin vs. 26/31 [83.9%; (95% CI 66.3% to 94.6%)] for moxifloxacin. When treatment commenced by the oral route, the cure rates were 19/25 (76%; 95% CI 55.9% to 90.6%) vs. 30/32 (93.8%; 95% CI 79.2% to 99.2%), respectively.
+In a post-hoc, subgroup analysis from two Phase 3 trials in patients with community-acquired pneumonia, the clinical cure rates at a post-treatment visit in patients with any of a positive sputum culture, positive blood culture or positive urinary antigen test for S. pneumoniae were lower for patients treated with lefamulin compared to patients treated with moxifloxacin. When treatment commenced by the intravenous route the cure rates were 28/36 [77.8%; (95% confidence intervals (CIs) 60.8% to 89.9%)] for lefamulin vs. 26/31 [83.9%; (95% CI 66.3% to 94.6%)] for moxifloxacin. When treatment commenced by the oral route, the cure rates were 19/25 (76%; 95% CI 55.9% to
+
+<div style=\"page-break-after: always\"></div>
+
+90.6%) vs. 30/32 (93.8%; 95% CI 79.2% to 99.2%), respectively.
 
 ## 5.2 Pharmacokinetic properties
 
@@ -871,15 +842,13 @@ In CAP patients there was a trend of increasing lefamulin exposure with increasi
 
 ## Renal impairment
 
-A study was conducted to compare lefamulin pharmacokinetics following intravenous administration of 150 mg in 8 subjects with severe renal impairment and 7 matched healthy control subjects. Another 8 subjects requiring haemodialysis received 150 mg lefamulin intravenously immediately before dialysis (on-dialysis) and on a non-dialysis day (off-dialysis). The AUC, Cmax, and CL of lefamulin and its main metabolite were comparable between subjects with severe renal impairment and matched
-
-<div style=\"page-break-after: always\"></div>
-
-healthy subjects, and in subjects requiring haemodialysis whether on- or off-dialysis. Lefamulin and its main metabolite were not dialyzable. Renal impairment did not impact lefamulin elimination.
+A study was conducted to compare lefamulin pharmacokinetics following intravenous administration of 150 mg in 8 subjects with severe renal impairment and 7 matched healthy control subjects. Another 8 subjects requiring haemodialysis received 150 mg lefamulin intravenously immediately before dialysis (on-dialysis) and on a non-dialysis day (off-dialysis). The AUC, Cmax, and CL of lefamulin and its main metabolite were comparable between subjects with severe renal impairment and matched healthy subjects, and in subjects requiring haemodialysis whether on- or off-dialysis. Lefamulin and its main metabolite were not dialyzable. Renal impairment did not impact lefamulin elimination.
 
 ## Hepatic impairment
 
 A study was conducted to compare lefamulin pharmacokinetics following intravenous administration of 150 mg in 8 subjects with moderate hepatic impairment (Child-Pugh Class B), 8 subjects with severe hepatic impairment (Child-Pugh Class C), and 11 matched healthy control subjects. No clinically meaningful changes in the total AUC, Cmax, and CL of lefamulin and its main metabolite were observed between subjects with moderate or severe hepatic impairment and matched healthy control subjects. Hepatic impairment did not meaningfully impact lefamulin elimination. Plasma protein binding decreased with increased impairment.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 5.3 Preclinical safety data
 
@@ -905,15 +874,15 @@ Evidence of dose-dependent regenerative anaemia in both species indicated lefamu
 
 Sodium chloride Water for injections
 
-<div style=\"page-break-after: always\"></div>
-
 ## Solvent
 
 Citric acid Sodium citrate Sodium chloride Water for injections
 
 ## 6.2 Incompatibilities
 
-This medicinal product must not be mixed with other medicinal products except those mentioned in section 6.6.
+<div style=\"page-break-after: always\"></div>
+
+section 6.6.
 
 ## 6.3 Shelf life
 
@@ -941,11 +910,11 @@ For storage conditions after dilution of the medicinal product, see section 6.3.
 
 Glass vial with chlorobutyl rubber stopper and aluminium seal with plastic flip off cap.
 
-Solvent
+## Solvent
 
 Polypropylene infusion bag
 
-Pack size
+## Pack size
 
 One pack contains 2 vials each containing 15 ml concentrate and 2 bags each containing 250 mL solvent.
 
@@ -961,13 +930,16 @@ Standard aseptic techniques should be used for solution preparation and administ
 
 Xenleta concentrate must be mixed into the bag of solvent containing 250 mL solution of 10mM citrate buffered saline and administered by infusion.
 
-<div style=\"page-break-after: always\"></div>
-
 1. Aseptically withdraw 15 mL of Xenleta from the concentrate vial.
 2. Transfer concentrate to the bag of solvent containing 250 mL solution of 10mM citrate buffered 0.9% sodium chloride injection.
 3. Discard any unused portion from the concentrate vial. The vial of concentrate and the bag of solvent solution is single-use only.
 4. The diluted solution should be clear and colourless. Parenteral medicinal products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
-5. Administer by intravenous infusion over a period of 60 minutes by direct infusion or through a Y-type intravenous infusion set which may already be in place. Avoid rapid or bolus intravenous infusion.
+5. Administer by intravenous infusion over a period of 60 minutes by direct infusion or through a
+
+<div style=\"page-break-after: always\"></div>
+
+Y-type intravenous infusion set which may already be in place. Avoid rapid or bolus intravenous infusion.
+
 6. Administer by intravenous infusion only.
 
 The compatibility of reconstituted Xenleta with intravenous medicinal products, additives, or substances other than 10mM citrate buffered 0.9% sodium chloride intravenous infusion and 0.9% sodium chloride intravenous infusion has not been established. If a common intravenous line is being used to administer other medicinal products in addition to Xenleta, the line should be flushed before and after each Xenleta administration with 0.9% sodium chloride intravenous infusion.
@@ -986,9 +958,7 @@ EU/1/20/1457/001
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-Date of first authorisation: 27 July 2020.
-
-Date of latest renewal:
+Date of first authorisation: 27 July 2020. Date of latest renewal: 4 April 2025.
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -1009,7 +979,7 @@ Detailed information on this medicinal product is available on the website of th
 
 Name and address of the manufacturer responsible for batch release
 
-Nabriva Therapeutics Ireland DAC Alexandra House, Office 225/227 The Sweepstakes Ballsbridge Dublin 4 D04 C7H2 Ireland
+Nabriva Therapeutics Ireland DAC Alexandra House, Office 225/227 The Sweepstakes, Ballsbridge Dublin 4 D04 C7H2 Republic of Ireland
 
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
@@ -1090,8 +1060,8 @@ Venipharm
 
 4, Bureaux de la Colline 92210 Saint-Cloud France
 
-| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
-|-------|-------------------------------------|
+| 12. MARKETING AUTHORISATION NUMBER(S)   |
+|-----------------------------------------|
 
 EU/1/20/1457/002
 
@@ -1120,6 +1090,8 @@ Xenleta
 |-------|---------------------------------------|
 
 PC SN NN
+
+33
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1210,48 +1182,51 @@ EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-<div style=\"page-break-after: always\"></div>
-
 Store in a refrigerator.
+
+<div style=\"page-break-after: always\"></div>
 
 Do not freeze.
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSALOFUNUSED MEDICINALPRODUCTS OR WASTE MATERIALS DERIVEDFROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-------------------------------------------------------------------------------------------------------------------------------------|
 
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+| 11.   | NAME ANDADDRESS OF THE MARKETING AUTHORISATIONHOLDER   |
+|-------|--------------------------------------------------------|
 
-Venipharm
+Venipharm 4, Bureaux de la Colline 92210 Saint-Cloud France
 
-- 4, Bureaux de la Colline
-
-92210 Saint-Cloud
-
-France
-
-## 12. MARKETING AUTHORISATION NUMBER(S)
+| 12. MARKETING AUTHORISATION NUMBER(S)   |
+|-----------------------------------------|
 
 EU/1/20/1457/001
 
-## 13. BATCH NUMBER
+| 13.   | BATCHNUMBER   |
+|-------|---------------|
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
-15. INSTRUCTIONS ON USE
+14.
 
-## 16. INFORMATION IN BRAILLE
+GENERAL CLASSIFICATION FOR SUPPLY
+
+| 15.   | INSTRUCTIONS ONUSE   |
+|-------|----------------------|
+
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
 
 Justification for not including Braille accepted
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
+|-------|----------------------------------|
 
 2D barcode carrying the unique identifier included
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+| 18.   | UNIQUE IDENTIFIER-HUMANREADABLEDATA   |
+|-------|---------------------------------------|
 
-PC SN
-
-NN
+PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1281,13 +1256,9 @@ Concentrate for solution for infusion
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-Read the package leaflet before use.
+Read the package leaflet before use. Intravenous use after dilution For single use only.
 
-Intravenous use after dilution
-
-For single use only.
-
-## SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN 6.
+- SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN 6.
 
 Keep out of the sight and reach of children.
 
@@ -1303,18 +1274,16 @@ Store in a refrigerator.
 
 Do not freeze.
 
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+
 <div style=\"page-break-after: always\"></div>
-
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSALOFUNUSED MEDICINALPRODUCTS OR WASTE MATERIALS DERIVEDFROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|-------------------------------------------------------------------------------------------------------------------------------------|
-
-| 11.   | NAME ANDADDRESS OF THE MARKETING AUTHORISATIONHOLDER   |
-|-------|--------------------------------------------------------|
 
 Venipharm 4, Bureaux de la Colline 92210 Saint-Cloud France
 
-| 12. MARKETING AUTHORISATION NUMBER(S)   |
-|-----------------------------------------|
+| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
+|-------|-------------------------------------|
 
 EU/1/20/1457/001
 
@@ -1340,6 +1309,8 @@ Justification for not including Braille accepted
 | 18.   | UNIQUE IDENTIFIER-HUMANREADABLEDATA   |
 |-------|---------------------------------------|
 
+38
+
 <div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
@@ -1348,9 +1319,7 @@ IV Solvent for Dilution Carton
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Solvent for Xenleta
-
-Solvent for solution for infusion
+Solvent for Xenleta Solvent for solution for infusion
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE
 
@@ -1368,9 +1337,7 @@ Solvent for solution for infusion
 
 Read the package leaflet before use.
 
-Intravenous use.
-
-Single use.
+Intravenous use. Single use.
 
 - SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN 6.
 
@@ -1378,28 +1345,27 @@ Keep out of the sight and reach of children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-## 8. EXPIRY DATE
+8. EXPIRY DATE
 
 EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-Store below 25°C.
+Store below 25°C. Do not freeze.
 
-Do not freeze.
-
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSALOFUNUSED MEDICINALPRODUCTS OR WASTE MATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|------------------------------------------------------------------------------------------------------------------------------------|
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
+Venipharm 4, Bureaux de la Colline 92210 Saint-Cloud
+
+France EU/1/20/1457/001
+
 <div style=\"page-break-after: always\"></div>
 
-Venipharm 4, Bureaux de la Colline 92210 Saint-Cloud France
-
-| 12. MARKETING AUTHORISATION NUMBER(S)   |
-|-----------------------------------------|
-
-EU/1/20/1457/001
+| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
+|-------|-------------------------------------|
 
 | 13.   | BATCHNUMBER   |
 |-------|---------------|
@@ -1417,8 +1383,8 @@ Lot
 
 Justification for not including Braille accepted.
 
-| 17. UNIQUE IDENTIFIER - 2D BARCODE   |
-|--------------------------------------|
+| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
+|-------|----------------------------------|
 
 | 18.   | UNIQUE IDENTIFIER-HUMANREADABLEDATA   |
 |-------|---------------------------------------|
@@ -1427,64 +1393,70 @@ Justification for not including Braille accepted.
 
 <div style=\"page-break-after: always\"></div>
 
-## PARTICULARS TO APPEAR ON THE IMMEDIATE PACKAGING
+| PARTICULARS TO APPEAR ON THE IMMEDIATE PACKAGING   |
+|----------------------------------------------------|
+| CONCENTRATE VIAL (15 ml)                           |
 
-CONCENTRATE VIAL (15 ml)
-
-## 1. NAME OF THE MEDICINAL PRODUCT
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 Xenleta 150 mg concentrate for solution for infusion lefamulin
 
-## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+| 2.   | STATEMENT OF ACTIVE SUBSTANCE(S)   |
+|------|------------------------------------|
 
 Each vial contains lefamulin acetate equivalent to 150 mg lefamulin
 
-## 3. LIST OF EXCIPIENTS
+| 3.   | LIST OF EXCIPIENTS   |
+|------|----------------------|
 
 Contains sodium chloride and water for injections
 
-## 4. PHARMACEUTICAL FORM AND CONTENTS
+| 4.   | PHARMACEUTICAL FORMANDCONTENTS   |
+|------|----------------------------------|
 
 Concentrate for solution for infusion
 
 15 mL
 
-## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+| 5.   | METHODANDROUTE(S) OFADMINISTRATION   |
+|------|--------------------------------------|
 
-Intravenous use after dilution
-
-Single use.
+Intravenous use after dilution Single use.
 
 Read the package leaflet before use
 
-- SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN 6.
+## SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN 6.
 
 Keep out of the sight and reach of children
 
-## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+| 7.   | OTHER SPECIAL WARNING(S), IF NECESSARY   |
+|------|------------------------------------------|
 
-## 8. EXPIRY DATE
+| 8.   | EXPIRYDATE   |
+|------|--------------|
 
 EXP
 
-## 9. SPECIAL STORAGE CONDITIONS
+| 9.   | SPECIAL STORAGE CONDITIONS   |
+|------|------------------------------|
 
-Store in a refrigerator.
+Store in a refrigerator. Do not freeze.
 
-Do not freeze.
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSALOFUNUSED MEDICINALPRODUCTS OR WASTE MATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|------------------------------------------------------------------------------------------------------------------------------------|
+
+| 11.   | NAME AND ADDRESS OF THEMARKETING AUTHORISATIONHOLDER   |
+|-------|--------------------------------------------------------|
+
+Venipharm
 
 <div style=\"page-break-after: always\"></div>
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSALOFUNUSED MEDICINALPRODUCTS OR WASTE MATERIALS DERIVEDFROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|-------------------------------------------------------------------------------------------------------------------------------------|
+4, Bureaux de la Colline 92210 Saint-Cloud France
 
-| 11.   | NAME ANDADDRESS OF THE MARKETING AUTHORISATIONHOLDER   |
-|-------|--------------------------------------------------------|
-
-Venipharm 4, Bureaux de la Colline 92210 Saint-Cloud France
-
-| 12. MARKETING AUTHORISATION NUMBER(S)   |
-|-----------------------------------------|
+| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
+|-------|-------------------------------------|
 
 EU/1/20/1457/001
 
@@ -1512,73 +1484,59 @@ Lot
 
 <div style=\"page-break-after: always\"></div>
 
-| PARTICULARS TO APPEAR ON THE IMMEDIATE PACKAGING   |
-|----------------------------------------------------|
-| Label for Infusion Bag with Solvent                |
+## PARTICULARS TO APPEAR ON THE IMMEDIATE PACKAGING
 
-| 1.   | NAME OF THE MEDICINAL PRODUCT   |
-|------|---------------------------------|
+Label for Infusion Bag with Solvent
+
+## 1. NAME OF THE MEDICINAL PRODUCT
 
 Solvent for Xenleta IV
 
-| 2.   | STATEMENT OF ACTIVE SUBSTANCE(S)   |
-|------|------------------------------------|
+2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
-| 3.   | LIST OF EXCIPIENTS   |
-|------|----------------------|
+## 3. LIST OF EXCIPIENTS
 
 Each bag contains: sodium chloride, sodium citrate, and citric acid in water for injections.
 
-| 4.   | PHARMACEUTICAL FORMANDCONTENTS   |
-|------|----------------------------------|
+## 4. PHARMACEUTICAL FORM AND CONTENTS
 
 Solvent for solution for infusion
 
 250 mL
 
-| 5.   | METHODANDROUTE(S) OFADMINISTRATION   |
-|------|--------------------------------------|
+## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-Read the package leaflet before use.
+Read the package leaflet before use. Intravenous use. Single use.
 
-Intravenous use.
-
-Single use.
-
-| 6.   | SPECIAL WARNING THAT THE MEDICINALPRODUCTMUSTBE STORED OUT OF THE SIGHT AND REACH OF CHILDREN   |
-|------|-------------------------------------------------------------------------------------------------|
+- SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN 6.
 
 Keep out of the sight and reach of children.
 
-| 7.   | OTHER SPECIAL WARNING(S), IF NECESSARY   |
-|------|------------------------------------------|
-
-| 8.   | EXPIRYDATE   |
-|------|--------------|
+7. OTHER SPECIAL WARNING(S), IF NECESSARY
+8. EXPIRY DATE
 
 EXP
 
-| 9.   | SPECIAL STORAGE CONDITIONS   |
-|------|------------------------------|
+## 9. SPECIAL STORAGE CONDITIONS
 
-Store below 25°C.
+Store below 25°C. Do not freeze.
 
-Do not freeze.
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSALOFUNUSED MEDICINALPRODUCTS OR WASTE MATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|------------------------------------------------------------------------------------------------------------------------------------|
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-| 11.   | NAME AND ADDRESS OF THEMARKETING AUTHORISATIONHOLDER   |
-|-------|--------------------------------------------------------|
+Venipharm
+
+4, Bureaux de la Colline
+
+92210 Saint-Cloud
+
+France EU/1/20/1457/001
 
 <div style=\"page-break-after: always\"></div>
 
-Venipharm 4, Bureaux de la Colline 92210 Saint-Cloud France
-
-| 12. MARKETING AUTHORISATION NUMBER(S)   |
-|-----------------------------------------|
-
-EU/1/20/1457/001
+| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
+|-------|-------------------------------------|
 
 | 13.   | BATCHNUMBER   |
 |-------|---------------|
@@ -1594,8 +1552,8 @@ Lot
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
 
-| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
-|-------|----------------------------------|
+| 17. UNIQUE IDENTIFIER - 2D BARCODE   |
+|--------------------------------------|
 
 | 18.   | UNIQUE IDENTIFIER-HUMANREADABLEDATA   |
 |-------|---------------------------------------|
@@ -1803,10 +1761,10 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 - -The active substance is lefamulin. Each film-coated tablet contains lefamulin acetate equivalent to 600 mg lefamulin.
 - -The other ingredients are l silicon dioxide (E551), croscarmellose sodium (E468), magnesium stearate (E572), mannitol (E421), microcrystalline cellulose (E460), povidone K30, talc (E553b).
+- -Film coating: indigo carmine lake (E132), macrogol, poly (vinyl alcohol) (E1203), talc, titanium dioxide (E171).
 
 <div style=\"page-break-after: always\"></div>
 
-- -Film coating: indigo carmine lake (E132), macrogol, poly (vinyl alcohol) (E1203), talc, titanium dioxide (E171).
 - -Printing ink: shellac (E904), black iron oxide (E172), propylene glycol.
 
 ## What Xenleta looks like and contents of the pack
@@ -1821,9 +1779,7 @@ Venipharm 4, Bureaux de la Colline 92210 Saint-Cloud France
 
 ## Manufacturer
 
-Nabriva Therapeutics Ireland DAC Alexandra House, Office 225/227 The Sweepstakes Ballsbridge Dublin 4 D04 C7H2
-
-Ireland
+Nabriva Therapeutics Ireland DAC Alexandra House, Office 225/227 The Sweepstakes, Ballsbridge Dublin 4 D04 C7H2 Republic of Ireland
 
 ## This leaflet was last revised in
 
@@ -1924,11 +1880,11 @@ You should not be given Xenleta if you are pregnant or breast-feeding. If you ar
 
 Taking Xenleta will not influence the ability to drive or use machines.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Xenleta contains sodium
 
 This medicine contains 1,055 mg sodium (main component of cooking/table salt) in each dosage unit. This is equivalent to 53% of the recommended maximum daily dietary intake of sodium for an adult.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 3. How you will be given Xenleta
 
@@ -2025,23 +1981,19 @@ Xenleta is supplied in a pack containing 2 vials each containing 15 ml concentra
 
 ## Marketing Authorisation Holder
 
-Venipharm
+Venipharm 4, Bureaux de la Colline 92210 Saint-Cloud France
 
-4, Bureaux de la Colline
-
-92210 Saint-Cloud France
+<div style=\"page-break-after: always\"></div>
 
 ## Manufacturer
 
-Nabriva Therapeutics Ireland DAC Alexandra House, Office 225/227 The Sweepstakes Ballsbridge Dublin 4 D04 C7H2 Ireland
+Nabriva Therapeutics Ireland DAC Alexandra House, Office 225/227 The Sweepstakes, Ballsbridge Dublin 4 D04 C7H2 Republic of Ireland
 
 ## This leaflet was last revised in
 
 Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
 
 &lt;
-
-<div style=\"page-break-after: always\"></div>
 
 ## The following information is intended for healthcare professionals only:
 
@@ -2066,13 +2018,11 @@ Xenleta concentrate must be mixed into the bag of solvent containing 250 mL solu
 5. Administer by intravenous infusion over a period of 60 minutes by direct infusion or through a Y-type intravenous infusion set which may already be in place. Avoid rapid or bolus intravenous infusion.
 6. Administer by intravenous infusion only.
 
-The compatibility of reconstituted Xenleta with intravenous medicinal products, additives, or substances other than 10mM citrate buffered 0.9% sodium chloride intravenous infusion or 0.9% sodium chloride intravenous infusion has not been established. If a common intravenous line is being used to administer other medicinal products in addition to Xenleta, the line should be flushed before
+The compatibility of reconstituted Xenleta with intravenous medicinal products, additives, or substances other than 10mM citrate buffered 0.9% sodium chloride intravenous infusion or 0.9% sodium chloride intravenous infusion has not been established. If a common intravenous line is being used to administer other medicinal products in addition to Xenleta, the line should be flushed before and after each Xenleta administration with 0.9% sodium chloride intravenous infusion.
 
 &gt;
 
 <div style=\"page-break-after: always\"></div>
-
-and after each Xenleta administration with 0.9% sodium chloride intravenous infusion.
 
 ## Disposal
 

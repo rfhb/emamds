@@ -1,30 +1,32 @@
 ---
-document_datetime: 2026-01-28 16:36:00
+document_datetime: 2026-05-28 17:30:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/pomalidomide-teva.html
 document_name: pomalidomide-teva.html
 version: success
-processing_time: 0.149947
-conversion_datetime: 2026-01-29 11:54:36.110245
+processing_time: 0.1479975
+conversion_datetime: 2026-06-01 16:57:28.922395
 docling_version:
-  docling-serve: 1.11.0
-  docling-jobkit: 1.9.0
-  docling: 2.70.0
-  docling-core: 2.61.0
-  docling-ibm-models: 3.11.0
-  docling-parse: 4.7.3
+  docling-serve: 1.20.0
+  docling-jobkit: 1.20.1
+  docling: 2.96.1
+  docling-core: 2.78.0
+  docling-ibm-models: 3.13.2
+  docling-parse: 6.2.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
 ---
 # Pomalidomide Teva
 
 [RSS](/en/individual-human-medicine.xml/249347)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-pomalidomide Medicine Human Authorised
+pomalidomide
+
+Medicine Human Authorised
 
 Page contents
 
@@ -102,189 +104,145 @@ English (EN) (143.84 KB - PDF)
 
 [View](/en/documents/overview/pomalidomide-teva-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-851)
+[Other languages (22)](#file-language-dropdown-381)
 
 български (BG) (164.16 KB - PDF)
 
-**First published:**
-
-28/11/2024
+**First published:** 28/11/2024
 
 [View](/bg/documents/overview/pomalidomide-teva-epar-medicine-overview_bg.pdf)
 
 español (ES) (142.21 KB - PDF)
 
-**First published:**
-
-28/11/2024
+**First published:** 28/11/2024
 
 [View](/es/documents/overview/pomalidomide-teva-epar-medicine-overview_es.pdf)
 
 čeština (CS) (161.75 KB - PDF)
 
-**First published:**
-
-28/11/2024
+**First published:** 28/11/2024
 
 [View](/cs/documents/overview/pomalidomide-teva-epar-medicine-overview_cs.pdf)
 
 dansk (DA) (142.06 KB - PDF)
 
-**First published:**
-
-28/11/2024
+**First published:** 28/11/2024
 
 [View](/da/documents/overview/pomalidomide-teva-epar-medicine-overview_da.pdf)
 
 Deutsch (DE) (146.39 KB - PDF)
 
-**First published:**
-
-28/11/2024
+**First published:** 28/11/2024
 
 [View](/de/documents/overview/pomalidomide-teva-epar-medicine-overview_de.pdf)
 
 eesti keel (ET) (140.03 KB - PDF)
 
-**First published:**
-
-28/11/2024
+**First published:** 28/11/2024
 
 [View](/et/documents/overview/pomalidomide-teva-epar-medicine-overview_et.pdf)
 
 ελληνικά (EL) (165.73 KB - PDF)
 
-**First published:**
-
-28/11/2024
+**First published:** 28/11/2024
 
 [View](/el/documents/overview/pomalidomide-teva-epar-medicine-overview_el.pdf)
 
 français (FR) (144.48 KB - PDF)
 
-**First published:**
-
-28/11/2024
+**First published:** 28/11/2024
 
 [View](/fr/documents/overview/pomalidomide-teva-epar-medicine-overview_fr.pdf)
 
 hrvatski (HR) (160.38 KB - PDF)
 
-**First published:**
-
-28/11/2024
+**First published:** 28/11/2024
 
 [View](/hr/documents/overview/pomalidomide-teva-epar-medicine-overview_hr.pdf)
 
 italiano (IT) (141.1 KB - PDF)
 
-**First published:**
-
-28/11/2024
+**First published:** 28/11/2024
 
 [View](/it/documents/overview/pomalidomide-teva-epar-medicine-overview_it.pdf)
 
 latviešu valoda (LV) (178.64 KB - PDF)
 
-**First published:**
-
-28/11/2024
+**First published:** 28/11/2024
 
 [View](/lv/documents/overview/pomalidomide-teva-epar-medicine-overview_lv.pdf)
 
 lietuvių kalba (LT) (161.98 KB - PDF)
 
-**First published:**
-
-28/11/2024
+**First published:** 28/11/2024
 
 [View](/lt/documents/overview/pomalidomide-teva-epar-medicine-overview_lt.pdf)
 
 magyar (HU) (165.48 KB - PDF)
 
-**First published:**
-
-28/11/2024
+**First published:** 28/11/2024
 
 [View](/hu/documents/overview/pomalidomide-teva-epar-medicine-overview_hu.pdf)
 
 Malti (MT) (165.22 KB - PDF)
 
-**First published:**
-
-28/11/2024
+**First published:** 28/11/2024
 
 [View](/mt/documents/overview/pomalidomide-teva-epar-medicine-overview_mt.pdf)
 
 Nederlands (NL) (143.69 KB - PDF)
 
-**First published:**
-
-28/11/2024
+**First published:** 28/11/2024
 
 [View](/nl/documents/overview/pomalidomide-teva-epar-medicine-overview_nl.pdf)
 
 polski (PL) (168.36 KB - PDF)
 
-**First published:**
-
-28/11/2024
+**First published:** 28/11/2024
 
 [View](/pl/documents/overview/pomalidomide-teva-epar-medicine-overview_pl.pdf)
 
 português (PT) (142.82 KB - PDF)
 
-**First published:**
-
-28/11/2024
+**First published:** 28/11/2024
 
 [View](/pt/documents/overview/pomalidomide-teva-epar-medicine-overview_pt.pdf)
 
 română (RO) (159.72 KB - PDF)
 
-**First published:**
-
-28/11/2024
+**First published:** 28/11/2024
 
 [View](/ro/documents/overview/pomalidomide-teva-epar-medicine-overview_ro.pdf)
 
 slovenčina (SK) (162.38 KB - PDF)
 
-**First published:**
-
-28/11/2024
+**First published:** 28/11/2024
 
 [View](/sk/documents/overview/pomalidomide-teva-epar-medicine-overview_sk.pdf)
 
 slovenščina (SL) (160.21 KB - PDF)
 
-**First published:**
-
-28/11/2024
+**First published:** 28/11/2024
 
 [View](/sl/documents/overview/pomalidomide-teva-epar-medicine-overview_sl.pdf)
 
 Suomi (FI) (140.69 KB - PDF)
 
-**First published:**
-
-28/11/2024
+**First published:** 28/11/2024
 
 [View](/fi/documents/overview/pomalidomide-teva-epar-medicine-overview_fi.pdf)
 
 svenska (SV) (141.31 KB - PDF)
 
-**First published:**
-
-28/11/2024
+**First published:** 28/11/2024
 
 [View](/sv/documents/overview/pomalidomide-teva-epar-medicine-overview_sv.pdf)
 
 Pomalidomide Teva : EPAR - Risk management plan
 
-English (EN) (939.15 KB - PDF)
+English (EN) (1.04 MB - PDF)
 
-**First published:** 28/11/2024
+**First published:** 28/11/2024 **Last updated:** 28/05/2026
 
 [View](/en/documents/rmp/pomalidomide-teva-epar-risk-management-plan_en.pdf)
 
@@ -294,303 +252,159 @@ Pomalidomide Teva : EPAR - Product information
 
 English (EN) (741.72 KB - PDF)
 
-**First published:** 28/11/2024
-
-**Last updated:** 28/01/2026
+**First published:** 28/11/2024 **Last updated:** 28/01/2026
 
 [View](/en/documents/product-information/pomalidomide-teva-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-454)
+[Other languages (24)](#file-language-dropdown-18)
 
 български (BG) (1.02 MB - PDF)
 
-**First published:**
-
-28/11/2024
-
-**Last updated:**
-
-28/01/2026
+**First published:** 28/11/2024 **Last updated:** 28/01/2026
 
 [View](/bg/documents/product-information/pomalidomide-teva-epar-product-information_bg.pdf)
 
 español (ES) (1.12 MB - PDF)
 
-**First published:**
-
-28/11/2024
-
-**Last updated:**
-
-28/01/2026
+**First published:** 28/11/2024 **Last updated:** 28/01/2026
 
 [View](/es/documents/product-information/pomalidomide-teva-epar-product-information_es.pdf)
 
 čeština (CS) (1.24 MB - PDF)
 
-**First published:**
-
-28/11/2024
-
-**Last updated:**
-
-28/01/2026
+**First published:** 28/11/2024 **Last updated:** 28/01/2026
 
 [View](/cs/documents/product-information/pomalidomide-teva-epar-product-information_cs.pdf)
 
 dansk (DA) (1.01 MB - PDF)
 
-**First published:**
-
-28/11/2024
-
-**Last updated:**
-
-28/01/2026
+**First published:** 28/11/2024 **Last updated:** 28/01/2026
 
 [View](/da/documents/product-information/pomalidomide-teva-epar-product-information_da.pdf)
 
 Deutsch (DE) (878.71 KB - PDF)
 
-**First published:**
-
-28/11/2024
-
-**Last updated:**
-
-28/01/2026
+**First published:** 28/11/2024 **Last updated:** 28/01/2026
 
 [View](/de/documents/product-information/pomalidomide-teva-epar-product-information_de.pdf)
 
 eesti keel (ET) (843.55 KB - PDF)
 
-**First published:**
-
-28/11/2024
-
-**Last updated:**
-
-28/01/2026
+**First published:** 28/11/2024 **Last updated:** 28/01/2026
 
 [View](/et/documents/product-information/pomalidomide-teva-epar-product-information_et.pdf)
 
 ελληνικά (EL) (1.02 MB - PDF)
 
-**First published:**
-
-28/11/2024
-
-**Last updated:**
-
-28/01/2026
+**First published:** 28/11/2024 **Last updated:** 28/01/2026
 
 [View](/el/documents/product-information/pomalidomide-teva-epar-product-information_el.pdf)
 
 français (FR) (859.72 KB - PDF)
 
-**First published:**
-
-28/11/2024
-
-**Last updated:**
-
-28/01/2026
+**First published:** 28/11/2024 **Last updated:** 28/01/2026
 
 [View](/fr/documents/product-information/pomalidomide-teva-epar-product-information_fr.pdf)
 
 hrvatski (HR) (940.66 KB - PDF)
 
-**First published:**
-
-28/11/2024
-
-**Last updated:**
-
-28/01/2026
+**First published:** 28/11/2024 **Last updated:** 28/01/2026
 
 [View](/hr/documents/product-information/pomalidomide-teva-epar-product-information_hr.pdf)
 
 íslenska (IS) (1.04 MB - PDF)
 
-**First published:**
-
-28/11/2024
-
-**Last updated:**
-
-28/01/2026
+**First published:** 28/11/2024 **Last updated:** 28/01/2026
 
 [View](/is/documents/product-information/pomalidomide-teva-epar-product-information_is.pdf)
 
 italiano (IT) (1.08 MB - PDF)
 
-**First published:**
-
-28/11/2024
-
-**Last updated:**
-
-28/01/2026
+**First published:** 28/11/2024 **Last updated:** 28/01/2026
 
 [View](/it/documents/product-information/pomalidomide-teva-epar-product-information_it.pdf)
 
 latviešu valoda (LV) (1.15 MB - PDF)
 
-**First published:**
-
-28/11/2024
-
-**Last updated:**
-
-28/01/2026
+**First published:** 28/11/2024 **Last updated:** 28/01/2026
 
 [View](/lv/documents/product-information/pomalidomide-teva-epar-product-information_lv.pdf)
 
 lietuvių kalba (LT) (1009.09 KB - PDF)
 
-**First published:**
-
-28/11/2024
-
-**Last updated:**
-
-28/01/2026
+**First published:** 28/11/2024 **Last updated:** 28/01/2026
 
 [View](/lt/documents/product-information/pomalidomide-teva-epar-product-information_lt.pdf)
 
 magyar (HU) (1.15 MB - PDF)
 
-**First published:**
-
-28/11/2024
-
-**Last updated:**
-
-28/01/2026
+**First published:** 28/11/2024 **Last updated:** 28/01/2026
 
 [View](/hu/documents/product-information/pomalidomide-teva-epar-product-information_hu.pdf)
 
 Malti (MT) (1.2 MB - PDF)
 
-**First published:**
-
-28/11/2024
-
-**Last updated:**
-
-28/01/2026
+**First published:** 28/11/2024 **Last updated:** 28/01/2026
 
 [View](/mt/documents/product-information/pomalidomide-teva-epar-product-information_mt.pdf)
 
 Nederlands (NL) (679.3 KB - PDF)
 
-**First published:**
-
-28/11/2024
-
-**Last updated:**
-
-28/01/2026
+**First published:** 28/11/2024 **Last updated:** 28/01/2026
 
 [View](/nl/documents/product-information/pomalidomide-teva-epar-product-information_nl.pdf)
 
 norsk (NO) (1.09 MB - PDF)
 
-**First published:**
-
-28/11/2024
-
-**Last updated:**
-
-28/01/2026
+**First published:** 28/11/2024 **Last updated:** 28/01/2026
 
 [View](/no/documents/product-information/pomalidomide-teva-epar-product-information_no.pdf)
 
 polski (PL) (900.9 KB - PDF)
 
-**First published:**
-
-28/11/2024
-
-**Last updated:**
-
-28/01/2026
+**First published:** 28/11/2024 **Last updated:** 28/01/2026
 
 [View](/pl/documents/product-information/pomalidomide-teva-epar-product-information_pl.pdf)
 
 português (PT) (1.12 MB - PDF)
 
-**First published:**
-
-28/11/2024
-
-**Last updated:**
-
-28/01/2026
+**First published:** 28/11/2024 **Last updated:** 28/01/2026
 
 [View](/pt/documents/product-information/pomalidomide-teva-epar-product-information_pt.pdf)
 
 română (RO) (1.03 MB - PDF)
 
-**First published:**
-
-28/11/2024
-
-**Last updated:**
-
-28/01/2026
+**First published:** 28/11/2024 **Last updated:** 28/01/2026
 
 [View](/ro/documents/product-information/pomalidomide-teva-epar-product-information_ro.pdf)
 
 slovenčina (SK) (1.24 MB - PDF)
 
-**First published:**
-
-28/11/2024
-
-**Last updated:**
-
-28/01/2026
+**First published:** 28/11/2024 **Last updated:** 28/01/2026
 
 [View](/sk/documents/product-information/pomalidomide-teva-epar-product-information_sk.pdf)
 
 slovenščina (SL) (915.23 KB - PDF)
 
-**First published:**
-
-28/11/2024
-
-**Last updated:**
-
-28/01/2026
+**First published:** 28/11/2024 **Last updated:** 28/01/2026
 
 [View](/sl/documents/product-information/pomalidomide-teva-epar-product-information_sl.pdf)
 
 Suomi (FI) (707.32 KB - PDF)
 
-**First published:**
-
-28/11/2024
-
-**Last updated:**
-
-28/01/2026
+**First published:** 28/11/2024 **Last updated:** 28/01/2026
 
 [View](/fi/documents/product-information/pomalidomide-teva-epar-product-information_fi.pdf)
 
 svenska (SV) (1.1 MB - PDF)
 
-**First published:**
-
-28/11/2024
-
-**Last updated:**
-
-28/01/2026
+**First published:** 28/11/2024 **Last updated:** 28/01/2026
 
 [View](/sv/documents/product-information/pomalidomide-teva-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000322664 28/01/2026
+**Latest procedure affecting product information:** VR/0000322664
+
+28/01/2026
 
 icon globe
 
@@ -614,197 +428,149 @@ English (EN) (49.51 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/pomalidomide-teva-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-310)
+[Other languages (24)](#file-language-dropdown-660)
 
 български (BG) (91.25 KB - PDF)
 
-**First published:**
-
-28/11/2024
+**First published:** 28/11/2024
 
 [View](/bg/documents/all-authorised-presentations/pomalidomide-teva-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (66 KB - PDF)
 
-**First published:**
-
-28/11/2024
+**First published:** 28/11/2024
 
 [View](/es/documents/all-authorised-presentations/pomalidomide-teva-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (64.79 KB - PDF)
 
-**First published:**
-
-28/11/2024
+**First published:** 28/11/2024
 
 [View](/cs/documents/all-authorised-presentations/pomalidomide-teva-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (53.66 KB - PDF)
 
-**First published:**
-
-28/11/2024
+**First published:** 28/11/2024
 
 [View](/da/documents/all-authorised-presentations/pomalidomide-teva-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (53.66 KB - PDF)
 
-**First published:**
-
-28/11/2024
+**First published:** 28/11/2024
 
 [View](/de/documents/all-authorised-presentations/pomalidomide-teva-epar-all-authorised-presentations_de.pdf)
 
 eesti keel (ET) (56.85 KB - PDF)
 
-**First published:**
-
-28/11/2024
+**First published:** 28/11/2024
 
 [View](/et/documents/all-authorised-presentations/pomalidomide-teva-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (90.36 KB - PDF)
 
-**First published:**
-
-28/11/2024
+**First published:** 28/11/2024
 
 [View](/el/documents/all-authorised-presentations/pomalidomide-teva-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (61.15 KB - PDF)
 
-**First published:**
-
-28/11/2024
+**First published:** 28/11/2024
 
 [View](/fr/documents/all-authorised-presentations/pomalidomide-teva-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (74.49 KB - PDF)
 
-**First published:**
-
-28/11/2024
+**First published:** 28/11/2024
 
 [View](/hr/documents/all-authorised-presentations/pomalidomide-teva-epar-all-authorised-presentations_hr.pdf)
 
 íslenska (IS) (57.11 KB - PDF)
 
-**First published:**
-
-28/11/2024
+**First published:** 28/11/2024
 
 [View](/is/documents/all-authorised-presentations/pomalidomide-teva-epar-all-authorised-presentations_is.pdf)
 
 italiano (IT) (53.17 KB - PDF)
 
-**First published:**
-
-28/11/2024
+**First published:** 28/11/2024
 
 [View](/it/documents/all-authorised-presentations/pomalidomide-teva-epar-all-authorised-presentations_it.pdf)
 
 latviešu valoda (LV) (82.3 KB - PDF)
 
-**First published:**
-
-28/11/2024
+**First published:** 28/11/2024
 
 [View](/lv/documents/all-authorised-presentations/pomalidomide-teva-epar-all-authorised-presentations_lv.pdf)
 
 lietuvių kalba (LT) (90.82 KB - PDF)
 
-**First published:**
-
-28/11/2024
+**First published:** 28/11/2024
 
 [View](/lt/documents/all-authorised-presentations/pomalidomide-teva-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (81 KB - PDF)
 
-**First published:**
-
-28/11/2024
+**First published:** 28/11/2024
 
 [View](/hu/documents/all-authorised-presentations/pomalidomide-teva-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (75.54 KB - PDF)
 
-**First published:**
-
-28/11/2024
+**First published:** 28/11/2024
 
 [View](/mt/documents/all-authorised-presentations/pomalidomide-teva-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (50.83 KB - PDF)
 
-**First published:**
-
-28/11/2024
+**First published:** 28/11/2024
 
 [View](/nl/documents/all-authorised-presentations/pomalidomide-teva-epar-all-authorised-presentations_nl.pdf)
 
 norsk (NO) (52.34 KB - PDF)
 
-**First published:**
-
-28/11/2024
+**First published:** 28/11/2024
 
 [View](/no/documents/all-authorised-presentations/pomalidomide-teva-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (75.18 KB - PDF)
 
-**First published:**
-
-28/11/2024
+**First published:** 28/11/2024
 
 [View](/pl/documents/all-authorised-presentations/pomalidomide-teva-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (38.31 KB - PDF)
 
-**First published:**
-
-28/11/2024
+**First published:** 28/11/2024
 
 [View](/pt/documents/all-authorised-presentations/pomalidomide-teva-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (86.74 KB - PDF)
 
-**First published:**
-
-28/11/2024
+**First published:** 28/11/2024
 
 [View](/ro/documents/all-authorised-presentations/pomalidomide-teva-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (64.25 KB - PDF)
 
-**First published:**
-
-28/11/2024
+**First published:** 28/11/2024
 
 [View](/sk/documents/all-authorised-presentations/pomalidomide-teva-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (61.56 KB - PDF)
 
-**First published:**
-
-28/11/2024
+**First published:** 28/11/2024
 
 [View](/sl/documents/all-authorised-presentations/pomalidomide-teva-epar-all-authorised-presentations_sl.pdf)
 
 Suomi (FI) (53.37 KB - PDF)
 
-**First published:**
-
-28/11/2024
+**First published:** 28/11/2024
 
 [View](/fi/documents/all-authorised-presentations/pomalidomide-teva-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (50.08 KB - PDF)
 
-**First published:**
-
-28/11/2024
+**First published:** 28/11/2024
 
 [View](/sv/documents/all-authorised-presentations/pomalidomide-teva-epar-all-authorised-presentations_sv.pdf)
 
@@ -816,211 +582,179 @@ English (EN) (63.19 KB - PDF)
 
 [View](/en/documents/conditions-member-states/pomalidomide-teva-epar-conditions-imposed-member-states-safe-effective-use-annex-related-art-127a_en.pdf)
 
-[Other languages (25)](#file-language-dropdown-504)
+[Other languages (25)](#file-language-dropdown-961)
 
 български (BG) (98.58 KB - PDF)
 
-**First published:**
-
-28/11/2024
+**First published:** 28/11/2024
 
 [View](/bg/documents/conditions-member-states/pomalidomide-teva-epar-conditions-imposed-member-states-safe-effective-use-annex-related-art-127a_bg.pdf)
 
 español (ES) (48.48 KB - PDF)
 
-**First published:**
-
-28/11/2024
+**First published:** 28/11/2024
 
 [View](/es/documents/conditions-member-states/pomalidomide-teva-epar-conditions-imposed-member-states-safe-effective-use-annex-related-art-127a_es.pdf)
 
 čeština (CS) (88.32 KB - PDF)
 
-**First published:**
-
-28/11/2024
+**First published:** 28/11/2024
 
 [View](/cs/documents/conditions-member-states/pomalidomide-teva-epar-conditions-imposed-member-states-safe-effective-use-annex-related-art-127a_cs.pdf)
 
 dansk (DA) (54.14 KB - PDF)
 
-**First published:**
-
-28/11/2024
+**First published:** 28/11/2024
 
 [View](/da/documents/conditions-member-states/pomalidomide-teva-epar-conditions-imposed-member-states-safe-effective-use-annex-related-art-127a_da.pdf)
 
 Deutsch (DE) (57.79 KB - PDF)
 
-**First published:**
-
-28/11/2024
+**First published:** 28/11/2024
 
 [View](/de/documents/conditions-member-states/pomalidomide-teva-epar-conditions-imposed-member-states-safe-effective-use-annex-related-art-127a_de.pdf)
 
 eesti keel (ET) (47.8 KB - PDF)
 
-**First published:**
-
-28/11/2024
+**First published:** 28/11/2024
 
 [View](/et/documents/conditions-member-states/pomalidomide-teva-epar-conditions-imposed-member-states-safe-effective-use-annex-related-art-127a_et.pdf)
 
 ελληνικά (EL) (101.29 KB - PDF)
 
-**First published:**
-
-28/11/2024
+**First published:** 28/11/2024
 
 [View](/el/documents/conditions-member-states/pomalidomide-teva-epar-conditions-imposed-member-states-safe-effective-use-annex-related-art-127a_el.pdf)
 
 français (FR) (48.98 KB - PDF)
 
-**First published:**
-
-28/11/2024
+**First published:** 28/11/2024
 
 [View](/fr/documents/conditions-member-states/pomalidomide-teva-epar-conditions-imposed-member-states-safe-effective-use-annex-related-art-127a_fr.pdf)
 
 hrvatski (HR) (76.22 KB - PDF)
 
-**First published:**
-
-28/11/2024
+**First published:** 28/11/2024
 
 [View](/hr/documents/conditions-member-states/pomalidomide-teva-epar-conditions-imposed-member-states-safe-effective-use-annex-related-art-127a_hr.pdf)
 
 íslenska (IS) (50.38 KB - PDF)
 
-**First published:**
-
-28/11/2024
+**First published:** 28/11/2024
 
 [View](/is/documents/conditions-member-states/pomalidomide-teva-epar-conditions-imposed-member-states-safe-effective-use-annex-related-art-127a_is.pdf)
 
 Gaeilge (GA) (206.82 KB - PDF)
 
-**First published:**
-
-28/11/2024
+**First published:** 28/11/2024
 
 [View](/ga/documents/conditions-member-states/pomalidomide-teva-epar-conditions-imposed-member-states-safe-effective-use-annex-related-art-127a_ga.pdf)
 
 italiano (IT) (56.69 KB - PDF)
 
-**First published:**
-
-28/11/2024
+**First published:** 28/11/2024
 
 [View](/it/documents/conditions-member-states/pomalidomide-teva-epar-conditions-imposed-member-states-safe-effective-use-annex-related-art-127a_it.pdf)
 
 latviešu valoda (LV) (91.04 KB - PDF)
 
-**First published:**
-
-28/11/2024
+**First published:** 28/11/2024
 
 [View](/lv/documents/conditions-member-states/pomalidomide-teva-epar-conditions-imposed-member-states-safe-effective-use-annex-related-art-127a_lv.pdf)
 
 lietuvių kalba (LT) (87.25 KB - PDF)
 
-**First published:**
-
-28/11/2024
+**First published:** 28/11/2024
 
 [View](/lt/documents/conditions-member-states/pomalidomide-teva-epar-conditions-imposed-member-states-safe-effective-use-annex-related-art-127a_lt.pdf)
 
 magyar (HU) (78.09 KB - PDF)
 
-**First published:**
-
-28/11/2024
+**First published:** 28/11/2024
 
 [View](/hu/documents/conditions-member-states/pomalidomide-teva-epar-conditions-imposed-member-states-safe-effective-use-annex-related-art-127a_hu.pdf)
 
 Malti (MT) (98.72 KB - PDF)
 
-**First published:**
-
-28/11/2024
+**First published:** 28/11/2024
 
 [View](/mt/documents/conditions-member-states/pomalidomide-teva-epar-conditions-imposed-member-states-safe-effective-use-annex-related-art-127a_mt.pdf)
 
 Nederlands (NL) (44.46 KB - PDF)
 
-**First published:**
-
-28/11/2024
+**First published:** 28/11/2024
 
 [View](/nl/documents/conditions-member-states/pomalidomide-teva-epar-conditions-imposed-member-states-safe-effective-use-annex-related-art-127a_nl.pdf)
 
 norsk (NO) (130.6 KB - PDF)
 
-**First published:**
-
-28/11/2024
+**First published:** 28/11/2024
 
 [View](/no/documents/conditions-member-states/pomalidomide-teva-epar-conditions-imposed-member-states-safe-effective-use-annex-related-art-127a_no.pdf)
 
 polski (PL) (85.54 KB - PDF)
 
-**First published:**
-
-28/11/2024
+**First published:** 28/11/2024
 
 [View](/pl/documents/conditions-member-states/pomalidomide-teva-epar-conditions-imposed-member-states-safe-effective-use-annex-related-art-127a_pl.pdf)
 
 português (PT) (47.87 KB - PDF)
 
-**First published:**
-
-28/11/2024
+**First published:** 28/11/2024
 
 [View](/pt/documents/conditions-member-states/pomalidomide-teva-epar-conditions-imposed-member-states-safe-effective-use-annex-related-art-127a_pt.pdf)
 
 română (RO) (85.48 KB - PDF)
 
-**First published:**
-
-28/11/2024
+**First published:** 28/11/2024
 
 [View](/ro/documents/conditions-member-states/pomalidomide-teva-epar-conditions-imposed-member-states-safe-effective-use-annex-related-art-127a_ro.pdf)
 
 slovenčina (SK) (91.86 KB - PDF)
 
-**First published:**
-
-28/11/2024
+**First published:** 28/11/2024
 
 [View](/sk/documents/conditions-member-states/pomalidomide-teva-epar-conditions-imposed-member-states-safe-effective-use-annex-related-art-127a_sk.pdf)
 
 slovenščina (SL) (72.67 KB - PDF)
 
-**First published:**
-
-28/11/2024
+**First published:** 28/11/2024
 
 [View](/sl/documents/conditions-member-states/pomalidomide-teva-epar-conditions-imposed-member-states-safe-effective-use-annex-related-art-127a_sl.pdf)
 
 Suomi (FI) (54.86 KB - PDF)
 
-**First published:**
-
-28/11/2024
+**First published:** 28/11/2024
 
 [View](/fi/documents/conditions-member-states/pomalidomide-teva-epar-conditions-imposed-member-states-safe-effective-use-annex-related-art-127a_fi.pdf)
 
 svenska (SV) (45.19 KB - PDF)
 
-**First published:**
-
-28/11/2024
+**First published:** 28/11/2024
 
 [View](/sv/documents/conditions-member-states/pomalidomide-teva-epar-conditions-imposed-member-states-safe-effective-use-annex-related-art-127a_sv.pdf)
 
 ## Product details
 
-Name of medicine Pomalidomide Teva Active substance Pomalidomide International non-proprietary name (INN) or common name pomalidomide Therapeutic area (MeSH) Multiple Myeloma Anatomical therapeutic chemical (ATC) code L04AX06
+Name of medicine
+
+Pomalidomide Teva
+
+Active substance
+
+Pomalidomide
+
+International non-proprietary name (INN) or common name
+
+pomalidomide
+
+Therapeutic area (MeSH)
+
+Multiple Myeloma
+
+Anatomical therapeutic chemical (ATC) code
+
+L04AX06
 
 ### Pharmacotherapeutic group
 
@@ -1034,7 +768,9 @@ Pomalidomide Teva in combination with dexamethasone is indicated in the treatmen
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/006302
+EMA product number
+
+EMEA/H/C/006302
 
 Additional monitoring
 
@@ -1050,7 +786,17 @@ Teva GmbH
 
 Graf-Arco-Straße 3
 
-Opinion adopted 19/09/2024 Marketing authorisation issued 14/11/2024 Revision 1
+Opinion adopted
+
+19/09/2024
+
+Marketing authorisation issued
+
+14/11/2024
+
+Revision
+
+2
 
 ## Assessment history
 
@@ -1062,9 +808,9 @@ Collapse section
 
 Pomalidomide Teva : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (134.23 KB - PDF)
+English (EN) (145.57 KB - PDF)
 
-**First published:** 28/01/2026
+**First published:** 28/01/2026 **Last updated:** 28/05/2026
 
 [View](/en/documents/procedural-steps-after/pomalidomide-teva-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1072,9 +818,7 @@ English (EN) (134.23 KB - PDF)
 
 Pomalidomide Teva : EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/518385/2024
+Adopted Reference Number: EMA/518385/2024
 
 English (EN) (1 MB - PDF)
 
@@ -1084,9 +828,7 @@ English (EN) (1 MB - PDF)
 
 CHMP summary of opinion for Pomalidomide Teva
 
-Adopted
-
-Reference Number: EMA/CHMP/377627/2024
+Adopted Reference Number: EMA/CHMP/377627/2024
 
 English (EN) (143.49 KB - PDF)
 
@@ -1094,11 +836,13 @@ English (EN) (143.49 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-opinion-pomalidomide-teva_en.pdf)
 
-#### News on Pomalidomide Teva
+## News on Pomalidomide Teva
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 16-19 September 2024](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-16-19-september-2024) 20/09/2024
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 16-19 September 2024](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-16-19-september-2024)
 
-#### Related content
+20/09/2024
+
+## Related content
 
 Questions and answers on generic medicines
 
@@ -1106,280 +850,146 @@ Reference Number: EMA/393905/2006 Rev. 2
 
 English (EN) (66.45 KB - PDF)
 
-**First published:** 09/07/2007
-
-**Last updated:** 07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-470)
+[Other languages (22)](#file-language-dropdown-388)
 
 български (BG) (93.16 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/bg/documents/other/questions-and-answers-generic-medicines_bg.pdf)
 
 español (ES) (68.3 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/es/documents/other/questions-and-answers-generic-medicines_es.pdf)
 
 čeština (CS) (87.71 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/cs/documents/other/questions-and-answers-generic-medicines_cs.pdf)
 
 dansk (DA) (66.79 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/da/documents/other/questions-and-answers-generic-medicines_da.pdf)
 
 Deutsch (DE) (67.55 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/de/documents/other/questions-and-answers-generic-medicines_de.pdf)
 
 eesti keel (ET) (65.21 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/et/documents/other/questions-and-answers-generic-medicines_et.pdf)
 
 ελληνικά (EL) (91.29 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/el/documents/other/questions-and-answers-generic-medicines_el.pdf)
 
 français (FR) (68.35 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/fr/documents/other/questions-and-answers-generic-medicines_fr.pdf)
 
 hrvatski (HR) (87.8 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/hr/documents/other/questions-and-answers-generic-medicines_hr.pdf)
 
 italiano (IT) (67.62 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/it/documents/other/questions-and-answers-generic-medicines_it.pdf)
 
 latviešu valoda (LV) (111.81 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/lv/documents/other/questions-and-answers-generic-medicines_lv.pdf)
 
 lietuvių kalba (LT) (86.76 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/lt/documents/other/questions-and-answers-generic-medicines_lt.pdf)
 
 magyar (HU) (85.76 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/hu/documents/other/questions-and-answers-generic-medicines_hu.pdf)
 
 Malti (MT) (89.35 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/mt/documents/other/questions-and-answers-generic-medicines_mt.pdf)
 
 Nederlands (NL) (66.81 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/nl/documents/other/questions-and-answers-generic-medicines_nl.pdf)
 
 polski (PL) (88.51 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/pl/documents/other/questions-and-answers-generic-medicines_pl.pdf)
 
 português (PT) (68.32 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/pt/documents/other/questions-and-answers-generic-medicines_pt.pdf)
 
 română (RO) (86.9 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/ro/documents/other/questions-and-answers-generic-medicines_ro.pdf)
 
 slovenčina (SK) (87.73 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/sk/documents/other/questions-and-answers-generic-medicines_sk.pdf)
 
 slovenščina (SL) (84.8 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/sl/documents/other/questions-and-answers-generic-medicines_sl.pdf)
 
 Suomi (FI) (66.21 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/fi/documents/other/questions-and-answers-generic-medicines_fi.pdf)
 
 svenska (SV) (67.11 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/sv/documents/other/questions-and-answers-generic-medicines_sv.pdf)
 
-**This page was last updated on** 28/01/2026
+**This page was last updated on**
+
+28/05/2026
 
 ## Share this page
-
-[Back to top](#main-content)

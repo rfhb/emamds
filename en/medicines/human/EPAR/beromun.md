@@ -1,32 +1,32 @@
 ---
-document_datetime: 2025-12-29 07:07:19
+document_datetime: 2026-05-28 13:46:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/beromun.html
 document_name: beromun.html
 version: success
-processing_time: 0.1088193
-conversion_datetime: 2025-12-31 01:41:52.73407
+processing_time: 0.1214507
+conversion_datetime: 2026-06-01 17:00:18.269529
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.20.0
+  docling-jobkit: 1.20.1
+  docling: 2.96.1
+  docling-core: 2.78.0
+  docling-ibm-models: 3.13.2
+  docling-parse: 6.2.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
 ---
 # Beromun
 
 [RSS](/en/individual-human-medicine.xml/66344)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-tasonermin Medicine Human Authorised
+tasonermin
 
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
+Medicine Human Authorised
 
 Page contents
 
@@ -103,263 +103,135 @@ Beromun : EPAR - Summary for the public
 
 English (EN) (87.52 KB - PDF)
 
-**First published:** 08/04/2009
-
-**Last updated:** 08/04/2009
+**First published:** 08/04/2009 **Last updated:** 08/04/2009
 
 [View](/en/documents/overview/beromun-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-540)
+[Other languages (21)](#file-language-dropdown-889)
 
 български (BG) (177.59 KB - PDF)
 
-**First published:**
-
-08/04/2009
-
-**Last updated:**
-
-08/04/2009
+**First published:** 08/04/2009 **Last updated:** 08/04/2009
 
 [View](/bg/documents/overview/beromun-epar-summary-public_bg.pdf)
 
 español (ES) (88.19 KB - PDF)
 
-**First published:**
-
-08/04/2009
-
-**Last updated:**
-
-08/04/2009
+**First published:** 08/04/2009 **Last updated:** 08/04/2009
 
 [View](/es/documents/overview/beromun-epar-summary-public_es.pdf)
 
 čeština (CS) (164.11 KB - PDF)
 
-**First published:**
-
-08/04/2009
-
-**Last updated:**
-
-08/04/2009
+**First published:** 08/04/2009 **Last updated:** 08/04/2009
 
 [View](/cs/documents/overview/beromun-epar-summary-public_cs.pdf)
 
 dansk (DA) (88.47 KB - PDF)
 
-**First published:**
-
-08/04/2009
-
-**Last updated:**
-
-08/04/2009
+**First published:** 08/04/2009 **Last updated:** 08/04/2009
 
 [View](/da/documents/overview/beromun-epar-summary-public_da.pdf)
 
 Deutsch (DE) (92.67 KB - PDF)
 
-**First published:**
-
-08/04/2009
-
-**Last updated:**
-
-08/04/2009
+**First published:** 08/04/2009 **Last updated:** 08/04/2009
 
 [View](/de/documents/overview/beromun-epar-summary-public_de.pdf)
 
 eesti keel (ET) (85.76 KB - PDF)
 
-**First published:**
-
-08/04/2009
-
-**Last updated:**
-
-08/04/2009
+**First published:** 08/04/2009 **Last updated:** 08/04/2009
 
 [View](/et/documents/overview/beromun-epar-summary-public_et.pdf)
 
 ελληνικά (EL) (173.82 KB - PDF)
 
-**First published:**
-
-08/04/2009
-
-**Last updated:**
-
-08/04/2009
+**First published:** 08/04/2009 **Last updated:** 08/04/2009
 
 [View](/el/documents/overview/beromun-epar-summary-public_el.pdf)
 
 français (FR) (89.47 KB - PDF)
 
-**First published:**
-
-08/04/2009
-
-**Last updated:**
-
-08/04/2009
+**First published:** 08/04/2009 **Last updated:** 08/04/2009
 
 [View](/fr/documents/overview/beromun-epar-summary-public_fr.pdf)
 
 italiano (IT) (86.52 KB - PDF)
 
-**First published:**
-
-08/04/2009
-
-**Last updated:**
-
-08/04/2009
+**First published:** 08/04/2009 **Last updated:** 08/04/2009
 
 [View](/it/documents/overview/beromun-epar-summary-public_it.pdf)
 
 latviešu valoda (LV) (167.01 KB - PDF)
 
-**First published:**
-
-08/04/2009
-
-**Last updated:**
-
-08/04/2009
+**First published:** 08/04/2009 **Last updated:** 08/04/2009
 
 [View](/lv/documents/overview/beromun-epar-summary-public_lv.pdf)
 
 lietuvių kalba (LT) (158.99 KB - PDF)
 
-**First published:**
-
-08/04/2009
-
-**Last updated:**
-
-08/04/2009
+**First published:** 08/04/2009 **Last updated:** 08/04/2009
 
 [View](/lt/documents/overview/beromun-epar-summary-public_lt.pdf)
 
 magyar (HU) (156.27 KB - PDF)
 
-**First published:**
-
-08/04/2009
-
-**Last updated:**
-
-08/04/2009
+**First published:** 08/04/2009 **Last updated:** 08/04/2009
 
 [View](/hu/documents/overview/beromun-epar-summary-public_hu.pdf)
 
 Malti (MT) (166.67 KB - PDF)
 
-**First published:**
-
-08/04/2009
-
-**Last updated:**
-
-08/04/2009
+**First published:** 08/04/2009 **Last updated:** 08/04/2009
 
 [View](/mt/documents/overview/beromun-epar-summary-public_mt.pdf)
 
 Nederlands (NL) (90.05 KB - PDF)
 
-**First published:**
-
-08/04/2009
-
-**Last updated:**
-
-08/04/2009
+**First published:** 08/04/2009 **Last updated:** 08/04/2009
 
 [View](/nl/documents/overview/beromun-epar-summary-public_nl.pdf)
 
 polski (PL) (171.24 KB - PDF)
 
-**First published:**
-
-08/04/2009
-
-**Last updated:**
-
-08/04/2009
+**First published:** 08/04/2009 **Last updated:** 08/04/2009
 
 [View](/pl/documents/overview/beromun-epar-summary-public_pl.pdf)
 
 português (PT) (88.58 KB - PDF)
 
-**First published:**
-
-08/04/2009
-
-**Last updated:**
-
-08/04/2009
+**First published:** 08/04/2009 **Last updated:** 08/04/2009
 
 [View](/pt/documents/overview/beromun-epar-summary-public_pt.pdf)
 
 română (RO) (154.18 KB - PDF)
 
-**First published:**
-
-08/04/2009
-
-**Last updated:**
-
-08/04/2009
+**First published:** 08/04/2009 **Last updated:** 08/04/2009
 
 [View](/ro/documents/overview/beromun-epar-summary-public_ro.pdf)
 
 slovenčina (SK) (160.57 KB - PDF)
 
-**First published:**
-
-08/04/2009
-
-**Last updated:**
-
-08/04/2009
+**First published:** 08/04/2009 **Last updated:** 08/04/2009
 
 [View](/sk/documents/overview/beromun-epar-summary-public_sk.pdf)
 
 slovenščina (SL) (151.28 KB - PDF)
 
-**First published:**
-
-08/04/2009
-
-**Last updated:**
-
-08/04/2009
+**First published:** 08/04/2009 **Last updated:** 08/04/2009
 
 [View](/sl/documents/overview/beromun-epar-summary-public_sl.pdf)
 
 Suomi (FI) (84.6 KB - PDF)
 
-**First published:**
-
-08/04/2009
-
-**Last updated:**
-
-08/04/2009
+**First published:** 08/04/2009 **Last updated:** 08/04/2009
 
 [View](/fi/documents/overview/beromun-epar-summary-public_fi.pdf)
 
 svenska (SV) (87.34 KB - PDF)
 
-**First published:**
-
-08/04/2009
-
-**Last updated:**
-
-08/04/2009
+**First published:** 08/04/2009 **Last updated:** 08/04/2009
 
 [View](/sv/documents/overview/beromun-epar-summary-public_sv.pdf)
 
@@ -367,305 +239,161 @@ svenska (SV) (87.34 KB - PDF)
 
 Beromun : EPAR - Product Information
 
-English (EN) (359.87 KB - PDF)
+English (EN) (356.37 KB - PDF)
 
-**First published:** 17/04/2009
-
-**Last updated:** 11/01/2022
+**First published:** 17/04/2009 **Last updated:** 28/05/2026
 
 [View](/en/documents/product-information/beromun-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-451)
+[Other languages (24)](#file-language-dropdown-851)
 
-български (BG) (396.19 KB - PDF)
+български (BG) (356.81 KB - PDF)
 
-**First published:**
-
-17/04/2009
-
-**Last updated:**
-
-11/01/2022
+**First published:** 17/04/2009 **Last updated:** 28/05/2026
 
 [View](/bg/documents/product-information/beromun-epar-product-information_bg.pdf)
 
-español (ES) (301.13 KB - PDF)
+español (ES) (322.42 KB - PDF)
 
-**First published:**
-
-17/04/2009
-
-**Last updated:**
-
-11/01/2022
+**First published:** 17/04/2009 **Last updated:** 28/05/2026
 
 [View](/es/documents/product-information/beromun-epar-product-information_es.pdf)
 
-čeština (CS) (379.07 KB - PDF)
+čeština (CS) (331.09 KB - PDF)
 
-**First published:**
-
-17/04/2009
-
-**Last updated:**
-
-11/01/2022
+**First published:** 17/04/2009 **Last updated:** 28/05/2026
 
 [View](/cs/documents/product-information/beromun-epar-product-information_cs.pdf)
 
-dansk (DA) (313.88 KB - PDF)
+dansk (DA) (301.07 KB - PDF)
 
-**First published:**
-
-17/04/2009
-
-**Last updated:**
-
-11/01/2022
+**First published:** 17/04/2009 **Last updated:** 28/05/2026
 
 [View](/da/documents/product-information/beromun-epar-product-information_da.pdf)
 
-Deutsch (DE) (312.58 KB - PDF)
+Deutsch (DE) (317.1 KB - PDF)
 
-**First published:**
-
-17/04/2009
-
-**Last updated:**
-
-11/01/2022
+**First published:** 17/04/2009 **Last updated:** 28/05/2026
 
 [View](/de/documents/product-information/beromun-epar-product-information_de.pdf)
 
-eesti keel (ET) (347.11 KB - PDF)
+eesti keel (ET) (308.31 KB - PDF)
 
-**First published:**
-
-17/04/2009
-
-**Last updated:**
-
-11/01/2022
+**First published:** 17/04/2009 **Last updated:** 28/05/2026
 
 [View](/et/documents/product-information/beromun-epar-product-information_et.pdf)
 
-ελληνικά (EL) (388.59 KB - PDF)
+ελληνικά (EL) (332.21 KB - PDF)
 
-**First published:**
-
-17/04/2009
-
-**Last updated:**
-
-11/01/2022
+**First published:** 17/04/2009 **Last updated:** 28/05/2026
 
 [View](/el/documents/product-information/beromun-epar-product-information_el.pdf)
 
-français (FR) (304.87 KB - PDF)
+français (FR) (317.97 KB - PDF)
 
-**First published:**
-
-17/04/2009
-
-**Last updated:**
-
-11/01/2022
+**First published:** 17/04/2009 **Last updated:** 28/05/2026
 
 [View](/fr/documents/product-information/beromun-epar-product-information_fr.pdf)
 
-hrvatski (HR) (468.67 KB - PDF)
+hrvatski (HR) (434.12 KB - PDF)
 
-**First published:**
-
-17/04/2009
-
-**Last updated:**
-
-11/01/2022
+**First published:** 17/04/2009 **Last updated:** 28/05/2026
 
 [View](/hr/documents/product-information/beromun-epar-product-information_hr.pdf)
 
-íslenska (IS) (314.34 KB - PDF)
+íslenska (IS) (305.58 KB - PDF)
 
-**First published:**
-
-17/04/2009
-
-**Last updated:**
-
-11/01/2022
+**First published:** 17/04/2009 **Last updated:** 28/05/2026
 
 [View](/is/documents/product-information/beromun-epar-product-information_is.pdf)
 
-italiano (IT) (324.1 KB - PDF)
+italiano (IT) (318.97 KB - PDF)
 
-**First published:**
-
-17/04/2009
-
-**Last updated:**
-
-11/01/2022
+**First published:** 17/04/2009 **Last updated:** 28/05/2026
 
 [View](/it/documents/product-information/beromun-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (430.75 KB - PDF)
+latviešu valoda (LV) (396.2 KB - PDF)
 
-**First published:**
-
-17/04/2009
-
-**Last updated:**
-
-11/01/2022
+**First published:** 17/04/2009 **Last updated:** 28/05/2026
 
 [View](/lv/documents/product-information/beromun-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (428.4 KB - PDF)
+lietuvių kalba (LT) (338.12 KB - PDF)
 
-**First published:**
-
-17/04/2009
-
-**Last updated:**
-
-11/01/2022
+**First published:** 17/04/2009 **Last updated:** 28/05/2026
 
 [View](/lt/documents/product-information/beromun-epar-product-information_lt.pdf)
 
-magyar (HU) (423.31 KB - PDF)
+magyar (HU) (326.63 KB - PDF)
 
-**First published:**
-
-17/04/2009
-
-**Last updated:**
-
-11/01/2022
+**First published:** 17/04/2009 **Last updated:** 28/05/2026
 
 [View](/hu/documents/product-information/beromun-epar-product-information_hu.pdf)
 
-Malti (MT) (437.52 KB - PDF)
+Malti (MT) (365.23 KB - PDF)
 
-**First published:**
-
-17/04/2009
-
-**Last updated:**
-
-11/01/2022
+**First published:** 17/04/2009 **Last updated:** 28/05/2026
 
 [View](/mt/documents/product-information/beromun-epar-product-information_mt.pdf)
 
-Nederlands (NL) (308.86 KB - PDF)
+Nederlands (NL) (303.19 KB - PDF)
 
-**First published:**
-
-17/04/2009
-
-**Last updated:**
-
-11/01/2022
+**First published:** 17/04/2009 **Last updated:** 28/05/2026
 
 [View](/nl/documents/product-information/beromun-epar-product-information_nl.pdf)
 
-norsk (NO) (301.83 KB - PDF)
+norsk (NO) (295.54 KB - PDF)
 
-**First published:**
-
-17/04/2009
-
-**Last updated:**
-
-11/01/2022
+**First published:** 17/04/2009 **Last updated:** 28/05/2026
 
 [View](/no/documents/product-information/beromun-epar-product-information_no.pdf)
 
-polski (PL) (392.65 KB - PDF)
+polski (PL) (324.89 KB - PDF)
 
-**First published:**
-
-17/04/2009
-
-**Last updated:**
-
-11/01/2022
+**First published:** 17/04/2009 **Last updated:** 28/05/2026
 
 [View](/pl/documents/product-information/beromun-epar-product-information_pl.pdf)
 
-português (PT) (310.27 KB - PDF)
+português (PT) (295.63 KB - PDF)
 
-**First published:**
-
-17/04/2009
-
-**Last updated:**
-
-11/01/2022
+**First published:** 17/04/2009 **Last updated:** 28/05/2026
 
 [View](/pt/documents/product-information/beromun-epar-product-information_pt.pdf)
 
-română (RO) (409.59 KB - PDF)
+română (RO) (344.19 KB - PDF)
 
-**First published:**
-
-17/04/2009
-
-**Last updated:**
-
-11/01/2022
+**First published:** 17/04/2009 **Last updated:** 28/05/2026
 
 [View](/ro/documents/product-information/beromun-epar-product-information_ro.pdf)
 
-slovenčina (SK) (405.76 KB - PDF)
+slovenčina (SK) (320.8 KB - PDF)
 
-**First published:**
-
-17/04/2009
-
-**Last updated:**
-
-11/01/2022
+**First published:** 17/04/2009 **Last updated:** 28/05/2026
 
 [View](/sk/documents/product-information/beromun-epar-product-information_sk.pdf)
 
-slovenščina (SL) (379.81 KB - PDF)
+slovenščina (SL) (303.72 KB - PDF)
 
-**First published:**
-
-17/04/2009
-
-**Last updated:**
-
-11/01/2022
+**First published:** 17/04/2009 **Last updated:** 28/05/2026
 
 [View](/sl/documents/product-information/beromun-epar-product-information_sl.pdf)
 
-Suomi (FI) (296.11 KB - PDF)
+Suomi (FI) (295.18 KB - PDF)
 
-**First published:**
-
-17/04/2009
-
-**Last updated:**
-
-11/01/2022
+**First published:** 17/04/2009 **Last updated:** 28/05/2026
 
 [View](/fi/documents/product-information/beromun-epar-product-information_fi.pdf)
 
-svenska (SV) (329.66 KB - PDF)
+svenska (SV) (329.39 KB - PDF)
 
-**First published:**
-
-17/04/2009
-
-**Last updated:**
-
-11/01/2022
+**First published:** 17/04/2009 **Last updated:** 28/05/2026
 
 [View](/sv/documents/product-information/beromun-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** IB/0057 09/12/2021
+**Latest procedure affecting product information:** VR/0000342387
+
+26/05/2026
 
 icon globe
 
@@ -685,305 +413,177 @@ Beromun : EPAR - All Authorised presentations
 
 English (EN) (20.68 KB - PDF)
 
-**First published:** 21/10/2005
-
-**Last updated:** 09/02/2017
+**First published:** 21/10/2005 **Last updated:** 09/02/2017
 
 [View](/en/documents/all-authorised-presentations/beromun-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-906)
+[Other languages (24)](#file-language-dropdown-765)
 
 български (BG) (23.38 KB - PDF)
 
-**First published:**
-
-21/10/2005
-
-**Last updated:**
-
-09/02/2017
+**First published:** 21/10/2005 **Last updated:** 09/02/2017
 
 [View](/bg/documents/all-authorised-presentations/beromun-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (20.25 KB - PDF)
 
-**First published:**
-
-21/10/2005
-
-**Last updated:**
-
-09/02/2017
+**First published:** 21/10/2005 **Last updated:** 09/02/2017
 
 [View](/es/documents/all-authorised-presentations/beromun-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (22.06 KB - PDF)
 
-**First published:**
-
-21/10/2005
-
-**Last updated:**
-
-09/02/2017
+**First published:** 21/10/2005 **Last updated:** 09/02/2017
 
 [View](/cs/documents/all-authorised-presentations/beromun-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (21.81 KB - PDF)
 
-**First published:**
-
-21/10/2005
-
-**Last updated:**
-
-09/02/2017
+**First published:** 21/10/2005 **Last updated:** 09/02/2017
 
 [View](/da/documents/all-authorised-presentations/beromun-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (22.65 KB - PDF)
 
-**First published:**
-
-21/10/2005
-
-**Last updated:**
-
-09/02/2017
+**First published:** 21/10/2005 **Last updated:** 09/02/2017
 
 [View](/de/documents/all-authorised-presentations/beromun-epar-all-authorised-presentations_de.pdf)
 
 eesti keel (ET) (20.15 KB - PDF)
 
-**First published:**
-
-21/10/2005
-
-**Last updated:**
-
-09/02/2017
+**First published:** 21/10/2005 **Last updated:** 09/02/2017
 
 [View](/et/documents/all-authorised-presentations/beromun-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (22.48 KB - PDF)
 
-**First published:**
-
-21/10/2005
-
-**Last updated:**
-
-09/02/2017
+**First published:** 21/10/2005 **Last updated:** 09/02/2017
 
 [View](/el/documents/all-authorised-presentations/beromun-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (20.18 KB - PDF)
 
-**First published:**
-
-21/10/2005
-
-**Last updated:**
-
-09/02/2017
+**First published:** 21/10/2005 **Last updated:** 09/02/2017
 
 [View](/fr/documents/all-authorised-presentations/beromun-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (21.04 KB - PDF)
 
-**First published:**
-
-21/10/2005
-
-**Last updated:**
-
-09/02/2017
+**First published:** 21/10/2005 **Last updated:** 09/02/2017
 
 [View](/hr/documents/all-authorised-presentations/beromun-epar-all-authorised-presentations_hr.pdf)
 
 íslenska (IS) (21.33 KB - PDF)
 
-**First published:**
-
-21/10/2005
-
-**Last updated:**
-
-09/02/2017
+**First published:** 21/10/2005 **Last updated:** 09/02/2017
 
 [View](/is/documents/all-authorised-presentations/beromun-epar-all-authorised-presentations_is.pdf)
 
 italiano (IT) (20.14 KB - PDF)
 
-**First published:**
-
-21/10/2005
-
-**Last updated:**
-
-09/02/2017
+**First published:** 21/10/2005 **Last updated:** 09/02/2017
 
 [View](/it/documents/all-authorised-presentations/beromun-epar-all-authorised-presentations_it.pdf)
 
 latviešu valoda (LV) (21.25 KB - PDF)
 
-**First published:**
-
-21/10/2005
-
-**Last updated:**
-
-09/02/2017
+**First published:** 21/10/2005 **Last updated:** 09/02/2017
 
 [View](/lv/documents/all-authorised-presentations/beromun-epar-all-authorised-presentations_lv.pdf)
 
 lietuvių kalba (LT) (21.34 KB - PDF)
 
-**First published:**
-
-21/10/2005
-
-**Last updated:**
-
-09/02/2017
+**First published:** 21/10/2005 **Last updated:** 09/02/2017
 
 [View](/lt/documents/all-authorised-presentations/beromun-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (21.05 KB - PDF)
 
-**First published:**
-
-21/10/2005
-
-**Last updated:**
-
-09/02/2017
+**First published:** 21/10/2005 **Last updated:** 09/02/2017
 
 [View](/hu/documents/all-authorised-presentations/beromun-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (21.64 KB - PDF)
 
-**First published:**
-
-21/10/2005
-
-**Last updated:**
-
-09/02/2017
+**First published:** 21/10/2005 **Last updated:** 09/02/2017
 
 [View](/mt/documents/all-authorised-presentations/beromun-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (20.19 KB - PDF)
 
-**First published:**
-
-21/10/2005
-
-**Last updated:**
-
-09/02/2017
+**First published:** 21/10/2005 **Last updated:** 09/02/2017
 
 [View](/nl/documents/all-authorised-presentations/beromun-epar-all-authorised-presentations_nl.pdf)
 
 norsk (NO) (21.79 KB - PDF)
 
-**First published:**
-
-21/10/2005
-
-**Last updated:**
-
-09/02/2017
+**First published:** 21/10/2005 **Last updated:** 09/02/2017
 
 [View](/no/documents/all-authorised-presentations/beromun-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (22.37 KB - PDF)
 
-**First published:**
-
-21/10/2005
-
-**Last updated:**
-
-09/02/2017
+**First published:** 21/10/2005 **Last updated:** 09/02/2017
 
 [View](/pl/documents/all-authorised-presentations/beromun-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (21.7 KB - PDF)
 
-**First published:**
-
-21/10/2005
-
-**Last updated:**
-
-09/02/2017
+**First published:** 21/10/2005 **Last updated:** 09/02/2017
 
 [View](/pt/documents/all-authorised-presentations/beromun-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (20.66 KB - PDF)
 
-**First published:**
-
-21/10/2005
-
-**Last updated:**
-
-09/02/2017
+**First published:** 21/10/2005 **Last updated:** 09/02/2017
 
 [View](/ro/documents/all-authorised-presentations/beromun-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (22.11 KB - PDF)
 
-**First published:**
-
-21/10/2005
-
-**Last updated:**
-
-09/02/2017
+**First published:** 21/10/2005 **Last updated:** 09/02/2017
 
 [View](/sk/documents/all-authorised-presentations/beromun-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (21.08 KB - PDF)
 
-**First published:**
-
-21/10/2005
-
-**Last updated:**
-
-09/02/2017
+**First published:** 21/10/2005 **Last updated:** 09/02/2017
 
 [View](/sl/documents/all-authorised-presentations/beromun-epar-all-authorised-presentations_sl.pdf)
 
 Suomi (FI) (19.36 KB - PDF)
 
-**First published:**
-
-21/10/2005
-
-**Last updated:**
-
-09/02/2017
+**First published:** 21/10/2005 **Last updated:** 09/02/2017
 
 [View](/fi/documents/all-authorised-presentations/beromun-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (20.19 KB - PDF)
 
-**First published:**
-
-21/10/2005
-
-**Last updated:**
-
-09/02/2017
+**First published:** 21/10/2005 **Last updated:** 09/02/2017
 
 [View](/sv/documents/all-authorised-presentations/beromun-epar-all-authorised-presentations_sv.pdf)
 
 ## Product details
 
-Name of medicine Beromun Active substance tasonermin International non-proprietary name (INN) or common name tasonermin Therapeutic area (MeSH) Sarcoma Anatomical therapeutic chemical (ATC) code L03AX11
+Name of medicine
+
+Beromun
+
+Active substance
+
+tasonermin
+
+International non-proprietary name (INN) or common name
+
+tasonermin
+
+Therapeutic area (MeSH)
+
+Sarcoma
+
+Anatomical therapeutic chemical (ATC) code
+
+L03AX11
 
 ### Pharmacotherapeutic group
 
@@ -995,13 +595,23 @@ Beromun is indicated in adults as an adjunct to surgery for subsequent removal o
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/000206 Marketing authorisation holder
+EMA product number
+
+EMEA/H/C/000206
+
+Marketing authorisation holder
 
 Belpharma s.a.
 
 2, Rue Albert 1 er
 
-Marketing authorisation issued 12/04/1999 Revision 15
+Marketing authorisation issued
+
+12/04/1999
+
+Revision
+
+16
 
 ## Assessment history
 
@@ -1013,21 +623,25 @@ Collapse section
 
 Beromun : EPAR - Procedural steps taken and scientific information after authorisation
 
+English (EN) (164.04 KB - PDF)
+
+**First published:** 28/05/2026
+
+[View](/en/documents/procedural-steps-after/beromun-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+
+Beromun : EPAR - Procedural steps taken and scientific information after authorisation (archive)
+
 English (EN) (215.57 KB - PDF)
 
-**First published:** 10/10/2007
+**First published:** 10/10/2007 **Last updated:** 11/01/2022
 
-**Last updated:** 11/01/2022
-
-[View](/en/documents/procedural-steps-after/beromun-epar-procedural-steps-taken-and-scientific-information-after-authorisation_en.pdf)
+[View](/en/documents/procedural-steps-after/beromun-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 Beromun : EPAR - Steps taken after authorisation when a cutoff date has been used
 
 English (EN) (89.23 KB - PDF)
 
-**First published:** 21/10/2005
-
-**Last updated:** 21/10/2005
+**First published:** 21/10/2005 **Last updated:** 21/10/2005
 
 [View](/en/documents/steps-after-cutoff/beromun-epar-steps-taken-after-authorisation-when-cutoff-date-has-been-used_en.pdf)
 
@@ -1047,18 +661,16 @@ Beromun : EPAR - Procedural steps taken before authorisation
 
 English (EN) (87.59 KB - PDF)
 
-**First published:** 21/10/2005
-
-**Last updated:** 21/10/2005
+**First published:** 21/10/2005 **Last updated:** 21/10/2005
 
 [View](/en/documents/procedural-steps/beromun-epar-procedural-steps-taken-authorisation_en.pdf)
 
-#### Topics
+## Topics
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 11/01/2022
+**This page was last updated on**
+
+28/05/2026
 
 ## Share this page
-
-[Back to top](#main-content)

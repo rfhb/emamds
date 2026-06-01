@@ -1,32 +1,32 @@
 ---
-document_datetime: 2025-12-29 11:43:54
+document_datetime: 2026-05-27 12:30:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/rezdiffra.html
 document_name: rezdiffra.html
 version: success
-processing_time: 0.1069216
-conversion_datetime: 2025-12-30 08:16:19.91128
+processing_time: 0.119219
+conversion_datetime: 2026-06-01 16:57:13.787429
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.20.0
+  docling-jobkit: 1.20.1
+  docling: 2.96.1
+  docling-core: 2.78.0
+  docling-ibm-models: 3.13.2
+  docling-parse: 6.2.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
 ---
 # Rezdiffra
 
 [RSS](/en/individual-human-medicine.xml/261747)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-resmetirom Medicine Human Authorised
+resmetirom
 
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
+Medicine Human Authorised
 
 Page contents
 
@@ -105,275 +105,141 @@ Reference Number: EMA/222172/2025
 
 English (EN) (111.97 KB - PDF)
 
-**First published:** 10/11/2025
-
-**Last updated:** 17/11/2025
+**First published:** 10/11/2025 **Last updated:** 17/11/2025
 
 [View](/en/documents/overview/rezdiffra-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-741)
+[Other languages (22)](#file-language-dropdown-277)
 
 български (BG) (137.28 KB - PDF)
 
-**First published:**
-
-10/11/2025
-
-**Last updated:**
-
-17/11/2025
+**First published:** 10/11/2025 **Last updated:** 17/11/2025
 
 [View](/bg/documents/overview/rezdiffra-epar-medicine-overview_bg.pdf)
 
 español (ES) (111.62 KB - PDF)
 
-**First published:**
-
-10/11/2025
-
-**Last updated:**
-
-17/11/2025
+**First published:** 10/11/2025 **Last updated:** 17/11/2025
 
 [View](/es/documents/overview/rezdiffra-epar-medicine-overview_es.pdf)
 
 čeština (CS) (134.32 KB - PDF)
 
-**First published:**
-
-10/11/2025
-
-**Last updated:**
-
-17/11/2025
+**First published:** 10/11/2025 **Last updated:** 17/11/2025
 
 [View](/cs/documents/overview/rezdiffra-epar-medicine-overview_cs.pdf)
 
 dansk (DA) (110.59 KB - PDF)
 
-**First published:**
-
-10/11/2025
-
-**Last updated:**
-
-17/11/2025
+**First published:** 10/11/2025 **Last updated:** 17/11/2025
 
 [View](/da/documents/overview/rezdiffra-epar-medicine-overview_da.pdf)
 
 Deutsch (DE) (114.33 KB - PDF)
 
-**First published:**
-
-10/11/2025
-
-**Last updated:**
-
-17/11/2025
+**First published:** 10/11/2025 **Last updated:** 17/11/2025
 
 [View](/de/documents/overview/rezdiffra-epar-medicine-overview_de.pdf)
 
 eesti keel (ET) (121.13 KB - PDF)
 
-**First published:**
-
-10/11/2025
-
-**Last updated:**
-
-17/11/2025
+**First published:** 10/11/2025 **Last updated:** 17/11/2025
 
 [View](/et/documents/overview/rezdiffra-epar-medicine-overview_et.pdf)
 
 ελληνικά (EL) (135.99 KB - PDF)
 
-**First published:**
-
-10/11/2025
-
-**Last updated:**
-
-17/11/2025
+**First published:** 10/11/2025 **Last updated:** 17/11/2025
 
 [View](/el/documents/overview/rezdiffra-epar-medicine-overview_el.pdf)
 
 français (FR) (124.31 KB - PDF)
 
-**First published:**
-
-10/11/2025
-
-**Last updated:**
-
-17/11/2025
+**First published:** 10/11/2025 **Last updated:** 17/11/2025
 
 [View](/fr/documents/overview/rezdiffra-epar-medicine-overview_fr.pdf)
 
 hrvatski (HR) (136.53 KB - PDF)
 
-**First published:**
-
-10/11/2025
-
-**Last updated:**
-
-17/11/2025
+**First published:** 10/11/2025 **Last updated:** 17/11/2025
 
 [View](/hr/documents/overview/rezdiffra-epar-medicine-overview_hr.pdf)
 
 italiano (IT) (110.79 KB - PDF)
 
-**First published:**
-
-10/11/2025
-
-**Last updated:**
-
-17/11/2025
+**First published:** 10/11/2025 **Last updated:** 17/11/2025
 
 [View](/it/documents/overview/rezdiffra-epar-medicine-overview_it.pdf)
 
 latviešu valoda (LV) (144.21 KB - PDF)
 
-**First published:**
-
-10/11/2025
-
-**Last updated:**
-
-17/11/2025
+**First published:** 10/11/2025 **Last updated:** 17/11/2025
 
 [View](/lv/documents/overview/rezdiffra-epar-medicine-overview_lv.pdf)
 
 lietuvių kalba (LT) (136.87 KB - PDF)
 
-**First published:**
-
-10/11/2025
-
-**Last updated:**
-
-17/11/2025
+**First published:** 10/11/2025 **Last updated:** 17/11/2025
 
 [View](/lt/documents/overview/rezdiffra-epar-medicine-overview_lt.pdf)
 
 magyar (HU) (135.11 KB - PDF)
 
-**First published:**
-
-10/11/2025
-
-**Last updated:**
-
-17/11/2025
+**First published:** 10/11/2025 **Last updated:** 17/11/2025
 
 [View](/hu/documents/overview/rezdiffra-epar-medicine-overview_hu.pdf)
 
 Malti (MT) (137.41 KB - PDF)
 
-**First published:**
-
-10/11/2025
-
-**Last updated:**
-
-17/11/2025
+**First published:** 10/11/2025 **Last updated:** 17/11/2025
 
 [View](/mt/documents/overview/rezdiffra-epar-medicine-overview_mt.pdf)
 
 Nederlands (NL) (113.05 KB - PDF)
 
-**First published:**
-
-10/11/2025
-
-**Last updated:**
-
-17/11/2025
+**First published:** 10/11/2025 **Last updated:** 17/11/2025
 
 [View](/nl/documents/overview/rezdiffra-epar-medicine-overview_nl.pdf)
 
 polski (PL) (137.37 KB - PDF)
 
-**First published:**
-
-10/11/2025
-
-**Last updated:**
-
-17/11/2025
+**First published:** 10/11/2025 **Last updated:** 17/11/2025
 
 [View](/pl/documents/overview/rezdiffra-epar-medicine-overview_pl.pdf)
 
 português (PT) (112.06 KB - PDF)
 
-**First published:**
-
-10/11/2025
-
-**Last updated:**
-
-17/11/2025
+**First published:** 10/11/2025 **Last updated:** 17/11/2025
 
 [View](/pt/documents/overview/rezdiffra-epar-medicine-overview_pt.pdf)
 
 română (RO) (132.14 KB - PDF)
 
-**First published:**
-
-10/11/2025
-
-**Last updated:**
-
-17/11/2025
+**First published:** 10/11/2025 **Last updated:** 17/11/2025
 
 [View](/ro/documents/overview/rezdiffra-epar-medicine-overview_ro.pdf)
 
 slovenčina (SK) (133.12 KB - PDF)
 
-**First published:**
-
-10/11/2025
-
-**Last updated:**
-
-17/11/2025
+**First published:** 10/11/2025 **Last updated:** 17/11/2025
 
 [View](/sk/documents/overview/rezdiffra-epar-medicine-overview_sk.pdf)
 
 slovenščina (SL) (131.56 KB - PDF)
 
-**First published:**
-
-10/11/2025
-
-**Last updated:**
-
-17/11/2025
+**First published:** 10/11/2025 **Last updated:** 17/11/2025
 
 [View](/sl/documents/overview/rezdiffra-epar-medicine-overview_sl.pdf)
 
 Suomi (FI) (116.07 KB - PDF)
 
-**First published:**
-
-10/11/2025
-
-**Last updated:**
-
-17/11/2025
+**First published:** 10/11/2025 **Last updated:** 17/11/2025
 
 [View](/fi/documents/overview/rezdiffra-epar-medicine-overview_fi.pdf)
 
 svenska (SV) (110.8 KB - PDF)
 
-**First published:**
-
-10/11/2025
-
-**Last updated:**
-
-17/11/2025
+**First published:** 10/11/2025 **Last updated:** 17/11/2025
 
 [View](/sv/documents/overview/rezdiffra-epar-medicine-overview_sv.pdf)
 
@@ -389,205 +255,161 @@ English (EN) (3.02 MB - PDF)
 
 Rezdiffra : EPAR - Product information
 
-English (EN) (202.95 KB - PDF)
+English (EN) (303.38 KB - PDF)
 
-**First published:** 10/11/2025
+**First published:** 10/11/2025 **Last updated:** 27/05/2026
 
 [View](/en/documents/product-information/rezdiffra-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-852)
+[Other languages (24)](#file-language-dropdown-79)
 
-български (BG) (602.97 KB - PDF)
+български (BG) (372.7 KB - PDF)
 
-**First published:**
-
-10/11/2025
+**First published:** 10/11/2025 **Last updated:** 27/05/2026
 
 [View](/bg/documents/product-information/rezdiffra-epar-product-information_bg.pdf)
 
-español (ES) (477.77 KB - PDF)
+español (ES) (315.7 KB - PDF)
 
-**First published:**
-
-10/11/2025
+**First published:** 10/11/2025 **Last updated:** 27/05/2026
 
 [View](/es/documents/product-information/rezdiffra-epar-product-information_es.pdf)
 
-čeština (CS) (550.62 KB - PDF)
+čeština (CS) (364.7 KB - PDF)
 
-**First published:**
-
-10/11/2025
+**First published:** 10/11/2025 **Last updated:** 27/05/2026
 
 [View](/cs/documents/product-information/rezdiffra-epar-product-information_cs.pdf)
 
-dansk (DA) (479.55 KB - PDF)
+dansk (DA) (457.66 KB - PDF)
 
-**First published:**
-
-10/11/2025
+**First published:** 10/11/2025 **Last updated:** 27/05/2026
 
 [View](/da/documents/product-information/rezdiffra-epar-product-information_da.pdf)
 
-Deutsch (DE) (197 KB - PDF)
+Deutsch (DE) (233.03 KB - PDF)
 
-**First published:**
-
-10/11/2025
+**First published:** 10/11/2025 **Last updated:** 27/05/2026
 
 [View](/de/documents/product-information/rezdiffra-epar-product-information_de.pdf)
 
-eesti keel (ET) (470.11 KB - PDF)
+eesti keel (ET) (343.25 KB - PDF)
 
-**First published:**
-
-10/11/2025
+**First published:** 10/11/2025 **Last updated:** 27/05/2026
 
 [View](/et/documents/product-information/rezdiffra-epar-product-information_et.pdf)
 
-ελληνικά (EL) (549.53 KB - PDF)
+ελληνικά (EL) (435.71 KB - PDF)
 
-**First published:**
-
-10/11/2025
+**First published:** 10/11/2025 **Last updated:** 27/05/2026
 
 [View](/el/documents/product-information/rezdiffra-epar-product-information_el.pdf)
 
-français (FR) (195.35 KB - PDF)
+français (FR) (397.35 KB - PDF)
 
-**First published:**
-
-10/11/2025
+**First published:** 10/11/2025 **Last updated:** 27/05/2026
 
 [View](/fr/documents/product-information/rezdiffra-epar-product-information_fr.pdf)
 
-hrvatski (HR) (536.12 KB - PDF)
+hrvatski (HR) (508.55 KB - PDF)
 
-**First published:**
-
-10/11/2025
+**First published:** 10/11/2025 **Last updated:** 27/05/2026
 
 [View](/hr/documents/product-information/rezdiffra-epar-product-information_hr.pdf)
 
-íslenska (IS) (185.57 KB - PDF)
+íslenska (IS) (390.83 KB - PDF)
 
-**First published:**
-
-10/11/2025
+**First published:** 10/11/2025 **Last updated:** 27/05/2026
 
 [View](/is/documents/product-information/rezdiffra-epar-product-information_is.pdf)
 
-italiano (IT) (483.36 KB - PDF)
+italiano (IT) (314.4 KB - PDF)
 
-**First published:**
-
-10/11/2025
+**First published:** 10/11/2025 **Last updated:** 27/05/2026
 
 [View](/it/documents/product-information/rezdiffra-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (531.34 KB - PDF)
+latviešu valoda (LV) (353.13 KB - PDF)
 
-**First published:**
-
-10/11/2025
+**First published:** 10/11/2025 **Last updated:** 27/05/2026
 
 [View](/lv/documents/product-information/rezdiffra-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (546.75 KB - PDF)
+lietuvių kalba (LT) (356.98 KB - PDF)
 
-**First published:**
-
-10/11/2025
+**First published:** 10/11/2025 **Last updated:** 27/05/2026
 
 [View](/lt/documents/product-information/rezdiffra-epar-product-information_lt.pdf)
 
-magyar (HU) (554.56 KB - PDF)
+magyar (HU) (361.87 KB - PDF)
 
-**First published:**
-
-10/11/2025
+**First published:** 10/11/2025 **Last updated:** 27/05/2026
 
 [View](/hu/documents/product-information/rezdiffra-epar-product-information_hu.pdf)
 
-Malti (MT) (552.83 KB - PDF)
+Malti (MT) (525.14 KB - PDF)
 
-**First published:**
-
-10/11/2025
+**First published:** 10/11/2025 **Last updated:** 27/05/2026
 
 [View](/mt/documents/product-information/rezdiffra-epar-product-information_mt.pdf)
 
-Nederlands (NL) (500.07 KB - PDF)
+Nederlands (NL) (463.55 KB - PDF)
 
-**First published:**
-
-10/11/2025
+**First published:** 10/11/2025 **Last updated:** 27/05/2026
 
 [View](/nl/documents/product-information/rezdiffra-epar-product-information_nl.pdf)
 
-norsk (NO) (189.21 KB - PDF)
+norsk (NO) (293.99 KB - PDF)
 
-**First published:**
-
-10/11/2025
+**First published:** 10/11/2025 **Last updated:** 27/05/2026
 
 [View](/no/documents/product-information/rezdiffra-epar-product-information_no.pdf)
 
-polski (PL) (575.28 KB - PDF)
+polski (PL) (364.74 KB - PDF)
 
-**First published:**
-
-10/11/2025
+**First published:** 10/11/2025 **Last updated:** 27/05/2026
 
 [View](/pl/documents/product-information/rezdiffra-epar-product-information_pl.pdf)
 
-português (PT) (473.11 KB - PDF)
+português (PT) (318.91 KB - PDF)
 
-**First published:**
-
-10/11/2025
+**First published:** 10/11/2025 **Last updated:** 27/05/2026
 
 [View](/pt/documents/product-information/rezdiffra-epar-product-information_pt.pdf)
 
-română (RO) (542.64 KB - PDF)
+română (RO) (355.94 KB - PDF)
 
-**First published:**
-
-10/11/2025
+**First published:** 10/11/2025 **Last updated:** 27/05/2026
 
 [View](/ro/documents/product-information/rezdiffra-epar-product-information_ro.pdf)
 
-slovenčina (SK) (574.88 KB - PDF)
+slovenčina (SK) (359.7 KB - PDF)
 
-**First published:**
-
-10/11/2025
+**First published:** 10/11/2025 **Last updated:** 27/05/2026
 
 [View](/sk/documents/product-information/rezdiffra-epar-product-information_sk.pdf)
 
-slovenščina (SL) (556.2 KB - PDF)
+slovenščina (SL) (348.52 KB - PDF)
 
-**First published:**
-
-10/11/2025
+**First published:** 10/11/2025 **Last updated:** 27/05/2026
 
 [View](/sl/documents/product-information/rezdiffra-epar-product-information_sl.pdf)
 
-Suomi (FI) (472.06 KB - PDF)
+Suomi (FI) (511.95 KB - PDF)
 
-**First published:**
-
-10/11/2025
+**First published:** 10/11/2025 **Last updated:** 27/05/2026
 
 [View](/fi/documents/product-information/rezdiffra-epar-product-information_fi.pdf)
 
-svenska (SV) (470.51 KB - PDF)
+svenska (SV) (485.68 KB - PDF)
 
-**First published:**
-
-10/11/2025
+**First published:** 10/11/2025 **Last updated:** 27/05/2026
 
 [View](/sv/documents/product-information/rezdiffra-epar-product-information_sv.pdf)
+
+**Latest procedure affecting product information:** R/0000326759
+
+23/04/2026
 
 icon globe
 
@@ -607,310 +429,178 @@ Rezdiffra : EPAR - All authorised presentations
 
 English (EN) (41.96 KB - PDF)
 
-**First published:** 10/11/2025
-
-**Last updated:** 17/11/2025
+**First published:** 10/11/2025 **Last updated:** 17/11/2025
 
 [View](/en/documents/all-authorised-presentations/rezdiffra-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-817)
+[Other languages (24)](#file-language-dropdown-721)
 
 български (BG) (59.68 KB - PDF)
 
-**First published:**
-
-10/11/2025
-
-**Last updated:**
-
-17/11/2025
+**First published:** 10/11/2025 **Last updated:** 17/11/2025
 
 [View](/bg/documents/all-authorised-presentations/rezdiffra-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (41.98 KB - PDF)
 
-**First published:**
-
-10/11/2025
-
-**Last updated:**
-
-17/11/2025
+**First published:** 10/11/2025 **Last updated:** 17/11/2025
 
 [View](/es/documents/all-authorised-presentations/rezdiffra-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (48.93 KB - PDF)
 
-**First published:**
-
-10/11/2025
-
-**Last updated:**
-
-17/11/2025
+**First published:** 10/11/2025 **Last updated:** 17/11/2025
 
 [View](/cs/documents/all-authorised-presentations/rezdiffra-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (43.12 KB - PDF)
 
-**First published:**
-
-10/11/2025
-
-**Last updated:**
-
-17/11/2025
+**First published:** 10/11/2025 **Last updated:** 17/11/2025
 
 [View](/da/documents/all-authorised-presentations/rezdiffra-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (44.37 KB - PDF)
 
-**First published:**
-
-10/11/2025
-
-**Last updated:**
-
-17/11/2025
+**First published:** 10/11/2025 **Last updated:** 17/11/2025
 
 [View](/de/documents/all-authorised-presentations/rezdiffra-epar-all-authorised-presentations_de.pdf)
 
 eesti keel (ET) (42.73 KB - PDF)
 
-**First published:**
-
-10/11/2025
-
-**Last updated:**
-
-17/11/2025
+**First published:** 10/11/2025 **Last updated:** 17/11/2025
 
 [View](/et/documents/all-authorised-presentations/rezdiffra-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (58.6 KB - PDF)
 
-**First published:**
-
-10/11/2025
-
-**Last updated:**
-
-17/11/2025
+**First published:** 10/11/2025 **Last updated:** 17/11/2025
 
 [View](/el/documents/all-authorised-presentations/rezdiffra-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (42.91 KB - PDF)
 
-**First published:**
-
-10/11/2025
-
-**Last updated:**
-
-17/11/2025
+**First published:** 10/11/2025 **Last updated:** 17/11/2025
 
 [View](/fr/documents/all-authorised-presentations/rezdiffra-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (58.83 KB - PDF)
 
-**First published:**
-
-10/11/2025
-
-**Last updated:**
-
-17/11/2025
+**First published:** 10/11/2025 **Last updated:** 17/11/2025
 
 [View](/hr/documents/all-authorised-presentations/rezdiffra-epar-all-authorised-presentations_hr.pdf)
 
 íslenska (IS) (43.23 KB - PDF)
 
-**First published:**
-
-10/11/2025
-
-**Last updated:**
-
-17/11/2025
+**First published:** 10/11/2025 **Last updated:** 17/11/2025
 
 [View](/is/documents/all-authorised-presentations/rezdiffra-epar-all-authorised-presentations_is.pdf)
 
 italiano (IT) (41.75 KB - PDF)
 
-**First published:**
-
-10/11/2025
-
-**Last updated:**
-
-17/11/2025
+**First published:** 10/11/2025 **Last updated:** 17/11/2025
 
 [View](/it/documents/all-authorised-presentations/rezdiffra-epar-all-authorised-presentations_it.pdf)
 
 latviešu valoda (LV) (58.94 KB - PDF)
 
-**First published:**
-
-10/11/2025
-
-**Last updated:**
-
-17/11/2025
+**First published:** 10/11/2025 **Last updated:** 17/11/2025
 
 [View](/lv/documents/all-authorised-presentations/rezdiffra-epar-all-authorised-presentations_lv.pdf)
 
 lietuvių kalba (LT) (59.67 KB - PDF)
 
-**First published:**
-
-10/11/2025
-
-**Last updated:**
-
-17/11/2025
+**First published:** 10/11/2025 **Last updated:** 17/11/2025
 
 [View](/lt/documents/all-authorised-presentations/rezdiffra-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (59.21 KB - PDF)
 
-**First published:**
-
-10/11/2025
-
-**Last updated:**
-
-17/11/2025
+**First published:** 10/11/2025 **Last updated:** 17/11/2025
 
 [View](/hu/documents/all-authorised-presentations/rezdiffra-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (59.95 KB - PDF)
 
-**First published:**
-
-10/11/2025
-
-**Last updated:**
-
-17/11/2025
+**First published:** 10/11/2025 **Last updated:** 17/11/2025
 
 [View](/mt/documents/all-authorised-presentations/rezdiffra-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (42.06 KB - PDF)
 
-**First published:**
-
-10/11/2025
-
-**Last updated:**
-
-17/11/2025
+**First published:** 10/11/2025 **Last updated:** 17/11/2025
 
 [View](/nl/documents/all-authorised-presentations/rezdiffra-epar-all-authorised-presentations_nl.pdf)
 
 norsk (NO) (43.37 KB - PDF)
 
-**First published:**
-
-10/11/2025
-
-**Last updated:**
-
-17/11/2025
+**First published:** 10/11/2025 **Last updated:** 17/11/2025
 
 [View](/no/documents/all-authorised-presentations/rezdiffra-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (52.14 KB - PDF)
 
-**First published:**
-
-10/11/2025
-
-**Last updated:**
-
-17/11/2025
+**First published:** 10/11/2025 **Last updated:** 17/11/2025
 
 [View](/pl/documents/all-authorised-presentations/rezdiffra-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (42.88 KB - PDF)
 
-**First published:**
-
-10/11/2025
-
-**Last updated:**
-
-17/11/2025
+**First published:** 10/11/2025 **Last updated:** 17/11/2025
 
 [View](/pt/documents/all-authorised-presentations/rezdiffra-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (58.57 KB - PDF)
 
-**First published:**
-
-10/11/2025
-
-**Last updated:**
-
-17/11/2025
+**First published:** 10/11/2025 **Last updated:** 17/11/2025
 
 [View](/ro/documents/all-authorised-presentations/rezdiffra-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (59.52 KB - PDF)
 
-**First published:**
-
-10/11/2025
-
-**Last updated:**
-
-17/11/2025
+**First published:** 10/11/2025 **Last updated:** 17/11/2025
 
 [View](/sk/documents/all-authorised-presentations/rezdiffra-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (61 KB - PDF)
 
-**First published:**
-
-10/11/2025
-
-**Last updated:**
-
-17/11/2025
+**First published:** 10/11/2025 **Last updated:** 17/11/2025
 
 [View](/sl/documents/all-authorised-presentations/rezdiffra-epar-all-authorised-presentations_sl.pdf)
 
 Suomi (FI) (42.28 KB - PDF)
 
-**First published:**
-
-10/11/2025
-
-**Last updated:**
-
-17/11/2025
+**First published:** 10/11/2025 **Last updated:** 17/11/2025
 
 [View](/fi/documents/all-authorised-presentations/rezdiffra-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (42.16 KB - PDF)
 
-**First published:**
-
-10/11/2025
-
-**Last updated:**
-
-17/11/2025
+**First published:** 10/11/2025 **Last updated:** 17/11/2025
 
 [View](/sv/documents/all-authorised-presentations/rezdiffra-epar-all-authorised-presentations_sv.pdf)
 
 ## Product details
 
-Name of medicine Rezdiffra Active substance resmetirom International non-proprietary name (INN) or common name resmetirom Therapeutic area (MeSH)
+Name of medicine
+
+Rezdiffra
+
+Active substance
+
+resmetirom
+
+International non-proprietary name (INN) or common name
+
+resmetirom
+
+Therapeutic area (MeSH)
 
 - Non-alcoholic Fatty Liver Disease
 - Liver Cirrhosis
 
-Anatomical therapeutic chemical (ATC) code A05
+Anatomical therapeutic chemical (ATC) code
+
+A05
 
 ### Pharmacotherapeutic group
 
@@ -922,7 +612,9 @@ Rezdiffra is indicated in conjunction with diet and exercise for the treatment o
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/006220
+EMA product number
+
+EMEA/H/C/006220
 
 Additional monitoring
 
@@ -938,17 +630,39 @@ Madrigal Pharmaceuticals EU Limited
 
 1 Castlewood Avenue Rathmines Dublin 6 D06 H685 IRELAND
 
-Opinion adopted 19/06/2025 Marketing authorisation issued 18/08/2025
+Opinion adopted
+
+19/06/2025
+
+Marketing authorisation issued
+
+18/08/2025
+
+Revision
+
+1
 
 ## Assessment history
+
+Expand section
+
+Collapse section
+
+## Changes since initial authorisation of medicine
+
+Rezdiffra : EPAR - Procedural steps taken and scientific information after authorisation
+
+English (EN) (132.68 KB - PDF)
+
+**First published:** 27/05/2026
+
+[View](/en/documents/procedural-steps-after/rezdiffra-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
 ## Initial marketing authorisation documents
 
 Rezdiffra : EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/194017/2025
+Adopted Reference Number: EMA/194017/2025
 
 English (EN) (4.91 MB - PDF)
 
@@ -958,9 +672,7 @@ English (EN) (4.91 MB - PDF)
 
 CHMP summary of positive opinion for Rezdiffra
 
-Adopted
-
-Reference Number: EMA/193903/2025
+Adopted Reference Number: EMA/193903/2025
 
 English (EN) (103.03 KB - PDF)
 
@@ -968,14 +680,18 @@ English (EN) (103.03 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-rezdiffra_en.pdf)
 
-#### News on Rezdiffra
+## News on Rezdiffra
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 16-19 June 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-16-19-june-2025) 20/06/2025
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 16-19 June 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-16-19-june-2025)
 
-[First treatment against liver scarring caused by a type of 'fatty liver disease'](/en/news/first-treatment-against-liver-scarring-caused-type-fatty-liver-disease) 20/06/2025
+20/06/2025
 
-**This page was last updated on** 10/11/2025
+[First treatment against liver scarring caused by a type of 'fatty liver disease'](/en/news/first-treatment-against-liver-scarring-caused-type-fatty-liver-disease)
+
+20/06/2025
+
+**This page was last updated on**
+
+27/05/2026
 
 ## Share this page
-
-[Back to top](#main-content)

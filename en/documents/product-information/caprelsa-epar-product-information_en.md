@@ -1,21 +1,23 @@
 ---
-document_datetime: 2025-12-08 16:21:12
+document_datetime: 2026-05-29 14:49:56
 document_pages: 41
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/caprelsa-epar-product-information_en.pdf
 document_name: caprelsa-epar-product-information_en.pdf
 version: success
-processing_time: 9.8487093
-conversion_datetime: 2025-12-27 18:21:25.984744
+processing_time: 17.4133496
+conversion_datetime: 2026-06-01 17:16:25.677005
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.20.0
+  docling-jobkit: 1.20.1
+  docling: 2.96.1
+  docling-core: 2.78.0
+  docling-ibm-models: 3.13.2
+  docling-parse: 6.2.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
 ---
+© ESTEVE (2026) INTERNAL USE
+
 ## ANNEX I
 
 ## SUMMARY OF PRODUCT CHARACTERISTICS
@@ -68,6 +70,8 @@ Since the activity of Caprelsa, based on available data, is considered insuffici
 
 The recommended dose is 300 mg once a day, taken with or without food at about the same time each day.
 
+© ESTEVE (2026) INTERNAL USE
+
 <div style=\"page-break-after: always\"></div>
 
 If a dose is missed, it should be taken as soon as the patient remembers. If it is less than 12 hours to the next dose, the patient should not take the missed dose. Patients should not take a double dose (two doses at the same time) to make up for a forgotten dose.
@@ -81,6 +85,8 @@ QTc interval should be carefully assessed prior to initiation of treatment. In t
 Dosing for paediatric patients should be on the basis of BSA in mg/m 2 . Paediatric patients treated with Caprelsa and patients' caregivers must be given the dosing guide and be informed on the correct dose to be taken with the initial prescription and each subsequent dose adjustment. Recommended dosing regimens and dose modifications are presented in Table 1.
 
 Table 1: Dosing nomogram for paediatric patients with MTC
+
+a The starting dose is the dose at which treatment should be initiated
 
 | BSA (m 2 )   | Start dose (mg) a                            | Dose increase (mg) b when tolerated well after 8 weeks at starting dose   | Dose reduction (mg) c                        |
 |--------------|----------------------------------------------|---------------------------------------------------------------------------|----------------------------------------------|
@@ -97,6 +103,8 @@ Table 1: Dosing nomogram for paediatric patients with MTC
 - If a further event of CTCAE grade 3 or higher toxicity or prolongation of the ECG QTc interval occurs, dosing with vandetanib should be permanently stopped.
 
 The patient must be monitored appropriately. Due to the 19-day half-life, adverse reactions including a prolonged QTc interval may not resolve quickly (see section 4.4).
+
+© ESTEVE (2026) INTERNAL USE
 
 <div style=\"page-break-after: always\"></div>
 
@@ -138,6 +146,8 @@ Pharmacokinetic data from volunteers, suggests that no change in starting dose i
 
 Caprelsa is for oral use. For patients who have difficulty swallowing, vandetanib tablets may be dispersed in half a glass of non-carbonated drinking water. No other liquids should be used. The tablet is to be dropped in water, without crushing, stirred until dispersed (approximately 10 minutes) and the resultant dispersion swallowed immediately. Any residues in the glass are to be mixed with half a
 
+© ESTEVE (2026) INTERNAL USE
+
 <div style=\"page-break-after: always\"></div>
 
 glass of water and swallowed. The liquid can also be administered through nasogastric or gastrostomy tubes.
@@ -167,6 +177,8 @@ Serum potassium, serum magnesium and serum calcium should be kept within normal 
 The administration of vandetanib with substances known to prolong the ECG QTc interval is contraindicated or not recommended (see sections 4.3 and 4.5).
 
 The concomitant use of vandetanib with ondansetron is not recommended (see section 4.5)
+
+© ESTEVE (2026) INTERNAL USE
 
 <div style=\"page-break-after: always\"></div>
 
@@ -203,6 +215,8 @@ Hypertension, including hypertensive crisis, has been observed in patients treat
 ## Wound healing complications
 
 No formal studies of the effect of vandetanib on wound healing have been conducted. Impaired wound healing can occur in patients who receive drugs that inhibit the VEGF signalling pathway and has been reported in patients receiving vandetanib. Although evidence for an optimal duration of treatment interruption prior to scheduled surgery is very limited, temporary interruption of vandetanib should be
+
+© ESTEVE (2026) INTERNAL USE
 
 <div style=\"page-break-after: always\"></div>
 
@@ -244,6 +258,8 @@ The concomitant use of vandetanib with strong CYP3A4 inducers (such as rifampici
 
 The benefit of vandetanib in patients with CTN less than 500 pg/ml has not been determined, therefore use in patients with CTN &lt; 500 pg/ml should be carefully considered because of the treatment related risks of vandetanib.
 
+© ESTEVE (2026) INTERNAL USE
+
 <div style=\"page-break-after: always\"></div>
 
 ## Paediatric population
@@ -281,6 +297,8 @@ Biliary excretion of unchanged vandetanib is one of the excretion pathways for v
 ## Medicinal products known to prolong QTc interval
 
 Vandetanib has been shown to prolong the ECG QTc interval; Torsades de pointes have been uncommonly reported. Therefore, the concomitant use of vandetanib with medicinal products known to also prolong the QTc interval and/or induce Torsades de pointes is either contraindicated or not recommended depending on existing alternative therapies.
+
+© ESTEVE (2026) INTERNAL USE
 
 <div style=\"page-break-after: always\"></div>
 
@@ -321,6 +339,8 @@ Effects on reproduction in paediatric patients treated with vandetanib are not k
 
 ## 4.7 Effects on ability to drive and use machines
 
+© ESTEVE (2026) INTERNAL USE
+
 <div style=\"page-break-after: always\"></div>
 
 No studies to establish the effects of vandetanib on ability to drive and use machines have been conducted. However, fatigue and blurred vision have been reported and those patients who experience these symptoms should observe caution when driving or using machines.
@@ -346,6 +366,8 @@ The following adverse reactions have been identified in clinical studies with pa
 | Eye disorders                                       | Vision blurred, corneal structural change (including corneal deposits and corneal opacity) | Visual impairment, halo vision, photopsia, glaucoma, conjunctivitis, dry eye, keratopathy                               | Cataract, accommodation disorders                                                          |           |
 | Cardiac disorders                                   | Prolongation of ECG QTc interval(*) (**)                                                   |                                                                                                                         | Heart failure, acute heart failure, rate and rhythm disorders, cardiac conduction          |           |
 
+© ESTEVE (2026) INTERNAL USE
+
 <div style=\"page-break-after: always\"></div>
 
 |                                                      |                                                                                                                           |                                                                                                  | disorders, ventricular arrhythmia and cardiac arrest                          |                                                                                  |
@@ -369,6 +391,8 @@ The following adverse reactions have been identified in clinical studies with pa
 ## Description of selected adverse reactions
 
 Events such as Torsades de pointes, interstitial lung disease (sometimes fatal) and PRES (RPLS) have occurred in patients treated with vandetanib monotherapy. It is expected that these would be uncommon adverse reactions in patients receiving vandetanib for MTC.
+
+© ESTEVE (2026) INTERNAL USE
 
 <div style=\"page-break-after: always\"></div>
 
@@ -402,6 +426,8 @@ Vandetanib is a potent inhibitor of vascular endothelial growth factor receptor-
 
 Vandetanib inhibits VEGF-stimulated endothelial cell migration, proliferation, survival and new blood vessel formation in in vitro models of angiogenesis. In addition, vandetanib inhibits epidermal growth factor (EGF)-stimulated EGF receptor tyrosine kinase in tumour cells and endothelial cells. Vandetanib inhibits EGFR-dependent cell proliferation and cell survival in vitro . Vandetanib also inhibits both wild type and the majority of mutated, activated forms of RET, and significantly inhibits the proliferation of MTC cell lines in vitro .
 
+© ESTEVE (2026) INTERNAL USE
+
 <div style=\"page-break-after: always\"></div>
 
 In vivo vandetanib administration reduced tumour cell-induced angiogenesis, tumour vessel permeability, tumour microvessel density, and inhibited tumour growth of a range of human xenograft tumour models in athymic mice. Vandetanib also inhibited the growth of MTC xenograft tumours in vivo .
@@ -422,6 +448,8 @@ The result of the primary analysis of PFS showed a statistically significant imp
 
 The median PFS for patients randomised to vandetanib has not been reached; however, based on statistical modelling of data observed up to the 43 rd percentile, the median PFS is predicted to be 30.5 months with 95% confidence interval 25.5 to 36.5 months. The median PFS for patients randomised to placebo was 19.3 months. At 12 months, the proportion of patients alive and progression-free was 192 (83%) for patients randomised to vandetanib and 63 (63%) for patients randomised to placebo. In the vandetanib arm, a total of 73 (32%) patients progressed: 64 (28%) by response evaluation criteria in solid tumours (RECIST) progression and 9 (4%) by death in the absence of progression. The remaining 158 patients (68%) were censored in the analysis of PFS. In the placebo arm, a total of 51 (51%) of patients had progressed: 46 (46%) by RECIST progression and 5 (5%) by death in the absence of progression. The remaining 49 patients (49%) were censored in the analysis of PFS.
 
+© ESTEVE (2026) INTERNAL USE
+
 <div style=\"page-break-after: always\"></div>
 
 Figure 1: Kaplan Meier plot of PFS
@@ -437,9 +465,9 @@ Figure 1: Kaplan Meier plot of PFS
 
 HR = 0.46, 95%CI (0.31-0.69), p = 0.0001
 
-| PFS                       | N                   | Median PFS                                      |   HR | 95% CI     |   p-value |
-|---------------------------|---------------------|-------------------------------------------------|------|------------|-----------|
-| Vandetanib 300 mg Placebo | 73/231 (32%) 51/100 | Not reached (predicted 30.5 months) 19.3 months | 0.46 | 0.31, 0.69 |    0.0001 |
+| PFS               | N            | Median PFS                          |   HR | 95% CI     |   p-value |
+|-------------------|--------------|-------------------------------------|------|------------|-----------|
+| Vandetanib 300 mg | 73/231 (32%) | Not reached (predicted 30.5 months) | 0.46 | 0.31, 0.69 |    0.0001 |
 
 Survival status and the median final overall survival (81.6 months in the vandetanib arm and 80.4 months in the placebo arm) were similar across both treatment arms. There was no statistically significant difference in final OS (HR 0.99, 95.002% CI 0.72, 1.38, p=0.9750). Results should be interpreted with caution due to the high percentage of patients in the placebo arm switching to openlabel vandetanib (79.0% [79/100] of patients).
 
@@ -447,22 +475,27 @@ Most (95% of the patients) had metastatic disease. Fourteen patients treated wit
 
 Statistically significant advantages were seen for vandetanib for the secondary endpoints of response rate, disease control rate, and biochemical response.
 
+© ESTEVE (2026) INTERNAL USE
+
 <div style=\"page-break-after: always\"></div>
 
 Table 3: Summary of other efficacy findings in study 58
 
-| ORR a                          | N              | Response rate     | OR b   | 95% CI      | p-value   |
-|--------------------------------|----------------|-------------------|--------|-------------|-----------|
-| Vandetanib 300 mg              | 104/231        | 45%               | 5.48   | 2.99, 10.79 | < 0.0001  |
-| Placebo DCR a                  | 13/100 N       | 13% Response rate | OR b   | 95% CI      | p-value   |
-| Vandetanib 300 mg              | 200/231 71/100 | 87% 71%           | 2.64   | 1.48, 4.69  | 0.001     |
-| Placebo CTN Response           | N              | Response rate     | OR b   | 95% CI      | p-value   |
-| Vandetanib 300 mg Placebo      | 160/231 3/100  | 69% 3%            | 72.9   | 26.2, 303.2 | < 0.0001  |
-| CEA Response Vandetanib 300 mg | N 119/231      | Response rate 52% | OR b   | 95% CI      | p-value   |
-| Placebo                        | 2/100          | 2% Median OS      | 52.0   | 16.0, 320.3 | < 0.0001  |
-| OVERALL SURVIVAL               | N              |                   | HR c   | 95% CI      | p-value   |
-|                                | 116/231        | 81.6 months       | 0.99   |             |           |
-| Vandetanib 300 mg Placebo      | 52/100         | 80.4 months       |        | 0.72, 1.38  | 0.9750    |
+| ORR a                                  | N               | Response rate        | OR b      | 95% CI             | p-value          |
+|----------------------------------------|-----------------|----------------------|-----------|--------------------|------------------|
+| Vandetanib 300 mg                      | 104/231         | 45% 13%              | 5.48      | 2.99, 10.79        | < 0.0001         |
+| Placebo DCR a                          | 13/100 N        | Response rate        | OR b      | 95% CI             | p-value          |
+| Vandetanib 300 mg                      | 200/231 71/100  | 87% 71%              | 2.64      | 1.48, 4.69         | 0.001            |
+| Placebo CTN Response                   | N               | Response rate        | OR b      | 95% CI             | p-value          |
+| Vandetanib 300 mg Placebo              | 160/231 3/100   | 69% 3%               | 72.9      | 26.2, 303.2        | < 0.0001         |
+| CEA Response Vandetanib 300 mg Placebo | N 119/231 2/100 | Response rate 52% 2% | OR b 52.0 | 95% CI 16.0, 320.3 | p-value < 0.0001 |
+| OVERALL SURVIVAL                       | N               | Median OS            | HR c      | 95% CI             | p-value          |
+|                                        | 116/231 52/100  | 81.6 months          | 0.99      |                    |                  |
+| Vandetanib 300 mg Placebo              |                 | 80.4 months          |           | 0.72, 1.38         | 0.9750           |
+
+a Overall response rate = complete + partial responses. Disease control rate = response rate + stable disease at 24 weeks. Intent-to-treat (ITT) analysis includes patients who received open-label vandetanib before progression according to the central read.
+
+b   OR=Odds Ratio. A value &gt; 1 favours vandetanib. The analysis was performed using a logistic regression model with treatment as the only factor.
 
 c  HR= Hazard Ratio. A value &lt;1 favours vandetanib. The analysis was performed using a log rank test with treatment as the only factor.
 
@@ -477,6 +510,8 @@ A statistically significant advantage was seen for vandetanib for the secondary 
 In Study 58, RET mutation testing was initially performed by using the polymerase chain reaction (PCR) based Amplification Refractory Mutation System (ARMS) assay for the M918T mutation, and direct sequencing of DNA for mutations in exons 10, 11, 13, 14, 15 and 16 (site of M918T mutation) on all sporadic patients where DNA was available (297/298). For reanalysis of samples lacking M918T mutation, the RET sequences were enriched using a custom Agilent SureSelect reagent and sequenced on an Illumina sequencer. Data processing and automated calling of RET variants were carried out using the Broad Genome Analysis ToolKit (GATK) pipeline with manual curation of any difficult cases using Broad Integrative Genomics Viewer (IGV).
 
 Initially, 79 patients had no M918T mutation identified. Of these 79 patients, 69 had enough tissue sample to allow a post-hoc reanalysis of RET mutation status based on new available assays. Most patients were reclassified as RET mutant (52/69) and 17/69 patients had no RET mutation (M918T or other) detected (11 with vandetanib and 6 with a placebo). Patients reclassified as RET mutant (N =
+
+© ESTEVE (2026) INTERNAL USE
 
 <div style=\"page-break-after: always\"></div>
 
@@ -511,6 +546,8 @@ Following oral dosing of 14 C- vandetanib, unchanged vandetanib and metabolites 
 ## Elimination
 
 The pharmacokinetics of vandetanib at the 300 mg dose in MTC patients are characterised by a clearance of approximately 13.2 l/h. and plasma half-life of approximately 19 days. Within a 21 day collection period after a single dose of 14 C-vandetanib, approximately 69% was recovered with 44% in
+
+© ESTEVE (2026) INTERNAL USE
 
 <div style=\"page-break-after: always\"></div>
 
@@ -547,6 +584,8 @@ Effects noted in other studies included inhibition of human ether-à-go-go relat
 In a fertility study of male rats, no effect on copulation or fertility rate were observed when untreated females were mated with males treated with vandetanib; however, in the same study there was a slight decrease in the number of live embryos and an increase in preimplantation loss. In a female fertility study, there was a trend towards increased oestrus cycle irregularity, a slight reduction in pregnancy incidence and increase in implantation loss. In a repeat-dose toxicity study in rats, there was a decrease in the number of corpora lutea in the ovaries of rats given vandetanib for 1 month.
 
 In rats, embryofoetal toxicity was evident as foetal loss, delayed foetal development, heart vessel abnormalities and precocious ossification of some skull bones. In a rat pre- and post-natal development study, at doses producing maternal toxicity during gestation and/or lactation, vandetanib
+
+© ESTEVE (2026) INTERNAL USE
 
 <div style=\"page-break-after: always\"></div>
 
@@ -586,11 +625,13 @@ No special requirements.
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Sanofi B.V., Paasheuvelweg 25, 1105 BP Amsterdam, The Netherlands
+Esteve Pharmaceuticals S.A., Passeig de la Zona Franca 109, Planta 4, 08038 Barcelona, Spain
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/11/749/001 EU/1/11/749/002
+
+© ESTEVE (2026) INTERNAL USE
 
 <div style=\"page-break-after: always\"></div>
 
@@ -610,14 +651,15 @@ Detailed information on this medicinal product is available on the website of th
 
 19
 
+© ESTEVE (2026) INTERNAL USE
+
 <div style=\"page-break-after: always\"></div>
 
-## ANNEX II
+- ANNEX II A. MANUFACTURER RESPONSIBLE FOR BATCH RELEASE B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
-- A. MANUFACTURER RESPONSIBLE FOR BATCH RELEASE
-- B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
-- C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
-- D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
+## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
+
+© ESTEVE (2026) INTERNAL USE
 
 <div style=\"page-break-after: always\"></div>
 
@@ -655,6 +697,8 @@ An updated RMP should be submitted:
 ## · Additional risk minimisation measures
 
 Prior to launch of CAPRELSA in each Member State the Marketing Authorisation Holder (MAH) must agree about the content and format of the educational programme, including communication media, distribution modalities, and any other aspects of the programme, with the National Competent Authority.
+
+© ESTEVE (2026) INTERNAL USE
 
 <div style=\"page-break-after: always\"></div>
 
@@ -705,6 +749,8 @@ The HCPs educational materials should include the following key elements:
 
 - Vandetanib was found not to impair linear growth in clinical trials conducted in children and adolescents;
 
+© ESTEVE (2026) INTERNAL USE
+
 <div style=\"page-break-after: always\"></div>
 
 - Vandetanib has demonstrated adverse effect on growing tissue that relies on vascularization such as teeth and growth plates in non-clinical studies;
@@ -734,7 +780,11 @@ The dosing and monitoring guide for patients and patient's caregivers should con
 - Not to stop taking CAPRELSA, or change the dose, without consulting the prescriber;
 - Contact details of the CAPRELSA prescriber.
 
+© ESTEVE (2026) INTERNAL USE
+
 <div style=\"page-break-after: always\"></div>
+
+© ESTEVE (2026) INTERNAL USE
 
 ## ANNEX III
 
@@ -742,9 +792,9 @@ The dosing and monitoring guide for patients and patient's caregivers should con
 
 <div style=\"page-break-after: always\"></div>
 
-## A. LABELLING
+© ESTEVE (2026) INTERNAL USE
 
-<div style=\"page-break-after: always\"></div>
+## A. LABELLING
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
@@ -786,9 +836,13 @@ Do not store above 30°C.
 
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
+<div style=\"page-break-after: always\"></div>
+
+© ESTEVE (2026) INTERNAL USE
+
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Sanofi B.V., Paasheuvelweg 25 1105 BP Amsterdam The Netherlands
+Esteve Pharmaceuticals S.A. Passeig de la Zona Franca 109 Planta 4 08038 Barcelona Spain
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -814,27 +868,31 @@ Caprelsa 100 mg
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC: SN:
+PC:
+
+SN:
 
 NN:
 
 <div style=\"page-break-after: always\"></div>
 
+© ESTEVE (2026) INTERNAL USE
+
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
-|------------------------------------------------------|
-| BLISTER                                              |
+| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
+|-----------------------------------------------------|
+| BLISTER                                             |
 
 | 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
 |------|------------------------------|
 
 Caprelsa 100 mg tablets vandetanib
 
-| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
-|------|------------------------------------------|
+| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
+|------|-------------------------------------------|
 
-Sanofi B.V.
+Esteve Pharmaceuticals S.A.
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -851,6 +909,8 @@ Lot
 
 28
 
+© ESTEVE (2026) INTERNAL USE
+
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
 CARTON
@@ -863,7 +923,7 @@ Caprelsa 300 mg film-coated tablets vandetanib
 
 Each tablet contains 300 mg vandetanib.
 
-## 3. LIST OF EXCIPIENTS
+3. LIST OF EXCIPIENTS
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -893,9 +953,11 @@ Do not store above 30°C.
 
 <div style=\"page-break-after: always\"></div>
 
+© ESTEVE (2026) INTERNAL USE
+
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Sanofi B.V., Paasheuvelweg 25 1105 BP Amsterdam The Netherlands
+Esteve Pharmaceuticals S.A. Passeig de la Zona Franca 109 Planta 4 08038 Barcelona Spain
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -921,27 +983,31 @@ Caprelsa 300 mg
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC: SN:
+PC:
+
+SN:
 
 NN:
 
 <div style=\"page-break-after: always\"></div>
 
+© ESTEVE (2026) INTERNAL USE
+
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
-|------------------------------------------------------|
-| BLISTER                                              |
+| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
+|-----------------------------------------------------|
+| BLISTER                                             |
 
 | 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
 |------|------------------------------|
 
 Caprelsa 300 mg tablets vandetanib
 
-| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
-|------|------------------------------------------|
+| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
+|------|-------------------------------------------|
 
-Sanofi B.V.
+Esteve Pharmaceuticals S.A.
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -958,13 +1024,17 @@ Lot
 
 31
 
+© ESTEVE (2026) INTERNAL USE
+
 <div style=\"page-break-after: always\"></div>
+
+© ESTEVE (2026) INTERNAL USE
 
 ## B. PACKAGE LEAFLET
 
 <div style=\"page-break-after: always\"></div>
 
-## Package leaflet: Information for the patient Caprelsa 100 mg film-coated tablets Caprelsa 300 mg film-coated tablets
+## Package leaflet: Information for the patient Caprelsa 100 mg film-coated tablets Caprelsa 3 00 mg film-coated tablets
 
 vandetanib
 
@@ -1005,6 +1075,8 @@ Caprelsa works by slowing down the growth of new blood vessels in tumours (cance
 - -if you are taking any of the following medicines: arsenic, cisapride (used to treat heartburn), erythromycin intravenous and moxifloxacin (used to treat infection), toremifene (used to treat breast cancer), mizolastine (used to treat allergies), Class IA and III antiarrhythmics (used to control heart rhythm).
 
 Do not take Caprelsa if any of the above applies to you. If you are not sure, talk to your doctor.
+
+© ESTEVE (2026) INTERNAL USE
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1053,11 +1125,13 @@ Tell your doctor or pharmacist if you are taking any of the following medicines:
 - methadone (used to treat addiction), haloperidol, chlorpromazine, sulpiride, amisulpride, and zuclopenthixol, (used to treat mental illness)
 - pentamidine (used to treat infection)
 - vitamin K antagonists and dabigatran often referred to as 'blood thinners'
-- cyclosporine and tacrolimus (used to treat transplant rejection), digoxin (used to treat irregular heart rate), and metformin (used to control your blood sugar)
+
+© ESTEVE (2026) INTERNAL USE
 
 <div style=\"page-break-after: always\"></div>
 
-## · proton pump inhibitors (used to treat heartburn)
+- cyclosporine and tacrolimus (used to treat transplant rejection), digoxin (used to treat irregular heart rate), and metformin (used to control your blood sugar)
+- proton pump inhibitors (used to treat heartburn)
 
 You will also find this information in the Patient Alert Card you have been given by your doctor. It is important that you keep this Alert Card and show it to your partner or caregivers.
 
@@ -1108,9 +1182,11 @@ If you take more Caprelsa than you have been prescribed, talk to a doctor or go 
 
 ## If you forget to take Caprelsa
 
-What to do if you forget to take a tablet depends on how long it is until your next dose.
+© ESTEVE (2026) INTERNAL USE
 
 <div style=\"page-break-after: always\"></div>
+
+What to do if you forget to take a tablet depends on how long it is until your next dose.
 
 - If it is 12 hours or more until your next dose : Take the missed tablet as soon as you remember. Then take the next dose at the normal time.
 - If it is less than 12 hours until your next dose : Skip the missed dose. Then take the next dose at the normal time.
@@ -1153,10 +1229,12 @@ Tell your doctor straight away if you notice any of the side effects above.
 - Fatigue.
 - Trouble sleeping (insomnia).
 - Inflammation of the nasal passages.
-- Inflammation of the main air passages to the lungs.
+
+© ESTEVE (2026) INTERNAL USE
 
 <div style=\"page-break-after: always\"></div>
 
+- Inflammation of the main air passages to the lungs.
 - Upper respiratory tract infections.
 - Urinary tract infections.
 - Numbness or tingling of the skin.
@@ -1209,10 +1287,12 @@ Tell your doctor straight away if you notice any of the side effects above.
 - Nose bleed (epistaxis).
 - Dry eye.
 - An irritation of the eyes (conjunctivitis).
-- Visual impairment.
+
+© ESTEVE (2026) INTERNAL USE
 
 <div style=\"page-break-after: always\"></div>
 
+- Visual impairment.
 - Halo vision.
 - Seeing flashes of light (photopsia).
 - Disorder of the cornea of the eye (keratopathy).
@@ -1262,10 +1342,12 @@ Tell your doctor straight away if you notice any of the side effects above.
 - Decreased levels of potassium in your blood.
 - Increased levels of calcium in your blood.
 - Increased levels of glucose in your blood.
-- Decreased levels of sodium in your blood.
+
+© ESTEVE (2026) INTERNAL USE
 
 <div style=\"page-break-after: always\"></div>
 
+- Decreased levels of sodium in your blood.
 - Decrease in thyroid function.
 - Increased levels of red cells in your blood.
 
@@ -1300,149 +1382,143 @@ Caprelsa comes in blister packs of 30 tablets.
 
 ## Marketing Authorisation Holder
 
-Sanofi B.V. Paasheuvelweg 25 1105 BP Amsterdam The Netherlands
+Esteve Pharmaceuticals S.A. Passeig de la Zona Franca 109 Planta 4 08038 Barcelona Spain
 
 ## Manufacturer
 
 Genzyme Ireland Ltd., IDA Industrial Park, Old Kilmeaden Road, Waterford, Ireland
 
-Sanofi Winthrop Industrie, 30-36 avenue Gustave Eiffel, 37100 Tours, France
+## Sanofi Winthrop Industrie, 30-36 avenue Gustave Eiffel, 37100 Tours, France
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-België/Belgique/Belgien/ Luxembourg/Luxemburg
-
-Magyarország SANOFI-AVENTIS Zrt.
-
-Sanofi Belgium
-
-Tél/Tel: + 32 (0)2 710 54 00
+© ESTEVE (2026) INTERNAL USE
 
 <div style=\"page-break-after: always\"></div>
+
+## België/Belgique/Belgien
+
+[Esteve Pharmaceuticals BV/SRL adgadegroote@external.esteve.com](mailto:adgadegroote@external.esteve.com)
 
 ## България
 
-Swixx Biopharma EOOD Tел: +359 (0)2 4942 480
+Esteve Pharmaceuticals S.A.
+
+Τeл
+
+: +34 93 446 60 00
 
 ## Česká republika
 
-Sanofi s.r.o. Tel: +420 233 086 111
+Esteve Pharmaceuticals S.A. Τel: +34 93 446 60 00
 
 ## Danmark
 
-Sanofi A/S
-
-Tlf: +45 45 16 70 00
+Esteve Pharmaceuticals S.A. Τlf: +34 93 446 60 00
 
 ## Deutschland
 
-Sanofi-Aventis Deutschland GmbH Tel.: 0800 52 52 010
-
-Tel. aus dem Ausland: +49 69 305 21 131
+Esteve Pharmaceuticals GmbH Tel.: +49 30 338427-0
 
 ## Eesti
 
-Swixx Biopharma OÜ Tel. +372 640 10 30
+Esteve Pharmaceuticals S.A. Τel: +34 93 446 60 00
 
 ## Ελλάδα
 
-Sanofi-Aventis Μονοπρόσωπη AEBE Τηλ: +30 210 900 16 00
+Esteve Pharmaceuticals S.A. Τηλ.: +34 93 446 60 00
 
 ## España
 
-sanofi-aventis, S.A. Tel: +34 93 485 94 00
+Esteve Pharmaceuticals S.A. Tel: +34 93 446 60 00
 
 ## France
 
-Sanofi Winthrop Industrie Tél: 0 800 222 555 Appel depuis l'étranger: +33 1 57 63 23 23
+Esteve Pharmaceuticals S.A.S Tél: +33 1 42 31 07 10
 
 ## Hrvatska
 
-Swixx Biopharma d.o.o. Tel: +385 1 2078 500
+Esteve Pharmaceuticals S.A. Τlf: +34 93 446 60 00
 
 ## Ireland
 
-sanofi-aventis Ireland Ltd. T/A SANOFI Tel: +353 (0) 1 403 56 00
+Esteve Pharmaceuticals S.A. Τel: +34 93 446 60 00
 
 ## Ísland
 
-Vistor hf. Sími: +354 535 7000
+Esteve Pharmaceuticals S.A. Sími: +34 93 446 60 00
 
 ## Italia
 
-Sanofi S.r.l. Tel: + 800 536 389
+Esteve Pharmaceuticals SRL Tel: +39 345 9214959
 
-## Κύπρος
-
-C.A. Papaellinas Ltd.
-
-Tel: +36 1 505 0050
-
-## Malta
-
-Sanofi S.r.l.
-
-Tel: +39 02 39394275
-
-## Nederland
-
-Sanofi B.V. Tel: +31 20 245 4000
-
-## Norge
-
-sanofi-aventis Norge AS
-
-Tlf: + 47 67 10 71 00
-
-## Österreich
-
-sanofi-aventis GmbH
-
-Tel: + 43 1 80 185 - 0
-
-## Polska
-
-Sanofi Sp. z o.o. Tel.: +48 22 280 00 00
-
-## Portugal
-
-Sanofi - Produtos Farmacêuticos, Lda. Tel: +351 21 35 89 400
-
-## România
-
-Sanofi Romania SRL Tel: +40 (0) 21 317 31 36
-
-## Slovenija
-
-Swixx Biopharma d.o.o. Tel: +386 1 235 51 00
-
-## Slovenská republika
-
-Swixx Biopharma s.r.o. Tel.: +421 2 208 33 600
-
-## Suomi/Finland
-
-Sanofi Oy
-
-Puh/Tel: + 358 (0) 201 200 300
-
-## Sverige
-
-Sanofi AB Tel: +46 (0)8 634 50 00
-
-Τηλ: +357 22 741741
-
-<div style=\"page-break-after: always\"></div>
-
-## Latvija
-
-Swixx Biopharma SIA
-
-Tel: +371 6 616 47 50
+© ESTEVE (2026) INTERNAL USE
 
 ## Lietuva
 
-Swixx Biopharma UAB Tel. +370 5 236 91 40
+Esteve Pharmaceuticals S.A. Τel: +34 93 446 60 00
+
+Luxembourg/Luxemburg Esteve Pharmaceuticals BV/SRL adgadegroote@external.esteve.com
+
+## Magyarország
+
+Esteve Pharmaceuticals S.A. Τel: +34 93 446 60 00
+
+## Malta
+
+Esteve Pharmaceuticals S.A. Τel: +34 93 446 60 00
+
+## Nederland
+
+Esteve Pharmaceuticals S.A. Τel: +34 93 446 60 00
+
+## Norge
+
+Esteve Pharmaceuticals S.A. Τlf: +34 93 446 60 00
+
+## Österreich
+
+Esteve Pharmaceuticals GmbH Tel.: 0800560044
+
+## Polska
+
+Esteve Pharmaceuticals S.A. Τlf: +34 93 446 60 00
+
+## Portugal
+
+Esteve Pharmaceuticals - Laboratório Farmacêutico Lda.
+
+Tel: +351 91 422 4766
+
+## România
+
+Esteve Pharmaceuticals S.A. Tel: +34 93 446 60 00
+
+## Slovenija
+
+Esteve Pharmaceuticals S.A. Tel: +34 93 446 60 00
+
+## Slovenská republika
+
+Esteve Pharmaceuticals S.A. Τlf: +34 93 446 60 00
+
+## Suomi/Finland
+
+Esteve Pharmaceuticals S.A. Puh/Tel: +34 93 446 60 00
+
+<div style=\"page-break-after: always\"></div>
+
+## Κύπρος
+
+Esteve Pharmaceuticals S.A.
+
+Τel: +34 93 446 60 00
+
+## Latvija
+
+Esteve Pharmaceuticals S.A.
+
+Τel: +34 93 446 60 00
 
 ## This leaflet was last revised in
 
@@ -1450,6 +1526,6 @@ Swixx Biopharma UAB Tel. +370 5 236 91 40
 
 Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu
 
-United Kingdom (Northern Ireland) sanofi-aventis Ireland Ltd. T/A SANOFI
+© ESTEVE (2026) INTERNAL USE
 
-Tel: +44 (0) 800 035 2525
+Sverige Esteve Pharmaceuticals S.A. Τel: +34 93 446 60 00

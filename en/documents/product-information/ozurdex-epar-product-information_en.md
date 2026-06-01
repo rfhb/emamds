@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-10-24 14:00:43
+document_datetime: 2026-05-29 12:59:41
 document_pages: 39
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/ozurdex-epar-product-information_en.pdf
 document_name: ozurdex-epar-product-information_en.pdf
 version: success
-processing_time: 8.9377166
-conversion_datetime: 2025-12-14 21:02:14.789632
+processing_time: 14.7476753
+conversion_datetime: 2026-06-01 17:10:36.004574
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.20.0
+  docling-jobkit: 1.20.1
+  docling: 2.96.1
+  docling-core: 2.78.0
+  docling-ibm-models: 3.13.2
+  docling-parse: 6.2.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -32,7 +32,7 @@ One implant contains 700 micrograms of dexamethasone.
 
 For the full list of excipients, see section 6.1.
 
-## 3. PHARMACEUTICAL form
+## 3. PHARMACEUTICAL FORM
 
 Intravitreal implant in applicator.
 
@@ -111,11 +111,9 @@ The patient should be instructed to self-administer broad spectrum antimicrobial
 
 Perform a detailed visual inspection of the applicator, including ensuring that the actuator button has not been depressed, and the safety tab is in place. Carefully remove the plastic safety cap taking care to avoid contacting the needle tip. Inspect the needle tip for damage prior to use; the implant retention plug may be visible in the bevel and should not be removed. Hold the applicator in one hand and pull the safety tab straight off the applicator. Do not twist or flex the tab.
 
-With the bevel of the needle up away from the sclera, advance the needle about 1 mm into the sclera then redirect toward the centre of the eye into the vitreous cavity until the sleeve is against the conjunctiva. Slowly press the actuator button until an audible and/or palpable click is noted. Before
+With the bevel of the needle up away from the sclera, advance the needle about 1 mm into the sclera then redirect toward the centre of the eye into the vitreous cavity until the sleeve is against the conjunctiva. Slowly press the actuator button until an audible and/or palpable click is noted. Before withdrawing the applicator from the eye, make sure that the actuator button is fully pressed and has locked flush with the applicator surface. Remove the needle in the same direction as used to enter the vitreous.
 
 <div style=\"page-break-after: always\"></div>
-
-withdrawing the applicator from the eye, make sure that the actuator button is fully pressed and has locked flush with the applicator surface. Remove the needle in the same direction as used to enter the vitreous.
 
 For instructions on the administration of the intravitreal implant, see section 6.6
 
@@ -137,7 +135,7 @@ Intravitreous injections, including those with OZURDEX, can be associated with e
 
 Patients must be instructed to report any symptoms suggestive of endophthalmitis or any of the above mentioned events without delay, e.g. eye pain, blurred vision etc. (see section 4.8).
 
-All patients with posterior capsule tear, such as those with a posterior lens (e.g. due to cataract surgery), and/or those who have an iris opening to the vitreous cavity (e.g. due to iridectomy) with or without a history of vitrectomy, are at risk of implant migration into the anterior chamber. Implant migration to the anterior chamber may lead to corneal oedema. Persistent severe corneal oedema could progress to the need for corneal transplantation. Other than those patients contraindicated (see section 4.3) where OZURDEX should not be used, OZURDEX should be used with caution and only following a careful risk benefit assessment. These patients should be closely monitored to allow for early diagnosis and management of device migration.
+All patients with posterior capsule tear, such as those with a posterior lens (e.g. due to cataract surgery), and/or those who have an iris opening to the vitreous cavity (e.g. due to iridectomy) with or without a history of vitrectomy, are at risk of implant migration into the anterior chamber. Implant migration to the anterior chamber may lead to corneal oedema and/or corneal decompensation, which, if persistent, could progress to the need for corneal transplantation. Other than those patients contraindicated (see section 4.3) where OZURDEX should not be used, OZURDEX should be used with caution and only following a careful risk benefit assessment. These patients should be closely monitored to allow for early diagnosis and management of device migration.
 
 Use of corticosteroids, including OZURDEX, may induce cataracts (including posterior subcapsular cataracts), increased IOP, steroid induced glaucoma and may result in secondary ocular infections.
 
@@ -187,7 +185,7 @@ Studies in animals have shown teratogenic effects following topical ophthalmic a
 
 ## Breast-feeding
 
-Dexamethasone is excreted in breast milk No effects on the child are anticipated due to the route of administration and the resulting systemic levels. However OZURDEX is not recommended during breast-feeding unless clearly necessary.
+Dexamethasone is excreted in breast milk. No effects on the child are anticipated due to the route of administration and the resulting systemic levels. However OZURDEX is not recommended during breast-feeding unless clearly necessary.
 
 ## Fertility
 
@@ -215,20 +213,16 @@ Very common (≥ 1/10); common (≥1/100 to &lt;1/10); uncommon (≥1/1 000 to &
 
 <div style=\"page-break-after: always\"></div>
 
-Table 1 Adverse reactions
+Table 1  Adverse reactions
 
-| System organ class                                   | Frequency   | Adverse reaction                                                                                                                                                                                                                                                            |
-|------------------------------------------------------|-------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Nervous system disorders                             | Common      | Headache                                                                                                                                                                                                                                                                    |
-|                                                      | Uncommon    | Migraine                                                                                                                                                                                                                                                                    |
-| Eye disorders                                        | Very common | Intraocular pressure increased**, cataract**, conjunctival haemorrhage*                                                                                                                                                                                                     |
-|                                                      | Common      | Ocular hypertension, cataract subcapsular, vitreous haemorrhage**, visual acuity reduced*, visual impairment/ disturbance, vitreous detachment*, vitreous floaters*, vitreous opacities*, blepharitis, eye pain*, photopsia*, conjunctival oedema* conjunctival hyperaemia* |
-|                                                      | Uncommon    | Necrotizing retinitis, endophthalmitis*, glaucoma, retinal detachment*, retinal tear*, hypotony of the eye*, anterior chamber inflammation*, anterior chamber cells/ flares*, abnormal sensation in eye*, eyelids pruritus, scleral hyperaemia*                             |
-| General disorders and administration site conditions | Uncommon    | Device dislocation* (migration of implant) with or without corneal oedema (see also section 4.4), complication of device insertion resulting in ocular tissue injury* (implant misplacement)                                                                                |
-
-* indicates adverse reactions considered to be related to the intravitreal injection procedure (the frequency of these adverse reactions is proportional to the number of treatments given).
-
-** in a 24-month real world observational study in the treatment of macular oedema following RVO and noninfectious uveitis affecting the posterior segment of the eye these adverse events were reported more frequently among patients who received &gt;2 injections vs patients who received ≤2 injections; cataract formation (24.7% vs 17.7%), cataract progression (32.0% vs 13.1%), vitreous haemorrhage (6.0% vs 2.0%), and increased IOP (24.0% vs 16.6%).
+| System organ class                                   | Frequency   | Adverse reaction                                                                                                                                                                                                                                                           |
+|------------------------------------------------------|-------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Nervous system disorders                             | Common      | Headache                                                                                                                                                                                                                                                                   |
+|                                                      | Uncommon    | Migraine                                                                                                                                                                                                                                                                   |
+| Eye disorders                                        | Very common | Intraocular pressure increased**, cataract**, conjunctival haemorrhage*                                                                                                                                                                                                    |
+|                                                      | Common      | Ocular hypertension, cataract subcapsular, vitreous haemorrhage**, visual acuity reduced*, visual impairment/disturbance, vitreous detachment*, vitreous floaters*, vitreous opacities*, blepharitis, eye pain*, photopsia*, conjunctival oedema* conjunctival hyperaemia* |
+|                                                      | Uncommon    | Necrotizing retinitis, endophthalmitis*, glaucoma, retinal detachment*, retinal tear*, hypotony of the eye*, anterior chamber inflammation*, anterior chamber cells/flares*, abnormal sensation in eye*, eyelids pruritus, scleral hyperaemia*                             |
+| General disorders and administration site conditions | Uncommon    | Device dislocation* (migration of implant) with or without corneal oedema/corneal decompensation (see also section 4.4), complication of device insertion resulting in ocular tissue injury* (implant misplacement)                                                        |
 
 ## Description of selected adverse reactions
 
@@ -242,11 +236,9 @@ In the 3 year DME clinical studies, at baseline, 87% of patients with a phakic s
 
 Mean IOP in the study eye at baseline was the same in both treatment groups (15.3 mmHg). The mean increase from baseline IOP did not exceed 3.2 mmHg across all visits in the OZURDEX group with the mean IOP peaking at the 1.5 month visit post-injection, and returning to approximately baseline levels by month 6 following each injection. The rate and magnitude of IOP elevation following OZURDEX treatment did not increase upon repeated injection of OZURDEX.
 
-28% of patients treated with OZURDEX had a ≥ 10 mm Hg IOP increase from baseline at one or more
+28% of patients treated with OZURDEX had a ≥ 10 mm Hg IOP increase from baseline at one or more visits during the study. At baseline 3% of patients required IOP-lowering medication(s). Overall, 42% of patients required IOP-lowering medications in the study eye at some stage during the 3 year studies, with the majority of these patients requiring more than one medication. Peak usage (33%) occurred during the first 12 months and remained similar from year to year .
 
 <div style=\"page-break-after: always\"></div>
-
-visits during the study. At baseline 3% of patients required IOP-lowering medication(s). Overall, 42% of patients required IOP-lowering medications in the study eye at some stage during the 3 year studies, with the majority of these patients requiring more than one medication. Peak usage (33%) occurred during the first 12 months and remained similar from year to year .
 
 A total of 4 patients (1%) treated with OZURDEX had procedures in the study eye for the treatment of IOP elevation. One patient treated with OZURDEX required incisional surgery (trabeculectomy) to manage the steroid-induced IOP elevation, 1 patient had a trabeculectomy owing to anterior chamber fibrin blocking the aqueous outflow leading to increased IOP, 1 patient had an iridotomy for narrow angle glaucoma and 1 patient had iridectomy due to cataract surgery. No patient required removal of the implant by vitrectomy to control IOP.
 
@@ -304,7 +296,7 @@ The primary and key secondary endpoints for studies 206207-010 and 011 are prese
 
 <div style=\"page-break-after: always\"></div>
 
-Table 2 Efficacy in studies 206207-010 and 206207-011 (ITT population)
+Table 2  Efficacy in studies 206207-010 and 206207-011 (ITT population)
 
 |                                                                                              | Study 206207-010   | Study 206207-010   | Study 206207-011   | Study 206207-011   | Pooled Studies 206207-010 and 206207-011   | Pooled Studies 206207-010 and 206207-011   |
 |----------------------------------------------------------------------------------------------|--------------------|--------------------|--------------------|--------------------|--------------------------------------------|--------------------------------------------|
@@ -320,7 +312,7 @@ Table 2 Efficacy in studies 206207-010 and 206207-011 (ITT population)
 
 The primary and key secondary endpoints for the pooled analysis for pseudophakic patients are presented in Table 3.
 
-Table 3 Efficacy in pseudophakic patients (pooled studies 206207-010 and 206207-011)
+Table 3  Efficacy in pseudophakic patients (pooled studies 206207-010 and 206207-011)
 
 | Endpoint                                                                                     |   DEX 700 N = 86 |   Sham N = 101 | P-value   |
 |----------------------------------------------------------------------------------------------|------------------|----------------|-----------|
@@ -333,14 +325,14 @@ The primary and key secondary endpoints for the pooled analysis for patients wit
 
 <div style=\"page-break-after: always\"></div>
 
-Table 4 Efficacy in patients with any prior treatment (pooled studies 206207-010 and 206207011)
+Table 4  Efficacy in patients with any prior treatment (pooled studies 206207-010 and 206207011)
 
 | Endpoint                                                                                     |   DEX 700 N = 247 |   Sham N = 261 | P-value   |
 |----------------------------------------------------------------------------------------------|-------------------|----------------|-----------|
 | Mean BCVA average change over 3 years, AUC approach (letters)                                |               3.2 |            1.5 | 0.024     |
 | BCVA ≥ 15 letter improvement from baseline at Year 3/Final visit (%)                         |              21.5 |           11.1 | 0.002     |
 | Mean BCVA change from baseline at year 3/Final visit                                         |               2.7 |            0.1 | 0.055     |
-| OCT retinal thickness at center subfield mean average change over 3 years, AUC approach (µm) |            -126.1 |          -39   | < 0.001   |
+| OCT retinal thickness at center subfield mean average change over 3 years, AUC approach (µm) |            -126.1 |          -39.0 | < 0.001   |
 
 ## BRVO/CRVO
 
@@ -350,7 +342,7 @@ Based on the pooled analysis results, treatment with OZURDEX implants showed sta
 
 The proportion of patients achieving the primary efficacy measure of ≥ 15 letter improvement from baseline in BCVA following injection of a single implant is shown in Table 5. A treatment effect was seen at the first observation time point of day 30.  The maximum treatment effect was observed at day 60 and the difference in the incidence of responders was statistically significant favouring OZURDEX compared with sham at all time points to day 90 following injection. There continued to be a numerically greater proportion of responders for a ≥ 15 letter improvement from baseline in BCVA in patients treated with OZURDEX compared with sham at day 180.
 
-Table 5 Proportion of patients with ≥ 15 letters improvement from baseline best corrected visual acuity in the study eye (pooled, ITT population)
+Table 5  Proportion of patients with ≥ 15 letters improvement from baseline best corrected visual acuity in the study eye (pooled, ITT population)
 
 | Visit   | OZURDEX N = 427   | Sham N = 426   |
 |---------|-------------------|----------------|
@@ -393,7 +385,7 @@ The percent of patients requiring escape medications from baseline to week 8 was
 
 <div style=\"page-break-after: always\"></div>
 
-Table 6 Proportion of patients with vitreous haze score of zero and ≥ 15 letters improvement from baseline best corrected visual acuity in the study eye (ITT population)
+Table 6   Proportion of patients with vitreous haze score of zero and ≥ 15 letters improvement from baseline best corrected visual acuity in the study eye (ITT population)
 
 | Visit   | Vitreous Haze Score of Zero   | Vitreous Haze Score of Zero   | BCVA improvement from baseline of ≥15 letters   | BCVA improvement from baseline of ≥15 letters   |
 |---------|-------------------------------|-------------------------------|-------------------------------------------------|-------------------------------------------------|
@@ -428,7 +420,7 @@ The OZURDEX matrix slowly degrades to lactic acid and glycolic acid through simp
 
 <div style=\"page-break-after: always\"></div>
 
-## 5.3 Pharmacokinetic properties
+## 5.3 Preclinical safety data
 
 Effects in non-clinical studies were observed only at doses considered sufficiently in excess of the maximum dose for human indicating little relevance to clinical use.
 
@@ -460,7 +452,7 @@ Each pack contains:
 
 One sustained release sterile implantable rod-shaped implant containing 700 micrograms of dexamethasone, located in the needle (stainless steel) of a disposable applicator.
 
-The applicator consists of a plunger (stainless steel) within a needle where the implant is held in place by a hypromellose implant retention system. The plunger is controlled by a lever on the side  of the applicator body. The needle is protected by a cap and the lever by a safety tab.
+The applicator consists of a plunger (stainless steel) within a needle where the implant is held in place by a hypromellose implant retention system. The plunger is controlled by a lever on the side of the applicator body. The needle is protected by a cap and the lever by a safety tab.
 
 The applicator containing the implant is packaged in a sealed foil pouch containing desiccant. The pouch is packaged in a thermoform tray with lid, which is packaged in a carton box.
 
@@ -495,41 +487,29 @@ If the seal of the foil pouch containing the applicator is damaged, the applicat
 
 <div style=\"page-break-after: always\"></div>
 
-Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
+Any unused medicinal product or waste material should be disposed of in accordance with local
+
+requirements.
 
 7.
 
 MARKETING AUTHORISATION HOLDER
 
-AbbVie Deutschland GmbH &amp; Co. KG
+AbbVie Deutschland GmbH &amp; Co. KG Knollstrasse 67061 Ludwigshafen Germany
 
-Knollstrasse
-
-67061 Ludwigshafen
-
-Germany
-
-8.
-
-MARKETING AUTHORISATION NUMBER(S)
+## 8. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/10/638/001
 
-9.
-
-DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
+## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
 Date of first authorisation: 27 July 2010
 
 Date of latest renewal: 23 March 2015
 
-10.
+## 10. DATE OF REVISION OF THE TEXT
 
-DATE OF REVISION OF THE TEXT
-
-Detailed information on this medicinal product is available on the website of the European Medicines
-
-Agency http://www.ema.europa.eu/.
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu/.
 
 16
 
@@ -558,20 +538,20 @@ Medicinal product subject to restricted medical prescription (See Annex I: Summa
 
 ## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
-## · Periodic Safety Update Reports
+## · Periodic Safety Update Reports (PSURs)
 
-The marketing authorisation holder shall submit periodic safety update reports for this product in accordance with the requirements set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and published on the European medicines web-portal.
+The marketing authorisation holder (MAH) shall submit periodic safety update reports for this product in accordance with the requirements set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and published on the European medicines webportal.
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
-## Risk Management Plan (RMP)
+## · Risk Management Plan (RMP)
 
 The MAH shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the Marketing Authorisation and any agreed subsequent updates of the RMP.
 
 An updated RMP should be submitted:
 
-- At the request of the European Medicines Agency
-- Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit:risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached
+- At the request of the European Medicines Agency;
+- Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit:risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 
 If the dates for submission of a PSUR and the update of the RMP coincide, they can be submitted at the same time.
 
@@ -651,13 +631,15 @@ EXP
 
 Once pouch opened, use applicator immediately.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 9. SPECIAL STORAGE CONDITIONS
 
-| 10.                                                                     | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS           |
-|-------------------------------------------------------------------------|-------------------------------------------------------------------------|
-| OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE | OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE |
+10.
+
+SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS
+
+OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF
+
+APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -671,7 +653,8 @@ EU/1/10/638/001
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
+
 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
@@ -686,29 +669,31 @@ Justification for not including Braille accepted
 
 PC SN
 
+<div style=\"page-break-after: always\"></div>
+
 NN
 
 <div style=\"page-break-after: always\"></div>
 
-MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
+| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATEPACKAGING   |
+|-----------------------------------------------------------|
+| APPLICATOR LABEL                                          |
 
-APPLICATOR LABEL
-
-| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|----------------------------------------------------------------|
+| 1.   | NAMEOF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|---------------------------------------------------------------|
 
 OZURDEX 700 micrograms intravitreal implant in applicator dexamethasone Intravitreal use
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHODOF ADMINISTRATION   |
+|------|---------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
 
 EXP
 
-| 4.   | BATCHNUMBER   |
-|------|---------------|
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
@@ -726,11 +711,13 @@ AbbVie (as logo)
 
 ## B. PACKAGE LEAFLET
 
-<div style=\"page-break-after: always\"></div>
-
 ## Package leaflet: information for the patient
 
-## OZURDEX 700 micrograms intravitreal implant in applicator dexamethasone
+<div style=\"page-break-after: always\"></div>
+
+## OZURDEX 700 micrograms intravitreal implant in applicator
+
+## dexamethasone
 
 ## Read all of this leaflet carefully before you are given this medicine because it contains important information for you.
 
@@ -792,7 +779,7 @@ The implant can move from the back to the front of the eye in patients with a te
 
 The injection of OZURDEX into both eyes at the same time has not been studied and is not recommended. Your doctor should not inject OZURDEX into both eyes at the same time.
 
-## Children and adolescent
+## Children and adolescents
 
 The use of OZURDEX in children and adolescents has not been studied and is therefore not recommended.
 
@@ -802,11 +789,9 @@ Tell your doctor if you are taking or have recently taken any other medicines, i
 
 ## Pregnancy and breast-feeding
 
-There is no experience of using OZURDEX in pregnant women or during breast-feeding. OZURDEX should not be used during pregnancy or breast-feeding unless your doctor thinks it is clearly necessary. If you are pregnant or breast-feeding, think you may be pregnant or are planning to have a baby,
+There is no experience of using OZURDEX in pregnant women or during breast-feeding. OZURDEX should not be used during pregnancy or breast-feeding unless your doctor thinks it is clearly necessary. If you are pregnant or breast-feeding, think you may be pregnant or are planning to have a baby, discuss this with your doctor before OZURDEX treatment. Ask your doctor for advice before taking any medicine.
 
 <div style=\"page-break-after: always\"></div>
-
-discuss this with your doctor before OZURDEX treatment. Ask your doctor for advice before taking any medicine.
 
 ## Driving and using machines
 
@@ -850,10 +835,10 @@ Common (may affect up to 1 in 10 people):
 - a feeling of looking through mist or fog*
 - inflammation of the eyelid
 - eye pain*
+- seeing flashes of light*
 
 <div style=\"page-break-after: always\"></div>
 
-- seeing flashes of light*
 - swelling of the layer over the white part of the eye*
 - redness of the eye*
 - headache
@@ -871,7 +856,7 @@ Uncommon (may affect up to 1 in 100 people):
 - abnormal feeling in the eye *
 - itchiness of the eyelid
 - redness of the white of the eye*
-- migration of the OZURDEX implant from the back to the front of the eye causing blurred or decreased vision and which may or may not cause swelling of the clear part of the eye (cornea)*
+- migration of the OZURDEX implant from the back to the front of the eye causing blurred or decreased vision and which may or may not cause swelling/damage of the clear part of the eye (cornea)*
 - accidental incorrect placement of the OZURDEX implant*
 - migraine
 
@@ -897,7 +882,7 @@ Medicines should not be disposed of via wastewater or household waste. Ask your 
 
 - -The active substance is dexamethasone.
 - -Each implant contains 700 micrograms of dexamethasone.
-- -The other ingredients are: Ester terminated 50:50 poly D,L-lactide-co-glycolide and Acid terminated 50:50 poly D,L-lactide-co-glycolide, and hypromellose.
+- -The other ingredients are: Ester terminated 50:50 poly D,L-lactide-co-glycolide, Acid terminated 50:50 poly D,L-lactide-co-glycolide, and hypromellose.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -957,9 +942,7 @@ Tlf.: +45 72 30 20 28
 
 ## Malta
 
-Vivian Corporation Ltd.
-
-Tel: +356 27780331
+Vivian Corporation Ltd. Tel: +356 27780331
 
 ## Deutschland
 
@@ -1033,7 +1016,7 @@ Tel: +353 (0)1 4287900
 
 ## Ísland
 
-Vistor hf.
+Vistor
 
 Sími: +354 535 7000
 
@@ -1057,7 +1040,7 @@ Tel: +371 67605000
 
 ## This leaflet was last revised in
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu/.
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu/.
 
 To listen to or request a copy of this leaflet in &lt;Braille&gt;, &lt;large print&gt; or &lt;audio&gt;, please contact the local representative of the Marketing Authorisation Holder.
 
@@ -1173,15 +1156,13 @@ Intravitreous injections, including those with OZURDEX, can be associated with e
 
 Patients must be instructed to report any symptoms suggestive of endophthalmitis or any of the above mentioned events without delay, e.g. eye pain, blurred vision etc. (see SmPC section 4.8).
 
-All patients with posterior capsule tear, such as those with a posterior lens (e.g. due to cataract surgery), and/or those who have an iris opening to the vitreous cavity (e.g. due to iridectomy) with or without a history of vitrectomy, are at risk of implant migration into the anterior chamber. Implant migration to the anterior chamber may lead to corneal oedema. Persistent severe corneal oedema could progress to the need for corneal transplantation. Other than those patients contraindicated (see SmPC section 4.3) where OZURDEX should not be used, OZURDEX should be used with caution and only following a careful risk benefit assessment. These patients should be closely monitored to allow for early diagnosis and management of device migration.
+All patients with posterior capsule tear, such as those with a posterior lens (e.g. due to cataract surgery), and/or those who have an iris opening to the vitreous cavity (e.g. due to iridectomy) with or without a history of vitrectomy, are at risk of implant migration into the anterior chamber. Implant migration to the anterior chamber may lead to corneal oedema and/or corneal decompensation, which, if persistent, could progress to the need for corneal transplantation. Other than those patients contraindicated (see SmPC section 4.3) where OZURDEX should not be used, OZURDEX should be used with caution and only following a careful risk benefit assessment. These patients should be closely monitored to allow for early diagnosis and management of device migration.
 
 <div style=\"page-break-after: always\"></div>
 
 Use of corticosteroids, including OZURDEX, may induce cataracts (including posterior subcapsular cataracts), increased IOP, steroid induced glaucoma and may result in secondary ocular infections.
 
 In the 3 year DME clinical studies, 59% of patients with a phakic study eye treated with OZURDEX underwent cataract surgery in the study eye (see SmPC section 4.8).
-
--
 
 After the first injection the incidence of cataract appears higher in patients with non-infectious uveitis of the posterior segment compared with BRVO/CRVO patients. In BRVO/CRVO clinical studies, cataract was reported more frequently in patients with phakic lens receiving a second injection (see SmPC section 4.8). Only 1 patient out of 368 required cataract surgery during the first treatment and 3 patients out of 302 during the second treatment. In the non-infectious uveitis study, 1 patient out of the 62 phakic patients underwent cataract surgery after a single injection.
 
@@ -1249,24 +1230,22 @@ The adverse reactions considered related to OZURDEX treatment from the Phase III
 
 Very common (≥ 1/10); common (≥1/100 to &lt;1/10); uncommon (≥1/1 000 to &lt;1/100); rare (≥1/10 000 to &lt;1/1 000); very rare (&lt;1/10 000). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
-Table 1 Adverse reactions
+Table 1  Adverse reactions
 
-| System organ class                                   | Frequency   | Adverse reaction                                                                                                                                                                                                                                                            |
-|------------------------------------------------------|-------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Nervous system disorders                             | Common      | Headache                                                                                                                                                                                                                                                                    |
-|                                                      | Uncommon    | Migraine                                                                                                                                                                                                                                                                    |
-| Eye disorders                                        | Very common | Intraocular pressure increased**, cataract**, conjunctival haemorrhage*                                                                                                                                                                                                     |
-|                                                      | Common      | Ocular hypertension, cataract subcapsular, vitreous haemorrhage**, visual acuity reduced*, visual impairment/ disturbance, vitreous detachment*, vitreous floaters*, vitreous opacities*, blepharitis, eye pain*, photopsia*, conjunctival oedema* conjunctival hyperaemia* |
-|                                                      | Uncommon    | Necrotizing retinitis, endophthalmitis*, glaucoma, retinal detachment*, retinal tear*, hypotony of the eye*, anterior chamber inflammation*, anterior chamber cells/ flares*, abnormal sensation in eye*, eyelids pruritus, scleral hyperaemia*                             |
-| General disorders and administration site conditions | Uncommon    | Device dislocation* (migration of implant) with or without corneal oedema (see also section 4.4), complication of device insertion resulting in ocular tissue injury* (implant misplacement)                                                                                |
-
-* indicates adverse reactions considered to be related to the intravitreal injection procedure (the frequency of these adverse reactions is proportional to the number of treatments given).
+| System organ class                                   | Frequency   | Adverse reaction                                                                                                                                                                                                                                                           |
+|------------------------------------------------------|-------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Nervous system disorders                             | Common      | Headache                                                                                                                                                                                                                                                                   |
+|                                                      | Uncommon    | Migraine                                                                                                                                                                                                                                                                   |
+| Eye disorders                                        | Very common | Intraocular pressure increased**, cataract**, conjunctival haemorrhage*                                                                                                                                                                                                    |
+|                                                      | Common      | Ocular hypertension, cataract subcapsular, vitreous haemorrhage**, visual acuity reduced*, visual impairment/disturbance, vitreous detachment*, vitreous floaters*, vitreous opacities*, blepharitis, eye pain*, photopsia*, conjunctival oedema* conjunctival hyperaemia* |
+|                                                      | Uncommon    | Necrotizing retinitis, endophthalmitis*, glaucoma, retinal detachment*, retinal tear*, hypotony of the eye*, anterior chamber inflammation*, anterior chamber cells/flares*, abnormal sensation in eye*, eyelids pruritus, scleral hyperaemia*                             |
+| General disorders and administration site conditions | Uncommon    | Device dislocation* (migration of implant) with or without corneal oedema/corneal decompensation (see also section 4.4), complication of device insertion resulting in ocular tissue injury* (implant misplacement)                                                        |
 
 ** in a 24-month real world observational study in the treatment of macular oedema following RVO and noninfectious uveitis affecting the posterior segment of the eye these adverse events were reported more frequently among patients who received &gt;2 injections vs patients who received ≤2 injections; cataract formation (24.7% vs 17.7%), cataract progression (32.0% vs 13.1%), vitreous haemorrhage (6.0% vs 2.0%), and increased IOP (24.0% vs 16.6%).
 
 ## Description of selected adverse reactions
 
-Diabetic Macular Oedema
+## Diabetic Macular Oedema
 
 The clinical safety of OZURDEX in patients with diabetic macular oedema was assessed in two phase 3 randomized, double-masked, sham-controlled studies. In both studies, a total of 347 patients were randomized and received OZURDEX and 350 patients received sham.
 
@@ -1274,11 +1253,9 @@ The most frequently reported adverse reactions across the entire study period in
 
 In the 3 year DME clinical studies, at baseline, 87% of patients with a phakic study eye treated with OZURDEX had some degree of lens opacification/ early cataract. The incidence of all observed cataract types (i.e. cataract cortical, cataract diabetic, cataract nuclear, cataract subcapsular, cataract lenticular, cataract) was 68% in OZURDEX treated patients with a phakic study eye across the 3 year studies. 59% of patients with a phakic study eye required cataract surgery by the 3 year final visit, with the majority performed in the 2 nd and 3 rd years.
 
-Mean IOP in the study eye at baseline was the same in both treatment groups (15.3 mmHg). The mean increase from baseline IOP did not exceed 3.2 mmHg across all visits in the OZURDEX group with the mean IOP peaking at the 1.5 month visit post-injection, and returning to approximately baseline
+Mean IOP in the study eye at baseline was the same in both treatment groups (15.3 mmHg). The mean increase from baseline IOP did not exceed 3.2 mmHg across all visits in the OZURDEX group with the mean IOP peaking at the 1.5 month visit post-injection, and returning to approximately baseline levels by month 6 following each injection. The rate and magnitude of IOP elevation following OZURDEX treatment did not increase upon repeated injection of OZURDEX.
 
 <div style=\"page-break-after: always\"></div>
-
-levels by month 6 following each injection. The rate and magnitude of IOP elevation following OZURDEX treatment did not increase upon repeated injection of OZURDEX.
 
 28% of patients treated with OZURDEX had a ≥ 10 mm Hg IOP increase from baseline at one or more visits during the study. At baseline 3% of patients required IOP-lowering medication(s). Overall, 42% of patients required IOP-lowering medications in the study eye at some stage during the 3 year studies, with the majority of these patients requiring more than one medication. Peak usage (33%) occurred during the first 12 months and remained similar from year to year .
 
@@ -1304,13 +1281,11 @@ A total of 77 patients were randomised to receive OZURDEX and 76 to receive Sham
 
 The most frequently reported adverse reactions in the study eye of patients who received OZURDEX were conjunctival haemorrhage (30.3%), increased intraocular pressure (25.0%) and cataract (11.8%).
 
-## Reporting of suspected adverse reactions
-
-Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare
-
 <div style=\"page-break-after: always\"></div>
 
-professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
+## Reporting of suspected adverse reactions
+
+Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
 ## 4.9 Overdose
 
@@ -1332,23 +1307,18 @@ This medicinal product does not require any special storage conditions.
 
 ## 6.6 Special precautions for disposal and other handling
 
-OZURDEX is for single use only.
+## OZURDEX is for single use only.
 
 Each applicator can only be used for the treatment of a single eye.
 
 If the seal of the foil pouch containing the applicator is damaged, the applicator must not be used. Once the foil pouch is opened the applicator should be used immediately.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Administering OZURDEX
 
 - 1) Hold the long axis of the applicator parallel to the limbus.
 - 2) Allow the applicator to meet the sclera at an oblique angle with the bevel of the needle facing up, away from the sclera. Push the tip about 1 mm into the sclera, keeping it parallel to the limbus.
-
-<!-- image -->
-
-<!-- image -->
-
-<div style=\"page-break-after: always\"></div>
-
 - 3) Redirect towards the centre of the eye into the vitreous cavity. This will create a shelved scleral path. Advance the needle until you enter the vitreous cavity. Do not advance the needle past the point where the sleeve of the applicator touches the conjunctiva.
 - 4) Depress the actuator button slowly until you hear and/or feel a click. Before withdrawing the applicator from the eye, make sure that the actuator button is fully depressed and has locked flush with the applicator surface.
 - 5) Withdraw the applicator in the same direction that you used to enter the vitreous.
@@ -1357,6 +1327,10 @@ If the seal of the foil pouch containing the applicator is damaged, the applicat
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
 ## This leaflet was last revised in
+
+<!-- image -->
+
+<!-- image -->
 
 <!-- image -->
 

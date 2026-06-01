@@ -1,32 +1,32 @@
 ---
-document_datetime: 2025-12-29 11:46:36
+document_datetime: 2026-05-29 14:55:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/ozurdex.html
 document_name: ozurdex.html
 version: success
-processing_time: 0.1218805
-conversion_datetime: 2025-12-30 01:13:33.265263
+processing_time: 0.2851085
+conversion_datetime: 2026-06-01 16:57:59.252764
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.20.0
+  docling-jobkit: 1.20.1
+  docling: 2.96.1
+  docling-core: 2.78.0
+  docling-ibm-models: 3.13.2
+  docling-parse: 6.2.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
 ---
 # Ozurdex
 
 [RSS](/en/individual-human-medicine.xml/66225)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-dexamethasone Medicine Human Authorised
+dexamethasone
 
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
+Medicine Human Authorised
 
 Page contents
 
@@ -124,275 +124,141 @@ Reference Number: EMA/545304/2019
 
 English (EN) (92.07 KB - PDF)
 
-**First published:** 05/08/2010
-
-**Last updated:** 26/11/2019
+**First published:** 05/08/2010 **Last updated:** 26/11/2019
 
 [View](/en/documents/overview/ozurdex-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-59)
+[Other languages (22)](#file-language-dropdown-541)
 
 български (BG) (118.31 KB - PDF)
 
-**First published:**
-
-05/08/2010
-
-**Last updated:**
-
-26/11/2019
+**First published:** 05/08/2010 **Last updated:** 26/11/2019
 
 [View](/bg/documents/overview/ozurdex-epar-medicine-overview_bg.pdf)
 
 español (ES) (91.14 KB - PDF)
 
-**First published:**
-
-05/08/2010
-
-**Last updated:**
-
-26/11/2019
+**First published:** 05/08/2010 **Last updated:** 26/11/2019
 
 [View](/es/documents/overview/ozurdex-epar-medicine-overview_es.pdf)
 
 čeština (CS) (117.25 KB - PDF)
 
-**First published:**
-
-05/08/2010
-
-**Last updated:**
-
-26/11/2019
+**First published:** 05/08/2010 **Last updated:** 26/11/2019
 
 [View](/cs/documents/overview/ozurdex-epar-medicine-overview_cs.pdf)
 
 dansk (DA) (88.37 KB - PDF)
 
-**First published:**
-
-05/08/2010
-
-**Last updated:**
-
-26/11/2019
+**First published:** 05/08/2010 **Last updated:** 26/11/2019
 
 [View](/da/documents/overview/ozurdex-epar-medicine-overview_da.pdf)
 
 Deutsch (DE) (91.82 KB - PDF)
 
-**First published:**
-
-05/08/2010
-
-**Last updated:**
-
-26/11/2019
+**First published:** 05/08/2010 **Last updated:** 26/11/2019
 
 [View](/de/documents/overview/ozurdex-epar-medicine-overview_de.pdf)
 
 eesti keel (ET) (88.45 KB - PDF)
 
-**First published:**
-
-05/08/2010
-
-**Last updated:**
-
-26/11/2019
+**First published:** 05/08/2010 **Last updated:** 26/11/2019
 
 [View](/et/documents/overview/ozurdex-epar-medicine-overview_et.pdf)
 
 ελληνικά (EL) (128.22 KB - PDF)
 
-**First published:**
-
-05/08/2010
-
-**Last updated:**
-
-26/11/2019
+**First published:** 05/08/2010 **Last updated:** 26/11/2019
 
 [View](/el/documents/overview/ozurdex-epar-medicine-overview_el.pdf)
 
 français (FR) (92.06 KB - PDF)
 
-**First published:**
-
-05/08/2010
-
-**Last updated:**
-
-26/11/2019
+**First published:** 05/08/2010 **Last updated:** 26/11/2019
 
 [View](/fr/documents/overview/ozurdex-epar-medicine-overview_fr.pdf)
 
 hrvatski (HR) (113.97 KB - PDF)
 
-**First published:**
-
-05/08/2010
-
-**Last updated:**
-
-26/11/2019
+**First published:** 05/08/2010 **Last updated:** 26/11/2019
 
 [View](/hr/documents/overview/ozurdex-epar-medicine-overview_hr.pdf)
 
 italiano (IT) (88.93 KB - PDF)
 
-**First published:**
-
-05/08/2010
-
-**Last updated:**
-
-26/11/2019
+**First published:** 05/08/2010 **Last updated:** 26/11/2019
 
 [View](/it/documents/overview/ozurdex-epar-medicine-overview_it.pdf)
 
 latviešu valoda (LV) (115.31 KB - PDF)
 
-**First published:**
-
-05/08/2010
-
-**Last updated:**
-
-26/11/2019
+**First published:** 05/08/2010 **Last updated:** 26/11/2019
 
 [View](/lv/documents/overview/ozurdex-epar-medicine-overview_lv.pdf)
 
 lietuvių kalba (LT) (116.55 KB - PDF)
 
-**First published:**
-
-05/08/2010
-
-**Last updated:**
-
-26/11/2019
+**First published:** 05/08/2010 **Last updated:** 26/11/2019
 
 [View](/lt/documents/overview/ozurdex-epar-medicine-overview_lt.pdf)
 
 magyar (HU) (114.72 KB - PDF)
 
-**First published:**
-
-05/08/2010
-
-**Last updated:**
-
-26/11/2019
+**First published:** 05/08/2010 **Last updated:** 26/11/2019
 
 [View](/hu/documents/overview/ozurdex-epar-medicine-overview_hu.pdf)
 
 Malti (MT) (125.76 KB - PDF)
 
-**First published:**
-
-05/08/2010
-
-**Last updated:**
-
-26/11/2019
+**First published:** 05/08/2010 **Last updated:** 26/11/2019
 
 [View](/mt/documents/overview/ozurdex-epar-medicine-overview_mt.pdf)
 
 Nederlands (NL) (90.26 KB - PDF)
 
-**First published:**
-
-05/08/2010
-
-**Last updated:**
-
-26/11/2019
+**First published:** 05/08/2010 **Last updated:** 26/11/2019
 
 [View](/nl/documents/overview/ozurdex-epar-medicine-overview_nl.pdf)
 
 polski (PL) (118.53 KB - PDF)
 
-**First published:**
-
-05/08/2010
-
-**Last updated:**
-
-26/11/2019
+**First published:** 05/08/2010 **Last updated:** 26/11/2019
 
 [View](/pl/documents/overview/ozurdex-epar-medicine-overview_pl.pdf)
 
 português (PT) (91.11 KB - PDF)
 
-**First published:**
-
-05/08/2010
-
-**Last updated:**
-
-26/11/2019
+**First published:** 05/08/2010 **Last updated:** 26/11/2019
 
 [View](/pt/documents/overview/ozurdex-epar-medicine-overview_pt.pdf)
 
 română (RO) (120.73 KB - PDF)
 
-**First published:**
-
-05/08/2010
-
-**Last updated:**
-
-26/11/2019
+**First published:** 05/08/2010 **Last updated:** 26/11/2019
 
 [View](/ro/documents/overview/ozurdex-epar-medicine-overview_ro.pdf)
 
 slovenčina (SK) (117.97 KB - PDF)
 
-**First published:**
-
-05/08/2010
-
-**Last updated:**
-
-26/11/2019
+**First published:** 05/08/2010 **Last updated:** 26/11/2019
 
 [View](/sk/documents/overview/ozurdex-epar-medicine-overview_sk.pdf)
 
 slovenščina (SL) (109.42 KB - PDF)
 
-**First published:**
-
-05/08/2010
-
-**Last updated:**
-
-26/11/2019
+**First published:** 05/08/2010 **Last updated:** 26/11/2019
 
 [View](/sl/documents/overview/ozurdex-epar-medicine-overview_sl.pdf)
 
 Suomi (FI) (88.59 KB - PDF)
 
-**First published:**
-
-05/08/2010
-
-**Last updated:**
-
-26/11/2019
+**First published:** 05/08/2010 **Last updated:** 26/11/2019
 
 [View](/fi/documents/overview/ozurdex-epar-medicine-overview_fi.pdf)
 
 svenska (SV) (89.4 KB - PDF)
 
-**First published:**
-
-05/08/2010
-
-**Last updated:**
-
-26/11/2019
+**First published:** 05/08/2010 **Last updated:** 26/11/2019
 
 [View](/sv/documents/overview/ozurdex-epar-medicine-overview_sv.pdf)
 
@@ -400,9 +266,7 @@ Ozurdex : EPAR - Risk-management-plan summary
 
 English (EN) (957.57 KB - PDF)
 
-**First published:** 06/05/2020
-
-**Last updated:** 24/11/2023
+**First published:** 06/05/2020 **Last updated:** 24/11/2023
 
 [View](/en/documents/rmp-summary/ozurdex-epar-risk-management-plan-summary_en.pdf)
 
@@ -410,305 +274,161 @@ English (EN) (957.57 KB - PDF)
 
 Ozurdex : EPAR - Product Information
 
-English (EN) (302.94 KB - PDF)
+English (EN) (469.31 KB - PDF)
 
-**First published:** 05/08/2010
-
-**Last updated:** 24/10/2025
+**First published:** 05/08/2010 **Last updated:** 29/05/2026
 
 [View](/en/documents/product-information/ozurdex-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-25)
+[Other languages (24)](#file-language-dropdown-78)
 
-български (BG) (394.73 KB - PDF)
+български (BG) (491.34 KB - PDF)
 
-**First published:**
-
-05/08/2010
-
-**Last updated:**
-
-24/10/2025
+**First published:** 05/08/2010 **Last updated:** 29/05/2026
 
 [View](/bg/documents/product-information/ozurdex-epar-product-information_bg.pdf)
 
-español (ES) (347.26 KB - PDF)
+español (ES) (454.82 KB - PDF)
 
-**First published:**
-
-05/08/2010
-
-**Last updated:**
-
-24/10/2025
+**First published:** 05/08/2010 **Last updated:** 29/05/2026
 
 [View](/es/documents/product-information/ozurdex-epar-product-information_es.pdf)
 
-čeština (CS) (376.18 KB - PDF)
+čeština (CS) (467.03 KB - PDF)
 
-**First published:**
-
-05/08/2010
-
-**Last updated:**
-
-24/10/2025
+**First published:** 05/08/2010 **Last updated:** 29/05/2026
 
 [View](/cs/documents/product-information/ozurdex-epar-product-information_cs.pdf)
 
-dansk (DA) (320.27 KB - PDF)
+dansk (DA) (456.07 KB - PDF)
 
-**First published:**
-
-05/08/2010
-
-**Last updated:**
-
-24/10/2025
+**First published:** 05/08/2010 **Last updated:** 29/05/2026
 
 [View](/da/documents/product-information/ozurdex-epar-product-information_da.pdf)
 
-Deutsch (DE) (332.97 KB - PDF)
+Deutsch (DE) (465.22 KB - PDF)
 
-**First published:**
-
-05/08/2010
-
-**Last updated:**
-
-24/10/2025
+**First published:** 05/08/2010 **Last updated:** 29/05/2026
 
 [View](/de/documents/product-information/ozurdex-epar-product-information_de.pdf)
 
-eesti keel (ET) (315.69 KB - PDF)
+eesti keel (ET) (428.75 KB - PDF)
 
-**First published:**
-
-05/08/2010
-
-**Last updated:**
-
-24/10/2025
+**First published:** 05/08/2010 **Last updated:** 29/05/2026
 
 [View](/et/documents/product-information/ozurdex-epar-product-information_et.pdf)
 
-ελληνικά (EL) (386.31 KB - PDF)
+ελληνικά (EL) (497.46 KB - PDF)
 
-**First published:**
-
-05/08/2010
-
-**Last updated:**
-
-24/10/2025
+**First published:** 05/08/2010 **Last updated:** 29/05/2026
 
 [View](/el/documents/product-information/ozurdex-epar-product-information_el.pdf)
 
-français (FR) (359.2 KB - PDF)
+français (FR) (474.12 KB - PDF)
 
-**First published:**
-
-05/08/2010
-
-**Last updated:**
-
-24/10/2025
+**First published:** 05/08/2010 **Last updated:** 29/05/2026
 
 [View](/fr/documents/product-information/ozurdex-epar-product-information_fr.pdf)
 
-hrvatski (HR) (380.69 KB - PDF)
+hrvatski (HR) (477.91 KB - PDF)
 
-**First published:**
-
-05/08/2010
-
-**Last updated:**
-
-24/10/2025
+**First published:** 05/08/2010 **Last updated:** 29/05/2026
 
 [View](/hr/documents/product-information/ozurdex-epar-product-information_hr.pdf)
 
-íslenska (IS) (304.92 KB - PDF)
+íslenska (IS) (451.5 KB - PDF)
 
-**First published:**
-
-05/08/2010
-
-**Last updated:**
-
-24/10/2025
+**First published:** 05/08/2010 **Last updated:** 29/05/2026
 
 [View](/is/documents/product-information/ozurdex-epar-product-information_is.pdf)
 
-italiano (IT) (341.55 KB - PDF)
+italiano (IT) (449.44 KB - PDF)
 
-**First published:**
-
-05/08/2010
-
-**Last updated:**
-
-24/10/2025
+**First published:** 05/08/2010 **Last updated:** 29/05/2026
 
 [View](/it/documents/product-information/ozurdex-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (355.95 KB - PDF)
+latviešu valoda (LV) (449.31 KB - PDF)
 
-**First published:**
-
-05/08/2010
-
-**Last updated:**
-
-24/10/2025
+**First published:** 05/08/2010 **Last updated:** 29/05/2026
 
 [View](/lv/documents/product-information/ozurdex-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (362.26 KB - PDF)
+lietuvių kalba (LT) (493.17 KB - PDF)
 
-**First published:**
-
-05/08/2010
-
-**Last updated:**
-
-24/10/2025
+**First published:** 05/08/2010 **Last updated:** 29/05/2026
 
 [View](/lt/documents/product-information/ozurdex-epar-product-information_lt.pdf)
 
-magyar (HU) (358 KB - PDF)
+magyar (HU) (454.59 KB - PDF)
 
-**First published:**
-
-05/08/2010
-
-**Last updated:**
-
-24/10/2025
+**First published:** 05/08/2010 **Last updated:** 29/05/2026
 
 [View](/hu/documents/product-information/ozurdex-epar-product-information_hu.pdf)
 
-Malti (MT) (389.27 KB - PDF)
+Malti (MT) (494.49 KB - PDF)
 
-**First published:**
-
-05/08/2010
-
-**Last updated:**
-
-24/10/2025
+**First published:** 05/08/2010 **Last updated:** 29/05/2026
 
 [View](/mt/documents/product-information/ozurdex-epar-product-information_mt.pdf)
 
-Nederlands (NL) (313.93 KB - PDF)
+Nederlands (NL) (435.14 KB - PDF)
 
-**First published:**
-
-05/08/2010
-
-**Last updated:**
-
-24/10/2025
+**First published:** 05/08/2010 **Last updated:** 29/05/2026
 
 [View](/nl/documents/product-information/ozurdex-epar-product-information_nl.pdf)
 
-norsk (NO) (321.73 KB - PDF)
+norsk (NO) (467.55 KB - PDF)
 
-**First published:**
-
-05/08/2010
-
-**Last updated:**
-
-24/10/2025
+**First published:** 05/08/2010 **Last updated:** 29/05/2026
 
 [View](/no/documents/product-information/ozurdex-epar-product-information_no.pdf)
 
-polski (PL) (386.42 KB - PDF)
+polski (PL) (469.6 KB - PDF)
 
-**First published:**
-
-05/08/2010
-
-**Last updated:**
-
-24/10/2025
+**First published:** 05/08/2010 **Last updated:** 29/05/2026
 
 [View](/pl/documents/product-information/ozurdex-epar-product-information_pl.pdf)
 
-português (PT) (332.12 KB - PDF)
+português (PT) (479.11 KB - PDF)
 
-**First published:**
-
-05/08/2010
-
-**Last updated:**
-
-24/10/2025
+**First published:** 05/08/2010 **Last updated:** 29/05/2026
 
 [View](/pt/documents/product-information/ozurdex-epar-product-information_pt.pdf)
 
-română (RO) (356.59 KB - PDF)
+română (RO) (461 KB - PDF)
 
-**First published:**
-
-05/08/2010
-
-**Last updated:**
-
-24/10/2025
+**First published:** 05/08/2010 **Last updated:** 29/05/2026
 
 [View](/ro/documents/product-information/ozurdex-epar-product-information_ro.pdf)
 
-slovenčina (SK) (392.08 KB - PDF)
+slovenčina (SK) (498.19 KB - PDF)
 
-**First published:**
-
-05/08/2010
-
-**Last updated:**
-
-24/10/2025
+**First published:** 05/08/2010 **Last updated:** 29/05/2026
 
 [View](/sk/documents/product-information/ozurdex-epar-product-information_sk.pdf)
 
-slovenščina (SL) (352.39 KB - PDF)
+slovenščina (SL) (489.31 KB - PDF)
 
-**First published:**
-
-05/08/2010
-
-**Last updated:**
-
-24/10/2025
+**First published:** 05/08/2010 **Last updated:** 29/05/2026
 
 [View](/sl/documents/product-information/ozurdex-epar-product-information_sl.pdf)
 
-Suomi (FI) (308.98 KB - PDF)
+Suomi (FI) (422.48 KB - PDF)
 
-**First published:**
-
-05/08/2010
-
-**Last updated:**
-
-24/10/2025
+**First published:** 05/08/2010 **Last updated:** 29/05/2026
 
 [View](/fi/documents/product-information/ozurdex-epar-product-information_fi.pdf)
 
-svenska (SV) (304.72 KB - PDF)
+svenska (SV) (426.86 KB - PDF)
 
-**First published:**
-
-05/08/2010
-
-**Last updated:**
-
-24/10/2025
+**First published:** 05/08/2010 **Last updated:** 29/05/2026
 
 [View](/sv/documents/product-information/ozurdex-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000245981 18/09/2025
+**Latest procedure affecting product information:** VR/0000307245
+
+23/04/2026
 
 icon globe
 
@@ -728,9 +448,7 @@ Ozurdex : EPAR - All Authorised presentations
 
 English (EN) (22.55 KB - PDF)
 
-**First published:** 05/08/2010
-
-**Last updated:** 05/08/2010
+**First published:** 05/08/2010 **Last updated:** 05/08/2010
 
 [View](/en/documents/all-authorised-presentations/ozurdex-epar-all-authorised-presentations_en.pdf)
 
@@ -738,274 +456,160 @@ Ozurdex : EPAR - Conditions imposed on member states for safe and effective use 
 
 English (EN) (27.42 KB - PDF)
 
-**First published:** 05/08/2010
-
-**Last updated:** 04/07/2011
+**First published:** 05/08/2010 **Last updated:** 04/07/2011
 
 [View](/en/documents/conditions-member-states/ozurdex-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-628)
+[Other languages (21)](#file-language-dropdown-16)
 
 български (BG) (141.6 KB - PDF)
 
-**First published:**
-
-05/08/2010
-
-**Last updated:**
-
-04/07/2011
+**First published:** 05/08/2010 **Last updated:** 04/07/2011
 
 [View](/bg/documents/conditions-member-states/ozurdex-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_bg.pdf)
 
 español (ES) (39.79 KB - PDF)
 
-**First published:**
-
-05/08/2010
-
-**Last updated:**
-
-04/07/2011
+**First published:** 05/08/2010 **Last updated:** 04/07/2011
 
 [View](/es/documents/conditions-member-states/ozurdex-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_es.pdf)
 
 čeština (CS) (155.73 KB - PDF)
 
-**First published:**
-
-05/08/2010
-
-**Last updated:**
-
-04/07/2011
+**First published:** 05/08/2010 **Last updated:** 04/07/2011
 
 [View](/cs/documents/conditions-member-states/ozurdex-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_cs.pdf)
 
 dansk (DA) (39.68 KB - PDF)
 
-**First published:**
-
-05/08/2010
-
-**Last updated:**
-
-04/07/2011
+**First published:** 05/08/2010 **Last updated:** 04/07/2011
 
 [View](/da/documents/conditions-member-states/ozurdex-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_da.pdf)
 
 Deutsch (DE) (39.89 KB - PDF)
 
-**First published:**
-
-05/08/2010
-
-**Last updated:**
-
-04/07/2011
+**First published:** 05/08/2010 **Last updated:** 04/07/2011
 
 [View](/de/documents/conditions-member-states/ozurdex-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_de.pdf)
 
 eesti keel (ET) (29.01 KB - PDF)
 
-**First published:**
-
-05/08/2010
-
-**Last updated:**
-
-04/07/2011
+**First published:** 05/08/2010 **Last updated:** 04/07/2011
 
 [View](/et/documents/conditions-member-states/ozurdex-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_et.pdf)
 
 ελληνικά (EL) (142.91 KB - PDF)
 
-**First published:**
-
-05/08/2010
-
-**Last updated:**
-
-04/07/2011
+**First published:** 05/08/2010 **Last updated:** 04/07/2011
 
 [View](/el/documents/conditions-member-states/ozurdex-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_el.pdf)
 
 français (FR) (144.15 KB - PDF)
 
-**First published:**
-
-05/08/2010
-
-**Last updated:**
-
-04/07/2011
+**First published:** 05/08/2010 **Last updated:** 04/07/2011
 
 [View](/fr/documents/conditions-member-states/ozurdex-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_fr.pdf)
 
 italiano (IT) (139.73 KB - PDF)
 
-**First published:**
-
-05/08/2010
-
-**Last updated:**
-
-04/07/2011
+**First published:** 05/08/2010 **Last updated:** 04/07/2011
 
 [View](/it/documents/conditions-member-states/ozurdex-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_it.pdf)
 
 latviešu valoda (LV) (182.44 KB - PDF)
 
-**First published:**
-
-05/08/2010
-
-**Last updated:**
-
-04/07/2011
+**First published:** 05/08/2010 **Last updated:** 04/07/2011
 
 [View](/lv/documents/conditions-member-states/ozurdex-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_lv.pdf)
 
 lietuvių kalba (LT) (152 KB - PDF)
 
-**First published:**
-
-05/08/2010
-
-**Last updated:**
-
-04/07/2011
+**First published:** 05/08/2010 **Last updated:** 04/07/2011
 
 [View](/lt/documents/conditions-member-states/ozurdex-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_lt.pdf)
 
 magyar (HU) (146.24 KB - PDF)
 
-**First published:**
-
-05/08/2010
-
-**Last updated:**
-
-04/07/2011
+**First published:** 05/08/2010 **Last updated:** 04/07/2011
 
 [View](/hu/documents/conditions-member-states/ozurdex-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_hu.pdf)
 
 Malti (MT) (158.98 KB - PDF)
 
-**First published:**
-
-05/08/2010
-
-**Last updated:**
-
-04/07/2011
+**First published:** 05/08/2010 **Last updated:** 04/07/2011
 
 [View](/mt/documents/conditions-member-states/ozurdex-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_mt.pdf)
 
 Nederlands (NL) (28.54 KB - PDF)
 
-**First published:**
-
-05/08/2010
-
-**Last updated:**
-
-04/07/2011
+**First published:** 05/08/2010 **Last updated:** 04/07/2011
 
 [View](/nl/documents/conditions-member-states/ozurdex-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_nl.pdf)
 
 polski (PL) (143.01 KB - PDF)
 
-**First published:**
-
-05/08/2010
-
-**Last updated:**
-
-04/07/2011
+**First published:** 05/08/2010 **Last updated:** 04/07/2011
 
 [View](/pl/documents/conditions-member-states/ozurdex-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_pl.pdf)
 
 português (PT) (39.95 KB - PDF)
 
-**First published:**
-
-05/08/2010
-
-**Last updated:**
-
-04/07/2011
+**First published:** 05/08/2010 **Last updated:** 04/07/2011
 
 [View](/pt/documents/conditions-member-states/ozurdex-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_pt.pdf)
 
 română (RO) (152.8 KB - PDF)
 
-**First published:**
-
-05/08/2010
-
-**Last updated:**
-
-04/07/2011
+**First published:** 05/08/2010 **Last updated:** 04/07/2011
 
 [View](/ro/documents/conditions-member-states/ozurdex-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_ro.pdf)
 
 slovenčina (SK) (158.92 KB - PDF)
 
-**First published:**
-
-05/08/2010
-
-**Last updated:**
-
-04/07/2011
+**First published:** 05/08/2010 **Last updated:** 04/07/2011
 
 [View](/sk/documents/conditions-member-states/ozurdex-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_sk.pdf)
 
 slovenščina (SL) (149.83 KB - PDF)
 
-**First published:**
-
-05/08/2010
-
-**Last updated:**
-
-04/07/2011
+**First published:** 05/08/2010 **Last updated:** 04/07/2011
 
 [View](/sl/documents/conditions-member-states/ozurdex-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_sl.pdf)
 
 Suomi (FI) (39.77 KB - PDF)
 
-**First published:**
-
-05/08/2010
-
-**Last updated:**
-
-04/07/2011
+**First published:** 05/08/2010 **Last updated:** 04/07/2011
 
 [View](/fi/documents/conditions-member-states/ozurdex-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_fi.pdf)
 
 svenska (SV) (28.88 KB - PDF)
 
-**First published:**
-
-05/08/2010
-
-**Last updated:**
-
-04/07/2011
+**First published:** 05/08/2010 **Last updated:** 04/07/2011
 
 [View](/sv/documents/conditions-member-states/ozurdex-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_sv.pdf)
 
 ## Product details
 
-Name of medicine Ozurdex Active substance dexamethasone International non-proprietary name (INN) or common name dexamethasone Therapeutic area (MeSH)
+Name of medicine
+
+Ozurdex
+
+Active substance
+
+dexamethasone
+
+International non-proprietary name (INN) or common name
+
+dexamethasone
+
+Therapeutic area (MeSH)
 
 - Macular Edema
 - Uveitis
 
-Anatomical therapeutic chemical (ATC) code S01BA01
+Anatomical therapeutic chemical (ATC) code
+
+S01BA01
 
 ### Pharmacotherapeutic group
 
@@ -1022,13 +626,27 @@ Ozurdex is indicated for the treatment of adult patients with visual impairment 
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/001140 Marketing authorisation holder
+EMA product number
+
+EMEA/H/C/001140
+
+Marketing authorisation holder
 
 AbbVie Deutschland GmbH &amp; Co. KG
 
 Knollstrasse 67061 Ludwigshafen Germany
 
-Opinion adopted 20/05/2010 Marketing authorisation issued 26/07/2010 Revision 21
+Opinion adopted
+
+20/05/2010
+
+Marketing authorisation issued
+
+26/07/2010
+
+Revision
+
+22
 
 ## Assessment history
 
@@ -1040,9 +658,9 @@ Collapse section
 
 Ozurdex : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (130.75 KB - PDF)
+English (EN) (158.45 KB - PDF)
 
-**First published:** 24/10/2025
+**First published:** 24/10/2025 **Last updated:** 29/05/2026
 
 [View](/en/documents/procedural-steps-after/ozurdex-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1050,9 +668,7 @@ Ozurdex : EPAR - Procedural steps taken and scientific information after authori
 
 English (EN) (167.21 KB - PDF)
 
-**First published:** 04/07/2011
-
-**Last updated:** 24/10/2025
+**First published:** 04/07/2011 **Last updated:** 24/10/2025
 
 [View](/en/documents/procedural-steps-after/ozurdex-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
@@ -1072,79 +688,57 @@ Reference Number: EMA/694277/2017
 
 English (EN) (68.5 KB - PDF)
 
-**First published:** 22/11/2017
-
-**Last updated:** 22/11/2017
+**First published:** 22/11/2017 **Last updated:** 22/11/2017
 
 [View](/en/documents/scientific-conclusion/ozurdex-h-c-psusa-985-201701-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf)
 
 Ozurdex-H-C-1140-II-0015 : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/492068/2014
+Adopted Reference Number: EMA/492068/2014
 
 English (EN) (1.9 MB - PDF)
 
-**First published:** 15/09/2014
-
-**Last updated:** 15/09/2014
+**First published:** 15/09/2014 **Last updated:** 15/09/2014
 
 [View](/en/documents/variation-report/ozurdex-h-c-1140-ii-0015-epar-assessment-report-variation_en.pdf)
 
 CHMP post-authorisation summary of positive opinion for Ozurdex
 
-Adopted
-
-Reference Number: EMA/CHMP/430193/2014
+Adopted Reference Number: EMA/CHMP/430193/2014
 
 English (EN) (66.11 KB - PDF)
 
-**First published:** 25/07/2014
-
-**Last updated:** 25/07/2014
+**First published:** 25/07/2014 **Last updated:** 25/07/2014
 
 [View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-ozurdex_en.pdf)
 
 CHMP post-authorisation summary of positive opinion for Ozurdex
 
-Adopted
-
-Reference Number: EMA/CHMP/271228/2012
+Adopted Reference Number: EMA/CHMP/271228/2012
 
 English (EN) (59.24 KB - PDF)
 
-**First published:** 20/07/2012
-
-**Last updated:** 20/07/2012
+**First published:** 20/07/2012 **Last updated:** 20/07/2012
 
 [View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-ozurdex_en.pdf-0)
 
 Ozurdex-H-C-1140-II-0001 : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/439447/2011
+Adopted Reference Number: EMA/439447/2011
 
 English (EN) (756.75 KB - PDF)
 
-**First published:** 04/07/2011
-
-**Last updated:** 04/07/2011
+**First published:** 04/07/2011 **Last updated:** 04/07/2011
 
 [View](/en/documents/variation-report/ozurdex-h-c-1140-ii-0001-epar-assessment-report-variation_en.pdf)
 
 CHMP post-authorisation summary of positive opinion for Ozurdex
 
-Adopted
-
-Reference Number: EMA/CHMP/295989/2011
+Adopted Reference Number: EMA/CHMP/295989/2011
 
 English (EN) (46.91 KB - PDF)
 
-**First published:** 15/04/2011
-
-**Last updated:** 15/04/2011
+**First published:** 15/04/2011 **Last updated:** 15/04/2011
 
 [View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-ozurdex_en.pdf-1)
 
@@ -1154,44 +748,42 @@ Ozurdex : EPAR - Public assessment report
 
 English (EN) (911.89 KB - PDF)
 
-**First published:** 05/08/2010
-
-**Last updated:** 05/08/2010
+**First published:** 05/08/2010 **Last updated:** 05/08/2010
 
 [View](/en/documents/assessment-report/ozurdex-epar-public-assessment-report_en.pdf)
 
 CHMP summary of positive opinion for Ozurdex
 
-Adopted
-
-Reference Number: EMA/CHMP/316582/2010
+Adopted Reference Number: EMA/CHMP/316582/2010
 
 English (EN) (74.94 KB - PDF)
 
-**First published:** 21/05/2010
-
-**Last updated:** 21/05/2010
+**First published:** 21/05/2010 **Last updated:** 21/05/2010
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-ozurdex_en.pdf)
 
-#### News on Ozurdex
+## News on Ozurdex
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 21-24 July 2014](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-21-24-july-2014) 25/07/2014
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 21-24 July 2014](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-21-24-july-2014)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 16-19 July 2012](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-16-19-july-2012) 20/07/2012
+25/07/2014
 
-#### More information on Ozurdex
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 16-19 July 2012](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-16-19-july-2012)
+
+20/07/2012
+
+## More information on Ozurdex
 
 - [An Observational, Prospective Post-Marketing Surveillance Program to Evaluate theSafety Profile of Intravitreal Ozurdex® in the Treatment of Visual Impairment due to Diabetic Macular Edema by Actively Identifying and Evaluating the Occurrence of Adverse Events and Serious Adverse Events information - post-authorisation study](https://catalogues.ema.europa.eu/study/23957)
 - [Ozurdex® (dexamethasone) Implant Risk Management Plan Injector's Guide Assessment Australia - post-authorisation study](https://catalogues.ema.europa.eu/study/24504)
 - [Evaluation of the Physician Education Component of the Ozurdex Risk Management Plan - post-authorisation study](https://catalogues.ema.europa.eu/study/33655)
 
-#### Topics
+## Topics
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 24/10/2025
+**This page was last updated on**
+
+29/05/2026
 
 ## Share this page
-
-[Back to top](#main-content)

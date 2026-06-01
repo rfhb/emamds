@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-05-08 12:07:16
+document_datetime: 2026-05-29 14:40:42
 document_pages: 46
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/teriflunomide-viatris-epar-product-information_en.pdf
 document_name: teriflunomide-viatris-epar-product-information_en.pdf
 version: success
-processing_time: 13.6188737
-conversion_datetime: 2026-05-10 12:15:33.018859
+processing_time: 19.176455
+conversion_datetime: 2026-06-01 17:09:09.164635
 docling_version:
-  docling-serve: 1.17.0
-  docling-jobkit: 1.18.0
-  docling: 2.92.0
-  docling-core: 2.74.1
+  docling-serve: 1.20.0
+  docling-jobkit: 1.20.1
+  docling: 2.96.1
+  docling-core: 2.78.0
   docling-ibm-models: 3.13.2
-  docling-parse: 5.10.1
+  docling-parse: 6.2.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -62,7 +62,7 @@ In adults, the recommended dose of teriflunomide is 14 mg once daily.
 
 In paediatric patients (10 years of age and above), the recommended dose is dependent on body weight:
 
--Paediatric patients with body weight &gt; 40 kg: 14 mg once daily.
+- -Paediatric patients with body weight &gt; 40 kg: 14 mg once daily.
 
 -Paediatric patients with body weight ≤ 40 kg: 7 mg once daily.
 
@@ -207,6 +207,8 @@ If skin and /or mucosal reactions (ulcerative stomatitis) are observed which rai
 
 New onset of psoriasis (including pustular psoriasis) and worsening of pre-existing psoriasis have been reported during the use of teriflunomide. Treatment withdrawal and initiation of an accelerated elimination procedure may be considered taking into account patient's disease and medical history.
 
+Skin ulcers and impaired wound healing may potentially occur in patients during therapy with teriflunomide. If teriflunomide-associated skin ulcer is suspected, if skin ulcers persist despite appropriate therapy, or if there is a high risk for impaired wound healing after surgery, consider teriflunomide discontinuation and an accelerated drug elimination procedure. The decision to resume teriflunomide should be based on clinical judgment of adequate wound healing.
+
 ## Peripheral neuropathy
 
 Cases of peripheral neuropathy have been reported in patients receiving teriflunomide (see section 4.8). Most patients improved after discontinuation of teriflunomide. However, there was a wide variability in final outcome, i.e. in some patients the neuropathy resolved and some patients had persistent symptoms. If a patient taking teriflunomide develops a confirmed peripheral neuropathy, discontinuing teriflunomide therapy and performing the accelerated elimination procedure should be considered.
@@ -225,9 +227,9 @@ Based on the clinical data related to concomitant administration of teriflunomid
 
 Due to the long half-life of natalizumab, concomitant exposure, and thus concomitant immune effects, could occur for up to 2-3 months following discontinuation of natalizumab if teriflunomide was immediately started. Therefore, caution is required when switching patients from natalizumab to teriflunomide.
 
-Based on the half-life of fingolimod, a 6-week interval without therapy is needed for clearance from the circulation and a 1 to 2-month period is needed for lymphocytes to return to normal range following discontinuation of fingolimod. Starting teriflunomide during this interval will result in concomitant exposure to fingolimod. This may lead to an additive effect on the immune system and caution is, therefore, indicated.
-
 <div style=\"page-break-after: always\"></div>
+
+Based on the half-life of fingolimod, a 6-week interval without therapy is needed for clearance from the circulation and a 1 to 2-month period is needed for lymphocytes to return to normal range following discontinuation of fingolimod. Starting teriflunomide during this interval will result in concomitant exposure to fingolimod. This may lead to an additive effect on the immune system and caution is, therefore, indicated.
 
 In MS patients, the median t1/2z was approximately 19 days after repeated doses of 14 mg. If a decision is made to stop treatment with teriflunomide, during the interval of 5 half-lives (approximately 3.5 months although may be longer in some patients), starting other therapies will result in concomitant exposure to teriflunomide. This may lead to an additive effect on the immune system and caution is, therefore, indicated.
 
@@ -259,11 +261,13 @@ The primary biotransformation pathway for teriflunomide is hydrolysis, with oxid
 
 ## Potent cytochrome P450 (CYP) and transporter inducers
 
-Co-administration of repeated doses (600 mg once daily for 22 days) of rifampicin (a CYP2B6, 2C8, 2C9, 2C19, 3A inducer), as well as an inducer of the efflux transporters P-glycoprotein [P-gp] and breast cancer resistant protein [BCRP] with teriflunomide (70 mg single dose) resulted in an approximately 40% decrease in teriflunomide exposure. Rifampicin and other known potent CYP and transporter inducers such as carbamazepine, phenobarbital, phenytoin and St John's Wort should be used with caution during the treatment with teriflunomide.
-
-## Cholestyramine or activated charcoal
+Co-administration of repeated doses (600 mg once daily for 22 days) of rifampicin (a CYP2B6, 2C8, 2C9, 2C19, 3A inducer), as well as an inducer of the efflux transporters P-glycoprotein [P-gp] and breast cancer resistant protein [BCRP] with teriflunomide (70 mg single dose) resulted in an approximately 40%
 
 <div style=\"page-break-after: always\"></div>
+
+decrease in teriflunomide exposure. Rifampicin and other known potent CYP and transporter inducers such as carbamazepine, phenobarbital, phenytoin and St John's Wort should be used with caution during the treatment with teriflunomide.
+
+## Cholestyramine or activated charcoal
 
 It is recommended that patients receiving teriflunomide are not treated with cholestyramine or activated charcoal because this leads to a rapid and significant decrease in plasma concentration unless an accelerated elimination is desired. The mechanism is thought to be by interruption of enterohepatic recycling and/or gastrointestinal dialysis of teriflunomide.
 
@@ -291,9 +295,9 @@ There was an increase in mean cefaclor Cmax and AUC (1.43- and 1.54-fold, respec
 
 There was an increase in mean rosuvastatin Cmax and AUC (2.65- and 2.51-fold, respectively), following repeated doses of teriflunomide. However, there was no apparent impact of this increase in plasma rosuvastatin exposure on the HMG-CoA reductase activity. For rosuvastatin, a dose reduction by 50% is recommended for co-administration with teriflunomide. For other substrates of BCRP (e.g., methotrexate, topotecan, sulfasalazine, daunorubicin, doxorubicin) and the OATP family especially HMG-Co reductase inhibitors (e.g., simvastatin, atorvastatin, pravastatin, methotrexate, nateglinide, repaglinide, rifampicin) concomitant administration of teriflunomide should also be undertaken with caution. Patients should be closely monitored for signs and symptoms of excessive exposure to the medicinal products and reduction of the dose of these medicinal products should be considered.
 
-## 4.6 Fertility, pregnancy and lactation
-
 <div style=\"page-break-after: always\"></div>
+
+## 4.6 Fertility, pregnancy and lactation
 
 ## Use in males
 
@@ -307,9 +311,7 @@ Teriflunomide may cause serious birth defects when administered during pregnancy
 
 Women of childbearing potential have to use effective contraception during treatment and after treatment as long as teriflunomide plasma concentration is above 0.02 mg/l. During this period women should discuss any plans to stop or change contraception with the treating physician. Female children and/or parents/caregivers of female children should be informed about the need to contact the treating physician once the female child under teriflunomide treatment experiences menses. Counselling should be provided to the new patients of child-bearing potential about contraception and the potential risk to the foetus. Referral to a gynaecologist should be considered.
 
-The patient must be advised that if there is any delay in onset of menses or any other reason to suspect pregnancy, they must discontinue teriflunomide and notify the physician immediately for pregnancy testing, and if positive, the physician and patient must discuss the risk to the pregnancy. It is possible that rapidly lowering the blood level of teriflunomide, by instituting the accelerated elimination procedure
-
-described below, at the first delay of menses, may decrease the risk to the foetus.
+The patient must be advised that if there is any delay in onset of menses or any other reason to suspect pregnancy, they must discontinue teriflunomide and notify the physician immediately for pregnancy testing, and if positive, the physician and patient must discuss the risk to the pregnancy. It is possible that rapidly lowering the blood level of teriflunomide, by instituting the accelerated elimination procedure described below, at the first delay of menses, may decrease the risk to the foetus.
 
 For women receiving teriflunomide treatment, who wish to become pregnant, the medicinal product should be stopped and an accelerated elimination procedure is recommended in order to more rapidly achieve concentration below 0.02 mg/l (see below).
 
@@ -324,11 +326,13 @@ After stopping treatment with teriflunomide:
 - cholestyramine 8 g is administered 3 times daily for a period of 11 days, or cholestyramine 4 g three times a day can be used, if cholestyramine 8 g three times a day is not well tolerated
 - alternatively, 50 g of activated powdered charcoal is administered every 12 hours for a period of 11 days.
 
-However, also following either of the accelerated elimination procedures, verification by 2 separate tests at an interval of at least 14 days and a waiting period of one-and-a-half months between the first occurrence of a plasma concentration below 0.02 mg/l and fertilisation is required. Both cholestyramine and activated powdered charcoal may influence the absorption of oestrogens and progestogens such that reliable contraception with oral contraceptives may not be guaranteed during the accelerated elimination procedure with cholestyramine or activated powdered charcoal. Use of alternative contraceptive methods is recommended.
-
-## Breast-feeding
+However, also following either of the accelerated elimination procedures, verification by 2 separate tests at an interval of at least 14 days and a waiting period of one-and-a-half months between the first occurrence of a plasma concentration below 0.02 mg/l and fertilisation is required.
 
 <div style=\"page-break-after: always\"></div>
+
+Both cholestyramine and activated powdered charcoal may influence the absorption of oestrogens and progestogens such that reliable contraception with oral contraceptives may not be guaranteed during the accelerated elimination procedure with cholestyramine or activated powdered charcoal. Use of alternative contraceptive methods is recommended.
+
+## Breast-feeding
 
 Animal studies have shown excretion of teriflunomide in milk. Teriflunomide is contraindicated during breast-feeding (see section 4.3).
 
@@ -354,40 +358,37 @@ Teriflunomide was evaluated in a total of 2,267 patients exposed to teriflunomid
 
 Listed below are the adverse reactions reported with teriflunomide in placebo-controlled studies, reported for teriflunomide 7 mg or 14 mg from clinical studies in adult patients. Frequencies were defined using the following convention: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1,000 to &lt; 1/100); rare (≥ 1/10,000 to &lt; 1/1,000); very rare (&lt; 1/10,000); not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are ranked in order of decreasing seriousness.
 
-| System organ class          | Very common   | Common                                                                                                               | Uncommon                             | Rare   | Very rare   | Not known   |
-|-----------------------------|---------------|----------------------------------------------------------------------------------------------------------------------|--------------------------------------|--------|-------------|-------------|
-| Infections and infestations |               | Influenza, Upper respiratory tract infection, Urinary tract infection, Bronchitis, Sinusitis, Pharyngitis, Cystitis, | Severe infections including sepsis a |        |             |             |
+| System organ class          | Very common   | Common                                        | Uncommon                             | Rare   | Very rare   | Not known   |
+|-----------------------------|---------------|-----------------------------------------------|--------------------------------------|--------|-------------|-------------|
+| Infections and infestations |               | Influenza, Upper respiratory tract infection, | Severe infections including sepsis a |        |             |             |
 
 <div style=\"page-break-after: always\"></div>
 
-| System organ class                              | Very common                               | Common                                                                                      | Uncommon                                                                                | Rare            | Very rare   | Not known                        |
-|-------------------------------------------------|-------------------------------------------|---------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|-----------------|-------------|----------------------------------|
-| Blood and lymphatic system                      |                                           | Gastroenteritis viral, Herpes virus infections b , Tooth infection, Laryngitis, Tinea pedis |                                                                                         |                 |             |                                  |
-| disorders                                       |                                           | Neutropenia b , Anaemia                                                                     | Mild thrombocytopenia (platelets < 100 G/l)                                             |                 |             |                                  |
-| Immune system disorders                         |                                           | Mild allergic reactions                                                                     | Hyper-sensitivity reactions (immediate or delayed) including anaphylaxis and angioedema |                 |             |                                  |
-| Metabolism and nutrition disorders              |                                           |                                                                                             | Dyslipidaemia                                                                           |                 |             |                                  |
-| Psychiatric disorders                           |                                           | Anxiety                                                                                     |                                                                                         |                 |             |                                  |
-| Nervous system disorders                        | Headache                                  | Paraesthesia, Sciatica, Carpal tunnel syndrome                                              | Hyperaesthesia, Neuralgia, Peripheral neuropathy                                        |                 |             |                                  |
-| Cardiac disorders                               |                                           | Palpitations                                                                                |                                                                                         |                 |             |                                  |
-| Vascular disorders                              |                                           | Hypertension b                                                                              |                                                                                         |                 |             |                                  |
-| Respiratory, thoracic and mediastinal disorders |                                           |                                                                                             | Interstitial lung disease                                                               |                 |             | Pulmonary hypertension           |
-| Gastrointestinal disorders                      | Diarrhoea, Nausea                         | Pancreatitis b,c , Abdominal pain upper, Vomiting, Toothache                                | Stomatitis, Colitis                                                                     |                 |             |                                  |
-| Hepatobiliary disorders                         | Alanine aminotransferase (ALT) increase b | Gamma- glutamyltransferase (GGT) increase b , Aspartate aminotransferase increase b         |                                                                                         | Acute hepatitis |             | Drug-induced liver injury (DILI) |
-| Skin and subcutaneous tissue disorders          | Alopecia                                  | Rash, Acne                                                                                  | Nail disorders, Psoriasis (including pustular) a,b ,                                    |                 |             |                                  |
+| System organ class                              | Very common       | Common                                                                                                                                                             | Uncommon                                                                                | Rare   | Very rare   | Not known              |
+|-------------------------------------------------|-------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|--------|-------------|------------------------|
+|                                                 |                   | Urinary tract infection, Bronchitis, Sinusitis, Pharyngitis, Cystitis, Gastroenteritis viral, Herpes virus infections b , Tooth infection, Laryngitis, Tinea pedis |                                                                                         |        |             |                        |
+| Blood and lymphatic system disorders            |                   | Neutropenia b , Anaemia                                                                                                                                            | Mild thrombocytopenia (platelets < 100 G/l)                                             |        |             |                        |
+| Immune system disorders                         |                   | Mild allergic reactions                                                                                                                                            | Hyper-sensitivity reactions (immediate or delayed) including anaphylaxis and angioedema |        |             |                        |
+| Metabolism and nutrition disorders              |                   |                                                                                                                                                                    | Dyslipidaemia                                                                           |        |             |                        |
+| Psychiatric disorders                           |                   | Anxiety                                                                                                                                                            |                                                                                         |        |             |                        |
+| Nervous system disorders                        | Headache          | Paraesthesia, Sciatica, Carpal tunnel syndrome                                                                                                                     | Hyperaesthesia, Neuralgia, Peripheral neuropathy                                        |        |             |                        |
+| Cardiac disorders                               |                   | Palpitations                                                                                                                                                       |                                                                                         |        |             |                        |
+| Vascular disorders                              |                   | Hypertension b                                                                                                                                                     |                                                                                         |        |             |                        |
+| Respiratory, thoracic and mediastinal disorders |                   |                                                                                                                                                                    | Interstitial lung disease                                                               |        |             | Pulmonary hypertension |
+| Gastrointestinal disorders                      | Diarrhoea, Nausea | Pancreatitis b,c , Abdominal pain upper, Vomiting, Toothache                                                                                                       | Stomatitis, Colitis                                                                     |        |             |                        |
 
 <div style=\"page-break-after: always\"></div>
 
-| System organ class                                   | Very common   | Common                                                                                                                    | Uncommon                | Rare   | Very rare   | Not known   |
-|------------------------------------------------------|---------------|---------------------------------------------------------------------------------------------------------------------------|-------------------------|--------|-------------|-------------|
-|                                                      |               |                                                                                                                           | Severe skin reactions a |        |             |             |
-| Musculoskeletal and connective tissue disorders      |               | Musculoskeletal pain, Myalgia, Arthralgia                                                                                 |                         |        |             |             |
-| Renal and urinary disorders                          |               | Pollakiuria                                                                                                               |                         |        |             |             |
-| Reproductive system and breast disorders             |               | Menorrhagia                                                                                                               |                         |        |             |             |
-| General disorders and administration site conditions |               | Pain, Asthenia a                                                                                                          |                         |        |             |             |
-| Investigations                                       |               | Weight decrease, Neutrophil count decrease b , White blood cell count decrease b , Blood creatine phosphokinase increased |                         |        |             |             |
-| Injury, poisoning and procedural complications       |               |                                                                                                                           | Post-traumatic pain     |        |             |             |
-
-c : frequency is 'common' in children based on a controlled clinical study in paediatrics; frequency is 'uncommon' in adults
+| System organ class                                   | Very common                               | Common                                                                                                                    | Uncommon                                                                     | Rare            | Very rare   | Not known                        |
+|------------------------------------------------------|-------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------|-----------------|-------------|----------------------------------|
+| Hepatobiliary disorders                              | Alanine aminotransferase (ALT) increase b | Gamma- glutamyltransferase (GGT) increase b , Aspartate aminotransferase increase b                                       |                                                                              | Acute hepatitis |             | Drug-induced liver injury (DILI) |
+| Skin and subcutaneous tissue disorders               | Alopecia                                  | Rash, Acne                                                                                                                | Nail disorders, Psoriasis (including pustular) a,b , Severe skin reactions a |                 |             |                                  |
+| Musculoskeletal and connective tissue disorders      |                                           | Musculoskeletal pain, Myalgia, Arthralgia                                                                                 |                                                                              |                 |             |                                  |
+| Renal and urinary disorders                          |                                           | Pollakiuria                                                                                                               |                                                                              |                 |             |                                  |
+| Reproductive system and breast disorders             |                                           | Menorrhagia                                                                                                               |                                                                              |                 |             |                                  |
+| General disorders and administration site conditions |                                           | Pain, Asthenia a                                                                                                          |                                                                              |                 |             |                                  |
+| Investigations                                       |                                           | Weight decrease, Neutrophil count decrease b , White blood cell count decrease b , Blood creatine phosphokinase increased |                                                                              |                 |             |                                  |
+| Injury, poisoning and procedural complications       |                                           |                                                                                                                           | Post-traumatic pain                                                          |                 |             |                                  |
 
 ## Description of selected adverse reactions
 
@@ -395,23 +396,20 @@ c : frequency is 'common' in children based on a controlled clinical study in pa
 
 Alopecia was reported as hair thinning, decreased hair density, hair loss, associated or not with hair texture change, in 13.9% of patients treated with 14 mg teriflunomide versus 5.1% in patients treated with placebo. Most cases were described as diffuse or generalised over the scalp (no complete hair loss reported) and occurred most often during the first 6 months and with resolution in 121 of 139 (87.1%) patients treated with teriflunomide 14 mg. Discontinuation because of alopecia was 1.3% in the teriflunomide 14 mg group, versus 0.1% in the placebo group.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Hepatic effects
 
 During placebo-controlled studies in adult patients the following was detected:
 
 | ALT increase (based on laboratory data) according to baseline status - Safety population in placebo-controlled studies   | ALT increase (based on laboratory data) according to baseline status - Safety population in placebo-controlled studies   | ALT increase (based on laboratory data) according to baseline status - Safety population in placebo-controlled studies   |
 |--------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|
-|                                                                                                                          | Placebo                                                                                                                  | Teriflunomide 14 mg                                                                                                      |
-|                                                                                                                          | (N=997)                                                                                                                  | (N=1002)                                                                                                                 |
-
-<div style=\"page-break-after: always\"></div>
-
-| > 3 ULN                       | 66/994 (6.6%)   | 80/999 (8.0%)   |
-|-------------------------------|-----------------|-----------------|
-| > 5 ULN                       | 37/994 (3.7%)   | 31/999 (3.1%)   |
-| > 10 ULN                      | 16/994 (1.6%)   | 9/999 (0.9%)    |
-| > 20 ULN                      | 4/994 (0.4%)    | 3/999 (0.3%)    |
-| ALT > 3 ULN and TBILI > 2 ULN | 5/994 (0.5%)    | 3/999 (0.3%)    |
+|                                                                                                                          | Placebo (N=997)                                                                                                          | Teriflunomide 14 mg (N=1002)                                                                                             |
+| > 3 ULN                                                                                                                  | 66/994 (6.6%)                                                                                                            | 80/999 (8.0%)                                                                                                            |
+| > 5 ULN                                                                                                                  | 37/994 (3.7%)                                                                                                            | 31/999 (3.1%)                                                                                                            |
+| > 10 ULN                                                                                                                 | 16/994 (1.6%)                                                                                                            | 9/999 (0.9%)                                                                                                             |
+| > 20 ULN                                                                                                                 | 4/994 (0.4%)                                                                                                             | 3/999 (0.3%)                                                                                                             |
+| ALT > 3 ULN and TBILI > 2 ULN                                                                                            | 5/994 (0.5%)                                                                                                             | 3/999 (0.3%)                                                                                                             |
 
 Mild increases in transaminase, ALT below or equal to 3-fold ULN were more frequently seen in teriflunomide-treated groups as compared to placebo. The frequency of elevations above 3-fold ULN and higher was balanced across treatment groups. These elevations in transaminase occurred mostly within the first 6 months of treatment and were reversible after treatment cessation. The recovery time varied between months and years.
 
@@ -435,6 +433,8 @@ A mean decrease affecting white blood cell (WBC) count (&lt; 15% from baseline l
 
 In placebo-controlled studies in adult patients, peripheral neuropathy, including both polyneuropathy and mononeuropathy (e.g., carpal tunnel syndrome), was reported more frequently in patients taking teriflunomide than in patients taking placebo. In the pivotal, placebo-controlled studies, the incidence of peripheral neuropathy confirmed by nerve conduction studies was 1.9% (17 patients out of 898) on 14 mg of teriflunomide, compared with 0.4% (4 patients out of 898) on placebo. Treatment was discontinued in 5 patients with peripheral neuropathy on teriflunomide 14 mg. Recovery following treatment discontinuation was reported in 4 of these patients.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Neoplasms benign, malignant and unspecified (incl. cysts and polyps)
 
 There does not appear to be an increased risk of malignancy with teriflunomide in the clinical trial experience. The risk of malignancy, particularly lymphoproliferative disorders, is increased with use of some other agents that affect the immune system (class effect).
@@ -446,8 +446,6 @@ Cases of severe skin reactions have been reported with teriflunomide post-market
 ## Asthenia
 
 In placebo-controlled studies in adult patients, frequencies for asthenia were 2.0%, 1.6% and 2.2% in the placebo, teriflunomide 7 mg and teriflunomide 14 mg group, respectively.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Psoriasis
 
@@ -473,6 +471,8 @@ population:
 
 ## Reporting of suspected adverse reactions
 
+<div style=\"page-break-after: always\"></div>
+
 Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
 ## 4.9 Overdose
@@ -482,8 +482,6 @@ Reporting suspected adverse reactions after authorisation of the medicinal produ
 There is no experience regarding teriflunomide overdose or intoxication in humans. Teriflunomide 70 mg daily was administered up to 14 days in healthy subjects. The adverse reactions were consistent with the safety profile for teriflunomide in MS patients.
 
 ## Management
-
-<div style=\"page-break-after: always\"></div>
 
 In the event of relevant overdose or toxicity, cholestyramine or activated charcoal is recommended to accelerate elimination. The recommended elimination procedure is cholestyramine 8 g three times a day for 11 days. If this is not well tolerated, cholestyramine 4 g three times a day for 11 days can be used. Alternatively, when cholestyramine is not available, activated charcoal 50 g twice a day for 11 days may also be used. In addition, if required for tolerability reasons, administration of cholestyramine or activated charcoal does not need to occur on consecutive days (see section 5.2).
 
@@ -511,15 +509,13 @@ In a placebo-controlled thorough QT study performed in healthy subjects, teriflu
 
 In the placebo-controlled studies, mean decreases in serum uric acid at a range of 20 to 30% were observed in patients treated with teriflunomide compared to placebo. Mean decrease in serum phosphorus was around 10% in the teriflunomide group compared to placebo. These effects are considered to be related to increase in renal tubular excretion and not related to changes in glomerular functions.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Clinical efficacy and safety
 
 The efficacy of teriflunomide was demonstrated in two placebo-controlled studies, the TEMSO and the TOWER study, that evaluated once daily doses of teriflunomide 7 mg and 14 mg in adult patients with RMS.
 
-A total of 1,088 patients with RMS were randomised in TEMSO to receive 7 mg (n=366) or 14 mg (n=359) of teriflunomide or placebo (n= 363) for 108 weeks duration. All patients had a definite diagnosis of MS (based on McDonald criteria (2001)), exhibited a relapsing clinical course, with or without progression, and experienced at least 1 relapse over the year preceding the trial or at least 2 relapses over the 2 years preceding the trial. At entry, patients had an Expanded Disability Status Scale (EDSS) score
-
-<div style=\"page-break-after: always\"></div>
-
-≤ 5.5. The mean age of the study population was 37.9 years. The majority of patients had relapsingremitting multiple sclerosis (91.5%), but a subgroup of patients had secondary progressive (4.7%) or progressive relapsing multiple sclerosis (3.9%). The mean number of relapses within the year before study inclusion was 1.4 with 36.2% of patients having gadolinium-enhancing lesions at baseline. The median EDSS score at baseline was 2.50 ; 249 patients (22.9%) had an EDSS score › 3.5 at baseline. The mean duration of disease, since first symptoms, was 8.7 years. A majority of patients (73%) had not received disease-modifying therapy during the 2 years before study entry. The study results are shown in Table 1.
+A total of 1,088 patients with RMS were randomised in TEMSO to receive 7 mg (n=366) or 14 mg (n=359) of teriflunomide or placebo (n= 363) for 108 weeks duration. All patients had a definite diagnosis of MS (based on McDonald criteria (2001)), exhibited a relapsing clinical course, with or without progression, and experienced at least 1 relapse over the year preceding the trial or at least 2 relapses over the 2 years preceding the trial. At entry, patients had an Expanded Disability Status Scale (EDSS) score ≤ 5.5. The mean age of the study population was 37.9 years. The majority of patients had relapsingremitting multiple sclerosis (91.5%), but a subgroup of patients had secondary progressive (4.7%) or progressive relapsing multiple sclerosis (3.9%). The mean number of relapses within the year before study inclusion was 1.4 with 36.2% of patients having gadolinium-enhancing lesions at baseline. The median EDSS score at baseline was 2.50 ; 249 patients (22.9%) had an EDSS score › 3.5 at baseline. The mean duration of disease, since first symptoms, was 8.7 years. A majority of patients (73%) had not received disease-modifying therapy during the 2 years before study entry. The study results are shown in Table 1.
 
 Long term follow-up results from TEMSO long term extension safety study (overall median treatment duration approximately 5 years, maximum treatment duration approximately 8.5 years) did not present any new or unexpected safety findings.
 
@@ -759,7 +755,7 @@ Name and address of the manufacturer responsible for batch release
 
 Mylan Hungary Kft Mylan utca 1 Komárom H-2900 Hungary
 
-Viatris Germany GmbH Zweigniederlassung Bad Homburg Benzstrasse 1 Bad Homburg v. d. Höhe 61352 Germany
+Mylan Germany GmbH Zweigniederlassung Bad Homburg Benzstrasse 1 Bad Homburg v. d. Höhe 61352 Germany
 
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
@@ -919,8 +915,7 @@ EXP
 
 Store below 25 ° C.
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROMSUCHMEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|---------------------------------------------------------------------------------------------------------------------------------------|
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 | 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
 |-------|--------------------------------------------------------|
@@ -942,8 +937,7 @@ Lot
 | 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
 |-------|-------------------------------------|
 
-| 15.   | INSTRUCTIONS ONUSE   |
-|-------|----------------------|
+15. INSTRUCTIONS ON USE
 
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
@@ -952,8 +946,8 @@ Teriflunomide Viatris 14 mg
 
 <div style=\"page-break-after: always\"></div>
 
-| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
-|-------|----------------------------------|
+| 17. UNIQUE IDENTIFIER - 2D BARCODE   |
+|--------------------------------------|
 
 2D barcode carrying the unique identifier included.
 
@@ -1032,9 +1026,7 @@ Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/22/1698/006  Bottle (HDPE)  84 tablets
-
-EU/1/22/1698/007  Bottle (HDPE)  98 tablets
+EU/1/22/1698/006  Bottle (HDPE)  84 tablets EU/1/22/1698/007  Bottle (HDPE)  98 tablets
 
 ## 13. BATCH NUMBER
 
@@ -1069,7 +1061,60 @@ NN
 | 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
 |------|------------------------------|
 
-Teriflunomide Viatris 14 mg tablets teriflunomide
+| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
+|------|-------------------------------------------|
+
+| 3.   | EXPIRY DATE   |
+|------|---------------|
+
+| 4.   | BATCH NUMBER   |
+|------|----------------|
+
+| 5.   | OTHER   |
+|------|---------|
+
+MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
+
+BLISTERS
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Teriflunomide Viatris 14 mg film-coated tablets teriflunomide
+
+2.
+
+NAME OF THE MARKETING AUTHORISATION HOLDER
+
+Viatris Limited
+
+3.
+
+EXPIRY DATE
+
+EXP
+
+4.
+
+BATCH NUMBER
+
+Lot
+
+5.
+
+OTHER
+
+Oral use
+
+<div style=\"page-break-after: always\"></div>
+
+| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
+|-----------------------------------------------------|
+| BLISTER (CALENDAR PACK)                             |
+
+| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
+|------|------------------------------|
+
+Teriflunomide Viatris 14 mg film-coated tablets teriflunomide
 
 | 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
 |------|-------------------------------------------|
@@ -1089,34 +1134,21 @@ Lot
 | 5.   | OTHER   |
 |------|---------|
 
-Oral use Teriflunomide Viatris 14 mg tablets teriflunomide Viatris Limited EXP
-
-<div style=\"page-break-after: always\"></div>
-
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
-|------------------------------------------------------|
-| BLISTER (CALENDAR PACK)                              |
-
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
-
-| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
-|------|-------------------------------------------|
-
-| 3.   | EXPIRY DATE   |
-|------|---------------|
-
-| 4.   | BATCH NUMBER   |
-|------|----------------|
-
-Lot
-
-| 5.   | OTHER   |
-|------|---------|
-
 Oral use
 
-Mon. Tue. Wed. Thu. Fri. Sat. Sun.
+Mon.
+
+Tue.
+
+Wed.
+
+Thu.
+
+Fri.
+
+Sat.
+
+Sun.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1133,10 +1165,12 @@ teriflunomide
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
 - -
+- -
 
 Keep this leaflet. You may need to read it again.
 
-- -If you have any further questions, ask your doctor or pharmacist.
+If you have any further questions, ask your doctor or pharmacist.
+
 - -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
 - -If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
 
@@ -1199,7 +1233,7 @@ Talk to your doctor or pharmacist before taking Teriflunomide Viatris if:
 
 - -you have liver problems, and/or if you drink large amounts of alcohol. Your doctor will carry out blood tests before and during treatment to check how well your liver is working. If your test results show a problem with your liver, your doctor may stop your treatment with Teriflunomide Viatris. Please read section 4.
 - -you have high blood pressure (hypertension) whether it is controlled with medicines or not. Teriflunomide Viatris can cause an increase in blood pressure. Your doctor will check your blood pressure before the start of treatment and regularly thereafter. Please read section 4.
-- -you have an infection. Before you take Teriflunomide Viatris, your doctor will make sure you have enough white blood cells and platelets in your blood. As Teriflunomide Viatris decreases the number of white cells in the blood this may affect your ability to fight the infection. Your doctor may do blood tests to check your white blood cells if you think you have any infection. Herpes virus infections, including oral herpes or herpes zoster (shingles) may occur with teriflunomide treatment. In some cases, serious complications have occurred. You should inform your doctor immediately if you suspect you have any symptoms of herpes virus infection. Please read section 4.
+- -you have an infection. Before you take Teriflunomide Viatris, your doctor will make sure you have enough white blood cells and platelets in your blood. As Teriflunomide Viatris decreases the number of white cells in the blood this may affect your ability to fight the infection. Your doctor may do blood tests to check your white blood cells if you think you have any infection. Herpes virus infections, including oral herpes or herpes zoster (shingles) may occur with teriflunomide treatment. In some cases, serious complications have occurred. You should inform your doctor immediately if you suspect you have any symptoms of herpes virus infections. Please read section 4.
 - -you have severe skin reactions
 - -you have respiratory symptoms
 - -you have weakness, numbness and pain in the hands and feet
@@ -1208,9 +1242,16 @@ Talk to your doctor or pharmacist before taking Teriflunomide Viatris if:
 - -you are switching to or from Teriflunomide Viatris
 - -you are due to have a specific blood test (calcium level). Falsely low levels of calcium can be detected.
 
+Talk  to your doctor or pharmacist:
+
+- -if you develop skin ulcers or experience impaired wound healing while being treated with Teriflunomide Viatris.
+- -if you will have or have had recent major surgery, or if you still have an unhealed wound following surgery as Teriflunomide Viatris may impair wound healing.
+
 ## Respiratory reactions
 
 Tell your doctor if you have unexplained cough and dyspnoea (shortness of breath). Your doctor may perform additional tests.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Children and adolescents
 
@@ -1218,15 +1259,11 @@ Teriflunomide Viatris is not intended for use in children under 10 years of age,
 
 The warnings and precautions listed above also apply to children. The following information is important for children and their caregivers:
 
-<div style=\"page-break-after: always\"></div>
-
 - -inflammation of the pancreas has been observed in patients receiving teriflunomide. Your child's doctor may carry out blood tests if an inflammation to the pancreas is suspected.
 
 ## Other medicines and Teriflunomide Viatris
 
-Tell your doctor or pharmacist if you are taking, have recently taken or might take any other medicines.
-
-This includes medicines obtained without a prescription.
+Tell your doctor or pharmacist if you are taking, have recently taken or might take any other medicines. This includes medicines obtained without a prescription.
 
 In particular, tell your doctor or pharmacist if you are taking any of the following:
 
@@ -1262,9 +1299,9 @@ Tell your doctor if you plan to become pregnant after stopping treatment with Te
 
 For further information on the laboratory testing please contact your doctor.
 
-If you suspect that you are pregnant while taking Teriflunomide Viatris or in the two years after you have stopped treatment, you must discontinue Teriflunomide Viatris and contact your doctor immediately for a pregnancy test. If the test confirms that you are pregnant, your doctor may suggest treatment with certain medicines to remove Teriflunomide Viatris rapidly and sufficiently from your body, as this may decrease the risk to your baby.
-
 <div style=\"page-break-after: always\"></div>
+
+If you suspect that you are pregnant while taking Teriflunomide Viatris or in the two years after you have stopped treatment, you must discontinue Teriflunomide Viatris and contact your doctor immediately for a pregnancy test. If the test confirms that you are pregnant, your doctor may suggest treatment with certain medicines to remove Teriflunomide Viatris rapidly and sufficiently from your body, as this may decrease the risk to your baby.
 
 ## Contraception
 
@@ -1310,6 +1347,8 @@ Children and adolescents who reach a stable body weight above 40 kg will be inst
 
 ## Route/method of administration
 
+<div style=\"page-break-after: always\"></div>
+
 Teriflunomide Viatris is for oral use. Teriflunomide Viatris is taken every day as a single dose at any time of the day.
 
 You should swallow the tablet whole with some water.
@@ -1317,8 +1356,6 @@ You should swallow the tablet whole with some water.
 Teriflunomide Viatris may be taken with or without food.
 
 ## If you take more Teriflunomide Viatris than you should
-
-<div style=\"page-break-after: always\"></div>
 
 If you have taken too much Teriflunomide Viatris, call your doctor straight away. You may experience side effects similar to those described in section 4 below.
 
@@ -1342,7 +1379,7 @@ The following side effects may happen with this medicine.
 
 Some side effects could be or could become serious, if you experience any of these, tell your doctor immediately:
 
-## Common (may affect up to 1 in 10 people)
+Common (may affect up to 1 in 10 people)
 
 - -Inflammation of the pancreas which might include symptoms of pain in the abdominal area, nausea, or vomiting (the frequency is common in paediatric patients and uncommon in adult patients).
 
@@ -1359,19 +1396,18 @@ Some side effects could be or could become serious, if you experience any of the
 
 ## Other side effects can occur with the following frequencies:
 
-## Very common (may affect more than 1 in 10 people)
+Very common (may affect more than 1 in 10 people)
 
 - -Headache
 - -Diarrhoea, feeling sick
 - -Increase in ALT (increase in blood levels of certain hepatic enzymes) shown in tests
 - -Hair thinning.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Common (may affect up to 1 in 10 people)
 
 - -Influenza, upper respiratory tract infection, urinary tract infection, bronchitis, sinusitis, sore throat and discomfort when swallowing, cystitis, gastroenteritis viral, tooth infection, laryngitis, fungal infection of the foot
-
-<div style=\"page-break-after: always\"></div>
-
 - -Herpes virus infections, including oral herpes and herpes zoster (shingles) with symptoms such as blisters, burning, itching, numbness or pain of the skin, typically on one side of the upper body or face, and other symptoms, like fever and weakness
 - -Laboratory values: a decrease in the number of red blood cells (anaemia), changes in liver and white blood cell test results (see section 2), as well as elevations in a muscle enzyme (creatine phosphokinase) have been observed
 - -Mild allergic reactions
@@ -1419,9 +1455,9 @@ The side effects listed above also apply to children and adolescents. The follow
 
 If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
 
-## 5. How to store Teriflunomide Viatris
-
 <div style=\"page-break-after: always\"></div>
+
+## 5. How to store Teriflunomide Viatris
 
 Keep this medicine out of the sight and reach of children.
 
@@ -1452,15 +1488,21 @@ Not all pack sizes may be marketed.
 
 ## Marketing Authorisation Holder
 
-Viatris Limited Damastown Industrial Park, Mulhuddart, Dublin 15, DUBLIN, Ireland
+Viatris Limited Damastown Industrial Park, Mulhuddart, Dublin 15, DUBLIN,
+
+Ireland
 
 ## Manufacturer
 
 Mylan Hungary Kft Mylan utca 1 Komárom H-2900 Hungary
 
-Viatris Germany GmbH Zweigniederlassung Bad Homburg Benzstrasse 1 Bad Homburg v. d. Höhe 61352 Germany For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
+Mylan Germany GmbH Zweigniederlassung Bad Homburg Benzstrasse 1 Bad Homburg v. d. Höhe 61352
 
 <div style=\"page-break-after: always\"></div>
+
+## Germany
+
+For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 ## België/Belgique/Belgien
 
@@ -1470,11 +1512,9 @@ Tél/Tel: + 32 (0)2 658 61 00
 
 ## България
 
-Виатрис ЕООД
+Майлан ЕООД
 
-Тел
-
-.: +359 2 44 55 400
+Тел: +359 2 44 55 400
 
 ## Česká republika
 
@@ -1490,7 +1530,9 @@ Tlf: +45 28 11 69 32
 
 ## Deutschland
 
-Viatris Healthcare GmbH Tel: +49 800 0700 800
+Viatris Healthcare GmbH
+
+Tel: +49 800 0700 800
 
 ## Eesti
 
@@ -1502,7 +1544,7 @@ Tel: + 372 6363 052
 
 Viatris Hellas Ltd
 
-Τηλ:  +30 210 0 100 002
+Τηλ :  +30 2100 100 002
 
 ## España
 
@@ -1536,10 +1578,6 @@ Símí: +354 540 8000
 
 ## Italia
 
-Viatris Italia S.r.l.
-
-Tel: + 39 (0) 2 612 46921
-
 ## Lietuva
 
 Viatris UAB
@@ -1558,15 +1596,19 @@ Tél/Tel: + 32 (0)2 658 61 00
 
 Viatris Healthcare Kft.
 
-Tel.: + 36 1 465 2100
+Tel: + 36 1 465 2100
 
 ## Malta
 
-V.J. Salomone Pharma Ltd Tel: + 356 21 22 01 74
+V.J. Salomone Pharma Ltd
+
+Tel: + 356 21 22 01 74
 
 ## Nederland
 
-Mylan BV Tel: +31 (0)20 426 3300
+Mylan BV
+
+Tel: +31 (0)20 426 3300
 
 ## Norge
 
@@ -1582,7 +1624,9 @@ Tel: +43 1 86390
 
 ## Polska
 
-Viatris Healthcare Sp. z o.o. Tel: + 48 22 546 64 00
+Viatris Healthcare Sp. z o.o.
+
+Tel: + 48 22 546 64 00
 
 ## Portugal
 
@@ -1610,11 +1654,13 @@ Tel: +421 2 32 199 100
 
 ## Suomi/Finland
 
+Viatris Italia S.r.l.
+
+Tel: + 39 (0) 2 612 46921
+
 Viatris Oy
 
 Puh/Tel: +358 20 720 9555
-
-<div style=\"page-break-after: always\"></div>
 
 ## Κύπρος
 
@@ -1624,18 +1670,20 @@ CPO Pharmaceuticals Limited
 
 +357 22863100
 
-## Latvija
+Sverige Viatris AB
+
+Tel: + 46 (0)8 630 19 00
+
+Latvija
 
 Viatris SIA
 
 Tel: +371 676 055 80
+
+<div style=\"page-break-after: always\"></div>
 
 ## This leaflet was last revised in
 
 ## Other sources of information
 
 Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu
-
-Sverige Viatris AB
-
-Tel: + 46 (0)8 630 19 00

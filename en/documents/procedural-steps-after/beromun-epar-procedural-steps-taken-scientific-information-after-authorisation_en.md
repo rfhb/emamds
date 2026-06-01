@@ -1,0 +1,63 @@
+---
+document_datetime: 2026-05-28 13:32:32
+document_pages: 6
+document_pathfilename: www.ema.europa.eu/en/documents/procedural-steps-after/beromun-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
+document_name: beromun-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
+version: success
+processing_time: 3.7220673
+conversion_datetime: 2026-06-01 17:23:33.328896
+docling_version:
+  docling-serve: 1.20.0
+  docling-jobkit: 1.20.1
+  docling: 2.96.1
+  docling-core: 2.78.0
+  docling-ibm-models: 3.13.2
+  docling-parse: 6.2.0
+  python: cpython-313 (3.13.11)
+  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
+---
+## Beromun
+
+Procedural steps taken and scientific information after the authorisation*
+
+*Due to the Agency`s update of its procedure management systems, an additional document, reflecting the historical lifecycle may be available in the 'Assessment history' section. For the complete product lifecycle procedures, you may need to also refer to EPAR - Procedural steps taken and scientific information after authorisation (archive) .
+
+| Application number   | Scope   | Opinion/ Notification 1 issued on   | Commission Decision Issued 2 / amended on   | Product Information affected 3   | Summary   |
+|----------------------|---------|-------------------------------------|---------------------------------------------|----------------------------------|-----------|
+| Variation type IB /  |         | 26/05/2026                          |                                             | SmPC                             |           |
+
+<!-- image -->
+
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
+
+| EMA/VR/0000342387   | Outcome: Q.II.f.1.b) Extension of the shelf life of the finished product - Q.II.f.1.b.1 As packaged for sale (supported by real time data, fully in line with the stability protocol) - Accepted                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |            |                   |
+|---------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|-------------------|
+| Variation type II / | Outcome: This was an application for a group of variations. B.II.b.2 Change to importer, batch release arrangements and quality control testing of the finished product - B.II.b.2.b Replacement or addition of a site where batch control/testing takes place for a biological/immunological product and any of the test methods performed at the site is a biological/immunological method - Accepted B.II.d.2 Change in test procedure for the finished product - B.II.d.2.c Substantial change to, or replacement of, a biological/ immunological/ immunochemical test method or a method using a biological reagent or replacement of a biological reference preparation not covered by an approved protocol - Accepted | 26/03/2026 | EMA/VR/0000317483 |
+
+<div style=\"page-break-after: always\"></div>
+
+| Variation type IB / EMA/VR/0000320490   | Outcome: This was an application for a group of variations. B.I.b.1 Change in the specification parameters and/or limits of an active substance, starting material / intermediate / reagent used in the manufacturing process of the active substance - B.I.b.1.b Tightening of specification limits - Accepted B.I.b.1 Change in the specification parameters and/or limits of an active substance, starting material / intermediate / reagent used in the manufacturing process of the active substance - B.I.b.1.b Tightening of specification limits - Accepted B.I.b.1 Change in the specification parameters and/or limits of an active substance, starting material / intermediate / reagent used in the manufacturing process of the active substance - B.I.b.1.b Tightening of specification limits - Accepted B.I.a.1 Change in the manufacturer of a starting material/reagent/intermediate used in the manufacturing process of the active substance or change in the manufacturer   | 23/02/2026   |
+|-----------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|
+
+<div style=\"page-break-after: always\"></div>
+
+|                                       | testing sites) of the active substance, where no Ph. Eur. Certificate of Suitability is part of the approved dossier - B.I.a.1.f Changes to quality control testing arrangements for the active substance-replacement or addition of a site where batch control/testing takes place - Accepted B.II.b.2 Change to importer, batch release arrangements and quality control testing of the finished product - B.II.b.2.a Replacement or addition of a site where batch control/testing takes place - Accepted                           |            |
+|---------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|
+| Variation type IB / EMA/VR/0000302067 | Outcome: This was an application for a group of variations. A. ADMINISTRATIVE CHANGES - A.4 Change in the name and/or address of: a manufacturer (including where relevant quality control testing sites); or an ASMF holder; or a supplier of the active substance, starting material, reagent or intermediate used in the manufacture of the active substance (where specified in the technical dossier) where no Ph. Eur. Certificate of Suitability is part of the approved dossier; or a manufacturer of a novel excipient (where | 03/11/2025 |
+
+<div style=\"page-break-after: always\"></div>
+
+|                                          | specified in the technical dossier) - Accepted A.5 Change in the name and/or address of a manufacturer/importer of the finished product (including batch release or quality control testing sites) - A.5.b The activities for which the manufacturer/importer is responsible do not include batch release - Accepted B.II.b.3 Change in the manufacturing process of the finished product, including an intermediate used in the manufacture of the finished product - B.II.b.3.a Minor change in the manufacturing process - Accepted   |            |                |
+|------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|----------------|
+| Variation type IA_IN / EMA/VR/0000302851 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | 06/10/2025 |                |
+|                                          | Outcome: B.V.a.1 Inclusion of a new, updated or amended Plasma Master File in the marketing authorisation dossier of a medicinal product. (PMF 2nd step procedure) - B.V.a.1.d Inclusion of an updated/amended Plasma Master File when changes do not                                                                                                                                                                                                                                                                                    | 10/06/2025 | Variation type |
+| IB / EMA/VR/0000258425                   | Outcome:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |            |                |
+
+<div style=\"page-break-after: always\"></div>
+
+|                                          | B.II.d.1 Change in the specification parameters and/or limits of the finished product - B.II.d.1.a Tightening of specification limits - Accepted                                                                                                                                                               |            |              |
+|------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------------|
+| Variation type IA_IN / EMA/VR/0000258374 | Outcome: B.V.a.1 Inclusion of a new, updated or amended Plasma Master File in the marketing authorisation dossier of a medicinal product. (PMF 2nd step procedure) - B.V.a.1.d Inclusion of an updated/amended Plasma Master File when changes do not affect the properties of the finished product - Accepted | 12/03/2025 |              |
+| PSUR / EMA/PSUR/0000317660               | EURD: PSUSA/00002850/202508 Active substance: tasonermin Outcome: Maintenance                                                                                                                                                                                                                                  | 10/04/2026 | Maintenance. |

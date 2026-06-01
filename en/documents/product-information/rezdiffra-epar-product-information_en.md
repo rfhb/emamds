@@ -1,22 +1,24 @@
 ---
-document_datetime: 2025-11-10 10:34:56
+document_datetime: 2026-05-27 11:01:40
 document_pages: 35
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/rezdiffra-epar-product-information_en.pdf
 document_name: rezdiffra-epar-product-information_en.pdf
 version: success
-processing_time: 6.4011
-conversion_datetime: 2025-12-28 02:20:44.787135
+processing_time: 11.9893572
+conversion_datetime: 2026-06-01 17:09:34.679223
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.20.0
+  docling-jobkit: 1.20.1
+  docling: 2.96.1
+  docling-core: 2.78.0
+  docling-ibm-models: 3.13.2
+  docling-parse: 6.2.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
 ---
-## ANNEX I SUMMARY OF PRODUCT CHARACTERISTICS
+## ANNEX I
+
+## SUMMARY OF PRODUCT CHARACTERISTICS
 
 <div style=\"page-break-after: always\"></div>
 
@@ -151,6 +153,10 @@ Resmetirom is partially metabolised by CYP2C8.
 
 Clopidogrel, a moderate CYP2C8 inhibitor, increased resmetirom exposure (1.3-fold in Cmax and 1.7fold in AUC) in healthy adult subjects. Dose adjustment of resmetirom is recommended when used concomitantly with moderate CYP2C8 inhibitors. As greater increases are expected with strong inhibitors (e.g. gemfibrozil), their use is not recommended (see section 4.2).
 
+## OATP1B1, OATP1B3 and BCRP inhibitors
+
+No clinically significant differences in the pharmacokinetics of resmetirom were observed when used concomitantly with ciclosporin (an OATP1B1/1B3 and BCRP inhibitor).
+
 <div style=\"page-break-after: always\"></div>
 
 ## Effects of resmetirom on other medicinal products
@@ -171,10 +177,6 @@ The dose of rosuvastatin and simvastatin should be limited to a daily dose of 20
 Resmetirom is a substrate and mild inhibitor of CYP2C8. In a clinical study in healthy subjects, coadministration of a single oral dose of pioglitazone (15 mg), a moderately sensitive CYP2C8 substrate, with resmetirom (100 mg/day) resulted in a 1.5-fold increase in the AUC of pioglitazone, with no change in Cmax.
 
 Although no dose adjustment is required, clinical monitoring is recommended when resmetirom is used with certain CYP2C8 substrates for which small increases in exposure may lead to serious or dose-related adverse reactions.
-
-## OATP1B1, OATP1B3 and BCRP inhibitors
-
-No clinically significant differences in the pharmacokinetics of resmetirom were observed when used concomitantly with ciclosporin (an OATP1B1/1B3 and BCRP inhibitor).
 
 ## Warfarin
 
@@ -220,7 +222,7 @@ The most common reason for discontinuation in all age groups was withdrawal by s
 
 Unless otherwise stated, the frequencies of adverse reactions in Table 1 are based on all-cause adverse event frequencies identified in patients randomised to the double-blind treatment arms of the Phase 3 clinical studies (MAESTRO-NASH and MAESTRO-NAFLD-1).
 
-Adverse reactions are listed by MedDRA system organ class and frequency: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1 000 to &lt; 1/100); rare (≥ 1/10 000 to &lt; 1/1 000); very rare  (&lt; 1/10 000); not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in the order of decreasing seriousness.
+Adverse reactions are listed by MedDRA system organ class and frequency: very common  (≥ 1/10); common  (≥ 1/100 to &lt; 1/10); uncommon  (≥ 1/1 000 to &lt; 1/100); rare  (≥ 1/10 000 to &lt; 1/1 000); very rare  (&lt; 1/10 000); not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in the order of decreasing seriousness.
 
 Table 1: List of adverse reactions in MAESTRO-NASH and MAESTRO-NAFLD-1
 
@@ -233,11 +235,9 @@ Table 1: List of adverse reactions in MAESTRO-NASH and MAESTRO-NAFLD-1
 
 ## Description of selected adverse reactions
 
+Liver enzyme elevations Mild increases in mean alanine aminotransferase (ALT) and aspartate aminotransferase (AST) levels were observed in the first 4 weeks after initiating treatment with resmetirom. These elevations were more common in patients on concomitant statin therapy. In both resmetirom dose arms, the mean elevation in ALT and AST values was less than 1.5 times baseline at 4 weeks after treatment initiation. These values returned to baseline around 8 weeks after initiating treatment.
+
 <div style=\"page-break-after: always\"></div>
-
-## Liver enzyme elevations
-
-Mild increases in mean alanine aminotransferase (ALT) and aspartate aminotransferase (AST) levels were observed in the first 4 weeks after initiating treatment with resmetirom. These elevations were more common in patients on concomitant statin therapy. In both resmetirom dose arms, the mean elevation in ALT and AST values was less than 1.5 times baseline at 4 weeks after treatment initiation. These values returned to baseline around 8 weeks after initiating treatment.
 
 ## Thyroid function tests
 
@@ -247,7 +247,7 @@ A decrease in levels of prohormone free T4 (FT4) of mean 2%, 13%, and 17% was se
 
 ## Elderly
 
-Of the 1794 patients with MASH in clinical studies of resmetirom who received the recommended dose (80 mg or 100 mg), 440 (25%) were 65 years of age or older and 54 (3%) were 75 years of age or older. D iscontinuation rates among older patients ≥ 65 years of age in MAESTRO-NASH were higher at 100 mg than 80 mg.
+Of the 1794 patients with MASH in clinical studies of resmetirom who received the recommended dose (80 mg or 100 mg), 440 (25%) were 65 years of age or older and 54 (3%) were 75 years of age or older. Discontinuation rates among older patients ≥ 65 years of age in MAESTRO-NASH were higher at 100 mg than 80 mg.
 
 ## Reporting of suspected adverse reactions
 
@@ -269,11 +269,9 @@ Pharmacotherapeutic group: Bile and liver therapy, liver therapy, ATC code: A05B
 
 ## Mechanism of action
 
-Resmetirom is a liver-directed partial agonist for the thyroid hormone receptor beta (THRβ ). Resmetirom produced 83.8% of the maximum response compared to triiodothyronine (T3), with an EC50 of 0.21 μM in an in vitro functional assay for THRβ activation. The same functional assay for thyroid hormone receptor alpha (THRα) agonism showed 48.6% efficacy for resmetirom relative to T3, with an EC50 of 3.74 μM. THR -β is the predominant form of THR in the liver. Stimulation of THRβ in the liver improves mitochondrial function and lipid metabolism, and increases fatty acid β -oxidation, thereby reducing lipotoxic liver fat, inflammation and liver fibrosis. Resmetirom's liver
+Resmetirom is a liver-directed partial agonist for the thyroid hormone receptor beta (THR-β). Resmetirom produced 83.8% of the maximum response compared to triiodothyronine (T3), with an EC50 of 0.21 μM in an in vitro functional assay for THR-β activation. The same functional assay for thyroid hormone receptor alpha (THR-α) agonism showed 48.6% efficacy for resmetirom relative to T3, with an EC50 of 3.74 μM. THR-β is the predominant form of THR in the liver. Stimulation of THR-β in the liver improves mitochondrial function and lipid metabolism, and increases fatty acid βoxidation, thereby reducing lipotoxic liver fat, inflammation and liver fibrosis. Resmetirom's liver directed THR-β agonism is particularly relevant in the treatment of MASH and leads to minimal offtarget activity on THR-α in tissues such as heart and bone.
 
 <div style=\"page-break-after: always\"></div>
-
-directed THRβ agonism is particularly relevant in the treatment of MASH and leads to minimal offtarget activity on THRα in tissues such as heart and bone.
 
 ## Pharmacodynamic effects
 
@@ -305,11 +303,9 @@ Patients with metabolic risk factors were included in MAESTRO-NASH who had a bas
 
 The 52-week assessment included 917 patients with F2 or F3 fibrosis who received resmetirom 80 mg (n=306), resmetirom 100 mg (n=308), or placebo (n=303) once daily, in addition to lifestyle counselling on diet and exercise. Patients were on stable doses of medicinal products for diabetes, dyslipidaemia and hypertension. Patients were stratified by baseline type-2 diabetes status (present/absent) and fibrosis stage.
 
-Demographics and baseline disease characteristics were balanced between treatment arms. The mean (SD) age at baseline was 57 (11) years. 25% of patients were older than 65 years, and 2% of patients were 75 years of age or older. Overall, 56% were female, ethnicity was 21% Hispanic, and races
+Demographics and baseline disease characteristics were balanced between treatment arms. The mean (SD) age at baseline was 57 (11) years. 25% of patients were older than 65 years, and 2% of patients were 75 years of age or older. Overall, 56% were female, ethnicity was 21% Hispanic, and races included 89% White, 3% Other, 3% Asian and 2% Black. The mean BMI was 36 (7) and mean body weight was 101 (23) kg. The baseline disease and comorbidity characteristics are shown in Table 2.
 
 <div style=\"page-break-after: always\"></div>
-
-included 89% White, 3% Other, 3% Asian and 2% Black. The mean BMI was 36 (7) and mean body weight was 101 (23) kg. The baseline disease and comorbidity characteristics are shown in Table 2.
 
 Table 2: Baseline disease and comorbidity characteristics in F2 and F3 patients enrolled in MAESTRO-NASH
 
@@ -332,16 +328,16 @@ Table 2: Baseline disease and comorbidity characteristics in F2 and F3 patients 
 
 Note:  Patients who were rescored F4 at baseline were considered F3 for the purposes of stratification and analysis and are included in F3 numbers.
 
-The 80 and 100 mg doses of resmetirom achieved both primary endpoints with statistically significant improvement relative to placebo in NASH resolution and fibrosis improvement (by 1 stage) (Table 3). Confidence intervals for other study endpoints were not controlled for multiple determinations. NASH resolution and fibrosis improvement were consistent regardless of age, gender, diabetes status, and baseline fibrosis stage. NASH resolution and fibrosis improvement (combined) and 2-stage reduction in fibrosis also improved with both doses of resmetirom relative to placebo (Table 3).
+The 80 and 100 mg doses of resmetirom achieved both primary endpoints with statistically significant improvement relative to placebo in NASH resolution and fibrosis improvement (by 1 stage) (Table 3). Confidence intervals for other study endpoints were not controlled for multiple determinations. NASH resolution and fibrosis improvement were consistent regardless of age, gender, diabetes status, and baseline fibrosis stage. NASH resolution and fibrosis improvement (combined) and 2-stage reduction in fibrosis also improved with both doses of resmetirom relative to placebo.
 
 Table 3: Effect of resmetirom in F2/F3 patients at week 52 on the primary liver biopsy endpoints of MAESTRO-NASH
 
-| Week 52 Endpoint                | Resmetirom 80 mg (N=300)   | Resmetirom 100 mg (N=306)   | Placebo (N=300)   |
+| Week 52 Endpoint                | Resmetirom 80 mg (N=300)   | Resmetirom 100 mg (N=306)   |   Placebo (N=300) |
 |---------------------------------|----------------------------|-----------------------------|-------------------|
-| NASH Resolution (%)             | 26                         | 30                          | 10                |
+| NASH Resolution (%)             | 26                         | 30                          |                10 |
 | %difference vs placebo (95% CI) | 16 (11, 22)                | 21 (15, 26)                 |                   |
 | p-value                         | < 0.0001                   | < 0.0001                    |                   |
-| Fibrosis Improvement (%)        | 27                         | 29                          | 17                |
+| Fibrosis Improvement (%)        | 27                         | 29                          |                17 |
 | %difference vs placebo (95% CI) | 9 (4, 15)                  | 12 (6, 18)                  |                   |
 | p-value                         | 0.0017                     | < 0.0001                    |                   |
 
@@ -353,13 +349,11 @@ Decreases from baseline in liver enzymes in resmetirom versus placebo-treated pa
 
 Table 4: Mean percent change from baseline to week 48 in liver enzymes in F2-F3 patients ANCOVA with Placebo-based (-CR) Multiple Imputation (Week 52 Modified Intent-to-Treat Population - F2/F3)
 
-| Parameter                       | Resmetirom 80 mg N = 305   | Resmetirom 100 mg N = 308   |   Placebo N = 303 |
-|---------------------------------|----------------------------|-----------------------------|-------------------|
-| ALT (% CFB) Relative to placebo | -17.2 -18.2 (-27.0, -9.5)  | -22.5 -23.6 (-32.5, -14.7)  |               1   |
-| AST (% CFB) Relative to placebo | -13.8 -17.4(-25.7, -9.1)   | -18.7 -22.2(-30.7, -13.8)   |               3.6 |
-| GGT (% CFB) Relative to placebo | -21.8 -27.5(-36.8, -18.1)  | -27.4 --32.0(-42.7, -23.4)  |               5.7 |
-
-ANCOVA = analysis of covariance; %CFB = percent change from baseline; CI = confidence interval ;CR=copy reference Note: n = number of patients used to compute LSM after imputation (imputation was not done for patients with no baseline data).
+| Parameter                                | Resmetirom 80 mg N = 305   | Resmetirom 100 mg N = 308   |   Placebo N = 303 |
+|------------------------------------------|----------------------------|-----------------------------|-------------------|
+| ALT (% CFB) Relative to placebo (95% CI) | -17.2 -18.2 (-27.0, -9.5)  | -22.5 -23.6 (-32.5, -14.7)  |               1.0 |
+| AST (% CFB) Relative to placebo (95% CI) | -13.8 -17.4(-25.7, -9.1)   | -18.7 -22.2 (-30.7, -13.8)  |               3.6 |
+| GGT (% CFB) Relative to placebo (95% CI) | -21.8 -27.5(-36.8, -18.1)  | -27.4 -32.0 (-42.7, -23.4)  |               5.7 |
 
 Note:  Patients that were F3 at eligibility and re-evaluated as F4 at baseline by either pathologist are included in this analysis % CFB = percent change from baseline
 
@@ -369,16 +363,14 @@ The results of imaging endpoints overall showed support of the primary evaluatio
 
 Table 5: Mean change from baseline for Imaging Endpoints at Week 52 in F2/F3 patientsANCOVA with Placebo-based (CR) Multiple Imputation (Week 52 Modified Intent-to-Treat Population - F2/F3)
 
-| Parameter                    | Resmetirom 80 mg     | Resmetirom 100 mg    | Placebo   |
+| Parameter                    | Resmetirom 80 mg     | Resmetirom 100 mg    |   Placebo |
 |------------------------------|----------------------|----------------------|-----------|
-| N                            | 294                  | 299                  | 290       |
-| Fibroscan VCTE (kPa) (CFB)   | -2.3                 | -3.0                 | -1.5      |
+| N                            | 294                  | 299                  |       290 |
+| Fibroscan VCTE (kPa) (CFB)   | -2.3                 | -3.0                 |      -1.5 |
 | Relative to placebo (95% CI) | -0.82 (-1.7, 0.01)   | -1.5 (-2.4, -0.7)    |           |
-| N                            | 291                  | 298                  | 289       |
-| Fibroscan CAP (dB/m) (CFB)   | -36.0                | -37.1                | -15.0     |
+| N                            | 291                  | 298                  |       289 |
+| Fibroscan CAP (dB/m) (CFB)   | -36.0                | -37.1                |     -15.0 |
 | Relative to placebo (95% CI) | -21.0 (-30.5, -11.6) | -22.2 (-31.4, -12.9) |           |
-
-ANCOVA = analysis of covariance; CFB = change from baseline; CI = confidence interval; CR=Copy Reference
 
 Note: n = number of patients used to compute LSM after imputation (imputation was not done for patients with no baseline data).
 
@@ -388,10 +380,10 @@ Resmetirom reduced lipid and lipoprotein particles to a greater extent than plac
 
 Table 6: Mean percent change from baseline to week 52 in LDL-C in F2/F3 patients
 
-| Parameter           | Resmetirom 80 mg    | Resmetirom 100 mg    | Placebo   |
+| Parameter           | Resmetirom 80 mg    | Resmetirom 100 mg    |   Placebo |
 |---------------------|---------------------|----------------------|-----------|
-| N                   | 305                 | 308                  | 303       |
-| LDL-C (% CFB)       | -13.3               | -17.6                | 0         |
+| N                   | 305                 | 308                  |       303 |
+| LDL-C (% CFB)       | -13.3               | -17.6                |         0 |
 | Relative to placebo | -13.5 (-17.9, -9.5) | -17.9 (-22.0, -13.8) |           |
 
 Note: N is based on 917 total patients minus one patient in the Resmetirom 80 mg group who did not have a baseline LDL-C value.
@@ -437,11 +429,11 @@ The apparent volume of distribution at steady-state (Vd/F) of resmetirom is high
 
 In vitro studies showed that resmetirom is partially metabolised by CYP2C8 and is a substrate of transporters including OATP1B1, OATP1B3 and BCRP.
 
-Resmetirom has two  major metabolites: oxalic acid and MGL-3623. MGL-3623 is approximately 30-fold less potent at THRβ than resmetirom. MGL-3623 represented approximately 16% and oxalic acid represented approximately 15% of total plasma AUC in a repeat-dose oral mass balance study using a 100 mg solution dose of resmetirom. MGL-3623 does not accumulate with repeated dosing of resmetirom.
+Resmetirom has two  major metabolites: oxalic acid and MGL-3623. MGL-3623 is approximately 30-fold less potent at THR-β than resmetirom. MGL-3623 represented approximately 16% and oxalic acid represented approximately 15% of total plasma AUC in a repeat-dose oral mass balance study using a 100 mg solution dose of resmetirom. MGL-3623 does not accumulate with repeated dosing of resmetirom.
 
 ## Elimination
 
-Based on population pharmacokinetic analysis, in MASH patient with fibrosis stage F2/F3, the median terminal plasma half-life (t½) of resmetirom 4.5 hours.  The mean apparent clearance (CL/F) at steady state is 18.6 (64.4%) L/h.
+Based on a population pharmacokinetic analysis, in MASH patients with fibrosis stage F2/F3, the median terminal plasma half-life (t½) of resmetirom is 4.5 hours.  The mean apparent clearance (CL/F) at steady state is 18.6 L/h (CV%: 64.4).
 
 ## Special populations
 
@@ -453,17 +445,15 @@ The disposition of resmetirom and its metabolite were compared in non-MASH patie
 
 Compared to subjects with normal hepatic function, following repeated 80 mg dosing for 6 days, the percent ratio of geometric mean of AUC for resmetirom,  were 115%, 303%, and 2,350% in patients with mild, moderate, and severe hepatic impairment, respectively.  The percent ratio of geometric means for Cmax were 133%, 196%, and 919%, respectively (see section 4.2).
 
-The disposition of resmetirom and its metabolite were compared in MASH patients, with MASH cirrhosis categorised with mild hepatic impairment (Child-Pugh Class A) and non-cirrhotic MASH following repeated 100 mg dosing of resmetirom for 6 days. The PK disposition of resmetitom was not altered in MASH cirrhosis patients with mild hepatic impairment (Child-Pugh Class A) compared with non-cirrhotic MASH patients. No dose adjustment is recommended for patients with mild hepatic impairment (Child-Pugh Class A cirrhosis).
+The disposition of resmetirom and its metabolite were compared in MASH patients, with MASH cirrhosis categorised with mild hepatic impairment (Child-Pugh Class A) and non-cirrhotic MASH following repeated 100 mg dosing of resmetirom for 6 days. The PK disposition of resmetirom was not altered in MASH cirrhosis patients with mild hepatic impairment (Child-Pugh Class A) compared with non-cirrhotic MASH patients. No dose adjustment is recommended for patients with mild hepatic impairment (Child-Pugh Class A cirrhosis).
 
 The safety and effectiveness of resmetirom have not been established in patients with MASH cirrhosis.
 
 ## Renal impairment
 
-The pharmacokinetics of resmetirom and its metabolite MGL-3623 were evaluated in subjects with mild, moderate and severe renal impairment. Renal excretion is a minor elimination pathway. In patients with mild and moderate renal impairment, exposure to resmetirom was comparable to that in subjects with normal renal function and was not clinically relevant. In patients with severe renal impairment (eGFR &lt; 30 mL/min/1.73 m²), repeated dosing resulted in an approximately 1.5-fold increase in AUC and a 1.3-fold increase in Cmax for resmetirom compared to matched healthy controls. Exposure to the metabolite MGL-3623 was increased to a lesser extent. These increases remained within the variability observed in the general population at the recommended dose.  Importantly, the observed changes in exposure were not associated with clinically meaningful alterations in
+The pharmacokinetics of resmetirom and its metabolite MGL-3623 were evaluated in subjects with mild, moderate and severe renal impairment. Renal excretion is a minor elimination pathway. In subjects with mild and moderate renal impairment, exposure to resmetirom was comparable to that in subjects with normal renal function and was not clinically relevant. In subjects with severe renal impairment (eGFR &lt; 30 mL/min/1.73 m²), repeated dosing resulted in an approximately 1.5-fold increase in AUC and a 1.3-fold increase in Cmax for resmetirom compared to matched healthy controls. Exposure to the metabolite MGL-3623 was increased to a lesser extent. These increases remained within the variability observed in the general population at the recommended dose.  Importantly, the observed changes in exposure were not associated with clinically meaningful alterations in pharmacodynamic markers (including thyroid hormones, lipids, and SHBG) or safety signals. Therefore, no dose adjustment is considered necessary in patients with renal impairment (see section 4.2).
 
 <div style=\"page-break-after: always\"></div>
-
-pharmacodynamic markers (including thyroid hormones, lipids, and SHBG) or safety signals. Therefore, no dose adjustment is considered necessary in patients with renal impairment (see section 4.2).
 
 ## Other special populations
 
@@ -493,11 +483,9 @@ No effects on embryo-fetal development were observed in pregnant rats treated or
 
 ## Tablet core
 
-Microcrystalline cellulose Mannitol
+Microcrystalline cellulose Mannitol Croscarmellose sodium Colloidal anhydrous silica Magnesium stearate
 
 <div style=\"page-break-after: always\"></div>
-
-Croscarmellose sodium Colloidal anhydrous silica Magnesium stearate
 
 ## Tablet coating
 
@@ -517,9 +505,7 @@ Not applicable.
 
 ## 6.4 Special precautions for storage
 
-Store below 30
-
-° C.
+Store below 30  C.
 
 ## 6.5 Nature and contents of container
 
@@ -545,7 +531,7 @@ EU/1/25/1962/003
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-Date of first authorisation:
+Date of first authorisation: 18 August 2025
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -655,7 +641,7 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-Store below 30 ° C.
+Store below 30  C.
 
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
@@ -765,7 +751,7 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-Store below 30 ° C.
+Store below 30  C.
 
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
@@ -875,7 +861,7 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-Store below 30 ° C.
+Store below 30  C.
 
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
@@ -983,7 +969,7 @@ Rezdiffra contains the active substance resmetirom.
 
 Rezdiffra is a medicine used in adults to treat metabolic dysfunction-associated steatohepatitis (MASH). MASH is a liver disease where fat builds up in the liver, which can result in inflammation and damage to the liver cells. Rezdiffra is used in adults who have experienced inflammation and cell damage, resulting in moderate scarring (stage 2 fibrosis) or significant scarring (stage 3 fibrosis).
 
-The active substance in Rezdiffra, resmetirom, works by binding to and activating a protein called thyroid hormone receptor beta (THRβ) in a type of liver cell called hepatocytes. In patients with MASH, THRβ is working less. By activating THRβ in the liver, resmetirom increases fat breakdown. This reduces the amount of fat stored in the liver which can help reduce inflammation, fibrosis and improve its function.
+The active substance in Rezdiffra, resmetirom, works by binding to and activating a protein called thyroid hormone receptor beta (THR-β) in a type of liver cell called hepatocytes. In patients with MASH, THR-β is working less. By activating THR-β in the liver, resmetirom increases fat breakdown. This reduces the amount of fat stored in the liver which can help reduce inflammation, fibrosis and improve its function.
 
 ## 2. What you need to know before you take Rezdiffra
 
@@ -1114,7 +1100,7 @@ Keep this medicine out of the sight and reach of children.
 
 Do not use this medicine after the expiry date which is stated on the carton and blister after EXP. The expiry date refers to the last day of that month.
 
-Store below 30 ° C.
+Store below 30  C.
 
 Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
 
@@ -1126,7 +1112,9 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 - -Rezdiffra 60 mg: 60 mg of resmetirom.
 - -Rezdiffra 80 mg: 80 mg of resmetirom.
 - -Rezdiffra 100 mg: 100 mg of resmetirom.
-- -The other ingredients are:
+
+## -The other ingredients are:
+
 - -Tablet core : Microcrystalline cellulose, mannitol, croscarmellose sodium (see section 2 'Rezdiffra contains sodium'), colloidal anhydrous silica, magnesium stearate.
 - -Tablet film-coating : Poly(vinyl alcohol), titanium dioxide (E171), macrogol, talc.
 - -Rezdiffra 80 mg film-coated tablets also contain yellow iron oxide (E172).

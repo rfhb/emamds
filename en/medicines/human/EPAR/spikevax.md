@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-04-29 10:29:00
+document_datetime: 2026-05-28 15:36:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/spikevax.html
 document_name: spikevax.html
 version: success
-processing_time: 0.2341004
-conversion_datetime: 2026-05-05 19:36:44.635928
+processing_time: 0.2335472
+conversion_datetime: 2026-06-01 16:56:58.718339
 docling_version:
-  docling-serve: 1.17.0
-  docling-jobkit: 1.18.0
-  docling: 2.92.0
-  docling-core: 2.74.1
+  docling-serve: 1.20.0
+  docling-jobkit: 1.20.1
+  docling: 2.96.1
+  docling-core: 2.78.0
   docling-ibm-models: 3.13.2
-  docling-parse: 5.10.1
+  docling-parse: 6.2.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
 ---
 # Spikevax (previously COVID-19 Vaccine Moderna)
 
@@ -231,7 +231,7 @@ English (EN) (179.32 KB - PDF)
 
 [View](/en/documents/overview/spikevax-previously-covid-19-vaccine-moderna-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-621)
+[Other languages (22)](#file-language-dropdown-197)
 
 български (BG) (235.49 KB - PDF)
 
@@ -383,7 +383,7 @@ English (EN) (1.14 MB - PDF)
 
 [View](/en/documents/product-information/spikevax-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-475)
+[Other languages (24)](#file-language-dropdown-82)
 
 български (BG) (1.45 MB - PDF)
 
@@ -555,7 +555,7 @@ English (EN) (90.22 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/spikevax-previously-covid-19-vaccine-moderna-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-63)
+[Other languages (24)](#file-language-dropdown-390)
 
 български (BG) (126.99 KB - PDF)
 
@@ -1627,9 +1627,9 @@ Documents published within the scope of the exceptional transparency measures th
 
 Spikevax : Module 2.3.S drug substance
 
-English (EN) (20.67 MB - ZIP)
+English (EN) (31.25 MB - ZIP)
 
-**First published:** 30/01/2026 **Last updated:** 29/04/2026
+**First published:** 30/01/2026 **Last updated:** 28/05/2026
 
 [View](/en/documents/other/spikevax-module-23-quality-overall-summary_en.zip)
 
@@ -1804,6 +1804,6 @@ English (EN) (2.01 MB - DOCX)
 
 **This page was last updated on**
 
-29/04/2026
+28/05/2026
 
 ## Share this page

@@ -1,32 +1,32 @@
 ---
-document_datetime: 2025-12-29 11:48:28
+document_datetime: 2026-05-29 17:02:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/optison.html
 document_name: optison.html
 version: success
-processing_time: 0.0935147
-conversion_datetime: 2025-12-30 09:42:48.911811
+processing_time: 0.1028702
+conversion_datetime: 2026-06-01 16:58:14.503167
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.20.0
+  docling-jobkit: 1.20.1
+  docling: 2.96.1
+  docling-core: 2.78.0
+  docling-ibm-models: 3.13.2
+  docling-parse: 6.2.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
 ---
 # Optison
 
 [RSS](/en/individual-human-medicine.xml/66548)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-perflutren Medicine Human Authorised
+perflutren
 
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
+Medicine Human Authorised
 
 Page contents
 
@@ -97,9 +97,7 @@ Optison : EPAR - Summary for the public
 
 English (EN) (267.6 KB - PDF)
 
-**First published:** 01/08/2008
-
-**Last updated:** 01/08/2008
+**First published:** 01/08/2008 **Last updated:** 01/08/2008
 
 [View](/en/documents/overview/optison-epar-summary-public_en.pdf)
 
@@ -109,303 +107,159 @@ Optison : EPAR - Product Information
 
 English (EN) (365.43 KB - PDF)
 
-**First published:** 01/08/2008
-
-**Last updated:** 27/06/2022
+**First published:** 01/08/2008 **Last updated:** 27/06/2022
 
 [View](/en/documents/product-information/optison-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-418)
+[Other languages (24)](#file-language-dropdown-562)
 
 български (BG) (396.87 KB - PDF)
 
-**First published:**
-
-01/08/2008
-
-**Last updated:**
-
-27/06/2022
+**First published:** 01/08/2008 **Last updated:** 27/06/2022
 
 [View](/bg/documents/product-information/optison-epar-product-information_bg.pdf)
 
 español (ES) (395.85 KB - PDF)
 
-**First published:**
-
-01/08/2008
-
-**Last updated:**
-
-27/06/2022
+**First published:** 01/08/2008 **Last updated:** 27/06/2022
 
 [View](/es/documents/product-information/optison-epar-product-information_es.pdf)
 
 čeština (CS) (446.53 KB - PDF)
 
-**First published:**
-
-01/08/2008
-
-**Last updated:**
-
-27/06/2022
+**First published:** 01/08/2008 **Last updated:** 27/06/2022
 
 [View](/cs/documents/product-information/optison-epar-product-information_cs.pdf)
 
 dansk (DA) (339.02 KB - PDF)
 
-**First published:**
-
-01/08/2008
-
-**Last updated:**
-
-27/06/2022
+**First published:** 01/08/2008 **Last updated:** 27/06/2022
 
 [View](/da/documents/product-information/optison-epar-product-information_da.pdf)
 
 Deutsch (DE) (395.03 KB - PDF)
 
-**First published:**
-
-01/08/2008
-
-**Last updated:**
-
-27/06/2022
+**First published:** 01/08/2008 **Last updated:** 27/06/2022
 
 [View](/de/documents/product-information/optison-epar-product-information_de.pdf)
 
 eesti keel (ET) (377.94 KB - PDF)
 
-**First published:**
-
-01/08/2008
-
-**Last updated:**
-
-27/06/2022
+**First published:** 01/08/2008 **Last updated:** 27/06/2022
 
 [View](/et/documents/product-information/optison-epar-product-information_et.pdf)
 
 ελληνικά (EL) (383.05 KB - PDF)
 
-**First published:**
-
-01/08/2008
-
-**Last updated:**
-
-27/06/2022
+**First published:** 01/08/2008 **Last updated:** 27/06/2022
 
 [View](/el/documents/product-information/optison-epar-product-information_el.pdf)
 
 français (FR) (335.31 KB - PDF)
 
-**First published:**
-
-01/08/2008
-
-**Last updated:**
-
-27/06/2022
+**First published:** 01/08/2008 **Last updated:** 27/06/2022
 
 [View](/fr/documents/product-information/optison-epar-product-information_fr.pdf)
 
 hrvatski (HR) (445.34 KB - PDF)
 
-**First published:**
-
-01/08/2008
-
-**Last updated:**
-
-27/06/2022
+**First published:** 01/08/2008 **Last updated:** 27/06/2022
 
 [View](/hr/documents/product-information/optison-epar-product-information_hr.pdf)
 
 íslenska (IS) (347.3 KB - PDF)
 
-**First published:**
-
-01/08/2008
-
-**Last updated:**
-
-27/06/2022
+**First published:** 01/08/2008 **Last updated:** 27/06/2022
 
 [View](/is/documents/product-information/optison-epar-product-information_is.pdf)
 
 italiano (IT) (340.32 KB - PDF)
 
-**First published:**
-
-01/08/2008
-
-**Last updated:**
-
-27/06/2022
+**First published:** 01/08/2008 **Last updated:** 27/06/2022
 
 [View](/it/documents/product-information/optison-epar-product-information_it.pdf)
 
 latviešu valoda (LV) (402.05 KB - PDF)
 
-**First published:**
-
-01/08/2008
-
-**Last updated:**
-
-27/06/2022
+**First published:** 01/08/2008 **Last updated:** 27/06/2022
 
 [View](/lv/documents/product-information/optison-epar-product-information_lv.pdf)
 
 lietuvių kalba (LT) (408.92 KB - PDF)
 
-**First published:**
-
-01/08/2008
-
-**Last updated:**
-
-27/06/2022
+**First published:** 01/08/2008 **Last updated:** 27/06/2022
 
 [View](/lt/documents/product-information/optison-epar-product-information_lt.pdf)
 
 magyar (HU) (463.43 KB - PDF)
 
-**First published:**
-
-01/08/2008
-
-**Last updated:**
-
-27/06/2022
+**First published:** 01/08/2008 **Last updated:** 27/06/2022
 
 [View](/hu/documents/product-information/optison-epar-product-information_hu.pdf)
 
 Malti (MT) (454.12 KB - PDF)
 
-**First published:**
-
-01/08/2008
-
-**Last updated:**
-
-27/06/2022
+**First published:** 01/08/2008 **Last updated:** 27/06/2022
 
 [View](/mt/documents/product-information/optison-epar-product-information_mt.pdf)
 
 Nederlands (NL) (394.3 KB - PDF)
 
-**First published:**
-
-01/08/2008
-
-**Last updated:**
-
-27/06/2022
+**First published:** 01/08/2008 **Last updated:** 27/06/2022
 
 [View](/nl/documents/product-information/optison-epar-product-information_nl.pdf)
 
 norsk (NO) (334.12 KB - PDF)
 
-**First published:**
-
-01/08/2008
-
-**Last updated:**
-
-27/06/2022
+**First published:** 01/08/2008 **Last updated:** 27/06/2022
 
 [View](/no/documents/product-information/optison-epar-product-information_no.pdf)
 
 polski (PL) (428.18 KB - PDF)
 
-**First published:**
-
-01/08/2008
-
-**Last updated:**
-
-27/06/2022
+**First published:** 01/08/2008 **Last updated:** 27/06/2022
 
 [View](/pl/documents/product-information/optison-epar-product-information_pl.pdf)
 
 português (PT) (322.52 KB - PDF)
 
-**First published:**
-
-01/08/2008
-
-**Last updated:**
-
-27/06/2022
+**First published:** 01/08/2008 **Last updated:** 27/06/2022
 
 [View](/pt/documents/product-information/optison-epar-product-information_pt.pdf)
 
 română (RO) (425.04 KB - PDF)
 
-**First published:**
-
-01/08/2008
-
-**Last updated:**
-
-27/06/2022
+**First published:** 01/08/2008 **Last updated:** 27/06/2022
 
 [View](/ro/documents/product-information/optison-epar-product-information_ro.pdf)
 
 slovenčina (SK) (506.58 KB - PDF)
 
-**First published:**
-
-01/08/2008
-
-**Last updated:**
-
-27/06/2022
+**First published:** 01/08/2008 **Last updated:** 27/06/2022
 
 [View](/sk/documents/product-information/optison-epar-product-information_sk.pdf)
 
 slovenščina (SL) (425.25 KB - PDF)
 
-**First published:**
-
-01/08/2008
-
-**Last updated:**
-
-27/06/2022
+**First published:** 01/08/2008 **Last updated:** 27/06/2022
 
 [View](/sl/documents/product-information/optison-epar-product-information_sl.pdf)
 
 Suomi (FI) (304.4 KB - PDF)
 
-**First published:**
-
-01/08/2008
-
-**Last updated:**
-
-27/06/2022
+**First published:** 01/08/2008 **Last updated:** 27/06/2022
 
 [View](/fi/documents/product-information/optison-epar-product-information_fi.pdf)
 
 svenska (SV) (320.61 KB - PDF)
 
-**First published:**
-
-01/08/2008
-
-**Last updated:**
-
-27/06/2022
+**First published:** 01/08/2008 **Last updated:** 27/06/2022
 
 [View](/sv/documents/product-information/optison-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** N/0074 19/05/2022
+**Latest procedure affecting product information:** N/0074
+
+19/05/2022
 
 icon globe
 
@@ -425,269 +279,159 @@ Optison : EPAR - All Authorised presentations
 
 English (EN) (251.14 KB - PDF)
 
-**First published:** 01/08/2008
-
-**Last updated:** 01/08/2008
+**First published:** 01/08/2008 **Last updated:** 01/08/2008
 
 [View](/en/documents/all-authorised-presentations/optison-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-372)
+[Other languages (21)](#file-language-dropdown-841)
 
 български (BG) (98.74 KB - PDF)
 
-**First published:**
-
-01/08/2008
-
-**Last updated:**
-
-01/08/2008
+**First published:** 01/08/2008 **Last updated:** 01/08/2008
 
 [View](/bg/documents/all-authorised-presentations/optison-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (25 KB - PDF)
 
-**First published:**
-
-01/08/2008
-
-**Last updated:**
-
-01/08/2008
+**First published:** 01/08/2008 **Last updated:** 01/08/2008
 
 [View](/es/documents/all-authorised-presentations/optison-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (91.46 KB - PDF)
 
-**First published:**
-
-01/08/2008
-
-**Last updated:**
-
-01/08/2008
+**First published:** 01/08/2008 **Last updated:** 01/08/2008
 
 [View](/cs/documents/all-authorised-presentations/optison-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (24.7 KB - PDF)
 
-**First published:**
-
-01/08/2008
-
-**Last updated:**
-
-01/08/2008
+**First published:** 01/08/2008 **Last updated:** 01/08/2008
 
 [View](/da/documents/all-authorised-presentations/optison-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (24.94 KB - PDF)
 
-**First published:**
-
-01/08/2008
-
-**Last updated:**
-
-01/08/2008
+**First published:** 01/08/2008 **Last updated:** 01/08/2008
 
 [View](/de/documents/all-authorised-presentations/optison-epar-all-authorised-presentations_de.pdf)
 
 eesti keel (ET) (30.31 KB - PDF)
 
-**First published:**
-
-01/08/2008
-
-**Last updated:**
-
-01/08/2008
+**First published:** 01/08/2008 **Last updated:** 01/08/2008
 
 [View](/et/documents/all-authorised-presentations/optison-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (89.01 KB - PDF)
 
-**First published:**
-
-01/08/2008
-
-**Last updated:**
-
-01/08/2008
+**First published:** 01/08/2008 **Last updated:** 01/08/2008
 
 [View](/el/documents/all-authorised-presentations/optison-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (24.86 KB - PDF)
 
-**First published:**
-
-01/08/2008
-
-**Last updated:**
-
-01/08/2008
+**First published:** 01/08/2008 **Last updated:** 01/08/2008
 
 [View](/fr/documents/all-authorised-presentations/optison-epar-all-authorised-presentations_fr.pdf)
 
 italiano (IT) (24.98 KB - PDF)
 
-**First published:**
-
-01/08/2008
-
-**Last updated:**
-
-01/08/2008
+**First published:** 01/08/2008 **Last updated:** 01/08/2008
 
 [View](/it/documents/all-authorised-presentations/optison-epar-all-authorised-presentations_it.pdf)
 
 latviešu valoda (LV) (91.09 KB - PDF)
 
-**First published:**
-
-01/08/2008
-
-**Last updated:**
-
-01/08/2008
+**First published:** 01/08/2008 **Last updated:** 01/08/2008
 
 [View](/lv/documents/all-authorised-presentations/optison-epar-all-authorised-presentations_lv.pdf)
 
 lietuvių kalba (LT) (93.53 KB - PDF)
 
-**First published:**
-
-01/08/2008
-
-**Last updated:**
-
-01/08/2008
+**First published:** 01/08/2008 **Last updated:** 01/08/2008
 
 [View](/lt/documents/all-authorised-presentations/optison-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (90.81 KB - PDF)
 
-**First published:**
-
-01/08/2008
-
-**Last updated:**
-
-01/08/2008
+**First published:** 01/08/2008 **Last updated:** 01/08/2008
 
 [View](/hu/documents/all-authorised-presentations/optison-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (98.3 KB - PDF)
 
-**First published:**
-
-01/08/2008
-
-**Last updated:**
-
-01/08/2008
+**First published:** 01/08/2008 **Last updated:** 01/08/2008
 
 [View](/mt/documents/all-authorised-presentations/optison-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (24.98 KB - PDF)
 
-**First published:**
-
-01/08/2008
-
-**Last updated:**
-
-01/08/2008
+**First published:** 01/08/2008 **Last updated:** 01/08/2008
 
 [View](/nl/documents/all-authorised-presentations/optison-epar-all-authorised-presentations_nl.pdf)
 
 polski (PL) (97.78 KB - PDF)
 
-**First published:**
-
-01/08/2008
-
-**Last updated:**
-
-01/08/2008
+**First published:** 01/08/2008 **Last updated:** 01/08/2008
 
 [View](/pl/documents/all-authorised-presentations/optison-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (24.75 KB - PDF)
 
-**First published:**
-
-01/08/2008
-
-**Last updated:**
-
-01/08/2008
+**First published:** 01/08/2008 **Last updated:** 01/08/2008
 
 [View](/pt/documents/all-authorised-presentations/optison-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (92.81 KB - PDF)
 
-**First published:**
-
-01/08/2008
-
-**Last updated:**
-
-01/08/2008
+**First published:** 01/08/2008 **Last updated:** 01/08/2008
 
 [View](/ro/documents/all-authorised-presentations/optison-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (96.29 KB - PDF)
 
-**First published:**
-
-01/08/2008
-
-**Last updated:**
-
-01/08/2008
+**First published:** 01/08/2008 **Last updated:** 01/08/2008
 
 [View](/sk/documents/all-authorised-presentations/optison-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (88.15 KB - PDF)
 
-**First published:**
-
-01/08/2008
-
-**Last updated:**
-
-01/08/2008
+**First published:** 01/08/2008 **Last updated:** 01/08/2008
 
 [View](/sl/documents/all-authorised-presentations/optison-epar-all-authorised-presentations_sl.pdf)
 
 Suomi (FI) (29.81 KB - PDF)
 
-**First published:**
-
-01/08/2008
-
-**Last updated:**
-
-01/08/2008
+**First published:** 01/08/2008 **Last updated:** 01/08/2008
 
 [View](/fi/documents/all-authorised-presentations/optison-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (60.24 KB - PDF)
 
-**First published:**
-
-01/08/2008
-
-**Last updated:**
-
-01/08/2008
+**First published:** 01/08/2008 **Last updated:** 01/08/2008
 
 [View](/sv/documents/all-authorised-presentations/optison-epar-all-authorised-presentations_sv.pdf)
 
 ## Product details
 
-Name of medicine Optison Active substance perflutren International non-proprietary name (INN) or common name perflutren Therapeutic area (MeSH) Echocardiography Anatomical therapeutic chemical (ATC) code V08DA01
+Name of medicine
+
+Optison
+
+Active substance
+
+perflutren
+
+International non-proprietary name (INN) or common name
+
+perflutren
+
+Therapeutic area (MeSH)
+
+Echocardiography
+
+Anatomical therapeutic chemical (ATC) code
+
+V08DA01
 
 ### Pharmacotherapeutic group
 
@@ -703,13 +447,23 @@ Optison should only be used in patients where the study without contrast enhance
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/000166 Marketing authorisation holder
+EMA product number
+
+EMEA/H/C/000166
+
+Marketing authorisation holder
 
 GE Healthcare AS
 
 Nycoveien 1
 
-Marketing authorisation issued 17/05/1998 Revision 19
+Marketing authorisation issued
+
+17/05/1998
+
+Revision
+
+20
 
 ## Assessment history
 
@@ -723,23 +477,27 @@ Optison : EPAR - Procedural steps taken and scientific information after authori
 
 English (EN) (230.77 KB - PDF)
 
-**First published:** 02/12/2009
-
-**Last updated:** 27/06/2022
+**First published:** 02/12/2009 **Last updated:** 27/06/2022
 
 [View](/en/documents/procedural-steps-after/optison-epar-procedural-steps-taken-and-scientific-information-after-authorisation_en.pdf)
 
+Optison-PAM-0000291275 : EPAR - Assessment report
+
+Adopted Reference Number: EMADOC-1700519818-3200457
+
+English (EN) (545.17 KB - PDF)
+
+**First published:** 29/05/2026
+
+[View](/en/documents/variation-report/optison-pam-0000291275-epar-assessment-report_en.pdf)
+
 Optison-H-C-166-Z-32  : EPAR - Assessment Report - Lifting of suspension
 
-Adopted
-
-Reference Number: EMEA/712803/2009
+Adopted Reference Number: EMEA/712803/2009
 
 English (EN) (42.59 KB - PDF)
 
-**First published:** 02/12/2009
-
-**Last updated:** 02/12/2009
+**First published:** 02/12/2009 **Last updated:** 02/12/2009
 
 [View](/en/documents/variation-report/optison-h-c-166-z-32-epar-assessment-report-lifting-suspension_en.pdf)
 
@@ -747,9 +505,7 @@ Optison : EPAR - Steps taken after authorisation when a cutoff date has been use
 
 English (EN) (348.74 KB - PDF)
 
-**First published:** 01/08/2008
-
-**Last updated:** 01/08/2008
+**First published:** 01/08/2008 **Last updated:** 01/08/2008
 
 [View](/en/documents/steps-after-cutoff/optison-epar-steps-taken-after-authorisation-when-cutoff-date-has-been-used_en.pdf)
 
@@ -759,18 +515,16 @@ Optison : EPAR - Procedural steps taken before authorisation
 
 English (EN) (315.97 KB - PDF)
 
-**First published:** 01/08/2008
-
-**Last updated:** 01/08/2008
+**First published:** 01/08/2008 **Last updated:** 01/08/2008
 
 [View](/en/documents/procedural-steps/optison-epar-procedural-steps-taken-authorisation_en.pdf)
 
-#### Topics
+## Topics
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 27/06/2022
+**This page was last updated on**
+
+29/05/2026
 
 ## Share this page
-
-[Back to top](#main-content)

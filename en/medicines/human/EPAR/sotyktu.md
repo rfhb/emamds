@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-05-12 17:25:00
+document_datetime: 2026-06-03 15:10:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/sotyktu.html
 document_name: sotyktu.html
 version: success
-processing_time: 0.1247156
-conversion_datetime: 2026-05-13 13:17:20.572407
+processing_time: 0.1270359
+conversion_datetime: 2026-06-04 22:15:48.044486
 docling_version:
-  docling-serve: 1.17.0
-  docling-jobkit: 1.18.0
-  docling: 2.92.0
-  docling-core: 2.74.1
+  docling-serve: 1.21.0
+  docling-jobkit: 1.20.1
+  docling: 2.97.0
+  docling-core: 2.78.0
   docling-ibm-models: 3.13.2
-  docling-parse: 5.10.1
+  docling-parse: 6.2.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
 ---
 # Sotyktu
 
@@ -56,7 +56,7 @@ Expand section
 
 Collapse section
 
-## How is Sotyktu used?
+### How is Sotyktu used?
 
 Sotyktu can only be obtained with a prescription. Treatment should be started by a doctor experienced in the diagnosis and treatment of the conditions for which Sotyktu is used.
 
@@ -64,11 +64,11 @@ Sotyktu is available as tablets to be taken once a day. The doctor should evalua
 
 For more information about using Sotyktu, including dose recommendations, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Sotyktu work?
+### How does Sotyktu work?
 
 The active substance in Sotyktu, deucravacitinib, blocks the action of an enzyme inside cells called tyrosine kinase 2 (TYK2) which belongs to the Janus kinases (JAK) family of proteins. This enzyme plays a role in triggering the production of substances known as cytokines, which are involved in the inflammation and other processes that cause psoriasis and psoriatic arthritis. By blocking the action of TYK2, deucravacitinib prevents the production of cytokines, thereby reducing inflammation and improving the symptoms of these conditions.
 
-## What benefits of Sotyktu have been shown in studies?
+### What benefits of Sotyktu have been shown in studies?
 
 **Plaque psoriasis**
 
@@ -88,7 +88,7 @@ Symptoms continued to improve after 16 weeks of treatment with Sotyktu, and resu
 
 Studies carried out with Sotyktu are described in more detail in the medicine's assessment reports.
 
-## What are the side effects and restrictions with Sotyktu?
+### What are the side effects and restrictions with Sotyktu?
 
 For the full list of side effects and restrictions with Sotyktu, see the package leaflet.
 
@@ -96,7 +96,7 @@ The most common side effect with Sotyktu (which may affect more than 1 in 10 peo
 
 Patients who have an important or long-term infection, or an infection that keeps coming back, must not take this medicine.
 
-## Why is Sotyktu authorised in the EU?
+### Why is Sotyktu authorised in the EU?
 
 Sotyktu was shown to be effective at reducing symptoms of moderate to severe plaque psoriasis. Sotyktu provides an additional treatment option for patients with plaque psoriasis who have not yet been treated with systemic therapy and those who do not benefit from other systemic therapies. Sotyktu was also shown to be effective at treating psoriatic arthritis in adults who could not take, or whose condition had not improved enough with a prior DMARD.
 
@@ -104,13 +104,13 @@ Side effects are mild to moderate and manageable.
 
 Therefore, the European Medicines Agency decided that Sotyktu's benefits are greater than its risks and it can be authorised for use in the EU.
 
-## What measures are being taken to ensure the safe and effective use of Sotyktu?
+### What measures are being taken to ensure the safe and effective use of Sotyktu?
 
 Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Sotyktu have been included in the summary of product characteristics and the package leaflet.
 
 As for all medicines, data on the use of Sotyktu are continuously monitored. Suspected side effects reported with Sotyktu are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Sotyktu
+### Other information about Sotyktu
 
 Sotyktu received a marketing authorisation valid throughout the EU on 24 March 2023.
 
@@ -124,7 +124,7 @@ English (EN) (138.84 KB - PDF)
 
 [View](/en/documents/overview/sotyktu-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-931)
+[Other languages (22)](#file-language-dropdown-258)
 
 български (BG) (152.88 KB - PDF)
 
@@ -156,7 +156,7 @@ Deutsch (DE) (140.52 KB - PDF)
 
 [View](/de/documents/overview/sotyktu-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (150.86 KB - PDF)
+eesti (ET) (150.86 KB - PDF)
 
 **First published:** 31/03/2023 **Last updated:** 12/05/2026
 
@@ -186,13 +186,13 @@ italiano (IT) (133.84 KB - PDF)
 
 [View](/it/documents/overview/sotyktu-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (175.35 KB - PDF)
+latviešu (LV) (175.35 KB - PDF)
 
 **First published:** 31/03/2023 **Last updated:** 12/05/2026
 
 [View](/lv/documents/overview/sotyktu-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (149.61 KB - PDF)
+lietuvių (LT) (149.61 KB - PDF)
 
 **First published:** 31/03/2023 **Last updated:** 12/05/2026
 
@@ -246,7 +246,7 @@ slovenščina (SL) (148.05 KB - PDF)
 
 [View](/sl/documents/overview/sotyktu-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (131.17 KB - PDF)
+suomi (FI) (131.17 KB - PDF)
 
 **First published:** 31/03/2023 **Last updated:** 12/05/2026
 
@@ -262,7 +262,7 @@ Sotyktu : EPAR - Risk Management Plan
 
 English (EN) (4.5 MB - PDF)
 
-**First published:** 31/03/2023 **Last updated:** 12/05/2026
+**First published:** 31/03/2023 **Last updated:** 03/06/2026
 
 [View](/en/documents/rmp/sotyktu-epar-risk-management-plan_en.pdf)
 
@@ -270,161 +270,161 @@ English (EN) (4.5 MB - PDF)
 
 Sotyktu : EPAR - Product information
 
-English (EN) (319.16 KB - PDF)
+English (EN) (381.92 KB - PDF)
 
-**First published:** 31/03/2023 **Last updated:** 12/05/2026
+**First published:** 31/03/2023 **Last updated:** 03/06/2026
 
 [View](/en/documents/product-information/sotyktu-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-34)
+[Other languages (24)](#file-language-dropdown-527)
 
-български (BG) (425.69 KB - PDF)
+български (BG) (428.66 KB - PDF)
 
-**First published:** 31/03/2023 **Last updated:** 12/05/2026
+**First published:** 31/03/2023 **Last updated:** 03/06/2026
 
 [View](/bg/documents/product-information/sotyktu-epar-product-information_bg.pdf)
 
-español (ES) (359.22 KB - PDF)
+español (ES) (356.76 KB - PDF)
 
-**First published:** 31/03/2023 **Last updated:** 12/05/2026
+**First published:** 31/03/2023 **Last updated:** 03/06/2026
 
 [View](/es/documents/product-information/sotyktu-epar-product-information_es.pdf)
 
-čeština (CS) (397.96 KB - PDF)
+čeština (CS) (401.36 KB - PDF)
 
-**First published:** 31/03/2023 **Last updated:** 12/05/2026
+**First published:** 31/03/2023 **Last updated:** 03/06/2026
 
 [View](/cs/documents/product-information/sotyktu-epar-product-information_cs.pdf)
 
-dansk (DA) (342.77 KB - PDF)
+dansk (DA) (343.42 KB - PDF)
 
-**First published:** 31/03/2023 **Last updated:** 12/05/2026
+**First published:** 31/03/2023 **Last updated:** 03/06/2026
 
 [View](/da/documents/product-information/sotyktu-epar-product-information_da.pdf)
 
-Deutsch (DE) (381.81 KB - PDF)
+Deutsch (DE) (337.11 KB - PDF)
 
-**First published:** 31/03/2023 **Last updated:** 12/05/2026
+**First published:** 31/03/2023 **Last updated:** 03/06/2026
 
 [View](/de/documents/product-information/sotyktu-epar-product-information_de.pdf)
 
-eesti keel (ET) (360.57 KB - PDF)
+eesti (ET) (337 KB - PDF)
 
-**First published:** 31/03/2023 **Last updated:** 12/05/2026
+**First published:** 31/03/2023 **Last updated:** 03/06/2026
 
 [View](/et/documents/product-information/sotyktu-epar-product-information_et.pdf)
 
-ελληνικά (EL) (444.23 KB - PDF)
+ελληνικά (EL) (447.48 KB - PDF)
 
-**First published:** 31/03/2023 **Last updated:** 12/05/2026
+**First published:** 31/03/2023 **Last updated:** 03/06/2026
 
 [View](/el/documents/product-information/sotyktu-epar-product-information_el.pdf)
 
-français (FR) (354 KB - PDF)
+français (FR) (326.72 KB - PDF)
 
-**First published:** 31/03/2023 **Last updated:** 12/05/2026
+**First published:** 31/03/2023 **Last updated:** 03/06/2026
 
 [View](/fr/documents/product-information/sotyktu-epar-product-information_fr.pdf)
 
-hrvatski (HR) (392.82 KB - PDF)
+hrvatski (HR) (394.59 KB - PDF)
 
-**First published:** 31/03/2023 **Last updated:** 12/05/2026
+**First published:** 31/03/2023 **Last updated:** 03/06/2026
 
 [View](/hr/documents/product-information/sotyktu-epar-product-information_hr.pdf)
 
-íslenska (IS) (360.86 KB - PDF)
+italiano (IT) (340.78 KB - PDF)
 
-**First published:** 31/03/2023 **Last updated:** 12/05/2026
-
-[View](/is/documents/product-information/sotyktu-epar-product-information_is.pdf)
-
-italiano (IT) (438.58 KB - PDF)
-
-**First published:** 31/03/2023 **Last updated:** 12/05/2026
+**First published:** 31/03/2023 **Last updated:** 03/06/2026
 
 [View](/it/documents/product-information/sotyktu-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (464.06 KB - PDF)
+latviešu (LV) (396.79 KB - PDF)
 
-**First published:** 31/03/2023 **Last updated:** 12/05/2026
+**First published:** 31/03/2023 **Last updated:** 03/06/2026
 
 [View](/lv/documents/product-information/sotyktu-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (463.78 KB - PDF)
+lietuvių (LT) (417.29 KB - PDF)
 
-**First published:** 31/03/2023 **Last updated:** 12/05/2026
+**First published:** 31/03/2023 **Last updated:** 03/06/2026
 
 [View](/lt/documents/product-information/sotyktu-epar-product-information_lt.pdf)
 
-magyar (HU) (469.5 KB - PDF)
+magyar (HU) (413.27 KB - PDF)
 
-**First published:** 31/03/2023 **Last updated:** 12/05/2026
+**First published:** 31/03/2023 **Last updated:** 03/06/2026
 
 [View](/hu/documents/product-information/sotyktu-epar-product-information_hu.pdf)
 
-Malti (MT) (498.4 KB - PDF)
+Malti (MT) (478.52 KB - PDF)
 
-**First published:** 31/03/2023 **Last updated:** 12/05/2026
+**First published:** 31/03/2023 **Last updated:** 03/06/2026
 
 [View](/mt/documents/product-information/sotyktu-epar-product-information_mt.pdf)
 
-Nederlands (NL) (329.18 KB - PDF)
+Nederlands (NL) (331.12 KB - PDF)
 
-**First published:** 31/03/2023 **Last updated:** 12/05/2026
+**First published:** 31/03/2023 **Last updated:** 03/06/2026
 
 [View](/nl/documents/product-information/sotyktu-epar-product-information_nl.pdf)
 
-norsk (NO) (418.1 KB - PDF)
+polski (PL) (406.22 KB - PDF)
 
-**First published:** 31/03/2023 **Last updated:** 12/05/2026
-
-[View](/no/documents/product-information/sotyktu-epar-product-information_no.pdf)
-
-polski (PL) (525.06 KB - PDF)
-
-**First published:** 31/03/2023 **Last updated:** 12/05/2026
+**First published:** 31/03/2023 **Last updated:** 03/06/2026
 
 [View](/pl/documents/product-information/sotyktu-epar-product-information_pl.pdf)
 
-português (PT) (367.36 KB - PDF)
+português (PT) (443.35 KB - PDF)
 
-**First published:** 31/03/2023 **Last updated:** 12/05/2026
+**First published:** 31/03/2023 **Last updated:** 03/06/2026
 
 [View](/pt/documents/product-information/sotyktu-epar-product-information_pt.pdf)
 
-română (RO) (457.79 KB - PDF)
+română (RO) (459.44 KB - PDF)
 
-**First published:** 31/03/2023 **Last updated:** 12/05/2026
+**First published:** 31/03/2023 **Last updated:** 03/06/2026
 
 [View](/ro/documents/product-information/sotyktu-epar-product-information_ro.pdf)
 
-slovenčina (SK) (528.65 KB - PDF)
+slovenčina (SK) (402.54 KB - PDF)
 
-**First published:** 31/03/2023 **Last updated:** 12/05/2026
+**First published:** 31/03/2023 **Last updated:** 03/06/2026
 
 [View](/sk/documents/product-information/sotyktu-epar-product-information_sk.pdf)
 
-slovenščina (SL) (517.91 KB - PDF)
+slovenščina (SL) (399.59 KB - PDF)
 
-**First published:** 31/03/2023 **Last updated:** 12/05/2026
+**First published:** 31/03/2023 **Last updated:** 03/06/2026
 
 [View](/sl/documents/product-information/sotyktu-epar-product-information_sl.pdf)
 
-Suomi (FI) (325.17 KB - PDF)
+suomi (FI) (327.94 KB - PDF)
 
-**First published:** 31/03/2023 **Last updated:** 12/05/2026
+**First published:** 31/03/2023 **Last updated:** 03/06/2026
 
 [View](/fi/documents/product-information/sotyktu-epar-product-information_fi.pdf)
 
-svenska (SV) (343.07 KB - PDF)
+svenska (SV) (399.11 KB - PDF)
 
-**First published:** 31/03/2023 **Last updated:** 12/05/2026
+**First published:** 31/03/2023 **Last updated:** 03/06/2026
 
 [View](/sv/documents/product-information/sotyktu-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000282554
+Íslenska (IS) (313.46 KB - PDF)
 
-30/04/2026
+**First published:** 31/03/2023 **Last updated:** 03/06/2026
+
+[View](/is/documents/product-information/sotyktu-epar-product-information_is.pdf)
+
+norsk (NO) (315.6 KB - PDF)
+
+**First published:** 31/03/2023 **Last updated:** 03/06/2026
+
+[View](/no/documents/product-information/sotyktu-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** VR/0000309456
+
+10/04/2026
 
 icon globe
 
@@ -448,7 +448,7 @@ English (EN) (49.38 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/sotyktu-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-304)
+[Other languages (24)](#file-language-dropdown-860)
 
 български (BG) (66.39 KB - PDF)
 
@@ -480,7 +480,7 @@ Deutsch (DE) (50.13 KB - PDF)
 
 [View](/de/documents/all-authorised-presentations/sotyktu-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (50.59 KB - PDF)
+eesti (ET) (50.59 KB - PDF)
 
 **First published:** 31/03/2023
 
@@ -504,25 +504,19 @@ hrvatski (HR) (56.22 KB - PDF)
 
 [View](/hr/documents/all-authorised-presentations/sotyktu-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (50.36 KB - PDF)
-
-**First published:** 31/03/2023
-
-[View](/is/documents/all-authorised-presentations/sotyktu-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (49.75 KB - PDF)
 
 **First published:** 31/03/2023
 
 [View](/it/documents/all-authorised-presentations/sotyktu-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (66.03 KB - PDF)
+latviešu (LV) (66.03 KB - PDF)
 
 **First published:** 31/03/2023
 
 [View](/lv/documents/all-authorised-presentations/sotyktu-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (65.84 KB - PDF)
+lietuvių (LT) (65.84 KB - PDF)
 
 **First published:** 31/03/2023
 
@@ -545,12 +539,6 @@ Nederlands (NL) (48.83 KB - PDF)
 **First published:** 31/03/2023
 
 [View](/nl/documents/all-authorised-presentations/sotyktu-epar-all-authorised-presentations_nl.pdf)
-
-norsk (NO) (46.36 KB - PDF)
-
-**First published:** 31/03/2023
-
-[View](/no/documents/all-authorised-presentations/sotyktu-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (57.74 KB - PDF)
 
@@ -582,7 +570,7 @@ slovenščina (SL) (53.28 KB - PDF)
 
 [View](/sl/documents/all-authorised-presentations/sotyktu-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (45.73 KB - PDF)
+suomi (FI) (45.73 KB - PDF)
 
 **First published:** 31/03/2023
 
@@ -593,6 +581,18 @@ svenska (SV) (49.45 KB - PDF)
 **First published:** 31/03/2023
 
 [View](/sv/documents/all-authorised-presentations/sotyktu-epar-all-authorised-presentations_sv.pdf)
+
+Íslenska (IS) (50.36 KB - PDF)
+
+**First published:** 31/03/2023
+
+[View](/is/documents/all-authorised-presentations/sotyktu-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (46.36 KB - PDF)
+
+**First published:** 31/03/2023
+
+[View](/no/documents/all-authorised-presentations/sotyktu-epar-all-authorised-presentations_no.pdf)
 
 ## Product details
 
@@ -652,7 +652,7 @@ Marketing authorisation issued
 
 Revision
 
-5
+6
 
 ## Assessment history
 
@@ -660,13 +660,13 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Sotyktu : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (166.08 KB - PDF)
+English (EN) (163.96 KB - PDF)
 
-**First published:** 12/05/2026
+**First published:** 12/05/2026 **Last updated:** 03/06/2026
 
 [View](/en/documents/procedural-steps-after/sotyktu-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -698,7 +698,7 @@ English (EN) (123.5 KB - PDF)
 
 [View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-sotyktu-vr-0000282554_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Sotyktu : EPAR - Public Assessment Report
 
@@ -739,6 +739,6 @@ English (EN) (129.72 KB - PDF)
 
 **This page was last updated on**
 
-12/05/2026
+03/06/2026
 
 ## Share this page

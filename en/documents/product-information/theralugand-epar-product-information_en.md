@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-04-01 16:20:04
+document_datetime: 2026-06-02 16:42:44
 document_pages: 30
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/theralugand-epar-product-information_en.pdf
 document_name: theralugand-epar-product-information_en.pdf
 version: success
-processing_time: 10.6456811
-conversion_datetime: 2026-04-13 14:05:52.46718
+processing_time: 13.8558759
+conversion_datetime: 2026-06-04 22:30:30.395028
 docling_version:
-  docling-serve: 1.16.1
-  docling-jobkit: 1.16.0
-  docling: 2.87.0
-  docling-core: 2.73.0
-  docling-ibm-models: 3.13.0
-  docling-parse: 5.8.0
+  docling-serve: 1.21.0
+  docling-jobkit: 1.20.1
+  docling: 2.97.0
+  docling-core: 2.78.0
+  docling-ibm-models: 3.13.2
+  docling-parse: 6.2.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I SUMMARY OF PRODUCT CHARACTERISTICS
 
@@ -49,7 +49,7 @@ Table 1: Lutetium ( 177 Lu) principal radiation emission data
 | Radiation   |   Energy (keV)* |   Abundance (%) |
 |-------------|-----------------|-----------------|
 | Beta (β - ) |           47.23 |           11.66 |
-| Beta (β - ) |          111.2  |            8.89 |
+| Beta (β - ) |          111.20 |            8.89 |
 | Beta (β - ) |          148.84 |           79.44 |
 | Gamma       |          112.95 |            6.23 |
 | Gamma       |          208.37 |           10.41 |
@@ -337,11 +337,9 @@ If at any time in the preparation of this radiopharmaceutical precursor solution
 
 Administration procedures should be carried out in a way to minimise risk of contamination of the radiopharmaceutical precursor solution and irradiation of the operators. Adequate shielding is mandatory.
 
-The surface dose rates and the accumulated dose depend on many factors. Measurements on the location and during work are critical and should be practiced for more precise and instructive determination of overall radiation dose to the staff. Healthcare personnel are advised to limit the time of close contact with patients injected with lutetium ( 177 Lu)-labelled radiopharmaceuticals. The use of
+The surface dose rates and the accumulated dose depend on many factors. Measurements on the location and during work are critical and should be practiced for more precise and instructive determination of overall radiation dose to the staff. Healthcare personnel are advised to limit the time of close contact with patients injected with lutetium ( 177 Lu)-labelled radiopharmaceuticals. The use of television monitor systems to monitor the patients is recommended. Given the long half-life of lutetium ( 177 Lu), it is specially recommended to avoid internal contamination. For this reason, it is mandatory to use protective high quality (latex/nitrile) gloves in any direct contact with the radiopharmaceutical (vial/syringe) and with the patient. For minimising radiation exposure resulting from repeated exposition there is no recommendation except the strict observance of the above ones.
 
 <div style=\"page-break-after: always\"></div>
-
-television monitor systems to monitor the patients is recommended. Given the long half-life of lutetium ( 177 Lu), it is specially recommended to avoid internal contamination. For this reason, it is mandatory to use protective high quality (latex/nitrile) gloves in any direct contact with the radiopharmaceutical (vial/syringe) and with the patient. For minimising radiation exposure resulting from repeated exposition there is no recommendation except the strict observance of the above ones.
 
 The administration of radiopharmaceuticals creates risks for other persons from external radiation or contamination from spill of urine, vomiting, etc. Radiation protection precautions in accordance with national regulations must therefore be taken.
 
@@ -371,11 +369,9 @@ Information on radiation dosimetry of each different lutetium ( 177 Lu)-labelled
 
 The dosimetry tables below are presented in order to evaluate the contribution of non-conjugated lutetium ( 177 Lu) to the radiation dose following the administration of a lutetium ( 177 Lu)-labelled medicinal product or resulting from an accidental intravenous injection of Theralugand.
 
-The dosimetry estimates are extrapolated from a rat distribution study. Single dose of 30 MBq Theralugand was used in the study. Post-injection time points for measurements were 5 min, 1 h, 12 h, 2 days, 7 days, and 35 days. Organ absorbed radiation doses (mGy/MBq) listed below for adult, 15year, 10-year, 5-year, 1-year and newborn male and female human models are derived from the distribution data in rats using IDAC-Dose 2.1 v1.01 (for adults) and OLINDA/EXM v1.0 (for children and adolescents) software. Sex-specific effective dose coefficients (mSv/MBq) were calculated
+The dosimetry estimates are extrapolated from a rat distribution study. Single dose of 30 MBq Theralugand was used in the study. Post-injection time points for measurements were 5 min, 1 h, 12 h, 2 days, 7 days, and 35 days. Organ absorbed radiation doses (mGy/MBq) listed below for adult, 15year, 10-year, 5-year, 1-year and newborn male and female human models are derived from the distribution data in rats using IDAC-Dose 2.1 v1.01 (for adults) and OLINDA/EXM v1.0 (for children and adolescents) software. Sex-specific effective dose coefficients (mSv/MBq) were calculated according to ICRP 60 (International Commission on Radiological Protection) provisions. The adult sex-averaged effective dose coefficient for accidentally injected lutetium ( 177 Lu) chloride, calculated according to ICRP 103 provisions, lays at 0.19 mSv/MBq.
 
 <div style=\"page-break-after: always\"></div>
-
-according to ICRP 60 (International Commission on Radiological Protection) provisions. The adult sex-averaged effective dose coefficient for accidentally injected lutetium ( 177 Lu) chloride, calculated according to ICRP 103 provisions, lays at 0.19 mSv/MBq.
 
 In case of an accidental direct injection of lutetium ( 177 Lu) chloride, the organs with the highest absorbed doses based on rat data would be liver, spleen, bone, and kidneys.
 
@@ -479,7 +475,7 @@ Detailed information on this medicinal product is available on the website of th
 
 Name and address of the manufacturer(s) responsible for batch release
 
-Eckert &amp; Ziegler Radiopharma GmbH
+Eckert &amp; Ziegler Therapeutics GmbH
 
 Gieselweg 1 38110 Braunschweig Germany
 
@@ -653,9 +649,7 @@ ART: {DD/MM/YYYY (XXh CET / XXh CEST)}
 
 <!-- image -->
 
-Eckert &amp; Ziegler Radiopharma GmbH
-
-Gieselweg 1 38110 Braunschweig Germany
+Eckert &amp; Ziegler Therapeutics GmbH Gieselweg 1 38110 Braunschweig Germany Theralugand 40 GBq/mL radiopharmaceutical precursor, solution lutetium ( 177 Lu) chloride For in vitro radiolabelling.
 
 <!-- image -->
 
@@ -668,25 +662,18 @@ Gieselweg 1 38110 Braunschweig Germany
 | 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
 |------|-------------------------------------------------------------|
 
-Theralugand 40 GBq/mL radiopharmaceutical precursor, solution lutetium ( 177 Lu) chloride
-
 | 2.   | METHODOFADMINISTRATION   |
 |------|--------------------------|
 
-For in vitro radiolabelling.
-
-| 3.   | EXPIRY DATE   |
-|------|---------------|
+## 3. EXPIRY DATE
 
 EXP {DD/MM/YYYY (XXh CET/ XXh CEST)}
 
-| 4.   | BATCH NUMBER   |
-|------|----------------|
+## 4. BATCH NUMBER
 
 BN
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
 
 Vol:
 
@@ -702,7 +689,11 @@ ART: {DD/MM/YYYY (XXh CET / XXh CEST)}
 
 <!-- image -->
 
-Eckert &amp; Ziegler Radiopharma GmbH Gieselweg 1 38110 Braunschweig
+Eckert &amp; Ziegler Therapeutics GmbH
+
+Gieselweg 1
+
+38110 Braunschweig
 
 Germany
 
@@ -888,7 +879,8 @@ Bone marrow cancers (myelodysplastic syndrome and acute myeloid leukaemia) have 
 <div style=\"page-break-after: always\"></div>
 
 - -Vomiting
-- -Mild temporary hair loss (alopecia)
+- -
+- Mild temporary hair loss (alopecia)
 
 Alopecia has been reported among patients receiving lutetium ( 177 Lu)-based peptide receptor radionuclide therapy for neuroendocrine tumours (tumours that form from cells that release hormones into the blood in response to a signal from the nervous system)
 
@@ -936,13 +928,15 @@ The volume of one vial ranges from 0.1 - 5 mL solution (corresponding to 4 - 200
 
 ## Marketing Authorisation Holder
 
-Eckert &amp; Ziegler Radiopharma GmbH Robert-Rössle-Str. 10 13125 Berlin Germany
+Eckert &amp; Ziegler Radiopharma GmbH
+
+Robert-Rössle-Str. 10 13125 Berlin Germany
 
 ## Manufacturer
 
-Eckert &amp; Ziegler Radiopharma GmbH Gieselweg 1 38110 Braunschweig Germany
+Eckert &amp; Ziegler Therapeutics GmbH Gieselweg 1 38110 Braunschweig Germany
 
-This leaflet was last revised in 11/2024
+This leaflet was last revised in
 
 ## Other sources of information
 

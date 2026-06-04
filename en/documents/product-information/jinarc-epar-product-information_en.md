@@ -1,30 +1,26 @@
 ---
-document_datetime: 2025-08-08 14:03:45
+document_datetime: 2026-06-01 15:28:00
 document_pages: 68
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/jinarc-epar-product-information_en.pdf
 document_name: jinarc-epar-product-information_en.pdf
 version: success
-processing_time: 13.9273333
-conversion_datetime: 2025-12-23 01:38:53.358703
+processing_time: 25.9866667
+conversion_datetime: 2026-06-04 22:35:37.724108
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.21.0
+  docling-jobkit: 1.20.1
+  docling: 2.97.0
+  docling-core: 2.78.0
+  docling-ibm-models: 3.13.2
+  docling-parse: 6.2.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
 ## SUMMARY OF PRODUCT CHARACTERISTICS
 
 <div style=\"page-break-after: always\"></div>
-
-<!-- image -->
-
-This medicinal product is subject to additional monitoring. This will allow quick identification of new safety information. Healthcare professionals are asked to report any suspected adverse reactions. See section 4.8 for how to report adverse reactions.
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -56,7 +52,7 @@ Excipient(s) with known effect
 
 Each 30 mg tablet contains approximately 70 mg lactose (as monohydrate).
 
-## Jinarc 45 mg tablets
+Jinarc 45 mg tablets
 
 Each tablet contains 45 mg of tolvaptan.
 
@@ -72,7 +68,7 @@ Excipient(s) with known effect
 
 Each 60 mg tablet contains approximately 16 mg lactose (as monohydrate).
 
-## Jinarc 90 mg tablets
+Jinarc 90 mg tablets
 
 Each tablet contains 90 mg of tolvaptan.
 
@@ -86,23 +82,21 @@ For the full list of excipients, see section 6.1.
 
 Tablet
 
-## Jinarc 15 mg tablets
+Jinarc 15 mg tablets
 
 Blue, triangular (major axis: 6.58 mm, minor axis: 6.20 mm), shallow-convex, debossed with 'OTSUKA' and '15' on one side.
 
-## Jinarc 30 mg tablets
+Jinarc 30 mg tablets
 
 Blue, round (diameter: 8 mm), shallow-convex, debossed with 'OTSUKA' and '30' on one side.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Jinarc 45 mg tablets
 
 Blue, square (6.8 mm on a side, major axis 8.2 mm), shallow-convex, debossed with 'OTSUKA' and '45' on one side
 
-## Jinarc 60 mg tablets
+Jinarc 60 mg tablets Blue, modified rectangular (major axis 9.9 mm, minor axis 5.6 mm), shallow-convex, debossed with 'OTSUKA' and '60' on one side
 
-Blue, modified rectangular (major axis 9.9 mm, minor axis 5.6 mm), shallow-convex, debossed with 'OTSUKA' and '60' on one side
+<div style=\"page-break-after: always\"></div>
 
 ## Jinarc 90 mg tablets
 
@@ -134,13 +128,11 @@ The safety and efficacy of Jinarc in CKD stage 5 have not been explored and ther
 
 Therapy must be interrupted if the ability to drink or the accessibility to water is limited (see section 4.4).
 
-<div style=\"page-break-after: always\"></div>
-
 Tolvaptan must not be taken with grapefruit juice (see section 4.5). Patients must be instructed to drink sufficient amounts of water or other aqueous fluids (see section 4.4).
 
-## Dose adjustment for patients taking strong CYP3A inhibitors
+Dose adjustment for patients taking strong CYP3A inhibitors In patients taking strong CYP3A inhibitors (see section 4.5), tolvaptan doses have to be reduced as follows:
 
-In patients taking strong CYP3A inhibitors (see section 4.5), tolvaptan doses have to be reduced as follows:
+<div style=\"page-break-after: always\"></div>
 
 | Tolvaptan daily split-dose   | Reduced dose (once daily)                                          |
 |------------------------------|--------------------------------------------------------------------|
@@ -164,7 +156,7 @@ Further reductions have to be considered if patients cannot tolerate the reduced
 
 ## Elderly population
 
-Increasing age has no effect on tolvaptan plasma concentrations. Limited data on the safety and effectiveness of tolvaptan in ADPKD patients aged over 55 are available (see section 5.1).
+Increasing age has no effect on tolvaptan plasma concentrations. Limited data on the safety and effectiveness of tolvaptan in ADPKD patients aged over 55 years are available (see section 5.1).
 
 ## Renal impairment
 
@@ -186,11 +178,11 @@ No dose adjustment is needed in patients with mild or moderate hepatic impairmen
 
 The safety and efficacy of tolvaptan in children and adolescents has not yet been established. No data are available. Tolvaptan is not recommended in the paediatric age group.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Method of administration
 
 ## Oral use.
+
+<div style=\"page-break-after: always\"></div>
 
 Tablets must be swallowed without chewing and with a glass of water.
 
@@ -223,11 +215,9 @@ If a patient shows abnormal ALT, AST or BT levels prior to initiation of treatme
 
 During the first 18 months of treatment, Jinarc can only be supplied to patients whose physician has determined that liver function supports continued therapy.
 
-At the onset of symptoms or signs consistent with hepatic injury or if clinically significant abnormal ALT or AST increases are detected during treatment, Jinarc administration must be immediately
+At the onset of symptoms or signs consistent with hepatic injury or if clinically significant abnormal ALT or AST increases are detected during treatment, Jinarc administration must be immediately interrupted and repeat tests including ALT, AST, BT and alkaline phosphatase (AP) must be obtained as soon as possible (ideally within 48 hours to 72 hours). Testing must continue at increased time frequency until symptoms/signs/laboratory abnormalities stabilise or resolve, at which point Jinarc may be re-initiated.
 
 <div style=\"page-break-after: always\"></div>
-
-interrupted and repeat tests including ALT, AST, BT and alkaline phosphatase (AP) must be obtained as soon as possible (ideally within 48 hours to 72 hours). Testing must continue at increased time frequency until symptoms/signs/laboratory abnormalities stabilise or resolve, at which point Jinarc may be re-initiated.
 
 Current clinical practice suggests that Jinarc therapy is to be interrupted upon confirmation of sustained or increasing transaminase levels and permanently discontinued if significant increases and/or clinical symptoms of hepatic injury persist.
 
@@ -260,9 +250,9 @@ Fluid and electrolyte status must be monitored in all patients. Administration o
 
 During long-term treatment, electrolytes have to be monitored at least every three months.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Serum sodium abnormalities
+
+<div style=\"page-break-after: always\"></div>
 
 Pre-treatment sodium abnormalities (hyponatraemia or hypernatraemia) must be corrected prior to initiation with tolvaptan therapy.
 
@@ -290,13 +280,13 @@ A reversible reduction in GFR has been observed in ADPKD trials at the initiatio
 
 Limited safety and efficacy data are available for Jinarc in patients with CKD late stage 4 (eGFR&lt; 25 mL/min/1.73 m 2 ). There are no data in patients with CKD stage 5. Tolvaptan treatment should be discontinued if renal insufficiency progresses to CKD stage 5.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Lactose
 
 Jinarc contains lactose as an excipient. Patients with rare hereditary problems of galactose intolerance, total lactase deficiency or glucose-galactose malabsorption should not take this medicinal product.
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
+
+<div style=\"page-break-after: always\"></div>
 
 ## Effect of other medicinal products on the pharmacokinetics of tolvaptan
 
@@ -324,8 +314,6 @@ There is no experience from controlled clinical trials with concomitant use of t
 
 Tolvaptan has not been extensively studied in ADPKD in combination with diuretics. While there does not appear to be a synergistic or additive effect of concomitant use of tolvaptan with loop and thiazide diuretics, each class of agent has the potential to lead to severe dehydration, which constitutes a risk factor for renal dysfunction. If dehydration or renal dysfunction becomes evident, appropriate action must be taken which may include the need to interrupt or reduce doses of tolvaptan and/or diuretics and increased fluid intake. Other potential causes of renal dysfunction or dehydration must be evaluated and addressed.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Effect of tolvaptan on the pharmacokinetics of other products
 
 ## CYP3A substrates
@@ -333,6 +321,8 @@ Tolvaptan has not been extensively studied in ADPKD in combination with diuretic
 In healthy subjects, tolvaptan, a CYP3A substrate, had no effect on the plasma concentrations of some other CYP3A substrates (e.g. warfarin or amiodarone). Tolvaptan increased plasma levels of lovastatin by 1.3-to 1.5-fold. Even though this increase has no clinical relevance, it indicates tolvaptan can potentially increase exposure to CYP3A4 substrates.
 
 ## Transporter substrates
+
+<div style=\"page-break-after: always\"></div>
 
 P-glycoprotein substrates: In-vitro studies indicate that tolvaptan is a substrate and competitive inhibitor of P-glycoprotein (P-gp). Steady state digoxin concentrations were increased (1.3-fold in maximum observed plasma concentration [Cmax] and 1.2-fold in area under the plasma concentration-time curve over the dosing interval [AUC τ ]) when co-administered with multiple once daily 60 mg doses of tolvaptan. Patients receiving digoxin or other narrow therapeutic P-gp substrates (e.g. dabigatran) must therefore be managed cautiously and evaluated for excessive effects when treated with tolvaptan.
 
@@ -362,11 +352,11 @@ There are no or limited amount of data from the use of tolvaptan in pregnant wom
 
 Jinarc is contraindicated during pregnancy (see section 4.3).
 
-<div style=\"page-break-after: always\"></div>
-
 ## Breast-feeding
 
 It is unknown whether tolvaptan is excreted in human breast milk. Studies in rats have shown excretion of tolvaptan in milk. A risk for the newborns/infants cannot be excluded. Jinarc is contraindicated during breast-feeding (see section 4.3).
+
+<div style=\"page-break-after: always\"></div>
 
 ## Fertility
 
@@ -390,19 +380,19 @@ All ADRs are listed by system organ class and frequency; very common (≥ 1/10),
 
 The frequency of adverse reactions reported during post-marketing use cannot be determined as they are derived from spontaneous reports. Consequently, the frequency of these adverse reactions is qualified as \"not known\".
 
-|                                    | Very common         | Common                                                                                | Uncommon   | Not known                            |
-|------------------------------------|---------------------|---------------------------------------------------------------------------------------|------------|--------------------------------------|
-| Immune system disorders            |                     |                                                                                       |            | Anaphylactic shock, Generalised rash |
-| Metabolism and nutrition disorders | Polydipsia          | Dehydration, Hypernatraemia, Decreased appetite, Hyperuricaemia, Hyperglycaemia, Gout |            |                                      |
-| Psychiatric disorders              |                     | Insomnia                                                                              |            |                                      |
-| Nervous system disorders           | Headache, Dizziness | Dysgeusia, Syncope                                                                    |            |                                      |
-| Cardiac disorders                  |                     | Palpitations                                                                          |            |                                      |
+|                                                 | Very common         | Common                                                                                | Uncommon   | Not known                            |
+|-------------------------------------------------|---------------------|---------------------------------------------------------------------------------------|------------|--------------------------------------|
+| Immune system disorders                         |                     |                                                                                       |            | Anaphylactic shock, Generalised rash |
+| Metabolism and nutrition disorders              | Polydipsia          | Dehydration, Hypernatraemia, Decreased appetite, Hyperuricaemia, Hyperglycaemia, Gout |            |                                      |
+| Psychiatric disorders                           |                     | Insomnia                                                                              |            |                                      |
+| Nervous system disorders                        | Headache, Dizziness | Dysgeusia, Syncope                                                                    |            |                                      |
+| Cardiac disorders                               |                     | Palpitations                                                                          |            |                                      |
+| Respiratory, thoracic and mediastinal disorders |                     | Dyspnoea                                                                              |            |                                      |
 
 <div style=\"page-break-after: always\"></div>
 
 |                                                      | Very common                     | Common                                                                                                       | Uncommon            | Not known                              |
 |------------------------------------------------------|---------------------------------|--------------------------------------------------------------------------------------------------------------|---------------------|----------------------------------------|
-| Respiratory, thoracic and mediastinal disorders      |                                 | Dyspnoea                                                                                                     |                     |                                        |
 | Gastrointestinal disorders                           | Diarrhoea, Dry mouth            | Abdominal pain, Abdominal distension, Constipation, Dyspepsia, Gastroesophageal reflux disease               |                     |                                        |
 | Hepatobiliary disorders                              |                                 | Abnormal hepatic function                                                                                    |                     | Acute hepatic failure 1                |
 | Skin and subcutaneous tissue disorders               |                                 | Dry skin, Rash, Pruritus, Urticaria                                                                          |                     |                                        |
@@ -410,8 +400,6 @@ The frequency of adverse reactions reported during post-marketing use cannot be 
 | Renal and urinary disorders                          | Nocturia, Pollakiuria, Polyuria |                                                                                                              |                     |                                        |
 | General disorders and administration site conditions | Fatigue, Thirst                 | Asthenia                                                                                                     |                     |                                        |
 | Investigations                                       |                                 | Alanine aminotransferase increased, Aspartate aminotransferase increased, Weight decreased, Weight increased | Bilirubin increased | Blood creatine phosphokinase increased |
-
-1 observed in post-marketing with tolvaptan in ADPKD. Liver transplantation was necessary.
 
 ## Description of selected adverse reactions
 
@@ -423,11 +411,11 @@ Elevation (&gt; 3 × upper limit of normal [ULN]) of ALT was observed in 4.4 % (
 
 Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 4.9 Overdose
 
 Single oral doses up to 480 mg (4 times the maximum recommended daily dose) and multiple doses up to 300 mg once daily for 5 days have been well tolerated in trials in healthy subjects. There is no specific antidote for tolvaptan intoxication. The signs and symptoms of an acute overdose can be anticipated to be those of excessive pharmacologic effect: a rise in serum sodium concentration, polyuria, thirst and dehydration/hypovolemia.
+
+<div style=\"page-break-after: always\"></div>
 
 No mortality was observed in rats or dogs following single oral doses of 2,000 mg/kg (maximum feasible dose). A single oral dose of 2,000 mg/kg was lethal in mice and symptoms of toxicity in affected mice included decreased locomotor activity, staggering gait, tremor and hypothermia.
 
@@ -455,9 +443,9 @@ In total, 14 clinical trials involving tolvaptan have been completed worldwide i
 
 The phase 3 pivotal trial (TEMPO 3:4, 156-04-251) included subjects from 129 centres in the Americas, Japan, Europe and other countries. The primary objective of this trial was to evaluate the long-term efficacy of tolvaptan in ADPKD through rate of total kidney volume (TKV) change (normalised as percentage; %) for tolvaptan-treated compared with placebo-treated subjects. In this trial a total of 1,445 adult patients (age 18 years to 50 years) with evidence of rapidly-progressing, early ADPKD (meeting modif ied Ravine criteria, TKV ≥ 750 mL, estimated creatinine clearance ≥ 60 mL/min) were randomised 2:1 to treatment with tolvaptan or placebo. Patients were treated for up to 3 years.
 
-<div style=\"page-break-after: always\"></div>
-
 Tolvaptan (n = 961) and placebo (n = 484) groups were well matched in terms of gender with an average age of 39 years. The inclusion criteria identified patients who at baseline had evidence of early disease progression. At baseline, patients had average estimated glomerular filtration rate (eGFR) of 82 mL/min/1.73 m 2 (Chronic Kidney Disease-Epidemiology Collaboration; CKD-EPI) with 79 % having hypertension and a mean TKV of 1,692 mL (height adjusted 972 mL/m). Approximately 35 % of subjects were CKD stage 1, 48 % CKD stage 2, and 17 % CKD stage 3 (eGFRCKD-EPI). While these criteria were useful in enriching the study population with patients who were rapidly progressing, subgroup analyses based on stratification criteria (age, TKV, GFR, Albuminuria, Hypertension) indicated the presence of such risk factors at younger ages predicts more rapid disease progression.
+
+<div style=\"page-break-after: always\"></div>
 
 The results of the primary endpoint, the rate of change in TKV for subjects randomised to tolvaptan (normalised as percentage, %) to the rate of change for subjects on placebo, were highly statistically significant. The rate of TKV increase over 3 years was significantly less for tolvaptan-treated subjects than for subjects receiving placebo: 2.80 % per year versus 5.51 % per year, respectively (ratio of geometric mean 0.974; 95 % CI 0.969 to 0.980; p &lt; 0.0001).
 
@@ -478,11 +466,11 @@ The primary end point for TKV did not distinguish a difference in change (-1.7 %
 
 A secondary endpoint testing the persistence of positive effects on renal function indicated that the preservation of eGFR observed by the end of the TEMPO 3:4 pivotal trial (3.01 to 3.34 mL/min/1.73 m 2 at follow-up visits 1 and 2) could be preserved during open-label treatment. This difference was maintained in the pre-specified mixed effect model repeat measurement (MMRM) analysis (3.15 mL/min/1.73 m 2 , 95 %CI 1.462 to 4.836, p = 0.0003) and with sensitivity analyses where baseline eGFR data were carried forward (2.64 mL/min/1.73 m 2 , 95 % CI 0.672 to 4.603, p = 0.0086). These data suggest that tolvaptan can slow the rate of renal function decline, and that these benefits persist over the duration of therapy.
 
-<div style=\"page-break-after: always\"></div>
-
 Longer term data are not currently available to show whether long-term therapy with tolvaptan continues to slow the rate of renal function decline and affect clinical outcomes of ADPKD, including delay in the onset of end-stage renal disease.
 
 Genotyping for PKD1 and PKD2 genes was conducted in a majority of patients entering the open-label extension study (TEMPO 4:4) but the results are not yet known.
+
+<div style=\"page-break-after: always\"></div>
 
 Following an additional 2 years of tolvaptan treatment, resulting in a total of 5 years on tolvaptan therapy no new safety signals were identified.
 
@@ -497,6 +485,8 @@ The primary endpoint of the trial was the change in eGFR from pre-treatment base
 Subgroup analysis of the primary and secondary endpoints by CKD stage found similar, consistent treatment effects relative to placebo for subjects in stages 2, 3a, 3b and early stage 4 (eGFR 25 to 29 mL/min/1.73 m 2 ) at baseline.
 
 A pre-specified subgroup analysis suggested that tolvaptan had less of an effect in patients older than 55 years of age, a small subgroup with a notably slower rate of eGFR decline.
+
+A 7.5-year, multicentre, prospective, observational post-authorisation Safety Study of 2,136 patients, including 575 patients aged ≥ 50 years, was conducted to assess the long-term safety profile of tolvaptan prescribed under usual practice for the treatment of patients with ADPKD. A total of 2,091 patients enrolled in the study were included in the safety analysis population, including 45 patients aged &gt;65 years. No new safety concerns associated with long-term exposure to tolvaptan or use in ADPKD patients older than 55 years of age were identified in the safety study or in post-marketing data.
 
 ## Paediatric population
 
@@ -618,6 +608,8 @@ Jinarc 30 mg tablets
 
 EU/1/15/1000/003-004 (blister)
 
+<div style=\"page-break-after: always\"></div>
+
 Jinarc 15 mg tablets + Jinarc 45 mg tablets
 
 EU/1/15/1000/005-007 (blister) EU/1/15/1000/014-016 (blister in wallet card)
@@ -632,13 +624,11 @@ EU/1/15/1000/011-013 (blister)
 
 EU/1/15/1000/020-022 (blister in wallet card)
 
-<div style=\"page-break-after: always\"></div>
-
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
 Date of first authorisation: 27 May 2015
 
-Date of latest renewal: 3 April 2020
+Date of latest renewal: 03 April 2020
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -684,47 +674,28 @@ An updated RMP should be submitted:
 
 ## · Additional risk minimisation measures
 
-Prior to launch of Jinarc in each Member State the Marketing Authorisation Holder must agree the content and format of the educational programme, including communication media and distribution modalities with each National Competent Authority. The MAH must ensure that all healthcare professionals and patients/carers who are expected to prescribe and/or use JINARC have access to/are provided with the following educational package
+Prior to launch of Jinarc in each Member State the Marketing Authorisation Holder must agree the content and format of the educational programme, including communication media and distribution modalities with each National Competent Authority. The MAH must ensure that all patients/carers who are expected to use JINARC have access to/are provided with patient educational material.
 
-- Physician educational material
-- Patient information pack
+The patient educational material is aimed at ensuring awareness about the potential risk of hepatotoxicity and the risk of severe dehydration and providing guidance on how to manage these risks. It also addresses the importance of pregnancy prevention prior to the initiation and during the treatment with Jinarc.
 
-The educational programme is aimed at ensuring awareness about the potential risk of hepatotoxicity and providing guidance on how to manage this risk and the importance of pregnancy prevention prior to the initiation and during the treatment with Jinarc.
+## The patient educational material should contain:
 
-## The physician educational material should contain:
-
-- The Summary of product Characteristics
-- Healthcare professionals training material
+- Package leaflet
+- Patient guide
+- Patient Card
 
 <div style=\"page-break-after: always\"></div>
 
-The healthcare professional training material shall contain the following key elements
+The Patient guide shall contain the following key messages:
 
 - The risk of hepatotoxicity associated with the use of Jinarc
+- The risk of severe dehydration
 - The importance of pregnancy prevention, before and during treatment with Jinarc
 
-## The patient information pack should contain:
-
-- The Patient information leaflet
-- Patient/Carer educational material
-- A Patient Alert Card
-
-The Patient/Carer educational material shall contain the following key messages:
-
-- The risk of hepatotoxicity associated with the use of Jinarc
-- The importance of pregnancy prevention, before and during treatment with Jinarc
-
-The Patient Alert Card shall contain the following key messages:
+The Patient Card shall contain the following key messages:
 
 - Signs or symptoms of liver toxicity and severe dehydration
 - Advice if such symptoms occur
-- Obligation to conduct post-authorisation measures
-
-The MAH shall complete, within the stated timeframe, the below measures:
-
-| Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | Due date   |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|
-| A non-interventional post-authorisation safety study (PASS) to investigate the risks of: • Hepatotoxicity associated with the use of Jinarc. In addition the study should also provide information on • Pregnancy outcomes, in patients treated with Jinarc • Patterns of medicinal product utilisation, especially with regards to off- label use and use in patients over 50 years old • ADRs associated with long term use of Jinarc Final study report should be submitted by: | Q1 2025    |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -942,7 +913,9 @@ NN
 | 1.   | NAME OF THE MEDICINAL PRODUCT   |
 |------|---------------------------------|
 
-Jinarc 30 mg tablets tolvaptan
+Jinarc 30 mg tablets
+
+tolvaptan
 
 | 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
 |------|----------------------------------------------|
@@ -1082,7 +1055,9 @@ PC SN NN
 | 1.   | NAME OF THE MEDICINAL PRODUCT   |
 |------|---------------------------------|
 
-Jinarc 15 mg tablets Jinarc 45 mg tablets tolvaptan
+Jinarc 15 mg tablets Jinarc 45 mg tablets
+
+tolvaptan
 
 | 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
 |------|----------------------------------------------|
@@ -1343,6 +1318,8 @@ Jinarc 45 mg
 | 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
 |-------|------------------------------------------|
 
+39
+
 <div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
@@ -1463,7 +1440,9 @@ PC SN NN
 | 1.   | NAME OF THE MEDICINAL PRODUCT   |
 |------|---------------------------------|
 
-Jinarc 30 mg tablets Jinarc 60 mg tablets tolvaptan
+Jinarc 30 mg tablets Jinarc 60 mg tablets
+
+tolvaptan
 
 | 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
 |------|----------------------------------------------|
@@ -1846,7 +1825,9 @@ PC SN NN
 | 1.   | NAME OF THE MEDICINAL PRODUCT   |
 |------|---------------------------------|
 
-Jinarc 30 mg tablets Jinarc 90 mg tablets tolvaptan
+Jinarc 30 mg tablets Jinarc 90 mg tablets
+
+tolvaptan
 
 | 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
 |------|----------------------------------------------|
@@ -1938,7 +1919,7 @@ EXP
 
 Store in the original package in order to protect from light and moisture.
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -2113,17 +2094,13 @@ Jinarc 90 mg
 
 ## B. PACKAGE LEAFLET
 
-<div style=\"page-break-after: always\"></div>
-
-<!-- image -->
-
 ## Package leaflet: Information for the patient
+
+<div style=\"page-break-after: always\"></div>
 
 Jinarc 15 mg tablets Jinarc 30 mg tablets Jinarc 45 mg tablets Jinarc 60 mg tablets Jinarc 90 mg tablets
 
 ## Tolvaptan
-
-This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
@@ -2155,12 +2132,12 @@ Jinarc is a medicine used to treat a disease called 'autosomal dominant polycyst
 - if you have been told that you have raised levels of liver enzymes in your blood which do not allow treatment with tolvaptan
 - if your kidneys do not work (no urine production)
 - if you have a condition which is associated with a very low blood volume (e.g. severe dehydration or bleeding)
-
-<div style=\"page-break-after: always\"></div>
-
 - if you have a condition which increases the sodium in your blood
 - if you do not realise when you are thirsty
 - if you are pregnant
+
+<div style=\"page-break-after: always\"></div>
+
 - if you are breastfeeding.
 
 ## Warnings and precautions
@@ -2206,12 +2183,12 @@ Tell your doctor or pharmacist if you are taking, have recently taken or might t
 The following medicines may increase the effect of Jinarc:
 
 - amprenavir, atazanavir, darunavir/ritonavir and fosamprenavir (used to treat HIV/AIDS),
-
-<div style=\"page-break-after: always\"></div>
-
 - aprepitant (used to avoid nausea and vomiting in chemotherapy),
 - crizotinib and imatinib (used to treat cancer),
 - ketoconazole, fluconazole or itraconazole (used to treat fungal infections),
+
+<div style=\"page-break-after: always\"></div>
+
 - macrolide antibiotics like erythromycin or clarithromycin,
 - verapamil (used to treat heart diseases and high blood pressure),
 - ciprofloxacin (an antibiotic),
@@ -2248,9 +2225,11 @@ Do not drink grapefruit juice when taking this medicine.
 
 ## Pregnancy and breast-feeding
 
-## Do not take this medicine if you are pregnant or breast-feeding.
+Do not take this medicine if you are pregnant or breast-feeding.
 
-Women of childbearing age must use reliable contraceptive measures during use of this medicine. If you are pregnant or breast-feeding, think you may be pregnant or are planning to have a baby, ask your doctor or pharmacist for advice before taking this medicine.
+Women of childbearing age must use reliable contraceptive measures during use of this medicine.
+
+If you are pregnant or breast-feeding, think you may be pregnant or are planning to have a baby, ask your doctor or pharmacist for advice before taking this medicine.
 
 ## Driving and using machines
 
@@ -2260,11 +2239,11 @@ Some people may feel dizzy, weak or tired after being given Jinarc. If this happ
 
 If you have been told by your doctor that you have an intolerance to some sugars, contact your doctor before taking this medicine.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 3. How to take Jinarc
 
 Jinarc can only be prescribed by doctors who are specialised in the treatment of ADPKD. Always take this medicine exactly as your doctor has told you. Check with your doctor or pharmacist if you are not sure.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Dose
 
@@ -2302,14 +2281,14 @@ If you have any further questions on the use of this medicine, ask your doctor o
 
 Like all medicines, this medicine can cause side effects, although not everybody gets them.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Serious side effects:
 
 ## If you notice any of the following side effects, you may need urgent medical attention. Stop taking Jinarc and immediately contact a doctor or go to the nearest hospital if you:
 
 - find it difficult to urinate.
 - experience swelling of the face, lips or tongue, itching, generalised rash, or severe wheezing or breathlessness (symptoms of an allergic reaction).
+
+<div style=\"page-break-after: always\"></div>
 
 ## Jinarc may cause your liver not to work properly.
 
@@ -2363,13 +2342,12 @@ Consult your doctor if symptoms of nausea, vomiting, fever, tiredness, loss of a
 
 - allergic reactions (see above)
 - generalised rash
-
-<div style=\"page-break-after: always\"></div>
-
 - acute liver failure (ALF)
 - increased level of creatine phosphokinase (an enzyme that measures the muscle and heart function) in the blood
 
 ## Reporting of side effects
+
+<div style=\"page-break-after: always\"></div>
 
 If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
 
@@ -2387,21 +2365,17 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What Jinarc contains
 
-- •
+- ·
 - The active substance is tolvaptan. Each Jinarc 15 mg tablet contains 15 mg tolvaptan. Each Jinarc 30 mg tablet contains 30 mg tolvaptan. Each Jinarc 45 mg tablet contains 45 mg tolvaptan. Each Jinarc 60 mg tablet contains 60 mg tolvaptan. Each Jinarc 90 mg tablet contains 90 mg tolvaptan.
 - The other ingredients are lactose monohydrate (see section 2), maize starch, microcrystalline cellulose, hydroxypropylcellulose, magnesium stearate, indigo carmine aluminium lake.
 
 ## What Jinarc looks like and contents of the pack
 
-Jinarc 45 mg tablets + Jinarc 15 mg tablets 14 tablets (7 tablets of the higher strength + 7 tablets of the lower strength), 28 tablets (14 tablets of the higher strength + 14 tablets of the lower strength) or
-
-The different strengths of Jinarc tablets have different shapes and embossing: 15 mg tablet: blue, triangular, debossed with 'OTSUKA' and '15' on one side. 30 mg tablet: blue, round, debossed with 'OTSUKA' and '30' on one side. 45 mg tablet: blue, square, debossed with 'OTSUKA' and '45' on one side 60 mg tablet: blue, modified rectangular, debossed with 'OTSUKA' and '60' on one side 90 mg tablet: blue, pentagonal, debossed with 'OTSUKA' and '90' on one side Your medicine is supplied in the following pack sizes: Jinarc 15 mg tablets : packs containing 7 tablets or 28 tablets Jinarc 30 mg tablets : packs containing 7 tablets or 28 tablets : packs (blisters with or without wallet card) containing
+```
+The different strengths of Jinarc tablets have different shapes and embossing: 15 mg tablet: blue, triangular, debossed with 'OTSUKA' and '15' on one side. 30 mg tablet: blue, round, debossed with 'OTSUKA' and '30' on one side. 45 mg tablet: blue, square, debossed with 'OTSUKA' and '45' on one side 60 mg tablet: blue, modified rectangular, debossed with 'OTSUKA' and '60' on one side 90 mg tablet: blue, pentagonal, debossed with 'OTSUKA' and '90' on one side Your medicine is supplied in the following pack sizes: Jinarc 15 mg tablets : packs containing 7 tablets or 28 tablets Jinarc 30 mg tablets : packs containing 7 tablets or 28 tablets Jinarc 45 mg tablets + Jinarc 15 mg tablets : packs (blisters with or without wallet card) containing 14 tablets (7 tablets of the higher strength + 7 tablets of the lower strength), 28 tablets (14 tablets of the higher strength + 14 tablets of the lower strength) or 56 tablets (28 tablets of the higher strength + 28 tablets of the lower strength). Jinarc 60 mg tablets + Jinarc 30 mg tablets : packs (blisters with or without wallet card) containing 14 tablets (7 tablets of the higher strength + 7 tablets of the lower strength), 28 tablets (14 tablets of the higher strength + 14 tablets of the lower strength) or 56 tablets (28 tablets of the higher strength + 28 tablets of the lower strength).
+```
 
 <div style=\"page-break-after: always\"></div>
-
-56 tablets (28 tablets of the higher strength + 28 tablets of the lower strength).
-
-Jinarc 60 mg tablets + Jinarc 30 mg tablets : packs (blisters with or without wallet card) containing 14 tablets (7 tablets of the higher strength + 7 tablets of the lower strength), 28 tablets (14 tablets of the higher strength + 14 tablets of the lower strength) or 56 tablets (28 tablets of the higher strength + 28 tablets of the lower strength).
 
 Jinarc 90 mg tablets + Jinarc 30 mg tablets : packs (blisters with or without wallet card) containing 14 tablets (7 tablets of the higher strength + 7 tablets of the lower strength), 28 tablets (14 tablets of the higher strength + 14 tablets of the lower strength) or 56 tablets (28 tablets of the higher strength + 28 tablets of the lower strength).
 
@@ -2409,9 +2383,7 @@ Not all pack sizes may be marketed.
 
 ## Marketing Authorisation Holder
 
-Otsuka Pharmaceutical Netherlands B.V. Herikerbergweg 292 1101 CT, Amsterdam
-
-Netherlands
+Otsuka Pharmaceutical Netherlands B.V. Herikerbergweg 292 1101 CT, Amsterdam Netherlands
 
 ## Manufacturer
 
@@ -2419,29 +2391,15 @@ Millmount Healthcare Limited Block-7, City North Business Campus, Stamullen, Co.
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-## België/Belgique/Belgien
+België/Belgique/Belgien Otsuka Pharma Scandinavia AB
 
-Otsuka Pharma Scandinavia AB Tél/Tel: +46 (0) 8 545 286 60
-
-## Lietuva
-
-Otsuka Pharmaceutical Netherlands B.V. Tel: +31 (0) 20 85 46 555
+Tél/Tel: +46 (0) 8 545 286 60
 
 ## България
 
 Otsuka Pharmaceutical Netherlands B.V. Teл: +31 (0) 20 85 46 555
 
-## Luxembourg/Luxemburg
-
-Otsuka Pharma Scandinavia AB
-
-Tél/Tel: +46 (0) 8 545 286 60
-
 ## Česká republika
-
-Otsuka Pharmaceutical Netherlands B.V. Tel: +31 (0) 20 85 46 555
-
-## Magyarország
 
 Otsuka Pharmaceutical Netherlands B.V. Tel: +31 (0) 20 85 46 555
 
@@ -2449,33 +2407,13 @@ Otsuka Pharmaceutical Netherlands B.V. Tel: +31 (0) 20 85 46 555
 
 Otsuka Pharma Scandinavia AB Tlf.: +46 (0) 8 545 286 60
 
-## Malta
-
-Otsuka Pharmaceutical Netherlands B.V. Tel: +31 (0) 20 85 46 555
-
 ## Deutschland
 
-Otsuka Pharma GmbH
-
-Tel: +49 (0) 69 1700 860
-
-## Nederland
-
-Otsuka Pharmaceutical Netherlands B.V. Tel: +31 (0) 20 85 46 555
+Otsuka Pharma GmbH Tel: +49 (0) 69 1700 860
 
 ## Eesti
 
-Otsuka Pharmaceutical Netherlands B.V.
-
-Tel: +31 (0) 20 85 46 555
-
-## Norge
-
-Otsuka Pharma Scandinavia AB
-
-Tlf: +46 (0) 8 545 286 60
-
-<div style=\"page-break-after: always\"></div>
+Otsuka Pharmaceutical Netherlands B.V. Tel: +31 (0) 20 85 46 555
 
 ## Ελλάδα
 
@@ -2485,13 +2423,51 @@ Otsuka Pharmaceutical Netherlands B.V. Thλ: +31 (0) 20 85 46 555
 
 Otsuka Pharmaceutical S.A Tel: +34 (0) 93 208 1020
 
+## Lietuva
+
+Otsuka Pharmaceutical Netherlands B.V. Tel: +31 (0) 20 85 46 555
+
+## Luxembourg/Luxemburg
+
+Otsuka Pharma Scandinavia AB Tél/Tel: +46 (0) 8 545 286 60
+
+## Magyarország
+
+Otsuka Pharmaceutical Netherlands B.V. Tel: +31 (0) 20 85 46 555
+
+## Malta
+
+Otsuka Pharmaceutical Netherlands B.V. Tel: +31 (0) 20 85 46 555
+
+## Nederland
+
+Otsuka Pharmaceutical Netherlands B.V. Tel: +31 (0) 20 85 46 555
+
+## Norge
+
+Otsuka Pharma Scandinavia AB Tlf: +46 (0) 8 545 286 60
+
+## Österreich
+
+Otsuka Pharmaceutical Netherlands B.V. Tel: +31 (0) 20 85 46 555
+
+## Polska
+
+Otsuka Pharmaceutical Netherlands B.V. Tel: +31 (0) 20 85 46 555
+
+<div style=\"page-break-after: always\"></div>
+
 ## France
 
-Otsuka Pharmaceutical France SAS Tél: +33 (0) 1 47 08 00 00
+Otsuka Pharmaceutical France SAS
+
+Tél: +33 (0) 1 47 08 00 00
 
 ## Hrvatska
 
-Otsuka Pharmaceutical Netherlands B.V. Tel: +31 (0) 20 85 46 555
+Otsuka Pharmaceutical Netherlands B.V.
+
+Tel: +31 (0) 20 85 46 555
 
 ## Ireland
 
@@ -2501,15 +2477,23 @@ Tel: +31 (0) 20 85 46 555
 
 ## Ísland
 
-Otsuka Pharma Scandinavia AB Sími: +46 (0) 8 545 286 60
+Otsuka Pharma Scandinavia AB
+
+Sími: +46 (0) 8 545 286 60
 
 ## Italia
 
-Otsuka Pharmaceutical Italy S.r.l. Tel: +39 (0) 2 0063 2710
+Otsuka Pharmaceutical Italy S.r.l.
+
+Tel: +39 (0) 2 0063 2710
 
 ## Κύπρος
 
-Otsuka Pharmaceutical Netherlands B.V. Thλ: +31 (0) 20 85 46 555
+Otsuka Pharmaceutical Netherlands B.V.
+
+Thλ:
+
++31 (0) 20 85 46 555
 
 ## Latvija
 
@@ -2523,25 +2507,23 @@ Tel: +31 (0) 20 85 46 555
 
 Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
 
-## Österreich
-
-Otsuka Pharmaceutical Netherlands B.V. Tel: +31 (0) 20 85 46 555
-
-## Polska
-
-Otsuka Pharmaceutical Netherlands B.V. Tel: +31 (0) 20 85 46 555
-
 ## Portugal
 
-Otsuka Pharmaceutical Netherlands B.V. Tel: +31 (0) 20 85 46 555
+Otsuka Pharmaceutical Netherlands B.V.
+
+Tel: +31 (0) 20 85 46 555
 
 ## România
 
-Otsuka Pharmaceutical Netherlands B.V. Tel: +31 (0) 20 85 46 555
+Otsuka Pharmaceutical Netherlands B.V.
+
+Tel: +31 (0) 20 85 46 555
 
 ## Slovenija
 
-Otsuka Pharmaceutical Netherlands B.V. Tel: +31 (0) 20 85 46 555
+Otsuka Pharmaceutical Netherlands B.V.
+
+Tel: +31 (0) 20 85 46 555
 
 ## Slovenská republika
 
@@ -2549,8 +2531,12 @@ Otsuka Pharmaceutical Netherlands B.V. Tel: +31 (0) 20 85 46 555
 
 ## Suomi/Finland
 
-Otsuka Pharma Scandinavia AB Puh/Tel: +46 (0) 8 545 286 60
+Otsuka Pharma Scandinavia AB
+
+Puh/Tel: +46 (0) 8 545 286 60
 
 ## Sverige
 
-Otsuka Pharma Scandinavia AB Tel: +46 (0) 8 545 286 60
+Otsuka Pharma Scandinavia AB
+
+Tel: +46 (0) 8 545 286 60

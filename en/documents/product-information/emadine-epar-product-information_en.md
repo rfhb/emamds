@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-03-25 17:25:20
-document_pages: 35
+document_datetime: 2026-06-01 15:41:34
+document_pages: 34
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/emadine-epar-product-information_en.pdf
 document_name: emadine-epar-product-information_en.pdf
 version: success
-processing_time: 6.6570829
-conversion_datetime: 2025-12-23 04:00:01.030963
+processing_time: 11.461906
+conversion_datetime: 2026-06-04 22:36:47.166235
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.21.0
+  docling-jobkit: 1.20.1
+  docling: 2.97.0
+  docling-core: 2.78.0
+  docling-ibm-models: 3.13.2
+  docling-parse: 6.2.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -52,7 +52,7 @@ Symptomatic treatment of seasonal allergic conjunctivitis.
 
 EMADINE has not been studied in clinical trials beyond six weeks.
 
-Posology
+## Posology
 
 The dose is one drop of EMADINE to be applied to the affected eye(s) twice daily.
 
@@ -147,11 +147,9 @@ Reporting suspected adverse reactions after authorisation of the medicinal produ
 
 No specific reactions are to be expected with an ocular overdose of the product.
 
-No data are available in humans regarding overdose by accidental or deliberate ingestion. In case of accidental ingestion of the content of a bottle of EMADINE, sedative effects may occur and the
+No data are available in humans regarding overdose by accidental or deliberate ingestion. In case of accidental ingestion of the content of a bottle of EMADINE, sedative effects may occur and the potential of emedastine to increase the QT interval should be borne in mind and appropriate monitoring and management should be implemented.
 
 <div style=\"page-break-after: always\"></div>
-
-potential of emedastine to increase the QT interval should be borne in mind and appropriate monitoring and management should be implemented.
 
 ## 5. PHARMACOLOGICAL PROPERTIES
 
@@ -159,7 +157,7 @@ potential of emedastine to increase the QT interval should be borne in mind and 
 
 Pharmacotherapeutic group: decongestants and antiallergics; other antiallergics, ATC code: S01G X 06
 
-Emedastine is a potent selective and topically effective histamine H1 antagonist (Ki = 1.3 nM). In vitro examinations of emedastine's affinity for histamine receptors (H1, H2, and H3) demonstrate 10,000-fold selectivity for the H1 receptor, Ki's = 1.3 nM, 49,064 nM and 12, 430 nM, respectively. In vivo topical ocular administration of emedastine produces a concentration-dependent inhibition of histamine-stimulated conjunctival vascular permeability. Studies with emedastine have not shown effects on adrenergic, dopaminergic, and serotonin receptors.
+Emedastine is a potent selective and topically effective histamine H1 antagonist (Ki = 1.3 nM). In vitro examinations of eme dastine's affinity for histamine receptors (H 1, H2, and H3) demonstrate 10,000-fold selectivity for the H1 receptor, Ki 's = 1.3 nM, 49,064 nM and 12, 430 nM, respectively. In vivo topical ocular administration of emedastine produces a concentration-dependent inhibition of histamine-stimulated conjunctival vascular permeability. Studies with emedastine have not shown effects on adrenergic, dopaminergic, and serotonin receptors.
 
 ## 5.2 Pharmacokinetic properties
 
@@ -171,7 +169,7 @@ The human oral bioavailability of emedastine is approximately 50% and maximum pl
 
 ## Biotransformation
 
-Emedastine is principally metabolised by the liver. The elimination half-life of topical emedastine is ten hours. Approximately 44% of an oral dose is recovered in the urine over 24 hours, with only 3.6% of the dose excreted as parent drug substance. Two primary metabolites, 5-and 6-hydroxyemedastine, are excreted in the urine as both free and conjugated forms. The 5 ′ -oxo analogues of 5-and 6-hydroxyemedastine and the N-oxide are also formed as minor metabolites.
+Emedastine is principally metabolised by the liver. The elimination half-life of topical emedastine is ten hours. Approximately 44% of an oral dose is recovered in the urine over 24 hours, with only 3.6% of the dose excreted as parent drug substance. Two primary metabolites, 5-and 6-hydroxyemedastine, are excreted in the urine as both free and conjugated forms. The 5  -oxo analogues of 5-and 6-hydroxyemedastine and the N-oxide are also formed as minor metabolites.
 
 ## 5.3 Preclinical Safety Data
 
@@ -331,11 +329,9 @@ In 13 clinical studies involving 696 patients, Emadine was administered one to f
 
 ## Tabulated list of adverse reactions
 
-The following adverse reactions listed below were observed in clinical studies or with post marketing experience. They are ranked according to system organ class and classified according to the following
+The following adverse reactions listed below were observed in clinical studies or with post marketing experience. They are ranked according to system organ class and classified according to the following convention: very common (≥1/10), common (≥1/100 to &lt;1/10), uncommon (≥1/1000 to &lt;1/100), rare (≥1/10,000 to &lt;1/1000), very rare (&lt;1/10,000), or not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in decreasing order of seriousness.
 
 <div style=\"page-break-after: always\"></div>
-
-convention: very common (≥1/10), common (≥1/100 to &lt;1/10), uncommon (≥1/1000 to &lt;1/100), rare (≥1/10,000 to &lt;1/1000), very rare (&lt;1/10,000), or not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in decreasing order of seriousness.
 
 | System Organ Classification            | Frequency   | Adverse reaction                                                                                                                                                    |
 |----------------------------------------|-------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -362,7 +358,7 @@ No data are available in humans regarding overdose by accidental or deliberate i
 
 Pharmacotherapeutic group: decongestants and antiallergics; other antiallergics. ATC code: S01G X 06.
 
-Emedastine is a potent selective and topically effective histamine H1 antagonist (Ki = 1.3 nM). In vitro examinations of emedastine's affinity for histamine receptors (H1, H2, and H3) demonstrate 10,000-fold selectivity for the H1 receptor, Kis = 1.3 nM, 49,064 nM and 12, 430 nM, respectively. In vivo topical ocular administration of emedastine produces a concentration-dependent inhibition of histamine-stimulated conjunctival vascular permeability. Studies with emedastine have not shown effects on adrenergic, dopaminergic, and serotonin receptors.
+Emedastine is a potent selective and topically effective histamine H1 antagonist (Ki = 1.3 nM). In vitro examinations of emedastine's affinity for histamine receptors (H 1, H2, and H3) demonstrate 10,000-fold selectivity for the H1 receptor, Kis = 1.3 nM, 49,064 nM and 12, 430 nM, respectively. In vivo topical ocular administration of emedastine produces a concentration-dependent inhibition of histamine-stimulated conjunctival vascular permeability. Studies with emedastine have not shown effects on adrenergic, dopaminergic, and serotonin receptors.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -376,7 +372,7 @@ The human oral bioavailability of emedastine is approximately 50% and maximum pl
 
 ## Biotransformation
 
-Emedastine is principally metabolised by the liver. The elimination half-life of topical emedastine is ten hours. Approximately 44% of an oral dose is recovered in the urine over 24 hours, with only 3.6% of the dose excreted as parent drug substance. Two primary metabolites, 5-and 6-hydroxyemedastine, are excreted in the urine as both free and conjugated forms. The 5 ′ -oxo analogues of 5-and 6-hydroxyemedastine and the N-oxide are also formed as minor metabolites.
+Emedastine is principally metabolised by the liver. The elimination half-life of topical emedastine is ten hours. Approximately 44% of an oral dose is recovered in the urine over 24 hours, with only 3.6% of the dose excreted as parent drug substance. Two primary metabolites, 5-and 6-hydroxyemedastine, are excreted in the urine as both free and conjugated forms. The 5  -oxo analogues of 5-and 6-hydroxyemedastine and the N-oxide are also formed as minor metabolites.
 
 ## 5.3 Preclinical Safety Data
 
@@ -398,9 +394,7 @@ There was no evidence of impaired fertility or decreased reproductive capacity i
 
 ## 6.1 List of excipients
 
-Trometamol Sodium chloride Hypromellose Hydrochloric acid/sodium hydroxide (to adjust pH)
-
-Purified water
+Trometamol Sodium chloride Hypromellose Hydrochloric acid/sodium hydroxide (to adjust pH) Purified water
 
 ## 6.2 Incompatibilities
 
@@ -461,17 +455,13 @@ Detailed information on this medicinal product is available on the website of th
 
 Names and addresses of the manufacturers responsible for batch release
 
-EMADINE 0.5 mg/ml eye drops, solution S.A. Alcon-Couvreur N.V., Rijksweg 14, B-2870 Puurs, Belgium.
-
-Siegfried El Masnou, S.A., Camil Fabra 58, 08320 El Masnou, Barcelona, Spain.
+EMADINE 0.5 mg/ml eye drops, solution Siegfried El Masnou, S.A., Camil Fabra 58, 08320 El Masnou, Barcelona, Spain.
 
 Immedica Pharma AB Solnavägen 3H SE-113 63 Stockholm Sweden.
 
-EMADINE 0.5 mg/ml eye drops, solution, single-dose container.
+EMADINE 0.5 mg/ml eye drops, solution, single-dose container. Kaysersberg Pharmaceuticals 68240 Kaysersberg-Vignoble
 
-S.A. Alcon-Couvreur N.V., Rijksweg 14, B-2870 Puurs, Belgium.
-
-Kaysersberg Pharmaceuticals 23 Avenue Georges Ferrenbach Kaysersberg 68240 France.
+23 Avenue Georges Ferrenbach France.
 
 Immedica Pharma AB Solnavägen 3H SE-113 63 Stockholm Sweden.
 
@@ -486,8 +476,6 @@ Medicinal product subject to medical prescription
 ## · Periodic Safety Update Reports
 
 The requirements for submission of periodic safety update reports for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
-
-<div style=\"page-break-after: always\"></div>
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
@@ -549,7 +537,9 @@ Opened:
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-Do not store above 25 ° C.
+Do not store above 25  C.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
@@ -587,11 +577,7 @@ PC:
 
 SN:
 
-<div style=\"page-break-after: always\"></div>
-
 NN:
-
-<div style=\"page-break-after: always\"></div>
 
 ## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
 
@@ -617,8 +603,9 @@ Lot
 
 5 ml
 
-| 6   | OTHER   |
-|-----|---------|
+## 6 OTHER
+
+<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -704,7 +691,7 @@ Medicinal product subject to medical prescription.
 
 Emadine
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -798,17 +785,17 @@ Tear open pouch at level of cut.
 
 <div style=\"page-break-after: always\"></div>
 
-MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
+| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
+|------------------------------------------------------------------|
+| Single-dose container                                            |
 
-Single-dose container
-
-| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION   |
-|------|-------------------------------------------------------------|
+| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION   |
+|------|----------------------------------------------------------|
 
 EMADINE Ocular use
 
-| 2.   | METHOD OF ADMINISTRATION   |
-|------|----------------------------|
+| 2.   | METHODOFADMINISTRATION   |
+|------|--------------------------|
 
 Read the package leaflet before use.
 
@@ -822,8 +809,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
-|------|--------------------------------------------|
+| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
+|------|---------------------------------------|
 
 | 6   | OTHER   |
 |-----|---------|
@@ -832,9 +819,9 @@ Lot
 
 ## B. PACKAGE LEAFLET
 
-## Package leaflet: Information for the patient
-
 <div style=\"page-break-after: always\"></div>
+
+## Package leaflet: Information for the patient
 
 ## EMADINE 0.5 mg/ml eye drops, solution
 
@@ -875,7 +862,7 @@ Ask your doctor for advice.
 ## Warning and precautions
 
 - Do not use EMADINE in children under the age of 3 years.
-- If you wear contact lenses please see section 'EMADINE contains benzalkonium chloride below'.
+- If you wear contact lenses please see section ' EMADINE contains benzalkonium chloride below ' .
 - EMADINE is not recommended for use in patients over 65 years of age, as it has not been studied in clinical trials in this age group.
 - EMADINE is not recommended for use in patients with kidney or liver problems.
 
@@ -885,7 +872,7 @@ Talk to your doctor or pharmacist before using EMADINE.
 
 Tell your doctor or pharmacist if you are using, have recently used or might use any other medicines.
 
-If you are using other eye drops at the same time as EMADINE, follow the advice at the end of section 3 'How to use EMADINE'.
+If you are using other eye drops at the same time as EMADINE, follow the advice at the end of section 3 'How to use EMADINE' .
 
 <div style=\"page-break-after: always\"></div>
 
@@ -915,6 +902,10 @@ Always use this medicine exactly as described in this leaflet or as your doctor 
 
 <!-- image -->
 
+<!-- image -->
+
+1                                                                2
+
 - Get the EMADINE bottle and a mirror.
 - Wash your hands.
 - Take the bottle and twist off the cap.
@@ -927,10 +918,6 @@ Always use this medicine exactly as described in this leaflet or as your doctor 
 - Don't squeeze the bottle, it is designed so that just a gentle press on the bottom is needed (picture 2).
 - If you use drops in both eyes, repeat the steps for your other eye.
 - Put the bottle cap back on firmly immediately after use.
-
-<!-- image -->
-
-2
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1002,13 +989,7 @@ Immedica Pharma AB SE-113 63 Stockholm Sweden
 
 ## Manufacturer
 
-S.A. Alcon-Couvreur N.V., Rijksweg 14, B-2870 Puurs, Belgium
-
-## Manufacturer
-
 Siegfried El Masnou, S.A., Camil Fabra 58, 08320 El Masnou, Barcelona Spain
-
-## Manufacturer
 
 Immedica Pharma AB SE-113 63 Stockholm Sweden
 
@@ -1022,9 +1003,7 @@ Detailed information on this medicine is available on the European Medicines Age
 
 ## Package leaflet: Information for the patient
 
-## EMADINE 0.5 mg/ml eye drops, solution, single-dose container
-
-## emedastine
+## EMADINE 0.5 mg/ml eye drops, solution, single-dose container emedastine
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you .
 
@@ -1090,17 +1069,17 @@ Always use this medicine exactly as described in this leaflet or as your doctor 
 
 Only use the drops in your eyes.
 
-Turn the page for more advice
-
-Now turn over&gt;
-
-## 3. How to use EMADINE ( continued)
-
 <!-- image -->
 
 1
 
-The recommended dose &lt; see side 1
+<!-- image -->
+
+2
+
+<!-- image -->
+
+3
 
 Do not use a container you've already opened. Do not use any sealed containers from a foil wrapper that was opened more than a week ago.
 
@@ -1113,22 +1092,14 @@ Do not use a container you've already opened. Do not use any sealed containers f
 - Tilt your head back. Pull down your eyelid with a clean finger, until there is a 'pocket' between the eyelid and your eye. The drop will go in here.
 - Hold the container between your thumb and fingers with the open end pointing down.
 - Bring the container tip close to the eye. Use the mirror if it helps.
-
-<!-- image -->
-
-2
-
-<!-- image -->
-
-3
-
-<div style=\"page-break-after: always\"></div>
-
 - Don't touch your eye or eyelid, surrounding areas or other surfaces with the container tip. It could infect the drops.
 - Gently squeeze the container to release one drop into the pocket between the eyelid and eye (picture 3).
 - If your doctor has told you to use drops in both eyes, repeat the steps for your other eye-using the same container.
 - Throw away the container and any leftover solution at once.
-- Throw away any unused containers one week after opening the foil wrapper-even if the containers are still sealed.
+
+<div style=\"page-break-after: always\"></div>
+
+## · Throw away any unused containers one week after opening the foil wrapper-even if the containers are still sealed.
 
 If you accidentally swallow EMADINE or inject it contact a doctor immediately. It may affect your heart rhythm.
 
@@ -1169,15 +1140,15 @@ If you get any side effects, talk to your doctor or pharmacist. This includes an
 
 Keep out of the sight and reach of children
 
-<div style=\"page-break-after: always\"></div>
-
-Do not use EMADINE after the expiry date which is stated on the bottle and box after 'EXP'. The expiry date refers to the last day of the month.
+Do not use EMADINE aft er the expiry date which is stated on the bottle and box after 'EXP'. The expiry date refers to the last day of the month.
 
 Do not store above 30°C.
 
 You must throw away the container as soon as you have used it. Once the foil wrapper has been opened any unused containers must be thrown away one week after you first opened it.
 
-Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the enviroment.
+<div style=\"page-break-after: always\"></div>
+
+Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
 
 ## 6 Contents of the pack and other information
 
@@ -1196,13 +1167,7 @@ Immedica Pharma AB SE-113 63 Stockholm Sweden
 
 ## Manufacturer
 
-S.A. Alcon-Couvreur N.V., Rijksweg 14, B-2870 Puurs, Belgium
-
-## Manufacturer
-
-Kaysersberg Pharmaceuticals 23 Avenue Georges Ferrenbach Kaysersberg 68240 France
-
-## Manufacturer
+Kaysersberg Pharmaceuticals 23 Avenue Georges Ferrenbach 68240 Kaysersberg-Vignoble France
 
 Immedica Pharma AB SE-113 63 Stockholm Sweden
 

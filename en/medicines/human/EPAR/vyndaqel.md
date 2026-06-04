@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-04-22 16:42:00
+document_datetime: 2026-06-03 12:34:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/vyndaqel.html
 document_name: vyndaqel.html
 version: success
-processing_time: 0.1722478
-conversion_datetime: 2026-04-25 16:39:43.509067
+processing_time: 0.1815112
+conversion_datetime: 2026-06-04 22:15:17.190817
 docling_version:
-  docling-serve: 1.16.1
-  docling-jobkit: 1.17.1
-  docling: 2.90.0
-  docling-core: 2.74.0
-  docling-ibm-models: 3.13.0
-  docling-parse: 5.9.0
+  docling-serve: 1.21.0
+  docling-jobkit: 1.20.1
+  docling: 2.97.0
+  docling-core: 2.78.0
+  docling-ibm-models: 3.13.2
+  docling-parse: 6.2.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
 ---
 # Vyndaqel
 
@@ -56,11 +56,11 @@ Expand section
 
 Collapse section
 
-## What is Vyndaqel?
+### What is Vyndaqel?
 
 Vyndaqel is a medicine that contains the active substance tafamidis. It is available as capsules (20 mg).
 
-## What is Vyndaqel used for?
+### What is Vyndaqel used for?
 
 Vyndaqel is used to delay nerve damage caused by transthyretin amyloidosis, a hereditary disease in which fibres called amyloid build up in tissues around the body including around the nerves. Vyndaqel is used in adult patients with the early stage of nerve disease (stage 1).
 
@@ -68,45 +68,45 @@ Because the number of patients with transthyretin amyloidosis is low, the diseas
 
 The medicine can only be obtained with a prescription.
 
-## How is Vyndaqel used?
+### How is Vyndaqel used?
 
 Treatment should be started and supervised by a doctor knowledgeable in the management of patients with this disease. The recommended dose is one capsule once a day.
 
-## How does Vyndaqel work?
+### How does Vyndaqel work?
 
 In patients with transthyretin amyloidosis, a blood protein called transthyretin is defective and breaks easily. The broken protein forms a fibrous substance called amyloid that is deposited in tissues and organs around the body, including around nerves, where it interferes with their normal functions.
 
 The active substance in Vyndaqel, tafamidis, is a transthyretin stabilizer. It attaches to transthyretin, which prevents the protein from breaking up, thereby stopping the formation of amyloid and slowing down the progression of the nerve disease.
 
-## How has Vyndaqel been studied?
+### How has Vyndaqel been studied?
 
 Vyndaqel was compared with placebo (a dummy treatment) in 128 patients with transthyretin amyloidosis. The main measure of effectiveness was based on an assessment of the patients' nerve damage and quality of life after 18 months of treatment.
 
-## What benefit has Vyndaqel shown during the studies?
+### What benefit has Vyndaqel shown during the studies?
 
 Vyndaqel was more effective than placebo at treating patients with transthyretin amyloidosis. In 45% of patients taking Vyndaqel, nerve function either improved or stabilised, compared with 30% of patients taking placebo. The results did not include patients with more severe disease who left the study early because they needed to undergo a liver transplant.
 
-## What is the risk associated with Vyndaqel?
+### What is the risk associated with Vyndaqel?
 
 The most common side effects with Vyndaqel (seen in more than 1 patient in 10) are urinary tract infection (infection of the structures that carry urine), vaginal infection, upper abdominal pain (stomach ache) and diarrhoea. For the full list of all side effects and restrictions with Vyndaqel, see the package leaflet.
 
-## Why has Vyndaqel been approved?
+### Why has Vyndaqel been approved?
 
 The CHMP noted that, apart from in patients who left the study because they needed a liver transplant, Vyndaqel was more effective than placebo in delaying nerve damage in patients with transthyretin amyloidosis. The medicine presented no major safety concerns and the risks were considered to be manageable. The CHMP therefore concluded that the benefits of Vyndaqel are greater than its risks and recommended that it be granted marketing authorisation.
 
 Vyndaqel has been authorised under 'exceptional circumstances'. This means that because transthyretin amyloidosis is rare, for scientific reasons, it has not been possible to obtain complete information about Vyndaqel. Every year, the European Medicines Agency will review any new information that may become available and this summary will be updated as necessary.
 
-## What information is still awaited for Vyndaqel?
+### What information is still awaited for Vyndaqel?
 
 The company that makes Vyndaqel will carry out a study on the effects of the medicine in a subgroup of patients with certain genetic mutations. The company will also provide long-term post-marketing safety data.
 
-## What measures are being taken to ensure the safe and effective use of Vyndaqel?
+### What measures are being taken to ensure the safe and effective use of Vyndaqel?
 
 The company that markets Vyndaqel will provide educational material to all doctors expected to prescribe Vyndaqel. The material will include a leaflet containing information on the risks of the medicine including the risks to the unborn baby and on how to contribute to a post-marketing study and a surveillance programme for pregnant women.
 
 Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Vyndaqel have also been included in the summary of product characteristics and the package leaflet.
 
-## Other information about Vyndaqel
+### Other information about Vyndaqel
 
 The European Commission granted a marketing authorisation valid throughout the European Union for Vyndaqel on 16 November 2011.
 
@@ -120,7 +120,7 @@ English (EN) (78.69 KB - PDF)
 
 [View](/en/documents/overview/vyndaqel-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-541)
+[Other languages (22)](#file-language-dropdown-280)
 
 български (BG) (103.94 KB - PDF)
 
@@ -152,7 +152,7 @@ Deutsch (DE) (78.75 KB - PDF)
 
 [View](/de/documents/overview/vyndaqel-epar-summary-public_de.pdf)
 
-eesti keel (ET) (76.01 KB - PDF)
+eesti (ET) (76.01 KB - PDF)
 
 **First published:** 18/11/2011 **Last updated:** 02/08/2016
 
@@ -182,13 +182,13 @@ italiano (IT) (77.32 KB - PDF)
 
 [View](/it/documents/overview/vyndaqel-epar-summary-public_it.pdf)
 
-latviešu valoda (LV) (99.69 KB - PDF)
+latviešu (LV) (99.69 KB - PDF)
 
 **First published:** 18/11/2011 **Last updated:** 02/08/2016
 
 [View](/lv/documents/overview/vyndaqel-epar-summary-public_lv.pdf)
 
-lietuvių kalba (LT) (101.58 KB - PDF)
+lietuvių (LT) (101.58 KB - PDF)
 
 **First published:** 18/11/2011 **Last updated:** 02/08/2016
 
@@ -242,7 +242,7 @@ slovenščina (SL) (98.36 KB - PDF)
 
 [View](/sl/documents/overview/vyndaqel-epar-summary-public_sl.pdf)
 
-Suomi (FI) (76.62 KB - PDF)
+suomi (FI) (76.62 KB - PDF)
 
 **First published:** 18/11/2011 **Last updated:** 02/08/2016
 
@@ -272,7 +272,7 @@ English (EN) (1.29 MB - PDF)
 
 [View](/en/documents/product-information/vyndaqel-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-483)
+[Other languages (24)](#file-language-dropdown-591)
 
 български (BG) (719.86 KB - PDF)
 
@@ -304,7 +304,7 @@ Deutsch (DE) (540.33 KB - PDF)
 
 [View](/de/documents/product-information/vyndaqel-epar-product-information_de.pdf)
 
-eesti keel (ET) (519.18 KB - PDF)
+eesti (ET) (519.18 KB - PDF)
 
 **First published:** 18/11/2011 **Last updated:** 22/04/2026
 
@@ -328,25 +328,19 @@ hrvatski (HR) (620.51 KB - PDF)
 
 [View](/hr/documents/product-information/vyndaqel-epar-product-information_hr.pdf)
 
-íslenska (IS) (542.36 KB - PDF)
-
-**First published:** 18/11/2011 **Last updated:** 22/04/2026
-
-[View](/is/documents/product-information/vyndaqel-epar-product-information_is.pdf)
-
 italiano (IT) (533.67 KB - PDF)
 
 **First published:** 18/11/2011 **Last updated:** 22/04/2026
 
 [View](/it/documents/product-information/vyndaqel-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (678.22 KB - PDF)
+latviešu (LV) (678.22 KB - PDF)
 
 **First published:** 18/11/2011 **Last updated:** 22/04/2026
 
 [View](/lv/documents/product-information/vyndaqel-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (653.17 KB - PDF)
+lietuvių (LT) (653.17 KB - PDF)
 
 **First published:** 18/11/2011 **Last updated:** 22/04/2026
 
@@ -369,12 +363,6 @@ Nederlands (NL) (500.92 KB - PDF)
 **First published:** 18/11/2011 **Last updated:** 22/04/2026
 
 [View](/nl/documents/product-information/vyndaqel-epar-product-information_nl.pdf)
-
-norsk (NO) (533.6 KB - PDF)
-
-**First published:** 18/11/2011 **Last updated:** 22/04/2026
-
-[View](/no/documents/product-information/vyndaqel-epar-product-information_no.pdf)
 
 polski (PL) (562.21 KB - PDF)
 
@@ -406,7 +394,7 @@ slovenščina (SL) (620.39 KB - PDF)
 
 [View](/sl/documents/product-information/vyndaqel-epar-product-information_sl.pdf)
 
-Suomi (FI) (513.9 KB - PDF)
+suomi (FI) (513.9 KB - PDF)
 
 **First published:** 18/11/2011 **Last updated:** 22/04/2026
 
@@ -417,6 +405,18 @@ svenska (SV) (508.57 KB - PDF)
 **First published:** 18/11/2011 **Last updated:** 22/04/2026
 
 [View](/sv/documents/product-information/vyndaqel-epar-product-information_sv.pdf)
+
+Íslenska (IS) (542.36 KB - PDF)
+
+**First published:** 18/11/2011 **Last updated:** 22/04/2026
+
+[View](/is/documents/product-information/vyndaqel-epar-product-information_is.pdf)
+
+norsk (NO) (533.6 KB - PDF)
+
+**First published:** 18/11/2011 **Last updated:** 22/04/2026
+
+[View](/no/documents/product-information/vyndaqel-epar-product-information_no.pdf)
 
 **Latest procedure affecting product information:** VR/0000297114
 
@@ -444,7 +444,7 @@ English (EN) (31.93 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/vyndaqel-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-92)
+[Other languages (24)](#file-language-dropdown-473)
 
 български (BG) (33.34 KB - PDF)
 
@@ -476,7 +476,7 @@ Deutsch (DE) (33.01 KB - PDF)
 
 [View](/de/documents/all-authorised-presentations/vyndaqel-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (30.1 KB - PDF)
+eesti (ET) (30.1 KB - PDF)
 
 **First published:** 18/11/2011 **Last updated:** 10/12/2021
 
@@ -500,25 +500,19 @@ hrvatski (HR) (31.17 KB - PDF)
 
 [View](/hr/documents/all-authorised-presentations/vyndaqel-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (31.84 KB - PDF)
-
-**First published:** 18/11/2011 **Last updated:** 10/12/2021
-
-[View](/is/documents/all-authorised-presentations/vyndaqel-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (31.1 KB - PDF)
 
 **First published:** 18/11/2011 **Last updated:** 10/12/2021
 
 [View](/it/documents/all-authorised-presentations/vyndaqel-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (31.85 KB - PDF)
+latviešu (LV) (31.85 KB - PDF)
 
 **First published:** 18/11/2011 **Last updated:** 10/12/2021
 
 [View](/lv/documents/all-authorised-presentations/vyndaqel-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (40.41 KB - PDF)
+lietuvių (LT) (40.41 KB - PDF)
 
 **First published:** 18/11/2011 **Last updated:** 10/12/2021
 
@@ -541,12 +535,6 @@ Nederlands (NL) (30.53 KB - PDF)
 **First published:** 18/11/2011 **Last updated:** 10/12/2021
 
 [View](/nl/documents/all-authorised-presentations/vyndaqel-epar-all-authorised-presentations_nl.pdf)
-
-norsk (NO) (32.21 KB - PDF)
-
-**First published:** 18/11/2011 **Last updated:** 10/12/2021
-
-[View](/no/documents/all-authorised-presentations/vyndaqel-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (32.91 KB - PDF)
 
@@ -578,7 +566,7 @@ slovenščina (SL) (31.08 KB - PDF)
 
 [View](/sl/documents/all-authorised-presentations/vyndaqel-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (30.54 KB - PDF)
+suomi (FI) (30.54 KB - PDF)
 
 **First published:** 18/11/2011 **Last updated:** 10/12/2021
 
@@ -590,6 +578,18 @@ svenska (SV) (31.23 KB - PDF)
 
 [View](/sv/documents/all-authorised-presentations/vyndaqel-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (31.84 KB - PDF)
+
+**First published:** 18/11/2011 **Last updated:** 10/12/2021
+
+[View](/is/documents/all-authorised-presentations/vyndaqel-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (32.21 KB - PDF)
+
+**First published:** 18/11/2011 **Last updated:** 10/12/2021
+
+[View](/no/documents/all-authorised-presentations/vyndaqel-epar-all-authorised-presentations_no.pdf)
+
 Vyndaqel : EPAR - Conditions imposed on member states for safe and effective use
 
 English (EN) (95.21 KB - PDF)
@@ -598,7 +598,7 @@ English (EN) (95.21 KB - PDF)
 
 [View](/en/documents/conditions-member-states/vyndaqel-epar-conditions-imposed-member-states-safe-and-effective-use_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-346)
+[Other languages (23)](#file-language-dropdown-567)
 
 български (BG) (130.36 KB - PDF)
 
@@ -630,7 +630,7 @@ Deutsch (DE) (95.31 KB - PDF)
 
 [View](/de/documents/conditions-member-states/vyndaqel-epar-conditions-imposed-member-states-safe-and-effective-use_de.pdf)
 
-eesti keel (ET) (93.46 KB - PDF)
+eesti (ET) (93.46 KB - PDF)
 
 **First published:** 18/11/2011 **Last updated:** 18/11/2011
 
@@ -648,25 +648,19 @@ français (FR) (92.33 KB - PDF)
 
 [View](/fr/documents/conditions-member-states/vyndaqel-epar-conditions-imposed-member-states-safe-and-effective-use_fr.pdf)
 
-íslenska (IS) (72.42 KB - PDF)
-
-**First published:** 18/11/2011 **Last updated:** 18/11/2011
-
-[View](/is/documents/conditions-member-states/vyndaqel-epar-conditions-imposed-member-states-safe-and-effective-use_is.pdf)
-
 italiano (IT) (97.43 KB - PDF)
 
 **First published:** 18/11/2011 **Last updated:** 18/11/2011
 
 [View](/it/documents/conditions-member-states/vyndaqel-epar-conditions-imposed-member-states-safe-and-effective-use_it.pdf)
 
-latviešu valoda (LV) (124.04 KB - PDF)
+latviešu (LV) (124.04 KB - PDF)
 
 **First published:** 18/11/2011 **Last updated:** 18/11/2011
 
 [View](/lv/documents/conditions-member-states/vyndaqel-epar-conditions-imposed-member-states-safe-and-effective-use_lv.pdf)
 
-lietuvių kalba (LT) (126.78 KB - PDF)
+lietuvių (LT) (126.78 KB - PDF)
 
 **First published:** 18/11/2011 **Last updated:** 18/11/2011
 
@@ -689,12 +683,6 @@ Nederlands (NL) (87.85 KB - PDF)
 **First published:** 18/11/2011 **Last updated:** 18/11/2011
 
 [View](/nl/documents/conditions-member-states/vyndaqel-epar-conditions-imposed-member-states-safe-and-effective-use_nl.pdf)
-
-norsk (NO) (87.48 KB - PDF)
-
-**First published:** 18/11/2011 **Last updated:** 18/11/2011
-
-[View](/no/documents/conditions-member-states/vyndaqel-epar-conditions-imposed-member-states-safe-and-effective-use_no.pdf)
 
 polski (PL) (118.93 KB - PDF)
 
@@ -726,7 +714,7 @@ slovenščina (SL) (114.73 KB - PDF)
 
 [View](/sl/documents/conditions-member-states/vyndaqel-epar-conditions-imposed-member-states-safe-and-effective-use_sl.pdf)
 
-Suomi (FI) (86.82 KB - PDF)
+suomi (FI) (86.82 KB - PDF)
 
 **First published:** 18/11/2011 **Last updated:** 18/11/2011
 
@@ -738,6 +726,18 @@ svenska (SV) (79.53 KB - PDF)
 
 [View](/sv/documents/conditions-member-states/vyndaqel-epar-conditions-imposed-member-states-safe-and-effective-use_sv.pdf)
 
+Íslenska (IS) (72.42 KB - PDF)
+
+**First published:** 18/11/2011 **Last updated:** 18/11/2011
+
+[View](/is/documents/conditions-member-states/vyndaqel-epar-conditions-imposed-member-states-safe-and-effective-use_is.pdf)
+
+norsk (NO) (87.48 KB - PDF)
+
+**First published:** 18/11/2011 **Last updated:** 18/11/2011
+
+[View](/no/documents/conditions-member-states/vyndaqel-epar-conditions-imposed-member-states-safe-and-effective-use_no.pdf)
+
 Vyndaqel : EPAR - Conclusions on the granting of the marketing authorisation under exceptional circumstances - Annex IV
 
 English (EN) (61.67 KB - PDF)
@@ -746,7 +746,7 @@ English (EN) (61.67 KB - PDF)
 
 [View](/en/documents/conditions-member-states/vyndaqel-epar-conclusions-granting-marketing-authorisation-under-exceptional-circumstances-annex-iv_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-47)
+[Other languages (24)](#file-language-dropdown-28)
 
 български (BG) (105.99 KB - PDF)
 
@@ -778,7 +778,7 @@ Deutsch (DE) (80.63 KB - PDF)
 
 [View](/de/documents/conditions-member-states/vyndaqel-epar-conclusions-granting-marketing-authorisation-under-exceptional-circumstances-annex-iv_de.pdf)
 
-eesti keel (ET) (70.54 KB - PDF)
+eesti (ET) (70.54 KB - PDF)
 
 **First published:** 08/08/2013 **Last updated:** 08/08/2013
 
@@ -802,25 +802,19 @@ hrvatski (HR) (79.18 KB - PDF)
 
 [View](/hr/documents/conditions-member-states/vyndaqel-epar-conclusions-granting-marketing-authorisation-under-exceptional-circumstances-annex-iv_hr.pdf)
 
-íslenska (IS) (145.51 KB - PDF)
-
-**First published:** 08/08/2013 **Last updated:** 08/08/2013
-
-[View](/is/documents/conditions-member-states/vyndaqel-epar-conclusions-granting-marketing-authorisation-under-exceptional-circumstances-annex-iv_is.pdf)
-
 italiano (IT) (86.15 KB - PDF)
 
 **First published:** 08/08/2013 **Last updated:** 08/08/2013
 
 [View](/it/documents/conditions-member-states/vyndaqel-epar-conclusions-granting-marketing-authorisation-under-exceptional-circumstances-annex-iv_it.pdf)
 
-latviešu valoda (LV) (101.17 KB - PDF)
+latviešu (LV) (101.17 KB - PDF)
 
 **First published:** 08/08/2013 **Last updated:** 08/08/2013
 
 [View](/lv/documents/conditions-member-states/vyndaqel-epar-conclusions-granting-marketing-authorisation-under-exceptional-circumstances-annex-iv_lv.pdf)
 
-lietuvių kalba (LT) (98.33 KB - PDF)
+lietuvių (LT) (98.33 KB - PDF)
 
 **First published:** 08/08/2013 **Last updated:** 08/08/2013
 
@@ -843,12 +837,6 @@ Nederlands (NL) (75.22 KB - PDF)
 **First published:** 08/08/2013 **Last updated:** 08/08/2013
 
 [View](/nl/documents/conditions-member-states/vyndaqel-epar-conclusions-granting-marketing-authorisation-under-exceptional-circumstances-annex-iv_nl.pdf)
-
-norsk (NO) (79.42 KB - PDF)
-
-**First published:** 08/08/2013 **Last updated:** 08/08/2013
-
-[View](/no/documents/conditions-member-states/vyndaqel-epar-conclusions-granting-marketing-authorisation-under-exceptional-circumstances-annex-iv_no.pdf)
 
 polski (PL) (102.3 KB - PDF)
 
@@ -880,7 +868,7 @@ slovenščina (SL) (95.61 KB - PDF)
 
 [View](/sl/documents/conditions-member-states/vyndaqel-epar-conclusions-granting-marketing-authorisation-under-exceptional-circumstances-annex-iv_sl.pdf)
 
-Suomi (FI) (70.75 KB - PDF)
+suomi (FI) (70.75 KB - PDF)
 
 **First published:** 08/08/2013 **Last updated:** 08/08/2013
 
@@ -891,6 +879,18 @@ svenska (SV) (74.25 KB - PDF)
 **First published:** 08/08/2013 **Last updated:** 08/08/2013
 
 [View](/sv/documents/conditions-member-states/vyndaqel-epar-conclusions-granting-marketing-authorisation-under-exceptional-circumstances-annex-iv_sv.pdf)
+
+Íslenska (IS) (145.51 KB - PDF)
+
+**First published:** 08/08/2013 **Last updated:** 08/08/2013
+
+[View](/is/documents/conditions-member-states/vyndaqel-epar-conclusions-granting-marketing-authorisation-under-exceptional-circumstances-annex-iv_is.pdf)
+
+norsk (NO) (79.42 KB - PDF)
+
+**First published:** 08/08/2013 **Last updated:** 08/08/2013
+
+[View](/no/documents/conditions-member-states/vyndaqel-epar-conclusions-granting-marketing-authorisation-under-exceptional-circumstances-annex-iv_no.pdf)
 
 ## Product details
 
@@ -964,7 +964,7 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Vyndaqel : EPAR - Procedural steps taken and scientific information after authorisation
 
@@ -1012,7 +1012,7 @@ English (EN) (2.07 MB - PDF)
 
 [View](/en/documents/variation-report/vyndaqel-h-c-2294-x-0049-g-epar-assessment-report_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Vyndaqel : EPAR - Public assessment report
 
@@ -1046,157 +1046,157 @@ The approved product information for this medicine is available below showing th
 
 Vyndaqel : EPAR - Product information - tracked changes
 
-English (EN) (276.88 KB - DOCX)
+English (EN) (270.75 KB - DOCX)
 
-**First published:** 17/09/2025
+**First published:** 17/09/2025 **Last updated:** 03/06/2026
 
 [View](/en/documents/product-information-tracked-changes/vyndaqel-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-41)
+[Other languages (24)](#file-language-dropdown-967)
 
-български (BG) (338.7 KB - DOCX)
+български (BG) (323.88 KB - DOCX)
 
-**First published:** 17/09/2025
+**First published:** 17/09/2025 **Last updated:** 03/06/2026
 
 [View](/bg/documents/product-information-tracked-changes/vyndaqel-epar-product-information-tracked-changes_bg.docx)
 
-español (ES) (294.05 KB - DOCX)
+español (ES) (279.51 KB - DOCX)
 
-**First published:** 17/09/2025
+**First published:** 17/09/2025 **Last updated:** 03/06/2026
 
 [View](/es/documents/product-information-tracked-changes/vyndaqel-epar-product-information-tracked-changes_es.docx)
 
-čeština (CS) (355.25 KB - DOCX)
+čeština (CS) (346.08 KB - DOCX)
 
-**First published:** 17/09/2025
+**First published:** 17/09/2025 **Last updated:** 03/06/2026
 
 [View](/cs/documents/product-information-tracked-changes/vyndaqel-epar-product-information-tracked-changes_cs.docx)
 
-dansk (DA) (268.25 KB - DOCX)
+dansk (DA) (257.33 KB - DOCX)
 
-**First published:** 17/09/2025
+**First published:** 17/09/2025 **Last updated:** 03/06/2026
 
 [View](/da/documents/product-information-tracked-changes/vyndaqel-epar-product-information-tracked-changes_da.docx)
 
-Deutsch (DE) (297.86 KB - DOCX)
+Deutsch (DE) (281.92 KB - DOCX)
 
-**First published:** 17/09/2025
+**First published:** 17/09/2025 **Last updated:** 03/06/2026
 
 [View](/de/documents/product-information-tracked-changes/vyndaqel-epar-product-information-tracked-changes_de.docx)
 
-eesti keel (ET) (282.44 KB - DOCX)
+eesti (ET) (272.7 KB - DOCX)
 
-**First published:** 17/09/2025
+**First published:** 17/09/2025 **Last updated:** 03/06/2026
 
 [View](/et/documents/product-information-tracked-changes/vyndaqel-epar-product-information-tracked-changes_et.docx)
 
-ελληνικά (EL) (335.64 KB - DOCX)
+ελληνικά (EL) (323.3 KB - DOCX)
 
-**First published:** 17/09/2025
+**First published:** 17/09/2025 **Last updated:** 03/06/2026
 
 [View](/el/documents/product-information-tracked-changes/vyndaqel-epar-product-information-tracked-changes_el.docx)
 
-français (FR) (351.26 KB - DOCX)
+français (FR) (332.32 KB - DOCX)
 
-**First published:** 17/09/2025
+**First published:** 17/09/2025 **Last updated:** 03/06/2026
 
 [View](/fr/documents/product-information-tracked-changes/vyndaqel-epar-product-information-tracked-changes_fr.docx)
 
-hrvatski (HR) (296.75 KB - DOCX)
+hrvatski (HR) (281.28 KB - DOCX)
 
-**First published:** 17/09/2025
+**First published:** 17/09/2025 **Last updated:** 03/06/2026
 
 [View](/hr/documents/product-information-tracked-changes/vyndaqel-epar-product-information-tracked-changes_hr.docx)
 
-íslenska (IS) (307.76 KB - DOCX)
+italiano (IT) (284.08 KB - DOCX)
 
-**First published:** 17/09/2025
-
-[View](/is/documents/product-information-tracked-changes/vyndaqel-epar-product-information-tracked-changes_is.docx)
-
-italiano (IT) (297.12 KB - DOCX)
-
-**First published:** 17/09/2025
+**First published:** 17/09/2025 **Last updated:** 03/06/2026
 
 [View](/it/documents/product-information-tracked-changes/vyndaqel-epar-product-information-tracked-changes_it.docx)
 
-latviešu valoda (LV) (299.94 KB - DOCX)
+latviešu (LV) (292.11 KB - DOCX)
 
-**First published:** 17/09/2025
+**First published:** 17/09/2025 **Last updated:** 03/06/2026
 
 [View](/lv/documents/product-information-tracked-changes/vyndaqel-epar-product-information-tracked-changes_lv.docx)
 
-lietuvių kalba (LT) (312.06 KB - DOCX)
+lietuvių (LT) (297.48 KB - DOCX)
 
-**First published:** 17/09/2025
+**First published:** 17/09/2025 **Last updated:** 03/06/2026
 
 [View](/lt/documents/product-information-tracked-changes/vyndaqel-epar-product-information-tracked-changes_lt.docx)
 
-magyar (HU) (312.04 KB - DOCX)
+magyar (HU) (298.29 KB - DOCX)
 
-**First published:** 17/09/2025
+**First published:** 17/09/2025 **Last updated:** 03/06/2026
 
 [View](/hu/documents/product-information-tracked-changes/vyndaqel-epar-product-information-tracked-changes_hu.docx)
 
-Malti (MT) (288.03 KB - DOCX)
+Malti (MT) (274.75 KB - DOCX)
 
-**First published:** 17/09/2025
+**First published:** 17/09/2025 **Last updated:** 03/06/2026
 
 [View](/mt/documents/product-information-tracked-changes/vyndaqel-epar-product-information-tracked-changes_mt.docx)
 
-Nederlands (NL) (324.5 KB - DOCX)
+Nederlands (NL) (310.97 KB - DOCX)
 
-**First published:** 17/09/2025
+**First published:** 17/09/2025 **Last updated:** 03/06/2026
 
 [View](/nl/documents/product-information-tracked-changes/vyndaqel-epar-product-information-tracked-changes_nl.docx)
 
-norsk (NO) (326.46 KB - DOCX)
+polski (PL) (283.89 KB - DOCX)
 
-**First published:** 17/09/2025
-
-[View](/no/documents/product-information-tracked-changes/vyndaqel-epar-product-information-tracked-changes_no.docx)
-
-polski (PL) (400.33 KB - DOCX)
-
-**First published:** 17/09/2025
+**First published:** 17/09/2025 **Last updated:** 03/06/2026
 
 [View](/pl/documents/product-information-tracked-changes/vyndaqel-epar-product-information-tracked-changes_pl.docx)
 
-português (PT) (266.51 KB - DOCX)
+português (PT) (254.49 KB - DOCX)
 
-**First published:** 17/09/2025
+**First published:** 17/09/2025 **Last updated:** 03/06/2026
 
 [View](/pt/documents/product-information-tracked-changes/vyndaqel-epar-product-information-tracked-changes_pt.docx)
 
-română (RO) (248.05 KB - DOCX)
+română (RO) (231.44 KB - DOCX)
 
-**First published:** 17/09/2025
+**First published:** 17/09/2025 **Last updated:** 03/06/2026
 
 [View](/ro/documents/product-information-tracked-changes/vyndaqel-epar-product-information-tracked-changes_ro.docx)
 
-slovenčina (SK) (292.36 KB - DOCX)
+slovenčina (SK) (281.47 KB - DOCX)
 
-**First published:** 17/09/2025
+**First published:** 17/09/2025 **Last updated:** 03/06/2026
 
 [View](/sk/documents/product-information-tracked-changes/vyndaqel-epar-product-information-tracked-changes_sk.docx)
 
-slovenščina (SL) (283.42 KB - DOCX)
+slovenščina (SL) (274.92 KB - DOCX)
 
-**First published:** 17/09/2025
+**First published:** 17/09/2025 **Last updated:** 03/06/2026
 
 [View](/sl/documents/product-information-tracked-changes/vyndaqel-epar-product-information-tracked-changes_sl.docx)
 
-Suomi (FI) (317.27 KB - DOCX)
+suomi (FI) (301.57 KB - DOCX)
 
-**First published:** 17/09/2025
+**First published:** 17/09/2025 **Last updated:** 03/06/2026
 
 [View](/fi/documents/product-information-tracked-changes/vyndaqel-epar-product-information-tracked-changes_fi.docx)
 
-svenska (SV) (271.73 KB - DOCX)
+svenska (SV) (260.71 KB - DOCX)
 
-**First published:** 17/09/2025
+**First published:** 17/09/2025 **Last updated:** 03/06/2026
 
 [View](/sv/documents/product-information-tracked-changes/vyndaqel-epar-product-information-tracked-changes_sv.docx)
+
+Íslenska (IS) (296.23 KB - DOCX)
+
+**First published:** 17/09/2025 **Last updated:** 03/06/2026
+
+[View](/is/documents/product-information-tracked-changes/vyndaqel-epar-product-information-tracked-changes_is.docx)
+
+norsk (NO) (309.6 KB - DOCX)
+
+**First published:** 17/09/2025 **Last updated:** 03/06/2026
+
+[View](/no/documents/product-information-tracked-changes/vyndaqel-epar-product-information-tracked-changes_no.docx)
 
 ## More information on Vyndaqel
 
@@ -1210,6 +1210,6 @@ svenska (SV) (271.73 KB - DOCX)
 
 **This page was last updated on**
 
-22/04/2026
+03/06/2026
 
 ## Share this page

@@ -1,20 +1,20 @@
 ---
-document_datetime: 2024-07-22 12:50:36
+document_datetime: 2026-06-03 14:36:55
 document_pages: 81
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/xeplion-epar-product-information_en.pdf
 document_name: xeplion-epar-product-information_en.pdf
 version: success
-processing_time: 27.7785455
-conversion_datetime: 2025-12-20 01:35:07.581692
+processing_time: 35.601756
+conversion_datetime: 2026-06-04 22:30:01.97127
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.21.0
+  docling-jobkit: 1.20.1
+  docling: 2.97.0
+  docling-core: 2.78.0
+  docling-ibm-models: 3.13.2
+  docling-parse: 6.2.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -24,7 +24,9 @@ docling_version:
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Xeplion 25 mg prolonged release suspension for injection Xeplion 50 mg prolonged release suspension for injection Xeplion 75 mg prolonged release suspension for injection Xeplion 100 mg prolonged release suspension for injection Xeplion 150 mg prolonged release suspension for injection
+Xeplion 25 mg prolonged release suspension for injection
+
+Xeplion 50 mg prolonged release suspension for injection Xeplion 75 mg prolonged release suspension for injection Xeplion 100 mg prolonged release suspension for injection Xeplion 150 mg prolonged release suspension for injection
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
@@ -434,11 +436,9 @@ The most commonly reported injection site related adverse reaction was pain. The
 
 ## Extrapyramidal symptoms (EPS)
 
-EPS included a pooled analysis of the following terms: parkinsonism (includes salivary hypersecretion, musculoskeletal stiffness, parkinsonism, drooling, cogwheel rigidity, bradykinesia, hypokinesia, masked facies, muscle tightness, akinesia, nuchal rigidity, muscle rigidity, parkinsonian gait, glabellar reflex abnormal, and parkinsonian rest tremor), akathisia (includes akathisia,
+EPS included a pooled analysis of the following terms: parkinsonism (includes salivary hypersecretion, musculoskeletal stiffness, parkinsonism, drooling, cogwheel rigidity, bradykinesia, hypokinesia, masked facies, muscle tightness, akinesia, nuchal rigidity, muscle rigidity, parkinsonian gait, glabellar reflex abnormal, and parkinsonian rest tremor), akathisia (includes akathisia, restlessness, hyperkinesia, and restless leg syndrome), dyskinesia (dyskinesia, muscle twitching, choreoathetosis, athetosis, and myoclonus), dystonia (includes dystonia, hypertonia, torticollis, muscle contractions involuntary, muscle contracture, blepharospasm, oculogyration, tongue paralysis, facial spasm, laryngospasm, myotonia, opisthotonus, oropharyngeal spasm, pleurothotonus, tongue spasm, and trismus), and tremor. It should be noted that a broader spectrum of symptoms are included that do not necessarily have an extrapyramidal origin.
 
 <div style=\"page-break-after: always\"></div>
-
-restlessness, hyperkinesia, and restless leg syndrome), dyskinesia (dyskinesia, muscle twitching, choreoathetosis, athetosis, and myoclonus), dystonia (includes dystonia, hypertonia, torticollis, muscle contractions involuntary, muscle contracture, blepharospasm, oculogyration, tongue paralysis, facial spasm, laryngospasm, myotonia, opisthotonus, oropharyngeal spasm, pleurothotonus, tongue spasm, and trismus), and tremor. It should be noted that a broader spectrum of symptoms are included that do not necessarily have an extrapyramidal origin.
 
 ## Weight gain
 
@@ -470,11 +470,9 @@ In general, expected signs and symptoms are those resulting from an exaggeration
 
 Consideration should be given to the prolonged release nature of the medicinal product and the long elimination half-life of paliperidone when assessing treatment needs and recovery. There is no specific antidote to paliperidone. General supportive measures should be employed. Establish and maintain a clear airway and ensure adequate oxygenation and ventilation.
 
-Cardiovascular monitoring should commence immediately and should include continuous electrocardiographic monitoring for possible arrhythmias. Hypotension and circulatory collapse should be treated with appropriate measures such as intravenous fluid and/or sympathomimetic agents. In
+Cardiovascular monitoring should commence immediately and should include continuous electrocardiographic monitoring for possible arrhythmias. Hypotension and circulatory collapse should be treated with appropriate measures such as intravenous fluid and/or sympathomimetic agents. In case of severe extrapyramidal symptoms, anticholinergic agents should be administered. Close supervision and monitoring should continue until the patient recovers.
 
 <div style=\"page-break-after: always\"></div>
-
-case of severe extrapyramidal symptoms, anticholinergic agents should be administered. Close supervision and monitoring should continue until the patient recovers.
 
 ## 5. PHARMACOLOGICAL PROPERTIES
 
@@ -534,11 +532,9 @@ The European Medicines Agency has waived the obligation to submit the results of
 
 Paliperidone palmitate is the palmitate ester prodrug of paliperidone. Due to its extremely low water solubility, paliperidone palmitate dissolves slowly after intramuscular injection before being hydrolysed to paliperidone and absorbed into the systemic circulation. Following a single intramuscular dose, the plasma concentrations of paliperidone gradually rise to reach maximum plasma concentrations at a median Tmax of 13 days. The release of the active substance starts as early as day 1 and lasts for at least 4 months.
 
-Following intramuscular injection of single doses (25-150 mg) in the deltoid muscle, on average, a 28% higher Cmax was observed compared with injection in the gluteal muscle. The two initial deltoid intramuscular injections of 150 mg on day 1 and 100 mg on day 8 help attain therapeutic concentrations rapidly. The release profile and dosing regimen of Xeplion results in sustained therapeutic concentrations. The total exposure of paliperidone following Xeplion administration was dose-proportional over a 25-150 mg dose range, and less than dose-proportional for Cmax for doses exceeding 50 mg. The mean steady-state peak:trough ratio for a Xeplion dose of 100 mg was 1.8 following gluteal administration and 2.2 following deltoid administration. The median apparent
+Following intramuscular injection of single doses (25-150 mg) in the deltoid muscle, on average, a 28% higher Cmax was observed compared with injection in the gluteal muscle. The two initial deltoid intramuscular injections of 150 mg on day 1 and 100 mg on day 8 help attain therapeutic concentrations rapidly. The release profile and dosing regimen of Xeplion results in sustained therapeutic concentrations. The total exposure of paliperidone following Xeplion administration was dose-proportional over a 25-150 mg dose range, and less than dose-proportional for Cmax for doses exceeding 50 mg. The mean steady-state peak:trough ratio for a Xeplion dose of 100 mg was 1.8 following gluteal administration and 2.2 following deltoid administration. The median apparent half-life of paliperidone following Xeplion administration over the dose range of 25-150 mg ranged from 25-49 days.
 
 <div style=\"page-break-after: always\"></div>
-
-half-life of paliperidone following Xeplion administration over the dose range of 25-150 mg ranged from 25-49 days.
 
 The absolute bioavailability of paliperidone palmitate following Xeplion administration is 100%.
 
@@ -596,11 +592,9 @@ Repeat-dose toxicity studies of intramuscularly injected paliperidone palmitate 
 
 In rat reproduction studies with oral risperidone, which is extensively converted to paliperidone in rats and humans, adverse effects were seen on the birth weight and survival of the offspring. No embryotoxicity or malformations were observed following intramuscular administration of paliperidone palmitate to pregnant rats up to the highest dose (160 mg/kg/day) corresponding to 4.1 times the exposure level in humans at the maximum recommended dose of 150 mg. Other dopamine antagonists, when administered to pregnant animals, have caused negative effects on learning and motor development in the offspring.
 
-Paliperidone palmitate and paliperidone were not genotoxic. In oral carcinogenicity studies of risperidone in rats and mice, increases in pituitary gland adenomas (mouse), endocrine pancreas adenomas (rat), and mammary gland adenomas (both species) were seen. The carcinogenic potential of intramuscularly injected paliperidone palmitate was assessed in rats. There was a statistically significant increase in mammary gland adenocarcinomas in female rats at 10, 30 and 60 mg/kg/month. Male rats showed a statistically significant increase in mammary gland adenomas and carcinomas at 30 and 60 mg/kg/month which is 1.2 and 2.2 times the exposure level at the maximum recommended
+Paliperidone palmitate and paliperidone were not genotoxic. In oral carcinogenicity studies of risperidone in rats and mice, increases in pituitary gland adenomas (mouse), endocrine pancreas adenomas (rat), and mammary gland adenomas (both species) were seen. The carcinogenic potential of intramuscularly injected paliperidone palmitate was assessed in rats. There was a statistically significant increase in mammary gland adenocarcinomas in female rats at 10, 30 and 60 mg/kg/month. Male rats showed a statistically significant increase in mammary gland adenomas and carcinomas at 30 and 60 mg/kg/month which is 1.2 and 2.2 times the exposure level at the maximum recommended human 150 mg dose. These tumours can be related to prolonged dopamine D2 antagonism and hyperprolactinaemia. The relevance of these tumour findings in rodents in terms of human risk is unknown.
 
 <div style=\"page-break-after: always\"></div>
-
-human 150 mg dose. These tumours can be related to prolonged dopamine D2 antagonism and hyperprolactinaemia. The relevance of these tumour findings in rodents in terms of human risk is unknown.
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
@@ -867,11 +861,9 @@ Significant weight gain has been reported with Xeplion use. Weight should be mon
 
 ## Use in patients with prolactin-dependent tumours
 
-Tissue culture studies suggest that cell growth in human breast tumours may be stimulated by prolactin. Although no clear association with the administration of antipsychotics has so far been
+Tissue culture studies suggest that cell growth in human breast tumours may be stimulated by prolactin. Although no clear association with the administration of antipsychotics has so far been demonstrated in clinical and epidemiological studies, caution is recommended in patients with relevant medical history. Paliperidone should be used with caution in patients with a pre-existing tumour that may be prolactin-dependent.
 
 <div style=\"page-break-after: always\"></div>
-
-demonstrated in clinical and epidemiological studies, caution is recommended in patients with relevant medical history. Paliperidone should be used with caution in patients with a pre-existing tumour that may be prolactin-dependent.
 
 ## Orthostatic hypotension
 
@@ -1112,11 +1104,9 @@ Xeplion contains a racemic mixture of (+)- and (-)-paliperidone.
 
 ## Mechanism of action
 
-Paliperidone is a selective blocking agent of monoamine effects, whose pharmacological properties are different from that of traditional neuroleptics. Paliperidone binds strongly to serotonergic 5-HT2and dopaminergic D2-receptors. Paliperidone also blocks alpha 1-adrenergic receptors and slightly
+Paliperidone is a selective blocking agent of monoamine effects, whose pharmacological properties are different from that of traditional neuroleptics. Paliperidone binds strongly to serotonergic 5-HT2and dopaminergic D2-receptors. Paliperidone also blocks alpha 1-adrenergic receptors and slightly less, H1-histaminergic and alpha 2-adrenergic receptors. The pharmacological activity of the (+)- and (-)-paliperidone enantiomers are qualitatively and quantitatively similar.
 
 <div style=\"page-break-after: always\"></div>
-
-less, H1-histaminergic and alpha 2-adrenergic receptors. The pharmacological activity of the (+)- and (-)-paliperidone enantiomers are qualitatively and quantitatively similar.
 
 Paliperidone is not bound to cholinergic receptors. Even though paliperidone is a strong D2-antagonist, which is believed to relieve the positive symptoms of schizophrenia, it causes less catalepsy and decreases motor functions less than traditional neuroleptics. Dominating central serotonin antagonism may reduce the tendency of paliperidone to cause extrapyramidal side effects.
 
@@ -1214,11 +1204,9 @@ No clinically significant differences were observed between men and women.
 
 ## Smoking status
 
-Based on in vitro studies utilising human liver enzymes, paliperidone is not a substrate for CYP1A2; smoking should, therefore, not have an effect on the pharmacokinetics of paliperidone. Effect of
+Based on in vitro studies utilising human liver enzymes, paliperidone is not a substrate for CYP1A2; smoking should, therefore, not have an effect on the pharmacokinetics of paliperidone. Effect of smoking on the pharmacokinetics of paliperidone was not studied with Xeplion. A population pharmacokinetic analysis based on data with oral paliperidone prolonged release tablets showed a slightly lower exposure to paliperidone in smokers compared with non-smokers. The difference is unlikely to be of clinical relevance.
 
 <div style=\"page-break-after: always\"></div>
-
-smoking on the pharmacokinetics of paliperidone was not studied with Xeplion. A population pharmacokinetic analysis based on data with oral paliperidone prolonged release tablets showed a slightly lower exposure to paliperidone in smokers compared with non-smokers. The difference is unlikely to be of clinical relevance.
 
 ## 5.3 Preclinical safety data
 
@@ -1386,48 +1374,37 @@ Do not store above 30°C.
 
 <div style=\"page-break-after: always\"></div>
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVED FROMSUCHMEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|-------------------------------------------------------------------------------------------------------------------------------------|
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
-| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|--------------------------------------------------------|
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
 Janssen-Cilag International NV Turnhoutseweg 30 B-2340 Beerse Belgium
 
-| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
-|-------|-------------------------------------|
+## 12. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/11/672/001
 
-| 13.   | BATCH NUMBER   |
-|-------|----------------|
+## 13. BATCH NUMBER
 
 Lot
 
-| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
-|-------|-------------------------------------|
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-| 15.   | INSTRUCTIONS ONUSE   |
-|-------|----------------------|
+15. INSTRUCTIONS ON USE
 
-| 16.   | INFORMATION IN BRAILLE   |
-|-------|--------------------------|
+16. INFORMATION IN BRAILLE
 
 xeplion 25 mg
 
-| 17. UNIQUE IDENTIFIER - 2D BARCODE   |
-|--------------------------------------|
+17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLEDATA   |
-|-------|----------------------------------------|
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC:
+PC SN
 
-SN:
-
-NN:
+NN
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1510,52 +1487,43 @@ Do not store above 30°C.
 
 <div style=\"page-break-after: always\"></div>
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
 Janssen-Cilag International NV Turnhoutseweg 30 B-2340 Beerse Belgium
 
-| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
-|-------|-------------------------------------|
+## 12. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/11/672/002
 
-| 13.   | BATCH NUMBER   |
-|-------|----------------|
+## 13. BATCH NUMBER
 
 Lot
 
-| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
-|-------|-------------------------------------|
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-| 15.   | INSTRUCTIONS ONUSE   |
-|-------|----------------------|
+15. INSTRUCTIONS ON USE
 
-| 16.   | INFORMATION IN BRAILLE   |
-|-------|--------------------------|
+16. INFORMATION IN BRAILLE
 
 xeplion 50 mg
 
-| 17. UNIQUE IDENTIFIER - 2D BARCODE   |
-|--------------------------------------|
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
-2D barcode carrying the unique identifier included.
+## 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLEDATA   |
-|-------|----------------------------------------|
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC:
+PC SN
 
-SN:
-
-NN:
+NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEARON SMALL IMMEDIATE PACKAGING   |
-|-------------------------------------------------------------|
-| PRE-FILLED SYRINGE                                          |
+| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING   |
+|------------------------------------------------------------|
+| PRE-FILLED SYRINGE                                         |
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
@@ -1632,46 +1600,37 @@ Do not store above 30°C.
 
 <div style=\"page-break-after: always\"></div>
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
 Janssen-Cilag International NV Turnhoutseweg 30 B-2340 Beerse Belgium
 
-| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
-|-------|-------------------------------------|
+## 12. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/11/672/003
 
-| 13.   | BATCH NUMBER   |
-|-------|----------------|
+## 13. BATCH NUMBER
 
 Lot
 
-| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
-|-------|-------------------------------------|
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-| 15.   | INSTRUCTIONS ONUSE   |
-|-------|----------------------|
+15. INSTRUCTIONS ON USE
 
-| 16.   | INFORMATION IN BRAILLE   |
-|-------|--------------------------|
+16. INFORMATION IN BRAILLE
 
 xeplion 75 mg
 
-| 17. UNIQUE IDENTIFIER - 2D BARCODE   |
-|--------------------------------------|
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
-2D barcode carrying the unique identifier included.
+## 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLEDATA   |
-|-------|----------------------------------------|
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC:
+PC SN
 
-SN:
-
-NN:
+NN
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1754,58 +1713,53 @@ Do not store above 30°C.
 
 <div style=\"page-break-after: always\"></div>
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
 Janssen-Cilag International NV Turnhoutseweg 30 B-2340 Beerse Belgium
 
-| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
-|-------|-------------------------------------|
+## 12. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/11/672/004
 
-| 13.   | BATCH NUMBER   |
-|-------|----------------|
+## 13. BATCH NUMBER
 
 Lot
 
-| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
-|-------|-------------------------------------|
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-| 15.   | INSTRUCTIONS ONUSE   |
-|-------|----------------------|
+15. INSTRUCTIONS ON USE
 
-| 16.   | INFORMATION IN BRAILLE   |
-|-------|--------------------------|
+16. INFORMATION IN BRAILLE
 
 xeplion 100 mg
 
-| 17. UNIQUE IDENTIFIER - 2D BARCODE   |
-|--------------------------------------|
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
-2D barcode carrying the unique identifier included.
+## 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLEDATA   |
-|-------|----------------------------------------|
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC:
+PC SN
 
-SN:
-
-NN:
+NN
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS PRE-FILLED SYRINGE
+| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
+|------------------------------------------------------------------|
+| PRE-FILLED SYRINGE                                               |
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
 Xeplion 100 mg injection Paliperidone IM
 
-## 2. METHOD OF ADMINISTRATION
+| 2.   | METHODOFADMINISTRATION   |
+|------|--------------------------|
 
-3. EXPIRY DATE
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
@@ -1872,57 +1826,59 @@ Do not store above 30°C.
 
 <div style=\"page-break-after: always\"></div>
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVED FROMSUCHMEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|-------------------------------------------------------------------------------------------------------------------------------------|
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
-| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|--------------------------------------------------------|
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Janssen-Cilag International NV Turnhoutseweg 30 B-2340 Beerse Belgium
+Janssen-Cilag International NV
 
-| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
-|-------|-------------------------------------|
+Turnhoutseweg 30 B-2340 Beerse Belgium
+
+## 12. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/11/672/005
 
-| 13.   | BATCH NUMBER   |
-|-------|----------------|
+## 13. BATCH NUMBER
 
 Lot
 
-| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
-|-------|-------------------------------------|
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-| 15.   | INSTRUCTIONS ONUSE   |
-|-------|----------------------|
+15. INSTRUCTIONS ON USE
 
-| 16.   | INFORMATION IN BRAILLE   |
-|-------|--------------------------|
+## 16. INFORMATION IN BRAILLE
 
-xeplion 150 mg 17. UNIQUE IDENTIFIER - 2D BARCODE
+xeplion 150 mg
+
+17.
+
+UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLEDATA   |
-|-------|----------------------------------------|
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC:
+PC
 
-SN:
+SN
 
-NN:
+NN
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS PRE-FILLED SYRINGE
+| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING   |
+|------------------------------------------------------------|
+| PRE-FILLED SYRINGE                                         |
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
 Xeplion 150 mg injection Paliperidone IM
 
-## 2. METHOD OF ADMINISTRATION
+| 2.   | METHODOFADMINISTRATION   |
+|------|--------------------------|
 
-3. EXPIRY DATE
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
@@ -1941,15 +1897,15 @@ Lot
 
 <div style=\"page-break-after: always\"></div>
 
-## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
-
-## TREATMENT INITIATION PACK OUTER LABEL (WITH BLUE BOX)
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING TREATMENT INITIATION PACK OUTER LABEL (WITH BLUE BOX)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
 Xeplion 150 mg
 
-Xeplion 100 mg prolonged release suspension for injection
+Xeplion 100 mg
+
+prolonged release suspension for injection
 
 Paliperidone
 
@@ -2029,13 +1985,13 @@ xeplion 150 mg xeplion 100 mg
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC:
+PC
 
 <div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
-<!-- image -->
+SN NN
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2506,7 +2462,7 @@ The following side effects may happen:
 
 ## Reporting of side effects
 
-If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix VAppendix V. By reporting side effects you can help provide more information on the safety of this medicine.
+If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
 
 ## 5. How to store Xeplion
 
@@ -2532,9 +2488,7 @@ Xeplion is a white to off-white prolonged release suspension for injection in a 
 
 Each pack contains 1 pre-filled syringe and 2 needles.
 
-## Treatment initiation pack:
-
-Each pack contains 1 pack of Xeplion 150 mg and 1 pack of Xeplion 100 mg.
+Treatment initiation pack: Each pack contains 1 pack of Xeplion 150 mg and 1 pack of Xeplion 100 mg.
 
 Not all pack sizes may be marketed.
 
@@ -2554,135 +2508,165 @@ For any information about this medicine, please contact the local representative
 
 Janssen-Cilag NV Tel/Tél: +32 14 64 94 11 janssen@jacbe.jnj.com
 
-България ''Джонсън &amp; Джонсън България' ЕООД Тел.: +359 2 489 94 00
+## България
 
-jjsafety@its.jnj.com
+'Джонсън &amp; Джонсън България' ЕООД Тел.: +359 2 489 94 00 jjsafety@its.jnj.com
 
-Česká republika Janssen-Cilag s.r.o. Tel: +420 227 012 227
+## Česká republika
 
-Danmark Janssen-Cilag A/S Tlf.: +45 4594 8282
+Janssen-Cilag s.r.o.
 
-jacdk@its.jnj.com
+Tel: +420 227 012 227
 
-Deutschland Janssen-Cilag GmbH Tel: +49 2137 955 955
+## Danmark
 
-Tel: 0800 086 9247 / +49 2137 955 6955 jancil@its.jnj.com
+Janssen-Cilag A/S Tlf.: +45 4594 8282 jacdk@its.jnj.com
 
-Eesti UAB \"'JOHNSON &amp; JOHNSON\"' Eesti filiaal Tel.: +372 617 7410
+## Deutschland
 
-ee@its.jnj.com
+Janssen-Cilag GmbH Tel: 0800 086 9247 / +49 2137 955 6955 jancil@its.jnj.com
 
-Ελλάδα
+## Eesti
+
+UAB \"JOHNSON &amp; JOHNSON\" Eesti filiaal Tel: +372 617 7410 ee@its.jnj.com
+
+## Ελλάδα
 
 Janssen-Cilag Φαρμακευτική Μονοπρόσωπη Α.Ε.Β.Ε. Tηλ: +30 210 80 90 000
 
 ## España
 
-Janssen-Cilag, S.A. Tel: +34 91 722 81 00
+Janssen-Cilag, S.A.
+
+Tel: +34 91 722 81 00
 
 contacto@its.jnj.com
 
-Lietuva UAB \"'JOHNSON &amp; JOHNSON\"' Tel: +370 5 278 68 88
+## Lietuva
 
-lt@its.jnj.com
+UAB \"JOHNSON &amp; JOHNSON\" Tel: +370 5 278 68 88 lt@its.jnj.com
 
-Luxembourg/Luxemburg Janssen-Cilag NV Tél/Tel: +32 14 64 94 11 janssen@jacbe.jnj.com
+## Luxembourg/Luxemburg
 
-Magyarország Janssen-Cilag Kft. Tel.: +36 1 884 2858
+Janssen-Cilag NV Tél/Tel: +32 14 64 94 11 janssen@jacbe.jnj.com
 
-janssenhu@its.jnj.com
+## Magyarország
 
-Malta AM MANGION LTD. Tel: +356 2397 6000
+Janssen-Cilag Kft. Tel.: +36 1 884 2858 janssenhu@its.jnj.com
 
-Nederland Janssen-Cilag B.V. Tel: +31 76 711 1111 janssen@jacnl.jnj.com
+## Malta
 
-Norge Janssen-Cilag AS Tlf: +47 24 12 65 00
+AM MANGION LTD
 
-jacno@its.jnj.com
+Tel: +356 2397 6000
 
-Österreich Janssen--Cilag Pharma GmbH
+## Nederland
+
+Janssen-Cilag B.V. Tel: +31 76 711 1111 janssen@jacnl.jnj.com
+
+## Norge
+
+Janssen-Cilag AS Tlf: +47 24 12 65 00 jacno@its.jnj.com
+
+## Österreich
+
+Janssen-Cilag Pharma GmbH
 
 Tel: +43 1 610 300
 
 ## Polska
 
-Janssen-Cilag Polska Sp. z o.o. Tel.: +48 22 237 60 00
+Janssen-Cilag Polska Sp. z o.o.
+
+Tel.: +48 22 237 60 00
 
 <div style=\"page-break-after: always\"></div>
 
 ## France
 
+## Portugal
+
 Janssen-Cilag
 
-Téel: 0 800 25 50 75 / +33 1 55 00 40 03
+Tél: 0 800 25 50 75 / +33 1 55 00 40 03
 
 medisource@its.jnj.com
 
+Janssen-Cilag Farmacêutica, Lda.
+
+Tel: +351 214 368 600
+
 ## Hrvatska
 
-Johnson &amp; Johnson S.E. d.o.o. Tel: +385 1 6610 700
-
-jjsafety@JNJCR.JNJ.com
-
-## Ireland
-
-Janssen Sciences Ireland UC Tel: 1 800 709 122 medinfo@its.jnj.com
-
-## Ísland
-
-Janssen-Cilag AB cC/o Vistor hf. Sími: +354 535 7000
-
-janssen@vistor.is
-
-## Italia
-
-Janssen--Cilag SpA Tel:  800.688.777 / +39 02 2510 1
-
-janssenita@its.jnj.com
-
-## Κύπρος
-
-Βαρνάβας Χατζηπαναγής Λτδ Tηλ: +357 22 207 700
-
-Latvija UAB \"'JOHNSON &amp; JOHNSON\"' filiāle Latvijā Tel: +371 678 93561 lv@its.jnj.com
-
-## This leaflet was last revised in
-
-Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.euhttp://www.ema.europa.eu.
-
-## Portugal
-
-Janssen--Cilag Farmacêutica, Lda. Tel: +351 214 368 600
+Johnson &amp; Johnson S.E. d.o.o. Tel: +385 1 6610 700 jjsafety@JNJCR.JNJ.com
 
 ## România
 
-Johnson &amp; Johnson România SRL Tel: +40 21 207 1800
+Johnson &amp; Johnson România SRL
+
+Tel: +40 21 207 1800
+
+## Ireland
+
+Janssen Sciences Ireland UC
+
+Tel: 1 800 709 122
+
+medinfo@its.jnj.com
 
 ## Slovenija
 
-Johnson &amp; Johnson d.o.o. Tel: +386 1 401 18 00
+Johnson &amp; Johnson d.o.o. Tel: +386 1 401 18 00 Janssen\\_safety\\_slo@its.jnj.com
 
-Janssen\\_safety\\_slo@its.jnj.com
+## Ísland
+
+Janssen-Cilag AB c/o Vistor hf.
+
+Sími: +354 535 7000
+
+janssen@vistor.is
 
 ## Slovenská republika
 
-Johnson &amp; Johnson, s.r.o. Tel: +421 232 408 400
+Johnson &amp; Johnson, s.r.o.
+
+Tel: +421 232 408 400
+
+## Italia
+
+Janssen-Cilag SpA Tel: 800.688.777 / +39 02 2510 1
+
+janssenita@its.jnj.com
 
 ## Suomi/Finland
 
-Janssen-Cilag Oy Puh/Tel: +358 207 531 300
+Janssen-Cilag Oy jacfi@its.jnj.com
 
-jacfi@its.jnj.com
+Puh/Tel: +358 207 531 300
+
+## Κύπρος
+
+Βαρνάβας Χατζηπαναγής Λτδ
+
+Tηλ: +357 22 207 700
 
 ## Sverige
 
-Janssen-Cilag AB Tfn: +46 8 626 50 00
+Janssen-Cilag AB Tfn: +46 8 626 50 00 jacse@its.jnj.com
 
-jacse@its.jnj.com
+## Latvija
+
+UAB \"JOHNSON &amp; JOHNSON\" filiāle Latvijā
+
+Tel: +371 678 93561 lv@its.jnj.com
 
 ## United Kingdom (Northern Ireland)
 
 Janssen Sciences Ireland UC Tel: +44 1 494 567 444 medinfo@its.jnj.com
+
+## This leaflet was last revised in
+
+Detailed information on this medicine is available on the European Medicines Agency web site:https://www.ema.europa.eu.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2712,7 +2696,7 @@ For DELTOID injection, if the patient weighs &lt; 90 kg, use the 1-inch, 23 gaug
 
 For GLUTEAL injection, use the 1½-inch, 22 gauge needle (38.1 mm x 0.72 mm) (needle with grey coloured hub).
 
-3. Hold the syringe with the tip cap pointing up,  remove the rubber tip cap with a gentle twisting motion.
+3. Hold the syringe with the tip cap pointing up, remove the rubber tip cap with a gentle twisting motion.
 4. Peel the safety needle blister pouch half way open. Grasp the needle sheath using the plastic peel pouch. Hold the syringe pointing up. Attach the safety needle to the syringe using a gentle twisting motion to avoid needle hub cracks or damage. Always check for signs of damage or leaking prior to administration.
 5. Pull the needle sheath away from the needle with a straight pull. Do not twist the sheath as the needle may be loosened from the syringe.
 

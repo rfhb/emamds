@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-03-19 10:37:00
+document_datetime: 2026-06-03 16:52:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/kostaive.html
 document_name: kostaive.html
 version: success
-processing_time: 0.2433398
-conversion_datetime: 2026-03-21 13:23:44.517101
+processing_time: 0.1244207
+conversion_datetime: 2026-06-04 22:17:53.660342
 docling_version:
-  docling-serve: 1.14.3
-  docling-jobkit: 1.13.0
-  docling: 2.81.0
-  docling-core: 2.70.2
-  docling-ibm-models: 3.12.0
-  docling-parse: 5.6.0
+  docling-serve: 1.21.0
+  docling-jobkit: 1.20.1
+  docling: 2.97.0
+  docling-core: 2.78.0
+  docling-ibm-models: 3.13.2
+  docling-parse: 6.2.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
 ---
 # Kostaive
 
@@ -24,7 +24,9 @@ Authorised
 
 This medicine is authorised for use in the European Union
 
-zapomeran Medicine Human Authorised
+zapomeran
+
+Medicine Human Authorised
 
 Page contents
 
@@ -52,7 +54,7 @@ Expand section
 
 Collapse section
 
-## How is Kostaive used?
+### How is Kostaive used?
 
 Kostaive is given as a single injection into the muscle of the upper arm. For people who have previously been vaccinated, Kostaive should be given at least 5 months after the most recent dose of a COVID-19 vaccine.
 
@@ -62,7 +64,7 @@ Kostaive should be used according to official recommendations issued at national
 
 For more information about using Kostaive, see the package leaflet or consult a healthcare professional.
 
-## How does Kostaive work?
+### How does Kostaive work?
 
 Kostaive works by preparing the body to defend itself against COVID-19. Kostaive contains a molecule called sa-mRNA, which has instructions for making a copy of the SARS-CoV-2 spike protein. This is a protein on the surface of SARS-CoV-2 which the virus needs to enter the body's cells.
 
@@ -74,7 +76,7 @@ The vaccine is contained in lipid nanoparticles (small fat particles) that help 
 
 The mRNA from the vaccine, the replicase enzyme and the spike protein are broken down after vaccination and removed from the body.
 
-## What benefits of Kostaive have been shown in studies?
+### What benefits of Kostaive have been shown in studies?
 
 Studies showed that Kostaive is effective at triggering the production of antibodies against SARS-CoV-2 and protecting people against COVID-19.
 
@@ -84,15 +86,15 @@ The study also looked at the reduction in the number of severe cases of COVID-19
 
 The vaccine was also compared with an authorised mRNA COVID-19 vaccine (Comirnaty) when given as a booster to people who had previously been vaccinated with an mRNA vaccine (Spikevax or Comirnaty). The results showed that the level of antibodies against the spike protein in people who received a booster dose of Kostaive was at least as high as that seen in people who received a booster dose of Comirnaty.
 
-## Can children be vaccinated with Kostaive?
+### Can children be vaccinated with Kostaive?
 
 Currently, Kostaive is not authorised in people below 18 years of age. The company has developed a plan to assess the vaccine in children at a later stage.
 
-## Can immunocompromised people be vaccinated with Kostaive?
+### Can immunocompromised people be vaccinated with Kostaive?
 
 Kostaive has not been studied in immunocompromised people (people with weakened immune systems). Although immunocompromised people may not respond as well to the vaccine, there are no particular safety concerns. Immunocompromised people can still be vaccinated as they may be at higher risk from COVID-19.
 
-## Can pregnant or breast-feeding women be vaccinated with Kostaive?
+### Can pregnant or breast-feeding women be vaccinated with Kostaive?
 
 Animal studies do not show any harmful effects in pregnancy; however, data on the use of Kostaive in pregnant women are limited.
 
@@ -100,13 +102,13 @@ The decision on whether to use the vaccine during pregnancy should be made in cl
 
 Kostaive can be used during breastfeeding as levels of the mRNA and spike protein in breast milk are expected to be negligible.
 
-## Can people with allergies be vaccinated with Kostaive?
+### Can people with allergies be vaccinated with Kostaive?
 
 People who already know they have an allergy to one of the components of the vaccine listed in section 6 of the package leaflet should not receive the vaccine.
 
 Allergic reactions (hypersensitivity) may occur in people receiving the vaccine. Therefore, as for all vaccines, Kostaive should be given under close medical supervision, with the appropriate medical treatment available.
 
-## How well does Kostaive work for people of different ethnicities and genders?
+### How well does Kostaive work for people of different ethnicities and genders?
 
 The main study with Kostaive found that the efficacy of Kostaive and its safety profile are similar in men and women.
 
@@ -114,7 +116,7 @@ Although the main study was carried out in Vietnam and included mainly Asian peo
 
 There is no reason to suggest that the immune response induced by Kostaive will vary across ethnicities.
 
-## What are the risks associated with Kostaive?
+### What are the risks associated with Kostaive?
 
 For the full list of side effects and restrictions with Kostaive, see the package leaflet.
 
@@ -122,13 +124,13 @@ The most common side effects with Kostaive (which may affect more than 1 in 10 p
 
 Very rare cases of anaphylaxis (sudden, severe allergic reaction with breathing difficulty, swelling, lightheadedness, fast heartbeat, sweating and loss of consciousness) can also occur in up to 1 in 10,000 people.
 
-## Why is Kostaive authorised in the EU?
+### Why is Kostaive authorised in the EU?
 
 Kostaive has been shown to provide protection against COVID-19 when used as primary vaccination in people with no known history of COVID-19 and to trigger the production of antibodies against COVID-19 when used as a booster after vaccination with another mRNA vaccine. Although Kostaive targets the original strain of SARS-CoV-2, it provided relevant protection against the strain circulating at the time of the main study. In terms of safety, most side effects with Kostaive are mild and in line with those seen with mRNA vaccines.
 
 The European Medicines Agency therefore decided that Kostaive's benefits are greater than its risks and that it can be authorised for use in the EU.
 
-## What measures are being taken to ensure the safe and effective use of Kostaive?
+### What measures are being taken to ensure the safe and effective use of Kostaive?
 
 Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Kostaive have been included in the summary of product characteristics and the package leaflet.
 
@@ -138,11 +140,11 @@ Safety measures for Kostaive are implemented in line with the EU safety monitori
 
 As for all medicines, data on the use of Kostaive are continuously monitored. Suspected side effects are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Kostaive
+### Other information about Kostaive
 
 Kostaive received a marketing authorisation valid throughout the EU on 12 February 2025.
 
-## Key developments since authorisation
+### Key developments since authorisation
 
 | **Date**   | **Key developments**                |
 |------------|-------------------------------------|
@@ -158,191 +160,145 @@ English (EN) (138.61 KB - PDF)
 
 [View](/en/documents/overview/kostaive-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-496)
+[Other languages (22)](#file-language-dropdown-372)
 
 български (BG) (146.91 KB - PDF)
 
-**First published:**
-
-12/03/2025
+**First published:** 12/03/2025
 
 [View](/bg/documents/overview/kostaive-epar-medicine-overview_bg.pdf)
 
 español (ES) (120.2 KB - PDF)
 
-**First published:**
-
-12/03/2025
+**First published:** 12/03/2025
 
 [View](/es/documents/overview/kostaive-epar-medicine-overview_es.pdf)
 
 čeština (CS) (144.92 KB - PDF)
 
-**First published:**
-
-12/03/2025
+**First published:** 12/03/2025
 
 [View](/cs/documents/overview/kostaive-epar-medicine-overview_cs.pdf)
 
 dansk (DA) (118.32 KB - PDF)
 
-**First published:**
-
-12/03/2025
+**First published:** 12/03/2025
 
 [View](/da/documents/overview/kostaive-epar-medicine-overview_da.pdf)
 
 Deutsch (DE) (123.6 KB - PDF)
 
-**First published:**
-
-12/03/2025
+**First published:** 12/03/2025
 
 [View](/de/documents/overview/kostaive-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (116.34 KB - PDF)
+eesti (ET) (116.34 KB - PDF)
 
-**First published:**
-
-12/03/2025
+**First published:** 12/03/2025
 
 [View](/et/documents/overview/kostaive-epar-medicine-overview_et.pdf)
 
 ελληνικά (EL) (147.25 KB - PDF)
 
-**First published:**
-
-12/03/2025
+**First published:** 12/03/2025
 
 [View](/el/documents/overview/kostaive-epar-medicine-overview_el.pdf)
 
 français (FR) (122.61 KB - PDF)
 
-**First published:**
-
-12/03/2025
+**First published:** 12/03/2025
 
 [View](/fr/documents/overview/kostaive-epar-medicine-overview_fr.pdf)
 
 hrvatski (HR) (144.04 KB - PDF)
 
-**First published:**
-
-12/03/2025
+**First published:** 12/03/2025
 
 [View](/hr/documents/overview/kostaive-epar-medicine-overview_hr.pdf)
 
 italiano (IT) (118.87 KB - PDF)
 
-**First published:**
-
-12/03/2025
+**First published:** 12/03/2025
 
 [View](/it/documents/overview/kostaive-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (151.98 KB - PDF)
+latviešu (LV) (151.98 KB - PDF)
 
-**First published:**
-
-12/03/2025
+**First published:** 12/03/2025
 
 [View](/lv/documents/overview/kostaive-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (144.77 KB - PDF)
+lietuvių (LT) (144.77 KB - PDF)
 
-**First published:**
-
-12/03/2025
+**First published:** 12/03/2025
 
 [View](/lt/documents/overview/kostaive-epar-medicine-overview_lt.pdf)
 
 magyar (HU) (145.43 KB - PDF)
 
-**First published:**
-
-12/03/2025
+**First published:** 12/03/2025
 
 [View](/hu/documents/overview/kostaive-epar-medicine-overview_hu.pdf)
 
 Malti (MT) (149.48 KB - PDF)
 
-**First published:**
-
-12/03/2025
+**First published:** 12/03/2025
 
 [View](/mt/documents/overview/kostaive-epar-medicine-overview_mt.pdf)
 
 Nederlands (NL) (120.4 KB - PDF)
 
-**First published:**
-
-12/03/2025
+**First published:** 12/03/2025
 
 [View](/nl/documents/overview/kostaive-epar-medicine-overview_nl.pdf)
 
 polski (PL) (146.61 KB - PDF)
 
-**First published:**
-
-12/03/2025
+**First published:** 12/03/2025
 
 [View](/pl/documents/overview/kostaive-epar-medicine-overview_pl.pdf)
 
 português (PT) (120.8 KB - PDF)
 
-**First published:**
-
-12/03/2025
+**First published:** 12/03/2025
 
 [View](/pt/documents/overview/kostaive-epar-medicine-overview_pt.pdf)
 
 română (RO) (144.91 KB - PDF)
 
-**First published:**
-
-12/03/2025
+**First published:** 12/03/2025
 
 [View](/ro/documents/overview/kostaive-epar-medicine-overview_ro.pdf)
 
 slovenčina (SK) (145.34 KB - PDF)
 
-**First published:**
-
-12/03/2025
+**First published:** 12/03/2025
 
 [View](/sk/documents/overview/kostaive-epar-medicine-overview_sk.pdf)
 
 slovenščina (SL) (141.71 KB - PDF)
 
-**First published:**
-
-12/03/2025
+**First published:** 12/03/2025
 
 [View](/sl/documents/overview/kostaive-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (117.09 KB - PDF)
+suomi (FI) (117.09 KB - PDF)
 
-**First published:**
-
-12/03/2025
+**First published:** 12/03/2025
 
 [View](/fi/documents/overview/kostaive-epar-medicine-overview_fi.pdf)
 
 svenska (SV) (118.14 KB - PDF)
 
-**First published:**
-
-12/03/2025
+**First published:** 12/03/2025
 
 [View](/sv/documents/overview/kostaive-epar-medicine-overview_sv.pdf)
 
 Kostaive: EPAR - Risk management plan
 
-English (EN) (14.47 MB - PDF)
+English (EN) (12.4 MB - PDF)
 
-**First published:** 26/02/2025
-
-**Last updated:** 20/01/2026
+**First published:** 26/02/2025 **Last updated:** 03/06/2026
 
 [View](/en/documents/rmp/kostaive-epar-risk-management-plan_en.pdf)
 
@@ -352,303 +308,159 @@ Kostaive: EPAR - Product information
 
 English (EN) (579.9 KB - PDF)
 
-**First published:** 26/02/2025
-
-**Last updated:** 20/01/2026
+**First published:** 26/02/2025 **Last updated:** 20/01/2026
 
 [View](/en/documents/product-information/kostaive-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-371)
+[Other languages (24)](#file-language-dropdown-158)
 
 български (BG) (531.7 KB - PDF)
 
-**First published:**
-
-26/02/2025
-
-**Last updated:**
-
-20/01/2026
+**First published:** 26/02/2025 **Last updated:** 20/01/2026
 
 [View](/bg/documents/product-information/kostaive-epar-product-information_bg.pdf)
 
 español (ES) (521.64 KB - PDF)
 
-**First published:**
-
-26/02/2025
-
-**Last updated:**
-
-20/01/2026
+**First published:** 26/02/2025 **Last updated:** 20/01/2026
 
 [View](/es/documents/product-information/kostaive-epar-product-information_es.pdf)
 
 čeština (CS) (608.73 KB - PDF)
 
-**First published:**
-
-26/02/2025
-
-**Last updated:**
-
-20/01/2026
+**First published:** 26/02/2025 **Last updated:** 20/01/2026
 
 [View](/cs/documents/product-information/kostaive-epar-product-information_cs.pdf)
 
 dansk (DA) (488.17 KB - PDF)
 
-**First published:**
-
-26/02/2025
-
-**Last updated:**
-
-20/01/2026
+**First published:** 26/02/2025 **Last updated:** 20/01/2026
 
 [View](/da/documents/product-information/kostaive-epar-product-information_da.pdf)
 
 Deutsch (DE) (527.81 KB - PDF)
 
-**First published:**
-
-26/02/2025
-
-**Last updated:**
-
-20/01/2026
+**First published:** 26/02/2025 **Last updated:** 20/01/2026
 
 [View](/de/documents/product-information/kostaive-epar-product-information_de.pdf)
 
-eesti keel (ET) (376.13 KB - PDF)
+eesti (ET) (376.13 KB - PDF)
 
-**First published:**
-
-26/02/2025
-
-**Last updated:**
-
-20/01/2026
+**First published:** 26/02/2025 **Last updated:** 20/01/2026
 
 [View](/et/documents/product-information/kostaive-epar-product-information_et.pdf)
 
 ελληνικά (EL) (582.84 KB - PDF)
 
-**First published:**
-
-26/02/2025
-
-**Last updated:**
-
-20/01/2026
+**First published:** 26/02/2025 **Last updated:** 20/01/2026
 
 [View](/el/documents/product-information/kostaive-epar-product-information_el.pdf)
 
 français (FR) (440.63 KB - PDF)
 
-**First published:**
-
-26/02/2025
-
-**Last updated:**
-
-20/01/2026
+**First published:** 26/02/2025 **Last updated:** 20/01/2026
 
 [View](/fr/documents/product-information/kostaive-epar-product-information_fr.pdf)
 
 hrvatski (HR) (416.16 KB - PDF)
 
-**First published:**
-
-26/02/2025
-
-**Last updated:**
-
-20/01/2026
+**First published:** 26/02/2025 **Last updated:** 20/01/2026
 
 [View](/hr/documents/product-information/kostaive-epar-product-information_hr.pdf)
 
-íslenska (IS) (501.81 KB - PDF)
-
-**First published:**
-
-26/02/2025
-
-**Last updated:**
-
-20/01/2026
-
-[View](/is/documents/product-information/kostaive-epar-product-information_is.pdf)
-
 italiano (IT) (480.67 KB - PDF)
 
-**First published:**
-
-26/02/2025
-
-**Last updated:**
-
-20/01/2026
+**First published:** 26/02/2025 **Last updated:** 20/01/2026
 
 [View](/it/documents/product-information/kostaive-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (492.42 KB - PDF)
+latviešu (LV) (492.42 KB - PDF)
 
-**First published:**
-
-26/02/2025
-
-**Last updated:**
-
-20/01/2026
+**First published:** 26/02/2025 **Last updated:** 20/01/2026
 
 [View](/lv/documents/product-information/kostaive-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (497.37 KB - PDF)
+lietuvių (LT) (497.37 KB - PDF)
 
-**First published:**
-
-26/02/2025
-
-**Last updated:**
-
-20/01/2026
+**First published:** 26/02/2025 **Last updated:** 20/01/2026
 
 [View](/lt/documents/product-information/kostaive-epar-product-information_lt.pdf)
 
 magyar (HU) (458.27 KB - PDF)
 
-**First published:**
-
-26/02/2025
-
-**Last updated:**
-
-20/01/2026
+**First published:** 26/02/2025 **Last updated:** 20/01/2026
 
 [View](/hu/documents/product-information/kostaive-epar-product-information_hu.pdf)
 
 Malti (MT) (477.36 KB - PDF)
 
-**First published:**
-
-26/02/2025
-
-**Last updated:**
-
-20/01/2026
+**First published:** 26/02/2025 **Last updated:** 20/01/2026
 
 [View](/mt/documents/product-information/kostaive-epar-product-information_mt.pdf)
 
 Nederlands (NL) (433.04 KB - PDF)
 
-**First published:**
-
-26/02/2025
-
-**Last updated:**
-
-20/01/2026
+**First published:** 26/02/2025 **Last updated:** 20/01/2026
 
 [View](/nl/documents/product-information/kostaive-epar-product-information_nl.pdf)
 
-norsk (NO) (385.02 KB - PDF)
-
-**First published:**
-
-26/02/2025
-
-**Last updated:**
-
-20/01/2026
-
-[View](/no/documents/product-information/kostaive-epar-product-information_no.pdf)
-
 polski (PL) (464.14 KB - PDF)
 
-**First published:**
-
-26/02/2025
-
-**Last updated:**
-
-20/01/2026
+**First published:** 26/02/2025 **Last updated:** 20/01/2026
 
 [View](/pl/documents/product-information/kostaive-epar-product-information_pl.pdf)
 
 português (PT) (382.15 KB - PDF)
 
-**First published:**
-
-26/02/2025
-
-**Last updated:**
-
-20/01/2026
+**First published:** 26/02/2025 **Last updated:** 20/01/2026
 
 [View](/pt/documents/product-information/kostaive-epar-product-information_pt.pdf)
 
 română (RO) (482.78 KB - PDF)
 
-**First published:**
-
-26/02/2025
-
-**Last updated:**
-
-20/01/2026
+**First published:** 26/02/2025 **Last updated:** 20/01/2026
 
 [View](/ro/documents/product-information/kostaive-epar-product-information_ro.pdf)
 
 slovenčina (SK) (875.01 KB - PDF)
 
-**First published:**
-
-26/02/2025
-
-**Last updated:**
-
-20/01/2026
+**First published:** 26/02/2025 **Last updated:** 20/01/2026
 
 [View](/sk/documents/product-information/kostaive-epar-product-information_sk.pdf)
 
 slovenščina (SL) (578.1 KB - PDF)
 
-**First published:**
-
-26/02/2025
-
-**Last updated:**
-
-20/01/2026
+**First published:** 26/02/2025 **Last updated:** 20/01/2026
 
 [View](/sl/documents/product-information/kostaive-epar-product-information_sl.pdf)
 
-Suomi (FI) (496.06 KB - PDF)
+suomi (FI) (496.06 KB - PDF)
 
-**First published:**
-
-26/02/2025
-
-**Last updated:**
-
-20/01/2026
+**First published:** 26/02/2025 **Last updated:** 20/01/2026
 
 [View](/fi/documents/product-information/kostaive-epar-product-information_fi.pdf)
 
 svenska (SV) (471.22 KB - PDF)
 
-**First published:**
-
-26/02/2025
-
-**Last updated:**
-
-20/01/2026
+**First published:** 26/02/2025 **Last updated:** 20/01/2026
 
 [View](/sv/documents/product-information/kostaive-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000284897 27/11/2025
+Íslenska (IS) (501.81 KB - PDF)
+
+**First published:** 26/02/2025 **Last updated:** 20/01/2026
+
+[View](/is/documents/product-information/kostaive-epar-product-information_is.pdf)
+
+norsk (NO) (385.02 KB - PDF)
+
+**First published:** 26/02/2025 **Last updated:** 20/01/2026
+
+[View](/no/documents/product-information/kostaive-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** VR/0000284897
+
+27/11/2025
 
 icon globe
 
@@ -672,203 +484,173 @@ English (EN) (51.73 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/kostaive-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-576)
+[Other languages (24)](#file-language-dropdown-904)
 
 български (BG) (57.93 KB - PDF)
 
-**First published:**
-
-26/02/2025
+**First published:** 26/02/2025
 
 [View](/bg/documents/all-authorised-presentations/kostaive-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (56.68 KB - PDF)
 
-**First published:**
-
-26/02/2025
+**First published:** 26/02/2025
 
 [View](/es/documents/all-authorised-presentations/kostaive-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (52.84 KB - PDF)
 
-**First published:**
-
-26/02/2025
+**First published:** 26/02/2025
 
 [View](/cs/documents/all-authorised-presentations/kostaive-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (50.3 KB - PDF)
 
-**First published:**
-
-26/02/2025
+**First published:** 26/02/2025
 
 [View](/da/documents/all-authorised-presentations/kostaive-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (58.98 KB - PDF)
 
-**First published:**
-
-26/02/2025
+**First published:** 26/02/2025
 
 [View](/de/documents/all-authorised-presentations/kostaive-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (56.65 KB - PDF)
+eesti (ET) (56.65 KB - PDF)
 
-**First published:**
-
-26/02/2025
+**First published:** 26/02/2025
 
 [View](/et/documents/all-authorised-presentations/kostaive-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (53.38 KB - PDF)
 
-**First published:**
-
-26/02/2025
+**First published:** 26/02/2025
 
 [View](/el/documents/all-authorised-presentations/kostaive-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (57.76 KB - PDF)
 
-**First published:**
-
-26/02/2025
+**First published:** 26/02/2025
 
 [View](/fr/documents/all-authorised-presentations/kostaive-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (50.58 KB - PDF)
 
-**First published:**
-
-26/02/2025
+**First published:** 26/02/2025
 
 [View](/hr/documents/all-authorised-presentations/kostaive-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (49.66 KB - PDF)
-
-**First published:**
-
-26/02/2025
-
-[View](/is/documents/all-authorised-presentations/kostaive-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (51.12 KB - PDF)
 
-**First published:**
-
-26/02/2025
+**First published:** 26/02/2025
 
 [View](/it/documents/all-authorised-presentations/kostaive-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (59.6 KB - PDF)
+latviešu (LV) (59.6 KB - PDF)
 
-**First published:**
-
-26/02/2025
+**First published:** 26/02/2025
 
 [View](/lv/documents/all-authorised-presentations/kostaive-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (60 KB - PDF)
+lietuvių (LT) (60 KB - PDF)
 
-**First published:**
-
-26/02/2025
+**First published:** 26/02/2025
 
 [View](/lt/documents/all-authorised-presentations/kostaive-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (51.72 KB - PDF)
 
-**First published:**
-
-26/02/2025
+**First published:** 26/02/2025
 
 [View](/hu/documents/all-authorised-presentations/kostaive-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (54.28 KB - PDF)
 
-**First published:**
-
-26/02/2025
+**First published:** 26/02/2025
 
 [View](/mt/documents/all-authorised-presentations/kostaive-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (48.09 KB - PDF)
 
-**First published:**
-
-26/02/2025
+**First published:** 26/02/2025
 
 [View](/nl/documents/all-authorised-presentations/kostaive-epar-all-authorised-presentations_nl.pdf)
 
-norsk (NO) (50.34 KB - PDF)
-
-**First published:**
-
-26/02/2025
-
-[View](/no/documents/all-authorised-presentations/kostaive-epar-all-authorised-presentations_no.pdf)
-
 polski (PL) (53.62 KB - PDF)
 
-**First published:**
-
-26/02/2025
+**First published:** 26/02/2025
 
 [View](/pl/documents/all-authorised-presentations/kostaive-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (57.28 KB - PDF)
 
-**First published:**
-
-26/02/2025
+**First published:** 26/02/2025
 
 [View](/pt/documents/all-authorised-presentations/kostaive-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (52.26 KB - PDF)
 
-**First published:**
-
-26/02/2025
+**First published:** 26/02/2025
 
 [View](/ro/documents/all-authorised-presentations/kostaive-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (52.82 KB - PDF)
 
-**First published:**
-
-26/02/2025
+**First published:** 26/02/2025
 
 [View](/sk/documents/all-authorised-presentations/kostaive-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (56.52 KB - PDF)
 
-**First published:**
-
-26/02/2025
+**First published:** 26/02/2025
 
 [View](/sl/documents/all-authorised-presentations/kostaive-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (45.87 KB - PDF)
+suomi (FI) (45.87 KB - PDF)
 
-**First published:**
-
-26/02/2025
+**First published:** 26/02/2025
 
 [View](/fi/documents/all-authorised-presentations/kostaive-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (51.72 KB - PDF)
 
-**First published:**
-
-26/02/2025
+**First published:** 26/02/2025
 
 [View](/sv/documents/all-authorised-presentations/kostaive-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (49.66 KB - PDF)
+
+**First published:** 26/02/2025
+
+[View](/is/documents/all-authorised-presentations/kostaive-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (50.34 KB - PDF)
+
+**First published:** 26/02/2025
+
+[View](/no/documents/all-authorised-presentations/kostaive-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine Kostaive Active substance COVID-19 sa-mRNA Vaccine International non-proprietary name (INN) or common name zapomeran Therapeutic area (MeSH) COVID-19 virus infection Anatomical therapeutic chemical (ATC) code J07BN01
+Name of medicine
+
+Kostaive
+
+Active substance
+
+COVID-19 sa-mRNA Vaccine
+
+International non-proprietary name (INN) or common name
+
+zapomeran
+
+Therapeutic area (MeSH)
+
+COVID-19 virus infection
+
+Anatomical therapeutic chemical (ATC) code
+
+J07BN01
 
 ### Pharmacotherapeutic group
 
@@ -882,7 +664,9 @@ The use of this vaccine should be in accordance with official recommendations.
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/006207
+EMA product number
+
+EMEA/H/C/006207
 
 Additional monitoring
 
@@ -894,7 +678,17 @@ Seqirus Netherlands B.V.
 
 Paasheuvelweg 28
 
-Opinion adopted 12/12/2024 Marketing authorisation issued 12/02/2025 Revision 4
+Opinion adopted
+
+12/12/2024
+
+Marketing authorisation issued
+
+12/02/2025
+
+Revision
+
+5
 
 ## Assessment history
 
@@ -902,25 +696,21 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Kostaive : EPAR - Procedural steps taken and scientific information after the authorisation
 
-English (EN) (138.75 KB - PDF)
+English (EN) (165.9 KB - PDF)
 
-**First published:** 23/05/2025
-
-**Last updated:** 20/01/2026
+**First published:** 23/05/2025 **Last updated:** 03/06/2026
 
 [View](/en/documents/procedural-steps-after/kostaive-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Kostaive: EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/18711/2025 corr.1
+Adopted Reference Number: EMA/18711/2025 corr.1
 
 English (EN) (6.65 MB - PDF)
 
@@ -930,9 +720,7 @@ English (EN) (6.65 MB - PDF)
 
 CHMP summary of positive opinion for Kostaive
 
-Adopted
-
-Reference Number: EMA/392588/2024
+Adopted Reference Number: EMA/392588/2024
 
 English (EN) (133.35 KB - PDF)
 
@@ -944,9 +732,7 @@ English (EN) (133.35 KB - PDF)
 
 Kostaive: Periodic safety update report assessment 28th November 2024 to 27th May 2025
 
-Adopted
-
-Reference Number: EMADOC-1700519818-2457701
+Adopted Reference Number: EMADOC-1700519818-2457701
 
 English (EN) (2.9 MB - PDF)
 
@@ -956,10 +742,12 @@ English (EN) (2.9 MB - PDF)
 
 ## News on Kostaive
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 9-12 December 2024](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-9-12-december-2024) 13/12/2024
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 9-12 December 2024](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-9-12-december-2024)
 
-**This page was last updated on** 19/03/2026
+13/12/2024
+
+**This page was last updated on**
+
+03/06/2026
 
 ## Share this page
-
-[Back to top](#main-content)

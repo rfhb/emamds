@@ -1,32 +1,32 @@
 ---
-document_datetime: 2025-12-29 07:48:15
+document_datetime: 2026-06-02 16:46:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/orkambi.html
 document_name: orkambi.html
 version: success
-processing_time: 0.1310156
-conversion_datetime: 2025-12-30 02:58:29.443657
+processing_time: 0.1512933
+conversion_datetime: 2026-06-04 22:16:34.6612
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.21.0
+  docling-jobkit: 1.20.1
+  docling: 2.97.0
+  docling-core: 2.78.0
+  docling-ibm-models: 3.13.2
+  docling-parse: 6.2.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
 ---
 # Orkambi
 
 [RSS](/en/individual-human-medicine.xml/66729)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-lumacaftor / ivacaftor Medicine Human Authorised
+lumacaftor / ivacaftor
 
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
+Medicine Human Authorised
 
 Page contents
 
@@ -58,7 +58,7 @@ Expand section
 
 Collapse section
 
-## How is Orkambi used?
+### How is Orkambi used?
 
 Orkambi can only be prescribed by a doctor with experience in the treatment of cystic fibrosis.
 
@@ -66,13 +66,13 @@ Orkambi is available as tablets and granules to be taken by mouth. It is taken e
 
 For more information about using Orkambi, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Orkambi work?
+### How does Orkambi work?
 
 Cystic fibrosis is caused by mutations in the *CFTR* gene. This gene makes the CFTR protein, which is involved in regulating the production of mucus and digestive juices. The mutations reduce the amount of CFTR protein on the cell surface or affect the way the protein works.
 
 One of the active substances in Orkambi, lumacaftor, increases the amount of CFTR protein on the cell and the other, ivacaftor, increases the activity of the defective CFTR protein. These actions make mucus and digestive juices less thick.
 
-## What benefits of Orkambi have been shown in studies?
+### What benefits of Orkambi have been shown in studies?
 
 Orkambi improved lung function in two main studies involving 1,108 cystic fibrosis patients aged 12 years and above, and one study involving 204 children aged 6 to 11 years. All patients had the *F508del* mutation in the *CFTR* gene. In these three studies, Orkambi was compared with placebo (a dummy treatment), both added to patients' usual therapy.
 
@@ -86,13 +86,13 @@ One study involved 60 children aged 2 to 5 years with cystic fibrosis who had th
 
 A second study involved 46 children aged 12 to 23 months with cystic fibrosis who had the F508del mutation in both copies of the CFTR gene. All children were treated with Orkambi. The study showed a decrease in the amount of chloride in sweat after 24 weeks of treatment, which was comparable to that seen in older children treated with Orkambi in separate studies.
 
-## What are the risks associated with Orkambi?
+### What are the risks associated with Orkambi?
 
 For the full list of side effects and restrictions with Orkambi, see the package leaflet.
 
 The most common side effects with Orkambi (which may affect more than 1 in 10 people) include dyspnoea (shortness of breath), diarrhoea and nausea (feeling sick). Serious side effects (which may affect up to 1 in 100 people) include liver problems such as raised liver enzymes, cholestatic hepatitis (build-up of bile leading to inflammation of the liver) and hepatic encephalopathy (a brain disease caused by liver problems).
 
-## Why is Orkambi authorised in the EU?
+### Why is Orkambi authorised in the EU?
 
 Orkambi has been shown to improve lung function and lung ventilation in patients with cystic fibrosis from 6 years of age. The effects of Orkambi in children aged 1 to 5 years were considered to be similar to those in older children and a long-term study will be carried out to confirm this.
 
@@ -100,7 +100,7 @@ The beneficial effects of Orkambi were smaller than expected for a medicine that
 
 The European Medicines Agency decided that Orkambi's benefits are greater than its risks and recommended that it be approved for use in the EU.
 
-## What measures are being taken to ensure the safe and effective use of Orkambi?
+### What measures are being taken to ensure the safe and effective use of Orkambi?
 
 The company that markets Orkambi is required to conduct a long-term study in children aged 1 to 5 years with cystic fibrosis who have the *F508del* mutation in both copies of the CFTR gene. The study is to evaluate how the disease progresses in children who are treated with Orkambi compared to children who are not treated with Orkambi. As part of this study, the long-term safety of Orkambi in children aged 12 to 23 months will be further assessed.
 
@@ -108,7 +108,7 @@ Recommendations and precautions to be followed by healthcare professionals and p
 
 As for all medicines, data on the use of Orkambi are continuously monitored. Side effects reported with Orkambi are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Orkambi
+### Other information about Orkambi
 
 Orkambi received a marketing authorisation valid throughout the EU on 19 November 2015.
 
@@ -116,285 +116,149 @@ Orkambi : EPAR - Medicine overview
 
 English (EN) (109.42 KB - PDF)
 
-**First published:** 01/12/2015
-
-**Last updated:** 27/07/2023
+**First published:** 01/12/2015 **Last updated:** 27/07/2023
 
 [View](/en/documents/overview/orkambi-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-352)
+[Other languages (22)](#file-language-dropdown-410)
 
 български (BG) (141.33 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-27/07/2023
+**First published:** 01/12/2015 **Last updated:** 27/07/2023
 
 [View](/bg/documents/overview/orkambi-epar-medicine-overview_bg.pdf)
 
 español (ES) (115.46 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-27/07/2023
+**First published:** 01/12/2015 **Last updated:** 27/07/2023
 
 [View](/es/documents/overview/orkambi-epar-medicine-overview_es.pdf)
 
 čeština (CS) (139.02 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-27/07/2023
+**First published:** 01/12/2015 **Last updated:** 27/07/2023
 
 [View](/cs/documents/overview/orkambi-epar-medicine-overview_cs.pdf)
 
 dansk (DA) (113.7 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-27/07/2023
+**First published:** 01/12/2015 **Last updated:** 27/07/2023
 
 [View](/da/documents/overview/orkambi-epar-medicine-overview_da.pdf)
 
 Deutsch (DE) (118.36 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-27/07/2023
+**First published:** 01/12/2015 **Last updated:** 27/07/2023
 
 [View](/de/documents/overview/orkambi-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (112.69 KB - PDF)
+eesti (ET) (112.69 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-27/07/2023
+**First published:** 01/12/2015 **Last updated:** 27/07/2023
 
 [View](/et/documents/overview/orkambi-epar-medicine-overview_et.pdf)
 
 ελληνικά (EL) (141.59 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-27/07/2023
+**First published:** 01/12/2015 **Last updated:** 27/07/2023
 
 [View](/el/documents/overview/orkambi-epar-medicine-overview_el.pdf)
 
 français (FR) (118.04 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-27/07/2023
+**First published:** 01/12/2015 **Last updated:** 27/07/2023
 
 [View](/fr/documents/overview/orkambi-epar-medicine-overview_fr.pdf)
 
 hrvatski (HR) (140.5 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-27/07/2023
+**First published:** 01/12/2015 **Last updated:** 27/07/2023
 
 [View](/hr/documents/overview/orkambi-epar-medicine-overview_hr.pdf)
 
 italiano (IT) (114.99 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-27/07/2023
+**First published:** 01/12/2015 **Last updated:** 27/07/2023
 
 [View](/it/documents/overview/orkambi-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (147.95 KB - PDF)
+latviešu (LV) (147.95 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-27/07/2023
+**First published:** 01/12/2015 **Last updated:** 27/07/2023
 
 [View](/lv/documents/overview/orkambi-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (138.94 KB - PDF)
+lietuvių (LT) (138.94 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-27/07/2023
+**First published:** 01/12/2015 **Last updated:** 27/07/2023
 
 [View](/lt/documents/overview/orkambi-epar-medicine-overview_lt.pdf)
 
 magyar (HU) (139.69 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-27/07/2023
+**First published:** 01/12/2015 **Last updated:** 27/07/2023
 
 [View](/hu/documents/overview/orkambi-epar-medicine-overview_hu.pdf)
 
 Malti (MT) (142.63 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-27/07/2023
+**First published:** 01/12/2015 **Last updated:** 27/07/2023
 
 [View](/mt/documents/overview/orkambi-epar-medicine-overview_mt.pdf)
 
 Nederlands (NL) (115 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-27/07/2023
+**First published:** 01/12/2015 **Last updated:** 27/07/2023
 
 [View](/nl/documents/overview/orkambi-epar-medicine-overview_nl.pdf)
 
 polski (PL) (143.7 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-27/07/2023
+**First published:** 01/12/2015 **Last updated:** 27/07/2023
 
 [View](/pl/documents/overview/orkambi-epar-medicine-overview_pl.pdf)
 
 português (PT) (116.21 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-27/07/2023
+**First published:** 01/12/2015 **Last updated:** 27/07/2023
 
 [View](/pt/documents/overview/orkambi-epar-medicine-overview_pt.pdf)
 
 română (RO) (137.9 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-27/07/2023
+**First published:** 01/12/2015 **Last updated:** 27/07/2023
 
 [View](/ro/documents/overview/orkambi-epar-medicine-overview_ro.pdf)
 
 slovenčina (SK) (140.06 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-27/07/2023
+**First published:** 01/12/2015 **Last updated:** 27/07/2023
 
 [View](/sk/documents/overview/orkambi-epar-medicine-overview_sk.pdf)
 
 slovenščina (SL) (137.78 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-27/07/2023
+**First published:** 01/12/2015 **Last updated:** 27/07/2023
 
 [View](/sl/documents/overview/orkambi-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (112.72 KB - PDF)
+suomi (FI) (112.72 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-27/07/2023
+**First published:** 01/12/2015 **Last updated:** 27/07/2023
 
 [View](/fi/documents/overview/orkambi-epar-medicine-overview_fi.pdf)
 
 svenska (SV) (114.28 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-27/07/2023
+**First published:** 01/12/2015 **Last updated:** 27/07/2023
 
 [View](/sv/documents/overview/orkambi-epar-medicine-overview_sv.pdf)
 
 Orkambi : EPAR - Risk management plan
 
-English (EN) (7.22 MB - PDF)
+English (EN) (3.43 MB - PDF)
 
-**First published:** 01/12/2015
-
-**Last updated:** 03/07/2024
+**First published:** 01/12/2015 **Last updated:** 02/06/2026
 
 [View](/en/documents/rmp-summary/orkambi-epar-risk-management-plan_en.pdf)
 
@@ -402,305 +266,161 @@ English (EN) (7.22 MB - PDF)
 
 Orkambi : EPAR - Product Information
 
-English (EN) (874.22 KB - PDF)
+English (EN) (716.99 KB - PDF)
 
-**First published:** 01/12/2015
-
-**Last updated:** 30/10/2025
+**First published:** 01/12/2015 **Last updated:** 02/06/2026
 
 [View](/en/documents/product-information/orkambi-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-76)
+[Other languages (24)](#file-language-dropdown-533)
 
-български (BG) (1.13 MB - PDF)
+български (BG) (968.83 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-30/10/2025
+**First published:** 01/12/2015 **Last updated:** 02/06/2026
 
 [View](/bg/documents/product-information/orkambi-epar-product-information_bg.pdf)
 
-español (ES) (918.27 KB - PDF)
+español (ES) (741.88 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-30/10/2025
+**First published:** 01/12/2015 **Last updated:** 02/06/2026
 
 [View](/es/documents/product-information/orkambi-epar-product-information_es.pdf)
 
-čeština (CS) (1.14 MB - PDF)
+čeština (CS) (997.69 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-30/10/2025
+**First published:** 01/12/2015 **Last updated:** 02/06/2026
 
 [View](/cs/documents/product-information/orkambi-epar-product-information_cs.pdf)
 
-dansk (DA) (1.03 MB - PDF)
+dansk (DA) (834.85 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-30/10/2025
+**First published:** 01/12/2015 **Last updated:** 02/06/2026
 
 [View](/da/documents/product-information/orkambi-epar-product-information_da.pdf)
 
-Deutsch (DE) (1.02 MB - PDF)
+Deutsch (DE) (847.5 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-30/10/2025
+**First published:** 01/12/2015 **Last updated:** 02/06/2026
 
 [View](/de/documents/product-information/orkambi-epar-product-information_de.pdf)
 
-eesti keel (ET) (1.13 MB - PDF)
+eesti (ET) (1.19 MB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-30/10/2025
+**First published:** 01/12/2015 **Last updated:** 02/06/2026
 
 [View](/et/documents/product-information/orkambi-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.35 MB - PDF)
+ελληνικά (EL) (1.54 MB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-30/10/2025
+**First published:** 01/12/2015 **Last updated:** 02/06/2026
 
 [View](/el/documents/product-information/orkambi-epar-product-information_el.pdf)
 
-français (FR) (1.19 MB - PDF)
+français (FR) (1.16 MB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-30/10/2025
+**First published:** 01/12/2015 **Last updated:** 02/06/2026
 
 [View](/fr/documents/product-information/orkambi-epar-product-information_fr.pdf)
 
-hrvatski (HR) (1.09 MB - PDF)
+hrvatski (HR) (1.24 MB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-30/10/2025
+**First published:** 01/12/2015 **Last updated:** 02/06/2026
 
 [View](/hr/documents/product-information/orkambi-epar-product-information_hr.pdf)
 
-íslenska (IS) (966 KB - PDF)
+italiano (IT) (1.1 MB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-30/10/2025
-
-[View](/is/documents/product-information/orkambi-epar-product-information_is.pdf)
-
-italiano (IT) (949.7 KB - PDF)
-
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-30/10/2025
+**First published:** 01/12/2015 **Last updated:** 02/06/2026
 
 [View](/it/documents/product-information/orkambi-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (1.04 MB - PDF)
+latviešu (LV) (874.89 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-30/10/2025
+**First published:** 01/12/2015 **Last updated:** 02/06/2026
 
 [View](/lv/documents/product-information/orkambi-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (990.83 KB - PDF)
+lietuvių (LT) (1.16 MB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-30/10/2025
+**First published:** 01/12/2015 **Last updated:** 02/06/2026
 
 [View](/lt/documents/product-information/orkambi-epar-product-information_lt.pdf)
 
-magyar (HU) (1.07 MB - PDF)
+magyar (HU) (1.02 MB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-30/10/2025
+**First published:** 01/12/2015 **Last updated:** 02/06/2026
 
 [View](/hu/documents/product-information/orkambi-epar-product-information_hu.pdf)
 
-Malti (MT) (1.08 MB - PDF)
+Malti (MT) (975.5 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-30/10/2025
+**First published:** 01/12/2015 **Last updated:** 02/06/2026
 
 [View](/mt/documents/product-information/orkambi-epar-product-information_mt.pdf)
 
-Nederlands (NL) (977.51 KB - PDF)
+Nederlands (NL) (737.26 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-30/10/2025
+**First published:** 01/12/2015 **Last updated:** 02/06/2026
 
 [View](/nl/documents/product-information/orkambi-epar-product-information_nl.pdf)
 
-norsk (NO) (890.73 KB - PDF)
+polski (PL) (991.63 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-30/10/2025
-
-[View](/no/documents/product-information/orkambi-epar-product-information_no.pdf)
-
-polski (PL) (1.15 MB - PDF)
-
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-30/10/2025
+**First published:** 01/12/2015 **Last updated:** 02/06/2026
 
 [View](/pl/documents/product-information/orkambi-epar-product-information_pl.pdf)
 
-português (PT) (911.69 KB - PDF)
+português (PT) (743.3 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-30/10/2025
+**First published:** 01/12/2015 **Last updated:** 02/06/2026
 
 [View](/pt/documents/product-information/orkambi-epar-product-information_pt.pdf)
 
-română (RO) (1.07 MB - PDF)
+română (RO) (1017.88 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-30/10/2025
+**First published:** 01/12/2015 **Last updated:** 02/06/2026
 
 [View](/ro/documents/product-information/orkambi-epar-product-information_ro.pdf)
 
-slovenčina (SK) (846.8 KB - PDF)
+slovenčina (SK) (910.47 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-30/10/2025
+**First published:** 01/12/2015 **Last updated:** 02/06/2026
 
 [View](/sk/documents/product-information/orkambi-epar-product-information_sk.pdf)
 
-slovenščina (SL) (801.98 KB - PDF)
+slovenščina (SL) (858.51 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-30/10/2025
+**First published:** 01/12/2015 **Last updated:** 02/06/2026
 
 [View](/sl/documents/product-information/orkambi-epar-product-information_sl.pdf)
 
-Suomi (FI) (995.32 KB - PDF)
+suomi (FI) (757.11 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-30/10/2025
+**First published:** 01/12/2015 **Last updated:** 02/06/2026
 
 [View](/fi/documents/product-information/orkambi-epar-product-information_fi.pdf)
 
-svenska (SV) (987.65 KB - PDF)
+svenska (SV) (834.67 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-30/10/2025
+**First published:** 01/12/2015 **Last updated:** 02/06/2026
 
 [View](/sv/documents/product-information/orkambi-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** N/0000308598 30/10/2025
+Íslenska (IS) (1.04 MB - PDF)
+
+**First published:** 01/12/2015 **Last updated:** 02/06/2026
+
+[View](/is/documents/product-information/orkambi-epar-product-information_is.pdf)
+
+norsk (NO) (1.01 MB - PDF)
+
+**First published:** 01/12/2015 **Last updated:** 02/06/2026
+
+[View](/no/documents/product-information/orkambi-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** PSUR/0000296584
+
+26/03/2026
 
 icon globe
 
@@ -720,305 +440,163 @@ Orkambi : EPAR - All Authorised presentations
 
 English (EN) (59.05 KB - PDF)
 
-**First published:** 01/12/2015
-
-**Last updated:** 27/07/2023
+**First published:** 01/12/2015 **Last updated:** 27/07/2023
 
 [View](/en/documents/all-authorised-presentations/orkambi-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-28)
+[Other languages (24)](#file-language-dropdown-970)
 
 български (BG) (69.81 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-27/07/2023
+**First published:** 01/12/2015 **Last updated:** 27/07/2023
 
 [View](/bg/documents/all-authorised-presentations/orkambi-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (60.5 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-27/07/2023
+**First published:** 01/12/2015 **Last updated:** 27/07/2023
 
 [View](/es/documents/all-authorised-presentations/orkambi-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (69.24 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-27/07/2023
+**First published:** 01/12/2015 **Last updated:** 27/07/2023
 
 [View](/cs/documents/all-authorised-presentations/orkambi-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (41.52 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-27/07/2023
+**First published:** 01/12/2015 **Last updated:** 27/07/2023
 
 [View](/da/documents/all-authorised-presentations/orkambi-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (42.12 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-27/07/2023
+**First published:** 01/12/2015 **Last updated:** 27/07/2023
 
 [View](/de/documents/all-authorised-presentations/orkambi-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (61.89 KB - PDF)
+eesti (ET) (61.89 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-27/07/2023
+**First published:** 01/12/2015 **Last updated:** 27/07/2023
 
 [View](/et/documents/all-authorised-presentations/orkambi-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (79.82 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-27/07/2023
+**First published:** 01/12/2015 **Last updated:** 27/07/2023
 
 [View](/el/documents/all-authorised-presentations/orkambi-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (61.56 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-27/07/2023
+**First published:** 01/12/2015 **Last updated:** 27/07/2023
 
 [View](/fr/documents/all-authorised-presentations/orkambi-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (80.68 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-27/07/2023
+**First published:** 01/12/2015 **Last updated:** 27/07/2023
 
 [View](/hr/documents/all-authorised-presentations/orkambi-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (41.71 KB - PDF)
-
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-27/07/2023
-
-[View](/is/documents/all-authorised-presentations/orkambi-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (45.91 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-27/07/2023
+**First published:** 01/12/2015 **Last updated:** 27/07/2023
 
 [View](/it/documents/all-authorised-presentations/orkambi-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (67.51 KB - PDF)
+latviešu (LV) (67.51 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-27/07/2023
+**First published:** 01/12/2015 **Last updated:** 27/07/2023
 
 [View](/lv/documents/all-authorised-presentations/orkambi-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (80.27 KB - PDF)
+lietuvių (LT) (80.27 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-27/07/2023
+**First published:** 01/12/2015 **Last updated:** 27/07/2023
 
 [View](/lt/documents/all-authorised-presentations/orkambi-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (46.94 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-27/07/2023
+**First published:** 01/12/2015 **Last updated:** 27/07/2023
 
 [View](/hu/documents/all-authorised-presentations/orkambi-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (81.1 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-27/07/2023
+**First published:** 01/12/2015 **Last updated:** 27/07/2023
 
 [View](/mt/documents/all-authorised-presentations/orkambi-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (44.88 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-27/07/2023
+**First published:** 01/12/2015 **Last updated:** 27/07/2023
 
 [View](/nl/documents/all-authorised-presentations/orkambi-epar-all-authorised-presentations_nl.pdf)
 
-norsk (NO) (61.34 KB - PDF)
-
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-27/07/2023
-
-[View](/no/documents/all-authorised-presentations/orkambi-epar-all-authorised-presentations_no.pdf)
-
 polski (PL) (70.76 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-27/07/2023
+**First published:** 01/12/2015 **Last updated:** 27/07/2023
 
 [View](/pl/documents/all-authorised-presentations/orkambi-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (61.78 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-27/07/2023
+**First published:** 01/12/2015 **Last updated:** 27/07/2023
 
 [View](/pt/documents/all-authorised-presentations/orkambi-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (74.91 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-27/07/2023
+**First published:** 01/12/2015 **Last updated:** 27/07/2023
 
 [View](/ro/documents/all-authorised-presentations/orkambi-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (78.46 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-27/07/2023
+**First published:** 01/12/2015 **Last updated:** 27/07/2023
 
 [View](/sk/documents/all-authorised-presentations/orkambi-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (78.39 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-27/07/2023
+**First published:** 01/12/2015 **Last updated:** 27/07/2023
 
 [View](/sl/documents/all-authorised-presentations/orkambi-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (60.54 KB - PDF)
+suomi (FI) (60.54 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-27/07/2023
+**First published:** 01/12/2015 **Last updated:** 27/07/2023
 
 [View](/fi/documents/all-authorised-presentations/orkambi-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (61.05 KB - PDF)
 
-**First published:**
-
-01/12/2015
-
-**Last updated:**
-
-27/07/2023
+**First published:** 01/12/2015 **Last updated:** 27/07/2023
 
 [View](/sv/documents/all-authorised-presentations/orkambi-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (41.71 KB - PDF)
+
+**First published:** 01/12/2015 **Last updated:** 27/07/2023
+
+[View](/is/documents/all-authorised-presentations/orkambi-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (61.34 KB - PDF)
+
+**First published:** 01/12/2015 **Last updated:** 27/07/2023
+
+[View](/no/documents/all-authorised-presentations/orkambi-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine Orkambi Active substance
+Name of medicine
+
+Orkambi
+
+Active substance
 
 - Lumacaftor
 - ivacaftor
@@ -1028,7 +606,13 @@ International non-proprietary name (INN) or common name
 - lumacaftor
 - ivacaftor
 
-Therapeutic area (MeSH) Cystic Fibrosis Anatomical therapeutic chemical (ATC) code R07AX30
+Therapeutic area (MeSH)
+
+Cystic Fibrosis
+
+Anatomical therapeutic chemical (ATC) code
+
+R07AX30
 
 ### Pharmacotherapeutic group
 
@@ -1042,13 +626,27 @@ Orkambi granules are indicated for the treatment of cystic fibrosis (CF) in chil
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/003954 Marketing authorisation holder
+EMA product number
+
+EMEA/H/C/003954
+
+Marketing authorisation holder
 
 Vertex Pharmaceuticals (Ireland) Limited
 
 Unit 49, Block 5 Northwood Court Northwood Crescent Dublin 9 D09 T665 Ireland
 
-Opinion adopted 23/09/2015 Marketing authorisation issued 19/11/2015 Revision 38
+Opinion adopted
+
+23/09/2015
+
+Marketing authorisation issued
+
+19/11/2015
+
+Revision
+
+39
 
 ## Assessment history
 
@@ -1056,15 +654,13 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Orkambi : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (287.45 KB - PDF)
+English (EN) (157.93 KB - PDF)
 
-**First published:** 30/09/2025
-
-**Last updated:** 30/10/2025
+**First published:** 30/09/2025 **Last updated:** 02/06/2026
 
 [View](/en/documents/procedural-steps-after/orkambi-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1072,11 +668,29 @@ Orkambi : EPAR - Procedural steps taken and scientific information after authori
 
 English (EN) (212.41 KB - PDF)
 
-**First published:** 15/03/2016
-
-**Last updated:** 30/09/2025
+**First published:** 15/03/2016 **Last updated:** 30/09/2025
 
 [View](/en/documents/procedural-steps-after/orkambi-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
+
+Orkambi-PSUSA-00010455-202505 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
+
+Reference Number: EMADOC-1700519818-3213132
+
+English (EN) (183.13 KB - PDF)
+
+**First published:** 02/06/2026
+
+[View](/en/documents/scientific-conclusion/orkambi-psusa-00010455-202505-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
+
+Orkambi-VR-0000320822 : EPAR - Assessment report - Variation
+
+Adopted Reference Number: EMADOC-1700519818-2827731
+
+English (EN) (3.52 MB - PDF)
+
+**First published:** 02/06/2026
+
+[View](/en/documents/variation-report/orkambi-vr-0000320822-epar-assessment-report-variation_en.pdf)
 
 Orkambi-H-C-PSUSA-00010455-202305 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
 
@@ -1090,9 +704,7 @@ English (EN) (99.72 KB - PDF)
 
 Orkambi-H-C-3954-X-0078-G : EPAR - Assessment Report - Extension
 
-Adopted
-
-Reference Number: EMA/222339/2023
+Adopted Reference Number: EMA/222339/2023
 
 English (EN) (3.21 MB - PDF)
 
@@ -1102,9 +714,7 @@ English (EN) (3.21 MB - PDF)
 
 CHMP post-authorisation summary of opinion for Orkambi (X-78-G)
 
-Adopted
-
-Reference Number: EMA/CHMP/177745/2023
+Adopted Reference Number: EMA/CHMP/177745/2023
 
 English (EN) (82.77 KB - PDF)
 
@@ -1124,9 +734,7 @@ English (EN) (1.21 MB - PDF)
 
 Orkambi-H-C-3954-P46-014.3 : EPAR - Assessment Report
 
-Adopted
-
-Reference Number: EMA/611137/2020
+Adopted Reference Number: EMA/611137/2020
 
 English (EN) (5.68 MB - PDF)
 
@@ -1136,9 +744,7 @@ English (EN) (5.68 MB - PDF)
 
 Orkambi-H-C-3954-P46-010.3 : EPAR - Assessment Report
 
-Adopted
-
-Reference Number: EMA/610236/2021
+Adopted Reference Number: EMA/610236/2021
 
 English (EN) (2.91 MB - PDF)
 
@@ -1168,9 +774,7 @@ English (EN) (713.33 KB - PDF)
 
 Orkambi-H-C-3954-X-0034-G : EPAR - Assessment report - Variation
 
-Adopted
-
-Reference Number: EMA/843650/2018
+Adopted Reference Number: EMA/843650/2018
 
 English (EN) (1.54 MB - PDF)
 
@@ -1180,9 +784,7 @@ English (EN) (1.54 MB - PDF)
 
 CHMP post-authorisation summary of positive opinion for Orkambi (X-34-G)
 
-Adopted
-
-Reference Number: EMA/774653/2018
+Adopted Reference Number: EMA/774653/2018
 
 English (EN) (67.93 KB - PDF)
 
@@ -1192,29 +794,21 @@ English (EN) (67.93 KB - PDF)
 
 Orkambi-H-C-3954-P46-011 : EPAR - Assessment Report
 
-Adopted
-
-Reference Number: EMA/PRAC/594359/2018
+Adopted Reference Number: EMA/PRAC/594359/2018
 
 English (EN) (546.49 KB - PDF)
 
-**First published:** 05/09/2018
-
-**Last updated:** 05/09/2018
+**First published:** 05/09/2018 **Last updated:** 05/09/2018
 
 [View](/en/documents/variation-report/orkambi-h-c-3954-p46-011-epar-assessment-report_en.pdf)
 
 Orkambi-H-C-3954-P46-012 : EPAR - Assessment Report
 
-Adopted
-
-Reference Number: EMA/PRAC/594368/2018
+Adopted Reference Number: EMA/PRAC/594368/2018
 
 English (EN) (254 KB - PDF)
 
-**First published:** 05/09/2018
-
-**Last updated:** 05/09/2018
+**First published:** 05/09/2018 **Last updated:** 05/09/2018
 
 [View](/en/documents/variation-report/orkambi-h-c-3954-p46-012-epar-assessment-report_en.pdf)
 
@@ -1224,9 +818,7 @@ Reference Number: EMA/CHMP/139083/2018
 
 English (EN) (69.06 KB - PDF)
 
-**First published:** 05/03/2018
-
-**Last updated:** 05/03/2018
+**First published:** 05/03/2018 **Last updated:** 05/03/2018
 
 [View](/en/documents/scientific-conclusion/orkambi-h-c-3954-psusa-00010455-201705-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisations_en.pdf)
 
@@ -1236,95 +828,85 @@ Reference Number: EMA/781319/2017
 
 English (EN) (1.63 MB - PDF)
 
-**First published:** 17/01/2018
-
-**Last updated:** 17/01/2018
+**First published:** 17/01/2018 **Last updated:** 17/01/2018
 
 [View](/en/documents/variation-report/orkambi-epar-assessment-report-variation_en.pdf)
 
 Orkambi-H-C-3954-P46-009.1 : EPAR - Assessment Report
 
-Adopted
-
-Reference Number: EMA/711838/2017
+Adopted Reference Number: EMA/711838/2017
 
 English (EN) (1.92 MB - PDF)
 
-**First published:** 04/01/2018
-
-**Last updated:** 17/10/2018
+**First published:** 04/01/2018 **Last updated:** 17/10/2018
 
 [View](/en/documents/variation-report/orkambi-h-c-3954-p46-0091-epar-assessment-report_en.pdf)
 
 CHMP post-authorisation summary of positive opinion for Orkambi (X-20)
 
-Adopted
-
-Reference Number: EMA/738556/2017
+Adopted Reference Number: EMA/738556/2017
 
 English (EN) (68.04 KB - PDF)
 
-**First published:** 10/11/2017
-
-**Last updated:** 10/11/2017
+**First published:** 10/11/2017 **Last updated:** 10/11/2017
 
 [View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-orkambi-x-20_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Orkambi : EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/667775/2015
+Adopted Reference Number: EMA/667775/2015
 
 English (EN) (2.44 MB - PDF)
 
-**First published:** 01/12/2015
-
-**Last updated:** 16/10/2018
+**First published:** 01/12/2015 **Last updated:** 16/10/2018
 
 [View](/en/documents/assessment-report/orkambi-epar-public-assessment-report_en.pdf)
 
 CHMP summary of positive opinion Orkambi
 
-Adopted
-
-Reference Number: EMA/CHMP/617813/2015
+Adopted Reference Number: EMA/CHMP/617813/2015
 
 English (EN) (71.31 KB - PDF)
 
-**First published:** 25/09/2015
-
-**Last updated:** 25/09/2015
+**First published:** 25/09/2015 **Last updated:** 25/09/2015
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-orkambi_en.pdf)
 
-#### News on Orkambi
+## News on Orkambi
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 24 - 26 April 2023](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-24-26-april-2023) 26/04/2023
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 24 - 26 April 2023](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-24-26-april-2023)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 12-15 November 2018](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-12-15-november-2018) 16/11/2018
+26/04/2023
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 6-9 November 2017](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-6-9-november-2017) 10/11/2017
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 12-15 November 2018](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-12-15-november-2018)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 21-24 September 2015](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-21-24-september-2015) 25/09/2015
+16/11/2018
 
-#### More information on Orkambi
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 6-9 November 2017](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-6-9-november-2017)
+
+10/11/2017
+
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 21-24 September 2015](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-21-24-september-2015)
+
+25/09/2015
+
+## More information on Orkambi
 
 This product is no longer an orphan medicine. It was originally [designated an orphan medicine](/en/medicines/human/orphan-designations/eu3141333) on 20 September 2010. Orkambi was withdrawn from the Community register of orphan medicinal products in October 2015 upon request of the marketing authorisation holder at the time of the granting of a marketing authorisation.
 
-#### More information on Orkambi
+## More information on Orkambi
 
 - [EMEA-001582-PIP01-13-M10 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001582-pip01-13-m10)
 - [An Observational Study to Evaluate the Utilisation Patterns and Long-term Effects of Lumacaftor and Ivacaftor Combination Therapy in Patients With Cystic Fibrosis - post-authorisation study](https://catalogues.ema.europa.eu/study/39240)
 
-#### Topics
+## Topics
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 30/10/2025
+**This page was last updated on**
+
+02/06/2026
 
 ## Share this page
-
-[Back to top](#main-content)

@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-02-20 10:18:49
+document_datetime: 2026-06-03 14:39:31
 document_pages: 30
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/ameluz-epar-product-information_en.pdf
 document_name: ameluz-epar-product-information_en.pdf
 version: success
-processing_time: 10.477231
-conversion_datetime: 2026-02-21 12:48:54.093181
+processing_time: 13.6614954
+conversion_datetime: 2026-06-04 22:38:29.661097
 docling_version:
-  docling-serve: 1.13.0
-  docling-jobkit: 1.11.0
-  docling: 2.74.0
-  docling-core: 2.65.1
-  docling-ibm-models: 3.11.0
-  docling-parse: 5.3.2
+  docling-serve: 1.21.0
+  docling-jobkit: 1.20.1
+  docling: 2.97.0
+  docling-core: 2.78.0
+  docling-ibm-models: 3.13.2
+  docling-parse: 6.2.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I SUMMARY OF PRODUCT CHARACTERISTICS
 
@@ -79,7 +79,8 @@ Ameluz should be administered under the guidance of a physician, a nurse or othe
 
 The gel can be administered to healthy skin around the lesions. Direct contact of Ameluz with the eyes or mucous membranes should be avoided (keep a distance of 1 cm). In case of accidental contact, rinsing with water is recommended.
 
-- c) Illumination: After cleaning the lesions, the entire treatment area will be illuminated with a red light source, either with a narrow-spectrum around 630 nm and a light dose of approximately 37 J/cm 2 or a broader and continuous spectrum in the range between 570 and 670 nm with a light dose between 75 and 200 J/cm 2 . It is important to ensure that the correct light dose is administered. The total light dose is determined by factors such as the irradiance (or equivalent), the size of the light field, the distance between lamp and skin surface, and the illumination time. These factors vary with lamp type. The light dose delivered should be monitored if a suitable detector is available. During illumination the lamp should be fixed at the distance from the skin surface that is indicated in the user manual. See also section 6.6. A narrow-spectrum lamp is recommended to achieve higher clearance rates. Symptomatic treatment of transient adverse site reactions may be considered. A broader and continuous
+- c) Illumination: After cleaning the lesions, the entire treatment area will be illuminated with a red light source, either with a narrow-spectrum around 630 nm and a light dose of approximately 37 J/cm 2 dose between 75 and 200 J/cm 2 . It is important to ensure that the correct light dose is administered. The total light dose is determined by factors such as the irradiance (or equivalent), the size of the light field, the distance between lamp and skin surface, and the illumination time. These factors vary with lamp type. The light dose delivered should be monitored if a suitable detector is available. During illumination the lamp should be fixed at the distance from the skin surface that is indicated in the user manual. See also section 6.6.
+2. or a broader and continuous spectrum in the range between 570 and 670 nm with a light A narrow-spectrum lamp is recommended to achieve higher clearance rates. Symptomatic treatment of transient adverse site reactions may be considered. A broader and continuous
 
 spectrum may be used if narrow-spectrum light sources are not tolerated (see sections 4.8 and 5.1).
 
@@ -91,15 +92,14 @@ Lesions should be re-assessed after three months, at which point any residual le
 
 a) Considerations before treatment: Natural daylight PDT should only be used if the conditions are suitable to stay comfortably outdoors for two hours (with temperatures &gt; 10 °C). If the weather is rainy, or is likely to become so, natural daylight treatment should not be used. , sunscreen should be applied 15 min prior to lesion pretreatment in
 
-For natural daylight PDT order to protect sun exposed skin. Only sunscreen with chemical filters and SPF 30 or higher
+For natural daylight PDT order to protect sun exposed skin. Only sunscreen with chemical filters and SPF 30 or higher should be used. Sunscreens with physical filters such as titanium dioxide, zinc oxide, etc. should not be used, as these inhibit light absorption and may therefore impact efficacy. For artificial daylight PDT , sunscreen is not needed, as patients are not exposed to ultraviolet light during illumination.
 
 <div style=\"page-break-after: always\"></div>
 
-should be used. Sunscreens with physical filters such as titanium dioxide, zinc oxide, etc. should not be used, as these inhibit light absorption and may therefore impact efficacy. For artificial daylight PDT , sunscreen is not needed, as patients are not exposed to ultraviolet light during illumination.
-
 - b) Preparation of the lesions : Before administration of Ameluz, all lesions should be carefully wiped with an ethanol or isopropanol-soaked cotton pad to ensure degreasing of the skin. Scales and crusts should be removed accurately and all lesion surfaces roughened gently. Care should be taken to avoid bleeding.
 - c) Application of the gel : A thin layer of Ameluz should be applied to the lesion area or entire cancerized fields and approximately 5 mm of the surrounding area using glove-protected fingertips or a spatula. No occlusive dressing is necessary during incubation. It can be used optionally for artificial daylight PDT, but it should be removed before illumination at the latest. The gel can be administered to healthy skin around the lesions. Direct contact of Ameluz with the eyes or mucous membrane should be avoided (keep a distance of 1 cm). In case of accidental contact, rinsing with water is recommended. The gel should not be wiped off during the entire daylight PDT.
-- d) Incubation and illumination using daylight for AK treatment: Natural daylight PDT :
+
+## d) Incubation and illumination using daylight for AK treatment: Natural daylight PDT :
 
 If conditions are suitable (see section a. Considerations before treatment) , patients shall go outside within 30 minutes after application of the gel and stay for 2 continuous hours in full daylight. Taking shelter in the shade in hot weather is acceptable. Interruption of the time outdoors should be compensated by a longer illumination time. Remaining gel should be removed after completion of light exposure.
 
@@ -163,13 +163,11 @@ No interaction studies have been performed.
 
 ## Pregnancy
 
-There are no or limited amount of data (less than 300 pregnancy outcomes) from the use of
+There are no or limited amount of data (less than 300 pregnancy outcomes) from the use of effects with respect to reproductive toxicity (see section 5.3). As a precautionary measure, it is preferable to avoid the use of Ameluz during pregnancy.
 
 5-aminolaevulinic acid in pregnant women. Animal studies do not indicate direct or indirect harmful
 
 <div style=\"page-break-after: always\"></div>
-
-effects with respect to reproductive toxicity (see section 5.3). As a precautionary measure, it is preferable to avoid the use of Ameluz during pregnancy.
 
 ## Breast-feeding
 
@@ -197,7 +195,7 @@ Most adverse reactions occur during illumination or shortly afterwards. The symp
 
 ## Tabulated list of adverse reactions
 
-The incidence of adverse reactions in 624 subjects exposed to photodynamic therapy with Ameluz in pivotal clinical trials is listed below. All these adverse reactions were non serious. The table additionally includes serious adverse reactions reported post-marketing. Frequencies are defined as very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), uncommon (≥ 1/1 000 to &lt; 1/100), rare ( ≥ 1/10 000 to &lt; 1/1 000), very rare (&lt; 1/10 000), and not known (cannot be estimated from the available data). Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
+The incidence of adverse reactions in 624 subjects exposed to photodynamic therapy with Ameluz in pivotal clinical trials is listed below. All these adverse reactions were non serious. The table additionally includes serious adverse reactions reported post-marketing. Frequencies are defined as very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), uncommon (≥ 1/1 000 to &lt; 1/100), rare ( ≥ 1/10 000 to &lt; 1/1 000), very rare (&lt; 1/10 000), and not known (frequency cannot be estimated from the available data). Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 
 Table 1: Summary of related adverse drug reactions (ADRs) reported in patients treated with photodynamic therapy with 5-aminolaevulinic acid
 
@@ -213,14 +211,14 @@ Table 1: Summary of related adverse drug reactions (ADRs) reported in patients t
 
 | Eye disorders                                        | Uncommon    | Eyelid oedema, vision blurred, visual impairment                                                                                    |
 |------------------------------------------------------|-------------|-------------------------------------------------------------------------------------------------------------------------------------|
-| Skin and subcutaneous disorders                      | Uncommon    | Blister, dry skin, petechiae, skin tightness                                                                                        |
+| Vascular disorders                                   | Uncommon    | Hot flush                                                                                                                           |
+| Skin and subcutaneous tissue disorders               | Uncommon    | Blister, dry skin, petechiae, skin tightness                                                                                        |
 | Musculoskeletal and connective tissue disorders      | Uncommon    | Back pain                                                                                                                           |
 | General disorders and administration site conditions | Very common | At application site: Erythema, pain (incl. burning pain), irritation, pruritus, oedema, scab, exfoliation, induration, paraesthesia |
 | General disorders and administration site conditions | Common      | At application site: Vesicles, discharge, erosion, reaction, discomfort, hyperalgesia, haemorrhage, warmth                          |
 | General disorders and administration site conditions | Uncommon    | At application site: Discoloration, ulcer, swelling, inflammation, eczema infected, hypersensitivity* 1                             |
 | General disorders and administration site conditions | Uncommon    | Not at application site: Chills, feeling hot, pyrexia, pain, fatigue, ulcer, swelling                                               |
 | Injury, poisoning and procedural complications       | Uncommon    | Wound secretion                                                                                                                     |
-| Vascular disorders                                   | Uncommon    | Hot flush                                                                                                                           |
 
 ## Reporting of suspected adverse reactions
 
@@ -256,7 +254,7 @@ Efficacy and safety of Ameluz for the treatment of actinic keratosis (AK) has be
 
 ## A) Photodynamic therapy with red-light for AK of face and scalp
 
-In study ALA-AK-CT002, a randomised, observer blinded clinical trial with 571 AK patients and a follow-up duration of 6 and 12 months, photodynamic therapy with Ameluz was tested for noninferiority to a commercially registered cream containing 16% methyl-aminolevulinate (MAL, methyl[5-amino-4-oxopentanoate]) and superiority over placebo. The red light source was either a narrow light spectrum lamp (Aktilite CL 128 or Omnilux PDT) or a lamp with a broader and continuous light spectrum (Waldmann PDT 1200 L, or Hydrosun Photodyn 505 or 750). The primary endpoint was complete patient clearance 12 weeks after the last photodynamic therapy. Ameluz (78.2%) was significantly more effective than MAL (64.2%, [97.5%- confidence interval: 5.9; ∞]) and placebo (17.1%, [95%-confidence interval: 51.2; 71.0]). Total lesion clearance rates were higher for Ameluz (90.4%) compared to MAL (83.2%) and placebo (37.1%) . Clearance rates and tolerability were dependent on the illumination source. The following table presents the efficacy and the adverse reactions transient pain and erythema occurring at the application site during photodynamic therapy with different light sources:
+In study ALA-AK-CT002, a randomised, observer blinded clinical trial with 571 AK patients and a follow-up duration of 6 and 12 months, photodynamic therapy with Ameluz was tested for noninferiority to a commercially registered cream containing 16% methyl-aminolevulinate (MAL, methyl[5-amino-4-oxopentanoate]) and superiority over placebo. The red light source was either a narrow light spectrum lamp (Aktilite CL 128 or Omnilux PDT) or a lamp with a broader and continuous light spectrum (Waldmann PDT 1200 L, or Hydrosun Photodyn 505 or 750). The primary endpoint was complete patient clearance 12 weeks after the last photodynamic therapy. Ameluz (78.2%) was significantly more effective than MAL (64.2%, [97.5%- confidence interval: 5.9; ∞ ]) and placebo (17.1%, [95%-confidence interval: 51.2; 71.0]). Total lesion clearance rates were higher for Ameluz (90.4%) compared to MAL (83.2%) and placebo (37.1%) . Clearance rates and tolerability were dependent on the illumination source. The following table presents the efficacy and the adverse reactions transient pain and erythema occurring at the application site during photodynamic therapy with different light sources:
 
 Table 2a: Efficacy and adverse reactions (transient pain and erythema) occurring at the application site during photodynamic therapy with different light sources for the treatment of AK in clinical trial ALA-AK-CT002
 
@@ -268,11 +266,9 @@ Table 2a: Efficacy and adverse reactions (transient pain and erythema) occurring
 | Broad          | Ameluz              | 72                        | 32                              | 29                              | 6                               | 17                          | 25                          | 5                           |
 | spectrum       | MAL                 | 61                        | 31                              | 33                              | 3                               | 20                          | 23                          | 8                           |
 
-Clinical efficacy was re-assessed at follow-up visits 6 and 12 months after the last photodynamic therapy. Recurrence rates after 12 months were slightly better for Ameluz (41.6%, [95%-confidence interval: 34.4; 49.1]) as compared to MAL (44.8%, [95%-confidence interval: 36.8; 53.0]) and dependent on the light spectrum used for illumination, in favour of narrow spectrum lamps. Prior to the decision to undergo photodynamic therapy it should be taken into consideration that the probability of a subject to be completely cleared 12 months after the last treatment was 53.1% or 47.2% for treatment with Ameluz and 40.8% or 36.3% for MAL treatment with narrow spectrum lamps or all
+Clinical efficacy was re-assessed at follow-up visits 6 and 12 months after the last photodynamic therapy. Recurrence rates after 12 months were slightly better for Ameluz (41.6%, [95%-confidence interval: 34.4; 49.1]) as compared to MAL (44.8%, [95%-confidence interval: 36.8; 53.0]) and dependent on the light spectrum used for illumination, in favour of narrow spectrum lamps. Prior to the decision to undergo photodynamic therapy it should be taken into consideration that the probability of a subject to be completely cleared 12 months after the last treatment was 53.1% or 47.2% for treatment with Ameluz and 40.8% or 36.3% for MAL treatment with narrow spectrum lamps or all lamp types, respectively. The probability of patients in the Ameluz group to require only 1 treatment and remain completely cleared 12 months after the photodynamic therapy was 32.3%, that of patients in the MAL group 22.4% on average with all lamps.
 
 <div style=\"page-break-after: always\"></div>
-
-lamp types, respectively. The probability of patients in the Ameluz group to require only 1 treatment and remain completely cleared 12 months after the photodynamic therapy was 32.3%, that of patients in the MAL group 22.4% on average with all lamps.
 
 Cosmetic outcome assessed 12 weeks after the last photodynamic therapy (with baseline sum score 0 excluded) was judged as: very good or good in 43.1% of subjects in the Ameluz group, 45.2% in the MAL group and 36.4% in the placebo group; and unsatisfactory or impaired in 7.9%, 8.1% and 18.2% of subjects, respectively.
 
@@ -280,27 +276,25 @@ In study ALA-AK-CT003, Ameluz was also compared with placebo treatment in a rand
 
 Table 2b: Efficacy and adverse reactions (transient pain and erythema) occurring at the application site during photodynamic therapy with different light sources for the treatment of AK in clinical trial
 
-ALA-AK-CT003
+## ALA-AK-CT003
 
-| Light           | Medicinal   | Total patient clearance (%)   | Application site erythema (%)   | Application site erythema (%)   | Application site erythema (%)   | Application site pain (%)   | Application site pain (%)   | Application site pain (%)   |
+| Light           | Medicinal   |   Total patient clearance (%) | Application site erythema (%)   | Application site erythema (%)   | Application site erythema (%)   | Application site pain (%)   | Application site pain (%)   | Application site pain (%)   |
 |-----------------|-------------|-------------------------------|---------------------------------|---------------------------------|---------------------------------|-----------------------------|-----------------------------|-----------------------------|
 | source          | product     |                               | mild                            | moderate                        | severe                          | mild                        | moderate                    | severe                      |
-| Narrow spectrum | Ameluz      | 87                            | 26                              | 67                              | 7                               | 30                          | 35                          | 16                          |
-| Broad spectrum  | Ameluz      | 53                            | 47                              | 19                              | 0                               | 35                          | 14                          | 0                           |
+| Narrow spectrum | Ameluz      |                            87 | 26                              | 67                              | 7                               | 30                          | 35                          | 16                          |
+| Broad spectrum  | Ameluz      |                            53 | 47                              | 19                              | 0                               | 35                          | 14                          | 0                           |
 
 In both AK studies ALA-AK-CT002 and -CT003 the clearance rates were higher after illumination with narrow light spectrum devices but the incidence and intensity of administration site disorders (e.g. transient pain, erythema) increased in patients illuminated with these devices (see tables above and section 4.8).
 
 The cosmetic outcome was assessed as very good or good in 47.6% of the subjects in the Ameluz group compared to 25.0% of subjects in the placebo group. An unsatisfactory or impaired cosmetic outcome was judged for 3.8% of the subjects in the Ameluz group and in 22.5% of the subjects in the placebo group.
 
-Field cancerization is characterised by an area of skin where multiple AK lesions are present and there is likely to be an underlying and surrounding area of actinic damage (a concept known as field cancerization or field change); the extent of this area may not be evident visually or by physical examination. In a third randomised, double-blind clinical trial, ALA-AK-CT007, enrolling 87 patients, Ameluz and placebo were compared on entire treatment fields (field cancerization) containing 4 to 8 AK lesions in a field area of maximum 20 cm 2 . The red light source provided a narrow spectrum around 635 nm at a light dose of 37 J/cm 2  (BF-RhodoLED). Ameluz was superior to placebo with respect to patient complete clearance rates (90.9% vs. 21.9% for Ameluz and placebo, respectively; p &lt; 0.0001) and lesion complete clearance rates (94.3% vs. 32.9%, respectively; p &lt; 0.0001), as controlled 12 weeks after the last PDT. 96.9% of patients with AK on the face or forehead were cleared from all lesions, 81.8% of patients with AK on the scalp were totally cleared. Lesions of mild severity were cleared by 99.1% vs. 49.2%, those of moderate severity by 91.7% vs. 24.1% for treatment with Ameluz and placebo, respectively. After only 1 PDT complete patient clearance
+Field cancerization is characterised by an area of skin where multiple AK lesions are present and there is likely to be an underlying and surrounding area of actinic damage (a concept known as field cancerization or field change); the extent of this area may not be evident visually or by physical examination. In a third randomised, double-blind clinical trial, ALA-AK-CT007, enrolling 87 patients, Ameluz and placebo were compared on entire treatment fields (field cancerization) containing 4 to 8 AK lesions in a field area of maximum 20 cm 2 . The red light source provided a narrow spectrum around 635 nm at a light dose of 37 J/cm 2  (BF-RhodoLED). Ameluz was superior to placebo with respect to patient complete clearance rates (90.9% vs. 21.9% for Ameluz and placebo, respectively; p &lt; 0.0001) and lesion complete clearance rates (94.3% vs. 32.9%, respectively; p &lt; 0.0001), as controlled 12 weeks after the last PDT. 96.9% of patients with AK on the face or forehead were cleared from all lesions, 81.8% of patients with AK on the scalp were totally cleared. Lesions of mild severity were cleared by 99.1% vs. 49.2%, those of moderate severity by 91.7% vs. 24.1% for treatment with Ameluz and placebo, respectively. After only 1 PDT complete patient clearance resulted in 61.8% vs. 9.4%, and complete lesion clearance in 84.2% vs. 22.0% for Ameluz and placebo treatment, respectively.
 
 <div style=\"page-break-after: always\"></div>
 
-resulted in 61.8% vs. 9.4%, and complete lesion clearance in 84.2% vs. 22.0% for Ameluz and placebo treatment, respectively.
-
 Clinical efficacy was maintained during the follow-up periods of 6 and 12 months after the last PDT. After Ameluz treatment, 6.2% of the lesions were recurrent after 6 and additionally 2.9% after 12 months, respectively (placebo: 1.9% after 6 and additionally 0% after 12 months, respectively). Patient recurrence rates were 24.5% and 14.3% after 6 months, and additionally 12.2% and 0% after 12 months for Ameluz and placebo, respectively.
 
-The field treatment applied in this study allowed the assessment of skin quality changes at baseline and 6 and 12 months after the last PDT by severity. The percentage of patients with skin impairment before PDT and 12 months after PDT is listed in the table below.  All skin quality parameters in the treated area continuously improved up to the 12-month follow-up time point.
+The field treatment applied in this study allowed the assessment of skin quality changes at baseline and 6 and 12 months after the last PDT by severity. The percentage of patients with skin impairment before PDT and 12 months after PDT is listed in the table below. All skin quality parameters in the treated area continuously improved up to the 12-month follow-up time point.
 
 Table 3a: Skin quality parameters in the treated area during 12- month follow-up (ALA-AK-CT007)
 
@@ -342,8 +336,8 @@ Table 3b: Total Lesion Clearance (Percentage of Completely Cleared Individual Le
 
 |                       |   N | BF-200 ALA Mean + SD (%)   |   N | MAL Mean + SD (%)   |   Lower 97.5% Confidence Limit | P value   |
 |-----------------------|-----|----------------------------|-----|---------------------|--------------------------------|-----------|
-| PPS - non-inferiority |  49 | 79.8 +/- 23.6              |  49 | 76.5 +/- 26.5       |                              0 | < 0.0001  |
-| FAS - superiority     |  51 | 78.7 +/- 25.8              |  51 | 75.0 +/- 28.1       |                              0 | 0.1643    |
+| PPS - non-inferiority |  49 | 79.8 +/- 23.6              |  49 | 76.5 +/- 26.5       |                            0.0 | < 0.0001  |
+| FAS - superiority     |  51 | 78.7 +/- 25.8              |  51 | 75.0 +/- 28.1       |                            0.0 | 0.1643    |
 
 ## Treatment of basal cell carcinoma (BCC):
 
@@ -377,12 +371,12 @@ In a clinical trial designed to investigate the sensitization potential of ALA w
 
 Actinic keratosis lesion severity was graded according to the scale described by Olsen et al., 1991 (J Am Acad Dermatol 1991; 24: 738-743):
 
-|   Grade | Grade    | Clinical description of severity grading                                                                                       |
-|---------|----------|--------------------------------------------------------------------------------------------------------------------------------|
-|       0 | none     | no AK lesion present, neither visible nor palpable                                                                             |
-|       1 | mild     | flat, pink maculae without signs of hyperkeratosis and erythema, slight palpability, with AK felt better than seen             |
-|       2 | moderate | pink to reddish papules and erythematous plaques with hyperkeratotic surface, moderately thickAK that are easily seen and felt |
-|       3 | severe   | very thick and / or obvious AK                                                                                                 |
+|   Grade | Grade    | Clinical description of severity grading                                                                                        |
+|---------|----------|---------------------------------------------------------------------------------------------------------------------------------|
+|       0 | none     | no AK lesion present, neither visible nor palpable                                                                              |
+|       1 | mild     | flat, pink maculae without signs of hyperkeratosis and erythema, slight palpability, with AK felt better than seen              |
+|       2 | moderate | pink to reddish papules and erythematous plaques with hyperkeratotic surface, moderately thick AK that are easily seen and felt |
+|       3 | severe   | very thick and / or obvious AK                                                                                                  |
 
 ## Paediatric population
 
@@ -558,7 +552,7 @@ Keep the tube tightly closed after first opening.
 
 <div style=\"page-break-after: always\"></div>
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -654,7 +648,7 @@ Ameluz contains the active substance 5-aminolaevulinic acid. It is used to treat
 - slightly palpable to moderately thick actinic keratoses or entire fields affected by actinic keratoses in adults. Actinic keratoses are certain changes in the outer layer of the skin that can lead to skin cancer.
 - superficial and/or nodular basal cell carcinoma unsuitable for surgical treatment due to possible treatment-related morbidity and/or poor cosmetic outcome in adults. Basal cell carcinoma is a skin cancer that can cause reddish, scaly patches or one or several small bumps that bleed easily and do not heal.
 
-After application, the active substance of Ameluz becomes a photoactive substance which accumulates in  affected  cells.  Illumination  with  appropriate  light  produces  reactive  oxygencontaining  molecules which act against the target cells. This therapy is known as photodynamic therapy (PDT).
+After application, the active substance of Ameluz becomes a photoactive substance which accumulates in  affected cells.  Illumination  with  appropriate light produces reactive oxygen-containing molecules which act against the target cells. This therapy is known as photodynamic therapy (PDT).
 
 ## 2. What you need to know before you use Ameluz
 
@@ -713,10 +707,11 @@ Ameluz has no or negligible influence on the ability to drive and use machines.
 
 - 2.4 mg sodium benzoate (E211) in each gram of gel. Sodium benzoate may cause local irritation.
 - soybean phosphatidylcholine: If you are allergic to peanut or soya, do not use this medicine.
+- polysorbate 80. Polysorbates can cause allergic reactions.
 
 ## 3. How to use Ameluz
 
-Ameluz is only used on the skin. The treatment consists of application of Ameluz and light exposure. A therapy session can be administered for single or multiple lesions , or entire treatment fields. The illumination source for treatment of actinic keratoses lesions or fields can be daylight (natural or artificial) or a special red-light lamp. Your doctor will decide which treatment option to use, depending on your lesions.
+Ameluz is only used on the skin. The treatment consists of application of Ameluz and light exposure. A therapy session can be administered for single or multiple lesions, or entire treatment fields. The illumination source for treatment of actinic keratoses lesions or fields can be daylight (natural or artificial) or a special red-light lamp. Your doctor will decide which treatment option to use, depending on your lesions.
 
 The illumination source for PDT should always be a red-light lamp in the treatment of actinic keratosis in the body regions trunk, neck and extremities and basal cell carcinoma.
 
@@ -852,7 +847,9 @@ Uncommon: may affect up to 1 in 100 people
 - skin tightness
 - 1 Data from post-marketing
 
-Reporting of side effects If you get any side effects, talk to your doctor. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed  in Appendix V. By reporting side effects, you can help provide more information on the safety of this medicine. -
+## Reporting of side effects
+
+If you get any side effects, talk to your doctor. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects, you can help provide more information on the safety of this medicine.
 
 ## 5. How to store Ameluz
 
@@ -906,21 +903,19 @@ For any information about this medicine, please contact the local representative
 
 Biofrontera Pharma GmbH Duitsland / Allemagne / Deutschland Tél/Tel: +49 214 87632 66
 
-ameluz@biofrontera.com
+[ameluz@biofrontera.com](mailto:ameluz@biofrontera.com)
 
 ## България
 
 Biofrontera Pharma GmbH Германия
 
-Teл.: +49 214 87632 66
+Te л
+
+.: +49 214 87632 66
 
 ameluz@biofrontera.com
 
-Česká republika Biofrontera Pharma GmbH Německo Tel: +49 214 87632 66 ameluz@biofrontera.com
-
-## Danmark
-
-Galenica AB Sverige Tlf: +46 40 32 10 95 info@galenica.se
+Česk o Biofrontera Pharma GmbH Německo Tel: +49 214 87632 66 ameluz@biofrontera.com Danmark Galenica AB Sverige Tlf: +46 40 32 10 95 info@galenica.se
 
 ## Deutschland
 
@@ -938,21 +933,17 @@ ameluz@biofrontera.com
 
 ## Ελλάδα
 
-Biofrontera Pharma GmbH Γερμανία Τηλ: +49 214 87632 66 ameluz@biofrontera.com
+Biofrontera Pharma GmbH Γερμανία Τηλ : +49 214 87632 66 ameluz@biofrontera.com
 
 España Biofrontera Pharma GmbH sucursal en España Tel: 900 974943 ameluz-es@biofrontera.com
 
 France Biofrontera Pharma GmbH Allemagne Tél: 0800 904642 ameluz-fr@biofrontera.com
 
-## Hrvatska
-
-Propharma d.o.o. Tel: 01 / 3757 460 info@propharma.hr
+Hrvatska Propharma d.o.o. Tel: 01 / 3757 460 info@propharma.hr
 
 ## Ireland
 
-Biofrontera Pharma GmbH
-
-Germany Tel: +49 214 87632 66 ameluz@biofrontera.com
+Biofrontera Pharma GmbH Germany Tel: +49 214 87632 66 ameluz@biofrontera.com
 
 ## Ísland
 
@@ -964,7 +955,7 @@ Biofrontera Pharma GmbH Germania Tel: +49 214 87632 66 ameluz@biofrontera.com
 
 ## Κύπρος
 
-Biofrontera Pharma GmbH Γερμανία Τηλ: +49 214 87632 66 ameluz@biofrontera.com
+Biofrontera Pharma GmbH Γερμανία Τηλ : +49 214 87632 66 ameluz@biofrontera.com
 
 Latvija Biofrontera Pharma GmbH Vācija Tel: +49 214 87632 66 ameluz@biofrontera.com
 
@@ -972,15 +963,13 @@ Latvija Biofrontera Pharma GmbH Vācija Tel: +49 214 87632 66 ameluz@biofrontera
 
 Biofrontera Pharma GmbH Vokietija Tel: +49 214 87632 66 ameluz@biofrontera.com
 
-## Luxembourg/Luxemburg
-
-Biofrontera Pharma GmbH Allemagne / Deutschland Tél/Tel: +49 214 87632 66 ameluz@biofrontera.com
+Luxembourg/Luxemburg Biofrontera Pharma GmbH Allemagne / Deutschland Tél/Tel: +49 214 87632 66 ameluz@biofrontera.com
 
 Magyarország Biofrontera Pharma GmbH Németország Tel.: +49 214 87632 66 ameluz@biofrontera.com
 
 ## Malta
 
-Biofrontera Pharma GmbH Il-Ġermanja Tel: +49 214 87632 66 ameluz@biofrontera.com
+Biofrontera Pharma GmbH IlĠermanja Tel: +49 214 87632 66 ameluz@biofrontera.com
 
 ## Nederland
 
@@ -1004,19 +993,19 @@ Portugal Biofrontera Pharma GmbH Alemanha Tel: +49 214 87632 66 ameluz@biofronte
 
 ## România
 
-Biofrontera Pharma GmbH Germania
+Biofrontera Pharma GmbH
 
-Tel: +49 214 87632 66
+Germania Tel: +49 214 87632 66
 
-ameluz@biofrontera.com
+[ameluz@biofrontera.com](mailto:ameluz@biofrontera.com)
 
-## Slovenija
+Slovenija Biofrontera Pharma GmbH Nemčija Tel: +49 214 87632 66 ameluz@biofrontera.com
 
-Biofrontera Pharma GmbH Nemčija
+## Slovenská republika
 
-Tel: +49 214 87632 66 ameluz@biofrontera.com
+Biofrontera Pharma GmbH
 
-Slovenská republika Biofrontera Pharma GmbH Nemecko Tel: +49 214 87632 66 ameluz@biofrontera.com
+Nemecko Tel: +49 214 87632 66 ameluz@biofrontera.com
 
 ## This leaflet was last revised in
 
@@ -1030,7 +1019,7 @@ Ruotsi
 
 Puh/Tel: +46 40 32 10 95
 
-info@galenica.se
+[info@galenica.se](mailto:info@galenica.se)
 
 ## Sverige
 
@@ -1038,8 +1027,6 @@ Galenica AB Tfn: +46 40 32 10 95 info@galenica.se
 
 ## United Kingdom (Northern Ireland)
 
-Biofrontera Pharma GmbH
-
-Germany Tel: +49 214 87632 66
+Biofrontera Pharma GmbH Germany Tel: +49 214 87632 66
 
 ameluz@biofrontera.com

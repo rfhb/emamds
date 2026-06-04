@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-03-18 14:53:06
+document_datetime: 2026-06-02 10:28:49
 document_pages: 117
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/akynzeo-epar-product-information_en.pdf
 document_name: akynzeo-epar-product-information_en.pdf
 version: success
-processing_time: 43.1953164
-conversion_datetime: 2026-03-21 12:05:22.471912
+processing_time: 56.0364185
+conversion_datetime: 2026-06-04 22:39:39.910838
 docling_version:
-  docling-serve: 1.14.3
-  docling-jobkit: 1.13.0
-  docling: 2.81.0
-  docling-core: 2.70.2
-  docling-ibm-models: 3.12.0
-  docling-parse: 5.6.0
+  docling-serve: 1.21.0
+  docling-jobkit: 1.20.1
+  docling: 2.97.0
+  docling-core: 2.78.0
+  docling-ibm-models: 3.13.2
+  docling-parse: 6.2.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -105,11 +105,9 @@ There have been reports of serotonin syndrome with the use of 5-HT3 antagonists 
 
 ## QT Prolongation
 
-An ECG study was conducted in adult male and female healthy volunteers with oral netupitant either 200 or 600 mg administered in combination with oral palonosetron 0.5 or 1.5 mg, respectively. The study demonstrated no clinically important effects on ECG parameters: the largest point estimate of the placebo and baseline corrected QTc interval was 7.0 ms (onesided upper 95% confidence limit 8.8 ms), observed 16 hours after the administration of supratherapeutic doses (600 mg netupitant and 1.5 mg palonosetr on). Upper 95% confidence limit of the point estimates of placebo
+An ECG study was conducted in adult male and female healthy volunteers with oral netupitant either 200 or 600 mg administered in combination with oral palonosetron 0.5 or 1.5 mg, respectively. The study demonstrated no clinically important effects on ECG parameters: the largest point estimate of the placebo and baseline corrected QTc interval was 7.0 ms (onesided upper 95% confidence limit 8.8 ms), observed 16 hours after the administration of supratherapeutic doses (600 mg netupitant and 1.5 mg palonosetr on). Upper 95% confidence limit of the point estimates of placebo and baseline corrected QTcI was constantly within 10 ms at all time points over 2 days after study substance administration.
 
 <div style=\"page-break-after: always\"></div>
-
-and baseline corrected QTcI was constantly within 10 ms at all time points over 2 days after study substance administration.
 
 However, since netupitant/palonosetron capsules contains a 5-HT3 receptor antagonist, caution should be exercised in concomitant use with medicinal products that increase the QT interval or in patients who have or are likely to develop prolongation of the QT interval. These conditions include patients with a personal or family history of QT prolongation, electrolyte abnormalities, congestive heart failure, bradyarrhythmia, conduction disturbances and in patients taking anti-arrhythmic medicinal products or other medicinal products that lead to QT prolongation or electrolyte abnormalities. Hypokalaemia and hypomagnesaemia should be corrected prior to administration.
 
@@ -135,11 +133,9 @@ It may also contain a trace of lecithin derived from soya. Therefore, patients w
 
 When netupitant/palonosetron capsules are used concomitantly with another CYP3A4 inhibitor, netupitant plasma concentrations could be elevated. When this medicinal product is used concomitantly with medicinal products that induce CYP3A4 activity, netupitant plasma concentrations could be reduced and this may result in decreased efficacy. This medicinal product can increase plasma concentrations of concomitantly administered medicinal products that are metabolised via CYP3A4.
 
-In humans, netupitant is eliminated mainly by hepatic metabolism mediated by CYP3A4 with a marginal renal excretion. At a dose of 300 mg in humans, netupitant is a substrate and moderate inhibitor of CYP3A4. Palonosetron is eliminated from the body through both renal excretion and metabolic pathways, with the latter mediated via multiple CYP enzymes. Palonosetron is mainly
+In humans, netupitant is eliminated mainly by hepatic metabolism mediated by CYP3A4 with a marginal renal excretion. At a dose of 300 mg in humans, netupitant is a substrate and moderate inhibitor of CYP3A4. Palonosetron is eliminated from the body through both renal excretion and metabolic pathways, with the latter mediated via multiple CYP enzymes. Palonosetron is mainly metabolised by CYP2D6, with minor contribution by CYP3A4 and CYP1A2 isoenzymes. Based on in vitro studies, palonosetron does not inhibit or induce cytochrome P450 isoenzyme at clinically relevant concentrations.
 
 <div style=\"page-break-after: always\"></div>
-
-metabolised by CYP2D6, with minor contribution by CYP3A4 and CYP1A2 isoenzymes. Based on in vitro studies, palonosetron does not inhibit or induce cytochrome P450 isoenzyme at clinically relevant concentrations.
 
 ## Interaction between oral netupitant and oral palonosetron:
 
@@ -171,11 +167,9 @@ There have been reports of serotonin syndrome following concomitant use of 5-HT3
 
 ## Effect of other medicinal products on the pharmacokinetics of Akynzeo
 
-Netupitant is mainly metabolised by CYP3A4; therefore, co-administration with medicinal products that inhibit or induce CYP3A4 activity may influence plasma concentrations of netupitant. Consequently, concomitant administration with strong CYP3A4 inhibitors (e.g., ketoconazole) should be approached with caution and concomitant administration with strong CYP3A4 inducers (e.g., rifampicin) should be avoided. Moreover, this medicinal product should be used with caution in patients receiving concomitant orally administered active substances with a narrow therapeutic range that are primarily metabolised by CYP3A4, such as cyclosporine, tacrolimus, sirolimus, everolimus,
+Netupitant is mainly metabolised by CYP3A4; therefore, co-administration with medicinal products that inhibit or induce CYP3A4 activity may influence plasma concentrations of netupitant. Consequently, concomitant administration with strong CYP3A4 inhibitors (e.g., ketoconazole) should be approached with caution and concomitant administration with strong CYP3A4 inducers (e.g., rifampicin) should be avoided. Moreover, this medicinal product should be used with caution in patients receiving concomitant orally administered active substances with a narrow therapeutic range that are primarily metabolised by CYP3A4, such as cyclosporine, tacrolimus, sirolimus, everolimus, alfentanil, diergotamine, ergotamine, fentanyl, and quinidine.
 
 <div style=\"page-break-after: always\"></div>
-
-alfentanil, diergotamine, ergotamine, fentanyl, and quinidine.
 
 ## Effect of ketoconazole and rifampicin
 
@@ -185,7 +179,9 @@ Administration of the CYP3A4 inducer rifampicin with Akynzeo alone decreased the
 
 ## Additional interactions
 
-Netupitant/palonosetron capsules are unlikely to interact with medicinal products which are P-gp substrates. Netupitant is not a substrate for P-gp. When netupitant was administered on Day 8 of a 12-day regimen of digoxin, no changes in digoxin pharmacokinetics were observed. Inhibition of the efflux transported BCRP and glucuronidation isozyme UGT2B7 by netupitant and its metabolites is unlikely and, if it occurs, of scarce clinical relevance.
+Netupitant/palonosetron capsules are unlikely to interact with medicinal products which are P-gp substrates. Netupitant is not a substrate for P-gp. When netupitant was administered on Day 8 of a
+
+12-day regimen of digoxin, no changes in digoxin pharmacokinetics were observed. Inhibition of the efflux transported BCRP and glucuronidation isozyme UGT2B7 by netupitant and its metabolites is unlikely and, if it occurs, of scarce clinical relevance.
 
 In vitro data shows that netupitant inhibits UGT2B7, the magnitude of such an effect in the clinical setting is not established. Caution is recommended when netupitant is combined with an oral substrate of this enzyme (e.g.zidovudine, valproic acid, morphine).
 
@@ -259,7 +255,7 @@ Table1: Adverse reactions
 | Nervous system disorders                             | Headache     | Dizziness                            | Hypoaesthesia                          |
 | Nervous system disorders                             |              |                                      | Somnolence                             |
 | Eye disorders                                        |              |                                      | Conjunctivitis                         |
-| Eye disorders                                        |              |                                      | Vision blurred                         |
+|                                                      |              |                                      | Vision blurred                         |
 | Ear and labyrinth disorders                          |              | Vertigo                              | Tinnitus                               |
 | Cardiac disorders                                    |              | Atrioventricular block first degree  | Arrhythmia                             |
 |                                                      |              | Cardiomyopathy                       | Atrioventricular block second degree   |
@@ -279,7 +275,7 @@ Table1: Adverse reactions
 | Gastrointestinal disorders                           |              | Nausea                               | Vomiting                               |
 | Skin and subcutaneous tissue disorders               |              | Alopecia                             | Erythema                               |
 | Skin and subcutaneous tissue disorders               |              | Urticaria                            | Pruritus                               |
-| Skin and subcutaneous tissue disorders               |              |                                      | Rash                                   |
+|                                                      |              |                                      | Rash                                   |
 | Musculoskeletal and connective tissue                |              |                                      | Back pain                              |
 | disorders                                            |              |                                      | Pain in extremities                    |
 | General disorders and administration site conditions | Fatigue      | Asthenia                             | Feeling hot                            |
@@ -328,11 +324,9 @@ Reporting suspected adverse reactions after authorisation of the medicinal produ
 
 ## 4.9 Overdose
 
-Based on the experience with healthy subjects exposed to oral netupitant 600 mg in combination with palonosetron 1.50 mg the potential acute symptoms of overdose are headache, dizziness, constipation, anxiety, palpitations, euphoric mood and pain in the legs. In case of overdose, the medicinal product should be discontinued and general supportive treatment and monitoring should be provided. Because of the antiemetic activity of netupitant and palonosetron, emesis induced by a
+Based on the experience with healthy subjects exposed to oral netupitant 600 mg in combination with palonosetron 1.50 mg the potential acute symptoms of overdose are headache, dizziness, constipation, anxiety, palpitations, euphoric mood and pain in the legs. In case of overdose, the medicinal product should be discontinued and general supportive treatment and monitoring should be provided. Because of the antiemetic activity of netupitant and palonosetron, emesis induced by a medicinal product may not be effective. Dialysis studies have not been performed. However, due to the large volume of distribution of palonosetron and netupitant, dialysis is unlikely to be an effective treatment for overdose.
 
 <div style=\"page-break-after: always\"></div>
-
-medicinal product may not be effective. Dialysis studies have not been performed. However, due to the large volume of distribution of palonosetron and netupitant, dialysis is unlikely to be an effective treatment for overdose.
 
 ## 5. PHARMACOLOGICAL PROPERTIES
 
@@ -387,17 +381,15 @@ Table 3: Proportion of patients receiving cisplatin chemotherapy responding by t
 | Delayed phase             |              91.9 |                          80.1 |     0.006 |
 | Overall phase             |              91.1 |                          76.5 |     0.001 |
 | No significant nausea     |                   |                               |           |
-| Acute phase               |              98.5 |                          93.4 |     0.05  |
+| Acute phase               |              98.5 |                          93.4 |     0.050 |
 | Delayed phase             |              90.4 |                          80.9 |     0.004 |
 | Overall phase             |              89.6 |                          79.4 |     0.021 |
 
-†
+‡ Acute phase: 0 to 24 hours post-cisplatin treatment.
 
-Delayed phase: 25 to 120 hours post-cisplatin treatment.
+† Delayed phase: 25 to 120 hours post-cisplatin treatment.
 
-§
-
-Overall: 0 to 120 hours post-cisplatin treatment.
+§ Overall: 0 to 120 hours post-cisplatin treatment.
 
 ## Moderately Emetogenic Chemotherapy (MEC) study
 
@@ -430,7 +422,7 @@ Table 5: Proportion of patients receiving anthracycline and cyclophosphamide che
 | Complete response Delayed phase † |              76.9 |                          69.5 | 0.001      |
 | Major secondary endpoints         |                   |                               |            |
 | Complete response                 |                   |                               |            |
-| Acute phase ‡                     |              88.4 |                          85   | 0.047      |
+| Acute phase ‡                     |              88.4 |                          85.0 | 0.047      |
 | Overall phase §                   |              74.3 |                          66.6 | 0.001      |
 | No emesis                         |                   |                               |            |
 | Acute phase                       |              90.9 |                          87.3 | 0.025      |
@@ -497,11 +489,9 @@ Palonosetron has a volume of distribution of approximately 8.3 ± 2.5 L/kg. Appr
 
 ## Netupitant
 
-Three metabolites have been detected in human plasma at netupitant oral doses of 30 mg and higher (the desmethyl derivative, M1; the N-oxide derivative, M2; the OH-methyl derivative, M3). In vitro
+Three metabolites have been detected in human plasma at netupitant oral doses of 30 mg and higher (the desmethyl derivative, M1; the N-oxide derivative, M2; the OH-methyl derivative, M3). In vitro metabolism studies have suggested that CYP3A4 and, to a lesser extent, CYP2D6 and CYP2C9 are involved in the metabolism of netupitant. After administration of a single oral dose of 300 mg netupitant, mean plasma netupitant/plasma radioactivity ratios range d from 0.13 to 0.49 over 96 h post-dose. The ratios were time dependent with values decreasing gradually beyond 24 h post-dose, indicating that netupitant is being rapidly metabolised. Mean Cmax was approximately 11%, 47% and 16% of the parent for M1, M2 and M3 respectively; M2 had the lowest AUC relative to the parent (14%) whereas M1 and M3 AUC were approximately 29% and 33% of the parent, respectively. M1, M2 and M3 metabolites were all shown to be pharmacologically active in an animal pharmacodynamic model, where M3 was most potent and M2 least active.
 
 <div style=\"page-break-after: always\"></div>
-
-metabolism studies have suggested that CYP3A4 and, to a lesser extent, CYP2D6 and CYP2C9 are involved in the metabolism of netupitant. After administration of a single oral dose of 300 mg netupitant, mean plasma netupitant/plasma radioactivity ratios range d from 0.13 to 0.49 over 96 h post-dose. The ratios were time dependent with values decreasing gradually beyond 24 h post-dose, indicating that netupitant is being rapidly metabolised. Mean Cmax was approximately 11%, 47% and 16% of the parent for M1, M2 and M3 respectively; M2 had the lowest AUC relative to the parent (14%) whereas M1 and M3 AUC were approximately 29% and 33% of the parent, respectively. M1, M2 and M3 metabolites were all shown to be pharmacologically active in an animal pharmacodynamic model, where M3 was most potent and M2 least active.
 
 ## Palonosetron
 
@@ -527,11 +517,9 @@ Maximum concentrations and total exposure of netupitant were increased in subjec
 
 ## Palonosetron
 
-Hepatic impairment does not significantly affect total body clearance of palonosetron compared to the healthy subjects. While the terminal elimination half-life and mean systemic exposure of
+Hepatic impairment does not significantly affect total body clearance of palonosetron compared to the healthy subjects. While the terminal elimination half-life and mean systemic exposure of palonosetron is increased in the subjects with severe hepatic impairment, this does not warrant dose reduction.
 
 <div style=\"page-break-after: always\"></div>
-
-palonosetron is increased in the subjects with severe hepatic impairment, this does not warrant dose reduction.
 
 ## Renal impairment
 
@@ -557,11 +545,9 @@ Effects in non-clinical studies were observed only at exposures considered suffi
 
 Effects in non-clinical studies based on safety pharmacology and single and repeated dose toxicity were observed only at exposures considered in excess of the maximum human exposure, indicating little relevance to clinical use. Phospholipidosis (foamy macrophages) has been observed with the administration of netupitant after repeated administration in rats and dogs. The effects were reversible or partially reversible after the recovery period. The significance of these findings in humans is unknown.
 
-Non-clinical studies indicate that netupitant and its metabolites and the combination with palonosetron only at very high concentrations may block ion channels involved in ventricular de- and re-polarisation and prolong action potential duration. Reproductive studies in animals with netupitant do not indicate direct or indirect harmful effects with respect to fertility, parturition or postnatal development. An increased incidence of positional foetal abnormalities of the limbs and paws, fused sternebrae and agenesis of accessory lung lobe were observed following daily administration of
+Non-clinical studies indicate that netupitant and its metabolites and the combination with palonosetron only at very high concentrations may block ion channels involved in ventricular de- and re-polarisation and prolong action potential duration. Reproductive studies in animals with netupitant do not indicate direct or indirect harmful effects with respect to fertility, parturition or postnatal development. An increased incidence of positional foetal abnormalities of the limbs and paws, fused sternebrae and agenesis of accessory lung lobe were observed following daily administration of netupitant in rabbits at 10 mg/kg/day and higher during the period of organogenesis. In a pilot dose range finding study in rabbits, cleft palate, microphtalmia and aphakia were observed in four foetuses from one litter in the 30 mg/kg/day group. The relevance of these findings in humans is unknown. No data from animal studies with netupitant are available regarding placental transfer and lactation. Netupitant is not mutagenic.
 
 <div style=\"page-break-after: always\"></div>
-
-netupitant in rabbits at 10 mg/kg/day and higher during the period of organogenesis. In a pilot dose range finding study in rabbits, cleft palate, microphtalmia and aphakia were observed in four foetuses from one litter in the 30 mg/kg/day group. The relevance of these findings in humans is unknown. No data from animal studies with netupitant are available regarding placental transfer and lactation. Netupitant is not mutagenic.
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
@@ -575,9 +561,7 @@ Microcrystalline cellulose (E460) Sucrose lauric acid esters Povidone K-30 Crosc
 
 Palonosetron soft capsules Soft capsule content Glycerol monocaprylocaprate (type I) Glycerol Polyglyceryl oleate Purified water Butylhydroxyanisole (E320)
 
-## Soft capsule shell
-
-Gelatin Glycerol Sorbitol (E420) 1,4 sorbitan Titanium dioxide (E171)
+Soft capsule shell Gelatin Glycerol Sorbitol (E420) 1,4 sorbitan Titanium dioxide (E171)
 
 ## Hard capsule shell
 
@@ -609,9 +593,13 @@ Pack size of one hard capsule or 4 x1 hard capsules in perforated unit dose blis
 
 Not all pack sizes may be marketed.
 
-## 6.6 Special precautions for disposal
+6.6
 
-Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
+Special precautions for disposal
+
+Any unused medicinal product or waste material should be disposed of in accordance with local
+
+requirements.
 
 7.
 
@@ -627,13 +615,17 @@ Dublin 15
 
 Ireland.
 
-## 8. MARKETING AUTHORISATION NUMBER(S)
+8.
+
+MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/15/1001/001
 
 EU/1/15/1001/002
 
-## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
+9.
+
+DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
 Date of first authorisation: 27 May 2015
 
@@ -647,7 +639,7 @@ DATE OF REVISION OF THE TEXT
 
 Detailed information on this medicinal product is available on the website of the European Medicines
 
-Agency http://www.ema.europa.eu.
+[Agency http://www.ema.europa.eu.](http://www.ema.europa.eu/)
 
 17
 
@@ -784,7 +776,9 @@ Co-administration of a single oral dose of 300 mg netupitant or a single intrave
 
 As such, the oral dexamethasone dose should be reduced by approximately 50% when co-administered with fosnetupitant and palonosetron hydrochloride combination (see section 4.2).
 
-Chemotherapeutic medicinal products (docetaxel, etoposide, cyclophosphamide) Exposure to docetaxel and etoposide was increased 37% and 21%, respectively, when co-administered with netupitant/palonosetron capsules. No consistent effect was seen with cyclophosphamide after netupitant co-administration.
+## Chemotherapeutic medicinal products (docetaxel, etoposide, cyclophosphamide)
+
+Exposure to docetaxel and etoposide was increased 37% and 21%, respectively, when co-administered with netupitant/palonosetron capsules. No consistent effect was seen with cyclophosphamide after netupitant co-administration.
 
 ## Oral contraceptives
 
@@ -800,11 +794,9 @@ There have been reports of serotonin syndrome following concomitant use of 5-HT3
 
 ## Effect of other medicinal products on the pharmacokinetics of Akynzeo
 
-Netupitant is mainly metabolised by CYP3A4; therefore, co-administration with medicinal products that inhibit or induce CYP3A4 activity may influence plasma concentrations of netupitant. Consequently, concomitant administration with strong CYP3A4 inhibitors (e.g., ketoconazole) should
+Netupitant is mainly metabolised by CYP3A4; therefore, co-administration with medicinal products that inhibit or induce CYP3A4 activity may influence plasma concentrations of netupitant. Consequently, concomitant administration with strong CYP3A4 inhibitors (e.g., ketoconazole) should be approached with caution and concomitant administration with strong CYP3A4 inducers (e.g., rifampicin) should be avoided. Moreover, this medicinal product should be used with caution in patients receiving concomitant orally administered active substances with a narrow therapeutic range that are primarily metabolised by CYP3A4, such as cyclosporine, tacrolimus, sirolimus, everolimus, alfentanil, diergotamine, ergotamine, fentanyl, and quinidine.
 
 <div style=\"page-break-after: always\"></div>
-
-be approached with caution and concomitant administration with strong CYP3A4 inducers (e.g., rifampicin) should be avoided. Moreover, this medicinal product should be used with caution in patients receiving concomitant orally administered active substances with a narrow therapeutic range that are primarily metabolised by CYP3A4, such as cyclosporine, tacrolimus, sirolimus, everolimus, alfentanil, diergotamine, ergotamine, fentanyl, and quinidine.
 
 ## Effect of ketoconazole and rifampicin
 
@@ -834,11 +826,9 @@ Furthermore, caution is advised in case of fosnetupitant/palonosetron concomitan
 
 ## Women of childbearing potential/contraception in females
 
-Women of childbearing potential should not be pregnant or become pregnant while on treatment with fosnetupitant/ palonosetron powder for concentrate for solution for infusion. A pregnancy test should be performed on all pre-menopausal women prior to treatment. Women of childbearing potential must
+Women of childbearing potential should not be pregnant or become pregnant while on treatment with fosnetupitant/ palonosetron powder for concentrate for solution for infusion. A pregnancy test should be performed on all pre-menopausal women prior to treatment. Women of childbearing potential must use effective contraception during therapy and up to one month after treatment with this medicinal product.
 
 <div style=\"page-break-after: always\"></div>
-
-use effective contraception during therapy and up to one month after treatment with this medicinal product.
 
 ## Pregnancy
 
@@ -998,10 +988,10 @@ Treatment regimens for the Akynzeo and the palonosetron 0.5 mg arms are displaye
 
 Table 2: Oral antiemetic treatment regimen -- HEC study
 
-| Treatment regimen   | Day 1                                                               | Days 2 to 4                   |
-|---------------------|---------------------------------------------------------------------|-------------------------------|
-| Akynzeo             | Akynzeo (Netupitant 300 mg Palonosetron 0.5 mg) Dexamethasone 12 mg | Dexamethasone 8 mg once a day |
-| Palonosetron        | Palonosetron 0.5 mg Dexamethasone 20 mg                             | Dexamethasone 8 mgtwice a day |
+| Treatment regimen   | Day 1                                                               | Days 2 to 4                    |
+|---------------------|---------------------------------------------------------------------|--------------------------------|
+| Akynzeo             | Akynzeo (Netupitant 300 mg Palonosetron 0.5 mg) Dexamethasone 12 mg | Dexamethasone 8 mg once a day  |
+| Palonosetron        | Palonosetron 0.5 mg Dexamethasone 20 mg                             | Dexamethasone 8 mg twice a day |
 
 The primary efficacy endpoint was complete response (CR) rate (defined as no emetic episodes, no rescue medication) within 120 hours (overall phase) after the start of the highly emetogenic chemotherapy administration.
 
@@ -1025,7 +1015,7 @@ Table 3: Proportion of patients receiving cisplatin chemotherapy responding by t
 | Delayed phase             |              91.9 |                          80.1 |     0.006 |
 | Overall phase             |              91.1 |                          76.5 |     0.001 |
 | No significant nausea     |                   |                               |           |
-| Acute phase               |              98.5 |                          93.4 |     0.05  |
+| Acute phase               |              98.5 |                          93.4 |     0.050 |
 | Delayed phase             |              90.4 |                          80.9 |     0.004 |
 | Overall phase             |              89.6 |                          79.4 |     0.021 |
 
@@ -1066,7 +1056,7 @@ Table 5: Proportion of patients receiving anthracycline and cyclophosphamide che
 | Complete response Delayed phase † |              76.9 |                          69.5 | 0.001      |
 | Major secondary endpoints         |                   |                               |            |
 | Complete response                 |                   |                               |            |
-| Acute phase ‡                     |              88.4 |                          85   | 0.047      |
+| Acute phase ‡                     |              88.4 |                          85.0 | 0.047      |
 | Overall phase §                   |              74.3 |                          66.6 | 0.001      |
 | No emesis                         |                   |                               |            |
 | Acute phase                       |              90.9 |                          87.3 | 0.025      |
@@ -1076,6 +1066,12 @@ Table 5: Proportion of patients receiving anthracycline and cyclophosphamide che
 | Acute phase                       |              87.3 |                          87.9 | N.S.       |
 | Delayed phase                     |              76.9 |                          71.3 | 0.014      |
 | Overall phase                     |              74.6 |                          69.1 | 0.020      |
+
+* p-value from Cochran-Mantel-Haenszel test, stratified by age class and region.
+
+‡ Acute phase: 0 to 24 hours after anthracycline and cyclophosphamide regimen
+
+† Delayed phase: 25 to 120 hours after anthracycline and cyclophosphamide regimen
 
 § Overall: 0 to 120 hours after anthracycline and cyclophosphamide regimen
 
@@ -1122,6 +1118,8 @@ Table 6: PK Parameters (mean and CV%) After Single Dose Administration Akynzeo P
 |               | HVs      | 0.96 (57)        | 36.1 (19)       | 43 (32)          |
 |               | Patients | 0.75 (54)        | 144 (50)        | 58 (47)          |
 
+1  median (min-max);  2  IV bolus in HVs
+
 Fosnetupitant Cmax and AUC were lower in patients than in healthy subjects, although the systemic exposures to netupitant were comparable.
 
 In healthy subjects, there was a dose-proportional increase in the systemic exposure of fosnetupitant with the dose increase of fosnetupitant from 17.6 to 353 mg
@@ -1130,11 +1128,9 @@ In healthy subjects, there was a dose-proportional increase in the systemic expo
 
 Following oral administration, palonosetron is well absorbed with its absolute bioavailability reaching 97%. After single oral doses using buffered solution mean maximum palonosetron concentrations (Cmax) and area under the concentration-time curve (AUC0-∞ ) were dose proportional over the dose range of 3.0 to 80 mcg/kg in healthy subjects.
 
-In 36 healthy male and female subjects given a single oral dose of 0.5 mg palonosetron, maximum plasma concentration (Cmax) was 0.81 ± 1.66 ng/mL (mean ± SD) and time to maximum concentration (Tmax) was 5.1 ± 1.7 hours. In female subjects (n=18), the mean AUC was 35% higher and the mean
+In 36 healthy male and female subjects given a single oral dose of 0.5 mg palonosetron, maximum plasma concentration (Cmax) was 0.81 ± 1.66 ng/mL (mean ± SD) and time to maximum concentration (Tmax) was 5.1 ± 1.7 hours. In female subjects (n=18), the mean AUC was 35% higher and the mean Cmax was 26% higher than in male subjects (n=18). In 12 cancer patients given a single oral dose of palonosetron 0.5 mg one hour prior to chemotherapy, Cmax was 0.93 ± 0.34 ng/mL and Tmax was 5.1 ± 5.9 hours.  The AUC was 30% higher in cancer patients than in healthy subjects. A high fat meal did not affect the Cmax and AUC of oral palonosetron.
 
 <div style=\"page-break-after: always\"></div>
-
-Cmax was 26% higher than in male subjects (n=18). In 12 cancer patients given a single oral dose of palonosetron 0.5 mg one hour prior to chemotherapy, Cmax was 0.93 ± 0.34 ng/mL and Tmax was 5.1 ± 5.9 hours.  The AUC was 30% higher in cancer patients than in healthy subjects. A high fat meal did not affect the Cmax and AUC of oral palonosetron.
 
 ## Distribution
 
@@ -1204,11 +1200,9 @@ No specific studies were performed to evaluate netupitant in patients with renal
 
 ## Palonosetron
 
-Mild to moderate renal impairment does not significantly affect palonosetron PK parameters. Total systemic exposure to intravenous palonosetron increased by approximately 28% in patients with
+Mild to moderate renal impairment does not significantly affect palonosetron PK parameters. Total systemic exposure to intravenous palonosetron increased by approximately 28% in patients with severe impairment relative to healthy subjects. In a population PK study, patients with a reduced creatinine clearance (CLCR) also had a reduced palonosetron clearance, but this reduction would not result in a significant change in palonosetron exposure.
 
 <div style=\"page-break-after: always\"></div>
-
-severe impairment relative to healthy subjects. In a population PK study, patients with a reduced creatinine clearance (CLCR) also had a reduced palonosetron clearance, but this reduction would not result in a significant change in palonosetron exposure.
 
 Therefore, Akynzeo can be administered without dose adjustment in patients with renal impairment.
 
@@ -1260,7 +1254,9 @@ The product should be diluted immediately after reconstitution. Chemical, physic
 
 ## 6.4 Special precautions for storage
 
-Store in a refrigerator (2 ° C - 8 ° C). Keep the vial in the outer carton in order to protect from light. For storage conditions after reconstitution of the medicinal product, see section 6.3.
+Store in a refrigerator (2 ° C - 8 ° C). Keep the vial in the outer carton in order to protect from light.
+
+For storage conditions after reconstitution of the medicinal product, see section 6.3.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1313,9 +1309,9 @@ Akynzeo 235 mg/0.25 mg concentrate for solution for infusion
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
-Each vial of 20 ml contains 235 mg of fosnetupitant (as chloride hydrochloride), which corresponds to 197.5 mg of netupitant, and 0.25 mg of palonosetron (as hydrochloride).
+Each vial of 20 ml contains 235 mg of fosnetupitant (as chloride hydrochloride), which corresponds to 197.5 mg of netupitant, and 0.25 mg of palonosetron (as hydrochloride). mg of
 
-Each ml of concentrate for solution contains 11.75 mg fosnetupitant, which corresponds to 9.87 mg of netupitant, and 0.0125 mg palonosetron
+Each ml of concentrate for solution contains 11.75 mg fosnetupitant, which corresponds to 9.87 netupitant, and 0.0125 mg palonosetron
 
 After dilution 1 ml of solution contains 4.7 mg fosnetupitant, which corresponds to 3.95 mg of netupitant, and 0.005 mg palonosetron.
 
@@ -1342,7 +1338,7 @@ Akynzeo is indicated in adults for the:
 
 ## 4.2 Posology and method of administration
 
-Posology
+## Posology
 
 The recommended dose is 235 mg/0.25 mg (the content of one vial of concentrate, diluted) administered as an infusion over 30 minutes, initiated approximately 30 minutes prior to the start of each chemotherapy cycle (see section 6.6).
 
@@ -1436,7 +1432,9 @@ Co-administration of a single oral dose of 300 mg netupitant or a single intrave
 
 As such, the oral dexamethasone dose should be reduced by approximately 50% when co-administered with fosnetupitant and palonosetron hydrochloride combination (see section 4.2).
 
-Chemotherapeutic medicinal products (docetaxel, etoposide, cyclophosphamide) Exposure to docetaxel and etoposide was increased 37% and 21%, respectively, when co-administered with netupitant/palonosetron capsules. No consistent effect was seen with cyclophosphamide after netupitant co-administration.
+## Chemotherapeutic medicinal products (docetaxel, etoposide, cyclophosphamide)
+
+Exposure to docetaxel and etoposide was increased 37% and 21%, respectively, when co-administered with netupitant/palonosetron capsules. No consistent effect was seen with cyclophosphamide after netupitant co-administration.
 
 ## Oral contraceptives
 
@@ -1452,11 +1450,9 @@ There have been reports of serotonin syndrome following concomitant use of 5-HT3
 
 ## Effect of other medicinal products on the pharmacokinetics of Akynzeo
 
-Netupitant is mainly metabolised by CYP3A4; therefore, co-administration with medicinal products that inhibit or induce CYP3A4 activity may influence plasma concentrations of netupitant. Consequently, concomitant administration with strong CYP3A4 inhibitors (e.g., ketoconazole) should
+Netupitant is mainly metabolised by CYP3A4; therefore, co-administration with medicinal products that inhibit or induce CYP3A4 activity may influence plasma concentrations of netupitant. Consequently, concomitant administration with strong CYP3A4 inhibitors (e.g., ketoconazole) should be approached with caution and concomitant administration with strong CYP3A4 inducers (e.g., rifampicin) should be avoided. Moreover, this medicinal product should be used with caution in patients receiving concomitant orally administered active substances with a narrow therapeutic range that are primarily metabolised by CYP3A4, such as cyclosporine, tacrolimus, sirolimus, everolimus, alfentanil, diergotamine, ergotamine, fentanyl, and quinidine.
 
 <div style=\"page-break-after: always\"></div>
-
-be approached with caution and concomitant administration with strong CYP3A4 inducers (e.g., rifampicin) should be avoided. Moreover, this medicinal product should be used with caution in patients receiving concomitant orally administered active substances with a narrow therapeutic range that are primarily metabolised by CYP3A4, such as cyclosporine, tacrolimus, sirolimus, everolimus, alfentanil, diergotamine, ergotamine, fentanyl, and quinidine.
 
 ## Effect of ketoconazole and rifampicin
 
@@ -1486,11 +1482,9 @@ Furthermore, caution is advised in case of fosnetupitant/palonosetron concomitan
 
 ## Women of childbearing potential/contraception in females
 
-Women of childbearing potential should not be pregnant or become pregnant while on treatment with fosnetupitant/ palonosetron concentrate for solution for infusion. A pregnancy test should be performed on all pre-menopausal women prior to treatment. Women of childbearing potential must
+Women of childbearing potential should not be pregnant or become pregnant while on treatment with fosnetupitant/ palonosetron concentrate for solution for infusion. A pregnancy test should be performed on all pre-menopausal women prior to treatment. Women of childbearing potential must use effective contraception during therapy and up to one month after treatment with this medicinal product.
 
 <div style=\"page-break-after: always\"></div>
-
-use effective contraception during therapy and up to one month after treatment with this medicinal product.
 
 ## Pregnancy
 
@@ -1650,10 +1644,10 @@ Treatment regimens for the Akynzeo and the palonosetron 0.5 mg arms are displaye
 
 Table 2: Oral antiemetic treatment regimen -- HEC study
 
-| Treatment regimen   | Day 1                                                               | Days 2 to 4                   |
-|---------------------|---------------------------------------------------------------------|-------------------------------|
-| Akynzeo             | Akynzeo (Netupitant 300 mg Palonosetron 0.5 mg) Dexamethasone 12 mg | Dexamethasone 8 mg once a day |
-| Palonosetron        | Palonosetron 0.5 mg Dexamethasone 20 mg                             | Dexamethasone 8 mgtwice a day |
+| Treatment regimen   | Day 1                                                               | Days 2 to 4                    |
+|---------------------|---------------------------------------------------------------------|--------------------------------|
+| Akynzeo             | Akynzeo (Netupitant 300 mg Palonosetron 0.5 mg) Dexamethasone 12 mg | Dexamethasone 8 mg once a day  |
+| Palonosetron        | Palonosetron 0.5 mg Dexamethasone 20 mg                             | Dexamethasone 8 mg twice a day |
 
 The primary efficacy endpoint was complete response (CR) rate (defined as no emetic episodes, no rescue medication) within 120 hours (overall phase) after the start of the highly emetogenic chemotherapy administration.
 
@@ -1677,7 +1671,7 @@ Table 3: Proportion of patients receiving cisplatin chemotherapy responding by t
 | Delayed phase             |              91.9 |                          80.1 |     0.006 |
 | Overall phase             |              91.1 |                          76.5 |     0.001 |
 | No significant nausea     |                   |                               |           |
-| Acute phase               |              98.5 |                          93.4 |     0.05  |
+| Acute phase               |              98.5 |                          93.4 |     0.050 |
 | Delayed phase             |              90.4 |                          80.9 |     0.004 |
 | Overall phase             |              89.6 |                          79.4 |     0.021 |
 
@@ -1718,7 +1712,7 @@ Table 5: Proportion of patients receiving anthracycline and cyclophosphamide che
 | Complete response Delayed phase † |              76.9 |                          69.5 | 0.001      |
 | Major secondary endpoints         |                   |                               |            |
 | Complete response                 |                   |                               |            |
-| Acute phase ‡                     |              88.4 |                          85   | 0.047      |
+| Acute phase ‡                     |              88.4 |                          85.0 | 0.047      |
 | Overall phase §                   |              74.3 |                          66.6 | 0.001      |
 | No emesis                         |                   |                               |            |
 | Acute phase                       |              90.9 |                          87.3 | 0.025      |
@@ -1741,7 +1735,7 @@ Patients continued into the Multiple-Cycle extension for up to 7 additional cycl
 
 The impact of nausea and vomiting on patients' daily lives was assessed using the Functional Living Index-Emesis (FLIE). The proportion of patients with Overall no impact on daily life was 6.3% higher (p value =0.005) in the Akynzeo group (78.5%) than in the palonosetron group (72.1%).
 
-Multiple-cycle safety study in patients receiving either Highly Emetogenic Chemotherapy or Moderately Emetogenic Chemotherapy
+## Multiple-cycle safety study in patients receiving either Highly Emetogenic Chemotherapy or Moderately Emetogenic Chemotherapy
 
 In a separate study, a total of 413 patients undergoing initial and repeat cycles of chemotherapy (including carboplatin, cisplatin, oxaliplatin, and doxorubicin regimens), were randomized to receive either Akynzeo (n=309) or aprepitant and palonosetron (n=104). Safety and efficacy were maintained throughout all cycles.
 
@@ -1780,6 +1774,8 @@ Table 6: PK Parameters (mean and CV%) After Single Dose Administration Akynzeo C
 |               | HVs      | 0.96 (57)        | 36.1 (19)       | 43 (32)          |
 |               | Patients | 0.75 (54)        | 144 (50)        | 58 (47)          |
 
+1  median (min-max);  2  IV bolus in HVs
+
 Fosnetupitant Cmax and AUC were lower in patients than in healthy subjects, although the systemic exposures to netupitant were comparable.
 
 In healthy subjects, there was a dose-proportional increase in the systemic exposure of fosnetupitant with the dose increase of fosnetupitant from 17.6 to 353 mg
@@ -1788,11 +1784,9 @@ In healthy subjects, there was a dose-proportional increase in the systemic expo
 
 Following oral administration, palonosetron is well absorbed with its absolute bioavailability reaching 97%. After single oral doses using buffered solution mean maximum palonosetron concentrations (Cmax) and area under the concentration-time curve (AUC0-∞ ) were dose proportional over the dose range of 3.0 to 80 mcg/kg in healthy subjects.
 
-In 36 healthy male and female subjects given a single oral dose of 0.5 mg palonosetron, maximum plasma concentration (Cmax) was 0.81 ± 1.66 ng/mL (mean ± SD) and time to maximum concentration (Tmax) was 5.1 ± 1.7 hours. In female subjects (n=18), the mean AUC was 35% higher and the mean
+In 36 healthy male and female subjects given a single oral dose of 0.5 mg palonosetron, maximum plasma concentration (Cmax) was 0.81 ± 1.66 ng/mL (mean ± SD) and time to maximum concentration (Tmax) was 5.1 ± 1.7 hours. In female subjects (n=18), the mean AUC was 35% higher and the mean Cmax was 26% higher than in male subjects (n=18). In 12 cancer patients given a single oral dose of palonosetron 0.5 mg one hour prior to chemotherapy, Cmax was 0.93 ± 0.34 ng/mL and Tmax was 5.1 ± 5.9 hours.  The AUC was 30% higher in cancer patients than in healthy subjects. A high fat meal did not affect the Cmax and AUC of oral palonosetron.
 
 <div style=\"page-break-after: always\"></div>
-
-Cmax was 26% higher than in male subjects (n=18). In 12 cancer patients given a single oral dose of palonosetron 0.5 mg one hour prior to chemotherapy, Cmax was 0.93 ± 0.34 ng/mL and Tmax was 5.1 ± 5.9 hours.  The AUC was 30% higher in cancer patients than in healthy subjects. A high fat meal did not affect the Cmax and AUC of oral palonosetron.
 
 ## Distribution
 
@@ -1860,11 +1854,9 @@ No specific studies were performed to evaluate netupitant in patients with renal
 
 ## Palonosetron
 
-Mild to moderate renal impairment does not significantly affect palonosetron PK parameters. Total systemic exposure to intravenous palonosetron increased by approximately 28% in patients with severe impairment relative to healthy subjects. In a population PK study, patients with a reduced
+Mild to moderate renal impairment does not significantly affect palonosetron PK parameters. Total systemic exposure to intravenous palonosetron increased by approximately 28% in patients with severe impairment relative to healthy subjects. In a population PK study, patients with a reduced creatinine clearance (CLCR) also had a reduced palonosetron clearance, but this reduction would not result in a significant change in palonosetron exposure.
 
 <div style=\"page-break-after: always\"></div>
-
-creatinine clearance (CLCR) also had a reduced palonosetron clearance, but this reduction would not result in a significant change in palonosetron exposure.
 
 Therefore, Akynzeo can be administered without dose adjustment in patients with renal impairment.
 
@@ -1884,11 +1876,9 @@ Non-clinical studies indicate that netupitant and its metabolites and the combin
 
 ## Fosnetupitant
 
-Daily intravenous administration of fosnetupitant in rats (at 3 times the human AUC for netupitant at the recommended single dose to be given with each cycle of chemotherapy) during the period of organogenesis produced delayed ossification of pubis.  No effects on embryo-fetal development were observed with daily administration of up to 13 mg/kg fosnetupitant in rats (2 times the human AUC for netupitant at the recommended single dose to be given with each cycle of chemotherapy). Due to the limited systemic exposure to fosnetupitant in pregnant rats, it is not possible to provide an AUCbased comparison of fosnetupitant exposure in rats and humans. An increase in resorptions was observed with daily intravenous administration of fosnetupitant at 6 mg/kg/day and higher in rabbits (9 times the human AUC for fosnetupitant and 0.4 times the human AUC for netupitant at the
+Daily intravenous administration of fosnetupitant in rats (at 3 times the human AUC for netupitant at the recommended single dose to be given with each cycle of chemotherapy) during the period of organogenesis produced delayed ossification of pubis.  No effects on embryo-fetal development were observed with daily administration of up to 13 mg/kg fosnetupitant in rats (2 times the human AUC for netupitant at the recommended single dose to be given with each cycle of chemotherapy). Due to the limited systemic exposure to fosnetupitant in pregnant rats, it is not possible to provide an AUCbased comparison of fosnetupitant exposure in rats and humans. An increase in resorptions was observed with daily intravenous administration of fosnetupitant at 6 mg/kg/day and higher in rabbits (9 times the human AUC for fosnetupitant and 0.4 times the human AUC for netupitant at the recommended single dose to be given with each cycle of chemotherapy) during the period of organogenesis. No effects were observed in rabbits at 3 mg/kg/day (5.4 times the human AUC for fosnetupitant and 0.4 times the human AUC for netupitant at the recommended single dose to be given with each cycle of chemotherapy).  Daily intravenous administration of 39 mg/kg fosnetupitant in rats (3 times the AUC for netupitant at the recommended single dose to be given with each cycle of chemotherapy) during organogenesis through lactation produced lower bodyweight in offspring at birth through maturation, and delayed physical development (pinna detachment, eye opening, and preputial separation). These effects were associated with maternal toxicity (reduced weight gain and food consumption). No effects occurred in offspring or dams at 13 mg/kg/day (2 times the human AUC for netupitant at the recommended single dose to be given with each cycle of chemotherapy).
 
 <div style=\"page-break-after: always\"></div>
-
-recommended single dose to be given with each cycle of chemotherapy) during the period of organogenesis. No effects were observed in rabbits at 3 mg/kg/day (5.4 times the human AUC for fosnetupitant and 0.4 times the human AUC for netupitant at the recommended single dose to be given with each cycle of chemotherapy).  Daily intravenous administration of 39 mg/kg fosnetupitant in rats (3 times the AUC for netupitant at the recommended single dose to be given with each cycle of chemotherapy) during organogenesis through lactation produced lower bodyweight in offspring at birth through maturation, and delayed physical development (pinna detachment, eye opening, and preputial separation). These effects were associated with maternal toxicity (reduced weight gain and food consumption). No effects occurred in offspring or dams at 13 mg/kg/day (2 times the human AUC for netupitant at the recommended single dose to be given with each cycle of chemotherapy).
 
 ## Fosnetupitant-palonosetron combination
 
@@ -1941,13 +1931,7 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Helsinn Birex Pharmaceuticals Ltd.
-
-Damastown
-
-Mulhuddart
-
-Dublin 15
+Helsinn Birex Pharmaceuticals Ltd. Damastown Mulhuddart Dublin 15
 
 Ireland
 
@@ -2052,11 +2036,9 @@ There have been reports of serotonin syndrome with the use of 5-HT3 antagonists 
 
 ## QT prolongation
 
-An ECG study was conducted in adult male and female healthy volunteers with oral netupitant either 200 or 600 mg administered in combination with oral palonosetron 0.5 or 1.5 mg, respectively. The study demonstrated no clinically important effects on ECG parameters: the largest point estimate of the placebo and baseline corrected QTc interval was 7.0 ms (onesided upper 95% confidence
+An ECG study was conducted in adult male and female healthy volunteers with oral netupitant either 200 or 600 mg administered in combination with oral palonosetron 0.5 or 1.5 mg, respectively. The study demonstrated no clinically important effects on ECG parameters: the largest point estimate of the placebo and baseline corrected QTc interval was 7.0 ms (onesided upper 95% confidence limit 8.8 ms), observed 16 hours after the administration of supratherapeutic doses (600 mg netupitant and 1.5 mg palonosetron). Upper 95% confidence limit of the point estimates of placebo and baseline corrected QTcI was constantly within 10 ms at all time points over 2 days after study substance administration.
 
 <div style=\"page-break-after: always\"></div>
-
-limit 8.8 ms), observed 16 hours after the administration of supratherapeutic doses (600 mg netupitant and 1.5 mg palonosetron). Upper 95% confidence limit of the point estimates of placebo and baseline corrected QTcI was constantly within 10 ms at all time points over 2 days after study substance administration.
 
 However, since netupitant/palonosetron sachets contain a 5-HT3 receptor antagonist, caution should be exercised in concomitant use with medicinal products that increase the QT interval or in patients who have or are likely to develop prolongation of the QT interval. These conditions include patients with a personal or family history of QT prolongation, electrolyte abnormalities, congestive heart failure, bradyarrhythmia, conduction disturbances and in patients taking anti-arrhythmic medicinal products or other medicinal products that lead to QT prolongation or electrolyte abnormalities. Hypokalaemia and hypomagnesaemia should be corrected prior to administration.
 
@@ -2104,7 +2086,9 @@ As such, the oral dexamethasone dose should be reduced by approximately 50% when
 
 ## Chemotherapeutic medicinal products (docetaxel, etoposide, cyclophosphamide)
 
-Exposure to docetaxel and etoposide was increased 37% and 21%, respectively, when co-administered with netupitant/palonosetron sachets. No consistent effect was seen with cyclophosphamide after netupitant co-administration.
+Exposure to docetaxel and etoposide was increased 37% and 21%, respectively, when co-administered with netupitant/palonosetron sachets. No consistent effect was seen with cyclophosphamide after
+
+netupitant co-administration.
 
 ## Oral contraceptives
 
@@ -2208,7 +2192,7 @@ Table1: Adverse reactions
 | Nervous system disorders                             | Headache     | Dizziness                            | Hypoaesthesia                          |
 | Nervous system disorders                             |              |                                      | Somnolence                             |
 | Eye disorders                                        |              |                                      | Conjunctivitis                         |
-| Eye disorders                                        |              |                                      | Vision blurred                         |
+|                                                      |              |                                      | Vision blurred                         |
 | Ear and labyrinth disorders                          |              | Vertigo                              | Tinnitus                               |
 | Cardiac disorders                                    |              | Atrioventricular block first degree  | Arrhythmia                             |
 |                                                      |              | Cardiomyopathy                       | Atrioventricular block second degree   |
@@ -2228,7 +2212,7 @@ Table1: Adverse reactions
 | Gastrointestinal disorders                           |              | Nausea                               | Vomiting                               |
 | Skin and subcutaneous tissue disorders               |              | Alopecia                             | Erythema                               |
 | Skin and subcutaneous tissue disorders               |              | Urticaria                            | Pruritus                               |
-| Skin and subcutaneous tissue disorders               |              |                                      | Rash                                   |
+|                                                      |              |                                      | Rash                                   |
 | Musculoskeletal and connective tissue                |              |                                      | Back pain                              |
 | disorders                                            |              |                                      | Pain in extremities                    |
 | General disorders and administration site conditions | Fatigue      | Asthenia                             | Feeling hot                            |
@@ -2330,7 +2314,7 @@ Table 3: Proportion of patients receiving cisplatin chemotherapy responding by t
 | Delayed phase             |              91.9 |                          80.1 |     0.006 |
 | Overall phase             |              91.1 |                          76.5 |     0.001 |
 | No significant nausea     |                   |                               |           |
-| Acute phase               |              98.5 |                          93.4 |     0.05  |
+| Acute phase               |              98.5 |                          93.4 |     0.050 |
 | Delayed phase             |              90.4 |                          80.9 |     0.004 |
 | Overall phase             |              89.6 |                          79.4 |     0.021 |
 
@@ -2338,9 +2322,7 @@ Table 3: Proportion of patients receiving cisplatin chemotherapy responding by t
 
 † Delayed phase: 25 to 120 hours post-cisplatin treatment.
 
-§
-
-Overall: 0 to 120 hours post-cisplatin treatment.
+§ Overall: 0 to 120 hours post-cisplatin treatment.
 
 ## Moderately emetogenic chemotherapy (MEC) study
 
@@ -2373,7 +2355,7 @@ Table 5: Proportion of patients receiving anthracycline and cyclophosphamide che
 | Complete response Delayed phase † |              76.9 |                          69.5 | 0.001      |
 | Major secondary endpoints         |                   |                               |            |
 | Complete response                 |                   |                               |            |
-| Acute phase ‡                     |              88.4 |                          85   | 0.047      |
+| Acute phase ‡                     |              88.4 |                          85.0 | 0.047      |
 | Overall phase §                   |              74.3 |                          66.6 | 0.001      |
 | No emesis                         |                   |                               |            |
 | Acute phase                       |              90.9 |                          87.3 | 0.025      |
@@ -2466,11 +2448,9 @@ Following administration of a single oral 0.75 mg dose of [14C]­palonosetron to
 
 ## Netupitant
 
-Maximum concentrations and total exposure of netupitant were increased in subjects with mild (n=8), moderate (n=8), and severe (n=2) hepatic impairment compared to matching healthy subjects,
+Maximum concentrations and total exposure of netupitant were increased in subjects with mild (n=8), moderate (n=8), and severe (n=2) hepatic impairment compared to matching healthy subjects, although there was pronounced individual variability in both hepatically-impaired and healthy subjects. Exposure to netupitant (Cmax, AUC0-t and AUC0-∞ ) compared to matching healthy subjects was 11%, 28% and 19% higher in mild and 70%, 88% and 143% higher in moderate hepatically -impaired subjects, respectively. As such, no dose adjustment is necessary for patients with mild to moderate hepatic impairment. Limited data exist in patients with severe hepatic impairment (Child Pugh score ≥9).
 
 <div style=\"page-break-after: always\"></div>
-
-although there was pronounced individual variability in both hepatically-impaired and healthy subjects. Exposure to netupitant (Cmax, AUC0-t and AUC0-∞ ) compared to matching healthy subjects was 11%, 28% and 19% higher in mild and 70%, 88% and 143% higher in moderate hepatically -impaired subjects, respectively. As such, no dose adjustment is necessary for patients with mild to moderate hepatic impairment. Limited data exist in patients with severe hepatic impairment (Child Pugh score ≥9).
 
 ## Palonosetron
 
@@ -2498,11 +2478,9 @@ Effects in non-clinical studies were observed only at exposures considered suffi
 
 ## Netupitant and combination with palonosetron
 
-Effects in non-clinical studies based on safety pharmacology and single and repeated dose toxicity were observed only at exposures considered in excess of the maximum human exposure, indicating little relevance to clinical use. Phospholipidosis (foamy macrophages) has been observed with the
+Effects in non-clinical studies based on safety pharmacology and single and repeated dose toxicity were observed only at exposures considered in excess of the maximum human exposure, indicating little relevance to clinical use. Phospholipidosis (foamy macrophages) has been observed with the administration of netupitant after repeated administration in rats and dogs. The effects were reversible or partially reversible after the recovery period. The significance of these findings in humans is unknown.
 
 <div style=\"page-break-after: always\"></div>
-
-administration of netupitant after repeated administration in rats and dogs. The effects were reversible or partially reversible after the recovery period. The significance of these findings in humans is unknown.
 
 Non-clinical studies indicate that netupitant and its metabolites and the combination with palonosetron only at very high concentrations may block ion channels involved in ventricular de- and re-polarisation and prolong action potential duration. Reproductive studies in animals with netupitant do not indicate direct or indirect harmful effects with respect to fertility, parturition or postnatal development. An increased incidence of positional foetal abnormalities of the limbs and paws, fused sternebrae and agenesis of accessory lung lobe were observed following daily administration of netupitant in rabbits at 10 mg/kg/day and higher during the period of organogenesis. In a pilot dose range finding study in rabbits, cleft palate, microphtalmia and aphakia were observed in four foetuses from one litter in the 30 mg/kg/day group. The relevance of these findings in humans is unknown. No data from animal studies with netupitant are available regarding placental transfer and lactation. Netupitant is not mutagenic.
 
@@ -2518,7 +2496,7 @@ Not applicable.
 
 ## 6.3 Shelf life
 
-2 years.
+30 months.
 
 ## 6.4 Special precautions for storage
 
@@ -2550,7 +2528,7 @@ EU/1/15/1001/005 EU/1/15/1001/006
 
 Date of first authorisation: 27 May 2015
 
-Date of latest renewal: 9 January 2020
+Date of latest renewal: 12 February 2026
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -2696,27 +2674,23 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
-|-----------------------------------------------------|
-| BLISTER                                             |
+## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+BLISTER
+
+## 1. NAME OF THE MEDICINAL PRODUCT
 
 Akynzeo 300 mg/0.5 mg hard capsules netupitant/palonosetron
 
-| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
-|------|-------------------------------------------|
+## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
 
 Helsinn
 
-| 3.   | EXPIRY DATE   |
-|------|---------------|
+## 3. EXPIRY DATE
 
 EXP
 
-| 4.   | BATCH NUMBER   |
-|------|----------------|
+## 4. BATCH NUMBER
 
 Lot
 
@@ -2807,7 +2781,7 @@ Justification for not including Braille accepted.
 
 <div style=\"page-break-after: always\"></div>
 
-## PC SN NN
+PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2825,7 +2799,9 @@ After reconstitution and dilution, 1 ml of solution contains 4.7 mg fosnetupitan
 
 ## 3. LIST OF EXCIPIENTS
 
-Also contains mannitol, disodium edetate, sodium hydroxide and hydrochloric acid. See package leaflet for further information.
+Also contains mannitol, disodium edetate, sodium hydroxide and hydrochloric acid.
+
+See package leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -2907,7 +2883,9 @@ After dilution, 1 ml of solution contains 4.7 mg fosnetupitant, which correspond
 
 ## 3. LIST OF EXCIPIENTS
 
-Also contains mannitol, disodium edetate, sodium hydroxide, hydrochloric acid and water. See package leaflet for further information.
+Also contains mannitol, disodium edetate, sodium hydroxide, hydrochloric acid and water.
+
+See package leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -2935,11 +2913,9 @@ Keep out of the sight and reach of children.
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-Store below 25°C. Keep the vial in the outer carton in order to protect from light.
+Store below 25°C. Keep the vial in the outer carton in order to protect from light. After dilution: 24 hours below 25°C.
 
-After dilution: 24 hours below 25°C.
-
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -2977,7 +2953,7 @@ Justification for not including Braille accepted.
 
 <div style=\"page-break-after: always\"></div>
 
-## PC SN NN
+PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2991,7 +2967,7 @@ Akynzeo 235 mg/0.25 mg concentrate for solution for infusion fosnetupitant/palon
 
 Each vial of 20 ml contains 235 mg of fosnetupitant (as chloride hydrochloride), which corresponds to 197.5 mg of netupitant, and 0.25 mg of palonosetron (as hydrochloride).
 
-Each ml of concentrate for solution contains 11.75 mg fosnetupitant , which corresponds to 9.87 mg of netupitant, and 0.0125 mg palonosetron
+Each ml of concentrate for solution contains 11.75 mg fosnetupitant, which corresponds to 9.87 mg of netupitant, and 0.0125 mg palonosetron
 
 After dilution, 1 ml of solution contains 4.7 mg fosnetupitant, which corresponds to 3.95 mg of netupitant, and 0.005 mg palonosetron.
 
@@ -3091,7 +3067,9 @@ Oral suspension
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-Read the package leaflet before use. Oral use.
+Read the package leaflet before use.
+
+Oral use.
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -3127,11 +3105,11 @@ EU/1/15/1001/005 1 sachet EU/1/15/1001/006 4 x 1 sachets
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
-## 16. INFORMATION IN BRAILLE
+16. INFORMATION IN BRAILLE
 
 akynzeo oral suspension
 
@@ -3149,7 +3127,9 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS SACHET
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
+
+SACHET
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -3183,7 +3163,9 @@ Lot
 
 ## Package Leaflet: Information for the patient
 
-## Akynzeo 300 mg/0.5 mg hard capsules netupitant/palonosetron
+## Akynzeo 300 mg/0.5 mg hard capsules
+
+netupitant/palonosetron
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
@@ -3250,7 +3232,6 @@ Tell your doctor, pharmacist or nurse if you are taking, have recently taken or 
 In particular tell your doctor, pharmacist or nurse if you are taking any of the following medicines:
 
 - medicines for depression or anxiety called SSRIs (selective serotonin re-uptake inhibitors) such as fluoxetine, paroxetine, sertraline, fluvoxamine, citalopram or escitalopram
-- ·
 - medicines for depression or anxiety called SNRIs (serotonin noradrenaline re-uptake inhibitors) - such as venlafaxine or duloxetine.
 
 Also tell your doctor, pharmacist or nurse if you are taking any of the following medicines as your doctor may need to change the dose of these other medicines:
@@ -3451,9 +3432,7 @@ Galenica A.E. Τηλ : +30 210 52 81 700
 
 ## España
 
-Immedica Pharma AB
-
-Tel: + 34(0)9 373 70 164
+Immedica Pharma AB Tel: + 34(0)9 373 70 164
 
 ## France
 
@@ -3473,9 +3452,7 @@ Swedish Orphan Biovitrum A/S Tlf: + 45 32 96 68 69
 
 ## Italia
 
-Italfarmaco
-
-Tel: + 39 02 64431
+Italfarmaco Tel: + 39 02 64431
 
 ## Κύπρος
 
@@ -3798,7 +3775,9 @@ Tél/Tel:
 
 Farma Mondo
 
-Tel: + 370 698 36600
+Tel: +
+
+370 698 36600
 
 ## България
 
@@ -3812,7 +3791,9 @@ Te
 
 Immedica Pharma AB
 
-Tél/Tel: + 46(0)8 533 39 500
+Tél/Tel:
+
++ 46(0)8 533 39 500
 
 ## Česká republika
 
@@ -3886,7 +3867,9 @@ Tel: 0800560044
 
 Immedica Pharma AB
 
-Tel: + 34(0)9 373 70 164
+Tel: +
+
+34(0)9 373 70 164
 
 ## Polska
 
@@ -3914,13 +3897,17 @@ Tel:  +385 1 670 0750
 
 ## România
 
-MagnaPharm Marketing &amp; Sales Romania SRL Tel: +40 372 502 221
+MagnaPharm Marketing &amp; Sales Romania SRL
+
+Tel: +40 372 502 221
 
 ## Ireland
 
 Chugai Pharma France
 
-Tel: +33 1 79 36 36 18
+Tel:
+
++33 1 79 36 36 18
 
 ## Slovenija
 
@@ -3938,7 +3925,9 @@ Tlf: + 45 32 96 68 69
 
 MagnaPharm SK s.r.o.
 
-Tel: +421 917 532 065
+Tel:
+
++421 917 532 065
 
 ## Italia
 
@@ -3974,6 +3963,8 @@ Tel: +
 
 370 698 36600
 
+<div style=\"page-break-after: always\"></div>
+
 ## This leaflet was last revised in
 
 ## Other sources of information
@@ -3985,8 +3976,6 @@ The following information is intended for medical or healthcare professionals on
 Instructions of how to reconstitute and dilute AKYNZEO 235 mg/0.25 mg
 
 ## Preparation of Akynzeo
-
-<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -4248,9 +4237,7 @@ For any information about this medicine, please contact the local representative
 
 Immedica Pharma AB
 
-Tél/Tel: +
-
-46(0)8 533 39 500
+Tél/Tel: + 46(0)8 533 39 500
 
 ## Lietuva
 
@@ -4332,17 +4319,23 @@ Tlf: +47 66 82 34 00
 
 Galenica A.E.
 
-Τηλ : +30 210 52 81 700
+Τηλ
+
+: +30 210 52 81 700
 
 ## Österreich
 
-Esteve Pharmaceuticals GmbH Tel: 0800560044
+Esteve Pharmaceuticals GmbH
+
+Tel: 0800560044
 
 ## España
 
 Immedica Pharma AB
 
-Tel: + 34(0)9 373 70 164
+Tel: +
+
+34(0)9 373 70 164
 
 ## Polska
 
@@ -4414,7 +4407,9 @@ Puh./Tel: +358 201 558 840
 
 Galenica A.E.
 
-Τηλ : +30 210 52 81 700
+Τηλ
+
+: +30 210 52 81 700
 
 ## Sverige
 
@@ -4636,7 +4631,7 @@ Tell your doctor, pharmacist or nurse if you notice any of the following side ef
 - low levels of 'neutrophils' - a kind of white blood cell which fight infections (shown in blood tests)
 - high level of white blood cells (shown in blood tests).
 
-## Rare: (may affect up to 1 in 1 000 people)
+Rare: (may affect up to 1 in 1 000 people)
 
 - back pain, joint pain
 - feeling hot, reddening of the face or other areas of the skin (feeling flushed)
@@ -4728,11 +4723,7 @@ Te
 
 ## Česká republika
 
-MagnaPharm CZ s.r.o.
-
-Tel:
-
-+420 234 076 049
+MagnaPharm CZ s.r.o. Tel: +420 234 076 049
 
 ## Danmark
 
@@ -4786,7 +4777,9 @@ Farma Mondo Tel: + 370 698 36600
 
 ## This leaflet was last revised in
 
-Tél/Tel: + 46(0)8 533 39 500
+Tél/Tel:
+
++ 46(0)8 533 39 500
 
 ## Magyarország
 
@@ -4822,7 +4815,9 @@ MagnaPharm Marketing &amp; Sales Romania SRL Tel: +40 372 502 221
 
 ## Slovenija
 
-PharmaSwiss Tel: +386 1 2364 700
+PharmaSwiss
+
+Tel: +386 1 2364 700
 
 ## Slovenská republika
 

@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-02-10 11:16:05
-document_pages: 53
+document_datetime: 2026-06-01 09:50:33
+document_pages: 55
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/carvykti-epar-product-information_en.pdf
 document_name: carvykti-epar-product-information_en.pdf
 version: success
-processing_time: 16.5557409
-conversion_datetime: 2026-02-13 18:17:03.664092
+processing_time: 26.8418676
+conversion_datetime: 2026-06-04 22:37:28.886593
 docling_version:
-  docling-serve: 1.12.0
-  docling-jobkit: 1.10.2
-  docling: 2.73.1
-  docling-core: 2.65.1
-  docling-ibm-models: 3.11.0
-  docling-parse: 4.7.3
+  docling-serve: 1.21.0
+  docling-jobkit: 1.20.1
+  docling: 2.97.0
+  docling-core: 2.78.0
+  docling-ibm-models: 3.13.2
+  docling-parse: 6.2.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -196,11 +196,9 @@ Clinical signs and symptoms of CRS may include, but are not limited to, fever (w
 
 The infusion of CARVYKTI should be delayed if the patient has unresolved serious adverse reactions from preceding lymphodepleting or bridging therapies (including cardiac toxicity and pulmonary toxicity), rapid disease progression and clinically significant active infection (see section 4.2). Appropriate prophylactic and therapeutic treatment for infections should be provided, and complete resolution of any active infections should be ensured prior to CARVYKTI infusion. Infections may also occur concurrently with CRS and may increase the risk of a fatal event.
 
-The availability of at least one dose of tocilizumab for use in the event of CRS should be ensured prior to infusion. The qualified treatment centre must have access to an additional dose of tocilizumab within 8 hours of each previous dose. In the exceptional case where tocilizumab is not available due to
+The availability of at least one dose of tocilizumab for use in the event of CRS should be ensured prior to infusion. The qualified treatment centre must have access to an additional dose of tocilizumab within 8 hours of each previous dose. In the exceptional case where tocilizumab is not available due to a shortage that is listed in the European Medicines Agency shortage catalogue, the treatment centre must have access to suitable alternative measures instead of tocilizumab to treat CRS. Patients should be monitored for signs and symptoms of CRS daily for 14 days after the CARVYKTI infusion at a qualified clinical facility, and then periodically for an additional two weeks after CARVYKTI infusion.
 
 <div style=\"page-break-after: always\"></div>
-
-a shortage that is listed in the European Medicines Agency shortage catalogue, the treatment centre must have access to suitable alternative measures instead of tocilizumab to treat CRS. Patients should be monitored for signs and symptoms of CRS daily for 14 days after the CARVYKTI infusion at a qualified clinical facility, and then periodically for an additional two weeks after CARVYKTI infusion.
 
 Patients should be counselled to seek immediate medical attention should signs or symptoms of CRS occur at any time. At the first sign of CRS, the patient should be immediately evaluated for hospitalisation and treatment with supportive care, tocilizumab, or tocilizumab and corticosteroids should be instituted as indicated in Table 1 below.
 
@@ -225,12 +223,12 @@ Table 1: CRS grading and management guidance
 
 <div style=\"page-break-after: always\"></div>
 
-| Hypoxia requiring oxygen via cannula e or blow-by, or, Grade 2 organ toxicity.                                                                                                                                                                                                                                                                                              | If no improvement within 24 hours or rapid progression, repeat tocilizumab and escalate dose of dexamethasone (20 mg IV every 6 to 12 hours). After 2 doses of tocilizumab, consider alternative anti-cytokine agents. d Do not exceed                                                                                                                                  | tocilizumab in 24 hours, or 4 doses in                                                                                                                                                                                                                                                                                                                        |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Grade 3 Symptoms require and respond to aggressive intervention. Temperature ≥38 °C c with:                                                                                                                                                                                                                                                                                 | Per Grade 2                                                                                                                                                                                                                                                                                                                                                             | Administer methylprednisolone 1 mg/kg IV twice daily or dexamethasone (e.g., 10 mg IV every 6 hours).                                                                                                                                                                                                                                                         |
-| Hypotension requiring one vasopressor with or without vasopressin, and/or, Hypoxia requiring oxygen via high-flow nasal cannula e , facemask, non-rebreather mask, or Venturi mask, or,                                                                                                                                                                                     | If no improvement within 24 hours or rapid progression, repeat tocilizumab and escalate dose of dexamethasone (20 mg IV every 6 to 12 hours). If no improvement within 24 hours or continued rapid progression, switch to methylprednisolone 2 mg/kg IV every 12 hours. After 2 doses of tocilizumab, consider alternative anti-cytokine agents. d Do not exceed total. | tocilizumab in 24 hours, or 4 doses in                                                                                                                                                                                                                                                                                                                        |
-| 4 transaminitis. Grade 4 Life-threatening symptoms. Requirements for ventilator support, continuous veno- venous haemodialysis (CVVHD). Temperature ≥38 °C c with: Hypotension requiring multiple vasopressors (excluding vasopressin), and/or, Hypoxia requiring positive pressure (e.g., CPAP, BiPAP, intubation, and mechanical ventilation), or, Grade 4 organ toxicity | Per Grade 2                                                                                                                                                                                                                                                                                                                                                             | Administer dexamethasone 20 mg IV every 6 hours.                                                                                                                                                                                                                                                                                                              |
-|                                                                                                                                                                                                                                                                                                                                                                             | After 2 doses of tocilizumab, consider alternative anti-cytokine agents d . Do not exceed 3 doses of tocilizumab in 24 hours, or 4 doses in total. If no improvement within 24 hours, consider methylprednisolone (1-2 g IV, repeat every 24 hours if needed; taper as clinically indicated) or other immunosuppressants (e.g., other anti-T cell therapies).           | After 2 doses of tocilizumab, consider alternative anti-cytokine agents d . Do not exceed 3 doses of tocilizumab in 24 hours, or 4 doses in total. If no improvement within 24 hours, consider methylprednisolone (1-2 g IV, repeat every 24 hours if needed; taper as clinically indicated) or other immunosuppressants (e.g., other anti-T cell therapies). |
+| Hypoxia requiring oxygen via cannula e or blow-by, or, Grade 2 organ toxicity.                                                                                                                                                                                                                                                                                              | If no improvement within 24 hours or rapid progression, repeat tocilizumab and escalate dose of dexamethasone (20 mg IV every 6 to 12 hours). After 2 doses of tocilizumab, consider alternative anti-cytokine agents. d Do not exceed                                                                                                                           | tocilizumab in 24 hours, or 4 doses in                                                                                                                                                                                                                                                                                                                        |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Grade 3 Symptoms require and respond to aggressive intervention. Temperature ≥38 °C c with:                                                                                                                                                                                                                                                                                 | Per Grade 2                                                                                                                                                                                                                                                                                                                                                      | Administer methylprednisolone 1 mg/kg IV twice daily or dexamethasone (e.g., 10 mg IV every 6 hours).                                                                                                                                                                                                                                                         |
+| Hypotension requiring one vasopressor with or without vasopressin, and/or, Hypoxia requiring oxygen via high-flow nasal cannula e , facemask, non-rebreather mask, or Venturi mask, or,                                                                                                                                                                                     | If no improvement within 24 hours or rapid progression, repeat tocilizumab and escalate dose of dexamethasone (20 mg IV every 6 to 12 hours). If no improvement within 24 hours or continued rapid progression, switch to methylprednisolone 2 mg/kg IV every 12 hours. After 2 doses of tocilizumab, consider alternative anti-cytokine agents. d Do not exceed | tocilizumab in 24 hours, or 4 doses in                                                                                                                                                                                                                                                                                                                        |
+| 4 transaminitis. Grade 4 Life-threatening symptoms. Requirements for ventilator support, continuous veno- venous haemodialysis (CVVHD). Temperature ≥38 °C c with: Hypotension requiring multiple vasopressors (excluding vasopressin), and/or, Hypoxia requiring positive pressure (e.g., CPAP, BiPAP, intubation, and mechanical ventilation), or, Grade 4 organ toxicity | Per Grade 2                                                                                                                                                                                                                                                                                                                                                      | Administer dexamethasone 20 mg IV every 6 hours.                                                                                                                                                                                                                                                                                                              |
+|                                                                                                                                                                                                                                                                                                                                                                             | After 2 doses of tocilizumab, consider alternative anti-cytokine agents d . Do not exceed 3 doses of tocilizumab in 24 hours, or 4 doses in total. If no improvement within 24 hours, consider methylprednisolone (1-2 g IV, repeat every 24 hours if needed; taper as clinically indicated) or other immunosuppressants (e.g., other anti-T cell therapies).    | After 2 doses of tocilizumab, consider alternative anti-cytokine agents d . Do not exceed 3 doses of tocilizumab in 24 hours, or 4 doses in total. If no improvement within 24 hours, consider methylprednisolone (1-2 g IV, repeat every 24 hours if needed; taper as clinically indicated) or other immunosuppressants (e.g., other anti-T cell therapies). |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -511,11 +509,12 @@ Table 4: Adverse reaction in patients with multiple myeloma treated with CARVYKT
 | Blood and lymphatic system disorders                                     | Very common | Leukopenia                               | 34              | 33              |
 | Blood and lymphatic system disorders                                     | Very common | Lymphopenia                              | 38              | 36              |
 | Blood and lymphatic system disorders                                     | Very common | Coagulopathy 5                           | 12              | 3               |
-|                                                                          | Common      | Febrile neutropenia                      | 8               | 8               |
-|                                                                          | Common      | Lymphocytosis                            | 3               | 1               |
+| Blood and lymphatic system disorders                                     | Common      | Febrile neutropenia                      | 8               | 8               |
+| Blood and lymphatic system disorders                                     | Common      | Lymphocytosis                            | 3               | 1               |
 | Immune system disorders                                                  | Very common | Hypogammaglobulinaemia *                 | 33              | 5               |
 | Immune system disorders                                                  | Very common | Cytokine release syndrome #              | 83              | 4               |
 | Immune system disorders                                                  | Common      | Haemophagocytic lymphohistiocytosis #    | 3               | 2               |
+| Immune system disorders                                                  | Common      | Infusion related reactions               | 5               | 0               |
 | Metabolism and nutrition disorders                                       | Very common | Hypocalcaemia                            | 16              | 3               |
 | Metabolism and nutrition disorders                                       | Very common | Hypophosphataemia                        | 17              | 4               |
 | Metabolism and nutrition disorders                                       | Very common | Decreased appetite                       | 16              | 1               |
@@ -525,54 +524,52 @@ Table 4: Adverse reaction in patients with multiple myeloma treated with CARVYKT
 | Metabolism and nutrition disorders                                       |             | Hypomagnesaemia                          | 12              | <1              |
 | Metabolism and nutrition disorders                                       |             | Hyperferritinemia 6                      | 10              | 2               |
 | Psychiatric disorders                                                    | Common      | Delirium 7                               | 3               | <1              |
-|                                                                          |             | Personality changes 8                    | 3               | 1               |
 
 <div style=\"page-break-after: always\"></div>
 
-| Nervous system disorders                             | Very common   | Encephalopathy 9#                                        | 14   | 3   |
-|------------------------------------------------------|---------------|----------------------------------------------------------|------|-----|
-| Nervous system disorders                             | Very common   | Immune effector cell-associated neurotoxicity syndrome # | 11   | 2   |
-| Nervous system disorders                             | Very common   | Motor dysfunction 10                                     | 13   | 2   |
-| Nervous system disorders                             | Very common   | Dizziness *                                              | 13   | 1   |
-| Nervous system disorders                             | Very common   | Headache                                                 | 25   | 0   |
-| Nervous system disorders                             | Very common   | Sleep disorder 11                                        | 10   | 1   |
-| Nervous system disorders                             | Common        | Aphasia 12                                               | 5    | <1  |
-| Nervous system disorders                             |               | Cranial nerve palsies 13                                 | 7    | 1   |
-| Nervous system disorders                             |               | Paresis 14                                               | 1    | <1  |
-| Nervous system disorders                             |               | Ataxia 15                                                | 4    | <1  |
-| Nervous system disorders                             |               | Tremor *                                                 | 5    | <1  |
-| Nervous system disorders                             |               | Neurotoxicity #                                          | 1    | 1   |
-| Nervous system disorders                             |               | Neuropathy peripheral 16                                 | 7    | 1   |
-|                                                      | Uncommon      | Guillain-Barre syndrome                                  | <1   | <1  |
-| Cardiac disorders                                    | Very common   | Tachycardia *                                            | 14   | 1   |
-|                                                      | Common        | Cardiac arrhythmias 17                                   | 4    | 2   |
-| Vascular disorders                                   | Very common   | Hypotension *                                            | 34   | 6   |
-| Vascular disorders                                   |               | Hypertension                                             | 11   | 4   |
-| Vascular disorders                                   |               | Haemorrhage 18#                                          | 11   | 2   |
-| Vascular disorders                                   | Common        | Thrombosis *                                             | 4    | 1   |
-| Vascular disorders                                   |               | Capillary leak syndrome                                  | 1    | 0   |
-| Respiratory, thoracic and mediastinal disorders      | Very common   | Hypoxia *                                                | 13   | 4   |
-| Respiratory, thoracic and mediastinal disorders      | Very common   | Dyspnoea 19#                                             | 14   | 3   |
-| Respiratory, thoracic and mediastinal disorders      |               | Cough *                                                  | 22   | 0   |
-| Gastrointestinal disorders                           | Very common   | Diarrhoea 20                                             | 32   | 3   |
-| Gastrointestinal disorders                           | Very common   | Nausea                                                   | 23   | <1  |
-| Gastrointestinal disorders                           | Very common   | Vomiting                                                 | 12   | 0   |
-| Gastrointestinal disorders                           |               | Constipation                                             | 15   | 0   |
-| Gastrointestinal disorders                           | Common        | Abdominal pain *                                         | 9    | 0   |
-| Gastrointestinal disorders                           |               | Immune-mediated enterocolitis                            |      |     |
-| Hepatobiliary disorders                              | Common        | Hyperbilirubinaemia                                      | 3    | 1   |
-| Skin and subcutaneous tissue disorders               | Common        | Rash *                                                   | 9    | 0   |
-| Musculoskeletal and connective tissue disorders      | Very common   | Musculoskeletal pain *                                   | 40   | 3   |
-| Renal and urinary disorders                          | Common        | Renal failure 21                                         | 7    | 4   |
-| General disorders and administration site conditions | Very common   | Pyrexia                                                  | 85   | 7   |
-|                                                      | Very common   | Fatigue *                                                | 35   | 4   |
-|                                                      |               | Chills                                                   | 15   | 0   |
-|                                                      |               | Oedema 22                                                | 16   | 1   |
-|                                                      |               | Pain *                                                   | 11   | 1   |
-| Investigations                                       | Very common   | Transaminase elevation *                                 | 26   | 11  |
-| Investigations                                       |               | Gamma-glutamyltransferase increased                      | 10   | 6   |
-| Investigations                                       | Common        | C-reactive protein increased                             | 7    | 1   |
-| Investigations                                       |               | Blood alkaline phosphatase increased                     | 8    | 3   |
+|                                                      |             | Personality changes 8                                    | 3   | 1   |
+|------------------------------------------------------|-------------|----------------------------------------------------------|-----|-----|
+| Nervous system disorders                             | Very common | Encephalopathy 9#                                        | 14  | 3   |
+| Nervous system disorders                             | Very common | Immune effector cell-associated neurotoxicity syndrome # | 11  | 2   |
+| Nervous system disorders                             | Very common | Motor dysfunction 10                                     | 13  | 2   |
+| Nervous system disorders                             | Very common | Dizziness *                                              | 13  | 1   |
+| Nervous system disorders                             | Very common | Headache                                                 | 25  | 0   |
+| Nervous system disorders                             | Very common | Sleep disorder 11                                        | 10  | 1   |
+| Nervous system disorders                             | Common      | Aphasia 12                                               | 5   | <1  |
+| Nervous system disorders                             |             | Cranial nerve palsies 13                                 | 7   | 1   |
+| Nervous system disorders                             |             | Paresis 14                                               | 1   | <1  |
+| Nervous system disorders                             |             | Ataxia 15                                                | 4   | <1  |
+| Nervous system disorders                             |             | Tremor *                                                 | 5   | <1  |
+| Nervous system disorders                             |             | Neurotoxicity #                                          | 1   | 1   |
+| Nervous system disorders                             |             | Neuropathy peripheral 16                                 | 7   | 1   |
+|                                                      | Uncommon    | Guillain-Barre syndrome                                  | <1  | <1  |
+| Cardiac disorders                                    | Very common | Tachycardia *                                            | 14  | 1   |
+|                                                      | Common      | Cardiac arrhythmias 17                                   | 4   | 2   |
+| Vascular disorders                                   | Very common | Hypotension *                                            | 34  | 6   |
+| Vascular disorders                                   | Very common | Hypertension                                             | 11  | 4   |
+| Vascular disorders                                   |             | Haemorrhage 18#                                          | 11  | 2   |
+|                                                      | Common      | Thrombosis *                                             | 4   | 1   |
+| Respiratory, thoracic and                            | Very common | Hypoxia *                                                | 13  | 4   |
+| mediastinal disorders                                | Very common | Dyspnoea 19#                                             | 14  | 3   |
+| mediastinal disorders                                | Very common | Cough *                                                  | 22  | 0   |
+| Gastrointestinal disorders                           | Very common | Diarrhoea 20                                             | 32  | 3   |
+| Gastrointestinal disorders                           | Very common | Nausea                                                   | 23  | <1  |
+| Gastrointestinal disorders                           | Very common | Vomiting                                                 | 12  | 0   |
+| Gastrointestinal disorders                           |             | Constipation                                             | 15  | 0   |
+| Gastrointestinal disorders                           | Common      | Abdominal pain *                                         | 9   | 0   |
+| Hepatobiliary disorders                              | Common      | Immune-mediated enterocolitis Hyperbilirubinaemia        | 3   | 1   |
+| Skin and subcutaneous tissue disorders               | Common      | Rash *                                                   | 9   | 0   |
+| Musculoskeletal and connective tissue disorders      | Very common | Musculoskeletal pain *                                   | 40  | 3   |
+| Renal and urinary disorders                          | Common      | Renal failure 21                                         | 7   | 4   |
+| General disorders and administration site conditions | Very common | Pyrexia                                                  | 85  | 7   |
+|                                                      |             | Fatigue *                                                | 35  | 4   |
+|                                                      |             | Chills                                                   | 15  | 0   |
+|                                                      |             | Oedema 22                                                | 16  | 1   |
+|                                                      |             | Pain *                                                   | 11  | 1   |
+| Investigations                                       | Very common | Transaminase elevation *                                 | 26  | 11  |
+| Investigations                                       |             | Gamma-glutamyltransferase increased                      | 10  | 6   |
+| Investigations                                       | Common      | C-reactive protein increased                             | 7   | 1 3 |
+| Investigations                                       |             | Blood alkaline phosphatase increased                     | 8   |     |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -676,11 +673,9 @@ In the pooled studies (N=396), hypogammaglobulinaemia occurred in 34% of patient
 
 ## Immunogenicity
 
-The immunogenicity of CARVYKTI has been evaluated using a validated assay for the detection of binding antibodies against CARVYKTI pre-dose, and at multiple timepoints post-infusion. In the pooled studies (n=363), 23% (83/363) of patients with appropriate samples were positive for
+The immunogenicity of CARVYKTI has been evaluated using a validated assay for the detection of binding antibodies against CARVYKTI pre-dose, and at multiple timepoints post-infusion. In the pooled studies (n=363), 23% (83/363) of patients with appropriate samples were positive for treatment-emergent anti-CAR antibodies. There was no clear evidence that the observed anti-CAR antibodies impact CARVYKTI kinetics of initial expansion and persistence, efficacy or safety.
 
 <div style=\"page-break-after: always\"></div>
-
-treatment-emergent anti-CAR antibodies. There was no clear evidence that the observed anti-CAR antibodies impact CARVYKTI kinetics of initial expansion and persistence, efficacy or safety.
 
 ## Reporting of suspected adverse reactions
 
@@ -927,11 +922,9 @@ Renal impairment studies of CARVYKTI were not conducted. CARVYKTI Cmax and AUC0-
 
 ## Hepatic impairment
 
-Hepatic impairment studies of CARVYKTI were not conducted. CARVYKTI Cmax and AUC0-28d were similar in patients with mild hepatic dysfunction [(total bilirubin ≤ upper limit of normal (ULN) and
+Hepatic impairment studies of CARVYKTI were not conducted. CARVYKTI Cmax and AUC0-28d were similar in patients with mild hepatic dysfunction [(total bilirubin ≤ upper limit of normal (ULN) and aspartate aminotransferase &gt; ULN) or (ULN &lt; total bilirubin ≤ 1.5 times ULN)] and patients with normal hepatic function.
 
 <div style=\"page-break-after: always\"></div>
-
-aspartate aminotransferase &gt; ULN) or (ULN &lt; total bilirubin ≤ 1.5 times ULN)] and patients with normal hepatic function.
 
 ## 5.3 Preclinical safety data
 
@@ -1408,14 +1401,12 @@ Order ID:
 
 ## 10. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Janssen-Cilag International NV Turnhoutseweg 30 B-2340 Beerse Belgium
+Janssen-Cilag International NV Turnhoutseweg 30 B-2340 Beerse Belgium EU/1/22/1648/001
 
 <div style=\"page-break-after: always\"></div>
 
 | 11.   | MARKETING AUTHORISATION NUMBER(S)   |
 |-------|-------------------------------------|
-
-EU/1/22/1648/001
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1686,6 +1677,7 @@ Other side effects are listed below. Tell your doctor or nurse if you get any of
 
 <div style=\"page-break-after: always\"></div>
 
+-  infusion related reaction: symptoms such as chest discomfort, feeling hot, chest pain not related to the heart, fever and flushing
 -  serious condition where fluid leaks out of the blood vessels into the body tissues called 'capillary leak syndrome'
 -  increased levels of enzymes in the blood called 'alkaline phosphatase'
 -  muscle tremor
@@ -1698,7 +1690,7 @@ Other side effects are listed below. Tell your doctor or nurse if you get any of
 -  increased level of a protein called 'C-reactive protein' in the blood that may indicate an infection or inflammation
 -  a new type of cancer beginning in blood cells and including bone marrow cells
 
-## Uncommon (may affect up to 1 in 100 people):
+Uncommon (may affect up to 1 in 100 people):
 
 -  tingling, numbness, and pain of hands and feet, difficulty walking, leg and/or arm weakness, and difficulty breathing
 -  A new type of cancer beginning in a type of white blood cells called T-cells (secondary malignancy of T-cell origin)
@@ -1715,9 +1707,7 @@ The following information is intended for doctors only.
 
 Do not use this medicine after the expiry date which is stated on the container label and infusion bag after 'EXP'.
 
-Store frozen in vapour phase of liquid nitrogen (≤ -120 °C) until thawed for use.
-
-Do not refreeze.
+Store frozen in vapour phase of liquid nitrogen (≤ -120 °C) until thawed for use. Do not refreeze.
 
 ## 6. Contents of the pack and other information
 
@@ -1771,10 +1761,6 @@ Janssen-Cilag A/S Tlf.: +45 4594 8282 jacdk@its.jnj.com
 
 Janssen-Cilag GmbH Tel: 0800 086 9247 / +49 2137 955 6955 medinfo-de@its.jnj.com
 
-## Eesti
-
-UAB \"JOHNSON &amp; JOHNSON\" Eesti filiaal
-
 ## Lietuva
 
 UAB \"JOHNSON &amp; JOHNSON\" Tel: +370 5 278 68 88 lt@its.jnj.com
@@ -1797,27 +1783,27 @@ Tel: +356 2397 6000
 
 Janssen-Cilag B.V. Tel: 0800 242 42 42 info\\_nl@its.jnj.com
 
-## Norge
+<div style=\"page-break-after: always\"></div>
 
-Janssen-Cilag AS
+## Eesti
+
+UAB \"JOHNSON &amp; JOHNSON\" Eesti filiaal
 
 Tel: +372 617 7410
 
 ee@its.jnj.com
 
-<div style=\"page-break-after: always\"></div>
-
 ## Ελλάδα
 
-Janssen-Cilag Φαρμακευτική Μονοπρόσωπη Α.Ε.Β.Ε. Tηλ: +30 210 80 90 000
+Janssen-Cilag Φαρμακευτική Μονοπρόσωπη
+
+Α.Ε.Β.Ε.
+
+Tηλ: +30 210 80 90 000
 
 ## España
 
-Janssen-Cilag, S.A.
-
-Tel: +34 91 722 81 00
-
-contacto@its.jnj.com
+Janssen-Cilag, S.A. Tel: +34 91 722 81 00 contacto@its.jnj.com
 
 ## France
 
@@ -1837,7 +1823,9 @@ Janssen-Cilag AB c/o Vistor ehf. Sími: +354 535 7000 janssen@vistor.is
 
 ## Italia
 
-Janssen-Cilag SpA Tel: 800.688.777 / +39 02 2510 1
+Janssen-Cilag SpA
+
+Tel: 800.688.777 / +39 02 2510 1
 
 janssenita@its.jnj.com
 
@@ -1855,7 +1843,9 @@ UAB \"JOHNSON &amp; JOHNSON\" filiāle Latvijā Tel: +371 678 93561 lv@its.jnj.c
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu
 
-------------------------------------------------------------------------------------------------------------------------
+## Norge
+
+Janssen-Cilag AS
 
 Tlf: +47 24 12 65 00
 
@@ -1869,25 +1859,31 @@ Tel: +43 1 610 300
 
 ## Polska
 
-Janssen-Cilag Polska Sp. z o.o. Tel.: +48 22 237 60 00
+Janssen-Cilag Polska Sp. z o.o.
+
+Tel.: +48 22 237 60 00
 
 ## Portugal
 
-Janssen-Cilag Farmacêutica, Lda. Tel: +351 214 368 600
+Janssen-Cilag Farmacêutica, Lda.
+
+Tel: +351 214 368 600
 
 ## România
 
-Johnson &amp; Johnson România SRL Tel: +40 21 207 1800
+Johnson &amp; Johnson România SRL
+
+Tel: +40 21 207 1800
 
 ## Slovenija
 
-Johnson &amp; Johnson d.o.o. Tel: +386 1 401 18 00
-
-JNJ-SI-safety@its.jnj.com
+Johnson &amp; Johnson d.o.o. Tel: +386 1 401 18 00 JNJ-SI-safety@its.jnj.com
 
 ## Slovenská republika
 
-Johnson &amp; Johnson, s.r.o. Tel: +421 232 408 400
+Johnson &amp; Johnson, s.r.o.
+
+Tel: +421 232 408 400
 
 ## Suomi/Finland
 
@@ -1898,6 +1894,8 @@ Janssen-Cilag Oy Puh/Tel: +358 207 531 300 jacfi@its.jnj.com
 Janssen-Cilag AB Tfn: +46 8 626 50 00 jacse@its.jnj.com
 
 <div style=\"page-break-after: always\"></div>
+
+------------------------------------------------------------------------------------------------------------------------
 
 The following information is intended for healthcare professionals only:
 
@@ -1931,12 +1929,12 @@ The timing of CARVYKTI thaw and infusion should be coordinated; the infusion tim
 -  CARVYKTI is for autologous single use only.
 -  Prior to infusion and during the recovery period, ensure tocilizumab and emergency equipment are available for use. In the exceptional case where tocilizumab is not available due to a shortage that  is  listed  in  the  European  Medicines  Agency  shortage  catalogue,  ensure  that  suitable alternative measures to treat CRS instead of tocilizumab are available on-site.
 -  Confirm the patient's identity with the patient identifiers on the CARVYKTI infusion bag and Lot Information Sheet. Do not infuse CARVYKTI if the information on the patient-specific label does not match the intended patient.
--  Once thawed, the entire contents of the CARVYKTI bag should be administered by intravenous infusion within 2.5 hours at room temperature (20°C to 25°C), using infusion sets fitted with an in-line filter. The infusion usually takes less than 60 min.
--  Do NOT use a leukodepleting filter.
--  Gently mix the contents of the bag during CARVYKTI infusion to disperse cell clumps.
 
 <div style=\"page-break-after: always\"></div>
 
+-  Once thawed, the entire contents of the CARVYKTI bag should be administered by intravenous infusion within 2.5 hours at room temperature (20°C to 25°C), using infusion sets fitted with an in-line filter. The infusion usually takes less than 60 min.
+-  Do NOT use a leukodepleting filter.
+-  Gently mix the contents of the bag during CARVYKTI infusion to disperse cell clumps.
 -  After the entire content of the product bag is infused, flush the administration line, inclusive of the  in-line  filter,  with  sodium  chloride 9 mg/mL (0.9%)  solution  for  injection to  ensure  all medicinal product is delivered.
 
 ## Precautions to be taken for the disposal of the medicinal product
@@ -1946,3 +1944,25 @@ Unused medicinal product and all material that has been in contact with CARVYKTI
 ## Measures to take in case of accidental exposure
 
 In case of accidental exposure local guidelines on handling of human-derived material should be followed. Work surfaces and materials which have potentially been in contact with CARVYKTI must be decontaminated with appropriate disinfectant.
+
+<div style=\"page-break-after: always\"></div>
+
+## ANNEX IV
+
+## SCIENTIFIC CONCLUSIONS AND GROUNDS FOR THE VARIATION TO THE TERMS OF THE MARKETING AUTHORISATION(S)
+
+<div style=\"page-break-after: always\"></div>
+
+## Scientific conclusions
+
+Taking into account the PRAC Assessment Report on the PSUR(s) for ciltacabtagene autoleucel, the scientific conclusions of PRAC are as follows:
+
+In view of available data on risk(s) from clinical trial(s) and spontaneous reports including in a close temporal relationship, the PRAC considers a causal relationship between ciltacabtagene autoleucel and infusion related reactions is at least a reasonable possibility. The PRAC concluded that the product information of products containing ciltacabtagene autoleucel should be amended accordingly.
+
+Having reviewed the PRAC recommendation, the CHMP agrees with the PRAC overall conclusions and grounds for recommendation.
+
+## Grounds for the variation to the terms of the marketing authorisation(s)
+
+On the basis of the scientific conclusions for ciltacabtagene autoleucel the CHMP is of the opinion that the benefit-risk balance of the medicinal product(s) containing ciltacabtagene autoleucel is unchanged subject to the proposed changes to the product information
+
+The CHMP recommends that the terms of the marketing authorisation(s) should be varied.

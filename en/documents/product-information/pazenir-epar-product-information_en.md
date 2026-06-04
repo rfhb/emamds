@@ -1,22 +1,24 @@
 ---
-document_datetime: 2025-06-19 14:12:38
+document_datetime: 2026-06-02 16:08:12
 document_pages: 49
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/pazenir-epar-product-information_en.pdf
 document_name: pazenir-epar-product-information_en.pdf
 version: success
-processing_time: 15.7570916
-conversion_datetime: 2025-12-29 21:08:10.126021
+processing_time: 25.0118193
+conversion_datetime: 2026-06-04 22:32:12.323472
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.21.0
+  docling-jobkit: 1.20.1
+  docling: 2.97.0
+  docling-core: 2.78.0
+  docling-ibm-models: 3.13.2
+  docling-parse: 6.2.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
 ---
-## ANNEX I SUMMARY OF PRODUCT CHARACTERISTICS
+## ANNEX I
+
+## SUMMARY OF PRODUCT CHARACTERISTICS
 
 <div style=\"page-break-after: always\"></div>
 
@@ -60,11 +62,9 @@ The recommended dose of Pazenir is 260 mg/m 2 administered intravenously over 30
 
 ## Dose adjustments during treatment of breast cancer
 
-Patients who experience severe neutropenia (neutrophil count &lt; 500 cells/mm 3 for a week or longer) or severe sensory neuropathy during Pazenir therapy should have the dose reduced to 220 mg/m 2 for subsequent courses. Following recurrence of severe neutropenia or severe sensory neuropathy,
+Patients who experience severe neutropenia (neutrophil count &lt; 500 cells/mm 3 for a week or longer) or severe sensory neuropathy during Pazenir therapy should have the dose reduced to 220 mg/m 2 for subsequent courses. Following recurrence of severe neutropenia or severe sensory neuropathy, additional dose reduction should be made to 180 mg/m 2 . Pazenir should not be administered until neutrophil counts recover to &gt;1500 cells/mm 3 . For Grade 3 sensory neuropathy, withhold treatment until resolution to Grade 1 or 2, followed by a dose reduction for all subsequent courses.
 
 <div style=\"page-break-after: always\"></div>
-
-additional dose reduction should be made to 180 mg/m 2 . Pazenir should not be administered until neutrophil counts recover to &gt;1500 cells/mm 3 . For Grade 3 sensory neuropathy, withhold treatment until resolution to Grade 1 or 2, followed by a dose reduction for all subsequent courses.
 
 ## Pancreatic adenocarcinoma
 
@@ -91,10 +91,10 @@ Day 15:  If Day 8 doses were withheld:
 | Day 8 ≥ 500 but <                                       | 1000                                                    | OR                                                      | ≥ 50,000 but < 75,000                                   | Reduce doses                                            | 1 dose level                                            |
 |                                                         | < 500                                                   | OR                                                      | < 50,000                                                | Withhold doses                                          | Withhold doses                                          |
 | Day 15: If Day 8 doses were given without modification: | Day 15: If Day 8 doses were given without modification: | Day 15: If Day 8 doses were given without modification: | Day 15: If Day 8 doses were given without modification: | Day 15: If Day 8 doses were given without modification: | Day 15: If Day 8 doses were given without modification: |
-| Day 15                                                  | ≥ 500 but < 1000                                        | OR                                                      | ≥ 50,000 but < 75,000                                   |                                                         | OR                                                      |
+| Day 15 ≥                                                | 500 but < 1000                                          | OR                                                      | ≥ 50,000 but < 75,000                                   |                                                         | OR                                                      |
 |                                                         | < 500                                                   | OR                                                      | < 50,000                                                | Withhold doses                                          | Withhold doses                                          |
 | Day 15: If Day 8 doses were reduced:                    | Day 15: If Day 8 doses were reduced:                    | Day 15: If Day 8 doses were reduced:                    | Day 15: If Day 8 doses were reduced:                    | Day 15: If Day 8 doses were reduced:                    | Day 15: If Day 8 doses were reduced:                    |
-| Day 15                                                  | ≥ 1000                                                  | AND                                                     | ≥ 75,000                                                | follow withWBC                                          | Growth Factors OR                                       |
+| Day 15 ≥                                                | 1000                                                    | AND                                                     | ≥ 75,000                                                | follow withWBC                                          | Growth Factors OR                                       |
 |                                                         | ≥ 500 but < 1000                                        | OR                                                      | ≥ 50,000 but < 75,000                                   |                                                         | OR                                                      |
 |                                                         | < 500                                                   | OR                                                      | < 50,000                                                | Withhold                                                | doses                                                   |
 
@@ -122,7 +122,7 @@ The recommended dose of Pazenir is 100 mg/m 2 administered as an intravenous inf
 
 ## Dose adjustments during treatment of non-small cell lung cancer
 
-Pazenir should not be administered on Day 1 of a cycle until absolute neutrophil count (ANC) is ≥1500 cells/mm 3 and platelet count is ≥100,000 cells/mm 3 . For each subsequent weekly dose of Paze nir, patients must have an ANC ≥500 cells/mm 3 and platelets &gt;50,000 cells/mm 3 or the dose is to be withheld until counts recover. When counts recover, resume dosing the following week according to the criteria in Table 4. Reduce subsequent dose only if criteria in Table 4 are met.
+Pazenir should not be administered on Day 1 of a cycle until absolute neutrophil count (ANC) is ≥1500 cells/mm 3 and platelet count is ≥100,000 cells/mm 3 . For each subsequent weekly dose of Pazenir, patients must have an ANC ≥500 cells/mm 3 and platelets &gt;50,000 cells/mm 3 or the dose is to be withheld until counts recover. When counts recover, resume dosing the following week according to the criteria in Table 4. Reduce subsequent dose only if criteria in Table 4 are met.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -136,7 +136,7 @@ Table 4: Dose reductions for haematologic toxicities in patients with non-small 
 | Nadir platelets <50,000/mm 3                                                                               | First        | 75                            | 4.5                                     |
 | Nadir platelets <50,000/mm 3                                                                               | Second       | Discontinue Treatment         | Discontinue Treatment                   |
 
-For Grade 2 or 3 cutaneous toxicity, Grade 3 diarrhoea, or Grade 3 mucositis, interrupt treatment until the toxicity improves to ≤ Grade 1, then restart treatment according to the guidelines in Table 5. For ≥ Grade 3 peripheral n europathy, withhold treatment until resolution to ≤ Grade 1. Treatment may be resumed at the next lower dose level in subsequent cycles according to the guidelines in Table 5. For any other Grade 3 or 4 non-haematologic toxicity, interrupt treatment until the toxicity improves to ≤ Grade 2, then restart treatment according to the guidelines in Table 5.
+For Grade 2 or 3 cutaneous toxicity, Grade 3 diarrhoea, or Grade 3 mucositis, interrupt treatment until the toxicity improves to ≤ Grade 1, then restart treatment according to the guidelines in Table 5. For ≥ Grade 3 pe ripheral neuropathy, withhold treatment until resolution to ≤ Grade 1. Treatment may be resumed at the next lower dose level in subsequent cycles according to the guidelines in Table 5. For any other Grade 3 or 4 non-haematologic toxicity, interrupt treatment until the toxicity improves to ≤ Grade 2, then restart treatment according to the guidelines in Table 5.
 
 Table 5: Dose reductions for non-haematologic toxicities in patients with non-small cell lung cancer
 
@@ -153,7 +153,7 @@ Table 5: Dose reductions for non-haematologic toxicities in patients with non-sm
 
 For patients with mild hepatic impairment (total bilirubin &gt; 1 to ≤ 1.5 x ULN and aspartate aminotransferase [AST] ≤ 10 x ULN), no dose adjustments are required, regardless of indication. Treat with same doses as patients with normal hepatic function.
 
-For metastatic breast cancer patients and non-small cell lung cancer patients with moderate to severe hepatic impairment (total bilirubin &gt; 1.5 to ≤ 5 x ULN and AST ≤ 10 x ULN), a 20% reduction in dose is recommended. The reduced dose may be escalated to the dose for patients with normal hepatic function if the patient is tolerating the treatment for at least two cycles (see sections 4.4 and 5.2).
+For metastatic breast cancer patients and non-small cell lung cancer patients with moderate to severe hepatic impairment (total bilirubin &gt; 1.5 to ≤ 5 x UL N and AST ≤ 10 x ULN), a 20% reduction in dose is recommended. The reduced dose may be escalated to the dose for patients with normal hepatic function if the patient is tolerating the treatment for at least two cycles (see sections 4.4 and 5.2).
 
 For patients with metastatic adenocarcinoma of the pancreas that have moderate to severe hepatic impairment, there are insufficient data to permit dosage recommendations (see sections 4.4 and 5.2).
 
@@ -163,19 +163,19 @@ For patients with total bilirubin &gt; 5 x ULN or AST &gt; 10 x ULN, there are i
 
 ## Renal impairment
 
-Adjustment of the starting Pazenir dose is not required for patients with mild to moderate renal impairment (estimated creatinine clearance ≥30 to &lt;90 ml/min). There are insufficient data available to recommend dose modifications of Pazenir in patients with severe renal impairment or end stage renal disease (estimated creatinine clearance &lt;30 ml/min) (see section 5.2).
+Adjustment of the starting Pazenir dose is not required for patients with mild to moderate renal impairment (estimated creatini ne clearance ≥30 to &lt;90 ml/min). There are insufficient data available to recommend dose modifications of Pazenir in patients with severe renal impairment or end stage renal disease (estimated creatinine clearance &lt;30 ml/min) (see section 5.2).
 
 ## Elderly
 
 No additional dosage reductions, other than those for all patients, are recommended for patients 65 years and older.
 
-Of the 229 patients in the randomized study who received human serum albumin-paclitaxel nanoparticles monotherapy for breast cancer, 13% were at least 65 years of age and &lt; 2% were 75 years and older. No toxicities occurred notably more frequently among patients at least 65 years of age who received human serum albumin-paclitaxel nanoparticles. However, a subsequent analysis in 981 patients receiving human serum albumin-paclitaxel nanoparticles monotherapy for metastatic breast cancer, of which 15% were ≥ 65 years old and 2% were ≥ 75 years old, showed a higher incidence of epistaxis, diarrhoea, dehydration, fatigue and peripheral oedema in patients ≥ 65 years.
+Of the 229 patients in the randomized study who received human serum albumin-paclitaxel nanoparticles monotherapy for breast cancer, 13% were at least 65 years of age and &lt; 2% were 75 years and older. No toxicities occurred notably more frequently among patients at least 65 years of age who received human serum albumin-paclitaxel nanoparticles. However, a subsequent analysis in 981 patients receiving human serum albumin-paclitaxel nanoparticles monotherapy for metastatic breast cancer, of which 15% were ≥ 65 years old and 2% were ≥ 75 years old, showed a higher incidence of epistaxis, diarrhoea, dehydration, fatigue and peripheral oedema in pat ients ≥ 65 years.
 
 Of the 421 patients with pancreatic adenocarcinoma in the randomized study who received human serum albumin-paclitaxel nanoparticles in combination with gemcitabine, 41% were 65 years and older and 10% were 75 years and older. In patients aged 75 years and older who received human serum albumin-paclitaxel nanoparticles and gemcitabine, there was a higher incidence of serious adverse reactions and adverse reactions that led to treatment discontinuation (see section 4.4). Patients with pancreatic adenocarcinoma aged 75 years and older should be carefully assessed before treatment is considered (see section 4.4).
 
 Of the 514 patients with non-small cell lung cancer in the randomized study who received human serum albumin-paclitaxel nanoparticles in combination with carboplatin, 31% were 65 years or older and 3.5% were 75 years or older. Myelosuppression events, peripheral neuropathy events, and arthralgia were more frequent in patients 65 years or older compared to patients younger than 65 years of age. There is limited experience of human serum albumin-paclitaxel nanoparticles/carboplatin use in patients 75 years or older.
 
-Pharmacokinetic/pharmacodynamic modelling using data from 125 patients with advanced solid tumours indicates that patients ≥ 65 years of age may be more susceptible to development of neutropenia within the first treatment cycle.
+Pharmacokinetic/pharmacodynamic modelling using data from 125 patients with advanced solid tumours indicates that patient s ≥ 65 years of age may be more susceptible to development of neutropenia within the first treatment cycle.
 
 ## Paediatric population
 
@@ -215,11 +215,9 @@ Sepsis was reported at a rate of 5% in patients with or without neutropenia who 
 
 ## Pneumonitis
 
-Pneumonitis occurred in 1% of patients when human serum albumin-paclitaxel nanoparticles was used as monotherapy and in 4% of patients when when human serum albumin-paclitaxel nanoparticles were used in combination with gemcitabine. Closely monitor all patients for signs and symptoms of pneumonitis. After ruling out infectious etiology and upon making a diagnosis of pneumonitis,
+Pneumonitis occurred in 1% of patients when human serum albumin-paclitaxel nanoparticles was used as monotherapy and in 4% of patients when when human serum albumin-paclitaxel nanoparticles were used in combination with gemcitabine. Closely monitor all patients for signs and symptoms of pneumonitis. After ruling out infectious etiology and upon making a diagnosis of pneumonitis, permanently discontinue treatment with Pazenir and gemcitabine and promptly initiate appropriate treatment and supportive measures (see section 4.2).
 
 <div style=\"page-break-after: always\"></div>
-
-permanently discontinue treatment with Pazenir and gemcitabine and promptly initiate appropriate treatment and supportive measures (see section 4.2).
 
 ## Hepatic impairment
 
@@ -429,11 +427,9 @@ Adverse reactions were assessed in 229 patients with metastatic breast cancer wh
 
 Adverse reactions were assessed in 421 patients with metastatic pancreatic cancer who were treated with human serum albumin-paclitaxel in combination with gemcitabine (125 mg/m 2 human serum albumin-paclitaxel nanoparticles in combination with gemcitabine at a dose of 1000 mg/m 2 given on Days 1, 8 and 15 of each 28-day cycle) and 402 gemcitabine monotherapy-treated patients receiving first-line systemic treatment for metastatic adenocarcinoma of the pancreas (human serum albuminpaclitaxel nanoparticles/gemcitabine).
 
-Adverse reactions were assessed in 514 patients with non-small cell lung cancer who were treated with human serum albumin-paclitaxel nanoparticles in combination with carboplatin (100 mg/m 2 human serum albumin-paclitaxel nanoparticles given on Days 1, 8 and 15 of each 21-day cycle in combination with carboplatin given on Day 1 of each cycle) in the phase III randomized, controlled
+Adverse reactions were assessed in 514 patients with non-small cell lung cancer who were treated with human serum albumin-paclitaxel nanoparticles in combination with carboplatin (100 mg/m 2 human serum albumin-paclitaxel nanoparticles given on Days 1, 8 and 15 of each 21-day cycle in combination with carboplatin given on Day 1 of each cycle) in the phase III randomized, controlled clinical trial (human serum albumin-paclitaxel nanoparticles/carboplatin). Patient-reported taxane toxicity was assessed using the 4 subscales of the Functional Assessment of Cancer Therapy (FACT)Taxane questionnaire. Using repeated measure analysis, 3 of the 4 subscales (peripheral neuropathy, pain hands/feet and hearing) favored human serum albumin-paclitaxel nanoparticles and carboplatin (p ≤ 0.002). For the other subscale (oedema), there was no difference in the treatment arms.
 
 <div style=\"page-break-after: always\"></div>
-
-clinical trial (human serum albumin-paclitaxel nanoparticles/carboplatin). Patient-reported taxane toxicity was assessed using the 4 subscales of the Functional Assessment of Cancer Therapy (FACT)Taxane questionnaire. Using repeated measure analysis, 3 of the 4 subscales (peripheral neuropathy, pain hands/feet and hearing) favored human serum albumin-paclitaxel nanoparticles and carboplatin (p ≤ 0.002). For the other subscale (oedema), there was no difference in the treatment arms.
 
 ## Infections and infestations
 
@@ -466,11 +462,9 @@ Anaemia and thrombocytopenia were more commonly reported in the human serum albu
 
 ## Nervous system disorders
 
-Human serum albumin-paclitaxel nanoparticles monotherapy-metastatic breast cancer
+Human serum albumin-paclitaxel nanoparticles monotherapy-metastatic breast cancer In general, the frequency and severity of neurotoxicity was dose-dependent in patients receiving human serum albumin-paclitaxel nanoparticles. Peripheral neuropathy (mostly Grade 1 or 2 sensory neuropathy) was observed in 68% of patients on human serum albumin-paclitaxel nanoparticles with 10% being Grade 3, and no cases of Grade 4.
 
 <div style=\"page-break-after: always\"></div>
-
-In general, the frequency and severity of neurotoxicity was dose-dependent in patients receiving human serum albumin-paclitaxel nanoparticles. Peripheral neuropathy (mostly Grade 1 or 2 sensory neuropathy) was observed in 68% of patients on human serum albumin-paclitaxel nanoparticles with 10% being Grade 3, and no cases of Grade 4.
 
 ## Human serum albumin-paclitaxel nanoparticles/gemcitabine
 
@@ -496,9 +490,7 @@ Human serum albumin-paclitaxel nanoparticles monotherapy-metastatic breast cance
 
 ## Skin and subcutaneous tissue disorders
 
-## Human serum albumin-paclitaxel nanoparticles monotherapy-metastatic breast cancer
-
-Alopecia was observed in &gt;80% of the patients treated with human serum albumin-paclitaxel nanoparticles. The majority of alopecia events occurred less than one month after initiation of human serum albumin-paclitaxel nanoparticles . Pronounced hair loss ≥ 50% is expected for the majority of patients who experience alopecia.
+Human serum albumin-paclitaxel nanoparticles monotherapy-metastatic breast cancer Alopecia was observed in &gt;80% of the patients treated with human serum albumin-paclitaxel nanoparticles. The majority of alopecia events occurred less than one month after initiation of human serum albumin-paclitaxel nanoparticles . Pronounced hair loss ≥ 50% is expected for the majority of patients who experience alopecia.
 
 ## Musculoskeletal and connective tissue disorders
 
@@ -662,11 +654,9 @@ There was a statistically significant improvement in PFS for patients treated wi
 
 ## Non-small cell lung cancer
 
-A multicenter, randomized, open-label study was conducted in 1052 chemotherapy-naive patients with Stage IIIb/IV non-small cell lung cancer. The study compared human serum albumin-paclitaxel nanoparticles in combination with carboplatin versus solvent-based paclitaxel in combination with carboplatin as first-line treatment in patients with advanced non-small cell lung cancer. Over 99% of patients had an ECOG (Eastern Cooperative Oncology Group) performance status of 0 or 1. Patients with preexisting neuropathy of Grade ≥ 2 or serious medical risk factors involving any of the major organ systems were excluded. Human serum albumin-paclitaxel nanoparticles were administered to patients (N=521) as an intravenous infusion over 30 minutes at a dose of 100 mg/m 2 on Days 1, 8 and 15 of each 21-day cycle without any steroid premedication and without granulocyte colony stimulating factor prophylaxis. Beginning immediately after the end of human serum albumin-paclitaxel nanoparticles administration, carboplatin at a dose of AUC = 6 mg·min/mL was administered intravenously on Day 1 only of each 21-day cycle. Solvent-based paclitaxel was administered to patients (N=531) at a dose of 200 mg/m 2 as an intravenous infusion over 3 hours with standard
+A multicenter, randomized, open-label study was conducted in 1052 chemotherapy-naive patients with Stage IIIb/IV non-small cell lung cancer. The study compared human serum albumin-paclitaxel nanoparticles in combination with carboplatin versus solvent-based paclitaxel in combination with carboplatin as first-line treatment in patients with advanced non-small cell lung cancer. Over 99% of patients had an ECOG (Eastern Cooperative Oncology Group) performance status of 0 or 1. Patients with preexisting neuropathy of Grade ≥ 2 or serious medical risk factors involving any of the major organ systems were excluded. Human serum albumin-paclitaxel nanoparticles were administered to patients (N=521) as an intravenous infusion over 30 minutes at a dose of 100 mg/m 2 on Days 1, 8 and 15 of each 21-day cycle without any steroid premedication and without granulocyte colony stimulating factor prophylaxis. Beginning immediately after the end of human serum albumin-paclitaxel nanoparticles administration, carboplatin at a dose of AUC = 6 mg·min/mL was administered intravenously on Day 1 only of each 21-day cycle. Solvent-based paclitaxel was administered to patients (N=531) at a dose of 200 mg/m 2 as an intravenous infusion over 3 hours with standard premedication, immediately followed by carboplatin administered intravenously at AUC = 6 mg·min/mL. Each medicinal product was administered on Day 1 of each 21-day cycle. In both study arms treatment was administered until disease progression or development of an unacceptable toxicity. Patients received a median of 6 cycles of treatment in both study arms.
 
 <div style=\"page-break-after: always\"></div>
-
-premedication, immediately followed by carboplatin administered intravenously at AUC = 6 mg·min/mL. Each medicinal product was administered on Day 1 of each 21-day cycle. In both study arms treatment was administered until disease progression or development of an unacceptable toxicity. Patients received a median of 6 cycles of treatment in both study arms.
 
 The primary efficacy endpoint was overall response rate defined as the percentage of patients who achieved an objective confirmed complete response or partial response based on an independent, central, blinded radiological review using RECIST (Version 1.0). Patients in the human serum albumin-paclitaxel nanoparticles/carboplatin arm had a significantly higher overall response rate compared with patients in the control arm: 33% versus 25%, p = 0.005 (Table 10). There was a significant difference in overall response rate in the human serum albumin-paclitaxel nanoparticles/carboplatin arm compared to the control arm in patients with non-small cell lung cancer of squamous histology (N=450, 41% vs. 24%, p&lt;0.001), however this difference did not translate into a difference in PFS or OS. There was no difference in ORR between the treatment arms in patients with non-squamous histology (N=602, 26% vs 25%, p=0.808).
 
@@ -723,11 +713,9 @@ The overall safety profile of human serum albumin-paclitaxel nanoparticles in pa
 
 The pharmacokinetics of total paclitaxel following 30- and 180-minute infusions of human serum albumin-paclitaxel nanoparticles at dose levels of 80 to 375 mg/m 2 were determined in clinical studies. The paclitaxel exposure (AUC) increased linearly from 2653 to 16736 ng.hr/ml following dosing from 80 to 300 mg/m 2 .
 
-In a study in patients with advanced solid tumours, the pharmacokinetic characteristics of paclitaxel following human serum albumin-paclitaxel nanoparticles administered intravenously at 260 mg/m 2 over 30 minutes were compared with those following 175 mg/m 2 of the solvent-based paclitaxel injection administered over 3 hours. Based on non-compartmental PK analysis, the plasma clearance
+In a study in patients with advanced solid tumours, the pharmacokinetic characteristics of paclitaxel following human serum albumin-paclitaxel nanoparticles administered intravenously at 260 mg/m 2 over 30 minutes were compared with those following 175 mg/m 2 of the solvent-based paclitaxel injection administered over 3 hours. Based on non-compartmental PK analysis, the plasma clearance of paclitaxel with human serum albumin-paclitaxel nanoparticles was larger (43%) than that following a solvent-based paclitaxel injection and its volume of distribution was also higher (53%). There were no differences in terminal half-lives.
 
 <div style=\"page-break-after: always\"></div>
-
-of paclitaxel with human serum albumin-paclitaxel nanoparticles was larger (43%) than that following a solvent-based paclitaxel injection and its volume of distribution was also higher (53%). There were no differences in terminal half-lives.
 
 In a repeat dose study with 12 patients receiving human serum albumin-paclitaxel nanoparticles administered intravenously at 260 mg/m 2 , intra-patient variability in AUC was 19% (range = 3.21%37.70%). There was no evidence for accumulation of paclitaxel with multiple treatment courses.
 
@@ -749,11 +737,9 @@ At the clinical dose range of 80 to 300 mg/m 2 , the mean plasma clearance of pa
 
 ## Hepatic impairment
 
-The effect of hepatic impairment on population pharmacokinetics of human serum albumin-paclitaxel nanoparticles was studied in patients with advanced solid tumours. This analysis included patients with normal hepatic function (n=130), and pre-existing mild (n=8), moderate (n=7), or severe (n=5) hepatic impairment (according to NCI Organ Dysfunction Working Group criteria). The results show that mild hepatic impairment (total bilirubin &gt;1 to ≤1.5 x ULN) ha s no clinically important effect on pharmacokinetics of paclitaxel. Patients with moderate (total bilirubin &gt;1.5 to ≤3 x ULN) or severe (total bilirubin &gt;3 to ≤5 x ULN) hepatic impairment have a 22% to 26% decrease in the maximum elimination rate of paclitaxel and approximately 20% increase in mean paclitaxel AUC compared with patients with normal hepatic function. Hepatic impairment has no effect on mean paclitaxel Cmax. In
+The effect of hepatic impairment on population pharmacokinetics of human serum albumin-paclitaxel nanoparticles was studied in patients with advanced solid tumours. This analysis included patients with normal hepatic function (n=130), and pre-existing mild (n=8), moderate (n=7), or severe (n=5) hepatic impairment (according to NCI Organ Dysfunction Working Group criteria). The results show that mild hepatic impairment (total bilirubin &gt;1 to ≤1.5 x ULN) ha s no clinically important effect on pharmacokinetics of paclitaxel. Patients with moderate (total bilirubin &gt;1.5 to ≤3 x ULN) or severe (total bilirubin &gt;3 to ≤5 x ULN) hepatic impairment have a 22% to 26% decrease in the maximum elimination rate of paclitaxel and approximately 20% increase in mean paclitaxel AUC compared with patients with normal hepatic function. Hepatic impairment has no effect on mean paclitaxel Cmax. In addition, elimination of paclitaxel shows an inverse correlation with total bilirubin and a positive correlation with serum albumin.
 
 <div style=\"page-break-after: always\"></div>
-
-addition, elimination of paclitaxel shows an inverse correlation with total bilirubin and a positive correlation with serum albumin.
 
 Pharmacokinetic/pharmacodynamic modeling indicates that there is no correlation between hepatic function (as indicated by the baseline albumin or total bilirubin level) and neutropenia after adjusting for human serum albumin-paclitaxel nanoparticles exposure.
 
@@ -783,11 +769,9 @@ Population pharmacokinetic analyses for human serum albumin-paclitaxel nanoparti
 
 ## 5.3 Preclinical safety data
 
-The carcinogenic potential of paclitaxel has not been studied. However, based on the published literature, paclitaxel is a potentially carcinogenic and genotoxic agent at clinical doses, based upon its
+The carcinogenic potential of paclitaxel has not been studied. However, based on the published literature, paclitaxel is a potentially carcinogenic and genotoxic agent at clinical doses, based upon its pharmacodynamic mechanism of action. Paclitaxel has been shown to be clastogenic in vitro (chromosome aberrations in human lymphocytes) and in vivo (micronucleus test in mice). Paclitaxel has been shown to be genotoxic in vivo (micronucleus test in mice), but it did not induce mutagenicity in the Ames test or the Chinese hamster ovary/hypoxanthine-guanine phosphoribosyl transferase (CHO/HGPRT) gene mutation assay.
 
 <div style=\"page-break-after: always\"></div>
-
-pharmacodynamic mechanism of action. Paclitaxel has been shown to be clastogenic in vitro (chromosome aberrations in human lymphocytes) and in vivo (micronucleus test in mice). Paclitaxel has been shown to be genotoxic in vivo (micronucleus test in mice), but it did not induce mutagenicity in the Ames test or the Chinese hamster ovary/hypoxanthine-guanine phosphoribosyl transferase (CHO/HGPRT) gene mutation assay.
 
 Paclitaxel at doses below the human therapeutic dose was associated with low fertility when administered prior and during mating in male and female rats and foetal toxicity in rats. Animal studies with human serum albumin-paclitaxel nanoparticles showed non-reversible, toxic effects on the male reproductive organs at clinically relevant exposure levels.
 
@@ -855,11 +839,9 @@ The reconstituted dispersion should be milky and homogenous without visible prec
 
 Inspect the dispersion in the vial for particulate matter. Do not administer the reconstituted dispersion if particulate matter is observed in the vial.
 
-The exact total dosing volume of 5 mg/ml dispersion required for the patient should be calculated and the appropriate amount of reconstituted Pazenir should be injected into an empty, sterile, PVC or non-
+The exact total dosing volume of 5 mg/ml dispersion required for the patient should be calculated and the appropriate amount of reconstituted Pazenir should be injected into an empty, sterile, PVC or non- PVC type intravenous bag.
 
 <div style=\"page-break-after: always\"></div>
-
-PVC type intravenous bag.
 
 The use of medical devices containing silicone oil as a lubricant (i.e. syringes and IV bags) to reconstitute and administer Pazenir may result in the formation of proteinaceous strands. Administer Pazenir using an infusion set incorporating a 15 µm filter to avoid administration of these strands. Use of a 15 µm filter removes strands and does not change the physical or chemical properties of the reconstituted product.
 
@@ -947,7 +929,9 @@ An updated RMP should be submitted:
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Pazenir 5 mg/ml powder for dispersion for infusion paclitaxel
+Pazenir 5 mg/ml powder for dispersion for infusion
+
+paclitaxel
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -1033,11 +1017,13 @@ PC SN NN
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Pazenir 5 mg/ml powder for dispersion for infusion paclitaxel
+Pazenir 5 mg/ml powder for dispersion for infusion
+
+paclitaxel
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
-Each vial contains 100 mg of paclitaxel formulated as albumin bound nanoparticles.
+Each vial contains 100 mg of paclitaxel formulated as albumin bound nanoparticles .
 
 After reconstitution, each ml of dispersion contains 5 mg of paclitaxel.
 
@@ -1069,8 +1055,6 @@ Do not substitute for or with other paclitaxel formulations.
 
 EXP
 
-<div style=\"page-break-after: always\"></div>
-
 ## 9. SPECIAL STORAGE CONDITIONS
 
 Unopened vials: Keep the container in the outer carton until use in order to protect from light.
@@ -1092,13 +1076,18 @@ EU/1/18/1317/001
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
+
 15. INSTRUCTIONS ON USE
+
 16. INFORMATION IN BRAILLE
 
 Justification for not including Braille accepted.
 
 17. UNIQUE IDENTIFIER - 2D BARCODE
+
 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+
+<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1340,11 +1329,9 @@ Not known side effects (frequency cannot be estimated from the available data):
 
 ## Reporting of side effects
 
-If you get any side effects, talk to your doctor or nurse. This includes any possible side effects not
+If you get any side effects, talk to your doctor or nurse. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
 
 <div style=\"page-break-after: always\"></div>
-
-listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
 
 ## 5. How to store Pazenir
 
@@ -1384,15 +1371,7 @@ ratiopharm GmbH Graf-Arco-Straße 3 89079 Ulm Germany
 
 ## Manufacturer
 
-Merckle GmbH Ludwig-Merckle-Straße 3 89143 Blaubeuren Germany
-
-<div style=\"page-break-after: always\"></div>
-
-Pharmachemie B.V. Swensweg 5 Haarlem 2031 GA The Netherlands
-
-Teva Nederland B.V. Swensweg 5 2031 GA Haarlem The Netherlands
-
-For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder.
+Merckle GmbH Ludwig-Merckle-Straße 3 89143 Blaubeuren Germany Pharmachemie B.V. Swensweg 5 Haarlem 2031 GA The Netherlands Teva Nederland B.V. Swensweg 5 2031 GA Haarlem The Netherlands For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder.
 
 ## België/Belgique/Belgien
 
@@ -1445,6 +1424,8 @@ Tel: +34 915359180
 Teva Santé
 
 Tél: +33 155917800
+
+<div style=\"page-break-after: always\"></div>
 
 ## Lietuva
 
@@ -1622,11 +1603,9 @@ Any unused product or waste material should be disposed of in accordance with lo
 
 ## Stability
 
-Unopened vials of Pazenir are stable until the date indicated on the package when the vial is kept in the outer carton in order to protect from light. Neither freezing nor refrigeration adversely affects the stability of the product. This medicinal product does not require any special temperature storage
+Unopened vials of Pazenir are stable until the date indicated on the package when the vial is kept in the outer carton in order to protect from light. Neither freezing nor refrigeration adversely affects the stability of the product. This medicinal product does not require any special temperature storage conditions.
 
 <div style=\"page-break-after: always\"></div>
-
-conditions.
 
 ## Stability of the reconstituted dispersion in the vial
 

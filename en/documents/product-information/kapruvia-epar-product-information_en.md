@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-01-06 11:55:27
-document_pages: 24
+document_datetime: 2026-06-01 09:31:54
+document_pages: 26
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/kapruvia-epar-product-information_en.pdf
 document_name: kapruvia-epar-product-information_en.pdf
 version: success
-processing_time: 6.0988105
-conversion_datetime: 2026-01-10 11:14:04.747833
+processing_time: 10.1578298
+conversion_datetime: 2026-06-04 22:34:56.210108
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.1
-  docling: 2.67.0
-  docling-core: 2.58.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.21.0
+  docling-jobkit: 1.20.1
+  docling: 2.97.0
+  docling-core: 2.78.0
+  docling-ibm-models: 3.13.2
+  docling-parse: 6.2.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -73,7 +73,7 @@ The recommended dose of difelikefalin is 0.5 micrograms/kg dry body weight (i.e.
 
 | Weight range (Dry body weight in kg)   |   Injection volume 1 (mL) |
 |----------------------------------------|---------------------------|
-| 95 - 104                               |                       1   |
+| 95 - 104                               |                       1.0 |
 | 105 - 114                              |                       1.1 |
 | 115 - 124                              |                       1.2 |
 | 125 - 134                              |                       1.3 |
@@ -83,7 +83,7 @@ The recommended dose of difelikefalin is 0.5 micrograms/kg dry body weight (i.e.
 | 165 - 174                              |                       1.7 |
 | 175 - 184                              |                       1.8 |
 | 185 - 194                              |                       1.9 |
-| ≥ 195                                  |                       2   |
+| ≥ 195                                  |                       2.0 |
 
 An effect of difelikefalin in reducing pruritus is expected after 2-3 weeks of treatment.
 
@@ -147,17 +147,23 @@ Difelikefalin is a peripherally acting kappa opioid receptor agonist with restri
 
 Dizziness and somnolence have occurred in patients taking difelikefalin and may subside over time with continued treatment (see section 4.8). Concomitant use of sedating antihistamines, opioid analgesics or other CNS depressants may increase the likelihood of these adverse reactions and should be used with caution during treatment with difelikefalin (see section 4.5). Compared to placebo, the incidence of somnolence was higher in difelikefalin treated subjects 65 years of age and older (7.0%) than in difelikefalin treated subjects less than 65 years of age (2.8%).
 
+## Mental status changes
+
+Mental status changes (including confusional state) may occur (see section 4.8), which should be taken into account especially in the more vulnerable population of the elderly.
+
+<div style=\"page-break-after: always\"></div>
+
 ## Excipients with known effect
 
 This medicinal product contains less than 1 mmol sodium per vial, that is to say essentially sodiumfree.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
 No clinical interaction studies have been performed. Difelikefalin does not inhibit or induce CYP450 enzymes, and is not a substrate of CYP450 enzymes. It is not an inhibitor of glucuronidating enzymes either. Difelikefalin is not a substrate or an inhibitor of human transporters (see section 5.2).
 
-Therefore, interactions of difelikefalin with other medicinal products are unlikely. Concurrent administration of medicinal products such as sedating antihistamines, opioid analgesics or other CNS depressants (e.g., clonidine, ondansetron, gabapentin, pregabalin, zolpidem, alprazolam, sertraline, trazodone) may increase the likelihood of dizziness and somnolence (see section 4.4).
+Therefore, interactions of difelikefalin with other medicinal products are unlikely. Concurrent administration of medicinal products such as sedating antihistamines, opioid analgesics or
+
+other CNS depressants (e.g., clonidine, ondansetron, gabapentin, pregabalin, zolpidem, alprazolam, sertraline, trazodone) may increase the likelihood of dizziness and somnolence (see section 4.4).
 
 ## 4.6 Fertility, pregnancy and lactation
 
@@ -189,15 +195,13 @@ Kapruvia has minor influence on the ability to drive and use machines.
 
 Somnolence and/or dizziness have been reported in patients receiving difelikefalin (see section 4.8). Patients should be cautioned about driving or operating hazardous machinery until the effect of difelikefalin on the patient's ability to drive or operate machinery is known. Somnolence occurred within the first 3 weeks of treatment and tended to subside with continued dosing. Dizziness occurred within the first 9 weeks of treatment and was generally transient.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 4.8 Undesirable effects
 
 ## Summary of the safety profile
 
-In placebo-controlled and uncontrolled phase 3 clinical studies, approximately 6.6% of the patients experienced at least one adverse reaction during difelikefalin treatment. The most common adverse reactions were somnolence (1.1%), dizziness (0.9%), paraesthesia (including hypoesthesia, paraesthesia oral and hypoesthesia oral) (1.1%), headache (0.6%), nausea (0.7%), vomiting (0.7%), diarrhoea (0.2%) and mental status changes (including confusional state) (0.3%). Most of these events were mild or moderate in severity, did not lead to deleterious consequences, and resolved
-
-<div style=\"page-break-after: always\"></div>
-
-with ongoing therapy. No event was serious and the incidence of events leading to treatment discontinuation was ≤ 0.5% for any of the adverse reactions listed above.
+In placebo-controlled and uncontrolled phase 3 clinical studies, approximately 6.6% of the patients experienced at least one adverse reaction during difelikefalin treatment. The most common adverse reactions were somnolence (1.1%), dizziness (0.9%), paraesthesia (including hypoesthesia, paraesthesia oral and hypoesthesia oral) (1.1%), headache (0.6%), nausea (0.7%), vomiting (0.7%), diarrhoea (0.2%) and mental status changes (including confusional state) (0.3%). Most of these events were mild or moderate in severity, did not lead to deleterious consequences, and resolved with ongoing therapy. No event was serious and the incidence of events leading to treatment discontinuation was ≤ 0.5% for any of the adverse reactions listed above.
 
 ## Tabulated list of adverse reactions
 
@@ -207,10 +211,13 @@ The frequency is classified as common (≥ 1/100 to &lt; 1/10) and uncommon (≥
 
 Table 1: Adverse reactions attributed to the treatment with difelikefalin in haemodialysis patients
 
-| MedDRA System Organ                                                       | Common                     | Uncommon                                                                |
+| MedDRA System Organ Class                                                 | Common                     | Uncommon                                                                |
 |---------------------------------------------------------------------------|----------------------------|-------------------------------------------------------------------------|
-| Class                                                                     |                            |                                                                         |
 | Psychiatric disorders Nervous system disorders Gastrointestinal disorders | Somnolence, Paraesthesia 2 | Mental status changes 1 Dizziness; Headache Vomiting; Nausea; Diarrhoea |
+
+1  Mental status changes included MedDRA preferred terms of confusional state and mental status changes .
+
+2  Paraesthesia included MedDRA preferred terms of paraesthesia, hypoesthesia, paraesthesia oral and hypoesthesia oral.
 
 ## Description of selected adverse reactions
 
@@ -230,11 +237,11 @@ The likelihood of dizziness may increase when difelikefalin is concomitantly use
 
 Mental status change (including confusional state) was reported as treatment emergent adverse event in 4.4% of subjects randomised to difelikefalin.
 
+<div style=\"page-break-after: always\"></div>
+
 The majority of these events was mild or moderate in severity. In 0.2% of patients, mental status changes led to discontinuation of treatment with difelikefalin.
 
-Mental status changes were reported as serious adverse event in 2.2% of difelikefalin treated subjects. In 0.3% of patients, mental status changes were reported to have a causal relationship to difelikefalin treatment.
-
-<div style=\"page-break-after: always\"></div>
+Mental status changes were reported as serious adverse event in 2.2% of difelikefalin treated subjects. In 0.3% of patients, mental status changes were reported to have a causal relationship to difelikefalin treatment (see section 4.4).
 
 ## Reporting of suspected adverse reactions
 
@@ -264,11 +271,9 @@ The activation of kappa opioid receptors on peripheral sensory neurons and immun
 
 In two pivotal clinical phase-3 studies of similar double-blind, randomised, placebo-controlled design (KALM-1 and KALM-2), chronic kidney disease patients on haemodialysis with moderate-to-severe pruritus received either placebo or 0.5 micrograms/kg difelikefalin intravenously 3 times a week following haemodialysis for 12 weeks. A maximum of 4 doses per week was allowed in patients receiving an additional dialysis during a given week. The primary endpoint in both studies was the percentage of patients who achieved at least a 3-point reduction from baseline in the Worst Itching-Numerical Rating Scale (WI-NRS) at 12 weeks. The main secondary endpoints in both studies were the percentages of patients with an improvement in the WI-NRS of at least 4 points after 12 weeks and the changes in itch severity and itch-related quality of life (QoL) as measured by the total Skindex-10 and the 5-D Itch scale. A responder analysis based on Patient Global Impression of Change was also included.
 
-A total of 851 patients with moderate-to-severe pruritus (baseline WI-NRS &gt;4) were enrolled in the pivotal studies. Mean age was 59 years, 33.1% were aged 65 and over and 11.1% were aged 75 and
-
 <div style=\"page-break-after: always\"></div>
 
-over; 60% of patients were male. The baseline mean WI-NRS scores were 7.18 in both, difelikefalin and placebo arms; baseline median WI-NRS scores were 7.13 (range 4.2 to 10) in difelikefalin and 7.13 (range 4.1 to 10) in placebo arm. Other disease characteristics at baseline were comparable in difelikefalin and placebo arms: time from diagnosis of chronic kidney disease (8.22 years vs. 8.54 years), duration of pruritus (3.20 years vs. 3.31 years) and use of medicinal products intended to relieve pruritus such as antihistamines, corticosteroids, gabapentin or pregabalin (37.5% vs. 38%). Across studies, difelikefalin significantly reduced itch intensity and improved itch-related QoL over 12 weeks as shown in Table 2.
+A total of 851 patients with moderate-to-severe pruritus (baseline WI-NRS &gt;4) were enrolled in the pivotal studies. Mean age was 59 years, 33.1% were aged 65 and over and 11.1% were aged 75 and over; 60% of patients were male. The baseline mean WI-NRS scores were 7.18 in both, difelikefalin and placebo arms; baseline median WI-NRS scores were 7.13 (range 4.2 to 10) in difelikefalin and 7.13 (range 4.1 to 10) in placebo arm. Other disease characteristics at baseline were comparable in difelikefalin and placebo arms: time from diagnosis of chronic kidney disease (8.22 years vs. 8.54 years), duration of pruritus (3.20 years vs. 3.31 years) and use of medicinal products intended to relieve pruritus such as antihistamines, corticosteroids, gabapentin or pregabalin (37.5% vs. 38%). Across studies, difelikefalin significantly reduced itch intensity and improved itch-related QoL over 12 weeks as shown in Table 2.
 
 Table 2: Summary of primary and key secondary outcomes in KALM-1 and KALM-2 at week 12
 
@@ -286,7 +291,11 @@ Table 2: Summary of primary and key secondary outcomes in KALM-1 and KALM-2 at w
 | 5-D Itch                                |                         |                    |                         |                    |
 | Change from baseline [total score]      | -5.0 (p < 0.001)        | -3.7               | -4.9 Not applicable 1   | -3.8               |
 
+1 Was not tested based on the hierarchical testing order.
+
 Figure 1 shows the mean percentage from KALM-1 and KALM2 with a ≥ 3-point improvement from baseline in WI-NRS score by study week. Based on odds ratios, statistically significant improvements favouring the difelikefalin group were seen by week 3 in KALM-1 and by week 2 in KALM-2 and continued at each subsequent week through week 12 in both studies.
+
+<div style=\"page-break-after: always\"></div>
 
 Figure 1: Percentage of patients with ≥ 3-point improvement with respect to WI-NRS score by week in KALM-1 and KALM-2 (ITT population)
 
@@ -294,17 +303,9 @@ Figure 1: Percentage of patients with ≥ 3-point improvement with respect to WI
 
 <!-- image -->
 
-<div style=\"page-break-after: always\"></div>
-
 ## KALM-2
 
 <!-- image -->
-
-Treatment Group
-
-Difelikef alin
-
-Placebo
 
 CI = confidence interval; ITT = intent to treat; LS = least squares; WI-NRS = Worst Itching-Numerical Rating Scale
 
@@ -316,6 +317,8 @@ The effect of treatment with difelikefalin for up to 52 weeks was evaluated usin
 
 A total of 8 adolescents (12 to 17 years) on haemodialysis were enrolled in a n open-label, single arm study to evaluate the pharmacokinetics of a single dose of intravenous difelikefalin. It has been demonstrated that the administration of a single dose of difelikefalin of 0.5 μg/kg, based on dry body weight provides comparable exposure between adolescents and adults on HD. The safety profile of difelikefalin 0.5 μg/kg of dry body weight, administered in adolescents as a single intravenous dose, was consistent with the known safety profile of difelikefalin in adults.
 
+<div style=\"page-break-after: always\"></div>
+
 The European Medicines Agency has deferred the obligation to submit the results of studies with difelikefalin in one or more subsets of the paediatric population in the treatment of chronic kidney disease associated pruritus (see section 4.2 for information on paediatric use).
 
 ## 5.2 Pharmacokinetic properties
@@ -324,11 +327,7 @@ In patients with severe renal impairment undergoing haemodialysis, total body cl
 
 ## Distribution
 
-Plasma protein binding of difelikefalin is low to moderate(24-32%) and remains unaffected by renal impairment. Mean volume of distribution at steady state ranged from 145 to 189 mL/kg in healthy subjects and from 214 to 301 mL/kg in haemodialysis patients with moderate-to-severe pruritus.
-
-<div style=\"page-break-after: always\"></div>
-
-Difelikefalin penetration into the central nervous system is limited (below limit of quantification) as shown by physico-chemical, in-vitro and animal data.
+Plasma protein binding of difelikefalin is low to moderate(24-32%) and remains unaffected by renal impairment. Mean volume of distribution at steady state ranged from 145 to 189 mL/kg in healthy subjects and from 214 to 301 mL/kg in haemodialysis patients with moderate-to-severe pruritus. Difelikefalin penetration into the central nervous system is limited (below limit of quantification) as shown by physico-chemical, in-vitro and animal data.
 
 ## Elimination
 
@@ -344,6 +343,8 @@ In addition, difelikefalin is not an inhibitor of BCRP, BSEP, LAT1, MATE1, MATE2
 
 Pharmacokinetics of difelikefalin were demonstrated to be linear and dose-proportional in healthy subjects (tested over dose ranges of 1 to 40 and 1 to 20 micrograms/kg in single and repeated dose studies, respectively). Steady state dose proportionality was also established in chronic kidney disease patients on haemodialysis receiving repeated doses from 0.5 to 2.5 micrograms/kg, 3 times per week for 1 week. However, in another study dose proportionality was observed at doses of 0.5 and 1 micrograms/kg, but not at the dose of 1.5 micrograms/kg. Trough plasma concentration values reached steady state by the second dose and for the dose of 0.5 micrograms/kg, mean accumulation ratio was 1.144 in one study based on AUC0-48h and 1.33 in another study, based on AUC0-44h; showing that variability for accumulation parameters can exceed 30%.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Characteristics in specific groups of subjects or patients
 
 Based on available evidence, there is no indication that factors such as age, sex, ethnicity, or mild to moderate hepatic impairment have any impact on the pharmacokinetics of difelikefalin.
@@ -351,8 +352,6 @@ Based on available evidence, there is no indication that factors such as age, se
 ## 5.3 Preclinical safety data
 
 Non-clinical data reveal no special hazard for humans based on conventional studies of safety pharmacology, repeat-dose toxicity, genotoxicity and carcinogenic potential.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Reproductive toxicity
 
@@ -388,13 +387,13 @@ Kapruvia is supplied in a single use 2 mL glass vial (type I), with a bromobutyl
 
 Pack sizes of 3 and 12 vials containing 1 mL of solution for injection. Not all pack sizes may be marketed.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 6.6 Special precautions for disposal
 
 For single use only.
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
@@ -632,7 +631,7 @@ Talk to your doctor or nurse before you are given Kapruvia if you:
 - have an increased potassium level in the blood
 - have or have had heart weakness or a heart rhythm disorder
 - have reduced function of the blood-brain barrier (such as cancer in the brain or the central nervous system, or a disease of the central nervous system like multiple sclerosis or dementia) as this might increase your risk of side effects
-- are 65 years of age or older, as you may be more likely to be made drowsy by the medicine
+- are 65 years of age or older, as you may be more likely to be made drowsy, or experience changes in mental status by the medicine
 - are using medicines that could increase the risk of drowsiness or dizziness, such as:
 - -medicines that slow down brain activity such as those that help with sleep disturbances and anxiety
 - -medicines to treat allergies, cold, nausea and/or vomiting called sedating antihistamines
@@ -670,9 +669,11 @@ The doctor will work out the right dose of Kapruvia for you, based on your body 
 
 Kapruvia will be given 3 times per week. This increases to 4 times per week in case of a fourth dialysis. No more than 4 doses are recommended, even if the number of dialysis treatments in a week is more than 4.
 
-If a dialysis treatment is unfinished, your doctor will decide whether it is better for you to receive Kapruvia after the unfinished dialysis session or wait until your next dialysis treatment. If a dialysis treatment is missed, the usual dose of Kapruvia will be given to you at the next dialysis treatment.
+If a dialysis treatment is unfinished, your doctor will decide whether it is better for you to receive Kapruvia after the unfinished dialysis session or wait until your next dialysis treatment.
 
 <div style=\"page-break-after: always\"></div>
+
+If a dialysis treatment is missed, the usual dose of Kapruvia will be given to you at the next dialysis treatment.
 
 Itching is expected to decrease after 2-3 weeks treatment with Kapruvia.
 
@@ -754,3 +755,25 @@ For any information about this medicine, please contact the Marketing Authorisat
 ## This leaflet was last revised in
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
+
+<div style=\"page-break-after: always\"></div>
+
+## Annex IV
+
+## Scientific conclusions and grounds for the variation to the terms of the marketing authorisation(s)
+
+<div style=\"page-break-after: always\"></div>
+
+## Scientific conclusions
+
+Taking into account the PRAC Assessment Report on the PSUR(s) for difelikefalin, the scientific conclusions of PRAC are as follows:
+
+A detailed analysis of the cases of elderly patients with deteriorating mental states assessed as related to treatment with difelikefalin (i.e., those with a temporal causality and positive de-challenge was performed during this PSUR assessment). In this analysis 24 cases with positive de-challenge and 1 case with positive rechallenge (hallucination) were found. 'Mental status changes (including confusional state)' is already described in SmPC section 4.8 but the PRAC considers that the warning in 4.4 should be amended as the present warning in section 4.4 only describes dizziness and somnolence. Therefore, it is proposed to add ' mental status changes' to the already present warning, with a reference to section 4.8. The PRAC concluded that the product information of products containing difelikefalin should be amended accordingly.
+
+Having reviewed the PRAC recommendation, the CHMP agrees with the PRAC overall conclusions and grounds for recommendation.
+
+## Grounds for the variation to the terms of the marketing authorisation(s)
+
+On the basis of the scientific conclusions for difelikefalin the CHMP is of the opinion that the benefitrisk balance of the medicinal product(s) containing difelikefalin is unchanged subject to the proposed changes to the product information.
+
+The CHMP recommends that the terms of the marketing authorisation(s) should be varied.

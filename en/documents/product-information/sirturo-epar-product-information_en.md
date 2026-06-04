@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-11-24 16:19:39
+document_datetime: 2026-06-03 10:28:47
 document_pages: 50
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/sirturo-epar-product-information_en.pdf
 document_name: sirturo-epar-product-information_en.pdf
 version: success
-processing_time: 9.8193368
-conversion_datetime: 2025-12-21 18:17:09.054166
+processing_time: 17.0855676
+conversion_datetime: 2026-06-04 22:31:32.18874
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.21.0
+  docling-jobkit: 1.20.1
+  docling: 2.97.0
+  docling-core: 2.78.0
+  docling-ibm-models: 3.13.2
+  docling-parse: 6.2.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -68,11 +68,9 @@ SIRTURO is indicated for use as part of an appropriate combination regimen in ad
 
 Treatment with SIRTURO should be initiated and monitored by a physician experienced in the management of TB due to M. tuberculosis resistant to at least rifampicin and isoniazid. Consideration should be given to WHO guidelines when selecting the appropriate combination regimen.
 
-Only use SIRTURO in combination with other medicinal products to which the patient's isolate has been shown to be susceptible in vitro or is likely to be susceptible. Refer to the Summary of Product
+Only use SIRTURO in combination with other medicinal products to which the patient's isolate has been shown to be susceptible in vitro or is likely to be susceptible. Refer to the Summary of Product Characteristics of the medicinal products used in combination with SIRTURO for their specific dosing recommendations.
 
 <div style=\"page-break-after: always\"></div>
-
-Characteristics of the medicinal products used in combination with SIRTURO for their specific dosing recommendations.
 
 It is recommended that SIRTURO is administered by directly observed therapy (DOT).
 
@@ -88,8 +86,6 @@ Table 1: Recommended Dosage of SIRTURO in Adult Patients
 |-----------------------------|--------------------------|--------------------------------------|
 |                             | Weeks 1 to 2             | Weeks 3 to 24                        |
 | Adults (18 years and older) | 400 mg orally once daily | 200 mg orally three times per week a |
-
-a At least 48 hours between doses
 
 The total duration of treatment with SIRTURO is 24 weeks. SIRTURO should be taken with food.
 
@@ -107,8 +103,6 @@ Table 2: Recommended Dosage of SIRTURO in Paediatric Patients (2 years to less t
 | Greater than or equal to 15 kg to less than 20 kg | 160 mg orally once daily | 80 mg orally three times per week a  |
 | Greater than or equal to 20 kg to less than 30 kg | 200 mg orally once daily | 100 mg orally three times per week a |
 | Greater than or equal to 30 kg                    | 400 mg orally once daily | 200 mg orally three times per week a |
-
-a At least 48 hours between doses
 
 The total duration of treatment with SIRTURO is 24 weeks. SIRTURO should be taken with food.
 
@@ -307,11 +301,9 @@ Bedaquiline may have a minor influence on the ability to drive and use machines.
 
 ## Summary of the safety profile
 
-Adverse reactions for SIRTURO were identified from Phase IIb clinical trial data (both controlled and uncontrolled, C208 and C209) in 335 adult patients who received SIRTURO for 8 weeks or 24 weeks. No new adverse reactions were identified in the Phase III active-controlled trial including 354 patients
+Adverse reactions for SIRTURO were identified from Phase IIb clinical trial data (both controlled and uncontrolled, C208 and C209) in 335 adult patients who received SIRTURO for 8 weeks or 24 weeks. No new adverse reactions were identified in the Phase III active-controlled trial including 354 patients who received SIRTURO for 40 weeks or 28 weeks. In these studies, patients received SIRTURO in combination with other antimycobacterial drugs.
 
 <div style=\"page-break-after: always\"></div>
-
-who received SIRTURO for 40 weeks or 28 weeks. In these studies, patients received SIRTURO in combination with other antimycobacterial drugs.
 
 The most frequent adverse reactions (&gt;10.0% of patients) reported during treatment with SIRTURO in the open-label Phase III trial were QT prolongation (61% in the SIRTURO group vs 56% in the control group), nausea (54% vs 63%), vomiting (54% vs 62%), arthralgia (45% vs 33%), transaminases increased (30% vs 29%), dizziness (18% vs 21%) and headache (17% vs 18%). Refer to the Summary of Product Characteristics of the medicinal products used in combination with SIRTURO for their respective adverse reactions.
 
@@ -344,11 +336,9 @@ Clinical trials of SIRTURO in adult TB patients collectively show a mild (&lt;10
 
 In the controlled Phase IIb study (C208), mean increases from baseline values in QTcF were observed from the first on-treatment assessment onwards (9.9 ms at Week 1 for SIRTURO and 3.5 ms for placebo). The largest mean increase (at Week 18) in QTcF during the 24 weeks of treatment with SIRTURO was 15.7 ms, compared to 6.2 ms in the placebo group. After treatment with SIRTURO ended, the QTcF gradually decreased, and the mean value was similar to that in the placebo group by study Week 60 (see section 4.4).
 
-In the Phase IIb, open-label study (C209), where patients with no treatment options received other QT-prolonging medicinal products used to treat pulmonary TB including clofazimine, concurrent use with SIRTURO resulted in additive QT prolongation. In patients taking SIRTURO with no other QT-prolonging drugs, there were no patients with QTcF interval durations above 480 ms, and in
+In the Phase IIb, open-label study (C209), where patients with no treatment options received other QT-prolonging medicinal products used to treat pulmonary TB including clofazimine, concurrent use with SIRTURO resulted in additive QT prolongation. In patients taking SIRTURO with no other QT-prolonging drugs, there were no patients with QTcF interval durations above 480 ms, and in patients who were taking at least two other QT-prolonging drugs, there was one patient with a QTcF interval duration above 500 ms.
 
 <div style=\"page-break-after: always\"></div>
-
-patients who were taking at least two other QT-prolonging drugs, there was one patient with a QTcF interval duration above 500 ms.
 
 In the controlled Phase III study, in which the 40-week SIRTURO and active control treatment groups included both clofazimine and a fluoroquinolone, the mean QTcF gradually increased from baseline over the first 10 to 14 weeks, when a plateau was reached and additive QT prolongation was observed. The highest mean QTcF increase from baseline was 34.5 ms for the SIRTURO-containing group and 29.9 ms for the non-SIRTURO-containing control. Throughout treatment, mean QTcF increase was less than 10 ms higher in the SIRTURO-containing group compared to the control. Upon treatment completion mean QTcF decreased steadily. QTcF values ≥500 ms were observed in 5.2% of patients in the SIRTURO-containing group compared to 7.4% in the non-SIRTURO-containing control group (see sections 4.4 and 4.5).
 
@@ -404,11 +394,9 @@ Within the concentration range achieved with the therapeutic dose, no pharmacoki
 
 ## Mechanisms of resistance
 
-Acquired resistance mechanisms that affect bedaquiline MICs include mutations in the atpE gene, which codes for the ATP synthase target, and in the Rv0678 gene, which regulates the expression of the MmpS5-MmpL5 efflux pump. Target-based mutations generated in preclinical studies lead to 8- to 133-fold increases in bedaquiline MIC, resulting in MICs ranging from 0.25 to 4 mg/L. Efflux-based mutations have been seen in preclinical and clinical isolates. These lead to 2- to 8-fold increases in
+Acquired resistance mechanisms that affect bedaquiline MICs include mutations in the atpE gene, which codes for the ATP synthase target, and in the Rv0678 gene, which regulates the expression of the MmpS5-MmpL5 efflux pump. Target-based mutations generated in preclinical studies lead to 8- to 133-fold increases in bedaquiline MIC, resulting in MICs ranging from 0.25 to 4 mg/L. Efflux-based mutations have been seen in preclinical and clinical isolates. These lead to 2- to 8-fold increases in bedaquiline MICs, resulting in bedaquiline MICs ranging from 0.25 to 0.5 mg/L. The majority of isolates that are phenotypically resistant to bedaquiline are cross-resistant to clofazimine. Isolates that are resistant to clofazimine can still be susceptible to bedaquiline.
 
 <div style=\"page-break-after: always\"></div>
-
-bedaquiline MICs, resulting in bedaquiline MICs ranging from 0.25 to 0.5 mg/L. The majority of isolates that are phenotypically resistant to bedaquiline are cross-resistant to clofazimine. Isolates that are resistant to clofazimine can still be susceptible to bedaquiline.
 
 The impact of high baseline bedaquiline MICs, the presence of Rv0678 based mutations at baseline, and/or increased post-baseline bedaquiline MICs on microbiological outcomes is unclear because of the low incidence of such cases in clinical trials.
 
@@ -461,11 +449,9 @@ c Central laboratory drug susceptibility testing results became available for on
 
 d Relapse was defined in the trial as having a positive sputum culture after or during treatment following prior sputum culture conversion.
 
-During the trial, 12.7% (10/79) of the patients died in the SIRTURO treatment group (N=79) compared to 3.7% (3/81) of the patients in the placebo group (N=81). One death occurred during administration of SIRTURO. The median time to death for the remaining nine patients was 344 days after last intake of SIRTURO. In the SIRTURO treatment group, the most common cause of death as reported by the investigator was TB (5 patients). The causes of death in the remaining patients treated
+During the trial, 12.7% (10/79) of the patients died in the SIRTURO treatment group (N=79) compared to 3.7% (3/81) of the patients in the placebo group (N=81). One death occurred during administration of SIRTURO. The median time to death for the remaining nine patients was 344 days after last intake of SIRTURO. In the SIRTURO treatment group, the most common cause of death as reported by the investigator was TB (5 patients). The causes of death in the remaining patients treated with SIRTURO varied. During the trial, there was no evidence of antecedent significant QTcF prolongation or clinically significant dysrhythmia in any of the patients who died.
 
 <div style=\"page-break-after: always\"></div>
-
-with SIRTURO varied. During the trial, there was no evidence of antecedent significant QTcF prolongation or clinically significant dysrhythmia in any of the patients who died.
 
 Study C209 evaluated the safety, tolerability, and efficacy of 24 weeks treatment with open-label SIRTURO as part of an individualised treatment regimen in 233 adult patients who were sputum smear positive within 6 months prior to screening. This study included patients with M. tuberculosis strains of all three resistance categories (resistant to rifampicin and isoniazid, also resistant to second-line injectables or fluoroquinolones, and also resistant to second-line injectables and fluoroquinolones).
 
@@ -486,11 +472,9 @@ Patients were randomised to one of four treatment groups:
 -  Group C (N=211), a 40-week, all-oral treatment of SIRTURO, levofloxacin, clofazimine, ethambutol, and pyrazinamide, supplemented by high-dose isoniazid and prothionamide in the first 16 weeks (intensive phase)
 -  Group D (N=143), a 28-week treatment consisting of SIRTURO, levofloxacin, clofazimine, and pyrazinamide supplemented by kanamycin injectable and a higher isoniazid dose for the first 8 weeks (intensive phase)
 
-SIRTURO was administered as 400 mg once daily for the first 2 weeks and 200 mg 3 times/week for the following 38 weeks (in Group C) or 26 weeks (in Group D). Changes in treatment regimen were
+SIRTURO was administered as 400 mg once daily for the first 2 weeks and 200 mg 3 times/week for the following 38 weeks (in Group C) or 26 weeks (in Group D). Changes in treatment regimen were permitted at the discretion of the investigator in all groups. Enrolment in Groups A and D was stopped prematurely due to changes in the standard of care for TB treatment.
 
 <div style=\"page-break-after: always\"></div>
-
-permitted at the discretion of the investigator in all groups. Enrolment in Groups A and D was stopped prematurely due to changes in the standard of care for TB treatment.
 
 The primary objective was to assess whether the proportion of patients with a favourable efficacy outcome in Group C was noninferior to that in Group B at Week 76.
 
@@ -587,11 +571,9 @@ A single-dose study of SIRTURO in 8 participants with moderate hepatic impairmen
 
 SIRTURO has mainly been studied in patients with normal renal function. Renal excretion of unchanged bedaquiline is insignificant (&lt;0.001%).
 
-In a population pharmacokinetic analysis of tuberculosis patients treated with SIRTURO 200 mg three times a week, creatinine clearance (range: 40 to 227 mL/min) was not found to influence the pharmacokinetic parameters of bedaquiline. It is therefore not expected that mild or moderate renal impairment will have a clinically relevant effect on the exposure to bedaquiline. However, in patients with severe renal impairment (creatinine clearance &lt;30 mL/min) or end-stage renal disease requiring
+In a population pharmacokinetic analysis of tuberculosis patients treated with SIRTURO 200 mg three times a week, creatinine clearance (range: 40 to 227 mL/min) was not found to influence the pharmacokinetic parameters of bedaquiline. It is therefore not expected that mild or moderate renal impairment will have a clinically relevant effect on the exposure to bedaquiline. However, in patients with severe renal impairment (creatinine clearance &lt;30 mL/min) or end-stage renal disease requiring haemodialysis or peritoneal dialysis, bedaquiline concentrations may be increased due to alteration of active substance absorption, distribution, and metabolism secondary to renal dysfunction. As bedaquiline is highly bound to plasma proteins, it is unlikely that it will be significantly removed from plasma by haemodialysis or peritoneal dialysis.
 
 <div style=\"page-break-after: always\"></div>
-
-haemodialysis or peritoneal dialysis, bedaquiline concentrations may be increased due to alteration of active substance absorption, distribution, and metabolism secondary to renal dysfunction. As bedaquiline is highly bound to plasma proteins, it is unlikely that it will be significantly removed from plasma by haemodialysis or peritoneal dialysis.
 
 ## Paediatric patients
 
@@ -782,7 +764,9 @@ OUTER CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-SIRTURO 20 mg tablets bedaquiline
+SIRTURO 20 mg tablets
+
+bedaquiline
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -903,7 +887,7 @@ Store in the original container and keep tightly closed to protect from light an
 
 This medicine may pose a risk to the environment. Any unused medicine should be disposed of in accordance with local requirements.
 
-## 11. NAMEAND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
 Janssen-Cilag International NV Turnhoutseweg 30 B-2340 Beerse Belgium
 
@@ -1449,6 +1433,8 @@ Keep this medicine out of the sight and reach of children.
 
 Do not use this medicine after the expiry date which is stated on the carton after 'EXP'. The expiry date refers to the last day of that month.
 
+This medicine does not require any special temperature storage conditions.
+
 Store in the original container and keep the container tightly closed in order to protect from light and moisture. Do not remove desiccant (pouch containing drying agent).
 
 This medicine may pose a risk to the environment. Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
@@ -1462,27 +1448,23 @@ This medicine may pose a risk to the environment. Do not throw away any medicine
 
 ## What SIRTURO looks like and contents of the pack
 
-Uncoated, white to almost white oblong tablet with score line on both sides, debossed with '2' and '0' on one side and plain on other side.
-
-A plastic bottle containing 60 tablets
+Uncoated, white to almost white oblong tablet with score line on both sides, debossed with '2' and '0' on one side and plain on other side. A plastic bottle containing 60 tablets
 
 ## Marketing Authorisation Holder
 
 Janssen-Cilag International NV Turnhoutseweg 30 B-2340 Beerse Belgium
 
-## Manufacturer
-
-Janssen Pharmaceutica NV
-
 <div style=\"page-break-after: always\"></div>
 
-Turnhoutseweg 30 B-2340 Beerse Belgium
+## Manufacturer
+
+Janssen Pharmaceutica NV Turnhoutseweg 30 B-2340 Beerse Belgium
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 ## België/Belgique/Belgien
 
-Janssen-Cilag NV Tel/Tél: +32 14 64 94 11 janssen@jacbe.jnj.com
+Janssen-Cilag NV Tel/Tél: 0800 93 377 info\\_belux@its.jnj.com
 
 ## България
 
@@ -1490,7 +1472,9 @@ Janssen-Cilag NV Tel/Tél: +32 14 64 94 11 janssen@jacbe.jnj.com
 
 ## Česká republika
 
-Janssen-Cilag s.r.o. Tel: +420 227 012 227
+Janssen-Cilag s.r.o.
+
+Tel: +420 227 012 227
 
 ## Danmark
 
@@ -1498,7 +1482,7 @@ Janssen-Cilag A/S Tlf.: +45 4594 8282 jacdk@its.jnj.com
 
 ## Deutschland
 
-Janssen-Cilag GmbH Tel: 0800 086 9247 / +49 2137 955 6955 jancil@its.jnj.com
+Janssen-Cilag GmbH Tel: 0800 086 9247 / +49 2137 955 6955 medinfo-de@its.jnj.com
 
 ## Eesti
 
@@ -1516,21 +1500,19 @@ Janssen-Cilag, S.A. Tel: +34 91 722 81 00 contacto@its.jnj.com
 
 Janssen-Cilag Tél: 0 800 25 50 75 / +33 1 55 00 40 03 medisource@its.jnj.com
 
-## Hrvatska
-
-Johnson &amp; Johnson S.E. d.o.o. Tel: +385 1 6610 700 jjsafety@JNJCR.JNJ.com
-
 ## Lietuva
 
 UAB \"JOHNSON &amp; JOHNSON\" Tel: +370 5 278 68 88 lt@its.jnj.com
 
 ## Luxembourg/Luxemburg
 
-Janssen-Cilag NV Tél/Tel: +32 14 64 94 11 janssen@jacbe.jnj.com
+Janssen-Cilag NV Tél/Tel: 800 29 504 info\\_belux@its.jnj.com
 
 ## Magyarország
 
-Janssen-Cilag Kft. Tel.: +36 1 884 2858 janssenhu@its.jnj.com
+Janssen-Cilag Kft. Tel.: +36 1 884 2858
+
+janssenhu@its.jnj.com
 
 ## Malta
 
@@ -1540,7 +1522,7 @@ Tel: +356 2397 6000
 
 ## Nederland
 
-Janssen-Cilag B.V. Tel: +31 76 711 1111 janssen@jacnl.jnj.com
+Janssen-Cilag B.V. Tel: 0800 242 42 42 info\\_nl@its.jnj.com
 
 ## Norge
 
@@ -1558,11 +1540,15 @@ Janssen-Cilag Polska Sp. z o.o. Tel.: +48 22 237 60 00
 
 Janssen-Cilag Farmacêutica, Lda. Tel: +351 214 368 600
 
-## România
-
-Johnson &amp; Johnson România SRL Tel: +40 21 207 1800
-
 <div style=\"page-break-after: always\"></div>
+
+## Hrvatska
+
+Johnson &amp; Johnson S.E. d.o.o.
+
+Tel: +385 1 6610 700
+
+jjsafety@JNJCR.JNJ.com
 
 ## Ireland
 
@@ -1574,7 +1560,9 @@ medinfo@its.jnj.com
 
 ## Ísland
 
-Janssen-Cilag AB c/o Vistor ehf.
+Janssen-Cilag AB
+
+c/o Vistor ehf.
 
 Sími: +354 535 7000
 
@@ -1606,9 +1594,17 @@ lv@its.jnj.com
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
+## România
+
+Johnson &amp; Johnson România SRL
+
+Tel: +40 21 207 1800
+
 ## Slovenija
 
-Johnson &amp; Johnson d.o.o. Tel: +386 1 401 18 00
+Johnson &amp; Johnson d.o.o.
+
+Tel: +386 1 401 18 00
 
 JNJ-SI-safety@its.jnj.com
 
@@ -1838,6 +1834,8 @@ Keep this medicine out of the sight and reach of children.
 
 Do not use this medicine after the expiry date which is stated on the carton after 'EXP'. The expiry date refers to the last day of that month.
 
+This medicine does not require any special temperature storage conditions.
+
 Store SIRTURO in the original container or package in order to protect it from light.
 
 This medicine may pose a risk to the environment. Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
@@ -1847,9 +1845,10 @@ This medicine may pose a risk to the environment. Do not throw away any medicine
 ## What SIRTURO contains
 
 -  The active substance is bedaquiline. Each tablet contains bedaquiline fumarate equivalent to 100 mg of bedaquiline.
--  The other ingredients are: colloidal anhydrous silica, croscarmellose sodium, hypromellose, lactose monohydrate, magnesium stearate, maize starch, microcrystalline cellulose, polysorbate 20.
 
 <div style=\"page-break-after: always\"></div>
+
+-  The other ingredients are: colloidal anhydrous silica, croscarmellose sodium, hypromellose, lactose monohydrate, magnesium stearate, maize starch, microcrystalline cellulose, polysorbate 20.
 
 ## What SIRTURO looks like and contents of the pack
 
@@ -1865,31 +1864,17 @@ Janssen-Cilag International NV Turnhoutseweg 30 B-2340 Beerse Belgium
 
 ## Manufacturer
 
-Janssen Pharmaceutica NV
-
-Turnhoutseweg 30 B-2340 Beerse Belgium
+Janssen Pharmaceutica NV Turnhoutseweg 30 B-2340 Beerse Belgium
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 ## België/Belgique/Belgien
 
-Janssen-Cilag NV Tel/Tél: +32 14 64 94 11 janssen@jacbe.jnj.com
-
-## Lietuva
-
-UAB \"JOHNSON &amp; JOHNSON\"
-
-Tel: +370 5 278 68 88
-
-lt@its.jnj.com
+Janssen-Cilag NV Tel/Tél: 0800 93 377 info\\_belux@its.jnj.com
 
 ## България
 
 'Джонсън &amp; Джонсън България' ЕООД Тел.: +359 2 489 94 00 jjsafety@its.jnj.com
-
-## Luxembourg/Luxemburg
-
-Janssen-Cilag NV Tél/Tel: +32 14 64 94 11 janssen@jacbe.jnj.com
 
 ## Česká republika
 
@@ -1897,15 +1882,31 @@ Janssen-Cilag s.r.o.
 
 Tel: +420 227 012 227
 
+## Danmark
+
+Janssen-Cilag A/S Tlf.: +45 4594 8282
+
+jacdk@its.jnj.com
+
+## Deutschland
+
+Janssen-Cilag GmbH Tel: 0800 086 9247 / +49 2137 955 6955 medinfo-de@its.jnj.com
+
+## Eesti
+
+UAB \"JOHNSON &amp; JOHNSON\" Eesti filiaal
+
+Tel: +372 617 7410 ee@its.jnj.com Lietuva UAB \"JOHNSON &amp; JOHNSON\" Tel: +370 5 278 68 88 lt@its.jnj.com
+
+## Luxembourg/Luxemburg
+
+Janssen-Cilag NV Tél/Tel: 800 29 504 info\\_belux@its.jnj.com
+
 ## Magyarország
 
 Janssen-Cilag Kft. Tel.: +36 1 884 2858
 
 janssenhu@its.jnj.com
-
-## Danmark
-
-Janssen-Cilag A/S Tlf.: +45 4594 8282 jacdk@its.jnj.com
 
 ## Malta
 
@@ -1913,27 +1914,11 @@ AM MANGION LTD
 
 Tel: +356 2397 6000
 
-## Deutschland
-
-Janssen-Cilag GmbH Tel: 0800 086 9247 / +49 2137 955 6955 jancil@its.jnj.com
-
 ## Nederland
 
-Janssen-Cilag B.V. Tel: +31 76 711 1111 janssen@jacnl.jnj.com
-
-## Eesti
-
-UAB \"JOHNSON &amp; JOHNSON\" Eesti filiaal
-
-Tel: +372 617 7410
+Janssen-Cilag B.V. Tel: 0800 242 42 42 info\\_nl@its.jnj.com
 
 ## Norge
-
-UAB \"JOHNSON &amp; JOHNSON\" Eesti filiaal
-
-Tel: +372 617 7410
-
-ee@its.jnj.com
 
 Janssen-Cilag AS Tlf: +47 24 12 65 00 jacno@its.jnj.com
 
@@ -1963,9 +1948,7 @@ Tél: 0 800 25 50 75 / +33 1 55 00 40 03 medisource@its.jnj.com
 
 ## Hrvatska
 
-Johnson &amp; Johnson S.E. d.o.o.
-
-Tel: +385 1 6610 700
+Johnson &amp; Johnson S.E. d.o.o. Tel: +385 1 6610 700
 
 jjsafety@JNJCR.JNJ.com
 

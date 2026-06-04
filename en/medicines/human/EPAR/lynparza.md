@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-03-19 14:08:00
+document_datetime: 2026-06-03 15:23:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/lynparza.html
 document_name: lynparza.html
 version: success
-processing_time: 0.1258479
-conversion_datetime: 2026-03-21 11:40:40.061092
+processing_time: 0.1679572
+conversion_datetime: 2026-06-04 22:17:38.283314
 docling_version:
-  docling-serve: 1.14.3
-  docling-jobkit: 1.13.0
-  docling: 2.81.0
-  docling-core: 2.70.2
-  docling-ibm-models: 3.12.0
-  docling-parse: 5.6.0
+  docling-serve: 1.21.0
+  docling-jobkit: 1.20.1
+  docling: 2.97.0
+  docling-core: 2.78.0
+  docling-ibm-models: 3.13.2
+  docling-parse: 6.2.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
 ---
 # Lynparza
 
@@ -24,7 +24,9 @@ Authorised
 
 This medicine is authorised for use in the European Union
 
-olaparib Medicine Human Authorised
+olaparib
+
+Medicine Human Authorised
 
 Page contents
 
@@ -69,7 +71,7 @@ Expand section
 
 Collapse section
 
-## How is Lynparza used?
+### How is Lynparza used?
 
 Lynparza can only be obtained with a prescription and treatment should be started and supervised by a doctor experienced in the use of cancer medicines.
 
@@ -79,11 +81,11 @@ The dose of Lynparza depends on what disease it is being used for. Treatment is 
 
 For more information about using Lynparza, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Lynparza work?
+### How does Lynparza work?
 
 The active substance in Lynparza, olaparib, blocks the action of an enzyme called human poly ADP ribose polymerase (PARP), which helps to repair damaged DNA in normal and cancer cells during cell division. Cancer cells with mutations such as the *BRCA1* or *BRCA2* mutations rely more heavily on PARP to repair their DNA and continue dividing. Therefore, when PARP is blocked, the damaged DNA in cancer cells cannot be repaired and, as a result, the cancer cells die.
 
-## What benefits of Lynparza have been shown in studies?
+### What benefits of Lynparza have been shown in studies?
 
 **Ovarian cancer**
 
@@ -121,7 +123,7 @@ In the second part of the study, the two groups of patients who first received s
 
 Patients who continued treatment on durvalumab and placebo lived, on average, for 10.2 months before their disease got worse; in patients continuing on durvalumab and Lynparza this was 15.1 months. Supportive analyses showed a benefit of maintenance therapy with durvalumab and placebo or durvalumab with Lynparza in patients whose cancer was MMR deficient (dMMR). In patients whose cancer was MMR proficient (pMMR), a benefit was seen with durvalumab plus Lynparza but not with durvalumab and placebo.
 
-## What are the risks associated with Lynparza?
+### What are the risks associated with Lynparza?
 
 For the full list of side effects and restrictions with Lynparza, see the package leaflet.
 
@@ -131,13 +133,13 @@ The most common severe side effects (which may affect more than 2 in 100 people)
 
 Women must not breastfeed during treatment with Lynparza and for a month after stopping treatment.
 
-## Why is Lynparza authorised in the EU?
+### Why is Lynparza authorised in the EU?
 
 Generally, the outcome is poor for patients with ovarian, fallopian tube, or peritoneal cancer and for patients with HER2-negative breast cancer, pancreatic cancer with *BRCA* mutations, or castration-resistant prostate cancer with or without *BRCA* mutations whose cancer has spread. Lynparza can increase the time these patients live without their disease getting worse. In ovarian, fallopian tube or peritoneal cancer, Lynparza can also delay the need for the next cycle of platinum chemotherapy. In patients with endometrial cancer that is MMR proficient, Lynparza in combination with durvalumab has been shown to increase the time these patients live without their disease getting worse. There are uncertainties about the long-term benefits of Lynparza for endometrial cancer and the company will provide the final results of the main study in patients with endometrial cancer to address them.
 
 The side effects with Lynparza are mostly mild or moderate and are generally manageable. The European Medicines Agency therefore decided that Lynparza's benefits are greater than its risks and it can be authorised for use in the EU.
 
-## What measures are being taken to ensure the safe and effective use of Lynparza?
+### What measures are being taken to ensure the safe and effective use of Lynparza?
 
 The company that markets Lynparza will carry out studies to further confirm the benefit, including long-term benefit, of the medicine in patients with ovarian cancer and endometrial cancer.
 
@@ -145,7 +147,7 @@ Recommendations and precautions to be followed by healthcare professionals and p
 
 As for all medicines, data on the use of Lynparza are continuously monitored. Side effects reported with Lynparza are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Lynparza
+### Other information about Lynparza
 
 Lynparza received a marketing authorisation valid throughout the EU on 16 December 2014.
 
@@ -155,275 +157,141 @@ Reference Number: EMA/889990/2022
 
 English (EN) (159.3 KB - PDF)
 
-**First published:** 09/01/2015
-
-**Last updated:** 02/09/2024
+**First published:** 09/01/2015 **Last updated:** 02/09/2024
 
 [View](/en/documents/overview/lynparza-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-819)
+[Other languages (22)](#file-language-dropdown-247)
 
 български (BG) (186.45 KB - PDF)
 
-**First published:**
-
-09/01/2015
-
-**Last updated:**
-
-02/09/2024
+**First published:** 09/01/2015 **Last updated:** 02/09/2024
 
 [View](/bg/documents/overview/lynparza-epar-medicine-overview_bg.pdf)
 
 español (ES) (156.09 KB - PDF)
 
-**First published:**
-
-09/01/2015
-
-**Last updated:**
-
-02/09/2024
+**First published:** 09/01/2015 **Last updated:** 02/09/2024
 
 [View](/es/documents/overview/lynparza-epar-medicine-overview_es.pdf)
 
 čeština (CS) (184.37 KB - PDF)
 
-**First published:**
-
-09/01/2015
-
-**Last updated:**
-
-02/09/2024
+**First published:** 09/01/2015 **Last updated:** 02/09/2024
 
 [View](/cs/documents/overview/lynparza-epar-medicine-overview_cs.pdf)
 
 dansk (DA) (160.96 KB - PDF)
 
-**First published:**
-
-09/01/2015
-
-**Last updated:**
-
-02/09/2024
+**First published:** 09/01/2015 **Last updated:** 02/09/2024
 
 [View](/da/documents/overview/lynparza-epar-medicine-overview_da.pdf)
 
 Deutsch (DE) (163.4 KB - PDF)
 
-**First published:**
-
-09/01/2015
-
-**Last updated:**
-
-02/09/2024
+**First published:** 09/01/2015 **Last updated:** 02/09/2024
 
 [View](/de/documents/overview/lynparza-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (152.51 KB - PDF)
+eesti (ET) (152.51 KB - PDF)
 
-**First published:**
-
-09/01/2015
-
-**Last updated:**
-
-02/09/2024
+**First published:** 09/01/2015 **Last updated:** 02/09/2024
 
 [View](/et/documents/overview/lynparza-epar-medicine-overview_et.pdf)
 
 ελληνικά (EL) (196.27 KB - PDF)
 
-**First published:**
-
-09/01/2015
-
-**Last updated:**
-
-02/09/2024
+**First published:** 09/01/2015 **Last updated:** 02/09/2024
 
 [View](/el/documents/overview/lynparza-epar-medicine-overview_el.pdf)
 
 français (FR) (159.33 KB - PDF)
 
-**First published:**
-
-09/01/2015
-
-**Last updated:**
-
-02/09/2024
+**First published:** 09/01/2015 **Last updated:** 02/09/2024
 
 [View](/fr/documents/overview/lynparza-epar-medicine-overview_fr.pdf)
 
 hrvatski (HR) (181.7 KB - PDF)
 
-**First published:**
-
-09/01/2015
-
-**Last updated:**
-
-02/09/2024
+**First published:** 09/01/2015 **Last updated:** 02/09/2024
 
 [View](/hr/documents/overview/lynparza-epar-medicine-overview_hr.pdf)
 
 italiano (IT) (155.66 KB - PDF)
 
-**First published:**
-
-09/01/2015
-
-**Last updated:**
-
-02/09/2024
+**First published:** 09/01/2015 **Last updated:** 02/09/2024
 
 [View](/it/documents/overview/lynparza-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (189.68 KB - PDF)
+latviešu (LV) (189.68 KB - PDF)
 
-**First published:**
-
-09/01/2015
-
-**Last updated:**
-
-02/09/2024
+**First published:** 09/01/2015 **Last updated:** 02/09/2024
 
 [View](/lv/documents/overview/lynparza-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (180.39 KB - PDF)
+lietuvių (LT) (180.39 KB - PDF)
 
-**First published:**
-
-09/01/2015
-
-**Last updated:**
-
-02/09/2024
+**First published:** 09/01/2015 **Last updated:** 02/09/2024
 
 [View](/lt/documents/overview/lynparza-epar-medicine-overview_lt.pdf)
 
 magyar (HU) (183.89 KB - PDF)
 
-**First published:**
-
-09/01/2015
-
-**Last updated:**
-
-02/09/2024
+**First published:** 09/01/2015 **Last updated:** 02/09/2024
 
 [View](/hu/documents/overview/lynparza-epar-medicine-overview_hu.pdf)
 
 Malti (MT) (186.12 KB - PDF)
 
-**First published:**
-
-09/01/2015
-
-**Last updated:**
-
-02/09/2024
+**First published:** 09/01/2015 **Last updated:** 02/09/2024
 
 [View](/mt/documents/overview/lynparza-epar-medicine-overview_mt.pdf)
 
 Nederlands (NL) (160.28 KB - PDF)
 
-**First published:**
-
-09/01/2015
-
-**Last updated:**
-
-02/09/2024
+**First published:** 09/01/2015 **Last updated:** 02/09/2024
 
 [View](/nl/documents/overview/lynparza-epar-medicine-overview_nl.pdf)
 
 polski (PL) (189.21 KB - PDF)
 
-**First published:**
-
-09/01/2015
-
-**Last updated:**
-
-02/09/2024
+**First published:** 09/01/2015 **Last updated:** 02/09/2024
 
 [View](/pl/documents/overview/lynparza-epar-medicine-overview_pl.pdf)
 
 português (PT) (157.02 KB - PDF)
 
-**First published:**
-
-09/01/2015
-
-**Last updated:**
-
-02/09/2024
+**First published:** 09/01/2015 **Last updated:** 02/09/2024
 
 [View](/pt/documents/overview/lynparza-epar-medicine-overview_pt.pdf)
 
 română (RO) (180.12 KB - PDF)
 
-**First published:**
-
-09/01/2015
-
-**Last updated:**
-
-02/09/2024
+**First published:** 09/01/2015 **Last updated:** 02/09/2024
 
 [View](/ro/documents/overview/lynparza-epar-medicine-overview_ro.pdf)
 
 slovenčina (SK) (185.73 KB - PDF)
 
-**First published:**
-
-09/01/2015
-
-**Last updated:**
-
-02/09/2024
+**First published:** 09/01/2015 **Last updated:** 02/09/2024
 
 [View](/sk/documents/overview/lynparza-epar-medicine-overview_sk.pdf)
 
 slovenščina (SL) (184.21 KB - PDF)
 
-**First published:**
-
-09/01/2015
-
-**Last updated:**
-
-02/09/2024
+**First published:** 09/01/2015 **Last updated:** 02/09/2024
 
 [View](/sl/documents/overview/lynparza-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (153.88 KB - PDF)
+suomi (FI) (153.88 KB - PDF)
 
-**First published:**
-
-09/01/2015
-
-**Last updated:**
-
-02/09/2024
+**First published:** 09/01/2015 **Last updated:** 02/09/2024
 
 [View](/fi/documents/overview/lynparza-epar-medicine-overview_fi.pdf)
 
 svenska (SV) (157.03 KB - PDF)
 
-**First published:**
-
-09/01/2015
-
-**Last updated:**
-
-02/09/2024
+**First published:** 09/01/2015 **Last updated:** 02/09/2024
 
 [View](/sv/documents/overview/lynparza-epar-medicine-overview_sv.pdf)
 
@@ -433,303 +301,159 @@ Lynparza : EPAR - Product Information
 
 English (EN) (1.72 MB - PDF)
 
-**First published:** 09/01/2015
-
-**Last updated:** 19/02/2026
+**First published:** 09/01/2015 **Last updated:** 19/02/2026
 
 [View](/en/documents/product-information/lynparza-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-954)
+[Other languages (24)](#file-language-dropdown-325)
 
 български (BG) (1.72 MB - PDF)
 
-**First published:**
-
-09/01/2015
-
-**Last updated:**
-
-19/02/2026
+**First published:** 09/01/2015 **Last updated:** 19/02/2026
 
 [View](/bg/documents/product-information/lynparza-epar-product-information_bg.pdf)
 
 español (ES) (1.66 MB - PDF)
 
-**First published:**
-
-09/01/2015
-
-**Last updated:**
-
-19/02/2026
+**First published:** 09/01/2015 **Last updated:** 19/02/2026
 
 [View](/es/documents/product-information/lynparza-epar-product-information_es.pdf)
 
 čeština (CS) (4.63 MB - PDF)
 
-**First published:**
-
-09/01/2015
-
-**Last updated:**
-
-19/02/2026
+**First published:** 09/01/2015 **Last updated:** 19/02/2026
 
 [View](/cs/documents/product-information/lynparza-epar-product-information_cs.pdf)
 
 dansk (DA) (1.79 MB - PDF)
 
-**First published:**
-
-09/01/2015
-
-**Last updated:**
-
-19/02/2026
+**First published:** 09/01/2015 **Last updated:** 19/02/2026
 
 [View](/da/documents/product-information/lynparza-epar-product-information_da.pdf)
 
 Deutsch (DE) (1.65 MB - PDF)
 
-**First published:**
-
-09/01/2015
-
-**Last updated:**
-
-19/02/2026
+**First published:** 09/01/2015 **Last updated:** 19/02/2026
 
 [View](/de/documents/product-information/lynparza-epar-product-information_de.pdf)
 
-eesti keel (ET) (1.54 MB - PDF)
+eesti (ET) (1.54 MB - PDF)
 
-**First published:**
-
-09/01/2015
-
-**Last updated:**
-
-19/02/2026
+**First published:** 09/01/2015 **Last updated:** 19/02/2026
 
 [View](/et/documents/product-information/lynparza-epar-product-information_et.pdf)
 
 ελληνικά (EL) (1.91 MB - PDF)
 
-**First published:**
-
-09/01/2015
-
-**Last updated:**
-
-19/02/2026
+**First published:** 09/01/2015 **Last updated:** 19/02/2026
 
 [View](/el/documents/product-information/lynparza-epar-product-information_el.pdf)
 
 français (FR) (4.17 MB - PDF)
 
-**First published:**
-
-09/01/2015
-
-**Last updated:**
-
-19/02/2026
+**First published:** 09/01/2015 **Last updated:** 19/02/2026
 
 [View](/fr/documents/product-information/lynparza-epar-product-information_fr.pdf)
 
 hrvatski (HR) (1.82 MB - PDF)
 
-**First published:**
-
-09/01/2015
-
-**Last updated:**
-
-19/02/2026
+**First published:** 09/01/2015 **Last updated:** 19/02/2026
 
 [View](/hr/documents/product-information/lynparza-epar-product-information_hr.pdf)
 
-íslenska (IS) (1.8 MB - PDF)
-
-**First published:**
-
-09/01/2015
-
-**Last updated:**
-
-19/02/2026
-
-[View](/is/documents/product-information/lynparza-epar-product-information_is.pdf)
-
 italiano (IT) (1.63 MB - PDF)
 
-**First published:**
-
-09/01/2015
-
-**Last updated:**
-
-19/02/2026
+**First published:** 09/01/2015 **Last updated:** 19/02/2026
 
 [View](/it/documents/product-information/lynparza-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (1.82 MB - PDF)
+latviešu (LV) (1.82 MB - PDF)
 
-**First published:**
-
-09/01/2015
-
-**Last updated:**
-
-19/02/2026
+**First published:** 09/01/2015 **Last updated:** 19/02/2026
 
 [View](/lv/documents/product-information/lynparza-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (1.87 MB - PDF)
+lietuvių (LT) (1.87 MB - PDF)
 
-**First published:**
-
-09/01/2015
-
-**Last updated:**
-
-19/02/2026
+**First published:** 09/01/2015 **Last updated:** 19/02/2026
 
 [View](/lt/documents/product-information/lynparza-epar-product-information_lt.pdf)
 
 magyar (HU) (1.82 MB - PDF)
 
-**First published:**
-
-09/01/2015
-
-**Last updated:**
-
-19/02/2026
+**First published:** 09/01/2015 **Last updated:** 19/02/2026
 
 [View](/hu/documents/product-information/lynparza-epar-product-information_hu.pdf)
 
 Malti (MT) (1.98 MB - PDF)
 
-**First published:**
-
-09/01/2015
-
-**Last updated:**
-
-19/02/2026
+**First published:** 09/01/2015 **Last updated:** 19/02/2026
 
 [View](/mt/documents/product-information/lynparza-epar-product-information_mt.pdf)
 
 Nederlands (NL) (1.83 MB - PDF)
 
-**First published:**
-
-09/01/2015
-
-**Last updated:**
-
-19/02/2026
+**First published:** 09/01/2015 **Last updated:** 19/02/2026
 
 [View](/nl/documents/product-information/lynparza-epar-product-information_nl.pdf)
 
-norsk (NO) (1.78 MB - PDF)
-
-**First published:**
-
-09/01/2015
-
-**Last updated:**
-
-19/02/2026
-
-[View](/no/documents/product-information/lynparza-epar-product-information_no.pdf)
-
 polski (PL) (4.02 MB - PDF)
 
-**First published:**
-
-09/01/2015
-
-**Last updated:**
-
-19/02/2026
+**First published:** 09/01/2015 **Last updated:** 19/02/2026
 
 [View](/pl/documents/product-information/lynparza-epar-product-information_pl.pdf)
 
 português (PT) (1.63 MB - PDF)
 
-**First published:**
-
-09/01/2015
-
-**Last updated:**
-
-19/02/2026
+**First published:** 09/01/2015 **Last updated:** 19/02/2026
 
 [View](/pt/documents/product-information/lynparza-epar-product-information_pt.pdf)
 
 română (RO) (3.98 MB - PDF)
 
-**First published:**
-
-09/01/2015
-
-**Last updated:**
-
-19/02/2026
+**First published:** 09/01/2015 **Last updated:** 19/02/2026
 
 [View](/ro/documents/product-information/lynparza-epar-product-information_ro.pdf)
 
 slovenčina (SK) (1.99 MB - PDF)
 
-**First published:**
-
-09/01/2015
-
-**Last updated:**
-
-19/02/2026
+**First published:** 09/01/2015 **Last updated:** 19/02/2026
 
 [View](/sk/documents/product-information/lynparza-epar-product-information_sk.pdf)
 
 slovenščina (SL) (1.86 MB - PDF)
 
-**First published:**
-
-09/01/2015
-
-**Last updated:**
-
-19/02/2026
+**First published:** 09/01/2015 **Last updated:** 19/02/2026
 
 [View](/sl/documents/product-information/lynparza-epar-product-information_sl.pdf)
 
-Suomi (FI) (1.79 MB - PDF)
+suomi (FI) (1.79 MB - PDF)
 
-**First published:**
-
-09/01/2015
-
-**Last updated:**
-
-19/02/2026
+**First published:** 09/01/2015 **Last updated:** 19/02/2026
 
 [View](/fi/documents/product-information/lynparza-epar-product-information_fi.pdf)
 
 svenska (SV) (1.71 MB - PDF)
 
-**First published:**
-
-09/01/2015
-
-**Last updated:**
-
-19/02/2026
+**First published:** 09/01/2015 **Last updated:** 19/02/2026
 
 [View](/sv/documents/product-information/lynparza-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000296305 12/02/2026
+Íslenska (IS) (1.8 MB - PDF)
+
+**First published:** 09/01/2015 **Last updated:** 19/02/2026
+
+[View](/is/documents/product-information/lynparza-epar-product-information_is.pdf)
+
+norsk (NO) (1.78 MB - PDF)
+
+**First published:** 09/01/2015 **Last updated:** 19/02/2026
+
+[View](/no/documents/product-information/lynparza-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** VR/0000296305
+
+12/02/2026
 
 icon globe
 
@@ -749,312 +473,180 @@ Lynparza : EPAR - All Authorised presentations
 
 English (EN) (35.27 KB - PDF)
 
-**First published:** 09/01/2015
-
-**Last updated:** 13/09/2022
+**First published:** 09/01/2015 **Last updated:** 13/09/2022
 
 [View](/en/documents/all-authorised-presentations/lynparza-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-272)
+[Other languages (24)](#file-language-dropdown-71)
 
 български (BG) (35.76 KB - PDF)
 
-**First published:**
-
-09/01/2015
-
-**Last updated:**
-
-13/09/2022
+**First published:** 09/01/2015 **Last updated:** 13/09/2022
 
 [View](/bg/documents/all-authorised-presentations/lynparza-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (36.86 KB - PDF)
 
-**First published:**
-
-09/01/2015
-
-**Last updated:**
-
-13/09/2022
+**First published:** 09/01/2015 **Last updated:** 13/09/2022
 
 [View](/es/documents/all-authorised-presentations/lynparza-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (34.25 KB - PDF)
 
-**First published:**
-
-09/01/2015
-
-**Last updated:**
-
-13/09/2022
+**First published:** 09/01/2015 **Last updated:** 13/09/2022
 
 [View](/cs/documents/all-authorised-presentations/lynparza-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (35.81 KB - PDF)
 
-**First published:**
-
-09/01/2015
-
-**Last updated:**
-
-13/09/2022
+**First published:** 09/01/2015 **Last updated:** 13/09/2022
 
 [View](/da/documents/all-authorised-presentations/lynparza-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (35.79 KB - PDF)
 
-**First published:**
-
-09/01/2015
-
-**Last updated:**
-
-13/09/2022
+**First published:** 09/01/2015 **Last updated:** 13/09/2022
 
 [View](/de/documents/all-authorised-presentations/lynparza-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (43.94 KB - PDF)
+eesti (ET) (43.94 KB - PDF)
 
-**First published:**
-
-09/01/2015
-
-**Last updated:**
-
-13/09/2022
+**First published:** 09/01/2015 **Last updated:** 13/09/2022
 
 [View](/et/documents/all-authorised-presentations/lynparza-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (36.68 KB - PDF)
 
-**First published:**
-
-09/01/2015
-
-**Last updated:**
-
-13/09/2022
+**First published:** 09/01/2015 **Last updated:** 13/09/2022
 
 [View](/el/documents/all-authorised-presentations/lynparza-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (29.65 KB - PDF)
 
-**First published:**
-
-09/01/2015
-
-**Last updated:**
-
-13/09/2022
+**First published:** 09/01/2015 **Last updated:** 13/09/2022
 
 [View](/fr/documents/all-authorised-presentations/lynparza-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (35.99 KB - PDF)
 
-**First published:**
-
-09/01/2015
-
-**Last updated:**
-
-13/09/2022
+**First published:** 09/01/2015 **Last updated:** 13/09/2022
 
 [View](/hr/documents/all-authorised-presentations/lynparza-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (34.75 KB - PDF)
-
-**First published:**
-
-09/01/2015
-
-**Last updated:**
-
-13/09/2022
-
-[View](/is/documents/all-authorised-presentations/lynparza-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (36.9 KB - PDF)
 
-**First published:**
-
-09/01/2015
-
-**Last updated:**
-
-13/09/2022
+**First published:** 09/01/2015 **Last updated:** 13/09/2022
 
 [View](/it/documents/all-authorised-presentations/lynparza-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (39.04 KB - PDF)
+latviešu (LV) (39.04 KB - PDF)
 
-**First published:**
-
-09/01/2015
-
-**Last updated:**
-
-13/09/2022
+**First published:** 09/01/2015 **Last updated:** 13/09/2022
 
 [View](/lv/documents/all-authorised-presentations/lynparza-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (32.53 KB - PDF)
+lietuvių (LT) (32.53 KB - PDF)
 
-**First published:**
-
-09/01/2015
-
-**Last updated:**
-
-13/09/2022
+**First published:** 09/01/2015 **Last updated:** 13/09/2022
 
 [View](/lt/documents/all-authorised-presentations/lynparza-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (37.86 KB - PDF)
 
-**First published:**
-
-09/01/2015
-
-**Last updated:**
-
-13/09/2022
+**First published:** 09/01/2015 **Last updated:** 13/09/2022
 
 [View](/hu/documents/all-authorised-presentations/lynparza-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (60.12 KB - PDF)
 
-**First published:**
-
-09/01/2015
-
-**Last updated:**
-
-13/09/2022
+**First published:** 09/01/2015 **Last updated:** 13/09/2022
 
 [View](/mt/documents/all-authorised-presentations/lynparza-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (31.49 KB - PDF)
 
-**First published:**
-
-09/01/2015
-
-**Last updated:**
-
-13/09/2022
+**First published:** 09/01/2015 **Last updated:** 13/09/2022
 
 [View](/nl/documents/all-authorised-presentations/lynparza-epar-all-authorised-presentations_nl.pdf)
 
-norsk (NO) (35.3 KB - PDF)
-
-**First published:**
-
-09/01/2015
-
-**Last updated:**
-
-13/09/2022
-
-[View](/no/documents/all-authorised-presentations/lynparza-epar-all-authorised-presentations_no.pdf)
-
 polski (PL) (44.2 KB - PDF)
 
-**First published:**
-
-09/01/2015
-
-**Last updated:**
-
-13/09/2022
+**First published:** 09/01/2015 **Last updated:** 13/09/2022
 
 [View](/pl/documents/all-authorised-presentations/lynparza-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (31.1 KB - PDF)
 
-**First published:**
-
-09/01/2015
-
-**Last updated:**
-
-13/09/2022
+**First published:** 09/01/2015 **Last updated:** 13/09/2022
 
 [View](/pt/documents/all-authorised-presentations/lynparza-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (31.1 KB - PDF)
 
-**First published:**
-
-09/01/2015
-
-**Last updated:**
-
-13/09/2022
+**First published:** 09/01/2015 **Last updated:** 13/09/2022
 
 [View](/ro/documents/all-authorised-presentations/lynparza-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (34.66 KB - PDF)
 
-**First published:**
-
-09/01/2015
-
-**Last updated:**
-
-13/09/2022
+**First published:** 09/01/2015 **Last updated:** 13/09/2022
 
 [View](/sk/documents/all-authorised-presentations/lynparza-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (34.98 KB - PDF)
 
-**First published:**
-
-09/01/2015
-
-**Last updated:**
-
-13/09/2022
+**First published:** 09/01/2015 **Last updated:** 13/09/2022
 
 [View](/sl/documents/all-authorised-presentations/lynparza-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (34.26 KB - PDF)
+suomi (FI) (34.26 KB - PDF)
 
-**First published:**
-
-09/01/2015
-
-**Last updated:**
-
-13/09/2022
+**First published:** 09/01/2015 **Last updated:** 13/09/2022
 
 [View](/fi/documents/all-authorised-presentations/lynparza-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (33.32 KB - PDF)
 
-**First published:**
-
-09/01/2015
-
-**Last updated:**
-
-13/09/2022
+**First published:** 09/01/2015 **Last updated:** 13/09/2022
 
 [View](/sv/documents/all-authorised-presentations/lynparza-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (34.75 KB - PDF)
+
+**First published:** 09/01/2015 **Last updated:** 13/09/2022
+
+[View](/is/documents/all-authorised-presentations/lynparza-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (35.3 KB - PDF)
+
+**First published:** 09/01/2015 **Last updated:** 13/09/2022
+
+[View](/no/documents/all-authorised-presentations/lynparza-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine Lynparza Active substance olaparib International non-proprietary name (INN) or common name olaparib Therapeutic area (MeSH)
+Name of medicine
+
+Lynparza
+
+Active substance
+
+olaparib
+
+International non-proprietary name (INN) or common name
+
+olaparib
+
+Therapeutic area (MeSH)
 
 - Ovarian Neoplasms
 - Breast Neoplasms
 - Pancreatic Neoplasms
 - Prostatic Neoplasms, Castration-Resistant
 
-Anatomical therapeutic chemical (ATC) code L01XK01
+Anatomical therapeutic chemical (ATC) code
+
+L01XK01
 
 ### Pharmacotherapeutic group
 
@@ -1099,13 +691,23 @@ Lynparza in combination with durvalumab is indicated for the maintenance treatme
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/003726 Marketing authorisation holder
+EMA product number
+
+EMEA/H/C/003726
+
+Marketing authorisation holder
 
 AstraZeneca AB
 
 SE-151 85 Södertälje
 
-Marketing authorisation issued 16/12/2014 Revision 31
+Marketing authorisation issued
+
+16/12/2014
+
+Revision
+
+32
 
 ## Assessment history
 
@@ -1113,15 +715,13 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Lynparza : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (187.29 KB - PDF)
+English (EN) (187.78 KB - PDF)
 
-**First published:** 18/07/2025
-
-**Last updated:** 19/02/2026
+**First published:** 18/07/2025 **Last updated:** 03/06/2026
 
 [View](/en/documents/procedural-steps-after/lynparza-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1129,17 +729,23 @@ Lynparza : EPAR - Procedural steps taken and scientific information after author
 
 English (EN) (228.91 KB - PDF)
 
-**First published:** 13/04/2016
-
-**Last updated:** 18/07/2025
+**First published:** 13/04/2016 **Last updated:** 18/07/2025
 
 [View](/en/documents/procedural-steps-after/lynparza-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
+Lynparza : EPAR - Statement indicating compliance with the agreed completed paediatric investigation plan
+
+Reference Number: EMADOC-1700519818-3211686
+
+English (EN) (135.48 KB - PDF)
+
+**First published:** 03/06/2026
+
+[View](/en/documents/pip-compliance/lynparza-epar-statement-indicating-compliance-agreed-completed-paediatric-investigation-plan_en.pdf)
+
 Lynparza-VR-0000287658 : EPAR - Assessment report - Variation
 
-Adopted
-
-Reference Number: EMADOC-1700519818-2335536
+Adopted Reference Number: EMADOC-1700519818-2335536
 
 English (EN) (305.51 KB - PDF)
 
@@ -1153,17 +759,13 @@ Reference Number: EMA/346655/2024
 
 English (EN) (13.46 MB - PDF)
 
-**First published:** 20/08/2024
-
-**Last updated:** 19/03/2026
+**First published:** 20/08/2024 **Last updated:** 19/03/2026
 
 [View](/en/documents/variation-report/lynparza-h-c-ws2463-epar-assessment-report-variation_en.pdf)
 
 CHMP post-authorisation summary of positive opinion for Lynparza
 
-Adopted
-
-Reference Number: EMA/CHMP/291952/2024
+Adopted Reference Number: EMA/CHMP/291952/2024
 
 English (EN) (150.88 KB - PDF)
 
@@ -1173,9 +775,7 @@ English (EN) (150.88 KB - PDF)
 
 Lynparza-H-C-3726-II-0053 : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/941572/2022
+Adopted Reference Number: EMA/941572/2022
 
 English (EN) (5.24 MB - PDF)
 
@@ -1195,23 +795,17 @@ English (EN) (151.54 KB - PDF)
 
 Lynparza-H-C-3726-II-0051-G : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/CHMP/566771/2022
+Adopted Reference Number: EMA/CHMP/566771/2022
 
 English (EN) (6.29 MB - PDF)
 
-**First published:** 03/10/2022
-
-**Last updated:** 15/10/2025
+**First published:** 03/10/2022 **Last updated:** 15/10/2025
 
 [View](/en/documents/variation-report/lynparza-h-c-3726-ii-0051-g-epar-assessment-report-variation_en.pdf)
 
 CHMP post-authorisation summary of positive opinion for Lynparza (II-51-G)
 
-Adopted
-
-Reference Number: EMA/CHMP/602696/2022
+Adopted Reference Number: EMA/CHMP/602696/2022
 
 English (EN) (111.15 KB - PDF)
 
@@ -1221,9 +815,7 @@ English (EN) (111.15 KB - PDF)
 
 Lynparza-H-C-3726-II-0036 : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/541236/2020
+Adopted Reference Number: EMA/541236/2020
 
 English (EN) (5.34 MB - PDF)
 
@@ -1233,9 +825,7 @@ English (EN) (5.34 MB - PDF)
 
 Lynparza-H-C-3726-II-0035 : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/523504/2020
+Adopted Reference Number: EMA/523504/2020
 
 English (EN) (6.4 MB - PDF)
 
@@ -1255,9 +845,7 @@ English (EN) (104.01 KB - PDF)
 
 CHMP post-authorisation summary of positive opinion for Lynparza (II-35; II-36))
 
-Adopted
-
-Reference Number: EMA/CHMP/490929/2020
+Adopted Reference Number: EMA/CHMP/490929/2020
 
 English (EN) (182.24 KB - PDF)
 
@@ -1267,9 +855,7 @@ English (EN) (182.24 KB - PDF)
 
 Lynparza-H-C-003726-II-0033 : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/195425/2020
+Adopted Reference Number: EMA/195425/2020
 
 English (EN) (5.91 MB - PDF)
 
@@ -1279,9 +865,7 @@ English (EN) (5.91 MB - PDF)
 
 CHMP post-authorisation summary of positive opinion for Lynparza (II-33)
 
-Adopted
-
-Reference Number: EMA/CHMP/282935/2020
+Adopted Reference Number: EMA/CHMP/282935/2020
 
 English (EN) (168.24 KB - PDF)
 
@@ -1291,9 +875,7 @@ English (EN) (168.24 KB - PDF)
 
 Lynparza-H-C-003726-II-0023 : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/330530/2019
+Adopted Reference Number: EMA/330530/2019
 
 English (EN) (5.48 MB - PDF)
 
@@ -1303,9 +885,7 @@ English (EN) (5.48 MB - PDF)
 
 Lynparza-H-C-3726-II-0020 : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/208498/2019
+Adopted Reference Number: EMA/208498/2019
 
 English (EN) (5.31 MB - PDF)
 
@@ -1315,9 +895,7 @@ English (EN) (5.31 MB - PDF)
 
 CHMP post-authorisation summary of positive opinion for Lynparza (II-23)
 
-Adopted
-
-Reference Number: EMA/CHMP/232262/2019
+Adopted Reference Number: EMA/CHMP/232262/2019
 
 English (EN) (77.01 KB - PDF)
 
@@ -1327,9 +905,7 @@ English (EN) (77.01 KB - PDF)
 
 CHMP post-authorisation summary of positive opinion for Lynparza (II-20)
 
-Adopted
-
-Reference Number: EMA/CHMP/146940/2019
+Adopted Reference Number: EMA/CHMP/146940/2019
 
 English (EN) (71.47 KB - PDF)
 
@@ -1339,83 +915,87 @@ English (EN) (71.47 KB - PDF)
 
 Lynparza : Orphan designation withdrawal assessment report (post-authorisation)
 
-Adopted
-
-Reference Number: EMA/214775/2018
+Adopted Reference Number: EMA/214775/2018
 
 English (EN) (285.96 KB - PDF)
 
-**First published:** 28/05/2018
-
-**Last updated:** 28/05/2018
+**First published:** 28/05/2018 **Last updated:** 28/05/2018
 
 [View](/en/documents/orphan-maintenance-report-post/lynparza-orphan-designation-withdrawal-assessment-report-post-authorisation_en.pdf)
 
 Lynparza-H-C-3726-X-0016-G : EPAR - Assessment Report - Extension
 
-Adopted
-
-Reference Number: EMA/64964/2018
+Adopted Reference Number: EMA/64964/2018
 
 English (EN) (3.33 MB - PDF)
 
-**First published:** 28/05/2018
-
-**Last updated:** 28/05/2018
+**First published:** 28/05/2018 **Last updated:** 28/05/2018
 
 [View](/en/documents/variation-report/lynparza-h-c-3726-x-0016-g-epar-assessment-report-extension_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Lynparza : EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/CHMP/789139/2014
+Adopted Reference Number: EMA/CHMP/789139/2014
 
 English (EN) (3.56 MB - PDF)
 
-**First published:** 09/01/2015
-
-**Last updated:** 09/01/2015
+**First published:** 09/01/2015 **Last updated:** 09/01/2015
 
 [View](/en/documents/assessment-report/lynparza-epar-public-assessment-report_en.pdf)
 
 CHMP summary of positive opinion for Lynparza
 
-Adopted
-
-Reference Number: EMA/CHMP/632090/2014
+Adopted Reference Number: EMA/CHMP/632090/2014
 
 English (EN) (44.36 KB - PDF)
 
-**First published:** 24/10/2014
-
-**Last updated:** 24/10/2014
+**First published:** 24/10/2014 **Last updated:** 24/10/2014
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-lynparza_en.pdf)
 
 ## News on Lynparza
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 24-27 June 2024](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-24-27-june-2024) 28/06/2024
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 24-27 June 2024](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-24-27-june-2024)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 7-10 November 2022](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-7-10-november-2022) 11/11/2022
+28/06/2024
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 20-23 June 2022](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-20-23-june-2022) 24/06/2022
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 7-10 November 2022](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-7-10-november-2022)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 14-17 September 2020](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-14-17-september-2020) 18/09/2020
+11/11/2022
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 25-28 May 2020](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-25-28-may-2020) 29/05/2020
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 20-23 June 2022](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-20-23-june-2022)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 23-26 April 2019](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-23-26-april-2019) 26/04/2019
+24/06/2022
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 25-28 February 2019](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-25-28-february-2019) 01/03/2019
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 14-17 September 2020](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-14-17-september-2020)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 19-22 February 2018](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-19-22-february-2018) 23/02/2018
+18/09/2020
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 20-23 October 2014](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-20-23-october-2014) 24/10/2014
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 25-28 May 2020](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-25-28-may-2020)
 
-[Lynparza recommended for approval in ovarian cancer](/en/news/lynparza-recommended-approval-ovarian-cancer) 24/10/2014
+29/05/2020
+
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 23-26 April 2019](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-23-26-april-2019)
+
+26/04/2019
+
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 25-28 February 2019](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-25-28-february-2019)
+
+01/03/2019
+
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 19-22 February 2018](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-19-22-february-2018)
+
+23/02/2018
+
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 20-23 October 2014](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-20-23-october-2014)
+
+24/10/2014
+
+[Lynparza recommended for approval in ovarian cancer](/en/news/lynparza-recommended-approval-ovarian-cancer)
+
+24/10/2014
 
 ## Product information - with tracked changes
 
@@ -1425,301 +1005,155 @@ Lynparza : EPAR - Product information - tracked changes
 
 English (EN) (2.15 MB - DOCX)
 
-**First published:** 29/10/2025
-
-**Last updated:** 19/02/2026
+**First published:** 29/10/2025 **Last updated:** 19/02/2026
 
 [View](/en/documents/product-information-tracked-changes/lynparza-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-301)
+[Other languages (24)](#file-language-dropdown-670)
 
 български (BG) (2.1 MB - DOCX)
 
-**First published:**
-
-29/10/2025
-
-**Last updated:**
-
-19/02/2026
+**First published:** 29/10/2025 **Last updated:** 19/02/2026
 
 [View](/bg/documents/product-information-tracked-changes/lynparza-epar-product-information-tracked-changes_bg.docx)
 
 español (ES) (2.26 MB - DOCX)
 
-**First published:**
-
-29/10/2025
-
-**Last updated:**
-
-19/02/2026
+**First published:** 29/10/2025 **Last updated:** 19/02/2026
 
 [View](/es/documents/product-information-tracked-changes/lynparza-epar-product-information-tracked-changes_es.docx)
 
 čeština (CS) (2.27 MB - DOCX)
 
-**First published:**
-
-29/10/2025
-
-**Last updated:**
-
-19/02/2026
+**First published:** 29/10/2025 **Last updated:** 19/02/2026
 
 [View](/cs/documents/product-information-tracked-changes/lynparza-epar-product-information-tracked-changes_cs.docx)
 
 dansk (DA) (2.39 MB - DOCX)
 
-**First published:**
-
-29/10/2025
-
-**Last updated:**
-
-19/02/2026
+**First published:** 29/10/2025 **Last updated:** 19/02/2026
 
 [View](/da/documents/product-information-tracked-changes/lynparza-epar-product-information-tracked-changes_da.docx)
 
 Deutsch (DE) (2.1 MB - DOCX)
 
-**First published:**
-
-29/10/2025
-
-**Last updated:**
-
-19/02/2026
+**First published:** 29/10/2025 **Last updated:** 19/02/2026
 
 [View](/de/documents/product-information-tracked-changes/lynparza-epar-product-information-tracked-changes_de.docx)
 
-eesti keel (ET) (1.94 MB - DOCX)
+eesti (ET) (1.94 MB - DOCX)
 
-**First published:**
-
-29/10/2025
-
-**Last updated:**
-
-19/02/2026
+**First published:** 29/10/2025 **Last updated:** 19/02/2026
 
 [View](/et/documents/product-information-tracked-changes/lynparza-epar-product-information-tracked-changes_et.docx)
 
 ελληνικά (EL) (2.26 MB - DOCX)
 
-**First published:**
-
-29/10/2025
-
-**Last updated:**
-
-19/02/2026
+**First published:** 29/10/2025 **Last updated:** 19/02/2026
 
 [View](/el/documents/product-information-tracked-changes/lynparza-epar-product-information-tracked-changes_el.docx)
 
 français (FR) (2.37 MB - DOCX)
 
-**First published:**
-
-29/10/2025
-
-**Last updated:**
-
-19/02/2026
+**First published:** 29/10/2025 **Last updated:** 19/02/2026
 
 [View](/fr/documents/product-information-tracked-changes/lynparza-epar-product-information-tracked-changes_fr.docx)
 
 hrvatski (HR) (2.31 MB - DOCX)
 
-**First published:**
-
-29/10/2025
-
-**Last updated:**
-
-19/02/2026
+**First published:** 29/10/2025 **Last updated:** 19/02/2026
 
 [View](/hr/documents/product-information-tracked-changes/lynparza-epar-product-information-tracked-changes_hr.docx)
 
-íslenska (IS) (2.25 MB - DOCX)
-
-**First published:**
-
-29/10/2025
-
-**Last updated:**
-
-19/02/2026
-
-[View](/is/documents/product-information-tracked-changes/lynparza-epar-product-information-tracked-changes_is.docx)
-
 italiano (IT) (2.08 MB - DOCX)
 
-**First published:**
-
-29/10/2025
-
-**Last updated:**
-
-19/02/2026
+**First published:** 29/10/2025 **Last updated:** 19/02/2026
 
 [View](/it/documents/product-information-tracked-changes/lynparza-epar-product-information-tracked-changes_it.docx)
 
-latviešu valoda (LV) (2.22 MB - DOCX)
+latviešu (LV) (2.22 MB - DOCX)
 
-**First published:**
-
-29/10/2025
-
-**Last updated:**
-
-19/02/2026
+**First published:** 29/10/2025 **Last updated:** 19/02/2026
 
 [View](/lv/documents/product-information-tracked-changes/lynparza-epar-product-information-tracked-changes_lv.docx)
 
-lietuvių kalba (LT) (2.11 MB - DOCX)
+lietuvių (LT) (2.11 MB - DOCX)
 
-**First published:**
-
-29/10/2025
-
-**Last updated:**
-
-19/02/2026
+**First published:** 29/10/2025 **Last updated:** 19/02/2026
 
 [View](/lt/documents/product-information-tracked-changes/lynparza-epar-product-information-tracked-changes_lt.docx)
 
 magyar (HU) (2.06 MB - DOCX)
 
-**First published:**
-
-29/10/2025
-
-**Last updated:**
-
-19/02/2026
+**First published:** 29/10/2025 **Last updated:** 19/02/2026
 
 [View](/hu/documents/product-information-tracked-changes/lynparza-epar-product-information-tracked-changes_hu.docx)
 
 Malti (MT) (3.25 MB - DOC)
 
-**First published:**
-
-29/10/2025
-
-**Last updated:**
-
-19/02/2026
+**First published:** 29/10/2025 **Last updated:** 19/02/2026
 
 [View](/mt/documents/product-information-tracked-changes/lynparza-epar-product-information-tracked-changes_mt.doc)
 
 Nederlands (NL) (2.76 MB - DOCX)
 
-**First published:**
-
-29/10/2025
-
-**Last updated:**
-
-19/02/2026
+**First published:** 29/10/2025 **Last updated:** 19/02/2026
 
 [View](/nl/documents/product-information-tracked-changes/lynparza-epar-product-information-tracked-changes_nl.docx)
 
-norsk (NO) (2.42 MB - DOCX)
-
-**First published:**
-
-29/10/2025
-
-**Last updated:**
-
-19/02/2026
-
-[View](/no/documents/product-information-tracked-changes/lynparza-epar-product-information-tracked-changes_no.docx)
-
 polski (PL) (2.35 MB - DOCX)
 
-**First published:**
-
-29/10/2025
-
-**Last updated:**
-
-19/02/2026
+**First published:** 29/10/2025 **Last updated:** 19/02/2026
 
 [View](/pl/documents/product-information-tracked-changes/lynparza-epar-product-information-tracked-changes_pl.docx)
 
 português (PT) (2.09 MB - DOCX)
 
-**First published:**
-
-29/10/2025
-
-**Last updated:**
-
-19/02/2026
+**First published:** 29/10/2025 **Last updated:** 19/02/2026
 
 [View](/pt/documents/product-information-tracked-changes/lynparza-epar-product-information-tracked-changes_pt.docx)
 
 română (RO) (2.29 MB - DOCX)
 
-**First published:**
-
-29/10/2025
-
-**Last updated:**
-
-19/02/2026
+**First published:** 29/10/2025 **Last updated:** 19/02/2026
 
 [View](/ro/documents/product-information-tracked-changes/lynparza-epar-product-information-tracked-changes_ro.docx)
 
 slovenčina (SK) (2.27 MB - DOCX)
 
-**First published:**
-
-29/10/2025
-
-**Last updated:**
-
-19/02/2026
+**First published:** 29/10/2025 **Last updated:** 19/02/2026
 
 [View](/sk/documents/product-information-tracked-changes/lynparza-epar-product-information-tracked-changes_sk.docx)
 
 slovenščina (SL) (2.47 MB - DOCX)
 
-**First published:**
-
-29/10/2025
-
-**Last updated:**
-
-19/02/2026
+**First published:** 29/10/2025 **Last updated:** 19/02/2026
 
 [View](/sl/documents/product-information-tracked-changes/lynparza-epar-product-information-tracked-changes_sl.docx)
 
-Suomi (FI) (2.46 MB - DOCX)
+suomi (FI) (2.46 MB - DOCX)
 
-**First published:**
-
-29/10/2025
-
-**Last updated:**
-
-19/02/2026
+**First published:** 29/10/2025 **Last updated:** 19/02/2026
 
 [View](/fi/documents/product-information-tracked-changes/lynparza-epar-product-information-tracked-changes_fi.docx)
 
 svenska (SV) (2.28 MB - DOCX)
 
-**First published:**
-
-29/10/2025
-
-**Last updated:**
-
-19/02/2026
+**First published:** 29/10/2025 **Last updated:** 19/02/2026
 
 [View](/sv/documents/product-information-tracked-changes/lynparza-epar-product-information-tracked-changes_sv.docx)
+
+Íslenska (IS) (2.25 MB - DOCX)
+
+**First published:** 29/10/2025 **Last updated:** 19/02/2026
+
+[View](/is/documents/product-information-tracked-changes/lynparza-epar-product-information-tracked-changes_is.docx)
+
+norsk (NO) (2.42 MB - DOCX)
+
+**First published:** 29/10/2025 **Last updated:** 19/02/2026
+
+[View](/no/documents/product-information-tracked-changes/lynparza-epar-product-information-tracked-changes_no.docx)
 
 ## More information on Lynparza
 
@@ -1748,8 +1182,8 @@ English (EN) (79.43 KB - PDF)
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 19/03/2026
+**This page was last updated on**
+
+03/06/2026
 
 ## Share this page
-
-[Back to top](#main-content)

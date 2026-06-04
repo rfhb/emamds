@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-04-10 11:02:25
-document_pages: 52
+document_datetime: 2026-06-01 10:31:23
+document_pages: 50
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/abrysvo-epar-product-information_en.pdf
 document_name: abrysvo-epar-product-information_en.pdf
 version: success
-processing_time: 14.6465694
-conversion_datetime: 2026-04-13 14:19:06.613781
+processing_time: 24.9140194
+conversion_datetime: 2026-06-04 22:40:19.76631
 docling_version:
-  docling-serve: 1.16.1
-  docling-jobkit: 1.16.0
-  docling: 2.87.0
-  docling-core: 2.73.0
-  docling-ibm-models: 3.13.0
-  docling-parse: 5.8.0
+  docling-serve: 1.21.0
+  docling-jobkit: 1.20.1
+  docling: 2.97.0
+  docling-core: 2.78.0
+  docling-ibm-models: 3.13.2
+  docling-parse: 6.2.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -335,9 +335,8 @@ CI - confidence interval; RSV - respiratory syncytial virus; VE - vaccine effica
 
 N = number of participants; n = number of cases
 
-a In an exploratory analysis in RSV subgroup A (Abrysvo n=3, placebo n=16) VE was 81.3% (CI 34.5, 96.5); and in RSV subgroup B (Abrysvo n=12, placebo n=26) VE was 53.8% (CI 5.2, 78.8).
-
-b In an exploratory analysis in RSV subgroup A (Abrysvo n=1, placebo n=5) VE was 80.0% (CI -78.7, 99.6); and in RSV subgroup B (Abrysvo n=1, placebo n=12) VE was 91.7% (CI 43.7, 99.8).
+- a In an exploratory analysis in RSV subgroup A (Abrysvo n=3, placebo n=16) VE was 81.3% (CI 34.5, 96.5); and in RSV subgroup B (Abrysvo n=12, placebo n=26) VE was 53.8% (CI 5.2, 78.8).
+- b In an exploratory analysis in RSV subgroup A (Abrysvo n=1, placebo n=5) VE was 80.0% (CI -78.7, 99.6); and in RSV subgroup B (Abrysvo n=1, placebo n=12) VE was 91.7% (CI 43.7, 99.8).
 
 Vaccine efficacy in the subgroup of participants 80 years of age and older (995 and 981 participants in the Abrysvo and placebo groups, respectively) cannot be concluded due to the low number of total cases accrued (7 cases of RSV-associated LRTD with ≥ 2 symptoms and 3 cases of RSV-associated LRTD with ≥ 3 symptoms).
 
@@ -425,7 +424,7 @@ Abrysvo powder and solvent for solution for injection
 
 Abrysvo powder and solvent for solution for injection in multidose container
 
-18 months
+2 years
 
 The unopened vial of antigens is stable for 5 days when stored at temperatures from 8 °C to 30 °C. At the end of this period Abrysvo should be used or discarded. This information is used to guide healthcare professionals in case of temporary temperature excursions only.
 
@@ -1024,7 +1023,7 @@ Lot
 | 5.   | CONTENT BY WEIGHT, BY VOLUME OR BY UNIT   |
 |------|-------------------------------------------|
 
-1 dose
+1 dose Antigens for Abrysvo IM
 
 | 6.   | OTHER   |
 |------|---------|
@@ -1037,8 +1036,6 @@ Lot
 
 | 1.   | NAME OF THE MEDICINAL PRODUCT   |
 |------|---------------------------------|
-
-Antigens for Abrysvo IM
 
 | 2.   | METHOD OF ADMINISTRATION   |
 |------|----------------------------|
@@ -1056,7 +1053,7 @@ Lot
 | 5.   | CONTENT BY WEIGHT, BY VOLUME OR BY UNIT   |
 |------|-------------------------------------------|
 
-3 doses
+3 doses Solvent for Abrysvo EXP
 
 | 6.   | OTHER   |
 |------|---------|
@@ -1070,15 +1067,11 @@ Lot
 | 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
 |------|----------------------------------------------------------------|
 
-Solvent for Abrysvo
-
 | 2.   | METHOD OF ADMINISTRATION   |
 |------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
-
-EXP
 
 | 4.   | BATCH NUMBER   |
 |------|----------------|
@@ -1526,9 +1519,7 @@ T ηλ
 
 ## Other sources of information
 
-Detailed information on this medicine is available on the European Medicines Agency web site:
-
-https://www.ema.europa.eu
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu
 
 ---------------------------------------------------------------------------------------------------------------------------
 
@@ -1896,9 +1887,7 @@ Pfizer Manufacturing Belgium NV Rijksweg 12 2870 Puurs-Sint-Amands Belgium
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-## België/Belgique/Belgien
-
-## Luxembourg/Luxemburg
+## België/Belgique/Belgien Luxembourg/Luxemburg
 
 Pfizer NV/SA
 
@@ -1932,7 +1921,9 @@ Tel: +49 (0)30 550055-51000
 
 ## Eesti
 
-Pfizer Luxembourg SARL Eesti filiaal
+Pfizer Luxembourg SARL Eesti
+
+filiaal
 
 Tel: +372 666 7500
 
@@ -2082,9 +2073,7 @@ Tel: +46 (0)8 550 520 00
 
 ## Other sources of information
 
-Detailed information on this medicine is available on the European Medicines Agency web site:
-
-https://www.ema.europa.eu
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu
 
 ---------------------------------------------------------------------------------------------------------------------------
 
@@ -2123,37 +2112,3 @@ The prepared vaccine is a clear and colourless solution. Visually inspect the va
 ## Disposal
 
 Any unused product or waste material should be disposed of in accordance with local requirements.
-
-<div style=\"page-break-after: always\"></div>
-
-## Annex IV
-
-Scientific conclusions and grounds for the variation to the terms of the marketing authorisation(s)
-
-<div style=\"page-break-after: always\"></div>
-
-## Scientific conclusions
-
-Taking into account the PRAC Assessment Report on the PSUR(s) for respiratory syncytial virus vaccine (bivalent, recombinant), the scientific conclusions of PRAC are as follows:
-
-Based on the PRAC Rapporteur review of data on safety and efficacy, the PRAC considers that the risk-benefit balance of medicinal products containing Respiratory Syncytial Virus vaccine (bivalent, recombinant) remains unchanged but recommends that the terms of the marketing authorisation should be varied. In view of available data on medication errors from spontaneous reports involving neonates, the PRAC concluded that the product information of products containing Respiratory Syncytial Virus vaccine (bivalent, recombinant) should be amended as follows:
-
-Updates of section 4.1 of the SmPC to reword the indication and inclusion of a warning in section 7 of the labelling, to clarify that the product should be given to adults and pregnant individuals only.
-
-Having reviewed the PRAC recommendation, the CHMP does not agree with the PRAC overall conclusions and grounds for recommendation.
-
-## Detailed explanation of the scientific grounds for the differences from the PRAC recommendation
-
-The CHMP acknowledges the reported medication errors from spontaneous reports involving neonates and agrees with the proposed updates to section 4.1 of the SmPC to revise the indication. Additionally, the CHMP approves the inclusion of the proposed warning in section 7 of the labelling, as an appropriate risk minimisation measure, provided that the word 'and' is replaced with 'or,' to accurately reflect the population of pregnant adolescents. The revised text reads as follows:
-
-- Labelling
-
-Section 7. Other special warning(s) :
-
-## 'For adults and or pregnant individuals only.'
-
-The CHMP, in accordance with the PRAC, considers that the package leaflet is aligned with the revised wording laid down in the section 4.1 of the SmPC and therefore does not require any updates.
-
-Taking into account the PRAC recommendation and the CHMP discussion, the CHMP is of the opinion that the risk-benefit balance of medicinal products respiratory syncytial virus vaccine (bivalent, recombinant) remains unchanged but recommends by majority decision that the terms of the marketing authorisation(s) should be varied as follows:
-
-Updates of section 4.1 of the SmPC to reword the indication and inclusion of a warning in section 7 of the labelling, to clarify that the product should be given to adults or pregnant individuals only.

@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-01-16 17:40:11
-document_pages: 29
+document_datetime: 2026-06-03 14:22:06
+document_pages: 38
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/namuscla-epar-product-information_en.pdf
 document_name: namuscla-epar-product-information_en.pdf
 version: success
-processing_time: 8.6595827
-conversion_datetime: 2026-01-17 13:21:23.80343
+processing_time: 14.8019312
+conversion_datetime: 2026-06-04 22:34:30.87583
 docling_version:
-  docling-serve: 1.10.0
-  docling-jobkit: 1.8.1
-  docling: 2.68.0
-  docling-core: 2.59.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.3
+  docling-serve: 1.21.0
+  docling-jobkit: 1.20.1
+  docling: 2.97.0
+  docling-core: 2.78.0
+  docling-ibm-models: 3.13.2
+  docling-parse: 6.2.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
 ---
 Internal Doc Ref: v6.6
 
@@ -28,9 +28,19 @@ Internal Doc Ref: v6.6
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Namuscla 167 mg hard capsules
+Namuscla 62 mg hard capsules Namuscla 83 mg hard capsules Namuscla 167 mg hard capsules
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
+
+## Namuscla 62 mg hard capsules
+
+Each capsule contains mexiletine hydrochloride corresponding to 62.48 mg mexiletine.
+
+## Namuscla 83 mg hard capsules
+
+Each capsule contains mexiletine hydrochloride corresponding to 83.31 mg mexiletine.
+
+## Namuscla 167 mg hard capsules
 
 Each capsule contains mexiletine hydrochloride corresponding to 166.62 mg mexiletine.
 
@@ -38,40 +48,75 @@ For the full list of excipients, see section 6.1.
 
 ## 3. PHARMACEUTICAL FORM
 
-Hard capsule (capsule).
+Hard capsule (capsule)
 
-Namuscla capsules are Swedish orange hard shell gelatin capsules (20 mm) filled with white powder.
+## Namuscla 62 mg hard capsules
+
+Namuscla 62 mg hard capsules are white hard shell gelatin capsules (15 mm) filled with white powder.
+
+## Namuscla 83 mg hard capsules
+
+Namuscla 83 mg hard capsules are Swedish orange (cap) and white (body) hard shell gelatin capsules (20 mm) filled with white powder.
+
+## Namuscla 167 mg hard capsules
+
+Namuscla 167 mg hard capsules are Swedish orange hard shell gelatin capsules (20 mm) filled with white powder.
 
 ## 4. CLINICAL PARTICULARS
 
 ## 4.1 Therapeutic indications
 
-Namuscla is indicated for the symptomatic treatment of myotonia in adult patients with nondystrophic myotonic disorders.
+Namuscla is indicated for the symptomatic treatment of myotonia in children aged 6 to 11 years weighing at least 20 kg, adolescents aged 12 to 17 years and adult patients ≥ 18 years with nondystrophic myotonic disorders.
 
 ## 4.2 Posology and method of administration
 
-Before starting mexiletine treatment,
+Before starting mexiletine treatment, Internal Doc Ref: v6.6
 
-- Detailed and careful cardiac evaluation should be carried out by cardiologist; throughout treatment with mexiletine, cardiac monitoring needs to be continued and adapted as a function of the heart condition of the patient (see ections 4.3 4.4).
+<div style=\"page-break-after: always\"></div>
+
+- Detailed and careful cardiac evaluation should be carried out by cardiologist; throughout treatment with mexiletine, cardiac monitoring needs to be continued and adapted as a function of the heart condition of the patient (see sections 4.3 and 4.4).
 - Electrolytic evaluation should be done prior to initiating therapy with mexiletine in every patient and any electrolyte imbalance needs to be corrected before administering mexiletine (see section 4.4)
 
 ## Posology
 
+Namuscla 167 mg hard capsules
+
+## Adults from 18 years of age and above
+
 The recommended starting dose of mexiletine is 167 mg daily (1 capsule per day). After at least 1 week of treatment, based on the clinical response, the daily dose can be increased to 333 mg daily (2 capsules per day). After at least 1 further week of treatment, based on clinical response, dose can be further increased to 500 mg daily (3 capsules per day).
 
-Maintenance treatment is between 167 mg - 500 mg daily (1 to 3 capsules per day) according to the intensity of symptoms and the clinical response, taken regularly throughout the day as required.
+Maintenance treatment is between 167 mg - 500 mg daily (1 to 3 capsules per day), according to the intensity of symptoms and the clinical response, taken regularly throughout the day as required.
 
 The dose should not exceed 500 mg/day. Regular reassessment should be implemented: discontinue long-term treatment in a patient not responding or not experiencing benefit of the treatment.
+
+Namuscla 62 mg, 83 mg and 167 mg  hard capsules
+
+Children and adolescents (from 6 to 17 years of age)
+
+In paediatric patients, the recommended dose is dependent on body weight (Table 1):
+
+Table 1: Recommended doses in paediatric patients
+
+| Body weight (kg)   | Once daily (morning)             | Twice daily (morning and evening)   | Three times daily (morning, afternoon and evening)   | Maximum total daily dose   |
+|--------------------|----------------------------------|-------------------------------------|------------------------------------------------------|----------------------------|
+| 20-30 kg           | 62 mg (1 x 62 mg)                | 124 mg (2 x 62 mg)                  | 186 mg (3 x 62 mg)                                   | ≈187 mg/day                |
+| 30-40 kg           | 83 mg (1 x 83 mg)                | 166 mg (2 x 83 mg)                  | 249 mg (3 x 83 mg) Alternative: 248 mg (4 × 62 mg)   | ≈250 mg/day                |
+| 40-60 kg           | 124 mg (2 x 62 mg)               | 248 mg (4 x 62 mg)                  | 372 mg (6 x 62 mg)                                   | ≈375 mg/day                |
+| ≥ 60 kg            | 167 mg (1 x 167 mg or 2 x 83 mg) | 334 mg (2 x 167 mg or 4 x 83 mg)    | 501 mg (3 x 167 mg or 6 x 83 mg)                     | 500 mg/day                 |
+
+<div style=\"page-break-after: always\"></div>
+
+Internal Doc Ref: v6.6
+
+## Special populations
+
+## Patients with cardiac disorders
 
 In case of modification of the mexiletine dose, or if medicinal products likely to affect cardiac conduction are co-administered with mexiletine, patients should be closely monitored by ECG (especially patients with conduction anomalies) (see sections 4.3, 4.4 and 4.5).
 
 ## Elderly
 
 Experience with mexiletine in patients with myotonic disorders aged ≥ 65 years is limited. Based on the pharmacokinetic properties of mexiletine, no dose adjustment is required in patients aged 65 years and over.
-
-<div style=\"page-break-after: always\"></div>
-
-Internal Doc Ref: v6.6
 
 ## Hepatic impairment
 
@@ -85,7 +130,9 @@ No dose adjustment is considered necessary in patients with mild or moderate ren
 
 ## Paediatric population
 
-The safety and efficacy of mexiletine in children and adolescents aged 0 to under 18 years have not been established. No data are available.
+## Children less than 6 years of age
+
+The safety and efficacy of mexiletine in children aged below 6 years or weighing below 20 kg have not yet been established. No data are available.
 
 ## Method of administration
 
@@ -93,19 +140,26 @@ Oral use.
 
 The whole capsules should be swallowed with water, avoiding the supine position. In case of digestive intolerance, capsules should be taken during a meal.
 
+The safety and efficacy of opening the capsules or administering the contents by other routes have not been established. Studies are being conducted to assess suitability of alternative administration methods. For patients who are unable to swallow capsules, healthcare professionals should decide on appropriate administration based on clinical judgement.
+
 ## 4.3 Contraindications
 
 - Hypersensitivity to the active substance, or to any of the excipients listed in section 6.1.
 - Hypersensitivity to any local anaesthetic.
 - Ventricular tachyarrhythmia.
-- Complete heart block (i.e. third-degree atrioventricular block) or any heart block susceptible to evolve to complete heart block (first-degree atrioventricular block with markedly prolonged PR interval (≥ 240 ms) and/or wide QRS complex (≥ 120 ms), second -degree atrioventricular block, bundle branch block, bifascicular and trifascicular block).
-- Myocardial infarction (acute or past), or abnor mal Q -waves.
+- Complete heart block (i.e. third-degree atrioventricular block) or any heart block susceptible to evolve to complete heart block (first-degree atrioventricular block with markedly prolonged PR interval (≥ 240 ms) and/or wide QRS complex (≥ 120 ms), second-degree atrioventricular block, bundle branch block, bifascicular and trifascicular block).
+- Myocardial infarction (acute or past), or abnormal Q-waves.
 - Symptomatic coronary artery disease.
-- Heart failure with mid-range (40-49%) and reduced (&lt;40%) ejection fraction.
+- Heart failure with mid-range (40-49%) and reduced (&lt; 40%) ejection fraction.
 - Atrial tachyarrhythmia, fibrillation or flutter.
 - Sinus node dysfunction (including sinus rate &lt; 50 bpm).
 - Co-administration with medicinal products inducing torsades de pointes (see section 4.5).
-- Co-administration with medicinal products with a narrow therapeutic index (see section 4.5).
+
+<div style=\"page-break-after: always\"></div>
+
+Internal Doc Ref: v6.6
+
+- Co-administration with medicinal products with narrow therapeutic index (see section 4.5).
 
 ## 4.4 Special warnings and precautions for use
 
@@ -117,24 +171,24 @@ Before starting mexiletine treatment, detailed and careful cardiac evaluation (E
 
 Throughout treatment with mexiletine, and in relation with dose changes, cardiac monitoring of patients needs to be adapted as a function of the heart condition of the patient:
 
-<div style=\"page-break-after: always\"></div>
-
-Internal Doc Ref: v6.6
-
 - In patients without cardiac abnormalities, periodic ECG monitoring is recommended (every 2 years or more frequently if considered necessary).
 - In patients with cardiac abnormalities, and in patients prone to such abnormalities, detailed cardiac evaluation, including ECG, should be carried out before and after any dose increase. During maintenance treatment, detailed cardiac evaluation, including ECG, 24-48 hour Holtermonitoring and echocardiography, is recommended at least annually, or more frequently if considered necessary as part of routine cardiac assessment.
 
-Patients should be informed about the presenting symptoms of arrhythmias (fainting, palpitations, chest pain, shortness of breath, light-headedness, lipothymia, and syncope) and should be advised to immediately contact an emergency centre if there are any symptoms of arrhythmias.
+Patients should be informed about the presenting symptoms of arrhythmias (fainting, palpitation, chest pain, shortness of breath, light-headedness, lipothymia, and syncope) and should be advised to immediately contact an emergency centre if there are any symptoms of arrhythmias.
 
 For cardiac disorders not listed in section 4.3, the benefit of the antimyotonic effects of mexiletine needs to be balanced against the risk of cardiac complications on a case by case basis. Mexiletine should be stopped immediately if any cardiac conduction abnormalities or any of the contraindications listed in the section 4.3 are detected.
 
-Electrolytic imbalance such as hypokalaemia, hyperkalaemia or hypomagnesaemia may increase the proarrhythmic effects of mexiletine. Therefore, electrolytic evaluation should be done prior to initiating therapy with mexiletine in every patient. Electrolyte imbalance needs to be corrected before administering mexiletine and monitored throughout treatment (with a periodicity to be adapted patient by patient).
+Electrolytic imbalance such as hypokalaemia, hyperkalaemia or hypomagnesaemia may increase the proarrhythmic effects of mexiletine. Therefore, electrolytic evaluation should be done prior to initiating therapy with mexiletine in every patient. Electrolyte imbalance needs to be corrected before administering mexiletine and to be monitored throughout treatment (with a periodicity to be adapted patient by patient).
 
-Increased concentrations of caffeine occurring with the co-administration of mexiletine may be of concern in patients with cardiac arrhythmia (see section 4.5).
+Increased concentrations of caffeine occurring with the co-administration of mexiletine may be of concern in patients with cardiac arrhythmia. (see section 4.5).
 
 ## Drug reaction with eosinophilia and systemic symptoms (DRESS)
 
 DRESS refers to a syndrome which includes in its complete form severe cutaneous eruptions, fever, lymphadenopathy, hepatitis, haematological abnormalities with eosinophilia and atypical lymphocytes, and can involve other organs. Symptoms typically occur 1-8 weeks after exposure to the medicinal product. Severe systemic manifestations are responsible for a 10% mortality rate. Incidence of DRESS has been reported between 1:1 000 and 1:10 000 patients treated. Several medicinal products including anticonvulsants, antibiotics and also mexiletine have been identified as possible causes. Patients with known hypersensitivity to mexiletine or any other ingredients of this product or to any local anaesthetic are at high risk of developing DRESS and should not receive mexiletine (see section 4.3).
+
+<div style=\"page-break-after: always\"></div>
+
+Internal Doc Ref: v6.6
 
 ## Epilepsy
 
@@ -148,10 +202,6 @@ CYP2D6 polymorphism may affect mexiletine pharmacokinetics (see section 5.2). Hi
 
 Mexiletine may cross-react in various amphetamine screening assays, which can lead to a falsepositive urine test for amphetamines when Mexiletine is taken.
 
-<div style=\"page-break-after: always\"></div>
-
-Internal Doc Ref: v6.6
-
 ## Smoking
 
 Smoking affects mexiletine pharmacokinetics (see section 4.5). The mexiletine dose may need to be increased if a patient starts smoking and decreased if a patient stops smoking.
@@ -160,11 +210,11 @@ Smoking affects mexiletine pharmacokinetics (see section 4.5). The mexiletine do
 
 ## Pharmacodynamic interactions
 
-## Antiarrhythmics inducing torsades de pointes (class Ia, Ic, III antiarrhythmics):
+## Antiarrhythmics inducing torsades de pointes (class Ia, Ic, III antiarrhythmics)
 
 Co-administration of mexiletine and antiarrhythmics inducing torsades de pointes ( class Ia : quinidine, procainamide, disopyramide, ajmaline; class Ic : encainide, flecainide, propafenone, moricizine; class III : amiodarone, sotalol, ibutilide, dofetilide, dronedarone, vernakalant) increases the risk of potentially lethal torsades de pointes. The concomitant use of mexiletine and antiarrhythmic medicinal products inducing torsades de pointes is contraindicated (see section 4.3).
 
-## Other antiarrhythmics (class Ib, II, IV antiarrhythmics):
+## Other antiarrhythmics (class Ib, II, IV antiarrhythmics)
 
 Co-administration of mexiletine and other classes of antiarrhythmics ( class Ib : lidocaine, phenytoin, tocainide; class II : propranolol, esmolol, timolol, metoprolol, atenolol, carvedilol, bisoprolol, nebivolol; class IV : verapamil, diltiazem) is not recommended, unless exceptionally, because of the increased risk of adverse cardiac reactions (see section 4.4).
 
@@ -176,9 +226,15 @@ Mexiletine is a substrate for the metabolic pathways involving hepatic enzymes; 
 
 ## CYP1A2 &amp; CYP2D6 inhibitors
 
-Co-administration of mexiletine with a hepatic enzyme inhibitor (CYP1A2 inhibitor: ciprofloxacin, fluvoxamine, propafenone; CYP2D6 inhibitor: propafenone, quinidine) significantly increases mexiletine exposure and thus the associated risk of adverse reactions to mexiletine. In a single-dose interaction study, the clearance of mexiletine was decreased by 38% following the coadministration of fluvoxamine, an inhibitor of CYP1A2.
+Co-administration of mexiletine with a hepatic enzyme inhibitor (CYP1A2 inhibitor: ciprofloxacin, fluvoxamine, propafenone; CYP2D6 inhibitor: propafenone, quinidine) significantly increases mexiletine exposure and thus the associated risk of adverse reactions to mexiletine.
+
+In a single-dose interaction study, the clearance of mexiletine was decreased by 38% following the coadministration of fluvoxamine, an inhibitor of CYP1A2.
 
 Therefore, clinical and ECG monitoring, as well as adaptation of mexiletine dose may be indicated throughout and after treatment with a CYP1A2 or CYP2D6 inhibitor.
+
+<div style=\"page-break-after: always\"></div>
+
+Internal Doc Ref: v6.6
 
 ## CYP1A2 &amp; CYP2D6 inducers
 
@@ -189,10 +245,6 @@ In a clinical study, co-administration of mexiletine with phenytoin resulted in 
 Therefore, based on the clinical response, the mexiletine dose should be adapted during and after treatment with the enzyme inducer.
 
 After the oral administration of single (167 mg) and multiple (83 mg twice a day during 8 days) doses of mexiletine, total clearance of mexiletine is significantly increased in smokers (1.3 to 1.7-fold) due to induction of CYP1A2, resulting in a correspondingly decreased elimination half-life and drug exposure. Mexiletine dose may need to be increased if a patient starts to smoke during mexiletine treatment and decreased if a patient stops smoking.
-
-<div style=\"page-break-after: always\"></div>
-
-Internal Doc Ref: v6.6
 
 ## Effect of mexiletine on other medicinal products
 
@@ -218,6 +270,10 @@ If mexiletine and other OCT2 substrates are to be used concurrently, the OCT2 su
 
 The potential interactions between mexiletine and substrates of other common enzymes and transporters have not yet been assessed; it is currently contra-indicated to use mexiletine with any substrate having a narrow therapeutic window such as digoxin, lithium, phenytoin, theophylline or warfarin (see section 4.3).
 
+<div style=\"page-break-after: always\"></div>
+
+Internal Doc Ref: v6.6
+
 ## 4.6 Fertility, pregnancy and lactation
 
 ## Pregnancy
@@ -231,10 +287,6 @@ As a precautionary measure, it is preferable to avoid the use of mexiletine duri
 Mexiletine is excreted in human milk. There is insufficient information on the effects of mexiletine in newborns/infants. A decision must be made whether to discontinue breast-feeding or to discontinue/abstain from mexiletine therapy taking into account the benefit of breast feeding for the child and the benefit of therapy for the woman.
 
 ## Fertility
-
-<div style=\"page-break-after: always\"></div>
-
-Internal Doc Ref: v6.6
 
 The effects of mexiletine on fertility in humans have not been studied. Animal studies with mexiletine do not indicate harmful effects with respect to fertility (see section 5.3).
 
@@ -252,45 +304,54 @@ The  most  serious  reported  adverse  reactions  in  patients  treated  with  m
 
 ## Tabulated list of adverse reactions
 
-The adverse reactions are tabulated below by SOC (system organ class) and by frequency, most frequent reactions first, with the following guidelines: very common (≥ 1/1 0), common (≥ 1/100 to &lt; 1/10), uncommon (≥ 1/1 000 to &lt; 1/100), rare (≥ 1/10 000 to &lt; 1/1 000), very rare (&lt; 1/10 000), not known (cannot be estimated from the available data). Very common and common adverse reactions are derived from data from the MYOMEX study; less common adverse reactions are derived from post-marketing data. Within each frequency grouping, adverse reactions are presented in the order of decreasing seriousness.
+The adverse reactions are tabulated in Table 2 by MedDRA SOC (system organ class) and by frequency, most frequent reactions first, according to the following convention : very common (≥ 1/10), common (≥ 1/100  to  &lt; 1/10),  uncommon  (≥ 1/1 000  to  &lt; 1/100),  rare  (≥ 1/10 000  to  &lt; 1/1 000),  very  rare (&lt; 1/10 000), not known (cannot be estimated from the available data). Very common and common adverse reactions are derived from data from the MYOMEX study; less common adverse reactions are derived from post-marketing data. Within each frequency grouping, adverse reactions are presented in the order of decreasing seriousness.
 
-| System organ class                   | Frequency   | Adverse reaction                                                      |
-|--------------------------------------|-------------|-----------------------------------------------------------------------|
-| Blood and lymphatic system disorders | Not known   | Leukopenia, Thrombocytopenia                                          |
-| Immune system disorders              | Very rare   | Drug reaction with eosinophilia and systemic symptoms                 |
-| Immune system disorders              | Not known   | Lupus-like syndrome, Dermatitis exfoliative, Stevens-Johnson syndrome |
-| Psychiatric disorders                | Very common | Insomnia                                                              |
-| Psychiatric disorders                | Common      | Somnolence                                                            |
-| Psychiatric disorders                | Not known   | Hallucinations, Confusional state                                     |
-| Nervous system disorders             | Common      | Headache, Paraesthesia, Vision blurred                                |
-| Nervous system disorders             | Uncommon    | Seizure, Speech disorders                                             |
-| Nervous system disorders             | Not known   | Diplopia, Dysgeusia                                                   |
-| Ear and labyrinth disorders          | Common      | Vertigo                                                               |
-| Cardiac disorders                    | Common      | Tachycardia                                                           |
-| Cardiac disorders                    | Uncommon    | Bradycardia                                                           |
-| Cardiac disorders                    | Not known   | Atrioventricular block                                                |
-| Vascular disorders                   | Common      | Flushing, Hypotension                                                 |
-| Vascular disorders                   | Not known   | Circulatory collapse, Hot flush                                       |
-| Respiratory, thoracic and            | Not known   | Pulmonary fibrosis                                                    |
+Table 2: Tabulated list of adverse reaction
+
+| System organ class                   | Frequency   | Adverse reaction                  |
+|--------------------------------------|-------------|-----------------------------------|
+| Blood and lymphatic system disorders | Not known   | Leukopenia, Thrombocytopenia      |
+| Psychiatric disorders                | Very common | Insomnia                          |
+| Psychiatric disorders                | Common      | Somnolence                        |
+| Psychiatric disorders                | Not known   | Hallucinations, Confusional state |
 
 <div style=\"page-break-after: always\"></div>
 
 Internal Doc Ref: v6.6
 
-| mediastinal disorders                                |             |                                                         |
-|------------------------------------------------------|-------------|---------------------------------------------------------|
-| Gastrointestinal disorders                           | Very common | Abdominal pain                                          |
-| Gastrointestinal disorders                           | Common      | Nausea                                                  |
-| Gastrointestinal disorders                           | Not known   | Diarrhoea, Vomiting, Oesophageal ulcers and perforation |
-| Hepatobiliary disorders                              | Rare        | Hepatic function abnormal                               |
-| Hepatobiliary disorders                              | Very rare   | Drug-induced liver injury, Liver disorder, Hepatitis    |
-| Skin and subcutaneous tissue disorders               | Common      | Acne                                                    |
-| Musculoskeletal and connective tissue disorders      | Common      | Pain in the extremities                                 |
-| General disorders and administration site conditions | Common      | Fatigue, Asthenia, Chest discomfort, Malaise            |
+| Nervous system disorders                             | Common                                | Headache, Paraesthesia, Vision blurred Vertigo                |
+|------------------------------------------------------|---------------------------------------|---------------------------------------------------------------|
+| Nervous system disorders                             | Uncommon                              | Seizure, Speech disorders                                     |
+| Nervous system disorders                             | Not known                             | Diplopia, Dysgeusia                                           |
+| Cardiac disorders                                    | Common                                | Tachycardia                                                   |
+| Cardiac disorders                                    | Uncommon                              | Bradycardia                                                   |
+| Cardiac disorders                                    | Not known                             | Atrioventricular block                                        |
+| Vascular disorders                                   | Common                                | Flushing, Hypotension                                         |
+| Vascular disorders                                   | Not known                             | Circulatory collapse, Hot flush                               |
+| Respiratory, thoracic and mediastinal disorders      | Not known                             | Pulmonary fibrosis                                            |
+| Gastrointestinal disorders                           | Very common                           | Abdominal pain                                                |
+| Gastrointestinal disorders                           | Common                                | Nausea                                                        |
+| Gastrointestinal disorders                           | Not known                             | Diarrhoea, Vomiting, Oesophageal ulcers and perforation       |
+| Hepatobiliary disorders                              | Rare                                  | Hepatic function abnormal                                     |
+| Hepatobiliary disorders                              | Very rare                             | Drug-induced liver injury, Liver disorder, Hepatitis          |
+| Skin and subcutaneous tissue disorders               | Common                                | Acne                                                          |
+| Skin and subcutaneous tissue disorders               | Very rare                             | Drug reaction with eosinophilia and systemic symptoms (DRESS) |
+| Skin and subcutaneous tissue disorders               | Not known                             | Dermatitis exfoliative, Stevens-Johnson syndrome              |
+| Musculoskeletal and connective Common                | Musculoskeletal and connective Common | Pain in the extremities                                       |
+| tissue disorders                                     | Not known                             | Lupus-like syndrome                                           |
+| General disorders and administration site conditions | Common                                | Fatigue, Asthenia, Chest discomfort, Malaise                  |
+
+## Paediatric population
+
+The safety assessment in children and adolescents was studied in the MEX-NM-301 study in which 12 paediatric patients aged from 6 to 17 years and weighing at least 20 kg received mexiletine (see section 5.1). Two (2) of these patients reported adverse drug reactions. Adverse drug reactions established for adults are considered applicable to children and adolescents.
 
 ## Reporting of suspected adverse reactions
 
 Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
+
+<div style=\"page-break-after: always\"></div>
+
+Internal Doc Ref: v6.6
 
 ## 4.9 Overdose
 
@@ -298,96 +359,139 @@ Reporting suspected adverse reactions after authorisation of the medicinal produ
 
 Fatal outcomes have been reported for acute overdoses at 4.4 g of mexiletine hydrochloride ingestion but survival has also been reported following acute overdose of approximately 4 g of oral mexiletine hydrochloride.
 
-The symptoms of mexiletine overdose include neurological disorders (paresthesia, confusion, hallucination, seizure) and cardiac disorders (sinus bradycardia, hypotension, collapse, and in extreme cases, cardiac arrest).
+The symptoms of mexiletine overdose include neurological disorders (paraesthesia, confusion, hallucination, seizure) and cardiac disorders (sinus bradycardia, hypotension, collapse, and in extreme cases, cardiac arrest).
 
 ## Overdose management
 
-The treatment is mainly symptomatic. The seriousness of the symptoms may require hospital supervision. In case of bradycardia with hypotension, intravenous atropine should be used.  In case of seizure, benzodiazepines should be used.
+The treatment is mainly symptomatic. The seriousness of the symptoms may require hospital supervision. In case of bradycardia with hypotension, intravenous atropine should be used. In case of seizure, benzodiazepines should be used.
 
 ## 5. PHARMACOLOGICAL PROPERTIES
 
 ## 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: Cardiac therapy, antiarrhythmics, class Ib, ATC code: C01BB02.
+Pharmacotherapeutic group: Cardiac therapy, antiarrhythmics, class Ib, ATC code: C01BB02
 
 ## Mechanism of action
 
-Mexiletine blocks sodium channels with a stronger potency in situations of excessive burst of action potentials (use-dependent block) and/or prolonged depolarization (voltage-dependent block), as occurring in diseased tissues, rather than on physiological excitability (resting or tonic block). Mexiletine is, therefore, mostly active on muscle fibres subject to repeated discharges (such as skeletal
-
-<div style=\"page-break-after: always\"></div>
-
-Internal Doc Ref: v6.6
-
-muscles). It improves myotonic symptoms by decreasing muscle stiffness through reduction of the delay of muscle relaxation.
+Mexiletine blocks sodium channels with a stronger potency in situations of excessive burst of action potentials (use-dependent block) and/or prolonged depolarization (voltage-dependent block), as occurring in diseased tissues, rather than on physiological excitability (resting or tonic block). Mexiletine is, therefore, mostly active on muscle fibres subject to repeated discharges (such as skeletal muscles). It improves myotonic symptoms by decreasing muscle stiffness through reduction of the delay of muscle relaxation.
 
 ## Clinical efficacy and safety
 
-The efficacy and safety of mexiletine in non-dystrophic myotonia was evaluated in MYOMEX, a multi-centre, double-blind, placebo-controlled, cross-over (2 treatment periods of 18 days) study with a 4-day wash-out period in 13 patients with myotonia congenita (MC) and 12 patients with paramyotonia congenita (PC). Age of the overall study population ranged from 20 to 66 years old and about 2/3 of the patients were male. Patients who experienced myotonic symptoms that involved at least 2 segments and that had an impact on at least 3 daily activities were included into the study. The patients were randomized according to a cross-over design to a sequence including the 2 following treatments: a) mexiletine, started at 167 mg/day and titrated by increments of 167 mg every 3 days to reach a maximum dose of 500 mg/day in 1 week or b) placebo. 1
+## Adults from 18 years of age and above
 
-The primary efficacy measure for both MC and PC was the score of stiffness severity as self-reported by the patients on a Visual Analogue Scale (VAS). The VAS is constructed as an absolute measure, with a 100 mm straight horizontal line having the endpoints 'no stiffness at all' (0) and 'worst possible stiffness' (100). The main secondary endpoints were changes in health-related quality of life as measured by individualised neuromuscular quality of life (IN QoL ) scale and the time needed to stand up from a chair, walk around the chair and sit down again (chair test).
+The efficacy and safety of mexiletine in non-dystrophic myotonia was evaluated in MYOMEX, a multi-centre, double-blind, placebo-controlled, cross-over (2 treatment periods of 18 days) study with a 4-day wash-out period in 13 patients with myotonia congenita (MC) and 12 patients with paramyotonia congenita (PC). Age of the overall study population ranged from 20 to 66 years old and about 2/3 of the patients were male. Patients who experienced myotonic symptoms that involved at least 2 segments and that had an impact on at least 3 daily activities were included into the study. The patients were randomised according to a cross-over design to a sequence including the 2 following treatments: a) mexiletine, started at 167 mg/day and titrated by increments of 167 mg every 3 days to reach a maximum dose of 500 mg/day in 1 week or b) placebo. 1
 
-Results for the primary and key secondary endpoints are summarised in the table below.
+The primary efficacy measure for both MC and PC was the score of stiffness severity as self-reported by the patients on a Visual Analogue Scale (VAS). The VAS is constructed as an absolute measure, with a 100 mm straight horizontal line having the endpoints 'no stiffness at all' (0) and 'worst possible stiffness' (100). The main secondary endpoints were changes in health-related quality of life as measured by individualised neuromuscular quality of life (INQoL) scale and the time needed to stand up from a chair, walk around the chair and sit down again (chair test).
 
-|                                                                                           | Mexiletine    | Placebo      |
-|-------------------------------------------------------------------------------------------|---------------|--------------|
-| Primary Analysis Stiffness score (VAS) (mm)                                               |               |              |
-| Number of subjects                                                                        | 25            | 25           |
-| Median VAS value at baseline                                                              | 71.0          | 81.0         |
-| Median VAS value at day 18                                                                | 16.0          | 78.0         |
-| Median VAS absolute change from baseline                                                  | -42.0         | 2.0          |
-| Percentage of patients with an absolute VAS Change from b aseline ≥ 50 mmat day 18        | 12/21 (57.1%) | 3/22 (13.6%) |
-| Effect of treatment (Mixed Effect Linear Model)                                           | p < 0.001     | p < 0.001    |
-| Secondary Analysis Chair test (s)                                                         |               |              |
-| Number of subjects                                                                        | 25            | 25           |
-| Mean (SD) value at baseline                                                               | 7.3 (3.5)     | 7.3 (3.5)    |
-| Mean (SD) value at day 18                                                                 | 5.2 (1.6)     | 7.5 (4.1)    |
-| Mean (SD) absolute change from baseline                                                   | -2.1 (2.9)    | 0.2 (1.6)    |
-| Effect of treatment (Wilcoxon signed-rank test)                                           | p = 0.0007    | p = 0.0007   |
-| Secondary Analysis Individualised neuromuscular quality of life - Overall quality of life |               |              |
-| Number of subjects                                                                        | 25            | 25           |
-| Median value at baseline                                                                  | 51.1          | 51.1         |
-| Median value at day 18                                                                    | 23.3          | 48.3         |
-| Median absolute change from baseline                                                      | -25.0         | 1.1          |
-| Effect of treatment (linear mixed model)                                                  | p < 0.001     | p < 0.001    |
-| Secondary Analysis Clinical Global Impression (CGI) Efficacy index                        |               |              |
-| Number of subjects                                                                        | 25            | 25           |
-| CGI as judged efficient by the investigators                                              | 22 (91.7%)    | 5 (20.0%)    |
+Results for the primary and key secondary endpoints are summarised in Table 3 below.
+
+1 Clinical Study Report refers to 200 mg dose which is the amount of mexiletine hydrochloride (corresponding to 166.62 mg mexiletine base)
 
 <div style=\"page-break-after: always\"></div>
 
 Internal Doc Ref: v6.6
 
-| CGI as judged efficient by the patients                              | 23 (92.0%)   | 6 (24.0%)   |
-|----------------------------------------------------------------------|--------------|-------------|
-| Effect of treatment (Mc Nemar test)                                  | p < 0.001    | p < 0.001   |
-| Secondary Analysis Preference between the 2 treatment periods        |              |             |
-| Number of subjects                                                   | 25           | 25          |
-| Period preferred                                                     | 20 (80.0%)   | 5 (20.0%)   |
-| Effect of treatment (binomial test)                                  | p = 0.0041   | p = 0.0041  |
-| Secondary Analysis Clinical Myotonia Scale - Severity Global Score   |              |             |
-| Number of subjects                                                   | 25           | 25          |
-| Mean (SD) value at baseline                                          | 53.8 (10.0)  | 53.8 (10.0) |
-| Mean (SD) value at day 18                                            | 24.0 (17.1)  | 47.6 (23.3) |
-| Mean (SD) absolute change from baseline                              | -29.8 (16.0) | -6.2 (19.0) |
-| Effect of treatment (linear mixed model)                             | p < 0.001    | p < 0.001   |
-| Secondary Analysis Clinical Myotonia Scale - Disability Global Score |              |             |
-| Number of subjects                                                   | 25           | 25          |
-| Mean (SD) value at baseline                                          | 7.8 (2.8)    | 7.8 (2.8)   |
-| Mean (SD) value at day 18                                            | 2.7 (2.6)    | 7.0 (3.8)   |
-| Mean (SD) absolute change from baseline                              | -5.1 (3.1)   | -0.8 (3.4)  |
-| Effect of treatment (linear mixed model)                             | p < 0.001    | p < 0.001   |
+Table 3: Summary of results for the primary and key secondary endpoints
+
+|                                                             | Mexiletine    | Placebo      |
+|-------------------------------------------------------------|---------------|--------------|
+| Primary analysis Stiffness score (VAS) (mm)                 |               |              |
+| Number of subjects                                          | 25            | 25           |
+| Median VAS value at baseline                                | 71.0          | 81.0         |
+| Median VAS value at day 18                                  | 16.0          | 78.0         |
+| Median VAS absolute change from baseline                    | -42.0         | 2.0          |
+| Percentage of patients with an absolute VAS                 | 12/21 (57.1%) | 3/22 (13.6%) |
+| Change from baseline ≥ 50 mmat day 18                       |               |              |
+| Effect of treatment (Mixed Effect Linear Model)             | p < 0.001     |              |
+| Secondary analysis                                          |               |              |
+| Chair test (s)                                              |               |              |
+| Number of subjects                                          | 25            | 25           |
+| Mean (SD) value at baseline                                 | 7.3 (3.5)     |              |
+| Mean (SD) value at day 18                                   | 5.2 (1.6)     | 7.5 (4.1)    |
+| Mean (SD) absolute change from baseline                     | -2.1 (2.9)    | 0.2 (1.6)    |
+| Effect of treatment (Wilcoxon signed-rank test)             | p = 0.0007    |              |
+| Secondary analysis                                          |               |              |
+| Individualised neuromuscular quality of life - Overall life |               |              |
+| Number of subjects                                          | 25            | 25           |
+| Median value at baseline                                    | 51.1          |              |
+| Median value at day 18                                      | 23.3          | 48.3         |
+| Median absolute change from baseline                        | -25.0         | 1.1          |
+| Effect of treatment (linear mixed model)                    | p < 0.001     |              |
+| Secondary analysis                                          |               |              |
+| Clinical Global Impression (CGI) Efficacy index             |               |              |
+| Number of subjects                                          | 25            | 25           |
+| CGI as judged efficient by the investigators                | 22 (91.7%)    | 5 (20.0%)    |
+| CGI as judged efficient by the patients                     | 23 (92.0%)    | 6 (24.0%)    |
+| Effect of treatment (Mc Nemar test)                         | p < 0.001     |              |
+| Secondary analysis                                          |               |              |
+| Preference between the 2 treatment periods                  |               |              |
+| Number of subjects                                          | 25            | 25           |
+| Period preferred                                            | 20 (80.0%)    | 5 (20.0%)    |
+| Effect of treatment (binomial test)                         | p = 0.0041    |              |
+| Secondary analysis                                          |               |              |
+| Clinical Myotonia Scale - Severity Global Score             |               |              |
+| Number of subjects                                          | 25            | 25           |
+| Mean (SD) value at baseline                                 | 53.8 (10.0)   |              |
+| Mean (SD) value at day 18                                   | 24.0 (17.1)   | 47.6 (23.3)  |
+| Mean (SD) absolute change from baseline                     | -29.8 (16.0)  | -6.2 (19.0)  |
+| Effect of treatment (linear mixed model)                    | p < 0.001     |              |
+| Secondary Analysis                                          |               |              |
+| Clinical Myotonia Scale - Disability Global Score           |               |              |
+| Number of subjects                                          | 25            | 25           |
+| Mean (SD) value at baseline                                 | 7.8 (2.8)     |              |
+| Mean (SD) value at day 18                                   | 2.7 (2.6)     | 7.0 (3.8)    |
+| Mean (SD) absolute change from baseline                     | -5.1 (3.1)    | -0.8 (3.4)   |
+| Effect of treatment (linear mixed model)                    | p < 0.001     |              |
+
+<div style=\"page-break-after: always\"></div>
+
+Internal Doc Ref: v6.6
 
 ## Paediatric population
 
-The European Medicines Agency has deferred the obligation to submit the results of studies with Namuscla in all subsets of the paediatric population in the symptomatic treatment of myotonic disorders (see section 4.2 for information on paediatric use).
+## Children and adolescents from 6 years to 17 years of age
+
+An open-label, multi-centre, single arm, interventional study was conducted in paediatric population aged 6 to &lt; 18 years to evaluate the safety, steady-state PK, and efficacy of mexiletine for the treatment of myotonia.
+
+At Day 56 (End of Study, EOS), numerical changes from baseline were observed in the assessed efficacy endpoints (no formal statistical testing performed):
+
+- VAS assessments: numerical reductions from baseline were recorded in patient-reported stiffness, pain, and weakness/fatigue scores.
+- o Stiffness: mean change -53.7 (SD 19.62) in Cohort 1; -21.7 (SD 27.5) in Cohort 2; -44.1 (SD 25.77) overall.
+- o Pain: mean change -13.6 (SD 18.32) in Cohort 1; 4.3 (SD 19.86) in Cohort 2; -8.2 (SD 19.65) overall
+- o Weakness/fatigue: mean change -21.0 (SD 22.91) in Cohort 1; -17.0 (SD 41.87) in Cohort 2; -19.8 (SD 27.26) overall.
+- o FAS assessments: In Cohort 2, two subjects (aged 6-8 years) completed the Functional Assessment Scale showed change from baseline in stiffness score at EOS: -3 (SD 1.41) , c hange from baseline in pain score at EOS: -1 (SD 1.41) and change from baseline in weakness/fatigue score at EOS: 2 (SD 0).
+- Numerical improvements from baseline were recorded in patient- and parent-completed neuromuscular module scores, Myotonia Behaviour Scale (MBS) scores, and Paediatric Quality of Life Inventory (PedsQL) scores.
+- o Neuromuscular module (PedsQL), mean changes from baseline to EOS:
+-  Patient-reported: 11.7 (SD 10.69) in Cohort 1; 5.0 (SD 3.75) in Cohort 2; 9.3 (SD 9.18) overall.
+-  Parent-reported: 4.4 (SD 5.06) in Cohort 1; -1.0 (SD 20.09) in Cohort 2; 2.2 (SD 12.98) overall.
+- o The MBS was assessed at baseline and at EOS and numerical changes from baseline were as follows:
+-  The mean (SD) change in MBS score at EOS was -1.7 (1.11) in Cohort 1, -0.2 (0.84) in Cohort 2, and -1.1 (1.24) overall.
+-  At EOS, 8 of 12 subjects (66.7%) showed a reduction in MBS score compared to baseline, 3 of 12 (25.0%) showed no change, and 1 of 12 (8.3%) had an increase in score.
+- At EOS, 11 of 12 subjects (92%) were rated as 'very efficient' or 'good' by investigator/parent/patient assessments.
+- Handgrip myotonia: relaxation time showed a numerical decrease from baseline over the treatment period.
+- o - 0.06 s (SD 0.10) in Cohort 1
+- o - 0.11 s (SD 0.21) in Cohort 2
+- o - 0.09 s (SD 0.16) overall.
+
+## Children less than 6 years of age
+
+Due to the rarity and heterogeneity of myotonia in this age group, no data are available in children younger than 6 years of age, and the safety and efficacy in this age group have not been established (see section 4.2).
 
 ## 5.2 Pharmacokinetic properties
 
 ## Absorption
 
-Mexiletine is rapidly and almost completely absorbed following oral administration with a bioavailability of about 90% in healthy subjects. Peak plasma concentrations following oral administration occur within 2 to 3 hours. No notable accumulation of mexiletine was observed after repeated administration.
+Mexiletine is rapidly and almost completely absorbed following oral administration with a bioavailability of about 90% in healthy subjects. Peak plasma concentrations following oral Internal Doc Ref: v6.6
+
+<div style=\"page-break-after: always\"></div>
+
+administration occur within 2 to 3 hours. No notable accumulation of mexiletine was observed after repeated administration.
 
 Food does not affect the rate or extent of absorption of mexiletine. Therefore, mexiletine can be taken with or without food.
+
+At the maximum adult dose (200 mg TID; 600 mg/day), the mean plasma concentration measured 2 hours post-dose (C2h) at steady state was 1.10 mcg/mL (SD 0.42, n=24). In paediatric patients at the maximum studied dose (167 mg TID; 501 mg/day), the geometric mean Cmax was 1.39 mc g/mL, and the geometric mean AUCτ,ss was 8 552 mcg·h/L, both measured at steady state (day 42).
+
+Both adult and paediatric exposures were comparable.
 
 ## Distribution
 
@@ -399,15 +503,9 @@ Mexiletine crosses the placental barrier and diffuses into breast milk.
 
 ## Biotransformation
 
-Mexiletine is mainly (90%) metabolized in the liver, the primary pathway being CYP2D6 metabolism, although it is also a substrate for CYP1A2. The metabolic degradation proceeds via various pathways, including aromatic and aliphatic hydroxylation, dealkylation, deamination and N-oxidation. Several of the resulting metabolites are submitted to further conjugation with glucuronic acid (phase II metabolism); among these are the major metabolites p-hydroxymexiletine, hydroxy-methylmexiletine and N-hydroxymexiletine.
+Mexiletine is mainly (90%) metabolised in the liver, the primary pathway being CYP2D6 metabolism, although it is also a substrate for CYP1A2. The metabolic degradation proceeds via various pathways, including aromatic and aliphatic hydroxylation, dealkylation, deamination and N-oxidation. Several of the resulting metabolites are submitted to further conjugation with glucuronic acid (phase II metabolism); among these are the major metabolites p-hydroxymexiletine, hydroxy-methylmexiletine and N-hydroxymexiletine.
 
-The influence of CYP2D6 phenotype on mexiletine metabolism has been extensively investigated. Mexiletine pharmacokinetics are characterised by significantly lower total and renal clearance
-
-<div style=\"page-break-after: always\"></div>
-
-Internal Doc Ref: v6.6
-
-resulting in prolonged elimination half-life, higher exposure, and lower volume of distribution in poor metabolisers compared to extensive metabolisers.
+The influence of CYP2D6 phenotype on mexiletine metabolism has been extensively investigated. Mexiletine pharmacokinetics are characterised by significantly lower total and renal clearance resulting in prolonged elimination half-life, higher exposure, and lower volume of distribution in poor metabolisers compared to extensive metabolisers.
 
 Approximately 10% is excreted unchanged by the kidney.
 
@@ -427,7 +525,13 @@ A linear relationship between mexiletine dose and plasma concentration has been 
 
 ## CYP2D6 polymorphism
 
-CYP2D6 polymorphism affects mexiletine pharmacokinetics. Individuals who are CYP2D6 poor metabolisers (PM) exhibit higher mexiletine concentrations than CYP2D6 intermediate (IM), extensive (i.e. normal) or ultra-rapid (UM) metabolisers. The proportions of different ethnic populations across these various classes are tabulated below.
+CYP2D6 polymorphism affects mexiletine pharmacokinetics. Individuals who are CYP2D6 poor metabolisers (PM) exhibit higher mexiletine concentrations than CYP2D6 intermediate (IM), extensive (i.e. normal) or ultra-rapid (UM) metabolisers. The proportions of different ethnic populations across these various classes are tabulated in Table 4 below.
+
+<div style=\"page-break-after: always\"></div>
+
+Internal Doc Ref: v6.6
+
+Table 4 Proportions of different ethnic populations across CYP2D6 classes
 
 | Ethnicity   | Poor metabolisers (PM)   | Intermediate metabolisers (IM)   | Ultra-rapid metabolisers(UM)   |
 |-------------|--------------------------|----------------------------------|--------------------------------|
@@ -435,11 +539,11 @@ CYP2D6 polymorphism affects mexiletine pharmacokinetics. Individuals who are CYP
 | Africans    | Up to 10%                | -                                | Up to 5%                       |
 | Asians      | Up to 5%                 | More than 50%                    | Up to 2%                       |
 
-## Weight
+Weight
 
 In population pharmacokinetic analyses, weight was found to influence mexiletine pharmacokinetics.
 
-## Age
+Age
 
 There is no clinically relevant effect of age on the exposure of mexiletine in adults.
 
@@ -447,39 +551,49 @@ There is no clinically relevant effect of age on the exposure of mexiletine in a
 
 Non-clinical data reveal no special hazard for humans based on studies of safety pharmacology, repeated dose toxicity, toxicity to reproduction and development. The main observed effects in rats and/or dogs were vomiting, diarrhoea, tremor, ataxia, convulsions and tachycardia. However, these studies were not performed in accordance with contemporary standards and are, hence, of unclear clinical relevance.
 
-The studies in rats on carcinogenic potential were negative, but not performed in accordance with current standards and therefore of unclear clinical relevance. The negative genotoxicity potential does not indicate an increased carcinogenic risk of treatment with mexiletine.
+The toxicology studies include 1 repeated dose toxicity study in dogs, 2 carcinogenicity studies in mice and rats and 8 reproductive and developmental toxicity studies in rats and rabbits.
+
+A GLP-compliant juvenile toxicity study in rats did not reveal adverse effects, however, the maximum exposures were below or around the human exposures.
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
 ## 6.1 List of excipients
 
-<div style=\"page-break-after: always\"></div>
-
-Internal Doc Ref: v6.6
-
-## Capsule content
+Capsule content
 
 Maize starch Colloidal anhydrous silica Magnesium stearate
 
-Capsule shell
+Capsule shell (Namuscla 62 mg hard capsules)
 
-Iron (III) oxide hydrated (E 172) Titanium dioxide (E 171) Gelatin
+Titanium dioxide (E 171)
+
+Gelatin
+
+Capsule shell (Namuscla 83 mg and 167 mg hard capsules)
+
+Iron (III) oxide hydrated (E 172)
+
+Titanium dioxide (E 171) Gelatin
 
 ## 6.2 Incompatibilities
 
 Not applicable.
 
+<div style=\"page-break-after: always\"></div>
+
+Internal Doc Ref: v6.6
+
 ## 6.3 Shelf life
 
-3 years.
+3 years
 
 ## 6.4 Special precautions for storage
 
-Do not store above 30°C. Store in the original package in order to protect from moisture.
+Do not store above 30 °C. Store in the original package in order to protect from moisture.
 
 ## 6.5 Nature and contents of container
 
-Namuscla 167mg capsules are packed in aluminium/PVC/PVDC blisters containing 30, 50, 100 or 200 capsules in a carton.
+Namuscla hard capsules are packed in Aluminium/PVC/PVDC blisters containing 30, 50, 100, 200 or 300 capsules in a carton.
 
 Not all pack sizes may be marketed.
 
@@ -493,49 +607,37 @@ Lupin Europe GmbH Hanauer Landstraße 139-143, 60314 Frankfurt am Main Germany
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/18/1325/001 - 004
+EU/1/18/1325/001 - 014
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-Date of first authorisation: 18.12.2018
+Date of first authorisation: 18/12/2018
 
-Date of latest renewal: 09.08.2023
-
-<div style=\"page-break-after: always\"></div>
-
-Internal Doc Ref: v6.6
+Date of latest renewal: 09/08/2023
 
 ## 10. DATE OF REVISION OF THE TEXT
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu.
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
+
+15
 
 <div style=\"page-break-after: always\"></div>
 
 Internal Doc Ref: v6.6
 
-## ANNEX II
+## ANNEX II A. MANUFACTURER RESPONSIBLE FOR BATCH RELEASE B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND
 
-- A. MANUFACTURER(S) RESPONSIBLE FOR BATCH RELEASE
-
-## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
-
-## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
-
-## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
+## D. EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
 <div style=\"page-break-after: always\"></div>
 
 Internal Doc Ref: v6.6
 
-## A. MANUFACTURER(S) RESPONSIBLE FOR BATCH RELEASE
+## A. MANUFACTURER RESPONSIBLE FOR BATCH RELEASE
 
-Name and address of the manufacturer(s) responsible for batch release
+Name and address of the manufacturer responsible for batch release
 
 Hormosan Pharma GmbH Hanauer Landstraße 139-143, 60314 Frankfurt am Main Germany
-
-Lupin Healthcare (UK) Ltd The Urban Building, second floor, 3-9 Albert Street SL1 2BE Slough, Berkshire, United Kingdom
-
-The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.
 
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
@@ -557,20 +659,21 @@ An updated RMP should be submitted:
 
 - At the request of the European Medicines Agency;
 - Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
-- Additional risk minimisation measures
+
+## · Additional risk minimisation measures
+
+Prior to launch of Namuscla in each Member State (MS) the Marketing Authorisation Holder (MAH) must agree about the content and format of the educational programme, including communication media, distribution modalities, and any other aspects of the programme, with the National Competent Authority (NCA).
+
+In order to prevent and / or minimise the important identified risks of Cardiac Arrhythmia in patients with Dystrophic Myotonia (off-label use) and Decreased Namuscla clearance, thus the risk of adverse reactions in patients with hepatic impairment, the MAH shall ensure that in each MS where Namuscla is marketed, all healthcare professionals (HCPs) and patients are provided, respectively, with:
+
+- Educational guide for HCPs;
+- Patient alert card
 
 <div style=\"page-break-after: always\"></div>
 
 Internal Doc Ref: v6.6
 
-Prior to launch of Namuscla in each Member State (MS) the Marketing Authorisation Holder (MAH) must agree about the content and format of the educational programme, including communication media, distribution modalities, and any other aspects of the programme, with the National Competent Authority (NCA).
-
-In order to prevent and / or minimise the important identified risks of Cardiac Arrhythmia in patients with Dystrophic Myotonia (off-label use) and Decreased Namuscla clearance, thus the risk of adverse reactions  in  patients  with  hepatic  impairment,  the  MAH  shall  ensure  that  in  each  MS  where Namuscla is marketed, all healthcare professionals (HCPs) and patients are provided, respectively, with:
-
-- Educational guide for HCPs;
-- Patient alert card
-
-The Educational guide for HCPs, which should always be read in conjunction with the Summary of Product  Characteristics  (SmPC)  before  prescribing  Namuscla,  should  contain  the  following  key elements:
+The Educational guide for HCPs, which should always be read in conjunction with the Summary of Product Characteristics (SmPC) before prescribing Namuscla, should contain the following key elements:
 
 - Information about the risk of cardiac arrhythmias in patients using Namuscla;
 - Guidance to identify (and exclude) patients at a greater risk of developing arrhythmias due to Namuscla treatment;
@@ -578,24 +681,24 @@ The Educational guide for HCPs, which should always be read in conjunction with 
 - Before starting treatment, HCPs should perform a detailed and careful cardiac evaluation in all patients, in order to determine the cardiac tolerability of Namuscla. A cardiac evaluation is also recommended shortly after starting Namuscla (e.g. within 48 hours).
 - Throughout treatment with Namuscla:
 - o In patients without cardiac abnormalities, an electrocardiogram (ECG) monitoring should be performed periodically (every 2 years or more frequently, if considered necessary);
-- o In patients with cardiac abnormalities, and in patients prone to such abnormalities, a detailed cardiac evaluation, including ECG should be carried out before and after any dose increase. During  maintenance  treatment,  detailed  cardiac  evaluation  including  ECG,  24-48  hour Holter-monitoring  and  echocardiography,  is  recommended  at  least  annually,  or  more frequently if considered necessary as part of routine cardiac assessment.
+- o In patients with cardiac abnormalities, and in patients prone to such abnormalities, a detailed cardiac evaluation, including ECG should be carried out before and after any dose increase. During maintenance treatment, detailed cardiac evaluation including ECG, 24-48 hour Holtermonitoring and echocardiography, is recommended at least annually, or more frequently if considered necessary as part of routine cardiac assessment.
 - Namuscla should be stopped immediately if the patient develops cardiac abnormalities,  is  not responding or experiencing benefit within Namuscla long-term treatment;
-- Highlight  the  risk  of  decreased  Namuscla  clearance  in  patients  with  hepatic  impairment  and provide  guidance  on  how  to  treat  those  patients  in  order  to  prevent  it,  ensuring  Namuscla cautious titration in patients with mild or moderate hepatic impairment (increasing the dose after at  least  2  weeks  of  treatment).  Namuscla  should  not  be  used  in  patients  with  severe  hepatic impairment;
+- Highlight  the  risk  of  decreased  Namuscla  clearance  in  patients  with  hepatic  impairment  and provide guidance on how to treat those patients in order to prevent it, ensuring Namuscla cautious titration in patients with mild or moderate hepatic impairment (increasing the dose after at least 2 weeks of treatment). Namuscla should not be used in patients with severe hepatic impairment;
 - HCPs should counsel patients on:
 - o The risk of cardiac arrhythmias (informing about symptoms of arrhythmias, advising patients to  contact  immediately  their  HCP,  or  emergency  centres,  if  they  experience  any  of  these symptoms);
+- o The  risk  of  decreased  Namuscla  clearance  in  patients  with  hepatic  impairment  (advising patients to inform their HCP if they have any underlying hepatic disorder);
+- Reporting of adverse reactions in patients using Namuscla.
+
+The patient alert card (wallet size), to be handed by prescribing specialist and to be read in conjunction with the patient leaflet, should contain the following key messages:
+
+- Patients should carry the card at all times, and show it at all medical visits to HCPs other than the prescriber (e.g. emergency HCPs);
+- Prompts to enter the contact details of the patient, the treating physician, and Namuscla treatment starting date;
+- Inform  patients  that,  before  starting  and  throughout  treatment  with  Namuscla,  HCPs  should perform a detailed and careful cardiac evaluation;
 
 <div style=\"page-break-after: always\"></div>
 
 Internal Doc Ref: v6.6
 
-- o The  risk  of  decreased  Namuscla  clearance  in  patients  with  hepatic  impairment  (advising patients to inform their HCP if they have any underlying hepatic disorder);
-- Reporting of adverse reactions in patients using Namuscla.
-
-The  patient  alert  card  (wallet  size),  to  be  handed  by  prescribing  specialist  and  to  be  read  in conjunction with the patient leaflet, should contain the following key messages:
-
-- Patients should carry the card at all times, and show it at all medical visits to HCPs other than the prescriber (e.g. emergency HCPs);
-- Prompts to enter the contact details of the patient, the treating physician, and Namuscla treatment starting date;
-- Inform  patients  that,  before  starting  and  throughout  treatment  with  Namuscla,  HCPs  should perform a detailed and careful cardiac evaluation;
 - Patients  should  inform  the  HCP  about  any  ongoing  medications  or  before  starting  any  new medication, while on treatment with Namuscla;
 - Information  about  symptoms  of  cardiac  arrhythmias,  which  can  be  life-threatening,  and  when patients should seek HCP attention;
 - Patients should not take more than 3 capsules of Namuscla per day or a double dose to make up for a forgotten dose;
@@ -624,24 +727,27 @@ CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Namuscla 167 mg hard capsules mexiletine
+Namuscla 62 mg hard capsules
+
+mexiletine
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
-Each hard capsule contains mexiletine hydrochloride corresponding to 166.62 mg of mexiletine
+Each hard capsule contains mexiletine hydrochloride corresponding to 62.48 mg mexiletine
 
 ## 3. LIST OF EXCIPIENTS
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-- 30 hard capsules
-- 50 hard capsules
-- 100 hard capsules
-- 200 hard capsules
+- 30 capsules
+- 50 capsules
+- 100 capsules
+- 200 capsules
+- 300 capsules
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-Read the package leaflet before use
+Read the package leaflet before use.
 
 Oral use
 
@@ -667,41 +773,43 @@ Internal Doc Ref: v6.6
 
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
-| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|--------------------------------------------------------|
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Lupin Europe GmbH Hanauer Landstraße 139-143, 60314 Frankfurt am Main Germany
+Lupin Europe GmbH Hanauer Landstraße 139-143 60314 Frankfurt am Main Germany
 
-| 12. MARKETING AUTHORISATION NUMBER(S)   |
-|-----------------------------------------|
+## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/18/1325/001 - 004
+EU/1/18/1325/010 - 30 hard capsules
 
-| 13.   | BATCH NUMBER   |
-|-------|----------------|
+EU/1/18/1325/011 - 50 hard capsules
+
+EU/1/18/1325/012 - 100 hard capsules
+
+EU/1/18/1325/013 - 200 hard capsules
+
+EU/1/18/1325/014 - 300 hard capsules
+
+## 13. BATCH NUMBER
 
 Lot
 
-| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
-|-------|-------------------------------------|
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-| 15.   | INSTRUCTIONS ONUSE   |
-|-------|----------------------|
+## 15. INSTRUCTIONS ON USE
 
-| 16.   | INFORMATION IN BRAILLE   |
-|-------|--------------------------|
+## 16. INFORMATION IN BRAILLE
 
-Namuscla 167
+Namuscla 62
 
-| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
-|-------|----------------------------------|
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC SN
+PC
+
+SN
 
 NN
 
@@ -709,24 +817,247 @@ NN
 
 Internal Doc Ref: v6.6
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
-|-----------------------------------------------------|
-| BLISTERS                                            |
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+CARTON
 
-| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
-|------|-------------------------------------------|
+## 1. NAME OF THE MEDICINAL PRODUCT
 
-| 3.   | EXPIRY DATE   |
-|------|---------------|
+Namuscla 83 mg hard capsules
 
-| 4.   | BATCH NUMBER   |
-|------|----------------|
+mexiletine
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+
+Each hard capsule contains mexiletine hydrochloride corresponding to 83.31 mg mexiletine
+
+## 3. LIST OF EXCIPIENTS
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+- 30 capsules
+- 50 capsules
+- 100 capsules
+- 200 capsules
+- 300 capsules
+
+## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+
+Read the package leaflet before use.
+
+Oral use
+
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
+Keep out of the sight and reach of children.
+
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+## 8. EXPIRY DATE
+
+EXP
+
+## 9. SPECIAL STORAGE CONDITIONS
+
+Do not store above 30°C.
+
+Store in the original package in order to protect from moisture.
+
+<div style=\"page-break-after: always\"></div>
+
+Internal Doc Ref: v6.6
+
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+
+Lupin Europe GmbH Hanauer Landstraße 139-143 60314 Frankfurt am Main Germany
+
+## 12. MARKETING AUTHORISATION NUMBER(S)
+
+EU/1/18/1325/005 - 30 hard capsules
+
+EU/1/18/1325/006 - 50 hard capsules
+
+EU/1/18/1325/007 - 100 hard capsules
+
+EU/1/18/1325/008 - 200 hard capsules
+
+EU/1/18/1325/009 - 300 hard capsules
+
+## 13. BATCH NUMBER
+
+Lot
+
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
+
+## 15. INSTRUCTIONS ON USE
+
+## 16. INFORMATION IN BRAILLE
+
+Namuscla 83
+
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
+
+2D barcode carrying the unique identifier included.
+
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+
+PC
+
+SN
+
+NN
+
+<div style=\"page-break-after: always\"></div>
+
+Internal Doc Ref: v6.6
+
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
+
+CARTON
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Namuscla 167 mg hard capsules
+
+mexiletine
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+
+Each hard capsule contains mexiletine hydrochloride corresponding to 166.62 mg mexiletine
+
+## 3. LIST OF EXCIPIENTS
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+- 30 hard capsules
+- 50 hard capsules
+- 100 hard capsules
+- 200 hard capsules
+
+## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+
+Read the package leaflet before use.
+
+Oral use
+
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
+Keep out of the sight and reach of children.
+
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+## 8. EXPIRY DATE
+
+EXP
+
+## 9. SPECIAL STORAGE CONDITIONS
+
+Do not store above 30°C.
+
+Store in the original package in order to protect from moisture.
+
+<div style=\"page-break-after: always\"></div>
+
+Internal Doc Ref: v6.6
+
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+
+Lupin Europe GmbH Hanauer Landstraße 139-143, 60314 Frankfurt am Main Germany
+
+## 12. MARKETING AUTHORISATION NUMBER(S)
+
+EU/1/18/1325/001 - 30 hard capsules
+
+EU/1/18/1325/002 - 50 hard capsules
+
+EU/1/18/1325/003 - 100 hard capsules
+
+EU/1/18/1325/004 - 200 hard capsules
+
+## 13. BATCH NUMBER
+
+Lot
+
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
+
+15. INSTRUCTIONS ON USE
+
+## 16. INFORMATION IN BRAILLE
+
+Namuscla 167
+
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
+
+2D barcode carrying the unique identifier included.
+
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+
+PC
+
+SN
+
+NN
+
+<div style=\"page-break-after: always\"></div>
+
+Internal Doc Ref: v6.6
+
+## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
+
+## BLISTERS
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Namuscla 62 mg capsules mexiletine
+
+## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
+
+Lupin Europe GmbH
+
+3. EXPIRY DATE
+
+EXP
+
+## 4. BATCH NUMBER
+
+Lot
+
+5. OTHER
 
 | 5.   | OTHER   |
 |------|---------|
+
+<div style=\"page-break-after: always\"></div>
+
+Internal Doc Ref: v6.6
+
+## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS BLISTERS
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Namuscla 83 mg capsules mexiletine
+
+## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
+
+Lupin Europe GmbH
+
+3. EXPIRY DATE
+
+EXP
+
+## 4. BATCH NUMBER
+
+Lot
+
+5. OTHER
+
+<div style=\"page-break-after: always\"></div>
+
+Internal Doc Ref: v6.6
 
 ## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS BLISTERS
 
@@ -742,7 +1073,7 @@ Lupin Europe GmbH
 
 EXP
 
-4. BATCH NUMBER
+## 4. BATCH NUMBER
 
 Lot
 
@@ -760,9 +1091,9 @@ Internal Doc Ref: v6.6
 
 ## Package leaflet: Information for the patient
 
-## Namuscla 167 mg hard capsules
+Namuscla 62 mg hard capsules Namuscla 83 mg hard capsules Namuscla 167 mg hard capsules
 
-## mexiletine
+mexiletine
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
@@ -771,7 +1102,7 @@ Internal Doc Ref: v6.6
 - -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
 - -If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
 
-There is an Alert Card distributed with Namuscla, to remind you and medical staff of the risk of cardiac arrythmias. Read the Alert Card in conjunction with this leaflet and keep the card it with you at all times .
+There is an Alert Card distributed with Namuscla, to remind you and medical staff of the risk of cardiac arrythmias. Read the Alert Card in conjunction with this leaflet and keep the card with you at all times .
 
 ## What is in this leaflet
 
@@ -786,38 +1117,38 @@ There is an Alert Card distributed with Namuscla, to remind you and medical staf
 
 Namuscla is a medicine that contains the active substance mexiletine.
 
-Namuscla is used to treat the symptoms of myotonia (when muscles relax slowly and with difficulty after they are used) in adults with non-dystrophic myotonic disorders, which are caused by genetic defects that affect muscle function. Namuscla improves the symptoms of muscle stiffness and helps the patient to perform their daily activities.
+Namuscla is used to treat the symptoms of myotonia (when muscles relax slowly and with difficulty after they are used) in children aged 6 to 11 years weighing at least 20 kg, adolescents aged 12 to 17 years and adults patients ages 18 years and above with non-dystrophic myotonic disorders, which are caused by genetic defects that affect muscle function. Namuscla improves the symptoms of muscle stiffness and helps the patient to perform their daily activities.
 
 ## 2. What you need to know before you take Namuscla
 
 ## Do not take Namuscla
 
-- -If you are allergic to mexiletine or to any of the other ingredients of this medicine (listed in section 6)
+- -if you are allergic to mexiletine or any of the other ingredients of this medicine (listed in section 6)
 - -If you are allergic to any local anaesthetic
-- -If you have had heart attack
-- -If your heart does not work well enough
-- -If you have a heart condition that makes it beat irregularly.
-- -If your heart beats too fast
-- -If the blood vessels of your heart are damaged
-- -If you also take certain medicines to treat disorders of the heart rhythm (see 'Other medicines and Namuscla')
-- -If you also take certain medicines which have a narrow therapeutic window (see 'Other medicines and Namuscla').
+- -if you have had heart attack
+- -if your heart does not work well enough
+- -if you have a heart condition that makes it beat irregularly
+- -if your heart beats too fast
+- -if the blood vessels of your heart are damaged
+- -if you also take certain medicines to treat heart rhythm disorders (see Other medicines and Namuscla)
+- -if you also take certain medicines which have a narrow therapeutic window (see Other medicines and Namuscla).
 
 If you have any doubt, ask your doctor or pharmacist.
-
-## Warnings and precautions
-
-Talk to your doctor or pharmacist or nurse before taking Namuscla if you have:
 
 <div style=\"page-break-after: always\"></div>
 
 Internal Doc Ref: v6.6
 
-- -Heart problems
-- -Liver problems
-- -Kidney problems
-- -Low or high potassium blood levels
-- -Low magnesium blood levels
-- -Epilepsy
+## Warnings and precautions
+
+Talk to your doctor or pharmacist or nurse before taking Namuscla if you have:
+
+- -heart problems
+- -liver problems
+- -kidney problems
+- -low or high potassium blood levels
+- -low magnesium blood levels
+- -epilepsy
 
 ## Heart function
 
@@ -833,11 +1164,11 @@ Your doctor may measure your potassium and magnesium levels in the blood before 
 
 ## Drug reaction with eosinophilia and systemic symptoms (DRESS)
 
-If you are hypersensitive to mexiletine or any other ingredients of this product or to any local anaesthetic do not take Namuscla and contact your doctor immediately. Symptoms of hypersensitivity and DRESS include fever, skin rash and blisters, swollen face and swollen lymph glands.
+If you are hypersensitive to mexiletine or any other ingredients of this medicine or to any local anaesthetic do not take Namuscla and contact your doctor immediately. Symptoms of hypersensitivity and DRESS include fever, skin rash and blisters, swollen face and swollen lymph glands.
 
 ## Children and adolescents
 
-Namuscla should not be used in children and adolescents younger than 18 years old.
+Namuscla should not be used in children under 6 years of ageor weighing below 20 kg since no clinical studies have been carried out in this age group.
 
 ## Other medicines and Namuscla
 
@@ -845,18 +1176,18 @@ Tell your doctor or pharmacist if you are taking, have recently taken or might t
 
 Do not take Namuscla with certain medicines for treating heart rhythm disorders (quinidine, procainamide, disopyramide, ajmaline, encainide, flecainide, propafenone, moricizine, amiodarone, sotalol, ibutilide, dofetilide, dronedarone, vernakalant). See section 'Do not take Namuscla'. Taking Namuscla together with any of these medicines increases the risk of a serious heart rhythm disturbance called torsades de pointes.
 
-Do not take Namuscla with certain medicines which have a so called narrow therapeutic window (these are medicines where small differences in dose or blood concentration may impact the effect of the medicine or side effects). Examples of such medicines are digoxin (for heart problems), lithium (mood stabiliser), phenytoin (for treating epilepsy), theophylline (against asthma) and warfarin (against blood clots).
+Do not take Namuscla with certain medicines which have a so called narrow therapeutic window (these are medicines where small differences in dose or blood concentration may impact the effect of the medicine or side effects). Examples of such medicines are digoxin (for heart problems), lithium (mood stabiliser), phenytoin (for treating epilepsy), theophylline (forasthma) and warfarin (to prevent blood clots).
 
 Tell your doctor or pharmacist if you are taking any of the following since these medicines may affect or be affected by Namuscla:
 
 - Medicines for heart problems (lidocaine, tocainide, propranolol, esmolol, metoprolol, atenolol, carvedilol, bisoprolol, nebivolol, verapamil, diltiazem),
-- Certain other medicines:
-- o Timolol for treating high pressure in the eye (glaucoma),
 
 <div style=\"page-break-after: always\"></div>
 
 Internal Doc Ref: v6.6
 
+- Certain other medicines:
+- o Timolol for treating high pressure in the eye (glaucoma),
 - o Certain antibiotics (ciprofloxacin, rifampicin),
 - o Certain antidepressants (fluvoxamine),
 - o Tizanidine (used to relax the muscles),
@@ -865,7 +1196,7 @@ Internal Doc Ref: v6.6
 
 ## Smoking and Namuscla
 
-Tell your doctor or pharmacist if you start to smoke or quit smoking while taking Namuscla because smoking impacts the Namuscla blood levels and your dose may need to be adjusted accordingly.
+Tell your doctor or pharmacist if you start to smoke or quit smoking while taking Namuscla. This is because smoking impacts the Namuscla blood levels and your dose may need to be adjusted accordingly.
 
 ## Namuscla with drink
 
@@ -875,19 +1206,44 @@ It is recommended to reduce your caffeine intake by half while on treatment with
 
 If you are pregnant or breast-feeding, think you may be pregnant or are planning to have a baby, ask your doctor for advice before taking this medicine. If you become pregnant while taking Namuscla, see your doctor immediately as it is preferable not to take Namuscla while you are pregnant.
 
-Mexiletine passes into human milk. You should talk to your doctor about this, together you will make a decision whether to abstain breast-feeding or to discontinue/abstain from mexiletine therapy.
+Mexiletine passes into human milk. You should talk to your doctor about this. Together you will make a decision whether to abstain breast-feeding or to discontinue/abstain from mexiletine therapy.
 
 ## Driving and using machines
 
-Namuscla may in rare cases cause tiredness, confusion, blurred vision: If you have these effects do not drive, cycle and use machines.
+Namuscla may cause tiredness, confusion, blurred vision. If you have these effects do not drive, cycle and use machines.
 
 ## 3. How to take Namuscla
 
 Always take this medicine exactly as your doctor or pharmacist has told you. Check with your doctor or pharmacist if you are not sure.
 
+Namuscla 167 mg hard capsules:
+
+Adults from 18 years of age and above
+
 The recommended starting dose is 1 capsule per day. The doctor will increase the dose gradually depending on how well the medicine is working. The maintenance dose is 1 to 3 capsules daily taken at regular intervals throughout the day, as recommended.
 
 Do not take more than 3 capsules a day.
+
+Namuscla 62 mg, 83 mg and 167 mg hard capsules:
+
+Children and adolescents (from 6 to 17 years of age)
+
+In children from 6 years of age and adolescents, the recommended dose depends on body weight (Table 1):
+
+Table 1: Recommended doses in paediatric patients
+
+| Body weight (kg)   | Once daily (morning)   | Twice daily (morning and evening)   | Three times daily (morning, afternoon and evening)   | Maximum total daily dose   |
+|--------------------|------------------------|-------------------------------------|------------------------------------------------------|----------------------------|
+| 20-30 kg           | 62 mg (1 x 62 mg)      | 124 mg (2 x 62 mg)                  | 186 mg (3 x 62 mg)                                   | ≈187 mg/day                |
+
+<div style=\"page-break-after: always\"></div>
+
+Internal Doc Ref: v6.6
+
+| 30-40 kg   | 83 mg (1 x 83 mg)                | 166 mg (2 x 83 mg)               | 249 mg (3 x 83 mg) Alternative: 248 mg (4 × 62 mg)   | ≈250 mg/day   |
+|------------|----------------------------------|----------------------------------|------------------------------------------------------|---------------|
+| 40-60 kg   | 124 mg (2 x 62 mg)               | 248 mg (4 x 62 mg)               | 372 mg (6 x 62 mg)                                   | ≈375 mg/day   |
+| ≥ 60 kg    | 167 mg (1 x 167 mg or 2 x 83 mg) | 334 mg (2 x 167 mg or 4 x 83 mg) | 501 mg (3 x 167 mg or 6 x 83 mg)                     | 500 mg/day    |
 
 Your doctor will also regularly reassess your treatment to make sure Namuscla is still the best medicine for you.
 
@@ -895,7 +1251,9 @@ Your doctor will also regularly reassess your treatment to make sure Namuscla is
 
 Namuscla is for oral use.
 
-Swallow the whole capsule with a glass of water, while standing or sitting up. You may take Namuscla during a meal to avoid belly pain (see section 'Possible side effects').
+Swallow the whole capsule with a glass of water, while standing or sitting up. You may take Namuscla during a meal to avoid belly pain (see section 4 'Possible side effects').
+
+Namuscla capsules should not be opened or administered via feeding tube. Talk to your doctor if you have difficulty swallowing this medicine.
 
 ## If you take more Namuscla than you should
 
@@ -903,11 +1261,7 @@ Contact your doctor if you take more than the recommended dose of Namuscla. This
 
 ## If you forget to take Namuscla
 
-<div style=\"page-break-after: always\"></div>
-
-Internal Doc Ref: v6.6
-
-If you have forgotten a dose, do not take a double dose and take the next dose at your regular schedule.
+If you have forgotten a dose, do not take a double dose. Just take the next dose at your regular time.
 
 If you have further questions on the use of this medicine, ask your doctor or pharmacist.
 
@@ -919,20 +1273,25 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 Contact your doctor or go to your nearest emergency centre immediately if you experience any of the following side effects:
 
-- Stevens-Johnson syndrome (SJS): a severe allergic reaction with skin rashes, often in the form of blisters and sores in the mouth and eyes and other mucous membranes. This is a very rare side effect and may affect up to 1 in 10,000 people.
-- A condition called DRESS with blisters of the skin and feeling unwell with fever. This is a very rare side effect and may affect up to 1 in 1,000 people.
-- Arrhythmia and other disorders of the heart rhythm (atrioventricular block, rapid heart rate,
-- ventricular fibrillation). These are common side effects, may affect up to 1 in 10 people, see section 'Warnings and precautions' for symptoms and more information.
-- severe allergy to mexiletine (with symptoms such as severe rash with fever); this is a very rare side effect, may affect up to 1 in 1,000 people.
+- Stevens-Johnson syndrome (SJS): a severe allergic reaction with skin rashes, often in the form of blisters and sores in the mouth and eyes and other mucous membranes. This side effect has a frequency that is not known (cannot be estimated from available data).
+- A condition called DRESS with blisters of the skin and feeling unwell with fever. This is a very rare side effect and may affect up to 1 in 10 000 people.
+- Arrhythmia and other disorders of the heart rhythm (atrioventricular block, rapid heart rate, ventricular fibrillation). These are common side effects, may affect up to 1 in 10 people, see section
+- 'Warnings and precautions' for symptoms and more information.
+
+<div style=\"page-break-after: always\"></div>
+
+Internal Doc Ref: v6.6
+
+- severe allergy to mexiletine (with symptoms such as severe rash with fever); this is a very rare side effect, may affect up to 1 in 10 000 people.
 
 ## Other side effects that may occur:
 
-Very common side effects (may affect more than 1 in 10 people):
+Very common side effects (may affect more than 1 in 10 people)
 
 - Abdominal (belly) pain
 - Insomnia (difficulty sleeping)
 
-Common side effects (may affect up to 1 in 10 people):
+Common side effects (may affect up to 1 in 10 people)
 
 - Somnolence (sleepiness)
 - Headache
@@ -950,25 +1309,21 @@ Common side effects (may affect up to 1 in 10 people):
 - Chest discomfort
 - Malaise (a feeling of general discomfort and illness)
 
-Uncommon side effects (may affect up to 1 in 100 people):
+Uncommon side effects (may affect up to 1 in 100 people)
 
 - Convulsions (fits)
 - Speech disorders
 - Slow heart rate
 
-Rare side effects (may affect up to 1 in 1,000 people):
+Rare side effects (may affect up to 1 in 1 000 people)
 
 - Abnormal functioning of the liver (observed after blood analysis).
 
-Very rare side effects (may affect up to 1 in 10,000 people):
+Very rare side effects (may affect up to 1 in 10 000 people)
 
 - Liver injury including inflammation (hepatitis)
 
-<div style=\"page-break-after: always\"></div>
-
-Internal Doc Ref: v6.6
-
-Not known (frequency cannot be estimated from the available data):
+Not known (frequency cannot be estimated from the available data)
 
 - Decrease in white blood cells or in platelets
 - Lupus syndrome (disease of the immune system)
@@ -988,13 +1343,17 @@ Not known (frequency cannot be estimated from the available data):
 
 If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
 
+<div style=\"page-break-after: always\"></div>
+
+Internal Doc Ref: v6.6
+
 ## 5. How to store Namuscla
 
 Keep this medicine out of the sight and reach of children.
 
-Do not use this medicine after the expiry date which is stated on the carton and blister. The expiry date refers to the last day of that month.
+Do not use this medicine after the expiry date which is stated on the carton and blister after 'EXP'. The expiry date refers to the last day of that month.
 
-Store below 30°C. Store in the original package in order to protect from moisture.
+Store below 30 °C. Store in the original package in order to protect from moisture.
 
 Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
 
@@ -1002,16 +1361,48 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What Namuscla contains
 
+## Namuscla 62 mg hard capsules
+
 Each hard capsule contains:
 
-- -mexiletine hydrochloride corresponding to 166.62 mg of mexiletine (active substance)
+- -mexiletine hydrochloride corresponding to 62.48 mg mexiletine (active substance)
+- -Other ingredients (maize starch, colloidal anhydrous silica, magnesium stearate, gelatin, titanium dioxide [E 171]).
+
+## Namuscla 83 mg hard capsules
+
+Each hard capsule contains:
+
+- -mexiletine hydrochloride corresponding to 83.31 mg mexiletine (active substance)
+- -Other ingredients (maize starch, colloidal anhydrous silica, magnesium stearate, gelatin, iron III oxide hydrate [E 172], titanium dioxide [E 171]).
+
+## Namuscla 167 mg hard capsules
+
+Each hard capsule contains:
+
+- -mexiletine hydrochloride corresponding to 166.62 mg mexiletine (active substance)
 - -Other ingredients (maize starch, colloidal anhydrous silica, magnesium stearate, gelatin, iron III oxide hydrate [E 172], titanium dioxide [E 171]).
 
 ## What Namuscla looks like and contents of the pack
 
-Namuscla hard capsules (capsules) are reddish hard gelatin capsules filled with white powder. Namuscla 167 mg hard capsules are available in blister packs containing 30, 50, 100 or 200 capsules in a carton.
+## Namuscla 62 mg hard capsules
+
+Namuscla hard capsules (capsules) are white hard gelatin capsules filled with white powder. Namuscla 62 mg hard capsules are available in blister packs containing 30, 50, 100, 200 or 300 capsules in a carton.
+
+## Namuscla 83 mg hard capsules
+
+Namuscla hard capsules (capsules) are reddish orange and white hard gelatin capsules filled with white powder.
+
+Namuscla 83 mg hard capsules are available in blister packs containing 30, 50, 100, 200 or 300 capsules in a carton.
+
+## Namuscla 167 mg hard capsules
+
+Namuscla hard capsules (capsules) are reddish orange hard gelatin capsules filled with white powder. Namuscla 167 mg hard capsules are available in blister packs containing 30, 50, 100 or 200 capsules in a carton.
 
 Not all pack sizes may be marketed.
+
+<div style=\"page-break-after: always\"></div>
+
+Internal Doc Ref: v6.6
 
 ## Marketing Authorisation Holder
 
@@ -1019,19 +1410,11 @@ Lupin Europe GmbH Hanauer Landstraße 139-143, 60314 Frankfurt am Main Germany
 
 ## Manufacturer
 
-Hormosan Pharma GmbH
-
-<div style=\"page-break-after: always\"></div>
-
-Internal Doc Ref: v6.6
-
-Hanauer Landstraße 139-143, 60314 Frankfurt am Main Germany
-
-Lupin Healthcare (UK) Ltd The Urban Building, second floor, 3-9 Albert Street SL1 2BE Slough, Berkshire, United Kingdom
+Hormosan Pharma GmbH Hanauer Landstraße 139-143, 60314 Frankfurt am Main Germany
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-## AT, BE, BG, CZ, CY, DK, EE, EL, ES, FR, FI, HR, IE, IS, IT, LV, LT, LU, HU, MT, NL, NO, PL, PT, RO, SI, SK, SE DE
+AT, BE, BG, CZ, CY, DK, EE, EL, ES, FR, FI, HR, IE, IS, IT, LV, LT, LU, HU, MT, NL, NO, PL, PT, RO, SI, SK, SE DE
 
 Lupin Europe GmbH
 
@@ -1045,14 +1428,6 @@ Tel: +49 (0) 800 182 4160
 
 Email: customerserviceLEG@lupin.com
 
-UK
-
-Lupin Europe GmbH
-
-Tel: +44 (0) 800-088-5969
-
-Email: customerserviceLEG@lupin.com
-
 ## This leaflet was last revised in
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.

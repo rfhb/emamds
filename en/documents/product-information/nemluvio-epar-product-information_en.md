@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-01-14 11:07:12
-document_pages: 48
+document_datetime: 2026-06-01 09:58:09
+document_pages: 47
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/nemluvio-epar-product-information_en.pdf
 document_name: nemluvio-epar-product-information_en.pdf
 version: success
-processing_time: 11.6820606
-conversion_datetime: 2026-01-17 23:19:58.099936
+processing_time: 20.8491043
+conversion_datetime: 2026-06-04 22:34:00.932431
 docling_version:
-  docling-serve: 1.10.0
-  docling-jobkit: 1.8.1
-  docling: 2.68.0
-  docling-core: 2.59.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.3
+  docling-serve: 1.21.0
+  docling-jobkit: 1.20.1
+  docling: 2.97.0
+  docling-core: 2.78.0
+  docling-ibm-models: 3.13.2
+  docling-parse: 6.2.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -88,6 +88,8 @@ The recommended dose for patients weighing &lt; 90 kg is an initial dose of 60 m
 
 The recommended dose for patients weighing ≥ 90 kg is an initial dose of 60 mg dose (two 30 mg injections), followed by 60 mg given every 4 weeks (Q4W).
 
+Continue treatment to maintain a therapeutic response.
+
 Consideration should be given to discontinuing treatment in patients who have shown no response on pruritus after 16 weeks of treatment for prurigo nodularis.
 
 ## Missed dose
@@ -116,11 +118,11 @@ The safety and efficacy of nemolizumab in children less than 18 years of age hav
 
 ## Method of administration
 
-## Subcutaneous use.
-
-The subcutaneous injection should be administered into the front upper thighs or abdomen avoiding the 5 cm area around the navel. Injection into the upper arm should only be performed by a caregiver or healthcare professional.
+Subcutaneous use.
 
 <div style=\"page-break-after: always\"></div>
+
+The subcutaneous injection should be administered into the front upper thighs or abdomen avoiding the 5 cm area around the navel. Injection into the upper arm should only be performed by a caregiver or healthcare professional.
 
 For subsequent doses, it is recommended to rotate the injection site with each dose. Nemolizumab should not be injected into skin that is tender, inflamed, swollen, damaged or has bruises, scars or open wounds.
 
@@ -148,7 +150,9 @@ Patients with an exacerbation of asthma requiring hospitalization in the precedi
 
 ## Vaccinations
 
-It is recommended that patients complete all age-appropriate vaccinations in agreement with current immunisation guidelines prior to initiating treatment. Concurrent use of live vaccines in patients treated with nemolizumab should be avoided. It is unknown if administration of live vaccines during treatment will impact the safety or efficacy of these vaccines. No data are available on the response to non-live vaccines.
+It is recommended that patients complete all age-appropriate vaccinations in agreement with current immunisation guidelines prior to initiating treatment. Concurrent use of live vaccines in patients treated with nemolizumab should be avoided. It is unknown if administration of live vaccines during treatment will impact the safety or efficacy of these vaccines. Immune responses to the non-live combined tetanus, diphtheria and acellular pertussis vaccine (TdaP) and a meningococcal polysaccharide vaccine were assessed (see section 4.5).
+
+<div style=\"page-break-after: always\"></div>
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
@@ -158,9 +162,7 @@ The safety and efficacy of concurrent use of nemolizumab with live attenuated va
 
 ## Non-live vaccines
 
-<div style=\"page-break-after: always\"></div>
-
-The safety and efficacy of concurrent use of nemolizumab with non-live vaccines has not been studied (see section 4.4)
+Immune responses to non-live vaccines were assessed in a study in which adults and adolescent patients with atopic dermatitis were treated with an initial nemolizumab dose of 60 mg (two 30 mg injections) followed by 30 mg given once every 4 weeks (Q4W) for 16 weeks. After 12 weeks of nemolizumab administration, patients were vaccinated with a combined tetanus, diphtheria, and acellular pertussis vaccine TdaP vaccine (T cell-dependent) and a meningococcal polysaccharide vaccine (T cell-independent) and immune responses were assessed 4 weeks later. Antibody responses to both non-live vaccines were not negatively impacted by the concomitant nemolizumab treatment. No adverse interactions between the non-live vaccines and nemolizumab were noted in the study. Therefore, patients receiving nemolizumab may receive concurrent inactivated or non-live vaccinations (see section 4.4).
 
 ## Interactions with cytochrome P450
 
@@ -188,13 +190,13 @@ Nemluvio has no or negligible influence on the ability to drive and use machines
 
 ## Summary of the safety profile
 
+<div style=\"page-break-after: always\"></div>
+
 The most common adverse reactions in atopic dermatitis and prurigo nodularis are type I hypersensitivity (1.1%; includes urticaria 1.0% and angioedema 0.1%) and injection site reactions (1.2%) (see section 4.4). Additional adverse reactions such as headache (7.0%), atopic dermatitis (4.6%), eczema (3.8%), eczema nummular (3.5%), superficial fungal infections (3.0%) and worsening of asthma (2.2%) were reported in prurigo nodularis.
 
 ## Tabulated list of adverse reactions
 
-Table 1 includes all adverse reactions observed in clinical studies presented by system organ class and frequency, using the following categories: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1,000 to &lt; 1/100); rare (≥ 1/10,000 to &lt; 1/1,000); very rare (&lt; 1/10 ,000). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
-
-<div style=\"page-break-after: always\"></div>
+Table 1 includes all adverse reactions observed in clinical studies presented by system organ class and frequency, using the following categories: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1,000 to &lt; 1/100); rare (≥ 1/10,000 to &lt; 1/1,000); ve ry rare (&lt; 1/10,000). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
 Table 1: List of adverse reactions
 
@@ -220,11 +222,11 @@ In patients with prurigo nodularis, headache was more frequently reported in pat
 
 ## Worsening of asthma
 
+<div style=\"page-break-after: always\"></div>
+
 In the PN patients with pre-existing asthma (n=51), 8 (15.7%) patients experienced a worsening of asthma (WOA) after initiation of nemolizumab, 5 of whom had a body weight &gt; 90 kg and received 60 mg nemolizumab every 4 weeks. In the population of PN patients with pre-existing asthma, WOA was 3 times more frequent in patients with a body weight &gt; 90 kg who received 60 mg nemolizumab every 4 weeks than in patients with a body weight &lt; 90 kg who received 30 mg nemolizumab every 4 weeks.
 
 The majority of WOA events occurred within the first two months of treatment initiation and all were reported as mild or moderate in severity. Most patients experienced a single event of WOA during treatment and the event resolved with standard of care asthma medications (inhalers) without the use of systemic steroids. None led to permanent discontinuation of treatment. The incidence of WOA did not increase with longer term exposure to nemolizumab (up to Week 52) in the PN open-label longterm extension study.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Eczematous reactions
 
@@ -250,6 +252,8 @@ Reporting suspected adverse reactions after authorisation of the medicinal produ
 
 There is no specific treatment for nemolizumab overdose. In the event of overdose, the patient should be monitored for any signs or symptoms of adverse reactions and appropriate symptomatic treatment should be instituted immediately.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 5. PHARMACOLOGICAL PROPERTIES
 
 ## 5.1 Pharmacodynamic properties
@@ -259,8 +263,6 @@ Pharmacotherapeutic group: Other dermatological preparations, agents for dermati
 ## Mechanism of action
 
 Nemolizumab is a humanised IgG2 monoclonal antibody that inhibits interleukin-31 (IL-31) signalling by binding selectively to interleukin-31 receptor alpha (IL-31 RA). IL-31 is a naturally occurring cytokine that is involved in pruritus, inflammation, epidermal dysregulation, and fibrosis. Nemolizumab inhibited IL-31-induced responses including the release of proinflammatory cytokines and chemokines.
-
-<div style=\"page-break-after: always\"></div>
 
 In atopic dermatitis clinical studies, nemolizumab was found to modulate gene expression related to the pathophysiology of atopic dermatitis, with a primary impact on immune system processes, by decreasing the inflammatory and proliferative profile of specific immune cells (T-cells and monocytes/macrophages) without leading to immunosuppression.
 
@@ -276,26 +278,22 @@ Anti-drug antibodies (ADA) were very commonly detected. No evidence of ADA impac
 
 ## Adults and adolescents with atopic dermatitis
 
-The efficacy and safety of nemolizumab with concomitant topical background therapy was evaluated in two randomised, double-blind, placebo-controlled pivotal studies (ARCADIA 1 and ARCADIA 2) that enrolled a total of 1728 subjects 12 years of age and older with moderate-to-severe atopic dermatitis not adequately controlled by topical treatments. Disease severity was defined by an Investigator's Global Assessment (IGA) score of 3 (moderate) and 4 (severe) in the overall assessment of atopic dermatitis, an Eczema Area and Severity Index (EASI) score of ≥ 16, a minimum body surface area (BSA) involvement of ≥ 10%, and a Peak Pruritus Numeric Rating Scale (PP NRS) score of ≥ 4.
+The efficacy and safety of nemolizumab with concomitant topical background therapy was evaluated in two randomised, double-blind, placebo-controlled pivotal studies (ARCADIA 1 and ARCADIA 2) that enrolled a total of 1728 subjects 12 years of age and older with moderate-to-severe atopic dermatitis not adequately controlled by topical treatments. Disease severity was defined by an Investigator's Global Assessment (IGA) score of 3 (moderate) and 4 (severe) in the overall assessment of atopic dermatitis, an Ecz ema Area and Severity Index (EASI) score of ≥ 16, a minimum body surface area (BSA) involvement of ≥ 10%, and a Peak Pruritus Numeric Rating Scale (PP NRS) score of ≥ 4.
 
 Subjects in the studies received initial subcutaneous injections of either nemolizumab 60 mg, followed by 30 mg injections every 4 weeks (Q4W), or matching placebo. Concomitant low and/ or medium potency TCS and/or TCI were administered both in nemolizumab and placebo groups for at least 14 days prior to baseline and continued during the study. Based on disease activity, these concomitant therapies could be tapered and/or discontinued at investigator discretion.
 
 After 16 weeks, subjects achieving either EASI-75 or IGA success continued into the study maintenance period for another 32 weeks to evaluate the maintenance of response achieved at Week 16. Nemolizumab responders were re-randomised to either nemolizumab 30 mg every 4 weeks, nemolizumab 30 mg every 8 weeks or placebo every 4 weeks (all groups continued background TCS/TCI). Subjects randomised to placebo in the initial treatment period who achieved the same clinical response at Week 16 continued to receive placebo every 4 weeks. Non-responders at Week 16, subjects who lost clinical response during the maintenance period and subjects who completed maintenance period had the opportunity to enrol into the open-label study (ARCADIA LTE) and receive treatment with nemolizumab 30 mg every 4 weeks up to 200 weeks.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Endpoints
 
 Both ARCADIA 1 and ARCADIA 2 assessed the primary endpoints of:
 
 - Proportion of subjects with an IGA success (defined as an IGA of 0 [clear] or 1 [almost clear] and a ≥ 2 -point reduction from baseline) at Week 16
-- Proportion of subjects with EASI75 (≥ 75% improvement in EASI f rom baseline) at Week 16
+- Proportion of subjects with EASI75 (≥ 75% improvement in EASI from baseline) at Week 16
 
-Key secondary endpoints included PP NRS improvement ≥4 from baseline at Weeks 1, 2, 4 and 16, PP NRS &lt; 2 at Week 4 and Week 16, Sleep Disturbance Numeric Rating Scale (SD NRS) improvement ≥ 4 from baseline at Week 16, subjects with both EASI-75 and PP NRS
-
-<div style=\"page-break-after: always\"></div>
-
-(%)
-
-Proportion of subjects improvement ≥ 4 from baseline at Week 16, and subjects with both IGA success and PP NRS improvement ≥ 4 from baseline at Week 16.
+Key secondary endpoints included PP NRS improvement ≥4 from baseline at Weeks 1, 2, 4 and 16, PP NRS &lt; 2 at Week 4 and Week 16, Sleep Disturbance Numeric Rating Scale (SD NRS) improvement ≥ 4 from baseline at Week 16, subjects with both EASI-75 and PP NRS improvement ≥ 4 from baseline at Week 16, and subjects with both IGA success and PP NRS improvement ≥ 4 from baseline at Week 16.
 
 ## Baseline characteristics
 
@@ -303,9 +301,9 @@ In these studies, at baseline, 51.0% of subjects were male, 79.9% were White, an
 
 ## Clinical response
 
-ARCADIA 1 and ARCADIA 2 - Adults and Adolescents - induction period, Week 0 to Week 16
+## ARCADIA 1 and ARCADIA 2 - Adults and Adolescents - induction period, Week 0 to Week 16
 
-Nemolizumab was statistically significantly superior to placebo with respect to skin-related coprimary endpoints IGA success and EASI-75 over 16 weeks (Table 2). Results for both co-primary endpoints were consistent in the severe pruritus population (baseline PP NRS ≥ 7).
+Nemolizumab was statistically significantly superior to placebo with respect to skin-related coprimary endpoints IGA success and EASI-75 over 16 weeks (Table 2). Results for both co-primary endpoints were consistent in the severe pruritus population (base line PP NRS ≥ 7).
 
 Table  2  -  Efficacy  Results  of  nemolizumab  (30  mg  Q4W)  with  concomitant  TCS/TCI  in ARCADIA 1 and ARCADIA 2 at Week 16
 
@@ -316,65 +314,13 @@ Table  2  -  Efficacy  Results  of  nemolizumab  (30  mg  Q4W)  with  concomitan
 | %of subjects with IGA 0 or 1 a                                | 35.6 #                 | 24.6               | 37.7 #                 | 26.0               |
 | %of subjects with EASI-75 a                                   | 43.5*                  | 29.0               | 42.1 #                 | 30.2               |
 
-Strata adjusted p-value is based on the CMH test stratified by PP NRS and IGA score at baseline
-
-Figure 1 - Proportion of subjects with IGA success and EASI-75 from baseline to Week 16 in ARCADIA 1 and ARCADIA 2 Figure 1a.  IGA Success Figure 1b. EASI-75
-
-NEMLUVIO Q4W, ARCADIA 1 (N=620)
-
-Placebo,ARCADIA 1 (N=321)
-
-NEMLUVIO Q4W,ARCADIA2 (N=522)
-
-O
-
-Placebo, ARCADIA 2 (N=265)
-
-BL
-
-4
-
-<!-- image -->
-
-8
-
-Weeks
-
-Significant improvement in pruritus for subjects treated with nemolizumab in ARCADIA 1 and ARCADIA 2 compared to placebo based on PP NRS improvements ≥ 4 and PP NRS percent change
-
-80
-
-70
-
-60
-
-50
-
-40
-
-30
-
-20
-
-10
-
-0
-
-12
-
-37.7%
-
-35.6%
-
-26.0%
-
-24.6 %
-
-16
+Strata adjusted p-value is based on the CMH test stratified by PP NRS and IGA score at baseline Significant improvement in pruritus for subjects treated with nemolizumab in ARCADIA 1 and ARCADIA 2 compared to placebo based on PP NRS improvements ≥ 4 and PP NRS percent change from baseline was observed starting at Week 1 and was maintained up to Week 16 (Table 3 and Figure 2). Results were consistent in the severe pruritus population (baseline PP NRS ≥ 7).
 
 <div style=\"page-break-after: always\"></div>
 
-from baseline was observed starting at Week 1 and was maintained up to Week 16 (Table 3 and Figure 2). Results were consistent in the severe pruritus population (baseline PP NRS ≥ 7).
+Figure 1 - Proportion of subjects with IGA success and EASI-75 from baseline to Week 16 in ARCADIA 1 and ARCADIA 2 Figure 1a.  IGA Success Figure 1b. EASI-75
+
+<!-- image -->
 
 Table 3 Efficacy results on itch for nemolizumab with concomitant TCS/TCI in ARCADIA 1 and ARCADIA 2 up to Week 16
 
@@ -393,17 +339,15 @@ Table 3 Efficacy results on itch for nemolizumab with concomitant TCS/TCI in ARC
 | Mean change from baseline (%)                                   | Mean change from baseline (%)              | Mean change from baseline (%)              | Mean change from baseline (%)              | Mean change from baseline (%)              |
 | At Week 16                                                      | -56.1*                                     | -30.6                                      | -55.6*                                     | -30.3                                      |
 
-Strata adjusted p-value is based on the CMH test stratified by PP NRS and IGA score at baseline
+Strata adjusted p-value is based on the CMH test stratified by PP NRS and IGA score at baseline In patients with a body weight ≥ 90kg, in a post-hoc analysis in each of the pivotal studies there was no difference in anti-inflammatory response (IGA 0 or 1 and EASI 75) at Week 16 between nemolizumab and placebo arms, though the effect was observed in reducing pruritus (PP NRS).
+
+<div style=\"page-break-after: always\"></div>
 
 Figure 2 Proportion of subject with PP NRS improvement of ≥4 from baseline up to Week 16 in ARCADIA 1 and ARCADIA 2
 
 <!-- image -->
 
-In patients with a body weight ≥ 90kg, in a post-hoc analysis in each of the pivotal studies there was no difference in anti-inflammatory response (IGA 0 or 1 and EASI 75) at Week 16 between nemolizumab and placebo arms, though the effect was observed in reducing pruritus (PP NRS).
-
 The Sleep Disturbance Numeric Rating Scale (SD NRS) is a daily scale used by the subjects to report the degree of their sleep loss related to atopic dermatitis. A significant improvement in sleep disturbance was observed at Week 16 when compared to placebo (Table 4). Results were consistent in the severe pruritus population (baseline PP NRS ≥ 7).
-
-<div style=\"page-break-after: always\"></div>
 
 Table 4 Efficacy on Sleep Disturbance for nemolizumab with concomitant TCS/TCI in ARCADIA 1 and ARCADIA 2 at Week 16
 
@@ -420,6 +364,8 @@ Adolescents with atopic dermatitis (12 to 17 years of age)
 
 The efficacy results of the ARCADIA 1, ARCADIA 2 studies at Week 16 for paediatric subjects 12 to 17 years of age are presented in Table 5. The results in the paediatric subject population were generally consistent with the results in the adult subject population. Results in co-primary and key secondary endpoints were consistent in the severe pruritus population (baseline PP NRS ≥ 7).
 
+<div style=\"page-break-after: always\"></div>
+
 Table 5 - Efficacy Results for nemolizumab (30 mg Q4W) with concomitant TCS/TCI in ARCADIA 1 and ARCADIA 2 at Week 16 in paediatric subjects 12 to 17 years of age
 
 |                                                               | ARCADIA 1 AND ARCADIA 2   | ARCADIA 1 AND ARCADIA 2   |
@@ -432,29 +378,27 @@ Table 5 - Efficacy Results for nemolizumab (30 mg Q4W) with concomitant TCS/TCI 
 | %of subjects with PP NRS < 2 a                                | 30.1 ≠                    | 6.7                       |
 | %of subjects with SD NRS improvement ≥ 4 a                    | 31.8 ∞                    | 20.0                      |
 
-a Subjects who received rescue treatment or with missing data were considered as non-responders ≠ p-value &lt; 0.0001, # p-value &lt; 0.001, *p-value &lt; 0.05, ∞ p-value = 0.0591, § p-value = 0.1824 Strata adjusted p-value is based on the CMH test stratified by PP NRS and IGA score at baseline
-
-## ARCADIA 1 and ARCADIA 2 - Adults and Adolescents - maintenance period, Week 16 to Week 48
+ARCADIA 1 and ARCADIA 2 - Adults and Adolescents - maintenance period, Week 16 to Week 48
 
 The clinical response in nemolizumab responders (IGA 0/1 or EASI-75 at Week 16) was evaluated between Week 16 and Week 48 in ARCADIA 1 and ARCADIA 2 studies. For the maintenance treatment period, 507 nemolizumab responders were re-randomised to nemolizumab 30 mg Q4W, nemolizumab 30 mg Q8W or placebo Q4W (nemolizumab withdrawal) with concomitant TCS/TCI. The pooled efficacy results with descriptive analysis only for this period in the pivotal studies (ARCADIA 1 and ARCADIA 2) with nemolizumab at Week 48 are presented in Table 6.
 
-<div style=\"page-break-after: always\"></div>
-
 Table 6 -Maintenance Period Pooled Efficacy Results for nemolizumab with concomitant TCS/TCI in ARCADIA 1 and ARCADIA 2 at Week 48
 
-|                                                                          | Nemolizumab + TCS/TCI Q4W N=169   | Nemolizumab + TCS/TCI Q8W N=169   | Placebo + TCS/TCI Q4W(Nemolizumab withdrawal) N=169   |
+|                                                                          | Nemolizumab + TCS/TCI Q4W N=169   | Nemolizumab + TCS/TCI Q8W N=169   |   Placebo + TCS/TCI Q4W(Nemolizumab withdrawal) N=169 |
 |--------------------------------------------------------------------------|-----------------------------------|-----------------------------------|-------------------------------------------------------|
 | %of subjects with IGA 0 or 1 a                                           |                                   |                                   |                                                       |
-| Week 16 (maintenance baseline)                                           | 84.0                              | 84.0                              | 77.5                                                  |
-| Week 48 Strata-adjusted proportion difference (%) Strata-adjusted 95% CI | 61.5 11.8 (1.3, 22.3)             | 60.4 10.7 (0.3, 21.0)             | 49.7                                                  |
+| Week 16 (maintenance baseline)                                           | 84.0                              | 84.0                              |                                                  77.5 |
+| Week 48 Strata-adjusted proportion difference (%) Strata-adjusted 95% CI | 61.5 11.8 (1.3, 22.3)             | 60.4 10.7 (0.3, 21.0)             |                                                  49.7 |
 | %of subjects with EASI-75 a (95% CI)                                     |                                   |                                   |                                                       |
-| Week 16 (maintenance/baseline)                                           | 96.4                              | 96.4                              | 92.9                                                  |
-| Week 48 Strata-adjusted proportion difference                            | 76.3                              | 75.7 11.8                         | 63.9                                                  |
-| (%) Strata-adjusted 95% CI                                               | 12.4 (2.7, 22.0)                  | (2.1, 21.5)                       |                                                       |
+| Week 16 (maintenance/baseline)                                           | 96.4                              | 96.4                              |                                                  92.9 |
+| Week 48                                                                  | 76.3                              | 75.7                              |                                                  63.9 |
+| Strata-adjusted proportion difference (%) Strata-adjusted 95% CI         | 12.4 (2.7, 22.0)                  | 11.8 (2.1, 21.5)                  |                                                       |
 
 ## Clinical efficacy and safety in adults with prurigo nodularis
 
-The efficacy and safety of nemolizumab as monotherapy was evaluated in two randomised, doubleblind, placebo-controlled pivotal studies (OLYMPIA 1 and OLYMPIA 2) that enrolled a total of 560 subjects 18 years of age and older with moderate-to-severe prurigo nodularis.  Disease severity was defined using an Investigator's Global Assessment (IGA) in the overall assessment of prurigo nodularis nodules on a severity scale of 0 to 4. Subjects enrolled in these two studies had an IGA score ≥ 3, severe pruritus as defined by a weekly average of the peak pruritus numeric rating scale (PPNRS) score of ≥ 7 on a scale of 0 to 10, and greater than or equal to 20 nodular lesions. OLYMPIA 1 and OLYMPIA 2 assessed the effect of nemolizumab monotherapy on the signs and symptoms of prurigo nodularis, targeting improvement in skin lesions and pruritus over 16 weeks. OLYMPIA 1 had a 24-week treatment period and OLYMPIA 2 a 16-week treatment period.
+The efficacy and safety of nemolizumab as monotherapy was evaluated in two randomised, doubleblind, placebo-controlled pivotal studies (OLYMPIA 1 and OLYMPIA 2) that enrolled a total of 560 subjects 18 years of age and older with moderate-to-severe prurigo nodularis.  Disease severity was defined using an Investigator's Global Assessment (IGA) in the overall assessment of prurigo nodularis nodules on a severity scale of 0 to 4. Subjects enrolled in these two studies had an IGA score ≥ 3, severe pruritus as defined by a weekly average of the pe ak pruritus numeric rating scale (PPNRS) score of ≥ 7 on a scale of 0 to 10, and greater than or equal to 20 nodular lesions. OLYMPIA 1 and OLYMPIA 2 assessed the effect of nemolizumab monotherapy on the signs and symptoms of prurigo nodularis, targeting improvement in skin lesions and pruritus over 16 weeks. OLYMPIA 1 had a 24-week treatment period and OLYMPIA 2 a 16-week treatment period.
+
+<div style=\"page-break-after: always\"></div>
 
 In the nemolizumab treatment group, subjects weighing less than 90 kg received subcutaneous injections of nemolizumab 60 mg (2 injections of 30 mg) at Week 0, followed by 30 mg injections every 4 weeks, and subjects weighing 90 kg or more received subcutaneous injections of nemolizumab 60 mg (2 injections of 30 mg) at Week 0 and every 4 weeks.
 
@@ -471,13 +415,13 @@ Key secondary endpoints included PP NRS improvement ≥ 4 from baseline at Week 
 
 In these studies, at baseline, 59.6% of subjects were female, 81.4% were white, the mean weight was 82.6 kg, the mean age was 55.2 years and 25.4% of subjects were older than 65 years of age. The baseline weekly average PP NRS score was a mean (SD) of 8.4 (0.9). Fifty-eight (58) % of subjects had a baseline IGA score of 3 (moderate PN) and 42% of subjects had a baseline IGA of 4 (severe PN).
 
-<div style=\"page-break-after: always\"></div>
-
 ## Clinical response
 
 ## Pivotal studies (OLYMPIA 1 and OLYMPIA 2) Week 0 to Week 16
 
 Results of the pivotal studies evaluating treatment of nemolizumab in OLYMPIA 1 and OLYMPIA 2 are presented in Table 7 and show significant improvement in nemolizumab treated subjects, compared to placebo for both primary endpoints (Figure 3 and Figure 4).
+
+<div style=\"page-break-after: always\"></div>
 
 Table 7 - Efficacy Results for nemolizumab monotherapy (Q4W) in OLYMPIA 1 and OLYMPIA 2
 
@@ -510,6 +454,14 @@ Figure 4 - Proportion of IGA responders from baseline to Week 16
 
 <!-- image -->
 
+Durability of response (OLYMPIA DURABILITY)
+
+To evaluate durability of response, a subset of subjects (N=34) treated with nemolizumab in the openlabel study (OLYMPIA LTE) who achieved IGA 0 or 1 and PP-NRS 4-point improvement from leadin study baseline at Week 52 were randomized in OLYMPIA DURABILITY study to receive either nemolizumab or placebo for up to 24 weeks.
+
+Subjects who continued nemolizumab had a lower risk of relapse than those randomized to placebo at Week 24, respectively 16.7% (3 out of 18 subjects) and 75.0% (12 out of 16 subjects).
+
+No new safety concerns were identified.
+
 ## 5.2 Pharmacokinetic properties
 
 ## Absorption
@@ -524,6 +476,8 @@ In both atopic dermatitis and prurigo nodularis population, steady state concent
 
 A loading dose is proposed for subjects with PN with body weight &lt; 90 kg. However, for subjects with body weight ≥ 90 kg no loading dose is proposed because the 60 mg dose was sufficient to achieve similar steady-state concentrations of nemolizumab as the 30 mg dose (with 60 mg loading dose) after the second dose (at Week 8).
 
+<div style=\"page-break-after: always\"></div>
+
 ## Distribution
 
 Based on a population PK analysis, the apparent volume of distribution (V/F) was 7.67 L.
@@ -531,8 +485,6 @@ Based on a population PK analysis, the apparent volume of distribution (V/F) was
 ## Biotransformation
 
 Specific metabolism studies were not conducted because nemolizumab is a protein. Nemolizumab is expected to be metabolised into small peptides by catabolic pathways.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Elimination
 
@@ -568,6 +520,8 @@ The difference in systemic exposure due to body weight had no clinically meaning
 
 ## Prurigo nodularis
 
+<div style=\"page-break-after: always\"></div>
+
 The variability in systemic exposure due to body weight had a clinically meaningful impact on skin lesion efficacy as assessed by IGA response but not on pruritus improvement and does require dose adjustment in subjects with PN (see section 4.2).
 
 ## Paediatric population
@@ -575,8 +529,6 @@ The variability in systemic exposure due to body weight had a clinically meaning
 ## Atopic dermatitis
 
 In the population PK analysis, no clinically relevant difference in the pharmacokinetics of nemolizumab was estimated in paediatric subjects 12-17 years of age compared to adults. Dose adjustment in this population is not recommended.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 5.3 Preclinical safety data
 
@@ -596,7 +548,7 @@ Powder for solution for injection
 
 Sucrose Trometamol Trometamol hydrochloride (for pH-adjustment) Arginine hydrochloride Poloxamer 188
 
-Solvent
+## Solvent
 
 Water for injections
 
@@ -608,17 +560,19 @@ In the absence of compatibility studies, this medicinal product must not be mixe
 
 Nemluvio 30 mg powder and solvent for solution for injection in pre-filled pen
 
-3 years
+3 years Once reconstitution steps are completed, Nemluvio must be used within 4 hours kept at room temperature (up to 25°C) or discarded.
 
-Once reconstitution steps are completed, Nemluvio must be used within 4 hours kept at room temperature (up to 25°C) or discarded.
+<div style=\"page-break-after: always\"></div>
 
 If necessary, the carton containing the pre-filled pen can be removed from the refrigerator and kept at room temperature (up to 25°C) for a single period up to 90 days. The date of removal from the refrigerator shall be recorded in the space provided on the outer carton. Do not use Nemluvio if the expiry date has passed or if left out of the refrigerator for more than 90 days (whichever is earlier).
 
 ## 6.4 Special precautions for storage
 
-<div style=\"page-break-after: always\"></div>
+Store in a refrigerator (2°C - 8°C).
 
-Store in a refrigerator (2°C - 8°C). Do not freeze. Store in the original carton in order to protect from light.
+Do not freeze.
+
+Store in the original carton in order to protect from light.
 
 For storage conditions after reconstitution of the medicinal product, see section 6.3.
 
@@ -648,17 +602,27 @@ Galderma International La Defense 4, Tour Europlaza 20 Avenue Andre Prothin 9292
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/24/1901/001 EU/1/24/1901/002 EU/1/24/1901/003
-
-## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
-
-Date of first authorisation: 12 february 2025
-
-## 10. DATE OF REVISION OF THE TEXT
+EU/1/24/1901/001 EU/1/24/1901/002
 
 <div style=\"page-break-after: always\"></div>
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu/en.
+EU/1/24/1901/003
+
+9.
+
+DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
+
+Date of first authorisation: 12 february 2025
+
+10.
+
+DATE OF REVISION OF THE TEXT
+
+Detailed information on this medicinal product is available on the website of the European Medicines
+
+[Agency https://www.ema.europa.eu/en.](https://www.ema.europa.eu/en)
+
+19
 
 <div style=\"page-break-after: always\"></div>
 
@@ -788,7 +752,7 @@ Nemluvio can be stored at room temperature (up to 25°C) for a single period of 
 
 Date removed from the refrigerator: \\_\\_/\\_\\_/\\_\\_
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -833,7 +797,9 @@ OUTER CARTON OF MULTIPACK (WITH BLUE BOX)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Nemluvio 30 mg powder and solvent for solution for injection in pre-filled pen nemolizumab
+Nemluvio 30 mg powder and solvent for solution for injection in pre-filled pen
+
+nemolizumab
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -942,7 +908,9 @@ PC SN NN
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Nemluvio 30 mg powder and solvent for solution for injection in pre-filled pen nemolizumab
+Nemluvio 30 mg powder and solvent for solution for injection in pre-filled pen
+
+nemolizumab
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -1004,7 +972,15 @@ Date removed from the refrigerator: \\_\\_/\\_\\_/\\_\\_
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Galderma International La Defense 4, Tour Europlaza 20 Avenue Andre Prothin 92927 Paris La Defense Cedex France
+Galderma International
+
+La Defense 4, Tour Europlaza
+
+20 Avenue Andre Prothin
+
+92927 Paris La Defense Cedex
+
+France
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1043,7 +1019,9 @@ PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS PEN LABEL
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
+
+PEN LABEL
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
@@ -1282,9 +1260,7 @@ Keep this medicine out of the sight and reach of children.
 
 Do not use this medicine after the expiry date which is stated on the label and carton after EXP. The expiry date refers to the last day of that month.
 
-Store in a refrigerator (2°C to 8°C). Do not freeze.
-
-Store in the original carton in order to protect from light.
+Store in a refrigerator (2°C to 8°C). Do not freeze. Store in the original carton in order to protect from light.
 
 If necessary, Nemluvio may be kept at room temperature (up to 25°C) for a single period of up to 90 days. Write the date the pen was removed from the refrigerator in the space provided on the outer carton. Do not use Nemluvio if the expiry date has passed or 90 days after the date it was removed from the refrigerator (whichever is earlier).
 
@@ -1319,13 +1295,9 @@ Galderma International La Defense 4, Tour Europlaza 20 Avenue Andre Prothin 9292
 
 Q-Med AB Seminariegatan 21 Uppsala Lan 752 28 Uppsala Sweden
 
-Nuvisan France S.A.R.L. 2400 Route Des Colles 06410 Biot France
+Nuvisan France S.A.R.L. 2400 Route Des Colles 06410 Biot France Galderma Laboratorium GmbH Toulouser Allee 23a 40211 Duesseldorf Germany For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 <div style=\"page-break-after: always\"></div>
-
-Galderma Laboratorium GmbH Toulouser Allee 23a 40211 Duesseldorf Germany
-
-For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 ## België/Belgique/Belgien Luxembourg/Luxemburg
 
@@ -1539,7 +1511,7 @@ When the grey rod has completely stopped, shake the pen up and down for 30 secon
 
 <div style=\"page-break-after: always\"></div>
 
-Step 8: Wait 5 minutes for bubbles to decrease
+## Step 8: Wait 5 minutes for bubbles to decrease
 
 Wait for bubbles to decrease and the powder to dissolve completely. This will take about 5 minutes.
 
@@ -1645,31 +1617,3 @@ Do not rub the injection site.
 <!-- image -->
 
 <!-- image -->
-
-<div style=\"page-break-after: always\"></div>
-
-## ANNEX IV
-
-## SCIENTIFIC CONCLUSIONS AND GROUNDS FOR THE VARIATION TO THE TERMS OF THE MARKETING AUTHORISATION(S)
-
-<div style=\"page-break-after: always\"></div>
-
-## Scientific conclusions
-
-Taking into account the PRAC Assessment Report on the PSUR(s) for nemolizumab, the scientific conclusions of PRAC are as follows:
-
-In view of available data on Bullous Pemphigoid (BP) from the literature, spontaneous reports and clinical trial(s), including
-
-- at least 12 possible cases of BP with close temporal relationship, confirmed BP diagnosis and recovery (with treatment) following withdrawal;
-- and 2 probable literature cases with a close temporal relationship, confirmed BP diagnosis and recovery (with treatment) following withdrawal, without reoccurrence of BP after withdrawal, supportive anti-BP 180 data and excluding the influence of most confounding factors;
-- although the potential mechanism of the AE remains to be elucidated;
-
-the PRAC considers a causal relationship between nemolizumab and Bullous Pemphigoid is at least a reasonable possibility. The PRAC concluded that the product information of products containing nemolizumab should be amended accordingly.
-
-Having reviewed the PRAC recommendation, the CHMP agrees with the PRAC overall conclusions and grounds for recommendation.
-
-## Grounds for the variation to the terms of the Marketing Authorisation(s)
-
-On the basis of the scientific conclusions for nemolizumab the CHMP is of the opinion that the benefit-risk balance of the medicinal product(s) containing nemolizumab is unchanged subject to the proposed changes to the product information
-
-The CHMP recommends that the terms of the marketing authorisation(s) should be varied.

@@ -1,28 +1,26 @@
 ---
-document_datetime: 2026-05-12 13:14:56
+document_datetime: 2026-06-03 10:41:24
 document_pages: 31
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/sotyktu-epar-product-information_en.pdf
 document_name: sotyktu-epar-product-information_en.pdf
 version: success
-processing_time: 10.7918688
-conversion_datetime: 2026-05-13 12:56:54.624567
+processing_time: 15.4674307
+conversion_datetime: 2026-06-04 22:30:59.918937
 docling_version:
-  docling-serve: 1.17.0
-  docling-jobkit: 1.18.0
-  docling: 2.92.0
-  docling-core: 2.74.1
+  docling-serve: 1.21.0
+  docling-jobkit: 1.20.1
+  docling: 2.97.0
+  docling-core: 2.78.0
   docling-ibm-models: 3.13.2
-  docling-parse: 5.10.1
+  docling-parse: 6.2.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
 ## SUMMARY OF PRODUCT CHARACTERISTICS
 
 <div style=\"page-break-after: always\"></div>
-
-<!-- image -->
 
 This medicinal product is subject to additional monitoring. This will allow quick identification of new safety information. Healthcare professionals are asked to report any suspected adverse reactions. See section 4.8 for how to report adverse reactions.
 
@@ -48,7 +46,7 @@ Pink, round, biconvex, film-coated tablet of 8 mm diameter, printed with 'BMS 89
 
 ## 4.1 Therapeutic indications
 
-## Plaque psoriasis
+Plaque psoriasis
 
 SOTYKTU is indicated for the treatment of moderate to severe plaque psoriasis in adults who are candidates for systemic therapy.
 
@@ -144,13 +142,11 @@ This medicinal product contains less than 1 mmol sodium (23 mg) per tablet, that
 
 Clinical studies indicate that deucravacitinib does not have clinically relevant drug interactions upon coadministration with the following other medicinal products and therefore no dose adjustments are needed.
 
-## Effect of deucravacitinib on other medicinal products
-
-Deucravacitinib does not meaningfully impact plasma exposures of rosuvastatin (BCRP and OATP substrate), methotrexate (substrate of BCRP and renal transporters), mycophenolate mofetil (MMF)
-
 <div style=\"page-break-after: always\"></div>
 
-(CES1 and CES2 substrate), metformin (substrate of renal MATE2K-dependent and hepatic OCT1-dependent drug transport) or oral contraceptives (norethindrone acetate and ethinyl estradiol).
+## Effect of deucravacitinib on other medicinal products
+
+Deucravacitinib does not meaningfully impact plasma exposures of rosuvastatin (BCRP and OATP substrate), methotrexate (substrate of BCRP and renal transporters), mycophenolate mofetil (MMF) (CES1 and CES2 substrate), metformin (substrate of renal MATE2K-dependent and hepatic OCT1-dependent drug transport) or oral contraceptives (norethindrone acetate and ethinyl estradiol).
 
 ## Effect of other medicinal products on deucravacitinib
 
@@ -164,9 +160,11 @@ There is a limited amount of data on the use of deucravacitinib in pregnant wome
 
 ## Breast-feeding
 
-It is unknown whether deucravacitinib/metabolites are excreted in human milk. Available data in animals have shown excretion of deucravacitinib in milk (see section 5.3).
+Deucravacitinib and its metabolite (BMT-153261) are excreted in breast milk (see section 5.2). The estimated relative daily infant dose corresponds to 12% of the maternal dose.
 
-A risk to the newborns/infants by breast-feeding cannot be excluded. A decision must be made whether to discontinue breast-feeding or to discontinue/abstain from deucravacitinib therapy taking into account the benefit of breast-feeding for the child and the benefit of therapy for the woman.
+The effect of deucravacitinib on newborns/infants is unknown.
+
+A decision must be made whether to discontinue breast-feeding or to discontinue/abstain from deucravacitinib therapy taking into account the benefit of breast-feeding for the child and the benefit of therapy for the woman.
 
 ## Fertility
 
@@ -184,9 +182,11 @@ The most commonly reported adverse reaction was upper respiratory infections (18
 
 ## Tabulated list of adverse reactions
 
-Adverse reactions for deucravacitinib from clinical studies are listed (see Table 1) by MedDRA System Organ Class and are based on the following conventions: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1 000 to &lt; 1/100); rare (≥ 1/10 000 to &lt; 1/1 000); very rare (&lt; 1/10 000) and not known (cannot be estimated from the available data).
+Adverse reactions for deucravacitinib from clinical studies are listed (see Table 1) by MedDRA System Organ Class and are based on the following conventions: very common (≥ 1/10);
 
 <div style=\"page-break-after: always\"></div>
+
+common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1 000 to &lt; 1/100); rare (≥ 1/10 000 to &lt; 1/1 000); very rare (&lt; 1/10 000) and not known (cannot be estimated from the available data).
 
 Table 1: List of adverse reactions
 
@@ -236,7 +236,7 @@ Deucravacitinib selectively inhibits the TYK2 enzyme (TYK2 belongs to the JAK fa
 
 ## Pharmacodynamic effects
 
-In patients with psoriasis, deucravacitinib reduced psoriasis-associated gene expression in psoriatic skin, including reductions in IL-23 pathway and type I IFN pathway regulated genes. In patients with psoriasis and psoriatic arthritis, deucravacitinib reduced circulating IL-17A, IL-19 and β -defensin following 16 weeks of once daily treatment. In patients with psoriatic arthritis, reduction in circulating levels of additional biomarkers including C-reactive protein (CRP), matrix metalloproteinase-3 (MMP3), matrix metalloproteinase-1 (MMP1), type 1 collagen degradation product (C1M) and TNF-alpha was observed.
+In patients with psoriasis, deucravacitinib reduced psoriasis-associated gene expression in psoriatic skin, including reductions in IL-23 pathway and type I IFN pathway regulated genes. In patients with psoriasis and psoriatic arthritis, deucravacitinib reduced circulating IL-17A, IL-19 and β-defensin following 16 weeks of once daily treatment. In patients with psoriatic arthritis, reduction in circulating levels of additional biomarkers including C-reactive protein (CRP), matrix metalloproteinase-3 (MMP3), matrix metalloproteinase-1 (MMP1), type 1 collagen degradation product (C1M) and TNF-alpha was observed.
 
 ## Clinical efficacy and safety
 
@@ -246,13 +246,13 @@ The efficacy and safety of deucravacitinib were assessed in two multicentre, ran
 
 POETYK PSO-1 and POETYK PSO-2 evaluated a total of 1686 patients with 843 randomised to deucravacitinib 6 mg once daily, 422 to apremilast 30 mg twice daily, and 421 to placebo.
 
-In both studies, patients receiving placebo switched to deucravacitinib at week 16, which continued up to week 52. Patients randomised to apremilast who did not achieve a PASI 50 (POETYK PSO-1)  or PASI 75 (POETYK PSO-2) response at week 24 switched to deucravacitinib and continued up to week  52. In POETYK PSO-1 patients who were randomised to deucravacitinib continued treatment up to week 52. In POETYK PSO-2, deucravacitinib-treated patients who achieved PASI 75 at week 24 were re-randomised 1:1 to continue deucravacitinib (maintenance) or were switched to placebo (withdrawal).
+In both studies, patients receiving placebo switched to deucravacitinib at week 16, which continued  up to week 52. Patients randomised to apremilast who did not achieve a PASI 50 (POETYK PSO-1)  or PASI 75 (POETYK PSO-2) response at week 24 switched to deucravacitinib and continued up to week  52. In POETYK PSO-1 patients who were randomised to deucravacitinib continued treatment up to week 52. In POETYK PSO-2, deucravacitinib-treated patients who achieved PASI 75 at week  24 were re-randomised 1:1 to continue deucravacitinib (maintenance) or were switched to placebo (withdrawal).
 
-Baseline disease characteristics were consistent for the study population in both studies: the majority of patients were male (67%), mean age was approximately 47 years old with the majority of patients between 40 and 64 years of age. 10% of patients were ≥ 65 years of age. The overall median PASI score was 18.7, and median BSA was 20%. Baseline sPGA score was 3 (moderate) in 79.8% of patients and 4 (severe) in 20.2%. Median Dermatology Life Quality Index (DLQI) score was 11. A total of 18.4% of study patients had a history of psoriatic arthritis.
-
-Across both studies, 40% of patients had received prior phototherapy, 42.4% were naive to any systemic therapy (including biologic and/or non-biologic treatment), 41% received prior non-biologic systemic treatment, and 34.8% had received prior biologic therapy (16.1% TNF, 4.9% IL-12/23, 16.6% IL-17 and 4.4% IL-23 inhibitors).
+Baseline disease characteristics were consistent for the study population in both studies: the majority of patients were male (67%), mean age was approximately 47 years old with the majority of patients between 40 and 64 years of age. 10% of patients were ≥ 65 years of age. The overall  median PASI score was 18.7, and median BSA was 20%. Baseline sPGA score was 3 (moderate) in  79.8% of patients and 4 (severe) in 20.2%. Median Dermatology Life Quality Index (DLQI) score was 11. A total of 18.4% of study patients had a history of psoriatic arthritis.
 
 <div style=\"page-break-after: always\"></div>
+
+Across both studies, 40% of patients had received prior phototherapy, 42.4% were naive to any systemic therapy (including biologic and/or non-biologic treatment), 41% received prior non-biologic systemic treatment, and 34.8% had received prior biologic therapy (16.1% TNF, 4.9% IL-12/23, 16.6% IL-17 and 4.4% IL-23 inhibitors).
 
 The co-primary endpoints in the two studies were the proportions of patients who achieved 1) at least a 75% improvement in PASI scores (PASI 75) from baseline and 2) a sPGA score of clear or almost clear (0 or 1) at week 16, versus placebo.
 
@@ -317,7 +317,9 @@ Figure 2: PASI 75 response (NRI) after re-randomisation at week-24 in POETYK PSO
 
 ## Patient reported outcomes
 
-Significantly greater improvements in health-related quality of life as measured by Dermatology Life Quality Index (DLQI) and in patient reported psoriasis symptoms (itch, pain, burning, stinging, and skin tightness) and signs (skin dryness, cracking, scaling, shedding or flaking, redness, and bleeding) as measured by the Psoriasis Symptoms and Signs Diary (PSSD) were observed in deucravacitinibtreated patients compared to placebo at week 16 and to apremilast at week 16 and week 24. Improvement of these responses in patients receiving continuous deucravacitinib treatment were maintained through week 52 in POETYK PSO-1.
+Significantly greater improvements in health-related quality of life as measured by Dermatology Life Quality Index (DLQI) and in patient reported psoriasis symptoms (itch, pain, burning, stinging, and skin tightness) and signs (skin dryness, cracking, scaling, shedding or flaking, redness, and bleeding) as measured by the Psoriasis Symptoms and Signs Diary (PSSD) were observed in deucravacitinibtreated patients compared to placebo at week 16 and to apremilast at week 16 and week 24. Improvement of these responses in patients receiving continuous deucravacitinib treatment were
+
+maintained through week 52 in POETYK PSO-1.
 
 Table 3: Patient reported outcomes in POETYK PSO-1 and POETYK PSO-2
 
@@ -391,7 +393,9 @@ d  Nominal p ≤ 0.02
 
 * Data are shown for available subjects in the format of % (n/N) observed
 
-** Minimal disease activity (MDA) = 5 out of 7 outcomes: tender joint count ≤ 1; swollen joint count ≤ 1; Psoriasis Activity and Severity Index ≤ 1 or body surface area ≤ 3% ; patient pain visual analogue scale (VAS) ≤ 15; patient global disease activity VAS ≤ 20; Health Assessment Questionnaire Disability Index ≤ 0.5; tender entheseal points ≤ 1
+** Minimal disease activity (MDA) = 5 out of 7 outcomes: tender joint count ≤ 1; swollen joint count ≤ 1; Psoriasis Activity and Severity Index ≤ 1 or body surface area ≤ 3%; patient pain visual analogue scale (VAS) ≤ 15; patient global disease activity VAS ≤ 20; Health Assessment Questionnaire Disability Index ≤ 0.5; tender entheseal points
+
+≤ 1
 
 In PsA-1 and PsA-2, improvement in patients treated with deucravacitinib was shown at week 16 in all components of ACR, including patient assessment of pain (Pain VAS), and further improved beyond week 16 and maintained up to week 52.
 
@@ -403,7 +407,7 @@ In patients with coexistent plaque psoriasis receiving SOTYKTU, significant impr
 
 ## Physical function response
 
-In both studies, patients treated with deucravacitinib showed a statistically significant improvement from baseline in physical function as measured by the Health Assessment Questionnaire Disability Index (HAQ-DI) compared with placebo. The adjusted mean difference (95% CI) from placebo in HAQ-DI change from baseline at week 16 was -0.17 (-0.24, -0.09) in study PsA-1 and 0.11 (-0.18, -0.04) in study PsA-2. The proportion of HAQDI responders (≥ 0.35 improvement from baseline) at week 16 in PsA-1 and PsA-2 was 51.3% and 48.9%, respectively, in patients receiving deucravacitinib, 38.8% and 43.2%, respectively, in patients receiving placebo. The response was maintained up to week 52 in both studies.
+In both studies, patients treated with deucravacitinib showed a statistically significant improvement from baseline in physical function as measured by the Health Assessment Questionnaire Disability Index (HAQ-DI) compared with placebo. The adjusted mean difference (95% CI) from placebo in HAQ-DI change from baseline at week 16 was -0.17 (-0.24, -0.09) in study PsA-1 and 0.11 (-0.18, -0.04) in study PsA-2. The proportion of HAQ-DI responders (≥ 0.35 improvement from baseline) at week 16 in PsA-1 and PsA-2 was 51.3% and 48.9%, respectively, in patients receiving deucravacitinib, 38.8% and 43.2%, respectively, in patients receiving placebo. The response was maintained up to week 52 in both studies.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -437,11 +441,15 @@ The volume of distribution at steady state (Vss), is 140 L, which is greater tha
 
 Deucravacitinib distributes similarly between plasma and red blood cell components with blood-toplasma concentration ratio of 1.26.
 
+## Excretion into breast milk
+
+Following a single oral dose of deucravacitinib 9 mg in eight healthy lactating women, deucravacitinib and its major metabolite BMT-153261 were measurable in breast milk. Peak milk concentrations were reached rapidly, with median Tmax values of approximately 1 hour for deucravacitinib and 6 hours for BMT-153261. The estimated milk-to-plasma ratios for Cmax and AUC were 1.5 and 3.2, respectively, for deucravacitinib, and higher for BMT-153261 (Cmax ratio 13; AUC ratio 16). Within 24 hours postdose, 93% of deucravacitinib and 80% of BMT-153261 were excreted in breast milk. Lactation had little to no influence on deucravacitinib plasma exposure.
+
+<div style=\"page-break-after: always\"></div>
+
 ## Biotransformation
 
 In humans, deucravacitinib is metabolised via four primary biotransformation pathways, which include N-demethylation at the triazole moiety by cytochrome P-450 (CYP) 1A2 to form major metabolite BMT-153261, cyclopropyl carboxamide hydrolysis by carboxylesterase 2 (CES2) to form major metabolite BMT-158170, N-glucuronidation by uridine glucuronyl transferase (UGT) to form BMT-334616, and mono-oxidation by CYP 2B6/2D6 at the deuterated methyl group to form M11.
-
-<div style=\"page-break-after: always\"></div>
 
 At steady state, deucravacitinib is the major circulating species constituting 49% of measured compound related components. Two major circulating metabolites, BMT-153261 and BMT-158170, were identified, both of which have half-lives comparable to the parent deucravacitinib. BMT-153261 has comparable potency to the parent compound and BMT-158170 is not pharmacologically active. The circulating exposure of BMT-153261 is much lower than the parent compound and therefore, the predominant pharmacological activity is attributed to the parent compound deucravacitinib.
 
@@ -465,21 +473,19 @@ The pharmacokinetics of single doses of deucravacitinib administered as tablets 
 
 In vitro studies have shown no evidence that deucravacitinib and its major circulating metabolites, at clinically relevant exposures, inhibit major CYPs (1A2, 2B6, 2C8, 2C9, 2C19, 2D6, 3A4), UGTs (1A1, 1A4, 1A6, 1A9, 2B7), CES2 and drug transporters (P-gp, BCRP, OATP1B1, OATP1B3, BSEP, MRP2, OAT1, OAT3, OCT1, OCT2, MATE1, and MATE2K). Additionally, deucravacitinib does not induce CYP 1A2, 2B6, and 3A4 (see section 4.5).
 
+<div style=\"page-break-after: always\"></div>
+
 ## Special populations
 
 ## Elderly
 
-Based on population pharmacokinetic analysis, deucravacitinib mean steady state exposure (Cavg,ss) was higher, up to 31% in patients aged 65-74 years [n = 87 of 1387 (6.3%) in psoriasis and n = 155 of 1325 (11.7%) in psoriatic arthritis] and up to 53% in those patients aged 75-84 years [n = 13 of
-
-<div style=\"page-break-after: always\"></div>
-
-1387 (0.94%) in psoriasis and n = 23 of 1325 (1.7%) in psoriatic arthritis]. Exposure data in patients aged ≥ 85 years old are limited.
+Based on population pharmacokinetic analysis, deucravacitinib mean steady state exposure (Cavg,ss) was higher, up to 31% in patients aged 65-74 years [n = 87 of 1387 (6.3%) in psoriasis and n = 155 of 1325 (11.7%) in psoriatic arthritis] and up to 53% in those patients aged 75-84 years [n = 13 of 1387 (0.94%) in psoriasis and n = 23 of 1325 (1.7%) in psoriatic arthritis]. Exposure data in patients aged ≥ 85 years old are limited.
 
 ## Patients with renal impairment
 
 Renal impairment has no clinically meaningful effect on deucravacitinib exposures (see section 4.2) based on a dedicated study where estimated glomerular filtration rate (eGFR) was determined using a modification of diet in renal disease (MDRD) equation. Compared to normal renal function group, deucravacitinib Cmax was altered by up to 15% and AUC[INF] increased by up to 48% across renal impairment groups (mild (eGFR: ≥ 60 to &lt; 90 mL/min), moderate (eGFR: ≥ 30 to &lt; 60 mL/min), severe (eGFR: &lt; 30 mL/min), and ESRD (eGFR: &lt; 15 mL/min)). Compared to the normal renal function group, BMT-153261 Cmax increased by up to 34% and AUC[INF] increased up to 84% across renal impairment groups.
 
-Dialysis does not substantially clear deucravacitinib from systemic circulation (5.4% of dose cleared per dialysis).
+Dialysis does not substantially clear deucravacitinib from systemic  circulation (5.4% of dose cleared per dialysis).
 
 ## Patients with hepatic impairment
 
@@ -499,15 +505,15 @@ Based on population pharmacokinetic modelling and simulation, patients with lowe
 
 Race, and ethnicity did not have a clinically meaningful effect on deucravacitinib exposure.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 5.3 Preclinical safety data
 
 Non-clinical data reveal no special hazard for humans based on conventional studies of safety pharmacology, repeated dose toxicity, genotoxicity, carcinogenic potential, and toxicity to reproduction and development.
 
 ## Repeated dose toxicity
 
-In the chronic toxicity study in rats, decreases in lymphocyte counts, bone marrow cellularity and lymphoid cellularity in tissues of the immune system were observed at exposure (AUC) at lowest- observed-effect-level (LOEL) approximately 7 times the recommended human dose (RHD). These effects were not associated with clinical signs of immunosuppression (e.g., infections). Decreases in platelet counts and red blood cell (RBC) mass parameters were observed at exposure (AUC) at the LOEL approximately 33 times the RHD. In the chronic toxicity study in monkeys, clinical and microscopic skin changes and decreased RBC mass parameters were observed at exposure (AUC) at LOEL approximately 6 times the RHD.
-
-<div style=\"page-break-after: always\"></div>
+In the chronic toxicity study in rats, decreases in lymphocyte counts, bone marrow cellularity and lymphoid cellularity in tissues of the immune system were observed at exposure (AUC) at lowestobserved-effect-level (LOEL) approximately 7 times the recommended human dose (RHD). These effects were not associated with clinical signs of immunosuppression (e.g., infections). Decreases in platelet counts and red blood cell (RBC) mass parameters were observed at exposure (AUC) at the LOEL approximately 33 times the RHD. In the chronic toxicity study in monkeys, clinical and microscopic skin changes and decreased RBC mass parameters were observed at exposure (AUC) at LOEL approximately 6 times the RHD.
 
 ## Developmental and reproductive toxicity
 
@@ -515,7 +521,7 @@ Deucravacitinib had no effects on fertility or early embryonic development in ma
 
 In a pre- and post-natal development study in rats, transiently lower pup body weights were noted during the pre-weaning period at maternal exposure (AUC) approximately 87 times the RHD. This effect fully recovered during the post-weaning period.
 
-Following administration of radiolabelled deucravacitinib to lactating rats, deucravacitinib and/or its metabolites were present in the milk with milk-to-plasma concentration ratios of 2.7 to 30.9.
+Following administration of radiolabelled deucravacitinib to lactating rats, deucravacitinib and/or its metabolites were present in the milk with milk-to-plasma concentration  ratios of 2.7 to 30.9.
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
@@ -533,6 +539,8 @@ Polyvinyl alcohol Titanium dioxide (E171) Macrogol Talc Iron oxide red (E172) Ir
 
 Not applicable.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 6.3 Shelf life
 
 3 years.
@@ -540,8 +548,6 @@ Not applicable.
 ## 6.4 Special precautions for storage
 
 This medicinal product does not require any special storage conditions.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 6.5 Nature and contents of container
 
@@ -557,13 +563,13 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Bristol-Myers Squibb Pharma EEIG Plaza 254 Blanchardstown Corporate Park 2 Dublin 15, D15 T867 Ireland
+Bristol-Myers Squibb Pharma EEIG Plaza 254 Blanchardstown Corporate Park 2 Dublin 15, D15 T867
+
+Ireland
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/23/1718/001 EU/1/23/1718/002 EU/1/23/1718/003 EU/1/23/1718/004 EU/1/23/1718/005 EU/1/23/1718/006 EU/1/23/1718/007
-
-EU/1/23/1718/008
+EU/1/23/1718/001 EU/1/23/1718/002 EU/1/23/1718/003 EU/1/23/1718/004 EU/1/23/1718/005 EU/1/23/1718/006 EU/1/23/1718/007 EU/1/23/1718/008
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -712,8 +718,7 @@ SOTYKTU 6 mg
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 PC SN
 
@@ -743,10 +748,12 @@ EXP
 | 4.   | BATCH NUMBER   |
 |------|----------------|
 
-Lot SOTYKTU 6 mg tablets deucravacitinib Bristol-Myers Squibb Pharma EEIG
+Lot
 
 | 5.   | OTHER   |
 |------|---------|
+
+23
 
 <div style=\"page-break-after: always\"></div>
 
@@ -757,8 +764,12 @@ Lot SOTYKTU 6 mg tablets deucravacitinib Bristol-Myers Squibb Pharma EEIG
 | 1.   | NAME OF THE MEDICINAL PRODUCT   |
 |------|---------------------------------|
 
+SOTYKTU 6 mg tablets deucravacitinib
+
 | 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
 |------|----------------------------------------------|
+
+Bristol-Myers Squibb Pharma EEIG
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -782,8 +793,6 @@ Monday Tuesday Wednesday Thursday Friday Saturday Sunday
 ## B. PACKAGE LEAFLET
 
 <div style=\"page-break-after: always\"></div>
-
-<!-- image -->
 
 ## Package leaflet: Information for the patient
 
@@ -1052,7 +1061,11 @@ Bristol-Myers Squibb Polska Sp. z o.o. Tel.: + 48 22 2606400 informacja.medyczna
 
 ## France
 
-Bristol-Myers Squibb SAS Tél: + 33 (0)1 58 83 84 96 infomed@bms.com
+Bristol-Myers Squibb SAS
+
+Tél: + 33 (0)1 58 83 84 96
+
+infomed@bms.com
 
 ## Hrvatska
 
@@ -1064,7 +1077,11 @@ Bristol-Myers Squibb Pharmaceuticals uc Tel: 1 800 749 749 (+ 353 (0)1 483 3625)
 
 ## Ísland
 
-Vistor ehf. Sími: + 354 535 7000 medical.information@bms.com
+Vistor ehf.
+
+Sími: + 354 535 7000
+
+medical.information@bms.com
 
 ## Italia
 
@@ -1098,11 +1115,15 @@ Swixx Biopharma d.o.o. Tel: + 386 1 2355 100 medinfo.slovenia@swixxbiopharma.com
 
 ## Slovenská republika
 
-Swixx Biopharma s.r.o. Tel: + 421 2 20833 600 medinfo.slovakia@swixxbiopharma.com
+Swixx Biopharma s.r.o.
+
+Tel: + 421 2 20833 600 medinfo.slovakia@swixxbiopharma.com
 
 ## Suomi/Finland
 
-Oy Bristol-Myers Squibb (Finland) Ab Puh/Tel: + 358 9 251 21 230 medinfo.finland@bms.com
+Oy Bristol-Myers Squibb (Finland) Ab
+
+Puh/Tel: + 358 9 251 21 230 medinfo.finland@bms.com
 
 ## Sverige
 

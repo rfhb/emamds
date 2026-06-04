@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-03-13 16:53:00
+document_datetime: 2026-06-01 10:20:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/carvykti.html
 document_name: carvykti.html
 version: success
-processing_time: 0.1033068
-conversion_datetime: 2026-03-17 19:25:57.638538
+processing_time: 0.126323
+conversion_datetime: 2026-06-04 22:19:10.771945
 docling_version:
-  docling-serve: 1.14.3
-  docling-jobkit: 1.13.0
-  docling: 2.80.0
-  docling-core: 2.70.1
-  docling-ibm-models: 3.12.0
-  docling-parse: 5.5.0
+  docling-serve: 1.21.0
+  docling-jobkit: 1.20.1
+  docling: 2.97.0
+  docling-core: 2.78.0
+  docling-ibm-models: 3.13.2
+  docling-parse: 6.2.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
 ---
 # Carvykti
 
@@ -24,7 +24,9 @@ Authorised
 
 This medicine is authorised for use in the European Union
 
-ciltacabtagene autoleucel Medicine Human Authorised
+ciltacabtagene autoleucel
+
+Medicine Human Authorised
 
 Page contents
 
@@ -56,7 +58,7 @@ Expand section
 
 Collapse section
 
-## How is Carvykti used?
+### How is Carvykti used?
 
 Carvykti can only be given to patients by trained doctors in specialist hospitals.
 
@@ -70,13 +72,13 @@ Patients should be closely monitored for side effects daily for 14 days after th
 
 For more information about using Carvykti, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Carvykti work?
+### How does Carvykti work?
 
 Carvykti contains ciltacabtagene autoleucel which consist of the patient's own T cells that have been modified genetically in the laboratory, so that they make a protein called chimeric antigen receptor (CAR). CAR can attach to a protein called B cell maturation antigen (BCMA) that is present on the surface of multiple myeloma cells.
 
 When Carvykti is given to the patient, the modified T cells attach to BCMA and then kill the myeloma cells, thereby helping to clear the multiple myeloma from the body.
 
-## What benefits of Carvykti have been shown in studies?
+### What benefits of Carvykti have been shown in studies?
 
 A first study showed that a single infusion of Carvykti was effective at clearing cancer cells in patients with multiple myeloma that had returned and did not respond to three or more previous treatments. After one and a half year, about 84% of patients (95 out of 113) responded to the treatment and 69% (78 out of 113) had signs that the cancer had disappeared (complete response). Carvykti was not compared to another medicine in this study.
 
@@ -84,7 +86,7 @@ These results were better than those seen in other studies of patients receiving
 
 A second study showed that Carvykti was effective in patients with multiple myeloma that had returned and did not respond to one to three previous treatments including lenalidomide. Patients received either Carvykti after bridging therapy (standard treatment received while awaiting the manufacture of Carvykti) or standard treatment alone. Standard treatment consisted of bortezomib, pomalidomide and dexamethasone or daratumumab, pomalidomide and dexamethasone. After nearly 16 months of treatment, fewer patients who received Carvykti had their disease worsen (31%, 65 out of 208) compared with patients who received standard treatment alone (58%, 122 out of 211 patients).
 
-## What are the risks associated with Carvykti?
+### What are the risks associated with Carvykti?
 
 For the full list of side effects and restrictions with Carvykti, see the package leaflet.
 
@@ -92,7 +94,7 @@ The most common side effects with Carvykti (which may affect more than 1 in 5 pe
 
 People who cannot have chemotherapy to clear away their existing white blood cells must not receive Carvykti.
 
-## Why is Carvykti authorised in the EU?
+### Why is Carvykti authorised in the EU?
 
 Despite the availability of an increasing number of treatments for multiple myeloma, the disease eventually usually comes back and becomes incurable. In two main studies, a single infusion of Carvykti led to clinically meaningful response rates in multiple myeloma patients whose cancer had come back and did not respond to previous treatments.
 
@@ -100,7 +102,7 @@ Serious side effects, particularly cytokine release syndrome and a neurological 
 
 Carvykti was originally given 'conditional authorisation'. The authorisation has now been switched to standard authorisation as the company has provided additional data requested by the Agency.
 
-## What measures are being taken to ensure the safe and effective use of Carvykti?
+### What measures are being taken to ensure the safe and effective use of Carvykti?
 
 The company that markets Carvykti must carry out studies to collect more information on the long-term safety and effectiveness of Carvykti. It must also ensure that hospitals where Carvykti is given have appropriate expertise, facilities and training. Tocilizumab, or suitable alternatives in case of its unavailability due to shortage, must be available for the management of cytokine release syndrome.
 
@@ -110,7 +112,7 @@ Recommendations and precautions to be followed by healthcare professionals and p
 
 As for all medicines, data on the use of Carvykti are continuously monitored. Side effects reported with Carvykti are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Carvykti
+### Other information about Carvykti
 
 Carvykti received a conditional marketing authorisation valid throughout the EU on 25 May 2022. This was switched to a full standard marketing authorisation on 19 April 2024.
 
@@ -120,275 +122,141 @@ Reference Number: EMA/145227/2024
 
 English (EN) (108.78 KB - PDF)
 
-**First published:** 13/06/2022
-
-**Last updated:** 29/04/2024
+**First published:** 13/06/2022 **Last updated:** 29/04/2024
 
 [View](/en/documents/overview/carvykti-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-220)
+[Other languages (22)](#file-language-dropdown-939)
 
 български (BG) (136.47 KB - PDF)
 
-**First published:**
-
-13/06/2022
-
-**Last updated:**
-
-29/04/2024
+**First published:** 13/06/2022 **Last updated:** 29/04/2024
 
 [View](/bg/documents/overview/carvykti-epar-medicine-overview_bg.pdf)
 
 español (ES) (108.38 KB - PDF)
 
-**First published:**
-
-13/06/2022
-
-**Last updated:**
-
-29/04/2024
+**First published:** 13/06/2022 **Last updated:** 29/04/2024
 
 [View](/es/documents/overview/carvykti-epar-medicine-overview_es.pdf)
 
 čeština (CS) (133.26 KB - PDF)
 
-**First published:**
-
-13/06/2022
-
-**Last updated:**
-
-29/04/2024
+**First published:** 13/06/2022 **Last updated:** 29/04/2024
 
 [View](/cs/documents/overview/carvykti-epar-medicine-overview_cs.pdf)
 
 dansk (DA) (108.09 KB - PDF)
 
-**First published:**
-
-13/06/2022
-
-**Last updated:**
-
-29/04/2024
+**First published:** 13/06/2022 **Last updated:** 29/04/2024
 
 [View](/da/documents/overview/carvykti-epar-medicine-overview_da.pdf)
 
 Deutsch (DE) (112.67 KB - PDF)
 
-**First published:**
-
-13/06/2022
-
-**Last updated:**
-
-29/04/2024
+**First published:** 13/06/2022 **Last updated:** 29/04/2024
 
 [View](/de/documents/overview/carvykti-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (105.66 KB - PDF)
+eesti (ET) (105.66 KB - PDF)
 
-**First published:**
-
-13/06/2022
-
-**Last updated:**
-
-29/04/2024
+**First published:** 13/06/2022 **Last updated:** 29/04/2024
 
 [View](/et/documents/overview/carvykti-epar-medicine-overview_et.pdf)
 
 ελληνικά (EL) (136.38 KB - PDF)
 
-**First published:**
-
-13/06/2022
-
-**Last updated:**
-
-29/04/2024
+**First published:** 13/06/2022 **Last updated:** 29/04/2024
 
 [View](/el/documents/overview/carvykti-epar-medicine-overview_el.pdf)
 
 français (FR) (109.65 KB - PDF)
 
-**First published:**
-
-13/06/2022
-
-**Last updated:**
-
-29/04/2024
+**First published:** 13/06/2022 **Last updated:** 29/04/2024
 
 [View](/fr/documents/overview/carvykti-epar-medicine-overview_fr.pdf)
 
 hrvatski (HR) (134.45 KB - PDF)
 
-**First published:**
-
-13/06/2022
-
-**Last updated:**
-
-29/04/2024
+**First published:** 13/06/2022 **Last updated:** 29/04/2024
 
 [View](/hr/documents/overview/carvykti-epar-medicine-overview_hr.pdf)
 
 italiano (IT) (106.55 KB - PDF)
 
-**First published:**
-
-13/06/2022
-
-**Last updated:**
-
-29/04/2024
+**First published:** 13/06/2022 **Last updated:** 29/04/2024
 
 [View](/it/documents/overview/carvykti-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (148.04 KB - PDF)
+latviešu (LV) (148.04 KB - PDF)
 
-**First published:**
-
-13/06/2022
-
-**Last updated:**
-
-29/04/2024
+**First published:** 13/06/2022 **Last updated:** 29/04/2024
 
 [View](/lv/documents/overview/carvykti-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (131.01 KB - PDF)
+lietuvių (LT) (131.01 KB - PDF)
 
-**First published:**
-
-13/06/2022
-
-**Last updated:**
-
-29/04/2024
+**First published:** 13/06/2022 **Last updated:** 29/04/2024
 
 [View](/lt/documents/overview/carvykti-epar-medicine-overview_lt.pdf)
 
 magyar (HU) (132.57 KB - PDF)
 
-**First published:**
-
-13/06/2022
-
-**Last updated:**
-
-29/04/2024
+**First published:** 13/06/2022 **Last updated:** 29/04/2024
 
 [View](/hu/documents/overview/carvykti-epar-medicine-overview_hu.pdf)
 
 Malti (MT) (134.27 KB - PDF)
 
-**First published:**
-
-13/06/2022
-
-**Last updated:**
-
-29/04/2024
+**First published:** 13/06/2022 **Last updated:** 29/04/2024
 
 [View](/mt/documents/overview/carvykti-epar-medicine-overview_mt.pdf)
 
 Nederlands (NL) (109.18 KB - PDF)
 
-**First published:**
-
-13/06/2022
-
-**Last updated:**
-
-29/04/2024
+**First published:** 13/06/2022 **Last updated:** 29/04/2024
 
 [View](/nl/documents/overview/carvykti-epar-medicine-overview_nl.pdf)
 
 polski (PL) (136.64 KB - PDF)
 
-**First published:**
-
-13/06/2022
-
-**Last updated:**
-
-29/04/2024
+**First published:** 13/06/2022 **Last updated:** 29/04/2024
 
 [View](/pl/documents/overview/carvykti-epar-medicine-overview_pl.pdf)
 
 português (PT) (108.71 KB - PDF)
 
-**First published:**
-
-13/06/2022
-
-**Last updated:**
-
-29/04/2024
+**First published:** 13/06/2022 **Last updated:** 29/04/2024
 
 [View](/pt/documents/overview/carvykti-epar-medicine-overview_pt.pdf)
 
 română (RO) (127.88 KB - PDF)
 
-**First published:**
-
-13/06/2022
-
-**Last updated:**
-
-29/04/2024
+**First published:** 13/06/2022 **Last updated:** 29/04/2024
 
 [View](/ro/documents/overview/carvykti-epar-medicine-overview_ro.pdf)
 
 slovenčina (SK) (133.15 KB - PDF)
 
-**First published:**
-
-13/06/2022
-
-**Last updated:**
-
-29/04/2024
+**First published:** 13/06/2022 **Last updated:** 29/04/2024
 
 [View](/sk/documents/overview/carvykti-epar-medicine-overview_sk.pdf)
 
 slovenščina (SL) (129.47 KB - PDF)
 
-**First published:**
-
-13/06/2022
-
-**Last updated:**
-
-29/04/2024
+**First published:** 13/06/2022 **Last updated:** 29/04/2024
 
 [View](/sl/documents/overview/carvykti-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (104.81 KB - PDF)
+suomi (FI) (104.81 KB - PDF)
 
-**First published:**
-
-13/06/2022
-
-**Last updated:**
-
-29/04/2024
+**First published:** 13/06/2022 **Last updated:** 29/04/2024
 
 [View](/fi/documents/overview/carvykti-epar-medicine-overview_fi.pdf)
 
 svenska (SV) (106.07 KB - PDF)
 
-**First published:**
-
-13/06/2022
-
-**Last updated:**
-
-29/04/2024
+**First published:** 13/06/2022 **Last updated:** 29/04/2024
 
 [View](/sv/documents/overview/carvykti-epar-medicine-overview_sv.pdf)
 
@@ -396,9 +264,7 @@ Carvykti : EPAR - Risk management plan
 
 English (EN) (1.74 MB - PDF)
 
-**First published:** 13/06/2022
-
-**Last updated:** 13/03/2026
+**First published:** 13/06/2022 **Last updated:** 13/03/2026
 
 [View](/en/documents/rmp/carvykti-epar-risk-management-plan_en.pdf)
 
@@ -406,305 +272,161 @@ English (EN) (1.74 MB - PDF)
 
 Carvykti : EPAR - Product information
 
-English (EN) (431.31 KB - PDF)
+English (EN) (438.88 KB - PDF)
 
-**First published:** 13/06/2022
-
-**Last updated:** 10/02/2026
+**First published:** 13/06/2022 **Last updated:** 01/06/2026
 
 [View](/en/documents/product-information/carvykti-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-938)
+[Other languages (24)](#file-language-dropdown-593)
 
-български (BG) (462.62 KB - PDF)
+български (BG) (490.46 KB - PDF)
 
-**First published:**
-
-13/06/2022
-
-**Last updated:**
-
-10/02/2026
+**First published:** 13/06/2022 **Last updated:** 01/06/2026
 
 [View](/bg/documents/product-information/carvykti-epar-product-information_bg.pdf)
 
-español (ES) (1017.78 KB - PDF)
+español (ES) (1020 KB - PDF)
 
-**First published:**
-
-13/06/2022
-
-**Last updated:**
-
-10/02/2026
+**First published:** 13/06/2022 **Last updated:** 01/06/2026
 
 [View](/es/documents/product-information/carvykti-epar-product-information_es.pdf)
 
-čeština (CS) (850.41 KB - PDF)
+čeština (CS) (968.3 KB - PDF)
 
-**First published:**
-
-13/06/2022
-
-**Last updated:**
-
-10/02/2026
+**First published:** 13/06/2022 **Last updated:** 01/06/2026
 
 [View](/cs/documents/product-information/carvykti-epar-product-information_cs.pdf)
 
-dansk (DA) (827.61 KB - PDF)
+dansk (DA) (829.24 KB - PDF)
 
-**First published:**
-
-13/06/2022
-
-**Last updated:**
-
-10/02/2026
+**First published:** 13/06/2022 **Last updated:** 01/06/2026
 
 [View](/da/documents/product-information/carvykti-epar-product-information_da.pdf)
 
-Deutsch (DE) (641.6 KB - PDF)
+Deutsch (DE) (642.03 KB - PDF)
 
-**First published:**
-
-13/06/2022
-
-**Last updated:**
-
-10/02/2026
+**First published:** 13/06/2022 **Last updated:** 01/06/2026
 
 [View](/de/documents/product-information/carvykti-epar-product-information_de.pdf)
 
-eesti keel (ET) (654.01 KB - PDF)
+eesti (ET) (655.92 KB - PDF)
 
-**First published:**
-
-13/06/2022
-
-**Last updated:**
-
-10/02/2026
+**First published:** 13/06/2022 **Last updated:** 01/06/2026
 
 [View](/et/documents/product-information/carvykti-epar-product-information_et.pdf)
 
-ελληνικά (EL) (687.96 KB - PDF)
+ελληνικά (EL) (691.09 KB - PDF)
 
-**First published:**
-
-13/06/2022
-
-**Last updated:**
-
-10/02/2026
+**First published:** 13/06/2022 **Last updated:** 01/06/2026
 
 [View](/el/documents/product-information/carvykti-epar-product-information_el.pdf)
 
-français (FR) (642.88 KB - PDF)
+français (FR) (646.25 KB - PDF)
 
-**First published:**
-
-13/06/2022
-
-**Last updated:**
-
-10/02/2026
+**First published:** 13/06/2022 **Last updated:** 01/06/2026
 
 [View](/fr/documents/product-information/carvykti-epar-product-information_fr.pdf)
 
-hrvatski (HR) (894.75 KB - PDF)
+hrvatski (HR) (902.64 KB - PDF)
 
-**First published:**
-
-13/06/2022
-
-**Last updated:**
-
-10/02/2026
+**First published:** 13/06/2022 **Last updated:** 01/06/2026
 
 [View](/hr/documents/product-information/carvykti-epar-product-information_hr.pdf)
 
-íslenska (IS) (634.38 KB - PDF)
+italiano (IT) (610.95 KB - PDF)
 
-**First published:**
-
-13/06/2022
-
-**Last updated:**
-
-10/02/2026
-
-[View](/is/documents/product-information/carvykti-epar-product-information_is.pdf)
-
-italiano (IT) (560.26 KB - PDF)
-
-**First published:**
-
-13/06/2022
-
-**Last updated:**
-
-10/02/2026
+**First published:** 13/06/2022 **Last updated:** 01/06/2026
 
 [View](/it/documents/product-information/carvykti-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (590.2 KB - PDF)
+latviešu (LV) (593.81 KB - PDF)
 
-**First published:**
-
-13/06/2022
-
-**Last updated:**
-
-10/02/2026
+**First published:** 13/06/2022 **Last updated:** 01/06/2026
 
 [View](/lv/documents/product-information/carvykti-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (824.86 KB - PDF)
+lietuvių (LT) (827.92 KB - PDF)
 
-**First published:**
-
-13/06/2022
-
-**Last updated:**
-
-10/02/2026
+**First published:** 13/06/2022 **Last updated:** 01/06/2026
 
 [View](/lt/documents/product-information/carvykti-epar-product-information_lt.pdf)
 
 magyar (HU) (1.05 MB - PDF)
 
-**First published:**
-
-13/06/2022
-
-**Last updated:**
-
-10/02/2026
+**First published:** 13/06/2022 **Last updated:** 01/06/2026
 
 [View](/hu/documents/product-information/carvykti-epar-product-information_hu.pdf)
 
-Malti (MT) (1010.77 KB - PDF)
+Malti (MT) (1014 KB - PDF)
 
-**First published:**
-
-13/06/2022
-
-**Last updated:**
-
-10/02/2026
+**First published:** 13/06/2022 **Last updated:** 01/06/2026
 
 [View](/mt/documents/product-information/carvykti-epar-product-information_mt.pdf)
 
-Nederlands (NL) (607.27 KB - PDF)
+Nederlands (NL) (609.76 KB - PDF)
 
-**First published:**
-
-13/06/2022
-
-**Last updated:**
-
-10/02/2026
+**First published:** 13/06/2022 **Last updated:** 01/06/2026
 
 [View](/nl/documents/product-information/carvykti-epar-product-information_nl.pdf)
 
-norsk (NO) (847.1 KB - PDF)
+polski (PL) (670.88 KB - PDF)
 
-**First published:**
-
-13/06/2022
-
-**Last updated:**
-
-10/02/2026
-
-[View](/no/documents/product-information/carvykti-epar-product-information_no.pdf)
-
-polski (PL) (668.48 KB - PDF)
-
-**First published:**
-
-13/06/2022
-
-**Last updated:**
-
-10/02/2026
+**First published:** 13/06/2022 **Last updated:** 01/06/2026
 
 [View](/pl/documents/product-information/carvykti-epar-product-information_pl.pdf)
 
-português (PT) (589.1 KB - PDF)
+português (PT) (591.31 KB - PDF)
 
-**First published:**
-
-13/06/2022
-
-**Last updated:**
-
-10/02/2026
+**First published:** 13/06/2022 **Last updated:** 01/06/2026
 
 [View](/pt/documents/product-information/carvykti-epar-product-information_pt.pdf)
 
-română (RO) (775.97 KB - PDF)
+română (RO) (777.87 KB - PDF)
 
-**First published:**
-
-13/06/2022
-
-**Last updated:**
-
-10/02/2026
+**First published:** 13/06/2022 **Last updated:** 01/06/2026
 
 [View](/ro/documents/product-information/carvykti-epar-product-information_ro.pdf)
 
-slovenčina (SK) (461.24 KB - PDF)
+slovenčina (SK) (463.62 KB - PDF)
 
-**First published:**
-
-13/06/2022
-
-**Last updated:**
-
-10/02/2026
+**First published:** 13/06/2022 **Last updated:** 01/06/2026
 
 [View](/sk/documents/product-information/carvykti-epar-product-information_sk.pdf)
 
-slovenščina (SL) (803.83 KB - PDF)
+slovenščina (SL) (806.16 KB - PDF)
 
-**First published:**
-
-13/06/2022
-
-**Last updated:**
-
-10/02/2026
+**First published:** 13/06/2022 **Last updated:** 01/06/2026
 
 [View](/sl/documents/product-information/carvykti-epar-product-information_sl.pdf)
 
-Suomi (FI) (753.12 KB - PDF)
+suomi (FI) (852.59 KB - PDF)
 
-**First published:**
-
-13/06/2022
-
-**Last updated:**
-
-10/02/2026
+**First published:** 13/06/2022 **Last updated:** 01/06/2026
 
 [View](/fi/documents/product-information/carvykti-epar-product-information_fi.pdf)
 
-svenska (SV) (514.46 KB - PDF)
+svenska (SV) (517.76 KB - PDF)
 
-**First published:**
-
-13/06/2022
-
-**Last updated:**
-
-10/02/2026
+**First published:** 13/06/2022 **Last updated:** 01/06/2026
 
 [View](/sv/documents/product-information/carvykti-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000323641 10/02/2026
+Íslenska (IS) (637.06 KB - PDF)
+
+**First published:** 13/06/2022 **Last updated:** 01/06/2026
+
+[View](/is/documents/product-information/carvykti-epar-product-information_is.pdf)
+
+norsk (NO) (836.83 KB - PDF)
+
+**First published:** 13/06/2022 **Last updated:** 01/06/2026
+
+[View](/no/documents/product-information/carvykti-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** PSUR/0000311150
+
+28/05/2026
 
 icon globe
 
@@ -724,305 +446,177 @@ Carvykti : EPAR - All authorised presentations
 
 English (EN) (30.79 KB - PDF)
 
-**First published:** 13/06/2022
-
-**Last updated:** 12/12/2023
+**First published:** 13/06/2022 **Last updated:** 12/12/2023
 
 [View](/en/documents/all-authorised-presentations/carvykti-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-150)
+[Other languages (24)](#file-language-dropdown-54)
 
 български (BG) (32.29 KB - PDF)
 
-**First published:**
-
-13/06/2022
-
-**Last updated:**
-
-12/12/2023
+**First published:** 13/06/2022 **Last updated:** 12/12/2023
 
 [View](/bg/documents/all-authorised-presentations/carvykti-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (30.24 KB - PDF)
 
-**First published:**
-
-13/06/2022
-
-**Last updated:**
-
-12/12/2023
+**First published:** 13/06/2022 **Last updated:** 12/12/2023
 
 [View](/es/documents/all-authorised-presentations/carvykti-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (31.13 KB - PDF)
 
-**First published:**
-
-13/06/2022
-
-**Last updated:**
-
-12/12/2023
+**First published:** 13/06/2022 **Last updated:** 12/12/2023
 
 [View](/cs/documents/all-authorised-presentations/carvykti-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (31.94 KB - PDF)
 
-**First published:**
-
-13/06/2022
-
-**Last updated:**
-
-12/12/2023
+**First published:** 13/06/2022 **Last updated:** 12/12/2023
 
 [View](/da/documents/all-authorised-presentations/carvykti-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (31.37 KB - PDF)
 
-**First published:**
-
-13/06/2022
-
-**Last updated:**
-
-12/12/2023
+**First published:** 13/06/2022 **Last updated:** 12/12/2023
 
 [View](/de/documents/all-authorised-presentations/carvykti-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (29.76 KB - PDF)
+eesti (ET) (29.76 KB - PDF)
 
-**First published:**
-
-13/06/2022
-
-**Last updated:**
-
-12/12/2023
+**First published:** 13/06/2022 **Last updated:** 12/12/2023
 
 [View](/et/documents/all-authorised-presentations/carvykti-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (31.59 KB - PDF)
 
-**First published:**
-
-13/06/2022
-
-**Last updated:**
-
-12/12/2023
+**First published:** 13/06/2022 **Last updated:** 12/12/2023
 
 [View](/el/documents/all-authorised-presentations/carvykti-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (30.05 KB - PDF)
 
-**First published:**
-
-13/06/2022
-
-**Last updated:**
-
-12/12/2023
+**First published:** 13/06/2022 **Last updated:** 12/12/2023
 
 [View](/fr/documents/all-authorised-presentations/carvykti-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (30.02 KB - PDF)
 
-**First published:**
-
-13/06/2022
-
-**Last updated:**
-
-12/12/2023
+**First published:** 13/06/2022 **Last updated:** 12/12/2023
 
 [View](/hr/documents/all-authorised-presentations/carvykti-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (31.54 KB - PDF)
-
-**First published:**
-
-13/06/2022
-
-**Last updated:**
-
-12/12/2023
-
-[View](/is/documents/all-authorised-presentations/carvykti-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (30.05 KB - PDF)
 
-**First published:**
-
-13/06/2022
-
-**Last updated:**
-
-12/12/2023
+**First published:** 13/06/2022 **Last updated:** 12/12/2023
 
 [View](/it/documents/all-authorised-presentations/carvykti-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (30.26 KB - PDF)
+latviešu (LV) (30.26 KB - PDF)
 
-**First published:**
-
-13/06/2022
-
-**Last updated:**
-
-12/12/2023
+**First published:** 13/06/2022 **Last updated:** 12/12/2023
 
 [View](/lv/documents/all-authorised-presentations/carvykti-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (31.27 KB - PDF)
+lietuvių (LT) (31.27 KB - PDF)
 
-**First published:**
-
-13/06/2022
-
-**Last updated:**
-
-12/12/2023
+**First published:** 13/06/2022 **Last updated:** 12/12/2023
 
 [View](/lt/documents/all-authorised-presentations/carvykti-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (29.16 KB - PDF)
 
-**First published:**
-
-13/06/2022
-
-**Last updated:**
-
-12/12/2023
+**First published:** 13/06/2022 **Last updated:** 12/12/2023
 
 [View](/hu/documents/all-authorised-presentations/carvykti-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (32.92 KB - PDF)
 
-**First published:**
-
-13/06/2022
-
-**Last updated:**
-
-12/12/2023
+**First published:** 13/06/2022 **Last updated:** 12/12/2023
 
 [View](/mt/documents/all-authorised-presentations/carvykti-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (30.53 KB - PDF)
 
-**First published:**
-
-13/06/2022
-
-**Last updated:**
-
-12/12/2023
+**First published:** 13/06/2022 **Last updated:** 12/12/2023
 
 [View](/nl/documents/all-authorised-presentations/carvykti-epar-all-authorised-presentations_nl.pdf)
 
-norsk (NO) (31.69 KB - PDF)
-
-**First published:**
-
-13/06/2022
-
-**Last updated:**
-
-12/12/2023
-
-[View](/no/documents/all-authorised-presentations/carvykti-epar-all-authorised-presentations_no.pdf)
-
 polski (PL) (32.47 KB - PDF)
 
-**First published:**
-
-13/06/2022
-
-**Last updated:**
-
-12/12/2023
+**First published:** 13/06/2022 **Last updated:** 12/12/2023
 
 [View](/pl/documents/all-authorised-presentations/carvykti-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (30.6 KB - PDF)
 
-**First published:**
-
-13/06/2022
-
-**Last updated:**
-
-12/12/2023
+**First published:** 13/06/2022 **Last updated:** 12/12/2023
 
 [View](/pt/documents/all-authorised-presentations/carvykti-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (30.83 KB - PDF)
 
-**First published:**
-
-13/06/2022
-
-**Last updated:**
-
-12/12/2023
+**First published:** 13/06/2022 **Last updated:** 12/12/2023
 
 [View](/ro/documents/all-authorised-presentations/carvykti-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (31.66 KB - PDF)
 
-**First published:**
-
-13/06/2022
-
-**Last updated:**
-
-12/12/2023
+**First published:** 13/06/2022 **Last updated:** 12/12/2023
 
 [View](/sk/documents/all-authorised-presentations/carvykti-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (30.73 KB - PDF)
 
-**First published:**
-
-13/06/2022
-
-**Last updated:**
-
-12/12/2023
+**First published:** 13/06/2022 **Last updated:** 12/12/2023
 
 [View](/sl/documents/all-authorised-presentations/carvykti-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (29.32 KB - PDF)
+suomi (FI) (29.32 KB - PDF)
 
-**First published:**
-
-13/06/2022
-
-**Last updated:**
-
-12/12/2023
+**First published:** 13/06/2022 **Last updated:** 12/12/2023
 
 [View](/fi/documents/all-authorised-presentations/carvykti-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (30.67 KB - PDF)
 
-**First published:**
-
-13/06/2022
-
-**Last updated:**
-
-12/12/2023
+**First published:** 13/06/2022 **Last updated:** 12/12/2023
 
 [View](/sv/documents/all-authorised-presentations/carvykti-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (31.54 KB - PDF)
+
+**First published:** 13/06/2022 **Last updated:** 12/12/2023
+
+[View](/is/documents/all-authorised-presentations/carvykti-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (31.69 KB - PDF)
+
+**First published:** 13/06/2022 **Last updated:** 12/12/2023
+
+[View](/no/documents/all-authorised-presentations/carvykti-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine Carvykti Active substance ciltacabtagene autoleucel International non-proprietary name (INN) or common name ciltacabtagene autoleucel Therapeutic area (MeSH) Multiple Myeloma Anatomical therapeutic chemical (ATC) code L01XL05
+Name of medicine
+
+Carvykti
+
+Active substance
+
+ciltacabtagene autoleucel
+
+International non-proprietary name (INN) or common name
+
+ciltacabtagene autoleucel
+
+Therapeutic area (MeSH)
+
+Multiple Myeloma
+
+Anatomical therapeutic chemical (ATC) code
+
+L01XL05
 
 ### Therapeutic indication
 
@@ -1030,7 +624,9 @@ Carvykti is indicated for the treatment of adult patients with relapsed and refr
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/005095
+EMA product number
+
+EMEA/H/C/005095
 
 Additional monitoring
 
@@ -1054,7 +650,17 @@ Janssen-Cilag International NV
 
 Turnhoutseweg 30
 
-Opinion adopted 24/03/2022 Marketing authorisation issued 25/05/2022 Revision 17
+Opinion adopted
+
+24/03/2022
+
+Marketing authorisation issued
+
+25/05/2022
+
+Revision
+
+18
 
 ## Assessment history
 
@@ -1062,15 +668,13 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Carvykti : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (196.4 KB - PDF)
+English (EN) (169.87 KB - PDF)
 
-**First published:** 11/07/2025
-
-**Last updated:** 13/03/2026
+**First published:** 11/07/2025 **Last updated:** 01/06/2026
 
 [View](/en/documents/procedural-steps-after/carvykti-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1078,11 +682,19 @@ Carvykti : EPAR - Procedural steps taken and scientific information after author
 
 English (EN) (173.72 KB - PDF)
 
-**First published:** 17/01/2023
-
-**Last updated:** 11/07/2025
+**First published:** 17/01/2023 **Last updated:** 11/07/2025
 
 [View](/en/documents/procedural-steps-after/carvykti-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
+
+Carvykti-PSUSA-00011000-202508 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
+
+Reference Number: EMADOC-1700519818-3128519
+
+English (EN) (140.56 KB - PDF)
+
+**First published:** 01/06/2026
+
+[View](/en/documents/scientific-conclusion/carvykti-psusa-00011000-202508-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
 
 Carvykti-H-C-005095-II-0021 : EPAR - Assessment report - Variation
 
@@ -1124,13 +736,11 @@ English (EN) (124.82 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/carvykti-h-c-psusa-00011000-202302-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Carvykti : EPAR - Public Assessment Report
 
-Adopted
-
-Reference Number: EMA/594558/2022
+Adopted Reference Number: EMA/594558/2022
 
 English (EN) (5.32 MB - PDF)
 
@@ -1140,9 +750,7 @@ English (EN) (5.32 MB - PDF)
 
 Carvykti : Orphan Maintenance Assessment Report (initial authorisation)
 
-Adopted
-
-Reference Number: EMA/OD/0000060914
+Adopted Reference Number: EMA/OD/0000060914
 
 English (EN) (772.91 KB - PDF)
 
@@ -1152,9 +760,7 @@ English (EN) (772.91 KB - PDF)
 
 CHMP summary of positive opinion for Carvykti
 
-Adopted
-
-Reference Number: EMA/CHMP/168651/2022
+Adopted Reference Number: EMA/CHMP/168651/2022
 
 English (EN) (156.58 KB - PDF)
 
@@ -1164,24 +770,34 @@ English (EN) (156.58 KB - PDF)
 
 ## News on Carvykti
 
-[Meeting highlights from the Pharmacovigilance Risk Assessment Committee (PRAC) 10-13 June 2024](/en/news/meeting-highlights-pharmacovigilance-risk-assessment-committee-prac-10-13-june-2024) 14/06/2024
+[Meeting highlights from the Pharmacovigilance Risk Assessment Committee (PRAC) 10-13 June 2024](/en/news/meeting-highlights-pharmacovigilance-risk-assessment-committee-prac-10-13-june-2024)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 19-22 February 2024](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-19-22-february-2024) 23/02/2024
+14/06/2024
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 21-24 March 2022](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-21-24-march-2022) 25/03/2022
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 19-22 February 2024](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-19-22-february-2024)
 
-[New gene therapy to treat adult patients with multiple myeloma](/en/news/new-gene-therapy-treat-adult-patients-multiple-myeloma) 25/03/2022
+23/02/2024
+
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 21-24 March 2022](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-21-24-march-2022)
+
+25/03/2022
+
+[New gene therapy to treat adult patients with multiple myeloma](/en/news/new-gene-therapy-treat-adult-patients-multiple-myeloma)
+
+25/03/2022
 
 ## More information on Carvykti
 
 - [EU/3/20/2252 - orphan designation for treatment of multiple myeloma](/en/medicines/human/orphan-designations/eu-3-20-2252)
 - [Abecma / Breyanzi / Carvykti / Kymriah / Tecartus / Yescarta - direct healthcare professional communication (DHPC)](/en/medicines/dhpc/abecma-breyanzi-carvykti-kymriah-tecartus-yescarta)
+- [Fitness-for-Use Assessment across Four Data Sources for Real-World Safety and Effectiveness Studies of CAR-T cell therapies - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000955)
+- [Identification, Characterisation, and Data Quality Assessment of Data Sources for Real-World Safety and Effectiveness Studies of Chimeric antigen receptor T-cell (CAR-T cell) therapies - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000954)
 - [A Post-authorization Safety Study to Evaluate the Safety of Multiple Myeloma Patients Treated with Ciltacabtagene Autoleucel - post-authorisation study](https://catalogues.ema.europa.eu/study/50027)
 - [Postauthorization Safety Study Survey to Evaluate the Effectiveness of the Ciltacabtagene Autoleucel HCP Educational Program and the Product Handling Training - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000047)
 - [A Post-authorization Safety Study to Evaluate the Safety of Multiple Myeloma Patients Treated with Ciltacabtagene Autoleucel - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000046)
 
-**This page was last updated on** 13/03/2026
+**This page was last updated on**
+
+01/06/2026
 
 ## Share this page
-
-[Back to top](#main-content)

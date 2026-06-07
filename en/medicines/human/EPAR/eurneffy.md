@@ -1,21 +1,97 @@
 ---
-document_datetime: 2026-05-29 16:05:00
+document_datetime: 2026-06-01 15:00:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/eurneffy.html
 document_name: eurneffy.html
 version: success
-processing_time: 0.1257594
-conversion_datetime: 2026-06-01 16:59:16.182312
+processing_time: 0.1231988
+conversion_datetime: 2026-06-07 11:54:23.56027
 docling_version:
-  docling-serve: 1.20.0
+  docling-serve: 1.21.0
   docling-jobkit: 1.20.1
-  docling: 2.96.1
+  docling: 2.97.0
   docling-core: 2.78.0
   docling-ibm-models: 3.13.2
   docling-parse: 6.2.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
 ---
+# Search
+
+- [Medicines](/en/medicines)
+    - [Find medicine](/en/medicines)
+    - [Therapeutic areas: latest updates](/en/medicines/therapeutic-areas-latest-updates)
+    - [Download medicine data](/en/medicines/download-medicine-data)
+    - [What we publish on medicines and when](/en/medicines/what-we-publish-medicines-when)
+    - [Medicines under evaluation](/en/medicines/medicines-human-use-under-evaluation)
+    - [National registers](/en/medicines/national-registers-authorised-medicines)
+- [Human regulatory](/en/human-regulatory-overview)
+    - [Overview](/en/human-regulatory-overview)
+    - [Research and development](/en/human-regulatory-overview/research-development)
+    - [Marketing authorisation](/en/human-regulatory-overview/marketing-authorisation)
+    - [Post-authorisation](/en/human-regulatory-overview/post-authorisation)
+    - [Medical devices](/en/human-regulatory-overview/medical-devices)
+    - [Herbal products](/en/human-regulatory-overview/herbal-medicinal-products)
+- [Veterinary regulatory](/en/veterinary-regulatory-overview)
+    - [Overview](/en/veterinary-regulatory-overview)
+    - [Research and development](/en/veterinary-regulatory-overview/research-development-veterinary-medicines)
+    - [Marketing authorisation](/en/veterinary-regulatory-overview/marketing-authorisation-veterinary-medicines)
+    - [Post-authorisation](/en/veterinary-regulatory-overview/post-authorisation-veterinary-medicines)
+- [Committees](/en/committees)
+    - [Overview](/en/committees)
+    - [How the committees work](/en/committees/how-committees-work)
+    - [CHMP](/en/committees/committee-medicinal-products-human-use-chmp)
+    - [CVMP](/en/committees/committee-veterinary-medicinal-products-cvmp)
+    - [PRAC](/en/committees/pharmacovigilance-risk-assessment-committee-prac)
+    - [COMP](/en/committees/committee-orphan-medicinal-products-comp)
+    - [HMPC](/en/committees/committee-herbal-medicinal-products-hmpc)
+    - [CAT](/en/committees/committee-advanced-therapies-cat)
+    - [PDCO](/en/committees/paediatric-committee-pdco)
+    - [Working parties and other groups](/en/committees/working-parties-other-groups)
+- [News &amp; events](/en/news-events)
+    - [Overview](/en/news-events)
+    - [News](/en/news)
+    - [Events](/en/events/upcoming-events)
+    - [What's new](/en/news-events/whats-new)
+    - [Committee highlights](/en/news-events/committee-highlights)
+    - [Publications](/en/news-and-events/publications)
+    - [Press and social media](/en/news-events/press-social-media)
+    - [Podcast: Inside EMA](/en/news-events/podcast-inside-ema)
+    - [EMA Campaigns](/en/news-events/ema-campaigns)
+    - [Open consultations](/en/news-events/open-consultations)
+    - [RSS feeds](/en/news-events/rss-feeds)
+- [Partners &amp; networks](/en/partners-networks)
+    - [Overview](/en/partners-networks)
+    - [EU partners](/en/partners-networks/eu-partners)
+    - [International activities](/en/partners-networks/international-activities)
+    - [Patients and consumers](/en/partners-networks/patients-consumers)
+    - [Healthcare professionals](/en/partners-networks/healthcare-professionals)
+    - [Academia](/en/partners-networks/academia)
+    - [Pharmaceutical industry](/en/partners-networks/pharmaceutical-industry)
+    - [Networks](/en/partners-networks/networks)
+    - [Health technology assessment bodies](/en/partners-networks/health-technology-assessment-bodies)
+    - [One Health approach](/en/partners-networks/one-health-approach)
+    - [Animal health practitioners](/en/partners-networks/animal-health-practitioners)
+    - [One substance - one assessment](/en/partners-networks/one-substance-one-assessment-osoa-eu-collaboration-chemicals-related-data)
+- [About us](/en/about-us)
+    - [Overview](/en/about-us)
+    - [What we do](/en/about-us/what-we-do)
+    - [Who we are](/en/about-us/who-we-are)
+    - [How we work](/en/about-us/how-we-work)
+    - [Fees](/en/about-us/fees-payable-european-medicines-agency)
+    - [Support to SMEs](/en/about-us/support-smes)
+    - [Annual reports and work programmes](/en/about-us/annual-reports-work-programmes)
+    - [History of EMA](/en/about-us/history-ema)
+    - [Careers](/en/about-us/careers)
+    - [Procurement](/en/about-us/procurement-grants)
+    - [About this website](/en/about-us/about-website)
+    - [Data protection and privacy](/en/about-us/data-protection-privacy-ema)
+    - [Contacts](/en/about-us/contacts-european-medicines-agency)
+
+1. [Home](/en/homepage)
+2. [Medicines](https://www.ema.europa.eu/en/medicines)
+3. Eurneffy
+
 # Eurneffy
 
 [RSS](/en/individual-human-medicine.xml/244578)
@@ -56,7 +132,7 @@ Expand section
 
 Collapse section
 
-## How is Eurneffy used?
+### How is Eurneffy used?
 
 Eurneffy can only be obtained with a prescription and is available as a spray to be given into the nose. Each nasal spray contains a single dose of Eurneffy. Eurneffy is given into one nostril at the first sign of a severe allergic reaction (such as itching of the skin, swelling of the lips, throat or shortness of breath).
 
@@ -66,11 +142,11 @@ Patients should always carry two nasal sprays of Eurneffy to treat a severe alle
 
 For more information about using Eurneffy, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Eurneffy work?
+### How does Eurneffy work?
 
 The active substance in Eurneffy is a synthetic (man-made) form of the natural hormone adrenaline, which binds to receptors in cells throughout the body and stimulates different parts of the nervous system. A spray of epinephrine into the nose helps to quickly relieve the symptoms of anaphylaxis by narrowing the blood vessels (thereby increasing the blood pressure) and relaxing muscles in the lungs, which opens up the airways to help with breathing.
 
-## What benefits of Eurneffy have been shown in studies?
+### What benefits of Eurneffy have been shown in studies?
 
 It was not possible to carry out studies on Eurneffy's effectiveness in people experiencing a severe allergic reaction due to ethical and practical reasons. To determine the effectiveness of Eurneffy, data comparing the effects of Eurneffy in the body with those of injectable forms of adrenaline were used. This included data from three studies involving 120 adults who were healthy, had allergies without anaphylaxis or had allergic rhinitis (hay fever) outside of the allergy season and one study involving 21 children weighing 30 kg or more with allergies without anaphylaxis.
 
@@ -80,17 +156,17 @@ Another study showed that the effect Eurneffy had at a lower strength (1 mg) in 
 
 Studies carried out with Eurneffy are described in more detail in the medicine's assessment reports.
 
-## What are the side effects and restrictions with Eurneffy?
+### What are the side effects and restrictions with Eurneffy?
 
 For the full list of side effects and restrictions with Eurneffy, see the package leaflet.
 
 The most common side effects with Eurneffy (which may affect more than 1 in 10 people) include throat irritation, headache, nose discomfort and feeling jittery.
 
-## Why is Eurneffy authorised in the EU?
+### Why is Eurneffy authorised in the EU?
 
 The European Medicines Agency considered that Eurneffy is a useful alternative to injectable forms of adrenaline for treating severe allergic reactions. Based on data showing that the effects of Eurneffy in the body, as well as how it behaves in the body, are comparable to those seen with injectable forms of adrenaline, the Agency considered that the medicine is effective for the emergency treatment of allergic reactions. No major safety concerns were identified with Eurneffy. The European Medicines Agency therefore decided that Eurneffy's benefits are greater than its risks and that it can be authorised for use in the EU.
 
-## What measures are being taken to ensure the safe and effective use of Eurneffy?
+### What measures are being taken to ensure the safe and effective use of Eurneffy?
 
 The company that markets Eurneffy will provide educational materials for doctors, patients and caregivers with information on how to use the medicine. The company should also provide a training device to healthcare professionals who will prescribe Eurneffy as well as to patients and carers if needed.
 
@@ -100,7 +176,7 @@ Recommendations and precautions to be followed by healthcare professionals and p
 
 As for all medicines, data on the use of Eurneffy are continuously monitored. Suspected side effects reported with Eurneffy are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Eurneffy
+### Other information about Eurneffy
 
 Eurneffy received a marketing authorisation valid throughout the EU on 22 August 2024.
 
@@ -114,7 +190,7 @@ English (EN) (130.47 KB - PDF)
 
 [View](/en/documents/overview/eurneffy-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-916)
+[Other languages (22)](#file-language-dropdown-75)
 
 български (BG) (141.26 KB - PDF)
 
@@ -146,7 +222,7 @@ Deutsch (DE) (132.81 KB - PDF)
 
 [View](/de/documents/overview/eurneffy-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (126.63 KB - PDF)
+eesti (ET) (126.63 KB - PDF)
 
 **First published:** 05/09/2024 **Last updated:** 07/04/2026
 
@@ -176,13 +252,13 @@ italiano (IT) (128.24 KB - PDF)
 
 [View](/it/documents/overview/eurneffy-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (154.01 KB - PDF)
+latviešu (LV) (154.01 KB - PDF)
 
 **First published:** 05/09/2024 **Last updated:** 07/04/2026
 
 [View](/lv/documents/overview/eurneffy-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (139.21 KB - PDF)
+lietuvių (LT) (139.21 KB - PDF)
 
 **First published:** 05/09/2024 **Last updated:** 07/04/2026
 
@@ -236,7 +312,7 @@ slovenščina (SL) (137.98 KB - PDF)
 
 [View](/sl/documents/overview/eurneffy-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (124.89 KB - PDF)
+suomi (FI) (124.89 KB - PDF)
 
 **First published:** 05/09/2024 **Last updated:** 07/04/2026
 
@@ -266,7 +342,7 @@ English (EN) (3.44 MB - PDF)
 
 [View](/en/documents/product-information/eurneffy-epar-product-information_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-864)
+[Other languages (23)](#file-language-dropdown-507)
 
 български (BG) (4.04 MB - PDF)
 
@@ -298,7 +374,7 @@ Deutsch (DE) (4.02 MB - PDF)
 
 [View](/de/documents/product-information/eurneffy-epar-product-information_de.pdf)
 
-eesti keel (ET) (4.03 MB - PDF)
+eesti (ET) (4.03 MB - PDF)
 
 **First published:** 05/09/2024 **Last updated:** 29/05/2026
 
@@ -322,19 +398,13 @@ hrvatski (HR) (4.03 MB - PDF)
 
 [View](/hr/documents/product-information/eurneffy-epar-product-information_hr.pdf)
 
-íslenska (IS) (3.6 MB - PDF)
-
-**First published:** 05/09/2024 **Last updated:** 29/05/2026
-
-[View](/is/documents/product-information/eurneffy-epar-product-information_is.pdf)
-
 italiano (IT) (4.01 MB - PDF)
 
 **First published:** 05/09/2024 **Last updated:** 29/05/2026
 
 [View](/it/documents/product-information/eurneffy-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (4.04 MB - PDF)
+latviešu (LV) (4.04 MB - PDF)
 
 **First published:** 05/09/2024 **Last updated:** 29/05/2026
 
@@ -357,12 +427,6 @@ Nederlands (NL) (3.97 MB - PDF)
 **First published:** 05/09/2024 **Last updated:** 29/05/2026
 
 [View](/nl/documents/product-information/eurneffy-epar-product-information_nl.pdf)
-
-norsk (NO) (3.55 MB - PDF)
-
-**First published:** 05/09/2024 **Last updated:** 29/05/2026
-
-[View](/no/documents/product-information/eurneffy-epar-product-information_no.pdf)
 
 polski (PL) (4.08 MB - PDF)
 
@@ -394,7 +458,7 @@ slovenščina (SL) (4.03 MB - PDF)
 
 [View](/sl/documents/product-information/eurneffy-epar-product-information_sl.pdf)
 
-Suomi (FI) (4.02 MB - PDF)
+suomi (FI) (4.02 MB - PDF)
 
 **First published:** 05/09/2024 **Last updated:** 29/05/2026
 
@@ -405,6 +469,18 @@ svenska (SV) (4 MB - PDF)
 **First published:** 05/09/2024 **Last updated:** 29/05/2026
 
 [View](/sv/documents/product-information/eurneffy-epar-product-information_sv.pdf)
+
+Íslenska (IS) (3.6 MB - PDF)
+
+**First published:** 05/09/2024 **Last updated:** 29/05/2026
+
+[View](/is/documents/product-information/eurneffy-epar-product-information_is.pdf)
+
+norsk (NO) (3.55 MB - PDF)
+
+**First published:** 05/09/2024 **Last updated:** 29/05/2026
+
+[View](/no/documents/product-information/eurneffy-epar-product-information_no.pdf)
 
 **Latest procedure affecting product information:** VR/0000348363
 
@@ -432,7 +508,7 @@ English (EN) (43.64 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/eurneffy-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-609)
+[Other languages (24)](#file-language-dropdown-410)
 
 български (BG) (60.03 KB - PDF)
 
@@ -464,7 +540,7 @@ Deutsch (DE) (49.27 KB - PDF)
 
 [View](/de/documents/all-authorised-presentations/eurneffy-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (42.78 KB - PDF)
+eesti (ET) (42.78 KB - PDF)
 
 **First published:** 05/09/2024 **Last updated:** 07/04/2026
 
@@ -488,25 +564,19 @@ hrvatski (HR) (91.33 KB - PDF)
 
 [View](/hr/documents/all-authorised-presentations/eurneffy-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (63.89 KB - PDF)
-
-**First published:** 05/09/2024 **Last updated:** 07/04/2026
-
-[View](/is/documents/all-authorised-presentations/eurneffy-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (113.3 KB - PDF)
 
 **First published:** 05/09/2024 **Last updated:** 07/04/2026
 
 [View](/it/documents/all-authorised-presentations/eurneffy-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (46.07 KB - PDF)
+latviešu (LV) (46.07 KB - PDF)
 
 **First published:** 05/09/2024 **Last updated:** 07/04/2026
 
 [View](/lv/documents/all-authorised-presentations/eurneffy-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (47.46 KB - PDF)
+lietuvių (LT) (47.46 KB - PDF)
 
 **First published:** 05/09/2024 **Last updated:** 07/04/2026
 
@@ -529,12 +599,6 @@ Nederlands (NL) (83.62 KB - PDF)
 **First published:** 05/09/2024 **Last updated:** 07/04/2026
 
 [View](/nl/documents/all-authorised-presentations/eurneffy-epar-all-authorised-presentations_nl.pdf)
-
-norsk (NO) (63.91 KB - PDF)
-
-**First published:** 05/09/2024 **Last updated:** 07/04/2026
-
-[View](/no/documents/all-authorised-presentations/eurneffy-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (60.27 KB - PDF)
 
@@ -566,7 +630,7 @@ slovenščina (SL) (43.06 KB - PDF)
 
 [View](/sl/documents/all-authorised-presentations/eurneffy-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (62.01 KB - PDF)
+suomi (FI) (62.01 KB - PDF)
 
 **First published:** 05/09/2024 **Last updated:** 07/04/2026
 
@@ -577,6 +641,18 @@ svenska (SV) (62.83 KB - PDF)
 **First published:** 05/09/2024 **Last updated:** 07/04/2026
 
 [View](/sv/documents/all-authorised-presentations/eurneffy-epar-all-authorised-presentations_sv.pdf)
+
+Íslenska (IS) (63.89 KB - PDF)
+
+**First published:** 05/09/2024 **Last updated:** 07/04/2026
+
+[View](/is/documents/all-authorised-presentations/eurneffy-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (63.91 KB - PDF)
+
+**First published:** 05/09/2024 **Last updated:** 07/04/2026
+
+[View](/no/documents/all-authorised-presentations/eurneffy-epar-all-authorised-presentations_no.pdf)
 
 ## Product details
 
@@ -638,7 +714,7 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Eurneffy : EPAR - Procedural steps taken and scientific information after authorisation
 
@@ -676,7 +752,7 @@ English (EN) (139.95 KB - PDF)
 
 [View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-eurneffy-ema-x-0000248440_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Eurneffy : EPAR - Public assessment report
 
@@ -718,6 +794,6 @@ English (EN) (98.97 KB - PDF)
 
 **This page was last updated on**
 
-29/05/2026
+01/06/2026
 
 ## Share this page

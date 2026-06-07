@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-10-21 12:24:32
+document_datetime: 2026-06-05 10:22:55
 document_pages: 122
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/idacio-epar-product-information_en.pdf
 document_name: idacio-epar-product-information_en.pdf
 version: success
-processing_time: 41.8145495
-conversion_datetime: 2025-12-18 23:08:11.383601
+processing_time: 66.591589
+conversion_datetime: 2026-06-07 12:11:27.184472
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.21.0
+  docling-jobkit: 1.20.1
+  docling: 2.97.0
+  docling-core: 2.78.0
+  docling-ibm-models: 3.13.2
+  docling-parse: 6.2.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -32,7 +32,7 @@ Idacio 40 mg solution for injection in pre-filled syringe
 
 Each 0.8 ml single dose pre-filled syringe contains 40 mg of adalimumab.
 
-## Idacio 40 mg solution for injection in pre-filled pen
+Idacio 40 mg solution for injection in pre-filled pen
 
 Each 0.8 ml single dose pre-filled pen contains 40 mg of adalimumab.
 
@@ -65,11 +65,9 @@ Adalimumab has been shown to reduce the rate of progression of joint damage as m
 
 ## Polyarticular juvenile idiopathic arthritis
 
-Idacio in combination with methotrexate is indicated for the treatment of active polyarticular juvenile idiopathic arthritis, in patients from the age of 2 years who have had an inadequate response to one or more disease-modifying anti-rheumatic drugs (DMARDs). Idacio can be given as monotherapy in case
+Idacio in combination with methotrexate is indicated for the treatment of active polyarticular juvenile idiopathic arthritis, in patients from the age of 2 years who have had an inadequate response to one or more disease-modifying anti-rheumatic drugs (DMARDs). Idacio can be given as monotherapy in case of intolerance to methotrexate or when continued treatment with methotrexate is inappropriate (for the efficacy in monotherapy see section 5.1). Adalimumab has not been studied in patients aged less than 2 years.
 
 <div style=\"page-break-after: always\"></div>
-
-of intolerance to methotrexate or when continued treatment with methotrexate is inappropriate (for the efficacy in monotherapy see section 5.1). Adalimumab has not been studied in patients aged less than 2 years.
 
 ## Enthesitis-related arthritis
 
@@ -338,8 +336,6 @@ Table 5. Idacio dose for paediatric patients with ulcerative colitis
 | < 40 kg          | • 80 mg at week 0 (given as two 40 mg injections in one day) and • 40 mg at week 2 (given as one 40 mg injection)                                                                        | 40 mg every other week                 |
 | ≥ 40 kg          | • 160 mg at week 0 (given as four 40 mg injections in one day or two 40 mg injections per day for two consecutive days) and • 80 mg at week 2 (given as two 40 mg injections in one day) | 80 mg every other week                 |
 
-*Paediatric patients who turn 18 years of age while on Idacio should continue their prescribed maintenance dose.
-
 Continued therapy beyond 8 weeks should be carefully considered in patients not showing signs of response within this time period.
 
 There is no relevant use of adalimumab in children aged less than 6 years in this indication.
@@ -453,11 +449,9 @@ In a study of 64 patients with rheumatoid arthritis that were treated with adali
 
 In the controlled portions of clinical trials of TNF-antagonists, more cases of malignancies including lymphoma have been observed among patients receiving a TNF-antagonist compared with control patients. However, the occurrence was rare. In the post marketing setting, cases of leukaemia have been reported in patients treated with a TNF-antagonist. There is an increased background risk for lymphoma and leukaemia in rheumatoid arthritis patients with long-standing, highly active, inflammatory disease, which complicates the risk estimation. With the current knowledge, a possible risk for the development of lymphomas, leukaemia, and other malignancies in patients treated with a TNF-antagonist cannot be excluded.
 
-Malignancies, some fatal, have been reported among children, adolescents and young adults (up to 22 years of age) treated with TNF-antagonists (initiation of therapy ≤ 18 years of age), including
+Malignancies, some fatal, have been reported among children, adolescents and young adults (up to 22 years of age) treated with TNF-antagonists (initiation of therapy ≤ 18 years of age), including adalimumab in the post marketing setting. Approximately half the cases were lymphomas. The other cases represented a variety of different malignancies and included rare malignancies usually associated with immunosuppression. A risk for the development of malignancies in children and adolescents treated with TNF-antagonists cannot be excluded.
 
 <div style=\"page-break-after: always\"></div>
-
-adalimumab in the post marketing setting. Approximately half the cases were lymphomas. The other cases represented a variety of different malignancies and included rare malignancies usually associated with immunosuppression. A risk for the development of malignancies in children and adolescents treated with TNF-antagonists cannot be excluded.
 
 Rare postmarketing cases of hepatosplenic T-cell lymphoma have been identified in patients treated with adalimumab. This rare type of T-cell lymphoma has a very aggressive disease course and is usually fatal. Some of these hepatosplenic T-cell lymphomas with adalimumab have occurred in young adult patients on concomitant treatment with azathioprine or 6-mercaptopurine used for inflammatory bowel disease. The potential risk with the combination of azathioprine or 6-mercaptopurine and adalimumab should be carefully considered. A risk for the development of hepatosplenic T-cell lymphoma in patients treated with Idacio cannot be excluded (see section 4.8).
 
@@ -682,14 +676,6 @@ Table 7 Adverse reactions
 | Investigations*                                       | Not known   | Weight increased 2)                                                                                                                                                                                        |
 | Injury, poisoning and procedural complications        | Common      | Impaired healing                                                                                                                                                                                           |
 
-* further information is found elsewhere in sections 4.3, 4.4 and 4.8
-
-** including open label extension studies
-
-1) including spontaneous reporting data
-
-2) The mean weight change from baseline for adalimumab ranged from 0.3 kg to 1.0 kg across adult indications compared to (minus) -0.4 kg to 0.4 kg for placebo over a treatment period of 4-6 months. Weight increase of 5-6 kg has also been observed in long-term extension studies with mean exposures of approximately 1-2 years without control group, particularly in patients with Crohn's disease and ulcerative colitis. The mechanism behind this effect is unclear but could be associated with the antiinflammatory effect of adalimumab.
-
 ## Hidradenitis suppurativa
 
 The safety profile for patients with HS treated with adalimumab weekly was consistent with the known safety profile of adalimumab.
@@ -706,11 +692,9 @@ In the pivotal controlled trials in adults and children, 12.9% of patients treat
 
 ## Infections
 
-In the pivotal controlled trials in adults and children, the rate of infection was 1.51 per patient year in the adalimumab treated patients and 1.46 per patient year in the placebo and active control-treated
+In the pivotal controlled trials in adults and children, the rate of infection was 1.51 per patient year in the adalimumab treated patients and 1.46 per patient year in the placebo and active control-treated patients. The infections consisted primarily of nasopharyngitis, upper respiratory tract infection, and sinusitis. Most patients continued on adalimumab after the infection resolved.
 
 <div style=\"page-break-after: always\"></div>
-
-patients. The infections consisted primarily of nasopharyngitis, upper respiratory tract infection, and sinusitis. Most patients continued on adalimumab after the infection resolved.
 
 The incidence of serious infections was 0.04 per patient year in adalimumab treated patients and 0.03 per patient year in placebo and active control-treated patients.
 
@@ -831,7 +815,9 @@ Table 8 ACR responses in placebo-controlled trials (percent of patients)
 | 6 months   | 3.3%               | 23.8%                     | 1.8%               | 12.4%              | 2.5%                 | 20.8%                      |
 | 12 months  | NA                 | NA                        | NA                 | NA                 | 4.5%                 | 23.2%                      |
 
-a RA study I at 24 weeks, RA study II at 26 weeks , and RA study III at 24 and 52 weeks b  40 mg adalimumab administered every other week
+a RA study I at 24 weeks, RA study II at 26 weeks , and RA study III at 24 and 52 weeks
+
+b  40 mg adalimumab administered every other week
 
 c  MTX = methotrexate
 
@@ -851,17 +837,17 @@ In RA study V with early rheumatoid arthritis patients who were methotrexate na�
 
 Table 9 ACR responses in RA study V (percent of patients)
 
-| Response   | MTX n=257   | Adalimumab n=274   | Adalimumab/MTX n=268   | p-value a   | p-value b   | p-value c   |
+| Response   | MTX n=257   | Adalimumab n=274   | Adalimumab/MTX n=268   | p-value a   | p-value b   |   p-value c |
 |------------|-------------|--------------------|------------------------|-------------|-------------|-------------|
 | ACR 20     |             |                    |                        |             |             |             |
-| Week 52    | 62.6%       | 54.4%              | 72.8%                  | 0.013       | < 0.001     | 0.043       |
-| Week 104   | 56.0%       | 49.3%              | 69.4%                  | 0.002       | < 0.001     | 0.140       |
+| Week 52    | 62.6%       | 54.4%              | 72.8%                  | 0.013       | < 0.001     |       0.043 |
+| Week 104   | 56.0%       | 49.3%              | 69.4%                  | 0.002       | < 0.001     |       0.140 |
 | ACR 50     |             |                    |                        |             |             |             |
-| Week 52    | 45.9%       | 41.2%              | 61.6%                  | < 0.001     | < 0.001     | 0.317       |
-| Week 104   | 42.8%       | 36.9%              | 59.0%                  | < 0.001     | < 0.001     | 0.162       |
+| Week 52    | 45.9%       | 41.2%              | 61.6%                  | < 0.001     | < 0.001     |       0.317 |
+| Week 104   | 42.8%       | 36.9%              | 59.0%                  | < 0.001     | < 0.001     |       0.162 |
 | ACR 70     |             |                    |                        |             |             |             |
-| Week 52    | 27.2%       | 25.9%              | 45.5%                  | < 0.001     | < 0.001     | 0.656       |
-| Week 104   | 28.4%       | 28.1%              | 46.6%                  | < 0.001     | < 0.001     | 0.864       |
+| Week 52    | 27.2%       | 25.9%              | 45.5%                  | < 0.001     | < 0.001     |       0.656 |
+| Week 104   | 28.4%       | 28.1%              | 46.6%                  | < 0.001     | < 0.001     |       0.864 |
 
 - a. p-value is from the pairwise comparison of methotrexate monotherapy and adalimumab/methotrexate combination therapy using the Mann-Whitney U test.
 - b. p-value is from the pairwise comparison of adalimumab monotherapy and adalimumab/methotrexate combination therapy using the Mann-Whitney U test
@@ -877,23 +863,25 @@ Of 342 subjects originally randomised to adalimumab monotherapy or adalimumab/me
 
 In RA study III, where adalimumab treated patients had a mean duration of rheumatoid arthritis of approximately 11 years, structural joint damage was assessed radiographically and expressed as change in modified Total Sharp Score (TSS) and its components, the erosion score and joint space narrowing score. Adalimumab/methotrexate patients demonstrated significantly less radiographic progression than patients receiving methotrexate alone at 6 and 12 months (see Table 10).
 
-In the open-label extension of RA study III, the reduction in rate of progression of structural damage is maintained for 8 and 10 years in a subset of patients. At 8 years, 81 of 207 patients originally treated with 40 mg adalimumab every other week were evaluated radiographically. Among those, 48 patients showed no progression of structural damage defined by a change from baseline in the mTSS of 0.5 or less. At 10 years, 79 of 207 patients originally treated with 40 mg adalimumab every other week were
+In the open-label extension of RA study III, the reduction in rate of progression of structural damage is maintained for 8 and 10 years in a subset of patients. At 8 years, 81 of 207 patients originally treated with 40 mg adalimumab every other week were evaluated radiographically. Among those, 48 patients showed no progression of structural damage defined by a change from baseline in the mTSS of 0.5 or less. At 10 years, 79 of 207 patients originally treated with 40 mg adalimumab every other week were evaluated radiographically. Among those, 40 patients showed no progression of structural damage defined by a change from baseline in the mTSS of 0.5 or less.
 
 <div style=\"page-break-after: always\"></div>
-
-evaluated radiographically. Among those, 40 patients showed no progression of structural damage defined by a change from baseline in the mTSS of 0.5 or less.
 
 Table 10 Radiographic mean changes over 12 months in RA study III
 
 |                   |   Placebo/MTX a |   Adalimumab/MTX 40 mg every other week | Placebo/MTX- Adalimumab/MTX (95% confidence interval b )   | p-value   |
 |-------------------|-----------------|-----------------------------------------|------------------------------------------------------------|-----------|
 | Total sharp score |             2.7 |                                     0.1 | 2.6 (1.4, 3.8)                                             | < 0.001 c |
-| Erosion score     |             1.6 |                                     0   | 1.6 (0.9, 2.2)                                             | < 0.001   |
-| JSN d score       |             1   |                                     0.1 | 0.9 (0.3, 1.4)                                             | 0.002     |
+| Erosion score     |             1.6 |                                     0.0 | 1.6 (0.9, 2.2)                                             | < 0.001   |
+| JSN d score       |             1.0 |                                     0.1 | 0.9 (0.3, 1.4)                                             | 0.002     |
 
-a methotrexate b 95% confidence intervals for the differences in change scores between methotrexate and adalimumab.
+a methotrexate
 
-c Based on rank analysis d Joint space narrowing (JSN)
+b 95% confidence intervals for the differences in change scores between methotrexate and adalimumab.
+
+c Based on rank analysis
+
+d Joint space narrowing (JSN)
 
 In RA study V, structural joint damage was assessed radiographically and expressed as change in modified Total Sharp Score (see Table 11).
 
@@ -901,13 +889,15 @@ Table 11 Radiographic mean changes at week 52 in RA study V
 
 |                   | MTX n=257 (95% confidence interval)   | Adalimumab n=274 (95% confidence interval)   | Adalimumab/MTX n=268 (95% confidence interval)   | p-value a   |   p-value b | p-value c   |
 |-------------------|---------------------------------------|----------------------------------------------|--------------------------------------------------|-------------|-------------|-------------|
-| Total sharp score | 5.7 (4.2-7.3)                         | 3.0 (1.7-4.3)                                | 1.3 (0.5-2.1)                                    | < 0.001     |      0.002  | < 0.001     |
+| Total sharp score | 5.7 (4.2-7.3)                         | 3.0 (1.7-4.3)                                | 1.3 (0.5-2.1)                                    | < 0.001     |      0.0020 | < 0.001     |
 | Erosion score     | 3.7 (2.7-4.7)                         | 1.7 (1.0-2.4)                                | 0.8 (0.4-1.2)                                    | < 0.001     |      0.0082 | < 0.001     |
 | JSN score         | 2.0 (1.2-2.8)                         | 1.3 (0.5-2.1)                                | 0.5 (0-1.0)                                      | < 0.001     |      0.0037 | 0.151       |
 
 a p-value is from the pairwise comparison of methotrexate monotherapy and adalimumab/methotrexate combination therapy using the Mann-Whitney U test.
 
-b p-value is from the pairwise comparison of adalimumab monotherapy and adalimumab/methotrexate combination therapy using the Mann-Whitney U test c p-value is from the pairwise comparison of adalimumab monotherapy and methotrexate monotherapy using the Mann-Whitney U test
+b p-value is from the pairwise comparison of adalimumab monotherapy and adalimumab/methotrexate combination therapy using the Mann-Whitney U test
+
+c p-value is from the pairwise comparison of adalimumab monotherapy and methotrexate monotherapy using the Mann-Whitney U test
 
 Following 52 weeks and 104 weeks of treatment, the percentage of patients without progression (change from baseline in modified Total Sharp Score ≤ 0.5) was significantly higher with adalimumab/methotrexate combination therapy (63.8% and 61.2% respectively) compared to methotrexate monotherapy (37.4% and 33.5% respectively, p &lt; 0.001) and adalimumab monotherapy (50.7%, p &lt; 0.002 and 44.5%, p &lt; 0.001 respectively).
 
@@ -972,11 +962,9 @@ The safety and efficacy of adalimumab were assessed in two randomized, double-bl
 
 In Study nr-axSpA I, adalimumab 40 mg every other week was assessed in 185 patients in one randomised, 12 week double-blind, placebo-controlled study in patients with active nr-axSpA (mean baseline score of disease activity [Bath Ankylosing Spondylitis Disease Activity Index (BASDAI)] was 6.4 for patients treated with adalimumab and 6.5 for those on placebo) who have had an inadequate response to or intolerance to ≥ 1 NSAIDs, or a contraindication for NSAIDs.
 
-Thirty-three (18%) patients were treated concomitantly with disease modifying anti-rheumatic drugs, and 146 (79%) patients with NSAIDs at baseline. The double-blind period was followed by an openlabel period during which patients receive adalimumab 40 mg every other week subcutaneously for up to an additional 144 weeks. Week 12 results showed statistically significant improvement of the signs
+Thirty-three (18%) patients were treated concomitantly with disease modifying anti-rheumatic drugs, and 146 (79%) patients with NSAIDs at baseline. The double-blind period was followed by an openlabel period during which patients receive adalimumab 40 mg every other week subcutaneously for up to an additional 144 weeks. Week 12 results showed statistically significant improvement of the signs and symptoms of active nr-axSpA in patients treated with adalimumab compared to placebo (Table 13).
 
 <div style=\"page-break-after: always\"></div>
-
-and symptoms of active nr-axSpA in patients treated with adalimumab compared to placebo (Table 13).
 
 Table 13 Efficacy response in placebo-controlled study nr-axSpA I
 
@@ -992,28 +980,6 @@ Table 13 Efficacy response in placebo-controlled study nr-axSpA I
 | hs-CRP d,f,g                       | -0.3           | -4.7***           |
 | SPARCC h MRI sacroiliac joints d,i | -0.6           | -3.2**            |
 | SPARCC MRI spine d,j               | -0.2           | -1.8**            |
-
-b Bath Ankylosing Spondylitis Disease Activity Index
-
-a Assessment of Spondyloarthritis International Society
-
-c Ankylosing Spondylitis Disease Activity Score
-
-e n=91 placebo and n=87 adalimumab
-
-d mean change from baseline
-
-f high sensitivity C-Reactive Protein (mg/L)
-
-h Spondyloarthritis Research Consortium of Canada
-
-g n=73 placebo and n=70 adalimumab
-
-i n=84 placebo and adalimumab
-
-j n=82 placebo and n=85 adalimumab
-
-***, **, * Statistically significant at p &lt; 0.001, &lt; 0.01, and &lt; 0.05, respectively, for all comparisons between adalimumab and placebo.
 
 In the open-label extension, improvement in the signs and symptoms was maintained with adalimumab therapy through week 156.
 
@@ -1059,9 +1025,13 @@ Table 14 Efficacy response in placebo-controlled period for study nr-axSpA II
 | ASDAS c inactive disease           | 33.3%           | 57.2%***           |
 | Partial flare d                    | 64.1%           | 40.8%***           |
 
-a Assessment of SpondyloArthritis international Society b Baseline is defined as open label baseline when patients have active disease.
+a Assessment of SpondyloArthritis international Society
 
-c Ankylosing Spondylitis Disease Activity Score d Partial flare is defined as ASDAS ≥ 1.3 but &lt; 2.1 at 2 consecutive visits.
+b Baseline is defined as open label baseline when patients have active disease.
+
+c Ankylosing Spondylitis Disease Activity Score
+
+d Partial flare is defined as ASDAS ≥ 1.3 but &lt; 2.1 at 2 consecutive visits.
 
 ***, ** Statistically significant at p &lt; 0.001 and &lt; 0.01, respectively, for all comparisons between adalimumab and placebo.
 
@@ -1126,10 +1096,6 @@ Table 16 Ps Study I (REVEAL) efficacy results at 16 weeks
 | PASI 100           | 3 (0.8)               | 163 (20.0) b                      |
 | PGA: Clear/minimal | 17 (4.3)              | 506 (62.2) b                      |
 
-a Percent of patients achieving PASI75 response was calculated as centeradjusted rate
-
-b p&lt;0.001, adalimumab vs. placebo
-
 Table 17 Ps Study II (CHAMPION) efficacy results at 16 weeks
 
 |                    | Placebo N=53 n (%)   | MTX N=110 n (%)   | Adalimumab 40mg eow N=108 n (%)   |
@@ -1142,7 +1108,9 @@ a p&lt;0.001 adalimumab vs. placebo
 
 b p&lt;0.001 adalimumab vs. methotrexate
 
-c p&lt;0.01 adalimumab vs. placebo d p&lt;0.05 adalimumab vs. methotrexate
+c p&lt;0.01 adalimumab vs. placebo
+
+d p&lt;0.05 adalimumab vs. methotrexate
 
 In Psoriasis study I, 28% of patients who were PASI 75 responders and were re-randomised to placebo at week 33 compared to 5% continuing on adalimumab, p&lt;0.001, experienced 'loss of adequate response' (PASI score after week 33 and on or before week 52 that resulted in a &lt;PASI 50 response relative to baseline with a minimum of a 6-point increase in PASI score relative to week 33). Of the patients who lost adequate response after re-randomisation to placebo who then enrolled into the openlabel extension trial, 38% (25/66) and 55% (36/66) regained PASI 75 response after 12 and 24 weeks of re-treatment, respectively.
 
@@ -1202,9 +1170,11 @@ Table 19: Efficacy results at 12 weeks, HS Studies I and II
 | clinical response (HiSCR) a   | 40 (26.0%)         | 64 (41.8%)              | (27.6%)          | 96 (58.9%) ***          |
 | ≥30% Reduction in skin pain b | N = 109 27 (24.8%) | N = 122 34 (27.9%)      | N=111 23 (20.7%) | N=105 48 (45.7%) ***    |
 
-* P &lt; 0.05, *** P &lt; 0.001, adalimumab versus placebo a Among all randomised patients.
+* P &lt; 0.05, *** P &lt; 0.001, adalimumab versus placebo
 
-b Among patients with baseline HSrelated skin pain assessment ≥ 3, based on Numeric Rating Scale 0 - 10; 0 = no skin pain, 10 = skin pain as bad as you can imagine.
+a Among all randomised patients.
+
+b Among patients with baseline HS-related skin pain assessment ≥ 3, based on Numeric Rating Scale 0 - 10; 0 = no skin pain, 10 = skin pain as bad as you can imagine.
 
 Treatment with adalimumab 40 mg every week significantly reduced the risk of worsening of abscesses and draining fistulas. Approximately twice the proportion of patients in the placebo group in the first
 
@@ -1279,12 +1249,6 @@ Table 22 Maintenance of clinical remission and response (percent of patients)
 | Clinical response (CR-100)                         | 17%       | 41%*                                | 48%*                          |
 | Patients in steroid-free remission for >=90 days a | 5% (3/66) | 29% (17/58)*                        | 20% (15/74)**                 |
 
-* p &lt; 0.001 for adalimumab versus placebo pairwise comparisons of proportions
-
-** p &lt; 0.02 for adalimumab versus placebo pairwise comparisons of proportions
-
-a Of those receiving corticosteroids at baseline
-
 <div style=\"page-break-after: always\"></div>
 
 Among patients who were not in response at week 4, 43% of adalimumab maintenance patients responded by week 12 compared to 30% of placebo maintenance patients. These results suggest that some patients who have not responded by week 4 benefit from continued maintenance therapy through week 12. Therapy continued beyond 12 weeks did not result in significantly more responses (see section 4.2).
@@ -1329,7 +1293,9 @@ Clinical response is decrease from baseline in Mayo score ≥ 3 points and ≥ 3
 
 * p &lt; 0.05 for adalimumab vs. placebo pairwise comparison of proportions
 
-**p &lt; 0.001 for adalimumab vs. placebo pairwise comparison of proportions a Of those receiving corticosteroids at baseline
+**p &lt; 0.001 for adalimumab vs. placebo pairwise comparison of proportions
+
+a Of those receiving corticosteroids at baseline
 
 Of those patients who had a response at week 8, 47% were in response, 29% were in remission, 41% had mucosal healing, and 20% were in steroidfree remission for ≥ 90 days at week 52.
 
@@ -1347,11 +1313,9 @@ In study UC-II, treatment with adalimumab resulted in improvements in the Inflam
 
 ## Uveitis
 
-The safety and efficacy of adalimumab were assessed in adult patients with non-infectious intermediate, posterior, and panuveitis, excluding patients with isolated anterior uveitis, in two randomised, double- masked, placebo-controlled studies (UV I and II). Patients received placebo or
+The safety and efficacy of adalimumab were assessed in adult patients with non-infectious intermediate, posterior, and panuveitis, excluding patients with isolated anterior uveitis, in two randomised, double- masked, placebo-controlled studies (UV I and II). Patients received placebo or adalimumab at an initial dose of 80 mg followed by 40 mg every other week starting one week after the initial dose. Concomitant stable doses of one non-biologic immunosuppressant were permitted.
 
 <div style=\"page-break-after: always\"></div>
-
-adalimumab at an initial dose of 80 mg followed by 40 mg every other week starting one week after the initial dose. Concomitant stable doses of one non-biologic immunosuppressant were permitted.
 
 Study UV I evaluated 217 patients with active uveitis despite treatment with corticosteroids (oral prednisone at a dose of 10 to 60 mg/day). All patients received a 2-week standardised dose of prednisone 60 mg/day at study entry followed by a mandatory taper schedule, with complete corticosteroid discontinuation by week 15.
 
@@ -1398,11 +1362,9 @@ In study UV I statistically significant differences in favour of adalimumab vers
 
 Of the 424 subjects included in the uncontrolled long-term extension of studies UV I and UV II, 60 subjects were regarded ineligible (e.g. due to deviations or due to complications secondary to diabetic retinopathy, due to cataract surgery or vitrectomy) and were excluded from the primary analysis of efficacy. Of the 364 remaining patients, 269 evaluable patients (74%) reached 78 weeks of open-label adalimumab treatment.
 
-Based on the observed data approach, 216 (80.3%) were in quiescence (no active inflammatory lesions, AC cell grade ≤ 0.5+, VH grade ≤ 0.5+) with a concomitant steroid dose ≤ 7.5 mg per day, and 178 (66.2 %) were in steroid-free quiescence. BCVA was either improved or maintained (&lt; 5 letters deterioration) in 88.6% of the eyes at week 78. Data beyond Week 78 were generally consistent
+Based on the observed data approach, 216 (80.3%) were in quiescence (no active inflammatory lesions, AC cell grade ≤ 0.5+, VH grade ≤ 0.5+) with a concomitant steroid dose ≤ 7.5 mg per day, and 178 (66.2 %) were in steroid-free quiescence. BCVA was either improved or maintained (&lt; 5 letters deterioration) in 88.6% of the eyes at week 78. Data beyond Week 78 were generally consistent with these results but the number of enrolled subjects declined after this time. Overall, among the patients who discontinued the study, 18% discontinued due to adverse events, and 8% due to insufficient response to adalimumab treatment.
 
 <div style=\"page-break-after: always\"></div>
-
-with these results but the number of enrolled subjects declined after this time. Overall, among the patients who discontinued the study, 18% discontinued due to adverse events, and 8% due to insufficient response to adalimumab treatment.
 
 ## Quality of Life
 
@@ -1434,11 +1396,9 @@ Table 25
 | 8 to 12 years  | 71 (41.5)                              | 20, 25 and 40 mg                   |
 | 13 to 17 years | 69 (40.4)                              | 25, 40 and 40 mg                   |
 
-Patients demonstrating a Pediatric ACR 30 response at week 16 were eligible to be randomised into the double blind (DB) phase and received either adalimumab 24 mg/m 2 up to a maximum of 40 mg, or placebo every other week for an additional 32 weeks or until disease flare. Disease flare criteria were
+Patients demonstrating a Pediatric ACR 30 response at week 16 were eligible to be randomised into the double blind (DB) phase and received either adalimumab 24 mg/m 2 up to a maximum of 40 mg, or placebo every other week for an additional 32 weeks or until disease flare. Disease flare criteria were defined as a worsening of ≥ 30% from baseline in ≥ 3 of 6 Pediatric ACR core criteria, ≥ 2 active joints, and improvement of ≥ 30% in no more than 1 of the 6 criteria. After 32 weeks or at disease flare, patients were eligible to enrol into the open label extension phase.
 
 <div style=\"page-break-after: always\"></div>
-
-defined as a worsening of ≥ 30% from baseline in ≥ 3 of 6 Pediatric ACR core criteria, ≥ 2 active joints, and improvement of ≥ 30% in no more than 1 of the 6 criteria. After 32 weeks or at disease flare, patients were eligible to enrol into the open label extension phase.
 
 Table 26 Ped ACR 30 responses in the JIA study
 
@@ -1489,7 +1449,9 @@ Table 27: Paediatric plaque psoriasis efficacy results at 16 weeks
 | PASI 75 b            | 12 (32.4%)   | 22 (57.9%)                      |
 | PGA: Clear/minimal c | 15 (40.5%)   | 23 (60.5%)                      |
 
-a  MTX = methotrexate b  P=0.027, adalimumab 0.8 mg/kg versus MTX
+a  MTX = methotrexate
+
+b  P=0.027, adalimumab 0.8 mg/kg versus MTX
 
 c  P=0.083, adalimumab 0.8 mg/kg versus MTX
 
@@ -1528,14 +1490,14 @@ Table 29 Paediatric CD study
 
 ## PCDAI clinical remission and response
 
-|                    | Standard dose 40/20 mg eow N = 93   | Low dose 20/10 mg eow N = 95   | p value *   |
+|                    | Standard dose 40/20 mg eow N = 93   | Low dose 20/10 mg eow N = 95   |   p value * |
 |--------------------|-------------------------------------|--------------------------------|-------------|
 | Week 26            |                                     |                                |             |
-| Clinical remission | 38.7%                               | 28.4%                          | 0.075       |
-| Clinical response  | 59.1%                               | 48.4%                          | 0.073       |
+| Clinical remission | 38.7%                               | 28.4%                          |       0.075 |
+| Clinical response  | 59.1%                               | 48.4%                          |       0.073 |
 | Week 52            |                                     |                                |             |
-| Clinical remission | 33.3%                               | 23.2%                          | 0.100       |
-| Clinical response  | 41.9%                               | 28.4%                          | 0.038       |
+| Clinical remission | 33.3%                               | 23.2%                          |       0.100 |
+| Clinical response  | 41.9%                               | 28.4%                          |       0.038 |
 
 * p value for Standard Dose versus Low Dose comparison.
 
@@ -1545,16 +1507,16 @@ Table 30 Paediatric CD study
 
 ## Discontinuation of corticosteroids or immunomodulators and fistula remission
 
-|                                      | Standard dose 40/20 mg eow   | Low dose 20/10 mg eow   | p value 1   |
+|                                      | Standard dose 40/20 mg eow   | Low dose 20/10 mg eow   |   p value 1 |
 |--------------------------------------|------------------------------|-------------------------|-------------|
 | Discontinued corticosteroids         | N= 33                        | N=38                    |             |
-| Week 26                              | 84.8%                        | 65.8%                   | 0.066       |
-| Week 52                              | 69.7%                        | 60.5%                   | 0.420       |
+| Week 26                              | 84.8%                        | 65.8%                   |       0.066 |
+| Week 52                              | 69.7%                        | 60.5%                   |       0.420 |
 | Discontinuation of immunomodulators2 | N=60                         | N=57                    |             |
-| Week 52                              | 30.0%                        | 29.8%                   | 0.983       |
+| Week 52                              | 30.0%                        | 29.8%                   |       0.983 |
 | Fistula remission3                   | N=15                         | N=21                    |             |
-| Week 26                              | 46.7%                        | 38.1%                   | 0.608       |
-| Week 52                              | 40.0%                        | 23.8%                   | 0.303       |
+| Week 26                              | 46.7%                        | 38.1%                   |       0.608 |
+| Week 52                              | 40.0%                        | 23.8%                   |       0.303 |
 
 1 p value for Standard Dose versus Low Dose comparison.
 
@@ -1618,12 +1580,6 @@ Table 32: Efficacy Results at 52 Weeks
 | Clinical remission in Week 8 PMS remitters               | 9/21 (42.9%)                               | 10/22 (45.5%)                             |
 | Corticosteroid-free remission in Week 8 PMS responders c | 4/13 (30.8%)                               | 5/16 (31.3%)                              |
 
-a  Adalimumab 0.6 mg/kg (maximum of 40 mg) every other week
-
-b  Adalimumab 0.6 mg/kg (maximum of 40 mg) every week
-
-c In patients receiving concomitant corticosteroids at baseline
-
 Note: Patients with missing values at Week 52 or who were randomized to receive re-induction or maintenance treatment were considered non-responders for Week 52 endpoints
 
 Additional exploratory efficacy endpoints included clinical response per the Paediatric Ulcerative Colitis Activity Index (PUCAI) (defined as a decrease in PUCAI ≥ 20 points from Baseline) and clinical remission per PUCAI (defined as PUCAI &lt; 10) at Week 8 and Week 52 (Table 33).
@@ -1640,25 +1596,11 @@ Table 33: Exploratory endoints results by PUCAI
 | Clinical remission per PUCAI in Week 8 PMS responders | 14/31 (45.2%)                                                       | 18/31 (58.1%)                                                |
 | Clinical response per PUCAI in Week 8 PMS responders  | 18/31 (58.1%)                                                       | 16/31 (51.6%)                                                |
 
-a  Adalimumab 2.4 mg/kg (maximum of 160 mg) at Week 0, placebo at Week 1, and adalimumab 1.2 mg/kg (maximum of 80 mg) at Week 2
-
-b  Adalimumab 2.4 mg/kg (maximum of 160 mg) at Week 0 and Week 1, and 1.2 mg/kg (maximum of 80 mg) at Week 2
-
-c Not including open-label Induction dose of adalimumab 2.4 mg/kg (maximum of 160 mg) at Week 0 and Week 1, and 1.2 mg/kg (maximum of 80 mg) at Week 2
-
-d  Adalimumab 0.6 mg/kg (maximum of 40 mg) every other week
-
-e  Adalimumab 0.6 mg/kg (maximum of 40 mg) every week
-
 Note 1: Both induction groups received 0.6 mg/kg (maximum of 40 mg) at Week 4 and Week 6
 
-Note 2: Patients with missing values at Week 8 were considered as not having met the endpoints
+Note 2: Patients with missing values at Week 8 were considered as not having met the endpoints Note 3: Patients with missing values at Week 52 or who were randomized to receive reinduction or maintenance treatment were considered non-responders for Week 52 endpoints Of the adalimumab-treated patients who received re-induction treatment during the maintenance period, 2/6 (33%) achieved clinical response per FMS at Week 52.
 
 <div style=\"page-break-after: always\"></div>
-
-Note 3: Patients with missing values at Week 52 or who were randomized to receive reinduction or maintenance treatment were considered non-responders for Week 52 endpoints
-
-Of the adalimumab-treated patients who received re-induction treatment during the maintenance period, 2/6 (33%) achieved clinical response per FMS at Week 52.
 
 ## Quality of life
 
@@ -1720,11 +1662,9 @@ In patients with Crohn's disease, the loading dose of 80 mg adalimumab on week 0
 
 In paediatric patients with moderate to severe CD, the open-label adalimumab induction dose was 160/80 mg or 80/40 mg at weeks 0 and 2, respectively, dependent on a body weight cut-off of 40 kg. At week 4, patients were randomised 1:1 to either the Standard Dose (40/20 mg eow) or Low Dose (20/10 mg eow) maintenance treatment groups based on their body weight. The mean (±SD) serum adalimumab trough concentrations achieved at week 4 were 15.7±6.6 µg/ml for patients ≥ 40 kg (160/80 mg) and 10.6±6.1 µg/ml for patients &lt; 40 kg (80/40 mg).
 
-For patients who stayed on their randomised therapy, the mean (±SD) adalimumab trough concentrations at week 52 were 9.5±5.6 µg/ml for the Standard Dose group and 3.5±2.2 µg/ml for the Low Dose group. The mean trough concentrations were maintained in patients who continued to
+For patients who stayed on their randomised therapy, the mean (±SD) adalimumab trough concentrations at week 52 were 9.5±5.6 µg/ml for the Standard Dose group and 3.5±2.2 µg/ml for the Low Dose group. The mean trough concentrations were maintained in patients who continued to receive adalimumab treatment eow for 52 weeks. For patients who dose escalated from eow to weekly regimen, the mean (±SD) serum concentrations of adalimumab at week 52 were 15.3±11.4 μg/ ml (40/20 mg, weekly) and 6.7±3.5 μg/ ml (20/10 mg, weekly).
 
 <div style=\"page-break-after: always\"></div>
-
-receive adalimumab treatment eow for 52 weeks. For patients who dose escalated from eow to weekly regimen, the mean (±SD) serum concentrations of adalimumab at week 52 were 15.3±11.4 μg/ ml (40/20 mg, weekly) and 6.7±3.5 μg/ ml (20/10 mg, weekly).
 
 In adult patients with ulcerative colitis, a loading dose of 160 mg adalimumab on week 0 followed by 80 mg adalimumab on week 2 achieves serum adalimumab trough concentrations of approximately 12 µg/ml during the induction period. Mean steady-state trough levels of approximately 8 µg/ml were observed in ulcerative colitis patients who received a maintenance dose of 40 mg adalimumab every other week.
 
@@ -1853,9 +1793,13 @@ Name and address of the manufacturer(s) of the biological active substance(s)
 
 Merck Serono S.A. Succursale de Corsier-sur-Vevey Chemin du Fenil Zone Industrielle B 1804 Corsier-sur-Vevey Switzerland
 
+Gh Genhelix S.A. Edificio Genhelix Parque Tecnologico De Julia Morros Armunia 24009 Leon Spain
+
 Name and address of the manufacturer(s) responsible for batch release
 
-Fresenius Kabi Austria GmbH Hafnerstraße 36, 8055 Graz Austria
+Fresenius Kabi Austria GmbH Hafnerstraße 36, 8055 Graz
+
+Austria
 
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
@@ -1873,14 +1817,12 @@ The requirements for submission of periodic safety update reports for this medic
 
 The MAH shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP.
 
+<div style=\"page-break-after: always\"></div>
+
 An updated RMP should be submitted:
 
 - At the request of the European Medicines Agency;
-- Whenever the risk management system is modified, especially as the result of new
-
-<div style=\"page-break-after: always\"></div>
-
-information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
+- Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 
 ## · Additional risk minimisation measures
 
@@ -1965,13 +1907,7 @@ Keep the pre-filled syringe in the outer carton in order to protect from light.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Fresenius Kabi Deutschland GmbH
-
-Else-Kröner-Straße 1
-
-61352 Bad Homburg v.d.Höhe
-
-Germany
+Fresenius Kabi Deutschland GmbH Else-Kröner-Straße 1 61352 Bad Homburg v.d.Höhe Germany
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -2771,9 +2707,9 @@ Read carefully these entire instructions before using your Idacio pre-filled syr
 
 ## Get Familiar with your Idacio Pre-Filled Syringe
 
-<!-- image -->
+Step 1 Prepare for your Injection
 
-## Step 1 Prepare for your Injection
+<!-- image -->
 
 Each box of Idacio pre-filled syringe comes with two or six syringes.
 
@@ -3646,8 +3582,6 @@ Each box of Idacio pre-filled pen comes with two or six pre-filled pens.
 
 <div style=\"page-break-after: always\"></div>
 
-- 1.4
-
 Figure A
 
 <!-- image -->
@@ -3658,7 +3592,7 @@ Figure B
 
 <!-- image -->
 
-- Check the expiry date on the side of the box (Figure C).
+- 1.4 Check the expiry date on the side of the box (Figure C).
 
 Figure C
 
@@ -3827,17 +3761,13 @@ Figure O
 - Continue to HOLD the pre-filled pen firmly.
 - WATCH the syringe plunger to make sure it moves all the way down to the bottom (Figure P).
 
-Before Injection
+Before Injection After Injection Warning: Do not lift the pre-filled pen from the skin until the plunger has moved all the way down and all the liquid has been injected.
 
 <div style=\"page-break-after: always\"></div>
 
 Figure P
 
 <!-- image -->
-
-After Injection
-
-Warning: Do not lift the pre-filled pen from the skin until the plunger has moved all the way down and all the liquid has been injected.
 
 - When the syringe plunger has moved to the bottom and has stopped moving, continue holding it for 5 seconds.
 - Lift the pre-filled pen from your skin (Figure Q).

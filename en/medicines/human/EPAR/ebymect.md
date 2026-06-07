@@ -1,21 +1,97 @@
 ---
-document_datetime: 2026-03-13 12:54:00
+document_datetime: 2026-06-05 15:04:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/ebymect.html
 document_name: ebymect.html
 version: success
-processing_time: 0.127353
-conversion_datetime: 2026-03-17 19:25:07.630636
+processing_time: 0.1451087
+conversion_datetime: 2026-06-07 11:54:53.813369
 docling_version:
-  docling-serve: 1.14.3
-  docling-jobkit: 1.13.0
-  docling: 2.80.0
-  docling-core: 2.70.1
-  docling-ibm-models: 3.12.0
-  docling-parse: 5.5.0
+  docling-serve: 1.21.0
+  docling-jobkit: 1.20.1
+  docling: 2.97.0
+  docling-core: 2.78.0
+  docling-ibm-models: 3.13.2
+  docling-parse: 6.2.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
 ---
+# Search
+
+- [Medicines](/en/medicines)
+    - [Find medicine](/en/medicines)
+    - [Therapeutic areas: latest updates](/en/medicines/therapeutic-areas-latest-updates)
+    - [Download medicine data](/en/medicines/download-medicine-data)
+    - [What we publish on medicines and when](/en/medicines/what-we-publish-medicines-when)
+    - [Medicines under evaluation](/en/medicines/medicines-human-use-under-evaluation)
+    - [National registers](/en/medicines/national-registers-authorised-medicines)
+- [Human regulatory](/en/human-regulatory-overview)
+    - [Overview](/en/human-regulatory-overview)
+    - [Research and development](/en/human-regulatory-overview/research-development)
+    - [Marketing authorisation](/en/human-regulatory-overview/marketing-authorisation)
+    - [Post-authorisation](/en/human-regulatory-overview/post-authorisation)
+    - [Medical devices](/en/human-regulatory-overview/medical-devices)
+    - [Herbal products](/en/human-regulatory-overview/herbal-medicinal-products)
+- [Veterinary regulatory](/en/veterinary-regulatory-overview)
+    - [Overview](/en/veterinary-regulatory-overview)
+    - [Research and development](/en/veterinary-regulatory-overview/research-development-veterinary-medicines)
+    - [Marketing authorisation](/en/veterinary-regulatory-overview/marketing-authorisation-veterinary-medicines)
+    - [Post-authorisation](/en/veterinary-regulatory-overview/post-authorisation-veterinary-medicines)
+- [Committees](/en/committees)
+    - [Overview](/en/committees)
+    - [How the committees work](/en/committees/how-committees-work)
+    - [CHMP](/en/committees/committee-medicinal-products-human-use-chmp)
+    - [CVMP](/en/committees/committee-veterinary-medicinal-products-cvmp)
+    - [PRAC](/en/committees/pharmacovigilance-risk-assessment-committee-prac)
+    - [COMP](/en/committees/committee-orphan-medicinal-products-comp)
+    - [HMPC](/en/committees/committee-herbal-medicinal-products-hmpc)
+    - [CAT](/en/committees/committee-advanced-therapies-cat)
+    - [PDCO](/en/committees/paediatric-committee-pdco)
+    - [Working parties and other groups](/en/committees/working-parties-other-groups)
+- [News &amp; events](/en/news-events)
+    - [Overview](/en/news-events)
+    - [News](/en/news)
+    - [Events](/en/events/upcoming-events)
+    - [What's new](/en/news-events/whats-new)
+    - [Committee highlights](/en/news-events/committee-highlights)
+    - [Publications](/en/news-and-events/publications)
+    - [Press and social media](/en/news-events/press-social-media)
+    - [Podcast: Inside EMA](/en/news-events/podcast-inside-ema)
+    - [EMA Campaigns](/en/news-events/ema-campaigns)
+    - [Open consultations](/en/news-events/open-consultations)
+    - [RSS feeds](/en/news-events/rss-feeds)
+- [Partners &amp; networks](/en/partners-networks)
+    - [Overview](/en/partners-networks)
+    - [EU partners](/en/partners-networks/eu-partners)
+    - [International activities](/en/partners-networks/international-activities)
+    - [Patients and consumers](/en/partners-networks/patients-consumers)
+    - [Healthcare professionals](/en/partners-networks/healthcare-professionals)
+    - [Academia](/en/partners-networks/academia)
+    - [Pharmaceutical industry](/en/partners-networks/pharmaceutical-industry)
+    - [Networks](/en/partners-networks/networks)
+    - [Health technology assessment bodies](/en/partners-networks/health-technology-assessment-bodies)
+    - [One Health approach](/en/partners-networks/one-health-approach)
+    - [Animal health practitioners](/en/partners-networks/animal-health-practitioners)
+    - [One substance - one assessment](/en/partners-networks/one-substance-one-assessment-osoa-eu-collaboration-chemicals-related-data)
+- [About us](/en/about-us)
+    - [Overview](/en/about-us)
+    - [What we do](/en/about-us/what-we-do)
+    - [Who we are](/en/about-us/who-we-are)
+    - [How we work](/en/about-us/how-we-work)
+    - [Fees](/en/about-us/fees-payable-european-medicines-agency)
+    - [Support to SMEs](/en/about-us/support-smes)
+    - [Annual reports and work programmes](/en/about-us/annual-reports-work-programmes)
+    - [History of EMA](/en/about-us/history-ema)
+    - [Careers](/en/about-us/careers)
+    - [Procurement](/en/about-us/procurement-grants)
+    - [About this website](/en/about-us/about-website)
+    - [Data protection and privacy](/en/about-us/data-protection-privacy-ema)
+    - [Contacts](/en/about-us/contacts-european-medicines-agency)
+
+1. [Home](/en/homepage)
+2. [Medicines](https://www.ema.europa.eu/en/medicines)
+3. Ebymect
+
 # Ebymect
 
 [RSS](/en/individual-human-medicine.xml/66410)
@@ -24,7 +100,9 @@ Authorised
 
 This medicine is authorised for use in the European Union
 
-dapagliflozin / metformin Medicine Human Authorised
+dapagliflozin / metformin
+
+Medicine Human Authorised
 
 Page contents
 
@@ -58,7 +136,7 @@ Expand section
 
 Collapse section
 
-## How is Ebymect used?
+### How is Ebymect used?
 
 Ebymect is available as tablets containing 5 mg of dapagliflozin with 850 mg of metformin and as 5 mg of dapagliflozin with 1,000 mg of metformin. The recommended dose is 1 tablet taken twice a day with a meal; the strength should be chosen so that in total, patients receive 10 mg of dapagliflozin each day and the same (or almost the same) dose of metformin they were taking before starting Ebymect.
 
@@ -66,7 +144,7 @@ When Ebymect is added to treatment with insulin or a medicine that helps the bod
 
 The medicine can only be obtained with a prescription. For further information about using Ebymect, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Ebymect work?
+### How does Ebymect work?
 
 Type 2 diabetes is a disease in which the pancreas does not make enough insulin to control the amount of glucose (sugar) in the blood or when the body cannot use insulin effectively. This leads to high levels of glucose in the blood.
 
@@ -77,7 +155,7 @@ Ebymect contains two different active substances, which work in different ways:
 
 As a result of the action of both active substances, the blood glucose is reduced and this helps to control type 2 diabetes.
 
-## What benefits of Ebymect have been shown in studies?
+### What benefits of Ebymect have been shown in studies?
 
 Dapagliflozin in combination with metformin was evaluated in 6 main studies involving 3,200 adults with type 2 diabetes. The majority of these data had already been used in the authorisation of Forxiga.
 
@@ -91,7 +169,7 @@ One study showed that after 24 weeks of treatment, patients taking dapagliflozin
 
 A long-term study, involving over 17,000 patients with type 2 diabetes, looked at the effects of dapagliflozin on cardiovascular (heart and circulation) disease. The study indicated that dapagliflozin's effects were in line with those of other diabetes medicines that also work by blocking SGLT2.
 
-## What are the risks associated with Ebymect?
+### What are the risks associated with Ebymect?
 
 The most common side effects with Ebymect (which may affect more than 1 in 10 people) are hypoglycaemia (when used together with insulin or a sulphonylurea) and gastrointestinal symptoms (symptoms affecting the stomach and gut). For the full list of side effects with Ebymect, see the package leaflet.
 
@@ -112,17 +190,17 @@ patients with any form of acute metabolic acidosis (build up of acid in the bloo
 
 For the full list of restrictions, see the package leaflet.
 
-## Why is Ebymect authorised in the EU?
+### Why is Ebymect authorised in the EU?
 
 The European Medicines Agency decided that Ebymect's benefits are greater than its risks and recommended that it can be authorised for use in the EU. The Agency considered Ebymect to be effective for treating type 2 diabetes; it also leads to weight loss, which is considered beneficial in patients with diabetes. The Agency also noted that giving the combination of dapagliflozin and metformin as a single tablet could provide an additional treatment option for patients with type 2 diabetes, and may improve adherence to treatment. Regarding its safety profile, this was considered similar to the safety profile of dapagliflozin.
 
-## What measures are being taken to ensure the safe and effective use of Ebymect?
+### What measures are being taken to ensure the safe and effective use of Ebymect?
 
 Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Ebymect have been included in the summary of product characteristics and the package leaflet.
 
 As for all medicines, data on the use of Ebymect are continuously monitored. Side effects reported with Ebymect are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Ebymect
+### Other information about Ebymect
 
 Ebymect received a marketing authorisation valid throughout the EU on 15 November 2015.
 
@@ -134,285 +212,149 @@ Reference Number: EMA/467741/2019
 
 English (EN) (86.24 KB - PDF)
 
-**First published:** 23/11/2015
-
-**Last updated:** 28/08/2019
+**First published:** 23/11/2015 **Last updated:** 28/08/2019
 
 [View](/en/documents/overview/ebymect-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-792)
+[Other languages (22)](#file-language-dropdown-82)
 
 български (BG) (148.92 KB - PDF)
 
-**First published:**
-
-23/11/2015
-
-**Last updated:**
-
-28/08/2019
+**First published:** 23/11/2015 **Last updated:** 28/08/2019
 
 [View](/bg/documents/overview/ebymect-epar-medicine-overview_bg.pdf)
 
 español (ES) (120.34 KB - PDF)
 
-**First published:**
-
-23/11/2015
-
-**Last updated:**
-
-28/08/2019
+**First published:** 23/11/2015 **Last updated:** 28/08/2019
 
 [View](/es/documents/overview/ebymect-epar-medicine-overview_es.pdf)
 
 čeština (CS) (145.06 KB - PDF)
 
-**First published:**
-
-23/11/2015
-
-**Last updated:**
-
-28/08/2019
+**First published:** 23/11/2015 **Last updated:** 28/08/2019
 
 [View](/cs/documents/overview/ebymect-epar-medicine-overview_cs.pdf)
 
 dansk (DA) (119.9 KB - PDF)
 
-**First published:**
-
-23/11/2015
-
-**Last updated:**
-
-28/08/2019
+**First published:** 23/11/2015 **Last updated:** 28/08/2019
 
 [View](/da/documents/overview/ebymect-epar-medicine-overview_da.pdf)
 
 Deutsch (DE) (124.74 KB - PDF)
 
-**First published:**
-
-23/11/2015
-
-**Last updated:**
-
-28/08/2019
+**First published:** 23/11/2015 **Last updated:** 28/08/2019
 
 [View](/de/documents/overview/ebymect-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (116.35 KB - PDF)
+eesti (ET) (116.35 KB - PDF)
 
-**First published:**
-
-23/11/2015
-
-**Last updated:**
-
-28/08/2019
+**First published:** 23/11/2015 **Last updated:** 28/08/2019
 
 [View](/et/documents/overview/ebymect-epar-medicine-overview_et.pdf)
 
 ελληνικά (EL) (148.76 KB - PDF)
 
-**First published:**
-
-23/11/2015
-
-**Last updated:**
-
-28/08/2019
+**First published:** 23/11/2015 **Last updated:** 28/08/2019
 
 [View](/el/documents/overview/ebymect-epar-medicine-overview_el.pdf)
 
 français (FR) (122.88 KB - PDF)
 
-**First published:**
-
-23/11/2015
-
-**Last updated:**
-
-28/08/2019
+**First published:** 23/11/2015 **Last updated:** 28/08/2019
 
 [View](/fr/documents/overview/ebymect-epar-medicine-overview_fr.pdf)
 
 hrvatski (HR) (142.53 KB - PDF)
 
-**First published:**
-
-23/11/2015
-
-**Last updated:**
-
-28/08/2019
+**First published:** 23/11/2015 **Last updated:** 28/08/2019
 
 [View](/hr/documents/overview/ebymect-epar-medicine-overview_hr.pdf)
 
 italiano (IT) (119.08 KB - PDF)
 
-**First published:**
-
-23/11/2015
-
-**Last updated:**
-
-28/08/2019
+**First published:** 23/11/2015 **Last updated:** 28/08/2019
 
 [View](/it/documents/overview/ebymect-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (139.92 KB - PDF)
+latviešu (LV) (139.92 KB - PDF)
 
-**First published:**
-
-23/11/2015
-
-**Last updated:**
-
-28/08/2019
+**First published:** 23/11/2015 **Last updated:** 28/08/2019
 
 [View](/lv/documents/overview/ebymect-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (142.96 KB - PDF)
+lietuvių (LT) (142.96 KB - PDF)
 
-**First published:**
-
-23/11/2015
-
-**Last updated:**
-
-28/08/2019
+**First published:** 23/11/2015 **Last updated:** 28/08/2019
 
 [View](/lt/documents/overview/ebymect-epar-medicine-overview_lt.pdf)
 
 magyar (HU) (144.5 KB - PDF)
 
-**First published:**
-
-23/11/2015
-
-**Last updated:**
-
-28/08/2019
+**First published:** 23/11/2015 **Last updated:** 28/08/2019
 
 [View](/hu/documents/overview/ebymect-epar-medicine-overview_hu.pdf)
 
 Malti (MT) (143.99 KB - PDF)
 
-**First published:**
-
-23/11/2015
-
-**Last updated:**
-
-28/08/2019
+**First published:** 23/11/2015 **Last updated:** 28/08/2019
 
 [View](/mt/documents/overview/ebymect-epar-medicine-overview_mt.pdf)
 
 Nederlands (NL) (120.7 KB - PDF)
 
-**First published:**
-
-23/11/2015
-
-**Last updated:**
-
-28/08/2019
+**First published:** 23/11/2015 **Last updated:** 28/08/2019
 
 [View](/nl/documents/overview/ebymect-epar-medicine-overview_nl.pdf)
 
 polski (PL) (148.12 KB - PDF)
 
-**First published:**
-
-23/11/2015
-
-**Last updated:**
-
-28/08/2019
+**First published:** 23/11/2015 **Last updated:** 28/08/2019
 
 [View](/pl/documents/overview/ebymect-epar-medicine-overview_pl.pdf)
 
 português (PT) (121.69 KB - PDF)
 
-**First published:**
-
-23/11/2015
-
-**Last updated:**
-
-28/08/2019
+**First published:** 23/11/2015 **Last updated:** 28/08/2019
 
 [View](/pt/documents/overview/ebymect-epar-medicine-overview_pt.pdf)
 
 română (RO) (140.44 KB - PDF)
 
-**First published:**
-
-23/11/2015
-
-**Last updated:**
-
-28/08/2019
+**First published:** 23/11/2015 **Last updated:** 28/08/2019
 
 [View](/ro/documents/overview/ebymect-epar-medicine-overview_ro.pdf)
 
 slovenčina (SK) (145.34 KB - PDF)
 
-**First published:**
-
-23/11/2015
-
-**Last updated:**
-
-28/08/2019
+**First published:** 23/11/2015 **Last updated:** 28/08/2019
 
 [View](/sk/documents/overview/ebymect-epar-medicine-overview_sk.pdf)
 
 slovenščina (SL) (141.83 KB - PDF)
 
-**First published:**
-
-23/11/2015
-
-**Last updated:**
-
-28/08/2019
+**First published:** 23/11/2015 **Last updated:** 28/08/2019
 
 [View](/sl/documents/overview/ebymect-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (116.91 KB - PDF)
+suomi (FI) (116.91 KB - PDF)
 
-**First published:**
-
-23/11/2015
-
-**Last updated:**
-
-28/08/2019
+**First published:** 23/11/2015 **Last updated:** 28/08/2019
 
 [View](/fi/documents/overview/ebymect-epar-medicine-overview_fi.pdf)
 
 svenska (SV) (118.32 KB - PDF)
 
-**First published:**
-
-23/11/2015
-
-**Last updated:**
-
-28/08/2019
+**First published:** 23/11/2015 **Last updated:** 28/08/2019
 
 [View](/sv/documents/overview/ebymect-epar-medicine-overview_sv.pdf)
 
 Ebymect : EPAR - Risk-management-plan
 
-English (EN) (334.42 KB - PDF)
+English (EN) (467.66 KB - PDF)
 
-**First published:** 23/11/2015
-
-**Last updated:** 18/12/2025
+**First published:** 23/11/2015 **Last updated:** 05/06/2026
 
 [View](/en/documents/rmp/ebymect-epar-risk-management-plan_en.pdf)
 
@@ -422,303 +364,159 @@ Ebymect : EPAR - Product Information
 
 English (EN) (651.84 KB - PDF)
 
-**First published:** 23/11/2015
-
-**Last updated:** 13/03/2026
+**First published:** 23/11/2015 **Last updated:** 13/03/2026
 
 [View](/en/documents/product-information/ebymect-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-432)
+[Other languages (24)](#file-language-dropdown-269)
 
 български (BG) (621.22 KB - PDF)
 
-**First published:**
-
-23/11/2015
-
-**Last updated:**
-
-13/03/2026
+**First published:** 23/11/2015 **Last updated:** 13/03/2026
 
 [View](/bg/documents/product-information/ebymect-epar-product-information_bg.pdf)
 
 español (ES) (561.71 KB - PDF)
 
-**First published:**
-
-23/11/2015
-
-**Last updated:**
-
-13/03/2026
+**First published:** 23/11/2015 **Last updated:** 13/03/2026
 
 [View](/es/documents/product-information/ebymect-epar-product-information_es.pdf)
 
 čeština (CS) (657.97 KB - PDF)
 
-**First published:**
-
-23/11/2015
-
-**Last updated:**
-
-13/03/2026
+**First published:** 23/11/2015 **Last updated:** 13/03/2026
 
 [View](/cs/documents/product-information/ebymect-epar-product-information_cs.pdf)
 
 dansk (DA) (582.18 KB - PDF)
 
-**First published:**
-
-23/11/2015
-
-**Last updated:**
-
-13/03/2026
+**First published:** 23/11/2015 **Last updated:** 13/03/2026
 
 [View](/da/documents/product-information/ebymect-epar-product-information_da.pdf)
 
 Deutsch (DE) (566.39 KB - PDF)
 
-**First published:**
-
-23/11/2015
-
-**Last updated:**
-
-13/03/2026
+**First published:** 23/11/2015 **Last updated:** 13/03/2026
 
 [View](/de/documents/product-information/ebymect-epar-product-information_de.pdf)
 
-eesti keel (ET) (538.77 KB - PDF)
+eesti (ET) (538.77 KB - PDF)
 
-**First published:**
-
-23/11/2015
-
-**Last updated:**
-
-13/03/2026
+**First published:** 23/11/2015 **Last updated:** 13/03/2026
 
 [View](/et/documents/product-information/ebymect-epar-product-information_et.pdf)
 
 ελληνικά (EL) (676.76 KB - PDF)
 
-**First published:**
-
-23/11/2015
-
-**Last updated:**
-
-13/03/2026
+**First published:** 23/11/2015 **Last updated:** 13/03/2026
 
 [View](/el/documents/product-information/ebymect-epar-product-information_el.pdf)
 
 français (FR) (654.67 KB - PDF)
 
-**First published:**
-
-23/11/2015
-
-**Last updated:**
-
-13/03/2026
+**First published:** 23/11/2015 **Last updated:** 13/03/2026
 
 [View](/fr/documents/product-information/ebymect-epar-product-information_fr.pdf)
 
 hrvatski (HR) (599.31 KB - PDF)
 
-**First published:**
-
-23/11/2015
-
-**Last updated:**
-
-13/03/2026
+**First published:** 23/11/2015 **Last updated:** 13/03/2026
 
 [View](/hr/documents/product-information/ebymect-epar-product-information_hr.pdf)
 
-íslenska (IS) (565.42 KB - PDF)
-
-**First published:**
-
-23/11/2015
-
-**Last updated:**
-
-13/03/2026
-
-[View](/is/documents/product-information/ebymect-epar-product-information_is.pdf)
-
 italiano (IT) (620.53 KB - PDF)
 
-**First published:**
-
-23/11/2015
-
-**Last updated:**
-
-13/03/2026
+**First published:** 23/11/2015 **Last updated:** 13/03/2026
 
 [View](/it/documents/product-information/ebymect-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (739.93 KB - PDF)
+latviešu (LV) (739.93 KB - PDF)
 
-**First published:**
-
-23/11/2015
-
-**Last updated:**
-
-13/03/2026
+**First published:** 23/11/2015 **Last updated:** 13/03/2026
 
 [View](/lv/documents/product-information/ebymect-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (718.36 KB - PDF)
+lietuvių (LT) (718.36 KB - PDF)
 
-**First published:**
-
-23/11/2015
-
-**Last updated:**
-
-13/03/2026
+**First published:** 23/11/2015 **Last updated:** 13/03/2026
 
 [View](/lt/documents/product-information/ebymect-epar-product-information_lt.pdf)
 
 magyar (HU) (654.48 KB - PDF)
 
-**First published:**
-
-23/11/2015
-
-**Last updated:**
-
-13/03/2026
+**First published:** 23/11/2015 **Last updated:** 13/03/2026
 
 [View](/hu/documents/product-information/ebymect-epar-product-information_hu.pdf)
 
 Malti (MT) (729.8 KB - PDF)
 
-**First published:**
-
-23/11/2015
-
-**Last updated:**
-
-13/03/2026
+**First published:** 23/11/2015 **Last updated:** 13/03/2026
 
 [View](/mt/documents/product-information/ebymect-epar-product-information_mt.pdf)
 
 Nederlands (NL) (742.5 KB - PDF)
 
-**First published:**
-
-23/11/2015
-
-**Last updated:**
-
-13/03/2026
+**First published:** 23/11/2015 **Last updated:** 13/03/2026
 
 [View](/nl/documents/product-information/ebymect-epar-product-information_nl.pdf)
 
-norsk (NO) (583.31 KB - PDF)
-
-**First published:**
-
-23/11/2015
-
-**Last updated:**
-
-13/03/2026
-
-[View](/no/documents/product-information/ebymect-epar-product-information_no.pdf)
-
 polski (PL) (725.53 KB - PDF)
 
-**First published:**
-
-23/11/2015
-
-**Last updated:**
-
-13/03/2026
+**First published:** 23/11/2015 **Last updated:** 13/03/2026
 
 [View](/pl/documents/product-information/ebymect-epar-product-information_pl.pdf)
 
 português (PT) (603.86 KB - PDF)
 
-**First published:**
-
-23/11/2015
-
-**Last updated:**
-
-13/03/2026
+**First published:** 23/11/2015 **Last updated:** 13/03/2026
 
 [View](/pt/documents/product-information/ebymect-epar-product-information_pt.pdf)
 
 română (RO) (719.7 KB - PDF)
 
-**First published:**
-
-23/11/2015
-
-**Last updated:**
-
-13/03/2026
+**First published:** 23/11/2015 **Last updated:** 13/03/2026
 
 [View](/ro/documents/product-information/ebymect-epar-product-information_ro.pdf)
 
 slovenčina (SK) (620.72 KB - PDF)
 
-**First published:**
-
-23/11/2015
-
-**Last updated:**
-
-13/03/2026
+**First published:** 23/11/2015 **Last updated:** 13/03/2026
 
 [View](/sk/documents/product-information/ebymect-epar-product-information_sk.pdf)
 
 slovenščina (SL) (648.38 KB - PDF)
 
-**First published:**
-
-23/11/2015
-
-**Last updated:**
-
-13/03/2026
+**First published:** 23/11/2015 **Last updated:** 13/03/2026
 
 [View](/sl/documents/product-information/ebymect-epar-product-information_sl.pdf)
 
-Suomi (FI) (667.24 KB - PDF)
+suomi (FI) (667.24 KB - PDF)
 
-**First published:**
-
-23/11/2015
-
-**Last updated:**
-
-13/03/2026
+**First published:** 23/11/2015 **Last updated:** 13/03/2026
 
 [View](/fi/documents/product-information/ebymect-epar-product-information_fi.pdf)
 
 svenska (SV) (681.75 KB - PDF)
 
-**First published:**
-
-23/11/2015
-
-**Last updated:**
-
-13/03/2026
+**First published:** 23/11/2015 **Last updated:** 13/03/2026
 
 [View](/sv/documents/product-information/ebymect-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000310736 12/03/2026
+Íslenska (IS) (565.42 KB - PDF)
+
+**First published:** 23/11/2015 **Last updated:** 13/03/2026
+
+[View](/is/documents/product-information/ebymect-epar-product-information_is.pdf)
+
+norsk (NO) (583.31 KB - PDF)
+
+**First published:** 23/11/2015 **Last updated:** 13/03/2026
+
+[View](/no/documents/product-information/ebymect-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** VR/0000310736
+
+12/03/2026
 
 icon globe
 
@@ -738,305 +536,163 @@ Ebymect : EPAR - All Authorised presentations
 
 English (EN) (30.47 KB - PDF)
 
-**First published:** 23/11/2015
-
-**Last updated:** 22/09/2020
+**First published:** 23/11/2015 **Last updated:** 22/09/2020
 
 [View](/en/documents/all-authorised-presentations/ebymect-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-845)
+[Other languages (24)](#file-language-dropdown-733)
 
 български (BG) (33.82 KB - PDF)
 
-**First published:**
-
-23/11/2015
-
-**Last updated:**
-
-22/09/2020
+**First published:** 23/11/2015 **Last updated:** 22/09/2020
 
 [View](/bg/documents/all-authorised-presentations/ebymect-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (53.4 KB - PDF)
 
-**First published:**
-
-23/11/2015
-
-**Last updated:**
-
-22/09/2020
+**First published:** 23/11/2015 **Last updated:** 22/09/2020
 
 [View](/es/documents/all-authorised-presentations/ebymect-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (30.95 KB - PDF)
 
-**First published:**
-
-23/11/2015
-
-**Last updated:**
-
-22/09/2020
+**First published:** 23/11/2015 **Last updated:** 22/09/2020
 
 [View](/cs/documents/all-authorised-presentations/ebymect-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (29.48 KB - PDF)
 
-**First published:**
-
-23/11/2015
-
-**Last updated:**
-
-22/09/2020
+**First published:** 23/11/2015 **Last updated:** 22/09/2020
 
 [View](/da/documents/all-authorised-presentations/ebymect-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (31.54 KB - PDF)
 
-**First published:**
-
-23/11/2015
-
-**Last updated:**
-
-22/09/2020
+**First published:** 23/11/2015 **Last updated:** 22/09/2020
 
 [View](/de/documents/all-authorised-presentations/ebymect-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (30.68 KB - PDF)
+eesti (ET) (30.68 KB - PDF)
 
-**First published:**
-
-23/11/2015
-
-**Last updated:**
-
-22/09/2020
+**First published:** 23/11/2015 **Last updated:** 22/09/2020
 
 [View](/et/documents/all-authorised-presentations/ebymect-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (33.77 KB - PDF)
 
-**First published:**
-
-23/11/2015
-
-**Last updated:**
-
-22/09/2020
+**First published:** 23/11/2015 **Last updated:** 22/09/2020
 
 [View](/el/documents/all-authorised-presentations/ebymect-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (25.97 KB - PDF)
 
-**First published:**
-
-23/11/2015
-
-**Last updated:**
-
-22/09/2020
+**First published:** 23/11/2015 **Last updated:** 22/09/2020
 
 [View](/fr/documents/all-authorised-presentations/ebymect-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (31.28 KB - PDF)
 
-**First published:**
-
-23/11/2015
-
-**Last updated:**
-
-22/09/2020
+**First published:** 23/11/2015 **Last updated:** 22/09/2020
 
 [View](/hr/documents/all-authorised-presentations/ebymect-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (31.24 KB - PDF)
-
-**First published:**
-
-23/11/2015
-
-**Last updated:**
-
-22/09/2020
-
-[View](/is/documents/all-authorised-presentations/ebymect-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (31.14 KB - PDF)
 
-**First published:**
-
-23/11/2015
-
-**Last updated:**
-
-22/09/2020
+**First published:** 23/11/2015 **Last updated:** 22/09/2020
 
 [View](/it/documents/all-authorised-presentations/ebymect-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (32.77 KB - PDF)
+latviešu (LV) (32.77 KB - PDF)
 
-**First published:**
-
-23/11/2015
-
-**Last updated:**
-
-22/09/2020
+**First published:** 23/11/2015 **Last updated:** 22/09/2020
 
 [View](/lv/documents/all-authorised-presentations/ebymect-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (32.97 KB - PDF)
+lietuvių (LT) (32.97 KB - PDF)
 
-**First published:**
-
-23/11/2015
-
-**Last updated:**
-
-22/09/2020
+**First published:** 23/11/2015 **Last updated:** 22/09/2020
 
 [View](/lt/documents/all-authorised-presentations/ebymect-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (39.74 KB - PDF)
 
-**First published:**
-
-23/11/2015
-
-**Last updated:**
-
-22/09/2020
+**First published:** 23/11/2015 **Last updated:** 22/09/2020
 
 [View](/hu/documents/all-authorised-presentations/ebymect-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (41.71 KB - PDF)
 
-**First published:**
-
-23/11/2015
-
-**Last updated:**
-
-22/09/2020
+**First published:** 23/11/2015 **Last updated:** 22/09/2020
 
 [View](/mt/documents/all-authorised-presentations/ebymect-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (54.57 KB - PDF)
 
-**First published:**
-
-23/11/2015
-
-**Last updated:**
-
-22/09/2020
+**First published:** 23/11/2015 **Last updated:** 22/09/2020
 
 [View](/nl/documents/all-authorised-presentations/ebymect-epar-all-authorised-presentations_nl.pdf)
 
-norsk (NO) (31.62 KB - PDF)
-
-**First published:**
-
-23/11/2015
-
-**Last updated:**
-
-22/09/2020
-
-[View](/no/documents/all-authorised-presentations/ebymect-epar-all-authorised-presentations_no.pdf)
-
 polski (PL) (42.33 KB - PDF)
 
-**First published:**
-
-23/11/2015
-
-**Last updated:**
-
-22/09/2020
+**First published:** 23/11/2015 **Last updated:** 22/09/2020
 
 [View](/pl/documents/all-authorised-presentations/ebymect-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (30.96 KB - PDF)
 
-**First published:**
-
-23/11/2015
-
-**Last updated:**
-
-22/09/2020
+**First published:** 23/11/2015 **Last updated:** 22/09/2020
 
 [View](/pt/documents/all-authorised-presentations/ebymect-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (30.64 KB - PDF)
 
-**First published:**
-
-23/11/2015
-
-**Last updated:**
-
-22/09/2020
+**First published:** 23/11/2015 **Last updated:** 22/09/2020
 
 [View](/ro/documents/all-authorised-presentations/ebymect-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (45.21 KB - PDF)
 
-**First published:**
-
-23/11/2015
-
-**Last updated:**
-
-22/09/2020
+**First published:** 23/11/2015 **Last updated:** 22/09/2020
 
 [View](/sk/documents/all-authorised-presentations/ebymect-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (43.39 KB - PDF)
 
-**First published:**
-
-23/11/2015
-
-**Last updated:**
-
-22/09/2020
+**First published:** 23/11/2015 **Last updated:** 22/09/2020
 
 [View](/sl/documents/all-authorised-presentations/ebymect-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (30.8 KB - PDF)
+suomi (FI) (30.8 KB - PDF)
 
-**First published:**
-
-23/11/2015
-
-**Last updated:**
-
-22/09/2020
+**First published:** 23/11/2015 **Last updated:** 22/09/2020
 
 [View](/fi/documents/all-authorised-presentations/ebymect-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (31.78 KB - PDF)
 
-**First published:**
-
-23/11/2015
-
-**Last updated:**
-
-22/09/2020
+**First published:** 23/11/2015 **Last updated:** 22/09/2020
 
 [View](/sv/documents/all-authorised-presentations/ebymect-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (31.24 KB - PDF)
+
+**First published:** 23/11/2015 **Last updated:** 22/09/2020
+
+[View](/is/documents/all-authorised-presentations/ebymect-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (31.62 KB - PDF)
+
+**First published:** 23/11/2015 **Last updated:** 22/09/2020
+
+[View](/no/documents/all-authorised-presentations/ebymect-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine Ebymect Active substance
+Name of medicine
+
+Ebymect
+
+Active substance
 
 - dapagliflozin propanediol monohydrate
 - metformin hydrochloride
@@ -1046,7 +702,13 @@ International non-proprietary name (INN) or common name
 - dapagliflozin
 - metformin
 
-Therapeutic area (MeSH) Diabetes Mellitus, Type 2 Anatomical therapeutic chemical (ATC) code A10BD15
+Therapeutic area (MeSH)
+
+Diabetes Mellitus, Type 2
+
+Anatomical therapeutic chemical (ATC) code
+
+A10BD15
 
 ### Pharmacotherapeutic group
 
@@ -1069,13 +731,27 @@ Edistride is indicated in adults for the treatment of insufficiently controlled 
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/004162 Marketing authorisation holder
+EMA product number
+
+EMEA/H/C/004162
+
+Marketing authorisation holder
 
 AstraZeneca AB
 
 151 85 Sodertalje
 
-Opinion adopted 23/09/2015 Marketing authorisation issued 15/11/2015 Revision 24
+Opinion adopted
+
+23/09/2015
+
+Marketing authorisation issued
+
+15/11/2015
+
+Revision
+
+25
 
 ## Assessment history
 
@@ -1083,15 +759,13 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Ebymect : EPAR - Procedural steps taken and scientific information after authorisation
 
 English (EN) (154.3 KB - PDF)
 
-**First published:** 23/05/2025
-
-**Last updated:** 13/03/2026
+**First published:** 23/05/2025 **Last updated:** 13/03/2026
 
 [View](/en/documents/procedural-steps-after/ebymect-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1099,17 +773,13 @@ Ebymect : EPAR - Procedural steps taken and scientific information after authori
 
 English (EN) (264.28 KB - PDF)
 
-**First published:** 26/05/2016
-
-**Last updated:** 23/05/2025
+**First published:** 26/05/2016 **Last updated:** 23/05/2025
 
 [View](/en/documents/procedural-steps-after/ebymect-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 Ebymect-H-C-4162-WS-1539 : EPAR - Assessment report - Variation
 
-Adopted
-
-Reference Number: EMA/476671/2019
+Adopted Reference Number: EMA/476671/2019
 
 English (EN) (1.45 MB - PDF)
 
@@ -1119,9 +789,7 @@ English (EN) (1.45 MB - PDF)
 
 CHMP post-authorisation summary of positive opinion for Ebymect (WS1539/0035)
 
-Adopted
-
-Reference Number: EMA/CHMP/365312/2019
+Adopted Reference Number: EMA/CHMP/365312/2019
 
 English (EN) (67.64 KB - PDF)
 
@@ -1131,15 +799,11 @@ English (EN) (67.64 KB - PDF)
 
 Ebymect-H-A20-1442-C-4162-0013 : EPAR - Assessment Report - Article 20
 
-Adopted
-
-Reference Number: EMA/PRAC/637349/2016
+Adopted Reference Number: EMA/PRAC/637349/2016
 
 English (EN) (254.07 KB - PDF)
 
-**First published:** 05/07/2017
-
-**Last updated:** 05/07/2017
+**First published:** 05/07/2017 **Last updated:** 05/07/2017
 
 [View](/en/documents/variation-report/ebymect-h-a20-1442-c-4162-0013-epar-assessment-report-article-20_en.pdf)
 
@@ -1147,313 +811,163 @@ Ebymect-H-A20-1442-C-4162-0013 : EPAR - Scientific Conclusion - Article 20
 
 English (EN) (41.36 KB - PDF)
 
-**First published:** 05/07/2017
-
-**Last updated:** 05/07/2017
+**First published:** 05/07/2017 **Last updated:** 05/07/2017
 
 [View](/en/documents/scientific-conclusion/ebymect-h-a20-1442-c-4162-0013-epar-scientific-conclusion-article-20_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-825)
+[Other languages (24)](#file-language-dropdown-613)
 
 български (BG) (84.18 KB - PDF)
 
-**First published:**
-
-05/07/2017
-
-**Last updated:**
-
-05/07/2017
+**First published:** 05/07/2017 **Last updated:** 05/07/2017
 
 [View](/bg/documents/scientific-conclusion/ebymect-h-a20-1442-c-4162-0013-epar-scientific-conclusion-article-20_bg.pdf)
 
 español (ES) (41.99 KB - PDF)
 
-**First published:**
-
-05/07/2017
-
-**Last updated:**
-
-05/07/2017
+**First published:** 05/07/2017 **Last updated:** 05/07/2017
 
 [View](/es/documents/scientific-conclusion/ebymect-h-a20-1442-c-4162-0013-epar-scientific-conclusion-article-20_es.pdf)
 
 čeština (CS) (78.08 KB - PDF)
 
-**First published:**
-
-05/07/2017
-
-**Last updated:**
-
-05/07/2017
+**First published:** 05/07/2017 **Last updated:** 05/07/2017
 
 [View](/cs/documents/scientific-conclusion/ebymect-h-a20-1442-c-4162-0013-epar-scientific-conclusion-article-20_cs.pdf)
 
 dansk (DA) (41.03 KB - PDF)
 
-**First published:**
-
-05/07/2017
-
-**Last updated:**
-
-05/07/2017
+**First published:** 05/07/2017 **Last updated:** 05/07/2017
 
 [View](/da/documents/scientific-conclusion/ebymect-h-a20-1442-c-4162-0013-epar-scientific-conclusion-article-20_da.pdf)
 
 Deutsch (DE) (44.39 KB - PDF)
 
-**First published:**
-
-05/07/2017
-
-**Last updated:**
-
-05/07/2017
+**First published:** 05/07/2017 **Last updated:** 05/07/2017
 
 [View](/de/documents/scientific-conclusion/ebymect-h-a20-1442-c-4162-0013-epar-scientific-conclusion-article-20_de.pdf)
 
-eesti keel (ET) (40.46 KB - PDF)
+eesti (ET) (40.46 KB - PDF)
 
-**First published:**
-
-05/07/2017
-
-**Last updated:**
-
-05/07/2017
+**First published:** 05/07/2017 **Last updated:** 05/07/2017
 
 [View](/et/documents/scientific-conclusion/ebymect-h-a20-1442-c-4162-0013-epar-scientific-conclusion-article-20_et.pdf)
 
 ελληνικά (EL) (84.71 KB - PDF)
 
-**First published:**
-
-05/07/2017
-
-**Last updated:**
-
-05/07/2017
+**First published:** 05/07/2017 **Last updated:** 05/07/2017
 
 [View](/el/documents/scientific-conclusion/ebymect-h-a20-1442-c-4162-0013-epar-scientific-conclusion-article-20_el.pdf)
 
 français (FR) (42.93 KB - PDF)
 
-**First published:**
-
-05/07/2017
-
-**Last updated:**
-
-05/07/2017
+**First published:** 05/07/2017 **Last updated:** 05/07/2017
 
 [View](/fr/documents/scientific-conclusion/ebymect-h-a20-1442-c-4162-0013-epar-scientific-conclusion-article-20_fr.pdf)
 
 hrvatski (HR) (76.27 KB - PDF)
 
-**First published:**
-
-05/07/2017
-
-**Last updated:**
-
-05/07/2017
+**First published:** 05/07/2017 **Last updated:** 05/07/2017
 
 [View](/hr/documents/scientific-conclusion/ebymect-h-a20-1442-c-4162-0013-epar-scientific-conclusion-article-20_hr.pdf)
 
-íslenska (IS) (40.74 KB - PDF)
-
-**First published:**
-
-05/07/2017
-
-**Last updated:**
-
-05/07/2017
-
-[View](/is/documents/scientific-conclusion/ebymect-h-a20-1442-c-4162-0013-epar-scientific-conclusion-article-20_is.pdf)
-
 italiano (IT) (40.72 KB - PDF)
 
-**First published:**
-
-05/07/2017
-
-**Last updated:**
-
-05/07/2017
+**First published:** 05/07/2017 **Last updated:** 05/07/2017
 
 [View](/it/documents/scientific-conclusion/ebymect-h-a20-1442-c-4162-0013-epar-scientific-conclusion-article-20_it.pdf)
 
-latviešu valoda (LV) (76.13 KB - PDF)
+latviešu (LV) (76.13 KB - PDF)
 
-**First published:**
-
-05/07/2017
-
-**Last updated:**
-
-05/07/2017
+**First published:** 05/07/2017 **Last updated:** 05/07/2017
 
 [View](/lv/documents/scientific-conclusion/ebymect-h-a20-1442-c-4162-0013-epar-scientific-conclusion-article-20_lv.pdf)
 
-lietuvių kalba (LT) (72.25 KB - PDF)
+lietuvių (LT) (72.25 KB - PDF)
 
-**First published:**
-
-05/07/2017
-
-**Last updated:**
-
-05/07/2017
+**First published:** 05/07/2017 **Last updated:** 05/07/2017
 
 [View](/lt/documents/scientific-conclusion/ebymect-h-a20-1442-c-4162-0013-epar-scientific-conclusion-article-20_lt.pdf)
 
 magyar (HU) (60.56 KB - PDF)
 
-**First published:**
-
-05/07/2017
-
-**Last updated:**
-
-05/07/2017
+**First published:** 05/07/2017 **Last updated:** 05/07/2017
 
 [View](/hu/documents/scientific-conclusion/ebymect-h-a20-1442-c-4162-0013-epar-scientific-conclusion-article-20_hu.pdf)
 
 Malti (MT) (83.36 KB - PDF)
 
-**First published:**
-
-05/07/2017
-
-**Last updated:**
-
-05/07/2017
+**First published:** 05/07/2017 **Last updated:** 05/07/2017
 
 [View](/mt/documents/scientific-conclusion/ebymect-h-a20-1442-c-4162-0013-epar-scientific-conclusion-article-20_mt.pdf)
 
 Nederlands (NL) (42.37 KB - PDF)
 
-**First published:**
-
-05/07/2017
-
-**Last updated:**
-
-05/07/2017
+**First published:** 05/07/2017 **Last updated:** 05/07/2017
 
 [View](/nl/documents/scientific-conclusion/ebymect-h-a20-1442-c-4162-0013-epar-scientific-conclusion-article-20_nl.pdf)
 
-norsk (NO) (40.5 KB - PDF)
-
-**First published:**
-
-05/07/2017
-
-**Last updated:**
-
-05/07/2017
-
-[View](/no/documents/scientific-conclusion/ebymect-h-a20-1442-c-4162-0013-epar-scientific-conclusion-article-20_no.pdf)
-
 polski (PL) (62.96 KB - PDF)
 
-**First published:**
-
-05/07/2017
-
-**Last updated:**
-
-05/07/2017
+**First published:** 05/07/2017 **Last updated:** 05/07/2017
 
 [View](/pl/documents/scientific-conclusion/ebymect-h-a20-1442-c-4162-0013-epar-scientific-conclusion-article-20_pl.pdf)
 
 português (PT) (42.06 KB - PDF)
 
-**First published:**
-
-05/07/2017
-
-**Last updated:**
-
-05/07/2017
+**First published:** 05/07/2017 **Last updated:** 05/07/2017
 
 [View](/pt/documents/scientific-conclusion/ebymect-h-a20-1442-c-4162-0013-epar-scientific-conclusion-article-20_pt.pdf)
 
 română (RO) (78.32 KB - PDF)
 
-**First published:**
-
-05/07/2017
-
-**Last updated:**
-
-05/07/2017
+**First published:** 05/07/2017 **Last updated:** 05/07/2017
 
 [View](/ro/documents/scientific-conclusion/ebymect-h-a20-1442-c-4162-0013-epar-scientific-conclusion-article-20_ro.pdf)
 
 slovenčina (SK) (70.79 KB - PDF)
 
-**First published:**
-
-05/07/2017
-
-**Last updated:**
-
-05/07/2017
+**First published:** 05/07/2017 **Last updated:** 05/07/2017
 
 [View](/sk/documents/scientific-conclusion/ebymect-h-a20-1442-c-4162-0013-epar-scientific-conclusion-article-20_sk.pdf)
 
 slovenščina (SL) (75.63 KB - PDF)
 
-**First published:**
-
-05/07/2017
-
-**Last updated:**
-
-05/07/2017
+**First published:** 05/07/2017 **Last updated:** 05/07/2017
 
 [View](/sl/documents/scientific-conclusion/ebymect-h-a20-1442-c-4162-0013-epar-scientific-conclusion-article-20_sl.pdf)
 
-Suomi (FI) (40.53 KB - PDF)
+suomi (FI) (40.53 KB - PDF)
 
-**First published:**
-
-05/07/2017
-
-**Last updated:**
-
-05/07/2017
+**First published:** 05/07/2017 **Last updated:** 05/07/2017
 
 [View](/fi/documents/scientific-conclusion/ebymect-h-a20-1442-c-4162-0013-epar-scientific-conclusion-article-20_fi.pdf)
 
 svenska (SV) (41.68 KB - PDF)
 
-**First published:**
-
-05/07/2017
-
-**Last updated:**
-
-05/07/2017
+**First published:** 05/07/2017 **Last updated:** 05/07/2017
 
 [View](/sv/documents/scientific-conclusion/ebymect-h-a20-1442-c-4162-0013-epar-scientific-conclusion-article-20_sv.pdf)
 
+Íslenska (IS) (40.74 KB - PDF)
+
+**First published:** 05/07/2017 **Last updated:** 05/07/2017
+
+[View](/is/documents/scientific-conclusion/ebymect-h-a20-1442-c-4162-0013-epar-scientific-conclusion-article-20_is.pdf)
+
+norsk (NO) (40.5 KB - PDF)
+
+**First published:** 05/07/2017 **Last updated:** 05/07/2017
+
+[View](/no/documents/scientific-conclusion/ebymect-h-a20-1442-c-4162-0013-epar-scientific-conclusion-article-20_no.pdf)
+
 Ebymect-H-C-4162-A31-1432 : EPAR - Assessment Report - Article 31
 
-Adopted
-
-Reference Number: EMA/867221/2016
+Adopted Reference Number: EMA/867221/2016
 
 English (EN) (568.79 KB - PDF)
 
-**First published:** 21/12/2016
-
-**Last updated:** 21/12/2016
+**First published:** 21/12/2016 **Last updated:** 21/12/2016
 
 [View](/en/documents/variation-report/ebymect-h-c-4162-a31-1432-epar-assessment-report-article-31_en.pdf)
 
@@ -1461,51 +975,49 @@ Ebymect : EPAR - Scientific Conclusion
 
 English (EN) (25.92 KB - PDF)
 
-**First published:** 21/12/2016
-
-**Last updated:** 21/12/2016
+**First published:** 21/12/2016 **Last updated:** 21/12/2016
 
 [View](/en/documents/scientific-conclusion/ebymect-epar-scientific-conclusion_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Ebymect : EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/679419/2015
+Adopted Reference Number: EMA/679419/2015
 
 English (EN) (255.67 KB - PDF)
 
-**First published:** 23/11/2015
-
-**Last updated:** 23/11/2015
+**First published:** 23/11/2015 **Last updated:** 23/11/2015
 
 [View](/en/documents/assessment-report/ebymect-epar-public-assessment-report_en.pdf)
 
 CHMP summary of positive opinion Ebymect
 
-Adopted
-
-Reference Number: EMA/CHMP/523224/2015
+Adopted Reference Number: EMA/CHMP/523224/2015
 
 English (EN) (74.92 KB - PDF)
 
-**First published:** 25/09/2015
-
-**Last updated:** 25/09/2015
+**First published:** 25/09/2015 **Last updated:** 25/09/2015
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-ebymect_en.pdf)
 
 ## News on Ebymect
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 24-27 June 2019](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-24-27-june-2019) 28/06/2019
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 24-27 June 2019](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-24-27-june-2019)
 
-[Use of metformin to treat diabetes now expanded to patients with moderately reduced kidney function](/en/news/use-metformin-treat-diabetes-now-expanded-patients-moderately-reduced-kidney-function) 14/10/2016
+28/06/2019
 
-[SGLT2 inhibitors: PRAC makes recommendations to minimise risk of diabetic ketoacidosis](/en/news/sglt2-inhibitors-prac-makes-recommendations-minimise-risk-diabetic-ketoacidosis) 12/02/2016
+[Use of metformin to treat diabetes now expanded to patients with moderately reduced kidney function](/en/news/use-metformin-treat-diabetes-now-expanded-patients-moderately-reduced-kidney-function)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 21-24 September 2015](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-21-24-september-2015) 25/09/2015
+14/10/2016
+
+[SGLT2 inhibitors: PRAC makes recommendations to minimise risk of diabetic ketoacidosis](/en/news/sglt2-inhibitors-prac-makes-recommendations-minimise-risk-diabetic-ketoacidosis)
+
+12/02/2016
+
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 21-24 September 2015](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-21-24-september-2015)
+
+25/09/2015
 
 ## More information on Ebymect
 
@@ -1517,8 +1029,8 @@ English (EN) (74.92 KB - PDF)
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 13/03/2026
+**This page was last updated on**
+
+05/06/2026
 
 ## Share this page
-
-[Back to top](#main-content)

@@ -1,20 +1,20 @@
 ---
-document_datetime: 2023-11-15 10:07:36
-document_pages: 27
+document_datetime: 2026-06-05 11:33:40
+document_pages: 25
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/dasselta-epar-product-information_en.pdf
 document_name: dasselta-epar-product-information_en.pdf
 version: success
-processing_time: 5.3531911
-conversion_datetime: 2025-12-20 17:01:13.795716
+processing_time: 7.5977147
+conversion_datetime: 2026-06-07 12:12:14.602777
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.21.0
+  docling-jobkit: 1.20.1
+  docling: 2.97.0
+  docling-core: 2.78.0
+  docling-ibm-models: 3.13.2
+  docling-parse: 6.2.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -38,7 +38,7 @@ For the full list of excipients, see section 6.1.
 
 ## 3. PHARMACEUTICAL FORM
 
-## Film-coated tablet.
+Film-coated tablet.
 
 Light blue, round, film-coated tablets with beveled edges (diameter: 6.5 mm, thickness: 2.3-3.5 mm).
 
@@ -103,7 +103,7 @@ In a clinical pharmacology trial desloratadine tablets taken concomitantly with 
 
 ## Pregnancy
 
-A large amount of data on pregnant women (more than 1,000 pregnancy outcomes) indicate no malformative nor foeto/ neonatal toxicity of desloratadine. Animal studies do not indicate direct or indirect harmful effects with respect to reproductive toxicity (see section 5.3). As a precautionary measure, it is preferable to avoid the use of desloratadine during pregnancy.
+A large amount of data on pregnant women (more than 1,000 pregnancy outcomes) indicate no malformative nor foetal/ neonatal toxicity of desloratadine. Animal studies do not indicate direct or indirect harmful effects with respect to reproductive toxicity (see section 5.3). As a precautionary measure, it is preferable to avoid the use of desloratadine during pregnancy.
 
 ## Breast-feeding
 
@@ -121,15 +121,9 @@ Desloratadine has no or negligible influence on the ability to drive and use mac
 
 ## Summary of the safety profile
 
-In clinical trials in a range of indications including allergic rhinitis and chronic idiopathic urticaria, at the recommended dose of 5 mg daily, undesirable effects with desloratadine were reported in 3 % of
+In clinical trials in a range of indications including allergic rhinitis and chronic idiopathic urticaria, at the recommended dose of 5 mg daily, undesirable effects with desloratadine were reported in 3 % of patients in excess of those treated with placebo. The most frequent of adverse reactions reported in excess of placebo were fatigue (1.2 %), dry mouth (0.8 %) and headache (0.6 %).
 
 <div style=\"page-break-after: always\"></div>
-
-patients in excess of those treated with placebo. The most frequent of adverse reactions reported in excess of placebo were fatigue (1.2 %), dry mouth (0.8 %) and headache (0.6 %).
-
-## Paediatric population
-
-In a clinical trial with 578 adolescent patients, 12 through 17 years of age, the most common adverse event was headache; this occurred in 5.9 % of patients treated with desloratadine and 6.9 % of patients receiving placebo.
 
 ## Tabulated list of adverse reactions
 
@@ -138,10 +132,10 @@ The frequency of the clinical trial adverse reactions reported in excess of plac
 | System Organ Class                                   | Frequency                  | Adverse reactions seen with desloratadine                                                                              |
 |------------------------------------------------------|----------------------------|------------------------------------------------------------------------------------------------------------------------|
 | Metabolism and nutritional disorders                 | Not known                  | Increased appetite                                                                                                     |
-| Psychiatric disorders                                | Very rare Not known        | Hallucinations Abnormal behaviour, aggression, depressed mood                                                          |
+| Psychiatric disorders                                | Very rare Not known        | Hallucinations Abnormal behaviour*, aggression*, depressed mood                                                        |
 | Nervous system disorders                             | Common Very rare           | Headache Dizziness, somnolence, insomnia, psychomotor hyperactivity, seizures                                          |
 | Eye disorders                                        | Not known                  | Eye dryness                                                                                                            |
-| Cardiac disorders                                    | Very rare Not known        | Tachycardia, palpitations QT prolongation                                                                              |
+| Cardiac disorders                                    | Very rare Not known        | Tachycardia, palpitations QT prolongation*                                                                             |
 | Gastrointestinal disorders                           | Common Very rare           | Dry mouth Abdominal pain, nausea, vomiting, dyspepsia, diarrhoea                                                       |
 | Hepatobiliary disorders                              | Very rare Not known        | Elevations of liver enzymes, increased bilirubin, hepatitis Jaundice                                                   |
 | Skin and subcutaneous tissue disorders               | Not known                  | Photosensitivity                                                                                                       |
@@ -151,9 +145,11 @@ The frequency of the clinical trial adverse reactions reported in excess of plac
 
 ## Paediatric population
 
-Other undesirable effects reported during the post-marketing period in paediatric patients with an unknown frequency included QT prolongation, arrhythmia, bradycardia, abnormal behaviour and aggression.
+Other undesirable effects reported during the post-marketing period in paediatric patients with an unknown frequency included arrhythmia and bradycardia.
 
-A retrospective observational safety study indicated an increased incidence of new-onset seizure in patients 0 to 19 years of age when receiving desloratadine compared with periods not receiving desloratadine. Among children 0-4 years old, the adjusted absolute increase was 37.5 (95% Confidence Interval (CI) 10.5-64.5) per 100,000 person years (PY) with a background rate of new onset seizure of 80.3 per 100,000 PY. Among patients 5-19 years of age, the adjusted absolute increase was 11.3 (95% CI 2.3-20.2) per 100,000 PY with a background rate of 36.4 per 100,000 PY. (See section 4.4.)
+In a clinical trial with 578 adolescent patients, 12 through 17 years of age, the most common adverse event was headache; this occurred in 5.9 % of patients treated with desloratadine and 6.9 % of patients receiving placebo.
+
+A retrospective observational safety study indicated an increased incidence of new-onset seizure in patients 0 to 19 years of age when receiving desloratadine compared with periods not receiving desloratadine. Among children 0-4 years old, the adjusted absolute increase was 37.5 (95 % Confidence Interval (CI) 10.5-64.5) per 100,000 person years (PY) with a background rate of new onset seizure of 80.3 per 100,000 PY. Among patients 5-19 years of age, the adjusted absolute increase was 11.3 (95 % CI 2.3-20.2) per 100,000 PY with a background rate of 36.4 per 100,000 PY. (See section 4.4.)
 
 <div style=\"page-break-after: always\"></div>
 
@@ -187,7 +183,7 @@ Pharmacotherapeutic group: Other antihistamines for systemic use, ATC code: R06A
 
 ## Mechanism of action
 
-Desloratadine is a non-sedating, long-acting histamine antagonist with selective peripheral H1-receptor antagonist activity. After oral administration, desloratadine selectively blocks peripheral histamine H1receptors because the substance is excluded from entry to the central nervous system.
+Desloratadine is a non-sedating, long-acting histamine antagonist with selective peripheral H 1 -receptor antagonist activity. After oral administration, desloratadine selectively blocks peripheral histamine H 1 receptors because the substance is excluded from entry to the central nervous system.
 
 Desloratadine has demonstrated antiallergic properties from in vitro studies. These include inhibiting the release of proinflammatory cytokines such as IL-4, IL-6, IL-8, and IL-13 from human mast cells/basophils, as well as inhibition of the expression of the adhesion molecule P-selectin on endothelial cells. The clinical relevance of these observations remains to be confirmed.
 
@@ -197,11 +193,11 @@ In a multiple dose clinical trial, in which up to 20 mg of desloratadine was adm
 
 No clinically relevant changes in desloratadine plasma concentrations were observed in multiple-dose ketoconazole and erythromycin interaction trials.
 
-Desloratadine does not readily penetrate the central nervous system. In controlled clinical trials, at the recommended dose of 5 mg daily, there was no excess incidence of somnolence as compared to placebo. Desloratadine given at a single daily dose of 7.5 mg did not affect psychomotor performance in clinical trials. In a single dose study performed in adults, desloratadine 5 mg did not affect standard
+Desloratadine does not readily penetrate the central nervous system. In controlled clinical trials, at the recommended dose of 5 mg daily, there was no excess incidence of somnolence as compared to placebo. Desloratadine given at a single daily dose of 7.5 mg did not affect psychomotor performance in clinical trials. In a single dose study performed in adults, desloratadine 5 mg did not affect standard measures of flight performance including exacerbation of subjective sleepiness or tasks related to
 
 <div style=\"page-break-after: always\"></div>
 
-measures of flight performance including exacerbation of subjective sleepiness or tasks related to flying.
+## flying.
 
 In clinical pharmacology trials, co-administration with alcohol did not increase the alcohol-induced impairment in performance or increase in sleepiness. No significant differences were found in the psychomotor test results between desloratadine and placebo groups, whether administered alone or with alcohol.
 
@@ -227,9 +223,9 @@ Desloratadine plasma concentrations can be detected within 30 minutes of adminis
 
 In a pharmacokinetic trial in which patient demographics were comparable to those of the general seasonal allergic rhinitis population, 4 % of the subjects achieved a higher concentration of desloratadine. This percentage may vary according to ethnic background. Maximum desloratadine concentration was about 3-fold higher at approximately 7 hours with a terminal phase half-life of approximately 89 hours. The safety profile of these subjects was not different from that of the general population.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Distribution
+
+<div style=\"page-break-after: always\"></div>
 
 Desloratadine is moderately bound (83 % - 87 %) to plasma proteins. There is no evidence of clinically relevant medicine accumulation following once daily dosing of desloratadine (5 mg to 20 mg) for 14 days.
 
@@ -255,9 +251,9 @@ Non-clinical data reveal no special hazard for humans based on conventional stud
 
 ## 6.1 List of excipients
 
-Tablet core: Microcrystalline cellulose (E460) Hypromellose (E464) Hydrochloric acid (E507) (for pH adjustment) Sodium hydroxide (E524) (for pH adjustment) Maize starch Lactose monohydrate Talc (E553b)
+Tablet core: Microcrystalline cellulose (E 460) Hypromellose (E 464) Hydrochloric acid (E 507) (for pH-adjustment) Sodium hydroxide (E 524) (for pH-adjustment) Maize starch Lactose monohydrate Talc (E 553b)
 
-Film coating: Hypromellose (E464) Macrogol Lactose monohydrate Titanium dioxide (E171) Indigo carmine (E132)
+Film coating: Hypromellose (E 464) Macrogol Lactose monohydrate Titanium dioxide (E 171) Indigo carmine (E 132)
 
 <div style=\"page-break-after: always\"></div>
 
@@ -297,9 +293,9 @@ KRKA, d.d., Novo mesto, Šmarješka cesta 6, 8501 Novo mesto, Slovenia
 
 20 film-coated tablets: EU/1/11/739/003
 
-30 film-coated tablets: EU/1/11/739/004
+- 30 film-coated tablets: EU/1/11/739/004
 
-50 film-coated tablets: EU/1/11/739/005
+- 50 film-coated tablets: EU/1/11/739/005
 
 90 film-coated tablets: EU/1/11/739/006
 
@@ -344,13 +340,13 @@ Medicinal product subject to medical prescription.
 
 ## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
-## · Periodic safety update reports (PSURs)
+##  Periodic safety update reports (PSURs)
 
 The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
-## · Risk management plan (RMP)
+##  Risk management plan (RMP)
 
 Not applicable.
 
@@ -372,7 +368,9 @@ BOX
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Dasselta 5 mg film-coated tablets desloratadine
+Dasselta 5 mg film-coated tablets
+
+desloratadine
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -422,8 +420,6 @@ Keep out of the sight and reach of children.
 
 ## 8. EXPIRY DATE
 
-EXP
-
 ## for tablet container:
 
 Shelf life after first opening of the tablet container: 3 months.
@@ -442,7 +438,7 @@ KRKA, d.d., Novo mesto, Šmarješka cesta 6, 8501 Novo mesto, Slovenia
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-7 film-coated tablets: EU/1/11/739/001
+- 7 film-coated tablets: EU/1/11/739/001
 
 - 10 film-coated tablets: EU/1/11/739/002
 
@@ -462,52 +458,50 @@ KRKA, d.d., Novo mesto, Šmarješka cesta 6, 8501 Novo mesto, Slovenia
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
-## 16. INFORMATION IN BRAILLE
+16. INFORMATION IN BRAILLE
 
 Dasselta 5 mg
 
 ## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
-<div style=\"page-break-after: always\"></div>
-
 2D barcode carrying the unique identifier included.
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+<div style=\"page-break-after: always\"></div>
+
+| 18.   | UNIQUE IDENTIFIER -HUMANREADABLEDATA   |
+|-------|----------------------------------------|
 
 PC SN NN
 
-<div style=\"page-break-after: always\"></div>
+## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
 
-| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
-|-------------------------------------------------------|
-| BLISTER                                               |
+## BLISTER
 
-| 1.   | NAME OF THE MEDICINAL PRODUCT   |
-|------|---------------------------------|
+## 1. NAME OF THE MEDICINAL PRODUCT
 
 Dasselta 5 mg film-coated tablets desloratadine
 
-| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
-|------|----------------------------------------------|
+## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
 
 KRKA
 
-| 3.   | EXPIRY DATE   |
-|------|---------------|
+3. EXPIRY DATE
 
 EXP
 
-| 4.   | BATCH NUMBER   |
-|------|----------------|
+4. BATCH NUMBER
 
 Lot
+
+5. OTHER
+
+<div style=\"page-break-after: always\"></div>
 
 | 5.   | OTHER   |
 |------|---------|
@@ -592,7 +586,9 @@ Lot
 
 ## Package leaflet: Information for the user
 
-## Dasselta 5 mg film-coated tablets desloratadine
+## Dasselta 5 mg film-coated tablets
+
+desloratadine
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
@@ -618,7 +614,7 @@ Dasselta contains desloratadine which is an antihistamine.
 
 ## How Dasselta works
 
-Dasselta is an antiallergy medicine that does not make you drowsy. It helps control your allergic reaction and its symptoms.
+Dasselta is an antiallergy medicine. It helps control your allergic reaction and its symptoms.
 
 ## When Dasselta should be used
 
@@ -643,17 +639,21 @@ Talk to your doctor or pharmacist before taking Dasselta:
 
 ## Children and adolescents
 
-<div style=\"page-break-after: always\"></div>
-
 Do not give this medicine to children less than 12 years of age.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Other medicines and Dasselta
 
-There are no known interactions of Dasselta with other medicines. Tell your doctor or pharmacist if you are taking, have recently taken or might take any other medicines.
+There are no known interactions of Dasselta with other medicines.
+
+Tell your doctor or pharmacist if you are taking, have recently taken or might take any other medicines.
 
 ## Dasselta with food, drink and alcohol
 
-Dasselta may be taken with or without a meal. Use caution when taking Dasselta with alcohol.
+Dasselta may be taken with or without a meal.
+
+Use caution when taking Dasselta with alcohol.
 
 ## Pregnancy, breast-feeding and fertility
 
@@ -687,7 +687,9 @@ This medicine is for oral use.
 
 Swallow the tablet whole.
 
-Regarding the duration of treatment, your doctor will determine the type of allergic rhinitis you are suffering from and will determine for how long you should take Dasselta. If your allergic rhinitis is intermittent (presence of symptoms for less than 4 days per week or for less than 4 weeks), your doctor will recommend you a treatment schedule that will depend on the evaluation of the history of your disease.
+Regarding the duration of treatment, your doctor will determine the type of allergic rhinitis you are suffering from and will determine for how long you should take Dasselta. If your allergic rhinitis is intermittent (presence of symptoms for less than 4 days per week or for less
+
+than 4 weeks), your doctor will recommend you a treatment schedule that will depend on the evaluation of the history of your disease.
 
 If your allergic rhinitis is persistent (presence of symptoms for 4 days or more per week and for more than 4 weeks), your doctor may recommend you a longer term treatment.
 
@@ -695,11 +697,9 @@ For urticaria, the duration of treatment may be variable from patient to patient
 
 ## If you take more Dasselta than you should
 
-Take Dasselta only as it is prescribed for you. No serious side effects are expected with accidental
+Take Dasselta only as it is prescribed for you. No serious side effects are expected with accidental overdose. However, if you take more Dasselta than you were told to, tell your doctor or pharmacist immediately.
 
 <div style=\"page-break-after: always\"></div>
-
-overdose. However, if you take more Dasselta than you were told to, tell your doctor or pharmacist immediately.
 
 ## If you forget to take Dasselta
 
@@ -752,11 +752,9 @@ Not known: frequency cannot be estimated from the available data
 
 - -unusual weakness,
 - -yellowing of the skin and/or eyes,
-- -increased sensitivity of the skin to the sun, even in case of hazy sun, and to UV light, for instance
+- -increased sensitivity of the skin to the sun, even in case of hazy sun, and to UV light, for instance to UV lights of a solarium,
 
 <div style=\"page-break-after: always\"></div>
-
-to UV lights of a solarium,
 
 - -changes in the way the heart beats,
 - -abnormal behaviour,
@@ -796,20 +794,22 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 ## What Dasselta contains
 
 - -The active substance is desloratadine. Each film-coated tablet contains 5 mg desloratadine.
-- -The other ingredients in the tablet core are: microcrystalline cellulose (E460), hypromellose (E464), hydrochloric acid (E507) (for pH adjustment), sodium hydroxide (E524) (for pH adjustment), maize starch, lactose monohydrate (see section 2 under »Dasselta contains lactose and sodium«.) and talc (E553b).
-- -The other ingredients in the film-coating are: hypromellose (E464), macrogol, lactose monohydrate (see section 2 under »Dasselta contains lactose and sodium«.), titanium dioxide (E171) and indigo carmine (E132).
+- -The other ingredients in the tablet core are: microcrystalline cellulose (E 460), hypromellose (E 464), hydrochloric acid (E 507) (for pH-adjustment), sodium hydroxide (E 524) (for pHadjustment), maize starch, lactose monohydrate (see section 2 under »Dasselta contains lactose and sodium«.) and talc (E 553b).
+- -The other ingredients in the film-coating are: hypromellose (E 464), macrogol, lactose monohydrate (see section 2 under »Dasselta contains lactose and sodium«.), titanium dioxide (E 171) and indigo carmine (E 132).
 
 ## What Dasselta looks like and contents of the pack
 
 Light blue, round, film-coated tablets with beveled edges (diameter: 6.5 mm, thickness: 2.3-3.5 mm).
 
-Dasselta is available in carton boxes of 7, 10, 20, 30, 50, 90 and 100 film-coated tablets in blisters and in tablet container of 250 film-coated tablets.
+Dasselta is available in carton boxes of 7, 10, 20, 30, 50, 90 and 100 film-coated tablets in blisters and
+
+in tablet container of 250 film-coated tablets.
 
 Not all pack sizes may be marketed.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Marketing Authorisation Holder
+
+<div style=\"page-break-after: always\"></div>
 
 KRKA, d.d., Novo mesto, Šmarješka cesta 6, 8501 Novo mesto, Slovenia
 
@@ -827,77 +827,17 @@ KRKA Belgium, SA.
 
 Tél/Tel: + 32 (0) 487 50 73 62
 
-## България
-
-КРКА България ЕООД
-
-Teл.: + 359 (02) 962 34 50
-
-## Česká republika
-
-KRKA ČR, s.r.o.
-
-Tel: + 420 (0) 221 115 150
-
-## Danmark
-
-KRKA Sverige AB
-
-Tlf: + 46 (0)8 643 67 66 (SE)
-
-## Deutschland
-
-TAD Pharma GmbH
-
-Tel: + 49 (0) 4721 606-0
-
-## Eesti
-
-KRKA, d.d., Novo mesto Eesti filiaal
-
-Tel: + 372 (0) 6 671 658
-
-## Ελλάδα
-
-KRKA ΕΛΛΑΣ ΕΠΕ
-
-Τηλ: + 30 2100101613
-
-## España
-
-KRKA Farmacéutica, S.L.
-
-Tel: + 34 911 61 03 80
-
-## France
-
-KRKA France Eurl
-
-Tél: + 33 (0)1 57 40 82 25
-
-## Hrvatska
-
-KRKA - FARMA d.o.o.
-
-Tel: + 385 1 6312 100
-
-## Ireland
-
-KRKA Pharma Dublin, Ltd.
-
-Tel: + 353 1 413 3710
-
-## Ísland
-
-LYFIS ehf.
-
-Sími: + 354 534 3500
-
 ## Lietuva
 
 UAB KRKA Lietuva
 
 Tel: + 370 5 236 27 40
+
+## България
+
+КРКА България ЕООД
+
+Teл.: + 359 (02) 962 34 50
 
 ## Luxembourg/Luxemburg
 
@@ -905,13 +845,25 @@ KRKA Belgium, SA.
 
 Tél/Tel: + 32 (0) 487 50 73 62 (BE)
 
+## Česká republika
+
+KRKA ČR, s.r.o.
+
+Tel: + 420 (0) 221 115 150
+
 ## Magyarország
 
 KRKA Magyarország Kereskedelmi Kft.
 
-Tel.:
+Tel.: + 36 (1) 355 8490
 
-+ 36 (1) 355 8490
+## Danmark
+
+KRKA Sverige AB
+
+Tlf:
+
++ 46 (0)8 643 67 66 (SE)
 
 ## Malta
 
@@ -919,11 +871,23 @@ E. J. Busuttil Ltd.
 
 Tel: + 356 21 445 885
 
+## Deutschland
+
+TAD Pharma GmbH
+
+Tel: + 49 (0) 4721 606-0
+
 ## Nederland
 
 KRKA Belgium, SA.
 
 Tel: + 32 (0) 487 50 73 62 (BE)
+
+## Eesti
+
+KRKA, d.d., Novo mesto Eesti filiaal
+
+Tel: + 372 (0) 6 671 658
 
 ## Norge
 
@@ -931,23 +895,47 @@ KRKA Sverige AB
 
 Tlf: + 46 (0)8 643 67 66 (SE)
 
+## Ελλάδα
+
+KRKA ΕΛΛΑΣ ΕΠΕ
+
+Τηλ: + 30 2100101613
+
 ## Österreich
 
 KRKA Pharma GmbH, Wien
 
 Tel: + 43 (0)1 66 24 300
 
+## España
+
+KRKA Farmacéutica, S.L.
+
+Tel: + 34 911 61 03 80
+
 ## Polska
 
 KRKA-POLSKA Sp. z o.o.
 
-Tel.: +
+Tel.: + 48 (0)22 573 7500
 
-48 (0)22 573 7500
+## France
+
+KRKA France Eurl
+
+Tél: + 33 (0)1 57 40 82 25
 
 ## Portugal
 
-KRKA Farmacêutica, Sociedade Unipessoal Lda. Tel: + 351 (0)21 46 43 650
+KRKA Farmacêutica, Sociedade Unipessoal Lda.
+
+Tel: + 351 (0)21 46 43 650
+
+## Hrvatska
+
+KRKA - FARMA d.o.o.
+
+Tel: + 385 1 6312 101
 
 ## România
 
@@ -955,11 +943,23 @@ KRKA Romania S.R.L., Bucharest
 
 Tel: + 4 021 310 66 05
 
+## Ireland
+
+KRKA Pharma Dublin, Ltd.
+
+Tel: + 353 1 413 3710
+
 ## Slovenija
 
 KRKA, d.d., Novo mesto
 
 Tel: + 386 (0) 1 47 51 100
+
+## Ísland
+
+LYFIS ehf.
+
+Sími: + 354 534 3500
 
 ## Slovenská republika
 
@@ -967,56 +967,34 @@ KRKA Slovensko, s.r.o.
 
 Tel: + 421 (0) 2 571 04 501
 
-<div style=\"page-break-after: always\"></div>
-
 ## Italia
 
 KRKA Farmaceutici Milano S.r.l. Tel: + 39 02 3300 8841
 
+Suomi/Finland KRKA Finland Oy Puh/Tel: + 358 20 754 5330
+
 ## Κύπρος
 
-KI.PA. (PHARMACAL) LIMITED Τηλ : + 357 24 651 882
+KI.PA. (PHARMACAL) LIMITED Τηλ: + 357 24 651 882
 
-Latvija KRKA Latvija SIA
+Sverige
 
-Tel: + 371 6 733 86 10
+KRKA Sverige AB
+
+Tel:
+
++ 46 (0)8 643 67 66 (SE)
+
+Latvija
+
+KRKA Latvija SIA
+
+Tel:
+
++ 371 6 733 86 10
+
+<div style=\"page-break-after: always\"></div>
 
 ## This leaflet was last revised in
 
 Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
-
-## Suomi/Finland
-
-KRKA Finland Oy Puh/Tel: + 358 20 754 5330
-
-Sverige KRKA Sverige AB
-
-Tel: + 46 (0)8 643 67 66 (SE)
-
-United Kingdom (Northern Ireland)
-
-KRKA Pharma Dublin, Ltd. Tel: + 353 1 413 3710
-
-<div style=\"page-break-after: always\"></div>
-
-## ANNEX IV
-
-## SCIENTIFIC CONCLUSIONS AND GROUNDS FOR THE VARIATION TO THE TERMS OF THE MARKETING AUTHORISATION(S)
-
-<div style=\"page-break-after: always\"></div>
-
-## Scientific conclusions
-
-Taking into account the PRAC Assessment Report on the PSUR(s) for desloratadine, the scientific conclusions of the CHMP are as follows:
-
-In view of available data from the literature including in some cases a close temporal relationship, a positive de-challenge and/or re-challenge and in view of a plausible mechanism of action, the PRAC considers a causal relationship between desloratadine and depressed mood is at least a reasonable possibility. The PRAC concluded that the product information of products containing desloratadine should be amended accordingly.
-
-As described in the literature and signal section of some MAHs, WHO identified a potential safety signal of dry eyes for desloratadine during the reporting period. Based on the anticholinergic properties of desloratadine and strengthened by the reports with a short time to onset and both de- and rechallenges described, the PRAC considers that 'eye dryness' should be considered for inclusion in the product labels and patient leaflets.
-
-The CHMP agrees with the scientific conclusions made by the PRAC.
-
-## Grounds for the variation to the terms of the Marketing Authorisation(s)
-
-On the basis of the scientific conclusions for desloratadine the CHMP is of the opinion that the benefit-risk balance of the medicinal product(s) containing desloratadine is unchanged subject to the proposed changes to the product information.
-
-The CHMP recommends that the terms of the marketing authorisation(s) should be varied.

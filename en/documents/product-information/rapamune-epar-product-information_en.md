@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-05-04 09:56:46
-document_pages: 83
+document_datetime: 2026-06-04 11:43:19
+document_pages: 82
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/rapamune-epar-product-information_en.pdf
 document_name: rapamune-epar-product-information_en.pdf
 version: success
-processing_time: 23.8566197
-conversion_datetime: 2026-05-05 19:33:59.08901
+processing_time: 33.3866372
+conversion_datetime: 2026-06-07 12:02:25.088362
 docling_version:
-  docling-serve: 1.17.0
-  docling-jobkit: 1.18.0
-  docling: 2.92.0
-  docling-core: 2.74.1
+  docling-serve: 1.21.0
+  docling-jobkit: 1.20.1
+  docling: 2.97.0
+  docling-core: 2.78.0
   docling-ibm-models: 3.13.2
-  docling-parse: 5.10.1
+  docling-parse: 6.2.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -28,11 +28,9 @@ Rapamune 1 mg/mL oral solution
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
-Each mL contains 1 mg sirolimus.
+Each mL contains 1 mg sirolimus. Each 60 mL bottle contains 60 mg sirolimus.
 
-Each 60 mL bottle contains 60 mg sirolimus.
-
-## Excipients with known effect
+Excipients with known effect
 
 Each mL contains up to 25 mg of ethanol, approximately 350 mg of propylene glycol (E1520), and 20 mg of soya oil.
 
@@ -40,9 +38,7 @@ For the full list of excipients, see section 6.1.
 
 ## 3. PHARMACEUTICAL FORM
 
-Oral solution.
-
-Pale yellow to yellow solution.
+Oral solution. Pale yellow to yellow solution.
 
 ## 4. CLINICAL PARTICULARS
 
@@ -56,7 +52,7 @@ Rapamune is indicated for the treatment of patients with sporadic lymphangioleio
 
 ## Posology
 
-## Prophylaxis of organ rejection
+Prophylaxis of organ rejection
 
 Treatment should be initiated by and remain under the guidance of an appropriately qualified specialist in transplantation.
 
@@ -76,7 +72,7 @@ Ciclosporin should be progressively discontinued over 4 to 8 weeks, and the Rapa
 
 Whole blood sirolimus levels should be closely monitored in the following populations :
 
-(1) in patients with hepatic impairment
+## (1) in patients with hepatic impairment
 
 (2) when inducers or inhibitors of CYP3A4 and/or P-glycoprotein (P-gp) are concurrently administered and after their discontinuation (see section 4.5) and/or
 
@@ -260,33 +256,33 @@ Administration of multiple doses of rifampicin decreased sirolimus whole blood c
 
 ## Ketoconazole (CYP3A4 inhibitor)
 
-Multiple-dose ketoconazole administration significantly affected the rate and extent of absorption and sirolimus exposure from Rapamune oral solution as reflected by increases in sirolimus Cmax, t max , and AUC of 4.4-fold, 1.4-fold, and 10.9-fold, respectively. Co-administration of sirolimus and ketoconazole is not recommended (see section 4.4).
+Multiple-dose ketoconazole administration significantly affected the rate and extent of absorption and sirolimus exposure from Rapamune oral solution as reflected by increases in sirolimus Cmax, tmax, and AUC of 4.4-fold, 1.4-fold, and 10.9-fold, respectively. Co-administration of sirolimus and ketoconazole is not recommended (see section 4.4).
 
 <div style=\"page-break-after: always\"></div>
 
 ## Voriconazole (CYP3A4 inhibitor)
 
-Co-administration of sirolimus (2 mg single dose) with multiple-dose administration of oral voriconazole (400 mg every 12 hours for 1 day, then 100 mg every 12 hours for 8 days) in healthy subjects has been reported to increase sirolimus C max and AUC by an average of 7-fold and 11-fold respectively. Co-administration of sirolimus and voriconazole is not recommended (see section 4.4).
+Co-administration of sirolimus (2 mg single dose) with multiple-dose administration of oral voriconazole (400 mg every 12 hours for 1 day, then 100 mg every 12 hours for 8 days) in healthy subjects has been reported to increase sirolimus Cmax and AUC by an average of 7-fold and 11-fold respectively. Co-administration of sirolimus and voriconazole is not recommended (see section 4.4).
 
 ## Diltiazem (CYP3A4 inhibitor)
 
-The simultaneous oral administration of 10 mg of Rapamune oral solution and 120 mg of diltiazem significantly affected the bioavailability of sirolimus. Sirolimus C max , t max , and AUC were increased 1.4-fold, 1.3-fold, and 1.6-fold, respectively. Sirolimus did not affect the pharmacokinetics of either diltiazem or its metabolites desacetyldiltiazem and desmethyldiltiazem. If diltiazem is administered, sirolimus blood levels should be monitored and a dose adjustment may be necessary.
+The simultaneous oral administration of 10 mg of Rapamune oral solution and 120 mg of diltiazem significantly affected the bioavailability of sirolimus. Sirolimus Cmax, tmax, and AUC were increased 1.4-fold, 1.3-fold, and 1.6-fold, respectively. Sirolimus did not affect the pharmacokinetics of either diltiazem or its metabolites desacetyldiltiazem and desmethyldiltiazem. If diltiazem is administered, sirolimus blood levels should be monitored and a dose adjustment may be necessary.
 
 ## Verapamil (CYP3A4 inhibitor)
 
-Multiple-dose administration of verapamil and sirolimus oral solution significantly affected the rate and extent of absorption of both medicinal products. Whole blood sirolimus Cmax, tmax, and AUC were increased 2.3-fold, 1.1-fold, and 2.2-fold, respectively. Plasma S-(-) verapamil C max and AUC were both increased 1.5-fold, and t max was decreased 24%. Sirolimus levels should be monitored, and appropriate dose reductions of both medicinal products should be considered.
+Multiple-dose administration of verapamil and sirolimus oral solution significantly affected the rate and extent of absorption of both medicinal products. Whole blood sirolimus Cmax, tmax, and AUC were increased 2.3-fold, 1.1-fold, and 2.2-fold, respectively. Plasma S-(-) verapamil Cmax and AUC were both increased 1.5-fold, and tmax was decreased 24%. Sirolimus levels should be monitored, and appropriate dose reductions of both medicinal products should be considered.
 
 ## Erythromycin (CYP3A4 inhibitor)
 
-Multiple-dose administration of erythromycin and sirolimus oral solution significantly increased the rate and extent of absorption of both medicinal products. Whole blood sirolimus Cmax, t max , and AUC were increased 4.4-fold, 1.4-fold, and 4.2-fold, respectively. The C max , t max , and AUC of plasma erythromycin base were increased 1.6-fold, 1.3-fold, and 1.7-fold, respectively. Sirolimus levels should be monitored and appropriate dose reductions of both medicinal products should be considered.
+Multiple-dose administration of erythromycin and sirolimus oral solution significantly increased the rate and extent of absorption of both medicinal products. Whole blood sirolimus Cmax, tmax, and AUC were increased 4.4-fold, 1.4-fold, and 4.2-fold, respectively. The Cmax, tmax, and AUC of plasma erythromycin base were increased 1.6-fold, 1.3-fold, and 1.7-fold, respectively. Sirolimus levels should be monitored and appropriate dose reductions of both medicinal products should be considered.
 
 ## Ciclosporin (CYP3A4 substrate)
 
-The rate and extent of sirolimus absorption was significantly increased by ciclosporin A (CsA). Sirolimus administered concomitantly (5 mg), and at 2 hours (5 mg) and 4 hours (10 mg) after CsA (300 mg), resulted in increased sirolimus AUC by approximately 183%, 141% and 80%, respectively. The effect of CsA was also reflected by increases in sirolimus Cmax and t max . When given 2 hours before CsA administration, sirolimus Cmax and AUC were not affected. Single-dose sirolimus did not affect the pharmacokinetics of ciclosporin (microemulsion) in healthy volunteers when administered simultaneously or 4 hours apart. It is recommended that Rapamune be administered 4 hours after ciclosporin (microemulsion).
+The rate and extent of sirolimus absorption was significantly increased by ciclosporin A (CsA). Sirolimus administered concomitantly (5 mg), and at 2 hours (5 mg) and 4 hours (10 mg) after CsA (300 mg), resulted in increased sirolimus AUC by approximately 183%, 141% and 80%, respectively. The effect of CsA was also reflected by increases in sirolimus Cmax and tmax. When given 2 hours before CsA administration, sirolimus Cmax and AUC were not affected. Single-dose sirolimus did not affect the pharmacokinetics of ciclosporin (microemulsion) in healthy volunteers when administered simultaneously or 4 hours apart. It is recommended that Rapamune be administered 4 hours after ciclosporin (microemulsion).
 
 ## Cannabidiol (P-gp inhibitor)
 
-There have been reports of increased blood levels of sirolimus during concomitant use with cannabidiol. Co-administration of cannabidiol with another orally administered mTOR inhibitor in a healthy volunteer study led to an increase in exposure to the mTOR inhibitor of approximately 2.5-fold for both C max and AUC, due to inhibition of intestinal P-gp efflux by cannabidiol. Caution should be used when cannabidiol and Rapamune are co-administered, closely monitoring for side effects. Monitor sirolimus blood levels and adjust the dose as needed (see sections 4.2 and 4.4).
+There have been reports of increased blood levels of sirolimus during concomitant use with cannabidiol. Co-administration of cannabidiol with another orally administered mTOR inhibitor in a healthy volunteer study led to an increase in exposure to the mTOR inhibitor of approximately 2.5-fold for both Cmax and AUC, due to inhibition of intestinal P-gp efflux by cannabidiol. Caution should be used when cannabidiol and Rapamune are co-administered, closely monitoring for side effects. Monitor sirolimus blood levels and adjust the dose as needed (see sections 4.2 and 4.4).
 
 ## Oral contraceptives
 
@@ -360,10 +356,10 @@ Most patients were on immunosuppressive regimens, which included Rapamune in com
 
 | System organ class                                                       | Very common (≥1/10)                                                                                                                                | Common (≥1/100 to <1/10)                                                                     | Uncommon (≥1/1,000 to <1/100)                                                  | Rare (≥1/10,000 to <1/1,000)   | Frequency not known (cannot be estimated from available data)   |
 |--------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|--------------------------------|-----------------------------------------------------------------|
-| Neoplasms benign, malignant and unspecified (including cysts and polyps) |                                                                                                                                                    | Non-melanoma skin cancer*                                                                    | Lymphoma*; Malignant melanoma*; Post transplant lympho- proliferative disorder |                                | Neuroendo crine carcinoma of the skin*                          |
+| Neoplasms benign, malignant and unspecified (including cysts and polyps) |                                                                                                                                                    | Non- melanoma skin cancer*                                                                   | Lymphoma*; Malignant melanoma*; Post transplant lympho- proliferative disorder |                                | Neuroendo crine carcinoma of the skin*                          |
 | Blood and lymphatic system disorders                                     | Thrombo- cytopaenia; Anaemia; Leucopenia                                                                                                           | Haemolytic uraemic syndrome; Neutropaenia                                                    | Pancytopaenia; Thrombotic thrombo- cytopaenic purpura                          |                                |                                                                 |
 | Immune system disorders                                                  |                                                                                                                                                    | Hyper- sensitivity (including angioedema, anaphylactic reaction, and anaphylactoid reaction) |                                                                                |                                |                                                                 |
-| Metabolism and nutrition disorders                                       | Hypokalaemia; Hypophos- phataemia; Hyperlipidaemia (including hypercholesterol- aemia); Hyperglycaemia; Hyper- triglyceridaemia; Diabetes mellitus |                                                                                              |                                                                                |                                |                                                                 |
+| Metabolism and nutrition disorders                                       | Hypokalaemia; Hypophos- phataemia; Hyperlipidaemia (including hypercholesterol -aemia); Hyperglycaemia; Hyper- triglyceridaemia; Diabetes mellitus |                                                                                              |                                                                                |                                |                                                                 |
 | Nervous system disorders                                                 | Headache                                                                                                                                           |                                                                                              |                                                                                |                                | Posterior reversible encephalo- pathy syndrome                  |
 | Cardiac disorders                                                        | Tachycardia                                                                                                                                        | Pericardial effusion                                                                         |                                                                                |                                |                                                                 |
 | Vascular disorders                                                       | Hypertension; Lymphocele                                                                                                                           | Venous thrombosis (including deep vein thrombosis)                                           | Lymphoedema                                                                    |                                |                                                                 |
@@ -373,7 +369,7 @@ Most patients were on immunosuppressive regimens, which included Rapamune in com
 
 | System organ class                                   | Very common (≥1/10)                                                                                                    | Common (≥1/100 to <1/10)          | Uncommon (≥1/1,000 to <1/100)                                               | Rare (≥1/10,000 to <1/1,000)   | Frequency not known (cannot be estimated from available data)   |
 |------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|-----------------------------------|-----------------------------------------------------------------------------|--------------------------------|-----------------------------------------------------------------|
-| Gastrointestinal disorders                           | Abdominal pain; Constipation; Diarrhoea; Nausea                                                                        | Pancreatitis; Stomatitis; Ascites |                                                                             |                                |                                                                 |
+| Gastrointestina l disorders                          | Abdominal pain; Constipation; Diarrhoea; Nausea                                                                        | Pancreatitis; Stomatitis; Ascites |                                                                             |                                |                                                                 |
 | Hepatobiliary disorders                              | Liver function test abnormal (including alanine aminotransferase increased and aspartate amino- transferase increased) |                                   | Hepatic failure*                                                            |                                |                                                                 |
 | Skin and subcutaneous tissue disorders               | Rash; Acne                                                                                                             |                                   | Dermatitis exfoliative                                                      | Hypersen- sitivity vasculitis  |                                                                 |
 | Musculoskeleta l and connective tissue disorders     | Arthralgia                                                                                                             | Osteonecrosis                     |                                                                             |                                |                                                                 |
@@ -564,7 +560,7 @@ For storage conditions after dilution of the medicinal product, see section 6.3.
 
 ## 6.5 Nature and contents of container
 
-Each pack contains: one bottle (amber glass) containing 60 mL of Rapamune solution, one syringe adapter, 30 dosing syringes (amber polypropylene) and one syringe carry case.
+Each pack contains: one bottle (amber glass) with child-resistant polypropylene cap, containing 60 mL of solution, one syringe adapter, 30 dosing syringes (amber polypropylene) and one syringe carry case.
 
 ## 6.6 Special precautions for disposal and other handling
 
@@ -612,7 +608,7 @@ Each coated tablet contains 0.5 mg sirolimus.
 
 Each coated tablet contains 1 mg sirolimus.
 
-Rapamune 2 mg coated tablets
+## Rapamune 2 mg coated tablets
 
 Each coated tablet contains 2 mg sirolimus.
 
@@ -636,7 +632,7 @@ For the full list of excipients, see section 6.1.
 
 Coated tablet (tablet).
 
-Rapamune 0.5 mg coated tablets
+## Rapamune 0.5 mg coated tablets
 
 Tan-coloured, triangular-shaped, coated tablet marked 'RAPAMUNE 0.5 mg' on one side.
 
@@ -870,33 +866,33 @@ Administration of multiple doses of rifampicin decreased sirolimus whole blood c
 
 ## Ketoconazole (CYP3A4 inhibitor)
 
-Multiple-dose ketoconazole administration significantly affected the rate and extent of absorption and sirolimus exposure from Rapamune oral solution as reflected by increases in sirolimus Cmax, t max , and AUC of 4.4-fold, 1.4-fold, and 10.9-fold, respectively. Co-administration of sirolimus and ketoconazole is not recommended (see section 4.4).
+Multiple-dose ketoconazole administration significantly affected the rate and extent of absorption and sirolimus exposure from Rapamune oral solution as reflected by increases in sirolimus Cmax, tmax, and AUC of 4.4-fold, 1.4-fold, and 10.9-fold, respectively. Co-administration of sirolimus and ketoconazole is not recommended (see section 4.4).
 
 ## Voriconazole (CYP3A4 inhibitor)
 
-Co-administration of sirolimus (2 mg single dose) with multiple-dose administration of oral voriconazole (400 mg every 12 hours for 1 day, then 100 mg every 12 hours for 8 days) in healthy subjects has been reported to increase sirolimus C max and AUC by an average of 7-fold and 11-fold, respectively. Co-administration of sirolimus and voriconazole is not recommended (see section 4.4).
+Co-administration of sirolimus (2 mg single dose) with multiple-dose administration of oral voriconazole (400 mg every 12 hours for 1 day, then 100 mg every 12 hours for 8 days) in healthy subjects has been reported to increase sirolimus Cmax and AUC by an average of 7-fold and 11-fold, respectively. Co-administration of sirolimus and voriconazole is not recommended (see section 4.4).
 
 ## Diltiazem (CYP3A4 inhibitor)
 
-The simultaneous oral administration of 10 mg of Rapamune oral solution and 120 mg of diltiazem significantly affected the bioavailability of sirolimus. Sirolimus C max , t max , and AUC were increased 1.4-fold, 1.3-fold, and 1.6-fold, respectively. Sirolimus did not affect the pharmacokinetics of either diltiazem or its metabolites desacetyldiltiazem and desmethyldiltiazem. If diltiazem is administered, sirolimus blood levels should be monitored and a dose adjustment may be necessary.
+The simultaneous oral administration of 10 mg of Rapamune oral solution and 120 mg of diltiazem significantly affected the bioavailability of sirolimus. Sirolimus Cmax, tmax, and AUC were increased 1.4-fold, 1.3-fold, and 1.6-fold, respectively. Sirolimus did not affect the pharmacokinetics of either diltiazem or its metabolites desacetyldiltiazem and desmethyldiltiazem. If diltiazem is administered, sirolimus blood levels should be monitored and a dose adjustment may be necessary.
 
 ## Verapamil (CYP3A4 inhibitor)
 
-Multiple-dose administration of verapamil and sirolimus oral solution significantly affected the rate and extent of absorption of both medicinal products. Whole blood sirolimus Cmax, tmax, and AUC were increased 2.3-fold, 1.1-fold, and 2.2-fold, respectively. Plasma S-(-) verapamil C max and AUC were both increased 1.5-fold, and t max was decreased 24%. Sirolimus levels should be monitored, and appropriate dose reductions of both medicinal products should be considered.
+Multiple-dose administration of verapamil and sirolimus oral solution significantly affected the rate and extent of absorption of both medicinal products. Whole blood sirolimus Cmax, tmax, and AUC were increased 2.3-fold, 1.1-fold, and 2.2-fold, respectively. Plasma S-(-) verapamil Cmax and AUC were both increased 1.5-fold, and tmax was decreased 24%. Sirolimus levels should be monitored, and appropriate dose reductions of both medicinal products should be considered.
 
 ## Erythromycin (CYP3A4 inhibitor)
 
-Multiple-dose administration of erythromycin and sirolimus oral solution significantly increased the rate and extent of absorption of both medicinal products. Whole blood sirolimus Cmax, t max , and AUC were increased 4.4-fold, 1.4-fold, and 4.2-fold, respectively. The C max , t max , and AUC of plasma erythromycin base were increased 1.6-fold, 1.3-fold, and 1.7-fold, respectively. Sirolimus levels should be monitored and appropriate dose reductions of both medicinal products should be considered.
+Multiple-dose administration of erythromycin and sirolimus oral solution significantly increased the rate and extent of absorption of both medicinal products. Whole blood sirolimus Cmax, tmax, and AUC were increased 4.4-fold, 1.4-fold, and 4.2-fold, respectively. The Cmax, tmax, and AUC of plasma erythromycin base were increased 1.6-fold, 1.3-fold, and 1.7-fold, respectively. Sirolimus levels should be monitored and appropriate dose reductions of both medicinal products should be considered.
 
 <div style=\"page-break-after: always\"></div>
 
 ## Ciclosporin (CYP3A4 substrate)
 
-The rate and extent of sirolimus absorption was significantly increased by ciclosporin A (CsA). Sirolimus administered concomitantly (5 mg), and at 2 hours (5 mg) and 4 hours (10 mg) after CsA (300 mg), resulted in increased sirolimus AUC by approximately 183%, 141% and 80%, respectively. The effect of CsA was also reflected by increases in sirolimus Cmax and t max . When given 2 hours before CsA administration, sirolimus Cmax and AUC were not affected. Single-dose sirolimus did not affect the pharmacokinetics of ciclosporin (microemulsion) in healthy volunteers when administered simultaneously or 4 hours apart. It is recommended that Rapamune be administered 4 hours after ciclosporin (microemulsion).
+The rate and extent of sirolimus absorption was significantly increased by ciclosporin A (CsA). Sirolimus administered concomitantly (5 mg), and at 2 hours (5 mg) and 4 hours (10 mg) after CsA (300 mg), resulted in increased sirolimus AUC by approximately 183%, 141% and 80%, respectively. The effect of CsA was also reflected by increases in sirolimus Cmax and tmax. When given 2 hours before CsA administration, sirolimus Cmax and AUC were not affected. Single-dose sirolimus did not affect the pharmacokinetics of ciclosporin (microemulsion) in healthy volunteers when administered simultaneously or 4 hours apart. It is recommended that Rapamune be administered 4 hours after ciclosporin (microemulsion).
 
 ## Cannabidiol (P-gp inhibitor)
 
-There have been reports of increased blood levels of sirolimus during concomitant use with cannabidiol. Co-administration of cannabidiol with another orally administered mTOR inhibitor in a healthy volunteer study led to an increase in exposure to the mTOR inhibitor of approximately 2.5-fold for both C max and AUC, due to inhibition of intestinal P-gp efflux by cannabidiol. Caution should be used when cannabidiol and Rapamune are co-administered, closely monitoring for side effects. Monitor sirolimus blood levels and adjust the dose as needed (see sections 4.2 and 4.4).
+There have been reports of increased blood levels of sirolimus during concomitant use with cannabidiol. Co-administration of cannabidiol with another orally administered mTOR inhibitor in a healthy volunteer study led to an increase in exposure to the mTOR inhibitor of approximately 2.5-fold for both Cmax and AUC, due to inhibition of intestinal P-gp efflux by cannabidiol. Caution should be used when cannabidiol and Rapamune are co-administered, closely monitoring for side effects. Monitor sirolimus blood levels and adjust the dose as needed (see sections 4.2 and 4.4).
 
 ## Oral contraceptives
 
@@ -946,7 +942,7 @@ Rapamune has no known influence on the ability to drive and use machines. No stu
 
 ## 4.8 Undesirable effects
 
-Undesirable effects observed with prophylaxis of organ rejection in renal transplantation
+## Undesirable effects observed with prophylaxis of organ rejection in renal transplantation
 
 The most commonly reported adverse reactions (occurring in  10% of patients) are thrombocytopaenia, anaemia, pyrexia, hypertension, hypokalaemia, hypophosphataemia, urinary tract infection, hypercholesterolaemia, hyperglycaemia, hypertriglyceridaemia, abdominal pain, lymphocoele, peripheral oedema, arthralgia, acne, diarrhoea, pain, constipation, nausea, headache, increased blood creatinine, and increased blood lactate dehydrogenase (LDH).
 
@@ -965,7 +961,7 @@ Most patients were on immunosuppressive regimens, which included Rapamune in com
 | System organ class                                                       | Very common (≥1/10)                                                                                                                                | Common (≥1/100 to <1/10)                                                                                | Uncommon (≥1/1,000 to <1/100)                                                                                 | Rare (≥1/10,000 to <1/1,000)   | Frequency not known (cannot be estimated from available data)   |
 |--------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|--------------------------------|-----------------------------------------------------------------|
 | Infections and infestations                                              | Pneumonia; Fungal infection; Viral infection; Bacterial infection; Herpes simplex infection; Urinary tract infection                               | Sepsis; Pyelonephritis; Cytomegalo- virus infection; Herpes zoster caused by the varicella zoster virus | Clostridium difficile colitis; Mycobacterial infection (including tuberculosis); Epstein-Barr virus infection |                                |                                                                 |
-| Neoplasms benign, malignant and unspecified (including cysts and polyps) |                                                                                                                                                    | Non-melanoma skin cancer*                                                                               | Lymphoma*; Malignant melanoma*; Post transplant lympho- proliferative disorder                                |                                | Neuroendo crine carcinoma of the skin*                          |
+| Neoplasms benign, malignant and unspecified (including cysts and polyps) |                                                                                                                                                    | Non- melanoma skin cancer*                                                                              | Lymphoma*; Malignant melanoma*; Post transplant lympho- proliferative disorder                                |                                | Neuroendo crine carcinoma of the skin*                          |
 | Blood and lymphatic system disorders                                     | Thrombo- cytopaenia; Anaemia; Leucopenia                                                                                                           | Haemolytic uraemic syndrome; Neutropaenia                                                               | Pancytopaenia; Thrombotic thrombo- cytopaenic purpura                                                         |                                |                                                                 |
 | Immune system disorders                                                  |                                                                                                                                                    | Hyper- sensitivity (including angioedema, anaphylactic reaction, and anaphylactoid reaction)            |                                                                                                               |                                |                                                                 |
 | Metabolism and nutrition disorders                                       | Hypokalaemia; Hypophos- phataemia; Hyperlipidaemia (including hypercholesterol- aemia); Hyperglycaemia; Hyper- triglyceridaemia; Diabetes mellitus |                                                                                                         |                                                                                                               |                                |                                                                 |
@@ -1128,15 +1124,15 @@ The 0.5 mg tablet is not fully bioequivalent to the 1 mg, 2 mg and 5 mg tablets 
 
 <div style=\"page-break-after: always\"></div>
 
-In healthy subjects, the mean extent of bioavailability of sirolimus after single-dose administration of the tablet formulation is about 27% higher relative to the oral solution. The mean C max was decreased by 35%, and mean tmax increased by 82%. The difference in bioavailability was less marked upon steady-state administration to renal transplant recipients, and therapeutic equivalence has been demonstrated in a randomised study of 477 patients. When switching patients between oral solution and tablet formulations, it is recommended to give the same dose and to verify the sirolimus trough concentration 1 to 2 weeks later to assure that it remains within recommended target ranges. Also, when switching between different tablet strengths, verification of trough concentrations is recommended.
+In healthy subjects, the mean extent of bioavailability of sirolimus after single-dose administration of the tablet formulation is about 27% higher relative to the oral solution. The mean Cmax was decreased by 35%, and mean tmax increased by 82%. The difference in bioavailability was less marked upon steady-state administration to renal transplant recipients, and therapeutic equivalence has been demonstrated in a randomised study of 477 patients. When switching patients between oral solution and tablet formulations, it is recommended to give the same dose and to verify the sirolimus trough concentration 1 to 2 weeks later to assure that it remains within recommended target ranges. Also, when switching between different tablet strengths, verification of trough concentrations is recommended.
 
-In 24 healthy volunteers receiving Rapamune tablets with a high-fat meal, Cmax, t max and AUC showed increases of 65%, 32%, and 23%, respectively. To minimise variability, Rapamune tablets should be taken consistently with or without food. Grapefruit juice affects CYP3A4-mediated metabolism and must, therefore, be avoided.
+In 24 healthy volunteers receiving Rapamune tablets with a high-fat meal, Cmax, tmax and AUC showed increases of 65%, 32%, and 23%, respectively. To minimise variability, Rapamune tablets should be taken consistently with or without food. Grapefruit juice affects CYP3A4-mediated metabolism and must, therefore, be avoided.
 
 Sirolimus concentrations, following the administration of Rapamune tablets (5 mg) to healthy subjects as single doses are dose proportional between 5 and 40 mg.
 
 Clinical studies of Rapamune did not include a sufficient number of patients above 65 years of age to determine whether they will respond differently than younger patients. Rapamune tablets administered to 12 renal transplant patients above 65 years of age gave similar results to adult patients (n=167) 18 to 65 years of age.
 
-Initial Therapy (2 to 3 months post-transplant) : In most patients receiving Rapamune tablets with a loading dose of 6 mg followed by an initial maintenance dose of 2 mg, whole blood sirolimus trough concentrations rapidly achieved steady-state concentrations within the recommended target range (4 to 12 ng/mL, chromatographic assay). Sirolimus pharmacokinetic parameters following daily doses of 2 mg Rapamune tablets administered in combination with ciclosporin microemulsion (4 hours prior to Rapamune tablets) and corticosteroids in 13 renal transplant patients, based on data collected at months 1 and 3 after transplantation, were: Cmin,ss 7.39  2.18 ng/mL; Cmax,ss 15.0  4.9 ng/mL; tmax,ss 3.46  2.40 hours; AUC  ,ss 230  67 ng.h/mL; CL/F/WT, 139  63 mL/h/kg (parameters calculated from LC-MS/MS assay results). The corresponding results for the oral solution in the same clinical study were Cmin,ss 5.40  2.50 ng/mL, Cmax,ss  14.4  5.3 ng/mL, tmax,ss  2.12  0.84 hours, AUC  ,ss 194  78 ng.h/mL, CL/F/W 173  50 mL/h/kg. Whole blood trough sirolimus concentrations, as measured by LC/MS/MS, were significantly correlated (r 2 =0.85) with AUC  ,ss .
+Initial Therapy (2 to 3 months post-transplant) : In most patients receiving Rapamune tablets with a loading dose of 6 mg followed by an initial maintenance dose of 2 mg, whole blood sirolimus trough concentrations rapidly achieved steady-state concentrations within the recommended target range (4 to 12 ng/mL, chromatographic assay). Sirolimus pharmacokinetic parameters following daily doses of 2 mg Rapamune tablets administered in combination with ciclosporin microemulsion (4 hours prior to Rapamune tablets) and corticosteroids in 13 renal transplant patients, based on data collected at months 1 and 3 after transplantation, were: Cmin,ss 7.39  2.18 ng/mL; Cmax,ss 15.0  4.9 ng/mL; tmax,ss 3.46  2.40 hours; AUC  ,ss 230  67 ng.h/mL; CL/F/WT, 139  63 mL/h/kg (parameters calculated from LC-MS/MS assay results). The corresponding results for the oral solution in the same clinical study were Cmin,ss 5.40  2.50 ng/mL, Cmax,ss 14.4  5.3 ng/mL, tmax,ss 2.12  0.84 hours, AUC  ,ss 194  78 ng.h/mL, CL/F/W 173  50 mL/h/kg. Whole blood trough sirolimus concentrations, as measured by LC/MS/MS, were significantly correlated (r 2 =0.85) with AUC  ,ss .
 
 Based on monitoring in all patients during the period of concomitant therapy with ciclosporin, mean (10 th , 90 th percentiles) troughs (expressed as chromatographic assay values) and daily doses were 8.6  3.0 ng/mL (5.0 to 13 ng/mL) and 2.1  0.70 mg (1.5 to 2.7 mg), respectively (see section 4.2).
 
@@ -1198,8 +1194,6 @@ Carnauba wax
 
 Printing ink (Shellac, Iron Oxide Red, Propylene Glycol [E1520], Concentrated Ammonia Solution, Simethicone)
 
-<div style=\"page-break-after: always\"></div>
-
 ## Rapamune 2 mg coated tablets
 
 Macrogol
@@ -1230,13 +1224,15 @@ Carnauba wax
 
 Printing ink (Shellac, Iron Oxide Red, Propylene Glycol [E1520], Concentrated Ammonia Solution, Simethicone)
 
+<div style=\"page-break-after: always\"></div>
+
 ## 6.2 Incompatibilities
 
 Not applicable.
 
 ## 6.3 Shelf life
 
-## Rapamune 0.5 mg coated tablets
+Rapamune 0.5 mg coated tablets
 
 3 years.
 
@@ -1244,7 +1240,7 @@ Rapamune 1 mg coated tablets
 
 3 years.
 
-## Rapamune 2 mg coated tablets
+Rapamune 2 mg coated tablets
 
 3 years.
 
@@ -1274,13 +1270,9 @@ Pfizer Europe MA EEIG Boulevard de la Plaine 17 1050 Bruxelles Belgium
 
 Rapamune 0.5 mg coated tablets EU/1/01/171/013-14
 
-Rapamune 1 mg coated tablets
+Rapamune 1 mg coated tablets EU/1/01/171/007-8
 
-EU/1/01/171/007-8
-
-Rapamune 2 mg coated tablets
-
-EU/1/01/171/009-010
+Rapamune 2 mg coated tablets EU/1/01/171/009-010
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -1291,6 +1283,8 @@ Date of latest renewal: 13 March 2011
 ## 10. DATE OF REVISION OF THE TEXT
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu.
+
+43
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1307,13 +1301,9 @@ Detailed information on this medicinal product is available on the website of th
 
 Name and address of the manufacturers responsible for batch release
 
-## Rapamune 1 mg/mL oral solution:
+Rapamune 1 mg/mL oral solution Pfizer Service Company BV Hermeslaan 11 1932 Zaventem Belgium
 
-Pfizer Service Company BV Hermeslaan 11 1932 Zaventem Belgium
-
-## Rapamune 0.5 mg coated tablets, Rapamune 1 mg coated tablets, Rapamune 2 mg coated tablets:
-
-Pfizer Ireland Pharmaceuticals Unlimited Company Little Connell, Newbridge, Co. Kildare, W12 HX57 Ireland
+Rapamune 0.5 mg coated tablets, Rapamune 1 mg coated tablets, Rapamune 2 mg coated tablets Pfizer Ireland Pharmaceuticals Unlimited Company Little Connell, Newbridge, Co. Kildare, W12 HX57 Ireland
 
 Pfizer Manufacturing Deutschland GmbH Mooswaldallee 1 79108 Freiburg Im Breisgau Germany
 
@@ -1325,22 +1315,20 @@ Medicinal product subject to restricted medical prescription (See Annex I: Summa
 
 ## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
-##  Periodic safety update reports (PSURs)
+## · Periodic safety update reports (PSURs)
 
 The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
-##  Risk management plan (RMP)
+## · Risk management plan (RMP)
 
 The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP.
 
-<div style=\"page-break-after: always\"></div>
-
 An updated RMP should be submitted:
 
--  At the request of the European Medicines Agency;
--  Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
+- At the request of the European Medicines Agency;
+- Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1366,7 +1354,9 @@ sirolimus
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
-Each mL of Rapamune contains 1 mg sirolimus. Each 60 mL bottle of Rapamune contains 60 mg sirolimus.
+Each mL of Rapamune contains 1 mg sirolimus.
+
+Each 60 mL bottle of Rapamune contains 60 mg sirolimus.
 
 ## 3. LIST OF EXCIPIENTS
 
@@ -1376,7 +1366,7 @@ Also contains: ethanol, propylene glycol (E1520), soya fatty acids. See package 
 
 Oral solution
 
-- 1 bottle
+1 bottle
 
 30 dosing syringes
 
@@ -1400,8 +1390,6 @@ Keep out of the sight and reach of children.
 
 EXP
 
-<div style=\"page-break-after: always\"></div>
-
 ## 9. SPECIAL STORAGE CONDITIONS
 
 Store in a refrigerator.
@@ -1418,7 +1406,11 @@ After dilution, the preparation should be used immediately.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Pfizer Europe MA EEIG Boulevard de la Plaine 17 1050 Bruxelles
+Pfizer Europe MA EEIG
+
+Boulevard de la Plaine 17
+
+1050 Bruxelles
 
 Belgium
 
@@ -1448,6 +1440,8 @@ PC
 
 SN
 
+<div style=\"page-break-after: always\"></div>
+
 NN
 
 <div style=\"page-break-after: always\"></div>
@@ -1462,7 +1456,9 @@ Rapamune 1 mg/mL oral solution sirolimus
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
-Each mL of Rapamune contains 1 mg sirolimus. Each 60 mL bottle of Rapamune contains 60 mg sirolimus.
+Each mL of Rapamune contains 1 mg sirolimus.
+
+Each 60 mL bottle of Rapamune contains 60 mg sirolimus.
 
 ## 3. LIST OF EXCIPIENTS
 
@@ -1580,9 +1576,7 @@ After dilution, the preparation should be used immediately.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Pfizer Europe MA EEIG Boulevard de la Plaine 17 1050 Bruxelles
-
-Belgium
+Pfizer Europe MA EEIG Boulevard de la Plaine 17 1050 Bruxelles Belgium
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1592,14 +1586,11 @@ EU/1/01/171/001
 
 Lot:
 
-| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
-|-------|-------------------------------------|
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-| 15.   | INSTRUCTIONS ONUSE   |
-|-------|----------------------|
+## 15. INSTRUCTIONS ON USE
 
-| 16.   | INFORMATION IN BRAILLE   |
-|-------|--------------------------|
+## 16. INFORMATION IN BRAILLE
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1653,8 +1644,8 @@ Keep the blister in the outer carton in order to protect from light.
 
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
-| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|--------------------------------------------------------|
+| 11.   | NAMEANDADDRESS OF THE MARKETINGAUTHORISATION HOLDER   |
+|-------|-------------------------------------------------------|
 
 Pfizer Europe MA EEIG Boulevard de la Plaine 17 1050 Bruxelles Belgium
 
@@ -1671,21 +1662,21 @@ Lot
 | 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
 |-------|-------------------------------------|
 
-| 15.   | INSTRUCTIONS ONUSE   |
-|-------|----------------------|
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
 
 Rapamune 0.5 mg
 
-| 17. UNIQUE IDENTIFIER - 2D BARCODE   |
-|--------------------------------------|
+| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
+|-------|----------------------------------|
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLEDATA   |
-|-------|----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
+|-------|-----------------------------------------|
 
 PC SN
 
@@ -1693,17 +1684,17 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
-|-----------------------------------------------------|
-| BLISTER                                             |
+| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
+|------------------------------------------------------|
+| BLISTER                                              |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| 1.   | NAMEOF THE MEDICINAL PRODUCT   |
+|------|--------------------------------|
 
 Rapamune 0.5 mg tablets sirolimus
 
-| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
-|------|------------------------------------------|
+| 2.   | NAMEOF THE MARKETING AUTHORISATION HOLDER   |
+|------|---------------------------------------------|
 
 Pfizer Europe MA EEIG
 
@@ -1720,17 +1711,17 @@ Lot
 | 5.   | OTHER   |
 |------|---------|
 
+56
+
 <div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING AND THE IMMEDIATE PACKAGING
 
-## CARTONS - PACK SIZES 30 AND 100 TABLETS
+CARTONS - PACK SIZES 30 AND 100 TABLETS
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Rapamune 1 mg coated tablets
-
-sirolimus
+Rapamune 1 mg coated tablets sirolimus
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -1748,9 +1739,7 @@ Also contains: lactose monohydrate, sucrose. See package leaflet for further inf
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-Read the package leaflet before use
-
-Do not crush, chew or split
+Read the package leaflet before use Do not crush, chew or split
 
 Oral use
 
@@ -1772,11 +1761,11 @@ Keep the blister in the outer carton in order to protect from light.
 
 <div style=\"page-break-after: always\"></div>
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVED FROMSUCHMEDICINAL PRODUCTS, IF APPROPRIATE   |
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
 |-------|-------------------------------------------------------------------------------------------------------------------------------------|
 
-| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|--------------------------------------------------------|
+| 11.   | NAMEANDADDRESS OF THE MARKETINGAUTHORISATION HOLDER   |
+|-------|-------------------------------------------------------|
 
 Pfizer Europe MA EEIG Boulevard de la Plaine 17 1050 Bruxelles Belgium
 
@@ -1793,37 +1782,39 @@ Lot
 | 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
 |-------|-------------------------------------|
 
-| 15.   | INSTRUCTIONS ONUSE   |
-|-------|----------------------|
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
 
 Rapamune 1 mg
 
-| 17. UNIQUE IDENTIFIER - 2D BARCODE   |
-|--------------------------------------|
+| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
+|-------|----------------------------------|
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLEDATA   |
-|-------|----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
+|-------|-----------------------------------------|
 
-PC SN NN
+PC SN
+
+NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
-|-----------------------------------------------------|
-| BLISTER                                             |
+| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
+|------------------------------------------------------|
+| BLISTER                                              |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| 1.   | NAMEOF THE MEDICINAL PRODUCT   |
+|------|--------------------------------|
 
 Rapamune 1 mg tablets sirolimus
 
-| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
-|------|------------------------------------------|
+| 2.   | NAMEOF THE MARKETING AUTHORISATION HOLDER   |
+|------|---------------------------------------------|
 
 Pfizer Europe MA EEIG
 
@@ -1840,11 +1831,13 @@ Lot
 | 5.   | OTHER   |
 |------|---------|
 
+59
+
 <div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING AND THE IMMEDIATE PACKAGING
 
-## CARTONS - PACK SIZES 30 AND 100 TABLETS
+CARTONS - PACK SIZES 30 AND 100 TABLETS
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -1892,11 +1885,11 @@ Keep the blister in the outer carton in order to protect from light.
 
 <div style=\"page-break-after: always\"></div>
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVED FROMSUCHMEDICINAL PRODUCTS, IF APPROPRIATE   |
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
 |-------|-------------------------------------------------------------------------------------------------------------------------------------|
 
-| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|--------------------------------------------------------|
+| 11.   | NAMEANDADDRESS OF THE MARKETINGAUTHORISATION HOLDER   |
+|-------|-------------------------------------------------------|
 
 Pfizer Europe MA EEIG Boulevard de la Plaine 17 1050 Bruxelles Belgium
 
@@ -1913,37 +1906,39 @@ Lot
 | 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
 |-------|-------------------------------------|
 
-| 15.   | INSTRUCTIONS ONUSE   |
-|-------|----------------------|
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
 
 Rapamune 2 mg
 
-| 17. UNIQUE IDENTIFIER - 2D BARCODE   |
-|--------------------------------------|
+| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
+|-------|----------------------------------|
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLEDATA   |
-|-------|----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
+|-------|-----------------------------------------|
 
-PC SN NN
+PC SN
+
+NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
-|-----------------------------------------------------|
-| BLISTER                                             |
+| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
+|------------------------------------------------------|
+| BLISTER                                              |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| 1.   | NAMEOF THE MEDICINAL PRODUCT   |
+|------|--------------------------------|
 
 Rapamune 2 mg tablets sirolimus
 
-| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
-|------|------------------------------------------|
+| 2.   | NAMEOF THE MARKETING AUTHORISATION HOLDER   |
+|------|---------------------------------------------|
 
 Pfizer Europe MA EEIG
 
@@ -1960,13 +1955,15 @@ Lot
 | 5.   | OTHER   |
 |------|---------|
 
+62
+
 <div style=\"page-break-after: always\"></div>
 
 ## B. PACKAGE LEAFLET
 
-<div style=\"page-break-after: always\"></div>
-
 ## Package leaflet: Information for the user
+
+<div style=\"page-break-after: always\"></div>
 
 ## Rapamune 1 mg/mL oral solution
 
@@ -1974,10 +1971,10 @@ Lot
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
--  Keep this leaflet. You may need to read it again.
--  If you have any further questions, ask your doctor or pharmacist.
--  This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
--  If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
+- -Keep this leaflet. You may need to read it again.
+- -If you have any further questions, ask your doctor or pharmacist.
+- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- -If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -2000,20 +1997,20 @@ Rapamune is also used for the treatment of patients with sporadic lymphangioleio
 
 ## Do not take Rapamune
 
--  if you are allergic to sirolimus or any of the other ingredients of this medicine (listed in section 6).
--  if you are allergic to peanut or soya.
+- -if you are allergic to sirolimus or any of the other ingredients of this medicine (listed in section 6).
+- -if you are allergic to peanut or soya.
 
 ## Warnings and precautions
 
 Talk to your doctor or pharmacist before taking Rapamune
 
--  If you have any liver problems or have had a disease which may have affected your liver, please tell your doctor as this may affect the dose of Rapamune that you receive and may result in your having additional blood tests.
+- -If you have any liver problems or have had a disease which may have affected your liver, please tell your doctor as this may affect the dose of Rapamune that you receive and may result in your having additional blood tests.
 
 <div style=\"page-break-after: always\"></div>
 
--  Rapamune, like other immunosuppressive medicines, may decrease your body's ability to fight infection, and may increase the risk of developing cancer of the lymphoid tissues and skin.
--  If you have a body mass index (BMI) greater than 30 kg/m 2 , you may be at increased risk of abnormal wound healing.
--  If you are considered to be at high risk for kidney rejection, such as if you had a previous transplant that was lost to rejection.
+- -Rapamune, like other immunosuppressive medicines, may decrease your body's ability to fight infection, and may increase the risk of developing cancer of the lymphoid tissues and skin.
+- -If you have a body mass index (BMI) greater than 30 kg/m 2 , you may be at increased risk of abnormal wound healing.
+- -If you are considered to be at high risk for kidney rejection, such as if you had a previous transplant that was lost to rejection.
 
 Your doctor will perform tests to monitor the levels of Rapamune in your blood. Your doctor will also perform tests to monitor your kidney function, your blood fat (cholesterol and/or triglycerides) levels and possibly your liver function, during treatment with Rapamune.
 
@@ -2029,15 +2026,15 @@ Tell your doctor or pharmacist if you are taking, have recently taken or might t
 
 Some medicines can interfere with the action of Rapamune and, therefore, dose adjustment of Rapamune may be required. In particular, you should inform your doctor or pharmacist if you are taking any of the following:
 
--  any other immunosuppressant medicines.
--  antibiotics or antifungal medicines used to treat infection e.g. clarithromycin, erythromycin, telithromycin, troleandomycin, rifabutin, clotrimazole, fluconazole, itraconazole. It is not recommended that Rapamune be taken with rifampicin, ketoconazole or voriconazole.
--  any high blood pressure medicines or medicines for heart problems including nicardipine, verapamil and diltiazem.
--  anti-epileptic medicines including carbamazepine, phenobarbital, phenytoin.
--  medicines used to treat ulcers or other gastrointestinal disorders such as cisapride, cimetidine, metoclopramide.
--  bromocriptine (used in the treatment of Parkinson's disease and various hormonal disorders), danazol (used in the treatment of gynaecological disorders), or protease inhibitors (e.g. for HIV and hepatitis C such as ritonavir, indinavir, boceprevir, and telaprevir).
--  St. John's Wort ( Hypericum perforatum ).
--  letermovir (an antiviral medicine to prevent getting ill from cytomegalovirus).
--  cannabidiol (uses amongst others include treatment of seizures).
+- -any other immunosuppressant medicines.
+- -antibiotics or antifungal medicines used to treat infection e.g. clarithromycin, erythromycin, telithromycin, troleandomycin, rifabutin, clotrimazole, fluconazole, itraconazole. It is not recommended that Rapamune be taken with rifampicin, ketoconazole or voriconazole.
+- -any high blood pressure medicines or medicines for heart problems including nicardipine, verapamil and diltiazem.
+- -anti-epileptic medicines including carbamazepine, phenobarbital, phenytoin.
+- -medicines used to treat ulcers or other gastrointestinal disorders such as cisapride, cimetidine, metoclopramide.
+- -bromocriptine (used in the treatment of Parkinson's disease and various hormonal disorders), danazol (used in the treatment of gynaecological disorders), or protease inhibitors (e.g. for HIV and hepatitis C such as ritonavir, indinavir, boceprevir, and telaprevir).
+- -St. John's Wort ( Hypericum perforatum ).
+- -letermovir (an antiviral medicine to prevent getting ill from cytomegalovirus).
+- -cannabidiol (uses amongst others include treatment of seizures).
 
 The use of live vaccines should be avoided with the use of Rapamune. Before vaccinations, please inform your doctor or pharmacist that you are receiving Rapamune.
 
@@ -2097,11 +2094,9 @@ Your doctor will give you 2 mg of Rapamune each day, until otherwise directed by
 
 ## Instructions on how to dilute Rapamune
 
-1. Remove the safety cap from the bottle by squeezing the tabs on the cap and twisting. Insert the syringe adapter into the bottle until it is flush with the top of the bottle. Do not attempt to remove the syringe adapter from the bottle once inserted.
-2. With the plunger fully depressed, insert one of the dosing syringes into the opening in the adapter.
-3. Withdraw the exact amount of Rapamune oral solution as prescribed by your doctor by gently pulling out the plunger of the dosing syringe until the level of the oral solution is even with the appropriate mark on the dosing syringe. The bottle should remain in an upright position when withdrawing the solution. If bubbles form in the oral solution in the dosing syringe during withdrawal, empty the Rapamune solution back into the bottle and repeat the withdrawal procedure. You may need to repeat step 3 more than once to deliver your dose.
-
-<!-- image -->
+1. Remove the safety cap by pushing down on the cap and twisting counterclockwise. Push the oral syringe adapter (plastic stopper) tightly into the bottle until it is fully inserted. Do not attempt to remove the syringe adapter from the bottle once inserted.
+2. With the plunger fully depressed, insert one of the dosing syringes into the opening in the center of the adapter.
+3. With the syringe inserted in the adapter, hold the bottle upside-down and withdraw the exact amount of Rapamune oral solution as prescribed by your doctor by gently pulling out the plunger of the dosing syringe until the level of the oral solution is even with the appropriate mark on the dosing syringe. If bubbles form in the oral solution in the dosing syringe during withdrawal, empty the Rapamune solution back into the bottle and repeat the withdrawal procedure. You may need to repeat step 3 more than once to deliver your dose. Ensure the syringe stays firmly inserted in the adapter throughout this step.
 
 <!-- image -->
 
@@ -2109,8 +2104,12 @@ Your doctor will give you 2 mg of Rapamune each day, until otherwise directed by
 
 <div style=\"page-break-after: always\"></div>
 
+<!-- image -->
+
 4. You may have been instructed to take your Rapamune oral solution at a particular time of day. If it is necessary to carry your medication with you, fill the dosing syringe to the appropriate mark and place a cap securely on it - the cap should snap into place. Then place the capped dosing syringe in the carrying case provided. Once in the syringe the medication may be kept at room temperature (not exceeding 25  C) or refrigerated and should be used within 24 hours.
 5. Empty the contents of the dosing syringe into only a glass or plastic container holding at least 60 mL of water or orange juice. Stir well for one minute and drink immediately at once. Refill the glass with at least 120 mL of water or orange juice, stir well, and drink immediately. No other liquids, including grapefruit juice, should be used for dilution. The dosing syringe and cap are to be used once and then discarded.
+
+<!-- image -->
 
 <!-- image -->
 
@@ -2126,6 +2125,8 @@ If you have taken more medicine than you were told contact a doctor or go to the
 
 If you forget to take Rapamune, take it as soon as you remember, but not within 4 hours of the next dose of ciclosporin. After that, continue to take your medicines as usual. Do not take a double dose to make up for a forgotten dose, and always take Rapamune and ciclosporin approximately 4 hours apart. If you miss a dose of Rapamune completely, you should inform your doctor.
 
+<div style=\"page-break-after: always\"></div>
+
 ## If you stop taking Rapamune
 
 Do not stop taking Rapamune unless your doctor tells you to, as you risk losing your transplant.
@@ -2140,8 +2141,6 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 You should see your doctor immediately if you experience symptoms, such as swollen face, tongue and/or back of the mouth (pharynx) and/or difficulties in breathing (angioedema), or a skin condition whereby the skin can peel off (exfoliative dermatitis). These may be symptoms of a serious allergic reaction.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Kidney damage with low blood cell counts (thrombocytopaenic purpura/haemolytic uraemic syndrome)
 
 When taken with medicines called calcineurin inhibitors (ciclosporin or tacrolimus), Rapamune may increase the risk of kidney damage with low blood platelets and low red blood cell counts, with or without rash (thrombocytopaenic purpura/haemolytic uraemic syndrome). If you experience symptoms, such as bruising or rash, changes in your urine, or changes in behaviour, or any others that are serious, unusual or prolonged, contact your doctor.
@@ -2154,83 +2153,83 @@ Rapamune reduces your body's own defence mechanisms. Consequently your body will
 
 Very common: may affect more than 1 in 10 people
 
--  Fluid collection around the kidney
--  Swelling of the body including hands and feet
--  Pain
--  Fever
--  Headache
--  Increased blood pressure
--  Stomach pain, diarrhoea, constipation, nausea
--  Low red blood cells, low blood platelets
--  Increased fat in the blood (cholesterol and/or triglycerides), increased blood sugar, low blood potassium, low blood phosphorus, increased lactate dehydrogenase in the blood, increased creatinine in the blood
--  Joint pain
--  Acne
--  Urinary tract infection
--  Pneumonia and other bacterial, viral, and fungal infections
--  A reduced number of infection-fighting cells in the blood (white blood cells)
--  Diabetes
--  Abnormal tests of liver function, elevated AST and/or ALT liver enzymes
--  Rash
--  Elevated protein in the urine
--  Menstrual disorders (including absent, infrequent or heavy periods)
--  Slow healing (this may include separation of the layers of a surgical wound or stitch line)
--  Rapid heart rate
--  There is a general tendency for fluid to collect in various tissues.
-
-## Common: may affect up to 1 in 10 people
-
--  Infections (including life-threatening infections)
--  Blood clots in the legs
--  Blood clots in the lung
--  Mouth sores
+- -Fluid collection around the kidney
+- -Swelling of the body including hands and feet
+- -Pain
+- -Fever
+- -Headache
+- -Increased blood pressure
+- -Stomach pain, diarrhoea, constipation, nausea
+- -Low red blood cells, low blood platelets
+- -Increased fat in the blood (cholesterol and/or triglycerides), increased blood sugar, low blood potassium, low blood phosphorus, increased lactate dehydrogenase in the blood, increased creatinine in the blood
+- -Joint pain
+- -Acne
+- -Urinary tract infection
+- -Pneumonia and other bacterial, viral, and fungal infections
+- -A reduced number of infection-fighting cells in the blood (white blood cells)
 
 <div style=\"page-break-after: always\"></div>
 
--  Fluid collection in the abdomen
--  Kidney damage with low blood platelets and low red blood cell counts, with or without rash (haemolytic uraemic syndrome)
--  Low levels of a type of white blood cells called neutrophils
--  Deterioration of bone
--  Inflammation that may lead to lung damage, fluid around the lung
--  Nose bleeds
--  Skin cancer
--  Kidney infection
--  Ovarian cysts
--  Fluid collection in the sac around the heart, that in some cases may decrease the heart's ability to pump blood
--  Inflammation of the pancreas
--  Allergic reactions
--  Shingles
--  Cytomegalovirus infection
+- -Diabetes
+- -Abnormal tests of liver function, elevated AST and/or ALT liver enzymes
+- -Rash
+- -Elevated protein in the urine
+- -Menstrual disorders (including absent, infrequent or heavy periods)
+- -Slow healing (this may include separation of the layers of a surgical wound or stitch line)
+- -Rapid heart rate
+- -There is a general tendency for fluid to collect in various tissues.
 
-Uncommon: may affect up to 1 in 100 people
+## Common: may affect up to 1 in 10 people
 
--  Cancer of the lymph tissue (lymphoma/post-transplant lympho-proliferative disorder), combined lowering of red blood cells, white blood cells and blood platelets
--  Bleeding from the lung
--  Protein in the urine, occasionally severe and associated with side effects, such as swelling
--  Scarring in the kidney that may reduce kidney function
--  Too much fluid collecting in the tissues due to irregular lymph function
--  Low blood platelets, with or without rash (thrombocytopaenic purpura)
--  Serious allergic reactions that can cause peeling of the skin
--  Tuberculosis
--  Epstein-Barr virus infection
--  Infectious diarrhoea with Clostridium difficile
--  Serious liver damage
+- -Infections (including life-threatening infections)
+- -Blood clots in the legs
+- -Blood clots in the lung
+- -Mouth sores
+- -Fluid collection in the abdomen
+- -Kidney damage with low blood platelets and low red blood cell counts, with or without rash (haemolytic uraemic syndrome)
+- -Low levels of a type of white blood cells called neutrophils
+- -Deterioration of bone
+- -Inflammation that may lead to lung damage, fluid around the lung
+- -Nose bleeds
+- -Skin cancer
+- -Kidney infection
+- -Ovarian cysts
+- -Fluid collection in the sac around the heart, that in some cases may decrease the heart's ability to pump blood
+- -Inflammation of the pancreas
+- -Allergic reactions
+- -Shingles
+- -Cytomegalovirus infection
+
+## Uncommon: may affect up to 1 in 100 people
+
+- -Cancer of the lymph tissue (lymphoma/post-transplant lympho-proliferative disorder), combined lowering of red blood cells, white blood cells and blood platelets
+- -Bleeding from the lung
+- -Protein in the urine, occasionally severe and associated with side effects, such as swelling
+- -Scarring in the kidney that may reduce kidney function
+- -Too much fluid collecting in the tissues due to irregular lymph function
+- -Low blood platelets, with or without rash (thrombocytopaenic purpura)
+- -Serious allergic reactions that can cause peeling of the skin
+- -Tuberculosis
+- -Epstein-Barr virus infection
+- -Infectious diarrhoea with Clostridium difficile
+- -Serious liver damage
 
 Rare: may affect up to 1 in 1,000 people
 
--  Protein build-up in the air sacs of the lungs that may interfere with breathing
--  Serious allergic reactions that can affect blood vessels (see above paragraph on allergic reactions)
+- -Protein build-up in the air sacs of the lungs that may interfere with breathing
+- -Serious allergic reactions that can affect blood vessels (see above paragraph on allergic reactions)
+
+<div style=\"page-break-after: always\"></div>
 
 Not known: frequency cannot be estimated from the available data
 
--  Posterior reversible encephalopathy syndrome (PRES), a serious nervous system syndrome that has the following symptoms: headache, nausea, vomiting, confusion, seizures, and visual loss. Should any of these occur together, please contact your physician.
+- -Posterior reversible encephalopathy syndrome (PRES), a serious nervous system syndrome that has the following symptoms: headache, nausea, vomiting, confusion, seizures, and visual loss. Should any of these occur together, please contact your physician.
 
 S-LAM patients experienced similar side effects to those of kidney transplant patients, with the addition of weight loss, which may affect up to 1 in 10 people.
 
 ## Reporting of side effects
 
 If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 5. How to store Rapamune
 
@@ -2264,23 +2263,27 @@ This medicine contains approximately 350 mg propylene glycol (E1520) in each mL.
 
 ## What Rapamune looks like and contents of the pack
 
+<div style=\"page-break-after: always\"></div>
+
 Rapamune oral solution is a pale yellow to yellow solution supplied in a 60 mL bottle.
 
-Each pack contains: one bottle (amber glass) containing 60 mL of Rapamune solution, one syringe adapter, 30 dosing syringes (amber plastic) and one syringe carry case.
+Each pack contains: one bottle (amber glass) with child-resistant plastic cap, containing 60 mL of solution, one syringe adapter, 30 dosing syringes (amber plastic) and one syringe carry case.
 
 ## Marketing Authorisation Holder and Manufacturer
 
-Marketing Authorisation Holder:
+## Marketing Authorisation Holder:
 
 Pfizer Europe MA EEIG Boulevard de la Plaine 17 1050 Bruxelles Belgium
 
-Manufacturer:
+## Manufacturer:
 
 Pfizer Service Company BV
 
-Hermeslaan 11 1932 Zaventem Belgium
+Hermeslaan 11
 
-<div style=\"page-break-after: always\"></div>
+1932 Zaventem
+
+Belgium
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
@@ -2290,13 +2293,21 @@ Pfizer NV/SA
 
 Tél/Tel: +32 (0)2 554 62 11
 
+## Lietuva
+
+Pfizer Luxembourg SARL filialas Lietuvoje
+
+Tel. +3705 2514000
+
 ## България
 
-Пфайзер Люксембург САРЛ, Клон
+Пфайзер Люксембург САРЛ, Клон България Teл: +359 2 970 4333
 
-България
+## Magyarország
 
-Teл: +359 2 970 4333
+Pfizer Kft.
+
+Tel: +36 1 488 3700
 
 ## Česká Republika
 
@@ -2304,11 +2315,23 @@ Pfizer, spol. s r.o.
 
 Tel: +420 283 004 111
 
+## Malta
+
+Vivian Corporation Ltd.
+
+Tel: +35621 344610
+
 ## Danmark
 
 Pfizer ApS
 
 Tlf: +45 44 201 100
+
+## Nederland
+
+Pfizer bv
+
+Tel: +31 (0)800 63 34 636
 
 ## Deutschland
 
@@ -2316,11 +2339,23 @@ Pfizer Pharma GmbH
 
 Tel: +49 (0)30 550055-51000
 
+## Norge
+
+Pfizer AS
+
+Tlf: +47 67 52 61 00
+
 ## Eesti
 
 Pfizer Luxembourg SARL Eesti filiaal
 
 Tel: +372 666 7500
+
+## Österreich
+
+Pfizer Corporation Austria Ges.m.b.H.
+
+Tel: +43 (0)1 521 15-0
 
 ## Ελλάδα
 
@@ -2328,11 +2363,25 @@ PFIZER ΕΛΛΑΣ A.E.
 
 Τηλ.: +30 210 6785 800
 
+## Polska
+
+Pfizer Polska Sp. z o.o.
+
+Tel.: +48 22 335 61 00
+
 ## España
 
 Pfizer, S.L.
 
 Télf:+34914909900
+
+## Portugal
+
+Laboratórios Pfizer, Lda.
+
+Tel: +351 21 423 5500
+
+<div style=\"page-break-after: always\"></div>
 
 ## France
 
@@ -2345,66 +2394,6 @@ Tél +33 (0)1 58 07 34 40
 Pfizer Croatia d.o.o.
 
 Tel: + 385 1 3908 777
-
-## Lietuva
-
-Pfizer Luxembourg SARL filialas Lietuvoje Tel. +3705 2514000
-
-## Magyarország
-
-Pfizer Kft.
-
-Tel: +36 1 488 3700
-
-## Malta
-
-Vivian Corporation Ltd.
-
-Tel: +35621 344610
-
-## Nederland
-
-Pfizer bv
-
-Tel: +31 (0)800 63 34 636
-
-## Norge
-
-Pfizer AS
-
-Tlf: +47 67 52 61 00
-
-## Österreich
-
-Pfizer Corporation Austria Ges.m.b.H.
-
-Tel: +43 (0)1 521 15-0
-
-## Polska
-
-Pfizer Polska Sp. z o.o.
-
-Tel.: +48 22 335 61 00
-
-## Portugal
-
-Laboratórios Pfizer, Lda.
-
-Tel: +351 21 423 5500
-
-## România
-
-Pfizer Romania S.R.L
-
-Tel: +40 (0) 21 207 28 00
-
-## Slovenija
-
-Pfizer Luxembourg SARL , Pfizer, podružnica za svetovanje s področja farmacevtske dejavnosti, Ljubljana
-
-Tel: +386 (0)1 52 11 400
-
-<div style=\"page-break-after: always\"></div>
 
 ## Ireland
 
@@ -2430,9 +2419,9 @@ Tel: +39 06 33 18 21
 
 PFIZER ΕΛΛΑΣ Α.Ε. (Cyprus Branch)
 
-: +357 22 817690
-
 T 
+
+: +357 22 817690
 
 ## Latvija
 
@@ -2443,6 +2432,18 @@ Tel. +371 67035775
 ## This leaflet was last revised in MM/YYYY
 
 Detailed information on this medicine is available on the European Medicines Agency website: http://www.ema.europa.eu
+
+## România
+
+Pfizer Romania S.R.L
+
+Tel: +40 (0) 21 207 28 00
+
+## Slovenija
+
+Pfizer Luxembourg SARL , Pfizer, podružnica za svetovanje s področja farmacevtske dejavnosti, Ljubljana
+
+Tel: +386 (0)1 52 11 400
 
 ## Slovenská Republika
 
@@ -2462,9 +2463,9 @@ Pfizer AB
 
 Tel: +46 (0)8 550 520 00
 
-## Package leaflet: Information for the user
-
 <div style=\"page-break-after: always\"></div>
+
+## Package leaflet: Information for the user
 
 Rapamune 0.5 mg coated tablets Rapamune 1 mg coated tablets Rapamune 2 mg coated tablets
 
@@ -2472,9 +2473,9 @@ sirolimus
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
--  Keep this leaflet. You may need to read it again.
--  If you have any further questions, ask your doctor or pharmacist.
--  This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- -Keep this leaflet. You may need to read it again.
+- -If you have any further questions, ask your doctor or pharmacist.
+- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
 
 If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4
 
@@ -2499,18 +2500,19 @@ Rapamune is also used for the treatment of patients with sporadic lymphangioleio
 
 ## Do not take Rapamune
 
--  if you are allergic to sirolimus or any of the other ingredients of this medicine (listed in section 6).
+- -if you are allergic to sirolimus or any of the other ingredients of this medicine (listed in section 6).
 
 ## Warnings and precautions
 
 Talk to your doctor or pharmacist before taking Rapamune
 
+- -If you have any liver problems or have had a disease which may have affected your liver, please tell your doctor as this may affect the dose of Rapamune that you receive and may result in your having additional blood tests.
+
 <div style=\"page-break-after: always\"></div>
 
--  If you have any liver problems or have had a disease which may have affected your liver, please tell your doctor as this may affect the dose of Rapamune that you receive and may result in your having additional blood tests.
--  Rapamune, like other immunosuppressive medicines, may decrease your body's ability to fight infection, and may increase the risk of developing cancer of the lymphoid tissues and skin.
--  If you have a body mass index (BMI) greater than 30 kg/m 2 , you may be at increased risk of abnormal wound healing.
--  If you are considered to be at high risk for kidney rejection, such as if you had a previous transplant that was lost to rejection.
+- -Rapamune, like other immunosuppressive medicines, may decrease your body's ability to fight infection, and may increase the risk of developing cancer of the lymphoid tissues and skin.
+- -If you have a body mass index (BMI) greater than 30 kg/m 2 , you may be at increased risk of abnormal wound healing.
+- -If you are considered to be at high risk for kidney rejection, such as if you had a previous transplant that was lost to rejection.
 
 Your doctor will perform tests to monitor the levels of Rapamune in your blood. Your doctor will also perform tests to monitor your kidney function, your blood fat (cholesterol and/or triglycerides) levels and possibly your liver function, during treatment with Rapamune.
 
@@ -2526,23 +2528,23 @@ Tell your doctor or pharmacist if you are taking, have recently taken or might t
 
 Some medicines can interfere with the action of Rapamune and, therefore, dose adjustment of Rapamune may be required. In particular, you should inform your doctor or pharmacist if you are taking any of the following:
 
--  any other immunosuppressant medicines.
--  antibiotics or antifungal medicines used to treat infection e.g. clarithromycin, erythromycin, telithromycin, troleandomycin, rifabutin, clotrimazole, fluconazole, itraconazole. It is not recommended that Rapamune be taken with rifampicin, ketoconazole or voriconazole.
--  any high blood pressure medicines or medicines for heart problems including nicardipine, verapamil and diltiazem.
--  anti-epileptic medicines including carbamazepine, phenobarbital, phenytoin.
--  medicines used to treat ulcers or other gastrointestinal disorders such as cisapride, cimetidine, metoclopramide.
--  bromocriptine (used in the treatment of Parkinson's disease and various hormonal disorders), danazol (used in the treatment of gynaecological disorders), or protease inhibitors (e.g., for HIV and hepatitis C such as ritonavir, indinavir, boceprevir, and telaprevir).
--  St. John's Wort ( Hypericum perforatum ).
--  letermovir (an antiviral medicine to prevent getting ill from cytomegalovirus).
--  cannabidiol (uses amongst others include treatment of seizures).
+- -any other immunosuppressant medicines.
+- -antibiotics or antifungal medicines used to treat infection e.g. clarithromycin, erythromycin, telithromycin, troleandomycin, rifabutin, clotrimazole, fluconazole, itraconazole. It is not recommended that Rapamune be taken with rifampicin, ketoconazole or voriconazole.
+- -any high blood pressure medicines or medicines for heart problems including nicardipine, verapamil and diltiazem.
+- -anti-epileptic medicines including carbamazepine, phenobarbital, phenytoin.
+- -medicines used to treat ulcers or other gastrointestinal disorders such as cisapride, cimetidine, metoclopramide.
+- -bromocriptine (used in the treatment of Parkinson's disease and various hormonal disorders), danazol (used in the treatment of gynaecological disorders), or protease inhibitors (e.g., for HIV and hepatitis C such as ritonavir, indinavir, boceprevir, and telaprevir).
+- -St. John's Wort ( Hypericum perforatum ).
+- -letermovir (an antiviral medicine to prevent getting ill from cytomegalovirus).
+- -cannabidiol (uses amongst others include treatment of seizures).
 
 The use of live vaccines should be avoided with the use of Rapamune. Before vaccinations, please inform your doctor or pharmacist that you are receiving Rapamune.
 
 The use of Rapamune may lead to increased levels of cholesterol and triglycerides (blood fats) in your blood that may require treatment. Medicines known as 'statins' and 'fibrates' used to treat elevated cholesterol and triglycerides have been associated with an increased risk of muscle breakdown (rhabdomyolysis). Please inform your doctor if you are taking medicines to lower your blood fats.
 
-<div style=\"page-break-after: always\"></div>
-
 The combined use of Rapamune with angiotensin-converting enzyme (ACE) inhibitors (a type of medicine used to lower blood pressure) may result in allergic reactions. Please inform your doctor if you are taking any of these medicines.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Rapamune with food and drink
 
@@ -2582,9 +2584,9 @@ Rapamune should be taken consistently, either with or without food.
 
 Your doctor will give you an initial dose of 6 mg as soon as possible after the kidney transplant operation. Then you will need to take 2 mg of Rapamune each day, until otherwise directed by your doctor. Your dose will be adjusted depending on the level of Rapamune in your blood. Your doctor will need to perform blood tests to measure Rapamune concentrations.
 
-<div style=\"page-break-after: always\"></div>
-
 If you are also taking ciclosporin, then you must take the two medicines approximately 4 hours apart.
+
+<div style=\"page-break-after: always\"></div>
 
 It is recommended that Rapamune be used first in combination with ciclosporin and corticosteroids. After 3 months, your doctor may discontinue either Rapamune or ciclosporin, as it is not recommended that these medicines be taken together beyond this period.
 
@@ -2618,85 +2620,84 @@ You should see your doctor immediately if you experience symptoms, such as swoll
 
 When taken with medicines called calcineurin inhibitors (ciclosporin or tacrolimus), Rapamune may increase the risk of kidney damage with low blood platelets and low red blood cell counts, with or without rash (thrombocytopaenic purpura/haemolytic uraemic syndrome). If you experience symptoms such as bruising or rash, changes in your urine, or changes in behaviour or any others that are serious, unusual or prolonged, contact your doctor.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Infections
 
 Rapamune reduces your body's own defence mechanisms. Consequently your body will not be as good as normal at fighting infections. So if you are taking Rapamune, you may therefore catch more infections than usual, such as infections of the skin, mouth, stomach and intestines, lungs and urinary tract (see list below). You should contact your doctor if you experience symptoms that are serious, unusual, or prolonged.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Side effect frequencies
 
 Very common: may affect more than 1 in 10 people
 
--  Fluid collection around the kidney
--  Swelling of the body including hands and feet
--  Pain
--  Fever
--  Headache
--  Increased blood pressure
--  Stomach pain, diarrhoea, constipation, nausea
--  Low red blood cells, low blood platelets
--  Increased fat in the blood (cholesterol and/or triglycerides), increased blood sugar, low blood potassium, low blood phosphorus, increased lactate dehydrogenase in the blood, increased creatinine in the blood
--  Joint pain
--  Acne
--  Urinary tract infection
--  Pneumonia and other bacterial, viral, and fungal infections
--  A reduced number of infection-fighting cells in the blood (white blood cells)
--  Diabetes
--  Abnormal tests of liver function, elevated AST and/or ALT liver enzymes
--  Rash
--  Elevated protein in the urine
--  Menstrual disorders (including absent, infrequent or heavy periods)
--  Slow healing (this may include separation of the layers of a surgical wound or stitch line)
--  Rapid heart rate
--  There is a general tendency for fluid to collect in various tissues.
+- -Fluid collection around the kidney
+- -Swelling of the body including hands and feet
+- -Pain
+- -Fever
+- -Headache
+- -Increased blood pressure
+- -Stomach pain, diarrhoea, constipation, nausea
+- -Low red blood cells, low blood platelets
+- -Increased fat in the blood (cholesterol and/or triglycerides), increased blood sugar, low blood potassium, low blood phosphorus, increased lactate dehydrogenase in the blood, increased creatinine in the blood
+- -Joint pain
+- -Acne
+- -Urinary tract infection
+- -Pneumonia and other bacterial, viral, and fungal infections
+- -A reduced number of infection-fighting cells in the blood (white blood cells)
+- -Diabetes
+- -Abnormal tests of liver function, elevated AST and/or ALT liver enzymes
+- -Rash
+- -Elevated protein in the urine
+- -Menstrual disorders (including absent, infrequent or heavy periods)
+- -Slow healing (this may include separation of the layers of a surgical wound or stitch line)
+- -Rapid heart rate
+- -There is a general tendency for fluid to collect in various tissues.
 
-## Common: may affect up to 1 in 10 people
+Common: may affect up to 1 in 10 people
 
--  Infections (including life-threatening infections)
--  Blood clots in the legs
--  Blood clots in the lung
--  Mouth sores
--  Fluid collection in the abdomen
--  Kidney damage with low blood platelets and low red blood cell counts, with or without rash (haemolytic uraemic syndrome)
--  Low levels of a type of white blood cells called neutrophils
--  Deterioration of bone
--  Inflammation that may lead to lung damage, fluid around the lung
--  Nose bleeds
--  Skin cancer
--  Kidney infection
--  Ovarian cysts
--  Fluid collection in the sac around the heart, that in some cases may decrease the heart's ability to pump blood
+- -Infections (including life-threatening infections)
+- -Blood clots in the legs
+- -Blood clots in the lung
+- -Mouth sores
+- -Fluid collection in the abdomen
+- -Kidney damage with low blood platelets and low red blood cell counts, with or without rash (haemolytic uraemic syndrome)
+- -Low levels of a type of white blood cells called neutrophils
+- -Deterioration of bone
+- -Inflammation that may lead to lung damage, fluid around the lung
+- -Nose bleeds
+- -Skin cancer
+- -Kidney infection
+- -Ovarian cysts
+- -Fluid collection in the sac around the heart, that in some cases may decrease the heart's ability to pump blood
+- -Inflammation of the pancreas
+- -Allergic reactions
+- -Shingles
+- -Cytomegalovirus infection
 
 <div style=\"page-break-after: always\"></div>
 
--  Inflammation of the pancreas
--  Allergic reactions
--  Shingles
--  Cytomegalovirus infection
-
 Uncommon: may affect up to 1 in 100 people
 
--  Cancer of the lymph tissue (lymphoma/post-transplant lympho-proliferative disorder), combined lowering of red blood cells, white blood cells and blood platelets
--  Bleeding from the lung
--  Protein in the urine, occasionally severe and associated with side effects, such as swelling
--  Scarring in the kidney that may reduce kidney function
--  Too much fluid collecting in the tissues due to irregular lymph function
--  Low blood platelets, with or without rash (thrombocytopaenic purpura)
--  Serious allergic reactions that can cause peeling of the skin
--  Tuberculosis
--  Epstein-Barr virus infection
--  Infectious diarrhoea with Clostridium difficile
--  Serious liver damage
+- -Cancer of the lymph tissue (lymphoma/post-transplant lympho-proliferative disorder), combined lowering of red blood cells, white blood cells and blood platelets
+- -Bleeding from the lung
+- -Protein in the urine, occasionally severe and associated with side effects, such as swelling
+- -Scarring in the kidney that may reduce kidney function
+- -Too much fluid collecting in the tissues due to irregular lymph function
+- -Low blood platelets, with or without rash (thrombocytopaenic purpura)
+- -Serious allergic reactions that can cause peeling of the skin
+- -Tuberculosis
+- -Epstein-Barr virus infection
+- -Infectious diarrhoea with Clostridium difficile
+- -Serious liver damage
 
 Rare: may affect up to 1 in 1,000 people
 
--  Protein build-up in the air sacs of the lungs that may interfere with breathing
--  Serious allergic reactions that can affect blood vessels (see above paragraph on allergic reactions)
+- -Protein build-up in the air sacs of the lungs that may interfere with breathing
+- -Serious allergic reactions that can affect blood vessels (see above paragraph on allergic reactions)
 
 Not known: frequency cannot be estimated from the available data
 
--  Posterior reversible encephalopathy syndrome (PRES), a serious nervous system syndrome that has the following symptoms: headache, nausea, vomiting, confusion, seizures, and visual loss. Should any of these occur together, please contact your physician.
+- -Posterior reversible encephalopathy syndrome (PRES), a serious nervous system syndrome that has the following symptoms: headache, nausea, vomiting, confusion, seizures, and visual loss. Should any of these occur together, please contact your physician.
 
 S-LAM patients experienced similar side effects to those of kidney transplant patients, with the addition of weight loss, which may affect up to 1 in 10 people.
 
@@ -2722,9 +2723,7 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What Rapamune contains
 
-The active substance is sirolimus.
-
-Each Rapamune 0.5 mg coated tablet contains 0.5 mg of sirolimus. Each Rapamune 1 mg coated tablet contains 1 mg of sirolimus. Each Rapamune 2 mg coated tablet contains 2 mg of sirolimus.
+The active substance is sirolimus. Each Rapamune 0.5 mg coated tablet contains 0.5 mg of sirolimus. Each Rapamune 1 mg coated tablet contains 1 mg of sirolimus. Each Rapamune 2 mg coated tablet contains 2 mg of sirolimus.
 
 ## The other ingredients are:
 
@@ -2742,8 +2741,8 @@ The tablets are supplied in blister packs of 30 and 100 tablets. Not all pack si
 
 ## Marketing Authorisation Holder and Manufacturer
 
-| Marketing Authorisation Holder: Pfizer Europe MAEEIG Boulevard de la Plaine 17 1050 Bruxelles Belgium   | Manufacturer: Pfizer Ireland Pharmaceuticals Unlimited Company Little Connell Newbridge Co. Kildare W12 HX57 Ireland Pfizer Manufacturing Deutschland GmbH Mooswaldallee 1   |
-|---------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Marketing Authorisation Holder: Pfizer Europe MAEEIG Boulevard de la Plaine 17 1050 Bruxelles Belgium   | Manufacturer: Pfizer Ireland Pharmaceuticals Unlimited Company Little Connell Newbridge Co. Kildare W12 HX57 Ireland Pfizer Manufacturing Deutschland GmbH Mooswaldallee 1 79108 Freiburg Im Breisgau Germany   |
+|---------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
@@ -2757,11 +2756,7 @@ Pfizer Luxembourg SARL filialas Lietuvoje Tel. +3705 2514000
 
 ## България
 
-Пфайзер Люксембург САРЛ, Клон
-
-България
-
-Teл: +359 2 970 4333
+Пфайзер Люксембург САРЛ, Клон България Teл: +359 2 970 4333
 
 ## Česká Republika
 
@@ -2903,11 +2898,7 @@ Tel: +46 (0)8 550 520 00
 
 ## Kύπρος
 
-PFIZER ΕΛΛΑΣ Α.Ε. (Cyprus Branch)
-
-T 
-
-: +357 22 817690
+PFIZER ΕΛΛΑΣ Α.Ε. (Cyprus Branch) T  : +357 22 817690
 
 ## Latvija
 

@@ -1,21 +1,97 @@
 ---
-document_datetime: 2026-04-22 11:16:00
+document_datetime: 2026-06-04 14:38:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/enflonsia.html
 document_name: enflonsia.html
 version: success
-processing_time: 0.1051275
-conversion_datetime: 2026-04-25 16:16:25.437306
+processing_time: 0.113849
+conversion_datetime: 2026-06-07 11:54:38.681214
 docling_version:
-  docling-serve: 1.16.1
-  docling-jobkit: 1.17.1
-  docling: 2.90.0
-  docling-core: 2.74.0
-  docling-ibm-models: 3.13.0
-  docling-parse: 5.9.0
+  docling-serve: 1.21.0
+  docling-jobkit: 1.20.1
+  docling: 2.97.0
+  docling-core: 2.78.0
+  docling-ibm-models: 3.13.2
+  docling-parse: 6.2.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
 ---
+# Search
+
+- [Medicines](/en/medicines)
+    - [Find medicine](/en/medicines)
+    - [Therapeutic areas: latest updates](/en/medicines/therapeutic-areas-latest-updates)
+    - [Download medicine data](/en/medicines/download-medicine-data)
+    - [What we publish on medicines and when](/en/medicines/what-we-publish-medicines-when)
+    - [Medicines under evaluation](/en/medicines/medicines-human-use-under-evaluation)
+    - [National registers](/en/medicines/national-registers-authorised-medicines)
+- [Human regulatory](/en/human-regulatory-overview)
+    - [Overview](/en/human-regulatory-overview)
+    - [Research and development](/en/human-regulatory-overview/research-development)
+    - [Marketing authorisation](/en/human-regulatory-overview/marketing-authorisation)
+    - [Post-authorisation](/en/human-regulatory-overview/post-authorisation)
+    - [Medical devices](/en/human-regulatory-overview/medical-devices)
+    - [Herbal products](/en/human-regulatory-overview/herbal-medicinal-products)
+- [Veterinary regulatory](/en/veterinary-regulatory-overview)
+    - [Overview](/en/veterinary-regulatory-overview)
+    - [Research and development](/en/veterinary-regulatory-overview/research-development-veterinary-medicines)
+    - [Marketing authorisation](/en/veterinary-regulatory-overview/marketing-authorisation-veterinary-medicines)
+    - [Post-authorisation](/en/veterinary-regulatory-overview/post-authorisation-veterinary-medicines)
+- [Committees](/en/committees)
+    - [Overview](/en/committees)
+    - [How the committees work](/en/committees/how-committees-work)
+    - [CHMP](/en/committees/committee-medicinal-products-human-use-chmp)
+    - [CVMP](/en/committees/committee-veterinary-medicinal-products-cvmp)
+    - [PRAC](/en/committees/pharmacovigilance-risk-assessment-committee-prac)
+    - [COMP](/en/committees/committee-orphan-medicinal-products-comp)
+    - [HMPC](/en/committees/committee-herbal-medicinal-products-hmpc)
+    - [CAT](/en/committees/committee-advanced-therapies-cat)
+    - [PDCO](/en/committees/paediatric-committee-pdco)
+    - [Working parties and other groups](/en/committees/working-parties-other-groups)
+- [News &amp; events](/en/news-events)
+    - [Overview](/en/news-events)
+    - [News](/en/news)
+    - [Events](/en/events/upcoming-events)
+    - [What's new](/en/news-events/whats-new)
+    - [Committee highlights](/en/news-events/committee-highlights)
+    - [Publications](/en/news-and-events/publications)
+    - [Press and social media](/en/news-events/press-social-media)
+    - [Podcast: Inside EMA](/en/news-events/podcast-inside-ema)
+    - [EMA Campaigns](/en/news-events/ema-campaigns)
+    - [Open consultations](/en/news-events/open-consultations)
+    - [RSS feeds](/en/news-events/rss-feeds)
+- [Partners &amp; networks](/en/partners-networks)
+    - [Overview](/en/partners-networks)
+    - [EU partners](/en/partners-networks/eu-partners)
+    - [International activities](/en/partners-networks/international-activities)
+    - [Patients and consumers](/en/partners-networks/patients-consumers)
+    - [Healthcare professionals](/en/partners-networks/healthcare-professionals)
+    - [Academia](/en/partners-networks/academia)
+    - [Pharmaceutical industry](/en/partners-networks/pharmaceutical-industry)
+    - [Networks](/en/partners-networks/networks)
+    - [Health technology assessment bodies](/en/partners-networks/health-technology-assessment-bodies)
+    - [One Health approach](/en/partners-networks/one-health-approach)
+    - [Animal health practitioners](/en/partners-networks/animal-health-practitioners)
+    - [One substance - one assessment](/en/partners-networks/one-substance-one-assessment-osoa-eu-collaboration-chemicals-related-data)
+- [About us](/en/about-us)
+    - [Overview](/en/about-us)
+    - [What we do](/en/about-us/what-we-do)
+    - [Who we are](/en/about-us/who-we-are)
+    - [How we work](/en/about-us/how-we-work)
+    - [Fees](/en/about-us/fees-payable-european-medicines-agency)
+    - [Support to SMEs](/en/about-us/support-smes)
+    - [Annual reports and work programmes](/en/about-us/annual-reports-work-programmes)
+    - [History of EMA](/en/about-us/history-ema)
+    - [Careers](/en/about-us/careers)
+    - [Procurement](/en/about-us/procurement-grants)
+    - [About this website](/en/about-us/about-website)
+    - [Data protection and privacy](/en/about-us/data-protection-privacy-ema)
+    - [Contacts](/en/about-us/contacts-european-medicines-agency)
+
+1. [Home](/en/homepage)
+2. [Medicines](https://www.ema.europa.eu/en/medicines)
+3. Enflonsia
+
 # Enflonsia
 
 [RSS](/en/individual-human-medicine.xml/266956)
@@ -53,7 +129,7 @@ Expand section
 
 Collapse section
 
-## How is Enflonsia used?
+### How is Enflonsia used?
 
 Enflonsia can only be obtained with a prescription and should be used according to official recommendations.
 
@@ -61,11 +137,11 @@ Enflonsia is given as a single injection into the thigh muscle. It is given from
 
 For more information about using Enflonsia, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Enflonsia work?
+### How does Enflonsia work?
 
 The active substance in Enflonsia, clesrovimab, is a monoclonal antibody, a type of protein designed to recognise and attach to a specific protein. Clesrovimab attaches to the 'F protein' on the surface of RSV, which prevents the virus from entering the body's cells. This helps prevent lower respiratory tract disease caused by RSV, such as bronchiolitis or pneumonia.
 
-## What benefits of Enflonsia have been shown in studies?
+### What benefits of Enflonsia have been shown in studies?
 
 Enflonsia was shown to be effective at preventing lower respiratory tract disease caused by RSV in two main studies in newborns and infants during their first RSV season.
 
@@ -73,23 +149,23 @@ One study compared Enflonsia with placebo (a dummy treatment) in 3,632 healthy i
 
 A second study compared Enflonsia with palivizumab (another medicine used to prevent lower respiratory tract disease caused by RSV) in 901 infants who were either born prematurely (at 35 weeks of pregnancy or earlier) or born at full term but had heart or lung disease which put them at higher risk of lower respiratory tract disease caused by RSV. In the 150 days after receiving treatment during their first RSV season, 3.2% of infants (14 out of 443) who received Enflonsia had lower respiratory tract disease caused by RSV that required medical attention, similar to the 2.7% of infants (12 out of 437) given palivizumab.
 
-## What are the risks associated with Enflonsia?
+### What are the risks associated with Enflonsia?
 
 For the full list of side effects and restrictions with Enflonsia, see the package leaflet.
 
 The most common side effects with Enflonsia (which may affect up to 1 in 10 people) include pain, redness and swelling at the injection site, and rash.
 
-## Why is Enflonsia authorised in the EU?
+### Why is Enflonsia authorised in the EU?
 
 Enflonsia was shown to be effective at preventing lower respiratory tract disease caused by RSV in newborns and infants during their first RSV season. There are uncertainties regarding the use of Enflonsia in infants with a low body weight (less than 1.1 kg) due to the lack of data in this population. Regarding safety, side effects were mild to moderate and considered acceptable. The European Medicines Agency therefore decided that Enflonsia's benefits are greater than its risks and it can be authorised for use in the EU.
 
-## What measures are being taken to ensure the safe and effective use of Enflonsia?
+### What measures are being taken to ensure the safe and effective use of Enflonsia?
 
 Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Enflonsia have been included in the summary of product characteristics and the package leaflet.
 
 As for all medicines, data on the use of Enflonsia are continuously monitored. Suspected side effects reported with Enflonsia are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Enflonsia
+### Other information about Enflonsia
 
 Enflonsia received a marketing authorisation valid throughout the EU on 15 April 2026.
 
@@ -101,7 +177,7 @@ English (EN) (110.26 KB - PDF)
 
 [View](/en/documents/overview/enflonsia-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-772)
+[Other languages (22)](#file-language-dropdown-848)
 
 български (BG) (135.66 KB - PDF)
 
@@ -133,7 +209,7 @@ Deutsch (DE) (113.83 KB - PDF)
 
 [View](/de/documents/overview/enflonsia-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (107.56 KB - PDF)
+eesti (ET) (107.56 KB - PDF)
 
 **First published:** 22/04/2026
 
@@ -163,13 +239,13 @@ italiano (IT) (108.04 KB - PDF)
 
 [View](/it/documents/overview/enflonsia-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (138.69 KB - PDF)
+latviešu (LV) (138.69 KB - PDF)
 
 **First published:** 22/04/2026
 
 [View](/lv/documents/overview/enflonsia-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (129.86 KB - PDF)
+lietuvių (LT) (129.86 KB - PDF)
 
 **First published:** 22/04/2026
 
@@ -223,7 +299,7 @@ slovenščina (SL) (129.63 KB - PDF)
 
 [View](/sl/documents/overview/enflonsia-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (107 KB - PDF)
+suomi (FI) (107 KB - PDF)
 
 **First published:** 22/04/2026
 
@@ -247,157 +323,161 @@ English (EN) (380.8 KB - PDF)
 
 Enflonsia : EPAR - Product information
 
-English (EN) (299.2 KB - PDF)
+English (EN) (242.73 KB - PDF)
 
-**First published:** 22/04/2026
+**First published:** 22/04/2026 **Last updated:** 04/06/2026
 
 [View](/en/documents/product-information/enflonsia-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-399)
+[Other languages (24)](#file-language-dropdown-314)
 
-български (BG) (303.42 KB - PDF)
+български (BG) (290.61 KB - PDF)
 
-**First published:** 22/04/2026
+**First published:** 22/04/2026 **Last updated:** 04/06/2026
 
 [View](/bg/documents/product-information/enflonsia-epar-product-information_bg.pdf)
 
-español (ES) (323.23 KB - PDF)
+español (ES) (256.71 KB - PDF)
 
-**First published:** 22/04/2026
+**First published:** 22/04/2026 **Last updated:** 04/06/2026
 
 [View](/es/documents/product-information/enflonsia-epar-product-information_es.pdf)
 
-čeština (CS) (331 KB - PDF)
+čeština (CS) (302.25 KB - PDF)
 
-**First published:** 22/04/2026
+**First published:** 22/04/2026 **Last updated:** 04/06/2026
 
 [View](/cs/documents/product-information/enflonsia-epar-product-information_cs.pdf)
 
-dansk (DA) (318.18 KB - PDF)
+dansk (DA) (255.48 KB - PDF)
 
-**First published:** 22/04/2026
+**First published:** 22/04/2026 **Last updated:** 04/06/2026
 
 [View](/da/documents/product-information/enflonsia-epar-product-information_da.pdf)
 
-Deutsch (DE) (335.33 KB - PDF)
+Deutsch (DE) (270.64 KB - PDF)
 
-**First published:** 22/04/2026
+**First published:** 22/04/2026 **Last updated:** 04/06/2026
 
 [View](/de/documents/product-information/enflonsia-epar-product-information_de.pdf)
 
-eesti keel (ET) (314.85 KB - PDF)
+eesti (ET) (257.72 KB - PDF)
 
-**First published:** 22/04/2026
+**First published:** 22/04/2026 **Last updated:** 04/06/2026
 
 [View](/et/documents/product-information/enflonsia-epar-product-information_et.pdf)
 
-ελληνικά (EL) (306.94 KB - PDF)
+ελληνικά (EL) (294.21 KB - PDF)
 
-**First published:** 22/04/2026
+**First published:** 22/04/2026 **Last updated:** 04/06/2026
 
 [View](/el/documents/product-information/enflonsia-epar-product-information_el.pdf)
 
-français (FR) (351.11 KB - PDF)
+français (FR) (281.8 KB - PDF)
 
-**First published:** 22/04/2026
+**First published:** 22/04/2026 **Last updated:** 04/06/2026
 
 [View](/fr/documents/product-information/enflonsia-epar-product-information_fr.pdf)
 
-hrvatski (HR) (319.93 KB - PDF)
+hrvatski (HR) (285.19 KB - PDF)
 
-**First published:** 22/04/2026
+**First published:** 22/04/2026 **Last updated:** 04/06/2026
 
 [View](/hr/documents/product-information/enflonsia-epar-product-information_hr.pdf)
 
-íslenska (IS) (315.21 KB - PDF)
+italiano (IT) (270.44 KB - PDF)
 
-**First published:** 22/04/2026
-
-[View](/is/documents/product-information/enflonsia-epar-product-information_is.pdf)
-
-italiano (IT) (332.48 KB - PDF)
-
-**First published:** 22/04/2026
+**First published:** 22/04/2026 **Last updated:** 04/06/2026
 
 [View](/it/documents/product-information/enflonsia-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (303.46 KB - PDF)
+latviešu (LV) (286.41 KB - PDF)
 
-**First published:** 22/04/2026
+**First published:** 22/04/2026 **Last updated:** 04/06/2026
 
 [View](/lv/documents/product-information/enflonsia-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (327.38 KB - PDF)
+lietuvių (LT) (299.2 KB - PDF)
 
-**First published:** 22/04/2026
+**First published:** 22/04/2026 **Last updated:** 04/06/2026
 
 [View](/lt/documents/product-information/enflonsia-epar-product-information_lt.pdf)
 
-magyar (HU) (361.61 KB - PDF)
+magyar (HU) (311.45 KB - PDF)
 
-**First published:** 22/04/2026
+**First published:** 22/04/2026 **Last updated:** 04/06/2026
 
 [View](/hu/documents/product-information/enflonsia-epar-product-information_hu.pdf)
 
-Malti (MT) (335.69 KB - PDF)
+Malti (MT) (306.87 KB - PDF)
 
-**First published:** 22/04/2026
+**First published:** 22/04/2026 **Last updated:** 04/06/2026
 
 [View](/mt/documents/product-information/enflonsia-epar-product-information_mt.pdf)
 
-Nederlands (NL) (310.81 KB - PDF)
+Nederlands (NL) (256.11 KB - PDF)
 
-**First published:** 22/04/2026
+**First published:** 22/04/2026 **Last updated:** 04/06/2026
 
 [View](/nl/documents/product-information/enflonsia-epar-product-information_nl.pdf)
 
-norsk (NO) (312.95 KB - PDF)
+polski (PL) (314.09 KB - PDF)
 
-**First published:** 22/04/2026
-
-[View](/no/documents/product-information/enflonsia-epar-product-information_no.pdf)
-
-polski (PL) (347.34 KB - PDF)
-
-**First published:** 22/04/2026
+**First published:** 22/04/2026 **Last updated:** 04/06/2026
 
 [View](/pl/documents/product-information/enflonsia-epar-product-information_pl.pdf)
 
-português (PT) (325.59 KB - PDF)
+português (PT) (259.13 KB - PDF)
 
-**First published:** 22/04/2026
+**First published:** 22/04/2026 **Last updated:** 04/06/2026
 
 [View](/pt/documents/product-information/enflonsia-epar-product-information_pt.pdf)
 
-română (RO) (344.56 KB - PDF)
+română (RO) (309.58 KB - PDF)
 
-**First published:** 22/04/2026
+**First published:** 22/04/2026 **Last updated:** 04/06/2026
 
 [View](/ro/documents/product-information/enflonsia-epar-product-information_ro.pdf)
 
-slovenčina (SK) (348.87 KB - PDF)
+slovenčina (SK) (311.77 KB - PDF)
 
-**First published:** 22/04/2026
+**First published:** 22/04/2026 **Last updated:** 04/06/2026
 
 [View](/sk/documents/product-information/enflonsia-epar-product-information_sk.pdf)
 
-slovenščina (SL) (308.36 KB - PDF)
+slovenščina (SL) (273.37 KB - PDF)
 
-**First published:** 22/04/2026
+**First published:** 22/04/2026 **Last updated:** 04/06/2026
 
 [View](/sl/documents/product-information/enflonsia-epar-product-information_sl.pdf)
 
-Suomi (FI) (333.75 KB - PDF)
+suomi (FI) (259.86 KB - PDF)
 
-**First published:** 22/04/2026
+**First published:** 22/04/2026 **Last updated:** 04/06/2026
 
 [View](/fi/documents/product-information/enflonsia-epar-product-information_fi.pdf)
 
-svenska (SV) (316.69 KB - PDF)
+svenska (SV) (252.43 KB - PDF)
 
-**First published:** 22/04/2026
+**First published:** 22/04/2026 **Last updated:** 04/06/2026
 
 [View](/sv/documents/product-information/enflonsia-epar-product-information_sv.pdf)
+
+Íslenska (IS) (255.58 KB - PDF)
+
+**First published:** 22/04/2026 **Last updated:** 04/06/2026
+
+[View](/is/documents/product-information/enflonsia-epar-product-information_is.pdf)
+
+norsk (NO) (250.12 KB - PDF)
+
+**First published:** 22/04/2026 **Last updated:** 04/06/2026
+
+[View](/no/documents/product-information/enflonsia-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** VR/0000343807
+
+03/06/2026
 
 icon globe
 
@@ -421,7 +501,7 @@ English (EN) (24.83 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/enflonsia-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-197)
+[Other languages (24)](#file-language-dropdown-87)
 
 български (BG) (23.16 KB - PDF)
 
@@ -453,7 +533,7 @@ Deutsch (DE) (18.73 KB - PDF)
 
 [View](/de/documents/all-authorised-presentations/enflonsia-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (23.28 KB - PDF)
+eesti (ET) (23.28 KB - PDF)
 
 **First published:** 22/04/2026
 
@@ -477,25 +557,19 @@ hrvatski (HR) (25.81 KB - PDF)
 
 [View](/hr/documents/all-authorised-presentations/enflonsia-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (18.03 KB - PDF)
-
-**First published:** 22/04/2026
-
-[View](/is/documents/all-authorised-presentations/enflonsia-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (16.79 KB - PDF)
 
 **First published:** 22/04/2026
 
 [View](/it/documents/all-authorised-presentations/enflonsia-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (28.31 KB - PDF)
+latviešu (LV) (28.31 KB - PDF)
 
 **First published:** 22/04/2026
 
 [View](/lv/documents/all-authorised-presentations/enflonsia-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (24.09 KB - PDF)
+lietuvių (LT) (24.09 KB - PDF)
 
 **First published:** 22/04/2026
 
@@ -518,12 +592,6 @@ Nederlands (NL) (16.82 KB - PDF)
 **First published:** 22/04/2026
 
 [View](/nl/documents/all-authorised-presentations/enflonsia-epar-all-authorised-presentations_nl.pdf)
-
-norsk (NO) (17.77 KB - PDF)
-
-**First published:** 22/04/2026
-
-[View](/no/documents/all-authorised-presentations/enflonsia-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (24.47 KB - PDF)
 
@@ -555,7 +623,7 @@ slovenščina (SL) (21 KB - PDF)
 
 [View](/sl/documents/all-authorised-presentations/enflonsia-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (21.12 KB - PDF)
+suomi (FI) (21.12 KB - PDF)
 
 **First published:** 22/04/2026
 
@@ -566,6 +634,18 @@ svenska (SV) (17.77 KB - PDF)
 **First published:** 22/04/2026
 
 [View](/sv/documents/all-authorised-presentations/enflonsia-epar-all-authorised-presentations_sv.pdf)
+
+Íslenska (IS) (18.03 KB - PDF)
+
+**First published:** 22/04/2026
+
+[View](/is/documents/all-authorised-presentations/enflonsia-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (17.77 KB - PDF)
+
+**First published:** 22/04/2026
+
+[View](/no/documents/all-authorised-presentations/enflonsia-epar-all-authorised-presentations_no.pdf)
 
 ## Product details
 
@@ -619,9 +699,27 @@ Marketing authorisation issued
 
 15/04/2026
 
+Revision
+
+1
+
 ## Assessment history
 
-## Initial marketing authorisation documents
+Expand section
+
+Collapse section
+
+### Changes since initial authorisation of medicine
+
+Enflonsia : EPAR - Procedural steps taken and scientific information after authorisation
+
+English (EN) (162.61 KB - PDF)
+
+**First published:** 04/06/2026
+
+[View](/en/documents/procedural-steps-after/enflonsia-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+
+### Initial marketing authorisation documents
 
 Enflonsia : EPAR - Public assessment report
 
@@ -651,6 +749,6 @@ English (EN) (157.37 KB - PDF)
 
 **This page was last updated on**
 
-22/04/2026
+04/06/2026
 
 ## Share this page

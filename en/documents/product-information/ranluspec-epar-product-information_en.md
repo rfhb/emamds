@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-04-24 14:13:36
+document_datetime: 2026-05-29 14:42:03
 document_pages: 79
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/ranluspec-epar-product-information_en.pdf
 document_name: ranluspec-epar-product-information_en.pdf
 version: success
-processing_time: 22.0321699
-conversion_datetime: 2026-04-25 16:25:29.102701
+processing_time: 41.5376158
+conversion_datetime: 2026-06-07 12:03:20.83002
 docling_version:
-  docling-serve: 1.16.1
-  docling-jobkit: 1.17.1
-  docling: 2.90.0
-  docling-core: 2.74.0
-  docling-ibm-models: 3.13.0
-  docling-parse: 5.9.0
+  docling-serve: 1.21.0
+  docling-jobkit: 1.20.1
+  docling: 2.97.0
+  docling-core: 2.78.0
+  docling-ibm-models: 3.13.2
+  docling-parse: 6.2.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -66,11 +66,9 @@ Ranluspec must be administered by a qualified ophthalmologist experienced in int
 
 The recommended dose for ranibizumab in adults is 0.5 mg given as a single intravitreal injection. This corresponds to an injection volume of 0.05 mL. The interval between two doses injected into the same eye should be at least four weeks.
 
-Treatment in adults is initiated with one injection per month until maximum visual acuity is achieved and/or there are no signs of disease activity i.e. no change in visual acuity and in other signs and
+Treatment in adults is initiated with one injection per month until maximum visual acuity is achieved and/or there are no signs of disease activity i.e. no change in visual acuity and in other signs and symptoms of the disease under continued treatment. In patients with wet AMD, DME, PDR and RVO, initially, three or more consecutive, monthly injections may be needed.
 
 <div style=\"page-break-after: always\"></div>
-
-symptoms of the disease under continued treatment. In patients with wet AMD, DME, PDR and RVO, initially, three or more consecutive, monthly injections may be needed.
 
 Thereafter, monitoring and treatment intervals should be determined by the physician and should be based on disease activity, as assessed by visual acuity and/or anatomical parameters.
 
@@ -244,7 +242,7 @@ The adverse reactions experienced following administration of ranibizumab in cli
 
 The adverse reactions are listed by system organ class and frequency using the following convention: very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), uncommon ( ≥ 1/1 000 to &lt; 1/100), rare ( ≥ 1/10 000 to &lt; 1/1 000), very rare (&lt; 1/10 000), not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
-Infections and infestations
+Infections and infestations Uncommon haemorrhage, conjunctivitis, conjunctivitis allergic, eye discharge, photopsia, photophobia, ocular discomfort, eyelid oedema, eyelid pain, conjunctival hyperaemia.
 
 | Very common                          | Nasopharyngitis                                                                                                                                                                                                                                                                                                                                                                                                                          |
 |--------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -262,8 +260,6 @@ Infections and infestations
 | Common                               | Retinal degeneration, retinal disorder, retinal detachment, retinal tear, detachment of the retinal pigment epithelium, retinal pigment epithelium tear, visual acuity reduced, vitreous haemorrhage, vitreous disorder, uveitis, iritis, iridocyclitis, cataract, cataract subcapsular, posterior capsule opacification, punctuate keratitis, corneal abrasion, anterior chamber flare, vision blurred, injection site haemorrhage, eye |
 
 <div style=\"page-break-after: always\"></div>
-
-Uncommon haemorrhage, conjunctivitis, conjunctivitis allergic, eye discharge, photopsia, photophobia, ocular discomfort, eyelid oedema, eyelid pain, conjunctival hyperaemia.
 
 Blindness, endophthalmitis, hypopyon, hyphaema, keratopathy, iris adhesion, corneal deposits, corneal oedema, corneal striae, injection site pain, injection site irritation, abnormal sensation in eye, eyelid irritation.
 
@@ -355,28 +351,6 @@ Figure 1 Mean change in visual acuity from baseline to Month 24 in study FVF2598
 
 <div style=\"page-break-after: always\"></div>
 
-Mean change in visual acuity + SE
-
-Mean
-
-10
-
-(letters)
-
--15
-
-0
-
-15
-
-10
-
-(letters)
-
-MARINA
-
-Study FVF2598g (MARINA)
-
 <!-- image -->
 
 Results from both studies indicated that continued ranibizumab treatment may also be of benefit in patients who lost ≥ 15 letters of best-corrected visual acuity (BCVA) in the first year of treatment.
@@ -385,11 +359,9 @@ Statistically significant patient-reported visual functioning benefits were obse
 
 In study FVF3192g (PIER), 184 patients with all forms of neovascular AMD were randomised in a 1:1:1 ratio to receive ranibizumab 0.3 mg, ranibizumab 0.5 mg or sham injections once a month for 3 consecutive doses, followed by a dose administered once every 3 months. From Month 14 of the study, sham-treated patients were allowed to receive ranibizumab and from Month 19, more frequent treatments were possible. Patients treated with ranibizumab in PIER received a mean of 10 total treatments.
 
-After an initial increase in visual acuity (following monthly dosing), on average, patients' visual acuity declined with quarterly dosing, returning to baseline at Month 12 and this effect was maintained in most ranibizumab-treated patients (82%) at Month 24. Limited data from sham subjects who later received ranibizumab suggested that early initiation of treatment may be associated with better
+After an initial increase in visual acuity (following monthly dosing), on average, patients' visual acuity declined with quarterly dosing, returning to baseline at Month 12 and this effect was maintained in most ranibizumab-treated patients (82%) at Month 24. Limited data from sham subjects who later received ranibizumab suggested that early initiation of treatment may be associated with better preservation of visual acuity.
 
 <div style=\"page-break-after: always\"></div>
-
-preservation of visual acuity.
 
 Data from two studies (MONT BLANC, BPD952A2308 and DENALI, BPD952A2309) conducted post approval confirmed the efficacy of ranibizumab but did not demonstrate additional effect of the combined administration of verteporfin (Visudyne PDT) and ranibizumab compared to ranibizumab monotherapy.
 
@@ -418,29 +390,15 @@ Table 2 Outcomes at Month 3 and 12 (RADIANCE)
 | Mean average BCVA change from Month 1 to Month 12 compared to baseline (letters) | +12.8                                                     | +12.5                                                      | N/A                         |
 | Proportion of patients who gained: ≥ 15 letters, or reached ≥ 84 letters in BCVA | 53.3%                                                     | 51.7%                                                      | N/A                         |
 
-a p&lt; 0.00001 comparison with vPDT control b Comparative control up to Month 3. Patients randomised to vPDT were allowed to receive ranibizumab treatment as of Month 3 (in Group III, 38 patients received ranibizumab as of Month 3)
+a p&lt; 0.00001 comparison with vPDT control
+
+b Comparative control up to Month 3. Patients randomised to vPDT were allowed to receive ranibizumab treatment as of Month 3 (in Group III, 38 patients received ranibizumab as of Month 3)
 
 <div style=\"page-break-after: always\"></div>
 
-20
-
-15-
-
-510-
-
-0
-
--5L
-
-0
-
 Figure 2 Mean change from baseline BCVA over time to Month 12 (RADIANCE)
 
-+12.5
-
 <!-- image -->
-
-1
 
 The improvement of vision was accompanied by a reduction in central retinal thickness.
 
@@ -457,17 +415,9 @@ At Month 2, all patients received open-label treatment with ranibizumab as neede
 
 Key outcome measures from MINERVA are summarised in Table 3 and Figure 3. An improvement of vision was observed and was accompanied by a reduction in central subfield thickness over the 12month period.
 
-The mean number of injections given over 12 months was 5.8 in the ranibizumab arm versus 5.4 in
+The mean number of injections given over 12 months was 5.8 in the ranibizumab arm versus 5.4 in those patients in the sham arm who were eligible to receive ranibizumab from Month 2 onwards. In the sham arm 7 out of 59 patients did not receive any treatment with ranibizumab in the study eye during the 12-month period.
 
 <div style=\"page-break-after: always\"></div>
-
-Mean BCVA change +/- 95% CI (letters)
-
-15
-
--5
-
-those patients in the sham arm who were eligible to receive ranibizumab from Month 2 onwards. In the sham arm 7 out of 59 patients did not receive any treatment with ranibizumab in the study eye during the 12-month period. 9.3
 
 Table 3 Outcomes at Month 2 (MINERVA)
 
@@ -478,11 +428,15 @@ Table 3 Outcomes at Month 2 (MINERVA)
 | Patients not losing > 15 letters from baseline at Month 2                     | 99.2%                          | 94.7%           |
 | Reduction in CSFT b from baseline to Month 2 a                                | 77 µm                          | -9.8 µm         |
 
-Sham (N=59)
-
 Figure 3 Mean change from baseline BCVA over time to Month 12 (MINERVA)
 
 <!-- image -->
+
+Treatment:-o-Ranibizumab0.5mg(N=119)
+
+Sham (N=59)
+
+*Observed meanBCVAmay differ from theLeast SquaresMean BCVA(applicableonly at Month 2)
 
 When comparing ranibizumab versus sham control at Month 2, a consistent treatment effect both overall and across baseline aetiology subgroups was observed:
 
@@ -499,49 +453,11 @@ Table 4 Treatment effect overall and across baseline aetiology subgroups
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 4
-
-Mean VA change from BL + / - SE (letters)
-
-Mean change in visual acuity from baseline over time in study D2301 (RESTORE)
-
-12
-
-10
-
-8
-
-6
-
-2
-
-0
-
--2
-
 In the pivotal study G2301 (MINERVA), five adolescent patients aged 12 to 17 years with visual impairment secondary to CNV received open-label treatment with ranibizumab 0.5 mg at baseline followed by an individualised treatment regimen as for the adult population. BCVA improved from baseline to Month 12 in all five patients, ranging from 5 to 38 letters (mean of 16.6 letters). The improvement of vision was accompanied by a stabilisation or reduction in central subfield thickness over the 12-month period. The mean number of ranibizumab injections given in the study eye over 12 months was 3 (ranged from 2 to 5). Overall, ranibizumab treatment was well tolerated.
-
-+ 0.9
 
 ## Treatment of visual impairment due to DME
 
-The efficacy and safety of ranibizumab have been assessed in three randomised, controlled studies of at least 12 months duration. A total of 868 patients (708 active and 160 control) were enrolled in these studies. T
-
-1
-
-2
-
-4
-
-5
-
-7
-
-8
-
-9
-
-10 11 12
+The efficacy and safety of ranibizumab have been assessed in three randomised, controlled studies of at least 12 months duration. A total of 868 patients (708 active and 160 control) were enrolled in these studies.
 
 In the phase II study D2201 (RESOLVE), 151 patients were treated with ranibizumab (6 mg/mL, n = 51, 10 mg/mL, n = 51) or sham (n = 49) by monthly intravitreal injections. The mean average change in BCVA from Month 1 to Month 12 compared to baseline was +7.8 (±7.72) letters in the pooled ranibizumab-treated patients (n = 102), compared to -0.1 (±9.77) letters for sham-treated patients; and the mean change in BCVA at Month 12 from baseline was 10.3 (±9.1) letters compared to -1.4 (±14.2) letters, respectively (p&lt; 0.0001 for the treatment difference).
 
@@ -575,12 +491,6 @@ Table 5 Outcomes at Month 12 in study D2301 (RESTORE) and at Month 36 in study D
 | Gain of ≥ 15 letters or BCVA ≥ 84 letters at Month 36 (%)                                               | 27.7                            | 30.1                                    | 21.6               |
 | Mean number of injections (Months 12-35)*                                                               | 6.8                             | 6.0                                     | 6.5                |
 
-a
-
-p&lt; 0.0001 for comparisons of ranibizumab arms vs. laser arm. n in D2301-E1 (RESTORE Extension) is the number of patients with a value at both D2301 (RESTORE) baseline (Month 0) and at the Month 36 visit.
-
-* The proportion of patients who did not require any ranibizumab treatment during the extension phase was 19%, 25% and 20% in the prior ranibizumab, prior ranibizumab + laser and prior laser groups, respectively.
-
 Statistically significant patient-reported benefits for most vision-related functions were observed with ranibizumab (with or without laser) treatment over the control group as measured by the NEI VFQ-25. For other subscales of this questionnaire no treatment differences could be established.
 
 The long-term safety profile of ranibizumab observed in the 24-month extension study is consistent with the known ranibizumab safety profile.
@@ -593,11 +503,9 @@ In the phase IIIb study D2304 (RETAIN), 372 patients were randomised in 1:1:1 ra
 
 In all groups, ranibizumab was administered monthly until BCVA was stable for at least three consecutive monthly assessments. On TE, ranibizumab was administered at treatment intervals of 2-3 months. In all groups, monthly treatment was re-initiated upon a decrease in BCVA due to DME progression and continued until stable BCVA was reached again.
 
-The number of scheduled treatment visits after the initial 3 injections, was 13 and 20 for the TE and PRN regimens, respectively. With both TE regimens, more than 70% of patients maintained their
+The number of scheduled treatment visits after the initial 3 injections, was 13 and 20 for the TE and PRN regimens, respectively. With both TE regimens, more than 70% of patients maintained their BCVA with an average visit frequency of ≥ 2 months.
 
 <div style=\"page-break-after: always\"></div>
-
-BCVA with an average visit frequency of ≥ 2 months.
 
 The key outcome measures are summarised in Table 6.
 
@@ -663,28 +571,6 @@ Table 8 Outcomes at Month 6 and 12 (BRAVO and CRUISE)
 
 <div style=\"page-break-after: always\"></div>
 
-2
-
-0
-
-0
-
-BL-baseline; SE-standard error of mean
-
-+ 7.3
-
-Figure 5 Mean change from baseline BCVA over time to Month 6 and Month 12 (BRAVO)
-
-sham-controlled arm
-
-Figure 6 Mean change from baseline BCVA over time to Month 6 and Month 12 (CRUISE)
-
-<!-- image -->
-
-crossed-over to ranibizumab sham-controlled
-
-+ 18.3
-
 | Month 6 a (letters) (SD) (primary endpoint)            |             |             |            |             |
 |--------------------------------------------------------|-------------|-------------|------------|-------------|
 | Mean change in BCVA at Month 12 (letters) (SD)         | 12.1 (14.4) | 18.3 (14.6) | 7.3 (15.9) | 13.9 (14.2) |
@@ -694,33 +580,19 @@ crossed-over to ranibizumab sham-controlled
 
 a p&lt; 0.0001 for both studies
 
-:: +103
-
-<div style=\"page-break-after: always\"></div>
-
-Mean VA change from BL +- SE (letters)
-
-8
-
-6
-
-14
-
-2
-
-0
-
--2
-
-0
-
-BL-baseline; SE-standard error of mean
-
-+ 14.9
+Figure 5 Mean change from baseline BCVA over time to Month 6 and Month 12 (BRAVO)
 
 <!-- image -->
 
-In both studies, the improvement of vision was accompanied by a continuous and significant reduction in the macular oedema as measured by central retinal thickness.
+BL=baseline;SE=standard errorofmean In both studies, the improvement of vision was accompanied by a continuous and significant reduction in the macular oedema as measured by central retinal thickness.
+
+Figure 6 Mean change from baseline BCVA over time to Month 6 and Month 12 (CRUISE)
+
+<div style=\"page-break-after: always\"></div>
+
+BL-baseline;SE=standard error ofmean
+
+<!-- image -->
 
 In patients with CRVO (CRUISE and extension study HORIZON): Subjects treated with sham in the first 6 months who subsequently received ranibizumab did not achieve comparable gains in visual acuity by Month 24 (~6 letters) compared to subjects treated with ranibizumab from study start (~12 letters).
 
@@ -736,10 +608,6 @@ Table 9 Outcomes at Months 6 and 24 (BRIGHTER and CRYSTAL)
 |----------------|----------------------------|------------------------------------|---------------|----------------------------|
 |                | Ranibizumab 0.5 mg N = 180 | Ranibizumab 0.5 mg + Laser N = 178 | Laser* N = 90 | Ranibizumab 0.5 mg N = 356 |
 | Mean change in | +14.8                      | +14.8                              | +6.0          | +12.0                      |
-
-sham-controlled sham-controlled arm
-
-crossed-over to ranibizumab
 
 <div style=\"page-break-after: always\"></div>
 
@@ -773,11 +641,9 @@ The European Medicines Agency has waived the obligation to submit the results of
 
 ## 5.2  Pharmacokinetic properties
 
-Following monthly intravitreal administration of ranibizumab to patients with neovascular AMD,
+Following monthly intravitreal administration of ranibizumab to patients with neovascular AMD, serum concentrations of ranibizumab were generally low, with maximum levels (Cmax) generally below the ranibizumab concentration necessary to inhibit the biological activity of VEGF by 50% (1127 ng/mL, as assessed in an in vitro cellular proliferation assay). Cmax was dose proportional over the dose range of 0.05 to 1.0 mg/eye. Serum concentrations in a limited number of DME patients indicate that a slightly higher systemic exposure cannot be excluded compared to those observed in neovascular AMD patients. Serum ranibizumab concentrations in RVO patients were similar or slightly higher compared to those observed in neovascular AMD patients.
 
 <div style=\"page-break-after: always\"></div>
-
-serum concentrations of ranibizumab were generally low, with maximum levels (Cmax) generally below the ranibizumab concentration necessary to inhibit the biological activity of VEGF by 50% (1127 ng/mL, as assessed in an in vitro cellular proliferation assay). Cmax was dose proportional over the dose range of 0.05 to 1.0 mg/eye. Serum concentrations in a limited number of DME patients indicate that a slightly higher systemic exposure cannot be excluded compared to those observed in neovascular AMD patients. Serum ranibizumab concentrations in RVO patients were similar or slightly higher compared to those observed in neovascular AMD patients.
 
 Based on analysis of population pharmacokinetics and disappearance of ranibizumab from serum for patients with neovascular AMD treated with the 0.5 mg dose, the average vitreous elimination half-life of ranibizumab is approximately 9 days. Upon monthly intravitreal administration of ranibizumab 0.5 mg/eye, serum ranibizumab Cmax, attained approximately 1 day after dosing, is predicted to generally range between 0.79 and 2.90 ng/mL, and Cmin is predicted to generally range between 0.07 and 0.49 ng/mL. Serum ranibizumab concentrations are predicted to be approximately 90,000-fold lower than vitreal ranibizumab concentrations.
 
@@ -929,11 +795,9 @@ Ranluspec must be administered by a qualified ophthalmologist experienced in int
 
 The recommended dose for ranibizumab is 0.5 mg given as a single intravitreal injection. This corresponds to an injection volume of 0.05 mL. The interval between two doses injected into the same eye should be at least four weeks.
 
-Treatment in adults is initiated with one injection per month until maximum visual acuity is achieved and/or there are no signs of disease activity i.e. no change in visual acuity and in other signs and symptoms of the disease under continued treatment. In patients with wet AMD, DME, PDR and RVO,
+Treatment in adults is initiated with one injection per month until maximum visual acuity is achieved and/or there are no signs of disease activity i.e. no change in visual acuity and in other signs and symptoms of the disease under continued treatment. In patients with wet AMD, DME, PDR and RVO, initially, three or more consecutive, monthly injections may be needed.
 
 <div style=\"page-break-after: always\"></div>
-
-initially, three or more consecutive, monthly injections may be needed.
 
 Thereafter, monitoring and treatment intervals should be determined by the physician and should be based on disease activity, as assessed by visual acuity and/or anatomical parameters.
 
@@ -969,11 +833,9 @@ The safety and efficacy of Ranluspec in children and adolescents below 18 years 
 
 ## Method of administration
 
-Single-use pre-filled syringe for intravitreal use only. The pre-filled syringe contains more than the recommended dose of 0.5 mg. The extractable volume of the pre-filled syringe (0.1 mL) is not to be used in total. The excess volume should be expelled prior to injection. Injecting the entire volume of
+Single-use pre-filled syringe for intravitreal use only. The pre-filled syringe contains more than the recommended dose of 0.5 mg. The extractable volume of the pre-filled syringe (0.1 mL) is not to be used in total. The excess volume should be expelled prior to injection. Injecting the entire volume of the pre-filled syringe could result in overdose. To expel the air bubble along with the excess medicinal product, slowly push the plunger until the edge below the dome of the rubber stopper is aligned with the black dosing line on the syringe (equivalent to 0.05 mL, i.e., 0.5 mg ranibizumab).
 
 <div style=\"page-break-after: always\"></div>
-
-the pre-filled syringe could result in overdose. To expel the air bubble along with the excess medicinal product, slowly push the plunger until the edge below the dome of the rubber stopper is aligned with the black dosing line on the syringe (equivalent to 0.05 mL, i.e., 0.5 mg ranibizumab).
 
 Ranluspec should be inspected visually for particulate matter and discoloration prior to administration.
 
@@ -1005,11 +867,9 @@ Patients should be informed of the symptoms of these potential adverse reactions
 
 ## Bilateral treatment
 
-Limited data on bilateral use of ranibizumab (including same-day administration) do not suggest an
+Limited data on bilateral use of ranibizumab (including same-day administration) do not suggest an increased risk of systemic adverse events compared with unilateral treatment.
 
 <div style=\"page-break-after: always\"></div>
-
-increased risk of systemic adverse events compared with unilateral treatment.
 
 ## Immunogenicity
 
@@ -1087,11 +947,9 @@ There are no data available on fertility.
 
 ## 4.7 Effects on ability to drive and use machines
 
-The treatment procedure may induce temporary visual disturbances, which may affect the ability to drive or use machines (see section 4.8). Patients who experience these signs must not drive or use
+The treatment procedure may induce temporary visual disturbances, which may affect the ability to drive or use machines (see section 4.8). Patients who experience these signs must not drive or use machines until these temporary visual disturbances subside.
 
 <div style=\"page-break-after: always\"></div>
-
-machines until these temporary visual disturbances subside.
 
 ## 4.8 Undesirable effects
 
@@ -1222,28 +1080,6 @@ Figure 1 Mean change in visual acuity from baseline to Month 24 in study FVF2598
 
 <div style=\"page-break-after: always\"></div>
 
-Mean change in visual acuity + SE
-
-Mean
-
-10
-
-(letters)
-
--15
-
-0
-
-15
-
-10
-
-(letters)
-
-MARINA
-
-Study FVF2598g (MARINA)
-
 <!-- image -->
 
 Results from both studies indicated that continued ranibizumab treatment may also be of benefit in patients who lost ≥ 15 letters of best-corrected visual acuity (BCVA) in the first year of treatment.
@@ -1252,11 +1088,9 @@ Statistically significant patient-reported visual functioning benefits were obse
 
 In study FVF3192g (PIER), 184 patients with all forms of neovascular AMD were randomised in a 1:1:1 ratio to receive ranibizumab 0.3 mg, ranibizumab 0.5 mg or sham injections once a month for 3 consecutive doses, followed by a dose administered once every 3 months. From Month 14 of the study, sham-treated patients were allowed to receive ranibizumab and from Month 19, more frequent treatments were possible. Patients treated with ranibizumab in PIER received a mean of 10 total treatments.
 
-After an initial increase in visual acuity (following monthly dosing), on average, patients' visual acuity declined with quarterly dosing, returning to baseline at Month 12 and this effect was maintained in most ranibizumab-treated patients (82%) at Month 24. Limited data from sham subjects who later received ranibizumab suggested that early initiation of treatment may be associated with better
+After an initial increase in visual acuity (following monthly dosing), on average, patients' visual acuity declined with quarterly dosing, returning to baseline at Month 12 and this effect was maintained in most ranibizumab-treated patients (82%) at Month 24. Limited data from sham subjects who later received ranibizumab suggested that early initiation of treatment may be associated with better preservation of visual acuity.
 
 <div style=\"page-break-after: always\"></div>
-
-preservation of visual acuity.
 
 Data from two studies (MONT BLANC, BPD952A2308 and DENALI, BPD952A2309) conducted post approval confirmed the efficacy of ranibizumab but did not demonstrate additional effect of the combined administration of verteporfin (Visudyne PDT) and ranibizumab compared to ranibizumab monotherapy.
 
@@ -1285,29 +1119,15 @@ Table 2 Outcomes at Month 3 and 12 (RADIANCE)
 | Mean average BCVA change from Month 1 to Month 12 compared to baseline (letters) | +12.8                                                     | +12.5                                                      | N/A                         |
 | Proportion of patients who gained: ≥ 15 letters, or reached ≥ 84 letters in BCVA | 53.3%                                                     | 51.7%                                                      | N/A                         |
 
-a p&lt; 0.00001 comparison with vPDT control b Comparative control up to Month 3. Patients randomised to vPDT were allowed to receive ranibizumab treatment as of Month 3 (in Group III, 38 patients received ranibizumab as of Month 3)
+a p&lt; 0.00001 comparison with vPDT control
+
+b Comparative control up to Month 3. Patients randomised to vPDT were allowed to receive ranibizumab treatment as of Month 3 (in Group III, 38 patients received ranibizumab as of Month 3)
 
 <div style=\"page-break-after: always\"></div>
 
-20
-
-15-
-
-510-
-
-0
-
--5L
-
-0
-
 Figure 2 Mean change from baseline BCVA over time to Month 12 (RADIANCE)
 
-+12.5
-
 <!-- image -->
-
-1
 
 The improvement of vision was accompanied by a reduction in central retinal thickness.
 
@@ -1324,17 +1144,9 @@ At Month 2, all patients received open-label treatment with ranibizumab as neede
 
 Key outcome measures from MINERVA are summarised in Table 3 and Figure 3. An improvement of vision was observed and was accompanied by a reduction in central subfield thickness over the 12month period.
 
-The mean number of injections given over 12 months was 5.8 in the ranibizumab arm versus 5.4 in
+The mean number of injections given over 12 months was 5.8 in the ranibizumab arm versus 5.4 in those patients in the sham arm who were eligible to receive ranibizumab from Month 2 onwards. In the sham arm 7 out of 59 patients did not receive any treatment with ranibizumab in the study eye during the 12-month period.
 
 <div style=\"page-break-after: always\"></div>
-
-Mean BCVA change +/- 95% CI (letters)
-
-15
-
--5
-
-those patients in the sham arm who were eligible to receive ranibizumab from Month 2 onwards. In the sham arm 7 out of 59 patients did not receive any treatment with ranibizumab in the study eye during the 12-month period. 9.3
 
 Table 3 Outcomes at Month 2 (MINERVA)
 
@@ -1345,11 +1157,15 @@ Table 3 Outcomes at Month 2 (MINERVA)
 | Patients not losing > 15 letters from baseline at Month 2                     | 99.2%                          | 94.7%           |
 | Reduction in CSFT b from baseline to Month 2 a                                | 77 µm                          | -9.8 µm         |
 
-Sham (N=59)
-
 Figure 3 Mean change from baseline BCVA over time to Month 12 (MINERVA)
 
 <!-- image -->
+
+Treatment:-o-Ranibizumab0.5mg(N=119)
+
+Sham (N=59)
+
+*Observed meanBCVAmay differ from theLeast SquaresMean BCVA(applicableonly at Month 2)
 
 When comparing ranibizumab versus sham control at Month 2, a consistent treatment effect both overall and across baseline aetiology subgroups was observed:
 
@@ -1381,24 +1197,6 @@ Key outcome measures are summarised in Table 5 (RESTORE and Extension) and Figur
 ## Figure 4 Mean change in visual acuity from baseline over time in study D2301 (RESTORE)
 
 <div style=\"page-break-after: always\"></div>
-
-Mean VA change from BL + / - SE (letters)
-
-12
-
-10
-
-8
-
-6
-
-4
-
-0
-
--2
-
-4
 
 <!-- image -->
 
@@ -1495,11 +1293,9 @@ At year 1 in the ranibizumab-treated group in Protocol S, ≥ 2-step improvement
 
 An analysis of year 2 data from Protocol S demonstrated that 42.3% (n = 80) of eyes in the ranibizumab-treated group had ≥ 2-step improvement in DRSS from baseline compared with 23.1% (n = 46) of eyes in the PRP group. In the ranibizumab-treated group, ≥ 2-step improvement in DRSS from baseline was observed in 58.5% (n = 24) of eyes with baseline DME and 37.8% (n = 56) of eyes without DME.
 
-DRSS was also assessed in three separate active-controlled phase III DME studies (ranibizumab 0.5 mg PRN vs laser) that included a total of 875 patients, of whom approximately 75% were of Asian origin. In a meta-analysis of these studies, 48.4% of the 315 patients with gradable DRSS scores in the subgroup of patients with moderately severe non-proliferative DR (NPDR) or worse at baseline experienced a ≥ 2-step improvement in the DRSS at Month 12 when treated with ranibizumab (n = 192) vs 14.6% of patients treated with laser (n = 123). The estimated difference between ranibizumab and laser was 29.9% (95% CI: [20.0, 39.7]). In the 405 DRSS gradable patients with
+DRSS was also assessed in three separate active-controlled phase III DME studies (ranibizumab 0.5 mg PRN vs laser) that included a total of 875 patients, of whom approximately 75% were of Asian origin. In a meta-analysis of these studies, 48.4% of the 315 patients with gradable DRSS scores in the subgroup of patients with moderately severe non-proliferative DR (NPDR) or worse at baseline experienced a ≥ 2-step improvement in the DRSS at Month 12 when treated with ranibizumab (n = 192) vs 14.6% of patients treated with laser (n = 123). The estimated difference between ranibizumab and laser was 29.9% (95% CI: [20.0, 39.7]). In the 405 DRSS gradable patients with moderate NPDR or a ≥ 2- step DRSS improvement was observed in 1.4% and 0.9% of the ranibizumab and laser groups, respectively.
 
 <div style=\"page-break-after: always\"></div>
-
-moderate NPDR or a ≥ 2- step DRSS improvement was observed in 1.4% and 0.9% of the ranibizumab and laser groups, respectively.
 
 ## Treatment of visual impairment due to macular oedema secondary to RVO
 
@@ -1524,47 +1320,19 @@ Figure 5 Mean change from baseline BCVA over time to Month 6 and Month 12 (BRAVO
 
 <div style=\"page-break-after: always\"></div>
 
-20
-
-18
-
-Mean VA change from BL + - SE (letters)
-
-14
-
-2
-
-Mean VA change from BL +- SE (letters)
-
-2
-
-0
-
-0
-
-BL-baseline; SE-standard error of mean
-
-+ 18.3
-
-+ 14.9
-
 <!-- image -->
 
-BL-baseline: SE-standard error of mean
+BL=baseline:SE=standard errorofmean
 
 Figure 6 Mean change from baseline BCVA over time to Month 6 and Month 12 (CRUISE)
 
 <!-- image -->
 
-In both studies, the improvement of vision was accompanied by a continuous and significant reduction sham-controlled
+BL-baseline;SE=standard error ofmean
 
-sham-controlled arm crossed-over to ranibizumab
-
-:: *103
+In both studies, the improvement of vision was accompanied by a continuous and significant reduction in the macular oedema as measured by central retinal thickness.
 
 <div style=\"page-break-after: always\"></div>
-
-in the macular oedema as measured by central retinal thickness.
 
 In patients with CRVO (CRUISE and extension study HORIZON): Subjects treated with sham in the first 6 months who subsequently received ranibizumab did not achieve comparable gains in visual acuity by Month 24 (~6 letters) compared to subjects treated with ranibizumab from study start (~12 letters).
 
@@ -1596,11 +1364,9 @@ In BRIGHTER, ranibizumab 0.5 mg with adjunctive laser therapy demonstrated non-i
 
 In both studies, a rapid and statistically significant decrease from baseline in central retinal subfield thickness was observed at Month 1. This effect was maintained up to Month 24.
 
-The effect of ranibizumab treatment was similar irrespective of the presence of retinal ischaemia. In BRIGHTER, patients with ischaemia present (N = 46) or absent (N = 133) and treated with ranibizumab monotherapy had a mean change from baseline of +15.3 and +15.6 letters, respectively, at Month 24. In CRYSTAL, patients with ischaemia present (N = 53) or absent (N = 300) and treated
+The effect of ranibizumab treatment was similar irrespective of the presence of retinal ischaemia. In BRIGHTER, patients with ischaemia present (N = 46) or absent (N = 133) and treated with ranibizumab monotherapy had a mean change from baseline of +15.3 and +15.6 letters, respectively, at Month 24. In CRYSTAL, patients with ischaemia present (N = 53) or absent (N = 300) and treated with ranibizumab monotherapy had a mean change from baseline of +15.0 and +11.5 letters, respectively.
 
 <div style=\"page-break-after: always\"></div>
-
-with ranibizumab monotherapy had a mean change from baseline of +15.0 and +11.5 letters, respectively.
 
 The effect in terms of visual improvement was observed in all patients treated with 0.5 mg ranibizumab monotherapy regardless of their disease duration in both BRIGHTER and CRYSTAL. In patients with &lt; 3 months disease duration an increase in visual acuity of 13.3 and 10.0 letters was seen at Month 1; and 17.7 and 13.2 letters at Month 24 in BRIGHTER and CRYSTAL, respectively. The corresponding visual acuity gain in patients with ≥ 12 months disease duration was 8.6 and 8.4 letters in the respective studies. Treatment initiation at the time of diagnosis should be considered.
 
@@ -1624,11 +1390,9 @@ Hepatic impairment: No formal studies have been conducted to examine the pharmac
 
 ## 5.3 Preclinical safety data
 
-Bilateral intravitreal administration of ranibizumab to cynomolgus monkeys at doses between 0.25 mg/eye and 2.0 mg/eye once every 2 weeks for up to 26 weeks resulted in dose-dependent ocular
+Bilateral intravitreal administration of ranibizumab to cynomolgus monkeys at doses between 0.25 mg/eye and 2.0 mg/eye once every 2 weeks for up to 26 weeks resulted in dose-dependent ocular effects.
 
 <div style=\"page-break-after: always\"></div>
-
-effects.
 
 Intraocularly, there were dose-dependent increases in anterior chamber flare and cells with a peak 2 days after injection. The severity of the inflammatory response generally diminished with subsequent injections or during recovery. In the posterior segment, there were vitreal cell infiltration and floaters, which also tended to be dose-dependent and generally persisted to the end of the treatment period. In the 26-week study, the severity of the vitreous inflammation increased with the number of injections. However, evidence of reversibility was observed after recovery. The nature and timing of the posterior segment inflammation is suggestive of an immune-mediated antibody response, which may be clinically irrelevant. Cataract formation was observed in some animals after a relatively long period of intense inflammation, suggesting that the lens changes were secondary to severe inflammation. A transient increase in post-dose intraocular pressure was observed following intravitreal injections, irrespective of dose.
 
@@ -1657,10 +1421,6 @@ In the absence of compatibility studies, this medicinal product must not be mixe
 1 8 months
 
 <div style=\"page-break-after: always\"></div>
-
-Syringe cap
-
-Finger grip
 
 ## 6.4 Special precautions for storage
 
@@ -1691,12 +1451,6 @@ To prepare Ranluspec for intravitreal administration, please adhere to the instr
 | Pre-filled syringe description |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 
 <div style=\"page-break-after: always\"></div>
-
-Air bubble
-
-Higure ? Ramaval n
-
-T
 
 <!-- image -->
 
@@ -1777,11 +1531,9 @@ An updated RMP should be submitted:
 
 Prior to launch in each Member State the MAH shall agree the final educational material with the National Competent Authority.
 
-The MAH shall ensure that, following discussions and agreements with the National Competent Authorities in each Member State where Ranluspec is marketed, at launch and after launch all
+The MAH shall ensure that, following discussions and agreements with the National Competent Authorities in each Member State where Ranluspec is marketed, at launch and after launch all ophthalmological clinics where Ranluspec is expected to be used are provided with an up-to-date patient information pack.
 
 <div style=\"page-break-after: always\"></div>
-
-ophthalmological clinics where Ranluspec is expected to be used are provided with an up-to-date patient information pack.
 
 The patient information pack should be provided in both the form of patient information booklets and an audio-CD that contain following key elements:
 
@@ -1809,7 +1561,9 @@ CARTON VIAL
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Ranluspec 10 mg/mL solution for injection ranibizumab
+Ranluspec 10 mg/mL solution for injection
+
+ranibizumab
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -2080,7 +1834,9 @@ This medicine is subject to additional monitoring. This will allow quick identif
 
 ## What Ranluspec is
 
-Ranluspec is a solution which is injected into the eye. Ranluspec belongs to a group of medicines called antineovascularisation agents. It contains the active substance called ranibizumab.
+Ranluspec is a solution which is injected into the eye. Ranluspec belongs to a group of medicines called
+
+antineovascularisation agents. It contains the active substance called ranibizumab.
 
 ## What Ranluspec is used for
 
@@ -2141,11 +1897,9 @@ This medicine contains 0.005 mg of polysorbate 20 in each dose of 0.05 mL which 
 
 ## 3. How Ranluspec is given
 
-Ranluspec is administered as a single injection into your eye by your eye doctor under a local
+Ranluspec is administered as a single injection into your eye by your eye doctor under a local anaesthetic. The usual dose of an injection is 0.05 mL (which contains 0.5 mg of ranibizumab). The interval between two doses injected into the same eye should be at least four weeks. All injections will be administered by your eye doctor.
 
 <div style=\"page-break-after: always\"></div>
-
-anaesthetic. The usual dose of an injection is 0.05 mL (which contains 0.5 mg of ranibizumab). The interval between two doses injected into the same eye should be at least four weeks. All injections will be administered by your eye doctor.
 
 Before the injection, your doctor will wash your eye carefully to prevent infection. Your doctor will also give you a local anaesthetic to reduce or prevent any pain you might have with the injection.
 
@@ -2187,11 +1941,9 @@ Other side effects which may occur following Ranluspec treatment are described b
 
 ## Common side effects
 
-Visual side effects include: Decreased sharpness of vision, swelling of a section of the eye (uvea, cornea), inflammation of the cornea (front part of eye), small marks on the surface of the eye, blurred vision, bleeding at the site of injection, bleeding in the eye, discharge from the eye with itching, redness and swelling (conjunctivitis), light sensitivity, eye discomfort, swelling of the eyelid, eyelid
+Visual side effects include: Decreased sharpness of vision, swelling of a section of the eye (uvea, cornea), inflammation of the cornea (front part of eye), small marks on the surface of the eye, blurred vision, bleeding at the site of injection, bleeding in the eye, discharge from the eye with itching, redness and swelling (conjunctivitis), light sensitivity, eye discomfort, swelling of the eyelid, eyelid pain.
 
 <div style=\"page-break-after: always\"></div>
-
-pain.
 
 Non-visual side effects include: Urinary tract infection, low red blood cells count (with symptoms such as tiredness, breathlessness, dizziness, pale skin), anxiety, cough, nausea, allergic reactions like rash, hives, itching and skin reddening.
 
@@ -2391,11 +2143,9 @@ Ranibizumab and verteporfin photodynamic therapy in CNV secondary to PM There is
 
 Ranluspec should be inspected visually for particulate matter and discoloration prior to administration.
 
-The injection procedure should be carried out under aseptic conditions, which includes the use of surgical hand disinfection, sterile gloves, a sterile drape and a sterile eyelid speculum (or equivalent) and the availability of sterile paracentesis (if required). The patient's medical history for
+The injection procedure should be carried out under aseptic conditions, which includes the use of surgical hand disinfection, sterile gloves, a sterile drape and a sterile eyelid speculum (or equivalent) and the availability of sterile paracentesis (if required). The patient's medical history for hypersensitivity reactions should be carefully evaluated prior to performing the intravitreal procedure. Adequate anaesthesia and a broad-spectrum topical microbicide to disinfect the periocular skin, eyelid and ocular surface should be administered prior to the injection, in accordance with local practice.
 
 <div style=\"page-break-after: always\"></div>
-
-hypersensitivity reactions should be carefully evaluated prior to performing the intravitreal procedure. Adequate anaesthesia and a broad-spectrum topical microbicide to disinfect the periocular skin, eyelid and ocular surface should be administered prior to the injection, in accordance with local practice.
 
 The vial is for single use only. After injection any unused product must be discarded. Any vial showing signs of damage or tampering must not be used. The sterility cannot be guaranteed unless the packaging seal remains intact. For preparation and intravitreal injection the following medical devices for single use are needed:
 
@@ -2419,8 +2169,6 @@ To prepare Ranluspec for intravitreal administration to adult patients, please a
 | Attach a 30-gauge × 1/2-inch sterile injection needle firmly onto the syringe by screwing it tightly onto the Luer lock. Carefully remove the needle cap by pulling it straight off. Do not wipe the needle at any time. Note: Grip at the hub of the injection needle while removing the cap.                                                                                                                                                |
 
 <div style=\"page-break-after: always\"></div>
-
-0.05mL→
 
 <!-- image -->
 
@@ -2521,11 +2269,9 @@ This medicine contains 0.005 mg of polysorbate 20 in each dose of 0.05 mL which 
 
 ## 3. How Ranluspec is given
 
-Ranluspec is administered as a single injection into your eye by your eye doctor under a local anaesthetic. The usual dose of an injection is 0.05 mL (which contains 0.5 mg of ranibizumab). The
+Ranluspec is administered as a single injection into your eye by your eye doctor under a local anaesthetic. The usual dose of an injection is 0.05 mL (which contains 0.5 mg of ranibizumab). The pre-filled syringe contains more than the recommended dose of 0.5 mg. The extractable volume is not to be used in total. The excess volume should be expelled prior to injection. Injecting the entire volume of the pre-filled syringe could result in overdose.
 
 <div style=\"page-break-after: always\"></div>
-
-pre-filled syringe contains more than the recommended dose of 0.5 mg. The extractable volume is not to be used in total. The excess volume should be expelled prior to injection. Injecting the entire volume of the pre-filled syringe could result in overdose.
 
 The interval between two doses injected into the same eye should be at least four weeks. All injections will be administered by your eye doctor.
 
@@ -2567,11 +2313,9 @@ Visual side effects include: Inflammation of the eye, bleeding in the back of th
 
 Other side effects which may occur following Ranluspec treatment are described below:
 
-Common side effects
+Common side effects Visual side effects include: Decreased sharpness of vision, swelling of a section of the eye (uvea, cornea), inflammation of the cornea (front part of eye), small marks on the surface of the eye, blurred vision, bleeding at the site of injection, bleeding in the eye, discharge from the eye with itching, redness and swelling (conjunctivitis), light sensitivity, eye discomfort, swelling of the eyelid, eyelid pain.
 
 <div style=\"page-break-after: always\"></div>
-
-Visual side effects include: Decreased sharpness of vision, swelling of a section of the eye (uvea, cornea), inflammation of the cornea (front part of eye), small marks on the surface of the eye, blurred vision, bleeding at the site of injection, bleeding in the eye, discharge from the eye with itching, redness and swelling (conjunctivitis), light sensitivity, eye discomfort, swelling of the eyelid, eyelid pain.
 
 Non-visual side effects include: Urinary tract infection, low red blood cells count (with symptoms such as tiredness, breathlessness, dizziness, pale skin), anxiety, cough, nausea, allergic reactions like rash, hives, itching and skin reddening.
 
@@ -2815,10 +2559,6 @@ The injection procedure should be carried out under aseptic conditions, which in
 
 <div style=\"page-break-after: always\"></div>
 
-inge tray and using aseptic technique, remove the syringe.
-
-Finger grip
-
 Adequate anaesthesia and a broad-spectrum topical microbicide to disinfect the periocular skin, eyelid and ocular surface should be administered prior to the injection, in accordance with local practice.
 
 The pre-filled syringe is for single use only. The pre-filled syringe is sterile. Do not use the product if the packaging is damaged. The sterility of the pre-filled syringe cannot be guaranteed unless the tray remains sealed. Do not use the pre-filled syringe if the solution is discoloured, cloudy or contains particles.
@@ -2837,17 +2577,7 @@ To prepare Ranluspec for intravitreal administration, please adhere to the instr
 | Step 1                         | PREPARATION: Make sure that your pack contains a sterile prefilled syringe in a sealed tray. Peel the lid off the syringe tray and using aseptic technique, remove the syringe.                                                                                                                                                                                                                                                                                                                                                                                                           |
 | Step 2                         | INSPECT SYRINGE: 1. RANIBIZUMAB should be clear to slightly opalescent. 2. Do not use the prefilled syringe if: -The syringe cap is detached from the Luer lock. - The syringe is damaged. - Particulates, cloudiness, or Figure 2 Ranluspec 0.5 mg prefilled syringe with a White finger grip.                                                                                                                                                                                                                                                                                           |
 
-Syringe cap
-
 <div style=\"page-break-after: always\"></div>
-
-Air bubble
-
-Dimm Nagla o*łoman
-
-Rioure ? Removal o
-
-Rinura C Pamovol of oir huhhla
 
 <!-- image -->
 

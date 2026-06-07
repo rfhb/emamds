@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-07-08 11:14:10
+document_datetime: 2026-06-05 15:46:48
 document_pages: 48
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/zarzio-epar-product-information_en.pdf
 document_name: zarzio-epar-product-information_en.pdf
 version: success
-processing_time: 14.1590474
-conversion_datetime: 2025-12-15 21:24:55.445578
+processing_time: 20.617579
+conversion_datetime: 2026-06-07 11:59:37.321308
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.21.0
+  docling-jobkit: 1.20.1
+  docling: 2.97.0
+  docling-core: 2.78.0
+  docling-ibm-models: 3.13.2
+  docling-parse: 6.2.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -28,7 +28,9 @@ Zarzio 30 MU/0.5 mL solution for injection or infusion in pre-filled syringe Zar
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
-Zarzio 30 MU/0.5 mL solution for injection or infusion in pre-filled syringe Each mL of solution contains 60 million units (MU) (equivalent to 600 micrograms [mcg]) filgrastim*.
+Zarzio 30 MU/0.5 mL solution for injection or infusion in pre-filled syringe Each mL of solution contains 60 million units (MU) (equivalent to 600 micrograms [mcg])
+
+filgrastim*.
 
 Each pre-filled syringe contains 30 MU (equivalent to 300 mcg) filgrastim in 0.5 mL.
 
@@ -281,11 +283,9 @@ In the post-marketing observational study, myelodysplastic syndrome (MDS) and ac
 
 ## Other special precautions
 
-The effects of filgrastim in patients with substantially reduced myeloid progenitors have not been studied. Filgrastim acts primarily on neutrophil precursors to exert its effect in elevating neutrophil counts. Therefore, in patients with reduced precursors, neutrophil response may be diminished (such
+The effects of filgrastim in patients with substantially reduced myeloid progenitors have not been studied. Filgrastim acts primarily on neutrophil precursors to exert its effect in elevating neutrophil counts. Therefore, in patients with reduced precursors, neutrophil response may be diminished (such as those treated with extensive radiotherapy or chemotherapy, or those with bone marrow infiltration by tumour).
 
 <div style=\"page-break-after: always\"></div>
-
-as those treated with extensive radiotherapy or chemotherapy, or those with bone marrow infiltration by tumour).
 
 Vascular disorders, including veno-occlusive disease and fluid volume disturbances, have been reported occasionally in patients undergoing high dose chemotherapy followed by transplantation.
 
@@ -303,7 +303,7 @@ There are no prospectively randomised comparisons of the two recommended mobilis
 
 ## Prior exposure to cytotoxic agents
 
-Patients who have undergone very extensive prior myelosuppressive therapy may not show sufficient mobilisation of PBPC to achieve the recommended minimum yield (≥ 2.0 × 10 6 CD34 +  cells/kg) or acceleration of platelet recovery to the same degree.
+Patients who have undergone very extensive prior myelosuppressive therapy may not show sufficient mobilisation of PBPC to achieve the recommended minimum yield (≥ 2.0 × 10 6  CD34 + cells/kg) or acceleration of platelet recovery to the same degree.
 
 Some cytotoxic agents exhibit particular toxicities to the haematopoietic progenitor pool and may adversely affect progenitor mobilisation. Agents such as melphalan, carmustine (BCNU) and carboplatin, when administered over prolonged periods prior to attempts at progenitor mobilisation may reduce progenitor yield. However, the administration of melphalan, carboplatin or BCNU together with filgrastim has been shown to be effective for progenitor mobilisation. When a PBPC transplantation is envisaged it is advisable to plan the stem cell mobilisation procedure early in the treatment course of the patient. Particular attention should be paid to the number of progenitors mobilised in such patients before the administration of high-dose chemotherapy. If yields are inadequate, as measured by the criteria above, alternative forms of treatment not requiring progenitor support should be considered.
 
@@ -315,7 +315,7 @@ Statistical analysis of the relationship between the number of CD34 + cells re-i
 
 <div style=\"page-break-after: always\"></div>
 
-The recommendation of a minimum yield of ≥ 2.0 × 10 6 CD34 +  cells/kg is based on published experience resulting in adequate haematologic reconstitution. Yields in excess of this appear to correlate with more rapid recovery, those below with slower recovery.
+The recommendation of a minimum yield of ≥ 2.0 × 10 6  CD34 + cells/kg is based on published experience resulting in adequate haematologic reconstitution. Yields in excess of this appear to correlate with more rapid recovery, those below with slower recovery.
 
 ## Special precautions in normal donors undergoing PBPC mobilisation
 
@@ -349,11 +349,9 @@ Other blood cell changes occur, including anaemia and transient increases in mye
 
 Special care should be taken in the diagnosis of SCNs to distinguish them from other haematopoietic disorders such as aplastic anaemia, myelodysplasia, and myeloid leukaemia. Complete blood cell counts with differential and platelet counts, and an evaluation of bone marrow morphology and karyotype should be performed prior to treatment.
 
-There was a low frequency (approximately 3%) of myelodysplastic syndromes (MDS) or leukaemia in clinical trial patients with SCN treated with filgrastim. This observation has only been made in patients with congenital neutropenia. MDS and leukaemias are natural complications of the disease and are of uncertain relation to filgrastim therapy. A subset of approximately 12% of patients who had
+There was a low frequency (approximately 3%) of myelodysplastic syndromes (MDS) or leukaemia in clinical trial patients with SCN treated with filgrastim. This observation has only been made in patients with congenital neutropenia. MDS and leukaemias are natural complications of the disease and are of uncertain relation to filgrastim therapy. A subset of approximately 12% of patients who had normal cytogenetic evaluations at baseline was subsequently found to have abnormalities, including monosomy 7, on routine repeat evaluation. It is currently unclear whether long-term treatment of patients with SCN will predispose patients to cytogenetic abnormalities, MDS or leukaemic transformation. It is recommended to perform morphologic and cytogenetic bone marrow examinations in patients at regular intervals (approximately every 12 months).
 
 <div style=\"page-break-after: always\"></div>
-
-normal cytogenetic evaluations at baseline was subsequently found to have abnormalities, including monosomy 7, on routine repeat evaluation. It is currently unclear whether long-term treatment of patients with SCN will predispose patients to cytogenetic abnormalities, MDS or leukaemic transformation. It is recommended to perform morphologic and cytogenetic bone marrow examinations in patients at regular intervals (approximately every 12 months).
 
 ## Other special precautions
 
@@ -421,11 +419,9 @@ Filgrastim may have a minor influence on the ability to drive and use machines. 
 
 ## a. Summary of the safety profile
 
-The most serious adverse reactions that may occur during filgrastim treatment include: anaphylactic reaction, serious pulmonary adverse events (including interstitial pneumonia and ARDS), capillary leak syndrome, severe splenomegaly/splenic rupture, transformation to myelodysplastic syndrome or
+The most serious adverse reactions that may occur during filgrastim treatment include: anaphylactic reaction, serious pulmonary adverse events (including interstitial pneumonia and ARDS), capillary leak syndrome, severe splenomegaly/splenic rupture, transformation to myelodysplastic syndrome or leukaemia in SCN patients, GvHD in patients receiving allogeneic bone marrow transfer or peripheral blood cell progenitor cell transplant and sickle cell crisis in patients with sickle cell disease.
 
 <div style=\"page-break-after: always\"></div>
-
-leukaemia in SCN patients, GvHD in patients receiving allogeneic bone marrow transfer or peripheral blood cell progenitor cell transplant and sickle cell crisis in patients with sickle cell disease.
 
 The most commonly reported adverse reactions are pyrexia, musculoskeletal pain (which includes bone pain, back pain, arthralgia, myalgia, pain in extremity, musculoskeletal pain, musculoskeletal chest pain, neck pain), anaemia, vomiting, and nausea. In clinical trials in cancer patients musculoskeletal pain was mild or moderate in 10%, and severe in 3% of patients.
 
@@ -462,11 +458,9 @@ a See section c (Description of selected adverse reactions)
 
 b There have been reports of GvHD and fatalities in patients after allogeneic bone marrow transplantation (see section c)
 
-c Includes bone pain, back pain, arthralgia, myalgia, pain in extremity, musculoskeletal pain, musculoskeletal chest pain, neck pain
+c Includes bone pain, back pain, arthralgia, myalgia, pain in extremity, musculoskeletal pain, musculoskeletal chest pain, neck pain d Cases were observed in the post-marketing setting in patients undergoing bone marrow transplant or PBPC mobilisation e Adverse events with higher incidence in filgrastim patients compared to placebo and associated with the sequelae of the underlying malignancy or cytotoxic chemotherapy
 
 <div style=\"page-break-after: always\"></div>
-
-d Cases were observed in the post-marketing setting in patients undergoing bone marrow transplant or PBPC mobilisation e Adverse events with higher incidence in filgrastim patients compared to placebo and associated with the sequelae of the underlying malignancy or cytotoxic chemotherapy
 
 ## c. Description of selected adverse reactions
 
@@ -540,11 +534,9 @@ Pharmacotherapeutic group: Immunostimulants, colony stimulating factors, ATC cod
 
 Zarzio is a biosimilar medicinal product. Detailed information is available on the website of the European Medicines Agency http://www.ema.europa.eu.
 
-Human G-CSF is a glycoprotein which regulates the production and release of functional neutrophils from the bone marrow. Zarzio containing r-metHuG-CSF (filgrastim) causes marked increases in peripheral blood neutrophil counts within 24 hours, with minor increases in monocytes. In some SCN patients filgrastim can also induce a minor increase in the number of circulating eosinophils and basophils relative to baseline; some of these patients may present with eosinophilia or basophilia
+Human G-CSF is a glycoprotein which regulates the production and release of functional neutrophils from the bone marrow. Zarzio containing r-metHuG-CSF (filgrastim) causes marked increases in peripheral blood neutrophil counts within 24 hours, with minor increases in monocytes. In some SCN patients filgrastim can also induce a minor increase in the number of circulating eosinophils and basophils relative to baseline; some of these patients may present with eosinophilia or basophilia already prior to treatment. Elevations of neutrophil counts are dose-dependent at recommended doses. Neutrophils produced in response to filgrastim show normal or enhanced function as demonstrated by tests of chemotactic and phagocytic function. Following termination of filgrastim therapy, circulating neutrophil counts decrease by 50% within 1 - 2 days, and to normal levels within 1 - 7 days.
 
 <div style=\"page-break-after: always\"></div>
-
-already prior to treatment. Elevations of neutrophil counts are dose-dependent at recommended doses. Neutrophils produced in response to filgrastim show normal or enhanced function as demonstrated by tests of chemotactic and phagocytic function. Following termination of filgrastim therapy, circulating neutrophil counts decrease by 50% within 1 - 2 days, and to normal levels within 1 - 7 days.
 
 Use of filgrastim in patients undergoing cytotoxic chemotherapy leads to significant reductions in the incidence, severity and duration of neutropenia and febrile neutropenia. Treatment with filgrastim significantly reduces the duration of febrile neutropenia, antibiotic use and hospitalisation after induction chemotherapy for acute myelogenous leukaemia or myeloablative therapy followed by bone marrow transplantation. The incidence of fever and documented infections were not reduced in either setting. The duration of fever was not reduced in patients undergoing myeloablative therapy followed by bone marrow transplantation.
 
@@ -603,11 +595,9 @@ Effects of filgrastim on prenatal development have been studied in rats and rabb
 
 Based on reported data for another filgrastim product similar to the reference filgrastim product, comparable findings plus increased foetal malformations were observed at 100 mcg/kg/day, a maternally toxic dose which corresponded to a systemic exposure of approximately 50 - 90 times the exposures observed in patients treated with the clinical dose of 5 mcg/kg/day. The no observed adverse effect level for embryo-foetal toxicity in this study was 10 mcg/kg/day, which corresponded to a systemic exposure of approximately 3 - 5 times the exposures observed in patients treated with the clinical dose.
 
-In pregnant rats, no maternal or foetal toxicity was observed at doses up to 575 mcg/kg/day. Offspring of rats administered filgrastim during the peri-natal and lactation periods, exhibited a delay in external
+In pregnant rats, no maternal or foetal toxicity was observed at doses up to 575 mcg/kg/day. Offspring of rats administered filgrastim during the peri-natal and lactation periods, exhibited a delay in external differentiation and growth retardation (≥ 20 mcg/kg/day) and slightly reduced survival rate (100 mcg/kg/day).
 
 <div style=\"page-break-after: always\"></div>
-
-differentiation and growth retardation (≥ 20 mcg/kg/day) and slightly reduced survival rate (100 mcg/kg/day).
 
 Filgrastim had no observed effect on the fertility of male or female rats.
 
@@ -685,11 +675,7 @@ Sandoz GmbH Biochemiestr. 10 6250 Kundl Austria
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-Zarzio 30 MU/0.5 mL solution for injection or infusion in pre-filled syringe
-
-EU/1/08/495/001 EU/1/08/495/002
-
-EU/1/08/495/003 EU/1/08/495/004
+Zarzio 30 MU/0.5 mL solution for injection or infusion in pre-filled syringe EU/1/08/495/001 EU/1/08/495/002
 
 <div style=\"page-break-after: always\"></div>
 
@@ -773,7 +759,9 @@ An updated RMP should be submitted:
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Zarzio 30 MU/0.5 mL solution for injection or infusion in pre-filled syringe filgrastim
+Zarzio 30 MU/0.5 mL solution for injection or infusion in pre-filled syringe
+
+filgrastim
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -787,7 +775,8 @@ Excipients: glutamic acid, polysorbate 80, sodium hydroxide, water for injection
 
 Solution for injection or infusion in pre-filled syringe.
 
-- 1 pre-filled syringe with a needle safety guard
+1 pre-filled syringe with a needle safety guard
+
 - 3 pre-filled syringes with a needle safety guard
 - 5 pre-filled syringes with a needle safety guard
 - 10 pre-filled syringes with a needle safety guard
@@ -841,8 +830,11 @@ EU/1/08/495/004
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
-15. INSTRUCTIONS ON USE
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
+
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
@@ -854,8 +846,8 @@ Zarzio 30 MU/0.5 mL
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER-HUMANREADABLE DATA   |
-|-------|----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
+|-------|-----------------------------------------|
 
 PC:
 
@@ -871,7 +863,9 @@ NN:
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Zarzio 48 MU/0.5 mL solution for injection or infusion in pre-filled syringe filgrastim
+Zarzio 48 MU/0.5 mL solution for injection or infusion in pre-filled syringe
+
+filgrastim
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -885,7 +879,8 @@ Excipients: glutamic acid, polysorbate 80, sodium hydroxide, water for injection
 
 Solution for injection or infusion in pre-filled syringe.
 
-- 1 pre-filled syringe with a needle safety guard
+1 pre-filled syringe with a needle safety guard
+
 - 3 pre-filled syringes with a needle safety guard
 - 5 pre-filled syringes with a needle safety guard
 - 10 pre-filled syringes with a needle safety guard
@@ -948,8 +943,8 @@ Zarzio 48 MU/0.5 mL
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER-HUMANREADABLE DATA   |
-|-------|----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
+|-------|-----------------------------------------|
 
 PC:
 
@@ -1248,7 +1243,7 @@ A common side effect of filgrastim use is pain in your muscles or bones (musculo
 - disease which causes bones to become less dense, making them weaker, more brittle and likely to break (osteoporosis)
 - injection site reaction
 
-Rare side effects (may affect up to 1 in 1,000 people):
+## Rare side effects (may affect up to 1 in 1,000 people):
 
 - severe pain in the bones, chest, gut or joints (sickle cell anaemia with crisis)
 - sudden life-threatening allergic reaction (anaphylactic reaction)
@@ -1327,17 +1322,13 @@ Tél/Tel: +32 2 722 97 97
 
 Lietuva
 
-Sandoz Pharmaceuticals d.d filialas
-
-Tel: +370 5 2636 037
+Sandoz Pharmaceuticals d.d filialas Tel: +370 5 2636 037
 
 ## България
 
 Сандоз България КЧТ
 
-Тел
-
-.: +359 2 970 47 47
+Тел.: +359 2 970 47 47
 
 Luxembourg/Luxemburg
 
@@ -1371,7 +1362,7 @@ Tel: +372 665 2400
 
 ## Ελλάδα
 
-SANDOZ HELLAS ΜΟΝΟΠΡΟΣΩΠΗ Α . Ε .
+SANDOZ HELLAS ΜΟΝΟΠΡΟΣΩΠΗ Α.Ε.
 
 Τηλ: +30 216 600 5000
 
@@ -1407,7 +1398,7 @@ Tel: +39 02 96541
 
 ## Κύπρος
 
-SANDOZ HELLAS ΜΟΝΟΠΡΟΣΩΠΗ Α . Ε . Τηλ: +30 216 600 5000
+SANDOZ HELLAS ΜΟΝΟΠΡΟΣΩΠΗ Α.Ε. Τηλ: +30 216 600 5000
 
 ## Latvija
 
@@ -1461,7 +1452,7 @@ Tel: +351 21 000 86 00
 
 Sandoz Pharmaceuticals SRL
 
-Tel: +40 264 50 15 00
+Tel: +40 21 407 51 60
 
 ## Slovenija
 
@@ -1539,8 +1530,6 @@ Figure 7-3 Injection sites
 
 <!-- image -->
 
-<!-- image -->
-
 The injection site is the place on the body where you are going to use the pre-filled syringe.
 
 - The recommended site is the front of your thighs. You may also use the lower abdomen, but not the area 5 cm (2 inches) around the navel (belly button).
@@ -1564,13 +1553,11 @@ Figure 7-5 DO NOT USE
 
 <!-- image -->
 
-In this configuration the needle guard is ACTIVATED DO NOT USE the pre-filled syringe
+In this configuration the needle guard is ACTIVATED DO NOT USE the pre-filled syringe In this configuration the needle guard is NOT ACTIVATED and the pre-filled syringe is ready for use
 
 <div style=\"page-break-after: always\"></div>
 
 <!-- image -->
-
-In this configuration the needle guard is NOT ACTIVATED and the pre-filled syringe is ready for use
 
 6. Inspect the pre-filled syringe. The liquid should be clear. The color may be colorless to slightly yellowish, DO NOT USE if any other particulates and/or discolorations are observed and return the pre-filled syringe and the package it came in to the pharmacy.
 7. DO NOT USE if the pre-filled syringe is broken or the needle guard activated. In all these instances, return the entire product pack to the pharmacy.

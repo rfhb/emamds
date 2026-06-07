@@ -1,21 +1,97 @@
 ---
-document_datetime: 2026-04-24 15:05:00
+document_datetime: 2026-05-29 16:16:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/ranluspec.html
 document_name: ranluspec.html
 version: success
-processing_time: 0.1152955
-conversion_datetime: 2026-04-25 16:02:21.467845
+processing_time: 0.110653
+conversion_datetime: 2026-06-07 11:52:02.143049
 docling_version:
-  docling-serve: 1.16.1
-  docling-jobkit: 1.17.1
-  docling: 2.90.0
-  docling-core: 2.74.0
-  docling-ibm-models: 3.13.0
-  docling-parse: 5.9.0
+  docling-serve: 1.21.0
+  docling-jobkit: 1.20.1
+  docling: 2.97.0
+  docling-core: 2.78.0
+  docling-ibm-models: 3.13.2
+  docling-parse: 6.2.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
 ---
+# Search
+
+- [Medicines](/en/medicines)
+    - [Find medicine](/en/medicines)
+    - [Therapeutic areas: latest updates](/en/medicines/therapeutic-areas-latest-updates)
+    - [Download medicine data](/en/medicines/download-medicine-data)
+    - [What we publish on medicines and when](/en/medicines/what-we-publish-medicines-when)
+    - [Medicines under evaluation](/en/medicines/medicines-human-use-under-evaluation)
+    - [National registers](/en/medicines/national-registers-authorised-medicines)
+- [Human regulatory](/en/human-regulatory-overview)
+    - [Overview](/en/human-regulatory-overview)
+    - [Research and development](/en/human-regulatory-overview/research-development)
+    - [Marketing authorisation](/en/human-regulatory-overview/marketing-authorisation)
+    - [Post-authorisation](/en/human-regulatory-overview/post-authorisation)
+    - [Medical devices](/en/human-regulatory-overview/medical-devices)
+    - [Herbal products](/en/human-regulatory-overview/herbal-medicinal-products)
+- [Veterinary regulatory](/en/veterinary-regulatory-overview)
+    - [Overview](/en/veterinary-regulatory-overview)
+    - [Research and development](/en/veterinary-regulatory-overview/research-development-veterinary-medicines)
+    - [Marketing authorisation](/en/veterinary-regulatory-overview/marketing-authorisation-veterinary-medicines)
+    - [Post-authorisation](/en/veterinary-regulatory-overview/post-authorisation-veterinary-medicines)
+- [Committees](/en/committees)
+    - [Overview](/en/committees)
+    - [How the committees work](/en/committees/how-committees-work)
+    - [CHMP](/en/committees/committee-medicinal-products-human-use-chmp)
+    - [CVMP](/en/committees/committee-veterinary-medicinal-products-cvmp)
+    - [PRAC](/en/committees/pharmacovigilance-risk-assessment-committee-prac)
+    - [COMP](/en/committees/committee-orphan-medicinal-products-comp)
+    - [HMPC](/en/committees/committee-herbal-medicinal-products-hmpc)
+    - [CAT](/en/committees/committee-advanced-therapies-cat)
+    - [PDCO](/en/committees/paediatric-committee-pdco)
+    - [Working parties and other groups](/en/committees/working-parties-other-groups)
+- [News &amp; events](/en/news-events)
+    - [Overview](/en/news-events)
+    - [News](/en/news)
+    - [Events](/en/events/upcoming-events)
+    - [What's new](/en/news-events/whats-new)
+    - [Committee highlights](/en/news-events/committee-highlights)
+    - [Publications](/en/news-and-events/publications)
+    - [Press and social media](/en/news-events/press-social-media)
+    - [Podcast: Inside EMA](/en/news-events/podcast-inside-ema)
+    - [EMA Campaigns](/en/news-events/ema-campaigns)
+    - [Open consultations](/en/news-events/open-consultations)
+    - [RSS feeds](/en/news-events/rss-feeds)
+- [Partners &amp; networks](/en/partners-networks)
+    - [Overview](/en/partners-networks)
+    - [EU partners](/en/partners-networks/eu-partners)
+    - [International activities](/en/partners-networks/international-activities)
+    - [Patients and consumers](/en/partners-networks/patients-consumers)
+    - [Healthcare professionals](/en/partners-networks/healthcare-professionals)
+    - [Academia](/en/partners-networks/academia)
+    - [Pharmaceutical industry](/en/partners-networks/pharmaceutical-industry)
+    - [Networks](/en/partners-networks/networks)
+    - [Health technology assessment bodies](/en/partners-networks/health-technology-assessment-bodies)
+    - [One Health approach](/en/partners-networks/one-health-approach)
+    - [Animal health practitioners](/en/partners-networks/animal-health-practitioners)
+    - [One substance - one assessment](/en/partners-networks/one-substance-one-assessment-osoa-eu-collaboration-chemicals-related-data)
+- [About us](/en/about-us)
+    - [Overview](/en/about-us)
+    - [What we do](/en/about-us/what-we-do)
+    - [Who we are](/en/about-us/who-we-are)
+    - [How we work](/en/about-us/how-we-work)
+    - [Fees](/en/about-us/fees-payable-european-medicines-agency)
+    - [Support to SMEs](/en/about-us/support-smes)
+    - [Annual reports and work programmes](/en/about-us/annual-reports-work-programmes)
+    - [History of EMA](/en/about-us/history-ema)
+    - [Careers](/en/about-us/careers)
+    - [Procurement](/en/about-us/procurement-grants)
+    - [About this website](/en/about-us/about-website)
+    - [Data protection and privacy](/en/about-us/data-protection-privacy-ema)
+    - [Contacts](/en/about-us/contacts-european-medicines-agency)
+
+1. [Home](/en/homepage)
+2. [Medicines](https://www.ema.europa.eu/en/medicines)
+3. Ranluspec
+
 # Ranluspec
 
 [RSS](/en/individual-human-medicine.xml/271568)
@@ -54,7 +130,7 @@ Expand section
 
 Collapse section
 
-## How is Ranluspec used?
+### How is Ranluspec used?
 
 Ranluspec is available as an injection in prefilled syringes or vials, for single use. It is given by intravitreal injection (injection into the vitreous humour, the jelly-like fluid in the eye). It can only be obtained with a prescription and must be given by a qualified eye doctor who is experienced in giving intravitreal injections.
 
@@ -64,13 +140,13 @@ Treatment with Ranluspec is started with one injection every month, with regular
 
 For more information about using Ranluspec, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Ranluspec work?
+### How does Ranluspec work?
 
 The active substance in Ranluspec, ranibizumab, is a small piece of a monoclonal antibody. A monoclonal antibody is a type of protein that has been designed to recognise and attach to a specific target (called an antigen) that is found in certain cells in the body.
 
 Ranibizumab has been designed to attach to and block a substance called vascular endothelial growth factor A (VEGF-A). VEGF-A is a protein that makes blood vessels grow and leak fluid and blood, damaging the macula. By blocking VEGF-A, ranibizumab reduces the growth of the blood vessels and controls the leakage and swelling.
 
-## What benefits of Ranluspec have been shown in studies?
+### What benefits of Ranluspec have been shown in studies?
 
 Laboratory studies comparing Ranluspec with Lucentis have shown that the active substance in Ranluspec is highly similar to that in Lucentis in terms of structure, purity and biological activity. Studies have also shown that giving Ranluspec produces similar levels of the active substance in the body to giving Lucentis.
 
@@ -78,7 +154,7 @@ In addition, a study involving 600 people with the wet form of age-related macul
 
 Because Ranluspec is a biosimilar medicine, the studies on effectiveness and safety of ranibizumab carried out with Lucentis do not all need to be repeated for Ranluspec.
 
-## What are the risks associated with Ranluspec?
+### What are the risks associated with Ranluspec?
 
 The safety of Ranluspec has been evaluated and, on the basis of all the studies carried out, the side effects of the medicine are considered to be comparable to those of the reference medicine Lucentis.
 
@@ -88,13 +164,13 @@ The most common side effects with ranibizumab (which may affect more than 1 in 1
 
 Ranluspec must not be used in patients who may have an infection of the eye or of the area around the eye, or who have severe inflammation within the eye.
 
-## Why is Ranluspec authorised in the EU?
+### Why is Ranluspec authorised in the EU?
 
 The European Medicines Agency decided that, in accordance with EU requirements for biosimilar medicines, Ranluspec has a highly similar structure, purity and biological activity to Lucentis and is distributed in the body in the same way. In addition, a study in age-related macular degeneration has shown that Ranluspec and Lucentis are equivalent in terms of safety and effectiveness in this use.
 
 All these data were considered sufficient to conclude that Ranluspec will have the same effects as Lucentis in its authorised uses. Therefore, the Agency's view was that, as for Lucentis, the benefits of Ranluspec outweigh the identified risks and it can be authorised for use in the EU.
 
-## What measures are being taken to ensure the safe and effective use of Ranluspec?
+### What measures are being taken to ensure the safe and effective use of Ranluspec?
 
 The company that markets Ranluspec will provide information packs to patients to help them prepare for treatment, recognise serious side effects and know when to seek urgent medical attention.
 
@@ -102,7 +178,7 @@ Recommendations and precautions to be followed by healthcare professionals and p
 
 As for all medicines, data on the use of Ranluspec are continuously monitored. Suspected side effects reported with Ranluspec are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Ranluspec
+### Other information about Ranluspec
 
 Ranluspec received a marketing authorisation valid throughout the EU on 10 February 2026.
 
@@ -116,7 +192,7 @@ English (EN) (135.52 KB - PDF)
 
 [View](/en/documents/overview/ranluspec-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-536)
+[Other languages (22)](#file-language-dropdown-824)
 
 български (BG) (161.88 KB - PDF)
 
@@ -148,7 +224,7 @@ Deutsch (DE) (140.47 KB - PDF)
 
 [View](/de/documents/overview/ranluspec-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (133.12 KB - PDF)
+eesti (ET) (133.12 KB - PDF)
 
 **First published:** 24/02/2026
 
@@ -178,13 +254,13 @@ italiano (IT) (134.49 KB - PDF)
 
 [View](/it/documents/overview/ranluspec-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (165.62 KB - PDF)
+latviešu (LV) (165.62 KB - PDF)
 
 **First published:** 24/02/2026
 
 [View](/lv/documents/overview/ranluspec-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (157.36 KB - PDF)
+lietuvių (LT) (157.36 KB - PDF)
 
 **First published:** 24/02/2026
 
@@ -238,7 +314,7 @@ slovenščina (SL) (155.37 KB - PDF)
 
 [View](/sl/documents/overview/ranluspec-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (133.58 KB - PDF)
+suomi (FI) (133.58 KB - PDF)
 
 **First published:** 24/02/2026
 
@@ -264,159 +340,153 @@ Ranluspec : EPAR - Product information
 
 English (EN) (1.49 MB - PDF)
 
-**First published:** 24/02/2026 **Last updated:** 24/04/2026
+**First published:** 24/02/2026 **Last updated:** 29/05/2026
 
 [View](/en/documents/product-information/ranluspec-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-32)
+[Other languages (23)](#file-language-dropdown-170)
 
 български (BG) (1.55 MB - PDF)
 
-**First published:** 24/02/2026 **Last updated:** 24/04/2026
+**First published:** 24/02/2026 **Last updated:** 29/05/2026
 
 [View](/bg/documents/product-information/ranluspec-epar-product-information_bg.pdf)
 
 español (ES) (1.38 MB - PDF)
 
-**First published:** 24/02/2026 **Last updated:** 24/04/2026
+**First published:** 24/02/2026 **Last updated:** 29/05/2026
 
 [View](/es/documents/product-information/ranluspec-epar-product-information_es.pdf)
 
-čeština (CS) (1.34 MB - PDF)
+čeština (CS) (1.31 MB - PDF)
 
-**First published:** 24/02/2026 **Last updated:** 24/04/2026
+**First published:** 24/02/2026 **Last updated:** 29/05/2026
 
 [View](/cs/documents/product-information/ranluspec-epar-product-information_cs.pdf)
 
 dansk (DA) (1.44 MB - PDF)
 
-**First published:** 24/02/2026 **Last updated:** 24/04/2026
+**First published:** 24/02/2026 **Last updated:** 29/05/2026
 
 [View](/da/documents/product-information/ranluspec-epar-product-information_da.pdf)
 
 Deutsch (DE) (1.28 MB - PDF)
 
-**First published:** 24/02/2026 **Last updated:** 24/04/2026
+**First published:** 24/02/2026 **Last updated:** 29/05/2026
 
 [View](/de/documents/product-information/ranluspec-epar-product-information_de.pdf)
 
-eesti keel (ET) (1.31 MB - PDF)
+eesti (ET) (1.31 MB - PDF)
 
-**First published:** 24/02/2026 **Last updated:** 24/04/2026
+**First published:** 24/02/2026 **Last updated:** 29/05/2026
 
 [View](/et/documents/product-information/ranluspec-epar-product-information_et.pdf)
 
 ελληνικά (EL) (1.61 MB - PDF)
 
-**First published:** 24/02/2026 **Last updated:** 24/04/2026
+**First published:** 24/02/2026 **Last updated:** 29/05/2026
 
 [View](/el/documents/product-information/ranluspec-epar-product-information_el.pdf)
 
 français (FR) (1.57 MB - PDF)
 
-**First published:** 24/02/2026 **Last updated:** 24/04/2026
+**First published:** 24/02/2026 **Last updated:** 29/05/2026
 
 [View](/fr/documents/product-information/ranluspec-epar-product-information_fr.pdf)
 
 hrvatski (HR) (1.47 MB - PDF)
 
-**First published:** 24/02/2026 **Last updated:** 24/04/2026
+**First published:** 24/02/2026 **Last updated:** 29/05/2026
 
 [View](/hr/documents/product-information/ranluspec-epar-product-information_hr.pdf)
 
-íslenska (IS) (1.28 MB - PDF)
-
-**First published:** 24/02/2026 **Last updated:** 24/04/2026
-
-[View](/is/documents/product-information/ranluspec-epar-product-information_is.pdf)
-
 italiano (IT) (1.33 MB - PDF)
 
-**First published:** 24/02/2026 **Last updated:** 24/04/2026
+**First published:** 24/02/2026 **Last updated:** 29/05/2026
 
 [View](/it/documents/product-information/ranluspec-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (1.59 MB - PDF)
+lietuvių (LT) (1.53 MB - PDF)
 
-**First published:** 24/02/2026 **Last updated:** 24/04/2026
-
-[View](/lv/documents/product-information/ranluspec-epar-product-information_lv.pdf)
-
-lietuvių kalba (LT) (1.53 MB - PDF)
-
-**First published:** 24/02/2026 **Last updated:** 24/04/2026
+**First published:** 24/02/2026 **Last updated:** 29/05/2026
 
 [View](/lt/documents/product-information/ranluspec-epar-product-information_lt.pdf)
 
 magyar (HU) (1.74 MB - PDF)
 
-**First published:** 24/02/2026 **Last updated:** 24/04/2026
+**First published:** 24/02/2026 **Last updated:** 29/05/2026
 
 [View](/hu/documents/product-information/ranluspec-epar-product-information_hu.pdf)
 
 Malti (MT) (1.55 MB - PDF)
 
-**First published:** 24/02/2026 **Last updated:** 24/04/2026
+**First published:** 24/02/2026 **Last updated:** 29/05/2026
 
 [View](/mt/documents/product-information/ranluspec-epar-product-information_mt.pdf)
 
 Nederlands (NL) (1.36 MB - PDF)
 
-**First published:** 24/02/2026 **Last updated:** 24/04/2026
+**First published:** 24/02/2026 **Last updated:** 29/05/2026
 
 [View](/nl/documents/product-information/ranluspec-epar-product-information_nl.pdf)
 
-norsk (NO) (1.25 MB - PDF)
-
-**First published:** 24/02/2026 **Last updated:** 24/04/2026
-
-[View](/no/documents/product-information/ranluspec-epar-product-information_no.pdf)
-
 polski (PL) (1.5 MB - PDF)
 
-**First published:** 24/02/2026 **Last updated:** 24/04/2026
+**First published:** 24/02/2026 **Last updated:** 29/05/2026
 
 [View](/pl/documents/product-information/ranluspec-epar-product-information_pl.pdf)
 
 português (PT) (1.48 MB - PDF)
 
-**First published:** 24/02/2026 **Last updated:** 24/04/2026
+**First published:** 24/02/2026 **Last updated:** 29/05/2026
 
 [View](/pt/documents/product-information/ranluspec-epar-product-information_pt.pdf)
 
 română (RO) (1.39 MB - PDF)
 
-**First published:** 24/02/2026 **Last updated:** 24/04/2026
+**First published:** 24/02/2026 **Last updated:** 29/05/2026
 
 [View](/ro/documents/product-information/ranluspec-epar-product-information_ro.pdf)
 
 slovenčina (SK) (1.33 MB - PDF)
 
-**First published:** 24/02/2026 **Last updated:** 24/04/2026
+**First published:** 24/02/2026 **Last updated:** 29/05/2026
 
 [View](/sk/documents/product-information/ranluspec-epar-product-information_sk.pdf)
 
 slovenščina (SL) (1.37 MB - PDF)
 
-**First published:** 24/02/2026 **Last updated:** 24/04/2026
+**First published:** 24/02/2026 **Last updated:** 29/05/2026
 
 [View](/sl/documents/product-information/ranluspec-epar-product-information_sl.pdf)
 
-Suomi (FI) (1.32 MB - PDF)
+suomi (FI) (1.32 MB - PDF)
 
-**First published:** 24/02/2026 **Last updated:** 24/04/2026
+**First published:** 24/02/2026 **Last updated:** 29/05/2026
 
 [View](/fi/documents/product-information/ranluspec-epar-product-information_fi.pdf)
 
 svenska (SV) (1.26 MB - PDF)
 
-**First published:** 24/02/2026 **Last updated:** 24/04/2026
+**First published:** 24/02/2026 **Last updated:** 29/05/2026
 
 [View](/sv/documents/product-information/ranluspec-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000339499
+Íslenska (IS) (1.28 MB - PDF)
 
-24/04/2026
+**First published:** 24/02/2026 **Last updated:** 29/05/2026
+
+[View](/is/documents/product-information/ranluspec-epar-product-information_is.pdf)
+
+norsk (NO) (1.25 MB - PDF)
+
+**First published:** 24/02/2026 **Last updated:** 29/05/2026
+
+[View](/no/documents/product-information/ranluspec-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** VR/0000342644
+
+29/05/2026
 
 icon globe
 
@@ -440,7 +510,7 @@ English (EN) (42.74 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/ranluspec-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-871)
+[Other languages (24)](#file-language-dropdown-60)
 
 български (BG) (61.44 KB - PDF)
 
@@ -472,7 +542,7 @@ Deutsch (DE) (46.23 KB - PDF)
 
 [View](/de/documents/all-authorised-presentations/ranluspec-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (43.29 KB - PDF)
+eesti (ET) (43.29 KB - PDF)
 
 **First published:** 24/02/2026
 
@@ -496,25 +566,19 @@ hrvatski (HR) (143.12 KB - PDF)
 
 [View](/hr/documents/all-authorised-presentations/ranluspec-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (44.9 KB - PDF)
-
-**First published:** 24/02/2026
-
-[View](/is/documents/all-authorised-presentations/ranluspec-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (44.3 KB - PDF)
 
 **First published:** 24/02/2026
 
 [View](/it/documents/all-authorised-presentations/ranluspec-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (61.81 KB - PDF)
+latviešu (LV) (61.81 KB - PDF)
 
 **First published:** 24/02/2026
 
 [View](/lv/documents/all-authorised-presentations/ranluspec-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (63.21 KB - PDF)
+lietuvių (LT) (63.21 KB - PDF)
 
 **First published:** 24/02/2026
 
@@ -537,12 +601,6 @@ Nederlands (NL) (44.28 KB - PDF)
 **First published:** 24/02/2026
 
 [View](/nl/documents/all-authorised-presentations/ranluspec-epar-all-authorised-presentations_nl.pdf)
-
-norsk (NO) (46.07 KB - PDF)
-
-**First published:** 24/02/2026
-
-[View](/no/documents/all-authorised-presentations/ranluspec-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (65.35 KB - PDF)
 
@@ -574,7 +632,7 @@ slovenščina (SL) (52.4 KB - PDF)
 
 [View](/sl/documents/all-authorised-presentations/ranluspec-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (43.8 KB - PDF)
+suomi (FI) (43.8 KB - PDF)
 
 **First published:** 24/02/2026
 
@@ -585,6 +643,18 @@ svenska (SV) (44.09 KB - PDF)
 **First published:** 24/02/2026
 
 [View](/sv/documents/all-authorised-presentations/ranluspec-epar-all-authorised-presentations_sv.pdf)
+
+Íslenska (IS) (44.9 KB - PDF)
+
+**First published:** 24/02/2026
+
+[View](/is/documents/all-authorised-presentations/ranluspec-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (46.07 KB - PDF)
+
+**First published:** 24/02/2026
+
+[View](/no/documents/all-authorised-presentations/ranluspec-epar-all-authorised-presentations_no.pdf)
 
 ## Product details
 
@@ -661,7 +731,7 @@ Marketing authorisation issued
 
 Revision
 
-1
+2
 
 ## Assessment history
 
@@ -669,17 +739,17 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Ranluspec : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (121.42 KB - PDF)
+English (EN) (147.85 KB - PDF)
 
-**First published:** 24/04/2026
+**First published:** 24/04/2026 **Last updated:** 29/05/2026
 
 [View](/en/documents/procedural-steps-after/ranluspec-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Ranluspec : EPAR - Public assessment report
 
@@ -709,6 +779,6 @@ English (EN) (156.72 KB - PDF)
 
 **This page was last updated on**
 
-24/04/2026
+29/05/2026
 
 ## Share this page

@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-05-07 14:26:00
+document_datetime: 2026-06-05 11:18:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/cellcept.html
 document_name: cellcept.html
 version: success
-processing_time: 0.1429379
-conversion_datetime: 2026-05-10 13:03:47.083789
+processing_time: 0.1487636
+conversion_datetime: 2026-06-07 11:55:25.885624
 docling_version:
-  docling-serve: 1.17.0
-  docling-jobkit: 1.18.0
-  docling: 2.92.0
-  docling-core: 2.74.1
+  docling-serve: 1.21.0
+  docling-jobkit: 1.20.1
+  docling: 2.97.0
+  docling-core: 2.78.0
   docling-ibm-models: 3.13.2
-  docling-parse: 5.10.1
+  docling-parse: 6.2.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
 ---
 # Search
 
@@ -132,7 +132,7 @@ Expand section
 
 Collapse section
 
-## How is CellCept used?
+### How is CellCept used?
 
 CellCept can only be obtained with a prescription. Treatment should be started and supervised by a doctor specialised in organ transplants.
 
@@ -140,11 +140,11 @@ CellCept is available as capsules, tablets or a powder to be made up into a liqu
 
 For more information about using CellCept, see the package leaflet or contact your doctor or pharmacist.
 
-## How does CellCept work?
+### How does CellCept work?
 
 The active substance in CellCept, mycophenolate mofetil, is an immunosuppressant (a medicine that reduces the activity of the immune system). It is converted in the body into mycophenolic acid, which blocks an enzyme called inosine monophosphate dehydrogenase. This enzyme is important for the formation of DNA in cells, particularly in lymphocytes (a type of white blood cell involved in the rejection of organ transplants). By preventing the production of new DNA, CellCept reduces the rate at which the lymphocytes multiply. This makes them less effective at recognising and attacking the transplanted organ, lowering the risk of the organ being rejected.
 
-## What benefit has CellCept shown during the studies?
+### What benefit has CellCept shown during the studies?
 
 Treatment with CellCept was shown to be effective at preventing the rejection of a newly transplanted kidney, heart or liver in adults and children from 1 year of age.
 
@@ -168,7 +168,7 @@ Use in children
 
 The company provided data showing that CellCept behaves in the body in the same way across all age groups from 1 to 18 years of age. It is therefore expected to be effective in preventing rejection following a kidney, heart or liver transplant in these children. This is supported by data from the medical literature on the use of CellCept in children and adolescents.
 
-## What are the risks associated with CellCept?
+### What are the risks associated with CellCept?
 
 For the full list of side effects and restrictions with CellCept, see the package leaflet.
 
@@ -176,7 +176,7 @@ The most common side effects with CellCept combined with ciclosporin (which may 
 
 Using CellCept during pregnancy can cause miscarriage and serious harm to a developing baby. Therefore, CellCept must not be used by women who are pregnant unless no other suitable treatment option is available to prevent rejection of the transplant. Women able to have children must take a pregnancy test before starting treatment to confirm that they are not pregnant. Both women and men should use an effective form of contraception before and during treatment with CellCept and for at least 6 weeks after. CellCept must not be used by women who are breastfeeding.
 
-## Why is CellCept authorised in the EU?
+### Why is CellCept authorised in the EU?
 
 Treatment with CellCept in combination with ciclosporin and corticosteroids is effective at preventing the rejection of a newly transplanted kidney, heart or liver in adults and children from 1 year of age.
 
@@ -184,7 +184,7 @@ The most serious risks with CellCept are the possible development of cancer (par
 
 The European Medicines Agency therefore decided that CellCept's benefits are greater than its risks and it can be authorised for use in the EU.
 
-## What measures are being taken to ensure the safe and effective use of CellCept?
+### What measures are being taken to ensure the safe and effective use of CellCept?
 
 The company that markets CellCept will provide educational materials for patients and healthcare professionals, explaining the risk of serious harm to a developing baby, the precautions to be taken to avoid pregnancy during treatment and the course of action if a woman becomes pregnant during treatment. The materials will also inform patients not to donate blood during treatment or for at least 6 weeks after, and men not to donate semen during, or for at least 3 months after, treatment.
 
@@ -192,7 +192,7 @@ Recommendations and precautions to be followed by healthcare professionals and p
 
 As for all medicines, data on the use of CellCept are continuously monitored. Suspected side effects reported with CellCept are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about CellCept
+### Other information about CellCept
 
 CellCept received a marketing authorisation valid throughout the EU on 14 February 1996.
 
@@ -206,7 +206,7 @@ English (EN) (112.23 KB - PDF)
 
 [View](/en/documents/overview/cellcept-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-128)
+[Other languages (22)](#file-language-dropdown-81)
 
 български (BG) (139.77 KB - PDF)
 
@@ -238,7 +238,7 @@ Deutsch (DE) (118.56 KB - PDF)
 
 [View](/de/documents/overview/cellcept-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (112.69 KB - PDF)
+eesti (ET) (112.69 KB - PDF)
 
 **First published:** 12/03/2008 **Last updated:** 17/02/2025
 
@@ -268,13 +268,13 @@ italiano (IT) (113.09 KB - PDF)
 
 [View](/it/documents/overview/cellcept-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (144.53 KB - PDF)
+latviešu (LV) (144.53 KB - PDF)
 
 **First published:** 12/03/2008 **Last updated:** 17/02/2025
 
 [View](/lv/documents/overview/cellcept-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (138.71 KB - PDF)
+lietuvių (LT) (138.71 KB - PDF)
 
 **First published:** 12/03/2008 **Last updated:** 17/02/2025
 
@@ -328,7 +328,7 @@ slovenščina (SL) (135.85 KB - PDF)
 
 [View](/sl/documents/overview/cellcept-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (112.39 KB - PDF)
+suomi (FI) (112.39 KB - PDF)
 
 **First published:** 12/03/2008 **Last updated:** 17/02/2025
 
@@ -342,9 +342,9 @@ svenska (SV) (113.73 KB - PDF)
 
 CellCept : EPAR - Risk management plan
 
-English (EN) (1.97 MB - PDF)
+English (EN) (1.78 MB - PDF)
 
-**First published:** 17/02/2025
+**First published:** 17/02/2025 **Last updated:** 05/06/2026
 
 [View](/en/documents/rmp/cellcept-epar-risk-management-plan_en.pdf)
 
@@ -358,7 +358,7 @@ English (EN) (1.17 MB - PDF)
 
 [View](/en/documents/product-information/cellcept-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-951)
+[Other languages (24)](#file-language-dropdown-885)
 
 български (BG) (1.57 MB - PDF)
 
@@ -390,7 +390,7 @@ Deutsch (DE) (1.29 MB - PDF)
 
 [View](/de/documents/product-information/cellcept-epar-product-information_de.pdf)
 
-eesti keel (ET) (1.18 MB - PDF)
+eesti (ET) (1.18 MB - PDF)
 
 **First published:** 27/10/2009 **Last updated:** 07/05/2026
 
@@ -414,25 +414,19 @@ hrvatski (HR) (1.43 MB - PDF)
 
 [View](/hr/documents/product-information/cellcept-epar-product-information_hr.pdf)
 
-íslenska (IS) (1.19 MB - PDF)
-
-**First published:** 27/10/2009 **Last updated:** 07/05/2026
-
-[View](/is/documents/product-information/cellcept-epar-product-information_is.pdf)
-
 italiano (IT) (1.26 MB - PDF)
 
 **First published:** 27/10/2009 **Last updated:** 07/05/2026
 
 [View](/it/documents/product-information/cellcept-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (1.42 MB - PDF)
+latviešu (LV) (1.42 MB - PDF)
 
 **First published:** 27/10/2009 **Last updated:** 07/05/2026
 
 [View](/lv/documents/product-information/cellcept-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (1.38 MB - PDF)
+lietuvių (LT) (1.38 MB - PDF)
 
 **First published:** 27/10/2009 **Last updated:** 07/05/2026
 
@@ -455,12 +449,6 @@ Nederlands (NL) (1.25 MB - PDF)
 **First published:** 27/10/2009 **Last updated:** 07/05/2026
 
 [View](/nl/documents/product-information/cellcept-epar-product-information_nl.pdf)
-
-norsk (NO) (1.29 MB - PDF)
-
-**First published:** 27/10/2009 **Last updated:** 07/05/2026
-
-[View](/no/documents/product-information/cellcept-epar-product-information_no.pdf)
 
 polski (PL) (1.42 MB - PDF)
 
@@ -492,7 +480,7 @@ slovenščina (SL) (1.33 MB - PDF)
 
 [View](/sl/documents/product-information/cellcept-epar-product-information_sl.pdf)
 
-Suomi (FI) (1.21 MB - PDF)
+suomi (FI) (1.21 MB - PDF)
 
 **First published:** 27/10/2009 **Last updated:** 07/05/2026
 
@@ -503,6 +491,18 @@ svenska (SV) (1.15 MB - PDF)
 **First published:** 27/10/2009 **Last updated:** 07/05/2026
 
 [View](/sv/documents/product-information/cellcept-epar-product-information_sv.pdf)
+
+Íslenska (IS) (1.19 MB - PDF)
+
+**First published:** 27/10/2009 **Last updated:** 07/05/2026
+
+[View](/is/documents/product-information/cellcept-epar-product-information_is.pdf)
+
+norsk (NO) (1.29 MB - PDF)
+
+**First published:** 27/10/2009 **Last updated:** 07/05/2026
+
+[View](/no/documents/product-information/cellcept-epar-product-information_no.pdf)
 
 **Latest procedure affecting product information:** PSUR/0000296546
 
@@ -530,7 +530,7 @@ English (EN) (20.69 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/cellcept-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-701)
+[Other languages (24)](#file-language-dropdown-67)
 
 български (BG) (46.8 KB - PDF)
 
@@ -562,7 +562,7 @@ Deutsch (DE) (18.09 KB - PDF)
 
 [View](/de/documents/all-authorised-presentations/cellcept-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (17.82 KB - PDF)
+eesti (ET) (17.82 KB - PDF)
 
 **First published:** 06/04/2006 **Last updated:** 06/04/2020
 
@@ -586,25 +586,19 @@ hrvatski (HR) (35.75 KB - PDF)
 
 [View](/hr/documents/all-authorised-presentations/cellcept-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (17.45 KB - PDF)
-
-**First published:** 06/04/2006 **Last updated:** 06/04/2020
-
-[View](/is/documents/all-authorised-presentations/cellcept-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (67.02 KB - PDF)
 
 **First published:** 06/04/2006 **Last updated:** 06/04/2020
 
 [View](/it/documents/all-authorised-presentations/cellcept-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (42.71 KB - PDF)
+latviešu (LV) (42.71 KB - PDF)
 
 **First published:** 06/04/2006 **Last updated:** 06/04/2020
 
 [View](/lv/documents/all-authorised-presentations/cellcept-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (39.87 KB - PDF)
+lietuvių (LT) (39.87 KB - PDF)
 
 **First published:** 06/04/2006 **Last updated:** 06/04/2020
 
@@ -627,12 +621,6 @@ Nederlands (NL) (21.03 KB - PDF)
 **First published:** 06/04/2006 **Last updated:** 06/04/2020
 
 [View](/nl/documents/all-authorised-presentations/cellcept-epar-all-authorised-presentations_nl.pdf)
-
-norsk (NO) (17.74 KB - PDF)
-
-**First published:** 06/04/2006 **Last updated:** 06/04/2020
-
-[View](/no/documents/all-authorised-presentations/cellcept-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (40 KB - PDF)
 
@@ -664,7 +652,7 @@ slovenščina (SL) (24.64 KB - PDF)
 
 [View](/sl/documents/all-authorised-presentations/cellcept-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (17.03 KB - PDF)
+suomi (FI) (17.03 KB - PDF)
 
 **First published:** 06/04/2006 **Last updated:** 06/04/2020
 
@@ -675,6 +663,18 @@ svenska (SV) (17.8 KB - PDF)
 **First published:** 06/04/2006 **Last updated:** 06/04/2020
 
 [View](/sv/documents/all-authorised-presentations/cellcept-epar-all-authorised-presentations_sv.pdf)
+
+Íslenska (IS) (17.45 KB - PDF)
+
+**First published:** 06/04/2006 **Last updated:** 06/04/2020
+
+[View](/is/documents/all-authorised-presentations/cellcept-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (17.74 KB - PDF)
+
+**First published:** 06/04/2006 **Last updated:** 06/04/2020
+
+[View](/no/documents/all-authorised-presentations/cellcept-epar-all-authorised-presentations_no.pdf)
 
 ## Product details
 
@@ -724,7 +724,7 @@ Marketing authorisation issued
 
 Revision
 
-42
+43
 
 ## Assessment history
 
@@ -732,13 +732,13 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 CellCept : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (151.02 KB - PDF)
+English (EN) (163.69 KB - PDF)
 
-**First published:** 24/02/2026 **Last updated:** 10/04/2026
+**First published:** 24/02/2026 **Last updated:** 05/06/2026
 
 [View](/en/documents/procedural-steps-after/cellcept-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -828,7 +828,7 @@ English (EN) (128.97 KB - PDF)
 
 [View](/en/documents/steps-after-cutoff/cellcept-epar-steps-taken-after-authorisation-when-cutoff-date-has-been-used_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 CellCept : EPAR - Scientific Discussion
 
@@ -884,7 +884,7 @@ English (EN) (445.03 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/cellcept-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-811)
+[Other languages (24)](#file-language-dropdown-969)
 
 български (BG) (638.62 KB - DOCX)
 
@@ -916,7 +916,7 @@ Deutsch (DE) (458.93 KB - DOCX)
 
 [View](/de/documents/product-information-tracked-changes/cellcept-epar-product-information-tracked-changes_de.docx)
 
-eesti keel (ET) (434.3 KB - DOCX)
+eesti (ET) (434.3 KB - DOCX)
 
 **First published:** 10/04/2026 **Last updated:** 07/05/2026
 
@@ -940,25 +940,19 @@ hrvatski (HR) (532.92 KB - DOCX)
 
 [View](/hr/documents/product-information-tracked-changes/cellcept-epar-product-information-tracked-changes_hr.docx)
 
-íslenska (IS) (386.65 KB - DOCX)
-
-**First published:** 10/04/2026 **Last updated:** 07/05/2026
-
-[View](/is/documents/product-information-tracked-changes/cellcept-epar-product-information-tracked-changes_is.docx)
-
 italiano (IT) (491.36 KB - DOCX)
 
 **First published:** 10/04/2026 **Last updated:** 07/05/2026
 
 [View](/it/documents/product-information-tracked-changes/cellcept-epar-product-information-tracked-changes_it.docx)
 
-latviešu valoda (LV) (485.68 KB - DOCX)
+latviešu (LV) (485.68 KB - DOCX)
 
 **First published:** 10/04/2026 **Last updated:** 07/05/2026
 
 [View](/lv/documents/product-information-tracked-changes/cellcept-epar-product-information-tracked-changes_lv.docx)
 
-lietuvių kalba (LT) (473.02 KB - DOCX)
+lietuvių (LT) (473.02 KB - DOCX)
 
 **First published:** 10/04/2026 **Last updated:** 07/05/2026
 
@@ -981,12 +975,6 @@ Nederlands (NL) (498.33 KB - DOCX)
 **First published:** 10/04/2026 **Last updated:** 07/05/2026
 
 [View](/nl/documents/product-information-tracked-changes/cellcept-epar-product-information-tracked-changes_nl.docx)
-
-norsk (NO) (533.15 KB - DOCX)
-
-**First published:** 10/04/2026 **Last updated:** 07/05/2026
-
-[View](/no/documents/product-information-tracked-changes/cellcept-epar-product-information-tracked-changes_no.docx)
 
 polski (PL) (536.52 KB - DOCX)
 
@@ -1018,7 +1006,7 @@ slovenščina (SL) (510.18 KB - DOCX)
 
 [View](/sl/documents/product-information-tracked-changes/cellcept-epar-product-information-tracked-changes_sl.docx)
 
-Suomi (FI) (597.71 KB - DOCX)
+suomi (FI) (597.71 KB - DOCX)
 
 **First published:** 10/04/2026 **Last updated:** 07/05/2026
 
@@ -1030,6 +1018,18 @@ svenska (SV) (483.74 KB - DOCX)
 
 [View](/sv/documents/product-information-tracked-changes/cellcept-epar-product-information-tracked-changes_sv.docx)
 
+Íslenska (IS) (386.65 KB - DOCX)
+
+**First published:** 10/04/2026 **Last updated:** 07/05/2026
+
+[View](/is/documents/product-information-tracked-changes/cellcept-epar-product-information-tracked-changes_is.docx)
+
+norsk (NO) (533.15 KB - DOCX)
+
+**First published:** 10/04/2026 **Last updated:** 07/05/2026
+
+[View](/no/documents/product-information-tracked-changes/cellcept-epar-product-information-tracked-changes_no.docx)
+
 ## More information on CellCept
 
 - [The Mycophenolate Pregnancy Registry - post-authorisation study](https://catalogues.ema.europa.eu/study/27036)
@@ -1040,6 +1040,6 @@ svenska (SV) (483.74 KB - DOCX)
 
 **This page was last updated on**
 
-07/05/2026
+05/06/2026
 
 ## Share this page

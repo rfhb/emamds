@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-11-04 12:02:06
+document_datetime: 2026-05-27 12:00:25
 document_pages: 69
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/tevimbra-epar-product-information_en.pdf
 document_name: tevimbra-epar-product-information_en.pdf
 version: success
-processing_time: 22.1006733
-conversion_datetime: 2025-12-25 12:18:36.448313
+processing_time: 41.4296733
+conversion_datetime: 2026-06-07 12:01:04.590653
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.21.0
+  docling-jobkit: 1.20.1
+  docling: 2.97.0
+  docling-core: 2.78.0
+  docling-ibm-models: 3.13.2
+  docling-parse: 6.2.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -60,7 +60,7 @@ The solution has a pH of approximately 6.5 and an osmolality of approximately 27
 
 Tevimbra, in combination with platinum-containing chemotherapy as neoadjuvant treatment and then continued as monotherapy as adjuvant treatment, is indicated for the treatment of adult patients with resectable NSCLC at high risk of recurrence (for selection criteria, see section 5.1).
 
-Tevimbra, in combination with pemetrexed and platinum-containing chemotherapy, is indicated for the first-line treatment of adult patients with non-squamous NSCLC whose tumours have PD-L1 expression on ≥50% of tumour cells with no EGFR or ALK positive mutations and who have:
+Tevimbra, in combination with pemetrexed and platinum-containing chemotherapy, is indicated for the first-line treatment of adult patients with non-squamous NSCLC whose tumours have PD-L1 expression on ≥50% of tumour cells with no EGFR or ALK positive muta tions and who have:
 
 - locally advanced NSCLC and are not candidates for surgical resection or platinum-based chemoradiation, or
 - metastatic NSCLC.
@@ -72,7 +72,7 @@ Tevimbra, in combination with carboplatin and either paclitaxel or nab-paclitaxe
 - locally advanced NSCLC and are not candidates for surgical resection or platinum-based chemoradiation, or
 - metastatic NSCLC.
 
-Tevimbra as monotherapy is indicated for the treatment of adult patients with locally advanced or metastatic NSCLC after prior platinum-based therapy. Patients with EGFR mutant or ALK positive NSCLC should also have received targeted therapies before receiving tislelizumab.
+Tevimbra as monotherapy is indicated for the treatment of adult patients with locally advanced or metastatic NSCLC after prior platinumbased therapy. Patients with EGFR mutant or ALK positive NSCLC should also have received targeted therapies before receiving tislelizumab.
 
 ## Small Cell Lung Cancer (SCLC)
 
@@ -80,7 +80,7 @@ Tevimbra, in combination with etoposide and platinum chemotherapy, is indicated 
 
 ## Gastric or gastroesophageal junction (G/GEJ) adenocarcinoma
 
-Tevimbra, in combination with platinum and fluoropyrimidine-based chemotherapy, is indicated for the first-line treatment of adult patients with HER-2-negative locally advanced unresectable or metastatic gastric or gastroesophageal junction (G/GEJ) adenocarcinoma whose tumours express PD-L1 with a tumour area positivity (TAP) score ≥ 5% (see section 5.1) .
+Tevimbra, in combination with platinum and fluoropyrimidine-based chemotherapy, is indicated for the firstline treatment of adult patients with HER -2-negative locally advanced unresectable or metastatic gastric or gastroesophageal junction (G/GEJ) adenocarcinoma whose tumours express PDL1 with a tumour area positivity (TAP) score ≥ 5% (see section 5.1) .
 
 ## Oesophageal squamous cell carcinoma (OSCC)
 
@@ -148,23 +148,23 @@ Table 1 Recommended treatment modifications for Tevimbra
 
 <div style=\"page-break-after: always\"></div>
 
-| Immune-related adverse reaction   | Severity 1                                                                                                                            | Tevimbra treatment modification                                                                                                                                                                                                                     |
-|-----------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Hyperthyroidism                   | Grade 3 or 4                                                                                                                          | Withhold 2 For Grade 3 or 4 that has improved to Grade ≤2 and is controlled with anti-thyroid therapy, if indicated continuation of Tevimbra may be considered after corticosteroid taper. Otherwise, treatment should be discontinued.             |
-| Adrenal insufficiency             | Grade 2                                                                                                                               | Consider withholding treatment until controlled by HRT.                                                                                                                                                                                             |
-| Adrenal insufficiency             | Grade 3 or 4                                                                                                                          | Withhold 3 For Grade 3 or 4 that has improved to Grade ≤2 and is controlled with HRT, if indicated continuation of Tevimbra may be considered after corticosteroid taper. Otherwise, treatment should be discontinued. 3                            |
-| Hypophysitis                      | Grade 2                                                                                                                               | Consider withholding treatment                                                                                                                                                                                                                      |
-| Hypophysitis                      | Grade 3 or 4                                                                                                                          | until controlled by HRT. Withhold 2,3 For Grade 3 or 4 that has improved to Grade ≤2 and is controlled with HRT, if indicated continuation of Tevimbra may be considered after corticosteroid taper. Otherwise, treatment should be discontinued. 3 |
-| Type 1 diabetes mellitus          | Type 1 diabetes mellitus associated with Grade ≥3 hyperglycaemia (glucose >250 mg/dl or >13.9 mmol/l) or associated with ketoacidosis | Withhold For Grade 3 or 4 that has improved to Grade ≤2 with insulin therapy, if indicated continuation of Tevimbra may be considered once metabolic control is achieved. Otherwise, treatment should be discontinued.                              |
-| Nephritis with renal dysfunction  | Grade 2 (creatinine >1.5 to 3 x baseline or >1.5 to 3 x ULN)                                                                          | Withhold 2,3                                                                                                                                                                                                                                        |
-| Nephritis with renal dysfunction  | Grade 3 (creatinine >3 x baseline or >3 to 6 x ULN) or Grade 4 (creatinine >6 x ULN)                                                  | Permanently discontinue 3                                                                                                                                                                                                                           |
-| Myocarditis                       | Grade 2, 3 or 4                                                                                                                       | Permanently discontinue 3                                                                                                                                                                                                                           |
-| Neurological toxicities           | Grade 2                                                                                                                               | Withhold 2,3                                                                                                                                                                                                                                        |
-|                                   | Grade 3 or 4                                                                                                                          | Permanently discontinue 3                                                                                                                                                                                                                           |
-| Pancreatitis                      | Grade 3 pancreatitis or Grade 3 or 4 serum amylase or lipase levels increased (>2 x ULN)                                              | Withhold 2,3                                                                                                                                                                                                                                        |
-|                                   | Grade 4                                                                                                                               | Permanently discontinue 3                                                                                                                                                                                                                           |
-| Other immune-related adverse      | Grade 3                                                                                                                               | Withhold 2,3                                                                                                                                                                                                                                        |
-| reactions                         | Recurrent Grade 3; Grade 4                                                                                                            | Permanently discontinue 3                                                                                                                                                                                                                           |
+| Immune-related adverse reaction        | Severity 1                                                                                                                            | Tevimbra treatment modification                                                                                                                                                                                                                     |
+|----------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Hyperthyroidism                        | Grade 3 or 4                                                                                                                          | Withhold 2 For Grade 3 or 4 that has improved to Grade ≤2 and is controlled with anti-thyroid therapy, if indicated continuation of Tevimbra may be considered after corticosteroid taper. Otherwise, treatment should be discontinued.             |
+| Adrenal insufficiency                  | Grade 2                                                                                                                               | Consider withholding treatment until controlled by HRT.                                                                                                                                                                                             |
+| Adrenal insufficiency                  | Grade 3 or 4                                                                                                                          | Withhold 3 For Grade 3 or 4 that has improved to Grade ≤2 and is controlled with HRT, if indicated continuation of Tevimbra may be considered after corticosteroid taper. Otherwise, treatment should be discontinued. 3                            |
+| Hypophysitis                           | Grade 2                                                                                                                               | Consider withholding treatment                                                                                                                                                                                                                      |
+| Hypophysitis                           | Grade 3 or 4                                                                                                                          | until controlled by HRT. Withhold 2,3 For Grade 3 or 4 that has improved to Grade ≤2 and is controlled with HRT, if indicated continuation of Tevimbra may be considered after corticosteroid taper. Otherwise, treatment should be discontinued. 3 |
+| Type 1 diabetes mellitus               | Type 1 diabetes mellitus associated with Grade ≥3 hyperglycaemia (glucose >250 mg/dl or >13.9 mmol/l) or associated with ketoacidosis | Withhold For Grade 3 or 4 that has improved to Grade ≤2 with insulin therapy, if indicated continuation of Tevimbra may be considered once metabolic control is achieved. Otherwise, treatment should be discontinued.                              |
+| Nephritis with renal dysfunction       | Grade 2 (creatinine >1.5 to 3 x baseline or >1.5 to 3 x ULN)                                                                          | Withhold 2,3                                                                                                                                                                                                                                        |
+| Nephritis with renal dysfunction       | Grade 3 (creatinine >3 x baseline or >3 to 6 x ULN) or Grade 4 (creatinine >6 x ULN)                                                  | Permanently discontinue 3                                                                                                                                                                                                                           |
+| Myocarditis                            | Grade 2, 3 or 4                                                                                                                       | Permanently discontinue 3                                                                                                                                                                                                                           |
+| Neurological toxicities                | Grade 2                                                                                                                               | Withhold 2,3                                                                                                                                                                                                                                        |
+|                                        | Grade 3 or 4                                                                                                                          | Permanently discontinue 3                                                                                                                                                                                                                           |
+| Pancreatitis                           | Grade 3 pancreatitis or Grade 3 or 4 serum amylase or lipase levels increased (>2 x ULN)                                              | Withhold 2,3                                                                                                                                                                                                                                        |
+| Pancreatitis                           | Grade 4                                                                                                                               | Permanently discontinue 3                                                                                                                                                                                                                           |
+| Other immune-related adverse reactions | Grade 3                                                                                                                               | Withhold 2,3                                                                                                                                                                                                                                        |
+| Other immune-related adverse reactions | Recurrent Grade 3; Grade 4                                                                                                            | Permanently discontinue 3                                                                                                                                                                                                                           |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -175,10 +175,10 @@ Table 1 Recommended treatment modifications for Tevimbra
 | Infusion-related reactions        | Grade 2                      | Interrupt infusion. Resume infusion if resolved or decreased to Grade 1, and slow rate of infusion by 50%.  |
 | Infusion-related reactions        | Grade 3 or 4                 | Permanently discontinue                                                                                     |
 
-ALT = alanine aminotransferase, AST = aspartate aminotransferase, HRT= hormone replacement therapy, SJS = Stevens-Johnson syndrome, TEN = Toxic epidermal necrolysis, ULN = upper limit of normal
+ALT = alanine aminotransferase, AST = aspartate aminotransferase, HRT= hormone replacement therapy, SJS = Stevens -Johnson syndrome, TEN = Toxic epidermal necrolysis, ULN = upper limit of normal
 
-- 1 Toxicity grades are in accordance with National Cancer Institute Common Terminology Criteria for Adverse Events Version 4.0 (NCI-CTCAE v4.0). Hypophysitis grade is in accordance with NCI-CTCAE v5.0.
-- 2 Resume in patients with complete or partial resolution (Grade 0 to 1) after corticosteroid taper over at least 1 month. Permanently discontinue if no complete or partial resolution within 12 weeks of initiating corticoste roids or inability to reduce prednisone to ≤10 mg/day (or equivalent) within 12 weeks of initiating corticosteroids.
+- 1 Toxicity grades are in accordance with National Cancer Institute Common Terminology Criteria for Adverse Events Version 4.0 (NCICTCAE v4.0). Hypophysitis grade is in accordance with NCI -CTCAE v5.0.
+- 2 Resume in patients with complete or partial resolution (Grade 0 to 1) after corticosteroid taper over at least 1 month. Permanently discontinue if no complete or partial resolution within 12 weeks of initiating corticosteroids or inability to reduce predn isone to ≤10 mg/day (or equivalent) within 12 weeks of initiating corticosteroids.
 - 3 Initial dose of 1 to 2 mg/kg/day prednisone or equivalent followed by a taper to ≤10 mg/day (or equivalent) over at least 1 month is recommended, except for pneumonitis, where initial dose of 2 to 4 mg/kg/day is recommended.
 
 ## Special populations
@@ -221,7 +221,7 @@ Hypersensitivity to the active substance or to any of the excipients listed in s
 
 In order to improve the traceability of biological medicinal products, the name and the batch number of the administered product should be clearly recorded.
 
-## Assessment of PD-L1 status
+## Assessment of PD -L1 status
 
 When assessing the PD-L1 status of the tumour, it is important that a well validated methodology is chosen to minimise false negative or false positive determinations.
 
@@ -237,7 +237,7 @@ Immune-related adverse reactions have been reported, including fatal cases, duri
 
 For suspected immune-related adverse reactions, adequate evaluation to confirm aetiology or exclude alternative aetiologies, including infection, should be ensured. Based on the severity of the adverse reaction, tislelizumab should be withheld and corticosteroids administered (see section 4.2). Based on limited data from clinical studies, administration of other systemic immunosuppressants can be considered in patients whose immune-related adverse reactions are not controlled with corticosteroid use (see sections 4.2 and 4.8). Upon improvement to Grade ≤1, corticosteroid taper should be initiated and continued over at least 1 month.
 
-In patients with pre-existing autoimmune disease (AID), data from observational studies suggest that the risk of immune-mediated adverse reactions following immune-checkpoint inhibitor therapy may be increased as compared with the risk in patients without pre-existing AID. In addition, flares of the underlying AID were frequent, but the majority were mild and manageable.
+In patients with preexisting autoimmune disease (AID), data from observational studies suggest that the risk of immune-mediated adverse reactions following immune-checkpoint inhibitor therapy may be increased as compared with the risk in patients without preexisting AID. In addition, flares of the underlying AID were frequent, but the majority were mild and manageable.
 
 ## Immune-related pneumonitis
 
@@ -257,7 +257,7 @@ Patients with immune-related hepatitis should be managed according to the treatm
 
 Immune-related skin rash or dermatitis have been reported in patients receiving tislelizumab. Patients should be monitored for suspected skin reactions and other causes should be excluded. Based on the severity of the skin adverse reactions, tislelizumab should be withheld or permanently discontinued as recommended in Table 1 (see section 4.2).
 
-Cases of severe cutaneous adverse reactions (SCARs) including erythema multiforme (EM), StevensJohnson syndrome (SJS) and Toxic epidermal necrolysis (TEN), some of them with fatal outcome, have been reported in patients receiving tislelizumab (see section 4.8). Patients should be monitored for signs or symptoms of SCARs (e.g. a prodrome of fever, flu-like symptoms, mucosal lesions or progressive skin rash) and other causes should be excluded. For suspected SCAR, tislelizumab should be withheld and the patient should be referred to specialised care for assessment and treatment. If SCAR is confirmed, tislelizumab should be permanently discontinued (see section 4.2).
+Cases of severe cutaneous adverse reactions (SCARs) including erythema multiforme (EM), Stevens -Johnson syndrome (SJS) and Toxic epidermal necrolysis (TEN), some of them with fatal outcome, have been reported in patients receiving tislelizumab (see section 4.8). Patients should be monitored for signs or symptoms of SCARs (e.g. a prodrome of fever, flu -like symptoms, mucosal lesions or progressive skin rash) and other causes should be excluded. For suspected SCAR, tislelizumab should be withheld and the patient should be referred to specialised care for assessment and treatment. If SCAR is confirmed, tislelizumab should be permanently discontinued (see section 4.2).
 
 ## Immune-related colitis
 
@@ -267,7 +267,7 @@ Patients with immune-related colitis should be managed according to the treatmen
 
 ## Immune-related endocrinopathies
 
-Immune-related endocrinopathies, including thyroid disorders, adrenal insufficiency, hypophysitis and type 1 diabetes mellitus, have been reported in patients treated with tislelizumab. These may require supportive treatment depending on the specific endocrine disorder. Long-term hormone replacement therapy (HRT) may be necessary in cases of immune-related endocrinopathies.
+Immune-related endocrinopathies, including thyroid disorders, adrenal insufficiency, hypophysitis and type 1 diabetes mellitus, have been reported in patients treated with tislelizumab. These may require supportive treatment depending on the specific endocrine disorder. Long-term hormone replacement therapy (HRT) may be necessary in cases of immune -related endocrinopathies.
 
 Patients with immune-related endocrinopathies should be managed according to the treatment modifications as recommended in Table 1 (see section 4.2).
 
@@ -281,11 +281,9 @@ Adrenal insufficiency has been reported in patients treated with tislelizumab. P
 
 ## Hypophysitis
 
-Hypophysitis has been reported in patients treated with tislelizumab. Patients should be monitored for signs and symptoms of hypophysitis/hypopituitarism. Monitoring of pituitary function and hormone
+Hypophysitis has been reported in patients treated with tislelizumab. Patients should be monitored for signs and symptoms of hypophysitis/hypopituitarism. Monitoring of pituitary function and hormone levels should be considered. Corticosteroids and HRT should be administered as clinically indicated (see section 4.2).
 
 <div style=\"page-break-after: always\"></div>
-
-levels should be considered. Corticosteroids and HRT should be administered as clinically indicated (see section 4.2).
 
 ## Type 1 diabetes mellitus
 
@@ -319,11 +317,9 @@ Infusion-related reactions should be managed as recommended in Table 1 (see sect
 
 ## Patients excluded from clinical studies
 
-Patients with any of the following conditions were excluded from clinical studies: baseline ECOG performance status greater than or equal to 2; active brain or leptomeningeal metastases; active autoimmune disease or history of autoimmune disease that may relapse; any condition requiring systemic treatment with either corticosteroids (&gt;10 mg/day prednisone or equivalent) or other
+Patients with any of the following conditions were excluded from clinical studies: baseline ECOG performance status greater than or equal to 2; active brain or leptomeningeal metastases; active autoimmune disease or history of autoimmune disease that may relapse; any condition requiring systemic treatment with either corticosteroids (&gt;10 mg/day prednisone or equivalent) or other immunosuppressants within the 14 days prior to study treatment; active or untreated HIV; untreated hepatitis B or hepatitis C carriers; history of interstitial lung disease; administration of live vaccine within the 14 days prior to study treatment; infection requiring systemic therapy within the 14 days prior to study treatment; history of severe hypersensitivity to another monoclonal antibody. In the absence of data, tislelizumab should be used with caution in these populations after careful consideration of the potential benefit/risk on an individual basis.
 
 <div style=\"page-break-after: always\"></div>
-
-immunosuppressants within the 14 days prior to study treatment; active or untreated HIV; untreated hepatitis B or hepatitis C carriers; history of interstitial lung disease; administration of live vaccine within the 14 days prior to study treatment; infection requiring systemic therapy within the 14 days prior to study treatment; history of severe hypersensitivity to another monoclonal antibody. In the absence of data, tislelizumab should be used with caution in these populations after careful consideration of the potential benefit/risk on an individual basis.
 
 ## Patients on controlled sodium diet
 
@@ -345,7 +341,7 @@ The use of systemic corticosteroids and other immunosuppressants at baseline, be
 
 ## Women of childbearing potential/Contraception
 
-Tislelizumab should not be used in women of childbearing potential not using effective contraception unless the clinical condition of the woman requires treatment with tislelizumab. Women of childbearing potential should use effective contraception (methods that resul t in less than 1% pregnancy rates) during treatment and for at least 4 months following the last dose of tislelizumab.
+Tislelizumab should not be used in women of childbearing potential not using effective contraception unless the clinical condition of the woman requires treatment with tislelizumab. Women of childbearing potential should use effective contraception (method s that result in less than 1% pregnancy rates) during treatment and for at least 4 months following the last dose of tislelizumab.
 
 ## Pregnancy
 
@@ -377,17 +373,15 @@ Tevimbra has minor influence on the ability to drive and use machines. In some p
 
 ## Summary of the safety profile
 
-The safety of tislelizumab as monotherapy is based on pooled data in 1952 patients across multiple tumour types who received 200 mg tislelizumab every 3 weeks. The most common adverse reactions (≥ 20%) were anaemia (27.7%), aspartate aminotransferase increased (24.7%), fatigue (24.6%), and alanine aminotransferase increased (22.0%). The most common Grade 3/4 adverse reactions (≥ 2%) were anaemia (4.8%), aspartate aminotransferase increased (3.7%), pneumonia (3.6%), hyponatraemia (2 .9%), blood bilirubin increased (2.8%), hypertension (2.4%), and fatigue (2.1%). 1.0% of patients experienced adverse reactions leading to death. The adverse reactions leading to death were pneumonia (0.61%), pneumonitis (0.10%), hepatitis (0.10%), thrombocytopenia (0.05%), dyspnoea (0.05%) and decreased appetite (0.05%). Among the 1952 patients, 40.7% were exposed to tislelizumab for longer than 6 months, and 24.7% were exposed for longer than 12 months.
+The safety of tislelizumab as monotherapy is based on pooled data in 1952 patients across multiple tumour types who received 200 mg tislelizumab every 3 weeks. The most common adverse reactions (≥ 20%) were anaemia (27.7%), aspartate aminotransferase increased (24.7%), fatigue (24.6%), and alanine aminotransferase increased (22.0%). The most common Grade 3/4 adverse reactions (≥ 2%) were anaemia (4.8%), aspartate aminotransferase increased (3.7%), pneumonia (3.6%), hyponatraemia (2.9%), blood bilirubin increased (2.8%), hypertension (2.4%), and fatigue (2.1%). 1.0% of patients experienced adverse reactions leading to death. The adverse reactions leading to death were pneumonia (0.61%), pneumonitis (0.10%), hepatitis (0.10%), thrombocytopenia (0.05%), dyspnoe a (0.05%) and decreased appetite (0.05%). Among the 1952 patients, 40.7% were exposed to tislelizumab for longer than 6 months, and 24.7% were exposed for longer than 12 months.
 
-The safety of tislelizumab given in combination with chemotherapy is based on data in 1950 patients across multiple tumour types who received 200 mg tislelizumab every 3 weeks, with the exception of study BGB A317-315 where patients also received tislelizumab at a dose of 400 mg once every 6 weeks as adjuvant treatment after neoadjuvant therapy and surgery. The most common adverse reactions (≥ 20%) were neutropenia (71.6%), anaemia (67.2%), thrombocytopenia (48.7%), nausea (43.3%), fatigue (40.8%), decreased appetite (40.1%), alanine aminotransferase increased (30.6%), aspartate aminotransferase increased (30.3%), rash (21.4%) and diarrhoea (20.3%). The most common Grade 3/4 adverse reactions (≥ 2%) were neutropenia (45.2%), anaemia (14.5%), thrombocytopenia (14.1%), hyponatraemia (4.6%), hypokalaemia (4.5%), fatigue (4.2%), pneumonia (4.0%), lymphopenia (3.1%) , rash (2.9%), decreased appetite (2.6%), aspartate aminotransferase increased (2.2%), alanine aminotransferase increased (2.1%). 1.3% of patients experienced adverse reactions leading to death. The adv erse reactions leading to death were pneumonia (0.50%), pneumonitis (0.30%), dyspnoea (0.20%), myocarditis (0.20%) , hepatitis (0.05%), thrombocytopenia (0.05%),
+The safety of tislelizumab given in combination with chemotherapy is based on data in 1950 patients across multiple tumour types who received 200 mg tislelizumab every 3 weeks, with the exception of study BGB A317 -315 where patients also received tislelizumab at a dose of 400 mg once every 6 weeks as adjuvant treatment after neoadjuvant therapy and surgery. The most common adverse reactions (≥ 20%) were neutropenia (71.6%), anaemia (67.2%), thrombocytopenia (48.7%), nausea (43.3%), fatigue (40.8%), decreased appetite (40.1%), alanine aminotransferase increased (30.6%), aspartate aminotransferase increased (30.3%), rash (21.4%) and diarrhoea (20.3%). The most common Grade 3/4 adverse reactions (≥ 2%) were neutropenia (45.2%), anaemia (14.5%), thrombocytopenia (14.1%), hyponatraemia (4.6%), hypokalaemia (4.5%), fatigue (4.2%), pneumonia (4.0%), lymphopenia (3.1%) , rash (2.9%), decreased appetite (2.6%), aspartate aminotransferase increased (2.2%), alanine aminotransferase increased (2.1%). 1.3% of patients experienced adverse reactions leading to death. The adverse reactions leading to death were pneumonia (0.50%), pneumonitis (0.30%), dyspnoea (0.20%), myocarditis (0.20%) , hepatitis (0.05%), thrombocytopenia (0.05%), colitis (0.05 %), hypokalaemia (0. 05 %), and myositis (0. 05 %). Among the 1950 patients, 56.5% were exposed to tislelizumab for 6 months or longer, and 31.9% were exposed for 12 months or longer.
 
 <div style=\"page-break-after: always\"></div>
 
-colitis (0.05 %), hypokalaemia (0. 05 %), and myositis (0. 05 %) . Among the 1950 patients, 56.5% were exposed to tislelizumab for 6 months or longer, and 31.9% were exposed for 12 months or longer.
-
 ## Tabulated list of adverse reactions
 
-Adverse reactions reported in the pooled dataset for patients treated with Tevimbra monotherapy (N= 1952) and in combination with chemotherapy (N = 1950) are presented in Table 2. Adverse reactions are listed according to system organ class in MedDRA. Within each system organ class, the adverse reactions are presented in decreasing frequency. The corresponding frequency category for each adverse reaction is defined as: very common (≥1/10); common (≥1/100 to &lt;1/10); uncommon (≥1/1 000 to &lt;1/100); rare (≥1/10 000 to &lt;1/1 000); very rare (&lt;1/10 000); not known (cannot be estimated from available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
+Adverse reactions reported in the pooled dataset for patients treated with Tevimbra monotherapy (N= 1952) and in combination with chemotherapy (N = 1950) are presented in Table 2. Adverse reactions are listed according to system organ class in MedDRA. With in each system organ class, the adverse reactions are presented in decreasing frequency. The corresponding frequency category for each adverse reaction is defined as: very common (≥1/10); common (≥1/100 to &lt;1/10); uncommon (≥1/1 000 to &lt;1/100); rare (≥1/10 000 to &lt;1/1 000); very rare (&lt;1/10 000); not known (cannot be estimated from available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
 Table 2 Adverse reactions with Tevimbra as monotherapy (N = 1952) and in combination with chemotherapy (N = 1950)
 
@@ -499,11 +493,11 @@ Table 2 Adverse reactions with Tevimbra as monotherapy (N = 1952) and in combina
 - 22 Pancreatitis includes PTs of, amylase increased, lipase increased, pancreatitis and pancreatitis acute.
 - 23 Colitis includes PTs of autoimmune colitis, colitis, colitis ulcerative and immune-mediated enterocolitis.
 - 24 Hepatitis includes PTs of hepatitis, drug-induced liver injury, hepatotoxicity, hepatic function abnormal, immune-mediated hepatitis, liver injury and autoimmune hepatitis.
-- 25 Rash includes PTs of rash, rash maculo-papular, eczema, rash erythematous, dermatitis, acute febrile neutrophilic dermatosis, autoimmune dermatitis, dermatitis allergic, dermatitis exfoliative, rash papular, urticaria, erythema, skin exfoliation, drug eruption, rash macular, psoriasis, rash pustular, dermatitis acneiform, rash pruritic, lichenoid keratosis, hand dermatitis, immune-mediated dermatitis, rash follicular, erythema nodosum and pemphigoid.
+- 25 Rash includes PTs of rash, rash maculo -papular, eczema, rash erythematous, dermatitis, acute febrile neutrophilic dermatosis, autoimmune dermatitis, dermatitis allergic, dermatitis exfoliative, rash papular, urticaria, erythema, skin exfoliation, drug eruption, rash macular, psoriasis, rash pustular, dermatitis acneiform, rash pruritic, lichenoid keratosis, hand dermatitis, immune-mediated dermatitis, rash follicular, erythema nodosum and pemphigoid.
 - 26 Vitiligo includes PTs of, leukoderma skin depigmentation, skin hypopigmentation and vitiligo.
 - 27 Post-marketing experience.
 - 28 Myositis includes PTs of myositis, rhabdomyolysis and immune-mediated myositis.
-- 29 Arthritis includes PTs of arthritis, polyarthritis and immune-mediated arthritis.
+- 29 Arthritis includes PTs of arthritis, polyarthritis and immune -mediated arthritis.
 - 30 Nephritis includes PTs of nephritis, focal segmental glomerulosclerosis, glomerulonephritis membranous, immune-mediated renal disorder, tubulointerstitial nephritis and immune-mediated nephritis.
 - 31 Cystitis noninfective includes PTs of cystitis noninfective and immune-mediated cystitis. Cases of immunemediated cystitis have been reported in the post-marketing setting.
 
@@ -524,23 +518,23 @@ The data below reflect information for significant adverse drug reactions for ti
 
 In patients treated with tislelizumab as monotherapy, immunerelated pneumonitis occurred in 5.1% of patients, including Grade 1 (1.3%), Grade 2 (2.1%), Grade 3 (1.3%), Grade 4 (0.3%) and Grade 5 (0.1%) events.
 
-The median time from first dose to onset of the event was 4.1 months (range: 1.0 day to 55.0 months), and the median duration from onset to resolution was 2.8 months (range: 7.0 days to 33.7 months). Tislelizumab was permanently discontinued in 1.8% of patients and tislelizumab treatment was interrupted in 1.9% of patients. Pneumonitis resolved in 47.0% of patients.
+The median time from first dose to onset of the event was 4.1 months (range: 1.0 day to 55.0 months), and the median duration from onset to resolution was 2.8 months (range: 7.0 days to 33.7 months). Tislelizumab was permanently discontinued in 1.8% of pat ients and tislelizumab treatment was interrupted in 1.9% of patients. Pneumonitis resolved in 47.0% of patients.
 
 In patients treated with tislelizumab as monotherapy, pneumonitis occurred more frequently in patients with a history of prior thoracic radiation (8.4%) than in patients who did not receive prior thoracic radiation (3.6%).
 
-Pneumonitis occurred in 11.2% of patients with NSCLC trea ted with tislelizumab in combination with chemotherapy. In patients with NSCLC treated with tislelizumab as monotherapy, pneumonitis occurred in 8.3% of patients.
+Pneumonitis occurred in 11.2% of patients with NSCLC treated with tislelizumab in combination with chemotherapy. In patients with NSCLC treated with tislelizumab as monotherapy, pneumonitis occurred in 8.3% of patients.
 
 ## Immune-related hepatitis
 
-In patients treated with tislelizumab as monotherapy, immune-relate d hepatitis occurred in 1.2% of patients, including Grade 1 (0.1%), Grade 2 (0.2%), Grade 3 (0.6%) and Grade 4 (0.3%) events.
+In patients treated with tislelizumab as monotherapy, immunerelated hepatitis occurred in 1.2% of patients, including Grade 1 (0.1%), Grade 2 (0.2%), Grade 3 (0.6%) and Grade 4 (0.3%) events.
 
-The median time from first dose to onset of the event was 22.0 days (range: 1.0 day to 4.1 months), and the median duration from onset to resolution was 1.1 months (range: 6.0 days to 6.6 months). Tislelizumab was permanently discontinued in 0.3% of patients and tislelizumab treatment was interrupted in 0.8% of patients for immune -related hepatitis. Hepatitis resolved in 60.9% of pa tients.
+The median time from first dose to onset of the event was 22.0 days (range: 1.0 day to 4.1 months), and the median duration from onset to resolution was 1.1 months (range: 6.0 days to 6.6 months). Tislelizumab was permanently discontinued in 0.3% of patien ts and tislelizumab treatment was interrupted in 0.8% of patients for immune -related hepatitis. Hepatitis resolved in 60.9% of patients.
 
 ## Immune-related skin adverse reactions
 
 In patients treated with tislelizumab as monotherapy, immune-related skin adverse reactions occurred in 12.6% of patients, including Grade 1 (7.7%), Grade 2 (3.7%), Grade 3 (1.0%) and Grade 4 (0.1%) events.
 
-The median time from first dose to onset of the event was 1.5 months (range: 1.0 day to 36.1 months). The median duration from onset to resolution was 1.1 months (range: 1.0 day to 36.7 months). Tislelizumab was permanently discontinued in 0.1% of patients, and tislelizumab treatment was interrupted in 1.3% of patients. Skin adverse reactions resolved in 72.0% of patients.
+The median time from first dose to onset of the event was 1.5 months (range: 1.0 day to 36.1 months). The median duration from onset to resolution was 1.1 months (range: 1.0 day to 36.7 months). Tislelizumab was permanently discontinued in 0.1% of patients , and tislelizumab treatment was interrupted in 1.3% of patients. Skin adverse reactions resolved in 72.0% of patients.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -550,13 +544,13 @@ Cases of SJS and TEN have been reported from post-marketing experience, some wit
 
 In patients treated with tislelizumab as monotherapy, immunerelated colitis occurred in 0.6% of patients, including Grade 2 (0.4%) and Grade 3 (0.2%) events.
 
-The median time from first dose to onset of the event was 6.0 months (range: 6.0 days to 26.5 months), and the median duration from onset to resolution was 28.0 days (range: 9.0 days to 26.7 months). Tislelizumab was permanently discontinued in 0.1% of patients and tislelizumab treatment was interrupted in 0.4% of patients. Colitis resolved in 81.8% of patients.
+The median time from first dose to onset of the event was 6.0 months (range: 6.0 days to 26.5 months), and the median duration from onset to resolution was 28.0 days (range: 9.0 days to 26.7 months). Tislelizumab was permanently discontinued in 0.1% of pat ients and tislelizumab treatment was interrupted in 0.4% of patients. Colitis resolved in 81.8% of patients.
 
 ## Immune-related myositis/rhabdomyolysis
 
 In patients treated with tislelizumab as monotherapy, immune-related myositis/rhabdomyolysis occurred in 0.8% of patients, including Grade 1 (0.3%), Grade 2 (0.3%), Grade 3 (0.2%) and Grade 4 (0.1%) events.
 
-The median time from first dose to onset of the event was 1.5 months (range: 15.0 days to 39.3 months), and the median duration from onset to resolution was 1.2 months (range: 5.0 days to 5.2 months). Tislelizumab was permanently discontinu ed in 0.2% of patients and tislelizumab treatment was interrupted in 0.5% of patients. Myositis/rhabdomyolysis resolved in 75.0% of patients.
+The median time from first dose to onset of the event was 1.5 months (range: 15.0 days to 39.3 months), and the median duration from onset to resolution was 1.2 months (range: 5.0 days to 5.2 months). Tislelizumab was permanently discontinued in 0.2% of pa tients and tislelizumab treatment was interrupted in 0.5% of patients. Myositis/rhabdomyolysis resolved in 75.0% of patients.
 
 ## Immune-related endocrinopathies
 
@@ -566,19 +560,19 @@ The median time from first dose to onset of the event was 1.5 months (range: 15.
 
 In patients treated with tislelizumab as monotherapy, hypothyroidism occurred in 13.8% of patients, including Grade 1 (6.4%), Grade 2 (7.3%), Grade 3 (0.1%) and Grade 4 (0.1%) events.
 
-The median time from first dose to onset of the event was 4.0 months (range: 1.0 day to 29.9 months). The median duration from onset to resolution was 2.1 months (range: 2.0 days to 27.0 months). Tislelizumab was permanently discontinued in 0.1% of patients and tislelizumab treatment was interrupted in 0.6% of patients. Hypothyroidism resolved in 36. 4% of patients.
+The median time from first dose to onset of the event was 4.0 months (range: 1.0 day to 29.9 months). The median duration from onset to resolution was 2.1 months (range: 2.0 days to 27.0 months). Tislelizumab was permanently discontinued in 0.1% of patient s and tislelizumab treatment was interrupted in 0.6% of patients. Hypothyroidism resolved in 36.4% of patients.
 
 ## Hyperthyroidism:
 
 In patients treated with tislelizumab as monotherapy, hyperthyroidism occurred in 5.1% of patients, including Grade 1 (4.4%) and Grade 2 (0.7%) events.
 
-The median time from first dose to onset of the event was 2.1 months (range: 6.0 days to 39.4 months). The median duration from onset to resolution was 1.4 months (range: 8.0 days to 22.1 months). Tislelizumab was permanently discontinued in 0.1% of patients and tislelizumab treatment was interrupted in 0.3% of patients. Hyperthyroidism resolved in 77.0% of patients.
+The median time from first dose to onset of the event was 2.1 months (range: 6.0 days to 39.4 months). The median duration from onset to resolution was 1.4 months (range: 8.0 days to 22.1 months). Tislelizumab was permanently discontinued in 0.1% of patien ts and tislelizumab treatment was interrupted in 0.3% of patients. Hyperthyroidism resolved in 77.0% of patients.
 
 ## Thyroiditis:
 
 In patients treated with tislelizumab as monotherapy, thyroiditis occurred in 1.1% of patients, including Grade 1 (0.5%) and Grade 2 (0.6%) events.
 
-The median time from first dose to onset of the event was 2.0 months (range: 14.0 days to 20.7 months). The median duration from onset to resolution was 2.0 months (range: 20.0 days to 15.3 months). Tislelizumab was not permanently discontinued in any patient and tislelizumab treatment was interrupted i n 0.2% of patients. Thyroiditis resolved in 38.1% of patients.
+The median time from first dose to onset of the event was 2.0 months (range: 14.0 days to 20.7 months). The median duration from onset to resolution was 2.0 months (range: 20.0 days to 15.3 months). Tislelizumab was not permanently discontinued in any patient and tislelizumab treatment was interrupted in 0.2% of patients. Thyroiditis resolved in 38.1% of patients.
 
 ## Adrenal insufficiency
 
@@ -612,7 +606,7 @@ The median time from first dose to onset of the event was 1.5 months (range: 15.
 
 In patients treated with tislelizumab as monotherapy, immunerelated myocarditis occurred in 0.8% of patients, including Grade 1 (0.4%), Grade 2 (0.2%), Grade 3 (0.2%) and Grade 4 (0.1%) events.
 
-The median time from first dose to onset of the event was 1.6 months (range: 14.0 days to 33.6 months), and the median duration from onset to resolution was 1.2 months (range: 4.0 days to 15.6 months). Tislelizumab was permanently discontinued in 0.4% of patients and tislelizumab treat ment was interrupted in 0.4% of patients. Myocarditis resolved in 60.0% of patients.
+The median time from first dose to onset of the event was 1.6 months (range: 14.0 days to 33.6 months), and the median duration from onset to resolution was 1.2 months (range: 4.0 days to 15.6 months). Tislelizumab was permanently discontinued in 0.4% of patients and tislelizu mab treatment was interrupted in 0.4% of patients. Myocarditis resolved in 60.0% of patients.
 
 Myocarditis occurred in 1.2% of patients treated with tislelizumab in combination with chemotherapy, including Grade 5 (0.2%) events.
 
@@ -632,13 +626,13 @@ Cases of anaphylaxis, including anaphylactic reaction and anaphylactic shock, ha
 
 In patients treated with tislelizumab monotherapy, the proportion of patients who experienced a shift from baseline to a Grade 3 or 4 laboratory abnormality was as follows: 0.1% for increased haemoglobin, 4.4% for decreased haemoglobin, 0.9% for decreased leukocytes, 8.9% for decreased lymphocytes, 0.2% for increased lymphocytes, 2.1% for decreased neutrophils, 1.3% for decreased platelets, 2.6% for increased alanine aminotransferase, 0.3% for decreased albumin, 2.7% for increased alkaline phosphatase, 4.8% for increased aspartate aminotransferase, 2.8% for increased bilirubin, 1.9% for increased creatine kinase, 1.2% for increased creatinine, 4.4% for increased glucose, 0.5% for decreased glucose, 0.9% for increased potassium, 2.9% for decreased potassium, 0.1% for increased sodium, 6.5% for decreased sodium.
 
-In patients treated with tislelizumab in combination with chemotherapy, the proportion of patients who experienced a shift from baseline to a Grade 3 or 4 laboratory abnormality was as follows: 14.2% for decreased haemoglobin, 23.3% for decreased leukocytes, 17.9% for decreased lymphocytes, 0.1% for increased lymphocytes, 47.2% for decreased neutrophils, 14.1% for decreased platelets, 3.5% for increased alanine aminotransferase, 0.5% for decreased albumin, 0.8% for increased alkaline phosphatase, 3.1% for increased aspartate aminotransferase, 2.0% for increased bilirubin, 2.3% for increased creatine kinase, 1.8% for increased creatinine, 0.5% for decreased glucose, 1.2% for increased glucose, 1.3% for increased potassium, 7.6% for decreased potassium, 0.3% for increased sodium, 11.5% for decreased sodium.
+In patients treated with tislelizumab in combination with chemotherapy, the proportion of patients who experienced a shift from baseline to a Grade 3 or 4 laboratory abnormality was as follows: 14.2% for decreased haemoglobin, 23.3% for decreased leukocytes, 17.9% for decreased lymphocytes, 0.1% for increased lymphocytes, 47.2% for decreased neutrophils, 14.1% for decreased platelets, 3.5% for increased alanine aminotransferase, 0.5% for decreased albumin, 0.8% for increased alkaline phosphatase, 3.1% for increased aspartate aminotransferase, 2.0% for increased bilirubin, 2.3% for increased creatine kinase, 1.8% for increased creatinine, 0.5% for decreased glucose, 1.2% for increased glucose, 1.3% for increased potassium, 7.6% for decreased potassium, 0.3% f or increased sodium, 11.5% for decreased sodium.
 
 ## Immunogenicity
 
-Of 3614 antidrug antibodies (ADA)evaluable patients, 21.1% of patients tested positive for treatment -emergent ADA, and neutralising antibodies (NAbs) were detected in 0.9% of patients. Population pharmacokinetic analysis showed that ADA status was a statistically significant covariate on clearance; however, the presence of treatment-emergent ADA against tislelizumab appears to have no clinically relevant impact on pharmacokinetics or efficacy.
+Of 3614 antidrug antibodies (ADA) -evaluable patients, 21.1% of patients tested positive for treatment -emergent ADA, and neutralising antibodies (NAbs) were detected in 0.9% of patients. Population pharmacokinetic analysis showed that ADA status was a statistically significant covariate on clearance; however, the presence of treatmentemergent ADA against tislelizumab appears to have no clinically relevant impact on pharmacokinetics or efficacy.
 
-Among ADA-evaluable patients receiving 200 mg once every 3 weeks monotherapy or in combination with chemotherapies (including adjuvant 400 mg once every 6 weeks in resectable NSCLC) the following rates of adverse events (AEs) have been observed for the ADA-positive population compared to the ADAnegative population, respectively: Grade ≥3 AEs 52.5% vs. 42.1%, serious adverse events (SAEs) 39.0% vs. 31.8%, AEs leading to tislelizumab treatment discontinuation 12.3% vs 11.4% (for monotherapy); Grade ≥ 3 AEs 80.0% vs. 78.6%, SAEs 43.3% vs. 41.0%, AEs leading to tislelizumab treatment discontinuation 13.6% vs 13.5% (for combination therapy). Patients who developed treatment-emergent ADAs tended to have overall poorer health and disease characteristics at baseline which can confound the interpretation of the safety analysis. Available data do not allow firm conclusions to be drawn on possible patterns of adverse drug reactions.
+Among ADA -evaluable patients receiving 200 mg once every 3 weeks monotherapy or in combination with chemotherapies (including adjuvant 400 mg once every 6 weeks in resectable NSCLC) the following rates of adverse events (AEs) have been observed for the ADA -positive population compared to the ADA -negative population, respectively: Grade ≥3 AEs 52.5% vs. 42.1%, serious adverse events (SAEs) 39.0% vs. 31.8%, AEs leading to tislelizumab treatment discontinuation 12.3% vs 11.4% (for monotherapy); Grade ≥ 3 AEs 80.0% vs. 78.6%, SAEs 43.3% vs. 41.0%, AEs leading to tislelizumab treatment discontinuation 13.6% vs 13.5% (for combination therapy). Patients who developed treatmentemergent ADAs tended to have overall poorer health and disease characteristics at baseline which can confound the interpretation of the safety analysis. Available data do not allow firm conclusions to be drawn on possible patterns of adverse drug reactions.
 
 ## Elderly
 
@@ -646,7 +640,7 @@ No overall differences in safety were observed with tislelizumab as monotherapy 
 
 ## Reporting of suspected adverse reactions
 
-Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
+Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V .
 
 ## 4.9 Overdose
 
@@ -672,11 +666,11 @@ Based on modelling and simulation of the exposure-response relationships for eff
 
 ## Neoadjuvant and adjuvant treatment of resectable NSCLC: BGB-A317-315
 
-BGB-A317-315 was a phase 3 randomised, placebo-controlled, double-blind study to compare the efficacy and safety of neoadjuvant treatment with tislelizumab plus platinum-based doublet chemotherapy followed by adjuvant tislelizumab versus neoadjuvant treatment with placebo plus platinum-based doublet chemotherapy followed by adjuvant placebo in patients with resectable Stage II or IIIA NSCLC.
+BGBA317 -315 was a phase 3 randomised, placebo-controlled, double-blind study to compare the efficacy and safety of neoadjuvant treatment with tislelizumab plus platinum-based doublet chemotherapy followed by adjuvant tislelizumab versus neoadjuvant treatment with placebo plus platinum-based doublet chemotherapy followed by adjuvant placebo in patients with resectable Stage II or IIIA NSCLC.
 
 The study included patients who had histologically confirmed Stage II or IIIA (AJCC 8 th ) NSCLC with ECOG PS of 0 or 1 and no known EGFR mutations or ALK gene translocations and confirmed eligibility for R0 resection with curative intent. Patients with Stage IIIB were not included in the study.
 
-The following selection criteria define patients with high risk of recurrence who are included in the therapeutic indication and are reflective of the patient population with Stage II - IIIA according to the 8 th edition AJCC staging system:
+The following selection criteria define patients with high risk of recurrence who are included in the therapeutic indication and are reflective of the patient population with Stage II IIIA according to the 8 th edition AJCC staging system:
 
 - Tumour size &gt; 4 cm; or tumours of any size that are either accompanied by N1 or N2 status;
 - Tumours that invade thoracic structures (directly invade the visceral pleura, parietal pleura, chest wall, main bronchus, phrenic nerve, mediastinal pleura, parietal pericardium);
@@ -690,19 +684,19 @@ The following selection criteria define patients with high risk of recurrence wh
 
 <div style=\"page-break-after: always\"></div>
 
-Patients with non-squamous histology received pemetrexed while patients with squamous histology received paclitaxel, whereby the choice of cisplatin or carboplatin was decided by the investigators for all patients. If indicated, patients received postoperative adjuvant radiation therapy prior to adjuvant tislelizumab or placebo. Administration of tislelizumab and chemotherapy continued until treatment completion, disease progression, unacceptable AE, death, or patient and/or investigator's decision to discontinue study treatment.
+Patients with non-squamous histology received pemetrexed while patients with squamous histology received paclitaxel, whereby the choice of cisplatin or carboplatin was decided by the investigators for all patients. If indicated, patients received postoperative adjuvant radiation therapy prior to adjuvant tislelizumab or placebo. Administration of tislelizumab and chemotherapy continued until treatment completion, disease progression, u nacceptable AE, death, or patient and/or investigator's decision to discontinue study treatment.
 
 The dual primary endpoints were event-free survival (EFS) by blinded independent central review (BICR) and major pathological response (MPR) rate by blinded independent pathological review (BIPR). The secondary efficacy endpoints included pathological complete response (pCR) rate by BIPR, and overall survival (OS).
 
 Demographics and baseline characteristics were generally balanced between the 2 treatment arms. The baseline characteristics for all 453 randomised patients were: median age of 62 years (range 30 to 80 years); 40% of patients were ≥65 years of age; 3.3% of patients were ≥75 years of age; 90.5% of patients were male; 100% Asian (all enrolled in China), 65.3% had an ECOG PS score of 0; 84.5% were current or former smokers; 78.1% had diagnosed squamous histology; 58.5% had stage IIIA disease; 57.8% had PD -L1 expression ≥1%.
 
-There were 84.1% of patients in the tislelizumab in combination with platinum -containing chemotherapy arm who had definitive surgery compared to 76.2 % of patients in the platinumcontaining chemotherapy arm.
+There were 84.1% of patients in the tislelizumab in combination with platinum -containing chemotherapy arm who had definitive surgery compared to 76.2 % of patients in the platinum -containing chemotherapy arm.
 
 The study demonstrated statistically significant improvement in MPR, EFS, pCR and OS for patients randomised to tislelizumab arm compared with placebo arm.
 
-At a prespecified interim analysis of EFS (data cut-off date 21-Aug2023), the EFS HR was 0.56 (95% CI: 0.40, 0.79; 1-sided p-value of 0.0003) and the median OS follow-up times by reverse KaplanMeier methodology were 24.6 months in the tislelizumab arm and 22.7 months in the placebo arm.
+At a prespecified interim analysis of EFS (data cut-off date 21Aug -2023), the EFS HR was 0.56 (95% CI: 0.40, 0.79; 1 -sided p-value of 0.0003) and the median OS followup times by reverse Kaplan -Meier methodology were 24.6 months in the tislelizumab arm and 22.7 months in the placebo arm.
 
-Table 3, Figure 1 and Figure 2 summarise the efficacy results. At a pre-specified final analysis (data cut-off date 07-Mar-2025), the median OS follow-up times by reverse Kaplan-Meier methodology were 43.3 months (95% CI: 41.2 , 44.6) in the tislelizumab arm and 41.6 months (95% CI: 39.9 , 43.8) in the placebo arm.
+Table 3, Figure 1 and Figure 2 summarise the efficacy results. At a pre -specified final analysis (data cut-off date 07-Mar-2025), the median OS follow-up times by reverse Kaplan -Meier methodology were 43.3 months (95% CI: 41.2 , 44.6) in the tislelizumab arm and 41.6 months (95% CI: 39.9 , 43.8) in the placebo arm.
 
 Table 3 Efficacy results in BGB-A317-315 1
 
@@ -728,11 +722,11 @@ CI = c onfidence i nterval; HR = h azard ratio; NE = not estimable; NR = not rea
 <div style=\"page-break-after: always\"></div>
 
 - 1 The prespecified final analysis of MPR was based on the data with cut-off date of 20 -Feb -2023 and the prespecified final analysis of EFS and OS was based on the data with cut-off date of 07-Mar-2025.
-- a Hazard ratio and 95% CIs were estimated using a stratified Cox regression model stratified by histology, disease stage and PD-L1 expression from interactive response technology (IRT).
+- a Hazard ratio and 95% CIs were estimated using a stratified Cox regression model stratified by histology, disease stage and PDL1 expression from interactive response technology (IRT).
 - b The p-value was calculated using a log-rank test stratified by histology, disease stage and PD-L1 expression from IRT.
 - c The 95% CI was estimated using the Clopper -Pearson method.
-- d  MantelHaenszel common risk difference was estimated along with its 95% CIs co nstructed by a normal approximation and Sato's variance estimator stratified by histology, disease stage and PD-L1 expression from IRT.
-- e The p-value was obtained using the Cochran-Mantel-Haenszel method stratified by histology, disease stage and PD-L1 expression from IRT.
+- d  MantelHaenszel common risk difference was estimated along with its 95% CIs constructed by a normal approximation and Sato's variance estimator stratified by histology, disease stage and PD -L1 expression from IRT.
+- e The p-value was obtained using the Cochran-Mantel-Haenszel method stratified by histology, disease stage and PDL1 expression from IRT.
 
 Figure 1 Kaplan-Meier Plot for Event-Free Survival in BGB-A317-315
 
@@ -752,31 +746,31 @@ arm
 
 <div style=\"page-break-after: always\"></div>
 
-A subgroup analysis was performed in study BGB-A317-315 in patients who had PDL1 ≥ 1% (tislelizumab arm [n=130; 58%] vs. placebo arm [n=132; 58%]) and PD -L1 &lt; 1% (which excludes not evaluable/indeterminate) (tislelizumab arm [n=89; 39%] vs. placebo arm [n=84; 37%]). The EFS HR was 0.53 (95% CI: 0.35, 0.79) in patients with PD -L1 ≥ 1% and 0.70 (95% CI: 0.43, 1.14) in patients with PDL1 &lt; 1%. The OS HR was 0.61 (95% CI: 0.38, 0.98) in patients with PD -L1 ≥ 1% and 0.91 (95% CI: 0.50, 1.64) in patients with PD -L1 &lt; 1%.
+A subgroup analysis was performed in study BGB -A317 -315 in patients who had PDL1 ≥ 1% (tislelizumab arm [n=130; 58%] vs. placebo arm [n=132; 58%]) and PD -L1 &lt; 1% (which excludes not evaluable/indeterminate) (tislelizumab arm [n=89; 39%] vs. placebo arm [n=84; 37%]). The EFS HR was 0.53 (95% CI: 0.35, 0.79) in patients with PD -L1 ≥ 1% and 0.70 (95% CI: 0.43, 1.14) in patients with PDL1 &lt; 1%. The OS HR was 0.61 (95% CI: 0.38, 0.98) in patients with PD -L1 ≥ 1% and 0.91 (95% CI: 0.50, 1.64) in patients with PD -L1 &lt; 1%.
 
 ## First-line treatment of non-squamous NSCLC: BGB-A317-304
 
-BGB-A317-304 was a randomised, open-label, multicentre phase III study to investigate the efficacy and safety of tislelizumab in combination with platinum-pemetrexed versus platinum-pemetrexed alone as first-line treatment for chemotherapy-naïve patients with locally advanced non-squamous NSCLC who were not candidates for surgical resection or platinum-based chemoradiation, or metastatic non-squamous NSCLC.
+BGBA317 -304 was a randomised, open-label, multicentre phase III study to investigate the efficacy and safety of tislelizumab in combination with platinum-pemetrexed versus platinum-pemetrexed alone as first-line treatment for chemotherapy-naïve patients with locally advanced non-squamous NSCLC who were not candidates for surgical resection or platinum-based chemoradiation, or metastatic non-squamous NSCLC.
 
-The study excluded patients with active brain or leptomeningeal metastases, known EGFR mutations or ALK translocations sensitive to available targeted inhibitor therapy, active autoimmune disease, or any condition requiring systemic treatment with either corticosteroids (&gt;10 mg daily of prednisone or equivalent) or other immunosuppressants.
+The study excluded patients with active brain or leptomeningeal metastases, known EGFR mutations or ALK translocations sensitive to available targeted inhibitor therapy, active autoimmune disease, or any condition requiring systemic treatment with either c orticosteroids (&gt;10 mg daily of prednisone or equivalent) or other immunosuppressants.
 
-A total of 334 patients were randomised (2:1) to receive tislelizumab 200 mg combined with pemetrexed 500 mg/m 2  and carboplatin AUC 5 mg/ml/min or cisplatin 75 mg/m 2 (T+PP arm, N = 223) or pemetrexed 500 mg/m 2  and carboplatin AUC 5 mg/ml/min or cisplatin 75 mg/m 2 (PP arm, N = 111). The choice of platinum (cisplatin or carboplatin) was at the investigator's discretion.
+A total of 334 patients were randomised (2:1) to receive tislelizumab 200 mg combined with pemetrexed 500 mg/m 2 and carboplatin AUC 5 mg/ml/min or cisplatin 75 mg/m 2  (T+PP arm, N = 223) or pemetrexed 500 mg/m 2 and carboplatin AUC 5 mg/ml/min or cisplatin 75 mg/m 2 (PP arm, N = 111). The choice of platinum (cisplatin or carboplatin) was at the investigator's discretion.
 
-The treatment was administered on a 3-week cycle. After the administration of 4, 5 or 6 cycles of chemotherapy or tislelizumab combined with chemotherapy at the investigator's discretion, patients in the T+PP arm received tislelizumab 200 mg combined with pemetrexed 500 mg/m 2  on a 3-week cycle until disease progression or unacceptable toxicity; patients in the PP arm received pemetrexed 500 mg/m 2  alone until disease progression or unacceptable toxicity, and those with disease progression confirmed by Independent Review Committee (IRC) were given the option to cross over to receive tislelizumab monotherapy on a 3-week cycle.
+The treatment was administered on a 3week cycle. After the administration of 4, 5 or 6 cycles of chemotherapy or tislelizumab combined with chemotherapy at the investigator's discretion, patients in the T+PP arm received tislelizumab 200 mg combined with pemetrexed 500 mg/m 2  on a 3-week cycle until disease progression or unacceptable toxicity; patients in the PP arm received pemetrexed 500 mg/m 2  alone until disease progression or unacceptable toxicity, and those with disease progression confirmed by Indepe ndent Review Committee (IRC) were given the option to cross over to receive tislelizumab monotherapy on a 3-week cycle.
 
-Randomisation was stratified by PDL1 expression in tumour cells (TC) (&lt;1% versus 1% to 49% versus ≥50%) and disease stage (IIIB versus IV), as classified according to American Joint Committee on Cancer (AJCC), 7 th edition of Cancer Staging Manual. PD-L1 expression was evaluated at a central laboratory using the Ventana PD-L1 (SP263) assay that identified PD-L1 staining on tumour cells. Tumour assessments were conducted every 6 weeks for the first 6 months, then every 9 weeks for the second 6 months, then every 12 weeks.
+Randomisation was stratified by PD -L1 expression in tumour cells (TC) (&lt;1% versus 1% to 49% versus ≥50%) and disease stage (IIIB versus IV), as classified according to American Joint Committee on Cancer (AJCC), 7 th edition of Cancer Staging Manual. PD-L1 expression was evaluated at a central laboratory using the Ventana PD-L1 (SP263) assay that identified PD-L1 staining on tumour cells. Tumour assessments were conducted every 6 weeks for the first 6 months, then every 9 weeks for the second 6 months, then every 12 weeks.
 
-The baseline characteristics for patients in study BGB-A317-304 were: median age 61 years (range: 25 to 75), 29% age 65 years or older; 74% male; 100% Asian (all enrolled in China); 23.4% with ECOG PS of 0 and 76.6% with ECOG PS of 1; 18.3% with disease stage IIIB; 26.6% with unknown status for ALK rearrangement and 73.4% with negative ALK rearrangement; 36.2% never -smokers; 5.4% with brain metastases. The characteristics of age, sex, ECOG PS, stage, smoking status, PD-L1 TC score and prior anticancer treatments were balanced between the treatment arms.
+The baseline characteristics for patients in study BGBA317 -304 were: median age 61 years (range: 25 to 75), 29% age 65 years or older; 74% male; 100% Asian (all enrolled in China); 23.4% with ECOG PS of 0 and 76.6% with ECOG PS of 1; 18.3% with disease stage IIIB; 26.6% with unknown status for ALK rearrangement and 73.4% with negative ALK rearrangement; 36.2% never -smokers; 5.4% with brain metastases. The characteristics of age, sex, ECOG PS, stage, smoking status, PD-L1 TC score and prior anticancer treatments were balanced between the treatment arms.
 
-The primary efficacy endpoint was progression-free survival (PFS) per RECIST v1.1 by IRC in the intent-to-treat (ITT) analysis. The secondary efficacy endpoints included overall survival (OS), objective response rate (ORR) and duration of response (DoR) per IRC and per investigator.
+The primary efficacy endpoint was progressionfree survival (PFS) per RECIST v1.1 by IRC in the intent-to-treat (ITT) analysis. The secondary efficacy endpoints included overall survival (OS), objective response rate (ORR) and duration of response (DoR) per IRC and per investigator.
 
-The study met its primary endpoint at the interim analysis (data cut-off date of 23-Jan-2020), showing a statistically significant improvement in PFS with T+PP compared with PP. The stratified hazard ratio was 0.65 (95% CI: 0.47, 0.91; p = 0.0054) with a median PFS of 9.7 months with T+PP and 7.6 months with PP. The median OS follow-up times by reverse Kaplan-Meier methodology were 9.9 months in the T+PP arm and 9.7 months in the PP arm.
+The study met its primary endpoint at the interim analysis (data cut-off date of 23-Jan-2020), showing a statistically significant improvement in PFS with T+PP compared with PP. The stratified hazard ratio was 0.65 (95% CI: 0.47, 0.91; p = 0.0054) with a m edian PFS of 9.7 months with T+PP and 7.6 months with PP. The median OS followup times by reverse Kaplan -Meier methodology were 9.9 months in the T+PP arm and 9.7 months in the PP arm.
 
 <div style=\"page-break-after: always\"></div>
 
-The efficacy results of the final analysis (data cut-off date of 26-Oct-2020) were consistent with those of the interim analysis. At the final analysis, the median OS follow-up times by reverse Kaplan-Meier methodology were 18.4 months in the T+PP arm and 18.0 months in the PP arm.
+The efficacy results of the final analysis (data cut-off date of 26-Oct-2020) were consistent with those of the interim analysis. At the final analysis, the median OS follow -up times by reverse Kaplan -Meier methodology were 18.4 months in the T+PP arm and 18.0 months in the PP arm.
 
-Amongst the 334 patients in study BGB-A317-304, 110 (33%) patients had tumour cell PD-L1 expression ≥50% . Of these, 74 patients were in the tislelizumab plus chemotherapy group and 36 patients were in the placebo plus chemotherapy group. Efficacy results of the patients with tumour cell PDL1 expression ≥50% from the final analysis are shown in Table 4 and the Kaplan-Meier curve for PFS and OS is presented in Figures 3 and 4, respectively.
+Amongst the 334 patients in study BGBA317 -304, 110 (33%) patients had tumour cell PD-L1 expression ≥50% . Of these, 74 patients were in the tislelizumab plus chemotherapy group and 36 patients were in the placebo plus chemotherapy group. Efficacy results of the patients with tumour cell PDL1 expression ≥50% from the final analysis are shown in Table 4 and the Kaplan -Meier curve for PFS and OS is presented in Figures 3 and 4, respectively.
 
 Table 4 Efficacy results in BGB-A317-304 in patients with PD-L1 expression ≥50%
 
@@ -796,9 +790,9 @@ Table 4 Efficacy results in BGB-A317-304 in patients with PD-L1 expression ≥50
 | DoR b                                |                                                 |                                  |
 | Median DoR (months) (95% CI)         | NE (13.2, NE)                                   | 8.5 (3.3 NE)                     |
 
-PFS = progression-free survival; CI = confidence interval; OS = overall survival; ORR = objective response rate; DoR = duration of response; NE = not estimable.
+PFS = progression -free survival; CI = confidence interval; OS = overall survival; ORR = objective response rate; DoR = duration of response; NE = not estimable.
 
-Medians were estimated by KaplanMeier method with 95% CIs estimated using the method of Brookmeyer and Crowley.
+Medians were estimated by Kaplan -Meier method with 95% CIs estimated using the method of Brookmeyer and Crowley.
 
 a Hazard ratio was estimated from stratified Cox model with pemetrexed+platinum group as reference group and stratified by disease stage (IIIB versus IV).
 
@@ -808,7 +802,7 @@ c 95% CI was calculated using Clopper -Pearson method.
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 3 Kaplan-Meier plot of PFS in BGB-A317-304 in patients with PD-L1 ≥50%
+Figure 3 Kaplan-Meier plot of PFS in BGB-A317-304 in patients with PD -L1 ≥50%
 
 <!-- image -->
 
@@ -818,25 +812,25 @@ Figure 4 Kaplan-Meier plot of OS in BGB-A317-304 in patients with PD-L1 ≥50%
 
 First-line treatment of squamous NSCLC: BGB-A317-307
 
-BGB-A317-307 was a randomised, open-label, multicentre phase III study to compare the efficacy and safety of tislelizumab in combination with paclitaxel plus carboplatin or nab-paclitaxel plus carboplatin versus of paclitaxel plus carboplatin alone as first-line treatment for chemotherapy-naïve patients with locally advanced squamous NSCLC who were not candidates for surgical resection or platinum-based chemoradiation or metastatic squamous NSCLC.
+BGBA317 -307 was a randomised, open-label, multicentre phase III study to compare the efficacy and safety of tislelizumab in combination with paclitaxel plus carboplatin or nab-paclitaxel plus carboplatin versus of paclitaxel plus carboplatin alone as first-line treatment for chemotherapy-naïve patients with locally advanced squamous NSCLC who were not candidates for surgical resection or platinum-based chemoradiation or metastatic squamous NSCLC.
 
 The study excluded patients with active brain or leptomeningeal metastases, known EGFR mutations or ALK translocations sensitive to available targeted inhibitor therapy, active autoimmune disease, or any condition requiring systemic treatment with either corticosteroids (&gt;10 mg daily of prednisone or equivalent) or other immunosuppressive treatments.
 
-A total of 360 patients were randomised (1:1:1) to receive tislelizumab 200 mg combined with paclitaxel 175 mg/m 2 and carboplatin AUC 5 mg/ml/min (T+PC arm, N = 120), or tislelizumab 200 mg combined with nab-paclitaxel 100 mg/m 2  and carboplatin AUC 5 mg/ml/min (T+nPC arm, N = 119), or paclitaxel 175 mg/m 2 and carboplatin AUC 5 mg/ml/min (PC arm, N = 121).
+A total of 360 patients were randomised (1:1:1) to receive tislelizumab 200 mg combined with paclitaxel 175 mg/m 2 and carboplatin AUC 5 mg/ml/min (T+PC arm, N = 120), or tislelizumab 200 mg combined with nab-paclitaxel 100 mg/m 2 and carboplatin AUC 5 mg/ml/min (T+nPC arm, N = 119), or paclitaxel 175 mg/m 2 and carboplatin AUC 5 mg/ml/min (PC arm, N = 121).
 
 <div style=\"page-break-after: always\"></div>
 
 The treatment was administered on a 3-week cycle, until the patient completed administration of 4 to 6 cycles of chemotherapy or tislelizumab combined with chemotherapy at the investigator's discretion. Patients in the T+nPC and T+PC arms received tislelizumab until disease progression or unacceptable toxicity. Patients in the PC arm with disease progression were given the option to cross over to receive tislelizumab monotherapy on a 3-week cycle.
 
-Randomisation was stratified by PDL1 expression in tumour cells (TC) (&lt;1% versus 1% to 49% versus ≥50%) and tumour staging (IIIB versus IV), as classified according to American Joint Committee on Cancer (AJCC), 7 th edition of Cancer Staging Manual. PD-L1 expression was evaluated at a central laboratory using the Ventana PD-L1(SP263) assay that identified PD-L1 staining on tumour cells. Tumour assessments were conducted every 6 weeks for the first 6 months, then every 9 weeks for the remainder of the first year, then every 12 weeks until disease progression.
+Randomisation was stratified by PD -L1 expression in tumour cells (TC) (&lt;1% versus 1% to 49% versus ≥50%) and tumour staging (IIIB versus IV), as classified according to American Joint Committee on Cancer (AJCC), 7 th edition of Cancer Staging Manual. PD-L1 expression was evaluated at a central laboratory using the Ventana PD-L1(SP263) assay that identified PD-L1 staining on tumour cells. Tumour assessments were conducted every 6 weeks for the first 6 months, then every 9 weeks for the remainder of the first year, then every 12 weeks until disease progression.
 
-The baseline characteristics for the study population were: median age 62.0 years (range: 34 to 74), 35.3% age 65 years or older; 91.7% male; 100% Asian (all enrolled in China), 23.6% with ECOG PS of 0 and 76.4% with ECOG PS of 1; 33.9% diagnosed with stage IIIB and 66.1% with stage IV at baseline; 16.4% never -smokers; 38.3% with PD -L1 TC score &lt;1%, 25.3% with PD -L1 TC score ≥1% and ≤49%, 34.7% with PD -L1 TC score ≥50%. The c haracteristics of age, sex, ECOG PS, stage, smoking status, PD-L1 TC score and prior anticancer treatments were balanced between the treatment arms.
+The baseline characteristics for the study population were: median age 62.0 years (range: 34 to 74), 35.3% age 65 years or older; 91.7% male; 100% Asian (all enrolled in China), 23.6% with ECOG PS of 0 and 76.4% with ECOG PS of 1; 33.9% diagnosed with stage IIIB and 66.1% with stage IV at baseline; 16.4% never -smokers; 38.3% with PD -L1 TC score &lt;1%, 25.3% with PD -L1 TC score ≥1% and ≤49%, 34.7% with PD -L1 TC score ≥50%. The characteristics of age, sex, ECOG PS, stage, smoking status, PD-L1 TC score and prior anticancer treatments were balanced between the treatment arms.
 
-The primary efficacy endpoint was progression-free survival (PFS) as assessed by IRC per RECIST v1.1 in the ITT analysis which was to be tested sequentially in arms T+PC versus PC and arms T+nPC versus PC. The secondary efficacy endpoints included overall survival (OS), objective response rate (ORR) and duration of response (DoR) per IRC and per investigator.
+The primary efficacy endpoint was progressionfree survival (PFS) as assessed by IRC per RECIST v1.1 in the ITT analysis which was to be tested sequentially in arms T+PC versus PC and arms T+nPC versus PC. The secondary efficacy endpoints included overall survival (OS), objective response rate (ORR) and duration of response (DoR) per IRC and per investigator.
 
-The study met its primary endpoint at the interim analysis (data cut-off date of 06-Dec-2019), showing statistically significant improvements in PFS with tislelizumab in combination with paclitaxel and carboplatin (T+PC arm) and tislelizumab in combination with nab-paclitaxel and carboplatin (T+nPC arm) compared with paclitaxel and carboplatin alone (PC arm). The stratified HR (T+PC arm versus PC arm) was 0.48 (95% CI: 0.34, 0.69; p &lt;0.0001). The stratified HR (T+nPC arm versus PC arm) was 0.45 (95% CI: 0.32, 0.64; p &lt;0.0001). Median PFS was 7.6 months in the T+PC arm, 7.6 months in the T+nPC arm and 5.4 months in the PC arm. The median OS follow-up times by reverse KaplanMeier methodology were 8.8 months in the T+PC arm, 8.8 months in the T+nPC arm, and 8 months in the PC arm.
+The study met its primary endpoint at the interim analysis (data cut-off date of 06-Dec2019), showing statistically significant improvements in PFS with tislelizumab in combination with paclitaxel and carboplatin (T+PC arm) and tislelizumab in combination with nab-paclitaxel and carboplatin (T+nPC arm) compared with paclitaxel and carboplatin alone (PC arm). The stratified HR (T+PC arm versus PC arm) was 0.48 (95% CI: 0.34, 0.69; p &lt;0.0001). The stratified HR (T+nPC arm versus PC arm) was 0.45 (95% CI: 0.32, 0.64; p &lt;0.0001). Median PFS was 7.6 months in the T+PC arm, 7.6 months in the T+nPC arm and 5.4 months in the PC arm. The median OS followup times by reverse Kaplan -Meier methodology were 8.8 months in the T+PC arm, 8.8 months in the T+nPC arm, and 8 months in the PC arm.
 
-The final analysis (data cut-off date of 30-Sep-2020) showed the consistent results from the interim analysis. At the final analysis, the median OS follow-up times by reverse Kaplan-Meier methodology were 18.8 months in the T+PC arm, 18.9 months in the T+nPC arm, and 18.1 months in the PC arm.
+The final analysis (data cut-off date of 30-Sep-2020) showed the consistent results from the interim analysis. At the final analysis, the median OS followup times by reverse Kaplan -Meier methodology were 18.8 months in the T+PC arm, 18.9 months in the T+nPC arm, and 18.1 months in the PC arm.
 
 Efficacy results for the final analysis are shown in Table 5, Figure 5 and Figure 6.
 
@@ -862,7 +856,7 @@ Table 5 Efficacy results in BGB-A317-307
 | DoR b                            |                    |                    |                  |
 | Median DoR (months) (95% CI)     | 13.2 (7.85, 18.79) | 10.4 (8.34, 17.15) | 4.8 (4.04, 5.72) |
 
-PFS = progression-free survival; CI = confidence interval; OS = overall survival; ORR = objective response rate; DoR = duration of response; NE = not estimable.
+PFS = progression -free survival; CI = confidence interval; OS = overall survival; ORR = objective response rate; DoR = duration of response; NE = not estimable.
 
 a Stratified by stratification factors: disease stage (IIIB versus IV) and PD-L1 expression in tumour cell (≥50% TC versus 1% to 49% TC versus &lt;1% TC).
 
@@ -882,7 +876,7 @@ CI = Confidence interval; T+PC = tislelizumab+paclitaxel+carboplatin; T+nPC = ti
 
 T+PC arm versus T+nPC arm versus PC arm
 
-CI = Confidence interval; T+PC = tislelizumab+paclitaxel+carboplatin; T+nPC = tislelizumab+nab-paclitaxel+carboplatin; PC = paclitaxel+carboplatin; NE = not estimable.
+CI = Confidence interval; T+PC = tislelizumab+paclitaxel+carboplatin; T+nPC = tislelizumab+nabpaclitaxel+carboplatin; PC = paclitaxel+carboplatin; NE = not estimable.
 
 <!-- image -->
 
@@ -893,25 +887,25 @@ Subgroup analyses demonstrated consistent PFS treatment effect across major demo
 
 ## Previously treated NSCLC: BGB-A317-303
 
-BGB-A317-303 was a randomised, open-label, multicentre phase III study to investigate the efficacy and safety of tislelizumab compared with docetaxel in patients with locally advanced or metastatic NSCLC (squamous or non-squamous), who had experienced disease progression on or after a prior platinum-based regimen.
+BGBA317 -303 was a randomised, open-label, multicentre phase III study to investigate the efficacy and safety of tislelizumab compared with docetaxel in patients with locally advanced or metastatic NSCLC (squamous or non-squamous), who had experienced disease progression on or after a prior platinum-based regimen.
 
-The study excluded patients with known EGFR mutation or ALK rearrangement, prior PD-(L)1 inhibitor or CTLA-4 inhibitor treatment, active autoimmune disease, or any condition requiring systemic treatment with either corticosteroids (&gt;10 mg daily of prednisone or equivalent) or other immunosuppressive treatments.
+The study excluded patients with known EGFR mutation or ALK rearrangement, prior PD -(L)1 inhibitor or CTLA -4 inhibitor treatment, active autoimmune disease, or any condition requiring systemic treatment with either corticosteroids (&gt;10 mg daily of prednisone or equivalent) or other immunosuppressive treatments.
 
-A total of 805 patients were randomised (2:1) ratio to receive tislelizumab 200 mg intravenously every 3 weeks (N = 535) or docetaxel 75 mg/m 2 intravenously every 3 weeks (N = 270). Randomisation was stratified by histology (squamous versus non-squamous), lines of therapy (second- versus third-line), and PDL1 expression in tumour cells (TC) (≥25% versus &lt;25%). Admi nistration of docetaxel and tislelizumab continued until disease progression, as assessed by investigator per RECIST v1.1, or unacceptable toxicity. PD-L1 expression was evaluated at a central laboratory using the Ventana PD-L1 (SP263) assay that identified PD-L1 staining on tumour cells. Tumour assessments were conducted every 9 weeks for 52 weeks after randomisation and continued every 12 weeks thereafter. Survival status was followed every 3 months after discontinuation of the study treatment.
+A total of 805 patients were randomised (2:1) ratio to receive tislelizumab 200 mg intravenously every 3 weeks (N = 535) or docetaxel 75 mg/m 2 intravenously every 3 weeks (N = 270). Randomisation was stratified by histology (squamous versus non-squamous), lines of therapy (second- versus third-line), and PDL1 expression in tumour cells (TC) (≥25% versus &lt;25%). Administration of docetaxel and ti slelizumab continued until disease progression, as assessed by investigator per RECIST v1.1, or unacceptable toxicity. PD-L1 expression was evaluated at a central laboratory using the Ventana PD-L1 (SP263) assay that identified PD-L1 staining on tumour cells. Tumour assessments were conducted every 9 weeks for 52 weeks after randomisation and continued every 12 weeks thereafter. Survival status was followed every 3 months after discontinuation of the study treatment.
 
-The baseline characteristics for the study population were: median age 61 years (range: 28 to 88), 32.4% age 65 years or older, 3.2% age 75 years or older; 77.3% male; 17.0% Caucasian and 79.9% Asian; 20.6% with ECOG PS of 0 and 79.4% with ECOG PS of 1; 85.5% with metastatic disease; 30.3% never -smokers; 46.0% with squamous and 54.0% non -squamous histology; 65.8% with wild -type and 34% with unknown EGFR status; 46.1% with wild -type and 53.9% with unknown ALK status; 7.1% with previously treated brain metastases.
+The baseline characteristics for the study population were: median age 61 years (range: 28 to 88), 32.4% age 65 years or older, 3.2% age 75 years or older; 77.3% male; 17.0% Caucasian and 79.9% Asian; 20.6% with ECOG PS of 0 and 79.4% with ECOG PS of 1; 85.5% with metastatic disease; 30.3% never -smokers; 46.0% with squamous and 54.0% non -squamous histology; 65.8% with wild -type and 34% with unknown EGFR status; 46.1% with wild -type and 53.9% with unknown ALK status; 7.1% with previously treated brain metast ases.
 
 <div style=\"page-break-after: always\"></div>
 
-5 7.0% of the patients had a PD -L1 TC score &lt;25% and 42.5% had a PD -L1 TC score ≥25%. All patients had received prior therapy with a platinumdoublet regimen: 84.7% patients received one prior therapy, 15.3% had received two prior therapies.
+57.0% of the patients had a PD -L1 TC score &lt;25% and 42.5% had a PD -L1 TC score ≥25%. All patients had received prior therapy with a platinumdoublet regimen: 84.7% patients received one prior therapy, 15.3% had received two prior therapies.
 
-The dual-primary efficacy endpoints were OS in the ITT and PDL1 TC score ≥25% analysis sets. Additional efficacy endpoints included investigator-assessed PFS, ORR and DoR.
+The dual-primary efficacy endpoints were OS in the ITT and PDL1 TC score ≥25% analysis sets. Additional efficacy endpoints included investigator -assessed PFS, ORR and DoR.
 
-BGB-A317-303 met both dual-primary endpoints of OS in the ITT analysis and PDL1 ≥25% analysis sets. At the prespecified interim analysis (data cut-off date 10-Aug-2020), a statistically significant improvement in OS was observed in the ITT population. Results favoured the tislelizumab arm (HR = 0.64; 95% CI: 0.53, 0.78; p &lt; 0.0001). Median OS was 17. 2 months for the tislelizumab arm and 11.9 months for the docetaxel arm. The median follow-up times by reverse Kaplan-Meier methodology were 19.5 months in the tislelizumab arm and 17.0 months in the docetaxel arm. At the final analysis (data cutoff date 15-Jul-2021), a statistically significant improvement in OS was observed in the PDL1 ≥25% analysis set favouring the tislelizumab arm (stratified HR = 0.53; 95% CI: 0.41, 0.70; p &lt; 0.0001) with median OS being 19.3 months for the tislelizumab arm and 11.5 months for the docetaxel arm. The median follow-up time by reverse Kaplan-Meier methodology at the final analysis were 31.1 months in the tislelizumab arm and 27.9 months in the docetaxel arm.
+BGBA317 -303 met both dual-primary endpoints of OS in the ITT analysis and PDL1 ≥25% analysis sets. At the prespecified interim analysis (data cut -off date 10Aug -2020), a statistically significant improvement in OS was observed in the ITT population. Results favoured the tislelizumab arm (HR = 0.64; 95% CI: 0.53, 0.78; p &lt; 0.0001). Median OS was 17.2 months for the tislelizumab arm and 11.9 months for the docetaxel arm. The median followup times by reverse Kaplan -Meier methodology were 19.5 months in the tislelizumab arm and 17.0 months in the docetaxel arm. At the final analysis (data cutoff date 15-Jul-2021), a statistically significant improvement in OS was observed in the PDL1 ≥25% analysis set favouring the tislelizumab arm (stratified HR = 0.53; 95% CI: 0.41, 0.70; p &lt; 0.0001) with median OS being 19.3 months for the tislelizumab arm and 11.5 months for the docetaxel arm. The median followup time by reverse Kaplan -Meier methodology at the final analysis were 31.1 months in the tislelizumab arm and 27.9 months in the docetaxel arm.
 
 The final analysis (data cut-off date 15-Jul-2021) showed consistent efficacy results in the ITT population compared to the interim analysis.
 
-Table 6 and Figure 7 summarise the efficacy results for BGB-A317-303 (ITT analysis set) at the final analysis.
+Table 6 and Figure 7 summarise the efficacy results for BGBA317 -303 (ITT analysis set) at the final analysis.
 
 Table 6 Efficacy results in BGB-A317-303
 
@@ -929,13 +923,13 @@ Table 6 Efficacy results in BGB-A317-303
 | DoR c                         |                          |                       |
 | Median DoR (months) (95% CI)  | 14.7 (10.55, 21.78)      | 6.2 (4.11, 8.31)      |
 
-OS = overall survival; CI = confidence interval; PFS = progression-free survival; ORR = objective response rate; DoR = duration of response.
+OS = overall survival; CI = confidence interval; PFS = progression -free survival; ORR = objective response rate; DoR = duration of response.
 
-Medians were estimated by KaplanMeier method with 95% CIs estimated using the method of Brookmeyer and Crowley.
+Medians were estimated by Kaplan -Meier method with 95% CIs estimated using the method of Brookmeyer and Crowley.
 
 a Hazard ratio was estimated from stratified Cox model with docetaxel group as reference group.
 
-b Stratified by stratification factors: histology (squamous versus non-squamous), lines of therapy (second versus third), and PDL1 expression in tumour cells (≥25% PD -L 1 score versus &lt;25% PD -L1 score).
+b Stratified by stratification factors: histology (squamous versus non-squamous), lines of therapy (second versus third), and PDL1 expression in tumour cells (≥25% PD -L1 score versus &lt;25% PD -L1 score).
 
 c Confirmed by investigator.
 
@@ -949,24 +943,24 @@ Prespecified subgroup analyses demonstrated a consistent OS treatment effect in 
 
 Table 7 summarises efficacy results of OS by tumour PDL1 (&lt;25% TC, ≥25% TC) expression in prespecified subgroup analyses.
 
-Table 7 Efficacy results of OS by tumour PD-L1 expression (&lt;25% TC, ≥25% TC) in BGB -A317-303
+Table 7 Efficacy results of OS by tumour PDL1 expression (&lt;25% TC, ≥25% TC) in BGB -A317-303
 
-|                                          | Tislelizumab arm N = 535   | Docetaxel arm N = 270   |
-|------------------------------------------|----------------------------|-------------------------|
-| PD-L1 expression in tumour cells <25%, n | 307                        | 152                     |
-| Events, n (%)                            | 223 (72.6)                 | 117 (77.0)              |
-| Median OS (months) (95% CI)              | 15.2 (13.4, 17.6)          | 12.3 (9.3, 14.3)        |
-| Hazard ratio a (95% CI)                  | 0.79 (0.64, 0.99)          | 0.79 (0.64, 0.99)       |
-| PD-L1 expression in tumour cells ≥25%, n | 227                        | 115                     |
-| Events, n (%)                            | 141 (62.1)                 | 86 (74.8)               |
-| Median OS (months) (95% CI)              | 19.3 (16.5, 22.6)          | 11.5 (8.2, 13.5)        |
-| Hazard ratio a (95% CI)                  | 0.54 (0.41, 0.71)          | 0.54 (0.41, 0.71)       |
+|                                          | Tislelizumab arm   | Docetaxel arm     |
+|------------------------------------------|--------------------|-------------------|
+| PD-L1 expression in tumour cells <25%, n | 307                | 152               |
+| Events, n (%)                            | 223 (72.6)         | 117 (77.0)        |
+| Median OS (months) (95% CI)              | 15.2 (13.4, 17.6)  | 12.3 (9.3, 14.3)  |
+| Hazard ratio a (95% CI)                  | 0.79 (0.64, 0.99)  | 0.79 (0.64, 0.99) |
+| PD-L1 expression in tumour cells ≥25%, n | 227                | 115               |
+| Events, n (%)                            | 141 (62.1)         | 86 (74.8)         |
+| Median OS (months) (95% CI)              | 19.3 (16.5, 22.6)  | 11.5 (8.2, 13.5)  |
+| Hazard ratio a (95% CI)                  | 0.54 (0.41, 0.71)  | 0.54 (0.41, 0.71) |
 
 ## Small cell lung cancer
 
 ## First-line treatment of extensive-stage SCLC: BGB-A317-312
 
-BGB-A317-312 was a randomised, double-blind, multicentre phase III study to compare the efficacy and safety of tislelizumab in combination with cisplatin or carboplatin plus etoposide versus placebo in combination with cisplatin or carboplatin plus etoposide as first-line treatment in patients with extensive-stage small cell lung cancer (ES-SCLC).
+BGBA317 -312 was a randomised, double-blind, multicentre phase III study to compare the efficacy and safety of tislelizumab in combination with cisplatin or carboplatin plus etoposide versus placebo in combination with cisplatin or carboplatin plus etoposide as first-line treatment in patients with extensive-stage small cell lung cancer (ES-SCLC).
 
 The study included patients with histologically or cytologically confirmed diagnosis of ES-SCLC who had not received any prior systemic treatment for ES-SCLC and ECOG performance status 0 or 1.
 
@@ -979,15 +973,15 @@ A total of 457 patients were randomised (1:1) to receive:
 
 The choice of platinum agent (cisplatin or carboplatin) was at the investigator's discretion. Tislelizumab 200 mg monotherapy or placebo continued every 3 weeks until disease progression, loss of clinical benefit, unacceptable toxicity.
 
-Randomisation was stratified by ECOG performance status (0 versus 1), investigator-chosen chemotherapy (carboplatin versus cisplatin), and brain metastasis (yes versus no).
+Randomisation was stratified by ECOG performance status (0 versus 1), investigator -chosen chemotherapy (carboplatin versus cisplatin), and brain metastasis (yes versus no).
 
 The primary efficacy endpoint was overall survival (OS) in the intent-to-treat analysis set. The secondary efficacy endpoints included investigator-assessed progression-free survival (PFS), objective response rate (ORR), and duration of response (DoR) per RECIST v1.1.
 
-Demographics and baseline characteristics were generally balanced between the 2 treatment arms. The baseline characteristics for all 457 randomised patients were: median age of 62 years (range: 31 to 78 years); 37.2% were ≥65 years of age; 81.4% male; 100% Asian (all enrolled in China), 84.9% with ECOG PS o f 1; 1.1% had a history of brain metastases; 79% received carboplatin per investigator's choice; 62.6% were current smokers; and 89.3% had disease Stage IV defined by AJCC 7 th Edition.
+Demographics and baseline characteristics were generally balanced between the 2 treatment arms. The baseline characteristics for all 457 randomised patients were: median age of 62 years (range: 31 to 78 years); 37.2% were ≥65 years of age; 81.4% male; 100% Asian (all enrolled in China), 84.9% with ECOG PS of 1; 1.1% had a history of brain metastases; 79% received carboplatin per investigator's choice; 62.6% were current smokers; and 89.3% had disease Stage IV defined by AJCC 7 th Edition.
 
-At the time of the prespecified final analysis (data cut-off 19 April 2023), BGB-A317-312 showed a statistically significant improvement in OS for patients randomised to the tislelizumab plus chemotherapy arm as compared to the placebo plus chemotherapy arm. The stratified HR was 0.75 (95% CI: 0.61, 0.93; 1 -sided p-value of 0.004), with a median OS of 15.5 months in the tislelizumab plus chemotherapy arm compared to 13.5 months in the placebo plus chemotherapy arm.
+At the time of the prespecified final analysis (data cut -off 19 April 2023), BGBA317 -312 showed a statistically significant improvement in OS for patients randomised to the tislelizumab plus chemotherapy arm as compared to the placebo plus chemotherapy ar m. The stratified HR was 0.75 (95% CI: 0.61, 0.93; 1 -sided p-value of 0.004), with a median OS of 15.5 months in the tislelizumab plus chemotherapy arm compared to 13.5 months in the placebo plus chemotherapy arm.
 
-A descriptive updated analysis (data cut-off 29 December 2023) showed consistent efficacy results with the final analysis. The median OS follow-up times by reverse Kaplan-Meier methodology were 39.8 months ( 95% CI : 36.2 to 41.4 months) in the tislelizumab plus chemotherapy arm and 36.4 months (9 5% CI : 35.0 to 40.9 months) in the placebo plus chemotherapy arm. Efficacy results of the updated analysis are shown in Table 8 and Figure 8. Data for patients with brain metastases are too limited to draw conclusions on this population.
+A descriptive updated analysis (data cutoff 29 December 2023) showed consistent efficacy results with the final analysis. The median OS followup times by reverse Kaplan -Meier methodology were 39.8 months ( 95% CI : 36.2 to 41.4 months) in the tislelizumab plus chemotherapy arm and 36.4 months ( 95% CI : 35.0 to 40. 9 months) in the placebo plus chemotherapy arm. Efficacy results of the updated analysis are shown in Table 8 and Figure 8. Data for patients with brain metastases are too limited to draw conclusions on this population.
 
 Table 8 Efficacy results in BGB-A317-312 - Updated analysis
 
@@ -1011,7 +1005,7 @@ Table 8 Efficacy results in BGB-A317-312 - Updated analysis
 
 (1 vs 0) and platinum (Carboplatin vs Cisplatin) with placebo + chemotherapy as the reference group.
 
-c   Objective responses were confirmed per RECIST v1.1.
+c Objective responses were confirmed per RECIST v1.1 .
 
 d The 95% CI was estimated using the Clopper -Pearson method.
 
@@ -1021,21 +1015,21 @@ Figure 8 Kaplan-Meier plot of OS in BGB-A317-312
 
 ## Gastric or gastroesophageal junction (G/GEJ) adenocarcinoma First-line treatment of G/GEJ adenocarcinoma: BGB-A317-305
 
-BGB-A317-305 is a randomised, multicentre, double-blind, placebo-controlled phase III study comparing the efficacy and safety of tislelizumab plus platinum and fluoropyrimidine-based chemotherapy versus placebo plus platinum and fluoropyrimidine-based chemotherapy as first-line treatment in patients with locally advanced unresectable or metastatic G/GEJ adenocarcinoma.
+BGBA317 -305 is a randomised, multicentre, double-blind, placebo-controlled phase III study comparing the efficacy and safety of tislelizumab plus platinum and fluoropyrimidine-based chemotherapy versus placebo plus platinum and fluoropyrimidine-based chemotherapy as first-line treatment in patients with locally advanced unresectable or metastatic G/GEJ adenocarcinoma.
 
 The study included only patients with histologically confirmed adenocarcinoma and with no prior systemic therapy for advanced disease. Patients may have received prior neoadjuvant or adjuvant therapy as long as it was completed and have no recurrence or disease progression for at least 6 months.
 
 Patients were enrolled regardless of their tumour PD-L1 expression level, which was evaluated prospectively at a central laboratory by Tumour Area Positivity (TAP) score, which is defined as total percentage of tumor area (tumor and any desmoplastic stroma) covered by tumor cells with PD-L1 membrane staining (any intensity), and tumor associated immune cells with PD-L1 staining (any intensity), visually estimated by pathologists using Ventana PD-L1 (SP263) assay.
 
-The study excluded patients who had squamous cell or undifferentiated or other histological type G/GEJ cancer and patients who had known HER-2 positive tumours.
+The study excluded patients who had squamous cell or undifferentiated or other histological type G/GEJ cancer and patients who had known HER -2 positive tumours.
 
 Randomisation was stratified by geographical region (China [including Taiwan] versus Japan and South Korea versus rest of the world [ROW, including US and Europe]), PD -L1 expression (PD-L1
 
 <div style=\"page-break-after: always\"></div>
 
-TAP score ≥5% versus PD -L1 TAP score &lt;5%), prese nce of peritoneal metastasis (yes versus no) and ICC option (oxaliplatin plus capecitabine versus cisplatin plus 5-FU).
+TAP score ≥5% versus PD -L1 TAP score &lt;5%), presence of peritoneal metastasis (yes versus no) and ICC option (oxaliplatin plus capecitabine versus cisplatin plus 5-FU).
 
-Patients were randomised (1:1) to receive tislelizumab 200 mg or placebo every 3 weeks in combination with platinum and fluoropyrimidine-based chemotherapy on a 21-day cycle. Tislelizumab (or placebo) was administered until disease progression or unacceptable toxicity. After 24 months of treatment, study therapy could be continued beyond two years if the investigator considered this to be in the best interest of the patient based on an assessment of clinical benefit and potential risks.
+Patients were randomised (1:1) to receive tislelizumab 200 mg or placebo every 3 weeks in combination with platinum and fluoropyrimidine-based chemotherapy on a 21-day cycle. Tislelizumab (or placebo) was administered until disease progression or unaccepta ble toxicity. After 24 months of treatment, study therapy could be continued beyond two years if the investigator considered this to be in the best interest of the patient based on an assessment of clinical benefit and potential risks.
 
 Chemotherapy consisted of:
 
@@ -1045,17 +1039,17 @@ or
 
 - cisplatin 80 mg/m² IV on day 1, and 5-FU 800 mg/m2/day by continuous IV infusion over 24 hours daily on days 1 to 5, repeated every 3 weeks. Cisplatin and 5-FU were given for up to 6 cycles.
 
-The primary efficacy endpoints were overall survival (OS) in the PD-L1 Positive Analysis Set (PD-L1 TAP score ≥5%) and ITT ana lysis set (all randomised patients). The secondary efficacy endpoints were PFS, ORR and DoR, as assessed by the investigator per RECIST v1.1, and health-related quality of life (HRQoL).
+The primary efficacy endpoints were overall survival (OS) in the PDL1 Positive Analysis Set (PD -L1 TAP score ≥5%) and ITT analysis set (all randomised patients). The secondary efficacy endpoints were PFS, ORR and DoR, as assessed by the investigator per R ECIST v1.1, and health-related quality of life (HRQoL).
 
 Tumour assessment was performed approximately every 6 weeks during the first 48 weeks and thereafter approximately every 9 weeks.
 
 A total of 997 patients were randomised to either the tislelizumab + chemotherapy arm (n = 501) or the placebo + chemotherapy arm (n = 496). Of the 997 patients, 546 (54.8%) had PD -L1 TAP score ≥5% (tislelizumab + chemotherapy: n = 274; placebo + chemotherapy: n = 272), 931 (93.4%) received oxaliplatin + capecitabine treatment (tislelizumab + chemotherapy: n = 466; placebo + chemotherapy: n = 465).
 
-In patients whose tumours expressed PD-L1 with a TAP score ≥ 5%, the baseline characteristics for the study population were: median age of 62 years (range: 23 to 84), 39.2% age 65 years or older; 72.2% male; 23.1% White and 73.8% Asian; 33.7% with ECOG PS of 0 and 66.3% with ECOG PS of 1. A total of 79.9% patients had primary tumour location of stomach; 98.5% of patients had metastatic disease at baseline; 43.6% and 39.7% and patients had liver metastasis and peritoneal metastasis, respectively.
+In patients whose tumours expressed PDL1 with a TAP score ≥ 5%, the baseline characteristics for the study population were: median age of 62 years (range: 23 to 84), 39.2% age 65 years or older; 72.2% male; 23.1% White and 73.8% Asian; 33.7% with ECOG PS of 0 and 66.3% with ECOG PS of 1. A total of 79.9% patients had primary tumour location of stomach; 98.5% of patients had metastatic disease at baseline; 43.6% and 39.7% and patients had liver metastasis and peritoneal metastasis, respectively.
 
-At prespecified interim analysis, BGB-A317-305 demonstrated a statistically significant improvement in OS for patients randomised to the tislelizumab + chemotherapy arm as compared to the placebo + chemotherapy arm in patients with PDL1 TAP score ≥5%. The stratified HR was 0.74 (95% CI: 0.59 to 0.94; 1-sided p-value of 0.0056), with a median OS of 17.2 months in the tislelizumab + chemotherapy arm compared to 12.6 months in the placebo + chemotherapy arm. The study also demonstrated a statistically significant improvement in PFS in patients with PDL1 TAP score ≥5%. The stratified HR was 0.67 (95% CI: 0.55 to 0.83; 1 -sided pvalue &lt; 0.0001), with a median PFS of 7.2 months for tislelizumab + chemotherapy compared to 5.9 months for placebo + chemotherapy.
+At prespecified interim analysis, BGB -A317 -305 demonstrated a statistically significant improvement in OS for patients randomised to the tislelizumab + chemotherapy arm as compared to the placebo + chemotherapy arm in patients with PDL1 TAP score ≥5%. The stratified HR was 0.74 (95% CI: 0.59 to 0.94; 1 -sided p-value of 0.0056), with a median OS of 17.2 months in the tislelizumab + chemotherapy arm compared to 12.6 months in the placebo + chemotherapy arm. The study also demonstrated a statistically significant improvement in PFS in patients with PDL1 TAP score ≥5%. The stratified HR was 0.67 (95% CI: 0.55 to 0.83; 1 -sided pvalue &lt; 0.0001), with a median PFS of 7.2 months for tislelizumab + chemotherapy compared to 5.9 months for placebo + chemotherapy.
 
-At prespecified final analysis, BGB-A317-305 demonstrated a statistically significant improvement for all randomised patients. The stratified HR was 0.80 (95% CI: 0.70 to 0.92; 1 -sided p-value of 0.0011), with a median OS of 15.0 months in the tislelizumab + chemotherapy arm compared to 12.9 months in the placebo + chemotherapy arm. The updated results of OS in patients with PDL1 TAP score ≥5% were consistent with its primary analysis results.
+At prespecified final analysis, BGB -A317 -305 demonstrated a statistically significant improvement for all randomised patients. The stratified HR was 0.80 (95% CI: 0.70 to 0.92; 1 -sided p-value of 0.0011), with a median OS of 15.0 months in the tislelizumab + chemotherapy arm compared to 12.9 months in the placebo + chemotherapy arm. The updated results of OS in patients with PDL1 TAP score ≥5% were consistent with its primary analysis results.
 
 The final analysis efficacy results from patients with PD-L1 TAP score ≥5% are shown in Table 9 and in Figure 9.
 
@@ -1078,7 +1072,8 @@ Table 9 Efficacy results in BGB-A317-305 patients with PDL1 TAP score ≥ 5% (fi
 | Hazard ratio c (95% CI)             | 0.68 (0.56, 0.83)                       | 0.68 (0.56, 0.83)                  |
 | ORR (%) (95% CI)                    | 51.5 (45.4, 57.5)                       | 42.6 (36.7, 48.8)                  |
 
-- b   Medians were estimated using KaplanMeier method with 95% CIs estimated using the method of Brookmeyer and Crowley.
+- OS = overall survival; CI = confidence interval; PFS = progression -free survival; ORR = objective response rate. a   Median followup time was estimated by the reverse Kaplan -Meier method.
+- b Medians were estimated using Kaplan -Meier method with 95% CIs estimated using the method of Brookmeyer and Crowley.
 - c Stratified by regions (east Asia versus US, Europe) and peritoneal metastasis.
 - d One-sided p-value from stratified log-rank test.
 
@@ -1098,7 +1093,7 @@ Number of Patients at Risk: Number of patients at risk
 
 T+C = Tislelizumab + Chemotherapy, P+C = Placebo + Chemotherapy
 
-Both log-rank and Cox regression model were stratified by regions (east Asia versus US, Europe) and presence of peritoneal metastasis.
+Both logrank and Cox regression model were stratified by regions (east Asia versus US, Europe) and presence of peritoneal metastasis.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1106,15 +1101,15 @@ Both log-rank and Cox regression model were stratified by regions (east Asia ver
 
 ## First-line treatment of OSCC: BGB-A317-306
 
-BGB-A317-306 is a randomised, double-blind placebo-controlled, global phase III study to compare the efficacy of tislelizumab in combination with platinum-based chemotherapy versus placebo in combination with platinum-based chemotherapy in patients with unresectable, locally advanced recurrent or metastatic OSCC.
+BGBA317 -306 is a randomised, double-blind placebo-controlled, global phase III study to compare the efficacy of tislelizumab in combination with platinum-based chemotherapy versus placebo in combination with platinum-based chemotherapy in patients with unresectable, locally advanced recurrent or metastatic OSCC.
 
-The study enrolled patients who were not amenable to chemoradiation or surgery with curative intent. Patients were enrolled regardless of their tumour PD-L1 expression level. Where available, the archival/fresh tumour tissue specimens taken were retrospectively tested for PD-L1 expression status. PD-L1 expression was evaluated using TAP (tumour area positivity) score, defined as the total percentage of the tumour area (tumour and any desmoplastic stroma) covered by tumour cells with PD-L1 membrane staining at any intensity and tumour-associated immune cells with PD-L1 staining at any intensity, as visually estimated using the VENTANA PD-L1 (SP263) Assay.
+The study enrolled patients who were not amenable to chemoradiation or surgery with curative intent. Patients were enrolled regardless of their tumour PD-L1 expression level. Where available, the archival/fresh tumour tissue specimens taken were retrospectively tested for PD-L1 expression status. PD-L1 expression was evaluated using TAP (tumour area positivity) score, defined as the total percentage of the tumour area (tumour and any desmoplastic stroma) covered by tumour cells with PD-L1 membrane staining at any intensity and tumour-associated immune cells with PD-L1 staining at any intensity, as visually estimated using the VENTANA PD -L1 (SP263) Assay.
 
 Patients who had received prior systemic therapy for advanced or metastatic disease were excluded. A treatment-free interval of at least 6 months was required if the patient had received prior neoadjuvant/adjuvant therapy with platinum-based chemotherapy.
 
 The study excluded patients who had evidence of fistula or complete oesophageal obstruction not amenable to treatment.
 
-Randomisation was stratified by geographical region (Asia [excluding Japan] versus Japan versus rest of world [ROW]), prior definitive therapy (yes versus no) and investiga tor choice of chemotherapy (ICC; platinum with fluoropyrimidine or platinum with paclitaxel).
+Randomisation was stratified by geographical region (Asia [excluding Japan] versus Japan versus rest of world [ROW]), prior definitive therapy (yes versus no) and investigator choice of chemotherapy (ICC; platinum with fluoropyrimidine or platinum with paclitaxel).
 
 Patients were randomised (1:1) to receive either tislelizumab 200 mg or placebo every 3 weeks in combination with investigator's choice of chemotherapy (ICC) on a 21-day cycle. The chemotherapy doublet regimen consisted of:
 
@@ -1125,38 +1120,36 @@ Patients were treated with tislelizumab in combination with chemotherapy or plac
 
 The tumour assessments were conducted every 6 weeks for the first 48 weeks, and every 9 weeks thereafter.
 
-The primary efficacy endpoint was overall survival (OS) in the intent-to-treat (ITT) population. Secondary efficacy endpoints were progression-free survival (PFS), objective response rate (ORR) and duration of response (DoR) as assessed by the investigator per RECIST v1.1, OS in the PD-L1 positive (PD-L1 TAP score ≥ 10%) subgroup and health -related quality of life (HRQoL).
+The primary efficacy endpoint was overall survival (OS) in the intent-to-treat (ITT) population. Secondary efficacy endpoints were progressionfree survival (PFS), objective response rate (ORR) and duration of response (DoR) as assessed by the investigator per RECIST v1.1, OS in the PD -L1 positive (PD-L1 TAP score ≥ 10%) subgroup and health -related quality of life (HRQoL).
 
 A total of 649 patients were randomised to receive tislelizumab in combination with chemotherapy (N = 326) or placebo in combination with chemotherapy (N = 323). Of the 649 patients, 290 (44.7%) patients received platinum + fluoropyrimidine, 358 patients had PD-L1 TAP score ≥ 5%, 184 patients had PD-L1 TAP score &lt; 5% and 107 patients had PD-L1 status unknown.
 
-In patients whose tumours expressed PD-L1 with a TAP score ≥ 5%, the baseline characteristics were: median age 63.0 years (range: 40 to 84), 44.7% a ge 65 years or older; 84.9% male; 20.9% White and 78.2% Asian. 87.7 % had metastatic disease at study entry and 12.3 % had locally advanced disease. All
+In patients whose tumours expressed PD-L1 with a TAP score ≥ 5%, the baseline characteristics were: median age 63.0 years (range: 40 to 84), 44.7% age 65 years or older; 84.9% male; 20.9% White and 78.2% Asian. 87.7 % had metastatic disease at study entry and 12.3 % had locally advanced disease. All patients had histological confirmation of squamous cell carcinoma. Baseline ECOG performance status was 0 ( 29.9%) or 1 ( 70 .1%).
 
 <div style=\"page-break-after: always\"></div>
 
-patients had histological confirmation of squamous cell carcinoma. Baseline ECOG performance status was 0 (29.9 %) or 1 ( 70 .1%).
+As of the data cut -off date of interim analysis (28 February 2022), BGBA317 -306 showed a statistically significant improvement in OS for all randomised patients. The stratified HR was 0.66 (95% CI, 0.54 -0.80, 1-sided pvalue of &lt; 0.0001), with a median OS of 17.2 months for the tislelizumab with chemotherapy arm vs. 10.6 months for the placebo with chemotherapy arm.
 
-As of the data cut-off date of interim analysis (28 February 2022), BGB-A317-306 showed a statistically significant improvement in OS for all randomised patients. The stratified HR was 0.66 (95% CI, 0.54 -0.80, 1-sided pvalue of &lt; 0 .0001), with a median OS of 17.2 months for the tislelizumab with chemotherapy arm vs. 10.6 months for the placebo with chemotherapy arm.
-
-An updated analysis (up to 3-year follow-up; data cut-off date of 24 November 2023) showed consistent efficacy results with the interim analysis. The median follow-up times by reverse KaplanMeier methodology were 44.2 months in the tislelizumab in combination with chemotherapy arm and 43.8 months in the placebo in combination with chemotherapy arm.
+An updated analysis (up to 3 -year follow-up; data cut-off date of 24 November 2023) showed consistent efficacy results with the interim analysis. The median followup times by reverse Kaplan -Meier methodology were 44.2 months in the tislelizumab in combination with chemotherapy arm and 43.8 months in the placebo in combination with chemotherapy arm.
 
 Efficacy results for patients with PDL1 TAP score ≥ 5%, at 3 -year follow-up, are shown in Table 10 and Figure 10.
 
-Table 10 Efficacy results in BGB-A317-306 patients with PDL1 TAP score ≥ 5% - 3-year follow-up (data cut-off 24 November 2023)
+Table 10 Efficacy results in BGB-A317-306 patients with PD-L1 TAP score ≥ 5% - 3-year follow-up (data cut-off 24 November 2023)
 
-| Endpoint                                                                                                                                                                                                                                                                                          | Tislelizumab + chemotherapy (n = 172)                                                                                                                                                                                                                                                             | Placebo + chemotherapy (n = 186)                                                                                                                                                                                                                                                                  |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| OS                                                                                                                                                                                                                                                                                                |                                                                                                                                                                                                                                                                                                   |                                                                                                                                                                                                                                                                                                   |
-| Deaths, n (%)                                                                                                                                                                                                                                                                                     | 128 (74.4)                                                                                                                                                                                                                                                                                        | 151 (81.2)                                                                                                                                                                                                                                                                                        |
-| Median (months) (95% CI)                                                                                                                                                                                                                                                                          | 19.1 (16.1, 24.1)                                                                                                                                                                                                                                                                                 | 10.0 (8.6, 11.9)                                                                                                                                                                                                                                                                                  |
-| HR (95% CI) a                                                                                                                                                                                                                                                                                     | 0.62 (0.49, 0.79)                                                                                                                                                                                                                                                                                 | 0.62 (0.49, 0.79)                                                                                                                                                                                                                                                                                 |
-| p-value b                                                                                                                                                                                                                                                                                         | < 0.0001                                                                                                                                                                                                                                                                                          | < 0.0001                                                                                                                                                                                                                                                                                          |
-| PFS                                                                                                                                                                                                                                                                                               |                                                                                                                                                                                                                                                                                                   |                                                                                                                                                                                                                                                                                                   |
-| Events, n (%)                                                                                                                                                                                                                                                                                     | 119 (69.2)                                                                                                                                                                                                                                                                                        | 153 (82.3)                                                                                                                                                                                                                                                                                        |
-| Median (months) (95% CI)                                                                                                                                                                                                                                                                          | 8.2 (7.0, 9.8)                                                                                                                                                                                                                                                                                    | 5.5 (4.3, 6.4)                                                                                                                                                                                                                                                                                    |
-| HR (95% CI) a                                                                                                                                                                                                                                                                                     | 0.50 (0.39, 0.65)                                                                                                                                                                                                                                                                                 | 0.50 (0.39, 0.65)                                                                                                                                                                                                                                                                                 |
-| p-value b                                                                                                                                                                                                                                                                                         | < 0.0001                                                                                                                                                                                                                                                                                          | < 0.0001                                                                                                                                                                                                                                                                                          |
-| ORR %(95% CI) c                                                                                                                                                                                                                                                                                   | 64.0 (56.3, 71.1)                                                                                                                                                                                                                                                                                 | 36.0 (29.1, 43.4)                                                                                                                                                                                                                                                                                 |
-| OS = overall survival; CI = confidence interval; HR = hazard ratio; PFS = progression-free survival; ORR = objective response rate a Based on a stratified Cox regression model. b One-sided nominal p-value from a stratified log rank test. c Exact Clopper-Person-2-sided confidence interval. | OS = overall survival; CI = confidence interval; HR = hazard ratio; PFS = progression-free survival; ORR = objective response rate a Based on a stratified Cox regression model. b One-sided nominal p-value from a stratified log rank test. c Exact Clopper-Person-2-sided confidence interval. | OS = overall survival; CI = confidence interval; HR = hazard ratio; PFS = progression-free survival; ORR = objective response rate a Based on a stratified Cox regression model. b One-sided nominal p-value from a stratified log rank test. c Exact Clopper-Person-2-sided confidence interval. |
+| Endpoint                                                                                                                                                                                                                                                                                           | Tislelizumab + chemotherapy (n = 172)                                                                                                                                                                                                                                                              | Placebo + chemotherapy (n = 186)                                                                                                                                                                                                                                                                   |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| OS                                                                                                                                                                                                                                                                                                 |                                                                                                                                                                                                                                                                                                    |                                                                                                                                                                                                                                                                                                    |
+| Deaths, n (%)                                                                                                                                                                                                                                                                                      | 128 (74.4)                                                                                                                                                                                                                                                                                         | 151 (81.2)                                                                                                                                                                                                                                                                                         |
+| Median (months) (95% CI)                                                                                                                                                                                                                                                                           | 19.1 (16.1, 24.1)                                                                                                                                                                                                                                                                                  | 10.0 (8.6, 11.9)                                                                                                                                                                                                                                                                                   |
+| HR (95% CI) a                                                                                                                                                                                                                                                                                      | 0.62 (0.49, 0.79)                                                                                                                                                                                                                                                                                  | 0.62 (0.49, 0.79)                                                                                                                                                                                                                                                                                  |
+| p-value b                                                                                                                                                                                                                                                                                          | < 0.0001                                                                                                                                                                                                                                                                                           | < 0.0001                                                                                                                                                                                                                                                                                           |
+| PFS                                                                                                                                                                                                                                                                                                |                                                                                                                                                                                                                                                                                                    |                                                                                                                                                                                                                                                                                                    |
+| Events, n (%)                                                                                                                                                                                                                                                                                      | 119 (69.2)                                                                                                                                                                                                                                                                                         | 153 (82.3)                                                                                                                                                                                                                                                                                         |
+| Median (months) (95% CI)                                                                                                                                                                                                                                                                           | 8.2 (7.0, 9.8)                                                                                                                                                                                                                                                                                     | 5.5 (4.3, 6.4)                                                                                                                                                                                                                                                                                     |
+| HR (95% CI) a                                                                                                                                                                                                                                                                                      | 0.50 (0. 39 , 0.65)                                                                                                                                                                                                                                                                                | 0.50 (0. 39 , 0.65)                                                                                                                                                                                                                                                                                |
+| p-value b                                                                                                                                                                                                                                                                                          | < 0.0001                                                                                                                                                                                                                                                                                           | < 0.0001                                                                                                                                                                                                                                                                                           |
+| ORR %(95% CI) c                                                                                                                                                                                                                                                                                    | 64.0 (56.3, 71.1)                                                                                                                                                                                                                                                                                  | 36.0 ( 29.1 , 43.4)                                                                                                                                                                                                                                                                                |
+| OS = overall survival; CI = confidence interval; HR = hazard ratio; PFS = progression -free survival; ORR = objective response rate a Based on a stratified Cox regression model. b One-sided nominal p-value from a stratified log rank test. c Exact Clopper-Person-2-sided confidence interval. | OS = overall survival; CI = confidence interval; HR = hazard ratio; PFS = progression -free survival; ORR = objective response rate a Based on a stratified Cox regression model. b One-sided nominal p-value from a stratified log rank test. c Exact Clopper-Person-2-sided confidence interval. | OS = overall survival; CI = confidence interval; HR = hazard ratio; PFS = progression -free survival; ORR = objective response rate a Based on a stratified Cox regression model. b One-sided nominal p-value from a stratified log rank test. c Exact Clopper-Person-2-sided confidence interval. |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1168,7 +1161,7 @@ Hazard ratio was based on a stratified Cox regression model.
 
 ## Previously treated OSCC: BGB-A317-302
 
-BGB-A317-302 was a randomised, controlled, open-label, global phase III study to compare the efficacy of tislelizumab versus chemotherapy in patients with unresectable, recurrent, locally advanced or metastatic OSCC who progressed on or after prior systemic treatment. Patients were enrolled regardless of their tumour PD-L1 expression level. Where available, the archival/fresh tumour tissue specimens taken were retrospectively tested for PD-L1 expression status. PD-L1 expression was evaluated at a central laboratory using the Ventana PD-L1 (SP263) assay that identified PD-L1 staining on both tumour and tumour-associated immune cells.
+BGBA317 -302 was a randomised, controlled, open-label, global phase III study to compare the efficacy of tislelizumab versus chemotherapy in patients with unresectable, recurrent, locally advanced or metastatic OSCC who progressed on or after prior systemic treatment. Patients were enrolled regardless of their tumour PD-L1 expression level. Where available, the archival/fresh tumour tissue specimens taken were retrospectively tested for PD-L1 expression status. PD-L1 expression was evaluated at a central laboratory using the Ventana PD-L1 (SP263) assay that identified PD-L1 staining on both tumour and tumour-associated immune cells.
 
 The study excluded patients with prior anti-PD-1/PD-L1 inhibitor treatment and tumour invasion into organs located adjacent to the oesophageal disease site (e.g. aorta or respiratory tract).
 
@@ -1184,7 +1177,7 @@ Patients were treated with Tevimbra or one of the ICC until disease progression 
 
 The tumour assessments were conducted every 6 weeks for the first 6 months, and every 9 weeks thereafter.
 
-The primary efficacy endpoint was overall survival (OS) in the intent-to-treat (ITT) population. Secondary efficacy endpoints were OS in the PD-L1 Positive Analysis Set (PD-L1 score of visuallyestimated Combined Positive Score, now known as Tumour Area Po sitivity [TAP] PD -L1 score
+The primary efficacy endpoint was overall survival (OS) in the intent-to-treat (ITT) population. Secondary efficacy endpoints were OS in the PDL1 Positive Analysis Set (PD -L1 score of visuallyestimated Combined Positive Score, now known as Tumour Area Positivity [TAP] PD -L1 score
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1192,11 +1185,11 @@ The primary efficacy endpoint was overall survival (OS) in the intent-to-treat (
 
 A total of 512 patients were enrolled and randomised to tislelizumab (N = 256) or ICC (N = 256; paclitaxel [n = 85], docetaxel [n = 53] or irinotecan [n = 118]). Of the 512 patients, 142 (27.7%) had PD-L1 score ≥10%, 222 (43.4%) had PDL1 score &lt;10%, and 148 (28.9%) had unknown baseline PDL1 status.
 
-The baseline characteristics for the study population were median age 63 years (range: 35 to 86), 39.5% age 65 years or older; 84% male; 19% White and 80% Asian; 25% with ECOG PS of 0 and 75% with ECOG PS of 1. Ninety -five percent of the study population had metastatic disease at study entry. All patients had received at least one prior anti-cancer chemotherapy, which was a platinumbased combination chemotherapy for 97% of patients.
+The baseline characteristics for the study population were median age 63 years (range: 35 to 86), 39.5% age 65 years or older; 84% male; 19% White and 80% Asian; 25% with ECOG PS of 0 and 75% with ECOG PS of 1. Ninety -five percent of the study population had metastatic disease at study entry. All patients had received at least one prior anti -cancer chemotherapy, which was a platinumbased combination chemotherapy for 97% of patients.
 
-At the time of the prespecified final analysis, BGB-A317-302 showed a statistically significant improvement in OS for patients randomised to the tislelizumab arm as compared to the ICC arm. The stratified HR was 0.70 (95% CI: 0.57, 0.85; 1 -sided p-value of 0.0001), with a median OS of 8.6 months (95% CI: 7.5, 10.4) in the tislelizumab arm compared to 6.3 months (95% CI: 5.3, 7.0) in the ICC arm. The median follow-up times by reverse Kaplan-Meier methodology were 20.8 months in the tislelizumab arm and 21.1 months in the ICC arm.
+At the time of the prespecified final analysis, BGB -A317 -302 showed a statistically significant improvement in OS for patients randomised to the tislelizumab arm as compared to the ICC arm. The stratified HR was 0.70 (95% CI: 0.57, 0.85; 1 -sided p-value of 0.0001), with a median OS of 8.6 months (95% CI: 7.5, 10.4) in the tislelizumab arm compared to 6.3 months (95% CI: 5.3, 7.0) in the ICC arm. The median followup times by reverse Kaplan -Meier methodology were 20.8 months in the tislelizumab arm and 21.1 months in the ICC arm.
 
-An updated analysis with additional 24 months follow-up after the prespecified final analysis showed consistent efficacy results with the final analysis. The median follow-up times by reverse KaplanMeier methodology were 44.7 months in the tislelizumab arm and 44.0 months in the ICC arm.
+An updated analysis with additional 24 months follow -up after the prespecified final analysis showed consistent efficacy results with the final analysis. The median followup times by reverse Kaplan -Meier methodology were 44.7 months in the tislelizumab arm and 44.0 months in the ICC arm.
 
 Efficacy results of the updated analysis are shown in Table 11 and Figure 11.
 
@@ -1217,17 +1210,25 @@ Table 11 Efficacy results in BGB-A317-302 - Updated analysis
 | ORR (%) (95% CI)                                                                | 15.2 (11.1, 20.2)    | 6.6 (3.9, 10.4)          |
 | Median duration of response with confirmation by investigator (months) (95% CI) | 11.3 (6.5, 14.4)     | 6.3 (2.8, 8.5)           |
 
+OS = overall survival; CI = confidence interval; PFS = progression -free survival; ORR = objective response rate Nominal one-sided p-value is based on a log-rank test stratified by ECOG performance status and investigator's choice of chemotherapy.
+
+a Estimated using Kaplan -Meier method.
+
+b Based on Cox regression model including treatment as covariate, and stratified by baseline ECOG status and investigator's choice of chemotherapy.
+
+c Nominal one-sided p-value based on a log-rank test stratified by ECOG performance status and investigator's choice of chemotherapy.
+
+d Based on ad hoc analysis.
+
 <div style=\"page-break-after: always\"></div>
 
 Figure 11 Kaplan-Meier plot of OS in BGB-A317-302 (ITT analysis set) - updated analysis
 
 <!-- image -->
 
-Nominal one-sided p-value is based on a log-rank test stratified by ECOG performance status and investigator's choice of chemotherapy.
-
 Efficacy and PD-L1 subgroups (Updated analysis):
 
-At the updated analysis of OS in the PD-L1 positive subgroup (PDL1 score ≥10%), the stratified HR for OS was 0.54 (95% CI: 0.36 to 0.79 . The median survival was 10.2 months (95% CI: 8.5 to 14.5 months) and 5.1 months (95% CI: 3.8 to 8.2 months) for the tislelizumab and ICC arms, respectively.
+At the updated analysis of OS in the PD -L1 positive subgroup (PDL1 score ≥10%), the stratified HR for OS was 0.54 (95% CI: 0.36 to 0.79 . The median survival was 10.2 months (95% CI: 8.5 to 14.5 months) and 5.1 months (95% CI: 3.8 to 8.2 months) for the tislelizumab and ICC arms, respectively.
 
 In the PD-L1 negative subgroup (PDL1 score &lt;10%), the stratified HR for OS was 0.86 (95% CI: 0.65 to 1.14), with median overall survival of 7.5 months (95% CI: 5.5 to 8.9 months) and 5.8 months (95% CI: 4.8 to 6.9 months) for the tislelizumab and ICC arms, respectively.
 
@@ -1235,25 +1236,25 @@ In the PD-L1 negative subgroup (PDL1 score &lt;10%), the stratified HR for OS wa
 
 First-line treatment of recurrent or metastatic NPC: BGB-A317-309
 
-BGB-A317-309 was a randomised, multicentre, double-blind, placebo-controlled phase III study to compare the efficacy and safety of tislelizumab in combination with gemcitabine and cisplatin versus placebo in combination with gemcitabine and cisplatin as first-line treatment in patients with recurrent or metastatic NPC.
+BGBA317 -309 was a randomised, multicentre, double-blind, placebo-controlled phase III study to compare the efficacy and safety of tislelizumab in combination with gemcitabine and cisplatin versus placebo in combination with gemcitabine and cisplatin as first-line treatment in patients with recurrent or metastatic NPC.
 
-Patients were treatment-naive for recurrent or metastatic NPC. A treatment-free interval of at least 6 months was required if the patient had received prior neoadjuvant chemotherapy, adjuvant chemotherapy, radiotherapy, or chemoradiotherapy with curative intent for nonmetastatic disease. The study excluded patients with local recurrence suitable for curative surgery or radiotherapy, and patients who received prior therapies targeting PD-1 or PD-L1.
+Patients were treatmentnaive for recurrent or metastatic NPC. A treatment -free interval of at least 6 months was required if the patient had received prior neoadjuvant chemotherapy, adjuvant chemotherapy, radiotherapy, or chemoradiotherapy with curative intent for nonmetastatic disease. The study excluded patients with local recurrence suitable for curative surgery or radiotherapy, and patients who received prior therapies targeting PD-1 or PD-L1.
 
 Patients were randomised (1:1) to receive either tislelizumab 200 mg every 3 weeks or placebo in combination with cisplatin 80 mg/m 2 on Day 1 plus gemcitabine 1 g/m 2 on Day 1 and Day 8 of each 21-day cycle for 4 to 6 cycles. Randomised patients were stratified by gender and liver metastasis status.
 
-Tislelizumab or placebo was administered until disease progression or unacceptable toxicity. Patients in the placebo arm were given the option to crossover to receive tislelizumab monotherapy after IRCconfirmed disease progression.
+Tislelizumab or placebo was administered until disease progression or unacceptable toxicity. Patients in the placebo arm were given the option to crossover to receive tislelizumab monotherapy after IRC -confirmed disease progression.
 
-The primary efficacy endpoint was progression-free survival (PFS) as assessed by the IRC per RECIST v1.1 in the intent-to-treat (ITT) analysis set. The secondary efficacy endpoints included overall survival (OS), PFS as assessed by the investigator, objective response rate (ORR) and duration of response (DoR) as assessed by the IRC.
+The primary efficacy endpoint was progressionfree survival (PFS) as assessed by the IRC per RECIST v1.1 in the intent -to-treat (ITT) analysis set. The secondary efficacy endpoints included overall survival (OS), PFS as assessed by the investigator, objective response rate (ORR) and duration of response (DoR) as assessed by the IRC.
 
 <div style=\"page-break-after: always\"></div>
 
 A total of 263 patients were randomised to receive either tislelizumab in combination with gemcitabine and cisplatin (N=131) or placebo in combination with gemcitabine and cisplatin (N=132).
 
-The baseline characteristics for the study population were: median age of 50 years (range: 23 to 74 years), 91.6% of patients were younger than 65 years old; 78.3% of patients were male; 63.1% had ECOG PS score of 1; 100% were Asian (from China, Thailand, and Taiwan); and 46.7% were current or former smokers. 95.1% of the study population had metastatic disease at randomisation, with histological subtypes of NPC including 86.3% non -keratinised, 6.5% keratinised squamous carcinoma, and 7.2% unclassified NPC. The majority (76%) of patients had Epstein -Barr virus (EBV) DNA level ≥ 500 IU/mL. The baseline characteristics were generally balanced between the 2 arms.
+The baseline characteristics for the study population were: median age of 50 years (range: 23 to 74 years), 91.6% of patients were younger than 65 years old; 78.3% of patients were male; 63.1% had ECOG PS score of 1; 100% were Asian (from China, Thailand, and Taiwan); and 46.7% were current or former smokers. 95.1% of the study population had metastatic disease at randomisation, with histological subtypes of NPC including 86.3% non -keratinised, 6.5% keratinised squamous carcinoma, and 7.2% unclassified NPC. The majority (76%) of patients had Epstein -Barr virus (EBV ) DNA level ≥ 500 IU/mL. The baseline characteristics were generally balanced between the 2 arms.
 
-At the time of the prespecified interim analysis (data cut-off date of 26-Mar-2021), BGB-A317-309 demonstrated a statistically significant improvement in PFS for patients randomised to tislelizumab in combination with gemcitabine and cisplatin arm compared with the placebo plus gemcitabine and cisplatin arm. The stratified HR was 0.52 (95% CI: 0.38, 0.73; 1 sided p -value of &lt; 0.0001), with a median PFS of 9.2 months in the tislelizumab plus chemotherapy arm compared to 7.4 months in the placebo plus chemotherapy arm.
+At the time of the prespecified interim analysis (data cut-off date of 26-Mar-2021), BGBA317 -309 demonstrated a statistically significant improvement in PFS for patients randomised to tislelizumab in combination with gemcitabine and cisplatin arm compared with the placebo plus gemcitabine and cisplatin arm. The stratified HR was 0.52 (95% CI: 0.38, 0.73; 1 sided p -value of &lt; 0.0001), with a median PFS of 9.2 months in the tislelizumab plus chemotherapy arm compared to 7.4 months in the placebo plus chemotherapy arm.
 
-An updated analysis (data cut-off date of 08-Dec-2023) showed consistent efficacy results with the interim analysis (Table 12 and Figure 12). At this time, 52.3% of patients in the control arm had crossed over to receive tislelizumab monotherapy. The median OS follow-up times by reverse KaplanMeier method were 41.4 months in the tislelizumab plus chemotherapy arm and 40.8 months in the placebo plus chemotherapy arm.
+An updated analysis (data cut-off date of 08-Dec-2023) showed consistent efficacy results with the interim analysis (Table 12 and Figure 12). At this time, 52.3% of patients in the control arm had crossed over to receive tislelizumab monotherapy. The median OS followup times by reverse Kaplan -Meier method were 41.4 months in the tislelizumab plus chemotherapy arm and 40.8 months in the placebo plus chemotherapy arm.
 
 Data from NPC patients aged 65 years or older are too limited to draw conclusions in this population.
 
@@ -1270,9 +1271,9 @@ Table 12 Efficacy results in BGB-A317-309 (ITT Analysis Set) - Updated Analysis
 | Median (months) (95% CI) a         | 45.3 (33.4, NE)                       | 31.8 (25.0, NE)                  |
 | Stratified Hazard Ratio (95% CI) b | 0.73 (0.51, 1.05)                     | 0.73 (0.51, 1.05)                |
 
-Abbreviations: NE = not estimable; OS = overall survival; CI = confidence interval; PFS = progression-free survival.
+Abbreviations: NE = not estimable; OS = overall survival; CI = confidence interval; PFS = progression -free survival.
 
-a Medians were estimated by KaplanMeier method with 95% CIs estimated using the method of Brookmeyer and Crowley.
+a Medians were estimated by Kaplan -Meier method with 95% CIs estimated using the method of Brookmeyer and Crowley.
 
 b Stratified by gender (male versus female) and liver metastases status (with versus without).
 
@@ -1292,7 +1293,7 @@ The pharmacokinetics (PK) of tislelizumab were assessed for Tevimbra both as mon
 
 The PK of tislelizumab were characterised using population PK analysis with concentration data from 2596 patients with advanced malignancies who received tislelizumab doses of 0.5 to 10 mg/kg every 2 weeks, 2.0 and 5.0 mg/kg body weight every 3 weeks, and 200 mg every 3 weeks.
 
-The time to reach 90% steady -state level is approximately 84 days (12 weeks) after 200 mg doses once every 3 weeks, and the steady-state accumulation ratio of tislelizumab PK exposure is approximately 2-fold.
+The time to reach 90% steady -state level is approximately 84 days (12 weeks) after 200 mg doses once every 3 weeks, and the steadystate accumulation ratio of tislelizumab PK exposure is approximately 2-fold.
 
 ## Absorption
 
@@ -1300,7 +1301,7 @@ Tislelizumab is administered intravenously and therefore is immediately and comp
 
 ## Distribution
 
-A population pharmacokinetic analysis indicates that the steady-state volume of distribution is 6.42 l, which is typical of monoclonal antibodies with limited distribution.
+A population pharmacokinetic analysis indicates that the steady -state volume of distribution is 6.42 l, which is typical of monoclonal antibodies with limited distribution.
 
 ## Biotransformation
 
@@ -1318,7 +1319,7 @@ At the dosing regimens of 0.5 mg/kg to 10 mg/kg once every 2 or 3 weeks (includi
 
 ## Special populations
 
-The effects of various covariates on tislelizumab PK were assessed in population PK analyses. The following factors had no clinically relevant effect on the exposure of tislelizumab: age (range 18 to 90 years), weight (range 32 to 130 kg), gender, race (White, Asian and other), mild to moderate renal impairment (creatinine clearance [CLCr ] ≥30 ml/min), mild to moderate hepatic impairment (total bilirubin ≤3 times ULN and any AST), and tumour burden.
+The effects of various covariates on tislelizumab PK were assessed in population PK analyses. The following factors had no clinically relevant effect on the exposure of tislelizumab: age (range 18 to 90 years), weight (range 32 to 130 kg), gender, race (Wh ite, Asian and other), mild to moderate renal impairment (creatinine clearance [CLCr ] ≥30 ml/min), mild to moderate hepatic impairment (total bilirubin ≤3 times ULN and any AST), and tumour burden.
 
 ## Renal impairment
 
@@ -1421,15 +1422,11 @@ Tel. +353 1 566 7660
 
 E-mail:  beone.ireland@beonemed.com
 
-8.
-
-MARKETING AUTHORISATION NUMBERS
+## 8. MARKETING AUTHORISATION NUMBERS
 
 EU/1/23/1758/001-002
 
-9.
-
-DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
+## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
 Date of first authorisation: 15 September 2023
 
@@ -1450,15 +1447,15 @@ Detailed information on this medicinal product is available on the website of th
 
 ## A. MANUFACTURERS OF THE BIOLOGICAL ACTIVE SUBSTANCE AND MANUFACTURER RESPONSIBLE FOR BATCH RELEASE
 
-Name and address of the manufacturers of the biological active substance
+## Name and address of the manufacturers of the biological active substance
 
 Boehringer Ingelheim Biopharmaceuticals (China) Ltd. 1090 Halei Road Pilot Free Trade Zone 201203 Shanghai China
 
-Novartis Pharmaceutical Manufacturing LLC.
+Novartis Pharmaceutical Manufacturing LLC. Kolodvorska Cesta 27 Mengeš, 1234 Slovenia
 
-Kolodvorska Cesta 27 Mengeš, 1234
+BeOne Guangzhou Biologics Manufacturing Co. Ltd. No. 83 Kangyao South Road Huangpu District Guangzhou Guangdong 510000
 
-Slovenia
+China
 
 Name and address of the manufacturer responsible for batch release
 
@@ -1472,7 +1469,7 @@ Medicinal product subject to restricted medical prescription (see Annex I: Summa
 
 ## · Periodic safety update reports (PSURs)
 
-The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
+The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83 /EC and any subsequent updates published on the European medicines web-portal.
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
@@ -1480,16 +1477,16 @@ The requirements for submission of PSURs for this medicinal product are set out 
 
 The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP.
 
+<div style=\"page-break-after: always\"></div>
+
 An updated RMP should be submitted:
 
 - At the request of the European Medicines Agency;
 - Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 
-<div style=\"page-break-after: always\"></div>
-
 ## · Additional risk minimisation measures
 
-Prior to the launch of Tevimbra in each Member State, the MAH must agree about the content and format of the Patient Card, including communication media, distribution modalities, and any other aspects of the programme, with the National Competent Authority.
+Prior to the launch of Tevimbra in each Member State, the MAH must agree about the content and format of the Patient Card, including communication media, distribution modalities, and any other aspects of the programme, with the National Competent Authority .
 
 The Patient Card is aimed at increasing the awareness of patients on the signs and symptoms relevant to the early recognition/identification of the potential immune-related adverse reactions and prompt them about when to seek medical attention. It also contains prompts to enter the contact details of the physician and to alert other physicians that the patient is being treated with Tevimbra. The Patient Card is designed to be carried by the patient at all times and presented to any healthcare professional who may help them.
 
@@ -1532,7 +1529,7 @@ Each 10 ml vial contains 100 mg tislelizumab (100 mg/10 ml).
 
 ## 3. LIST OF EXCIPIENTS
 
-Also contains: sodium-citrate dihydrate, citric acid monohydrate, L-histidine hydrochloride monohydrate, L-histidine, trehalose dihydrate, polysorbate 20, water for injections. See leaflet for further information.
+Also contains: sodium -citrate dihydrate, citric acid monohydrate, L-histidine hydrochloride monohydrate, L-histidine, trehalose dihydrate, polysorbate 20, water for injections. See leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -1610,9 +1607,9 @@ PC
 
 SN
 
-NN
-
 <div style=\"page-break-after: always\"></div>
+
+NN
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1630,7 +1627,7 @@ Each 10 ml vial contains 100 mg tislelizumab (100 mg/10 ml).
 
 ## 3. LIST OF EXCIPIENTS
 
-Also contains: sodium citrate dihydrate, citric acid monohydrate, L-histidine hydrochloride monohydrate, L-histidine, trehalose dihydrate, polysorbate 20, water for injections. See leaflet for further information.
+Also contains: sodium citrate dihydrate, citric acid monohydrate, L -histidine hydrochloride monohydrate, L-histidine, trehalose dihydrate, polysorbate 20, water for injections. See leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -2012,7 +2009,7 @@ You should not be given Tevimbra if you are pregnant unless your doctor specific
 - -If you are a woman who could become pregnant, you must use effective contraception while you are being treated with Tevimbra and for at least 4 months following the last dose of Tevimbra.
 - -If you are pregnant, think you may be pregnant or are planning to have a baby, tell your doctor.
 
-It is not known whether Tevimbra passes into breast milk. A risk to the breast-fed infant cannot be ruled out. If you are breast-feeding, tell your doctor. You should not breast-feed during treatment with Tevimbra and for at least 4 months after the last dose of Tevimbra.
+It is not known whether Tevimbra passes into breast milk. A risk to the breast -fed infant cannot be ruled out. If you are breast-feeding, tell your doctor. You should not breast-feed during treatment with Tevimbra and for at least 4 months after the last dose of Tevimbra.
 
 ## Driving and using machines
 
@@ -2142,7 +2139,7 @@ Very common (may affect more than 1 in 10 people)
 
 ## Other side effects that have been reported (frequency not known):
 
-- -A condition where the immune system makes too many of otherwise normal infection-fighting cells called histiocytes and lymphocytes. Symptoms can include fever, skin rash, swollen lymph glands, breathing problems, easy bruising (haemophagocytic lymphohistiocytosis)
+- -A condition where the immune system makes too many of otherwise normal infection -fighting cells called histiocytes and lymphocytes. Symptoms can include fever, skin rash, swollen lymph glands, breathing problems, easy bruising (haemophagocytic lymphohistiocytosis)
 - -Lack or reduction of digestive enzymes made by the pancreas (pancreatic exocrine insufficiency)
 
 <div style=\"page-break-after: always\"></div>
@@ -2222,7 +2219,7 @@ Note that it is important that you also read the package leaflets for the other 
 
 ## Rare (may affect up to 1 in every 1 000 people)
 
-- -A condition where the immune system makes too many of otherwise normal infection-fighting cells called histiocytes and lymphocytes. Symptoms can include fever, skin rash, swollen lymph glands, breathing problems, easy bruising (haemophagocytic lymphohistiocytosis)
+- -A condition where the immune system makes too many of otherwise normal infection -fighting cells called histiocytes and lymphocytes. Symptoms can include fever, skin rash, swollen lymph glands, breathing problems, easy bruising (haemophagocytic lymphohistiocytosis)
 - -Inflammation of the brain, which may cause confusion, fever, memory problems or seizures (encephalitis)
 - -Serious problems of the nerves, which may cause difficulty breathing, sensation of prickling or pins and needles in the fingers, toes, ankles or wrists, weakness in the legs that spreads to the upper body, unsteady walking or inability to walk or climb stairs, difficulty with facial movements including speaking, chewing or swallowing, double vision or inability to move eyes, difficulty with bladder control or bowel function, rapid heart rate and paralysis - possible symptoms of Guillain-Barré syndrome
 - -Muscle weakness and tiredness (myasthenia gravis)
@@ -2237,7 +2234,7 @@ Tell your doctor immediately if you experience any of the serious side effects l
 
 ## Frequency not known (cannot be estimated from the available data)
 
-- -Reddish non-elevated, target-like or circular patches on the trunk, often with central blisters, skin peeling, ulcers of mouth, throat, nose, genitals and eyes. These serious skin rashes can be preceded by fever and flu-like symptoms (TEN)
+- -Reddish non -elevated, target-like or circular patches on the trunk, often with central blisters, skin peeling, ulcers of mouth, throat, nose, genitals and eyes. These serious skin rashes can be preceded by fever and flu-like symptoms (TEN)
 
 ## Reporting of side effects
 
@@ -2284,9 +2281,7 @@ Tevimbra is available in packs containing 1 vial and in multipacks containing 2 
 
 ## Marketing Authorisation Holder
 
-BeOne Medicines Ireland Limited 10 Earlsfort Terrace Dublin 2 D02 T380 Ireland
-
-Tel. +353 1 566 7660
+BeOne Medicines Ireland Limited 10 Earlsfort Terrace Dublin 2 D02 T380 Ireland Tel. +353 1 566 7660
 
 E-mail:  beone.ireland@beonemed.com
 

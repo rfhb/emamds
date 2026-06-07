@@ -1,32 +1,108 @@
 ---
-document_datetime: 2025-12-29 12:00:22
+document_datetime: 2026-06-05 14:42:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/dasselta.html
 document_name: dasselta.html
 version: success
-processing_time: 0.1292383
-conversion_datetime: 2025-12-30 09:53:37.764719
+processing_time: 0.1362171
+conversion_datetime: 2026-06-07 11:55:09.759652
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.21.0
+  docling-jobkit: 1.20.1
+  docling: 2.97.0
+  docling-core: 2.78.0
+  docling-ibm-models: 3.13.2
+  docling-parse: 6.2.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
 ---
+# Search
+
+- [Medicines](/en/medicines)
+    - [Find medicine](/en/medicines)
+    - [Therapeutic areas: latest updates](/en/medicines/therapeutic-areas-latest-updates)
+    - [Download medicine data](/en/medicines/download-medicine-data)
+    - [What we publish on medicines and when](/en/medicines/what-we-publish-medicines-when)
+    - [Medicines under evaluation](/en/medicines/medicines-human-use-under-evaluation)
+    - [National registers](/en/medicines/national-registers-authorised-medicines)
+- [Human regulatory](/en/human-regulatory-overview)
+    - [Overview](/en/human-regulatory-overview)
+    - [Research and development](/en/human-regulatory-overview/research-development)
+    - [Marketing authorisation](/en/human-regulatory-overview/marketing-authorisation)
+    - [Post-authorisation](/en/human-regulatory-overview/post-authorisation)
+    - [Medical devices](/en/human-regulatory-overview/medical-devices)
+    - [Herbal products](/en/human-regulatory-overview/herbal-medicinal-products)
+- [Veterinary regulatory](/en/veterinary-regulatory-overview)
+    - [Overview](/en/veterinary-regulatory-overview)
+    - [Research and development](/en/veterinary-regulatory-overview/research-development-veterinary-medicines)
+    - [Marketing authorisation](/en/veterinary-regulatory-overview/marketing-authorisation-veterinary-medicines)
+    - [Post-authorisation](/en/veterinary-regulatory-overview/post-authorisation-veterinary-medicines)
+- [Committees](/en/committees)
+    - [Overview](/en/committees)
+    - [How the committees work](/en/committees/how-committees-work)
+    - [CHMP](/en/committees/committee-medicinal-products-human-use-chmp)
+    - [CVMP](/en/committees/committee-veterinary-medicinal-products-cvmp)
+    - [PRAC](/en/committees/pharmacovigilance-risk-assessment-committee-prac)
+    - [COMP](/en/committees/committee-orphan-medicinal-products-comp)
+    - [HMPC](/en/committees/committee-herbal-medicinal-products-hmpc)
+    - [CAT](/en/committees/committee-advanced-therapies-cat)
+    - [PDCO](/en/committees/paediatric-committee-pdco)
+    - [Working parties and other groups](/en/committees/working-parties-other-groups)
+- [News &amp; events](/en/news-events)
+    - [Overview](/en/news-events)
+    - [News](/en/news)
+    - [Events](/en/events/upcoming-events)
+    - [What's new](/en/news-events/whats-new)
+    - [Committee highlights](/en/news-events/committee-highlights)
+    - [Publications](/en/news-and-events/publications)
+    - [Press and social media](/en/news-events/press-social-media)
+    - [Podcast: Inside EMA](/en/news-events/podcast-inside-ema)
+    - [EMA Campaigns](/en/news-events/ema-campaigns)
+    - [Open consultations](/en/news-events/open-consultations)
+    - [RSS feeds](/en/news-events/rss-feeds)
+- [Partners &amp; networks](/en/partners-networks)
+    - [Overview](/en/partners-networks)
+    - [EU partners](/en/partners-networks/eu-partners)
+    - [International activities](/en/partners-networks/international-activities)
+    - [Patients and consumers](/en/partners-networks/patients-consumers)
+    - [Healthcare professionals](/en/partners-networks/healthcare-professionals)
+    - [Academia](/en/partners-networks/academia)
+    - [Pharmaceutical industry](/en/partners-networks/pharmaceutical-industry)
+    - [Networks](/en/partners-networks/networks)
+    - [Health technology assessment bodies](/en/partners-networks/health-technology-assessment-bodies)
+    - [One Health approach](/en/partners-networks/one-health-approach)
+    - [Animal health practitioners](/en/partners-networks/animal-health-practitioners)
+    - [One substance - one assessment](/en/partners-networks/one-substance-one-assessment-osoa-eu-collaboration-chemicals-related-data)
+- [About us](/en/about-us)
+    - [Overview](/en/about-us)
+    - [What we do](/en/about-us/what-we-do)
+    - [Who we are](/en/about-us/who-we-are)
+    - [How we work](/en/about-us/how-we-work)
+    - [Fees](/en/about-us/fees-payable-european-medicines-agency)
+    - [Support to SMEs](/en/about-us/support-smes)
+    - [Annual reports and work programmes](/en/about-us/annual-reports-work-programmes)
+    - [History of EMA](/en/about-us/history-ema)
+    - [Careers](/en/about-us/careers)
+    - [Procurement](/en/about-us/procurement-grants)
+    - [About this website](/en/about-us/about-website)
+    - [Data protection and privacy](/en/about-us/data-protection-privacy-ema)
+    - [Contacts](/en/about-us/contacts-european-medicines-agency)
+
+1. [Home](/en/homepage)
+2. [Medicines](https://www.ema.europa.eu/en/medicines)
+3. Dasselta
+
 # Dasselta
 
 [RSS](/en/individual-human-medicine.xml/66720)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-desloratadine Medicine Human Authorised
+desloratadine
 
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
+Medicine Human Authorised
 
 Page contents
 
@@ -52,39 +128,39 @@ Expand section
 
 Collapse section
 
-## What is Dasselta?
+### What is Dasselta?
 
 Dasselta is a medicine containing the active substance desloratadine. It is available as tablets (5 mg).
 
 Dasselta is a 'generic medicine'. This means that Dasselta is similar to a 'reference medicine' already authorised in the European Union (EU) called Aerius.
 
-## What is Dasselta used for?
+### What is Dasselta used for?
 
 Dasselta is used to relieve the symptoms of allergic rhinitis (inflammation of the nasal passages caused by an allergy, for example, hay fever or allergy to dust mites) or urticaria (a skin condition caused by an allergy, with symptoms including itching and hives).
 
 The medicine can only be obtained with a prescription.
 
-## How is Dasselta used?
+### How is Dasselta used?
 
 The recommended dose for adults and adolescents (12 years of age and over) is one tablet once a day.
 
-## How does Dasselta work?
+### How does Dasselta work?
 
 The active substance in Dasselta, desloratadine, is an antihistamine. It works by blocking the receptors on which histamine, a substance in the body that causes allergic symptoms, normally fixes itself. When the receptors are blocked, histamine cannot have its effect, and this leads to a decrease in the symptoms of allergy.
 
-## How has Dasselta been studied?
+### How has Dasselta been studied?
 
 Because Dasselta is a generic medicine, studies in patients have been limited to tests to determine that it is bioequivalent to the reference medicine, Aerius. Two medicines are bioequivalent when they produce the same levels of the active substance in the body.
 
-## What are the benefits and risks of Dasselta?
+### What are the benefits and risks of Dasselta?
 
 Because Dasselta is a generic medicine and is bioequivalent to the reference medicine, its benefits and risks are taken as being the same as the reference medicine's.
 
-## Why has Dasselta been approved?
+### Why has Dasselta been approved?
 
 The CHMP concluded that, in accordance with EU requirements, Dasselta has been shown to have comparable quality and to be bioequivalent to Aerius. Therefore, the CHMP's view was that, as for Aerius, the benefit outweighs the identified risk. The Committee recommended that Dasselta be given marketing authorisation.
 
-## Other information about Dasselta
+### Other information about Dasselta
 
 The European Commission granted a marketing authorisation valid throughout the European Union for Dasselta on 28 November 2011.
 
@@ -96,251 +172,129 @@ Reference Number: EMA/828337/2011
 
 English (EN) (53.66 KB - PDF)
 
-**First published:** 15/12/2011
-
-**Last updated:** 15/12/2011
+**First published:** 15/12/2011 **Last updated:** 15/12/2011
 
 [View](/en/documents/overview/dasselta-epar-summary-public_en.pdf)
 
-[Other languages (20)](#file-language-dropdown-291)
+[Other languages (20)](#file-language-dropdown-708)
 
 български (BG) (88.54 KB - PDF)
 
-**First published:**
-
-15/12/2011
-
-**Last updated:**
-
-15/12/2011
+**First published:** 15/12/2011 **Last updated:** 15/12/2011
 
 [View](/bg/documents/overview/dasselta-epar-summary-public_bg.pdf)
 
 español (ES) (54.63 KB - PDF)
 
-**First published:**
-
-15/12/2011
-
-**Last updated:**
-
-15/12/2011
+**First published:** 15/12/2011 **Last updated:** 15/12/2011
 
 [View](/es/documents/overview/dasselta-epar-summary-public_es.pdf)
 
 čeština (CS) (79.99 KB - PDF)
 
-**First published:**
-
-15/12/2011
-
-**Last updated:**
-
-15/12/2011
+**First published:** 15/12/2011 **Last updated:** 15/12/2011
 
 [View](/cs/documents/overview/dasselta-epar-summary-public_cs.pdf)
 
 dansk (DA) (54.03 KB - PDF)
 
-**First published:**
-
-15/12/2011
-
-**Last updated:**
-
-15/12/2011
+**First published:** 15/12/2011 **Last updated:** 15/12/2011
 
 [View](/da/documents/overview/dasselta-epar-summary-public_da.pdf)
 
 Deutsch (DE) (54.82 KB - PDF)
 
-**First published:**
-
-15/12/2011
-
-**Last updated:**
-
-15/12/2011
+**First published:** 15/12/2011 **Last updated:** 15/12/2011
 
 [View](/de/documents/overview/dasselta-epar-summary-public_de.pdf)
 
-eesti keel (ET) (53.54 KB - PDF)
+eesti (ET) (53.54 KB - PDF)
 
-**First published:**
-
-15/12/2011
-
-**Last updated:**
-
-15/12/2011
+**First published:** 15/12/2011 **Last updated:** 15/12/2011
 
 [View](/et/documents/overview/dasselta-epar-summary-public_et.pdf)
 
 ελληνικά (EL) (90.13 KB - PDF)
 
-**First published:**
-
-15/12/2011
-
-**Last updated:**
-
-15/12/2011
+**First published:** 15/12/2011 **Last updated:** 15/12/2011
 
 [View](/el/documents/overview/dasselta-epar-summary-public_el.pdf)
 
 français (FR) (54.59 KB - PDF)
 
-**First published:**
-
-15/12/2011
-
-**Last updated:**
-
-15/12/2011
+**First published:** 15/12/2011 **Last updated:** 15/12/2011
 
 [View](/fr/documents/overview/dasselta-epar-summary-public_fr.pdf)
 
 italiano (IT) (54.69 KB - PDF)
 
-**First published:**
-
-15/12/2011
-
-**Last updated:**
-
-15/12/2011
+**First published:** 15/12/2011 **Last updated:** 15/12/2011
 
 [View](/it/documents/overview/dasselta-epar-summary-public_it.pdf)
 
-lietuvių kalba (LT) (78.25 KB - PDF)
+lietuvių (LT) (78.25 KB - PDF)
 
-**First published:**
-
-15/12/2011
-
-**Last updated:**
-
-15/12/2011
+**First published:** 15/12/2011 **Last updated:** 15/12/2011
 
 [View](/lt/documents/overview/dasselta-epar-summary-public_lt.pdf)
 
 magyar (HU) (74.99 KB - PDF)
 
-**First published:**
-
-15/12/2011
-
-**Last updated:**
-
-15/12/2011
+**First published:** 15/12/2011 **Last updated:** 15/12/2011
 
 [View](/hu/documents/overview/dasselta-epar-summary-public_hu.pdf)
 
 Malti (MT) (79.66 KB - PDF)
 
-**First published:**
-
-15/12/2011
-
-**Last updated:**
-
-15/12/2011
+**First published:** 15/12/2011 **Last updated:** 15/12/2011
 
 [View](/mt/documents/overview/dasselta-epar-summary-public_mt.pdf)
 
 Nederlands (NL) (130.73 KB - PDF)
 
-**First published:**
-
-15/12/2011
-
-**Last updated:**
-
-15/12/2011
+**First published:** 15/12/2011 **Last updated:** 15/12/2011
 
 [View](/nl/documents/overview/dasselta-epar-summary-public_nl.pdf)
 
 polski (PL) (141.03 KB - PDF)
 
-**First published:**
-
-15/12/2011
-
-**Last updated:**
-
-15/12/2011
+**First published:** 15/12/2011 **Last updated:** 15/12/2011
 
 [View](/pl/documents/overview/dasselta-epar-summary-public_pl.pdf)
 
 português (PT) (54.08 KB - PDF)
 
-**First published:**
-
-15/12/2011
-
-**Last updated:**
-
-15/12/2011
+**First published:** 15/12/2011 **Last updated:** 15/12/2011
 
 [View](/pt/documents/overview/dasselta-epar-summary-public_pt.pdf)
 
 română (RO) (77.56 KB - PDF)
 
-**First published:**
-
-15/12/2011
-
-**Last updated:**
-
-15/12/2011
+**First published:** 15/12/2011 **Last updated:** 15/12/2011
 
 [View](/ro/documents/overview/dasselta-epar-summary-public_ro.pdf)
 
 slovenčina (SK) (78.6 KB - PDF)
 
-**First published:**
-
-15/12/2011
-
-**Last updated:**
-
-15/12/2011
+**First published:** 15/12/2011 **Last updated:** 15/12/2011
 
 [View](/sk/documents/overview/dasselta-epar-summary-public_sk.pdf)
 
 slovenščina (SL) (135.34 KB - PDF)
 
-**First published:**
-
-15/12/2011
-
-**Last updated:**
-
-15/12/2011
+**First published:** 15/12/2011 **Last updated:** 15/12/2011
 
 [View](/sl/documents/overview/dasselta-epar-summary-public_sl.pdf)
 
-Suomi (FI) (53.86 KB - PDF)
+suomi (FI) (53.86 KB - PDF)
 
-**First published:**
-
-15/12/2011
-
-**Last updated:**
-
-15/12/2011
+**First published:** 15/12/2011 **Last updated:** 15/12/2011
 
 [View](/fi/documents/overview/dasselta-epar-summary-public_fi.pdf)
 
 svenska (SV) (54.17 KB - PDF)
 
-**First published:**
-
-15/12/2011
-
-**Last updated:**
-
-15/12/2011
+**First published:** 15/12/2011 **Last updated:** 15/12/2011
 
 [View](/sv/documents/overview/dasselta-epar-summary-public_sv.pdf)
 
@@ -348,305 +302,161 @@ svenska (SV) (54.17 KB - PDF)
 
 Dasselta  : EPAR - Product Information
 
-English (EN) (206.73 KB - PDF)
+English (EN) (185.01 KB - PDF)
 
-**First published:** 15/12/2011
-
-**Last updated:** 09/06/2022
+**First published:** 15/12/2011 **Last updated:** 05/06/2026
 
 [View](/en/documents/product-information/dasselta-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-946)
+[Other languages (24)](#file-language-dropdown-962)
 
-български (BG) (292.4 KB - PDF)
+български (BG) (190.69 KB - PDF)
 
-**First published:**
-
-15/12/2011
-
-**Last updated:**
-
-09/06/2022
+**First published:** 15/12/2011 **Last updated:** 05/06/2026
 
 [View](/bg/documents/product-information/dasselta-epar-product-information_bg.pdf)
 
-español (ES) (207.61 KB - PDF)
+español (ES) (183.04 KB - PDF)
 
-**First published:**
-
-15/12/2011
-
-**Last updated:**
-
-09/06/2022
+**First published:** 15/12/2011 **Last updated:** 05/06/2026
 
 [View](/es/documents/product-information/dasselta-epar-product-information_es.pdf)
 
-čeština (CS) (272.17 KB - PDF)
+čeština (CS) (186.59 KB - PDF)
 
-**First published:**
-
-15/12/2011
-
-**Last updated:**
-
-09/06/2022
+**First published:** 15/12/2011 **Last updated:** 05/06/2026
 
 [View](/cs/documents/product-information/dasselta-epar-product-information_cs.pdf)
 
-dansk (DA) (212.21 KB - PDF)
+dansk (DA) (184.91 KB - PDF)
 
-**First published:**
-
-15/12/2011
-
-**Last updated:**
-
-09/06/2022
+**First published:** 15/12/2011 **Last updated:** 05/06/2026
 
 [View](/da/documents/product-information/dasselta-epar-product-information_da.pdf)
 
-Deutsch (DE) (218.25 KB - PDF)
+Deutsch (DE) (194.78 KB - PDF)
 
-**First published:**
-
-15/12/2011
-
-**Last updated:**
-
-09/06/2022
+**First published:** 15/12/2011 **Last updated:** 05/06/2026
 
 [View](/de/documents/product-information/dasselta-epar-product-information_de.pdf)
 
-eesti keel (ET) (207.18 KB - PDF)
+eesti (ET) (181.46 KB - PDF)
 
-**First published:**
-
-15/12/2011
-
-**Last updated:**
-
-09/06/2022
+**First published:** 15/12/2011 **Last updated:** 05/06/2026
 
 [View](/et/documents/product-information/dasselta-epar-product-information_et.pdf)
 
-ελληνικά (EL) (313.72 KB - PDF)
+ελληνικά (EL) (207.46 KB - PDF)
 
-**First published:**
-
-15/12/2011
-
-**Last updated:**
-
-09/06/2022
+**First published:** 15/12/2011 **Last updated:** 05/06/2026
 
 [View](/el/documents/product-information/dasselta-epar-product-information_el.pdf)
 
-français (FR) (214.92 KB - PDF)
+français (FR) (188.7 KB - PDF)
 
-**First published:**
-
-15/12/2011
-
-**Last updated:**
-
-09/06/2022
+**First published:** 15/12/2011 **Last updated:** 05/06/2026
 
 [View](/fr/documents/product-information/dasselta-epar-product-information_fr.pdf)
 
-hrvatski (HR) (245.05 KB - PDF)
+hrvatski (HR) (183.47 KB - PDF)
 
-**First published:**
-
-15/12/2011
-
-**Last updated:**
-
-09/06/2022
+**First published:** 15/12/2011 **Last updated:** 05/06/2026
 
 [View](/hr/documents/product-information/dasselta-epar-product-information_hr.pdf)
 
-íslenska (IS) (202.47 KB - PDF)
+italiano (IT) (201.54 KB - PDF)
 
-**First published:**
-
-15/12/2011
-
-**Last updated:**
-
-09/06/2022
-
-[View](/is/documents/product-information/dasselta-epar-product-information_is.pdf)
-
-italiano (IT) (218.11 KB - PDF)
-
-**First published:**
-
-15/12/2011
-
-**Last updated:**
-
-09/06/2022
+**First published:** 15/12/2011 **Last updated:** 05/06/2026
 
 [View](/it/documents/product-information/dasselta-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (287.27 KB - PDF)
+latviešu (LV) (186.47 KB - PDF)
 
-**First published:**
-
-15/12/2011
-
-**Last updated:**
-
-09/06/2022
+**First published:** 15/12/2011 **Last updated:** 05/06/2026
 
 [View](/lv/documents/product-information/dasselta-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (279.95 KB - PDF)
+lietuvių (LT) (188.75 KB - PDF)
 
-**First published:**
-
-15/12/2011
-
-**Last updated:**
-
-09/06/2022
+**First published:** 15/12/2011 **Last updated:** 05/06/2026
 
 [View](/lt/documents/product-information/dasselta-epar-product-information_lt.pdf)
 
-magyar (HU) (264.09 KB - PDF)
+magyar (HU) (188.78 KB - PDF)
 
-**First published:**
-
-15/12/2011
-
-**Last updated:**
-
-09/06/2022
+**First published:** 15/12/2011 **Last updated:** 05/06/2026
 
 [View](/hu/documents/product-information/dasselta-epar-product-information_hu.pdf)
 
-Malti (MT) (310.13 KB - PDF)
+Malti (MT) (211.21 KB - PDF)
 
-**First published:**
-
-15/12/2011
-
-**Last updated:**
-
-09/06/2022
+**First published:** 15/12/2011 **Last updated:** 05/06/2026
 
 [View](/mt/documents/product-information/dasselta-epar-product-information_mt.pdf)
 
-Nederlands (NL) (216.77 KB - PDF)
+Nederlands (NL) (188.63 KB - PDF)
 
-**First published:**
-
-15/12/2011
-
-**Last updated:**
-
-09/06/2022
+**First published:** 15/12/2011 **Last updated:** 05/06/2026
 
 [View](/nl/documents/product-information/dasselta-epar-product-information_nl.pdf)
 
-norsk (NO) (210.07 KB - PDF)
+polski (PL) (191.39 KB - PDF)
 
-**First published:**
-
-15/12/2011
-
-**Last updated:**
-
-09/06/2022
-
-[View](/no/documents/product-information/dasselta-epar-product-information_no.pdf)
-
-polski (PL) (280.65 KB - PDF)
-
-**First published:**
-
-15/12/2011
-
-**Last updated:**
-
-09/06/2022
+**First published:** 15/12/2011 **Last updated:** 05/06/2026
 
 [View](/pl/documents/product-information/dasselta-epar-product-information_pl.pdf)
 
-português (PT) (205.86 KB - PDF)
+português (PT) (186.41 KB - PDF)
 
-**First published:**
-
-15/12/2011
-
-**Last updated:**
-
-09/06/2022
+**First published:** 15/12/2011 **Last updated:** 05/06/2026
 
 [View](/pt/documents/product-information/dasselta-epar-product-information_pt.pdf)
 
-română (RO) (280.1 KB - PDF)
+română (RO) (188.31 KB - PDF)
 
-**First published:**
-
-15/12/2011
-
-**Last updated:**
-
-09/06/2022
+**First published:** 15/12/2011 **Last updated:** 05/06/2026
 
 [View](/ro/documents/product-information/dasselta-epar-product-information_ro.pdf)
 
-slovenčina (SK) (271.48 KB - PDF)
+slovenčina (SK) (187.06 KB - PDF)
 
-**First published:**
-
-15/12/2011
-
-**Last updated:**
-
-09/06/2022
+**First published:** 15/12/2011 **Last updated:** 05/06/2026
 
 [View](/sk/documents/product-information/dasselta-epar-product-information_sk.pdf)
 
-slovenščina (SL) (263.52 KB - PDF)
+slovenščina (SL) (182.63 KB - PDF)
 
-**First published:**
-
-15/12/2011
-
-**Last updated:**
-
-09/06/2022
+**First published:** 15/12/2011 **Last updated:** 05/06/2026
 
 [View](/sl/documents/product-information/dasselta-epar-product-information_sl.pdf)
 
-Suomi (FI) (211.34 KB - PDF)
+suomi (FI) (180.36 KB - PDF)
 
-**First published:**
-
-15/12/2011
-
-**Last updated:**
-
-09/06/2022
+**First published:** 15/12/2011 **Last updated:** 05/06/2026
 
 [View](/fi/documents/product-information/dasselta-epar-product-information_fi.pdf)
 
-svenska (SV) (197.17 KB - PDF)
+svenska (SV) (178.27 KB - PDF)
 
-**First published:**
-
-15/12/2011
-
-**Last updated:**
-
-09/06/2022
+**First published:** 15/12/2011 **Last updated:** 05/06/2026
 
 [View](/sv/documents/product-information/dasselta-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** PSUSA/00000962/202107 30/05/2022
+Íslenska (IS) (179.34 KB - PDF)
+
+**First published:** 15/12/2011 **Last updated:** 05/06/2026
+
+[View](/is/documents/product-information/dasselta-epar-product-information_is.pdf)
+
+norsk (NO) (181.34 KB - PDF)
+
+**First published:** 15/12/2011 **Last updated:** 05/06/2026
+
+[View](/no/documents/product-information/dasselta-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** VR/0000338996
+
+04/06/2026
 
 icon globe
 
@@ -666,311 +476,179 @@ Dasselta  : EPAR - All Authorised presentations
 
 English (EN) (18.38 KB - PDF)
 
-**First published:** 15/12/2011
-
-**Last updated:** 15/12/2011
+**First published:** 15/12/2011 **Last updated:** 15/12/2011
 
 [View](/en/documents/all-authorised-presentations/dasselta-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-114)
+[Other languages (24)](#file-language-dropdown-0)
 
 български (BG) (53.11 KB - PDF)
 
-**First published:**
-
-15/12/2011
-
-**Last updated:**
-
-15/12/2011
+**First published:** 15/12/2011 **Last updated:** 15/12/2011
 
 [View](/bg/documents/all-authorised-presentations/dasselta-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (18.81 KB - PDF)
 
-**First published:**
-
-15/12/2011
-
-**Last updated:**
-
-15/12/2011
+**First published:** 15/12/2011 **Last updated:** 15/12/2011
 
 [View](/es/documents/all-authorised-presentations/dasselta-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (31.14 KB - PDF)
 
-**First published:**
-
-15/12/2011
-
-**Last updated:**
-
-15/12/2011
+**First published:** 15/12/2011 **Last updated:** 15/12/2011
 
 [View](/cs/documents/all-authorised-presentations/dasselta-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (18.64 KB - PDF)
 
-**First published:**
-
-15/12/2011
-
-**Last updated:**
-
-15/12/2011
+**First published:** 15/12/2011 **Last updated:** 15/12/2011
 
 [View](/da/documents/all-authorised-presentations/dasselta-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (18.62 KB - PDF)
 
-**First published:**
-
-15/12/2011
-
-**Last updated:**
-
-15/12/2011
+**First published:** 15/12/2011 **Last updated:** 15/12/2011
 
 [View](/de/documents/all-authorised-presentations/dasselta-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (18.79 KB - PDF)
+eesti (ET) (18.79 KB - PDF)
 
-**First published:**
-
-15/12/2011
-
-**Last updated:**
-
-15/12/2011
+**First published:** 15/12/2011 **Last updated:** 15/12/2011
 
 [View](/et/documents/all-authorised-presentations/dasselta-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (53.02 KB - PDF)
 
-**First published:**
-
-15/12/2011
-
-**Last updated:**
-
-15/12/2011
+**First published:** 15/12/2011 **Last updated:** 15/12/2011
 
 [View](/el/documents/all-authorised-presentations/dasselta-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (18.68 KB - PDF)
 
-**First published:**
-
-15/12/2011
-
-**Last updated:**
-
-15/12/2011
+**First published:** 15/12/2011 **Last updated:** 15/12/2011
 
 [View](/fr/documents/all-authorised-presentations/dasselta-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (53.81 KB - PDF)
 
-**First published:**
-
-15/12/2011
-
-**Last updated:**
-
-15/12/2011
+**First published:** 15/12/2011 **Last updated:** 15/12/2011
 
 [View](/hr/documents/all-authorised-presentations/dasselta-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (18.66 KB - PDF)
-
-**First published:**
-
-15/12/2011
-
-**Last updated:**
-
-15/12/2011
-
-[View](/is/documents/all-authorised-presentations/dasselta-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (18.69 KB - PDF)
 
-**First published:**
-
-15/12/2011
-
-**Last updated:**
-
-15/12/2011
+**First published:** 15/12/2011 **Last updated:** 15/12/2011
 
 [View](/it/documents/all-authorised-presentations/dasselta-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (47.18 KB - PDF)
+latviešu (LV) (47.18 KB - PDF)
 
-**First published:**
-
-15/12/2011
-
-**Last updated:**
-
-15/12/2011
+**First published:** 15/12/2011 **Last updated:** 15/12/2011
 
 [View](/lv/documents/all-authorised-presentations/dasselta-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (51.07 KB - PDF)
+lietuvių (LT) (51.07 KB - PDF)
 
-**First published:**
-
-15/12/2011
-
-**Last updated:**
-
-15/12/2011
+**First published:** 15/12/2011 **Last updated:** 15/12/2011
 
 [View](/lt/documents/all-authorised-presentations/dasselta-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (47.63 KB - PDF)
 
-**First published:**
-
-15/12/2011
-
-**Last updated:**
-
-15/12/2011
+**First published:** 15/12/2011 **Last updated:** 15/12/2011
 
 [View](/hu/documents/all-authorised-presentations/dasselta-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (47.5 KB - PDF)
 
-**First published:**
-
-15/12/2011
-
-**Last updated:**
-
-15/12/2011
+**First published:** 15/12/2011 **Last updated:** 15/12/2011
 
 [View](/mt/documents/all-authorised-presentations/dasselta-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (18.65 KB - PDF)
 
-**First published:**
-
-15/12/2011
-
-**Last updated:**
-
-15/12/2011
+**First published:** 15/12/2011 **Last updated:** 15/12/2011
 
 [View](/nl/documents/all-authorised-presentations/dasselta-epar-all-authorised-presentations_nl.pdf)
 
-norsk (NO) (18.66 KB - PDF)
-
-**First published:**
-
-15/12/2011
-
-**Last updated:**
-
-15/12/2011
-
-[View](/no/documents/all-authorised-presentations/dasselta-epar-all-authorised-presentations_no.pdf)
-
 polski (PL) (31.95 KB - PDF)
 
-**First published:**
-
-15/12/2011
-
-**Last updated:**
-
-15/12/2011
+**First published:** 15/12/2011 **Last updated:** 15/12/2011
 
 [View](/pl/documents/all-authorised-presentations/dasselta-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (18.81 KB - PDF)
 
-**First published:**
-
-15/12/2011
-
-**Last updated:**
-
-15/12/2011
+**First published:** 15/12/2011 **Last updated:** 15/12/2011
 
 [View](/pt/documents/all-authorised-presentations/dasselta-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (46.4 KB - PDF)
 
-**First published:**
-
-15/12/2011
-
-**Last updated:**
-
-15/12/2011
+**First published:** 15/12/2011 **Last updated:** 15/12/2011
 
 [View](/ro/documents/all-authorised-presentations/dasselta-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (31.4 KB - PDF)
 
-**First published:**
-
-15/12/2011
-
-**Last updated:**
-
-15/12/2011
+**First published:** 15/12/2011 **Last updated:** 15/12/2011
 
 [View](/sk/documents/all-authorised-presentations/dasselta-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (18.46 KB - PDF)
 
-**First published:**
-
-15/12/2011
-
-**Last updated:**
-
-15/12/2011
+**First published:** 15/12/2011 **Last updated:** 15/12/2011
 
 [View](/sl/documents/all-authorised-presentations/dasselta-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (18.53 KB - PDF)
+suomi (FI) (18.53 KB - PDF)
 
-**First published:**
-
-15/12/2011
-
-**Last updated:**
-
-15/12/2011
+**First published:** 15/12/2011 **Last updated:** 15/12/2011
 
 [View](/fi/documents/all-authorised-presentations/dasselta-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (18.42 KB - PDF)
 
-**First published:**
-
-15/12/2011
-
-**Last updated:**
-
-15/12/2011
+**First published:** 15/12/2011 **Last updated:** 15/12/2011
 
 [View](/sv/documents/all-authorised-presentations/dasselta-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (18.66 KB - PDF)
+
+**First published:** 15/12/2011 **Last updated:** 15/12/2011
+
+[View](/is/documents/all-authorised-presentations/dasselta-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (18.66 KB - PDF)
+
+**First published:** 15/12/2011 **Last updated:** 15/12/2011
+
+[View](/no/documents/all-authorised-presentations/dasselta-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine Dasselta Active substance desloratadine International non-proprietary name (INN) or common name desloratadine Therapeutic area (MeSH)
+Name of medicine
+
+Dasselta
+
+Active substance
+
+desloratadine
+
+International non-proprietary name (INN) or common name
+
+desloratadine
+
+Therapeutic area (MeSH)
 
 - Rhinitis, Allergic, Perennial
 - Rhinitis, Allergic, Seasonal
 - Urticaria
 
-Anatomical therapeutic chemical (ATC) code R06AX27
+Anatomical therapeutic chemical (ATC) code
+
+R06AX27
 
 ### Pharmacotherapeutic group
 
@@ -985,7 +663,9 @@ Dasselta is indicated for the relief of symptoms associated with:
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/002310
+EMA product number
+
+EMEA/H/C/002310
 
 Generic
 
@@ -997,7 +677,13 @@ Krka, d.d., Novo mesto
 
 Šmarješka cesta 6
 
-Marketing authorisation issued 28/11/2011 Revision 13
+Marketing authorisation issued
+
+28/11/2011
+
+Revision
+
+14
 
 ## Assessment history
 
@@ -1005,17 +691,23 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Dasselta : EPAR - Procedural steps taken and scientific information after authorisation
 
+English (EN) (149.46 KB - PDF)
+
+**First published:** 05/06/2026
+
+[View](/en/documents/procedural-steps-after/dasselta-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+
+Dasselta : EPAR - Procedural steps taken and scientific information after authorisation (archive)
+
 English (EN) (152.04 KB - PDF)
 
-**First published:** 21/03/2012
+**First published:** 21/03/2012 **Last updated:** 05/06/2026
 
-**Last updated:** 09/06/2022
-
-[View](/en/documents/procedural-steps-after/dasselta-epar-procedural-steps-taken-and-scientific-information-after-authorisation_en.pdf)
+[View](/en/documents/procedural-steps-after/dasselta-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 Dasselta-H-C-PSUSA-00000962-202107 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
 
@@ -1033,43 +725,33 @@ Reference Number: EMA/333803/2017
 
 English (EN) (101.36 KB - PDF)
 
-**First published:** 07/07/2017
-
-**Last updated:** 07/07/2017
+**First published:** 07/07/2017 **Last updated:** 07/07/2017
 
 [View](/en/documents/scientific-conclusion/dasselta-h-c-psusa-00000962-201607-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Dasselta  : EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/895265/2011
+Adopted Reference Number: EMA/895265/2011
 
 English (EN) (194.82 KB - PDF)
 
-**First published:** 15/12/2011
-
-**Last updated:** 15/12/2011
+**First published:** 15/12/2011 **Last updated:** 15/12/2011
 
 [View](/en/documents/assessment-report/dasselta-epar-public-assessment-report_en.pdf)
 
 CHMP summary of positive opinion for Dasselta
 
-Adopted
-
-Reference Number: EMA/CHMP/614045/2011
+Adopted Reference Number: EMA/CHMP/614045/2011
 
 English (EN) (112.94 KB - PDF)
 
-**First published:** 23/09/2011
-
-**Last updated:** 23/09/2011
+**First published:** 23/09/2011 **Last updated:** 23/09/2011
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-dasselta_en.pdf)
 
-#### More information on Dasselta
+## More information on Dasselta
 
 Questions and answers on generic medicines
 
@@ -1077,285 +759,151 @@ Reference Number: EMA/393905/2006 Rev. 2
 
 English (EN) (66.45 KB - PDF)
 
-**First published:** 09/07/2007
-
-**Last updated:** 07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-573)
+[Other languages (22)](#file-language-dropdown-423)
 
 български (BG) (93.16 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/bg/documents/other/questions-and-answers-generic-medicines_bg.pdf)
 
 español (ES) (68.3 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/es/documents/other/questions-and-answers-generic-medicines_es.pdf)
 
 čeština (CS) (87.71 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/cs/documents/other/questions-and-answers-generic-medicines_cs.pdf)
 
 dansk (DA) (66.79 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/da/documents/other/questions-and-answers-generic-medicines_da.pdf)
 
 Deutsch (DE) (67.55 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/de/documents/other/questions-and-answers-generic-medicines_de.pdf)
 
-eesti keel (ET) (65.21 KB - PDF)
+eesti (ET) (65.21 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/et/documents/other/questions-and-answers-generic-medicines_et.pdf)
 
 ελληνικά (EL) (91.29 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/el/documents/other/questions-and-answers-generic-medicines_el.pdf)
 
 français (FR) (68.35 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/fr/documents/other/questions-and-answers-generic-medicines_fr.pdf)
 
 hrvatski (HR) (87.8 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/hr/documents/other/questions-and-answers-generic-medicines_hr.pdf)
 
 italiano (IT) (67.62 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/it/documents/other/questions-and-answers-generic-medicines_it.pdf)
 
-latviešu valoda (LV) (111.81 KB - PDF)
+latviešu (LV) (111.81 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/lv/documents/other/questions-and-answers-generic-medicines_lv.pdf)
 
-lietuvių kalba (LT) (86.76 KB - PDF)
+lietuvių (LT) (86.76 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/lt/documents/other/questions-and-answers-generic-medicines_lt.pdf)
 
 magyar (HU) (85.76 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/hu/documents/other/questions-and-answers-generic-medicines_hu.pdf)
 
 Malti (MT) (89.35 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/mt/documents/other/questions-and-answers-generic-medicines_mt.pdf)
 
 Nederlands (NL) (66.81 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/nl/documents/other/questions-and-answers-generic-medicines_nl.pdf)
 
 polski (PL) (88.51 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/pl/documents/other/questions-and-answers-generic-medicines_pl.pdf)
 
 português (PT) (68.32 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/pt/documents/other/questions-and-answers-generic-medicines_pt.pdf)
 
 română (RO) (86.9 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/ro/documents/other/questions-and-answers-generic-medicines_ro.pdf)
 
 slovenčina (SK) (87.73 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/sk/documents/other/questions-and-answers-generic-medicines_sk.pdf)
 
 slovenščina (SL) (84.8 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/sl/documents/other/questions-and-answers-generic-medicines_sl.pdf)
 
-Suomi (FI) (66.21 KB - PDF)
+suomi (FI) (66.21 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/fi/documents/other/questions-and-answers-generic-medicines_fi.pdf)
 
 svenska (SV) (67.11 KB - PDF)
 
-**First published:**
-
-09/07/2007
-
-**Last updated:**
-
-07/12/2012
+**First published:** 09/07/2007 **Last updated:** 07/12/2012
 
 [View](/sv/documents/other/questions-and-answers-generic-medicines_sv.pdf)
 
-#### Topics
+## Topics
 
 - [Generic and hybrid medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A54)
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 09/06/2022
+**This page was last updated on**
+
+05/06/2026
 
 ## Share this page
-
-[Back to top](#main-content)

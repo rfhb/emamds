@@ -1,20 +1,20 @@
 ---
-document_datetime: 2024-01-17 16:01:29
+document_datetime: 2026-06-04 15:40:18
 document_pages: 36
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/tegsedi-epar-product-information_en.pdf
 document_name: tegsedi-epar-product-information_en.pdf
 version: success
-processing_time: 9.944484
-conversion_datetime: 2025-12-21 16:02:46.308719
+processing_time: 16.9069456
+conversion_datetime: 2026-06-07 12:01:36.602015
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.21.0
+  docling-jobkit: 1.20.1
+  docling: 2.97.0
+  docling-core: 2.78.0
+  docling-ibm-models: 3.13.2
+  docling-parse: 6.2.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -232,7 +232,7 @@ The most frequently observed adverse reactions during treatment with inotersen w
 
 ## Tabulated summary of adverse reactions
 
-Table 2 presents the adverse drug reactions (ADRs) listed by MedDRA system organ class. Within each system organ class, the ADRs are ranked by frequency, with the most frequent reactions first. Within each frequency grouping, adverse drug reactions are presented in order of decreasing seriousness. In addition, the corresponding frequency category for each ADR is based on the following convention: very common (≥ 1/10); co mmon (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1 000 to &lt; 1/100); rare (≥ 1/10 000 to &lt; 1/1 000); very rare (&lt; 1/10 000); and not known (cannot be estimated from the available data).
+Table 2 presents the adverse drug reactions (ADRs) listed by MedDRA system organ class. Within each system organ class, the ADRs are ranked by frequency, with the most frequent reactions first. Within each frequency grouping, adverse drug reactions are presented in order of decreasing seriousness. In addition, the corresponding frequency category for each ADR is based on the following convention: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1 000 to &lt; 1/100); rare (≥ 1/10 000 to &lt; 1/1 000); very rare (&lt; 1/10 000); and not known (cannot be estimated from the available data).
 
 ## Table 2. List of adverse reactions in clinical studies and post-marketing sources
 
@@ -260,11 +260,9 @@ The most frequently observed events included those associated with injection sit
 
 ## Thrombocytopenia
 
-Inotersen is associated with reductions in platelet count, which may result in thrombocytopenia. In the Phase 3, NEURO-TTR trial, platelet count reductions to below normal (140 x 10 9 /L ) were observed in 54% of patients treated with inotersen and 13% of placebo patients; reductions to below 100 x 10 9 /L were observed in 23% of patients treated with inotersen and 2% of the patients receiving placebo; confirmed platelet counts of &lt; 75 x 10 9 /L were observed in 10.7% of inotersen-treated patients. Three (3%) patients developed platelet counts &lt; 25 x 10 9 /L; one of these patients experienced a fatal
+Inotersen is associated with reductions in platelet count, which may result in thrombocytopenia. In the Phase 3, NEURO-TTR trial, platelet count reductions to below normal (140 x 10 9 /L ) were observed in 54% of patients treated with inotersen and 13% of placebo patients; reductions to below 100 x 10 9 /L were observed in 23% of patients treated with inotersen and 2% of the patients receiving placebo; confirmed platelet counts of &lt; 75 x 10 9 /L were observed in 10.7% of inotersen-treated patients. Three (3%) patients developed platelet counts &lt; 25 x 10 9 /L; one of these patients experienced a fatal intracranial haemorrhage. Patients should be monitored for thrombocytopenia during treatment with inotersen (see section 4.4).
 
 <div style=\"page-break-after: always\"></div>
-
-intracranial haemorrhage. Patients should be monitored for thrombocytopenia during treatment with inotersen (see section 4.4).
 
 ## Immunogenicity
 
@@ -302,7 +300,7 @@ In the pivotal study, a phase 2/3 randomized, double-blind, placebo-controlled s
 
 Transthyretin (TTR) Least Squares Mean (LSM) Standard Error (SE)
 
-## Figure 1 Percent change from baseline in serum TTR over time
+Figure 1 Percent change from baseline in serum TTR over time
 
 ## Clinical efficacy and safety
 
@@ -338,29 +336,29 @@ Table 3. Baseline demographics
 
 2 Defined as all patients with a diagnosis of hereditary transthyretin amyloidosis with cardiomyopathy (hATTR-CM) at study entry or left ventricular wall thickness &gt;1.3 cm on echocardiogram without a known history of persistent hypertension.
 
-3 Duration from symptom onset to informed consent date. modified Neuropathy Impairment Score (mNIS) Quality of Life-Diabetic Neuropathy (QoL-DN) hereditary transthyretin amyloidosis-polyneuropathy (hATTR-PN) Standard deviation (SD)
+- 3 Duration from symptom onset to informed consent date. modified Neuropathy Impairment Score (mNIS) Quality of Life-Diabetic Neuropathy (QoL-DN) hereditary transthyretin amyloidosis-polyneuropathy (hATTR-PN) Standard deviation (SD)
 
 The changes from baseline in both primary endpoints (mNIS+7 and Norfolk QoL-DN) demonstrated statistically significant benefit in favour of inotersen treatment at Week 66 (Table 4). Results across multiple disease characteristics [TTR mutation (V30M, non-V30M)], disease stage (Stage 1, Stage 2), previous treatment with tafamidis or diflunisal (yes, no), presence of hATTR-CM (yes, no) at Week 66 showed statistically significant benefit in all subgroups based on mNIS+7 composite score and all but one of these subgroups (CM-Echo Set; p=0.067) based on Norfolk QoL-DN total score (Table 5). Furthermore, results across the components of mNIS+7 and domains of Norfolk QoL-DN composite scores were consistent with the primary endpoint analysis, showing benefit in motor, sensory and autonomic neuropathies (Figure 2).
 
 Table 4. Primary endpoint analysis mNIS+7 and Norfolk QoL-DN
 
-|                                                | mNIS+7           | mNIS+7                   | Norfolk-QOL-DN               | Norfolk-QOL-DN      |
-|------------------------------------------------|------------------|--------------------------|------------------------------|---------------------|
-|                                                | Placebo (N = 60) | Inotersen (N = 112)      | Placebo (N = 60)             | Inotersen (N = 112) |
-| Baseline n                                     | 60 74,75         | 112                      | 59 48,68 (26,746)            | 111 48,22 (27,503)  |
-| Mean (SD)                                      | (39,003)         | 79,165 (36,958)          |                              |                     |
-| Week 66 Change n LSM (SE) 95% CI Difference in | 60               | 112 (2,397) 15,85, 15,24 | 59 12,94 (2,840) 7,38, 18,51 | 111 4,38 0,11, 8,64 |
-|                                                | 25,43 (3,225)    | 10,54                    |                              | (2,175)             |
-|                                                | 19,11, 31,75     |                          |                              |                     |
-| LSM (Tegsedi - Placebo) 95% CI                 |                  | -14,89 ; <               |                              | -8,56 -15,42 ;      |
-|                                                |                  | -22,55 -7,22             |                              | -1,71               |
-| P-value                                        |                  | 0,001                    |                              | 0,015               |
+|                                      | mNIS+7           | mNIS+7                                               | Norfolk-QOL-DN               | Norfolk-QOL-DN              |
+|--------------------------------------|------------------|------------------------------------------------------|------------------------------|-----------------------------|
+|                                      | Placebo (N = 60) | Inotersen (N = 112)                                  | Placebo (N = 60)             | Inotersen (N = 112)         |
+| Baseline n Mean (SD)                 | 60 74,75         | 112 79,165 (36,958)                                  | 59 48,68 (26,746)            | 111 48,22 (27,503)          |
+| 66 Change n LSM (SE) 95% CI          | (39,003)         |                                                      |                              |                             |
+| Week Difference in (Tegsedi - 95% CI | 60               | 112 10,54 (2,397) 15,85, 15,24 -14,89 -22,55 ; -7,22 | 59 12,94 (2,840) 7,38, 18,51 | 111 4,38 (2,175) 0,11, 8,64 |
+| LSM                                  | 25,43 (3,225)    |                                                      |                              |                             |
+|                                      | 19,11, 31,75     |                                                      |                              |                             |
+| Placebo)                             |                  | <                                                    |                              | -8,56 -15,42 ;              |
+|                                      |                  |                                                      |                              | -1,71                       |
+| P-value                              |                  | 0,001                                                |                              | 0,015                       |
 
 Quality of Life-Diabetic Neuropathy (QoL-DN) Standard deviation (SD)
 
 Least squares mean (LSM)
 
-## Table 5. Subgroup analysis of mNIS+7 and Norfolk QoL-DN
+Table 5. Subgroup analysis of mNIS+7 and Norfolk QoL-DN
 
 |          | mNIS+7                 | mNIS+7                                   | mNIS+7                                   | Norfolk QOL-DN         | Norfolk QOL-DN                           | Norfolk QOL-DN                           |
 |----------|------------------------|------------------------------------------|------------------------------------------|------------------------|------------------------------------------|------------------------------------------|
@@ -371,7 +369,7 @@ Least squares mean (LSM)
 
 <div style=\"page-break-after: always\"></div>
 
-LSM DifferenceinChange fromBaseline atWeek 66 (Ilnotersen-PlaceboEffectSize,95%Cl)
+LSMDifferenceinChangefromBaseline atWeek66 (Inotersen-PlaceboEffectSize,95%Cl)
 
 | Non-V30                     | 28, 54   | -19,06 (5,334)   | p < 0,001   | 27, 53   | -9,87 (4,666)   | p = 0,034   |
 |-----------------------------|----------|------------------|-------------|----------|-----------------|-------------|
@@ -494,7 +492,13 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Akcea Therapeutics Ireland Ltd St. James House, 72 Adelaide Road, Dublin 2 D02 Y017, Ireland
+Akcea Therapeutics Ireland Ltd
+
+St. James House,
+
+72 Adelaide Road, Dublin 2
+
+D02 Y017, Ireland
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
@@ -527,7 +531,7 @@ Detailed information on this medicinal product is available on the website of th
 
 Name and address of the manufacturer responsible for batch release
 
-ABF Pharmaceutical Services GmbH Brunnerstraße 63/18-19 1230 Vienna AUSTRIA
+Ionis Ireland Ltd St. James House, 72 Adelaide Road, Dublin 2 D02 Y017, Ireland
 
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
@@ -568,10 +572,10 @@ In addition to a prompt to include the contact details of the patient's physicia
 
 - Alert HCPs that the patient is taking Tegsedi, its indication and the key safety concerns;
 - Advise HCPs that, due to the risks of thrombocytopenia and glomerulonephritis, patients should have their platelet count monitored at least every 2 weeks during the entire course of treatment with  inotersen,  and  urine  protein  to  creatinine  ratio  and  estimated  glomerular  filtration  rate monitored at least every 3 months or more frequently as clinically indicated, based on history of chronic kidney disease and/or renal amyloidosis;
-- Advise HCPs that if the platelet count falls below 25 x 10 9 /L,  Tegsedi  treatment  should  be permanently discontinued and corticosteroid therapy is recommended;
+- Advise HCPs that if the platelet count falls below 25 x 10 9 /L,  Tegsedi treatment should be permanently discontinued and corticosteroid therapy is recommended;
 - Advise  HCPs  that  the  platelet  count,  UPCR  and  eGFR  should  be  monitored  for  8  weeks following discontinuation of treatment;
 - Advise HCPs that if glomerulonephritis is confirmed, Tegsedi treatment should be permanently discontinued and early initiation of immunosuppressive therapy should be considered;
-- Advise HCPs that, Tegsedi is contraindicated in patients with severe hepatic impairment. Liver function should  be  assessed  before  initiating Tegsedi.  Prompt  clinical  evaluation  and measurement of liver function tests should be performed preferably within 72 hours in patients who report  symptoms that may indicate liver injury. Dose interruption should be considered until clinical and liver function evaluation is performed;
+- Advise HCPs that, Tegsedi is contraindicated in patients with severe hepatic impairment. Liver function  should  be  assessed  before  initiating  Tegsedi.  Prompt  clinical  evaluation  and measurement of liver function tests should be performed preferably within 72 hours in patients who report  symptoms that may indicate liver injury. Dose interruption should be considered until clinical and liver function evaluation is performed;
 - Advise HCPs that permanent discontinuation of Tegsedi is needed in case of drug-induced liver injury;
 - Advise HCPs that hepatic enzymes should be measured 4 months after initiation of treatment with Tegsedi and annually thereafter or more frequently as clinically indicated, in order to detect cases of hepatic impairment. Patients with a prior liver transplant should be monitored for signs and symptoms of transplant rejection during treatment with Tegsedi. In these patients, liver function tests should be performed monthly;
 - Advise HCPs that if patients develop ocular symptoms consistent with vitamin A deficiency, referral for ophthalmological assessment is recommended;
@@ -645,7 +649,7 @@ Following distribution to the patient, can be stored 6 weeks below 30°C. If not
 
 Store in the original package in order to protect from light.
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -662,9 +666,10 @@ EU/1/18/1296/002
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
+
 15. INSTRUCTIONS ON USE
 
-## 16. INFORMATION IN BRAILLE
+16. INFORMATION IN BRAILLE
 
 Tegsedi
 
@@ -700,7 +705,7 @@ Lot
 
 ## 5. OTHER
 
-Subcutaneous use
+Subcutaneous use Tegsedi 284 mg injection inotersen SC
 
 1. Bend and snap
 
@@ -712,17 +717,15 @@ Subcutaneous use
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
-|--------------------------------------------------------------------|
-| PRE-FILLED SYRINGE                                                 |
+| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
+|------------------------------------------------------------------|
+| PRE-FILLED SYRINGE                                               |
 
-| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|----------------------------------------------------------------|
+| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|-------------------------------------------------------------|
 
-Tegsedi 284 mg injection inotersen SC
-
-| 2.   | METHOD OF ADMINISTRATION   |
-|------|----------------------------|
+| 2.   | METHODOFADMINISTRATION   |
+|------|--------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -734,8 +737,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
-|------|--------------------------------------------|
+| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
+|------|---------------------------------------|
 
 1.5 mL
 
@@ -890,9 +893,9 @@ Read the instructions for use before you start using your pre-filled syringe and
 
 <div style=\"page-break-after: always\"></div>
 
-Each pre-filled syringe contains one dose and is for one-time use only.
-
 <!-- image -->
+
+Each pre-filled syringe contains one dose and is for one-time use only.
 
 ## WARNINGS
 
@@ -917,7 +920,7 @@ If any of the above happens, throw away the pre-filled syringe in a puncture-res
 
 Do not inject the medicine until you have gathered the supplies listed.
 
-2. Prepare to use your pre-filled syringe
+## 2. Prepare to use your pre-filled syringe
 
 <div style=\"page-break-after: always\"></div>
 
@@ -951,11 +954,11 @@ Do not inject into the 3cm area around the belly-button (navel).
 
 Do not inject into the same site each time.
 
-Do not inject where skin is bruised, tender, red or hard.
+Do not inject where skin is
 
-Do not inject into tattoos, scars or damaged skin.
+bruised, tender, red or hard. Do not inject into tattoos, scars or damaged skin. inject through
 
-Do not inject through clothing.
+Do not clothing.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -981,13 +984,17 @@ Do not touch the area again before injecting.
 
 Hold the pre-filled syringe by the body, with the needle facing away from you.
 
-Remove needle cap by pulling it straight off. Do not twist it off. You may see a drop of liquid at the end of the needle. This is normal. plunger to avoid pushing the plunger
+Remove needle cap by pulling it straight off. Do not twist it off.
 
-Keep your hands away from the before you are ready to inject.
+You may see a drop of liquid at the end of the needle. This is normal.
+
+Keep your hands away from the plunger to avoid pushing the plunger before you are ready to inject.
 
 Do not remove the needle cap until right before you inject.
 
-Do not pull the cap off while holding the pre-filled syringe by the plunger. Always hold by the body of the syringe.
+Do not pull the cap off while holding the pre-filled syringe by the plunger. Always hold by the body of the
+
+syringe.
 
 Do not let the needle touch any surface.
 
@@ -1123,9 +1130,7 @@ Store in a refrigerator (2 °C - 8 °C).
 
 Do not freeze.
 
-Tegsedi may be stored unrefrigerated for up to 6 weeks at a temperature below 30°C. If unrefrigerated and not used within 6 weeks then this medicine should be discarded.
-
-Store in the original package in order to protect from light.
+Tegsedi may be stored unrefrigerated for up to 6 weeks at a temperature below 30°C. If unrefrigerated and not used within 6 weeks then this medicine should be discarded. Store in the original package in order to protect from light.
 
 Do not use this medicine if you notice that the contents are cloudy or contains particles.
 
@@ -1151,7 +1156,7 @@ Akcea Therapeutics Ireland Ltd St. James House, 72 Adelaide Road, Dublin 2 D02 Y
 
 ## Manufacturer
 
-ABF Pharmaceutical Services GmbH Brunnerstraße 63/18-19 1230 Vienna Austria
+Ionis Ireland Ltd St. James House, 72 Adelaide Road, Dublin 2 D02 Y017, Ireland
 
 ## This leaflet was last revised in
 

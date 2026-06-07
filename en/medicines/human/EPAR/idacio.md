@@ -1,32 +1,108 @@
 ---
-document_datetime: 2025-12-29 11:50:29
+document_datetime: 2026-06-05 10:23:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/idacio.html
 document_name: idacio.html
 version: success
-processing_time: 0.1035125
-conversion_datetime: 2025-12-30 08:46:45.448196
+processing_time: 0.1138354
+conversion_datetime: 2026-06-07 11:53:52.299569
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.21.0
+  docling-jobkit: 1.20.1
+  docling: 2.97.0
+  docling-core: 2.78.0
+  docling-ibm-models: 3.13.2
+  docling-parse: 6.2.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
 ---
+# Search
+
+- [Medicines](/en/medicines)
+    - [Find medicine](/en/medicines)
+    - [Therapeutic areas: latest updates](/en/medicines/therapeutic-areas-latest-updates)
+    - [Download medicine data](/en/medicines/download-medicine-data)
+    - [What we publish on medicines and when](/en/medicines/what-we-publish-medicines-when)
+    - [Medicines under evaluation](/en/medicines/medicines-human-use-under-evaluation)
+    - [National registers](/en/medicines/national-registers-authorised-medicines)
+- [Human regulatory](/en/human-regulatory-overview)
+    - [Overview](/en/human-regulatory-overview)
+    - [Research and development](/en/human-regulatory-overview/research-development)
+    - [Marketing authorisation](/en/human-regulatory-overview/marketing-authorisation)
+    - [Post-authorisation](/en/human-regulatory-overview/post-authorisation)
+    - [Medical devices](/en/human-regulatory-overview/medical-devices)
+    - [Herbal products](/en/human-regulatory-overview/herbal-medicinal-products)
+- [Veterinary regulatory](/en/veterinary-regulatory-overview)
+    - [Overview](/en/veterinary-regulatory-overview)
+    - [Research and development](/en/veterinary-regulatory-overview/research-development-veterinary-medicines)
+    - [Marketing authorisation](/en/veterinary-regulatory-overview/marketing-authorisation-veterinary-medicines)
+    - [Post-authorisation](/en/veterinary-regulatory-overview/post-authorisation-veterinary-medicines)
+- [Committees](/en/committees)
+    - [Overview](/en/committees)
+    - [How the committees work](/en/committees/how-committees-work)
+    - [CHMP](/en/committees/committee-medicinal-products-human-use-chmp)
+    - [CVMP](/en/committees/committee-veterinary-medicinal-products-cvmp)
+    - [PRAC](/en/committees/pharmacovigilance-risk-assessment-committee-prac)
+    - [COMP](/en/committees/committee-orphan-medicinal-products-comp)
+    - [HMPC](/en/committees/committee-herbal-medicinal-products-hmpc)
+    - [CAT](/en/committees/committee-advanced-therapies-cat)
+    - [PDCO](/en/committees/paediatric-committee-pdco)
+    - [Working parties and other groups](/en/committees/working-parties-other-groups)
+- [News &amp; events](/en/news-events)
+    - [Overview](/en/news-events)
+    - [News](/en/news)
+    - [Events](/en/events/upcoming-events)
+    - [What's new](/en/news-events/whats-new)
+    - [Committee highlights](/en/news-events/committee-highlights)
+    - [Publications](/en/news-and-events/publications)
+    - [Press and social media](/en/news-events/press-social-media)
+    - [Podcast: Inside EMA](/en/news-events/podcast-inside-ema)
+    - [EMA Campaigns](/en/news-events/ema-campaigns)
+    - [Open consultations](/en/news-events/open-consultations)
+    - [RSS feeds](/en/news-events/rss-feeds)
+- [Partners &amp; networks](/en/partners-networks)
+    - [Overview](/en/partners-networks)
+    - [EU partners](/en/partners-networks/eu-partners)
+    - [International activities](/en/partners-networks/international-activities)
+    - [Patients and consumers](/en/partners-networks/patients-consumers)
+    - [Healthcare professionals](/en/partners-networks/healthcare-professionals)
+    - [Academia](/en/partners-networks/academia)
+    - [Pharmaceutical industry](/en/partners-networks/pharmaceutical-industry)
+    - [Networks](/en/partners-networks/networks)
+    - [Health technology assessment bodies](/en/partners-networks/health-technology-assessment-bodies)
+    - [One Health approach](/en/partners-networks/one-health-approach)
+    - [Animal health practitioners](/en/partners-networks/animal-health-practitioners)
+    - [One substance - one assessment](/en/partners-networks/one-substance-one-assessment-osoa-eu-collaboration-chemicals-related-data)
+- [About us](/en/about-us)
+    - [Overview](/en/about-us)
+    - [What we do](/en/about-us/what-we-do)
+    - [Who we are](/en/about-us/who-we-are)
+    - [How we work](/en/about-us/how-we-work)
+    - [Fees](/en/about-us/fees-payable-european-medicines-agency)
+    - [Support to SMEs](/en/about-us/support-smes)
+    - [Annual reports and work programmes](/en/about-us/annual-reports-work-programmes)
+    - [History of EMA](/en/about-us/history-ema)
+    - [Careers](/en/about-us/careers)
+    - [Procurement](/en/about-us/procurement-grants)
+    - [About this website](/en/about-us/about-website)
+    - [Data protection and privacy](/en/about-us/data-protection-privacy-ema)
+    - [Contacts](/en/about-us/contacts-european-medicines-agency)
+
+1. [Home](/en/homepage)
+2. [Medicines](https://www.ema.europa.eu/en/medicines)
+3. Idacio
+
 # Idacio
 
 [RSS](/en/individual-human-medicine.xml/67187)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-adalimumab Medicine Human Authorised
+adalimumab
 
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
+Medicine Human Authorised
 
 Page contents
 
@@ -67,7 +143,7 @@ Expand section
 
 Collapse section
 
-## How is Idacio used?
+### How is Idacio used?
 
 Idacio is available as a solution for injection under the skin in a vial or pre-filled syringe or pen, and is usually given every 2 weeks. The dose and frequency of injection depend on the condition to be treated and the dose for a child is usually calculated according to the child's weight. After training, patients or their carers may inject Idacio if their doctor considers it appropriate.
 
@@ -75,11 +151,11 @@ Idacio can only be obtained with a prescription and treatment must be started an
 
 For more information about using Idacio, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Idacio work?
+### How does Idacio work?
 
 The active substance in Idacio, adalimumab, is a monoclonal antibody (a type of protein) that has been designed to recognise and attach to a substance in the body called tumour necrosis factor (TNF). TNF is involved in causing inflammation and is found at high levels in patients with the diseases that Idacio is used to treat. By attaching to TNF, adalimumab blocks its activity, thereby reducing inflammation and other symptoms of the diseases.
 
-## What benefits of Idacio have been shown in studies?
+### What benefits of Idacio have been shown in studies?
 
 Laboratory studies comparing Idacio with the reference medicine Humira have shown that the active substance in Idacio is highly similar to that in Humira in terms of structure, purity and biological activity. Studies have also shown that giving Idacio produces similar levels of the active substance in the body to giving Humira.
 
@@ -87,7 +163,7 @@ In addition, a study involving 443 patients with plaque psoriasis has shown that
 
 Because Idacio is a biosimilar medicine, the studies on effectiveness and safety of adalimumab carried out with Humira do not all need to be repeated for Idacio.
 
-## What are the risks associated with Idacio?
+### What are the risks associated with Idacio?
 
 The safety of Idacio has been evaluated and, on the basis of all the studies carried out, the side effects of the medicine are considered to be comparable to those of the reference medicine Humira. The most common side effects with adalimumab (which may affect more than 1 in 10 people) are infections (including in the nose, throat and sinuses), injection site reactions (redness, itching, bleeding, pain or swelling), headache and muscle and bone pain.
 
@@ -99,13 +175,13 @@ Idacio must not be used in patients with active tuberculosis or other severe inf
 
 For the full list of side effects and restrictions with Idacio, see the package leaflet.
 
-## Why is Idacio authorised in the EU?
+### Why is Idacio authorised in the EU?
 
 The European Medicines Agency decided that, in accordance with EU requirements for biosimilar medicines, Idacio has a highly similar structure, purity and biological activity to Humira and is distributed in the body in the same way. In addition, studies in psoriasis have shown that the effectiveness of Idacio is equivalent to that of Humira.
 
 All these data were considered sufficient to conclude that Idacio will behave in the same way as Humira in terms of effectiveness and safety in its authorised uses. Therefore, the Agency's view was that, as for Humira, the benefits of Idacio outweigh the identified risks and it can be authorised for use in the EU.
 
-## What measures are being taken to ensure the safe and effective use of Idacio?
+### What measures are being taken to ensure the safe and effective use of Idacio?
 
 The company that markets Idacio must provide educational packs for doctors who prescribe the medicine. These packs will include information on the safety of the medicine. An alert card will also be given to patients.
 
@@ -113,7 +189,7 @@ Recommendations and precautions to be followed by healthcare professionals and p
 
 As for all medicines, data on the use of Idacio are continuously monitored. Side effects reported with Idacio are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Idacio
+### Other information about Idacio
 
 Idacio received a marketing authorisation valid throughout the EU on 2 April 2019.
 
@@ -131,9 +207,7 @@ Idacio : EPAR - Risk management plan
 
 English (EN) (914.95 KB - PDF)
 
-**First published:** 17/04/2019
-
-**Last updated:** 21/10/2025
+**First published:** 17/04/2019 **Last updated:** 21/10/2025
 
 [View](/en/documents/rmp/idacio-epar-risk-management-plan_en.pdf)
 
@@ -141,305 +215,161 @@ English (EN) (914.95 KB - PDF)
 
 Idacio : EPAR - Product information
 
-English (EN) (2.53 MB - PDF)
+English (EN) (2.54 MB - PDF)
 
-**First published:** 17/04/2019
-
-**Last updated:** 21/10/2025
+**First published:** 17/04/2019 **Last updated:** 05/06/2026
 
 [View](/en/documents/product-information/idacio-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-880)
+[Other languages (24)](#file-language-dropdown-769)
 
-български (BG) (2.91 MB - PDF)
+български (BG) (2.9 MB - PDF)
 
-**First published:**
-
-17/04/2019
-
-**Last updated:**
-
-21/10/2025
+**First published:** 17/04/2019 **Last updated:** 05/06/2026
 
 [View](/bg/documents/product-information/idacio-epar-product-information_bg.pdf)
 
-español (ES) (2.77 MB - PDF)
+español (ES) (2.76 MB - PDF)
 
-**First published:**
-
-17/04/2019
-
-**Last updated:**
-
-21/10/2025
+**First published:** 17/04/2019 **Last updated:** 05/06/2026
 
 [View](/es/documents/product-information/idacio-epar-product-information_es.pdf)
 
-čeština (CS) (2.79 MB - PDF)
+čeština (CS) (2.77 MB - PDF)
 
-**First published:**
-
-17/04/2019
-
-**Last updated:**
-
-21/10/2025
+**First published:** 17/04/2019 **Last updated:** 05/06/2026
 
 [View](/cs/documents/product-information/idacio-epar-product-information_cs.pdf)
 
-dansk (DA) (4.2 MB - PDF)
+dansk (DA) (2.56 MB - PDF)
 
-**First published:**
-
-17/04/2019
-
-**Last updated:**
-
-21/10/2025
+**First published:** 17/04/2019 **Last updated:** 05/06/2026
 
 [View](/da/documents/product-information/idacio-epar-product-information_da.pdf)
 
-Deutsch (DE) (2.18 MB - PDF)
+Deutsch (DE) (3.42 MB - PDF)
 
-**First published:**
-
-17/04/2019
-
-**Last updated:**
-
-18/11/2025
+**First published:** 17/04/2019 **Last updated:** 05/06/2026
 
 [View](/de/documents/product-information/idacio-epar-product-information_de.pdf)
 
-eesti keel (ET) (2.62 MB - PDF)
+eesti (ET) (2.75 MB - PDF)
 
-**First published:**
-
-17/04/2019
-
-**Last updated:**
-
-21/10/2025
+**First published:** 17/04/2019 **Last updated:** 05/06/2026
 
 [View](/et/documents/product-information/idacio-epar-product-information_et.pdf)
 
-ελληνικά (EL) (4.24 MB - PDF)
+ελληνικά (EL) (4.29 MB - PDF)
 
-**First published:**
-
-17/04/2019
-
-**Last updated:**
-
-21/10/2025
+**First published:** 17/04/2019 **Last updated:** 05/06/2026
 
 [View](/el/documents/product-information/idacio-epar-product-information_el.pdf)
 
-français (FR) (2.55 MB - PDF)
+français (FR) (3.09 MB - PDF)
 
-**First published:**
-
-17/04/2019
-
-**Last updated:**
-
-21/10/2025
+**First published:** 17/04/2019 **Last updated:** 05/06/2026
 
 [View](/fr/documents/product-information/idacio-epar-product-information_fr.pdf)
 
-hrvatski (HR) (3.8 MB - PDF)
+hrvatski (HR) (3.23 MB - PDF)
 
-**First published:**
-
-17/04/2019
-
-**Last updated:**
-
-21/10/2025
+**First published:** 17/04/2019 **Last updated:** 05/06/2026
 
 [View](/hr/documents/product-information/idacio-epar-product-information_hr.pdf)
 
-íslenska (IS) (2.22 MB - PDF)
+italiano (IT) (2.78 MB - PDF)
 
-**First published:**
-
-17/04/2019
-
-**Last updated:**
-
-21/10/2025
-
-[View](/is/documents/product-information/idacio-epar-product-information_is.pdf)
-
-italiano (IT) (2.34 MB - PDF)
-
-**First published:**
-
-17/04/2019
-
-**Last updated:**
-
-21/10/2025
+**First published:** 17/04/2019 **Last updated:** 05/06/2026
 
 [View](/it/documents/product-information/idacio-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (2.27 MB - PDF)
+latviešu (LV) (2.46 MB - PDF)
 
-**First published:**
-
-17/04/2019
-
-**Last updated:**
-
-21/10/2025
+**First published:** 17/04/2019 **Last updated:** 05/06/2026
 
 [View](/lv/documents/product-information/idacio-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (2.22 MB - PDF)
+lietuvių (LT) (2.3 MB - PDF)
 
-**First published:**
-
-17/04/2019
-
-**Last updated:**
-
-21/10/2025
+**First published:** 17/04/2019 **Last updated:** 05/06/2026
 
 [View](/lt/documents/product-information/idacio-epar-product-information_lt.pdf)
 
-magyar (HU) (2.17 MB - PDF)
+magyar (HU) (2.78 MB - PDF)
 
-**First published:**
-
-17/04/2019
-
-**Last updated:**
-
-21/10/2025
+**First published:** 17/04/2019 **Last updated:** 05/06/2026
 
 [View](/hu/documents/product-information/idacio-epar-product-information_hu.pdf)
 
-Malti (MT) (3.05 MB - PDF)
+Malti (MT) (3.03 MB - PDF)
 
-**First published:**
-
-17/04/2019
-
-**Last updated:**
-
-21/10/2025
+**First published:** 17/04/2019 **Last updated:** 05/06/2026
 
 [View](/mt/documents/product-information/idacio-epar-product-information_mt.pdf)
 
-Nederlands (NL) (2.1 MB - PDF)
+Nederlands (NL) (2.85 MB - PDF)
 
-**First published:**
-
-17/04/2019
-
-**Last updated:**
-
-21/10/2025
+**First published:** 17/04/2019 **Last updated:** 05/06/2026
 
 [View](/nl/documents/product-information/idacio-epar-product-information_nl.pdf)
 
-norsk (NO) (3.97 MB - PDF)
+polski (PL) (2.67 MB - PDF)
 
-**First published:**
-
-17/04/2019
-
-**Last updated:**
-
-21/10/2025
-
-[View](/no/documents/product-information/idacio-epar-product-information_no.pdf)
-
-polski (PL) (2.47 MB - PDF)
-
-**First published:**
-
-17/04/2019
-
-**Last updated:**
-
-21/10/2025
+**First published:** 17/04/2019 **Last updated:** 05/06/2026
 
 [View](/pl/documents/product-information/idacio-epar-product-information_pl.pdf)
 
-português (PT) (2.29 MB - PDF)
+português (PT) (2.73 MB - PDF)
 
-**First published:**
-
-17/04/2019
-
-**Last updated:**
-
-21/10/2025
+**First published:** 17/04/2019 **Last updated:** 05/06/2026
 
 [View](/pt/documents/product-information/idacio-epar-product-information_pt.pdf)
 
-română (RO) (2.65 MB - PDF)
+română (RO) (2.67 MB - PDF)
 
-**First published:**
-
-17/04/2019
-
-**Last updated:**
-
-21/10/2025
+**First published:** 17/04/2019 **Last updated:** 05/06/2026
 
 [View](/ro/documents/product-information/idacio-epar-product-information_ro.pdf)
 
-slovenčina (SK) (2.96 MB - PDF)
+slovenčina (SK) (2.95 MB - PDF)
 
-**First published:**
-
-17/04/2019
-
-**Last updated:**
-
-21/10/2025
+**First published:** 17/04/2019 **Last updated:** 05/06/2026
 
 [View](/sk/documents/product-information/idacio-epar-product-information_sk.pdf)
 
 slovenščina (SL) (2.05 MB - PDF)
 
-**First published:**
-
-17/04/2019
-
-**Last updated:**
-
-21/10/2025
+**First published:** 17/04/2019 **Last updated:** 05/06/2026
 
 [View](/sl/documents/product-information/idacio-epar-product-information_sl.pdf)
 
-Suomi (FI) (2.29 MB - PDF)
+suomi (FI) (2.77 MB - PDF)
 
-**First published:**
-
-17/04/2019
-
-**Last updated:**
-
-21/10/2025
+**First published:** 17/04/2019 **Last updated:** 05/06/2026
 
 [View](/fi/documents/product-information/idacio-epar-product-information_fi.pdf)
 
-svenska (SV) (2.75 MB - PDF)
+svenska (SV) (2.77 MB - PDF)
 
-**First published:**
-
-17/04/2019
-
-**Last updated:**
-
-21/10/2025
+**First published:** 17/04/2019 **Last updated:** 05/06/2026
 
 [View](/sv/documents/product-information/idacio-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** II/0024/G 18/09/2025
+Íslenska (IS) (2.32 MB - PDF)
+
+**First published:** 17/04/2019 **Last updated:** 05/06/2026
+
+[View](/is/documents/product-information/idacio-epar-product-information_is.pdf)
+
+norsk (NO) (2.59 MB - PDF)
+
+**First published:** 17/04/2019 **Last updated:** 05/06/2026
+
+[View](/no/documents/product-information/idacio-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** VR/0000338336
+
+02/06/2026
 
 icon globe
 
@@ -459,305 +389,171 @@ Idacio : EPAR - All authorised presentations
 
 English (EN) (77.25 KB - PDF)
 
-**First published:** 17/04/2019
-
-**Last updated:** 21/10/2025
+**First published:** 17/04/2019 **Last updated:** 21/10/2025
 
 [View](/en/documents/all-authorised-presentations/idacio-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-557)
+[Other languages (24)](#file-language-dropdown-983)
 
 български (BG) (145.96 KB - PDF)
 
-**First published:**
-
-17/04/2019
-
-**Last updated:**
-
-21/10/2025
+**First published:** 17/04/2019 **Last updated:** 21/10/2025
 
 [View](/bg/documents/all-authorised-presentations/idacio-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (108.7 KB - PDF)
 
-**First published:**
-
-17/04/2019
-
-**Last updated:**
-
-21/10/2025
+**First published:** 17/04/2019 **Last updated:** 21/10/2025
 
 [View](/es/documents/all-authorised-presentations/idacio-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (66.59 KB - PDF)
 
-**First published:**
-
-17/04/2019
-
-**Last updated:**
-
-21/10/2025
+**First published:** 17/04/2019 **Last updated:** 21/10/2025
 
 [View](/cs/documents/all-authorised-presentations/idacio-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (95.18 KB - PDF)
 
-**First published:**
-
-17/04/2019
-
-**Last updated:**
-
-21/10/2025
+**First published:** 17/04/2019 **Last updated:** 21/10/2025
 
 [View](/da/documents/all-authorised-presentations/idacio-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (77.2 KB - PDF)
 
-**First published:**
-
-17/04/2019
-
-**Last updated:**
-
-21/10/2025
+**First published:** 17/04/2019 **Last updated:** 21/10/2025
 
 [View](/de/documents/all-authorised-presentations/idacio-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (75.84 KB - PDF)
+eesti (ET) (75.84 KB - PDF)
 
-**First published:**
-
-17/04/2019
-
-**Last updated:**
-
-21/10/2025
+**First published:** 17/04/2019 **Last updated:** 21/10/2025
 
 [View](/et/documents/all-authorised-presentations/idacio-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (121.33 KB - PDF)
 
-**First published:**
-
-17/04/2019
-
-**Last updated:**
-
-21/10/2025
+**First published:** 17/04/2019 **Last updated:** 21/10/2025
 
 [View](/el/documents/all-authorised-presentations/idacio-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (91.96 KB - PDF)
 
-**First published:**
-
-17/04/2019
-
-**Last updated:**
-
-21/10/2025
+**First published:** 17/04/2019 **Last updated:** 21/10/2025
 
 [View](/fr/documents/all-authorised-presentations/idacio-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (132.95 KB - PDF)
 
-**First published:**
-
-17/04/2019
-
-**Last updated:**
-
-21/10/2025
+**First published:** 17/04/2019 **Last updated:** 21/10/2025
 
 [View](/hr/documents/all-authorised-presentations/idacio-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (46.11 KB - PDF)
-
-**First published:**
-
-17/04/2019
-
-**Last updated:**
-
-21/10/2025
-
-[View](/is/documents/all-authorised-presentations/idacio-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (92.1 KB - PDF)
 
-**First published:**
-
-17/04/2019
-
-**Last updated:**
-
-21/10/2025
+**First published:** 17/04/2019 **Last updated:** 21/10/2025
 
 [View](/it/documents/all-authorised-presentations/idacio-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (86.37 KB - PDF)
+latviešu (LV) (86.37 KB - PDF)
 
-**First published:**
-
-17/04/2019
-
-**Last updated:**
-
-21/10/2025
+**First published:** 17/04/2019 **Last updated:** 21/10/2025
 
 [View](/lv/documents/all-authorised-presentations/idacio-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (95.96 KB - PDF)
+lietuvių (LT) (95.96 KB - PDF)
 
-**First published:**
-
-17/04/2019
-
-**Last updated:**
-
-21/10/2025
+**First published:** 17/04/2019 **Last updated:** 21/10/2025
 
 [View](/lt/documents/all-authorised-presentations/idacio-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (78.93 KB - PDF)
 
-**First published:**
-
-17/04/2019
-
-**Last updated:**
-
-21/10/2025
+**First published:** 17/04/2019 **Last updated:** 21/10/2025
 
 [View](/hu/documents/all-authorised-presentations/idacio-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (143.39 KB - PDF)
 
-**First published:**
-
-17/04/2019
-
-**Last updated:**
-
-21/10/2025
+**First published:** 17/04/2019 **Last updated:** 21/10/2025
 
 [View](/mt/documents/all-authorised-presentations/idacio-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (91.22 KB - PDF)
 
-**First published:**
-
-17/04/2019
-
-**Last updated:**
-
-21/10/2025
+**First published:** 17/04/2019 **Last updated:** 21/10/2025
 
 [View](/nl/documents/all-authorised-presentations/idacio-epar-all-authorised-presentations_nl.pdf)
 
-norsk (NO) (90.53 KB - PDF)
-
-**First published:**
-
-17/04/2019
-
-**Last updated:**
-
-21/10/2025
-
-[View](/no/documents/all-authorised-presentations/idacio-epar-all-authorised-presentations_no.pdf)
-
 polski (PL) (69.84 KB - PDF)
 
-**First published:**
-
-17/04/2019
-
-**Last updated:**
-
-21/10/2025
+**First published:** 17/04/2019 **Last updated:** 21/10/2025
 
 [View](/pl/documents/all-authorised-presentations/idacio-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (29.41 KB - PDF)
 
-**First published:**
-
-17/04/2019
-
-**Last updated:**
-
-21/10/2025
+**First published:** 17/04/2019 **Last updated:** 21/10/2025
 
 [View](/pt/documents/all-authorised-presentations/idacio-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (134.85 KB - PDF)
 
-**First published:**
-
-17/04/2019
-
-**Last updated:**
-
-21/10/2025
+**First published:** 17/04/2019 **Last updated:** 21/10/2025
 
 [View](/ro/documents/all-authorised-presentations/idacio-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (66.87 KB - PDF)
 
-**First published:**
-
-17/04/2019
-
-**Last updated:**
-
-21/10/2025
+**First published:** 17/04/2019 **Last updated:** 21/10/2025
 
 [View](/sk/documents/all-authorised-presentations/idacio-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (112.45 KB - PDF)
 
-**First published:**
-
-17/04/2019
-
-**Last updated:**
-
-21/10/2025
+**First published:** 17/04/2019 **Last updated:** 21/10/2025
 
 [View](/sl/documents/all-authorised-presentations/idacio-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (57.5 KB - PDF)
+suomi (FI) (57.5 KB - PDF)
 
-**First published:**
-
-17/04/2019
-
-**Last updated:**
-
-21/10/2025
+**First published:** 17/04/2019 **Last updated:** 21/10/2025
 
 [View](/fi/documents/all-authorised-presentations/idacio-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (91.8 KB - PDF)
 
-**First published:**
-
-17/04/2019
-
-**Last updated:**
-
-21/10/2025
+**First published:** 17/04/2019 **Last updated:** 21/10/2025
 
 [View](/sv/documents/all-authorised-presentations/idacio-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (46.11 KB - PDF)
+
+**First published:** 17/04/2019 **Last updated:** 21/10/2025
+
+[View](/is/documents/all-authorised-presentations/idacio-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (90.53 KB - PDF)
+
+**First published:** 17/04/2019 **Last updated:** 21/10/2025
+
+[View](/no/documents/all-authorised-presentations/idacio-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine Idacio Active substance adalimumab International non-proprietary name (INN) or common name adalimumab Therapeutic area (MeSH)
+Name of medicine
+
+Idacio
+
+Active substance
+
+adalimumab
+
+International non-proprietary name (INN) or common name
+
+adalimumab
+
+Therapeutic area (MeSH)
 
 - Arthritis, Rheumatoid
 - Arthritis, Psoriatic
@@ -769,7 +565,9 @@ Name of medicine Idacio Active substance adalimumab International non-proprietar
 - Crohn Disease
 - Arthritis, Juvenile Rheumatoid
 
-Anatomical therapeutic chemical (ATC) code L04AB04
+Anatomical therapeutic chemical (ATC) code
+
+L04AB04
 
 ### Pharmacotherapeutic group
 
@@ -848,7 +646,9 @@ Idacio is indicated for the treatment of paediatric chronic non-infectious anter
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/004475
+EMA product number
+
+EMEA/H/C/004475
 
 Biosimilar
 
@@ -860,7 +660,17 @@ Fresenius Kabi Deutschland GmbH
 
 Else-Kroner-Strasse 1
 
-Opinion adopted 31/01/2019 Marketing authorisation issued 02/04/2019 Revision 14
+Opinion adopted
+
+31/01/2019
+
+Marketing authorisation issued
+
+02/04/2019
+
+Revision
+
+14
 
 ## Assessment history
 
@@ -868,15 +678,13 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Idacio : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (126.81 KB - PDF)
+English (EN) (153.61 KB - PDF)
 
-**First published:** 11/07/2025
-
-**Last updated:** 27/10/2025
+**First published:** 11/07/2025 **Last updated:** 05/06/2026
 
 [View](/en/documents/procedural-steps-after/idacio-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -884,19 +692,15 @@ Idacio : EPAR - Procedural steps taken and scientific information after authoris
 
 English (EN) (186.38 KB - PDF)
 
-**First published:** 30/08/2019
-
-**Last updated:** 27/10/2025
+**First published:** 30/08/2019 **Last updated:** 27/10/2025
 
 [View](/en/documents/procedural-steps-after/idacio-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Idacio : EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/124342/2019
+Adopted Reference Number: EMA/124342/2019
 
 English (EN) (2.78 MB - PDF)
 
@@ -906,9 +710,7 @@ English (EN) (2.78 MB - PDF)
 
 CHMP summary of positive opinion for Idacio
 
-Adopted
-
-Reference Number: EMA/CHMP/41190/2019
+Adopted Reference Number: EMA/CHMP/41190/2019
 
 English (EN) (110.45 KB - PDF)
 
@@ -916,21 +718,23 @@ English (EN) (110.45 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-idacio_en.pdf)
 
-#### News on Idacio
+## News on Idacio
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 28-31 January 2019](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-28-31-january-2019) 01/02/2019
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 28-31 January 2019](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-28-31-january-2019)
 
-#### Related content
+01/02/2019
+
+## Related content
 
 - [Biosimilar medicines: Overview](/en/human-regulatory-overview/biosimilar-medicines-overview)
 
-#### Topics
+## Topics
 
 - [Biosimilars](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A45)
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 21/10/2025
+**This page was last updated on**
+
+05/06/2026
 
 ## Share this page
-
-[Back to top](#main-content)

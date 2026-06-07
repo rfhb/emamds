@@ -1,21 +1,97 @@
 ---
-document_datetime: 2026-05-04 10:00:00
+document_datetime: 2026-06-04 14:50:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/rapamune.html
 document_name: rapamune.html
 version: success
-processing_time: 0.1396294
-conversion_datetime: 2026-05-05 19:39:59.574348
+processing_time: 0.1389643
+conversion_datetime: 2026-06-07 11:51:46.925557
 docling_version:
-  docling-serve: 1.17.0
-  docling-jobkit: 1.18.0
-  docling: 2.92.0
-  docling-core: 2.74.1
+  docling-serve: 1.21.0
+  docling-jobkit: 1.20.1
+  docling: 2.97.0
+  docling-core: 2.78.0
   docling-ibm-models: 3.13.2
-  docling-parse: 5.10.1
+  docling-parse: 6.2.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
 ---
+# Search
+
+- [Medicines](/en/medicines)
+    - [Find medicine](/en/medicines)
+    - [Therapeutic areas: latest updates](/en/medicines/therapeutic-areas-latest-updates)
+    - [Download medicine data](/en/medicines/download-medicine-data)
+    - [What we publish on medicines and when](/en/medicines/what-we-publish-medicines-when)
+    - [Medicines under evaluation](/en/medicines/medicines-human-use-under-evaluation)
+    - [National registers](/en/medicines/national-registers-authorised-medicines)
+- [Human regulatory](/en/human-regulatory-overview)
+    - [Overview](/en/human-regulatory-overview)
+    - [Research and development](/en/human-regulatory-overview/research-development)
+    - [Marketing authorisation](/en/human-regulatory-overview/marketing-authorisation)
+    - [Post-authorisation](/en/human-regulatory-overview/post-authorisation)
+    - [Medical devices](/en/human-regulatory-overview/medical-devices)
+    - [Herbal products](/en/human-regulatory-overview/herbal-medicinal-products)
+- [Veterinary regulatory](/en/veterinary-regulatory-overview)
+    - [Overview](/en/veterinary-regulatory-overview)
+    - [Research and development](/en/veterinary-regulatory-overview/research-development-veterinary-medicines)
+    - [Marketing authorisation](/en/veterinary-regulatory-overview/marketing-authorisation-veterinary-medicines)
+    - [Post-authorisation](/en/veterinary-regulatory-overview/post-authorisation-veterinary-medicines)
+- [Committees](/en/committees)
+    - [Overview](/en/committees)
+    - [How the committees work](/en/committees/how-committees-work)
+    - [CHMP](/en/committees/committee-medicinal-products-human-use-chmp)
+    - [CVMP](/en/committees/committee-veterinary-medicinal-products-cvmp)
+    - [PRAC](/en/committees/pharmacovigilance-risk-assessment-committee-prac)
+    - [COMP](/en/committees/committee-orphan-medicinal-products-comp)
+    - [HMPC](/en/committees/committee-herbal-medicinal-products-hmpc)
+    - [CAT](/en/committees/committee-advanced-therapies-cat)
+    - [PDCO](/en/committees/paediatric-committee-pdco)
+    - [Working parties and other groups](/en/committees/working-parties-other-groups)
+- [News &amp; events](/en/news-events)
+    - [Overview](/en/news-events)
+    - [News](/en/news)
+    - [Events](/en/events/upcoming-events)
+    - [What's new](/en/news-events/whats-new)
+    - [Committee highlights](/en/news-events/committee-highlights)
+    - [Publications](/en/news-and-events/publications)
+    - [Press and social media](/en/news-events/press-social-media)
+    - [Podcast: Inside EMA](/en/news-events/podcast-inside-ema)
+    - [EMA Campaigns](/en/news-events/ema-campaigns)
+    - [Open consultations](/en/news-events/open-consultations)
+    - [RSS feeds](/en/news-events/rss-feeds)
+- [Partners &amp; networks](/en/partners-networks)
+    - [Overview](/en/partners-networks)
+    - [EU partners](/en/partners-networks/eu-partners)
+    - [International activities](/en/partners-networks/international-activities)
+    - [Patients and consumers](/en/partners-networks/patients-consumers)
+    - [Healthcare professionals](/en/partners-networks/healthcare-professionals)
+    - [Academia](/en/partners-networks/academia)
+    - [Pharmaceutical industry](/en/partners-networks/pharmaceutical-industry)
+    - [Networks](/en/partners-networks/networks)
+    - [Health technology assessment bodies](/en/partners-networks/health-technology-assessment-bodies)
+    - [One Health approach](/en/partners-networks/one-health-approach)
+    - [Animal health practitioners](/en/partners-networks/animal-health-practitioners)
+    - [One substance - one assessment](/en/partners-networks/one-substance-one-assessment-osoa-eu-collaboration-chemicals-related-data)
+- [About us](/en/about-us)
+    - [Overview](/en/about-us)
+    - [What we do](/en/about-us/what-we-do)
+    - [Who we are](/en/about-us/who-we-are)
+    - [How we work](/en/about-us/how-we-work)
+    - [Fees](/en/about-us/fees-payable-european-medicines-agency)
+    - [Support to SMEs](/en/about-us/support-smes)
+    - [Annual reports and work programmes](/en/about-us/annual-reports-work-programmes)
+    - [History of EMA](/en/about-us/history-ema)
+    - [Careers](/en/about-us/careers)
+    - [Procurement](/en/about-us/procurement-grants)
+    - [About this website](/en/about-us/about-website)
+    - [Data protection and privacy](/en/about-us/data-protection-privacy-ema)
+    - [Contacts](/en/about-us/contacts-european-medicines-agency)
+
+1. [Home](/en/homepage)
+2. [Medicines](https://www.ema.europa.eu/en/medicines)
+3. Rapamune
+
 # Rapamune
 
 [RSS](/en/individual-human-medicine.xml/65618)
@@ -58,7 +134,7 @@ Expand section
 
 Collapse section
 
-## How is Rapamune used?
+### How is Rapamune used?
 
 Rapamune treatment should be started by and remain under the guidance of a doctor who is a qualified specialist in transplantation. The medicine can only be obtained with a prescription.
 
@@ -70,13 +146,13 @@ To treat patients with S-LAM, the dose of Rapamune is 2 mg daily and after 10 to
 
 For more information about using Rapamune, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Rapamune work?
+### How does Rapamune work?
 
 The active substance in Rapamune, sirolimus, is an immunosuppressant (a medicine that reduces the activity of the immune system). In the body, sirolimus attaches to a protein inside cells to make a 'complex'. This complex then blocks another protein called 'mammalian target of rapamycin' (mTOR). Since mTOR is involved in the multiplication of activated T?lymphocytes (white blood cells that are responsible for attacking the transplanted organ), Rapamune reduces the number of these cells, reducing the risk of organ rejection.
 
 In S-LAM, mTOR is overactive, causing excessive multiplication of cells that cause the disease. By blocking mTOR, Rapamune reduces the multiplication of these cells.
 
-## What benefits of Rapamune have been shown in studies?
+### What benefits of Rapamune have been shown in studies?
 
 **Prevention of rejection**
 
@@ -88,7 +164,7 @@ Two additional studies looked at Rapamune as continuing treatment for up to 5 ye
 
 Rapamune was more effective than placebo in improving lung function in a study involving 81 patients with S-LAM. The main measure of effectiveness was a change of FEV 1 (the maximum volume of air a person can breathe out in 1 second). FEV 1 improved by an average of 1 ml per month in patients treated with Rapamune compared with a worsening by 12 ml per month in patients receiving placebo.
 
-## What are the risks associated with Rapamune?
+### What are the risks associated with Rapamune?
 
 The most common side effects with Rapamune (which may affect more than 1 in 10 people) are infections, fever, slow wound healing, low counts of various blood cells, blood tests showingaltered levels of various substances (including low potassium and phosphate; raised fats, cholesterol, glucose and markers for tissue breakdown and for liver and kidney function), diabetes, lymphocele (collection of lymph fluid usually in the lower belly), pain in various parts of the body, rapid heartbeat, raised blood pressure, problems affecting the gut, proteinuria (protein in the urine), menstrual disorders, oedema (swelling because of fluid build-up), rash and acne.
 
@@ -96,17 +172,17 @@ Patients allergic to peanut or soya must not take Rapamune oral solution because
 
 For the full list of side effects and restrictions of Rapamune, see the package leaflet.
 
-## Why is Rapamune authorised in the EU?
+### Why is Rapamune authorised in the EU?
 
 The European Medicines Agency considered that Rapamune is effective for the prevention of rejection of a transplanted kidney in patients at low to moderate risk of rejection. The Agency noted that no medicinal product has been approved for the treatment of S-LAM and Rapamune's effect on lung function is considered important. The Agency decided that Rapamune's benefits are greater than its risks and it can be authorised for use in the EU.
 
-## What measures are being taken to ensure the safe and effective use of Rapamune?
+### What measures are being taken to ensure the safe and effective use of Rapamune?
 
 Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Rapamune have been included in the summary of product characteristics and the package leaflet.
 
 As for all medicines, data on the use of Rapamune are continuously monitored. Side effects reported with Rapamune are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Rapamune
+### Other information about Rapamune
 
 Rapamune received a marketing authorisation valid throughout the EU on 14 March 2001.
 
@@ -118,7 +194,7 @@ English (EN) (102.44 KB - PDF)
 
 [View](/en/documents/overview/rapamune-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-719)
+[Other languages (22)](#file-language-dropdown-295)
 
 български (BG) (137.63 KB - PDF)
 
@@ -150,7 +226,7 @@ Deutsch (DE) (104.22 KB - PDF)
 
 [View](/de/documents/overview/rapamune-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (102.31 KB - PDF)
+eesti (ET) (102.31 KB - PDF)
 
 **First published:** 27/11/2008 **Last updated:** 13/09/2018
 
@@ -180,13 +256,13 @@ italiano (IT) (103.76 KB - PDF)
 
 [View](/it/documents/overview/rapamune-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (124.7 KB - PDF)
+latviešu (LV) (124.7 KB - PDF)
 
 **First published:** 27/11/2008 **Last updated:** 13/09/2018
 
 [View](/lv/documents/overview/rapamune-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (122.25 KB - PDF)
+lietuvių (LT) (122.25 KB - PDF)
 
 **First published:** 27/11/2008 **Last updated:** 13/09/2018
 
@@ -240,7 +316,7 @@ slovenščina (SL) (118.35 KB - PDF)
 
 [View](/sl/documents/overview/rapamune-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (103.34 KB - PDF)
+suomi (FI) (103.34 KB - PDF)
 
 **First published:** 27/11/2008 **Last updated:** 13/09/2018
 
@@ -264,161 +340,161 @@ English (EN) (88.34 KB - PDF)
 
 Rapamune : EPAR - Product Information
 
-English (EN) (1.04 MB - PDF)
+English (EN) (573.27 KB - PDF)
 
-**First published:** 16/06/2008 **Last updated:** 04/05/2026
+**First published:** 16/06/2008 **Last updated:** 04/06/2026
 
 [View](/en/documents/product-information/rapamune-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-659)
+[Other languages (24)](#file-language-dropdown-251)
 
-български (BG) (577.23 KB - PDF)
+български (BG) (662.42 KB - PDF)
 
-**First published:** 16/06/2008 **Last updated:** 04/05/2026
+**First published:** 16/06/2008 **Last updated:** 04/06/2026
 
 [View](/bg/documents/product-information/rapamune-epar-product-information_bg.pdf)
 
-español (ES) (526.7 KB - PDF)
+español (ES) (551.09 KB - PDF)
 
-**First published:** 16/06/2008 **Last updated:** 04/05/2026
+**First published:** 16/06/2008 **Last updated:** 04/06/2026
 
 [View](/es/documents/product-information/rapamune-epar-product-information_es.pdf)
 
-čeština (CS) (539.79 KB - PDF)
+čeština (CS) (653.18 KB - PDF)
 
-**First published:** 16/06/2008 **Last updated:** 04/05/2026
+**First published:** 16/06/2008 **Last updated:** 04/06/2026
 
 [View](/cs/documents/product-information/rapamune-epar-product-information_cs.pdf)
 
-dansk (DA) (530.43 KB - PDF)
+dansk (DA) (529.83 KB - PDF)
 
-**First published:** 16/06/2008 **Last updated:** 04/05/2026
+**First published:** 16/06/2008 **Last updated:** 04/06/2026
 
 [View](/da/documents/product-information/rapamune-epar-product-information_da.pdf)
 
-Deutsch (DE) (540.41 KB - PDF)
+Deutsch (DE) (608.58 KB - PDF)
 
-**First published:** 16/06/2008 **Last updated:** 04/05/2026
+**First published:** 16/06/2008 **Last updated:** 04/06/2026
 
 [View](/de/documents/product-information/rapamune-epar-product-information_de.pdf)
 
-eesti keel (ET) (498.84 KB - PDF)
+eesti (ET) (584.27 KB - PDF)
 
-**First published:** 16/06/2008 **Last updated:** 04/05/2026
+**First published:** 16/06/2008 **Last updated:** 04/06/2026
 
 [View](/et/documents/product-information/rapamune-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.32 MB - PDF)
+ελληνικά (EL) (751.87 KB - PDF)
 
-**First published:** 16/06/2008 **Last updated:** 04/05/2026
+**First published:** 16/06/2008 **Last updated:** 04/06/2026
 
 [View](/el/documents/product-information/rapamune-epar-product-information_el.pdf)
 
-français (FR) (530.58 KB - PDF)
+français (FR) (675.36 KB - PDF)
 
-**First published:** 16/06/2008 **Last updated:** 04/05/2026
+**First published:** 16/06/2008 **Last updated:** 04/06/2026
 
 [View](/fr/documents/product-information/rapamune-epar-product-information_fr.pdf)
 
-hrvatski (HR) (583.53 KB - PDF)
+hrvatski (HR) (644.86 KB - PDF)
 
-**First published:** 16/06/2008 **Last updated:** 04/05/2026
+**First published:** 16/06/2008 **Last updated:** 04/06/2026
 
 [View](/hr/documents/product-information/rapamune-epar-product-information_hr.pdf)
 
-íslenska (IS) (544.56 KB - PDF)
+italiano (IT) (651.19 KB - PDF)
 
-**First published:** 16/06/2008 **Last updated:** 04/05/2026
-
-[View](/is/documents/product-information/rapamune-epar-product-information_is.pdf)
-
-italiano (IT) (527.57 KB - PDF)
-
-**First published:** 16/06/2008 **Last updated:** 04/05/2026
+**First published:** 16/06/2008 **Last updated:** 04/06/2026
 
 [View](/it/documents/product-information/rapamune-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (537.53 KB - PDF)
+latviešu (LV) (677.31 KB - PDF)
 
-**First published:** 16/06/2008 **Last updated:** 04/05/2026
+**First published:** 16/06/2008 **Last updated:** 04/06/2026
 
 [View](/lv/documents/product-information/rapamune-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (507.8 KB - PDF)
+lietuvių (LT) (640.76 KB - PDF)
 
-**First published:** 16/06/2008 **Last updated:** 04/05/2026
+**First published:** 16/06/2008 **Last updated:** 04/06/2026
 
 [View](/lt/documents/product-information/rapamune-epar-product-information_lt.pdf)
 
-magyar (HU) (556.09 KB - PDF)
+magyar (HU) (664.93 KB - PDF)
 
-**First published:** 16/06/2008 **Last updated:** 04/05/2026
+**First published:** 16/06/2008 **Last updated:** 04/06/2026
 
 [View](/hu/documents/product-information/rapamune-epar-product-information_hu.pdf)
 
-Malti (MT) (630.37 KB - PDF)
+Malti (MT) (793.51 KB - PDF)
 
-**First published:** 16/06/2008 **Last updated:** 04/05/2026
+**First published:** 16/06/2008 **Last updated:** 04/06/2026
 
 [View](/mt/documents/product-information/rapamune-epar-product-information_mt.pdf)
 
-Nederlands (NL) (531.56 KB - PDF)
+Nederlands (NL) (612.3 KB - PDF)
 
-**First published:** 16/06/2008 **Last updated:** 04/05/2026
+**First published:** 16/06/2008 **Last updated:** 04/06/2026
 
 [View](/nl/documents/product-information/rapamune-epar-product-information_nl.pdf)
 
-norsk (NO) (535.55 KB - PDF)
+polski (PL) (684.12 KB - PDF)
 
-**First published:** 16/06/2008 **Last updated:** 04/05/2026
-
-[View](/no/documents/product-information/rapamune-epar-product-information_no.pdf)
-
-polski (PL) (565.42 KB - PDF)
-
-**First published:** 16/06/2008 **Last updated:** 04/05/2026
+**First published:** 16/06/2008 **Last updated:** 04/06/2026
 
 [View](/pl/documents/product-information/rapamune-epar-product-information_pl.pdf)
 
-português (PT) (521.48 KB - PDF)
+português (PT) (557.29 KB - PDF)
 
-**First published:** 16/06/2008 **Last updated:** 04/05/2026
+**First published:** 16/06/2008 **Last updated:** 04/06/2026
 
 [View](/pt/documents/product-information/rapamune-epar-product-information_pt.pdf)
 
-română (RO) (536.51 KB - PDF)
+română (RO) (670.62 KB - PDF)
 
-**First published:** 16/06/2008 **Last updated:** 04/05/2026
+**First published:** 16/06/2008 **Last updated:** 04/06/2026
 
 [View](/ro/documents/product-information/rapamune-epar-product-information_ro.pdf)
 
-slovenčina (SK) (1.24 MB - PDF)
+slovenčina (SK) (680.06 KB - PDF)
 
-**First published:** 16/06/2008 **Last updated:** 04/05/2026
+**First published:** 16/06/2008 **Last updated:** 04/06/2026
 
 [View](/sk/documents/product-information/rapamune-epar-product-information_sk.pdf)
 
-slovenščina (SL) (543.09 KB - PDF)
+slovenščina (SL) (655.83 KB - PDF)
 
-**First published:** 16/06/2008 **Last updated:** 04/05/2026
+**First published:** 16/06/2008 **Last updated:** 04/06/2026
 
 [View](/sl/documents/product-information/rapamune-epar-product-information_sl.pdf)
 
-Suomi (FI) (518.95 KB - PDF)
+suomi (FI) (629.56 KB - PDF)
 
-**First published:** 16/06/2008 **Last updated:** 04/05/2026
+**First published:** 16/06/2008 **Last updated:** 04/06/2026
 
 [View](/fi/documents/product-information/rapamune-epar-product-information_fi.pdf)
 
-svenska (SV) (516.87 KB - PDF)
+svenska (SV) (552.04 KB - PDF)
 
-**First published:** 16/06/2008 **Last updated:** 04/05/2026
+**First published:** 16/06/2008 **Last updated:** 04/06/2026
 
 [View](/sv/documents/product-information/rapamune-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000324329
+Íslenska (IS) (556.2 KB - PDF)
 
-10/04/2026
+**First published:** 16/06/2008 **Last updated:** 04/06/2026
+
+[View](/is/documents/product-information/rapamune-epar-product-information_is.pdf)
+
+norsk (NO) (538.88 KB - PDF)
+
+**First published:** 16/06/2008 **Last updated:** 04/06/2026
+
+[View](/no/documents/product-information/rapamune-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** VR/0000334549
+
+03/06/2026
 
 icon globe
 
@@ -442,7 +518,7 @@ English (EN) (21.44 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/rapamune-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-679)
+[Other languages (24)](#file-language-dropdown-812)
 
 български (BG) (84.06 KB - PDF)
 
@@ -474,7 +550,7 @@ Deutsch (DE) (13.04 KB - PDF)
 
 [View](/de/documents/all-authorised-presentations/rapamune-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (12.91 KB - PDF)
+eesti (ET) (12.91 KB - PDF)
 
 **First published:** 11/09/2008 **Last updated:** 13/09/2010
 
@@ -498,25 +574,19 @@ hrvatski (HR) (35.03 KB - PDF)
 
 [View](/hr/documents/all-authorised-presentations/rapamune-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (16.96 KB - PDF)
-
-**First published:** 11/09/2008 **Last updated:** 13/09/2010
-
-[View](/is/documents/all-authorised-presentations/rapamune-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (12.45 KB - PDF)
 
 **First published:** 11/09/2008 **Last updated:** 13/09/2010
 
 [View](/it/documents/all-authorised-presentations/rapamune-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (81.82 KB - PDF)
+latviešu (LV) (81.82 KB - PDF)
 
 **First published:** 11/09/2008 **Last updated:** 13/09/2010
 
 [View](/lv/documents/all-authorised-presentations/rapamune-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (84.99 KB - PDF)
+lietuvių (LT) (84.99 KB - PDF)
 
 **First published:** 11/09/2008 **Last updated:** 13/09/2010
 
@@ -539,12 +609,6 @@ Nederlands (NL) (12.33 KB - PDF)
 **First published:** 11/09/2008 **Last updated:** 13/09/2010
 
 [View](/nl/documents/all-authorised-presentations/rapamune-epar-all-authorised-presentations_nl.pdf)
-
-norsk (NO) (17.24 KB - PDF)
-
-**First published:** 11/09/2008 **Last updated:** 13/09/2010
-
-[View](/no/documents/all-authorised-presentations/rapamune-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (84 KB - PDF)
 
@@ -576,7 +640,7 @@ slovenščina (SL) (48.83 KB - PDF)
 
 [View](/sl/documents/all-authorised-presentations/rapamune-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (12.68 KB - PDF)
+suomi (FI) (12.68 KB - PDF)
 
 **First published:** 11/09/2008 **Last updated:** 13/09/2010
 
@@ -587,6 +651,18 @@ svenska (SV) (12.98 KB - PDF)
 **First published:** 11/09/2008 **Last updated:** 13/09/2010
 
 [View](/sv/documents/all-authorised-presentations/rapamune-epar-all-authorised-presentations_sv.pdf)
+
+Íslenska (IS) (16.96 KB - PDF)
+
+**First published:** 11/09/2008 **Last updated:** 13/09/2010
+
+[View](/is/documents/all-authorised-presentations/rapamune-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (17.24 KB - PDF)
+
+**First published:** 11/09/2008 **Last updated:** 13/09/2010
+
+[View](/no/documents/all-authorised-presentations/rapamune-epar-all-authorised-presentations_no.pdf)
 
 ## Product details
 
@@ -643,7 +719,7 @@ Marketing authorisation issued
 
 Revision
 
-50
+51
 
 ## Assessment history
 
@@ -651,13 +727,13 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Rapamune : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (144.53 KB - PDF)
+English (EN) (148.69 KB - PDF)
 
-**First published:** 04/02/2025 **Last updated:** 04/05/2026
+**First published:** 04/02/2025 **Last updated:** 04/06/2026
 
 [View](/en/documents/procedural-steps-after/rapamune-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -717,7 +793,7 @@ English (EN) (199.77 KB - PDF)
 
 [View](/en/documents/scientific-discussion-variation/rapamune-h-c-273-x-0021-epar-scientific-discussion-extension_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Rapamune : EPAR - Procedural steps taken before authorisation
 
@@ -757,7 +833,7 @@ English (EN) (292.05 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/rapamune-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-900)
+[Other languages (24)](#file-language-dropdown-311)
 
 български (BG) (344.46 KB - DOCX)
 
@@ -789,7 +865,7 @@ Deutsch (DE) (290.98 KB - DOCX)
 
 [View](/de/documents/product-information-tracked-changes/rapamune-epar-product-information-tracked-changes_de.docx)
 
-eesti keel (ET) (276.37 KB - DOCX)
+eesti (ET) (276.37 KB - DOCX)
 
 **First published:** 17/09/2025 **Last updated:** 04/05/2026
 
@@ -813,25 +889,19 @@ hrvatski (HR) (261.5 KB - DOCX)
 
 [View](/hr/documents/product-information-tracked-changes/rapamune-epar-product-information-tracked-changes_hr.docx)
 
-íslenska (IS) (315.26 KB - DOCX)
-
-**First published:** 17/09/2025 **Last updated:** 04/05/2026
-
-[View](/is/documents/product-information-tracked-changes/rapamune-epar-product-information-tracked-changes_is.docx)
-
 italiano (IT) (285.87 KB - DOCX)
 
 **First published:** 17/09/2025 **Last updated:** 04/05/2026
 
 [View](/it/documents/product-information-tracked-changes/rapamune-epar-product-information-tracked-changes_it.docx)
 
-latviešu valoda (LV) (293.57 KB - DOCX)
+latviešu (LV) (293.57 KB - DOCX)
 
 **First published:** 17/09/2025 **Last updated:** 04/05/2026
 
 [View](/lv/documents/product-information-tracked-changes/rapamune-epar-product-information-tracked-changes_lv.docx)
 
-lietuvių kalba (LT) (266.37 KB - DOCX)
+lietuvių (LT) (266.37 KB - DOCX)
 
 **First published:** 17/09/2025 **Last updated:** 04/05/2026
 
@@ -854,12 +924,6 @@ Nederlands (NL) (282.57 KB - DOCX)
 **First published:** 17/09/2025 **Last updated:** 04/05/2026
 
 [View](/nl/documents/product-information-tracked-changes/rapamune-epar-product-information-tracked-changes_nl.docx)
-
-norsk (NO) (312.89 KB - DOCX)
-
-**First published:** 17/09/2025 **Last updated:** 04/05/2026
-
-[View](/no/documents/product-information-tracked-changes/rapamune-epar-product-information-tracked-changes_no.docx)
 
 polski (PL) (335.49 KB - DOCX)
 
@@ -891,7 +955,7 @@ slovenščina (SL) (309.57 KB - DOCX)
 
 [View](/sl/documents/product-information-tracked-changes/rapamune-epar-product-information-tracked-changes_sl.docx)
 
-Suomi (FI) (309.65 KB - DOCX)
+suomi (FI) (309.65 KB - DOCX)
 
 **First published:** 17/09/2025 **Last updated:** 04/05/2026
 
@@ -902,6 +966,18 @@ svenska (SV) (281.72 KB - DOCX)
 **First published:** 17/09/2025 **Last updated:** 04/05/2026
 
 [View](/sv/documents/product-information-tracked-changes/rapamune-epar-product-information-tracked-changes_sv.docx)
+
+Íslenska (IS) (315.26 KB - DOCX)
+
+**First published:** 17/09/2025 **Last updated:** 04/05/2026
+
+[View](/is/documents/product-information-tracked-changes/rapamune-epar-product-information-tracked-changes_is.docx)
+
+norsk (NO) (312.89 KB - DOCX)
+
+**First published:** 17/09/2025 **Last updated:** 04/05/2026
+
+[View](/no/documents/product-information-tracked-changes/rapamune-epar-product-information-tracked-changes_no.docx)
 
 ## More information on Rapamune
 
@@ -914,6 +990,6 @@ svenska (SV) (281.72 KB - DOCX)
 
 **This page was last updated on**
 
-04/05/2026
+04/06/2026
 
 ## Share this page

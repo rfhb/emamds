@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-05-08 16:02:00
+document_datetime: 2026-06-02 16:00:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/opdivo.html
 document_name: opdivo.html
 version: success
-processing_time: 0.2488521
-conversion_datetime: 2026-05-10 13:24:27.36921
+processing_time: 0.2367934
+conversion_datetime: 2026-06-07 11:52:33.873773
 docling_version:
-  docling-serve: 1.17.0
-  docling-jobkit: 1.18.0
-  docling: 2.92.0
-  docling-core: 2.74.1
+  docling-serve: 1.21.0
+  docling-jobkit: 1.20.1
+  docling: 2.97.0
+  docling-core: 2.78.0
   docling-ibm-models: 3.13.2
-  docling-parse: 5.10.1
+  docling-parse: 6.2.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
 ---
 # Search
 
@@ -150,7 +150,7 @@ Opdivo is a cancer medicine used to treat the following:
 
 - hepatocellular carcinoma (HCC), a type of liver cancer, in previously untreated patients.
 
-The medicine is used in adults, except for for melanoma, where it is also used in adolescents from 12 years of age and classical Hodgkin lymphoma, where it is also used in patients aged 5 to 30 years whose cancer did not respond to, or came back after, one previous treatment.
+Opdivo is used in adults; for melanoma and advanced classical Hodgkin lymphoma, it is also used in adolescents from 12 years of age. It is also used in patients aged 5 to 30 years with classical Hodgkin lymphoma whose cancer did not respond to, or came back after, one previous treatment.
 
 Opdivo is mainly used when the cancer is advanced, unresectable (cannot be removed by surgery) or metastatic (has spread to other parts of the body), or when other treatments do not work.
 
@@ -158,7 +158,7 @@ For NSCLC that can be removed by surgery but is at high risk of coming back, Opd
 
 For some cancers, Opdivo is only given to patients whose tumours produce certain levels of a protein known as PD-L1 or are determined to be MSI-H or dMMR.
 
-Opdivo can be used on its own and, for some cancers, it is also used together with other cancer medicines such as cabozantinib, ipilimumab, brentuximab vedotin or chemotherapy.
+Opdivo can be used on its own and, for some cancers, it is also used together with certain other cancer medicines.
 
 Opdivo contains the active substance nivolumab.
 
@@ -166,25 +166,25 @@ Expand section
 
 Collapse section
 
-## How is Opdivo used?
+### How is Opdivo used?
 
 Opdivo can only be obtained with a prescription, and treatment must be started and supervised by a doctor experienced in treating cancer.
 
-Opdivo is given as an infusion (drip) into a vein or an injection under the skin. The dose and how often it is given depends on the condition it is being used for and whether it is used alone or in combination with other cancer medicines. The doctor may delay doses if certain side effects occur or stop treatment altogether for certain severe side effects.
+Opdivo is given as an infusion (drip) into a vein or as an injection under the skin. The dose and how often it is given depends on the condition it is being used for and whether it is used alone or in combination with other cancer medicines. The doctor may delay doses if certain side effects occur or stop treatment altogether for certain severe side effects.
 
 For more information about using Opdivo, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Opdivo work?
+### How does Opdivo work?
 
-The active substance in Opdivo, nivolumab, is a monoclonal antibody, a type of protein that has been designed to attach to a receptor called PD-1 found on cells of the immune system called T cells. Cancer cells can produce proteins (PD-L1 and PD-L2) that attach to this receptor and switch off the activity of the T cells, preventing them from attacking the cancer. By attaching to the receptor, nivolumab prevents PD-L1 and PD-L2 from switching off the T cells, thereby increasing the ability of the immune system to kill cancer cells.
+The active substance in Opdivo, nivolumab, is a monoclonal antibody, a type of protein that has been designed to attach to a receptor (target) called PD-1 found on cells of the immune system called T cells. Cancer cells can make proteins (PD-L1 and PD-L2) that attach to this receptor and switch off the activity of the T cells, preventing them from attacking the cancer. By attaching to the receptor, nivolumab prevents PD-L1 and PD-L2 from switching off the T cells, thereby increasing the ability of the immune system to kill cancer cells.
 
-## What benefits of Opdivo have been shown in studies?
+### What benefits of Opdivo have been shown in studies?
 
 **Melanoma**
 
-Opdivo used on its own was studied in two main studies in adults with advanced melanoma who had not undergone surgery. The first study, involving 418 previously untreated advanced melanoma patients, found that patients treated with Opdivo lived longer than patients who received the cancer medicine dacarbazine: 73% of patients treated with Opdivo were alive after 12 months compared with 42% of patients given dacarbazine. In the second study, 405 patients with advanced melanoma whose disease had got worse despite previous treatment with a cancer medicine were followed up for at least 6 months. Around 32% (38 out of 120) of patients given Opdivo responded to treatment and had a reduction in their tumours, compared with about 11% (5 out of 47) of patients given a treatment chosen by their doctor (dacarbazine or a combination of carboplatin and paclitaxel).
+Opdivo used on its own was studied in two main studies in adults with advanced melanoma who had not undergone surgery. The first study, involving 418 previously untreated patients with advanced melanoma, found that those treated with Opdivo lived longer than those who received the cancer medicine dacarbazine: 73% of patients treated with Opdivo were alive after 12 months compared with 42% of patients given dacarbazine. In the second study, 405 patients with advanced melanoma whose disease had got worse despite previous treatment with a cancer medicine were followed up for at least 6 months. Around 32% (38 out of 120) of patients given Opdivo responded to treatment and had a reduction in their tumours, compared with about 11% (5 out of 47) of patients given a treatment chosen by their doctor (dacarbazine or a combination of carboplatin and paclitaxel).
 
-A third study in 906 adults with stage IIIB, IIIC or IV melanoma who had surgery and who were at high risk of the cancer coming back compared Opdivo with ipilimumab. Patients treated with Opdivo lived on average 31 months before the cancer came back, or a new melanoma occurred or they died, compared with 24 months for patients treated with ipilimumab. A fourth study in 790 adults with stage IIB or IIC melanoma who had surgery compared Opdivo with placebo (a dummy treatment). After an average follow-up of 24 months, 19% of patients who took Opdivo had a recurrence of their cancer or a new melanoma or had died, compared with 32% of patients given placebo.
+A third study in 906 adults with stage IIIB, IIIC or IV melanoma who had surgery and who were at high risk of the cancer coming back compared Opdivo with ipilimumab. Patients treated with Opdivo lived for 31 months on average before either the cancer came back, a new melanoma occurred or they died, compared with 24 months for patients treated with ipilimumab. A fourth study in 790 adults with stage IIB or IIC melanoma who had surgery compared Opdivo with placebo (a dummy treatment). After an average follow-up of 24 months, 19% of patients who took Opdivo had a recurrence of their cancer or a new melanoma or had died, compared with 32% of patients given placebo.
 
 A fifth study in 945 previously untreated adults with advanced melanoma investigated Opdivo in combination with ipilimumab, Opdivo used alone or ipilimumab used alone. Patients given Opdivo plus ipilimumab lived for 11.5 months without their disease getting worse compared with 6.9 months for patients given only Opdivo and 2.9 months for patients given only ipilimumab. More patients were alive after 2 years with Opdivo and ipilimumab treatment (64%) than with Opdivo alone (59%) or ipilimumab alone (45%). The study included patients whose cancer cells produced high levels of PD-L1 as well as patients whose cancer cells produced low levels of PD-L1. Improvements in the time patients lived without their disease getting worse when treated with Opdivo plus ipilimumab relative to Opdivo used on its own were only seen for patients whose cancer cells produced low levels of PD-L1.
 
@@ -206,17 +206,19 @@ Another study involved 461 adults with NSCLC that had not spread to other parts 
 
 **Advanced renal cell carcinoma**
 
-Opdivo was compared with everolimus (another cancer medicine) in one main study involving 821 patients with advanced renal cell carcinoma whose disease had worsened despite previous treatment. Patients given Opdivo lived for 25.0 months, compared with 19.6 months for patients given everolimus.
+Opdivo was compared with everolimus (another cancer medicine) in one main study involving 821 patients with advanced renal cell carcinoma whose disease had worsened despite previous treatment. Patients given Opdivo lived for 25 months, compared with 19.6 months for patients given everolimus.
 
-Another main study involving 1,096 adults with previously untreated advanced renal cell carcinoma compared treatment with Opdivo and ipilimumab versus treatment with another cancer medicine, sunitinib. After 24 months, 66.5% of patients at moderate or high risk of their cancer getting worse given the combination were alive compared with 52.9% in the sunitinib group. In addition, 41.6% of patients (177 out of 423) responded to the treatment with the combination compared with 26.5% (112 out of 416) of those receiving sunitinib. The time patients lived before their disease got worse was 11.6 months with the combination compared with 8.4 with sunitinib.
+Another main study involving 1,096 adults with previously untreated advanced renal cell carcinoma compared treatment with Opdivo and ipilimumab to treatment with another cancer medicine, sunitinib. After 24 months, 66.5% of patients who were at moderate or high risk of their cancer getting worse and who were given the combination were alive compared with 52.9% in the sunitinib group. In addition, 41.6% of patients (177 out of 423) responded to the treatment with the combination compared with 26.5% (112 out of 416) of those receiving sunitinib. The time patients lived before their disease got worse was 11.6 months with the combination compared with 8.4 with sunitinib.
 
 A third main study compared treatment with Opdivo plus cabozantinib with sunitinib treatment alone in 651 patients with previously untreated advanced renal cell carcinoma or renal cell carcinoma that had spread. In this study, patients treated with Opdivo plus cabozantinib lived on average for around 17 months without their cancer getting worse while those treated with sunitinib lived for around 8 months without their cancer worsening.
 
 **Classical Hodgkin lymphoma**
 
-Opdivo used on its own was studied in one main study and a supportive study involving a total of 95 adults with classical Hodgkin lymphoma whose disease had not responded or had returned after autologous stem cell transplantation and treatment with the cancer medicine brentuximab vedotin. Opdivo was not compared with any other medicine. After treatment, cancer cells were partially or completely cleared in around 66% of patients (63 out of 95).
+Opdivo used on its own was studied in one main study and a supportive study involving 95 adults with classical Hodgkin lymphoma whose disease had not responded or had returned after autologous stem cell transplantation (a procedure where the patient's bone marrow is replaced with the patient's own stem cells to form new bone marrow)and treatment with the cancer medicine brentuximab vedotin. Opdivo was not compared with any other medicine. After treatment, cancer cells were partially or completely cleared in around 66% of patients (63 out of 95).
 
 Another main study looked at the effect of Opdivo in combination with brentuximab vedotin. The study involved 72 children, adolescents and young adults aged 5 to 30 years with classical Hodgkin lymphoma whose cancer had not responded or had returned after one previous treatment. Treatment with Opdivo plus brentuximab vedotin was not compared with any other medicine. After treatment, the number of active cancer cells in the body was too small to be detected with a PET-CT scan (an imaging technique) in 93% (26 out of 28) of people who had a low risk of the cancer coming back and 89% (39 out of 44) of those with a standard risk.
+
+A third main study involved 994 people from 12 years of age with previously untreated advanced (stage III or IV) classical Hodgkin lymphoma. It compared Opdivo with brentuximab vedotin, both given in combination with doxorubicin, vinblastine and dacarbazine. Patients received six 28-day cycles of treatment. Opdivo prolonged the time patients lived without their cancer getting worse compared to the brentuximab vedotin combination. About 6% (28 out of 496) of people who received the Opdivo combination experienced disease worsening compared with about 12% (62 out of 498) of those who received the brentuximab vedotin combination.
 
 **Advanced SCCHN**
 
@@ -226,9 +228,9 @@ Opdivo was investigated in one main study involving 361 adults with SCCHN whose 
 
 Opdivo was investigated in a main study involving 608 adults with urothelial cancer that had spread or could not be removed by surgery and had not been previously treated. In the study, people who received Opdivo together with cisplatin-gemcitabine chemotherapy lived for an average of 21.7 months compared with an average of 18.9 months for people who received cisplatin-gemcitabine chemotherapy alone. People who received Opdivo together with cisplatin-gemcitabine chemotherapy lived an average of 7.9 months before their disease got worse compared with an average of 7.5 months for those who received cisplatin-gemcitabine chemotherapy alone.
 
-Opdivo was investigated in a second main study involving 270 adults with urothelial cancer whose cancer got worse or returned despite previous treatment with platinum medicines. Opdivo was used on its own and not compared with any other medicine. In the study, 20% of patients (54 out of 270) responded to treatment with a reduction in the size of their tumour.
+Opdivo was investigated in a second main study involving 270 adults with urothelial cancer whose cancer got worse or returned despite previous treatment with platinum-based chemotherapy. Opdivo was used on its own and not compared with any other medicine. In the study, 20% of patients (54 out of 270) responded to treatment with a reduction in the size of their tumour.
 
-A third main study involving 709 patients at high risk of their urothelial cancer coming back after their cancer had been removed completely by surgery showed that Opdivo was effective at preventing the disease from returning in patients whose cancer produced PD-L1 protein. Patients in this group who were given placebo lived on average 8.4 months before their disease came back; for those treated with Opdivo, the period could not be calculated because the disease had not come back in many patients during an average follow up of 22 months.
+A third main study involving 709 patients at high risk of their urothelial cancer coming back after their cancer had been removed completely by surgery showed that Opdivo was effective at preventing the disease from returning in patients whose cancer produced PD-L1 protein. Patients in this group who were given placebo lived for 8.4 months on average before their disease came back; for those treated with Opdivo, the period could not be calculated because the disease had not come back in many patients during an average follow up of 22 months.
 
 **Malignant pleural mesothelioma**
 
@@ -246,7 +248,7 @@ A main study involved 419 adults with advanced or metastatic squamous oesophagea
 
 Another main study involved 970 adults with previously untreated squamous oesophageal cancer that could not be removed by surgery, had come back or had spread. The study looked at either Opdivo plus ipilimumab or Opdivo plus chemotherapy compared with chemotherapy alone.
 
-Patients whose cancer produced PD-L1 protein and who were treated with Opdivo plus ipilimumab lived on average for 13.7 months compared with 9.1 months for those treated with chemotherapy. There was no difference between the two treatments in the time patients lived without their disease worsening.
+Patients whose cancer produced PD-L1 protein and who were treated with Opdivo plus ipilimumab lived on average for 13.7 months compared with 9.1 months for those treated with chemotherapy alone. There was no difference between the two treatments in the time patients lived without their disease worsening.
 
 Patients whose cancer produced PD-L1 and who were treated with Opdivo plus chemotherapy lived on average for 15.4 months compared with 9.1 months for patients treated with chemotherapy alone. In addition, the time patients lived before their disease got worse was 6.9 months with Opdivo plus chemotherapy compared with 4.4 months for chemotherapy alone.
 
@@ -264,7 +266,9 @@ In a main study that included 955 adults with previously untreated advanced or m
 
 A main study involved 668 adults with previously untreated HCC that cannot be removed by surgery or is advanced. Opdivo in combination with ipilimumab was compared with another cancer treatment chosen by the doctor (either sorafenib or lenvatinib). Patients who received Opdivo with ipilimumab lived longer: for about 24 months on average, compared with about 21 months for those given another treatment. Additionally, about 36% of patients had either shrinkage of the tumour or no sign of cancer after treatment with Opdivo and ipilimumab, compared with about 13% for those given another treatment.
 
-## What are the risks associated with Opdivo?
+Studies carried out with Opdivo are described in more detail in the medicine's assessment reports.
+
+### What are the side effects and restrictions with Opdivo?
 
 For the full list of side effects and restrictions with Opdivo, see the package leaflet.
 
@@ -274,9 +278,9 @@ Opdivo is also commonly associated with side effects related to the activity of 
 
 Additional side effects may occur when Opdivo is used with other cancer medicines.
 
-## Why is Opdivo authorised?
+### Why is Opdivo authorised?
 
-The European Medicines Agency considered that Opdivo has been shown to benefit patients with certain advanced cancers (melanoma, NSCLC, renal cell carcinoma, malignant pleural mesothelioma, cancer of the colon or rectum, urothelial cancer, HCC and certain types of gastric and oesophageal cancers). Opdivo is also effective in preventing the cancer from coming back after surgery in patients with melanoma, oesophageal cancer, cancers at the junction of the oesophagus and the stomach, and urothelial cancer.
+The European Medicines Agency considered that Opdivo has been shown to benefit patients with certain advanced cancers (melanoma, NSCLC, renal cell carcinoma, malignant pleural mesothelioma, cancer of the colon or rectum, urothelial cancer, HCC, classical Hodgkin lymphoma and certain types of gastric and oesophageal cancers). Opdivo is also effective in preventing the cancer from coming back after surgery in patients with melanoma, oesophageal cancer, cancers at the junction of the oesophagus and the stomach and urothelial cancer.
 
 The medicine has also been shown to be effective at treating NSCLC when given before surgery or both before and after surgery, in patients whose cancer produces PD-L1 and is at high risk of coming back.
 
@@ -288,9 +292,9 @@ Although studies in classical Hodgkin lymphoma involved a small number of patien
 
 Side effects with Opdivo are considered manageable with appropriate measures and are outweighed by the benefits. The Agency therefore decided that Opdivo's benefits are greater than its risks and it can be authorised for use in the EU.
 
-## What measures are being taken to ensure the safe and effective use of Opdivo?
+### What measures are being taken to ensure the safe and effective use of Opdivo?
 
-The company will provide a card for patients with information on the risks of the medicine, as well as instructions on when to contact their doctor if they have symptoms of immune-related side effects. The company will also provide further data on the long-term benefits of Opdivo and carry out studies to identify which patients are most likely to benefit from treatment with the medicine.
+The company will provide a card for patients with information on the risks of the medicine, as well as instructions on when patients should contact their doctor if they have symptoms of immune-related side effects. The company will also provide further data on the long-term benefits of Opdivo and carry out studies to identify which patients are most likely to benefit from treatment with the medicine.
 
 It is unclear how much ipilimumab contributes to the benefits and risks of the combined treatment with Opdivo and ipilimumab in patients with advanced renal cell carcinoma. The company must conduct a study to determine its contribution and whether the risks associated with the medicine can be further minimised.
 
@@ -302,159 +306,25 @@ Recommendations and precautions to be followed by healthcare professionals and p
 
 As for all medicines, data on the use of Opdivo are continuously monitored. Side effects reported with Opdivo are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Opdivo
+### Other information about Opdivo
 
 Opdivo received a marketing authorisation valid throughout the EU on 19 June 2015.
 
 Opdivo : EPAR - Medicine overview
 
-Reference Number: EMA/120822/2025
+Reference Number: EMADOC-1829012207-50703
 
-English (EN) (191.39 KB - PDF)
+English (EN) (198.63 KB - PDF)
 
-**First published:** 16/07/2015 **Last updated:** 07/04/2026
+**First published:** 16/07/2015 **Last updated:** 02/06/2026
 
 [View](/en/documents/overview/opdivo-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-396)
-
-български (BG) (202.43 KB - PDF)
-
-**First published:** 16/07/2015 **Last updated:** 07/04/2026
-
-[View](/bg/documents/overview/opdivo-epar-medicine-overview_bg.pdf)
-
-español (ES) (180.87 KB - PDF)
-
-**First published:** 16/07/2015 **Last updated:** 07/04/2026
-
-[View](/es/documents/overview/opdivo-epar-medicine-overview_es.pdf)
-
-čeština (CS) (208.03 KB - PDF)
-
-**First published:** 16/07/2015 **Last updated:** 07/04/2026
-
-[View](/cs/documents/overview/opdivo-epar-medicine-overview_cs.pdf)
-
-dansk (DA) (174.89 KB - PDF)
-
-**First published:** 16/07/2015 **Last updated:** 07/04/2026
-
-[View](/da/documents/overview/opdivo-epar-medicine-overview_da.pdf)
-
-Deutsch (DE) (187.44 KB - PDF)
-
-**First published:** 16/07/2015 **Last updated:** 07/04/2026
-
-[View](/de/documents/overview/opdivo-epar-medicine-overview_de.pdf)
-
-eesti keel (ET) (199.64 KB - PDF)
-
-**First published:** 16/07/2015 **Last updated:** 07/04/2026
-
-[View](/et/documents/overview/opdivo-epar-medicine-overview_et.pdf)
-
-ελληνικά (EL) (203.65 KB - PDF)
-
-**First published:** 16/07/2015 **Last updated:** 07/04/2026
-
-[View](/el/documents/overview/opdivo-epar-medicine-overview_el.pdf)
-
-français (FR) (182.78 KB - PDF)
-
-**First published:** 16/07/2015 **Last updated:** 07/04/2026
-
-[View](/fr/documents/overview/opdivo-epar-medicine-overview_fr.pdf)
-
-hrvatski (HR) (202.61 KB - PDF)
-
-**First published:** 16/07/2015 **Last updated:** 07/04/2026
-
-[View](/hr/documents/overview/opdivo-epar-medicine-overview_hr.pdf)
-
-italiano (IT) (178.03 KB - PDF)
-
-**First published:** 16/07/2015 **Last updated:** 07/04/2026
-
-[View](/it/documents/overview/opdivo-epar-medicine-overview_it.pdf)
-
-latviešu valoda (LV) (210.68 KB - PDF)
-
-**First published:** 16/07/2015 **Last updated:** 07/04/2026
-
-[View](/lv/documents/overview/opdivo-epar-medicine-overview_lv.pdf)
-
-lietuvių kalba (LT) (206.04 KB - PDF)
-
-**First published:** 16/07/2015 **Last updated:** 07/04/2026
-
-[View](/lt/documents/overview/opdivo-epar-medicine-overview_lt.pdf)
-
-magyar (HU) (208.84 KB - PDF)
-
-**First published:** 16/07/2015 **Last updated:** 07/04/2026
-
-[View](/hu/documents/overview/opdivo-epar-medicine-overview_hu.pdf)
-
-Malti (MT) (208.6 KB - PDF)
-
-**First published:** 16/07/2015 **Last updated:** 07/04/2026
-
-[View](/mt/documents/overview/opdivo-epar-medicine-overview_mt.pdf)
-
-Nederlands (NL) (181.03 KB - PDF)
-
-**First published:** 16/07/2015 **Last updated:** 07/04/2026
-
-[View](/nl/documents/overview/opdivo-epar-medicine-overview_nl.pdf)
-
-polski (PL) (213.86 KB - PDF)
-
-**First published:** 16/07/2015 **Last updated:** 07/04/2026
-
-[View](/pl/documents/overview/opdivo-epar-medicine-overview_pl.pdf)
-
-português (PT) (179.25 KB - PDF)
-
-**First published:** 16/07/2015 **Last updated:** 07/04/2026
-
-[View](/pt/documents/overview/opdivo-epar-medicine-overview_pt.pdf)
-
-română (RO) (202.43 KB - PDF)
-
-**First published:** 16/07/2015 **Last updated:** 07/04/2026
-
-[View](/ro/documents/overview/opdivo-epar-medicine-overview_ro.pdf)
-
-slovenčina (SK) (207.07 KB - PDF)
-
-**First published:** 16/07/2015 **Last updated:** 07/04/2026
-
-[View](/sk/documents/overview/opdivo-epar-medicine-overview_sk.pdf)
-
-slovenščina (SL) (204.04 KB - PDF)
-
-**First published:** 16/07/2015 **Last updated:** 07/04/2026
-
-[View](/sl/documents/overview/opdivo-epar-medicine-overview_sl.pdf)
-
-Suomi (FI) (179.94 KB - PDF)
-
-**First published:** 16/07/2015 **Last updated:** 07/04/2026
-
-[View](/fi/documents/overview/opdivo-epar-medicine-overview_fi.pdf)
-
-svenska (SV) (180.59 KB - PDF)
-
-**First published:** 16/07/2015 **Last updated:** 07/04/2026
-
-[View](/sv/documents/overview/opdivo-epar-medicine-overview_sv.pdf)
-
 Opdivo : EPAR - Risk management plan
 
-English (EN) (12.09 MB - PDF)
+English (EN) (2.19 MB - PDF)
 
-**First published:** 16/07/2015 **Last updated:** 08/05/2026
+**First published:** 16/07/2015 **Last updated:** 02/06/2026
 
 [View](/en/documents/rmp/opdivo-epar-risk-management-plan_en.pdf)
 
@@ -462,161 +332,161 @@ English (EN) (12.09 MB - PDF)
 
 Opdivo : EPAR - Product information
 
-English (EN) (4.02 MB - PDF)
+English (EN) (4.05 MB - PDF)
 
-**First published:** 16/07/2015 **Last updated:** 08/05/2026
+**First published:** 16/07/2015 **Last updated:** 02/06/2026
 
 [View](/en/documents/product-information/opdivo-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-349)
+[Other languages (24)](#file-language-dropdown-212)
 
-български (BG) (4.48 MB - PDF)
+български (BG) (4.83 MB - PDF)
 
-**First published:** 16/07/2015 **Last updated:** 08/05/2026
+**First published:** 16/07/2015 **Last updated:** 02/06/2026
 
 [View](/bg/documents/product-information/opdivo-epar-product-information_bg.pdf)
 
-español (ES) (4.07 MB - PDF)
+español (ES) (4.11 MB - PDF)
 
-**First published:** 16/07/2015 **Last updated:** 08/05/2026
+**First published:** 16/07/2015 **Last updated:** 02/06/2026
 
 [View](/es/documents/product-information/opdivo-epar-product-information_es.pdf)
 
-čeština (CS) (4.46 MB - PDF)
+čeština (CS) (4.78 MB - PDF)
 
-**First published:** 16/07/2015 **Last updated:** 08/05/2026
+**First published:** 16/07/2015 **Last updated:** 02/06/2026
 
 [View](/cs/documents/product-information/opdivo-epar-product-information_cs.pdf)
 
-dansk (DA) (4.07 MB - PDF)
+dansk (DA) (4.36 MB - PDF)
 
-**First published:** 16/07/2015 **Last updated:** 08/05/2026
+**First published:** 16/07/2015 **Last updated:** 02/06/2026
 
 [View](/da/documents/product-information/opdivo-epar-product-information_da.pdf)
 
-Deutsch (DE) (4.29 MB - PDF)
+Deutsch (DE) (4.33 MB - PDF)
 
-**First published:** 16/07/2015 **Last updated:** 08/05/2026
+**First published:** 16/07/2015 **Last updated:** 02/06/2026
 
 [View](/de/documents/product-information/opdivo-epar-product-information_de.pdf)
 
-eesti keel (ET) (4.07 MB - PDF)
+eesti (ET) (4.36 MB - PDF)
 
-**First published:** 16/07/2015 **Last updated:** 08/05/2026
+**First published:** 16/07/2015 **Last updated:** 02/06/2026
 
 [View](/et/documents/product-information/opdivo-epar-product-information_et.pdf)
 
-ελληνικά (EL) (4.52 MB - PDF)
+ελληνικά (EL) (4.57 MB - PDF)
 
-**First published:** 16/07/2015 **Last updated:** 08/05/2026
+**First published:** 16/07/2015 **Last updated:** 02/06/2026
 
 [View](/el/documents/product-information/opdivo-epar-product-information_el.pdf)
 
-français (FR) (4.23 MB - PDF)
+français (FR) (4.27 MB - PDF)
 
-**First published:** 16/07/2015 **Last updated:** 08/05/2026
+**First published:** 16/07/2015 **Last updated:** 02/06/2026
 
 [View](/fr/documents/product-information/opdivo-epar-product-information_fr.pdf)
 
-hrvatski (HR) (4.43 MB - PDF)
+hrvatski (HR) (3.87 MB - PDF)
 
-**First published:** 16/07/2015 **Last updated:** 08/05/2026
+**First published:** 16/07/2015 **Last updated:** 02/06/2026
 
 [View](/hr/documents/product-information/opdivo-epar-product-information_hr.pdf)
 
-íslenska (IS) (4 MB - PDF)
+italiano (IT) (4.12 MB - PDF)
 
-**First published:** 16/07/2015 **Last updated:** 08/05/2026
-
-[View](/is/documents/product-information/opdivo-epar-product-information_is.pdf)
-
-italiano (IT) (4.09 MB - PDF)
-
-**First published:** 16/07/2015 **Last updated:** 08/05/2026
+**First published:** 16/07/2015 **Last updated:** 02/06/2026
 
 [View](/it/documents/product-information/opdivo-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (4.36 MB - PDF)
+latviešu (LV) (4.41 MB - PDF)
 
-**First published:** 16/07/2015 **Last updated:** 08/05/2026
+**First published:** 16/07/2015 **Last updated:** 02/06/2026
 
 [View](/lv/documents/product-information/opdivo-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (4.47 MB - PDF)
+lietuvių (LT) (4.49 MB - PDF)
 
-**First published:** 16/07/2015 **Last updated:** 08/05/2026
+**First published:** 16/07/2015 **Last updated:** 02/06/2026
 
 [View](/lt/documents/product-information/opdivo-epar-product-information_lt.pdf)
 
-magyar (HU) (4.65 MB - PDF)
+magyar (HU) (4.09 MB - PDF)
 
-**First published:** 16/07/2015 **Last updated:** 08/05/2026
+**First published:** 16/07/2015 **Last updated:** 02/06/2026
 
 [View](/hu/documents/product-information/opdivo-epar-product-information_hu.pdf)
 
-Malti (MT) (4.46 MB - PDF)
+Malti (MT) (4.51 MB - PDF)
 
-**First published:** 16/07/2015 **Last updated:** 08/05/2026
+**First published:** 16/07/2015 **Last updated:** 02/06/2026
 
 [View](/mt/documents/product-information/opdivo-epar-product-information_mt.pdf)
 
-Nederlands (NL) (4.08 MB - PDF)
+Nederlands (NL) (4.11 MB - PDF)
 
-**First published:** 16/07/2015 **Last updated:** 08/05/2026
+**First published:** 16/07/2015 **Last updated:** 02/06/2026
 
 [View](/nl/documents/product-information/opdivo-epar-product-information_nl.pdf)
 
-norsk (NO) (4.02 MB - PDF)
+polski (PL) (4.56 MB - PDF)
 
-**First published:** 16/07/2015 **Last updated:** 08/05/2026
-
-[View](/no/documents/product-information/opdivo-epar-product-information_no.pdf)
-
-polski (PL) (4.51 MB - PDF)
-
-**First published:** 16/07/2015 **Last updated:** 08/05/2026
+**First published:** 16/07/2015 **Last updated:** 02/06/2026
 
 [View](/pl/documents/product-information/opdivo-epar-product-information_pl.pdf)
 
-português (PT) (4.05 MB - PDF)
+português (PT) (4.09 MB - PDF)
 
-**First published:** 16/07/2015 **Last updated:** 08/05/2026
+**First published:** 16/07/2015 **Last updated:** 02/06/2026
 
 [View](/pt/documents/product-information/opdivo-epar-product-information_pt.pdf)
 
-română (RO) (4.44 MB - PDF)
+română (RO) (3.86 MB - PDF)
 
-**First published:** 16/07/2015 **Last updated:** 08/05/2026
+**First published:** 16/07/2015 **Last updated:** 02/06/2026
 
 [View](/ro/documents/product-information/opdivo-epar-product-information_ro.pdf)
 
-slovenčina (SK) (4.51 MB - PDF)
+slovenčina (SK) (4.84 MB - PDF)
 
-**First published:** 16/07/2015 **Last updated:** 08/05/2026
+**First published:** 16/07/2015 **Last updated:** 02/06/2026
 
 [View](/sk/documents/product-information/opdivo-epar-product-information_sk.pdf)
 
-slovenščina (SL) (4.46 MB - PDF)
+slovenščina (SL) (4.51 MB - PDF)
 
-**First published:** 16/07/2015 **Last updated:** 08/05/2026
+**First published:** 16/07/2015 **Last updated:** 02/06/2026
 
 [View](/sl/documents/product-information/opdivo-epar-product-information_sl.pdf)
 
-Suomi (FI) (4.2 MB - PDF)
+suomi (FI) (4.25 MB - PDF)
 
-**First published:** 16/07/2015 **Last updated:** 08/05/2026
+**First published:** 16/07/2015 **Last updated:** 02/06/2026
 
 [View](/fi/documents/product-information/opdivo-epar-product-information_fi.pdf)
 
-svenska (SV) (4.06 MB - PDF)
+svenska (SV) (4.14 MB - PDF)
 
-**First published:** 16/07/2015 **Last updated:** 08/05/2026
+**First published:** 16/07/2015 **Last updated:** 02/06/2026
 
 [View](/sv/documents/product-information/opdivo-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** X/0000304427
+Íslenska (IS) (4.08 MB - PDF)
 
-20/04/2026
+**First published:** 16/07/2015 **Last updated:** 02/06/2026
+
+[View](/is/documents/product-information/opdivo-epar-product-information_is.pdf)
+
+norsk (NO) (4.06 MB - PDF)
+
+**First published:** 16/07/2015 **Last updated:** 02/06/2026
+
+[View](/no/documents/product-information/opdivo-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** VR/0000304938
+
+28/05/2026
 
 icon globe
 
@@ -640,7 +510,7 @@ English (EN) (70.4 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/opdivo-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-249)
+[Other languages (24)](#file-language-dropdown-406)
 
 български (BG) (80.3 KB - PDF)
 
@@ -672,7 +542,7 @@ Deutsch (DE) (49.77 KB - PDF)
 
 [View](/de/documents/all-authorised-presentations/opdivo-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (75.21 KB - PDF)
+eesti (ET) (75.21 KB - PDF)
 
 **First published:** 16/07/2015 **Last updated:** 08/05/2026
 
@@ -696,25 +566,19 @@ hrvatski (HR) (93.7 KB - PDF)
 
 [View](/hr/documents/all-authorised-presentations/opdivo-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (51.05 KB - PDF)
-
-**First published:** 16/07/2015 **Last updated:** 08/05/2026
-
-[View](/is/documents/all-authorised-presentations/opdivo-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (75.4 KB - PDF)
 
 **First published:** 16/07/2015 **Last updated:** 08/05/2026
 
 [View](/it/documents/all-authorised-presentations/opdivo-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (67.52 KB - PDF)
+latviešu (LV) (67.52 KB - PDF)
 
 **First published:** 16/07/2015 **Last updated:** 08/05/2026
 
 [View](/lv/documents/all-authorised-presentations/opdivo-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (126.86 KB - PDF)
+lietuvių (LT) (126.86 KB - PDF)
 
 **First published:** 16/07/2015 **Last updated:** 08/05/2026
 
@@ -737,12 +601,6 @@ Nederlands (NL) (51.4 KB - PDF)
 **First published:** 16/07/2015 **Last updated:** 08/05/2026
 
 [View](/nl/documents/all-authorised-presentations/opdivo-epar-all-authorised-presentations_nl.pdf)
-
-norsk (NO) (51.01 KB - PDF)
-
-**First published:** 16/07/2015 **Last updated:** 08/05/2026
-
-[View](/no/documents/all-authorised-presentations/opdivo-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (73.06 KB - PDF)
 
@@ -774,7 +632,7 @@ slovenščina (SL) (82.75 KB - PDF)
 
 [View](/sl/documents/all-authorised-presentations/opdivo-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (66.56 KB - PDF)
+suomi (FI) (66.56 KB - PDF)
 
 **First published:** 16/07/2015 **Last updated:** 08/05/2026
 
@@ -785,6 +643,18 @@ svenska (SV) (71.69 KB - PDF)
 **First published:** 16/07/2015 **Last updated:** 08/05/2026
 
 [View](/sv/documents/all-authorised-presentations/opdivo-epar-all-authorised-presentations_sv.pdf)
+
+Íslenska (IS) (51.05 KB - PDF)
+
+**First published:** 16/07/2015 **Last updated:** 08/05/2026
+
+[View](/is/documents/all-authorised-presentations/opdivo-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (51.01 KB - PDF)
+
+**First published:** 16/07/2015 **Last updated:** 08/05/2026
+
+[View](/no/documents/all-authorised-presentations/opdivo-epar-all-authorised-presentations_no.pdf)
 
 ## Product details
 
@@ -855,6 +725,7 @@ Antineoplastic agents
 
 **Classical Hodgkin lymphoma (cHL)**
 
+- Opdivo in combination with doxorubicin, vinblastine and dacarbazine (AVD) is indicated for adults and adolescents 12 years of age and older with previously untreated Stage III or IV classical Hodgkin lymphoma.
 - Opdivo as monotherapy is indicated for the treatment of adult patients with relapsed or refractory classical Hodgkin lymphoma after autologous stem cell transplant (ASCT) and treatment with brentuximab vedotin.
 - Opdivo in combination with brentuximab vedotin is indicated for the treatment of children 5 years of age and older, adolescents and adults up to 30 years of age with relapsed or refractory classical Hodgkin lymphoma after one prior line of therapy (see section 5.1).
 
@@ -915,7 +786,7 @@ Marketing authorisation issued
 
 Revision
 
-73
+74
 
 ## Assessment history
 
@@ -923,13 +794,13 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Opdivo : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (180.38 KB - PDF)
+English (EN) (204.71 KB - PDF)
 
-**First published:** 21/11/2025 **Last updated:** 08/05/2026
+**First published:** 21/11/2025 **Last updated:** 02/06/2026
 
 [View](/en/documents/procedural-steps-after/opdivo-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -940,6 +811,26 @@ English (EN) (514.03 KB - PDF)
 **First published:** 02/12/2015 **Last updated:** 21/11/2025
 
 [View](/en/documents/procedural-steps-after/opdivo-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
+
+Opdivo-VR-0000304938 : EPAR - Assessment report - Variation
+
+Adopted Reference Number: EMADOC-1700519818-3037106
+
+English (EN) (2.17 MB - PDF)
+
+**First published:** 02/06/2026
+
+[View](/en/documents/variation-report/opdivo-vr-0000304938-epar-assessment-report-variation_en.pdf)
+
+CHMP post-authorisation summary of positive opinion for Opdivo (VR-0000304938)
+
+Reference Number: EMADOC-1700519818-3055572
+
+English (EN) (169.2 KB - PDF)
+
+**First published:** 24/04/2026
+
+[View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-opdivo-vr-0000304938_en.pdf)
 
 Opdivo-VR-0000282199 : EPAR - Assessment report - Variation
 
@@ -1411,7 +1302,7 @@ English (EN) (77.43 KB - PDF)
 
 [View](/en/documents/smop/questions-and-answers-positive-opinion-change-marketing-authorisation-opdivo-nivolumab-and-yervoy-ipilimumab_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-307)
+[Other languages (22)](#file-language-dropdown-553)
 
 български (BG) (122.99 KB - PDF)
 
@@ -1443,7 +1334,7 @@ Deutsch (DE) (100.29 KB - PDF)
 
 [View](/de/documents/smop/questions-and-answers-positive-opinion-change-marketing-authorisation-opdivo-nivolumab-and-yervoy-ipilimumab_de.pdf)
 
-eesti keel (ET) (98.15 KB - PDF)
+eesti (ET) (98.15 KB - PDF)
 
 **First published:** 16/11/2018
 
@@ -1473,13 +1364,13 @@ italiano (IT) (99.94 KB - PDF)
 
 [View](/it/documents/smop/questions-and-answers-positive-opinion-change-marketing-authorisation-opdivo-nivolumab-and-yervoy-ipilimumab_it.pdf)
 
-latviešu valoda (LV) (120.23 KB - PDF)
+latviešu (LV) (120.23 KB - PDF)
 
 **First published:** 16/11/2018
 
 [View](/lv/documents/smop/questions-and-answers-positive-opinion-change-marketing-authorisation-opdivo-nivolumab-and-yervoy-ipilimumab_lv.pdf)
 
-lietuvių kalba (LT) (119.11 KB - PDF)
+lietuvių (LT) (119.11 KB - PDF)
 
 **First published:** 16/11/2018
 
@@ -1533,7 +1424,7 @@ slovenščina (SL) (111.7 KB - PDF)
 
 [View](/sl/documents/smop/questions-and-answers-positive-opinion-change-marketing-authorisation-opdivo-nivolumab-and-yervoy-ipilimumab_sl.pdf)
 
-Suomi (FI) (99.59 KB - PDF)
+suomi (FI) (99.59 KB - PDF)
 
 **First published:** 16/11/2018
 
@@ -1753,7 +1644,7 @@ English (EN) (47.49 KB - PDF)
 
 [View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-opdivo_en.pdf-0)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Opdivo : EPAR - Public assessment report
 
@@ -1925,7 +1816,7 @@ English (EN) (3.08 MB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/opdivo-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-909)
+[Other languages (24)](#file-language-dropdown-666)
 
 български (BG) (3.04 MB - DOCX)
 
@@ -1957,7 +1848,7 @@ Deutsch (DE) (2.84 MB - DOCX)
 
 [View](/de/documents/product-information-tracked-changes/opdivo-epar-product-information-tracked-changes_de.docx)
 
-eesti keel (ET) (2.98 MB - DOCX)
+eesti (ET) (2.98 MB - DOCX)
 
 **First published:** 02/05/2025 **Last updated:** 21/11/2025
 
@@ -1981,25 +1872,19 @@ hrvatski (HR) (2.98 MB - DOCX)
 
 [View](/hr/documents/product-information-tracked-changes/opdivo-epar-product-information-tracked-changes_hr.docx)
 
-íslenska (IS) (2.96 MB - DOCX)
-
-**First published:** 02/05/2025 **Last updated:** 21/11/2025
-
-[View](/is/documents/product-information-tracked-changes/opdivo-epar-product-information-tracked-changes_is.docx)
-
 italiano (IT) (2.95 MB - DOCX)
 
 **First published:** 02/05/2025 **Last updated:** 21/11/2025
 
 [View](/it/documents/product-information-tracked-changes/opdivo-epar-product-information-tracked-changes_it.docx)
 
-latviešu valoda (LV) (2.96 MB - DOCX)
+latviešu (LV) (2.96 MB - DOCX)
 
 **First published:** 02/05/2025 **Last updated:** 21/11/2025
 
 [View](/lv/documents/product-information-tracked-changes/opdivo-epar-product-information-tracked-changes_lv.docx)
 
-lietuvių kalba (LT) (2.97 MB - DOCX)
+lietuvių (LT) (2.97 MB - DOCX)
 
 **First published:** 02/05/2025 **Last updated:** 21/11/2025
 
@@ -2022,12 +1907,6 @@ Nederlands (NL) (2.97 MB - DOCX)
 **First published:** 02/05/2025 **Last updated:** 21/11/2025
 
 [View](/nl/documents/product-information-tracked-changes/opdivo-epar-product-information-tracked-changes_nl.docx)
-
-norsk (NO) (2.94 MB - DOCX)
-
-**First published:** 02/05/2025 **Last updated:** 21/11/2025
-
-[View](/no/documents/product-information-tracked-changes/opdivo-epar-product-information-tracked-changes_no.docx)
 
 polski (PL) (2.98 MB - DOCX)
 
@@ -2059,7 +1938,7 @@ slovenščina (SL) (2.99 MB - DOCX)
 
 [View](/sl/documents/product-information-tracked-changes/opdivo-epar-product-information-tracked-changes_sl.docx)
 
-Suomi (FI) (2.99 MB - DOCX)
+suomi (FI) (2.99 MB - DOCX)
 
 **First published:** 02/05/2025 **Last updated:** 21/11/2025
 
@@ -2070,6 +1949,18 @@ svenska (SV) (2.79 MB - DOCX)
 **First published:** 02/05/2025 **Last updated:** 21/11/2025
 
 [View](/sv/documents/product-information-tracked-changes/opdivo-epar-product-information-tracked-changes_sv.docx)
+
+Íslenska (IS) (2.96 MB - DOCX)
+
+**First published:** 02/05/2025 **Last updated:** 21/11/2025
+
+[View](/is/documents/product-information-tracked-changes/opdivo-epar-product-information-tracked-changes_is.docx)
+
+norsk (NO) (2.94 MB - DOCX)
+
+**First published:** 02/05/2025 **Last updated:** 21/11/2025
+
+[View](/no/documents/product-information-tracked-changes/opdivo-epar-product-information-tracked-changes_no.docx)
 
 - [Clinical data](https://clinicaldata.ema.europa.eu/web/cdp/search?p_p_id=cdpdossierviewportlet_WAR_cdpdossierviewportlet=0=maximized=view=column-1=1=EMEAHC003985II0002) (variation II/0002)
 - [Clinical data](https://clinicaldata.ema.europa.eu/web/cdp/home?p_p_id=cdpdossierviewportlet_WAR_cdpdossierviewportlet=0=maximized=view=column-3=2=EMEAHC003985II0003) (variation II/0003)
@@ -2085,7 +1976,6 @@ svenska (SV) (2.79 MB - DOCX)
 - [Opdivo - withdrawal of application for variation to marketing authorisation](/en/medicines/human/variation/opdivo-0)
 - [Opdivo - withdrawal of application for variation to marketing authorisation](/en/medicines/human/variation/opdivo-2)
 - [EMEA-001407-PIP03-20 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001407-pip03-20)
-- [Opdivo - opinion on variation to marketing authorisation](/en/medicines/human/variation/opdivo-3)
 - [DARWIN EU® Overall survival in patients with locally advanced or metastatic non-small cell lung cancer treated with selected immunotherapies as first line of treatment - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000112)
 - [Prospective Non-interventional Study of Cabozantinib as Monotherapy or in Combination With Nivolumab in Patients With Advanced or Metastatic Renal Cell Carcinoma Under Real-life Clinical Setting in 1st Line Treatment (CABOCARE) - post-authorisation study](https://catalogues.ema.europa.eu/study/199006)
 
@@ -2095,6 +1985,6 @@ svenska (SV) (2.79 MB - DOCX)
 
 **This page was last updated on**
 
-08/05/2026
+02/06/2026
 
 ## Share this page

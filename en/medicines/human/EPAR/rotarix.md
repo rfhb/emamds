@@ -1,21 +1,97 @@
 ---
-document_datetime: 2026-04-22 15:00:00
+document_datetime: 2026-06-04 14:42:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/rotarix.html
 document_name: rotarix.html
 version: success
-processing_time: 0.1221139
-conversion_datetime: 2026-04-25 16:00:41.037343
+processing_time: 0.1602288
+conversion_datetime: 2026-06-07 11:51:31.123656
 docling_version:
-  docling-serve: 1.16.1
-  docling-jobkit: 1.17.1
-  docling: 2.90.0
-  docling-core: 2.74.0
-  docling-ibm-models: 3.13.0
-  docling-parse: 5.9.0
+  docling-serve: 1.21.0
+  docling-jobkit: 1.20.1
+  docling: 2.97.0
+  docling-core: 2.78.0
+  docling-ibm-models: 3.13.2
+  docling-parse: 6.2.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
 ---
+# Search
+
+- [Medicines](/en/medicines)
+    - [Find medicine](/en/medicines)
+    - [Therapeutic areas: latest updates](/en/medicines/therapeutic-areas-latest-updates)
+    - [Download medicine data](/en/medicines/download-medicine-data)
+    - [What we publish on medicines and when](/en/medicines/what-we-publish-medicines-when)
+    - [Medicines under evaluation](/en/medicines/medicines-human-use-under-evaluation)
+    - [National registers](/en/medicines/national-registers-authorised-medicines)
+- [Human regulatory](/en/human-regulatory-overview)
+    - [Overview](/en/human-regulatory-overview)
+    - [Research and development](/en/human-regulatory-overview/research-development)
+    - [Marketing authorisation](/en/human-regulatory-overview/marketing-authorisation)
+    - [Post-authorisation](/en/human-regulatory-overview/post-authorisation)
+    - [Medical devices](/en/human-regulatory-overview/medical-devices)
+    - [Herbal products](/en/human-regulatory-overview/herbal-medicinal-products)
+- [Veterinary regulatory](/en/veterinary-regulatory-overview)
+    - [Overview](/en/veterinary-regulatory-overview)
+    - [Research and development](/en/veterinary-regulatory-overview/research-development-veterinary-medicines)
+    - [Marketing authorisation](/en/veterinary-regulatory-overview/marketing-authorisation-veterinary-medicines)
+    - [Post-authorisation](/en/veterinary-regulatory-overview/post-authorisation-veterinary-medicines)
+- [Committees](/en/committees)
+    - [Overview](/en/committees)
+    - [How the committees work](/en/committees/how-committees-work)
+    - [CHMP](/en/committees/committee-medicinal-products-human-use-chmp)
+    - [CVMP](/en/committees/committee-veterinary-medicinal-products-cvmp)
+    - [PRAC](/en/committees/pharmacovigilance-risk-assessment-committee-prac)
+    - [COMP](/en/committees/committee-orphan-medicinal-products-comp)
+    - [HMPC](/en/committees/committee-herbal-medicinal-products-hmpc)
+    - [CAT](/en/committees/committee-advanced-therapies-cat)
+    - [PDCO](/en/committees/paediatric-committee-pdco)
+    - [Working parties and other groups](/en/committees/working-parties-other-groups)
+- [News &amp; events](/en/news-events)
+    - [Overview](/en/news-events)
+    - [News](/en/news)
+    - [Events](/en/events/upcoming-events)
+    - [What's new](/en/news-events/whats-new)
+    - [Committee highlights](/en/news-events/committee-highlights)
+    - [Publications](/en/news-and-events/publications)
+    - [Press and social media](/en/news-events/press-social-media)
+    - [Podcast: Inside EMA](/en/news-events/podcast-inside-ema)
+    - [EMA Campaigns](/en/news-events/ema-campaigns)
+    - [Open consultations](/en/news-events/open-consultations)
+    - [RSS feeds](/en/news-events/rss-feeds)
+- [Partners &amp; networks](/en/partners-networks)
+    - [Overview](/en/partners-networks)
+    - [EU partners](/en/partners-networks/eu-partners)
+    - [International activities](/en/partners-networks/international-activities)
+    - [Patients and consumers](/en/partners-networks/patients-consumers)
+    - [Healthcare professionals](/en/partners-networks/healthcare-professionals)
+    - [Academia](/en/partners-networks/academia)
+    - [Pharmaceutical industry](/en/partners-networks/pharmaceutical-industry)
+    - [Networks](/en/partners-networks/networks)
+    - [Health technology assessment bodies](/en/partners-networks/health-technology-assessment-bodies)
+    - [One Health approach](/en/partners-networks/one-health-approach)
+    - [Animal health practitioners](/en/partners-networks/animal-health-practitioners)
+    - [One substance - one assessment](/en/partners-networks/one-substance-one-assessment-osoa-eu-collaboration-chemicals-related-data)
+- [About us](/en/about-us)
+    - [Overview](/en/about-us)
+    - [What we do](/en/about-us/what-we-do)
+    - [Who we are](/en/about-us/who-we-are)
+    - [How we work](/en/about-us/how-we-work)
+    - [Fees](/en/about-us/fees-payable-european-medicines-agency)
+    - [Support to SMEs](/en/about-us/support-smes)
+    - [Annual reports and work programmes](/en/about-us/annual-reports-work-programmes)
+    - [History of EMA](/en/about-us/history-ema)
+    - [Careers](/en/about-us/careers)
+    - [Procurement](/en/about-us/procurement-grants)
+    - [About this website](/en/about-us/about-website)
+    - [Data protection and privacy](/en/about-us/data-protection-privacy-ema)
+    - [Contacts](/en/about-us/contacts-european-medicines-agency)
+
+1. [Home](/en/homepage)
+2. [Medicines](https://www.ema.europa.eu/en/medicines)
+3. Rotarix
+
 # Rotarix
 
 [RSS](/en/individual-human-medicine.xml/66154)
@@ -52,7 +128,7 @@ Expand section
 
 Collapse section
 
-## What is Rotarix?
+### What is Rotarix?
 
 Rotarix is a vaccine that is given by mouth. It is available in three forms:
 
@@ -62,23 +138,23 @@ Rotarix is a vaccine that is given by mouth. It is available in three forms:
 
 Rotarix contains a live attenuated (weakened) form of the human rotavirus (RIX4414 strain).
 
-## What is Rotarix used for?
+### What is Rotarix used for?
 
 Rotarix is used in babies aged from 6 to 24 weeks to protect against gastroenteritis (diarrhoea and vomiting) caused by rotavirus infections. Rotarix is given according to official recommendations.
 
 The vaccine can only be obtained with a prescription.
 
-## How is Rotarix used?
+### How is Rotarix used?
 
 Rotarix is given as two doses, at least four weeks apart. The first dose is given when the baby is older than six weeks. Ideally, both doses should be given before the baby is aged 16 weeks and they must be given by the time the baby is 24 weeks old. The same vaccination course can be used in babies born up to 13 weeks prematurely (from 27 weeks gestational age).
 
 If the powder and solvent are used, they should be mixed together just before the vaccine is given, and the resulting suspension given directly into the mouth of the baby using the oral applicator provided. If the ready-made oral suspension is used, the contents of the prefilled oral applicator or tube should be given into the mouth of the baby. Rotarix can be given at the same time as other vaccines.
 
-## How does Rotarix work?
+### How does Rotarix work?
 
 Rotarix contains small amounts of rotavirus, a virus that causes gastroenteritis. The virus is alive, but it has been weakened so that it does not cause the disease, which makes it suitable for use in a vaccine. When an infant is given the vaccine, the immune system (the system that fights diseases) recognises the weakened virus as 'foreign' and makes defences against it. After vaccination, the immune system is able to respond more quickly when it is exposed to the virus again. This helps to protect against gastroenteritis caused by rotavirus.
 
-## How has Rotarix been studied?
+### How has Rotarix been studied?
 
 Overall, the clinical studies of Rotarix involved over 75,000 babies and took place in various countries worldwide. The main study compared Rotarix with placebo (a dummy vaccine) in over 63,000 babies who were born at full term (after a pregnancy of at least 36 weeks). The benefit of the vaccine was measured by looking at how many babies developed severe rotavirus gastroenteritis in the months after they had been vaccinated and before they had reached one year of age.
 
@@ -86,13 +162,13 @@ A further study looked at the safety of Rotarix and its ability to stimulate the
 
 Four additional studies were carried out in over 3,000 infants, to confirm that the ready-for-use forms of the vaccine were as safe and as effective as the powder and solvent formulation in stimulating the production of antibodies against rotavirus.
 
-## What benefit has Rotarix shown during the studies?
+### What benefit has Rotarix shown during the studies?
 
 Rotarix was more effective than placebo in preventing severe gastroenteritis due to rotavirus. In the main study, the number of cases of severe rotavirus gastroenteritis was lower following vaccination with Rotarix: 0.1% of the babies vaccinated with Rotarix in whom effectiveness was assessed developed severe rotavirus gastroenteritis (12 out of over 9,000) compared with 0.9% of the babies who received placebo (77 out of almost 9,000).
 
 The study in premature babies showed that Rotarix was well tolerated and produced similar levels of antibodies as in infants born at full term.
 
-## What is the risk associated with Rotarix?
+### What is the risk associated with Rotarix?
 
 The most common side effects with Rotarix (seen in between 1 and 10 patients in 100) are diarrhoea and irritability. Very rarely (seen in less than 1 patient in 10,000), a serious condition called intussusception (in which part of the bowel becomes enfolded within another part of the bowel, leading to a blockage) has been reported after the use of rotavirus vaccines. For the full list of all side effects reported with Rotarix, see the package leaflet.
 
@@ -100,17 +176,17 @@ Rotarix must not be used in babies who are hypersensitive (allergic) to any of t
 
 Rotarix should never be injected under any circumstances.
 
-## Why has Rotarix been approved?
+### Why has Rotarix been approved?
 
 The CHMP decided that Rotarix's benefits are greater than its risks and recommended that it be given marketing authorisation.
 
-## What measures are being taken to ensure the safe and effective use of Rotarix?
+### What measures are being taken to ensure the safe and effective use of Rotarix?
 
 A risk management plan has been developed to ensure that Rotarix is used as safely as possible. Based on this plan, safety information has been included in the summary of product characteristics and the package leaflet for Rotarix, including the appropriate precautions to be followed by healthcare professionals and patients.
 
 In addition, the company that markets Rotarix is developing a vaccine free of porcine circovirus type 1 (PCV-1) after a very small amount of viral particles was found in the vaccine in 2010. PCV-1 is not known to cause any disease.
 
-## Other information about Rotarix
+### Other information about Rotarix
 
 The European Commission granted a marketing authorisation valid throughout the European Union for Rotarix on 21 February 2006.
 
@@ -124,7 +200,7 @@ English (EN) (88.42 KB - PDF)
 
 [View](/en/documents/overview/rotarix-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-233)
+[Other languages (22)](#file-language-dropdown-844)
 
 български (BG) (115.88 KB - PDF)
 
@@ -156,7 +232,7 @@ Deutsch (DE) (89.6 KB - PDF)
 
 [View](/de/documents/overview/rotarix-epar-summary-public_de.pdf)
 
-eesti keel (ET) (86.59 KB - PDF)
+eesti (ET) (86.59 KB - PDF)
 
 **First published:** 05/10/2009 **Last updated:** 31/03/2016
 
@@ -186,13 +262,13 @@ italiano (IT) (87.58 KB - PDF)
 
 [View](/it/documents/overview/rotarix-epar-summary-public_it.pdf)
 
-latviešu valoda (LV) (111.91 KB - PDF)
+latviešu (LV) (111.91 KB - PDF)
 
 **First published:** 05/10/2009 **Last updated:** 31/03/2016
 
 [View](/lv/documents/overview/rotarix-epar-summary-public_lv.pdf)
 
-lietuvių kalba (LT) (112.96 KB - PDF)
+lietuvių (LT) (112.96 KB - PDF)
 
 **First published:** 05/10/2009 **Last updated:** 31/03/2016
 
@@ -246,7 +322,7 @@ slovenščina (SL) (108.58 KB - PDF)
 
 [View](/sl/documents/overview/rotarix-epar-summary-public_sl.pdf)
 
-Suomi (FI) (87.04 KB - PDF)
+suomi (FI) (87.04 KB - PDF)
 
 **First published:** 05/10/2009 **Last updated:** 31/03/2016
 
@@ -276,7 +352,7 @@ English (EN) (999.17 KB - PDF)
 
 [View](/en/documents/product-information/rotarix-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-90)
+[Other languages (24)](#file-language-dropdown-920)
 
 български (BG) (1.36 MB - PDF)
 
@@ -308,7 +384,7 @@ Deutsch (DE) (1.24 MB - PDF)
 
 [View](/de/documents/product-information/rotarix-epar-product-information_de.pdf)
 
-eesti keel (ET) (1.13 MB - PDF)
+eesti (ET) (1.13 MB - PDF)
 
 **First published:** 05/10/2009 **Last updated:** 22/04/2026
 
@@ -332,25 +408,19 @@ hrvatski (HR) (1.22 MB - PDF)
 
 [View](/hr/documents/product-information/rotarix-epar-product-information_hr.pdf)
 
-íslenska (IS) (1.12 MB - PDF)
-
-**First published:** 05/10/2009 **Last updated:** 22/04/2026
-
-[View](/is/documents/product-information/rotarix-epar-product-information_is.pdf)
-
 italiano (IT) (1.1 MB - PDF)
 
 **First published:** 05/10/2009 **Last updated:** 22/04/2026
 
 [View](/it/documents/product-information/rotarix-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (1.2 MB - PDF)
+latviešu (LV) (1.2 MB - PDF)
 
 **First published:** 05/10/2009 **Last updated:** 22/04/2026
 
 [View](/lv/documents/product-information/rotarix-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (1.26 MB - PDF)
+lietuvių (LT) (1.26 MB - PDF)
 
 **First published:** 05/10/2009 **Last updated:** 22/04/2026
 
@@ -373,12 +443,6 @@ Nederlands (NL) (1.13 MB - PDF)
 **First published:** 05/10/2009 **Last updated:** 22/04/2026
 
 [View](/nl/documents/product-information/rotarix-epar-product-information_nl.pdf)
-
-norsk (NO) (1.11 MB - PDF)
-
-**First published:** 05/10/2009 **Last updated:** 22/04/2026
-
-[View](/no/documents/product-information/rotarix-epar-product-information_no.pdf)
 
 polski (PL) (1.17 MB - PDF)
 
@@ -410,7 +474,7 @@ slovenščina (SL) (1.14 MB - PDF)
 
 [View](/sl/documents/product-information/rotarix-epar-product-information_sl.pdf)
 
-Suomi (FI) (1.1 MB - PDF)
+suomi (FI) (1.1 MB - PDF)
 
 **First published:** 05/10/2009 **Last updated:** 22/04/2026
 
@@ -421,6 +485,18 @@ svenska (SV) (1.02 MB - PDF)
 **First published:** 05/10/2009 **Last updated:** 22/04/2026
 
 [View](/sv/documents/product-information/rotarix-epar-product-information_sv.pdf)
+
+Íslenska (IS) (1.12 MB - PDF)
+
+**First published:** 05/10/2009 **Last updated:** 22/04/2026
+
+[View](/is/documents/product-information/rotarix-epar-product-information_is.pdf)
+
+norsk (NO) (1.11 MB - PDF)
+
+**First published:** 05/10/2009 **Last updated:** 22/04/2026
+
+[View](/no/documents/product-information/rotarix-epar-product-information_no.pdf)
 
 **Latest procedure affecting product information:** PSUR/0000305060
 
@@ -448,7 +524,7 @@ English (EN) (84.21 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/rotarix-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-466)
+[Other languages (24)](#file-language-dropdown-530)
 
 български (BG) (117.61 KB - PDF)
 
@@ -480,7 +556,7 @@ Deutsch (DE) (47.81 KB - PDF)
 
 [View](/de/documents/all-authorised-presentations/rotarix-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (43.7 KB - PDF)
+eesti (ET) (43.7 KB - PDF)
 
 **First published:** 14/11/2008 **Last updated:** 27/05/2024
 
@@ -504,25 +580,19 @@ hrvatski (HR) (62.32 KB - PDF)
 
 [View](/hr/documents/all-authorised-presentations/rotarix-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (45.01 KB - PDF)
-
-**First published:** 14/11/2008 **Last updated:** 27/05/2024
-
-[View](/is/documents/all-authorised-presentations/rotarix-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (43.94 KB - PDF)
 
 **First published:** 14/11/2008 **Last updated:** 27/05/2024
 
 [View](/it/documents/all-authorised-presentations/rotarix-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (65.88 KB - PDF)
+latviešu (LV) (65.88 KB - PDF)
 
 **First published:** 14/11/2008 **Last updated:** 27/05/2024
 
 [View](/lv/documents/all-authorised-presentations/rotarix-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (67.18 KB - PDF)
+lietuvių (LT) (67.18 KB - PDF)
 
 **First published:** 14/11/2008 **Last updated:** 27/05/2024
 
@@ -545,12 +615,6 @@ Nederlands (NL) (84.42 KB - PDF)
 **First published:** 14/11/2008 **Last updated:** 27/05/2024
 
 [View](/nl/documents/all-authorised-presentations/rotarix-epar-all-authorised-presentations_nl.pdf)
-
-norsk (NO) (79.48 KB - PDF)
-
-**First published:** 14/11/2008 **Last updated:** 27/05/2024
-
-[View](/no/documents/all-authorised-presentations/rotarix-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (137.29 KB - PDF)
 
@@ -582,7 +646,7 @@ slovenščina (SL) (122.94 KB - PDF)
 
 [View](/sl/documents/all-authorised-presentations/rotarix-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (82.68 KB - PDF)
+suomi (FI) (82.68 KB - PDF)
 
 **First published:** 14/11/2008 **Last updated:** 27/05/2024
 
@@ -593,6 +657,18 @@ svenska (SV) (83.18 KB - PDF)
 **First published:** 14/11/2008 **Last updated:** 27/05/2024
 
 [View](/sv/documents/all-authorised-presentations/rotarix-epar-all-authorised-presentations_sv.pdf)
+
+Íslenska (IS) (45.01 KB - PDF)
+
+**First published:** 14/11/2008 **Last updated:** 27/05/2024
+
+[View](/is/documents/all-authorised-presentations/rotarix-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (79.48 KB - PDF)
+
+**First published:** 14/11/2008 **Last updated:** 27/05/2024
+
+[View](/no/documents/all-authorised-presentations/rotarix-epar-all-authorised-presentations_no.pdf)
 
 ## Product details
 
@@ -645,7 +721,7 @@ Marketing authorisation issued
 
 Revision
 
-46
+47
 
 ## Assessment history
 
@@ -653,7 +729,7 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Rotarix : EPAR - Procedural steps taken and scientific information after authorisation
 
@@ -670,6 +746,16 @@ English (EN) (302.59 KB - PDF)
 **First published:** 05/10/2009 **Last updated:** 22/04/2026
 
 [View](/en/documents/procedural-steps-after/rotarix-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
+
+Rotarix-PAM-0000334559 : EPAR - Assessment report
+
+Adopted Reference Number: EMADOC-1700519818-2963646
+
+English (EN) (621.01 KB - PDF)
+
+**First published:** 04/06/2026
+
+[View](/en/documents/variation-report/rotarix-pam-0000334559-epar-assessment-report_en.pdf)
 
 Rotarix-PSUSA-00002665-202507 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
 
@@ -989,7 +1075,7 @@ English (EN) (90.54 KB - PDF)
 
 [View](/en/documents/variation-report/rotarix-h-c-639-x-0010-epar-assessment-report-extension_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Rotarix : EPAR - Procedural steps taken before authorisation
 
@@ -1021,6 +1107,6 @@ English (EN) (408.11 KB - PDF)
 
 **This page was last updated on**
 
-22/04/2026
+04/06/2026
 
 ## Share this page

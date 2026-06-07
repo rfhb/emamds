@@ -1,32 +1,108 @@
 ---
-document_datetime: 2025-12-29 12:21:49
+document_datetime: 2026-06-05 15:55:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/zarzio.html
 document_name: zarzio.html
 version: success
-processing_time: 0.1102842
-conversion_datetime: 2025-12-30 09:56:35.74723
+processing_time: 0.1579286
+conversion_datetime: 2026-06-07 11:50:06.419219
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.21.0
+  docling-jobkit: 1.20.1
+  docling: 2.97.0
+  docling-core: 2.78.0
+  docling-ibm-models: 3.13.2
+  docling-parse: 6.2.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
 ---
+# Search
+
+- [Medicines](/en/medicines)
+    - [Find medicine](/en/medicines)
+    - [Therapeutic areas: latest updates](/en/medicines/therapeutic-areas-latest-updates)
+    - [Download medicine data](/en/medicines/download-medicine-data)
+    - [What we publish on medicines and when](/en/medicines/what-we-publish-medicines-when)
+    - [Medicines under evaluation](/en/medicines/medicines-human-use-under-evaluation)
+    - [National registers](/en/medicines/national-registers-authorised-medicines)
+- [Human regulatory](/en/human-regulatory-overview)
+    - [Overview](/en/human-regulatory-overview)
+    - [Research and development](/en/human-regulatory-overview/research-development)
+    - [Marketing authorisation](/en/human-regulatory-overview/marketing-authorisation)
+    - [Post-authorisation](/en/human-regulatory-overview/post-authorisation)
+    - [Medical devices](/en/human-regulatory-overview/medical-devices)
+    - [Herbal products](/en/human-regulatory-overview/herbal-medicinal-products)
+- [Veterinary regulatory](/en/veterinary-regulatory-overview)
+    - [Overview](/en/veterinary-regulatory-overview)
+    - [Research and development](/en/veterinary-regulatory-overview/research-development-veterinary-medicines)
+    - [Marketing authorisation](/en/veterinary-regulatory-overview/marketing-authorisation-veterinary-medicines)
+    - [Post-authorisation](/en/veterinary-regulatory-overview/post-authorisation-veterinary-medicines)
+- [Committees](/en/committees)
+    - [Overview](/en/committees)
+    - [How the committees work](/en/committees/how-committees-work)
+    - [CHMP](/en/committees/committee-medicinal-products-human-use-chmp)
+    - [CVMP](/en/committees/committee-veterinary-medicinal-products-cvmp)
+    - [PRAC](/en/committees/pharmacovigilance-risk-assessment-committee-prac)
+    - [COMP](/en/committees/committee-orphan-medicinal-products-comp)
+    - [HMPC](/en/committees/committee-herbal-medicinal-products-hmpc)
+    - [CAT](/en/committees/committee-advanced-therapies-cat)
+    - [PDCO](/en/committees/paediatric-committee-pdco)
+    - [Working parties and other groups](/en/committees/working-parties-other-groups)
+- [News &amp; events](/en/news-events)
+    - [Overview](/en/news-events)
+    - [News](/en/news)
+    - [Events](/en/events/upcoming-events)
+    - [What's new](/en/news-events/whats-new)
+    - [Committee highlights](/en/news-events/committee-highlights)
+    - [Publications](/en/news-and-events/publications)
+    - [Press and social media](/en/news-events/press-social-media)
+    - [Podcast: Inside EMA](/en/news-events/podcast-inside-ema)
+    - [EMA Campaigns](/en/news-events/ema-campaigns)
+    - [Open consultations](/en/news-events/open-consultations)
+    - [RSS feeds](/en/news-events/rss-feeds)
+- [Partners &amp; networks](/en/partners-networks)
+    - [Overview](/en/partners-networks)
+    - [EU partners](/en/partners-networks/eu-partners)
+    - [International activities](/en/partners-networks/international-activities)
+    - [Patients and consumers](/en/partners-networks/patients-consumers)
+    - [Healthcare professionals](/en/partners-networks/healthcare-professionals)
+    - [Academia](/en/partners-networks/academia)
+    - [Pharmaceutical industry](/en/partners-networks/pharmaceutical-industry)
+    - [Networks](/en/partners-networks/networks)
+    - [Health technology assessment bodies](/en/partners-networks/health-technology-assessment-bodies)
+    - [One Health approach](/en/partners-networks/one-health-approach)
+    - [Animal health practitioners](/en/partners-networks/animal-health-practitioners)
+    - [One substance - one assessment](/en/partners-networks/one-substance-one-assessment-osoa-eu-collaboration-chemicals-related-data)
+- [About us](/en/about-us)
+    - [Overview](/en/about-us)
+    - [What we do](/en/about-us/what-we-do)
+    - [Who we are](/en/about-us/who-we-are)
+    - [How we work](/en/about-us/how-we-work)
+    - [Fees](/en/about-us/fees-payable-european-medicines-agency)
+    - [Support to SMEs](/en/about-us/support-smes)
+    - [Annual reports and work programmes](/en/about-us/annual-reports-work-programmes)
+    - [History of EMA](/en/about-us/history-ema)
+    - [Careers](/en/about-us/careers)
+    - [Procurement](/en/about-us/procurement-grants)
+    - [About this website](/en/about-us/about-website)
+    - [Data protection and privacy](/en/about-us/data-protection-privacy-ema)
+    - [Contacts](/en/about-us/contacts-european-medicines-agency)
+
+1. [Home](/en/homepage)
+2. [Medicines](https://www.ema.europa.eu/en/medicines)
+3. Zarzio
+
 # Zarzio
 
 [RSS](/en/individual-human-medicine.xml/66121)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-filgrastim Medicine Human Authorised
+filgrastim
 
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
+Medicine Human Authorised
 
 Page contents
 
@@ -37,6 +113,7 @@ Page contents
 - [Product details](#product-details)
 - [Authorisation details](#authorisation-details)
 - [Assessment history](#assessment-history)
+- [Product information - with tracked changes](#product-information-with-tracked-changes-86786)
 - [Related content](#related-content-619)
 - [Topics](#topics)
 
@@ -54,13 +131,13 @@ Expand section
 
 Collapse section
 
-## What is Zarzio?
+### What is Zarzio?
 
 Zarzio is a solution for injection or infusion (drip into a vein) in a prefilled syringe. It contains the active substance filgrastim (30 or 48 million units).
 
 Zarzio is a 'biosimilar medicine'. This means that Zarzio is similar to a biological medicine that is already authorised in the European Union (EU) and contains the same active substance (also known as the 'reference medicine'). The reference medicine for Zarzio is Neupogen.
 
-## What is Zarzio used for?
+### What is Zarzio used for?
 
 Zarzio is used to stimulate the production of white blood cells in the following situations:
 
@@ -71,35 +148,35 @@ Zarzio is used to stimulate the production of white blood cells in the following
 
 Zarzio can also be used in people who are about to donate blood stem cells for transplant, to help release these cells from the bone marrow. The medicine can only be obtained with a prescription.
 
-## How is Zarzio used?
+### How is Zarzio used?
 
 Zarzio is given by injection under the skin or infusion into a vein. How it is given, the dose and the duration of treatment depend on why it is being used, the patient's body weight and the response to treatment. Zarzio is usually given in a specialised treatment centre, although patients who receive it by injection under the skin may inject themselves once they have been trained appropriately. For more information, see the package leaflet.
 
-## How does Zarzio work?
+### How does Zarzio work?
 
 The active substance in Zarzio, filgrastim, is very similar to a human protein called granulocyte colony stimulating factor (G-CSF). Filgrastim is produced by a method known as 'recombinant DNA technology': it is made by a bacterium that has received a gene (DNA), which makes it able to produce filgrastim. The replacement acts in the same way as naturally produced G-CSF by encouraging the bone marrow to produce more white blood cells.
 
-## How has Zarzio been studied?
+### How has Zarzio been studied?
 
 Zarzio was studied to show that it is comparable to the reference medicine, Neupogen.
 
 Four studies looked at the levels of neutrophils in the blood in a total of 146 healthy volunteers who received Zarzio or Neupogen. The studies looked at the effects of single and repeated administration of various doses of the medicines, either injected under the skin or infused into a vein. The main measure in these studies was the neutrophil count over the first 10 days of treatment.
 
-## What benefit has Zarzio shown during the studies?
+### What benefit has Zarzio shown during the studies?
 
 Zarzio and Neupogen brought about similar increases in blood neutrophil counts in healthy volunteers over the course of the studies. This was considered sufficient to demonstrate that the benefits of Zarzio are comparable to those of the reference medicine.
 
-## What is the risk associated with Zarzio?
+### What is the risk associated with Zarzio?
 
 The most common side effect with Zarzio (seen in more than 1 patient in 10) is musculoskeletal pain (pain in the muscles and bones). Other side effects may be seen in more than 1 patient in 10, depending on the condition that Zarzio is being used for. For the full list of all side effects reported with Zarzio, see the package leaflet.
 
 Zarzio should not be used in people who may be hypersensitive (allergic) to filgrastim or any of the other ingredients.
 
-## Why has Zarzio been approved?
+### Why has Zarzio been approved?
 
 The Committee for Medicinal Products for Human Use (CHMP) decided that, in accordance with EU requirements, Zarzio has been shown to have a comparable quality, safety and efficacy profile to Neupogen. Therefore, the CHMP's view was that, as for Neupogen, the benefit outweighs the identified risk. The Committee recommended that Zarzio be given marketing authorisation.
 
-## Other information about Zarzio
+### Other information about Zarzio
 
 The European Commission granted a marketing authorisation valid throughout the EU for Zarzio to Sandoz GmbH on 6 February 2009.
 
@@ -107,275 +184,141 @@ Zarzio : EPAR - Summary for the public
 
 English (EN) (80.43 KB - PDF)
 
-**First published:** 17/02/2009
-
-**Last updated:** 17/02/2009
+**First published:** 17/02/2009 **Last updated:** 17/02/2009
 
 [View](/en/documents/overview/zarzio-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-3)
+[Other languages (22)](#file-language-dropdown-968)
 
 български (BG) (133.76 KB - PDF)
 
-**First published:**
-
-17/02/2009
-
-**Last updated:**
-
-17/02/2009
+**First published:** 17/02/2009 **Last updated:** 17/02/2009
 
 [View](/bg/documents/overview/zarzio-epar-summary-public_bg.pdf)
 
 español (ES) (82.59 KB - PDF)
 
-**First published:**
-
-17/02/2009
-
-**Last updated:**
-
-17/02/2009
+**First published:** 17/02/2009 **Last updated:** 17/02/2009
 
 [View](/es/documents/overview/zarzio-epar-summary-public_es.pdf)
 
 čeština (CS) (130.71 KB - PDF)
 
-**First published:**
-
-17/02/2009
-
-**Last updated:**
-
-17/02/2009
+**First published:** 17/02/2009 **Last updated:** 17/02/2009
 
 [View](/cs/documents/overview/zarzio-epar-summary-public_cs.pdf)
 
 dansk (DA) (80.71 KB - PDF)
 
-**First published:**
-
-17/02/2009
-
-**Last updated:**
-
-17/02/2009
+**First published:** 17/02/2009 **Last updated:** 17/02/2009
 
 [View](/da/documents/overview/zarzio-epar-summary-public_da.pdf)
 
 Deutsch (DE) (82.31 KB - PDF)
 
-**First published:**
-
-17/02/2009
-
-**Last updated:**
-
-17/02/2009
+**First published:** 17/02/2009 **Last updated:** 17/02/2009
 
 [View](/de/documents/overview/zarzio-epar-summary-public_de.pdf)
 
-eesti keel (ET) (79.33 KB - PDF)
+eesti (ET) (79.33 KB - PDF)
 
-**First published:**
-
-17/02/2009
-
-**Last updated:**
-
-17/02/2009
+**First published:** 17/02/2009 **Last updated:** 17/02/2009
 
 [View](/et/documents/overview/zarzio-epar-summary-public_et.pdf)
 
 ελληνικά (EL) (111.38 KB - PDF)
 
-**First published:**
-
-17/02/2009
-
-**Last updated:**
-
-17/02/2009
+**First published:** 17/02/2009 **Last updated:** 17/02/2009
 
 [View](/el/documents/overview/zarzio-epar-summary-public_el.pdf)
 
 français (FR) (83.18 KB - PDF)
 
-**First published:**
-
-17/02/2009
-
-**Last updated:**
-
-17/02/2009
+**First published:** 17/02/2009 **Last updated:** 17/02/2009
 
 [View](/fr/documents/overview/zarzio-epar-summary-public_fr.pdf)
 
 hrvatski (HR) (102.33 KB - PDF)
 
-**First published:**
-
-17/02/2009
-
-**Last updated:**
-
-17/02/2009
+**First published:** 17/02/2009 **Last updated:** 17/02/2009
 
 [View](/hr/documents/overview/zarzio-epar-summary-public_hr.pdf)
 
 italiano (IT) (80.03 KB - PDF)
 
-**First published:**
-
-17/02/2009
-
-**Last updated:**
-
-17/02/2009
+**First published:** 17/02/2009 **Last updated:** 17/02/2009
 
 [View](/it/documents/overview/zarzio-epar-summary-public_it.pdf)
 
-latviešu valoda (LV) (104.95 KB - PDF)
+latviešu (LV) (104.95 KB - PDF)
 
-**First published:**
-
-17/02/2009
-
-**Last updated:**
-
-17/02/2009
+**First published:** 17/02/2009 **Last updated:** 17/02/2009
 
 [View](/lv/documents/overview/zarzio-epar-summary-public_lv.pdf)
 
-lietuvių kalba (LT) (105.65 KB - PDF)
+lietuvių (LT) (105.65 KB - PDF)
 
-**First published:**
-
-17/02/2009
-
-**Last updated:**
-
-17/02/2009
+**First published:** 17/02/2009 **Last updated:** 17/02/2009
 
 [View](/lt/documents/overview/zarzio-epar-summary-public_lt.pdf)
 
 magyar (HU) (103.47 KB - PDF)
 
-**First published:**
-
-17/02/2009
-
-**Last updated:**
-
-17/02/2009
+**First published:** 17/02/2009 **Last updated:** 17/02/2009
 
 [View](/hu/documents/overview/zarzio-epar-summary-public_hu.pdf)
 
 Malti (MT) (108.51 KB - PDF)
 
-**First published:**
-
-17/02/2009
-
-**Last updated:**
-
-17/02/2009
+**First published:** 17/02/2009 **Last updated:** 17/02/2009
 
 [View](/mt/documents/overview/zarzio-epar-summary-public_mt.pdf)
 
 Nederlands (NL) (82.19 KB - PDF)
 
-**First published:**
-
-17/02/2009
-
-**Last updated:**
-
-17/02/2009
+**First published:** 17/02/2009 **Last updated:** 17/02/2009
 
 [View](/nl/documents/overview/zarzio-epar-summary-public_nl.pdf)
 
 polski (PL) (106.79 KB - PDF)
 
-**First published:**
-
-17/02/2009
-
-**Last updated:**
-
-17/02/2009
+**First published:** 17/02/2009 **Last updated:** 17/02/2009
 
 [View](/pl/documents/overview/zarzio-epar-summary-public_pl.pdf)
 
 português (PT) (81.15 KB - PDF)
 
-**First published:**
-
-17/02/2009
-
-**Last updated:**
-
-17/02/2009
+**First published:** 17/02/2009 **Last updated:** 17/02/2009
 
 [View](/pt/documents/overview/zarzio-epar-summary-public_pt.pdf)
 
 română (RO) (103.62 KB - PDF)
 
-**First published:**
-
-17/02/2009
-
-**Last updated:**
-
-17/02/2009
+**First published:** 17/02/2009 **Last updated:** 17/02/2009
 
 [View](/ro/documents/overview/zarzio-epar-summary-public_ro.pdf)
 
 slovenčina (SK) (105.13 KB - PDF)
 
-**First published:**
-
-17/02/2009
-
-**Last updated:**
-
-17/02/2009
+**First published:** 17/02/2009 **Last updated:** 17/02/2009
 
 [View](/sk/documents/overview/zarzio-epar-summary-public_sk.pdf)
 
 slovenščina (SL) (102.61 KB - PDF)
 
-**First published:**
-
-17/02/2009
-
-**Last updated:**
-
-17/02/2009
+**First published:** 17/02/2009 **Last updated:** 17/02/2009
 
 [View](/sl/documents/overview/zarzio-epar-summary-public_sl.pdf)
 
-Suomi (FI) (79.57 KB - PDF)
+suomi (FI) (79.57 KB - PDF)
 
-**First published:**
-
-17/02/2009
-
-**Last updated:**
-
-17/02/2009
+**First published:** 17/02/2009 **Last updated:** 17/02/2009
 
 [View](/fi/documents/overview/zarzio-epar-summary-public_fi.pdf)
 
 svenska (SV) (80.69 KB - PDF)
 
-**First published:**
-
-17/02/2009
-
-**Last updated:**
-
-17/02/2009
+**First published:** 17/02/2009 **Last updated:** 17/02/2009
 
 [View](/sv/documents/overview/zarzio-epar-summary-public_sv.pdf)
 
@@ -391,305 +334,161 @@ English (EN) (60.09 KB - PDF)
 
 Zarzio : EPAR - Product Information
 
-English (EN) (1.09 MB - PDF)
+English (EN) (3.67 MB - PDF)
 
-**First published:** 09/11/2009
-
-**Last updated:** 08/07/2025
+**First published:** 09/11/2009 **Last updated:** 05/06/2026
 
 [View](/en/documents/product-information/zarzio-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-506)
+[Other languages (24)](#file-language-dropdown-711)
 
-български (BG) (952.96 KB - PDF)
+български (BG) (695.77 KB - PDF)
 
-**First published:**
-
-09/11/2009
-
-**Last updated:**
-
-08/07/2025
+**First published:** 09/11/2009 **Last updated:** 05/06/2026
 
 [View](/bg/documents/product-information/zarzio-epar-product-information_bg.pdf)
 
-español (ES) (992.36 KB - PDF)
+español (ES) (569.44 KB - PDF)
 
-**First published:**
-
-09/11/2009
-
-**Last updated:**
-
-08/07/2025
+**First published:** 09/11/2009 **Last updated:** 05/06/2026
 
 [View](/es/documents/product-information/zarzio-epar-product-information_es.pdf)
 
-čeština (CS) (740.19 KB - PDF)
+čeština (CS) (691.81 KB - PDF)
 
-**First published:**
-
-09/11/2009
-
-**Last updated:**
-
-08/07/2025
+**First published:** 09/11/2009 **Last updated:** 05/06/2026
 
 [View](/cs/documents/product-information/zarzio-epar-product-information_cs.pdf)
 
-dansk (DA) (901 KB - PDF)
+dansk (DA) (596.11 KB - PDF)
 
-**First published:**
-
-09/11/2009
-
-**Last updated:**
-
-08/07/2025
+**First published:** 09/11/2009 **Last updated:** 05/06/2026
 
 [View](/da/documents/product-information/zarzio-epar-product-information_da.pdf)
 
-Deutsch (DE) (938.69 KB - PDF)
+Deutsch (DE) (562.12 KB - PDF)
 
-**First published:**
-
-09/11/2009
-
-**Last updated:**
-
-08/07/2025
+**First published:** 09/11/2009 **Last updated:** 05/06/2026
 
 [View](/de/documents/product-information/zarzio-epar-product-information_de.pdf)
 
-eesti keel (ET) (809.19 KB - PDF)
+eesti (ET) (551.72 KB - PDF)
 
-**First published:**
-
-09/11/2009
-
-**Last updated:**
-
-08/07/2025
+**First published:** 09/11/2009 **Last updated:** 05/06/2026
 
 [View](/et/documents/product-information/zarzio-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1023.1 KB - PDF)
+ελληνικά (EL) (706.63 KB - PDF)
 
-**First published:**
-
-09/11/2009
-
-**Last updated:**
-
-08/07/2025
+**First published:** 09/11/2009 **Last updated:** 05/06/2026
 
 [View](/el/documents/product-information/zarzio-epar-product-information_el.pdf)
 
-français (FR) (913.2 KB - PDF)
+français (FR) (605.51 KB - PDF)
 
-**First published:**
-
-09/11/2009
-
-**Last updated:**
-
-08/07/2025
+**First published:** 09/11/2009 **Last updated:** 05/06/2026
 
 [View](/fr/documents/product-information/zarzio-epar-product-information_fr.pdf)
 
-hrvatski (HR) (972.35 KB - PDF)
+hrvatski (HR) (977.34 KB - PDF)
 
-**First published:**
-
-09/11/2009
-
-**Last updated:**
-
-08/07/2025
+**First published:** 09/11/2009 **Last updated:** 05/06/2026
 
 [View](/hr/documents/product-information/zarzio-epar-product-information_hr.pdf)
 
-íslenska (IS) (813.51 KB - PDF)
+italiano (IT) (606.43 KB - PDF)
 
-**First published:**
-
-09/11/2009
-
-**Last updated:**
-
-08/07/2025
-
-[View](/is/documents/product-information/zarzio-epar-product-information_is.pdf)
-
-italiano (IT) (1009.35 KB - PDF)
-
-**First published:**
-
-09/11/2009
-
-**Last updated:**
-
-08/07/2025
+**First published:** 09/11/2009 **Last updated:** 05/06/2026
 
 [View](/it/documents/product-information/zarzio-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (978.01 KB - PDF)
+latviešu (LV) (671.92 KB - PDF)
 
-**First published:**
-
-09/11/2009
-
-**Last updated:**
-
-08/07/2025
+**First published:** 09/11/2009 **Last updated:** 05/06/2026
 
 [View](/lv/documents/product-information/zarzio-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (898.73 KB - PDF)
+lietuvių (LT) (679.33 KB - PDF)
 
-**First published:**
-
-09/11/2009
-
-**Last updated:**
-
-08/07/2025
+**First published:** 09/11/2009 **Last updated:** 05/06/2026
 
 [View](/lt/documents/product-information/zarzio-epar-product-information_lt.pdf)
 
-magyar (HU) (1 MB - PDF)
+magyar (HU) (708.98 KB - PDF)
 
-**First published:**
-
-09/11/2009
-
-**Last updated:**
-
-08/07/2025
+**First published:** 09/11/2009 **Last updated:** 05/06/2026
 
 [View](/hu/documents/product-information/zarzio-epar-product-information_hu.pdf)
 
-Malti (MT) (1017.66 KB - PDF)
+Malti (MT) (712.32 KB - PDF)
 
-**First published:**
-
-09/11/2009
-
-**Last updated:**
-
-08/07/2025
+**First published:** 09/11/2009 **Last updated:** 05/06/2026
 
 [View](/mt/documents/product-information/zarzio-epar-product-information_mt.pdf)
 
-Nederlands (NL) (917.9 KB - PDF)
+Nederlands (NL) (592.51 KB - PDF)
 
-**First published:**
-
-09/11/2009
-
-**Last updated:**
-
-08/07/2025
+**First published:** 09/11/2009 **Last updated:** 05/06/2026
 
 [View](/nl/documents/product-information/zarzio-epar-product-information_nl.pdf)
 
-norsk (NO) (825.08 KB - PDF)
+polski (PL) (707.06 KB - PDF)
 
-**First published:**
-
-09/11/2009
-
-**Last updated:**
-
-08/07/2025
-
-[View](/no/documents/product-information/zarzio-epar-product-information_no.pdf)
-
-polski (PL) (1.02 MB - PDF)
-
-**First published:**
-
-09/11/2009
-
-**Last updated:**
-
-08/07/2025
+**First published:** 09/11/2009 **Last updated:** 05/06/2026
 
 [View](/pl/documents/product-information/zarzio-epar-product-information_pl.pdf)
 
-português (PT) (842.19 KB - PDF)
+português (PT) (591.29 KB - PDF)
 
-**First published:**
-
-09/11/2009
-
-**Last updated:**
-
-08/07/2025
+**First published:** 09/11/2009 **Last updated:** 05/06/2026
 
 [View](/pt/documents/product-information/zarzio-epar-product-information_pt.pdf)
 
-română (RO) (1000.32 KB - PDF)
+română (RO) (686.33 KB - PDF)
 
-**First published:**
-
-09/11/2009
-
-**Last updated:**
-
-08/07/2025
+**First published:** 09/11/2009 **Last updated:** 05/06/2026
 
 [View](/ro/documents/product-information/zarzio-epar-product-information_ro.pdf)
 
-slovenčina (SK) (748.37 KB - PDF)
+slovenčina (SK) (699.06 KB - PDF)
 
-**First published:**
-
-09/11/2009
-
-**Last updated:**
-
-08/07/2025
+**First published:** 09/11/2009 **Last updated:** 05/06/2026
 
 [View](/sk/documents/product-information/zarzio-epar-product-information_sk.pdf)
 
-slovenščina (SL) (911.66 KB - PDF)
+slovenščina (SL) (700.52 KB - PDF)
 
-**First published:**
-
-09/11/2009
-
-**Last updated:**
-
-08/07/2025
+**First published:** 09/11/2009 **Last updated:** 05/06/2026
 
 [View](/sl/documents/product-information/zarzio-epar-product-information_sl.pdf)
 
-Suomi (FI) (829.24 KB - PDF)
+suomi (FI) (551.79 KB - PDF)
 
-**First published:**
-
-09/11/2009
-
-**Last updated:**
-
-08/07/2025
+**First published:** 09/11/2009 **Last updated:** 05/06/2026
 
 [View](/fi/documents/product-information/zarzio-epar-product-information_fi.pdf)
 
-svenska (SV) (927.03 KB - PDF)
+svenska (SV) (564.31 KB - PDF)
 
-**First published:**
-
-09/11/2009
-
-**Last updated:**
-
-08/07/2025
+**First published:** 09/11/2009 **Last updated:** 05/06/2026
 
 [View](/sv/documents/product-information/zarzio-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** WS2770 20/03/2025
+Íslenska (IS) (577.87 KB - PDF)
+
+**First published:** 09/11/2009 **Last updated:** 05/06/2026
+
+[View](/is/documents/product-information/zarzio-epar-product-information_is.pdf)
+
+norsk (NO) (574.34 KB - PDF)
+
+**First published:** 09/11/2009 **Last updated:** 05/06/2026
+
+[View](/no/documents/product-information/zarzio-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** WS2770
+
+20/03/2025
 
 icon globe
 
@@ -709,310 +508,178 @@ Zarzio : EPAR - All Authorised presentations
 
 English (EN) (84.57 KB - PDF)
 
-**First published:** 16/02/2009
-
-**Last updated:** 12/01/2023
+**First published:** 16/02/2009 **Last updated:** 12/01/2023
 
 [View](/en/documents/all-authorised-presentations/zarzio-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-816)
+[Other languages (24)](#file-language-dropdown-408)
 
 български (BG) (121.89 KB - PDF)
 
-**First published:**
-
-16/02/2009
-
-**Last updated:**
-
-12/01/2023
+**First published:** 16/02/2009 **Last updated:** 12/01/2023
 
 [View](/bg/documents/all-authorised-presentations/zarzio-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (110.49 KB - PDF)
 
-**First published:**
-
-16/02/2009
-
-**Last updated:**
-
-12/01/2023
+**First published:** 16/02/2009 **Last updated:** 12/01/2023
 
 [View](/es/documents/all-authorised-presentations/zarzio-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (150.01 KB - PDF)
 
-**First published:**
-
-16/02/2009
-
-**Last updated:**
-
-12/01/2023
+**First published:** 16/02/2009 **Last updated:** 12/01/2023
 
 [View](/cs/documents/all-authorised-presentations/zarzio-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (110.8 KB - PDF)
 
-**First published:**
-
-16/02/2009
-
-**Last updated:**
-
-12/01/2023
+**First published:** 16/02/2009 **Last updated:** 12/01/2023
 
 [View](/da/documents/all-authorised-presentations/zarzio-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (114.35 KB - PDF)
 
-**First published:**
-
-16/02/2009
-
-**Last updated:**
-
-12/01/2023
+**First published:** 16/02/2009 **Last updated:** 12/01/2023
 
 [View](/de/documents/all-authorised-presentations/zarzio-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (106.68 KB - PDF)
+eesti (ET) (106.68 KB - PDF)
 
-**First published:**
-
-16/02/2009
-
-**Last updated:**
-
-12/01/2023
+**First published:** 16/02/2009 **Last updated:** 12/01/2023
 
 [View](/et/documents/all-authorised-presentations/zarzio-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (138.24 KB - PDF)
 
-**First published:**
-
-16/02/2009
-
-**Last updated:**
-
-12/01/2023
+**First published:** 16/02/2009 **Last updated:** 12/01/2023
 
 [View](/el/documents/all-authorised-presentations/zarzio-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (108.89 KB - PDF)
 
-**First published:**
-
-16/02/2009
-
-**Last updated:**
-
-12/01/2023
+**First published:** 16/02/2009 **Last updated:** 12/01/2023
 
 [View](/fr/documents/all-authorised-presentations/zarzio-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (99.74 KB - PDF)
 
-**First published:**
-
-16/02/2009
-
-**Last updated:**
-
-12/01/2023
+**First published:** 16/02/2009 **Last updated:** 12/01/2023
 
 [View](/hr/documents/all-authorised-presentations/zarzio-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (110.11 KB - PDF)
-
-**First published:**
-
-16/02/2009
-
-**Last updated:**
-
-12/01/2023
-
-[View](/is/documents/all-authorised-presentations/zarzio-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (106.99 KB - PDF)
 
-**First published:**
-
-16/02/2009
-
-**Last updated:**
-
-12/01/2023
+**First published:** 16/02/2009 **Last updated:** 12/01/2023
 
 [View](/it/documents/all-authorised-presentations/zarzio-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (149.07 KB - PDF)
+latviešu (LV) (149.07 KB - PDF)
 
-**First published:**
-
-16/02/2009
-
-**Last updated:**
-
-12/01/2023
+**First published:** 16/02/2009 **Last updated:** 12/01/2023
 
 [View](/lv/documents/all-authorised-presentations/zarzio-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (147.28 KB - PDF)
+lietuvių (LT) (147.28 KB - PDF)
 
-**First published:**
-
-16/02/2009
-
-**Last updated:**
-
-12/01/2023
+**First published:** 16/02/2009 **Last updated:** 12/01/2023
 
 [View](/lt/documents/all-authorised-presentations/zarzio-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (157.87 KB - PDF)
 
-**First published:**
-
-16/02/2009
-
-**Last updated:**
-
-12/01/2023
+**First published:** 16/02/2009 **Last updated:** 12/01/2023
 
 [View](/hu/documents/all-authorised-presentations/zarzio-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (161.75 KB - PDF)
 
-**First published:**
-
-16/02/2009
-
-**Last updated:**
-
-12/01/2023
+**First published:** 16/02/2009 **Last updated:** 12/01/2023
 
 [View](/mt/documents/all-authorised-presentations/zarzio-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (108.33 KB - PDF)
 
-**First published:**
-
-16/02/2009
-
-**Last updated:**
-
-12/01/2023
+**First published:** 16/02/2009 **Last updated:** 12/01/2023
 
 [View](/nl/documents/all-authorised-presentations/zarzio-epar-all-authorised-presentations_nl.pdf)
 
-norsk (NO) (112.45 KB - PDF)
-
-**First published:**
-
-16/02/2009
-
-**Last updated:**
-
-12/01/2023
-
-[View](/no/documents/all-authorised-presentations/zarzio-epar-all-authorised-presentations_no.pdf)
-
 polski (PL) (161.29 KB - PDF)
 
-**First published:**
-
-16/02/2009
-
-**Last updated:**
-
-12/01/2023
+**First published:** 16/02/2009 **Last updated:** 12/01/2023
 
 [View](/pl/documents/all-authorised-presentations/zarzio-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (111.58 KB - PDF)
 
-**First published:**
-
-16/02/2009
-
-**Last updated:**
-
-12/01/2023
+**First published:** 16/02/2009 **Last updated:** 12/01/2023
 
 [View](/pt/documents/all-authorised-presentations/zarzio-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (149.45 KB - PDF)
 
-**First published:**
-
-16/02/2009
-
-**Last updated:**
-
-12/01/2023
+**First published:** 16/02/2009 **Last updated:** 12/01/2023
 
 [View](/ro/documents/all-authorised-presentations/zarzio-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (152.83 KB - PDF)
 
-**First published:**
-
-16/02/2009
-
-**Last updated:**
-
-12/01/2023
+**First published:** 16/02/2009 **Last updated:** 12/01/2023
 
 [View](/sk/documents/all-authorised-presentations/zarzio-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (150.36 KB - PDF)
 
-**First published:**
-
-16/02/2009
-
-**Last updated:**
-
-12/01/2023
+**First published:** 16/02/2009 **Last updated:** 12/01/2023
 
 [View](/sl/documents/all-authorised-presentations/zarzio-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (105.78 KB - PDF)
+suomi (FI) (105.78 KB - PDF)
 
-**First published:**
-
-16/02/2009
-
-**Last updated:**
-
-12/01/2023
+**First published:** 16/02/2009 **Last updated:** 12/01/2023
 
 [View](/fi/documents/all-authorised-presentations/zarzio-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (106.95 KB - PDF)
 
-**First published:**
-
-16/02/2009
-
-**Last updated:**
-
-12/01/2023
+**First published:** 16/02/2009 **Last updated:** 12/01/2023
 
 [View](/sv/documents/all-authorised-presentations/zarzio-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (110.11 KB - PDF)
+
+**First published:** 16/02/2009 **Last updated:** 12/01/2023
+
+[View](/is/documents/all-authorised-presentations/zarzio-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (112.45 KB - PDF)
+
+**First published:** 16/02/2009 **Last updated:** 12/01/2023
+
+[View](/no/documents/all-authorised-presentations/zarzio-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine Zarzio Active substance filgrastim International non-proprietary name (INN) or common name filgrastim Therapeutic area (MeSH)
+Name of medicine
+
+Zarzio
+
+Active substance
+
+filgrastim
+
+International non-proprietary name (INN) or common name
+
+filgrastim
+
+Therapeutic area (MeSH)
 
 - Hematopoietic Stem Cell Transplantation
 - Cancer
 
-Anatomical therapeutic chemical (ATC) code L03AA02
+Anatomical therapeutic chemical (ATC) code
+
+L03AA02
 
 ### Pharmacotherapeutic group
 
@@ -1027,7 +694,9 @@ Immunostimulants
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/000917
+EMA product number
+
+EMEA/H/C/000917
 
 Biosimilar
 
@@ -1039,7 +708,13 @@ Sandoz GmbH
 
 Biochemiestrasse 10
 
-Marketing authorisation issued 06/02/2009 Revision 27
+Marketing authorisation issued
+
+06/02/2009
+
+Revision
+
+27
 
 ## Assessment history
 
@@ -1047,17 +722,23 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Zarzio : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (291.48 KB - PDF)
+English (EN) (154.25 KB - PDF)
 
-**First published:** 09/11/2009
-
-**Last updated:** 08/07/2025
+**First published:** 05/06/2026
 
 [View](/en/documents/procedural-steps-after/zarzio-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+
+Zarzio : EPAR - Procedural steps taken and scientific information after authorisation (archive)
+
+English (EN) (291.48 KB - PDF)
+
+**First published:** 09/11/2009 **Last updated:** 05/06/2026
+
+[View](/en/documents/procedural-steps-after/zarzio-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 Zarzio - EMEA/H/C/000917 &amp; 918/P46/022 : EPAR - Assessment report
 
@@ -1065,21 +746,17 @@ Reference Number: EMA/210565/2021
 
 English (EN) (435.26 KB - PDF)
 
-**First published:** 24/06/2021
-
-**Last updated:** 24/06/2021
+**First published:** 24/06/2021 **Last updated:** 24/06/2021
 
 [View](/en/documents/variation-report/zarzio-emeahc000917-918p46022-epar-assessment-report_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Zarzio : EPAR - Public assessment report
 
 English (EN) (512.08 KB - PDF)
 
-**First published:** 16/02/2009
-
-**Last updated:** 16/02/2009
+**First published:** 16/02/2009 **Last updated:** 16/02/2009
 
 [View](/en/documents/assessment-report/zarzio-epar-public-assessment-report_en.pdf)
 
@@ -1089,23 +766,179 @@ Reference Number: EMEA/CHMP/574426/2008
 
 English (EN) (82.32 KB - PDF)
 
-**First published:** 20/11/2008
-
-**Last updated:** 20/11/2008
+**First published:** 20/11/2008 **Last updated:** 20/11/2008
 
 [View](/en/documents/smop-initial/committee-medicinal-products-human-use-summary-positive-opinion-zarzio_en.pdf)
 
-#### Related content
+## Product information - with tracked changes
+
+The approved product information for this medicine is available below showing the changes since the previous procedure affecting the product information. The same document without tracked changes is above under 'Product information'.
+
+Zarzio : EPAR - Product information - tracked changes
+
+English (EN) (858.43 KB - DOCX)
+
+**First published:** 05/06/2026
+
+[View](/en/documents/product-information-tracked-changes/zarzio-epar-product-information-tracked-changes_en.docx)
+
+[Other languages (24)](#file-language-dropdown-428)
+
+български (BG) (706.76 KB - DOCX)
+
+**First published:** 05/06/2026
+
+[View](/bg/documents/product-information-tracked-changes/zarzio-epar-product-information-tracked-changes_bg.docx)
+
+español (ES) (698.99 KB - DOCX)
+
+**First published:** 05/06/2026
+
+[View](/es/documents/product-information-tracked-changes/zarzio-epar-product-information-tracked-changes_es.docx)
+
+čeština (CS) (746.85 KB - DOCX)
+
+**First published:** 05/06/2026
+
+[View](/cs/documents/product-information-tracked-changes/zarzio-epar-product-information-tracked-changes_cs.docx)
+
+dansk (DA) (741.64 KB - DOCX)
+
+**First published:** 05/06/2026
+
+[View](/da/documents/product-information-tracked-changes/zarzio-epar-product-information-tracked-changes_da.docx)
+
+Deutsch (DE) (694.68 KB - DOCX)
+
+**First published:** 05/06/2026
+
+[View](/de/documents/product-information-tracked-changes/zarzio-epar-product-information-tracked-changes_de.docx)
+
+eesti (ET) (686.54 KB - DOCX)
+
+**First published:** 05/06/2026
+
+[View](/et/documents/product-information-tracked-changes/zarzio-epar-product-information-tracked-changes_et.docx)
+
+ελληνικά (EL) (721.75 KB - DOCX)
+
+**First published:** 05/06/2026
+
+[View](/el/documents/product-information-tracked-changes/zarzio-epar-product-information-tracked-changes_el.docx)
+
+français (FR) (771.53 KB - DOCX)
+
+**First published:** 05/06/2026
+
+[View](/fr/documents/product-information-tracked-changes/zarzio-epar-product-information-tracked-changes_fr.docx)
+
+hrvatski (HR) (766.18 KB - DOCX)
+
+**First published:** 05/06/2026
+
+[View](/hr/documents/product-information-tracked-changes/zarzio-epar-product-information-tracked-changes_hr.docx)
+
+italiano (IT) (733.92 KB - DOCX)
+
+**First published:** 05/06/2026
+
+[View](/it/documents/product-information-tracked-changes/zarzio-epar-product-information-tracked-changes_it.docx)
+
+latviešu (LV) (765.8 KB - DOCX)
+
+**First published:** 05/06/2026
+
+[View](/lv/documents/product-information-tracked-changes/zarzio-epar-product-information-tracked-changes_lv.docx)
+
+lietuvių (LT) (754.28 KB - DOCX)
+
+**First published:** 05/06/2026
+
+[View](/lt/documents/product-information-tracked-changes/zarzio-epar-product-information-tracked-changes_lt.docx)
+
+magyar (HU) (780.5 KB - DOCX)
+
+**First published:** 05/06/2026
+
+[View](/hu/documents/product-information-tracked-changes/zarzio-epar-product-information-tracked-changes_hu.docx)
+
+Malti (MT) (733.44 KB - DOCX)
+
+**First published:** 05/06/2026
+
+[View](/mt/documents/product-information-tracked-changes/zarzio-epar-product-information-tracked-changes_mt.docx)
+
+Nederlands (NL) (731.11 KB - DOCX)
+
+**First published:** 05/06/2026
+
+[View](/nl/documents/product-information-tracked-changes/zarzio-epar-product-information-tracked-changes_nl.docx)
+
+polski (PL) (737.32 KB - DOCX)
+
+**First published:** 05/06/2026
+
+[View](/pl/documents/product-information-tracked-changes/zarzio-epar-product-information-tracked-changes_pl.docx)
+
+português (PT) (733.34 KB - DOCX)
+
+**First published:** 05/06/2026
+
+[View](/pt/documents/product-information-tracked-changes/zarzio-epar-product-information-tracked-changes_pt.docx)
+
+română (RO) (734.47 KB - DOCX)
+
+**First published:** 05/06/2026
+
+[View](/ro/documents/product-information-tracked-changes/zarzio-epar-product-information-tracked-changes_ro.docx)
+
+slovenčina (SK) (730.31 KB - DOCX)
+
+**First published:** 05/06/2026
+
+[View](/sk/documents/product-information-tracked-changes/zarzio-epar-product-information-tracked-changes_sk.docx)
+
+slovenščina (SL) (720.19 KB - DOCX)
+
+**First published:** 05/06/2026
+
+[View](/sl/documents/product-information-tracked-changes/zarzio-epar-product-information-tracked-changes_sl.docx)
+
+suomi (FI) (702.5 KB - DOCX)
+
+**First published:** 05/06/2026
+
+[View](/fi/documents/product-information-tracked-changes/zarzio-epar-product-information-tracked-changes_fi.docx)
+
+svenska (SV) (714.42 KB - DOCX)
+
+**First published:** 05/06/2026
+
+[View](/sv/documents/product-information-tracked-changes/zarzio-epar-product-information-tracked-changes_sv.docx)
+
+Íslenska (IS) (729.17 KB - DOCX)
+
+**First published:** 05/06/2026
+
+[View](/is/documents/product-information-tracked-changes/zarzio-epar-product-information-tracked-changes_is.docx)
+
+norsk (NO) (723.82 KB - DOCX)
+
+**First published:** 05/06/2026
+
+[View](/no/documents/product-information-tracked-changes/zarzio-epar-product-information-tracked-changes_no.docx)
+
+## Related content
 
 - [Biosimilar medicines](/en/human-regulatory/overview/biosimilar-medicines)
 
-#### Topics
+## Topics
 
 - [Biosimilars](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A45)
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 08/07/2025
+**This page was last updated on**
+
+05/06/2026
 
 ## Share this page
-
-[Back to top](#main-content)

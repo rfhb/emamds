@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-04-22 09:21:26
+document_datetime: 2026-06-04 11:23:52
 document_pages: 31
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/enflonsia-epar-product-information_en.pdf
 document_name: enflonsia-epar-product-information_en.pdf
 version: success
-processing_time: 6.3557218
-conversion_datetime: 2026-04-25 16:11:11.491622
+processing_time: 10.3869989
+conversion_datetime: 2026-06-07 12:11:53.105935
 docling_version:
-  docling-serve: 1.16.1
-  docling-jobkit: 1.17.1
-  docling: 2.90.0
-  docling-core: 2.74.0
-  docling-ibm-models: 3.13.0
-  docling-parse: 5.9.0
+  docling-serve: 1.21.0
+  docling-jobkit: 1.20.1
+  docling: 2.97.0
+  docling-core: 2.78.0
+  docling-ibm-models: 3.13.2
+  docling-parse: 6.2.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -46,7 +46,7 @@ For the full list of  excipients, see section 6.1.
 
 Solution for injection (injection)
 
-Clear to slightly opalescent, colourless to slightly yellow solution, with a pH of  5.5 -6.5, and an osmolality of 320 -420 mOsm/kg.
+Clear to slightly opalescent, colourless to slightly yellow solution, with a pH of 5.5 -6.5, and an osmolality of 320 -420 mOsm/kg.
 
 ## 4. CLINICAL PARTICULARS
 
@@ -82,7 +82,7 @@ The safety and efficacy of clesrovimab in children aged 1 to 18 years have not y
 
 ## Method of administration
 
-Enflonsia is for intramuscular use only.
+## Enflonsia is for intramuscular use only.
 
 The medicinal product should be administered intramuscularly by a healthcare professional, in the anterolateral aspect of the thigh. It should not be injected in the gluteal area or areas where there may be a major nerve trunk and/or blood vessel.
 
@@ -116,13 +116,13 @@ No interaction studies have been performed. Monoclonal antibodies do not typical
 
 <div style=\"page-break-after: always\"></div>
 
-Clesrovimab does not interfere with reverse transcriptase polymerase chain reaction (RT-PCR) or rapid antigen detection RSV diagnostic assays that employ commercially available antibodies targeting antigenic site 0, I, II, III, or V on the RSV fusion (F) protein. For rapid antigen detection RSV diagnostic assay results which are negative when clinical observations are consistent with RSV infection, it is recommended to confirm using an RT-PCR-based assay.
+Clesrovimab does not interfere with reverse transcriptase polymerase chain reaction (RT-PCR) or rapid antigen detection RSV diagnostic assays that employ commercially available antibodies targeting antigenic site 0, I, II, III, or V on the RSV f usion (F) protein. For rapid antigen detection RSV diagnostic assay results which are negative when clinical observations are consistent with RSV infection, it is recommended to conf irm using an RT-PCR-based assay.
 
 ## Concomitant administration with childhood vaccines
 
-Since clesrovimab is a monoclonal antibody, a passive immunisation specific for RSV, it is not expected to interfere with the active immune response to co-administered vaccines.
+Since clesrovimab is a monoclonal antibody, a passive immunisation specif ic for RSV, it is not expected to interfere with the active immune response to co-administered vaccines.
 
-There is limited experience of co-administration with vaccines. In clinical studies, when clesrovimab was given concomitantly with routine childhood vaccines, the safety profile of the co-administered regimen was similar to the safety profile when clesrovimab and childhood vaccines were administered alone . Clesrovimab can be given concomitantly with childhood vaccines.
+There is limited experience of co-administration with vaccines. In clinical studies, when clesrovimab was given concomitantly with routine childhood vaccines, the safety profile of the co-administered regimen was similar to the safety prof ile when clesrovimab and childhood vaccines were administered alone . Clesrovimab can be given concomitantly with childhood vaccines.
 
 When clesrovimab is administered concomitantly with injectable vaccines, it should be given using a separate syringe and at a different injection-site. It should not be mixed with any vaccines or medications in the same syringe or vial (see section 6.2).
 
@@ -146,7 +146,7 @@ The most frequent adverse reactions were injection-site pain (6.5%), injection-s
 
 Safety was evaluated in 2 854 infants who received clesrovimab in phase 2b/3 and phase 3 clinical studies (Study 004 and Study 007, respectively) (see section 5.1).
 
-Table 1 presents the adverse reactions reported in 2 409 preterm and full-term inf ants (GA ≥ 29 weeks) who received clesrovimab.
+Table 1 presents the adverse reactions reported in 2 409 preterm and f ull-term inf ants (GA ≥ 29 weeks) who received clesrovimab.
 
 Adverse reactions reported with clesrovimab are listed by MedDRA system organ class and in decreasing order of  f requency. Frequencies are def ined as very common (≥ 1/10),  common (≥ 1/100 to &lt; 1/10), uncommon (≥ 1/1 000 to &lt; 1/100), rare (≥ 1/10 000 to &lt; 1/1 000), and very rare (&lt; 1/10 000) and not known (cannot be estimated from available data).
 
@@ -162,7 +162,7 @@ Table 1: Adverse reactions
 | General disorders and administration site conditions | Injection-site erythema † | Common      |
 | General disorders and administration site conditions | Injection-site swelling † | Common      |
 
-The safety profile of clesrovimab in 445 inf ants at increased risk of severe RSV disease entering their first season (Study 007, see section 5.1) was similar to palivizumab (450 infants) and consistent with the saf ety prof ile of  clesrovimab in inf ants in Study 004.
+The safety profile of clesrovimab in 445 inf ants at increased risk of  severe RSV disease entering their first season (Study 007, see section 5.1) was similar to palivizumab (450 infants) and consistent with the saf ety prof ile of  clesrovimab in inf ants in Study 004.
 
 Serious adverse events reported in early preterm inf ants GA &lt; 29 weeks were similar in number and pattern between recipients of clesrovimab (21/97 participants) and palivizumab (31/108 participants).
 
@@ -196,7 +196,7 @@ RSV A and B isolates were equipotently neutralised by clesrovimab in vitro .
 
 ## Antiviral activity
 
-An in vitro infection neutralisation assay was used to determine clesrovimab potency against RSV strains A and B using HEp-2 cells. In the laboratory, clesrovimab neutralised RSV strain A and B with an IC50 ± SD of 6.0 ± 4.3 and 3.0 ± 2.0 ng/mL, respectively. Clesrovimab was assessed for its ability to neutralise 47 RSV clinical isolates using a similar in vitro assay, with IC50 values ranging from 0.18 ng/mL to 11.11 ng/mL for RSV A and 0.58 ng/mL to 29.65 ng/mL for RSV B. The clinical isolate panel consisted of a broad range of clinical RSV isolated between years 1987 and 2016. Recent clinical isolates (RSV A and RSV B) from 2016 through 2021 were equipotently neutralised by clesrovimab as compared to the reference RSV strains. Clesrovimab neutralises the virus without the requirement of Fc ef f ector f unction.
+An in vitro inf ection neutralisation assay was used to determine clesrovimab potency against RSV strains A and B using HEp-2 cells. In the laboratory, clesrovimab neutralised RSV strain A and B with an IC50 ± SD of 6.0 ± 4.3 and 3.0 ± 2.0 ng/mL, respectively. Clesrovimab was assessed for its ability to neutralise 47 RSV clinical isolates using a similar in vitro assay, with IC50 values ranging f rom 0.18 ng/mL to 11.11 ng/mL for RSV A and 0.58 ng/mL to 29.65 ng/mL for RSV B. The clinical isolate panel consisted of  a broad range of  clinical RSV isolated between years 1987 and 2016. Recent clinical isolates (RSV A and RSV B) from 2016 through 2021 were equipotently neutralised by clesrovimab as compared to the reference RSV strains. Clesrovimab neutralises the virus without the requirement of Fc effector f unction.
 
 ## Antiviral resistance
 
@@ -212,7 +212,7 @@ In a global surveillance study conducted between 2019 and 2023 in 8 countries, w
 
 ## In clinical studies
 
-Resistance substitutions were not associated with the development of RSV-associated disease in Study 004 and Study 007. Viral genotypic testing of RSV positive nasal swabs demonstrated that the majority of the clesrovimab binding site (IV) substitutions affected residue G446, resulting in the following substitutions: G446E, G446R or G446W (RSV A) and G446E or G446R (RSV B). The G446E substitution was previously found in the GenBank database and RSV MARM study. In Study 004, there was 1 case of RSV-associated hospitalisation (RSV A) with the G446W substitution. There were no cases of RSV-associated medically attended lower respiratory infection (MALRI) associated with any G446 substitution. In Study 007, 1 case of  RSV-associated MALRI (RSV A) and 1 case of RSV-associated severe MALRI (RSV B) in clesrovimab participants within 2 weeks of dosing carried the G446R substitution. No G446 substitutions were found in the placebo or palivizumab treatment arm.
+Resistance substitutions were not associated with the development of RSV-associated disease in Study 004 and Study 007. Viral genotypic testing of RSV positive nasal swabs demonstrated that the majority of the clesrovimab binding site (IV) substitutions affected residue G446, resulting in the following substitutions: G446E, G446R or G446W (RSV A) and G446E or G446R (RSV B). The G446E substitution was previously found in the GenBank database and RSV MARM study. In Study 004, there was 1 case of RSV-associated hospitalisation (RSV A) with the G446W substitution. There were no cases of RSV-associated medically attended lower respiratory infection (MALRI) associated with any G446 substitution. In Study 007, 1 case of RSV-associated MALRI (RSV A) and 1 case of RSV-associated severe MALRI (RSV B) in clesrovimab participants within 2 weeks of dosing carried the G446R substitution. No G446 substitutions were found in the placebo or palivizumab treatment arm.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -226,9 +226,9 @@ In Study 004 and Study 007, 12.0% (124/1033) and 13.0% (34/261) of participants 
 
 There was no identified impact of ADA on pharmacokinetics, RSV serum neutralising activity, or safety of clesrovimab during RSV season 1. The impact of ADA on efficacy could not be established.
 
-## Clinical eff icacy
+## Clinical ef f icacy
 
-The efficacy and safety of clesrovimab were evaluated in preterm and full-term infants in the clinical studies 004 and 007.
+The efficacy and safety of clesrovimab were evaluated in preterm and full-term inf ants in the clinical studies 004 and 007.
 
 ## Efficacy against RSV-associated MALRI, hospitalisation, and severe MALRI in neonates and infants entering their first RSV season (Study 004)
 
@@ -246,7 +246,7 @@ RSV-associated severe MALRI, a pre-specified exploratory endpoint, characterised
 
 All eff icacy endpoints evaluated required an RSV positive RT-PCR nasopharyngeal (NP) sample.
 
-Table 2 displays the ef ficacy results f or RSV-associated disease endpoints, in order of increasing severity, in preterm and full-term infants f rom Days 1 through 150 post-dose.
+Table 2 displays the ef ficacy results f or RSV-associated disease endpoints, in order of increasing severity, in preterm and full-term infants from Days 1 through 150 post-dose.
 
 Table 2: Incidence of RSV-associated disease in preterm and full-term infants Days 1 through 150 Post-dose (Study 004)
 
@@ -265,13 +265,13 @@ The incidence rates of RSVassociated MALRI (requiring ≥ 1 indicator of LRI or 
 
 Efficacy against RSV-associated MALRI and hospitalisation in infants at increased risk of severe RSV disease entering their first RSV season (Study 007)
 
-Study 007 is a phase 3, randomised, partially blind, palivizumab controlled, multicentre study conducted in 27 countries from the Northern and Southern hemispheres to evaluate the safety, ef f icacy and pharmacokinetics of clesrovimab in early (&lt; 29 weeks GA) or moderate preterm inf ants (≥ 29 to ≤ 35 weeks GA), and infants with chronic lung disease of prematurity or congenital heart disease of any GA, who are at increased risk for severe RSV disease entering in their f irst RSV season. Participants were randomised to receive clesrovimab (n=446, including 176 infants with chronic lung disease (CLD) of prematurity or haemodynamically significant congenital heart disease (CHD) and 270 early or moderate preterm inf ants (≤ 35 weeks GA) without CLD of prematurity or CHD), or palivizumab (n=450, including 175 infants with CLD of prematurity or CHD and 275 early or moderate preterm inf ants (≤ 35 weeks GA) without CLD of prematurity or CHD) by intramuscular injection. Participants randomised to clesrovimab received a single 105 mg dose on Day 1 followed by a dose of placebo one month later; palivizumab was administered on Day 1 and every month thereafter for a total of 3 to 5 doses of  15 mg/kg.
+Study 007 is a phase 3, randomised, partially blind, palivizumab controlled, multicentre study conducted in 27 countries from the Northern and Southern hemispheres to evaluate the safety, efficacy and pharmacokinetics of clesrovimab in early (&lt; 29 weeks GA) or moderate preterm inf ants (≥ 29 to ≤ 35 weeks GA), and infants with chronic lung disease of prematurity or congenital heart disease of any GA, who are at increased risk for severe RSV disease entering in their f irst RSV season. Participants were randomised to receive clesrovimab (n=446, including 176 infants with chronic lung disease (CLD) of prematurity or haemodynamically significant congenital heart disease (CHD) and 270 early or moderate preterm inf ants (≤ 35 weeks GA) without CLD of prematurity or CHD), or palivizumab (n=450, including 175 infants with CLD of prematurity or CHD and 275 early or moderate preterm inf ants (≤ 35 weeks GA) without CLD of prematurity or CHD) by intramuscular injection. Participants randomised to clesrovimab received a single 105 mg dose on Day 1 followed by a dose of placebo one month later; palivizumab was administered on Day 1 and every month thereafter for a total of  3 to 5 doses of  15 mg/kg.
 
 <div style=\"page-break-after: always\"></div>
 
-Among participants who received clesrovimab or palivizumab, the median age of infants was 2.5 months (range: 0 to 12 months); 14.3% were ≤ 1 month of age; 44.3% were &gt; 1 to ≤ 3 months; 30.6% were &gt; 3 to ≤ 6 months; 10.8% were &gt; 6 months; and 49.8% were male. Of these participants, 27.9% had CLD, 11.3% had CHD, 5.6% were GA less than 29 weeks with neither CLD nor CHD and 55.2% were GA greater than or equal to 29 weeks with neither CLD nor CHD. The median body weight was 3.3 kg (range: 1.1 to 9.6 kg). The racial distribution was as follows: 52.2% were White; 18.1% were Asian; 15.4% were Black or African American; 12.2% were multi-racial, and 1.3% were American Indian or Alaska Native; 31.7% were of Hispanic or Latino ethnicity.
+Among participants who received clesrovimab or palivizumab, the median age of infants was 2.5 months (range: 0 to 12 months); 14.3% were ≤ 1 month of age; 44.3% were &gt; 1 to ≤ 3 months; 30.6% were &gt; 3 to ≤ 6 months; 10.8% were &gt; 6 months; and 49.8% were male. Of these participants, 27.9% had CLD, 11.3% had CHD, 5.6% were GA less than 29 weeks with neither CLD nor CHD and 55.2% were GA greater than or equal to 29 weeks with neither CLD nor CHD. The median body weight was 3.3 kg (range: 1.1 to 9.6 kg). The racial distribution was as f ollows: 52.2% were White; 18.1% were Asian; 15.4% were Black or African American; 12.2% were multi-racial, and 1.3% were American Indian or Alaska Native; 31.7% were of Hispanic or Latino ethnicity.
 
-The efficacy of clesrovimab in infants at increased risk for severe RSV disease was established by extrapolation of eff icacy of clesrovimab from Study 004 to Study 007 based on pharmacokinetic exposure (see section 5.2). In Study 007, the incidence rate of  RSV-associated MALRI (requiring ≥ 1 indicator of LRI or severity) through 150 days after dosing was 3.6% (95% CI: 2.0, 6.0; 14 cases/443 in analysis set) in the clesrovimab arm and 3.0% (95% CI: 1.6, 5.3; 12 cases/437 in the analysis set) in the palivizumab arm. The incidence rate of RSV-associated hospitalisation through 150 days after dosing was 1.3% (95% CI: 0.4, 3.0; 5 cases/443 in analysis set) in the clesrovimab arm and 1.5% (95% CI: 0.6, 3.3; 6 cases/437 in analysis set) in the palivizumab arm.
+The efficacy of clesrovimab in infants at increased risk for severe RSV disease was established by extrapolation of ef f icacy of  clesrovimab f rom Study 004 to Study 007 based on pharmacokinetic exposure (see section 5.2). In Study 007, the incidence rate of  RSV-associated MALRI (requiring ≥ 1 indicator of LRI or severity) through 150 days after dosing was 3.6% (95% CI: 2.0, 6.0; 14 cases/443 in analysis set) in the clesrovimab arm and 3.0% (95% CI: 1.6, 5.3; 12 cases/437 in the analysis set) in the palivizumab arm. The incidence rate of RSV-associated hospitalisation through 150 days after dosing was 1.3% (95% CI: 0.4, 3.0; 5 cases/443 in analysis set) in the clesrovimab arm and 1.5% (95% CI: 0.6, 3.3; 6 cases/437 in analysis set) in the palivizumab arm.
 
 ## Duration of protection
 
@@ -287,7 +287,7 @@ The estimated clesrovimab absolute bioavailability is 77.8% and the median (rang
 
 ## Distribution
 
-The estimated apparent volume of distribution for clesrovimab is 830 mL, for a typical infant weighing 5 kg.
+The estimated apparent volume of distribution for clesrovimab is 830 mL, f or a typical infant weighing 5 kg.
 
 ## Biotransformation
 
@@ -295,17 +295,17 @@ Clesrovimab is degraded into small peptides by catabolic pathways.
 
 ## Elimination
 
-The clesrovimab terminal half-life is approximately 44.0 days and the estimated apparent clearance is 19.7 mL/day for a typical infant weighing 5 kg. Consistent with other monoclonal antibodies, clesrovimab clearance is lower in younger inf ants and/or infants with lower body weight.
+The clesrovimab terminal half-lif e is approximately 44.0 days and the estimated apparent clearance is 19.7 mL/day for a typical infant weighing 5 kg. Consistent with other monoclonal antibodies, clesrovimab clearance is lower in younger infants and/or infants with lower body weight.
 
 ## Special populations
 
-No clinically signif icant dif f erences in the pharmacokinetics of clesrovimab were observed based on race or vulnerability to severe RSV disease (i.e., CLD, CHD, or GA &lt; 29 weeks). No clinical studies have been conducted to investigate the effect of renal or hepatic impairment. An effect of renal or hepatic impairment on clesrovimab pharmacokinetics is not expected.
+No clinically signif icant dif f erences in the pharmacokinetics of clesrovimab were observed based on race or vulnerability to severe RSV disease (i.e., CLD, CHD, or GA &lt; 29 weeks). No clinical studies have been conducted to investigate the eff ect of renal or hepatic impairment. An ef fect of renal or hepatic impairment on clesrovimab pharmacokinetics is not expected.
 
 <div style=\"page-break-after: always\"></div>
 
-Pharmacokinetic/pharmacodynamic relationships
+## Pharmacokinetic/pharmacodynamic relationships
 
-RSV serum neutralising antibody (SNA) titre correlates with clesrovimab serum concentration. Following intramuscular administration of clesrovimab in infants, the RSV neutralising antibody titres in serum were estimated to be approximately 7 times higher than baseline at 4 hours after clesrovimab injection, and maximum titres were reached by Day 7, for a typical infant weighing 5 kg. At days 150 and 180 post administration of clesrovimab, the RSV neutralising antibody titres in serum were estimated to be approximately 11 times and 7 times higher than baseline.
+RSV serum neutralising antibody (SNA) titre correlates with clesrovimab serum concentration. Following intramuscular administration of clesrovimab in infants, the RSV neutralising antibody titres in serum were estimated to be approximately 7 times higher than baseline at 4 hours af ter clesrovimab injection, and maximum titres were reached by Day 7, for a typical infant weighing 5 kg. At days 150 and 180 post administration of clesrovimab, the RSV neutralising antibody titres in serum were estimated to be approximately 11 times and 7 times higher than baseline.
 
 Due to flat exposure eff icacy relationship over the range of exposures studied in Study 004, no exposure or SNA titre threshold could be identified to confer protection against RSV disease.
 
@@ -325,9 +325,9 @@ In the absence of compatibility studies, this medicinal product must not be mixe
 
 ## 6.3 Shelf life
 
-30 months
+3 years
 
-Enflonsia may be kept at room temperature (20 °C - 25 °C) for a maximum 48 hours. After removal from the refrigerator, it must be used within 48 hours or discarded.
+Enflonsia may be kept at room temperature (20 °C - 25 °C) for a maximum 48 hours. Af ter removal from the refrigerator, it must be used within 48 hours or discarded.
 
 ## 6.4 Special precautions for storage
 
@@ -339,23 +339,13 @@ Store in a refrigerator (2 °C -8 °C). Do not freeze. Keep the pre-filled syrin
 
 Enflonsia is available in the following pack sizes:
 
-- 1 pre-filled syringe
-- 1 pre-filled syringe + 1 needle
-- 1 pre-filled syringe + 2 needles
+- 1 pre-f illed syringe
+- 1 pre-f illed syringe + 1 needle
+- 1 pre-f illed syringe + 2 needles
 - 10 pre-filled syringes
 - 10 pre-filled syringes + 10 needles
 
 <div style=\"page-break-after: always\"></div>
-
-Thumb press
-
-Finger flange extender
-
--
-
-Luer lock adaptor Plastic rigid
-
-tip cap
 
 - 10 pre-filled syringes + 20 needles
 - Multipacks containing 50 (5 packs of 10) pre-filled syringes
@@ -364,7 +354,7 @@ Not all pack sizes may be marketed.
 
 ## 6.6 Special precautions for disposal and other handling
 
-Before injection, remove the carton from the refrigerator and allow the pre-filled syringe to come to room temperature for approximately 15 minutes. Parenteral medicinal products should be inspected visually for particulate matter and discolouration prior to administration. It should not be used if particulate matter or discolouration is found. Do not use Enf lonsia if  the pre-filled syringe has been dropped or damaged, the security seal on the carton has been broken, or the expiry date has passed. Refer to Figure 1 f or pre-f illed syringe components.
+Before injection, remove the carton from the ref rigerator and allow the pre-filled syringe to come to room temperature for approximately 15 minutes. Parenteral medicinal products should be inspected visually for particulate matter and discolouration prior to administration. It should not be used if particulate matter or discolouration is found. Do not use Enf lonsia if  the pre-filled syringe has been dropped or damaged, the security seal on the carton has been broken, or the expiry date has passed. Refer to Figure 1 for pre-f illed syringe components.
 
 Figure 1: Pre-filled syringe components
 
@@ -386,15 +376,17 @@ Merck Sharp &amp; Dohme B.V. Waarderweg 39 2031 BN Haarlem The Netherlands
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/25/1984/001 EU/1/25/1984/002 EU/1/25/1984/003 EU/1/25/1984/004 EU/1/25/1984/005 EU/1/25/1984/006 EU/1/25/1984/007
+EU/1/25/1984/001 EU/1/25/1984/002 EU/1/25/1984/003 EU/1/25/1984/004 EU/1/25/1984/005 EU/1/25/1984/006
+
+EU/1/25/1984/007
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-Date of first authorisation:
+Date of first authorisation: 15 April 2026
 
 ## 10. DATE OF REVISION OF THE TEXT
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
+Detailed information on this medicinal product is available on the website of  the European Medicines Agency https://www.ema.europa.eu.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -437,8 +429,8 @@ The marketing authorisation holder (MAH) shall perform the required pharmacovigi
 
 An updated RMP should be submitted:
 
-- At the request of the European Medicines Agency;
-- Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
+- At the request of  the European Medicines Agency;
+- Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benef it/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -466,23 +458,17 @@ Each pre-filled syringe contains 105 mg of clesrovimab in 0.7 mL.
 
 ## 3. LIST OF EXCIPIENTS
 
-histidine histidine hydrochloride monohydrate
-
-arginine hydrochloride sucrose
-
-polysorbate 80
-
-water for injections
+histidine, histidine hydrochloride monohydrate, arginine hydrochloride, sucrose, polysorbate 80, water for injections.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
 ## Solution for injection
 
-1 pre-f illed syringe
+1 pre-filled syringe
 
-1 pre-filled syringe + 1 needle
+1 pre-f illed syringe + 1 needle
 
-1 pre-filled syringe + 2 needles
+1 pre-f illed syringe + 2 needles
 
 10 pre-filled syringes
 
@@ -502,11 +488,11 @@ Keep out of the sight and reach of children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-<div style=\"page-break-after: always\"></div>
-
 ## 8. EXPIRY DATE
 
 EXP
+
+<div style=\"page-break-after: always\"></div>
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
@@ -532,7 +518,7 @@ The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBERS
 
-EU/1/25/1984/001 - 1 pre-f illed syringe
+EU/1/25/1984/001 - 1 pre-filled syringe
 
 EU/1/25/1984/002 - 1 pre-filled syringe + 1 needle
 
@@ -560,12 +546,13 @@ Justif ication f or not including Braille accepted.
 
 2D barcode carrying the unique identifier included.
 
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+
+PC
+
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER-HUMANREADABLE DATA   |
-|-------|----------------------------------------|
-
-PC SN NN
+SN NN
 
 <div style=\"page-break-after: always\"></div>
 
@@ -583,13 +570,7 @@ Each pre-filled syringe contains 105 mg of clesrovimab in 0.7 mL.
 
 ## 3. LIST OF EXCIPIENTS
 
-histidine histidine hydrochloride monohydrate
-
-arginine hydrochloride sucrose
-
-polysorbate 80
-
-water for injections
+histidine, histidine hydrochloride monohydrate, arginine hydrochloride, sucrose, polysorbate 80, water for injections.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -615,8 +596,6 @@ Keep out of the sight and reach of children.
 
 EXP
 
-<div style=\"page-break-after: always\"></div>
-
 ## 9. SPECIAL STORAGE CONDITIONS
 
 Store in a refrigerator.
@@ -625,19 +604,15 @@ Do not freeze.
 
 Keep the pre-filled syringe in the outer carton in order to protect from light.
 
+<div style=\"page-break-after: always\"></div>
+
 Do not shake.
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Merck Sharp &amp; Dohme B.V.
-
-Waarderweg 39
-
-2031 BN Haarlem
-
-The Netherlands
+Merck Sharp &amp; Dohme B.V. Waarderweg 39 2031 BN Haarlem The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -655,17 +630,13 @@ Lot
 
 Justif ication f or not including Braille accepted.
 
-## 17. UNIQUE IDENTIFIER -2D BARCODE
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC
-
-SN
-
-NN
+PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
@@ -683,17 +654,11 @@ Each pre-filled syringe contains 105 mg of clesrovimab in 0.7 mL.
 
 ## 3. LIST OF EXCIPIENTS
 
-histidine histidine hydrochloride monohydrate
-
-arginine hydrochloride sucrose
-
-polysorbate 80
-
-water for injections
+histidine, histidine hydrochloride monohydrate, arginine hydrochloride, sucrose, polysorbate 80, water for injections.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-## Solution for injection
+Solution for injection
 
 10 pre-filled syringes
 
@@ -715,8 +680,6 @@ Keep out of the sight and reach of children.
 
 EXP
 
-<div style=\"page-break-after: always\"></div>
-
 ## 9. SPECIAL STORAGE CONDITIONS
 
 Store in a refrigerator.
@@ -725,15 +688,17 @@ Do not freeze
 
 Keep the pre-filled syringe in the outer carton in order to protect from light.
 
+<div style=\"page-break-after: always\"></div>
+
 Do not shake.
 
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Merck Sharp &amp; Dohme B.V.
+Merck Sharp &amp; Dohme B.V. Waarderweg 39 2031 BN Haarlem
 
-Waarderweg 39 2031 BN Haarlem The Netherlands
+The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -751,18 +716,18 @@ Lot
 
 Justif ication f or not including Braille accepted.
 
-17. UNIQUE IDENTIFIER -2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUMPARTICULARS TO APPEARON SMALL IMMEDIATE PACKAGINGUNITS   |
-|-----------------------------------------------------------------|
-| PRE-FILLED SYRINGE LABEL                                        |
+| MINIMUMPARTICULARS TO APPEARONSMALLIMMEDIATE PACKAGINGUNITS   |
+|---------------------------------------------------------------|
+| PRE-FILLED SYRINGE LABEL                                      |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|-------------------------------------------------------------|
+| 1.   | NAMEOFTHEMEDICINALPRODUCTANDROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------|
 
 Enflonsia 105 mg injection clesrovimab IM
 
@@ -779,8 +744,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BYWEIGHT,BYVOLUMEORBYUNIT   |
-|------|--------------------------------------|
+| 5.   | CONTENTSBYWEIGHT,BYVOLUMEORBYUNIT   |
+|------|-------------------------------------|
 
 0.7 mL
 
@@ -803,20 +768,20 @@ MSD
 
 ## clesrovimab
 
-This medicine is subject to additional monitoring. This will allow quick identif ication of new safety inf ormation. You can help by reporting any side effects your child may get. See the end of section 4 for how to report side ef fects.
+This medicine is subject to additional monitoring. This will allow quick identif ication of new safety inf ormation. You can help by reporting any side ef fects your child may get. See the end of section 4 for how to report side ef fects.
 
 ## Read all of this leaflet carefully before your child is given this medicine because it contains important information for you and your child.
 
 - -Keep this leaflet. You may need to read it again.
 - -If you have any further questions, ask your child's doctor, pharmacist or nurse.
-- -If   your  child  gets  any  side  ef f ects,  talk  to  your  child's  doctor,  pharmacist  or  nurse.  This  includes any possible side effects not listed in this leaf let. See section 4.
+- -If   your  child  gets  any  side  ef f ects,  talk  to  your  child's  doctor,  pharmacist  or  nurse.  This  includes any possible side ef fects not listed in this leaf let. See section 4.
 
 ## What is in this leaflet
 
 1. What Enflonsia is and what it is used for
 2. What you need to know before your child is given Enflonsia
 3. How and when is Enflonsia given
-4. Possible side effects
+4. Possible side ef f ects
 5. How to store Enflonsia
 6. Contents of the pack and other information
 
@@ -828,7 +793,7 @@ It is given to newborns and babies up to 12 months of age who are born during or
 
 RSV season is the time of year when RSV infections are most common, usually occurring autumn through spring of the next year.
 
-RSV is a common respiratory virus that usually causes symptoms similar to the common cold but can also affect the lungs. Signs of  RSV infection may include a runny nose, trouble feeding, dif ficulty breathing, coughing, sneezing, wheezing (whistling sound during breathing) or fever.
+RSV is a common respiratory virus that usually causes symptoms similar to the common cold but can also af f ect the lungs. Signs of  RSV inf ection may include a runny nose, trouble feeding, dif ficulty breathing, coughing, sneezing, wheezing (whistling sound during breathing) or fever.
 
 Anyone can become infected by RSV. Almost all children get an RSV infection by the time they are 2 years old. While most recover quickly, RSV can cause severe illness including inflammation of the small airways in the lung (bronchiolitis) and infection of the lungs (pneumonia) that may lead to hospitalisation and even death. Children at greatest risk include newborns and babies up to 12 months of age, especially those 6 months and younger, or with medical vulnerabilities, for example being born too soon or with heart or lung problems.
 
@@ -844,7 +809,7 @@ Tell your child's doctor, pharmacist or nurse about any medical conditions or al
 
 ## Warnings and precautions
 
-Serious allergic reactions may happen with Enflonsia .  Tell  your  child's doctor or seek medical care right away if your child has any of the following signs and symptoms of a serious allergic reaction, which may include:
+Serious allergic reactions may happen with Enflonsia .  Tell  your  child's  doctor  or  seek  medical  care right away if your child has any of  the following signs and symptoms of a serious allergic reaction, which may include:
 
 - swelling of the face, mouth, or tongue
 - difficulty swallowing or breathing
@@ -853,7 +818,7 @@ Serious allergic reactions may happen with Enflonsia .  Tell  your  child's doct
 - muscle weakness
 - severe rash, hives or itching
 
-Talk to your child's healthcare prof essional bef ore your ch ild is given Enf lonsia if  they have any bleeding problems, bruises easily, or are taking medicines to prevent blood clots.
+Talk to your child's healthcare prof essional bef ore your child is given Enf lonsia if  they have any bleeding problems, bruises easily, or are taking medicines to prevent blood clots.
 
 ## Children and adolescents
 
@@ -861,7 +826,7 @@ Do not give this medicine to children between the age of 1 and 18 years of age. 
 
 ## Other medicines and Enflonsia
 
-Tell your child's doctor or pharmacist if  your child is taking,  has  recently taken or might take any other medicines.
+Tell your child's doctor or pharmacist if  your child is taking,  has  recently taken or might take a ny other medicines.
 
 Enflonsia may be given at the same time as vaccines that are part of the national immunisation programme.
 
@@ -875,9 +840,9 @@ Enflonsia is given by a healthcare prof essional as an injection in the muscle. 
 
 The recommended dose is 105 mg given as a single injection. This is given before the start of or during the RSV season.
 
-Your child's healthcare prof essional can tell you when the RSV season starts in your area.
+Your child's healthcare prof e ssional can tell you when the RSV season starts in your area.
 
-If your child is scheduled to have surgery for certain types of heart disease ,  your  child's  healthcare professional may need to give your child an additional injection of Enf lonsia after surgery.
+If your child is scheduled to have surgery for certain types of heart disease ,  your  child's  healthcare professional may need to give your child an additional injection of Enflonsia after surgery.
 
 Your child may still get RSV disease af ter receiving this medicine. Talk to your child's healthcare professional about what signs to look for.
 
@@ -885,9 +850,9 @@ If   you  have  any  f urther  questions on the  use  of   this  medicine,  ask 
 
 ## 4. Possible side effects
 
-Like all medicines, this medicine can cause side effects, although not everybody gets them.
+Like all medicines, this medicine can cause side ef fects, although not everybody gets them.
 
-Tell your c hild's doctor, pharmacist or nurse if your child has any of the following side ef fects:
+Tell your child's doctor, pharmacist or nurse if your child has any of the following side ef fects:
 
 <div style=\"page-break-after: always\"></div>
 
@@ -902,7 +867,7 @@ Uncommon ( may affect up to 1 in 100 children)
 
 ## Reporting of side effects
 
-If   your  child  gets  any  side  ef f ects,  talk  to  your  child's  doctor,  pharmacist  or  nurse.  This  includes  any possible side eff ects not listed in this leaf let. You can also report side ef f ects directly via the national reporting system listed in Appendix V. By reporting side effects, you can help provide more information on the safety of this medicine.
+If   your  child  gets  any  side  ef f ects,  talk  to  your  child's  doctor,  pharmacist  or  nurse.  This  includes  any possible side ef f ects not listed in this leaf let. You can also report side ef f ects directly via the national reporting system listed in Appendix V. By reporting side effects, you can help provide more information on the safety of  this medicine.
 
 ## 5. How to store Enflonsia
 
@@ -912,7 +877,7 @@ Keep this medicine out of reach of children.
 
 Do not use this medicine after the expiry date which is stated on the carton after EXP. The expiry date refers to the last day of  that month.
 
-Store in a refrigerator (2 °C -8 °C). Do not freeze. Af ter removal f rom the refrigerator, the medicine must be used within 48 hours or discarded.
+Store in a refrigerator (2 °C -8 °C). Do not freeze. Af ter removal f rom the ref rigerator, the medicine must be used within 48 hours or discarded.
 
 Keep the pre-filled syringe in the outer carton in order to protect from light. Do not shake.
 
@@ -922,7 +887,7 @@ Any unused medicine or waste material should be disposed of in accordance with l
 
 ## What Enflonsia contains
 
-- -The active substance is clesrovimab. One pre-filled syringe of 0.7 mL contains 105 mg of clesrovimab.
+- -The active substance is clesrovimab. One pre-filled syringe of  0.7 mL contains 105 mg of clesrovimab.
 - -The other ingredients are histidine, histidine hydrochloride monohydrate, arginine hydrochloride, sucrose, polysorbate 80 (E433) (see section 2 ' Enflonsia contains polysorbate 80') and water for injections.
 
 ## What Enflonsia looks like and contents of the pack
@@ -931,9 +896,9 @@ Enflonsia is a clear to slightly opalescent, colourless to slightly yellow solut
 
 Enflonsia is available in the following pack sizes:
 
-- 1 pre-filled syringe
-- 1 pre-filled syringe + 1 needle
-- 1 pre-filled syringe + 2 needles
+- 1 pre-f illed syringe
+- 1 pre-f illed syringe + 1 needle
+- 1 pre-f illed syringe + 2 needles
 - 10 pre-filled syringes
 - 10 pre-filled syringes + 10 needles
 - 10 pre-filled syringes + 20 needles
@@ -961,17 +926,19 @@ Tél/Tel: +32(0)27766211 dpoc\\_belux@msd.com
 
 ## Česká republika
 
-Merck Sharp &amp; Dohme s.r.o.
-
-Tel.: +420 277 050 000 dpoc\\_czechslovak@msd.com
+Merck Sharp &amp; Dohme s.r.o. Tel.: +420 277 050 000 dpoc\\_czechslovak@msd.com
 
 ## Danmark
 
-MSD Danmark ApS Tlf.: +45 4482 4000 dkmail@msd.com
+MSD Danmark ApS
+
+Tlf.: +45 4482 4000 dkmail@msd.com
 
 ## Deutschland
 
-MSD Sharp &amp; Dohme GmbH Tel.: +49 (0) 89 20 300 4500 medinfo@msd.de
+MSD Sharp &amp; Dohme GmbH
+
+Tel.: +49 (0) 89 20 300 4500 medinfo@msd.de
 
 ## Eesti
 
@@ -1005,7 +972,9 @@ Tél/Tel: +32(0)27766211 dpoc\\_belux@msd.com
 
 ## Magyarország
 
-MSD Pharma Hungary Kft. Tel.: +36 1 888 5300 hungary\\_msd@msd.com
+MSD Pharma Hungary Kft.
+
+Tel.: +36 1 888 5300 hungary\\_msd@msd.com
 
 ## Malta
 
@@ -1015,7 +984,9 @@ Tel: 8007 4433 (+356 99917558) dpoccyprus@msd.com
 
 ## Nederland
 
-Merck Sharp &amp; Dohme B.V. Tel: 0800 9999000 (+31 23 5153153) medicalinfo.nl@msd.com
+Merck Sharp &amp; Dohme B.V.
+
+Tel: 0800 9999000 (+31 23 5153153) medicalinfo.nl@msd.com
 
 ## Norge
 
@@ -1029,11 +1000,15 @@ Merck Sharp &amp; Dohme Ges.m.b.H. Tel: +43 (0) 1 26 044 dpoc\\_austria@msd.com
 
 ## Polska
 
-MSD Polska Sp. z o.o. Tel.: +48 22 549 51 00 msdpolska@msd.com
+MSD Polska Sp. z o.o.
+
+Tel.: +48 22 549 51 00 msdpolska@msd.com
 
 ## Portugal
 
-Merck Sharp &amp; Dohme, Lda Tel.: +351 21 4465700 inform\\_pt@msd.com
+Merck Sharp &amp; Dohme, Lda
+
+Tel.: +351 21 4465700 inform\\_pt@msd.com
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1089,7 +1064,7 @@ Detailed information on this medicine is available on the European Medicines Age
 
 The following information is intended for healthcare professionals only:
 
-- Before injection, remove the carton from the refrigerator and allow the pre-filled syringe to come to room temperature for approximately 15 minutes.
+- Before injection, remove the carton from the ref rigerator and allow the pre-filled syringe to come to room temperature for approximately 15 minutes.
 - Visually inspect the medicinal product for particulate matter and discolouration. The medicinal product is a clear to slightly opalescent, colourless to slightly yellow solution. It should not be used if particulate matter or discolouration is found.
 - Do not use Enflonsia if the pre-filled syringe has been dropped or damaged, the security seal on the carton has been broken, or the expiry date has passed.
 - Hold the syringe barrel in one hand to unscrew the tip cap by twisting it counter-clockwise with the other hand. Do not remove the Luer lock adaptor or the finger f lange extender.
@@ -1097,9 +1072,7 @@ The following information is intended for healthcare professionals only:
 
 ## România
 
-Merck Sharp &amp; Dohme Romania S.R.L.
-
-Tel.: +40 21 529 29 00
+Merck Sharp &amp; Dohme Romania S.R.L. Tel.: +40 21 529 29 00
 
 msdromania@msd.com
 
@@ -1115,9 +1088,7 @@ msd.slovenia@msd.com
 
 Merck Sharp &amp; Dohme, s. r. o.
 
-Tel.: +421 2 58282010
-
-dpoc\\_czechslovak@msd.com
+Tel.: +421 2 58282010 dpoc\\_czechslovak@msd.com
 
 ## Suomi/Finland
 

@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-05-18 16:12:39
+document_datetime: 2026-06-05 14:40:18
 document_pages: 32
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/ixchiq-epar-product-information_en.pdf
 document_name: ixchiq-epar-product-information_en.pdf
 version: success
-processing_time: 12.3083855
-conversion_datetime: 2026-05-22 23:26:32.300939
+processing_time: 11.9940456
+conversion_datetime: 2026-06-07 12:10:04.896471
 docling_version:
-  docling-serve: 1.20.0
-  docling-jobkit: 1.20.0
-  docling: 2.95.0
-  docling-core: 2.77.0
+  docling-serve: 1.21.0
+  docling-jobkit: 1.20.1
+  docling: 2.97.0
+  docling-core: 2.78.0
   docling-ibm-models: 3.13.2
-  docling-parse: 5.11.0
+  docling-parse: 6.2.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -91,7 +91,7 @@ Immunodeficient or immunosuppressed individuals due to disease or medical therap
 
 IXCHIQ should only be given when there is a significant risk of acquiring chikungunya infection, and after careful consideration of the potential risks and benefits (see Section 4.3 and below).
 
-Serious adverse reactions have been reported with the use of IXCHIQ, particularly in individuals aged 65 years and older and in individuals with multiple underlying chronic and/or uncontrolled medical conditions (see section 4.8). Severe reactogenicity or chikungunya-like adverse reactions may lead to deterioration of general condition including malaise and decreased appetite, exacerbation of preexisting diseases, confusional state, encephalopathy, or encephalitis, leading to falls, hospitalisation and death. Vaccinees should be instructed to promptly seek medical attention if they experience, after vaccination, symptoms suggestive of severe reactogenicity or severe chikungunya-like adverse reactions.
+Serious adverse reactions have been reported with the use of IXCHIQ, particularly in individuals aged 65 years and older and in individuals with multiple underlying chronic and/or uncontrolled medical conditions, but also in young adults with no relevant comorbidities (see section 4.8). Severe reactogenicity or chikungunya-like adverse reactions may lead to deterioration of general condition including malaise and decreased appetite, exacerbation of pre-existing diseases, confusional state, aseptic meningitis, encephalopathy, or encephalitis, leading to falls, hospitalisation and death. Vaccinees should be instructed to promptly seek medical attention if they experience, after vaccination, symptoms suggestive of severe reactogenicity or severe chikungunya-like adverse reactions.
 
 ## Traceability
 
@@ -107,9 +107,9 @@ Anxietyrelated reactions, including vasovagal reactions (syncope), hyperventilat
 
 ## Concurrent illness
 
-Vaccination should be postponed in individuals suffering from acute severe febrile illness or acute infection. The presence of a minor infection and/or low-grade fever should not delay vaccination.
-
 <div style=\"page-break-after: always\"></div>
+
+Vaccination should be postponed in individuals suffering from acute severe febrile illness or acute infection. The presence of a minor infection and/or low-grade fever should not delay vaccination.
 
 ## Thrombocytopenia and coagulation disorders
 
@@ -185,15 +185,13 @@ IXCHIQ has no or negligible influence on the ability to drive and use machines. 
 
 ## Summary of the safety profile
 
-## Adults ≥ 18 years of age
-
-The overall safety of IXCHIQ is based on an analysis of the pooled safety data from three completed phase I and III clinical studies conducted in the US o n 3 610 participants ≥18 years old who received one dose of IXCHIQ with a follow-up of 6 months.
+Adults ≥ 18 years of age The overall safety of IXCHIQ is based on an analysis of the pooled safety data from three completed phase I and III clinical studies conducted in the US o n 3 610 participants ≥18 years old who received one dose of IXCHIQ with a follow-up of 6 months.
 
 <div style=\"page-break-after: always\"></div>
 
 The most common vaccination site reactions were tenderness (10.8%) and pain (6.1%). The most common systemic adverse reactions were headache (32%), fatigue (29.4%), myalgia (23.7%), arthralgia (16.6%), fever (13.8%) and nausea (11.4%).
 
-In the post-marketing setting, serious adverse reactions have been reported, particularly in males aged 65 years and older with underlying chronic medical conditions such as cardiovascular disease, diabetes mellitus or chronic kidney disease. These adverse reactions included neurological events such as fatal encephalitis, deterioration of general condition, and exacerbation of chronic medical conditions (see section 4.4).
+In the post-marketing setting, serious adverse reactions have been reported, particularly in males aged 65 years and older with underlying chronic medical conditions such as cardiovascular disease, diabetes mellitus or chronic kidney disease, but also in young adults with no relevant comorbidities. These adverse reactions included neurological events such as fatal encephalitis, aseptic meningitis, deterioration of general condition, and exacerbation of chronic medical conditions (see section 4.4).
 
 ## Adolescents 12 to &lt;18 years of age
 
@@ -221,15 +219,7 @@ Vaccine virus was demonstrated to be present in blood and urine and might be pre
 
 ## Tabulated list of adverse reactions
 
-Adverse reactions are listed according to the following frequency categories:
-
-Very common: (
-
-≥ 1/10 ),
-
-Common: (
-
-≥ 1/100 to &lt; 1/10 ),
+Adverse reactions are listed according to the following frequency categories: Very common: ( ≥ 1/10 ), Common: ( ≥ 1/100 to &lt; 1/10 ),
 
 Uncommon: (
 
@@ -241,9 +231,9 @@ Rare: (
 
 Very rare: (&lt;1/10 000),
 
-<div style=\"page-break-after: always\"></div>
-
 Not known: (cannot be estimated from available data).
+
+<div style=\"page-break-after: always\"></div>
 
 Within  each  frequency  grouping  the  adverse  reactions  are  presented  in  the  order  of  decreasing seriousness.
 
@@ -276,13 +266,11 @@ Table 1. Adverse reactions in individuals 12 years of age and older
 
 ## Chikungunya-like Adverse Reactions
 
-## Adults
-
-The occurrence of certain adverse event combinations, referred to as chikungunya-like adverse reactions, was retrospectively evaluated in the pooled safety data from phase I and III clinical studies
-
 <div style=\"page-break-after: always\"></div>
 
-(N=3 610). Chikungunya -like adverse reactions were broadly defined, i.e. occurrence of fever (≥38°C) and at least one other symptom also reported for acute-stage chikungunya illness, including arthralgia or arthritis, myalgia, headache, back pain, rash, lymphadenopathy, and certain neurological, cardiac or ocular symptoms; within 30 days after vaccination, regardless of time of onset, severity or duration of the individual symptoms.
+## Adults
+
+The occurrence of certain adverse event combinations, referred to as chikungunya-like adverse reactions, was retrospectively evaluated in the pooled safety data from phase I and III clinical studies (N=3 610). Chikungunya -like adverse reactions were broadl y defined, i.e. occurrence of fever (≥38°C) and at least one other symptom also reported for acute-stage chikungunya illness, including arthralgia or arthritis, myalgia, headache, back pain, rash, lymphadenopathy, and certain neurological, cardiac or ocula r symptoms; within 30 days after vaccination, regardless of time of onset, severity or duration of the individual symptoms.
 
 Adverse event combinations qualifying as chikungunya-like adverse reactions were reported in 12.1% of participants. Among those, combinations of fever with headache, fatigue, myalgia or arthralgia were the most common, all other symptoms were reported in fewer than 10% of chikungunya-like adverse reactions. The reported symptoms were mostly mild, 1.8% of participants reported at least one severe symptom, most commonly fever or arthralgia. Median onset of chikungunya-like adverse reactions was 3 days after vaccination, and median time to resolution was 4 days. Longer-lasting symptoms ≥30 days occurred in 0.4% of participants.
 
@@ -310,9 +298,9 @@ Pharmacotherapeutic group: Chikungunya vaccines, ATC code: J07B P01
 
 ## Mechanism of action
 
-IXCHIQ contains live-attenuated CHIKV of the ECSA/IOL genotype. The exact mechanism of protection against CHIKV infection and/or disease has not been determined. IXCHIQ elicits neutralising antibodies against CHIKV.
-
 <div style=\"page-break-after: always\"></div>
+
+IXCHIQ contains live-attenuated CHIKV of the ECSA/IOL genotype. The exact mechanism of protection against CHIKV infection and/or disease has not been determined. IXCHIQ elicits neutralising antibodies against CHIKV.
 
 ## Immunogenicity
 
@@ -393,7 +381,7 @@ A reproductive toxicity trial studying in female rats showed that IXCHIQ adminis
 
 ## 6.1 List of excipients
 
-## Powder
+Powder
 
 Sucrose D-Sorbitol L-Methionine Trisodium Citrate Di-Hydrate Magnesium Chloride DiPotassium -Hydrogen Phosphate Potassium -Di- HydrogenPhosphate recombinant Human Albumin (rHA) produced in yeast (Saccharomyces cerevisiae)
 
@@ -407,11 +395,11 @@ In the absence of compatibility studies, this medicinal product must not be mixe
 
 ## 6.3 Shelf life
 
-## Unopened vial
-
-2 years.
+Unopened vial
 
 <div style=\"page-break-after: always\"></div>
+
+## 2 years.
 
 Do not freeze.
 
@@ -423,7 +411,11 @@ From a microbiological point of view, after first opening the vaccine should be 
 
 ## 6.4 Special precautions for storage
 
-Store in a refrigerator (2 °C 8 °C ). Do not freeze. Store in the original package in order to protect from light.
+Store in a refrigerator (2 °C 8 °C ).
+
+Do not freeze.
+
+Store in the original package in order to protect from light.
 
 Stability data indicate that the vaccine components are stable for 24 hours in unopened vials when stored at temperatures from 23°C to 27 °C. At the end of this period IXCHIQ should be used immediately or discarded. These data are intended to guide healthcare professionals in case of temporary temperature excursion only, it is not a recommended storage or shipping condition.
 
@@ -800,7 +792,7 @@ Talk to your doctor or, pharmacist or nurse before you receive IXCHIQ:
 - -If you have a problem with bleeding or bruising, or if you are taking an anticoagulant medicine (to prevent blood clots).
 - -If you have a recent onset of fever (body temperature over 38°C). However, you can have your vaccination if you have a mild fever or upper airway infection like a cold.
 
-Your doctor will carefully weigh the benefits and risks before recommending the vaccine, taking into consideration the risk of infection with the chikungunya virus in the regions where you are living or going to stay. Serious reactions to the vaccine have been reported mostly in persons 65 years and older and in persons with chronic medical conditions, such as high blood pressure, diabetes or heart disease. Tell your doctor or nurse immediately if you experience worsening of your general health or existing diseases (see section 4).
+Your doctor will carefully weigh the benefits and risks before recommending the vaccine, taking into consideration the risk of infection with the chikungunya virus in the regions where you are living or going to stay. Serious reactions to the vaccine have been reported mostly in persons 65 years and older and in persons with chronic medical conditions, such as high blood pressure, diabetes or heart disease, but also in healthy young adults. Tell your doctor or nurse immediately if you experience worsening of your general health or existing diseases (see section 4).
 
 If you are not sure if any of the above applies to you, talk to your doctor, pharmacist or nurse before you are given the vaccine.
 

@@ -1,21 +1,97 @@
 ---
-document_datetime: 2026-04-23 15:18:00
+document_datetime: 2026-06-05 10:31:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/opsumit.html
 document_name: opsumit.html
 version: success
-processing_time: 0.3024099
-conversion_datetime: 2026-04-25 16:45:48.779983
+processing_time: 0.3121857
+conversion_datetime: 2026-06-07 11:52:18.147134
 docling_version:
-  docling-serve: 1.16.1
-  docling-jobkit: 1.17.1
-  docling: 2.90.0
-  docling-core: 2.74.0
-  docling-ibm-models: 3.13.0
-  docling-parse: 5.9.0
+  docling-serve: 1.21.0
+  docling-jobkit: 1.20.1
+  docling: 2.97.0
+  docling-core: 2.78.0
+  docling-ibm-models: 3.13.2
+  docling-parse: 6.2.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
 ---
+# Search
+
+- [Medicines](/en/medicines)
+    - [Find medicine](/en/medicines)
+    - [Therapeutic areas: latest updates](/en/medicines/therapeutic-areas-latest-updates)
+    - [Download medicine data](/en/medicines/download-medicine-data)
+    - [What we publish on medicines and when](/en/medicines/what-we-publish-medicines-when)
+    - [Medicines under evaluation](/en/medicines/medicines-human-use-under-evaluation)
+    - [National registers](/en/medicines/national-registers-authorised-medicines)
+- [Human regulatory](/en/human-regulatory-overview)
+    - [Overview](/en/human-regulatory-overview)
+    - [Research and development](/en/human-regulatory-overview/research-development)
+    - [Marketing authorisation](/en/human-regulatory-overview/marketing-authorisation)
+    - [Post-authorisation](/en/human-regulatory-overview/post-authorisation)
+    - [Medical devices](/en/human-regulatory-overview/medical-devices)
+    - [Herbal products](/en/human-regulatory-overview/herbal-medicinal-products)
+- [Veterinary regulatory](/en/veterinary-regulatory-overview)
+    - [Overview](/en/veterinary-regulatory-overview)
+    - [Research and development](/en/veterinary-regulatory-overview/research-development-veterinary-medicines)
+    - [Marketing authorisation](/en/veterinary-regulatory-overview/marketing-authorisation-veterinary-medicines)
+    - [Post-authorisation](/en/veterinary-regulatory-overview/post-authorisation-veterinary-medicines)
+- [Committees](/en/committees)
+    - [Overview](/en/committees)
+    - [How the committees work](/en/committees/how-committees-work)
+    - [CHMP](/en/committees/committee-medicinal-products-human-use-chmp)
+    - [CVMP](/en/committees/committee-veterinary-medicinal-products-cvmp)
+    - [PRAC](/en/committees/pharmacovigilance-risk-assessment-committee-prac)
+    - [COMP](/en/committees/committee-orphan-medicinal-products-comp)
+    - [HMPC](/en/committees/committee-herbal-medicinal-products-hmpc)
+    - [CAT](/en/committees/committee-advanced-therapies-cat)
+    - [PDCO](/en/committees/paediatric-committee-pdco)
+    - [Working parties and other groups](/en/committees/working-parties-other-groups)
+- [News &amp; events](/en/news-events)
+    - [Overview](/en/news-events)
+    - [News](/en/news)
+    - [Events](/en/events/upcoming-events)
+    - [What's new](/en/news-events/whats-new)
+    - [Committee highlights](/en/news-events/committee-highlights)
+    - [Publications](/en/news-and-events/publications)
+    - [Press and social media](/en/news-events/press-social-media)
+    - [Podcast: Inside EMA](/en/news-events/podcast-inside-ema)
+    - [EMA Campaigns](/en/news-events/ema-campaigns)
+    - [Open consultations](/en/news-events/open-consultations)
+    - [RSS feeds](/en/news-events/rss-feeds)
+- [Partners &amp; networks](/en/partners-networks)
+    - [Overview](/en/partners-networks)
+    - [EU partners](/en/partners-networks/eu-partners)
+    - [International activities](/en/partners-networks/international-activities)
+    - [Patients and consumers](/en/partners-networks/patients-consumers)
+    - [Healthcare professionals](/en/partners-networks/healthcare-professionals)
+    - [Academia](/en/partners-networks/academia)
+    - [Pharmaceutical industry](/en/partners-networks/pharmaceutical-industry)
+    - [Networks](/en/partners-networks/networks)
+    - [Health technology assessment bodies](/en/partners-networks/health-technology-assessment-bodies)
+    - [One Health approach](/en/partners-networks/one-health-approach)
+    - [Animal health practitioners](/en/partners-networks/animal-health-practitioners)
+    - [One substance - one assessment](/en/partners-networks/one-substance-one-assessment-osoa-eu-collaboration-chemicals-related-data)
+- [About us](/en/about-us)
+    - [Overview](/en/about-us)
+    - [What we do](/en/about-us/what-we-do)
+    - [Who we are](/en/about-us/who-we-are)
+    - [How we work](/en/about-us/how-we-work)
+    - [Fees](/en/about-us/fees-payable-european-medicines-agency)
+    - [Support to SMEs](/en/about-us/support-smes)
+    - [Annual reports and work programmes](/en/about-us/annual-reports-work-programmes)
+    - [History of EMA](/en/about-us/history-ema)
+    - [Careers](/en/about-us/careers)
+    - [Procurement](/en/about-us/procurement-grants)
+    - [About this website](/en/about-us/about-website)
+    - [Data protection and privacy](/en/about-us/data-protection-privacy-ema)
+    - [Contacts](/en/about-us/contacts-european-medicines-agency)
+
+1. [Home](/en/homepage)
+2. [Medicines](https://www.ema.europa.eu/en/medicines)
+3. Opsumit
+
 # Opsumit
 
 [RSS](/en/individual-human-medicine.xml/66427)
@@ -59,25 +135,25 @@ Expand section
 
 Collapse section
 
-## How is Opsumit used?
+### How is Opsumit used?
 
 Opsumit can only be obtained with a prescription and treatment should be started and monitored by a doctor experienced in treating PAH. The medicine is available as tablets to be taken once a day. For children, Opsumit is also available as dispersible tablets.
 
 For more information about using Opsumit, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Opsumit work?
+### How does Opsumit work?
 
 In PAH there is severe narrowing of the small blood vessels (arterioles) in the lungs. Because more pressure is needed to force blood through these narrowed vessels, this leads to high blood pressure in the arteries to the lungs.
 
 The active substance in Opsumit, macitentan, works by blocking endothelin receptors. These are part of a natural mechanism in the body that can cause the small blood vessels to narrow. In patients with PAH, this mechanism is overactive and, by blocking these receptors, macitentan helps widen the arterioles in the lungs and thereby bring down the blood pressure.
 
-## What benefits of Opsumit have been shown in studies?
+### What benefits of Opsumit have been shown in studies?
 
 In a main study involving 742 adults with PAH, Opsumit was shown to reduce the risk of PAH symptoms worsening. Patients in the study received either Opsumit or placebo (a dummy treatment) in addition to other PAH treatments for an average of 2 years. Around 37% of patients taking placebo had a worsening of their PAH symptoms compared with 24% of those who took Opsumit.
 
 In another main study, 148 adolescents and children over 2 years of age with PAH were given Opsumit or standard treatment for an average of about 3 years. During the study, about 29% of patients given Opsumit and 32% of patients given standard treatment experienced a worsening of their disease. Data also showed that children and adolescents given Opsumit were able to achieve levels of the medicine in their blood comparable to those seen in adults.
 
-## What are the risks associated with Opsumit?
+### What are the risks associated with Opsumit?
 
 For the full list of side effects and restrictions with Opsumit, see the package leaflet.
 
@@ -87,11 +163,11 @@ In animal studies, Opsumit was shown to have an adverse effect on the developmen
 
 Opsumit must also not be used in patients with severe reduction in liver function or high levels of liver enzymes in the blood.
 
-## Why is Opsumit authorised in the EU?
+### Why is Opsumit authorised in the EU?
 
 The European Medicines Agency decided that Opsumit's benefits are greater than its risks and it can be authorised for use in the EU. In adults, Opsumit has been shown to be effective in reducing illness or deaths due to PAH. In adolescents and children, study data do not allow firm conclusions to be drawn on the benefits of Opsumit on disease progression; however, Opsumit is expected to work in the same way as it does in adults as supported by data on how the medicine behaves in the body. The side effects reported are similar to those reported with other medicines of its class and are considered to be manageable. However, Opsumit must never be used in pregnant women or women who could become pregnant and are not using reliable contraception.
 
-## What measures are being taken to ensure the safe and effective use of Opsumit?
+### What measures are being taken to ensure the safe and effective use of Opsumit?
 
 The company that markets Opsumit has developed educational material for patients and healthcare professionals with information on the precautions to be taken when using Opsumit. Patients' reminder cards will include a warning that the medicine must never be used in pregnant women and that women who could become pregnant must be using reliable contraception and should undergo monthly pregnancy tests.
 
@@ -99,7 +175,7 @@ Recommendations and precautions to be followed by healthcare professionals and p
 
 As for all medicines, data on the use of Opsumit are continuously monitored. Side effects reported with Opsumit are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Opsumit
+### Other information about Opsumit
 
 Opsumit received a marketing authorisation valid throughout the EU on 20 December 2013.
 
@@ -113,7 +189,7 @@ English (EN) (117.6 KB - PDF)
 
 [View](/en/documents/overview/opsumit-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-686)
+[Other languages (22)](#file-language-dropdown-776)
 
 български (BG) (135.14 KB - PDF)
 
@@ -145,7 +221,7 @@ Deutsch (DE) (113.16 KB - PDF)
 
 [View](/de/documents/overview/opsumit-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (107.61 KB - PDF)
+eesti (ET) (107.61 KB - PDF)
 
 **First published:** 07/02/2014 **Last updated:** 26/11/2024
 
@@ -175,13 +251,13 @@ italiano (IT) (108.5 KB - PDF)
 
 [View](/it/documents/overview/opsumit-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (138.3 KB - PDF)
+latviešu (LV) (138.3 KB - PDF)
 
 **First published:** 07/02/2014 **Last updated:** 26/11/2024
 
 [View](/lv/documents/overview/opsumit-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (130.22 KB - PDF)
+lietuvių (LT) (130.22 KB - PDF)
 
 **First published:** 07/02/2014 **Last updated:** 26/11/2024
 
@@ -235,7 +311,7 @@ slovenščina (SL) (130.14 KB - PDF)
 
 [View](/sl/documents/overview/opsumit-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (106.65 KB - PDF)
+suomi (FI) (106.65 KB - PDF)
 
 **First published:** 07/02/2014 **Last updated:** 26/11/2024
 
@@ -265,7 +341,7 @@ English (EN) (430.69 KB - PDF)
 
 [View](/en/documents/product-information/opsumit-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-718)
+[Other languages (24)](#file-language-dropdown-265)
 
 български (BG) (727.07 KB - PDF)
 
@@ -297,7 +373,7 @@ Deutsch (DE) (549.08 KB - PDF)
 
 [View](/de/documents/product-information/opsumit-epar-product-information_de.pdf)
 
-eesti keel (ET) (548 KB - PDF)
+eesti (ET) (548 KB - PDF)
 
 **First published:** 07/02/2014 **Last updated:** 23/04/2026
 
@@ -321,25 +397,19 @@ hrvatski (HR) (597.63 KB - PDF)
 
 [View](/hr/documents/product-information/opsumit-epar-product-information_hr.pdf)
 
-íslenska (IS) (482.89 KB - PDF)
-
-**First published:** 07/02/2014 **Last updated:** 23/04/2026
-
-[View](/is/documents/product-information/opsumit-epar-product-information_is.pdf)
-
 italiano (IT) (561.88 KB - PDF)
 
 **First published:** 07/02/2014 **Last updated:** 23/04/2026
 
 [View](/it/documents/product-information/opsumit-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (564.38 KB - PDF)
+latviešu (LV) (564.38 KB - PDF)
 
 **First published:** 07/02/2014 **Last updated:** 23/04/2026
 
 [View](/lv/documents/product-information/opsumit-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (558.32 KB - PDF)
+lietuvių (LT) (558.32 KB - PDF)
 
 **First published:** 07/02/2014 **Last updated:** 23/04/2026
 
@@ -362,12 +432,6 @@ Nederlands (NL) (564.46 KB - PDF)
 **First published:** 07/02/2014 **Last updated:** 23/04/2026
 
 [View](/nl/documents/product-information/opsumit-epar-product-information_nl.pdf)
-
-norsk (NO) (489.64 KB - PDF)
-
-**First published:** 07/02/2014 **Last updated:** 23/04/2026
-
-[View](/no/documents/product-information/opsumit-epar-product-information_no.pdf)
 
 polski (PL) (582.76 KB - PDF)
 
@@ -399,7 +463,7 @@ slovenščina (SL) (561.09 KB - PDF)
 
 [View](/sl/documents/product-information/opsumit-epar-product-information_sl.pdf)
 
-Suomi (FI) (545.51 KB - PDF)
+suomi (FI) (545.51 KB - PDF)
 
 **First published:** 07/02/2014 **Last updated:** 23/04/2026
 
@@ -410,6 +474,18 @@ svenska (SV) (548.17 KB - PDF)
 **First published:** 07/02/2014 **Last updated:** 23/04/2026
 
 [View](/sv/documents/product-information/opsumit-epar-product-information_sv.pdf)
+
+Íslenska (IS) (482.89 KB - PDF)
+
+**First published:** 07/02/2014 **Last updated:** 23/04/2026
+
+[View](/is/documents/product-information/opsumit-epar-product-information_is.pdf)
+
+norsk (NO) (489.64 KB - PDF)
+
+**First published:** 07/02/2014 **Last updated:** 23/04/2026
+
+[View](/no/documents/product-information/opsumit-epar-product-information_no.pdf)
 
 **Latest procedure affecting product information:** VR/0000324354
 
@@ -437,7 +513,7 @@ English (EN) (23.92 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/opsumit-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-615)
+[Other languages (24)](#file-language-dropdown-742)
 
 български (BG) (28 KB - PDF)
 
@@ -469,7 +545,7 @@ Deutsch (DE) (26.2 KB - PDF)
 
 [View](/de/documents/all-authorised-presentations/opsumit-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (25.12 KB - PDF)
+eesti (ET) (25.12 KB - PDF)
 
 **First published:** 07/02/2014 **Last updated:** 26/11/2024
 
@@ -493,25 +569,19 @@ hrvatski (HR) (30.63 KB - PDF)
 
 [View](/hr/documents/all-authorised-presentations/opsumit-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (32.83 KB - PDF)
-
-**First published:** 07/02/2014 **Last updated:** 26/11/2024
-
-[View](/is/documents/all-authorised-presentations/opsumit-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (23.73 KB - PDF)
 
 **First published:** 07/02/2014 **Last updated:** 26/11/2024
 
 [View](/it/documents/all-authorised-presentations/opsumit-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (32.11 KB - PDF)
+latviešu (LV) (32.11 KB - PDF)
 
 **First published:** 07/02/2014 **Last updated:** 26/11/2024
 
 [View](/lv/documents/all-authorised-presentations/opsumit-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (32.48 KB - PDF)
+lietuvių (LT) (32.48 KB - PDF)
 
 **First published:** 07/02/2014 **Last updated:** 26/11/2024
 
@@ -534,12 +604,6 @@ Nederlands (NL) (29.88 KB - PDF)
 **First published:** 07/02/2014 **Last updated:** 26/11/2024
 
 [View](/nl/documents/all-authorised-presentations/opsumit-epar-all-authorised-presentations_nl.pdf)
-
-norsk (NO) (32.37 KB - PDF)
-
-**First published:** 07/02/2014 **Last updated:** 26/11/2024
-
-[View](/no/documents/all-authorised-presentations/opsumit-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (25.87 KB - PDF)
 
@@ -571,7 +635,7 @@ slovenščina (SL) (30.77 KB - PDF)
 
 [View](/sl/documents/all-authorised-presentations/opsumit-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (31.8 KB - PDF)
+suomi (FI) (31.8 KB - PDF)
 
 **First published:** 07/02/2014 **Last updated:** 26/11/2024
 
@@ -583,6 +647,18 @@ svenska (SV) (31.69 KB - PDF)
 
 [View](/sv/documents/all-authorised-presentations/opsumit-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (32.83 KB - PDF)
+
+**First published:** 07/02/2014 **Last updated:** 26/11/2024
+
+[View](/is/documents/all-authorised-presentations/opsumit-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (32.37 KB - PDF)
+
+**First published:** 07/02/2014 **Last updated:** 26/11/2024
+
+[View](/no/documents/all-authorised-presentations/opsumit-epar-all-authorised-presentations_no.pdf)
+
 Opsumit : EPAR - Conditions imposed on member states for safe and effective use - Annex related to the Art. 127a
 
 English (EN) (17.91 KB - PDF)
@@ -591,7 +667,7 @@ English (EN) (17.91 KB - PDF)
 
 [View](/en/documents/conditions-member-states/opsumit-epar-conditions-imposed-member-states-safe-and-effective-use-annex-related-art-127a_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-922)
+[Other languages (24)](#file-language-dropdown-196)
 
 български (BG) (64.61 KB - PDF)
 
@@ -623,7 +699,7 @@ Deutsch (DE) (18.37 KB - PDF)
 
 [View](/de/documents/conditions-member-states/opsumit-epar-conditions-imposed-member-states-safe-and-effective-use-annex-related-art-127a_de.pdf)
 
-eesti keel (ET) (13.51 KB - PDF)
+eesti (ET) (13.51 KB - PDF)
 
 **First published:** 07/02/2014 **Last updated:** 07/02/2014
 
@@ -647,25 +723,19 @@ hrvatski (HR) (64.2 KB - PDF)
 
 [View](/hr/documents/conditions-member-states/opsumit-epar-conditions-imposed-member-states-safe-and-effective-use-annex-related-art-127a_hr.pdf)
 
-íslenska (IS) (17.86 KB - PDF)
-
-**First published:** 07/02/2014 **Last updated:** 07/02/2014
-
-[View](/is/documents/conditions-member-states/opsumit-epar-conditions-imposed-member-states-safe-and-effective-use-annex-related-art-127a_is.pdf)
-
 italiano (IT) (18.06 KB - PDF)
 
 **First published:** 07/02/2014 **Last updated:** 07/02/2014
 
 [View](/it/documents/conditions-member-states/opsumit-epar-conditions-imposed-member-states-safe-and-effective-use-annex-related-art-127a_it.pdf)
 
-latviešu valoda (LV) (67.27 KB - PDF)
+latviešu (LV) (67.27 KB - PDF)
 
 **First published:** 07/02/2014 **Last updated:** 07/02/2014
 
 [View](/lv/documents/conditions-member-states/opsumit-epar-conditions-imposed-member-states-safe-and-effective-use-annex-related-art-127a_lv.pdf)
 
-lietuvių kalba (LT) (66.78 KB - PDF)
+lietuvių (LT) (66.78 KB - PDF)
 
 **First published:** 07/02/2014 **Last updated:** 07/02/2014
 
@@ -688,12 +758,6 @@ Nederlands (NL) (17.83 KB - PDF)
 **First published:** 07/02/2014 **Last updated:** 07/02/2014
 
 [View](/nl/documents/conditions-member-states/opsumit-epar-conditions-imposed-member-states-safe-and-effective-use-annex-related-art-127a_nl.pdf)
-
-norsk (NO) (17.65 KB - PDF)
-
-**First published:** 07/02/2014 **Last updated:** 07/02/2014
-
-[View](/no/documents/conditions-member-states/opsumit-epar-conditions-imposed-member-states-safe-and-effective-use-annex-related-art-127a_no.pdf)
 
 polski (PL) (66.72 KB - PDF)
 
@@ -725,7 +789,7 @@ slovenščina (SL) (63.2 KB - PDF)
 
 [View](/sl/documents/conditions-member-states/opsumit-epar-conditions-imposed-member-states-safe-and-effective-use-annex-related-art-127a_sl.pdf)
 
-Suomi (FI) (18.27 KB - PDF)
+suomi (FI) (18.27 KB - PDF)
 
 **First published:** 07/02/2014 **Last updated:** 07/02/2014
 
@@ -736,6 +800,18 @@ svenska (SV) (17.76 KB - PDF)
 **First published:** 07/02/2014 **Last updated:** 07/02/2014
 
 [View](/sv/documents/conditions-member-states/opsumit-epar-conditions-imposed-member-states-safe-and-effective-use-annex-related-art-127a_sv.pdf)
+
+Íslenska (IS) (17.86 KB - PDF)
+
+**First published:** 07/02/2014 **Last updated:** 07/02/2014
+
+[View](/is/documents/conditions-member-states/opsumit-epar-conditions-imposed-member-states-safe-and-effective-use-annex-related-art-127a_is.pdf)
+
+norsk (NO) (17.65 KB - PDF)
+
+**First published:** 07/02/2014 **Last updated:** 07/02/2014
+
+[View](/no/documents/conditions-member-states/opsumit-epar-conditions-imposed-member-states-safe-and-effective-use-annex-related-art-127a_no.pdf)
 
 ## Product details
 
@@ -789,7 +865,7 @@ Marketing authorisation issued
 
 Revision
 
-27
+28
 
 ## Assessment history
 
@@ -797,7 +873,7 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Opsumit : EPAR - Procedural steps taken and scientific information after authorisation
 
@@ -814,6 +890,16 @@ English (EN) (236.13 KB - PDF)
 **First published:** 02/10/2014 **Last updated:** 04/04/2025
 
 [View](/en/documents/procedural-steps-after/opsumit-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
+
+Opsumit-PAM-0000295189 : EPAR - Assessment report
+
+Adopted Reference Number: EMADOC-1700519818-2419276
+
+English (EN) (1.6 MB - PDF)
+
+**First published:** 05/06/2026
+
+[View](/en/documents/variation-report/opsumit-pam-0000295189-epar-assessment-report_en.pdf)
 
 Opsumit-H-C-002697-X-0051-G : EPAR - Assessment report - Variation
 
@@ -875,7 +961,7 @@ English (EN) (64.95 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/opsumit-h-c-2697-psuv-0003-epar-scientific-conclusions-and-grounds-recommending-variation-terms-marketing-authorisation_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Opsumit : EPAR - Public assessment report
 
@@ -923,7 +1009,7 @@ English (EN) (297.35 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/opsumit-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-209)
+[Other languages (24)](#file-language-dropdown-358)
 
 български (BG) (403.29 KB - DOCX)
 
@@ -955,7 +1041,7 @@ Deutsch (DE) (344.91 KB - DOCX)
 
 [View](/de/documents/product-information-tracked-changes/opsumit-epar-product-information-tracked-changes_de.docx)
 
-eesti keel (ET) (311.32 KB - DOCX)
+eesti (ET) (311.32 KB - DOCX)
 
 **First published:** 16/12/2025 **Last updated:** 23/04/2026
 
@@ -979,25 +1065,19 @@ hrvatski (HR) (341.64 KB - DOCX)
 
 [View](/hr/documents/product-information-tracked-changes/opsumit-epar-product-information-tracked-changes_hr.docx)
 
-íslenska (IS) (369.82 KB - DOCX)
-
-**First published:** 16/12/2025 **Last updated:** 23/04/2026
-
-[View](/is/documents/product-information-tracked-changes/opsumit-epar-product-information-tracked-changes_is.docx)
-
 italiano (IT) (332.81 KB - DOCX)
 
 **First published:** 16/12/2025 **Last updated:** 23/04/2026
 
 [View](/it/documents/product-information-tracked-changes/opsumit-epar-product-information-tracked-changes_it.docx)
 
-latviešu valoda (LV) (525.14 KB - DOCX)
+latviešu (LV) (525.14 KB - DOCX)
 
 **First published:** 16/12/2025 **Last updated:** 23/04/2026
 
 [View](/lv/documents/product-information-tracked-changes/opsumit-epar-product-information-tracked-changes_lv.docx)
 
-lietuvių kalba (LT) (305.13 KB - DOCX)
+lietuvių (LT) (305.13 KB - DOCX)
 
 **First published:** 16/12/2025 **Last updated:** 23/04/2026
 
@@ -1020,12 +1100,6 @@ Nederlands (NL) (896 KB - DOC)
 **First published:** 16/12/2025 **Last updated:** 23/04/2026
 
 [View](/nl/documents/product-information-tracked-changes/opsumit-epar-product-information-tracked-changes_nl.doc)
-
-norsk (NO) (293.21 KB - DOCX)
-
-**First published:** 16/12/2025 **Last updated:** 23/04/2026
-
-[View](/no/documents/product-information-tracked-changes/opsumit-epar-product-information-tracked-changes_no.docx)
 
 polski (PL) (342.93 KB - DOCX)
 
@@ -1057,7 +1131,7 @@ slovenščina (SL) (330.99 KB - DOCX)
 
 [View](/sl/documents/product-information-tracked-changes/opsumit-epar-product-information-tracked-changes_sl.docx)
 
-Suomi (FI) (315.47 KB - DOCX)
+suomi (FI) (315.47 KB - DOCX)
 
 **First published:** 16/12/2025 **Last updated:** 23/04/2026
 
@@ -1068,6 +1142,18 @@ svenska (SV) (340.2 KB - DOCX)
 **First published:** 16/12/2025 **Last updated:** 23/04/2026
 
 [View](/sv/documents/product-information-tracked-changes/opsumit-epar-product-information-tracked-changes_sv.docx)
+
+Íslenska (IS) (369.82 KB - DOCX)
+
+**First published:** 16/12/2025 **Last updated:** 23/04/2026
+
+[View](/is/documents/product-information-tracked-changes/opsumit-epar-product-information-tracked-changes_is.docx)
+
+norsk (NO) (293.21 KB - DOCX)
+
+**First published:** 16/12/2025 **Last updated:** 23/04/2026
+
+[View](/no/documents/product-information-tracked-changes/opsumit-epar-product-information-tracked-changes_no.docx)
 
 ## More information on Opsumit
 
@@ -1086,6 +1172,6 @@ This product is no longer an orphan medicine. It was originally [designated an o
 
 **This page was last updated on**
 
-23/04/2026
+05/06/2026
 
 ## Share this page

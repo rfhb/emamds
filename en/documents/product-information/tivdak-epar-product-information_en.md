@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-02-24 14:05:11
-document_pages: 33
+document_datetime: 2026-06-05 10:29:31
+document_pages: 34
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/tivdak-epar-product-information_en.pdf
 document_name: tivdak-epar-product-information_en.pdf
 version: success
-processing_time: 8.5936722
-conversion_datetime: 2026-02-25 11:44:20.652691
+processing_time: 17.3928977
+conversion_datetime: 2026-06-07 12:00:08.710811
 docling_version:
-  docling-serve: 1.13.1
-  docling-jobkit: 1.11.0
-  docling: 2.74.0
-  docling-core: 2.65.2
-  docling-ibm-models: 3.11.0
-  docling-parse: 5.3.4
+  docling-serve: 1.21.0
+  docling-jobkit: 1.20.1
+  docling: 2.97.0
+  docling-core: 2.78.0
+  docling-ibm-models: 3.13.2
+  docling-parse: 6.2.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -152,7 +152,7 @@ No dose adjustment is required in patients with mild renal impairment [creatinin
 
 ## Hepatic impairment
 
-No dose adjustment is required in patients with mild hepatic impairment (total bilirubin of &gt; 1 to 1.5 × upper limit of normal (ULN) and any aspartate aminotransferase (AST), or total bilirubin ≤ ULN and AST &gt; ULN, as defined using the National Cancer Institute criteria for hepatic impairment). However, as the exposure is expected to increase in patients with mild hepatic impairment, caution is advised when treating patients with mild hepatic impairment. Tisotumab vedotin has not been studied in patients with moderate or severe hepatic impairment (see section 5.2).
+No dose adjustment is required in patients with mild hepatic impairment (total bilirubin of &gt; 1 to 1.5 × upper limit of normal (ULN) and any aspartate aminotransferase ( AST), or total bilirubin ≤ ULN and AST &gt; ULN, as defined using the National Cancer Institute criteria for hepatic impairment). However, as the exposure is expected to increase in patients with mild hepatic impairment, caution is advised when treating patients with mild hepatic impairment. Tisotumab vedotin has not been studied in patients with moderate or severe hepatic impairment (see section 5.2).
 
 ## Paediatric population
 
@@ -178,11 +178,9 @@ In order to improve the traceability of biological medicinal products, the name 
 
 Ocular adverse reactions occurred in patients treated with tisotumab vedotin across clinical studies in cervical cancer patients (see section 4.8). The most common ocular adverse reactions were conjunctivitis, dry eye, keratitis and blepharitis.
 
-Prior to the first infusion and as clinically indicated, patients should be referred to an eye care professional for a full eye exam (including visual acuity and slit lamp exam). Prior to each infusion, the treating healthcare provider should inspect the patient's eyes, including control of normal eye movement, and ask about any ocular signs or symptoms. Patients should be monitored for new or worsening ocular signs and symptoms and referred as soon as possible to an eye care professional if warranted. Patients should be instructed to promptly report any new or worsening ocular signs or
+Prior to the first infusion and as clinically indicated, patients should be referred to an eye care professional for a full eye exam (including visual acuity and slit lamp exam). Prior to each infusion, the treating healthcare provider should inspect the patient's eyes, including control of normal eye movement, and ask about any ocular signs or symptoms. Patients should be monitored for new or worsening ocular signs and symptoms and referred as soon as possible to an eye care professional if warranted. Patients should be instructed to promptly report any new or worsening ocular signs or symptoms. Tivdak should be withheld, dose reduced, or permanently discontinued based on the severity of the adverse reaction (see section 4.2).
 
 <div style=\"page-break-after: always\"></div>
-
-symptoms. Tivdak should be withheld, dose reduced, or permanently discontinued based on the severity of the adverse reaction (see section 4.2).
 
 Patients should adhere to recommendations in the 'Eye care' subsection of section 4.2 to reduce the risk of ocular adverse reactions (see section 4.2).
 
@@ -210,11 +208,9 @@ Formal drug-drug interaction studies with tisotumab vedotin have not been conduc
 
 ## Drug interaction studies Clinical studies
 
-Strong CYP3A4 inhibitors: ketoconazole (a strong CYP3A4 inhibitor) co-administered with another antibody-drug conjugate (ADC) that contains MMAE increased MMAE exposure, with no change in ADC exposure. The concomitant use of strong inhibitors of CYP3A4 with tisotumab vedotin would likely result in similar effects on unconjugated MMAE and ADC. Caution is advised in case of treatment with strong CYP3A4 inhibitors. Patients should be closely monitored for adverse reactions
+Strong CYP3A4 inhibitors: ketoconazole (a strong CYP3A4 inhibitor) co-administered with another antibody-drug conjugate (ADC) that contains MMAE increased MMAE exposure, with no change in ADC exposure. The concomitant use of strong inhibitors of CYP3A4 with tisotumab vedotin would likely result in similar effects on unconjugated MMAE and ADC. Caution is advised in case of treatment with strong CYP3A4 inhibitors. Patients should be closely monitored for adverse reactions when tisotumab vedotin is given concomitantly with strong CYP3A4 inhibitors (e.g., boceprevir, clarithromycin, cobicistat, indinavir, itraconazole, nefazodone, nelfinavir, posaconazole, ritonavir, saquinavir, telaprevir, telithromycin, voriconazole).
 
 <div style=\"page-break-after: always\"></div>
-
-when tisotumab vedotin is given concomitantly with strong CYP3A4 inhibitors (e.g., boceprevir, clarithromycin, cobicistat, indinavir, itraconazole, nefazodone, nelfinavir, posaconazole, ritonavir, saquinavir, telaprevir, telithromycin, voriconazole).
 
 Strong CYP3A4 inducers: rifampicin (a strong CYP3A4 inducer) co-administered with another ADC that contains MMAE decreased MMAE exposure, with no change in ADC exposure. The concomitant use of strong inducers of CYP3A4 with tisotumab vedotin would likely result in similar effects on unconjugated MMAE and ADC.
 
@@ -250,11 +246,9 @@ Based on findings from animal studies, tisotumab vedotin may impair fertility in
 
 ## 4.7 Effects on ability to drive and use machines
 
-Tisotumab vedotin has moderate influence on the ability to drive and use machines. Because of potential adverse reactions such as ocular adverse reactions and peripheral neuropathy (see sections 4.4 and 4.8), patients should be advised to use caution when driving or operating machines until they are certain that Tivdak does not adversely affect them. The clinical status of the patient should be
+Tisotumab vedotin has moderate influence on the ability to drive and use machines. Because of potential adverse reactions such as ocular adverse reactions and peripheral neuropathy (see sections 4.4 and 4.8), patients should be advised to use caution when driving or operating machines until they are certain that Tivdak does not adversely affect them. The clinical status of the patient should be considered when assessing the patient's ability to perform tasks that require judgement, motor, or cognitive skills.
 
 <div style=\"page-break-after: always\"></div>
-
-considered when assessing the patient's ability to perform tasks that require judgement, motor, or cognitive skills.
 
 ## 4.8 Undesirable effects
 
@@ -264,7 +258,7 @@ Unless otherwise stated, the frequencies of adverse reactions are based on all-c
 
 The most common adverse reactions (≥ 25%) were peripheral neuropathy (39%), nausea (37%), epistaxis (33%), conjunctivitis (32%), alopecia (31%), anaemia (27%) and diarrhoea (25%).
 
-Severe (Grade ≥ 3) adverse reactions occurred in 56% of patients. The most common severe adverse reactions (≥ 2%) were anaemia (10%), peripheral neuropathy (6%), fatigue (5%), abdominal pain (3%), neutropenia (3%), vomiting (2%), asthenia (2%) and diarrhoea (2%).
+Severe ( Grade ≥ 3) adverse reactions occurred in 56% of patients. The most common severe adverse reactions (≥ 2%) were anaemia (10%), peripheral neuropathy (6%), fatigue (5%), abdominal pain (3%), neutropenia (3%), vomiting (2%), asthenia (2%) and diarrhoea (2%).
 
 Serious adverse reactions occurred in 37% of patients. The most common serious adverse reactions (≥ 2%) were abdominal pain (2%), constipation (2%), pyrexia (2%), peripheral neuropathy (2%) and vomiting (2%). Fatal adverse reactions occurred in 2% of patients.
 
@@ -276,7 +270,7 @@ Adverse reactions leading to dose reduction occurred in 25% of patients; the mos
 
 ## Tabulated list of adverse reactions
 
-Adverse reactions observed during clinical studies for tisotumab vedotin are listed by MedDRA System Organ Class and Preferred Term (see Table 3). Within each System Organ Class, adverse reactions are listed under frequency categories of: Very common (≥ 1/10); Common (≥ 1/100 to &lt; 1/10); Uncommon (≥ 1/1 000 to &lt; 1/100); Rare (≥ 1/10 000 to &lt; 1/1 000); Very rare (&lt; 1/10 000); not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in the order of decreasing frequency.
+Adverse reactions observed during clinical studies for tisotumab vedotin are listed by MedDRA System Organ Class and Preferred Term (see Table 3). Within each System Organ Class, adverse reactions are listed under frequency categories of: Very common (≥ 1/ 10); Common (≥ 1/100 to &lt; 1/10); Uncommon (≥ 1/1 000 to &lt; 1/100); Rare (≥ 1/10 000 to &lt; 1/1 000); Very rare (&lt; 1/10 000); not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in the order of decreasing frequency.
 
 Table 3: Adverse reactions
 
@@ -398,22 +392,22 @@ At a median duration of follow-up of 10.8 months (95% CI: 10.3 to 11.6), SGNTV-0
 
 Table 4. Efficacy Results in SGNTV-003
 
-| Endpoint                                    | Tisotumab vedotin N=253   | Chemotherapy N=249   |
-|---------------------------------------------|---------------------------|----------------------|
-| Overall survival                            |                           |                      |
-| Number (%) of patients with events          | 123 (48.6)                | 140 (56.2)           |
-| Median in months (95% CI)                   | 11.5 (9.8, 14.9)          | 9.5 (7.9, 10.7)      |
-| Hazard ratio (95% CI)                       | 0.70 (0.54, 0.89)         | 0.70 (0.54, 0.89)    |
-| 2-sided p-value                             | 0.0038 1                  | 0.0038 1             |
-| Progression free survival 2                 |                           |                      |
-| Number (%) of patients with events          | 198 (78.3)                | 194 (77.9)           |
-| Median in months (95% CI)                   | 4.2 (4.0, 4.4)            | 2.9 (2.6, 3.1)       |
-| Hazard ratio (95% CI)                       | 0.67 (0.54, 0.82)         | 0.67 (0.54, 0.82)    |
-| 2-sided p-value                             | <0.0001 3                 | <0.0001 3            |
-| Confirmed objective response rate (CR + PR) | 2                         |                      |
-| ORR (%) (95% CI)                            | 17.8 (13.3, 23.1)         | 5.2 (2.8, 8.8)       |
-| Duration of response 4                      |                           |                      |
-| Median in months (95% CI)                   | 5.3 (4.2, 8.3)            | 5.7 (2.8, NR)        |
+| Endpoint                                      | Tisotumab vedotin N=253   | Chemotherapy N=249   |
+|-----------------------------------------------|---------------------------|----------------------|
+| Overall survival                              |                           |                      |
+| Number (%) of patients with events            | 123 (48.6)                | 140 (56.2)           |
+| Median in months (95% CI)                     | 11.5 (9.8, 14.9)          | 9.5 (7.9, 10.7)      |
+| Hazard ratio (95% CI)                         | 0.70 (0.54, 0.89)         | 0.70 (0.54, 0.89)    |
+| 2-sided p-value                               | 0.0038 1                  | 0.0038 1             |
+| Progression free survival 2                   |                           |                      |
+| Number (%) of patients with events            | 198 (78.3)                | 194 (77.9)           |
+| Median in months (95% CI)                     | 4.2 (4.0, 4.4)            | 2.9 (2.6, 3.1)       |
+| Hazard ratio (95% CI)                         | 0.67 (0.54, 0.82)         | 0.67 (0.54, 0.82)    |
+| 2-sided p-value                               | <0.0001 3                 | <0.0001 3            |
+| Confirmed objective response rate (CR + PR) 2 |                           |                      |
+| ORR (%) (95% CI)                              | 17.8 (13.3, 23.1)         | 5.2 (2.8, 8.8)       |
+| Duration of response 4                        |                           |                      |
+| Median in months (95% CI)                     | 5.3 (4.2, 8.3)            | 5.7 (2.8, NR)        |
 
 CI=confidence interval; CR=complete response; NR=not reached; ORR=objective response rate; PR=partial response.
 
@@ -475,15 +469,13 @@ Based on population pharmacokinetic analysis, gender does not have a clinically 
 
 ## Renal impairment
 
-Based on population pharmacokinetic analysis, no clinically meaningful differences in exposures of tisotumab vedotin and MMAE were observed in patients with mild (creatinine clearance; CrCL &gt; 60-90 mL/min, n=142) or moderate (CrCL 30-60 mL/min, n=42) renal impairment compared to patients with normal renal function. The effect of severe renal impairment or end-stage renal disease
+Based on population pharmacokinetic analysis, no clinically meaningful differences in exposures of tisotumab vedotin and MMAE were observed in patients with mild (creatinine clearance; CrCL &gt; 60-90 mL/min, n=142) or moderate (CrCL 30-60 mL/min, n=42) renal impairment compared to patients with normal renal function. The effect of severe renal impairment or end-stage renal disease with or without dialysis on tisotumab vedotin and unconjugated MMAE pharmacokinetics is unknown.
 
 <div style=\"page-break-after: always\"></div>
 
-with or without dialysis on tisotumab vedotin and unconjugated MMAE pharmacokinetics is unknown.
-
 ## Hepatic impairment
 
-Based on population pharmacokinetic analysis, no clinically meaningful differences in exposures of tisotumab vedotin were observed in patients with mild hepatic impairment (total bilirubin &gt; 1 to 1.5 × ULN and any AST, or total bilirubin ≤ ULN and AST &gt; ULN, n=58) compared to patients with normal hepatic function, while MMAE exposures were 37% higher in mild hepatic impairment as compared to normal hepatic function. The effect of moderate or severe hepatic impairment or liver transplantation on the pharmacokinetics of tisotumab vedotin or unconjugated MMAE is unknown.
+Based on population pharmacokinetic analysis, no clinically meaningful differences in exposures of tisotumab vedotin were observed in patients with mild hepatic impairment (total bilirubin &gt; 1 to 1.5 × ULN and any AST, or total bilirubin ≤ ULN and AST &gt; UL N, n=58) compared to patients with normal hepatic function, while MMAE exposures were 37% higher in mild hepatic impairment as compared to normal hepatic function. The effect of moderate or severe hepatic impairment or liver transplantation on the pharmacokinetics of tisotumab vedotin or unconjugated MMAE is unknown.
 
 ## Pharmacokinetic/pharmacodynamic relationships
 
@@ -493,7 +485,7 @@ In an exposure-response analysis at 2 mg/kg every 3 weeks, a higher tisotumab ve
 
 ## Repeat-dose toxicity
 
-Repeat-dose toxicity studies were performed with tisotumab vedotin at approximately 2.3-4.3 times the human area under the curve (AUC) at the recommended clinical dose. Skin lesions were noted in a repeat-dose study at ≥ 3 mg/kg in monkeys (13 weeks). The skin changes were fully reversible by the end of a 6-week recovery period. In both rats and cynomolgus monkeys, administration of MMAE and tisotumab vedotin (only monkeys dosed at ≥ 3 mg/kg) led to reversible bone marrow toxicity and associated peripheral blood cell effects. Reddened or swollen eyes and conjunctiva (with or without discharge), and/or conjunctivitis was observed following tisotumab vedotin treatment in monkeys at 5 mg/kg (13 weeks). These findings reversed following a 6-week recovery period.
+Repeat-dose toxicity studies were performed with tisotumab vedotin at approximately 2.3-4.3 times the human area under the curve (AUC) at the recommended clinical dose. Skin lesions were noted in a repeatdose study at ≥ 3 mg/kg in monkeys (13 weeks). The skin changes were fully reversible by the end of a 6-week recovery period. In both rats and cynomolgus monkeys, administration of MMAE and tisotumab vedotin (only monke ys dosed at ≥ 3 mg/kg) led to reversible bone marrow toxicity and associated peripheral blood cell effects. Reddened or swollen eyes and conjunctiva (with or without discharge), and/or conjunctivitis was observed following tisotumab vedotin treatment in monkeys at 5 mg/kg (13 weeks). These findings reversed following a 6-week recovery period.
 
 ## Carcinogenicity
 
@@ -509,11 +501,9 @@ Dedicated fertility studies in animals have not been performed with tisotumab ve
 
 Results of a 13-week repeat-dose toxicity study in cynomolgus monkeys administered tisotumab vedotin demonstrated seminiferous tubular atrophy of the testes and absence of sperm, decreased sperm content, and epithelial vacuolation in the epididymides. The changes were associated with decreased testicular size, and reduced or total absence of sperm counts and sperm motility was observed at doses of 1, 3, and 5 mg/kg corresponding to approximately 0.5- to 4-fold the human systemic exposure (based on AUC) at the clinically recommended dose. There was partial recovery of the testes and epididymides findings at 3 and 5 mg/kg; and full recovery at 1 mg/kg after a 6-week postdose period.
 
-Ovarian effects were observed in repeat-dose toxicity studies of other MMAE-containing ADCs. A mild to moderate decrease in, or absence of, secondary and tertiary ovarian follicles was observed in
+Ovarian effects were observed in repeat-dose toxicity studies of other MMAE-containing ADCs. A mild to moderate decrease in, or absence of, secondary and tertiary ovarian follicles was observed in young female cynomolgus monkeys at doses ≥ 3 mg/kg weekly for 4 weeks. These effects showed evidence of recovery 6 weeks after the end of dosing and no changes were observed in primordial follicles.
 
 <div style=\"page-break-after: always\"></div>
-
-young female cynomolgus monkeys at doses ≥ 3 mg/kg weekly for 4 weeks. These effects showed evidence of recovery 6 weeks after the end of dosing and no changes were observed in primordial follicles.
 
 Animal reproduction studies have not been conducted with tisotumab vedotin to evaluate its effect on reproduction and foetal development. Based on its mechanism of action and findings from animal studies, tisotumab vedotin could cause embryo-foetal harm when administered to a pregnant woman. Intravenous administration of MMAE to pregnant rats during organogenesis (gestational Days 6 and 13) resulted in increased total resorptions, post implantation loss, early delivery, loss of viable foetuses, and teratogenic embryo-foetal toxicity at a dose of 0.2 mg/kg (approximately 0.5 times the human AUC at the recommended dose).
 
@@ -676,7 +666,9 @@ CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Tivdak 40 mg powder for concentrate for solution for infusion tisotumab vedotin
+Tivdak 40 mg powder for concentrate for solution for infusion
+
+tisotumab vedotin
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -716,17 +708,23 @@ EXP:
 
 <div style=\"page-break-after: always\"></div>
 
-## 9. SPECIAL STORAGE CONDITIONS
+| 9.   | SPECIAL STORAGE CONDITIONS   |
+|------|------------------------------|
 
 Store in a refrigerator.
 
 Do not freeze.
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+| 10.                                                                    | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS          |
+|------------------------------------------------------------------------|------------------------------------------------------------------------|
+| OR WASTE MATERIALS DERIVEDFROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE | OR WASTE MATERIALS DERIVEDFROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE |
 
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|--------------------------------------------------------|
 
-Genmab A/S Carl Jacobsens Vej 30 2500 Valby Denmark
+Genmab A/S Carl Jacobsens Vej 30 2500 Valby
+
+Denmark
 
 | 12. MARKETING AUTHORISATION NUMBER(S)   |
 |-----------------------------------------|
@@ -749,22 +747,19 @@ Lot:
 
 Justification for not including Braille accepted.
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
+|-------|----------------------------------|
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|-------|------------------------------------------|
 
 PC SN
 
 NN
 
-<div style=\"page-break-after: always\"></div>
-
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
-
-VIAL LABEL
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS VIAL LABEL
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
@@ -789,6 +784,8 @@ Lot:
 ## 6. OTHER
 
 Cytotoxic
+
+<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1023,9 +1020,43 @@ Tivdak is supplied in a box containing 1 glass vial.
 
 ## Marketing Authorisation Holder and Manufacturer
 
-Genmab A/S 2500 Valby
+Genmab A/S Carl Jacobsens Vej 30 2500 Valby Denmark
 
-Carl Jacobsens Vej 30 Denmark Tel: +45 89 88 95 37 EURmedinfo@genmab.com
+For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
+
+België/Belgique/Belgien;
+
+България;
+
+Česká republika; Danmark;
+
+Eesti;
+
+Ελλάδα ;
+
+España; France; Hrvatska;
+
+Ireland; Ísland; Italia;
+
+Κύπρος ; Latvija;
+
+Lietuva; Luxembourg/Luxemburg;
+
+Magyarország; Malta; Nederland;
+
+Norge; Österreich; Polska; Portugal;
+
+România; Slovenija; Slovenská republika;
+
+Suomi/Finland; Sverige
+
+Genmab A/S
+
+Tel: +45 89 88 95 37
+
+EURmedinfo@genmab.com
+
+Deutschland Genmab Germany GmbH Tel: +49 89 380 380 92 EURmedinfo@genmab.com
 
 ## This leaflet was last revised in
 
@@ -1041,6 +1072,8 @@ The following information is intended for healthcare professionals only:
 
 In order to improve the traceability of biological medicinal products, the name and the batch number of the administered product should be clearly recorded.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Instructions for preparation and administration
 
 ## Reconstitution in single-dose vial
@@ -1050,11 +1083,7 @@ In order to improve the traceability of biological medicinal products, the name 
 3. Calculate the recommended dose based on the patient's actual body weight to determine the number of vials needed.
 4. Reconstitute each 40 mg vial with 4 mL of sterile water for injection, resulting in 10 mg/mL Tivdak.
 5. Slowly swirl each vial until the contents are completely dissolved. Allow the reconstituted vial(s) to settle. Do not shake the vial. Do not expose to direct sunlight.
-6. Parenteral medicinal products should be inspected visually for particulate matter and discolouration prior to administration, whenever solution and container permit. The
-
-<div style=\"page-break-after: always\"></div>
-
-- reconstituted solution should be clear to slightly opalescent, colourless to brownish-yellow and free of visible particles. Discard any vial with visible particles or discolouration.
+6. Parenteral medicinal products should be inspected visually for particulate matter and discolouration prior to administration, whenever solution and container permit. The reconstituted solution should be clear to slightly opalescent, colourless to brownish-yellow and free of visible particles. Discard any vial with visible particles or discolouration.
 7. Based upon the calculated dose amount, the reconstituted solution from the vial(s) should be added to the infusion bag immediately. This product does not contain a preservative. If not used immediately, reconstituted vials may be stored for up to 24 hours refrigerated at 2 °C to 8 °C or at room temperature (9 °C to 25 °C) up to a maximum of 8 hours prior to dilution. Do not freeze. Discard unused vials with reconstituted solution beyond the recommended storage time.
 
 ## Dilution in infusion bag
@@ -1072,13 +1101,15 @@ In order to improve the traceability of biological medicinal products, the name 
 15. Immediately administer the infusion over 30 minutes through an intravenous line containing a 0.2 µm in-line filter.
 16. If the infusion is not administered immediately, store the diluted Tivdak solution in refrigeration as specified in Table 1. Discard if storage time exceeds these limits. Do not freeze. Once removed from refrigeration, complete administration of the diluted infusion solution of Tivdak within 4 hours (including infusion time).
 
-Table 1: Diluted Tivdak solution refrigeration storage conditions
+## Table 1: Diluted Tivdak solution refrigeration storage conditions
 
 | Solvent used to prepare solution for infusion   | Diluted Tivdak solution storage conditions (including infusion time)   |
 |-------------------------------------------------|------------------------------------------------------------------------|
 | Sodium chloride 9 mg/mL (0.9%) injection        | Up to 18 hours at 2 °C to 8 °C                                         |
 | Dextrose 50 mg/mL (5%) injection                | Up to 24 hours at 2 °C to 8 °C                                         |
 | Lactated ringer's injection                     | Up to 12 hours at 2 °C to 8 °C                                         |
+
+<div style=\"page-break-after: always\"></div>
 
 ## Disposal
 

@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-05-07 15:25:00
+document_datetime: 2026-06-08 14:08:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/fintepla.html
 document_name: fintepla.html
 version: success
-processing_time: 0.1355696
-conversion_datetime: 2026-05-10 12:15:49.334555
+processing_time: 0.1760238
+conversion_datetime: 2026-06-10 13:36:20.288527
 docling_version:
-  docling-serve: 1.17.0
-  docling-jobkit: 1.18.0
-  docling: 2.92.0
-  docling-core: 2.74.1
-  docling-ibm-models: 3.13.2
-  docling-parse: 5.10.1
+  docling-serve: 1.22.0
+  docling-jobkit: 1.21.0
+  docling: 2.100.0
+  docling-core: 2.80.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 6.2.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
 ---
 # Search
 
@@ -132,7 +132,7 @@ Expand section
 
 Collapse section
 
-## How is Fintepla used?
+### How is Fintepla used?
 
 The medicine can only be obtained by 'special' prescription. This means that it is used under stricter conditions than normal to prevent misuse and to ensure doctors are informed about the need for regular heart checks in patients taking the medicine. Treatment should be started and supervised by a doctor experienced in the treatment of epilepsy.
 
@@ -140,11 +140,11 @@ Fintepla is available as a liquid to be taken by mouth twice a day. The dose dep
 
 For more information about using Fintepla, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Fintepla work?
+### How does Fintepla work?
 
 The active substance in Fintepla, fenfluramine, causes the release of serotonin in the brain. Serotonin is a substance used by nerve cells to communicate with neighbouring cells. The exact way that fenfluramine works is not fully understood. It is thought that serotonin acts on several targets in the brain to improve symptoms of patients with Dravet syndrome or Lennox-Gastaut syndrome. Fenfluramine may also protect against seizures by acting on the sigma-1 receptor found on the surface of nerve cells.
 
-## What benefits of Fintepla have been shown in studies?
+### What benefits of Fintepla have been shown in studies?
 
 Studies showed that Fintepla reduces the frequency of seizures in children and young adults with Dravet syndrome or Lennox-Gastaut syndrome who are taking at least one other epilepsy medicine.
 
@@ -156,7 +156,7 @@ In the second study, patients were also taking stiripentol and at least one othe
 
 A third main study involving 263 patients with Lennox-Gastaut syndrome compared Fintepla with placebo, both given in addition to the patient's standard of care. The main measure of effectiveness was the change in the frequency of drop seizures (brief loss of muscle tone and reduced consciousness, causing abrupt falls). The study found that the average (median) frequency of drop seizures reduced by 26.5% in the 87 patients receiving Fintepla compared with 7.6% in those receiving placebo (87 patients). The study also showed that the monthly number of drop seizures fell by at least half in 25% of patients treated with Fintepla and 10% of those taking placebo.
 
-## What are the risks associated with Fintepla?
+### What are the risks associated with Fintepla?
 
 In patients with Lennox-Gastaut syndrome, the most common side effects with Fintepla (which may affect more than 1 in 10 people) are decreased appetite, tiredness, somnolence (sleepiness), vomiting and diarrhoea.
 
@@ -168,13 +168,13 @@ Fintepla must not be taken by patients who have heart or lung problems called va
 
 For the full list of restrictions, see the package leaflet.
 
-## Why is Fintepla authorised in the EU?
+### Why is Fintepla authorised in the EU?
 
 Dravet syndrome and Lennox-Gastaut syndrome are rare diseases with limited treatment options. Fintepla used in addition to other epilepsy medicines has been shown to reduce the frequency of seizures in children and young adults with these diseases. The side effects are considered manageable with the measures described below in place to prevent the risks.
 
 The European Medicines Agency therefore decided that Fintepla's benefits are greater than its risks and it can be authorised for use in the EU.
 
-## What measures are being taken to ensure the safe and effective use of Fintepla?
+### What measures are being taken to ensure the safe and effective use of Fintepla?
 
 Serious cases of heart and lung problems (valvular heart disease and pulmonary arterial hypertension) have been reported with higher doses of the medicine used in the past for the treatment of obesity in adults. Although these effects have not been reported at the lower doses used in patients with Dravet syndrome or Lennox-Gastaut syndrome, several measures have been put in place to minimise this risk:
 
@@ -186,7 +186,7 @@ Recommendations and precautions to be followed by healthcare professionals and p
 
 As for all medicines, data on the use of Fintepla are continuously monitored. Side effects reported with Fintepla are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Fintepla
+### Other information about Fintepla
 
 Fintepla received a marketing authorisation valid throughout the EU on 18 December 2020.
 
@@ -200,7 +200,7 @@ English (EN) (159.43 KB - PDF)
 
 [View](/en/documents/overview/fintepla-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-726)
+[Other languages (22)](#file-language-dropdown-90)
 
 български (BG) (186.5 KB - PDF)
 
@@ -232,7 +232,7 @@ Deutsch (DE) (165.32 KB - PDF)
 
 [View](/de/documents/overview/fintepla-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (157.13 KB - PDF)
+eesti (ET) (157.13 KB - PDF)
 
 **First published:** 08/01/2021 **Last updated:** 07/02/2023
 
@@ -262,13 +262,13 @@ italiano (IT) (159.16 KB - PDF)
 
 [View](/it/documents/overview/fintepla-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (199.92 KB - PDF)
+latviešu (LV) (199.92 KB - PDF)
 
 **First published:** 08/01/2021 **Last updated:** 07/02/2023
 
 [View](/lv/documents/overview/fintepla-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (184.81 KB - PDF)
+lietuvių (LT) (184.81 KB - PDF)
 
 **First published:** 08/01/2021 **Last updated:** 07/02/2023
 
@@ -322,7 +322,7 @@ slovenščina (SL) (182.24 KB - PDF)
 
 [View](/sl/documents/overview/fintepla-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (158.13 KB - PDF)
+suomi (FI) (158.13 KB - PDF)
 
 **First published:** 08/01/2021 **Last updated:** 07/02/2023
 
@@ -352,7 +352,7 @@ English (EN) (775.79 KB - PDF)
 
 [View](/en/documents/product-information/fintepla-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-572)
+[Other languages (24)](#file-language-dropdown-541)
 
 български (BG) (705.54 KB - PDF)
 
@@ -384,7 +384,7 @@ Deutsch (DE) (552.26 KB - PDF)
 
 [View](/de/documents/product-information/fintepla-epar-product-information_de.pdf)
 
-eesti keel (ET) (519.07 KB - PDF)
+eesti (ET) (519.07 KB - PDF)
 
 **First published:** 08/01/2021 **Last updated:** 09/04/2026
 
@@ -408,25 +408,19 @@ hrvatski (HR) (611.53 KB - PDF)
 
 [View](/hr/documents/product-information/fintepla-epar-product-information_hr.pdf)
 
-íslenska (IS) (561.53 KB - PDF)
-
-**First published:** 08/01/2021 **Last updated:** 09/04/2026
-
-[View](/is/documents/product-information/fintepla-epar-product-information_is.pdf)
-
 italiano (IT) (622.03 KB - PDF)
 
 **First published:** 08/01/2021 **Last updated:** 09/04/2026
 
 [View](/it/documents/product-information/fintepla-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (614.8 KB - PDF)
+latviešu (LV) (614.8 KB - PDF)
 
 **First published:** 08/01/2021 **Last updated:** 09/04/2026
 
 [View](/lv/documents/product-information/fintepla-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (670.54 KB - PDF)
+lietuvių (LT) (670.54 KB - PDF)
 
 **First published:** 08/01/2021 **Last updated:** 09/04/2026
 
@@ -449,12 +443,6 @@ Nederlands (NL) (538.48 KB - PDF)
 **First published:** 08/01/2021 **Last updated:** 09/04/2026
 
 [View](/nl/documents/product-information/fintepla-epar-product-information_nl.pdf)
-
-norsk (NO) (576.44 KB - PDF)
-
-**First published:** 08/01/2021 **Last updated:** 09/04/2026
-
-[View](/no/documents/product-information/fintepla-epar-product-information_no.pdf)
 
 polski (PL) (706.31 KB - PDF)
 
@@ -486,7 +474,7 @@ slovenščina (SL) (652.25 KB - PDF)
 
 [View](/sl/documents/product-information/fintepla-epar-product-information_sl.pdf)
 
-Suomi (FI) (567.72 KB - PDF)
+suomi (FI) (567.72 KB - PDF)
 
 **First published:** 08/01/2021 **Last updated:** 09/04/2026
 
@@ -497,6 +485,18 @@ svenska (SV) (556.27 KB - PDF)
 **First published:** 08/01/2021 **Last updated:** 09/04/2026
 
 [View](/sv/documents/product-information/fintepla-epar-product-information_sv.pdf)
+
+Íslenska (IS) (561.53 KB - PDF)
+
+**First published:** 08/01/2021 **Last updated:** 09/04/2026
+
+[View](/is/documents/product-information/fintepla-epar-product-information_is.pdf)
+
+norsk (NO) (576.44 KB - PDF)
+
+**First published:** 08/01/2021 **Last updated:** 09/04/2026
+
+[View](/no/documents/product-information/fintepla-epar-product-information_no.pdf)
 
 **Latest procedure affecting product information:** PSUR/0000296555
 
@@ -524,7 +524,7 @@ English (EN) (56.79 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/fintepla-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-532)
+[Other languages (23)](#file-language-dropdown-667)
 
 български (BG) (70.56 KB - PDF)
 
@@ -556,7 +556,7 @@ Deutsch (DE) (60.97 KB - PDF)
 
 [View](/de/documents/all-authorised-presentations/fintepla-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (57.56 KB - PDF)
+eesti (ET) (57.56 KB - PDF)
 
 **First published:** 08/01/2021
 
@@ -574,25 +574,19 @@ hrvatski (HR) (77.2 KB - PDF)
 
 [View](/hr/documents/all-authorised-presentations/fintepla-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (64.35 KB - PDF)
-
-**First published:** 08/01/2021
-
-[View](/is/documents/all-authorised-presentations/fintepla-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (58.66 KB - PDF)
 
 **First published:** 08/01/2021
 
 [View](/it/documents/all-authorised-presentations/fintepla-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (76.94 KB - PDF)
+latviešu (LV) (76.94 KB - PDF)
 
 **First published:** 08/01/2021
 
 [View](/lv/documents/all-authorised-presentations/fintepla-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (77.48 KB - PDF)
+lietuvių (LT) (77.48 KB - PDF)
 
 **First published:** 08/01/2021
 
@@ -615,12 +609,6 @@ Nederlands (NL) (58.03 KB - PDF)
 **First published:** 08/01/2021
 
 [View](/nl/documents/all-authorised-presentations/fintepla-epar-all-authorised-presentations_nl.pdf)
-
-norsk (NO) (55.82 KB - PDF)
-
-**First published:** 08/01/2021
-
-[View](/no/documents/all-authorised-presentations/fintepla-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (77.38 KB - PDF)
 
@@ -652,7 +640,7 @@ slovenščina (SL) (66.6 KB - PDF)
 
 [View](/sl/documents/all-authorised-presentations/fintepla-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (58.32 KB - PDF)
+suomi (FI) (58.32 KB - PDF)
 
 **First published:** 08/01/2021
 
@@ -664,6 +652,18 @@ svenska (SV) (57.94 KB - PDF)
 
 [View](/sv/documents/all-authorised-presentations/fintepla-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (64.35 KB - PDF)
+
+**First published:** 08/01/2021
+
+[View](/is/documents/all-authorised-presentations/fintepla-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (55.82 KB - PDF)
+
+**First published:** 08/01/2021
+
+[View](/no/documents/all-authorised-presentations/fintepla-epar-all-authorised-presentations_no.pdf)
+
 Fintepla : EPAR - Conditions imposed on member states for safe and effective use
 
 English (EN) (74.17 KB - PDF)
@@ -672,7 +672,7 @@ English (EN) (74.17 KB - PDF)
 
 [View](/en/documents/conditions-member-states/fintepla-epar-conditions-imposed-member-states-safe-and-effective-use_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-912)
+[Other languages (24)](#file-language-dropdown-333)
 
 български (BG) (67.67 KB - PDF)
 
@@ -704,7 +704,7 @@ Deutsch (DE) (54.48 KB - PDF)
 
 [View](/de/documents/conditions-member-states/fintepla-epar-conditions-imposed-member-states-safe-and-effective-use_de.pdf)
 
-eesti keel (ET) (48.3 KB - PDF)
+eesti (ET) (48.3 KB - PDF)
 
 **First published:** 08/01/2021
 
@@ -728,25 +728,19 @@ hrvatski (HR) (62.97 KB - PDF)
 
 [View](/hr/documents/conditions-member-states/fintepla-epar-conditions-imposed-member-states-safe-and-effective-use_hr.pdf)
 
-íslenska (IS) (92.53 KB - PDF)
-
-**First published:** 08/01/2021
-
-[View](/is/documents/conditions-member-states/fintepla-epar-conditions-imposed-member-states-safe-and-effective-use_is.pdf)
-
 italiano (IT) (62.72 KB - PDF)
 
 **First published:** 08/01/2021
 
 [View](/it/documents/conditions-member-states/fintepla-epar-conditions-imposed-member-states-safe-and-effective-use_it.pdf)
 
-latviešu valoda (LV) (75.84 KB - PDF)
+latviešu (LV) (75.84 KB - PDF)
 
 **First published:** 08/01/2021
 
 [View](/lv/documents/conditions-member-states/fintepla-epar-conditions-imposed-member-states-safe-and-effective-use_lv.pdf)
 
-lietuvių kalba (LT) (66.26 KB - PDF)
+lietuvių (LT) (66.26 KB - PDF)
 
 **First published:** 08/01/2021
 
@@ -769,12 +763,6 @@ Nederlands (NL) (52.07 KB - PDF)
 **First published:** 08/01/2021
 
 [View](/nl/documents/conditions-member-states/fintepla-epar-conditions-imposed-member-states-safe-and-effective-use_nl.pdf)
-
-norsk (NO) (50.75 KB - PDF)
-
-**First published:** 08/01/2021
-
-[View](/no/documents/conditions-member-states/fintepla-epar-conditions-imposed-member-states-safe-and-effective-use_no.pdf)
 
 polski (PL) (52.41 KB - PDF)
 
@@ -806,7 +794,7 @@ slovenščina (SL) (104.72 KB - PDF)
 
 [View](/sl/documents/conditions-member-states/fintepla-epar-conditions-imposed-member-states-safe-and-effective-use_sl.pdf)
 
-Suomi (FI) (47.76 KB - PDF)
+suomi (FI) (47.76 KB - PDF)
 
 **First published:** 08/01/2021
 
@@ -817,6 +805,18 @@ svenska (SV) (42.04 KB - PDF)
 **First published:** 08/01/2021
 
 [View](/sv/documents/conditions-member-states/fintepla-epar-conditions-imposed-member-states-safe-and-effective-use_sv.pdf)
+
+Íslenska (IS) (92.53 KB - PDF)
+
+**First published:** 08/01/2021
+
+[View](/is/documents/conditions-member-states/fintepla-epar-conditions-imposed-member-states-safe-and-effective-use_is.pdf)
+
+norsk (NO) (50.75 KB - PDF)
+
+**First published:** 08/01/2021
+
+[View](/no/documents/conditions-member-states/fintepla-epar-conditions-imposed-member-states-safe-and-effective-use_no.pdf)
 
 ## Product details
 
@@ -868,7 +868,7 @@ Marketing authorisation holder
 
 UCB Pharma S.A.
 
-Allée de la Recherche 60
+Allée de la Recherche 60 B-1070 Bruxelles Belgium
 
 Opinion adopted
 
@@ -880,7 +880,7 @@ Marketing authorisation issued
 
 Revision
 
-17
+18
 
 ## Assessment history
 
@@ -888,7 +888,7 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Fintepla : EPAR - Procedural steps taken and scientific information after authorisation
 
@@ -905,6 +905,16 @@ English (EN) (196.46 KB - PDF)
 **First published:** 23/06/2021 **Last updated:** 02/05/2025
 
 [View](/en/documents/procedural-steps-after/fintepla-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
+
+Fintepla-PAM-0000326084 : EPAR - Assessment report
+
+Adopted Reference Number: EMADOC-1700519818-3226754
+
+English (EN) (1.1 MB - PDF)
+
+**First published:** 08/06/2026
+
+[View](/en/documents/variation-report/fintepla-pam-0000326084-epar-assessment-report_en.pdf)
 
 Fintepla-PSUSA-00010907-202506 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
 
@@ -976,7 +986,7 @@ English (EN) (135.91 KB - PDF)
 
 [View](/en/documents/smop/chmp-post-authorisation-summary-opinion-fintepla-ii-12_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Fintepla : EPAR - Public assessment report
 
@@ -1024,11 +1034,11 @@ English (EN) (132.5 KB - PDF)
 - [EU/3/17/1836 - orphan designation for treatment of Lennox-Gastaut syndrome](/en/medicines/human/orphan-designations/eu-3-17-1836)
 - [EMEA-001990-PIP01-16-M05 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001990-pip01-16-m05)
 - [EU/3/23/2768 - orphan designation for treatment of CDKL5 deficiency disorder](/en/medicines/human/orphan-designations/eu-3-23-2768)
-- [A Registry of Patients Treated with Fintepla (TAPESTRY Registry) - post-authorisation study](https://catalogues.ema.europa.eu/study/105359)
 - [Implementation of controlled access to and distribution of medicinal products in European Union (CONTROL-EU) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000313)
+- [A Registry of Patients Treated with Fintepla (TAPESTRY Registry) - post-authorisation study](https://catalogues.ema.europa.eu/study/105359)
 
 **This page was last updated on**
 
-07/05/2026
+08/06/2026
 
 ## Share this page

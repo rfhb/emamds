@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-05-21 15:13:24
-document_pages: 258
+document_datetime: 2026-06-08 10:12:59
+document_pages: 259
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/xolair-epar-product-information_en.pdf
 document_name: xolair-epar-product-information_en.pdf
 version: success
-processing_time: 116.3815404
-conversion_datetime: 2025-12-24 23:05:04.06581
+processing_time: 126.8677028
+conversion_datetime: 2026-06-10 13:44:51.300487
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.22.0
+  docling-jobkit: 1.21.0
+  docling: 2.100.0
+  docling-core: 2.80.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 6.2.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -88,17 +88,17 @@ The maximum recommended dose is 600 mg omalizumab every two weeks.
 
 Table 1 Conversion from dose to number of pre-filled syringes/pens*, number of injections** and total injection volume for each administration
 
-| Dose (mg)   | Number of syringes/pens *   | Number of syringes/pens *   | Number of syringes/pens *   | Number of injections   | Total injection volume (ml)   |
+|   Dose (mg) | Number of syringes/pens *   | Number of syringes/pens *   | Number of syringes/pens *   |   Number of injections |   Total injection volume (ml) |
 |-------------|-----------------------------|-----------------------------|-----------------------------|------------------------|-------------------------------|
 |             | 75 mg                       | 150 mg                      | 300 mg *                    |                        |                               |
-| 75          | 1                           | 0                           | 0                           | 1                      | 0.5                           |
-| 150         | 0                           | 1                           | 0                           | 1                      | 1.0                           |
-| 225         | 1                           | 1                           | 0                           | 2                      | 1.5                           |
-| 300         | 0                           | 0                           | 1                           | 1                      | 2.0                           |
-| 375         | 1                           | 0                           | 1                           | 2                      | 2.5                           |
-| 450         | 0                           | 1                           | 1                           | 2                      | 3.0                           |
-| 525         | 1                           | 1                           | 1                           | 3                      | 3.5                           |
-| 600         | 0                           | 0                           | 2                           | 2                      | 4.0                           |
+|          75 | 1                           | 0                           | 0                           |                      1 |                           0.5 |
+|         150 | 0                           | 1                           | 0                           |                      1 |                           1.0 |
+|         225 | 1                           | 1                           | 0                           |                      2 |                           1.5 |
+|         300 | 0                           | 0                           | 1                           |                      1 |                           2.0 |
+|         375 | 1                           | 0                           | 1                           |                      2 |                           2.5 |
+|         450 | 0                           | 1                           | 1                           |                      2 |                           3.0 |
+|         525 | 1                           | 1                           | 1                           |                      3 |                           3.5 |
+|         600 | 0                           | 0                           | 2                           |                      2 |                           4.0 |
 
 *Xolair 300 mg pre-filled syringe and all dose strengths of Xolair pre-filled pen are not intended for use in patients &lt;12 years of age.
 
@@ -294,35 +294,37 @@ Omalizumab has no or negligible influence on the ability to drive and use machin
 
 ## Summary of the safety profile
 
-During allergic asthma clinical trials in adult and adolescent patients 12 years of age and older, the most commonly reported adverse reactions were headaches and injection site reactions, including injection site pain, swelling, erythema and pruritus. In clinical trials in children 6 to &lt;12 years of age, the most commonly reported adverse reactions were headache, pyrexia and upper abdominal pain. Most of the reactions were mild or moderate in severity. In clinical trials in patients ≥18 years of age
+During allergic asthma clinical trials in adult and adolescent patients 12 years of age and older, the most commonly reported adverse reactions were headaches and injection site reactions, including injection site pain, swelling, erythema and pruritus. In clinical trials in children 6 to &lt;12 years of age, the most commonly reported adverse reactions were headache, pyrexia and upper abdominal pain. Most of the reactions were mild or moderate in severity. In clinical trials in patients ≥18 years of age in CRSwNP, the most commonly reported adverse reactions were headache, dizziness, arthralgia, abdominal pain upper and injection site reactions.
 
 <div style=\"page-break-after: always\"></div>
 
-in CRSwNP, the most commonly reported adverse reactions were headache, dizziness, arthralgia, abdominal pain upper and injection site reactions.
-
 ## Tabulated list of adverse reactions
 
-Table 4 lists the adverse reactions recorded in clinical studies in the total allergic asthma and CRSwNP safety population treated with Xolair by MedDRA system organ class and frequency. Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness. Frequency categories are defined as: very common (≥1/10), common (≥1/100 to &lt;1/10), uncommon (≥1/1 000 to &lt;1/100), rare (≥1/10 000 to &lt;1/1 000) and very rare (&lt;1/10 000). Reactions reported in the postmarketing setting are listed with frequency not known (cannot be estimated from the available data).
+Table 4 lists the adverse reactions recorded in clinical studies in the total allergic asthma and CRSwNP safety population treated with Xolair by MedDRA system organ class and frequency. Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness. Frequency categories are defined as: very common (≥1/10), common (≥1/100 to &lt;1/10), uncommon (≥1/1 000 to &lt;1/100), rare ( ≥ 1/10 000 to &lt;1/1 000) and very rare (&lt;1/10 000). Reactions reported in the postmarketing setting are listed with frequency not known (cannot be estimated from the available data).
 
 Table 4 Adverse reactions in allergic asthma and CRSwNP
 
-| Infections and infestations                                   | Infections and infestations                                                                                                                            |
-|---------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Uncommon Rare                                                 | Pharyngitis Parasitic infection                                                                                                                        |
-| Blood and lymphatic system disorders                          | Blood and lymphatic system disorders                                                                                                                   |
-| Not known                                                     | Idiopathic thrombocytopenia, including severe cases                                                                                                    |
-| Immune system disorders                                       | Immune system disorders                                                                                                                                |
-| Rare Not known                                                | Anaphylactic reaction, other serious allergic conditions, anti- omalizumab antibody development Serum sickness, may include fever and lymphadenopathy  |
-| Nervous system disorders                                      | Nervous system disorders                                                                                                                               |
-| Common Uncommon                                               | Headache* Syncope, paraesthesia, somnolence, dizziness #                                                                                               |
-| Vascular disorders                                            | Vascular disorders                                                                                                                                     |
-| Uncommon                                                      | Postural hypotension, flushing                                                                                                                         |
-| Respiratory, thoracic and mediastinal disorders               | Respiratory, thoracic and mediastinal disorders                                                                                                        |
-| Uncommon Rare Not known                                       | Allergic bronchospasm, coughing Laryngoedema Allergic granulomatous vasculitis (i.e. Churg-Strauss syndrome)                                           |
-| Gastrointestinal disorders                                    | Gastrointestinal disorders                                                                                                                             |
-| Common Uncommon Skin and                                      | Abdominal pain upper** ,# Dyspeptic signs and symptoms, diarrhoea, nausea                                                                              |
-| subcutaneous tissue disorders                                 | subcutaneous tissue disorders                                                                                                                          |
-| Uncommon Rare Not known Musculoskeletal Common Rare Not known | Photosensitivity, urticaria, rash, pruritus Angioedema Alopecia tissue disorders Athralgia† Systemic lupus erythematosus (SLE) Myalgia, joint swelling |
+| Infections and infestations                          | Infections and infestations                                                                                                                           |
+|------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Uncommon Rare                                        | Pharyngitis Parasitic infection                                                                                                                       |
+| Blood and lymphatic system disorders                 | Blood and lymphatic system disorders                                                                                                                  |
+| Not known                                            | Idiopathic thrombocytopenia, including severe cases                                                                                                   |
+| Immune system disorders                              | Immune system disorders                                                                                                                               |
+| Rare Not known                                       | Anaphylactic reaction, other serious allergic conditions, anti- omalizumab antibody development Serum sickness, may include fever and lymphadenopathy |
+| Nervous system disorders                             | Nervous system disorders                                                                                                                              |
+| Common Uncommon                                      | Headache* Syncope, paraesthesia, somnolence, dizziness #                                                                                              |
+| Vascular disorders                                   | Vascular disorders                                                                                                                                    |
+| Uncommon                                             | Postural hypotension, flushing                                                                                                                        |
+| Respiratory, thoracic and mediastinal disorders      | Respiratory, thoracic and mediastinal disorders                                                                                                       |
+| Uncommon Rare Not known                              | Allergic bronchospasm, coughing Laryngoedema Allergic granulomatous vasculitis (i.e. Churg-Strauss syndrome)                                          |
+| Gastrointestinal disorders                           | Gastrointestinal disorders                                                                                                                            |
+| Uncommon Skin and subcutaneous Uncommon Rare         | Dyspeptic signs and symptoms, diarrhoea, nausea disorders Photosensitivity, urticaria, rash, pruritus                                                 |
+| Not known                                            | Angioedema Alopecia                                                                                                                                   |
+| Musculoskeletal and connective tissue disorders      | Musculoskeletal and connective tissue disorders                                                                                                       |
+| Common Rare Not known                                | Athralgia † Systemic lupus erythematosus (SLE) Myalgia, joint swelling                                                                                |
+| General disorders and administration site conditions | General disorders and administration site conditions                                                                                                  |
+|                                                      | Pyrexia**                                                                                                                                             |
+| Very common Common Uncommon                          | Injection site reactions such as swelling, erythema, pain, pruritus Influenza-like illness, swelling arms, weight increase, fatigue                   |
 
 ## Description of selected adverse reactions
 
@@ -396,13 +398,11 @@ In clinical studies in patients with CRSwNP, omalizumab treatment led to a reduc
 
 The efficacy and safety of omalizumab were demonstrated in a 28-week double-blind placebocontrolled study (study 1) involving 419 severe allergic asthmatics, ages 12-79 years, who had reduced lung function (FEV1 40-80% predicted) and poor asthma symptom control despite receiving high dose inhaled corticosteroids and a long-acting beta2-agonist. Eligible patients had experienced multiple asthma exacerbations requiring systemic corticosteroid treatment or had been hospitalised or attended an emergency room due to a severe asthma exacerbation in the past year despite continuous treatment with high-dose inhaled corticosteroids and a long-acting beta2-agonist. Subcutaneous omalizumab or placebo were administered as add-on therapy to &gt;1 000 micrograms beclomethasone dipropionate (or equivalent) plus a long-acting beta2-agonist. Oral corticosteroid, theophylline and leukotrienemodifier maintenance therapies were allowed (22%, 27%, and 35% of patients, respectively).
 
-The rate of asthma exacerbations requiring treatment with bursts of systemic corticosteroids was the primary endpoint. Omalizumab reduced the rate of asthma exacerbations by 19% (p = 0.153). Further evaluations which did show statistical significance (p&lt;0.05) in favour of omalizumab included reductions in severe exacerbations (where patient's lung function was reduced to below 60% of personal best and requiring systemic corticosteroids) and asthma-related emergency visits (comprised
+The rate of asthma exacerbations requiring treatment with bursts of systemic corticosteroids was the primary endpoint. Omalizumab reduced the rate of asthma exacerbations by 19% (p = 0.153). Further evaluations which did show statistical significance (p&lt;0.05) in favour of omalizumab included reductions in severe exacerbations (where patient's lung function was reduced to below 60% of personal best and requiring systemic corticosteroids) and asthma-related emergency visits (comprised of hospitalisations, emergency room, and unscheduled doctor visits), and improvements in Physician's overall assessment of treatment effectiveness, Asthma-related Quality of Life (AQL), asthma symptoms and lung function.
 
 <div style=\"page-break-after: always\"></div>
 
-of hospitalisations, emergency room, and unscheduled doctor visits), and improvements in Physician's overall assessment of treatment effectiveness, Asthma-related Quality of Life (AQL), asthma symptoms and lung function.
-
-In a subgroup analysis, patients with pre-treatment total IgE ≥76 IU/ml were more likely to experience clinically meaningful benefit to omalizumab. In these patients in study 1 omalizumab reduced the rate of asthma exacerbations by 40% (p = 0.002). In addition more patients had clinically meaningful responses in the total IgE ≥76 IU/ml population across the omalizumab severe asthma programme. Table 5 includes results in the study 1 population.
+In a subgroup analysis, patients with pretreatment total IgE ≥76 IU/ml were more likely to experience clinically meaningful benefit to omalizumab. In these patients in study 1 omalizumab reduced the rate of asthma exacerbations by 40% (p = 0.002). In addition more patients had clinically meaningful responses in the total IgE ≥76 IU/ml population across the omalizumab severe asthma programme. Table 5 includes results in the study 1 population.
 
 Table 5 Results of study 1
 
@@ -457,7 +457,7 @@ In the specific subgroup of patients on high dose inhaled corticosteroids, the o
 
 During the 52-week double-blind treatment period (including the 24-week fixed-dose steroid phase and the 28-week steroid adjustment phase) the difference in rates between treatment groups represented a 50% (rate ratio 0.504, p&lt;0.001) relative decrease in exacerbations for omalizumab patients.
 
-The omalizumab group showed greater decreases in beta-agonist rescue medicinal product use than the placebo group at the end of the 52-week treatment period, although the difference between treatment groups was not statistically significant. For the global evaluation of treatment effectiveness at the end of the 52-week double-blind treatment period in the subgroup of severe patients on highdose inhaled corticosteroids plus long-acting beta agonists, the proportion of patients rated as having 'excellent' treatment effectiveness was higher, and the proportions having 'moderate' or 'poor' treatment effectiveness lower in the omalizumab group compared to the placebo group; the difference between groups was statistically significant (p&lt;0.001), while there were no differences between the omalizumab and placebo groups for patients' subjective Quality of Life ratings.
+The omalizumab group showed greater decreases in beta-agonist rescue medicinal product use than the placebo group at the end of the 52-week treatment period, although the difference between treatment groups was not statistically significant. For the global evaluation of treatment effectiveness at the end of the 52-week double-blind treatment period in the subgroup of severe patients on highdose inhaled corticosteroids plus long-acting beta agonists, the proportion of patients rated as having 'excellent' treatment effectiveness was higher, and the proportions having 'moderate' or 'poor' treatment effectiveness lower in the omalizumab group compared to the placebo group; the difference between groups was statistically significant (p&lt;0.001), while there were no differences between the omalizumab and placebo groups for patients' subjective Quality of Life ratings .
 
 ## Chronic rhinosinusitis with nasal polyps (CRSwNP)
 
@@ -502,27 +502,24 @@ Table 7 Change from baseline at Week 24 in clinical scores from nasal polyp stud
 | Nasal polyp score                             |                                 |                                 |                                |                                |                                 |                                 |
 | Baseline mean                                 | 6.32                            | 6.19                            | 6.09                           | 6.44                           | 6.21                            | 6.31                            |
 | LS mean change at Week 24                     | 0.06                            | -1.08                           | -0.31                          | -0.90                          | -0.13                           | -0.99                           |
-| Difference (95% CI) p-value                   | -1.14 (-1.59, -069)             | <0.0001                         | -0.59 (-1.05, -012)            | 0.0140                         | -0.86 (-1.18, -0.54)            | <0.0001                         |
+| Difference (95% CI) p-value                   | -1.14 (-1.59, -069) <0.0001     | -1.14 (-1.59, -069) <0.0001     | -0.59 (-1.05, -012) 0.0140     | -0.59 (-1.05, -012) 0.0140     | -0.86 (-1.18, -0.54) <0.0001    | -0.86 (-1.18, -0.54) <0.0001    |
 | 7-day average of daily nasal congestion score |                                 |                                 |                                |                                |                                 |                                 |
-| Baseline mean                                 | 2.46                            | 2.40                            | 2.29                           | 2.26                           | 2.38                            | 2.34                            |
-| LS mean change at Week 24                     | -0.35                           | -0.89                           | -0.20                          | -0.70                          | -0.28                           | -0.80                           |
+| Baseline mean LS mean change at Week 24       | 2.46 -0.35                      | 2.40 -0.89                      | 2.29 -0.20                     | 2.26 -0.70                     | 2.38 -0.28                      | 2.34 -0.80                      |
 | Difference (95% CI) p-value                   | -0.55 (-0.84, -0.25) 0.0004     | -0.55 (-0.84, -0.25) 0.0004     | -0.50 (-0.80, -0.19) 0.0017    | -0.50 (-0.80, -0.19) 0.0017    | -0.52 (-0.73, -0.31) <0.0001    | -0.52 (-0.73, -0.31) <0.0001    |
 | TNSS                                          |                                 |                                 |                                |                                |                                 |                                 |
 | Baseline mean                                 | 9.33                            | 8.56                            | 8.73                           | 8.37                           | 9.03                            | 8.47                            |
 | LS mean change at Week 24                     | -1.06                           | -2.97                           | -0.44                          | -2.53                          | -0.77                           | -2.75                           |
-| Difference (95% CI) p-value                   | -1.91 (-2.85, -0.96)            | 0.0001                          | -2.09 (-3.00, -1.18)           | <0.0001                        | -1.98 (-2.63, -1.33)            | <0.0001                         |
+| Difference (95% CI) p-value                   | -1.91 (-2.85, -0.96) 0.0001     | -1.91 (-2.85, -0.96) 0.0001     | -2.09 (-3.00, -1.18) <0.0001   | -2.09 (-3.00, -1.18) <0.0001   | -1.98 (-2.63, -1.33) <0.0001    | -1.98 (-2.63, -1.33) <0.0001    |
 | SNOT-22                                       |                                 |                                 |                                |                                |                                 |                                 |
 | Baseline mean                                 | 60.26                           | 59.82                           | 59.80                          | 59.21                          | 60.03                           | 59.54                           |
 | LS mean change at Week 24                     | -8.58                           | -24.70                          | -6.55                          | -21.59                         | -7.73                           | -23.10                          |
 | Difference (95% CI) p-value (MID = 8.9)       | -16.12 (-21.86, -10.38) <0.0001 | -16.12 (-21.86, -10.38) <0.0001 | -15.04 (-21.26, -8.82) <0.0001 | -15.04 (-21.26, -8.82) <0.0001 | -15.36 (-19.57, -11.16) <0.0001 | -15.36 (-19.57, -11.16) <0.0001 |
 | UPSIT                                         |                                 |                                 |                                |                                |                                 |                                 |
-| Baseline mean                                 | 13.56                           | 12.78                           | 13.27                          | 12.87                          | 13.41                           | 12.82                           |
-| LS mean change at Week 24                     | 0.63                            | 4.44                            | 0.44                           | 4.31                           | 0.54                            | 4.38                            |
+| Baseline mean                                 | 13.56                           | 12.78                           | 13.27                          | 12.87                          | 13.41                           | 12.82 4.38                      |
+| LS mean change at Week 24                     | 0.63                            | 4.44                            | 0.44                           | 4.31                           | 0.54                            |                                 |
 | Difference (95% CI) p-value                   | 3.81 (1.38, 6.24) 0.0024        | 3.81 (1.38, 6.24) 0.0024        | 3.86 (1.57, 6.15) 0.0011       | 3.86 (1.57, 6.15) 0.0011       | 3.84 (2.17, 5.51) <0.0001       | 3.84 (2.17, 5.51) <0.0001       |
 
-LS=least-square; CI = confidence interval; TNSS = Total nasal symptom score; SNOT-22 = Sino-Nasal Outcome Test 22 Questionnaire; UPSIT = University of Pennsylvania Smell Identification Test; MID =
-
-minimal important difference.
+LS=least-square; CI = confidence interval; TNSS = Total nasal symptom score; SNOT-22 = Sino-Nasal Outcome Test 22 Questionnaire; UPSIT = University of Pennsylvania Smell Identification Test; MID = minimal important difference.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -644,17 +641,15 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Novartis Europharm Limited
-
-Vista Building Elm Park, Merrion Road Dublin 4 Ireland
+Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Ireland
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
 Xolair 75 mg solution for injection in pre-filled syringe
 
-EU/1/05/319/005 EU/1/05/319/006 EU/1/05/319/007 EU/1/05/319/018 EU/1/05/319/019
+EU/1/05/319/005 EU/1/05/319/006 EU/1/05/319/007 EU/1/05/319/018 EU/1/05/319/019 EU/1/05/319/020 EU/1/05/319/031
 
-EU/1/05/319/020
+EU/1/05/319/032
 
 ## Xolair 75 mg solution for injection in pre-filled pen
 
@@ -758,17 +753,17 @@ The maximum recommended dose is 600 mg omalizumab every two weeks.
 
 Table 1 Conversion from dose to number of pre-filled syringes/pens*, number of injections** and total injection volume for each administration
 
-| Dose (mg)   | Number of syringes/pens *   | Number of syringes/pens *   | Number of syringes/pens *   | Number of injections   | Total injection volume (ml)   |
+|   Dose (mg) | Number of syringes/pens *   | Number of syringes/pens *   | Number of syringes/pens *   |   Number of injections |   Total injection volume (ml) |
 |-------------|-----------------------------|-----------------------------|-----------------------------|------------------------|-------------------------------|
 |             | 75 mg                       | 150 mg                      | 300 mg*                     |                        |                               |
-| 75          | 1                           | 0                           | 0                           | 1                      | 0.5                           |
-| 150         | 0                           | 1                           | 0                           | 1                      | 1.0                           |
-| 225         | 1                           | 1                           | 0                           | 2                      | 1.5                           |
-| 300         | 0                           | 0                           | 1                           | 1                      | 2.0                           |
-| 375         | 1                           | 0                           | 1                           | 2                      | 2.5                           |
-| 450         | 0                           | 1                           | 1                           | 2                      | 3.0                           |
-| 525         | 1                           | 1                           | 1                           | 3                      | 3.5                           |
-| 600         | 0                           | 0                           | 2                           | 2                      | 4.0                           |
+|          75 | 1                           | 0                           | 0                           |                      1 |                           0.5 |
+|         150 | 0                           | 1                           | 0                           |                      1 |                           1.0 |
+|         225 | 1                           | 1                           | 0                           |                      2 |                           1.5 |
+|         300 | 0                           | 0                           | 1                           |                      1 |                           2.0 |
+|         375 | 1                           | 0                           | 1                           |                      2 |                           2.5 |
+|         450 | 0                           | 1                           | 1                           |                      2 |                           3.0 |
+|         525 | 1                           | 1                           | 1                           |                      3 |                           3.5 |
+|         600 | 0                           | 0                           | 2                           |                      2 |                           4.0 |
 
 Table 2 ADMINISTRATION EVERY 4 WEEKS. Omalizumab doses (milligrams per dose) administered by subcutaneous injection every 4 weeks
 
@@ -794,15 +789,15 @@ Table 3 ADMINSTRATION EVERY 2 WEEKS. Omalizumab doses (milligrams per dose) admi
 |----------------------|------------------------------------------|------------------------------------------|------------------------------------------|------------------------------------------|------------------------------------------|------------------------------------------|------------------------------------------|------------------------------------------|------------------------------------------|------------------------------------------|
 | Baseline IgE (IU/ml) |  20- 25*                                | >25- 30*                                 | >30- 40                                  | >40- 50                                  | >50- 60                                  | >60- 70                                  | >70- 80                                  | >80- 90                                  | >90- 125                                 | >125- 150                                |
 |  30-100             | ADMINISTRATION EVERY 4 WEEKS SEE TABLE 2 | ADMINISTRATION EVERY 4 WEEKS SEE TABLE 2 | ADMINISTRATION EVERY 4 WEEKS SEE TABLE 2 | ADMINISTRATION EVERY 4 WEEKS SEE TABLE 2 | ADMINISTRATION EVERY 4 WEEKS SEE TABLE 2 | ADMINISTRATION EVERY 4 WEEKS SEE TABLE 2 | ADMINISTRATION EVERY 4 WEEKS SEE TABLE 2 | ADMINISTRATION EVERY 4 WEEKS SEE TABLE 2 | ADMINISTRATION EVERY 4 WEEKS SEE TABLE 2 | ADMINISTRATION EVERY 4 WEEKS SEE TABLE 2 |
-| >200-300             |                                          |                                          |                                          |                                          |                                          |                                          |                                          |                                          |                                          | 375                                      |
+| >100-200 >200-300    |                                          |                                          |                                          |                                          |                                          |                                          |                                          |                                          |                                          | 375                                      |
 | >300-400             |                                          |                                          |                                          |                                          |                                          |                                          |                                          |                                          | 450                                      | 525                                      |
 | >400-500             |                                          |                                          |                                          |                                          |                                          |                                          | 375                                      | 375                                      | 525                                      | 600                                      |
 | >500-600             |                                          |                                          |                                          |                                          |                                          | 375                                      | 450                                      | 450                                      | 600                                      |                                          |
 | >600-700             |                                          | 225                                      |                                          |                                          | 375                                      | 450                                      | 450                                      | 525                                      |                                          |                                          |
 | >700-800             | 225                                      | 225                                      | 300                                      | 375                                      | 450                                      | 450                                      | 525                                      | 600                                      |                                          |                                          |
 | >800-900             | 225                                      | 225                                      | 300                                      | 375                                      | 450                                      | 525                                      | 600                                      |                                          |                                          |                                          |
-| >900- 1 000          | 225                                      | 300                                      | 375                                      | 450                                      | 525                                      | 600                                      |                                          |                                          |                                          |                                          |
-| >1 000- 1 100        | 225                                      | 300                                      | 375                                      | 450                                      | 600                                      |                                          |                                          |                                          |                                          |                                          |
+| >900-                | 225                                      | 300                                      | 375                                      | 450                                      | 525                                      | 600                                      |                                          |                                          |                                          |                                          |
+| 1 000 >1 000- 1 100  | 225                                      | 300                                      | 375                                      | 450                                      | 600                                      |                                          |                                          |                                          |                                          |                                          |
 | >1 100- 1 200        | 300                                      | 300                                      | 450                                      | 525                                      | 600                                      | Insufficient data to recommend a dose    | Insufficient data to recommend a dose    | Insufficient data to recommend a dose    | Insufficient data to recommend a dose    | Insufficient data to recommend a dose    |
 | >1 200- 1 300        | 300                                      | 375                                      | 450                                      | 525                                      |                                          |                                          |                                          |                                          |                                          |                                          |
 | >1 300- 1 500        | 300                                      | 375                                      | 525                                      | 600                                      |                                          |                                          |                                          |                                          |                                          |                                          |
@@ -983,38 +978,36 @@ During allergic asthma clinical trials in adult and adolescent patients 12 years
 
 ## Tabulated list of adverse reactions
 
-Table 4 lists the adverse reactions recorded in clinical studies in the total allergic asthma and CRSwNP safety population treated with Xolair by MedDRA system organ class and frequency. Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness. Frequency categories are defined as: very common (≥1/10), common (≥1/100 to &lt;1/10), uncommon (≥1/1 000 to &lt;1/100), rare (≥1/10 000 to &lt;1/1 000) and very rare (&lt;1/10 000). Reactions reported in the postmarketing setting are listed with frequency not known (cannot be estimated from the available data).
+Table 4 lists the adverse reactions recorded in clinical studies in the total allergic asthma and CRSwNP safety population treated with Xolair by MedDRA system organ class and frequency. Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness. Frequency categories are defined as: very common (≥1/10), common (≥1/100 to &lt;1/10), uncommon (≥1/1 000 to &lt;1/100), rare ( ≥ 1/10 000 to &lt;1/1 000) and very rare (&lt;1/10 000). Reactions reported in the postmarketing setting are listed with frequency not known (cannot be estimated from the available data).
 
 <div style=\"page-break-after: always\"></div>
 
 Table 4 Adverse reactions in allergic asthma and CRSwNP
 
-| Infections and infestations                                   |                                                                                                                                                       |
+| Infections and infestations                                   | Infections and infestations                                                                                                                           |
 |---------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Uncommon                                                      | Pharyngitis                                                                                                                                           |
-| Rare Parasitic infection Blood and lymphatic system disorders |                                                                                                                                                       |
+| Rare Parasitic infection Blood and lymphatic system disorders | Rare Parasitic infection Blood and lymphatic system disorders                                                                                         |
 | Not known                                                     | Idiopathic thrombocytopenia, including severe cases                                                                                                   |
-| Immune system disorders                                       |                                                                                                                                                       |
+| Immune system disorders                                       | Immune system disorders                                                                                                                               |
 | Rare Not known                                                | Anaphylactic reaction, other serious allergic conditions, anti- omalizumab antibody development Serum sickness, may include fever and lymphadenopathy |
-| Nervous system disorders                                      |                                                                                                                                                       |
+| Nervous system disorders                                      | Nervous system disorders                                                                                                                              |
 | Common Uncommon                                               | Headache* Syncope, paraesthesia, somnolence, dizziness #                                                                                              |
-| Vascular disorders                                            |                                                                                                                                                       |
+| Vascular disorders                                            | Vascular disorders                                                                                                                                    |
 | Uncommon                                                      | Postural hypotension, flushing                                                                                                                        |
-| Respiratory, thoracic and mediastinal disorders               |                                                                                                                                                       |
-| Uncommon Rare Not known                                       | Allergic bronchospasm, coughing Laryngoedema Allergic granulomatous vasculitis (i.e. Churg-Strauss syndrome)                                          |
-| Gastrointestinal disorders                                    |                                                                                                                                                       |
-| Uncommon Uncommon Rare                                        | Dyspeptic signs and symptoms, diarrhoea, nausea Photosensitivity, urticaria, rash, pruritus                                                           |
-| Skin and                                                      | Angioedema                                                                                                                                            |
-| subcutaneous tissue disorders                                 |                                                                                                                                                       |
-| Not known Alopecia Common                                     | Athralgia† Systemic lupus erythematosus (SLE) Myalgia, joint swelling                                                                                 |
-| Musculoskeletal and connective tissue disorders               |                                                                                                                                                       |
-| Rare                                                          |                                                                                                                                                       |
-| General disorders and administration site conditions          |                                                                                                                                                       |
-| Very common Common                                            | Pyrexia** Injection site reactions such as swelling, erythema, pain,                                                                                  |
+| Respiratory, thoracic and mediastinal disorders               | Respiratory, thoracic and mediastinal disorders                                                                                                       |
+| Uncommon Rare                                                 | Allergic bronchospasm, coughing Laryngoedema Allergic granulomatous vasculitis (i.e. Churg-Strauss syndrome)                                          |
+| Not known Gastrointestinal disorders                          | Not known Gastrointestinal disorders                                                                                                                  |
+| Common                                                        | Abdominal pain upper** ,#                                                                                                                             |
+| Uncommon                                                      | Dyspeptic signs and symptoms, diarrhoea, nausea                                                                                                       |
+| Skin and subcutaneous tissue disorders                        | Skin and subcutaneous tissue disorders                                                                                                                |
+| Uncommon Rare Not known                                       | Photosensitivity, urticaria, rash, pruritus Angioedema Alopecia disorders Athralgia †                                                                 |
+| Musculoskeletal and connective tissue                         | Musculoskeletal and connective tissue                                                                                                                 |
+| Common Rare Not known                                         | Systemic lupus erythematosus (SLE) Myalgia, joint swelling                                                                                            |
+| General disorders and administration site                     | General disorders and administration site                                                                                                             |
+| Very common Common Uncommon                                   | Pyrexia** Injection site reactions such as swelling, erythema, pain, Influenza-like illness, swelling arms, weight increase, fatigue                  |
+| conditions                                                    | conditions                                                                                                                                            |
 |                                                               | pruritus                                                                                                                                              |
-| Uncommon                                                      |                                                                                                                                                       |
-|                                                               | Influenza-like illness, swelling arms, weight increase, fatigue                                                                                       |
-| Not known                                                     |                                                                                                                                                       |
 
 ## Chronic spontaneous urticaria (CSU)
 
@@ -1034,21 +1027,21 @@ The adverse reactions are listed by MedDRA system organ class. Within each syste
 
 Table 5 Adverse reactions from the pooled CSU safety database (day 1 to week 24) at 300 mg omalizumab
 
-| 12-Week                                             | Omalizumab studies 1, 2 and 3 Pooled                | Omalizumab studies 1, 2 and 3 Pooled                | Frequency category   |
-|-----------------------------------------------------|-----------------------------------------------------|-----------------------------------------------------|----------------------|
-| 12-Week                                             | Placebo N=242                                       | 300 mg N=412                                        | Frequency category   |
-| Infections and infestations                         |                                                     |                                                     |                      |
-| Sinusitis                                           | 5 (2.1%)                                            | 20 (4.9%)                                           | Common               |
-| Nervous system disorders                            |                                                     |                                                     |                      |
-| Headache                                            | 7 (2.9%)                                            | 25 (6.1%)                                           | Common               |
-| Musculoskeletal and connective tissue disorders     | Musculoskeletal and connective tissue disorders     |                                                     |                      |
-| Arthralgia                                          | 1 (0.4%)                                            | 12 (2.9%)                                           | Common               |
-| General disorder and administration site conditions | General disorder and administration site conditions | General disorder and administration site conditions |                      |
-| Injection site reaction*                            | 2 (0.8%)                                            | 11 (2.7%)                                           | Common               |
-| 24-Week                                             | Omalizumab studies 1 and 3 Pooled                   | Omalizumab studies 1 and 3 Pooled                   | Frequency category   |
-|                                                     | Placebo N=163                                       | 300 mg N=333                                        |                      |
-| Infections and infestations                         |                                                     |                                                     |                      |
-| Upper respiratory tract infection                   | 5 (3.1%)                                            | 19 (5.7%)                                           | Common               |
+| 12-Week                                             | Omalizumab studies 1, 2 and 3 Pooled                | Omalizumab studies 1, 2 and 3 Pooled                | Frequency category          |
+|-----------------------------------------------------|-----------------------------------------------------|-----------------------------------------------------|-----------------------------|
+| 12-Week                                             | Placebo N=242                                       | 300 mg N=412                                        |                             |
+| Infections and infestations                         |                                                     |                                                     |                             |
+| Sinusitis                                           | 5 (2.1%)                                            | 20 (4.9%)                                           | Common                      |
+| Nervous system disorders                            |                                                     |                                                     |                             |
+| Headache                                            | 7 (2.9%)                                            | 25 (6.1%)                                           | Common                      |
+| Musculoskeletal and connective tissue disorders     | Musculoskeletal and connective tissue disorders     | Musculoskeletal and connective tissue disorders     |                             |
+| Arthralgia                                          | 1 (0.4%)                                            | 12 (2.9%)                                           | Common                      |
+| General disorder and administration site conditions | General disorder and administration site conditions | General disorder and administration site conditions |                             |
+| Injection site reaction*                            | 2 (0.8%)                                            | 11 (2.7%)                                           | Common                      |
+| 24-Week                                             | Omalizumab studies 1 and 3 Pooled                   | Omalizumab studies 1 and 3 Pooled                   | Frequency category          |
+|                                                     | Placebo N=163                                       | 300 mg N=333                                        |                             |
+| Infections and infestations                         | Infections and infestations                         | Infections and infestations                         | Infections and infestations |
+| Upper respiratory tract infection                   | 5 (3.1%)                                            | 19 (5.7%)                                           | Common                      |
 
 In a 48-week study, 81 CSU patients received omalizumab 300 mg every 4 weeks (see section 5.1). The safety profile of long-term use was similar to the safety profile observed in 24-week studies in CSU.
 
@@ -1064,11 +1057,9 @@ Anaphylactic reactions were rare in clinical trials. However, post-marketing dat
 
 ## Arterial thromboembolic events (ATE)
 
-In controlled clinical trials and during interim analyses of an observational study, a numerical imbalance of ATE was observed. The definition of the composite endpoint ATE included stroke, transient ischaemic attack, myocardial infarction, unstable angina, and cardiovascular death (including death from unknown cause). In the final analysis of the observational study, the rate of ATE per 1 000 patient years was 7.52 (115/15 286 patient years) for Xolair-treated patients and 5.12 (51/9 963 patient years) for control patients. In a multivariate analysis controlling for available baseline cardiovascular risk factors, the hazard ratio was 1.32 (95% confidence interval 0.91-1.91). In a separate analysis of pooled clinical trials, which included all randomised double-blind, placebo-controlled clinical trials lasting 8 or more weeks, the rate of ATE per 1 000 patient years was 2.69 (5/1 856 patient years) for
+In controlled clinical trials and during interim analyses of an observational study, a numerical imbalance of ATE was observed. The definition of the composite endpoint ATE included stroke, transient ischaemic attack, myocardial infarction, unstable angina, and cardiovascular death (including death from unknown cause). In the final analysis of the observational study, the rate of ATE per 1 000 patient years was 7.52 (115/15 286 patient years) for Xolair-treated patients and 5.12 (51/9 963 patient years) for control patients. In a multivariate analysis controlling for available baseline cardiovascular risk factors, the hazard ratio was 1.32 (95% confidence interval 0.91-1.91). In a separate analysis of pooled clinical trials, which included all randomised double-blind, placebo-controlled clinical trials lasting 8 or more weeks, the rate of ATE per 1 000 patient years was 2.69 (5/1 856 patient years) for Xolair-treated patients and 2.38 (4/1 680 patient years) for placebo patients (rate ratio 1.13, 95% confidence interval 0.24-5.71).
 
 <div style=\"page-break-after: always\"></div>
-
-Xolair-treated patients and 2.38 (4/1 680 patient years) for placebo patients (rate ratio 1.13, 95% confidence interval 0.24-5.71).
 
 ## Platelets
 
@@ -1122,7 +1113,7 @@ In clinical studies in patients with CRSwNP, omalizumab treatment led to a reduc
 
 ## Mechanism of action
 
-Omalizumab is a recombinant DNA-derived humanised monoclonal antibody that selectively binds to human immunoglobulin E (IgE) and lowers free IgE levels. The antibody is an IgG1 kappa that contains human framework regions with the complementary-determining regions of a murine parent antibody that binds to IgE. Subsequently, IgE receptors (FcεRI) on cells down-regulate. It is not entirely understood how this results in an improvement of CSU symptoms.
+Omalizumab is a recombinant DNA-derived humanised monoclonal antibody that selectively binds to human immunoglobulin E (IgE) and lowers free IgE levels. The antibody is an IgG1 kappa that contains human framework regions with the complementary-determining regions of a murine parent antibody that binds to IgE. Subsequently, IgE receptors (FcεRI) on cells down -regulate. It is not entirely understood how this results in an improvement of CSU symptoms.
 
 ## Pharmacodynamic effects
 
@@ -1136,13 +1127,11 @@ In clinical studies in CSU patients, maximum suppression of free IgE was observe
 
 The efficacy and safety of omalizumab were demonstrated in a 28-week double-blind placebocontrolled study (study 1) involving 419 severe allergic asthmatics, ages 12-79 years, who had reduced lung function (FEV1 40-80% predicted) and poor asthma symptom control despite receiving high dose inhaled corticosteroids and a long-acting beta2-agonist. Eligible patients had experienced multiple asthma exacerbations requiring systemic corticosteroid treatment or had been hospitalised or attended an emergency room due to a severe asthma exacerbation in the past year despite continuous treatment with high-dose inhaled corticosteroids and a long-acting beta2-agonist. Subcutaneous omalizumab or placebo were administered as add-on therapy to &gt;1 000 micrograms beclomethasone dipropionate (or equivalent) plus a long-acting beta2-agonist. Oral corticosteroid, theophylline and leukotrienemodifier maintenance therapies were allowed (22%, 27%, and 35% of patients, respectively).
 
-The rate of asthma exacerbations requiring treatment with bursts of systemic corticosteroids was the primary endpoint. Omalizumab reduced the rate of asthma exacerbations by 19% (p = 0.153). Further evaluations which did show statistical significance (p&lt;0.05) in favour of omalizumab included reductions in severe exacerbations (where patient's lung function was reduced to below 60% of personal best and requiring systemic corticosteroids) and asthma-related emergency visits (comprised of hospitalisations, emergency room, and unscheduled doctor visits), and improvements in Physician's overall assessment of treatment effectiveness, Asthma-related Quality of Life (AQL), asthma symptoms and lung function.
+The rate of asthma exacerbations requiring treatment with bursts of systemic corticosteroids was the primary endpoint. Omalizumab reduced the rate of asthma exacerbations by 19% (p = 0.153). Further evaluations which did show statistical significance (p&lt;0.05) in favour of omalizumab included reductions in severe exacerbations (where patient's lung function was reduced to below 60% of personal best and requiring systemic corticosteroids) and asthma-related emergency visits (comprised of hospitalisations, eme rgency room, and unscheduled doctor visits), and improvements in Physician's overall assessment of treatment effectiveness, Asthma-related Quality of Life (AQL), asthma symptoms and lung function.
 
-In a subgroup analysis, patients with pre-treatment total IgE ≥76 IU/ml were more likely to experience clinically meaningful benefit to omalizumab. In these patients in study 1 omalizumab reduced the rate
+In a subgroup analysis, patients with pretreatment total IgE ≥76 IU/ml were more likely to experience clinically meaningful benefit to omalizumab. In these patients in study 1 omalizumab reduced the rate of asthma exacerbations by 40% (p = 0.002). In addition more patients had clinically meaningful responses in the total IgE ≥76 IU/ml population across the omalizumab severe asthma programme. Table 6 includes results in the study 1 population.
 
 <div style=\"page-break-after: always\"></div>
-
-of asthma exacerbations by 40% (p = 0.002). In addition more patients had clinically meaningful responses in the total IgE ≥76 IU/ml population across the omalizumab severe asthma programme. Table 6 includes results in the study 1 population.
 
 ## Table 6 Results of study 1
 
@@ -1242,22 +1231,20 @@ Table 8 Change from baseline at Week 24 in clinical scores from nasal polyp stud
 | Nasal polyp score                             |                                 |                                 |                                |                                |                                 |                                 |
 | Baseline mean                                 | 6.32                            | 6.19                            | 6.09                           | 6.44                           | 6.21                            | 6.31                            |
 | LS mean change at Week 24                     | 0.06                            | -1.08                           | -0.31                          | -0.90                          | -0.13                           | -0.99                           |
-| Difference (95% CI) p-value                   | -1.14 (-1.59, -069)             | <0.0001                         | -0.59 (-1.05, -012) 0.0140     | -0.59 (-1.05, -012) 0.0140     | -0.86 (-1.18, -0.54)            | <0.0001                         |
+| Difference (95% CI) p-value                   | -1.14 (-1.59, -069) <0.0001     | -1.14 (-1.59, -069) <0.0001     | -0.59 (-1.05, -012) 0.0140     | -0.59 (-1.05, -012) 0.0140     | -0.86 (-1.18, -0.54) <0.0001    | -0.86 (-1.18, -0.54) <0.0001    |
 | 7-day average of daily nasal congestion score |                                 |                                 |                                |                                |                                 |                                 |
-| Baseline mean                                 | 2.46                            | 2.40                            | 2.29                           | 2.26                           | 2.38                            | 2.34                            |
-| LS mean change at Week 24                     | -0.35                           | -0.89                           | -0.20                          | -0.70                          | -0.28                           | -0.80                           |
-| Difference (95% CI) p-value                   | -0.55 (-0.84, -0.25) 0.0004     | -0.55 (-0.84, -0.25) 0.0004     | -0.50 (-0.80, -0.19)           | 0.0017                         | -0.52 (-0.73, -0.31) <0.0001    | -0.52 (-0.73, -0.31) <0.0001    |
+| Baseline mean LS mean change at               | 2.46 -0.35                      | 2.40 -0.89                      | 2.29 -0.20                     | 2.26 -0.70                     | 2.38 -0.28                      | 2.34 -0.80                      |
+| Week 24 Difference (95% CI) p-value           | -0.55 (-0.84, -0.25) 0.0004     | -0.55 (-0.84, -0.25) 0.0004     | -0.50 (-0.80, -0.19) 0.0017    | -0.50 (-0.80, -0.19) 0.0017    | -0.52 (-0.73, -0.31) <0.0001    | -0.52 (-0.73, -0.31) <0.0001    |
 | TNSS                                          |                                 |                                 |                                |                                |                                 |                                 |
 | Baseline mean                                 | 9.33                            | 8.56                            | 8.73                           | 8.37                           | 9.03                            | 8.47                            |
 | LS mean change at Week 24                     | -1.06                           | -2.97                           | -0.44                          | -2.53                          | -0.77                           | -2.75                           |
-| Difference (95% CI) p-value                   | -1.91 (-2.85, -0.96)            | 0.0001                          | -2.09 (-3.00, -1.18)           | <0.0001                        | -1.98 (-2.63, -1.33) <0.0001    | -1.98 (-2.63, -1.33) <0.0001    |
+| Difference (95% CI) p-value                   | -1.91 (-2.85, -0.96) 0.0001     | -1.91 (-2.85, -0.96) 0.0001     | -2.09 (-3.00, -1.18) <0.0001   | -2.09 (-3.00, -1.18) <0.0001   | -1.98 (-2.63, -1.33) <0.0001    | -1.98 (-2.63, -1.33) <0.0001    |
 | SNOT-22                                       |                                 |                                 |                                |                                |                                 |                                 |
 | Baseline mean                                 | 60.26                           | 59.82                           | 59.80                          | 59.21                          | 60.03                           | 59.54                           |
 | LS mean change at Week 24                     | -8.58                           | -24.70                          | -6.55                          | -21.59                         | -7.73                           | -23.10                          |
 | Difference (95% CI) p-value (MID = 8.9)       | -16.12 (-21.86, -10.38) <0.0001 | -16.12 (-21.86, -10.38) <0.0001 | -15.04 (-21.26, -8.82) <0.0001 | -15.04 (-21.26, -8.82) <0.0001 | -15.36 (-19.57, -11.16) <0.0001 | -15.36 (-19.57, -11.16) <0.0001 |
 | UPSIT                                         |                                 |                                 |                                |                                |                                 |                                 |
-| Baseline mean                                 | 13.56                           | 12.78                           | 13.27                          | 12.87                          | 13.41                           | 12.82                           |
-| LS mean change at Week 24                     | 0.63                            | 4.44                            | 0.44                           | 4.31                           | 0.54                            | 4.38                            |
+| Baseline mean LS mean change at Week 24       | 13.56 0.63                      | 12.78 4.44                      | 13.27 0.44                     | 12.87 4.31                     | 13.41 0.54                      | 12.82 4.38                      |
 | Difference (95% CI) p-value                   | 3.81 (1.38, 6.24) 0.0024        | 3.81 (1.38, 6.24) 0.0024        | 3.86 (1.57, 6.15) 0.0011       | 3.86 (1.57, 6.15) 0.0011       | 3.84 (2.17, 5.51) <0.0001       | 3.84 (2.17, 5.51) <0.0001       |
 
 LS=least-square; CI = confidence interval; TNSS = Total nasal symptom score; SNOT-22 = Sino-Nasal Outcome Test 22 Questionnaire; UPSIT = University of Pennsylvania Smell Identification Test; MID = minimal important difference.
@@ -1274,38 +1261,36 @@ The long-term efficacy and safety of omalizumab in patients with CRSwNP who had 
 
 ## Chronic spontaneous urticaria (CSU)
 
-The efficacy and safety of omalizumab were demonstrated in two randomised, placebo-controlled phase III studies (study 1 and 2) in patients with CSU who remained symptomatic despite H1 antihistamine therapy at the approved dose. A third study (study 3) primarily evaluated the safety of omalizumab in patients with CSU who remained symptomatic despite treatment with H1 antihistamines at up to four times the approved dose and H2 antihistamine and/or LTRA treatment. The three studies enrolled 975 patients aged between 12 and 75 years (mean age 42.3 years; 39 patients 12-17 years, 54 patients ≥65 years; 259 males and 716 females). All patients were required to have inadequate symptom control, as assessed by a weekly urticaria activity score (UAS7, range 0-42) of ≥16, and a weekly itch severity score (which is a component of the UAS7; range 0-21) of ≥8 for the 7 days prior to randomisation, despite having used an antihistamine for at least 2 weeks beforehand.
+The efficacy and safety of omalizumab were demonstrated in two randomised, placebo-controlled phase III studies (study 1 and 2) in patients with CSU who remained symptomatic despite H1 antihistamine therapy at the approved dose. A third study (study 3) primarily evaluated the safety of omalizumab in patients with CSU who remained symptomatic despite treatment with H1 antihistamines at up to four times the approved dose and H2 antihistamine and/or LTRA treatment. The three studies enrolled 975 patients aged between 12 and 75 years (mean age 42.3 years; 39 patients 12-17 years, 54 patients ≥65 years; 259 males and 716 females). All patients were required to have inadequate symptom control, as assessed by a weekly urticaria activity score (UAS7, range 042) of ≥16, and a weekly itch severity score (which is a component of the UAS7; range 0 -21) of ≥8 for the 7 days prior to randomisation, despite having used an antihistamine for at least 2 weeks beforehand.
 
 In studies 1 and 2, patients had a mean weekly itch severity score of between 13.7 and 14.5 at baseline and a mean UAS7 score of 29.5 and 31.7 respectively. Patients in safety study 3 had a mean weekly itch severity score of 13.8 and a mean UAS7 score of 31.2 at baseline. Across all three studies, patients reported receiving on average 4 to 6 medicinal products (including H1 antihistamines) for CSU symptoms prior to study enrollment. Patients received omalizumab at 75 mg, 150 mg or 300 mg or placebo by subcutaneous injection every 4 weeks for 24 and 12 weeks in studies 1 and 2, respectively, and 300 mg or placebo by subcutaneous injection every 4 weeks for 24 weeks in study 3. All studies had a 16-week treatment-free follow-up period.
 
-The primary endpoint was the change from baseline to week 12 in weekly itch severity score. Omalizumab at 300 mg reduced the weekly itch severity score by 8.55 to 9.77 (p &lt;0.0001) compared
+The primary endpoint was the change from baseline to week 12 in weekly itch severity score. Omalizumab at 300 mg reduced the weekly itch severity score by 8.55 to 9.77 (p &lt;0.0001) compared to a reduction of 3.63 to 5.14 for placebo (see Table 9). Statistically significant results were further observed in the responder rates for UAS7≤6 (at week 12) which were higher for the 300 mg treatment groups, ranging from 52-66% (p&lt;0.0001) compared to 11-19% for the placebo groups, and complete response (UAS7=0) was achieved by 34-44% (p&lt;0.0001) of patients treated with 300 mg compared to 5-9% of patients in the placebo groups. Patients in the 300 mg treatment groups achieved the highest mean proportion of angioedema-free days from week 4 to week 12, (91.0-96.1%; p&lt;0.001) compared to the placebo groups (88.1-89.2%). Mean change from baseline to week 12 in the overall DLQI for the 300 mg treatment groups was greater (p&lt;0.001) than for placebo showing an improvement ranging from 9.7-10.3 points compared to 5.1-6.1 points for the corresponding placebo groups.
 
 <div style=\"page-break-after: always\"></div>
 
-to a reduction of 3.63 to 5.14 for placebo (see Table 9). Statistically significant results were further observed in the responder rates for UAS7≤6 (at week 12) which were higher for the 300 mg treatment groups, ranging from 52-66% (p&lt;0.0001) compared to 11-19% for the placebo groups, and complete response (UAS7=0) was achieved by 34-44% (p&lt;0.0001) of patients treated with 300 mg compared to 5-9% of patients in the placebo groups. Patients in the 300 mg treatment groups achieved the highest mean proportion of angioedema-free days from week 4 to week 12, (91.0-96.1%; p&lt;0.001) compared to the placebo groups (88.1-89.2%). Mean change from baseline to week 12 in the overall DLQI for the 300 mg treatment groups was greater (p&lt;0.001) than for placebo showing an improvement ranging from 9.7-10.3 points compared to 5.1-6.1 points for the corresponding placebo groups.
-
 Table 9 Change from baseline to week 12 in weekly itch severity score, studies 1, 2 and 3 (mITT population*)
 
-|                                      | Placebo      | Omalizumab 300 mg   |
-|--------------------------------------|--------------|---------------------|
-| Study 1                              |              |                     |
-| N                                    | 80           | 81                  |
-| Mean (SD)                            | -3.63 (5.22) | -9.40 (5.73)        |
-| Difference in LS means vs. placebo 1 | -            | -5.80               |
-| 95% CI for difference                | -            | -7.49,-4.10         |
-| P-value vs. placebo 2                | -            | <0.0001             |
-| Study 2                              |              |                     |
-| N                                    | 79           | 79                  |
-| Mean (SD)                            | -5.14 (5.58) | -9.77 (5.95)        |
-| Difference in LS means vs. placebo 1 | -            | -4.81               |
-| 95% CI for difference                | -            | -6.49,-3.13         |
-| P-value vs. placebo 2                | -            | <0.0001             |
-| Study 3                              |              |                     |
-| N                                    | 83           | 252                 |
-| Mean (SD)                            | -4.01 (5.87) | -8.55 (6.01)        |
-| Difference in LS means vs. placebo 1 | -            | -4.52               |
-| 95% CI for difference                | -            | -5.97, -3.08        |
-| P-value vs. placebo 2                | -            | <0.0001             |
+|                                      | Placebo       | Omalizumab 300 mg   |
+|--------------------------------------|---------------|---------------------|
+| Study 1                              |               |                     |
+| N                                    | 80            | 81                  |
+| Mean (SD)                            | - 3.63 (5.22) | - 9.40 (5.73)       |
+| Difference in LS means vs. placebo 1 | -             | -5.80               |
+| 95% CI for difference                | -             | -7.49,-4.10         |
+| P-value vs. placebo 2                | -             | <0.0001             |
+| Study 2                              |               |                     |
+| N                                    | 79            | 79                  |
+| Mean (SD)                            | - 5.14 (5.58) | - 9.77 (5.95)       |
+| Difference in LS means vs. placebo 1 | -             | -4.81               |
+| 95% CI for difference                | -             | -6.49,-3.13         |
+| P-value vs. placebo 2                | -             | <0.0001             |
+| Study 3                              |               |                     |
+| N                                    | 83            | 252                 |
+| Mean (SD)                            | - 4.01 (5.87) | - 8.55 (6.01)       |
+| Difference in LS means vs. placebo 1 | -             | -4.52               |
+| 95% CI for difference                | -             | -5.97, -3.08        |
+| P-value vs. placebo 2                | -             | <0.0001             |
 
 *Modified intent-to-treat (mITT) population: included all patients who were randomised and received at least one dose of study medicinal product.
 
@@ -1489,6 +1474,12 @@ EU/1/05/319/025
 
 EU/1/05/319/026
 
+EU/1/05/319/033
+
+EU/1/05/319/034
+
+EU/1/05/319/035
+
 ## Xolair 300 mg solution for injection in pre-filled syringe
 
 EU/1/05/319/012
@@ -1496,6 +1487,10 @@ EU/1/05/319/012
 EU/1/05/319/013
 
 EU/1/05/319/014
+
+EU/1/05/319/036
+
+EU/1/05/319/037
 
 ## Xolair 150 mg solution for injection in pre-filled pen
 
@@ -1524,8 +1519,6 @@ Date of latest renewal: 22 June 2015
 ## 10. DATE OF REVISION OF THE TEXT
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu
-
-46
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1607,17 +1600,17 @@ Table 1 Conversion from dose to number of vials, number of injections and total 
 
 Table 2 ADMINISTRATION EVERY 4 WEEKS. Omalizumab doses (milligrams per dose) administered by subcutaneous injection every 4 weeks
 
-|                              | Body weight (kg)             | Body weight (kg)             | Body weight (kg)             | Body weight (kg)             | Body weight (kg)             | Body weight (kg)   | Body weight (kg)   | Body weight (kg)   | Body weight (kg)             | Body weight (kg)             |
-|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|--------------------|--------------------|--------------------|------------------------------|------------------------------|
-| Baseline IgE (IU/ml)         |  20- 25*                    | >25- 30*                     | >30- 40                      | >40- 50                      | >50- 60                      | >60- 70            | >70- 80            | >80- 90            | >90- 125                     | >125- 150                    |
-|  30-100                     | 75                           | 75                           | 75                           | 150                          | 150                          | 150                | 150                | 150                | 300                          | 300                          |
-| >100-200                     | 150                          | 150                          | 150                          | 300                          | 300                          | 300                | 300                | 300                | 450                          | 600                          |
-| >200-300                     | 150                          | 150                          | 225                          | 300                          | 300                          | 450                | 450                | 450                | 600                          |                              |
-| >300-400                     | 225                          | 225                          | 300                          | 450                          | 450                          | 450                | 600                | 600                |                              |                              |
-| >400-500                     | 225                          | 300                          | 450                          | 450                          | 600                          | 600                |                    |                    |                              |                              |
-| >500-600                     | 300                          | 300                          | 450                          | 600                          | 600                          |                    |                    |                    |                              |                              |
-| >600-700 >700-800            | 300                          |                              | 450                          | 600                          |                              |                    |                    |                    |                              |                              |
-| >800-900 >900- 1 000 >1 000- | ADMINISTRATION EVERY 2 WEEKS | ADMINISTRATION EVERY 2 WEEKS | ADMINISTRATION EVERY 2 WEEKS | ADMINISTRATION EVERY 2 WEEKS | ADMINISTRATION EVERY 2 WEEKS | SEE                | TABLE              | 3                  | ADMINISTRATION EVERY 2 WEEKS | ADMINISTRATION EVERY 2 WEEKS |
+|                                       | Body weight (kg)             | Body weight (kg)             | Body weight (kg)             | Body weight (kg)             | Body weight (kg)             | Body weight (kg)   | Body weight (kg)   | Body weight (kg)   | Body weight (kg)             | Body weight (kg)             |
+|---------------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|--------------------|--------------------|--------------------|------------------------------|------------------------------|
+| Baseline IgE (IU/ml)                  |  20- 25*                    | >25- 30*                     | >30- 40                      | >40- 50                      | >50- 60                      | >60- 70            | >70- 80            | >80- 90            | >90- 125                     | >125- 150                    |
+|  30-100                              | 75                           | 75                           | 75                           | 150                          | 150                          | 150                | 150                | 150                | 300                          | 300                          |
+| >100-200                              | 150                          | 150                          | 150                          | 300                          | 300                          | 300                | 300                | 300                | 450                          | 600                          |
+| >200-300                              | 150                          | 150                          | 225                          | 300                          | 300                          | 450                | 450                | 450                | 600                          |                              |
+| >300-400                              | 225                          | 225                          | 300                          | 450                          | 450                          | 450                | 600                | 600                |                              |                              |
+| >400-500                              | 225                          | 300                          | 450                          | 450                          | 600                          | 600                |                    |                    |                              |                              |
+| >500-600                              | 300                          | 300                          | 450                          | 600                          | 600                          |                    |                    |                    |                              |                              |
+| >600-700                              | 300                          |                              | 450                          | 600                          |                              |                    |                    |                    |                              |                              |
+| >700-800 >800-900 >900- 1 000 >1 000- | ADMINISTRATION EVERY 2 WEEKS | ADMINISTRATION EVERY 2 WEEKS | ADMINISTRATION EVERY 2 WEEKS | ADMINISTRATION EVERY 2 WEEKS | ADMINISTRATION EVERY 2 WEEKS | SEE                | TABLE              | 3                  | ADMINISTRATION EVERY 2 WEEKS | ADMINISTRATION EVERY 2 WEEKS |
 
 *Body weights below 30 kg were not studied in the pivotal trials for CRSwNP.
 
@@ -1653,15 +1646,13 @@ Xolair is intended for long-term treatment. Clinical trials have demonstrated th
 
 ## Chronic rhinosinusitis with nasal polyps (CRSwNP)
 
-In clinical trials for CRSwNP, changes in nasal polyps score (NPS) and nasal congestion score (NCS) were observed at 4 weeks. The need for continued therapy should be periodically reassessed based upon the patient's disease severity and level of symptom control.
+In clinical trials for CRSwNP, changes in nasal polyps score (NPS) and nasal congestion score (NCS) were observed at 4 weeks. The need for continued therapy should be periodically reassessed based upon the patient's disease severity and level of symptom co ntrol.
 
 ## Allergic asthma and chronic rhinosinusitis with nasal polyps (CRSwNP)
 
-Discontinuation of treatment generally results in a return to elevated free IgE levels and associated symptoms. Total IgE levels are elevated during treatment and remain elevated for up to one year after the discontinuation of treatment. Therefore, re-testing of IgE levels during treatment cannot be used as a guide for dose determination. Dose determination after treatment interruptions lasting less than one
+Discontinuation of treatment generally results in a return to elevated free IgE levels and associated symptoms. Total IgE levels are elevated during treatment and remain elevated for up to one year after the discontinuation of treatment. Therefore, re-testing of IgE levels during treatment cannot be used as a guide for dose determination. Dose determination after treatment interruptions lasting less than one year should be based on serum IgE levels obtained at the initial dose determination. Total serum IgE levels may be re-tested for dose determination if treatment has been interrupted for one year or more.
 
 <div style=\"page-break-after: always\"></div>
-
-year should be based on serum IgE levels obtained at the initial dose determination. Total serum IgE levels may be re-tested for dose determination if treatment has been interrupted for one year or more.
 
 Doses should be adjusted for significant changes in body weight (see Tables 2 and 3).
 
@@ -1737,11 +1728,9 @@ Discontinuation of omalizumab should be considered in all severe cases with the 
 
 ## Parasitic (helminth) infections
 
-IgE may be involved in the immunological response to some helminth infections. In patients at chronic high risk of helminth infection, a placebo-controlled trial showed a slight increase in infection rate
+IgE may be involved in the immunological response to some helminth infections. In patients at chronic high risk of helminth infection, a placebo-controlled trial showed a slight increase in infection rate with omalizumab, although the course, severity, and response to treatment of infection were unaltered. The helminth infection rate in the overall clinical programme, which was not designed to detect such infections, was less than 1 in 1 000 patients. However, caution may be warranted in patients at high risk of helminth infection, in particular when travelling to areas where helminthic infections are endemic. If patients do not respond to recommended anti-helminth treatment, discontinuation of omalizumab should be considered.
 
 <div style=\"page-break-after: always\"></div>
-
-with omalizumab, although the course, severity, and response to treatment of infection were unaltered. The helminth infection rate in the overall clinical programme, which was not designed to detect such infections, was less than 1 in 1 000 patients. However, caution may be warranted in patients at high risk of helminth infection, in particular when travelling to areas where helminthic infections are endemic. If patients do not respond to recommended anti-helminth treatment, discontinuation of omalizumab should be considered.
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
@@ -1803,26 +1792,27 @@ Table 4 lists the adverse reactions recorded in clinical studies in the total al
 
 Table 4 Adverse reactions in allergic asthma and CRSwNP
 
-| Infections and infestations                          | Infections and infestations                                                                                                                           |
-|------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Uncommon Rare                                        | Pharyngitis Parasitic infection                                                                                                                       |
-| Blood and lymphatic system disorders                 | Blood and lymphatic system disorders                                                                                                                  |
-| Not known                                            | Idiopathic thrombocytopenia, including severe cases                                                                                                   |
-| Immune system disorders                              | Immune system disorders                                                                                                                               |
-| Rare Not known                                       | Anaphylactic reaction, other serious allergic conditions, anti- omalizumab antibody development Serum sickness, may include fever and lymphadenopathy |
-| Nervous system disorders                             | Nervous system disorders                                                                                                                              |
-| Common Uncommon                                      | Headache* Syncope, paraesthesia, somnolence, dizziness #                                                                                              |
-| Vascular disorders                                   | Vascular disorders                                                                                                                                    |
-| Uncommon                                             | Postural hypotension, flushing                                                                                                                        |
-| Respiratory, thoracic and mediastinal disorders      | Respiratory, thoracic and mediastinal disorders                                                                                                       |
-| Uncommon Rare Not known                              | Allergic bronchospasm, coughing Laryngoedema Allergic granulomatous vasculitis (i.e. Churg-Strauss syndrome)                                          |
-| Gastrointestinal disorders                           | Gastrointestinal disorders                                                                                                                            |
-| Common Uncommon Skin and Uncommon                    | Abdominal pain upper** ,# Dyspeptic signs and symptoms, diarrhoea, nausea Photosensitivity, urticaria, rash, pruritus                                 |
-| subcutaneous tissue disorders                        | subcutaneous tissue disorders                                                                                                                         |
-| Musculoskeletal Common Rare Not known                | tissue disorders Athralgia† Systemic lupus erythematosus (SLE) Myalgia, joint swelling                                                                |
-| Very Common Uncommon                                 | Pyrexia** Injection site reactions such as swelling, erythema, pain, pruritus Influenza-like illness, swelling arms, weight increase, fatigue         |
-| General disorders and administration site conditions | General disorders and administration site conditions                                                                                                  |
-| common                                               |                                                                                                                                                       |
+| Infections and infestations                              | Infections and infestations                                                                                                                           |
+|----------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Uncommon Rare                                            | Pharyngitis Parasitic infection                                                                                                                       |
+| Blood and lymphatic system disorders                     | Blood and lymphatic system disorders                                                                                                                  |
+| Not known                                                | Idiopathic thrombocytopenia, including severe cases                                                                                                   |
+| Immune system disorders                                  | Immune system disorders                                                                                                                               |
+| Rare Not known                                           | Anaphylactic reaction, other serious allergic conditions, anti- omalizumab antibody development Serum sickness, may include fever and lymphadenopathy |
+| Nervous system disorders                                 | Nervous system disorders                                                                                                                              |
+| Common Uncommon                                          | Headache* Syncope, paraesthesia, somnolence, dizziness #                                                                                              |
+| Vascular disorders                                       | Vascular disorders                                                                                                                                    |
+| Uncommon                                                 | Postural hypotension, flushing                                                                                                                        |
+| Respiratory, thoracic and mediastinal disorders          | Respiratory, thoracic and mediastinal disorders                                                                                                       |
+| Uncommon Rare Not known                                  | Allergic bronchospasm, coughing Laryngoedema Allergic granulomatous vasculitis (i.e. Churg-Strauss syndrome)                                          |
+| Gastrointestinal disorders                               | Gastrointestinal disorders                                                                                                                            |
+| Uncommon Skin and subcutaneous Uncommon Rare             | Dyspeptic signs and symptoms, diarrhoea, nausea disorders Photosensitivity, urticaria, rash, pruritus                                                 |
+| Angioedema                                               | Angioedema                                                                                                                                            |
+| Not known Musculoskeletal and connective Common Rare Not | Alopecia tissue disorders Athralgia† Systemic lupus erythematosus (SLE) Myalgia, joint swelling                                                       |
+| known                                                    | Pyrexia** Injection site reactions such as swelling, erythema, pain, Influenza-like illness, swelling arms, weight increase, fatigue                  |
+| General disorders and administration site conditions     | General disorders and administration site conditions                                                                                                  |
+| Very Common Uncommon                                     | pruritus                                                                                                                                              |
+| common                                                   |                                                                                                                                                       |
 
 ## Description of selected adverse reactions
 
@@ -1874,11 +1864,9 @@ Pharmacotherapeutic group: Drugs for obstructive airway diseases, other systemic
 
 Omalizumab is a recombinant DNA-derived humanised monoclonal antibody that selectively binds to human immunoglobulin E (IgE) and prevents binding of IgE to Fc  RI (high-affinity IgE receptor) on basophils and mast cells, thereby reducing the amount of free IgE that is available to trigger the allergic cascade. The antibody is an IgG1 kappa that contains human framework regions with the complementary-determining regions of a murine parent antibody that binds to IgE.
 
-Treatment of atopic subjects with omalizumab resulted in a marked down-regulation of Fc  RI receptors on basophils. Omalizumab inhibits IgE-mediated inflammation, as evidenced by reduced
+Treatment of atopic subjects with omalizumab resulted in a marked down-regulation of Fc  RI receptors on basophils. Omalizumab inhibits IgE-mediated inflammation, as evidenced by reduced blood and tissue eosinophils and reduced inflammatory mediators, including IL-4, IL-5, and IL-13 by innate, adaptive and non-immune cells.
 
 <div style=\"page-break-after: always\"></div>
-
-blood and tissue eosinophils and reduced inflammatory mediators, including IL-4, IL-5, and IL-13 by innate, adaptive and non-immune cells.
 
 ## Pharmacodynamic effects
 
@@ -1900,9 +1888,9 @@ In clinical studies in patients with CRSwNP, omalizumab treatment led to a reduc
 
 The efficacy and safety of omalizumab were demonstrated in a 28-week double-blind placebocontrolled study (study 1) involving 419 severe allergic asthmatics, ages 12-79 years, who had reduced lung function (FEV1 40-80% predicted) and poor asthma symptom control despite receiving high dose inhaled corticosteroids and a long-acting beta2-agonist. Eligible patients had experienced multiple asthma exacerbations requiring systemic corticosteroid treatment or had been hospitalised or attended an emergency room due to a severe asthma exacerbation in the past year despite continuous treatment with high-dose inhaled corticosteroids and a long-acting beta2-agonist. Subcutaneous omalizumab or placebo were administered as add-on therapy to &gt;1 000 micrograms beclomethasone dipropionate (or equivalent) plus a long-acting beta2-agonist. Oral corticosteroid, theophylline and leukotrienemodifier maintenance therapies were allowed (22%, 27%, and 35% of patients, respectively).
 
-The rate of asthma exacerbations requiring treatment with bursts of systemic corticosteroids was the primary endpoint. Omalizumab reduced the rate of asthma exacerbations by 19% (p = 0.153). Further evaluations which did show statistical significance (p&lt;0.05) in favour of omalizumab included reductions in severe exacerbations (where patient's lung function was reduced to below 60% of personal best and requiring systemic corticosteroids) and asthma-related emergency visits (comprised of hospitalisations, emergency room, and unscheduled doctor visits), and improvements in Physician's overall assessment of treatment effectiveness, Asthma-related Quality of Life (AQL), asthma symptoms and lung function.
+The rate of asthma exacerbations requiring treatment with bursts of systemic corticosteroids was the primary endpoint. Omalizumab reduced the rate of asthma exacerbations by 19% (p = 0.153). Further evaluations which did show statistical significance (p&lt;0.05) in favour of omalizumab included reductions in severe exacerbations (where patient's lung function was reduced to below 60% of personal best and requiring systemic corticosteroids) and asthma-related emergency visits (comprised of hospitalisations, eme rgency room, and unscheduled doctor visits), and improvements in Physician's overall assessment of treatment effectiveness, Asthma-related Quality of Life (AQL), asthma symptoms and lung function.
 
-In a subgroup analysis, patients with pre-treatment total IgE ≥76 IU/ml were more likely to experience clinically meaningful benefit to omalizumab. In these patients in study 1 omalizumab reduced the rate of asthma exacerbations by 40% (p = 0.002). In addition more patients had clinically meaningful responses in the total IgE ≥76 IU/ml population across the omalizumab severe asthma programme. Table 5 includes results in the study 1 population.
+In a subgroup analysis, patients with pretreatment total IgE ≥76 IU/ml were more likely to experience clinically meaningful benefit to omalizumab. In these patients in study 1 omalizumab reduced the rate of asthma exacerbations by 40% (p = 0.002). In addition more patients had clinically meaningful responses in the total IgE ≥76 IU/ml population across the omalizumab severe asthma programme. Table 5 includes results in the study 1 population.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2008,18 +1996,17 @@ Table 7 Change from baseline at Week 24 in clinical scores from nasal polyp stud
 | 7-day average of daily nasal congestion score |                                 |                                 |                                |                                |                                 |                                 |
 | Baseline mean                                 | 2.46                            | 2.40                            | 2.29                           | 2.26                           | 2.38                            | 2.34                            |
 | LS mean change at Week 24                     | -0.35                           | -0.89                           | -0.20                          | -0.70                          | -0.28                           | -0.80                           |
-| Difference (95% CI) p-value                   | -0.55 (-0.84, -0.25) 0.0004     | -0.55 (-0.84, -0.25) 0.0004     | -0.50 (-0.80, -0.19)           | 0.0017                         | -0.52 (-0.73, -0.31) <0.0001    | -0.52 (-0.73, -0.31) <0.0001    |
+| Difference (95% CI) p-value                   | -0.55 (-0.84, -0.25) 0.0004     | -0.55 (-0.84, -0.25) 0.0004     | -0.50 (-0.80, -0.19) 0.0017    | -0.50 (-0.80, -0.19) 0.0017    | -0.52 (-0.73, -0.31) <0.0001    | -0.52 (-0.73, -0.31) <0.0001    |
 | TNSS                                          |                                 |                                 |                                |                                |                                 |                                 |
 | Baseline mean                                 | 9.33                            | 8.56                            | 8.73                           | 8.37                           | 9.03                            | 8.47                            |
 | LS mean change at Week 24                     | -1.06                           | -2.97                           | -0.44                          | -2.53                          | -0.77                           | -2.75                           |
-| Difference (95% CI) p-value                   | -1.91 (-2.85, -0.96)            | 0.0001                          | -2.09 (-3.00, -1.18)           | <0.0001                        | -1.98 (-2.63, -1.33)            | <0.0001                         |
+| Difference (95% CI) p-value                   | -1.91 (-2.85, -0.96) 0.0001     | -1.91 (-2.85, -0.96) 0.0001     | -2.09 (-3.00, -1.18) <0.0001   | -2.09 (-3.00, -1.18) <0.0001   | -1.98 (-2.63, -1.33) <0.0001    | -1.98 (-2.63, -1.33) <0.0001    |
 | SNOT-22                                       |                                 |                                 |                                |                                |                                 |                                 |
 | Baseline mean                                 | 60.26                           | 59.82                           | 59.80                          | 59.21                          | 60.03                           | 59.54                           |
 | LS mean change at Week 24                     | -8.58                           | -24.70                          | -6.55                          | -21.59                         | -7.73                           | -23.10                          |
 | Difference (95% CI) p-value (MID = 8.9)       | -16.12 (-21.86, -10.38) <0.0001 | -16.12 (-21.86, -10.38) <0.0001 | -15.04 (-21.26, -8.82) <0.0001 | -15.04 (-21.26, -8.82) <0.0001 | -15.36 (-19.57, -11.16) <0.0001 | -15.36 (-19.57, -11.16) <0.0001 |
 | UPSIT                                         |                                 |                                 |                                |                                |                                 |                                 |
-| Baseline mean                                 | 13.56                           | 12.78                           | 13.27                          | 12.87                          | 13.41                           | 12.82                           |
-| LS mean change at Week 24                     | 0.63                            | 4.44                            | 0.44                           | 4.31                           | 0.54                            | 4.38                            |
+| Baseline mean LS mean change at Week 24       | 13.56 0.63                      | 12.78 4.44                      | 13.27 0.44                     | 12.87 4.31                     | 13.41 0.54                      | 12.82 4.38                      |
 | Difference (95% CI) p-value                   | 3.81 (1.38, 6.24) 0.0024        | 3.81 (1.38, 6.24) 0.0024        | 3.86 (1.57, 6.15) 0.0011       | 3.86 (1.57, 6.15) 0.0011       | 3.84 (2.17, 5.51) <0.0001       | 3.84 (2.17, 5.51) <0.0001       |
 
 LS=least-square; CI = confidence interval; TNSS = Total nasal symptom score; SNOT-22 = Sino-Nasal Outcome Test 22 Questionnaire; UPSIT = University of Pennsylvania Smell Identification Test; MID = minimal important difference.
@@ -2148,6 +2135,8 @@ Date of latest renewal: 22 June 2015
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu
 
+65
+
 <div style=\"page-break-after: always\"></div>
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
@@ -2240,17 +2229,17 @@ c or use 0.6 ml from a 150 mg vial.
 
 Table 2 ADMINISTRATION EVERY 4 WEEKS. Omalizumab doses (milligrams per dose) administered by subcutaneous injection every 4 weeks
 
-|                                        | Body weight (kg)             | Body weight (kg)             | Body weight (kg)             | Body weight (kg)             | Body weight (kg)             | Body weight (kg)             | Body weight (kg)             | Body weight (kg)             | Body weight (kg)             | Body weight (kg)             |
-|----------------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|
-| Baseline IgE (IU/ml)                   |  20- 25*                    | >25- 30*                     | >30- 40                      | >40- 50                      | >50- 60                      | >60- 70                      | >70- 80                      | >80- 90                      | >90- 125                     | >125- 150                    |
-|  30-100                               | 75                           | 75                           | 75                           | 150                          | 150                          | 150                          | 150                          | 150                          | 300                          | 300                          |
-| >100-200                               | 150                          | 150                          | 150                          | 300                          | 300                          | 300                          | 300                          | 300                          | 450                          | 600                          |
-| >200-300                               | 150                          | 150                          | 225                          | 300                          | 300                          | 450                          | 450                          | 450                          | 600                          |                              |
-| >300-400                               | 225                          | 225                          | 300                          | 450                          | 450                          | 450                          | 600                          | 600                          |                              |                              |
-| >400-500                               | 225                          | 300                          | 450                          | 450                          | 600                          | 600                          |                              |                              |                              |                              |
-| >500-600                               | 300                          | 300                          | 450                          | 600                          | 600                          |                              |                              |                              |                              |                              |
-| >600-700 >700-800 >800-900 >900- 1 000 | 300                          |                              | 450                          | 600                          |                              | SEE                          | TABLE                        | 3                            |                              |                              |
-| >1 000-                                | ADMINISTRATION EVERY 2 WEEKS | ADMINISTRATION EVERY 2 WEEKS | ADMINISTRATION EVERY 2 WEEKS | ADMINISTRATION EVERY 2 WEEKS | ADMINISTRATION EVERY 2 WEEKS | ADMINISTRATION EVERY 2 WEEKS | ADMINISTRATION EVERY 2 WEEKS | ADMINISTRATION EVERY 2 WEEKS | ADMINISTRATION EVERY 2 WEEKS | ADMINISTRATION EVERY 2 WEEKS |
+|                                  | Body weight (kg)             | Body weight (kg)             | Body weight (kg)             | Body weight (kg)             | Body weight (kg)             | Body weight (kg)             | Body weight (kg)             | Body weight (kg)             | Body weight (kg)             | Body weight (kg)             |
+|----------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|
+| Baseline IgE (IU/ml)             |  20- 25*                    | >25- 30*                     | >30- 40                      | >40- 50                      | >50- 60                      | >60- 70                      | >70- 80                      | >80- 90                      | >90- 125                     | >125- 150                    |
+|  30-100                         | 75                           | 75                           | 75                           | 150                          | 150                          | 150                          | 150                          | 150                          | 300                          | 300                          |
+| >100-200                         | 150                          | 150                          | 150                          | 300                          | 300                          | 300                          | 300                          | 300                          | 450                          | 600                          |
+| >200-300                         | 150                          | 150                          | 225                          | 300                          | 300                          | 450                          | 450                          | 450                          | 600                          |                              |
+| >300-400                         | 225                          | 225                          | 300                          | 450                          | 450                          | 450                          | 600                          | 600                          |                              |                              |
+| >400-500                         | 225                          | 300                          | 450                          | 450                          | 600                          | 600                          |                              |                              |                              |                              |
+| >500-600                         | 300                          | 300                          | 450                          | 600                          | 600                          |                              |                              |                              |                              |                              |
+| >600-700 >700-800 >800-900 >900- | 300                          |                              | 450                          | 600                          |                              | SEE                          | TABLE                        | 3                            |                              |                              |
+| 1 000 >1 000-                    | ADMINISTRATION EVERY 2 WEEKS | ADMINISTRATION EVERY 2 WEEKS | ADMINISTRATION EVERY 2 WEEKS | ADMINISTRATION EVERY 2 WEEKS | ADMINISTRATION EVERY 2 WEEKS | ADMINISTRATION EVERY 2 WEEKS | ADMINISTRATION EVERY 2 WEEKS | ADMINISTRATION EVERY 2 WEEKS | ADMINISTRATION EVERY 2 WEEKS | ADMINISTRATION EVERY 2 WEEKS |
 
 *Body weights below 30 kg were not studied in the pivotal trials for CRSwNP.
 
@@ -2260,22 +2249,22 @@ Table 3 ADMINSTRATION EVERY 2 WEEKS. Omalizumab doses (milligrams per dose) admi
 
 <!-- image -->
 
-|                      | Body weight (kg)             | Body weight (kg)             | Body weight (kg)             | Body weight (kg)             | Body weight (kg)             | Body weight (kg)                      | Body weight (kg)             | Body weight (kg)             | Body weight (kg)             | Body weight (kg)             |
-|----------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|---------------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|
-| Baseline IgE (IU/ml) |  20- 25*                    | >25- 30*                     | >30- 40                      | >40- 50                      | >50- 60                      | >60- 70                               | >70- 80                      | >80- 90                      | >90- 125                     | >125- 150                    |
-|  30-100             | ADMINISTRATION EVERY 4 WEEKS | ADMINISTRATION EVERY 4 WEEKS | ADMINISTRATION EVERY 4 WEEKS | ADMINISTRATION EVERY 4 WEEKS | ADMINISTRATION EVERY 4 WEEKS | ADMINISTRATION EVERY 4 WEEKS          | ADMINISTRATION EVERY 4 WEEKS | ADMINISTRATION EVERY 4 WEEKS | ADMINISTRATION EVERY 4 WEEKS | ADMINISTRATION EVERY 4 WEEKS |
-| >100-200 >200-300    | SEE TABLE 2                  | SEE TABLE 2                  | SEE TABLE 2                  | SEE TABLE 2                  | SEE TABLE 2                  | SEE TABLE 2                           | SEE TABLE 2                  | SEE TABLE 2                  | SEE TABLE 2                  | 375                          |
-| >300-400             |                              |                              |                              |                              |                              |                                       |                              |                              | 450                          | 525                          |
-| >400-500             |                              |                              |                              |                              |                              |                                       | 375                          | 375                          | 525                          | 600                          |
-| >500-600             |                              |                              |                              |                              |                              | 375                                   | 450                          | 450                          | 600                          |                              |
-| >600-700             |                              | 225                          |                              |                              | 375                          | 450                                   | 450                          | 525                          |                              |                              |
-| >700-800             | 225                          | 225                          | 300                          | 375                          | 450                          | 450                                   | 525                          | 600                          |                              |                              |
-| >800-900             | 225                          | 225                          | 300                          | 375                          | 450                          | 525                                   | 600                          |                              |                              |                              |
-| >900- 1 000          | 225                          | 300                          | 375                          | 450                          | 525                          | 600                                   |                              |                              |                              |                              |
-| >1 000- 1 100        | 225                          | 300                          | 375                          | 450                          | 600                          |                                       |                              |                              |                              |                              |
-| >1 100- 1 200        | 300                          | 300                          | 450                          | 525                          | 600                          | Insufficient data to recommend a dose |                              |                              |                              |                              |
-| >1 200- 1 300        | 300                          | 375                          | 450                          | 525                          |                              |                                       |                              |                              |                              |                              |
-| >1 300- 1 500        | 300                          | 375                          | 525                          | 600                          |                              |                                       |                              |                              |                              |                              |
+|                      | Body weight (kg)             | Body weight (kg)             | Body weight (kg)             | Body weight (kg)             | Body weight (kg)             | Body weight (kg)                      | Body weight (kg)                      | Body weight (kg)                      | Body weight (kg)                      | Body weight (kg)                      |
+|----------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|
+| Baseline IgE (IU/ml) |  20- 25*                    | >25- 30*                     | >30- 40                      | >40- 50                      | >50- 60                      | >60- 70                               | >70- 80                               | >80- 90                               | >90- 125                              | >125- 150                             |
+|  30-100             | ADMINISTRATION EVERY 4 WEEKS | ADMINISTRATION EVERY 4 WEEKS | ADMINISTRATION EVERY 4 WEEKS | ADMINISTRATION EVERY 4 WEEKS | ADMINISTRATION EVERY 4 WEEKS | ADMINISTRATION EVERY 4 WEEKS          | ADMINISTRATION EVERY 4 WEEKS          | ADMINISTRATION EVERY 4 WEEKS          | ADMINISTRATION EVERY 4 WEEKS          | ADMINISTRATION EVERY 4 WEEKS          |
+| >100-200 >200-300    | SEE TABLE 2                  | SEE TABLE 2                  | SEE TABLE 2                  | SEE TABLE 2                  | SEE TABLE 2                  | SEE TABLE 2                           | SEE TABLE 2                           | SEE TABLE 2                           | SEE TABLE 2                           | 375                                   |
+| >300-400             |                              |                              |                              |                              |                              |                                       |                                       |                                       | 450                                   | 525                                   |
+| >400-500             |                              |                              |                              |                              |                              |                                       | 375                                   | 375                                   | 525                                   | 600                                   |
+| >500-600             |                              |                              |                              |                              |                              | 375                                   | 450                                   | 450                                   | 600                                   |                                       |
+| >600-700             |                              | 225                          |                              |                              | 375                          | 450                                   | 450                                   | 525                                   |                                       |                                       |
+| >700-800             | 225                          | 225                          | 300                          | 375                          | 450                          | 450                                   | 525                                   | 600                                   |                                       |                                       |
+| >800-900             | 225                          | 225                          | 300                          | 375                          | 450                          | 525                                   | 600                                   |                                       |                                       |                                       |
+| >900- 1 000          | 225                          | 300                          | 375                          | 450                          | 525                          | 600                                   |                                       |                                       |                                       |                                       |
+| >1 000- 1 100        | 225                          | 300                          | 375                          | 450                          | 600                          |                                       |                                       |                                       |                                       |                                       |
+| >1 100- 1 200        | 300                          | 300                          | 450                          | 525                          | 600                          | Insufficient data to recommend a dose | Insufficient data to recommend a dose | Insufficient data to recommend a dose | Insufficient data to recommend a dose | Insufficient data to recommend a dose |
+| >1 200- 1 300        | 300                          | 375                          | 450                          | 525                          |                              |                                       |                                       |                                       |                                       |                                       |
+| >1 300- 1 500        | 300                          | 375                          | 525                          | 600                          |                              |                                       |                                       |                                       |                                       |                                       |
 
 *Body weights below 30 kg were not studied in the pivotal trials for CRSwNP.
 
@@ -2287,7 +2276,7 @@ Xolair is intended for long-term treatment. Clinical trials have demonstrated th
 
 ## Chronic rhinosinusitis with nasal polyps (CRSwNP)
 
-In clinical trials for CRSwNP, changes in nasal polyps score (NPS) and nasal congestion score (NCS) were observed at 4 weeks. The need for continued therapy should be periodically reassessed based upon the patient's disease severity and level of symptom control.
+In clinical trials for CRSwNP, changes in nasal polyps score (NPS) and nasal congestion score (NCS) were observed at 4 weeks. The need for continued therapy should be periodically reassessed based upon the patient's disease severity and level of symptom co ntrol.
 
 ## Allergic asthma and chronic rhinosinusitis with nasal polyps (CRSwNP)
 
@@ -2453,31 +2442,29 @@ Table 4 lists the adverse reactions recorded in clinical studies in the total al
 
 Table 4 Adverse reactions in allergic asthma and CRSwNP
 
-| Infections and infestations                          |                                                                                                                                                       |
-|------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Uncommon                                             | Pharyngitis Parasitic                                                                                                                                 |
-| Rare infection Blood and lymphatic system disorders  |                                                                                                                                                       |
-| Not known                                            | Idiopathic thrombocytopenia, including severe cases                                                                                                   |
-| Immune system disorders                              |                                                                                                                                                       |
-| Rare Not known                                       | Anaphylactic reaction, other serious allergic conditions, anti- omalizumab antibody development Serum sickness, may include fever and lymphadenopathy |
-| Nervous system disorders                             |                                                                                                                                                       |
-| Common Uncommon                                      | Headache* Syncope, paraesthesia, somnolence, dizziness #                                                                                              |
-| Vascular disorders                                   |                                                                                                                                                       |
-| Uncommon                                             | Postural hypotension, flushing                                                                                                                        |
-| Respiratory, thoracic and mediastinal disorders      |                                                                                                                                                       |
-| Uncommon Rare Not known                              | Allergic bronchospasm, coughing Laryngoedema Allergic granulomatous vasculitis (i.e. Churg-Strauss syndrome)                                          |
-| Gastrointestinal disorders                           |                                                                                                                                                       |
-| Uncommon Rare                                        | Photosensitivity, urticaria, rash, pruritus                                                                                                           |
-| Skin and                                             | Angioedema                                                                                                                                            |
-| subcutaneous tissue disorders                        |                                                                                                                                                       |
-| Not known Alopecia Common Rare                       | Athralgia† Systemic lupus erythematosus (SLE) Myalgia, joint swelling                                                                                 |
-| Musculoskeletal and connective tissue disorders      |                                                                                                                                                       |
-| General disorders and administration site conditions |                                                                                                                                                       |
-| Very common Common                                   | Pyrexia** Injection site reactions such as swelling, erythema, pain,                                                                                  |
-|                                                      | pruritus                                                                                                                                              |
-| Uncommon                                             |                                                                                                                                                       |
-|                                                      | Influenza-like illness, swelling arms, weight increase, fatigue                                                                                       |
-| Not known                                            |                                                                                                                                                       |
+| Infections and infestations                                   | Infections and infestations                                                                                                                           |
+|---------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Uncommon                                                      | Pharyngitis                                                                                                                                           |
+| Rare Parasitic infection Blood and lymphatic system disorders | Rare Parasitic infection Blood and lymphatic system disorders                                                                                         |
+| Not known                                                     | Idiopathic thrombocytopenia, including severe cases                                                                                                   |
+| Immune system disorders                                       | Immune system disorders                                                                                                                               |
+| Rare Not known                                                | Anaphylactic reaction, other serious allergic conditions, anti- omalizumab antibody development Serum sickness, may include fever and lymphadenopathy |
+| Nervous system disorders                                      | Nervous system disorders                                                                                                                              |
+| Common Uncommon                                               | Headache* Syncope, paraesthesia, somnolence, dizziness #                                                                                              |
+| Vascular disorders                                            | Vascular disorders                                                                                                                                    |
+| Uncommon                                                      | Postural hypotension, flushing                                                                                                                        |
+| Respiratory, thoracic and mediastinal disorders               | Respiratory, thoracic and mediastinal disorders                                                                                                       |
+| Uncommon Rare                                                 | Allergic bronchospasm, coughing Laryngoedema Allergic granulomatous vasculitis (i.e. Churg-Strauss syndrome)                                          |
+| Not known Gastrointestinal disorders                          | Not known Gastrointestinal disorders                                                                                                                  |
+| Common                                                        | Abdominal pain upper** ,#                                                                                                                             |
+| Uncommon                                                      | Dyspeptic signs and symptoms, diarrhoea, nausea                                                                                                       |
+| Skin and subcutaneous tissue disorders                        | Skin and subcutaneous tissue disorders                                                                                                                |
+| Uncommon Rare Not known                                       | Photosensitivity, urticaria, rash, pruritus Angioedema Alopecia disorders Athralgia † Systemic lupus erythematosus (SLE)                              |
+| Musculoskeletal and connective tissue                         | Musculoskeletal and connective tissue                                                                                                                 |
+| Common Rare Not known                                         | Myalgia, joint swelling                                                                                                                               |
+| General disorders and administration site conditions          | General disorders and administration site conditions                                                                                                  |
+| Very common Common Uncommon                                   | Pyrexia** Injection site reactions such as swelling, erythema, pain, Influenza-like illness, swelling arms, weight increase, fatigue                  |
+|                                                               | pruritus                                                                                                                                              |
 
 ## Chronic spontaneous urticaria (CSU)
 
@@ -2527,11 +2514,9 @@ Anaphylactic reactions were rare in clinical trials. However, post-marketing dat
 
 ## Arterial thromboembolic events (ATE)
 
-In controlled clinical trials and during interim analyses of an observational study, a numerical imbalance of ATE was observed. The definition of the composite endpoint ATE included stroke, transient ischaemic attack, myocardial infarction, unstable angina, and cardiovascular death (including death from unknown cause). In the final analysis of the observational study, the rate of ATE per 1 000 patient years was 7.52 (115/15 286 patient years) for Xolair-treated patients and 5.12 (51/9 963 patient years) for control patients. In a multivariate analysis controlling for available baseline cardiovascular
+In controlled clinical trials and during interim analyses of an observational study, a numerical imbalance of ATE was observed. The definition of the composite endpoint ATE included stroke, transient ischaemic attack, myocardial infarction, unstable angina, and cardiovascular death (including death from unknown cause). In the final analysis of the observational study, the rate of ATE per 1 000 patient years was 7.52 (115/15 286 patient years) for Xolair-treated patients and 5.12 (51/9 963 patient years) for control patients. In a multivariate analysis controlling for available baseline cardiovascular risk factors, the hazard ratio was 1.32 (95% confidence interval 0.91-1.91). In a separate analysis of pooled clinical trials, which included all randomised double-blind, placebo-controlled clinical trials lasting 8 or more weeks, the rate of ATE per 1 000 patient years was 2.69 (5/1 856 patient years) for Xolair-treated patients and 2.38 (4/1 680 patient years) for placebo patients (rate ratio 1.13, 95% confidence interval 0.24-5.71).
 
 <div style=\"page-break-after: always\"></div>
-
-risk factors, the hazard ratio was 1.32 (95% confidence interval 0.91-1.91). In a separate analysis of pooled clinical trials, which included all randomised double-blind, placebo-controlled clinical trials lasting 8 or more weeks, the rate of ATE per 1 000 patient years was 2.69 (5/1 856 patient years) for Xolair-treated patients and 2.38 (4/1 680 patient years) for placebo patients (rate ratio 1.13, 95% confidence interval 0.24-5.71).
 
 ## Platelets
 
@@ -2567,11 +2552,9 @@ Pharmacotherapeutic group: Drugs for obstructive airway diseases, other systemic
 
 Omalizumab is a recombinant DNA-derived humanised monoclonal antibody that selectively binds to human immunoglobulin E (IgE) and prevents binding of IgE to FceRI (high-affinity IgE receptor) on basophils and mast cells, thereby reducing the amount of free IgE that is available to trigger the allergic cascade. The antibody is an IgG1 kappa that contains human framework regions with the complementary-determining regions of a murine parent antibody that binds to IgE.
 
-Treatment of atopic subjects with omalizumab resulted in a marked down-regulation of Fc  RI receptors on basophils. Omalizumab inhibits IgE-mediated inflammation, as evidenced by reduced
+Treatment of atopic subjects with omalizumab resulted in a marked down-regulation of Fc  RI receptors on basophils. Omalizumab inhibits IgE-mediated inflammation, as evidenced by reduced blood and tissue eosinophils and reduced inflammatory mediators, including IL-4, IL-5, and IL-13 by innate, adaptive and non-immune cells.
 
 <div style=\"page-break-after: always\"></div>
-
-blood and tissue eosinophils and reduced inflammatory mediators, including IL-4, IL-5, and IL-13 by innate, adaptive and non-immune cells.
 
 ## Pharmacodynamic effects Allergic asthma
 
@@ -2587,7 +2570,7 @@ In clinical studies in patients with CRSwNP, omalizumab treatment led to a reduc
 
 ## Mechanism of action
 
-Omalizumab is a recombinant DNA-derived humanised monoclonal antibody that selectively binds to human immunoglobulin E (IgE) and lowers free IgE levels. The antibody is an IgG1 kappa that contains human framework regions with the complementary-determining regions of a murine parent antibody that binds to IgE. Subsequently, IgE receptors (FcεRI) on cells down-regulate. It is not entirely understood how this results in an improvement of CSU symptoms.
+Omalizumab is a recombinant DNA-derived humanised monoclonal antibody that selectively binds to human immunoglobulin E (IgE) and lowers free IgE levels. The antibody is an IgG1 kappa that contains human framework regions with the complementary-determining regions of a murine parent antibody that binds to IgE. Subsequently, IgE receptors (FcεRI) on cells down -regulate. It is not entirely understood how this results in an improvement of CSU symptoms.
 
 ## Pharmacodynamic effect
 
@@ -2601,11 +2584,11 @@ In clinical studies in CSU patients, maximum suppression of free IgE was observe
 
 The efficacy and safety of omalizumab were demonstrated in a 28-week double-blind placebocontrolled study (study 1) involving 419 severe allergic asthmatics, ages 12-79 years, who had reduced lung function (FEV1 40-80% predicted) and poor asthma symptom control despite receiving high dose inhaled corticosteroids and a long-acting beta2-agonist. Eligible patients had experienced multiple asthma exacerbations requiring systemic corticosteroid treatment or had been hospitalised or attended an emergency room due to a severe asthma exacerbation in the past year despite continuous treatment with high-dose inhaled corticosteroids and a long-acting beta2-agonist. Subcutaneous omalizumab or placebo were administered as add-on therapy to &gt;1 000 micrograms beclomethasone dipropionate (or equivalent) plus a long-acting beta2-agonist. Oral corticosteroid, theophylline and leukotrienemodifier maintenance therapies were allowed (22%, 27%, and 35% of patients, respectively).
 
-The rate of asthma exacerbations requiring treatment with bursts of systemic corticosteroids was the primary endpoint. Omalizumab reduced the rate of asthma exacerbations by 19% (p = 0.153). Further evaluations which did show statistical significance (p&lt;0.05) in favour of omalizumab included reductions in severe exacerbations (where patient's lung function was reduced to below 60% of personal best and requiring systemic corticosteroids) and asthma-related emergency visits (comprised of hospitalisations, emergency room, and unscheduled doctor visits), and improvements in Physician's overall assessment of treatment effectiveness, Asthma-related Quality of Life (AQL), asthma symptoms and lung function.
+The rate of asthma exacerbations requiring treatment with bursts of systemic corticosteroids was the primary endpoint. Omalizumab reduced the rate of asthma exacerbations by 19% (p = 0.153). Further evaluations which did show statistical significance (p&lt;0.05) in favour of omalizumab included reductions in severe exacerbations (where patient's lung function was reduced to below 60% of personal best and requiring systemic corticosteroids) and asthma-related emergency visits (comprised of hospitalisations, eme rgency room, and unscheduled doctor visits), and improvements in Physician's overall assessment of treatment effectiveness, Asthma-related Quality of Life (AQL), asthma symptoms and lung function.
 
 <div style=\"page-break-after: always\"></div>
 
-In a subgroup analysis, patients with pre-treatment total IgE ≥76 IU/ml were more likely to experience clinically meaningful benefit to omalizumab. In these patients in study 1 omalizumab reduced the rate of asthma exacerbations by 40% (p = 0.002). In addition more patients had clinically meaningful responses in the total IgE ≥76 IU/ml population across the omalizumab severe asthma programme. Table 6 includes results in the study 1 population.
+In a subgroup analysis, patients with pretreatment total IgE ≥76 IU/ml were more likely to experience clinically meaningful benefit to omalizumab. In these patients in study 1 omalizumab reduced the rate of asthma exacerbations by 40% (p = 0.002). In addition more patients had clinically meaningful responses in the total IgE ≥76 IU/ml population across the omalizumab severe asthma programme. Table 6 includes results in the study 1 population.
 
 ## Table 6 Results of study 1
 
@@ -2644,11 +2627,9 @@ Quality of life scores were measured using the Juniper Asthma-related Quality of
 
 ## Physician's overall assessment of treatment effectiveness:
 
-Physician's overall assessment was performed in five of the above studies as a broad measure of asthma control performed by the treating physician. The physician was able to take into account PEF (peak expiratory flow), day and night time symptoms, rescue medicinal product use, spirometry and exacerbations. In all five studies a significantly greater proportion of omalizumab-treated patients
+Physician's overall assessment was performed in five of the above studies as a broad measure of asthma control performed by the treating physician. The physician was able to take into account PEF (peak expiratory flow), day and night time symptoms, rescue medicinal product use, spirometry and exacerbations. In all five studies a significantly greater proportion of omalizumab-treated patients were judged to have achieved either a marked improvement or complete control of their asthma compared to placebo patients.
 
 <div style=\"page-break-after: always\"></div>
-
-were judged to have achieved either a marked improvement or complete control of their asthma compared to placebo patients.
 
 ## Children 6 to &lt;12 years of age
 
@@ -2662,7 +2643,7 @@ In the specific subgroup of patients on high dose inhaled corticosteroids, the o
 
 During the 52-week double-blind treatment period (including the 24-week fixed-dose steroid phase and the 28-week steroid adjustment phase) the difference in rates between treatment groups represented a 50% (rate ratio 0.504, p&lt;0.001) relative decrease in exacerbations for omalizumab patients.
 
-The omalizumab group showed greater decreases in beta-agonist rescue medicinal product use than the placebo group at the end of the 52-week treatment period, although the difference between treatment groups was not statistically significant. For the global evaluation of treatment effectiveness at the end of the 52-week double-blind treatment period in the subgroup of severe patients on highdose inhaled corticosteroids plus long-acting beta agonists, the proportion of patients rated as having 'excellent' treatment effectiveness was higher, and the proportions having 'moderate' or 'poor' treatment effectiveness lower in the omalizumab group compared to the placebo group; the difference between groups was statistically significant (p&lt;0.001), while there were no differences between the omalizumab and placebo groups for patients' subjective Quality of Life ratings.
+The omalizumab group showed greater decreases in beta-agonist rescue medicinal product use than the placebo group at the end of the 52-week treatment period, although the difference between treatment groups was not statistically significant. For the global evaluation of treatment effectiveness at the end of the 52-week double-blind treatment period in the subgroup of severe patients on highdose inhaled corticosteroids plus long-acting beta agonists, the proportion of patients rated as having 'excellent' treatment effectiveness was higher, and the proportions having 'moderate' or 'poor' treatment effectiveness lower in the omalizumab group compared to the placebo group; the difference between groups was statistically significant (p&lt;0.001), while there were no differences between the omalizumab and placebo groups for patients' subjective Qualit y of Life ratings.
 
 ## Chronic rhinosinusitis with nasal polyps (CRSwNP)
 
@@ -2715,7 +2696,7 @@ Table 8 Change from baseline at Week 24 in clinical scores from nasal polyp stud
 | TNSS                                          |                                 |                                 |                                |                                |                                 |                                 |
 | Baseline mean                                 | 9.33                            | 8.56                            | 8.73                           | 8.37                           | 9.03                            | 8.47                            |
 | LS mean change at Week 24                     | -1.06                           | -2.97                           | -0.44                          | -2.53                          | -0.77                           | -2.75                           |
-| Difference (95% CI) p-value                   | -1.91 (-2.85, -0.96)            | 0.0001                          | -2.09 (-3.00, -1.18)           | <0.0001                        | -1.98 (-2.63, -1.33)            | <0.0001                         |
+| Difference (95% CI) p-value                   | -1.91 (-2.85, -0.96) 0.0001     | -1.91 (-2.85, -0.96) 0.0001     | -2.09 (-3.00, -1.18) <0.0001   | -2.09 (-3.00, -1.18) <0.0001   | -1.98 (-2.63, -1.33) <0.0001    | -1.98 (-2.63, -1.33) <0.0001    |
 | SNOT-22                                       |                                 |                                 |                                |                                |                                 |                                 |
 | Baseline mean                                 | 60.26                           | 59.82                           | 59.80                          | 59.21                          | 60.03                           | 59.54                           |
 | LS mean change at Week 24                     | -8.58                           | -24.70                          | -6.55                          | -21.59                         | -7.73                           | -23.10                          |
@@ -2739,38 +2720,36 @@ The long-term efficacy and safety of omalizumab in patients with CRSwNP who had 
 
 ## Chronic spontaneous urticaria (CSU)
 
-The efficacy and safety of omalizumab were demonstrated in two randomised, placebo-controlled phase III studies (study 1 and 2) in patients with CSU who remained symptomatic despite H1 antihistamine therapy at the approved dose. A third study (study 3) primarily evaluated the safety of omalizumab in patients with CSU who remained symptomatic despite treatment with H1 antihistamines at up to four times the approved dose and H2 antihistamine and/or LTRA treatment. The three studies enrolled 975 patients aged between 12 and 75 years (mean age 42.3 years; 39 patients 12-17 years, 54 patients ≥65 years; 259 males and 716 females). All patients were required to have inadequate symptom control, as assessed by a weekly urticaria activity score (UAS7, range 0-42) of ≥16, and a weekly itch severity score (which is a component of the UAS7; range 0-21) of ≥8 for the 7 days prior to randomisation, despite having used an antihistamine for at least 2 weeks beforehand.
+The efficacy and safety of omalizumab were demonstrated in two randomised, placebo-controlled phase III studies (study 1 and 2) in patients with CSU who remained symptomatic despite H1 antihistamine therapy at the approved dose. A third study (study 3) primarily evaluated the safety of omalizumab in patients with CSU who remained symptomatic despite treatment with H1 antihistamines at up to four times the approved dose and H2 antihistamine and/or LTRA treatment. The three studies enrolled 975 patients aged between 12 and 75 years (mean age 42.3 years; 39 patients 12-17 years, 54 patients ≥65 years; 259 males and 716 females). All patients were required to have inadequate symptom control, as assessed by a weekly urticaria activity score (UAS7, range 042) of ≥16, and a weekly itch severity score (which is a component of the UAS7; range 0 -21) of ≥8 for the 7 days prior to randomisation, despite having used an antihistamine for at least 2 weeks beforehand.
 
 In studies 1 and 2, patients had a mean weekly itch severity score of between 13.7 and 14.5 at baseline and a mean UAS7 score of 29.5 and 31.7 respectively. Patients in safety study 3 had a mean weekly itch severity score of 13.8 and a mean UAS7 score of 31.2 at baseline. Across all three studies, patients reported receiving on average 4 to 6 medicinal products (including H1 antihistamines) for CSU symptoms prior to study enrollment. Patients received omalizumab at 75 mg, 150 mg or 300 mg or placebo by subcutaneous injection every 4 weeks for 24 and 12 weeks in studies 1 and 2, respectively, and 300 mg or placebo by subcutaneous injection every 4 weeks for 24 weeks in study 3. All studies had a 16-week treatment-free follow-up period.
 
-The primary endpoint was the change from baseline to week 12 in weekly itch severity score. Omalizumab at 300 mg reduced the weekly itch severity score by 8.55 to 9.77 (p &lt;0.0001) compared
+The primary endpoint was the change from baseline to week 12 in weekly itch severity score. Omalizumab at 300 mg reduced the weekly itch severity score by 8.55 to 9.77 (p &lt;0.0001) compared to a reduction of 3.63 to 5.14 for placebo (see Table 9). Statistically significant results were further observed in the responder rates for UAS7≤6 (at week 12) which were higher for the 300 mg treatment groups, ranging from 52-66% (p&lt;0.0001) compared to 11-19% for the placebo groups, and complete response (UAS7=0) was achieved by 34-44% (p&lt;0.0001) of patients treated with 300 mg compared to 5-9% of patients in the placebo groups. Patients in the 300 mg treatment groups achieved the highest mean proportion of angioedema-free days from week 4 to week 12, (91.0-96.1%; p&lt;0.001) compared to the placebo groups (88.1-89.2%). Mean change from baseline to week 12 in the overall DLQI for the 300 mg treatment groups was greater (p&lt;0.001) than for placebo showing an improvement ranging from 9.7-10.3 points compared to 5.1-6.1 points for the corresponding placebo groups.
 
 <div style=\"page-break-after: always\"></div>
 
-to a reduction of 3.63 to 5.14 for placebo (see Table 9). Statistically significant results were further observed in the responder rates for UAS7≤6 (at week 12) which were higher for the 300 mg treatment groups, ranging from 52-66% (p&lt;0.0001) compared to 11-19% for the placebo groups, and complete response (UAS7=0) was achieved by 34-44% (p&lt;0.0001) of patients treated with 300 mg compared to 5-9% of patients in the placebo groups. Patients in the 300 mg treatment groups achieved the highest mean proportion of angioedema-free days from week 4 to week 12, (91.0-96.1%; p&lt;0.001) compared to the placebo groups (88.1-89.2%). Mean change from baseline to week 12 in the overall DLQI for the 300 mg treatment groups was greater (p&lt;0.001) than for placebo showing an improvement ranging from 9.7-10.3 points compared to 5.1-6.1 points for the corresponding placebo groups.
-
 Table 9 Change from baseline to week 12 in weekly itch severity score, studies 1, 2 and 3 (mITT population*)
 
-|                                      | Placebo      | Omalizumab 300 mg   |
-|--------------------------------------|--------------|---------------------|
-| Study 1                              |              |                     |
-| N                                    | 80           | 81                  |
-| Mean (SD)                            | -3.63 (5.22) | -9.40 (5.73)        |
-| Difference in LS means vs. placebo 1 | -            | -5.80               |
-| 95% CI for difference                | -            | -7.49,-4.10         |
-| P-value vs. placebo 2                | -            | <0.0001             |
-| Study 2                              |              |                     |
-| N                                    | 79           | 79                  |
-| Mean (SD)                            | -5.14 (5.58) | -9.77 (5.95)        |
-| Difference in LS means vs. placebo 1 | -            | -4.81               |
-| 95% CI for difference                | -            | -6.49,-3.13         |
-| P-value vs. placebo 2                | -            | <0.0001             |
-| Study 3                              |              |                     |
-| N                                    | 83           | 252                 |
-| Mean (SD)                            | -4.01 (5.87) | -8.55 (6.01)        |
-| Difference in LS means vs. placebo 1 | -            | -4.52               |
-| 95% CI for difference                | -            | -5.97, -3.08        |
-| P-value vs. placebo 2                | -            | <0.0001             |
+|                                      | Placebo       | Omalizumab 300 mg   |
+|--------------------------------------|---------------|---------------------|
+| Study 1                              |               |                     |
+| N                                    | 80            | 81                  |
+| Mean (SD)                            | - 3.63 (5.22) | - 9.40 (5.73)       |
+| Difference in LS means vs. placebo 1 | -             | -5.80               |
+| 95% CI for difference                | -             | -7.49,-4.10         |
+| P-value vs. placebo 2                | -             | <0.0001             |
+| Study 2                              |               |                     |
+| N                                    | 79            | 79                  |
+| Mean (SD)                            | - 5.14 (5.58) | - 9.77 (5.95)       |
+| Difference in LS means vs. placebo 1 | -             | -4.81               |
+| 95% CI for difference                | -             | -6.49,-3.13         |
+| P-value vs. placebo 2                | -             | <0.0001             |
+| Study 3                              |               |                     |
+| N                                    | 83            | 252                 |
+| Mean (SD)                            | - 4.01 (5.87) | - 8.55 (6.01)       |
+| Difference in LS means vs. placebo 1 | -             | -4.52               |
+| 95% CI for difference                | -             | -5.97, -3.08        |
+| P-value vs. placebo 2                | -             | <0.0001             |
 
 *Modified intent-to-treat (mITT) population: included all patients who were randomised and received at least one dose of study medicinal product.
 
@@ -2922,7 +2901,9 @@ EU/1/05/319/002 EU/1/05/319/003 EU/1/05/319/004
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-Date of first authorisation: 25 October 2005 Date of latest renewal: 22 June 2015
+Date of first authorisation: 25 October 2005
+
+Date of latest renewal: 22 June 2015
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -2941,7 +2922,7 @@ Detailed information on this medicinal product is available on the website of th
 
 ## A. MANUFACTURERS OF THE BIOLOGICAL ACTIVE SUBSTANCE AND MANUFACTURERS RESPONSIBLE FOR BATCH RELEASE
 
-Name and address of the manufacturers of the biological active substance
+## Name and address of the manufacturers of the biological active substance
 
 Novartis Pharma S.A.S. Centre de Biotechnologie 8, rue de l'Industrie F-68330 Huningue France
 
@@ -2955,21 +2936,19 @@ Novartis Farmacéutica S.A. Gran Via de les Corts Catalanes, 764 08013 Barcelona
 
 Lek Pharmaceuticals d.d. Verovškova ulica 57 Ljubljana, 1526 Slovenia
 
-Novartis Pharma GmbH Roonstrasse 25 D-90429 Nuremberg Germany
+Novartis Pharma GmbH Sophie-Germain-Strasse 10 90443 Nuremberg Germany
+
+Solution for injection in pre-filled syringe with 26-gauge staked needle Novartis Farmacéutica S.A. Gran Via de les Corts Catalanes, 764 08013 Barcelona Spain
 
 Novartis Pharma GmbH Sophie-Germain-Strasse 10 90443 Nuremberg Germany
 
-## Solution for injection in pre-filled syringe/pen
+Solution for injection in pre-filled syringe with 27-gauge staked needle Gran Via de les Corts Catalanes, 764
 
-Novartis Farmacéutica S.A. Gran Via de les Corts Catalanes, 764 08013 Barcelona Spain
+Novartis Farmacéutica S.A. 08013 Barcelona Spain
 
-Novartis Pharma GmbH Roonstrasse 25 D-90429 Nuremberg Germany
-
-Novartis Pharma GmbH Sophie-Germain-Strasse 10 90443 Nuremberg Germany
+Novartis Pharmaceutical Manufacturing GmbH Biochemiestrasse 10 6336 Langkampfen Austria Novartis Pharmaceutical Manufacturing LLC Verovškova ulica 57 1000 Ljubljana Slovenia Novartis Pharma GmbH Sophie-Germain-Strasse 10 90443 Nuremberg Germany Solution for injection in pre-filled pen Novartis Farmacéutica S.A. Gran Via de les Corts Catalanes, 764 08013 Barcelona Spain Novartis Pharma GmbH Sophie-Germain-Strasse 10 90443 Nuremberg Germany The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.
 
 <div style=\"page-break-after: always\"></div>
-
-The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.
 
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
@@ -3070,13 +3049,10 @@ Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/05/319/005
-
-75 mg solution for injection in pre-filled syringe (with 26-gauge staked needle, blue syringe guard)
-
-EU/1/05/319/018
-
-75 mg solution for injection in pre-filled syringe (with 27-gauge staked needle, blue plunger)
+| EU/1/05/319/005   | 75 mg solution for injection in pre-filled syringe (with 26-gauge staked needle, blue syringe guard)                 |
+|-------------------|----------------------------------------------------------------------------------------------------------------------|
+| EU/1/05/319/018   | 75 mg solution for injection in pre-filled syringe (with 27-gauge staked needle, blue plunger, in a blister)         |
+| EU/1/05/319/031   | 75 mg solution for injection in pre-filled syringe (with 27-gauge staked needle, blue plunger, in a cardboard inlay) |
 
 ## 13. BATCH NUMBER
 
@@ -3090,17 +3066,16 @@ Lot
 
 Xolair 75 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+<div style=\"page-break-after: always\"></div>
 
-PC
+| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
+|-------|-----------------------------------------|
 
-SN
-
-NN
+PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3176,11 +3151,12 @@ Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-| EU/1/05/319/006   | 75 mg solution for injection in pre-filled syringe (with 26-gauge staked needle, blue syringe guard) (4 x 1)   |
-|-------------------|----------------------------------------------------------------------------------------------------------------|
-| EU/1/05/319/007   | 75 mg solution for injection in pre-filled syringe (with 26-gauge staked needle, blue syringe guard) (10 x 1)  |
-| EU/1/05/319/019   | 75 mg solution for injection in pre-filled syringe (with 27-gauge staked needle, blue plunger) (3 x 1)         |
-| EU/1/05/319/020   | 75 mg solution for injection in pre-filled syringe (with 27-gauge staked needle, blue plunger) (6 x 1)         |
+| EU/1/05/319/006   | 75 mg solution for injection in pre-filled syringe (with 26-gauge staked needle, blue syringe guard) (4 x 1)                 |
+|-------------------|------------------------------------------------------------------------------------------------------------------------------|
+| EU/1/05/319/007   | 75 mg solution for injection in pre-filled syringe (with 26-gauge staked needle, blue syringe guard) (10 x 1)                |
+| EU/1/05/319/019   | 75 mg solution for injection in pre-filled syringe (with 27-gauge staked needle, blue plunger, in a blister) (3 x 1)         |
+| EU/1/05/319/020   | 75 mg solution for injection in pre-filled syringe (with 27-gauge staked needle, blue plunger, in a blister) (6 x 1)         |
+| EU/1/05/319/032   | 75 mg solution for injection in pre-filled syringe (with 27-gauge staked needle, blue plunger, in a cardboard inlay) (3 x 1) |
 
 ## 13. BATCH NUMBER
 
@@ -3194,7 +3170,7 @@ Lot
 
 Xolair 75 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -3273,11 +3249,12 @@ Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-| EU/1/05/319/006   | 75 mg solution for injection in pre-filled syringe (with 26-gauge staked needle, blue syringe guard) (4 x 1)   |
-|-------------------|----------------------------------------------------------------------------------------------------------------|
-| EU/1/05/319/007   | 75 mg solution for injection in pre-filled syringe (with 26-gauge staked needle, blue syringe guard) (10 x 1)  |
-| EU/1/05/319/019   | 75 mg solution for injection in pre-filled syringe (with 27-gauge staked needle, blue plunger) (3 x 1)         |
-| EU/1/05/319/020   | 75 mg solution for injection in pre-filled syringe (with 27-gauge staked needle, blue plunger) (6 x 1)         |
+| EU/1/05/319/006   | 75 mg solution for injection in pre-filled syringe (with 26-gauge staked needle, blue syringe guard) (4 x 1)                 |
+|-------------------|------------------------------------------------------------------------------------------------------------------------------|
+| EU/1/05/319/007   | 75 mg solution for injection in pre-filled syringe (with 26-gauge staked needle, blue syringe guard) (10 x 1)                |
+| EU/1/05/319/019   | 75 mg solution for injection in pre-filled syringe (with 27-gauge staked needle, blue plunger, in a blister) (3 x 1)         |
+| EU/1/05/319/020   | 75 mg solution for injection in pre-filled syringe (with 27-gauge staked needle, blue plunger, in a blister) (6 x 1)         |
+| EU/1/05/319/032   | 75 mg solution for injection in pre-filled syringe (with 27-gauge staked needle, blue plunger, in a cardboard inlay) (3 x 1) |
 
 ## 13. BATCH NUMBER
 
@@ -3291,9 +3268,12 @@ Lot
 
 Xolair 75 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+<div style=\"page-break-after: always\"></div>
+
+| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
+|-------|-----------------------------------------|
 
 ## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
 
@@ -3323,9 +3303,9 @@ Subcutaneous use Single use
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| PRE-FILLED SYRINGE LABEL                                         |
+| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING   |
+|------------------------------------------------------------|
+| PRE-FILLED SYRINGE LABEL                                   |
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
@@ -3492,6 +3472,8 @@ Keep out of the sight and reach of children.
 
 EXP
 
+<div style=\"page-break-after: always\"></div>
+
 ## 9. SPECIAL STORAGE CONDITIONS
 
 Store in a refrigerator.
@@ -3528,15 +3510,14 @@ EU/1/05/319/023
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
-
+14. GENERAL CLASSIFICATION FOR SUPPLY
 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
 Xolair 75 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -3545,8 +3526,6 @@ Xolair 75 mg
 PC
 
 SN
-
-<div style=\"page-break-after: always\"></div>
 
 NN
 
@@ -3640,7 +3619,7 @@ Xolair 75 mg
 
 ## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3742,13 +3721,10 @@ Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/05/319/008
-
-150 mg solution for injection in pre-filled syringe (with 26-gauge staked needle, purple syringe guard)
-
-EU/1/05/319/024
-
-150 mg solution for injection in pre-filled syringe (with 27-gauge staked needle, purple plunger)
+| EU/1/05/319/008   | 150 mg solution for injection in pre-filled syringe (with 26-gauge staked needle, purple syringe guard)                 |
+|-------------------|-------------------------------------------------------------------------------------------------------------------------|
+| EU/1/05/319/024   | 150 mg solution for injection in pre-filled syringe (with 27-gauge staked needle, purple plunger, in a blister)         |
+| EU/1/05/319/033   | 150 mg solution for injection in pre-filled syringe (with 27-gauge staked needle, purple plunger, in a cardboard inlay) |
 
 ## 13. BATCH NUMBER
 
@@ -3762,17 +3738,16 @@ Lot
 
 Xolair 150 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+<div style=\"page-break-after: always\"></div>
 
-PC
+| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
+|-------|-----------------------------------------|
 
-SN
-
-NN
+PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3848,12 +3823,14 @@ Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-| EU/1/05/319/009   | 150 mg solution for injection in pre-filled syringe (with 26-gauge staked needle, purple syringe guard) (4 x 1)   |
-|-------------------|-------------------------------------------------------------------------------------------------------------------|
-| EU/1/05/319/010   | 150 mg solution for injection in pre-filled syringe (with 26-gauge staked needle, purple syringe guard) (10 x 1)  |
-| EU/1/05/319/011   | 150 mg solution for injection in pre-filled syringe (with 26-gauge staked needle, purple syringe guard) (6 x 1)   |
-| EU/1/05/319/025   | 150 mg solution for injection in pre-filled syringe (with 27-gauge staked needle, purple plunger) (3 x 1)         |
-| EU/1/05/319/026   | 150 mg solution for injection in pre-filled syringe (with 27-gauge staked needle, purple plunger) (6 x 1)         |
+| EU/1/05/319/009   | 150 mg solution for injection in pre-filled syringe (with 26-gauge staked needle, purple syringe guard) (4 x 1)                 |
+|-------------------|---------------------------------------------------------------------------------------------------------------------------------|
+| EU/1/05/319/010   | 150 mg solution for injection in pre-filled syringe (with 26-gauge staked needle, purple syringe guard) (10 x 1)                |
+| EU/1/05/319/011   | 150 mg solution for injection in pre-filled syringe (with 26-gauge staked needle, purple syringe guard) (6 x 1)                 |
+| EU/1/05/319/025   | 150 mg solution for injection in pre-filled syringe (with 27-gauge staked needle, purple plunger, in a blister) (3 x 1)         |
+| EU/1/05/319/026   | 150 mg solution for injection in pre-filled syringe (with 27-gauge staked needle, purple plunger, in a blister) (6 x 1)         |
+| EU/1/05/319/034   | 150 mg solution for injection in pre-filled syringe (with 27-gauge staked needle, purple plunger, in a cardboard inlay) (3 x 1) |
+| EU/1/05/319/035   | 150 mg solution for injection in pre-filled syringe (with 27-gauge staked needle, purple plunger, in a cardboard inlay) (6 x 1) |
 
 ## 13. BATCH NUMBER
 
@@ -3867,11 +3844,12 @@ Lot
 
 Xolair 150 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+<div style=\"page-break-after: always\"></div>
+
+| 17. UNIQUE IDENTIFIER - 2D BARCODE   |
+|--------------------------------------|
 
 2D barcode carrying the unique identifier included.
-
-<div style=\"page-break-after: always\"></div>
 
 | 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
 |-------|-----------------------------------------|
@@ -3934,16 +3912,26 @@ Store in the original package in order to protect from light.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Ireland
+Novartis Europharm Limited
+
+Vista Building
+
+Elm Park, Merrion Road
+
+Dublin 4
+
+Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-| EU/1/05/319/009   | 150 mg solution for injection in pre-filled syringe (with 26-gauge staked needle, purple syringe guard) (4 x 1)   |
-|-------------------|-------------------------------------------------------------------------------------------------------------------|
-| EU/1/05/319/010   | 150 mg solution for injection in pre-filled syringe (with 26-gauge staked needle, purple syringe guard) (10 x 1)  |
-| EU/1/05/319/011   | 150 mg solution for injection in pre-filled syringe (with 26-gauge staked needle, purple syringe guard) (6 x 1)   |
-| EU/1/05/319/025   | 150 mg solution for injection in pre-filled syringe (with 27-gauge staked needle, purple plunger) (3 x 1)         |
-| EU/1/05/319/026   | 150 mg solution for injection in pre-filled syringe (with 27-gauge staked needle, purple plunger) (6 x 1)         |
+| EU/1/05/319/009   | 150 mg solution for injection in pre-filled syringe (with 26-gauge staked needle, purple syringe guard) (4 x 1)                 |
+|-------------------|---------------------------------------------------------------------------------------------------------------------------------|
+| EU/1/05/319/010   | 150 mg solution for injection in pre-filled syringe (with 26-gauge staked needle, purple syringe guard) (10 x 1)                |
+| EU/1/05/319/011   | 150 mg solution for injection in pre-filled syringe (with 26-gauge staked needle, purple syringe guard) (6 x 1)                 |
+| EU/1/05/319/025   | 150 mg solution for injection in pre-filled syringe (with 27-gauge staked needle, purple plunger, in a blister) (3 x 1)         |
+| EU/1/05/319/026   | 150 mg solution for injection in pre-filled syringe (with 27-gauge staked needle, purple plunger, in a blister) (6 x 1)         |
+| EU/1/05/319/034   | 150 mg solution for injection in pre-filled syringe (with 27-gauge staked needle, purple plunger, in a cardboard inlay) (3 x 1) |
+| EU/1/05/319/035   | 150 mg solution for injection in pre-filled syringe (with 27-gauge staked needle, purple plunger, in a cardboard inlay) (6 x 1) |
 
 ## 13. BATCH NUMBER
 
@@ -3957,12 +3945,15 @@ Lot
 
 Xolair 150 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
-
 <div style=\"page-break-after: always\"></div>
+
+| 17. UNIQUE IDENTIFIER - 2D BARCODE   |
+|--------------------------------------|
 
 | 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
 |-------|-----------------------------------------|
+
+<div style=\"page-break-after: always\"></div>
 
 ## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
 
@@ -3986,20 +3977,16 @@ Lot
 
 ## 5. OTHER
 
-<div style=\"page-break-after: always\"></div>
-
-Subcutaneous use Single use
+Subcutaneous use Single use Xolair 150 mg injection omalizumab SC
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| PRE-FILLED SYRINGE LABEL                                         |
+| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING   |
+|------------------------------------------------------------|
+| PRE-FILLED SYRINGE LABEL                                   |
 
 | 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
 |------|-------------------------------------------------------------|
-
-Xolair 150 mg injection omalizumab SC
 
 | 2.   | METHODOFADMINISTRATION   |
 |------|--------------------------|
@@ -4092,21 +4079,24 @@ Ireland
 
 EU/1/05/319/012
 
-300 mg solution for injection in pre-filled syringe
+300 mg solution for injection in pre-filled syringe in a blister
+
+EU/1/05/319/036
+
+300 mg solution for injection in pre-filled syringe in a cardboard inlay
 
 ## 13. BATCH NUMBER
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
-
+14. GENERAL CLASSIFICATION FOR SUPPLY
 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
 Xolair 300 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -4190,11 +4180,17 @@ Ireland
 
 EU/1/05/319/013
 
-300 mg solution for injection in pre-filled syringe (3 x 1)
+300 mg solution for injection in pre-filled syringe in a blister (3 x 1)
 
 EU/1/05/319/014
 
-300 mg solution for injection in pre-filled syringe (6 x 1)
+300 mg solution for injection in pre-filled syringe in a blister (6 x 1)
+
+EU/1/05/319/037
+
+300 mg solution for injection in pre-filled syringe in a cardboard inlay
+
+(3 x 1)
 
 ## 13. BATCH NUMBER
 
@@ -4202,13 +4198,13 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
 Xolair 300 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -4290,29 +4286,33 @@ Ireland
 
 EU/1/05/319/013
 
-300 mg solution for injection in pre-filled syringe (3 x 1)
+300 mg solution for injection in pre-filled syringe in a blister (3 x 1)
 
 EU/1/05/319/014
 
-300 mg solution for injection in pre-filled syringe (6 x 1)
+300 mg solution for injection in pre-filled syringe in a blister (6 x 1)
+
+EU/1/05/319/037
+
+300 mg solution for injection in pre-filled syringe in a cardboard inlay
+
+(3 x 1)
 
 ## 13. BATCH NUMBER
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
 Xolair 300 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
-
-<div style=\"page-break-after: always\"></div>
 
 ## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
 
@@ -4336,18 +4336,18 @@ Lot
 
 ## 5. OTHER
 
-Subcutaneous use Single use
+<div style=\"page-break-after: always\"></div>
+
+Subcutaneous use Single use Xolair 300 mg injection omalizumab SC
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| PRE-FILLED SYRINGE LABEL                                         |
+| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING   |
+|------------------------------------------------------------|
+| PRE-FILLED SYRINGE LABEL                                   |
 
 | 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
 |------|-------------------------------------------------------------|
-
-Xolair 300 mg injection omalizumab SC
 
 | 2.   | METHODOFADMINISTRATION   |
 |------|--------------------------|
@@ -4562,7 +4562,7 @@ Lot
 
 Xolair 150 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -4666,15 +4666,15 @@ Lot
 
 Xolair 150 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+## 18. UNIQUE IDENTIFIER -HUMAN READABLE DATA
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| PRE-FILLED PEN LABEL                                             |
+| MINIMUM PARTICULARS TO APPEAR   |
+|---------------------------------|
+| PRE-FILLED PEN LABEL            |
 
 | 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
 |------|-------------------------------------------------------------|
@@ -4694,8 +4694,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT, BY VOLUMEORBYUNIT   |
-|------|-----------------------------------------|
+| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
+|------|---------------------------------------|
 
 1 ml
 
@@ -4887,7 +4887,7 @@ Lot
 
 Xolair 300 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -4989,13 +4989,13 @@ Xolair 300 mg
 
 ## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| PRE-FILLED PEN LABEL                                             |
+| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING   |
+|------------------------------------------------------------|
+| PRE-FILLED PEN LABEL                                       |
 
 | 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
 |------|-------------------------------------------------------------|
@@ -5039,7 +5039,9 @@ One vial contains 75 mg omalizumab.
 
 ## 3. LIST OF EXCIPIENTS
 
-Powder: sucrose, histidine, histidine hydrochloride monohydrate and polysorbate 20. Solvent: water for injections.
+Powder: sucrose, histidine, histidine hydrochloride monohydrate and polysorbate 20.
+
+Solvent: water for injections.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -5104,7 +5106,7 @@ Lot
 
 Xolair 75 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -5118,9 +5120,7 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
-
-VIAL LABEL
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS VIAL LABEL
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
@@ -5128,7 +5128,7 @@ Xolair 75 mg powder for solution for injection omalizumab Subcutaneous use
 
 ## 2. METHOD OF ADMINISTRATION
 
-## 3. EXPIRY DATE
+3. EXPIRY DATE
 
 EXP
 
@@ -5195,8 +5195,7 @@ Solvent: water for injections.
 
 Powder and solvent for solution for injection
 
-1 x 150 mg vial
-
+- 1 x 150 mg vial
 - 1 x 2 ml solvent ampoule
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
@@ -5214,6 +5213,8 @@ Keep out of the sight and reach of children.
 ## 8. EXPIRY DATE
 
 EXP
+
+<div style=\"page-break-after: always\"></div>
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
@@ -5246,14 +5247,13 @@ EU/1/05/319/002
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
-
 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
 Xolair 150 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -5262,8 +5262,6 @@ Xolair 150 mg
 PC
 
 SN
-
-<div style=\"page-break-after: always\"></div>
 
 NN
 
@@ -5283,7 +5281,9 @@ One vial contains 150 mg omalizumab.
 
 ## 3. LIST OF EXCIPIENTS
 
-Powder: sucrose, histidine, histidine hydrochloride monohydrate and polysorbate 20. Solvent: water for injections.
+Powder: sucrose, histidine, histidine hydrochloride monohydrate and polysorbate 20.
+
+Solvent: water for injections.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -5356,7 +5356,7 @@ Lot
 
 Xolair 150 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
@@ -5376,7 +5376,9 @@ One vial contains 150 mg omalizumab.
 
 ## 3. LIST OF EXCIPIENTS
 
-Powder: sucrose, histidine, histidine hydrochloride monohydrate and polysorbate 20. Solvent: water for injections.
+Powder: sucrose, histidine, histidine hydrochloride monohydrate and polysorbate 20.
+
+Solvent: water for injections.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -5448,9 +5450,9 @@ Lot
 
 Xolair 150 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
-18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 <div style=\"page-break-after: always\"></div>
 
@@ -5464,7 +5466,7 @@ Xolair 150 mg powder for solution for injection omalizumab Subcutaneous use
 
 ## 2. METHOD OF ADMINISTRATION
 
-3. EXPIRY DATE
+## 3. EXPIRY DATE
 
 EXP
 
@@ -5496,7 +5498,8 @@ Use 1.4 ml and discard the rest.
 
 EXP
 
-## 4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
@@ -5539,7 +5542,7 @@ Lot
 
 Xolair contains the active substance omalizumab. Omalizumab is a man-made protein that is similar to natural proteins produced by the body. It belongs to a class of medicines called monoclonal antibodies.
 
-Xolair is used for the treatment of:
+## Xolair is used for the treatment of:
 
 - -allergic asthma
 - -chronic rhinosinusitis (inflammation of the nose and sinuses) with nasal polyps
@@ -5631,7 +5634,7 @@ Xolair is used as an injection under your skin (known as a subcutaneous injectio
 - -It is important to be properly trained on how to inject the medicine before injecting yourself.
 - -A caregiver (for example a parent) may also give you your Xolair injection after he or she has received proper training.
 
-For detailed instructions on how to inject Xolair, see 'Instructions for use of Xolair pre-filled syringe' at the end of this leaflet.
+For detailed instructions on how to inject Xolair, see 'Instructions for use of Xolair pre -filled syringe' at the end of this leaflet.
 
 ## Training to recognise serious allergic reactions
 
@@ -5711,7 +5714,7 @@ Common (may affect up to 1 in 10 people)
 
 <div style=\"page-break-after: always\"></div>
 
-Uncommon (may affect up to 1 in 100 people)
+## Uncommon (may affect up to 1 in 100 people)
 
 - -feeling sleepy or tired
 - -tingling or numbness of the hands or feet
@@ -5741,7 +5744,7 @@ If you get any side effects, talk to your doctor, pharmacist or nurse. This incl
 - -Keep this medicine out of the sight and reach of children.
 - -Do not use this medicine after the expiry date which is stated on the label after EXP. The expiry date refers to the last day of that month. The carton containing the pre-filled syringe can be stored for a total time of 48 hours at room temperature (25°C) before use.
 - -Store in the original package in order to protect from light.
-- -Store in a refrigerator (2°C - 8°C). Do not freeze.
+- -Store in a refrigerator (2°C -8°C). Do not freeze.
 - -Do not use any pack that is damaged or shows signs of tampering.
 
 ## 6. Contents of the pack and other information
@@ -5770,19 +5773,15 @@ Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Irelan
 
 Novartis Farmacéutica S.A. Gran Via de les Corts Catalanes, 764 08013 Barcelona Spain
 
-Novartis Pharma GmbH Roonstrasse 25 D-90429 Nuremberg Germany
-
 Novartis Pharma GmbH Sophie-Germain-Strasse 10 90443 Nuremberg Germany
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 ## België/Belgique/Belgien
 
-Novartis Pharma N.V. Tél/Tel: +32 2 246 16 11
+Novartis Pharma N.V.
 
-## Lietuva
-
-SIA Novartis Baltics Lietuvos filialas Tel: +370 5 269 16 50
+Tél/Tel: +32 2 246 16 11
 
 ## България
 
@@ -5790,55 +5789,35 @@ Novartis Bulgaria EOOD
 
 Тел.: +359 2 489 98 28
 
-## Luxembourg/Luxemburg
-
-Novartis Pharma N.V.
-
-Tél/Tel: +32 2 246 16 11
-
 ## Česká republika
 
-Novartis s.r.o. Tel: +420 225 775 111
+Novartis s.r.o.
 
-## Magyarország
-
-Novartis Hungária Kft.
-
-Tel.: +36 1 457 65 00
+Tel: +420 225 775 111
 
 ## Danmark
 
-Novartis Healthcare A/S Tlf: +45 39 16 84 00
+Novartis Healthcare A/S
 
-## Malta
-
-Novartis Pharma Services Inc.
-
-Tel: +356 2122 2872
+Tlf: +45 39 16 84 00
 
 ## Deutschland
 
-Novartis Pharma GmbH Tel: +49 911 273 0
+Novartis Pharma GmbH
 
-## Nederland
-
-Novartis Pharma B.V. Tel: +31 88 04 52 111
+Tel: +49 911 273 0
 
 ## Eesti
 
-SIA Novartis Baltics Eesti filiaal Tel: +372 66 30 810
+SIA Novartis Baltics Eesti filiaal
 
-## Norge
-
-Novartis Norge AS Tlf: +47 23 05 20 00
+Tel: +372 66 30 810
 
 ## Ελλάδα
 
-Novartis (Hellas) A.E.B.E. Τηλ: +30 210 281 17 12
+Novartis (Hellas) A.E.B.E.
 
-## Österreich
-
-Novartis Pharma GmbH Tel: +43 1 86 6570
+Τηλ: +30 210 281 17 12
 
 ## España
 
@@ -5846,23 +5825,63 @@ Novartis Farmacéutica, S.A.
 
 Tel: +34 93 306 42 00
 
-## Polska
-
-Novartis Poland Sp. z o.o.
-
-Tel.: +48 22 375 4888
-
 ## France
 
 Novartis Pharma S.A.S.
 
 Tél: +33 1 55 47 66 00
 
+## Lietuva
+
+SIA Novartis Baltics Lietuvos filialas Tel: +370 5 269 16 50
+
+## Luxembourg/Luxemburg
+
+Novartis Pharma N.V.
+
+Tél/Tel: +32 2 246 16 11
+
+## Magyarország
+
+Novartis Hungária Kft.
+
+Tel.: +36 1 457 65 00
+
+## Malta
+
+Novartis Pharma Services Inc.
+
+Tel: +356 2122 2872
+
+## Nederland
+
+Novartis Pharma B.V.
+
+Tel: +31 88 04 52 111
+
+## Norge
+
+Novartis Norge AS
+
+Tlf: +47 23 05 20 00
+
+## Österreich
+
+Novartis Pharma GmbH
+
+Tel: +43 1 86 6570
+
+## Polska
+
+Novartis Poland Sp. z o.o.
+
+Tel.: +48 22 375 4888
+
 ## Portugal
 
-Novartis Farma - Produtos Farmacêuticos, S.A.
+Novartis Farma - Produtos Farmacêuticos, S.A. Tel: +351 21 000 8600
 
-Tel: +351 21 000 8600
+<div style=\"page-break-after: always\"></div>
 
 ## Hrvatska
 
@@ -5870,23 +5889,11 @@ Novartis Hrvatska d.o.o.
 
 Tel. +385 1 6274 220
 
-## România
-
-Novartis Pharma Services Romania SRL
-
-Tel: +40 21 31299 01
-
 ## Ireland
 
 Novartis Ireland Limited
 
 Tel: +353 1 260 12 55
-
-## Slovenija
-
-Novartis Pharma Services Inc.
-
-Tel: +386 1 300 75 50
 
 ## Ísland
 
@@ -5894,23 +5901,11 @@ Vistor hf.
 
 Sími: +354 535 7000
 
-## Slovenská republika
-
-Novartis Slovakia s.r.o.
-
-Tel: +421 2 5542 5439
-
 ## Italia
 
 Novartis Farma S.p.A.
 
 Tel: +39 02 96 54 1
-
-## Suomi/Finland
-
-Novartis Finland Oy
-
-Puh/Tel: +358 (0)10 6133 200
 
 ## Κύπρος
 
@@ -5918,25 +5913,47 @@ Novartis Pharma Services Inc.
 
 Τηλ: +357 22 690 690
 
-## Sverige
-
-Novartis Sverige AB
-
-Tel: +46 8 732 32 00
-
 ## Latvija
 
 SIA Novartis Baltics
 
 Tel: +371 67 887 070
 
-<div style=\"page-break-after: always\"></div>
-
 ## This leaflet was last revised in
 
 ## Other sources of information
 
 Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu
+
+## România
+
+Novartis Pharma Services Romania SRL
+
+Tel: +40 21 31299 01
+
+## Slovenija
+
+Novartis Pharma Services Inc.
+
+Tel: +386 1 300 75 50
+
+## Slovenská republika
+
+Novartis Slovakia s.r.o.
+
+Tel: +421 2 5542 5439
+
+## Suomi/Finland
+
+Novartis Finland Oy
+
+Puh/Tel: +358 (0)10 6133 200
+
+## Sverige
+
+Novartis Sverige AB
+
+Tel: +46 8 732 32 00
 
 <div style=\"page-break-after: always\"></div>
 
@@ -6077,7 +6094,7 @@ Dispose of the used syringe immediately in a sharps container (closable, punctur
 
 Xolair contains the active substance omalizumab. Omalizumab is a man-made protein that is similar to natural proteins produced by the body. It belongs to a class of medicines called monoclonal antibodies.
 
-Xolair is used for the treatment of:
+## Xolair is used for the treatment of:
 
 - -allergic asthma
 - -chronic rhinosinusitis (inflammation of the nose and sinuses) with nasal polyps
@@ -6117,7 +6134,7 @@ Xolair is not meant to prevent or treat other allergy-type conditions, such as s
 
 ## Look out for signs of allergic reactions and other serious side effects
 
-Xolair can potentially cause serious side effects. You must look out for signs of these conditions while you use Xolair. Seek medical help immediately if you notice any signs indicating a severe allergic reaction or other serious side effects. Such signs are listed under 'Serious side effects' in section 4.
+Xolair can potentially cause serious side effects. You must look out for signs of these conditions while you use Xolair. Seek medical help immediately if you notice any signs indicating a severe allergic reaction or other serious side effects. Such signs a re listed under 'Serious side effects' in section 4.
 
 It is important that you receive training from your doctor in how to recognise early symptoms of severe allergic reactions, and how to manage these reactions if they occur, before you inject Xolair yourself or before a non-healthcare professional gives you a Xolair injection (see section 3, 'How to use Xolair'). The majority of severe allergic reactions occur within the first 3 doses of Xolair.
 
@@ -6168,7 +6185,7 @@ Xolair is used as an injection under your skin (known as a subcutaneous injectio
 - -It is important to be properly trained on how to inject the medicine before injecting yourself.
 - -A caregiver (for example a parent) may also give you your Xolair injection after he or she has received proper training.
 
-For detailed instructions on how to inject Xolair, see 'Instructions for use of Xolair pre-filled syringe' at the end of this leaflet.
+For detailed instructions on how to inject Xolair, see 'Instructions for use of Xolair pre -filled syringe' at the end of this leaflet.
 
 ## Training to recognise serious allergic reactions
 
@@ -6279,7 +6296,7 @@ If you get any side effects, talk to your doctor, pharmacist or nurse. This incl
 - -Keep this medicine out of the sight and reach of children.
 - -Do not use this medicine after the expiry date which is stated on the label after EXP. The expiry date refers to the last day of that month. The carton containing the pre-filled syringe can be stored for a total time of 48 hours at room temperature (25°C) before use.
 - -Store in the original package in order to protect from light.
-- -Store in a refrigerator (2°C - 8°C). Do not freeze.
+- -Store in a refrigerator (2°C -8°C). Do not freeze.
 - -Do not use any pack that is damaged or shows signs of tampering.
 
 ## 6. Contents of the pack and other information
@@ -6307,7 +6324,9 @@ Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Irelan
 
 Novartis Farmacéutica S.A. Gran Via de les Corts Catalanes, 764 08013 Barcelona Spain
 
-Novartis Pharma GmbH Roonstrasse 25 D-90429 Nuremberg Germany
+Novartis Pharmaceutical Manufacturing GmbH Biochemiestrasse 10 6336 Langkampfen Austria
+
+Novartis Pharmaceutical Manufacturing LLC Verovškova ulica 57 1000 Ljubljana Slovenia
 
 Novartis Pharma GmbH Sophie-Germain-Strasse 10 90443 Nuremberg Germany
 
@@ -6323,7 +6342,9 @@ SIA Novartis Baltics Lietuvos filialas Tel: +370 5 269 16 50
 
 ## България
 
-Novartis Bulgaria EOOD Тел.: +359 2 489 98 28
+Novartis Bulgaria EOOD
+
+Тел.: +359 2 489 98 28
 
 ## Luxembourg/Luxemburg
 
@@ -6333,7 +6354,9 @@ Tél/Tel: +32 2 246 16 11
 
 ## Česká republika
 
-Novartis s.r.o. Tel: +420 225 775 111
+Novartis s.r.o.
+
+Tel: +420 225 775 111
 
 ## Magyarország
 
@@ -6353,27 +6376,39 @@ Tel: +356 2122 2872
 
 ## Deutschland
 
-Novartis Pharma GmbH Tel: +49 911 273 0
+Novartis Pharma GmbH
+
+Tel: +49 911 273 0
 
 ## Nederland
 
-Novartis Pharma B.V. Tel: +31 88 04 52 111
+Novartis Pharma B.V.
+
+Tel: +31 88 04 52 111
 
 ## Eesti
 
-SIA Novartis Baltics Eesti filiaal Tel: +372 66 30 810
+SIA Novartis Baltics Eesti filiaal
+
+Tel: +372 66 30 810
 
 ## Norge
 
-Novartis Norge AS Tlf: +47 23 05 20 00
+Novartis Norge AS
+
+Tlf: +47 23 05 20 00
 
 ## Ελλάδα
 
-Novartis (Hellas) A.E.B.E. Τηλ: +30 210 281 17 12
+Novartis (Hellas) A.E.B.E.
+
+Τηλ: +30 210 281 17 12
 
 ## Österreich
 
-Novartis Pharma GmbH Tel: +43 1 86 6570
+Novartis Pharma GmbH
+
+Tel: +43 1 86 6570
 
 ## España
 
@@ -6485,14 +6520,14 @@ If your doctor decides that you or your caregiver may be able to give your injec
 
 Children below 12 years of age are not expected to inject Xolair themselves, however, if deemed appropriate by their doctor, a caregiver may give them their Xolair injections after proper training.
 
-Be sure that you read and understand these 'Instructions for Use' before injecting with the Xolair prefilled syringe. Talk to your doctor if you have any questions.
+Be sure that you read and understand these 'Instructions for Use' before injecting with the Xolair pre -filled syringe. Talk to your doctor if you have any questions.
 
 <!-- image -->
 
 ## Important information you need to know before injecting Xolair
 
 - Xolair is for subcutaneous injection only (inject directly into fatty layer under the skin).
-- Do not use the pre-filled syringe if either the seal on the outer carton or the seal of the plastic tray is broken.
+- Do not use the pre-filled syringe if the seal on the outer carton is broken. If the pre-filled syringe is supplied with a plastic tray, do not use the pre-filled syringe if the cover of the plastic tray is not intact.
 - Do not use if the pre-filled syringe has been dropped onto a hard surface or dropped after removing the needle cap.
 - Do not inject if the pre-filled syringe has been kept out of the refrigerator for more than a total of 48 hours. Dispose of it (see Step 12) and use a new pre-filled syringe for your injection.
 - The pre-filled syringe has a safety guard that will be activated to cover the needle after the injection is finished. The safety guard will help to prevent needlestick injuries to anyone who handles the pre-filled syringe after injection.
@@ -6524,23 +6559,6 @@ Contact your doctor if you have questions on the Dosing Table.
 
 <!-- image -->
 
-| Xolair 75 mg pre-filled syringe with a blue plunger Blue plunger   | Purple plunger Xolair 150 mg pre-filled syringe with a purple plunger   | Grey plunger Xolair 300 mg pre-filled syringe with a grey plunger   | Grey plunger Xolair 300 mg pre-filled syringe with a grey plunger   | Grey plunger Xolair 300 mg pre-filled syringe with a grey plunger   |
-|--------------------------------------------------------------------|-------------------------------------------------------------------------|---------------------------------------------------------------------|---------------------------------------------------------------------|---------------------------------------------------------------------|
-| DOSE                                                               | Pre-filled syringes needed for dose                                     | Blue 75 mg                                                          | Purple 150 mg                                                       | Grey 300 mg                                                         |
-| 75 mg                                                              | 1 blue                                                                  |                                                                     |                                                                     |                                                                     |
-| 150 mg                                                             | 1 purple                                                                |                                                                     |                                                                     |                                                                     |
-| 225 mg                                                             | 1 blue + 1 purple                                                       |                                                                     |                                                                     |                                                                     |
-| 300 mg (ages 12 and up)                                            | 1 grey                                                                  |                                                                     |                                                                     |                                                                     |
-| 300 mg (children under age 12)                                     | 2 purple                                                                |                                                                     |                                                                     |                                                                     |
-| 375 mg (ages 12 and up)                                            | 1 blue + 1 grey                                                         |                                                                     |                                                                     |                                                                     |
-| 375 mg (children under age 12)                                     | 1 blue + 2 purple                                                       |                                                                     |                                                                     |                                                                     |
-| 450 mg (ages 12 and up)                                            | 1 purple + 1 grey                                                       |                                                                     |                                                                     |                                                                     |
-| 450 mg (children under age 12)                                     | 3 purple                                                                |                                                                     |                                                                     |                                                                     |
-| 525 mg (ages 12 and up)                                            | 1 blue + 1 purple + 1 grey                                              |                                                                     |                                                                     |                                                                     |
-| 525 mg (children under age 12)                                     | 1 blue + 3 purple                                                       |                                                                     |                                                                     |                                                                     |
-| 600 mg (ages 12 and up)                                            | 2 grey                                                                  |                                                                     |                                                                     |                                                                     |
-| 600 mg (children under age 12)                                     | 4 purple                                                                |                                                                     |                                                                     |                                                                     |
-
 <div style=\"page-break-after: always\"></div>
 
 ## Prepare to inject Xolair
@@ -6562,7 +6580,9 @@ You will need the following supplies (not included in the carton):
 
 ## Step 3. Unpack
 
-Open the plastic tray by peeling away the cover. Remove the pre-filled syringe by holding it in the middle as shown.
+If the pre-filled syringe is supplied with a plastic tray, open the plastic tray by peeling away the cover.
+
+Remove the pre-filled syringe from the packaging, holding it in the middle as shown.
 
 Do not remove the needle cap until you are ready to inject.
 
@@ -6592,9 +6612,9 @@ If your caregiver, doctor or nurse is giving you the injection, they may also in
 
 <!-- image -->
 
-<!-- image -->
+5a
 
-<!-- image -->
+5b
 
 <div style=\"page-break-after: always\"></div>
 
@@ -6734,7 +6754,7 @@ Xolair is not meant to prevent or treat other allergy-type conditions, such as s
 
 ## Look out for signs of allergic reactions and other serious side effects
 
-Xolair can potentially cause serious side effects. You must look out for signs of these conditions while you use Xolair. Seek medical help immediately if you notice any signs indicating a severe allergic reaction or other serious side effects. Such signs are listed under 'Serious side effects' in section 4.
+Xolair can potentially cause serious side effects. You must look out for signs of these conditions while you use Xolair. Seek medical help immediately if you notice any signs indicating a severe allergic reaction or other serious side effects. Such signs a re listed under 'Serious side effects' in section 4.
 
 It is important that you receive training from your doctor in how to recognise early symptoms of severe allergic reactions, and how to manage these reactions if they occur, before you inject Xolair yourself or before a non-healthcare professional gives you a Xolair injection (see section 3, 'How to use Xolair'). The majority of severe allergic reactions occur within the first 3 doses of Xolair.
 
@@ -6785,7 +6805,7 @@ Xolair is used as an injection under your skin (known as a subcutaneous injectio
 - -It is important to be properly trained on how to inject the medicine before injecting yourself.
 - -A caregiver (for example a parent) may also give you your Xolair injection after he or she has received proper training.
 
-For detailed instructions on how to inject Xolair, see 'Instructions for use of Xolair pre-filled pen' at the end of this leaflet.
+For detailed instructions on how to inject Xolair, see 'Instructions for use of Xolair pre -filled pen ' at the end of this leaflet.
 
 ## Training to recognise serious allergic reactions
 
@@ -6898,7 +6918,7 @@ If you get any side effects, talk to your doctor, pharmacist or nurse. This incl
 - -Keep this medicine out of the sight and reach of children.
 - -Do not use this medicine after the expiry date which is stated on the label after EXP. The expiry date refers to the last day of that month. The carton containing the pre-filled pen can be stored for a total time of 48 hours at room temperature (25°C) before use.
 - -Store in the original package in order to protect from light.
-- -Store in a refrigerator (2°C - 8°C). Do not freeze.
+- -Store in a refrigerator (2°C -8°C). Do not freeze.
 - -Do not use any pack that is damaged or shows signs of tampering.
 
 ## 6. Contents of the pack and other information
@@ -6926,19 +6946,15 @@ Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Irelan
 
 Novartis Farmacéutica S.A. Gran Via de les Corts Catalanes, 764 08013 Barcelona Spain
 
-Novartis Pharma GmbH Roonstrasse 25 D-90429 Nuremberg Germany
-
 Novartis Pharma GmbH Sophie-Germain-Strasse 10 90443 Nuremberg Germany
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 ## België/Belgique/Belgien
 
-Novartis Pharma N.V. Tél/Tel: +32 2 246 16 11
+Novartis Pharma N.V.
 
-## Lietuva
-
-SIA Novartis Baltics Lietuvos filialas Tel: +370 5 269 16 50
+Tél/Tel: +32 2 246 16 11
 
 ## България
 
@@ -6946,57 +6962,33 @@ Novartis Bulgaria EOOD
 
 Тел.: +359 2 489 98 28
 
-## Luxembourg/Luxemburg
-
-Novartis Pharma N.V.
-
-Tél/Tel: +32 2 246 16 11
-
 ## Česká republika
 
 Novartis s.r.o.
 
 Tel: +420 225 775 111
 
-## Magyarország
-
-Novartis Hungária Kft.
-
-Tel.: +36 1 457 65 00
-
 ## Danmark
 
-Novartis Healthcare A/S Tlf: +45 39 16 84 00
+Novartis Healthcare A/S
 
-## Malta
-
-Novartis Pharma Services Inc.
-
-Tel: +356 2122 2872
+Tlf: +45 39 16 84 00
 
 ## Deutschland
 
-Novartis Pharma GmbH Tel: +49 911 273 0
+Novartis Pharma GmbH
 
-## Nederland
-
-Novartis Pharma B.V. Tel: +31 88 04 52 111
+Tel: +49 911 273 0
 
 ## Eesti
 
-SIA Novartis Baltics Eesti filiaal Tel: +372 66 30 810
+SIA Novartis Baltics Eesti filiaal
 
-## Norge
-
-Novartis Norge AS Tlf: +47 23 05 20 00
+Tel: +372 66 30 810
 
 ## Ελλάδα
 
 Novartis (Hellas) A.E.B.E. Τηλ: +30 210 281 17 12
-
-## Österreich
-
-Novartis Pharma GmbH Tel: +43 1 86 6570
 
 ## España
 
@@ -7004,23 +6996,63 @@ Novartis Farmacéutica, S.A.
 
 Tel: +34 93 306 42 00
 
-## Polska
-
-Novartis Poland Sp. z o.o.
-
-Tel.: +48 22 375 4888
-
 ## France
 
 Novartis Pharma S.A.S.
 
 Tél: +33 1 55 47 66 00
 
+## Lietuva
+
+SIA Novartis Baltics Lietuvos filialas Tel: +370 5 269 16 50
+
+## Luxembourg/Luxemburg
+
+Novartis Pharma N.V.
+
+Tél/Tel: +32 2 246 16 11
+
+## Magyarország
+
+Novartis Hungária Kft.
+
+Tel.: +36 1 457 65 00
+
+## Malta
+
+Novartis Pharma Services Inc.
+
+Tel: +356 2122 2872
+
+## Nederland
+
+Novartis Pharma B.V.
+
+Tel: +31 88 04 52 111
+
+## Norge
+
+Novartis Norge AS
+
+Tlf: +47 23 05 20 00
+
+## Österreich
+
+Novartis Pharma GmbH
+
+Tel: +43 1 86 6570
+
+## Polska
+
+Novartis Poland Sp. z o.o.
+
+Tel.: +48 22 375 4888
+
 ## Portugal
 
-Novartis Farma - Produtos Farmacêuticos, S.A.
+Novartis Farma - Produtos Farmacêuticos, S.A. Tel: +351 21 000 8600
 
-Tel: +351 21 000 8600
+<div style=\"page-break-after: always\"></div>
 
 ## Hrvatska
 
@@ -7028,23 +7060,11 @@ Novartis Hrvatska d.o.o.
 
 Tel. +385 1 6274 220
 
-## România
-
-Novartis Pharma Services Romania SRL
-
-Tel: +40 21 31299 01
-
 ## Ireland
 
 Novartis Ireland Limited
 
 Tel: +353 1 260 12 55
-
-## Slovenija
-
-Novartis Pharma Services Inc.
-
-Tel: +386 1 300 75 50
 
 ## Ísland
 
@@ -7052,23 +7072,11 @@ Vistor hf.
 
 Sími: +354 535 7000
 
-## Slovenská republika
-
-Novartis Slovakia s.r.o.
-
-Tel: +421 2 5542 5439
-
 ## Italia
 
 Novartis Farma S.p.A.
 
 Tel: +39 02 96 54 1
-
-## Suomi/Finland
-
-Novartis Finland Oy
-
-Puh/Tel: +358 (0)10 6133 200
 
 ## Κύπρος
 
@@ -7076,25 +7084,47 @@ Novartis Pharma Services Inc.
 
 Τηλ: +357 22 690 690
 
-## Sverige
-
-Novartis Sverige AB
-
-Tel: +46 8 732 32 00
-
 ## Latvija
 
 SIA Novartis Baltics
 
 Tel: +371 67 887 070
 
-<div style=\"page-break-after: always\"></div>
-
 ## This leaflet was last revised in
 
 ## Other sources of information
 
 Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu
+
+## România
+
+Novartis Pharma Services Romania SRL
+
+Tel: +40 21 31299 01
+
+## Slovenija
+
+Novartis Pharma Services Inc.
+
+Tel: +386 1 300 75 50
+
+## Slovenská republika
+
+Novartis Slovakia s.r.o.
+
+Tel: +421 2 5542 5439
+
+## Suomi/Finland
+
+Novartis Finland Oy
+
+Puh/Tel: +358 (0)10 6133 200
+
+## Sverige
+
+Novartis Sverige AB
+
+Tel: +46 8 732 32 00
 
 <div style=\"page-break-after: always\"></div>
 
@@ -7115,8 +7145,7 @@ Be sure that you read and understand these 'Instructions for Use' before injecti
 - Xolair is for subcutaneous injection only (inject directly into fatty layer under the skin).
 - Do not use the pen if the seal on the outer carton is broken.
 - Do not use if the pen has been dropped after removing the cap.
-- inject if the pen has been kept out of the refrigerator for more than a total of 48 hours.
-- Do not Dispose of it (see Step 13) and use a new pen for your injection.
+- Do not inject if the pen has been kept out of the refrigerator for more than a total of 48 hours. Dispose of it (see Step 13) and use a new pen for your injection.
 - Do not touch or push the needle guard as you could get injured. Touching or pushing on the needle guard could cause a needlestick injury.
 - Do not try to re-use or take apart the pen.
 - Do not try to reattach the cap once it has been taken off.
@@ -7168,10 +7197,6 @@ Take the pen out of the outer carton.
 
 Do not remove the cap until you are ready to inject.
 
-<!-- image -->
-
-<div style=\"page-break-after: always\"></div>
-
 ## Step 4. Inspect the pen
 
 Look through the viewing window of the pen. The liquid inside should be clear to slightly cloudy. Its colour may vary from colourless to pale brownish-yellow. You may see air bubbles in the liquid, which is normal.
@@ -7182,6 +7207,12 @@ Look through the viewing window of the pen. The liquid inside should be clear to
 
 In all of these cases, contact your doctor, nurse or pharmacist.
 
+<!-- image -->
+
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
+
 ## Step 5. Choose injection site
 
 You should inject into the front of the thighs or the lower stomach area but not the area 5 cm around the belly button.
@@ -7191,14 +7222,6 @@ Do not inject into skin that is tender, bruised, red, scaly or hard or into area
 Note: If you need more than one pen to deliver your full dose, make sure your injections are at least 2 cm apart.
 
 If a caregiver, doctor or nurse is giving the injection, they may also inject into the outer upper arm.
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-<div style=\"page-break-after: always\"></div>
 
 ## Inject with Xolair
 
@@ -7216,6 +7239,14 @@ Pull the cap straight off in the direction of the arrow.
 
 Do not put the cap back on. Throw away the cap.
 
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
+
 ## Step 8. Position the pen
 
 Hold the pen comfortably with the needle guard directly against the skin .
@@ -7226,6 +7257,10 @@ The pen should be at a 90°angle to the skin as shown.
 
 Push and hold the pen firmly against the skin. Listen for the 1 st click which indicates that the injection has started.
 
+## Step 10. Monitor injection
+
+Keep holding the pen firmly down against the skin. The green indicator shows the progress of the injection.
+
 <!-- image -->
 
 <!-- image -->
@@ -7233,10 +7268,6 @@ Push and hold the pen firmly against the skin. Listen for the 1 st click which i
 <!-- image -->
 
 <div style=\"page-break-after: always\"></div>
-
-## Step 10. Monitor injection
-
-Keep holding the pen firmly down against the skin. The green indicator shows the progress of the injection.
 
 ## Step 11. Complete injection
 
@@ -7258,14 +7289,6 @@ Do not rub the injection site. If needed, cover your injection site with a small
 
 Note: If you need more than one pen to deliver your full dose, throw away the used pen as described in Step 13.
 
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-<div style=\"page-break-after: always\"></div>
-
 Repeat Step 2 to Step 13 again for all the pens needed to deliver your full dose.
 
 Carry out the injections immediately one after another.
@@ -7277,6 +7300,10 @@ Make sure the injections are at least 2 cm apart.
 Put the used pen in a sharps disposal container (i.e. a puncture-resistant closable container, or similar) right away after use.
 
 Talk to your doctor or pharmacist about proper disposal of the sharps disposal container. There may be local regulations for disposal.
+
+<!-- image -->
+
+<!-- image -->
 
 ## Package leaflet: Information for the user
 
@@ -7407,7 +7434,7 @@ Xolair is used as an injection under your skin (known as a subcutaneous injectio
 - -It is important to be properly trained on how to inject the medicine before injecting yourself.
 - -A caregiver (for example a parent) may also give you your Xolair injection after he or she has received proper training.
 
-For detailed instructions on how to inject Xolair, see 'Instructions for use of Xolair pre-filled syringe' at the end of this leaflet.
+For detailed instructions on how to inject Xolair, see 'Instructions for use of Xolair pre -filled syringe' at the end of this leaflet.
 
 ## Training to recognise serious allergic reactions
 
@@ -7480,8 +7507,7 @@ Seek medical attention immediately if you notice any signs of the following side
 
 <div style=\"page-break-after: always\"></div>
 
-trouble breathing, blue skin or lips, collapsing and losing consciousness. If you have a history of severe allergic reactions (anaphylaxis) unrelated to Xolair you may be more at risk of developing a severe allergic reaction following use of Xolair.
-
+- trouble breathing, blue skin or lips, collapsing and losing consciousness. If you have a history of severe allergic reactions (anaphylaxis) unrelated to Xolair you may be more at risk of developing a severe allergic reaction following use of Xolair.
 - -Systemic lupus erythematosus (SLE). Symptoms may include muscle pain, joint pain and swelling, rash, fever, weight loss, and fatigue.
 
 ## Not known (frequency cannot be estimated from the available data)
@@ -7539,7 +7565,7 @@ If you get any side effects, talk to your doctor, pharmacist or nurse. This incl
 
 - -Do not use this medicine after the expiry date which is stated on the label after EXP. The expiry date refers to the last day of that month. The carton containing the pre-filled syringe can be stored for a total time of 48 hours at room temperature (25°C) before use.
 - -Store in the original package in order to protect from light.
-- -Store in a refrigerator (2°C - 8°C). Do not freeze.
+- -Store in a refrigerator (2°C -8°C). Do not freeze.
 - -Do not use any pack that is damaged or shows signs of tampering.
 
 ## 6. Contents of the pack and other information
@@ -7566,8 +7592,6 @@ Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Irelan
 
 Novartis Farmacéutica S.A. Gran Via de les Corts Catalanes, 764 08013 Barcelona Spain
 
-Novartis Pharma GmbH Roonstrasse 25 D-90429 Nuremberg Germany
-
 Novartis Pharma GmbH Sophie-Germain-Strasse 10 90443 Nuremberg Germany
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
@@ -7576,127 +7600,129 @@ For any information about this medicine, please contact the local representative
 
 Novartis Pharma N.V. Tél/Tel: +32 2 246 16 11
 
-Lietuva Tel: +370 5 269 16 50
+Lietuva
 
-SIA Novartis Baltics Lietuvos filialas
-
-<div style=\"page-break-after: always\"></div>
+SIA Novartis Baltics Lietuvos filialas Tel: +370 5 269 16 50
 
 ## България
 
-Novartis Bulgaria EOOD Тел.: +359 2 489 98 28
+Novartis Bulgaria EOOD
+
+Тел.: +359 2 489 98 28
+
+## Luxembourg/Luxemburg
+
+Novartis Pharma N.V.
+
+Tél/Tel: +32 2 246 16 11
 
 ## Česká republika
 
 Novartis s.r.o. Tel: +420 225 775 111
 
-## Danmark
-
-Novartis Healthcare A/S Tlf: +45 39 16 84 00
-
-## Deutschland
-
-Novartis Pharma GmbH Tel: +49 911 273 0
-
-## Eesti
-
-SIA Novartis Baltics Eesti filiaal Tel: +372 66 30 810
-
-## Ελλάδα
-
-Novartis (Hellas) A.E.B.E. Τηλ: +30 210 281 17 12
-
-## España
-
-Novartis Farmacéutica, S.A. Tel: +34 93 306 42 00
-
-## France
-
-Novartis Pharma S.A.S. Tél: +33 1 55 47 66 00
-
-## Hrvatska
-
-Novartis Hrvatska d.o.o. Tel. +385 1 6274 220
-
-## Ireland
-
-Novartis Ireland Limited Tel: +353 1 260 12 55
-
-## Ísland
-
-Vistor hf.
-
-Sími: +354 535 7000
-
-## Italia
-
-Novartis Farma S.p.A. Tel: +39 02 96 54 1
-
-## Κύπρος
-
-Novartis Pharma Services Inc. Τηλ: +357 22 690 690
-
-## Latvija
-
-SIA Novartis Baltics Tel: +371 67 887 070
-
-## Luxembourg/Luxemburg
-
-Novartis Pharma N.V. Tél/Tel: +32 2 246 16 11
-
 ## Magyarország
 
 Novartis Hungária Kft. Tel.: +36 1 457 65 00
+
+## Danmark
+
+Novartis Healthcare A/S Tlf: +45 39 16 84 00
 
 ## Malta
 
 Novartis Pharma Services Inc. Tel: +356 2122 2872
 
+## Deutschland
+
+Novartis Pharma GmbH Tel: +49 911 273 0
+
 ## Nederland
 
 Novartis Pharma B.V. Tel: +31 88 04 52 111
+
+## Eesti
+
+SIA Novartis Baltics Eesti filiaal Tel: +372 66 30 810
 
 ## Norge
 
 Novartis Norge AS Tlf: +47 23 05 20 00
 
+## Ελλάδα
+
+Novartis (Hellas) A.E.B.E. Τηλ: +30 210 281 17 12
+
 ## Österreich
 
 Novartis Pharma GmbH Tel: +43 1 86 6570
+
+## España
+
+Novartis Farmacéutica, S.A. Tel: +34 93 306 42 00
 
 ## Polska
 
 Novartis Poland Sp. z o.o. Tel.: +48 22 375 4888
 
+## France
+
+Novartis Pharma S.A.S. Tél: +33 1 55 47 66 00
+
 ## Portugal
 
 Novartis Farma - Produtos Farmacêuticos, S.A. Tel: +351 21 000 8600
+
+## Hrvatska
+
+Novartis Hrvatska d.o.o. Tel. +385 1 6274 220
 
 ## România
 
 Novartis Pharma Services Romania SRL Tel: +40 21 31299 01
 
+## Ireland
+
+Novartis Ireland Limited Tel: +353 1 260 12 55
+
 ## Slovenija
 
 Novartis Pharma Services Inc. Tel: +386 1 300 75 50
 
+## Ísland
+
+Vistor hf. Sími: +354 535 7000
+
 ## Slovenská republika
 
-Novartis Slovakia s.r.o.
+Novartis Slovakia s.r.o. Tel: +421 2 5542 5439
 
-Tel: +421 2 5542 5439
+## Italia
+
+Novartis Farma S.p.A. Tel: +39 02 96 54 1
 
 ## Suomi/Finland
 
 Novartis Finland Oy Puh/Tel: +358 (0)10 6133 200
 
+## Κύπρος
+
+Novartis Pharma Services Inc. Τηλ: +357 22 690 690
+
 ## Sverige
 
 Novartis Sverige AB Tel: +46 8 732 32 00
 
+## Latvija
+
+SIA Novartis Baltics
+
+Tel: +371 67 887 070
+
 <div style=\"page-break-after: always\"></div>
 
 ## This leaflet was last revised in
+
+<div style=\"page-break-after: always\"></div>
 
 ## Other sources of information
 
@@ -7813,11 +7839,9 @@ Dispose of the used syringe immediately in a sharps container (closable, punctur
 
 <div style=\"page-break-after: always\"></div>
 
-## Xolair 150 mg solution for injection in pre-filled syringe
+Xolair 150 mg solution for injection in pre-filled syringe (pre-filled syringe with 27-gauge staked needle, purple plunger) Xolair 300 mg solution for injection in pre-filled syringe
 
-(pre-filled syringe with 27-gauge staked needle, purple plunger)
-
-Xolair 300 mg solution for injection in pre-filled syringe omalizumab
+omalizumab
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
@@ -7884,7 +7908,7 @@ Xolair is not meant to prevent or treat other allergy-type conditions, such as s
 
 ## Look out for signs of allergic reactions and other serious side effects
 
-Xolair can potentially cause serious side effects. You must look out for signs of these conditions while you use Xolair. Seek medical help immediately if you notice any signs indicating a severe allergic reaction or other serious side effects. Such signs are listed under 'Serious side effects' in section 4.
+Xolair can potentially cause serious side effects. You must look out for signs of these conditions while you use Xolair. Seek medical help immediately if you notice any signs indicating a severe allergic reaction or other serious side effects. Such signs a re listed under 'Serious side effects' in section 4.
 
 It is important that you receive training from your doctor in how to recognise early symptoms of severe allergic reactions, and how to manage these reactions if they occur, before you inject Xolair yourself or before a non-healthcare professional gives you a Xolair injection (see section 3, 'How to use Xolair'). The majority of severe allergic reactions occur within the first 3 doses of Xolair.
 
@@ -7939,7 +7963,7 @@ Xolair is used as an injection under your skin (known as a subcutaneous injectio
 - -It is important to be properly trained on how to inject the medicine before injecting yourself.
 - -A caregiver (for example a parent) may also give you your Xolair injection after he or she has received proper training.
 
-For detailed instructions on how to inject Xolair, see 'Instructions for use of Xolair pre-filled syringe' at the end of this leaflet.
+For detailed instructions on how to inject Xolair, see 'Instructions for use of Xolair pre -filled syringe' at the end of this leaflet.
 
 ## Training to recognise serious allergic reactions
 
@@ -8069,7 +8093,7 @@ If you get any side effects, talk to your doctor, pharmacist or nurse. This incl
 - -Keep this medicine out of the sight and reach of children.
 - -Do not use this medicine after the expiry date which is stated on the label after EXP. The expiry date refers to the last day of that month. The carton containing the pre-filled syringe can be stored for a total time of 48 hours at room temperature (25°C) before use.
 - -Store in the original package in order to protect from light.
-- -Store in a refrigerator (2°C - 8°C). Do not freeze.
+- -Store in a refrigerator (2°C -8°C). Do not freeze.
 - -Do not use any pack that is damaged or shows signs of tampering.
 
 ## 6. Contents of the pack and other information
@@ -8099,121 +8123,125 @@ Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Irelan
 
 Novartis Farmacéutica S.A. Gran Via de les Corts Catalanes, 764 08013 Barcelona Spain
 
-Novartis Pharma GmbH Roonstrasse 25 D-90429 Nuremberg Germany
+Novartis Pharmaceutical Manufacturing GmbH Biochemiestrasse 10 6336 Langkampfen Austria
 
-Novartis Pharma GmbH Sophie-Germain-Strasse 10 90443 Nuremberg Germany
+Novartis Pharmaceutical Manufacturing LLC Verovškova ulica 57 1000 Ljubljana Slovenia Novartis Pharma GmbH Sophie-Germain-Strasse 10 90443 Nuremberg Germany For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 <div style=\"page-break-after: always\"></div>
 
-For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
-
 ## België/Belgique/Belgien
 
-Novartis Pharma N.V. Tél/Tel: +32 2 246 16 11
+## Lietuva
+
+Novartis Pharma N.V.
+
+Tél/Tel: +32 2 246 16 11
+
+SIA Novartis Baltics Lietuvos filialas Tel: +370 5 269 16 50
 
 ## България
 
 Novartis Bulgaria EOOD Тел.: +359 2 489 98 28
 
+## Luxembourg/Luxemburg
+
+Novartis Pharma N.V. Tél/Tel: +32 2 246 16 11
+
 ## Česká republika
 
 Novartis s.r.o. Tel: +420 225 775 111
+
+## Magyarország
+
+Novartis Hungária Kft.
+
+Tel.: +36 1 457 65 00
 
 ## Danmark
 
 Novartis Healthcare A/S Tlf: +45 39 16 84 00
 
+## Malta
+
+Novartis Pharma Services Inc. Tel: +356 2122 2872
+
 ## Deutschland
 
 Novartis Pharma GmbH Tel: +49 911 273 0
+
+## Nederland
+
+Novartis Pharma B.V. Tel: +31 88 04 52 111
 
 ## Eesti
 
 SIA Novartis Baltics Eesti filiaal Tel: +372 66 30 810
 
-## Ελλάδα
-
-Novartis (Hellas) A.E.B.E. Τηλ: +30 210 281 17 12
-
-## España
-
-Novartis Farmacéutica, S.A. Tel: +34 93 306 42 00
-
-## France
-
-Novartis Pharma S.A.S. Tél: +33 1 55 47 66 00
-
-## Hrvatska
-
-Novartis Hrvatska d.o.o. Tel. +385 1 6274 220
-
-## Ireland
-
-Novartis Ireland Limited Tel: +353 1 260 12 55
-
-## Ísland
-
-Vistor hf. Sími: +354 535 7000
-
-## Italia
-
-Novartis Farma S.p.A. Tel: +39 02 96 54 1
-
-## Lietuva
-
-SIA Novartis Baltics Lietuvos filialas Tel: +370 5 269 16 50
-
-## Luxembourg/Luxemburg
-
-Novartis Pharma N.V. Tél/Tel: +32 2 246 16 11
-
-## Magyarország
-
-Novartis Hungária Kft. Tel.: +36 1 457 65 00
-
-## Malta
-
-Novartis Pharma Services Inc. Tel: +356 2122 2872
-
-## Nederland
-
-Novartis Pharma B.V.
-
-Tel: +31 88 04 52 111
-
 ## Norge
 
 Novartis Norge AS Tlf: +47 23 05 20 00
+
+## Ελλάδα
+
+Novartis (Hellas) A.E.B.E. Τηλ: +30 210 281 17 12
 
 ## Österreich
 
 Novartis Pharma GmbH Tel: +43 1 86 6570
 
+## España
+
+Novartis Farmacéutica, S.A. Tel: +34 93 306 42 00
+
 ## Polska
 
 Novartis Poland Sp. z o.o. Tel.: +48 22 375 4888
+
+## France
+
+Novartis Pharma S.A.S. Tél: +33 1 55 47 66 00
 
 ## Portugal
 
 Novartis Farma - Produtos Farmacêuticos, S.A. Tel: +351 21 000 8600
 
+## Hrvatska
+
+Novartis Hrvatska d.o.o. Tel. +385 1 6274 220
+
 ## România
 
 Novartis Pharma Services Romania SRL Tel: +40 21 31299 01
+
+## Ireland
+
+Novartis Ireland Limited Tel: +353 1 260 12 55
 
 ## Slovenija
 
 Novartis Pharma Services Inc. Tel: +386 1 300 75 50
 
+## Ísland
+
+Vistor hf. Sími: +354 535 7000
+
 ## Slovenská republika
 
-Novartis Slovakia s.r.o.
+Novartis Slovakia s.r.o. Tel: +421 2 5542 5439
 
-Tel: +421 2 5542 5439
+<div style=\"page-break-after: always\"></div>
+
+## Italia
 
 ## Suomi/Finland
 
-Novartis Finland Oy Puh/Tel: +358 (0)10 6133 200
+Novartis Farma S.p.A.
+
+Tel: +39 02 96 54 1
+
+Novartis Finland Oy
+
+Puh/Tel: +358 (0)10 6133 200
 
 ## Κύπρος
 
@@ -8221,7 +8249,11 @@ Novartis Pharma Services Inc.
 
 Τηλ: +357 22 690 690
 
-<div style=\"page-break-after: always\"></div>
+## Sverige
+
+Novartis Sverige AB
+
+Tel: +46 8 732 32 00
 
 ## Latvija
 
@@ -8235,12 +8267,6 @@ Tel: +371 67 887 070
 
 Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu
 
-## Sverige
-
-Novartis Sverige AB
-
-Tel: +46 8 732 32 00
-
 <div style=\"page-break-after: always\"></div>
 
 ## INSTRUCTIONS FOR USE OF XOLAIR PRE-FILLED SYRINGE
@@ -8251,14 +8277,14 @@ If your doctor decides that you or your caregiver may be able to give your injec
 
 Children below 12 years of age are not expected to inject Xolair themselves, however, if deemed appropriate by their doctor, a caregiver may give them their Xolair injections after proper training.
 
-Be sure that you read and understand these 'Instructions for Use' before injecting with the Xolair prefilled syringe. Talk to your doctor if you have any questions.
+Be sure that you read and understand these 'Instructions for Use' before injecting with the Xolair pre -filled syringe. Talk to your doctor if you have any questions.
 
 <!-- image -->
 
 ## Important information you need to know before injecting Xolair
 
 - Xolair is for subcutaneous injection only (inject directly into fatty layer under the skin).
-- Do not use the pre-filled syringe if either the seal on the outer carton or the seal of the plastic tray is broken.
+- Do not use the pre-filled syringe if the seal on the outer carton is broken. If the pre-filled syringe is supplied with a plastic tray, do not use the pre-filled syringe if the cover of the plastic tray is not intact.
 - Do not use if the pre-filled syringe has been dropped onto a hard surface or dropped after removing the needle cap.
 - Do not inject if the pre-filled syringe has been kept out of the refrigerator for more than a total of 48 hours. Dispose of it (see Step 12) and use a new pre-filled syringe for your injection.
 - The pre-filled syringe has a safety guard that will be activated to cover the needle after the injection is finished. The safety guard will help to prevent needlestick injuries to anyone who handles the pre-filled syringe after injection.
@@ -8290,23 +8316,6 @@ Contact your doctor if you have questions on the Dosing Table.
 
 <!-- image -->
 
-| Xolair 75 mg pre-filled syringe with a blue plunger Blue plunger   | Purple plunger Xolair 150 mg pre-filled syringe with a purple plunger   | Grey Xolair 300 mg pre-filled syringe with a grey plunger   | plunger                   |
-|--------------------------------------------------------------------|-------------------------------------------------------------------------|-------------------------------------------------------------|---------------------------|
-| DOSE                                                               | Pre-filled syringes needed for dose                                     | Blue 75 mg                                                  | Purple 150 mg Grey 300 mg |
-| 75 mg 150 mg 225 mg                                                | 1 blue 1 purple                                                         |                                                             |                           |
-| 300 mg (ages 12 and up)                                            | 1 blue + 1 purple                                                       |                                                             |                           |
-|                                                                    | 1 grey                                                                  |                                                             |                           |
-| 300 mg (children under age 12)                                     | 2 purple                                                                |                                                             |                           |
-| 375 mg (ages 12 and up)                                            | 1 blue + 1 grey                                                         |                                                             |                           |
-| 375 mg (children under age 12)                                     | 1 blue + 2 purple                                                       |                                                             |                           |
-| 450 mg (ages 12 and up)                                            | 1 purple + 1 grey 3 purple                                              |                                                             |                           |
-| 450 mg (children under age 12)                                     | 1 blue + 1 purple + 1                                                   |                                                             |                           |
-| 525 mg (ages 12 and up)                                            | grey                                                                    |                                                             |                           |
-| 525 mg (children under age 12)                                     | 1 blue + 3 purple                                                       |                                                             |                           |
-| 600 mg (ages 12 and up)                                            |                                                                         |                                                             |                           |
-|                                                                    | 2 grey                                                                  |                                                             |                           |
-| 600 mg (children under age 12)                                     | 4 purple                                                                |                                                             |                           |
-
 <div style=\"page-break-after: always\"></div>
 
 ## Prepare to inject Xolair
@@ -8328,7 +8337,9 @@ You will need the following supplies (not included in the carton):
 
 ## Step 3. Unpack
 
-Open the plastic tray by peeling away the cover. Remove the pre-filled syringe by holding it in the middle as shown.
+If the pre-filled syringe is supplied with a plastic tray, open the plastic tray by peeling away the cover.
+
+Remove the pre-filled syringe from the packaging, holding it in the middle as shown.
 
 Do not remove the needle cap until you are ready to inject.
 
@@ -8358,9 +8369,9 @@ If your caregiver, doctor or nurse is giving you the injection, they may also in
 
 <!-- image -->
 
-<!-- image -->
+5a
 
-<!-- image -->
+5b
 
 <div style=\"page-break-after: always\"></div>
 
@@ -8507,7 +8518,7 @@ Xolair is not meant to prevent or treat other allergy-type conditions, such as s
 
 ## Look out for signs of allergic reactions and other serious side effects
 
-Xolair can potentially cause serious side effects. You must look out for signs of these conditions while you use Xolair. Seek medical help immediately if you notice any signs indicating a severe allergic reaction or other serious side effects. Such signs are listed under 'Serious side effects' in section 4.
+Xolair can potentially cause serious side effects. You must look out for signs of these conditions while you use Xolair. Seek medical help immediately if you notice any signs indicating a severe allergic reaction or other serious side effects. Such signs a re listed under 'Serious side effects' in section 4.
 
 It is important that you receive training from your doctor in how to recognise early symptoms of severe allergic reactions, and how to manage these reactions if they occur, before you inject Xolair yourself or before a non-healthcare professional gives you a Xolair injection (see section 3, 'How to use Xolair'). The majority of severe allergic reactions occur within the first 3 doses of Xolair.
 
@@ -8562,7 +8573,7 @@ Xolair is used as an injection under your skin (known as a subcutaneous injectio
 - -It is important to be properly trained on how to inject the medicine before injecting yourself.
 - -A caregiver (for example a parent) may also give you your Xolair injection after he or she has received proper training.
 
-For detailed instructions on how to inject Xolair, see 'Instructions for use of Xolair pre-filled pen' at the end of this leaflet.
+For detailed instructions on how to inject Xolair, see 'Instructions for use of Xolair pre -filled pen ' at the end of this leaflet.
 
 ## Training to recognise serious allergic reactions
 
@@ -8676,7 +8687,7 @@ Very common (may affect more than 1 in 10 people)
 
 - -parasitic infection
 
-## Not known (frequency cannot be estimated from the available data)
+Not known (frequency cannot be estimated from the available data)
 
 - -muscle pain and joint swelling
 - -hair loss
@@ -8692,7 +8703,7 @@ If you get any side effects, talk to your doctor, pharmacist or nurse. This incl
 - -Keep this medicine out of the sight and reach of children.
 - -Do not use this medicine after the expiry date which is stated on the label after EXP. The expiry date refers to the last day of that month. The carton containing the pre-filled pen can be stored for a total time of 48 hours at room temperature (25°C) before use.
 - -Store in the original package in order to protect from light.
-- -Store in a refrigerator (2°C - 8°C). Do not freeze.
+- -Store in a refrigerator (2°C -8°C). Do not freeze.
 - -Do not use any pack that is damaged or shows signs of tampering.
 
 ## 6. Contents of the pack and other information
@@ -8722,13 +8733,9 @@ Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Irelan
 
 Novartis Farmacéutica S.A. Gran Via de les Corts Catalanes, 764 08013 Barcelona Spain
 
-Novartis Pharma GmbH Roonstrasse 25 D-90429 Nuremberg Germany
-
-Novartis Pharma GmbH Sophie-Germain-Strasse 10 90443 Nuremberg Germany
+Novartis Pharma GmbH Sophie-Germain-Strasse 10 90443 Nuremberg Germany For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 <div style=\"page-break-after: always\"></div>
-
-For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 ## België/Belgique/Belgien
 
@@ -8746,13 +8753,13 @@ Novartis Bulgaria EOOD
 
 ## Luxembourg/Luxemburg
 
-Novartis Pharma N.V.
-
-Tél/Tel: +32 2 246 16 11
+Novartis Pharma N.V. Tél/Tel: +32 2 246 16 11
 
 ## Česká republika
 
-Novartis s.r.o. Tel: +420 225 775 111
+Novartis s.r.o.
+
+Tel: +420 225 775 111
 
 ## Magyarország
 
@@ -8834,11 +8841,15 @@ Novartis Slovakia s.r.o. Tel: +421 2 5542 5439
 
 ## Italia
 
-Novartis Farma S.p.A. Tel: +39 02 96 54 1
+Novartis Farma S.p.A.
+
+Tel: +39 02 96 54 1
 
 ## Suomi/Finland
 
-Novartis Finland Oy Puh/Tel: +358 (0)10 6133 200
+Novartis Finland Oy
+
+Puh/Tel: +358 (0)10 6133 200
 
 ## Κύπρος
 
@@ -8890,12 +8901,11 @@ Be sure that you read and understand these 'Instructions for Use' before injecti
 - Do not try to re-use or take apart the pen.
 - Do not try to reattach the cap once it has been taken off.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Store Xolair
 
 - -Store in a refrigerator (2°C - 8°C). The carton containing the pen can be stored for a total time of 48 hours at room temperature (25°C) before use.
-
-<div style=\"page-break-after: always\"></div>
-
 - -Do not freeze.
 - -Keep the pen in the original carton until ready to use in order to protect from light.
 - -Keep the pen out of sight and reach of children.
@@ -8946,8 +8956,6 @@ Look through the viewing window of the pen. The liquid inside should be clear to
 - Do not use the pen after the expiry date (EXP), which is printed on the pen label and carton.
 
 In all of these cases, contact your doctor, nurse or pharmacist.
-
-<!-- image -->
 
 <!-- image -->
 
@@ -9051,7 +9059,9 @@ Talk to your doctor or pharmacist about proper disposal of the sharps disposal c
 
 <div style=\"page-break-after: always\"></div>
 
-## Xolair 75 mg powder and solvent for solution for injection omalizumab
+## Xolair 75 mg powder and solvent for solution for injection
+
+## omalizumab
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
@@ -9278,8 +9288,6 @@ Novartis Farmacéutica S.A. Gran Via de les Corts Catalanes, 764 08013 Barcelona
 
 Lek Pharmaceuticals d.d. Verovškova ulica 57 Ljubljana, 1526 Slovenia
 
-Novartis Pharma GmbH Roonstrasse 25 D-90429 Nuremberg Germany
-
 Novartis Pharma GmbH Sophie-Germain-Strasse 10 90443 Nuremberg Germany
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
@@ -9288,51 +9296,129 @@ For any information about this medicine, please contact the local representative
 
 Novartis Pharma N.V. Tél/Tel: +32 2 246 16 11
 
-Lietuva
+## Lietuva
 
 SIA Novartis Baltics Lietuvos filialas Tel: +370 5 269 16 50
 
-<div style=\"page-break-after: always\"></div>
-
 ## България
 
-Novartis Bulgaria EOOD Тел.: +359 2 489 98 28
+Novartis Bulgaria EOOD
+
+Тел.: +359 2 489 98 28
+
+## Luxembourg/Luxemburg
+
+Novartis Pharma N.V. Tél/Tel: +32 2 246 16 11
 
 ## Česká republika
 
-Novartis s.r.o. Tel: +420 225 775 111
+Novartis s.r.o.
+
+Tel: +420 225 775 111
+
+## Magyarország
+
+Novartis Hungária Kft.
+
+Tel.: +36 1 457 65 00
+
+<div style=\"page-break-after: always\"></div>
 
 ## Danmark
 
-Novartis Healthcare A/S Tlf: +45 39 16 84 00
+## Malta
+
+Novartis Healthcare A/S
+
+Tlf: +45 39 16 84 00
+
+Novartis Pharma Services Inc.
+
+Tel: +356 2122 2872
 
 ## Deutschland
 
-Novartis Pharma GmbH Tel: +49 911 273 0
+Novartis Pharma GmbH
+
+Tel: +49 911 273 0
+
+## Nederland
+
+Novartis Pharma B.V.
+
+Tel: +31 88 04 52 111
 
 ## Eesti
 
-SIA Novartis Baltics Eesti filiaal Tel: +372 66 30 810
+SIA Novartis Baltics Eesti filiaal
+
+Tel: +372 66 30 810
+
+## Norge
+
+Novartis Norge AS
+
+Tlf: +47 23 05 20 00
 
 ## Ελλάδα
 
-Novartis (Hellas) A.E.B.E. Τηλ: +30 210 281 17 12
+Novartis (Hellas) A.E.B.E.
+
+Τηλ: +30 210 281 17 12
+
+## Österreich
+
+Novartis Pharma GmbH
+
+Tel: +43 1 86 6570
 
 ## España
 
-Novartis Farmacéutica, S.A. Tel: +34 93 306 42 00
+Novartis Farmacéutica, S.A.
+
+Tel: +34 93 306 42 00
+
+## Polska
+
+Novartis Poland Sp. z o.o.
+
+Tel.: +48 22 375 4888
 
 ## France
 
-Novartis Pharma S.A.S. Tél: +33 1 55 47 66 00
+Novartis Pharma S.A.S.
+
+Tél: +33 1 55 47 66 00
+
+## Portugal
+
+Novartis Farma - Produtos Farmacêuticos, S.A.
+
+Tel: +351 21 000 8600
 
 ## Hrvatska
 
-Novartis Hrvatska d.o.o. Tel. +385 1 6274 220
+Novartis Hrvatska d.o.o.
+
+Tel. +385 1 6274 220
+
+## România
+
+Novartis Pharma Services Romania SRL
+
+Tel: +40 21 31299 01
 
 ## Ireland
 
-Novartis Ireland Limited Tel: +353 1 260 12 55
+Novartis Ireland Limited
+
+Tel: +353 1 260 12 55
+
+## Slovenija
+
+Novartis Pharma Services Inc.
+
+Tel: +386 1 300 75 50
 
 ## Ísland
 
@@ -9340,71 +9426,41 @@ Vistor hf.
 
 Sími: +354 535 7000
 
-## Italia
-
-Novartis Farma S.p.A. Tel: +39 02 96 54 1
-
-## Κύπρος
-
-Novartis Pharma Services Inc. Τηλ: +357 22 690 690
-
-## Latvija
-
-SIA Novartis Baltics Tel: +371 67 887 070
-
-## Luxembourg/Luxemburg
-
-Novartis Pharma N.V. Tél/Tel: +32 2 246 16 11
-
-## Magyarország
-
-Novartis Hungária Kft. Tel.: +36 1 457 65 00
-
-## Malta
-
-Novartis Pharma Services Inc. Tel: +356 2122 2872
-
-## Nederland
-
-Novartis Pharma B.V. Tel: +31 88 04 52 111
-
-## Norge
-
-Novartis Norge AS Tlf: +47 23 05 20 00
-
-## Österreich
-
-Novartis Pharma GmbH Tel: +43 1 86 6570
-
-## Polska
-
-Novartis Poland Sp. z o.o. Tel.: +48 22 375 4888
-
-## Portugal
-
-Novartis Farma - Produtos Farmacêuticos, S.A. Tel: +351 21 000 8600
-
-## România
-
-Novartis Pharma Services Romania SRL Tel: +40 21 31299 01
-
-## Slovenija
-
-Novartis Pharma Services Inc. Tel: +386 1 300 75 50
-
 ## Slovenská republika
 
-Novartis Slovakia s.r.o. Tel: +421 2 5542 5439
+Novartis Slovakia s.r.o.
+
+Tel: +421 2 5542 5439
+
+## Italia
+
+Novartis Farma S.p.A.
+
+Tel: +39 02 96 54 1
 
 ## Suomi/Finland
 
-Novartis Finland Oy Puh/Tel: +358 (0)10 6133 200
+Novartis Finland Oy
+
+Puh/Tel: +358 (0)10 6133 200
+
+## Κύπρος
+
+Novartis Pharma Services Inc.
+
+Τηλ: +357 22 690 690
 
 ## Sverige
 
-Novartis Sverige AB Tel: +46 8 732 32 00
+Novartis Sverige AB
 
-<div style=\"page-break-after: always\"></div>
+Tel: +46 8 732 32 00
+
+## Latvija
+
+SIA Novartis Baltics
+
+Tel: +371 67 887 070
 
 ## This leaflet was last revised in
 
@@ -9699,13 +9755,13 @@ Novartis Farmacéutica S.A. Gran Via de les Corts Catalanes, 764 08013 Barcelona
 
 Lek Pharmaceuticals d.d. Verovškova ulica 57 Ljubljana, 1526 Slovenia
 
-Novartis Pharma GmbH Roonstrasse 25 D-90429 Nuremberg Germany
-
 Novartis Pharma GmbH Sophie-Germain-Strasse 10 90443 Nuremberg Germany
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-België/Belgique/Belgien Novartis Pharma N.V. Tél/Tel: +32 2 246 16 11
+## België/Belgique/Belgien
+
+Novartis Pharma N.V. Tél/Tel: +32 2 246 16 11
 
 ## Lietuva
 
@@ -9713,31 +9769,45 @@ SIA Novartis Baltics Lietuvos filialas Tel: +370 5 269 16 50
 
 ## България
 
-Novartis Bulgaria EOOD Тел.: +359 2 489 98 28
+Novartis Bulgaria EOOD
+
+Тел.: +359 2 489 98 28
 
 ## Luxembourg/Luxemburg
 
-Novartis Pharma N.V. Tél/Tel: +32 2 246 16 11
+Novartis Pharma N.V.
+
+Tél/Tel: +32 2 246 16 11
 
 ## Česká republika
 
-Novartis s.r.o. Tel: +420 225 775 111
+Novartis s.r.o.
+
+Tel: +420 225 775 111
 
 ## Magyarország
 
-Novartis Hungária Kft. Tel.: +36 1 457 65 00
+Novartis Hungária Kft.
+
+Tel.: +36 1 457 65 00
 
 ## Danmark
 
-Novartis Healthcare A/S Tlf: +45 39 16 84 00
+Novartis Healthcare A/S
+
+Tlf: +45 39 16 84 00
 
 ## Malta
 
-Novartis Pharma Services Inc. Tel: +356 2122 2872
+Novartis Pharma Services Inc.
+
+Tel: +356 2122 2872
 
 ## Deutschland
 
-Novartis Pharma GmbH Tel: +49 911 273 0
+Novartis Pharma GmbH
+
+Tel: +49 911 273 0
 
 ## Nederland
 
@@ -9747,33 +9817,35 @@ Tel: +31 88 04 52 111
 
 ## Eesti
 
-SIA Novartis Baltics Eesti filiaal Tel: +372 66 30 810
+SIA Novartis Baltics Eesti filiaal
+
+Tel: +372 66 30 810
 
 ## Norge
 
-Novartis Norge AS Tlf: +47 23 05 20 00
+Novartis Norge AS
 
-<div style=\"page-break-after: always\"></div>
+Tlf: +47 23 05 20 00
 
 ## Ελλάδα
 
+Novartis (Hellas) A.E.B.E. Τηλ: +30 210 281 17 12
+
 ## Österreich
-
-Novartis (Hellas) A.E.B.E.
-
-Τηλ: +30 210 281 17 12
 
 Novartis Pharma GmbH
 
 Tel: +43 1 86 6570
 
+<div style=\"page-break-after: always\"></div>
+
 ## España
+
+## Polska
 
 Novartis Farmacéutica, S.A.
 
 Tel: +34 93 306 42 00
-
-## Polska
 
 Novartis Poland Sp. z o.o.
 
@@ -9787,11 +9859,15 @@ Tél: +33 1 55 47 66 00
 
 ## Portugal
 
-Novartis Farma - Produtos Farmacêuticos, S.A. Tel: +351 21 000 8600
+Novartis Farma - Produtos Farmacêuticos, S.A.
+
+Tel: +351 21 000 8600
 
 ## Hrvatska
 
-Novartis Hrvatska d.o.o. Tel. +385 1 6274 220
+Novartis Hrvatska d.o.o.
+
+Tel. +385 1 6274 220
 
 ## România
 

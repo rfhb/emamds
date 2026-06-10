@@ -1,30 +1,108 @@
 ---
-document_datetime: 2026-01-26 17:20:00
+document_datetime: 2026-06-09 13:57:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/avtozma.html
 document_name: avtozma.html
 version: success
-processing_time: 0.1367834
-conversion_datetime: 2026-01-29 12:19:00.548833
+processing_time: 0.1790428
+conversion_datetime: 2026-06-10 13:37:05.227484
 docling_version:
-  docling-serve: 1.11.0
-  docling-jobkit: 1.9.0
-  docling: 2.70.0
-  docling-core: 2.61.0
-  docling-ibm-models: 3.11.0
-  docling-parse: 4.7.3
+  docling-serve: 1.22.0
+  docling-jobkit: 1.21.0
+  docling: 2.100.0
+  docling-core: 2.80.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 6.2.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
 ---
+# Search
+
+- [Medicines](/en/medicines)
+    - [Find medicine](/en/medicines)
+    - [Therapeutic areas: latest updates](/en/medicines/therapeutic-areas-latest-updates)
+    - [Download medicine data](/en/medicines/download-medicine-data)
+    - [What we publish on medicines and when](/en/medicines/what-we-publish-medicines-when)
+    - [Medicines under evaluation](/en/medicines/medicines-human-use-under-evaluation)
+    - [National registers](/en/medicines/national-registers-authorised-medicines)
+- [Human regulatory](/en/human-regulatory-overview)
+    - [Overview](/en/human-regulatory-overview)
+    - [Research and development](/en/human-regulatory-overview/research-development)
+    - [Marketing authorisation](/en/human-regulatory-overview/marketing-authorisation)
+    - [Post-authorisation](/en/human-regulatory-overview/post-authorisation)
+    - [Medical devices](/en/human-regulatory-overview/medical-devices)
+    - [Herbal products](/en/human-regulatory-overview/herbal-medicinal-products)
+- [Veterinary regulatory](/en/veterinary-regulatory-overview)
+    - [Overview](/en/veterinary-regulatory-overview)
+    - [Research and development](/en/veterinary-regulatory-overview/research-development-veterinary-medicines)
+    - [Marketing authorisation](/en/veterinary-regulatory-overview/marketing-authorisation-veterinary-medicines)
+    - [Post-authorisation](/en/veterinary-regulatory-overview/post-authorisation-veterinary-medicines)
+- [Committees](/en/committees)
+    - [Overview](/en/committees)
+    - [How the committees work](/en/committees/how-committees-work)
+    - [CHMP](/en/committees/committee-medicinal-products-human-use-chmp)
+    - [CVMP](/en/committees/committee-veterinary-medicinal-products-cvmp)
+    - [PRAC](/en/committees/pharmacovigilance-risk-assessment-committee-prac)
+    - [COMP](/en/committees/committee-orphan-medicinal-products-comp)
+    - [HMPC](/en/committees/committee-herbal-medicinal-products-hmpc)
+    - [CAT](/en/committees/committee-advanced-therapies-cat)
+    - [PDCO](/en/committees/paediatric-committee-pdco)
+    - [Working parties and other groups](/en/committees/working-parties-other-groups)
+- [News &amp; events](/en/news-events)
+    - [Overview](/en/news-events)
+    - [News](/en/news)
+    - [Events](/en/events/upcoming-events)
+    - [What's new](/en/news-events/whats-new)
+    - [Committee highlights](/en/news-events/committee-highlights)
+    - [Publications](/en/news-and-events/publications)
+    - [Press and social media](/en/news-events/press-social-media)
+    - [Podcast: Inside EMA](/en/news-events/podcast-inside-ema)
+    - [EMA Campaigns](/en/news-events/ema-campaigns)
+    - [Open consultations](/en/news-events/open-consultations)
+    - [RSS feeds](/en/news-events/rss-feeds)
+- [Partners &amp; networks](/en/partners-networks)
+    - [Overview](/en/partners-networks)
+    - [EU partners](/en/partners-networks/eu-partners)
+    - [International activities](/en/partners-networks/international-activities)
+    - [Patients and consumers](/en/partners-networks/patients-consumers)
+    - [Healthcare professionals](/en/partners-networks/healthcare-professionals)
+    - [Academia](/en/partners-networks/academia)
+    - [Pharmaceutical industry](/en/partners-networks/pharmaceutical-industry)
+    - [Networks](/en/partners-networks/networks)
+    - [Health technology assessment bodies](/en/partners-networks/health-technology-assessment-bodies)
+    - [One Health approach](/en/partners-networks/one-health-approach)
+    - [Animal health practitioners](/en/partners-networks/animal-health-practitioners)
+    - [One substance - one assessment](/en/partners-networks/one-substance-one-assessment-osoa-eu-collaboration-chemicals-related-data)
+- [About us](/en/about-us)
+    - [Overview](/en/about-us)
+    - [What we do](/en/about-us/what-we-do)
+    - [Who we are](/en/about-us/who-we-are)
+    - [How we work](/en/about-us/how-we-work)
+    - [Fees](/en/about-us/fees-payable-european-medicines-agency)
+    - [Support to SMEs](/en/about-us/support-smes)
+    - [Annual reports and work programmes](/en/about-us/annual-reports-work-programmes)
+    - [History of EMA](/en/about-us/history-ema)
+    - [Careers](/en/about-us/careers)
+    - [Procurement](/en/about-us/procurement-grants)
+    - [About this website](/en/about-us/about-website)
+    - [Data protection and privacy](/en/about-us/data-protection-privacy-ema)
+    - [Contacts](/en/about-us/contacts-european-medicines-agency)
+
+1. [Home](/en/homepage)
+2. [Medicines](https://www.ema.europa.eu/en/medicines)
+3. Avtozma
+
 # Avtozma
 
 [RSS](/en/individual-human-medicine.xml/253176)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-tocilizumab Medicine Human Authorised
+tocilizumab
+
+Medicine Human Authorised
 
 Page contents
 
@@ -37,6 +115,7 @@ Page contents
 - [Assessment history](#assessment-history)
 - [News on Avtozma](#news-on)
 - [Product information - with tracked changes](#product-information-with-tracked-changes-77916)
+- [More information on Avtozma](#related-medicines)
 
 - Application under evaluation
 - CHMP opinion
@@ -48,8 +127,8 @@ Avtozma is a medicine used to treat:
 
 - adults with severe rheumatoid arthritis that is getting worse, who have not been previously treated with a medicine called methotrexate;
 - adults with moderate to severe active rheumatoid arthritis in whom previous treatments with disease modifying anti-rheumatic drugs (DMARDs), such as methotrexate, or medicines known as tumour necrosis factor (TNF) blockers, have not worked well enough or were not tolerated;
-- children from 2 years of age with active systemic juvenile idiopathic arthritis in whom other treatments (anti-inflammatory medicines called NSAIDs and corticosteroids) have not worked well enough;
-- children from 1 year of age with juvenile idiopathic polyarthritis in whom treatment with methotrexate has not worked well enough.
+- children from 1 years of age with active systemic juvenile idiopathic arthritis in whom other treatments (anti-inflammatory medicines called NSAIDs and corticosteroids) have not worked well enough;
+- children from 2 year of age with juvenile idiopathic polyarthritis in whom treatment with methotrexate has not worked well enough.
 
 Avtozma is used in combination with methotrexate for these conditions but it can be used on its own in patients for whom methotrexate is inappropriate.
 
@@ -66,7 +145,7 @@ Expand section
 
 Collapse section
 
-## How is Avtozma used?
+### How is Avtozma used?
 
 Avtozma can only be obtained with a prescription and treatment should be started by a doctor who has experience in the diagnosis and treatment of the relevant condition.
 
@@ -74,11 +153,11 @@ Avtozma is given by injection under the skin or by infusion (drip) into a vein. 
 
 For more information about using Avtozma, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Avtozma work?
+### How does Avtozma work?
 
 The active substance in Avtozma, tocilizumab, is a monoclonal antibody, a type of protein that has been designed to recognise and attach to a specific target (called an antigen) in the body. Tocilizumab attaches to the receptor for a messenger molecule or 'cytokine' called interleukin-6. This messenger is involved in inflammation and is found at high levels in patients with rheumatoid arthritis, systemic juvenile idiopathic arthritis, juvenile idiopathic polyarthritis, giant cell arteritis, cytokine release syndrome and COVID-19. By preventing interleukin-6 from attaching to its receptors, tocilizumab reduces the inflammation and other symptoms of these diseases.
 
-## What benefits of Avtozma have been shown in studies?
+### What benefits of Avtozma have been shown in studies?
 
 Laboratory studies comparing Avtozma with RoActemra have shown that the active substance in Avtozma is highly similar to that in RoActemra in terms of structure, purity and biological activity. Studies have also shown that giving Avtozma produces similar levels of the active substance in the body to those seen with RoActemra.
 
@@ -86,7 +165,7 @@ In addition, Avtozma was as effective as RoActemra in improving symptoms of rheu
 
 Because Avtozma is a biosimilar medicine, the studies on effectiveness and safety of tocilizumab carried out with RoActemra do not all need to be repeated for Avtozma.
 
-## What are the risks associated with Avtozma?
+### What are the risks associated with Avtozma?
 
 For the full list of side effects and restrictions of Avtozma, see the package leaflet.
 
@@ -98,13 +177,13 @@ In patients with COVID-19, the most common side effects with tocilizumab (which 
 
 Avtozma must not be used in patients who have an active, severe infection (except COVID-19). Doctors should monitor patients carefully for signs of infection during treatment and should prescribe Avtozma with caution in patients who have had recurring or long-term infections, or diseases that could increase the risk of infections, such as diverticulitis or diabetes.
 
-## Why is Avtozma authorised in the EU?
+### Why is Avtozma authorised in the EU?
 
 The European Medicines Agency decided that, in accordance with EU requirements for biosimilar medicines, Avtozma has a highly similar structure, purity and biological activity to RoActemra and is distributed in the body in the same way. In addition, a study in rheumatoid arthritis have shown that Avtozma and RoActemra are equivalent in terms of safety and effectiveness in this condition.
 
 All these data were considered sufficient to conclude that Avtozma will have the same effects as RoActemra in its authorised uses. Therefore, the Agency's view was that, as for RoActemra, the benefits of Avtozma outweigh the identified risks and it can be authorised for use in the EU.
 
-## What measures are being taken to ensure the safe and effective use of Avtozma?
+### What measures are being taken to ensure the safe and effective use of Avtozma?
 
 The company that markets Avtozma must supply all doctors expected to prescribe the medicine for rheumatoid arthritis, systemic juvenile idiopathic arthritis, giant cell arteritis and juvenile idiopathic polyarthritis with an educational pack containing important information on the safety profile and correct use of Avtozma. The pack will also include a patient alert card with key safety information for patients.
 
@@ -112,189 +191,153 @@ Recommendations and precautions to be followed by healthcare professionals and p
 
 As for all medicines, data on the use of Avtozma are continuously monitored. Suspected side effects reported with Avtozma are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Avtozma
+### Other information about Avtozma
 
 Avtozma received a marketing authorisation valid throughout the EU on 14 February 2025.
 
 Avtozma : EPAR - Medicine overview
 
-Reference Number: EMA/1060/2025
+Reference Number: EMA/1060/2025 Corr.
 
-English (EN) (140.05 KB - PDF)
+English (EN) (139.34 KB - PDF)
 
-**First published:** 04/04/2025
+**First published:** 04/04/2025 **Last updated:** 09/06/2026
 
 [View](/en/documents/overview/avtozma-epar-medicine-overview_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-939)
+[Other languages (22)](#file-language-dropdown-691)
 
-български (BG) (167.04 KB - PDF)
+български (BG) (167.18 KB - PDF)
 
-**First published:**
-
-04/04/2025
+**First published:** 04/04/2025 **Last updated:** 09/06/2026
 
 [View](/bg/documents/overview/avtozma-epar-medicine-overview_bg.pdf)
 
-español (ES) (140.33 KB - PDF)
+español (ES) (138.43 KB - PDF)
 
-**First published:**
-
-04/04/2025
+**First published:** 04/04/2025 **Last updated:** 09/06/2026
 
 [View](/es/documents/overview/avtozma-epar-medicine-overview_es.pdf)
 
-čeština (CS) (165.51 KB - PDF)
+čeština (CS) (164.83 KB - PDF)
 
-**First published:**
-
-04/04/2025
+**First published:** 04/04/2025 **Last updated:** 09/06/2026
 
 [View](/cs/documents/overview/avtozma-epar-medicine-overview_cs.pdf)
 
-dansk (DA) (138.28 KB - PDF)
+dansk (DA) (137.91 KB - PDF)
 
-**First published:**
-
-04/04/2025
+**First published:** 04/04/2025 **Last updated:** 09/06/2026
 
 [View](/da/documents/overview/avtozma-epar-medicine-overview_da.pdf)
 
-Deutsch (DE) (143.56 KB - PDF)
+Deutsch (DE) (142.51 KB - PDF)
 
-**First published:**
-
-04/04/2025
+**First published:** 04/04/2025 **Last updated:** 09/06/2026
 
 [View](/de/documents/overview/avtozma-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (137.34 KB - PDF)
+eesti (ET) (135.64 KB - PDF)
 
-**First published:**
-
-04/04/2025
+**First published:** 04/04/2025 **Last updated:** 09/06/2026
 
 [View](/et/documents/overview/avtozma-epar-medicine-overview_et.pdf)
 
-ελληνικά (EL) (164.23 KB - PDF)
+ελληνικά (EL) (165.2 KB - PDF)
 
-**First published:**
-
-04/04/2025
+**First published:** 04/04/2025 **Last updated:** 09/06/2026
 
 [View](/el/documents/overview/avtozma-epar-medicine-overview_el.pdf)
 
-français (FR) (142.34 KB - PDF)
+français (FR) (140.45 KB - PDF)
 
-**First published:**
-
-04/04/2025
+**First published:** 04/04/2025 **Last updated:** 09/06/2026
 
 [View](/fr/documents/overview/avtozma-epar-medicine-overview_fr.pdf)
 
-hrvatski (HR) (164.75 KB - PDF)
+hrvatski (HR) (162.92 KB - PDF)
 
-**First published:**
-
-04/04/2025
+**First published:** 04/04/2025 **Last updated:** 09/06/2026
 
 [View](/hr/documents/overview/avtozma-epar-medicine-overview_hr.pdf)
 
-italiano (IT) (138.1 KB - PDF)
+italiano (IT) (136.95 KB - PDF)
 
-**First published:**
-
-04/04/2025
+**First published:** 04/04/2025 **Last updated:** 09/06/2026
 
 [View](/it/documents/overview/avtozma-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (172.28 KB - PDF)
+latviešu (LV) (169.33 KB - PDF)
 
-**First published:**
-
-04/04/2025
+**First published:** 04/04/2025 **Last updated:** 09/06/2026
 
 [View](/lv/documents/overview/avtozma-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (163.49 KB - PDF)
+lietuvių (LT) (160.79 KB - PDF)
 
-**First published:**
-
-04/04/2025
+**First published:** 04/04/2025 **Last updated:** 09/06/2026
 
 [View](/lt/documents/overview/avtozma-epar-medicine-overview_lt.pdf)
 
-magyar (HU) (165.08 KB - PDF)
+magyar (HU) (163.58 KB - PDF)
 
-**First published:**
-
-04/04/2025
+**First published:** 04/04/2025 **Last updated:** 09/06/2026
 
 [View](/hu/documents/overview/avtozma-epar-medicine-overview_hu.pdf)
 
-Malti (MT) (167.2 KB - PDF)
+Malti (MT) (164.99 KB - PDF)
 
-**First published:**
-
-04/04/2025
+**First published:** 04/04/2025 **Last updated:** 09/06/2026
 
 [View](/mt/documents/overview/avtozma-epar-medicine-overview_mt.pdf)
 
-Nederlands (NL) (140.32 KB - PDF)
+Nederlands (NL) (140.21 KB - PDF)
 
-**First published:**
-
-04/04/2025
+**First published:** 04/04/2025 **Last updated:** 09/06/2026
 
 [View](/nl/documents/overview/avtozma-epar-medicine-overview_nl.pdf)
 
-polski (PL) (168.24 KB - PDF)
+polski (PL) (168.68 KB - PDF)
 
-**First published:**
-
-04/04/2025
+**First published:** 04/04/2025 **Last updated:** 09/06/2026
 
 [View](/pl/documents/overview/avtozma-epar-medicine-overview_pl.pdf)
 
-português (PT) (140.78 KB - PDF)
+português (PT) (138.94 KB - PDF)
 
-**First published:**
-
-04/04/2025
+**First published:** 04/04/2025 **Last updated:** 09/06/2026
 
 [View](/pt/documents/overview/avtozma-epar-medicine-overview_pt.pdf)
 
-română (RO) (161.89 KB - PDF)
+română (RO) (158.47 KB - PDF)
 
-**First published:**
-
-04/04/2025
+**First published:** 04/04/2025 **Last updated:** 09/06/2026
 
 [View](/ro/documents/overview/avtozma-epar-medicine-overview_ro.pdf)
 
-slovenčina (SK) (163.98 KB - PDF)
+slovenčina (SK) (162.59 KB - PDF)
 
-**First published:**
-
-04/04/2025
+**First published:** 04/04/2025 **Last updated:** 09/06/2026
 
 [View](/sk/documents/overview/avtozma-epar-medicine-overview_sk.pdf)
 
-slovenščina (SL) (161.63 KB - PDF)
+slovenščina (SL) (159.38 KB - PDF)
 
-**First published:**
-
-04/04/2025
+**First published:** 04/04/2025 **Last updated:** 09/06/2026
 
 [View](/sl/documents/overview/avtozma-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (136.28 KB - PDF)
+suomi (FI) (134.72 KB - PDF)
 
-**First published:**
-
-04/04/2025
+**First published:** 04/04/2025 **Last updated:** 09/06/2026
 
 [View](/fi/documents/overview/avtozma-epar-medicine-overview_fi.pdf)
+
+svenska (SV) (136.22 KB - PDF)
+
+**First published:** 04/04/2025 **Last updated:** 09/06/2026
+
+[View](/sv/documents/overview/avtozma-epar-medicine-overview_sv.pdf)
 
 Avtozma : EPAR - Risk management plan
 
@@ -310,303 +353,159 @@ Avtozma : EPAR - Product information
 
 English (EN) (2.64 MB - PDF)
 
-**First published:** 04/04/2025
-
-**Last updated:** 26/01/2026
+**First published:** 04/04/2025 **Last updated:** 26/01/2026
 
 [View](/en/documents/product-information/avtozma-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-346)
+[Other languages (24)](#file-language-dropdown-898)
 
 български (BG) (2.19 MB - PDF)
 
-**First published:**
-
-04/04/2025
-
-**Last updated:**
-
-26/01/2026
+**First published:** 04/04/2025 **Last updated:** 26/01/2026
 
 [View](/bg/documents/product-information/avtozma-epar-product-information_bg.pdf)
 
 español (ES) (1.84 MB - PDF)
 
-**First published:**
-
-04/04/2025
-
-**Last updated:**
-
-26/01/2026
+**First published:** 04/04/2025 **Last updated:** 26/01/2026
 
 [View](/es/documents/product-information/avtozma-epar-product-information_es.pdf)
 
 čeština (CS) (2.1 MB - PDF)
 
-**First published:**
-
-04/04/2025
-
-**Last updated:**
-
-26/01/2026
+**First published:** 04/04/2025 **Last updated:** 26/01/2026
 
 [View](/cs/documents/product-information/avtozma-epar-product-information_cs.pdf)
 
 dansk (DA) (1.86 MB - PDF)
 
-**First published:**
-
-04/04/2025
-
-**Last updated:**
-
-26/01/2026
+**First published:** 04/04/2025 **Last updated:** 26/01/2026
 
 [View](/da/documents/product-information/avtozma-epar-product-information_da.pdf)
 
 Deutsch (DE) (1.94 MB - PDF)
 
-**First published:**
-
-04/04/2025
-
-**Last updated:**
-
-26/01/2026
+**First published:** 04/04/2025 **Last updated:** 26/01/2026
 
 [View](/de/documents/product-information/avtozma-epar-product-information_de.pdf)
 
-eesti keel (ET) (2 MB - PDF)
+eesti (ET) (2 MB - PDF)
 
-**First published:**
-
-04/04/2025
-
-**Last updated:**
-
-26/01/2026
+**First published:** 04/04/2025 **Last updated:** 26/01/2026
 
 [View](/et/documents/product-information/avtozma-epar-product-information_et.pdf)
 
 ελληνικά (EL) (2.28 MB - PDF)
 
-**First published:**
-
-04/04/2025
-
-**Last updated:**
-
-26/01/2026
+**First published:** 04/04/2025 **Last updated:** 26/01/2026
 
 [View](/el/documents/product-information/avtozma-epar-product-information_el.pdf)
 
 français (FR) (1.91 MB - PDF)
 
-**First published:**
-
-04/04/2025
-
-**Last updated:**
-
-26/01/2026
+**First published:** 04/04/2025 **Last updated:** 26/01/2026
 
 [View](/fr/documents/product-information/avtozma-epar-product-information_fr.pdf)
 
 hrvatski (HR) (2.13 MB - PDF)
 
-**First published:**
-
-04/04/2025
-
-**Last updated:**
-
-26/01/2026
+**First published:** 04/04/2025 **Last updated:** 26/01/2026
 
 [View](/hr/documents/product-information/avtozma-epar-product-information_hr.pdf)
 
-íslenska (IS) (1.9 MB - PDF)
-
-**First published:**
-
-04/04/2025
-
-**Last updated:**
-
-26/01/2026
-
-[View](/is/documents/product-information/avtozma-epar-product-information_is.pdf)
-
 italiano (IT) (1.97 MB - PDF)
 
-**First published:**
-
-04/04/2025
-
-**Last updated:**
-
-26/01/2026
+**First published:** 04/04/2025 **Last updated:** 26/01/2026
 
 [View](/it/documents/product-information/avtozma-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (2.22 MB - PDF)
+latviešu (LV) (2.22 MB - PDF)
 
-**First published:**
-
-04/04/2025
-
-**Last updated:**
-
-26/01/2026
+**First published:** 04/04/2025 **Last updated:** 26/01/2026
 
 [View](/lv/documents/product-information/avtozma-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (2.15 MB - PDF)
+lietuvių (LT) (2.15 MB - PDF)
 
-**First published:**
-
-04/04/2025
-
-**Last updated:**
-
-26/01/2026
+**First published:** 04/04/2025 **Last updated:** 26/01/2026
 
 [View](/lt/documents/product-information/avtozma-epar-product-information_lt.pdf)
 
 magyar (HU) (2.22 MB - PDF)
 
-**First published:**
-
-04/04/2025
-
-**Last updated:**
-
-26/01/2026
+**First published:** 04/04/2025 **Last updated:** 26/01/2026
 
 [View](/hu/documents/product-information/avtozma-epar-product-information_hu.pdf)
 
 Malti (MT) (2.26 MB - PDF)
 
-**First published:**
-
-04/04/2025
-
-**Last updated:**
-
-26/01/2026
+**First published:** 04/04/2025 **Last updated:** 26/01/2026
 
 [View](/mt/documents/product-information/avtozma-epar-product-information_mt.pdf)
 
 Nederlands (NL) (1.93 MB - PDF)
 
-**First published:**
-
-04/04/2025
-
-**Last updated:**
-
-26/01/2026
+**First published:** 04/04/2025 **Last updated:** 26/01/2026
 
 [View](/nl/documents/product-information/avtozma-epar-product-information_nl.pdf)
 
-norsk (NO) (1.77 MB - PDF)
-
-**First published:**
-
-04/04/2025
-
-**Last updated:**
-
-26/01/2026
-
-[View](/no/documents/product-information/avtozma-epar-product-information_no.pdf)
-
 polski (PL) (2.22 MB - PDF)
 
-**First published:**
-
-04/04/2025
-
-**Last updated:**
-
-26/01/2026
+**First published:** 04/04/2025 **Last updated:** 26/01/2026
 
 [View](/pl/documents/product-information/avtozma-epar-product-information_pl.pdf)
 
 português (PT) (1.77 MB - PDF)
 
-**First published:**
-
-04/04/2025
-
-**Last updated:**
-
-26/01/2026
+**First published:** 04/04/2025 **Last updated:** 26/01/2026
 
 [View](/pt/documents/product-information/avtozma-epar-product-information_pt.pdf)
 
 română (RO) (2.34 MB - PDF)
 
-**First published:**
-
-04/04/2025
-
-**Last updated:**
-
-26/01/2026
+**First published:** 04/04/2025 **Last updated:** 26/01/2026
 
 [View](/ro/documents/product-information/avtozma-epar-product-information_ro.pdf)
 
 slovenčina (SK) (2.12 MB - PDF)
 
-**First published:**
-
-04/04/2025
-
-**Last updated:**
-
-26/01/2026
+**First published:** 04/04/2025 **Last updated:** 26/01/2026
 
 [View](/sk/documents/product-information/avtozma-epar-product-information_sk.pdf)
 
-slovenščina (SL) (2.09 MB - PDF)
+slovenščina (SL) (2.24 MB - PDF)
 
-**First published:**
-
-04/04/2025
-
-**Last updated:**
-
-26/01/2026
+**First published:** 04/04/2025 **Last updated:** 17/03/2026
 
 [View](/sl/documents/product-information/avtozma-epar-product-information_sl.pdf)
 
-Suomi (FI) (1.92 MB - PDF)
+suomi (FI) (1.92 MB - PDF)
 
-**First published:**
-
-04/04/2025
-
-**Last updated:**
-
-26/01/2026
+**First published:** 04/04/2025 **Last updated:** 26/01/2026
 
 [View](/fi/documents/product-information/avtozma-epar-product-information_fi.pdf)
 
 svenska (SV) (2 MB - PDF)
 
-**First published:**
-
-04/04/2025
-
-**Last updated:**
-
-26/01/2026
+**First published:** 04/04/2025 **Last updated:** 26/01/2026
 
 [View](/sv/documents/product-information/avtozma-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000280589 11/12/2025
+Íslenska (IS) (1.9 MB - PDF)
+
+**First published:** 04/04/2025 **Last updated:** 26/01/2026
+
+[View](/is/documents/product-information/avtozma-epar-product-information_is.pdf)
+
+norsk (NO) (1.77 MB - PDF)
+
+**First published:** 04/04/2025 **Last updated:** 26/01/2026
+
+[View](/no/documents/product-information/avtozma-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** VR/0000280589
+
+11/12/2025
 
 icon globe
 
@@ -626,312 +525,180 @@ Avtozma : EPAR - All authorised presentations
 
 English (EN) (26.85 KB - PDF)
 
-**First published:** 04/04/2025
-
-**Last updated:** 24/09/2025
+**First published:** 04/04/2025 **Last updated:** 24/09/2025
 
 [View](/en/documents/all-authorised-presentations/avtozma-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-448)
+[Other languages (24)](#file-language-dropdown-780)
 
 български (BG) (56.81 KB - PDF)
 
-**First published:**
-
-04/04/2025
-
-**Last updated:**
-
-24/09/2025
+**First published:** 04/04/2025 **Last updated:** 24/09/2025
 
 [View](/bg/documents/all-authorised-presentations/avtozma-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (28.82 KB - PDF)
 
-**First published:**
-
-04/04/2025
-
-**Last updated:**
-
-24/09/2025
+**First published:** 04/04/2025 **Last updated:** 24/09/2025
 
 [View](/es/documents/all-authorised-presentations/avtozma-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (50.57 KB - PDF)
 
-**First published:**
-
-04/04/2025
-
-**Last updated:**
-
-24/09/2025
+**First published:** 04/04/2025 **Last updated:** 24/09/2025
 
 [View](/cs/documents/all-authorised-presentations/avtozma-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (29.48 KB - PDF)
 
-**First published:**
-
-04/04/2025
-
-**Last updated:**
-
-24/09/2025
+**First published:** 04/04/2025 **Last updated:** 24/09/2025
 
 [View](/da/documents/all-authorised-presentations/avtozma-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (21.08 KB - PDF)
 
-**First published:**
-
-04/04/2025
-
-**Last updated:**
-
-24/09/2025
+**First published:** 04/04/2025 **Last updated:** 24/09/2025
 
 [View](/de/documents/all-authorised-presentations/avtozma-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (24.9 KB - PDF)
+eesti (ET) (24.9 KB - PDF)
 
-**First published:**
-
-04/04/2025
-
-**Last updated:**
-
-24/09/2025
+**First published:** 04/04/2025 **Last updated:** 24/09/2025
 
 [View](/et/documents/all-authorised-presentations/avtozma-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (49.04 KB - PDF)
 
-**First published:**
-
-04/04/2025
-
-**Last updated:**
-
-24/09/2025
+**First published:** 04/04/2025 **Last updated:** 24/09/2025
 
 [View](/el/documents/all-authorised-presentations/avtozma-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (28.37 KB - PDF)
 
-**First published:**
-
-04/04/2025
-
-**Last updated:**
-
-24/09/2025
+**First published:** 04/04/2025 **Last updated:** 24/09/2025
 
 [View](/fr/documents/all-authorised-presentations/avtozma-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (44.65 KB - PDF)
 
-**First published:**
-
-04/04/2025
-
-**Last updated:**
-
-24/09/2025
+**First published:** 04/04/2025 **Last updated:** 24/09/2025
 
 [View](/hr/documents/all-authorised-presentations/avtozma-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (24.68 KB - PDF)
-
-**First published:**
-
-04/04/2025
-
-**Last updated:**
-
-24/09/2025
-
-[View](/is/documents/all-authorised-presentations/avtozma-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (28.51 KB - PDF)
 
-**First published:**
-
-04/04/2025
-
-**Last updated:**
-
-24/09/2025
+**First published:** 04/04/2025 **Last updated:** 24/09/2025
 
 [View](/it/documents/all-authorised-presentations/avtozma-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (52.98 KB - PDF)
+latviešu (LV) (52.98 KB - PDF)
 
-**First published:**
-
-04/04/2025
-
-**Last updated:**
-
-24/09/2025
+**First published:** 04/04/2025 **Last updated:** 24/09/2025
 
 [View](/lv/documents/all-authorised-presentations/avtozma-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (50.31 KB - PDF)
+lietuvių (LT) (50.31 KB - PDF)
 
-**First published:**
-
-04/04/2025
-
-**Last updated:**
-
-24/09/2025
+**First published:** 04/04/2025 **Last updated:** 24/09/2025
 
 [View](/lt/documents/all-authorised-presentations/avtozma-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (42.55 KB - PDF)
 
-**First published:**
-
-04/04/2025
-
-**Last updated:**
-
-24/09/2025
+**First published:** 04/04/2025 **Last updated:** 24/09/2025
 
 [View](/hu/documents/all-authorised-presentations/avtozma-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (51.45 KB - PDF)
 
-**First published:**
-
-04/04/2025
-
-**Last updated:**
-
-24/09/2025
+**First published:** 04/04/2025 **Last updated:** 24/09/2025
 
 [View](/mt/documents/all-authorised-presentations/avtozma-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (27.12 KB - PDF)
 
-**First published:**
-
-04/04/2025
-
-**Last updated:**
-
-24/09/2025
+**First published:** 04/04/2025 **Last updated:** 24/09/2025
 
 [View](/nl/documents/all-authorised-presentations/avtozma-epar-all-authorised-presentations_nl.pdf)
 
-norsk (NO) (21.44 KB - PDF)
-
-**First published:**
-
-04/04/2025
-
-**Last updated:**
-
-24/09/2025
-
-[View](/no/documents/all-authorised-presentations/avtozma-epar-all-authorised-presentations_no.pdf)
-
 polski (PL) (51.05 KB - PDF)
 
-**First published:**
-
-04/04/2025
-
-**Last updated:**
-
-24/09/2025
+**First published:** 04/04/2025 **Last updated:** 24/09/2025
 
 [View](/pl/documents/all-authorised-presentations/avtozma-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (24.06 KB - PDF)
 
-**First published:**
-
-04/04/2025
-
-**Last updated:**
-
-24/09/2025
+**First published:** 04/04/2025 **Last updated:** 24/09/2025
 
 [View](/pt/documents/all-authorised-presentations/avtozma-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (50.35 KB - PDF)
 
-**First published:**
-
-04/04/2025
-
-**Last updated:**
-
-24/09/2025
+**First published:** 04/04/2025 **Last updated:** 24/09/2025
 
 [View](/ro/documents/all-authorised-presentations/avtozma-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (46.75 KB - PDF)
 
-**First published:**
-
-04/04/2025
-
-**Last updated:**
-
-24/09/2025
+**First published:** 04/04/2025 **Last updated:** 24/09/2025
 
 [View](/sk/documents/all-authorised-presentations/avtozma-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (45.85 KB - PDF)
 
-**First published:**
-
-04/04/2025
-
-**Last updated:**
-
-24/09/2025
+**First published:** 04/04/2025 **Last updated:** 24/09/2025
 
 [View](/sl/documents/all-authorised-presentations/avtozma-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (29.6 KB - PDF)
+suomi (FI) (29.6 KB - PDF)
 
-**First published:**
-
-04/04/2025
-
-**Last updated:**
-
-24/09/2025
+**First published:** 04/04/2025 **Last updated:** 24/09/2025
 
 [View](/fi/documents/all-authorised-presentations/avtozma-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (25.38 KB - PDF)
 
-**First published:**
-
-04/04/2025
-
-**Last updated:**
-
-24/09/2025
+**First published:** 04/04/2025 **Last updated:** 24/09/2025
 
 [View](/sv/documents/all-authorised-presentations/avtozma-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (24.68 KB - PDF)
+
+**First published:** 04/04/2025 **Last updated:** 24/09/2025
+
+[View](/is/documents/all-authorised-presentations/avtozma-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (21.44 KB - PDF)
+
+**First published:** 04/04/2025 **Last updated:** 24/09/2025
+
+[View](/no/documents/all-authorised-presentations/avtozma-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine Avtozma Active substance tocilizumab International non-proprietary name (INN) or common name tocilizumab Therapeutic area (MeSH)
+Name of medicine
+
+Avtozma
+
+Active substance
+
+tocilizumab
+
+International non-proprietary name (INN) or common name
+
+tocilizumab
+
+Therapeutic area (MeSH)
 
 - Arthritis, Rheumatoid
 - Arthritis, Juvenile Rheumatoid
 - Cytokine Release Syndrome
 - COVID-19 virus infection
 
-Anatomical therapeutic chemical (ATC) code L04AC07
+Anatomical therapeutic chemical (ATC) code
+
+L04AC07
 
 ### Pharmacotherapeutic group
 
@@ -988,7 +755,9 @@ Avtozma is indicated for the treatment of Giant Cell Arteritis (GCA) in adult pa
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/006196
+EMA product number
+
+EMEA/H/C/006196
 
 Additional monitoring
 
@@ -1002,9 +771,19 @@ Marketing authorisation holder
 
 Celltrion Healthcare Hungary Kft.
 
-1062 Budapest
+1062 Budapest Váci út 1-3. WestEnd Office Building B torony Hungary
 
-Opinion adopted 12/12/2024 Marketing authorisation issued 14/02/2025 Revision 6
+Opinion adopted
+
+12/12/2024
+
+Marketing authorisation issued
+
+14/02/2025
+
+Revision
+
+6
 
 ## Assessment history
 
@@ -1012,25 +791,21 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Avtozma: EPAR - Procedural steps taken and scientific information after the authorisation
 
 English (EN) (164.15 KB - PDF)
 
-**First published:** 07/04/2025
-
-**Last updated:** 26/01/2026
+**First published:** 07/04/2025 **Last updated:** 26/01/2026
 
 [View](/en/documents/procedural-steps-after/avtozma-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Avtozma : EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/10943/2025
+Adopted Reference Number: EMA/10943/2025
 
 English (EN) (4.78 MB - PDF)
 
@@ -1040,9 +815,7 @@ English (EN) (4.78 MB - PDF)
 
 CHMP summary of positive opinion for Avtozma
 
-Adopted
-
-Reference Number: EMA/CHMP/546116/2024
+Adopted Reference Number: EMA/CHMP/546116/2024
 
 English (EN) (133.17 KB - PDF)
 
@@ -1050,11 +823,13 @@ English (EN) (133.17 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-avtozma_en.pdf)
 
-#### News on Avtozma
+## News on Avtozma
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 9-12 December 2024](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-9-12-december-2024) 13/12/2024
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 9-12 December 2024](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-9-12-december-2024)
 
-#### Product information - with tracked changes
+13/12/2024
+
+## Product information - with tracked changes
 
 The approved product information for this medicine is available below showing the changes since the previous procedure affecting the product information. The same document without tracked changes is above under 'Product information'.
 
@@ -1062,304 +837,162 @@ Avtozma : EPAR - Product information - tracked changes
 
 English (EN) (2.04 MB - DOCX)
 
-**First published:** 10/07/2025
-
-**Last updated:** 24/09/2025
+**First published:** 10/07/2025 **Last updated:** 24/09/2025
 
 [View](/en/documents/product-information-tracked-changes/avtozma-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-435)
+[Other languages (24)](#file-language-dropdown-98)
 
 български (BG) (1.65 MB - DOCX)
 
-**First published:**
-
-10/07/2025
-
-**Last updated:**
-
-24/09/2025
+**First published:** 10/07/2025 **Last updated:** 24/09/2025
 
 [View](/bg/documents/product-information-tracked-changes/avtozma-epar-product-information-tracked-changes_bg.docx)
 
 español (ES) (1.47 MB - DOCX)
 
-**First published:**
-
-10/07/2025
-
-**Last updated:**
-
-24/09/2025
+**First published:** 10/07/2025 **Last updated:** 24/09/2025
 
 [View](/es/documents/product-information-tracked-changes/avtozma-epar-product-information-tracked-changes_es.docx)
 
 čeština (CS) (1.61 MB - DOCX)
 
-**First published:**
-
-10/07/2025
-
-**Last updated:**
-
-24/09/2025
+**First published:** 10/07/2025 **Last updated:** 24/09/2025
 
 [View](/cs/documents/product-information-tracked-changes/avtozma-epar-product-information-tracked-changes_cs.docx)
 
 dansk (DA) (1.62 MB - DOCX)
 
-**First published:**
-
-10/07/2025
-
-**Last updated:**
-
-24/09/2025
+**First published:** 10/07/2025 **Last updated:** 24/09/2025
 
 [View](/da/documents/product-information-tracked-changes/avtozma-epar-product-information-tracked-changes_da.docx)
 
 Deutsch (DE) (1.57 MB - DOCX)
 
-**First published:**
-
-10/07/2025
-
-**Last updated:**
-
-24/09/2025
+**First published:** 10/07/2025 **Last updated:** 24/09/2025
 
 [View](/de/documents/product-information-tracked-changes/avtozma-epar-product-information-tracked-changes_de.docx)
 
-eesti keel (ET) (1.73 MB - DOCX)
+eesti (ET) (1.73 MB - DOCX)
 
-**First published:**
-
-10/07/2025
-
-**Last updated:**
-
-24/09/2025
+**First published:** 10/07/2025 **Last updated:** 24/09/2025
 
 [View](/et/documents/product-information-tracked-changes/avtozma-epar-product-information-tracked-changes_et.docx)
 
 ελληνικά (EL) (1.64 MB - DOCX)
 
-**First published:**
-
-10/07/2025
-
-**Last updated:**
-
-24/09/2025
+**First published:** 10/07/2025 **Last updated:** 24/09/2025
 
 [View](/el/documents/product-information-tracked-changes/avtozma-epar-product-information-tracked-changes_el.docx)
 
 français (FR) (1.61 MB - DOCX)
 
-**First published:**
-
-10/07/2025
-
-**Last updated:**
-
-24/09/2025
+**First published:** 10/07/2025 **Last updated:** 24/09/2025
 
 [View](/fr/documents/product-information-tracked-changes/avtozma-epar-product-information-tracked-changes_fr.docx)
 
 hrvatski (HR) (1.64 MB - DOCX)
 
-**First published:**
-
-10/07/2025
-
-**Last updated:**
-
-24/09/2025
+**First published:** 10/07/2025 **Last updated:** 24/09/2025
 
 [View](/hr/documents/product-information-tracked-changes/avtozma-epar-product-information-tracked-changes_hr.docx)
 
-íslenska (IS) (1.58 MB - DOCX)
-
-**First published:**
-
-10/07/2025
-
-**Last updated:**
-
-24/09/2025
-
-[View](/is/documents/product-information-tracked-changes/avtozma-epar-product-information-tracked-changes_is.docx)
-
 italiano (IT) (1.6 MB - DOCX)
 
-**First published:**
-
-10/07/2025
-
-**Last updated:**
-
-24/09/2025
+**First published:** 10/07/2025 **Last updated:** 24/09/2025
 
 [View](/it/documents/product-information-tracked-changes/avtozma-epar-product-information-tracked-changes_it.docx)
 
-latviešu valoda (LV) (1.76 MB - DOCX)
+latviešu (LV) (1.76 MB - DOCX)
 
-**First published:**
-
-10/07/2025
-
-**Last updated:**
-
-24/09/2025
+**First published:** 10/07/2025 **Last updated:** 24/09/2025
 
 [View](/lv/documents/product-information-tracked-changes/avtozma-epar-product-information-tracked-changes_lv.docx)
 
-lietuvių kalba (LT) (1.6 MB - DOCX)
+lietuvių (LT) (1.6 MB - DOCX)
 
-**First published:**
-
-10/07/2025
-
-**Last updated:**
-
-24/09/2025
+**First published:** 10/07/2025 **Last updated:** 24/09/2025
 
 [View](/lt/documents/product-information-tracked-changes/avtozma-epar-product-information-tracked-changes_lt.docx)
 
 magyar (HU) (1.62 MB - DOCX)
 
-**First published:**
-
-10/07/2025
-
-**Last updated:**
-
-24/09/2025
+**First published:** 10/07/2025 **Last updated:** 24/09/2025
 
 [View](/hu/documents/product-information-tracked-changes/avtozma-epar-product-information-tracked-changes_hu.docx)
 
 Malti (MT) (1.59 MB - DOCX)
 
-**First published:**
-
-10/07/2025
-
-**Last updated:**
-
-24/09/2025
+**First published:** 10/07/2025 **Last updated:** 24/09/2025
 
 [View](/mt/documents/product-information-tracked-changes/avtozma-epar-product-information-tracked-changes_mt.docx)
 
 Nederlands (NL) (1.59 MB - DOCX)
 
-**First published:**
-
-10/07/2025
-
-**Last updated:**
-
-24/09/2025
+**First published:** 10/07/2025 **Last updated:** 24/09/2025
 
 [View](/nl/documents/product-information-tracked-changes/avtozma-epar-product-information-tracked-changes_nl.docx)
 
-norsk (NO) (1.56 MB - DOCX)
-
-**First published:**
-
-10/07/2025
-
-**Last updated:**
-
-24/09/2025
-
-[View](/no/documents/product-information-tracked-changes/avtozma-epar-product-information-tracked-changes_no.docx)
-
 polski (PL) (1.61 MB - DOCX)
 
-**First published:**
-
-10/07/2025
-
-**Last updated:**
-
-24/09/2025
+**First published:** 10/07/2025 **Last updated:** 24/09/2025
 
 [View](/pl/documents/product-information-tracked-changes/avtozma-epar-product-information-tracked-changes_pl.docx)
 
 português (PT) (1.45 MB - DOCX)
 
-**First published:**
-
-10/07/2025
-
-**Last updated:**
-
-24/09/2025
+**First published:** 10/07/2025 **Last updated:** 24/09/2025
 
 [View](/pt/documents/product-information-tracked-changes/avtozma-epar-product-information-tracked-changes_pt.docx)
 
 română (RO) (1.61 MB - DOCX)
 
-**First published:**
-
-10/07/2025
-
-**Last updated:**
-
-24/09/2025
+**First published:** 10/07/2025 **Last updated:** 24/09/2025
 
 [View](/ro/documents/product-information-tracked-changes/avtozma-epar-product-information-tracked-changes_ro.docx)
 
 slovenčina (SK) (1.62 MB - DOCX)
 
-**First published:**
-
-10/07/2025
-
-**Last updated:**
-
-24/09/2025
+**First published:** 10/07/2025 **Last updated:** 24/09/2025
 
 [View](/sk/documents/product-information-tracked-changes/avtozma-epar-product-information-tracked-changes_sk.docx)
 
 slovenščina (SL) (1.57 MB - DOCX)
 
-**First published:**
-
-10/07/2025
-
-**Last updated:**
-
-24/09/2025
+**First published:** 10/07/2025 **Last updated:** 24/09/2025
 
 [View](/sl/documents/product-information-tracked-changes/avtozma-epar-product-information-tracked-changes_sl.docx)
 
-Suomi (FI) (1.6 MB - DOCX)
+suomi (FI) (1.6 MB - DOCX)
 
-**First published:**
-
-10/07/2025
-
-**Last updated:**
-
-24/09/2025
+**First published:** 10/07/2025 **Last updated:** 24/09/2025
 
 [View](/fi/documents/product-information-tracked-changes/avtozma-epar-product-information-tracked-changes_fi.docx)
 
 svenska (SV) (1.61 MB - DOCX)
 
-**First published:**
-
-10/07/2025
-
-**Last updated:**
-
-24/09/2025
+**First published:** 10/07/2025 **Last updated:** 24/09/2025
 
 [View](/sv/documents/product-information-tracked-changes/avtozma-epar-product-information-tracked-changes_sv.docx)
 
-**This page was last updated on** 26/01/2026
+Íslenska (IS) (1.58 MB - DOCX)
+
+**First published:** 10/07/2025 **Last updated:** 24/09/2025
+
+[View](/is/documents/product-information-tracked-changes/avtozma-epar-product-information-tracked-changes_is.docx)
+
+norsk (NO) (1.56 MB - DOCX)
+
+**First published:** 10/07/2025 **Last updated:** 24/09/2025
+
+[View](/no/documents/product-information-tracked-changes/avtozma-epar-product-information-tracked-changes_no.docx)
+
+## More information on Avtozma
+
+- [Avtozma - direct healthcare professional communication (DHPC)](/en/medicines/dhpc/avtozma)
+
+**This page was last updated on**
+
+09/06/2026
 
 ## Share this page
-
-[Back to top](#main-content)

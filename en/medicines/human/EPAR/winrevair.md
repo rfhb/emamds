@@ -1,21 +1,97 @@
 ---
-document_datetime: 2026-04-01 14:26:00
+document_datetime: 2026-06-09 17:12:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/winrevair.html
 document_name: winrevair.html
 version: success
-processing_time: 0.0718279
-conversion_datetime: 2026-04-05 12:34:43.7349
+processing_time: 0.135295
+conversion_datetime: 2026-06-10 13:33:35.570864
 docling_version:
-  docling-serve: 1.15.1
-  docling-jobkit: 1.14.0
-  docling: 2.82.0
-  docling-core: 2.70.2
-  docling-ibm-models: 3.13.0
-  docling-parse: 5.6.1
+  docling-serve: 1.22.0
+  docling-jobkit: 1.21.0
+  docling: 2.100.0
+  docling-core: 2.80.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 6.2.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
 ---
+# Search
+
+- [Medicines](/en/medicines)
+    - [Find medicine](/en/medicines)
+    - [Therapeutic areas: latest updates](/en/medicines/therapeutic-areas-latest-updates)
+    - [Download medicine data](/en/medicines/download-medicine-data)
+    - [What we publish on medicines and when](/en/medicines/what-we-publish-medicines-when)
+    - [Medicines under evaluation](/en/medicines/medicines-human-use-under-evaluation)
+    - [National registers](/en/medicines/national-registers-authorised-medicines)
+- [Human regulatory](/en/human-regulatory-overview)
+    - [Overview](/en/human-regulatory-overview)
+    - [Research and development](/en/human-regulatory-overview/research-development)
+    - [Marketing authorisation](/en/human-regulatory-overview/marketing-authorisation)
+    - [Post-authorisation](/en/human-regulatory-overview/post-authorisation)
+    - [Medical devices](/en/human-regulatory-overview/medical-devices)
+    - [Herbal products](/en/human-regulatory-overview/herbal-medicinal-products)
+- [Veterinary regulatory](/en/veterinary-regulatory-overview)
+    - [Overview](/en/veterinary-regulatory-overview)
+    - [Research and development](/en/veterinary-regulatory-overview/research-development-veterinary-medicines)
+    - [Marketing authorisation](/en/veterinary-regulatory-overview/marketing-authorisation-veterinary-medicines)
+    - [Post-authorisation](/en/veterinary-regulatory-overview/post-authorisation-veterinary-medicines)
+- [Committees](/en/committees)
+    - [Overview](/en/committees)
+    - [How the committees work](/en/committees/how-committees-work)
+    - [CHMP](/en/committees/committee-medicinal-products-human-use-chmp)
+    - [CVMP](/en/committees/committee-veterinary-medicinal-products-cvmp)
+    - [PRAC](/en/committees/pharmacovigilance-risk-assessment-committee-prac)
+    - [COMP](/en/committees/committee-orphan-medicinal-products-comp)
+    - [HMPC](/en/committees/committee-herbal-medicinal-products-hmpc)
+    - [CAT](/en/committees/committee-advanced-therapies-cat)
+    - [PDCO](/en/committees/paediatric-committee-pdco)
+    - [Working parties and other groups](/en/committees/working-parties-other-groups)
+- [News &amp; events](/en/news-events)
+    - [Overview](/en/news-events)
+    - [News](/en/news)
+    - [Events](/en/events/upcoming-events)
+    - [What's new](/en/news-events/whats-new)
+    - [Committee highlights](/en/news-events/committee-highlights)
+    - [Publications](/en/news-and-events/publications)
+    - [Press and social media](/en/news-events/press-social-media)
+    - [Podcast: Inside EMA](/en/news-events/podcast-inside-ema)
+    - [EMA Campaigns](/en/news-events/ema-campaigns)
+    - [Open consultations](/en/news-events/open-consultations)
+    - [RSS feeds](/en/news-events/rss-feeds)
+- [Partners &amp; networks](/en/partners-networks)
+    - [Overview](/en/partners-networks)
+    - [EU partners](/en/partners-networks/eu-partners)
+    - [International activities](/en/partners-networks/international-activities)
+    - [Patients and consumers](/en/partners-networks/patients-consumers)
+    - [Healthcare professionals](/en/partners-networks/healthcare-professionals)
+    - [Academia](/en/partners-networks/academia)
+    - [Pharmaceutical industry](/en/partners-networks/pharmaceutical-industry)
+    - [Networks](/en/partners-networks/networks)
+    - [Health technology assessment bodies](/en/partners-networks/health-technology-assessment-bodies)
+    - [One Health approach](/en/partners-networks/one-health-approach)
+    - [Animal health practitioners](/en/partners-networks/animal-health-practitioners)
+    - [One substance - one assessment](/en/partners-networks/one-substance-one-assessment-osoa-eu-collaboration-chemicals-related-data)
+- [About us](/en/about-us)
+    - [Overview](/en/about-us)
+    - [What we do](/en/about-us/what-we-do)
+    - [Who we are](/en/about-us/who-we-are)
+    - [How we work](/en/about-us/how-we-work)
+    - [Fees](/en/about-us/fees-payable-european-medicines-agency)
+    - [Support to SMEs](/en/about-us/support-smes)
+    - [Annual reports and work programmes](/en/about-us/annual-reports-work-programmes)
+    - [History of EMA](/en/about-us/history-ema)
+    - [Careers](/en/about-us/careers)
+    - [Procurement](/en/about-us/procurement-grants)
+    - [About this website](/en/about-us/about-website)
+    - [Data protection and privacy](/en/about-us/data-protection-privacy-ema)
+    - [Contacts](/en/about-us/contacts-european-medicines-agency)
+
+1. [Home](/en/homepage)
+2. [Medicines](https://www.ema.europa.eu/en/medicines)
+3. Winrevair
+
 # Winrevair
 
 [RSS](/en/individual-human-medicine.xml/244587)
@@ -58,7 +134,7 @@ Expand section
 
 Collapse section
 
-## How is Winrevair used?
+### How is Winrevair used?
 
 Treatment with Winrevair should be started and supervised by a doctor experienced in the diagnosis and treatment of PAH. The medicine can only be obtained with a prescription.
 
@@ -68,11 +144,11 @@ Because Winrevair can increase the level of haemoglobin (the protein in red bloo
 
 For more information about using Winrevair, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Winrevair work?
+### How does Winrevair work?
 
 The active substance in Winrevair, sotatercept, attaches to and blocks a protein called activin. By doing so, it prevents the thickening and narrowing of small blood vessels in the lungs, thereby lowering blood pressure and making it easier for the heart to pump blood.
 
-## What benefits of Winrevair have been shown in studies?
+### What benefits of Winrevair have been shown in studies?
 
 A first main study showed that Winrevair was more effective than placebo (a dummy treatment) at improving the ability of adults with class II and III PAH to exercise. The main measure of effectiveness was the difference in the distance patients could walk in 6 minutes before and after treatment.
 
@@ -80,7 +156,7 @@ In this study, involving 323 people with class II and III PAH, after 24 weeks of
 
 A second main study in 172 people with class III and IV PAH showed that, when Winrevair was given with other PAH medicines, around 17% of people had a poor outcome, compared with around 55% of those given placebo with other PAH medicines. Poor outcomes included being admitted to hospital for more than 24 hours, lung transplantation or death.
 
-## What are the risks associated with Winrevair?
+### What are the risks associated with Winrevair?
 
 For the full list of side effects and restrictions with Winrevair, see the package leaflet.
 
@@ -90,7 +166,7 @@ Some side effects can be serious. The most frequent serious side effects with Wi
 
 Winrevair must not be given to patients whose platelet levels are consistently low (less than 50 x 109/L) as it may increase the risk of bleeding. Winrevair should also not be used during pregnancy as it may harm the unborn baby.
 
-## Why is Winrevair authorised in the EU?
+### Why is Winrevair authorised in the EU?
 
 At the time of authorisation, existing treatments for PAH often did not control the disease well enough and people with PAH still had a shorter life expectancy, highlighting a need for additional treatments.
 
@@ -100,13 +176,13 @@ Regarding safety, the side effects of Winrevair were considered manageable. Ther
 
 The European Medicines Agency therefore decided that Winrevair's benefits are greater than its risks and it can be authorised for use in the EU.
 
-## What measures are being taken to ensure the safe and effective use of Winrevair?
+### What measures are being taken to ensure the safe and effective use of Winrevair?
 
 Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Winrevair have been included in the summary of product characteristics and the package leaflet.
 
 As for all medicines, data on the use of Winrevair are continuously monitored. Suspected side effects reported with Winrevair are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Winrevair
+### Other information about Winrevair
 
 Winrevair received a marketing authorisation valid throughout the EU on 22 August 2024.
 
@@ -138,7 +214,7 @@ English (EN) (3.08 MB - PDF)
 
 [View](/en/documents/product-information/winrevair-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-924)
+[Other languages (24)](#file-language-dropdown-220)
 
 български (BG) (4.87 MB - PDF)
 
@@ -170,7 +246,7 @@ Deutsch (DE) (4.1 MB - PDF)
 
 [View](/de/documents/product-information/winrevair-epar-product-information_de.pdf)
 
-eesti keel (ET) (3.18 MB - PDF)
+eesti (ET) (3.18 MB - PDF)
 
 **First published:** 25/09/2024 **Last updated:** 01/04/2026
 
@@ -194,25 +270,19 @@ hrvatski (HR) (3.77 MB - PDF)
 
 [View](/hr/documents/product-information/winrevair-epar-product-information_hr.pdf)
 
-íslenska (IS) (3.13 MB - PDF)
-
-**First published:** 25/09/2024 **Last updated:** 01/04/2026
-
-[View](/is/documents/product-information/winrevair-epar-product-information_is.pdf)
-
 italiano (IT) (3.44 MB - PDF)
 
 **First published:** 25/09/2024 **Last updated:** 01/04/2026
 
 [View](/it/documents/product-information/winrevair-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (5.15 MB - PDF)
+latviešu (LV) (5.15 MB - PDF)
 
 **First published:** 25/09/2024 **Last updated:** 01/04/2026
 
 [View](/lv/documents/product-information/winrevair-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (3.79 MB - PDF)
+lietuvių (LT) (3.79 MB - PDF)
 
 **First published:** 25/09/2024 **Last updated:** 01/04/2026
 
@@ -235,12 +305,6 @@ Nederlands (NL) (4.2 MB - PDF)
 **First published:** 25/09/2024 **Last updated:** 01/04/2026
 
 [View](/nl/documents/product-information/winrevair-epar-product-information_nl.pdf)
-
-norsk (NO) (3.02 MB - PDF)
-
-**First published:** 25/09/2024 **Last updated:** 01/04/2026
-
-[View](/no/documents/product-information/winrevair-epar-product-information_no.pdf)
 
 polski (PL) (5.35 MB - PDF)
 
@@ -272,7 +336,7 @@ slovenščina (SL) (4.07 MB - PDF)
 
 [View](/sl/documents/product-information/winrevair-epar-product-information_sl.pdf)
 
-Suomi (FI) (3.46 MB - PDF)
+suomi (FI) (3.46 MB - PDF)
 
 **First published:** 25/09/2024 **Last updated:** 01/04/2026
 
@@ -283,6 +347,18 @@ svenska (SV) (3.25 MB - PDF)
 **First published:** 25/09/2024 **Last updated:** 01/04/2026
 
 [View](/sv/documents/product-information/winrevair-epar-product-information_sv.pdf)
+
+Íslenska (IS) (3.13 MB - PDF)
+
+**First published:** 25/09/2024 **Last updated:** 01/04/2026
+
+[View](/is/documents/product-information/winrevair-epar-product-information_is.pdf)
+
+norsk (NO) (3.02 MB - PDF)
+
+**First published:** 25/09/2024 **Last updated:** 01/04/2026
+
+[View](/no/documents/product-information/winrevair-epar-product-information_no.pdf)
 
 **Latest procedure affecting product information:** VR/0000335114
 
@@ -310,7 +386,7 @@ English (EN) (22.81 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/winrevair-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-21)
+[Other languages (24)](#file-language-dropdown-809)
 
 български (BG) (25.24 KB - PDF)
 
@@ -342,7 +418,7 @@ Deutsch (DE) (20.91 KB - PDF)
 
 [View](/de/documents/all-authorised-presentations/winrevair-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (22.95 KB - PDF)
+eesti (ET) (22.95 KB - PDF)
 
 **First published:** 25/09/2024
 
@@ -366,25 +442,19 @@ hrvatski (HR) (27.22 KB - PDF)
 
 [View](/hr/documents/all-authorised-presentations/winrevair-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (18.8 KB - PDF)
-
-**First published:** 25/09/2024
-
-[View](/is/documents/all-authorised-presentations/winrevair-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (17.88 KB - PDF)
 
 **First published:** 25/09/2024
 
 [View](/it/documents/all-authorised-presentations/winrevair-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (28.7 KB - PDF)
+latviešu (LV) (28.7 KB - PDF)
 
 **First published:** 25/09/2024
 
 [View](/lv/documents/all-authorised-presentations/winrevair-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (25.39 KB - PDF)
+lietuvių (LT) (25.39 KB - PDF)
 
 **First published:** 25/09/2024
 
@@ -407,12 +477,6 @@ Nederlands (NL) (22.99 KB - PDF)
 **First published:** 25/09/2024
 
 [View](/nl/documents/all-authorised-presentations/winrevair-epar-all-authorised-presentations_nl.pdf)
-
-norsk (NO) (17.89 KB - PDF)
-
-**First published:** 25/09/2024
-
-[View](/no/documents/all-authorised-presentations/winrevair-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (27.41 KB - PDF)
 
@@ -444,7 +508,7 @@ slovenščina (SL) (25.58 KB - PDF)
 
 [View](/sl/documents/all-authorised-presentations/winrevair-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (23.61 KB - PDF)
+suomi (FI) (23.61 KB - PDF)
 
 **First published:** 25/09/2024
 
@@ -455,6 +519,18 @@ svenska (SV) (18.15 KB - PDF)
 **First published:** 25/09/2024
 
 [View](/sv/documents/all-authorised-presentations/winrevair-epar-all-authorised-presentations_sv.pdf)
+
+Íslenska (IS) (18.8 KB - PDF)
+
+**First published:** 25/09/2024
+
+[View](/is/documents/all-authorised-presentations/winrevair-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (17.89 KB - PDF)
+
+**First published:** 25/09/2024
+
+[View](/no/documents/all-authorised-presentations/winrevair-epar-all-authorised-presentations_no.pdf)
 
 ## Product details
 
@@ -508,7 +584,7 @@ Marketing authorisation holder
 
 Merck Sharp &amp; Dohme B.V.
 
-Waarderweg 39
+Waarderweg 39 2031 BN Haarlem The Netherlands
 
 Opinion adopted
 
@@ -520,7 +596,7 @@ Marketing authorisation issued
 
 Revision
 
-3
+4
 
 ## Assessment history
 
@@ -528,7 +604,15 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
+
+Winrevair : EPAR - Procedural steps taken and scientific information after the authorisation (archive)
+
+English (EN) (146.39 KB - PDF)
+
+**First published:** 09/06/2026
+
+[View](/en/documents/procedural-steps-after/winrevair-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 Winrevair : EPAR - Procedural steps taken and scientific information after the authorisation
 
@@ -558,7 +642,7 @@ English (EN) (139.05 KB - PDF)
 
 [View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-winrevair-ema-vr-0000278021_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Winrevair : Orphan maintenance assessment report - Initial authorisation
 
@@ -610,6 +694,6 @@ English (EN) (156.35 KB - PDF)
 
 **This page was last updated on**
 
-01/04/2026
+09/06/2026
 
 ## Share this page

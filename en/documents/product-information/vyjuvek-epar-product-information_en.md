@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-07-28 16:15:26
+document_datetime: 2026-06-08 10:27:07
 document_pages: 39
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/vyjuvek-epar-product-information_en.pdf
 document_name: vyjuvek-epar-product-information_en.pdf
 version: success
-processing_time: 10.4128615
-conversion_datetime: 2025-12-20 09:31:28.493886
+processing_time: 28.3919508
+conversion_datetime: 2026-06-10 13:45:34.733196
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.22.0
+  docling-jobkit: 1.21.0
+  docling: 2.100.0
+  docling-core: 2.80.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 6.2.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -197,7 +197,7 @@ Vyjuvek has no or negligible influence on the ability to drive or use machines.
 
 ## Summary of the safety profile
 
-Eighteen patients (58%) in the clinical trial reported at least one adverse reaction. The most commonly reported adverse reactions were chills (9.7%) and pruritus (9.7%)..
+Eighteen patients (58%) in the clinical trial reported at least one adverse reaction. The most commonly reported adverse reactions were chills (9.7%) and pruritus (9.7%).
 
 No adverse reactions led to discontinuation.
 
@@ -314,19 +314,19 @@ In the absence of compatibility studies, this medicinal product must not be mixe
 
 ## Unopened cartons
 
-2 years when stored in the freezer.
+3 years when stored in the freezer.
 
 ## After thawing
 
-If a freezer is not available, the carton(s) may be stored in a refrigerator (2°C to 8°C) for up to 1 month.
+If a freezer is not available, the carton(s) may be stored in a refrigerator (2 °C to 8 °C) for up to 3 months.
 
 Once stored in the refrigerator, the medicinal product should not be re-frozen.
 
 ## After mixing
 
-Chemical and physical in-use stability has been demonstrated for 168 hours (7 days) at 2-8°C.
+Chemical and physical in-use stability has been demonstrated for 168 hours (7 days) at 2-8 °C or up to 42 days in the freezer at -15 °C to -25 °C.
 
-From a microbiological point of view, the product should be used immediately. If not used immediately, in-use storage times and conditions prior to use are the responsibility of the user and would normally not be longer than 24 hours at 2 to 8 ° C, unless mixing has taken place in controlled and validated aseptic conditions.
+From a microbiological point of view, the product should be used immediately. If not used immediately, in-use storage times and conditions prior to use are the responsibility of the user and would normally not be longer than 24 hours at 2 to 8 °C, unless mixing has taken place in controlled and validated aseptic conditions.
 
 Syringes can be stored at room temperature for up to 8 hours.
 
@@ -334,13 +334,13 @@ Syringes can be stored at room temperature for up to 8 hours.
 
 ## Transport conditions for mixed product
 
-Transport mixed product at 2-8°C to site of administration.
+Transport mixed product at 2-8 °C to site of administration.
 
 ## 6.4 Special precautions for storage
 
 ## Unopened cartons
 
-Store frozen at -15°C to -25°C. Transport frozen (&lt; -20°C).
+Store frozen at -15 °C to -25 °C. Transport frozen (&lt; -20 °C).
 
 Keep the vials in the carton prior to thawing in order to protect from light.
 
@@ -356,13 +356,13 @@ Each carton of Vyjuvek contains one vial of suspension and one vial of gel.
 
 1 mL extractable volume containing 5×10 9 PFU in a cyclo-olefin copolymer vial with a thermoplastic elastomer closure and green cap.
 
-## Gel
+Gel
 
 1.5 mL fill volume in a separate Type-1 glass vial with a bromobutyl elastomer stopper and blue cap.
 
 ## 6.6 Special precautions for disposal and other handling
 
-## Precautions to be taken before handling or administering the medicinal product
+Precautions to be taken before handling or administering the medicinal product
 
 This medicine contains genetically modified organisms (see section 4.4). During preparation, administration, and disposal, appropriate precautions must be taken. Personal protective equipment (e.g., gloves, mask, and eye protection) should be worn when handling Vyjuvek.
 
@@ -382,10 +382,10 @@ Table 5.  Preparation steps prior to administration
 
 <!-- image -->
 
-| Before use, frozen vials must be removed from the carton and left at room temperature. ( Step 1 ). Once the vials are thawed (for approximately 30 minutes), they cannot be re-frozen. ( Step 2 ) Visually inspect the suspension vial. The suspension may contain white to off-white particulates that are inherent to the product. The suspension may vary in colour from opalescent yellow to colourless. Do not use this medication if you notice any discolouration. Visually inspect the gel vial. The gel is a clear, colourless, viscous gel. Do not use the gel if you notice any particulates or discolouration. Gently invert the suspension vial 4-5   | Step 1   | Step 2                                             |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|----------------------------------------------------|
-| times to mix the contents. Remove the caps from the vials and clean each vial stopper with an alcohol pad. Allow them to dry.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |          | vial (left) Vyjuvek suspension vial (right) Step 2 |
-| Using an aseptic technique, withdraw 1 mL of thawed suspension ( Step 1 ) using a 3 mL syringe and needle (e.g., 16G or 18G). Transfer 1 mL of thawed suspension into the thawed gel vial. ( Step 2 ).                                                                                                                                                                                                                                                                                                                                                                                                                                                             | Step 1   |                                                    |
+| Before use, vials must be removed from the carton and left at room                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | Step 1   | Step 2                                      |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|---------------------------------------------|
+| temperature. ( Step 1 ). Once the vials are thawed (for approximately 30 minutes), they cannot be re-frozen. ( Step 2 ) Visually inspect the suspension vial. The suspension may contain white to off-white particulates that are inherent to the product. The suspension may vary in colour from opalescent yellow to colourless. Do not use this medication if you notice any discolouration. Visually inspect the gel vial. The gel is a clear, colourless, viscous gel. Do not use the gel if you notice any particulates or discolouration. Gently invert the suspension vial 4-5 times to mix the contents. Remove the caps from the vials and clean each vial stopper with an alcohol pad. Allow them to dry. |          | vial (left) Vyjuvek suspension vial (right) |
+| Using an aseptic technique, withdraw 1 mL of thawed suspension ( Step 1 ) using a 3 mL syringe and needle (e.g., 16G or 18G). Transfer 1 mL of thawed suspension into the thawed gel vial. ( Step 2 ).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | Step 1   | Step 2                                      |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -413,19 +413,12 @@ Vyjuvek vial
 
 <div style=\"page-break-after: always\"></div>
 
-Obtain the next 1 mL syringe and connect it to the needle in the gel vial stopper and withdraw 0.5 mL of Vyjuvek, remove the air pocket and cap the syringe. Extractable volume is 2.0 mL (4×10 9 PFU).
+<!-- image -->
 
-Repeat as applicable based on the recommended posology.
+| Obtain the next 1 mL syringe and connect it to the needle in the gel vial stopper and withdraw 0.5 mL of Vyjuvek, remove the air pocket and cap the syringe. Extractable volume is 2.0 mL (4×10 9 PFU). Repeat as applicable based on the recommended posology. Label the syringe with patient's ID, name of the product, lot number, EXP date, and storage conditions. Avoid covering the syringe marks needed for administration. Place the capped Vyjuvek syringes into a sealable plastic bag. Label the plastic bag with patient's ID, name of the product, lot number, EXP date, and storage conditions. No more than 2 mL (four 0.5 mL syringes) can be used in the same week as this is the maximum weekly dose.   |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
-Label the syringe with patient's ID, name of the product, lot number, EXP date, and storage conditions. Avoid covering the syringe marks needed for administration.
-
-Place the capped Vyjuvek syringes into a sealable plastic bag  .
-
-Label the plastic bag with patient's ID, name of the product, lot number, EXP date, and storage conditions.
-
-No more than 2 mL (four 0.5 mL syringes) can be used in the same week as this is the maximum weekly dose.
-
-Place a sealable plastic bag with Vyjuvek syringes into an appropriate insulated tertiary container ('outer container') to maintain a transport temperature of 2°C to 8°C suitable for transport and in order to protect from light.
+Place a sealable plastic bag with Vyjuvek syringes into an appropriate insulated tertiary container ('outer container') to maintain a transport temperature of 2 °C to 8 °C suitable for transport and in order to protect from light.
 
 The outer container needs to be fully closed for transportation.
 
@@ -446,8 +439,6 @@ In case of accidental exposure local guidance for pharmaceutical waste must be f
 All surfaces that may have come in contact with beremagene geperpavec must be cleaned and all spills must be disinfected with a virucidal agent such as 70% isopropyl alcohol, 6% hydrogen peroxide or &lt; 0.4% ammonium chloride.
 
 In the event of an accidental exposure through a splash to the eyes or mucous membranes, flush with clean water for at least 5 minutes.
-
-<!-- image -->
 
 <div style=\"page-break-after: always\"></div>
 
@@ -473,7 +464,7 @@ Date of first authorisation: 23 April 2025
 
 ## 10 DATE OF REVISION OF THE TEXT
 
-Month YYYY
+## Month YYYY
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu
 
@@ -523,11 +514,9 @@ An updated RMP should be submitted:
 
 ## · Additional risk minimisation measures
 
-Prior to the launch of Vyjuvek in each Member State the Marketing Authorisation Holder (MAH) must agree about the content and format of the educational programme, including communication
+Prior to the launch of Vyjuvek in each Member State the Marketing Authorisation Holder (MAH) must agree about the content and format of the educational programme, including communication media, distribution modalities, and any other aspects of the programme, with the National Competent Authority.
 
 <div style=\"page-break-after: always\"></div>
-
-media, distribution modalities, and any other aspects of the programme, with the National Competent Authority.
 
 The MAH shall ensure that in each Member State where Vyjuvek is marketed, all HCPs (pharmacists, prescribing physicians, and/or nurses) and patients/carers who are expected to prescribe, use, or oversee the administration of Vyjuvek have access to/are provided with the following educational packages aimed at highlighting the important potential risks of Vyjuvek. These packages will be translated into the local language to ensure understanding of proposed mitigation measures by all users.
 
@@ -679,11 +668,11 @@ EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-Store frozen at -15°C to -25°C.
+Store frozen at -15 °C to -25 °C.
 
-Keep the vials in the outer carton prior to thawing in order to protect from light.
+Keep the vials in the outer carton prior to mixing in order to protect from light.
 
-Shelf life after thawing: 1 month refrigerated (2°C to 8°C). Date of thawing \\_\\_/\\_\\_/\\_\\_.
+Shelf life after thawing: 3 months refrigerated (2 °C to 8 °C). Date of thawing \\_\\_/\\_\\_/\\_\\_.
 
 Once thawed, do not refreeze.
 
@@ -838,11 +827,9 @@ Vyjuvek has been modified to make the virus contain working copies of the faulty
 
 ## Warnings and precautions
 
-Talk to your doctor or nurse before you administer or you are administered Vyjuvek if you have a type of skin cancer called squamous cell carcinoma. Vyjuvek should not be applied to wounds with a
+Talk to your doctor or nurse before you administer or you are administered Vyjuvek if you have a type of skin cancer called squamous cell carcinoma. Vyjuvek should not be applied to wounds with a confirmed or suspected diagnosis of squamous cell carcinoma. In people who develop squamous cell carcinoma, Vyjuvek may still be applied to wounds on skin that has no confirmed or suspected squamous cell carcinoma.
 
 <div style=\"page-break-after: always\"></div>
-
-confirmed or suspected diagnosis of squamous cell carcinoma. In people who develop squamous cell carcinoma, Vyjuvek may still be applied to wounds on skin that has no confirmed or suspected squamous cell carcinoma.
 
 ## Accidental contact with Vyjuvek
 
@@ -895,8 +882,6 @@ The maximum recommended weekly dose of Vyjuvek for adults and children aged 3 ye
 | 20 to < 40            | 0.2 to < 0.4  |
 | 40 to 60              | 0.4 to < 0.6  |
 | 60 to < 200           | 0.6 to < 2    |
-
-PFU=plaque forming units
 
 *Vyjuvek should be applied to the selected wound, in small droplets approximately 1-cm by 1-cm apart (width of a fingertip).
 
@@ -1022,13 +1007,13 @@ Keep this medicine out of the sight and reach of children.
 
 Your pharmacist is responsible for the adequate storage of the medicine. The following information is provided for your pharmacist.
 
-## Store frozen at -15°C to -25°C.
+## Store frozen at -15 °C to -25 °C.
 
 Keep the vials in the carton prior to thawing in order to protect from light.
 
-After thawing the carton(s)  may be stored in a refrigerator (2°C to 8°C) for up to 1 month.
+After thawing the carton(s) may be stored in a refrigerator (2 °C to 8 °C) for up to 3 months.
 
-After mixing chemical and physical in-use stability has been demonstrated for 168 hours (7 days) at 2 to 8°C. From a microbiological point of view, the product should be used immediately. If not used immediately, in-use storage times and conditions prior to use are the responsibility of the user and would normally not be longer than 24 hours at 2 to 8°C, unless mixing has taken place in controlled and validated aseptic conditions.
+After mixing chemical and physical in-use stability has been demonstrated for 168 hours (7 days) at 2 to 8 °C or up to 42 days at -15 °C to -25 °C. From a microbiological point of view, the product should be used immediately. If not used immediately, in-use storage times and conditions prior to use are the responsibility of the user and would normally not be longer than 24 hours at 2 to 8 °C, unless mixing has taken place in controlled and validated aseptic conditions.
 
 The syringes may be left at room temperature for up to 8 hours.
 
@@ -1107,10 +1092,10 @@ Table 1.  Preparation prior to administration
 
 <!-- image -->
 
-| Before use, frozen vials must be removed from the carton and left at                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | Step 1                    | Step 2                               |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|--------------------------------------|
-| room temperature. ( Step 1 ). Once the vials are thawed (for approximately 30 minutes), they cannot be re-frozen. ( Step 2 ) Visually inspect the suspension vial. The suspension may contain white to off-white particulates that are inherent to the product. The suspension may vary in colour from opalescent yellow to colourless. Do not use this medication if you notice any particulates or discolouration. Visually inspect the gel vial. The gel is a clear, colourless, viscous gel. Do not use the gel if you notice any particulates or discolouration. Gently invert the suspension vial 4-5 times to mix the contents. Remove the caps from the vials and clean each vial stopper with an alcohol pad. Allow them to dry. |                           | vial Vyjuvek suspension vial (right) |
-| Using an aseptic technique, withdraw 1 mL of thawed suspension ( Step 1 ) using a 3 mL syringe and needle (e.g., 16G or 18G). Transfer 1 mL of thawed suspension into the thawed gel vial ( Step 2 ).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Step 1 Vyjuvek suspension | Step 2 Gel vial                      |
+| Before use, vials must be removed                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Step 1                    | Step 2                               |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|--------------------------------------|
+| from the carton and left at room temperature. ( Step 1 ). Once the vials are thawed (for approximately 30 minutes), they cannot be re-frozen. ( Step 2 ) Visually inspect the suspension vial. The suspension may contain white to off-white particulates that are inherent to the product. The suspension may vary in colour from opalescent yellow to colourless. Do not use this medication if you notice any particulates or discolouration. Visually inspect the gel vial. The gel is a clear, colourless, viscous gel. Do not use the gel if you notice any particulates or discolouration. Gently invert the suspension vial 4-5 times to mix the contents. Remove the caps from the vials and clean each vial stopper with an | Gel                       | vial Vyjuvek suspension vial (right) |
+| Using an aseptic technique, withdraw 1 mL of thawed suspension ( Step 1 ) using a 3 mL syringe and needle (e.g., 16G or 18G). Transfer 1 mL of thawed suspension into the thawed gel vial ( Step 2 ).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Step 1 Vyjuvek suspension | Step 2 Gel vial                      |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1138,14 +1123,14 @@ Vyjuvek vial
 
 <!-- image -->
 
-| Obtain the next 1 mL syringe and connect it to the needle in the gel vial stopper and withdraw 0.5 mL of Vyjuvek, remove the air pocket and cap the syringe. Extractable volume is 2.0mL (4×10 9 PFU). Repeat as applicable based on the recommended posology. Label the syringe with patient's ID, name of the product, lot number, EXP date, and storage conditions. Avoid covering the syringe marks needed for administration. Place the capped Vyjuvek syringes into a sealable plastic bag . Label the plastic bag with patient's ID, name of the product, Lot number, EXP date, and storage conditions. No more than 2 mL (four 0.5 mL syringes) can be used in the same week as this is the maximum weekly dose.   |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Obtain the next 1 mL syringe and connect it to the needle in the gel vial stopper and withdraw 0.5 mL of Vyjuvek, remove the air pocket and cap the syringe. Extractable volume is 2.0mL (4×10 9 PFU). Repeat as applicable based on the recommended posology. Label the syringe with patient's ID, name of the product, lot number, EXP date, and storage conditions. Avoid covering the syringe marks needed for administration. Place the capped Vyjuvek syringes into a sealable plastic bag. Label the plastic bag with patient's ID, name of the product, Lot number, EXP date, and storage conditions. No more than 2 mL (four 0.5 mL syringes) can be used in the same week as this is the maximum weekly dose.   |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
-Place a sealable plastic bag with Vyjuvek syringes into an appropriate insulated tertiary container ('outer container') to maintain a transport temperature of 2°C to 8°C suitable for transport and in order to protect from light.
+Place a sealable plastic bag with Vyjuvek syringes into an appropriate insulated tertiary container ('outer container') to maintain a transport temperature of 2 °C to 8 °C suitable for transport and in order to protect from light.
 
 The outer container needs to be fully closed for transportation.
 
-Open the outer container designed for transportation of prepared  Vyjuvek syringes only at the site of administration.
+Open the outer container designed for transportation of prepared Vyjuvek syringes only at the site of administration.
 
 ## Measures to take in case of accidental exposure
 

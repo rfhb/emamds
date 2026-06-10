@@ -1,32 +1,108 @@
 ---
-document_datetime: 2025-12-29 08:07:19
+document_datetime: 2026-06-08 16:44:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/vyjuvek.html
 document_name: vyjuvek.html
 version: success
-processing_time: 0.108533
-conversion_datetime: 2025-12-30 09:09:14.5827
+processing_time: 0.1508882
+conversion_datetime: 2026-06-10 13:33:50.520393
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.22.0
+  docling-jobkit: 1.21.0
+  docling: 2.100.0
+  docling-core: 2.80.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 6.2.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
 ---
+# Search
+
+- [Medicines](/en/medicines)
+    - [Find medicine](/en/medicines)
+    - [Therapeutic areas: latest updates](/en/medicines/therapeutic-areas-latest-updates)
+    - [Download medicine data](/en/medicines/download-medicine-data)
+    - [What we publish on medicines and when](/en/medicines/what-we-publish-medicines-when)
+    - [Medicines under evaluation](/en/medicines/medicines-human-use-under-evaluation)
+    - [National registers](/en/medicines/national-registers-authorised-medicines)
+- [Human regulatory](/en/human-regulatory-overview)
+    - [Overview](/en/human-regulatory-overview)
+    - [Research and development](/en/human-regulatory-overview/research-development)
+    - [Marketing authorisation](/en/human-regulatory-overview/marketing-authorisation)
+    - [Post-authorisation](/en/human-regulatory-overview/post-authorisation)
+    - [Medical devices](/en/human-regulatory-overview/medical-devices)
+    - [Herbal products](/en/human-regulatory-overview/herbal-medicinal-products)
+- [Veterinary regulatory](/en/veterinary-regulatory-overview)
+    - [Overview](/en/veterinary-regulatory-overview)
+    - [Research and development](/en/veterinary-regulatory-overview/research-development-veterinary-medicines)
+    - [Marketing authorisation](/en/veterinary-regulatory-overview/marketing-authorisation-veterinary-medicines)
+    - [Post-authorisation](/en/veterinary-regulatory-overview/post-authorisation-veterinary-medicines)
+- [Committees](/en/committees)
+    - [Overview](/en/committees)
+    - [How the committees work](/en/committees/how-committees-work)
+    - [CHMP](/en/committees/committee-medicinal-products-human-use-chmp)
+    - [CVMP](/en/committees/committee-veterinary-medicinal-products-cvmp)
+    - [PRAC](/en/committees/pharmacovigilance-risk-assessment-committee-prac)
+    - [COMP](/en/committees/committee-orphan-medicinal-products-comp)
+    - [HMPC](/en/committees/committee-herbal-medicinal-products-hmpc)
+    - [CAT](/en/committees/committee-advanced-therapies-cat)
+    - [PDCO](/en/committees/paediatric-committee-pdco)
+    - [Working parties and other groups](/en/committees/working-parties-other-groups)
+- [News &amp; events](/en/news-events)
+    - [Overview](/en/news-events)
+    - [News](/en/news)
+    - [Events](/en/events/upcoming-events)
+    - [What's new](/en/news-events/whats-new)
+    - [Committee highlights](/en/news-events/committee-highlights)
+    - [Publications](/en/news-and-events/publications)
+    - [Press and social media](/en/news-events/press-social-media)
+    - [Podcast: Inside EMA](/en/news-events/podcast-inside-ema)
+    - [EMA Campaigns](/en/news-events/ema-campaigns)
+    - [Open consultations](/en/news-events/open-consultations)
+    - [RSS feeds](/en/news-events/rss-feeds)
+- [Partners &amp; networks](/en/partners-networks)
+    - [Overview](/en/partners-networks)
+    - [EU partners](/en/partners-networks/eu-partners)
+    - [International activities](/en/partners-networks/international-activities)
+    - [Patients and consumers](/en/partners-networks/patients-consumers)
+    - [Healthcare professionals](/en/partners-networks/healthcare-professionals)
+    - [Academia](/en/partners-networks/academia)
+    - [Pharmaceutical industry](/en/partners-networks/pharmaceutical-industry)
+    - [Networks](/en/partners-networks/networks)
+    - [Health technology assessment bodies](/en/partners-networks/health-technology-assessment-bodies)
+    - [One Health approach](/en/partners-networks/one-health-approach)
+    - [Animal health practitioners](/en/partners-networks/animal-health-practitioners)
+    - [One substance - one assessment](/en/partners-networks/one-substance-one-assessment-osoa-eu-collaboration-chemicals-related-data)
+- [About us](/en/about-us)
+    - [Overview](/en/about-us)
+    - [What we do](/en/about-us/what-we-do)
+    - [Who we are](/en/about-us/who-we-are)
+    - [How we work](/en/about-us/how-we-work)
+    - [Fees](/en/about-us/fees-payable-european-medicines-agency)
+    - [Support to SMEs](/en/about-us/support-smes)
+    - [Annual reports and work programmes](/en/about-us/annual-reports-work-programmes)
+    - [History of EMA](/en/about-us/history-ema)
+    - [Careers](/en/about-us/careers)
+    - [Procurement](/en/about-us/procurement-grants)
+    - [About this website](/en/about-us/about-website)
+    - [Data protection and privacy](/en/about-us/data-protection-privacy-ema)
+    - [Contacts](/en/about-us/contacts-european-medicines-agency)
+
+1. [Home](/en/homepage)
+2. [Medicines](https://www.ema.europa.eu/en/medicines)
+3. Vyjuvek
+
 # Vyjuvek
 
 [RSS](/en/individual-human-medicine.xml/256038)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-beremagene geperpavec Medicine Human Authorised
+beremagene geperpavec
 
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
+Medicine Human Authorised
 
 Page contents
 
@@ -57,7 +133,7 @@ Expand section
 
 Collapse section
 
-## How is Vyjuvek used?
+### How is Vyjuvek used?
 
 Vyjuvek can only be obtained with a prescription and should be started by a healthcare professional experienced in the management of patients with dystrophic epidermolysis bullosa.
 
@@ -67,29 +143,29 @@ A healthcare professional should apply Vyjuvek. Patients or caregivers may also 
 
 For more information about using Vyjuvek, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Vyjuvek work?
+### How does Vyjuvek work?
 
 Patients with dystrophic epidermolysis bullosa have a mutation (change) in the *COL7A1* gene. This mutation means their skin cells are not able to make a working form of a protein called type VII collagen (COL7), which helps to keep the layers of the skin together. The active substance in Vyjuvek is beremagene geperpavec, which consists of a virus (herpes simplex 1) that has been modified to contain the *COL7A1* gene. When Vyjuvek is applied to the wounds, the *COL7A1* gene is delivered into the skin cells, enabling them to produce the COL7 protein. This protein helps the layers of the skin to hold together, thereby promoting wound healing.
 
 The virus used in this medicine cannot replicate or cause disease in humans.
 
-## What benefits of Vyjuvek have been shown in studies?
+### What benefits of Vyjuvek have been shown in studies?
 
 A main study involving 31 patients aged 1 to 44 years with dystrophic epidermolysis bullosa found that Vyjuvek was effective at healing wounds. Each patient received treatment for two wounds: one wound was treated with Vyjuvek and the other with placebo (a dummy treatment). At 6 months, 67% (21 out of 31) of the wounds treated with Vyjuvek were completely healed, compared with 22% (7 out of 31) of those treated with placebo.
 
-## What are the risks associated with Vyjuvek?
+### What are the risks associated with Vyjuvek?
 
 For the full list of side effects and restrictions with Vyjuvek, see the package leaflet.
 
 The most common side effects with Vyjuvek (which may affect up to 1 in 10 people) include chills and pruritus (itching).
 
-## Why is Vyjuvek authorised in the EU?
+### Why is Vyjuvek authorised in the EU?
 
 There is an unmet clinical need in the treatment of dystrophic epidermolysis bullosa, and persistent skin lesions caused by the disease represent a great physical, emotional and psychological burden for patients. Vyjuvek was shown to be effective at healing wounds and has a manageable safety profile.
 
 The European Medicines Agency therefore decided that Vyjuvek's benefits are greater than its risks and that it can be authorised for use in the EU.
 
-## What measures are being taken to ensure the safe and effective use of Vyjuvek?
+### What measures are being taken to ensure the safe and effective use of Vyjuvek?
 
 The company that markets Vyjuvek must provide results from a study on the long-term safety of Vyjuvek in patients with dystrophic epidermolysis bullosa with mutations in the *COL7A1* gene, including in patients younger than 6 months of age.
 
@@ -99,7 +175,7 @@ Recommendations and precautions to be followed by healthcare professionals and p
 
 As for all medicines, data on the use of Vyjuvek are continuously monitored. Suspected side effects reported with Vyjuvek are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Vyjuvek
+### Other information about Vyjuvek
 
 Vyjuvek received a marketing authorisation valid throughout the EU on 23 April 2025.
 
@@ -113,181 +189,137 @@ English (EN) (115.58 KB - PDF)
 
 [View](/en/documents/overview/vyjuvek-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-585)
+[Other languages (22)](#file-language-dropdown-929)
 
 български (BG) (137.48 KB - PDF)
 
-**First published:**
-
-06/05/2025
+**First published:** 06/05/2025
 
 [View](/bg/documents/overview/vyjuvek-epar-medicine-overview_bg.pdf)
 
 español (ES) (113.38 KB - PDF)
 
-**First published:**
-
-06/05/2025
+**First published:** 06/05/2025
 
 [View](/es/documents/overview/vyjuvek-epar-medicine-overview_es.pdf)
 
 čeština (CS) (135.44 KB - PDF)
 
-**First published:**
-
-06/05/2025
+**First published:** 06/05/2025
 
 [View](/cs/documents/overview/vyjuvek-epar-medicine-overview_cs.pdf)
 
 dansk (DA) (112.12 KB - PDF)
 
-**First published:**
-
-06/05/2025
+**First published:** 06/05/2025
 
 [View](/da/documents/overview/vyjuvek-epar-medicine-overview_da.pdf)
 
 Deutsch (DE) (116.04 KB - PDF)
 
-**First published:**
-
-06/05/2025
+**First published:** 06/05/2025
 
 [View](/de/documents/overview/vyjuvek-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (110.6 KB - PDF)
+eesti (ET) (110.6 KB - PDF)
 
-**First published:**
-
-06/05/2025
+**First published:** 06/05/2025
 
 [View](/et/documents/overview/vyjuvek-epar-medicine-overview_et.pdf)
 
 ελληνικά (EL) (134.28 KB - PDF)
 
-**First published:**
-
-06/05/2025
+**First published:** 06/05/2025
 
 [View](/el/documents/overview/vyjuvek-epar-medicine-overview_el.pdf)
 
 français (FR) (114.31 KB - PDF)
 
-**First published:**
-
-06/05/2025
+**First published:** 06/05/2025
 
 [View](/fr/documents/overview/vyjuvek-epar-medicine-overview_fr.pdf)
 
 hrvatski (HR) (134.14 KB - PDF)
 
-**First published:**
-
-06/05/2025
+**First published:** 06/05/2025
 
 [View](/hr/documents/overview/vyjuvek-epar-medicine-overview_hr.pdf)
 
 italiano (IT) (112.8 KB - PDF)
 
-**First published:**
-
-06/05/2025
+**First published:** 06/05/2025
 
 [View](/it/documents/overview/vyjuvek-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (152.74 KB - PDF)
+latviešu (LV) (152.74 KB - PDF)
 
-**First published:**
-
-06/05/2025
+**First published:** 06/05/2025
 
 [View](/lv/documents/overview/vyjuvek-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (135.27 KB - PDF)
+lietuvių (LT) (135.27 KB - PDF)
 
-**First published:**
-
-06/05/2025
+**First published:** 06/05/2025
 
 [View](/lt/documents/overview/vyjuvek-epar-medicine-overview_lt.pdf)
 
 magyar (HU) (135.26 KB - PDF)
 
-**First published:**
-
-06/05/2025
+**First published:** 06/05/2025
 
 [View](/hu/documents/overview/vyjuvek-epar-medicine-overview_hu.pdf)
 
 Malti (MT) (137.45 KB - PDF)
 
-**First published:**
-
-06/05/2025
+**First published:** 06/05/2025
 
 [View](/mt/documents/overview/vyjuvek-epar-medicine-overview_mt.pdf)
 
 Nederlands (NL) (113.15 KB - PDF)
 
-**First published:**
-
-06/05/2025
+**First published:** 06/05/2025
 
 [View](/nl/documents/overview/vyjuvek-epar-medicine-overview_nl.pdf)
 
 polski (PL) (136.98 KB - PDF)
 
-**First published:**
-
-06/05/2025
+**First published:** 06/05/2025
 
 [View](/pl/documents/overview/vyjuvek-epar-medicine-overview_pl.pdf)
 
 português (PT) (114.3 KB - PDF)
 
-**First published:**
-
-06/05/2025
+**First published:** 06/05/2025
 
 [View](/pt/documents/overview/vyjuvek-epar-medicine-overview_pt.pdf)
 
 română (RO) (133.24 KB - PDF)
 
-**First published:**
-
-06/05/2025
+**First published:** 06/05/2025
 
 [View](/ro/documents/overview/vyjuvek-epar-medicine-overview_ro.pdf)
 
 slovenčina (SK) (134.39 KB - PDF)
 
-**First published:**
-
-06/05/2025
+**First published:** 06/05/2025
 
 [View](/sk/documents/overview/vyjuvek-epar-medicine-overview_sk.pdf)
 
 slovenščina (SL) (133.42 KB - PDF)
 
-**First published:**
-
-06/05/2025
+**First published:** 06/05/2025
 
 [View](/sl/documents/overview/vyjuvek-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (110.65 KB - PDF)
+suomi (FI) (110.65 KB - PDF)
 
-**First published:**
-
-06/05/2025
+**First published:** 06/05/2025
 
 [View](/fi/documents/overview/vyjuvek-epar-medicine-overview_fi.pdf)
 
 svenska (SV) (110.7 KB - PDF)
 
-**First published:**
-
-06/05/2025
+**First published:** 06/05/2025
 
 [View](/sv/documents/overview/vyjuvek-epar-medicine-overview_sv.pdf)
 
@@ -303,305 +335,161 @@ English (EN) (534.05 KB - PDF)
 
 Vyjuvek : EPAR - Product information
 
-English (EN) (966.18 KB - PDF)
+English (EN) (728 KB - PDF)
 
-**First published:** 06/05/2025
-
-**Last updated:** 28/07/2025
+**First published:** 06/05/2025 **Last updated:** 08/06/2026
 
 [View](/en/documents/product-information/vyjuvek-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-901)
+[Other languages (24)](#file-language-dropdown-775)
 
-български (BG) (870.4 KB - PDF)
+български (BG) (873.7 KB - PDF)
 
-**First published:**
-
-06/05/2025
-
-**Last updated:**
-
-28/07/2025
+**First published:** 06/05/2025 **Last updated:** 08/06/2026
 
 [View](/bg/documents/product-information/vyjuvek-epar-product-information_bg.pdf)
 
-español (ES) (745.63 KB - PDF)
+español (ES) (751.12 KB - PDF)
 
-**First published:**
-
-06/05/2025
-
-**Last updated:**
-
-28/07/2025
+**First published:** 06/05/2025 **Last updated:** 08/06/2026
 
 [View](/es/documents/product-information/vyjuvek-epar-product-information_es.pdf)
 
-čeština (CS) (810.52 KB - PDF)
+čeština (CS) (814.79 KB - PDF)
 
-**First published:**
-
-06/05/2025
-
-**Last updated:**
-
-28/07/2025
+**First published:** 06/05/2025 **Last updated:** 08/06/2026
 
 [View](/cs/documents/product-information/vyjuvek-epar-product-information_cs.pdf)
 
-dansk (DA) (751.68 KB - PDF)
+dansk (DA) (760.18 KB - PDF)
 
-**First published:**
-
-06/05/2025
-
-**Last updated:**
-
-28/07/2025
+**First published:** 06/05/2025 **Last updated:** 08/06/2026
 
 [View](/da/documents/product-information/vyjuvek-epar-product-information_da.pdf)
 
-Deutsch (DE) (833.58 KB - PDF)
+Deutsch (DE) (811.74 KB - PDF)
 
-**First published:**
-
-06/05/2025
-
-**Last updated:**
-
-28/07/2025
+**First published:** 06/05/2025 **Last updated:** 08/06/2026
 
 [View](/de/documents/product-information/vyjuvek-epar-product-information_de.pdf)
 
-eesti keel (ET) (747.08 KB - PDF)
+eesti (ET) (750.07 KB - PDF)
 
-**First published:**
-
-06/05/2025
-
-**Last updated:**
-
-28/07/2025
+**First published:** 06/05/2025 **Last updated:** 08/06/2026
 
 [View](/et/documents/product-information/vyjuvek-epar-product-information_et.pdf)
 
-ελληνικά (EL) (858.3 KB - PDF)
+ελληνικά (EL) (865.07 KB - PDF)
 
-**First published:**
-
-06/05/2025
-
-**Last updated:**
-
-28/07/2025
+**First published:** 06/05/2025 **Last updated:** 08/06/2026
 
 [View](/el/documents/product-information/vyjuvek-epar-product-information_el.pdf)
 
-français (FR) (782.76 KB - PDF)
+français (FR) (781.38 KB - PDF)
 
-**First published:**
-
-06/05/2025
-
-**Last updated:**
-
-28/07/2025
+**First published:** 06/05/2025 **Last updated:** 08/06/2026
 
 [View](/fr/documents/product-information/vyjuvek-epar-product-information_fr.pdf)
 
-hrvatski (HR) (838.04 KB - PDF)
+hrvatski (HR) (809.95 KB - PDF)
 
-**First published:**
-
-06/05/2025
-
-**Last updated:**
-
-28/07/2025
+**First published:** 06/05/2025 **Last updated:** 08/06/2026
 
 [View](/hr/documents/product-information/vyjuvek-epar-product-information_hr.pdf)
 
-íslenska (IS) (741.75 KB - PDF)
+italiano (IT) (779.51 KB - PDF)
 
-**First published:**
-
-06/05/2025
-
-**Last updated:**
-
-28/07/2025
-
-[View](/is/documents/product-information/vyjuvek-epar-product-information_is.pdf)
-
-italiano (IT) (791.79 KB - PDF)
-
-**First published:**
-
-06/05/2025
-
-**Last updated:**
-
-28/07/2025
+**First published:** 06/05/2025 **Last updated:** 08/06/2026
 
 [View](/it/documents/product-information/vyjuvek-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (827.98 KB - PDF)
+latviešu (LV) (832.71 KB - PDF)
 
-**First published:**
-
-06/05/2025
-
-**Last updated:**
-
-28/07/2025
+**First published:** 06/05/2025 **Last updated:** 08/06/2026
 
 [View](/lv/documents/product-information/vyjuvek-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (853.98 KB - PDF)
+lietuvių (LT) (852.39 KB - PDF)
 
-**First published:**
-
-06/05/2025
-
-**Last updated:**
-
-28/07/2025
+**First published:** 06/05/2025 **Last updated:** 08/06/2026
 
 [View](/lt/documents/product-information/vyjuvek-epar-product-information_lt.pdf)
 
-magyar (HU) (798.29 KB - PDF)
+magyar (HU) (803.13 KB - PDF)
 
-**First published:**
-
-06/05/2025
-
-**Last updated:**
-
-28/07/2025
+**First published:** 06/05/2025 **Last updated:** 08/06/2026
 
 [View](/hu/documents/product-information/vyjuvek-epar-product-information_hu.pdf)
 
-Malti (MT) (878.13 KB - PDF)
+Malti (MT) (895.89 KB - PDF)
 
-**First published:**
-
-06/05/2025
-
-**Last updated:**
-
-28/07/2025
+**First published:** 06/05/2025 **Last updated:** 08/06/2026
 
 [View](/mt/documents/product-information/vyjuvek-epar-product-information_mt.pdf)
 
-Nederlands (NL) (763.47 KB - PDF)
+Nederlands (NL) (770.03 KB - PDF)
 
-**First published:**
-
-06/05/2025
-
-**Last updated:**
-
-28/07/2025
+**First published:** 06/05/2025 **Last updated:** 08/06/2026
 
 [View](/nl/documents/product-information/vyjuvek-epar-product-information_nl.pdf)
 
-norsk (NO) (747.8 KB - PDF)
+polski (PL) (847.92 KB - PDF)
 
-**First published:**
-
-06/05/2025
-
-**Last updated:**
-
-28/07/2025
-
-[View](/no/documents/product-information/vyjuvek-epar-product-information_no.pdf)
-
-polski (PL) (837.26 KB - PDF)
-
-**First published:**
-
-06/05/2025
-
-**Last updated:**
-
-28/07/2025
+**First published:** 06/05/2025 **Last updated:** 08/06/2026
 
 [View](/pl/documents/product-information/vyjuvek-epar-product-information_pl.pdf)
 
-português (PT) (750.03 KB - PDF)
+português (PT) (761.89 KB - PDF)
 
-**First published:**
-
-06/05/2025
-
-**Last updated:**
-
-28/07/2025
+**First published:** 06/05/2025 **Last updated:** 08/06/2026
 
 [View](/pt/documents/product-information/vyjuvek-epar-product-information_pt.pdf)
 
-română (RO) (827.33 KB - PDF)
+română (RO) (816.85 KB - PDF)
 
-**First published:**
-
-06/05/2025
-
-**Last updated:**
-
-28/07/2025
+**First published:** 06/05/2025 **Last updated:** 08/06/2026
 
 [View](/ro/documents/product-information/vyjuvek-epar-product-information_ro.pdf)
 
-slovenčina (SK) (830.05 KB - PDF)
+slovenčina (SK) (828.99 KB - PDF)
 
-**First published:**
-
-06/05/2025
-
-**Last updated:**
-
-28/07/2025
+**First published:** 06/05/2025 **Last updated:** 08/06/2026
 
 [View](/sk/documents/product-information/vyjuvek-epar-product-information_sk.pdf)
 
-slovenščina (SL) (821.74 KB - PDF)
+slovenščina (SL) (828.42 KB - PDF)
 
-**First published:**
-
-06/05/2025
-
-**Last updated:**
-
-28/07/2025
+**First published:** 06/05/2025 **Last updated:** 08/06/2026
 
 [View](/sl/documents/product-information/vyjuvek-epar-product-information_sl.pdf)
 
-Suomi (FI) (770.8 KB - PDF)
+suomi (FI) (779.54 KB - PDF)
 
-**First published:**
-
-06/05/2025
-
-**Last updated:**
-
-28/07/2025
+**First published:** 06/05/2025 **Last updated:** 08/06/2026
 
 [View](/fi/documents/product-information/vyjuvek-epar-product-information_fi.pdf)
 
-svenska (SV) (780.56 KB - PDF)
+svenska (SV) (787.93 KB - PDF)
 
-**First published:**
-
-06/05/2025
-
-**Last updated:**
-
-28/07/2025
+**First published:** 06/05/2025 **Last updated:** 08/06/2026
 
 [View](/sv/documents/product-information/vyjuvek-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000281025 26/06/2025
+Íslenska (IS) (749.75 KB - PDF)
+
+**First published:** 06/05/2025 **Last updated:** 08/06/2026
+
+[View](/is/documents/product-information/vyjuvek-epar-product-information_is.pdf)
+
+norsk (NO) (757.29 KB - PDF)
+
+**First published:** 06/05/2025 **Last updated:** 08/06/2026
+
+[View](/no/documents/product-information/vyjuvek-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** VR/0000343420
+
+08/06/2026
 
 icon globe
 
@@ -625,203 +513,173 @@ English (EN) (80.98 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/vyjuvek-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-571)
+[Other languages (24)](#file-language-dropdown-570)
 
 български (BG) (55.27 KB - PDF)
 
-**First published:**
-
-06/05/2025
+**First published:** 06/05/2025
 
 [View](/bg/documents/all-authorised-presentations/vyjuvek-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (52.32 KB - PDF)
 
-**First published:**
-
-06/05/2025
+**First published:** 06/05/2025
 
 [View](/es/documents/all-authorised-presentations/vyjuvek-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (55.59 KB - PDF)
 
-**First published:**
-
-06/05/2025
+**First published:** 06/05/2025
 
 [View](/cs/documents/all-authorised-presentations/vyjuvek-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (54.06 KB - PDF)
 
-**First published:**
-
-06/05/2025
+**First published:** 06/05/2025
 
 [View](/da/documents/all-authorised-presentations/vyjuvek-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (55.73 KB - PDF)
 
-**First published:**
-
-06/05/2025
+**First published:** 06/05/2025
 
 [View](/de/documents/all-authorised-presentations/vyjuvek-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (45.09 KB - PDF)
+eesti (ET) (45.09 KB - PDF)
 
-**First published:**
-
-06/05/2025
+**First published:** 06/05/2025
 
 [View](/et/documents/all-authorised-presentations/vyjuvek-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (61.43 KB - PDF)
 
-**First published:**
-
-06/05/2025
+**First published:** 06/05/2025
 
 [View](/el/documents/all-authorised-presentations/vyjuvek-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (52.44 KB - PDF)
 
-**First published:**
-
-06/05/2025
+**First published:** 06/05/2025
 
 [View](/fr/documents/all-authorised-presentations/vyjuvek-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (65.8 KB - PDF)
 
-**First published:**
-
-06/05/2025
+**First published:** 06/05/2025
 
 [View](/hr/documents/all-authorised-presentations/vyjuvek-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (95.34 KB - PDF)
-
-**First published:**
-
-06/05/2025
-
-[View](/is/documents/all-authorised-presentations/vyjuvek-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (52.54 KB - PDF)
 
-**First published:**
-
-06/05/2025
+**First published:** 06/05/2025
 
 [View](/it/documents/all-authorised-presentations/vyjuvek-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (69.51 KB - PDF)
+latviešu (LV) (69.51 KB - PDF)
 
-**First published:**
-
-06/05/2025
+**First published:** 06/05/2025
 
 [View](/lv/documents/all-authorised-presentations/vyjuvek-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (61.41 KB - PDF)
+lietuvių (LT) (61.41 KB - PDF)
 
-**First published:**
-
-06/05/2025
+**First published:** 06/05/2025
 
 [View](/lt/documents/all-authorised-presentations/vyjuvek-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (65.6 KB - PDF)
 
-**First published:**
-
-06/05/2025
+**First published:** 06/05/2025
 
 [View](/hu/documents/all-authorised-presentations/vyjuvek-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (66.23 KB - PDF)
 
-**First published:**
-
-06/05/2025
+**First published:** 06/05/2025
 
 [View](/mt/documents/all-authorised-presentations/vyjuvek-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (52.08 KB - PDF)
 
-**First published:**
-
-06/05/2025
+**First published:** 06/05/2025
 
 [View](/nl/documents/all-authorised-presentations/vyjuvek-epar-all-authorised-presentations_nl.pdf)
 
-norsk (NO) (82.52 KB - PDF)
-
-**First published:**
-
-06/05/2025
-
-[View](/no/documents/all-authorised-presentations/vyjuvek-epar-all-authorised-presentations_no.pdf)
-
 polski (PL) (64.45 KB - PDF)
 
-**First published:**
-
-06/05/2025
+**First published:** 06/05/2025
 
 [View](/pl/documents/all-authorised-presentations/vyjuvek-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (53.33 KB - PDF)
 
-**First published:**
-
-06/05/2025
+**First published:** 06/05/2025
 
 [View](/pt/documents/all-authorised-presentations/vyjuvek-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (55.55 KB - PDF)
 
-**First published:**
-
-06/05/2025
+**First published:** 06/05/2025
 
 [View](/ro/documents/all-authorised-presentations/vyjuvek-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (55.45 KB - PDF)
 
-**First published:**
-
-06/05/2025
+**First published:** 06/05/2025
 
 [View](/sk/documents/all-authorised-presentations/vyjuvek-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (60.14 KB - PDF)
 
-**First published:**
-
-06/05/2025
+**First published:** 06/05/2025
 
 [View](/sl/documents/all-authorised-presentations/vyjuvek-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (51.5 KB - PDF)
+suomi (FI) (51.5 KB - PDF)
 
-**First published:**
-
-06/05/2025
+**First published:** 06/05/2025
 
 [View](/fi/documents/all-authorised-presentations/vyjuvek-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (53.05 KB - PDF)
 
-**First published:**
-
-06/05/2025
+**First published:** 06/05/2025
 
 [View](/sv/documents/all-authorised-presentations/vyjuvek-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (95.34 KB - PDF)
+
+**First published:** 06/05/2025
+
+[View](/is/documents/all-authorised-presentations/vyjuvek-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (82.52 KB - PDF)
+
+**First published:** 06/05/2025
+
+[View](/no/documents/all-authorised-presentations/vyjuvek-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine Vyjuvek Active substance Beremagene geperpavec International non-proprietary name (INN) or common name beremagene geperpavec Therapeutic area (MeSH) Epidermolysis Bullosa Dystrophica Anatomical therapeutic chemical (ATC) code D03AX16
+Name of medicine
+
+Vyjuvek
+
+Active substance
+
+Beremagene geperpavec
+
+International non-proprietary name (INN) or common name
+
+beremagene geperpavec
+
+Therapeutic area (MeSH)
+
+Epidermolysis Bullosa Dystrophica
+
+Anatomical therapeutic chemical (ATC) code
+
+D03AX16
 
 ### Pharmacotherapeutic group
 
@@ -833,7 +691,9 @@ Vyjuvek is indicated for the treatment of wounds in patients with dystrophic epi
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/006330
+EMA product number
+
+EMEA/H/C/006330
 
 Additional monitoring
 
@@ -857,7 +717,17 @@ Krystal Biotech Netherlands B.V.
 
 Atrium Gebouw Strawinskylaan 3051 1077 ZX Amsterdam The Netherlands
 
-Opinion adopted 27/02/2025 Marketing authorisation issued 23/04/2025 Revision 1
+Opinion adopted
+
+27/02/2025
+
+Marketing authorisation issued
+
+23/04/2025
+
+Revision
+
+2
 
 ## Assessment history
 
@@ -865,23 +735,21 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Vyjuvek : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (191.91 KB - PDF)
+English (EN) (149.46 KB - PDF)
 
-**First published:** 30/06/2025
+**First published:** 30/06/2025 **Last updated:** 08/06/2026
 
 [View](/en/documents/procedural-steps-after/vyjuvek-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Vyjuvek : Orphan Maintenance Assessment Report (initial authorisation)
 
-Adopted
-
-Reference Number: EMA/OD/0000233504
+Adopted Reference Number: EMA/OD/0000233504
 
 English (EN) (267.64 KB - PDF)
 
@@ -891,23 +759,17 @@ English (EN) (267.64 KB - PDF)
 
 Vyjuvek : EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/98574/2025
+Adopted Reference Number: EMA/98574/2025
 
 English (EN) (3.33 MB - PDF)
 
-**First published:** 06/05/2025
-
-**Last updated:** 30/09/2025
+**First published:** 06/05/2025 **Last updated:** 30/09/2025
 
 [View](/en/documents/assessment-report/vyjuvek-epar-public-assessment-report_en.pdf)
 
 CHMP summary of positive opinion for Vyjuvek
 
-Adopted
-
-Reference Number: EMA/CHMP/52904/2025
+Adopted Reference Number: EMA/CHMP/52904/2025
 
 English (EN) (106.02 KB - PDF)
 
@@ -915,18 +777,22 @@ English (EN) (106.02 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-vyjuvek_en.pdf)
 
-#### News on Vyjuvek
+## News on Vyjuvek
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 24-27 February 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-24-27-february-2025) 28/02/2025
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 24-27 February 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-24-27-february-2025)
 
-[First topical gene therapy treatment for dystrophic epidermolysis bullosa](/en/news/first-topical-gene-therapy-treatment-dystrophic-epidermolysis-bullosa) 28/02/2025
+28/02/2025
 
-#### More information on Vyjuvek
+[First topical gene therapy treatment for dystrophic epidermolysis bullosa](/en/news/first-topical-gene-therapy-treatment-dystrophic-epidermolysis-bullosa)
+
+28/02/2025
+
+## More information on Vyjuvek
 
 - [EU/3/18/2012 - orphan designation for treatment of epidermolysis bullosa](/en/medicines/human/orphan-designations/eu-3-18-2012)
 
-**This page was last updated on** 30/06/2025
+**This page was last updated on**
+
+08/06/2026
 
 ## Share this page
-
-[Back to top](#main-content)

@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-05-19 12:19:19
+document_datetime: 2026-06-08 16:36:23
 document_pages: 50
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/yescarta-epar-product-information_en.pdf
 document_name: yescarta-epar-product-information_en.pdf
 version: success
-processing_time: 24.8597286
-conversion_datetime: 2026-05-22 23:12:19.59648
+processing_time: 20.6937896
+conversion_datetime: 2026-06-10 13:42:29.013744
 docling_version:
-  docling-serve: 1.20.0
-  docling-jobkit: 1.20.0
-  docling: 2.95.0
-  docling-core: 2.77.0
-  docling-ibm-models: 3.13.2
-  docling-parse: 5.11.0
+  docling-serve: 1.22.0
+  docling-jobkit: 1.21.0
+  docling: 2.100.0
+  docling-core: 2.80.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 6.2.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -212,7 +212,7 @@ Yescarta continues to expand and persist following administration of tocilizumab
 
 ## Neurologic adverse reactions
 
-Severe neurologic adverse reactions, also known as immune effector cell-associated neurotoxicity syndrome (ICANS), have been very commonly observed in patients treated with Yescarta, which could be life-threatening or fatal. The median time to onset was 6 days (range: 1 to 133 days) in ZUMA-1 and ZUMA-7, and 7 days (range: 1 to 177 days) in ZUMA-5 following Yescarta infusion (see section 4.8). Patients with a history of CNS disorders such as seizures or cerebrovascular ischaemia may be at increased risk. Fatal and serious cases of cerebral oedema have been reported in patients treated with Yescarta.
+Severe neurologic adverse reactions, also known as immune effector cell-associated neurotoxicity syndrome (ICANS), have been very commonly observed in patients treated with Yescarta, which could be life-threatening or fatal. The median time to onset was 6 days (range: 1 to 133 days) in ZUMA-1 and ZUMA-7, and 7 days (range: 1 to 177 days) in ZUMA-5 following Yescarta infusion (see section 4.8). Patients with a history of CNS disorders such as seizures or cerebrovascular ischaemia may be at increased risk. Fatal and serious cases of cerebral oedema have been reported in patients treated with Yescarta with most cases occurring in patients with ICANS. The risk for cerebral oedema may be higher in PMBCL patients (see section 4.8).
 
 The management of patients should be conducted based on the patient's clinical presentation and in accordance with applicable local institutional and/or national or European/international clinical guidelines. Physicians are advised to exercise clinical judgment consistent with these standards.
 
@@ -385,34 +385,32 @@ Table 1: Adverse drug reactions identified with Yescarta
 
 <div style=\"page-break-after: always\"></div>
 
-| System Organ Class (SOC)                            | Frequency                                           | Adverse reactions                                                                                                |
-|-----------------------------------------------------|-----------------------------------------------------|------------------------------------------------------------------------------------------------------------------|
-| Nervous system disorders                            |                                                     |                                                                                                                  |
-|                                                     | Very common                                         | Encephalopathy g Tremor h Headache i Dizziness j                                                                 |
-|                                                     | Common                                              | Ataxia k Seizures, including status epilepticus Hemiparesis Facial paralysis l Neuropathy peripheral m Myoclonus |
-|                                                     | Uncommon                                            | Quadriplegia Spinal cord oedema Myelitis Dyscalculia                                                             |
-| Eye disorders                                       |                                                     |                                                                                                                  |
-| Cardiac disorders                                   | Common                                              | Visual impairment n                                                                                              |
-|                                                     | Very common                                         | Tachycardia o Arrhythmia p                                                                                       |
-|                                                     | Common                                              | Cardiac arrest Cardiac failure q                                                                                 |
-| Vascular disorders                                  |                                                     |                                                                                                                  |
-|                                                     | Very common                                         | Hypotension r Hypertension                                                                                       |
-|                                                     | Common                                              | Thrombosis s Haemorrhage t                                                                                       |
-| Respiratory, thoracic and mediastinal disorders     |                                                     |                                                                                                                  |
-|                                                     | Very common                                         | Cough u                                                                                                          |
-|                                                     | Common                                              | Respiratory failure v Hypoxia w Pleural effusion Pulmonary oedema Dyspnoea x Nasal inflammation y                |
-| Gastrointestinal disorders                          |                                                     |                                                                                                                  |
-|                                                     | Very common                                         | Vomiting Diarrhoea z Constipation Abdominal pain aa Nausea                                                       |
-|                                                     | Common                                              | Dysphagia*** bb                                                                                                  |
-| Hepatobiliary disorders                             |                                                     | Dry mouth                                                                                                        |
-|                                                     | Very common                                         | Transaminases increased cc                                                                                       |
-|                                                     | Common                                              | Hyperbilirubinaemia dd                                                                                           |
-| Skin and subcutaneous tissue disorders              |                                                     |                                                                                                                  |
-|                                                     | Very common                                         | Rash ee                                                                                                          |
-| Musculoskeletal and connective tissue disorders     | Musculoskeletal and connective tissue disorders     | Musculoskeletal and connective tissue disorders                                                                  |
-|                                                     | Very common                                         | Motor dysfunction ff Musculoskeletal pain gg                                                                     |
-| Uncommon Rhabdomyolysis Renal and urinary disorders | Uncommon Rhabdomyolysis Renal and urinary disorders | Uncommon Rhabdomyolysis Renal and urinary disorders                                                              |
-| General disorders and administration                | Very common                                         | Fever ii Oedema jj Fatigue kk Chills                                                                             |
+| System Organ Class (SOC)                        | Frequency                            | Adverse reactions                                                                                                |
+|-------------------------------------------------|--------------------------------------|------------------------------------------------------------------------------------------------------------------|
+| Nervous system disorders                        |                                      |                                                                                                                  |
+|                                                 | Very common                          | Encephalopathy g Tremor h Headache i Dizziness j                                                                 |
+|                                                 | Common                               | Ataxia k Seizures, including status epilepticus Hemiparesis Facial paralysis l Neuropathy peripheral m Myoclonus |
+|                                                 | Uncommon                             | Quadriplegia Spinal cord oedema Myelitis Dyscalculia Cerebral oedema ##                                          |
+| Eye disorders                                   |                                      |                                                                                                                  |
+| Common                                          | Common                               | Visual impairment n                                                                                              |
+| Cardiac disorders                               | Very common                          | Tachycardia o Arrhythmia p                                                                                       |
+|                                                 | Common                               | Cardiac arrest Cardiac failure q                                                                                 |
+| Vascular disorders                              |                                      |                                                                                                                  |
+|                                                 | Very common                          | Hypotension r Hypertension                                                                                       |
+|                                                 | Common                               | Thrombosis s Haemorrhage t                                                                                       |
+| Respiratory, thoracic and mediastinal disorders |                                      |                                                                                                                  |
+|                                                 | Very common                          | Cough u                                                                                                          |
+| Gastrointestinal disorders                      |                                      |                                                                                                                  |
+|                                                 | Very common                          | Vomiting Diarrhoea z Constipation Abdominal pain aa Nausea                                                       |
+|                                                 | Common                               | Dysphagia*** bb                                                                                                  |
+| Hepatobiliary disorders                         |                                      | Dry mouth                                                                                                        |
+|                                                 | Very common Common                   | Transaminases increased cc Hyperbilirubinaemia dd                                                                |
+| Skin and subcutaneous                           | disorders                            |                                                                                                                  |
+| tissue Very                                     | common                               | Rash ee                                                                                                          |
+| Musculoskeletal and connective tissue           | disorders                            |                                                                                                                  |
+|                                                 | Very common                          | Motor dysfunction ff Musculoskeletal pain gg                                                                     |
+| Uncommon Renal and urinary disorders            | Uncommon Renal and urinary disorders | Rhabdomyolysis                                                                                                   |
+| General disorders and administration            | Common                               | Renal impairment hh                                                                                              |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -423,9 +421,9 @@ Table 1: Adverse drug reactions identified with Yescarta
 
 5
 
-*** Dysphagia has been reported in the setting of neurologic toxicity and encephalopathy
-
+- *** Dysphagia has been reported in the setting of neurologic toxicity and encephalopathy
 - #   Frequency based on Grade 3 or higher laboratory parameter
+- ##  Most cases of cerebral oedema occurred in patients with ICANS
 - a. Coagulopathy includes coagulopathy, blood fibrinogen decreased, blood fibrinogen increased, disseminated intravascular coagulation, hypofibrinogenaemia, international normalized ratio increased, prothrombin level decreased, prothrombin time prolonged
 - b. Immunoglobulins decreased includes blood immunoglobulin G decreased, hypogammaglobulinaemia
 - c. Decreased appetite includes decreased appetite, hypophagia
@@ -446,25 +444,25 @@ Table 1: Adverse drug reactions identified with Yescarta
 - r. Hypotension includes hypotension, capillary leak syndrome, diastolic hypotension, hypoperfusion, orthostatic hypotension
 - s. Thrombosis includes thrombosis, axillary vein thrombosis, brachiocephalic vein thrombosis, deep vein thrombosis, device occlusion, embolism, jugular vein thrombosis, peripheral embolism, peripheral ischaemia, pulmonary embolism, splenic vein thrombosis, thrombosis in device
 - t. Haemorrhage includes serious and potentially fatal haemorrhagic events such as gastrointestinal haemorrhage, pulmonary haemorrhage and intracranial haemorrhage
-- u. Cough includes cough, productive cough, upper-airway cough syndrome
+
+u. Cough includes cough, productive cough, upper-airway cough syndrome
+
 - v. Respiratory failure includes respiratory failure, acute respiratory failure
 - w. Hypoxia includes hypoxia, oxygen saturation decreased
 - x. Dyspnoea includes dyspnoea, dyspnoea exertional
 - y. Nasal inflammation includes rhinitis allergic, rhinorrhoea
 - z. Diarrhoea includes diarrhoea, colitis, enteritis
-- aa. Abdominal pain includes abdominal pain, abdominal discomfort, abdominal pain lower, abdominal pain upper, abdominal tenderness, dyspepsia, epigastric discomfort
-- bb. Dry mouth includes dry mouth, lip dry
+6. aa. Abdominal pain includes abdominal pain, abdominal discomfort, abdominal pain lower, abdominal pain upper, abdominal tenderness, dyspepsia, epigastric discomfort
+7. bb. Dry mouth includes dry mouth, lip dry
 - cc. Transaminases increased includes transaminases increased, alanine aminotransferase increased, aspartate aminotransferase increased, hepatic enzyme increased, hypertransaminasaemia
 - dd. Hyperbilirubinaemia increased includes hyperbilirubinemia, blood bilirubin increased
-- ee. Rash includes rash, application site rash, dermatitis, dermatitis allergic, dermatitis bullous, erythema, pruritus, rash erythematous, rash macular, rash maculo-papular, rash pruritic, rash pustular, urticaria
-- ff. Motor dysfunction includes motor dysfunction, muscle contractions involuntary, muscle rigidity, muscle spasms, muscle spasticity, muscle strain, muscle tightness, muscle twitching, muscular weakness
-- gg. Musculoskeletal pain includes musculoskeletal pain, arthralgia, arthritis, back pain, bone pain, flank pain, groin pain, musculoskeletal chest pain, myalgia, neck pain, osteoarthritis, pain in extremity
-
-hh. Renal impairment includes acute kidney injury, blood creatinine increased, renal failure
-
+10. ee. Rash includes rash, application site rash, dermatitis, dermatitis allergic, dermatitis bullous, erythema, pruritus, rash erythematous, rash macular, rash maculo-papular, rash pruritic, rash pustular, urticaria
+11. ff. Motor dysfunction includes motor dysfunction, muscle contractions involuntary, muscle rigidity, muscle spasms, muscle spasticity, muscle strain, muscle tightness, muscle twitching, muscular weakness
+12. gg. Musculoskeletal pain includes musculoskeletal pain, arthralgia, arthritis, back pain, bone pain, flank pain, groin pain, musculoskeletal chest pain, myalgia, neck pain, osteoarthritis, pain in extremity
+13. hh. Renal impairment includes acute kidney injury, blood creatinine increased, renal failure
 - ii. Fever includes hyperthermia, pyrexia
-2. jj. Oedema includes oedema, face oedema, generalized oedema, localized oedema, oedema genital, oedema peripheral, peripheral swelling, swelling
-3. kk. Fatigue includes fatigue, asthenia, decreased activity, malaise
+15. jj. Oedema includes oedema, face oedema, generalized oedema, localized oedema, oedema genital, oedema peripheral, peripheral swelling, swelling
+16. kk. Fatigue includes fatigue, asthenia, decreased activity, malaise
 
 <div style=\"page-break-after: always\"></div>
 
@@ -487,6 +485,8 @@ In ZUMA-5, neurologic adverse reactions occurred in 57% of patients. Sixteen per
 The most common (≥ 5%) neurologic adverse reactions included encephalopathy (51%), tremor (28%), and delirium (14%). Serious neurologic adverse reactions reported in patients included encephalopathy (18%), tremor (2%), delirium (2%), hemiparesis (1%) and seizure (1%). In ZUMA-7, encephalopathy and tremor were reported in 49% and 25% of patients treated with Yescarta compared to 8% and 1% treated with SOCT, respectively.
 
 Other neurologic adverse reactions have been reported less frequently in clinical trials and included dysphagia (3%), myelitis (0.2%), and quadriplegia (0.1%).
+
+In registries, the cerebral oedema event rate in the PMBCL indication was 1.6% overall (2 cases in 129 exposed) compared with 0.7% overall in DLBCL and other lymphoma indications (28 cases in 3876 exposed).
 
 See section 4.4 for monitoring and management guidance.
 
@@ -534,7 +534,7 @@ Yescarta, an engineered autologous T-cell immunotherapy product, binds to CD19 e
 
 ## Pharmacodynamic effects
 
-After Yescarta infusion, pharmacodynamic responses were evaluated by measuring transient elevation of cytokines, chemokines, and other molecules in blood over a 4-week interval. Levels of cytokines and chemokines such as IL-6, IL-8, IL-10, IL-15, TNFα, IFN -γ, and IL2Rα were analyzed. Peak elevation was observed within the first 14 days after infusion, and levels generally returned to baseline within 28 days.
+After Yescarta infusion, pharmacodynamic responses were evaluated by measuring transient elevation of cytokines, chemokines, and other molecules in blood over a 4-week interval. Levels of cytokines and chemokines such as IL-6, IL-8, IL-10, IL-15, TNFα, IFN -γ, and IL2Rα were analyzed . Peak elevation was observed within the first 14 days after infusion, and levels generally returned to baseline within 28 days.
 
 Analyses performed to identify associations between cytokine levels and incidence of CRS or neurologic events showed that higher post-infusion levels (peak and AUC at 1 month) of multiple immune-modulatory and pro-inflammatory analytes were associated with Grade 3 or higher neurologic adverse reactions and Grade 3 or higher CRS in ZUMA-1, ZUMA-7 and ZUMA-5.
 
@@ -546,9 +546,11 @@ Among 73 patients in ZUMA-1 with evaluable samples at baseline, 40% had detectab
 
 ## Relapsed or refractory DLBCL, PMBCL and DLBCL arising from follicular lymphoma after two or more lines of systemic therapy (ZUMA-1)
 
-A total of 108 patients were treated with Yescarta in a phase 1/2 open-label, multicentre, single-arm study in patients with r/r aggressive B-cell non-Hodgkin lymphoma (NHL). Efficacy was based on 101 patients in phase 2, including histologically confirmed DLBCL (N = 77), PMBCL (N = 8), or DLBCL arising from follicular lymphoma, (N = 16) based on the 2008 WHO-classification. DLBCL in ZUMA-1 included patients with DLBCL not otherwise specified (NOS), other DLBCL subtypes, and HGBL based on the 2016 WHO-classification. Forty-seven patients were evaluable for MYC, BCL-2, and BCL-6 status. Thirty were found to have double expressor DLBCL (overexpression of both MYC and BCL-2 protein); 5 were found to have HGBL with MYC , BCL-2 or BCL-6 gene rearrangement (double- and triple-hit); and 2 were found to have HGBL not otherwise specified. Sixty-six patients were evaluable for cell-of-origin classifications (germinal center B-cell type [GCB] or activated B-cell type [ABC]). Of these, 49 patients had GCB-type and 17 patients had ABC-type.
+A total of 108 patients were treated with Yescarta in a phase 1/2 open-label, multicentre, single-arm study in patients with r/r aggressive B-cell non-Hodgkin lymphoma (NHL). Efficacy was based on
 
 <div style=\"page-break-after: always\"></div>
+
+101 patients in phase 2, including histologically confirmed DLBCL (N = 77), PMBCL (N = 8), or DLBCL arising from follicular lymphoma, (N = 16) based on the 2008 WHO-classification. DLBCL in ZUMA-1 included patients with DLBCL not otherwise specified (NOS), other DLBCL subtypes, and HGBL based on the 2016 WHO-classification. Forty-seven patients were evaluable for MYC, BCL-2, and BCL-6 status. Thirty were found to have double expressor DLBCL (overexpression of both MYC and BCL-2 protein); 5 were found to have HGBL with MYC , BCL-2 or BCL-6 gene rearrangement (double- and triple-hit); and 2 were found to have HGBL not otherwise specified. Sixty-six patients were evaluable for cell-of-origin classifications (germinal center B-cell type [GCB] or activated B-cell type [ABC]). Of these, 49 patients had GCB-type and 17 patients had ABC-type.
 
 Eligible patients were ≥ 18 years of age with refractory disease defined as progressive disease (PD) or stable disease (SD) as best response to last line of therapy, or disease progression within 12 months after autologous stem cell transplant (ASCT). Patients who were refractory to chemotherapy or who relapsed after two or more lines of systemic therapy were generally ineligible for haematopoietic stem cell transplantation. Patients must have received at least prior anti-CD20 antibody therapy and an anthracycline containing regimen. Patients with CNS lymphoma, a history of allogeneic stem cell transplantation (SCT) or prior anti-CD19 CAR or other genetically modified T-cell therapy were excluded. Patients with a history of CNS disorders (such as seizures or cerebrovascular ischemia), cardiac ejection fraction of less than 50% or room air oxygen saturation of less than 92%, or autoimmune disease requiring systemic immunosuppression were ineligible. The median duration of follow-up was 63.1 months (still ongoing). A summary of the patient demographics is provided in Table 2.
 
@@ -577,11 +579,9 @@ ASCT, autologous stem cell transplant; ECOG, Eastern Cooperative Oncology Group;
 
 Yescarta was administered as a single infusion at a target dose of 2 × 10 6 anti-CD19 CAR T cells/kg after lymphodepleting chemotherapy regimen of 500 mg/m 2 intravenous cyclophosphamide and 30 mg/m 2 intravenous fludarabine on the 5 th , 4 th , and 3 rd day before Yescarta. Bridging chemotherapy between leukapheresis and lymphodepleting chemotherapy was not permitted. All patients were hospitalized for observation for a minimum of 7 days after Yescarta infusion.
 
-Of 111 patients who underwent leukapheresis, 101 received Yescarta. Nine patients were not treated, primarily due to progressive disease or serious adverse events after enrolment and prior to cell delivery. One out of 111 patients did not receive the product due to manufacturing failure. The median time from leukapheresis to product delivery was 17 days (range: 14 to 51 days), and the median time from leukapheresis to infusion was 24 days (range: 16 to 73 days). The median dose was 2.0 × 10 6
+Of 111 patients who underwent leukapheresis, 101 received Yescarta. Nine patients were not treated, primarily due to progressive disease or serious adverse events after enrolment and prior to cell delivery. One out of 111 patients did not receive the product due to manufacturing failure. The median time from leukapheresis to product delivery was 17 days (range: 14 to 51 days), and the median time from leukapheresis to infusion was 24 days (range: 16 to 73 days). The median dose was 2.0 × 10 6 anti-CD19 CAR T cells/kg. ITT was defined as all patients who underwent leukapheresis; mITT was defined as all patients who received Yescarta.
 
 <div style=\"page-break-after: always\"></div>
-
-anti-CD19 CAR T cells/kg. ITT was defined as all patients who underwent leukapheresis; mITT was defined as all patients who received Yescarta.
 
 The primary endpoint was objective response rate (ORR). Secondary endpoints included duration of response (DOR), overall survival (OS), and severity of adverse events. The ORR was prespecified to be tested in the first 92 treated patients and was significantly higher than the prespecified rate of 20% (P &lt; 0.0001).
 
@@ -608,11 +608,9 @@ Table 3. Summary of efficacy results for ZUMA-1 phase 2
 | 12 month OS (%) [95% CI]             | 59.3 (49.6, 67.8)                                | 59.5 (49.7, 67.9)                                | 60.4 (50.2, 69.2)                           | 60.4 (50.2, 69.2)                           |
 | 24 month OS (%) [95% CI]             | Not applicable                                   | 47.7 (38.2, 56.7)                                | Not applicable                              | 50.5 (40.4, 59.7)                           |
 
-CI, confidence interval; CR, complete response; DOR, duration of response; ITT, intention-to-treat; mITT, modified intention-to-treat; NE= Not estimable (not reached); ORR, objective response rate; OS, overall survival.
-
 <div style=\"page-break-after: always\"></div>
 
-a. Duration of response was censored at the time of SCT for patients who received SCT while in response Note: The 12-month analysis had a median follow-up of 15.1 months. The 24-month analysis had a median follow-up of 27.1 months. Overall survival relates to the time from the leukapheresis date (ITT) or Yescarta infusion (mITT) to death from any cause.
+CI, confidence interval; CR, complete response; DOR, duration of response; ITT, intention-to-treat; mITT, modified intention-to-treat; NE= Not estimable (not reached); ORR, objective response rate; OS, overall survival. a. Duration of response was censored at the time of SCT for patients who received SCT while in response Note: The 12-month analysis had a median follow-up of 15.1 months. The 24-month analysis had a median follow-up of 27.1 months. Overall survival relates to the time from the leukapheresis date (ITT) or Yescarta infusion (mITT) to death from any cause.
 
 ## SCHOLAR-1
 
@@ -628,9 +626,11 @@ In the overall study population, the median age was 59 years (range: 21 to 81 ye
 
 Patients in the Yescarta and SOCT arms were categorized as DLBCL NOS/without further classification possible (126 patients and 120 patients, respectively); DLBCL arising from follicular lymphoma (19 patients and 27 patients, respectively); HGBL with MYC , BCL2 , and/or BCL6 (doubleand triple-hit) rearrangements (31 patients and 25 patients, respectively) or HGBL NOS, (1 patient in the SOCT arm); the remaining subjects were categorized under not confirmed, missing, or other.
 
-Of the 180 patients randomised to receive Yescarta, 178 underwent leukapheresis and 170 were treated with Yescarta. Of the patients treated, 60 (33%) received bridging corticosteroid therapy. There were no manufacturing failures. Eight patients (4%) were not treated following leukapheresis, primarily due to progressive disease, serious adverse events, or death. The median time from leukapheresis to product release was 13 days (range: 10 to 24 days), and leukapheresis to Yescarta infusion was 26 days (range: 16 to 52 days). The median dose was 2.0 × 10 6 anti-CD19 CAR T cells/kg. All 170 patients who received Yescarta were monitored at a healthcare facility for a minimum of 7 days. Of the 179 patients randomised to receive SOCT, 64 patients (36%) received HDT-ASCT.
+Of the 180 patients randomised to receive Yescarta, 178 underwent leukapheresis and 170 were treated with Yescarta. Of the patients treated, 60 (33%) received bridging corticosteroid therapy. There were no manufacturing failures. Eight patients (4%) were not treated following leukapheresis, primarily due to progressive disease, serious adverse events, or death. The median time from leukapheresis to product release was 13 days (range: 10 to 24 days), and leukapheresis to Yescarta infusion was 26 days (range: 16 to 52 days). The median dose was 2.0 × 10 6 anti-CD19 CAR T
 
 <div style=\"page-break-after: always\"></div>
+
+cells/kg. All 170 patients who received Yescarta were monitored at a healthcare facility for a minimum of 7 days. Of the 179 patients randomised to receive SOCT, 64 patients (36%) received HDT-ASCT.
 
 The primary endpoint was event-free survival (EFS) as determined by blinded central review. Key secondary endpoints were ORR and OS. The summary of efficacy results in the overall population is shown in Table 4 and the Kaplan-Meier curves for EFS and OS are shown in Figure 1 and Figure 2, respectively. The 24-month EFS was 40.5% [95% CI: 33.2, 47.7] in the Yescarta arm and 16.3% [95% CI: 11.1, 22.2] in the SOCT arm. At the time of the primary EFS analysis, the median progression free survival (PFS) per central assessment in the Yescarta arm was 14.7 months (95% CI: 5.4, NE) compared with 3.7 months (95% CI: 2.9, 5.3) in the SOCT arm (HR: 0.490 [95% CI: 0.368, 0.652]). The median study duration was 24.9 months at the time of the primary EFS analysis and 47.2 months at the time of the primary OS analysis. The primary analysis of OS was performed at the protocolspecified timepoint of 5 years from the first subject enrolled. A statistically significant improvement in OS in favour of Yescarta was demonstrated (see Table 4). The estimated 48-month OS rates were 54.6% in the Yescarta arm and 46.0% in the SOCT arm. Fifty-seven percent of patients received cellular immunotherapy after no response to or relapse after randomisation to SOCT.
 
@@ -667,11 +667,6 @@ a. Per central assessment performed at the time of primary EFS analysis
 
 <div style=\"page-break-after: always\"></div>
 
-|                    | Median [95 %Cl]   | Stratified HR [95 %Cl]   | Stratified P-value   |
-|--------------------|-------------------|--------------------------|----------------------|
-| Axi-Cel (N = 180): | 8.3 (4.5, 15.8)   | 0.398 (0.308, 0.514)     | < 0.0001             |
-| SOCT (N = 179):    | 2.0 (1.6, 2.8)    |                          |                      |
-
 Figure 1. Kaplan-Meier Plot of Event-Free Survival in ZUMA-7
 
 <!-- image -->
@@ -691,27 +686,6 @@ Note: Subjects who did not respond to SOCT could receive subsequent treatment fo
 Figure 3. Forest Plot of Event-Free Survival in Selected Subgroups in ZUMA-7
 
 <!-- image -->
-
-| Subgroup                                                                                         | Axicabtagene Ciloleucel Event/N (%)   | Standard of Care Event/N (%)   | HR (95 %CI)                               |             |
-|--------------------------------------------------------------------------------------------------|---------------------------------------|--------------------------------|-------------------------------------------|-------------|
-| Overall                                                                                          | 108/180 (60)                          | 144/179 (80)                   | 0.398 (0.308, 0.514)                      |             |
-| Age                                                                                              |                                       |                                |                                           |             |
-| < 65                                                                                             | 81/129 (63)                           | 96/121 (79)                    | 0.490 (0.361, 0.666)                      |             |
-| ≥ 65                                                                                             | 27/51 (53)                            | 48/58 (83)                     | 0.276 (0.164, 0.465)                      |             |
-| ECOG performance status                                                                          |                                       |                                |                                           |             |
-| 0                                                                                                | 59/95 (62)                            | 76/100 (76)                    | 0.504 (0.356, 0.713)                      |             |
-| 1                                                                                                | 49/85 (58)                            | 68/79 (86)                     | 0.292 (0.195, 0.436)                      |             |
-| Second-line age-adjusted IPI score per IXRS                                                      |                                       |                                |                                           |             |
-| 0-1                                                                                              | 54/98 (55)                            | 73/100 (73)                    | 0.407 (0.285, 0.582)                      |             |
-| 2-3                                                                                              | 54/82 (66)                            | 71/79 (90)                     | 0.388 (0.269, 0.561)                      |             |
-| Response to first-line therapy per IXRS                                                          |                                       |                                |                                           |             |
-| Primary refractory                                                                               | 85/133 (64)                           | 106/131 (81)                   | 0.426 (0.319, 0.570)                      |             |
-| Relapse ≤ 12 months of first line therapy                                                        | 23/47 (49)                            | 38/48 (79)                     | 0.342 (0.202, 0.579)                      |             |
-| Central Laboratory Double Expressor Status                                                       |                                       |                                |                                           |             |
-| Double expressor lymphoma                                                                        | 35/57 (61)                            | 50/62 (81)                     | 0.424 (0.268, 0.671)                      |             |
-| Central Laboratory Disease Type                                                                  |                                       |                                |                                           |             |
-| DLBCL NOS/without further classification possible HGBL with or without MYC and BCL2 and/or BLCL6 | 79/126 (63) 15/31 (48)                | 95/120 (79) 21/26 (81)         | 0.443 (0.325, 0.603) 0.285 (0.137, 0.594) |             |
-|                                                                                                  |                                       |                                |                                           | Better SOCT |
 
 CI, confidence interval; HR, hazard ratio; IxRS, interactive voice/web response system; SOCT, standard of care. Note: At the time of the primary EFS analysis, disease type by central laboratory was confirmed in 303 of 359 patients, the remaining patients were categorised by the central laboratory as not confirmed, missing or other.
 
@@ -1225,8 +1199,8 @@ This medicine is subject to additional monitoring. This will allow quick identif
 
 - -Keep this leaflet. You may need to read it again.
 - -If you have any further questions, ask your doctor or nurse.
-- -Your doctor will give you a Patient Alert Card. Read it carefully and follow the instructions on it.
-- -Always show the Patient Alert Card to the doctor or nurse when you see them or if you go to hospital.
+- -Your doctor will give you a Patient Card. Read it carefully and follow the instructions on it.
+- -Always show the Patient Card to the doctor or nurse when you see them or if you go to hospital.
 - -If you get any side effects, talk to your doctor or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
@@ -1425,6 +1399,7 @@ Other serious side effects which require immediate medical care are:
 ## Uncommon (may affect up to 1 in 100 people)
 
 - -Condition of severe systemic inflammation which symptoms may include fever, rash, enlarged liver, spleen and lymph nodes.
+- -Swelling of the brain (cerebral oedema).
 - -Improper functioning of at least 2 organs (eg, liver, lungs and kidneys) that requires medical treatment and/or procedures to restore normal organ function.
 
 ## Other possible side effects

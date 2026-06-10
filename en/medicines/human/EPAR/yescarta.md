@@ -1,21 +1,97 @@
 ---
-document_datetime: 2026-05-19 16:16:00
+document_datetime: 2026-06-08 17:04:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/yescarta.html
 document_name: yescarta.html
 version: success
-processing_time: 0.1356417
-conversion_datetime: 2026-05-22 22:31:36.9613
+processing_time: 0.1468664
+conversion_datetime: 2026-06-10 13:32:59.053014
 docling_version:
-  docling-serve: 1.20.0
-  docling-jobkit: 1.20.0
-  docling: 2.95.0
-  docling-core: 2.77.0
-  docling-ibm-models: 3.13.2
-  docling-parse: 5.11.0
+  docling-serve: 1.22.0
+  docling-jobkit: 1.21.0
+  docling: 2.100.0
+  docling-core: 2.80.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 6.2.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
 ---
+# Search
+
+- [Medicines](/en/medicines)
+    - [Find medicine](/en/medicines)
+    - [Therapeutic areas: latest updates](/en/medicines/therapeutic-areas-latest-updates)
+    - [Download medicine data](/en/medicines/download-medicine-data)
+    - [What we publish on medicines and when](/en/medicines/what-we-publish-medicines-when)
+    - [Medicines under evaluation](/en/medicines/medicines-human-use-under-evaluation)
+    - [National registers](/en/medicines/national-registers-authorised-medicines)
+- [Human regulatory](/en/human-regulatory-overview)
+    - [Overview](/en/human-regulatory-overview)
+    - [Research and development](/en/human-regulatory-overview/research-development)
+    - [Marketing authorisation](/en/human-regulatory-overview/marketing-authorisation)
+    - [Post-authorisation](/en/human-regulatory-overview/post-authorisation)
+    - [Medical devices](/en/human-regulatory-overview/medical-devices)
+    - [Herbal products](/en/human-regulatory-overview/herbal-medicinal-products)
+- [Veterinary regulatory](/en/veterinary-regulatory-overview)
+    - [Overview](/en/veterinary-regulatory-overview)
+    - [Research and development](/en/veterinary-regulatory-overview/research-development-veterinary-medicines)
+    - [Marketing authorisation](/en/veterinary-regulatory-overview/marketing-authorisation-veterinary-medicines)
+    - [Post-authorisation](/en/veterinary-regulatory-overview/post-authorisation-veterinary-medicines)
+- [Committees](/en/committees)
+    - [Overview](/en/committees)
+    - [How the committees work](/en/committees/how-committees-work)
+    - [CHMP](/en/committees/committee-medicinal-products-human-use-chmp)
+    - [CVMP](/en/committees/committee-veterinary-medicinal-products-cvmp)
+    - [PRAC](/en/committees/pharmacovigilance-risk-assessment-committee-prac)
+    - [COMP](/en/committees/committee-orphan-medicinal-products-comp)
+    - [HMPC](/en/committees/committee-herbal-medicinal-products-hmpc)
+    - [CAT](/en/committees/committee-advanced-therapies-cat)
+    - [PDCO](/en/committees/paediatric-committee-pdco)
+    - [Working parties and other groups](/en/committees/working-parties-other-groups)
+- [News &amp; events](/en/news-events)
+    - [Overview](/en/news-events)
+    - [News](/en/news)
+    - [Events](/en/events/upcoming-events)
+    - [What's new](/en/news-events/whats-new)
+    - [Committee highlights](/en/news-events/committee-highlights)
+    - [Publications](/en/news-and-events/publications)
+    - [Press and social media](/en/news-events/press-social-media)
+    - [Podcast: Inside EMA](/en/news-events/podcast-inside-ema)
+    - [EMA Campaigns](/en/news-events/ema-campaigns)
+    - [Open consultations](/en/news-events/open-consultations)
+    - [RSS feeds](/en/news-events/rss-feeds)
+- [Partners &amp; networks](/en/partners-networks)
+    - [Overview](/en/partners-networks)
+    - [EU partners](/en/partners-networks/eu-partners)
+    - [International activities](/en/partners-networks/international-activities)
+    - [Patients and consumers](/en/partners-networks/patients-consumers)
+    - [Healthcare professionals](/en/partners-networks/healthcare-professionals)
+    - [Academia](/en/partners-networks/academia)
+    - [Pharmaceutical industry](/en/partners-networks/pharmaceutical-industry)
+    - [Networks](/en/partners-networks/networks)
+    - [Health technology assessment bodies](/en/partners-networks/health-technology-assessment-bodies)
+    - [One Health approach](/en/partners-networks/one-health-approach)
+    - [Animal health practitioners](/en/partners-networks/animal-health-practitioners)
+    - [One substance - one assessment](/en/partners-networks/one-substance-one-assessment-osoa-eu-collaboration-chemicals-related-data)
+- [About us](/en/about-us)
+    - [Overview](/en/about-us)
+    - [What we do](/en/about-us/what-we-do)
+    - [Who we are](/en/about-us/who-we-are)
+    - [How we work](/en/about-us/how-we-work)
+    - [Fees](/en/about-us/fees-payable-european-medicines-agency)
+    - [Support to SMEs](/en/about-us/support-smes)
+    - [Annual reports and work programmes](/en/about-us/annual-reports-work-programmes)
+    - [History of EMA](/en/about-us/history-ema)
+    - [Careers](/en/about-us/careers)
+    - [Procurement](/en/about-us/procurement-grants)
+    - [About this website](/en/about-us/about-website)
+    - [Data protection and privacy](/en/about-us/data-protection-privacy-ema)
+    - [Contacts](/en/about-us/contacts-european-medicines-agency)
+
+1. [Home](/en/homepage)
+2. [Medicines](https://www.ema.europa.eu/en/medicines)
+3. Yescarta
+
 # Yescarta
 
 [RSS](/en/individual-human-medicine.xml/65937)
@@ -66,7 +142,7 @@ Expand section
 
 Collapse section
 
-## How is Yescarta used?
+### How is Yescarta used?
 
 Yescarta is prepared using the patient's own white blood cells which are extracted from the blood, genetically modified in the laboratory, and then given back to the patient.
 
@@ -78,13 +154,13 @@ Patients should be closely monitored for 10 days after treatment for side effect
 
 For more information about using Yescarta, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Yescarta work?
+### How does Yescarta work?
 
 Yescarta contains the patient's own T cells (a type of white blood cell) that have been modified genetically in the laboratory so that they make a protein called chimeric antigen receptor (CAR). CAR can attach to another protein on the surface of cancer cells called CD19.
 
 When Yescarta is given to the patient, the modified T cells attach to cancer cells and kill them, thereby helping to clear the cancer from the body.
 
-## What benefits of Yescarta have been shown in studies?
+### What benefits of Yescarta have been shown in studies?
 
 **High-grade B-cell lymphoma (HGBL) and diffuse large B-cell lymphoma (DLBCL) after one line of treatment**
 
@@ -102,19 +178,19 @@ A main study of 75 patients with FL that, after at least three previous treatmen
 
 These results were better than those seen in studies with patients receiving standard treatments for FL.
 
-## What are the risks associated with Yescarta?
+### What are the risks associated with Yescarta?
 
 Serious side effects may occur in about 1 in 2 patients. The most common serious side effects are cytokine release syndrome (a potentially life-threatening condition that can cause fever, vomiting, shortness of breath, pain and low blood pressure), encephalopathy (a brain disorder associated with headache, sleepiness and mental confusion) and infections.
 
 Yescarta must not be used in patients allergic to gentamicin (a type of antibiotic).  For the full list of side effects and restrictions with Yescarta, see the package leaflet.
 
-## Why is Yescarta authorised in the EU?
+### Why is Yescarta authorised in the EU?
 
 A main study showed that Yescarta is effective at clearing the cancer in many patients with DLBCL, HGBL and PMBCL that was not responding to previous treatment or had returned. The number of patients who were cleared of the cancer or had at least a partial response was higher than in patients receiving standard care. Another study also showed that the medicine is effective at clearing the cancer in many patients with FL that, after at least three previous treatments, was not responding or had returned.
 
 Serious side effects, particularly cytokine release syndrome, are common in patients being treated with Yescarta; however these are manageable if appropriate measures are in place (see below). The European Medicines Agency therefore decided that Yescarta's benefits are greater than its risks and it can be authorised for use in the EU.
 
-## What measures are being taken to ensure the safe and effective use of Yescarta?
+### What measures are being taken to ensure the safe and effective use of Yescarta?
 
 The company that markets Yescarta must ensure that hospitals where Yescarta is given have appropriate expertise, facilities and training. Tocilizumab or a suitable alternative must be available in case of cytokine release syndrome. The company must provide educational materials for healthcare professionals and patients about possible side effects, especially cytokine release syndrome.
 
@@ -124,7 +200,7 @@ Recommendations and precautions to be followed by healthcare professionals and p
 
 As for all medicines, data on the use of Yescarta are continuously monitored. Side effects reported with Yescarta are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Yescarta
+### Other information about Yescarta
 
 Yescarta received a marketing authorisation valid throughout the EU on 23 August 2018.
 
@@ -138,7 +214,7 @@ English (EN) (148.77 KB - PDF)
 
 [View](/en/documents/overview/yescarta-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-621)
+[Other languages (22)](#file-language-dropdown-164)
 
 български (BG) (175.66 KB - PDF)
 
@@ -170,7 +246,7 @@ Deutsch (DE) (152.67 KB - PDF)
 
 [View](/de/documents/overview/yescarta-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (135.14 KB - PDF)
+eesti (ET) (135.14 KB - PDF)
 
 **First published:** 10/09/2018 **Last updated:** 16/12/2022
 
@@ -200,13 +276,13 @@ italiano (IT) (147.81 KB - PDF)
 
 [View](/it/documents/overview/yescarta-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (190.11 KB - PDF)
+latviešu (LV) (190.11 KB - PDF)
 
 **First published:** 10/09/2018 **Last updated:** 16/12/2022
 
 [View](/lv/documents/overview/yescarta-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (171.48 KB - PDF)
+lietuvių (LT) (171.48 KB - PDF)
 
 **First published:** 10/09/2018 **Last updated:** 16/12/2022
 
@@ -260,7 +336,7 @@ slovenščina (SL) (170.03 KB - PDF)
 
 [View](/sl/documents/overview/yescarta-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (145.26 KB - PDF)
+suomi (FI) (145.26 KB - PDF)
 
 **First published:** 10/09/2018 **Last updated:** 16/12/2022
 
@@ -284,161 +360,161 @@ English (EN) (1.8 MB - PDF)
 
 Yescarta : EPAR - Product Information
 
-English (EN) (507.98 KB - PDF)
+English (EN) (494.09 KB - PDF)
 
-**First published:** 10/09/2018 **Last updated:** 19/05/2026
+**First published:** 10/09/2018 **Last updated:** 08/06/2026
 
 [View](/en/documents/product-information/yescarta-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-908)
+[Other languages (24)](#file-language-dropdown-589)
 
-български (BG) (834.91 KB - PDF)
+български (BG) (836.1 KB - PDF)
 
-**First published:** 10/09/2018 **Last updated:** 19/05/2026
+**First published:** 10/09/2018 **Last updated:** 08/06/2026
 
 [View](/bg/documents/product-information/yescarta-epar-product-information_bg.pdf)
 
-español (ES) (625.58 KB - PDF)
+español (ES) (505.81 KB - PDF)
 
-**First published:** 10/09/2018 **Last updated:** 19/05/2026
+**First published:** 10/09/2018 **Last updated:** 08/06/2026
 
 [View](/es/documents/product-information/yescarta-epar-product-information_es.pdf)
 
-čeština (CS) (775.66 KB - PDF)
+čeština (CS) (776.81 KB - PDF)
 
-**First published:** 10/09/2018 **Last updated:** 19/05/2026
+**First published:** 10/09/2018 **Last updated:** 08/06/2026
 
 [View](/cs/documents/product-information/yescarta-epar-product-information_cs.pdf)
 
-dansk (DA) (606.34 KB - PDF)
+dansk (DA) (607.86 KB - PDF)
 
-**First published:** 10/09/2018 **Last updated:** 19/05/2026
+**First published:** 10/09/2018 **Last updated:** 08/06/2026
 
 [View](/da/documents/product-information/yescarta-epar-product-information_da.pdf)
 
-Deutsch (DE) (653.23 KB - PDF)
+Deutsch (DE) (658.21 KB - PDF)
 
-**First published:** 10/09/2018 **Last updated:** 19/05/2026
+**First published:** 10/09/2018 **Last updated:** 08/06/2026
 
 [View](/de/documents/product-information/yescarta-epar-product-information_de.pdf)
 
-eesti keel (ET) (609.5 KB - PDF)
+eesti (ET) (460.21 KB - PDF)
 
-**First published:** 10/09/2018 **Last updated:** 19/05/2026
+**First published:** 10/09/2018 **Last updated:** 08/06/2026
 
 [View](/et/documents/product-information/yescarta-epar-product-information_et.pdf)
 
-ελληνικά (EL) (825.48 KB - PDF)
+ελληνικά (EL) (824.44 KB - PDF)
 
-**First published:** 10/09/2018 **Last updated:** 19/05/2026
+**First published:** 10/09/2018 **Last updated:** 08/06/2026
 
 [View](/el/documents/product-information/yescarta-epar-product-information_el.pdf)
 
-français (FR) (633.26 KB - PDF)
+français (FR) (491.88 KB - PDF)
 
-**First published:** 10/09/2018 **Last updated:** 19/05/2026
+**First published:** 10/09/2018 **Last updated:** 08/06/2026
 
 [View](/fr/documents/product-information/yescarta-epar-product-information_fr.pdf)
 
-hrvatski (HR) (768.32 KB - PDF)
+hrvatski (HR) (646.35 KB - PDF)
 
-**First published:** 10/09/2018 **Last updated:** 19/05/2026
+**First published:** 10/09/2018 **Last updated:** 08/06/2026
 
 [View](/hr/documents/product-information/yescarta-epar-product-information_hr.pdf)
 
-íslenska (IS) (609.8 KB - PDF)
+italiano (IT) (467.42 KB - PDF)
 
-**First published:** 10/09/2018 **Last updated:** 19/05/2026
-
-[View](/is/documents/product-information/yescarta-epar-product-information_is.pdf)
-
-italiano (IT) (618.5 KB - PDF)
-
-**First published:** 10/09/2018 **Last updated:** 19/05/2026
+**First published:** 10/09/2018 **Last updated:** 08/06/2026
 
 [View](/it/documents/product-information/yescarta-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (791.49 KB - PDF)
+latviešu (LV) (677.43 KB - PDF)
 
-**First published:** 10/09/2018 **Last updated:** 19/05/2026
+**First published:** 10/09/2018 **Last updated:** 08/06/2026
 
 [View](/lv/documents/product-information/yescarta-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (753.87 KB - PDF)
+lietuvių (LT) (646.74 KB - PDF)
 
-**First published:** 10/09/2018 **Last updated:** 19/05/2026
+**First published:** 10/09/2018 **Last updated:** 08/06/2026
 
 [View](/lt/documents/product-information/yescarta-epar-product-information_lt.pdf)
 
-magyar (HU) (763.44 KB - PDF)
+magyar (HU) (648.26 KB - PDF)
 
-**First published:** 10/09/2018 **Last updated:** 19/05/2026
+**First published:** 10/09/2018 **Last updated:** 08/06/2026
 
 [View](/hu/documents/product-information/yescarta-epar-product-information_hu.pdf)
 
-Malti (MT) (808.93 KB - PDF)
+Malti (MT) (690.92 KB - PDF)
 
-**First published:** 10/09/2018 **Last updated:** 19/05/2026
+**First published:** 10/09/2018 **Last updated:** 08/06/2026
 
 [View](/mt/documents/product-information/yescarta-epar-product-information_mt.pdf)
 
-Nederlands (NL) (614.28 KB - PDF)
+Nederlands (NL) (502.35 KB - PDF)
 
-**First published:** 10/09/2018 **Last updated:** 19/05/2026
+**First published:** 10/09/2018 **Last updated:** 08/06/2026
 
 [View](/nl/documents/product-information/yescarta-epar-product-information_nl.pdf)
 
-norsk (NO) (593.83 KB - PDF)
+polski (PL) (652.17 KB - PDF)
 
-**First published:** 10/09/2018 **Last updated:** 19/05/2026
-
-[View](/no/documents/product-information/yescarta-epar-product-information_no.pdf)
-
-polski (PL) (807.35 KB - PDF)
-
-**First published:** 10/09/2018 **Last updated:** 19/05/2026
+**First published:** 10/09/2018 **Last updated:** 08/06/2026
 
 [View](/pl/documents/product-information/yescarta-epar-product-information_pl.pdf)
 
-português (PT) (610.53 KB - PDF)
+português (PT) (493.35 KB - PDF)
 
-**First published:** 10/09/2018 **Last updated:** 19/05/2026
+**First published:** 10/09/2018 **Last updated:** 08/06/2026
 
 [View](/pt/documents/product-information/yescarta-epar-product-information_pt.pdf)
 
-română (RO) (769.23 KB - PDF)
+română (RO) (617.52 KB - PDF)
 
-**First published:** 10/09/2018 **Last updated:** 19/05/2026
+**First published:** 10/09/2018 **Last updated:** 08/06/2026
 
 [View](/ro/documents/product-information/yescarta-epar-product-information_ro.pdf)
 
-slovenčina (SK) (791.98 KB - PDF)
+slovenčina (SK) (653.03 KB - PDF)
 
-**First published:** 10/09/2018 **Last updated:** 19/05/2026
+**First published:** 10/09/2018 **Last updated:** 08/06/2026
 
 [View](/sk/documents/product-information/yescarta-epar-product-information_sk.pdf)
 
-slovenščina (SL) (730.99 KB - PDF)
+slovenščina (SL) (606.73 KB - PDF)
 
-**First published:** 10/09/2018 **Last updated:** 19/05/2026
+**First published:** 10/09/2018 **Last updated:** 08/06/2026
 
 [View](/sl/documents/product-information/yescarta-epar-product-information_sl.pdf)
 
-Suomi (FI) (632.6 KB - PDF)
+suomi (FI) (479.79 KB - PDF)
 
-**First published:** 10/09/2018 **Last updated:** 19/05/2026
+**First published:** 10/09/2018 **Last updated:** 08/06/2026
 
 [View](/fi/documents/product-information/yescarta-epar-product-information_fi.pdf)
 
-svenska (SV) (647.01 KB - PDF)
+svenska (SV) (507.28 KB - PDF)
 
-**First published:** 10/09/2018 **Last updated:** 19/05/2026
+**First published:** 10/09/2018 **Last updated:** 08/06/2026
 
 [View](/sv/documents/product-information/yescarta-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000308229
+Íslenska (IS) (481.8 KB - PDF)
 
-23/04/2026
+**First published:** 10/09/2018 **Last updated:** 08/06/2026
+
+[View](/is/documents/product-information/yescarta-epar-product-information_is.pdf)
+
+norsk (NO) (441.98 KB - PDF)
+
+**First published:** 10/09/2018 **Last updated:** 08/06/2026
+
+[View](/no/documents/product-information/yescarta-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** VR/0000350867
+
+08/06/2026
 
 icon globe
 
@@ -462,7 +538,7 @@ English (EN) (41.13 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/yescarta-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-931)
+[Other languages (24)](#file-language-dropdown-710)
 
 български (BG) (72.17 KB - PDF)
 
@@ -494,7 +570,7 @@ Deutsch (DE) (48.01 KB - PDF)
 
 [View](/de/documents/all-authorised-presentations/yescarta-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (96.22 KB - PDF)
+eesti (ET) (96.22 KB - PDF)
 
 **First published:** 10/09/2018 **Last updated:** 10/09/2018
 
@@ -518,25 +594,19 @@ hrvatski (HR) (85.25 KB - PDF)
 
 [View](/hr/documents/all-authorised-presentations/yescarta-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (78 KB - PDF)
-
-**First published:** 10/09/2018 **Last updated:** 10/09/2018
-
-[View](/is/documents/all-authorised-presentations/yescarta-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (48.25 KB - PDF)
 
 **First published:** 10/09/2018 **Last updated:** 10/09/2018
 
 [View](/it/documents/all-authorised-presentations/yescarta-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (111.1 KB - PDF)
+latviešu (LV) (111.1 KB - PDF)
 
 **First published:** 10/09/2018 **Last updated:** 10/09/2018
 
 [View](/lv/documents/all-authorised-presentations/yescarta-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (113.56 KB - PDF)
+lietuvių (LT) (113.56 KB - PDF)
 
 **First published:** 10/09/2018 **Last updated:** 10/09/2018
 
@@ -559,12 +629,6 @@ Nederlands (NL) (74.05 KB - PDF)
 **First published:** 10/09/2018 **Last updated:** 10/09/2018
 
 [View](/nl/documents/all-authorised-presentations/yescarta-epar-all-authorised-presentations_nl.pdf)
-
-norsk (NO) (62.97 KB - PDF)
-
-**First published:** 10/09/2018 **Last updated:** 10/09/2018
-
-[View](/no/documents/all-authorised-presentations/yescarta-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (100.14 KB - PDF)
 
@@ -596,7 +660,7 @@ slovenščina (SL) (91.9 KB - PDF)
 
 [View](/sl/documents/all-authorised-presentations/yescarta-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (41.61 KB - PDF)
+suomi (FI) (41.61 KB - PDF)
 
 **First published:** 10/09/2018 **Last updated:** 10/09/2018
 
@@ -607,6 +671,18 @@ svenska (SV) (72.5 KB - PDF)
 **First published:** 10/09/2018 **Last updated:** 10/09/2018
 
 [View](/sv/documents/all-authorised-presentations/yescarta-epar-all-authorised-presentations_sv.pdf)
+
+Íslenska (IS) (78 KB - PDF)
+
+**First published:** 10/09/2018 **Last updated:** 10/09/2018
+
+[View](/is/documents/all-authorised-presentations/yescarta-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (62.97 KB - PDF)
+
+**First published:** 10/09/2018 **Last updated:** 10/09/2018
+
+[View](/no/documents/all-authorised-presentations/yescarta-epar-all-authorised-presentations_no.pdf)
 
 ## Product details
 
@@ -669,7 +745,7 @@ Marketing authorisation holder
 
 Kite Pharma EU B.V.
 
-Tufsteen 1
+Tufsteen 1 2132 NT Hoofddorp The Netherlands
 
 Opinion adopted
 
@@ -681,7 +757,7 @@ Marketing authorisation issued
 
 Revision
 
-23
+24
 
 ## Assessment history
 
@@ -689,13 +765,13 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Yescarta : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (153.78 KB - PDF)
+English (EN) (163.33 KB - PDF)
 
-**First published:** 20/08/2025 **Last updated:** 19/05/2026
+**First published:** 20/08/2025 **Last updated:** 08/06/2026
 
 [View](/en/documents/procedural-steps-after/yescarta-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -787,7 +863,7 @@ English (EN) (139.07 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/yescarta-h-c-psusa-00010703-201904-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Yescarta : Orphan maintenance assessment report (initial authorisation)
 
@@ -862,6 +938,6 @@ English (EN) (64.65 KB - PDF)
 
 **This page was last updated on**
 
-19/05/2026
+08/06/2026
 
 ## Share this page

@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-03-20 16:05:28
+document_datetime: 2026-06-09 11:33:12
 document_pages: 28
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/scintimun-epar-product-information_en.pdf
 document_name: scintimun-epar-product-information_en.pdf
 version: success
-processing_time: 5.3100245
-conversion_datetime: 2025-12-22 13:10:07.15283
+processing_time: 8.5024013
+conversion_datetime: 2026-06-10 13:45:57.685875
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.22.0
+  docling-jobkit: 1.21.0
+  docling: 2.100.0
+  docling-core: 2.80.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 6.2.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -203,15 +203,13 @@ Within each frequency grouping, adverse reactions are presented in order of decr
 | Immune system disorders                         | Anaphylactic/anaphylactoid reaction               | Rare        |
 |                                                 | Hypersensitivity, including angioedema, urticaria | Uncommon    |
 | Vascular disorders                              | Hypotension                                       | Common      |
-| Musculoskeletal and connective tissue disorders | Myalgia, arthralgia                               | Rare        |
-| Investigations                                  |                                                   | Very common |
-|                                                 | Human anti-mouse antibody positive                |             |
+| Musculoskeletal and connective tissue disorders | Myalgia,                                          |             |
+| Investigations                                  | arthralgia                                        | Rare        |
+|                                                 | Human anti-mouse antibody positive                | Very common |
 
-Exposure to ionising radiation is linked with cancer induction and a potential for development of hereditary defects. For diagnostic nuclear medicine investigations the frequency of these adverse
+Exposure to ionising radiation is linked with cancer induction and a potential for development of hereditary defects. For diagnostic nuclear medicine investigations the frequency of these adverse reactions is not known. As the effective dose is about 6.9 mSv when the maximal  recommended activity of 800 MBq is administered these adverse reactions are expected to occur with a low probability.
 
 <div style=\"page-break-after: always\"></div>
-
-reactions is not known. As the effective dose is about 6.9 mSv when the maximal  recommended activity of 800 MBq is administered these adverse reactions are expected to occur with a low probability.
 
 ## Reporting of suspected adverse reactions
 
@@ -487,7 +485,7 @@ Detailed information on this medicinal product is available on the website of th
 - A. MANUFACTURER OF THE BIOLOGICAL ACTIVE SUBSTANCE AND MANUFACTURER RESPONSIBLE FOR BATCH RELEASE
 - B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 - C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
-- D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
+- D. conditions or restrictions with regard to the safe and effective use of the medicinal product
 
 <div style=\"page-break-after: always\"></div>
 
@@ -653,7 +651,9 @@ no Blue Box included
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
-Scintimun 1 mg kit for radiopharmaceutical preparation Besilesomab Intravenous use
+Scintimun 1 mg kit for radiopharmaceutical preparation Besilesomab
+
+Intravenous use
 
 ## 2. METHOD OF ADMINISTRATION
 
@@ -725,11 +725,7 @@ Additional label after reconstitution and radiolabelling with sodium pertechneta
 
 ## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
 
-99m Tc
-
-MBq ml
-
-hour/date
+99m Tc MBq ml hour/date
 
 ## 6. OTHER
 
@@ -878,11 +874,9 @@ Possible side effects are listed in the order of their frequency below:
 
 ## Very common (may affect more than 1 in 10 people):
 
-Development of human anti-mouse antibodies reacting against the antibody in Scintimun (antibody of the mouse cells) with a risk of allergic reaction
+Development of human anti-mouse antibodies reacting against the antibody in Scintimun (antibody of the mouse cells) with a risk of allergic reaction Common (may affect up to 1 in 10 people):
 
 <div style=\"page-break-after: always\"></div>
-
-Common (may affect up to 1 in 10 people):
 
 Low blood pressure
 
@@ -890,7 +884,7 @@ Uncommon
 
 (may affect up to 1 in 100 people): Allergic reaction, including swelling of the face, hives (urticaria)
 
-## Rare (may affect up to 1 in 1,000 people):
+Rare (may affect up to 1 in 1,000 people):
 
 - Serious allergic reaction which causes difficulty in breathing or dizziness
 - Muscle or joint pain
@@ -939,7 +933,25 @@ Marketing Authorisation Holder TELIX INNOVATIONS Rue De Hermée 255 4040 Herstal
 
 CIS BIO INTERNATIONAL B.P. 32 F-91192 Gif-sur-Yvette Cedex France
 
-## This leaflet was last revised in { MM/YYYY }.
+For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
+
+België/Belgique/Belgien, България, Danmark, Deutschland, Eesti, España, France, Hrvatska, Ireland, Ísland, Italia, Κύπρος, Latvija, Lietuva, Luxembourg/Luxemburg, Magyarország, Malta, Nederland, Norge, Österreich, Polska, Portugal, România, Slovenija, Slovenská republika, Suomi/Finland, Sverige
+
+TELIX INNOVATIONS
+
+e-mail: info@telixpharma.com
+
+## Česká republika
+
+NJ Pharma Consulting s.r.o. Tel: +421 911 862 415
+
+Ελλάδα
+
+ΒΙΟΚΟΣΜΟΣ ΑΕΒΕ
+
+Τηλ: +30 22920 63900
+
+This leaflet was last revised in { MM/YYYY }.
 
 ## Other sources of information
 
